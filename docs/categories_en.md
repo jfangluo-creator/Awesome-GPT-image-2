@@ -33,6 +33,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
 - [Case 1: Cinematic Desert Oasis Traveler](cases-001-100.md#-例-1沙漠绿洲旅人cinematic-desert-oasis-traveler) — Cinematic desert documentary photography
+- [Case 2: Maldives Water Villa](cases-001-100.md#-例-2马尔代夫水上别墅奢华视觉效果) — Luxury hotel commercial photography
 
 ---
 
