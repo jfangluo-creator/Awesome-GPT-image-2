@@ -29,12 +29,12 @@
 
 ## 精选案例
 
-### 📷 Cinematic Desert Oasis Traveler
+### 📷 例 1：沙漠绿洲旅人（Cinematic Desert Oasis Traveler）
 
-![Cinematic Desert Oasis Traveler](images/Cinematic%20Desert%20Oasis%20Traveler.jpg)
+![沙漠绿洲旅人](images/Cinematic%20Desert%20Oasis%20Traveler.jpg)
 
 **Prompt:**
-> Create a cinematic photorealistic wide shot of a weary desert traveler kneeling at the edge of a shallow oasis pool, leaning forward and cupping water in both hands to drink or wash their face. The subject wears layered, dusty, earth-toned nomadic robes, a wrapped turban, loose trousers, worn fabric scarves, and rough travel clothing, with wet hands and streams of water dripping back into the pool, creating small splashes and concentric ripples. The face is intentionally obscured by a plain dark brown square censor block centered over the head, while the body language remains intimate and exhausted. Set the scene in a lush desert oasis with tall palm trees, reeds, shrubs, smooth stones, and reflective still water; the low golden sunrise shines from the right side through the palms, creating warm backlight, lens glow, long shadows, misty atmosphere, and shimmering reflections on the water. Use a dramatic documentary film still style, ultra-realistic textures, shallow depth of field, warm amber and sepia color grading, high dynamic range, detailed fabric fibers, visible droplets, natural dust and grime, 16:9 composition, subject placed on the left foreground with the oasis stretching into the bright background, shot as if on a cinema camera with anamorphic softness and realistic environmental lighting.
+> Create a cinematic photorealistic wide shot of {argument name="subject" default="a weary desert traveler"} kneeling at the edge of a shallow oasis pool, leaning forward and cupping water in both hands to drink or wash their face. The subject wears layered, dusty, earth-toned nomadic robes, a wrapped turban, loose trousers, worn fabric scarves, and rough travel clothing, with wet hands and streams of water dripping back into the pool, creating small splashes and concentric ripples. The face is intentionally obscured by a plain dark brown square censor block centered over the head, while the body language remains intimate and exhausted. Set the scene in a lush desert oasis with {argument name="background setting" default="tall palm trees, reeds, shrubs, smooth stones, and reflective still water"}; the low {argument name="time of day" default="golden sunrise"} shines from the right side through the palms, creating warm backlight, lens glow, long shadows, misty atmosphere, and shimmering reflections on the water. Use a dramatic documentary film still style, ultra-realistic textures, shallow depth of field, warm amber and sepia color grading, high dynamic range, detailed fabric fibers, visible droplets, natural dust and grime, 16:9 composition, subject placed on the left foreground with the oasis stretching into the bright background, shot as if on a cinema camera with anamorphic softness and realistic environmental lighting.
 
 **来源：** [@jznode](https://x.com/jznode/status/2052452475844559301) | 2026-05-08
 
@@ -68,7 +68,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
-**Cinematic Desert Oasis Traveler** — 电影级纪实摄影，沙漠绿洲旅人饮水场景，琥珀色调宽画幅构图。[[查看精选案例]](#-cinematic-desert-oasis-traveler)
+- [例 1：沙漠绿洲旅人（Cinematic Desert Oasis Traveler）](#-例-1沙漠绿洲旅人cinematic-desert-oasis-traveler) — 电影级纪实摄影，沙漠绿洲旅人饮水场景，琥珀色调宽画幅构图
 
 ---
 
