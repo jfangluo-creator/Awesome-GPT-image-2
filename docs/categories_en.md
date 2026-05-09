@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ UI & Digital Interfaces
+## 🖥️ UI & Digital Interfaces (0)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -12,7 +12,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 ---
 
-## 📊 Charts & Infographics
+## 📊 Charts & Infographics (0)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -20,7 +20,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 ---
 
-## 🎴 Posters & Cards
+## 🎴 Posters & Cards (0)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -28,7 +28,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 ---
 
-## 📷 Photography & Realistic
+## 📷 Photography & Realistic (2)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -37,7 +37,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 ---
 
-## 🎨 Illustration & Art
+## 🎨 Illustration & Art (0)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -45,7 +45,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 ---
 
-## 🧍 Character Design
+## 🧍 Character Design (0)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -53,7 +53,7 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 
 ---
 
-## 🧸 3D Objects & Miniature Worlds
+## 🧸 3D Objects & Miniature Worlds (0)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -61,7 +61,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 ---
 
-## 🏛️ Architecture & Space
+## 🏛️ Architecture & Space (0)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -69,7 +69,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 ---
 
-## 🎬 Comics & Storyboards
+## 🎬 Comics & Storyboards (0)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -77,7 +77,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 ---
 
-## 🏷️ Brand & Packaging
+## 🏷️ Brand & Packaging (0)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -85,7 +85,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 ---
 
-## 🔧 Image Editing & Transforms
+## 🔧 Image Editing & Transforms (0)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -93,7 +93,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 ---
 
-## 🧪 Creative Experiments
+## 🧪 Creative Experiments (0)
 
 Surreal composites (giant statues/creatures), novel ideas (constellation maps/fisheye/VR effects), time-travel mashups, fun transformations.
 
