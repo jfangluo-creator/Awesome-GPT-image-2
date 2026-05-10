@@ -12,18 +12,18 @@ English | [中文](README.md)
 
 | Category | Description |
 |----------|-------------|
-| 🖥️ [UI & Digital Interfaces](docs/categories_en.md#-ui--digital-interfaces) | Apps, web pages, dashboards, social media screenshots, game UI |
-| 📊 [Charts & Infographics](docs/categories_en.md#-charts--infographics) | Infographics, flowcharts, data viz, annotated diagrams, exploded views |
-| 🎴 [Posters & Cards](docs/categories_en.md#-posters--cards) | Movie posters, event posters, tarot cards, newspaper layouts, quote cards |
-| 📷 [Photography & Realistic](docs/categories_en.md#-photography--realistic) | Portraits, street photography, product photography, food photography |
-| 🎨 [Illustration & Art](docs/categories_en.md#-illustration--art) | Digital illustration, ink/oil/sketch, material art |
-| 🧍 [Character Design](docs/categories_en.md#-character-design) | Turnarounds, emoji packs, character breakdowns, evolution charts |
-| 🧸 [3D Objects & Miniature Worlds](docs/categories_en.md#-3d-objects--miniature-worlds) | Figures, Gundam, LEGO, dioramas, claw machines |
-| 🏛️ [Architecture & Space](docs/categories_en.md#️-architecture--space) | Interior design, architectural renders, floor plan to 3D, exhibitions |
-| 🎬 [Comics & Storyboards](docs/categories_en.md#-comics--storyboards) | Multi-panel comics, film storyboards, narrative scenes |
-| 🏷️ [Brand & Packaging](docs/categories_en.md#️-brand--packaging) | Logo design, product packaging, merchandise |
-| 🔧 [Image Editing & Transforms](docs/categories_en.md#-image-editing--transforms) | Style transfer, object removal, photo restoration, transparent BG |
-| 🧪 [Creative Experiments](docs/categories_en.md#-creative-experiments) | Surreal composites, novel ideas, time-travel mashups |
+| 🖥️ [UI & Digital Interfaces](docs/categories_en.md#ui) | Apps, web pages, dashboards, social media screenshots, game UI |
+| 📊 [Charts & Infographics](docs/categories_en.md#chart) | Infographics, flowcharts, data viz, annotated diagrams, exploded views |
+| 🎴 [Posters & Cards](docs/categories_en.md#poster) | Movie posters, event posters, tarot cards, newspaper layouts, quote cards |
+| 📷 [Photography & Realistic](docs/categories_en.md#photo) | Portraits, street photography, product photography, food photography |
+| 🎨 [Illustration & Art](docs/categories_en.md#illustration) | Digital illustration, ink/oil/sketch, material art |
+| 🧍 [Character Design](docs/categories_en.md#character) | Turnarounds, emoji packs, character breakdowns, evolution charts |
+| 🧸 [3D Objects & Miniature Worlds](docs/categories_en.md#3d) | Figures, Gundam, LEGO, dioramas, claw machines |
+| 🏛️ [Architecture & Space](docs/categories_en.md#architecture) | Interior design, architectural renders, floor plan to 3D, exhibitions |
+| 🎬 [Comics & Storyboards](docs/categories_en.md#comic) | Multi-panel comics, film storyboards, narrative scenes |
+| 🏷️ [Brand & Packaging](docs/categories_en.md#brand) | Logo design, product packaging, merchandise |
+| 🔧 [Image Editing & Transforms](docs/categories_en.md#edit) | Style transfer, object removal, photo restoration, transparent BG |
+| 🧪 [Creative Experiments](docs/categories_en.md#fun) | Surreal composites, novel ideas, time-travel mashups |
 
 ---
 

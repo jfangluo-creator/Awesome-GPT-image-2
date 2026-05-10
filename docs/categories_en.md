@@ -4,6 +4,8 @@
 
 ---
 
+<a id="ui"></a>
+
 ## 🖥️ UI & Digital Interfaces (2)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
@@ -13,6 +15,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 ---
 
+<a id="chart"></a>
+
 ## 📊 Charts & Infographics (1)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
@@ -20,6 +24,8 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 3: Weekly Fashion Guide](cases-001-100.md#-例-3一周穿搭指南) — 7-day lookbook infographic
 
 ---
+
+<a id="poster"></a>
 
 ## 🎴 Posters & Cards (2)
 
@@ -29,6 +35,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5: City Theme Poster](cases-001-100.md#-例-5城市主题海报) — Guochao-style city promo poster
 
 ---
+
+<a id="photo"></a>
 
 ## 📷 Photography & Realistic (4)
 
@@ -41,6 +49,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 ---
 
+<a id="illustration"></a>
+
 ## 🎨 Illustration & Art (2)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
@@ -50,6 +60,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 ---
 
+<a id="character"></a>
+
 ## 🧍 Character Design (0)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
@@ -57,6 +69,8 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 > No cases yet
 
 ---
+
+<a id="3d"></a>
 
 ## 🧸 3D Objects & Miniature Worlds (0)
 
@@ -66,6 +80,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 ---
 
+<a id="architecture"></a>
+
 ## 🏛️ Architecture & Space (1)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
@@ -73,6 +89,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 11: Temple of Heaven Exploded View](cases-001-100.md#️-例-11天坛建筑拆解图) — Chinese architecture exploded view
 
 ---
+
+<a id="comic"></a>
 
 ## 🎬 Comics & Storyboards (0)
 
@@ -82,6 +100,8 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 ---
 
+<a id="brand"></a>
+
 ## 🏷️ Brand & Packaging (0)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
@@ -90,6 +110,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 ---
 
+<a id="edit"></a>
+
 ## 🔧 Image Editing & Transforms (0)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
@@ -97,6 +119,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 > No cases yet
 
 ---
+
+<a id="fun"></a>
 
 ## 🧪 Creative Experiments (1)
 

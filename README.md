@@ -12,18 +12,18 @@
 
 | 分类 | 说明 |
 |------|------|
-| 🖥️ [UI 与数字界面](docs/categories.md#-ui-与数字界面) | App 界面、网页、仪表盘、社媒截图、游戏 UI |
-| 📊 [图表与信息图](docs/categories.md#-图表与信息图) | 信息图、流程图、数据可视化、标注图、爆炸图 |
-| 🎴 [海报与卡片](docs/categories.md#-海报与卡片) | 电影海报、活动海报、塔罗牌、报纸版面、语录卡 |
-| 📷 [摄影与写实](docs/categories.md#-摄影与写实) | 人像摄影、街拍、商品摄影、美食摄影 |
-| 🎨 [插画与艺术](docs/categories.md#-插画与艺术) | 数字插画、水墨/油画/素描、材质艺术 |
-| 🧍 [角色设计](docs/categories.md#-角色设计) | 三视图、表情包、人设分解、角色进化图 |
-| 🧸 [3D 物品与微缩世界](docs/categories.md#-3d-物品与微缩世界) | 手办、高达、乐高、微缩场景、扭蛋机 |
-| 🏛️ [建筑与空间](docs/categories.md#️-建筑与空间) | 室内设计、建筑渲染、地图转 3D、展览空间 |
-| 🎬 [漫画与分镜](docs/categories.md#-漫画与分镜) | 多格漫画、电影分镜、叙事场景 |
-| 🏷️ [品牌与包装](docs/categories.md#️-品牌与包装) | Logo 设计、产品包装、周边商品 |
-| 🔧 [图像编辑与变换](docs/categories.md#-图像编辑与变换) | 风格迁移、物体移除、老照片修复、透明背景 |
-| 🧪 [脑洞与趣味实验](docs/categories.md#-脑洞与趣味实验) | 超现实合成、新奇玩法、历史穿越 |
+| 🖥️ [UI 与数字界面](docs/categories.md#ui) | App 界面、网页、仪表盘、社媒截图、游戏 UI |
+| 📊 [图表与信息图](docs/categories.md#chart) | 信息图、流程图、数据可视化、标注图、爆炸图 |
+| 🎴 [海报与卡片](docs/categories.md#poster) | 电影海报、活动海报、塔罗牌、报纸版面、语录卡 |
+| 📷 [摄影与写实](docs/categories.md#photo) | 人像摄影、街拍、商品摄影、美食摄影 |
+| 🎨 [插画与艺术](docs/categories.md#illustration) | 数字插画、水墨/油画/素描、材质艺术 |
+| 🧍 [角色设计](docs/categories.md#character) | 三视图、表情包、人设分解、角色进化图 |
+| 🧸 [3D 物品与微缩世界](docs/categories.md#3d) | 手办、高达、乐高、微缩场景、扭蛋机 |
+| 🏛️ [建筑与空间](docs/categories.md#architecture) | 室内设计、建筑渲染、地图转 3D、展览空间 |
+| 🎬 [漫画与分镜](docs/categories.md#comic) | 多格漫画、电影分镜、叙事场景 |
+| 🏷️ [品牌与包装](docs/categories.md#brand) | Logo 设计、产品包装、周边商品 |
+| 🔧 [图像编辑与变换](docs/categories.md#edit) | 风格迁移、物体移除、老照片修复、透明背景 |
+| 🧪 [脑洞与趣味实验](docs/categories.md#fun) | 超现实合成、新奇玩法、历史穿越 |
 
 ---
 
