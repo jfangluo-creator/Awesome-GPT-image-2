@@ -4,44 +4,49 @@
 
 ---
 
-## 🖥️ UI & Digital Interfaces (0)
+## 🖥️ UI & Digital Interfaces (2)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
-> No cases yet
+- [Case 10: Hospital Prescription Sheet](cases-001-100.md#️-例-10三甲医院真实门诊处方笺) — Realistic document mockup
+- [Case 13: Douyin Live Stream Screenshot](cases-001-100.md#️-例-13刘亦菲抖音直播) — Social media mockup
 
 ---
 
-## 📊 Charts & Infographics (0)
+## 📊 Charts & Infographics (1)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
-> No cases yet
+- [Case 3: Weekly Fashion Guide](cases-001-100.md#-例-3一周穿搭指南) — 7-day lookbook infographic
 
 ---
 
-## 🎴 Posters & Cards (0)
+## 🎴 Posters & Cards (2)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
-> No cases yet
+- [Case 4: Red Chamber Poster](cases-001-100.md#-例-4红楼梦海报) — Epic narrative silhouette poster
+- [Case 5: City Theme Poster](cases-001-100.md#-例-5城市主题海报) — Guochao-style city promo poster
 
 ---
 
-## 📷 Photography & Realistic (2)
+## 📷 Photography & Realistic (4)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
 - [Case 1: Cinematic Desert Oasis Traveler](cases-001-100.md#-例-1沙漠绿洲旅人cinematic-desert-oasis-traveler) — Cinematic desert documentary photography
 - [Case 2: Maldives Water Villa](cases-001-100.md#-例-2马尔代夫水上别墅奢华视觉效果) — Luxury hotel commercial photography
+- [Case 8: Korean Minimalist Portrait](cases-001-100.md#-例-8韩系极简氛围感少女写真) — Editorial portrait photography
+- [Case 9: Summer Dress E-commerce](cases-001-100.md#-例-9夏日女装连衣裙电商) — E-commerce product photography
 
 ---
 
-## 🎨 Illustration & Art (0)
+## 🎨 Illustration & Art (2)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
-> No cases yet
+- [Case 6: Galaxy Ice Blue Ruqun](cases-001-100.md#-例-6银河繁星点缀的冰蓝襦裙) — Traditional Chinese fashion art
+- [Case 7: 100 Fantasy RPG Items](cases-001-100.md#-例-7100种不同奇幻rpg物品) — Pixel art game icons
 
 ---
 
@@ -61,11 +66,11 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 ---
 
-## 🏛️ Architecture & Space (0)
+## 🏛️ Architecture & Space (1)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
-> No cases yet
+- [Case 11: Temple of Heaven Exploded View](cases-001-100.md#️-例-11天坛建筑拆解图) — Chinese architecture exploded view
 
 ---
 
@@ -93,8 +98,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 ---
 
-## 🧪 Creative Experiments (0)
+## 🧪 Creative Experiments (1)
 
 Surreal composites (giant statues/creatures), novel ideas (constellation maps/fisheye/VR effects), time-travel mashups, fun transformations.
 
-> No cases yet
+- [Case 12: Mona Lisa Drinking Cola](cases-001-100.md#-例-12蒙娜丽莎畅饮可乐的趣味油画) — Classic painting mashup
