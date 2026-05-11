@@ -114,8 +114,8 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
-- [Case 22: Beverage Splash Commercial Poster](cases-001-100.md#-例-22饮料飞溅商业海报) — Beverage commercial ad poster
-- [Case 24: Four Seasons Packaging Campaign](cases-001-100.md#-例-24四季包装-campaign-宫格) — Seasonal packaging campaign grid
+- [Case 22: Beverage Splash Commercial Poster](cases-001-100.md#️-例-22饮料飞溅商业海报) — Beverage commercial ad poster
+- [Case 24: Four Seasons Packaging Campaign](cases-001-100.md#️-例-24四季包装-campaign-宫格) — Seasonal packaging campaign grid
 
 ---
 
