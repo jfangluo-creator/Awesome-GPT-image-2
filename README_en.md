@@ -10,6 +10,8 @@ English | [中文](README.md)
 
 ## Categories
 
+[View all 25 cases](docs/cases-001-100.md)
+
 | Category | Description |
 |----------|-------------|
 | 🖥️ [UI & Digital Interfaces](docs/categories_en.md#ui) | Apps, web pages, dashboards, social media screenshots, game UI |
