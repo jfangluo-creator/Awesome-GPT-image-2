@@ -111,5 +111,47 @@ Generate image: The full text of Chu Shi Biao handwritten on a classroom blackbo
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194) | 2026-05-11
 
+## 📷 例 27：视频截图
+
+![视频截图](../images/视频截图.jpg)
+
+**Prompt:**
+
+```text
+{argument name="pianist" default="Vladimir Horowitz"} performs a {argument name="event" default="live piano recital"} streamed on {argument name="platform" default="YouTube"}
+```
+
+**来源：** [@bowowwoaaa2](https://x.com/bowowwoaaa2) | 2026-05-13
+
+
+---
+
+## 📷 例 33：woman with a cat in her arms
+
+![woman with a cat in her arms](../images/woman%20with%20a%20cat%20in%20her%20arms.png)
+
+**Prompt:**
+
+```text
+A hyper-realistic photograph of a woman taking a mirror selfie in her bedroom using a smartphone. She has her original hairstyle with loose, slightly messy strands of hair softly falling over her face in a cool, effortlessly chic way with good volume. She is wearing a vintage-style spaghetti-strap crop top and high-waisted denim shorts. She is cradling a fluffy orange tabby cat in her arms. Shot with the aesthetic of an early-2000s digital camera, using only natural light, no flash. Soft late-afternoon golden sunlight streaming through the window, gently hitting her skin, face, and the cat’s fur, creating warm natural highlights and glows. Slightly warm yellow-orange-gray tone, subtle digital noise and grain for that authentic vintage digital look. Half-body mirror shot, focus sharply on her face and the cat. Background shows a simple white bed and plain walls with soft patches of sunlight and gentle shadows. Overall atmosphere is warm, natural, unposed, and intimate, like a casual candid snapshot from the 2000s.
+```
+
+**来源：** [@Reddit](https://www.reddit.com/r/ChatGPT/comments/1t0qio9/gpt_image_2_has_created_this_is_there_any_problem/) | 2026-05-13
+
+
+---
+
+## 📷 例 36：逼真的身份证件微距摄影
+
+![逼真的身份证件微距摄影](../images/逼真的身份证件微距摄影.jpg)
+
+**Prompt:**
+
+```text
+超逼真的 16:9 平铺式特写摄影作品，展示了一张放置在干净的浅灰色或柔和中性背景上的 {argument name="card type" default="澳大利亚公民身份证"}。卡片水平对齐，位于画面中心，采用清晰的微距对焦和柔和的漫射影棚灯光拍摄。设计遵循官方政府签发身份证件的美学风格，采用现代排版、结构化的信息布局以及先进的防伪安全细节。顶部的大号粗体标题写着：“AUSTRALIA”，副标题为“CITIZENSHIP CARD”，次级标题为“COMMONWEALTH OF AUSTRALIA”。左上角印有国旗。右上角包含国徽。卡片包含一张 {argument name="subject" default="年轻澳大利亚女性"} 的护照风格肖像：– 白皙/浅肤色，带有自然纹理和细微雀斑 – 肩长深金色至浅棕色波浪卷发 – 榛绿色眼睛，表情中性，直视前方 – 妆容简约，面部细节逼真 – 身穿深色西装外套或黑色上衣，佩戴精致的金饰。个人身份信息显示清晰：– 姓氏：{argument name="surname" default="JOHNSON"} – 名字：EMILY GRACE – 出生日期：24 JAN 1995 – 出生地：MELBOURNE, VIC – 公民身份：AUSTRALIAN CITIZEN – 公民编号：ACN 1234567 – 签发日期：15 MAY 2024 – 有效期至：15 MAY 2034 – 性别：F – 身高：165 cm – 证件编号：CC1234567。安全与设计特征包括：– 覆盖整个卡片表面的复杂扭索纹图案 – 精细的微缩防伪纹理 – 带有彩虹色反射的全息安全贴片 – 透明的分层安全覆盖层 – 包含地图和南十字星图案的全息图 – 右侧大面积雕刻有悉尼歌剧院和悉尼海港大桥的插图 – 背景纹理中嵌入了淡淡的地图轮廓 – 底部签名：“Emily G. Johnson” – 下边缘设有机器可读的身份识别条。其他设计风格：– 柔和的蓝色、金色和中性柔和渐变色 – 带有逼真反射的聚碳酸酯层压卡片质感 – 简洁的政府视觉语言。灯光柔和且均匀漫射，强调全息效果、雕刻纹理和逼真的印刷细节，无刺眼阴影。画面中无手部出现。风格：超细节、照片级真实感、8K 分辨率、微距清晰度、专业产品摄影、纪录片式写实、高度逼真的政府身份证设计。
+```
+
+**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2052550793895793051) | 2026-05-13
+
 
 ---

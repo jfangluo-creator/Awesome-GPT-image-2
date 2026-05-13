@@ -19,12 +19,13 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (2)
+## 📊 [Charts & Infographics](cat-chart.md) (3)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
 - [Case 3: Weekly Fashion Guide](cat-chart.md#-例-3一周穿搭指南) — 7-day lookbook infographic
 - [Case 25: Smartphone Exploded View](cat-chart.md#-例-25手机拆解图) — 3D product exploded assembly
+- [Case 30: FACS Facial Expression Chart](cat-chart.md#-例-30facs-面部表情图表) — Facial Action Coding System grid
 
 ---
 
@@ -42,7 +43,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (6)
+## 📷 [Photography & Realistic](cat-photo.md) (9)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -52,6 +53,9 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 9: Summer Dress E-commerce](cat-photo.md#-例-9夏日女装连衣裙电商) — E-commerce product photography
 - [Case 15: Ballpoint Pen Notebook](cat-photo.md#-例-15黑色圆珠笔手写笔记) — Realistic notebook photo
 - [Case 19: Chalk on Blackboard](cat-photo.md#-例-19真实黑板粉笔字) — Realistic chalk writing photo
+- [Case 27: Video Screenshot](cat-photo.md#-例-27视频截图) — Vintage digital camera style selfie
+- [Case 33: Woman with a Cat in Her Arms](cat-photo.md#-例-33woman-with-a-cat-in-her-arms) — Vintage 2000s mirror selfie
+- [Case 36: Realistic ID Card Macro Photography](cat-photo.md#-例-36逼真的身份证件微距摄影) — Realistic ID card macro photography
 
 ---
 
@@ -69,22 +73,25 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (2)
+## 🧍 [Character Design](cat-character.md) (3)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
 - [Case 20: Character Reference Sheet](cat-character.md#-例-20角色设定资料卡) — Character turnaround with details
 - [Case 23: Stylized 3D Cartoon Portrait](cat-character.md#-例-23真人风格化的3d卡通肖像) — Pixar-style 3D cartoon portrait
+- [Case 26: Street Dance Character Reference](cat-character.md#-例-26街舞角色设定参考图) — Multi-pose dance character sheet
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 3D Objects & Miniature Worlds (0)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (3)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
-> No cases yet
+- [Case 31: Terrifying Hantavirus Microscopy](cat-3d.md#-例-31令人恐惧的汉坦病毒显微可视化) — 3D virus scientific visualization
+- [Case 32: 3D Historical Figure Biography Poster](cat-3d.md#-例-32-3d-历史人物传记海报模板) — 3D break-out biography poster
+- [Case 35: Felt Country Diorama](cat-3d.md#-例-35羊毛毡国家微缩世界) — Wool felt miniature world
 
 ---
 
@@ -100,11 +107,11 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 Comics & Storyboards (0)
+## 🎬 [Comics & Storyboards](cat-comic.md) (1)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
-> No cases yet
+- [Case 34: Anime Martial Arts Duel](cat-comic.md#-例-34动漫武术对决) — Anime-style martial arts illustration
 
 ---
 
@@ -121,11 +128,12 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 Image Editing & Transforms (0)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (2)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
-> No cases yet
+- [Case 28: 3D FACS Expression Edit](cat-edit.md#-例-28-3d-facs-expression-edit) — 3D facial expression editing
+- [Case 29: Photo to LEGO Minifigure](cat-edit.md#-例-29照片转-lego-小人仔) — Photo to LEGO style conversion
 
 ---
 

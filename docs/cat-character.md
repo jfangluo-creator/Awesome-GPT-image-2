@@ -52,5 +52,17 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120) | 2026-05-11
 
+## 🧍 例 26：街舞角色设定参考图
+
+![街舞角色设定参考图](../images/街舞角色设定参考图.jpg)
+
+**Prompt:**
+
+```text
+角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
+```
+
+**来源：** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276) | 2026-05-13
+
 
 ---

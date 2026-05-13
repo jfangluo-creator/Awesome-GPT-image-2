@@ -75,5 +75,17 @@ Create a 3D Insane detailed exploded assembly drawing of {argument name="subject
 
 **来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759) | 2026-05-11
 
+## 📊 例 30：FACS 面部表情图表
+
+![FACS 面部表情图表](../images/FACS%20面部表情图表.jpg)
+
+**Prompt:**
+
+```text
+生成一张包含 {argument name="grid" default="7x7 共 49 种图案的网格"} 的单张图像，展示各种面部表情及其对应的好莱坞 AU 代码（面部动作编码系统）。
+```
+
+**来源：** [@eijo_AIart](https://x.com/eijo_AIart/status/2052704638718398879) | 2026-05-13
+
 
 ---
