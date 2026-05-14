@@ -31,19 +31,20 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (3)
+## 🎴 [Posters & Cards](cat-poster.md) (4)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
 - [Case 4: Red Chamber Poster](cat-poster.md#-例-4红楼梦海报) — Epic narrative silhouette poster
 - [Case 5: City Theme Poster](cat-poster.md#-例-5城市主题海报) — Guochao-style city promo poster
 - [Case 14: Film Photography Poster](cat-poster.md#-例-14胶片感摄影海报) — Film-style artistic poster
+- [Case 38: Modern Mojito Recipe Card](cat-poster.md#-例-38-modern-mojito-recipe-card) — Modern cocktail recipe card
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (9)
+## 📷 [Photography & Realistic](cat-photo.md) (12)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -56,18 +57,24 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 27: Video Screenshot](cat-photo.md#-例-27视频截图) — Vintage digital camera style selfie
 - [Case 33: Woman with a Cat in Her Arms](cat-photo.md#-例-33woman-with-a-cat-in-her-arms) — Vintage 2000s mirror selfie
 - [Case 36: Realistic ID Card Macro Photography](cat-photo.md#-例-36逼真的身份证件微距摄影) — Realistic ID card macro photography
+- [Case 39: Thoughtful Woman Cafe Window](cat-photo.md#-例-39-thoughtful-woman-cafe-window-equations) — Cinematic cafe window portrait
+- [Case 43: Bangkok Night Street Photography](cat-photo.md#-例-43-bangkok-night-street-photography) — Bangkok night street photography
+- [Case 46: 16-Panel Horse Racing Storyboard](cat-photo.md#-例-46-16-格赛马故事板) — Cinematic horse racing storyboard
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (3)
+## 🎨 [Illustration & Art](cat-illustration.md) (6)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
 - [Case 6: Galaxy Ice Blue Ruqun](cat-illustration.md#-例-6银河繁星点缀的冰蓝襦裙) — Traditional Chinese fashion art
 - [Case 7: 100 Fantasy RPG Items](cat-illustration.md#-例-7100种不同奇幻rpg物品) — Pixel art game icons
 - [Case 17: Paper-cut City Nightscape](cat-illustration.md#-例-17剪纸璀璨夜景) — Paper-cut silhouette urban art
+- [Case 40: Gentle Veiled Bride's Kiss](cat-illustration.md#-例-40柔和遮挡的新娘之吻插画) — Watercolor anime romance illustration
+- [Case 41: Rinpa Style Decorative Art](cat-illustration.md#-例-41琳派风格装饰艺术) — Rinpa gold foil decorative art
+- [Case 42: Pop Art Party Illustration](cat-illustration.md#-例-42活力派对波普艺术插画) — Pop art party illustration
 
 ---
 
@@ -85,13 +92,14 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (3)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (4)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
 - [Case 31: Terrifying Hantavirus Microscopy](cat-3d.md#-例-31令人恐惧的汉坦病毒显微可视化) — 3D virus scientific visualization
 - [Case 32: 3D Historical Figure Biography Poster](cat-3d.md#-例-32-3d-历史人物传记海报模板) — 3D break-out biography poster
 - [Case 35: Felt Country Diorama](cat-3d.md#-例-35羊毛毡国家微缩世界) — Wool felt miniature world
+- [Case 44: Isometric Krakow Square Model](cat-3d.md#-例-44等轴测克拉科夫中央集市广场立体模型) — Isometric city diorama
 
 ---
 
@@ -128,12 +136,14 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (2)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (4)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
 - [Case 28: 3D FACS Expression Edit](cat-edit.md#-例-28-3d-facs-expression-edit) — 3D facial expression editing
 - [Case 29: Photo to LEGO Minifigure](cat-edit.md#-例-29照片转-lego-小人仔) — Photo to LEGO style conversion
+- [Case 37: Perler Bead Style Portrait](cat-edit.md#-例-37-perler-bead-style-portrait) — Perler bead style portrait conversion
+- [Case 45: Ghibli & Anime Style Photo](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — Anime style photo conversion
 
 ---
 

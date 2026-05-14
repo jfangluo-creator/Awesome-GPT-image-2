@@ -31,19 +31,20 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（3）
+## 🎴 [海报与卡片](cat-poster.md)（4）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
 - [例 4：红楼梦海报](cat-poster.md#-例-4红楼梦海报) — 史诗叙事剪影海报
 - [例 5：城市主题海报](cat-poster.md#-例-5城市主题海报) — 国潮风城市宣传海报
 - [例 14：胶片感摄影海报](cat-poster.md#-例-14胶片感摄影海报) — 胶片风文艺海报
+- [例 38：Modern Mojito Recipe Card](cat-poster.md#-例-38-modern-mojito-recipe-card) — 现代鸡尾酒配方卡片
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（9）
+## 📷 [摄影与写实](cat-photo.md)（12）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -56,18 +57,24 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 27：视频截图](cat-photo.md#-例-27视频截图) — 复古胶片风自拍
 - [例 33：woman with a cat in her arms](cat-photo.md#-例-33woman-with-a-cat-in-her-arms) — 仿古数码相机自拍
 - [例 36：逼真的身份证件微距摄影](cat-photo.md#-例-36逼真的身份证件微距摄影) — 仿真证件微距摄影
+- [例 39：Thoughtful Woman Cafe Window Equations](cat-photo.md#-例-39-thoughtful-woman-cafe-window-equations) — 电影感咖啡馆窗边人像
+- [例 43：Bangkok Night Street Photography](cat-photo.md#-例-43-bangkok-night-street-photography) — 曼谷夜间街拍
+- [例 46：16 格赛马故事板](cat-photo.md#-例-46-16-格赛马故事板) — 电影感赛马故事板
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（3）
+## 🎨 [插画与艺术](cat-illustration.md)（6）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
 - [例 6：银河繁星点缀的冰蓝襦裙](cat-illustration.md#-例-6银河繁星点缀的冰蓝襦裙) — 古风服饰艺术插画
 - [例 7：100种不同奇幻RPG物品](cat-illustration.md#-例-7100种不同奇幻rpg物品) — 像素风游戏图标
 - [例 17：剪纸璀璨夜景](cat-illustration.md#-例-17剪纸璀璨夜景) — 剪纸镂空都市艺术
+- [例 40：柔和遮挡的新娘之吻插画](cat-illustration.md#-例-40柔和遮挡的新娘之吻插画) — 水彩动漫浪漫插画
+- [例 41：琳派风格装饰艺术](cat-illustration.md#-例-41琳派风格装饰艺术) — 琳派金箔装饰艺术
+- [例 42：活力派对波普艺术插画](cat-illustration.md#-例-42活力派对波普艺术插画) — 波普风派对插画
 
 ---
 
@@ -85,13 +92,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（3）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（4）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
 - [例 31：令人恐惧的汉坦病毒显微可视化](cat-3d.md#-例-31令人恐惧的汉坦病毒显微可视化) — 3D病毒科学可视化
 - [例 32：3D 历史人物传记海报模板](cat-3d.md#-例-32-3d-历史人物传记海报模板) — 3D破框传记海报
 - [例 35：羊毛毡国家微缩世界](cat-3d.md#-例-35羊毛毡国家微缩世界) — 羊毛毡微缩场景
+- [例 44：等轴测克拉科夫中央集市广场立体模型](cat-3d.md#-例-44等轴测克拉科夫中央集市广场立体模型) — 等轴测城市微缩模型
 
 ---
 
@@ -128,12 +136,14 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 <a id="edit"></a>
 
-## 🔧 [图像编辑与变换](cat-edit.md)（2）
+## 🔧 [图像编辑与变换](cat-edit.md)（4）
 
 风格迁移（吉卜力/像素风等）、物体移除/添加、老照片修复上色、透明背景提取、图片扩展补全等。
 
 - [例 28：3D FACS Expression Edit](cat-edit.md#-例-28-3d-facs-expression-edit) — 3D表情编辑变换
 - [例 29：照片转 LEGO 小人仔](cat-edit.md#-例-29照片转-lego-小人仔) — 照片转乐高风格
+- [例 37：Perler Bead Style Portrait](cat-edit.md#-例-37-perler-bead-style-portrait) — 拼豆风格肖像转换
+- [例 45：吉卜力与动漫风格照片转换](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — 动漫风格照片转换
 
 ---
 

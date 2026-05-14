@@ -153,5 +153,49 @@ A hyper-realistic photograph of a woman taking a mirror selfie in her bedroom us
 
 **来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2052550793895793051) | 2026-05-13
 
+## 📷 例 39：Thoughtful Woman Cafe Window Equations
+
+![Thoughtful Woman Cafe Window Equations](../images/Thoughtful%20Woman%20Cafe%20Window%20Equations.jpg)
+
+**Prompt:**
+
+```text
+A cinematic, photorealistic scene of a {argument name="subject" default="thoughtful young woman with wavy auburn hair"} sitting alone at a wooden café table next to a large glass window. Warm golden sunlight softly illuminates her face as she rests her head on her hand, gazing out the window with a calm, pensive expression. The image is shot from outside the café through the glass, with gentle reflections, light bokeh, and a slightly blurred background creating a dreamy atmosphere.
+Handwritten white chalk-style {argument name="elements" default="mathematical equations"} are floating on the window glass around her, as if she is thinking about them: integrals, limits, algebraic formulas, a quadratic graph, trigonometric identities, and E = mc². The equations look lightly sketched, semi-transparent, and artistically placed without blocking her face.
+The mood is {argument name="mood" default="intellectual, introspective, and peaceful"}. Shallow depth of field, soft natural lighting, cinematic color grading, warm tones, ultra-high-definition, 4K, highly detailed, realistic photography style, professional lens, soft film grain, gentle glow, modern aesthetic
+```
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2054830150647435732) | 2026-05-14
+
+
+---
+
+## 📷 例 43：Bangkok Night Street Photography
+
+![Bangkok Night Street Photography](../images/Bangkok%20Night%20Street%20Photography.jpg)
+
+**Prompt:**
+
+```text
+A street photograph capturing a {argument name="subject" default="young Thai woman"} cutting through the dense nighttime crowd on {argument name="location" default="Khao San Road, Bangkok"}. The subject is caught mid-stride wearing a {argument name="clothing" default="loose floral dress"}, expression distracted and completely natural, not performing for the camera, small crossbody bag across her shoulder. The environment is dense and chaotic: bar signs in Thai and English stacked vertically, tuk-tuks and motorbikes pressing through foot traffic, tourists and locals blending in the moving crowd around her. Lighting is messy and authentic: uneven bar fluorescent spill, LED signage scatter, occasional reflected flash from the crowd, no clean single source. Composition: full-body medium shot from slightly above eye level, subject in sharp focus in left center, surrounding crowd in natural motion blur, neon signs stretching tall in the vertical frame above. Color palette: acidic yellow, electric pink, deep orange — intense but documentary-accurate neon saturation, not stylized. Render with photographic realism: subtle film grain, avoid over-smoothed CG textures. Skin: subsurface scattering and micro-texture. Preserve authentic motion blur on background crowd, not artificial bokeh. Photorealistic rendering, no watermark.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2054711091360354328) | 2026-05-14
+
+
+---
+
+## 📷 例 46：16 格赛马故事板
+
+![16 格赛马故事板](../images/16%20格赛马故事板.jpg)
+
+**Prompt:**
+
+```text
+{"type":"电影感 16 格故事板海报","format":"4x4 网格","overall_style":"写实风格电影剧照，温暖的自然光，浅景深，感人的马术成长故事，保持年轻女骑手和栗色马驹从幼年到成为赛马的形象一致，面板间有黑色间隙，白色粗体文字叠加，每个面板左上角标有数字，面部使用柔和的矩形模糊遮罩进行匿名处理","aspect_ratio":"16:9 宽幅海报","main_characters":{"girl":"{argument name=\"main character\" default=\"一位扎着深色马尾辫的年轻女性，穿着从休闲马厩服装到粉黑相间赛马服的转变\"}","horse":"{argument name=\"horse description\" default=\"一匹带有白色额斑的栗色马驹，逐渐成长为强壮的赛马\"}","setting":"{argument name=\"setting\" default=\"乡村马场、训练场、赛马场和日落围场\"}"},"layout":{"grid":"4 列 4 行","panel_count":16,"panels":[{"number":1,"title":"小马驹，新起点","scene":"在昏暗的马厩里，年轻女性跪在一匹小栗色马驹旁边，温柔地伸出手，马驹紧挨着它的母亲。","bullet_count":4,"bullets":["发现了一匹小马","又小又害怕","承诺照顾它","羁绊的开始"]},{"number":2,"title":"爱的喂养","scene":"温暖的马厩内，女性用双手给马驹喂奶，展现出温柔与耐心。","bullet_count":4,"bullets":["瓶喂牛奶","每天，每次","爱与耐心","茁壮成长"]},{"number":3,"title":"护理与梳理","scene":"马厩内的特写镜头，女性用蓝色梳子为马驹梳理毛发，马儿冷静且信任。","bullet_count":4,"bullets":["梳理毛发","清洁与护理","保持健康","建立信任"]},{"number":4,"title":"并肩同行","scene":"阳光明媚的草地和围栏边，女性牵着小马的绳子，并肩走向远处的山丘。","bullet_count":4,"bullets":["在田野漫步","探索世界","并肩同行","友谊增长"]},{"number":5,"title":"终身的羁绊","scene":"金色光影下的感人特写，女性将额头和手贴在马的口鼻部。","bullet_count":4,"bullets":["信任与忠诚","温柔时刻","心与心的交流","牢不可破的羁绊"]},{"number":6,"title":"训练开始","scene":"户外沙地训练场，女性牵着牵引绳教小马基本指令。","bullet_count":4,"bullets":["教授基本指令","耐心与奖励","小步快跑，大步进步","彼此信任"]},{"number":7,"title":"骑乘练习","scene":"马儿长大了；女性戴着头盔在围栏场地骑马，学习平衡与自信。","bullet_count":4,"bullets":["第一次骑上马背","学习平衡","建立自信","共同进步"]},{"number":8,"title":"日益强壮","scene":"开阔赛道上的动态训练镜头，戴着头盔、身穿粉黑装备的骑手骑马飞奔穿过乡村。","bullet_count":4,"bullets":["一起奔跑","增强力量","突破极限","梦想更大"]},{"number":9,"title":"赛前准备","scene":"马儿正在被梳理并装配赛马装备的特写，蓝色马鞍垫清晰可见，骑手专注且冷静。","bullet_count":4,"bullets":["梳理与擦亮","检查装备","专注与冷静","迎接挑战"]},{"number":10,"title":"抵达赛场","scene":"在大型赛马场看台，骑手牵马进入场地，感受人群和压力。","bullet_count":4,"bullets":["新场地","新挑战","感受能量","展现最佳状态"]},{"number":11,"title":"比赛开始","scene":"多匹赛马从起跑线冲出的动作镜头，尘土飞扬，身穿粉黑赛马服的主骑手奋力向前。","bullet_count":4,"bullets":["闸门开启","心跳加速","全速前进","保持专注"]},{"number":12,"title":"并驾齐驱","scene":"紧张的赛马特写，主角马匹和骑手与其他马匹并排竞争，速度极快，充满决心。","bullet_count":4,"bullets":["激烈竞争","全力以赴","永不放弃","胜利在望"]},{"number":13,"title":"我们赢了！","scene":"骑手在终点线和看台附近，骑在马上举起一只手臂欢呼胜利。","bullet_count":4,"bullets":["冲过终点线","第一名！","努力终有回报","梦想成真"]},{"number":14,"title":"胜利庆典","scene":"赛后骑手拥抱马儿的感人特写；马儿身上挂着花环，周围充满庆祝色彩。","bullet_count":4,"bullets":["共同庆祝","所有回忆","所有付出","值得一切"]},{"number":15,"title":"冠军奖杯","scene":"颁奖典礼，骑手在正式背景前从西装革履的官员手中接过巨大的金杯。","bullet_count":4,"bullets":["领取奖杯","骄傲时刻","感谢大家","新冠军诞生"]},{"number":16,"title":"永远在一起","scene":"宁静的日落围场，女性紧紧拥抱成熟的马儿，背景是金色的天空，以终身的陪伴结束。","bullet_count":4,"bullets":["最好的伙伴","无尽的爱","新的冒险","我们的旅程继续"]}]},"typography":{"panel_numbers":"每个面板左上角的大号白色数字","titles":"粗体压缩白色无衬线字体，左对齐","bullets":"标题下方的小号白色列表","headline_text":"{argument name=\"story theme\" default=\"一段从马驹到冠军赛马的感人旅程\"}"},"rendering_notes":"在所有 16 个面板中保持角色和马匹的连贯性，展示马驹逐渐成长为成年赛马的过程，以及从马厩服装到赛马服的装束演变，写实电影级调色，高细节背景，无额外面板，无缺失数字，清晰可读的中文文本。"}
+```
+
+**来源：** [@ai_hakase_](https://x.com/ai_hakase_/status/2054338583704555595#reversed-0) | 2026-05-14
+
 
 ---

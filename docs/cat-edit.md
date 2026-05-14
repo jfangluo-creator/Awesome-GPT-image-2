@@ -30,4 +30,32 @@ Using the provided reference image as the character base, keep the same chibi 3D
 
 **来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2053663652356689927) | 2026-05-13
 
+## 🔧 例 37：Perler Bead Style Portrait
+
+![Perler Bead Style Portrait](../images/Perler%20Bead%20Style%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="风格" default="拼豆风格"}绘制出图片中的{argument name="主体" default="主体人物"}，颜色接近画面中效果，背景换成比较简单的装饰，整体画面温馨
+```
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2054830871048589661) | 2026-05-14
+
+
+---
+
+## 🔧 例 45：吉卜力与动漫风格照片转换
+
+![吉卜力与动漫风格照片转换](../images/吉卜力与动漫风格照片转换.jpg)
+
+**Prompt:**
+
+```text
+将此肖像转换为 {argument name="anime style" default="吉卜力工作室动画风格、现代动漫、水彩画或印象派油画"}。使用 {argument name="color palette" default="柔和色调"}、手绘线条以及温暖的背景。
+```
+
+**来源：** [@ChatgptAIskill](https://x.com/ChatgptAIskill/status/2054487317465964737) | 2026-05-14
+
+
 ---
