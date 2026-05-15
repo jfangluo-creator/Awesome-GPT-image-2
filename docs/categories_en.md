@@ -38,7 +38,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 4: Red Chamber Poster](cat-poster.md#-例-4红楼梦海报) — Epic narrative silhouette poster
 - [Case 5: City Theme Poster](cat-poster.md#-例-5城市主题海报) — Guochao-style city promo poster
 - [Case 14: Film Photography Poster](cat-poster.md#-例-14胶片感摄影海报) — Film-style artistic poster
-- [Case 38: Modern Mojito Recipe Card](cat-poster.md#-例-38-modern-mojito-recipe-card) — Modern cocktail recipe card
+- [Case 38: Modern Mojito Recipe Card](cat-poster.md#-例-38modern-mojito-recipe-card) — Modern cocktail recipe card
 
 ---
 
@@ -57,9 +57,9 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 27: Video Screenshot](cat-photo.md#-例-27视频截图) — Vintage digital camera style selfie
 - [Case 33: Woman with a Cat in Her Arms](cat-photo.md#-例-33woman-with-a-cat-in-her-arms) — Vintage 2000s mirror selfie
 - [Case 36: Realistic ID Card Macro Photography](cat-photo.md#-例-36逼真的身份证件微距摄影) — Realistic ID card macro photography
-- [Case 39: Thoughtful Woman Cafe Window](cat-photo.md#-例-39-thoughtful-woman-cafe-window-equations) — Cinematic cafe window portrait
-- [Case 43: Bangkok Night Street Photography](cat-photo.md#-例-43-bangkok-night-street-photography) — Bangkok night street photography
-- [Case 46: 16-Panel Horse Racing Storyboard](cat-photo.md#-例-46-16-格赛马故事板) — Cinematic horse racing storyboard
+- [Case 39: Thoughtful Woman Cafe Window](cat-photo.md#-例-39thoughtful-woman-cafe-window-equations) — Cinematic cafe window portrait
+- [Case 43: Bangkok Night Street Photography](cat-photo.md#-例-43bangkok-night-street-photography) — Bangkok night street photography
+- [Case 46: 16-Panel Horse Racing Storyboard](cat-photo.md#-例-4616-格赛马故事板) — Cinematic horse racing storyboard
 
 ---
 
@@ -142,7 +142,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 - [Case 28: 3D FACS Expression Edit](cat-edit.md#-例-28-3d-facs-expression-edit) — 3D facial expression editing
 - [Case 29: Photo to LEGO Minifigure](cat-edit.md#-例-29照片转-lego-小人仔) — Photo to LEGO style conversion
-- [Case 37: Perler Bead Style Portrait](cat-edit.md#-例-37-perler-bead-style-portrait) — Perler bead style portrait conversion
+- [Case 37: Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — Perler bead style portrait conversion
 - [Case 45: Ghibli & Anime Style Photo](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — Anime style photo conversion
 
 ---

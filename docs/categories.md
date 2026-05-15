@@ -38,7 +38,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 4：红楼梦海报](cat-poster.md#-例-4红楼梦海报) — 史诗叙事剪影海报
 - [例 5：城市主题海报](cat-poster.md#-例-5城市主题海报) — 国潮风城市宣传海报
 - [例 14：胶片感摄影海报](cat-poster.md#-例-14胶片感摄影海报) — 胶片风文艺海报
-- [例 38：Modern Mojito Recipe Card](cat-poster.md#-例-38-modern-mojito-recipe-card) — 现代鸡尾酒配方卡片
+- [例 38：Modern Mojito Recipe Card](cat-poster.md#-例-38modern-mojito-recipe-card) — 现代鸡尾酒配方卡片
 
 ---
 
@@ -57,9 +57,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 27：视频截图](cat-photo.md#-例-27视频截图) — 复古胶片风自拍
 - [例 33：woman with a cat in her arms](cat-photo.md#-例-33woman-with-a-cat-in-her-arms) — 仿古数码相机自拍
 - [例 36：逼真的身份证件微距摄影](cat-photo.md#-例-36逼真的身份证件微距摄影) — 仿真证件微距摄影
-- [例 39：Thoughtful Woman Cafe Window Equations](cat-photo.md#-例-39-thoughtful-woman-cafe-window-equations) — 电影感咖啡馆窗边人像
-- [例 43：Bangkok Night Street Photography](cat-photo.md#-例-43-bangkok-night-street-photography) — 曼谷夜间街拍
-- [例 46：16 格赛马故事板](cat-photo.md#-例-46-16-格赛马故事板) — 电影感赛马故事板
+- [例 39：Thoughtful Woman Cafe Window Equations](cat-photo.md#-例-39thoughtful-woman-cafe-window-equations) — 电影感咖啡馆窗边人像
+- [例 43：Bangkok Night Street Photography](cat-photo.md#-例-43bangkok-night-street-photography) — 曼谷夜间街拍
+- [例 46：16 格赛马故事板](cat-photo.md#-例-4616-格赛马故事板) — 电影感赛马故事板
 
 ---
 
@@ -142,7 +142,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 - [例 28：3D FACS Expression Edit](cat-edit.md#-例-28-3d-facs-expression-edit) — 3D表情编辑变换
 - [例 29：照片转 LEGO 小人仔](cat-edit.md#-例-29照片转-lego-小人仔) — 照片转乐高风格
-- [例 37：Perler Bead Style Portrait](cat-edit.md#-例-37-perler-bead-style-portrait) — 拼豆风格肖像转换
+- [例 37：Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — 拼豆风格肖像转换
 - [例 45：吉卜力与动漫风格照片转换](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — 动漫风格照片转换
 
 ---
