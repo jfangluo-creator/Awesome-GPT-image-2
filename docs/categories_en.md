@@ -19,19 +19,21 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (3)
+## 📊 [Charts & Infographics](cat-chart.md) (5)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
 - [Case 3: Weekly Fashion Guide](cat-chart.md#-例-3一周穿搭指南) — 7-day lookbook infographic
 - [Case 25: Smartphone Exploded View](cat-chart.md#-例-25手机拆解图) — 3D product exploded assembly
 - [Case 30: FACS Facial Expression Chart](cat-chart.md#-例-30facs-面部表情图表) — Facial Action Coding System grid
+- [Case 49: China Country Profile Infographic](cat-chart.md#-例-49中国国家概况信息图) — Country profile infographic
+- [Case 50: Flaming Burger Project](cat-chart.md#-例-50flaming-burger-项目) — Food ad storyboard spec sheet
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (4)
+## 🎴 [Posters & Cards](cat-poster.md) (5)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -39,12 +41,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5: City Theme Poster](cat-poster.md#-例-5城市主题海报) — Guochao-style city promo poster
 - [Case 14: Film Photography Poster](cat-poster.md#-例-14胶片感摄影海报) — Film-style artistic poster
 - [Case 38: Modern Mojito Recipe Card](cat-poster.md#-例-38modern-mojito-recipe-card) — Modern cocktail recipe card
+- [Case 56: City Typography Travel Poster](cat-poster.md#-例-56城市文字旅行海报) — Typography city travel poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (12)
+## 📷 [Photography & Realistic](cat-photo.md) (14)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -60,6 +63,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 39: Thoughtful Woman Cafe Window](cat-photo.md#-例-39thoughtful-woman-cafe-window-equations) — Cinematic cafe window portrait
 - [Case 43: Bangkok Night Street Photography](cat-photo.md#-例-43bangkok-night-street-photography) — Bangkok night street photography
 - [Case 46: 16-Panel Horse Racing Storyboard](cat-photo.md#-例-4616-格赛马故事板) — Cinematic horse racing storyboard
+- [Case 47: Pixar Style Coffee Brand Project](cat-photo.md#-例-47皮克斯风格咖啡品牌项目) — Pixar-style cafe brand project
+- [Case 52: Ikebukuro Armored Cosplayer](cat-photo.md#-例-52池袋的盔甲-cosplayer) — Street cosplay photography
 
 ---
 
@@ -80,19 +85,22 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (3)
+## 🧍 [Character Design](cat-character.md) (6)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
 - [Case 20: Character Reference Sheet](cat-character.md#-例-20角色设定资料卡) — Character turnaround with details
 - [Case 23: Stylized 3D Cartoon Portrait](cat-character.md#-例-23真人风格化的3d卡通肖像) — Pixar-style 3D cartoon portrait
 - [Case 26: Street Dance Character Reference](cat-character.md#-例-26街舞角色设定参考图) — Multi-pose dance character sheet
+- [Case 48: Emotion Expression Grid](cat-character.md#-例-48角色情绪表现网格) — 4x4 emotion expression grid
+- [Case 51: Cinematic Character Design Pitch](cat-character.md#-例-51电影级角色设计提案项目) — Cinematic character design proposal
+- [Case 55: Japanese Office Worker Character Sheet](cat-character.md#-例-55日本上班族角色设定图) — Office worker character design sheet
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (4)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (6)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -100,6 +108,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 32: 3D Historical Figure Biography Poster](cat-3d.md#-例-32-3d-历史人物传记海报模板) — 3D break-out biography poster
 - [Case 35: Felt Country Diorama](cat-3d.md#-例-35羊毛毡国家微缩世界) — Wool felt miniature world
 - [Case 44: Isometric Krakow Square Model](cat-3d.md#-例-44等轴测克拉科夫中央集市广场立体模型) — Isometric city diorama
+- [Case 53: Mini Tokyo Food Landscape](cat-3d.md#-例-53迷你东京美食景观) — Miniature food cityscape
+- [Case 54: Mini World Food Landscape Grid](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2 miniature food city grid
 
 ---
 

@@ -10,7 +10,7 @@ English | [中文](README.md)
 
 ## Categories
 
-[View all 46 cases](docs/cases-001-100.md)
+[View all 56 cases](docs/cases-001-100.md)
 
 | Category | Description |
 |----------|-------------|
