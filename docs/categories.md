@@ -33,7 +33,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（5）
+## 🎴 [海报与卡片](cat-poster.md)（7）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -42,12 +42,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 14：胶片感摄影海报](cat-poster.md#-例-14胶片感摄影海报) — 胶片风文艺海报
 - [例 38：Modern Mojito Recipe Card](cat-poster.md#-例-38modern-mojito-recipe-card) — 现代鸡尾酒配方卡片
 - [例 56：城市文字旅行海报](cat-poster.md#-例-56城市文字旅行海报) — 城市排版旅行海报
+- [例 59：Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — 电影感赛车海报
+- [例 60：大堡礁复古旅行海报](cat-poster.md#-例-60大堡礁复古旅行海报) — 复古旅行海报
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（14）
+## 📷 [摄影与写实](cat-photo.md)（18）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -65,12 +67,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 46：16 格赛马故事板](cat-photo.md#-例-4616-格赛马故事板) — 电影感赛马故事板
 - [例 47：皮克斯风格咖啡品牌项目](cat-photo.md#-例-47皮克斯风格咖啡品牌项目) — 皮克斯风咖啡馆品牌项目
 - [例 52：池袋的盔甲 Cosplayer](cat-photo.md#-例-52池袋的盔甲-cosplayer) — 街头Cosplay摄影
+- [例 62：东京街头胶片人像](cat-photo.md#-例-62东京街头胶片人像) — 东京街头胶片摄影
+- [例 67：外星冰雪世界中的电影感宇航员](cat-photo.md#-例-67外星冰雪世界中的电影感宇航员) — 科幻电影概念艺术
+- [例 70：动漫风警官模特时尚陈列](cat-photo.md#-例-70动漫风警官模特时尚陈列) — 动漫风时装展示
+- [例 71：带有艺术痕迹的写实鸟类](cat-photo.md#-例-71带有艺术痕迹的写实鸟类) — 写实动物摄影
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（6）
+## 🎨 [插画与艺术](cat-illustration.md)（11）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -80,12 +86,17 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 40：柔和遮挡的新娘之吻插画](cat-illustration.md#-例-40柔和遮挡的新娘之吻插画) — 水彩动漫浪漫插画
 - [例 41：琳派风格装饰艺术](cat-illustration.md#-例-41琳派风格装饰艺术) — 琳派金箔装饰艺术
 - [例 42：活力派对波普艺术插画](cat-illustration.md#-例-42活力派对波普艺术插画) — 波普风派对插画
+- [例 57：Misty Heron Lake at Sunrise](cat-illustration.md#-例-57misty-heron-lake-at-sunrise) — 印象派油画风景
+- [例 58：Doraemon Watercolor Silhouette Dreamscapes](cat-illustration.md#-例-58doraemon-watercolor-silhouette-dreamscapes) — 哆啦A梦水彩剪影
+- [例 61：韩国城市水彩旅行插画](cat-illustration.md#-例-61韩国城市水彩旅行插画) — 水彩城市旅行插画
+- [例 63：层叠纸雕情侣插画](cat-illustration.md#-例-63层叠纸雕情侣插画) — 纸雕层叠创意插画
+- [例 65：Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — 魔法哥特图书馆插画
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（6）
+## 🧍 [角色设计](cat-character.md)（9）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -95,6 +106,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 48：角色情绪表现网格](cat-character.md#-例-48角色情绪表现网格) — 4x4情绪表现网格
 - [例 51：电影级角色设计提案项目](cat-character.md#-例-51电影级角色设计提案项目) — 电影级角色设计提案
 - [例 55：日本上班族角色设定图](cat-character.md#-例-55日本上班族角色设定图) — 上班族角色设定图
+- [例 64：赛博黑客角色设定表](cat-character.md#-例-64赛博黑客角色设定表) — 赛博朋克角色设定
+- [例 68：武士铠甲三视图设计图](cat-character.md#-例-68武士铠甲三视图设计图) — 武士铠甲概念设计
+- [例 69：魔法学院毕业肖像系统](cat-character.md#-例-69魔法学院毕业肖像系统) — 魔法学院毕业写真
 
 ---
 
@@ -159,9 +173,10 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 <a id="fun"></a>
 
-## 🧪 [脑洞与趣味实验](cat-fun.md)（2）
+## 🧪 [脑洞与趣味实验](cat-fun.md)（3）
 
 超现实合成（巨型雕像/巨型生物）、新奇玩法（星座图/碎片化透视/VR效果）、历史穿越、趣味变装等。
 
 - [例 12：蒙娜丽莎畅饮可乐的趣味油画](cat-fun.md#-例-12蒙娜丽莎畅饮可乐的趣味油画) — 名画趣味改编
 - [例 21：创意树叶拼贴画像](cat-fun.md#-例-21创意树叶拼贴画像) — 树叶拼贴创意艺术
+- [例 66：达利风格超现实海岸景观重构](cat-fun.md#-例-66达利风格超现实海岸景观重构) — 达利超现实主义重构

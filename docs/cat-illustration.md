@@ -139,3 +139,116 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 
 ---
+### 🎨 例 57：Misty Heron Lake at Sunrise
+
+![Misty Heron Lake at Sunrise](../images/Misty%20Heron%20Lake%20at%20Sunrise.jpg)
+
+**Prompt:**
+
+```text
+Create a serene painterly landscape of a misty lake at sunrise, in a romantic impressionist oil-painting style. The scene shows a calm reflective pond filled with lily pads and exactly 14 visible water lilies: 5 prominent blossoms in the lower-left foreground, 1 small blossom near the center-left water, 2 blossoms just left of the heron, and 6 blossoms scattered across the right-side lily pads. Place a single elegant {argument name="bird" default="great blue heron"} standing in shallow water slightly right of center, facing left, with long legs, an orange beak, blue-gray feathers, and a clear reflection in the water. In the right background, include a graceful willow-like tree with drooping branches covered in pale pink blossoms, leaning over the water; surround it with reeds and soft greenery. The horizon is hazy with distant trees, low morning fog, and a glowing sun near the center, casting peach, coral, lavender, and gold reflections across the lake. Use a wide cinematic canvas, soft brushstrokes, pastel colors, atmospheric depth, gentle ripples, and a peaceful spiritual mood. Emphasize luminous sunrise light, mirrored reflections, blooming water lilies, reeds, and tranquil stillness. No text, no people, no buildings, no harsh outlines, no photorealistic sharpness.
+```
+
+**来源：** [@status](https://x.com/churvikv/status/2055395986520871005#reversed-0) | 2026-05-17
+
+---
+
+### 🎨 例 58：Doraemon Watercolor Silhouette Dreamscapes
+
+![Doraemon Watercolor Silhouette Dreamscapes](../images/Doraemon%20Watercolor%20Silhouette%20Dreamscapes.jpg)
+
+**Prompt:**
+
+```text
+Create a {argument name="style" default="watercolor-style"} illustration of {argument name="character" default="Doraemon's"} head silhouette filled with three layered dreamlike scenes:
+
+1. The top section shows a night sky with a large moon, a floating castle on clouds with stairs leading to it, UFOs, and Japanese text on the left side.
+2. The middle section depicts four children (three humans and Doraemon) sitting on a suburban street with houses and a tree, watching the scene above.
+3. The bottom section shows Doraemon leading three children walking down an illuminated street toward a waterfront with a dinosaur and a ship, framed by lush greenery.
+
+Include the title “DORAEMON ” at the bottom left with copyright text, and vertical Japanese poetry on the left edge.
+```
+
+**来源：** [@status](https://x.com/SimplyAnnisa/status/2055343903037919442) | 2026-05-17
+
+---
+
+### 🎨 例 61：韩国城市水彩旅行插画
+
+![韩国城市水彩旅行插画](../images/韩国城市水彩旅行插画.jpg)
+
+**Prompt:**
+
+```text
+Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
+```
+
+**来源：** [@status](https://x.com/Taaruk_/status/2055492435862773978) | 2026-05-17
+
+---
+
+### 🎨 例 63：层叠纸雕情侣插画
+
+![层叠纸雕情侣插画](../images/层叠纸雕情侣插画.jpg)
+
+**Prompt:**
+
+```text
+{
+  "style": "layered paper-cut illustration, papercraft diorama, handcrafted aesthetic",
+  "technique": {
+    "layering": "multiple stacked paper layers with soft drop shadows between each layer",
+    "depth": "5–7 visible depth planes from foreground to background",
+    "edges": "smooth, rounded, slightly beveled paper-cut edges",
+    "texture": "subtle paper grain and fibrous texture on all surfaces",
+    "shadows": "soft, diffused inner shadows beneath each layer suggesting physical depth"
+  },
+  "character_design": {
+    "proportions": "chibi / cute simplified — large round head, small body (1:1.5 ratio)",
+    "face": {
+      "eyes": "small dot eyes, glossy highlight",
+      "cheeks": "soft circular rosy blush patches",
+      "nose": "absent or minimal dot",
+      "mouth": "simple small curve smile"
+    },
+    "limbs": "short, rounded, stubby limbs",
+    "outline": "clean smooth silhouette, no sharp corners"
+  },
+  "color_palette": {
+    "mood": "warm, cozy, pastel",
+    "tones": ["soft cream", "dusty rose", "sage green", "warm peach", "sky blue", "honey yellow"],
+    "saturation": "low-to-medium, muted and gentle",
+    "background": "warm off-white or soft gradient"
+  },
+  "lighting": {
+    "type": "soft ambient light from top-front",
+    "highlights": "gentle white edge highlights on top layers",
+    "shadows": "warm light tan/beige shadow tones beneath cut layers"
+  },
+  "environment": {
+    "foliage": "simplified rounded leaf and floral shapes as separate paper layers",
+    "ground": "curved horizon layers suggesting rolling hills",
+    "details": "tiny decorative elements — stars, small hearts, dots — cut from paper"
+  },
+  "overall_mood": "warm, whimsical, cozy, handmade, storybook",
+  "render_quality": "ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges"
+}
+```
+
+**来源：** [@status](https://x.com/Just_sharon7/status/2055368240885641323) | 2026-05-17
+
+---
+
+### 🎨 例 65：Magical Gothic Library Balcony
+
+![Magical Gothic Library Balcony](../images/Magical%20Gothic%20Library%20Balcony.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical 2:3 anime fantasy illustration of one elegant young girl standing on a glossy balcony inside an enormous magical gothic library-observatory at twilight. The girl has {argument name="hair color" default="long pastel pink hair"}, pale skin, a gentle smiling expression, and wears an ornate black-and-white frilled gothic lolita dress with layered lace, puffed sleeves, ribbons, white stockings, and black platform heels; she turns slightly toward the viewer while standing near a gold filigree railing. Surround her with exactly seven prominent glowing butterflies: one large pink butterfly near the left railing, one small butterfly above the upper balcony, one tiny butterfly near the window, one large pink butterfly on the right railing, one large butterfly near the bottom left floor, one small butterfly near her feet, and one small butterfly at the lower right edge. The setting is a vast cathedral-like interior with towering bookshelves, sweeping spiral staircases, arched balconies, marble columns, gilded railings, chandelier-like lamps, reflective black floors, and intricate art nouveau metalwork. On the right, include a gigantic arched glass window covered in rain streaks, revealing a luminous night city skyline with castle spires and a large glowing ferris wheel outside. Use a dreamy {argument name="color palette" default="lavender, rose pink, pale blue, and warm gold"} palette, misty volumetric light, sparkling particles, soft bloom, extremely detailed architecture, delicate linework, cinematic depth, ethereal magical atmosphere, and a high-resolution polished anime art style. No text, no watermark, no extra characters.
+```
+
+**来源：** [@status](https://x.com/NeneneAI/status/2055781071401410795#reversed-0) | 2026-05-17
+
+---

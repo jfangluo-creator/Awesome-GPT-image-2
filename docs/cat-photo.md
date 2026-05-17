@@ -245,3 +245,58 @@ A street photograph capturing a {argument name="subject" default="young Thai wom
 
 
 ---
+### 📷 例 62：东京街头胶片人像
+
+![东京街头胶片人像](../images/东京街头胶片人像.jpg)
+
+**Prompt:**
+
+```text
+film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16
+```
+
+**来源：** [@status](https://x.com/BubbleBrain/status/2055491616392052887) | 2026-05-17
+
+---
+
+### 📷 例 67：外星冰雪世界中的电影感宇航员
+
+![外星冰雪世界中的电影感宇航员](../images/外星冰雪世界中的电影感宇航员.jpg)
+
+**Prompt:**
+
+```text
+创作一幅超电影感的超现实科幻景观，采用方形构图，展示 {argument name="number of astronauts" default="14"} 名身穿盔甲的宇航员排成一条对角线，在光亮的黑色反光冰原上向观众走来，领头的宇航员位于前景，体型较大，其余宇航员向雾气弥漫的远方延伸。宇航员穿着厚重的白色和深石墨色太空盔甲，配有黑色面罩、橙色发光接缝、胸灯，手持低垂的步枪，靴子下方有清晰的倒影。环境是一个深蓝黑色星空下广阔的外星冰冻战场：一颗巨大的破碎星球悬浮在他们身后的天空中，带有发光的橙色熔岩状裂缝、淡蓝色边缘光，以及横跨画面的行星环。在顶部边缘添加悬挂的锯齿状黑色浮石，如同倒置的山脉，并从地平线上升起几座垂直的巨石塔。包含 3 根主要的垂直光束或撞击柱：左侧地平线上的一团火热爆炸烟柱，右侧附近的一根高大白光束，以及远右侧地平线附近的一个较小的明亮撞击闪光。在右上角添加一个发光的螺旋星系、遥远的星云、散落的流星轨迹、右侧地平线上微小的人类剪影，以及嵌入反光地面中的橙色火花。采用宏大、高预算的电影概念艺术风格，强调极端的比例感、大气雾气、体积光、锐利的前景细节、蓝银色调配色并点缀少量橙色，营造出戏剧性的深度和逼真的反射效果，画面中不包含任何文字或水印。
+```
+
+**来源：** [@status](https://x.com/savefilmer/status/2055731796156072267#reversed-0) | 2026-05-17
+
+---
+
+### 📷 例 70：动漫风警官模特时尚陈列
+
+![动漫风警官模特时尚陈列](../images/动漫风警官模特时尚陈列.jpg)
+
+**Prompt:**
+
+```text
+创作一张写实的高端时装店摄影作品，主体为一个真人大小的亮面白色女性模特，造型为动漫风格的警官或安保人员。画面展示从大腿中部以上的部位，背景为精品店室内，带有柔和的暖色焦外成像，背景可见衣架，左侧有一扇大窗户。模特面部光滑且无五官，中心处特意覆盖了一个柔和的灰色方形隐私遮挡块，佩戴着 {argument name="hair color" default="深灰棕色"} 的短波波头假发，以及一顶闪亮的警官大檐帽。帽子后方有一个大型半透明亚克力光环面板，带有华丽的白色镂空花纹，如同装饰性的角色道具。服装细节：挺括的白色衬衫、黑金条纹领带配领带夹、黑色背带和带有金属扣的束带，高腰黑色细条纹长裤，以及一件像披风一样披在肩上的米色风衣，风衣带有深色袖片和细金边。画面中需包含两个手写风格的日文拟声词「キシッ」，分别位于肩膀左右两侧，每个词旁带有两条弧形动感线条，暗示模特关节的吱吱声。添加两个清晰可见的零售价格标签，分别夹在胸带上和挂在右下角衣摆附近，带有微小的条形码细节。采用浅景深、亮面塑料皮肤上的真实反射、高级商店照明、4:5 竖构图、主体居中，呈现精致的写实编辑风格。避免添加额外角色、多余文字或可见水印。
+```
+
+**来源：** [@status](https://x.com/geexEARBrjKIXfp/status/2055676608435142787#reversed-3) | 2026-05-17
+
+---
+
+### 📷 例 71：带有艺术痕迹的写实鸟类
+
+![带有艺术痕迹的写实鸟类](../images/带有艺术痕迹的写实鸟类.jpg)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="鸟类"} 全速飞行，写实风格，并融合了 {argument name="style" default="彩色艺术痕迹"}。
+```
+
+**来源：** [@status](https://x.com/mirochill/status/2055573726159147353) | 2026-05-17
+
+---

@@ -33,7 +33,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (5)
+## 🎴 [Posters & Cards](cat-poster.md) (7)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -42,12 +42,14 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 14: Film Photography Poster](cat-poster.md#-例-14胶片感摄影海报) — Film-style artistic poster
 - [Case 38: Modern Mojito Recipe Card](cat-poster.md#-例-38modern-mojito-recipe-card) — Modern cocktail recipe card
 - [Case 56: City Typography Travel Poster](cat-poster.md#-例-56城市文字旅行海报) — Typography city travel poster
+- [Case 59: Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — Cinematic racing poster
+- [Case 60: Great Barrier Reef Travel Poster](cat-poster.md#-例-60大堡礁复古旅行海报) — Vintage travel poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (14)
+## 📷 [Photography & Realistic](cat-photo.md) (18)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -65,12 +67,16 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 46: 16-Panel Horse Racing Storyboard](cat-photo.md#-例-4616-格赛马故事板) — Cinematic horse racing storyboard
 - [Case 47: Pixar Style Coffee Brand Project](cat-photo.md#-例-47皮克斯风格咖啡品牌项目) — Pixar-style cafe brand project
 - [Case 52: Ikebukuro Armored Cosplayer](cat-photo.md#-例-52池袋的盔甲-cosplayer) — Street cosplay photography
+- [Case 62: Tokyo Street Film Portrait](cat-photo.md#-例-62东京街头胶片人像) — Tokyo street film photography
+- [Case 67: Cinematic Astronauts on Alien Ice](cat-photo.md#-例-67外星冰雪世界中的电影感宇航员) — Sci-fi cinematic concept art
+- [Case 70: Anime-style Officer Mannequin](cat-photo.md#-例-70动漫风警官模特时尚陈列) — Anime-style fashion display
+- [Case 71: Realistic Bird with Art Traces](cat-photo.md#-例-71带有艺术痕迹的写实鸟类) — Realistic animal photography
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (6)
+## 🎨 [Illustration & Art](cat-illustration.md) (11)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -80,12 +86,17 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 40: Gentle Veiled Bride's Kiss](cat-illustration.md#-例-40柔和遮挡的新娘之吻插画) — Watercolor anime romance illustration
 - [Case 41: Rinpa Style Decorative Art](cat-illustration.md#-例-41琳派风格装饰艺术) — Rinpa gold foil decorative art
 - [Case 42: Pop Art Party Illustration](cat-illustration.md#-例-42活力派对波普艺术插画) — Pop art party illustration
+- [Case 57: Misty Heron Lake at Sunrise](cat-illustration.md#-例-57misty-heron-lake-at-sunrise) — Impressionist oil painting landscape
+- [Case 58: Doraemon Watercolor Silhouette Dreamscapes](cat-illustration.md#-例-58doraemon-watercolor-silhouette-dreamscapes) — Doraemon watercolor silhouette
+- [Case 61: Korean City Watercolor Travel](cat-illustration.md#-例-61韩国城市水彩旅行插画) — Watercolor city travel illustration
+- [Case 63: Layered Paper-cut Couple](cat-illustration.md#-例-63层叠纸雕情侣插画) — Paper-cut layered couple illustration
+- [Case 65: Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — Magical gothic library illustration
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (6)
+## 🧍 [Character Design](cat-character.md) (9)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -95,6 +106,9 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 48: Emotion Expression Grid](cat-character.md#-例-48角色情绪表现网格) — 4x4 emotion expression grid
 - [Case 51: Cinematic Character Design Pitch](cat-character.md#-例-51电影级角色设计提案项目) — Cinematic character design proposal
 - [Case 55: Japanese Office Worker Character Sheet](cat-character.md#-例-55日本上班族角色设定图) — Office worker character design sheet
+- [Case 64: Cyberpunk Hacker Character Sheet](cat-character.md#-例-64赛博黑客角色设定表) — Cyberpunk character design
+- [Case 68: Samurai Armor Turnaround](cat-character.md#-例-68武士铠甲三视图设计图) — Samurai armor concept design
+- [Case 69: Magic Academy Graduation Portrait](cat-character.md#-例-69魔法学院毕业肖像系统) — Magic academy graduation portrait
 
 ---
 
@@ -159,9 +173,10 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 <a id="fun"></a>
 
-## 🧪 [Creative Experiments](cat-fun.md) (2)
+## 🧪 [Creative Experiments](cat-fun.md) (3)
 
 Surreal composites (giant statues/creatures), novel ideas (constellation maps/fisheye/VR effects), time-travel mashups, fun transformations.
 
 - [Case 12: Mona Lisa Drinking Cola](cat-fun.md#-例-12蒙娜丽莎畅饮可乐的趣味油画) — Classic painting mashup
 - [Case 21: Leaf Collage Portrait](cat-fun.md#-例-21创意树叶拼贴画像) — Natural leaf collage art
+- [Case 66: Dali-style Surreal Coastline](cat-fun.md#-例-66达利风格超现实海岸景观重构) — Dali surrealism recreation
