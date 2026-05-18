@@ -33,7 +33,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (7)
+## 🎴 [Posters & Cards](cat-poster.md) (8)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -44,12 +44,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 56: City Typography Travel Poster](cat-poster.md#-例-56城市文字旅行海报) — Typography city travel poster
 - [Case 59: Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — Cinematic racing poster
 - [Case 60: Great Barrier Reef Travel Poster](cat-poster.md#-例-60大堡礁复古旅行海报) — Vintage travel poster
+- [Case 75: Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — Chinese period drama character poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (18)
+## 📷 [Photography & Realistic](cat-photo.md) (21)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -71,12 +72,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 67: Cinematic Astronauts on Alien Ice](cat-photo.md#-例-67外星冰雪世界中的电影感宇航员) — Sci-fi cinematic concept art
 - [Case 70: Anime-style Officer Mannequin](cat-photo.md#-例-70动漫风警官模特时尚陈列) — Anime-style fashion display
 - [Case 71: Realistic Bird with Art Traces](cat-photo.md#-例-71带有艺术痕迹的写实鸟类) — Realistic animal photography
+- [Case 74: Santorini Breakfast Travel Flat Lay](cat-photo.md#-例-74santorini-breakfast-travel-flat-lay) — Mediterranean travel flat lay
+- [Case 77: Identity-Consistent Caricature Portrait](cat-photo.md#-例-77identity-consistent-caricature-portrait) — Caricature identity portrait
+- [Case 78: Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — Spring mountain village landscape
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (11)
+## 🎨 [Illustration & Art](cat-illustration.md) (12)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -91,6 +95,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 61: Korean City Watercolor Travel](cat-illustration.md#-例-61韩国城市水彩旅行插画) — Watercolor city travel illustration
 - [Case 63: Layered Paper-cut Couple](cat-illustration.md#-例-63层叠纸雕情侣插画) — Paper-cut layered couple illustration
 - [Case 65: Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — Magical gothic library illustration
+- [Case 73: Watercolor Journal Style 2026 Calendar](cat-illustration.md#-例-73watercolor-journal-style-2026-calendar) — Watercolor journal calendar
 
 ---
 
@@ -114,7 +119,7 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (6)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (7)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -124,6 +129,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 44: Isometric Krakow Square Model](cat-3d.md#-例-44等轴测克拉科夫中央集市广场立体模型) — Isometric city diorama
 - [Case 53: Mini Tokyo Food Landscape](cat-3d.md#-例-53迷你东京美食景观) — Miniature food cityscape
 - [Case 54: Mini World Food Landscape Grid](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2 miniature food city grid
+- [Case 72: Jewelry Miniature City Ad Poster](cat-3d.md#-例-72珠宝微缩城市广告海报) — Jewelry miniature city ad
 
 ---
 
@@ -139,11 +145,14 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (1)
+## 🎬 [Comics & Storyboards](cat-comic.md) (4)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
 - [Case 34: Anime Martial Arts Duel](cat-comic.md#-例-34动漫武术对决) — Anime-style martial arts illustration
+- [Case 76: Milan to Cannes Storyboard](cat-comic.md#-例-76从米兰到戛纳的-storyboard-项目表) — Hand-drawn film storyboard
+- [Case 79: Living Hat Cinematic Storyboard](cat-comic.md#-例-79living-hat-cinematic-storyboard) — Luxury cinematic storyboard
+- [Case 80: Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — Pasta tutorial reference board
 
 ---
 

@@ -300,3 +300,44 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 **来源：** [@status](https://x.com/mirochill/status/2055573726159147353) | 2026-05-17
 
 ---
+### 📷 例 74：Santorini Breakfast Travel Flat Lay
+
+![Santorini Breakfast Travel Flat Lay](../images/Santorini%20Breakfast%20Travel%20Flat%20Lay.jpg)
+
+**Prompt:**
+
+```text
+Create a sunlit Mediterranean travel flat-lay photograph on a textured white plaster table, styled like a dreamy vacation memory from {argument name="destination" default="Thirósia, Santorini, Greece"}. Arrange exactly 6 main objects: 1 vintage postcard on the left, 1 large instant-photo print overlapping it at center-right, 1 white pen with a blue tip near the bottom, 1 small cream seashell near the top, 1 folded white linen cloth with pale blue stripes in the upper right, and 1 blue evil-eye bead bracelet with a small silver charm along the right edge. The vintage postcard should show a rocky Greek island cove with clear turquoise water and white buildings, with printed blue text reading “Thirósia” and “Santorini, Greece,” plus a faint postage stamp and cancellation marks. The central instant photo should have a thick white border and show a breakfast scene on a white terrace overlooking the deep blue Aegean Sea, with blurred white Santorini architecture and a blue dome in the background; include exactly 7 breakfast elements inside the photo: 1 red patterned coffee cup and saucer filled with dark coffee, 2 small toast slices, 1 grilled banana, 1 boiled egg, 1 small glass bowl of yellow fruit topped with a dark prune and mint leaves, and 1 scatter of granola or cereal. At the bottom left of the table, add handwritten blue Japanese text reading {argument name="handwritten note" default="まだ見ぬ景色へ、\n一緒にいこう。"} followed by a small blue heart. Use soft morning sunlight, gentle shadows, warm whites and ocean blues, shallow depth of field, realistic paper texture, nostalgic postcard aesthetic, elegant travel diary mood, high-resolution photorealism, no people, no extra text or watermark.
+```
+
+**来源：** [@status](https://x.com/chiOkey/status/2056152728284606696#reversed-0) | 2026-05-18
+
+---
+
+### 📷 例 77：Identity-Consistent Caricature Portrait
+
+![Identity-Consistent Caricature Portrait](../images/Identity-Consistent%20Caricature%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded portrait as the identity reference for the subject’s face, hairstyle, facial structure, and overall impression. Create a high-quality lifestyle editorial portrait of the same person sitting outdoors beside a wooden easel displaying a colorful street-style caricature portrait of them. The real person and the caricature must clearly resemble the same individual. Scene: - the person is seated on a simple wooden folding chair - beside them is a wooden easel holding a large caricature drawing - the setting is a sentimental urban art market - include illustration booths, handmade craft stalls, sketch displays, posters, cozy creative shopfronts, and a few softly blurred pedestrians - lively but not crowded - bright soft daylight, warm natural tones, shallow depth of field - realistic photography for the person and environment - vertical composition showing both the person and the caricature clearly Subject: - preserve the uploaded person’s recognizable identity - natural pose - calm, relaxed, slightly amused expression - stylish casual outfit that suits the subject - clean editorial lifestyle photography - do not force the same pose or expression for every subject Caricature direction: - the drawing on the easel must be a true observational street caricature, not a generic cute cartoon - the caricature artist should exaggerate the subject’s actual most recognizable facial traits - analyze the uploaded face and exaggerate only 2–4 distinctive features, such as eye shape, eyebrows, nose, lips, cheeks, jawline, chin, ears, hairstyle, or facial proportions - each caricature should feel custom-made for that specific person - avoid using the same default cute face for every person - avoid generic big eyes plus tongue-out expression - the caricature should be funny because it captures the person’s unique features, not because it uses a random silly pose Caricature style: - oversized head with smaller simplified body - playful but recognizable facial proportions - bold hand-drawn marker lines - quick sketchy pen strokes - colored pencil texture - lively street-artist energy - humorous but flattering - witty, expressive, and personality-driven - charming handmade imperfections - colorful accent doodles may be added, but keep the focus on the face Expression in the caricature: - choose a natural funny expression that fits the person’s facial character - possible expressions: raised eyebrow, shy smile, surprised eyes, confident smirk, awkward polite smile, exaggerated calm face, pouty lips, confused cute face, or gentle blank stare - the expression should vary depending on the subject - do not always use a tongue-out face - do not always use the same wide-eyed cute expression Caricature canvas: - large vertical drawing board or canvas on a wooden easel - the caricature should be clearly visible and occupy a major part of the image - it should immediately read as a funny street caricature - it should be more exaggerated than a portrait sketch - it should not look like a realistic fashion illustration - it should not look like a polished beauty drawing Important: - the caricature must be custom to the uploaded person - preserve recognizable identity through the exaggerated features - prioritize personality, likeness, and humor over generic cuteness - make the caricature feel like a real street artist observed the person and drew a witty exaggerated version Negative prompt: - no generic cute chibi face - no repeated default caricature face - no tongue-out pose - no identical silly expression for every subject - no random anime expression - no realistic portrait sketch - no polished fashion illustration - no beauty sketch - no weak exaggeration - no scary grotesque distortion - no ugly horror exaggeration - no distorted anatomy of the real person - no extra fingers - no badly drawn hands - no messy crowded background - no text - no watermark - no Eiffel Tower - no famous landmarks.
+```
+
+**来源：** [@status](https://x.com/Kashberg_0/status/2056061305640169643) | 2026-05-18
+
+---
+
+### 📷 例 78：Misty Spring Mountain Village
+
+![Misty Spring Mountain Village](../images/Misty%20Spring%20Mountain%20Village.jpg)
+
+**Prompt:**
+
+```text
+Create a museum-quality realistic landscape photograph inspired by {argument name="source material" default="an ancient Chinese poetic description of a hidden spring mountain village"}. Show a high, elevated viewpoint from a rocky pine-covered cliff looking down into a secluded valley village in {argument name="season" default="early spring"}. The composition features layered blue-green mountains receding into mist, a broad winding river in the far left background, and a smaller clear stream curving through the right side of the valley. In the middle ground, place a small traditional rural Chinese settlement with dark tiled roofs, scattered farm plots, footpaths, and orchards filled with pale pink and white blossoms. Count the visible major landscape elements as exactly 6: one foreground rocky cliff with pine branches, one central village, one blossom-filled orchard belt, one small winding valley stream, one distant broad river, and one layered misty mountain backdrop. Use soft morning light after rain, drifting low fog, luminous haze, wet greenery, and a tranquil atmosphere as if captured by a top National Geographic landscape photographer. The image should feel like a real, collectible fine-art photograph rather than an illustration: natural colors, deep depth, atmospheric perspective, crisp foreground texture, delicate highlights on the blossoms, no people, no animals, no modern buildings, no roads, no power lines, no text or watermark. Use a wide horizontal frame, approximately {argument name="aspect ratio" default="4:3"}, with cinematic realism and subtle Chinese shanshui sensibility.
+```
+
+**来源：** [@status](https://x.com/xiaoxiaodong01/status/2056044320298549559#reversed-1) | 2026-05-18
+
+---

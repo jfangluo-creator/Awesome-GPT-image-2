@@ -33,7 +33,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（7）
+## 🎴 [海报与卡片](cat-poster.md)（8）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -44,12 +44,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 56：城市文字旅行海报](cat-poster.md#-例-56城市文字旅行海报) — 城市排版旅行海报
 - [例 59：Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — 电影感赛车海报
 - [例 60：大堡礁复古旅行海报](cat-poster.md#-例-60大堡礁复古旅行海报) — 复古旅行海报
+- [例 75：Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — 林黛玉古风角色海报
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（18）
+## 📷 [摄影与写实](cat-photo.md)（21）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -71,12 +72,15 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 67：外星冰雪世界中的电影感宇航员](cat-photo.md#-例-67外星冰雪世界中的电影感宇航员) — 科幻电影概念艺术
 - [例 70：动漫风警官模特时尚陈列](cat-photo.md#-例-70动漫风警官模特时尚陈列) — 动漫风时装展示
 - [例 71：带有艺术痕迹的写实鸟类](cat-photo.md#-例-71带有艺术痕迹的写实鸟类) — 写实动物摄影
+- [例 74：Santorini Breakfast Travel Flat Lay](cat-photo.md#-例-74santorini-breakfast-travel-flat-lay) — 圣托里尼旅行平铺摄影
+- [例 77：Identity-Consistent Caricature Portrait](cat-photo.md#-例-77identity-consistent-caricature-portrait) — 漫画肖像身份保持
+- [例 78：Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — 春日山水村庄摄影
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（11）
+## 🎨 [插画与艺术](cat-illustration.md)（12）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -91,6 +95,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 61：韩国城市水彩旅行插画](cat-illustration.md#-例-61韩国城市水彩旅行插画) — 水彩城市旅行插画
 - [例 63：层叠纸雕情侣插画](cat-illustration.md#-例-63层叠纸雕情侣插画) — 纸雕层叠创意插画
 - [例 65：Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — 魔法哥特图书馆插画
+- [例 73：Watercolor Journal Style 2026 Calendar](cat-illustration.md#-例-73watercolor-journal-style-2026-calendar) — 水彩手账风日历插画
 
 ---
 
@@ -114,7 +119,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（6）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（7）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
@@ -124,6 +129,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 44：等轴测克拉科夫中央集市广场立体模型](cat-3d.md#-例-44等轴测克拉科夫中央集市广场立体模型) — 等轴测城市微缩模型
 - [例 53：迷你东京美食景观](cat-3d.md#-例-53迷你东京美食景观) — 微缩美食城市景观
 - [例 54：迷你世界美食景观网格](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2美食微缩城市网格
+- [例 72：珠宝微缩城市广告海报](cat-3d.md#-例-72珠宝微缩城市广告海报) — 珠宝微缩城市广告
 
 ---
 
@@ -139,11 +145,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（1）
+## 🎬 [漫画与分镜](cat-comic.md)（4）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
 - [例 34：动漫武术对决](cat-comic.md#-例-34动漫武术对决) — 动漫风武术对决插画
+- [例 76：从米兰到戛纳的 Storyboard 项目表](cat-comic.md#-例-76从米兰到戛纳的-storyboard-项目表) — 手绘电影故事板
+- [例 79：Living Hat Cinematic Storyboard](cat-comic.md#-例-79living-hat-cinematic-storyboard) — 奢华电影分镜板
+- [例 80：Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — 意面制作参考板
 
 ---
 
