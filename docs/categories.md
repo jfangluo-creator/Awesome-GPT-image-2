@@ -19,7 +19,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="chart"></a>
 
-## 📊 [图表与信息图](cat-chart.md)（5）
+## 📊 [图表与信息图](cat-chart.md)（7）
 
 信息图、流程图、知识图谱、技术图解、数据可视化、爆炸分解图、标注说明图等。
 
@@ -28,12 +28,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 30：FACS 面部表情图表](cat-chart.md#-例-30facs-面部表情图表) — 面部表情编码系统图表
 - [例 49：中国国家概况信息图](cat-chart.md#-例-49中国国家概况信息图) — 国家概况信息图
 - [例 50：Flaming Burger 项目](cat-chart.md#-例-50flaming-burger-项目) — 美食广告分镜规格表
+- [例 81：现代地铁工程信息图](cat-chart.md#-例-81现代地铁工程信息图) — 地铁工程信息图
+- [例 82：奢华机械腕表技术图鉴](cat-chart.md#-例-82奢华机械腕表技术图鉴) — 机械腕表技术图鉴
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（8）
+## 🎴 [海报与卡片](cat-poster.md)（9）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -45,12 +47,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 59：Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — 电影感赛车海报
 - [例 60：大堡礁复古旅行海报](cat-poster.md#-例-60大堡礁复古旅行海报) — 复古旅行海报
 - [例 75：Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — 林黛玉古风角色海报
+- [例 90：Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — 极简几何拿破仑肖像
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（21）
+## 📷 [摄影与写实](cat-photo.md)（23）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -75,12 +78,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 74：Santorini Breakfast Travel Flat Lay](cat-photo.md#-例-74santorini-breakfast-travel-flat-lay) — 圣托里尼旅行平铺摄影
 - [例 77：Identity-Consistent Caricature Portrait](cat-photo.md#-例-77identity-consistent-caricature-portrait) — 漫画肖像身份保持
 - [例 78：Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — 春日山水村庄摄影
+- [例 84：Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — 夜间棒球赛场摄影
+- [例 85：Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — 海滩度假人像摄影
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（12）
+## 🎨 [插画与艺术](cat-illustration.md)（15）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -96,12 +101,15 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 63：层叠纸雕情侣插画](cat-illustration.md#-例-63层叠纸雕情侣插画) — 纸雕层叠创意插画
 - [例 65：Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — 魔法哥特图书馆插画
 - [例 73：Watercolor Journal Style 2026 Calendar](cat-illustration.md#-例-73watercolor-journal-style-2026-calendar) — 水彩手账风日历插画
+- [例 86：唐风荔枝课件封面](cat-illustration.md#-例-86唐风荔枝课件封面) — 唐风课件封面设计
+- [例 88：Crystal Cat Familiar](cat-illustration.md#-例-88crystal-cat-familiar) — 水晶猫咪奇幻插画
+- [例 89：Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — 樱花校门漫画页
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（9）
+## 🧍 [角色设计](cat-character.md)（10）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -114,6 +122,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 64：赛博黑客角色设定表](cat-character.md#-例-64赛博黑客角色设定表) — 赛博朋克角色设定
 - [例 68：武士铠甲三视图设计图](cat-character.md#-例-68武士铠甲三视图设计图) — 武士铠甲概念设计
 - [例 69：魔法学院毕业肖像系统](cat-character.md#-例-69魔法学院毕业肖像系统) — 魔法学院毕业写真
+- [例 87：Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — 深海水母高定概念板
 
 ---
 
@@ -135,11 +144,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="architecture"></a>
 
-## 🏛️ [建筑与空间](cat-architecture.md)（1）
+## 🏛️ [建筑与空间](cat-architecture.md)（2）
 
 室内设计、建筑外观渲染、户型图转 3D、等距建筑、展览空间、主题乐园等。
 
 - [例 11：天坛建筑拆解图](cat-architecture.md#️-例-11天坛建筑拆解图) — 中式建筑爆炸图
+- [例 83：极简主义概念场景描述](cat-architecture.md#-例-83极简主义概念场景描述) — 极简概念场景
 
 ---
 

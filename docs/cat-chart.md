@@ -160,3 +160,147 @@ Create a 3D Insane detailed exploded assembly drawing of {argument name="subject
 
 
 ---
+### 📊 例 81：现代地铁工程信息图
+
+![现代地铁工程信息图](../images/现代地铁工程信息图.jpg)
+
+**Prompt:**
+
+```text
+Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays
+• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting
+• Refined editorial typography hierarchy with modern transportation aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal transit-system iconography
+• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station
+• Thin precision annotation lines pointing toward transportation systems and smart engineering features
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.
+
+Surround the metro with scientific and engineering callouts explaining:
+
+• regenerative braking system
+• smart signalling & CBTC control
+• electric propulsion system
+• passenger information systems
+• safety and surveillance technology
+• platform screen doors
+• energy-efficient design
+• smart ventilation systems
+• accessibility features
+• track and infrastructure engineering
+
+Include modular infographic sections such as:
+
+• Metro System Overview
+• Technical Specifications
+• Train Dimensions & Layout
+• Passenger Capacity & Flow
+• Smart Control Systems
+• Sustainability Features
+• Track & Infrastructure Engineering
+• Signalling & Automation
+• Station Design & Facilities
+• Safety & Emergency Systems
+• Passenger Experience Features
+• Urban Connectivity & Network Map
+• Energy Efficiency Comparison
+• Construction & Expansion Timeline
+• “Top 5 Smart Innovations” section
+• Built for Future Smart Cities
+
+Add small premium visualization modules like:
+
+• metro network maps
+• train blueprint diagrams
+• station layout graphics
+• passenger flow visualizations
+• signalling workflow diagrams
+• energy-efficiency comparison charts
+• train configuration illustrations
+• smart-city connectivity graphics
+• platform safety diagrams
+• infrastructure cross-section visuals
+
+Style Keywords:
+
+“premium urban mobility encyclopedia”
+“editorial metro engineering handbook”
+“high-end transportation infographic”
+“scientific railway infrastructure poster”
+“museum-quality transit reference page”
+“modular smart-city knowledge system”
+“clean transportation editorial design”
+“ultra-detailed metro visualization”
+
+Avoid:
+
+• cluttered public advertisement aesthetics
+• cartoon transportation styling
+• unrealistic sci-fi levitating trains
+• excessive cyberpunk neon overload
+• chaotic city scenes
+• generic subway poster layouts
+
+The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.
+```
+
+**来源：** [@status](https://x.com/j_smeaton99/status/2056950969083343077) | 2026-05-19
+
+---
+
+### 📊 例 82：奢华机械腕表技术图鉴
+
+![奢华机械腕表技术图鉴](../images/奢华机械腕表技术图鉴.jpg)
+
+**Prompt:**
+
+```text
+2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+class Haute_Horlogerie_DNA:
+    def __init__(self):
+        self.subject = "[TIMEPIECE]"
+        self.parents = {
+            "composition_parent": "Exploded movement diagram with transparent case",
+            "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+            "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+            "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+        }
+        self.mutations = {
+            "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+            "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+            "medium_mutation": "Smooth matte premium paper with embossed logo",
+            "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+        }
+        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+    def generate_subject(self):
+        subject = """
+        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+        and strap float in perfect alignment against a bright, clean background.
+        Every gear and spring is highlighted with exacting clarity.
+        """
+        return render(
+            subject,
+            format="luxury watch advertisement with technical insert",
+            title="[MODEL REFERENCE]",
+            subtitle="[MANUFACTURE / COLLECTION]",
+            constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+        )
+```
+
+**来源：** [@status](https://x.com/Gdgtify/status/2056928396991488312) | 2026-05-19
+
+---

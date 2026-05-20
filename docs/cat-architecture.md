@@ -25,3 +25,16 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 
 
 ---
+### 🏛️ 例 83：极简主义概念场景描述
+
+![极简主义概念场景描述](../images/极简主义概念场景描述.jpg)
+
+**Prompt:**
+
+```text
+Perfect for modern design and conceptual projects, this prompt creates serene and balanced minimalist scenes. These visuals use clean compositions, negative space, and subtle textures to evoke calmness and sophistication.
+```
+
+**来源：** [@status](https://x.com/Aiwithkami/status/2056933492571983943) | 2026-05-19
+
+---

@@ -341,3 +341,30 @@ Create a museum-quality realistic landscape photograph inspired by {argument nam
 **来源：** [@status](https://x.com/xiaoxiaodong01/status/2056044320298549559#reversed-1) | 2026-05-18
 
 ---
+### 📷 例 84：Night Baseball Stadium Pitch
+
+![Night Baseball Stadium Pitch](../images/Night%20Baseball%20Stadium%20Pitch.jpg)
+
+**Prompt:**
+
+```text
+Create a highly realistic cinematic sports photograph of a nighttime professional baseball game in a packed stadium, shot from a low wide-angle position just behind home plate on the third-base side. The scene shows exactly 7 visible on-field figures: 1 right-handed batter in a gray away uniform and black helmet raising a wooden bat, 1 catcher in navy protective gear crouched behind the plate, 1 black-uniformed home plate umpire leaning in behind the catcher, 1 pitcher in a navy jersey and white pants mid-delivery on the mound, and 3 distant fielders spread across the infield/outfield. Use {argument name="team colors" default="gray away uniforms versus navy home uniforms"}. The ball should be visible in flight between pitcher and batter. Include the dirt batter's box, white chalk lines, green grass, pitcher's mound, outfield wall, and a huge crowd filling the grandstands under bright stadium floodlights. Place a large electronic scoreboard in the upper right with inning numbers, scores, and dense Japanese-style team/player text, glowing realistically but not needing to be fully legible. Mood: dramatic, tense, heartwarming live-game atmosphere, like a decisive late-inning pitch. Use natural stadium lighting, deep night sky, photorealistic detail, slight motion energy, crisp foreground, and a wide 16:9 composition. Customize the batter as {argument name="main batter description" default="a powerful right-handed hitter in gray with black sleeves"}, the stadium as {argument name="stadium location" default="a large Japanese baseball stadium"}, the scoreboard score as {argument name="scoreboard score" default="1 to 5"}, and the camera style as {argument name="camera style" default="professional sports photojournalism with cinematic realism"}. Avoid logos, watermarks, readable brand names, extra players beyond the specified 7, cartoon styling, or empty seats.
+```
+
+**来源：** [@status](https://x.com/dave392750/status/2056876226166526414#reversed-0) | 2026-05-19
+
+---
+
+### 📷 例 85：Natural Beach Resort Portrait
+
+![Natural Beach Resort Portrait](../images/Natural%20Beach%20Resort%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Realistic style, ultra-high detail. A young adult woman in her early 20s, with long natural black hair, translucent and radiant skin, a natural smile, and a cute yet glamorous face. The background is a small path near a beach at a southern resort, with white sand, coconut trees, and lush southern greenery; the blue ocean is visible in the distance. The woman is wearing an elegant light pink bikini, with an S-curve figure. A pure and refreshing atmosphere. She is walking along the path while turning her head back, smiling naturally at the camera. The character occupies a large proportion of the frame, with the background softly blurred. The overall impression is a fresh casual style. Do not add any text or logos. Emphasize an atmosphere of elegance, translucency, and high likability.
+```
+
+**来源：** [@status](https://x.com/Adam38363368936/status/2056759199481389101) | 2026-05-19
+
+---

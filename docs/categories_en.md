@@ -19,7 +19,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (5)
+## 📊 [Charts & Infographics](cat-chart.md) (7)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -28,12 +28,14 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 30: FACS Facial Expression Chart](cat-chart.md#-例-30facs-面部表情图表) — Facial Action Coding System grid
 - [Case 49: China Country Profile Infographic](cat-chart.md#-例-49中国国家概况信息图) — Country profile infographic
 - [Case 50: Flaming Burger Project](cat-chart.md#-例-50flaming-burger-项目) — Food ad storyboard spec sheet
+- [Case 81: Modern Metro Engineering Infographic](cat-chart.md#-例-81现代地铁工程信息图) — Metro engineering infographic
+- [Case 82: Luxury Mechanical Watch Technical Guide](cat-chart.md#-例-82奢华机械腕表技术图鉴) — Mechanical watch technical guide
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (8)
+## 🎴 [Posters & Cards](cat-poster.md) (9)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -45,12 +47,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 59: Cinematic Porsche Motorsport Poster](cat-poster.md#-例-59cinematic-porsche-motorsport-poster) — Cinematic racing poster
 - [Case 60: Great Barrier Reef Travel Poster](cat-poster.md#-例-60大堡礁复古旅行海报) — Vintage travel poster
 - [Case 75: Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — Chinese period drama character poster
+- [Case 90: Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — Minimalist geometric portrait
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (21)
+## 📷 [Photography & Realistic](cat-photo.md) (23)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -75,12 +78,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 74: Santorini Breakfast Travel Flat Lay](cat-photo.md#-例-74santorini-breakfast-travel-flat-lay) — Mediterranean travel flat lay
 - [Case 77: Identity-Consistent Caricature Portrait](cat-photo.md#-例-77identity-consistent-caricature-portrait) — Caricature identity portrait
 - [Case 78: Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — Spring mountain village landscape
+- [Case 84: Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — Night baseball stadium photography
+- [Case 85: Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — Beach resort portrait photography
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (12)
+## 🎨 [Illustration & Art](cat-illustration.md) (15)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -96,12 +101,15 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 63: Layered Paper-cut Couple](cat-illustration.md#-例-63层叠纸雕情侣插画) — Paper-cut layered couple illustration
 - [Case 65: Magical Gothic Library Balcony](cat-illustration.md#-例-65magical-gothic-library-balcony) — Magical gothic library illustration
 - [Case 73: Watercolor Journal Style 2026 Calendar](cat-illustration.md#-例-73watercolor-journal-style-2026-calendar) — Watercolor journal calendar
+- [Case 86: Tang Style Lychee Courseware Cover](cat-illustration.md#-例-86唐风荔枝课件封面) — Tang dynasty courseware cover
+- [Case 88: Crystal Cat Familiar](cat-illustration.md#-例-88crystal-cat-familiar) — Crystal cat fantasy illustration
+- [Case 89: Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — Cherry blossom manga page
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (9)
+## 🧍 [Character Design](cat-character.md) (10)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -114,6 +122,7 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 64: Cyberpunk Hacker Character Sheet](cat-character.md#-例-64赛博黑客角色设定表) — Cyberpunk character design
 - [Case 68: Samurai Armor Turnaround](cat-character.md#-例-68武士铠甲三视图设计图) — Samurai armor concept design
 - [Case 69: Magic Academy Graduation Portrait](cat-character.md#-例-69魔法学院毕业肖像系统) — Magic academy graduation portrait
+- [Case 87: Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — Deep sea jellyfish couture concept
 
 ---
 
@@ -135,11 +144,12 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (1)
+## 🏛️ [Architecture & Space](cat-architecture.md) (2)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
 - [Case 11: Temple of Heaven Exploded View](cat-architecture.md#️-例-11天坛建筑拆解图) — Chinese architecture exploded view
+- [Case 83: Minimalist Concept Scene](cat-architecture.md#-例-83极简主义概念场景描述) — Minimalist concept scene
 
 ---
 

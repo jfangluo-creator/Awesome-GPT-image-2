@@ -220,3 +220,16 @@ Visual style: High-detail photorealistic fantasy poster with Chinese ink-wash at
 **来源：** [@status](https://x.com/MrLarus/status/2056091007255491030#reversed-0) | 2026-05-18
 
 ---
+### 🎴 例 90：Minimalist Geometric Napoleon Portrait
+
+![Minimalist Geometric Napoleon Portrait](../images/Minimalist%20Geometric%20Napoleon%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Using REFERENCE_0 as the source composition, transform the painting into a minimalist, stylized geometric poster portrait. Preserve the same rider-on-rearing-horse pose, overall framing, dramatic red cloak, military costume, horse direction, mountainous battlefield setting, and the intentionally blurred face area. Replace the classical oil-painting texture with clean flat-color vector shapes, sharp angular planes, simplified shadows, and a limited palette of deep navy, slate blue, cream white, tan, black, and vivid red. Make the mountains, clouds, horse anatomy, cloak folds, and ground into faceted polygonal forms with crisp edges and high-contrast graphic lighting. Simplify all background soldiers and battlefield details into small abstract silhouettes; keep exactly 5 visible small soldier figures along the lower-left slope and one cannon wheel. Remove the carved foreground text on the rocks and avoid adding any new text. Keep the composition vertical and heroic, with dynamic diagonal motion and a modern editorial illustration feel.
+```
+
+**来源：** [@status](https://x.com/TWnese/status/2056709694560018781#reversed-1) | 2026-05-19
+
+---

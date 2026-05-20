@@ -323,3 +323,68 @@ S M T W T F S
 **来源：** [@status](https://x.com/you1873118/status/2056175244256411890) | 2026-05-18
 
 ---
+### 🎨 例 86：唐风荔枝课件封面
+
+![唐风荔枝课件封面](../images/唐风荔枝课件封面.jpg)
+
+**Prompt:**
+
+```text
+目标：创作一张优雅的唐风课件/PPT 封面，主题为 {argument name="main title" default="杨贵妃 与 荔枝"}，展现以荔枝和朦胧宫廷美人为核心的诗意中国历史美学。
+
+画布：16:9 横向演示封面，采用带有细微纤维、污渍、浅划痕和水墨老化效果的暖象牙色手工宣纸背景。整体色调为柔和的奶油色、灰粉色、淡桃色、褪色红、橄榄灰和水墨灰。
+
+布局：将主标题以精致的中文书法风格衬线字体置于左侧中央。副标题置于其正下方，最左侧配有装饰性金色花纹。左侧和中下部留出充足的负空间。右半部分展示一位唐代贵族女性的柔和半透明背影剪影，露出肩部，梳着高耸圆髻，佩戴华丽的金色垂坠发饰，发间点缀着硕大的粉红色牡丹花；其面部区域特意用一块素雅的淡米色矩形遮挡。周围点缀漂浮的荔枝，并增加前景深度模糊效果。
+
+文本内容：包含以下明确的可见文本区域：1) 左上角云形印章，内含“盛唐 / 风物”；2) 主标题“杨贵妃 与 荔枝”；3) 副标题“一颗果子的盛唐记忆”；4) 左下角英文堆叠文字“Tang Dynasty / Cultural Story / Courseware”；5) 左下角中文标签“PPT · 课件”；6) 右侧竖排诗句“长安回望绣堆，山顶千门次第开。——杜牧《过华清宫》”；7) 剥皮荔枝旁的小标签，写有“贵妃鲜”并带有红色印章标记；8) 右下角页码“01”，下方配有小型金色装饰下划线。
+
+主体细节：包含 4 个可见的荔枝元素：上方中央漂浮一颗模糊的小荔枝，右侧一颗清晰的完整荔枝，右下中央一颗剥皮的大荔枝（露出半透明白色果肉，红色凹凸果皮向外翻开），以及前景下方一颗高度模糊的荔枝局部。在剥皮荔枝旁添加几片淡绿色荔枝叶。荔枝呈现绘画感且真实，具有凹凸的红色外壳和柔和的自然高光。
+
+视觉风格：极简奢华的中国编辑设计，博物馆课件封面，柔和水墨，半透明分层，浅景深，精致的金色点缀，低调的红色印章，平衡的非对称构图，无现代 UI 元素。
+
+约束：保持页面整洁通透，严格控制 4 个荔枝元素的数量，确保所有排版清晰易读，除指定标签外不添加额外文本，无水印，避免写实风格的强光效果。
+```
+
+**来源：** [@status](https://x.com/xiaoxiaodong01/status/2056620564048224765#reversed-1) | 2026-05-19
+
+---
+
+### 🎨 例 88：Crystal Cat Familiar
+
+![Crystal Cat Familiar](../images/Crystal%20Cat%20Familiar.jpg)
+
+**Prompt:**
+
+```text
+Create a luminous fantasy anime illustration of {argument name="character name" default="Nico"}, a small elegant crystal cat familiar standing in a majestic cathedral made of glass and gemstones. The cat has a petite foxlike feline body, oversized pointed ears, a delicate smiling face, long white whiskers, and large sparkling {argument name="eye color" default="violet-blue"} eyes with glossy highlights. Its entire body appears made from translucent faceted crystal, primarily {argument name="crystal body color" default="icy blue and lavender"}, refracting rainbow prismatic colors across its face, torso, legs, paws, and ears. Add one diamond-shaped gem embedded on the forehead, plus a faceted jewel collar or chest ornament. The cat stands in a graceful three-quarter pose, front legs straight, back slightly arched, head turned toward the viewer, with an expression that feels magical, confident, and gentle. Include exactly two long flowing tails curling upward behind it, each ending in a bright crystal flame or gem tip: one glowing pink-magenta and one glowing cyan-blue, both surrounded by tiny star sparkles. The setting is an ethereal crystal palace interior with tall arched columns on both sides, stained-glass windows glowing softly in the background, a polished reflective floor, and distant gem formations. Use a pastel palette of blue, lavender, pink, cyan, and pearly white, with soft volumetric backlight, rainbow caustics, glittering particles, lens-like starbursts, and a dreamy high-detail gpt-image-2 fantasy art style. Keep the composition centered, full-body, square format, no text, no watermark, no extra animals.
+```
+
+**来源：** [@status](https://x.com/00_hasu_00/status/2056729059313545658#reversed-0) | 2026-05-19
+
+---
+
+### 🎨 例 89：Cherry Blossom School Gate Manga Page
+
+![Cherry Blossom School Gate Manga Page](../images/Cherry%20Blossom%20School%20Gate%20Manga%20Page.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a black-and-white manga page about two schoolgirls arriving at a school gate under cherry blossoms, with one character partly highlighted in pale cyan and the other character’s face obscured by gray blur blocks.
+
+Canvas: Vertical manga page, approximately 2:3 aspect ratio, high-resolution monochrome screentone style with thick black panel borders, clean line art, speed lines, petals, and dramatic perspective. Use grayscale shading with only one accent color: faint cyan glow on the glasses-haired girl.
+
+Layout: Use exactly 5 visible manga panels. Panel 1 is a large top-left scene showing a twin-tailed schoolgirl in a sailor uniform standing on a cherry blossom path with the school gate far behind her; her face is covered by a soft-edged gray rectangular blur. Panel 2 is a narrow inset at the top right showing a cropped long-haired girl in sailor uniform holding a school bag in front of her body. Panel 3 is another top-right inset beside it showing the same long-haired girl wearing a beret and glowing cyan glasses, touching the bridge of her glasses with a confident gesture. Panel 4 is a wide middle panel showing the twin-tailed girl close up, raising one hand in greeting; her face is again covered by a larger gray rectangular blur. Panel 5 is a large bottom panel showing a dramatic tilted view of an ornate school gate opening in bright light, with the long-haired girl running or turning toward the viewer and the cyan-glasses girl standing farther back on the right.
+
+Characters: The twin-tailed girl has messy medium-length twin ponytails tied with ribbons, a sailor school uniform with bow, pleated skirt, and shy energetic body language. The long-haired girl has very long flowing hair, sailor uniform, pleated skirt, school bag in one inset, and a composed expression in the bottom panel. The second version of the long-haired girl wears a round beret, glasses glowing pale cyan, sailor uniform, dark skirt, knee socks, and has a mysterious tech-like aura.
+
+Text content: Include exactly 3 Japanese speech/sound text elements: a speech bubble in panel 1 reading {argument name="first speech bubble" default="あ見えたー校門"}, a speech bubble in panel 4 reading {argument name="second speech bubble" default="沙羅さーん、葵ちゃん！"}, and large stylized gate-opening sound effects in panel 5 reading {argument name="sound effect text" default="ザァァァ"}. Add small handwritten manga sound effects near the girls if needed, but keep them minimal and visually secondary.
+
+Setting and style: A spring school entrance lined with dense cherry blossom trees, falling petals, stone path, ornate iron gate, bright backlight from the gate, detailed manga hatching, screentones, speed lines, and cinematic perspective. The overall style should resemble a polished Japanese shoujo manga page, with expressive poses, delicate hair rendering, dramatic lighting, and clean page composition.
+
+Constraints: Keep the page monochrome except for the cyan glow on the glasses character. Keep the blurred gray face blocks visible on the twin-tailed girl in panels 1 and 4. Do not add extra panels, extra main characters, watermarks, logos, or English text. Use {argument name="school uniform style" default="Japanese sailor uniforms with bow ties and pleated skirts"} and a {argument name="season" default="spring cherry blossom season"} atmosphere.
+```
+
+**来源：** [@status](https://x.com/charon_artist/status/2056721178224636315#reversed-0) | 2026-05-19
+
+---
