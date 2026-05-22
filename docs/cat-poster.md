@@ -233,3 +233,111 @@ Using REFERENCE_0 as the source composition, transform the painting into a minim
 **来源：** [@status](https://x.com/TWnese/status/2056709694560018781#reversed-1) | 2026-05-19
 
 ---
+### 🎴 例 92：极简渐变手机壁纸
+
+![极简渐变手机壁纸](../images/极简渐变手机壁纸.jpg)
+
+**Prompt:**
+
+```text
+设计一张精美的 {argument name="orientation" default="9:16 垂直"} 壁纸。在画面顶部和底部保留自然的留白空间。应用一种从上到下过渡的 {argument name="style" default="柔和、平滑的渐变"} 效果。避免任何模糊效果或裁剪。保持构图简洁明快。
+```
+
+**来源：** [@status](https://x.com/iamaiistudio/status/2057107196245381559) | 2026-05-20
+
+---
+
+### 🎴 例 94：逼真的多汁芝士汉堡飞溅效果
+
+![逼真的多汁芝士汉堡飞溅效果](../images/逼真的多汁芝士汉堡飞溅效果.jpg)
+
+**Prompt:**
+
+```text
+一个用于拍摄逼真芝士汉堡的高速美食摄影提示词，包含融化的芝士和电影级的酱汁飞溅效果。
+```
+
+**来源：** [@status](https://x.com/ElaraNoorAl8/status/2056991564745023570) | 2026-05-20
+
+---
+
+### 🎴 例 97：Double Exposure Sunset Beach Portrait
+
+![Double Exposure Sunset Beach Portrait](../images/Double%20Exposure%20Sunset%20Beach%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the {argument name="reference photo" default="uploaded portrait"} only as the identity and hairstyle reference. Accurately preserve the person’s real facial identity, face shape, facial features, skin tone, hairstyle, hair volume, and natural real-life appearance. Do not copy the original clothes, background, lighting, pose, or image quality from the uploaded portrait.
+
+Create a highly realistic cinematic double-exposure portrait in a vertical 9:16 composition. The scene is set at a {argument name="location" default="golden sunset beach"} with a calm ocean horizon, glowing orange sunlight, soft waves, and a dreamy purple-pink sky.
+
+The final image should have two layers of the same person. The main layer is a large transparent side-profile portrait occupying the upper and middle part of the image, facing slightly upward with a soft natural smile, elegant facial expression, realistic skin texture, and long flowing hair. The face should blend naturally into the sunset sky and ocean light, creating a poetic cinematic double-exposure effect.
+
+The second layer shows the same person as a smaller realistic half-body portrait near the lower center of the frame, standing or sitting in front of the ocean sunset. She wears an {argument name="outfit" default="elegant dark gray off-shoulder / strapless top"} with simple jewelry, natural makeup, soft glossy lips, and a calm romantic expression. The clothing should be tasteful, refined, and cinematic.
+
+Add glowing golden particles and sparkling light dust flowing through the hair area of the large portrait, like tiny fireflies or stardust, blending into the warm sunset glow. The particles should look magical but still realistic, not cartoonish. Use soft cinematic lighting, warm golden rim light, gentle shadows, natural skin texture, high dynamic range, realistic ocean reflections, subtle film grain, premium editorial photography style.
+
+Make the image dreamy, romantic, cinematic, elegant, and high-end. No text, no logo, no watermark, no Chinese characters, no random letters.
+
+Negative Prompt：
+
+watermark, logo, text, Chinese characters, random letters, low quality, blurry face, distorted face, fake skin, plastic skin, over-smoothed skin, anime, cartoon, illustration, AI-looking face, bad anatomy, deformed hands, extra fingers, duplicate face, messy composition, harsh outline, overexposure, oversaturated colors, unnatural smile, broken double exposure, bad hair detail, noisy artifacts, pixelated image.
+```
+
+**来源：** [@status](https://x.com/Shinning1010/status/2057740383346622469) | 2026-05-20
+
+---
+
+### 🎴 例 100：Vintage Onsen Member Card
+
+![Vintage Onsen Member Card](../images/Vintage%20Onsen%20Member%20Card.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a whimsical Japanese hot spring membership card profile design for {argument name="character name" default="tabo"}, styled like a vintage printed certificate with cute animal illustration.
+
+Canvas: Horizontal membership card, wide 16:9 ratio, warm aged cream paper background with subtle grain, stains, and slightly worn edges. Use a double-line ornate gold border with clipped decorative corners and small Japanese cloud motifs in muted gold.
+
+Layout: Large top headline reads “ONSEN MEMBER CARD” in a Western vintage serif font, dark brown with gold shading and engraved texture. Centered above or between the words is a small red hot spring steam icon. Under the headline, add Japanese text “温泉会員証” with symmetrical gold flourishes on both sides. The main illustration fills the middle: a smiling capybara soaking in an orange-red hot spring, wearing a folded white towel on its head, cheeks slightly rosy, one eye happily closed. Behind it are rocky volcanic hot spring scenery, steam wisps, and two volcanoes: 1 smaller smoking volcano on the left and 1 larger erupting volcano on the right with orange lava. In the bath water, include 1 small capybara head in the left-middle background. The water is rendered as swirling orange and red crayon-like rings.
+
+Visible labeled elements: Include exactly 5 major text/mark areas: 1 large English title “ONSEN MEMBER CARD”; 1 Japanese subtitle “温泉会員証”; 1 vertical red plaque on the left with white Japanese text “極楽湯めぐり”; 1 circular red stamp on the lower right with Japanese text “入浴済” and a small steam icon; 1 bottom information strip divided into two boxed fields. In the bottom left field, show small label “お名前” and large handwritten Japanese name {argument name="display name" default="たぼ"}. In the bottom right field, show small label “会員番号” and membership number {argument name="membership number" default="26-0410-2680-26"}.
+
+Visual style: Hand-drawn colored-pencil and crayon texture, nostalgic Showa-era Japanese travel-ticket aesthetic, warm browns, reds, oranges, cream, and muted gold. Keep lines slightly imperfect and tactile, as if printed on thick washi paper. Add small decorative plum blossom icons in gold and red near the lower corners.
+
+Constraints: Keep the design readable as a single card, with no photorealism, no modern UI elements, no extra logos, and no additional text beyond the specified 5 text/mark areas.
+```
+
+**来源：** [@status](https://x.com/ebi_vulcan/status/2057487703952986315#reversed-0) | 2026-05-20
+
+---
+
+### 🎴 例 104：袖珍速写本灯塔场景
+
+![袖珍速写本灯塔场景](../images/袖珍速写本灯塔场景.jpg)
+
+**Prompt:**
+
+```text
+一只逼真的人手拿着一本圆角袖珍速写本，像微型纸艺剧场一样打开，直立的后页与水平的前页构成一幅连续的手绘场景。场景为 {argument name="coastal setting" default="日落时分新英格兰崎岖的灯塔悬崖小径，旁临波涛汹涌的大海"}：一条石子路从前景延伸，跨过折页，向上通往岩石岬角上的白色灯塔和守塔人小屋，伴有泡沫翻涌的海浪、深色悬崖、木质护栏、地平线上的温暖夕阳以及戏剧性的蓝紫色云层天空。在手绘场景中包含两个活体人物：{argument name="main character" default="一位身穿长款深色雨衣、戴着宽檐帽并提着发光灯笼的孤独守塔人"} 站在小径上，以及 {argument name="animal companion" default="前景小径上的一只海鸥"}。使用强制透视的视觉陷阱（trompe-l’oeil）手法，使手绘的小径、阴影、栅栏和悬崖在垂直和水平页面间无缝衔接。以不透明水粉丙烯民间插画风格渲染，呈现哑光纸张质感、清晰且富有表现力的笔触、简化的几何形态以及丰富的绘画细节。展示横跨前景页面的浓重投影、书脊和速写本底部可见的层叠纸张边缘，以及圆角页面令人信服的物理厚度。手部必须看起来照片级逼真，具有自然的皮肤纹理、静脉、指关节和抓握速写本的指尖。将所有物体置于中性暖米色摄影棚背景中，以四分之三俯视角度进行微距实物拍摄，并采用 f/2.8 的浅景深。光线应为来自左上方的柔和漫射环境光，速写本下方带有细腻的接触阴影，图像边缘附近有微妙的色差。使用 3:4 竖构图，避免出现任何文字、标志或水印。
+```
+
+**来源：** [@status](https://x.com/GeekCatX/status/2057407829401809122#reversed-0) | 2026-05-20
+
+---
+
+### 🎴 例 106：复古水彩旅行海报
+
+![复古水彩旅行海报](../images/复古水彩旅行海报.jpg)
+
+**Prompt:**
+
+```text
+极简主义复古旅行海报，精致的水彩和墨水素描风格，优雅的欧洲旅行插画，纹理象牙白纸张背景上的柔和中性色调，手绘城市景观，随性的水彩渲染，精细的建筑钢笔线条，舒适的咖啡馆店面，自行车，鹅卵石街道，鲜花盛开的阳台，经典路灯，柔和的大气透视，电影般的晨光，梦幻的旅行日记美学，精致的排版布局，顶部带有大型衬线体国家/城市标题，手写副标题和诗意标语，小型护照风格印章，优雅的编辑构图，通透的留白，永恒的旅行杂志设计。
+场景变化：• {argument name="city" default="伦敦"} 雨中街道，红色双层巴士，黑色出租车，背景中的 {argument name="landmark" default="大本钟"}，舒适的书店咖啡馆，波多贝罗路标识，{argument name="palette" default="柔和的灰米色调搭配淡红色点缀"}。• 希腊：粉刷成白色的圣托里尼小巷，蓝色圆顶，九重葛花，海边咖啡馆，地中海阳光，明亮的白色和柔和的海洋蓝色调。• 瑞士：高山湖畔小镇，雪山，复古电车，瑞士国旗，豪华咖啡馆露台，宁静的欧洲老城氛围。• 澳大利亚：墨尔本风格的电车街道，盛开紫色花朵的蓝花楹，阳光明媚的咖啡文化，现代与复古交织的城市景观。
+```
+
+**来源：** [@status](https://x.com/Taaruk_/status/2057298831289761976) | 2026-05-20
+
+---

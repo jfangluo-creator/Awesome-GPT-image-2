@@ -19,7 +19,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (7)
+## 📊 [Charts & Infographics](cat-chart.md) (8)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -30,12 +30,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 50: Flaming Burger Project](cat-chart.md#-例-50flaming-burger-项目) — Food ad storyboard spec sheet
 - [Case 81: Modern Metro Engineering Infographic](cat-chart.md#-例-81现代地铁工程信息图) — Metro engineering infographic
 - [Case 82: Luxury Mechanical Watch Technical Guide](cat-chart.md#-例-82奢华机械腕表技术图鉴) — Mechanical watch technical guide
+- [Case 103: Digital Oil Painting Living Room](cat-chart.md#-例-103数字油画客厅练习页) — Digital paint-by-number page
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (9)
+## 🎴 [Posters & Cards](cat-poster.md) (15)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -48,12 +49,18 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 60: Great Barrier Reef Travel Poster](cat-poster.md#-例-60大堡礁复古旅行海报) — Vintage travel poster
 - [Case 75: Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — Chinese period drama character poster
 - [Case 90: Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — Minimalist geometric portrait
+- [Case 92: Minimalist Gradient Phone Wallpaper](cat-poster.md#-例-92极简渐变手机壁纸) — Gradient phone wallpaper
+- [Case 94: Photorealistic Juicy Cheeseburger Splash](cat-poster.md#-例-94逼真的多汁芝士汉堡飞溅效果) — Cheeseburger splash effect
+- [Case 97: Double Exposure Sunset Beach Portrait](cat-poster.md#-例-97double-exposure-sunset-beach-portrait) — Double exposure beach portrait
+- [Case 100: Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — Vintage onsen membership card
+- [Case 104: Pocket Sketchbook Lighthouse Scene](cat-poster.md#-例-104袖珍速写本灯塔场景) — Miniature sketchbook lighthouse
+- [Case 106: Vintage Watercolor Travel Poster](cat-poster.md#-例-106复古水彩旅行海报) — Watercolor travel poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (23)
+## 📷 [Photography & Realistic](cat-photo.md) (24)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -80,6 +87,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 78: Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — Spring mountain village landscape
 - [Case 84: Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — Night baseball stadium photography
 - [Case 85: Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — Beach resort portrait photography
+- [Case 102: Cinematic Anime Girl Close-up](cat-photo.md#-例-102电影感动漫少女特写) — Cinematic anime close-up
 
 ---
 
@@ -109,7 +117,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (10)
+## 🧍 [Character Design](cat-character.md) (12)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -123,12 +131,14 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 68: Samurai Armor Turnaround](cat-character.md#-例-68武士铠甲三视图设计图) — Samurai armor concept design
 - [Case 69: Magic Academy Graduation Portrait](cat-character.md#-例-69魔法学院毕业肖像系统) — Magic academy graduation portrait
 - [Case 87: Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — Deep sea jellyfish couture concept
+- [Case 91: Lian Zhi Dark Fantasy Character](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — Dark fantasy character design
+- [Case 98: Professional Character Reference Layout](cat-character.md#-例-98专业角色参考图布局) — Character reference sheet layout
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (7)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (8)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -139,6 +149,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 53: Mini Tokyo Food Landscape](cat-3d.md#-例-53迷你东京美食景观) — Miniature food cityscape
 - [Case 54: Mini World Food Landscape Grid](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2 miniature food city grid
 - [Case 72: Jewelry Miniature City Ad Poster](cat-3d.md#-例-72珠宝微缩城市广告海报) — Jewelry miniature city ad
+- [Case 99: Stylized 3D Character Toy Render](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D character toy render
 
 ---
 
@@ -155,7 +166,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (4)
+## 🎬 [Comics & Storyboards](cat-comic.md) (6)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -163,23 +174,26 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 76: Milan to Cannes Storyboard](cat-comic.md#-例-76从米兰到戛纳的-storyboard-项目表) — Hand-drawn film storyboard
 - [Case 79: Living Hat Cinematic Storyboard](cat-comic.md#-例-79living-hat-cinematic-storyboard) — Luxury cinematic storyboard
 - [Case 80: Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — Pasta tutorial reference board
+- [Case 101: Trading Card Battle Anime Storyboard](cat-comic.md#-例-101trading-card-battle-anime-storyboard) — Card battle anime storyboard
+- [Case 105: Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — Anime in real scene composite
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (2)
+## 🏷️ [Brand & Packaging](cat-brand.md) (3)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
 - [Case 22: Beverage Splash Commercial Poster](cat-brand.md#️-例-22饮料飞溅商业海报) — Beverage commercial ad poster
 - [Case 24: Four Seasons Packaging Campaign](cat-brand.md#️-例-24四季包装-campaign-宫格) — Seasonal packaging campaign grid
+- [Case 96: Brand Milk Tea KV Concept Poster](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — Brand KV concept poster
 
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (4)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (5)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -187,6 +201,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 29: Photo to LEGO Minifigure](cat-edit.md#-例-29照片转-lego-小人仔) — Photo to LEGO style conversion
 - [Case 37: Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — Perler bead style portrait conversion
 - [Case 45: Ghibli & Anime Style Photo](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — Anime style photo conversion
+- [Case 93: Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K photo restoration
 
 ---
 

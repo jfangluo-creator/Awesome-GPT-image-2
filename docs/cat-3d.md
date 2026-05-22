@@ -177,3 +177,16 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 **来源：** [@status](https://x.com/Umar__786Ai/status/2055664244138349055) | 2026-05-18
 
 ---
+### 🧸 例 99：风格化 3D 角色玩具渲染
+
+![风格化 3D 角色玩具渲染](../images/风格化%203D%20角色玩具渲染jpg.jpg)
+
+**Prompt:**
+
+```text
+将用户上传的照片转换为 {argument name="render style" default="风格化 3D 角色渲染"}，同时保留主体特征、姿势和构图。渲染风格：柔和极简的卡通 3D，接近 Pixar 风格但更简洁，类似于玩具人偶或精致的产品角色设计。皮肤：光滑的哑光塑料质感，带有柔和均匀的纹理和细腻的次表面散射。面部：半闭的厌世眼，厚重的眼睑，圆润简化的鼻子，简化的圆耳朵，平直的中性嘴巴。整体表情：冷漠、平静、无聊。服装：{argument name="outfit" default="柔和哑光面料的极简街头服饰"}，无 Logo，无图案。可选配饰：简单的棒球帽和无线耳机。光照：摄影棚柔光箱设置，阴影极柔和，低对比度，微妙的高光。背景：{argument name="background color" default="纯色柔和绿或柔和色调"}，无渐变。相机：正面拍摄，中景特写，等效 50mm 镜头，零畸变。高分辨率，边缘清晰，无噪点，强调风格化而非写实。
+```
+
+**来源：** [@status](https://x.com/iamaiistudio/status/2057524095697527251) | 2026-05-20
+
+---

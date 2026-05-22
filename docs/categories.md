@@ -19,7 +19,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="chart"></a>
 
-## 📊 [图表与信息图](cat-chart.md)（7）
+## 📊 [图表与信息图](cat-chart.md)（8）
 
 信息图、流程图、知识图谱、技术图解、数据可视化、爆炸分解图、标注说明图等。
 
@@ -30,12 +30,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 50：Flaming Burger 项目](cat-chart.md#-例-50flaming-burger-项目) — 美食广告分镜规格表
 - [例 81：现代地铁工程信息图](cat-chart.md#-例-81现代地铁工程信息图) — 地铁工程信息图
 - [例 82：奢华机械腕表技术图鉴](cat-chart.md#-例-82奢华机械腕表技术图鉴) — 机械腕表技术图鉴
+- [例 103：数字油画客厅练习页](cat-chart.md#-例-103数字油画客厅练习页) — 数字油画练习页
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（9）
+## 🎴 [海报与卡片](cat-poster.md)（15）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -48,12 +49,18 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 60：大堡礁复古旅行海报](cat-poster.md#-例-60大堡礁复古旅行海报) — 复古旅行海报
 - [例 75：Lin Daiyu Period Drama Poster](cat-poster.md#-例-75lin-daiyu-period-drama-poster) — 林黛玉古风角色海报
 - [例 90：Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — 极简几何拿破仑肖像
+- [例 92：极简渐变手机壁纸](cat-poster.md#-例-92极简渐变手机壁纸) — 极简渐变壁纸
+- [例 94：逼真的多汁芝士汉堡飞溅效果](cat-poster.md#-例-94逼真的多汁芝士汉堡飞溅效果) — 芝士汉堡飞溅效果
+- [例 97：Double Exposure Sunset Beach Portrait](cat-poster.md#-例-97double-exposure-sunset-beach-portrait) — 双重曝光日落海滩
+- [例 100：Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — 复古温泉会员卡
+- [例 104：袖珍速写本灯塔场景](cat-poster.md#-例-104袖珍速写本灯塔场景) — 迷你速写本灯塔场景
+- [例 106：复古水彩旅行海报](cat-poster.md#-例-106复古水彩旅行海报) — 水彩旅行海报
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（23）
+## 📷 [摄影与写实](cat-photo.md)（24）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -80,6 +87,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 78：Misty Spring Mountain Village](cat-photo.md#-例-78misty-spring-mountain-village) — 春日山水村庄摄影
 - [例 84：Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — 夜间棒球赛场摄影
 - [例 85：Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — 海滩度假人像摄影
+- [例 102：电影感动漫少女特写](cat-photo.md#-例-102电影感动漫少女特写) — 电影感动漫少女特写
 
 ---
 
@@ -109,7 +117,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（10）
+## 🧍 [角色设计](cat-character.md)（12）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -123,12 +131,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 68：武士铠甲三视图设计图](cat-character.md#-例-68武士铠甲三视图设计图) — 武士铠甲概念设计
 - [例 69：魔法学院毕业肖像系统](cat-character.md#-例-69魔法学院毕业肖像系统) — 魔法学院毕业写真
 - [例 87：Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — 深海水母高定概念板
+- [例 91：Lian Zhi 暗黑奇幻角色设计图](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — 暗黑奇幻角色设计
+- [例 98：专业角色参考图布局](cat-character.md#-例-98专业角色参考图布局) — 角色参考图布局
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（7）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（8）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
@@ -139,6 +149,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 53：迷你东京美食景观](cat-3d.md#-例-53迷你东京美食景观) — 微缩美食城市景观
 - [例 54：迷你世界美食景观网格](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2美食微缩城市网格
 - [例 72：珠宝微缩城市广告海报](cat-3d.md#-例-72珠宝微缩城市广告海报) — 珠宝微缩城市广告
+- [例 99：风格化 3D 角色玩具渲染](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D角色玩具渲染
 
 ---
 
@@ -155,7 +166,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（4）
+## 🎬 [漫画与分镜](cat-comic.md)（6）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
@@ -163,23 +174,26 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 76：从米兰到戛纳的 Storyboard 项目表](cat-comic.md#-例-76从米兰到戛纳的-storyboard-项目表) — 手绘电影故事板
 - [例 79：Living Hat Cinematic Storyboard](cat-comic.md#-例-79living-hat-cinematic-storyboard) — 奢华电影分镜板
 - [例 80：Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — 意面制作参考板
+- [例 101：Trading Card Battle Anime Storyboard](cat-comic.md#-例-101trading-card-battle-anime-storyboard) — 卡牌对战动画分镜
+- [例 105：Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — 动漫角色实景合成
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [品牌与包装](cat-brand.md)（2）
+## 🏷️ [品牌与包装](cat-brand.md)（3）
 
 Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝系列设计等。
 
 - [例 22：饮料飞溅商业海报](cat-brand.md#️-例-22饮料飞溅商业海报) — 饮料商业广告海报
 - [例 24：四季包装 Campaign 宫格](cat-brand.md#️-例-24四季包装-campaign-宫格) — 季节主题包装Campaign
+- [例 96：品牌奶茶 KV 概念海报](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — 品牌KV概念海报
 
 ---
 
 <a id="edit"></a>
 
-## 🔧 [图像编辑与变换](cat-edit.md)（4）
+## 🔧 [图像编辑与变换](cat-edit.md)（5）
 
 风格迁移（吉卜力/像素风等）、物体移除/添加、老照片修复上色、透明背景提取、图片扩展补全等。
 
@@ -187,6 +201,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 29：照片转 LEGO 小人仔](cat-edit.md#-例-29照片转-lego-小人仔) — 照片转乐高风格
 - [例 37：Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — 拼豆风格肖像转换
 - [例 45：吉卜力与动漫风格照片转换](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — 动漫风格照片转换
+- [例 93：Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K照片修复还原
 
 ---
 

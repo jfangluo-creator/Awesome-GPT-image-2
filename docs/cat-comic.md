@@ -114,3 +114,52 @@ Constraints: Do not create a text-heavy poster. Preserve the exact count of 9 to
 **来源：** [@status](https://x.com/Just_sharon7/status/2055922428854063548#reversed-0) | 2026-05-18
 
 ---
+### 🎬 例 101：Trading Card Battle Anime Storyboard
+
+![Trading Card Battle Anime Storyboard](../images/Trading%20Card%20Battle%20Anime%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a polished anime storyboard sheet for a fictional 10-second trading card battle anime sequence, designed like a cinematic ad storyboard made from five horizontal panels.
+
+Canvas: Landscape 16:10 white storyboard page with thin gray table borders, a centered Japanese headline at the top reading {argument name="headline text" default="10秒トレーディングカードバトルアニメ 絵コンテ"}, a thin red line accent near the top left, and a small angular red logo-like mark in the top right.
+
+Layout: Use a three-column storyboard grid. The left column is narrow and contains red cut labels plus timing. The center column is wide and contains cinematic anime stills. The right column is a white notes column with camera direction and action notes. There are exactly 5 horizontal rows, separated by light gray lines.
+
+Visible cut list: 1) Cut 1, 0.0s-2.0s: wide establishing arena shot. 2) Cut 2, 2.0s-4.0s: medium-close shot of the protagonist activating a card device. 3) Cut 3, 4.0s-6.2s: extreme close-up of a card thrust toward the viewer. 4) Cut 4, 6.2s-8.5s: whip-pan summoning scene with a dragon hologram appearing. 5) Cut 5, 8.5s-10.0s: final low-angle hero-and-dragon shot.
+
+Subject details: The protagonist is {argument name="protagonist description" default="a fiery red-haired teenage anime boy wearing a red-and-black battle jacket, fingerless gloves, and a glowing mechanical card duel device on one arm"}. The summoned monster is {argument name="dragon description" default="a crimson armored dragon with huge wings, jagged horns, glowing red crystal chest core, and ember-like highlights"}. The arena is {argument name="arena description" default="a futuristic packed stadium at night with blue neon spotlights, a glowing duel field, massive audience stands, and a giant VS screen"}. The main card art shows a red demonic dragon emblem and fiery energy.
+
+Center-panel imagery: Cut 1 shows the full stadium duel field with the red-haired protagonist on the left, an opponent in white far away on the right, giant red and blue card banners, and a large glowing “VS” display in the background. Cut 2 shows the protagonist grinning confidently, holding up a red dragon card while red energy coils around the wrist-mounted duel device; intentionally obscure or soften the exact face area as if motion-blurred/censored. Cut 3 shows a sharp close-up of one intense red eye and the raised dragon card, with rack-focus depth of field and explosive red particle streaks behind it. Cut 4 shows a red magic circle covering the arena floor as the dragon materializes in holographic flame beside the protagonist. Cut 5 shows the protagonist standing heroically beside the fully formed dragon, both lit from below by red embers and dramatic battle light.
+
+Right-column text notes: For Cut 1 write “wide shot / dolly in / audience cheers, introduce protagonist”. For Cut 2 include the red Japanese quote {argument name="summon quote" default="「来い、紅蓮王ドラグレイザー！」"} followed by “medium-close-up / fearless smile / device activation”. For Cut 3 write “extreme close-up / rack focus / thrust card toward camera”. For Cut 4 write “whip pan / hologram summon / dragon appears”. For Cut 5 write “low angle / orbit shot / decisive cut”.
+
+Visual style: High-energy modern shonen anime, glossy digital painting, cinematic lighting, red and blue color contrast, intense lens flares, speed lines, sparks, holographic particles, dramatic perspective, crisp storyboard presentation, professional production-board clarity.
+
+Constraints: Keep exactly 5 storyboard rows, exactly 3 columns, and preserve the timing labels. Do not add extra cuts, extra characters, watermarks, or unrelated UI elements.
+```
+
+**来源：** [@status](https://x.com/Yuupapa_free/status/2057464371232850117#reversed-0) | 2026-05-20
+
+---
+
+### 🎬 例 105：Anime Character in Real Rooftop Scene
+
+![Anime Character in Real Rooftop Scene](../images/Anime%20Character%20in%20Real%20Rooftop%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the character base, place the same anime character into a photorealistic outdoor rooftop/parking-deck environment. Keep the character’s pose, outfit, hairstyle, accessories, colors, and cel-shaded anime rendering intact, but integrate them naturally into a real-world scene with realistic daylight, perspective, and atmospheric lighting.
+
+Add a real human hand in the foreground, reaching toward the character from the lower left, slightly motion-blurred and out of focus, as if someone is about to touch or stop her. The hand should visibly overlap the scene in front of the character without changing her design.
+
+Background: replace the plain background with a realistic rooftop concrete surface, railings, distant city skyline, and blue sky with scattered clouds. Use shallow depth of field so the hand is foreground-blurred and the distant buildings are softly blurred, while the anime character remains the main sharp subject.
+
+Style constraints: preserve the 2D anime character look against a live-action photographic background, creating a convincing anime-plus-real-photo image-to-image composite. Do not redesign the character, do not add extra characters, and do not add text or watermarks.
+```
+
+**来源：** [@status](https://x.com/Eris_Create_Lab/status/2057272698741669964#reversed-0) | 2026-05-20
+
+---
