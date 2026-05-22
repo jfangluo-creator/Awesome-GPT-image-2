@@ -261,6 +261,30 @@ Using REFERENCE_0 as the source composition, transform the painting into a minim
 
 ---
 
+### 🎴 例 95：复古"节制"塔罗牌组合
+
+![复古"节制"塔罗牌组合](../images/复古%22节制%22塔罗牌组合.jpg)
+
+**Prompt:**
+
+```text
+目标：创建一张复古塔罗牌设计图，精确展示并排的 2 张牌：左侧为塔罗牌正面，右侧为配套的牌背。
+
+画布：横向构图，背景为透明棋盘格预览，两张牌均为垂直方向，间距均匀且居中。采用陈旧的米色纸张、柔和的墨色、风化的边缘以及手绘风格的古董塔罗牌美学。
+
+左侧牌，正面设计：一张经典的塔罗牌，顶部小牌匾上标有 {argument name="card title" default="TEMPERANCE"} 和罗马数字 {argument name="roman numeral" default="XIV"}。牌面带有华丽的植物边框，装饰有藤蔓、小花、星星和角落线条。中心站立着一位宁静的女性形象，身穿飘逸的 {argument name="dress color" default="淡青色"} 希腊罗马风格长裙，裙摆开叉，赤脚站在浅水中，正将液体从一个金杯倒入另一个金杯。面部呈现柔和模糊的油画质感，而非细节刻画。她身后有放射状光环、散落的星星、新月、远山、河流、花草，右侧基座上有一尊可爱的小石猫雕像。底部的标题栏包含大号衬线字体，书写着 TEMPERANCE。
+
+右侧牌，背面设计：一张配套的华丽塔罗牌背面，无标题文字。使用相同的陈旧羊皮纸色调和深绿金色细边框。中心包含一个巨大的圆形罗盘星徽章：同心圆内有一个 8 角星，深青色圆环上装饰着金色小点。周围添加对称的太阳光芒，由许多向外延伸的细射线组成。在圆圈上下方加入垂直装饰点和菱形标记，以及几何角落支架和方形角落装饰。
+
+视觉风格：古董神秘学插画、受新艺术运动启发的塔罗牌雕刻、柔和青色、鼠尾草绿、赭石金、奶油色羊皮纸、精细墨水排线、略微褪色的印刷质感、细微污渍、逼真的纸张纹理、手工线条艺术。
+
+限制：仅展示 2 张牌：1 张正面和 1 张背面。保持两张牌的大小和方向一致。保留可读文字 {argument name="bottom title text" default="TEMPERANCE"} 和 XIV。不要添加额外的牌、手部、样机阴影、现代 UI 或水印。
+```
+
+**来源：** [@torotora_SL](https://x.com/torotora_SL/status/2057026693764964828#reversed-0) | 2026-05-20
+
+---
+
 ### 🎴 例 97：Double Exposure Sunset Beach Portrait
 
 ![Double Exposure Sunset Beach Portrait](../images/Double%20Exposure%20Sunset%20Beach%20Portrait.jpg)

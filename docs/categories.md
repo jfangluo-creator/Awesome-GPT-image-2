@@ -36,7 +36,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（15）
+## 🎴 [海报与卡片](cat-poster.md)（16）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -51,6 +51,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 90：Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — 极简几何拿破仑肖像
 - [例 92：极简渐变手机壁纸](cat-poster.md#-例-92极简渐变手机壁纸) — 极简渐变壁纸
 - [例 94：逼真的多汁芝士汉堡飞溅效果](cat-poster.md#-例-94逼真的多汁芝士汉堡飞溅效果) — 芝士汉堡飞溅效果
+- [例 95：复古"节制"塔罗牌组合](cat-poster.md#-例-95复古节制塔罗牌组合) — 复古塔罗牌设计
 - [例 97：Double Exposure Sunset Beach Portrait](cat-poster.md#-例-97double-exposure-sunset-beach-portrait) — 双重曝光日落海滩
 - [例 100：Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — 复古温泉会员卡
 - [例 104：袖珍速写本灯塔场景](cat-poster.md#-例-104袖珍速写本灯塔场景) — 迷你速写本灯塔场景

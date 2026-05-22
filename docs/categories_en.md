@@ -36,7 +36,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (15)
+## 🎴 [Posters & Cards](cat-poster.md) (16)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -51,6 +51,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 90: Minimalist Geometric Napoleon Portrait](cat-poster.md#-例-90minimalist-geometric-napoleon-portrait) — Minimalist geometric portrait
 - [Case 92: Minimalist Gradient Phone Wallpaper](cat-poster.md#-例-92极简渐变手机壁纸) — Gradient phone wallpaper
 - [Case 94: Photorealistic Juicy Cheeseburger Splash](cat-poster.md#-例-94逼真的多汁芝士汉堡飞溅效果) — Cheeseburger splash effect
+- [Case 95: Vintage Temperance Tarot Card](cat-poster.md#-例-95复古节制塔罗牌组合) — Vintage tarot card design
 - [Case 97: Double Exposure Sunset Beach Portrait](cat-poster.md#-例-97double-exposure-sunset-beach-portrait) — Double exposure beach portrait
 - [Case 100: Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — Vintage onsen membership card
 - [Case 104: Pocket Sketchbook Lighthouse Scene](cat-poster.md#-例-104袖珍速写本灯塔场景) — Miniature sketchbook lighthouse
