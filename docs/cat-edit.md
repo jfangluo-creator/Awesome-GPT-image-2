@@ -72,3 +72,30 @@ Using the provided reference image, restore and upscale it into an ultra-premium
 **来源：** [@status](https://x.com/ftcarpe/status/2057081501515215148#reversed-1) | 2026-05-20
 
 ---
+### 🔧 例 108：Photo to 3D Toy Figure
+
+![Photo to 3D Toy Figure](../images/Photo%20to%203D%20Toy%20Figure.jpg)
+
+**Prompt:**
+
+```text
+Please convert the subject of the photo into a {argument name="figure style" default="toy-like figure"}. However, the person should be depicted as a slightly exaggerated 3D character. Soft sculptural forms, matte textures, simplified geometry, cinematic clarity, and high visual polish. Keep the character stylized yet recognizable. Behind the figure, place a branded box printed with the attached image (the one before characterization). Place a circular pedestal in front of the box and have the figure sit on it. Represent this in an indoor desk environment.
+```
+
+**来源：** [@status](https://x.com/zuttoWEB/status/2058461584796831984) | 2026-05-22
+
+---
+
+### 🔧 例 110：Paper-Cut Layered Diorama
+
+![Paper-Cut Layered Diorama](../images/Paper-Cut%20Layered%20Diorama.jpg)
+
+**Prompt:**
+
+```text
+Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use {argument name="shapes" default="smooth rounded shapes"}, simplified cute character proportions, and {argument name="facial details" default="minimal facial details (dot eyes, blush cheeks)"} to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock ++Add a distinct white outer outline layer surrounding each main character, resembling a thick sticker border or white cut-paper backing, clearly separating the characters from the background. This white layer should feel like an intentional paper layer, not a glow. Use a {argument name="color palette" default="pastel color palette"} with muted blues, greens, and warm neutrals, balanced and calming. Lighting should feel soft, diffused, and even, enhancing the dimensional paper layers without harsh contrast. ++++ Textures should appear matte and tactile, like thick art paper or craft foam. Overall mood: cozy, wholesome, gentle, and storybook-like, with a playful yet polished handcrafted feel suitable for modern illustration, children’s books, or decorative art.
+```
+
+**来源：** [@status](https://x.com/Kashberg_0/status/2058457174809211049) | 2026-05-22
+
+---

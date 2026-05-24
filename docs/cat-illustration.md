@@ -388,3 +388,59 @@ Constraints: Keep the page monochrome except for the cyan glow on the glasses ch
 **来源：** [@status](https://x.com/charon_artist/status/2056721178224636315#reversed-0) | 2026-05-19
 
 ---
+### 🎨 例 111：Dark Pop Cheshire Cat Girl
+
+![Dark Pop Cheshire Cat Girl](../images/Dark%20Pop%20Cheshire%20Cat%20Girl.jpg)
+
+**Prompt:**
+
+```text
+Create a highly saturated dark-pop anime fantasy illustration of {argument name="character name" default="a Cheshire Cat inspired cat girl"} perched sideways on a thick tree branch in an enchanted forest at sunset. The character has an oversized mischievous feline head with purple and orange fur markings, large pointed ears with pink-blue inner ears, one huge glowing red-orange eye open, the other eye winking, long white whiskers, and a very wide toothy grin with sharp triangular teeth. Her body is humanoid but petite, wearing a gothic black puff-sleeve dress with white ruffled trim, a small black neck bow, lace details, and glossy black platform lace-up boots. Add exactly 5 prominent outfit elements: black puff-sleeve dress, white ruffled cuffs, black neck bow, striped arm sleeve, glossy platform boots. The visible legs wear bold horizontal striped thigh-high stockings in alternating pale blue, navy, cream, and warm peach tones. One arm has a vivid striped sleeve in red, pink, cyan, orange, and yellow, ending in a fluffy white cat paw glove with a ruffled cuff and small gold button. Include one huge curling fluffy tail sweeping across the lower foreground, colored with alternating purple and orange bands. Composition: vertical portrait, dynamic low-angle view, the character leaning forward playfully from the branch with legs dangling toward the viewer; one paw rests near the boots, the enormous tail frames the bottom. Background: tangled dark tree branches, glowing golden sun behind the head creating strong rim light, and stained-glass-like multicolored foliage in teal, magenta, yellow, orange, and violet. Visual style: {argument name="art style" default="glossy niji anime dark pop illustration"}, ultra-detailed linework, dramatic backlighting, neon color grading, high contrast shadows, luminous highlights, painterly texture, whimsical but slightly sinister Alice-in-Wonderland mood. Use {argument name="color palette" default="electric purple, orange, cyan, gold, magenta, and black"}. No text, no watermark, no frame, no extra characters.
+```
+
+**来源：** [@status](https://x.com/HarunagaMutsuki/status/2058399744842682664#reversed-0) | 2026-05-22
+
+---
+
+### 🎨 例 113：Chinese Museum Deconstruction Infographic
+
+![Chinese Museum Deconstruction Infographic](../images/Chinese%20Museum%20Deconstruction%20Infographic.jpg)
+
+**Prompt:**
+
+```text
+Automatically generate a museum-encyclopedia-style Chinese deconstruction infographic from the {argument name="theme" default="[theme]"} I provide.
+
+Combine a realistic central visual with structural breakdown, Chinese leader-line callouts, material notes, pattern symbolism, color meaning, and a core-feature summary. From the theme alone, infer the most fitting subject, costume system, object structure, historical era, key components, materials and craftsmanship, color palette, and overall layout. No extra input required from me.
+
+Overall aesthetic: National Museum exhibition board, historical costume encyclopedia, scholarly subject infographic. Not a poster, ancient-style portrait, e-commerce detail page, or anime illustration. Background uses paper textures, off-white, silk-paper white, or light tea-color, with a premium, restrained, collectible feel.
+
+Fixed layout:
+- Top: Chinese main title + subtitle + short intro
+- Left: structural deconstruction area, Chinese leader-line annotations on key components, with partial close-ups
+- Top right: materials / craft / texture area, real texture swatches with descriptions
+- Middle right: pattern / color / symbolism area, main color palette, pattern samples, cultural notes
+- Bottom: dressing order / assembly flowchart + summary of core features
+
+If the theme suits a human subject, use a realistic full-body standing figure as the centerpiece. If it suits an object or single structure, switch to a central deconstruction diagram, but keep the overall infographic format intact. All text in Simplified Chinese, clear, neat, readable, no garbled glyphs, typos, English, or pinyin. Emphasize realistic structure, material contrast, cultural commentary, and an encyclopedic feel.
+
+Avoid: poster vibe, studio-photo vibe, e-commerce vibe, anime vibe, cosplay vibe, messy annotations, wrong structure, blurry text, fake materials, excessive decoration.
+```
+
+**来源：** [@status](https://x.com/iamaiistudio/status/2058248203934544035) | 2026-05-22
+
+---
+
+### 🎨 例 117：极简侘寂风诗歌海报
+
+![极简侘寂风诗歌海报](../images/极简侘寂风诗歌海报.webp)
+
+**Prompt:**
+
+```text
+”{argument name="诗句" default="白日依山尽，黄河入海流"}“微小剪影，极简侘寂海报风格，单色米色和深炭色调，略带忧郁但平静，富有诗意的排版。
+```
+
+**来源：** [@status](https://x.com/KendrinT/status/2058111442012782642) | 2026-05-22
+
+---

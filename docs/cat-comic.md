@@ -163,3 +163,82 @@ Style constraints: preserve the 2D anime character look against a live-action ph
 **来源：** [@status](https://x.com/Eris_Create_Lab/status/2057272698741669964#reversed-0) | 2026-05-20
 
 ---
+### 🎬 例 114：12-Panel Spear Sakuga Storyboard
+
+![12-Panel Spear Sakuga Storyboard](../images/12-Panel%20Spear%20Sakuga%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a monochrome anime action storyboard sheet for an animation fight sequence, full of rough sakuga energy: gestural, dynamic, and readable, like a choreography bible for animators. The subject is {argument name="character name" default="a long-haired robed spear warrior"} performing a spear-and-water combat ritual across exactly 12 panels.
+
+Canvas: Wide horizontal storyboard board, 16:9 ratio, divided into an exact 3x4 grid with thick black panel borders. Each panel has a black number badge in the upper-left corner, numbered 01 through 12, with hand-lettered uppercase titles and small color-coded annotation notes.
+
+Visual style: Grayscale ink-and-pencil concept art with loose sketch lines, dramatic motion blur, wind-torn cloth, flying hair, splashing water, ruined coastal towers, hanging lanterns, birds in the sky, and cinematic camera angles. Keep the art mostly black, white, and gray, but overlay clear colored animator annotations: red for camera movement, blue for body mechanics, green for weapon arc, orange for impact or lantern reaction, and purple for timing or hold beats. Annotation arrows should be hand-drawn, bright, and readable.
+
+Layout and panel content: Include exactly 12 storyboard panels:
+
+01 — SPEAR PLANT REVEAL: The warrior stands upright on flooded stone, spear planted vertically into the water. Distant towers and seabirds behind. Red arrows show a low front wide camera move, blue notes show still stance, green arrow shows spear vertical, purple rings at the feet show stillness.
+
+02 — TIDE BREATH: Medium side shot. The warrior extends the spear horizontally while cloth and hair flow in the wind. Red note: medium side. Blue arrows: arms rise, inhale. Green arrow: spear lifts parallel. Purple timing mark: breath hold.
+
+03 — FIRST SWEEP CUT: Dynamic tracking-wide shot of the warrior lunging into a wide sweeping spear cut, water exploding at the feet. Red annotation: tracking wide. Blue arrows: hip rotation, low sweep. Green arc sweeps left to right across the panel. Purple note: release.
+
+04 — SPIRAL ENTRY: Overhead or high-angle spin view. The warrior rotates in a 360-degree spiral, robes forming circular motion. Red note: orbit follow. Blue: spin 360. Green: spear orbital loop. Purple: snap at top.
+
+05 — SALTWATER STEP: Ground-tracking shot. The warrior steps forward through shallow seawater, spear trailing outward, ripples spreading. Red: ground tracking. Blue: cross step forward. Green: water ripples outward. Purple: weight shift.
+
+06 — PILLAR VAULT: High-angle follow shot as the warrior vaults or leaps near a tall broken pillar. Red: high angle follow. Blue: upward vault, body extend. Green: spear trails below. Purple: airborne beat.
+
+07 — DOWNWARD PLUNGE: Front low push-in. The warrior drives the spear downward into the ground or water, creating a violent burst. Red: front low push-in. Blue: two-hand strike descend. Green: spear vertical down. Orange: impact burst. Purple: hit snap.
+
+08 — BLADE SPIN RECOVER: Wide side view recovery stance. The warrior pivots low while the spear loops tightly around the body. Red: wide side view. Blue: behind-back loop, recover stance. Green: tight spear loop. Purple: reset breath.
+
+09 — LANTERN PASS: Rear three-quarter composition with the warrior passing under hanging lanterns, spear extended across the frame. Red: rear 3/4. Blue: tip graze precise line. Green: spear tip path. Orange: lanterns sway, chain reaction. Purple: soft snap.
+
+10 — TIDE SILHOUETTE: Extreme low wide shot. The warrior poses dramatically on a broken stone platform against a towering wave. Red: extreme low wide. Blue: full body pose. Green: spear overhead arc. Purple: hero pause.
+
+11 — ROBES-TO-WATER CUT: Tracking front shot. The warrior slashes downward through water, robes whipping into the motion. Red: tracking front. Blue: slide descend steps. Green: robes trail through water. Purple: controlled flow decay.
+
+12 — RITE UNFINISHED: Wide hero shot at sunset or pale dawn. The warrior stands facing the horizon, spear leveled forward, ocean ruins and a glowing sun in the distance. Red: wide hero shot. Blue: stand and level forward. Green: spear leveled at horizon. Purple: forward intent.
+
+Text content: Use hand-lettered English titles exactly as listed for all 12 panels. Add small colored notes inside each panel, matching the listed red, blue, green, orange, and purple annotations. Optional main design emphasis: {argument name="motion emphasis" default="water-spear choreography with readable animation planning arrows"}.
+
+Constraints: Exactly 12 panels in a 3x4 grid, no extra panels. Preserve the locked annotation color key: red camera, blue body, green weapon arc, orange impact, purple timing. Keep the image mostly monochrome with only the annotation colors vivid. Avoid polished clean lineart; keep it rough, energetic, cinematic, and storyboard-like.
+```
+
+**来源：** [@status](https://x.com/CoderJunkie/status/2058205777744326673#reversed-0) | 2026-05-22
+
+---
+
+### 🎬 例 118：电影级足球广告项目
+
+![电影级足球广告项目](../images/电影级足球广告项目.jpg)
+
+**Prompt:**
+
+```text
+目标：为 15 秒超写实电影级竖屏足球营销活动创建一个精致的商业项目演示，每一帧画面中均包含同一位女性足球运动员，标题为 {argument name="headline text" default="UNSTOPPABLE STARTS NOW"}。
+
+画布：宽屏 16:9 黑色演示项目，带有细白色分割线，采用高端体育代理机构布局，高对比度，每个面板中包含写实的体育场摄影，顶部设有小型元数据栏。使用黑色背景、白色压缩大写字体，并用蓝色强调块标注面板编号和“STARTS”一词。
+
+页眉：左上角放置一个白色 Adidas 风格的三条纹标志，随后是主标题“UNSTOPPABLE STARTS NOW”，其中“UNSTOPPABLE”为白色，“STARTS NOW”为电光蓝色。下方添加小字：“COMMERCIAL STORYBOARD   CINEMATIC FOOTBALL CAMPAIGN”。右上角添加小型制作标签：“DIRECTOR / SPORTS COMMERCIAL UNIT”、“BRAND / ADIDAS FOOTBALL”、一个小型“16:9”徽章以及“CINEMATIC STORYBOARD”。
+
+布局：使用 6 个项目面板，按 3 列 2 行的网格排列。每个面板都有一个蓝色编号方块、一个大写场景标题、一张超写实电影级图像，并在下方标注三个简短说明，分别标记为 ACTION（动作）、CAMERA（镜头）和 NOTES（备注）。在所有 6 个面板中保持一致的参考角色：{argument name="character description" default="一位年轻、运动型、扎着高马尾的金发女性足球运动员，身穿带有黑色肩部拼接、蓝色滚边、白色球袜和足球鞋的白色 Real Madrid 风格球衣"}。面部表情保持中性或略微遮挡，而非特定名人。
+
+项目面板，共 6 个：
+1. “THE ARRIVAL” — 球员在日落时分从体育场通道走进拥挤的足球场，橙色天空充满戏剧感，观众席上有 Real Madrid 风格的旗帜，巨大的体育场灯光，低角度广角入场镜头。下方文字：ACTION：随着体育场欢呼声响起，她从通道走出。CAMERA：具有戏剧性规模的低角度广角入场镜头。NOTES：日落 + 体育场灯光营造出电影般的对比度。
+2. “CROWD REACTION” — 手持侧边视角，兴奋的球迷向前欢呼、用手机拍摄，当她自信走过时，背景是闪光灯和体育场灯光。下方文字：ACTION：球迷起立、欢呼并拍摄她的入场。CAMERA：充满活力的手持侧边视角。NOTES：闪光灯、动态模糊和真实的观众氛围。
+3. “THE FIRST TRICK” — 紧凑的体育动作追踪镜头，她靠近边线，用膝盖轻松颠着 {argument name="football type" default="黑白足球"}，观众欢呼，明亮的体育场泛光灯，蓝色的 Champions League 风格丝带标牌。下方文字：ACTION：她用膝盖轻松颠球。CAMERA：紧凑的体育动作追踪镜头。NOTES：球定格在半空中，观众反应更加热烈。
+4. “MATCH-DAY ENERGY” — 宽屏电影级体育场全景，球员沿边线移动，观众席人头攒动并挥舞旗帜，彩带和烟雾炮，广告项目，充满活力的比赛日氛围。下方文字：ACTION：她沿边线移动，观众陷入疯狂。CAMERA：超宽电影级体育场全景。NOTES：彩带、烟雾、横幅和充满活力的氛围。
+5. “THE MOMENT” — 球场上的戏剧性低角度肖像，她抬起一只脚控球，头顶体育场灯光闪烁，浅景深，强烈的英雄式停顿。下方文字：ACTION：她停下，控制住球，掌控全场。CAMERA：戏剧性低角度肖像镜头。NOTES：浅景深，面部电影级布光。
+6. “ICONIC EXIT” — 球员背着黑色背包向中场慢跑的后方跟随镜头，球衣号码可见，远处比赛仍在继续，巨大的体育场屏幕显示着她的身影，观众和灯光略带动态模糊。下方文字：ACTION：比赛继续，她慢跑向中场。CAMERA：带有体育场规模感的后方跟随镜头。NOTES：史诗般的结尾帧，观众和灯光带有动态模糊。
+
+视觉风格：超写实体育商业摄影、电影级调色、清晰细节、体育场泛光灯、观众活力、轻微动态模糊、高端品牌项目美学、整洁的编辑间距、图像周围细白边框、微小但清晰的制作说明字体。
+
+约束：使用 6 个面板，不得增加额外面板。在所有面板中保持相同的球员、球衣、发型和体型。即使描述的是竖屏视频营销活动，项目仍需保持 16:9 横屏。避免使用除 Adidas 风格页眉标志和足球场品牌标识以外的随机 Logo。使其看起来像一份成品专业项目表，而非漫画页。
+```
+
+**来源：** [@status](https://x.com/Just_sharon7/status/2058062379536269612#reversed-0) | 2026-05-22
+
+---

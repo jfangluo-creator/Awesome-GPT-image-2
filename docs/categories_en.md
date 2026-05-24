@@ -61,7 +61,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (24)
+## 📷 [Photography & Realistic](cat-photo.md) (26)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -89,12 +89,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 84: Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — Night baseball stadium photography
 - [Case 85: Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — Beach resort portrait photography
 - [Case 102: Cinematic Anime Girl Close-up](cat-photo.md#-例-102电影感动漫少女特写) — Cinematic anime close-up
+- [Case 109: Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — Golden hour pastel portrait
+- [Case 112: Japanese Breakfast Flat Lay](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — Japanese breakfast flat lay
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (15)
+## 🎨 [Illustration & Art](cat-illustration.md) (18)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -118,7 +120,7 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (12)
+## 🧍 [Character Design](cat-character.md) (13)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -134,12 +136,13 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 87: Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — Deep sea jellyfish couture concept
 - [Case 91: Lian Zhi Dark Fantasy Character](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — Dark fantasy character design
 - [Case 98: Professional Character Reference Layout](cat-character.md#-例-98专业角色参考图布局) — Character reference sheet layout
+- [Case 115: Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — Tide priestess character sheet
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (8)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (9)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -151,6 +154,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 54: Mini World Food Landscape Grid](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2 miniature food city grid
 - [Case 72: Jewelry Miniature City Ad Poster](cat-3d.md#-例-72珠宝微缩城市广告海报) — Jewelry miniature city ad
 - [Case 99: Stylized 3D Character Toy Render](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D character toy render
+- [Case 116: EMA Collectible Action Figure Box](cat-3d.md#-例-116ema-collectible-action-figure-box) — Collectible action figure box
 
 ---
 
@@ -167,7 +171,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (6)
+## 🎬 [Comics & Storyboards](cat-comic.md) (8)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -177,24 +181,27 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 80: Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — Pasta tutorial reference board
 - [Case 101: Trading Card Battle Anime Storyboard](cat-comic.md#-例-101trading-card-battle-anime-storyboard) — Card battle anime storyboard
 - [Case 105: Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — Anime in real scene composite
+- [Case 114: 12-Panel Spear Sakuga Storyboard](cat-comic.md#-例-11412-panel-spear-sakuga-storyboard) — Spear sakuga storyboard
+- [Case 118: Cinematic Football Ad Project](cat-comic.md#-例-118电影级足球广告项目) — Cinematic football ad project
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (3)
+## 🏷️ [Brand & Packaging](cat-brand.md) (4)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
 - [Case 22: Beverage Splash Commercial Poster](cat-brand.md#️-例-22饮料飞溅商业海报) — Beverage commercial ad poster
 - [Case 24: Four Seasons Packaging Campaign](cat-brand.md#️-例-24四季包装-campaign-宫格) — Seasonal packaging campaign grid
 - [Case 96: Brand Milk Tea KV Concept Poster](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — Brand KV concept poster
+- [Case 107: Vintage Japanese Eraser Product Packaging](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — Vintage eraser product packaging
 
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (5)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (7)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -203,6 +210,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 37: Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — Perler bead style portrait conversion
 - [Case 45: Ghibli & Anime Style Photo](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — Anime style photo conversion
 - [Case 93: Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K photo restoration
+- [Case 108: Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — Photo to 3D figure conversion
+- [Case 110: Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — Paper-cut layered diorama
 
 ---
 

@@ -381,3 +381,67 @@ Realistic style, ultra-high detail. A young adult woman in her early 20s, with l
 **来源：** [@status](https://x.com/jpn_eagle/status/2057437685686706467#reversed-0) | 2026-05-20
 
 ---
+### 📷 例 109：Golden Hour Pastel Pink Portrait
+
+![Golden Hour Pastel Pink Portrait](../images/Golden%20Hour%20Pastel%20Pink%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+[Core Requirements] A portrait of a person in a {argument name="clothing color" default="light pastel pink"} sleeveless top under the warm golden sunlight of late afternoon. Maintain realistic proportions.
+
+[Person's Pose and Expression] [Person Reference Images 1-11] The subject is standing in {argument name="pose" default="profile"} with a dreamy and slightly sad gaze toward the camera. The person looks at the camera only with their eyes, with their head slightly lowered and turned. Hair naturally flutters around the face due to the wind blowing from behind.
+
+[Hair and Makeup Details] A dark-haired bun style tied loosely at the back, but many strands of hair are naturally scattered over the face and neck. The makeup is transparent and clean, with a natural blush on the cheeks and lips in a moist, natural color. Fine beads of sweat are visible on the skin.
+
+[Lighting and Direction] A warm and intense halo light enters through the hair from the center of the frame, wrapping the woman's hair and facial contours in a golden glow. Light reflects off the skin, giving it a sheen.
+
+[Texture and Color Mood] A soft, dreamy atmosphere and graininess, as if shot with a film camera. Colors harmonize warm gold, green, and soft light blue. The fine texture of the skin and the cotton texture of the sleeveless clothing are felt.
+
+[Film and Camera Lens Depth/Angle] Shallow depth of field makes the subject sharp while the background is softly blurred. Captured from the front in a medium close-up. A soft and warm depiction characteristic of old-fashioned film lenses.
+
+[Background Elements (Optional)] Blurred green leaves are visible in the background.
+
+[Signature] A small Threads logo (operated by Meta) is located in the bottom right, with "{argument name="signature" default="CHAse"}" written small like a signature in white cursive above it.
+```
+
+**来源：** [@status](https://x.com/CHAseUnre/status/2058331892894892335) | 2026-05-22
+
+---
+
+### 📷 例 112：带有日式手写标注的早餐俯拍图
+
+![带有日式手写标注的早餐俯拍图](../images/带有日式手写标注的早餐俯拍图.jpg)
+
+**Prompt:**
+
+```text
+目标：创作一张温馨的早餐俯拍照片，配有手写日记风格的日文标注，营造出适合温暖清晨社交媒体帖子的氛围。画面应具有真实感、柔和的后期处理效果以及淡淡的怀旧气息。
+
+画布：16:9 宽屏横向图片，尺寸约为 1024×576。背景使用棕白格纹桌布，配以柔和的晨光、轻柔的阴影以及略带温暖的胶片质感。
+
+主体布局：放置 2 个主要的食物/饮品区。左侧是一个装饰性的红白瓷茶杯，盛着黑咖啡，放在配套的托盘上。右侧是一个白色大方盘，盛放早餐食物。左上角留出深色的负空间，用于书写标题。
+
+食物与物品数量：盘子区域内包含 7 个可见的早餐物品/道具：1 叠烤面包片、1 根剥了一半皮的熟香蕉、1 小堆格兰诺拉麦片、1 个透明玻璃碗盛着浅黄色苹果酱（顶部有 1 颗深色西梅）、1 个棕色鸡蛋、1 个位于鸡蛋后方的小木制蛋杯或木制杯垫，以及 1 个白色方盘。吐司应作为盘子的视觉中心，呈现金黄的烤制表面和厚实的白面包边。香蕉应位于盘子左上方。鸡蛋应位于盘子右上方。玻璃碗应位于右下方。格兰诺拉麦片应位于吐司和玻璃碗之间。
+
+手写文字与标注数量：添加 9 组白色/黑色墨水的手写标注，配有箭头、圆圈、小爱心、闪光符号和涂鸦。保留日文文本作为装饰性手写内容：
+1. 左上角大标题：「わたしの整う朝ごはん。」
+2. 标题下方副标题：「シンプルだけど、ちゃんと満たされる。」
+3. 咖啡附近的圆形注释：「今日も はじまりは 深い一杯から。」
+4. 咖啡下方的小注释：「ほっと息をつく、大切な時間。」
+5. 左下角带有粉色胶带的撕纸便签：「朝の光を浴びて、心もからだも ゆっくり目覚めていく。」
+6. 香蕉上方带箭头的注释：「完熟バナナで やさしい甘みを チャージ。」
+7. 鸡蛋旁边的气泡注释：「たんぱく質で 1日を すっきり スタート！」
+8. 吐司附近带箭头的注释：「サクッと焼けた トーストが 一番のごちそう。」
+9. 右下方围绕格兰诺拉麦片、苹果酱和整体感受的注释：「ザクザクのグラノーラで 食感と栄養をプラス。」、「りんごとプルーンで 自然な甘さを からだにやさしく。」以及「ちゃんと食べると、心までふんわり軽くなる。」
+
+视觉风格：写实的早餐摄影与随性的手绘叠加图形相结合。大部分手写文字使用白色墨水，盘子上的食物标签使用黑色墨水，并配以虚线气泡、弯曲箭头、小星星、小爱心和俏皮的下划线。字体应看起来像手写，而非数字化字体。标注应清晰可见，但带有自然的不完美感。
+
+可自定义元素：标题应显示为 {argument name="headline text" default="わたしの整う朝ごはん。"}；饮品应为 {argument name="morning drink" default="红瓷杯中的黑咖啡"}；主食应为 {argument name="main breakfast food" default="厚实金黄的吐司"}；水果应为 {argument name="fruit item" default="熟香蕉和配有西梅的苹果酱"}；整体氛围应为 {argument name="mood" default="温柔、温馨、正念的清晨"}。
+
+约束条件：保持构图整洁且令人食欲大开，不要添加超出规定数量的额外食物，不要出现人物或手部，避免出现 Logo 或水印，并将日文手写字自然地融入图片中，就像一张经过精心编辑的早餐日记照片。
+```
+
+**来源：** [@status](https://x.com/chiOkey/status/2058325688105763103#reversed-0) | 2026-05-22
+
+---

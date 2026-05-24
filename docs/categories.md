@@ -61,7 +61,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（24）
+## 📷 [摄影与写实](cat-photo.md)（26）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -89,12 +89,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 84：Night Baseball Stadium Pitch](cat-photo.md#-例-84night-baseball-stadium-pitch) — 夜间棒球赛场摄影
 - [例 85：Natural Beach Resort Portrait](cat-photo.md#-例-85natural-beach-resort-portrait) — 海滩度假人像摄影
 - [例 102：电影感动漫少女特写](cat-photo.md#-例-102电影感动漫少女特写) — 电影感动漫少女特写
+- [例 109：Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — 黄昏粉彩人像
+- [例 112：带有日式手写标注的早餐俯拍图](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — 日式早餐俯拍
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（15）
+## 🎨 [插画与艺术](cat-illustration.md)（18）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -113,12 +115,15 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 86：唐风荔枝课件封面](cat-illustration.md#-例-86唐风荔枝课件封面) — 唐风课件封面设计
 - [例 88：Crystal Cat Familiar](cat-illustration.md#-例-88crystal-cat-familiar) — 水晶猫咪奇幻插画
 - [例 89：Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — 樱花校门漫画页
+- [例 111：Dark Pop Cheshire Cat Girl](cat-illustration.md#-例-111dark-pop-cheshire-cat-girl) — 暗黑波普柴郡猫少女
+- [例 113：Chinese Museum Deconstruction Infographic](cat-illustration.md#-例-113chinese-museum-deconstruction-infographic) — 博物馆解构信息图
+- [例 117：极简侘寂风诗歌海报](cat-illustration.md#-例-117极简侘寂风诗歌海报) — 极简侘寂诗歌海报
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（12）
+## 🧍 [角色设计](cat-character.md)（13）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -134,12 +139,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 87：Deep Sea Jellyfish Couture Board](cat-character.md#-例-87deep-sea-jellyfish-couture-board) — 深海水母高定概念板
 - [例 91：Lian Zhi 暗黑奇幻角色设计图](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — 暗黑奇幻角色设计
 - [例 98：专业角色参考图布局](cat-character.md#-例-98专业角色参考图布局) — 角色参考图布局
+- [例 115：Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — 潮汐祭司角色设定
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（8）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（9）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
@@ -151,6 +157,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 54：迷你世界美食景观网格](cat-3d.md#-例-54迷你世界美食景观网格) — 2x2美食微缩城市网格
 - [例 72：珠宝微缩城市广告海报](cat-3d.md#-例-72珠宝微缩城市广告海报) — 珠宝微缩城市广告
 - [例 99：风格化 3D 角色玩具渲染](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D角色玩具渲染
+- [例 116：EMA Collectible Action Figure Box](cat-3d.md#-例-116ema-collectible-action-figure-box) — 收藏级手办盒装
 
 ---
 
@@ -167,7 +174,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（6）
+## 🎬 [漫画与分镜](cat-comic.md)（8）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
@@ -177,24 +184,27 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 80：Rustic Pasta Tutorial Reference Sheet](cat-comic.md#-例-80rustic-pasta-tutorial-reference-sheet) — 意面制作参考板
 - [例 101：Trading Card Battle Anime Storyboard](cat-comic.md#-例-101trading-card-battle-anime-storyboard) — 卡牌对战动画分镜
 - [例 105：Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — 动漫角色实景合成
+- [例 114：12-Panel Spear Sakuga Storyboard](cat-comic.md#-例-11412-panel-spear-sakuga-storyboard) — 长枪 sakuga 分镜
+- [例 118：电影级足球广告项目](cat-comic.md#-例-118电影级足球广告项目) — 电影级足球广告项目
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [品牌与包装](cat-brand.md)（3）
+## 🏷️ [品牌与包装](cat-brand.md)（4）
 
 Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝系列设计等。
 
 - [例 22：饮料飞溅商业海报](cat-brand.md#️-例-22饮料飞溅商业海报) — 饮料商业广告海报
 - [例 24：四季包装 Campaign 宫格](cat-brand.md#️-例-24四季包装-campaign-宫格) — 季节主题包装Campaign
 - [例 96：品牌奶茶 KV 概念海报](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — 品牌KV概念海报
+- [例 107：复古日系迷你橡皮商品包装](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — 复古橡皮商品包装
 
 ---
 
 <a id="edit"></a>
 
-## 🔧 [图像编辑与变换](cat-edit.md)（5）
+## 🔧 [图像编辑与变换](cat-edit.md)（7）
 
 风格迁移（吉卜力/像素风等）、物体移除/添加、老照片修复上色、透明背景提取、图片扩展补全等。
 
@@ -203,6 +213,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 37：Perler Bead Style Portrait](cat-edit.md#-例-37perler-bead-style-portrait) — 拼豆风格肖像转换
 - [例 45：吉卜力与动漫风格照片转换](cat-edit.md#-例-45吉卜力与动漫风格照片转换) — 动漫风格照片转换
 - [例 93：Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K照片修复还原
+- [例 108：Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — 照片转3D手办
+- [例 110：Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — 纸雕层叠立体画
 
 ---
 
