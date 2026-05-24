@@ -1,6 +1,6 @@
 # Categories
 
-[Back to Home](../README_en.md) · [View All Cases](cases-001-100.md)
+[Back to Home](../README_en.md) · [Cases 1-100](cases-001-100.md) · [Cases 101-200](cases-101-200.md)
 
 ---
 
