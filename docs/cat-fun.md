@@ -57,3 +57,23 @@ Generate an oil painting of Mona Lisa drinking cola.
 **来源：** [@status](https://x.com/lostinlatencyX/status/2055727430032085249#reversed-2) | 2026-05-17
 
 ---
+### 🧪 例 123：Minecraft Night Plaza Transformation
+
+![Minecraft Night Plaza Transformation](../images/Minecraft%20Night%20Plaza%20Transformation.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image, reconstruct the scene as a high-quality vanilla Minecraft architectural screenshot. Do not make it photorealistic; make it look as if an expert Minecraft builder recreated this real night city plaza entirely inside Minecraft using only vanilla blocks.
+
+Preserve the main composition and landmarks from the reference: the nighttime urban plaza, the large station-like building, the sweeping illuminated canopy, the glass-roofed foreground structures, the crowds/market-like plaza activity, the glowing trees, and the central blue-lit tower decoration. Translate all geometry into block-built forms with crisp voxel edges, Minecraft lighting, and believable block materials.
+
+Add an in-game Minecraft screenshot presentation: first-person view with a centered crosshair, a torch held in the lower right hand, and the standard survival HUD along the bottom. Include exactly 9 hotbar slots showing these items from left to right: diamond sword, enchanted pickaxe, white block, gray slab/block, glass block, sea lantern, blue block, purple block, and torch stack. Show armor icons, red hearts, hunger icons, and green level number {argument name="player level" default="32"}.
+
+Style and quality: vanilla Minecraft only, no mods, no shaders that look non-Minecraft, but use beautiful high-quality lighting, rich blue and purple illumination, warm window glow, starry night sky, reflective-looking glass surfaces, and detailed block placement. Keep the same wide landscape framing, around {argument name="image size" default="1536x864"}, with a polished game screenshot feel.
+```
+
+**来源：** [@yolozuya_works](https://x.com/yolozuya_works/status/2059060418849702099#reversed-1) | 2026-05-26
+
+---
+

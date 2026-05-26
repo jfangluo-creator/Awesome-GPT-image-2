@@ -365,3 +365,17 @@ Constraints: Keep the design readable as a single card, with no photorealism, no
 **来源：** [@status](https://x.com/Taaruk_/status/2057298831289761976) | 2026-05-20
 
 ---
+### 🎴 例 120：泳装杂志九宫格广告页
+
+![泳装杂志九宫格广告页](../images/泳装杂志九宫格广告页.jpg)
+
+**Prompt:**
+
+```text
+泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
+```
+
+**来源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051) | 2026-05-26
+
+---
+

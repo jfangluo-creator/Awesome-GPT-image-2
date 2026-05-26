@@ -82,3 +82,31 @@ Generate a campus daily newspaper, theme AI education
 
 
 ---
+### 🖥️ 例 122：Futuristic Aquarium Mermaid Scene
+
+![Futuristic Aquarium Mermaid Scene](../images/Futuristic%20Aquarium%20Mermaid%20Scene.jpg)
+
+**Prompt:**
+
+```text
+A scene filming a {argument name="location" default="newly opened futuristic and beautiful aquarium"} like a television news report. A huge main tank is in the center of the screen, with clear blue water, rays of light, schools of tropical fish, and sparkling bubbles creating a fantastic atmosphere. Inside the large tank, a {argument name="subject" default="beautiful girl"} is swimming gracefully like a mermaid performer. Her hair flows softly underwater, and her outfit is an elegant and light design based on white and pale blue. Her expression is calm and mysterious. The scene is very impressive even through the glass, with an atmosphere like a famous moment accidentally captured in a live TV broadcast. Cinematic, high definition, beautiful reflections, fantastic and high-quality imagery, realistic leaning, impressive composition.
+```
+
+**来源：** [@dave392750](https://x.com/dave392750/status/2058963891569447184) | 2026-05-26
+
+---
+
+### 🖥️ 例 125：Next-Gen Mobile App UI Showcase
+
+![Next-Gen Mobile App UI Showcase](../images/Next-Gen%20Mobile%20App%20UI%20Showcase.jpg)
+
+**Prompt:**
+
+```text
+With the attached subject as the protagonist, please summarize "{argument name="app type" default="a collection of screenshots for a realistic next-generation mobile app"}" into a single image. This is not an advertising poster. It is a high-quality visual such as an App Store introduction image, product design announcement, or UI case study. Accurately maintain the features, color, shape, face, clothing, and impression of the subject in the reference image. Treat the subject as the main content within the app. Do not change it to another character or product. Arrange {argument name="number of screens" default="4 to 6"} vertical smartphone screens. Make each screen different. Included screens: Home screen, detailed profile screen, analysis dashboard, collection screen, editing screen, sharing screen. UI elements: Fictional app name, tab bar, card UI, buttons, graphs, tags, short descriptions, numeric displays, icons, small notification displays. The design is a sophisticated 2026 mobile UI. Clean, practical, and with clear information design. Do not overuse glassmorphism. Text should be easy to read, primarily in English and short. Do not use real company names, app names, or logos. The background is a simple studio background. The overall look is professional like app introduction images on Dribbble, Product Hunt, or Apple. However, make it look natural as a fictional product. Priorities: UI that looks real, retention of reference image features, persuasiveness as a screenshot, and information density worthy of being saved on social media.
+```
+
+**来源：** [@lona_aiart](https://x.com/lona_aiart/status/2058910975836008893) | 2026-05-26
+
+---
+

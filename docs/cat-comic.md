@@ -242,3 +242,72 @@ Constraints: Exactly 12 panels in a 3x4 grid, no extra panels. Preserve the lock
 **来源：** [@status](https://x.com/Just_sharon7/status/2058062379536269612#reversed-0) | 2026-05-22
 
 ---
+### 🎬 例 127：9-Panel Beauty Serum Storyboard
+
+![9-Panel Beauty Serum Storyboard](../images/9-Panel%20Beauty%20Serum%20Storyboard.webp)
+
+**Prompt:**
+
+```text
+Goal: Create a 3-by-3 social media ad storyboard collage for a beauty serum, showing the same young blonde woman demonstrating a glow serum in a warm bedroom/vanity setting. The subject’s face must be intentionally anonymized by a flat skin-tone rectangular blur/cover in every panel, while hair, pose, outfit, and product remain visible.
+
+Canvas: Wide 16:9 composite image, 1200 x 675 style, divided into exactly 9 equal panels with thin black grid lines. Add a small white panel number with black outline in the top-left corner of each panel, numbered exactly 1 through 9.
+
+Subject details: A young adult woman with {argument name="hair color" default="long wavy blonde hair"}, light skin, wearing a black sleeveless crop top. Warm natural indoor light, beige walls, soft bedroom background with white bedding in some panels. Beauty-ad aesthetic, realistic photography, influencer UGC style, shallow depth of field, golden glow lighting.
+
+Product details: A small glass dropper bottle labeled with a minimal skincare brand, showing text like “AI Glow Up” and “Serum.” The bottle contains warm golden liquid and has a white dropper cap. The product should appear clearly in panels 5, 6, and 8.
+
+Layout: Use exactly 9 discrete panels:
+1. Close selfie-like shot of the woman in warm morning light, face covered by a skin-tone rectangle, text at bottom: “Morning glow, no filter”.
+2. Centered close portrait in the same room, face covered, text at bottom: “Ready for the day”.
+3. Wider bedroom shot on white bedding, woman posing confidently and touching her hair, face covered, text at bottom: “Confidence is key”.
+4. Side-profile hair and shoulder shot against a beige wall, face covered, text at bottom: “My skin is glowing”.
+5. Woman holding the serum bottle beside her face, face covered, text at bottom: “Introducing my secret”.
+6. Closer product showcase with woman holding the serum bottle near her face, face covered by a larger rectangle, text at bottom: “Radiance Serum”.
+7. Woman spraying a fine mist upward/sideways in warm light, face covered, text at bottom: “Instantly brightens”.
+8. Woman holding the serum bottle and pointing toward it with the other hand, face covered, text at bottom: “Get the glow”.
+9. Close-up of long wavy blonde hair and shoulder area with the face mostly covered by a large skin-tone rectangle, text at bottom: “Unlock your light”.
+
+Text styling: Each panel has bold white caption text with a black outline/drop shadow, placed near the bottom. In every caption, highlight one key phrase with a bright green rounded rectangle behind it: “glow, no filter” in panel 1, “the day” in panel 2, “key” in panel 3, “glowing” in panel 4, “secret” in panel 5, the entire “Radiance Serum” phrase or the word “Serum” in panel 6, “brightens” in panel 7, “glow” in panel 8, and “light” in panel 9. Use {argument name="product name" default="Radiance Serum"} as the product/caption name in panel 6 if customized.
+
+Constraints: Keep the collage realistic and consistent as if frames from one influencer video. Use exactly 9 panels, exactly 9 panel numbers, and exactly 9 captions. Do not add extra logos, watermarks, UI elements, or additional text beyond the captions and simple product label.
+```
+
+**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2058899367923511315#reversed-0) | 2026-05-26
+
+---
+
+### 🎬 例 128：Golden Fried Rice Storyboard Sheet
+
+![Golden Fried Rice Storyboard Sheet](../images/Golden%20Fried%20Rice%20Storyboard%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create an ultra-high-quality, detailed anime-style storyboard sheet for a 15-second cooking video about {argument name="dish theme" default="golden fried rice"}, showing the full cooking process in chronological order.
+
+Canvas: One wide 16:9 storyboard sheet, divided into exactly 12 panels arranged in a clean 4 columns by 3 rows grid. Use thin black panel borders, cinematic close-ups, warm restaurant-kitchen lighting, dramatic steam, oil shimmer, flying rice grains, and appetizing golden colors. No captions, no speech bubbles, no panel numbers, no watermark.
+
+Visual style: Premium Japanese anime food commercial look, highly detailed semi-realistic cooking illustration, glossy highlights, shallow depth of field, dynamic action framing, orange firelight and golden egg tones, crisp textures on rice, scallions, diced meat, wok metal, and wooden cutting board.
+
+Storyboard panels, exactly 12 in this order:
+1. Top-down ingredient prep shot on a wooden board: a large glass bowl of cooked white rice, 4 brown eggs in a small bowl, long green onions/scallions, a bowl of cubed pork or ham, and 3 small seasoning dishes containing white salt, black pepper, and dark soy sauce.
+2. Close-up of hands chopping scallions into small green rings with a large chef’s knife on a wooden cutting board.
+3. Close-up of hands cracking one egg over a clear glass mixing bowl, yolk and egg white falling with sparkling highlights.
+4. Close-up of beaten eggs being vigorously whisked with chopsticks in a glass bowl, swirling bright orange-yellow liquid.
+5. Hot black wok over open flames, oil being poured in a thin golden stream, steam rising.
+6. Pour beaten egg into the sizzling wok; the egg begins to scramble and bubble into soft golden curds.
+7. Toss rice, diced meat, scallions, and egg together in the wok; ingredients fly upward in a dramatic midair arc.
+8. High-energy wok-tossing shot surrounded by intense orange flames and sparks, golden fried rice scattering in the air.
+9. Extreme appetizing close-up of finished fried rice with glossy individual grains, yellow egg pieces, green scallions, and browned meat cubes.
+10. Wider kitchen action shot: a cook’s hand sprinkles seasoning from above into the steaming wok while the fried rice cooks over flame.
+11. Hero plating shot: a neat dome mound of golden fried rice on a white plate with a subtle patterned rim, steam rising, warm kitchen background.
+12. Final close-up spoonful shot: a metal spoon lifts glossy golden fried rice with egg, scallions, and a large cube of meat, with the plated rice blurred behind it.
+
+Constraints: Keep the grid layout exact with 12 distinct panels, chronological left-to-right and top-to-bottom storytelling, no visible text, emphasize {argument name="main color palette" default="gold, amber, orange firelight, deep black wok, fresh green scallions"}, make the dish look rich, hot, and delicious.
+```
+
+**来源：** [@ozuozuai99](https://x.com/ozuozuai99/status/2058882177383924182#reversed-0) | 2026-05-26
+
+---
+

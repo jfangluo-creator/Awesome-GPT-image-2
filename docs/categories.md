@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI 与数字界面](cat-ui.md)（4）
+## 🖥️ [UI 与数字界面](cat-ui.md)（6）
 
 App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播画面等。
 
@@ -14,12 +14,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 13：刘亦菲抖音直播](cat-ui.md#️-例-13刘亦菲抖音直播) — 社交媒体直播截图
 - [例 16：古人的赛博朋友圈](cat-ui.md#️-例-16古人的赛博朋友圈) — 古今穿越趣味界面
 - [例 18：校园日报](cat-ui.md#️-例-18校园日报) — 校园报纸版面设计
+- [例 122：Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — 未来水族馆美人鱼场景
+- [例 125：Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — 次世代移动端UI展示
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [图表与信息图](cat-chart.md)（8）
+## 📊 [图表与信息图](cat-chart.md)（9）
 
 信息图、流程图、知识图谱、技术图解、数据可视化、爆炸分解图、标注说明图等。
 
@@ -31,12 +33,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 81：现代地铁工程信息图](cat-chart.md#-例-81现代地铁工程信息图) — 地铁工程信息图
 - [例 82：奢华机械腕表技术图鉴](cat-chart.md#-例-82奢华机械腕表技术图鉴) — 机械腕表技术图鉴
 - [例 103：数字油画客厅练习页](cat-chart.md#-例-103数字油画客厅练习页) — 数字油画练习页
+- [例 121：导览式科普绘本](cat-chart.md#-例-121导览式科普绘本) — 导览式科普绘本
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（16）
+## 🎴 [海报与卡片](cat-poster.md)（17）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -56,12 +59,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 100：Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — 复古温泉会员卡
 - [例 104：袖珍速写本灯塔场景](cat-poster.md#-例-104袖珍速写本灯塔场景) — 迷你速写本灯塔场景
 - [例 106：复古水彩旅行海报](cat-poster.md#-例-106复古水彩旅行海报) — 水彩旅行海报
+- [例 120：泳装杂志九宫格广告页](cat-poster.md#-例-120泳装杂志九宫格广告页) — 泳装杂志九宫格广告页
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（26）
+## 📷 [摄影与写实](cat-photo.md)（27）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -91,12 +95,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 102：电影感动漫少女特写](cat-photo.md#-例-102电影感动漫少女特写) — 电影感动漫少女特写
 - [例 109：Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — 黄昏粉彩人像
 - [例 112：带有日式手写标注的早餐俯拍图](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — 日式早餐俯拍
+- [例 119：鱼市追猫 CCD 街拍](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — 鱼市追猫CCD街拍
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（18）
+## 🎨 [插画与艺术](cat-illustration.md)（19）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -118,12 +123,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 111：Dark Pop Cheshire Cat Girl](cat-illustration.md#-例-111dark-pop-cheshire-cat-girl) — 暗黑波普柴郡猫少女
 - [例 113：Chinese Museum Deconstruction Infographic](cat-illustration.md#-例-113chinese-museum-deconstruction-infographic) — 博物馆解构信息图
 - [例 117：极简侘寂风诗歌海报](cat-illustration.md#-例-117极简侘寂风诗歌海报) — 极简侘寂诗歌海报
+- [例 129：Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — 日系哈士奇速写本
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（13）
+## 🧍 [角色设计](cat-character.md)（15）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -140,6 +146,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 91：Lian Zhi 暗黑奇幻角色设计图](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — 暗黑奇幻角色设计
 - [例 98：专业角色参考图布局](cat-character.md#-例-98专业角色参考图布局) — 角色参考图布局
 - [例 115：Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — 潮汐祭司角色设定
+- [例 124：Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — 复古戏剧角色板
+- [例 130：Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — 专业动漫角色线稿设定
 
 ---
 
@@ -174,7 +182,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（8）
+## 🎬 [漫画与分镜](cat-comic.md)（10）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
@@ -186,12 +194,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 105：Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — 动漫角色实景合成
 - [例 114：12-Panel Spear Sakuga Storyboard](cat-comic.md#-例-11412-panel-spear-sakuga-storyboard) — 长枪 sakuga 分镜
 - [例 118：电影级足球广告项目](cat-comic.md#-例-118电影级足球广告项目) — 电影级足球广告项目
+- [例 127：9-Panel Beauty Serum Storyboard](cat-comic.md#-例-1279-panel-beauty-serum-storyboard) — 9格精华液广告分镜
+- [例 128：Golden Fried Rice Storyboard Sheet](cat-comic.md#-例-128golden-fried-rice-storyboard-sheet) — 黄金炒饭分镜板
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [品牌与包装](cat-brand.md)（4）
+## 🏷️ [品牌与包装](cat-brand.md)（5）
 
 Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝系列设计等。
 
@@ -199,6 +209,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 24：四季包装 Campaign 宫格](cat-brand.md#️-例-24四季包装-campaign-宫格) — 季节主题包装Campaign
 - [例 96：品牌奶茶 KV 概念海报](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — 品牌KV概念海报
 - [例 107：复古日系迷你橡皮商品包装](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — 复古橡皮商品包装
+- [例 126：Fiery Takis Action Poster](cat-brand.md#-例-126fiery-takis-action-poster) — Takis火爆零食海报
 
 ---
 
@@ -220,10 +231,11 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 <a id="fun"></a>
 
-## 🧪 [脑洞与趣味实验](cat-fun.md)（3）
+## 🧪 [脑洞与趣味实验](cat-fun.md)（4）
 
 超现实合成（巨型雕像/巨型生物）、新奇玩法（星座图/碎片化透视/VR效果）、历史穿越、趣味变装等。
 
 - [例 12：蒙娜丽莎畅饮可乐的趣味油画](cat-fun.md#-例-12蒙娜丽莎畅饮可乐的趣味油画) — 名画趣味改编
 - [例 21：创意树叶拼贴画像](cat-fun.md#-例-21创意树叶拼贴画像) — 树叶拼贴创意艺术
 - [例 66：达利风格超现实海岸景观重构](cat-fun.md#-例-66达利风格超现实海岸景观重构) — 达利超现实主义重构
+- [例 123：Minecraft Night Plaza Transformation](cat-fun.md#-例-123minecraft-night-plaza-transformation) — Minecraft夜广场变换

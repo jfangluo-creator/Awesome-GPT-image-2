@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (4)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (6)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -14,12 +14,14 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 13: Douyin Live Stream Screenshot](cat-ui.md#️-例-13刘亦菲抖音直播) — Social media mockup
 - [Case 16: Song Dynasty Social Media Feed](cat-ui.md#️-例-16古人的赛博朋友圈) — Time-travel social media UI
 - [Case 18: Campus Daily Newspaper](cat-ui.md#️-例-18校园日报) — Campus newspaper layout design
+- [Case 122: Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — Futuristic aquarium mermaid
+- [Case 125: Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — Next-gen mobile app UI
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (8)
+## 📊 [Charts & Infographics](cat-chart.md) (9)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -31,12 +33,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 81: Modern Metro Engineering Infographic](cat-chart.md#-例-81现代地铁工程信息图) — Metro engineering infographic
 - [Case 82: Luxury Mechanical Watch Technical Guide](cat-chart.md#-例-82奢华机械腕表技术图鉴) — Mechanical watch technical guide
 - [Case 103: Digital Oil Painting Living Room](cat-chart.md#-例-103数字油画客厅练习页) — Digital paint-by-number page
+- [Case 121: Guided Science Picture Book](cat-chart.md#-例-121导览式科普绘本) — Guided science picture book
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (16)
+## 🎴 [Posters & Cards](cat-poster.md) (17)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -56,12 +59,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 100: Vintage Onsen Member Card](cat-poster.md#-例-100vintage-onsen-member-card) — Vintage onsen membership card
 - [Case 104: Pocket Sketchbook Lighthouse Scene](cat-poster.md#-例-104袖珍速写本灯塔场景) — Miniature sketchbook lighthouse
 - [Case 106: Vintage Watercolor Travel Poster](cat-poster.md#-例-106复古水彩旅行海报) — Watercolor travel poster
+- [Case 120: Swimsuit Magazine Grid Ad Page](cat-poster.md#-例-120泳装杂志九宫格广告页) — Swimsuit magazine grid ad
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (26)
+## 📷 [Photography & Realistic](cat-photo.md) (27)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -91,12 +95,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 102: Cinematic Anime Girl Close-up](cat-photo.md#-例-102电影感动漫少女特写) — Cinematic anime close-up
 - [Case 109: Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — Golden hour pastel portrait
 - [Case 112: Japanese Breakfast Flat Lay](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — Japanese breakfast flat lay
+- [Case 119: Fish Market Cat Chase CCD Street Snap](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — CCD digicam street chase
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (18)
+## 🎨 [Illustration & Art](cat-illustration.md) (19)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -115,12 +120,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 86: Tang Style Lychee Courseware Cover](cat-illustration.md#-例-86唐风荔枝课件封面) — Tang dynasty courseware cover
 - [Case 88: Crystal Cat Familiar](cat-illustration.md#-例-88crystal-cat-familiar) — Crystal cat fantasy illustration
 - [Case 89: Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — Cherry blossom manga page
+- [Case 129: Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — Husky sketchbook profile
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (13)
+## 🧍 [Character Design](cat-character.md) (15)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -137,6 +143,8 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 91: Lian Zhi Dark Fantasy Character](cat-character.md#-例-91lian-zhi-暗黑奇幻角色设计图) — Dark fantasy character design
 - [Case 98: Professional Character Reference Layout](cat-character.md#-例-98专业角色参考图布局) — Character reference sheet layout
 - [Case 115: Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — Tide priestess character sheet
+- [Case 124: Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — Vintage drama character board
+- [Case 130: Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — Anime character line art
 
 ---
 
@@ -171,7 +179,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (8)
+## 🎬 [Comics & Storyboards](cat-comic.md) (10)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -183,12 +191,14 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 105: Anime Character in Real Rooftop Scene](cat-comic.md#-例-105anime-character-in-real-rooftop-scene) — Anime in real scene composite
 - [Case 114: 12-Panel Spear Sakuga Storyboard](cat-comic.md#-例-11412-panel-spear-sakuga-storyboard) — Spear sakuga storyboard
 - [Case 118: Cinematic Football Ad Project](cat-comic.md#-例-118电影级足球广告项目) — Cinematic football ad project
+- [Case 127: 9-Panel Beauty Serum Storyboard](cat-comic.md#-例-1279-panel-beauty-serum-storyboard) — Beauty serum ad storyboard
+- [Case 128: Golden Fried Rice Storyboard Sheet](cat-comic.md#-例-128golden-fried-rice-storyboard-sheet) — Golden fried rice storyboard
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (4)
+## 🏷️ [Brand & Packaging](cat-brand.md) (5)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -196,6 +206,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 24: Four Seasons Packaging Campaign](cat-brand.md#️-例-24四季包装-campaign-宫格) — Seasonal packaging campaign grid
 - [Case 96: Brand Milk Tea KV Concept Poster](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — Brand KV concept poster
 - [Case 107: Vintage Japanese Eraser Product Packaging](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — Vintage eraser product packaging
+- [Case 126: Fiery Takis Action Poster](cat-brand.md#-例-126fiery-takis-action-poster) — Takis fiery snack poster
 
 ---
 
@@ -217,10 +228,11 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 <a id="fun"></a>
 
-## 🧪 [Creative Experiments](cat-fun.md) (3)
+## 🧪 [Creative Experiments](cat-fun.md) (4)
 
 Surreal composites (giant statues/creatures), novel ideas (constellation maps/fisheye/VR effects), time-travel mashups, fun transformations.
 
 - [Case 12: Mona Lisa Drinking Cola](cat-fun.md#-例-12蒙娜丽莎畅饮可乐的趣味油画) — Classic painting mashup
 - [Case 21: Leaf Collage Portrait](cat-fun.md#-例-21创意树叶拼贴画像) — Natural leaf collage art
 - [Case 66: Dali-style Surreal Coastline](cat-fun.md#-例-66达利风格超现实海岸景观重构) — Dali surrealism recreation
+- [Case 123: Minecraft Night Plaza Transformation](cat-fun.md#-例-123minecraft-night-plaza-transformation) — Minecraft night plaza build

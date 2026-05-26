@@ -572,3 +572,76 @@ Style constraints: Make it look like a professional AAA fantasy character design
 **来源：** [@status](https://x.com/CoderJunkie/status/2058205773969457526#reversed-0) | 2026-05-22
 
 ---
+### 🧍 例 124：Vintage Drama Character Board
+
+![Vintage Drama Character Board](../images/Vintage%20Drama%20Character%20Board.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic character design board for a {argument name="theme" default="vintage-inspired drama film"}.
+
+A classic {argument name="subject" default="handsome male lead with slightly tousled beard and retro charisma"} wearing {argument name="outfit" default="wide-lapel tailored suits with subtle patterns"}.
+Include film grain portraits, analog lighting studies, smoke-filled studio shots, and motion blur retro fashion poses.
+Mood: faded film tones, warm oranges, sepia greens, nostalgic cinematic grain aesthetic.
+```
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2058920909352964301) | 2026-05-26
+
+---
+
+### 🧍 例 130：Professional Anime Character Line Art Sheet
+
+![Professional Anime Character Line Art Sheet](../images/Professional%20Anime%20Character%20Line%20Art%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Use the reference image as the base for the character design and depict "professional-grade character line art setting materials used in commercial anime production sites."
+
+Accurately maintain the character's face, hairstyle, hair color, eyes, contour, body type, silhouette, costume design, head-to-body ratio, and overall impression.
+
+Absolutely do not break the character's identity. Do not redraw as a different character.
+
+It is not a completed illustration. It is not concept art. It is not a poster.
+
+The purpose is setting materials for drawing sharing intended for animators, animation directors, and in-betweeners.
+
+The screen is a setting material layout on a white background. Arrange multiple line drawings organized as a material page.
+
+Include the following:
+- Front face
+- Three-quarter face
+- Profile face
+- Expression variations
+- Close-up of eyes
+- Hair flow check
+- Full body front
+- Full body back
+- Arm and hand shape check
+- Costume details
+- Shoe design
+- Accessory structure
+
+Depict the character only with clean anime line art.
+Do not color. Do not use flat fills. Do not use thick painting. Do not render.
+
+The lines should be thin, organized pencil line drawings or cleanup lines like those at Japanese TV anime production sites.
+Not too rough. Do not use manga lines. Do not overdo the sketch feel.
+
+Prioritize readability and structural understanding as setting materials for the production site.
+
+Naturally add small handwritten notes, arrows, part instructions, simple annotations, costume structure notes, hair flow instructions, etc., within the page.
+
+The layout has an atmosphere like Japanese anime setting material collections from the 1990s to 2000s.
+Information density is high, but it is organized and easy to read. Allow natural margins as a page.
+
+The entire page has the atmosphere of an actual scanned setting material collection. Naturally add minor paper texture, a slight print feel, copy paper feel, and scan feel.
+
+Prioritize looking like "actual production materials" rather than a completed work of art.
+```
+
+**来源：** [@Eris_Create_Lab](https://x.com/Eris_Create_Lab/status/2058807276828565803) | 2026-05-26
+
+---
+
