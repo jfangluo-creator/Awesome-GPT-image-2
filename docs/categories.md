@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI 与数字界面](cat-ui.md)（6）
+## 🖥️ [UI 与数字界面](cat-ui.md)（7）
 
 App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播画面等。
 
@@ -16,12 +16,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 18：校园日报](cat-ui.md#️-例-18校园日报) — 校园报纸版面设计
 - [例 122：Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — 未来水族馆美人鱼场景
 - [例 125：Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — 次世代移动端UI展示
+- [例 137：冬季篝火壁纸设备样机](cat-ui.md#-例-137冬季篝火壁纸设备样机) — 冬季壁纸设备样机
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [图表与信息图](cat-chart.md)（9）
+## 📊 [图表与信息图](cat-chart.md)（10）
 
 信息图、流程图、知识图谱、技术图解、数据可视化、爆炸分解图、标注说明图等。
 
@@ -34,12 +35,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 82：奢华机械腕表技术图鉴](cat-chart.md#-例-82奢华机械腕表技术图鉴) — 机械腕表技术图鉴
 - [例 103：数字油画客厅练习页](cat-chart.md#-例-103数字油画客厅练习页) — 数字油画练习页
 - [例 121：导览式科普绘本](cat-chart.md#-例-121导览式科普绘本) — 导览式科普绘本
+- [例 132：咕咕嘎嘎造型包装结构板](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — 产品包装结构设计板
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（17）
+## 🎴 [海报与卡片](cat-poster.md)（18）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -60,12 +62,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 104：袖珍速写本灯塔场景](cat-poster.md#-例-104袖珍速写本灯塔场景) — 迷你速写本灯塔场景
 - [例 106：复古水彩旅行海报](cat-poster.md#-例-106复古水彩旅行海报) — 水彩旅行海报
 - [例 120：泳装杂志九宫格广告页](cat-poster.md#-例-120泳装杂志九宫格广告页) — 泳装杂志九宫格广告页
+- [例 135：Camelot 奇幻旅行海报](cat-poster.md#-例-135camelot-奇幻旅行海报) — Camelot奇幻旅行海报
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（27）
+## 📷 [摄影与写实](cat-photo.md)（28）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -96,6 +99,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 109：Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — 黄昏粉彩人像
 - [例 112：带有日式手写标注的早餐俯拍图](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — 日式早餐俯拍
 - [例 119：鱼市追猫 CCD 街拍](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — 鱼市追猫CCD街拍
+- [例 138：电影感鱼眼城市人像](cat-photo.md#-例-138电影感鱼眼城市人像) — 鱼眼城市街拍人像
 
 ---
 
@@ -153,7 +157,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（9）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（12）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
@@ -166,6 +170,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 72：珠宝微缩城市广告海报](cat-3d.md#-例-72珠宝微缩城市广告海报) — 珠宝微缩城市广告
 - [例 99：风格化 3D 角色玩具渲染](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D角色玩具渲染
 - [例 116：EMA Collectible Action Figure Box](cat-3d.md#-例-116ema-collectible-action-figure-box) — 收藏级手办盒装
+- [例 131：早安拿铁微缩女孩](cat-3d.md#-例-131早安拿铁微缩女孩) — 拿铁杯微缩女孩
+- [例 139：Q 版毛绒足球吉祥物](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Q版毛绒足球吉祥物
+- [例 141：Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — 玩具法拉利分镜板
 
 ---
 
@@ -182,7 +189,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（10）
+## 🎬 [漫画与分镜](cat-comic.md)（14）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
@@ -196,6 +203,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 118：电影级足球广告项目](cat-comic.md#-例-118电影级足球广告项目) — 电影级足球广告项目
 - [例 127：9-Panel Beauty Serum Storyboard](cat-comic.md#-例-1279-panel-beauty-serum-storyboard) — 9格精华液广告分镜
 - [例 128：Golden Fried Rice Storyboard Sheet](cat-comic.md#-例-128golden-fried-rice-storyboard-sheet) — 黄金炒饭分镜板
+- [例 133：宇宙大爆炸贪睡漫画](cat-comic.md#-例-133宇宙大爆炸贪睡漫画) — 宇宙贪睡四格漫画
+- [例 134：未来世界观构建概念套件](cat-comic.md#-例-134未来世界观构建概念套件) — 未来世界观概念套件
+- [例 140：舒芙蕾松饼动画项目](cat-comic.md#-例-140舒芙蕾松饼动画项目) — 舒芙蕾松饼分镜板
 
 ---
 
@@ -215,7 +225,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 <a id="edit"></a>
 
-## 🔧 [图像编辑与变换](cat-edit.md)（7）
+## 🔧 [图像编辑与变换](cat-edit.md)（8）
 
 风格迁移（吉卜力/像素风等）、物体移除/添加、老照片修复上色、透明背景提取、图片扩展补全等。
 
@@ -226,6 +236,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 93：Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K照片修复还原
 - [例 108：Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — 照片转3D手办
 - [例 110：Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — 纸雕层叠立体画
+- [例 136：月下雪豹之跃](cat-edit.md#-例-136月下雪豹之跃) — 月下雪豹之跃
 
 ---
 

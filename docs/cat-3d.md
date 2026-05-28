@@ -203,3 +203,73 @@ Create a realistic high-end product photo of an anime-style action figure sealed
 **来源：** [@status](https://x.com/AIDear_co/status/2058191048564969678#reversed-0) | 2026-05-22
 
 ---
+### 🧸 例 131：早安拿铁微缩女孩
+
+![早安拿铁微缩女孩](../images/早安拿铁微缩女孩.jpg)
+
+**Prompt:**
+
+```text
+Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
+```
+
+**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444) | 2026-05-28
+
+---
+
+### 🧸 例 139：Q 版毛绒足球吉祥物
+
+![Q 版毛绒足球吉祥物](../images/Q%20版毛绒足球吉祥物.jpg)
+
+**Prompt:**
+
+```text
+创作一款以 {argument name="subject" default="金发足球前锋"} 为灵感、超写实的收藏级 Q 版毛绒足球吉祥物，采用正面站姿，置于 {argument name="background" default="平滑蓝色渐变背景"} 的高级影棚环境中。角色拥有超大的亮面蓝色眼睛、柔软的刺绣面部特征、可爱的小嘴、红润的脸颊，以及带有明显缝线和奢华毛绒材质的精细蓬松纹理。采用大头小身的风格化比例，皮克斯风格的写实感，超萌美学。
+
+吉祥物身穿现代足球球衣，配有高级刺绣细节、替换球衣设计、独特的赞助商贴片、球衣号码 {argument name="number" default="9"}、修身短裤、长袜和细节丰富的足球鞋。生成多种服装款式，包括天蓝色、黑金配色、红白配色、荧光黄和条纹球衣。包含不同的发型，如大背头金发、凌乱纹理剪裁、编织发髻、发带造型、鲻鱼头风格和短蓬松发型。
+
+渲染为奢华设计师毛绒玩具，采用电影级影棚灯光、柔和阴影、逼真的面料绒毛、超精细接缝、鲜艳色彩、居中构图、浅景深、照片级玩具摄影、高细节刺绣、高级缝线、8k 分辨率、虚幻引擎品质、焦点清晰、收藏级吉祥物美学、高端周边风格。
+```
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2059578636588736864) | 2026-05-28
+
+---
+
+### 🧸 例 141：Toy Ferrari Storyboard Contact Sheet
+
+![Toy Ferrari Storyboard Contact Sheet](../images/Toy%20Ferrari%20Storyboard%20Contact%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic 12-panel storyboard contact sheet showing a toy-like LEGO-style yellow minifigure discovering, entering, and driving a realistic light-blue Ferrari sports car through a miniature brick city at sunset.
+
+Canvas: Wide horizontal storyboard sheet, approximately 16:9, with a clean white background, thin black panel borders, and exactly 12 numbered still frames arranged in a 3-column by 4-row grid. Each panel has a bold two-digit number in the top-left corner from 01 to 12 and a short black caption underneath in small documentary storyboard text.
+
+Visual style: Hyper-realistic macro toy photography mixed with cinematic automotive advertising. Use shallow depth of field, warm golden-hour sunset lighting, glossy reflections, dramatic lens flare, detailed brick road texture, miniature city buildings, and a crowd of yellow toy minifigures in the background. The car should look like a full-detail real exotic coupe, not a toy, with black wheels, low body, LED headlights, and premium interior. The main figure is a classic yellow plastic toy person with brown molded hair, simple smiling face, yellow torso, blue legs, and claw-shaped hands. Overall mood is playful, premium, and cinematic.
+
+Subject details: The hero car is a {argument name="car description" default="light-blue Ferrari-style supercar coupe"}. The main toy driver is a {argument name="character description" default="yellow LEGO-style male minifigure with brown hair, yellow shirt, blue pants, and claw hands"}. The setting is a {argument name="setting" default="miniature brick-built city street at sunset"}. Use warm orange sunlight from the horizon, realistic reflections on the blue paint, and many background toy figures watching.
+
+Storyboard panels: Include exactly 12 discrete panels with these shots and captions:
+01. Wide establishing shot. The car is parked outside a modern toy-brick house.
+02. Side profile beauty shot. The toy figure walks toward the car admiring it.
+03. Close-up. Tiny yellow plastic hand reaches for the door handle.
+04. Low-angle shot. The toy figure opens the large car door.
+05. The toy figure climbs into the realistic car.
+06. Interior shot. Tiny hands on the steering wheel. Dashboard lights glow.
+07. Close-up portrait. The toy figure smiles confidently.
+08. Rear beauty shot. Lights glow dramatically. Add a readable license plate that says {argument name="license plate text" default="Ferrari LUCE"}.
+09. Wide tracking shot. The car starts driving through the toy city.
+10. Dynamic side motion shot. The car moves through the streets.
+11. Cinematic front tracking shot. The car drives into the sunset.
+12. Final wide shot. The toy figure waves from the car while driving.
+
+Text and numbering: Use clear black frame numbers 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, and 12. Place each caption below its matching panel in English. Keep typography simple and legible, like a printed storyboard proof sheet.
+
+Constraints: Exactly 12 panels, exactly 3 columns and 4 rows, no extra panels, no missing captions, no watermark. Maintain continuity of the same blue car, same toy figure, same miniature city, and same sunset lighting across all frames. Make the image feel like stills from a polished miniature car commercial titled {argument name="commercial mood" default="playful luxury toy-car adventure"}.
+```
+
+**来源：** [@Sogni_Protocol](https://x.com/Sogni_Protocol/status/2059557479999025378#reversed-0) | 2026-05-28
+
+---
+

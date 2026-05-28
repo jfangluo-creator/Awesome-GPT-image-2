@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (6)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (7)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -16,12 +16,13 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 18: Campus Daily Newspaper](cat-ui.md#️-例-18校园日报) — Campus newspaper layout design
 - [Case 122: Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — Futuristic aquarium mermaid
 - [Case 125: Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — Next-gen mobile app UI
+- [Case 137: Winter Campfire Wallpaper Device Mockup](cat-ui.md#-例-137冬季篝火壁纸设备样机) — Winter wallpaper device mockup
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (9)
+## 📊 [Charts & Infographics](cat-chart.md) (10)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -34,12 +35,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 82: Luxury Mechanical Watch Technical Guide](cat-chart.md#-例-82奢华机械腕表技术图鉴) — Mechanical watch technical guide
 - [Case 103: Digital Oil Painting Living Room](cat-chart.md#-例-103数字油画客厅练习页) — Digital paint-by-number page
 - [Case 121: Guided Science Picture Book](cat-chart.md#-例-121导览式科普绘本) — Guided science picture book
+- [Case 132: Product Packaging Structure Board](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — Packaging structure board
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (17)
+## 🎴 [Posters & Cards](cat-poster.md) (18)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -60,12 +62,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 104: Pocket Sketchbook Lighthouse Scene](cat-poster.md#-例-104袖珍速写本灯塔场景) — Miniature sketchbook lighthouse
 - [Case 106: Vintage Watercolor Travel Poster](cat-poster.md#-例-106复古水彩旅行海报) — Watercolor travel poster
 - [Case 120: Swimsuit Magazine Grid Ad Page](cat-poster.md#-例-120泳装杂志九宫格广告页) — Swimsuit magazine grid ad
+- [Case 135: Camelot Fantasy Travel Poster](cat-poster.md#-例-135camelot-奇幻旅行海报) — Camelot fantasy travel poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (27)
+## 📷 [Photography & Realistic](cat-photo.md) (28)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -96,6 +99,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 109: Golden Hour Pastel Pink Portrait](cat-photo.md#-例-109golden-hour-pastel-pink-portrait) — Golden hour pastel portrait
 - [Case 112: Japanese Breakfast Flat Lay](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — Japanese breakfast flat lay
 - [Case 119: Fish Market Cat Chase CCD Street Snap](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — CCD digicam street chase
+- [Case 138: Cinematic Fisheye City Portrait](cat-photo.md#-例-138电影感鱼眼城市人像) — Fisheye city street portrait
 
 ---
 
@@ -150,7 +154,7 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (9)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (12)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -163,6 +167,9 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 72: Jewelry Miniature City Ad Poster](cat-3d.md#-例-72珠宝微缩城市广告海报) — Jewelry miniature city ad
 - [Case 99: Stylized 3D Character Toy Render](cat-3d.md#-例-99风格化-3d-角色玩具渲染jpg) — 3D character toy render
 - [Case 116: EMA Collectible Action Figure Box](cat-3d.md#-例-116ema-collectible-action-figure-box) — Collectible action figure box
+- [Case 131: Morning Latte Miniature Girl](cat-3d.md#-例-131早安拿铁微缩女孩) — Latte cup miniature girl
+- [Case 139: Q-Style Plush Football Mascot](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Plush football mascot
+- [Case 141: Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — Toy Ferrari storyboard
 
 ---
 
@@ -179,7 +186,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (10)
+## 🎬 [Comics & Storyboards](cat-comic.md) (14)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -193,6 +200,9 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 118: Cinematic Football Ad Project](cat-comic.md#-例-118电影级足球广告项目) — Cinematic football ad project
 - [Case 127: 9-Panel Beauty Serum Storyboard](cat-comic.md#-例-1279-panel-beauty-serum-storyboard) — Beauty serum ad storyboard
 - [Case 128: Golden Fried Rice Storyboard Sheet](cat-comic.md#-例-128golden-fried-rice-storyboard-sheet) — Golden fried rice storyboard
+- [Case 133: Cosmic Big Bang Snooze Comic](cat-comic.md#-例-133宇宙大爆炸贪睡漫画) — Big bang snooze comic
+- [Case 134: Future Worldbuilding Concept Kit](cat-comic.md#-例-134未来世界观构建概念套件) — Future worldbuilding kit
+- [Case 140: Souffle Pancake Animation Project](cat-comic.md#-例-140舒芙蕾松饼动画项目) — Souffle pancake storyboard
 
 ---
 
@@ -212,7 +222,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (7)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (8)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -223,6 +233,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 93: Photorealistic 8K Photo Restoration](cat-edit.md#-例-93photorealistic-8k-photo-restoration) — 8K photo restoration
 - [Case 108: Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — Photo to 3D figure conversion
 - [Case 110: Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — Paper-cut layered diorama
+- [Case 136: Leaping Snow Leopard Under Moonlight](cat-edit.md#-例-136月下雪豹之跃) — Snow leopard moonlight edit
 
 ---
 
