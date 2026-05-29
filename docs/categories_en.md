@@ -193,12 +193,19 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (2)
+## 🏛️ [Architecture & Space](cat-architecture.md) (9)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
 - [Case 11: Temple of Heaven Exploded View](cat-architecture.md#️-例-11天坛建筑拆解图) — Chinese architecture exploded view
 - [Case 83: Minimalist Concept Scene](cat-architecture.md#️-例-83极简主义概念场景描述) — Minimalist concept scene
+- [Case 162: Blueprint to Render House Split](cat-architecture.md#️-例-162建筑蓝图与渲染图对比) — Architectural blueprint vs render
+- [Case 163: Minimalist Interior Design Render](cat-architecture.md#️-例-163现代极简室内设计展示) — Modern minimalist interior design
+- [Case 164: Tokyo Night Diorama Map](cat-architecture.md#️-例-164东京夜景立体模型地图) — Tokyo 3D miniature diorama map
+- [Case 165: Nocturnal Paris Diorama Map](cat-architecture.md#️-例-165巴黎夜景立体模型地图) — Paris 3D architectural diorama
+- [Case 166: Nocturnal New York Map](cat-architecture.md#️-例-166纽约夜景3D档案地图) — New York 3D miniature archive map
+- [Case 167: London Diorama Map](cat-architecture.md#️-例-167伦敦夜景立体模型地图) — London 3D architectural diorama
+- [Case 168: Retro Umeda Travel Poster](cat-architecture.md#️-例-168复古风大阪梅田旅行海报) — Vintage travel poster city infographic
 
 ---
 
