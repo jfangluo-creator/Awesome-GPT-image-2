@@ -17,7 +17,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 122：Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — 未来水族馆美人鱼场景
 - [例 125：Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — 次世代移动端UI展示
 - [例 137：冬季篝火壁纸设备样机](cat-ui.md#-例-137冬季篝火壁纸设备样机) — 冬季壁纸设备样机
-- [例 157：四卡片 AI 灵感画廊](cat-ui.md#-四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
+- [例 157：四卡片 AI 灵感画廊](cat-ui.md#-例-157四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
 
 ---
 
@@ -64,9 +64,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 106：复古水彩旅行海报](cat-poster.md#-例-106复古水彩旅行海报) — 水彩旅行海报
 - [例 120：泳装杂志九宫格广告页](cat-poster.md#-例-120泳装杂志九宫格广告页) — 泳装杂志九宫格广告页
 - [例 135：Camelot 奇幻旅行海报](cat-poster.md#-例-135camelot-奇幻旅行海报) — Camelot奇幻旅行海报
-- [例 152：霓虹肖像排版海报](cat-poster.md#-霓虹肖像排版海报) — Neon Portrait Typography Poster
-- [例 155：Y2K 日系唇彩广告](cat-poster.md#-y2k-日系唇彩广告) — Y2K Japanese Lip Gloss Ad
-- [例 159：混合媒介街头风海报](cat-poster.md#-混合媒介街头风海报) — Mixed-Media Streetwear Poster
+- [例 152：霓虹肖像排版海报](cat-poster.md#-例-152霓虹肖像排版海报) — Neon Portrait Typography Poster
+- [例 155：Y2K 日系唇彩广告](cat-poster.md#-例-155y2k-日系唇彩广告) — Y2K Japanese Lip Gloss Ad
+- [例 159：混合媒介街头风海报](cat-poster.md#-例-159混合媒介街头风海报) — Mixed-Media Streetwear Poster
 
 ---
 
@@ -104,17 +104,17 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 112：带有日式手写标注的早餐俯拍图](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — 日式早餐俯拍
 - [例 119：鱼市追猫 CCD 街拍](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — 鱼市追猫CCD街拍
 - [例 138：电影感鱼眼城市人像](cat-photo.md#-例-138电影感鱼眼城市人像) — 鱼眼城市街拍人像
-- [例 144：电影感动态模糊街头人像](cat-photo.md#-电影感动态模糊街头人像) — Cinematic Motion Blur Street Portrait
-- [例 145：神秘狐仙神像肖像](cat-photo.md#-神秘狐仙神像肖像) — Mystical Kitsune Shrine Portrait
-- [例 146：日式夏日缘侧肖像](cat-photo.md#-日式夏日缘侧肖像) — Japanese Summer Porch Portrait
-- [例 147：黄金时刻花海野餐与迷你分身](cat-photo.md#-黄金时刻花海野餐与迷你分身) — Golden Hour Flower Picnic Clones
-- [例 148：蓝天下的夏日跳跃人像](cat-photo.md#-蓝天下的夏日跳跃人像) — Summer Jump Blue Sky Portrait
-- [例 150：日本小巷人像（面部模糊处理）](cat-photo.md#-日本小巷人像面部模糊处理) — Japanese Alley Portrait Blurred
-- [例 151：酒红色礼服时尚参考网格](cat-photo.md#-酒红色礼服时尚参考网格) — Burgundy Gown Reference Grid
-- [例 154：上海石库门窗边肖像](cat-photo.md#-上海石库门窗边肖像) — Shanghai Shikumen Window Portrait
-- [例 156：坐在巨型网球上的运动员](cat-photo.md#-坐在巨型网球上的运动员) — Athlete on Giant Tennis Ball
-- [例 158：极简主义工作室静物摄影](cat-photo.md#-极简主义工作室静物摄影) — Minimalist Studio Photography
-- [例 160：阳光时尚杂志拼贴画](cat-photo.md#-阳光时尚杂志拼贴画) — Sunlit Fashion Collage
+- [例 144：电影感动态模糊街头人像](cat-photo.md#-例-144电影感动态模糊街头人像) — Cinematic Motion Blur Street Portrait
+- [例 145：神秘狐仙神像肖像](cat-photo.md#-例-145神秘狐仙神像肖像) — Mystical Kitsune Shrine Portrait
+- [例 146：日式夏日缘侧肖像](cat-photo.md#-例-146日式夏日缘侧肖像) — Japanese Summer Porch Portrait
+- [例 147：黄金时刻花海野餐与迷你分身](cat-photo.md#-例-147黄金时刻花海野餐与迷你分身) — Golden Hour Flower Picnic Clones
+- [例 148：蓝天下的夏日跳跃人像](cat-photo.md#-例-148蓝天下的夏日跳跃人像) — Summer Jump Blue Sky Portrait
+- [例 150：日本小巷人像（面部模糊处理）](cat-photo.md#-例-150日本小巷人像面部模糊处理) — Japanese Alley Portrait Blurred
+- [例 151：酒红色礼服时尚参考网格](cat-photo.md#-例-151酒红色礼服时尚参考网格) — Burgundy Gown Reference Grid
+- [例 154：上海石库门窗边肖像](cat-photo.md#-例-154上海石库门窗边肖像) — Shanghai Shikumen Window Portrait
+- [例 156：坐在巨型网球上的运动员](cat-photo.md#-例-156坐在巨型网球上的运动员) — Athlete on Giant Tennis Ball
+- [例 158：极简主义工作室静物摄影](cat-photo.md#-例-158极简主义工作室静物摄影) — Minimalist Studio Photography
+- [例 160：阳光时尚杂志拼贴画](cat-photo.md#-例-160阳光时尚杂志拼贴画) — Sunlit Fashion Collage
 
 ---
 
@@ -143,7 +143,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 113：Chinese Museum Deconstruction Infographic](cat-illustration.md#-例-113chinese-museum-deconstruction-infographic) — 博物馆解构信息图
 - [例 117：极简侘寂风诗歌海报](cat-illustration.md#-例-117极简侘寂风诗歌海报) — 极简侘寂诗歌海报
 - [例 129：Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — 日系哈士奇速写本
-- [例 149：无脸动漫风格公寓拥抱](cat-illustration.md#-无脸动漫风格公寓拥抱) — Faceless Anime Apartment Hug
+- [例 149：无脸动漫风格公寓拥抱](cat-illustration.md#-例-149无脸动漫风格公寓拥抱) — Faceless Anime Apartment Hug
 
 ---
 
@@ -168,7 +168,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 115：Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — 潮汐祭司角色设定
 - [例 124：Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — 复古戏剧角色板
 - [例 130：Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — 专业动漫角色线稿设定
-- [例 161：皮克斯风格角色设计图](cat-character.md#-皮克斯风格角色设计图) — Pixar Character Design Sheet
+- [例 161：皮克斯风格角色设计图](cat-character.md#-例-161皮克斯风格角色设计图) — Pixar Character Design Sheet
 
 ---
 
@@ -190,7 +190,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 131：早安拿铁微缩女孩](cat-3d.md#-例-131早安拿铁微缩女孩) — 拿铁杯微缩女孩
 - [例 139：Q 版毛绒足球吉祥物](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Q版毛绒足球吉祥物
 - [例 141：Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — 玩具法拉利分镜板
-- [例 153：新闻记者玩具店场景](cat-3d.md#-新闻记者玩具店场景) — News Reporter Toy Store Scene
+- [例 153：新闻记者玩具店场景](cat-3d.md#-例-153新闻记者玩具店场景) — News Reporter Toy Store Scene
 
 ---
 
@@ -256,7 +256,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 108：Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — 照片转3D手办
 - [例 110：Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — 纸雕层叠立体画
 - [例 136：月下雪豹之跃](cat-edit.md#-例-136月下雪豹之跃) — 月下雪豹之跃
-- [例 143：趣味丑萌涂鸦草图](cat-edit.md#-趣味丑萌涂鸦草图) — Funny Ugly Doodle Sketch
+- [例 143：趣味丑萌涂鸦草图](cat-edit.md#-例-143趣味丑萌涂鸦草图) — Funny Ugly Doodle Sketch
 
 ---
 
