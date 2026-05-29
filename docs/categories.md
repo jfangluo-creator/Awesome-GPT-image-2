@@ -18,7 +18,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 125：Next-Gen Mobile App UI Showcase](cat-ui.md#️-例-125next-gen-mobile-app-ui-showcase) — 次世代移动端UI展示
 - [例 137：冬季篝火壁纸设备样机](cat-ui.md#️-例-137冬季篝火壁纸设备样机) — 冬季壁纸设备样机
 - [例 157：四卡片 AI 灵感画廊](cat-ui.md#️-例-157四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
-- [例 188：豪华社媒破屏商业广告](cat-ui.md#🖥️-例-188豪华社媒破屏商业广告)
+- [例 188：豪华社媒破屏商业广告](cat-ui.md#️-例-188豪华社媒破屏商业广告)
 
 ---
 
@@ -38,7 +38,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 103：数字油画客厅练习页](cat-chart.md#-例-103数字油画客厅练习页) — 数字油画练习页
 - [例 121：导览式科普绘本](cat-chart.md#-例-121导览式科普绘本) — 导览式科普绘本
 - [例 132：咕咕嘎嘎造型包装结构板](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — 产品包装结构设计板
-- [例 185：Neuro-AI 混合系统信息图](cat-chart.md#📊-例-185Neuro-AI混合系统信息图)
+- [例 185：Neuro-AI 混合系统信息图](cat-chart.md#-例-185neuro-ai-混合系统信息图)
 
 ---
 
@@ -69,9 +69,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 152：霓虹肖像排版海报](cat-poster.md#-例-152霓虹肖像排版海报) — Neon Portrait Typography Poster
 - [例 155：Y2K 日系唇彩广告](cat-poster.md#-例-155y2k-日系唇彩广告) — Y2K Japanese Lip Gloss Ad
 - [例 159：混合媒介街头风海报](cat-poster.md#-例-159混合媒介街头风海报) — Mixed-Media Streetwear Poster
-- [例 174：中世纪城市旅行海报](cat-poster.md#🎴-例-174中世纪城市旅行海报)
-- [例 175：复古印尼猫薄荷广告](cat-poster.md#🎴-例-175复古印尼猫薄荷广告)
-- [例 186：巨型游戏手柄街头 Campaign](cat-poster.md#🎴-例-186巨型游戏手柄街头Campaign)
+- [例 174：中世纪城市旅行海报](cat-poster.md#-例-174中世纪城市旅行海报)
+- [例 175：复古印尼猫薄荷广告](cat-poster.md#-例-175复古印尼猫薄荷广告)
+- [例 186：巨型游戏手柄街头 Campaign](cat-poster.md#-例-186巨型游戏手柄街头-campaign)
 
 ---
 
@@ -120,11 +120,11 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 156：坐在巨型网球上的运动员](cat-photo.md#-例-156坐在巨型网球上的运动员) — Athlete on Giant Tennis Ball
 - [例 158：极简主义工作室静物摄影](cat-photo.md#-例-158极简主义工作室静物摄影) — Minimalist Studio Photography
 - [例 160：阳光时尚杂志拼贴画](cat-photo.md#-例-160阳光时尚杂志拼贴画) — Sunlit Fashion Collage
-- [例 171：iPhone 屏幕遮脸创意人像](cat-photo.md#📷-例-171iPhone屏幕遮脸创意人像)
-- [例 172：红跑道低角度夏日人像](cat-photo.md#📷-例-172红跑道低角度夏日人像)
-- [例 178：室内晨间写实摄影](cat-photo.md#📷-例-178室内晨间写实摄影)
-- [例 180：彩色按钮时尚 Campaign](cat-photo.md#📷-例-180彩色按钮时尚Campaign)
-- [例 184：Cozy Academia 学习手记](cat-photo.md#📷-例-184CozyAcademia学习手记)
+- [例 171：iPhone 屏幕遮脸创意人像](cat-photo.md#-例-171iphone-屏幕遮脸创意人像)
+- [例 172：红跑道低角度夏日人像](cat-photo.md#-例-172红跑道低角度夏日人像)
+- [例 178：室内晨间写实摄影](cat-photo.md#-例-178室内晨间写实摄影)
+- [例 180：彩色按钮时尚 Campaign](cat-photo.md#-例-180彩色按钮时尚-campaign)
+- [例 184：Cozy Academia 学习手记](cat-photo.md#-例-184cozy-academia-学习手记)
 
 ---
 
@@ -154,11 +154,11 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 117：极简侘寂风诗歌海报](cat-illustration.md#-例-117极简侘寂风诗歌海报) — 极简侘寂诗歌海报
 - [例 129：Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — 日系哈士奇速写本
 - [例 149：无脸动漫风格公寓拥抱](cat-illustration.md#-例-149无脸动漫风格公寓拥抱) — Faceless Anime Apartment Hug
-- [例 169：日系手绘涂鸦半身插画](cat-illustration.md#🎨-例-169日系手绘涂鸦半身插画)
-- [例 177：东方神话人物志百科海报](cat-illustration.md#🎨-例-177东方神话人物志百科海报)
-- [例 182：夸张动漫风主体重绘](cat-illustration.md#🎨-例-182夸张动漫风主体重绘)
-- [例 183：拙劣 MS Paint 风重绘](cat-illustration.md#🎨-例-183拙劣MSPaint风重绘)
-- [例 187：可爱纸艺风照片重绘](cat-illustration.md#🎨-例-187可爱纸艺风照片重绘)
+- [例 169：日系手绘涂鸦半身插画](cat-illustration.md#-例-169日系手绘涂鸦半身插画)
+- [例 177：东方神话人物志百科海报](cat-illustration.md#-例-177东方神话人物志百科海报)
+- [例 182：夸张动漫风主体重绘](cat-illustration.md#-例-182夸张动漫风主体重绘)
+- [例 183：拙劣 MS Paint 风重绘](cat-illustration.md#-例-183拙劣-ms-paint-风重绘)
+- [例 187：可爱纸艺风照片重绘](cat-illustration.md#-例-187可爱纸艺风照片重绘)
 
 ---
 
@@ -184,7 +184,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 124：Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — 复古戏剧角色板
 - [例 130：Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — 专业动漫角色线稿设定
 - [例 161：皮克斯风格角色设计图](cat-character.md#-例-161皮克斯风格角色设计图) — Pixar Character Design Sheet
-- [例 176：Earth Signs 角色 Scrapbook](cat-character.md#🧍-例-176EarthSigns角色Scrapbook)
+- [例 176：Earth Signs 角色 Scrapbook](cat-character.md#-例-176earth-signs-角色-scrapbook)
 
 ---
 
@@ -225,7 +225,7 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 166：纽约夜景 3D 档案地图](cat-architecture.md#️-例-166纽约夜景3D档案地图) — 纽约夜景 3D 微缩建筑档案地图
 - [例 167：伦敦夜景立体模型地图](cat-architecture.md#️-例-167伦敦夜景立体模型地图) — 伦敦夜景 3D 微缩建筑立体模型
 - [例 168：复古风大阪梅田旅行海报](cat-architecture.md#️-例-168复古风大阪梅田旅行海报) — 复古旅行海报风格城市信息图
-- [例 181：极简建筑地标海报](cat-architecture.md#🏛️-例-181极简建筑地标海报)
+- [例 181：极简建筑地标海报](cat-architecture.md#️-例-181极简建筑地标海报)
 
 ---
 
@@ -249,9 +249,9 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 134：未来世界观构建概念套件](cat-comic.md#-例-134未来世界观构建概念套件) — 未来世界观概念套件
 - [例 140：舒芙蕾松饼动画项目](cat-comic.md#-例-140舒芙蕾松饼动画项目) — 舒芙蕾松饼分镜板
 - [例 142：日式 Q 版绘画歌练习表](cat-comic.md#-例-142日式-q-版绘画歌练习表) — Q版绘画歌分步教学
-- [例 170：冬季生存惊悚 Storyboard](cat-comic.md#🎬-例-170冬季生存惊悚Storyboard)
-- [例 173：可颂烘焙流程 Storyboard](cat-comic.md#🎬-例-173可颂烘焙流程Storyboard)
-- [例 179：当代舞现场 Storyboard](cat-comic.md#🎬-例-179当代舞现场Storyboard)
+- [例 170：冬季生存惊悚 Storyboard](cat-comic.md#-例-170冬季生存惊悚-storyboard)
+- [例 173：可颂烘焙流程 Storyboard](cat-comic.md#-例-173可颂烘焙流程-storyboard)
+- [例 179：当代舞现场 Storyboard](cat-comic.md#-例-179当代舞现场-storyboard)
 
 ---
 

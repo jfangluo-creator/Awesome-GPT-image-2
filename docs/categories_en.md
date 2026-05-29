@@ -18,7 +18,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 125: Next-Gen Mobile App UI Showcase](cat-ui.md#️-例-125next-gen-mobile-app-ui-showcase) — Next-gen mobile app UI
 - [Case 137: Winter Campfire Wallpaper Device Mockup](cat-ui.md#️-例-137冬季篝火壁纸设备样机) — Winter wallpaper device mockup
 - [Case 157: AI Inspiration Gallery Cards](cat-ui.md#️-例-157四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
-- [Case 188: 豪华社媒破屏商业广告](cat-ui.md#🖥️-例-188豪华社媒破屏商业广告)
+- [Case 188: 豪华社媒破屏商业广告](cat-ui.md#️-例-188豪华社媒破屏商业广告)
 
 ---
 
@@ -38,7 +38,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 103: Digital Oil Painting Living Room](cat-chart.md#-例-103数字油画客厅练习页) — Digital paint-by-number page
 - [Case 121: Guided Science Picture Book](cat-chart.md#-例-121导览式科普绘本) — Guided science picture book
 - [Case 132: Product Packaging Structure Board](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — Packaging structure board
-- [Case 185: Neuro-AI 混合系统信息图](cat-chart.md#📊-例-185Neuro-AI混合系统信息图)
+- [Case 185: Neuro-AI 混合系统信息图](cat-chart.md#-例-185neuro-ai-混合系统信息图)
 
 ---
 
@@ -69,9 +69,9 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 152: Neon Portrait Typography Poster](cat-poster.md#-例-152霓虹肖像排版海报) — Neon Portrait Typography Poster
 - [Case 155: Y2K Japanese Lip Gloss Ad](cat-poster.md#-例-155y2k-日系唇彩广告) — Y2K Japanese Lip Gloss Ad
 - [Case 159: Mixed-Media Streetwear Poster](cat-poster.md#-例-159混合媒介街头风海报) — Mixed-Media Streetwear Poster
-- [Case 174: 中世纪城市旅行海报](cat-poster.md#🎴-例-174中世纪城市旅行海报)
-- [Case 175: 复古印尼猫薄荷广告](cat-poster.md#🎴-例-175复古印尼猫薄荷广告)
-- [Case 186: 巨型游戏手柄街头 Campaign](cat-poster.md#🎴-例-186巨型游戏手柄街头Campaign)
+- [Case 174: 中世纪城市旅行海报](cat-poster.md#-例-174中世纪城市旅行海报)
+- [Case 175: 复古印尼猫薄荷广告](cat-poster.md#-例-175复古印尼猫薄荷广告)
+- [Case 186: 巨型游戏手柄街头 Campaign](cat-poster.md#-例-186巨型游戏手柄街头-campaign)
 
 ---
 
@@ -120,11 +120,11 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 156: Athlete on Giant Tennis Ball](cat-photo.md#-例-156坐在巨型网球上的运动员) — Athlete on Giant Tennis Ball
 - [Case 158: Minimalist Studio Photography](cat-photo.md#-例-158极简主义工作室静物摄影) — Minimalist Studio Photography
 - [Case 160: Sunlit Fashion Collage](cat-photo.md#-例-160阳光时尚杂志拼贴画) — Sunlit Fashion Collage
-- [Case 171: iPhone 屏幕遮脸创意人像](cat-photo.md#📷-例-171iPhone屏幕遮脸创意人像)
-- [Case 172: 红跑道低角度夏日人像](cat-photo.md#📷-例-172红跑道低角度夏日人像)
-- [Case 178: 室内晨间写实摄影](cat-photo.md#📷-例-178室内晨间写实摄影)
-- [Case 180: 彩色按钮时尚 Campaign](cat-photo.md#📷-例-180彩色按钮时尚Campaign)
-- [Case 184: Cozy Academia 学习手记](cat-photo.md#📷-例-184CozyAcademia学习手记)
+- [Case 171: iPhone 屏幕遮脸创意人像](cat-photo.md#-例-171iphone-屏幕遮脸创意人像)
+- [Case 172: 红跑道低角度夏日人像](cat-photo.md#-例-172红跑道低角度夏日人像)
+- [Case 178: 室内晨间写实摄影](cat-photo.md#-例-178室内晨间写实摄影)
+- [Case 180: 彩色按钮时尚 Campaign](cat-photo.md#-例-180彩色按钮时尚-campaign)
+- [Case 184: Cozy Academia 学习手记](cat-photo.md#-例-184cozy-academia-学习手记)
 
 ---
 
@@ -151,11 +151,11 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 89: Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — Cherry blossom manga page
 - [Case 129: Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — Husky sketchbook profile
 - [Case 149: Faceless Anime Apartment Hug](cat-illustration.md#-例-149无脸动漫风格公寓拥抱) — Faceless Anime Apartment Hug
-- [Case 169: 日系手绘涂鸦半身插画](cat-illustration.md#🎨-例-169日系手绘涂鸦半身插画)
-- [Case 177: 东方神话人物志百科海报](cat-illustration.md#🎨-例-177东方神话人物志百科海报)
-- [Case 182: 夸张动漫风主体重绘](cat-illustration.md#🎨-例-182夸张动漫风主体重绘)
-- [Case 183: 拙劣 MS Paint 风重绘](cat-illustration.md#🎨-例-183拙劣MSPaint风重绘)
-- [Case 187: 可爱纸艺风照片重绘](cat-illustration.md#🎨-例-187可爱纸艺风照片重绘)
+- [Case 169: 日系手绘涂鸦半身插画](cat-illustration.md#-例-169日系手绘涂鸦半身插画)
+- [Case 177: 东方神话人物志百科海报](cat-illustration.md#-例-177东方神话人物志百科海报)
+- [Case 182: 夸张动漫风主体重绘](cat-illustration.md#-例-182夸张动漫风主体重绘)
+- [Case 183: 拙劣 MS Paint 风重绘](cat-illustration.md#-例-183拙劣-ms-paint-风重绘)
+- [Case 187: 可爱纸艺风照片重绘](cat-illustration.md#-例-187可爱纸艺风照片重绘)
 
 ---
 
@@ -181,7 +181,7 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 124: Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — Vintage drama character board
 - [Case 130: Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — Anime character line art
 - [Case 161: Pixar Character Design Sheet](cat-character.md#-例-161皮克斯风格角色设计图) — Pixar Character Design Sheet
-- [Case 176: Earth Signs 角色 Scrapbook](cat-character.md#🧍-例-176EarthSigns角色Scrapbook)
+- [Case 176: Earth Signs 角色 Scrapbook](cat-character.md#-例-176earth-signs-角色-scrapbook)
 
 ---
 
@@ -222,7 +222,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 166: Nocturnal New York Map](cat-architecture.md#️-例-166纽约夜景3D档案地图) — New York 3D miniature archive map
 - [Case 167: London Diorama Map](cat-architecture.md#️-例-167伦敦夜景立体模型地图) — London 3D architectural diorama
 - [Case 168: Retro Umeda Travel Poster](cat-architecture.md#️-例-168复古风大阪梅田旅行海报) — Vintage travel poster city infographic
-- [Case 181: 极简建筑地标海报](cat-architecture.md#🏛️-例-181极简建筑地标海报)
+- [Case 181: 极简建筑地标海报](cat-architecture.md#️-例-181极简建筑地标海报)
 
 ---
 
@@ -246,9 +246,9 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 134: Future Worldbuilding Concept Kit](cat-comic.md#-例-134未来世界观构建概念套件) — Future worldbuilding kit
 - [Case 140: Souffle Pancake Animation Project](cat-comic.md#-例-140舒芙蕾松饼动画项目) — Souffle pancake storyboard
 - [Case 142: Chibi Drawing Song Worksheet](cat-comic.md#-例-142日式-q-版绘画歌练习表) — Step-by-step chibi drawing tutorial
-- [Case 170: 冬季生存惊悚 Storyboard](cat-comic.md#🎬-例-170冬季生存惊悚Storyboard)
-- [Case 173: 可颂烘焙流程 Storyboard](cat-comic.md#🎬-例-173可颂烘焙流程Storyboard)
-- [Case 179: 当代舞现场 Storyboard](cat-comic.md#🎬-例-179当代舞现场Storyboard)
+- [Case 170: 冬季生存惊悚 Storyboard](cat-comic.md#-例-170冬季生存惊悚-storyboard)
+- [Case 173: 可颂烘焙流程 Storyboard](cat-comic.md#-例-173可颂烘焙流程-storyboard)
+- [Case 179: 当代舞现场 Storyboard](cat-comic.md#-例-179当代舞现场-storyboard)
 
 ---
 
