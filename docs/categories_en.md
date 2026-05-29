@@ -186,7 +186,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (14)
+## 🎬 [Comics & Storyboards](cat-comic.md) (15)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -203,6 +203,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 133: Cosmic Big Bang Snooze Comic](cat-comic.md#-例-133宇宙大爆炸贪睡漫画) — Big bang snooze comic
 - [Case 134: Future Worldbuilding Concept Kit](cat-comic.md#-例-134未来世界观构建概念套件) — Future worldbuilding kit
 - [Case 140: Souffle Pancake Animation Project](cat-comic.md#-例-140舒芙蕾松饼动画项目) — Souffle pancake storyboard
+- [Case 142: Chibi Drawing Song Worksheet](cat-comic.md#-例-142日式-q-版绘画歌练习表) — Step-by-step chibi drawing tutorial
 
 ---
 
