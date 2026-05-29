@@ -821,3 +821,175 @@ Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying 
 
 ---
 
+### 📷 例 193：唱片公司楼梯间写真人像
+
+![唱片公司楼梯间写真人像](../images/%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E6%A5%BC%E6%A2%AF%E9%97%B4%E5%86%99%E7%9C%9F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Use case: photorealistic-natural
+Asset type: cinematic portrait image, final target size 1216x1536 portrait
+
+Create a photorealistic image of a fictional adult Korean female idol in her mid-20s, not resembling any real celebrity. Maintain a Japanese negative film look: soft overexposure, faded neutrals, low contrast, subtle grain, and imperfect snapshot framing.
+
+Scene/backdrop: the back stairwell of a small record label building, with moving boxes, scuffed concrete steps, a gray metal handrail, and a pale security light. The atmosphere should feel quiet, slightly intimate, and workaday, as if caught in a private in-between moment after practice and during moving day.
+
+Subject: a Korean female idol with a naturally attractive, understated sensuality rather than overt glamour. She should feel quietly magnetic, relaxed, and a little teasing without being provocative.
+
+Wardrobe/props: a slightly cropped black blazer worn casually and slightly open, over a fitted heather-gray ribbed tee that softly outlines the figure without revealing cleavage, loose khaki cargo pants sitting naturally on the waist, a thin silver chain necklace, a roll of black gaffer tape placed beside her, and one sneaker lace still half-tied. The styling should feel subtly sexier and more feminine than purely casual, but still fully modest and non-revealing.
+
+Composition/framing: tall portrait. The subject is seated on the stairs with one knee slightly raised and one leg relaxed lower on the step, leaning back lightly with one hand braced behind her on the stair for support. The other hand is near her half-tied sneaker, as if she has just paused while tying it. Her blazer falls naturally along the body, her posture creating a soft, elegant silhouette. Her head is tilted up toward the camera with a calm, slightly sultry, self-possessed expression. The pose should feel candid yet subtly alluring, natural rather than staged.
+
+Lighting/mood: flat stairwell light, understated backstage realism, soft grain, muted tones, gentle highlight bloom, and a quiet intimate mood. Keep the image photorealistic, restrained, and cinematic, with no excessive glamour and no nudity.
+
+Add small white handwriting signature text "BubbleBrain" on the bottom right corner.
+
+--2:3
+```
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827) | 2026-05-30
+
+---
+
+### 📷 例 198：Y2K 金色时刻人像
+
+![Y2K 金色时刻人像](../images/Y2K%20%E9%87%91%E8%89%B2%E6%97%B6%E5%88%BB%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
+```
+
+**来源：** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014) | 2026-05-30
+
+---
+
+### 📷 例 207：AI 日常生活 iPhone 抓拍
+
+![AI 日常生活 iPhone 抓拍](../images/AI%20%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%20iPhone%20%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+I want to see what you really look like.
+Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone.
+Make it feel like a very ordinary, imperfect candid shot.
+The photo should have slight motion blur, with uneven, natural lighting.
+```
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809) | 2026-05-30
+
+---
+
+### 📷 例 208：春日花田三联竖版写真拼贴
+
+![春日花田三联竖版写真拼贴](../images/%E6%98%A5%E6%97%A5%E8%8A%B1%E7%94%B0%E4%B8%89%E8%81%94%E7%AB%96%E7%89%88%E5%86%99%E7%9C%9F%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch.
+
+The setting is a dreamy, vibrant yellow mustard flower field under a bright blue sky with soft clouds, enhanced by golden hour lighting for a magical glow.
+
+Top panel: Back view of the woman standing in the field with arms wide open, sunlight creating a glowing halo around her hair, slight motion blur in flowers for a cinematic feel.
+
+Middle panel: Close-up portrait, she smiles naturally at the camera, wind softly moving her hair, her hand reaching toward the lens creating depth and a slightly blurred foreground for a DSLR effect.
+
+Bottom panel: Playful pose, she leans sideways in the flowers, making a double peace sign, laughing candidly, capturing an authentic joyful moment.
+
+Add cute, trendy white doodle overlays (smiley faces, sparkles, stars, tiny hearts) with a subtle animated/sketchy feel. Include light leaks, sun flares, and soft film grain for a premium Instagram aesthetic.
+
+Ultra-realistic, 4K, cinematic lighting, shallow depth of field, high dynamic range, natural skin tones, editorial fashion photography, soft pastel color grading.
+
+Aspect ratio: 4:5
+Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, candid luxury
+```
+
+**来源：** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249) | 2026-05-30
+
+---
+
+### 📷 例 213：樱花咖啡户外人像
+
+![樱花咖啡户外人像](../images/%E6%A8%B1%E8%8A%B1%E5%92%96%E5%95%A1%E6%88%B7%E5%A4%96%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
+
+Subject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.
+Pose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.
+Framing: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.
+Outfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.
+Accessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.
+Hair: neat low bun with soft loose strands.
+Environment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.
+Lighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.
+Camera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.
+Color grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.
+Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
+Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
+--ar 9:16 --style raw --quality high
+```
+
+**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716) | 2026-05-30
+
+---
+
+### 📷 例 214：泼洒抹茶街头手机照片
+
+![泼洒抹茶街头手机照片](../images/%E6%B3%BC%E6%B4%92%E6%8A%B9%E8%8C%B6%E8%A1%97%E5%A4%B4%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition
+
+Negative Prompt:
+cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective
+```
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) | 2026-05-30
+
+---
+
+### 📷 例 224：咖啡馆写实照片与 2D 涂鸦叠加
+
+![咖啡馆写实照片与 2D 涂鸦叠加](../images/%E5%92%96%E5%95%A1%E9%A6%86%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87%E4%B8%8E%202D%20%E6%B6%82%E9%B8%A6%E5%8F%A0%E5%8A%A0.jpg)
+
+**Prompt:**
+
+```text
+A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.
+
+The scene blends realistic photography with playful 2D cartoon overlays. Floating around her are animated coffee elements: a smiling cappuccino cup with heart-shaped latte art, cute coffee beans with tiny faces, and stylized splashes of caramel forming comic-style shapes. Soft doodle steam rises into hearts and stars.
+
+On the table: a croissant, a notebook with sketch drawings, and a second coffee cup.
+
+Background: a realistic cozy café street with brick walls, plants, warm golden hour lighting, and soft shadows. Slight depth of field, subject in sharp focus.
+
+Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.
+```
+
+**来源：** [@Jawad_Rahman_](https://x.com/Jawad_Rahman_/status/2049796647237066971) | 2026-05-30
+
+---
+
+### 📷 例 233：鱼眼镜面复古咖啡馆人像
+
+![鱼眼镜面复古咖啡馆人像](../images/%E9%B1%BC%E7%9C%BC%E9%95%9C%E9%9D%A2%E5%A4%8D%E5%8F%A4%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
+```
+
+**来源：** [@harboriis](https://x.com/harboriis/status/2049044698900361241) | 2026-05-30
+
+---
+

@@ -606,3 +606,49 @@ Recreate this image in a paper craft style, simplifying the details to make them
 
 ---
 
+### 🎨 例 216：彩色潦草小狗线条风格重绘
+
+![彩色潦草小狗线条风格重绘](../images/%E5%BD%A9%E8%89%B2%E6%BD%A6%E8%8D%89%E5%B0%8F%E7%8B%97%E7%BA%BF%E6%9D%A1%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。
+```
+
+**来源：** [@berryxia](https://x.com/berryxia/status/2050226420681757102) | 2026-05-30
+
+---
+
+### 🎨 例 234：过度思考超现实街头 Campaign
+
+![过度思考超现实街头 Campaign](../images/%E8%BF%87%E5%BA%A6%E6%80%9D%E8%80%83%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%A1%97%E5%A4%B4%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.
+
+The twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.
+
+Composition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space.
+
+Typography integrated into the background:
+
+Handwritten-style text at the top: "OVERTHINKING"
+
+Below it, smaller text: "TRAPPED IN MY OWN HEART" with "HEART" crossed out
+
+Large, rough, scribbled text in deep pink: "MIND"
+
+Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.
+
+Style: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
+
+Mood: introspective, emotional weight, identity, self-awareness, quiet confidence.
+```
+
+**来源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758) | 2026-05-30
+
+---
+

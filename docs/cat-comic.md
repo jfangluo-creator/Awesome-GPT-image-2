@@ -676,3 +676,45 @@ End with one overwhelming final movement pose beneath a harsh isolated spotlight
 
 ---
 
+### 🎬 例 196：骑士法师大战石像魔像
+
+![骑士法师大战石像魔像](../images/%E9%AA%91%E5%A3%AB%E6%B3%95%E5%B8%88%E5%A4%A7%E6%88%98%E7%9F%B3%E5%83%8F%E9%AD%94%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.
+```
+
+**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) | 2026-05-30
+
+---
+
+### 🎬 例 197：中世纪村庄双精灵冒险者
+
+![中世纪村庄双精灵冒险者](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E6%9D%91%E5%BA%84%E5%8F%8C%E7%B2%BE%E7%81%B5%E5%86%92%E9%99%A9%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name="left character hair color" default="ash blonde"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name="right character hair color" default="dark brown"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name="face covering color" default="dark brown"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name="lighting mood" default="warm late-afternoon golden sunlight"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.
+```
+
+**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) | 2026-05-30
+
+---
+
+### 🎬 例 199：头发里的微型城市
+
+![头发里的微型城市](../images/%E5%A4%B4%E5%8F%91%E9%87%8C%E7%9A%84%E5%BE%AE%E5%9E%8B%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
+```
+
+**来源：** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986) | 2026-05-30
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (9)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (13)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -19,12 +19,16 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 137: Winter Campfire Wallpaper Device Mockup](cat-ui.md#️-例-137冬季篝火壁纸设备样机) — Winter wallpaper device mockup
 - [Case 157: AI Inspiration Gallery Cards](cat-ui.md#️-例-157四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
 - [Case 188: 豪华社媒破屏商业广告](cat-ui.md#️-例-188豪华社媒破屏商业广告)
+- [Case 189: 小红书数字破屏 3D 女孩](cat-ui.md#️-例-189小红书数字破屏-3d-女孩)
+- [Case 190: 3D 小红书个人资料卡](cat-ui.md#️-例-1903d-小红书个人资料卡)
+- [Case 192: 多风格签名选择海报](cat-ui.md#️-例-192多风格签名选择海报)
+- [Case 203: Netflix 首页主视觉 UI](cat-ui.md#️-例-203netflix-首页主视觉-ui)
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (11)
+## 📊 [Charts & Infographics](cat-chart.md) (17)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -39,12 +43,18 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 121: Guided Science Picture Book](cat-chart.md#-例-121导览式科普绘本) — Guided science picture book
 - [Case 132: Product Packaging Structure Board](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — Packaging structure board
 - [Case 185: Neuro-AI 混合系统信息图](cat-chart.md#-例-185neuro-ai-混合系统信息图)
+- [Case 210: 冠状病毒尺度缩放科学信息图](cat-chart.md#-例-210冠状病毒尺度缩放科学信息图)
+- [Case 215: 古希腊三哲时间轴城市图](cat-chart.md#-例-215古希腊三哲时间轴城市图)
+- [Case 226: 奢华个人色彩档案信息图](cat-chart.md#-例-226奢华个人色彩档案信息图)
+- [Case 229: 手机爆炸拆解图](cat-chart.md#-例-229手机爆炸拆解图)
+- [Case 230: 长发造型分析信息图](cat-chart.md#-例-230长发造型分析信息图)
+- [Case 237: 品牌口红推荐报告信息图](cat-chart.md#-例-237品牌口红推荐报告信息图)
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (24)
+## 🎴 [Posters & Cards](cat-poster.md) (32)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -72,12 +82,20 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 174: 中世纪城市旅行海报](cat-poster.md#-例-174中世纪城市旅行海报)
 - [Case 175: 复古印尼猫薄荷广告](cat-poster.md#-例-175复古印尼猫薄荷广告)
 - [Case 186: 巨型游戏手柄街头 Campaign](cat-poster.md#-例-186巨型游戏手柄街头-campaign)
+- [Case 191: Lost in 国家旅行海报拼贴](cat-poster.md#-例-191lost-in-国家旅行海报拼贴)
+- [Case 195: 龙类物种复古百科海报](cat-poster.md#-例-195龙类物种复古百科海报)
+- [Case 201: Transparent Labs Hydrate 健身补剂 Campaign](cat-poster.md#-例-201transparent-labs-hydrate-健身补剂-campaign)
+- [Case 202: 1980s Claude 复古杂志广告](cat-poster.md#-例-2021980s-claude-复古杂志广告)
+- [Case 223: VELORA 奢华香水广告海报](cat-poster.md#-例-223velora-奢华香水广告海报)
+- [Case 231: 水墨双重曝光人物海报](cat-poster.md#-例-231水墨双重曝光人物海报)
+- [Case 235: 概念字体海报 Prompt](cat-poster.md#-例-235概念字体海报-prompt)
+- [Case 238: 西楚霸王国风暗黑海报](cat-poster.md#-例-238西楚霸王国风暗黑海报)
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (44)
+## 📷 [Photography & Realistic](cat-photo.md) (52)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -125,12 +143,20 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 178: 室内晨间写实摄影](cat-photo.md#-例-178室内晨间写实摄影)
 - [Case 180: 彩色按钮时尚 Campaign](cat-photo.md#-例-180彩色按钮时尚-campaign)
 - [Case 184: Cozy Academia 学习手记](cat-photo.md#-例-184cozy-academia-学习手记)
+- [Case 193: 唱片公司楼梯间写真人像](cat-photo.md#-例-193唱片公司楼梯间写真人像)
+- [Case 198: Y2K 金色时刻人像](cat-photo.md#-例-198y2k-金色时刻人像)
+- [Case 207: AI 日常生活 iPhone 抓拍](cat-photo.md#-例-207ai-日常生活-iphone-抓拍)
+- [Case 208: 春日花田三联竖版写真拼贴](cat-photo.md#-例-208春日花田三联竖版写真拼贴)
+- [Case 213: 樱花咖啡户外人像](cat-photo.md#-例-213樱花咖啡户外人像)
+- [Case 214: 泼洒抹茶街头手机照片](cat-photo.md#-例-214泼洒抹茶街头手机照片)
+- [Case 224: 咖啡馆写实照片与 2D 涂鸦叠加](cat-photo.md#-例-224咖啡馆写实照片与-2d-涂鸦叠加)
+- [Case 233: 鱼眼镜面复古咖啡馆人像](cat-photo.md#-例-233鱼眼镜面复古咖啡馆人像)
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (25)
+## 🎨 [Illustration & Art](cat-illustration.md) (27)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -156,12 +182,14 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 182: 夸张动漫风主体重绘](cat-illustration.md#-例-182夸张动漫风主体重绘)
 - [Case 183: 拙劣 MS Paint 风重绘](cat-illustration.md#-例-183拙劣-ms-paint-风重绘)
 - [Case 187: 可爱纸艺风照片重绘](cat-illustration.md#-例-187可爱纸艺风照片重绘)
+- [Case 216: 彩色潦草小狗线条风格重绘](cat-illustration.md#-例-216彩色潦草小狗线条风格重绘)
+- [Case 234: 过度思考超现实街头 Campaign](cat-illustration.md#-例-234过度思考超现实街头-campaign)
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (17)
+## 🧍 [Character Design](cat-character.md) (22)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -182,12 +210,17 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 130: Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — Anime character line art
 - [Case 161: Pixar Character Design Sheet](cat-character.md#-例-161皮克斯风格角色设计图) — Pixar Character Design Sheet
 - [Case 176: Earth Signs 角色 Scrapbook](cat-character.md#-例-176earth-signs-角色-scrapbook)
+- [Case 194: 8 套日常穿搭编辑拼贴](cat-character.md#-例-1948-套日常穿搭编辑拼贴)
+- [Case 206: 十国传统服饰时尚拼贴](cat-character.md#-例-206十国传统服饰时尚拼贴)
+- [Case 212: 高端 3D 收藏玩具头像](cat-character.md#-例-212高端-3d-收藏玩具头像)
+- [Case 218: 可爱角色设定表](cat-character.md#-例-218可爱角色设定表)
+- [Case 219: Scrapbook 真人图与迷你分身](cat-character.md#-例-219scrapbook-真人图与迷你分身)
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (13)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (14)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -204,12 +237,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 139: Q-Style Plush Football Mascot](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Plush football mascot
 - [Case 141: Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — Toy Ferrari storyboard
 - [Case 153: News Reporter Toy Store Scene](cat-3d.md#-例-153新闻记者玩具店场景) — News Reporter Toy Store Scene
+- [Case 220: Crumple Chair 概念沙发研发板](cat-3d.md#-例-220crumple-chair-概念沙发研发板)
 
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (10)
+## 🏛️ [Architecture & Space](cat-architecture.md) (12)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -223,12 +257,14 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 167: London Diorama Map](cat-architecture.md#️-例-167伦敦夜景立体模型地图) — London 3D architectural diorama
 - [Case 168: Retro Umeda Travel Poster](cat-architecture.md#️-例-168复古风大阪梅田旅行海报) — Vintage travel poster city infographic
 - [Case 181: 极简建筑地标海报](cat-architecture.md#️-例-181极简建筑地标海报)
+- [Case 209: 90 年代公寓场景参考板](cat-architecture.md#️-例-20990-年代公寓场景参考板)
+- [Case 221: 明洞旅游区域地图](cat-architecture.md#️-例-221明洞旅游区域地图)
 
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (18)
+## 🎬 [Comics & Storyboards](cat-comic.md) (21)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -249,12 +285,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 170: 冬季生存惊悚 Storyboard](cat-comic.md#-例-170冬季生存惊悚-storyboard)
 - [Case 173: 可颂烘焙流程 Storyboard](cat-comic.md#-例-173可颂烘焙流程-storyboard)
 - [Case 179: 当代舞现场 Storyboard](cat-comic.md#-例-179当代舞现场-storyboard)
+- [Case 196: 骑士法师大战石像魔像](cat-comic.md#-例-196骑士法师大战石像魔像)
+- [Case 197: 中世纪村庄双精灵冒险者](cat-comic.md#-例-197中世纪村庄双精灵冒险者)
+- [Case 199: 头发里的微型城市](cat-comic.md#-例-199头发里的微型城市)
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (5)
+## 🏷️ [Brand & Packaging](cat-brand.md) (12)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -263,6 +302,13 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 96: Brand Milk Tea KV Concept Poster](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — Brand KV concept poster
 - [Case 107: Vintage Japanese Eraser Product Packaging](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — Vintage eraser product packaging
 - [Case 126: Fiery Takis Action Poster](cat-brand.md#️-例-126fiery-takis-action-poster) — Takis fiery snack poster
+- [Case 204: 品牌包络产品广告](cat-brand.md#️-例-204品牌包络产品广告)
+- [Case 211: 品牌人格漫画信息图](cat-brand.md#️-例-211品牌人格漫画信息图)
+- [Case 217: 高端肉类海鲜品牌英雄图](cat-brand.md#-例-217高端肉类海鲜品牌英雄图)
+- [Case 225: 科学家收藏级玩具发布板](cat-brand.md#-例-225科学家收藏级玩具发布板)
+- [Case 228: 抹茶品牌触点系统视觉板](cat-brand.md#️-例-228抹茶品牌触点系统视觉板)
+- [Case 232: 草莓能量饮料商业广告](cat-brand.md#-例-232草莓能量饮料商业广告)
+- [Case 236: Logo 与品牌身份系统提示词合集](cat-brand.md#️-例-236logo-与品牌身份系统提示词合集)
 
 ---
 
@@ -286,7 +332,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 
 <a id="fun"></a>
 
-## 🧪 [Creative Experiments](cat-fun.md) (4)
+## 🧪 [Creative Experiments](cat-fun.md) (8)
 
 Surreal composites (giant statues/creatures), novel ideas (constellation maps/fisheye/VR effects), time-travel mashups, fun transformations.
 
@@ -294,3 +340,7 @@ Surreal composites (giant statues/creatures), novel ideas (constellation maps/fi
 - [Case 21: Leaf Collage Portrait](cat-fun.md#-例-21创意树叶拼贴画像) — Natural leaf collage art
 - [Case 66: Dali-style Surreal Coastline](cat-fun.md#-例-66达利风格超现实海岸景观重构) — Dali surrealism recreation
 - [Case 123: Minecraft Night Plaza Transformation](cat-fun.md#-例-123minecraft-night-plaza-transformation) — Minecraft night plaza build
+- [Case 200: 四国文化锚点服装设计宫格](cat-fun.md#-例-200四国文化锚点服装设计宫格)
+- [Case 205: 青岛啤酒灵感女装系列](cat-fun.md#-例-205青岛啤酒灵感女装系列)
+- [Case 222: 印度餐厅菜单改造宣传图](cat-fun.md#-例-222印度餐厅菜单改造宣传图)
+- [Case 227: 磁场铁粉 Logo 物理成像](cat-fun.md#-例-227磁场铁粉-logo-物理成像)

@@ -467,3 +467,274 @@ Style:
 
 ---
 
+### 📊 例 210：冠状病毒尺度缩放科学信息图
+
+![冠状病毒尺度缩放科学信息图](../images/%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E5%B0%BA%E5%BA%A6%E7%BC%A9%E6%94%BE%E7%A7%91%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
+```
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571) | 2026-05-30
+
+---
+
+### 📊 例 215：古希腊三哲时间轴城市图
+
+![古希腊三哲时间轴城市图](../images/%E5%8F%A4%E5%B8%8C%E8%85%8A%E4%B8%89%E5%93%B2%E6%97%B6%E9%97%B4%E8%BD%B4%E5%9F%8E%E5%B8%82%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
+
+背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874) | 2026-05-30
+
+---
+
+### 📊 例 226：奢华个人色彩档案信息图
+
+![奢华个人色彩档案信息图](../images/%E5%A5%A2%E5%8D%8E%E4%B8%AA%E4%BA%BA%E8%89%B2%E5%BD%A9%E6%A1%A3%E6%A1%88%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+LUXURY PERSONAL COLOR PROFILE — EDITORIAL LAYOUT
+Studio portrait of subject as anchor — skin retouched to luminous glass-like perfection, preserved natural structure, realistic pore texture, soft directional key lighting, no facial alteration. Background: warm ecru parchment with subtle linen grain texture. Layout reads like a Vogue Italia beauty supplement printed on heavyweight matte stock. Structured editorial grid, 3-column asymmetric, wide negative space, serif condensed display headers, all labels in spaced uppercase tracking, cohesive warm ivory/sand/ecru background system throughout all panels, ultra-photorealistic 8K, soft diffused studio lighting, flat elegant surfaces, no drop shadows.
+PANELS:
+① UNDERTONE DIAGNOSIS — Tonal spectrum bar from cool ash to warm amber, precision needle marker on subject's reading. Labels: Cool / Neutral-Cool / Neutral / Neutral-Warm / Warm. Fine annotation text.
+② SEASONAL COLOR PALETTE — 10–12 fabric-textured swatches in subject's optimal season. Each labeled with poetic color name and HEX. Grouped: Power Colors / Softest Options / Harmonizing Neutrals.
+③ COLORS TO AVOID — Desaturated row of clashing tones with fine editorial strikethrough. Clean, non-harsh presentation.
+④ MAKEUP CARTOGRAPHY — Eyeshadow gradient dust swatches / blush tones fanned on skin strip / lip spectrum barely-there to bold / highlighter finishes labeled: champagne, rose gold, pearlescent ivory.
+⑤ HAIR COLOR SPECTRUM — Curved gradient strip: base, dimension, highlight, contrast tones. Gold bracket indicators on best options.
+⑥ JEWELRY & METAL GUIDE — Flat-lay editorial render: yellow gold, rose gold, oxidized silver, platinum finishes alongside complementary stone tones. Minimal styling.
+⑦ YOU IN YOUR PALETTE — 3–4 editorial lookbook frames, subject in palette-correct outfits. Mood labels: Quiet Luxury / Off-Duty Editorial / Evening Presence.
+⑧ CAPSULE WARDROBE GRID — Outfit flatlay: tops, bottoms, outerwear, shoes, bag — all palette-correct. Coordinating lines showing interchangeability. Net-a-Porter editorial aesthetic.
+⑨ PRINTS & PATTERNS — 4 fabric print thumbnails: micro geometric, tonal abstract, classic stripe, floral scale. One-line styling note per print.
+⑩ STYLE ARCHETYPE — Single typographic panel. Style identity title set large (e.g. "Modern Romantic / Warm Classicist"). Three defining aesthetic words. Four-line editorial wardrobe philosophy note.
+RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm neutral color grading, soft diffused studio lighting consistent across all panels, one serif display font + one fine sans-serif body font, no gradients, flat matte surfaces only.
+```
+
+**来源：** [@meng_dagg695](https://x.com/meng_dagg695/status/2049822844918575586) | 2026-05-30
+
+---
+
+### 📊 例 229：手机爆炸拆解图
+
+![手机爆炸拆解图](../images/%E6%89%8B%E6%9C%BA%E7%88%86%E7%82%B8%E6%8B%86%E8%A7%A3%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+```
+
+**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759) | 2026-05-30
+
+---
+
+### 📊 例 230：长发造型分析信息图
+
+![长发造型分析信息图](../images/%E9%95%BF%E5%8F%91%E9%80%A0%E5%9E%8B%E5%88%86%E6%9E%90%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+Create a professional "HAIRSTYLE ANALYSIS" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.
+
+Style should be clean, modern, premium grooming guide (similar layout but not identical).
+
+TOP TITLE:
+"HAIRSTYLE ANALYSIS - Long Hair Edition"
+
+LEFT PANEL (Key Features with icons):
+Face Shape: Oval
+Hair Type: Thick
+Texture: Wavy
+Length: Long
+
+BEST OPTIONS (Top row with green indicators):
+Layered Flow Cut (Adds movement & volume)
+Modern Curtain Hair (Stylish & balanced)
+Textured Long Waves (Natural & full)
+Loose Slick Back (Controlled but not flat)
+
+LESS FLATTERING (Bottom row with red indicators):
+Flat Straight Long Hair (No volume)
+Overly Oily Slick Back (Too heavy)
+Uneven Long Layers (Messy shape)
+Excessively Frizzy Look (Uncontrolled)
+
+BEST HAIR LENGTH SECTION:
+Ideal: 6-10 inches with layers
+Avoid: Too flat or too heavy bottom
+
+BEST HAIR COLORS:
+Dark Brown
+Natural Black
+Warm Brown
+Ash Brown
+
+DESIGN STYLE:
+Clean grid infographic
+White/beige background
+Soft shadows
+Premium magazine look
+Realistic face and hair detail
+Consistent spacing and typography
+High resolution, 4K
+```
+
+**来源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034) | 2026-05-30
+
+---
+
+### 📊 例 237：品牌口红推荐报告信息图
+
+![品牌口红推荐报告信息图](../images/%E5%93%81%E7%89%8C%E5%8F%A3%E7%BA%A2%E6%8E%A8%E8%8D%90%E6%8A%A5%E5%91%8A%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+一、系统角色
+你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。
+你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。
+
+二、输入参数
+用户图像：{用户自拍}
+品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF}
+风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先}
+推荐数量：3–5
+
+三、品牌视觉层（新增核心模块）
+根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如：
+Dior：
+优雅、高级、法式、灰白 + 银色、柔光
+YSL：
+黑金、性感、强对比、时尚编辑感
+Armani：
+低饱和、雾面、克制、灰调高级感
+Chanel：
+极简黑白、高级、理性、结构清晰
+Tom Ford：
+深色、高对比、奢华、电影感
+
+视觉应用到海报：
+1. 主色调（背景微变化，不是大面积铺色）
+2. 强调色（用于色号标题/细线/小元素）
+3. 光影风格（柔光 / 强对比 / 冷调 / 暖调）
+4. 字体气质（优雅 / 现代 / 冷感 / 力量感）
+
+四、分析层
+对用户进行分析：
+- 肤色：冷 / 暖 / 中性（+ 明度）
+- 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟
+- 唇部特征：薄 / 厚 / 唇色基础
+- 妆容状态：素颜 / 日常 / 精致
+输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」
+
+五、推荐层（增强差异）
+从 {品牌} 推荐 3–5 个色号：
+每个包含：
+- 色号名称（#999）
+- 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰）
+- 上脸效果（显白 / 提气色 / 氛围感 / 气场增强）
+- 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会）
+
+要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等）
+
+六、信息结构图
+生成竖版信息结构图
+整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合
+极简但不单调，高级但有视觉层次
+
+【整体布局】
+左上：用户输入区
+右上：分析结论
+中部：试色矩阵（核心）
+底部：总结
+
+## 1️⃣ 左上（用户区）
+用户自拍（真实质感）
++ 小标题：「肤色分析」
++ 一句话结论：「适合低饱和玫瑰调，避免高荧光色」
+
+极细品牌色线条（如 YSL 金线 / Dior 灰线）
+
+## 2️⃣ 中部（核心试色矩阵）
+这是视觉重点区域（占比60%以上）
+展示方式：将 3–5 个色号以“人脸试色对比”的形式排列：
+每一列 = 一个色号
+每个色号包含：
+- 小型人脸图（同一张脸，不同唇色）
+- 色号名称（如 #999）
+- 色系标签（如 Classic Red）
+- 一句话效果说明
+要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。
+排列方式：横向排布 或 网格排布（整齐但不死板）
+
+品牌增强点：
+- Dior：轻柔渐变背景 + 柔光阴影
+- YSL：更强对比 + 黑色细分割线
+- Armani：整体灰调统一，低对比
+- Chanel：严格对齐，极简黑白
+- TF：局部暗背景 + 高光强调
+
+## 3️⃣ 每个色号模块
+包含：
+色号名（突出）
+色系标签
+一句推荐语
+场景标签（逛街/通勤/聚餐/约会/宴会等）
+
+品牌化处理：
+- 用“品牌强调色”做：
+  - 色号标题
+  - 细分隔线
+  - 小icon
+（不是色块，而是“精致点缀”）
+
+## 4️⃣ 底部总结
+一段“有判断力的建议”，
+例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」
+或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」
+但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。
+品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo）
+
+七、UI设计
+- 不使用圆角卡片 UI
+- 不使用厚边框
+1. 引入“层级对比”：
+   - 主体亮
+   - 次要信息弱
+2. 使用“微对比”：
+   - 细线
+   - 灰度差
+   - 字重变化
+3. 加入“节奏感”：
+   - 疏密变化
+   - 模块呼吸
+4. 品牌点缀：
+   - 只用 5% 强调
+   - 不破坏极简结构
+
+八、图像质量
+真实皮肤质感
+唇色精准
+统一光影
+商业级美妆摄影
+8K
+
+———
+品牌：YSL
+```
+
+**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219) | 2026-05-30
+
+---
+

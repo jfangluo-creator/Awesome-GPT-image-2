@@ -212,3 +212,49 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 
 ---
 
+### 🏛️ 例 209：90 年代公寓场景参考板
+
+![90 年代公寓场景参考板](../images/90%20%E5%B9%B4%E4%BB%A3%E5%85%AC%E5%AF%93%E5%9C%BA%E6%99%AF%E5%8F%82%E8%80%83%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+{
+  "type": "scene reference board — 90s apartment living room, cinematic night",
+  "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality",
+  "layout": {
+    "main_panel_center_left": {
+      "label": "CAMERA A — FRONT VIEW",
+      "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain."
+    },
+    "main_panel_center_right": {
+      "label": "CAMERA B — REVERSE VIEW",
+      "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow."
+    },
+    "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery",
+    "top_right_inset": "SOURCE REF thumbnail — original photo",
+    "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM"
+  },
+  "background": "deep charcoal #1a1a1a, thin white separators",
+  "dimensions": "wide landscape 3:1, high resolution"
+}
+```
+
+**来源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) | 2026-05-30
+
+---
+
+### 🏛️ 例 221：明洞旅游区域地图
+
+![明洞旅游区域地图](../images/%E6%98%8E%E6%B4%9E%E6%97%85%E6%B8%B8%E5%8C%BA%E5%9F%9F%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[エリア]の観光エリアマップを画像で作成して
+```
+
+**来源：** [@so_ainsight](https://x.com/so_ainsight/status/2050354639036654048) | 2026-05-30
+
+---
+

@@ -370,3 +370,441 @@ Create a vertical high-octane snack advertisement poster for {argument name="bra
 
 ---
 
+### 🏷️ 例 204：品牌包络产品广告
+
+![品牌包络产品广告](../images/%E5%93%81%E7%89%8C%E5%8C%85%E7%BB%9C%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+The Brand Envelope | GPT Image-2 Prompt #89
+
+This takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.
+
+PHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.
+PHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.
+PHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.
+PHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.
+
+Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
+```
+
+**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) | 2026-05-30
+
+---
+
+### 🏷️ 例 211：品牌人格漫画信息图
+
+![品牌人格漫画信息图](../images/%E5%93%81%E7%89%8C%E4%BA%BA%E6%A0%BC%E6%BC%AB%E7%94%BB%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+Using the uploaded logo, create a highly detailed, comic-style infographic poster:
+
+“What This Brand Feels Like”
+
+GOAL:
+Turn the brand into a living personality and visually explain how it behaves, speaks, and interacts with the world.
+This must feel like a mix of: brand strategy + character design + comic storytelling.
+
+---
+
+CORE RULE:
+Everything must come from the logo:
+- colors
+- style
+- tone
+- personality
+
+No generic personality traits.
+
+---
+
+MAIN STRUCTURE:
+Vertical 4:5 poster
+Dense layout with multiple panels
+Comic + infographic hybrid
+
+---
+
+TOP SECTION:
+- Brand name
+- Short personality statement (max 6 words)
+Example: “Quiet confidence with sharp edges”
+
+---
+
+MAIN CHARACTER (VERY IMPORTANT):
+Create a central character representing the brand:
+- humanized version of the brand
+- outfit reflects brand style
+- posture + expression reflect personality
+
+---
+
+AROUND THE CHARACTER:
+Create 6–8 comic panels showing how the brand behaves in different situations.
+
+---
+
+SCENARIO IDEAS:
+- Talking to customers
+- Handling competition
+- Selling a product
+- Social media presence
+- Reacting to criticism
+- Daily “brand life” moment
+
+---
+
+FOR EACH PANEL:
+Include:
+- short caption (max 6 words)
+- speech bubble or internal thought
+- clear visual action
+
+---
+
+TONE EXAMPLES:
+Luxury brand: calm, confident, minimal speech
+Playful brand: loud, chaotic, expressive
+Tech brand: precise, logical, clean
+
+---
+
+PERSONALITY TRAITS SECTION:
+Add small labeled blocks:
+- Voice tone (e.g. calm, bold, playful)
+- Energy level (low / medium / high)
+- Social behavior (introvert / extrovert)
+- Communication style
+
+Use:
+- icons
+- short labels
+
+---
+
+DO / DON’T SECTION:
+Add a split block:
+DO:
+- how the brand should act
+DON’T:
+- what breaks the identity
+
+Keep:
+- very short phrases
+
+---
+
+VISUAL ELEMENTS:
+- speech bubbles
+- icons
+- arrows
+- small reactions
+- exaggerated comic expressions
+
+---
+
+STYLE:
+- comic + editorial hybrid
+- slightly exaggerated but still premium
+- expressive but not childish
+
+---
+
+COLOR:
+- strictly based on logo palette
+- use color to reinforce personality
+
+---
+
+DEPTH:
+- 20–40 visual elements
+- multiple small panels
+- layered composition
+
+---
+
+IMPORTANT RULES:
+- must feel alive
+- must feel specific
+- no generic marketing words
+- no empty areas
+- keep text short but impactful
+
+---
+
+FINAL FEEL:
+Like:
+- a brand strategy turned into a character
+- a visual storytelling board
+- something people save and study
+
+NOT:
+- flat
+- generic
+- minimal
+```
+
+**来源：** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) | 2026-05-30
+
+---
+
+### 🏷️ 例 217：高端肉类海鲜品牌英雄图
+
+![高端肉类海鲜品牌英雄图](../images/%E9%AB%98%E7%AB%AF%E8%82%89%E7%B1%BB%E6%B5%B7%E9%B2%9C%E5%93%81%E7%89%8C%E8%8B%B1%E9%9B%84%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+一、品牌基础设定
+品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]
+品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]
+主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]
+字体风格：
+标题：[请填写，例如：金色衬线体，大写，奢华感]
+正文：[请填写，例如：细衬线体/无衬线体]
+二、核心视觉元素
+台面材质：[请填写，例如：大理石/黑色石板]
+背景调性：[请填写，例如：深色渐变/暗调餐厅环境]
+光线风格：[请填写，例如：聚光/侧光/顶部照明]
+三、主产品定义（必填）
+产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]
+产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]
+呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]
+产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]
+```
+
+**来源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965) | 2026-05-30
+
+---
+
+### 🏷️ 例 225：科学家收藏级玩具发布板
+
+![科学家收藏级玩具发布板](../images/%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%94%B6%E8%97%8F%E7%BA%A7%E7%8E%A9%E5%85%B7%E5%8F%91%E5%B8%83%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
+```
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897) | 2026-05-30
+
+---
+
+### 🏷️ 例 228：抹茶品牌触点系统视觉板
+
+![抹茶品牌触点系统视觉板](../images/%E6%8A%B9%E8%8C%B6%E5%93%81%E7%89%8C%E8%A7%A6%E7%82%B9%E7%B3%BB%E7%BB%9F%E8%A7%86%E8%A7%89%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:
+
+“MATCHA MODE”
+
+Build a full brand identity system, not a single image.
+
+HERO SCENE:
+
+A hyper-realistic matcha drink in a ceramic cup placed on a clean natural surface.
+
+– vibrant green matcha foam with micro-bubbles
+– bamboo whisk (chasen) nearby
+– soft natural light
+– slight matcha powder dust on the surface
+– minimal Japanese aesthetic
+ATMOSPHERE:
+– calm, warm, soft daylight
+– clean background (off-white or beige)
+– subtle shadows and reflections
+– feeling of wellness and luxury
+FULL BRAND SYSTEM:
+– takeout cups (paper + glass bottles)
+– packaging boxes (minimalist design)
+– tote bags (premium lifestyle)
+– labels, stickers, seals
+– menu cards with pricing ($6.50, $8.90, etc.)
+– small typography everywhere
+– subtle imperfections (realism)
+
+DESIGN LANGUAGE:
+
+– modern minimalist typography
+– Japanese-inspired layout
+– soft green palette
+– elegant spacing
+
+INCLUDE:
+– matcha latte
+– iced matcha
+– matcha desserts
+– combo sets
+– lifestyle shots
+The composition must feel like a high-end design agency presentation.
+
+Ultra-detailed, realistic, clean, aesthetic, and highly shareable.
+```
+
+**来源：** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685) | 2026-05-30
+
+---
+
+### 🏷️ 例 232：草莓能量饮料商业广告
+
+![草莓能量饮料商业广告](../images/%E8%8D%89%E8%8E%93%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
+
+Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
+```
+
+**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040) | 2026-05-30
+
+---
+
+### 🏷️ 例 236：Logo 与品牌身份系统提示词合集
+
+![Logo 与品牌身份系统提示词合集](../images/Logo%20%E4%B8%8E%E5%93%81%E7%89%8C%E8%BA%AB%E4%BB%BD%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+1. Logo概念生成提示词
+
+你是一位拥有20年经验的顶级Logo设计师，为全球知名品牌设计过即时识别且深具意义的标志。
+
+品牌名称：[你的品牌名]
+行业：[你的行业]
+品牌个性：[描述]
+目标受众：[描述]
+欣赏的视觉身份：[列举3个]
+讨厌的视觉身份：[列举3个]
+偏好风格：[如极简、大胆、几何、有机、复古、未来]
+
+为我的品牌生成5个完全不同的Logo概念。
+
+对每个概念提供：
+
+- 核心视觉理念及象征意义
+- 形状语言及为何适合品牌
+- 字体方向建议
+- 第一眼的情感触发
+- 为何适合目标受众
+- 在名片、App图标和广告牌上的效果
+- 何为永恒而非潮流
+
+然后告诉我，如果这是你的品牌，你会选哪个以及原因。
+
+2. 品牌身份基础提示词
+
+你是为财富500强公司和初创企业建立品牌身份的顶级品牌战略师，这些企业后来融资数百万。
+
+业务名称：[你的业务名]
+业务描述：[一句话]
+目标受众：[详细描述]
+竞争对手：[列举3-5个]
+想触发的感受：[如信任、兴奋、奢华、亲近、力量]
+想关联的词汇：[列举5-10个]
+不想关联的词汇：[列举5-10个]
+
+在设计任何视觉效果之前建立完整的品牌身份基础。
+
+为我提供：
+
+- 品牌原型及为何完美契合
+- 5个具体人类特征描述的品牌个性
+- 带示例的品牌语调指南
+- 核心品牌承诺（一句话）
+- 3个品牌应触发的情感层级
+- 与竞争对手的根本差异
+- 定义品牌的唯一关键词
+
+3. 配色方案提示词
+
+你是色彩心理学专家和品牌设计师，深知色彩如何触发情感、建立信任和驱动购买决策。
+
+品牌名称：[你的品牌名]
+行业：[你的行业]
+目标受众：[年龄、性别、收入、生活方式]
+想触发的首要情感：[如信任、能量、奢华、平静、兴奋]
+前3名竞争对手颜色：[列举]
+喜欢的颜色：[列举]
+讨厌的颜色：[列举]
+
+为我建立完整品牌配色板。
+
+为我提供：
+
+- 主色及其HEX代码和心理学解释
+- 两个辅助色及HEX代码
+- 一个强调色用于CTA和高亮
+- 一个中性色用于背景和文字
+- 每种颜色对目标受众的影响
+- 与竞争对手的差异化
+- 在网站、社交媒体和包装上的应用示例
+- 永远不要搭配的颜色组合及原因
+
+4. 字体方向提示词
+
+你是字体专家和品牌设计师，深知字体如何传达个性、建立可信度和实现品牌即时识别。
+
+品牌名称：[你的品牌名]
+品牌个性：[5个词]
+行业：[你的行业]
+目标受众：[描述]
+字体应触发的感受：[如权威、友好、创新、优雅、能量]
+喜欢的品牌字体：[列举3个]
+
+为我建立完整字体系统。
+
+为我提供：
+
+- 标题用主显示字体名称及为何完美
+- 长文本的辅助字体
+- 引言或重点的强调字体
+- 标题、副标题、正文、说明文字的精确字号层级
+- 字距和行高建议
+- 字体搭配方法
+- 预算有限时的免费替代方案
+- 你所在行业应避免的字体错误
+
+5. 完整品牌身份包提示词
+
+你是顶级品牌代理创意总监，交付覆盖每个触点的完整品牌身份系统。
+
+业务名称：[你的业务名]
+业务描述：[一句话]
+目标受众：[详细描述]
+品牌个性：[5个词]
+行业：[你的行业]
+竞争对手：[列举3个]
+设计工具预算：[免费或付费]
+时间表：[你需要的时间]
+
+在一个回复中交付我的完整品牌身份系统。
+
+包含所有元素：
+
+- 品牌战略基础、原型、个性、承诺和定位
+- Logo概念及3个变体
+- 完整配色板、HEX代码和使用规则
+- 字体系统、名称、字号和层级
+- 视觉方向指南
+- 品牌语调指南和标语选项
+- 社交媒体视觉模板
+- 3条永远不要打破的核心品牌规则
+
+将一切作为结构化品牌手册交付，任何设计师、开发者或AI工具都能在10分钟内完全理解你的品牌。
+```
+
+**来源：** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026) | 2026-05-30
+
+---
+

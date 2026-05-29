@@ -549,3 +549,341 @@ Environment: seamless studio backdrop with glossy floor reflections, high-end co
 
 ---
 
+### 🎴 例 191：Lost in 国家旅行海报拼贴
+
+![Lost in 国家旅行海报拼贴](../images/Lost%20in%20%E5%9B%BD%E5%AE%B6%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
+```
+
+**来源：** [@SadiaMalik182](https://x.com/SadiaMalik182) | 2026-05-30
+
+---
+
+### 🎴 例 195：龙类物种复古百科海报
+
+![龙类物种复古百科海报](../images/%E9%BE%99%E7%B1%BB%E7%89%A9%E7%A7%8D%E5%A4%8D%E5%8F%A4%E7%99%BE%E7%A7%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster.
+
+Style: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal.
+
+Main subject:
+a massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open.
+
+Background:
+stormy mountains, ancient ruins, fog layers, burnt parchment texture.
+
+Color palette:
+dark emerald, ash gray, faded gold, ancient brown, deep crimson.
+
+Include infographic sections:
+Species Type,
+Fire Capacity,
+Wing Structure,
+Temperament Scale,
+Habitat Region,
+Battle Strength,
+Ancient Legends,
+Scale Patterns,
+Skull Diagram,
+Hunter Notes.
+
+Add:
+engraved fantasy sketches,
+ancient symbols,
+old map textures,
+ink grain,
+collectible poster layout.
+
+NO modern UI.
+NO futuristic elements.
+NO flat minimalism.
+
+Ultra detailed.
+8K printable masterpiece.
+```
+
+**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280) | 2026-05-30
+
+---
+
+### 🎴 例 201：Transparent Labs Hydrate 健身补剂 Campaign
+
+![Transparent Labs Hydrate 健身补剂 Campaign](../images/Transparent%20Labs%20Hydrate%20%E5%81%A5%E8%BA%AB%E8%A1%A5%E5%89%82%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.
+
+Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast.
+
+Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text.
+
+Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression.
+
+Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress.
+
+Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container.
+
+Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.”
+
+Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
+```
+
+**来源：** [@amynys](https://x.com/amynys/status/2051409591137972606) | 2026-05-30
+
+---
+
+### 🎴 例 202：1980s Claude 复古杂志广告
+
+![1980s Claude 复古杂志广告](../images/1980s%20Claude%20%E5%A4%8D%E5%8F%A4%E6%9D%82%E5%BF%97%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.”
+
+Center composition: a beige 1980s CRT home computer with chunky keyboard on a wooden desk, green monochrome terminal screen glowing, readable text on screen: “Claude”, subtitle: “The helpful AI assistant.” On the screen, a retro terminal-style conversation reads:
+“YOU: How can you help me today?”
+“CLAUDE: I can answer questions, help you write, summarize information, brainstorm ideas, and explain topics clearly.”
+“YOU:”
+
+A cheerful 1980s family of three gathers around the computer: father in a blue sweater, mother with curly hair in a pink sweater, young boy in a striped sweater, all looking amazed, delighted, and fascinated, warm nostalgic expressions, classic family technology advertising mood.
+
+Background: dark starry night sky, purple and blue neon perspective grid, retro sci-fi glow, subtle palm silhouettes, sparkling highlights, lens flares, dramatic yet friendly atmosphere.
+
+Poster layout: left side contains stacked retro feature boxes with glowing neon icons, including a question mark, pencil, light bulb, and clock. Each feature box includes short retro advertising copy:
+“ANSWERS QUESTIONS” — Get helpful, clear answers in everyday language.
+“HELPS YOU WRITE” — Draft ideas, notes, letters, and more with ease.
+“GENERATES IDEAS” — Brainstorm, create, and think bigger.
+“AVAILABLE WHENEVER YOU NEED IT” — Day or night, Claude is ready to help.
+
+Add a small retro text block describing Claude:
+“For the first time, an AI assistant you can have a conversation with. Ask questions. Get answers. Share ideas. Write drafts, notes, and reports. Explore topics, organize thoughts, and solve problems. Claude understands natural language and responds in a clear, helpful way.”
+
+Add a short highlighted copy block:
+“It’s helpful. It’s thoughtful.
+It’s always by your side.”
+
+Bottom area includes a large “Claude” brand wordmark with colorful diagonal retro stripes, and the slogan:
+“A smarter way to think, write, and explore.”
+
+Bottom right has a white promotional price sticker area with bold pink text:
+“Free!!”
+Smaller text underneath:
+“Available now for curious minds everywhere.”
+
+Top right has a bright yellow starburst badge saying:
+“A REVOLUTION IN AI ASSISTANCE!”
+
+Include a retro product box on the desk labeled “Claude” with small text:
+“SMARTER SOFTWARE FOR MODERN THINKERS.”
+
+Include a mug or accessory on the desk branded “Claude”.
+
+Visual style: 1985 consumer computer advertisement, airbrushed illustration, glossy print texture, halftone details, nostalgic retro futurism, high saturation, cinematic product lighting, authentic 1980s typography and layout, readable ad composition, detailed vintage commercial poster, highly polished, warm family-friendly mood, retro tech fantasy, vertical poster.
+
+Negative prompts:
+modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, cyberpunk overload, messy layout, unreadable typography, distorted text, misspelled words, deformed hands, extra fingers, bad anatomy, duplicate people, plastic skin, overexposed lighting, low resolution, blurry image, warped computer, broken keyboard, cluttered composition, inconsistent vintage style, random symbols, ugly poster design, poor hierarchy, incorrect perspective
+```
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) | 2026-05-30
+
+---
+
+### 🎴 例 223：VELORA 奢华香水广告海报
+
+![VELORA 奢华香水广告海报](../images/VELORA%20%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+{
+  "image_type": "luxury perfume advertisement poster",
+  "resolution": "4K ultra HD (4096x5120)",
+  "aspect_ratio": "portrait (4:5)",
+  "style": {
+    "aesthetic": "high-end fragrance campaign (Tom Ford, Dior inspired)",
+    "tone": "dark luxury, sensual, elegant, powerful",
+    "color_grading": "deep black shadows with rich golden highlights and warm amber glow",
+    "lighting": "cinematic spotlight + golden rim light + soft fill light, dramatic shadows",
+    "contrast": "high cinematic contrast",
+    "depth_of_field": "shallow, sharp focus on face and perfume bottle"
+  },
+  "camera": {
+    "type": "85mm portrait lens",
+    "aperture": "f/1.6",
+    "angle": "slightly low angle, premium perspective",
+    "framing": "model upper body + product foreground"
+  },
+  "subject": {
+    "gender": "female",
+    "age_appearance": "young adult",
+    "expression": "confident, sensual, calm",
+    "styling": {
+      "hair": "voluminous, slightly messy, glossy strands with golden highlights",
+      "makeup": "soft glam, glowing skin, bold lips",
+      "outfit": "brown tailored blazer with patterned silk scarf",
+      "accessory": "thin transparent eyeglasses"
+    }
+  },
+  "product": {
+    "type": "luxury perfume bottle",
+    "brand": "VELORA PARFUMS",
+    "label": "EAU DE PARFUM",
+    "design": "clear crystal glass bottle, golden liquid inside, metallic gold cap",
+    "placement": "bottom center foreground on glossy black marble surface",
+    "effects": "strong reflections, golden glow, subtle condensation, cinematic shine"
+  },
+  "environment": {
+    "background": "dark blurred luxury interior with warm golden light streaks",
+    "surface": "black marble with reflections",
+    "extra_elements": "small flowers near bottle, golden particles, soft smoke"
+  },
+  "typography": {
+    "logo": "V monogram + VELORA PARFUMS",
+    "headline": "Not just a scent, It’s your Signature.",
+    "tagline": "A fragrance that speaks before you do.",
+    "secondary": "Own your essence. Leave a legacy.",
+    "features": [
+      "Long Lasting",
+      "Premium Ingredients",
+      "Crafted with Passion"
+    ],
+    "notes": [
+      "Top: Pear, Bergamot, Pink Pepper",
+      "Heart: Jasmine, Rose, Orris",
+      "Base: Vanilla, Patchouli, Musk"
+    ],
+    "font_style": "luxury serif + elegant handwritten script",
+    "color": "gold metallic",
+    "placement": "top left + mid left + bottom balanced layout"
+  },
+  "post_processing": {
+    "sharpness": "ultra sharp on face and bottle",
+    "glow": "golden cinematic glow",
+    "retouch": "high-end editorial finish",
+    "vignette": "subtle dark vignette"
+  },
+  "mood": "premium luxury perfume campaign, cinematic, bold brand identity",
+  "quality": "hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad"
+}
+```
+
+**来源：** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564) | 2026-05-30
+
+---
+
+### 🎴 例 231：水墨双重曝光人物海报
+
+![水墨双重曝光人物海报](../images/%E6%B0%B4%E5%A2%A8%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E4%BA%BA%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.
+
+STRUCTURE:
+Top-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable.
+
+The middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core.
+
+COMPOSITION STYLE:
+Inside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements:
+- key scenes related to [SUBJECT]
+- symbolic imagery and environment
+- small narrative figures and interactions
+- supporting visual motifs
+
+Blend everything seamlessly using clouds, mist, ink diffusion, and negative space.
+
+VISUAL FLOW:
+Create a continuous flowing visual path from top to bottom, connecting:
+- upper silhouette
+- inner collage elements
+- full-body subject
+
+Ensure smooth eye guidance and compositional cohesion.
+
+SIDE ELEMENTS:
+Add balanced supporting elements on left and right sides to create tension, depth, and spatial variation.
+
+STYLE & ATMOSPHERE:
+- Large areas of negative space
+- Ink-wash diffusion edges, soft fading, subtle fragmentation
+- Eastern aesthetic: balance of emptiness and detail
+- Calm, premium, restrained, cinematic tone
+
+QUALITY:
+Ultra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design.
+
+OUTPUT:
+9:16 aspect ratio, poster-ready composition.
+```
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243) | 2026-05-30
+
+---
+
+### 🎴 例 235：概念字体海报 Prompt
+
+![概念字体海报 Prompt](../images/%E6%A6%82%E5%BF%B5%E5%AD%97%E4%BD%93%E6%B5%B7%E6%8A%A5%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+Create ONE finished premium conceptual typography poster for the exact title:
+
+“[INPUT_TEXT]”
+
+Single poster only. No moodboard, grid, presentation board, mockup, captions, prompt text, process sheet, or sample labels.
+
+The title “[INPUT_TEXT]” must be the dominant visual structure of the poster: huge, readable, powerful, and spelled exactly. Do not translate, shorten, replace, or misspell it. Do not add other large readable text. Optional micro catalog text is allowed only if it stays subtle and secondary.
+
+Silently interpret the title’s meaning, mood, cultural aura, symbolic associations, psychological tension, and visual rhythm. Turn that interpretation into one strong visual metaphor.
+
+Typography is the hero. Design custom-looking letterforms whose weight, width, contrast, spacing, rhythm, distortion, negative space, edge quality, and ink texture express the temperament of the title. The type should feel intentionally designed, not like a default font.
+
+If “[INPUT_TEXT]” refers to a widely known person, make a large editorial portrait or full / half-body figure a major visual presence, occupying roughly 40–70% of the composition. The figure should feel recognizable through aura, posture, styling, era, expression, lighting, and symbolic atmosphere, but should not copy a specific existing photograph, official poster, campaign image, logo, slogan, or copyrighted composition. The portrait must interact with the typography: overlapping the letters, emerging from them, being framed by them, casting shadows on them, breaking through them, or being partially hidden behind them.
+
+For all other titles, use a human figure, landscape, object, or atmospheric setting only when it strengthens the meaning. It must interact with the typography and deepen the concept, not decorate it.
+
+Use a rich but restrained 4–6 color system matched to the theme: dominant background color, primary typography color, figure / landscape tone, emotional accent color, muted support color, and subtle paper / ink texture tone. Avoid flat black-white-red defaults unless conceptually necessary.
+
+Composition style: high-end editorial poster, museum-quality graphic design, dramatic scale, strong hierarchy, few elements, intelligent whitespace, bold flat color areas, sharp cropping, silkscreen / lithograph / risograph grain, paper fibers, subtle ink imperfections, refined visual tension.
+
+The final image should feel like a complete visual sentence: the title, the figure or setting, the color, and the typography explain each other.
+
+Avoid generic word art, glossy 3D lettering, random icons, stock-photo realism, cluttered collage, excessive grunge, tourist clichés, official logos, copied slogans, copied campaign aesthetics, unrelated text, and misspelled typography.
+
+-----
+
+INPUT_TEXT：Phoenix Rebirth
+```
+
+**来源：** [@dotey](https://x.com/dotey/status/2048793351290327381) | 2026-05-30
+
+---
+
+### 🎴 例 238：西楚霸王国风暗黑海报
+
+![西楚霸王国风暗黑海报](../images/%E8%A5%BF%E6%A5%9A%E9%9C%B8%E7%8E%8B%E5%9B%BD%E9%A3%8E%E6%9A%97%E9%BB%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
+```
+
+**来源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) | 2026-05-30
+
+---
+

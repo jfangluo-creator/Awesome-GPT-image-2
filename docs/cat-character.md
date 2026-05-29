@@ -727,3 +727,130 @@ Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifes
 
 ---
 
+### 🧍 例 194：8 套日常穿搭编辑拼贴
+
+![8 套日常穿搭编辑拼贴](../images/8%20%E5%A5%97%E6%97%A5%E5%B8%B8%E7%A9%BF%E6%90%AD%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.
+```
+
+**来源：** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463) | 2026-05-30
+
+---
+
+### 🧍 例 206：十国传统服饰时尚拼贴
+
+![十国传统服饰时尚拼贴](../images/%E5%8D%81%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%9C%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+A 10-Nation Cinematic Fashion Transformation of One Timeless BeautyChatGPT Prompt:
+
+A highly aesthetic, ultra-realistic cinematic collage featuring the exact same beautiful young woman from the reference image, shown in 10 different poses within one single image layout (5x2 grid style). Each frame represents a different country’s traditional cultural dress, styled in a modern, elegant, fashion-forward way. The woman is the SAME person in every frame: she has shoulder-length wavy dark brown hair, captivating dark brown eyes, full plump lips with a subtle confident smile, flawless warm olive-toned skin, high cheekbones, and a voluptuous yet athletic figure with a prominent bust, slim waist, and toned physique — exactly matching the woman in the provided reference photo.
+
+Design details:
+
+Each of the 10 frames shows this same woman in different traditional outfits inspired by the following countries: Suriname, Guyana, Puerto Rico, Spain, Italy, India, Pakistan, Venezuela, Brazil, and the USA.
+
+Every outfit is a modern, elegant, fashion-forward interpretation of that country’s cultural heritage.
+
+Each mini-frame includes a small national flag icon in the top-right corner.
+
+The woman’s expressions vary: smiling, confident, graceful, playful, elegant, royal, modern fusion fashion poses.
+
+High-fashion editorial photography style.
+
+Soft cinematic lighting, ultra-detailed textures, realistic skin tones.
+
+Backgrounds subtly match each country’s cultural aesthetic (landmarks, streets, patterns, colors, architecture).
+
+Luxury fashion magazine layout style.
+
+Clean grid composition, visually balanced, highly shareable social media design.
+
+Style: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting, soft depth of field, trending Instagram aesthetic, fashion photography masterpiece.
+```
+
+**来源：** [@amynys](https://x.com/amynys/status/2051287229532639677) | 2026-05-30
+
+---
+
+### 🧍 例 212：高端 3D 收藏玩具头像
+
+![高端 3D 收藏玩具头像](../images/%E9%AB%98%E7%AB%AF%203D%20%E6%94%B6%E8%97%8F%E7%8E%A9%E5%85%B7%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression.
+
+Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.
+```
+
+**来源：** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) | 2026-05-30
+
+---
+
+### 🧍 例 218：可爱角色设定表
+
+![可爱角色设定表](../images/%E5%8F%AF%E7%88%B1%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+Create a cute female character design sheet inspired by the uploaded image.
+
+Style: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).
+
+Make it a clean character concept poster layout including:
+
+One large main female portrait (front view, detailed)
+
+Facial expression set (happy, shy, annoyed, sleepy, surprised, excited)
+
+2–3 full-body poses (standing, walking/running, playful pose)
+
+Small accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)
+
+A simple color palette section (skin, hair, outfit, accent colors)
+
+A profile info box with: name, age range, personality traits, likes/dislikes, short description
+
+Overall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.
+High quality, clean background, soft lighting.
+```
+
+**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134) | 2026-05-30
+
+---
+
+### 🧍 例 219：Scrapbook 真人图与迷你分身
+
+![Scrapbook 真人图与迷你分身](../images/Scrapbook%20%E7%9C%9F%E4%BA%BA%E5%9B%BE%E4%B8%8E%E8%BF%B7%E4%BD%A0%E5%88%86%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
+
+Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing).
+
+Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene.
+
+Use a soft pastel color palette (white base with pink, peach, blue accents).
+
+Keep the frame visually rich and filled but balanced and clean.
+
+Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful.
+
+The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.
+```
+
+**来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2050272100884340783) | 2026-05-30
+
+---
+

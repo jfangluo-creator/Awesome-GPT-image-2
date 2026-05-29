@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI 与数字界面](cat-ui.md)（8）
+## 🖥️ [UI 与数字界面](cat-ui.md)（12）
 
 App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播画面等。
 
@@ -19,12 +19,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 137：冬季篝火壁纸设备样机](cat-ui.md#️-例-137冬季篝火壁纸设备样机) — 冬季壁纸设备样机
 - [例 157：四卡片 AI 灵感画廊](cat-ui.md#️-例-157四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
 - [例 188：豪华社媒破屏商业广告](cat-ui.md#️-例-188豪华社媒破屏商业广告)
+- [例 189：小红书数字破屏 3D 女孩](cat-ui.md#️-例-189小红书数字破屏-3d-女孩)
+- [例 190：3D 小红书个人资料卡](cat-ui.md#️-例-1903d-小红书个人资料卡)
+- [例 192：多风格签名选择海报](cat-ui.md#️-例-192多风格签名选择海报)
+- [例 203：Netflix 首页主视觉 UI](cat-ui.md#️-例-203netflix-首页主视觉-ui)
 
 ---
 
 <a id="chart"></a>
 
-## 📊 [图表与信息图](cat-chart.md)（11）
+## 📊 [图表与信息图](cat-chart.md)（17）
 
 信息图、流程图、知识图谱、技术图解、数据可视化、爆炸分解图、标注说明图等。
 
@@ -39,12 +43,18 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 121：导览式科普绘本](cat-chart.md#-例-121导览式科普绘本) — 导览式科普绘本
 - [例 132：咕咕嘎嘎造型包装结构板](cat-chart.md#-例-132咕咕嘎嘎造型包装结构板) — 产品包装结构设计板
 - [例 185：Neuro-AI 混合系统信息图](cat-chart.md#-例-185neuro-ai-混合系统信息图)
+- [例 210：冠状病毒尺度缩放科学信息图](cat-chart.md#-例-210冠状病毒尺度缩放科学信息图)
+- [例 215：古希腊三哲时间轴城市图](cat-chart.md#-例-215古希腊三哲时间轴城市图)
+- [例 226：奢华个人色彩档案信息图](cat-chart.md#-例-226奢华个人色彩档案信息图)
+- [例 229：手机爆炸拆解图](cat-chart.md#-例-229手机爆炸拆解图)
+- [例 230：长发造型分析信息图](cat-chart.md#-例-230长发造型分析信息图)
+- [例 237：品牌口红推荐报告信息图](cat-chart.md#-例-237品牌口红推荐报告信息图)
 
 ---
 
 <a id="poster"></a>
 
-## 🎴 [海报与卡片](cat-poster.md)（24）
+## 🎴 [海报与卡片](cat-poster.md)（32）
 
 电影海报、活动海报、塔罗牌、集换式卡牌、报纸头条、语录卡、杂志封面等。
 
@@ -72,12 +82,20 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 174：中世纪城市旅行海报](cat-poster.md#-例-174中世纪城市旅行海报)
 - [例 175：复古印尼猫薄荷广告](cat-poster.md#-例-175复古印尼猫薄荷广告)
 - [例 186：巨型游戏手柄街头 Campaign](cat-poster.md#-例-186巨型游戏手柄街头-campaign)
+- [例 191：Lost in 国家旅行海报拼贴](cat-poster.md#-例-191lost-in-国家旅行海报拼贴)
+- [例 195：龙类物种复古百科海报](cat-poster.md#-例-195龙类物种复古百科海报)
+- [例 201：Transparent Labs Hydrate 健身补剂 Campaign](cat-poster.md#-例-201transparent-labs-hydrate-健身补剂-campaign)
+- [例 202：1980s Claude 复古杂志广告](cat-poster.md#-例-2021980s-claude-复古杂志广告)
+- [例 223：VELORA 奢华香水广告海报](cat-poster.md#-例-223velora-奢华香水广告海报)
+- [例 231：水墨双重曝光人物海报](cat-poster.md#-例-231水墨双重曝光人物海报)
+- [例 235：概念字体海报 Prompt](cat-poster.md#-例-235概念字体海报-prompt)
+- [例 238：西楚霸王国风暗黑海报](cat-poster.md#-例-238西楚霸王国风暗黑海报)
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [摄影与写实](cat-photo.md)（33）
+## 📷 [摄影与写实](cat-photo.md)（41）
 
 人像写真、街拍纪实、商品棚拍、美食摄影、证件照、复古胶片风等。
 
@@ -125,12 +143,20 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 178：室内晨间写实摄影](cat-photo.md#-例-178室内晨间写实摄影)
 - [例 180：彩色按钮时尚 Campaign](cat-photo.md#-例-180彩色按钮时尚-campaign)
 - [例 184：Cozy Academia 学习手记](cat-photo.md#-例-184cozy-academia-学习手记)
+- [例 193：唱片公司楼梯间写真人像](cat-photo.md#-例-193唱片公司楼梯间写真人像)
+- [例 198：Y2K 金色时刻人像](cat-photo.md#-例-198y2k-金色时刻人像)
+- [例 207：AI 日常生活 iPhone 抓拍](cat-photo.md#-例-207ai-日常生活-iphone-抓拍)
+- [例 208：春日花田三联竖版写真拼贴](cat-photo.md#-例-208春日花田三联竖版写真拼贴)
+- [例 213：樱花咖啡户外人像](cat-photo.md#-例-213樱花咖啡户外人像)
+- [例 214：泼洒抹茶街头手机照片](cat-photo.md#-例-214泼洒抹茶街头手机照片)
+- [例 224：咖啡馆写实照片与 2D 涂鸦叠加](cat-photo.md#-例-224咖啡馆写实照片与-2d-涂鸦叠加)
+- [例 233：鱼眼镜面复古咖啡馆人像](cat-photo.md#-例-233鱼眼镜面复古咖啡馆人像)
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [插画与艺术](cat-illustration.md)（24）
+## 🎨 [插画与艺术](cat-illustration.md)（26）
 
 日系插画、概念艺术、水墨画、油画风格、素描、材质球渲染、全息线框等。
 
@@ -159,12 +185,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 182：夸张动漫风主体重绘](cat-illustration.md#-例-182夸张动漫风主体重绘)
 - [例 183：拙劣 MS Paint 风重绘](cat-illustration.md#-例-183拙劣-ms-paint-风重绘)
 - [例 187：可爱纸艺风照片重绘](cat-illustration.md#-例-187可爱纸艺风照片重绘)
+- [例 216：彩色潦草小狗线条风格重绘](cat-illustration.md#-例-216彩色潦草小狗线条风格重绘)
+- [例 234：过度思考超现实街头 Campaign](cat-illustration.md#-例-234过度思考超现实街头-campaign)
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [角色设计](cat-character.md)（16）
+## 🧍 [角色设计](cat-character.md)（21）
 
 三视图、多姿态展示、表情包、人设分解图、角色进化/等级图、角色关系图等。
 
@@ -185,12 +213,17 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 130：Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — 专业动漫角色线稿设定
 - [例 161：皮克斯风格角色设计图](cat-character.md#-例-161皮克斯风格角色设计图) — Pixar Character Design Sheet
 - [例 176：Earth Signs 角色 Scrapbook](cat-character.md#-例-176earth-signs-角色-scrapbook)
+- [例 194：8 套日常穿搭编辑拼贴](cat-character.md#-例-1948-套日常穿搭编辑拼贴)
+- [例 206：十国传统服饰时尚拼贴](cat-character.md#-例-206十国传统服饰时尚拼贴)
+- [例 212：高端 3D 收藏玩具头像](cat-character.md#-例-212高端-3d-收藏玩具头像)
+- [例 218：可爱角色设定表](cat-character.md#-例-218可爱角色设定表)
+- [例 219：Scrapbook 真人图与迷你分身](cat-character.md#-例-219scrapbook-真人图与迷你分身)
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D 物品与微缩世界](cat-3d.md)（12）
+## 🧸 [3D 物品与微缩世界](cat-3d.md)（13）
 
 手办、高达模型、乐高人偶、微缩场景、扭蛋机、玻璃瓶纪念品、毛绒玩具等。
 
@@ -207,12 +240,13 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 139：Q 版毛绒足球吉祥物](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Q版毛绒足球吉祥物
 - [例 141：Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — 玩具法拉利分镜板
 - [例 153：新闻记者玩具店场景](cat-3d.md#-例-153新闻记者玩具店场景) — News Reporter Toy Store Scene
+- [例 220：Crumple Chair 概念沙发研发板](cat-3d.md#-例-220crumple-chair-概念沙发研发板)
 
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [建筑与空间](cat-architecture.md)（10）
+## 🏛️ [建筑与空间](cat-architecture.md)（12）
 
 室内设计、建筑外观渲染、户型图转 3D、等距建筑、展览空间、主题乐园等。
 
@@ -226,12 +260,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 167：伦敦夜景立体模型地图](cat-architecture.md#️-例-167伦敦夜景立体模型地图) — 伦敦夜景 3D 微缩建筑立体模型
 - [例 168：复古风大阪梅田旅行海报](cat-architecture.md#️-例-168复古风大阪梅田旅行海报) — 复古旅行海报风格城市信息图
 - [例 181：极简建筑地标海报](cat-architecture.md#️-例-181极简建筑地标海报)
+- [例 209：90 年代公寓场景参考板](cat-architecture.md#️-例-20990-年代公寓场景参考板)
+- [例 221：明洞旅游区域地图](cat-architecture.md#️-例-221明洞旅游区域地图)
 
 ---
 
 <a id="comic"></a>
 
-## 🎬 [漫画与分镜](cat-comic.md)（18）
+## 🎬 [漫画与分镜](cat-comic.md)（21）
 
 多格漫画、漫画风格转换、电影分镜、故事板、叙事场景、角色互动等。
 
@@ -252,12 +288,15 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 170：冬季生存惊悚 Storyboard](cat-comic.md#-例-170冬季生存惊悚-storyboard)
 - [例 173：可颂烘焙流程 Storyboard](cat-comic.md#-例-173可颂烘焙流程-storyboard)
 - [例 179：当代舞现场 Storyboard](cat-comic.md#-例-179当代舞现场-storyboard)
+- [例 196：骑士法师大战石像魔像](cat-comic.md#-例-196骑士法师大战石像魔像)
+- [例 197：中世纪村庄双精灵冒险者](cat-comic.md#-例-197中世纪村庄双精灵冒险者)
+- [例 199：头发里的微型城市](cat-comic.md#-例-199头发里的微型城市)
 
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [品牌与包装](cat-brand.md)（5）
+## 🏷️ [品牌与包装](cat-brand.md)（12）
 
 Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝系列设计等。
 
@@ -266,6 +305,13 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 96：品牌奶茶 KV 概念海报](cat-brand.md#️-例-96品牌奶茶-kv-概念海报) — 品牌KV概念海报
 - [例 107：复古日系迷你橡皮商品包装](cat-brand.md#️-例-107复古日系迷你橡皮商品包装) — 复古橡皮商品包装
 - [例 126：Fiery Takis Action Poster](cat-brand.md#️-例-126fiery-takis-action-poster) — Takis火爆零食海报
+- [例 204：品牌包络产品广告](cat-brand.md#️-例-204品牌包络产品广告)
+- [例 211：品牌人格漫画信息图](cat-brand.md#️-例-211品牌人格漫画信息图)
+- [例 217：高端肉类海鲜品牌英雄图](cat-brand.md#-例-217高端肉类海鲜品牌英雄图)
+- [例 225：科学家收藏级玩具发布板](cat-brand.md#-例-225科学家收藏级玩具发布板)
+- [例 228：抹茶品牌触点系统视觉板](cat-brand.md#️-例-228抹茶品牌触点系统视觉板)
+- [例 232：草莓能量饮料商业广告](cat-brand.md#-例-232草莓能量饮料商业广告)
+- [例 236：Logo 与品牌身份系统提示词合集](cat-brand.md#️-例-236logo-与品牌身份系统提示词合集)
 
 ---
 
@@ -289,7 +335,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 
 <a id="fun"></a>
 
-## 🧪 [脑洞与趣味实验](cat-fun.md)（4）
+## 🧪 [脑洞与趣味实验](cat-fun.md)（8）
 
 超现实合成（巨型雕像/巨型生物）、新奇玩法（星座图/碎片化透视/VR效果）、历史穿越、趣味变装等。
 
@@ -297,3 +343,7 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 21：创意树叶拼贴画像](cat-fun.md#-例-21创意树叶拼贴画像) — 树叶拼贴创意艺术
 - [例 66：达利风格超现实海岸景观重构](cat-fun.md#-例-66达利风格超现实海岸景观重构) — 达利超现实主义重构
 - [例 123：Minecraft Night Plaza Transformation](cat-fun.md#-例-123minecraft-night-plaza-transformation) — Minecraft夜广场变换
+- [例 200：四国文化锚点服装设计宫格](cat-fun.md#-例-200四国文化锚点服装设计宫格)
+- [例 205：青岛啤酒灵感女装系列](cat-fun.md#-例-205青岛啤酒灵感女装系列)
+- [例 222：印度餐厅菜单改造宣传图](cat-fun.md#-例-222印度餐厅菜单改造宣传图)
+- [例 227：磁场铁粉 Logo 物理成像](cat-fun.md#-例-227磁场铁粉-logo-物理成像)

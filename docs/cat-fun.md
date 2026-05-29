@@ -77,3 +77,108 @@ Style and quality: vanilla Minecraft only, no mods, no shaders that look non-Min
 
 ---
 
+### 🧪 例 200：四国文化锚点服装设计宫格
+
+![四国文化锚点服装设计宫格](../images/%E5%9B%9B%E5%9B%BD%E6%96%87%E5%8C%96%E9%94%9A%E7%82%B9%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%AE%AB%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
+```
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137) | 2026-05-30
+
+---
+
+### 🧪 例 205：青岛啤酒灵感女装系列
+
+![青岛啤酒灵感女装系列](../images/%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E7%81%B5%E6%84%9F%E5%A5%B3%E8%A3%85%E7%B3%BB%E5%88%97.jpg)
+
+**Prompt:**
+
+```text
+Inspired by Tsingtao (China beer)🍺
+
+“Inspired by this product, design a set of cool-style women's clothing”
+```
+
+**来源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754) | 2026-05-30
+
+---
+
+### 🧪 例 222：印度餐厅菜单改造宣传图
+
+![印度餐厅菜单改造宣传图](../images/%E5%8D%B0%E5%BA%A6%E9%A4%90%E5%8E%85%E8%8F%9C%E5%8D%95%E6%94%B9%E9%80%A0%E5%AE%A3%E4%BC%A0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
+```
+
+**来源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123) | 2026-05-30
+
+---
+
+### 🧪 例 227：磁场铁粉 Logo 物理成像
+
+![磁场铁粉 Logo 物理成像](../images/%E7%A3%81%E5%9C%BA%E9%93%81%E7%B2%89%20Logo%20%E7%89%A9%E7%90%86%E6%88%90%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:
+Fine iron filings with sharp, spiky, needle-like structures.
+Dense clustering along magnetic field lines forming the logo silhouette.
+Variation in density — thick near magnetic poles, thinner outward.
+Matte dark metallic texture with subtle reflections.
+
+Physics behavior:
+Iron filings must follow realistic magnetic field patterns — radial and curved lines forming spikes and ridges.
+Stronger attraction zones create thicker, raised clusters.
+Outer areas show softer, more dispersed alignment.
+Natural randomness and slight irregularity — no perfect edges.
+Some loose filings scattered beyond the main shape.
+
+Surface interaction:
+Flat surface such as a lab table, glass plate, or matte black tray.
+Filings resting on surface but visibly lifted in areas due to magnetic force (spiky texture).
+Subtle dust and micro particles around.
+
+Environment & human presence:
+Realistic classroom, science lab, or creative studio environment.
+A person partially visible — hands holding or moving a magnet beneath the surface or nearby.
+Possibly a child or adult observing or interacting (adds emotional curiosity).
+Other subtle elements: notebooks, tools, or lab items out of focus.
+
+Lighting:
+Directional overhead light creating shadows from raised filings.
+Subtle highlights on metallic edges.
+Balanced natural or indoor lighting.
+
+Atmosphere:
+Curiosity.
+Discovery.
+Educational yet visually satisfying.
+Quiet but engaging moment.
+
+Camera & composition:
+Top-down or slightly angled close-up view.
+Logo clearly visible through iron filing formation.
+Human hands or interaction slightly off-center for storytelling.
+
+Format:
+Aspect ratio: STRICT 4:5 vertical.
+No text overlays.
+
+Style:
+Hyper-real macro + environmental photography.
+Physically accurate magnetic behavior.
+Cinematic yet grounded realism.
+```
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460) | 2026-05-30
+
+---
+
