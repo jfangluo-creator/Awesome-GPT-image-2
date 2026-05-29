@@ -124,3 +124,34 @@ With the attached subject as the protagonist, please summarize "{argument name="
 
 ---
 
+
+
+### 🖥️ 例 157：四卡片 AI 灵感画廊
+
+![四卡片 AI 灵感画廊](../images/四卡片%20AI%20灵感画廊.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean inspiration-gallery webpage screenshot showing a two-column masonry grid of GPT image examples, with four large rounded image cards visible and a minimal off-white interface background.
+
+Canvas: Tall vertical mobile-like screenshot, about 3:4 aspect ratio, white to warm cream background, narrow margins, rounded card corners, soft spacing between cards. At the very top, include a thin pale beige pill-shaped navigation/header strip with tiny faint uppercase text reading “LIVE · LOVE · LICENSE”.
+
+Layout: Two columns with equal-width cards, separated by a narrow white gutter. Show exactly 4 main visible cards: 1) top-left cyberpunk poster portrait, 2) top-right holographic fantasy social-card scene, 3) bottom-left loose fashion sketch portrait, 4) bottom-right chibi footballer figure. Crop the very bottom so a fifth orange card is barely hinted at below the fold.
+
+Card 1, top-left: A vertical rounded poster of a young street-fashion woman with long black hair standing in front of a dense Japanese cyberpunk collage wall. Use huge red brushstroke kanji-style typography, layered stickers, barcode, warning sign reading “DANGER”, small labels, graffiti teal spray marks, black-red-beige palette, Tokyo street poster energy. The person wears an oversized light bomber jacket over a black graphic top and denim with chains, one arm raised near her head. Keep the face softly blurred or obscured.
+
+Card 2, top-right: A dreamy high-key fantasy technology scene in peach and gold light. Two hands hold a glossy black smartphone-like social profile card. From the card rises a glowing blue-white hologram of an elegant woman in a translucent pale blue gown, standing upright with sparkles, petals, and light beams. The phone UI contains a profile name resembling “Algird,” circular avatar thumbnails, small icons, and tiny unreadable social stats. Romantic bokeh, magical particles, translucent fabric, cinematic glow.
+
+Card 3, bottom-left: A white-background mixed-media fashion illustration of a long-haired woman in a black lace camisole and loose pink cardigan. Loose expressive graphite and watercolor lines, messy black hair, pink and purple accents, doodles around the figure. Include handwritten English notes: “You got this.” on the left, “LOVE” on the sleeve, “Keep shining” on the lower right, and “for you” near the bottom. Add small stars, hearts, ink splatters, and casual sketchbook marks. Face softly blurred or left featureless.
+
+Card 4, bottom-right: A toy-like 3D caricature of Cristiano Ronaldo as a chibi athlete on a seamless bright red studio background. He wears a yellow Al Nassr-style soccer kit with blue details, captain armband, number 7, yellow socks, and silver boots. Pose with arms crossed, oversized head, compact body, confident stance, glossy collectible figurine look. Face softly blurred or simplified.
+
+Visual style: Bright curated social gallery aesthetic, realistic screenshot composition, rounded rectangle thumbnails, no heavy shadows, crisp card edges, high-resolution generated-art showcase. Preserve the contrast between the four styles: gritty poster collage, magical hologram photo, expressive fashion sketch, and glossy chibi sports render.
+
+Constraints: Use exactly 4 prominent image cards in the visible grid. Do not add extra captions outside the cards except the tiny header text. Keep all faces obscured, blurred, or non-identifying. Avoid watermarks and avoid making the interface look like a browser chrome screenshot.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2060064061963059482#reversed-0) | 2026-05-29
+
+---

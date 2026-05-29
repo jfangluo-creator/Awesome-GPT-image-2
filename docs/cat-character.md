@@ -645,3 +645,20 @@ Prioritize looking like "actual production materials" rather than a completed wo
 
 ---
 
+
+
+### 🧍 例 161：皮克斯风格角色设计图
+
+![皮克斯风格角色设计图](../images/皮克斯风格角色设计图.jpg)
+
+**Prompt:**
+
+```text
+Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: NEIL vs THE DELIVERY. Subtitle beneath: He was home all day. All day.
+
+LEFT
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2060045388262920644) | 2026-05-29
+
+---

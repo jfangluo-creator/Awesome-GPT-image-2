@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (7)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (8)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -17,6 +17,7 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 122: Futuristic Aquarium Mermaid Scene](cat-ui.md#-例-122futuristic-aquarium-mermaid-scene) — Futuristic aquarium mermaid
 - [Case 125: Next-Gen Mobile App UI Showcase](cat-ui.md#-例-125next-gen-mobile-app-ui-showcase) — Next-gen mobile app UI
 - [Case 137: Winter Campfire Wallpaper Device Mockup](cat-ui.md#-例-137冬季篝火壁纸设备样机) — Winter wallpaper device mockup
+- [Case 157: AI Inspiration Gallery Cards](cat-ui.md#-四卡片-ai-灵感画廊) — AI Inspiration Gallery Cards
 
 ---
 
@@ -41,7 +42,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (18)
+## 🎴 [Posters & Cards](cat-poster.md) (21)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -63,12 +64,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 106: Vintage Watercolor Travel Poster](cat-poster.md#-例-106复古水彩旅行海报) — Watercolor travel poster
 - [Case 120: Swimsuit Magazine Grid Ad Page](cat-poster.md#-例-120泳装杂志九宫格广告页) — Swimsuit magazine grid ad
 - [Case 135: Camelot Fantasy Travel Poster](cat-poster.md#-例-135camelot-奇幻旅行海报) — Camelot fantasy travel poster
+- [Case 152: Neon Portrait Typography Poster](cat-poster.md#-霓虹肖像排版海报) — Neon Portrait Typography Poster
+- [Case 155: Y2K Japanese Lip Gloss Ad](cat-poster.md#-y2k-日系唇彩广告) — Y2K Japanese Lip Gloss Ad
+- [Case 159: Mixed-Media Streetwear Poster](cat-poster.md#-混合媒介街头风海报) — Mixed-Media Streetwear Poster
 
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (28)
+## 📷 [Photography & Realistic](cat-photo.md) (39)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -100,12 +104,23 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 112: Japanese Breakfast Flat Lay](cat-photo.md#-例-112带有日式手写标注的早餐俯拍图) — Japanese breakfast flat lay
 - [Case 119: Fish Market Cat Chase CCD Street Snap](cat-photo.md#-例-119鱼市追猫-ccd-街拍) — CCD digicam street chase
 - [Case 138: Cinematic Fisheye City Portrait](cat-photo.md#-例-138电影感鱼眼城市人像) — Fisheye city street portrait
+- [Case 144: Cinematic Motion Blur Street Portrait](cat-photo.md#-电影感动态模糊街头人像) — Cinematic Motion Blur Street Portrait
+- [Case 145: Mystical Kitsune Shrine Portrait](cat-photo.md#-神秘狐仙神像肖像) — Mystical Kitsune Shrine Portrait
+- [Case 146: Japanese Summer Porch Portrait](cat-photo.md#-日式夏日缘侧肖像) — Japanese Summer Porch Portrait
+- [Case 147: Golden Hour Flower Picnic Clones](cat-photo.md#-黄金时刻花海野餐与迷你分身) — Golden Hour Flower Picnic Clones
+- [Case 148: Summer Jump Blue Sky Portrait](cat-photo.md#-蓝天下的夏日跳跃人像) — Summer Jump Blue Sky Portrait
+- [Case 150: Japanese Alley Portrait Blurred](cat-photo.md#-日本小巷人像面部模糊处理) — Japanese Alley Portrait Blurred
+- [Case 151: Burgundy Gown Reference Grid](cat-photo.md#-酒红色礼服时尚参考网格) — Burgundy Gown Reference Grid
+- [Case 154: Shanghai Shikumen Window Portrait](cat-photo.md#-上海石库门窗边肖像) — Shanghai Shikumen Window Portrait
+- [Case 156: Athlete on Giant Tennis Ball](cat-photo.md#-坐在巨型网球上的运动员) — Athlete on Giant Tennis Ball
+- [Case 158: Minimalist Studio Photography](cat-photo.md#-极简主义工作室静物摄影) — Minimalist Studio Photography
+- [Case 160: Sunlit Fashion Collage](cat-photo.md#-阳光时尚杂志拼贴画) — Sunlit Fashion Collage
 
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (19)
+## 🎨 [Illustration & Art](cat-illustration.md) (20)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -125,12 +140,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 88: Crystal Cat Familiar](cat-illustration.md#-例-88crystal-cat-familiar) — Crystal cat fantasy illustration
 - [Case 89: Cherry Blossom School Gate Manga Page](cat-illustration.md#-例-89cherry-blossom-school-gate-manga-page) — Cherry blossom manga page
 - [Case 129: Japanese Husky Sketchbook Profile](cat-illustration.md#-例-129japanese-husky-sketchbook-profile) — Husky sketchbook profile
+- [Case 149: Faceless Anime Apartment Hug](cat-illustration.md#-无脸动漫风格公寓拥抱) — Faceless Anime Apartment Hug
 
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (15)
+## 🧍 [Character Design](cat-character.md) (16)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -149,12 +165,13 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 115: Fantasy Tide Priestess Character Sheet](cat-character.md#-例-115fantasy-tide-priestess-character-sheet) — Tide priestess character sheet
 - [Case 124: Vintage Drama Character Board](cat-character.md#-例-124vintage-drama-character-board) — Vintage drama character board
 - [Case 130: Professional Anime Character Line Art Sheet](cat-character.md#-例-130professional-anime-character-line-art-sheet) — Anime character line art
+- [Case 161: Pixar Character Design Sheet](cat-character.md#-皮克斯风格角色设计图) — Pixar Character Design Sheet
 
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (12)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (13)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -170,6 +187,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 131: Morning Latte Miniature Girl](cat-3d.md#-例-131早安拿铁微缩女孩) — Latte cup miniature girl
 - [Case 139: Q-Style Plush Football Mascot](cat-3d.md#-例-139q-版毛绒足球吉祥物) — Plush football mascot
 - [Case 141: Toy Ferrari Storyboard Contact Sheet](cat-3d.md#-例-141toy-ferrari-storyboard-contact-sheet) — Toy Ferrari storyboard
+- [Case 153: News Reporter Toy Store Scene](cat-3d.md#-新闻记者玩具店场景) — News Reporter Toy Store Scene
 
 ---
 
@@ -223,7 +241,7 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (8)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (9)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -235,6 +253,7 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 108: Photo to 3D Toy Figure](cat-edit.md#-例-108photo-to-3d-toy-figure) — Photo to 3D figure conversion
 - [Case 110: Paper-Cut Layered Diorama](cat-edit.md#-例-110paper-cut-layered-diorama) — Paper-cut layered diorama
 - [Case 136: Leaping Snow Leopard Under Moonlight](cat-edit.md#-例-136月下雪豹之跃) — Snow leopard moonlight edit
+- [Case 143: Funny Ugly Doodle Sketch](cat-edit.md#-趣味丑萌涂鸦草图) — Funny Ugly Doodle Sketch
 
 ---
 

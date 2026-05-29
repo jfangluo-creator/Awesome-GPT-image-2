@@ -393,3 +393,108 @@ Constraints: Keep the design readable as a single card, with no photorealism, no
 
 ---
 
+
+
+### 🎴 例 152：霓虹肖像排版海报
+
+![霓虹肖像排版海报](../images/霓虹肖像排版海报.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a wide cinematic typographic poster for PIXEL BOUNCER, where the words themselves are huge hollow block letters outlined in neon acid green and filled with dark photographic portraits of the same character.
+
+Canvas: Ultra-wide horizontal banner, approximately 2:1 aspect ratio, black background, high contrast, moody cyberpunk/nightclub atmosphere.
+
+Layout: Two-line composition with exactly 12 oversized uppercase letters: top row has 5 letters spelling “PIXEL”; bottom row has 7 letters spelling “BOUNCER.” Use a bold condensed geometric sans-serif display font with thick strokes and transparent interiors. Each letter acts as a clipping mask containing a different portrait vignette. Add a bright lime-green neon outline around every letter, with a soft outer glow and subtle inner rim light. Keep the letters tightly spaced and nearly filling the frame from left to right.
+
+Letter contents, exactly 12 distinct vignettes:
+1. P: close-up side portrait of a bald, bearded man in a gray hoodie, ear plug visible, smoky dark background.
+2. I: full-body standing portrait in a gray coat and layered streetwear, industrial window light.
+3. X: close-up of the same man in a black jacket, hand near chin, tattoos and bracelets visible.
+4. E: seated portrait in a leather armchair, gray outfit, dark forest or gothic interior behind him.
+5. L: close side portrait in a black jacket with smoke drifting across the lower edge.
+6. B: man in a black leather jacket with crossed arms, rainy industrial background.
+7. O: close-up profile portrait in gray hoodie, bald head, beard, ear plug, dramatic side lighting.
+8. U: seated at a small table with a whiskey glass and bottle, dark bar-like setting.
+9. N: full-body portrait standing beside a black car in fog, wearing a long dark coat.
+10. C: close-up portrait with shaved head, gray beard, ear plug, black jacket.
+11. E: seated forward with hands clasped, gray hoodie, dim urban interior.
+12. R: man sitting on or leaning against a motorcycle, black leather jacket, headlight visible.
+
+Character details: The character is a bald middle-aged man with a gray beard, ear gauges, tattoos, rugged bouncer energy. Wardrobe should be dark leather jackets, gray hoodies, long coats, boots, bracelets, and layered streetwear. The mood is gritty, cinematic, smoky, masculine, high-contrast, urban noir.
+
+Visual style: Photorealistic composite poster, dramatic low-key lighting, smoky haze, rain reflections, subtle film grain, sharp neon typography, glossy black shadows, premium album-cover or nightclub flyer aesthetic. The neon outline color should be electric lime green.
+
+Constraints: Make the text perfectly readable as “PIXEL BOUNCER.” Do not add extra words, logos, watermarks, captions, borders, or UI elements. Keep the background pure black outside the glowing letterforms. Ensure every letter contains a unique cinematic portrait crop while maintaining one consistent character identity.
+```
+
+**来源：** [@Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer/status/2060076651367518224#reversed-0) | 2026-05-29
+
+---
+
+
+### 🎴 例 155：Y2K 日系唇彩广告
+
+![Y2K 日系唇彩广告](../images/Y2K%20日系唇彩广告.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a loud Y2K Japanese drugstore cosmetics advertisement poster for chu♥lip GLOSS, a cute lip gloss product, with neon colors, glossy hearts, and pop-idol magazine energy.
+
+Canvas: Vertical 3:4 poster, bright cyan-to-blue background, high saturation, glossy print-ad finish. Use a busy but readable composition with hot pink, lime green, yellow, white glows, sparkles, and drop shadows.
+
+Layout: Top third has a huge Japanese headline in rounded bubble letters reading NEW! バズり粘膜リップ, colored lime green with hot-pink outline and white glow, with a neon pink heart outline behind it. Add small white hashtag text at the top right: "#うるちゅる #Y2K #盛れる". Under the headline, add smaller pink-and-white text: "ひと塗りで主役級♥".
+
+Main subject details: On the right side, show a young Japanese woman from shoulders up with long black hair, blue fluffy top, chunky silver necklace, glossy pink makeup styling, and long neon-lime nails. Her face is intentionally covered by one large opaque square censor block in a warm beige/tan color, positioned over the central-right face area and taking up much of the upper-middle poster. Her hand with lime nails holds or poses near the products.
+
+Product display: On the left-center foreground, show exactly 2 transparent lip gloss tubes standing upright at a slight angle, both filled with glittery pink-peach gloss. Tube 1 has a neon lime cap; tube 2 has a hot pink cap. Put small yellow product lettering on the tubes. Behind them, add oversized translucent glossy pink lip-shaped blobs and white sparkle flares.
+
+Promotional elements: Add exactly 1 lime-yellow jagged starburst price badge in the lower left reading "プチプラ" above ¥550 and "(tax in)" below. Add exactly 1 small lime heart badge near the model hand reading "全4色".
+
+Shade lineup: Along the lower middle, show exactly 4 glossy heart-shaped lip color swatches, each with a small label underneath: 1) "01 Baby Pink" pale pink heart, 2) "02 Coral Glow" coral-red heart, 3) "03 Magenta Doll" bright magenta heart, 4) "04 Neon Peach" peachy coral heart.
+
+Bottom branding: Add a large brand lockup at bottom left reading "chu♥lip" in yellow lowercase letters with a pink heart between words, and "GLOSS" below in hot pink letters with white outline. At bottom right, add two slanted pink label strips with Japanese text: "Z世代から大バズリ中!" and "ちゅるんと可愛い 新作リップグロス♥". Include exactly 1 barcode at the bottom right with tiny numbers beneath.
+
+Visual style: Hyper-saturated Japanese gyaru/Y2K cosmetic flyer, glossy plastic reflections, thick outlines, neon glow, sticker-like typography, star sparkles, airbrushed highlights, playful clutter, high contrast, commercial product-ad look. Avoid minimalism, avoid muted colors, and do not add extra shade swatches or extra product tubes.
+```
+
+**来源：** [@Singular](https://x.com/singularlab_ai/status/2060064813053579600#reversed-2) | 2026-05-29
+
+---
+
+
+### 🎴 例 159：混合媒介街头风海报
+
+![混合媒介街头风海报](../images/混合媒介街头风海报.jpg)
+
+**Prompt:**
+
+```text
+High-resolution mixed-media studio portrait combining photography with flat white hand-drawn vector doodles and collage overlays. Full-body shot of a confident young man on a vivid solid blue background, dressed head to toe in a monochromatic blue Adidas streetwear fit with crisp white details.
+
+Subject: young man, light goatee, neutral confident expression, head tilted slightly left, body angled slightly right, right hand raised near his face, left leg crossed in front of the right. Low-angle full shot framed head to toe, 35mm-equivalent lens, deep depth of field, even soft front-right studio lighting in neutral white, gentle self-shadows on the left side of face and neck.
+
+Outfit:
+- Royal-blue denim/canvas bucket hat (#003399), brim pulled slightly down, visible white contrast stitching around brim and crown.
+- Open vivid-blue sherpa fleece jacket (#0044CC), nubby high-pile texture, silver snap on the collar, sleeves slightly pushed up.
+- Royal-blue cotton T-shirt underneath with a large white Adidas Trefoil outline printed across the chest.
+- Dark-wash indigo relaxed-fit jeans (#2A3B55) with heavy white contrast stitching along seams and pockets, cuffs rolled up showing the lighter inside of the denim.
+- Pristine all-white Adidas Superstar sneakers (smooth leather upper, rubber shell toe, three white-on-white stripes); right foot planted, left foot up on the toe.
+
+Flat white hand-drawn vector overlays (sharp edges, doodle aesthetic, no shading):
+- Three thick vertical white lines dropping from his raised hand down to a hand-drawn dynamic vocal microphone (mic-drop motif).
+- An isometric outlined boombox to his center-right showing speaker mesh, handle, buttons, cassette deck.
+- A large flat white Adidas Trefoil logo in the bottom-right corner.
+- Short radiating motion/sound stroke lines around his head and the boombox.
+- Jagged shattered-glass crack lines fanning out across the floor under his feet.
+
+Behind him: amorphous flat liquid-blob shapes in a slightly more saturated blue (#5CAFF0) wrapping around the subject as a secondary background layer over the solid blue base.
+
+Composition: subject centered, asymmetrical balance from the doodles filling the negative space, high-contrast and dynamic. Color palette strictly vivid blue, deep blue, and pure white. Sharp boundary between the photoreal subject and the flat 2D vector overlays so they read as layered, not blended. Vibe: energetic, urban, artistic, cool, album-cover energy.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2060060431461614004) | 2026-05-29
+
+---

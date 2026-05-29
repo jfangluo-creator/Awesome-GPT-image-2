@@ -503,3 +503,233 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ---
 
+
+
+### 📷 例 144：电影感动态模糊街头人像
+
+![电影感动态模糊街头人像](../images/电影感动态模糊街头人像.jpg)
+
+**Prompt:**
+
+```text
+Cinematic editorial street portrait, ultra-realistic. A young woman in a vivid blue puffer jacket stands perfectly still at the center of a bustling city sidewalk, locking direct, intense eye contact with the camera. Around her, pedestrians blur past in dynamic motion while traffic lights and tall city buildings rise in the cooler-graded background. Shot on an 85mm lens at f/1.8 for shallow depth of field, sharp tack focus on her face, natural skin tones, soft overcast daylight, high-detail 8k editorial photography.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2060271865663463557) | 2026-05-29
+
+---
+
+
+### 📷 例 145：神秘狐仙神像肖像
+
+![神秘狐仙神像肖像](../images/神秘狐仙神像肖像.jpg)
+
+**Prompt:**
+
+```text
+主題：春の神社で白狐をまとう日系狐仙ポートレート / kitsune portrait
+
+人物・表情：黒髪の若い女性、日系らしい自然な顔立ち、繊細な前髪と上品なお団子ヘア、白い狐耳、透明感のある白い肌、細長く艶っぽい目元、やわらかく惹きつける視線、ほんのり微笑む上品な表情、瞳の内側に虹色の屈折光が宿り、その光が下まぶたから目尻へ自然ににじむ神秘的な目元、ナチュラルで洗練された和風メイク
+
+服装・ポーズ：白と金を基調にした華やかな和装、繊細な金刺繍が入った着物、ややゆるく開いた上品な襟元で色気を控えめに演出、胸元は自然にふくよか、指先を唇元に添えたしなやかなポーズ、肩元に寄り添う白狐の精霊、足元付近に狐面
+
+背景・光：満開の桜に包まれた明るい昼の神社、青空、朱色の社殿や灯籠、春のやわらかな自然光、舞う花びら、白狐の周囲に淡い桃色と虹彩の光粒、背景はやわらかくぼかしつつ神社らしさを残す
+
+構図・カメラ：上半身中心の縦構図、正面寄りの構図、人物の顔と目を主役にした視線誘導、白狐を左側に寄り添わせたバランスのよい配置、85mmのポートレートレンズ、浅い被写界深度、顔は高精細でシャープ、背景は自然なぼけ、SNSで映える印象的な一枚
+
+質感・スタイル：リアルな写真表現と幻想表現を融合した日系ファンタジーポートレート、高精細、4K品質、毛穴や肌理、唇の質感、鼻筋や目元の陰影まで自然に見える写真的な肌、CG感を抑えた上質な仕上がり、白狐の毛並みは一本一本やわらかく繊細、目元の虹色光は装飾模様ではなく瞳から屈折して流れ出すように表現、胸元や背景の光演出は控えめにして顔・瞳・白狐へ視線を集中、かわいさと神秘感、上品な艶っぽさを両立した雰囲気
+
+ネガティブ：低画質、不自然な顔、不自然な目、不自然な手、余分な指、欠けた指、歪んだ指、崩れた顔、過度に大きい目、強すぎるCG感、アニメ塗り、不自然な肌補正、貼り付いたようなアイメイク、過剰な発光、情報量過多な背景、破綻した着物、不自然な胸元、重複した動物、文字、ロゴ、透かし
+```
+
+**来源：** [@Prompt](https://x.com/CyberTotal2026/status/2060262279401320867) | 2026-05-29
+
+---
+
+
+### 📷 例 146：日式夏日缘侧肖像
+
+![日式夏日缘侧肖像](../images/日式夏日缘侧肖像.jpg)
+
+**Prompt:**
+
+```text
+主題：夏の縁側で風鈴を楽しむ透明感ポートレート / Japanese summer portrait
+
+人物・表情：黒髪の若い女性、自然に濡れ感のあるロングヘア、透明感のある白くみずみずしい肌、繊細なナチュラルメイク、半分まぶたを落としたような柔らかな目線、少し開いた唇、静かで上品な色気のある表情
+
+服装・ポーズ：淡いアイボリーのキャミソール風サマーワンピース、胸元と肩まわりに繊細なレース、薄く軽やかな生地、縁側にゆったり腰かけ、脚を自然に重ねるように曲げる、片手で風鈴の短冊にそっと触れ、もう一方の手を木の床に添えて体を支える
+
+背景・光：日本の古民家の縁側、障子、木の柱、深い緑に包まれた庭園、青もみじ、石と水辺のある静かな中庭、夏の陽光が縁側から差し込み、肌や服、木の床に柔らかな木漏れ日の光斑を作る
+
+構図・カメラ：縦構図、人物を中央やや右寄りに配置、風鈴を画面上部に入れた夏らしい構図、85mmのポートレートレンズ、浅い被写界深度、顔・瞳・髪・衣装のレースを高精細に描写し、庭の緑は柔らかくぼかす
+
+質感・スタイル：超写実、4K品質、高精細、毛穴や肌理まで自然に見えるリアルな肌質、白くみずみずしい透明感のある肌、髪の一本一本や薄い生地の質感まで繊細に描写、日系フィルム写真のような柔らかな色調、洗練された生活写真、温かく穏やかな夏の空気感
+
+ネガティブ：低画質、ぼやけた顔、不自然な顔、不自然な手、余分な指、欠けた指、歪んだ指、不自然な脚、歪んだ脚、奇妙な目線、左右非対称な目、崩れた顔、歪んだ体、破綻した服、過度な加工、過度な美肌補正、過剰な露出、下品な表現、AI特有の不自然な質感、文字、ロゴ、透かし
+```
+
+**来源：** [@Prompt](https://x.com/CyberTotal2026/status/2060240776190439880) | 2026-05-29
+
+---
+
+
+### 📷 例 147：黄金时刻花海野餐与迷你分身
+
+![黄金时刻花海野餐与迷你分身](../images/黄金时刻花海野餐与迷你分身.jpg)
+
+**Prompt:**
+
+```text
+主題：夕暮れの花畑ピクニックと小さな分身たち / golden hour flower picnic
+
+人物・表情：金髪の若い女性、ふんわりまとめたアップヘア、前髪と後れ毛が自然に揺れる可愛い雰囲気、透明感のある肌、ナチュラルメイク、柔らかな微笑み、穏やかなカメラ目線
+
+服装・ポーズ：白いレースブラウスと淡いブルーの花柄スカート、華奢なネックレス、白いサンダル、ピクニックシートの上で膝をそろえて座り、片手を頬に添える自然で可愛いポーズ。周囲には同じ姿をした小さなQ版分身たちがいて、カメラで撮影する、花束を抱える、足元に抱きつく、ドリンクを差し出す、本を読む、手を振るなど、それぞれ違う可愛い動きをしている
+
+背景・光：夕暮れの日本の川沿い公園、遠くに橋と街並み、川面に反射する夕陽、色とりどりの花が咲き乱れる花畑、ピクニックバスケット、グラス、布小物、柔らかな黄金色の逆光、夏の終わりのような温かく夢のある空気感
+
+構図・カメラ：縦長構図、中央に人物を大きく配置した全身寄りのポートレート、35mmレンズ、やや低めの目線、浅い被写界深度、背景の川辺と花畑を柔らかくぼかしながら、人物と小さな分身たちの表情がはっきり見える構図
+
+質感・スタイル：高精細、4K品質、毛穴や肌理まで自然に見えるリアルな肌質、金髪の細かな毛流れ、レースブラウスと花柄スカートの繊細な布感、花びらや草の一本一本まで鮮明、リアルなAIポートレートと可愛いQ版キャラクターを自然に組み合わせた幻想的な写真表現、明るく華やかな色調、雑誌写真のような仕上がり
+
+ネガティブ：低画質、不自然な顔、不自然な手、余分な指、欠けた指、歪んだ指、奇妙な目線、左右非対称な目、崩れた顔、歪んだ体、破綻した服、重複した腕、浮いた人物、不自然な小人、過度な加工、過度な美肌補正、過剰な露出、AI特有の不自然な質感、文字、ロゴ、透かし
+```
+
+**来源：** [@Prompt](https://x.com/CyberTotal2026/status/2060234573527871736) | 2026-05-29
+
+---
+
+
+### 📷 例 148：蓝天下的夏日跳跃人像
+
+![蓝天下的夏日跳跃人像](../images/蓝天下的夏日跳跃人像.jpg)
+
+**Prompt:**
+
+```text
+主題：青空を跳ねる金髪女性のサマーポートレート / summer jump portrait
+
+人物・表情：金髪の若い女性、セイバー風を思わせる上品なお団子アレンジ、やわらかな前髪、自然な日系メイク、明るく爽やかな笑顔、透明感のある表情、自然なカメラ目線
+
+服装・ポーズ：白い軽やかなジャケット、淡いブルーのリブキャミソール、ハイウエストのデニムショートパンツ、白いソックス、白いスニーカー、片腕を上げて大きく跳ねるダイナミックなジャンプポーズ、片脚を曲げた躍動感のある姿勢
+
+背景・光：澄み切った夏の青空、点在する白い雲、左上から差し込む強い日差し、爽快で明るい昼間の空気感、抜けの良い開放的な背景
+
+構図・カメラ：ローアングルで見上げる全身構図、広角寄りのダイナミックな遠近感、人物を大きく中央に配置、上半身と顔がはっきり見えるバランス、ファッションスナップのような写真表現
+
+質感・スタイル：高精細、4K品質、毛穴や肌理まで自然に見えるリアルな肌質、顔立ちと髪の毛流れを繊細に描写、衣服のしわやデニムの質感もくっきり、明るくクリアな色調、リアルなAIポートレート、雑誌写真のような仕上がり
+
+ネガティブ：低画質、ぼやけ、不自然な顔、不自然な手、余分な指、欠けた指、歪んだ指、奇妙な目線、左右非対称な目、崩れた顔、歪んだ体、破綻した脚、破綻した服、過度な加工、過度な美肌補正、AI特有の不自然な質感、文字、ロゴ、透かし
+```
+
+**来源：** [@Prompt](https://x.com/CyberTotal2026/status/2060186294685434352) | 2026-05-29
+
+---
+
+
+### 📷 例 150：日本小巷人像（面部模糊处理）
+
+![日本小巷人像（面部模糊处理）](../images/日本小巷人像(面部模糊处理).jpg)
+
+**Prompt:**
+
+```text
+Create a realistic vertical street-fashion photograph of a young Japanese woman standing centered in a narrow urban backstreet in Japan during soft morning daylight. She is shown from about mid-thigh upward, facing the camera, with both arms raised and hands resting on top of her head, giving a playful little-devil smile implied by the pose. Her face is intentionally obscured by a centered soft-edged rectangular blur/mosaic block, while the rest of the image remains sharp and natural. She has long slightly messy black hair falling over her shoulders and wears a light beige cardigan over a fitted white cropped tank top, plus high-waisted blue denim jeans with the waist and navel visible. The background is a realistic Japanese alley with low buildings on both sides, a metal shutter storefront and bicycle on the left, stacked crates near the curb, potted plants and a vending machine on the right, overhead utility wires, and shallow depth of field. Use a candid smartphone/editorial photo look, natural skin tones, cool daylight, slightly wide-angle perspective, subtle film grain, no text, no watermark, no extra people.
+```
+
+**来源：** [@susumu_Mind](https://x.com/SusumuMind/status/2060125961417572383#reversed-1) | 2026-05-29
+
+---
+
+
+### 📷 例 151：酒红色礼服时尚参考网格
+
+![酒红色礼服时尚参考网格](../images/酒红色礼服时尚参考网格.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a fashion design reference sheet for an ornate burgundy velvet off-the-shoulder fantasy evening gown with gold embroidery, shown as a studio lookbook/contact sheet.
+
+Canvas: Vertical 9:16 image, arranged as an exact 3×3 grid with 9 panels, thin invisible or minimal seams between panels, neutral gray photography studio background in every panel, realistic high-end fashion photography lighting.
+
+Subject: One adult female model with long wavy black hair, medium/tan skin tone, wearing the same gown in every panel. The face is intentionally obscured by a soft rectangular blur block in each view, while the outfit remains sharply detailed.
+
+Dress details: Deep burgundy velvet or satin-velvet gown with a structured sweetheart bodice, off-the-shoulder embroidered sleeves, fitted waist, full floor-length skirt, long trailing train, high front slit in the front view, and dense antique-gold baroque embroidery. Gold motifs include symmetrical bodice filigree, vertical embroidered panels down the skirt, ornate border trim along the hem and train, and large medallion-like appliqués near the lower skirt. Elegant formal sandals are visible in the front slit view.
+
+Layout: Use exactly 9 discrete panels. Panel 1: full-body front view, standing centered, slit open to show one leg. Panel 2: full-body three-quarter side view, train flowing behind. Panel 3: full-body back view, long hair down the back, wide skirt and train visible. Panel 4: full-body left side profile, hand relaxed, long train spread along the floor. Panel 5: full-body clean side profile, upright pose, skirt falling vertically. Panel 6: full-body three-quarter front/side view, showing bodice and skirt embroidery. Panel 7: close-up front crop from head to waist, emphasizing neckline, off-shoulder sleeves, bodice embroidery, and face blur. Panel 8: close-up side crop from head to hips, showing sleeve detail, bodice side seam, hair texture, and face blur. Panel 9: close-up rear three-quarter crop from head to upper torso, showing hair, shoulder, sleeve embroidery, and face blur.
+
+Visual style: Photorealistic editorial catalog photography, crisp fabric texture, rich velvet sheen, dramatic but even studio lighting, muted gray background, luxurious medieval-inspired couture aesthetic, realistic anatomy and proportions, no text, no logos, no watermark.
+
+Constraints: Maintain the exact 3×3 grid and the exact 9 listed views. Keep the model clothed in the gown in all panels. Do not add extra garments, props, captions, mirrors, mannequins, or additional people. Emphasize the ornate gold embroidery and the burgundy fabric consistently across all panels.
+```
+
+**来源：** [@Jennifer](https://x.com/Jenny_MommaLion/status/2060121016932905448#reversed-0) | 2026-05-29
+
+---
+
+
+### 📷 例 154：上海石库门窗边肖像
+
+![上海石库门窗边肖像](../images/上海石库门窗边肖像.jpg)
+
+**Prompt:**
+
+```text
+A candid photograph of a young woman leaning on the open sill of a tiger dormer window on the upper floor of a Shanghai shikumen building, authentic daily life photography, natural candid moment. Upper-body framing shot from below at moderate distance — she rests her forearms on the window ledge, looking out over the rooftops in the late afternoon.
+East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — gaze directed outward and slightly downward toward the lane below, soft and unhurried, the expression of someone with nowhere pressing to be. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under warm golden side light, specular micro-highlights on cheekbones and nose ridge and the top of one bare shoulder, fine foundation powder grain perceptible. Clean no-makeup summer skin, peachy gloss, curl in the lash.
+She wears a sage green cropped ribbed knit cami with thin adjustable straps, and a denim micro mini skirt. Fine layered gold chains at her collarbone — two of them, slightly different lengths. Hair loosely half-clipped with a claw clip, several strands falling free around her jaw. She rests her chin lightly on one hand, the other arm stretched along the window ledge — the universal posture of someone watching a street from above, neither bored nor alert, simply present in summer time. The tiger dormer window frame: old dark-painted wood, slightly weathered, panes of old glass with the faint optical distortion of age. The shikumen rooflines and chimney tops spread below. Over those old tiles, in the far blurred golden distance, the recognizable silhouettes of Shanghai Tower and the SWFC tower rise as warm amber forms in the haze — modern and historic occupying one frame without apology. Two or three stray hairs displaced by the rooftop afternoon breeze, natural unplanned imperfection, not geometrically symmetrical.
+Warm low-angle golden hour sunlight from the side, amber light catching her cheekbones, the top of a bare shoulder, and the gold chain — long shadows from the window frame across her forearm. Gentle and warm, quiet contentment — the Shanghai girl's private pleasure of a summer evening seen from above the lane. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2060066306947522945) | 2026-05-29
+
+---
+
+
+### 📷 例 156：坐在巨型网球上的运动员
+
+![坐在巨型网球上的运动员](../images/坐在巨型网球上的运动员.jpg)
+
+**Prompt:**
+
+```text
+Create a square studio sports fashion editorial image with a dark forest-green background and glossy reflective green floor. A young adult female athlete wearing a black hijab and all-black training outfit lounges confidently on an oversized fuzzy yellow tennis ball placed in the lower center-left. Her face is intentionally anonymized with a soft rectangular blur. Outfit details: fitted black long-sleeve athletic top with subtle white piping, black leggings, black Nike-style wristbands, black crew socks with two white stripes and small white swoosh-like marks, and black running shoes with white swoosh-like logos and white midsoles. Pose: reclining diagonally across the giant tennis ball, left arm hanging down, right arm resting on a raised bent knee, one leg draped across the ball and the other foot planted on the reflective floor. Behind her, huge cream-colored bold block letters spell GOAL, filling almost the entire width and height of the backdrop, partially obscured by the athlete and ball. Use dramatic soft studio lighting, high contrast, realistic textures, crisp editorial photography, a premium athletic campaign look, and subtle floor reflections. Keep the composition centered and minimal with exactly 1 athlete, 1 giant tennis ball, and 1 oversized background word.
+```
+
+**来源：** [@Singular](https://x.com/singularlab_ai/status/2060064813053579600#reversed-1) | 2026-05-29
+
+---
+
+
+### 📷 例 158：极简主义工作室静物摄影
+
+![极简主义工作室静物摄影](../images/极简主义工作室静物摄影.jpg)
+
+**Prompt:**
+
+```text
+Minimalist Object Prompt Pack – Clean, Professional & Versatile This prompt pack generates high-quality square images of everyday objects, fruits, stationery, or pets, all perfectly centered on a clean white background. Each image has sharp details, realistic lighting, and a subtle shadow projected to the right side, creating a professional studio photo look.
+```
+
+**来源：** [@Kami](https://x.com/Aiwithkami/status/2060062348975718486) | 2026-05-29
+
+---
+
+
+### 📷 例 160：阳光时尚杂志拼贴画
+
+![阳光时尚杂志拼贴画](../images/阳光时尚杂志拼贴画.jpg)
+
+**Prompt:**
+
+```text
+Ultra realistic fashion collage of the same beautiful woman ( FACE GIVEN IN REFRANCE IMAGE) in 5 different poses inside a warm sunlit aesthetic apartment, soft golden hour lighting casting natural window shadows on beige walls, long wavy brown hair, glowing skin, minimal makeup, elegant gold earrings and necklace, oversized pink and white striped button-up shirt, loose light-wash wide-leg baggy jeans, white sneakers, dark brown shoulder bag.
+
+Magazine-style collage layout with diagonal white borders separating each pose, full body and close-up portrait shots mixed together, cozy modern interior with hanging green vines and framed wall art in background. Soft cinematic lighting, dreamy Korean fashion editorial vibe, natural skin texture, highly detailed fabric folds, relaxed confident expressions, Pinterest aesthetic, Instagram fashion lookbook style, ultra detailed, realistic photography, shallow depth of field, 8k quality.
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2060053709003075941) | 2026-05-29
+
+---

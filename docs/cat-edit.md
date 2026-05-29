@@ -113,3 +113,18 @@ Convert this image into a soft, handcrafted paper-cut layered illustration style
 
 ---
 
+
+
+### 🔧 例 143：趣味丑萌涂鸦草图
+
+![趣味丑萌涂鸦草图](../images/趣味丑萌涂鸦草图.jpg)
+
+**Prompt:**
+
+```text
+Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, childlike style bad perspective and awkward proportions slightly exaggerated facial features Add: simple cartoon background (like buildings, trees, street) random sketchy lines and details uneven coloring and visible strokes Style: looks like a lazy drawing, not polished humorous and a bit stupid-looking meme-like, casual, internet style Do NOT: make it realistic
+```
+
+**来源：** [@Anifun](https://x.com/Anifun_AI/status/2060274661850743192) | 2026-05-29
+
+---
