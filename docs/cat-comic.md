@@ -391,7 +391,7 @@ Constraints: Keep the grid layout exact with 12 distinct panels, chronological l
 
 ---
 
-### ✏️ 例 142：日式 Q 版绘画歌练习表
+### 🎬 例 142：日式 Q 版绘画歌练习表
 
 ![日式 Q 版绘画歌练习表](../images/日式Q版绘画歌练习表.jpg)
 
