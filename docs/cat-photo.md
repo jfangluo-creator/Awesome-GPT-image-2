@@ -733,3 +733,91 @@ Magazine-style collage layout with diagonal white borders separating each pose, 
 **来源：** [@auqib](https://x.com/auqibhabib/status/2060053709003075941) | 2026-05-29
 
 ---
+### 📷 例 171：iPhone 屏幕遮脸创意人像
+
+![iPhone 屏幕遮脸创意人像](../images/iPhone%20%E5%B1%8F%E5%B9%95%E9%81%AE%E8%84%B8%E5%88%9B%E6%84%8F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118) | 2026-05-30
+
+---
+
+### 📷 例 172：红跑道低角度夏日人像
+
+![红跑道低角度夏日人像](../images/%E7%BA%A2%E8%B7%91%E9%81%93%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%A4%8F%E6%97%A5%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded portrait photo as the appearance reference for the person. Create a bright photorealistic outdoor portrait of a young woman lying on a red running track on a modern white arch pedestrian bridge. Ultra-wide low-angle selfie perspective, her arm reaching toward the camera in the foreground, relaxed pose, wired headphones around her neck, white sleeveless top, loose gray pants, black hair spread on the ground. Clean blue sky with soft white clouds, strong midday sunlight, crisp shadows, high clarity, fresh youthful mood, architectural symmetry, realistic skin texture, cinematic composition, 3:4 vertical image
+
+Negative Prompt:
+
+watermark, logo, text, caption, signature, AI label, extra fingers, deformed hands, distorted face, wrong identity, duplicate person, blurry face, low resolution, over-smoothed skin, plastic skin, unnatural anatomy, bad perspective, messy background, harsh artifacts, overexposure, underexposure
+```
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285) | 2026-05-30
+
+---
+
+### 📷 例 178：室内晨间写实摄影
+
+![室内晨间写实摄影](../images/%E5%AE%A4%E5%86%85%E6%99%A8%E9%97%B4%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
+East Asian young woman in her early 20s. Almond-shaped eyes with soft natural single eyelids, slightly elongated eye corners, still carrying the heaviness of just waking. Straight refined nose with a delicate bridge. Skin tone fair to light beige — skin subsurface scattering visible under the soft directional morning window light, specular micro-highlights catching gently on her cheekbone and nose ridge, fine skin texture perceptible, no makeup. Naturally straight fine black hair loosely gathered, slightly disheveled from sleep.
+She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
+Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421) | 2026-05-30
+
+---
+
+### 📷 例 180：彩色按钮时尚 Campaign
+
+![彩色按钮时尚 Campaign](../images/%E5%BD%A9%E8%89%B2%E6%8C%89%E9%92%AE%E6%97%B6%E5%B0%9A%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Use reference image as style guide.
+Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
+Split-frame composition:
+
+Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
+
+Right side (vertically split into two parts):
+Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
+Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
+
+Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
+Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
+```
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258) | 2026-05-30
+
+---
+
+### 📷 例 184：Cozy Academia 学习手记
+
+![Cozy Academia 学习手记](../images/Cozy%20Academia%20%E5%AD%A6%E4%B9%A0%E6%89%8B%E8%AE%B0.jpg)
+
+**Prompt:**
+
+```text
+Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
+```
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875) | 2026-05-30
+
+---
+

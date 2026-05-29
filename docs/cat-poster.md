@@ -498,3 +498,54 @@ Composition: subject centered, asymmetrical balance from the doodles filling the
 **来源：** [@PromptLab](https://x.com/iamaiistudio/status/2060060431461614004) | 2026-05-29
 
 ---
+### 🎴 例 174：中世纪城市旅行海报
+
+![中世纪城市旅行海报](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E5%9F%8E%E5%B8%82%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
+Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture.
+Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients.
+Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
+```
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437) | 2026-05-30
+
+---
+
+### 🎴 例 175：复古印尼猫薄荷广告
+
+![复古印尼猫薄荷广告](../images/%E5%A4%8D%E5%8F%A4%E5%8D%B0%E5%B0%BC%E7%8C%AB%E8%96%84%E8%8D%B7%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
+```
+
+**来源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532) | 2026-05-30
+
+---
+
+### 🎴 例 186：巨型游戏手柄街头 Campaign
+
+![巨型游戏手柄街头 Campaign](../images/%E5%B7%A8%E5%9E%8B%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9F%84%E8%A1%97%E5%A4%B4%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones.
+
+The girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence.
+
+The oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font.
+
+Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
+```
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725) | 2026-05-30
+
+---
+

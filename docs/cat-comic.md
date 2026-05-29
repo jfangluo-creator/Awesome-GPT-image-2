@@ -424,3 +424,255 @@ Constraints: Use exactly 8 panels and exactly one step number per panel. Preserv
 **来源：** [@Anifun_AI](https://x.com/Anifun_AI/status/2060275303054991525) | 2026-05-29
 
 ---
+### 🎬 例 170：冬季生存惊悚 Storyboard
+
+![冬季生存惊悚 Storyboard](../images/%E5%86%AC%E5%AD%A3%E7%94%9F%E5%AD%98%E6%83%8A%E6%82%9A%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Cinematic Survival Thriller Storyboard Prompt
+
+Create a premium cinematic storyboard presentation sheet for a prestige winter survival thriller.
+Ultra-detailed professional film pre-production layout, clean editorial design, grayscale blueprint background with labeled sections and technical annotations.
+Aspect ratio 16:9 horizontal master board.
+
+SHARED CHOICES HEADER
+
+* Cut Count: 10
+* Color Palette: icy blue + steel gray + pine green + ember amber
+* Environment Fingerprint: snow-covered pine clearing, overturned horse carcass, torn campsite debris, looming conifer forest, drifting winter fog
+
+---
+
+1. CHARACTER REFERENCE
+
+A realistic South Asian man in his early 30s wearing a dark charcoal business suit, white dress shirt, black tie, polished black shoes.
+Snow dusted across shoulders and hair.
+Calm but haunted expression.
+Show:
+
+* front view
+* side profile
+* back view
+* facial close-up
+* side close-up
+* costume fabric detail
+* damaged sleeve detail
+* shoes in snow
+
+Character notes:
+“An intelligent city professional trapped in a brutal wilderness.
+Outer composure slowly cracks under primal fear.
+Suit = identity, burden, and last thread of control.”
+
+Palette swatches:
+
+* icy blue
+* steel gray
+* pine green
+* ember amber
+
+---
+
+2. ENVIRONMENT / SET DESIGN
+
+Top-down aerial map of a snowy forest clearing at dusk.
+Dead horses partially buried in snow.
+Destroyed campsite tents.
+Blood trails across frozen ground.
+Dense dark pine trees forming a claustrophobic wall around the clearing.
+Heavy winter fog drifting through the forest.
+
+Add cinematic camera movement markers:
+
+1. Crane-down
+2. Track
+3. Push-in
+4. Handheld
+5. Steadicam
+6. Pan-right
+7. Dolly-in
+8. Rack-focus
+9. Arc shot
+10. Pull-out
+
+Include arrows and overhead cinematic blocking diagram.
+
+Side elevation panel:
+
+* descending crane shot
+* fog layers
+* silhouette scale reference
+* conifer enclosure composition
+
+Location elements legend:
+
+* tree line
+* torn campsite
+* horse carcass debris
+* blood-stained snow
+* main character
+* wolf approach zones
+
+---
+
+3. STORYBOARD (10 CUTS)
+
+CUT 1
+
+Wide aerial crane-down shot over frozen clearing.
+Tiny suited man surrounded by devastation.
+Moody blue dusk lighting.
+
+CUT 2
+
+Tracking medium shot beside the man walking cautiously through snow and ripped tents.
+Wind moving fabric debris.
+
+CUT 3
+
+75mm close-up push-in on face.
+Cold breath visible.
+Fear slowly emerging in his eyes.
+
+CUT 4
+
+Extreme close-up handheld shot of trembling hand gripping torn frozen fabric near blood-covered snow.
+
+CUT 5
+
+Steadicam medium shot revealing wolves emerging between trees behind him.
+
+CUT 6
+
+Pan-right wide shot sweeping across forest edge.
+Multiple wolf silhouettes visible in fog.
+
+CUT 7
+
+Over-the-shoulder dolly-in toward alpha wolf approaching slowly through snow.
+
+CUT 8
+
+Rack-focus insert shot shifting focus from frozen hand to wolf tracks in snow.
+
+CUT 9
+
+Arc shot circling around the man as wolves tighten formation.
+Snow and pine branches moving in icy wind.
+
+CUT 10
+
+Close-up pull-out shot from his exhausted face revealing the full massacre behind him in fading ember dusk light.
+
+---
+
+4. LIGHTING / MOOD / STYLE NOTES
+
+* icy dusk ambience
+* cold blue backlight
+* ember sunset glow fading through fog
+* wet fabric specular highlights
+* cinematic volumetric fog
+* snow particles drifting through frame
+* high-contrast prestige thriller realism
+
+Mood keywords:
+
+* isolation
+* winter dread
+* survival instinct
+* prestige thriller realism
+* primal tension
+* psychological fear
+
+Cinematography notes:
+
+* anamorphic lenses (40mm / 50mm / 75mm / 100mm)
+* shallow depth of field
+* compressed forest layers
+* natural handheld movement
+* realistic snow atmosphere
+* cinematic Hollywood survival thriller aesthetic
+* ultra detailed
+* photorealistic
+* film grain
+* 8k production design board
+* premium movie pitch deck style
+```
+
+**来源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538) | 2026-05-30
+
+---
+
+### 🎬 例 173：可颂烘焙流程 Storyboard
+
+![可颂烘焙流程 Storyboard](../images/%E5%8F%AF%E9%A2%82%E7%83%98%E7%84%99%E6%B5%81%E7%A8%8B%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.
+Top header:
+
+THE CROISSANT BAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · WARM · FLAKY · IRRESISTIBLE
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Thin warm golden accent line running full width beneath header
+
+Same Pixar-style young French male baker throughout: white baker's jacket, flour-dusted hands, warm authentic French boulangerie setting, marble countertop, warm morning light streaming through windows, bread racks in background. Bright, warm, delicious. Every panel a completely different composition and color.
+8 panels:
+
+THE OPENER — Wide shot of baker arriving at the boulangerie before dawn, tying apron, switching on the warm kitchen lights, marble counter visible, bread racks behind, flour dusting the air, full world established, bright and cinematic
+THE BUTTER BLOCK — Baker slams a massive cold block of European butter onto the marble counter with both hands, dramatic impact, flour cloud puffing up, close-up on hands, this is the bones moment — the start of everything
+THE LAMINATION — Baker folding the dough over the butter block precisely, rolling pin pressing down hard, layers building, side angle shot showing the beautiful layering beginning, confident and skilled
+THE ROLL — Dough rolled out into a large thin sheet, baker leaning into the rolling pin with full body weight, marble counter, flour dusting everywhere, wide shot showing the scale of the dough
+THE SHAPE — Triangles cut from the dough, baker rolling each one from the wide end into a tight crescent, hands moving fast and confident, close-up on the shaping, beautiful and precise
+THE EGG WASH — Baker brushing golden egg wash over each shaped croissant with a pastry brush, each one glistening beautifully, close-up overhead angle, warm golden color, stunning composition
+THE OVEN — Croissants slid into the blazing hot oven on a tray, oven door closed, through the oven glass croissants visibly puffing and turning deep golden, layers separating dramatically, warm orange glow
+THE TEAR — Baker pulls a perfect golden croissant from the rack, holds it up, tears it open slowly revealing hundreds of impossibly flaky buttery layers inside, steam escaping, butter glistening — this is the cheese pull moment, the hero shot of the entire video
+
+Footer:
+
+VIDEO FLOW: 8 shots × 1.5s = 12 seconds. Butter block to the tear.
+CAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on lamination, overhead on egg wash, oven glass for panel 7, extreme close-up on the tear reveal
+LIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups
+BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.
+```
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759) | 2026-05-30
+
+---
+
+### 🎬 例 179：当代舞现场 Storyboard
+
+![当代舞现场 Storyboard](../images/%E5%BD%93%E4%BB%A3%E8%88%9E%E7%8E%B0%E5%9C%BA%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.
+
+The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early choreography previs.
+
+A solitary female performer sings continuously while executing an emotionally charged contemporary dance routine inside a massive empty brutalist hall.
+
+The choreography is aggressive, fluid and constantly evolving: rapid turns, floor slides, crawling transitions, sharp body isolations, trembling hands, extreme balance shifts, hair whips, lunges, jumps, collapsing movements and distorted sculptural poses.
+
+Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel trapped between ritual, exhaustion and emotional release.
+
+Use cinematic arthouse camerawork with handheld energy, whip pans, orbit movement, overhead shots, side silhouettes, aggressive close-ups, long lens compression and extreme negative space.
+
+the environment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only.
+
+Annotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps.
+
+End with one overwhelming final movement pose beneath a harsh isolated spotlight.
+```
+
+**来源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799) | 2026-05-30
+
+---
+

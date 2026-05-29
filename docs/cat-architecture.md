@@ -198,3 +198,17 @@ Style constraints: Keep the illustration intentionally simple and clean, with th
 
 ---
 
+### 🏛️ 例 181：极简建筑地标海报
+
+![极简建筑地标海报](../images/%E6%9E%81%E7%AE%80%E5%BB%BA%E7%AD%91%E5%9C%B0%E6%A0%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
+```
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269) | 2026-05-30
+
+---
+
