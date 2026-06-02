@@ -1204,3 +1204,466 @@ Ultra realistic Instagram milestone celebration poster design. A stylish teenage
 
 ---
 
+
+### 🎴 例 322：法国蔚蓝海岸时尚电影海报
+
+![法国蔚蓝海岸时尚电影海报](../images/%E6%B3%95%E5%9B%BD%E8%94%9A%E8%93%9D%E6%B5%B7%E5%B2%B8%E6%97%B6%E5%B0%9A%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的奢华时尚电影海报，标题为 {argument name="headline text" default="LUMIÈRE D’AZUR"}，旨在营造出由 {argument name="studio name" default="Azur Studios"} 打造的法国蔚蓝海岸黄金时刻大片氛围。
+
+画布：宽幅横向海报，比例约为 16:9，背景为迷人的戛纳/法国蔚蓝海岸日落海岸线：平静的蓝色大海、游艇、朦胧的山脉、温暖的橙色天空以及岸边的别墅屋顶。
+
+布局：分割式构图。左侧三分之一区域包含主要时尚肖像和标题排版。右侧三分之二区域填充有倾斜重叠的垂直 35mm 胶片条，每条胶片展示着如同底片样张般的时尚肖像。使用带有齿孔的黑色胶片边框，添加细小的橙色和白色柯达风格技术标记、帧编号以及细腻的胶片颗粒感。
+
+文字内容：左侧为淡金色的大号优雅衬线体标题：“{argument name="headline text" default="LUMIÈRE D’AZUR"}”。下方为小号大写副标题：“A CINEMATIC FASHION FILM BY {argument name="studio name" default="AZUR STUDIOS"}”，再下方为“FRENCH RIVIERA · GOLDEN HOUR”。
+
+离散可见元素：总共包含 13 张时尚肖像：左侧 1 张大型主肖像，胶片条内 12 张较小的肖像。12 张胶片肖像排列为 4 条垂直胶片，每条包含 3 帧。肖像内容包括：1 名身穿宝蓝色双排扣西装外套的女性、1 名身穿焦橙色缎面西装外套的女性、1 名身穿祖母绿深 V 裹身裙的女性、1 名身穿海军蓝双排扣西装配橙色衬衫的男性、1 名身穿海军蓝西装配橙色衬衫的男性、1 名身穿焦橙色束腰西装外套的女性、1 名身穿祖母绿裹身裙的女性、1 名身穿深红色裹身裙并佩戴金饰的女性、1 名身穿蓝色西装外套的男性、1 名身穿铁锈橙色西装配白衬衫的男性、1 名坐着或前倾的祖母绿连衣裙女性，以及 1 名身穿红色无袖连衣裙的女性。
+
+主体细节：左侧的大型肖像是一位站在俯瞰大海的阳台上的迷人女性，身穿黑色与金色刺绣无袖高级定制礼服，深 V 领口，饰有华丽的巴洛克花卉细节，佩戴叠戴手镯、戒指、长耳环和个性项链。她姿态自信，一手扶在栏杆上，一手叉腰。为了实现匿名化编辑风格，她的面部应刻意用柔和的矩形模糊处理。对胶片条中的每一张较小肖像应用相同的矩形面部模糊处理。
+
+视觉风格：高端电影级时尚广告，温暖的黄金时刻光影，光面杂志编辑写实感，浓郁的青金色调，柔和的景深，逼真的胶片颗粒，高级衬线字体，戏剧性的对比度，优雅的奢华氛围。服装颜色应强调 {argument name="palette" default="深蓝色、焦橙色、祖母绿、深红色、黑色和金色"}。
+
+约束条件：保持海报精致且具有照片级真实感，保留准确的肖像数量和 4 条 3 帧的胶片结构，确保所有标题文字清晰可辨，避免添加额外的标志或水印，且除上述 13 张肖像外，不得添加其他人物。
+
+[English]
+Goal: Create a cinematic luxury fashion film poster titled {argument name="headline text" default="LUMIÈRE D’AZUR"}, evoking a French Riviera golden-hour editorial campaign by {argument name="studio name" default="Azur Studios"}.
+
+Canvas: Wide horizontal poster, approximately 16:9, with a glamorous Cannes/French Riviera sunset coastline in the background: calm blue sea, yachts, hazy mountains, warm orange sky, and villa rooftops along the shore.
+
+Layout: Split composition. The left third contains the main hero fashion portrait and title typography. The right two-thirds are filled with tilted overlapping vertical 35mm film strips, each strip showing fashion portraits as if from a contact sheet. Use black film borders with sprocket holes, small orange and white Kodak-style technical markings, frame numbers, and subtle film grain.
+
+Text content: Large elegant serif title in pale gold: “{argument name="headline text" default="LUMIÈRE D’AZUR"}”. Beneath it, small uppercase subtitle text: “A CINEMATIC FASHION FILM BY {argument name="studio name" default="AZUR STUDIOS"}” and below that “FRENCH RIVIERA · GOLDEN HOUR”.
+
+Discrete visible elements: Include exactly 13 fashion portraits total: 1 large hero portrait on the left, plus 12 smaller portraits inside the film strips. The 12 film-strip portraits are arranged as 4 vertical strips with exactly 3 frames in each strip. The portraits are: 1 woman in a royal-blue double-breasted blazer, 1 woman in a burnt-orange satin blazer, 1 woman in an emerald-green plunging wrap dress, 1 man in a navy double-breasted suit with orange shirt, 1 man in a navy suit with orange shirt, 1 woman in a burnt-orange belted blazer, 1 woman in an emerald-green wrap dress, 1 woman in a deep-red wrap dress with gold jewelry, 1 man in a blue blazer, 1 man in a rust-orange suit with white shirt, 1 woman in an emerald-green dress seated or leaning forward, and 1 woman in a red sleeveless dress.
+
+Main subject details: The large left portrait is a glamorous woman standing on a balcony overlooking the sea, wearing a black-and-gold embroidered sleeveless couture gown with a deep V neckline, ornate baroque floral detailing, stacked bracelets, rings, dangling earrings, and a statement necklace. Her pose is confident, one hand resting on the railing and one hand on her hip. Her face should be intentionally obscured by a soft rectangular blur for anonymized editorial styling. Apply the same rectangular face blur to every smaller portrait in the film strips.
+
+Visual style: High-end cinematic fashion advertising, warm golden-hour lighting, glossy magazine editorial realism, rich teal-and-gold color grading, soft depth of field, realistic film grain, premium serif typography, dramatic contrast, elegant luxury mood. Clothing colors should emphasize {argument name="palette" default="deep blue, burnt orange, emerald green, crimson red, black, and gold"}.
+
+Constraints: Keep the poster polished and photorealistic, preserve the exact portrait count and the 4-by-3 film-strip structure, keep all title text legible, avoid extra logos or watermarks, and do not add additional people beyond the 13 portraits.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2061667027253965160#reversed-0) | 2026-06-02
+
+---
+
+
+### 🎴 例 323：地中海日落时尚拼贴画
+
+![地中海日落时尚拼贴画](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%97%A5%E8%90%BD%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张迷人的地中海旅行时尚拼贴画，展示 {argument name="character name" default="一位时尚的年轻女性"} 在黄金时刻享受奢华海滨度假的场景。
+
+画布：宽屏 16:9 横向图像，温暖的电影感日落光效，精致的社交媒体旅行项目美学。
+
+布局：使用一张全出血背景场景，外加 5 个独立的照片元素：左侧为 1 张女性的大型前景剪影，右侧为 4 张垂直堆叠的圆角矩形嵌入式照片。大型剪影应带有厚实的白色贴纸状轮廓和柔和的阴影，并与日落港口背景重叠。4 张嵌入式照片应具有柔和的圆角、轻微的投影，并以交错的拼贴方式垂直排列：顶部为宽幅海岸肖像，第二张为宽幅村庄街道肖像，第三张为宽幅游艇/码头场景，底部为宽幅日落特写肖像。
+
+背景场景：奢华的沿海长廊，铺设着石板路，有海堤、岩石海岸线、优雅的度假建筑、帆船和游艇、绿松石色的海水，以及倒映在水面上的低垂橙色太阳。氛围应呈现出法国里维埃拉、阿马尔菲海岸或摩纳哥的感觉。
+
+主体细节：该女性留着被风吹乱的 {argument name="hair color" default="深棕色长发"}，拥有古铜色皮肤，佩戴优雅的金饰，姿态放松且自信。她的面部在每张可见的肖像中都应通过柔和的矩形模糊或平滑的肤色色块进行刻意匿名化处理。她身着无袖深 V 领裹身长裙，高开叉设计，图案为 {argument name="dress pattern" default="橙色、青色和奶油色的波西米亚佩斯利印花"}。她一只手提着编织草编手提包，另一只手拿着一顶带有深色饰带的白色宽檐遮阳帽。增加金色手镯、耳环、叠戴项链，并在头发和裙子上添加温暖的高光。
+
+嵌入式照片数量及描述：1) 顶部嵌入图：日落时的海岸悬崖和绿松石色大海，女性身着珊瑚色连衣裙站在岩石旁，面部匿名化。2) 第二张嵌入图：狭窄的淡色地中海街道，有桃色建筑和九重葛，女性身着珊瑚色连衣裙位于画面中心，面部匿名化。3) 第三张嵌入图：女性坐在白色游艇或码头甲板上拿着饮料，背景为游艇，天空呈粉橙色，侧面轮廓，面部匿名化。4) 底部嵌入图：日落时分女性在海边的特写，头发被风吹乱，水面映照着阳光，面部匿名化。
+
+视觉风格：照片级真实但略带理想化的编辑类旅行摄影，温暖的桃橙色调，高动态范围，清晰的时尚细节，柔和的焦外成像，光泽感杂志拼贴设计，Instagram 项目感。使用协调的日落色调和绿松石色海洋点缀。
+
+约束条件：无文字、无标志、无标题、无水印，且画面中不得出现其他人。保持右侧恰好 4 张嵌入式照片，左侧恰好 1 张大型前景剪影。仅在主体全身剪影周围保留白色贴纸轮廓，嵌入式照片周围无需保留。
+
+[English]
+Goal: Create a glamorous Mediterranean travel fashion collage featuring {argument name="character name" default="a stylish young woman"} on a luxury seaside vacation at golden hour.
+
+Canvas: Wide 16:9 horizontal image, warm cinematic sunset lighting, polished social-media travel mood board aesthetic.
+
+Layout: Use one full-bleed background scene plus exactly 5 discrete photo elements: 1 large foreground cutout of the woman on the left and 4 rounded-rectangle inset photos stacked on the right. The large cutout should have a thick white sticker-like outline and subtle shadow, overlapping the sunset harbor background. The 4 inset photos should have soft rounded corners, slight drop shadows, and be arranged vertically in a staggered collage: top wide coastal portrait, second wide village street portrait, third wide yacht/marina scene, bottom wide close-up sunset portrait.
+
+Background scene: A luxurious coastal promenade with stone paving, sea wall, rocky shoreline, elegant resort buildings, sailboats and yachts, turquoise water, and a low orange sun reflecting across the water. The atmosphere should suggest the French Riviera, Amalfi Coast, or Monaco.
+
+Subject details: The woman has long windblown {argument name="hair color" default="dark brown hair"}, tanned skin, elegant gold jewelry, and a relaxed confident vacation pose. Her face should be intentionally anonymized with a soft rectangular blur or smooth skin-toned block in every visible portrait. She wears a sleeveless deep-V wrap maxi dress with a high slit, in {argument name="dress pattern" default="orange, teal, and cream bohemian paisley print"}. She carries a woven straw tote bag in one hand and a wide-brimmed white sunhat with a dark band in the other. Add gold bracelets, earrings, layered necklaces, and warm highlights on hair and dress.
+
+Inset photo count and descriptions: 1) Top inset: coastal cliff and turquoise sea at sunset, the woman in a coral dress standing near rocks, face anonymized. 2) Second inset: narrow pastel Mediterranean street with peach buildings and bougainvillea, the woman centered in a coral dress, face anonymized. 3) Third inset: woman seated on a white yacht or marina deck holding a drink, yachts in the background, pink-orange sky, face in side profile and anonymized. 4) Bottom inset: close-up of the woman by the ocean at sunset with windblown hair and sun reflection on the water, face anonymized.
+
+Visual style: Photorealistic but slightly idealized editorial travel photography, warm peach-orange color grade, high dynamic range, crisp fashion details, soft bokeh, glossy magazine collage design, Instagram mood-board feel. Use cohesive sunset tones and turquoise sea accents.
+
+Constraints: No text, logos, captions, watermarks, or extra people. Keep exactly 4 right-side inset photos and exactly 1 large left foreground cutout. Preserve the white sticker outline only around the main full-body cutout, not around the inset photos.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2061656600151269839#reversed-0) | 2026-06-02
+
+---
+
+
+### 🎴 例 324：动漫风格时尚封面
+
+![动漫风格时尚封面](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="年轻韩国女性"} 在上传的图片中，{argument name="style" default="半写实动漫风格"}，{argument name="clothing color" default="白色"} 6 号运动 T 恤，白色阔腿裤，白色平底鞋，凌乱盘发，双腿分开自信站姿，周围环绕着大型光泽赤陶波浪形抽象雕塑，巨大的粗体 "636" 图形排版，中性暖色调摄影棚，运动装时尚封面编辑，电影级景深，8k，照片级写实，杰作
+
+[English]
+{argument name="subject" default="Young Korean woman"} in uploaded image, {argument name="style" default="semi-realistic anime style"}, {argument name="clothing color" default="white"} athletic tee number 6, white wide leg pants, white flat shoes, tousled updo, legs wide apart confident stance, surrounded by large glossy terracotta wavy abstract sculptural form, massive bold "636" graphic typography, neutral warm studio, activewear fashion cover editorial, cinematic depth, 8k, photorealistic, masterpiece
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2061653735294804341) | 2026-06-02
+
+---
+
+
+### 🎴 例 341：马尔代夫奢华旅行海报
+
+![马尔代夫奢华旅行海报](../images/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细的 {argument name="location" default="马尔代夫"} 奢华旅行海报，在完美的热带天气下，以令人惊叹的 {argument name="perspective" default="空中无人机视角"} 捕捉而成。清澈见底的绿松石色泻湖水域在印度洋上无限延伸，呈现出水绿色、青色和深蓝色的鲜艳渐变。优雅的水上别墅配有传统的茅草屋顶，由一条优美的弧形木栈道连接，横跨浅滩礁石。前景是点缀着茂密棕榈树的纯净白沙滩，私人无边泳池和豪华躺椅俯瞰着波光粼粼的大海。底部文字：“MALDIVES” “INDIAN OCEAN” 纵横比：3:4 竖版旅行海报 风格关键词：{argument name="vibe" default="奢华旅行海报，热带天堂"}，航拍，马尔代夫度假村，超写实，鲜艳的绿松石色海洋，电影级旅游宣传，Pinterest 热门，Instagram 网红打卡，梦想度假胜地，高端度假村广告。
+
+[English]
+Ultra-detailed luxury travel poster of {argument name="location" default="the Maldives"}, captured from a breathtaking {argument name="perspective" default="aerial drone perspective"} during a perfect tropical day. Crystal-clear turquoise lagoon waters stretch endlessly across the Indian Ocean, displaying vibrant gradients of aqua, cyan, and deep blue. Elegant overwater villas with traditional thatched roofs are connected by a graceful curved wooden boardwalk extending across the shallow reef. A pristine white-sand beach lined with lush palm trees frames the foreground, while a private infinity pool and luxury sun loungers overlook the sparkling sea. Text at Bottom: "MALDIVES" "INDIAN OCEAN" Aspect Ratio: 3:4 Vertical Travel Poster Style Keywords: {argument name="vibe" default="Luxury travel poster, tropical paradise"}, aerial photography, Maldives resort, ultra-realistic, vibrant turquoise ocean, cinematic tourism campaign, Pinterest viral, Instagram-worthy, dream vacation destination, premium resort advertisement.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2061478037292806385) | 2026-06-01
+
+---
+
+
+### 🎴 例 342：双重曝光灵性旅行海报
+
+![双重曝光灵性旅行海报](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%81%B5%E6%80%A7%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+AvelyrahnAI，请创作一张 4K 分辨率、4:5 纵向比例的超写实电影质感双重曝光灵性旅行海报。主体是一位时髦的印度年轻女旅行者，名为 {argument name="name" default="[NAME]"}，以一位 {argument name="gender" default="man"} 的清晰锐利侧面剪影呈现，身着现代休闲旅行装：羽绒服、慢跑裤和运动鞋，背着背包，自信站立。
+
+[English]
+AvelyrahnAI, Create a ultra-realistic cinematic double exposure spiritual travel poster in 4K, 4:5 portrait ratio. The main subject is a stylish young Indian woman traveler named {argument name="name" default="[NAME]"} - depicted as a clean, sharp side-profile silhouette of a {argument name="gender" default="man"} wearing modern casual travel outfit: puffer jacket, joggers, and sneakers, carrying a backpack, standing confidently.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2061474395575755099) | 2026-06-01
+
+---
+
+
+### 🎴 例 353：未来主义城市运动海报
+
+![未来主义城市运动海报](../images/%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E5%9F%8E%E5%B8%82%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构的城市运动品牌 {argument name="brand name" default="SNITCH"} 创作一张电影质感的未来主义时尚广告海报，品牌标语为 {argument name="brand tagline" default="MOVE WITH INTENT."}，主宣传标题为 {argument name="headline text" default="OUTRUN ORDINARY."}。
+
+画布：竖版海报，4:5 比例，高分辨率高端街头服饰宣传风格。场景设定在黎明时分，一座类似于孟买/BKC 的密集玻璃钢结构大都市，地面湿润反光，摩天大楼窗户闪烁着光芒，温暖的日出光晕穿过塔楼，一座精致的架空人行天桥延伸至城市深处。
+
+主体：一名年轻男性城市跑者/模特，位于画面中心，正向镜头走来，全身可见，动作自信向前，头部微微向左上方转动。他的面部经过处理，通过柔和的矩形模糊遮盖了五官。他留着深色短卷发。服装：深炭灰色机能飞行员夹克，深色叠穿运动衫，黑色斜挎包，黑色宽松工装裤（带拉链口袋），以及灰色高帮战术运动鞋。姿势：左手抓着胸前的夹克或包带，右臂自然下垂，一只脚向前迈出。
+
+排版与字体：在左下角前景处放置一个巨大的白色做旧紧凑型无衬线标题，内容为 {argument name="headline text" default="OUTRUN ORDINARY."}。下方添加副标题“For the ones building tomorrow.”。在下方添加一个细边框按钮：“ENTER THE NEXT MOVE”，并配有一个小型斜向箭头图标。使用高端机能风字体，全大写，宽字间距，微型标签，HUD 风格括号，带有微妙透明度的白色文字。
+
+品牌与可见文字元素：左上角包含一个几何字母组合 Logo，以及宽字间距的白色字母 {argument name="brand name" default="SNITCH"}，并带有小型商标符号。下方为：{argument name="brand tagline" default="MOVE WITH INTENT."}。右上角包含“$S25”和三行堆叠的产品词：“PERFORMANCE”、“LUXURY”、“CORD SET”。在右侧塔楼上添加一个大型广告牌，显示品牌字母组合、“SNITCH”以及标语“THE CITY. NEVER STOPS. NEITHER DO YOU.”。添加另一个蓝色广告牌，写着“NEXT MOVE”。在左侧添加一个较小的广告牌，写着“BUILD BEYOND LIMITS”。
+
+HUD 数据面板：在微妙的边角括号框架内包含 5 行左侧数据：1) “TIME 05:47 AM”，2) “ELEVATION +370M”，3) “DISTRICT BKC // MUMBAI”，4) “COORDINATES 19.0596° N 72.8697° E”，5) “FOCUS BUILD ELEVATE INSPIRE”。垂直堆叠 5 个右下角状态标签：1) “TRAFFIC FLOW INTENSE”，2) “MINDSET RELENTLESS”，3) “MOVEMENT FORWARD”，4) “STATUS IN PROGRESS”，5) 一个小型向下极简标记/图标。
+
+页脚元素：左下角包含 3 个小型圆形图标/Logo，后接一行文字“SNITCH // URBAN PERFORMANCE LAB”。下方添加一个条形码，带有微型代码“SS25-NEXTMOVE-2025”。
+
+视觉风格：照片级真实感电影广告，高端街头服饰宣传，深青色与炭灰色调，搭配温暖的金色日出高光，湿润的沥青路面反射，强烈的景深感，镜头光晕，真实的城市比例，清晰的前景主体，融入环境的锐利字体，微妙的科幻界面叠加。光线应勾勒出模特的轮廓，并强调天桥栏杆和地面的反射。
+
+约束条件：仅使用 1 个中心人物，恰好 3 个显著广告牌，恰好 5 行左侧 HUD 数据，恰好 5 个右下角状态标签，恰好 3 个页脚图标，且不添加额外的主角。保持海报精致、富有抱负且充满激励感。
+
+[English]
+Goal: Create a cinematic futuristic fashion advertising poster for a fictional urban performance brand called {argument name="brand name" default="SNITCH"}, with the tagline {argument name="brand tagline" default="MOVE WITH INTENT."} and the main campaign headline {argument name="headline text" default="OUTRUN ORDINARY."}.
+
+Canvas: Vertical poster, 4:5 aspect ratio, high-resolution luxury streetwear campaign look. The scene is set at dawn in a dense glass-and-steel megacity resembling Mumbai/BKC, with wet reflective pavement, glowing skyscraper windows, warm sunrise flare between towers, and a sleek elevated pedestrian bridge leading into the city.
+
+Main subject: One young male urban runner/model walking toward the camera at center, full body visible, confident forward motion, head slightly turned upward to the left. His face is intentionally anonymized with a soft rectangular blur over the facial features. He has short curly dark hair. Outfit: dark charcoal technical bomber jacket, dark layered performance shirt, black crossbody sling bag, loose black cargo pants with zipper pockets, and gray high-top tactical sneakers. Pose: left hand gripping the jacket or bag strap near the chest, right arm relaxed, one foot stepping forward.
+
+Layout and typography: Place a large white distressed condensed sans-serif headline in the lower-left foreground reading {argument name="headline text" default="OUTRUN ORDINARY."}. Beneath it, add the subheading "For the ones building tomorrow." Add a thin outlined button below: "ENTER THE NEXT MOVE" with a small diagonal arrow icon. Use premium techwear typography, all caps, tracking, micro-labels, HUD-style brackets, white text with subtle transparency.
+
+Branding and visible text elements: Top left contains a geometric monogram logo plus the word {argument name="brand name" default="SNITCH"} in wide-spaced white letters, with a small trademark mark. Under it: {argument name="brand tagline" default="MOVE WITH INTENT."}. Top right contains "$S25" and three stacked product words: "PERFORMANCE", "LUXURY", "CORD SET". Add one large billboard on the right tower showing the brand monogram, "SNITCH", and the slogan "THE CITY. NEVER STOPS. NEITHER DO YOU." Add another blue billboard reading "NEXT MOVE". Add a smaller left-side billboard reading "BUILD BEYOND LIMITS".
+
+HUD data panels: Include exactly 5 left-side data lines inside subtle corner-bracket framing: 1) "TIME 05:47 AM", 2) "ELEVATION +370M", 3) "DISTRICT BKC // MUMBAI", 4) "COORDINATES 19.0596° N 72.8697° E", 5) "FOCUS BUILD ELEVATE INSPIRE". Include exactly 5 right-lower status labels stacked vertically: 1) "TRAFFIC FLOW INTENSE", 2) "MINDSET RELENTLESS", 3) "MOVEMENT FORWARD", 4) "STATUS IN PROGRESS", 5) a small downward minimal marker/icon.
+
+Footer elements: Lower left includes exactly 3 small circular icons/logos followed by the line "SNITCH // URBAN PERFORMANCE LAB". Below that, add a barcode with the tiny code "SS25-NEXTMOVE-2025".
+
+Visual style: Photorealistic cinematic advertising, premium streetwear campaign, moody dark teal and charcoal palette with warm gold sunrise highlights, wet asphalt reflections, strong depth, lens flare, realistic city scale, sharp foreground subject, crisp typography integrated into the environment, subtle sci-fi interface overlays. Lighting should rim-light the model and emphasize reflections on the bridge railing and floor.
+
+Constraints: Use exactly 1 central human figure, exactly 3 prominent billboards, exactly 5 left HUD data lines, exactly 5 right-lower status labels, exactly 3 footer icons, and no extra main characters. Keep the poster polished, aspirational, and motivational.
+```
+
+**来源：** [@Shah](https://x.com/ai_with_shah/status/2061456122381513111#reversed-0) | 2026-06-01
+
+---
+
+
+### 🎴 例 364：参数化视错觉海报
+
+![参数化视错觉海报](../images/%E5%8F%82%E6%95%B0%E5%8C%96%E8%A7%86%E9%94%99%E8%A7%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对 AI 推断的图形和颜色执行以下操作：python_scene_graph :: parametric_optical_illusion 类变量：topic = "{argument name="topic" default="[主题]"}" duality = "推断对立或分层的含义" primary_silhouette = "推断主导且可读的外部轮廓" hidden_image = "从负空间中推断次要图像" symbols = "推断极简的辅助符号" palette = "根据情绪推断 2-4 种颜色" style = "极简主义负空间海报" 类组合：first_read = variables.primary_silhouette second_read = variables.hidden_image rule = "两幅图像必须共享边缘和轮廓" density = "低细节，高清晰度" 类形状逻辑：black_shapes = "定义主要轮廓" white_or_color_voids = "定义隐藏图像" intersections = "设计使两种解读都保持意图明确" 类渲染：camera = "平面海报视图" texture = "可选细微纸张纹理" lighting = "无；平面设计清晰度" output = "简洁的视错觉隐喻海报" def generate(): return "将 {argument name="topic" default="[主题]"} 渲染为双重解读的负空间图像，且不包含硬编码符号。"
+
+[English]
+2x2 grid, do this for ai inferred figures and colors: python_scene_graph :: parametric_optical_illusion class variables: topic = "{argument name="topic" default="[topic]"}" duality = "infer opposing or layered meanings" primary_silhouette = "infer dominant readable outer shape" hidden_image = "infer secondary image from negative space" symbols = "infer minimal supporting symbols" palette = "infer 2-4 colors from mood" style = "minimalist negative-space poster" class composition: first_read = variables.primary_silhouette second_read = variables.hidden_image rule = "both images must share edges and contours" density = "low detail, high clarity" class shapelogic: black_shapes = "define primary silhouette" white_or_color_voids = "define hidden image" intersections = "designed so both readings remain intentional" class render: camera = "flat poster view" texture = "subtle paper grain optional" lighting = "none; graphic design clarity" output = "clean optical metaphor poster" def generate(): return "render {argument name="topic" default="[topic]"} as a dual-read negative-space image with no hard-coded symbols."
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2061440881685680521) | 2026-06-01
+
+---
+
+
+### 🎴 例 368：哥特奢华杂志封面
+
+![哥特奢华杂志封面](../images/%E5%93%A5%E7%89%B9%E5%A5%A2%E5%8D%8E%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实暗黑奢华杂志封面，主角为 {argument name="subject" default="神秘的韩国女性"}，身着戏剧性的黑色公爵夫人缎面礼服，裙摆拖地，裙身绣有超大 3D 全黑玫瑰、带刺藤蔓以及深午夜紫色的垂坠紫藤。结构化的露肩紧身胸衣。深色蓬松发型，梳成高耸的哥特式盘发，点缀黑色玫瑰发夹。瓷白冷调肤色，深紫黑色烟熏妆，黑李子色哑光唇妆。黑玉和黑曜石水滴耳环，叠戴深色珍珠项圈，多枚毒药戒指。背景：无缝黑色天鹅绒摄影棚，底部有戏剧性的脚灯聚光，浓重的烟雾机效果。深红色衬线字体 "VOGUE ITALIA" 刊头。85mm 镜头，超精细 3D 玫瑰刺绣，戏剧性明暗对比，8K 电影级哥特质感。负面提示词：明亮色彩、卡通、模糊、日光、暖色调、水印。1744x2336
+
+[English]
+Ultra-realistic dark luxury magazine cover featuring a {argument name="subject" default="mysterious Korean woman"} in a dramatic black duchess satin gown with a sweeping train, the skirt embroidered with oversized 3D black-on-black roses, thorned vines, and trailing wisteria in deep midnight purple. Structured off-shoulder corseted bodice. Dark voluminous hair in a towering gothic updo with black rose pins. Porcelain cool-white skin, deep purple-black smoky eye, blackened plum matte lip. Jet and obsidian drop earrings, layered dark pearl choker, poison-ring stack. Background: seamless black velvet studio with theatrical footlight spotlighting from below, dense smoke machine haze. "VOGUE ITALIA" masthead in deep crimson serif. 85mm lens, ultra-detailed 3D embroidered roses, dramatic chiaroscuro, 8K cinematic gothic. Negative: bright colors, cartoon, blurry, daylight, warm tones, watermark. 1744x2336
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2061421488188932217) | 2026-06-01
+
+---
+
+
+### 🎴 例 384：历史人物杂志封面生成器
+
+![历史人物杂志封面生成器](../images/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+class magazine_cover_shoot:
+    def __init__(self, subject="{argument name="historical figure" default="[historical_figure]"}"):
+        self.medium = "高端编辑级摄影，8k 分辨率"
+        self.layout = "经典权威杂志封面（例如 Time 或 Forbes）"
+        
+    def generate_editorial_content(self):
+        # ai 推理：推断服装、道具和文字
+        wardrobe = f"ai_infer(高度细节化，符合 {self.subject} 时代特征的定制服装)"
+        pose = "手托下巴，神情沉思，与镜头进行深邃的眼神交流"
+        
+        # 平面设计元素
+        masthead = "顶部使用醒目的大号衬线字体标题，略微被人物头部遮挡"
+        subtitles = f"ai_infer(3-4 个简短有力、概括 {self.subject} 最大成就的词汇，左对齐)"
+        barcode = "角落处的标准杂志条形码和期号"
+        
+        return [wardrobe, pose, masthead, subtitles, barcode]
+
+# 执行：灯光必须为 {argument name="lighting style" default="rembrandt style"} —— 面部一侧呈现深邃阴影，另一侧采用完美的柔光箱照明。
+
+[English]
+class magazine_cover_shoot:
+    def __init__(self, subject="{argument name="historical figure" default="[historical_figure]"}"):
+        self.medium = "high-end editorial studio photography, 8k resolution"
+        self.layout = "classic prestige magazine cover (e.g., time or forbes)"
+        
+    def generate_editorial_content(self):
+        # ai inference: deduce the wardrobe, props, and text
+        wardrobe = f"ai_infer(highly detailed, era-accurate tailored clothing for {self.subject})"
+        pose = "resting chin on hand, thoughtful, piercing eye contact with the camera"
+        
+        # graphic design elements
+        masthead = "large, bold serif font title at the top, slightly occluded by the subject's head"
+        subtitles = f"ai_infer(3-4 short, punchy words summarizing {self.subject}'s greatest achievements, aligned left)"
+        barcode = "standard magazine barcode and issue number in the bottom corner"
+        
+        return [wardrobe, pose, masthead, subtitles, barcode]
+
+# execute: lighting must be {argument name="lighting style" default="rembrandt style"}—deep shadows on one side of the face, perfect softbox illumination on the other.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2061390045974864311) | 2026-06-01
+
+---
+
+
+### 🎴 例 396：充满活力的强对比度数字拼贴画
+
+![充满活力的强对比度数字拼贴画](../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E5%BC%BA%E5%AF%B9%E6%AF%94%E5%BA%A6%E6%95%B0%E5%AD%97%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅高对比度、充满活力的数字拼贴画，背景为鲜艳的 {argument name="background color" default="红色渐变"}。顶部的大号大写文字显示为“{argument name="branding" default="AvelyrahnAI"}”，采用简洁现代的字体。构图展示了同一位年轻女性两张截然不同且自信的形象，其面部特征和精致的侧编发型与参考图 100% 一致。上方的大幅肖像中，她自信地微笑着，身穿浅粉色连帽衫，头上戴着时尚墨镜，佩戴着现代感十足的手表，一只手靠近头发。前方较小的全身像中，她呈现出动态、俏皮的舞蹈/迈步姿势，身穿深绿色衬衫、黑色修身长裤，佩戴墨镜和潮流手表。侧面有一个小型的签名式水印“{argument name="watermark" default="AvelyrahnAi creation"}”，底部则是一个精致的 YouTube 标志及链接文字“Pardesilog386”。光线明亮柔和，呈现出一种类似 Photoshop 精修的喷绘质感。
+
+[English]
+A high-contrast, energetic digital collage on a vibrant solid {argument name="background color" default="red gradient"} background. Large uppercase text across the top reads “{argument name="branding" default="AvelyrahnAI"}” in a clean, modern font. The composition features two distinct, confident images of the same young woman, whose specific face and elaborate side-braid hairstyle are 100% accurate to the reference The large upper portrait shows her smiling confidently, wearing a light pink hoodie, stylish sunglasses on her head, and a modern wristwatch, with one hand near her hair. The second, smaller full-body image in front shows her in a dynamic, playful dancing/stepping pose, wearing a dark green button-up shirt, black tailored trousers, sunglasses, and a trendy watch. A small signature-style watermark "{argument name="watermark" default="AvelyrahnAi creation"}" is on the side, and a subtle YouTube logo with link text "Pardesilog386" is at the bottom. The lighting is bright and smooth, giving a slightly airbrushed, edited Photoshop look.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2061368984944201957) | 2026-06-01
+
+---
+
+
+### 🎴 例 397：首尔水彩旅行海报
+
+![首尔水彩旅行海报](../images/%E9%A6%96%E5%B0%94%E6%B0%B4%E5%BD%A9%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+迷人的 {argument name="location" default="首尔"} 旅行海报，采用 {argument name="style" default="精致水彩与水墨速写"} 风格，描绘了 {argument name="vibe" default="宁静的韩国都市生活"} 场景，极简白色背景，配以优雅的“SEOUL”字样，柔和的淡彩水彩渲染，细腻的建筑线条，温馨的氛围，传统与现代首尔的融合，林荫大道，温暖的黄金时刻光影，漫步的人群，咖啡馆，书店，面包店，自行车，郁郁葱葱的绿植，韩式美学，都市速写艺术，构图简洁且留白充裕，轻盈的夏日氛围，水彩纸纹理，吉卜力工作室风格的宁静感，杰作，超高细节，8k
+
+[English]
+Charming {argument name="location" default="Seoul"} travel poster in {argument name="style" default="delicate watercolor and ink sketch"} style, {argument name="vibe" default="peaceful Korean urban lifestyle"} scene, minimalist white background with elegant typography reading “SEOUL”, soft pastel watercolor washes, fine architectural linework, cozy atmosphere, traditional and modern Seoul blending together, tree-lined streets, warm golden-hour lighting, people strolling, cafés, bookstores, bakeries, bicycles, lush greenery, Korean aesthetic, urban sketchbook art, clean composition with generous negative space, light summer mood, textured watercolor paper, Studio Ghibli-inspired tranquility, masterpiece, ultra detailed, 8k
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2061366314267254792) | 2026-06-01
+
+---
+
+
+### 🎴 例 399：奢华旅行剪贴簿海报
+
+![奢华旅行剪贴簿海报](../images/%E5%A5%A2%E5%8D%8E%E6%97%85%E8%A1%8C%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富、充满奢华旅行博主风格的拼贴海报，灵感源自撕纸剪贴簿美学。使用 {argument name="subject" default="一位留着凌乱金色短发的年轻金发女性"}，配以柔和的雀斑、深邃的棕色眼眸和优雅的五官。让她身着全黑高领毛衣、黑色西装外套、黑色工装裤，并佩戴金色配饰。她手持专业单反相机，在画面中呈现多种姿态。
+
+设计应包含：
+• 左侧展示一张大型社交媒体个人资料卡，名称为 "{argument name="name" default="Noor 🌸"}"，账号为 "{argument name="handle" default="@Noor_ul_ain43"}"
+• 蓝色认证徽章
+• 关于 AI 创作者和导师的个人简介
+• 9,007 位关注者和 4,654 位正在关注
+• 撕纸过渡效果，露出令人惊叹的阿尔卑斯山脉、水晶般清澈的湖泊和探险风景
+• 布局周围点缀着拍立得旅行照片
+• 手写旅行笔记和涂鸦
+• 复古世界
+
+[English]
+Create a highly detailed luxury travel influencer collage poster inspired by a torn-paper scrapbook aesthetic. Use a {argument name="subject" default="blonde-haired young woman with short messy golden hair"}, soft freckles, sharp brown eyes, and elegant facial features. Dress her in an all-black turtleneck, black blazer, black cargo pants, and gold accessories. She is holding a professional DSLR camera and appears in multiple poses across the composition.
+
+The design should feature:
+• A large social media profile card on the left with the name "{argument name="name" default="Noor 🌸"}" and handle "{argument name="handle" default="@Noor_ul_ain43"}"
+• Blue verification badge
+• Profile bio about AI creator and teacher
+• 9,007 followers and 4,654 following
+• Torn paper transitions revealing breathtaking alpine mountains, crystal lakes, and adventure landscapes
+• Polaroid travel photos pinned around the layout
+• Handwritten travel notes and doodles
+• Vintage world
+```
+
+**来源：** [@Noor 🌸](https://x.com/Noor_ul_ain43/status/2061360483412914321) | 2026-06-01
+
+---
+
+
+### 🎴 例 400：高端时尚 Lookbook 拼贴画
+
+![高端时尚 Lookbook 拼贴画](../images/%E9%AB%98%E7%AB%AF%E6%97%B6%E5%B0%9A%20Lookbook%20%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个专业的时尚 Lookbook 多面板拼贴网格，展示了 {argument name="model" default="一位留着精致胡须的时尚好莱坞男士"}。布局右侧是一张大型特写镜头，展示他随意坐着的姿态；左侧是一列三个较小的全身动作姿势。他穿着一套高端单色 {argument name="outfit color" default="奶油白色"} 奢华服装：超大款设计师连帽衫、配套的定制工装裤、一条精致的金色项链以及厚底白色设计师运动鞋。简洁的纯色 {argument name="background" default="暖米色摄影棚"} 背景。简洁的极简主义构图，商业时尚摄影，高端杂志社论风格，柔和的摄影棚灯光，焦点清晰，8k 分辨率。 --ar 1:1
+
+[English]
+A professional fashion lookbook multi-panel collage grid showcasing a {argument name="model" default="stylish Hollywood man with a well-groomed beard"}. The layout features one large close-up shot on the right showing him sitting casually, and a vertical column of three smaller full-body action poses on the left. He is wearing a high-end monochrome {argument name="outfit color" default="cream-white"} luxury outfit: an oversized designer hoodie, matching tailored cargo pants, a subtle gold chain necklace, and chunky white designer sneakers. Plain solid {argument name="background" default="warm beige studio"} background. Clean minimalist composition, commercial fashion photography, high-end magazine editorial, soft studio lighting, sharp focus, 8k resolution. --ar 1:1
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2061359665053872163) | 2026-06-01
+
+---
+
+
+### 🎴 例 404：迪拜城市景观双重曝光海报
+
+![迪拜城市景观双重曝光海报](../images/%E8%BF%AA%E6%8B%9C%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+商业海报设计，{argument name="subject" default="留着短卷发的帅气男性足球运动员"} 身穿米色衬衫，前景为自信的侧面肖像，看向右侧。双重曝光效果与迪拜城市景观背景融合。地标：哈利法塔、帆船酒店、迪拜码头天际线、朱美拉棕榈岛、沙漠沙丘、带有豪华跑车的高速公路、码头游艇。黄金时刻日落光影，暖色调，电影感，史诗感，奢华，进取。底部大号粗体文字：“DUBAI”，副标题为“BEYOND LIMITS”。高细节，8k，广告摄影，专业调色，镜头光晕，照片级真实感
+
+[English]
+Commercial poster design, {argument name="subject" default="handsome male footballer with short curly hair"} wearing beige shirt, confident profile portrait in foreground looking to right. Double exposure effect blending with Dubai cityscape background. Landmarks: Burj Khalifa, Burj Al Arab, Dubai Marina skyline, Palm Jumeirah, desert sand dunes, highway with luxury sports cars, yachts in marina. Golden hour sunset lighting, warm tones, cinematic, epic, luxurious, aspirational. Big bold text at bottom: "DUBAI" with subtitle "BEYOND LIMITS". High detail, 8k, advertising photography, professional color grading, lens flare, photorealistic
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2061349402719944864) | 2026-06-01
+
+---
+
+
+### 🎴 例 407：未来感运动时尚海报
+
+![未来感运动时尚海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%BF%90%E5%8A%A8%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+未来感高级运动时尚编辑海报，全身模特动态宽腿站姿，超大款极简白色卫衣搭配蓬松袖口，光泽感半透明降落伞裤，厚底白橙色运动鞋，利落凌乱盘发，金色夸张耳环，柔和自然妆容，自信的编辑风格表情，影棚时尚摄影，居中构图，平滑的中性米色渐变背景，模特身后带有大型抽象 {argument name="decorative element" default="光泽感红粉色有机 3D 充气气泡形状"}，醒目的超大白色字体 "{argument name="text" default="just"}" 部分置于主体后方，高端运动品牌广告美学，超洁净布光，柔和漫射的影棚阴影，奢华街头服饰广告，当代杂志封面设计，极简布局，微妙的未来感图形微缩文字，精细的商业时尚修图，锐利对焦，电影感柔和对比度，照片级真实感，高细节，8k
+
+[English]
+High-fashion futuristic sportswear editorial poster, full-body female model in dynamic wide-leg stance, oversized white minimalist sweatshirt with voluminous sleeves, glossy translucent parachute pants, chunky white-orange athletic sneakers, sleek messy updo hairstyle, gold statement earrings, soft natural makeup, confident editorial expression, studio fashion photography, centered composition, smooth neutral beige gradient background with large abstract {argument name="decorative element" default="glossy red-pink organic 3D inflatable blob shapes"} behind model, bold oversized white typography "{argument name="text" default="just"}" partially behind subject, premium athletic brand campaign aesthetic, ultra-clean lighting, soft diffused studio shadows, luxury streetwear advertisement, contemporary magazine cover design, minimalist layout, subtle futuristic graphic microtext, highly polished commercial fashion retouching, sharp focus, cinematic soft contrast, photorealistic, high detail, 8k
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2061342540176167002) | 2026-06-01
+
+---
+
+
+### 🎴 例 409：喜马拉雅徒步探险海报
+
+![喜马拉雅徒步探险海报](../images/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%BE%92%E6%AD%A5%E6%8E%A2%E9%99%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影质感户外探险海报，主角为一位 ({argument name="gender" default="男性"}) ({argument name="mountain range" default="喜马拉雅山脉"}) 登山徒步者，自信地站在岩石嶙峋的 ({argument name="mountain range" default="喜马拉雅山脉"}) 山峰之巅，身穿 ({argument name="shirt style" default="绿色格子法兰绒衬衫"}) ，（黑色徒步裤），（徒步靴），以及（背着一个挂满露营装备的大型探险背包），表情严肃坚定，眺望远方。
+背景为同一位徒步者的巨幅双重曝光肖像，与壮观的 ({argument name="mountain range" default="喜马拉雅山脉"}) 山地景观和云雾缭绕的山谷无缝融合。史诗般的 ({argument name="mountain range" default="喜马拉雅山脉"}) 山脉风光，云雾在峰峦间流动，日出氛围光，电影级旅行纪录片风格。
+英雄式构图，低角度视角，硬核户外探险美学，高端探险活动广告，逼真的徒步装备细节，体积雾，戏剧性的天空，自然的大地纹理，探险叙事氛围。
+大型粗体压缩排版文字：
+（"Maverick AI"）
+较小的标语：
+（"路之尽头，径之始也。"）
+附加小字：
+（"徒步 • 露营 • 探索"）
+奢华户外品牌排版，现代编辑设计，受《国家地理》启发的摄影风格，探险杂志封面风格，层叠深度构图，电影级调色，深蓝色与灰色调搭配金色排版点缀，超细节，超写实，清晰对焦，大气透视，HDR，8k，专业海报设计，3:4 纵横比。同时更换服装。
+
+[English]
+Ultra realistic cinematic outdoor adventure poster featuring a ({argument name="gender" default="male"}) ({argument name="mountain range" default="Himalayas"}) mountain hiker standing confidently on a rocky ({argument name="mountain range" default="Himalayas"}) mountain peak, wearing a ({argument name="shirt style" default="green plaid flannel shirt"}) , (black hiking pants) , (hiking boots) , and (a large expedition backpack with camping gear attached) , serious determined expression looking into the distance.
+Massive double exposure portrait of the same hiker in the background, blended seamlessly with dramatic ({argument name="mountain range" default="Himalayas"}) mountain landscapes and misty valleys. Epic ({argument name="mountain range" default="Himalayas"}) mountain range scenery, clouds flowing between peaks, sunrise atmospheric lighting, cinematic travel documentary style.
+Hero composition, low angle perspective, rugged outdoor explorer aesthetic, premium expedition campaign advertisement, realistic hiking equipment details, volumetric fog, dramatic sky, natural earth textures, adventure storytelling mood.
+Large bold condensed typography saying:
+("Maverick AI")
+Smaller tagline:
+("Where the road ends, the trail begins..")
+Additional small text:
+("HIKING • CAMPING • EXPLORING")
+Luxury outdoor brand layout, modern editorial design, National Geographic inspired photography, adventure magazine cover style, layered depth composition, cinematic color grading, deep blue and gray tones with gold typography accents, ultra detailed, hyper realistic, sharp focus, atmospheric perspective, HDR, 8k, professional poster design, 3:4 aspect ratio. Also change the clothes
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2061331323227435072) | 2026-06-01
+
+---

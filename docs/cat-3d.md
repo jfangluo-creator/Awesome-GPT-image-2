@@ -466,3 +466,98 @@ Paper craft cutout figure of a girl wearing a purple zip-up hoodie, grey knit he
 
 ---
 
+
+### 🧸 例 326：风格化 3D 卡通艺术项目
+
+![风格化 3D 卡通艺术项目](../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%203D%20%E5%8D%A1%E9%80%9A%E8%89%BA%E6%9C%AF%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一系列四个垂直 2:3 超高清风格化 3D {argument name="style" default="cartoon"} 编辑级渲染图。采用精致的玩具质感角色外观、光滑的哑光皮肤、富有表现力的大眼睛、清晰的轮廓、带有真实投影的柔和摄影棚灯光、细腻的背景颗粒感以及强烈的单色艺术指导。保持每张图像简洁、高级且与背景清晰分离，无文字、无水印、无 Logo。
+
+图像 1：一位风格化卡通女性，身穿修身罗纹蓝色吊带裙，短棕色乱发上架着一副红色太阳镜，脚穿红色蝴蝶结高跟凉鞋，以俏皮的弯曲姿势交叉双腿，站在纯色鲜艳的红色哑光摄影棚墙前。侧光在红色背景上投射出清晰的阴影。
+
+图像 2：一位开朗的风格化卡通女性，全绿旅行造型，黑色头发扎成两个麻花辫，戴着绿色鸭舌帽，无袖绿色短款上衣，宽松的绿色束脚裤，白色运动鞋，一根手指轻触嘴唇，手握一个亮面绿色硬壳行李箱的拉杆。纯绿色摄影棚背景，全身照，平视视角。
+
+图像 3：一个温馨的居中场景，两个风格化卡通角色坐在深红色房间的红色沙发上。左侧的女性裹着质感红色毯子，赤脚，表情平静，双眼向上看。右侧的男性裹着橙色质感毯子，穿着袜子，表情中性温和，向上凝视。采用平衡的对称构图，针织面料质感，温暖怀旧的灯光，以及布艺质感的红色墙面。
+
+图像 4：一位红发风格化卡通女孩站在温暖米色房间的挂墙镜前。展示她的背影，极长的亮面红发垂在背上，镜中倒映出她担忧的小脸、蓝色眼睛、红色服装以及柔和的焦虑表情。侧面柔和的阳光，干净的地板，简单的镜框，充满情感的故事书氛围。
+
+全局质量：8K，超高清，高细节 3D 渲染，逼真的柔和阴影，极致清晰度，边缘锐利，无噪点，无压缩，高级编辑级构图，色块背景，电影感但极简。
+
+[English]
+Create a vertical 2:3 ultra high definition series of four stylized 3D {argument name="style" default="cartoon"} editorial renders. Use a polished toy-like character finish, smooth matte skin, expressive oversized eyes, crisp silhouettes, soft studio lighting with realistic cast shadows, subtle backdrop grain, and strong single-color art direction. Keep each image clean, premium, and sharply separated from the background, with no text, no watermark, and no logo.
+
+Image 1: a stylized cartoon woman in a fitted ribbed blue dress with thin straps, red sunglasses resting on short tousled brown hair, red bow high-heel sandals, standing in a playful curved pose with crossed legs against a solid vivid red matte studio wall. Side lighting creates a defined shadow on the red background.
+
+Image 2: a cheerful stylized cartoon woman in an all-green travel look, black hair in two braided pigtails, green cap, sleeveless green crop top, loose green jogger pants with a drawstring, white sneakers, one finger touching her lips, holding the handle of a glossy green hard-shell suitcase. Solid green studio background, full body, eye-level camera.
+
+Image 3: a cozy centered scene of two stylized cartoon characters sitting on a red sofa in a deep red room. The woman on the left is wrapped in a textured red blanket, barefoot, calm expression, eyes looking upward. The man on the right is wrapped in an orange textured blanket, wearing socks, neutral gentle upward gaze. Use a balanced symmetrical composition, knitted fabric texture, warm nostalgic lighting, and a fabric-like red wall.
+
+Image 4: a red-haired stylized cartoon girl standing in front of a wall mirror in a warm beige room. Show her from behind with extremely long glossy red hair flowing down her back, while the mirror reflection shows her small worried face, blue eyes, red outfit, and soft anxious expression. Gentle sunlight from the side, clean floor, simple mirror frame, emotional storybook mood.
+
+Global quality: 8K, ultra-high definition, high-detail 3D render, realistic soft shadows, extreme clarity, crisp edges, no noise, no compression, premium editorial composition, color-block backgrounds, cinematic but minimal.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2061590939140010068) | 2026-06-01
+
+---
+
+
+### 🧸 例 336：女孩与巨型毛绒熊猫
+
+![女孩与巨型毛绒熊猫](../images/%E5%A5%B3%E5%AD%A9%E4%B8%8E%E5%B7%A8%E5%9E%8B%E6%AF%9B%E7%BB%92%E7%86%8A%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 {argument name="subject" default="上传的女孩图片"} 作为主体。复刻参考图中的精确姿势、构图、摄影棚布景以及温暖的单色美学风格。将巨型泰迪熊替换为 {argument name="object" default="超大号毛绒熊猫"}。女孩坐在地板上，手持智能手机，身穿黑色高领毛衣和米色套装。柔和的电影级摄影棚灯光，奢华杂志大片质感，超写实细节，温暖的米色背景，高端时尚杂志风格。在背景中加入大号且优雅的艺术草书字体 "{argument name="text" default="NOOR"}"，并与背景巧妙融合。超写实，8K 分辨率，柔和阴影，简洁极简构图，熊猫毛发细节丰富，专业摄影棚肖像。
+
+[English]
+Use the {argument name="subject" default="uploaded girl image"} as the subject. Recreate the exact pose, framing, studio setup, and warm monochrome aesthetic of the reference image. Replace the giant teddy bear with an {argument name="object" default="oversized plush panda"}. The girl is seated on the floor holding a smartphone, wearing a black turtleneck and beige outfit. Soft cinematic studio lighting, luxury editorial photography, ultra-realistic details, warm beige background, premium fashion-magazine look. Add the word "{argument name="text" default="NOOR"}" in large elegant aesthetic cursive typography across the background, subtly blended into the backdrop. Hyper-realistic, 8K, soft shadows, clean minimalist composition, highly detailed panda fur, professional studio portrait.
+```
+
+**来源：** [@Noor 🌸](https://x.com/Noor_ul_ain43/status/2061501949070156194) | 2026-06-01
+
+---
+
+
+### 🧸 例 359：像素玻璃外星人与宇航员的邂逅
+
+![像素玻璃外星人与宇航员的邂逅](../images/%E5%83%8F%E7%B4%A0%E7%8E%BB%E7%92%83%E5%A4%96%E6%98%9F%E4%BA%BA%E4%B8%8E%E5%AE%87%E8%88%AA%E5%91%98%E7%9A%84%E9%82%82%E9%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 1:1 正方形、极其简洁的超现实科幻艺术作品，采用现代像素玻璃美学。画面正中展示两个完整的侧面全身主体：左侧为 {argument name="alien character" default="一位高挑的半透明类人外星人"}，拥有平滑的细长头部、巨大的深色杏仁眼、纤细的脖颈以及由磨砂透明玻璃构成的精致躯体，体内填充着淡淡的星云色彩；右侧为 {argument name="human explorer" default="一名身穿白色舱外活动宇航服的宇航员"}，配有反光头盔面罩、罗纹宇航服关节、胸部模块、软管、手套和厚重的背包。他们抬起的手在画面正中心轻轻相触，指尖之间散发出微弱的暖光。两个人物部分消融为半透明的方形像素块和玻璃立方体：画面中包含两个主要的像素消融区域，分别环绕着外星人和宇航员，轮廓周围漂浮着许多大小不一的半透明方块。使用深黑色渐变摄影棚背景，带有柔和的雾气、细微的烟雾、微小的闪烁颗粒，以及在人物下方投射出淡淡倒影的深色光泽地面。灯光应融合冷蓝色调的轮廓光，外星人体内点缀着微妙的粉色、紫色和琥珀色宇宙高光，指尖接触处则散发着温暖的金色光芒。相机采用正对视角、平视高度、居中构图，使用 85mm 清晰摄影棚镜头拍摄，主体清晰锐利，景深较浅，负空间平衡，静态对称构图，呈现出写实渲染与抽象数字碎片化融合的效果。无文字，无 Logo，无水印，无额外字符。
+
+[English]
+Create a square 1:1 ultra-clean surreal sci-fi artwork in a modern pixel-glass aesthetic. Show exactly two centered full-body subjects facing each other in profile: on the left, {argument name="alien character" default="a tall translucent humanoid alien"} with a smooth elongated head, large dark almond eye, slender neck and delicate body made of transparent frosted glass filled with faint nebula colors; on the right, {argument name="human explorer" default="an astronaut in a white EVA spacesuit"} with a reflective helmet visor, ribbed suit joints, chest module, hoses, gloves, and a bulky backpack. Their raised hands meet gently palm-to-palm at the exact center, creating a small warm glow between their fingertips. Both figures partially dissolve into translucent square pixel blocks and glass cubes: count two main dissolving pixel fields, one surrounding the alien and one surrounding the astronaut, with many semi-transparent squares of varied sizes floating outward around their silhouettes. Use a deep black gradient studio background with soft haze, subtle smoke, tiny glittering particles, and a glossy dark floor that creates faint reflections beneath the figures. Lighting should mix cool blue-white rim light with subtle pink, violet, and amber cosmic highlights inside the alien body and warm golden light at the touching hands. Camera is front-facing, eye-level, centered, shot with an 85mm clean studio lens, crisp subject clarity, shallow depth of field, balanced negative space, static symmetrical composition, photorealistic rendering blended with abstract digital fragmentation. No text, no logo, no watermark, no extra characters.
+```
+
+**来源：** [@elinak100](https://x.com/elina_k100/status/2061447949796937893#reversed-0) | 2026-06-01
+
+---
+
+
+### 🧸 例 386：手工珐琅纪念冰箱贴
+
+![手工珐琅纪念冰箱贴](../images/%E6%89%8B%E5%B7%A5%E7%8F%90%E7%90%85%E7%BA%AA%E5%BF%B5%E5%86%B0%E7%AE%B1%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个基于 {argument name="reference" default="上传照片"} 的优质可收藏手工珐琅纪念冰箱贴。保留原图中的 {argument name="subject" default="主体人物"}，并将其自然地融入构图，作为中心主体。将冰箱贴设计为具有雕塑感深度、凹陷珐琅区域和超薄抛光金金属轮廓的逼真三维珐琅物件。仅在重要的形状和地标上使用选择性的金色勾勒，不要勾勒每一个细节。冰箱贴必须具有优雅的有机轮廓，遵循原图中地标、建筑和景观的形状。避免使用方形、矩形、圆形框架、贴纸、边框、徽章或牌匾。构图应突出展示：原图中的人物、关键建筑和地标、风景元素、真实的旅行目的地氛围。材质与渲染：逼真的手工珐琅质感、浮雕金金属边缘、博物馆商店级的优质纪念品、电影级奢华旅行收藏品美学、柔和的摄影棚灯光、金属表面微妙的反射、柔和逼真的阴影、高端产品摄影质感、超精细的 3D 深度。背景：使用简洁的极简主义背景，其颜色与原图中的主色调之一相匹配。排版：在冰箱贴下方居中放置优雅的衬线字体。排版风格：奢华编辑衬线字体、全大写字母、非常宽的字间距、极简主义旅行海报美学、精致的奢华品牌感。文本层级：主要的 {argument name="city" default="目的地/城市名称"} 字体较大且醒目，{argument name="region" default="国家或地区"} 名称在下方较小。最终输出：奢华旅游纪念品广告、博物馆商店可收藏珐琅冰箱贴、超逼真产品摄影、8K 分辨率、高度精细、精湛工艺、优雅极简主义。
+
+[English]
+Create a premium collectible handmade enamel souvenir magnet based on the {argument name="reference" default="uploaded photo"}. Preserve the {argument name="subject" default="main person"} from the original image and integrate them naturally into the composition as the central subject. Design the magnet as a realistic three-dimensional enamel object with sculpted depth, recessed enamel areas, and ultra-thin polished gold metal contours. Use selective gold outlining only on important shapes and landmarks. Do not outline every detail. The magnet must have an elegant organic silhouette that follows the shape of the landmark, architecture, and landscape from the original image. Avoid square, rectangular, circular frames, stickers, borders, badges, or plaques. The composition should prominently feature: The person from the original photo, Key architecture and landmarks, Scenic landscape elements, Authentic travel destination atmosphere. Material and rendering: Realistic handcrafted enamel texture, Embossed gold metal edges, Premium museum-store souvenir quality, Cinematic luxury travel collectible aesthetic, Soft studio lighting, Subtle reflections on metal surfaces, Gentle realistic shadows, High-end product photography look, Ultra-detailed 3D depth. Background: Use a clean minimalist background whose color matches one of the dominant colors from the original image. Typography: Place elegant serif typography centered beneath the magnet. Typography style: Luxury editorial serif font, All capital letters, Very wide letter spacing, Minimalist travel-poster aesthetic, Sophisticated luxury branding. Text hierarchy: Main {argument name="city" default="destination/city name"} large and prominent, {argument name="region" default="Country or region"} name smaller underneath. Final output: Luxury tourism souvenir advertisement, museum-shop collectible enamel magnet, ultra-realistic product photography, 8K, highly detailed, premium craftsmanship, elegant minimalism.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2061387471439712383) | 2026-06-01
+
+---

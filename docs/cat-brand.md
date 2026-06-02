@@ -872,3 +872,353 @@ Create a cinematic luxury fashion editorial portrait of {argument name="characte
 
 ---
 
+
+### 🏷️ 例 335：手工珐琅纪念品磁贴设计
+
+![手工珐琅纪念品磁贴设计](../images/%E6%89%8B%E5%B7%A5%E7%8F%90%E7%90%85%E7%BA%AA%E5%BF%B5%E5%93%81%E7%A3%81%E8%B4%B4%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个逼真的手工珐琅纪念品磁贴，灵感来源于 {argument name="subject" default="上传的场景"}。
+
+• 一款高端旅行收藏级磁贴
+
+• 逼真的三维金属深度
+
+• 珐琅填充的深陷区域
+
+• 金色浮雕金属边缘
+
+• 柔和的反光与摄影棚灯光
+
+• 逼真的珐琅质感
+
+• 柔和细腻的阴影
+
+重要提示：
+
+• 仅保留极细的选择性金色轮廓
+
+• 避免强调每一个细节
+
+• 避免使用大边框或贴纸
+
+• 不要是扁平插画
+
+• 不要是矢量图形
+
+• 不要是卡通风格
+
+• 图片应描绘人物，而不仅仅是风景。
+
+• 您所创建图像的背景颜色应与我发送图片中的主色调之一相近。
+
+构图：
+
+• 聚焦于风景、建筑和景观
+
+形状：• 重复地标轮廓的有机雕塑剪影；• 优雅的非对称轮廓；• 无方形或矩形边框；
+
+整体风格：• 电影质感的奢华旅游纪念品；• 精致的极简主义；• 美学手工珐琅磁贴；• 博物馆商店收藏级纪念品的品质。
+
+印刷排版：
+
+在磁贴下方添加优雅的衬线字体排版。
+
+字体风格：
+
+* 奢华的编辑类衬线体
+
+* 精致优雅的字体
+
+* 大写字母
+
+* 极宽的字间距
+
+* 居中对齐
+
+* 旅行海报的极简美学
+
+* 冷静的奢华品牌风格
+
+文本层级：
+
+* {argument name="location" default="主要定居点"} 的名称需放大，并与图像相呼应
+
+[English]
+Create a realistic handmade enamel souvenir magnet inspired by the {argument name="subject" default="uploaded scene"}.
+
+• A collectible magnet for premium travel
+
+• Realistic three-dimensional metal depth
+
+• deepened areas of enamel
+
+• embossed metal edges made of gold
+
+• Soft glare and studio lighting
+
+• Realistic enamel texture
+
+• Gentle soft shadows
+
+important:
+
+• Ultra-thin selective gold contours only
+
+• Avoid emphasizing every detail.
+
+• Avoid large frames or stickers
+
+• NOT a flat illustration
+
+• NOT vector graphics
+
+• NOT a cartoon
+
+• The picture should depict a person, not just a landscape.
+
+• The background color of the image you are creating should be similar to one of the dominant colors in the image I sent.
+
+composition:
+
+• Focus on landscapes, architecture and landscape
+
+shape: • organic sculptural silhouette that repeats the landmark; • elegant asymmetrical contour; • absence of square or rectangular framing;
+
+GENERAL STYLE: • a cinematic luxury tourist souvenir; • refined minimalism; • an aesthetic handmade enamel magnet; • the quality of collectible souvenirs in museum stores.
+
+printing house:
+
+Add elegant serif typography under the magnet.
+
+Typographic style:
+
+* Luxurious editorial serif
+
+* Fine elegant font
+
+* capital letters
+
+* a very wide interval between them
+
+* Center alignment
+
+* minimalistic aesthetics of travel posters
+
+* Calm luxury branding style
+
+The hierarchy of the text:
+
+* The name of the {argument name="location" default="main settlement"} is enlarged: and corresponds to the image
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2061504832121528766) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 339：Nike Sportswear 编辑类广告
+
+![Nike Sportswear 编辑类广告](../images/Nike%20Sportswear%20%E7%BC%96%E8%BE%91%E7%B1%BB%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 {argument name="brand" default="NIKE"} 运动服饰广告，{argument name="subject" default="运动型印度女性跑步者"} 呈现强有力的起跑姿态，一只手触碰潮湿且具反射感的地面。专注的表情，深青色防风夹克，焦橙色高性能 T 恤，黑色紧身压缩裤，白色 NIKE 袜子。超细节的白色 NIKE 跑步鞋配以橙色点缀作为视觉焦点，逼真的网面纹理和清晰可见的缓震设计。深色工业风隧道背景，带有橙色光影线条，电影级布光，鞋底溅起的水花，高端编辑类体育摄影。左侧有醒目的大号字体 "{argument name="slogan" default="JUST DO IT"}"（JUST 为白色，DO IT 为橙色轮廓），极简性能数据 UI，NIKE 标志，奢华商业广告美学，超锐利，照片级真实感，8K 分辨率，高对比度，专业的以产品为中心的构图，宽高比 4:5 (1080&#215;1350)。
+
+[English]
+Hyper-realistic {argument name="brand" default="NIKE"} sportswear advertisement, {argument name="subject" default="athletic Indian female runner"} in powerful sprint-start stance, one hand touching wet reflective ground. focused expression, deep teal windbreaker, burnt-orange performance tee, black compression tights, white NIKE socks. Ultra-detailed white NIKE running shoes with orange accents as hero focus, realistic mesh texture and visible cushioning. Dark industrial tunnel background with orange light streaks, cinematic lighting, water splashes under shoe, premium editorial sports photography. Large bold typography "{argument name="slogan" default="JUST DO IT"}" on left (JUST in white, DO IT in orange outline), minimal performance stats UI, NIKE logo, luxury commercial campaign aesthetic, ultra-sharp, photorealistic, 8K, high contrast, professional product-first composition, aspect ratio 4:5 (1080&#215;1350).
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2061491020316168592) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 343：写实商业饮料广告
+
+![写实商业饮料广告](../images/%E5%86%99%E5%AE%9E%E5%95%86%E4%B8%9A%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 {argument name="product type" default="商业饮料"} 广告海报，低角度广角镜头视角，自信的年轻女模特手持超大号 {argument name="object" default="汽水罐"} 朝向镜头，罐体占据前景，具有强烈的强制透视效果，都市街头时尚，黑色鸭舌帽，圆环耳环，叠戴银色项链，白色短款背心，与产品颜色相呼应的光泽感飞行员夹克，前卫的 Gen-Z 活力。高细节铝罐，表面带有水珠，高级包装设计，鲜艳的品牌字体，涂鸦风格图形，手绘涂鸦，油漆飞溅，笔触，撕纸纹理，半色调圆点，箭头，星星，闪电，贴纸，条形码元素，拼贴美学。
+背景充满动态的油漆飞溅和与品牌颜色相匹配的街头艺术纹理。醒目的手绘标题字体，充满活力的促销标语，口味宣传语，生活方式营销短语，杂志级排版，现代能量饮料广告，高对比度照明，锐利对焦，商业产品摄影，时尚编辑风格，高级广告设计，鲜艳色彩，照片级皮肤纹理，景深，高细节，8k，专业品牌样机。
+
+[English]
+Ultra-realistic {argument name="product type" default="commercial beverage"} advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized {argument name="object" default="soda can"} toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.
+Background filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2061471709690233223) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 352：霓虹城市汽水广告
+
+![霓虹城市汽水广告](../images/%E9%9C%93%E8%99%B9%E5%9F%8E%E5%B8%82%E6%B1%BD%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感超写实的夜间广告场景，画面中有一个巨大的玻璃 {argument name="product" default="Coca-Cola 瓶子"} 矗立在霓虹闪烁的湿润城市街道上。在巨大的 {argument name="product" default="Coca-Cola 瓶子"} 旁边，有一位 {argument name="subject" default="美丽且面带微笑的年轻女性"} 正以放松而自信的姿态随意地靠在瓶身上。她穿着一件舒适的黄色廓形卫衣、修身灰色牛仔裤和干净的白色运动鞋。背景呈现出色彩斑斓的城市光斑、湿润路面上红色的发光倒影，以及充满活力的未来感城市氛围。瓶身上的 {argument name="product" default="Coca-Cola 标志"} 清晰可见。采用戏剧性的电影灯光、浅景深、逼真的倒影、光泽质感、高细节、写实风格、时尚商业美学、8k 分辨率、柔和光晕、暖色调以及真实的比例。竖构图，杂志风格摄影，高端饮料广告质感。
+
+[English]
+Create a cinematic ultra-realistic nighttime advertisement scene featuring a giant glass {argument name="product" default="Coca-Cola bottle"} standing on a wet neon-lit city street. Beside the oversized {argument name="product" default="Coca-Cola bottle"} is a {argument name="subject" default="beautiful smiling young woman"} casually leaning against it with a relaxed and confident pose. She wears a cozy oversized yellow sweatshirt, fitted gray jeans, and clean white sneakers. The background features colorful urban bokeh lights, glowing red reflections on the wet pavement, and a vibrant futuristic city atmosphere. The {argument name="product" default="Coca-Cola logo"} is clearly visible on the bottle. Use dramatic cinematic lighting, shallow depth of field, realistic reflections, glossy textures, high detail, photorealistic style, fashion-commercial aesthetic, 8k resolution, soft glow, warm tones, and realistic proportions. Vertical composition, magazine-style photography, premium beverage advertisement vibe.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2061456455447069141) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 355：奢华运动服饰广告海报
+
+![奢华运动服饰广告海报](../images/%E5%A5%A2%E5%8D%8E%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将醒目的高端运动服饰广告排版直接融入构图中。文字应呈现出专业设计感，遵循现代 Nike、Adidas 及奢华运动系列广告的审美风格。
+
+主标题（大号）：
+"{argument name="headline" default="ENGINEERED FOR SPEED"}"
+
+将标题垂直放置在海报一侧，并使其部分位于鞋子后方，以营造深度和视觉层次感。使用具有干净几何形态且极具存在感的粗体现代无衬线字体。
+副标题：
+"{argument name="subheading" default="EVERY STEP. FASTER."}"
+
+放置在主标题下方，采用较小的字体，并保持宽裕的字间距，呈现高级编辑排版风格。
+
+特性标注：
+
+ULTRA-LIGHT MESH (超轻网面)
+RESPONSIVE ENERGY RETURN (响应式能量回馈)
+MAXIMUM TRACTION (极致抓地力)
+PRECISION FIT TECHNOLOGY (精准贴合技术)
+
+将这些内容显示为精致的技术标签，通过纤细的未来感指示线和微妙的界面图形连接到鞋子的不同部位。
+背景图形文字：
+创建超大号的半透明排版，内容为：
+
+RUN
+MOVE
+ACCELERATE
+
+这些词汇应作为大型图形设计元素融入背景中，被画面部分裁剪，并与灯光效果产生互动。
+
+性能徽章：
+创建一个包含以下内容的高级圆形徽章：
+
++35% ENERGY RETURN
+
+以现代信息图表风格放置在鞋底附近。
+底部品牌区域：
+预留干净的留白空间，用于放置虚构的品牌 Logo 和标语：
+
+{argument name="brand name" default="VELOCITY X"}
+"Built Beyond Limits"
+
+排版应与艺术作品融为一体，运用高级编辑布局、强烈的层级感、平衡的间距、先进的网格系统以及奢华运动服饰广告的审美。最终图像应呈现出如同屡获殊荣的国际广告海报，完美结合世界级产品摄影、平面设计和未来感品牌形象。
+
+[English]
+Integrate bold, premium sportswear advertising typography directly into the composition. The text should appear professionally designed, following modern Nike, Adidas, and luxury athletic campaign aesthetics.
+
+Main Headline (Large):
+"{argument name="headline" default="ENGINEERED FOR SPEED"}"
+
+Position the headline vertically along one side of the poster and partially behind the shoe, creating depth and visual layering. Use a bold modern sans-serif font with clean geometric forms and strong presence.
+Secondary Headline:
+"{argument name="subheading" default="EVERY STEP. FASTER."}"
+
+Place below the main headline in smaller typography with generous spacing and premium editorial styling.
+
+Feature Callouts:
+
+ULTRA-LIGHT MESH
+RESPONSIVE ENERGY RETURN
+MAXIMUM TRACTION
+PRECISION FIT TECHNOLOGY
+
+Display these as sleek technical labels connected to different parts of the shoe using thin futuristic indicator lines and subtle interface graphics.
+Background Graphic Text:
+Create oversized semi-transparent typography reading:
+
+RUN
+MOVE
+ACCELERATE
+
+These words should blend into the background as large graphic design elements, partially cropped by the frame and interacting with lighting effects.
+
+Performance Badge:
+Create a premium circular badge containing:
+
++35% ENERGY RETURN
+
+Position near the sole with modern infographic styling.
+Bottom Branding Area:
+Reserve clean negative space for a fictional brand logo and slogan:
+
+{argument name="brand name" default="VELOCITY X"}
+"Built Beyond Limits"
+
+The typography should feel integrated into the artwork, using premium editorial layouts, strong hierarchy, balanced spacing, advanced grid systems, and luxury sportswear campaign aesthetics. The final image should resemble an award-winning international advertising poster combining world-class product photography, graphic design, and futuristic branding.
+```
+
+**来源：** [@VireonixArt](https://x.com/vireonixx/status/2061454355103187361) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 366：高端薰衣草色智能手机广告
+
+![高端薰衣草色智能手机广告](../images/%E9%AB%98%E7%AB%AF%E8%96%B0%E8%A1%A3%E8%8D%89%E8%89%B2%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实高端智能手机广告，主角是一位 20 出头、自信的年轻女性，皮肤白皙，五官轮廓分明，佩戴着时髦的黑色猫眼太阳镜。她留着浓密的长发，编成夸张的超长辫子，发色为与产品主题相呼应的柔和薰衣草紫。画面采用动态低角度电影级构图，她身体微微扭转，将 Xiaomi 17 Pro 智能手机伸向镜头，形成强烈的视觉冲击力，手机占据前景主体。手机采用哑光金属薰衣草紫配色，机身简约，边角圆润，配有大型矩形摄像头模组。模组左侧包含两枚大尺寸镜头，右侧圆形副屏显示简约的紫色渐变时钟 UI，摄像头旁印有 Leica 标识，配有简洁的闪光灯条，底部带有精致的 Xiaomi 品牌标识。服装：柔和薰衣草紫修身长袖露脐上衣，搭配高腰灰橄榄色工装裤，呈现现代科技时尚美学。背景：从浅灰到柔和薰衣草紫的简洁渐变，带有模糊的大型字体以增加深度。光影：柔和的摄影棚灯光，色调中性偏冷，皮肤质感细腻，手机边缘有受控的高光，镜头和显示屏呈现光泽反射，阴影极少，呈现高端产品摄影风格。构图：低角度拍摄以展现强大气场，人物位于画面左侧，手机占据右侧前景，留出干净的负空间用于品牌展示。未来感 UI 叠加：细小的白色/紫色线条和节点指向产品特性，并配有悬浮标签：“Leica Camera System”（徕卡影像系统）、“Secondary Display Integration”（副屏集成）、“Ultra-Slim Premium Design”（超薄高端设计）。左下角设有毛玻璃效果面板，列出：“Flagship Performance”（旗舰性能）、“Advanced AI Imaging”（先进 AI 影像）、“Fast Charging”（快速充电）、“Next-Gen Xiaomi AI”（新一代 Xiaomi AI）。顶部角落文字：“Xiaomi 17 Pro”，采用简洁现代的无衬线字体。风格：高端旗舰智能手机广告，未来感，极简，优雅。画质：8K，超细节，焦点清晰，HDR，电影级商业摄影，真实质感。4:5 比例
+
+[English]
+Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in soft lavender/purple tones matching the product theme. She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a Xiaomi 17 Pro smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground. The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom. Outfit: fitted long-sleeve crop top in soft lavender/purple, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic. Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth. Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style. Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding. Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: “Leica Camera System” “Secondary Display Integration” “Ultra-Slim Premium Design” Glassmorphism panel (bottom-left, soft purple tint) listing: “Flagship Performance” “Advanced AI Imaging” “Fast Charging” “Next-Gen Xiaomi AI” Top corner text: “Xiaomi 17 Pro” in clean modern sans-serif typography. Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant. Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures. 4:5 ratio
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2061426704871227663) | 2026-06-01
+
+---
+
+
+### 🏷️ 例 395：动态饮料广告
+
+![动态饮料广告](../images/%E5%8A%A8%E6%80%81%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位年轻女性在半空中跳跃的姿势，高马尾飞扬，脸上洋溢着纯粹的兴奋，身穿白色短款上衣，{argument name="shorts color" default="荧光绿运动短裤"}，带有青柠色点缀的透明 PVC 防风外套，带有绿色细节的白色运动鞋。她单手将一杯冰饮向上抛起，下方放置着一个 {argument name="brand product" default="巨大的超大号 Sprite 罐装饮料"}，周围环绕着爆炸般的冰块和水花。{argument name="background color" default="薄荷绿"} 工作室背景，带有戏剧性的背光光晕。半空中凝固的水滴和气泡。全身动态镜头，超逼真 3D 渲染，超写实商业摄影，光泽感反射地面，8K 分辨率，电影级动作照明。
+
+--style raw, photorealistic, commercial ad campaign,
+8K resolution, studio photography, product visualization,
+hyperdetailed water droplets, cinematic lighting 1744x2336
+
+[English]
+A young woman mid-air jumping pose, high ponytail flying, pure excitement on her face, wearing a white crop top, {argument name="shorts color" default="neon green athletic shorts"}, transparent PVC windbreaker with lime accents, white sneakers with green details. She tosses an iced drink glass upward with one hand while a {argument name="brand product" default="giant oversized Sprite can"} sits below surrounded by explosive ice cube burst and water splash. {argument name="background color" default="Mint green"} studio background with dramatic backlight bloom. Frozen motion water droplets and bubbles mid-air. Full body dynamic shot, ultra realistic 3D render, hyperrealistic commercial photography, glossy reflective floor, 8K resolution, cinematic action lighting.
+
+--style raw, photorealistic, commercial ad campaign,
+8K resolution, studio photography, product visualization,
+hyperdetailed water droplets, cinematic lighting 1744x2336
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2061370516762776013) | 2026-06-01
+
+---

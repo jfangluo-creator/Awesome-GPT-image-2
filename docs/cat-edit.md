@@ -219,3 +219,65 @@ Using the provided reference image, refine and restore the old damaged photo int
 
 ---
 
+
+### 🔧 例 356：蒸汽朋克风格：双手持旧照片
+
+![蒸汽朋克风格：双手持旧照片](../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%EF%BC%9A%E5%8F%8C%E6%89%8B%E6%8C%81%E6%97%A7%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为构图和摄像机位置的参考，将草图转化为电影质感的蒸汽朋克场景：前景中两只黄铜机械手以参考图所示的角度和位置，持有一张磨损的棕褐色旧照片。外部场景设定在复古火车车厢内，配有深色皮革座椅、温暖的木质装饰、左侧窗户以及充满氛围感的琥珀色灯光。照片内部展示发条修理店前的古董街道场景：包含 2 个主要主体，分别为一名面部模糊/被遮挡的跪地成年发明家，以及站在其身旁的一个小型圆体机器人。添加旧照片细节，包括折痕、磨损的边角、泛黄的边缘以及褪色的单色棕色调。保持整体外观的写实感、电影感、细节丰富且富有怀旧气息，照片外部采用浅景深效果。可自定义细节：{argument name="outer setting" default="复古火车车厢"}, {argument name="photo subject setting" default="发条修理店街道"}, {argument name="main human role" default="成年发明家"}, {argument name="companion character" default="小型圆体机器人"}, {argument name="color mood" default="温暖的蒸汽朋克棕褐色"}。约束条件：保留双手框住倾斜矩形照片的参考构图；包含 2 只可见的机械手持 1 张照片；照片内包含 2 个主要人物；避免出现现代物品、简洁的数字 UI 或除商店招牌以外的额外文字。
+
+[English]
+Using REFERENCE_0 as a rough composition and camera-position guide, turn the sketch into a cinematic steampunk scene: two brass mechanical hands in the foreground hold a worn, sepia-toned old photograph at the same angle and position indicated by the reference. Set the outer scene inside a vintage train carriage with dark leather seats, warm wood trim, a window on the left, and moody amber lighting. Inside the photograph, show an antique street scene in front of a clockwork repair shop: exactly 2 main subjects, a kneeling adult inventor with a blurred/obscured face and a small round-bodied robot standing beside them. Add aged photo details including creases, scuffed corners, yellowed borders, and faded monochrome-brown coloration. Keep the overall look photorealistic, cinematic, detailed, and nostalgic, with shallow depth of field outside the photograph. Customizable details: {argument name="outer setting" default="vintage train carriage"}, {argument name="photo subject setting" default="clockwork repair shop street"}, {argument name="main human role" default="adult inventor"}, {argument name="companion character" default="small round-bodied robot"}, {argument name="color mood" default="warm sepia steampunk"}. Constraints: preserve the reference composition of hands framing a tilted rectangular photo; include exactly 2 visible mechanical hands holding exactly 1 photograph; include exactly 2 main figures inside the photo; avoid modern objects, clean digital UI, or extra text beyond shop signage.
+```
+
+**来源：** [@はさまるスタジオ](https://x.com/hasamaru_studio/status/2061454220751184341#reversed-1) | 2026-06-01
+
+---
+
+
+### 🔧 例 393：将 Google Maps 转换为插画
+
+![将 Google Maps 转换为插画](../images/%E5%B0%86%20Google%20Maps%20%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将这张 {argument name="source" default="Google Map"} 截图转换为精美的 {argument name="output style" default="illustration"}，并忠实地还原其中的建筑。
+
+[English]
+この{argument name="場所" default="GoogleMap"}のスクショを、建物を忠実に再現しつつ、綺麗な{argument name="タッチ" default="イラスト"}にしてください
+```
+
+**来源：** [@ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』](https://x.com/ChatgptAIskill/status/2061372193628692644) | 2026-06-01
+
+---
+
+
+### 🔧 例 408：提示词：
+将参考照片转换为真实风格
+
+![提示词：
+将参考照片转换为真实风格](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E5%B0%86%E5%8F%82%E8%80%83%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%9C%9F%E5%AE%9E%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转换为 20 世纪 90 年代经典的动画角色肖像。在保留人物可辨认的面部特征、骨骼结构、表情和身份的同时，将其适配为 90 年代经典的动画美学风格。
+
+灵感来源于酷炫、叛逆的男性
+
+[English]
+Transform the reference photo into an authentic 1990s anime character portrait. Preserve the person's recognizable facial features, bone structure, expression, and identity, while adapting them to classic 90s anime aesthetics.
+
+Inspired by the cool, rebellious male
+```
+
+**来源：** [@Crypto Freak 🤡](https://x.com/FSkifor/status/2061340001967669664) | 2026-06-01
+
+---

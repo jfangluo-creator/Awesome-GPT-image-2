@@ -182,3 +182,21 @@ Cinematic yet grounded realism.
 
 ---
 
+
+### 🧪 例 340：巨型男性模特摩天大楼艺术作品
+
+![巨型男性模特摩天大楼艺术作品](../images/%E5%B7%A8%E5%9E%8B%E7%94%B7%E6%80%A7%E6%A8%A1%E7%89%B9%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实时尚超现实主义艺术作品，描绘了一位 {argument name="subject" default="巨型男性模特"} 坐在 {argument name="location" default="曼哈顿高空摩天大楼边缘"}，侧面轮廓姿态，表情深沉而专注。身着 {argument name="outfit" default="剪裁完美的黑色双排扣奢华西装"}，挺括的白色衬衫搭配袖扣，白色口袋巾，鲜艳的红色纹理领带，奢华亮面红色牛津皮鞋，高级腕表。与下方城市相比体型巨大，俯瞰纽约天际线，帝国大厦清晰可见。头顶乌云密布，电影感氛围，忧郁的时尚编辑摄影风格，场景中点缀着红色元素，黑红配色调色，戏剧性光影，超细腻皮肤纹理，逼真的布料褶皱，写实建筑，高对比度，奢华杂志封面美学，史诗级视角，景深，HDR，8K，超精细，杰作，清晰对焦，体积云，电影级写实感。
+
+[English]
+Ultra-realistic fashion-surrealism artwork of a {argument name="subject" default="colossal masculine male model"} seated on the {argument name="location" default="edge of a skyscraper high above Manhattan"}, dramatic side-profile pose, intense contemplative expression.Wearing a {argument name="outfit" default="perfectly tailored black double-breasted luxury suit"}, crisp white dress shirt with cufflinks, white pocket square, vivid red textured tie, luxury glossy red leather Oxford shoes, premium wristwatch. Giant scale compared to the city below, overlooking the New York skyline with the Empire State Building prominently visible.Dark storm clouds gathering overhead, cinematic atmosphere, moody editorial fashion photography, selective red accents throughout the scene, black-and-red color grading, dramatic lighting, ultra-detailed skin texture, realistic fabric folds, photorealistic architecture, high contrast, luxury magazine cover aesthetic, epic perspective, depth of field, HDR, 8K, hyper-detailed, masterpiece, sharp focus, volumetric clouds, cinematic realism.
+```
+
+**来源：** [@HeisenLegacy](https://x.com/MohdAdnanA86218/status/2061490537635721223) | 2026-06-01
+
+---

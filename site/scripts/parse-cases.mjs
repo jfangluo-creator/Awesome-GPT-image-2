@@ -37,6 +37,7 @@ const MD_FILES = [
   { file: 'docs/cases-001-100.md', headingLevel: '##' },
   { file: 'docs/cases-101-200.md', headingLevel: '###' },
   { file: 'docs/cases-201-300.md', headingLevel: '###' },
+  { file: 'docs/cases-301-400.md', headingLevel: '###' },
 ];
 
 function extractCategory(headerLine) {

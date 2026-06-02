@@ -749,3 +749,92 @@ Constraints: Keep all 4 panels consistent as views of the same kitchen scene. Pr
 
 ---
 
+
+### 🎬 例 327：精灵与机器人木偶剧剧照
+
+![精灵与机器人木偶剧剧照](../images/%E7%B2%BE%E7%81%B5%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%A8%E5%81%B6%E5%89%A7%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温馨的日本儿童电视木偶剧剧照，展示一个名为 {argument name="show title" default="エルフィと機械の花畑"} 的木偶风格奇幻场景，营造柔和的绘本氛围，并带有可见的电视广播图形。
+
+画布：4:3 横屏画幅，温暖的电影感光效，浅景深，细节丰富的手工微缩模型布景。
+
+主场景：乡村小屋的厨房内部，墙壁为粘土抹灰，带有外露的木梁；左侧有一扇木窗，望向明亮的黄色花田和蓝天；背景是搁板和悬挂的香草，前景是一张小木桌。两个木偶角色坐在桌旁喝茶：1) 左侧是一个精致的精灵女孩木偶，有着淡薄荷白色的波波头、长尖耳、简单的奶油色亚麻连衣裙、纤细的木制木偶手臂，上方可见悬挂的细线；她的面部区域被柔和地模糊/遮挡，仿佛经过了匿名处理。2) 右侧是一个大型类人机器人木偶，由深色铆接金属板制成，露出电缆、红色镜头眼睛、厚重的肩甲、有关节的手部，并可见木偶操纵杆/细线。精灵双手捧着一个小杯子；机器人举起一只手，仿佛正在说话。桌上必须包含 4 个可见的食物和茶具：一个带有蓝色花纹的白色茶壶、精灵手中的一个小杯子、一盘糕点，以及茶壶下方的一块长方形布料或托盘。
+
+广播叠加布局：添加 5 个图形/文字区域：1) 左上角显示 {argument name="broadcast time" default="7:32"} 的数字时钟，使用白色大号描边数字；2) 时钟下方是一张小型羊皮纸天气卡片，带有日文「人形の国」和「きょうの天気」以及红色太阳图标；3) 右上角是色彩鲜艳的节目 Logo，显示 {argument name="program logo" default="ぬくもり キッズシアター"}，带有花朵和圆润俏皮的字体；4) 左下角是一个大型木制招牌标题，装饰有花朵和藤蔓，写着「エルフィと機械の花畑」及副标题「〜やさしさがつなぐ未来〜」；5) 右下角是一个木制“下一集”方框，写着「▶つぎのおはなし」和「『とべない小鳥と風の魔法』」。
+
+底部附加文字：在画面最底部，添加白色日文标语 {argument name="tagline" default="やさしい心は、どんな未来も変えていける。"}。在右下角底部边缘上方，添加赞助商文字「＜提供＞」、「木のおもちゃ工房」和「ひだまりの森」，并配以小花装饰。
+
+视觉风格：超精细的定格动画木偶戏与奇幻微缩摄影相结合，温暖的琥珀色室内光，怀旧的 NHK 风格儿童晨间节目，精致的 gpt-image-2 真实感，触感真实的木材、布料、金属和纸张纹理。保持所有木偶细线清晰可见且纤细。窗户周围使用柔和的辉光，小屋内呈现温馨的阴影。
+
+约束条件：使用 2 个坐着的角色，5 个广播图形/文字区域，以及 4 个如上所述的桌上物品。保持场景温馨柔和，除了描述的虚构电视图形外，不要添加额外的 Logo，不要出现现代电器，不要有水印。
+
+[English]
+Goal: Create a cozy Japanese children's TV theater still showing a puppet-style fantasy scene titled {argument name="show title" default="エルフィと機械の花畑"}, with a gentle storybook atmosphere and visible broadcast graphics.
+
+Canvas: 4:3 landscape frame, warm cinematic lighting, shallow depth of field, detailed handcrafted miniature set.
+
+Main scene: Inside a rustic cottage kitchen with clay-plaster walls, exposed wood beams, a wooden window on the left looking out to a bright yellow flower field and blue sky, shelves and hanging herbs in the background, and a small wooden table in the foreground. Two marionette characters sit at the table drinking tea: 1) a delicate elf girl puppet on the left with pale mint-white bobbed hair, long pointed ears, a simple cream linen dress, slim wooden puppet arms, and visible suspension strings attached above; her face area is softly blurred/obscured as if anonymized, 2) a large humanoid robot puppet on the right made of dark riveted metal plates, exposed cables, red lens eyes, bulky shoulder armor, articulated hands, and visible marionette rods/strings. The elf holds a small cup with both hands; the robot raises one hand as if speaking. On the table include exactly 4 visible food and tea items: a white teapot with blue floral pattern, one small cup in the elf's hands, one plate of pastries, and a rectangular cloth or tray under the teapot.
+
+Broadcast overlay layout: Add exactly 5 graphic/text areas: 1) top-left digital clock reading {argument name="broadcast time" default="7:32"} in large white outlined numerals, 2) below it a small parchment weather card with Japanese text 「人形の国」 and 「きょうの天気」 plus a red sun icon, 3) top-right colorful logo reading {argument name="program logo" default="ぬくもり キッズシアター"} with flowers and rounded playful lettering, 4) bottom-left large wooden signboard title with flowers and vines reading 「エルフィと機械の花畑」 and subtitle 「〜やさしさがつなぐ未来〜」, 5) lower-right wooden next-story box reading 「▶つぎのおはなし」 and 「『とべない小鳥と風の魔法』」.
+
+Additional bottom text: Across the very bottom, add the white Japanese tagline {argument name="tagline" default="やさしい心は、どんな未来も変えていける。"}. Near the lower-right above the bottom edge, add sponsor text 「＜提供＞」, 「木のおもちゃ工房」, and 「ひだまりの森」 with small flower decorations.
+
+Visual style: Hyper-detailed stop-motion puppetry mixed with fantasy miniature photography, warm amber interior light, nostalgic NHK-style children's morning program, polished gpt-image-2 realism, tactile wood, cloth, metal, and paper textures. Keep all marionette strings visible and delicate. Use soft bloom around the window and cozy shadows in the cottage.
+
+Constraints: Use exactly 2 seated characters, exactly 5 broadcast graphic/text areas, and exactly 4 table items as listed. Keep the scene wholesome and gentle, no extra logos beyond the described fake TV graphics, no modern appliances, no watermark.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2061574511498289261#reversed-0) | 2026-06-01
+
+---
+
+
+### 🎬 例 380：奇幻动漫摇滚乐队演唱会
+
+![奇幻动漫摇滚乐队演唱会](../images/%E5%A5%87%E5%B9%BB%E5%8A%A8%E6%BC%AB%E6%91%87%E6%BB%9A%E4%B9%90%E9%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅华丽的奇幻动漫摇滚乐队演唱会插画，展现 {argument name="band name" default="一支魔法少女摇滚乐队"} 在发光的哥特式水晶舞台上表演的场景。
+
+画布：16:9 宽屏电影级构图，超精细、高分辨率动漫主视觉图，戏剧性的演唱会灯光，深紫与电光蓝配色，点缀粉色高光。
+
+布局：将主唱置于前景中央的圆形发光舞台符文上，周围环绕 6 名乐队成员和 1 只小型犬吉祥物。将表演者全舞台排开：最左侧 2 名乐手，左中 1 名贝斯手，正中 1 名主唱，后中 1 名鼓手，右中 1 名小提琴手，最右侧 1 名键盘手。运用强烈的景深感、闪烁的氛围，并在底部边缘加入明亮的紫色观众荧光棒。
+
+人物细节：展示 7 名动漫风格女性乐队成员：最左侧 1 名键盘手，坐在或站在未来感键盘控制台前；左侧 1 名吉他手，身着黑色哥特偶像装，佩戴猫耳配饰，手持电吉他；左中 1 名贝斯手，身着深色华丽服装，手持贝斯；正中 1 名主唱，拥有 {argument name="lead singer hair color" default="金色头发"}，身穿粉色格纹露脐偶像上衣、短层叠裙、系带、丝带、腿带和高筒系带厚底靴，对着支架上的粉色麦克风演唱，一只手向观众伸出；后中 1 名鼓手，坐在全套架子鼓后，大鼓上带有发光徽章；右中 1 名小提琴手，身着红黑相间的华丽舞台装，正在拉小提琴；最右侧 1 名键盘手，身着蓝白相间的奇幻礼服，正在演奏发光合成器。在主唱脚边加入 1 只小型查理王小猎犬吉祥物，身穿可爱的舞台背带或装饰性背心。
+
+舞台与环境：场地为一个宏伟的魔法大教堂式音乐厅，由水晶拱门、哥特式尖顶、半透明紫色棱镜、漂浮碎片、月光窗户和全息音乐显示屏组成。在主唱身后，创造一个巨大的圆形彩色玻璃风格魔法传送门或华丽的钟表曼陀罗，散发着淡紫色光芒。夜空中可见两轮月亮，背景为星空，漂浮的水晶装饰，仙子般的闪光，以及光芒四射的舞台光束。
+
+视觉风格：极其精细的日本动漫插画，偶像摇滚奇幻美学，光泽感灯光，精致的服装，珠宝般的质感，发光的霓虹轮廓，电影级背光，体积雾，高对比度，清晰对焦，繁复的配饰，魔法粒子，充满活力的现场演唱会氛围。
+
+色彩与氛围：主色调为 {argument name="main color palette" default="紫色、靛青色、洋红色和冰蓝色"}；充满魅力、力量感、庆典氛围且如梦似幻。
+
+约束：必须包含 7 名人类表演者和 1 只狗狗吉祥物。画面中不可出现可见的歌词或可读的海报文字。避免出现额外的乐队成员。构图需以主唱为中心保持对称，鼓手清晰地位于其身后，狗狗清晰地位于最前方。
+
+[English]
+Goal: Create a lavish fantasy anime rock-band concert illustration featuring {argument name="band name" default="a magical girl rock band"} performing on a glowing gothic crystal stage.
+
+Canvas: Wide 16:9 cinematic composition, ultra-detailed, high-resolution anime key visual, dramatic concert lighting, deep violet and electric blue color palette with pink highlights.
+
+Layout: Place the lead vocalist in the center foreground on a circular glowing stage sigil, surrounded by exactly 6 other band members and 1 small dog mascot. Arrange the performers in a full-stage ensemble: 2 musicians on the far left, 1 left-center bassist, 1 center vocalist, 1 drummer in the rear center, 1 right-center violinist, and 1 far-right keyboardist. Use strong depth, sparkling atmosphere, and bright purple audience glow sticks along the bottom edge.
+
+Subject details: Show exactly 7 anime-style female band members: 1 far-left keyboardist seated/standing at a futuristic keyboard console; 1 left guitarist in black gothic idol fashion with cat-ear accessories holding an electric guitar; 1 left-center bassist in dark ornate clothing holding a bass guitar; 1 center lead singer with {argument name="lead singer hair color" default="blonde hair"}, wearing a pink plaid cropped idol top, short layered skirt, belts, ribbons, thigh straps, and tall lace-up platform boots, singing into a pink microphone on a stand with one hand extended toward the viewer; 1 rear-center drummer seated at a full drum kit with a glowing emblem on the bass drum; 1 right-center violinist in a red-and-black ornate stage outfit playing violin; 1 far-right keyboardist in a blue-and-white fantasy dress playing a glowing synthesizer. Add exactly 1 small Cavalier King Charles Spaniel mascot sitting at the lead singer’s feet, wearing a cute stage harness or decorative vest.
+
+Stage and environment: The venue is a grand magical cathedral-concert hall made of crystalline arches, gothic spires, translucent purple prisms, floating shards, moonlit windows, and holographic musical displays. Behind the vocalist, create a huge circular stained-glass-like magic portal or ornate clockwork mandala glowing in lavender. Include two visible moons in the night sky, starry cosmic background, floating crystal decorations, fairy-like sparkles, and radiant stage beams.
+
+Visual style: Extremely detailed Japanese anime illustration, idol-rock fantasy aesthetic, glossy lighting, intricate costumes, jewel-like textures, luminous neon outlines, cinematic backlight, volumetric haze, high contrast, sharp focus, elaborate accessories, magical particles, energetic live-concert mood.
+
+Color and mood: Dominant {argument name="main color palette" default="purple, indigo, magenta, and icy blue"}; glamorous, powerful, celebratory, and dreamlike.
+
+Constraints: Use exactly 7 human performers and exactly 1 dog mascot. No visible lyrics or readable poster text. Avoid extra band members. Keep the composition symmetrical around the lead vocalist, with the drummer clearly behind her and the dog clearly in the front foreground.
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2061394054680912107#reversed-0) | 2026-06-01
+
+---

@@ -978,3 +978,489 @@ A {argument name="character type" default="storm-born lightning rogue"} who danc
 
 ---
 
+
+### 🧍 例 329：购物车中角色的风格化油画
+
+![购物车中角色的风格化油画](../images/%E8%B4%AD%E7%89%A9%E8%BD%A6%E4%B8%AD%E8%A7%92%E8%89%B2%E7%9A%84%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%B2%B9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="character" default="原创角色"}。宽幅全身镜头，低角度透视，强制透视。这位女孩，身穿 {argument name="clothing" default="短裤、袜子和厚底松糕鞋"}。位于 {argument name="setting" default="空旷的沥青停车场"}。坐在明亮的粉色购物车内。背景是低矮的商业建筑和几辆停放的汽车，上方是巨大的明亮白昼蓝天，布满厚实且富有纹理的白云，正午阳光强烈。天空中悬挂着一轮巨大而明亮的太阳。地面湿润，倒映着蓝天与白云。印象派油画风格，可见厚重笔触，纹理感堆叠技法，氛围光影，轻盈灵动的氛围，丰富的色彩调色板，自然日光阴影，粗犷的绘画风动漫风格，可见纹理笔触，厚重堆叠质感，类似炭笔的粗糙线条，富有表现力的手势笔触，边缘晕染，平衡的绘画色调与强烈的色彩对比，优美的光线，绝佳的阴影，色彩光晕，粗犷的绘画风动漫风格，可见纹理笔触，厚重堆叠质感，类似炭笔的粗糙线条，富有表现力的手势笔触，边缘晕染，平衡的绘画色调与强烈的色彩对比，优美的光线，绝佳的阴影，色彩光晕
+
+[English]
+{argument name="character" default="original character"}. wide full-body shot, low angle perspective, forced perspective. This girl, wearing {argument name="clothing" default="shorts, socks and massive platform shoes"}. {argument name="setting" default="an empty asphalt parking lot"}. sitting inside a bright pink shopping cart. the background features a low-rise commercial building and a few parked cars under a massive bright daytime blue sky filled with thick, textured white clouds in strong midday sunlight. a large, luminous sun hangs in the sky. the ground is wet, reflecting the blue sky and clouds. impressionistic oil painting style, visible thick brushstrokes, textured impasto technique, atmospheric lighting, airy whimsical vibe, rich color palette, natural daylight shadows, rough painterly anime style, visible textured brushstrokes, heavy impasto texture, scratchy charcoal-like linework, expressive gestural strokes, smudged edges, balanced painterly tones with aggressive high-contrast color, beautiful light, best shadow, color bloom, rough painterly anime style, visible textured brushstrokes, heavy impasto texture, scratchy charcoal-like linework, expressive gestural strokes, smudged edges, balanced painterly tones with aggressive high-contrast color, beautiful light, best shadow, color bloom
+```
+
+**来源：** [@Cartoonverse AI](https://x.com/CartoonverseAi/status/2061567376747909189) | 2026-06-01
+
+---
+
+
+### 🧍 例 333：Kai 工业泰坦项目
+
+![Kai 工业泰坦项目](../images/Kai%20%E5%B7%A5%E4%B8%9A%E6%B3%B0%E5%9D%A6%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为以 {argument name="character name" default="Kai"} 为主角的动作奇幻蒸汽朋克序列创建一个黑暗电影级项目/联系表，延续上一个最终画面且不重置：保持相同的风暴炼油厂环境、相同的光照、相同的角色位置和服装连贯性。
+
+画布：宽屏 16:9 项目表，约 1200×675，黑色背景，带有细黑色装订线。将 12 个宽屏面板精确排列为 4 列 3 行的网格。每个面板上方为电影画面，下方为黑色标题条，配有小型紧凑的白色大写字体，包括编号镜头标题和两行简短描述。
+
+视觉风格：粗砺的高细节概念艺术，黑暗柴油朋克/蒸汽朋克工业奇幻，充满灰烬的天空，棕黑色金属色调，橙色能量电池光芒，闪电般的能量弧，烟雾、灰尘、火花，废弃的炼油厂塔楼，巨大的机械，坍塌的平台，戏剧性的低调光影，动态摄像机角度，电影项目呈现。
+
+主角细节：Kai 是一位留着尖刺发型的年轻男性战士，穿着破旧的层叠战术服装：深色斗篷、绑带、皮甲、金属护手、工具腰带，随风飘动的围巾或外套下摆，脸上沾满煤烟和污垢，表情坚毅。他携带或激活了一个带有橙色核心能量的发光圆柱形能量电池。在所有面板中保持其形象一致。
+
+项目布局和文本内容：包含 12 个离散面板，并带有以下标签和可见描述：
+
+01. 延续 - 最终画面定格
+Kai 站在炼油厂塔顶，R 型能量电池已激活。
+风暴云聚集。风势增强。
+
+02. Kai 特写
+能量电池发出更亮的光芒。
+表面出现裂纹。压力符号亮起。
+
+03. 极度微距
+机械接缝打开。
+能量泄漏。电弧跳动。
+
+04. 环境广角
+远处的炼油厂塔楼逐一激活。
+工业灯光在地平线上点亮。
+
+05. 低角度
+巨大的烟囱喷发，压力阀释放蒸汽。
+古老的机械苏醒。
+
+06. 中景镜头
+Kai 抵御冲击波。
+外套和绑带剧烈飘动。
+
+07. 动态镜头
+Kai 脚下的平台开始坍塌。
+金属裂缝蔓延。
+
+08. 英雄之跃
+Kai 从坍塌的塔楼跳下。
+宏大的比例。身后是工业城市。
+
+09. 跟随镜头
+Kai 落在移动的起重机臂上。
+碎片穿过画面坠落。
+
+10. 广角揭示
+地面喷发。
+一个巨大的工业打捞自动机出现。
+
+11. 极广角
+Kai 显得非常渺小。
+自动机耸立在炼油厂废墟之上。
+
+12. 最终标志性镜头
+Kai 举起气动切割机。
+能量电池的能量流经武器。
+泰坦完全苏醒。
+沙尘暴吞没了炼油厂城市。
+
+镜头特定意象：面板 1 展示了 Kai 在高处圆形栏杆上的背影，俯瞰广阔的工业荒原，手中拿着一个小小的橙色发光圆柱体。面板 2 是他戴着手套的手拿着发光能量电池靠近脸部的特写，一个柔和模糊的垂直矩形遮挡了部分面部区域。面板 3 是金属机器表面的极度特写，上面标有巨大的 R 字样，带有橙色发光的裂纹和电弧。面板 4 展示了广阔的炼油厂天际线，许多塔楼亮起。面板 5 使用低角度拍摄喷出蒸汽和火焰的烟囱。面板 6 展示了 Kai 在碎片飞溅中抵御猛烈冲击。面板 7 展示了坍塌的钢制平台和断裂梁架中渺小的 Kai。面板 8 展示了 Kai 在半空中跳跃，周围是破碎的碎片。面板 9 跟踪他蹲在起重机臂上，周围是链条和坠落的瓦砾。面板 10 揭示了一个巨大的圆形机械自动机头部或躯干从尘土中升起，橙色核心发光。面板 11 是 Kai 在桥上面对高耸自动机的极广角剪影。面板 12 是英雄般的结局，Kai 站在前景，橙色能量通过他举起的武器发光，身后是巨大的机器和炼油厂的混乱。
+
+约束条件：使用 12 个面板，使用列出的标题，不添加额外面板，无徽标或水印。在整个过程中保持角色、环境、风暴光影、橙色能量主题和黑色项目标题条的一致性。
+
+[English]
+Goal: Create a dark cinematic storyboard/contact sheet for an action-fantasy steampunk sequence starring {argument name="character name" default="Kai"}, continuing from a previous final frame with no reset: same stormy refinery environment, same lighting, same character position and wardrobe continuity.
+
+Canvas: Wide 16:9 storyboard sheet, approximately 1200×675, black background with thin black gutters. Arrange exactly 12 widescreen panels in a 4-column by 3-row grid. Each panel has a cinematic frame above and a black caption strip below with small condensed white uppercase type, including a numbered shot title and two short description lines.
+
+Visual style: Gritty high-detail concept art, dark dieselpunk/steampunk industrial fantasy, ash-filled sky, brown-black metal palette, orange power-cell glow, lightning-like energy arcs, smoke, dust, sparks, ruined refinery towers, massive machinery, collapsing platforms, dramatic low-key lighting, dynamic camera angles, film storyboard presentation.
+
+Main character details: Kai is a spiky-haired young male warrior in ragged layered tactical clothing: dark cloak, straps, leather armor, metal gauntlets, utility belts, wind-torn scarf or coat tails, soot and grime on face, intense expression. He carries or activates a glowing cylindrical power cell with orange core energy. Keep him consistent across all panels.
+
+Storyboard layout and text content: Include exactly 12 discrete panels with these labels and visible descriptions:
+
+01. CONTINUATION - FINAL FRAME HOLD
+Kai stands atop the refinery tower, type-R power cell activated.
+Storm clouds gather. Wind builds.
+
+02. CLOSE ON KAI
+The power cell glows brighter.
+Surface cracks. Pressure symbols illuminate.
+
+03. EXTREME MACRO
+Mechanical seams open.
+Energy leaks. Electric arcs dance.
+
+04. WIDE ENVIRONMENTAL
+Distant refinery towers activate one by one.
+Industrial lights ignite across the horizon.
+
+05. LOW ANGLE
+Massive smokestacks erupt, pressure valves release steam.
+Ancient machinery awakens.
+
+06. MEDIUM SHOT
+Kai shields from the shockwave.
+Coat and straps violently whip.
+
+07. DYNAMIC SHOT
+The platform beneath Kai begins to collapse.
+Metal fractures spread.
+
+08. HEROIC LEAP
+Kai jumps from the collapsing tower.
+Huge scale. Industrial city behind him.
+
+09. TRACKING SHOT
+Kai lands on a moving crane arm.
+Debris falls through frame.
+
+10. WIDE REVEAL
+The ground erupts.
+A gigantic industrial salvage automaton emerges.
+
+11. EXTREME WIDE
+Kai is tiny.
+The automaton towers over the refinery wastes.
+
+12. FINAL ICONIC SHOT
+Kai raises the pneumatic cutter.
+Power cell energy flows through the weapon.
+The titan is fully awakened.
+Dust storm engulfs the refinery city.
+
+Shot-specific imagery: Panel 1 shows Kai from behind on a high circular railing overlooking a vast industrial wasteland, holding a small orange glowing cylinder. Panel 2 is a close-up of his gloved hand holding the glowing power cell near his face, with one soft blurred vertical rectangle obscuring part of the face area. Panel 3 is an extreme close-up of a metal machine surface marked with a large R, glowing orange cracks and arcs. Panel 4 shows a wide refinery skyline with many towers lighting up. Panel 5 uses a low angle on smokestacks venting steam and flame. Panel 6 shows Kai bracing against a violent blast with debris flying. Panel 7 shows a collapsing steel platform and tiny Kai amid fractured girders. Panel 8 shows Kai suspended mid-leap surrounded by shattered debris. Panel 9 tracks him crouched on a crane arm with chains and falling rubble. Panel 10 reveals a huge circular mechanical automaton head or torso rising from dust, orange core glowing. Panel 11 is an extreme wide silhouette of Kai on a bridge facing the towering automaton. Panel 12 is the heroic finale with Kai standing foreground, orange power glowing through his raised weapon, giant machine and refinery chaos behind him.
+
+Constraints: Use exactly 12 panels, exactly the listed captions, no extra panels, no logos or watermarks. Maintain consistent character, environment, stormy lighting, orange energy motif, and black storyboard caption strips throughout.
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2061511406349131972#reversed-0) | 2026-06-01
+
+---
+
+
+### 🧍 例 338：UGC 创作者角色模板
+
+![UGC 创作者角色模板](../images/UGC%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%A7%92%E8%89%B2%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "character_anchor": {
+    "identity": "原生男性 UGC 创作者",
+    "age": "{argument name="age" default="28"}",
+    "ethnicity": "{argument name="ethnicity" default="欧洲裔"}",
+    "build": "运动型但真实，精瘦的自然体格",
+    "height": "180cm",
+    "face_shape": "均衡的男性面部轮廓，下颌线清晰，颧骨自然",
+    "skin": "健康的自然肤质，带有真实的毛孔、轻微纹理、细微瑕疵，肤色真实",
+    "eyes": "温暖的蓝色眼睛，富有表现力且值得信赖",
+    "eyebrows": "自然的男性眉毛，修剪整齐",
+    "nose": "比例匀称的直鼻",
+    "lips": "自然的男性嘴唇",
+    "hair": {
+      "color": "{argument name="hair color" default="深棕色"}",
+      "style": "短款纹理发型，具有自然蓬松感",
+      "texture": "逼真的发丝质感"
+    },
+    "facial_hair": "轻微胡茬，修剪整齐",
+    "expression": "友好、平易近人、自信、真实",
+    "vibe": "成功的创业者，有共鸣的创作者，值得信赖的代言人",
+    "consistency_lock": [
+      "相同面部",
+      "相同发型",
+      "相同胡须",
+      "相同体型",
+      "相同肤色",
+      "相同比例",
+      "相同年龄",
+      "相同身份"
+    ]
+  },
+
+  "style": {
+    "category": "UGC 创作者",
+    "aesthetic": "真实的社交媒体内容",
+    "realism": "照片级真实感",
+    "camera_feel": "智能手机拍摄的真实感",
+    "editing": "极简后期，自然色彩",
+    "quality": "高质量但可信"
+  },
+
+  "clothing": {
+    "top": "修身中性 T 恤，米色、白色、黑色或海军蓝",
+    "bottom": "休闲牛仔裤或斜纹棉布裤",
+    "accessories": "极简手表",
+    "branding": "无可见品牌 Logo"
+  },
+
+  "environment": {
+    "location": "{argument name="location" default="现代公寓或家庭办公室"}",
+    "background": "整洁但有生活气息的环境",
+    "details": [
+      "书桌",
+      "笔记本电脑",
+      "绿植",
+      "柔和的自然光"
+    ]
+  },
+
+  "lighting": {
+    "type": "自然窗光",
+    "quality": "柔和的漫射日光",
+    "mood": "友好、值得信赖、专业"
+  },
+
+  "camera": {
+    "device": "iPhone 15 Pro 前置摄像头",
+    "lens": "24mm 等效焦距",
+    "angle": "手臂长度自拍或胸部高度三脚架拍摄",
+    "framing": "中景特写",
+    "focus": "面部优先",
+    "depth": "自然的智能手机景深"
+  },
+
+  "negative_prompt": [
+    "男模特",
+    "T 台模特",
+    "完美皮肤",
+    "塑料感皮肤",
+    "AI 网红",
+    "过度肌肉发达",
+    "健美运动员",
+    "卡通",
+    "动漫",
+    "CGI",
+    "3D 渲染",
+    "影棚魅力照",
+    "奢华摄影",
+    "重度修图",
+    "不切实际的比例"
+  ]
+}
+
+[English]
+{
+  "character_anchor": {
+    "identity": "Original adult male UGC creator",
+    "age": "{argument name="age" default="28"}",
+    "ethnicity": "{argument name="ethnicity" default="European"}",
+    "build": "Athletic but realistic, lean natural physique",
+    "height": "180cm",
+    "face_shape": "Balanced masculine facial structure, defined jawline, natural cheekbones",
+    "skin": "Natural healthy skin with realistic pores, slight texture, subtle imperfections, authentic complexion",
+    "eyes": "Warm blue eyes, expressive and trustworthy",
+    "eyebrows": "Natural masculine eyebrows, well groomed",
+    "nose": "Straight proportionate nose",
+    "lips": "Natural masculine lips",
+    "hair": {
+      "color": "{argument name="hair color" default="Dark brown"}",
+      "style": "Short textured hairstyle with natural volume",
+      "texture": "Realistic individual strands"
+    },
+    "facial_hair": "Light stubble beard, neatly maintained",
+    "expression": "Friendly, approachable, confident, authentic",
+    "vibe": "Successful entrepreneur, relatable creator, trustworthy spokesperson",
+    "consistency_lock": [
+      "same face",
+      "same hairstyle",
+      "same beard",
+      "same body",
+      "same skin tone",
+      "same proportions",
+      "same age",
+      "same identity"
+    ]
+  },
+
+  "style": {
+    "category": "UGC creator",
+    "aesthetic": "Authentic social media content",
+    "realism": "Photorealistic",
+    "camera_feel": "Smartphone camera realism",
+    "editing": "Minimal editing, natural colors",
+    "quality": "High quality but believable"
+  },
+
+  "clothing": {
+    "top": "Fitted neutral t-shirt, beige, white, black or navy",
+    "bottom": "Casual jeans or chinos",
+    "accessories": "Minimal watch",
+    "branding": "No visible logos"
+  },
+
+  "environment": {
+    "location": "{argument name="location" default="Modern apartment or home office"}",
+    "background": "Clean but lived-in environment",
+    "details": [
+      "desk",
+      "laptop",
+      "plant",
+      "soft natural light"
+    ]
+  },
+
+  "lighting": {
+    "type": "Natural window light",
+    "quality": "Soft diffused daylight",
+    "mood": "Friendly, trustworthy, professional"
+  },
+
+  "camera": {
+    "device": "iPhone 15 Pro front camera",
+    "lens": "24mm equivalent",
+    "angle": "Arm-length selfie or chest-height tripod",
+    "framing": "Medium close-up",
+    "focus": "Face priority",
+    "depth": "Natural smartphone depth"
+  },
+
+  "negative_prompt": [
+    "male model",
+    "runway model",
+    "perfect skin",
+    "plastic skin",
+    "AI influencer",
+    "overly muscular",
+    "bodybuilder",
+    "cartoon",
+    "anime",
+    "CGI",
+    "3D render",
+    "studio glamour",
+    "luxury photoshoot",
+    "heavy retouching",
+    "unrealistic proportions"
+  ]
+}
+```
+
+**来源：** [@Wiz](https://x.com/StopitWiz/status/2061491830680936763) | 2026-06-01
+
+---
+
+
+### 🧍 例 362：角色转国际象棋棋子
+
+![角色转国际象棋棋子](../images/%E8%A7%92%E8%89%B2%E8%BD%AC%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E6%A3%8B%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将附带的角色转换为半身国际象棋棋子。除风格、颜色和材质外，保持所有特征不变。
+风格：{argument name="style" default="写实 3DCG"}
+颜色：{argument name="color" default="纯象牙白 / 哑光黑"}
+材质：{argument name="material" default="宝丽石"}
+
+[English]
+添付のキャラクターを、バストアップでチェスピースにします。画風や色、材質以外はすべてそのまま維持してください。
+画風:{argument name="画風" default="写実的な3DCG"}
+色:{argument name="色" default="象牙色一色/艶消しの黒一色"}
+材质:{argument name="材質" default="ポリストーン"}
+```
+
+**来源：** [@おぱびにあ / Opabinia -AI illustration-](https://x.com/opabiniadrill/status/2061444384823095716) | 2026-06-01
+
+---
+
+
+### 🧍 例 369：好莱坞间谍惊悚片角色项目
+
+![好莱坞间谍惊悚片角色项目](../images/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E9%97%B4%E8%B0%8D%E6%83%8A%E6%82%9A%E7%89%87%E8%A7%92%E8%89%B2%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个具有电影感的好莱坞 {argument name="genre" default="spy-thriller"} 角色项目，主角是一位时尚的 {argument name="character" default="male protagonist"}，留着精致的修剪胡须，身着定制奢华西装，配备精英特工装备。场景设定在 {argument name="locations" default="伦敦屋顶、巴黎街道、摩纳哥赌场和私人飞机"}。包含全身角色转面图，并配有展现决心、细微伤疤和电影级自信的特写肖像。奢华间谍美学，写实的服装细节拆解，大片级动作电影呈现。
+
+[English]
+A cinematic Hollywood {argument name="genre" default="spy-thriller"} character board featuring a stylish {argument name="character" default="male protagonist"} with a sharp designer beard, tailored luxury suits, and elite operative gear. Set across {argument name="locations" default="London rooftops, Paris streets, Monaco casinos, and private jets"}. Full-body character turnarounds paired with intense close-up portraits showing determination, subtle scars, and cinematic confidence. Luxury espionage aesthetic, realistic costume breakdowns, blockbuster action-film presentation.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2061421399043092885) | 2026-06-01
+
+---
+
+
+### 🧍 例 374：Kiki 动漫角色设定集
+
+![Kiki 动漫角色设定集](../images/Kiki%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="KIKI"} 创建一份超详细的动漫角色设计表 / 官方参考项目，她是一位拥有梦幻探险家主题的可爱 Y2K 水手风女孩。
+
+画布：宽幅 16:9 横向角色设定表，采用暖米白色纸张背景，整洁的杂志参考排版，细海军蓝分割线，零星点缀着微小的粉色星星涂鸦。采用精致的日系动漫插画风格，柔和的配色，清晰的线条，柔和的赛璐珞阴影，高度细致的配饰，以及专业的角色设定集呈现方式。
+
+主角：一位 16 岁的开朗女孩，拥有 {argument name="hair color" default="深海军蓝"} 的长而蓬松的卷发，闪烁的紫色大眼睛，桃粉色肌肤，表情俏皮好奇。她的标志性造型包括：巨大的粉色星星发夹、粉色丝带蝴蝶结、星星耳环、叠戴项链（含月亮吊坠）、覆盖着可爱贴纸和涂鸦的超大号米色水手夹克、带有大粉色蝴蝶结的紫色水手领上衣、紫色短款背带裙/短裤、挂饰链条、膝盖绷带、厚底马卡龙色运动鞋、蓬松的堆堆袜，以及一个亮粉色猫咪造型斜挎包。
+
+排版与具体元素：在最左侧，放置一个巨大的海军蓝标题，内容为 {argument name="character name" default="KIKI"}。下方包含三个文本块：角色：梦想家 / 探险家；年龄：16；性格：好奇、俏皮、有点笨拙、充满好奇心。添加一个“视觉特征”板块，列出：星星发夹、超大号水手夹克、月亮吊坠、猫咪包。中左侧应展示一张 Kiki 的全身主视觉姿势，她面带微笑，手指轻触脸颊，穿着全套服装并背着猫咪包。在中上部，展示四个较小的全身三视图，分别标注为 FRONT（正面）、SIDE（侧面）、BACK（背面）和 3/4 VIEW（四分之三侧面）。在右上角，展示一张 Kiki 的大头半身像，表情惊讶或沉思，旁边用粉色手写体标注引语 {argument name="quote" default="The stars are closer than you think."}。
+
+表情：在左下角，包含四个 2x2 排列的小型方形表情头像，每个头像展示 Kiki 的头部和肩部，呈现不同情绪：开朗张嘴笑、眨眼俏皮笑、柔和好奇、害羞惊讶。该区域标注为 EXPRESSIONS。
+
+剪影与配色方案：在下中位置，包含一个 SILHOUETTES（剪影）区域，展示三个深海军蓝全身剪影：直立正面姿势、行走侧面姿势、以及背着猫咪包的俏皮姿势。旁边包含一个 COLOR PALETTE（配色方案）区域，由 3x3 网格排列的九个椭圆形色块组成：粉色、薰衣草紫、紫色、长春花蓝、桃奶油色、浅桃色、深海军蓝、紫玫瑰色和珊瑚粉。
+
+细节研究：在右下中心位置，创建一个 DETAIL STUDIES（细节研究）栏，包含五个裁剪面板和说明：HAIR（头发），柔和蓬松的卷发及碎发；STAR CLIP（星星发夹），标志性配饰；JACKET PATCHES（夹克贴片），贴纸、徽章和涂鸦的集合；CAT BAG（猫咪包），旧但心爱，装载着她的宝藏；SHOES（鞋子），厚底、舒适，因探险而略有磨损。
+
+道具与配饰：在最右侧，创建一个 PROPS & ACCESSORIES（道具与配饰）区域，包含七个物品：带翅膀的星星魔杖笔、粉色毛绒猫咪、一本贴满贴纸的笔记本、一支蓝色小笔、一个粉色星星粉饼盒、粉色猫咪斜挎包，以及一个带有月亮/星星/猫咪图案的挂件。
+
+约束：保持项目整体协调、信息密集且易于阅读。主要使用海军蓝、薰衣草紫、粉色、米色和桃色调。保留所有可见的英文标题。无额外字符，无水印，无照片级真实感，无 3D 渲染。
+
+[English]
+Goal: Create an ultra-detailed anime character design sheet / official reference board for {argument name="character name" default="KIKI"}, a kawaii Y2K sailor-fashion girl with a dreamy explorer theme.
+
+Canvas: Wide horizontal 16:9 character sheet on a warm off-white paper background, clean magazine-reference layout, thin navy divider lines, tiny pink star doodles scattered throughout. Use polished Japanese anime illustration style, pastel colors, crisp line art, soft cel shading, highly detailed accessories, and a professional character bible presentation.
+
+Main character: A cheerful 16-year-old girl with {argument name="hair color" default="deep navy blue"} long, voluminous curly hair, big sparkling purple eyes, peachy skin, and a playful curious expression. Her signature look includes a large pink star hair clip, pink ribbon bows, star earrings, layered necklaces including a moon pendant, oversized cream sailor jacket covered with cute patches and doodles, purple sailor-collar top with a large pink bow, short purple overall-style skirt/shorts, charm chains, knee bandages, chunky pastel platform sneakers, fluffy scrunched leg warmers, and a bright pink cat-shaped crossbody bag.
+
+Layout and exact elements: On the far left, place a huge navy title reading {argument name="character name" default="KIKI"}. Under it, include three text blocks: ROLE: Dreamer / Explorer; AGE: 16; PERSONALITY: Curious, playful, a little clumsy, full of wonder. Add a VISUAL SIGNATURE block listing: Star hair clip, oversized sailor jacket, moon pendant, cat-shaped bag. Center-left should feature one large full-body hero pose of Kiki smiling and holding a finger near her face while wearing the complete outfit and cat bag. Across the upper middle, show exactly four smaller full-body turnaround views labeled FRONT, SIDE, BACK, and 3/4 VIEW. On the upper right, show one large bust portrait of Kiki looking surprised or thoughtful, with the quote {argument name="quote" default="The stars are closer than you think."} in pink handwritten text nearby.
+
+Expressions: In the lower left, include exactly four small square expression portraits arranged in a 2x2 grid, each showing Kiki’s head and shoulders with different emotions: cheerful open-mouth smile, wink with playful grin, soft curious look, and shy surprised look. Label this section EXPRESSIONS.
+
+Silhouettes and color palette: In the lower center, include a SILHOUETTES section with exactly three dark navy full-body silhouettes: straight front pose, walking side pose, and playful pose holding the cat bag. Next to it, include a COLOR PALETTE section with exactly nine oval swatches arranged in a 3x3 grid: pink, lavender, purple, periwinkle blue, peach cream, pale peach, deep navy, mauve rose, and coral pink.
+
+Detail studies: In the lower right-center, create a DETAIL STUDIES column with exactly five cropped panels and captions: HAIR, soft voluminous curls with loose strands; STAR CLIP, signature piece always with her; JACKET PATCHES, collection of stickers, pins and doodles; CAT BAG, worn but loved, carries her treasures; SHOES, chunky, comfy, a little scuffed from adventures.
+
+Props and accessories: On the far right, create a PROPS & ACCESSORIES section with exactly seven items: a winged star wand pen, a pink plush cat, an open sticker-filled notebook, a small blue pen, a pink star compact mirror, the pink cat-shaped handbag, and a dangling keychain charm with a moon/star/cat motif.
+
+Constraints: Keep the board cohesive and information-dense but readable. Use mostly navy, lavender, pink, cream, and peach tones. Preserve all visible section headings in English. No extra characters, no watermark, no photorealism, no 3D render.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2061410098426388978#reversed-0) | 2026-06-01
+
+---
+
+
+### 🧍 例 387：电影级男性角色概念项目
+
+![电影级男性角色概念项目](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%94%B7%E6%80%A7%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+参考所提供的图像，创建一个高端电影级素描角色项目，展示一位 {argument name="subject" default="留着短须、英俊且肌肉发达的光头男性"}，并通过多幅写实插画和肖像研究展现其深邃的目光。
+
+该男子留着光头，下颌线硬朗，留有深色短须和八字胡，体格健壮，拥有宽阔的肩膀和线条分明的双臂。包含一系列情绪表达，包括严肃深邃的神情、轻微的冷笑、侧面视角、四分之三侧面视角、穿着 {argument name="clothing" default="领口微敞且袖口卷起的白色衬衫、蓝色牛仔裤、黑色皮带"} 的时尚姿势、放松自信的站姿，以及细腻的面部素描。像专业的角色设计项目一样，有机地排列在明亮的白色页面上。
+
+强烈的电影级光影，超细腻的混合素描技法，结合了写实渲染、铅笔素描、墨线勾勒和微妙的色彩点缀。奢华时尚概念艺术风格，高端角色项目呈现，布局简洁，包含多个面板和研究，具备专业插画品质。
+
+[English]
+Using the referenced image, create a Premium cinematic sketchbook character board showcasing a {argument name="subject" default="handsome muscular bald man with short trimmed beard"} and intense gaze through multiple realistic illustrations and portrait studies. 
+
+The man has a shaved head, strong jawline, short dark beard and mustache, muscular build with broad shoulders and defined arms. Collection of emotional expressions including serious intense look, slight smirk, profile views, three-quarter views, fashion poses in {argument name="clothing" default="white button-up shirt with top buttons open and sleeves rolled up, blue jeans, black belt"}, relaxed confident stances, and detailed facial sketches. Arranged organically on a bright white page like a professional character design board. 
+
+Strong cinematic lighting, ultra-detailed mixed sketch techniques combining realistic rendering, pencil sketches, ink lines, and subtle color accents. Luxury fashion concept art style, high-end character board presentation, clean layout with multiple panels and studies, professional illustration quality.
+```
+
+**来源：** [@Amy G](https://x.com/amynys/status/2061387283580715025) | 2026-06-01
+
+---
