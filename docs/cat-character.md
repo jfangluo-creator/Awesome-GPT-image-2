@@ -854,3 +854,127 @@ The final result must look like the SAME original image enhanced with mini alter
 
 ---
 
+
+### 🧍 例 249：角色一致性与角度控制
+
+![角色一致性与角度控制](../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8E%E8%A7%92%E5%BA%A6%E6%8E%A7%E5%88%B6.jpg)
+
+**Prompt:**
+
+```text
+Use the reference image as the main character identity reference. Preserve the same {argument name="subject character" default="adult Japanese woman in her early 20s"}, including her face, facial impression, hairstyle, body balance, body proportions, outfit design, and overall atmosphere.
+
+Create a new realistic high-quality photo of the same person. Change only the camera angle and composition according to the {argument name="camera angle" default="angle instruction below"}. Do not redesign the character, do not change her age appearance, do not make her look like a different person, and do not change her body type or clothing structure.
+
+Keep a simple natural standing pose, but allow very small posture adjustments only if needed to make the camera angle physically natural. Use a clean bright studio room with a visible floor and wall, natural realistic lighting, realistic perspective, and polished commercial photo quality.
+
+Keep the result tasteful, non-explicit, clean, and suitable for general commercial stock imagery. Avoid extra limbs, broken fingers, distorted hands, missing body parts, duplicated faces, ghosting, warped clothing, messy anatomy, unnatural body proportions, distorted facial features, and extreme lens distortion.
+```
+
+**来源：** [陽仙堂](https://x.com/yosendou) | 2026-05-30
+
+---
+
+
+### 🧍 例 261：梦幻天空之镜插画
+
+![梦幻天空之镜插画](../images/%E6%A2%A6%E5%B9%BB%E5%A4%A9%E7%A9%BA%E4%B9%8B%E9%95%9C%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+参考图是角色人设图，为参考图的{argument name="角色" default="少女"}绘制一副日系唯美奇幻风格插画。画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的{argument name="配色" default="粉紫与深蓝"}交织，一条耀眼的蓝色巨型流星划破天际。女孩处于背光状态，被流星和星空的边缘光细腻勾勒，下方的水面完美对称地反射出整个壮丽的星空。日系唯美奇幻风格，高饱和粉紫冷暖色调，天空之镜般的水面反射，空灵静谧的梦境氛围。{argument name="比例" default="比例9:16"}，4K。
+```
+
+**来源：** [Mulight 沐光🌟](https://x.com/0xMulight) | 2026-05-30
+
+---
+
+
+### 🧍 例 291：角色参考图模板
+
+![角色参考图模板](../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+Create a Character reference image {argument name="character subject" default="Indian Warrior"} with turnaround pictures with Accessories ( Name them), colour pallette, and facial expressions
+```
+
+**来源：** [Adithya Thatipalli](https://x.com/adithatipalli) | 2026-05-30
+
+---
+
+
+### 🧍 例 310：2000 年代卡通角色变身
+
+![2000 年代卡通角色变身](../images/2000%20%E5%B9%B4%E4%BB%A3%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+Can you make me into {argument name="count" default="6"} characters in {argument name="era" default="2000s"} cartoon shows
+```
+
+**来源：** [Kris Kashtanova](https://x.com/icreatelife) | 2026-05-30
+
+---
+
+
+### 🧍 例 312：风暴雷霆游侠角色
+
+![风暴雷霆游侠角色](../images/%E9%A3%8E%E6%9A%B4%E9%9B%B7%E9%9C%86%E6%B8%B8%E4%BE%A0%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+A {argument name="character type" default="storm-born lightning rogue"} who dances along electric arcs, chaining devastating bolts between enemies, supercharging allies with crackling speed, and collapsing the sky into a cataclysmic thunder dome where every strike births chain-lightning explosions.
+```
+
+**来源：** [Komodo](https://x.com/Pancake_Fury) | 2026-05-30
+
+---
+
+
+### 🧍 例 316：超现实捕蝇草头部人偶
+
+![超现实捕蝇草头部人偶](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%8D%95%E8%9D%87%E8%8D%89%E5%A4%B4%E9%83%A8%E4%BA%BA%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[인물] 이미지 1, 이미지 2, 이미지 3 참조.
+
+[인물의 포즈 및 표정]
+
+바닥에 가만히 옆으로 누워 있는 거대한 [이미지 1~3] 인물의 머리 위에 작은 인형 같은 [이미지 1~3 ] 인물이 조용히 걸터앉아 있는 초현실적인 포즈입니다. 거대한 머리의 여성은 아련하고 차분한 눈빛으로 정면을 응시하고 있으며, 그 위에 앉은 인물은 머리 대신 {argument name="식물 종류" default="파리지옥 식물"}이 자라난 채로 양손을 무릎 근처에 모으고 단정히 앉아 있습니다.
+
+[인물 의상]
+
+위에 앉은 식물 머리의 인물은 전면에 검은색 필기체로 '{argument name="문구" default="Not★ Good"}'라고 자수가 새겨진 따뜻한 {argument name="의상 색상" default="크림색"} 니트 스웨터를 입고 있습니다. 하의로는 은은한 패턴이 들어간 연한 베이지색 와이드 팬츠를 착용했으며, 발에는 클래식한 디자인의 끈이 달린 차분한 베이지색 스웨이드 스니커즈를 신고 있습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+거대한 인물의 머리카락은 바닥에 자연스럽게 펼쳐져 있습니다. 메이크업은 양 볼과 콧등에 수줍은 듯 넓고 붉은 핑크빛 블러셔를 강조하여 포인트를 주었으며, 인위적이지 않은 투명한 피부 표현과 차분한 누드 톤의 입술, 그리고 옅은 주근깨 디테일이 살아있습니다.
+
+[조명 및 빛 방향]
+
+전체적으로 부드럽고 균일하게 퍼지는 은은한 스튜디오 디퓨즈 조명입니다. 강한 직사광선이나 날카로운 하이라이트 없이, 인물과 사물의 형태를 따라 부드러운 음영이 자연스럽게 형성되어 입체감을 주며 그림자가 바닥에 아주 부드럽고 연하게 드리워집니다.
+
+[질감과 색감 무드]
+
+부드러운 피부의 질감, 머리카락의 세밀한 결, 그리고 니트 옷감의 촘촘한 짜임과 파리지옥 식물의 생생한 질감이 디지털 아트처럼 깔끔하게 결합되어 있습니다. 전체적으로 크림색, 베이지색, 밝은 금발의 따뜻하고 차분한 톤온톤 색감에 파리지옥의 초록빛과 뺨의 핑크빛이 기묘하고 신비로운 무드를 완성합니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+피사체의 눈높이에 맞춘 정면 앵글로 촬영되어 초현실적인 구성을 왜곡 없이 안정감 있게 포착했습니다. 깊은 피사계 심도를 사용하여 거대한 머리부터 위에 앉은 식물 인간 오브제까지 전체적인 형태와 디테일이 뭉개짐 없이 선명하고 깔끔하게 초점이 맞추어져 있습니다.
+
+[배경 요소 (옵션)]
+
+아무런 가구나 장식이 없는 미니멀하고 깨끗한 연한 회색 톤의 스튜디오 호리존 배경입니다. 인공적인 요소가 배제된 빈 공간은 인물의 기묘한 비례감과 독특한 오브제 조합에 온전히 시선이 집중되도록 돕는 역할을 합니다.
+```
+
+**来源：** [CHAse](https://x.com/CHAseUnre) | 2026-05-30
+
+---
+

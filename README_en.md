@@ -10,7 +10,7 @@ English | [中文](README.md)
 
 ## Categories
 
-[Cases 1-100](docs/cases-001-100.md) · [Cases 101-200](docs/cases-101-200.md) · [Cases 201-300](docs/cases-201-300.md)
+[Cases 1-100](docs/cases-001-100.md) · [Cases 101-200](docs/cases-101-200.md) · [Cases 201-300](docs/cases-201-300.md) · [Cases 301-400](docs/cases-301-400.md)
 
 | Category | Description |
 |----------|-------------|

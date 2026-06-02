@@ -3,3 +3,22 @@ Thumbs.db
 *.tmp
 *.bak
 ~*
+
+# Claude Code 项目配置（不提交）
+.claude/
+
+# 临时工作文件
+_scratch/
+_*.json
+_*.mjs
+_*.txt
+_*.md
+_*.html
+batch_add.py
+
+# 依赖
+node_modules/
+
+# Astro 构建产物
+site/dist/
+site/.astro/

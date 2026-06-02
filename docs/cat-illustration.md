@@ -652,3 +652,33 @@ Mood: introspective, emotional weight, identity, self-awareness, quiet confidenc
 
 ---
 
+
+### 🎨 例 279：磨砂玻璃极简质感
+
+![磨砂玻璃极简质感](../images/%E7%A3%A8%E7%A0%82%E7%8E%BB%E7%92%83%E6%9E%81%E7%AE%80%E8%B4%A8%E6%84%9F.jpg)
+
+**Prompt:**
+
+```text
+背景为{argument name="背景颜色" default="淡淡纯米色"}毛玻璃质感，背景极简风格。
+```
+
+**来源：** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) | 2026-05-30
+
+---
+
+
+### 🎨 例 292：中国古典诗词意境插画
+
+![中国古典诗词意境插画](../images/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E8%AF%97%E8%AF%8D%E6%84%8F%E5%A2%83%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+“{argument name="诗句" default="何当共剪西窗烛，却话巴山夜雨时"}”。请根据这两句中国古诗所体现的意境，帮我生成一幅主题与之匹配，并能体现中国古典审美的图片，4K超高清，画幅为竖版3:4。
+```
+
+**来源：** [影像派](https://x.com/ImagePai) | 2026-05-30
+
+---
+

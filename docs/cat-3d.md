@@ -357,3 +357,112 @@ Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte
 
 ---
 
+### 🧸 例 246：体素定格动画角色
+
+![体素定格动画角色](../images/%E4%BD%93%E7%B4%A0%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+Create a highly stylized 3D character portrait with a {argument name="style" default="blocky, geometric voxel-like form"} and a {argument name="texture" default="handcrafted clay / foam micro-particle texture"}, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a {argument name="background" default="swirling, painterly, post-impressionist background"} with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5.
+```
+
+**来源：** [@SPEEDYAI](https://x.com/SPEEDAI07/status/2059718786710909035) | 2026-05-27
+
+---
+
+
+### 🧸 例 255：超写实 3D Q 版玩偶
+
+![超写实 3D Q 版玩偶](../images/%E8%B6%85%E5%86%99%E5%AE%9E%203D%20Q%20%E7%89%88%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+Hyper-realistic 3D caricature in {argument name="style" default="collectible chibi doll style"}, ultra-detailed rendering, softbox studio lighting, smooth infinite white background. Proportions: GIANT, round, adorable head with extreme chibi proportions. Small, chubby, baby-like body with short, pudgy arms and legs. Head-to-body ratio 2:1. Toddler height. Face: Extreme pouty, sulky, grumpy expression. Furrowed and lowered eyebrows creating a deep wrinkle in the center of the forehead. Large, shiny brown eyes, slightly squinted with irritation. Small upturned pink nose. Mouth with a VERY exaggerated forward pout, protruding lower lip, creating a baby-like double chin effect. VERY LARGE, round, rosy, puffed cheeks. Baby double chin. Porcelain-like skin with soft, realistic texture. Hair: Voluminous, wavy, messy hair. Loose and frizzy strands falling across the face and nape, giving a tousled appearance. Adapt hair color and length according to the reference image. Maintain the same fluffy volume and texture. Pose: Standing with the head tilted to one side, body slightly curved. Both hands tucked into the front pockets of the shorts. Drooping shoulders. Classic "I'm upset" posture. Clothing: {argument name="outfit" default="Basketball-style athletic tank top"} with contrasting collar and armhole trim, plus loose sports shorts with a drawstring. High-top sneakers in an All-Star style. Thin necklace with a pendant around the neck. Bracelets on the wrists. Keep exactly the same sportswear design, but use {argument name="color scheme" default="RANDOM COLORS"} different from the original red/white combination. Keep the logo and number on the jersey, but feel free to change the text/number. Art Style: Photorealistic 3D collector doll render, soft skin texture, gentle lighting, highly detailed strand-by-strand hair, delicate shading. Same cute yet irritated character style.
+```
+
+**来源：** [Saul Goodman](https://x.com/Goodmanprotocol) | 2026-05-30
+
+---
+
+
+### 🧸 例 256：折纸微缩村庄
+
+![折纸微缩村庄](../images/%E6%8A%98%E7%BA%B8%E5%BE%AE%E7%BC%A9%E6%9D%91%E5%BA%84.jpg)
+
+**Prompt:**
+
+```text
+Ultra-cinematic surreal photography of an {argument name="subject" default="entire miniature village world"} built ENTIRELY out of folded paper origami in the style of {argument name="origami style" default="Akira Yoshizawa origami"} — origami paper houses with sharp creased roofs, origami paper trees with folded leaves, miniature origami paper villagers walking around, origami paper cranes flying overhead, a large central {argument name="central figure" default="origami paper dragon"} coiled around a tiny origami pagoda, scattered origami paper lanterns glowing softly, every single element visible paper folds and creases, soft warm tungsten studio lighting catching the paper edges. Dark moody studio background. Three-quarter macro angle, the paper village dominating the frame. NO TEXT, NO OVERLAYS, NO LOGOS — pure origami paper photography only. 9:16 vertical, 8K masterpiece.
+```
+
+**来源：** [kuro](https://x.com/kuroffline) | 2026-05-30
+
+---
+
+
+### 🧸 例 269：四款 3D 微缩城市地图
+
+![四款 3D 微缩城市地图](../images/%E5%9B%9B%E6%AC%BE%203D%20%E5%BE%AE%E7%BC%A9%E5%9F%8E%E5%B8%82%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a photorealistic 3D miniature city-map showcase featuring exactly 4 square panels arranged in a 2×2 grid, each panel showing a famous world city as a raised diorama emerging from a printed paper street map on a warm wooden tabletop.
+
+Canvas: Square image, evenly divided by thin white gutters into four equal quadrants. Use an isometric three-quarter view from above, shallow depth of field, warm studio lighting, crisp miniature details, and realistic shadows.
+
+Layout: The 4 panels are: top-left Tokyo, top-right Dubai, bottom-left Paris, bottom-right New York. Each city sits on an open map sheet with a large bold city name printed along the bottom edge of its panel in bright color. Include small neighborhood labels on the map surface.
+
+Panel 1 — Tokyo: Build a dense miniature Tokyo skyline with exactly 6 key recognizable landmarks: Tokyo Tower, Tokyo Skytree, a traditional pagoda, a large temple roof, a modern cluster of skyscrapers, and a canal leading to Tokyo Bay. Add a Japanese flag on a pole, cherry blossom trees, small buses, tiny streets, and map labels such as Shinjuku, Shibuya, Roppongi, Asakusa, and Tokyo Bay. Large bottom text: {argument name="Tokyo label" default="TOKYO"} in bold red letters.
+
+Panel 2 — Dubai: Build a futuristic Dubai marina diorama with exactly 6 key recognizable elements: Burj Khalifa, Burj Al Arab, twin sail-like towers, Dubai Frame, a yacht-filled marina, and a curving elevated transit line. Add palm trees, modern high-rises, an Emirati flag on a pole, blue water, boats, and map labels such as Jumeira, Dubai Marina, Deira, and Dubai Creek. Large bottom text: {argument name="Dubai label" default="DUBAI"} in bold gold letters.
+
+Panel 3 — Paris: Build a classic Paris miniature with exactly 6 key recognizable landmarks: Eiffel Tower, Arc de Triomphe, Notre-Dame-style cathedral, Louvre-like glass pyramid, Haussmann apartment blocks, and a Seine river with bridges. Add a French flag on a pole, tree-lined boulevards, pink blossoms, tiny buses, pedestrians, and warm stone architecture. Large bottom text: {argument name="Paris label" default="PARIS"} in bold blue letters.
+
+Panel 4 — New York: Build a dense Manhattan miniature with exactly 6 key recognizable landmarks: Statue of Liberty, One World Trade Center, Empire State Building, Chrysler Building, Brooklyn Bridge, and a harbor with ferries. Add an American flag on a pole, yellow taxis, buses, crowded streets, waterfront piers, greenery, and map labels such as Manhattan, Brooklyn, and Staten Island. Large bottom text: {argument name="New York label" default="NEW YORK"} in bold orange-red letters.
+
+Visual style: Hyper-detailed 3D paper-map diorama, realistic plastic-and-paper miniature scale model, tilt-shift photography effect, vibrant but natural colors, warm wooden background, soft bokeh at the edges, high-resolution commercial render quality.
+
+Constraints: Keep exactly 4 panels and exactly the 4 city themes listed. Do not add extra cities. Keep all text legible, with the city names large and centered near the lower edge of each panel. Include a small creator watermark in the top-left corner reading {argument name="watermark text" default="@TechieSA"}.
+```
+
+**来源：** [TechieSA](https://x.com/TechieBySA) | 2026-05-30
+
+---
+
+
+### 🧸 例 299：极简中性物体网格
+
+![极简中性物体网格](../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E6%80%A7%E7%89%A9%E4%BD%93%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+Create a clean 2x2 minimalist object photography grid featuring exactly 4 everyday items in a warm neutral beige palette: 1) top-left, a matte cream ceramic vase with a rounded pear-shaped body and narrow neck holding a few delicate dried flower stems, placed on a white tabletop with a soft diagonal sunlight beam and long subtle shadow; 2) top-right, a simple cylindrical cream ceramic mug with a rounded handle on the right, seen slightly from above, centered on a beige tabletop with a soft horizontal shadow; 3) bottom-left, an elegant minimalist wristwatch standing upright, with a thin rose-gold case, blank white dial, slim hour markers, two hands, small crown on the right, and beige leather strap, casting a faint shadow; 4) bottom-right, a neat stack of exactly 3 closed books in cream, white, and taupe covers, aligned horizontally, with the top book slightly smaller and a triangular patch of sunlight on the wall behind. Use a square canvas divided by thick white gutters into four equal panels. Style: high-end editorial product photography, soft natural window light, muted shadows, smooth off-white background, uncluttered composition, matte textures, calm Scandinavian/Japandi aesthetic, no people, no logos, no visible text, no watermark. Overall mood should emphasize {argument name="aesthetic mood" default="quiet simplicity"}, {argument name="color palette" default="warm cream, beige, ivory, and taupe"}, and {argument name="lighting style" default="soft natural window light with gentle geometric shadows"}.
+```
+
+**来源：** [Kami AI](https://x.com/Aiwithkami) | 2026-05-30
+
+---
+
+
+### 🧸 例 307：日式纸艺场景
+
+![日式纸艺场景](../images/%E6%97%A5%E5%BC%8F%E7%BA%B8%E8%89%BA%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+Paper craft diorama of a Japanese café scene, girl with long wavy brown hair and floral bow sitting at a wooden table, viewed from behind, green cream soda float and pudding dessert on table, paper cut flower arrangement, window overlooking a Japanese street with a flower shop sign reading “クボタ花店”, warm nostalgic aesthetic, layered paper art style
+
+Paper craft art of a girl in a {argument name="jacket color" default="purple puffer jacket"}, grey knit headband and scarf, reading a manga volume in a Japanese bookstore, shelves packed with color-coded manga series including Blue Lock and Tokyo Revengers, signs reading “少年コミック マガジン 150円以下”, detailed layered paper illustration style, cozy winter atmosphere
+
+Paper craft cutout figure of a girl wearing a purple zip-up hoodie, grey knit headband, jeans, and character sneakers, standing in front of a decorative {argument name="mural subject" default="Ho-Oh wing mural"} on a white brick wall, “Pokémon Center Tokyo HoUou” signage, warm earthy tones of orange, green, and brown in the wings, sticker-like white border around the character, photo-realistic paper diorama style
+```
+
+**来源：** [Sairah](https://x.com/Sairah_0) | 2026-05-30
+
+---
+

@@ -808,3 +808,67 @@ Bright cinematic lighting with dramatic highlights and motion effects. Vibrant o
 
 ---
 
+
+### 🏷️ 例 274：高端饮品商业海报
+
+![高端饮品商业海报](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E5%93%81%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create a premium commercial product poster inspired by the reference image. A cold {argument name="beverage" default="green glass beer bottle"} stands perfectly centered in a vertical composition, covered with realistic water droplets and condensation. Replace all visible product branding with the name “{argument name="brand" default="BMX"}” on the main bottle label, neck label, and vertical bottle text. The logo should look clean, bold, premium, and professionally printed, using white and deep green label design with a small red star-style emblem.
+
+The background is a rich dark green studio backdrop with soft gradient lighting and subtle texture. Behind the bottle, large bold background typography reads “BMX” in oversized block letters, partially hidden behind the bottle, using a pale green tone. Add {argument name="elements" default="floating natural ingredients around the bottle: fresh hop cones, golden barley grains, and wheat stalks"} entering from the corners, creating a dynamic premium beer advertisement look.
+
+Lighting should be cinematic and high-end, with soft highlights on the glass, realistic reflections, sharp product focus, and a clean shadow beneath the bottle. The mood should feel fresh, cold, luxurious, and modern. Ultra realistic commercial photography, premium beverage advertising, studio product shot, 8K detail, crisp focus, realistic condensation, elegant green color palette, no extra text except BMX.
+```
+
+**来源：** [BMX](https://x.com/bmx_ai13) | 2026-05-30
+
+---
+
+
+### 🏷️ 例 289：奢华深红色礼服时尚大片
+
+![奢华深红色礼服时尚大片](../images/%E5%A5%A2%E5%8D%8E%E6%B7%B1%E7%BA%A2%E8%89%B2%E7%A4%BC%E6%9C%8D%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+Create a hyper-realistic luxury fashion image titled: "{argument name="image title" default="THE RED DRESS"}." IMPORTANT: The image must be understood in less than one second. No story. No symbolism. No complicated concept. Just one visually perfect moment. SCENE: A breathtakingly attractive {argument name="subject" default="woman"} walking alone through a vast shallow mirror-like body of water at sunset. She wears an elegant flowing {argument name="dress color" default="crimson-red"} dress. The dress should be: dramatic, luxurious, wind-blown, visually dominant, and instantly recognizable from a thumbnail. The water is perfectly still. The reflection is nearly flawless. The sky explodes with: warm gold, deep orange, soft pink, and subtle lavender tones. The woman occupies the center of the frame. Everything else exists only to enhance her presence. DETAILS: realistic skin texture, natural facial features, subtle confidence, soft hair movement in wind, realistic fabric physics, luxury fashion-editorial styling, cinematic reflection quality. CAMERA: Slightly low angle. The dress fills much of the frame. The silhouette must remain recognizable even at very small mobile-screen size. LIGHTING: Golden-hour luxury fashion photography. Soft highlights. Natural skin tones. Realistic reflections. Premium lens behavior. STYLE: Blend: luxury perfume campaigns, haute couture photography, premium fashion editorials, and cinematic realism. NO: fantasy elements, excessive jewelry, text overlays, logos, AI-looking beauty retouching. COLOR PALETTE: deep crimson, golden sunset, warm skin tones, soft amber reflections, subtle pink skies. The final image should feel: impossibly elegant, immediately eye-catching, and worthy of a global luxury campaign.
+```
+
+**来源：** [Hemayxn.ai](https://x.com/hemayxn) | 2026-05-30
+
+---
+
+
+### 🏷️ 例 303：地中海乡村街道人像
+
+![地中海乡村街道人像](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E4%B9%A1%E6%9D%91%E8%A1%97%E9%81%93%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+A young brunette woman with short, slightly wavy bob-length hair walking along a sunny Mediterranean village street. She is wearing {argument name="outfit" default="a plain navy blue fitted crew-neck t-shirt tucked loosely into wide, relaxed-fit cream/off-white linen jogger-style pants with a drawstring waist and elasticated ankles"}. She wears grey and white low-top sneakers. She carries a small taupe/beige soft leather shoulder bag on her left shoulder and holds a black smartphone in her right hand. She has a brown leather bracelet on her wrist. She is reaching out with her left hand to gently touch orange and white flowers on a blooming bush along a low stone wall to her left. She is looking slightly upward and smiling softly. Background: a bright sunny Spanish or Southern European village street with white-washed buildings, a balcony, blurred pedestrians, and dappled sunlight through green trees. Shallow depth of field, blurred foreground flowers. Bright, natural midday summer sunlight.
+```
+
+**来源：** [Ruzaina](https://x.com/RuzainaMeer) | 2026-05-30
+
+---
+
+
+### 🏷️ 例 308：黑色贵妃椅上的酒红色礼服时尚大片
+
+![黑色贵妃椅上的酒红色礼服时尚大片](../images/%E9%BB%91%E8%89%B2%E8%B4%B5%E5%A6%83%E6%A4%85%E4%B8%8A%E7%9A%84%E9%85%92%E7%BA%A2%E8%89%B2%E7%A4%BC%E6%9C%8D%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic luxury fashion editorial portrait of {argument name="character description" default="an elegant woman"} seated on an ornate vintage black velvet chaise lounge with glossy carved black wood scroll arms, wearing a floor-length {argument name="gown color and fabric" default="deep burgundy satin"} gown with a draped cowl neckline, thin straps, and a long flowing train spilling across the floor in rich folds. She sits in a poised three-quarter pose, one arm resting on the chaise arm, the other hand relaxed on her lap, with long wavy brunette hair over one shoulder and minimal delicate jewelry. Behind her is a giant black-and-white low-poly geometric mural resembling a stylized portrait of a woman, made of angular triangular facets in charcoal, gray, white, and black, filling the wall like modern gallery art. The setting is moody and upscale, with a textured gray concrete wall, dark floor, dramatic soft side lighting, deep shadows, premium satin highlights, and a timeless high-fashion magazine atmosphere. Include exactly two opaque anonymizing overlays: one large medium-gray rectangle covering the upper-right portrait/face area and part of the mural, and one smaller blurred taupe-gray square covering the seated woman's face. Use a vertical 3:4 composition, rich contrast, realistic photography, cinematic editorial lighting, no text, no watermark.
+```
+
+**来源：** [Arina_](https://x.com/Arina_hoqe) | 2026-05-30
+
+---
+

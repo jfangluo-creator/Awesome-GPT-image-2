@@ -128,3 +128,94 @@ Turn this photo into a funny ugly doodle drawing. Make it look like: a quick ske
 **来源：** [@Anifun](https://x.com/Anifun_AI/status/2060274661850743192) | 2026-05-29
 
 ---
+
+### 🔧 例 243：居酒屋墙面菜单转换
+
+![居酒屋墙面菜单转换](../images/%E5%B1%85%E9%85%92%E5%B1%8B%E5%A2%99%E9%9D%A2%E8%8F%9C%E5%8D%95%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the izakaya interior mood reference, transform the wall menu into a closer, more frontal handheld snapshot of a casual Japanese pub menu corner. Replace the original white printed paper notices on the wooden wall with exactly 12 narrow cream menu slips outlined in red, arranged in 2 rows of 6, each pinned at the top and written in bold black brush-style Japanese with orange handwritten prices. The 12 menu slips should read: top row 「だしまき 580」「モロキュー 400」「串カツ 150」「豚キムチ 580」「もずく酢 380」「冷やっこ 300」; bottom row 「牛すじポン酢 680」「たこぶつ 680」「チャンジャ 480」「鶏の唐揚 680」「ウインナー 480」「エイヒレ 530」. Add a black chalkboard menu above the slips with messy white chalk writing and a few orange prices, plus a yellow beer poster on the left wall. Keep the warm dim izakaya lighting and lived-in, slightly blurry phone-photo realism, but shift the background from a full wooden plank wall to a cream wall with dark wood wainscoting at the bottom. Include small red-capped condiment bottles partially visible at the bottom edge. Optional text customization: use {argument name="top row menu text" default="だしまき 580, モロキュー 400, 串カツ 150, 豚キムチ 580, もずく酢 380, 冷やっこ 300"} and {argument name="bottom row menu text" default="牛すじポン酢 680, たこぶつ 680, チャンジャ 480, 鶏の唐揚 680, ウインナー 480, エイヒレ 530"}.
+```
+
+**来源：** [@当選者](https://x.com/love247love/status/2059779917718683853) | 2026-05-28
+
+---
+
+### 🔧 例 245：狂野天才高尔夫球手漫画重绘
+
+![狂野天才高尔夫球手漫画重绘](../images/%E7%8B%82%E9%87%8E%E5%A4%A9%E6%89%8D%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E6%89%8B%E6%BC%AB%E7%94%BB%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+Analyze the uploaded illustration carefully and redraw the character as a {argument name="character style" default="wild genius golfer"} inspired by {argument name="visual energy" default="classic Japanese sports manga energy"}, recreating the dramatic {argument name="atmosphere" default="“legendary mountain golf swing” atmosphere"}: low-angle dynamic composition, intense determined eyes, fearless grin, rough powerful stance, body twisted mid-swing, club raised with explosive momentum, wind and dust swirling around. Preserve the uploaded character’s face, eyes, hairstyle, hair color, outfit motifs, proportions, colors, personality, and worldbuilding, but reinterpret them as a unique fantasy pro golfer. The golf outfit, club, gloves, shoes, accessories, patterns, colors, and silhouette must naturally reflect the original artwork’s atmosphere, symbols, motifs, and emotional tone. The expression should feel bold, mischievous, confident, and unstoppable, as if the character is about to hit an impossible miracle shot. Add dramatic speed lines, flying grass, sharp sunlight, cinematic shadows, dynamic anime sports poster composition, ultra detailed, no text, no watermark.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2059722255492653546) | 2026-05-27
+
+---
+
+### 🔧 例 273：剪纸分层插画风格
+
+![剪纸分层插画风格](../images/%E5%89%AA%E7%BA%B8%E5%88%86%E5%B1%82%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+Convert this image into a {argument name="art style" default="soft, handcrafted paper-cut layered illustration style"}, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+
+Add a distinct white outer outline layer surrounding each main character, resembling a thick sticker border or white cut-paper backing, clearly separating the characters from the background. This white layer should feel like an intentional paper layer, not a glow. Use a {argument name="color palette" default="pastel color palette with muted blues, greens, and warm neutrals"}, balanced and calming. Lighting should feel soft, diffused, and even, enhancing the dimensional paper layers without harsh contrast.
+
+Textures should appear matte and tactile, like thick art paper or craft foam. Overall mood: {argument name="mood" default="cozy, wholesome, gentle, and storybook-like"}, with a playful yet polished handcrafted feel suitable for modern illustration, children’s books, or decorative art.
+```
+
+**来源：** [simeon-sanai](https://x.com/Naiknelofar788) | 2026-05-30
+
+---
+
+
+### 🔧 例 306：老照片修复
+
+![老照片修复](../images/%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image, refine and restore the old damaged photo into a clean, realistic original snapshot. Remove all cracks, creases, scratches, faded discoloration, stains, and paper damage, and reconstruct any missing or obscured areas naturally. Preserve the same child, facial identity, joyful laughing expression, hairstyle with pigtails, yellow flowers beside both ears, checkered floral dress with white collar, pose, close portrait framing, and outdoor background. Convert the aged pinkish tint into natural color, sharpen details, improve lighting and contrast, and make the result look like an authentic modern film photograph rather than an illustration. Do not change the subject’s age, clothing design, composition, or expression; do not add extra people, text, borders, or watermark.
+```
+
+**来源：** [Snow](https://x.com/iamrealsnow) | 2026-05-30
+
+---
+
+
+### 🔧 例 315：涂鸦美学社交媒体照片编辑
+
+![涂鸦美学社交媒体照片编辑](../images/%E6%B6%82%E9%B8%A6%E7%BE%8E%E5%AD%A6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91.jpg)
+
+**Prompt:**
+
+```text
+将这张照片编辑成可爱的小红书/Pinterest风格{argument name="风格" default="涂鸦美学"}，保持原始构图和自然色彩。勿大幅改变原始光线或调色。保持柔和、通透、温暖、逼真的色调。避免过饱和、HDR效果、强橙色滤镜或过度对比。
+
+在主要物体周围添加手绘涂鸦元素：'白色描边' '草图闪闪' '星星' '爱心' '箭头' '小花' '顽皮旋涡' '迷你手写笔记'
+
+添加与照片氛围相匹配的{argument name="吉祥物" default="可爱吉祥物风格涂鸦（小熊、微笑饮料、可爱食物角色、困睡云等）"}，但保持精致平衡。
+
+使用手写白色文字和简短的文案标题。勿添加过多文字或使图像过度拥挤。以真实面孔作为参考照片。背景与照片相同。光线温暖、柔和、干净，阴影细致。
+
+围绕图像添加数个迷你{argument name="角色版本" default="Q版（3D可爱风格）角色版本"}，同时保持原始五官特征。Q版角色具有各种姿势和表情：'欢快跳跃' '挥手' '放松坐着' '拿饮料' '可爱顽皮表情'。
+
+添加手绘白色涂鸦元素：身体周围描边、星星、爱心、闪闪、运动线条、小可爱图标。
+
+美学手写风格如：'闪闪发光' '明亮一天' '开心' '微笑'等（随意涂鸦字体）。
+
+整体风格：简洁美学构图、白色贴纸描边、柔和粉彩色调、高细节3D Q版、光泽感、可爱韩风。
+```
+
+**来源：** [路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth) | 2026-05-30
+
+---
+

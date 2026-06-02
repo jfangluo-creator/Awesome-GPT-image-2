@@ -323,3 +323,144 @@ Create a Netflix homepage UI featuring a main hero film with its title and still
 
 ---
 
+
+### 🖥️ 例 251：AI 生成器界面中的 Minecraft 游戏画面
+
+![AI 生成器界面中的 Minecraft 游戏画面](../images/AI%20%E7%94%9F%E6%88%90%E5%99%A8%E7%95%8C%E9%9D%A2%E4%B8%AD%E7%9A%84%20Minecraft%20%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a square screenshot of a dark AI image-generation web interface showing a generated Minecraft gameplay screenshot. The interface should look like someone typed {argument name="user prompt" default="Generate a screenshot as if I'm playing Minecraft."} and received a rendered game image below it.
+
+Canvas: Square 1:1 image, approximately 576 by 576 pixels, dark black background, with the content aligned near the top-left and a large empty black margin on the right and bottom.
+
+Top UI layout: At the very top-left, show the white prompt text: “Generate a screenshot as if I'm playing Minecraft.” Beneath it, show a small blue label “Model” with a vertical three-dot menu icon beside it. Below that, draw a wide dark rounded rectangle dropdown bar containing the blue text “Thinking” and a small downward chevron. The UI should feel like a minimal web app in dark mode.
+
+Generated image panel: Under the dropdown, place a large square Minecraft-style gameplay screenshot with slightly rounded corners. The screenshot should be first-person perspective in a bright blocky village scene.
+
+Minecraft scene details: Show a sunny daytime village with a blue sky and exactly 8 visible white blocky cloud clusters. On the left foreground, include a partially visible wooden-and-cobblestone house with a wooden door, plank roof, cobblestone wall, and a lit torch. In the center distance, show a gray stone church/tower with narrow yellow-lit windows. Around it, include a small village house, a leafy green tree, grass blocks, a dirt path, and a fenced crop field. The crop field should contain golden wheat, green crops, a wooden fence border, and exactly 6 visible torch posts with yellow flames around the village/farm area. Keep the Minecraft aesthetic authentic: cubic blocks, pixelated textures, low-resolution game rendering, no photorealism.
+
+First-person HUD and equipment: In the lower left foreground, show a raised shield. In the lower right foreground, show the player holding an iron sword. Along the bottom, draw the Minecraft HUD with exactly 10 red hearts, exactly 10 hunger drumsticks, a green experience level number “18,” and a 9-slot hotbar. The hotbar should contain these 9 visible slots from left to right: shield icon, iron sword, pickaxe, axe, shovel, empty or dark slot, stack of 64 blocks, stack of 23 torches/items, stack of 17 items, plus a water bucket icon visible at the far right edge if space permits. Make the HUD slightly pixelated and game-accurate.
+
+Visual style: The whole image should look like an actual screenshot of a browser-based AI generator displaying a generated Minecraft gameplay image, not a clean standalone render. Use dark UI chrome, small crisp text, and a blocky game screenshot embedded inside it. No watermark, no extra captions, no logos.
+```
+
+**来源：** [maloy](https://x.com/maloymediika) | 2026-05-30
+
+---
+
+
+### 🖥️ 例 254：赛博朋克奇幻集换式卡牌 App
+
+![赛博朋克奇幻集换式卡牌 App](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%A5%87%E5%B9%BB%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%20App.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dark futuristic mobile web app screen for a custom trading card generator called {argument name="app name" default="CARDIFY"}, showing one completed fantasy TCG card ready to finalize.
+
+Canvas: Vertical smartphone screenshot, 720×1200 style aspect ratio, black and charcoal background with thin neon cyan divider lines and rounded borders. Overall look is premium cyberpunk UI mixed with high-detail fantasy card art.
+
+Layout: Top navigation bar contains exactly 3 visible elements: a large stylized CARDIFY logo on the left, a circular neon cyan shopping cart icon near the upper right, and a neon cyan three-line hamburger menu icon at the far right. Below it is a centered card preview inside a thin cyan rounded rectangle panel. Under the card preview, show small gray monospace text reading “Tap to flip card”. At the bottom, place exactly 3 action buttons: a large cyan-outlined rectangular button labeled “Finalize →”, a smaller yellow-outlined square button with a wrench icon, and a smaller purple-outlined square button with a download icon.
+
+Trading card design: The card is a vertical fantasy collectible card with rounded corners, ornate red-gold metallic frame, glowing crimson highlights, and electric purple energy curling around the border. The card title bar at the top reads {argument name="card title" default="The Moosk"} in large white serif type. On the right side of the title bar are exactly 3 circular mana/type icons: a skull icon, a red dragon/swirl icon, and a blue water droplet icon. The lower type bar reads {argument name="type line" default="Legendary Creature — Human Rogue"} in gold serif text, with a small star-like rarity emblem to its right. The flavor text box below reads {argument name="flavor text" default="He walks between worlds."} in italic white serif type. The bottom-right power/toughness badge reads {argument name="power toughness" default="5/4"} in large bold white numerals.
+
+Main card artwork: A dramatic anime-fantasy illustration of a lone male rogue viewed from behind, standing on a rocky cliff at sunset. He has short dark hair, dark armor, and a huge tattered black cloak streaming leftward in the wind. He holds a glowing orange-red sword pointed downward in his right hand. In the distance is a luminous ocean horizon with a large setting sun, red and purple clouds, and a dark spired fantasy city near the water. Purple lightning arcs and magical energy ribbons surround the character and frame, with red sparks scattered through the cloak and foreground. Use extremely detailed painterly digital art, high contrast, cinematic lighting, saturated magenta, violet, crimson, orange, and gold.
+
+Constraints: Keep the screen as a mobile app mockup, not a standalone card. Use exactly 1 trading card preview, exactly 3 top navigation elements, exactly 3 mana/type icons, and exactly 3 bottom action buttons. Preserve all visible UI text clearly. Do not add extra cards, popups, watermarks, or unrelated interface panels.
+```
+
+**来源：** [Cardify](https://x.com/Cardify_Club) | 2026-05-30
+
+---
+
+
+### 🖥️ 例 278：创作者锁屏壁纸
+
+![创作者锁屏壁纸](../images/%E5%88%9B%E4%BD%9C%E8%80%85%E9%94%81%E5%B1%8F%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a vertical smartphone lock-screen wallpaper themed around a creator/AI productivity influencer, with an iPhone-style interface over a bright blue sky and clouds background.
+
+Canvas: 9:16 vertical mobile wallpaper, realistic high-resolution composite, designed to look like a phone lock screen screenshot. Use a vivid daytime sky background with fluffy white clouds around the edges and a clear blue center.
+
+Main subject: Place one full-body young male creator in the center, shot from a dramatic low angle as if standing above the viewer. He wears a dark charcoal sweatshirt, dark joggers, sneakers, a thin chain necklace, and a smartwatch. His pose is confident, one hand making a peace sign and the other in his pocket. Add a hand-drawn yellow dashed outline following his body silhouette. Use {argument name="creator handle" default="@umesh_ai"} as the social handle shown in the design. Keep the face anonymized or softly blurred if needed.
+
+Lock-screen UI: At the top, show carrier text “Vi India” on the left, a black Dynamic Island pill with a small lock icon in the center, and signal, Wi‑Fi, and battery “92” on the right. Below it, show the date “Saturday, May 16” and a very large elegant serif time reading {argument name="lock screen time" default="09:41"}. On the left under the time, show weather: a partly cloudy icon, “28°”, “Partly Cloudy”, and “H:31° L:22°”. At the bottom, show two circular lock-screen buttons: flashlight on the left and camera on the right, plus the text “Swipe up to unlock” above the home indicator.
+
+Floating creator elements: Include exactly 8 small chibi-style mini avatars of the same creator around the main figure, all with matching red hoodie and dark hair, faces anonymized if needed. Count and positions: 1 left upper holding a video camera, 1 left middle holding a takeaway coffee cup, 1 left lower holding a sign with “@umesh_ai”, 1 left bottom holding a smartphone, 1 right upper flying with white wings, 1 right middle holding a camera rig, 1 right lower sitting with a laptop, and 1 far right bottom presenting beside a whiteboard.
+
+Analytics and creator graphics: Add exactly 4 data/creator panels: 1 translucent card labeled “Subscribers” with “104.7K” and “+12.5%”, 1 translucent card labeled “Engagement” with “83.6%” and “+8.1%”, 1 bottom-right whiteboard labeled “AI • Content • Data” with bar chart and pie chart, and 1 lower-left partial chart card showing a rising bar chart. Add hand-drawn white doodles around the subject: arrows, paper planes, stars, x marks, dashed motion trails, a chat bubble, and the handwritten words “FOCUS”, “CREATE”, “AI”, and “CONTENT”. Keep the doodles airy and sketch-like, not cluttered.
+
+Notifications: Include exactly 2 rounded translucent notification banners near the lower third. First notification: black X app icon, title “X”, time “2m ago”, and message “@umesh_ai just posted: Building in public. Sharing the journey.” Second notification: red YouTube icon, title “New Content Idea”, time “12m ago”, and message ““5 AI Tools That 10x Your Productivity” is trending now. Don’t miss it!” Use {argument name="content idea text" default="5 AI Tools That 10x Your Productivity"} for the quoted title.
+
+Visual style: Bright, polished, viral social-media wallpaper aesthetic; realistic central subject mixed with cute 3D chibi avatars, semi-transparent iOS glassmorphism panels, crisp typography, white doodle overlays, and high contrast against the blue sky. Make it energetic, motivational, and creator-economy themed. Avoid extra watermarks or unrelated text.
+```
+
+**来源：** [Umesh](https://x.com/umesh_ai) | 2026-05-30
+
+---
+
+
+### 🖥️ 例 296：男装时尚杂志垂直排版
+
+![男装时尚杂志垂直排版](../images/%E7%94%B7%E8%A3%85%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%9E%82%E7%9B%B4%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+Ultra-stylish cinematic fashion portrait collage of a {argument name="subject" default="handsome young man"} wearing a tailored black double-breasted suit with a black shirt and bold red tie, accessorized with round luxury sunglasses and a gold lapel pin. The composition features three vertical editorial-style panels showing different confident poses beside a calm {argument name="background" default="foggy waterfront"} background.Voluminous textured hairstyle, sharp jawline, light beard, luxury mafia-inspired aesthetic, elegant masculine attitude, modern gentleman vibe.Soft cold-tone cinematic lighting, muted blue-grey atmosphere, high-fashion magazine styling, premium luxury menswear campaign look, realistic skin texture, dramatic contrast, shallow depth of field, ultra detailed, DSLR quality, 4K, fashion editorial photography, sophisticated mood, clean background, stylish pose variations, rich fabric textures, premium color grading.
+```
+
+**来源：** [HeisenLegacy](https://x.com/MohdAdnanA86218) | 2026-05-30
+
+---
+
+
+### 🖥️ 例 302：街头风格生活方式肖像
+
+![街头风格生活方式肖像](../images/%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+A {argument name="subject" default="young woman with short dark brown wavy hair"}, smiling and looking to the side, standing outdoors in front of a large dark brown wooden door and brick building with white columns and stone steps. She is wearing an oversized {argument name="shirt color" default="light blue"} button-down shirt open over a fitted white ribbed crew-neck t-shirt, high-waisted straight-leg light wash blue jeans cropped at the ankle, and white low-top leather sneakers with a tan sole. She carries a brown leather structured crossbody bag on her right shoulder and holds a {argument name="drink" default="white takeaway coffee cup"} in her left hand. She wears small gold hoop earrings, a delicate gold necklace, and a bracelet. The ground is grey cobblestone pavement. Natural daylight, lifestyle/street style photography, clean and bright aesthetic.
+```
+
+**来源：** [Sarah](https://x.com/SyntheSarah) | 2026-05-30
+
+---
+
+
+### 🖥️ 例 313：Krea K2 Large 五联屏展示
+
+![Krea K2 Large 五联屏展示](../images/Krea%20K2%20Large%20%E4%BA%94%E8%81%94%E5%B1%8F%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a tall vertical showcase collage demonstrating the artistic range of {argument name="model name text" default="Krea K2 Large"}, split into exactly 5 stacked horizontal panels with no outer border and minimal spacing between panels.
+
+Canvas: Vertical social-media image, approximately 9:16 aspect ratio. Each panel spans the full width. Use cinematic, high-detail rendering with different art styles per panel.
+
+Layout: Exactly 5 horizontal bands from top to bottom:
+1. Top panel: black-and-white pencil manga sketch of a teenage boy floating or falling with arms outstretched between very tall dense city skyscrapers, viewed from a dramatic overhead/oblique perspective. The buildings are drawn with loose architectural linework, hatching, and sketch marks; the boy is centered, wearing a simple T-shirt, shorts, and sneakers, hair tousled, expression serious.
+2. Second panel: dark epic fantasy/sci-fi scene of a colossal whale-like flying battleship or armored leviathan moving through storm clouds over rugged mountains. It has a glowing red eye and heavy biomechanical plating. There are explosions and fire bursts on its back, smoky clouds, orange tracer streaks, and small bird silhouettes in the lower right. Moody gray lighting with dramatic contrast.
+3. Middle panel: abstract blue metallic brushed background with diagonal light streaks and lens-like gradients. Place large bold white sans-serif text reading {argument name="model name text" default="Krea K2 Large"} centered slightly left, with a subtle red/cyan chromatic aberration or glitch shadow on the left edges of the letters.
+4. Fourth panel: bright photorealistic summer image of a golden retriever floating on its back in vivid turquoise swimming pool water, eyes closed and relaxed. A colorful butterfly rests on the dog’s nose or forehead area. Surround the dog with tropical fruit floating around the water: bananas, apples, pears, peaches, lemons, pineapples, grapefruit halves, watermelon slices, pomegranate, and other bright fruit. Saturated cheerful colors, crisp sunlight, playful composition.
+5. Bottom panel: monochrome traditional ink-wash action illustration of two samurai warriors fighting in shallow water. The figures are mid-struggle with swords and splashing water, loose expressive brush strokes, sepia-black ink on white paper, dynamic motion and splatter texture.
+
+Visual style: Make every panel feel like a separate high-quality generation sample: manga sketch, cinematic creature concept art, sleek tech title card, bright photoreal pool photography, and Japanese ink-wash battle art. Maintain sharp detail and strong composition in all panels.
+
+Text content: The only readable text is the large title {argument name="model name text" default="Krea K2 Large"} in the center panel.
+
+Constraints: Use exactly 5 panels, exactly 1 text title panel, no logos, no watermark, no extra captions, no UI, no borders beyond the natural panel divisions.
+```
+
+**来源：** [角煮星丸](https://x.com/_3912657840) | 2026-05-30
+
+---
+

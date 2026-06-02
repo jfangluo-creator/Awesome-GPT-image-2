@@ -887,3 +887,320 @@ INPUT_TEXT：Phoenix Rebirth
 
 ---
 
+### 🎴 例 240：武士审查海报
+
+![武士审查海报](../images/%E6%AD%A6%E5%A3%AB%E5%AE%A1%E6%9F%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create a dramatic fashion-editorial poster of a gritty wandering samurai holding a katana diagonally across the body. The subject is a single half-body figure with messy black hair tied in a loose topknot, windblown strands, rugged layered dark gray-black robes, dirty weathered fabric, frayed sleeves, leather cords at the waist, and a battle-worn metal katana with an ornate black-and-gold wrapped handle and round guard. The face must be obscured by a centered opaque square censor block in warm dark brown, covering the facial features while leaving hair, ear, hand, clothing, and sword visible. Compose the figure inside a bold abstract diagonal hot-pink slash shape on a clean white background, with sharp white geometric cutouts crossing the image so the pink shape feels like a large angular lightning-bolt or folded ribbon. Use high-contrast photorealistic detail, gritty texture, ink splatters and grime around the figure, strong daylight, crisp shadows, and a magazine-cover/poster aesthetic. The katana blade should run from the upper left handle area down toward the lower right foreground, long and reflective, dominating the composition. Add a small handwritten signature/date note in the bottom-right white margin reading {argument name="date text" default="May 28, 2026"} on the first line and {argument name="signature text" default="Oyagi"} on the second line. Keep the canvas vertical 2:3, minimal, no other text, no border, no watermark.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2059835686489030810) | 2026-05-28
+
+---
+
+
+### 🎴 例 250：饮料品牌户外广告活动
+
+![饮料品牌户外广告活动](../images/%E9%A5%AE%E6%96%99%E5%93%81%E7%89%8C%E6%88%B7%E5%A4%96%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+Use the provided reference image of me for facial resemblance only and the provided {argument name="product" default="Cola Next"} can as the product reference. Create a premium low-angle commercial fashion campaign photograph of a {argument name="subject" default="confident young South Asian male model"} holding a large {argument name="product" default="Cola Next"} can very close to the camera, with forced perspective so the hand and can dominate the foreground. Keep the full body visible in the background in a wide, dynamic stance. Change the hairstyle, pose, outfit, and expression creatively for a polished ad-campaign look. Style the model in bold fashion-forward streetwear with red, black, white, and yellow tones inspired by major Pepsi/Coca-Cola advertising aesthetics. Use a dynamic red studio background with glowing light trails, energetic motion graphics, glossy floor reflections, high-key commercial lighting, sharp product focus, slight depth of field on the model, natural skin texture, glossy packaging detail, visible condensation droplets on the can, crisp shadows, and a modern premium commercial photography style. Add bold classic advertising typography such as “TASTE THE NEXT,” “BOLD FLAVOR. ICE-COLD ENERGY,” and “DRINK IT COLD.” The final image should feel like a global beverage billboard campaign — stylish, energetic, high-end, and visually powerful.
+```
+
+**来源：** [Zeeshan](https://x.com/Zeeshfilms) | 2026-05-30
+
+---
+
+
+### 🎴 例 253：三联画时尚广告大片
+
+![三联画时尚广告大片](../images/%E4%B8%89%E8%81%94%E7%94%BB%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic Hollywood male model with a stylish beard and confident masculine aura, perfectly consistent in every panel. Three-panel {argument name="style" default="fashion campaign"} showcasing: futuristic premium streetwear, monochrome high-fashion editorial styling, and luxury leather designer fashion. Bold creative backgrounds, dramatic studio lighting, fashion week atmosphere, premium textures, layered accessories, photorealistic details, cinematic editorial photography.
+```
+
+**来源：** [Cherry 2.O](https://x.com/Mind_Boticni) | 2026-05-30
+
+---
+
+
+### 🎴 例 263：高迪风格香水瓶网格设计
+
+![高迪风格香水瓶网格设计](../images/%E9%AB%98%E8%BF%AA%E9%A3%8E%E6%A0%BC%E9%A6%99%E6%B0%B4%E7%93%B6%E7%BD%91%E6%A0%BC%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a luxurious vertical product photography poster showing {argument name="bottle count" default="9"} premium perfume bottles inspired by Antoni Gaudí architecture, arranged in a perfect 3×3 grid on a glossy white marble surface.
+
+Canvas: Vertical 9:16 aspect ratio, studio product shot, warm champagne-gray background with soft circular bokeh lights, shallow depth of field, high-end advertising look, clean spacing between rows and columns.
+
+Layout: Exactly 9 distinct perfume bottles, evenly arranged in three rows of three. Each bottle sits upright, front-facing, with its own ornate label and sculptural cap. Use realistic glass, ceramic, enamel, polished gold metal, reflections, refractions, and subtle shadows.
+
+Subject details: The bottles are uniquely shaped and Gaudí-inspired, with organic biomorphic curves, trencadís mosaic patterns, Art Nouveau gold filigree, stained-glass colors, and architectural silhouettes.
+
+Bottle list, counted exactly 9:
+1. Top left: Tall cathedral-spire bottle with pointed gold finial, blue-purple stained-glass mosaic panels, gold ribbed framing, label text “SAGRADA BLOOM”.
+2. Top center: Round aqua-blue glass bottle with swirling teal and gold fluid curves, transparent domed blue cap, label text “GAUDÍ’S MUSE”.
+3. Top right: White ceramic pear-shaped bottle with flared sculptural neck, multicolor trencadís mosaic tiles in orange, blue, cream, and red, label text “TRENCADÍS WHISPER”.
+4. Middle left: Skull-shaped bottle inspired by Casa Batlló, turquoise and cream bone-like organic openings, gold bulb cap, label text “CASA BATLLÓ”.
+5. Middle center: Amber-gold oval bottle with green leaf reliefs, organic vine-like gold ornamentation, flame-shaped green and amber cap, label text “ORGANIC REVERIE”.
+6. Middle right: Red-orange mosaic bottle with spiral pattern, glowing flame-shaped cap, gold neck, label text “MOSAIC FLAME”.
+7. Bottom left: Playful lizard/gecko-shaped bottle covered in bright Park Güell-style mosaic tiles, small gold feet and tail details, label text “PARK GÜELL”.
+8. Bottom center: Clear rounded bottle wrapped by a tall looping figure-eight ribbon of blue and gold glass, gold sprayer visible, label text “CURVED ETERNITY”.
+9. Bottom right: Deep navy-black glossy bottle with gold Art Nouveau collar and flared black-and-gold crown cap, subtle architectural patterning, label text “BARCELONA NOCTURNE”.
+
+Text content: Each label should also include small luxury perfume text “EAU DE PARFUM” and a tiny signature line “by Shams”. Use elegant serif typography, centered on ornate cream labels with gold borders.
+
+Visual style: Hyper-detailed luxury commercial product photography, premium fragrance advertisement, photorealistic rendering, crisp focus on bottles, warm rim lighting, sparkling highlights, glossy reflections, refined gold accents, soft cinematic glow.
+
+Constraints: Keep the 3×3 grid exact, include only the 9 listed bottles, preserve all visible label names, avoid extra objects, avoid people, avoid clutter, no watermark.
+```
+
+**来源：** [Shams](https://x.com/ShamsAmin56) | 2026-05-30
+
+---
+
+
+### 🎴 例 265：电影感线程归档搜索海报
+
+![电影感线程归档搜索海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BA%BF%E7%A8%8B%E5%BD%92%E6%A1%A3%E6%90%9C%E7%B4%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic vertical tech poster about searching historical conversation threads by content and branch name in a developer app.
+
+Canvas: Vertical 2:3 composition, dark premium editorial style, deep navy-black background with subtle star-like dust and a warm golden beam of light entering from the upper right.
+
+Main text: At the top center, large bold Chinese headline {argument name="headline text" default="按内容与分支搜历史线程"}. Below it, centered smaller gold subtitle {argument name="app version" default="Codex App 26.527"}. Add a tiny decorative divider line with a small diamond under the subtitle.
+
+Main subject: In the lower half, show an old dark metal archive filing cabinet at a three-quarter angle, with one drawer pulled open toward the viewer. The drawer front has a brass label plate reading “THREAD ARCHIVE” and a curved brass handle. The cabinet surface should feel heavy, matte, slightly worn, and realistic, with shallow depth of field.
+
+Drawer contents: Inside the open drawer, show exactly 4 prominent stacked paper thread cards, each like an archival index card with rounded corners, warm ivory paper, and a small dark chat-bubble icon at the left. The visible card texts are: 1) “导出功能支持哪些格式?” with branch tag “feature/export-csv”, 2) “新版 API 兼容性讨论” with branch tag “refactor/api-v2”, 3) “用户登录流程的边界情况” with branch tag “fix/login-edge”, 4) front glowing card “如何优化加载性能?” with branch tag {argument name="featured branch tag" default="feature/perf-opt"}. The front card should glow brightest, as if it has been found by search.
+
+Floating UI elements: Add exactly 2 floating search-result elements to the right of the drawer: one glowing branch label reading “feature/perf-opt” connected by a dotted golden path from the front card, and one small outlined chat bubble containing three dots. Add exactly 4 branch tags attached to cards in the drawer, one per card, styled as thin rounded rectangles with a branch icon.
+
+Lighting and mood: Use a warm golden particle trail and dust motes around the highlighted card and floating branch label, contrasting with the cool dark cabinet. Make the scene atmospheric, elegant, high-end, and slightly magical, like an archival search feature visualized as light finding the correct thread.
+
+Visual style: Realistic 3D illustration mixed with refined product-marketing poster design, cinematic lighting, soft bloom, shallow depth of field, crisp typography, subtle grain, no people, no extra logos, no watermark. Keep all text legible and avoid adding additional labels beyond the specified headline, subtitle, card texts, branch tags, and drawer label.
+```
+
+**来源：** [thinkthinking](https://x.com/thinkthinking_) | 2026-05-30
+
+---
+
+
+### 🎴 例 267：新中式时尚杂志封面
+
+![新中式时尚杂志封面](../images/%E6%96%B0%E4%B8%AD%E5%BC%8F%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+顶尖现代时尚杂志封面大片，一位{argument name="年龄" default="20岁左右"}的国风美女，身着{argument name="服装" default="改良版华丽古装（汉服元素）"}。她拥有丰腴匀称的沙漏型身材，裁剪得体的古装完美勾勒出优美曲线。神态灵动娇俏，眼神带着一丝俏皮与卖萌的可爱感，直视镜头。精致的古风发饰，肤如凝脂。哈苏相机拍摄，高级社论排版构图。电影级光影，{argument name="背景" default="新中式古典屏风背景"}，高级商业时尚大片质感，极致逼真。
+```
+
+**来源：** [Adam也叫吉米](https://x.com/Adam38363368936) | 2026-05-30
+
+---
+
+
+### 🎴 例 268：奢华婚纱时尚帝国海报
+
+![奢华婚纱时尚帝国海报](../images/%E5%A5%A2%E5%8D%8E%E5%A9%9A%E7%BA%B1%E6%97%B6%E5%B0%9A%E5%B8%9D%E5%9B%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-luxury cinematic bridal fashion empire poster inspired by premium viral AI storytelling campaigns on X/Twitter. Design a breathtaking {argument name="color palette" default="black, gold, and ruby-red"} masterpiece featuring a {argument name="bride style" default="stunning South Asian bride"} as the central visionary figure, standing gracefully inside a {argument name="palace setting" default="magnificent royal palace surrounded by towering marble columns, crystal chandeliers, and golden reflections"}. Showcase a handcrafted couture lehenga adorned with intricate gold zardozi embroidery, royal jewelry, flowing embroidered dupatta, and timeless heritage craftsmanship. Surround the central figure with elegant luxury fashion panels highlighting Bridal Couture, Heritage Embroidery, Royal Jewelry, Premium Fabrics, Luxury Craftsmanship, and Timeless Elegance. Display a massive gold title at the top: {argument name="title" default="LUXURY LEHENGA"} Below the title, add the tagline: FROM HERITAGE TO ELEGANCE. FROM TRADITION TO COUTURE. Create a visually stunning infographic-style luxury poster with dramatic cinematic lighting, glossy marble floor reflections, floating golden particles, ultra-realistic fabric textures, magazine-cover composition, luxury branding elements, and premium editorial aesthetics. Use a rich black and gold color palette, Vogue-level fashion photography, hyper-detailed craftsmanship, photorealistic rendering, 8K HDR quality, masterpiece composition, award-winning luxury campaign design, trending on X, and elegant gold typography throughout.
+```
+
+**来源：** [Noira.](https://x.com/veylorvisions) | 2026-05-30
+
+---
+
+
+### 🎴 例 271：超大号 Pringles 时尚广告
+
+![超大号 Pringles 时尚广告](../images/%E8%B6%85%E5%A4%A7%E5%8F%B7%20Pringles%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+Create a polished studio advertising product shot for {argument name="brand and product" default="Pringles Sour Cream & Onion"}, with an oversized green cylindrical snack can held very close to the camera in extreme foreground by a fashion model. The can dominates the left side of the frame, tilted slightly diagonally, with a visible silver rim and bottom edge, realistic hand and fingers gripping it, and crisp label details: Pringles mascot face with mustache at top, red Pringles logo panel, white flavor text reading “SOUR CREAM & ONION,” illustrated potato chips, green onion ribbons, sour cream dip bowl, small garnish dots, and “165 g” near the bottom. In the background on the right, show a full-body young woman in a dynamic low-angle pose leaning backward, face intentionally blurred or obscured, wearing {argument name="hoodie color" default="bright orange"} cropped hoodie, {argument name="skirt color" default="emerald green"} pleated mini skirt, white crew socks, and white high-top sneakers. Use a clean seamless white studio background with soft shadows on the floor, high-key commercial lighting, glossy realistic packaging, saturated brand colors, wide-angle perspective exaggeration, sharp focus on the can and hand, slightly softer model depth, energetic Gen Z fashion campaign mood, no extra text beyond the packaging label, no watermark.
+```
+
+**来源：** [Amira Zairi](https://x.com/azed_ai) | 2026-05-30
+
+---
+
+
+### 🎴 例 276：韩式朋克杂志封面风格
+
+![韩式朋克杂志封面风格](../images/%E9%9F%A9%E5%BC%8F%E6%9C%8B%E5%85%8B%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic editorial punk magazine cover featuring a defiant {argument name="subject" default="Korean woman"} in a hand-distressed black leather biker jacket covered in safety pins, DIY patches, and painted slogans, worn over a shredded fishnet top and a plaid micro-mini kilt with chunky Doc Marten boots. Choppy asymmetric dark lob with red-streaked face-framing strands, smudged kohl eyes, matte blood-red lips. Silver spike choker, stacked chain bracelets, knuckle rings. Background: torn-paper collage texture — black-and-white photocopied portraits, ransom-note typography fragments, screen-print blocks in burnt orange and cream. "{argument name="magazine" default="ROLLING STONE"}" in rough stencil spray-paint font. Gritty, high-contrast, analog grain, zine aesthetic, photorealistic skin, 8K ultra detail. 
+
+Negative: clean polished background, soft tones, cartoon, anime, blurry. 1744x2336
+```
+
+**来源：** [Zephyra Leigh](https://x.com/ZephyraLeigh) | 2026-05-30
+
+---
+
+
+### 🎴 例 281：Rams Park 足球科技海报
+
+![Rams Park 足球科技海报](../images/Rams%20Park%20%E8%B6%B3%E7%90%83%E7%A7%91%E6%8A%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dramatic vertical sports-engineering poster for {argument name="player name" default="ARDA GÜLER"} at {argument name="stadium name" default="RAMS PARK"}, combining a cinematic football hero hologram with detailed blueprint-style stadium data overlays.
+
+Canvas: Portrait 4:5 poster, dark navy night palette, high contrast, ultra-detailed, futuristic technical infographic aesthetic. Background is an aerial nighttime city view with a brightly lit oval football stadium at the bottom center. From the stadium roof, red-orange energy beams and particles project upward to form a giant semi-transparent football player running toward the viewer.
+
+Central subject: A young male footballer in a red {argument name="national team" default="Turkey"} jersey, number {argument name="jersey number" default="8"}, with the Turkish flag badge on the chest and a white swoosh logo. He is mid-run with clenched hands, athletic posture, glowing red electrical outlines, sparks, and holographic scan lines. Add a soft rectangular anonymized blur over the face, as if the face has been intentionally obscured. The lower body dissolves into red light streams connecting into the stadium.
+
+Main stadium: Large modern oval stadium seen from above at night, orange-red illuminated facade, glowing open roof, visible sign reading “RAMS PARK” on the front. Add a Galatasaray-style crest centered on the facade. The stadium emits intense red-white light upward, like a sports-tech energy projection.
+
+Layout: Surround the central player and stadium with exactly 13 technical information panels drawn in thin white blueprint lines, using small condensed uppercase technical typography, subtle grid marks, measurement arrows, and schematic line art.
+
+Panel count and content:
+1. Top-left title plate: “ALI SAMI YEN SPOR KOMPLEKSI”, huge headline “RAMS PARK”, coordinates “40.8606° N, 28.9940° E”, and “ISTANBUL, TÜRKIYE”.
+2. Left upper stadium info panel: “STADIUM INFO ///”, capacity “52,223 SPECTATORS”, construction “2007”, renovation “2021”, plus a stylized signature.
+3. Left middle dimensions panel: small top-down stadium plan, labels “LENGTH: 105 m”, “WIDTH: 68 m”, “TOTAL AREA: 85,000 m²”.
+4. Left player identity card: large name “ARDA GÜLER”, large number “8”, small Turkish flag, labels “TURKEY”, “ATTACKING MIDFIELDER”, “RIGHT FOOTED”.
+5. Left biometrics panel: “PLAYER BIOMETRICS ///” with exact stat list: Height 1.76 m, Weight 67 kg, Top Speed 32.1 km/h, Acceleration 4.2 m/s², Stamina 94/100, Agility 93/100, Vision 95/100, Pass Accuracy 91/100, Shot Power 88/100, Energy Output 98%.
+6. Left lower chart: “ENERGY OUTPUT” with a white waveform graph and “98%”.
+7. Top-right roof engineering panel: circular roof structure blueprint titled “ROOF ENGINEERING”, labels “STEEL CABLE STRUCTURE”, “ETFE MEMBRANE COVER”, “RING BEAM SYSTEM”, “MAX CANTILEVER 65 m”.
+8. Right upper cross-section panel: stadium section drawing titled “CROSS SECTION”, labels “UPPER TIER”, “MIDDLE TIER”, “LOWER TIER”, “PREMIUM LEVEL”, “PITCH LEVEL”.
+9. Right material quantities panel: “MATERIAL QUANTITIES” with list: Steel (structural) 18,000 ton, Concrete 42,000 m³, ETFE membrane 48,000 m², Cables total length 24,000 m, Seats 52,223.
+10. Right middle tactical heatmap panel: mini football pitch with red-orange heat dots and white tactical arrows, titled “TACTICAL HEATMAP ///”.
+11. Right movement patterns panel: “MOVEMENT PATTERNS ///” with four rows labeled “SPRINT”, “DRIBBLE”, “PASS”, “RUN LINE”, each represented by arrow and dashed line patterns.
+12. Bottom-left load flow diagram: structural roof/load schematic titled “LOAD FLOW DIAGRAM”, labels “VERTICAL LOAD”, “HORIZONTAL LOAD”, “WIND LOAD”, “CABLE TENSION”.
+13. Bottom center/right engineering base panels: include “ELEVATION (SOUTH)” with stadium elevation drawing and measurements “274 m” width and “45 m” height, plus “FOUNDATION & STRUCTURE” showing pile foundation cross-section with labels “PILE FOUNDATION Ø1500mm”, “DEPTH: 35 m”, “PILE COUNT: 304”, “REINFORCED CONCRETE RING BEAM”.
+
+Visual style: Photorealistic stadium and city, mixed with holographic red particle effects and crisp CAD blueprint overlays. Use thin white technical lines, subtle scan texture, glowing red highlights, star-like particles, lens bloom, and dark atmospheric haze. Typography should look like a condensed industrial monospace display font, mostly uppercase, with intentionally dense but legible micro-labels.
+
+Constraints: Keep exactly one central player, one main stadium, and exactly 13 surrounding technical panels. Do not add extra logos beyond the Turkish flag, simple swoosh-like mark, RAMS PARK text, and the crest on the stadium facade. Maintain the face-obscuring rectangular blur. No watermark, no social media UI, no extra captions outside the poster design.
+```
+
+**来源：** [mertzabun.ai](https://x.com/mertzabunai) | 2026-05-30
+
+---
+
+
+### 🎴 例 284：FIFA 世界杯海报设计
+
+![FIFA 世界杯海报设计](../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic FIFA World Cup 2026 poster design, vertical format 4:5, clean premium sports editorial aesthetic with minimalist beige studio background. Center composition featuring a {argument name="player identity" default="stylish Indonesia football player"} sitting confidently on a large geometric block with the {argument name="player number" default="number “7”"} printed in bold red on the front.The player wears a modern Indonesia national team football kit in {argument name="kit color" default="vivid textured red"} with black collar trim, black kelme logo, Indonesia football crest, captain armband with white “C”, red socks with black stripes, and white football boots. The player has messy silver-gray hair, sharp jawline, pale skin, tattoo-covered neck and arms, fashionable K-pop inspired appearance, intense facial expression, relaxed pose with elbows on knees and hands clasped. lighting is soft and cinematic with subtle shadows and ultra-detailed skin texture, fabric folds, tattoos, and realistic reflections. Background includes oversized transparent number “7” behind the player, modern graphic layout elements, thin black divider lines, minimalist dots, Indonesia flags, football federation inspired logos, typography blocks, and editorial text placements. Include text such as: “FIFA WORLD CUP 2026”, “INDONESIA”, “{argument name="name" default="YOUR NAME"}”, “FORWARD / 7”, “ROAD TO 2026”,“WE, THE GARUDA”. Design style combines luxury sports branding, FIFA promotional poster aesthetics, modern magazine layout, Korean street-fashion influence, and premium football campaign visuals. Symmetrical composition, centered framing, ultra-sharp details, realistic textures, high contrast, soft beige and red color palette, photorealistic quality, 8k resolution, professional typography hierarchy, clean spacing, modern poster grid system.
+```
+
+**来源：** [Kashberg](https://x.com/Kashberg_0) | 2026-05-30
+
+---
+
+
+### 🎴 例 286：复古武汉热干面海报
+
+![复古武汉热干面海报](../images/%E5%A4%8D%E5%8F%A4%E6%AD%A6%E6%B1%89%E7%83%AD%E5%B9%B2%E9%9D%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a vintage Chinese food-and-city tourism poster for {argument name="city name" default="Wuhan"} and {argument name="signature dish" default="hot dry noodles"}, combining local landmarks, regional flavor, and retro print texture.
+
+Canvas: Vertical poster, 4:5 aspect ratio, warm sepia and dark teal palette, weathered halftone paper grain, ink-wash edges, distressed screen-print look, dramatic food photography mixed with illustrated architectural collage.
+
+Layout: Large cream-white Chinese brush calligraphy dominates the upper left reading “武汉 你好”, with the small English subtitle “HELLO WUHAN” below it. The upper right contains a large ornate landmark tower, the Yellow Crane Tower, rendered in golden-brown detail with layered eaves, smoke and mist around its base. Behind it is a faded Wuhan skyline with a long steel bridge crossing the middle left, a riverfront city silhouette, a clock-tower-style historic building on the right, and a thin modern TV tower in the distance. The bottom half is dominated by one large porcelain bowl of noodles in the foreground, cropped close and centered slightly right, steaming and glossy.
+
+Discrete visible elements to include: exactly 1 main food bowl; exactly 1 signature dish inside it, hot dry noodles with thick noodles, sesame paste sheen, chili oil, diced pickled vegetables, sesame seeds, and chopped green onions; exactly 5 major city/landmark background elements: Yellow Crane Tower, Yangtze River bridge, distant skyline, TV tower, and historic clock tower; exactly 1 small red seal stamp near the central title; exactly 1 small red flag on the right-side tower; exactly 3 small foreground garnish/scatter details near the bottom edge: scallion pieces, sesame seeds, and a pair of chopsticks partly visible at the lower right.
+
+Text content: Top left small title “一城一菜” with tiny English “ONE CITY ONE DISH”. Main oversized brush text “武汉 你好”. Red seal text “汉味”. Right vertical Chinese text “热干面” with small vertical English “HOT DRY NOODLES”. Handwritten-style left slogan “芝麻浓香里 藏着武汉清晨”. Bottom left large title “江城面记”, small romanization “JIANGCHENG MIANJI”, and bottom tagline “一城一味 · 一面一故事” with tiny English “ONE CITY, ONE TASTE / ONE BOWL, ONE STORY”. Add decorative blue Chinese writing around the inside rim of the bowl, including “江城面记”.
+
+Visual style: Bold travel-poster composition, retro Chinese advertising poster, high-detail food realism in the foreground, painterly architectural background, rough beige paper texture, navy-blue sky wash, cream calligraphy, deep red accents, burnt orange highlights, cinematic contrast, authentic regional souvenir packaging aesthetic.
+
+Constraints: Keep all visible text legible and placed as described. Do not add extra dishes, people, logos, QR codes, modern UI elements, or watermarks. Maintain a nostalgic cultural food poster feel suitable for restaurant branding, culinary tourism, and city souvenir packaging.
+```
+
+**来源：** [Larus Canus](https://x.com/MrLarus) | 2026-05-30
+
+---
+
+
+### 🎴 例 290：颓废拼贴风格时尚肖像
+
+![颓废拼贴风格时尚肖像](../images/%E9%A2%93%E5%BA%9F%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic stylish man with {argument name="hair" default="curly hair and beard"}, black sunglasses, oversized black shirt, beige trousers, gold chain, luxury watch, one hand on face, grunge black-and-white collage background with {argument name="elements" default="Pegasus, police car, perfume bottle, newspaper textures, vinyl record"}, cinematic lighting, fashion editorial, 8K, sharp focus.
+```
+
+**来源：** [Karlos](https://x.com/de_mon010) | 2026-05-30
+
+---
+
+
+### 🎴 例 293：电影级双重曝光旅行海报
+
+![电影级双重曝光旅行海报](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Ultra realistic cinematic travel poster featuring an ({argument name="subject" default="man"}) standing confidently while holding a smartphone, wearing ({argument name="clothing" default="black jacket, and backpack"}) , minimalist beige background, modern editorial tourism advertisement style, double exposure effect blending ({argument name="location" default="india"}) cityscape inside his body and jacket, () monument, landmark, destination, nature integrated seamlessly, soft matte cinematic lighting, warm beige and earth tone color grading, luxury magazine layout, clean typography composition on the right side, modern condensed bold font saying (india), premium travel campaign aesthetic, realistic skin texture, shallow depth of field, atmospheric urban mood, highly detailed, professional poster design, soft shadows, elegant negative space, Instagram travel editorial style, 8k, 3:4 Aspect ratio
+```
+
+**来源：** [Maverick | AI](https://x.com/RizwanAly07) | 2026-05-30
+
+---
+
+
+### 🎴 例 304：漫威风格哈利·波特海报
+
+![漫威风格哈利·波特海报](../images/%E6%BC%AB%E5%A8%81%E9%A3%8E%E6%A0%BC%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Marvel-style superhero poster of {argument name="character" default="Harry Potter"}, anime/manga art style, wearing {argument name="outfit" default="Hogwarts uniform with Gryffindor scarf"}, holding wand, dramatic lighting, dynamic pose. Marvel logo at top left. "HARRY POTTER" bold title text in center. {argument name="color scheme" default="Red, white, black"} color scheme. Comic book poster layout with graphic design elements, sharp details, cinematic, high quality 8k, poster art
+```
+
+**来源：** [simply](https://x.com/kingofdairyque) | 2026-05-30
+
+---
+
+
+### 🎴 例 305：Instagram 里程碑网红海报
+
+![Instagram 里程碑网红海报](../images/Instagram%20%E9%87%8C%E7%A8%8B%E7%A2%91%E7%BD%91%E7%BA%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Ultra realistic Instagram milestone celebration poster design. A stylish teenage boy with trendy sunglasses, wearing the {argument name="outfit" default="exact same outfit adapted from the uploaded reference image"}, including matching colors, fashion style, hairstyle, accessories, and overall aesthetic. Two different poses of the same boy one upper-body stylish portrait looking sideways at the top right, and one full-body sitting pose on giant metallic 3D "{argument name="text" default="unlimited"}" text at the bottom center. Cinematic orange and golden lighting, glowing bokeh background, luxury urban night vibe, ultra detailed face, sharp jawline, realistic skin texture, volumetric lighting, premium fashion photography style, dramatic shadows, stylish typography saying “Unlimited Mindset”, motivational quotes, signature logo, crown doodle, highly detailed metallic text, depth of field, Instagram influencer poster style, 4K ultra realistic, high contrast, trending AI art style.
+```
+
+**来源：** [ORHAN](https://x.com/OrhanGhazi65942) | 2026-05-30
+
+---
+
