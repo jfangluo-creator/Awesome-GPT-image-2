@@ -1,0 +1,27 @@
+{
+  "name": "awesome-gpt-image-2",
+  "version": "1.0.0",
+  "description": "个人精选的 GPT image 2 图像生成案例收藏，收集有趣的 prompt 与生成效果。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfangluo-creator/Awesome-GPT-image-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jfangluo-creator/Awesome-GPT-image-2/issues"
+  },
+  "homepage": "https://github.com/jfangluo-creator/Awesome-GPT-image-2#readme",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

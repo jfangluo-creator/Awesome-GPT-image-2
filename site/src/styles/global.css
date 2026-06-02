@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: #fafafa;
+    --color-surface: #ffffff;
+    --color-text: #18181b;
+    --color-text-secondary: #71717a;
+    --color-border: #e4e4e7;
+    --color-accent: #6366f1;
+  }
+
+  .dark {
+    --color-bg: #0f0f11;
+    --color-surface: #1a1a1e;
+    --color-text: #fafafa;
+    --color-text-secondary: #a1a1aa;
+    --color-border: #27272a;
+    --color-accent: #818cf8;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    transition: background-color 0.3s, color 0.3s;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl overflow-hidden border transition-all duration-300;
+    background-color: var(--color-surface);
+    border-color: var(--color-border);
+  }
+
+  .card:hover {
+    @apply shadow-lg -translate-y-1;
+    border-color: var(--color-accent);
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium;
+    background-color: color-mix(in srgb, var(--color-accent) 15%, transparent);
+    color: var(--color-accent);
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 rounded-lg text-white font-medium transition-all duration-200;
+    background-color: var(--color-accent);
+  }
+
+  .btn-primary:hover {
+    @apply opacity-90 shadow-md;
+  }
+}
+
+/* Masonry layout */
+.masonry {
+  columns: 2;
+  column-gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .masonry {
+    columns: 3;
+  }
+}
+
+@media (min-width: 1024px) {
+  .masonry {
+    columns: 4;
+  }
+}
+
+@media (min-width: 1280px) {
+  .masonry {
+    columns: 5;
+  }
+}
+
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-secondary);
+}
+
+/* Modal backdrop */
+.modal-backdrop {
+  @apply fixed inset-0 z-50 flex items-center justify-center p-4;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+}
