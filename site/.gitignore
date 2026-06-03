@@ -4,3 +4,5 @@ dist/
 .DS_Store
 *.log
 _screenshot_*.png
+public/thumbs/
+public/display/

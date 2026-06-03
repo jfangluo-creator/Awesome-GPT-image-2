@@ -38,6 +38,9 @@ jobs:
       - name: Parse cases
         run: cd site && npm run parse
 
+      - name: Generate thumbnails
+        run: cd site && npm run thumbs
+
       - name: Build
         run: cd site && npx astro build
 

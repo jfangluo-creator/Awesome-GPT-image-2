@@ -21,6 +21,9 @@ interface CaseData {
   categoryName: string;
   emoji: string;
   image: string;
+  display: string;
+  width: number;
+  height: number;
   prompt: string;
   promptZh: string;
   promptEn: string;
@@ -57,7 +60,7 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
 
   if (!caseData) return null;
 
-  const imageUrl = `${imageBase}/${encodeImagePath(caseData.image)}`;
+  const imageUrl = `${imageBase}/${encodeImagePath(caseData.display || caseData.image)}`;
 
   return (
     <div className="modal-backdrop" onClick={onClose}>
@@ -75,7 +78,7 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
         </button>
 
         <div className="bg-black/5 dark:bg-white/5">
-          <img src={imageUrl} alt={caseData.title} className="w-full max-h-[60vh] object-contain" loading="lazy" />
+          <img src={imageUrl} alt={caseData.title} className="w-full max-h-[60vh] object-contain" />
         </div>
 
         <div className="p-6 space-y-4">

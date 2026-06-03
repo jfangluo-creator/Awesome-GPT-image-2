@@ -26,6 +26,11 @@ interface CaseData {
   categoryNameEn: string;
   emoji: string;
   image: string;
+  thumb: string;
+  display: string;
+  blur: string;
+  width: number;
+  height: number;
   prompt: string;
   promptZh: string;
   promptEn: string;
@@ -203,13 +208,20 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
               style={{ animationDelay: `${Math.min(i * 30, 600)}ms`, opacity: 0 }}
               onClick={() => handleCaseClick(c)}
             >
-              <div className="relative overflow-hidden">
+              <div className="relative overflow-hidden" style={{
+                backgroundImage: c.blur ? `url(${c.blur})` : undefined,
+                backgroundSize: 'cover',
+                ...(c.width && c.height ? { aspectRatio: `${c.width} / ${c.height}` } : {}),
+              }}>
                 <img
-                  src={`${imageBase}/${encodeImagePath(c.image)}`}
+                  src={`${imageBase}/${encodeImagePath(c.thumb || c.image)}`}
                   alt={c.title}
+                  width={c.width}
+                  height={c.height}
                   className="w-full h-auto block transition-transform duration-500 hover:scale-105"
-                  loading="lazy"
+                  loading={i < 6 ? 'eager' : 'lazy'}
                   decoding="async"
+                  fetchPriority={i < 6 ? 'high' : undefined}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
                   <div className="flex items-center flex-wrap gap-1.5 mb-1">

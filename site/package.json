@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/parse-cases.mjs && astro build",
+    "build": "node scripts/parse-cases.mjs && node scripts/generate-thumbs.mjs && astro build",
+    "thumbs": "node scripts/generate-thumbs.mjs",
     "preview": "astro preview",
     "parse": "node scripts/parse-cases.mjs"
   },
