@@ -4,7 +4,7 @@ import Gallery from '../components/Gallery';
 import ThemeToggle from '../components/ThemeToggle';
 import caseData from '../data/cases.json';
 
-const { totalCases, categories, cases } = caseData;
+const { totalCases, categories, tagGroups, cases } = caseData;
 
 // cases.json 里 image 字段已包含 "images/" 前缀，这里只给 BASE_URL
 const imageBase = import.meta.env.BASE_URL;
@@ -19,7 +19,7 @@ const imageBase = import.meta.env.BASE_URL;
         <div>
           <h1 class="text-lg font-bold leading-tight">Awesome GPT Image</h1>
           <p class="text-xs text-[var(--color-text-secondary)]">
-            {totalCases} 个精选案例 · {categories.length} 大分类
+            {totalCases} 个精选案例 · {categories.length} 大分类 · {tagGroups.reduce((s, g) => s + g.tags.length, 0)} 个标签
           </p>
         </div>
       </div>
@@ -46,6 +46,7 @@ const imageBase = import.meta.env.BASE_URL;
       client:load
       cases={cases}
       categories={categories}
+      tagGroups={tagGroups}
       imageBase={imageBase}
     />
   </main>

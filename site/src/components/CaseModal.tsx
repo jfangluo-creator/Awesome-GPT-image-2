@@ -6,6 +6,13 @@ function encodeImagePath(path: string): string {
   return path.split('/').map(segment => encodeURIComponent(segment)).join('/');
 }
 
+interface Tag {
+  slug: string;
+  name: string;
+  nameEn: string;
+  group: string;
+}
+
 interface CaseData {
   id: number;
   title: string;
@@ -17,6 +24,7 @@ interface CaseData {
   prompt: string;
   promptZh: string;
   promptEn: string;
+  tags: Tag[];
   sourceLabel: string;
   sourceUrl: string;
   date: string;
@@ -57,7 +65,6 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
         className="relative w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-2xl bg-[var(--color-surface)] shadow-2xl animate-slide-up"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Close button */}
         <button
           onClick={onClose}
           className="absolute top-4 right-4 z-10 p-2 rounded-full bg-black/30 text-white hover:bg-black/50 transition-colors backdrop-blur-sm"
@@ -67,48 +74,43 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
           </svg>
         </button>
 
-        {/* Image */}
         <div className="bg-black/5 dark:bg-white/5">
-          <img
-            src={imageUrl}
-            alt={caseData.title}
-            className="w-full max-h-[60vh] object-contain"
-            loading="lazy"
-          />
+          <img src={imageUrl} alt={caseData.title} className="w-full max-h-[60vh] object-contain" loading="lazy" />
         </div>
 
-        {/* Content */}
         <div className="p-6 space-y-4">
-          {/* Title & Category */}
           <div className="flex items-start justify-between gap-4">
             <div>
               <div className="flex items-center gap-2 mb-1">
                 <span className="badge">{caseData.emoji} {caseData.categoryName}</span>
                 <span className="text-xs text-[var(--color-text-secondary)]">例 {caseData.id}</span>
               </div>
-              <h2 className="text-xl font-bold">{caseData.title}</h2>
+              {caseData.tags && caseData.tags.length > 0 && (
+                <div className="flex flex-wrap gap-1.5 mt-1.5">
+                  {caseData.tags.map((t) => (
+                    <span key={t.slug} className="text-xs px-2 py-0.5 rounded-full bg-[var(--color-border)]/50 text-[var(--color-text-secondary)]">
+                      {t.name}
+                    </span>
+                  ))}
+                </div>
+              )}
+              <h2 className="text-xl font-bold mt-1">{caseData.title}</h2>
               {caseData.titleEn && (
                 <p className="text-sm text-[var(--color-text-secondary)] mt-0.5">{caseData.titleEn}</p>
               )}
             </div>
           </div>
 
-          {/* Prompt */}
           <div>
             <div className="flex items-center justify-between mb-2">
-              <h3 className="text-sm font-semibold text-[var(--color-text-secondary)] uppercase tracking-wide">
-                Prompt
-              </h3>
+              <h3 className="text-sm font-semibold text-[var(--color-text-secondary)] uppercase tracking-wide">Prompt</h3>
               <CopyButton text={caseData.prompt} />
             </div>
-            <div className="relative">
-              <pre className="p-4 rounded-xl bg-black/5 dark:bg-white/5 text-sm leading-relaxed whitespace-pre-wrap break-words max-h-64 overflow-y-auto">
-                {caseData.prompt}
-              </pre>
-            </div>
+            <pre className="p-4 rounded-xl bg-black/5 dark:bg-white/5 text-sm leading-relaxed whitespace-pre-wrap break-words max-h-64 overflow-y-auto">
+              {caseData.prompt}
+            </pre>
           </div>
 
-          {/* Chinese / English sections */}
           {(caseData.promptZh || caseData.promptEn) && (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {caseData.promptZh && (
@@ -130,17 +132,11 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
             </div>
           )}
 
-          {/* Source */}
           <div className="flex items-center gap-2 text-sm text-[var(--color-text-secondary)] pt-2 border-t border-[var(--color-border)]">
             <span>🔗</span>
             <span>来源：</span>
             {caseData.sourceUrl ? (
-              <a
-                href={caseData.sourceUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-accent-500 hover:underline"
-              >
+              <a href={caseData.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-accent-500 hover:underline">
                 @{caseData.sourceLabel}
               </a>
             ) : (

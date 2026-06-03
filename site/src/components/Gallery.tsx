@@ -1,6 +1,7 @@
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import Fuse from 'fuse.js';
 import CategoryFilter from './CategoryFilter';
+import TagFilter from './TagFilter';
 import SearchBar from './SearchBar';
 import CaseModal from './CaseModal';
 
@@ -9,17 +10,26 @@ function encodeImagePath(path: string): string {
   return path.split('/').map(segment => encodeURIComponent(segment)).join('/');
 }
 
+interface Tag {
+  slug: string;
+  name: string;
+  nameEn: string;
+  group: string;
+}
+
 interface CaseData {
   id: number;
   title: string;
   titleEn: string;
   category: string;
   categoryName: string;
+  categoryNameEn: string;
   emoji: string;
   image: string;
   prompt: string;
   promptZh: string;
   promptEn: string;
+  tags: Tag[];
   sourceLabel: string;
   sourceUrl: string;
   date: string;
@@ -33,16 +43,39 @@ interface Category {
   count: number;
 }
 
+interface TagItem {
+  slug: string;
+  name: string;
+  nameEn: string;
+  count: number;
+}
+
+interface TagGroup {
+  slug: string;
+  name: string;
+  nameEn: string;
+  tags: TagItem[];
+}
+
 interface Props {
   cases: CaseData[];
   categories: Category[];
+  tagGroups: TagGroup[];
   imageBase: string;
 }
 
-export default function Gallery({ cases, categories, imageBase }: Props) {
+export default function Gallery({ cases, categories, tagGroups, imageBase }: Props) {
   const [activeCategory, setActiveCategory] = useState('all');
+  const [activeTags, setActiveTags] = useState<string[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCase, setSelectedCase] = useState<CaseData | null>(null);
+
+  // Measure header height so toolbar sticks below it
+  const [headerH, setHeaderH] = useState(53);
+  useEffect(() => {
+    const header = document.querySelector('header');
+    if (header) setHeaderH(header.offsetHeight);
+  }, []);
 
   // Fuse.js for fuzzy search
   const fuse = useMemo(
@@ -51,6 +84,8 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
         keys: [
           { name: 'title', weight: 2 },
           { name: 'titleEn', weight: 1.5 },
+          { name: 'tags.name', weight: 1.2 },
+          { name: 'tags.nameEn', weight: 1.2 },
           { name: 'prompt', weight: 1 },
           { name: 'promptZh', weight: 1 },
           { name: 'promptEn', weight: 1 },
@@ -66,21 +101,48 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
   const filtered = useMemo(() => {
     let result = cases;
 
-    // Category filter
     if (activeCategory !== 'all') {
       result = result.filter((c) => c.category === activeCategory);
     }
 
-    // Search
+    if (activeTags.length > 0) {
+      result = result.filter((c) =>
+        activeTags.every((tag) => c.tags.some((t) => t.slug === tag))
+      );
+    }
+
     if (searchQuery.trim()) {
       const fuseResults = fuse.search(searchQuery.trim());
       const fuseIds = new Set(fuseResults.map((r) => r.item.id));
-      // If category is also active, intersect
       result = result.filter((c) => fuseIds.has(c.id));
     }
 
     return result;
-  }, [cases, activeCategory, searchQuery, fuse]);
+  }, [cases, activeCategory, activeTags, searchQuery, fuse]);
+
+  // Compute available tags for current category
+  const availableTags = useMemo(() => {
+    const categoryCases = activeCategory !== 'all'
+      ? cases.filter((c) => c.category === activeCategory)
+      : cases;
+    const slugs = new Set<string>();
+    for (const c of categoryCases) {
+      for (const t of c.tags) {
+        slugs.add(t.slug);
+      }
+    }
+    return slugs;
+  }, [cases, activeCategory]);
+
+  const handleToggleTag = useCallback((slug: string) => {
+    setActiveTags((prev) =>
+      prev.includes(slug) ? prev.filter((t) => t !== slug) : [...prev, slug]
+    );
+  }, []);
+
+  const handleClearTags = useCallback(() => {
+    setActiveTags([]);
+  }, []);
 
   const handleSearch = useCallback((q: string) => {
     setSearchQuery(q);
@@ -94,19 +156,38 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
     setSelectedCase(null);
   }, []);
 
+  const activeTagNames = useMemo(() => {
+    const nameMap = new Map<string, string>();
+    for (const g of tagGroups) {
+      for (const t of g.tags) {
+        nameMap.set(t.slug, t.name);
+      }
+    }
+    return activeTags.map((slug) => nameMap.get(slug) || slug);
+  }, [activeTags, tagGroups]);
+
   return (
     <div>
       {/* Toolbar: filter + search */}
-      <div className="sticky top-0 z-30 py-4 space-y-3" style={{ background: 'var(--color-bg)' }}>
+      <div className="sticky z-30 py-4 space-y-3" style={{ top: headerH, background: 'var(--color-bg)' }}>
         <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center justify-between">
           <CategoryFilter categories={categories} active={activeCategory} onChange={setActiveCategory} />
           <SearchBar onSearch={handleSearch} total={cases.length} filtered={filtered.length} />
         </div>
-        {/* Results count */}
-        {(activeCategory !== 'all' || searchQuery) && (
+
+        <TagFilter
+          tagGroups={tagGroups}
+          activeTags={activeTags}
+          onToggleTag={handleToggleTag}
+          onClearTags={handleClearTags}
+          availableTags={availableTags}
+        />
+
+        {(activeCategory !== 'all' || activeTags.length > 0 || searchQuery) && (
           <p className="text-sm text-[var(--color-text-secondary)]">
-            共 {filtered.length} 个案例
+            {filtered.length} / {cases.length} 个案例
             {activeCategory !== 'all' && ` · ${categories.find((c) => c.slug === activeCategory)?.emoji} ${categories.find((c) => c.slug === activeCategory)?.name}`}
+            {activeTags.length > 0 && ` · ${activeTagNames.join(' + ')}`}
             {searchQuery && ` · 搜索"${searchQuery}"`}
           </p>
         )}
@@ -130,12 +211,16 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
                   loading="lazy"
                   decoding="async"
                 />
-                {/* Hover overlay */}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
-                  <div className="flex items-center gap-1.5 mb-1">
+                  <div className="flex items-center flex-wrap gap-1.5 mb-1">
                     <span className="text-xs px-1.5 py-0.5 rounded bg-white/20 text-white backdrop-blur-sm">
                       {c.emoji} {c.categoryName}
                     </span>
+                    {c.tags.slice(0, 4).map((t) => (
+                      <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-white/15 text-white/80 backdrop-blur-sm">
+                        {t.name}
+                      </span>
+                    ))}
                   </div>
                   <p className="text-white text-sm font-medium line-clamp-2">
                     {c.promptZh || c.prompt.substring(0, 80)}
@@ -149,9 +234,14 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
                     {c.titleEn}
                   </p>
                 )}
-                <div className="flex items-center gap-2 mt-2">
+                <div className="flex items-center flex-wrap gap-1 mt-2">
                   <span className="badge text-xs">{c.emoji} {c.categoryName}</span>
-                  <span className="text-xs text-[var(--color-text-secondary)]">例 {c.id}</span>
+                  {c.tags.slice(0, 4).map((t) => (
+                    <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-[var(--color-border)]/50 text-[var(--color-text-secondary)]">
+                      {t.name}
+                    </span>
+                  ))}
+                  <span className="text-xs text-[var(--color-text-secondary)] opacity-60">例 {c.id}</span>
                 </div>
               </div>
             </div>
@@ -161,14 +251,9 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
         <div className="flex flex-col items-center justify-center py-20 text-center">
           <div className="text-6xl mb-4">🔍</div>
           <h3 className="text-lg font-semibold mb-2">没有找到匹配的案例</h3>
-          <p className="text-[var(--color-text-secondary)] text-sm">
-            试试换个关键词或分类？
-          </p>
+          <p className="text-[var(--color-text-secondary)] text-sm">试试换个关键词或分类？</p>
           <button
-            onClick={() => {
-              setActiveCategory('all');
-              setSearchQuery('');
-            }}
+            onClick={() => { setActiveCategory('all'); setActiveTags([]); setSearchQuery(''); }}
             className="mt-4 btn-primary text-sm"
           >
             查看全部案例
@@ -176,7 +261,6 @@ export default function Gallery({ cases, categories, imageBase }: Props) {
         </div>
       )}
 
-      {/* Modal */}
       {selectedCase && (
         <CaseModal caseData={selectedCase} onClose={handleCloseModal} imageBase={imageBase} />
       )}

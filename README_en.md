@@ -6,6 +6,8 @@ A personal collection of interesting GPT image 2 generated images and prompts.
 
 English | [中文](README.md)
 
+> 🖼️ **[Online Gallery](https://jfangluo-creator.github.io/Awesome-GPT-image-2/)** — A visual waterfall gallery for browsing all cases with search, category filtering, and keyword search.
+
 ---
 
 ## Categories
