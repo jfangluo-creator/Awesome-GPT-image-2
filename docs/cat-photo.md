@@ -2251,3 +2251,22 @@ Create a realistic courtside smartphone-style photo of {argument name="character
 **来源：** [@李岳](https://x.com/liyue_ai/status/2061354141474316390) | 2026-06-01
 
 ---
+
+### 📷 例 411：电影感明暗对照法女性肖像
+
+![电影感明暗对照法女性肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%98%8E%E6%9A%97%E5%AF%B9%E7%85%A7%E6%B3%95%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的 8K 电影感特写肖像，主角为 {argument name="subject" default="美丽的成年女性"}，拥有 {argument name="hair color" default="中棕色头发"}，发丝微乱，几缕发丝垂落在脸庞。她抬头望向右上方，拥有一双迷人的 {argument name="eye color" default="浅色眼睛"}。一道锐利的自然光斜射在她的颧骨、鼻梁、眼睛和光泽感的淡紫色嘴唇上，而脸部的其余部分及背景则隐没在深邃的阴影中，形成强烈的明暗对照效果。保持神秘、宁静且内省的氛围。展现细腻的皮肤纹理、清晰的发丝、眼眸与唇部的微妙反光，以及轻盈白色丝绸衬衫和肩部深色阴影的柔和细节。采用浅景深、电影级对比度、照片级真实细节以及方形肖像构图。
+
+[English]
+Create an ultra-realistic cinematic 8K close-up portrait of a {argument name="subject" default="beautiful adult woman"} with {argument name="hair color" default="medium brown hair"}, slightly wind swept, with loose strands falling across her face. She looks upward and to the right with striking {argument name="eye color" default="light-colored eyes"}. A sharp diagonal beam of natural light cuts across her cheekbone, nose, eyes, and glossy mauve lips, while the rest of her face and the background fall into deep dramatic shadow for a strong chiaroscuro effect. Keep the mood mysterious, quiet, and introspective. Show fine skin texture, visible hair strands, subtle reflections in the eyes and lips, and soft detail in a lightweight white silk shirt and dark shoulder shadow. Use shallow depth of field, cinematic contrast, photorealistic detail, and a square portrait composition.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2061992920811782586) | 2026-06-03
+
+---
+

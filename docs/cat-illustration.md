@@ -1241,3 +1241,58 @@ Create a vibrant widescreen anime illustration of exactly one cheerful teenage g
 **来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2061343169183375825) | 2026-06-01
 
 ---
+
+### 🎨 例 414：女孩与猫的极简主义插画
+
+![女孩与猫的极简主义插画](../images/%E5%A5%B3%E5%AD%A9%E4%B8%8E%E7%8C%AB%E7%9A%84%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体是 {argument name="subject" default="一位水乡女孩和一只猫"}。图像运用简洁流畅的线条塑造形态，设计简约而不失美感。背景保留了大面积的留白，色调以柔和的中性色为主，并点缀少量鲜艳色彩作为视觉焦点。整体构图精致平衡，氛围优雅清新，具备高端杂志插画与现代艺术海报的质感，画面中无文字。
+
+[English]
+主体为{argument name="主体" default="水乡少女和猫"}，画面以干净流畅的线条塑造形象，造型简洁但富有美感，背景保留大面积留白，配色以柔和中性色为主，并加入少量鲜艳色彩作为视觉焦点。整体构图精致平衡，氛围优雅清新，具有高级杂志插画与现代艺术海报质感，无文字。
+```
+
+**来源：** [@老白 | Trader🐮](https://x.com/baispx/status/2062074920440643717) | 2026-06-03
+
+---
+
+### 🎨 例 415：夏季东方庭院插画
+
+![夏季东方庭院插画](../images/%E5%A4%8F%E5%AD%A3%E4%B8%9C%E6%96%B9%E5%BA%AD%E9%99%A2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[{argument name="subject or scene" default="东方庭院"}], 东方庭院手绘插画风格，夏季阳光，斑驳树影，白墙灰瓦，郁郁葱葱的绿植，石板路，盆栽花木，柔和的水彩厚涂质感，动画电影背景艺术，微俯视构图，明亮通透，清新雅致的色调，浅绿、奶白、灰蓝与暖黄色调，宁静治愈，生活气息，点缀小人物，细腻的手绘笔触，柔和的光影，无文字，无水印。
+
+[English]
+[{argument name="主体或场景" default="东方庭院"}]，东方庭院手绘插画风格，夏日阳光，树影斑驳，白墙灰瓦，绿植繁茂，石板路，盆栽花木，柔和水彩厚涂质感，动画电影背景美术，轻微俯视构图，明亮通透，色彩清新淡雅，浅绿、奶白、灰蓝、暖黄色调，安静治愈，生活气息，小人物点缀，细腻手绘笔触，温柔光影，无文字，无水印。
+```
+
+**来源：** [@沐阳](https://x.com/yyyole/status/2062083344083661002) | 2026-06-03
+
+---
+
+### 🎨 例 417：日落海滩的动漫少女
+
+![日落海滩的动漫少女](../images/%E6%97%A5%E8%90%BD%E6%B5%B7%E6%BB%A9%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和的电影感动漫插画，画面中 {argument name="character description" default="一位留着凌乱浅蓝色短发、有着清澈蓝灰色双眸的精致少女"} 独自坐在日落时分宁静的海滩上。她赤脚踩在沙滩上，蜷缩着身体，双膝抱胸，双臂松松地环绕着双腿，神情平静而若有所思，温柔地注视着观众。她穿着 {argument name="outfit" default="一件超大号半透明白色衬衫，袖口卷起，内搭褪色的牛仔短裤"}；衬衫捕捉着温暖的逆光，自然地垂落在她身上。场景采用低角度、亲密的四分之三侧视图，背景是海平线，小浪卷入，湿润的沙滩反射着金色的阳光，天空中有柔和的粉彩色云朵，远处天空中恰好有两只小海鸟的剪影。使用温暖的黄金时刻色调，包含桃色、薰衣草色、浅蓝色和奶油色，左下角前景处有细微的镜头光晕，头发和肩膀上有柔和的轮廓光，线条细腻，笔触感阴影，营造真实的沙滩氛围，情绪感强且低调。保持构图简洁，无文字，无水印，无额外角色，无夸张细节，避免过于油腻的 AI 感。
+
+[English]
+Create a soft cinematic anime illustration of {argument name="character description" default="a delicate young woman with short tousled pale blue hair and clear blue-gray eyes"} sitting alone on a quiet beach at sunset. She is barefoot on the sand, seated in a curled pose with both knees pulled to her chest and both arms wrapped loosely around her legs, looking gently toward the viewer with a calm, wistful expression. She wears {argument name="outfit" default="an oversized translucent white button-up shirt with rolled sleeves over faded denim shorts"}; the shirt catches the warm backlight and drapes naturally around her body. The scene is a low, intimate three-quarter view near sand level, with the ocean horizon behind her, small waves rolling in, wet sand reflecting the golden sun, soft pastel clouds, and exactly two small distant seabird silhouettes in the sky. Use a warm golden-hour palette with peach, lavender, pale blue, and cream tones, subtle lens flare circles near the lower left foreground, gentle rim lighting on hair and shoulders, delicate linework, painterly shading, realistic beach atmosphere, and an emotional but understated mood. Keep the composition uncluttered, no text, no watermark, no extra characters, no exaggerated details, no overly glossy AI look.
+```
+
+**来源：** [@Risa](https://x.com/kantakanta1233/status/2062094292752220483) | 2026-06-03
+
+---
+

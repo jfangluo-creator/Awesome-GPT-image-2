@@ -1667,3 +1667,22 @@ Luxury outdoor brand layout, modern editorial design, National Geographic inspir
 **来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2061331323227435072) | 2026-06-01
 
 ---
+
+### 🎴 例 416：极简时尚拼贴海报
+
+![极简时尚拼贴海报](../images/%E6%9E%81%E7%AE%80%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+现代编辑风格拼贴海报设计。简洁的极简主义时尚构图。背景包含四个垂直堆叠的圆角矩形面板，展示了同一位 {argument name="subject" default="时尚年轻女性"} 佩戴奢华太阳镜、摆出不同高级时尚姿势的黑白电影感肖像。前景中，同一位女性的全身高质量彩色剪影自信站立，身着 {argument name="outfit" default="超大款白衬衫"}、剪裁利落的黑色长裤并佩戴黑色太阳镜。柔和的写实阴影，深度分层，高级杂志编辑风格，高对比度光影，{argument name="background" default="干净的白色背景"}，现代时尚广告美学，超写实皮肤纹理，细节锐利，专业海报构图，奢华《Vogue》灵感设计，照片级真实感，8K 分辨率，影棚级质量，无文字，无排版，无字母，无 Logo，无水印。
+
+[English]
+MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BACKGROUND FEATURES FOUR VERTICALLY STACKED ROUNDED-RECTANGLE PANELS CONTAINING BLACK-AND-WHITE CINEMATIC PORTRAITS OF THE SAME {argument name="subject" default="STYLISH YOUNG WOMAN"} WEARING LUXURY SUNGLASSES IN DIFFERENT HIGH-FASHION POSES. IN THE FOREGROUND, A FULL-BODY HIGH-QUALITY COLOR CUTOUT OF THE SAME WOMAN STANDS CONFIDENTLY, WEARING AN {argument name="outfit" default="OVERSIZED WHITE SHIRT"}, TAILORED BLACK PANTS, AND BLACK SUNGLASSES. SOFT REALISTIC SHADOWS, DEPTH LAYERING, PREMIUM MAGAZINE EDITORIAL STYLE, HIGH CONTRAST LIGHTING, {argument name="background" default="CLEAN WHITE BACKGROUND"}, MODERN FASHION ADVERTISING AESTHETIC, ULTRA-REALISTIC SKIN TEXTURE, SHARP DETAILS, PROFESSIONAL POSTER COMPOSITION, LUXURY VOGUE-INSPIRED DESIGN, PHOTOREALISTIC, 8K, STUDIO QUALITY, NO TEXT, NO TYPOGRAPHY, NO LETTERS, NO LOGOS, NO WATERMARKS.
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2062093611387551854) | 2026-06-03
+
+---
+

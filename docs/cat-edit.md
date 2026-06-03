@@ -281,3 +281,98 @@ Inspired by the cool, rebellious male
 **来源：** [@Crypto Freak 🤡](https://x.com/FSkifor/status/2061340001967669664) | 2026-06-01
 
 ---
+
+### 🔧 例 410：地铁旅游海报高清重制
+
+![地铁旅游海报高清重制](../images/%E5%9C%B0%E9%93%81%E6%97%85%E6%B8%B8%E6%B5%B7%E6%8A%A5%E9%AB%98%E6%B8%85%E9%87%8D%E5%88%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为源素材，仅提取并重制其中的交通海报画面，生成一张干净、正视的数字海报，去除地铁墙面、边框、玻璃反光、透视畸变、褶皱及周围的车厢环境。保留原海报设计与中文文案，使其呈现出专业排版的竖版公共服务海报效果。
+
+画布：9:16 竖版海报，全出血，正视图。
+
+图像处理：保留参考图中核心的旅游摄影概念：两只手在太阳前比心，远处为柔和的亭台与绿色荷花景观。使照片更清晰、明亮、具有电影感且居中，同时保持整体构图与氛围不变。
+
+布局：上方图像部分占据海报大部分区域；下方为白色信息面板，顶部带有微斜的黄色分割线；底部为深绿色页脚栏。
+
+需保留并清晰排版的文字：
+- 顶部小标题：{argument name="top heading" default="文明旅游"}
+- 两行醒目的黄绿色主标题：{argument name="main headline" default="每个人都是一道\n亮丽的风景线"}
+- 下方板块标题：{argument name="section title" default="文明旅游行为公约"}
+- 下方承诺条目：使用 10 条内容，以两行居中排列，并配以绿色圆点：{argument name="pledge items" default="重安全、讲礼仪、不喧哗、杜陋习、守良俗、明事理、爱环境、护古迹、文明行、最得体"}
+- 页脚文字：{argument name="footer text" default="中央文明办｜国家旅游局"}
+
+排版与配色：粗体深绿色中文标题，带有绿色描边/阴影的大号黄色主标题，干净的深绿色下方文字，白色面板，黄色装饰条，深绿色页脚。保留右下角的小字代码“京21110”。请勿添加额外文字、Logo、人物、边框或样机环境。
+
+[English]
+Using REFERENCE_0 as the source, extract and recreate only the transit poster artwork as a clean, front-facing digital poster, removing the subway wall, frame, glass glare, perspective distortion, wrinkles, reflections, and surrounding train interior. Preserve the original poster design and Chinese copy, but make it look like a professionally typeset vertical public-service poster.
+
+Canvas: vertical 9:16 poster, full bleed, straight-on view.
+
+Image treatment: keep the same central tourism photo concept from the reference: two hands forming a heart shape around the sun, with a soft pavilion and green lotus scenery in the distance. Make the photo cleaner, brighter, more cinematic, and centered, while retaining the same overall crop and mood.
+
+Layout: top image section fills most of the poster; lower white information panel with a slightly diagonal yellow divider at the top; dark green footer bar at the bottom.
+
+Text to preserve and typeset clearly:
+- Top small heading: {argument name="top heading" default="文明旅游"}
+- Main headline in two large yellow-green lines: {argument name="main headline" default="每个人都是一道\n亮丽的风景线"}
+- Lower section title: {argument name="section title" default="文明旅游行为公约"}
+- Lower pledge items: use exactly 10 items, arranged in two centered rows with green bullet dots: {argument name="pledge items" default="重安全、讲礼仪、不喧哗、杜陋习、守良俗、明事理、爱环境、护古迹、文明行、最得体"}
+- Footer text: {argument name="footer text" default="中央文明办｜国家旅游局"}
+
+Typography and color: bold dark green Chinese heading, large yellow headline with green outline/shadow, clean dark green lower text, white panel, yellow accent stripe, dark green footer. Keep the small code “京21110” at the lower right. Do not add extra text, logos, people, borders, or mockup environment.
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2061968269070958605) | 2026-06-03
+
+---
+
+### 🔧 例 412：未来感全息点云肖像
+
+![未来感全息点云肖像](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%85%A8%E6%81%AF%E7%82%B9%E4%BA%91%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将提供的参考图像转换为超高端的未来感点云肖像。保留参考图像中精确的姿势、身体比例、服装轮廓、面部结构、发型以及整体构图。使用数百万个 {argument name="particle color" default="发光的白色"} 体积粒子、数据点、体素和数字尘埃重构整个主体，营造出高密度的全息扫描效果。主体居中站立于黑色虚空中，周围环绕着微妙的漂浮粒子和稀疏的 {argument name="accent color" default="红色"} 数字噪点。生成具有粒子轨迹、深度映射、扫描线伪影和体积光散射的逼真 3D 点云身体结构。
+单色黑白配色方案，极致对比度，电影级暗调，赛博朋克档案美学，未来感 AI 扫描系统，数字孪生可视化，神经网络重构，全息粒子渲染，体积点云模拟，生成式系统艺术，超精细粒子密度，发光边缘轮廓，微妙的光晕，深度雾气，数据流粒子在主体周围垂直落下。
+在画面周围添加 {argument name="ui metadata style" default="极简技术 UI 排版"}，例如档案标签、扫描标识符、模型代码、生成式系统元数据、体素渲染信息和未来感研究注释。使用具有奢华科技品牌美感的简洁微型排版。保持文字简洁、字号微小，并策略性地放置在边缘附近。
+纯黑色背景，中心构图，博物馆级数字艺术，高级海报设计，实验性 AI 可视化，超逼真粒子模拟，高端 CGI 渲染，Octane 渲染质量，Unreal Engine 5，体积光照，光线追踪，清晰的粒子定义，电影级光晕，未来感档案记录风格。
+风格关键词：点云人物，数字幽灵，神经重构，体素扫描，数据可视化，赛博档案，全息实体，生成式系统，单色科技艺术，奢华未来主义，体积粒子，AI 扫描肖像，实验性 CGI。
+彩色背景，卡通，动漫，低分辨率，主体模糊，多余肢体，解剖结构扭曲，身体部位重复，色彩过饱和，构图杂乱，过多的 UI 元素，水印，徽标，文字重叠，粒子密度低，平光，对比度差，比例不真实。
+
+[English]
+Transform the provided reference image into an ultra-premium futuristic point-cloud portrait. Preserve the exact pose, body proportions, clothing silhouette, facial structure, hairstyle, and overall composition from the reference image. Reconstruct the entire subject using millions of {argument name="particle color" default="glowing white"} volumetric particles, data points, voxels, and digital dust, creating a high-density holographic scan effect. Subject standing centered in a black void, surrounded by subtle floating particles and sparse {argument name="accent color" default="red"} digital noise. Generate a realistic 3D point-cloud body structure with particle trails, depth mapping, scan-line artifacts, and volumetric light dispersion.
+Monochrome black-and-white color palette, extreme contrast, cinematic darkness, cyberpunk archive aesthetic, futuristic AI scanning system, digital twin visualization, neural network reconstruction, holographic particle rendering, volumetric point-cloud simulation, generative systems artwork, ultra-detailed particle density, glowing edge contours, subtle light bloom, depth fog, data stream particles falling vertically around the subject.
+Add {argument name="ui metadata style" default="minimal technical UI typography"} around the frame such as archive labels, scan identifiers, model codes, generative system metadata, voxel render information, and futuristic research annotations. Use clean micro-typography with a luxury tech-brand aesthetic. Keep text minimal, small, and strategically placed near the edges.
+Pure black background, center composition, museum-grade digital art, premium poster design, experimental AI visualization, ultra-realistic particle simulation, high-end CGI render, Octane render quality, Unreal Engine 5, volumetric lighting, ray tracing, sharp particle definition, cinematic glow, futuristic archive documentation style.
+Style Keywords: Point Cloud Human, Digital Ghost, Neural Reconstruction, Voxel Scan, Data Visualization, Cyber Archive, Holographic Entity, Generative Systems, Monochrome Tech Art, Luxury Futurism, Volumetric Particles, AI Scan Portrait, Experimental CGI.
+colorful background, cartoon, anime, low resolution, blurry subject, extra limbs, distorted anatomy, duplicate body parts, oversaturated colors, messy composition, excessive UI elements, watermark, logo, text overlap, low particle density, flat lighting, poor contrast, unrealistic proportions.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2062021293789356428) | 2026-06-03
+
+---
+
+### 🔧 例 413：日式线条艺术肖像风格化
+
+![日式线条艺术肖像风格化](../images/%E6%97%A5%E5%BC%8F%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E8%82%96%E5%83%8F%E9%A3%8E%E6%A0%BC%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将照片中的人物转换为 {argument name="art style" default="当代日式线条插画"}，{argument name="technique" default="超精细钢笔画"}，{argument name="color palette" default="奶油黄与象牙色调色板"}，极简主义编辑设计，精致的排线与雕刻纹理，干净的留白，独立杂志美学，柔和的文学气息，细腻的面部特征，斯堪的纳维亚简约风格与日式平面设计的融合，博物馆级插画，微妙的复古印刷质感，优雅的构图，高细节，8k。
+
+[English]
+Transform the person in the photo into {argument name="art style" default="Contemporary Japanese line-art illustration"}, {argument name="technique" default="ultra detailed pen-and-ink drawing"}, {argument name="color palette" default="cream yellow and ivory color palette"}, minimalist editorial design, refined hatching and engraving texture, clean negative space, indie magazine aesthetic, soft literary atmosphere, delicate facial features, Scandinavian simplicity mixed with Japanese graphic design, museum-quality illustration, subtle vintage print texture, elegant composition, highly detailed, 8k.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2062043872386281548) | 2026-06-03
+
+---
+

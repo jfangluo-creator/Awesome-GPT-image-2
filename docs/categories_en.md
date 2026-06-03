@@ -164,6 +164,8 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 - [Case 409: 喜马拉雅徒步探险海报](cat-poster.md#--例-409喜马拉雅徒步探险海报)
 
+
+- [Case 416: Minimalist Fashion Collage Poster](cat-poster.md#-例-416极简时尚拼贴海报)
 ---
 
 <a id="photo"></a>
@@ -308,6 +310,8 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 - [Case 403: 中国古风奇幻肖像](cat-photo.md#--例-403中国古风奇幻肖像)
 
+
+- [Case 411: Cinematic Chiaroscuro Female Portrait](cat-photo.md#-例-411电影感明暗对照法女性肖像)
 ---
 
 <a id="illustration"></a>
@@ -380,6 +384,12 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 
 - [Case 406: 极简手绘墨水草图](cat-illustration.md#--例-406极简手绘墨水草图)
 
+
+- [Case 414: Minimalist Illustration of Girl and Cat](cat-illustration.md#-例-414女孩与猫的极简主义插画)
+
+- [Case 415: Summer Oriental Courtyard Illustration](cat-illustration.md#-例-415夏季东方庭院插画)
+
+- [Case 417: Sunset Beach Anime Girl](cat-illustration.md#-例-417日落海滩的动漫少女)
 ---
 
 <a id="character"></a>
@@ -598,6 +608,12 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 408: 提示词：
 将参考照片转换为真实风格](cat-edit.md#--例-408提示词将参考照片转换为真实风格)
 
+
+- [Case 410: Subway Travel Poster HD Remaster](cat-edit.md#-例-410地铁旅游海报高清重制)
+
+- [Case 412: Futuristic Holographic Point Cloud Portrait](cat-edit.md#-例-412未来感全息点云肖像)
+
+- [Case 413: Japanese Line Art Portrait Stylization](cat-edit.md#-例-413日式线条艺术肖像风格化)
 ---
 
 <a id="fun"></a>
