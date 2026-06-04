@@ -7,8 +7,8 @@
 [English](README_en.md) | 中文
 
 > 🖼️ **[在线画廊](https://jfangluo-creator.github.io/Awesome-GPT-image-2/)** — 浏览所有案例的瀑布流可视化网站，支持搜索、分类筛选和关键词检索。
-
-🎬 **[XSearch](https://www.xsearch.icu/)** — Agentic 多媒体创作平台，把图像生成、视频生成、短剧制作与智能剪辑整合进同一条创作工作流。
+>
+> 🔍 **[XSearch](https://www.xsearch.icu/)** — Agentic 多媒体创作平台，把图像生成、视频生成、短剧制作与智能剪辑整合进同一条创作工作流。
 
 ---
 
