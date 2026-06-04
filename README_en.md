@@ -61,6 +61,16 @@ Create a cinematic photorealistic wide shot of {argument name="subject" default=
 
 ---
 
+## Recommended Tool
+
+**[XSearch](https://www.xsearch.icu/)** — Agentic multimedia creation platform that integrates image generation, video generation, short drama production, and smart editing into one seamless workflow.
+
+- **End-to-end pipeline** — From text/script to finished video in one place, no more importing/exporting across tools
+- **6-step short drama workflow** — Plot parsing → Character assets → Storyboarding → Dubbing alignment → Final assembly
+- **Character consistency** — Reusable character presets maintain stable appearance across scenes
+- **Multi-character dubbing sync** — Voice management with automatic dialogue-to-shot alignment
+- **Industrial-scale output** — Batch generation, version management, and rapid iteration
+
 ## About
 
 This is a personal project collecting AI-generated images that I find interesting.
