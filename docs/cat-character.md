@@ -1464,3 +1464,17 @@ Strong cinematic lighting, ultra-detailed mixed sketch techniques combining real
 **来源：** [@Amy G](https://x.com/amynys/status/2061387283580715025) | 2026-06-01
 
 ---
+
+## 🧍 例 420：3D CG 东方奇幻肖像
+
+![3D CG 东方奇幻肖像](../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想女性角色写真，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及上半身构图，画面主体是一位明确成年的年轻东方女性角色，视觉年龄约 20–26 岁，整体气质空灵、精致、柔美、安静、华丽，带有东方戏曲幻想美人的神秘感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质、电影级柔光与高级角色写真感。 人物拥有小巧精致的东方美人脸，脸型柔和流畅，鹅蛋脸偏小，面部骨相秀气，皮肤白皙细腻，带柔和通透感与轻微珠光质感。五官精致耐看，眼睛大而柔和，瞳色为浅灰紫棕调，眼神安静、清冷、略带若有所思的柔弱感，睫毛纤长明显。眼妆偏粉红与玫瑰调，眼周带柔雾感晕染，增强梦幻感。鼻梁秀气自然，鼻尖小巧，嘴唇为柔和的豆沙玫瑰粉色，唇形精致，微微张唇，神情克制、柔美、安静，不夸张微笑。 发型为深棕黑色长发，发丝柔顺轻盈，带少量松散碎发与轻微空气感，发髻与额前卷发结合，整体发型具有古典东方仕女气质。头戴极其华丽的东方戏曲幻想头冠，头冠主体为蓝绿色、孔雀蓝与鎏金结构，镶嵌大量珍珠、珠宝、水晶、金属花丝与发光装饰。头冠顶部有放射状花形主结构，中心镶嵌红色宝石，周围点缀白色珍珠簪、蓝色凤羽状装饰、闪耀晶体与粉色花朵。额前垂有精致珠宝流苏与额饰，左右两侧发髻点缀圆形珠宝发饰。整体头饰华丽繁复、贵气、细节丰富、层次分明。 耳饰为长款蓝绿色宝石与珍珠流苏耳坠，体积夸张华美，具有透明感和珠光反射。服装为东方幻想风华丽礼服，肩颈和胸口区域以轻薄半透明纱质、珠片、幻彩薄膜感材质构成，带有明显的 iridescent 幻彩反光效果。衣服上装饰大量粉色立体花朵、珍珠、晶体、薄纱褶皱与梦幻珠宝细节，色彩以珠白、粉色、浅蓝绿、幻彩金为主。服装肩部与胸前华丽但克制，突出精致感与仙气，不低俗。 人物姿势为自然站立或微微侧身，身体轻微朝镜头转动，镜头拍到大腿以上，上半身为视觉核心。肩颈线条柔和，手臂姿态自然放松，可一只手轻垂或轻触裙摆/花饰，整体动作克制、稳定、优雅，突出古典东方美人气质。画面重点表现人物脸部、头冠、耳饰、肩颈与服装上半身的精致细节，同时保留大腿以上的完整构图比例，使角色更像高级 3D CG 人像写真。 场景为低照度、温暖而神秘的室内背景，背景深色虚化，带轻微金棕色环境光和少量彩色散景光斑，营造梦幻舞台后台或古典戏楼般的氛围。背景不要喧宾夺主，以虚化衬托人物。空气中有细小漂浮光点和珠光反射，增强朦胧仙气和高级氛围。 光线采用柔和电影级布光，面部为柔光主灯，辅以轻微侧逆光勾勒发丝、头冠、耳饰与肩部轮廓。整体为柔雾感、轻梦幻、带少量 bloom 效果的高级打光。皮肤、珠宝、珍珠、金属、薄纱和幻彩面料都要有清晰真实的材质表现。画面整体色调以蓝绿、粉色、珠白、金色为主，梦幻、通透、精致、华丽。 high detail 3D CG render, cinematic lighting, Unreal Engine quality, Octane render look, PBR materials, subsurface scattering skin, realistic hair strands, gemstone details, pearl reflections, iridescent translucent fabric, fantasy Chinese opera inspired styling, elegant oriental fantasy beauty, volumetric light, cinematic depth of field, dreamy bloom, ultra detailed, polished anime realism, premium character portrait, soft dreamy focus, delicate glow, ethereal haze, luminous beauty, soft bloom highlights, gentle atmospheric sparkle
+```
+
+**来源：** [李岳](https://x.com/liyue_ai/status/2062447548577784083) | 2026-06-04
+
+---

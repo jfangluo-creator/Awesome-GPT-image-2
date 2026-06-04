@@ -1296,3 +1296,21 @@ Create a soft cinematic anime illustration of {argument name="character descript
 
 ---
 
+
+## 🎨 例 418：日式水墨泼溅风格角色插画
+
+![日式水墨泼溅风格角色插画](../images/%E6%97%A5%E5%BC%8F%E6%B0%B4%E5%A2%A8%E6%B3%BC%E6%BA%85%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据您的构想生成插画。功能包括 {argument name="style" default="日式插画风格"}、鲜明的角色特征、自然的表情表达、半身构图、动态姿势、精致的服装细节、{argument name="art technique" default="手绘涂鸦风格"}、水墨泼溅笔触、流畅的线条、柔和色彩与水墨的融合、漫画素描质感、{argument name="background" default="极简白色背景"}、周围的象征性元素、强烈的氛围感、高细节以及高质量。画面比例 9:16 HD
+
+[English]
+Generate an illustration as you imagine it. Features include a {argument name="style" default="Japanese illustration style"}, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a {argument name="art technique" default="hand-drawn graffiti style"}, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a {argument name="background" default="minimalist white background"}, surrounding symbolic elements, a strong atmosphere, high detail, and high quality. Aspect ratio 9:16HD
+```
+
+**来源：** [simply](https://x.com/kingofdairyque/status/2062452040887128536) | 2026-06-04
+
+---

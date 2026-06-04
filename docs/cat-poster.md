@@ -1686,3 +1686,21 @@ MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BA
 
 ---
 
+
+## 🎴 例 421：K-Fashion 复古时尚海报
+
+![K-Fashion 复古时尚海报](../images/K-Fashion%20%E5%A4%8D%E5%8F%A4%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极具风格的高级时尚海报，主角为一位自信的年轻 {argument name="subject" default="亚裔女性模特"}，居中构图，姿态优雅，肌肤光泽透亮，妆容清透水润，黑色丝滑长发配空气刘海，身着时尚的 {argument name="clothing style" default="K-fashion 街头服饰"}，造型细节高级。干净的摄影棚灯光，高对比度时尚闪光摄影，焦点清晰，纹理细节丰富，电影级构图。背景充满活力的 {argument name="aesthetic" default="复古波普艺术杂志"} 美学，层叠的图形排版，动态的 UI 设计元素，全息铬合金效果，包含星星、爱心和闪光等贴纸，条形码条，对话气泡，以及未来感的拼贴图层。日文和韩文排版点缀其中，作为视觉设计元素。整体氛围融合了 2000 年代怀旧青少年时尚杂志的活力与现代奢华时尚大片的风格。大胆的色彩和谐，优质的印刷质感，8K 分辨率，精致的商业海报外观，超现实且时髦，引领全球时尚潮流。
+
+[English]
+Ultra-stylized high-fashion editorial poster featuring a confident young {argument name="subject" default="Asian female model"}, centered in frame, elegant posture, glossy radiant skin, soft dewy makeup, long silky black hair with wispy bangs, wearing trendy {argument name="clothing style" default="K-fashion streetwear"} with premium styling details. Clean studio lighting, high-contrast fashion flash photography, sharp focus, ultra-detailed textures, cinematic composition. Background packed with vibrant {argument name="aesthetic" default="retro pop-art magazine"} aesthetics, layered graphic typography, dynamic UI-inspired design elements, holographic chrome effects, stickers including stars, hearts and sparkles, barcode strips, speech bubbles, futuristic collage layering. Japanese and Korean typographic accents woven in as visual design elements. Overall vibe blends nostalgic 2000s teen fashion magazine energy with modern luxury editorial campaign style. Bold color harmony, premium print quality, 8K resolution, polished commercial poster look, surreal yet stylish, trend-forward global fashion branding.
+```
+
+**来源：** [PromptLab](https://x.com/iamaiistudio/status/2062446986138378348) | 2026-06-04
+
+---

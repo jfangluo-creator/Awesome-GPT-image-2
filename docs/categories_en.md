@@ -78,7 +78,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (64)
+## 🎴 [Posters & Cards](cat-poster.md) (65)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -166,11 +166,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 
 - [Case 416: Minimalist Fashion Collage Poster](cat-poster.md#-例-416极简时尚拼贴海报)
+
+- [Case 421: K-Fashion 复古时尚海报](cat-poster.md#-例-421k-fashion-复古时尚海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (109)
+## 📷 [Photography & Realistic](cat-photo.md) (111)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -312,11 +314,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 
 - [Case 411: Cinematic Chiaroscuro Female Portrait](cat-photo.md#-例-411电影感明暗对照法女性肖像)
+
+- [Case 419: 奢华运动休闲时尚广告大片](cat-photo.md#-例-419奢华运动休闲时尚广告大片)
+
+- [Case 422: 复古 CCD 数码相机抓拍](cat-photo.md#-例-422复古-ccd-数码相机抓拍)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (46)
+## 🎨 [Illustration & Art](cat-illustration.md) (47)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -390,11 +396,13 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 415: Summer Oriental Courtyard Illustration](cat-illustration.md#-例-415夏季东方庭院插画)
 
 - [Case 417: Sunset Beach Anime Girl](cat-illustration.md#-例-417日落海滩的动漫少女)
+
+- [Case 418: 日式水墨泼溅风格角色插画](cat-illustration.md#-例-418日式水墨泼溅风格角色插画)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (34)
+## 🧍 [Character Design](cat-character.md) (35)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -441,6 +449,8 @@ Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution cha
 - [Case 374: Kiki 动漫角色设定集](cat-character.md#--例-374kiki-动漫角色设定集)
 
 - [Case 387: 电影级男性角色概念项目](cat-character.md#--例-387电影级男性角色概念项目)
+
+- [Case 420: 3D CG 东方奇幻肖像](cat-character.md#-例-4203d-cg-东方奇幻肖像)
 
 ---
 
