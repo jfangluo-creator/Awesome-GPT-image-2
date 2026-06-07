@@ -2,10 +2,17 @@
  * 一键收集 YouMind 今日案例并添加到项目
  *
  * 用法:
- *   node _collect_today.mjs                        # 默认今天、5个
- *   node _collect_today.mjs --date 2026-06-04 --count 10
- *   node _collect_today.mjs --dry-run              # 只预览不写文件
- *   node _collect_today.mjs --no-push              # 写文件但不 git push
+ *   node scripts/collect-today.mjs                        # 默认今天、5个
+ *   node scripts/collect-today.mjs --date 2026-06-04 --count 10
+ *   node scripts/collect-today.mjs --dry-run              # 只预览不写文件
+ *   node scripts/collect-today.mjs --no-push              # 写文件但不 git push
+ *   node scripts/collect-today.mjs --ci --count 200       # CI 模式（GitHub Actions）
+ *
+ * --ci 模式说明：
+ *   - 日期默认取昨天（北京时间）
+ *   - 图片下载走直连（不走代理隧道）
+ *   - 跳过 site/public/images/ 拷贝
+ *   - git 使用 GitHub Actions bot 身份
  */
 import { chromium } from 'playwright';
 import { slug } from 'github-slugger';
@@ -48,12 +55,28 @@ function parseArgs() {
   const args = process.argv.slice(2);
   const dateIdx = args.indexOf('--date');
   const countIdx = args.indexOf('--count');
-  const today = new Date().toISOString().split('T')[0];
+  const ci = args.includes('--ci');
+
+  // CI 模式默认取昨天（北京时间）
+  let dateStr;
+  if (dateIdx >= 0) {
+    dateStr = args[dateIdx + 1];
+  } else if (ci) {
+    // 用 Asia/Shanghai 计算 yesterday
+    const now = new Date();
+    const shanghai = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Shanghai' }));
+    shanghai.setDate(shanghai.getDate() - 1);
+    dateStr = shanghai.toISOString().split('T')[0];
+  } else {
+    dateStr = new Date().toISOString().split('T')[0];
+  }
+
   return {
-    dateStr: dateIdx >= 0 ? args[dateIdx + 1] : today,
-    count: countIdx >= 0 ? parseInt(args[countIdx + 1]) : 5,
+    dateStr,
+    count: countIdx >= 0 ? parseInt(args[countIdx + 1]) : (ci ? 200 : 5),
     dryRun: args.includes('--dry-run'),
     noPush: args.includes('--no-push'),
+    ci,
   };
 }
 
@@ -151,7 +174,8 @@ function categorizeEach(cases) {
 }
 
 // ─── Step 7: 下载图片 ──────────────────────────────────
-function downloadOne(imgUrl, savePath) {
+// 通过代理隧道下载（本地模式）
+function downloadOneProxy(imgUrl, savePath) {
   return new Promise((resolve, reject) => {
     const url = new URL(imgUrl);
     const req = http.request({
@@ -180,13 +204,42 @@ function downloadOne(imgUrl, savePath) {
   });
 }
 
+// 直连下载（CI 模式，无需代理）
+function downloadOneDirect(imgUrl, savePath) {
+  return new Promise((resolve, reject) => {
+    const url = new URL(imgUrl);
+    https.get({
+      hostname: url.hostname,
+      path: url.pathname + url.search,
+      headers: { 'User-Agent': 'Mozilla/5.0' },
+    }, (resp) => {
+      if (resp.statusCode >= 300 && resp.statusCode < 400 && resp.headers.location) {
+        downloadOneDirect(resp.headers.location, savePath).then(resolve).catch(reject);
+        return;
+      }
+      if (resp.statusCode !== 200) {
+        reject(new Error(`HTTP ${resp.statusCode}`));
+        return;
+      }
+      const chunks = [];
+      resp.on('data', c => chunks.push(c));
+      resp.on('end', () => {
+        const buf = Buffer.concat(chunks);
+        fs.writeFileSync(savePath, buf);
+        resolve(buf.length);
+      });
+    }).on('error', reject);
+  });
+}
+
 // 文件名清理：去掉换行、冒号、引号等非法字符
 function sanitizeFilename(name) {
   return name.replace(/[\r\n]+/g, ' ').replace(/[:*"<>?|\\/]/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
-async function downloadImages(cases) {
-  console.log('\n📥 下载图片...');
+async function downloadImages(cases, ci) {
+  const downloadOne = ci ? downloadOneDirect : downloadOneProxy;
+  console.log(`\n📥 下载图片（${ci ? '直连' : '代理'}模式）...`);
   for (const c of cases) {
     const imgUrl = c.images[0];
     if (!imgUrl) { c._imgStatus = 'skip'; console.log(`  SKIP: ${c.title} (无图片)`); continue; }
@@ -194,7 +247,10 @@ async function downloadImages(cases) {
     const filename = safeTitle + '.jpg';
     try {
       const bytes = await downloadOne(imgUrl, `images/${filename}`);
-      fs.copyFileSync(`images/${filename}`, `site/public/images/${filename}`);
+      // CI 模式跳过 site/public/images/ 拷贝（部署 workflow 会单独处理）
+      if (!ci) {
+        fs.copyFileSync(`images/${filename}`, `site/public/images/${filename}`);
+      }
       c._imgStatus = 'ok';
       console.log(`  ✅ ${c.title}: ${(bytes / 1024).toFixed(0)}KB`);
     } catch (e) {
@@ -373,7 +429,12 @@ function writeFiles(entries) {
 }
 
 // ─── Step 11: 验证锚点 ────────────────────────────────
-function verifyAnchors() {
+function verifyAnchors(ci) {
+  if (ci) {
+    // CI 模式跳过锚点验证（_fix_anchors.mjs 未纳入仓库）
+    console.log('\n🔗 CI 模式跳过锚点验证');
+    return;
+  }
   console.log('\n🔗 验证锚点...');
   try {
     execSync('node _fix_anchors.mjs', { stdio: 'inherit', cwd: process.cwd() });
@@ -383,12 +444,18 @@ function verifyAnchors() {
 }
 
 // ─── Step 12: Git 提交推送 ─────────────────────────────
-function gitCommitPush(entries, dateStr, noPush) {
+function gitCommitPush(entries, dateStr, noPush, ci) {
   const first = entries[0].num;
   const last = entries[entries.length - 1].num;
   const msg = `feat: 添加 ${entries.length} 个今日案例（例 ${first}-${last}，YouMind ${dateStr}）`;
   console.log(`\n🚀 Git 提交...`);
-  execSync('git add docs/ images/ site/public/images/', { stdio: 'inherit' });
+
+  if (ci) {
+    execSync('git config user.name "github-actions[bot]"', { stdio: 'inherit' });
+    execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
+  }
+
+  execSync('git add docs/ images/', { stdio: 'inherit' });
   execSync(`git commit -m "${msg}"`, { stdio: 'inherit' });
   if (!noPush) {
     execSync('git push', { stdio: 'inherit' });
@@ -421,7 +488,7 @@ function printSummary(entries, dryRun) {
 // ─── 主流程 ────────────────────────────────────────────
 async function main() {
   const opts = parseArgs();
-  console.log(`📅 日期: ${opts.dateStr} | 数量: ${opts.count} | dry-run: ${opts.dryRun} | no-push: ${opts.noPush}`);
+  console.log(`📅 日期: ${opts.dateStr} | 数量: ${opts.count} | dry-run: ${opts.dryRun} | no-push: ${opts.noPush} | ci: ${opts.ci}`);
 
   // Step 2: 抓取
   const allPrompts = await fetchFromAPI();
@@ -459,7 +526,7 @@ async function main() {
   }
 
   // Step 7: 下载图片
-  await downloadImages(selected);
+  await downloadImages(selected, opts.ci);
 
   // Step 8: 获取最大编号
   const maxNum = getMaxCaseNumber();
@@ -472,10 +539,10 @@ async function main() {
   writeFiles(entries);
 
   // Step 11: 验证锚点
-  verifyAnchors();
+  verifyAnchors(opts.ci);
 
   // Step 12: Git 提交推送
-  gitCommitPush(entries, opts.dateStr, opts.noPush);
+  gitCommitPush(entries, opts.dateStr, opts.noPush, opts.ci);
 
   // 摘要
   printSummary(entries, false);
