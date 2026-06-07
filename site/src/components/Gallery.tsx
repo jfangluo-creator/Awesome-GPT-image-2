@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect } from 'react';
+import { useState, useMemo, useCallback, useEffect, memo } from 'react';
 import Fuse from 'fuse.js';
 import CategoryFilter from './CategoryFilter';
 import TagFilter from './TagFilter';
@@ -69,6 +69,76 @@ interface Props {
   imageBase: string;
 }
 
+// ─── Memoized Card Component ──────────────────────────────
+// Prevents all cards from re-rendering when parent state changes
+interface CardProps {
+  c: CaseData;
+  imageBase: string;
+  priority: boolean;
+  onClick: (c: CaseData) => void;
+}
+
+const CaseCard = memo(function CaseCard({ c, imageBase, priority, onClick }: CardProps) {
+  const imgSrc = `${imageBase}/${encodeImagePath(c.thumb || c.image)}`;
+
+  return (
+    <div
+      className="masonry-item card cursor-pointer"
+      onClick={() => onClick(c)}
+    >
+      <div className="relative overflow-hidden" style={{
+        backgroundImage: c.blur ? `url(${c.blur})` : undefined,
+        backgroundSize: 'cover',
+        ...(c.width && c.height ? { aspectRatio: `${c.width} / ${c.height}` } : {}),
+      }}>
+        <img
+          src={imgSrc}
+          alt={c.title}
+          width={c.width}
+          height={c.height}
+          className="w-full h-auto block transition-transform duration-500 hover:scale-105"
+          loading={priority ? 'eager' : 'lazy'}
+          decoding="async"
+          fetchPriority={priority ? 'high' : undefined}
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
+          <div className="flex items-center flex-wrap gap-1.5 mb-1">
+            <span className="text-xs px-1.5 py-0.5 rounded bg-white/20 text-white backdrop-blur-sm">
+              {c.emoji} {c.categoryName}
+            </span>
+            {c.tags.slice(0, 4).map((t) => (
+              <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-white/15 text-white/80 backdrop-blur-sm">
+                {t.name}
+              </span>
+            ))}
+          </div>
+          <p className="text-white text-sm font-medium line-clamp-2">
+            {c.promptZh || c.prompt.substring(0, 80)}
+          </p>
+        </div>
+      </div>
+      <div className="p-3">
+        <h3 className="text-sm font-semibold line-clamp-1">{c.title}</h3>
+        {c.titleEn && (
+          <p className="text-xs text-[var(--color-text-secondary)] line-clamp-1 mt-0.5">
+            {c.titleEn}
+          </p>
+        )}
+        <div className="flex items-center flex-wrap gap-1 mt-2">
+          <span className="badge text-xs">{c.emoji} {c.categoryName}</span>
+          {c.tags.slice(0, 4).map((t) => (
+            <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-[var(--color-border)]/50 text-[var(--color-text-secondary)]">
+              {t.name}
+            </span>
+          ))}
+          <span className="text-xs text-[var(--color-text-secondary)] opacity-60">例 {c.id}</span>
+        </div>
+      </div>
+    </div>
+  );
+});
+
+// ─── Main Gallery ─────────────────────────────────────────
 export default function Gallery({ cases, categories, tagGroups, imageBase }: Props) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [activeTags, setActiveTags] = useState<string[]>([]);
@@ -79,7 +149,17 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
   const [headerH, setHeaderH] = useState(53);
   useEffect(() => {
     const header = document.querySelector('header');
-    if (header) setHeaderH(header.offsetHeight);
+    if (header) {
+      setHeaderH(header.offsetHeight);
+      // Observe resize to update dynamically
+      const observer = new ResizeObserver((entries) => {
+        for (const entry of entries) {
+          setHeaderH(entry.contentRect.height);
+        }
+      });
+      observer.observe(header);
+      return () => observer.disconnect();
+    }
   }, []);
 
   // Fuse.js for fuzzy search
@@ -202,61 +282,13 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
       {filtered.length > 0 ? (
         <div className="masonry mt-4">
           {filtered.map((c, i) => (
-            <div
+            <CaseCard
               key={c.id}
-              className="masonry-item card cursor-pointer animate-fade-in"
-              style={{ animationDelay: `${Math.min(i * 30, 600)}ms`, opacity: 0 }}
-              onClick={() => handleCaseClick(c)}
-            >
-              <div className="relative overflow-hidden" style={{
-                backgroundImage: c.blur ? `url(${c.blur})` : undefined,
-                backgroundSize: 'cover',
-                ...(c.width && c.height ? { aspectRatio: `${c.width} / ${c.height}` } : {}),
-              }}>
-                <img
-                  src={`${imageBase}/${encodeImagePath(c.thumb || c.image)}`}
-                  alt={c.title}
-                  width={c.width}
-                  height={c.height}
-                  className="w-full h-auto block transition-transform duration-500 hover:scale-105"
-                  loading={i < 6 ? 'eager' : 'lazy'}
-                  decoding="async"
-                  fetchPriority={i < 6 ? 'high' : undefined}
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
-                  <div className="flex items-center flex-wrap gap-1.5 mb-1">
-                    <span className="text-xs px-1.5 py-0.5 rounded bg-white/20 text-white backdrop-blur-sm">
-                      {c.emoji} {c.categoryName}
-                    </span>
-                    {c.tags.slice(0, 4).map((t) => (
-                      <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-white/15 text-white/80 backdrop-blur-sm">
-                        {t.name}
-                      </span>
-                    ))}
-                  </div>
-                  <p className="text-white text-sm font-medium line-clamp-2">
-                    {c.promptZh || c.prompt.substring(0, 80)}
-                  </p>
-                </div>
-              </div>
-              <div className="p-3">
-                <h3 className="text-sm font-semibold line-clamp-1">{c.title}</h3>
-                {c.titleEn && (
-                  <p className="text-xs text-[var(--color-text-secondary)] line-clamp-1 mt-0.5">
-                    {c.titleEn}
-                  </p>
-                )}
-                <div className="flex items-center flex-wrap gap-1 mt-2">
-                  <span className="badge text-xs">{c.emoji} {c.categoryName}</span>
-                  {c.tags.slice(0, 4).map((t) => (
-                    <span key={t.slug} className="text-xs px-1.5 py-0.5 rounded bg-[var(--color-border)]/50 text-[var(--color-text-secondary)]">
-                      {t.name}
-                    </span>
-                  ))}
-                  <span className="text-xs text-[var(--color-text-secondary)] opacity-60">例 {c.id}</span>
-                </div>
-              </div>
-            </div>
+              c={c}
+              imageBase={imageBase}
+              priority={i < 6}
+              onClick={handleCaseClick}
+            />
           ))}
         </div>
       ) : (

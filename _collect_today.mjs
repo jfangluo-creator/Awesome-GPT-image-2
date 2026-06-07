@@ -180,12 +180,18 @@ function downloadOne(imgUrl, savePath) {
   });
 }
 
+// 文件名清理：去掉换行、冒号、引号等非法字符
+function sanitizeFilename(name) {
+  return name.replace(/[\r\n]+/g, ' ').replace(/[:*"<>?|\\/]/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
 async function downloadImages(cases) {
   console.log('\n📥 下载图片...');
   for (const c of cases) {
     const imgUrl = c.images[0];
     if (!imgUrl) { c._imgStatus = 'skip'; console.log(`  SKIP: ${c.title} (无图片)`); continue; }
-    const filename = c.title + '.jpg';
+    const safeTitle = sanitizeFilename(c.title);
+    const filename = safeTitle + '.jpg';
     try {
       const bytes = await downloadOne(imgUrl, `images/${filename}`);
       fs.copyFileSync(`images/${filename}`, `site/public/images/${filename}`);
@@ -219,7 +225,7 @@ function buildEntries(cases, maxNum) {
     const catInfo = c._cat;
     const heading = `${catInfo.emoji} 例 ${num}：${c.title}`;
     const anchor = slug(heading);
-    const encodedImg = encodeURIComponent(c.title + '.jpg');
+    const encodedImg = encodeURIComponent(sanitizeFilename(c.title) + '.jpg');
     const date = (c.sourcePublishedAt || '').split('T')[0];
     const authorName = c.author || 'Unknown';
     const sourceLink = c.sourceLink ? c.sourceLink.split('#')[0] : '';
