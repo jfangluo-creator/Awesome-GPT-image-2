@@ -1666,3 +1666,21 @@ Aspect ratio 1:1.
 
 ---
 
+### 🏷️ 例 559：彩色油画风格肖像转换
+
+![彩色油画风格肖像转换](../images/%E5%BD%A9%E8%89%B2%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图为基础，将其从黑白摄影转换为生动多彩的油画插图，同时保留相同的构图、姿势、服装轮廓、发型以及矩形面部遮挡块。添加参考图中不存在的纹理抽象艺术背景：米白色纸张质感，配以宽大的蓝色颜料涂抹、深蓝色墨水溅射、粗糙的交叉影线、笔触痕迹和滴落效果。为人物进行自然上色，采用暖色调肤色、光泽的深色头发、黑色夹克和蓝色开衫/围巾，并以富有表现力的油画高光和高对比度的水墨感边缘进行渲染。保持整体构图与参考图一致，切勿显露或重构被遮挡的面部；面部区域必须保持被实心矩形遮盖的状态。
+
+[English]
+Using the provided reference image as the base, convert it from black-and-white photography into a vivid color painted illustration while preserving the same crop, pose, clothing silhouette, hairstyle, and the rectangular face-obscuring block. Add a textured abstract art background that was not in the reference: off-white paper with broad blue paint washes, dark blue ink splatters, scratchy crosshatch marks, brush streaks, and drip effects. Colorize the subject naturally with warm skin tones, glossy dark hair, a black jacket, and a blue open shirt/scarf, rendered with expressive painterly highlights and high-contrast ink-like edges. Keep the overall composition close to the reference and do not reveal or reconstruct the hidden face; the face area must remain covered by a solid rectangle.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063380168249622706) | 2026-06-06
+
+---
+

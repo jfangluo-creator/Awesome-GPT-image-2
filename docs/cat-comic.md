@@ -1029,3 +1029,41 @@ Constraints: Use exactly 6 panels and exactly one woman repeated across all pane
 
 ---
 
+### 🎬 例 558：奇幻森林音乐漫画页面
+
+![奇幻森林音乐漫画页面](../images/%E5%A5%87%E5%B9%BB%E6%A3%AE%E6%9E%97%E9%9F%B3%E4%B9%90%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页温馨的奇幻漫画，讲述森林里的孩子们聆听精灵与矮人演奏音乐的故事，采用手绘绘本漫画风格。所有对话和旁白请使用 {argument name="language of visible text" default="日语"}，并采用竖排漫画字体。
+
+画布：一页竖版漫画，比例约为 3:4，居中放置在浅奶油色背景上，带有细黑色页面边框。页面内部使用精细的黑色分格线，以及水彩风格的奇幻插画，包含茂密的叶子、花朵、斑驳的阳光和金绿色调。
+
+布局：使用 5 个漫画分格。第 1 格为顶部全宽大格。第 2 格为中间全宽大格。第 3 格为下方拆分行中的左侧格。第 4 格为下方拆分行中的右侧格。第 5 格为底部的全宽大格。在第 2 格和第 4 格中添加小型音符符号。
+
+角色：包含 6 个固定角色：1 位高挑的金发精灵女性，尖耳朵，头戴花饰，身穿优雅的白绿色刺绣长裙，手持鲁特琴；1 位身材魁梧的留须矮人男性，尖耳朵，戴圆帽，身穿叠层旅行装，手持小手鼓；1 位棕发兽耳小孩；1 位金发精灵女孩；1 位黑发人类男孩，身穿蓝色束腰外衣，系红色围巾；以及 1 位编着棕色辫子的矮人女孩，戴着装饰性头带。精灵音乐家为 {argument name="elf musician" default="一位弹奏鲁特琴的温柔金发精灵女性"}；矮人音乐家为 {argument name="dwarf musician" default="一位敲打手鼓的开朗红胡子矮人"}。保持孩子们表情生动、双眼圆睁、充满喜悦。
+
+分格细节与文字：第 1 格展示矮人和精灵坐在树下演奏音乐，孩子们围在他们身边；使用 2 个对话气泡：一个来自精灵，内容为 {argument name="elf opening line" default="風がそよぎ 木々がうたう 大地の恵みに ありがとう"}，另一个来自孩子，内容为 "わっっっは！いい歌だ！"。第 2 格展示孩子们从左到右的特写反应，他们微笑着双手合十，音乐在周围飘荡；使用 4 个对话气泡："きれいな 音色だね…"，"おじさんの リズムが すっごく楽しい！"，"ふたりの音が ぴったり 合ってる！"，以及 "もっと 聴きたいな！"。第 3 格（左下）展示 6 个角色沿着阳光明媚的森林小径一起走向舒适的村屋；使用 2 个对话气泡："うん！" 和 "ねえみんなも 一緒に歌おうよ！"。第 4 格（右下）展示精灵和矮人并肩演奏，面带温暖的微笑；使用 2 个对话气泡："音楽は ぶつけ合いじゃなく 橋になるんだな" 和 "ええ 一緒に奏でると 心が通うの"。第 5 格展示精灵和矮人坐在开满鲜花的空地上，被 4 个快乐聆听的孩子环绕；包含 2 个竖排旁白框：左侧框写着 "小さな村に、 音楽と笑顔が あふれる日々が 続いていきました。"，右侧框写着 "エルフの優しい旋律と ドワーフの楽しいリズム、 そしてみんなの歌声が ひとつになってーー"。在左下角添加一个小的装饰性结尾标题，写着 "❀おわり❀"。
+
+视觉风格：细腻的日式奇幻漫画，带有水彩质感、墨线轮廓、华丽的服饰、柔和的面部线条、生动的眼神、明亮的森林氛围、童话村庄背景、温暖的阳光和温柔治愈的基调。避免出现现代物品，避免增加分格，避免增加额外角色，并将所有文字保持在指定的对话气泡或旁白框内。
+
+[English]
+Goal: Create a warm fantasy manga page about forest children listening to elf and dwarf music, in a hand-painted storybook manga style. Use {argument name="language of visible text" default="Japanese"} for all dialogue and narration, with vertical manga lettering.
+
+Canvas: One vertical comic page, about 3:4 aspect ratio, centered on a pale cream background with a thin black page border. Inside the page, use fine black panel gutters and watercolor-like fantasy illustration with dense foliage, flowers, dappled sunlight, and golden-green tones.
+
+Layout: Use exactly 5 comic panels. Panel 1 is a wide full-width top panel. Panel 2 is a wide full-width middle panel. Panel 3 is the lower-left panel of a split row. Panel 4 is the lower-right panel of the same split row. Panel 5 is a wide full-width final panel at the bottom. Add small musical-note symbols in panels 2 and 4.
+
+Characters: Include exactly 6 recurring characters: 1 tall blonde elf woman with pointed ears, flower hair ornaments, elegant white-and-green embroidered dress, holding a lute; 1 stout bearded dwarf man with pointed ears, round cap, layered travel clothes, and a small hand drum; 1 small tan-haired animal-eared child; 1 blonde elf girl child; 1 dark-haired human boy in a blue tunic and red scarf; and 1 braided brown-haired dwarf girl child with a decorated headband. The elf woman is {argument name="elf musician" default="a gentle blonde elf woman playing a lute"}; the dwarf musician is {argument name="dwarf musician" default="a cheerful red-bearded dwarf playing a hand drum"}. Keep the children expressive, wide-eyed, and delighted.
+
+Panel details and text: Panel 1 shows the dwarf and elf seated under trees performing music while children gather around them; use exactly 2 speech bubbles: one from the elf saying {argument name="elf opening line" default="風がそよぎ 木々がうたう 大地の恵みに ありがとう"}, and one from a child saying "わっっっは！いい歌だ！". Panel 2 shows close-up reactions of the children from left to right, smiling and clasping hands as music floats around; use exactly 4 speech bubbles: "きれいな 音色だね…", "おじさんの リズムが すっごく楽しい！", "ふたりの音が ぴったり 合ってる！", and "もっと 聴きたいな！". Panel 3, lower-left, shows the six characters walking away together along a sunny forest path toward a cozy village house; use exactly 2 speech bubbles: "うん！" and "ねえみんなも 一緒に歌おうよ！". Panel 4, lower-right, shows the elf and dwarf playing side by side, smiling warmly; use exactly 2 speech bubbles: "音楽は ぶつけ合いじゃなく 橋になるんだな" and "ええ 一緒に奏でると 心が通うの". Panel 5 shows the elf and dwarf seated in a flower-filled clearing, surrounded by the four children listening happily; include exactly 2 vertical narration boxes: left box says "小さな村に、 音楽と笑顔が あふれる日々が 続いていきました。" and right box says "エルフの優しい旋律と ドワーフの楽しいリズム、 そしてみんなの歌声が ひとつになってーー". Add a small decorative final caption at bottom left reading "❀おわり❀".
+
+Visual style: Detailed Japanese fantasy manga with watercolor textures, ink outlines, ornate clothing, soft faces, expressive eyes, luminous forest atmosphere, fairytale village background, warm sunlight, and gentle wholesome mood. Avoid modern objects, avoid extra panels, avoid extra characters, and keep all text inside the specified bubbles or narration boxes.
+```
+
+**来源：** [@無心 Mushin](https://x.com/xoMushinxo/status/2063382815765606735) | 2026-06-06
+
+---
+

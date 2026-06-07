@@ -1116,3 +1116,61 @@ Create a dark gothic fantasy anime illustration in a vertical 3:4 composition. D
 
 ---
 
+### 🖥️ 例 555：Moonlit 透明度检测卡
+
+![Moonlit 透明度检测卡](../images/Moonlit%20%E9%80%8F%E6%98%8E%E5%BA%A6%E6%A3%80%E6%B5%8B%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张华丽的奇幻“透明度检测”诊断卡，包含一位空灵的月光公主角色和日式结果 UI。
+
+画布：1:1 正方形图像，1024×1024 风格，明亮的蓝紫色调，高细节动漫奇幻插画与优雅的魔法信息图表设计相结合。构图垂直分割：左侧 40% 为半透明玻璃结果面板，右侧 60% 展示站在水晶宫殿中的全身角色。
+
+主体：右侧描绘一位精致的女性奇幻角色，拥有极长的飘逸银白色长发、苍白的皮肤和优雅的姿态。她的脸部被一个朴素的柔和粉米色方形遮挡块覆盖。她穿着精致的层叠礼服，颜色为白色、银色、淡紫色和深紫色，配有深色束胸、星形装饰、宝石链、蕾丝、半透明面纱和闪亮的水晶刺绣。她的裙摆宽大且呈半透明状，带有月亮和星星图案、飘逸的丝带以及闪烁的高光。周围环绕着悬挂的水晶、玻璃气泡、月光、折射光，以及宏伟的冰雪宫殿背景，包含圆柱、拱门、吊灯和环形天体建筑。
+
+左侧诊断面板：使用带有纤细华丽银色边框、花丝边角、微小星形装饰和发光分割线的透明磨砂玻璃矩形面板。所有文字应呈现优雅的日式奇幻排版，以白色为主，带有淡紫色和青色的光晕。
+
+文字内容：顶部为大型日文标题文字：「透明度診断」，下方配有小型英文副标题“TRANSPARENCY CHECK”。下方是一个小标签：「診断結果」。主评分行显示为「透明度：{argument name="transparency score" default="92"}%」，数字非常大且带有发光效果。在分数下方，添加一条几乎填满的水平虹彩进度条，右侧带有一个小水晶标记。进度条下方显示角色名称：「{argument name="character name" default="セシル＝リア＝クラランドール"}」。
+
+等级卡：包含 1 个等级部分，左侧带有圆形新月水晶徽章，上方标签为「透明度ランク」，右侧为巨大的发光等级数值「{argument name="rank" default="SS"}」。
+
+类型与属性部分：包含 2 行带小图标的标签行。第 1 行标签「透明タイプ」，数值「{argument name="transparency type" default="月光水晶型"}」，配有水晶水滴图标。第 2 行标签「属性」，数值「{argument name="attribute" default="月光水属性"}」，配有新月水滴图标。
+
+引言部分：在中间添加一行日文诗句：「静かな意志は、澄みきった光となる。」，上下配有小型装饰性花纹。
+
+辅助指标：在面板底部，在淡蓝紫色雷达图旁边创建 4 行辅助指标。雷达图具有五边形网格，内部填充柔和发光的五边形。4 行指标必须为：「うるみ度 95」（配水滴图标）、「きらめき 90」（配闪烁图标）、「儚さ 84」（配羽毛图标）以及「神秘性 93」（配新月图标）。
+
+视觉风格：超细节、发光、水晶质感、梦幻、透明材质、月光、棱镜反射、柔和虚化、漂浮气泡、微小星辰、银色花丝、高奇幻动漫艺术、优雅 UI 叠加、冷蓝紫色灯光、魔法氛围。
+
+约束：保持精确的可见结构和数量：1 个标题区、1 个评分区、1 条进度条、1 行名称、1 张等级卡、2 行类型/属性、1 行引言、1 个雷达图和 4 行辅助指标。不要添加额外的字符、Logo、水印或现代物体。保留覆盖在角色脸部的方形遮挡块。
+
+[English]
+Goal: Create an ornate fantasy “Transparency Check” diagnostic card featuring an ethereal moonlit princess character and a Japanese results UI.
+
+Canvas: Square 1:1 image, 1024×1024 style, luminous blue-violet palette, high-detail anime fantasy illustration mixed with elegant magical infographic design. The composition is split vertically: the left 40% is a translucent glass results panel, and the right 60% shows the full-body character standing in a crystal palace.
+
+Main subject: On the right, depict a delicate female fantasy character with extremely long flowing silver-white hair, pale skin, and a graceful posture. Her face is covered by a plain muted pink-beige square censor block. She wears an elaborate layered dress in white, silver, lavender, and deep violet with a dark corset bodice, star-shaped ornaments, gemstone chains, lace, translucent veils, and sparkling crystal embroidery. Her skirt is voluminous and semi-transparent with moon-and-star motifs, flowing fabric ribbons, and glittering highlights. Surround her with hanging crystals, glass bubbles, moonlight, refractions, and a grand icy palace background with columns, arches, chandeliers, and circular celestial architecture.
+
+Left diagnostic panel: Use a transparent frosted-glass rectangular panel with thin ornate silver borders, filigree corners, tiny star accents, and glowing divider lines. All text should look like elegant Japanese fantasy typography, mostly white with pale lavender and cyan glow.
+
+Text content: At the top, large Japanese title text: 「透明度診断」 with small English subtitle “TRANSPARENCY CHECK”. Below it, a small label: 「診断結果」. The main score line reads 「透明度：{argument name="transparency score" default="92"}%」 with the number very large and glowing. Under the score, add a horizontal iridescent progress bar filled nearly to the end, with a small crystal marker on the right. Beneath the bar, show the character name: 「{argument name="character name" default="セシル＝リア＝クラランドール"}」.
+
+Rank card: Include exactly 1 rank section with a circular crescent-moon crystal emblem on the left and the label 「透明度ランク」 above a huge glowing rank value 「{argument name="rank" default="SS"}」 on the right.
+
+Type and attribute section: Include exactly 2 labeled rows with small icons. Row 1 label 「透明タイプ」 and value 「{argument name="transparency type" default="月光水晶型"}」 with a crystal droplet icon. Row 2 label 「属性」 and value 「{argument name="attribute" default="月光水属性"}」 with a crescent moon water icon.
+
+Quote section: Add a centered poetic line in Japanese: 「静かな意志は、澄みきった光となる。」 with small ornamental flourishes above and below.
+
+Auxiliary indicators: At the bottom of the panel, create exactly 4 auxiliary metric rows next to a pale blue-purple radar chart. The radar chart has a pentagonal web with a softly glowing filled polygon. The 4 rows must be: 「うるみ度 95」 with a water droplet icon, 「きらめき 90」 with a sparkle icon, 「儚さ 84」 with a feather icon, and 「神秘性 93」 with a crescent icon.
+
+Visual style: Ultra-detailed, luminous, crystalline, dreamy, transparent materials, moonlight, prismatic reflections, soft bokeh, floating bubbles, tiny stars, silver filigree, high fantasy anime art, elegant UI overlay, cool blue lavender lighting, magical atmosphere.
+
+Constraints: Keep the exact visible structure and counts: 1 title area, 1 score area, 1 progress bar, 1 name line, 1 rank card, 2 type/attribute rows, 1 quote, 1 radar chart, and 4 auxiliary metric rows. Do not add extra characters, logos, watermarks, or modern objects. Preserve the face-covering square over the character’s face.
+```
+
+**来源：** [@石上　三歳（ｲｼｶﾞﾐ　ﾐﾄｾ）](https://x.com/mitose_ishigami/status/2063406924452999174) | 2026-06-06
+
+---
+

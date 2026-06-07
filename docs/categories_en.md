@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (31)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (32)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -55,6 +55,8 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 540: 浅蓝色运动套装时尚人像](cat-ui.md#️-例-540浅蓝色运动套装时尚人像)
 
 - [Case 543: 哥特式紫罗兰王座幻想](cat-ui.md#️-例-543哥特式紫罗兰王座幻想)
+
+- [Case 555: Moonlit 透明度检测卡](cat-ui.md#️-例-555moonlit-透明度检测卡)
 ---
 
 <a id="chart"></a>
@@ -636,7 +638,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (38)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (40)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -698,6 +700,10 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 511: 奇幻动漫角色主题整蛋糕](cat-3d.md#-例-511奇幻动漫角色主题整蛋糕)
 
 - [Case 512: DIY 婴儿玩具概念图纸](cat-3d.md#-例-512diy-婴儿玩具概念图纸)
+
+- [Case 556: 奢华博物馆亚克力展示柜视觉效果](cat-3d.md#-例-556奢华博物馆亚克力展示柜视觉效果)
+
+- [Case 557: 置于闪烁玻璃杯中的淡彩动漫手办](cat-3d.md#-例-557置于闪烁玻璃杯中的淡彩动漫手办)
 ---
 
 <a id="architecture"></a>
@@ -732,7 +738,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (28)
+## 🎬 [Comics & Storyboards](cat-comic.md) (29)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -771,11 +777,13 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 528: 铠站海滨漫画](cat-comic.md#-例-528铠站海滨漫画)
 
 - [Case 551: 奢华时尚杂志拼贴画](cat-comic.md#-例-551奢华时尚杂志拼贴画)
+
+- [Case 558: 奇幻森林音乐漫画页面](cat-comic.md#-例-558奇幻森林音乐漫画页面)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (41)
+## 🏷️ [Brand & Packaging](cat-brand.md) (42)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -849,6 +857,8 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 532: 移轴城市地图旅行场景](cat-brand.md#️-例-532移轴城市地图旅行场景)
 
 - [Case 536: 极简夏季手写字体排版](cat-brand.md#️-例-536极简夏季手写字体排版)
+
+- [Case 559: 彩色油画风格肖像转换](cat-brand.md#️-例-559彩色油画风格肖像转换)
 ---
 
 <a id="edit"></a>

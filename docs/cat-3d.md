@@ -996,3 +996,63 @@ commercial baby toy, premium product design, luxury product rendering, silicone 
 
 ---
 
+### 🧸 例 556：奢华博物馆亚克力展示柜视觉效果
+
+![奢华博物馆亚克力展示柜视觉效果](../images/%E5%A5%A2%E5%8D%8E%E5%8D%9A%E7%89%A9%E9%A6%86%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%B1%95%E7%A4%BA%E6%9F%9C%E8%A7%86%E8%A7%89%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+正方形の高品質3D商品ビジュアル。{argument name="展示場所" default="高級美術館"}の展示室に、{argument name="展示ケース" default="透明な縦長の角筒型アクリルカプセルケース"}を中央配置。厚みある透明アクリル、自然な反射、繊細なエッジハイライト、{argument name="フレーム" default="極細シャンパンゴールド"}フレーム。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2063406720580497847) | 2026-06-06
+
+---
+
+### 🧸 例 557：置于闪烁玻璃杯中的淡彩动漫手办
+
+![置于闪烁玻璃杯中的淡彩动漫手办](../images/%E7%BD%AE%E4%BA%8E%E9%97%AA%E7%83%81%E7%8E%BB%E7%92%83%E6%9D%AF%E4%B8%AD%E7%9A%84%E6%B7%A1%E5%BD%A9%E5%8A%A8%E6%BC%AB%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款 1/7 比例预涂装动漫手办创作精致的商业产品视觉图，将其呈现为清爽的夏季甜点饮品。
+
+画布：方形 4:5 左右的产品摄影构图，柔和的高调照明，淡紫色、冰蓝色与白色的色调，浅景深，具有收藏级手办广告质感的写实光泽渲染。
+
+主体：中右侧，展示一个名为 {argument name="character name" default="Emma Crandall"} 的动漫风格女性角色，她坐在一个装满透明气泡水的圆柱形玻璃杯中。角色拥有非常长且飘逸的 {argument name="hair color" default="淡紫色"} 头发，在水中四散漂浮，并带有深紫色的小蝴蝶结配饰。她的脸部被一个平滑、不透明的淡粉色矩形遮挡块覆盖，没有五官。她身穿一件带有层叠荷叶边、蕾丝饰边、胸前饰有深色小蝴蝶结、腰部饰有深色蝴蝶结以及透明发圈手链的淡紫色夏季百合泳装裙。姿势：一只手靠近脸颊，另一只手搭在杯沿上，赤裸的双腿悬在水下，脚尖绷直。
+
+可见元素计数：正好 1 个女性角色，1 个透明玻璃杯，背景右侧 1 片柠檬切片，前景/背景中 3 块明显的冰块，水中悬浮着许多细小的气泡，背景/前景中有 2 朵模糊的淡紫色大花，以及角色服装/头发上的 3 个深紫色蝴蝶结装饰。
+
+布局：玻璃杯占据图像下方的三分之二，角色从水位线处露出。左上方区域包含优雅的产品排版和装饰线条，使角色在右侧占据主导地位。背景为梦幻般的微距桌面场景，带有焦外成像高光、冰冷的反射、模糊的花朵和柠檬角。
+
+文字内容：在左上方添加正好 4 行/块文字。第 1 行大型日文标题：{argument name="Japanese title" default="エマ・クランドール"}。第 2 行较小的英文草书名称：{argument name="English name" default="Emma Crandall"}。第 3 行小型日文副标题：{argument name="version subtitle" default="サマーリリィ・アフタヌーン Ver."}。第 4 行位于淡紫色丝带横幅上：{argument name="scale label" default="1/7スケール 塗装済み完成品フィギュア"}。在副标题和丝带之间加入一条纤细的装饰性花卉分隔线。
+
+视觉风格：超精致动漫手办摄影，树脂/PVC 收藏品质感，透明玻璃折射，逼真的水面焦散，闪烁的高光，柔和的辉光效果，淡彩优雅风，奢华手办宣传主视觉图。
+
+约束条件：保持所有文字清晰可辨，且仅放置在左上方。不要添加额外的角色、标签、Logo、水印或包装。保持被遮挡的空白矩形脸部为一个平整的不透明块。
+
+[English]
+Goal: Create a delicate commercial product visual for a 1/7 scale pre-painted anime figure displayed like a refreshing summer dessert drink.
+
+Canvas: Square 4:5-ish product photo composition, soft high-key lighting, pale lavender, icy blue, and white color palette, shallow depth of field, glossy realistic rendering with a collectible figure advertisement feel.
+
+Main subject: Center-right, show one anime-style female figure named {argument name="character name" default="Emma Crandall"} seated inside a clear cylindrical glass tumbler filled with transparent sparkling water. The figure has very long flowing {argument name="hair color" default="pale lavender"} hair drifting around her in the water, with small dark purple bow accessories. Her face is covered by a smooth opaque pale pink rectangular censor block with no facial features. She wears one frilly lavender summer-lily swimsuit dress with layered ruffles, lace trim, a small dark bow at the chest, a dark bow at the hip, and a translucent scrunchie bracelet. Her pose: one hand near her cheek, the other resting over the glass rim, bare legs dangling underwater with pointed bare feet.
+
+Visible counted elements: exactly 1 female figure, 1 transparent glass tumbler, 1 lemon slice on the right background, 3 prominent ice cubes in the foreground/background, many tiny air bubbles suspended in the water, 2 large blurred pale purple flowers in the background/foreground, and 3 dark purple bow accents on the figure outfit/hair.
+
+Layout: The glass occupies the lower two-thirds of the image, with the figure emerging from the waterline. The top-left area contains elegant product typography and ornament lines, leaving the figure dominant on the right. Background is a dreamy macro tabletop scene with bokeh highlights, icy reflections, blurred flowers, and a lemon wedge.
+
+Text content: Add exactly 4 text lines/blocks in the upper-left. Line 1 large Japanese title: {argument name="Japanese title" default="エマ・クランドール"}. Line 2 smaller cursive English name: {argument name="English name" default="Emma Crandall"}. Line 3 small Japanese subtitle: {argument name="version subtitle" default="サマーリリィ・アフタヌーン Ver."}. Line 4 on a lavender ribbon banner: {argument name="scale label" default="1/7スケール 塗装済み完成品フィギュア"}. Include a thin decorative floral divider between the subtitle and ribbon.
+
+Visual style: Ultra-polished anime figure photography, resin/PVC collectible texture, transparent glass refraction, realistic water caustics, sparkling highlights, soft bloom, pastel elegance, luxury figure promotional key visual.
+
+Constraints: Keep all text legible and placed only in the upper-left. Do not add extra characters, extra labels, logos, watermarks, or packaging. Maintain the censored blank rectangular face exactly as a flat opaque block.
+```
+
+**来源：** [@石上　三歳（ｲｼｶﾞﾐ　ﾐﾄｾ）](https://x.com/mitose_ishigami/status/2063402871484469305) | 2026-06-06
+
+---
+
