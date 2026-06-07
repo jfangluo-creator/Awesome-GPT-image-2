@@ -561,3 +561,438 @@ Create a premium collectible handmade enamel souvenir magnet based on the {argum
 **来源：** [@Eesha](https://x.com/MissDelulu9/status/2061387471439712383) | 2026-06-01
 
 ---
+
+### 🧸 例 425：著名地标 3D 微缩模型
+
+![著名地标 3D 微缩模型](../images/%E8%91%97%E5%90%8D%E5%9C%B0%E6%A0%87%203D%20%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+等轴测微缩立体模型，展示 {argument name="landmark name" default="埃菲尔铁塔"}，在小型悬浮平台上还原其现实世界的结构与比例，周围环绕着来自 {argument name="location" default="法国巴黎"} 的建筑和景观细节。采用物理精确的材质，包括石材、混凝土、金属和玻璃。色彩搭配真实，色调柔和且符合地标原貌。米白色摄影棚背景，配以柔和的自然光、细腻的阴影和简洁的构图。高细节 3D 渲染，呈现高级建筑模型美感，无人物，无文字。
+
+[English]
+Isometric miniature diorama of {argument name="landmark name" default="The Eiffel Tower"}, capturing its real-world structure and proportions on a small floating platform, surrounded by buildings and landscape details from {argument name="location" default="Paris, France"}. Physically accurate materials including stone, concrete, metal, and glass. True-to-life color palette, muted and realistic tones matching the actual landmark. Off-white studio background with soft natural lighting, gentle shadows, and clean composition. High-detail 3D render, premium architectural model aesthetic, no people, no text.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063020385420161405) | 2026-06-05
+
+---
+
+### 🧸 例 437：Claude Opus 4.8 核心幻灯片
+
+![Claude Opus 4.8 核心幻灯片](../images/Claude%20Opus%204.8%20%E6%A0%B8%E5%BF%83%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为视觉风格和布局灵感，为 {argument name="AI tool" default="Claude Opus 4.8"} 创建一张聚焦型的单页轮播幻灯片，而非六款工具的概览。保持同样的高级黑色背景、细腻的科技网格纹理、光泽感 3D 图标渲染、戏剧性的摄影棚灯光、优雅的高对比度衬线字体、霓虹强调色、手写下划线装饰以及底部的社交账号位置。
+
+将构图转换为单页核心页面：将账号 “@juangpt_o1” 居中置于顶部，在右上角添加小型的 Claude 标志和文字标识，并将原标题替换为醒目的两行大标题，其中 “Claude” 为橙色，“Opus 4.8” 为白色。在标题下方添加一行简洁的西班牙语副标题：{argument name="subtitle text" default="El mejor para programar y para agentes — hasta 1000 subagentes a la vez"}，并将 “1000 subagentes” 用橙色强调。在副标题下方添加一条细细的橙色手绘下划线。
+
+将六图标网格替换为 1 个大型中央光泽 3D 图标：将橙色的 Claude 太阳光芒/星号标志放大作为主体，使其矗立在带有橙色光晕、轮廓光、阴影和细腻体积雾的深色反射地面上。移除参考图中的所有其他工具图标和标签。
+
+底部行动号召（CTA）：将原有的底部 CTA 替换为 {argument name="bottom call to action" default="Programa por ti. GO!"}，保持 “GO!” 为亮霓虹绿色，其余文字为白色。将 “@juangpt_o1” 居中置于最底部。使用 4:5 比例的竖版社交媒体海报格式，呈现 4K 清晰细节，除指定内容外，不添加额外标志或文字。
+
+[English]
+Using REFERENCE_0 as the visual style and layout inspiration, create a single focused carousel slide for {argument name="AI tool" default="Claude Opus 4.8"} instead of the six-tool overview. Keep the same premium black background, subtle technical grid texture, glossy 3D icon rendering, dramatic studio lighting, elegant high-contrast serif typography, neon accent color, handwritten underline flourish, and bottom social-handle placement.
+
+Transform the composition into one hero page: place the handle “@juangpt_o1” centered at the top, add a small Claude logo mark and wordmark in the top-right corner, and replace the original headline with a huge two-line title reading “Claude” in orange and “Opus 4.8” in white. Under the title, add one concise Spanish subtitle: {argument name="subtitle text" default="El mejor para programar y para agentes — hasta 1000 subagentes a la vez"}, with “1000 subagentes” emphasized in orange. Add a thin orange hand-drawn underline beneath the subtitle.
+
+Replace the six-icon grid with exactly 1 large central glossy 3D icon: the orange Claude sunburst/asterisk logo, enlarged as the main object, standing on a dark reflective floor with orange glow, rim light, shadow, and subtle volumetric haze. Remove all other tool icons and labels from the reference.
+
+Bottom call to action: replace the original bottom CTA with {argument name="bottom call to action" default="Programa por ti. GO!"}, keeping “GO!” in bright neon green and the rest in white. Keep “@juangpt_o1” centered at the very bottom. Use a vertical 4:5 social media poster format, crisp 4K detail, no extra logos, no added text beyond the specified items.
+```
+
+**来源：** [@juan carlos mercedes](https://x.com/juancarlos17626/status/2062946335502799087) | 2026-06-05
+
+---
+
+### 🧸 例 438：微缩模型场景重构
+
+![微缩模型场景重构](../images/%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E5%9C%BA%E6%99%AF%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+{
+ "reference_images": {
+  "scene_reference": "ATTACHED_IMAGE",
+  "usage_rule": "Use this image as the exact source for scene layout, object placement, and composition. Do not reinterpret or replace the scene."
+ },
+ "concept": {
+  "type": "miniature diorama reconstruction",
+  "intent": "Rebuild the attached scene as a clean, collectible-scale diorama while preserving the original spatial relationships"
+ },
+ "environment": {
+  "scale": "tabletop miniature",
+  "ground": {
+   "type": "sculpted base",
+   "behavior": "supports all objects naturally without enclosure",
+   "edges": "clean, minimal, slightly beveled"
+  },
+  "background": {
+   "type": "seamless studio backdrop",
+   "color": "pure white",
+   "constraint": "no environment beyond the diorama base"
+  }
+ },
+ "objects_and_elements": {
+  "layout_rule": "All objects must remain in the same relative positions as in the reference image",
+  "primary_elements": "exact vehicles, structures, props, and terrain visible in the reference",
+  "detail_handling": "simplified but faithful miniature proportions",
+  "characters": {
+   "presence": "only if present in the reference",
+   "style": "miniature figurines, no facial realism"
+  }
+ },
+ "composition": {
+  "view": "isometric or slightly elevated 3/4 perspective",
+  "framing": "entire diorama visible, centered",
+  "cropping": "no zoom, no cinematic crop"
+ },
+ "camera": {
+  "lens_equivalent": "35mm-50mm",
+  "perspective": "miniature realism",
+  "distortion": "none"
+ },
+ "lighting": {
+  "type": "soft studio lighting",
+  "direction": "overhead and slightly angled",
+  "shadows": "subtle contact shadows only beneath objects",
+  "avoid": ["dramatic lighting", "spotlights", "cinematic contrast"]
+ },
+ "materials_and_style": {
+  "surface_finish": "smooth, matte or lightly satin",
+  "material_quality": "high-quality scale model materials",
+  "aesthetic": "clean, modern, premium diorama"
+ },
+ "quality_controls": {
+  "image_clarity": "ultra-clean",
+  "grain": "none",
+  "noise": "none",
+  "motion_blur": "none"
+ },
+ "negative_prompts": [
+  "glass case", "display box", "museum enclosure",
+  "transparent cube", "protective casing",
+  "reflections on glass", "labels or plaques",
+  "text overlays", "busy background", "cinematic blur"
+ ]
+}
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062945277733200281) | 2026-06-05
+
+---
+
+### 🧸 例 451：玻璃骨架书房美学
+
+![玻璃骨架书房美学](../images/%E7%8E%BB%E7%92%83%E9%AA%A8%E6%9E%B6%E4%B9%A6%E6%88%BF%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+风格化的 3D 渲染，主角为 {argument name="subject" default="透明玻璃骨架"}，佩戴着 {argument name="accessory" default="黑框眼镜"}，坐在 {argument name="furniture" default="木质书桌"} 前，低头看着一本打开的教科书，并用黄色荧光笔标记文本。右侧一盏温暖的金色台灯投射出舒适的黄色光芒，在玻璃表面形成光泽反射。桌上放着一个白色咖啡杯、一叠精装书，以及散落的钢笔和淡粉色与黄色的荧光笔。背景为柔和的粉色墙壁。温暖的书房美学。无文字或水印。
+
+[English]
+Stylized 3D render of a {argument name="subject" default="clear glass skeleton"} with {argument name="accessory" default="black-rimmed glasses"}, seated at a {argument name="furniture" default="wooden desk"}, looking down at an open textbook while highlighting text with a yellow highlighter. A warm gold desk lamp on the right casts cozy yellow light with glossy reflections on the glass surface. The desk has a white coffee mug, stack of hardcover books, and scattered pens with pastel pink and yellow highlighters. Soft pink wall background. Warm, studious aesthetic. No text or watermarks.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062915921371644352) | 2026-06-05
+
+---
+
+### 🧸 例 460：高端 3D 漫画风格身份形象
+
+![高端 3D 漫画风格身份形象](../images/%E9%AB%98%E7%AB%AF%203D%20%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BA%AB%E4%BB%BD%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端风格化的 3D 漫画形象，主体为 {argument name="subject" default="上传图片中的人物"}，需精准保留其身份特征、面部细节、发型、肤色、年龄和表情。采用大头小身的写实上半身比例，呈现奢华设计师玩具的美学风格，展示躯干和手臂，姿态自然自信。采用超精细 CGI 技术，材质细腻高级，柔和的摄影棚灯光，中性灰背景，超写实渲染，焦点清晰，构图比例为 1:1。在右下角以圆角嵌入原图（占画面 15%–20%），并添加精致的白色边框和柔和阴影，形成简洁的对比效果。负面提示词：{argument name="negative content" default="底座、基座、半身雕像、悬浮头部、皮克斯风格、动漫、卡通、低多边形、模糊、面部扭曲、多余肢体、文字、水印、Logo、背景杂乱、低质量。"}
+
+[English]
+Create a premium stylized 3D caricature of the {argument name="subject" default="person in the uploaded image"}, preserving their exact identity, facial features, hairstyle, skin tone, age, and expression. Oversized head, smaller realistic upper body, luxury designer-toy aesthetic, visible torso and arms, confident natural pose, ultra-detailed CGI, smooth premium materials, soft studio lighting, neutral gray background, hyper-realistic rendering, sharp focus, 1:1 composition. Include the original uploaded photo as a rounded-corner inset in the bottom-right corner (15–20% of frame) with a subtle white border and soft shadow, creating a clean before-and-after comparison. Negative prompt: {argument name="negative content" default="pedestal, base, bust statue, floating head, Pixar, anime, cartoon, low-poly, blurry, distorted face, extra limbs, text, watermark, logo, cluttered background, low quality."}
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2062899755207024975) | 2026-06-05
+
+---
+
+### 🧸 例 478：3D 织物艺术提示词分享拼贴画
+
+![3D 织物艺术提示词分享拼贴画](../images/3D%20%E7%BB%87%E7%89%A9%E8%89%BA%E6%9C%AF%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%88%86%E4%BA%AB%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张优质的方形社交媒体展示海报，主题是将日常物品转化为触感丰富的 3D 织物艺术，使用 {argument name="headline text" default="PROMPT SHARE"} 作为主标题，使用 {argument name="signature text" default="Samann_AI"} 作为创作者标签。
+
+画布：1:1 正方形构图，纯净的白色背景，圆角画廊布局。采用柔和的编辑产品设计风格，运用逼真的布料、粗麻布、毛毡、羊毛、粗花呢、牛仔布、麂皮、皮革和拉丝铜装饰。光线柔和且具有方向性，带有逼真的阴影，使每个元素都呈现出浮雕般的、手工制作的纺织雕塑感。
+
+布局：在 2x2 的网格中排列 4 个大的圆角方形图像面板，面板间留有窄小的白色间隙。每个面板都有柔和的鼠尾草绿或橄榄灰背景，并包含一个居中的 3D 织物拼贴物体。在网格下方添加一个品牌条：左侧为大号紧凑型蓝灰色大写文本 {argument name="headline text" default="PROMPT SHARE"}；在其正下方或重叠处，放置斜体灰色手写文本 "chat GPT 2.0"。右侧放置一个长圆形的浅灰色胶囊形状，内含间距均匀的蓝灰色字母 {argument name="signature text" default="Samann_AI"}，最右侧放置一个小圆形个人头像。
+
+四个面板内容，共 4 个：
+1. 左上面板：一个风格化的男性商务肖像，由层叠的织物矩形和杆件构成。人物身穿海军蓝西装外套、白衬衫和红色编织领带。头顶上方是灰米色的雕塑感布料头发。脸部区域特意用一块平整的棕色方形布料遮盖，如同匿名占位符。肖像周围环绕着堆叠的棕褐色、棕色、海军蓝和炭灰色纺织块、细铜杆以及小圆形黄铜圆盘。
+2. 右上面板：一个完全由织物和类皮革材料制成的 BMW 风格圆形徽标。展示一个黑色外圈，顶部周围有凸起的奶油色字母 "B"、"M" 和 "W"。中心包含米色和深蓝色织物制成的经典四分圆。周围环绕着矩形粗麻布块、深色垂直面板、细铜杆、小黄铜旋钮和层叠的几何背景形状。
+3. 左下面板：一个舒适的现代沙发场景，呈现为织物墙面雕塑。展示一个米色软垫沙发，带有圆润的扶手，上面有 2 个靠垫，座椅下方有一条细长的深色木质搁板或桌面线条，沙发后方和下方堆叠着许多纺织矩形。使用棕褐色、奶油色、棕色、灰褐色和灰色织物，左侧有一个大的圆形棕色半圆，以及小珠状装饰、黄铜圆盘和细铜杆。
+4. 右下面板：第二个风格化肖像，这次是一位年长者，拥有蓬松的卷曲白灰色纱线头发，穿着灰色粗花呢外套或夹克。脸部特意被一块平整的灰褐色方形布料遮盖。背景由致密层叠的棕色、米色、灰色和炭灰色纺织方块和矩形构成，配有小黄铜圆圈和垂直铜针。
+
+视觉风格：超精细的 3D 纺织工艺，逼真的编织纤维纹理，层叠的拼贴深度，温暖的大地色调配以海军蓝点缀，手工奢华氛围，边缘清晰，圆角面板，微妙的环境光遮蔽，高端 Behance 风格的设计展示。
+
+约束条件：保持 4 个主图像面板和 1 个底部品牌条。不要添加额外的面板。确保所有物体看起来都是由布料和线物理制成，而不是平面的数字插画。保留可见的文字 "BMW"、"chat GPT 2.0"、标题和创作者标签。避免使用写实的人类皮肤；肖像应保持为抽象的纺织结构，脸部用纯色布料遮盖。
+
+[English]
+Goal: Create a premium square social-media showcase poster about turning everyday objects into tactile 3D fabric art, using {argument name="headline text" default="PROMPT SHARE"} as the main caption and {argument name="signature text" default="Samann_AI"} as the creator tag.
+
+Canvas: Square 1:1 composition, clean white background, rounded-corner gallery layout. Use a soft editorial product-design look with realistic cloth, burlap, felt, wool, tweed, denim, suede, leather, and brushed copper accents. Lighting is soft and directional with realistic shadows, giving every element a raised bas-relief, handcrafted textile sculpture feel.
+
+Layout: Arrange exactly 4 large rounded-square image panels in a 2 by 2 grid with narrow white gutters. Each panel has a muted sage-green or olive-gray backdrop and contains a centered 3D fabric collage object. Add a bottom branding strip beneath the grid: on the left, large condensed blue-gray uppercase text reading {argument name="headline text" default="PROMPT SHARE"}; directly below or overlapping it, italic gray script text reading "chat GPT 2.0". On the right, place a long rounded light-gray pill containing spaced blue-gray letters reading {argument name="signature text" default="Samann_AI"}, plus a small circular profile avatar at the far right.
+
+Four panel contents, exactly 4:
+1. Top-left panel: a stylized male business portrait built from layered fabric rectangles and rods. The figure wears a navy suit jacket, white shirt, and red woven tie. Gray-beige sculpted cloth hair sits above the head. The face area is intentionally covered by a flat square brown fabric patch, like an anonymized placeholder. Surround the portrait with stacked tan, brown, navy, and charcoal textile blocks, thin copper rods, and small round brass disks.
+2. Top-right panel: a circular BMW-inspired emblem made entirely of fabric and leather-like materials. Show a black outer ring with raised cream letters "B", "M", and "W" spaced around the top. In the center, include the classic quartered circle in beige and dark blue fabric. Surround it with rectangular burlap blocks, dark vertical panels, thin copper rods, small brass knobs, and layered geometric backing shapes.
+3. Bottom-left panel: a cozy modern sofa scene rendered as a fabric wall sculpture. Show one beige upholstered couch with rounded arms, exactly 2 pillows on it, a slim dark wooden shelf or tabletop line beneath the seat, and many stacked textile rectangles behind and below it. Use tan, cream, brown, taupe, and gray fabrics, plus a large rounded brown semicircle on the left, small bead-like decorations, brass disks, and thin copper rods.
+4. Bottom-right panel: a second stylized portrait, this time an older person with voluminous curly white-gray yarn hair and a gray tweed coat or jacket. The face is intentionally hidden by a flat rectangular taupe-brown fabric patch. Build the background from dense layered squares and rectangles of brown, beige, gray, and charcoal textiles, with small brass circles and vertical copper pins.
+
+Visual style: Ultra-detailed 3D textile craft, realistic woven fiber texture, layered collage depth, warm earthy palette with navy-blue accents, handmade luxury mood, crisp edges, rounded panel corners, subtle ambient occlusion, high-end Behance-style design presentation.
+
+Constraints: Keep exactly 4 main image panels and exactly 1 bottom branding strip. Do not add extra panels. Make all objects look physically made from fabric and thread rather than flat digital illustration. Preserve the visible text "BMW", "chat GPT 2.0", the headline, and the creator tag. Avoid photoreal human skin; portraits should remain abstract textile constructions with the face covered by plain fabric patches.
+```
+
+**来源：** [@Saman | AI](https://x.com/Samann_ai/status/2062858906842350005) | 2026-06-05
+
+---
+
+### 🧸 例 486：东方奇幻 3D CG 人像
+
+![东方奇幻 3D CG 人像](../images/%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%203D%20CG%20%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="比例" default="9:16"} 竖版，高精度 3D CG 东方幻想女性角色人像，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，upper body portrait，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 {argument name="视觉年龄" default="22–28"} 岁，整体气质清冷、华贵、疏离、柔美、空灵，带有古典东方神女与宫廷幻梦感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光、珠宝级细节刻画与高级虚拟角色写真氛围。
+
+人物拥有极精致的东方美人脸，脸型为柔和小鹅蛋脸，骨相纤秀，下颌线清晰流畅，皮肤冷白细腻，带轻微通透感与柔和皮肤着色。眼睛狭长而柔美，瞳色为浅灰棕与冷茶色混合，眼神半垂，慵懒、清冷、略带病娇般的脆弱感与距离感。睫毛纤长浓密，眼妆以淡粉、烟灰粉、微红眼尾晕染为主，带轻微泪光感。鼻梁秀气挺直，鼻尖小巧，嘴唇薄而精致，唇色为低饱和豆沙玫瑰色，嘴唇微启，神情克制而摄人。
+
+发型为高耸繁复的古典盘发，主发色为浓黑墨色，发髻丰盈华丽，发丝柔顺细腻，带少量凌乱飘散碎发，增强轻盈感与生命力。头戴极其繁复华美的东方幻想金色冠饰，冠饰由鎏金花丝、镂空金叶、蝶翼结构、垂链、珍珠、水晶、红宝石、青绿色玉石、细碎流苏共同构成，层次丰富，体积感强，工艺极精，带高级博物馆级珠宝头饰质感。额前有红宝石额饰与细链垂坠，耳侧与发间点缀大量精细珠链、金饰与晶莹流苏，华贵而不杂乱。
+
+耳饰为长款东方宫廷风耳坠，融合金属花片、珍珠、青玉水滴与细长流苏。颈部佩戴多层华丽项链，以金色花丝底托搭配红宝石、绿松石、青玉、珍珠与古典吊坠，细节极其丰富，层层叠戴但秩序清晰。服装为东方幻想宫廷华服，内层为米白、淡金、烟粉与浅玉色交织的精致衣身，胸前有复杂金属胸饰与珠宝镶嵌结构；外层披一件雾粉色、半透明、带金线纹样与古典图腾装饰的轻纱外袍，袖口与肩部轻薄柔软，带珍珠光泽与轻微透光感。服装整体强调高贵、细腻、梦幻、精修级材质感。
+
+人物姿势为轻微侧身，肩颈自然放松，一只手优雅抬起靠近下唇与脸侧，手指修长纤细，姿态克制、柔美、带一点若有所思的魅惑感。镜头聚焦人物面部、头饰、肩颈、手部与上半身华服细节，整体构图高级，人物占画面主体，强调精致脸部与繁复珠宝装饰。
+
+背景调整为精致的东方幻想宫廷空间，不使用纯白背景。背景采用柔和虚化处理，可见浅金与象牙白色系的雕花屏风、若隐若现的玉质灯台、古典窗棂轮廓、轻纱帷幔、朦胧花影与少量漂浮微光尘粒，整体空间通透、安静、梦幻、奢雅。背景层次干净克制，不喧宾夺主，但具有明确的高级东方幻境氛围，像华丽宫廷内景与仙气楼阁的融合空间。
+
+光线采用高级电影级柔光布光，主光为柔和冷白漫射光，辅以淡金侧逆光勾勒发丝、头饰、脸颊、肩颈与手部轮廓。珠宝、金属、珍珠、纱料、玉石与皮肤都具有真实且细腻的材质反应。整体色调以冷白、浅金、烟粉、玉青、胭脂红为主，画面精致、通透、奢华、空灵，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, intricate gold filigree crown, gemstone jewelry, translucent silk fabric, oriental fantasy palace aesthetic, elegant ancient Chinese fantasy beauty, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished 3D anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2062836027052761166) | 2026-06-05
+
+---
+
+### 🧸 例 487：混合媒介街头艺术鱼眼效果
+
+![混合媒介街头艺术鱼眼效果](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%B1%BC%E7%9C%BC%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅充满活力的混合媒介街头艺术插画，展示了一个以上传人脸为参考的人物，动态地向前倾斜，呈现出极端的广角鱼眼镜头效果。该角色佩戴着 {argument name="headwear" default="粉色渔夫帽"}，戴着黑框眼镜，黄色外套内搭粉色衬衫，穿着带有黄色油漆溅点的蓝色牛仔裤和白色运动鞋，风格采用大胆的赛璐珞漫画轮廓。巨大的 3D 风格化涂鸦文字“{argument name="text" default="BRING THE HEAT"}”以黄色和橙色环绕在主体周围，并伴有卡通风格的橙色火焰。背景设定在阳光明媚的户外 {argument name="setting" default="篮球场"}，蓝天之下点缀着棕榈树，构图运用了粉色、黄色和蓝色的高对比度饱和色彩，营造出充满活力的波普艺术美感。2:3r
+
+[English]
+A vibrant mixed-media street-art illustration featuring a person with uploaded face as reference leaning dynamically forward into an extreme wide-angle fisheye lens. The character wears a {argument name="headwear" default="pink bucket hat"}, black-rimmed glasses, an open yellow jacket over a pink shirt, blue jeans with yellow paint splatters, and white sneakers, styled with bold cell-shaded comic outlines. Large, stylized 3D graffiti text reading "{argument name="text" default="BRING THE HEAT"}" in yellow and orange wraps around the subject, surrounded by cartoonish orange flames. Set against a sunny outdoor {argument name="setting" default="basketball court"} with palm trees under a bright blue sky, the composition uses high-contrast, saturated colors of pink, yellow, and blue to create an energetic, pop-art aesthetic.. 2:3r
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2062835582070337736) | 2026-06-05
+
+---
+
+### 🧸 例 496：护照之旅 3D 地图集
+
+![护照之旅 3D 地图集](../images/%E6%8A%A4%E7%85%A7%E4%B9%8B%E6%97%85%203D%20%E5%9C%B0%E5%9B%BE%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+令人惊叹的 3D 场景：一本磨损的护照摊开，每一个签证印章都迸发出它所代表的地方。每一个墨迹都成为了一扇大门——{argument name="city one" default="[CITY 1]"} 从一个印章中以微缩形式浮现，带有 {argument name="detail one" default="[DETAIL 1]"}；{argument name="city two" default="[CITY 2]"} 从另一个印章中破壳而出，带有 {argument name="detail two" default="[DETAIL 2]"}；{argument name="city three" default="[CITY 3]"} 随之具象化，带有 {argument name="detail three" default="[DETAIL 3]"}。[LANDMARK 1]、[LANDMARK 2] 和 [LANDMARK 3] 以不同比例在书页间升起。飞行航线在上方掠过，如金色的弧光交织在各个世界之间。咖啡渍化作湖泊，磨损的边缘溶解为海岸线。[ATMOSPHERIC ELEMENT 1] 从一个目的地飘散，而 [ATMOSPHERIC ELEMENT 2] 在另一个目的地附近盘旋。戏剧性的侧光，移轴景深，8K 分辨率，UE5，电影级灯光。一份官僚文件重生为充满冒险的鲜活地图集。
+
+[English]
+Breathtaking 3D scene: a worn passport lays open, each visa stamp exploding into the places it represents. Every inked mark becomes a gateway—{argument name="city one" default="[CITY 1]"} emerges in miniature from one stamp with {argument name="detail one" default="[DETAIL 1]"}, {argument name="city two" default="[CITY 2]"} breaks through another with {argument name="detail two" default="[DETAIL 2]"}, {argument name="city three" default="[CITY 3]"} materializes with {argument name="detail three" default="[DETAIL 3]"}. [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3] rise at different scales across the pages. Flight paths sweep overhead as radiant golden arcs weaving between all the worlds. Coffee rings transform into lakes. Frayed edges dissolve into coastlines. [ATMOSPHERIC ELEMENT 1] drifts from one destination while [ATMOSPHERIC ELEMENT 2] swirls near another. Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. A bureaucratic document reborn as a living atlas of adventures.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062824097164476733) | 2026-06-05
+
+---
+
+### 🧸 例 497：怀旧家庭录像带玩偶效果
+
+![怀旧家庭录像带玩偶效果](../images/%E6%80%80%E6%97%A7%E5%AE%B6%E5%BA%AD%E5%BD%95%E5%83%8F%E5%B8%A6%E7%8E%A9%E5%81%B6%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+参照画像のキャラクターをベースデザインとして使用し、「現実世界の一般家庭で撮影されたホームビデオ映像の1フレーム」を描く。キャラクターはアニメキャラクター本人ではない。参照画像のキャラクターをモチーフに制作された高品質なドール、人形、コレクションフィギュアとして存在している。ドルフィー、球体関節人形、ファッションドール、コレクタブルドールのような質感。顔、髪型、髪色、瞳、耳、衣装、シルエット、キャラクター性を強く保持すること。誰が見ても元キャラクターだと認識できること。ただし生きているキャラクターとして描写しない。現実世界に存在する実物のドールとして描写する。舞台は{argument name="撮影場所" default="一般的な家庭"}。日本の住宅でも海外の住宅でもよい。リビング、寝室、子供部屋、庭、キッチン、廊下、玄関など、家庭内の日常的な場所。シチュエーションは固定しない。AI側が自然に決定すること。ドールは家族の日常の中に自然に存在している。家族、子供、赤ちゃん、犬、猫、その他のペット、玩具、生活用品などと自然に関わっていてもよい。ドールは飾られていてもよい。持ち運ばれていてもよい。遊ばれていてもよい。どこかに置き忘れられていてもよい。シチュエーションのランダム性を重視する。画面奥には実写人間が自然に存在していてもよい。家族が笑っている。会話している。見守っている。気付いていない。その程度の自然な存在感。人間を主役にしない。主役はドールである。構図は、昔の家庭用ビデオカメラで撮影された映像の切り出し。記念撮影ではない。商品写真ではない。広告ではない。誰かが家族の日常を撮影していた際に偶然記録されたような雰囲気。映像資料的なリアリティを重視する。フォトリアルな背景描写。実在感のある生活空間。家具や小物には自然な使用感を持たせる。綺麗すぎるモデルルーム禁止。整理されすぎた空間禁止。映画セット風禁止。映像の質感は、{argument name="年代" default="1990年代から2000年代初頭"}の家庭用ホームビデオに近い雰囲気。自然な露出。やや古いデジタル映像感。軽微な色ズレ。わずかなノイズ。家庭用カメラ特有の記録映像感。ただし過剰なフィルター表現は禁止。手ブレ表現は禁止。画面破損表現は禁止。VHS風エフェクト禁止。映像加工を主題にしない。重要:これはホラーではない。不気味な演出は禁止。呪いの人形ではない。家族が大切にしている普通のドールである。世界は極めて普通の日常であり、ドールだけが少し特別な存在である。「昔のホームビデオを見返していたら、なぜかこのキャラクターのドールが何度も映っている」ような不思議なリアリティを最優先する。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2062817468251537897) | 2026-06-05
+
+---
+
+### 🧸 例 501：奢华 3D CG 文字渲染
+
+![奢华 3D CG 文字渲染](../images/%E5%A5%A2%E5%8D%8E%203D%20CG%20%E6%96%87%E5%AD%97%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+カラフルで煌びやかで豪華な立体CGのスタイルで「{argument name="テキスト" default="明日から 本気出す （明日は休日）"}」の文字をレンダリングする。
+```
+
+**来源：** [@まゆひらa](https://x.com/riddi0908/status/2062809420330062304) | 2026-06-05
+
+---
+
+### 🧸 例 507：微缩莎莎舞盒装花园立体模型
+
+![微缩莎莎舞盒装花园立体模型](../images/%E5%BE%AE%E7%BC%A9%E8%8E%8E%E8%8E%8E%E8%88%9E%E7%9B%92%E8%A3%85%E8%8A%B1%E5%9B%AD%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个光泽感的微缩 3D 立体模型，如同手工制作的陶瓷玩具“盒装花园”，其中充满了莎莎舞、古巴旅行、音乐、植物和色彩鲜艳的个人喜爱物品。
+
+画布：正方形 1:1 图像，展示一个位于白色底座上的小型白色转角房间，采用正面四分之三视角，拍摄效果如同在干净浅色背景下拍摄的高端产品照。使用柔和的摄影棚灯光、清晰的对焦、明亮饱和的色彩、闪亮的珐琅/塑料/陶瓷质感，以及迷人的微缩比例。
+
+主体：在中心位置放置 2 名莎莎舞者：女性身穿飘逸且富有光泽的 {argument name="dress color" default="红色"} 莎莎舞裙，搭配同色系高跟鞋，发髻上别着红花；男性身穿闪亮的黑色西装，内搭红色衬衫，头戴黑色软呢帽。他们正处于舞蹈的高潮，紧密拥抱，单臂抬起，姿态优雅地站在一块圆形花纹地毯上。
+
+房间布局与物品计数：搭建一个舒适的 L 型转角房间，包含 2 面白色墙壁和 1 个白色地板底座。左侧墙壁包含 1 个带花箱的蓝色百叶窗。包含 1 个黑色壁挂灯、1 幅热带海滩相框画、1 个写有“¡BAILA!”字样和爱心图案的小黑板、1 把蓝色折叠椅、1 张蓝色圆形咖啡桌、1 个放在茶托上的白色咖啡杯，以及 1 个放在桌上或桌旁的黄色花盆（内含粉色花朵）。在后墙上悬挂 1 条晾衣绳，上面夹着 5 张旅行照片/明信片，其中一张写有“CUBA”。在右侧后墙上添加 1 张大型黄色海报，上面写有“SALSA”字样，并带有舞者剪影，底部附近有“LIVE”字样。
+
+音乐与舞蹈细节：在左前方，放置 1 台黑色 DJ 控制器/唱机控制台，带有 2 张可见的黑胶唱片，一张中心为红色，另一张为蓝色。在前方中心附近，放置 1 个光泽感的黑色猫咪摆件，眼睛呈明亮的黄色，旁边放着 2 个金色音符和 1 个黑色沙锤状手持乐器。保持氛围轻松且充满音乐感，如同一个微型的莎莎舞派对场景。
+
+书架与装饰：在右侧墙壁上，放置 1 个蓝色书架，包含 2 层书架，上面摆放着色彩鲜艳的书籍和小装饰品。书架顶部放置 3 盆盆栽：一个黄色花盆内含绿色仙人掌和粉色花朵，一个红色马克杯形状的花盆内含黄色花朵，以及一个小绿色花盆。书架的另一部分摆放着书籍和一个类似人脸的小花盆。整个房间内总共包含 9 盆可见的盆栽或多肉植物组合：咖啡桌旁的黄色粉花盆、舞者附近的绿色植物、粉色多肉植物、后方书架上的红色仙人掌盆栽、舞者身后的绿色多肉植物堆、音响架附近的黄色小植物盆栽、书架上的黄色仙人掌盆栽、书架上的红色马克杯花盆，以及右前方的一个大型红色花盆（内含绿叶植物）。
+
+旅行与海滩细节：在右前方，添加 1 个小型玩具帆船，带有蓝色三角帆、白色三角帆、棕色桅杆和白色船身，漂浮在 1 个风格化的蓝色波浪底座上。在右下角前景处，放置 1 把包含许多彩虹色矩形的色卡扇，以及 1 支横放在上面的黑色钢笔或记号笔。
+
+风格限制：使一切呈现微缩、圆润、光泽、触感细腻且细节丰富，如同一个令人愉悦的收藏级粘土/陶瓷立体模型。使用以红色、蓝色、黄色、绿色和白色为主的明快色调。确保场景紧凑但井然有序，不追求真人比例的写实感，无模糊，无阴郁氛围，除可见的标志和海报外不包含额外文字，且无水印。
+
+[English]
+Goal: Create a glossy miniature 3D diorama, like a handcrafted ceramic toy “box garden,” filled with salsa dancing, Cuban travel, music, plants, and colorful personal-favorite objects.
+
+Canvas: Square 1:1 image, front-facing three-quarter view of a small white corner room on a white base, photographed like a high-end product shot against a clean pale background. Use soft studio lighting, crisp focus, bright saturated colors, shiny enamel/plastic/ceramic textures, and charming miniature scale.
+
+Main subject: In the center, place exactly 2 salsa dancers: a woman in a flowing glossy {argument name="dress color" default="red"} salsa dress with matching heels, hair in a bun with red flowers, and a man in a shiny black suit with a red shirt and black fedora. They are mid-dance in a dramatic close embrace, one arm raised, posed on a small round patterned rug.
+
+Room layout and counted objects: Build a cozy L-shaped corner room with exactly 2 white walls and 1 white floor base. Include exactly 1 blue shuttered window on the left wall with flower boxes. Include exactly 1 black wall lantern, exactly 1 framed tropical beach picture, exactly 1 small chalkboard sign reading “¡BAILA!” with a heart, exactly 1 blue folding chair, exactly 1 round blue café table, exactly 1 white coffee cup on a saucer, and exactly 1 yellow potted pink flower on or beside the table. On the back wall, hang exactly 1 clothesline with exactly 5 clipped travel photos/postcards, including one that reads “CUBA.” Add exactly 1 large yellow poster on the right back wall reading “SALSA” with silhouettes of dancers and the word “LIVE” near the bottom.
+
+Music and dance details: At the front left, include exactly 1 black DJ controller/turntable console with exactly 2 visible vinyl records, one red-centered and one blue-centered. Near the front center, place exactly 1 glossy black cat figurine with bright yellow eyes, sitting beside exactly 2 golden music notes and exactly 1 black maraca-like handheld instrument. Keep the vibe playful and musical, like a tiny salsa party scene.
+
+Bookshelves and decor: On the right wall, place exactly 1 blue bookshelf with exactly 2 shelves of colorful books and small decorative items. Put exactly 3 potted plants on top of the shelf: one yellow pot with green cactus and pink flower, one red mug-shaped pot with yellow flowers, and one small green pot. Include another shelf section with books and a small face-like pot. In the room overall, include exactly 9 visible potted plants or succulent arrangements: the yellow pink-flower pot near the café table, a green plant near the dancers, a pink succulent, a red cactus pot on the back shelf, a green succulent mound behind the dancers, a yellow pot with small plant near the stereo shelf, the yellow cactus pot on the bookshelf, the red mug flower pot on the bookshelf, and a large red pot with leafy green plant at the front right.
+
+Travel and beach details: At the front right, add exactly 1 small toy sailboat with a blue triangular sail, white triangular sail, brown mast, and white hull, floating on exactly 1 stylized blue wavy water base. Near the lower right foreground, place exactly 1 fan of color swatches containing many rainbow rectangles and exactly 1 black pen or marker laid across it.
+
+Style constraints: Make everything miniature, rounded, glossy, tactile, and highly detailed, like a joyful collectible clay/ceramic diorama. Use a cheerful palette dominated by red, blue, yellow, green, and white. Ensure the scene feels packed but organized, with no human-scale realism, no blur, no dark mood, no extra text beyond the visible signs and posters, and no watermark.
+```
+
+**来源：** [@crema（黒野明子）](https://x.com/crema/status/2062772387322744914) | 2026-06-05
+
+---
+
+### 🧸 例 511：奇幻动漫角色主题整蛋糕
+
+![奇幻动漫角色主题整蛋糕](../images/%E5%A5%87%E5%B9%BB%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E4%B8%BB%E9%A2%98%E6%95%B4%E8%9B%8B%E7%B3%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度详细的奇幻甜点产品摄影图，展示一个以 {argument name="character name" default="Nozomu"} 为主题的圆形整蛋糕，呈现出原版动漫角色化身为官方庆典蛋糕的效果。蛋糕为一个放置在带有金边白瓷盘上的大型圆柱形单层蛋糕，装饰色调为淡冰蓝色、薰衣草色、奶油色、珍珠白和金属金色。画面中需包含两个角色形象：一个是位于顶部中央的 3D 动漫少女蛋糕插牌，另一个是位于蛋糕正面的椭圆形边框肖像。该角色拥有 {argument name="hair color" default="长长的淡金色头发"}，身着蓝紫色调的巫师或魔法师风格服饰，头戴装饰着蓝色和粉色花朵、金色花丝的超大华丽宽檐帽，穿着带有泡泡袖的深蓝色紧身胸衣式礼服；角色的面部需保持柔和遮挡或覆盖着一块纯肤色的矩形遮罩，使画面呈现出可定制的角色模板蛋糕效果。在蛋糕顶部，插牌周围环绕着密集的奶油裱花玫瑰、贝壳纹、珍珠糖珠、光泽感蓝色宝石糖果、水晶般的冰晶碎片、新月形玻璃装饰，以及大量蓝色、白色、薰衣草色和淡粉色的细小花朵。在蛋糕顶部正前方放置一块带有凸起金色巴洛克边框的华丽奶油色铭牌，上面用优雅的棕金色字体书写着日文名称 {argument name="plaque text" default="のぞむ"}。在蛋糕侧面，制作淡蓝色渐变糖霜，点缀闪亮的糖粉、金色卷草纹、垂坠的蓝色宝石装饰、白色裱花边框，以及一个精致的椭圆形金框，框内包含该角色的第二幅肖像，且面部同样被肤色矩形遮罩覆盖。背景中需包含三个温暖的灯笼：左侧一个模糊的高大灯笼，蛋糕右后方一个清晰的古董街灯式灯笼，以及右上角一个模糊的悬挂式灯笼。场景设定在梦幻的夜间玻璃花园或魔法甜品店环境中，带有柔和的焦外成像、倒影、漂浮的花瓣、浅景深、奢华的微距细节、明亮的高光以及浪漫的童话氛围。采用 4:5 竖构图，蛋糕居中，呈现照片级 3D 动漫插画质感，展现极其复杂的糖霜纹理、闪耀的宝石，除铭牌文字外不包含任何额外文字。
+
+[English]
+Create a highly detailed fantasy patisserie product shot of a single round whole cake themed after {argument name="character name" default="Nozomu"}, presented as if an original anime character has been transformed into an official celebration cake. The cake is one large cylindrical tier on a white porcelain plate with gold trim, decorated in pale icy blue, lavender, cream, pearl white, and metallic gold. Include exactly two character depictions: one three-dimensional anime-girl cake topper emerging from the top center, and one oval framed portrait on the front side of the cake. The character has {argument name="hair color" default="long pale blonde hair"}, a blue-lavender witch or magician aesthetic, an oversized ornate wide-brim hat covered with blue and pink flowers, gold filigree, and a corset-style dark blue dress with puffed off-shoulder sleeves; keep the face softly hidden or covered by a plain skin-toned rectangular mask so the image reads as a customizable character-template cake. On the cake top, surround the topper with dense piped buttercream rosettes, shell swirls, pearl sugar beads, glossy blue gem candies, crystal-like ice shards, crescent-moon glass decorations, and many small flowers in blue, white, lavender, and blush pink. At the front top center place an ornate cream plaque with raised gold baroque trim and the visible Japanese name text {argument name="plaque text" default="のぞむ"} in elegant brown-gold lettering. On the side of the cake, create pale blue gradient icing with sparkling sugar speckles, gold scrollwork, dangling blue jewel accents, white piped borders, and an elaborate oval gold frame containing the second portrait of the same character, also with the face covered by a skin-toned rectangular mask. Include exactly three warm lanterns in the background: one blurred tall lantern on the left, one sharp antique streetlamp-style lantern just behind the cake on the right, and one blurred hanging lantern in the upper right. Set the scene in a dreamy nighttime glass-garden or magical patisserie environment with soft bokeh lights, reflections, floating petals, shallow depth of field, luxurious macro detail, luminous highlights, and a romantic fairytale atmosphere. Use a vertical 4:5 composition, centered cake, photorealistic 3D anime illustration quality, ultra intricate frosting texture, sparkling jewels, and no extra words besides the plaque text.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2062764854130405733) | 2026-06-05
+
+---
+
+### 🧸 例 512：DIY 婴儿玩具概念图纸
+
+![DIY 婴儿玩具概念图纸](../images/DIY%20%E5%A9%B4%E5%84%BF%E7%8E%A9%E5%85%B7%E6%A6%82%E5%BF%B5%E5%9B%BE%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+テーマ「{argument name="テーマ" default="ペットボトル"}」を使った、赤ちゃん向けの手作りDIYおもちゃコンセプトシート画像を4枚生成してください。
+
+重要：
+4枚はそれぞれ別々の画像として生成してください。
+1枚につき1つのおもちゃアイデアだけを描いてください。
+1枚の中に複数案を入れないでください。
+グリッド、コラージュ、2×2分割、比較表レイアウトは禁止です。
+
+これは市販品のベビー玩具デザインではありません。
+家庭にある既存の素材を使って、保護者が実際に手作りできるDIYおもちゃです。
+個人では作れないような完成品、量産品、専用パーツ、シリコン成形、特殊な金型、プロダクトデザイン風の高級玩具にはしないでください。
+
+テーマが「ペットボトル」の場合：
+ペットボトル風の新商品ではなく、実際の空きペットボトルをそのまま使ったDIYおもちゃにしてください。
+元のペットボトルの形、透明なボトル本体、既存のキャップ、ラベルを剥がした感じ、手で巻いたビニールテープやマスキングテープが分かる見た目にしてください。
+100円ショップや家庭で用意できる材料だけで作れる雰囲気にしてください。
+
+4枚の内容は、それぞれ遊び方が違うDIYおもちゃにしてください。
+1枚目：音を楽しむDIYおもちゃ
+2枚目：転がす・追いかけるDIYおもちゃ
+3枚目：見る・観察するDIYおもちゃ
+4枚目：触る・握る・感触を楽しむDIYおもちゃ
+
+各コンセプトシートには以下を入れてください。
+・完成したDIYおもちゃのメインビジュアル
+・赤ちゃんが手で遊んでいる使用シーン
+・使う材料一覧
+・作り方3ステップの簡単な図解
+・素材や構造が分かる図解
+・キャップ固定、密閉、水漏れ防止、破損確認などの安全図解
+・遊び方アイコン
+・発達を促すポイント
+
+安全条件：
+対象年齢は6か月〜18か月。
+必ず保護者の見守りのもとで遊ぶDIYおもちゃとして表現してください。
+小さな素材を使う場合は、必ずボトルや袋の中に完全に密閉してください。
+外側に取れやすい小物を貼らないでください。
+キャップや開口部は接着し、上からテープでしっかり固定している表現にしてください。
+誤飲サイズの小物、鋭利なパーツ、割れやすい素材、長いひもは禁止です。
+赤ちゃんが口に入れる、噛む、舐めるシーンは禁止です。
+
+ビジュアルスタイル：
+白背景。
+やさしい自然光。
+保育園や家庭向けの手作りおもちゃレシピ風。
+DIY工作の説明シート風。
+現実的で、真似して作れそうな見た目。
+少し手作り感がある仕上がり。
+材料は身近で安価なものにする。
+高級なベビー用品ブランド風にはしない。
+プロダクトレンダリング風にはしない。
+かわいく、清潔感があり、親しみやすい雰囲気。
+文字は少なめで、図解とアイコン中心にする。
+
+ネガティブ指定：
+commercial baby toy, premium product design, luxury product rendering, silicone molded toy, custom molded parts, factory-made toy, overmolded rubber, special cap, one-piece molded design, BPA-free product label, food-grade silicone label, industrial design board, polished manufactured product, baby chewing toy, baby biting toy, grid layout, collage layout, 2x2 layout, multiple ideas in one image
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2062764098790769049) | 2026-06-05
+
+---
+

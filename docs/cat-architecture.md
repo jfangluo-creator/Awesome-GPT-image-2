@@ -273,3 +273,75 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 
 ---
 
+### 🏛️ 例 488：极简水墨书法签名
+
+![极简水墨书法签名](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%A2%A8%E4%B9%A6%E6%B3%95%E7%AD%BE%E5%90%8D.jpg)
+
+**Prompt:**
+
+```text
+围绕具体主题内容生成一幅极简水墨字形视觉，把主题关键词、短句或名称转化为近似签名的抽象书写结构：画面主体只由少量深色笔触构成，笔画不追求工整印刷感，而要有手腕快速落笔的力度、停顿、飞白、干湿不均和边缘毛糙，形成可辨认但带有个人印记的东方书写气质。视觉重心集中在画面中部偏松的位置，周围保留大量明亮、干净、通风的留白，让空白成为情绪的一部分；笔触之间保持疏密差异，几处短点、竖画、长弧线和斜向扫笔承担节奏变化，使阅读路径像一口气写完后自然散开。色彩从主题自身的材质与情绪中提取，但保持高明度清透底场、少量深色结构笔触和极低装饰密度的关系；整体应明亮安静、干净克制，深色只用于承载书写力量，背景不做复杂纹理，只保留轻微纸面或扫描般的柔和质感。最终效果应像一枚具有独立气质的手写题签，既有文字的精神指向，又接近抽象符号，避免变成标准字体、书法字帖、密集海报或装饰插画。
+
+本次文字：{argument name="文字内容" default="杨老头"}
+
+比例：16:9 横版
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2062834953608712550) | 2026-06-05
+
+---
+
+### 🏛️ 例 521：1️⃣ 生成带有红色飞行路径的底板
+
+![1️⃣ 生成带有红色飞行路径的底板](../images/1%EF%B8%8F%E2%83%A3%20%E7%94%9F%E6%88%90%E5%B8%A6%E6%9C%89%E7%BA%A2%E8%89%B2%E9%A3%9E%E8%A1%8C%E8%B7%AF%E5%BE%84%E7%9A%84%E5%BA%95%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张 16:9 的高分辨率航空地形图，展示一座宏伟的海洋城市，包含壮丽的建筑、相互连接的岛屿、繁忙的港口以及广阔的水道。
+
+[English]
+Create a high-resolution 16:9 aerial terrain map showcasing a magnificent ocean city, featuring grand architecture, interconnected islands, bustling harbors, and expansive waterways.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2062750675268722986) | 2026-06-05
+
+---
+
+### 🏛️ 例 522：魔幻现实主义能量召唤
+
+![魔幻现实主义能量召唤](../images/%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E8%83%BD%E9%87%8F%E5%8F%AC%E5%94%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="subject" default="留着深棕色长波浪卷发的年轻女性"} 站在户外的花园环境中，双眼紧闭，头部微微低垂，神情专注。她穿着一件 {argument name="outfit" default="红色超大款圆领卫衣和浅蓝色牛仔裤"}。她将双手置于胸前，掌心相对，手指张开——在她的双手之间，闪烁着一团强烈的 {argument name="energy effect" default="电能球：白蓝色的闪电弧，伴有粉紫色宇宙星云光芒"}，闪烁的星尘颗粒向四周辐射。她的脸部和胸部被下方能量发出的冷蓝白光照亮。绿色的叶子仿佛受到能量场的影响，在四周动态地旋转漂浮。背景是柔和虚化的户外公园，带有暖色调的树木和绿草，呈现出焦外成像效果。魔幻现实主义摄影风格。电影级布光。主体焦点清晰，背景浅景深。氛围忧郁而空灵。
+
+[English]
+A {argument name="subject" default="young woman with long dark brown wavy hair"} stands outdoors in a garden setting, eyes closed, head slightly tilted downward in deep concentration. She is wearing a {argument name="outfit" default="red oversized crew-neck sweatshirt and light blue jeans"}. She holds both hands in front of her chest, palms facing inward, fingers spread wide — between her hands glows an intense {argument name="energy effect" default="ball of electric energy: white-blue lightning arcs, cosmic nebula light in pink and purple"}, and sparkling stardust particles radiating outward. Her face and chest are illuminated by the cool blue-white glow from the energy below. Green leaves swirl dynamically around her as if levitating and spinning in all directions due to the energy force. Background is a softly blurred outdoor park with warm-toned trees and green grass, bokeh effect. Magical realism photography style. Cinematic lighting. Sharp focus on subject, shallow depth of field background. Moody, ethereal atmosphere.
+```
+
+**来源：** [@Ruzaina](https://x.com/RuzainaMeer/status/2062749262816088089) | 2026-06-05
+
+---
+
+### 🏛️ 例 526：橄榄绿缎面高定时尚大片
+
+![橄榄绿缎面高定时尚大片](../images/%E6%A9%84%E6%A6%84%E7%BB%BF%E7%BC%8E%E9%9D%A2%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的奢华高定时尚编辑风格照片，拍摄一位美丽的女性模特在建筑风格摄影棚内的全身照。她身着一件 {argument name="gown color" default="橄榄绿"} 缎面单肩镂空礼服，面料光泽感强，胸前呈现雕塑般的垂坠感，腰部有窄条镂空设计，裙摆为褶皱裹身式，高开叉露出一条腿，长长的拖尾在地板上铺开。模特姿态优雅如雕塑，一只手自然垂在身侧，另一只手轻放在开叉处，双肩优雅倾斜，头部微微侧转。造型搭配利落的低发髻、温暖的古铜色肌肤、金色圆环耳饰以及精致的金色细带高跟鞋。背景置于极简主义的棕褐色建筑风格摄影棚内，墙面为光滑的灰泥质感，配有矩形底座，右侧投射出巨大的拱形阴影。采用左上方温暖的金色阳光，营造强烈的时尚编辑风格光影、丰富的对比度以及精致的时尚杂志构图。垂直 2:3 画幅，全身可见，奢华高定氛围，皮肤与面料质感真实，8K 分辨率，无文字，无水印。
+
+[English]
+Create an ultra-realistic luxury couture editorial photograph of a beautiful female model standing full-length in an architectural studio. She wears a {argument name="gown color" default="olive green"} satin one-shoulder cutout gown with glossy fabric, sculptural draping across the bodice, a narrow waist cutout, a gathered wrap skirt, a high thigh slit revealing one leg, and a long flowing train pooling on the floor. The model has a graceful statuesque pose with one hand relaxed at her side and the other resting near the slit, shoulders angled elegantly, head turned slightly to the side. Style her with a sleek low bun hairstyle, warm bronzed skin, gold hoop earrings, and delicate gold strappy heels. Place her in a minimalist tan architectural studio with smooth plaster walls, rectangular pedestal blocks, and a large arched shadow on the right side. Use warm golden sunlight from the upper left, strong editorial shadows, rich contrast, and refined fashion-magazine composition. Vertical 2:3 framing, full body visible, luxurious high-fashion mood, photorealistic skin and fabric texture, 8K detail, no text, no watermark.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2062747344064622635) | 2026-06-05
+
+---
+

@@ -838,3 +838,194 @@ Constraints: Use exactly 7 human performers and exactly 1 dog mascot. No visible
 **来源：** [@ぽちいな](https://x.com/pochiina/status/2061394054680912107#reversed-0) | 2026-06-01
 
 ---
+
+### 🎬 例 462：暗黑神秘学风格漫画页面
+
+![暗黑神秘学风格漫画页面](../images/%E6%9A%97%E9%BB%91%E7%A5%9E%E7%A7%98%E5%AD%A6%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页暗黑风格的俄语漫画，表现电影中黑魔法场景的史诗感，与现实中神秘学仪式那种平庸且令人不适的真实感之间的反差。
+
+画布：竖版漫画页面，长宽比约为 4:5，带有粗黑边框和细黑外框。采用粗犷的青年漫画（Seinen）/ 欧洲漫画渲染风格，使用柔和的棕色、炭黑色、病态的烛光、风暴般的蓝色闪电、厚重的交叉排线、磨损的纸张纹理，营造电影级的恐怖氛围。
+
+布局：使用 10 个分镜。第一行 2 个分镜：左侧宽幅分镜展示史诗般的仪式场景，右侧窄幅分镜展示年轻男子观察的特写。第二行 3 个等宽小分镜：血手、闪电、古老的拉丁文书。第三行 1 个全宽分镜：两人坐在煤油灯下的乡村厨房桌旁。第四行 3 个分镜：契约者的特写、悬挂的干草药、木桌上苍老的手。第五行 1 个全宽分镜：阴影中年轻男子的特写，神情不安。包含 9 个白色矩形旁白框，内含黑色大写俄语文本，放置在各自对应分镜的左上方区域。
+
+文本内容：请按从上到下、从左到右的顺序使用以下旁白框内容：1) {argument name="opening caption" default="ЗНАЕТЕ, В ФИЛЬМАХ ПРО МАГИЮ СДЕЛКИ С ПОТУСТОРОННИМИ СИЛАМИ ВСЕГДА ВЫГЛЯДЯТ ЭПИЧНО:"} 2) "КРОВЬ," 3) "МОЛНИИ," 4) "ЛАТЫНЬ ЗАДОМ НАПЕРЁД." 5) {argument name="reality caption" default="В РЕАЛЬНОСТИ ЖЕ ЭТО ПРОИСХОДИТ НА ДАЧНОЙ КУХНЕ, ПРИ СВЕТЕ КЕРОСИНКИ,"} 6) "И ОТ ТВОЕГО КОНТРАГЕНТА ПАХНЕТ НЕ СЕРОЙ," 7) "А СУШЁНЫМИ ТРАВАМИ" 8) "И СТАРЫМ ДЕРЕВОМ." 9) {argument name="final caption" default="И ЭТО, СКАЖУ Я ВАМ, КУДА СТРАШНЕЕ."}
+
+主体细节：主角为 {argument name="main character" default="一位瘦削苍白、留着凌乱黑发、穿着褶皱白衬衫的年轻男子"}。在史诗仪式分镜中，展示一个身穿黑袍、戴着兜帽的身影坐在发光的五角星阵前，双臂张开，周围环绕着头骨、蜡烛、神秘学杂物、风暴云和锯齿状闪电。在写实的厨房分镜中，展示同一位年轻男子与 {argument name="contractor" default="一位穿着破旧花纹毛衣的乡村神秘学契约者"} 坐在粗糙的木桌对面，背景有放着罐子的架子、旧橱柜、显示室外黑夜的小窗、煤油灯、碗、茶杯以及一罐红色的干货。氛围应显得局促、潮湿且具有乡村气息，而非华丽。
+
+审查/遮挡细节：添加柔和边缘的垂直棕色模糊块，遮挡右上角分镜中年轻男子的脸、宽幅厨房分镜中契约者的脸、第四行第一个分镜中契约者的特写，并在干草药分镜和最后一个底部部分分镜的下中心区域覆盖一个大的垂直棕色模糊块，仿佛敏感细节被刻意模糊处理。
+
+分镜视觉列表：1) 带有兜帽巫师、五角星、头骨、闪电的宽幅仪式场景；2) 黑暗中年轻男子头部和肩膀的侧面特写；3) 带血的手指划过石头，留下血滴；4) 风暴天空中分叉的闪电；5) 带有反向拉丁字母的古书页面；6) 煤油灯下全宽的乡村厨房对话；7) 带有旁白且脸部被遮挡的契约者特写；8) 悬挂在罐子上方、部分被模糊遮挡的干草药束；9) 放在木质桌面上的苍老皱纹手；10) 阴影中年轻男子紧张且恐惧的宽幅特写。
+
+约束条件：保持页面作为单页漫画的可读性，保持粗黑的分镜间隔，不使用对话气泡，除上述 9 个旁白框外不添加额外文字，不出现现代物品，无水印，不使用干净的数字卡通风格。
+
+[English]
+Goal: Create a dark graphic-novel comic page in Russian about how cinematic black-magic scenes look epic, while real occult work feels mundane and unpleasant.
+
+Canvas: Vertical comic page, approximately 4:5 aspect ratio, with thick black gutters and a thin black outer border. Use gritty seinen manga / European graphic novel rendering, muted browns, charcoal blacks, sickly candlelight, storm-blue lightning, heavy crosshatching, worn paper texture, cinematic horror mood.
+
+Layout: Use exactly 10 panels. Row 1 has 2 panels: a wide left panel showing an epic ritual scene, and a narrower right panel close-up of a young man watching. Row 2 has 3 equal small panels: bloody hand, lightning, old Latin book. Row 3 has 1 full-width panel: two people sitting at a rustic kitchen table by kerosene lamp. Row 4 has 3 panels: close-up of the contractor, hanging dried herbs, old hand on wooden table. Row 5 has 1 full-width panel: close-up of the young man in shadow, looking disturbed. Include exactly 9 white rectangular narration boxes with black uppercase Russian text, placed near the upper-left area of their respective panels.
+
+Text content: Use these exact caption boxes, in order from top to bottom and left to right: 1) {argument name="opening caption" default="ЗНАЕТЕ, В ФИЛЬМАХ ПРО МАГИЮ СДЕЛКИ С ПОТУСТОРОННИМИ СИЛАМИ ВСЕГДА ВЫГЛЯДЯТ ЭПИЧНО:"} 2) "КРОВЬ," 3) "МОЛНИИ," 4) "ЛАТЫНЬ ЗАДОМ НАПЕРЁД." 5) {argument name="reality caption" default="В РЕАЛЬНОСТИ ЖЕ ЭТО ПРОИСХОДИТ НА ДАЧНОЙ КУХНЕ, ПРИ СВЕТЕ КЕРОСИНКИ,"} 6) "И ОТ ТВОЕГО КОНТРАГЕНТА ПАХНЕТ НЕ СЕРОЙ," 7) "А СУШЁНЫМИ ТРАВАМИ" 8) "И СТАРЫМ ДЕРЕВОМ." 9) {argument name="final caption" default="И ЭТО, СКАЖУ Я ВАМ, КУДА СТРАШНЕЕ."}
+
+Subject details: The main character is {argument name="main character" default="a slim pale young man with messy black hair, wearing a rumpled white button-up shirt"}. In the epic ritual panel, show a hooded black-robed figure seated before a glowing pentagram circle, arms spread, surrounded by skulls, candles, occult clutter, storm clouds, and jagged lightning. In the realistic kitchen panels, show the same young man seated opposite {argument name="contractor" default="an elderly rustic occult contractor in a patterned worn sweater"} at a rough wooden table, with shelves of jars, old cabinets, a small window showing night outside, a kerosene lamp, a bowl, a teacup, and a jar of red dried contents. The atmosphere should be cramped, damp, and rural rather than glamorous.
+
+Censor/obscuration details: Add soft-edged vertical brown blur blocks obscuring the face of the young man in the top-right panel, the contractor's face in the wide kitchen panel, the contractor close-up in row 4 panel 1, and a large vertical brown blur covering the lower center area across the dried-herbs panel and part of the final bottom panel, as if sensitive details were intentionally blurred.
+
+Panel-by-panel visual list: 1) wide ritual with hooded sorcerer, pentagram, skull, lightning; 2) side close-up of young man's head and shoulder in darkness; 3) bloody fingers dragging across stone with blood drops; 4) forked lightning in a storm sky; 5) aged book page with reversed-looking Latin-like lettering; 6) full-width rustic kitchen conversation under kerosene lamp; 7) contractor close-up with caption and face obscured; 8) bunches of dried herbs hanging above jars, partly obscured by blur; 9) wrinkled old hand resting on a wood tabletop; 10) wide close-up of the young man in shadow, tense and frightened.
+
+Constraints: Keep the page readable as a single comic page, maintain thick black gutters, use no speech balloons, no extra captions beyond the 9 listed, no modern objects, no watermark, no clean digital cartoon style.
+```
+
+**来源：** [@Anna](https://x.com/AZhernovnikova/status/2062894626877428181) | 2026-06-05
+
+---
+
+### 🎬 例 490：动漫食堂炒面面包争夺战
+
+![动漫食堂炒面面包争夺战](../images/%E5%8A%A8%E6%BC%AB%E9%A3%9F%E5%A0%82%E7%82%92%E9%9D%A2%E9%9D%A2%E5%8C%85%E4%BA%89%E5%A4%BA%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅高能动漫食堂动作插图，画面中心为 {argument name="character name" default="一位棕色头发的马娘学生"}，她正向观众猛冲，试图在混乱的午餐高峰期抢到最后一个炒面面包。
+
+画布：竖向 3:4 插图，动态广角透视，拥挤的学校食堂内部，明亮的暖色灯光，动态模糊，速度线，闪光效果以及戏剧性的漫画风格冲击特效。
+
+主体：一位可爱的动漫马娘学生，身穿紫白相间的水手服校服，有着大大的棕色马耳、中等长度的棕色头发、醒目的白色前额条纹、耳边系着紫色蝴蝶结、编织的侧发以及棕色的马尾。她位于画面正中央，距离镜头极近，左手向观众伸出，带有夸张的透视缩短效果，右手拿着一个灰色食堂餐盘。餐盘上放着一个包装好的炒面面包。她的表情应表现出绝望、坚定且滑稽，仿佛在奔跑时大声呼喊。
+
+场景动作：展现学校食堂疯狂抢食的场面。镜头放置在较低且靠近食堂柜台的位置，使前景的面包显得巨大，并让中心角色仿佛要冲出人群。使用对角线构图、飞舞的餐盘、模糊的学生、高举的手臂以及放射状的动作线来强调速度感和混乱感。
+
+可见元素计数：包含 2 个明显的包装好的炒面面包：1 个超大的炒面面包位于底部前景的柜台上，1 个较小的炒面面包位于主角的餐盘上。包含 1 位主要中心马娘角色。包含 6 位在背景人群中清晰可见的配角马娘学生：1 位左前方棕发女孩正拿着餐盘向前伸手，1 位位于主角双耳之间的小个子后方女孩，1 位右后方兴奋地举着餐盘的女孩，1 位右侧中间戴着花饰的橙发女孩正愤怒地做出反应，1 位远左侧部分可见的红发学生，以及 1 位远右侧部分可见且拿着餐盘的学生。额外的背景人群可以模糊且不清晰，但不要单独进行细节刻画。
+
+文字与标牌：在左上方添加一个食堂标牌，使用日语文字 {argument name="menu sign text" default="本日のおすすめ チーズハンバーグ 850"}。在右上角添加一个巨大的漫画对话气泡，内容为 {argument name="speech bubble text" default="のこせーっ"}。在左侧添加巨大的紫色垂直漫画呐喊文字，内容为 {argument name="shouting text" default="うおおおおおおおお!!"}。在右下角柜台旁添加一个白色手写告示牌，内容为 {argument name="placard text" default="やきそばパン ラスト1個!!"}，第二行使用粗体红色并带有两个感叹号。告示牌还应包含一个戴着小皇冠的哭泣马娘脸部涂鸦。
+
+食物细节：炒面面包是一个热狗面包，里面填满了油亮的棕色炒面、绿色配菜和红色腌姜，用透明的褶皱塑料包装。使前景的面包高度精细且诱人，并在塑料包装上添加高光。
+
+视觉风格：精致的现代日本动漫关键视觉图，富有表现力的角色艺术，饱和的色彩，精细的食堂背景，亮丽的高光，充满活力的漫画排版，强烈的透视变形，电影级灯光，清晰的前景细节与柔和模糊的背景。
+
+约束：保持图像纯粹的插画风格，不要写实。不要添加任何徽标、水印、额外的英文标题或除指定的日语标牌之外的额外可读文字。保持滑稽的抢食氛围，而非严肃的战斗场景。
+
+[English]
+Goal: Create a high-energy anime cafeteria action illustration featuring {argument name="character name" default="a brown-haired horse-girl student"} in the center, lunging toward the viewer while trying to grab the last yakisoba bread during a chaotic lunchtime rush.
+
+Canvas: Vertical 3:4 illustration, dynamic wide-angle perspective, packed school cafeteria interior, bright warm lighting, motion blur, speed lines, sparkles, and dramatic manga-style impact effects.
+
+Main subject: A cute anime horse-girl student in a purple-and-white sailor-style school uniform, with large brown horse ears, medium brown hair, a bold white forelock stripe, a purple bow near one ear, braided side locks, and a brown tail. She is front and center, extremely close to the camera, reaching her left hand toward the viewer with exaggerated foreshortening while holding a gray cafeteria tray in her right hand. On her tray is one wrapped yakisoba bread. Her expression should feel desperate, determined, and comedic, like she is shouting while sprinting forward.
+
+Scene action: Show a frantic school cafeteria scramble for food. The camera is placed low and close to the cafeteria counter, making the foreground bread huge and the central character feel like she is bursting out of the crowd. Use diagonal composition, flying trays, blurred students, raised arms, and radiating action lines to emphasize speed and chaos.
+
+Counted visible elements: Include exactly 2 prominent wrapped yakisoba breads: 1 oversized yakisoba bread in the bottom foreground on the counter, and 1 smaller yakisoba bread on the main character’s tray. Include exactly 1 main central horse-girl character. Include exactly 6 other clearly visible supporting horse-girl students in the background crowd: 1 left-front brown-haired girl reaching forward with a tray, 1 small center-back girl between the main character’s ears, 1 right-back excited girl raising a tray, 1 right-middle orange-haired girl with a flower accessory reacting angrily, 1 far-left reddish-haired student partly visible, and 1 far-right student partly visible holding a tray. Additional background crowd may be blurred and indistinct, but do not make them individually detailed.
+
+Text and signage: Add a cafeteria sign in the upper left with Japanese text {argument name="menu sign text" default="本日のおすすめ チーズハンバーグ 850"}. Add a large comic speech bubble in the upper right with {argument name="speech bubble text" default="のこせーっ"}. Add large vertical purple manga shouting text on the left side reading {argument name="shouting text" default="うおおおおおおおお!!"}. Add a white handwritten placard at the lower right next to the counter reading {argument name="placard text" default="やきそばパン ラスト1個!!"}, with the second line in bold red and two exclamation marks. The placard should also include a small doodle of a crying horse-girl face wearing a tiny crown.
+
+Food details: The yakisoba bread is a hot-dog bun filled with glossy brown fried noodles, green garnish, and red pickled ginger, wrapped in transparent crinkled plastic. Make the foreground bread highly detailed and appetizing, with highlights on the plastic wrap.
+
+Visual style: Polished modern Japanese anime key visual, expressive character art, saturated colors, detailed cafeteria background, glossy highlights, energetic manga typography, strong perspective distortion, cinematic lighting, crisp foreground detail with softer blurred background.
+
+Constraints: Keep the image purely illustrative, no photorealism. Do not add logos, watermarks, extra English captions, or extra readable text beyond the specified Japanese signage. Maintain a comedic food-rush mood rather than a serious fight scene.
+```
+
+**来源：** [@雑多なAIユーザー](https://x.com/txBHOWlRPW47282/status/2062829751228907740) | 2026-06-05
+
+---
+
+### 🎬 例 528：铠站海滨漫画
+
+![铠站海滨漫画](../images/%E9%93%A0%E7%AB%99%E6%B5%B7%E6%BB%A8%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版全彩漫画旅行短篇，讲述一名男孩在海滨铁路站发现站名误解的故事，使用中文对白和日文站牌。
+
+画布：高比例条漫页面，长宽比为 2:3，留有干净的白色边距，黑色分镜框，五个横向分镜垂直堆叠。在顶部添加醒目的居中中文标题：{argument name="comic title" default="站名欺诈・铠甲"}。采用电影级动漫写实风格，背景细节丰富，海洋色彩明亮，线条清晰，呈现出精致的 gpt-image-2 渲染效果。
+
+主角：一名日本高中生游客，黑色乱发，中等身材，身穿海军蓝灰拼色棒球夹克，内搭白衬衫，深色长裤，背着一个大蓝色背包。在每个分镜中，他的面部都被柔和的方形模糊处理遮挡。在最后一个分镜中，他拿着一个小饮料杯。情绪变化：兴奋、惊叹、困惑、颤抖，最后感到慰藉。
+
+场景：山阴本线 JR 铠站，一个位于海港上方高处的小型沿海车站。展示红橙色的当地列车、站台屋顶、铁轨、站牌、蓝色大海、绿色山丘、渔港、灯塔、船只以及在水面上空飘扬的鲤鱼旗。车站站牌应显示日文文本：「JR 山陰本線」「鎧駅」「yoroi」，并带有指向「竹野 Takenō」和「餘部 Amarube」的箭头。保持车站标识清晰可辨。
+
+布局与分镜细节：使用 5 个分镜。
+1. 分镜 1：在站台上，左侧停着一辆红橙色列车，男孩背着背包站在那里四处张望。站台外可以看到海洋和海港。添加一个对话气泡，内容为：{argument name="panel 1 dialogue" default="铠站……名字听起来好有安全感!"}。在站牌附近添加一个蓝色风声拟声词： 「呼ー」。
+2. 分镜 2：从站台栏杆处俯瞰广阔的风景，展示绿松石色的海港水域、船只、灯塔、绿色山丘以及海面上空许多色彩斑斓的鲤鱼旗。从后方/右侧可以看到背着蓝色背包的男孩。添加一个对话气泡，内容为：{argument name="panel 2 dialogue" default="哇，底下的海像宝石一样! 还有鲤鱼旗!"}。在鲤鱼旗附近添加一个拟声词： 「拍啦拍啦」。
+3. 分镜 3：男孩站在铁轨旁的小型车站建筑附近，风吹过时他用手扶着头。可以看到一个小站牌。添加一个对话气泡，内容为：{argument name="panel 3 dialogue" default="等等，‘铠’不是铠甲的意思吗? 这站怎么……四面漏风啊!"}。添加一个蓝色风声拟声词： 「咻ー」。
+4. 分镜 4：戏剧性的强风分镜，男孩双臂交叉，身体颤抖，夹克随风飘动，身后是大海波光粼粼，鲤鱼旗在头顶飞舞。添加一个对话气泡，内容为：{argument name="panel 4 dialogue" default="这哪是铠甲啊，分明是‘裸奔站’!"}。添加一个拟声词： 「呼啦呼啦」。
+5. 分镜 5：日落时分温暖的室内候车室，木质内饰，墙上挂着时刻表项目，大窗户俯瞰着海港和海面上空的橙色太阳，男孩身边放着一个保温杯。男孩安静地坐着，手里拿着热饮。添加一个对话气泡，内容为：{argument name="panel 5 dialogue" default="不过……没遮没挡的，倒是把最好的风景都让给我了。"}。
+
+文本限制：保留中文标题和对白，确保白色对话气泡内的文字清晰易读。精确保留日文站牌文本。包含 5 个对话气泡，4 个蓝色拟声词，以及 5 个漫画分镜。不要添加额外的标题、Logo、水印或无关角色。
+
+[English]
+Goal: Create a vertical full-color manga travel comic page about a boy discovering a station-name misunderstanding at a seaside railway stop, using Chinese dialogue and Japanese station signage.
+
+Canvas: Tall webcomic page in a 2:3 aspect ratio, clean white margins, black panel borders, five horizontal panels stacked vertically. Add a bold centered Chinese title at the top: {argument name="comic title" default="站名欺诈・铠甲"}. Use cinematic anime realism with detailed backgrounds, bright ocean colors, crisp linework, and polished gpt-image-2 style rendering.
+
+Main character: A teenage Japanese schoolboy traveler with messy black hair, average build, wearing a navy-and-gray varsity jacket over a white shirt, dark pants, and a large blue backpack. His face is deliberately obscured by a soft square blur in every panel. He carries a small drink cup in the final panel. Mood progression: excited, amazed, confused, shivering, then comforted.
+
+Setting: JR Yoro Station on the Sanin Main Line, a small coastal station high above a harbor. Show a red-orange local train, platform roof, rails, station signs, blue sea, green hills, fishing harbor, lighthouse, boats, and koinobori carp streamers flying over the water. The station name sign should read Japanese text: 「JR 山陰本線」「鎧駅」「yoroi」 with arrows toward 「竹野 Takenō」 and 「餘部 Amarube」. Keep the station identity legible.
+
+Layout and panel details: Use exactly 5 panels.
+1. Panel 1: At the station platform beside a red-orange train on the left, the boy stands with backpack and looks around. The ocean and harbor are visible beyond the platform. Add one speech bubble saying: {argument name="panel 1 dialogue" default="铠站……名字听起来好有安全感!"}. Add one blue wind sound effect near the station sign: 「呼ー」.
+2. Panel 2: Wide scenic overlook from the platform railing, showing turquoise harbor water, boats, a lighthouse, green hills, and many colorful carp streamers over the sea. The boy is seen from behind/right with his blue backpack. Add one speech bubble saying: {argument name="panel 2 dialogue" default="哇，底下的海像宝石一样! 还有鲤鱼旗!"}. Add one sound effect near the carp streamers: 「拍啦拍啦」.
+3. Panel 3: The boy stands on the platform near tracks and the small station structure, holding a hand to his head as wind blows. A small station sign is visible. Add one speech bubble saying: {argument name="panel 3 dialogue" default="等等，‘铠’不是铠甲的意思吗? 这站怎么……四面漏风啊!"}. Add one blue wind sound effect: 「咻ー」.
+4. Panel 4: Dramatic windy panel with the boy crossing his arms and shivering, jacket flapping, sea glittering behind him, carp streamers flying overhead. Add one speech bubble saying: {argument name="panel 4 dialogue" default="这哪是铠甲啊，分明是‘裸奔站’!"}. Add one sound effect: 「呼啦呼啦」.
+5. Panel 5: Warm indoor waiting room at sunset, wooden interior, timetable board on the wall, large windows overlooking the harbor and orange sun over the sea, a thermos near the boy. The boy sits calmly holding a hot drink. Add one speech bubble saying: {argument name="panel 5 dialogue" default="不过……没遮没挡的，倒是把最好的风景都让给我了。"}.
+
+Text constraints: Preserve the Chinese title and dialogue exactly as written, with clean readable lettering inside white speech bubbles. Preserve the Japanese station sign text exactly. Include exactly 5 speech bubbles, exactly 4 blue sound effects, and exactly 5 comic panels. Do not add extra captions, logos, watermarks, or unrelated characters.
+```
+
+**来源：** [@刘仙升](https://x.com/LukeLiu95/status/2062744042405085302) | 2026-06-05
+
+---
+
+### 🎬 例 551：奢华时尚杂志拼贴画
+
+![奢华时尚杂志拼贴画](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个受“VOGUE BANGKOK NIGHTS”启发的顶级时尚杂志编辑拼贴 mood board，主角为 {argument name="character description" default="一位留着黑色长发、发质从直发到微卷的精致东亚女性"}，身着优雅的中性剪裁服装，且在每一格画面中，她的面部均通过柔和的矩形模糊处理进行匿名化。
+
+画布：竖向肖像拼贴，768×1152 或 2:3 纵横比，面板间留有干净的白色间隙，呈现高级时尚杂志质感。使用六个独立的电影感画框，排列成杂志联系样张布局。
+
+布局：使用 6 个面板：顶部三分之一处为一张横向宽幅主图；下方为三列拼贴，中间列为一张全身行走的高长画框，左侧列为上下堆叠的 2 个画框，右侧列为上下堆叠的 2 个画框。面板之间保持清晰的白色分隔线。
+
+主体细节：同一位女性出现在所有 6 个面板中。她留着有质感的深色长发，佩戴低调的圈形耳环，妆容精致但被模糊处理遮盖，展现出从容的奢华生活方式。服装色调为奶油色、米色、黑色和柔和的灰褐色。主要服装：{argument name="outfit" default="奶油色剪裁西装外套内搭黑色丝绸吊带背心，高腰象牙白阔腿裤，棕色皮带，银色腕表，以及小巧的圈形耳环"}。包含一些变化，例如黑色丝绸吊带上衣搭配米色长裤，同时保持统一的精致穿搭风格。
+
+面板描述：面板 1（顶部主图）：黑白胸部以上特写肖像，女性身穿浅色西装外套，秀发飘逸，浅景深，背景为模糊的城市窗户轮廓。面板 2（左下上方）：女性坐在咖啡馆桌前使用银色笔记本电脑，可见黑色类似 Apple 的标志，旁边放着白色咖啡杯，背景为温暖的室内咖啡馆灯光。面板 3（下方中间高画框）：全身街拍，她自信地走在户外，身穿奶油色西装外套、黑色吊带、象牙白长裤，搭配棕色皮带、腕表和单肩包；背景为现代玻璃与石材建筑。面板 4（右下上方）：女性坐在室内，身穿黑色无袖丝绸上衣和浅色长裤，手持一本室内设计杂志，氛围为放松的奢华休息室。面板 5（左下下方）：咖啡馆桌前的特写肖像，身穿奶油色西装外套和黑色上衣，手部靠近下巴，可见银色腕表，背景为温暖的虚化效果。面板 6（右下下方）：从上方略微俯拍的特写肖像，奶油色西装外套内搭黑色上衣，手部靠近下巴，银色腕表突出，亲密的编辑视角裁剪。
+
+视觉风格：照片级真实感的高级时尚编辑摄影，电影感自然光，浅景深，柔和对比度，中性奢华色调，光面杂志 mood board，精致的曼谷夜生活与现代城市氛围。黑白与彩色混合：仅顶部主图为黑白，下方五个面板为全彩色。
+
+文字内容：无排版，无标题，除细微的笔记本电脑标志和杂志封面设计外，不含任何 Logo。杂志可显示模糊的可读封面文字，例如 {argument name="magazine cover text" default="INTERIOR DESIGN"}。
+
+约束条件：使用 6 个面板，且所有面板中重复出现同一位女性。面部必须使用平滑的矩形模糊遮罩覆盖，不得显示详细的面部特征。保持解剖结构真实、发型与服装一致、高级的编辑灯光以及干净的白色拼贴边框。避免出现多余人物、杂乱元素、大段文字、水印或卡通风格。
+
+[English]
+Goal: Create a high-fashion magazine editorial collage mood board inspired by “VOGUE BANGKOK NIGHTS,” featuring {argument name="character description" default="a sophisticated East Asian woman with long, straight-to-softly-wavy black hair"} in elegant neutral tailoring, with her face intentionally anonymized by a soft rectangular blur in every panel.
+
+Canvas: Vertical portrait collage, 768×1152 or 2:3 aspect ratio, clean white gutters between panels, premium fashion editorial look. Use six discrete cinematic frames arranged as a magazine contact-sheet layout.
+
+Layout: Use exactly 6 panels: 1 wide horizontal hero panel across the full top third; below it, a three-column collage where the center column is one tall full-body walking frame, the left column has 2 stacked frames, and the right column has 2 stacked frames. Keep crisp white dividers between panels.
+
+Subject details: The same woman appears in all 6 panels. She has long dark hair with polished volume, understated hoop earrings, refined makeup implied but hidden by blur, and a poised luxury lifestyle presence. Wardrobe palette is cream, beige, black, and soft taupe. Main outfit: {argument name="outfit" default="a cream tailored blazer over a black satin camisole, high-waisted ivory wide-leg trousers, a brown leather belt, a silver wristwatch, and small hoop earrings"}. Include variations such as a black satin slip-style top and beige trousers while maintaining the same sophisticated wardrobe identity.
+
+Panel descriptions: Panel 1, top hero: black-and-white close-up portrait from chest up, woman in a pale blazer, hair flowing, shallow depth of field with tall blurred city-window shapes behind her. Panel 2, lower left top: woman seated at a cafe table working on a silver laptop with a visible black Apple-like logo, white coffee cup nearby, warm indoor cafe lighting behind her. Panel 3, lower center tall: full-body street-style shot of her walking confidently outdoors in the cream blazer, black camisole, ivory trousers, brown belt, watch, and shoulder bag; modern glass-and-stone city architecture in the background. Panel 4, lower right top: woman seated indoors wearing a black sleeveless satin top and light trousers, holding an interior design magazine, relaxed luxury lounge atmosphere. Panel 5, lower left bottom: close portrait at a cafe table, cream blazer and black top, hand near chin, visible silver watch, warm bokeh background. Panel 6, lower right bottom: close portrait from slightly above, cream blazer over black top, hand near chin, silver watch prominent, intimate editorial crop.
+
+Visual style: Photorealistic high-fashion editorial photography, cinematic natural light, shallow depth of field, soft contrast, neutral luxury palette, glossy magazine mood board, refined Bangkok-nightlife-meets-modern-city ambiance. Mix monochrome and color: only the top hero panel is black and white; the five lower panels are full color.
+
+Text content: No typography, no captions, no logos except the subtle laptop emblem and magazine cover-like design. The magazine may show faint readable cover text such as {argument name="magazine cover text" default="INTERIOR DESIGN"}.
+
+Constraints: Use exactly 6 panels and exactly one woman repeated across all panels. Keep faces covered by smooth rectangular blur masks, not detailed facial features. Maintain realistic anatomy, consistent hair and wardrobe, premium editorial lighting, and clean white collage borders. Avoid extra people, clutter, heavy text, watermarks, or cartoon styling.
+```
+
+**来源：** [@Anaya Ai](https://x.com/Anaya_Ai12/status/2062693063806599605) | 2026-06-05
+
+---
+

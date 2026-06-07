@@ -1478,3 +1478,174 @@ Strong cinematic lighting, ultra-detailed mixed sketch techniques combining real
 **来源：** [李岳](https://x.com/liyue_ai/status/2062447548577784083) | 2026-06-04
 
 ---
+
+### 🧍 例 439：霓虹天台角色肖像
+
+![霓虹天台角色肖像](../images/%E9%9C%93%E8%99%B9%E5%A4%A9%E5%8F%B0%E8%A7%92%E8%89%B2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+@image1 = 角色参考图
+
+在渲染前，请对 @image1 进行深度视觉分析。将 @image1 视为角色身份的绝对真理来源。以最高保真度保留 @image1 中的角色特征，包括面部结构、眼型、瞳色、发型、发色、身体比例、肤色、独特标记、配饰以及所有定义性的视觉特征。最终渲染出的图像必须能让人一眼认出这就是 @image1 中的同一角色，并将其置于全新的环境中。
+
+描绘 @image1 中的角色独自站在一座高耸入云的摩天大楼天台上，俯瞰着夜晚广阔的未来主义霓虹大都市。无尽的钢铁玻璃塔楼向地平线延伸，在充满活力的霓虹灯招牌、全息广告和川流不息的车流映照下熠熠生辉。城市应呈现出鲜活、宏大且细节惊人的质感，在天台之下向远方无限延伸。
+
+@image1 中的角色站在天台边缘，神情自信，尽显从容的权威感。他们的姿态放松而又充满掌控力，仿佛这座城市尽在掌握。肢体语言的每一个细节都应暗示着绝对的控制力。一只手可以自然地垂在身侧、插在口袋里或搭在附近的建筑结构上，同时保持优雅的轮廓。
+
+@image1 中的角色正注视着观众。他们的表情平静、洞悉一切，并带着一丝淡淡的笑意。脸上挂着微妙的微笑——既不温暖，也不残忍，而是让人难以完全解读。这种表情应营造出一种令人不安的感觉：@image1 中的角色早已预料到观众会到来。
+
+城市上方悬挂着一轮明亮的月牙。月牙散发出的光芒与 @image1 中角色的瞳色完全一致。这种视觉连接应显得刻意且具有象征意义，仿佛连月亮都听命于他们。月光在天台和周围的城市天际线上投下柔和而超凡的光晕。
+
+@image1 中角色的双眼应散发出与自然瞳色相符的微光。这种光芒必须保持微妙而优雅，而非过于强烈，暗示着他们沉稳外表下隐藏的巨大力量。双眼应作为图像的视觉焦点，立即吸引观众的注意力。
+
+氛围应在诱惑与危险之间取得平衡。观众应无法判断 @image1 中的角色是打算提供陪伴、诱惑、保护还是毁灭。图像应唤起这样一种感觉：离开是明智的选择，但留下来却让人无法抗拒。
+
+微风轻轻吹动 @image1 中角色的头发、衣物和配饰。霓虹灯的倒影在表面跳动。大气的薄雾在远处的摩天大楼间漂浮。天台的细节，如天线、维护结构、钢框架、玻璃护栏、天台照明以及细微的风化痕迹，应为场景增加真实感和尺度感。
+
+调色板：深午夜蓝、浓郁黑、充满活力的霓虹洋红、电光紫以及明亮的金色点缀。月光和眼部的光芒应与 @image1 中角色的瞳色完美匹配，在整个构图中营造出连贯的视觉主题。
+
+电影级夜景摄影构图。戏剧性的轮廓光。体积光月色。非凡的深度和尺度感。美丽的霓虹倒影。错综复杂的环境叙事。超精细动漫渲染。超细腻纹理处理。卓越的材质渲染。大师级构图。AAA 级动漫电影画质。令人屏息的氛围。专业宣传艺术画质。
+
+情感反馈应为：
+
+“他们很美。”
+
+“他们很强大。”
+
+“他们很危险。”
+
+“而且他们早就知道我会来。”
+
+@image1 中的角色给人的感觉不应像是一个普通人，而更像是一个学会了完美礼仪的自然力量。
+
+负面提示词 (NEGATIVE PROMPT)：
+
+低质量，最差质量，普通质量，低分辨率，模糊，柔焦，压缩伪影，JPEG 伪影，像素化，色彩过饱和，色彩不足，色彩暗淡，光照不佳，平淡光照，构图糟糕，业余构图，主体被裁剪，出框，重复元素，克隆对象，多余角色，背景错误，悬浮物体，视角不一致，不真实的阴影，不真实的反射
+糟糕的解剖结构，错误的解剖结构，破碎的解剖结构，畸形的解剖结构，关节脱位，扭曲的肢体，不可能的姿势，不自然的体态，脊柱断裂，肩膀不平，肢体不对称，肢体断开，身体部位脱落，悬浮的手，悬浮的手臂，悬浮的脚，肢体缺失，多余肢体，多余手臂，多余腿部，重复肢体
+糟糕的手部，畸形的手部，变异的手部，手指粘连，多余手指，手指缺失，手指不均，手指断裂，扭曲的手部，绘制拙劣的手部，手部解剖结构错误，手部断开，手部过大，手部过小
+糟糕的面部，畸形的面部，扭曲的面部，眼睛不对称，对眼，斜视，多余眼睛，眼睛缺失，瞳孔不均，瞳孔扭曲，面部特征错位，下颚扭曲，嘴部畸形，面部特征重复
+比例失调，比例错误，头过大，头过小，脖子过长，脖子过短，身体部位过大，身体部位过小，躯干扭曲，解剖结构扭曲
+角色一致性差，身份漂移，面部不匹配，面部结构改变，眼型不准，发型不准，发色不准，面部标记不准，配饰不准，丢失 @image1 中的定义性特征
+文字，水印，签名，Logo，用户名，艺术家名称，版权标记，边框，画框，标题，对话气泡
+3D 渲染伪影，塑料皮肤，蜡质皮肤，诡异的面部，无神的眼睛，死板的表情，人体模型外观，纹理细节不足，渲染未完成，草图，粗稿，背景渲染拙劣
+
+[English]
+@image1 = Character Reference Image
+
+Perform a deep visual analysis of @image1 before rendering. Treat @image1 as the absolute source of truth for the character's identity. Preserve the character from @image1 with maximum fidelity, including facial structure, eye shape, eye color, hairstyle, hair color, body proportions, skin tone, distinctive markings, accessories, and all defining visual traits. The final render must be immediately recognizable as the exact same character from @image1 placed into a new environment.
+
+Depict the character from @image1 standing alone on the rooftop of an impossibly tall skyscraper overlooking a vast futuristic neon metropolis at night. Endless towers of glass and steel stretch toward the horizon below, illuminated by vibrant neon signage, holographic advertisements, and rivers of flowing traffic. The city should feel alive, immense, and breathtakingly detailed, extending far into the distance beneath the rooftop.
+
+The character from @image1 stands near the rooftop edge with complete confidence and effortless authority. Their posture is relaxed yet commanding, as though they own the city beneath them. Every aspect of their body language should suggest absolute control. One hand may rest naturally at their side, in a pocket, or against a nearby structure, while maintaining an elegant silhouette.
+
+The character from @image1 is looking directly at the viewer. Their expression is calm, knowing, and faintly amused. A subtle smile should rest on their face—not warm, not cruel, but impossible to fully interpret. The expression should create the unsettling feeling that the character from @image1 already knew the viewer would arrive.
+
+Above the city hangs a brilliant crescent moon. The crescent moon glows with the exact same color as the eyes of the character in @image1. This visual connection should feel deliberate and symbolic, as though the moon itself answers to them. The moonlight casts a soft supernatural glow across the rooftop and surrounding skyline.
+
+The eyes of the character from @image1 should emit a faint glow matching their natural eye color. The glow must remain subtle and elegant rather than overpowering, suggesting immense hidden power beneath their composed exterior. The eyes should serve as a focal point of the image, drawing the viewer's attention immediately.
+
+The atmosphere should balance allure and danger. The viewer should be unable to determine whether the character from @image1 intends to offer companionship, temptation, protection, or destruction. The image should evoke the feeling that leaving would be the wise choice, yet staying feels impossible to resist.
+
+Wind gently moves the hair, clothing, and accessories of the character from @image1. Neon reflections dance across surfaces. Atmospheric haze drifts between distant skyscrapers. Rooftop details such as antennas, maintenance structures, steel framework, glass barriers, rooftop lighting, and subtle weathering should add realism and scale to the scene.
+
+Color palette: deep midnight blues, rich blacks, vibrant neon magentas, electric violets, and luminous gold accents. The moon glow and eye glow should perfectly match the eye color of the character from @image1, creating a cohesive visual motif throughout the composition.
+
+Cinematic night photography composition. Dramatic rim lighting. Volumetric moonlight. Extraordinary depth and scale. Beautiful neon reflections. Intricate environmental storytelling. Hyper-detailed anime rendering. Ultra-fine texture work. Exceptional material rendering. Masterpiece composition. AAA anime film quality. Breathtaking atmosphere. Professional promotional artwork quality.
+
+The emotional response should be:
+
+"They are beautiful."
+
+"They are powerful."
+
+"They are dangerous."
+
+"And they already knew I would come."
+
+The character from @image1 should feel less like a person and more like a force of nature that has learned perfect manners.
+
+NEGATIVE PROMPT:
+
+low quality, worst quality, normal quality, low resolution, blurry, soft focus, compression artifacts, jpeg artifacts, pixelated, oversaturated, undersaturated, washed out colors, poor lighting, flat lighting, bad composition, amateur composition, cropped subject, out of frame, duplicate elements, cloned objects, extra characters, background errors, floating objects, inconsistent perspective, unrealistic shadows, unrealistic reflections
+bad anatomy, incorrect anatomy, broken anatomy, malformed anatomy, dislocated joints, twisted limbs, impossible pose, unnatural posture, broken spine, uneven shoulders, asymmetrical limbs, disconnected limbs, detached body parts, floating hands, floating arms, floating feet, missing limbs, extra limbs, extra arms, extra legs, duplicate limbs
+bad hands, malformed hands, mutated hands, fused fingers, extra fingers, missing fingers, uneven fingers, broken fingers, distorted hands, poorly drawn hands, incorrect hand anatomy, disconnected hands, oversized hands, undersized hands
+bad face, malformed face, distorted face, asymmetrical eyes, crossed eyes, lazy eye, extra eyes, missing eyes, uneven pupils, distorted pupils, misplaced facial features, warped jaw, malformed mouth, duplicate facial features
+bad proportions, incorrect proportions, giant head, tiny head, elongated neck, short neck, oversized body parts, undersized body parts, distorted torso, warped anatomy
+poor character consistency, identity drift, face mismatch, altered facial structure, inaccurate eye shape, inaccurate hairstyle, inaccurate hair color, inaccurate facial markings, inaccurate accessories, loss of defining features from @image1
+text, watermark, signature, logo, username, artist name, copyright mark, frame, border, caption, speech bubble
+3d render artifacts, plastic skin, wax skin, uncanny face, lifeless eyes, dead expression, mannequin appearance, low-detail textures, unfinished rendering, sketch, rough draft, poorly rendered background
+```
+
+**来源：** [@NachtNova](https://x.com/NachtNovaAI/status/2062944523244695756) | 2026-06-05
+
+---
+
+### 🧍 例 471：Dragon Ball Z 提示词：
+
+FACIAL REFERENCE：参考图
+
+![Dragon Ball Z 提示词：
+
+FACIAL REFERENCE：参考图](../images/Dragon%20Ball%20Z%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20FACIAL%20REFERENCE%EF%BC%9A%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+FACIAL REFERENCE：参考图是绝对的重中之重。人物面部需呈现照片级真实感，并完全符合参考图特征。锁定：精准的深色蓬松发型、真实的脸部比例、地道的眼型、自然光效
+
+[English]
+FACIAL REFERENCE: Reference photos are the absolute supreme
+priority. The subject's face is photorealistic and completely
+specific to the references. Lock in: exact dark voluminous
+hair style, real facial proportions, authentic eye shape,
+natural light
+```
+
+**来源：** [@SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ/status/2062867083067875683) | 2026-06-05
+
+---
+
+### 🧍 例 535：韩系时尚动漫风格大片
+
+![韩系时尚动漫风格大片](../images/%E9%9F%A9%E7%B3%BB%E6%97%B6%E5%B0%9A%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于参考图像的漂亮年轻 {argument name="subject" default="韩国女性"}，采用高级半写实动漫风格渲染，面部细节具有照片级真实感。她身穿 {argument name="clothing" default="印有数字 6 的超大款奢华白色运动衫"}，搭配超飘逸的高腰阔腿裤、时尚平底鞋和精致的时尚配饰。随性凌乱的盘发，几缕发丝修饰脸型，皮肤透亮，拥有优雅的模特比例，展现自信的 T 台姿态。
+
+极具时尚大片感的姿势，双腿叉开，双肩后展，目光坚定。周围环绕着巨大的亮面赤陶色丝带状雕塑，在当代艺术装置中蜿蜒流动。巨大的“{argument name="text" default="NOVA"}”排版文字占据背景，采用精致的奢侈品牌字体，与构图完美融合。
+
+高端运动服饰广告美学，奢华运动高定，Vogue 封面品质，高级韩系时尚广告，极简暖米色摄影棚环境，高级编辑造型，戏剧性的定向光影，电影级阴影，丰富的景深，超写实面料质感，奢侈时尚杂志排版，现代设计师品牌感，令人向往的氛围，惊艳的视觉平衡，时装周广告大片，杰作，获奖摄影作品，8K 超高清细节，焦点清晰，照片级真实感，电影级景深。
+
+[English]
+Beautiful young {argument name="subject" default="Korean woman"} based on the reference image, rendered in a premium semi-realistic anime style with photorealistic facial detail. She wears an {argument name="clothing" default="oversized luxury white athletic jersey featuring the number 6"}, styled with ultra-flowing high-waisted wide-leg trousers, sleek designer flats, and subtle fashion accessories. Effortless tousled updo with loose face-framing strands, glowing skin, elegant model proportions, confident runway attitude.
+
+Powerful fashion-editorial pose with legs set wide apart, shoulders back, and a commanding gaze. Surrounded by massive glossy terracotta ribbon-like sculptural forms that twist and flow around her in an artistic contemporary installation. Enormous “{argument name="text" default="NOVA"}” typography dominates the background in sophisticated luxury-brand lettering, seamlessly integrated into the composition.
+
+High-end activewear campaign aesthetic, luxury sports couture, Vogue cover quality, elevated Korean fashion advertising, minimalist warm-beige studio environment, premium editorial styling, dramatic directional lighting, cinematic shadows, rich depth, ultra-realistic fabric textures, luxury fashion magazine layout, modern designer branding, aspirational atmosphere, striking visual balance, fashion-week campaign imagery, masterpiece, award-winning photography, 8K ultra-detailed, sharp focus, photorealistic, cinematic depth of field.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2062725817235587329) | 2026-06-05
+
+---
+
+### 🧍 例 539：“被诅咒的日本校园日记”提示词
+
+![“被诅咒的日本校园日记”提示词](../images/%E2%80%9C%E8%A2%AB%E8%AF%85%E5%92%92%E7%9A%84%E6%97%A5%E6%9C%AC%E6%A0%A1%E5%9B%AD%E6%97%A5%E8%AE%B0%E2%80%9D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+参照画像のオリジナルキャラクターを元に、昭和〜平成初期の小学生が書いたような「不気味な絵日記」の1ページとして描いてください。 画面は古い絵日記帳の紙面。上半分に子どもが描いたような絵、下半分に縦書きの日記欄がある構図。紙は少し黄ばみ、汚れ、折れ、手垢、消しゴム跡、鉛筆のこすれ、雨染みがある。全体にスキャンされた古い紙のような質感。 上の絵の欄には、参照キャラクターを子どもの落書き風に描く。キャラクターの特徴は必ず残す。髪型、目、耳、角、羽、しっぽ、服装、小物、配色、シルエット、雰囲気など、キャラクター固有の要素を崩さない。ただし絵はうまく描きすぎない。小学生がクレヨンと鉛筆で描いたように、線は震えていて、塗りは雑で、輪郭は歪んでいる。 ホラーの方向性は、派手な怪物ではなく「子どもが何気なく描いたものが妙に怖い」感じ。絵の中のキャラクターは、笑っているのに目が黒く塗りつぶされている、顔だけ少し大きい、影が人間と違う、紙の外を見ている、赤い色だけ妙に濃い、背景に説明できない黒い塊がある、などの違和感を入れる。 日記欄には、子どもの手書き文字風の縦書きが並んでいる。文字は完全に読ませなくてよい。ところどころ崩れていて、かすれていて、消された跡がある。文章の雰囲気は「きょう、〇〇ちゃんとあそびました。でも、〇〇ちゃんはぼくのなまえをしっていました。どうしてかな。」のように、普通の日記から少しずつ怖くなる感じ。日記の内容は上記をイメージとして毎回内容を変えること。なまえをしっている、いけないよといってきた、今日はあめって書いてねって日記に嘘を書かせようとしてくる、などなど不気味な感じです。文字化けや意味不明な英字は入れない。 右側に「{argument name="日付" default="5月◯日"}」「天気」の欄がある。名前欄もあるが、名前はぼかすか、読めないようにする。印刷された罫線や枠は古い学校プリントのように少しズレている。 絵柄はリアルなホラーイラストではなく、実物の絵日記を写真で撮ったような質感。スマホで撮影したように少し斜めで、影が落ちていて、紙の表面に細かい傷や汚れが見える。怖さは静かで、あとから気づくタイプ。
+```
+
+**来源：** [@吉田カゲチカ🧪｜創作即売会metacomi 7月開催](https://x.com/kagetica/status/2062716713586901135) | 2026-06-05
+
+---
+

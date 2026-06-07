@@ -1314,3 +1314,260 @@ Generate an illustration as you imagine it. Features include a {argument name="s
 **来源：** [simply](https://x.com/kingofdairyque/status/2062452040887128536) | 2026-06-04
 
 ---
+
+### 🎨 例 423：翡翠庆典和服插画
+
+![翡翠庆典和服插画](../images/%E7%BF%A1%E7%BF%A0%E5%BA%86%E5%85%B8%E5%92%8C%E6%9C%8D%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身垂直构图的时尚插画，描绘一位身着华丽日本庆典和服的优雅年轻女性。她以优美的四分之三背影站立并回眸，面部特意留白，呈现为平滑柔和的米色无面面具。角色身着 {argument name="kimono colors" default="深翡翠绿、青色、象牙白和金属金"} 的服饰，配有奢华的植物图案、金色花丝和白色花朵纹样。请准确展示 6 个主要的服装元素：带有青色丝带和垂坠金链的精致花卉发饰、结构感高领、层叠的宽袖和服长袍、背部巨大的雕塑感腰带结、半透明薄纱般的拖尾饰片，以及扫地的长裙摆。发型为光泽感深色长发，盘成华丽的发髻并留有几缕碎发。和服应体现出奢华与仪式感，具备超大袖口、利落的布料折痕、透明的层叠面料、金色流苏和刺绣花朵。周围环绕精致的植物氛围：漂浮的青色与金色叶片、浅奶油色花朵，以及从左下角和右下角延伸出的细长枝条。使用 {argument name="art style" default="高细节动漫时尚插画，融合水彩的柔和感与新艺术运动的优雅"}，精细的线条，明亮的奶油色背景，温暖的金色光影，以及 2:3 的垂直构图。强调复杂的织物细节、飘逸的布料、优雅的姿态以及梦幻般的清晨庆典氛围。无文字，无水印，无现代配饰，无背景建筑。
+
+[English]
+Create a full-body vertical fashion illustration of an elegant young woman in an ornate Japanese festival kimono, standing in a graceful three-quarter back pose and looking over her shoulder, with her face intentionally left featureless as a smooth soft beige blank mask. The character wears {argument name="kimono colors" default="deep emerald green, teal, ivory, and metallic gold"} with lavish botanical patterns, gold filigree, and white blossom motifs. Show exactly 6 main costume elements: an elaborate floral hair ornament with teal ribbons and dangling gold chains, a structured high collar, a layered wide-sleeved kimono robe, a large sculptural obi bow at the back, translucent gauze-like trailing panels, and a long floor-sweeping train. The hairstyle is glossy dark hair pinned up in an ornate bun with loose wisps. The kimono should feel luxurious and ceremonial, with oversized sleeves, crisp folded fabric edges, transparent layered fabric, gold tassels, and embroidered flowers. Surround her with a delicate botanical atmosphere: floating teal and gold leaves, pale cream flowers, and thin branches growing from the lower left and lower right edges. Use {argument name="art style" default="high-detail anime fashion illustration with watercolor softness and Art Nouveau elegance"}, refined linework, luminous cream background, warm golden lighting, and a vertical 2:3 composition. Emphasize intricate textile detail, flowing fabric, graceful posture, and a dreamy early-morning festival mood. No text, no watermark, no modern accessories, no background buildings.
+```
+
+**来源：** [@いろあい｜AIで幸せ時間を生み出すお手伝い💫](https://x.com/iroai_ai_x/status/2063033844136370411) | 2026-06-05
+
+---
+
+### 🎨 例 426：怀旧少女与磨损的鞋子
+
+![怀旧少女与磨损的鞋子](../images/%E6%80%80%E6%97%A7%E5%B0%91%E5%A5%B3%E4%B8%8E%E7%A3%A8%E6%8D%9F%E7%9A%84%E9%9E%8B%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="character" default="害羞的女孩"} 低头看着她因 {argument name="action" default="踢罐子"} 而微微磨损的 {argument name="item" default="鞋子"}，正走在漫长的上学路上
+
+[English]
+a {argument name="character" default="shy girl"} staring down at her {argument name="item" default="shoes"} slightly scuffed from {argument name="action" default="kicking the can"} on the long walk to school
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2063014263212711966) | 2026-06-05
+
+---
+
+### 🎨 例 444：反乌托邦科幻废土电影剧照
+
+![反乌托邦科幻废土电影剧照](../images/%E5%8F%8D%E4%B9%8C%E6%89%98%E9%82%A6%E7%A7%91%E5%B9%BB%E5%BA%9F%E5%9C%9F%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级宽银幕反乌托邦科幻景观，风格如同严肃的电影剧照。一位孤身 {argument name="female character" default="身穿深青色长裙或束腰外衣配长裤的短发女性"} 走在广阔泥泞、荒凉的平原上，身侧拿着一个小巧的深色箱子或工具包。在近景处，放置 1 具静止的人体，横卧在潮湿的地面上，大部分处于阴影中。在中景左侧，包含 1 辆苍白的复古轿车，停放或缓慢行驶在平地上，车身略微背向镜头。背景应展示一座朦胧的未来工业城市，有 2 座大型高架桥或高架桥结构从左右两侧延伸至天际线，还有被烟雾柔化的笨重圆柱形和矩形塔楼。使用柔和的青灰色和灰米色调，低对比度，大气雾霾，泥地里有潮湿的反光斑块，营造出凄凉的后末日氛围。构图：16:9 纵横比，广角定场镜头，地平线位于画面上方，女性位于中心偏左，汽车在更左侧，天际线遥远且去饱和。光线应为阴天，并透过污染的空气进行逆光照射，具有真实的胶片颗粒感、变形宽银幕电影构图，且画面中无可见文字、Logo 或 UI 元素。
+
+[English]
+Create a cinematic widescreen sci-fi dystopian landscape in the style of a serious film still. A lone {argument name="female character" default="short-haired woman in a dark teal long dress or tunic with trousers"} walks across a vast muddy, barren plain, holding a small dark case or tool bag at her side. In the immediate foreground, place exactly 1 motionless human body lying horizontally on the wet ground, mostly in shadow. In the left midground, include exactly 1 pale vintage sedan parked or slowly driving across the flats, angled slightly away. The background should show a hazy futuristic industrial city with exactly 2 large elevated bridge or viaduct structures spanning from the left and right sides toward the skyline, plus bulky cylindrical and rectangular towers softened by smog. Use a muted teal-gray and dusty beige color palette, low contrast, atmospheric haze, wet reflective patches in the mud, and a bleak post-apocalyptic mood. Composition: 16:9 aspect ratio, wide establishing shot, horizon high in the frame, the woman positioned slightly left of center, the car farther left, the skyline distant and desaturated. Lighting should be overcast and backlit through polluted air, with realistic film grain, anamorphic cinematic framing, and no visible text, logos, or UI elements.
+```
+
+**来源：** [@Far](https://x.com/FarAICoder/status/2062935160731885942) | 2026-06-05
+
+---
+
+### 🎨 例 463：水彩咖啡馆插画
+
+![水彩咖啡馆插画](../images/%E6%B0%B4%E5%BD%A9%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简水彩水墨插画，融合柔和的动漫写实风格、手绘素描美学及温馨的咖啡馆编辑艺术风格。一位留着黑色层次感短发、发丝柔顺凌乱、皮肤白皙透亮、面带温柔微笑且眼神放松的年轻女性，自然地坐在极简现代的咖啡馆桌前。她穿着一件 {argument name="dress" default="奶油色刺绣无袖连衣裙"}，带有精致的蕾丝细节，展现出柔美的咖啡馆时尚风格。她一手拿着叉子，另一只手放在一个装有细小植物茎的透明玻璃瓶旁。
+桌面上，中心盘子里放着一份 {argument name="dessert" default="小型浆果芝士蛋糕"}，左侧放着一个极简陶瓷咖啡杯，右侧是装有植物茎的玻璃瓶。上方悬挂的工业风咖啡馆吊灯增添了氛围感。
+背景为干净的白色，带有稀疏的水墨溅点、柔和的笔触纹理、细小的心形涂鸦、极简植物素描、微小闪光、柔和的水彩污渍，以及手写引语：“{argument name="quote" default="Simple days are the best"}” 和 “Small pleasures, big smiles.”
+光线为柔和温暖的咖啡馆环境光，带有轻柔的高光和微妙的阴影。调色板保持在暖米色、奶油色、柔棕色、浅褐色和柔和的黑色之间。细腻的素描墨线、水彩纸纹理以及中高水平的细节处理，使作品呈现出高度精致的插画质感。
+摄像机角度为略微俯视的肖像构图，焦点清晰地对准女孩和桌面物品，并具有柔和的浅景深效果。
+避免：杂乱的背景、高饱和度、3D 渲染感、照片写实感、低质量、多余肢体、凌乱的构图、昏暗的灯光、拥挤的桌面。
+纵横比：9:13
+
+[English]
+Minimal watercolor ink illustration with soft anime realism, hand-drawn sketch aesthetic, and cozy café editorial art style. A young woman with layered black hair, soft messy strands, fair glowing skin, and a gentle smile with relaxed eyes sits naturally at a minimal modern café table. She is wearing a {argument name="dress" default="cream embroidered sleeveless dress"} with delicate lace details, styled in soft feminine café fashion. She holds a fork while resting one hand beside a transparent glass bottle with a tiny plant stem.
+On the table, a {argument name="dessert" default="small berry cheesecake"} sits on a center plate, a minimal ceramic coffee cup is placed on the left, and the glass bottle with a plant stem is on the right. Above, a hanging industrial café lamp adds to the atmosphere.
+The background is clean white with sparse ink splashes, soft brush textures, tiny heart doodles, a minimal botanical sketch, small sparkles, soft watercolor stains, and handwritten quotes reading "{argument name="quote" default="Simple days are the best"}" and "Small pleasures, big smiles."
+Lighting is soft warm ambient café light with gentle highlights and subtle shadows. The color palette stays within warm beige, cream, soft brown, light sepia, and muted black. Fine sketch ink outlines, watercolor paper texture, and medium-high detail level give the piece a highly polished illustration finish.
+Camera angle is slightly top-down portrait framing with sharp focus on the girl and table items, and soft shallow depth of field.
+Avoid: cluttered background, heavy saturation, 3D render look, photorealism, low quality, extra limbs, messy composition, dark lighting, crowded table.
+Aspect ratio: 9:13
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2062886688028848418) | 2026-06-05
+
+---
+
+### 🎨 例 464：自然角色替换指令
+
+![自然角色替换指令](../images/%E8%87%AA%E7%84%B6%E8%A7%92%E8%89%B2%E6%9B%BF%E6%8D%A2%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+画像1のキャラクターを、画像2のキャラクターに自然に差替えてください。ライティングも背景に合わせて調整してください。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2062886640650203183) | 2026-06-05
+
+---
+
+### 🎨 例 465：纪念碑解构甜点艺术
+
+![纪念碑解构甜点艺术](../images/%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%A7%A3%E6%9E%84%E7%94%9C%E7%82%B9%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对 4 个世界著名纪念碑进行创作，甜点类 Grande_Patisserie_DNA:     def __init__(self):         self.subject = "{argument name="pastry" default="[PASTRY CREATION]"}"         self.parents = {             "composition_parent": "解构的慕斯蛋糕，展示分层、淋面和悬浮的装饰",             "material_parent": "镜面淋面、天鹅绒巧克力喷砂、金箔、食用花卉",             "graphic_parent": "奢华甜点精品店橱窗展示卡",             "atmosphere_parent": "卡拉拉大理石台面上明亮的晨光"         }         self.mutations = {             "semantic_mutation": "蛋糕切面揭示了一个微型果园，展示其水果的生长过程",             "information_mutation": "风味强度图、质地分层图、可可与香草的产地地图、卡路里成分环形图",             "medium_mutation": "光滑的无涂层纸张，淋面滴落处带有局部光泽",             "scale_mutation": "糖晶体晶格和可可脂结晶的微观视图"         }         self. style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]      def generate_subject(self):         subject = """         {argument name="pastry_name" default="[PASTRY CREATION]"} 悬浮在明亮、洁净的空间中。所有层级——慕斯、饼底、夹心、淋面——均被轻柔地分离，以展现味觉的建筑美感。一把完美的勺子悬浮在旁边。         """         return render(             subject,             format="奢华甜点菜单特色",             title="{argument name="monument" default="[PASTRY NAME]"}",             subtitle="[CHEF PÂTISSIER / MAISON]",             constraints="明亮、诱人、高精度、现代甜点艺术"         )
+
+[English]
+2x2 grid, do this for 4 famous world monuments in pastry class Grande_Patisserie_DNA:     def __init__(self):         self.subject = "{argument name="pastry" default="[PASTRY CREATION]"}"         self.parents = {             "composition_parent": "Exploded entremet with layers, glazes, and decorations levitating",             "material_parent": "Mirror glaze, velvet chocolate spray, gold leaf, edible flowers",             "graphic_parent": "Luxury pâtisserie boutique window card",             "atmosphere_parent": "Bright morning light on a Carrara marble countertop"         }         self.mutations = {             "semantic_mutation": "The cake slice reveals a tiny orchard where its fruits grew",             "information_mutation": "Flavor intensity graph, texture layers diagram, sourcing map for cocoa and vanilla, calorie composition ring",             "medium_mutation": "Smooth uncoated paper with spot gloss on the glaze drips",             "scale_mutation": "Microscopic view of a sugar crystal lattice and cocoa butter bloom"         }         self. style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]      def generate_subject(self):         subject = """         {argument name="pastry_name" default="[PASTRY CREATION]"} floating in a bright, clean space. All layers — mousse,         biscuit, insert, glaze — are gently separated to expose the architecture         of taste. A single perfect spoonful hovers nearby.         """         return render(             subject,             format="luxury pâtisserie menu feature",             title="{argument name="monument" default="[PASTRY NAME]"}",             subtitle="[CHEF PÂTISSIER / MAISON]",             constraints="bright, appetizing, high precision, modern dessert art"         )
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2062886154383589694) | 2026-06-05
+
+---
+
+### 🎨 例 469：五位 1980 年代不良少女动漫角色
+
+![五位 1980 年代不良少女动漫角色](../images/%E4%BA%94%E4%BD%8D%201980%20%E5%B9%B4%E4%BB%A3%E4%B8%8D%E8%89%AF%E5%B0%91%E5%A5%B3%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 宽屏动漫插画，背景为纯黑色：画面中均匀分布着五个细长的垂直四边形色块，每个色块略微倾斜，顶部边缘角度随机，但整体保持垂直平行。从左至右，色块颜色分别为明亮的黄色、橙色、红色、青色和绿色。在这些色块的下半部分，重叠着五位 1980 年代日本不良女学生的半身像，以戏剧性的黑色剪影风格绘制，没有可见的轮廓线，大面积使用深黑色阴影，仅露出少许温暖的肤色、眼睛、头发高光、制服饰边和围巾颜色。氛围叛逆、神秘且具有电影感，如同 1980 年代复古日本动漫海报艺术，采用平涂赛璐珞风格、高对比度、锐利的几何构图，且画面中无文字。
+
+数量与布局：1) 左侧女孩位于黄色色块中，留着凌乱的长黑发，身穿水手服，系黄色领巾，脸部大部分处于阴影中，露出一只眼睛；2) 第二位女孩位于橙色色块中，短发蓬乱，身穿高领学兰式不良夹克，佩戴小十字架项链和耳环，脸部大部分隐藏在黑暗中；3) 中间女孩位于红色色块中，扎着高马尾，系蝴蝶结，身穿水手服，系红色围巾，眼神锐利，从深色衣领或阴影上方窥视；4) 第四位女孩位于青色色块中，留着波波头，佩戴圆环耳环，身穿深色西装外套，露出少许白衬衫和红领带，脸部大部分被阴影遮盖；5) 右侧女孩位于绿色色块中，留着直发波波头，有刘海，身穿水手服，系绿色领巾，脸部一半隐藏在深沉的黑色阴影中。使用 {argument name="character group" default="five Japanese 1980s delinquent schoolgirls"}，{argument name="background color" default="pure black"}，{argument name="panel colors" default="yellow, orange, red, cyan, green"}，{argument name="art style" default="retro 1980s Japanese anime poster art"}，以及 {argument name="lighting mood" default="extreme low-key noir lighting with large unlit shadow regions"}。保持女孩身体大部分为黑色剪影，避免除狭长眼睛和小面积亮肤色之外的脸部细节，避免使用轮廓线，避免添加额外的色块或角色，并保持大胆的几何构图。
+
+[English]
+Create a widescreen 16:9 anime illustration on a pure black background: five tall, narrow, vertical quadrilateral color panels stand evenly spaced across the frame, each slightly skewed with random angled top edges while remaining generally parallel vertically. The panels are bright primary colors from left to right: yellow, orange, red, cyan, and green. Inside and overlapping the lower half of these panels are exactly five bust-shot Japanese 1980s delinquent schoolgirls, drawn as dramatic noir silhouettes with no visible outline strokes, extremely heavy black shadow areas, and only small patches of warm skin, eyes, hair highlights, uniform trim, and scarf colors visible. The mood is rebellious, mysterious, and cinematic, like retro 1980s Japanese anime poster art with flat cel shading, high contrast, sharp graphic composition, and no text.
+
+Count and placement: 1) left girl in the yellow panel, long messy black hair, sailor uniform with a yellow neckerchief, face mostly shadowed with one visible eye; 2) second girl in the orange panel, short tousled hair, tall-collar gakuran-style delinquent jacket, small cross necklace and earring, much of face hidden in darkness; 3) center girl in the red panel, high ponytail tied with a bow, sailor uniform with red scarf, intense visible eyes peering over a dark collar or shadow; 4) fourth girl in the cyan panel, short bob hair, hoop earring, dark blazer with a hint of white shirt and red tie, face mostly obscured by shadow; 5) right girl in the green panel, straight bob haircut with bangs, sailor uniform with green neckerchief, face half hidden by deep black shadow. Use {argument name="character group" default="five Japanese 1980s delinquent schoolgirls"}, {argument name="background color" default="pure black"}, {argument name="panel colors" default="yellow, orange, red, cyan, green"}, {argument name="art style" default="retro 1980s Japanese anime poster art"}, and {argument name="lighting mood" default="extreme low-key noir lighting with large unlit shadow regions"}. Keep the girls' bodies mostly black silhouettes, avoid facial detail beyond narrow eyes and small lit skin planes, avoid outlines, avoid extra panels or characters, and preserve the bold geometric composition.
+```
+
+**来源：** [@角煮星丸](https://x.com/_3912657840/status/2062882827411357885) | 2026-06-05
+
+---
+
+### 🎨 例 475：珠光玻璃雕塑
+
+![珠光玻璃雕塑](../images/%E7%8F%A0%E5%85%89%E7%8E%BB%E7%92%83%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+雕像，强调玻璃珠符合主题的色彩，{argument name="主体" default="The Kraken (the giant sea monster of Norse mythology)"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2062862291021033507) | 2026-06-05
+
+---
+
+### 🎨 例 517：可爱唯美角色拼贴画
+
+![可爱唯美角色拼贴画](../images/%E5%8F%AF%E7%88%B1%E5%94%AF%E7%BE%8E%E8%A7%92%E8%89%B2%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超级可爱的唯美角色拼贴画，主角是一位美丽的 {argument name="subject" default="少女"}，身着 {argument name="outfit" default="柔和的韩系校服"}，被她自己各种俏皮姿势和表情的可爱 Q 版形象所环绕。主角自信地站在画面中央，身穿优雅的白色长袖衬衫，系着黑色丝带蝴蝶结，搭配棕色格子百褶裙、白袜和亮面黑色乐福鞋。她留着一头柔顺的 {argument name="hair style" default="黑色波浪卷发"}，肤色白皙透亮，面带温柔微笑，妆容清透，表情甜美迷人。周围环绕着多个 Q 版迷你形象，有着超大的闪亮眼睛、可爱的腮红，姿势俏皮，有的坐着、挥手、眨眼、喝冰咖啡、羞涩微笑或做出可爱的表情。背景为柔和的浅灰色，点缀着星星、闪光、爱心、笑脸、可爱动物、对话气泡、唯美手写文字等小涂鸦，每个角色周围都有类似贴纸的白色轮廓。韩系 kawaii 审美，梦幻柔和光影，Pinterest 风格的项目，构图简洁，时尚可爱，氛围温馨治愈，细节丰富，柔和阴影，眼睛光泽感强，发质顺滑，写实与动漫 Q 版风格结合，高质量 8k，可爱贴纸包设计，柔和中性色调，kawaii 审美海报构图。
+
+[English]
+An ultra-cute aesthetic character collage featuring a {argument name="subject" default="beautiful young girl"} in a {argument name="outfit style" default="soft Korean-inspired school outfit"}, surrounded by adorable chibi versions of herself in different playful poses and expressions. The main character stands confidently in the center, wearing a white elegant blouse with long sleeves and a black ribbon bow tie, a brown plaid pleated skirt, white socks, and glossy black loafers. She has long soft wavy black hair, glowing fair skin, gentle smile, soft makeup, and a sweet charming expression. Around her are multiple chibi mini versions with oversized sparkling eyes, cute blush, playful poses, sitting, waving, winking, drinking iced coffee, smiling shyly, making cute expressions. {argument name="background" default="Soft pastel grey background"} filled with tiny doodles including stars, sparkles, hearts, smiley faces, cute animals, speech bubbles, aesthetic handwritten text, sticker-like white outlines around each character. Korean kawaii aesthetic, dreamy soft lighting, Pinterest-inspired mood board, clean composition, adorable fashion style, cozy wholesome vibe, ultra detailed, soft shadows, glossy eyes, smooth hair texture, photorealistic mixed with anime-chibi style, high quality 8k, cute sticker pack design, soft neutral tones, kawaii aesthetic poster composition.
+```
+
+**来源：** [@S](https://x.com/sakshi___007/status/2062754695265886289) | 2026-06-05
+
+---
+
+### 🎨 例 552：Vogue Bangkok Nights 拼贴画
+
+![Vogue Bangkok Nights 拼贴画](../images/Vogue%20Bangkok%20Nights%20%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为奢华杂志版面创作一张高级编辑风格的时尚照片拼贴画，标题为 {argument name="headline text" default="VOGUE"}，副标题为 {argument name="subtitle text" default="BANGKOK NIGHTS"}，画面主体为一位身着黑色缎面西装裙、在高端城市夜生活中展现迷人风采的年轻 {argument name="subject identity" default="亚裔商务女性"}。
+
+画布：垂直 2:3 比例的肖像拼贴画，尺寸约为 768 x 1152 像素，面板间设有细黑色边框，采用黑、白、霓虹色和湿沥青色的高级配色方案。运用高端编辑摄影手法、电影感夜间灯光、浅景深、光泽反射以及奢华杂志风格。
+
+布局：使用 6 个独立的面板，排列成现代非对称的杂志网格：
+1. 左上角面板：女性肩部以上的黑白特写肖像，留着波浪长卷发，身穿黑色西装，背景是模糊的城市灯光散景；在面部中央区域添加柔和的矩形模糊效果以遮挡五官。
+2. 右上角大面板：雨夜曼谷霓虹灯街道上的全身时尚肖像，女性自信地走在街头，身穿带有高开衩设计的黑色裹身西装裙，搭配黑色高跟凉鞋，湿润的路面反射着红蓝招牌，背景可见出租车和店面招牌；添加小巧的柔和矩形面部模糊效果。
+3. 中左侧面板：屋顶鸡尾酒桌，桌上清晰可见 3 件物品：一个浅碟香槟杯、一个带有柑橘装饰的平底酒杯，以及一个放在花纹玻璃烛台里的点燃蜡烛；远处为曼谷天际线的散景。
+4. 左下角面板：戏剧性的夜间城市景观，包含高耸的照明摩天大楼、高架公路、现代桥梁/轨道结构，以及交通工具留下的长曝光光轨。
+5. 中右侧面板：同一位女性身着深黑色缎面西装的坐姿或倚靠近景肖像，背景是温暖的失焦城市灯光，右边缘可见部分酒杯；添加柔和的矩形面部模糊效果。
+6. 右下角面板：纯黑色标题卡，居中显示醒目优雅的白色衬线字体“VOGUE”，下方为较小的全大写衬线字体“BANGKOK NIGHTS”。
+
+主体细节：该女性留着 {argument name="hair color" default="波浪长卷发"}，造型精致奢华，模糊处理下隐约可见优雅的自然妆容，拥有纤细的模特姿态，身着利落的黑色缎面西装裙。请确保各肖像面板中的服装保持一致。
+
+视觉风格：高级编辑照片拼贴画、Vogue 风格排版、奢华旅行夜生活氛围、清晰的高对比度灯光、逼真的镜头渲染、湿润的街道、霓虹灯招牌、屋顶环境、电影级景深。
+
+约束条件：必须包含 6 个面板，鸡尾酒桌上必须正好有 3 件物品。除标题卡外，请勿添加额外的说明文字、徽标、水印或装饰性文字。保持所有面板边框整洁且为黑色，右下角的排版需清晰易读。
+
+[English]
+Goal: Create a premium editorial fashion photo collage for a luxury magazine spread titled {argument name="headline text" default="VOGUE"} with the subtitle {argument name="subtitle text" default="BANGKOK NIGHTS"}, featuring a glamorous young {argument name="subject identity" default="Asian businesswoman"} in a black satin blazer dress during an upscale city nightlife evening.
+
+Canvas: Vertical 2:3 portrait collage, approximately 768 x 1152 px, with thin black gutters between panels and a sophisticated black, white, neon, and wet-asphalt color palette. Use high-end editorial photography, cinematic night lighting, shallow depth of field, glossy reflections, and luxury magazine styling.
+
+Layout: Use exactly 6 discrete panels arranged as a modern asymmetrical magazine grid:
+1. Top-left panel: black-and-white close-up portrait of the woman from shoulders up, long wavy dark hair, black blazer, blurred bokeh city lights behind her; place a soft rectangular face-obscuring blur over the central face area.
+2. Top-right large panel: full-body fashion portrait on a rainy neon-lit Bangkok street at night, woman walking confidently in a black wrap blazer dress with a thigh-high slit, black high-heel sandals, wet pavement reflecting red and blue signs, taxis and storefront signs in the background; add a small soft rectangular face blur.
+3. Middle-left panel: rooftop cocktail table with exactly 3 visible objects: one coupe cocktail glass, one rocks glass cocktail with citrus garnish, and one lit candle in a patterned glass holder; Bangkok skyline bokeh in the distance.
+4. Bottom-left panel: dramatic night cityscape with tall illuminated skyscrapers, elevated highway, modern bridge/rail structure, and long-exposure light trails from traffic.
+5. Middle-right panel: seated or leaning close portrait of the same woman in a deep black satin blazer, warm out-of-focus city lights behind her, a drink glass partially visible at the right edge; add a soft rectangular face-obscuring blur.
+6. Bottom-right panel: solid black title card with large elegant white serif text "VOGUE" and smaller all-caps serif text "BANGKOK NIGHTS" centered below.
+
+Subject details: The woman has long {argument name="hair color" default="wavy dark hair"}, polished luxury styling, elegant natural makeup implied beneath the blur, slim fashion-model posture, and a sleek black satin blazer dress. Keep the outfit consistent across the portrait panels.
+
+Visual style: Premium editorial photo collage, Vogue-inspired typography, luxury travel nightlife mood, crisp high-contrast lighting, realistic lens rendering, wet streets, neon signage, rooftop ambience, cinematic depth of field.
+
+Constraints: Include exactly 6 panels and exactly 3 objects on the cocktail table. Do not add extra captions, logos, watermarks, or decorative text beyond the title card. Keep all panel borders clean and black, with the bottom-right typography highly legible.
+```
+
+**来源：** [@Anaya Ai](https://x.com/Anaya_Ai12/status/2062693058303738041) | 2026-06-05
+
+---
+
+### 🎨 例 553：吉尔伽美什酒馆的奇幻街景
+
+![吉尔伽美什酒馆的奇幻街景](../images/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%E9%85%92%E9%A6%86%E7%9A%84%E5%A5%87%E5%B9%BB%E8%A1%97%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的竖版奇幻插画，描绘 {argument name="location" default="首都主干道上的吉尔伽美什酒馆"} 的黄昏景象。采用经典的奇幻水墨风格，线条错综复杂，展现酒馆温暖的灯光、清冷的蓝色月光以及浓郁的中世纪城市细节。画面前景准确描绘 2 位主要冒险者在探险归来后交谈的场景：左侧站着 1 位身材高大的人类男性战士，身穿破旧的钢制板甲，背着背包，佩戴剑、盾，靴子上沾满泥土，装备齐全，面部轮廓柔和且略显模糊；右侧站着 1 位矮小敦实的矮人男性，留着巨大的红棕色编织胡须，身穿锁子甲，佩戴皮带、小袋和背包，身前立着一把巨大的双头斧，表情开怀，面部清晰可见。将他们置于左侧木石结构的酒馆入口外，上方悬挂 1 块巨大的木制招牌，上面用华丽的中世纪字体写着 {argument name="tavern sign text" default="吉尔伽美什酒馆"}，并刻有英雄纹章。在左侧墙壁上放置 1 个任务项目，标有清晰的“迷宫任务”标题，并钉着地图和文件。鹅卵石街道上应挤满背景路人、卫兵、商人、马车、驮兽、蓝色灯笼、旗帜和中世纪市场摊位，远处可见一座宏伟的山顶城堡城市。天空中包含 2 轮月亮：右上角是一轮巨大的苍白满月，左侧是一轮较小的淡紫色月亮。在画面左下角前景处放置一张冒险者的桌子或木箱，上面摆放 7 件显眼的物品：1 盏点亮的灯笼、1 张羊皮纸地图、1 卷卷轴、1 个皮质钱袋、1 个打开的钱币托盘、1 颗蓝色宝石和 1 个类似指南针的小型魔法装置。采用街头视角的电影级构图，呈现高度细腻的纹理、风化的木材、生锈的金属、湿润反光的鹅卵石路面、发光的窗户以及周五下班后酒馆的节日氛围。在右下角添加一个优雅的小签名和日期，内容为 {argument name="date text" default="2026 年 6 月 5 日"} 和 {argument name="signature text" default="Oyagi"}。避免出现现代物品，避免简洁的极简主义风格，除酒馆招牌、任务项目标题、日期和签名外，不要添加任何额外的标题文字。
+
+[English]
+Create a richly detailed vertical fantasy illustration of {argument name="location" default="Gilgamesh's Tavern on the main avenue of the capital city Lilgamin"} at dusk, in a classic high-fantasy ink-and-paint style with intricate linework, warm tavern glow, cool blue moonlight, and dense medieval city detail. The scene shows exactly 2 main adventurers in the foreground chatting after returning from a labyrinth: 1 tall human male warrior in battered steel plate armor with a backpack, sword, shield, muddy boots, and travel gear, standing on the left with his face softly obscured; and 1 short stocky dwarf male on the right with a huge braided red-brown beard, chainmail, leather belts, pouches, a backpack, a large double-headed axe resting in front of him, and a laughing expression with his face mostly visible. Place them outside a timber-and-stone tavern entrance on the left, with exactly 1 large hanging wooden sign above them reading {argument name="tavern sign text" default="Gilgamesh's Tavern"} in ornate medieval lettering, plus a carved heroic emblem on the sign. Include exactly 1 quest notice board on the left wall with legible header text “Labyrinth Quests” and pinned maps and papers. The cobblestone street should be crowded with background townspeople, guards, merchants, carts, pack animals, blue lanterns, banners, and medieval market stalls leading toward a grand hilltop castle city in the distance. In the sky include exactly 2 moons: 1 enormous pale full moon dominating the upper right and 1 smaller lavender moon to its left. In the lower foreground include an adventurer’s table or crate with exactly 7 notable objects: 1 lit lantern, 1 parchment map, 1 rolled scroll, 1 leather coin pouch, 1 open coin tray, 1 blue gemstone, and 1 small compass-like magical device. Use cinematic perspective from street level, highly detailed textures, weathered wood, rusted metal, wet reflective cobblestones, glowing windows, and a festive Friday-after-work tavern mood. Add a small elegant signature and date in the lower right reading {argument name="date text" default="June 5, 2026"} and {argument name="signature text" default="Oyagi"}. Avoid modern objects, avoid clean minimalism, and do not add extra title text beyond the tavern sign, quest board header, date, and signature.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2062691075178066044) | 2026-06-05
+
+---
+
+### 🎨 例 554：雨中城市公交站通勤
+
+![雨中城市公交站通勤](../images/%E9%9B%A8%E4%B8%AD%E5%9F%8E%E5%B8%82%E5%85%AC%E4%BA%A4%E7%AB%99%E9%80%9A%E5%8B%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅干净的单色线条艺术插画，带有柔和的蓝色点缀，展现可爱的雨天城市公交站通勤场景。使用宽幅横向画布，以白色为主背景，采用细黑色轮廓、极简阴影、柔和的手绘风格，并在配饰、标志和公交线路编号上进行选择性的淡天蓝色着色。场景中包含 5 位在带顶棚公交候车亭下的通勤者：1 人撑着透明雨伞向左走，手持外带杯，身穿连帽衫并背着双肩包；1 位女性撑着蓝色伞盖的雨伞，看着智能手机，身穿长外套并背着一个大号蓝色托特包；1 人坐在候车亭内阅读一本蓝色的书；1 人背对镜头站立，手持咖啡杯和一把折叠的蓝色雨伞，身穿长外套、围巾并背着一个小斜挎包；另有 1 人在最右侧撑着伞看智能手机，身穿长外套并背着一个蓝色单肩包。在整个场景中加入轻微的斜向雨丝，以及带有细微水洼倒影的湿润路面。左侧包含一个垂直的公交站牌，上面有蓝色公交图标和清晰可见的英文文本“BUS STOP”，以及 4 个蓝色的线路编号：101、150、202 和 505。在中央候车亭内，包含一张标题为“CITY BUS MAP”的海报，上面有简单的交通地图示意图。在右侧边缘，展示一辆正在进站的公交车前部，蓝色目的地显示屏上标有线路编号 {argument name="bus route number" default="150"}。背景中，在最左侧画一棵多叶的树、低矮的灌木丛、简单的城市天际线剪影、两朵小云，以及公交候车亭屋顶后方类似东京塔的塔楼。保持所有面部简化且柔和地匿名化，无详细面部特征，无标志或水印。强调舒适、宁静的通勤氛围，仅使用克制的蓝色点缀。可选自定义：将整体氛围设为 {argument name="weather mood" default="温柔的雨天早晨"}，强调色设为 {argument name="accent color" default="淡天蓝色"}，城市背景设为 {argument name="city setting" default="受东京启发的城市天际线"}，插画风格设为 {argument name="illustration style" default="极简可爱的日式线条艺术"}。
+
+[English]
+Create a cute minimalist line-art illustration of a rainy city commute at a bus stop, in a clean Japanese stationery / coloring-book style with mostly black outlines on a white background and selective soft blue accents. Wide horizontal canvas, calm spacious composition. Show a modern covered bus shelter centered in the image with a bench and a poster labeled “CITY BUS MAP” containing a simple route diagram. Add light diagonal rain strokes across the whole scene, puddles and subtle reflections on the wet pavement. Include exactly 5 commuters: 1 person on the far left walking past the stop under a clear umbrella, wearing a hoodie and backpack, holding a takeaway cup; 1 woman left-center standing under a blue-and-white umbrella, looking at a smartphone, wearing a long coat and carrying a blue tote bag; 1 seated person in the shelter reading an open blue book; 1 standing person right-center under a clear umbrella, wearing a long coat and scarf, holding a coffee cup and a closed blue umbrella pointed down; 1 person on the far right under a clear umbrella, looking at a smartphone, wearing a long coat and carrying a blue shoulder bag. Faces should be blank or softly obscured, no detailed facial features. On the far left, add a bus stop sign with a blue bus icon and the text “BUS STOP” plus exactly 4 route numbers: 101, 150, 202, 505. On the right edge, show the front half of a city bus arriving with a blue route display reading {argument name="bus route number" default="150"}. Background details include a leafy tree on the left, bushes and railing behind the pedestrians, a simple skyline on the right, two small clouds, and a slender tower behind the shelter. Use blue only for key accents: umbrellas, bags, book, bus route signs, map marker, and route numbers. Keep the mood gentle, cozy, and adorable, with thin precise outlines, rounded forms, lots of white space, no photorealism, no harsh shadows, no extra people, and no watermark.
+```
+
+**来源：** [@しらき@パワポ図解](https://x.com/kumiko_shiraki/status/2062685838568558898) | 2026-06-05
+
+---
+

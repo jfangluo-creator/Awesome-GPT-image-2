@@ -941,3 +941,178 @@ professional Japanese gaming magazine editorial layout, retro review page, pixel
 **来源：** [@FANTAN GLITCHBOX](https://x.com/fantanglitchbox/status/2061345541204906052) | 2026-06-01
 
 ---
+
+### 🖥️ 例 457：历史时代可视化立方体
+
+![历史时代可视化立方体](../images/%E5%8E%86%E5%8F%B2%E6%97%B6%E4%BB%A3%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AB%8B%E6%96%B9%E4%BD%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对不同时代的不同年份执行此操作：{argument name="topic" default="ERA_TO_CUBE_SOLVER"}  INPUT ::= [主题], [时代]  STEP_1 :: 推断时代特征 - 时间段或阶段 - 主导材料 - 关键工具或文物 - 社会/技术/文化背景 - 建筑环境或自然环境 - 相关的代表性 Agent 或人物  STEP_2 :: 压缩为立方体 - 大型物体定义长方体边缘 - 中型物体构建内部场景 - 小型物体填充空隙 - 顶部、侧面和正面保持可见 - 所有内容保持在严格的矩形体积内  STEP_3 :: 创建模块文本 - 大型时代标签 - 简短副标题 - 精简的项目符号列表 - 除非提供，否则不包含固定事实  STEP_4 :: 在不同时代重复 - 保持一致的视觉语法 - 按时间顺序增加或转换复杂度
+
+[English]
+2x2 grid, do this for different years of vastly different eras: {argument name="topic" default="ERA_TO_CUBE_SOLVER"}  INPUT ::= [TOPIC], [ERA]  STEP_1 :: infer era identity - time period or stage - dominant materials - key tools or artifacts - social/technical/cultural context - built environment or natural environment - representative agents or figures if relevant  STEP_2 :: compress into cube - large objects define cuboid edges - medium objects build internal scenes - small objects fill gaps - top, side, and front faces remain visible - everything stays inside a strict rectangular volume  STEP_3 :: create module text - large era label - short subtitle - compact bullet list - no fixed facts unless supplied  STEP_4 :: repeat across eras - preserve identical visual grammar - increase or transform complexity chronologically
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2062903770087084107) | 2026-06-05
+
+---
+
+### 🖥️ 例 477：城市景观中治愈系的巨型动物
+
+![城市景观中治愈系的巨型动物](../images/%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82%E4%B8%AD%E6%B2%BB%E6%84%88%E7%B3%BB%E7%9A%84%E5%B7%A8%E5%9E%8B%E5%8A%A8%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一只超巨大的 {argument name="animal" default="ANIMAL"} 可爱地蜷缩在 {argument name="place" default="PLACE/OBJECT"} 上，尾巴环绕着建筑。周围的历史悠久的伦敦建筑看起来像微缩模型一样小巧。逼真的城市背景，柔和的日落时分，温暖柔和的光线，安静、舒缓且温馨可爱的氛围，照片级真实感，宁静而迷人。
+
+[English]
+A super enormous {argument name="animal" default="ANIMAL"} curled up adorably on the {argument name="place" default="PLACE/OBJECT"}, its tail wrapped around the structure. Surrounding historic London buildings appear tiny like miniature models. Realistic city setting during a soft sunset, warm gentle light, quiet soothing and heartwarming cute atmosphere, photorealistic, serene and charming.
+```
+
+**来源：** [@Sharon Riley](https://x.com/Just_sharon7/status/2062860722250596360) | 2026-06-05
+
+---
+
+### 🖥️ 例 482：火柴人驾驶员草图
+
+![火柴人驾驶员草图](../images/%E7%81%AB%E6%9F%B4%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%91%98%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 宽屏黑白手绘墨水插画，视角位于汽车前仪表盘内。画面中心仅展示一个简单的火柴人驾驶员，头戴 {argument name="hat type" default="棒球帽"}，面部表情空白中性：两个圆点眼睛、两条简单的眉毛和一张直线嘴。角色有一只手握住方向盘左侧，身体为细线条，一条对角线安全带从右上肩斜跨至左下。前景包含一个大方向盘，角色后方有一个前排驾驶座和头枕，左上方有一个后视镜，背景横跨一排后座，左下方杯架里有一个带盖的外带咖啡杯。透过车窗，绘制轻微模糊的城市街道，包含店面、停放的车辆、树木、路灯和低层建筑，以体现驾驶时的动感。使用米白色纸张背景，采用粗糙的速写线条、富有表现力的交叉排线，角色和方向盘使用粗黑轮廓线，车内空间使用较细的透视线，营造出一种平静且略显尴尬的早晨通勤氛围。无颜色、无文字、无标志、无水印。
+
+[English]
+Create a widescreen 16:9 black-and-white hand-drawn ink illustration from the perspective of the front dashboard inside a car. Show exactly one simple stick-figure driver centered in frame, wearing {argument name="hat type" default="a baseball cap"}, with a blank neutral face: two dot eyes, two simple eyebrows, and one straight mouth. The character has exactly one visible hand gripping the left side of the steering wheel, a thin stick body, and a diagonal seatbelt crossing from the upper right shoulder to the lower left. Include exactly one large steering wheel in the foreground, one front driver seat and headrest behind the character, one rearview mirror at the top left, one rear bench seat across the background, and exactly one takeaway coffee cup with a lid in a cup holder at the lower left. Through the windows, draw a lightly blurred urban street with storefronts, parked cars, trees, streetlights, and low-rise buildings to imply motion while driving. Use an off-white paper background, rough sketchbook linework, expressive crosshatching, thick black outlines on the character and steering wheel, finer perspective lines for the car interior, and a calm slightly awkward morning commute mood. No color, no text, no logos, no watermark.
+```
+
+**来源：** [@ALG∑BRA](https://x.com/CallMeAlgy/status/2062847223373672652) | 2026-06-05
+
+---
+
+### 🖥️ 例 500：哥特萝莉风格角色设定表
+
+![哥特萝莉风格角色设定表](../images/%E5%93%A5%E7%89%B9%E8%90%9D%E8%8E%89%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张信息密度极高的动漫角色鉴赏页，画面铺满一位可爱哥特萝莉塔少女的生动绘图，营造出一种狂热粉丝创作的氛围。整体感觉要达到“可爱过载”、狂热的崇拜感以及高精度的角色设计笔记效果。
+
+画布：垂直 3:4 比例肖像画布，白色纸张背景，密集拼贴布局，无边框。采用手绘速写本美学，结合水彩 / 马克笔渲染、墨水轮廓、柔和灰色阴影，并散布淡粉色爱心、蓝色点缀爱心、闪光、箭头、感叹号以及手写的日语赞美笔记。
+
+主角：一位年轻的动漫少女，名为 {argument name="character name" default="无名哥特萝莉塔少女"}，拥有 {argument name="hair color" default="光泽黑"} 的长波浪双马尾或半扎发，厚刘海，柔和腮红，大大的粉色系眼睛，以及精致如人偶般的脸庞。在几处较大的肖像中，她的脸部应刻意留白为模糊 / 遮挡的椭圆形，而较小的细节绘图中则可以展示出富有表情的眼睛和嘴巴。她身穿黑色荷叶边哥特萝莉塔裙，配有淡蓝色丝带点缀、蕾丝花边、泡泡袖、层叠裙摆、心形饰品细节，穿着白色荷叶边短袜和厚底黑色玛丽珍鞋。主色调为 {argument name="accent ribbon color" default="粉蓝色"}。氛围要极度充满爱意且可爱。
+
+布局：在画布上放置整整 20 个离散的角色 / 细节插图，略有重叠但清晰易读。请清点并包含这 20 个可见元素：1 中央全身站立姿势，手持一把打开的白色折扇；2 左上方大型半身肖像，脸部模糊；3 顶部中央小型头部及肩部肖像，脸部模糊；4 右上方优雅手部特写，配有黑色蕾丝袖口和浅色指甲；5 右上方害羞半身肖像，手指靠近嘴部，脸部模糊；6 右上方一只闪烁粉色眼睛的特写；7 左中部坐姿 Q 版，怀抱粉色毛绒玩具；8 左中部侧面半身像，展示长发和蓝色蝴蝶结；9 左下方一只粉色眼睛的特写；10 左下方抬起手势的袖口特写；11 下方中央小型半身像，聚焦于发饰和胸前丝带，脸部模糊；12 左下方大型裁剪半身肖像，脸部模糊；13 下方中央大型裁剪半身像，手靠近脸颊，脸部模糊；14 右中部胸前丝带和腰间蝴蝶结特写；15 右中部小型哭泣 Q 版头像；16 右下方小型哭泣 Q 版头像，张着嘴；17 右下方大型害羞半身像，双手遮住脸颊，脸部模糊；18 下方中右侧跪姿或坐姿半身像，手靠近嘴唇，脸部清晰，表情羞涩；19 下方中央背影，展示后脑勺发带和裙子背部细节；20 右下方微小的脸红 Q 版头像，带有泪水。
+
+手写文字内容：添加许多随意的日语手写粉丝笔记，保持装饰性和活力。包含一个巨大的左上方标题，内容为 {argument name="headline text" default="なのかが 世界一かわいい...!!!"}。同时加入散布的笔记，例如：「存在が…尊い…!!」、「この手が好きすぎる…」、「天使だよ…」、「ビジュ強すぎ問題」、「大好き」、「全身かわいすぎて無理…!!!」、「笑顔…最高!!!」、「守ってあげたい…!!!」、「横顔も好きすぎる!!!」、「リボンもフリルも完璧すぎる…」、「ハートの金具が天才的…!!!」、「もうほんとに好きすぎるっ!!!」、「だいすき!!!」、「尊すぎて語彙力消失!!!」、「可愛さ大洪水…!!!」、「なのかしか勝たん!!!」。用黑色墨水以松散的手写体书写，并配以粉色高光、箭头和爱心。
+
+视觉风格：高度精美的动漫插画与粗犷的手写注释能量相结合；细节丰富的闪亮发丝、蕾丝、荷叶边、蝴蝶结和配饰；柔和的腮红调；生动的 Q 版表情；遍布画面的粉色和蓝色爱心。页面应显得充实、混乱、充满爱意且可爱，但在中央全身人物周围保持平衡。
+
+限制：无照片写实感，无 3D 渲染，无整洁的企业风布局，无空白背景，无水印。保持拼贴画的密集度，并确保包含整整 20 个插图元素。
+
+[English]
+Goal: Create an information-dense anime character appreciation sheet filled edge-to-edge with expressive drawings of one adorable gothic-lolita girl, as if made by an obsessed fan. The overall feeling is cute overload, frantic admiration, and high-detail character design notes.
+
+Canvas: Vertical 3:4 portrait canvas, white paper background, dense collage layout with no borders. Use a hand-drawn sketchbook aesthetic with watercolor/marker rendering, ink outlines, soft gray shading, pale pink hearts, blue accent hearts, sparkles, arrows, exclamation marks, and handwritten Japanese praise notes scattered everywhere.
+
+Main character: A young anime girl named {argument name="character name" default="unnamed gothic-lolita girl"} with {argument name="hair color" default="glossy black"} long wavy twin-tail or half-up hair, thick bangs, soft blush, large pinkish eyes, and a delicate doll-like face. Her face should be intentionally left as a soft blurred/obscured oval in several larger portraits, while smaller detail drawings may show expressive eyes and mouth. She wears a black frilly gothic-lolita dress with pale blue ribbon accents, lace trim, puff sleeves, layered skirt, heart charm details, white frilled socks, and chunky black Mary Jane platform shoes. Main accent color is {argument name="accent ribbon color" default="powder blue"}. Mood is overwhelmingly affectionate and cute.
+
+Layout: Place exactly 20 discrete character/detail illustrations around the canvas, overlapping slightly but readable. Count and include these 20 visible elements: 1 central full-body standing pose holding an open white folding fan; 2 large upper-left bust portrait with blurred face; 3 small top-center head-and-shoulders portrait with blurred face; 4 top-right close-up of elegant hands with black lace cuffs and pale nails; 5 upper-right shy bust portrait with fingers near mouth and blurred face; 6 upper-right close-up of one sparkling pink eye; 7 left-middle chibi sitting while hugging a pink plush toy; 8 left-middle side-profile bust showing long hair and blue bow; 9 lower-left close-up of one pink eye; 10 lower-left close-up of a raised hand gesture with cuff; 11 lower-center small bust focused on hair bow and chest ribbon with blurred face; 12 bottom-left large cropped bust portrait with blurred face; 13 bottom-middle large cropped bust with hand near cheek and blurred face; 14 right-middle close-up of the bodice ribbon and waist bow; 15 small right-middle crying chibi head; 16 small right-lower crying chibi head with open mouth; 17 lower-right large shy bust with both hands covering cheeks and blurred face; 18 lower-center-right kneeling or seated half-body pose with hand near lips, visible face, looking bashful; 19 bottom-center back-view hair and outfit detail showing the rear hair ribbons and dress back; 20 bottom-right tiny blushing chibi face with tears.
+
+Handwritten text content: Add many casual Japanese handwritten fan notes, keeping them decorative and energetic. Include a huge top-left headline reading {argument name="headline text" default="なのかが 世界一かわいい...!!!"}. Also include scattered notes similar to: 「存在が…尊い…!!」, 「この手が好きすぎる…」, 「天使だよ…」, 「ビジュ強すぎ問題」, 「大好き」, 「全身かわいすぎて無理…!!!」, 「笑顔…最高!!!」, 「守ってあげたい…!!!」, 「横顔も好きすぎる!!!」, 「リボンもフリルも完璧すぎる…」, 「ハートの金具が天才的…!!!」, 「もうほんとに好きすぎるっ!!!」, 「だいすき!!!」, 「尊すぎて語彙力消失!!!」, 「可愛さ大洪水…!!!」, 「なのかしか勝たん!!!」. Write them loosely by hand in black ink with pink highlights, arrows, and hearts.
+
+Visual style: Highly polished anime illustration mixed with rough handwritten annotation energy; detailed shiny hair strands, lace, ruffles, bows, and accessories; soft blush tones; expressive chibi faces; pink and blue hearts throughout. The page should feel packed, chaotic, affectionate, and cute, but still balanced around the central full-body figure.
+
+Constraints: No photo realism, no 3D render, no clean corporate layout, no empty background, no watermark. Keep the collage dense and count exactly 20 illustrated elements.
+```
+
+**来源：** [@会長@中の人](https://x.com/pso2kaityo/status/2062811353296089316) | 2026-06-05
+
+---
+
+### 🖥️ 例 520：高密度动漫女高中生粉丝拼贴画
+
+![高密度动漫女高中生粉丝拼贴画](../images/%E9%AB%98%E5%AF%86%E5%BA%A6%E5%8A%A8%E6%BC%AB%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E7%B2%89%E4%B8%9D%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极高密度的动漫同人拼贴画，旨在赞美一位可爱的女高中生角色。画面呈现出混乱的“角色应援”页面风格，布满了涂鸦、爱心、闪光、手写赞美语以及同一角色的多种重复姿势。
+
+画布：竖版 3:4 插画，白色纸张背景，采用无留白的满版构图。使用温暖的手绘漫画草图风格，搭配柔和的水彩马克笔、棕色墨水轮廓、粉色强调文字以及充满活力的涂鸦注释。
+
+角色细节：重复出现的角色为 {argument name="character name" default="一位开朗的短发女高中生"}。她留着蓬松的棕色短波波头，带有刘海，戴着小巧的金色发夹，拥有琥珀棕色的大眼睛、红润的脸颊和天真活泼的表情。身穿米色大号开衫，内搭白色蕾丝领衬衫，系着蓝色丝带领结，穿着蓝色格子百褶裙、白色及膝袜和棕色乐福鞋。保持配色方案一致：米色、海军蓝、暖棕色、奶油色、金色、粉色以及黑色草图线条。
+
+布局与元素计数：包含 27 个该角色的可见形象，外加 2 个额外的细节面板。将它们排列成带有白色边框和倾斜角度的重叠贴纸样式。27 个角色形象包括：左上角 1 个非常大的面部特写，面部覆盖有矩形柔和棕色模糊块；上中偏左 1 个兴奋的半身像，张着嘴；上左偏中 1 个害羞的半身像，带有红晕；上中 1 个指向姿势，面部有柔和棕色模糊；右上角 1 个大型坐姿，面部有柔和棕色模糊；中右偏上 1 个大笑的半身像；左侧 1 个微小的愤怒 Q 版形象；思想气泡内 1 个微小的 Q 版形象；中央 1 个非常大的躯干姿势，向观众伸出手，面部有柔和棕色模糊；中央 1 个比耶姿势，眼神明亮；中右侧 1 个双手紧握姿势，面部有柔和棕色模糊；右中 1 个跪姿全身像；右侧 1 个微小的尖叫 Q 版形象；左下 1 个小型头部特写，面部有柔和棕色模糊；左下 1 个大喊的 Q 版形象；左下 1 个哭泣的 Q 版形象；下中 1 个全身姿势，向观众伸出一只张开的手掌；手掌旁 1 个微小的 Q 版形象；右下 1 个害羞的站立全身像；左下角 1 个快乐的 Q 版形象；下中 1 个哭泣的 Q 版形象；下中 1 个兴奋的 Q 版形象；下中 1 个站立全身像，面部有柔和棕色模糊；右下角 1 个微小的 Q 版形象；右下角 1 个大型面部特写，面部有柔和棕色模糊；下中附近 1 个慌乱的 Q 版形象；以及右下边缘附近 1 个微小的微笑 Q 版形象。2 个额外的细节面板为：左侧 1 对闪闪发光的琥珀色眼睛特写，以及左下角 1 个展示手部或折纸细节的小插图。
+
+文字内容：用手写的日式同人笔记、感叹号、箭头、爱心和闪光填满页面。两个最大的粉色短语应为 {argument name="main fan phrase" default="大好き!!!!!"}（位于左下中心）和 {argument name="divine praise phrase" default="神!!"}（位于右下角）。添加许多较小的手写注释，如“可爱”、“珍贵”、“天使般”、“太讨人喜欢”、“最棒”、“萌”以及各种情绪反应，主要使用黑色、粉色和紫色墨水。文字应看起来像手绘的、不规则的，并与艺术作品融为一体。
+
+视觉风格：充满活力的少女漫画插画，富有表现力的线条，柔和的赛璐珞阴影，水彩质感，贴纸拼贴层叠，前景中夸张的手部动作，可爱的 Q 版变体，红晕标记，爱心，星星，对话气泡，速度线以及微小的拟声词涂鸦。保持背景为白色，但视觉上要塞满注释。
+
+限制：禁止写实摄影，禁止 3D 渲染，禁止整洁的商业布局，禁止留白背景。保持高密度的同人拼贴感和重复的角色数量。作为最终图像的一部分，几个较大的面部应被平滑的矩形棕色模糊块遮盖。
+
+[English]
+Goal: Create an extremely dense anime fan-art collage sheet celebrating one cute schoolgirl character, like a chaotic “favorite character appreciation” page covered in doodles, hearts, sparkles, handwritten praise, and many repeated poses of the same girl.
+
+Canvas: Vertical 3:4 illustration, white paper background, edge-to-edge composition with no empty space. Use a warm hand-drawn manga sketch style, soft watercolor markers, brown ink outlines, pink accent lettering, and energetic scribbled annotations.
+
+Subject details: The repeated character is {argument name="character name" default="a cheerful short-haired schoolgirl"}. She has a fluffy short brown bob with bangs, small gold hairpins, large amber-brown eyes, rosy cheeks, and a lively innocent expression. Outfit is a beige oversized cardigan over a white lace-collar blouse, blue ribbon tie, blue plaid pleated skirt, white knee socks, and brown loafers. Keep the color palette consistent: beige, navy blue, warm brown, cream, gold, pink, and black sketch lines.
+
+Layout and counted elements: Include exactly 27 visible depictions of the same character plus 2 extra detail panels. Arrange them as overlapping sticker-like cutouts with white borders and diagonal angles. The 27 character depictions are: 1 very large cropped face at upper left with a rectangular soft brown blur covering the face; 1 small excited upper-center bust with open mouth; 1 small shy upper-left-center bust with blush; 1 upper-center pointing pose with a soft brown blurred face; 1 large seated pose at upper right with a soft brown blurred face; 1 laughing upper-middle-right bust; 1 tiny angry chibi on the left; 1 tiny chibi inside a thought bubble; 1 very large central torso pose reaching toward the viewer with a soft brown blurred face; 1 central peace-sign pose with bright eyes; 1 middle-right clasped-hands pose with a soft brown blurred face; 1 right-middle kneeling full-body pose; 1 tiny right-side chibi shouting; 1 small lower-left head with a soft brown blurred face; 1 lower-left chibi yelling; 1 lower-left crying chibi; 1 lower-center full-body pose reaching an open palm toward the viewer; 1 tiny chibi beside that hand; 1 lower-right standing bashful full-body pose; 1 bottom-left happy chibi; 1 bottom-center crying chibi; 1 bottom-center excited chibi; 1 bottom-center full-body standing pose with a soft brown blurred face; 1 bottom-right tiny chibi; 1 bottom-right cropped large face with a soft brown blurred face; 1 small flustered chibi near the lower-middle notes; and 1 tiny smiling chibi near the lower-right margin. The 2 extra detail panels are: 1 close-up pair of sparkling amber eyes on the left side and 1 small lower-left inset showing a hand or folded-paper detail.
+
+Text content: Fill the page with handwritten Japanese-style fan notes, exclamation marks, arrows, hearts, and sparkles. The two biggest pink phrases should be {argument name="main fan phrase" default="大好き!!!!!"} across the lower-left center and {argument name="divine praise phrase" default="神!!"} on the lower-right. Add many smaller handwritten annotations such as cute, precious, angelic, too lovable, best, adorable, and emotional reactions, mostly in black, pink, and purple ink. Text should look hand-drawn, uneven, and integrated into the artwork.
+
+Visual style: Energetic shoujo manga illustration, expressive linework, soft cel shading, watercolor texture, sticker collage layering, exaggerated hands in the foreground, cute chibi variations, blush marks, hearts, stars, speech bubbles, speed lines, and tiny sound-effect scribbles. Keep the background white but visually packed with annotations.
+
+Constraints: No realistic photography, no 3D rendering, no clean corporate layout, no empty background. Preserve the dense fan-collage feeling and the repeated-character count. Several larger faces should be covered by smooth rectangular brown blur blocks as part of the final image.
+```
+
+**来源：** [@Ailast公式 - AIでアニメイラストを作ろう！ -](https://x.com/Ailastapp/status/2062753181994762681) | 2026-06-05
+
+---
+
+### 🖥️ 例 540：浅蓝色运动套装时尚人像
+
+![浅蓝色运动套装时尚人像](../images/%E6%B5%85%E8%93%9D%E8%89%B2%E8%BF%90%E5%8A%A8%E5%A5%97%E8%A3%85%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的高定全身人像，画面中 {argument name="character name" default="一位年轻女性"} 在梦幻的摄影棚场景中向前行走。她穿着一套协调的 {argument name="tracksuit color" default="浅蓝色"} 运动套装：带有白色袖条和罗纹袖口的拉链夹克，搭配同款带有白色侧条和抽绳腰部的慢跑裤，内搭一件修身白色短款背心，戴着一顶带有精致刺绣细节的同色系棒球帽，脚穿干净的白蓝配色运动鞋。她一手提着一个小巧且有质感的 {argument name="handbag color" default="蓝色"} 手提包，包身配有短手柄和链条肩带，另一只手抬至脸部附近，做出韩式比心手势。棕色长发从帽檐下自然垂落，妆容自然精致，颈间佩戴着一条细致的项链。构图上，将她的全身置于画面中心偏左位置，双腿自然交叉，呈现出迈步向前的优雅自信姿态。背景右侧填充着同一位女性面部的柔焦特写，与朦胧的蓝灰色调融为一体，呈现出干净的杂志大片质感。在她的鞋子周围添加白色地雾，营造空气感，并点缀微妙的花卉元素：画面中需精确呈现四簇花丛，左下方为一簇大型蓝白花丛，左侧中部为一小枝白色花束，右下方为一簇蓝白花丛，右侧中部为一小枝白色花束。采用柔和的漫射光，整体色调为柔和的蓝色，浅景深，呈现出光泽感的时尚杂志质感，布料纹理真实，主体全身清晰，背景梦幻虚化。人脸区域需预留空间以供用户上传人脸参考，画面中避免出现文字、Logo、水印、多余人物或杂乱元素。
+
+[English]
+Create a pristine high-fashion full-body portrait of {argument name="character name" default="a young woman"} walking forward in a dreamy studio setting. She wears a coordinated {argument name="tracksuit color" default="light blue"} sporty tracksuit: zip-up jacket with white sleeve stripes and ribbed cuffs, matching jogger pants with white side stripes and drawstring waist, a fitted white cropped tank top, a matching baseball cap with subtle embroidered detail, and clean white-and-light-blue sneakers. She carries a small structured {argument name="handbag color" default="blue"} handbag with a short top handle and chain strap in one hand, while the other hand is raised near her face making a Korean finger-heart gesture. Long soft brown hair falls from under the cap, natural glam styling, delicate necklace visible. Compose her full body slightly left of center, legs crossed naturally as if stepping forward, elegant confident pose. The background should feature a large softly blurred close-up portrait of the same woman’s face filling the right side, blended into misty pale blue-gray tones, with a clean editorial look. Add white ground fog around her shoes, airy haze, and subtle floral accents: exactly four visible flower clusters, one large pale blue-and-white cluster at lower left, one small white sprig at mid-left, one pale blue-and-white cluster at lower right, and one small white sprig at mid-right. Use soft diffused lighting, pastel blue palette, shallow depth of field, glossy fashion-magazine finish, realistic fabric texture, crisp full-body subject against dreamy blurred background. Keep the face area suitable for a user-provided face reference and avoid text, logos, watermark, extra people, or clutter.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2062715799215944160) | 2026-06-05
+
+---
+
+### 🖥️ 例 543：哥特式紫罗兰王座幻想
+
+![哥特式紫罗兰王座幻想](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E7%B4%AB%E7%BD%97%E5%85%B0%E7%8E%8B%E5%BA%A7%E5%B9%BB%E6%83%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 3:4 竖构图的暗黑哥特幻想动漫插画。描绘 {argument name="character name" default="Riu"}，一个身穿黑衣、神情忧郁的小男孩，蜷缩着身体坐在废墟般大教堂宫殿正中央的一张巨大华丽高背王座上。使用深邃的 {argument name="primary color palette" default="黑色、紫罗兰色、靛蓝色和冷薰衣草色"} 色调，强调高对比度、闪烁的尘埃、反光的湿润石材以及昏暗的魔法烛光。场景应营造出被诅咒的皇家梦境氛围：左右两侧矗立着高耸的楼梯，背景中布满了破碎的拱门和尖塔，王座上方远处出现一个带有白色翅膀和光环的微小发光天使剪影。背景上方叠加着一张巨大的幽灵面孔，有着长长的黑发和忧郁的紫罗兰色大眼睛，如同透明的幻影，透过悬挂的黑色丝线和锁链向下凝视。画面前景和中景必须包含以下道具：正中央 1 张超大王座，王座上 1 名坐着的儿童，左下前景 1 个大型黑色猫咪毛绒玩具或玩偶，右下前景 1 个带有皇冠状装饰的破碎头骨，王座右侧 1 个圆形鸟笼，底部 1 个摆放着多个黑白棋子的国际象棋区域，左侧 1 架天平，左上方 1 个心形悬挂装饰，右上方 1 个新月形悬挂装饰，以及场景周围悬挂或倚靠的至少 4 个破碎的空相框。添加大量细长的悬挂锁链、绳索、珠子、黑玫瑰、散落的花瓣、破碎的玻璃、水洼、紫色火焰的蜡烛以及细小的闪光颗粒。光影应具有戏剧性和电影感，烛光与远处宫殿发出的紫罗兰色光芒交相辉映，营造出深邃的阴影、精致的蕾丝细节、华丽的巴洛克造型以及忧伤的哥特氛围。画面中不得包含可识别的文字、水印或现代物品。
+
+[English]
+Create a dark gothic fantasy anime illustration in a vertical 3:4 composition. Depict {argument name="character name" default="Riu"}, a small melancholic boy in black clothing, sitting curled forward on an enormous ornate high-backed throne at the exact center of a ruined cathedral-like palace. Use a deep {argument name="primary color palette" default="black, violet, indigo, and cold lavender"} palette with high contrast, glittering dust, reflective wet stone, and dim magical candlelight. The scene should feel like a cursed royal dream chamber: towering staircases rise on both left and right, broken arches and spires fill the background, and a tiny glowing angelic silhouette with white wings and a halo appears far above the throne. A huge ghostly face with long dark hair and large sad violet eyes overlays the upper background like a transparent apparition, gazing down through hanging black threads and chains. Include exactly these prominent foreground and midground props: 1 oversized throne at center, 1 seated child on the throne, 1 large black cat plush or doll in the lower-left foreground, 1 cracked skull with crown-like ornament in the lower-right foreground, 1 round birdcage to the right of the throne, 1 chessboard area at the bottom with multiple black and white chess pieces, 1 balance scale on the left, 1 heart-shaped hanging ornament in the upper-left, 1 crescent-moon hanging ornament in the upper-right, and at least 4 broken empty picture frames suspended or leaning around the scene. Add many thin dangling chains, strings, beads, black roses, scattered petals, shattered glass, puddles, candles with purple flames, and small sparkling particles. Lighting should be dramatic and cinematic, with violet glow from candles and the distant palace, deep shadows, intricate lace-like details, ornate baroque shapes, and a sorrowful gothic atmosphere. No readable text, no watermark, no modern objects.
+```
+
+**来源：** [@みつ](https://x.com/r8hlw/status/2062704078967423486) | 2026-06-05
+
+---
+

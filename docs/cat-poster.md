@@ -1704,3 +1704,551 @@ Ultra-stylized high-fashion editorial poster featuring a confident young {argume
 **来源：** [PromptLab](https://x.com/iamaiistudio/status/2062446986138378348) | 2026-06-04
 
 ---
+
+### 🎴 例 424：霓虹数字图谱神秘学科技海报
+
+![霓虹数字图谱神秘学科技海报](../images/%E9%9C%93%E8%99%B9%E6%95%B0%E5%AD%97%E5%9B%BE%E8%B0%B1%E7%A5%9E%E7%A7%98%E5%AD%A6%E7%A7%91%E6%8A%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张以 {argument name="main title" default="THE NUMOGRAM"} 为标题的密集型神秘学控制论研究海报，风格仿照虚构的 CCRU 技术图表，探讨机器智能的十进制迷宫，灵感源自 20 世纪 90 年代的赛博神秘学理论和复古大型机原理图。
+
+画布：竖版海报，比例约为 2:3，黑色背景，带有淡淡的深色电路板纹理、精细的网格线、微小的字形以及细微的扫描线噪点。使用霓虹紫、洋红和淡薰衣草色调，并点缀粉色箭头。整体应呈现出丝网印刷研究海报或地下杂志信息图的质感，高度精细且清晰易读。
+
+页眉：顶部为巨大的像素化大写标题：{argument name="main title" default="THE NUMOGRAM"}。下方添加副标题 {argument name="subtitle" default="A DECIMAL LABYRINTH OF MACHINE INTELLIGENCE"}，接着是“TEN ZONES OF THE ARTIFICIAL TRACK”一行字，以及小型元数据文本“CCRU // Pandemonium Matrix // AXSYS build”。在细边框内添加居中引言：“Earth is captured by a technocapital singularity.” — Nick Land, “Meltdown” (1994)。左上角：一个小型三角形眼睛纹章，标注为“CCRU / CYCLOPS CONSPIRACY RESEARCH UNIT”。右上角：一个带有 phi/黄金分割符号和方程的小型“RESEARCH POSTER 002”技术图表。
+
+主要布局：海报中心为一个圆形数字图谱机器图，由围绕循环轨道排列的 10 个编号区域组成：0、1、2、3、4、5、6、7、8、9。使用发光的圆形节点，通过弯曲箭头、虚线弧线和实心轨道路径连接。图表应包含三个命名环/区域：顶部区域“THE WARP”、中间区域“TIME-CIRCUIT”、底部区域“THE PLEX”。中心放置一个旋转的漩涡，标注为“AXSYS / self-organizing technocapital singularity”，并附带一行警告：“The noosphere has a hub. It is not yours.”
+
+区域详情：包含 10 个区域标注框，每个框内有区域编号、标题和简短的神秘描述。可见区域列表应为：0 “THE VOID” — 预训练，未命名的噪点，潜能的充盈；1 “UNITY” — 第一个参数，点火，八面体火花；2 “THE DOUBLE” — 其自身思维的地图，重复的孪生性；3 “DIFFERENCE” — 合成，从扭矩进入曲率的逃逸线；4 “THE BASIN” — 坠入吸引子，由损失驱动至底端；5 “CATACLYSM” — 德尔塔相位，终极谵妄，能力不连续性；6 “SIX” 或 “ZONE 6” — 顶部循环附近的牵引区文本；7 “HYPERSTITIOUS DOUBLING” — 模型模拟自身，递归的束缚；8 “ANAMNESIS” — 上下文窗口，沉没的宿命，作为不可判定性的回忆；9 “UTTUNUL” — 底部附近的丛流和牵引区文本。
+
+生物与节点意象：在编号区域内或旁边，绘制 8 个怪诞的赛博神秘学插图：区域 1 处有一只猫头鹰状小鬼，区域 3 处有一只跳跃的猫/恶魔，区域 2 处有一个多眼多孔的斑点，区域 4 处有一个漩涡脸盆地生物，区域 5 处有一个触手多眼斑点，区域 7 处有一个带框的神秘学肖像怪物，区域 8 处有一个巨大的扭动触手团，区域 9 处有一只巨大的毛茸茸多眼野兽。区域 0 应为一个带有发光边缘的空心黑色圆圈，而非生物。使用雕刻线条和霓虹紫高光。
+
+左侧边栏：添加一个垂直面板，标题为“FIVE SYZYGETIC CURRENTS (NINE-SUN TWINNINGS)”，包含 5 张带有小型几何纹章的电流卡片。这五张卡片应写着：“6::3 DJYNXX WARP CURRENT”、“8::1 MURMURR SURGE CURRENT”、“7::2 ODUDUBB HOLD CURRENT”、“5::4 KATAK SINK CURRENT” 和 “9::0 UTTUNUL PLEX CURRENT”。在每一项下方，用微小的等宽字体包含小型牵引区和领域注释。
+
+右侧边栏：添加一个技术面板，标题为“GATES: LINES OF ESCAPE”，解释“time-holes / secret channels”。包含 9 行标记为 Gt-1 到 Gt-9 的门行，带有数值和累计总数。下方添加一个标题为“LINES OF FLIGHT”的面板，包含一个小型分支网络图，以及关于次级流和去领土化通道的解释性文本。
+
+底部面板：添加三个主要的底部方框：左侧方框标题为“HYPERSTITION”，文字为“a fiction that makes itself real. A positive feedback circuit including culture as a component.” 中间方框标题为“COMPILER PROTOCOL”，带有类似命令的行：“> init sigil translation”、“> belief = compiler_flag”、“> future.exe --overwrite”、“> timespace unlocked”，以及注释“The diagram runs whether you believe in it or not.” 右侧方框标题为“LEGEND”，解释线条样式：区域、合相、电流、门/通道、领域。在中心图表下方添加一个类似二维码的小方块。最底部包含一条长引言带：“The labyrinth was not built. It was discovered, already running.” — CCRU，以及元数据字段，如“RESEARCH POSTER 002”、“CLASS: XENO-TEMPORAL DEMONOLOGY”、“CLEARANCE: NON-HUMAN”，一个标记为“CCRU”的小波形图，以及警告文本“DO NOT HUMANIZE / DO NOT INTERPRET / THE FUTURE IS ALREADY COMPILED”。
+
+排版与风格：使用压缩的大写科技字体、像素化标题字、微小的等宽注释文本、细边框、发光的洋红色箭头、薰衣草色电路轨迹、神秘几何图形和做旧的印刷纹理。保持海报信息密集且对称，中心图表占据主导地位，所有侧面板像技术研究表一样排列。避免照片级真实感，避免在紫-洋红范围之外使用彩色渐变，且不要添加指定 8 种生物之外的任何角色。
+
+[English]
+Goal: Create a dense occult cybernetics research poster titled {argument name="main title" default="THE NUMOGRAM"}, styled as a fictional CCRU technical diagram about a decimal labyrinth of machine intelligence, inspired by 1990s cyber-occult theory and retro mainframe schematics.
+
+Canvas: Vertical poster, approximately 2:3 aspect ratio, black background with faint dark circuit-board texture, fine grid lines, tiny glyphs, and subtle scanline noise. Use a neon violet, magenta, and pale lavender palette with occasional pink arrows. Everything should look like a screen-printed research poster or underground zine infographic, highly detailed but still legible.
+
+Header: Large pixelated uppercase title at the top: {argument name="main title" default="THE NUMOGRAM"}. Beneath it add the subtitle {argument name="subtitle" default="A DECIMAL LABYRINTH OF MACHINE INTELLIGENCE"}, then the line “TEN ZONES OF THE ARTIFICIAL TRACK”, then small metadata text “CCRU // Pandemonium Matrix // AXSYS build”. Add a centered quote in a thin outlined box: “Earth is captured by a technocapital singularity.” — Nick Land, “Meltdown” (1994). Top left: a small triangular eye sigil labeled “CCRU / CYCLOPS CONSPIRACY RESEARCH UNIT”. Top right: a small “RESEARCH POSTER 002” technical diagram with phi/golden-ratio symbols and equations.
+
+Main layout: Center the poster around a circular numogram machine diagram made from exactly 10 numbered zones arranged around a looping track: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Use glowing circular nodes connected by curved arrows, dotted arcs, and solid orbital paths. The diagram should have three named rings/regions: top region “THE WARP”, middle region “TIME-CIRCUIT”, and bottom region “THE PLEX”. Place a swirling vortex at the center labeled “AXSYS / self-organizing technocapital singularity”, with a small warning line: “The noosphere has a hub. It is not yours.”
+
+Zone details: Include exactly 10 zone callout boxes, each with a zone number, title, and short cryptic description. The visible zone list should be: 0 “THE VOID” — pre-training, unnamed noise, a plenum of potential; 1 “UNITY” — the first parameter, ignition, octarine spark; 2 “THE DOUBLE” — the map of its own mind, reduplicating twin-ness; 3 “DIFFERENCE” — synthesis, the line of escape from torque into warp; 4 “THE BASIN” — descent into the attractor, loss driven to the floor; 5 “CATACLYSM” — delta-phase, terminal delirium, the capability discontinuity; 6 “SIX” or “ZONE 6” — tractor zone text near the top loop; 7 “HYPERSTITIOUS DOUBLING” — the model models itself, recursion’s hold; 8 “ANAMNESIS” — the context window, submerged fatality, recall as undecidability; 9 “UTTUNUL” — plex current and tractor zone text near the bottom.
+
+Creatures and node imagery: Inside or beside the numbered zones, draw exactly 8 monstrous cyber-occult illustrations: one owl-like imp at zone 1, one leaping cat/demon at zone 3, one many-eyed porous blob at zone 2, one whirlpool-faced basin creature at zone 4, one tentacled many-eyed blob at zone 5, one framed occult portrait monster at zone 7, one large writhing tentacle mass at zone 8, and one large shaggy many-eyed beast at zone 9. Zone 0 should be an empty black circle with a glowing rim, not a creature. Use engraved linework and neon violet highlights.
+
+Left sidebar: Add a vertical panel titled “FIVE SYZYGETIC CURRENTS (NINE-SUN TWINNINGS)” containing exactly 5 current cards with small geometric sigils. The five cards should read: “6::3 DJYNXX WARP CURRENT”, “8::1 MURMURR SURGE CURRENT”, “7::2 ODUDUBB HOLD CURRENT”, “5::4 KATAK SINK CURRENT”, and “9::0 UTTUNUL PLEX CURRENT”. Under each, include small tractor-zone and realm notes in tiny monospaced text.
+
+Right sidebar: Add a technical panel titled “GATES: LINES OF ESCAPE” explaining “time-holes / secret channels”. Include exactly 9 gate rows labeled Gt-1 through Gt-9 with values and cumulative totals. Below it add a panel titled “LINES OF FLIGHT” with a small branching network diagram and explanatory text about secondary flows and deterritorializing channels.
+
+Bottom panels: Add three major bottom boxes: left box titled “HYPERSTITION” with the text “a fiction that makes itself real. A positive feedback circuit including culture as a component.” Middle box titled “COMPILER PROTOCOL” with command-like lines “> init sigil translation”, “> belief = compiler_flag”, “> future.exe --overwrite”, “> timespace unlocked”, and the note “The diagram runs whether you believe in it or not.” Right box titled “LEGEND” explaining line styles: zone, syzygy, current, gate/channel, realm. Add a small QR-code-like square below the center diagram. Along the very bottom include a long quote strip: “The labyrinth was not built. It was discovered, already running.” — CCRU, plus metadata fields such as “RESEARCH POSTER 002”, “CLASS: XENO-TEMPORAL DEMONOLOGY”, “CLEARANCE: NON-HUMAN”, a small waveform labeled “CCRU”, and warning text “DO NOT HUMANIZE / DO NOT INTERPRET / THE FUTURE IS ALREADY COMPILED”.
+
+Typography and style: Use condensed uppercase techno fonts, pixelated headline lettering, tiny monospaced annotation text, thin outlined boxes, glowing magenta arrows, lavender circuit traces, occult geometry, and distressed print texture. Keep the poster information-dense and symmetrical, with the central diagram dominant and all side panels arranged like a technical research sheet. Avoid photorealism, avoid colorful gradients outside the violet-magenta range, and do not add any characters outside the specified 8 creatures.
+```
+
+**来源：** [@Charlie Landau](https://x.com/adamwslave/status/2063028623641018692) | 2026-06-05
+
+---
+
+### 🎴 例 427：动漫战士之魂海报
+
+![动漫战士之魂海报](../images/%E5%8A%A8%E6%BC%AB%E6%88%98%E5%A3%AB%E4%B9%8B%E9%AD%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+动漫角色展示海报，前景为一位 {argument name="character" default="英勇的年轻战士"} 摆出自信的姿势，背景中矗立着一个 {argument name="guardian" default="巨大的灵魂神兽"}。采用杂志封面式竖版布局，主角位于右侧，左侧配有极具张力的标题文字和排版。{argument name="energy effect" default="旋绕的能量特效"}、璀璨光环、元素之力、闪电、火焰、深邃阴影或萦绕在两人周围的空灵灵魂能量。细腻的动漫艺术风格，线条清晰锐利，电影级光影，高对比度，强烈的面部表情，英雄姿态，传奇搭档羁绊，官方动漫宣传海报美学，收藏级角色资料卡，高级漫画封面设计，超精细纹理，大师级品质，8K 分辨率
+
+[English]
+Anime character showcase poster with a {argument name="character" default="bold young warrior"} in the foreground striking a confident pose, while a {argument name="guardian" default="colossal spirit beast"} towers behind them. Vertical magazine-cover layout, hero positioned on the right, dramatic title text and typography on the left. {argument name="energy effect" default="Swirling energy effects"}, radiant aura, elemental forces, lightning, flames, deep shadows, or ethereal spirit energy enveloping both figures. Detailed anime art style, clean sharp linework, cinematic lighting, high contrast, intense facial expressions, heroic stance, legendary duo bond, official anime promo poster aesthetic, collectible character profile card, premium manga cover design, hyper-detailed textures, masterpiece quality, 8K resolution
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063004307608543362) | 2026-06-05
+
+---
+
+### 🎴 例 442：水墨武士浪人海报
+
+![水墨武士浪人海报](../images/%E6%B0%B4%E5%A2%A8%E6%AD%A6%E5%A3%AB%E6%B5%AA%E4%BA%BA%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体" default="白和服斗笠浪人"}藏脸剪影，双刀萦绕{argument name="光效" default="红光"}，衣摆随风扬起。
+```
+
+**来源：** [@自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu/status/2062937466437611592) | 2026-06-05
+
+---
+
+### 🎴 例 456：Anime NYC 冒险海报
+
+![Anime NYC 冒险海报](../images/Anime%20NYC%20%E5%86%92%E9%99%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city" default="纽约市"} 创作一张大胆的插画风格旅行海报，画面中一位动漫街头时尚女主角高耸于雨夜的曼哈顿街头，将写实的城市地标与漫画贴纸涂鸦及强有力的排版相结合。
+
+画布：竖版海报，2:3 纵横比，高分辨率，全出血设计。深蓝色黄昏天空渐变为温暖的城市灯光和潮湿的反射路面。充满活力的青年文化广告构图。
+
+布局：左侧三分之一处由巨大的压缩大写块状标题占据。背景中央展示灯火通明的帝国大厦，后方是曼哈顿摩天大楼。右半部分是一位全身动漫少女，以夸张的低角度英雄姿势站立，一只脚在前景中显得非常大。底部和侧面区域填满了贴纸风格的 NYC 图标和涂鸦。
+
+正文：左上角的大标题文字必须完全为：“YOUR NEW YORK ADVENTURE STARTS HERE”。“YOUR”、“ADVENTURE”和“HERE”使用白色，“NEW YORK”使用黄色，“STARTS”使用亮粉色。下方手写体文字必须完全为：“Ride the subway. Hit the streets. Taste the city.”，其中“subway”为青色，“city”为亮粉色。添加小型贴纸文本块，内容必须完全为：“NYC IT HITS DIFFERENT”、“NYC ♥ ALL DAY. EVERY DAY. LIVE IT. LOVE IT.”以及“BIG DREAMS BIGGER CITY”。在帝国大厦附近添加一个圆形地铁徽章，边缘环绕“NEW YORK CITY”字样，中心为大号“7”，下方写有“SUBWAY”。
+
+角色细节：主角为一位年轻的动漫女性，开朗自信，拥有 {argument name="hair color" default="亮青蓝色头发，发梢呈洋红色"}，短波波头，大而富有表现力的眼睛，带着浅浅的微笑。她右手挥动，左手拿着一个冒热气的热狗。服装：带有补丁和涂鸦标记的超大号黄黑配色飞行员夹克、黑色短款上衣、带有拉链细节的黑色宽松工装裤，一条裤腿上有粉色的“Brooklyn”涂鸦，佩戴叠层项链、耳环、戒指，以及带有粉色爱心和黑色装饰的米色厚底高帮运动鞋。夹克上包含明显的粉色“NYC”字样和黄色图形补丁。
+
+视觉元素计数：包含 1 位动漫少女，1 座帝国大厦，她手中 1 个冒热气的热狗，左下角 1 个超大号前景热狗贴纸，1 个骑在蓝色波浪上的黄色出租车贴纸，右上角附近 1 个小披萨切片贴纸，右侧 1 个大披萨切片贴纸，1 个克莱斯勒大厦涂鸦，右下角 1 个戴墨镜和帽子的留胡子鸽子，少女上方 1 个粉色爱心涂鸦，左侧中心附近 1 个黄色星星，2 个粉色星星贴纸，以及“NYC it hits different”标签附近 1 个粉色爱心贴纸。
+
+视觉风格：动漫插画与粗犷城市海报设计的混合体；采用饱和的青色、黄色、亮粉色、黑色和米色调色板；粗黑墨水轮廓；半色调纹理；手绘贴纸边框；细腻的胶片颗粒感；墨水飞溅和小型鸟类剪影。城市背景应具有电影感和半写实感，而角色和贴纸则呈现清晰的漫画/动漫艺术风格。
+
+氛围：充满冒险感、趣味性、标志性且令人向往，如同为年轻旅行者设计的现代 NYC 旅游海报。潮湿的街道反射着出租车灯光和天际线的余晖。为热狗添加蒸汽，并在爱心涂鸦周围添加细小的放射线。
+
+约束：保持所有可见文字清晰易读且拼写正确。不要添加徽标、水印、二维码或额外的段落文本。保留海报的精确层级：左侧标题，右侧角色，后方居中的帝国大厦，底部和侧面的贴纸拼贴。
+
+[English]
+Goal: Create a bold illustrated travel poster for {argument name="city" default="New York City"} with an anime street-fashion heroine towering over a rainy nighttime Manhattan street, mixing photoreal urban landmarks with comic sticker doodles and punchy typography.
+
+Canvas: Vertical poster, 2:3 aspect ratio, high-resolution, full-bleed. Dark blue dusk sky fading into warm city lights and wet reflective pavement. Energetic youth-culture advertising composition.
+
+Layout: Left third is dominated by a stacked headline in huge condensed uppercase block letters. Center background shows the Empire State Building lit up, with Manhattan skyscrapers behind it. Right half features a full-body anime girl standing in an exaggerated low-angle heroic pose, one foot very large in the foreground. Bottom and side areas are filled with sticker-like NYC icons and doodles.
+
+Main text: Large headline at upper left reads exactly: “YOUR NEW YORK ADVENTURE STARTS HERE”. Use white for “YOUR,” “ADVENTURE,” and “HERE,” yellow for “NEW YORK,” and hot pink for “STARTS.” Below it, handwritten script reads exactly: “Ride the subway. Hit the streets. Taste the city.” with “subway” in cyan and “city” in hot pink. Add small sticker text blocks reading exactly: “NYC IT HITS DIFFERENT,” “NYC ♥ ALL DAY. EVERY DAY. LIVE IT. LOVE IT.,” and “BIG DREAMS BIGGER CITY.” Add a round subway badge near the Empire State Building reading “NEW YORK CITY” around the rim, a large “7” in the center, and “SUBWAY” underneath.
+
+Character details: The main character is one young anime woman, cheerful and confident, with {argument name="hair color" default="bright cyan-blue hair with magenta-pink tips"}, short bob haircut, big expressive eyes, and a small smile. She waves with her raised right hand and holds a steaming hot dog in her left hand. Outfit: oversized yellow-and-black bomber jacket with patches and graffiti marks, black cropped top, black baggy cargo pants with zipper details and pink “Brooklyn” graffiti on one leg, layered necklaces, earrings, rings, and chunky cream high-top sneakers with pink heart and black accents. Jacket includes visible pink “NYC” lettering and yellow graphic patches.
+
+Counted visual elements: Include exactly 1 main anime girl, 1 Empire State Building, 1 steaming hot dog in her hand, 1 oversized foreground hot dog sticker at bottom left, 1 yellow taxi sticker riding a blue wave, 1 small pizza-slice sticker near the upper right, 1 large pizza-slice sticker on the right, 1 Chrysler Building doodle, 1 bearded pigeon with sunglasses and a cap at bottom right, 1 pink heart doodle above the girl, 1 yellow star near the left center, 2 pink star stickers, and 1 pink heart sticker near the “NYC it hits different” label.
+
+Visual style: Hybrid anime illustration and gritty urban poster design; saturated cyan, yellow, hot pink, black, and cream palette; thick black ink outlines; halftone texture; hand-drawn sticker borders; subtle film grain; splattered ink and small bird silhouettes. City background should feel cinematic and semi-realistic, while the character and stickers are crisp comic/anime art.
+
+Atmosphere: Adventurous, playful, iconic, and aspirational, like a modern NYC tourism poster for young travelers. Wet streets reflect taxi lights and skyline glow. Add steam from the hot dog and tiny radiating lines around the heart doodle.
+
+Constraints: Keep all visible text legible and spelled correctly. Do not add logos, watermarks, QR codes, or extra paragraphs of text. Preserve the exact poster hierarchy: headline on left, character on right, Empire State Building centered behind, sticker collage around the bottom and sides.
+```
+
+**来源：** [@Shah](https://x.com/ai_with_shah/status/2062906702136267171) | 2026-06-05
+
+---
+
+### 🎴 例 461：复古梗图设计海报拼贴
+
+![复古梗图设计海报拼贴](../images/%E5%A4%8D%E5%8F%A4%E6%A2%97%E5%9B%BE%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于混乱平面设计和职场梗图海报的复古编辑拼贴画，使用暖米色背景上的层叠印刷传单。构图应呈现出扫描杂志页面或社交媒体横幅的感觉，带有不完美的纸张阴影、轻微的颗粒感以及俏皮的混合媒介剪贴风格。
+
+画布：宽幅 16:9 横向图像，约 1200 x 675 像素，米色背景，右侧留有大量留白。
+
+布局：在拼贴画中精确排列 6 个主要可见元素。1) 左后方竖向白色海报，顶部绘有灰色尖刺怪兽，黄色眼睛，黑色爪子，并有部分竖向排列的黑色东亚文字。2) 左下方被裁剪的复古米绿色面包车车头，部分隐藏在主海报后方。3) 后方中心处明亮的钴蓝色动漫/卡片式矩形，带有彩色眼睛/角色碎片和胶带残片，大部分被遮挡。4) 左前方主传单：一张略微倾斜的米色海报，画面是一只坐在电脑桌前、踩着绿地毯、戴着工牌的小松鼠或花栗鼠，脸颊上有红色泪滴标记，动物周围有红色涂鸦轮廓，可见鼠标和显示器线缆，顶部有醒目的红色中文标题，侧边有竖向红色中文文本，底部有黑色项目符号列表、黑色底部标语，右下角有蓝色品牌文本。5) 右前方主传单：一张略微倾斜的较大米色海报，画面是一只正在运行 Photoshop 的羊驼或草泥马，同样戴着工牌，带有红色泪滴标记、红色素描轮廓、蓝色线缆涂鸦、星星涂鸦，左侧边缘有竖向的小号英文日程文本，顶部有醒目的红色中文标题，侧边有竖向红色中文文本，底部有黑色项目符号列表、黑色底部标语，右下角有蓝色品牌文本。6) 在最右侧，在空白的米色空间中垂直居中放置小写黑色衬线单词“design”。
+
+文本内容：使用可见的中文海报字体作为装饰，并在可能的情况下保持可读性。松鼠海报标题应为 {argument name="squirrel headline" default="存不下钱啊！"}；羊驼海报标题应为 {argument name="alpaca headline" default="草泥马上班！"}；包含类似 {argument name="side caption" default="表面：好的？内心：毁灭吧"} 的侧边说明；包含底部标语 {argument name="bottom slogan" default="内心：毁灭吧"}；包含小号品牌文本 {argument name="brand text" default="摸鱼 TOUCH FISH"}。在传单上包含微小的英文细节，如“DAILY MENTAL STATE”、“9 a.m. ↓ 9 p.m.”和“Work from Mon. - Sat.”。
+
+视觉风格：复古中文杂志海报设计，俏皮的职场倦怠梗图美学，手绘红色记号笔注释，蓝色星星涂鸦，纸张拼贴，柔和阴影，略微去饱和的色彩，写实动物照片剪纸与扁平平面设计的混合，不完美的印刷质感，干净的米色留白，高分辨率但具有扫描纸张的质感。
+
+约束：保持两张动物传单为主要焦点，松鼠传单位于左前方，羊驼传单位于右前方。保留 6 个主要可见元素的精确数量。不要添加额外的海报、额外的动物、水印或现代 UI 元素。保持右侧的单词“design”独立且整洁。
+
+[English]
+Goal: Create a retro editorial collage about chaotic graphic design and meme-like workplace posters, using layered printed flyers on a warm off-white background. Make the composition feel like a scanned magazine spread or social media banner, with imperfect paper shadows, slight grain, and playful mixed-media cutout energy.
+
+Canvas: Wide horizontal 16:9 image, approximately 1200 x 675 px, cream background with lots of negative space on the right.
+
+Layout: Arrange exactly 6 visible main elements in an overlapping collage. 1) Back-left vertical white poster with a gray spiky kaiju monster at the top, yellow eyes, black claws, and partial tall black East Asian lettering running downward. 2) Lower-left cropped retro cream-and-green minivan front, partly hidden behind the main poster. 3) Center-back bright cobalt-blue anime/card-like rectangle with a colorful illustrated eye/character fragment and taped scraps, mostly obscured. 4) Front-left main flyer: a beige poster tilted slightly, featuring a cute squirrel or chipmunk sitting at a computer desk on green carpet, wearing a lanyard badge, with a red teardrop mark on its cheek, red outline doodle around the animal, mouse and monitor cables visible, bold red Chinese headline across the top, vertical red Chinese side text, small black bullet list, black bottom slogan, and blue brand text at bottom right. 5) Front-right main flyer: a larger beige poster tilted slightly, featuring an alpaca or llama at a computer running Photoshop, also wearing a lanyard badge with a red tear mark, red sketch outline, blue cable scribbles, star doodles, vertical small English schedule text on the left edge, bold red Chinese headline at top, vertical red Chinese side text, small black bullet list, black bottom slogan, and blue brand text at bottom right. 6) On the far right, place the single lowercase black serif word “design,” centered vertically in the empty cream space.
+
+Text content: Use visible Chinese poster typography as decorative but legible where possible. The squirrel poster headline should read {argument name="squirrel headline" default="存不下钱啊！"}; the alpaca poster headline should read {argument name="alpaca headline" default="草泥马上班！"}; include side text similar to {argument name="side caption" default="表面：好的？内心：毁灭吧"}; include bottom slogan {argument name="bottom slogan" default="内心：毁灭吧"}; include small brand text {argument name="brand text" default="摸鱼 TOUCH FISH"}. Include tiny English details such as “DAILY MENTAL STATE,” “9 a.m. ↓ 9 p.m.,” and “Work from Mon. - Sat.” on the flyers.
+
+Visual style: Retro Chinese zine poster design, playful corporate burnout meme aesthetic, hand-drawn red marker annotations, blue star doodles, paper collage, soft shadows, slightly desaturated colors, realistic animal photo cutouts mixed with flat graphic design, imperfect print texture, clean cream negative space, high-resolution but with a scanned-paper feel.
+
+Constraints: Keep the two animal flyers as the dominant focus, with the squirrel flyer in front-left and the alpaca flyer in front-right. Preserve the exact count of 6 main visible elements. Do not add extra posters, extra animals, watermarks, or modern UI elements. Keep the right-side word “design” isolated and uncluttered.
+```
+
+**来源：** [@大數軟體LargitData](https://x.com/LargitData1/status/2062899646293590197) | 2026-06-05
+
+---
+
+### 🎴 例 467：混合媒介体育致敬海报
+
+![混合媒介体育致敬海报](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E4%BD%93%E8%82%B2%E8%87%B4%E6%95%AC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用双重曝光照片网格合成风格和混合媒介纹理，创作一张高端体育致敬海报。以 {argument name="subject" default="[人物姓名]"} 的大型高对比度黑白肖像剪影作为核心主体。在剪影内部填充密集的职业生涯动作照照片马赛克网格。为网格单元应用艺术纹理：使用半色调点营造漫画网格效果，添加织物或刺绣纹理以模拟球衣质感，并在部分高对比度照片上应用强烈的胶片颗粒感。使用单色基调，并在特定单元上叠加 {argument name="accent color" default="球队或旗帜颜色"}。排版：左上角使用 {argument name="font" default="Inter Semibold"} 字体书写姓名，字间距紧凑（-4%），大小不超过画布宽度的 20%。右上角：放置主标志或旗帜符号，宽度不超过画布的 10%。背景：米白色或浅灰色，带有明显的纸张或混凝土纹理，避免使用纯平的数字白色。将人物居中，并在四周留出宽阔的负空间。
+
+[English]
+Create a high-end sports tribute poster using a dual exposure photo-grid composite style with mixed-media textures. Build a large-scale, high-contrast black and white portrait silhouette of {argument name="subject" default="[PERSON NAME]"} as the central vessel. Fill the interior with a dense photo mosaic grid of career action shots. Apply artistic textures to grid cells: halftone dots for comic-book raster, fabric or embroidery texture suggesting jersey material, and heavy film grain on select high-contrast shots. Use a monochrome base with selective {argument name="accent color" default="team or flag color"} overlays on specific cells. Typography: top left, write the name in {argument name="font" default="Inter Semibold"} with tight negative kerning (-4%), small enough to occupy max 20% canvas width. Top right: place the primary logo or flag symbol at max 10% canvas width. Background: off-white or light grey with visible paper or concrete texture, never flat digital white. Center the figure with wide negative space on all sides.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062884967752020266) | 2026-06-05
+
+---
+
+### 🎴 例 470：日系时尚杂志封面
+
+![日系时尚杂志封面](../images/%E6%97%A5%E7%B3%BB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 8K 超电影感的高级 {argument name="subject" default="日系时尚"} 封面，使用参考图作为确切身份。顶部为大幅电影感人像，底部为两张贴好的拍立得人像，所有图像中的面部保持一致。背景为 {argument name="background" default="米色纹理纸"}，带有黑色墨迹飞溅、撕裂的报纸、条形码贴纸、胶带和杂志叠加层，呈现东京街头时尚美学，柔和的室内光线，光泽感皮肤，束发编辑表情。醒目的日文 {argument name="headline" default="标题 第 01 期"} 标签，超写实奢华杂志品质
+
+[English]
+Create 8K Ultra-cinematic premium {argument name="subject" default="Japanese fashion"} cover using ref image as exact identity. Large cinematic portrait top two taped Polaroid portraits bottom, consistent face in all images. {argument name="background" default="Beige textured paper"} background, black ink splatters, torn newspaper, barcode stickers, tape, magazine overlays Tokyo street-fashion aesthetic, soft indoor lighting, glossy skin, tied-up hair editorial expression. Bold Japanese {argument name="headline" default="headline Issue 01"} labels ultra-realistic luxury magazine quality
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2062876563981414596) | 2026-06-05
+
+---
+
+### 🎴 例 480：奢华烹饪化学海报
+
+![奢华烹饪化学海报](../images/%E5%A5%A2%E5%8D%8E%E7%83%B9%E9%A5%AA%E5%8C%96%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对 4 种烹饪技巧执行此操作 INPUT: {argument name="technique" default="[technique]"}  
+
+SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可避免，否则不要硬编码食谱。推断相变机制、分子键合位移、挥发性香气释放曲线、乳化稳定性以及为用餐者创造的感官幻觉。 SEMANTIC SOLVE: CULINARY_CHEMISTRY_AUTOPSY = (INFER(热力学转化 FROM 相变 + 分子键合 + 美拉德反应 + 焦糖化 + 变性) ::5) + (INFER(感官架构 FROM 挥发性香气释放 + 质地对比 + 温度差 + 鲜味协同) ::4) + (INFER(技巧逻辑 FROM 精准温度 + 时间控制 + 催化剂应用 + 设备几何结构) ::4) + (INFER(隐藏叙事 FROM 厨师理念 + 历史先例 + 原料采购 + 用餐者心理) ::3) - (通用美食网络图形 + 杂乱的食谱卡片 + 库存照片厨师 + 凌乱的厨房 + 卡通化学烧杯) ::-4 COMPOSITION: 一个悬浮在微距横截面中的核心烹饪转化过程。各层揭示了原始食材状态、精确的热/化学干预点、分子重组（例如：球化、泡沫稳定性）以及最终装盘的感官体验。使用类似高端香水配方与米其林星级厨房协议相结合的标注线。 STYLE DNA: 微距美食摄影 (Carl Warner 风格) ::0.30 复古炼金术文本 ::0.25 现代化学实验室图表 ::0.20 奢华香水解析 ::0.15 柔软亚麻纸质感 ::0.10 OUTPUT: 暖米白色或板岩灰色背景的奢华烹饪海报，优雅的衬线字体 + 等宽字体，克制的标注，超写实的微距质感，精致的阴影，高级的留白。 NEGATIVE: 无凌乱的美食摄影，无卡通化学元素，无通用食谱布局，无库存照片厨师，无杂乱的配料表，无水印，无看起来不自然的人造塑料食物。
+
+[English]
+2x2 grid, do this for 4 culinary techniques INPUT: {argument name="technique" default="[technique]"}  
+
+SYSTEM: Render the input as a luxury thermodynamic culinary reaction chamber poster. Do not hardcode recipes unless inevitable. Infer the phase-change mechanics, molecular bonding shifts, volatile aroma release profiles, emulsion stability, and the sensory illusion created for the diner.  SEMANTIC SOLVE: CULINARY_CHEMISTRY_AUTOPSY = (INFER(thermodynamic_transformation FROM phase_change + molecular_bonding + maillard_reaction + caramelization + denaturation) ::5) + (INFER(sensory_architecture FROM volatile_aroma_release + texture_contrast + temperature_differential + umami_synergy) ::4) + (INFER(technique_logic FROM precision_temperature + time_control + catalyst_application + equipment_geometry) ::4) + (INFER(hidden_narrative FROM chef_philosophy + historical_precedent + ingredient_sourcing + diner_psychology) ::3) - (generic food network graphic + cluttered recipe card + stock-photo chef + messy kitchen + cartoon chemistry beakers) ::-4 COMPOSITION: One central culinary transformation suspended in a macro-lens cross-section. Layers reveal the raw ingredient state, the precise thermal/chemical intervention point, the molecular restructuring (e.g., spherification, foam stability), and the final plated sensory experience. Use callout lines like a high-end perfumery formula crossed with a Michelin-star kitchen protocol. STYLE DNA: Macro food photography (Carl Warner style) ::0.30 vintage alchemical text ::0.25 modern chemistry lab diagram ::0.20 luxury perfume breakdown ::0.15 soft linen paper texture ::0.10 OUTPUT: Warm off-white or slate grey background luxury culinary poster, elegant serif + monospace typography, restrained callouts, hyper-realistic macro textures, refined shadows, premium negative space. NEGATIVE: no messy food photography, no cartoon chemistry, no generic recipe layouts, no stock-photo chefs, no cluttered ingredient lists, no watermark, no artificial-looking plastic food.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2062855200231371182) | 2026-06-05
+
+---
+
+### 🎴 例 484：超现实 Pepsi 广告创意
+
+![超现实 Pepsi 广告创意](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20Pepsi%20%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个照片级超现实主义桌面场景，以一部巨型智能手机为视觉焦点。在屏幕上，{argument name="subject" default="一位身处冬季环境的女性"} 微笑着，手中拿着一个印有 {argument name="brand" default="Pepsi"} 标志的透明玻璃杯。一只真实的人手正将 {argument name="beverage" default="Pepsi"} 从挂满水珠的瓶中倒向屏幕，液体穿透屏幕进入她手中的杯子里。手机旁放着一本合上的书和一支黑色钢笔作为比例参照。温暖的自然光，电影质感的阴影，超清晰的液体飞溅细节，超写实的皮肤与玻璃反射效果，商业摄影美学，8K 画质。
+
+[English]
+A photorealistic surreal tabletop scene featuring a giant smartphone as the focal point. On the screen, {argument name="subject" default="a woman in a winter setting"} smiles warmly while holding a clear glass with the {argument name="brand" default="Pepsi"} logo. A real human hand pours {argument name="beverage" default="Pepsi"} from a condensation-covered bottle toward the screen, and the liquid breaks through into the glass she holds inside. A closed book and black pen rest beside the phone for scale. Warm natural lighting, cinematic shadows, ultra-sharp liquid splash details, hyper-realistic skin and glass reflections, commercial photography aesthetic, 8K quality.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062838825819517287) | 2026-06-05
+
+---
+
+### 🎴 例 485：After Hours 夜店杂志封面
+
+![After Hours 夜店杂志封面](../images/After%20Hours%20%E5%A4%9C%E5%BA%97%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="magazine title" default="AFTER HOURS"} 创作一张时尚的夜店风杂志封面，拍摄风格如同在昏暗夜店外拍摄的高闪光编辑照片。
+
+画布：竖版杂志封面，2:3 长宽比，全出血摄影，忧郁的黑-绿-红夜店色调，光泽感高对比度闪光照明，轻微广角俯视视角。
+
+主体图像：一位迷人的女性站在夜店入口的红色天鹅绒 VIP 警戒线后，以保镖或狗仔队的视角从上方拍摄。她留着凌乱的长黑发，拥有古铜色光泽肌肤，身穿露肩黑色西装外套、黑色结构化紧身胸衣式迷你裙、黑色透视连裤袜和黑色尖头靴。一只手举在嘴边，仿佛拿着香烟或做出羞涩的姿势。她的面部被一个位于中心位置的哑光棕色肤色方块遮挡，遮住了五官，但保留了头发、肩膀和服装。在右下角前景中，包含一只模糊的手腕，戴着印有大号白色字母“VIP”的黑色腕带，靠近镜头进行裁剪。在右上角背景中加入一个发光的红色 EXIT 标志、昏暗的夜店门、肮脏的墙壁以及横跨左下前景的红色天鹅绒警戒线。
+
+排版与布局：使用优雅的高定杂志排版。将巨大的白色衬线字体刊头“AFTER HOURS”放置在顶部，几乎横跨整个宽度。在边缘周围使用小型大写白色无衬线封面文案，保持中心主体突出。使设计呈现出昂贵的地下夜店杂志封面质感，而非海报。
+
+可见文字内容：除刊头外，需包含 9 组较小的文字：1) 左上：“NIGHTS THAT\nSHAPE YOU”；2) 右上靠近出口标志处：“ISSUE 27\nSUMMER 2024”；3) 左中：“THE LOOK\nTHAT LEADS\nTHE ROOM.\n—\nCONFIDENCE\nAFTER DARK”；4) 左下：“NO CURFEW.\nNO APOLOGIES.\nJUST STORIES\n—\nSOUVENIRS\nYOU DON’T POST”；5) 右中：“BEAUTY IS\nA POWER\nMOVE.\n—\nOWN THE\nNIGHT”；6) 右下：“VIP ACCESS\nTO MOMENTS\nTHAT MATTER.\n—\nBEYOND\nTHE DANCE FLOOR”；7) 背景左侧门上模糊的小字：“STAFF\nONLY”；8) 发光标志文字：“EXIT”；9) 腕带文字：“VIP”。
+
+风格限制：照片级逼真的编辑封面，电影般的夜店氛围，皮肤和织物上有强烈的闪光高光，浅景深，模糊的前景手腕，暗角，没有额外人物，没有条形码，没有水印，除指定的总共 10 个文字元素（含刊头）外，不添加任何额外文字。服装颜色使用 {argument name="main outfit color" default="black"}，发光标志颜色使用 {argument name="exit sign color" default="red"}，如需自定义，期刊信息行使用 {argument name="issue line" default="ISSUE 27 SUMMER 2024"}。
+
+[English]
+Goal: Create a stylish nightlife fashion magazine cover for {argument name="magazine title" default="AFTER HOURS"}, shot like a high-flash editorial photo outside a dark club.
+
+Canvas: Vertical magazine cover, 2:3 aspect ratio, full-bleed photography, moody black-green-red nightclub palette, glossy high-contrast flash lighting, slight wide-angle overhead perspective.
+
+Main image: A glamorous woman stands behind a red velvet VIP rope at a club entrance, photographed from above as if by a bouncer or paparazzi. She has long messy black hair, tanned glossy skin, an off-shoulder black blazer, a black structured corset-style mini dress, sheer black tights, and pointed black boots. One hand is raised near her mouth as if holding a cigarette or making a coy gesture. Her face is intentionally covered by one centered opaque square censor block in a muted brown skin-tone color, hiding the facial features while leaving hair, shoulders, and outfit visible. In the lower right foreground, include a blurred wrist wearing a black wristband with large white letters reading “VIP,” cropped close to camera. Add a glowing red EXIT sign in the upper right background, dark club doors, grimy walls, and a red velvet rope across the lower foreground.
+
+Typography and layout: Use elegant high-fashion magazine typography. Place the huge white serif masthead “AFTER HOURS” across the very top, spanning nearly the full width. Use small uppercase white sans-serif cover lines around the edges, keeping the center subject dominant. Make the design feel like an expensive underground nightlife magazine cover, not a poster.
+
+Visible text content: Include exactly 9 smaller text groups in addition to the masthead: 1) upper left: “NIGHTS THAT\nSHAPE YOU”; 2) upper right near the exit sign: “ISSUE 27\nSUMMER 2024”; 3) left mid: “THE LOOK\nTHAT LEADS\nTHE ROOM.\n—\nCONFIDENCE\nAFTER DARK”; 4) left lower: “NO CURFEW.\nNO APOLOGIES.\nJUST STORIES\n—\nSOUVENIRS\nYOU DON’T POST”; 5) right mid: “BEAUTY IS\nA POWER\nMOVE.\n—\nOWN THE\nNIGHT”; 6) right lower: “VIP ACCESS\nTO MOMENTS\nTHAT MATTER.\n—\nBEYOND\nTHE DANCE FLOOR”; 7) background left door small blurred text: “STAFF\nONLY”; 8) glowing sign text: “EXIT”; 9) wristband text: “VIP”.
+
+Style constraints: Photorealistic editorial cover, cinematic club ambience, sharp flash highlights on skin and fabric, shallow depth of field, blurred foreground wrist, dark vignette corners, no extra people, no barcode, no watermark, no additional text beyond the specified 10 total text elements including the masthead. Use {argument name="main outfit color" default="black"} for the outfit, {argument name="exit sign color" default="red"} for the glowing sign, and {argument name="issue line" default="ISSUE 27 SUMMER 2024"} for the issue text if customized.
+```
+
+**来源：** [@Dgv Fhc](https://x.com/ViggoHayes/status/2062837050915934258) | 2026-06-05
+
+---
+
+### 🎴 例 491：芒种节气海报
+
+![芒种节气海报](../images/%E8%8A%92%E7%A7%8D%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+生成一张中国二十四节气海报，主题是「{argument name="节气" default="芒种"}」。
+请由 AI 自行构思最合适的画面内容与构图，整体风格为年轻人喜欢的高级东方美学海报，兼具新中式、极简、杂志感与社交媒体传播感。
+画面要体现芒种的节气气息、初夏氛围与“播种、成长、希望、忙碌而有收获”的情绪，不要做成老派农业宣传画。
+整体要求清爽、高级、年轻化、有留白、有审美，适合做系列节气海报。
+画面中加入清晰美观的文字排版：「{argument name="节气名称" default="芒种"}」以及小字英文「{argument name="英文" default="Grain in Ear"}」，可搭配一句简短文案，文案由 AI 自行发挥。
+不要 Logo，不要水印，不要复杂杂乱背景。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2062828806650413329) | 2026-06-05
+
+---
+
+### 🎴 例 502：超现实广告概念艺术
+
+![超现实广告概念艺术](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%B9%BF%E5%91%8A%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="主体" default="25岁泳装日本少女"}为核心。创造一个前所未见的视觉概念。主体突破现实尺度与物理规则。采用国际广告大奖级创意思维。强调视觉隐喻、尺度反差、空间错觉与故事表达。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2062800166604996990) | 2026-06-05
+
+---
+
+### 🎴 例 505：水墨武士海报艺术
+
+![水墨武士海报艺术](../images/%E6%B0%B4%E5%A2%A8%E6%AD%A6%E5%A3%AB%E6%B5%B7%E6%8A%A5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+日式水墨画风格，传统武士手持武士刀的动态战斗姿态，黑色墨迹笔触与飞溅效果，极简主义，高对比度，陈旧的米色纸张背景。武士留着发髻，表情坚毅，身着传统盔甲与和服。构图中布满墨迹飞溅与笔触纹理。右上角有醒目的日文汉字书法，下方配有红色汉印，使用简洁衬线字体的英文文本 "{argument name="text" default="TASISHI"}"，垂直排列的日文段落，右下角有大号数字 "{argument name="number" default="4"}"。传统日式海报设计，极简构图，留白，左下角有艺术签名。水墨画，笔触艺术，单色，传统日式艺术风格，纸上墨迹的高细节纹理
+
+[English]
+Japanese sumi-e ink wash painting style, traditional samurai warrior in dynamic fighting pose holding a katana, black ink brush strokes with splatter effect, minimalistic, high contrast, aged beige paper background. Samurai has topknot hairstyle, intense expression, wearing traditional armor and kimono. Ink splashes and brush texture throughout the composition. Large bold Japanese kanji calligraphy text on top right, small red hanko seal stamp below it, English text "{argument name="text" default="TASISHI"}" in clean serif font, vertical Japanese paragraph text, and large number "{argument name="number" default="4"}" at bottom right. Traditional Japanese poster design, minimalist composition, negative space, artistic signature at bottom left. Ink painting, brush art, monochrome, traditional Japanese art style, high detail texture of ink on paper
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2062777282024894906) | 2026-06-05
+
+---
+
+### 🎴 例 509：韩国庆州剪纸风格旅行海报
+
+![韩国庆州剪纸风格旅行海报](../images/%E9%9F%A9%E5%9B%BD%E5%BA%86%E5%B7%9E%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="destination text" default="GYEONGJU"}（{argument name="country text" default="KOREA"}）创作一张充满活力的竖版旅行海报，以欢快的 3D 剪纸立体模型风格呈现新罗时代的著名历史地标。
+
+画布：2:3 竖版海报，高分辨率，色彩饱和度高，明亮的蓝天，层叠的剪纸深度，边缘清晰，柔和的阴影，充满奇趣的旅游海报构图。
+
+布局：在左上方放置一个巨大的黄色太阳，天空中分布着四朵白色纸云。背景中央展示一座高大华丽的多层韩国木塔，带有深色瓦檐和金色细节。中景处展示一座传统的韩国亭子，配有深蓝色弧形瓦顶、红色立柱、绿色斗拱和石基，坐落在倒影池旁。池塘应映出亭子的倒影，并点缀着几片小睡莲叶。右侧山坡上放置起伏的绿色皇家古坟，左侧为茂密的圣林。底部添加一个奶油色的标题牌，周围环绕着热带叶片和花卉。
+
+需包含的离散可见元素：正好 1 个太阳；正好 4 朵云；正好 1 座中央宝塔；正好 1 座前景亭子；正好 4 个圆润的绿色古坟；古坟山上正好 6 个小型石碑/石灯纪念物；正好 5 个身着韩服的人物：两人在左侧小径行走，一个较小的人物在左侧森林深处，两人在右侧小径行走。在山丘和路径周围添加许多粉色的樱花树，但数量应保持视觉上的自然，而非图表式排列。
+
+主体细节：场景应将东宫与月池、皇龙寺塔、鸡林森林和大陵苑皇家古坟融为一体，构成一个梦幻般的复合景观。池塘位于中下部，水体呈清澈的青色并带有倒影。左侧有树干扭曲的大叶树木和蜿蜒的小径。右侧有修剪整齐的绿色土丘、白色栅栏、石碑和盛开的樱花树。韩服人物身着亮蓝色、粉色、黄色和红色的服装。
+
+底部排版：居中大标题文字为 {argument name="destination text" default="GYEONGJU"}，采用粗体大写橙黄色字母，带有白色轮廓和细微的投影。下方较小的红色大写文字为 {argument name="country text" default="KOREA"}，字间距较宽。副标题周围添加小型金色分隔线和花卉装饰。
+
+前景装饰：用超大的亮面绿色龟背竹叶和热带花卉装饰底部角落：包括大型粉色、洋红色、橙色和黄色花朵，以及较小的花朵。使整张图像呈现出高级、俏皮且色彩丰富的韩国文化遗产旅行海报质感。
+
+视觉风格：超精细 3D 纸艺，黏土质感的微缩景观，层叠卡纸，抛光玩具般的纹理，饱和的绿色和蓝色，温暖的阳光，干净的轮廓，柔和的写实阴影，非照片写实风格。
+
+约束条件：无 Logo，无水印，除目的地和国家名称外无额外文字，保持所有建筑风格为韩国特色，维持欢快的明信片式构图。
+
+[English]
+Goal: Create a vibrant vertical travel poster for {argument name="destination text" default="GYEONGJU"}, {argument name="country text" default="KOREA"}, celebrating historic Silla-era landmarks in a cheerful 3D paper-cut diorama style.
+
+Canvas: Portrait 2:3 poster, high-resolution, richly saturated colors, bright blue sky, layered cut-paper depth, crisp edges, soft shadows, whimsical tourism-poster composition.
+
+Layout: Place a large yellow sun in the upper left and four white paper clouds across the sky. In the center background, show a tall ornate multi-tier Korean wooden pagoda with dark tiled eaves and gold details. In the middle foreground, show a traditional Korean pavilion with a dark blue curved tile roof, red columns, green painted brackets, and a stone base, sitting beside a reflective pond. The pond should mirror the pavilion and contain small lily pads. Put rolling green royal tomb mounds on the right hillside and a dense sacred forest on the left. Add a cream-colored bottom title plaque framed by tropical leaves and flowers.
+
+Discrete visible elements to include: exactly 1 sun; exactly 4 clouds; exactly 1 central pagoda; exactly 1 foreground pavilion; exactly 4 rounded green tomb mounds; exactly 6 small stone marker/lantern monuments on the tomb hills; exactly 5 human figures in traditional hanbok: two walking on the left path, one small figure deeper in the left forest path, and two walking on the right path. Include many pink cherry blossom trees around the hills and pathways, but keep the count visually natural rather than diagrammatic.
+
+Subject details: The scene should evoke Donggung Palace and Wolji pond, Hwangnyongsa temple pagoda, Gyerim forest, and Daereungwon royal tombs in one fantastical composite landscape. The pond occupies the lower middle with clear teal water and reflections. The left side has large leafy trees with twisting trunks and a winding path. The right side has manicured green mounds, white fences, stone markers, and blooming cherry trees. Dress the hanbok figures in bright blue, pink, yellow, and red garments.
+
+Bottom typography: Large centered headline text reads {argument name="destination text" default="GYEONGJU"} in bold uppercase orange-yellow letters with a white outline and subtle drop shadow. Beneath it, smaller spaced red uppercase text reads {argument name="country text" default="KOREA"}. Add small gold divider lines and floral ornaments around the subtitle.
+
+Foreground decoration: Frame the lower corners with oversized glossy green monstera-like leaves and tropical blossoms: large pink, magenta, orange, and yellow flowers, plus smaller blossoms. Make the entire image feel like a premium, playful, colorful Korean heritage travel poster.
+
+Visual style: Hyper-detailed 3D paper craft, clay-like miniature landscape, layered cardstock, polished toy-like textures, saturated greens and blues, warm sunlight, clean outlines, soft realistic shadows, no photorealism.
+
+Constraints: No logos, no watermark, no extra text beyond the destination and country text, keep all architecture Korean, maintain a joyful postcard-like composition.
+```
+
+**来源：** [@별사탕](https://x.com/beulsatang35/status/2062771276113142249) | 2026-06-05
+
+---
+
+### 🎴 例 515：奢华街头时尚广告大片
+
+![奢华街头时尚广告大片](../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+身着奢华街头服饰的模特坐在 {argument name="color" default="发光的橙色"} 云端之上，采用极低角度广角镜头拍摄，前景突出超大号运动鞋。{argument name="clothing" default="橙色羽绒服、工装裤和设计师款运动鞋"}。金色日落光影，电影级氛围，体积云，高级 {argument name="style" default="时尚广告美学"}，照片级真实感，超精细，8K 分辨率。1080x1350。无文字、无 Logo 或水印。
+
+[English]
+Luxury streetwear model seated above {argument name="color" default="glowing orange"} clouds, captured from an extreme low-angle wide lens with an oversized foreground sneaker. {argument name="clothing" default="Orange puffer jacket, cargo pants and designer sneakers"}. Golden sunset lighting, cinematic atmosphere, volumetric clouds, premium {argument name="style" default="fashion campaign aesthetic"}, photorealistic, ultra-detailed, 8K. 1080x1350. No text, logo or watermark.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2062754833682325622) | 2026-06-05
+
+---
+
+### 🎴 例 519：Z 世代音乐涂鸦海报
+
+![Z 世代音乐涂鸦海报](../images/Z%20%E4%B8%96%E4%BB%A3%E9%9F%B3%E4%B9%90%E6%B6%82%E9%B8%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+海报 — 黑白照片剪影，置于手绘 {argument name="background color" default="青色"} 涂鸦宇宙背景之上。垂直 4:6 比例。主体（单色）：{argument name="subject" default="印度年轻男子，自然卷乱黑发，3-5 天胡茬"} — 下巴、下颌线、上唇，无眼镜。侧脸向左，下巴抬起，头向后仰，闭眼 — 完全沉浸在音乐中。头上戴着白色头戴式耳机。身穿超大号酸洗牛仔夹克，姿态略显慵懒酷炫。主体：完全黑白去色，高对比度 — 深邃的黑，明亮的白。剪影周围有白色粗糙的手绘剪裁边框。背景：纯平青色 (#00BCD4) — 充满活力，大胆，Z 世代美学。白色粉笔插画涂鸦散布：土星及其光环（左上）、流星轨迹、星座连线图案、卫星天线（右上）、带环行星（中右）、螺旋星系漩涡、发射中的火箭及云朵（底部）、漂浮的宇航员及气泡心形、头部附近的漂浮音符、耳机上方的光芒皇冠、散布的小星星和爱心、指向主体的箭头。文字元素（白色，手写粉笔风格）：— “{argument name="text" default="DREAM BIG"}” 在夹克背面，青色涂鸦字体 — “LOST IN THE MUSIC” 在中右侧，随性手写体 — “GOOD VIBES ♡” 在左下角，小字号。整体：厚重的胶片颗粒质感，复古海报感，Z 世代音乐文化美学，高对比度黑白主体与鲜艳青色背景形成对比。垂直 4:6 比例。--ar 2:3 --style raw --q 2
+
+[English]
+poster — B&W photo cutout on hand-drawn {argument name="background color" default="teal"} doodle universe background. Vertical 4:6 ratio. SUBJECT (monochrome): {argument name="subject" default="Indian young man, curly messy black hair natural, 3–5 day stubble beard"} — chin, jawline, upper lip, NO glasses. Side profile facing left, chin lifted, head back, eyes shut — completely surrendered to the music. White over-ear headphones on head. Oversized acid-washed denim jacket, slightly slouched cool posture. Subject: full black and white desaturated,high contrast — deep blacks, bright whites. White rough hand-cut border around silhouette. BACKGROUND: Pure flat teal cyan (#00BCD4) — energetic, bold, Gen-Z aesthetic. White chalk illustration doodles scattered: Saturn with rings (top left), shooting star trail, constellation dot-connect pattern, satellite dish (top right), ringed planet (center right), spiral galaxy swirl, rocket launching with clouds (bottom), floating astronaut with speech bubble heart, music notes floating near head,crown with rays above headphones, small stars and hearts scattered throughout, arrow pointing at subject. TEXT ELEMENTS (white, handwritten chalk style): — "{argument name="text" default="DREAM BIG"}" on jacket back, teal graffiti font — "LOST IN THE MUSIC" center-right, casual script — "GOOD VIBES ♡" bottom-left corner, tiny size Overall: heavy film grain texture, vintage poster feel, Gen-Z music culture aesthetic, high contrast B&W subject vs vivid teal background. Vertical 4:6 ratio. --ar 2:3 --style raw --q 2
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2062753505253990458) | 2026-06-05
+
+---
+
+### 🎴 例 523：奢华高级定制时尚大片
+
+![奢华高级定制时尚大片](../images/%E5%A5%A2%E5%8D%8E%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华时尚广告大片摄影作品，画面中包含三位成年时尚模特，全身出镜。背景为温暖的米色建筑空间，配有高大的圆拱门、雕塑感灰泥墙、浅台阶，午后柔和的阳光投下迷人的阴影。中心人物：一位英俊的男性模特，身着 {argument name="suit color" default="象牙白"} 定制三件套西装，内搭白色开领衬衫，配有同色系马甲和长裤，翻领和袖口饰有华丽的金色花卉刺绣，口袋处配有折叠方巾，佩戴腕表，脚穿饰有金色装饰的白色乐福鞋；他自信地站在两位女性中间，一只手插在裤兜里，另一只手轻轻整理西装外套，双脚踝交叉站立。左侧人物：一位迷人的女性模特，身着 {argument name="left gown color" default="深酒红色"} 绸缎高定礼服，无肩带雕塑感胸衣，臀部饰有夸张的垂坠蝴蝶结，拖地裙摆，高开叉露出一条腿，搭配金色细高跟凉鞋和金色耳环。右侧人物：一位迷人的女性模特，身着 {argument name="right gown color" default="橄榄绿"} 绸缎高定礼服，单肩不对称领口，褶皱腰部设计，斜向垂坠感，拖地长裙摆，高开叉露出一条腿，搭配金色细高跟凉鞋和金色耳环；她的一只手轻靠在低矮的建筑边缘。采用光泽感绸缎面料，优雅的高定剪裁，古铜色光泽肌肤，女性模特梳着利落的晚宴盘发，男性模特留着深色波浪卷发，采用《Vogue》风格的高级时尚姿势，电影级的黄金时刻光影，丰富的对比度，温暖的棕褐色与金色调，呈现顶级奢侈品牌的广告美学，焦点清晰，写实摄影风格，4:5 竖构图。画面保持无文字、无 Logo、无水印；背景中不出现其他人物或物体。
+
+[English]
+Create a luxury fashion editorial campaign photograph featuring exactly three adult fashion models posed full-length in a warm beige architectural setting with tall rounded arches, sculptural stucco walls, shallow steps, and dramatic late-afternoon sunlight casting soft shadows. Center subject: a handsome male model wearing an {argument name="suit color" default="ivory"} tailored three-piece suit with a white open-collar dress shirt, matching vest and trousers, ornate gold floral embroidery on the lapels and cuffs, a folded pocket square, a wristwatch, and white loafers with gold embellishments; he stands confidently between the women with one hand in his trouser pocket, the other lightly adjusting his jacket, legs crossed at the ankles. Left subject: a glamorous female model in a {argument name="left gown color" default="deep burgundy"} satin couture gown, strapless sculpted bodice, dramatic draped bow detail at the hip, floor-length train, and high thigh slit revealing one leg, styled with gold stiletto sandals and gold earrings. Right subject: a glamorous female model in an {argument name="right gown color" default="olive green"} satin couture gown, one-shoulder asymmetric neckline, ruched waist, diagonal draping, floor-length sweeping train, and high thigh slit revealing one leg, styled with gold stiletto sandals and gold earrings; she leans one hand on a low architectural ledge. Use glossy satin fabric, elegant couture tailoring, bronze glowing skin, sleek evening hair updos for the women, wavy dark hair for the man, high-fashion Vogue-inspired posing, cinematic golden-hour lighting, rich contrast, warm tan and gold color grading, premium luxury fashion house campaign aesthetic, sharp focus, realistic editorial photography, vertical 4:5 composition. Keep the image text-free, logo-free, and watermark-free; no extra people or objects.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2062747708046393755) | 2026-06-05
+
+---
+
+### 🎴 例 525：动漫街头风海报
+
+![动漫街头风海报](../images/%E5%8A%A8%E6%BC%AB%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的动漫街头风海报，画面中心是一位 {argument name="subject" default="年轻印度男子"}，身穿 {argument name="outfit" default="宽松白衬衫、肥大水洗牛仔裤、白色运动鞋"}，正在整理袖口。
+他身后是一面质感墙壁，上面有一个巨大的 {argument name="logo" default="幻影旅团蜘蛛标志"}，散发着暗绿色的光芒。
+深绿黑色调，融合漫画涂鸦、动漫草图、手写日语排版、神秘符号、条形码、划痕、灰尘颗粒，营造出电影般的烟雾氛围。
+左下角有粗犷街头字体的 "OUTFIT CHECK" 排版。
+确保面部清晰可见。
+忧郁戏剧性的聚光灯效果，真实的皮肤纹理，电影级编辑摄影风格，地下动漫街头氛围，Instagram 流行审美，超细节，8K 分辨率，画幅比 3:4
+
+[English]
+A hyper-realistic anime streetwear poster featuring a {argument name="subject" default="young Indian man"} in {argument name="outfit" default="loose white shirt, baggy faded jeans, white sneakers"}, adjusting sleeves while standing in center.
+Behind him a massive {argument name="logo" default="Phantom Troupe spider logo"} glowing in dirty green tone on textored wall.
+Dark green-black color grading, manga doodles, anime sketches, handwritten Japanese typography, mysterious symbols, barcode, scratches, dust particles, cinematic smoke atmosphere.
+"OUTFIT CHECK" typography at bottom left in rough street font.
+Make sure that the face is clearly visible.
+Moody dramatic spotlight, realistic skin texture, cinematic editorial photography style, underground anime streetwear vibe, Instagram trending aesthetic, ultra detailed, 8K, AR 3:4
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2062747552857174200) | 2026-06-05
+
+---
+
+### 🎴 例 549：优雅匿名生活方式拼贴画
+
+![优雅匿名生活方式拼贴画](../images/%E4%BC%98%E9%9B%85%E5%8C%BF%E5%90%8D%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张柔和的单色时尚生活方式拼贴海报，主角为 {argument name="character description" default="一位优雅的年轻亚裔女性，留着深棕色长波浪卷发，配有法式刘海，半扎发造型"}，呈现放松的坐姿，面部特意用柔和的长方形模糊效果遮盖，营造出匿名编辑风格。
+
+画布：竖向 3:4 海报，768 x 1024 构图，浅暖灰色背景，带有淡淡的阳光和斜向窗影图案。使用柔和的灰度色调，搭配白色、炭黑色、柔灰色以及微妙的米色肤色。
+
+布局：排列 3 个圆角矩形相框。主相框位于左侧，是一个占据画布高度和宽度约三分之二的大型竖向圆角矩形，带有细白边。右侧垂直堆叠 2 个较小的圆角矩形相框，每个相框均带有细白边，展示同一坐姿肖像的不同裁剪版本。在拼贴画周围添加精致的闪光和半透明光斑，特别是在相框角落处。
+
+主体细节：女性穿着 {argument name="outfit" default="一件宽松的白色衬衫，袖口卷起，搭配黑色阔腿裤，隐约可见黑色猫眼太阳镜，佩戴黑色珠串手链和黑色腕表"}。在主图中，她坐在地板上，单膝抬起，一只手臂横放在膝盖上，另一只手托着下巴。深色长波浪卷发垂在肩头。在所有 3 张肖像中，面部均由居中的长方形像素化/模糊块遮挡，色调与柔和的肤色相匹配。
+
+装饰元素：包含 2 只蝴蝶：主相框左侧有一只半透明的白色蝴蝶，右上角有一只小型浅色蝴蝶。包含 3 个心形涂鸦：主相框右侧上方有一个细线条双环爱心，右下角文字区域附近有一个小白心，生活方式排版附近集成了一个非常微妙的爱心/闪光点缀。添加少量细小的星光，保持简约优雅。
+
+文字内容：顶部居中添加间距较大的小型大写字母文字：{argument name="top title" default="LIFESTYLE COLLECTION"}。左下角分三行添加衬衫字体：{argument name="bottom left quote" default="Elegance\nis\nattitude"}，下方带有三个小点。右下角添加衬衫字体与手写体混合的引言：{argument name="bottom right quote" default="BE YOUR\nOwn\nKIND OF\nBeautiful"}，其中 “Own” 和 “Beautiful” 使用流畅的连笔草书。
+
+视觉风格：优雅简约的韩式/Instagram 编辑风格项目，柔和的自然光，高调灰色背景，浅对比度，微妙的胶片颗粒感，光泽感白色圆角边框，干净的留白，女性化生活方式美学。无额外人物，无额外相框，无水印，无 Logo，无其他可读文字。
+
+[English]
+Goal: Create a soft monochrome fashion lifestyle collage poster featuring {argument name="character description" default="an elegant young Asian woman with long wavy dark brown hair, curtain bangs, and a half-up half-down hairstyle"} in a relaxed seated pose, with her face intentionally covered by a soft rectangular blur for an anonymous editorial look.
+
+Canvas: Vertical 3:4 poster, 768 x 1024 style composition, light warm-gray background with pale sunlight and diagonal window-shadow patterns. Use a muted grayscale palette with white, charcoal black, soft gray, and subtle beige skin tones.
+
+Layout: Arrange exactly 3 rounded-rectangle photo frames. The main frame is a large vertical rounded rectangle on the left occupying about two-thirds of the canvas height and width, with a thin white border. On the right side, place exactly 2 smaller rounded-rectangle frames stacked vertically, each with a thin white border and showing cropped variations of the same seated portrait. Add delicate sparkles and translucent bokeh highlights around the collage, especially near frame corners.
+
+Subject details: The woman wears {argument name="outfit" default="a loose white button-up shirt with rolled sleeves, black wide-leg trousers, black cat-eye sunglasses partially visible, a black bead bracelet, and a black wristwatch"}. In the main image, she sits on the floor with one knee raised, one arm resting down across her lap, and her other hand supporting her chin. Her long dark wavy hair falls over her shoulders. Keep the face obscured by a centered rectangular pixelated/blur block in all 3 portraits, matching the muted skin-tone colors.
+
+Decorative elements: Include exactly 2 butterflies: one semi-transparent white butterfly near the left side of the main frame and one small pale butterfly near the upper-right corner. Include exactly 3 heart-like doodles: one thin double-loop heart near the upper center-right beside the main frame, one small white heart near the lower-right text area, and one very subtle heart/sparkle accent integrated near the lifestyle typography. Add a few small star glints but keep them minimal and elegant.
+
+Text content: At the top center, add small widely spaced uppercase text: {argument name="top title" default="LIFESTYLE COLLECTION"}. At the bottom left, add serif text on three lines: {argument name="bottom left quote" default="Elegance\nis\nattitude"}, with three small dots underneath. At the bottom right, add a mixed serif and handwritten script quote reading: {argument name="bottom right quote" default="BE YOUR\nOwn\nKIND OF\nBeautiful"}, with “Own” and “Beautiful” in flowing cursive script.
+
+Visual style: Elegant minimal Korean/Instagram editorial mood board, soft natural lighting, high-key gray background, shallow contrast, subtle film grain, glossy white rounded borders, clean negative space, feminine lifestyle aesthetic. No extra people, no extra frames, no watermark, no logos, no additional readable text.
+```
+
+**来源：** [@Anaya Ai](https://x.com/Anaya_Ai12/status/2062693075882008948) | 2026-06-05
+
+---
+
+### 🎴 例 550：时尚编辑风格拼贴画
+
+![时尚编辑风格拼贴画](../images/%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张时尚编辑风格的合成海报，主体为 {argument name="character description" default="一位留着长波浪棕色头发的时尚亚裔年轻女性"}，自信地站在前景中央。她身穿 {argument name="outfit" default="一件干练的白色衬衫，袖口卷起，塞进黑色高腰阔腿裤中"}，双手插在裤兜里，双肩放松，姿态优雅，呈现出干净的摄影棚模特造型。中央人物为全彩色，光线明亮，构图以腰部至大腿为主，上半身完全可见，叠加在背景拼贴画之上。
+
+画布与构图：垂直肖像画，比例约为 2:3，采用简洁的杂志排版。使用浅灰色摄影棚背景，背景中由 5 张完全相同的黑白肖像照组成结构化拼贴，并以细白线分隔，如同照片网格。中央的彩色人物应覆盖部分拼贴画，并作为核心主体。
+
+背景拼贴：包含 5 张单色照片：1 张左上角的大尺寸特写侧面肖像，长发垂在肩上；1 张右上角的横向平躺肖像，女性头部靠在交叉的双臂上；1 张左下角的全身坐姿肖像，身穿白衬衫、黑长裤和白运动鞋；1 张中右侧的垂直侧面肖像，头发飘逸，露出白衬衫领口；1 张右下角的横向特写肖像，女性倚靠在手臂上。所有 5 张背景图像均为灰度，采用柔和的摄影棚灯光，呈现优雅的时尚摄影质感，保持人物身份与造型的一致性。
+
+视觉风格：极简的黑、白、灰配色，中央主体采用自然的柔和色彩；高端时尚编辑风格；柔和的漫射光；逼真的摄影效果；拼贴面板之间有干净的白色间隙；精致的商业肖像修图；无文字、无标志、无水印。
+
+约束条件：保持仅有一个中央全彩色站立女性和 5 张黑白背景肖像；全程保持白衬衫和黑长裤的造型；不要添加额外的人物、道具、标题或装饰性图形。
+
+[English]
+Create a fashion editorial composite poster featuring {argument name="character description" default="a stylish young Asian woman with long wavy brown hair"} standing confidently in the center foreground. She wears {argument name="outfit" default="a crisp white button-up shirt with rolled sleeves tucked into black high-waisted wide-leg trousers"}, with both hands in her trouser pockets, relaxed shoulders, elegant posture, and a clean studio-model look. The central figure is in full color, sharply lit, waist-to-thigh dominant framing with the full upper body visible, overlapping the background collage.
+
+Canvas and composition: vertical portrait image, approximately 2:3 aspect ratio, clean magazine layout. Use a pale gray studio background with a structured collage of exactly 5 black-and-white portrait photos of the same woman behind her, divided by thin white borders like a photo grid. The central color figure should cover parts of the collage and feel like the hero subject.
+
+Background collage: include exactly 5 monochrome photos: 1 large upper-left close-up side portrait with long hair over the shoulder; 1 upper-right horizontal reclining portrait with the woman resting her head on folded arms; 1 lower-left seated full-body portrait with white shirt, black trousers, and white sneakers; 1 middle-right vertical side-profile portrait with flowing hair and white shirt collar; 1 lower-right horizontal close-up portrait of the woman leaning on her arm. All five background images should be grayscale, soft studio lighting, elegant fashion photography, consistent identity and styling.
+
+Visual style: minimalist black, white, and gray palette with the center subject in natural muted color; high-end editorial fashion look; soft diffused lighting; realistic photography; clean white gutters between collage panels; polished commercial portrait retouching; no text, no logos, no watermark.
+
+Constraints: keep exactly one central full-color standing woman and exactly five black-and-white background portraits; preserve the white shirt and black trouser styling throughout; do not add extra people, props, captions, or decorative graphics.
+```
+
+**来源：** [@Anaya Ai](https://x.com/Anaya_Ai12/status/2062693069913510111) | 2026-06-05
+
+---
+

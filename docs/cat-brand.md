@@ -1222,3 +1222,447 @@ hyperdetailed water droplets, cinematic lighting 1744x2336
 **来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2061370516762776013) | 2026-06-01
 
 ---
+
+### 🏷️ 例 428：喧嚣的赛博朋克警匪追逐
+
+![喧嚣的赛博朋克警匪追逐](../images/%E5%96%A7%E5%9A%A3%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%AD%A6%E5%8C%AA%E8%BF%BD%E9%80%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个极度密集、充满喧嚣的赛博朋克雨夜追逐场景，地点位于雨水浸透的垂直大都市。视角采用倾斜的高角度俯瞰，沿着摩天大楼之间陡峭湿滑的高架道路向下望去。主体是位于左下角前景的 {argument name="main vehicle" default="一辆黑色未来感警用悬浮摩托"}，骑手为 {argument name="rider description" default="一名身穿亮面黑色雨衣、戴着头盔的装甲警官，雨衣上有黄色日文警察字样"}，正高速前倾，车尾灯发出红光，映照着湿润的地面。画面中需精确呈现 4 辆显眼的警用载具：1 辆前景悬浮摩托，1 辆位于右上角的大型悬浮警用飞行器（带有红蓝警灯和向下的白色探照光束），以及 2 辆位于中心远处的较小悬浮警用飞行器（正向雨中射出狭窄的白色探照灯）。城市应布满昏暗的高层窗户、脚手架、电缆、桥梁和反光玻璃，并伴有密集的雨丝、薄雾、水雾、动态模糊、镜头光晕、色差、胶片颗粒、数字噪点、压缩伪影和随处可见的混乱细节。添加 4 个清晰可见的霓虹灯招牌：左侧是一个高大的粉色日文招牌，写着「愛を込めて」，下方写着「ホテル」；上方中左侧是一个小型紫色招牌，写着「空き家？」；中远景处是一个红色招牌，写着「ホテル」；右侧是一个高大的粉色药店招牌，写着「未来薬局」，并带有发光的黄色医疗十字。使用 {argument name="color palette" default="电光洋红、青蓝色、深紫色、湿润黑色以及警用红蓝高光"} 的配色方案。在上方中心附近加入一个明显的矩形数字故障块，颜色为 {argument name="glitch block color" default="带有柔和渐变的纯亮蓝色"}，部分遮挡住一个霓虹广告牌。整张图像应呈现出极致的视觉噪点感：超高细节、拥挤、反光、雨天、电影感、反乌托邦、幽闭恐惧、受《银翼杀手》启发、高对比度、1:1 正方形构图，画面中不留任何干净的空白区域，且无水印。
+
+[English]
+Create an ultra-dense, extremely noisy cyberpunk night chase scene in a rain-soaked vertical megacity, viewed from a tilted high-angle perspective looking down a steep slick elevated roadway between towering skyscrapers. The main subject is {argument name="main vehicle" default="a black futuristic police hoverbike"} in the lower-left foreground, ridden by {argument name="rider description" default="a helmeted armored officer in a glossy black rain suit with yellow Japanese police lettering"}, leaning forward at high speed with a bright red rear light and wet reflections. Show exactly 4 prominent police vehicles: 1 foreground hoverbike, 1 large hovering police craft on the upper right with red-and-blue emergency lights and a downward white search beam, and 2 smaller distant hovering police craft in the center firing narrow white searchlights into the rain. The city should be packed with dark high-rise windows, scaffolds, cables, bridges, and reflective glass, with heavy rain streaks, mist, spray, motion blur, lens bloom, chromatic aberration, film grain, digital noise, compression artifacts, and chaotic detail everywhere. Add exactly 4 prominent readable neon signs: a tall pink Japanese sign on the left reading 「愛を込めて」 with 「ホテル」 below it, a small purple sign near the upper center-left reading 「空き家？」, a red sign in the mid-distance reading 「ホテル」, and a tall pink pharmacy sign on the right reading 「未来薬局」 with a glowing yellow medical cross. Use a palette of {argument name="color palette" default="electric magenta, cyan blue, deep violet, wet black, and police red-blue highlights"}. Include one obvious rectangular digital glitch block near the upper center, colored {argument name="glitch block color" default="solid bright blue with a soft gradient"}, partially obscuring a neon billboard. Make the whole image feel like maximum visual noise: hyper-detailed, crowded, reflective, rainy, cinematic, dystopian, claustrophobic, Blade Runner-inspired, high contrast, 1:1 square composition, no clean empty areas, no watermark.
+```
+
+**来源：** [@lost in latency](https://x.com/lostinlatencyX/status/2062995092760084536) | 2026-06-05
+
+---
+
+### 🏷️ 例 429：嘈杂的赛博朋克新宿雨中站台
+
+![嘈杂的赛博朋克新宿雨中站台](../images/%E5%98%88%E6%9D%82%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%96%B0%E5%AE%BF%E9%9B%A8%E4%B8%AD%E7%AB%99%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个极其嘈杂、细节丰富的赛博朋克雨夜火车站台，地点位于 {argument name="station name" default="新宿"}，东京。摄像机位于站台高度，斜向俯瞰拥挤的站台，一列圆润的黑色玻璃通勤列车正从右侧驶入，其圆润的车头闪烁着白色前灯、蓝色底灯和洋红色反光，轨道附近有蒸汽或雾气，列车前方的目的地显示屏上写着 {argument name="station name" default="新宿"} 和 {argument name="line number" default="03"}。场景中挤满了穿着深色雨衣的通勤者，撑着 32 把清晰可见的透明雨伞，伞面上布满水珠，反射着霓虹蓝、青色、紫色和亮粉色的光芒。湿漉漉的瓷砖路面、触觉黄色站台条、水坑、轨道槽、高架梁、电缆和密集的城市基础设施都应具有鲜明的纹理和视觉噪点，到处都是雨丝。添加 6 个醒目的发光信息元素：1 个巨大的半透明青色和洋红色路线图全息图，位于左上方，标注为 {argument name="map headline" default="新宿"}，带有日文车站文本和粉色交通线路；1 个位于最左侧的黄色出口标志，写着 {argument name="exit text" default="Exit S2 for Shinjuku Shibuya"}；1 个位于中心附近的小型黄色站台方向指示牌；1 个青色高架站台标志，写着 03；1 个位于列车前方的亮洋红色车站标志；以及 1 组位于右侧城市背景中的垂直霓虹灯广告。使用密集的日文和英文交通排版，在适当的地方包含“新宿”和“Shinjuku”，但要保持真实感，而非追求完美的可读性。风格：电影级写实主义与未来派 UI 叠加效果的结合，极高 ISO 颗粒感，高对比度，湿润的反光表面，《银翼杀手》般的氛围，混乱的视觉噪点，清晰的倒影，体积感雨水，深邃的阴影，电光青与洋红色调，1:1 正方形构图，无干净的留白区域，无水印。
+
+[English]
+Create an extremely noisy, hyper-detailed cyberpunk rainy-night train platform in {argument name="station name" default="Shinjuku"}, Tokyo. The camera is at platform height looking diagonally down a crowded platform toward a sleek black glass commuter train arriving on the right, its rounded front glowing with white headlights, blue under-light, magenta reflections, steam or mist near the rails, and a front destination display reading {argument name="station name" default="Shinjuku"} and {argument name="line number" default="03"}. The scene is packed with commuters in dark raincoats under exactly 32 visible transparent umbrellas, all covered in water droplets and reflecting neon blue, cyan, purple, and hot pink light. Wet tiled pavement, tactile yellow platform strips, puddles, rail grooves, overhead beams, cables, and dense urban infrastructure should all be sharply textured and visually noisy, with rain streaks everywhere. Add 6 prominent glowing information elements: 1 huge translucent cyan-and-magenta route map hologram in the upper left labeled {argument name="map headline" default="Shinjuku"} with Japanese station text and a pink transit line; 1 yellow exit sign on the far left reading {argument name="exit text" default="Exit S2 for Shinjuku Shibuya"}; 1 small yellow platform direction sign near the center; 1 cyan overhead platform sign reading 03; 1 bright magenta station sign on the train front; and 1 cluster of distant vertical neon advertisements on the right-side city background. Use dense Japanese and English transit typography, including 新宿 and Shinjuku where appropriate, but keep it believable rather than perfectly legible. Style: cinematic photorealism mixed with futuristic UI overlays, extreme high ISO grain, high contrast, wet reflective surfaces, blade-runner-like atmosphere, chaotic visual noise, crisp reflections, volumetric rain, dark shadows, electric cyan and magenta palette, square 1:1 composition, no clean empty areas, no watermark.
+```
+
+**来源：** [@lost in latency](https://x.com/lostinlatencyX/status/2062995092760084536) | 2026-06-05
+
+---
+
+### 🏷️ 例 430：雨中赛博朋克港口黑市
+
+![雨中赛博朋克港口黑市](../images/%E9%9B%A8%E4%B8%AD%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%B8%AF%E5%8F%A3%E9%BB%91%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个未来派亚洲大都市中，夜晚密集的赛博朋克黑色电影风格水岸黑市场景，强调极致的视觉噪点、雨水、污垢、反射和极其丰富的细节。摄像机位于码头水平面，沿拥挤的港口市场斜向拍摄：前景是湿漉漉的混凝土码头和水坑，右侧是帐篷下商贩和顾客的深色剪影，左侧是小型渔船和货船，背景是隐没在蓝色薄雾中的广阔霓虹天际线。一个身穿深色雨衣的兜帽人影站在前景中央面向市场，周围环绕着板条箱、木桶、缠绕的电缆、雨伞、临时摊位和闪闪发光的垃圾。右侧添加高耸的堆叠集装箱和工业起重机，左上方悬挂着货物，一架黑色货运无人机正运载着一个集装箱。使用冷青蓝色城市灯光与热洋红色霓虹灯混合，深邃的阴影、浓重的雨雾、体积雾以及覆盖所有表面的光亮反射。包含 6 个清晰可见的主要文字/标志元素：集装箱上读取 {argument name="shipping company sign" default="TENKO SHIPPING"} 的青色标志，青色全息货运无人机面板读取 {argument name="drone sign" default="CARGO DRONE"}，青色码头标志读取 {argument name="dock sign" default="DOCK 7"}，上方带有日文或中文的明亮洋红色市场标志读取 {argument name="market sign" default="Black Market"}，蓝色船只标签读取 {argument name="boat label" default="海狼 07"}，以及散布的带有难以辨认的小型亚洲字符的垂直霓虹塔标志。风格：超精细电影概念艺术，《银翼杀手》风格的赛博朋克，照片级写实哑光绘画，高对比度，情绪化，混乱，雨水浸润，1:1 正方形构图，前景细节锐利且具有大气深度，无干净的空白区域，无日光，非卡通风格。
+
+[English]
+Create a dense cyberpunk noir waterfront black market scene at night in a futuristic Asian megacity, emphasizing extreme visual noise, rain, grime, reflections, and overwhelming detail. The camera is at dock level looking diagonally along a crowded harbor market: wet concrete piers and puddles in the foreground, dark silhouettes of vendors and customers under tarps on the right, small fishing boats and cargo boats on the left, and a vast neon skyline fading into blue mist in the background. A lone hooded figure in a dark raincoat stands near the center foreground facing the market, surrounded by crates, barrels, tangled cables, umbrellas, makeshift stalls, and glistening trash. Add towering stacked shipping containers and industrial cranes on the right, with suspended cargo and a black cargo drone in the upper left carrying a container. Use cold cyan-blue city light mixed with hot magenta neon, deep shadows, heavy rain haze, volumetric fog, and glossy reflections across every surface. Include exactly 6 visible major text/sign elements: a cyan sign on the containers reading {argument name="shipping company sign" default="TENKO SHIPPING"}, a cyan holographic cargo drone panel reading {argument name="drone sign" default="CARGO DRONE"}, a cyan dock sign reading {argument name="dock sign" default="DOCK 7"}, a bright magenta market sign reading {argument name="market sign" default="Black Market"} with Japanese or Chinese characters above it, a blue boat label reading {argument name="boat label" default="海狼 07"}, and scattered vertical neon tower signs with small unreadable Asian characters. Style: ultra-detailed cinematic concept art, Blade Runner-inspired cyberpunk, photorealistic matte painting, high contrast, moody, chaotic, rain-soaked, 1:1 square composition, sharp foreground detail with atmospheric depth, no clean empty areas, no daylight, no cartoon style.
+```
+
+**来源：** [@lost in latency](https://x.com/lostinlatencyX/status/2062995092760084536) | 2026-06-05
+
+---
+
+### 🏷️ 例 431：嘈杂的赛博朋克雨夜小巷
+
+![嘈杂的赛博朋克雨夜小巷](../images/%E5%98%88%E6%9D%82%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9B%A8%E5%A4%9C%E5%B0%8F%E5%B7%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在未来派的日本大都市中，创建一个极度密集、雨夜的赛博朋克街头市场。视角位于狭窄小巷的平视高度，巷内挤满了身穿深色雨衣、透明雨披和打着黑色雨伞的行人。地面湿滑且充满倒影，面摊冒着蒸汽，管道滴水，头顶电缆错综复杂，阳台层层堆叠，摩天大楼隐没在雾气中。使图像在视觉上极度嘈杂且信息密集，不留任何空白区域：包含数百个微小的灯光、招牌、电缆、屏幕、水滴、倒影、人群剪影、市场物品和分层建筑。配色方案为霓虹洋红色、青色、深蓝色、黑色以及面摊温暖的黄色灯光。包含 15 个清晰或半清晰的霓虹灯/招牌元素：右侧 1 个写有「ホテル H」的大型垂直粉色酒店招牌，左上方 1 个大型粉色汉字招牌，左侧 1 个写有「栄養 ヌードル 24時間営業」的黄色面摊招牌，旁边 1 个较小的黄色菜单项目，左中位置 1 个写有「ホテル ホテル」的粉色方形酒店招牌，左侧面摊上方 1 个青色全息界面面板，远方中心 1 个高大的蓝色全息广告牌，右上角 1 个青色矩形全息面板，附近 1 个小型青色文本面板，远方中心 1 个写有「オープン」的粉色招牌，巷子中间 1 个垂直红色招牌，右侧 1 个写有「女侍」的粉色招牌，右侧 1 个写有「空き室」的小型青色招牌，左下角 1 个明亮的面摊招牌，以及左下角 1 个小型蓝色数据屏幕。放置 9 个从背面或侧面可见的独特前景和中景行人，包括中心一名穿黑色夹克的角色、右中一名穿透明雨披的人、最右侧一名穿深色连帽衫的角色，以及几名打伞的行人。添加 2 个活跃的面摊，左侧一个摆放着冒热气的锅和堆叠的碗，右侧一个摆放着食物托盘。采用电影级写实数字艺术风格，高对比度，体积雨，光泽倒影，粗粝磨损的材质，《银翼杀手》氛围，清晰的前景细节，深邃的透视感，以及极度的杂乱感。添加强烈的传感器噪点、胶片颗粒、色差、压缩伪影、光晕、辉光、散落的斑点和故障全息覆盖层，同时保持场景的可辨识度。无干净简洁区域，无日光，无卡通风格，无水印。城市氛围应为 {argument name="city mood" default="压抑的雨夜霓虹混乱"}；招牌主要语言应为 {argument name="sign language" default="日语"}；主导霓虹色应为 {argument name="neon palette" default="洋红色和青色"}；天气应为 {argument name="weather" default="大雨伴随蒸汽"}；噪点强度应为 {argument name="noise intensity" default="最大值"}。
+
+[English]
+Create an ultra-dense cyberpunk rainy night street market in a futuristic Japanese megacity, viewed from eye level down a narrow alley packed with pedestrians in dark raincoats and transparent ponchos, black umbrellas, wet reflective pavement, steam from noodle stalls, dripping pipes, tangled overhead cables, stacked balconies, and skyscrapers fading into mist. Make the image extremely visually noisy and information-dense, with no empty areas: hundreds of tiny lights, signs, cables, screens, droplets, reflections, crowd silhouettes, market objects, and layered architecture. The color palette is neon magenta, cyan, deep blue, black, and warm yellow food-stall light. Include exactly 15 prominent readable or semi-readable neon/sign elements: 1 large vertical pink hotel sign on the right reading 「ホテル H」, 1 large pink kanji sign high on the left, 1 yellow noodle sign on the left reading 「栄養 ヌードル 24時間営業」, 1 smaller yellow menu board beside it, 1 pink square hotel sign mid-left reading 「ホテル ホテル」, 1 cyan holographic interface panel above the left food stall, 1 tall blue hologram billboard in the far center, 1 cyan rectangular hologram panel upper right, 1 small cyan text panel near it, 1 pink sign in the distant center reading 「オープン」, 1 vertical red sign mid-alley, 1 pink sign on the right reading 「女侍」, 1 small cyan sign on the right reading 「空き室」, 1 bright food-stall sign near the lower left, and 1 small blue data screen at the bottom left. Put exactly 9 distinct foreground and midground pedestrians visible from behind or side view, including one central figure in a black jacket, one person in a translucent poncho on the right-center, one dark hooded figure at far right, and several umbrella carriers. Add exactly 2 active food stalls, one on the left with steaming pots and stacked bowls and one on the right with trays of food. Use cinematic photorealistic digital art, high contrast, volumetric rain, glossy reflections, gritty worn materials, Blade Runner atmosphere, sharp foreground detail, deep perspective, and extreme clutter. Add heavy sensor noise, film grain, chromatic aberration, compression artifacts, halation, bloom, scattered speckles, and glitchy holographic overlays while keeping the scene recognizable. No clean minimal areas, no daylight, no cartoon style, no watermark. The city should feel like {argument name="city mood" default="overwhelming rainy neon chaos"}; main language on signs should be {argument name="sign language" default="Japanese"}; dominant neon colors should be {argument name="neon palette" default="magenta and cyan"}; weather should be {argument name="weather" default="heavy rain with steam"}; noise intensity should be {argument name="noise intensity" default="maximum"}.
+```
+
+**来源：** [@lost in latency](https://x.com/lostinlatencyX/status/2062995092760084536) | 2026-06-05
+
+---
+
+### 🏷️ 例 433：低角度花海跨步
+
+![低角度花海跨步](../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E8%8A%B1%E6%B5%B7%E8%B7%A8%E6%AD%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影级超广角低角度镜头，拍摄 {argument name="subject" default="一位漫步在绚丽花海中的时尚年轻女性"}，从她抬起的脚下方地面直接取景。鞋底在前景中清晰对焦，营造出大胆的强制透视构图。她身着 {argument name="outfit" default="柔软的米色套装和轻便外套"}，长发在微风中自由飘动。{argument name="flowers" default="色彩斑斓的野花和波斯菊"} 环绕四周。上方天空湛蓝，点缀着轻柔的薄云，赋予画面梦幻、通透的氛围。自然光照，柔和阴影，高级时尚杂志美学，超写实，浅景深，8K 细节
+
+[English]
+Cinematic ultra-wide low-angle shot of a {argument name="subject" default="stylish young woman strolling through a vibrant flower meadow"}, shot from ground level directly beneath her raised foot mid-stride. Her shoe sole fills the foreground in sharp focus, creating a bold forced-perspective composition. She wears a {argument name="outfit" default="soft beige outfit and light jacket"}, long hair flowing freely in the breeze. {argument name="flowers" default="Colorful blooming wildflowers and cosmos"} surround the scene. The sky above is a clear blue with soft wispy clouds, giving the image a dreamy, airy mood. Natural sunlight, gentle shadows, high fashion editorial aesthetic, hyperrealistic, shallow depth of field, 8K detail
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2062974923774287952) | 2026-06-05
+
+---
+
+### 🏷️ 例 453：Neito 品牌色彩探索项目
+
+![Neito 品牌色彩探索项目](../images/Neito%20%E5%93%81%E7%89%8C%E8%89%B2%E5%BD%A9%E6%8E%A2%E7%B4%A2%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一个名为 {argument name="brand name" default="Neito"} 的虚构 SaaS 落地页构建器创建一个简洁的品牌探索项目，展示在 4 个完全相同的色彩方向下重复的网站和品牌标识系统。
+
+画布：宽屏 16:9 白色画布，排列为 2×2 网格，包含四个完整的品牌/网站模型面板，并留有充足的留白。每个面板除强调色和柔和的模糊渐变装饰外，几乎完全相同。
+
+布局：每个面板包含 2 个主要区域：左侧的大型落地页模型和右侧的窄版品牌指南栏。四个强调色主题分别为：1 蓝色，2 绿色，3 橙色，4 紫色。
+
+落地页模型细节：在左上角放置 Logo 标识，即两个正斜杠后接“Neito”以及一个小星星/火花符号。在顶部导航栏放置 5 个项目：Product、Templates、Pricing、About 以及一个黑色的圆角“Get started”按钮。在中心放置一个大的衬线体标题：“Words become landing pages.”。下方添加简短的灰色辅助文案，描述如何将想法和内容转化为精美的落地页，然后是一个写有“Start for free”的黑色胶囊按钮。在按钮下方放置 3 个带有图标的小型功能标签：“No code”、“Quick setup”和“Always in sync”。在英雄区标题后方使用一个巨大的、带有面板强调色的空气感模糊圆形渐变环。
+
+底部网站卡片：在每个英雄区下方放置 3 个带有细边框和圆角的矩形内容卡片。卡片 1 写着“Build pages from your ideas.”，并配有一个黑色小胶囊按钮“Try Neito”。卡片 2 写着“Launching soon.”，包含一个小型圆角电子邮件/输入框以及一个黑色“Notify me”按钮和细抽象圆线图形。卡片 3 编号为“01”，写着“Type your thoughts.”，配有简短描述性文字和右下角一个被裁剪的模糊强调色圆环。
+
+品牌指南栏：添加一个小标题“BRAND IDEA”和一段小字号的黑色日式段落文本。下方创建 4 个由细灰色水平线分隔的标注部分：COLOR PALETTE、TYPOGRAPHY、VISUAL LANGUAGE 和一张示例卡片。在 COLOR PALETTE 中展示 2 个圆形色块，分别标注为 Main 和 Accent；Main 色块接近白色，Accent 色块与面板颜色匹配，每个色块旁附有十六进制颜色代码标签。在 TYPOGRAPHY 中展示 2 个字体样本：一个标注为标题的大号衬线体“Aa”和一个标注为正文的小号无衬线体“Aa”。在 VISUAL LANGUAGE 中展示 4 个圆形图标，分别标注为 Flow、Connection、Simplicity 和 Flex，其中一个或多个使用强调色作为模糊环。最后的示例卡片写着“From thought to landing page.”，配有简短副标题和被裁剪的模糊强调色圆环。
+
+视觉风格：极简高级网页设计展示，单色排版，大量留白，细浅灰色分隔线，微妙阴影，柔和磨砂渐变，衬线标题搭配微小的现代无衬线 UI 标签。保持整体清晰，如同 Figma 品牌探索截图。使用 {argument name="headline text" default="Words become landing pages."} 作为重复的英雄区主标题，使用 {argument name="accent palette" default="blue, green, orange, purple"} 作为四种颜色变体，以及 {argument name="canvas ratio" default="16:9"}。
+
+约束：展示 4 个面板，每个面板 3 个底部网站卡片，每个面板 2 个品牌区域，每个品牌指南 2 个色块，每个品牌指南 2 个字体样本，以及每个品牌指南 4 个视觉语言图标。不要添加照片、人物、设备边框、深色背景或额外的面板。
+
+[English]
+Goal: Create a clean brand exploration board for a fictional SaaS landing-page builder called {argument name="brand name" default="Neito"}, showing the same website and brand identity system repeated in exactly 4 color directions.
+
+Canvas: Wide 16:9 white canvas, arranged as a 2×2 grid of four complete brand/website mockup panels with generous white space. Each panel is nearly identical except for the accent color and soft blurred gradient decorations.
+
+Layout: Each of the 4 panels contains exactly 2 main areas: a large landing-page mockup on the left and a narrow brand-guide column on the right. The four accent themes are: 1 blue, 2 green, 3 orange, 4 purple.
+
+Landing-page mockup details: At the top left place the logo mark as two forward slashes followed by “Neito” with a small star/spark symbol. Across the top navigation place exactly 5 items: Product, Templates, Pricing, About, and a black rounded “Get started” button. Center a large editorial serif headline: “Words become landing pages.” Below it add small gray supporting copy about turning ideas and content into beautiful ready-to-share landing pages, then a black pill button reading “Start for free”. Under the button place exactly 3 small feature chips with icons: “No code”, “Quick setup”, and “Always in sync”. Behind the hero headline use a huge airy blurred circular gradient ring in the panel’s accent color.
+
+Bottom website cards: Under each hero section place exactly 3 rectangular content cards with thin borders and rounded corners. Card 1 reads “Build pages from your ideas.” with a small black pill button “Try Neito”. Card 2 reads “Launching soon.” and includes a small rounded email/input pill plus a black “Notify me” button and a thin abstract circle-line graphic. Card 3 is numbered “01” and reads “Type your thoughts.” with small descriptive text and a large cropped blurred accent-color ring in the lower right.
+
+Brand-guide column: Add a small heading “BRAND IDEA” and a short Japanese-style paragraph block in small black text. Below it create exactly 4 labeled sections separated by thin gray horizontal rules: COLOR PALETTE, TYPOGRAPHY, VISUAL LANGUAGE, and a sample card. In COLOR PALETTE show exactly 2 circular swatches labeled Main and Accent; the Main swatch is near-white and the Accent swatch matches the panel color, with a small hex-code label beside each. In TYPOGRAPHY show exactly 2 type specimens: a large serif “Aa” labeled for headlines and a smaller sans-serif “Aa” labeled for body text. In VISUAL LANGUAGE show exactly 4 circular tokens labeled Flow, Connection, Simplicity, and Flex, with one or more using the accent color as a blurred ring. The final sample card reads “From thought to landing page.” with small subtext and a cropped blurred accent-color ring.
+
+Visual style: Minimal premium web-design presentation, monochrome typography, lots of white space, thin light-gray dividers, subtle shadows, soft frosted gradients, editorial serif headline paired with tiny modern sans-serif UI labels. Keep everything crisp like a Figma brand exploration screenshot. Use {argument name="headline text" default="Words become landing pages."} as the main repeated hero headline, {argument name="accent palette" default="blue, green, orange, purple"} for the four color variants, and {argument name="canvas ratio" default="16:9"}.
+
+Constraints: Show exactly 4 panels, exactly 3 bottom website cards per panel, exactly 2 brand areas per panel, exactly 2 color swatches per brand guide, exactly 2 typography specimens per brand guide, and exactly 4 visual-language tokens per brand guide. Do not add photos, people, device frames, dark backgrounds, or extra panels.
+```
+
+**来源：** [@塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo/status/2062912040784835057) | 2026-06-05
+
+---
+
+### 🏷️ 例 454：排版墙对比信息图
+
+![排版墙对比信息图](../images/%E6%8E%92%E7%89%88%E5%A2%99%E5%AF%B9%E6%AF%94%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的深色科技风格信息图，展示 AI 生成排版准确性的突破，对比 2022–2024 年破碎的文本生成与 2026 年已解决的、可直接用于品牌的文本生成。
+
+画布：宽屏 16:9 社交媒体图片，黑色背景配以微妙的蓝/红光，电影级产品广告布光，高对比度，清晰的排版，未来感 SaaS/品牌设计美学。
+
+顶部区域：在左上角放置一个发光的霓虹字母组合 Logo，形状为电光蓝色的风格化字母 B。在中心放置一个巨大的粗体全大写白色标题：{argument name="headline text" default="排版墙刚刚倒塌"}。在其下方，添加一个较小的斜体灰色副标题：{argument name="subtitle text" default="GPT-Image-2 与新一代文本精准 AI"}。
+
+主要布局：将图片垂直分为左右两个对比部分，中间有一条细长的发光分割线。左侧使用红色灯光，右侧使用蓝色灯光。
+
+左侧面板，破碎时代：在顶部添加一个小的圆形红色轮廓标签，显示 {argument name="left year label" default="2022-2024"}。展示 1 个大型黑色化妆品罐/产品桶，带有红色高光，占据左下半部分。其标签应看起来损坏且有故障感：一个巨大的碎片化白色单词，类似于“BRAND”，但被拆解成不可读的重复字母，外加多行幻觉符号、伪字母、扭曲的条形码状线条以及一个小的损坏二维码块。在左侧面板底部，添加一个圆形红色轮廓状态标签，显示“AI 文本曾是破碎的”。
+
+右侧面板，解决时代：在顶部添加一个小的圆形蓝色轮廓标签，显示 {argument name="right year label" default="2026"}。展示 3 个清晰的品牌设计示例，文字锐利可读：右侧中央有 1 个护肤品盒及配套软管，最右侧堆叠有 2 张矩形数字品牌卡片。护肤品包装上的品牌名称应为 {argument name="brand name" default="LUMINA"}，并配有可读的辅助文案，如“DAILY RENEW MOISTURIZER”、“Hydrate. Protect. Glow Every Day.”、成分表以及“50 ml e 1.7 fl oz”。上方的数字卡片应显示“BRANDISEER”、“Create On-Brand Visuals in Seconds.”，较小的文字“AI that knows your brand. So you don’t have to.”，以及“brandiseer.com”，并配有一个发光的蓝色图像/图标插图。下方的数字卡片应显示“INSIGHTS”、“JUNE 2026”、“The Future of Brand Consistency”，以及关于 AI 如何帮助团队在不减速的情况下扩展高质量品牌视觉效果的较小正文，并配有一个抽象的蓝色波浪图形。在右侧面板底部，添加一个圆形蓝色轮廓状态标签，显示“已解决”。
+
+元素数量：构图必须包含 2 个对比面板、1 个霓虹 Logo、1 个主标题、1 个副标题、2 个年份标签、左侧 1 个损坏的产品罐、右侧 3 个清晰的品牌示例以及 2 个底部状态标签。
+
+视觉风格：照片级产品渲染与精致的 UI 模型设计相结合，光面黑色表面，霓虹边缘光，红/蓝赛博朋克色彩对比，超清晰可读文本，高端品牌设计呈现，无多余物体，无水印。
+
+[English]
+Goal: Create a sleek dark tech infographic about the breakthrough in AI-generated typography accuracy, contrasting broken text generation from 2022–2024 with solved, brand-ready text generation in 2026.
+
+Canvas: Wide 16:9 social media graphic, black background with subtle blue/red glow, cinematic product-ad lighting, high contrast, crisp typography, futuristic SaaS/brand design aesthetic.
+
+Top area: Place a glowing neon monogram logo in the upper-left corner, shaped like a stylized letter B in electric blue. Center a huge bold all-caps white headline: {argument name="headline text" default="THE TYPOGRAPHY WALL JUST CAME DOWN"}. Beneath it, add a smaller italic gray subtitle: {argument name="subtitle text" default="GPT-Image-2 and the new generation of text-accurate AI"}.
+
+Main layout: Split the image vertically into two comparison halves with a thin glowing divider line down the center. Use red lighting on the left side and blue lighting on the right side.
+
+Left panel, broken era: At the top, add a small rounded red outlined label reading {argument name="left year label" default="2022-2024"}. Show exactly 1 large black cosmetic jar/product tub, lit with red highlights, occupying the lower-left half. Its label should look corrupted and glitchy: a huge fragmented white word resembling “BRAND” but broken into unreadable duplicated letters, plus multiple rows of hallucinated symbols, pseudo-letters, distorted barcode-like lines, and a small corrupted QR-code block. At the bottom of the left panel, add a rounded red outlined status label reading “AI TEXT WAS BROKEN”.
+
+Right panel, solved era: At the top, add a small rounded blue outlined label reading {argument name="right year label" default="2026"}. Show exactly 3 clean brand-design examples with sharp readable text: 1 skincare box and matching tube in the center-right, plus 2 rectangular digital brand cards stacked on the far right. The skincare packaging brand name should be {argument name="brand name" default="LUMINA"}, with readable supporting copy such as “DAILY RENEW MOISTURIZER”, “Hydrate. Protect. Glow Every Day.”, an ingredients list, and “50 ml e 1.7 fl oz”. The upper digital card should read “BRANDISEER”, “Create On-Brand Visuals in Seconds.”, smaller text “AI that knows your brand. So you don’t have to.”, and “brandiseer.com”, with a glowing blue image/icon illustration. The lower digital card should read “INSIGHTS”, “JUNE 2026”, “The Future of Brand Consistency”, and smaller body copy about AI helping teams scale high-quality on-brand visuals without slowing down, with an abstract blue wave graphic. At the bottom of the right panel, add a rounded blue outlined status label reading “SOLVED”.
+
+Element count: The composition must contain exactly 2 comparison panels, 1 neon logo, 1 main headline, 1 subtitle, 2 year labels, 1 corrupted product jar on the left, 3 clean brand examples on the right, and 2 bottom status labels.
+
+Visual style: Photorealistic product rendering mixed with polished UI mockup design, glossy black surfaces, neon rim light, red/blue cyberpunk color contrast, ultra-sharp readable text, premium brand-design presentation, no extra objects, no watermark.
+```
+
+**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2062910321740689816) | 2026-06-05
+
+---
+
+### 🏷️ 例 455：电影感深红月色动漫武士
+
+![电影感深红月色动漫武士](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B7%B1%E7%BA%A2%E6%9C%88%E8%89%B2%E5%8A%A8%E6%BC%AB%E6%AD%A6%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="character" default="年轻男性动漫武士"} 站在广阔的金色高草丛中，采用低角度侧面拍摄视角。他身穿一件 {argument name="outfit" default="深黑灰格纹羽织/和服"}，腰间别着一把武士刀。他留着黑色短刺头，发丝微微飘动，佩戴着小巧的矩形垂坠耳环。他抬头望向天空，神情冷静而坚定。在他身后，一轮 {argument name="celestial body" default="巨大的深绯红色满月"} 占据了背景天空。天空呈现出鲜艳的日落色调——炽热的橙色、珊瑚红和深靛蓝色，地平线上散布着极具戏剧性的油画质感云层。一群翅膀尖锐的红黑色鸟类（燕子/雨燕）在天空中向不同方向动态翱翔，为画面增添了动感与活力。前景中的野草和麦秆沐浴在温暖的红橙色背光中，营造出电影般的剪影效果。艺术风格：电影感动漫插画，超精细 2D 数字绘画，赛璐珞风格结合柔和的油画质感，情绪化的氛围光影，背光黄金时刻与深邃的阴影对比，绯红、琥珀、靛蓝与炭灰色的鲜艳饱和色调。长宽比：9:16 竖屏。氛围：史诗感、沉思、忧郁。
+
+[English]
+A {argument name="character" default="young male anime warrior"} standing in a vast golden field of tall wild grass, viewed from a low-angle side profile shot. He wears a {argument name="outfit" default="dark black-and-grey checkered haori/kimono"} with a katana tucked at his waist. His short spiky black hair flows slightly, and he wears small dangling rectangular earrings. His gaze is directed upward toward the sky with a calm, determined expression. Behind him rises an {argument name="celestial body" default="enormous deep crimson-red full moon"} dominating the background sky. The sky is painted in vivid sunset tones — blazing orange, coral red, and deep indigo blue — with dramatic painterly clouds scattered across the horizon. A flock of sharp-winged red and black birds (swallows/swifts) soar dynamically across the sky in various directions, adding motion and energy to the composition. The foreground features wild grass and wheat stalks bathed in warm red-orange backlight, creating a cinematic silhouette effect. Art style: cinematic anime illustration, ultra-detailed 2D digital painting, cel-shaded with soft painterly textures, moody atmospheric lighting, backlit golden hour with deep shadow contrast, vivid saturated color palette of crimson, amber, indigo and charcoal. Aspect ratio: 9:16 portrait. Mood: epic, contemplative, melancholic.
+```
+
+**来源：** [@AAQIB 0.2](https://x.com/akkiwani703/status/2062906977001582685) | 2026-06-05
+
+---
+
+### 🏷️ 例 459：Vogue 风格时尚插画
+
+![Vogue 风格时尚插画](../images/Vogue%20%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此照片转换为 {argument name="style" default="Vogue 风格时尚插画"}，并保留 {argument name="key feature" default="主体身份、面部特征和相似度"}。极简手绘素描，具有优雅的修长比例、醒目的黑色墨水轮廓、洒脱自信的线条、平涂马克笔色彩以及微妙的腮红点缀。风格化的眼睛、图形化的嘴唇、富有表现力的墨水质感发丝，以及简化的 {argument name="element" default="几何服装形状"}。干净的白色背景，扫描纸张纹理，现代奢华编辑时尚插画。请勿添加任何文字。
+
+[English]
+Turn this photo into a {argument name="style" default="Vogue-style fashion illustration"}, preserving the {argument name="key feature" default="subject's identity, facial features, and likeness"}. Minimalist hand-drawn sketch with elegant elongated proportions, bold black ink contours, loose confident linework, flat marker colors, and subtle blush accents. Stylized eyes, graphic lips, expressive ink hair, and simplified {argument name="element" default="geometric clothing shapes"}. Clean white background, scanned paper texture, modern luxury editorial fashion illustration. Do not add any text.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2062900184695161331) | 2026-06-05
+
+---
+
+### 🏷️ 例 472：Tom & Jerry 提示词：
+
+面部参考：使用专业
+
+![Tom & Jerry 提示词：
+
+面部参考：使用专业](../images/Tom%20%26%20Jerry%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E9%9D%A2%E9%83%A8%E5%8F%82%E8%80%83%EF%BC%9A%E4%BD%BF%E7%94%A8%E4%B8%93%E4%B8%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+面部参考：将提供的照片作为绝对最高优先级。观众必须能够一眼认出主体，不容置疑。锁定：精确的发型及自然的蓬松感、精准的面部比例、眼睛形状和颜色、自然的胡茬阴影，
+
+[English]
+FACIAL REFERENCE: Use provided photos as absolute highest priority.
+The viewer must instantly recognize the subject without any doubt.
+Lock in: exact hairstyle with natural volume, precise facial
+proportions, eye shape and color, natural beard shadow,
+```
+
+**来源：** [@SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ/status/2062867078349300112) | 2026-06-05
+
+---
+
+### 🏷️ 例 473：四宫格图标风格目录
+
+![四宫格图标风格目录](../images/%E5%9B%9B%E5%AE%AB%E6%A0%BC%E5%9B%BE%E6%A0%87%E9%A3%8E%E6%A0%BC%E7%9B%AE%E5%BD%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个整洁的 2×2 展示拼贴图，在白色背景上呈现四种不同的图标材质风格，类似于 GPT Images 的提示词集合预览。在象限之间使用细浅灰色分隔线，并保持统一且充裕的间距。整体图像应呈现出一种现成图标风格的目录页质感。
+
+画布：宽幅横向画布，16:9 比例，白色背景，四个相等的矩形面板按 2×2 网格排列，带有细微的浅灰色间隙。
+
+左上角面板：渲染 15 个色彩鲜艳的 3D 数字营销和社交媒体图标，在白色摄影棚背景上按 5 个一组、共 3 行整齐排列，带有柔和阴影。包含以下 15 个项目：1 个红白相间的扩音器、1 个带箭头的红色靶心、1 个显示应用界面的智能手机、1 个带小徽章的红色爱心通知卡、1 个蓝色标签磁贴、1 个桌面日历、1 个桌面分析显示器、1 个带有 @ 符号和纸飞机的黄色电子邮件信封、1 叠名片、1 个覆盖在个人头像上的放大镜、1 个带有绿色箭头的向上增长柱状图、1 位正在使用环形灯拍摄并带有浮动爱心的女性网红、1 个写有“SCAN ME”的蓝色二维码标签、1 个写有“2.3K”的蓝色点赞气泡，以及 1 个写有“YOUR BRAND”的广告牌。使用光泽圆润的 3D 形状，采用亮红、蓝、黄、绿色调，并配以柔和逼真的投影。
+
+右上角面板：渲染 20 个受著名艺术主题启发的黑色手绘线条图标，在白色背景上按 5 个一组、共 4 行排列。包含以下 20 个项目：1 个类似《蒙娜丽莎》的坐姿肖像、1 个《星夜》风格的风景框、1 个背景呈波浪状的尖叫人物、1 个《维纳斯的诞生》中的贝壳人物、1 个融化的时钟、1 个戴面纱的女性半身像、1 个《美国哥特式》风格的夫妇、1 个《神奈川冲浪里》、1 个花瓶、1 个《思想者》坐姿人物、1 个古典站立男性雕像、1 个古典长袍女性雕像、1 个抽象图案连衣裙人物、1 个牛头、1 个无脸半身肖像、1 个标有“Campbell’s SOUP”的波普艺术汤罐头、1 个指尖相触的手、1 个跳舞人物圆环，以及两个额外的简单博物馆素描头像以填满网格。使用富有表现力的单色墨水线条，笔触略显不完美，无填充色。
+
+左下角面板：渲染 20 个黑色日式主题平面剪影图标，在白色背景上按 5 个一组、共 4 行排列。包含以下 20 个项目：1 个带云朵的富士山、1 个埃菲尔铁塔剪影、1 个类似东京晴空塔的塔楼、1 个鸟居、1 个多层宝塔、1 个日本城堡、1 个新干线列车、1 枝樱花、1 对枫叶、1 个带有“福”字的达摩不倒翁、1 个带有“福”字的招财猫、1 个武士头盔、1 件有图案的和服、1 把折扇、1 个寿司握寿司、1 碗带筷子的拉面、1 个茶碗、1 个竹茶筅、1 个带杯子的清酒瓶，以及 1 个小杯子。使用纯黑色矢量剪影，边缘清晰，内部白色镂空极少。
+
+右下角面板：渲染 15 个复古家居和电子产品作为逼真的 3D 图标，在白色摄影棚背景上按 5 个一组、共 3 行排列，带有柔和阴影。包含以下 15 个项目：1 台黑胶唱片机、1 台复古台式收音机、1 台奶油色转盘电话、1 个黄铜双铃闹钟、1 个方形木质时钟、1 台壁挂式转盘电话、1 台黄铜桌面风扇、1 台木纹立体声接收器、1 台绿松石色罐式吸尘器、1 个古董咖啡研磨机、1 个灰色计算器、1 台便携式卡带播放器、1 台薄荷绿台式收音机、1 台复古幻灯机、1 台银棕色相机，如果需要，可用即时成像相机替换其中一个项目，以确保可见数量正好为 15 个。使用怀旧的米色、棕色、黄铜色、薄荷绿和灰色，搭配逼真的材质和柔和的阴影。
+
+视觉风格：这是一个精致的图标系列对比项目。保持所有面板明亮、高调、整洁且间距均匀。避免使用标题、水印、微小图标细节之外的徽标、额外的面板或背景纹理。使图标主题可自定义为 {argument name="collection theme" default="icon material styles"}，同时保留四宫格目录布局。
+
+[English]
+Goal: Create a clean 2×2 showcase collage presenting four different icon material styles on a white background, like a prompt collection preview for GPT Images. Use thin pale-gray dividers between quadrants and consistent generous spacing. The overall image should feel like a catalog sheet of ready-to-use icon styles.
+
+Canvas: Wide horizontal canvas, 16:9 ratio, white background, four equal rectangular panels arranged in a 2×2 grid with subtle light-gray gutters.
+
+Top-left panel: Render exactly 15 colorful 3D digital marketing and social media icons, arranged in three neat rows of five on a white studio background with soft shadows. Include these 15 items: 1 red-and-white megaphone, 1 red target with arrow, 1 smartphone showing an app screen, 1 red heart notification card with a small badge, 1 blue hashtag tile, 1 desk calendar, 1 desktop analytics monitor, 1 yellow email envelope with an @ symbol and paper plane, 1 stack of business cards, 1 magnifying glass over profile avatars, 1 upward growth bar chart with green arrow, 1 female influencer filming with ring light and floating heart, 1 blue QR code tag reading “SCAN ME,” 1 blue thumbs-up speech bubble reading “2.3K,” and 1 billboard reading “YOUR BRAND.” Use glossy rounded 3D shapes, bright red, blue, yellow, and green accents, and soft realistic drop shadows.
+
+Top-right panel: Render exactly 20 black hand-drawn line-art icons inspired by famous art motifs, arranged in four rows of five on a white background. Include these 20 items: 1 seated Mona Lisa-like portrait, 1 starry-night landscape frame, 1 screaming figure with wavy background, 1 birth-of-Venus shell figure, 1 melting clock, 1 veiled woman portrait bust, 1 American Gothic-style couple, 1 great wave, 1 vase of flowers, 1 seated thinker figure, 1 classical standing male statue, 1 classical robed female statue, 1 abstract patterned dress figure, 1 bull head, 1 faceless bust portrait, 1 pop-art soup can labeled “Campbell’s SOUP,” 1 two hands nearly touching, 1 circle of dancing figures, and two additional simple museum-sketch portrait heads to complete the grid. Use expressive monochrome ink lines, slightly imperfect sketch strokes, no color fills.
+
+Bottom-left panel: Render exactly 20 black Japanese-themed flat silhouette icons, arranged in four rows of five on a white background. Include these 20 items: 1 Mount Fuji with clouds, 1 Eiffel Tower silhouette, 1 Tokyo Skytree-like tower, 1 torii gate, 1 multi-tier pagoda, 1 Japanese castle, 1 bullet train, 1 cherry blossom branch, 1 pair of maple leaves, 1 Daruma doll with the character “福,” 1 maneki-neko lucky cat with the character “福,” 1 samurai helmet, 1 patterned kimono, 1 folding fan, 1 sushi nigiri, 1 ramen bowl with chopsticks, 1 tea bowl, 1 bamboo whisk, 1 sake bottle with cup, and 1 small cup. Use solid black vector silhouettes with crisp edges and minimal internal white cutouts.
+
+Bottom-right panel: Render exactly 15 retro household and gadget objects as realistic 3D icons, arranged in three rows of five on a white studio background with soft shadows. Include these 15 items: 1 vinyl record player, 1 vintage tabletop radio, 1 cream rotary telephone, 1 brass twin-bell alarm clock, 1 wooden square clock, 1 wall-mounted rotary telephone, 1 brass desk fan, 1 wood-grain stereo receiver, 1 turquoise canister vacuum cleaner, 1 antique coffee grinder, 1 gray calculator, 1 portable cassette player, 1 mint-green tabletop radio, 1 vintage slide projector, 1 silver-and-brown camera, and 1 instant camera if needed only by replacing another item so the visible count stays exactly 15. Use nostalgic beige, brown, brass, mint, and gray colors with realistic materials and soft shadows.
+
+Visual style: This is a polished icon-series comparison board. Keep all panels bright, high-key, uncluttered, and evenly spaced. Avoid captions, watermarks, logos outside the tiny icon details, extra panels, or background texture. Make the icon theme customizable as {argument name="collection theme" default="icon material styles"}, while preserving the four-panel catalog layout.
+```
+
+**来源：** [@しらき@パワポ図解](https://x.com/kumiko_shiraki/status/2062866663197077774) | 2026-06-05
+
+---
+
+### 🏷️ 例 495：微型星球城市上空的精灵机车手
+
+![微型星球城市上空的精灵机车手](../images/%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E5%9F%8E%E5%B8%82%E4%B8%8A%E7%A9%BA%E7%9A%84%E7%B2%BE%E7%81%B5%E6%9C%BA%E8%BD%A6%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版动漫主视觉图，画面主体为 {argument name="character name" default="一位娇小的精灵系机车少女"} 骑着一辆未来感黄色悬浮摩托车在城市上空穿行。采用极具动感的低角度鱼眼/微型星球畸变视角：摩托车和骑手冲向观众，前轮在左下角前景处显得巨大，骑手的厚重靴子向镜头中心下方伸出，下方的城市弯曲成圆形的漩涡状全景。角色是一位年轻的动漫少女，留着凌乱的深棕色短发，拥有金色双眸、专注坚定的表情和淡淡的雀斑。她身穿一件超大号橙色连帽夹克，带有长长的飘逸布条，兜帽上戴着大型黄铜与青色相间的飞行员护目镜，佩戴黑色手套，身着深色短裤、过膝袜以及带有青色发光装饰的厚重机械靴。赋予她半透明的虹彩昆虫/精灵翅膀，背后清晰可见两对大型翅膀，闪烁着彩虹般的光泽并带有细密的深色脉络。悬浮摩托车是一款紧凑型赛博朋克运动摩托，采用亮面黄橙色装甲，露出黑色机械部件，配有透明有色挡风玻璃、青色发光前大灯、轮毂中的青色能量环，以及遍布车身的绿松石色灯光细节。背景是点缀着零星白云的明亮蓝天，左侧洒下温暖的阳光，远方下方是环绕圆形地平线的密集现代沿海城市；地平线附近隐约可见海洋。视觉风格：清晰精致的日本动漫插画，锐利的线条，丰富的机械细节，电影级光影，高饱和度，闪耀的高光，运动感，主角无模糊，适合 GPT 图像生成的超清晰渲染。约束条件：无文字、无 Logo、无水印，保持角色和摩托车轮廓清晰，强调骑手和摩托车的清晰度与精美细节。
+
+[English]
+Create a highly detailed vertical anime key visual of {argument name="character name" default="a petite fairy-like biker girl"} riding a futuristic yellow hoverbike through the sky above a city. Use an extreme dynamic low-angle perspective with fisheye / tiny-planet distortion: the motorcycle and rider rush toward the viewer, the front wheel huge in the lower left foreground, the rider’s heavy boot thrust toward the camera in the lower center, and the city below curves into a circular vortex-like panorama. The character is a young anime girl with short tousled dark brown hair, golden eyes, a focused determined expression, and light freckles. She wears an oversized orange hooded jacket with long fluttering fabric strips, large brass-and-teal aviator goggles on her hood, black gloves, dark shorts, thigh-high stockings, and bulky mechanical boots with cyan glowing accents. Give her translucent iridescent insect/fairy wings, exactly two large wing pairs visible behind her, shimmering with rainbow colors and thin dark veins. The hoverbike is a compact cyberpunk sport motorcycle in glossy yellow-orange armor with exposed black mechanical parts, a clear tinted windscreen, cyan glowing headlights, cyan energy rings in the wheels, and small turquoise light details throughout. The background is a bright blue sky filled with scattered white clouds, warm sunlight from the left, and a dense modern coastal city far below wrapping around the circular horizon; include hints of ocean near the horizon. Visual style: crisp polished Japanese anime illustration, sharp linework, rich mechanical detail, cinematic lighting, high saturation, sparkling highlights, motion energy, no blur on the main character, ultra-clean rendering suitable for GPT image generation. Constraints: no text, no logo, no watermark, keep the character and bike sharply defined, emphasize clarity and beautiful detail for the rider and motorcycle.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2062824245554745528) | 2026-06-05
+
+---
+
+### 🏷️ 例 498：动漫台风现场新闻记者
+
+![动漫台风现场新闻记者](../images/%E5%8A%A8%E6%BC%AB%E5%8F%B0%E9%A3%8E%E7%8E%B0%E5%9C%BA%E6%96%B0%E9%97%BB%E8%AE%B0%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的电视直播新闻剧照，展示动漫风格的台风报道。画面结合了写实的海滨风暴背景与前景中合成的可爱动漫记者。
+
+画布：16:9 横向广播画幅，黄昏或傍晚时分写实的雨中海滨城市场景，灰蓝色风暴光影，湿润的反射路面，汹涌的海浪，密集的雨线，强风，乌云，远处的城市天际线和港口塔楼。
+
+主体：一位可爱的金发动漫少女新闻记者站在海滨长廊右侧，靠在黑色金属栏杆旁。她那极长的金发被强风猛烈地吹向左侧，佩戴着粉色花朵发饰，摆出坚定的报道姿势，一只手臂指向风暴肆虐的大海。另一只手拿着黑色手持麦克风。她身着粉色偶像风格的服装：荷叶边粉色外套、蝴蝶结细节、浅色衬衫、粉色格纹百褶裙、褶边装饰、丝带和腿部配饰。她的脸部被一个居中的米色方形模糊/马赛克遮挡。
+
+环境细节：长廊被雨水浸透并带有反光，沿途排列着路灯和被风吹弯的棕榈树。画面中需准确展示 5 棵沿海滨随风倾斜的棕榈树。右侧的海面波涛汹涌，泛着白浪和水雾。城市天际线在雨雾中隐约可见，远处有高层建筑和一座亮灯的塔楼。
+
+广播图形：包含 4 组屏幕电视叠加层。1) 左上角时间/地点堆叠：大号白色时间 {argument name="time display" default="7:42"}，较小的日本地点文本 {argument name="location text" default="兵庫県・神戸市"}，以及一个白色直播中标签 {argument name="relay label" default="中継"}；在地点下方添加一条短蓝色下划线。2) 右上角台风警报横幅：红白相间的日本突发新闻面板，带有标签 {argument name="typhoon headline" default="台風 情報　関西に最接近　暴風・高波に厳重警戒"}，以及一条写有 {argument name="broadcast place label" default="中継　兵庫県・神戸市"} 的红色下部条带。3) 左下角天气雷达框：一个蓝色边框的矩形雨云雷达图，标注为「雨雲レーダー」，右侧带有垂直颜色刻度，以及小的日本强度标签「強」「弱」和「現在」。4) 右下角下三分之一处：一个蓝色斜体 LIVE 标签，白色地点栏写着「神戸市中央区沿岸部」，以及灰色的记者署名栏写着「記者：星川 さくら」。
+
+视觉风格：背景采用写实的灾难新闻摄影风格，记者采用高质量动漫角色渲染，广播构图协调，具备雨水和动态效果，头发和衣物展现出强烈的风吹感，电视新闻图形清晰，无水印，无额外 Logo，无额外叠加层。
+
+[English]
+Goal: Create a dramatic live television news still of an anime typhoon report in Kobe, Japan, combining a realistic stormy waterfront background with a cute anime reporter composited in the foreground.
+
+Canvas: 16:9 horizontal broadcast frame, photorealistic rainy seaside city scene at dusk or early evening, grey-blue storm lighting, wet reflective pavement, rough ocean waves, heavy rain streaks, strong wind, dark clouds, distant skyline and harbor towers.
+
+Main subject: A cute blonde anime girl news reporter stands slightly right of center on a waterfront promenade beside a black metal railing. She has very long blonde hair blown violently to the left by the wind, pink flower hair accessories, a determined reporting pose, and one arm extended toward the stormy sea. She holds a black handheld microphone in her other hand. Her outfit is a pink idol-style ensemble: frilly pink jacket, bow details, pale blouse, pink plaid pleated skirt, ruffled trim, ribbons, and thigh accessory. Her face is intentionally covered by a centered square blur/censor block in a muted beige color.
+
+Environment details: The promenade is soaked and reflective, lined with street lamps and wind-bent palm trees. Show exactly 5 prominent palm trees leaning in the wind along the waterfront. The ocean on the right is churning with whitecaps and spray. The city skyline appears through rain and mist, with high-rise buildings and a lit tower in the distance.
+
+Broadcast graphics: Include exactly 4 on-screen TV overlay groups. 1) Top-left time/location stack: large white time {argument name="time display" default="7:42"}, smaller Japanese location text {argument name="location text" default="兵庫県・神戸市"}, and a white live-relay label {argument name="relay label" default="中継"}; add a short blue underline beneath the location. 2) Top-right typhoon alert banner: red-and-white Japanese breaking-news panel with the labels {argument name="typhoon headline" default="台風 情報　関西に最接近　暴風・高波に厳重警戒"} plus a red lower strip reading {argument name="broadcast place label" default="中継　兵庫県・神戸市"}. 3) Bottom-left weather radar box: a rectangular blue-framed rain-cloud radar map labeled 「雨雲レーダー」, with a vertical color scale on the right and small Japanese intensity labels 「強」「弱」 and 「現在」. 4) Bottom-right lower third: a blue slanted LIVE tag, white location bar reading 「神戸市中央区沿岸部」, and grey reporter credit bar reading 「記者：星川 さくら」.
+
+Visual style: Realistic disaster-news photography for the background, high-quality anime character rendering for the reporter, cohesive broadcast composition, rain and motion effects, dramatic wind-blown hair and clothing, sharp TV news graphics, no watermark, no extra logos, no extra overlay groups.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2062816188112015509) | 2026-06-05
+
+---
+
+### 🏷️ 例 508：绿色运动摩托车与山路
+
+![绿色运动摩托车与山路](../images/%E7%BB%BF%E8%89%B2%E8%BF%90%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%8E%E5%B1%B1%E8%B7%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅肖像，{argument name="subject" default="年轻男子"} 跨坐在停于空旷蜿蜒山路上的 {argument name="motorcycle" default="亮绿色运动摩托车"} 上，正面四分之三视角，低角度拍摄，浅景深效果，背景为 {argument name="background" default="森林覆盖的山丘和多云天空"}，呈现奶油般的虚化效果，主体居中。骑手身穿修身黑色 T 恤、破洞牛仔裤和白色运动鞋，双手握住车把，表情自信且自然，短发打理得整齐利落。摩托车拥有亮眼的青柠绿整流罩及黑色装饰，配有双角形前大灯、透明挡风玻璃，外露的前碟刹和带有细彩色轮毂条纹的胎面，不锈钢排气管及机械细节清晰可见。阴天柔和的漫射光，电影级情绪色调，真实的肤色，高对比度，金属和漆面纹理清晰，湿润的沥青路面有细微反射，车下有轻微阴影。使用 85mm 镜头视角，浅光圈以获得明显的虚化效果，快门速度快以定格细节，低 ISO，电影感调色，色彩浓郁的绿色与柔和的背景，高动态范围，轻微暗角，照片级真实感，超精细渲染，8k 分辨率，骑手与摩托车焦点极其锐利，背景柔和模糊以增强深度。
+
+[English]
+Wide portrait of a {argument name="subject" default="young man"} sitting astride a {argument name="motorcycle" default="vivid green sport motorcycle"} parked on an empty winding mountain road, frontal three-quarter view, low-angle perspective, shallow depth of field with creamy bokeh of {argument name="background" default="forested hills and cloudy sky"} in the background, subject centered. Rider wears a fitted black t-shirt, ripped blue jeans and white sneakers, hands on handlebars, confident neutral expression, short dark hair neatly styled. Motorcycle features glossy lime-green fairings with black accents, twin angular headlights, clear windshield, exposed front disc brake and treaded tire with thin colored rim stripe, visible stainless exhaust and mechanical detail. Overcast soft diffused lighting, cinematic moody tone, realistic skin tones, high contrast, crisp textures on metal and paint, subtle reflections on wet asphalt, slight shadow under bike. Use 85mm perspective, shallow aperture for pronounced bokeh, fast shutter to freeze detail, low ISO, filmic color grading with rich greens and muted background, high dynamic range, gentle vignette, photorealistic, ultra-detailed rendering, 8k resolution, razor-sharp focus on rider and motorcycle, soft blurred background for depth.
+```
+
+**来源：** [@Zulkar Naim](https://x.com/zulkarnaimx/status/2062772127351324762) | 2026-06-05
+
+---
+
+### 🏷️ 例 527：超现实胸腔雕塑时尚大片
+
+![超现实胸腔雕塑时尚大片](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%83%B8%E8%85%94%E9%9B%95%E5%A1%91%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实照片，一名年轻男子坐在 {argument name="sculpture" default="一座巨大的、与他本人外形一致的写实人体胸腔雕塑"} 的空腔内。胸腔内部像房间一样中空，带有柔软的织物纹理和昏暗的环境光。他穿着 {argument name="outfit" default="米色工装裤、修身白色背心和复古运动鞋"}，正若有所思地向下凝视。背景是空旷的哑光灰色摄影棚，留有大量负空间。排版设计：* 纤细的手写文字：“{argument name="handwritten text" default="I KEEP SEARCHING"}” * 巨大的拉伸排版：“MYSELF” * 下方较小的文字：“BUT EVERY DOOR LEADS BACK TO ME”。柔和的忧郁光影，内省的氛围，奢华时尚大片风格，超现实情感叙事，极致细节，8k 写实。
+
+[English]
+A hyper-realistic young man sitting inside the open cavity of a {argument name="sculpture" default="massive realistic human chest sculpture shaped like himself"}. The chest is hollow like a room, with soft fabric textures and dim ambient light inside. He wears {argument name="outfit" default="cream cargo pants, a fitted white tank top, and vintage sneakers"}, staring downward thoughtfully. Background is an empty matte gray studio with lots of negative space. Typography: * Thin handwritten text: “{argument name="handwritten text" default="I KEEP SEARCHING"}”* Huge stretched typography: “MYSELF”* Smaller type underneath: “BUT EVERY DOOR LEADS BACK TO ME” Soft moody lighting, introspective atmosphere, luxury fashion campaign style, surreal emotional storytelling, ultra detailed, 8k realism.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2062745038116032532) | 2026-06-05
+
+---
+
+### 🏷️ 例 529：未来感游戏耳机渲染图
+
+![未来感游戏耳机渲染图](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%B8%B8%E6%88%8F%E8%80%B3%E6%9C%BA%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="product" default="未来感游戏耳机"} 悬浮在 {argument name="environment" default="霓虹赛博竞技场"} 中，RGB 光轨，全息特效，电影级游戏氛围，戏剧性对比光影，高端产品渲染，超写实材质，高端电竞广告，8K 分辨率。
+
+[English]
+{argument name="product" default="Futuristic gaming headset"} floating in a {argument name="environment" default="neon cyber arena"}, RGB light trails, holographic effects, cinematic gaming atmosphere, dramatic contrast lighting, premium product render, ultra realistic materials, high-end esports advertisement, 8K.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2062742091521003932) | 2026-06-05
+
+---
+
+### 🏷️ 例 532：移轴城市地图旅行场景
+
+![移轴城市地图旅行场景](../images/%E7%A7%BB%E8%BD%B4%E5%9F%8E%E5%B8%82%E5%9C%B0%E5%9B%BE%E6%97%85%E8%A1%8C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度精细的电影感微缩移轴旅行场景，展示 {argument name="city" default="[城市名称]"}，其中包含一辆逼真的 {argument name="vehicle" default="[交通工具名称]"}，正行驶在一条从复古风格印刷城市地图中自然延伸出的蜿蜒高架路上。道路应向背景中的 {argument name="city" default="[城市名称]"} 天际线和地标建筑急剧弯曲，同时确保交通工具始终是前景中清晰的视觉焦点。
+
+将真实城市与地图表面无缝融合，使道路看起来像是与地图本身融为一体。包含与 {argument name="city" default="[城市名称]"} 相关的标志性地标、水道、建筑、植被和氛围，但保持构图简洁明快。
+
+在前景地图上直接印有醒目的大号字体 “{argument name="city" default="[城市名称]"}”。使用温暖的黄金时刻光影、浅景深、逼真的纹理、电影级阴影、空中透视和照片级细节。整体美学应呈现出一种高端 Instagram 旅行海报与微缩模型相结合的质感。
+
+纵横比 1:1。
+
+[English]
+Create a highly detailed cinematic miniature tilt-shift travel scene of {argument name="city" default="[CITY NAME]"} featuring a realistic {argument name="vehicle" default="[VEHICLE NAME]"} driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of {argument name="city" default="[CITY NAME]"}, while the vehicle remains the clear focal point in the foreground.
+
+Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with {argument name="city" default="[CITY NAME]"}, but keep the composition clean and uncluttered.
+
+Show large bold typography of “{argument name="city" default="[CITY NAME]"}” printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+
+Aspect ratio 1:1.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2062735441275838823) | 2026-06-05
+
+---
+
+### 🏷️ 例 536：极简夏季手写字体排版
+
+![极简夏季手写字体排版](../images/%E6%9E%81%E7%AE%80%E5%A4%8F%E5%AD%A3%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+围绕具体主题内容生成一张清爽夏日手写字体视觉：背景为大面积主题派生清新配色或明亮色场，主字使用白色细长手写体，笔画流畅、带长弧线和风一样的尾巴，部分字形可穿插小号英文和装饰线。构图中央留给主字呼吸，字形之间有轻盈错位，整体像风、天气或生活方式品牌。色彩保留高饱和但干净的主色底、明亮白字、少量浅色细线，情绪清透、轻快、有通风感。关键是笔画的飘动方向和留白，不要写成厚重口号字。
+
+文字：{argument name="文字" default="夏日微风"}
+注意：{argument name="底色" default="黑底白字"}
+比例{argument name="比例" default="16:9"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2062720334571450688) | 2026-06-05
+
+---
+
