@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jfangluo-creator/Awesome-GPT-image-2#readme",
   "dependencies": {
+    "github-slugger": "^2.0.0",
     "playwright": "^1.60.0"
   }
 }
