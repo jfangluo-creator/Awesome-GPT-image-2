@@ -1067,3 +1067,209 @@ Visual style: Detailed Japanese fantasy manga with watercolor textures, ink outl
 
 ---
 
+### 🎬 例 562：奇幻森林音乐漫画页面
+
+![奇幻森林音乐漫画页面](../images/%E5%A5%87%E5%B9%BB%E6%A3%AE%E6%9E%97%E9%9F%B3%E4%B9%90%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页温馨的奇幻漫画，讲述森林里的孩子们聆听精灵与矮人演奏音乐的故事，采用手绘绘本漫画风格。所有对话和旁白请使用 {argument name="language of visible text" default="日语"}，并采用竖排漫画字体。
+
+画布：一页竖版漫画，比例约为 3:4，居中放置在浅奶油色背景上，带有细黑色页面边框。页面内部使用精细的黑色分格线，以及水彩风格的奇幻插画，包含茂密的叶子、花朵、斑驳的阳光和金绿色调。
+
+布局：使用 5 个漫画分格。第 1 格为顶部全宽大格。第 2 格为中间全宽大格。第 3 格为下方拆分行中的左侧格。第 4 格为下方拆分行中的右侧格。第 5 格为底部的全宽大格。在第 2 格和第 4 格中添加小型音符符号。
+
+角色：包含 6 个固定角色：1 位高挑的金发精灵女性，尖耳朵，头戴花饰，身穿优雅的白绿色刺绣长裙，手持鲁特琴；1 位身材魁梧的留须矮人男性，尖耳朵，戴圆帽，身穿叠层旅行装，手持小手鼓；1 位棕发兽耳小孩；1 位金发精灵女孩；1 位黑发人类男孩，身穿蓝色束腰外衣，系红色围巾；以及 1 位编着棕色辫子的矮人女孩，戴着装饰性头带。精灵音乐家为 {argument name="elf musician" default="一位弹奏鲁特琴的温柔金发精灵女性"}；矮人音乐家为 {argument name="dwarf musician" default="一位敲打手鼓的开朗红胡子矮人"}。保持孩子们表情生动、双眼圆睁、充满喜悦。
+
+分格细节与文字：第 1 格展示矮人和精灵坐在树下演奏音乐，孩子们围在他们身边；使用 2 个对话气泡：一个来自精灵，内容为 {argument name="elf opening line" default="風がそよぎ 木々がうたう 大地の恵みに ありがとう"}，另一个来自孩子，内容为 "わっっっは！いい歌だ！"。第 2 格展示孩子们从左到右的特写反应，他们微笑着双手合十，音乐在周围飘荡；使用 4 个对话气泡："きれいな 音色だね…"，"おじさんの リズムが すっごく楽しい！"，"ふたりの音が ぴったり 合ってる！"，以及 "もっと 聴きたいな！"。第 3 格（左下）展示 6 个角色沿着阳光明媚的森林小径一起走向舒适的村屋；使用 2 个对话气泡："うん！" 和 "ねえみんなも 一緒に歌おうよ！"。第 4 格（右下）展示精灵和矮人并肩演奏，面带温暖的微笑；使用 2 个对话气泡："音楽は ぶつけ合いじゃなく 橋になるんだな" 和 "ええ 一緒に奏でると 心が通うの"。第 5 格展示精灵和矮人坐在开满鲜花的空地上，被 4 个快乐聆听的孩子环绕；包含 2 个竖排旁白框：左侧框写着 "小さな村に、 音楽と笑顔が あふれる日々が 続いていきました。"，右侧框写着 "エルフの優しい旋律と ドワーフの楽しいリズム、 そしてみんなの歌声が ひとつになってーー"。在左下角添加一个小的装饰性结尾标题，写着 "❀おわり❀"。
+
+视觉风格：细腻的日式奇幻漫画，带有水彩质感、墨线轮廓、华丽的服饰、柔和的面部线条、生动的眼神、明亮的森林氛围、童话村庄背景、温暖的阳光和温柔治愈的基调。避免出现现代物品，避免增加分格，避免增加额外角色，并将所有文字保持在指定的对话气泡或旁白框内。
+
+[English]
+Goal: Create a warm fantasy manga page about forest children listening to elf and dwarf music, in a hand-painted storybook manga style. Use {argument name="language of visible text" default="Japanese"} for all dialogue and narration, with vertical manga lettering.
+
+Canvas: One vertical comic page, about 3:4 aspect ratio, centered on a pale cream background with a thin black page border. Inside the page, use fine black panel gutters and watercolor-like fantasy illustration with dense foliage, flowers, dappled sunlight, and golden-green tones.
+
+Layout: Use exactly 5 comic panels. Panel 1 is a wide full-width top panel. Panel 2 is a wide full-width middle panel. Panel 3 is the lower-left panel of a split row. Panel 4 is the lower-right panel of the same split row. Panel 5 is a wide full-width final panel at the bottom. Add small musical-note symbols in panels 2 and 4.
+
+Characters: Include exactly 6 recurring characters: 1 tall blonde elf woman with pointed ears, flower hair ornaments, elegant white-and-green embroidered dress, holding a lute; 1 stout bearded dwarf man with pointed ears, round cap, layered travel clothes, and a small hand drum; 1 small tan-haired animal-eared child; 1 blonde elf girl child; 1 dark-haired human boy in a blue tunic and red scarf; and 1 braided brown-haired dwarf girl child with a decorated headband. The elf woman is {argument name="elf musician" default="a gentle blonde elf woman playing a lute"}; the dwarf musician is {argument name="dwarf musician" default="a cheerful red-bearded dwarf playing a hand drum"}. Keep the children expressive, wide-eyed, and delighted.
+
+Panel details and text: Panel 1 shows the dwarf and elf seated under trees performing music while children gather around them; use exactly 2 speech bubbles: one from the elf saying {argument name="elf opening line" default="風がそよぎ 木々がうたう 大地の恵みに ありがとう"}, and one from a child saying "わっっっは！いい歌だ！". Panel 2 shows close-up reactions of the children from left to right, smiling and clasping hands as music floats around; use exactly 4 speech bubbles: "きれいな 音色だね…", "おじさんの リズムが すっごく楽しい！", "ふたりの音が ぴったり 合ってる！", and "もっと 聴きたいな！". Panel 3, lower-left, shows the six characters walking away together along a sunny forest path toward a cozy village house; use exactly 2 speech bubbles: "うん！" and "ねえみんなも 一緒に歌おうよ！". Panel 4, lower-right, shows the elf and dwarf playing side by side, smiling warmly; use exactly 2 speech bubbles: "音楽は ぶつけ合いじゃなく 橋になるんだな" and "ええ 一緒に奏でると 心が通うの". Panel 5 shows the elf and dwarf seated in a flower-filled clearing, surrounded by the four children listening happily; include exactly 2 vertical narration boxes: left box says "小さな村に、 音楽と笑顔が あふれる日々が 続いていきました。" and right box says "エルフの優しい旋律と ドワーフの楽しいリズム、 そしてみんなの歌声が ひとつになってーー". Add a small decorative final caption at bottom left reading "❀おわり❀".
+
+Visual style: Detailed Japanese fantasy manga with watercolor textures, ink outlines, ornate clothing, soft faces, expressive eyes, luminous forest atmosphere, fairytale village background, warm sunlight, and gentle wholesome mood. Avoid modern objects, avoid extra panels, avoid extra characters, and keep all text inside the specified bubbles or narration boxes.
+```
+
+**来源：** [@無心 Mushin](https://x.com/xoMushinxo/status/2063382815765606735) | 2026-06-06
+
+---
+
+### 🎬 例 587：硬核科幻少女漫画页面
+
+![硬核科幻少女漫画页面](../images/%E7%A1%AC%E6%A0%B8%E7%A7%91%E5%B9%BB%E5%B0%91%E5%A5%B3%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版科幻少女漫画，采用硬核水彩与墨水风格，主角为 {argument name="character name" default="Zero"}，场景设定在末日后的废墟城市中，一位苍白的哥特风少女与机械巨龙展开激战。
+
+画布：高长宽比的竖版漫画页面，比例约为 2:3，带有细黑色外边框，米白色纸张色调，对角线白色分镜间隙，粗糙的墨水质感，配色为柔和的灰色、薰衣草色、米色和灰褐色。
+
+布局：使用 6 个漫画分镜。分镜 1 是占据上半部分的宽幅大图：坍塌的城市废墟、瓦砾、烟雾、破碎的摩天大楼、多名武装士兵、一名站立且手持步枪的白发赛博格男性士兵，以及一名跪在废墟中的长发苍白少女。分镜 2 是左下角的少女特写，有着极长的白金发、黑色哥特裙、十字架项链，面部中心覆盖着一个平面的米色遮挡矩形。分镜 3 是右上角的窄幅动作分镜，展示一只重型装甲/机械腿或武器伴随速度线撞击废墟。分镜 4 是右侧中部的小分镜，展示部分角色特写，面部同样覆盖着米色遮挡矩形。分镜 5 是左下角的大型怪物登场：巨大的生物机械龙或怪兽头部正在咆哮，露出锯齿状牙齿、红色机械眼、装甲板，瓦砾飞溅，前景中有微小的人类身影。分镜 6 是右下角的动作分镜，展示白发装甲男性保护或拉着少女后撤，周围环绕着士兵和机械残骸。
+
+角色：男主角是一位高瘦的白发动漫赛博格士兵，身穿黑色战术装甲，拥有银色机械肢体，手持步枪，神情冷静但警觉。女主角是一位精致苍白的少女，有着极长的飘逸白金长发，身穿黑色褶边哥特装，带有蕾丝细节和十字架吊坠，表情脆弱，呈现出少女漫风格，正跪在废墟中或被护送撤离。包含数名背景武装士兵和废墟中的军事人物，但保持次要地位。
+
+文本内容：包含竖排日语漫画对话气泡和拟声词。使用 5 个对话气泡：顶部 2 个，少女特写 1 个，右侧中部小分镜 1 个，右下角 1 个。建议气泡文本默认值：{argument name="top left speech" default="旦那様の目が本物か、見つかるといいんだけど……"}, {argument name="top right speech" default="危険区域だからな、足場に確保してもらいたいものだ"}, {argument name="center speech" default="この気配まさか……？"}, {argument name="middle right speech" default="……何か、来るぞ。"}, {argument name="bottom right speech" default="ファンネリア！下がっていろ！"}。添加粗体手绘日语拟声词：怪物旁巨大的红黑色咆哮声，以及右下角分镜中充满动感的撞击声。
+
+视觉风格：浪漫少女漫画角色设计与黑暗军事科幻的结合，粗犷的水彩渲染，密集的钢笔排线，戏剧性的对角线构图，混乱的瓦砾细节，柔和的发丝光感，高细节废墟，电影级动作感，强调硬核质感而非干净的矢量艺术。
+
+约束：保持页面为黑白/柔和色彩的漫画风格，避免现代 UI 元素，避免照片级真实感，无水印，无英文字母，严格保留 6 分镜布局以及两个遮挡面部的米色矩形。
+
+[English]
+Goal: Create a vertical one-page sci-fi shoujo manga page in a gritty watercolor-and-ink style, featuring {argument name="character name" default="Zero"} and a pale gothic heroine in a ruined post-apocalyptic city as a mechanical dragon attacks.
+
+Canvas: Tall portrait manga page, about 2:3 aspect ratio, with a thin black outer border, off-white paper tone, diagonal white panel gutters, rough ink texture, muted gray, lavender, beige, and dusty brown colors.
+
+Layout: Use exactly 6 comic panels. Panel 1 is a large full-width establishing panel across the top half: collapsed urban ruins, rubble, smoke, broken skyscrapers, multiple armored soldiers, a white-haired cybernetic male soldier standing with a rifle, and a pale long-haired girl kneeling in the debris. Panel 2 is a lower-left close-up portrait of the girl with very long platinum hair, black gothic dress, cross necklace, and a flat beige censorship rectangle covering the center of her face. Panel 3 is a narrow upper-right action panel showing a heavy armored/mechanical leg or weapon crashing through debris with speed lines. Panel 4 is a small middle-right panel with a partial character close-up and another beige censorship rectangle covering the face. Panel 5 is a large bottom-left monster reveal: a huge biomechanical dragon or kaiju head roaring with jagged teeth, red mechanical eyes, plated armor, debris flying, and tiny human figures in the foreground. Panel 6 is a bottom-right action panel showing the white-haired armored male protecting or pulling the pale girl back while soldiers and mechanical debris surround them.
+
+Characters: The male lead is a tall, slim, white-haired anime cyborg soldier in black tactical armor with silver mechanical limbs, holding a rifle, calm but alert. The heroine is a delicate pale teenage girl with very long flowing platinum-blonde hair, black frilled gothic outfit, lace details, cross pendant, fragile shoujo expression, and kneeling or being escorted through rubble. Include several background armored troops and ruined military figures, but keep them secondary.
+
+Text content: Include vertical Japanese manga speech bubbles and sound effects. Use exactly 5 speech bubbles: 2 in the top panel, 1 in the girl close-up, 1 in the small middle-right panel, and 1 in the bottom-right panel. Suggested bubble text defaults: {argument name="top left speech" default="旦那様の目が本物か、見つかるといいんだけど……"}, {argument name="top right speech" default="危険区域だからな、足場に確保してもらいたいものだ"}, {argument name="center speech" default="この気配まさか……？"}, {argument name="middle right speech" default="……何か、来るぞ。"}, {argument name="bottom right speech" default="ファンネリア！下がっていろ！"}. Add bold hand-drawn Japanese sound effects: a large red-black roar beside the monster and a dynamic impact sound across the bottom-right panel.
+
+Visual style: Romantic shoujo manga character design mixed with dark military sci-fi, scratchy watercolor wash, dense pen hatching, dramatic diagonal composition, chaotic rubble detail, soft luminous hair, high-detail ruins, cinematic action, gritty texture rather than clean vector art.
+
+Constraints: Keep the page black-and-white/muted color manga-like, avoid modern UI elements, avoid photorealism, no watermark, no English lettering, preserve the exact 6-panel layout and the two beige face-obscuring rectangles.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2063262638805782747) | 2026-06-06
+
+---
+
+### 🎬 例 593：GPT Image 2 漫画创作规划信息图
+
+![GPT Image 2 漫画创作规划信息图](../images/GPT%20Image%202%20%E6%BC%AB%E7%94%BB%E5%88%9B%E4%BD%9C%E8%A7%84%E5%88%92%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张竖版日式漫画风格的教育信息图，内容关于在使用 {argument name="tool name" default="GPT Image 2"} 创作漫画前的规划步骤。主标题应为「GPT Image 2 で 漫画を作る前に決めること」，其中「決めること」需用黄色强调；副标题应为「いきなり作らず、まず“誰に何を伝えるか”を決めよう！」。
+
+画布：竖版 2:3 信息图，干净的白色背景，明亮的蓝色点缀，粗圆角漫画分镜框，欢快的教学基调，精致的数字动漫插画。使用大号且易读的日语字体，并辅以蓝色、黑色、黄色和红色进行强调。在标题附近添加小星星和动感线装饰。
+
+布局：排列 6 个编号的漫画分镜，采用 2 列网格布局，每个分镜左上角用蓝色圆圈标注 1 到 6 的数字，底部设有一个宽大的总结框。
+
+分镜 1：一名穿着蓝色连帽衫的男学生坐在木桌前，桌上有一台贴着猫咪贴纸的笔记本电脑、一个笔记本和一支笔。他看起来很困惑，头顶有涂鸦和一个问号。添加对话气泡：「漫画を作りたいけど…何から？」。他的脸部被柔和的米色矩形模糊处理。
+
+分镜 2：同一个男孩在堆满纸张的杂乱书桌前感到烦恼。他周围漂浮着 5 张规划纸或便签，分别标注为：「キャラ」、「背景」、「色」、「セリフ」和「効果・演出 コマ割り…」。添加对话气泡：「先に絵柄を決めるの？」。
+
+分镜 3：一名穿着黄色开衫的年轻女教师/顾问拿着清单，举起一根手指，站在温暖的黄色放射状背景前。她的脸部被柔和的米色矩形模糊处理。添加对话气泡：「まず中身を決めよう！」。清单标题为「チェックリスト」，并显示三个已勾选的方框。
+
+分镜 4：一张干净的列表卡片，标题为「この5つで整理！」。展示 5 行带有对应图标和标签的彩色行：1 「誰に？」配人物图标及注释「ターゲット・読者」；2 「何を？」配铅笔图标及注释「伝えたいテーマ・内容」；3 「どう感じて？」配爱心图标及注释「読後の気持ち・目的」；4 「どんな雰囲気？」配星星图标及注释「トーン・世界観・絵柄」；5 「どこまで？」配旗帜图标及注释「コマ数・尺・伝える範囲」。
+
+分镜 5：男孩现在微笑着在写东西，墙上贴着草图和便签。添加对话气泡：「テーマが決まると楽！」。包含一张标题为「設計メモ」的纸，上面有 5 个对应上述五个问题的清单项：「誰に？」、「何を？」、「どう感じて？」、「どんな雰囲気？」、「どこまで？」。
+
+分镜 6：穿着蓝色连帽衫的男孩和穿着黄色开衫的女顾问开心地站在一起。男孩的脸部被柔和的米色矩形模糊处理。顾问拿着一张标注为「1ページ漫画の設計図（6コマ）」的分镜表，包含 6 个编号为 1 到 6 的小型分镜缩略图。在右侧放置一个巨大的黄色星形对话框，写着「最初はプロンプトより設計！」，“設計！”二字需用大号红色字体。
+
+底部总结框：一个带有蓝色丝带标签「まとめ」的宽圆角矩形。将其分为 3 列，每列配有蓝色勾选图标。第 1 列文字：「誰に向けるか決める」（配人物图标）。第 2 列文字：「伝えたいことを1つに絞る」（配铅笔图标）。第 3 列文字：「作る前に設計する」（配灯泡图标）。
+
+视觉风格：友好的日式教育漫画信息图，清晰的线条，柔和的阴影，富有表现力的动漫角色，简单的学校/书桌道具，蓝黄高亮配色，高可读性，平衡的间距，无写实感。
+
+约束条件：使用 6 个主要分镜，列表中包含 5 个规划问题，底部总结包含 3 个要点，所有可见文字必须按指定使用日语。不要添加额外的分镜、额外的清单行、水印、Logo 或无关文字。
+
+[English]
+Goal: Create a vertical Japanese manga-style educational infographic about planning a comic before making it with {argument name="tool name" default="GPT Image 2"}. The main headline should read 「GPT Image 2で 漫画を作る前に決めること」 with 「決めること」 emphasized in yellow, and the subtitle should read 「いきなり作らず、まず“誰に何を伝えるか”を決めよう！」.
+
+Canvas: Portrait 2:3 infographic, clean white background, bright blue accent color, thick rounded comic-panel borders, cheerful instructional tone, polished digital anime illustration. Use large readable Japanese typography with blue, black, yellow, and red emphasis. Add small sparkle and motion-line decorations near the title.
+
+Layout: Arrange exactly 6 numbered manga panels in a 2-column grid, numbered with blue circles 1 through 6 in the upper-left corner of each panel, followed by one wide bottom summary box.
+
+Panel 1: A young male student in a blue hoodie sits at a wooden desk with a laptop that has a cat sticker, a notebook, and a pen. He looks confused with a scribble above his head and a question mark. Add a speech bubble: 「漫画を作りたいけど…何から？」. His face is covered by a soft beige rectangular blur.
+
+Panel 2: The same boy worries at a cluttered desk covered with papers. Around him float exactly 5 planning sheets or sticky notes labeled: 「キャラ」, 「背景」, 「色」, 「セリフ」, and 「効果・演出 コマ割り…」. Add a speech bubble: 「先に絵柄を決めるの？」.
+
+Panel 3: A young female teacher/advisor in a yellow cardigan holds a checklist and raises one finger, standing against a warm yellow radial burst background. Her face is covered by a soft beige rectangular blur. Add a speech bubble: 「まず中身を決めよう！」. The checklist title reads 「チェックリスト」 and shows three checked boxes.
+
+Panel 4: A clean list card titled 「この5つで整理！」. Show exactly 5 colored rows with matching icons and labels: 1 「誰に？」 with a people icon and note 「ターゲット・読者」; 2 「何を？」 with a pencil icon and note 「伝えたいテーマ・内容」; 3 「どう感じて？」 with a heart icon and note 「読後の気持ち・目的」; 4 「どんな雰囲気？」 with sparkles icon and note 「トーン・世界観・絵柄」; 5 「どこまで？」 with a flag icon and note 「コマ数・尺・伝える範囲」.
+
+Panel 5: The boy is now smiling and writing, with sketches and sticky notes on the wall. Add a speech bubble: 「テーマが決まると楽！」. Include a paper titled 「設計メモ」 with exactly 5 checklist items corresponding to the same five questions: 「誰に？」, 「何を？」, 「どう感じて？」, 「どんな雰囲気？」, 「どこまで？」.
+
+Panel 6: The boy in the blue hoodie and the female advisor in the yellow cardigan stand together happily. The boy's face is covered by a soft beige rectangular blur. The advisor holds a storyboard sheet labeled 「1ページ漫画の設計図（6コマ）」 containing exactly 6 small storyboard thumbnails numbered 1 to 6. On the right, place a large yellow starburst speech shape reading 「最初はプロンプトより設計！」 with 「設計！」 in large red letters.
+
+Bottom summary box: A wide rounded rectangle with a blue ribbon label 「まとめ」. Divide it into exactly 3 columns with blue check icons. Column 1 text: 「誰に向けるか決める」 with a people icon. Column 2 text: 「伝えたいことを1つに絞る」 with a pencil icon. Column 3 text: 「作る前に設計する」 with a lightbulb icon.
+
+Visual style: Friendly Japanese educational manga infographic, crisp line art, soft shadows, expressive anime characters, simple school/desk props, blue and yellow highlight palette, high legibility, balanced spacing, no photorealism.
+
+Constraints: Use exactly 6 main panels, exactly 5 planning questions in the list, exactly 3 bottom summary points, and keep all visible text in Japanese as specified. Do not add extra panels, extra checklist rows, watermarks, logos, or unrelated text.
+```
+
+**来源：** [@陽仙堂](https://x.com/yosendou/status/2063248979085975764) | 2026-06-06
+
+---
+
+### 🎬 例 633：高铁拍摄分镜脚本
+
+![高铁拍摄分镜脚本](../images/%E9%AB%98%E9%93%81%E6%8B%8D%E6%91%84%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为高铁短视频制作一张竖版中文拍摄指导分镜信息图，展示如何从较远距离拍摄乘客轻微不适的状态。
+
+画布：竖向布局，比例约为 3:4，白色背景，黑色与深棕色中文字体，简洁的纪录片分镜风格。
+
+文本内容：使用 {argument name="Chinese text" default="镜头1｜远一点拍出不适状态; 一、机位示意图（俯视图）; 窗户; 人物; 座椅; 包; 过道; 机位; 二、预期画面（示意图）; 拍摄要点; 机位放在过道斜前方; 画面带到座椅、窗户和包; 人物轻捂小腹，表情微微不适; 不要拍得太夸张，像真实乘客状态"} 中的可见中文文案。
+
+布局：顶部放置一个居中的大号加粗标题。下方创建 2 个堆叠的图像面板，中间用细虚线水平分割。面板 1 标注为俯视视角的机位示意图。面板 2 标注为预期画面预览。底部添加一个浅奶油色圆角矩形笔记框，左侧带有棕色药丸状标签，右侧带有简单的黄色灯泡图标。
+
+面板 1 主题与构图：绘制一张高铁车厢内部的俯视/四分之三视角插图。一位留着长黑发、面部刻意模糊的年轻女性坐在窗边，座椅为深海军蓝色，配有白色头枕套。她穿着奶油色开衫或毛衣、浅蓝色牛仔裤和白色运动鞋。她的左手轻捂小腹以暗示轻微不适，右手伸向放在相邻座位上的米色小背包。左侧展示一扇大车窗，窗外是动态模糊的绿色风景，周围是蓝色双人座椅、扶手和右侧的过道。包含 6 个带有蓝色边框和指向点的白色圆角标注标签：窗户、人物、座椅、包、过道、机位。在右下角前景的过道地面上放置一台黑色单反相机。在此面板中添加 3 个方向指示图形：一个从相机指向乘客/包区域的粗红色箭头，一个指示过道方向的粗红色弯曲箭头，以及一个从相机指向主体的黄色虚线箭头。
+
+面板 2 主题与构图：从过道斜前方的机位视角，创建一个写实的电影感预览画面。女性坐在左侧靠窗位置，面部模糊，一只手轻捂小腹，另一只手靠近或放在相邻座位上的米色背包上。保留深蓝色座椅、白色头枕套、米色内墙、带有动态模糊城市/绿色风景的大窗户、向背景延伸的狭长过道，以及车厢尽头的小显示屏。氛围应自然克制，避免过度戏剧化。
+
+底部笔记框：包含 4 个要点，与拍摄指导文本一致。使用暖奶油色背景、棕色标签徽章、深色文字以及极简的黄色轮廓灯泡图标。
+
+视觉风格：半写实分镜插画与简洁教学信息图设计相结合，柔和光影，略带纹理的数字绘画，精确的标注，写实的高铁内饰，清晰的教学图示可读性。避免水印、Logo 或额外面板。
+
+[English]
+Goal: Create a vertical Chinese filming-direction storyboard infographic for a high-speed train short video, showing how to shoot a passenger in a slightly uncomfortable state from farther away.
+
+Canvas: Tall portrait layout, about 3:4 ratio, white background, black and dark-brown Chinese typography, clean documentary storyboard style.
+
+Text content: Use the visible Chinese copy from {argument name="Chinese text" default="镜头1｜远一点拍出不适状态; 一、机位示意图（俯视图）; 窗户; 人物; 座椅; 包; 过道; 机位; 二、预期画面（示意图）; 拍摄要点; 机位放在过道斜前方; 画面带到座椅、窗户和包; 人物轻捂小腹，表情微微不适; 不要拍得太夸张，像真实乘客状态"}.
+
+Layout: At the top, place a large bold headline centered. Below it, create exactly 2 stacked image panels separated by a thin dotted horizontal divider. Panel 1 is labeled as a camera-position diagram from an overhead perspective. Panel 2 is labeled as the expected shot preview. At the bottom, add a pale cream rounded rectangle notes box with a brown pill-shaped label on the left and a simple yellow lightbulb icon on the right.
+
+Panel 1 subject and composition: Draw an illustrated overhead/three-quarter view inside a high-speed train carriage. A young woman with long dark hair and a deliberately blurred face sits by the window on a dark navy-blue train seat with a white headrest cover. She wears a cream cardigan or sweater, light blue jeans, and white sneakers. Her left hand rests over her lower abdomen to suggest mild discomfort, and her right hand reaches toward a small beige backpack placed on the adjacent seat. Show a large train window to her left with motion-blurred green scenery outside, blue paired seats around her, armrests, and the aisle on the right. Include exactly 6 white rounded callout labels with blue borders and small pointer dots: window, person, seat, bag, aisle, and camera position. Place a black DSLR-style camera on the aisle floor in the lower right foreground. Add exactly 3 directional graphics in this panel: one thick red arrow from the camera toward the seated passenger/bag area, one thick red curved arrow indicating the aisle direction, and one yellow dashed arrow pointing from the camera toward the subject.
+
+Panel 2 subject and composition: Create a realistic cinematic preview frame from the camera angle in the aisle diagonally in front of the passenger. The woman sits in the left-center by the train window, face blurred, one hand lightly holding her abdomen, the other hand near or on the beige backpack on the neighboring seat. Keep the dark blue seats, white headrest covers, beige interior wall, large window with motion-blurred city/green scenery, long aisle receding into the background, and a small monitor screen at the far end of the carriage. The mood should be natural and restrained, not melodramatic.
+
+Bottom notes box: Include exactly 4 bullet points, matching the shooting guidance text. Use a warm cream background, brown label badge, dark text, and a minimal yellow outline lightbulb icon.
+
+Visual style: Semi-realistic storyboard illustration mixed with clean instructional infographic design, soft lighting, slightly textured digital painting, precise callouts, realistic high-speed rail interior, clear teaching-diagram readability. Avoid watermarks, logos, or extra panels.
+```
+
+**来源：** [@小宇Chengzi](https://x.com/Chengzilhy/status/2063177937877360920) | 2026-06-06
+
+---
+
+### 🎬 例 655：照片转漫画艺术
+
+![照片转漫画艺术](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E6%BC%AB%E7%94%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的参考照片转换为整洁的 {argument name="style" default="黑白漫画风格"} 线稿插图，同时保留原始图像中的确切姿势、构图、服装、配饰、面部表情和透视。创作一幅全身角色绘图，要求具备优雅的墨水轮廓、流畅的线条、细腻的灰度阴影、极简主义单色美学、时尚素描风格、准确的解剖结构、高度细致的衣褶、逼真的比例、专业的角色设计表、干净的白色背景、柔和的地面阴影、现代编辑插图、日式漫画风格艺术作品、清晰的矢量感线条、高细节、高对比度、超整洁的呈现效果。在角落处包含一个小巧的圆角彩色参考图，展示用于转换的原始照片。高级概念艺术风格，8K 分辨率，杰作级品质。
+
+[English]
+Transform the uploaded reference photo into a clean {argument name="style" default="black-and-white manga-style"} line art illustration while preserving the exact pose, composition, clothing, accessories, facial expression, and perspective from the original image. Create a full-body character drawing with elegant ink outlines, smooth contour lines, subtle grayscale shadows, minimalistic monochrome aesthetic, fashion sketch style, accurate anatomy, highly detailed clothing folds, realistic proportions, professional character design sheet, clean white background, soft ground shadow, modern editorial illustration, Japanese manga-inspired artwork, crisp vector-like linework, high detail, high contrast, ultra-clean presentation. Include a small rounded-corner color reference image inset in one corner, showing the original photo used for transformation. Premium concept art style, 8K resolution, masterpiece quality.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2063130236250988750) | 2026-06-06
+
+---
+

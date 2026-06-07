@@ -1684,3 +1684,423 @@ Using the provided reference image as the base, convert it from black-and-white 
 
 ---
 
+### 🏷️ 例 563：彩色油画风格肖像转换
+
+![彩色油画风格肖像转换](../images/%E5%BD%A9%E8%89%B2%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图为基础，将其从黑白摄影转换为生动多彩的油画插图，同时保留相同的构图、姿势、服装轮廓、发型以及矩形面部遮挡块。添加参考图中不存在的纹理抽象艺术背景：米白色纸张质感，配以宽大的蓝色颜料涂抹、深蓝色墨水溅射、粗糙的交叉影线、笔触痕迹和滴落效果。为人物进行自然上色，采用暖色调肤色、光泽的深色头发、黑色夹克和蓝色开衫/围巾，并以富有表现力的油画高光和高对比度的水墨感边缘进行渲染。保持整体构图与参考图一致，切勿显露或重构被遮挡的面部；面部区域必须保持被实心矩形遮盖的状态。
+
+[English]
+Using the provided reference image as the base, convert it from black-and-white photography into a vivid color painted illustration while preserving the same crop, pose, clothing silhouette, hairstyle, and the rectangular face-obscuring block. Add a textured abstract art background that was not in the reference: off-white paper with broad blue paint washes, dark blue ink splatters, scratchy crosshatch marks, brush streaks, and drip effects. Colorize the subject naturally with warm skin tones, glossy dark hair, a black jacket, and a blue open shirt/scarf, rendered with expressive painterly highlights and high-contrast ink-like edges. Keep the overall composition close to the reference and do not reveal or reconstruct the hidden face; the face area must remain covered by a solid rectangle.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063380168249622706) | 2026-06-06
+
+---
+
+### 🏷️ 例 596：Shion Rei 三面角色设计图
+
+![Shion Rei 三面角色设计图](../images/Shion%20Rei%20%E4%B8%89%E9%9D%A2%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Shion Rei"} 创建一张动漫角色三面参考图，风格参考简洁的日本原创女学生角色设计文档。
+
+画布：横向 16:9 画幅，采用米白色微纹理纸张背景，配有细黑色分割线，呈现整洁的手绘动漫概念艺术风格，带有柔和的水彩阴影和清晰的墨线轮廓。整体页面保持单色调，辅以海军蓝、奶油色、淡粉色和黑色点缀。
+
+标题文字：在左上角书写“紫苑レイ (Shion Rei) 三面図設計図”，下方附带较小的副标题“詳細設計：ツインテール Ver.”。在副标题下方绘制一条细长的水平线。在角色视图和嵌入框上方使用日语标签。
+
+主要布局：在画面的左侧和中部均匀分布 3 个全身角色转向视图，角色呈站立姿态：1) 正面视图，标注为“紫苑レイ 正面図”；2) 侧面视图，标注为“紫苑レイ 側面図”；3) 背面视图，标注为“紫苑レイ 背面図”。正面视图面向前方，双臂自然下垂；侧面视图面向左侧，展示背包轮廓；背面视图背对画面，清晰展示背包和双马尾。
+
+角色细节：女孩留着长长的 {argument name="hair color" default="black"} 双马尾，发梢微卷，系着淡粉色珠状发饰。在所有面部朝向的视图中，她的脸部均被柔和的矩形模糊/马赛克遮挡。她穿着一件深海军蓝短袖波点连衣裙，上面布满白点，配有灰粉色圆润彼得潘领、灰粉色前襟及纽扣、泡泡袖、收腰设计以及膝盖以上的百褶裙摆。她还穿着深色过膝袜和带有黑色绑带的白色玛丽珍低跟鞋。添加一个奶油色圆润书包，包含前拉链袋、侧缝、肩带和简单的线条细节。
+
+右侧细节面板：在右侧创建 4 个嵌入式参考框。顶部大框标注为“髪型/襟元クローズアップ”，展示双马尾发型、粉色发饰、领口和波点连衣裙上部的胸像特写，面部模糊处理。中左侧小框展示裙摆和腿部特写。中右侧长框展示一只小腿的特写，包含深色过膝袜和白色玛丽珍鞋。底部左侧框展示背包的独立简洁配饰图，呈现四分之三视角，包含拉链袋和肩带。
+
+约束条件：严格保留 3 个全身主视图和 4 个细节嵌入框的数量。标签必须按指定使用日语。除背包和服装外，不要添加额外角色或道具，禁止添加水印，禁止写实风格，并保持精致的动漫角色设计图美学。
+
+[English]
+Goal: Create an anime character three-view reference sheet for {argument name="character name" default="Shion Rei"}, styled like a clean Japanese design document for an original schoolgirl character.
+
+Canvas: Horizontal 16:9 sheet on an off-white lightly textured paper background, thin black divider lines, neat hand-drawn anime concept art with soft watercolor shading and crisp ink outlines. Keep the overall page monochrome-muted with navy, cream, blush pink, and black accents.
+
+Header text: At the top left, write “紫苑レイ (Shion Rei) 三面図設計図” with a smaller subtitle underneath, “詳細設計：ツインテール Ver.” Draw a long thin horizontal rule below the subtitle. Use Japanese labels above the character views and inset boxes.
+
+Main layout: Show exactly 3 full-body character turnaround views across the left and center of the sheet, evenly spaced and standing upright: 1) front view labeled “紫苑レイ 正面図”, 2) side view labeled “紫苑レイ 側面図”, 3) back view labeled “紫苑レイ 背面図”. The front view faces forward with arms relaxed; the side view faces left and shows the backpack profile; the back view faces away and clearly shows the backpack and twin-tails.
+
+Character details: The girl has long {argument name="hair color" default="black"} hair in high twin-tails, slightly wavy at the ends, tied with small pale pink bead-like hair ornaments. Her face is intentionally obscured by a soft rectangular blur/mosaic mask in every face-facing view. She wears a dark navy short-sleeve polka-dot dress with many white dots, a dusty pink rounded Peter Pan collar, dusty pink front placket with buttons, puff sleeves, a fitted waist, and a flared pleated skirt above the knees. She also wears dark knee-high socks and white Mary Jane shoes with black straps and low heels. Add a cream-colored rounded school backpack with front zipper pocket, side seams, shoulder straps, and simple line detailing.
+
+Right-side detail panels: Create exactly 4 inset reference boxes arranged on the right side. Top large box labeled “髪型/襟元クローズアップ” showing a close-up bust view of the twin-tail hairstyle, pink hair ties, collar, and upper polka-dot dress, with the face blurred. Middle-left small box shows a close-up of the skirt hem and legs. Middle-right tall box shows a close-up of one lower leg with dark knee sock and white Mary Jane shoe. Bottom-left box shows the backpack alone as a clean accessory drawing, three-quarter view with zipper pocket and straps.
+
+Constraints: Preserve the exact count of 3 main full-body views and 4 inset detail boxes. Keep the labels in Japanese as specified. Use no extra characters, no extra props beyond the backpack and outfit, no watermark, no photorealism, and maintain a polished anime character design sheet aesthetic.
+```
+
+**来源：** [@スズヲ＠Photo＆AIart](https://x.com/Suzu_Wo/status/2063248466772656612) | 2026-06-06
+
+---
+
+### 🏷️ 例 597：紫苑リン (Shion Rin) 三面图设计稿
+
+![紫苑リン (Shion Rin) 三面图设计稿](../images/%E7%B4%AB%E8%8B%91%E3%83%AA%E3%83%B3%20(Shion%20Rin)%20%E4%B8%89%E9%9D%A2%E5%9B%BE%E8%AE%BE%E8%AE%A1%E7%A8%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的动漫角色设计稿 / 三面图，用于 {argument name="character name" default="紫苑リン (Shion Rin)"}，风格参考日本时尚设计项目。
+
+画布：宽幅横向构图，3:2 比例，温暖的米白色纸张背景，带有细黑色分隔线，呈现手绘技术插图的质感。使用精致的铅笔/墨水轮廓线、柔和的水彩阴影、浅灰色投影以及整洁的排版。
+
+标题文字：在左上角书写“紫苑リン (Shion Rin) 三面図設計図”。正下方使用较小的文字书写：“詳細設計：低めツインシニヨン Ver.”。在副标题下方添加一条长横线。
+
+主体布局：在画布左侧和中央均匀排列 3 个完全相同的年轻女性全身视图，每个视图上方均带有日语标签：1) “紫苑リン 正面図” (正面图)，2) “紫苑リン 側面図” (侧面图)，3) “紫苑リン 背面図” (背面图)。面部区域应特意模糊处理或覆盖一层柔和的矩形遮挡，同时保持服装、发型和身体轮廓清晰可见。
+
+角色细节：一位娇小的年轻女性，拥有 {argument name="hair color" default="黑色"} 的低双丸子头，齐颌侧发，直刘海，一侧戴着紫色小花发夹。服装：白色短袖衬衫，泡泡袖，高领荷叶边，垂直褶皱门襟，小纽扣，修身剪裁；高腰及膝 A 字裙，材质为 {argument name="skirt fabric" default="带有紫色小碎花图案的灰褐色面料"}；白色及膝袜；黑色玛丽珍鞋，配有低粗跟。她手提一个结构挺括的白色手提包，带有双提手和小型肩带附件。
+
+3 个视图的姿势细节：正面图站姿挺拔，左手提着手提包。侧面图向左侧身，手提包置于身侧，展示衬衫褶皱和裙摆厚度。背面图展示衬衫背部接缝、两个低丸子头、裙子背面、白袜、黑鞋以及挂在手上的手提包。
+
+右侧细节区域：在右侧整齐地排列 4 个方框特写面板。面板 1 为右上角的大型半身特写，标注为“髪型 / 襟元クローズアップ”，展示低双丸子发型、刘海、花朵发夹、荷叶边领口和衬衫前襟，面部模糊。面板 2 为裙子正面的小特写，展示花卉纹理和下摆。面板 3 为白色手提包的小特写，略带角度，展示提手和侧面结构。面板 4 为裙子侧面的长条形特写，展示高腰设计、垂直轮廓和花卉图案。
+
+视觉风格：日本动漫时尚设计参考，精炼的线条艺术，柔和的色彩，写实的服装结构，所有视图比例一致，标签清晰，背景简洁，无多余装饰。
+
+约束条件：必须包含 3 个带标签的全身视图和 4 个方框细节面板。保持设计稿清晰且对称。严格保留日语标签原文。不要添加额外角色、额外视图、徽标、水印或无关文字。
+
+[English]
+Goal: Create a clean anime character design sheet / three-view turnaround for {argument name="character name" default="紫苑リン (Shion Rin)"}, styled like a Japanese fashion reference board.
+
+Canvas: Wide horizontal sheet, 3:2 aspect ratio, warm off-white paper background with thin black divider lines and hand-drawn technical illustration feel. Use delicate pencil/ink outlines, muted watercolor shading, soft gray shadows, and a neat printed layout.
+
+Header text: At the top left, write “紫苑リン (Shion Rin) 三面図設計図”. Directly below it, smaller text: “詳細設計：低めツインシニヨン Ver.” Add a long horizontal rule beneath the subtitle.
+
+Main layout: Show exactly 3 full-body views of the same young woman, evenly spaced across the left and center of the sheet, each with a Japanese label above it: 1) “紫苑リン 正面図” front view, 2) “紫苑リン 側面図” side view, 3) “紫苑リン 背面図” back view. The face area should be intentionally blurred or covered by a soft rectangular censor-like blur while the clothing, hair, and body silhouette remain clear.
+
+Character details: A petite young woman with {argument name="hair color" default="black"} hair in low twin chignon buns, chin-length side locks, straight bangs, and a small purple flower hairpin on one side. Outfit: white short-sleeve blouse with puff sleeves, high ruffled collar, vertical frill placket, small buttons, and modest fitted bodice; high-waisted knee-length A-line skirt in {argument name="skirt fabric" default="taupe beige fabric with tiny purple floral pattern"}; white knee socks; black Mary Jane shoes with low chunky heels. She carries a structured white handbag with double handles and small strap attachments.
+
+Pose details for the 3 views: Front view stands upright with the handbag hanging from the left hand. Side view faces left in profile with the handbag held at the side, showing blouse frills and skirt thickness. Back view shows the blouse back seams, both low hair buns, skirt from behind, white socks, black shoes, and the handbag hanging from one hand.
+
+Right-side detail area: Include exactly 4 boxed close-up panels arranged in a neat column/grid on the right. Panel 1 is a large upper-right bust close-up labeled “髪型 / 襟元クローズアップ”, showing the low twin chignon hairstyle, bangs, flower hairpin, ruffled collar, and blouse front, with the face blurred. Panel 2 is a small close-up of the skirt front showing the floral textile pattern and hem. Panel 3 is a small close-up of the white handbag, angled slightly, with handles and side gusset visible. Panel 4 is a tall narrow close-up of the skirt from the side, showing the high waist, vertical silhouette, and floral pattern.
+
+Visual style: Japanese anime fashion design reference, refined line art, subdued colors, realistic garment construction, consistent proportions across all views, clean labels, minimal background, no decorative clutter.
+
+Constraints: Use exactly 3 labeled full-body turnaround figures and exactly 4 boxed detail panels. Keep the sheet legible and symmetrical. Preserve the Japanese labels exactly as written. Do not add extra characters, extra views, logos, watermarks, or unrelated text.
+```
+
+**来源：** [@スズヲ＠Photo＆AIart](https://x.com/Suzu_Wo/status/2063248466772656612) | 2026-06-06
+
+---
+
+### 🏷️ 例 615：现代甜品店室内设计
+
+![现代甜品店室内设计](../images/%E7%8E%B0%E4%BB%A3%E7%94%9C%E5%93%81%E5%BA%97%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个现代甜品店的照片级建筑室内渲染图，店名为 {argument name="cafe name" default="Some ice"}。展示从顾客座位区看向服务柜台的宽视角，空间呈长条状，层高较高。采用温馨的日式/斯堪的纳维亚极简风格，使用米色灰泥墙面、灰色混凝土底面、后墙采用纹理灰色瓷砖、浅色木质天花板和搁板，以及柔和的间接暗槽照明。主体构图应包含：右侧中心处 1 个白色瓷砖服务柜台，柜台上 1 台台式电脑，柜台上方 1 个带有嵌入式射灯的悬挂式木质顶棚，最右侧 1 根灰色垂直混凝土柱，柜台上方 1 个背光品牌标识（内容为 {argument name="cafe name" default="Some ice"}，深色字母配有黄色小点缀），柜台后方 4 个发光菜单项目，右侧墙上 2 个空木质搁板，左侧墙上 3 张宣传甜品的海报，可见 5 张圆形咖啡桌，以及 11 把可见的椅子/凳子：左前方两张桌子周围 4 把木椅，中间走廊座位区 4 把木椅，柜台处 1 把高脚凳，右前方桌子 1 把淡黄色椅子，右侧桌子 1 把深炭灰色椅子。在左侧海报上方增加 2 个小型壁挂式射灯，并在柜台前设置 2 根带有水平扶手的细长垂直栏杆柱。咖啡店应呈现安静、整洁、全新的设计感，拥有柔和的暖色日光和人工照明、逼真的阴影、抛光的材质，以及专业的商业室内可视化效果。避免出现人物、杂物、食物特写、水印和额外的标识。
+
+[English]
+Create a photorealistic architectural interior rendering of a modern dessert cafe named {argument name="cafe name" default="Some ice"}. Show a wide-angle view from the customer seating area toward the service counter in a long, narrow, high-ceiling space. Use a warm minimalist Japanese/Scandinavian style with beige plaster walls, gray concrete floor, textured gray tile at the back wall, light wood ceilings and shelving, and soft indirect cove lighting. The main composition should include exactly 1 large white tiled service counter on the right-center, exactly 1 desktop computer on the counter, exactly 1 suspended wood canopy above the counter with recessed spotlights, exactly 1 gray vertical concrete column on the far right, exactly 1 backlit brand sign above the counter reading {argument name="cafe name" default="Some ice"} in dark letters with a small yellow accent, exactly 4 illuminated menu boards behind the counter, exactly 2 empty wood shelves on the right wall, exactly 3 wall posters on the left wall advertising desserts, exactly 5 round cafe tables visible, and exactly 11 visible chairs/stools: 4 wooden chairs around the two front-left tables, 4 wooden chairs in the middle corridor seating area, 1 tall stool at the counter, 1 pale yellow chair at the front-right table, and 1 dark charcoal chair at the right table. Add exactly 2 small wall-mounted spotlights above the left posters and exactly 2 slim vertical railing posts with a horizontal handrail in front of the counter. The cafe should feel quiet, clean, and newly designed, with soft warm daylight and artificial lighting, realistic shadows, polished materials, and a professional commercial interior visualization look. Avoid people, clutter, food closeups, watermarks, and extra signage.
+```
+
+**来源：** [@苏_夲](https://x.com/Sutao_farming/status/2063218028813443208) | 2026-06-06
+
+---
+
+### 🏷️ 例 622：空灵巨型女性景观
+
+![空灵巨型女性景观](../images/%E7%A9%BA%E7%81%B5%E5%B7%A8%E5%9E%8B%E5%A5%B3%E6%80%A7%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位巨大的 {argument name="subject" default="皮肤发光、嘴唇光泽、深色双眸、佩戴大金耳环的空灵女性"} 从一个 {argument name="world description" default="魔法微观世界"} 上方升起。飘逸的长发、平静的表情、漂浮的岛屿、微小的村庄、蜿蜒的河流、盛开的鲜花以及黄金时段的阳光。温暖的体积光、漂浮的花瓣、梦幻的氛围、异想天开的超现实主义、{argument name="art style" default="半写实风格化插画"}、超精细绘画渲染、电影级构图、鲜艳的色彩、奇幻杰作、高度精致、8K 分辨率。
+
+[English]
+A giant {argument name="subject" default="ethereal woman with glowing skin, glossy lips, dark eyes, and large gold hoop earrings"} rises above a {argument name="world description" default="magical miniature world"}. Flowing hair, calm expression, floating islands, tiny villages, winding rivers, blooming flowers, and golden-hour sunlight. Warm volumetric light, floating petals, dreamy atmosphere, whimsical surrealism, {argument name="art style" default="semi-realistic stylized illustration"}, ultra-detailed painterly rendering, cinematic composition, vibrant colors, fantasy masterpiece, highly polished, 8K.
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2063197214420410568) | 2026-06-06
+
+---
+
+### 🏷️ 例 628：混合现实动漫直播
+
+![混合现实动漫直播](../images/%E6%B7%B7%E5%90%88%E7%8E%B0%E5%AE%9E%E5%8A%A8%E6%BC%AB%E7%9B%B4%E6%92%AD.jpg)
+
+**Prompt:**
+
+```text
+提供された参照画像のキャラクターをベースデザインとして使用すること。
+
+「{argument name="場所" default="放課後の教室"}で、学友の『踊ってみた』LIVE配信に付き合わされているアニメキャラクターが映り込んだ、配信開始直後の1フレーム」を描く。
+
+参照画像のキャラクターのアニメイラストとしての空気感を正確に維持すること。
+
+顔、髪型、髪色、瞳、耳、頭身、シルエット、表情の印象を維持すること。
+
+キャラクターのアイデンティティを絶対に崩さないこと。
+
+実写人間化しないこと。
+
+キャラクター部分は高品質なアニメイラスト表現を維持すること。
+
+舞台は日本の一般的な高校の教室。
+
+放課後。
+
+机や椅子は片付けられていない。
+
+鞄、教科書、プリント、水筒、筆箱などが自然に残されている。
+
+撮影スタジオのような空間にしない。
+
+生活感のある教室として描写すること。
+
+構図は縦型スマートフォンLIVE配信画面。
+
+視点は配信カメラそのもの。
+
+視聴者が見ているLIVE配信映像のスクリーンショットである。
+
+スマートフォン、カメラ、三脚、自撮り棒などの撮影機材は画面内に描写しない。
+
+画面手前には実写の女子高校生。
+
+日本人女子高校生。
+
+実際のスマートフォンのインカメラで撮影された人物として描写すること。
+
+写真表現。
+
+フォトリアル。
+
+学友のみ実写人物である。
+
+アニメキャラクター化しない。
+
+セル画風にしない。
+
+アニメ塗りにしない。
+
+前景人物は{argument name="実写人物" default="現実世界の女子高校生"}である。
+
+前景の学友はスマートフォンのインカメラに近いため自然に大きく映り込んでいる。
+
+ただし構図の中心人物ではない。
+
+顔の半分程度がフレーム外へ切れていてもよい。
+
+肩や腕や髪が大きく見切れていてもよい。
+
+学友は画面左端または右端に寄っている。
+
+学友は配信準備中にカメラへ近づいているだけであり視線誘導の中心にならない。
+
+配信開始ボタンを押し終えた直後。
+
+これから踊るために定位置へ戻ろうとしている。
+
+一歩後ろへ下がる直前の姿勢。
+
+明るく乗り気。
+
+配信を楽しみにしている。
+
+ダンスはまだ始まっていない。
+
+参照画像のキャラクターは画面後方に配置する。
+
+制服姿。
+
+膝上〜全身フレーミング。
+
+教室中央付近に立っている。
+
+画面内の高さの30〜50％程度を占有する。
+
+後方配置だがモブサイズにしてはならない。
+
+十分な存在感と視認性を持つこと。
+
+視聴者が自然に目を向けてしまうサイズで描写すること。
+
+構図上の重心は参照画像キャラクター側に置くこと。
+
+参照画像のキャラクターは{argument name="キャラクター" default="アニメキャラクター"}のままであること。
+
+実写化しないこと。
+
+学友に付き合わされている。
+
+踊る気はあまりない。
+
+配信の中心人物ではない。
+
+無表情。
+
+少し面倒そう。
+
+軽い困惑。
+
+苦笑い。
+
+気まずそう。
+
+そのいずれか。
+
+「もう始まるの？」という雰囲気。
+
+帰宅途中で呼び止められたような空気感でもよい。
+
+LIVE配信開始直後。
+
+動画の最初の1フレーム。
+
+まだ何も始まっていない。
+
+学友だけがやる気に満ちている。
+
+キャラクターは状況に巻き込まれている。
+
+重要:
+
+前景の学友は実写人物。
+
+後景の参照画像キャラクターはアニメキャラクター。
+
+両者は異なる表現形式のまま同一空間に存在する。
+
+実写の女子高校生とアニメキャラクターが自然に共存している不思議な日常風景として描写すること。
+
+AIが両者を同じ画風へ統一してはならない。
+
+前景のみ実写。
+
+後景のみアニメ。
+
+視聴者はまず学友の存在を認識するが、その直後に後方のアニメキャラクターへ視線が移る構図にすること。
+
+画面には現代的なLIVE配信UIを表示する。
+
+LIVE表示。
+
+視聴者数。
+
+コメント欄。
+
+ハート。
+
+ギフト。
+
+共有ボタン。
+
+配信タイトル。
+
+配信開始直後らしいUIを自然に配置する。
+
+コメント内容は自然な日本語。
+
+視聴者は学友の配信に反応している。
+
+参照画像キャラクターを芸能人扱いしない。
+
+有名人扱いしない。
+
+スマートフォン配信らしい画質。
+
+軽いHDR処理。
+
+微細なセンサーノイズ。
+
+軽微なJPEG圧縮感。
+
+オート露出。
+
+高ISOノイズ。
+
+わずかな色収差。
+
+スマホ動画らしい質感。
+
+シネマティック演出禁止。
+
+ドラマチックなライティング禁止。
+
+過剰な被写界深度効果禁止。
+
+AI特有の glossy rendering を避ける。
+
+禁止事項:
+
+前景人物をアニメ化しない。
+
+前景人物を二次元イラスト化しない。
+
+登場人物全員を同一画風に統一しない。
+
+前景と後景を両方アニメにしない。
+
+前景と後景を両方実写にしない。
+
+重要:
+
+画面の主役は学友のLIVE配信である。
+
+視聴者は後方に映るアニメキャラクターにも自然と目を向けてしまう。
+
+学友は画面端で大きく見切れている。
+
+参照画像キャラクターは画面中央付近で自然に存在感を持つ。
+
+「友達の踊ってみた配信へ巻き込まれたアニメキャラクター」
+
+という奇妙な日常感を最優先する。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2063189711137485071) | 2026-06-06
+
+---
+
+### 🏷️ 例 658：巴洛克沙发上的动漫女仆
+
+![巴洛克沙发上的动漫女仆](../images/%E5%B7%B4%E6%B4%9B%E5%85%8B%E6%B2%99%E5%8F%91%E4%B8%8A%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的动漫插画，背景为奢华的维多利亚式豪宅客厅。一位美丽的年轻女仆，留着 {argument name="hair color" default="栗棕色长发"}，侧身斜倚在一张带有镀金巴洛克木饰的深红色簇绒天鹅绒沙发上。她的面部被特意用平滑的矩形模糊/遮挡块遮住，但保持图像其余部分的细节与优雅。她穿着经典的黑白荷叶边女仆装：白色褶边发带、泡泡短袖、带有领口黑色丝带蝴蝶结的修身白色紧身胸衣、带有交叉系带的黑色束腰、多层白色围裙、黑色裙摆装饰、多层褶边下摆、袜带式大腿褶边，以及带有脚踝绑带的亮面黑色玛丽珍鞋。让她呈现出慵懒的姿势：一只手肘撑在下巴附近，另一只手放松地放在裙子上，双腿沿沙发伸展。房间应充满奢华与温暖的氛围：红色天鹅绒窗帘、金色墙面装饰、装裱的古典油画、带有烛光暖色灯光的壁灯、边桌上摆放着绿植的装饰性瓷瓶、抛光大理石地面，以及营造出戏剧性高光与阴影的柔和阳光。使用 {argument name="art style" default="精致现代动漫，gpt-image-2 风格，waiAnima 美学"}，高度精细的织物褶皱、光泽反射、电影级灯光、浓郁的红金色调、清晰对焦、优雅构图，16:9 横向画布。避免出现文字、水印、多余角色、解剖结构变形或杂乱的背景。
+
+[English]
+Create a high-quality anime illustration in a luxurious Victorian mansion parlor. A beautiful young adult maid with {argument name="hair color" default="long chestnut-brown hair"} reclines sideways across an ornate deep crimson tufted velvet sofa with gilded baroque wooden trim. Her face is intentionally obscured by a smooth rectangular blur/censor block, but keep the rest of the image detailed and elegant. She wears a frilly classic black-and-white maid outfit: white ruffled headband, puffed short sleeves, fitted white bodice with black ribbon bow at the collar, black corset-style waist panel with crisscross lacing, layered white apron, black skirt accents, multiple ruffled hems, garter-like thigh ruffles, and glossy black Mary Jane heels with ankle straps. Pose her lounging with one elbow propped near her chin, the other hand relaxed on her skirt, legs extended along the sofa. The room should feel opulent and warm: red velvet curtains, gold wall moldings, framed classical paintings, wall sconces with candlelike warm lights, a decorative porcelain vase with a leafy plant on a side table, polished marble floor, and soft sunlight creating dramatic highlights and shadows. Use {argument name="art style" default="polished modern anime, gpt-image-2 style, waiAnima aesthetic"}, highly detailed fabric folds, glossy reflections, cinematic lighting, rich reds and golds, sharp focus, elegant composition, 16:9 horizontal canvas. Avoid text, watermark, extra characters, deformed anatomy, or messy background.
+```
+
+**来源：** [@Kota](https://x.com/k0ta0uchi/status/2063118880789450804) | 2026-06-06
+
+---
+
+### 🏷️ 例 659：Vogue 风格时尚插画草图
+
+![Vogue 风格时尚插画草图](../images/Vogue%20%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此照片转换为 {argument name="style" default="Vogue 风格时尚插画"}，保留主体身份、面部特征和相似度。{argument name="sketch details" default="极简手绘草图，具有优雅的修长比例、大胆的黑色墨水轮廓、洒脱自信的线条、平涂马克笔色彩以及微妙的腮红点缀"}。风格化的眼睛、图形感嘴唇、富有表现力的 {argument name="feature focus" default="墨水质感发型"} 以及简化的几何服装形状。干净的白色背景，扫描纸张纹理，现代奢华编辑时尚插画。请勿添加任何文字。
+
+[English]
+Turn this photo into a {argument name="style" default="Vogue-style fashion illustration"}, preserving the subject's identity, facial features, and likeness. {argument name="sketch details" default="Minimalist hand-drawn sketch with elegant elongated proportions, bold black ink contours, loose confident linework, flat marker colors, and subtle blush accents"}. Stylized eyes, graphic lips, expressive {argument name="feature focus" default="ink hair"}, and simplified geometric clothing shapes. Clean white background, scanned paper texture, modern luxury editorial fashion illustration. Do not add any text.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2063117760381780020) | 2026-06-06
+
+---
+

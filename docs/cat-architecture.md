@@ -345,3 +345,125 @@ Create an ultra-realistic luxury couture editorial photograph of a beautiful fem
 
 ---
 
+### 🏛️ 例 570：宜家儿童卧室设计标注图
+
+![宜家儿童卧室设计标注图](../images/%E5%AE%9C%E5%AE%B6%E5%84%BF%E7%AB%A5%E5%8D%A7%E5%AE%A4%E8%AE%BE%E8%AE%A1%E6%A0%87%E6%B3%A8%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张写实风格的儿童卧室广角室内设计效果图，采用宜家家具装饰，并包含标注每个新家具名称的指示线。
+
+画布：横向 4:3 比例图像，从门口或房间右前方拍摄，视角略高于视平线，展示从左侧书桌区域到右侧床铺及衣柜门的整个卧室空间。
+
+房间细节：米色墙壁、米色地毯、白色踢脚线，左侧墙壁有一扇带白色百叶窗的大窗户，右侧墙壁为白色双开衣柜门，温暖的自然光与柔和的灯光交织。保持房间整洁、写实，且符合幼儿的实际生活需求。
+
+布局与家具：在最左侧墙壁放置一张白色 {argument name="desk model" default="LÄRANDE 书桌"}，配一把灰色转椅，桌上摆放笔筒以及一本小书或平板电脑。在窗户下方及后墙沿线放置一个黑色方格储物单元，标注为 {argument name="toy storage model" default="KALLAX 玩具储物柜"}，底层整齐排列 3 个灰色布艺收纳盒，并摆放书籍、玩具车和小型玩具。在储物柜上方悬挂一幅带框恐龙画。在储物柜右侧放置一个深色木质 {argument name="dresser model" default="STORKLINTA 抽屉柜"}，带有 3 个大抽屉，顶部摆放小盆栽、相框和一盏小台灯。在右侧放置一张白色单人 {argument name="bed model" default="SLÄKT 床"}，配有白色床头板、蓝色被子、恐龙图案枕头和床单，床身纵向朝向观察者。在床后靠近抽屉柜的位置放置一盏黑色拱形落地灯。在书桌、储物柜和床之间的地毯中央添加一张绿色儿童公路地图游戏地毯。
+
+标注说明：添加 7 个白色圆角矩形标签，文字为黑色，带有细灰色边框，每个标签配有一条指向相关物品的白色箭头。标签内容必须严格如下：1) “LÄRANDE 书桌”指向书桌，2) “KALLAX 玩具储物柜”指向黑色方格储物柜，3) “DRÖNA 收纳盒”指向灰色布艺收纳盒，4) “STORKLINTA 抽屉柜”指向抽屉柜，5) “HEKTAR 落地灯”指向黑色落地灯，6) “SLÄKT 床头板”指向白色床头板，7) “SLÄKT 床”指向床尾或床架。
+
+视觉风格：写实风格的室内手机摄影效果，具备 AI 家居布置的整洁质感，光线温暖舒适，透视准确，阴影细腻，标签清晰易读，画面中无人像、无杂物、无水印。
+
+[English]
+Goal: Create a photorealistic wide-angle interior design visualization of a small child’s bedroom decorated with IKEA furniture, including annotation callouts naming each new item.
+
+Canvas: Landscape 4:3 image, photographed from the doorway or front-right corner of the room with a slightly elevated eye-level perspective, showing the entire bedroom from left desk area to right bed and closet doors.
+
+Room details: Beige walls, beige carpet, white trim, a large window with white blinds on the left wall, white double closet doors on the right wall, warm natural daylight mixed with soft lamp light. Keep the room tidy, realistic, and practical for a young child.
+
+Layout and furniture: On the far left wall place a white {argument name="desk model" default="LÄRANDE desk"} with a gray rolling desk chair, pencil cups, and a small book or tablet on top. Under the window and along the back wall place a black cube storage unit labeled {argument name="toy storage model" default="KALLAX toy storage"}, filled with exactly 3 gray fabric bins across the bottom row, books, toy vehicles, and small toys. Above the toy storage hang a framed dinosaur print. To the right of the toy storage place a dark wood {argument name="dresser model" default="STORKLINTA dresser"} with exactly 3 large drawers, small plants, a framed photo, and a small lamp on top. On the right side place a white twin {argument name="bed model" default="SLÄKT bed"} with a white headboard, blue quilt, dinosaur-patterned pillow and sheets, positioned lengthwise toward the viewer. Place a black arched floor lamp behind the bed near the dresser. Add a green children’s road-map play rug centered on the carpet between the desk, storage, and bed.
+
+Annotation callouts: Add exactly 7 white rounded-rectangle labels with black text and thin gray borders, each with a white arrow pointing to the relevant item. The labels must read exactly: 1) “LÄRANDE desk” pointing to the desk, 2) “KALLAX toy storage” pointing to the black cube storage, 3) “DRÖNA bins” pointing to the gray fabric bins, 4) “STORKLINTA dresser” pointing to the dresser, 5) “HEKTAR floor lamp” pointing to the black floor lamp, 6) “SLÄKT headboard” pointing to the white headboard, 7) “SLÄKT bed” pointing to the footboard or bed frame.
+
+Visual style: Realistic smartphone interior photo with clean AI home-staging polish, warm cozy lighting, accurate perspective, subtle shadows, readable labels, no people, no clutter, no watermark.
+```
+
+**来源：** [@Jake Parks](https://x.com/jakeparksx/status/2063296567226851636) | 2026-06-06
+
+---
+
+### 🏛️ 例 572：韩式卧室摄影
+
+![韩式卧室摄影](../images/%E9%9F%A9%E5%BC%8F%E5%8D%A7%E5%AE%A4%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实肖像，一位美丽的年轻 {argument name="ethnicity" default="东亚"} 女性，留着长长的黑色亮泽秀发，扎成随意的蓬松高马尾，配有轻薄的空气刘海，肤色白皙透亮，五官精致柔美，妆容自然，神情恬静温柔。她舒适地坐在 {argument name="furniture" default="舒适的床"} 上，身处一间温暖的现代卧室中。房间内配有奶油色寝具、柔软的针织毯、过滤午后阳光的薄纱窗帘、墙上的相框、木质床头柜、小型盆栽以及散发柔光的床头灯。氛围亲密、宁静且充满生活气息。服装：温暖的 {argument name="outfit color" default="燕麦米色"} 系简约奢华家居服。长袖纹理针织亨利衫，完全覆盖胸部和肩部，领口带有小纽扣，版型宽松。搭配同色系高腰针织休闲裤，带有细微的罗纹质感。穿着柔软的奶油色袜子。造型舒适、优雅且得体，无任何暴露元素。姿势：盘腿坐在床上，双手自然交叠放在膝盖上，双肩放松，身体微微前倾面向镜头。眼神柔和交流，微微侧头，肢体语言自然，表情平静且具亲和力。光影：窗外射入的温暖午后阳光与床头灯的柔和环境光相结合。发丝和皮肤上有柔和的高光，阴影真实，呈现出舒适的黄金时刻氛围，自然光线衰减。环境：极简韩式卧室美学，中性米色和奶油色调，空间整洁，材质柔软，木质元素温暖，亲密的居家环境。相机：平视肖像摄影，9:16 竖构图，等效 85mm 镜头，浅景深，背景虚化柔和，皮肤纹理真实，织物细节清晰，呈现自然的摄影质感。风格：舒适生活方式摄影，韩式卧室美学，真实抓拍肖像，宁静的周末早晨氛围，高级杂志质感，高细节，超写实，比例真实，自然美，Vogue Korea 风格，8K 画质。
+
+[English]
+Ultra-photorealistic portrait of a beautiful young {argument name="ethnicity" default="East Asian"} woman with long glossy black hair styled in a loose high ponytail, soft wispy bangs, fair luminous skin, delicate feminine features, natural makeup, and a calm gentle expression. She is sitting comfortably on a {argument name="furniture" default="cozy bed"} inside a warm modern bedroom. The room features cream-colored bedding, soft knit blankets, sheer curtains filtering afternoon sunlight, framed photos on the wall, a wooden nightstand, small houseplants, and a softly glowing bedside lamp. The atmosphere feels intimate, peaceful, and lived-in. Outfit: modest luxury loungewear in warm {argument name="outfit color" default="oatmeal-beige"} tones. Long-sleeve textured knit Henley lounge top fully covering the chest and shoulders, small buttons at the neckline, relaxed fit. Matching high-waisted knit lounge pants with subtle ribbed texture. Soft cream socks. Cozy, elegant, and comfortable styling with no revealing elements. Pose: seated cross-legged on the bed, hands resting gently in her lap, shoulders relaxed, leaning slightly forward toward the camera. Soft eye contact, subtle head tilt, natural body language, calm and inviting expression. Lighting: warm late-afternoon sunlight entering through a nearby window combined with soft ambient bedside lamp glow. Gentle highlights on hair and skin, realistic shadows, cozy golden-hour atmosphere, natural light falloff. Environment: minimalist Korean-inspired bedroom aesthetic, neutral beige and cream color palette, clean and tidy space, soft fabrics, warm wood accents, intimate home setting. Camera: eye-level portrait photography, vertical 9:16 composition, 85mm lens equivalent, shallow depth of field, soft background separation, realistic skin texture, visible fabric detail, natural photographic imperfections. Style: cozy lifestyle photography, Korean bedroom aesthetic, authentic candid portrait, peaceful weekend morning mood, premium editorial quality, highly detailed, photorealistic, realistic proportions, natural beauty, Vogue Korea inspired, 8K quality.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2063294103014838338) | 2026-06-06
+
+---
+
+### 🏛️ 例 583：黑色侦探事务所街道
+
+![黑色侦探事务所街道](../images/%E9%BB%91%E8%89%B2%E4%BE%A6%E6%8E%A2%E4%BA%8B%E5%8A%A1%E6%89%80%E8%A1%97%E9%81%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个 1940 年代电影黑色风格的街道场景，采用高对比度黑白画面，宽屏 16:9。在左侧前景中，展示 1 名身材魁梧的侦探或黑帮成员的背影，他戴着一顶带有羽毛和铆钉饰带的宽檐软呢帽，身穿带有浅色毛领和毛袖口的深色长外套，戴着手套，右手拿着 1 份卷起来的文件或蓝图。他面向雨后湿滑的城市人行道，看向右侧的一家砖砌店面，店面招牌上发着光，文字为 {argument name="agency sign text" default="KORSCHE DETECTIVE AGENCY"}。办公室入口有深色百叶窗、玻璃门，门上贴着一张小纸条，写着 {argument name="door notice text" default="NOTICE"}。左侧路边停放着 1 辆复古黑色汽车，画面中可见 3 盏街道或室外灯，投射出白色的光圈，远景左侧有高耸阴郁的摩天大楼，地面湿润反光，夜间空气弥漫着薄雾，阴影深邃，角色帽子和皮毛边缘有轮廓光，仅在店面和灯光处有微妙的暖黄色高光。风格：图形小说写实主义与经典黑色电影摄影的结合，戏剧性的低调照明，忧郁的城市侦探氛围，锐利的建筑细节，无现代物品，无额外人物，无水印。
+
+[English]
+Create a cinematic 1940s film-noir street scene in high-contrast black and white, widescreen 16:9. In the left foreground, show exactly 1 large heavyset detective or gangster seen from behind, wearing a wide-brim fedora with a feather and studded band, a dark long coat with a pale fur collar and fur cuffs, gloves, and holding exactly 1 rolled document or blueprint in his right hand. He faces across a rain-slick city sidewalk toward a brick storefront on the right with a glowing sign reading {argument name="agency sign text" default="KORSCHE DETECTIVE AGENCY"}. The office entrance has dark shutters, a glass door, and a small paper notice on the door reading {argument name="door notice text" default="NOTICE"}. Include exactly 1 vintage black car parked on the left curb, exactly 3 visible street or exterior lamps casting white pools of light, tall shadowy skyscrapers in the far-left background, wet reflective pavement, misty night air, deep shadows, rim lighting around the character’s hat and fur, and subtle warm yellow highlights only in the storefront and lamp glow. Style: graphic novel realism mixed with classic noir cinematography, dramatic low-key lighting, moody urban detective atmosphere, sharp architectural detail, no modern objects, no extra people, no watermark.
+```
+
+**来源：** [@Grumpy_Whiskers](https://x.com/GrumpyWhiskers_/status/2063276374622601715) | 2026-06-06
+
+---
+
+### 🏛️ 例 614：现代风冰淇淋店室内设计
+
+![现代风冰淇淋店室内设计](../images/%E7%8E%B0%E4%BB%A3%E9%A3%8E%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BA%97%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个照片级真实感的建筑室内渲染图，展示一家名为 {argument name="shop name" default="Some ice"} 的现代极简风格冰淇淋店。视角从前部座位区看向服务台，呈现午后温暖的阳光。空间高而狭窄，采用奶油色抹灰墙面、灰色混凝土地面、灰色纹理背景墙、白色方砖柜台、暖色木质天花板顶棚、隐藏式灯带，左侧墙面和地面上有树叶投下的柔和阴影。在柜台上方放置大型店铺 Logo，采用深灰色字母并带有少量黄色点缀。服务区包含 1 个白色瓷砖前台，柜台上放置 1 台大型银色台式电脑，柜台后有 1 名身穿奶油色衬衫和米色围裙的员工，后墙上挂有 4 个发光的菜单项目，分别标注为 Signature、Sweet、Yogurt 和 Classic，并配有甜点图片。在右侧墙面上，包含 3 个木质零售货架，展示带有品牌标识的小纸袋或包装盒。在左侧墙面上，包含 3 张悬挂在纤细黄铜壁灯下的促销海报，其中一张印有可爱的吉祥物和文字 {argument name="poster headline" default="Have Someice Day"}。顾客区共布置 6 张圆形咖啡桌：左前方 2 张，左侧中部沿墙 2 张，右侧 2 张；总共包含 10 把可见的椅子，大部分为暖色曲木椅配镀铬椅腿，右侧另有 1 把淡黄色椅子和 1 把黑色椅子。在左后方增加楼梯和狭窄通道，配有木质踏板、黑色金属扶手，远处可见砖墙和玻璃门。采用宁静的斯堪的纳维亚-日式咖啡馆美学，使用天然材料，具备真实的全局光照、柔和的景深、简洁的构图，除一名员工外无其他人物，无杂物，无水印，3:2 横向比例。
+
+[English]
+Create a photorealistic architectural interior rendering of a modern minimalist ice cream shop named {argument name="shop name" default="Some ice"}, viewed from the front seating area looking toward the service counter in warm late-afternoon sunlight. The space is tall and narrow with cream plaster walls, gray concrete flooring, a gray textured back wall, white square-tile counter, warm wood ceiling canopy, hidden cove lighting, and soft shadows from tree leaves cast across the left wall and floor. Place the large shop logo above the counter, dark gray letters with a small yellow accent. The service area contains exactly 1 white tiled front counter, 1 large silver desktop computer on the counter, 1 staff member behind the counter wearing a cream shirt and beige apron, and 4 illuminated menu boards on the back wall labeled Signature, Sweet, Yogurt, and Classic with dessert photos. On the right wall, include exactly 3 wooden retail shelves displaying small branded paper bags or boxes. On the left wall, include exactly 3 framed promotional posters under a slim brass wall light, one featuring a cute mascot and the text {argument name="poster headline" default="Have Someice Day"}. Furnish the customer area with exactly 6 round café tables total: 2 in the left foreground, 2 smaller tables along the left middle wall, and 2 on the right side; include exactly 10 visible chairs total, mostly warm bentwood chairs with chrome legs plus 1 pale yellow chair and 1 black chair on the right. Add a staircase and narrow passage receding into the back left, with wood stair treads, a black metal railing, and a glimpse of brick wall and glass door at the far rear. Use a calm Scandinavian-Japanese café aesthetic, natural materials, realistic global illumination, soft depth, clean composition, no people except the single staff member, no clutter, no watermark, 3:2 horizontal aspect ratio.
+```
+
+**来源：** [@苏_夲](https://x.com/Sutao_farming/status/2063218028813443208) | 2026-06-06
+
+---
+
+### 🏛️ 例 631：微型花园盒子立体模型
+
+![微型花园盒子立体模型](../images/%E5%BE%AE%E5%9E%8B%E8%8A%B1%E5%9B%AD%E7%9B%92%E5%AD%90%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+私とChatGPTのやりとりから見える{argument name="詰め込むもの" default="好きなもの"}を詰め込んだミニチュア箱庭を作成してください。
+
+白い紙でできた正方形の床面をベースにし、その床面の奥側と片側だけに、白い壁を垂直に2面立てた前面と上部は完全に開いているオープンセット。奥行きをもたせる。 自然光が差し込む明るい白背景のスタジオに設置し、 箱庭に焦点を当て、背景には浅い被写界深度をつけて撮影する。
+```
+
+**来源：** [@ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』](https://x.com/ChatgptAIskill/status/2063184374317928773) | 2026-06-06
+
+---
+
+### 🏛️ 例 687：前卫水晶冰封肖像
+
+![前卫水晶冰封肖像](../images/%E5%89%8D%E5%8D%AB%E6%B0%B4%E6%99%B6%E5%86%B0%E5%B0%81%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+先锋编辑风人物专题封面，主体为一位全身出镜的人物，完整保留头部、躯干、四肢与姿态，人物具有强烈情绪张力与鲜活生命感，仿佛在一个动作瞬间被高透明度的水晶晶体封存，如同琥珀中的生命标本，但包裹材质必须是纯净、坚硬、通透、带清晰切面与强折射特性的水晶，而不是普通冰块。水晶晶体包裹并穿插人物身体周围，形成明显的折射、色散、光学扭曲与局部碎裂感，使人物局部轮廓、肢体和面部在晶体中产生精致而锐利视觉变形。背景为暗色颗粒质感空间，保留放大、虚化、若隐若现的幽影轮廓，增强神秘氛围与空间层次。整体视觉气质冷峻、神秘、昂贵、锐利，具有高级时尚杂志封面与先锋人物专题的审美风格。强调编辑感、高级光影、奢华材质表现、冷调色彩、强烈视觉冲击、艺术摄影感与未来感。画面构图适合封面设计，人物为视觉核心，留出适度版式空间，整体精致、前卫、具有收藏级时尚视觉质感。人物：{argument name="人物" default="娜美"}
+```
+
+**来源：** [@知识猫图解](https://x.com/GeekCatX/status/2063071806576349519) | 2026-06-06
+
+---
+

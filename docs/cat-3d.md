@@ -1056,3 +1056,333 @@ Constraints: Keep all text legible and placed only in the upper-left. Do not add
 
 ---
 
+### 🧸 例 561：置于闪烁玻璃杯中的淡彩动漫手办
+
+![置于闪烁玻璃杯中的淡彩动漫手办](../images/%E7%BD%AE%E4%BA%8E%E9%97%AA%E7%83%81%E7%8E%BB%E7%92%83%E6%9D%AF%E4%B8%AD%E7%9A%84%E6%B7%A1%E5%BD%A9%E5%8A%A8%E6%BC%AB%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款 1/7 比例预涂装动漫手办创作精致的商业产品视觉图，将其呈现为清爽的夏季甜点饮品。
+
+画布：方形 4:5 左右的产品摄影构图，柔和的高调照明，淡紫色、冰蓝色与白色的色调，浅景深，具有收藏级手办广告质感的写实光泽渲染。
+
+主体：中右侧，展示一个名为 {argument name="character name" default="Emma Crandall"} 的动漫风格女性角色，她坐在一个装满透明气泡水的圆柱形玻璃杯中。角色拥有非常长且飘逸的 {argument name="hair color" default="淡紫色"} 头发，在水中四散漂浮，并带有深紫色的小蝴蝶结配饰。她的脸部被一个平滑、不透明的淡粉色矩形遮挡块覆盖，没有五官。她身穿一件带有层叠荷叶边、蕾丝饰边、胸前饰有深色小蝴蝶结、腰部饰有深色蝴蝶结以及透明发圈手链的淡紫色夏季百合泳装裙。姿势：一只手靠近脸颊，另一只手搭在杯沿上，赤裸的双腿悬在水下，脚尖绷直。
+
+可见元素计数：正好 1 个女性角色，1 个透明玻璃杯，背景右侧 1 片柠檬切片，前景/背景中 3 块明显的冰块，水中悬浮着许多细小的气泡，背景/前景中有 2 朵模糊的淡紫色大花，以及角色服装/头发上的 3 个深紫色蝴蝶结装饰。
+
+布局：玻璃杯占据图像下方的三分之二，角色从水位线处露出。左上方区域包含优雅的产品排版和装饰线条，使角色在右侧占据主导地位。背景为梦幻般的微距桌面场景，带有焦外成像高光、冰冷的反射、模糊的花朵和柠檬角。
+
+文字内容：在左上方添加正好 4 行/块文字。第 1 行大型日文标题：{argument name="Japanese title" default="エマ・クランドール"}。第 2 行较小的英文草书名称：{argument name="English name" default="Emma Crandall"}。第 3 行小型日文副标题：{argument name="version subtitle" default="サマーリリィ・アフタヌーン Ver."}。第 4 行位于淡紫色丝带横幅上：{argument name="scale label" default="1/7スケール 塗装済み完成品フィギュア"}。在副标题和丝带之间加入一条纤细的装饰性花卉分隔线。
+
+视觉风格：超精致动漫手办摄影，树脂/PVC 收藏品质感，透明玻璃折射，逼真的水面焦散，闪烁的高光，柔和的辉光效果，淡彩优雅风，奢华手办宣传主视觉图。
+
+约束条件：保持所有文字清晰可辨，且仅放置在左上方。不要添加额外的角色、标签、Logo、水印或包装。保持被遮挡的空白矩形脸部为一个平整的不透明块。
+
+[English]
+Goal: Create a delicate commercial product visual for a 1/7 scale pre-painted anime figure displayed like a refreshing summer dessert drink.
+
+Canvas: Square 4:5-ish product photo composition, soft high-key lighting, pale lavender, icy blue, and white color palette, shallow depth of field, glossy realistic rendering with a collectible figure advertisement feel.
+
+Main subject: Center-right, show one anime-style female figure named {argument name="character name" default="Emma Crandall"} seated inside a clear cylindrical glass tumbler filled with transparent sparkling water. The figure has very long flowing {argument name="hair color" default="pale lavender"} hair drifting around her in the water, with small dark purple bow accessories. Her face is covered by a smooth opaque pale pink rectangular censor block with no facial features. She wears one frilly lavender summer-lily swimsuit dress with layered ruffles, lace trim, a small dark bow at the chest, a dark bow at the hip, and a translucent scrunchie bracelet. Her pose: one hand near her cheek, the other resting over the glass rim, bare legs dangling underwater with pointed bare feet.
+
+Visible counted elements: exactly 1 female figure, 1 transparent glass tumbler, 1 lemon slice on the right background, 3 prominent ice cubes in the foreground/background, many tiny air bubbles suspended in the water, 2 large blurred pale purple flowers in the background/foreground, and 3 dark purple bow accents on the figure outfit/hair.
+
+Layout: The glass occupies the lower two-thirds of the image, with the figure emerging from the waterline. The top-left area contains elegant product typography and ornament lines, leaving the figure dominant on the right. Background is a dreamy macro tabletop scene with bokeh highlights, icy reflections, blurred flowers, and a lemon wedge.
+
+Text content: Add exactly 4 text lines/blocks in the upper-left. Line 1 large Japanese title: {argument name="Japanese title" default="エマ・クランドール"}. Line 2 smaller cursive English name: {argument name="English name" default="Emma Crandall"}. Line 3 small Japanese subtitle: {argument name="version subtitle" default="サマーリリィ・アフタヌーン Ver."}. Line 4 on a lavender ribbon banner: {argument name="scale label" default="1/7スケール 塗装済み完成品フィギュア"}. Include a thin decorative floral divider between the subtitle and ribbon.
+
+Visual style: Ultra-polished anime figure photography, resin/PVC collectible texture, transparent glass refraction, realistic water caustics, sparkling highlights, soft bloom, pastel elegance, luxury figure promotional key visual.
+
+Constraints: Keep all text legible and placed only in the upper-left. Do not add extra characters, extra labels, logos, watermarks, or packaging. Maintain the censored blank rectangular face exactly as a flat opaque block.
+```
+
+**来源：** [@石上　三歳（ｲｼｶﾞﾐ　ﾐﾄｾ）](https://x.com/mitose_ishigami/status/2063402871484469305) | 2026-06-06
+
+---
+
+### 🧸 例 569：半 3D 编辑风格插画
+
+![半 3D 编辑风格插画](../images/%E5%8D%8A%203D%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量、高分辨率的 {argument name="style" default="矢量卡通 / 半 3D 插画"}，呈现参考图片中的人物。以时尚的现代编辑风格对其进行重塑，让他们自信地坐在精致的设计师座椅上。服装：{argument name="clothing" default="潮流 T 恤、时尚裙装/裤装、时髦运动鞋，并以醒目的太阳镜作为核心配饰"}。在保持人物辨识度的同时，夸张化关键面部特征。采用简洁的纯色背景（单一鲜艳色彩）、流畅的线条、锐利的细节、柔和的摄影棚灯光、奢华广告美学，以及为品牌推广和标题预留充足留白的居中构图。超精细、可印刷、广告牌级画质，现代眼镜广告风格。
+
+[English]
+Create a premium high-resolution {argument name="style" default="vector-cartoon / semi-3D illustration"} of the person from the reference image. Reimagine them in a stylish modern fashion-editorial look, sitting confidently on a sleek designer chair. Outfit: {argument name="clothing" default="trendy T-shirt, fashionable skirt/pants, stylish sneakers, and bold sunglasses as the hero accessory"}. Exaggerate key facial features while maintaining recognizable likeness. Clean flat-colored background (single vibrant color), smooth lines, sharp details, soft studio lighting, luxury advertising aesthetic, centered composition with ample negative space for branding and headlines. Ultra-detailed, print-ready, billboard-quality, modern eyewear campaign style.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2063299903582003607) | 2026-06-06
+
+---
+
+### 🧸 例 577：自行车手角色设计图
+
+![自行车手角色设计图](../images/%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%89%8B%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="自行车手"} 创建一份风格化的动画角色设计图，角色为一名耐力公路自行车手，采用简洁的半写实 3D/手绘概念艺术风格。
+
+画布：横向 4:3 比例角色设计图，背景为暖米色纸张纹理，带有细微颗粒感和纤细的板岩蓝引导线。整体外观应呈现出专业动画模型图的质感，风格简洁且具有手绘感，脚下带有柔和阴影。
+
+主要布局：在左侧三分之二处，展示 5 个完全相同的瘦削年轻男性自行车手全身多角度视图，面部用简单的垂直模糊肤色矩形遮挡：1 正面视图，2 正面四分之三视图，3 左侧视图，4 背面视图，5 背面四分之三视图。角色身材高大、非常精瘦，二十多岁，留着凌乱的棕色短发，四肢修长，肤色白皙，姿态专注且充满运动感。服装：合身的 {argument name="jersey color" default="宝蓝色"} 短袖骑行服，高领设计，胸前/背后带有白色三条纹小标志，黑色骑行短裤，黑色露指骑行手套（带有蓝色腕部细节），白色中筒袜，以及白蓝相间的公路骑行鞋。
+
+表情面板：在右上角创建一个标有“EXPRESSIONS”（表情）的方框面板。在面板内，展示 6 个裁剪后的半身/头部表情肖像，排列为 3 行 2 列。每张肖像均穿着相同的蓝色骑行服，留着棕色头发，面部同样被矩形遮挡；在保持角色模型一致的前提下，略微改变头部角度和头发轮廓。
+
+下方多角度缩略图：在下方中央，展示 4 个佩戴黑白公路骑行头盔的较小全身姿势：1 背面四分之三视图，2 向右的侧视图，3 背面视图，4 向左的侧视图。保持相同的服装、鞋子、手套和精瘦比例。
+
+颜色与道具区：在左下方，包含 6 个垂直排列的色块，从上到下依次为：宝蓝色、近黑色、灰白色、浅肤色、棕色头发、柔和蓝灰色。在色块下方或旁边，包含 3 个由细垂直分隔线隔开的简单轮廓图标：1 公路自行车，2 骑行头盔，3 水壶。
+
+信息框：在右下方，包含一个细线矩形数据卡，内含全大写、等宽或技术风格的文字：“CHARACTER: CYCLIST”（角色：自行车手）、“AGE: MID 20'S”（年龄：20 多岁）、“ROLE: ENDURANCE RIDER”（角色：耐力车手）、“PERSONALITY: FOCUSED, DETERMINED, DISCIPLINED”（性格：专注、坚定、自律），右下角带有小字 ID 编号“001”。
+
+视觉风格：半写实风格化角色概念艺术，比例修长，具有绘画感阴影，服装接缝清晰，骑行服和短裤带有细微织物纹理，暖色调中性光，模型图间距精准，采用柔和的蓝灰色排版。保持面部遮盖/匿名，无额外角色，无背景，无水印。
+
+[English]
+Goal: Create a stylized animation character design sheet for {argument name="character name" default="Cyclist"}, an endurance road cyclist in a clean semi-realistic 3D/painted concept-art style.
+
+Canvas: Landscape 4:3 character sheet on a warm beige paper-textured background, with subtle grain and thin slate-blue guide lines. Overall look should feel like a professional animation model sheet, clean but hand-painted, with soft shadows under the feet.
+
+Main layout: On the left two-thirds, show exactly 5 large full-body turnaround poses of the same slim young male cyclist with face intentionally obscured by a simple vertical blurred skin-tone rectangle: 1 front view, 2 front three-quarter view, 3 left side view, 4 back view, 5 back three-quarter view. The character is tall, very lean, mid-20s, with short tousled brown hair, narrow limbs, fair skin, and a focused athletic posture. Outfit: fitted {argument name="jersey color" default="royal blue"} short-sleeve cycling jersey with high collar and a small white triple-stripe logo on the chest/back, black cycling shorts, black fingerless cycling gloves with blue wrist details, white crew socks, and white-and-blue road cycling shoes.
+
+Expression panel: In the upper-right, create a boxed panel labeled “EXPRESSIONS”. Inside it, show exactly 6 cropped bust/head expression portraits arranged in a 3 by 2 grid. Each portrait uses the same blue cycling jersey, brown hair, and obscured face rectangle; vary head angle and hair silhouette slightly while keeping a consistent character model.
+
+Lower turnaround miniatures: Along the lower center, show exactly 4 smaller full-body poses of the cyclist wearing a black-and-white road cycling helmet: 1 back three-quarter view, 2 side view facing right, 3 back view, 4 side view facing left. Keep the same outfit, shoes, gloves, and slim proportions.
+
+Color and prop area: At lower-left, include exactly 6 vertical color swatches, stacked top to bottom: royal blue, near-black, off-white, light skin peach, brown hair, muted blue-gray. Beneath or beside them, include exactly 3 simple outline icons separated by thin vertical dividers: 1 road bicycle, 2 cycling helmet, 3 water bottle.
+
+Information box: At lower-right, include a thin-lined rectangular data card with the following text in all caps, monospaced or technical lettering: “CHARACTER: CYCLIST”, “AGE: MID 20'S”, “ROLE: ENDURANCE RIDER”, “PERSONALITY: FOCUSED, DETERMINED, DISCIPLINED”, and a small bottom-right ID number “001”.
+
+Visual style: Semi-realistic stylized character concept art with elongated proportions, painterly shading, crisp clothing seams, subtle fabric texture on the jersey and shorts, warm neutral lighting, precise model-sheet spacing, and muted blue-gray typography. Keep faces covered/anonymous, no extra characters, no scenery, no watermark.
+```
+
+**来源：** [@ALG∑BRA](https://x.com/CallMeAlgy/status/2063283207257178565) | 2026-06-06
+
+---
+
+### 🧸 例 580：3D CG 东方奇幻角色
+
+![3D CG 东方奇幻角色](../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想女性角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，full body portrait，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 {argument name="年龄" default="20–24"} 岁，整体气质灵动、甜美、俏皮、轻盈、梦幻，带有春日樱花氛围与精致游戏角色写真感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光与高级虚拟角色海报质感。人物拥有精致甜美的东方幻想美少女脸，小巧鹅蛋脸，皮肤白皙细腻，带轻微通透感与柔和皮肤着色。眼睛大而清澈，瞳色为浅琥珀棕与暖金调混合，睫毛纤长，眼神灵动明亮，一只眼自然俏皮地眨眼，嘴角带轻柔微笑，表情亲近、可爱、元气。鼻梁秀气，嘴唇柔软小巧，唇色为低饱和蜜桃粉。耳朵为精致的长尖耳，增强东方幻想与精灵感。发型为高饱和{argument name="发色" default="蓝色"}长发，发丝丰盈顺滑，具有高精度发丝建模与柔亮光泽。发型为双侧粗编发结合长发披落，额前有整齐刘海与少量弧形碎发修饰脸型，发尾蓬松灵动，整体发量丰富，带柔和风感。头戴白银色与淡紫色结合的精致幻想头饰，带金属星形结构、丝带装饰与轻微珠宝细节。服装为高精度 3D CG 东方幻想轻华丽服饰，上半身为白色、淡银色、浅紫色与深紫色搭配的露肩短斗篷式上衣，带精致几何纹样、细金边、流苏、绳结与小型金属挂饰；胸口与领口结构细致，服装层次丰富，具有丝缎、轻纱与刺绣混合质感。下装为黑色贴身短裤，搭配高腰结构与金属装饰，侧面有飘带与垂坠配件。手臂佩戴银白色长手套与护腕，腿部有精致幻想纹样装饰与腿环细节，整体造型轻盈、俏皮、精致、游戏角色感强。人物姿势为身体微微前倾，靠近镜头，一只手轻轻拿着一朵淡粉色樱花靠近嘴边，另一只手自然下垂放松，腰部形成自然曲线，双腿修长匀称，站姿轻盈灵动。整体动作像在春日花道中与镜头互动的一瞬间，甜美但不幼态，俏皮而高级。背景调整为精致唯美的东方幻想春日花道场景，不要普通写实公园背景。场景为浅粉樱花盛开的林荫步道，两侧樱花树形成柔和纵深，远处可隐约融入淡雅东方园林或幻想庭院轮廓，如朦胧亭台、白玉栏杆、浅色石径与轻雾花影。背景整体高雅、通透、梦幻，具有轻微景深虚化与高级层次感。空中飘落少量樱花花瓣，地面也散落粉白花瓣，营造浪漫柔和的春日氛围。光线采用明亮柔和的春日自然光与轻微逆光结合，人物面部清晰通透，发丝边缘、肩部与腿部带柔和轮廓光，皮肤、金属、布料、花朵与头饰都具有细腻真实的材质反应。整体色调以樱花粉、奶白、浅紫、金橙、银白为主，画面精致、干净、明亮、通透、梦幻，具有高端收藏级 3D CG 东方幻想角色海报质感。high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, delicate fantasy costume, glossy fabric, metallic accessories, elegant oriental fantasy styling, cherry blossom atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2063279085053460591) | 2026-06-06
+
+---
+
+### 🧸 例 609：设计师艺术玩具收藏品
+
+![设计师艺术玩具收藏品](../images/%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%89%BA%E6%9C%AF%E7%8E%A9%E5%85%B7%E6%94%B6%E8%97%8F%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一个旨在展示潮流“每日穿搭”（OOTD）的设计师艺术玩具 / 收藏级人偶。角色的设计和整体艺术风格应严格模拟所提供参考图的美学效果。该人偶应为一个 {argument name="subject" default="时尚的街头风格角色"}，并呈现为高质量的收藏级乙烯基人偶
+
+[English]
+Generate a designer art toy / collectible figurine designed to showcase a trendy 'Outfit of the Day' (OOTD). The character's design and the overall art style should strictly emulate the aesthetic of the provided reference image. The figure should be a {argument name="subject" default="stylish, streetwear-clad character"}, presented as a high-quality, collectible vinyl figure
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2063225392140579051) | 2026-06-06
+
+---
+
+### 🧸 例 621：高端奢华科技编辑风格
+
+![高端奢华科技编辑风格](../images/%E9%AB%98%E7%AB%AF%E5%A5%A2%E5%8D%8E%E7%A7%91%E6%8A%80%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+实现 {argument name="style" default="高端编辑或奢华科技广告"} 的视觉风格。该提示词专为专业级效果设计，侧重于 {argument name="element" default="光影"} 的平衡，以构建明确的 3D 结构。它能将简单的物体转化为 {argument name="aesthetic" default="极简艺术"}，营造出深邃的临场感与高保真细节。非常适合品牌推广、社交媒体及摄影棚级照片增强。8k 分辨率。
+
+[English]
+Achieve the look of a {argument name="style" default="premium editorial or luxury tech advertisement"}. Designed for professional-grade results, this prompt focuses on the balance of {argument name="element" default="light and shadow"} to establish a definitive 3D structure. It transforms simple objects into {argument name="aesthetic" default="minimalist art"}, creating a deep sense of presence and high-fidelity detail. Ideal for branding, social media, and studio-quality photo enhancement. 8k resolution.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2063200253155918031) | 2026-06-06
+
+---
+
+### 🧸 例 627：手工收藏级男性玩偶
+
+![手工收藏级男性玩偶](../images/%E6%89%8B%E5%B7%A5%E6%94%B6%E8%97%8F%E7%BA%A7%E7%94%B7%E6%80%A7%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的照片作为身份参考。保持极高的人脸相似度，精准还原面部特征、比例、表情、发型、肤色以及自然的非对称性。创作一个可爱的手工高级收藏级男性玩偶，拥有略大的头部、纤细的小身体、柔软的毛毡与织物纹理、逼真的 3D 面部细节、栩栩如生的玻璃眼珠以及手工缝制的针脚。这个小玩偶紧紧抱着一块几乎和他一样大的 {argument name="candy bar" default="KitKat 巧克力棒"}，上面已经有几个被咬过的痕迹。他脸上带着俏皮而满足的微笑，嘴唇、脸颊和指尖上沾着 {argument name="detail" default="巧克力污渍"}。几滴融化的巧克力散落在下方的地面上。一只巨大的人类手指轻轻捏住他衬衫领子的后方将他提起，但他固执地不肯松开手中的 KitKat，营造出一种幽默而可爱的场景。强调戏剧性的尺寸对比、温暖明亮的灯光、简洁的极简主义背景、高级的立体模型工艺、微距摄影效果、浅景深、超逼真的纹理，以及与上传参考照片高度一致的面部还原度。
+
+[English]
+Use the uploaded photo as the sole reference for identity. Maintain maximum facial resemblance, preserving facial features, proportions, expression, hairstyle, skin tone, and natural asymmetries with extreme accuracy. Create an adorable handmade premium collectible male doll with a slightly oversized head, a small slender body, soft felt and fabric textures, realistic 3D facial details, lifelike glass eyes, and handcrafted stitching. The tiny doll tightly hugs a giant {argument name="candy bar" default="KitKat bar"} almost as large as himself, with several bite marks already taken from it. He wears a playful, satisfied smile with {argument name="detail" default="chocolate smudges"} around his lips, cheeks, and fingertips. A few drops of melted chocolate are scattered on the floor beneath him. A giant human finger gently lifts him by the back of his shirt collar, but he stubbornly refuses to let go of the KitKat, creating a humorous and adorable scene. Emphasize dramatic size contrast, warm bright lighting, a clean minimalist background, premium diorama craftsmanship, macro photography, shallow depth of field, ultra-realistic textures, and exceptional facial fidelity to the uploaded reference photo.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2063193226316497350) | 2026-06-06
+
+---
+
+### 🧸 例 636：3D 像素化食物解构
+
+![3D 像素化食物解构](../images/3D%20%E5%83%8F%E7%B4%A0%E5%8C%96%E9%A3%9F%E7%89%A9%E8%A7%A3%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极简主义食物摄影作品，主体为放置在干净哑光白色表面上的单个 {argument name="food item" default="[FOOD]"}，捕捉了其转化为 3D 像素艺术风格的瞬间。左半部分完美呈现写实效果，而右半部分则分解为巨大的悬浮几何立方体，每个立方体都展示了食物鲜艳的色彩、纹理和内部细节。柔和的摄影棚灯光，轻柔的阴影，浅景深，超写实与几何抽象的碰撞，立方体带有微妙的动态模糊。高分辨率电影级特写构图。
+
+[English]
+A minimalist food photograph featuring a single {argument name="food item" default="apple"} on a clean matte white surface, caught mid-transformation into a 3D pixel art style. The left half is perfectly photorealistic while the right half dissolves into large floating geometric cubes, each cube exposing the food's vibrant colors, textures, and inner details. Soft studio lighting, gentle shadows, shallow depth of field, hyperrealistic meets geometric abstraction, subtle motion blur on the cubes. High resolution cinematic close-up composition.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063171137685569561) | 2026-06-06
+
+---
+
+### 🧸 例 670：动漫少女线框草图
+
+![动漫少女线框草图](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E7%BA%BF%E6%A1%86%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的淡蓝色石墨线框草图，描绘 {argument name="character name" default="一位动漫风格的年轻女性"} 在室内一扇大窗前跪坐的场景，在保留柔和漫画插图质感的同时，将整个画面渲染为透明的 3D 多边形网格。构图为竖向肖像，展示从头部到膝盖的全身照，一位女性角色位于画面中心并略微转向观众；她留着 {argument name="hair style" default="扎成单侧高马尾的长发"}，有着大而富有表现力的眼睛、苗条的身材以及平静而略带忧郁的表情。她的双臂举过头顶，仿佛正在扎头发或整理发型，双肘环绕着脸部。她穿着一件简单的无袖夏日连衣裙，带有细肩带、柔和的领口、胸下的抽绳细节，以及覆盖在弯曲双腿上的短裙。她跪在地板上，一条腿折叠在身下，另一条腿向前弯曲，形成优雅的坐姿。用精细、准确的浅灰蓝色线条渲染所有轮廓和内部结构：密集的交叉影线拓扑结构、沿着身体、面部、头发、裙褶、手臂、腿部和背景物体的曲面网格线，如同在淡淡的铅笔画上覆盖了一层干净的技术线框模型。画面后方包含一扇大型矩形窗户，左侧有一盆带叶茎的盆栽，右侧有一簇茂密的花卉，背景隐约可见海洋或湖泊地平线、远处的地形、轻盈的云朵以及精致的悬挂圆形装饰。使用通透的白色背景，低对比度，除淡蓝灰色线条外无任何颜色填充，高度精细的透明网格结构，清晰的细笔触，优雅的未来感草图研究美学，无重阴影，无文字，无水印。
+
+[English]
+Create a delicate pale-blue graphite wireframe sketch of {argument name="character name" default="an anime-style young woman"} kneeling indoors in front of a large window, preserving a soft manga illustration look while rendering the entire scene as a transparent 3D polygon mesh. The composition is vertical portrait, full body from head to knees, with one female character centered and slightly turned toward the viewer; she has {argument name="hair style" default="long hair tied into one high side ponytail"}, large expressive eyes, a slim figure, and a calm slightly wistful expression. Her two arms are raised above her head as if tying or adjusting her hair, elbows framing her face. She wears one simple sleeveless summer dress with thin straps, a soft neckline, a drawstring detail under the bust, and a short skirt draped over her bent legs. She is kneeling on the floor with one leg folded underneath and the other bent forward, creating an elegant seated pose. Render all contours and interior structure with fine, precise, light gray-blue lines: dense crosshatched topology, curved surface grid lines following the body, face, hair, dress folds, arms, legs, and background objects, like a clean technical wireframe model over a faint pencil drawing. Include exactly one large rectangular window behind her, one potted plant on the left with leafy stems, one dense flowering plant cluster on the right, and a faint outdoor background with ocean or lake horizon, distant landform, light clouds, and subtle hanging circular ornaments. Use an airy white background, low contrast, no color fills except pale blue-gray linework, highly detailed transparent mesh construction, crisp thin strokes, elegant futuristic sketch-study aesthetic, no heavy shadows, no text, no watermark.
+```
+
+**来源：** [@自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu/status/2063105847333626034) | 2026-06-06
+
+---
+
+### 🧸 例 671：线框遮挡肖像
+
+![线框遮挡肖像](../images/%E7%BA%BF%E6%A1%86%E9%81%AE%E6%8C%A1%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁的未来感 3D 线框转换，主体为 {argument name="subject" default="一位年轻女性"} 的特写半身肖像，并精确保留原始姿势和构图：主体正对前方，摄像机角度略微向下，短波波头短发勾勒头部轮廓，左侧可见一只耳朵，颈部纤细，肩部和上胸部可见。将整个形象渲染为由精细的灰色多边形和轮廓线组成的半透明白色网格，展示出类似建模视口或技术解剖草图的外部轮廓和内部 3D 表面结构。使用纯白色背景，无任何场景。包含 2 个主要可见元素：1 个线框半身肖像和 1 个居中的不透明方块面部遮挡物。面部遮挡物应为一个带有柔和微妙渐变的大型浅灰色方块，覆盖从额头到下巴的整个面部，隐藏所有面部特征，同时保留周围可见的头发、耳朵、颈部、肩部和躯干网格。强调头发、颈部、肩部以及衣物/身体表面的精细交叉曲线线框，呈现精致的半透明线条和高分辨率的清晰度。风格：极简主义科幻技术绘图，单色白色和浅灰色，通透，精确，空心透明 3D 模型美学，无文字，无水印，无色彩点缀。
+
+[English]
+Create a clean futuristic 3D wireframe conversion of a close-up bust portrait of {argument name="subject" default="a young woman"}, preserving the original pose and composition exactly: the subject faces forward with a slightly downward camera angle, short bob-length hair framing the head, one visible ear on the left side, a slender neck, shoulders, and upper chest visible. Render the entire figure as a translucent white mesh made from thin, precise gray polygon and contour lines, showing both outer silhouettes and internal 3D surface structure like a modeling viewport or technical anatomy sketch. Use a pure white background with no scenery. Include exactly 2 main visible elements: 1 wireframe bust portrait and 1 centered opaque square face-cover block. The face-cover block should be a large pale light-gray square with a soft subtle gradient, placed over the entire face from forehead to chin, hiding all facial features while leaving hair, ear, neck, shoulders, and torso mesh visible around it. Emphasize fine crosshatched curved wire lines in the hair, neck, shoulders, and clothing/body surfaces, with delicate semi-transparent linework and high-resolution sharpness. Style: minimalist sci-fi technical drawing, monochrome white and light gray, airy, precise, hollow transparent 3D model aesthetic, no text, no watermark, no color accents.
+```
+
+**来源：** [@自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu/status/2063105847333626034) | 2026-06-06
+
+---
+
+### 🧸 例 673：盲盒系列摄像机路径指南
+
+![盲盒系列摄像机路径指南](../images/%E7%9B%B2%E7%9B%92%E7%B3%BB%E5%88%97%E6%91%84%E5%83%8F%E6%9C%BA%E8%B7%AF%E5%BE%84%E6%8C%87%E5%8D%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张电影级奇幻信息图，标题为 {argument name="headline text" default="盲盒系列摄像机路径指南"}，展示一条完整的 FPV 无人机摄像机路线，穿过一个充满魔法的苔藓森林中的微型盲盒玩具场景。
+
+画布：16:9 横向海报，暗色魔法林地之夜，浅景深，发光的蘑菇，微小的花朵，闪烁的焦外成像，远处背景中有一座温暖照明的仙女屋，前景中在起伏的苔藓和小溪上放置着光泽感十足的收藏级乙烯基人偶。
+
+布局：在左上角放置一个大的衬线体标题，下方放置较小的副标题，内容为 {argument name="subtitle text" default="FPV 无人机之旅 – 完整路径"}。绘制一条明亮的霓虹红色摄像机路径，作为一条带有箭头的连续粗发光线，从右下角的小溪蜿蜒穿过每个玩具人偶，然后向上延伸至仙女屋。在关键人偶周围添加红色圆形轨道环。使用带有红色数字徽章和白色文字的黑色半透明注释卡。在右上角添加一个图例框。在底部添加一个包含所有 13 个步骤的水平路线摘要条。
+
+主体场景：一个异想天开的盲盒系列世界，包含 12 个可见的玩具/生物主体以及最终的仙女屋目的地：溪流中的小人偶、兔子、熊、蓝发人偶、浅蓝色人偶、蓝色天线人偶、银发人偶、老鼠、狐狸、蓝色兜帽人偶、黑色人偶、紫色人偶以及仙女屋。部分角色面部可以轻微遮挡或模糊，但需保持收藏级玩具的身体、耳朵、兜帽、配饰和轮廓清晰。
+
+编号路线卡：包含 13 个编号的摄像机停靠点，每个停靠点都有一个红色圆形数字徽章和一张黑色标签卡：
+1. 溪流入口 — 低空飞入 — 建立场景。
+2. 兔子 — 近距离轨道 — 从左至右。
+3. 熊 — 平滑掠过 — 继续向前。
+4. 蓝发人偶 — 主角轨道 — 顺时针。
+5. 浅蓝色人偶 — 侧向轨道 — 向右扫视。
+6. 蓝色天线人偶 — 中心轨道 — 全圆。
+7. 银发人偶 — 微型轨道 — 逆时针。
+8. 老鼠 — 近距离轨道 — 从右至左。
+9. 狐狸 — 侧向轨道 — 向左扫视。
+10. 蓝色兜帽人偶 — 主角轨道 — 顺时针。
+11. 黑色人偶 — 弧形向上 — 揭示角度。
+12. 紫色人偶 — 近距离轨道 — 轻柔扫视。
+13. 仙女屋 — 拉升远离 — 宏大揭示。
+
+图例：在右上角的图例框中包含 3 个项目：由红色箭头线表示的 FPV 路径，由红色圆环表示的 HERO ORBIT，以及由红色虚线表示的过渡。
+
+底部条：沿底部边缘，在深色半透明条上创建 13 个紧凑的路线摘要块，与相同的编号停靠点名称和移动描述相匹配，并用小箭头分隔。
+
+视觉风格：超精细电影级 3D 渲染，玩具摄影美学，魔幻现实主义，忧郁的蓝紫色森林灯光，温暖的琥珀色高光，反射在苔藓和水面上的发光红色路径，高级奇幻海报设计，清晰的排版，高对比度，精致的信息图覆盖层。
+
+可自定义细节：使用 {argument name="toy series theme" default="可爱的神秘森林盲盒人偶"} 作为收藏角色，使用 {argument name="path color" default="霓虹红"} 作为所有路线线和徽章，并将 {argument name="background destination" default="发光的仙女屋"} 作为最终揭示目标。
+
+约束：保持图像文字清晰易读，保持路线连续且易于跟随，保留 13 个编号停靠点和 3 个图例项，不要添加额外的路线编号，不要添加水印或 Logo。
+
+[English]
+Goal: Create a cinematic fantasy infographic titled {argument name="headline text" default="BLIND BOX SERIES CAMERA PATH GUIDE"}, showing a complete FPV drone camera route through a miniature blind-box toy scene in an enchanted mossy forest.
+
+Canvas: 16:9 landscape poster, dark magical woodland at night, shallow depth of field, glowing mushrooms, tiny flowers, sparkling bokeh, a warm illuminated fairy house in the distant background, glossy collectible vinyl figures placed across rolling moss and a small stream in the foreground.
+
+Layout: Place a large serif title in the upper left with a smaller subtitle below reading {argument name="subtitle text" default="FPV DRONE JOURNEY – FULL PATH"}. Draw a bright neon red camera path as a continuous thick glowing line with arrowheads, snaking from the lower right stream, around each toy figure, then up toward the fairy house. Add red circular orbit rings around key figures. Use black semi-transparent annotation cards with red numbered badges and white text. Add a legend box in the upper right. Add a bottom horizontal route summary strip with all 13 steps.
+
+Main scene subject: A whimsical blind box series world with exactly 12 visible toy/creature subjects plus the final fairy house destination: a small figure in the stream, a rabbit, a bear, a blue-haired figure, a light-blue figure, a blue antenna figure, a silver-haired figure, a mouse, a fox, a blue hood figure, a black figure, a purple figure, and a fairy house. Several character faces may be softly obscured or blurred, but keep the collectible toy bodies, ears, hoods, accessories, and silhouettes clear.
+
+Numbered route cards: Include exactly 13 numbered camera stops, each with a red circular number badge and a black label card:
+1. STREAM ENTRY — Low Fly In — Establish Scene.
+2. RABBIT — Close Orbit — Left to Right.
+3. BEAR — Smooth Pass By — Continue Forward.
+4. BLUE HAIR — Hero Orbit — Clockwise.
+5. LIGHT BLUE — Side Orbit — Right Sweep.
+6. BLUE ANTENNA — Center Orbit — Full Circle.
+7. SILVER HAIR — Mini Orbit — Counter Clockwise.
+8. MOUSE — Close Orbit — Right to Left.
+9. FOX — Side Orbit — Left Sweep.
+10. BLUE HOOD — Hero Orbit — Clockwise.
+11. BLACK FIGURE — Arc Up — Reveal Angle.
+12. PURPLE FIGURE — Close Orbit — Gentle Sweep.
+13. FAIRY HOUSE — Pull Up & Away — Grand Reveal.
+
+Legend: In the upper-right legend box include exactly 3 items: FPV PATH represented by a red arrow line, HERO ORBIT represented by a red ring, and TRANSITION represented by a red dashed line.
+
+Bottom strip: Along the bottom edge, create exactly 13 compact route summary blocks matching the same numbered stop names and movement descriptions, separated by small arrows, on a dark translucent bar.
+
+Visual style: Ultra-detailed cinematic 3D render, toy photography aesthetic, magical realism, moody blue-purple forest lighting, warm amber highlights, glowing red path illumination reflecting on moss and water, premium fantasy poster design, crisp typography, high contrast, polished infographic overlay.
+
+Customizable details: Use {argument name="toy series theme" default="cute mystical forest blind box figures"} for the collectible characters, {argument name="path color" default="neon red"} for all route lines and badges, and {argument name="background destination" default="glowing fairy house"} as the final reveal target.
+
+Constraints: Keep the image text legible, keep the route continuous and easy to follow, preserve exactly 13 numbered stops and exactly 3 legend items, do not add extra route numbers, do not add a watermark or logo.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2063103154154274879) | 2026-06-06
+
+---
+
+### 🧸 例 682：等身手办化转换
+
+![等身手办化转换](../images/%E7%AD%89%E8%BA%AB%E6%89%8B%E5%8A%9E%E5%8C%96%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，稍微扩展画布，并将两个坐着的人物转换为精致的等身收藏级手办或写实人偶，同时保留其原始的坐姿、服装、发型、配饰以及破旧的工业风门框背景。清理并优化构图，使人物看起来更平滑、更具雕塑感，拥有完美无瑕的人偶般皮肤、更整洁的衣物、更精致的头发以及微妙的人工手办比例，但保持两个人物的排列方式不变：左侧人物身穿黑色连帽衫和靴子，右侧人物身穿粉色水手服，搭配溜冰鞋和圆形粉色脸型包。应用温暖的电影级调色，增强对比度，柔化高光，加深阴影，呈现出高质量的编辑类玩具摄影质感。保持面部匿名化，使用参考图中所示的简单模糊方块遮盖。请勿添加额外的人物、文字、Logo 或道具。
+
+[English]
+Using the provided reference image, extend the canvas slightly and transform the two seated characters into polished life-size collectible figures or realistic dolls while preserving their original sitting poses, outfits, hairstyles, accessories, and the worn industrial doorway setting. Clean up and sharpen the composition, make the figures look smoother and more sculptural with flawless doll-like skin, neater clothing, more refined hair, and subtly artificial figure proportions, but keep the same two-character arrangement: left character in black hoodie and boots, right character in pink sailor outfit with roller skates and round pink face bag. Apply warm cinematic color grading with richer contrast, softer highlights, deeper shadows, and a high-quality editorial toy-photography finish. Keep the faces anonymized with simple blurred square masks as in the reference. Do not add extra characters, text, logos, or props.
+```
+
+**来源：** [@こっちに〜る](https://x.com/callmecochineal/status/2063082237508424070) | 2026-06-06
+
+---
+

@@ -1649,3 +1649,453 @@ High-end activewear campaign aesthetic, luxury sports couture, Vogue cover quali
 
 ---
 
+### 🧍 例 568：动漫咖啡师角色参考图
+
+![动漫咖啡师角色参考图](../images/%E5%8A%A8%E6%BC%AB%E5%92%96%E5%95%A1%E5%B8%88%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业动漫角色参考图。全程纯白背景，无环境，无道具，无场景。顶部标题：‘{argument name="character name" default="MARCO"} — THE BARISTA’。副标题：‘SHIFT: {argument name="shift" default="NIGHT"} // SPECIALTY: {argument name="specialty" default="ESPRESSO"} // VIBE: CALM’
+
+角色：年轻成人
+
+[English]
+Professional anime character reference sheet. Pure white background throughout, no environment, no props, no scenery. Title at top: ‘{argument name="character name" default="MARCO"} — THE BARISTA’. Subtitle: ‘SHIFT: {argument name="shift" default="NIGHT"} // SPECIALTY: {argument name="specialty" default="ESPRESSO"} // VIBE: CALM’
+
+Character: young adult
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2063305240397398489) | 2026-06-06
+
+---
+
+### 🧍 例 594：动漫三视图角色设定表
+
+![动漫三视图角色设定表](../images/%E5%8A%A8%E6%BC%AB%E4%B8%89%E8%A7%86%E5%9B%BE%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="黒波凪紗 (Kuronami Nagisa)"} 创建一张简洁的动漫角色模型表 / 三视图设计表，展示其留着直长发、身穿整洁校服风格服装的形象。
+
+画布：横向 16:9 插画，采用米白色纸张背景，配有细黑色草图线条、浅灰色阴影以及专业的角色设计参考布局。使用柔和、细腻的动漫风格，辅以类似水彩的轻柔阴影和清晰的墨线轮廓。
+
+标题文字：在左上角书写“黒波凪紗 (Kuronami Nagisa) 三面図設計図”。在其下方书写“詳細設計：ストレートロング Ver.”。在副标题下方绘制一条长横分割线。
+
+主体布局：在画布左侧和中央放置 3 个完整的全身角色视图，每个视图上方均配有对应的日文标签：1) “黒波凪紗 正面図” (正面视图)，2) “黒波凪紗 側面図” (侧面视图)，3) “黒波凪紗 背面図” (背面视图)。在每个视图中，角色的面部应使用中性椭圆形模糊处理，而头发和服装保持细节清晰。
+
+角色细节：一位身材苗条的少女，留着及腰的超长直发，发色为 {argument name="hair color" default="黑色"}，长刘海修饰脸型，带有细腻的光泽感，右侧别着一枚粉色小花发夹。她身穿淡腮红色的短袖衬衫，系着宽松的领结丝带，穿着高腰及膝的百褶格纹裙，裙子花纹为 {argument name="skirt pattern" default="深蓝灰色格子配细米色线条"}，搭配灰色短袜和黑色低跟玛丽珍鞋。她背着一个小巧精致的白色单肩包，包身带有翻盖、细肩带、侧面金属件以及一个小长方形标志牌。
+
+全身视图：正面视图展示她站姿笔直，一只手轻扶包带，包垂在身侧。侧面视图展示她向左侧的侧影，包带跨在肩上，包位于臀部高度。背面视图展示长发垂在衬衫上的全貌、从背后看到的百褶裙摆、双腿以及挂在一侧的包。
+
+右侧细节面板：在右侧整齐地排列 4 个盒装特写参考面板。面板 1（顶部最大面板），标签为“髪型 / 襟元クローズアップ”，展示头发、面部模糊效果、领口、领结和粉色发夹的半身特写。面板 2（中间左侧小面板），展示百褶格纹裙的正面特写。面板 3（中间右侧长面板），展示衬衫袖子、腰线、手臂和裙子侧面的细节。面板 4（底部左侧面板），展示白色单肩包的特写，包括肩带、翻盖、接缝、扣环五金件和标志牌。
+
+约束条件：保持画面整洁对称，除 3 个全身视图和 4 个特写面板外，不得添加额外角色或面板。严格保留指定的日文标签。避免照片级写实，保持精致的动漫设计表风格。
+
+[English]
+Goal: Create a clean anime character model sheet / three-view design sheet for {argument name="character name" default="黒波凪紗 (Kuronami Nagisa)"}, showing a straight long-hair version in a neat school-uniform-inspired outfit.
+
+Canvas: Horizontal 16:9 illustration on an off-white paper background with thin black drafting lines, light gray shadows, and a professional character-design reference layout. Use a muted, delicate anime style with soft watercolor-like shading and crisp ink outlines.
+
+Header text: At the top left, write “黒波凪紗 (Kuronami Nagisa) 三面図設計図”. Beneath it, write “詳細設計：ストレートロング Ver.” Draw a long horizontal divider line under the subtitle.
+
+Main layout: Place exactly 3 full-body character views across the left and center of the sheet, each with a Japanese label above it: 1) “黒波凪紗 正面図” front view, 2) “黒波凪紗 側面図” side view, 3) “黒波凪紗 背面図” back view. The character’s face should be softly blurred/obscured with a neutral oval blur in every view, while the hair and clothing remain detailed.
+
+Character details: A slim teenage girl with very long straight {argument name="hair color" default="black"} hair reaching below the waist, long bangs framing the face, subtle glossy highlights, and a small pink flower hairpin on the right side. She wears a pale blush short-sleeve blouse with a loose neck-tie ribbon, a high-waisted knee-length pleated plaid skirt in {argument name="skirt pattern" default="dark blue-gray tartan plaid with thin beige lines"}, gray ankle socks, and black low-heeled Mary Jane shoes. She carries a small structured white shoulder bag with a flap, thin strap, side hardware, and a tiny rectangular logo plate.
+
+Full-body views: The front view shows her standing straight, one hand lightly holding the bag strap, bag hanging at her side. The side view shows her profile facing left, with the bag strap over the shoulder and the bag at hip level. The back view shows the full fall of the long hair over the blouse, the flared pleated skirt from behind, both legs visible, and the bag hanging on one side.
+
+Right-side detail panels: Include exactly 4 boxed close-up reference panels arranged in a neat column/grid on the right. Panel 1, largest top panel, label “髪型 / 襟元クローズアップ”, showing a bust close-up of the hair, face blur, collar, neck tie, and pink hairpin. Panel 2, middle-left small panel, shows the pleated plaid skirt close-up from the front. Panel 3, middle-right tall panel, shows the blouse sleeve, waistline, arm, and skirt side detail. Panel 4, bottom-left panel, shows a close-up of the white shoulder bag with strap, flap, seams, buckle hardware, and logo plate.
+
+Constraints: Keep the sheet tidy and symmetrical, with no extra characters and no extra panels beyond the 3 full-body views and 4 close-up panels. Preserve the Japanese labels exactly as specified. Avoid photorealism; maintain a refined anime design-sheet look.
+```
+
+**来源：** [@スズヲ＠Photo＆AIart](https://x.com/Suzu_Wo/status/2063248466772656612) | 2026-06-06
+
+---
+
+### 🧍 例 595：动漫角色三视图设计稿
+
+![动漫角色三视图设计稿](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1%E7%A8%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Kokiake Akira"} 创建一份动漫角色三视图参考稿，格式仿照手绘日式设计文档。
+
+画布：横向 16:9 角色设计稿，背景为米白色纸张，带有细腻的铅笔与水彩质感，配有细黑色分割线，右侧设有整洁的细节展示框。采用柔和的速写风格，线条为精致的墨线，搭配柔和的水彩阴影、可见的布料纹理以及略带瑕疵的手绘线条。
+
+标题文字：在左上角书写日式标题“深緋アキラ (Kokiake Akira) 三面図設計図”。下方书写“詳細設計：黒髪ボーイッシュヘアーVer.”。使用手写风格的黑色日文字体，并在副标题下方添加一条长横线。
+
+主体布局：在左侧和中心展示 3 个完整的全身角色视图：1 个正面视图标注为“深緋アキラ 正面図”，1 个侧面视图标注为“深緋アキラ 側面図”，以及 1 个背面视图标注为“深緋アキラ 背面図”。每个角色的高度和比例应保持一致，以中性姿势直立，双臂自然下垂。面部区域应进行轻微模糊或遮挡，同时保持发型和服装清晰可见。
+
+角色细节：该角色为一名苗条的青少年动漫少女，留着 {argument name="hair color" default="黑色"} 的短款男孩风波波头，带有圆润的刘海、层次感侧发，右侧别着一枚小巧的银色发夹。服装：白色短款泡泡袖衬衫，配有深色领口和深色袖口；蓝色牛仔背带裙，带有肩带、金属扣、缝合线、腰带、前胸兜和百褶裙摆。她穿着深色过膝袜和棕色厚底系带鞋。添加一个奶油色/米白色的斜挎包，带有翻盖、扣环细节和斜跨在躯干上的长肩带；在背面视图中，肩带横跨背部，包包垂在臀部位置。
+
+右侧细节面板：包含 4 个独立的特写展示框。右上角的面板 1 标注为“髪型／襟元クローズアップ”，展示短款黑色波波头、发夹、衬衫领口和背带，面部模糊。面板 2 为裙摆/下摆特写，展示带有垂直缝线的牛仔裙正面、下摆缝线以及过膝袜的顶部。面板 3 为腿部垂直特写，展示一只深色过膝袜和一只棕色系带鞋。面板 4 为包包特写，从正面展示奶油色斜挎包，包括翻盖、缝线、肩带连接处和小型长方形标签。
+
+风格限制：保持设计简洁，呈现参考稿风格，而非动态插画。使用柔和的配色：{argument name="dress color" default="褪色蓝色牛仔"}、奶油色包包、白色衬衫、炭灰色袜子、棕色鞋子。确保三个视图之间的比例一致，使用简洁的白色背景，不添加额外角色、背景、水印，且除 3 个全身视图和 4 个细节面板外，不添加任何额外面板。
+
+[English]
+Goal: Create an anime character turnaround reference sheet for {argument name="character name" default="Kokiake Akira"}, formatted like a hand-drawn Japanese design document.
+
+Canvas: Horizontal 16:9 character sheet on an off-white paper background with subtle pencil-and-watercolor texture, thin black divider lines, and clean boxed detail panels on the right. Use a muted sketchbook style with delicate ink outlines, soft watercolor shading, visible fabric grain, and slightly imperfect hand-drawn linework.
+
+Header text: At the top left, write the Japanese-style title “深緋アキラ (Kokiake Akira) 三面図設計図”. Under it, write “詳細設計：黒髪ボーイッシュヘアーVer.” Use handwritten black Japanese lettering, with a long horizontal rule beneath the subtitle.
+
+Main layout: Show exactly 3 full-body character views across the left and center: 1 front view labeled “深緋アキラ 正面図”, 1 side view labeled “深緋アキラ 側面図”, and 1 back view labeled “深緋アキラ 背面図”. Each figure should be the same height and scale, standing upright in a neutral pose with arms relaxed. The face area should be softly blurred or obscured, while the hairstyle and outfit remain clear.
+
+Character details: The character is a slim teenage anime girl with {argument name="hair color" default="black"} short boyish bob hair, rounded bangs, layered side locks, and a small silver hairpin near the right side. Outfit: white short puff-sleeve blouse with a dark collar and dark sleeve cuffs, blue denim overall jumper dress with shoulder straps, metal buckles, stitched seams, waistband, front bib, and flared skirt. She wears dark thigh-high socks and brown chunky lace-up shoes. Add a cream/off-white crossbody satchel with flap, buckle details, and a long strap worn diagonally across the torso; in the back view the strap crosses the back and the bag rests at the hip.
+
+Right-side detail panels: Include exactly 4 boxed close-up panels. Panel 1 at the upper right is a bust close-up labeled “髪型／襟元クローズアップ”, showing the short black bob hairstyle, hairpin, blouse collar, and overall straps, with the face blurred. Panel 2 is a skirt/hem close-up showing the denim skirt front with vertical stitching, hem stitching, and the tops of the thigh-high socks. Panel 3 is a vertical leg close-up showing one dark thigh-high sock and one brown lace-up shoe. Panel 4 is a bag close-up showing the cream satchel from the front with flap, seams, strap attachments, and small rectangular label.
+
+Style constraints: Keep the design clean and reference-sheet-like, not a dynamic illustration. Use muted colors: {argument name="dress color" default="faded blue denim"}, cream bag, white blouse, charcoal socks, brown shoes. Maintain consistent proportions between the three views, simple white background, no extra characters, no scenery, no watermark, and no additional panels beyond the 3 full-body views and 4 detail panels.
+```
+
+**来源：** [@スズヲ＠Photo＆AIart](https://x.com/Suzu_Wo/status/2063248466772656612) | 2026-06-06
+
+---
+
+### 🧍 例 639：东京赛博和服高定
+
+![东京赛博和服高定](../images/%E4%B8%9C%E4%BA%AC%E8%B5%9B%E5%8D%9A%E5%92%8C%E6%9C%8D%E9%AB%98%E5%AE%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+与参考图像中的女性一致。
+站在霓虹闪烁的 {argument name="location" default="东京"} 之上的奢华屋顶。
+
+{argument name="outfit" default="赛博和服高定"}。
+
+黑色丝绸。
+
+金色刺绣。
+
+建筑感肩部设计。
+
+奢华面罩。
+
+手提包如同圣物般被握在手中。
+
+一脚前跨。
+
+强有力的战士姿态。
+
+风吹动衣袖与秀发。
+
+环境融合：
+
+浮世绘风格，
+赛博朋克，
+奢华品牌感，
+高级时装摄影。
+
+巨大的 {argument name="creature" default="全息龙影"} 在摩天大楼间盘旋。
+
+漂浮的书法与奢华排版融入天际线中。
+
+配色方案：
+
+黑漆色，
+朱红色，
+金箔色，
+电光青。
+
+照片级写实面部。
+自然的皮肤质感。
+奢华广告大片摄影。
+宽高比 9:16
+
+[English]
+SAME WOMAN AS REFERENCE IMAGE.
+Standing atop a luxury rooftop above neon {argument name="location" default="Tokyo"}.
+
+{argument name="outfit" default="Cyber-kimono couture"}.
+
+Black silk.
+
+Gold embroidery.
+
+Architectural shoulder pieces.
+
+Luxury visor.
+
+Handbag held like a sacred artifact.
+
+One foot forward.
+
+Strong warrior stance.
+
+Wind moving sleeves and hair.
+
+Environment blends:
+
+Ukiyo-e,
+Cyberpunk,
+Luxury branding,
+High fashion editorial photography.
+
+Massive {argument name="creature" default="holographic dragons"} coil between skyscrapers.
+
+Floating calligraphy and luxury typography integrated into the skyline.
+
+Color palette:
+
+black lacquer,
+vermilion,
+gold leaf,
+electric cyan.
+
+Photorealistic face.
+Natural skin texture.
+Luxury campaign photography.
+Aspect ratio 9:16
+```
+
+**来源：** [@VireonixArt](https://x.com/vireonixx/status/2063162992162922704) | 2026-06-06
+
+---
+
+### 🧍 例 654：动漫配角一致性角色设计器
+
+![动漫配角一致性角色设计器](../images/%E5%8A%A8%E6%BC%AB%E9%85%8D%E8%A7%92%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+アップロードしたキャラクターを基準キャラクターとして使用すること。
+
+基準キャラクターと同じ学校に通う同級生・先輩・後輩を新規デザインすること。
+
+────────────────
+
+【作成対象】
+
+{argument name="作成対象" default="親友（女性・同学年）、ライバル（女性・同学年）"}
+
+指定された人数分のキャラクターを作成すること。
+
+全員を同じ画面に表示すること。
+
+【重要】
+
+画風や作風は参照させた画像に合わせること。
+
+全員が同じ学校の生徒であること。
+
+家族ではないこと。
+
+血縁関係は禁止。
+
+クローンは禁止。
+
+兄弟姉妹に見せないこと。
+
+全員を別人として成立させること。
+
+【継承する要素】
+
+継承するのは学校設定と世界観のみ。
+
+・学校
+
+・制服
+
+・時代設定
+
+・技術レベル
+
+・作品ジャンル
+
+・世界観
+
+・デザイン密度
+
+・作品の空気感
+
+を継承すること。
+
+顔立ちは別人にすること。
+
+【性別】
+
+作成対象に性別指定がある場合は必ず従うこと。
+
+性別指定を最優先すること。
+
+【学年】
+
+学年指定がある場合は従うこと。
+
+年齢差が見た目に反映されること。
+
+【デザイン】
+
+基準キャラクターとは明確に差別化すること。
+
+変更すること。
+
+・髪型
+
+・髪色
+
+・目の形
+
+・目の色
+
+・身長
+
+・体格
+
+・表情
+
+・雰囲気
+
+・シルエット
+
+・アクセサリー
+
+・制服の着こなし
+
+別人として成立すること。
+
+【髪型】
+
+全員を必ず異なる髪型にすること。
+
+髪型の重複は禁止。
+
+シルエットだけで誰か判別できること。
+
+【キャラクター性】
+
+役割に応じて性格が分かるデザインにすること。
+
+見た瞬間に役割が伝わること。
+
+【制服】
+
+基準キャラクターの制服を参考にすること。
+
+全員が同じ学校指定制服を着用すること。
+
+制服の基本デザインは統一すること。
+
+制服の種類を変更してはいけない。
+
+制服デザインそのものを変更してはいけない。
+
+変更してよい要素は以下のみ。
+
+・リボン
+
+・ネクタイ
+
+・バッグ
+
+・靴
+
+・靴下
+
+・腕時計
+
+・アクセサリー
+
+・髪飾り
+
+・カーディガン
+
+・ベスト
+
+・袖まくり
+
+・制服の着崩し方
+
+同じ制服でありながら個性を表現すること。
+
+異性の場合は、
+
+基準キャラクターの制服デザインを参考に、
+
+同じ学校の異性用制服として自然にデザインすること。
+
+【シルエット】
+
+全員を明確に差別化すること。
+
+一目見ただけで誰が誰か分かること。
+
+【構図】
+
+3:4縦長。
+
+アニメキービジュアル。
+
+ゲームイベントCG。
+
+全員を同じ画面に表示すること。
+
+全員の全身を表示すること。
+
+全員の顔を見せること。
+
+キャラクターを重ねないこと。
+
+誰が誰か分かる配置にすること。
+
+自然で見栄えの良いグループ構図にすること。
+
+【関係性】
+
+自然な距離感にすること。
+
+恋人のようなポーズは禁止。
+
+【背景】
+
+{argument name="背景" default="教室。放課後。窓から夕日が差し込む。机と椅子。黒板。"}
+
+学校生活を感じさせる空間。
+
+アニメのワンシーンのような空気感。
+
+キャラクターが主役であること。
+
+背景は補助要素とすること。
+
+高品質な線画。
+
+自然な表情。
+
+自然なポージング。
+
+美しいライティング。
+```
+
+**来源：** [@咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc/status/2063132974703386647) | 2026-06-06
+
+---
+
+### 🧍 例 666：韩系休闲时尚人像
+
+![韩系休闲时尚人像](../images/%E9%9F%A9%E7%B3%BB%E4%BC%91%E9%97%B2%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 {argument name="subject" default="韩系休闲女孩"} 人像，电影质感，9:16 竖构图。使用参考图作为主体面部（保持相同身份、相同面部特征，确保一致性）。一位五官柔美的年轻女性，皮肤透亮，韩式自然妆容（水光肌、柔和腮红、咬唇妆）。穿搭：{argument name="outfit" default="韩系休闲时尚 — 宽松针织衫或修身开衫，搭配迷你裙或直筒牛仔裤"}，简约时尚，柔和中性色调（米色、奶油色、浅色系）。发型：长卷发，自然垂坠，略带空气感，轻盈飘逸。表情：平静，浅浅微笑，毫不费力的美感，自然抓拍的 느낌。场景选项：{argument name="location" default="在黄昏时分漫步于安静的首尔街道"}。光影：柔和的电影感光效，自然阳光或霓虹微光，柔和阴影，韩剧氛围。相机：50mm 镜头，浅景深，背景虚化。风格：韩剧美学，自然，干净，高细节，真实皮肤质感，柔光，电影级调色。
+
+[English]
+Ultra-realistic {argument name="subject" default="Korean casual girl"} portrait, cinematic style, 9:16 vertical composition. Use reference image for main face (same identity, same facial features, maintain consistency). A beautiful young woman with soft feminine features, glowing clear skin, natural Korean-style makeup (dewy skin, soft blush, gradient lips). Outfit: {argument name="outfit" default="casual Korean fashion — oversized knit sweater or fitted cardigan, mini skirt or straight jeans"}, simple but stylish, soft neutral colors (beige, cream, pastel tones). Hair: long soft wavy hair, natural flow, slightly airy, moving gently. Expression: calm, slightly smiling, effortless beauty, natural candid 느낌. Pose: standing or slightly leaning, relaxed pose like street photoshoot. Scene options: {argument name="location" default="walking on a quiet Seoul street at golden hour"}. Lighting: soft cinematic lighting, natural sunlight or neon glow, gentle shadows, Korean drama mood. Camera: 50mm lens, shallow depth of field, background bokeh. Style: Korean drama aesthetic, natural, clean, high detail, realistic skin texture, soft glow, cinematic color grading.
+```
+
+**来源：** [@Calira](https://x.com/CaliraVal/status/2063110357065859130) | 2026-06-06
+
+---
+

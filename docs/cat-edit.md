@@ -442,3 +442,69 @@ High-quality, ultra-realistic image transformation. Keep the original face, iden
 
 ---
 
+### 🔧 例 611：手持笔记本电脑的学生实习生
+
+![手持笔记本电脑的学生实习生](../images/%E6%89%8B%E6%8C%81%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%9A%84%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅白色背景下的简洁、极简风格扁平化矢量插图。展示一名全身年轻女性学生或实习生，站姿挺拔，双腿略显修长，采用简单的圆润比例和粗黑色轮廓线。她留着整洁的黑色波波头，面部特征极简或无五官。服装：橙色开衫外套（带有三颗黑色纽扣），内搭白色衬衫，穿着米色直筒裤、白色袜子和橙色平底鞋。姿势：左臂向外弯曲，在腰部高度托着一台打开的灰色笔记本电脑，右手随意地插在裤兜里。在她的右上角添加 1 个悬浮物体：一本略微倾斜的青色书本或笔记本，带有黑色轮廓、白色书页边缘，封面印有一个白色心形图标。采用适合学生实习演示 Slides 的友好教育材料风格，色彩柔和，留白充足，无文字，无阴影，无背景场景，呈现出精致且简洁的图标感。
+
+[English]
+Create a clean, minimal flat vector illustration on a white background. Show one full-body young adult female student or intern standing upright with slightly elongated legs, simple rounded proportions, and thick black outline art. She has a neat black bob haircut and a plain, featureless face or very minimal facial detail. Outfit: an orange cardigan jacket with three black buttons over a white shirt, beige straight-leg trousers, white socks, and orange flats. Pose: her left arm is bent outward holding an open gray laptop at waist height, while her right hand rests casually in her pants pocket. Add exactly 1 floating object to her upper right: a teal book or notebook tilted slightly, outlined in black, with white page edges and a white heart icon on the cover. Use a friendly educational-material style suitable as an illustration for student internship presentation slides, with soft colors, lots of negative space, no text, no shadows, no background scenery, and a polished simple icon-like look.
+```
+
+**来源：** [@カオリ(SEO・AI・福祉)](https://x.com/AIsaiyoKAORI/status/2063220624471077158) | 2026-06-06
+
+---
+
+### 🔧 例 630：昭和复古绅士装束
+
+![昭和复古绅士装束](../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E7%BB%85%E5%A3%AB%E8%A3%85%E6%9D%9F.jpg)
+
+**Prompt:**
+
+```text
+添付画像をキャラクター参照として使用し、顔立ち、髪型、髪色、瞳、年齢感、体型、雰囲気、魅力、モチーフ性を維持したまま、同一キャラクターとして新規イラストを描く。元の衣装は再現せず、衣装のみ完全新規デザイン。衣装は「{argument name="衣装" default="男装の令嬢"}」または「昭和初期の若き紳士」風。昭和初期の上流階級的な男装スタイルで、クラシカルで気品のある和洋折衷の雰囲気にする。テーラードジャケット、ベスト、ハイウエストのスラックス、白シャツ、細いネクタイまたはリボンタイを基本にし、必要に応じて革手袋、懐中時計、革靴またはショートブーツ、ケープ、ロングコート、ハット、ステッキ、上質な革鞄を加える。長髪の女性キャラクターの場合は、髪を下ろさず、ゆるいローポニーまたは低めのシニヨンにまとめる。首元、襟、ネクタイ、ベストが見えるように整理し、後れ毛は少しだけ残す。甘すぎず、凛とした男装の美しさを優先する。女性キャラクターの場合は、完全な男性化ではなく、令嬢らしい繊細さと上品さを残す。男性キャラクターの場合は、若き紳士、華族、書生、モダンボーイ風に自然に仕上げる。どちらも気品、知性、少し中性的な魅力を意識する。色は{argument name="カラー" default="黒、チャコールグレー、ネイビー、深いブラウン、アイボリー、ボルドー中心"}。上質で落ち着いた印象にし、ウール、ツイード、ベルベット、革などの質感を感じさせる。ポーズや構図は参照画像と変え、立ち姿、着席、帽子を持つ姿、ステッキに手を添える姿など、品のあるポーズにする。表情は静かな微笑み、涼しげな視線、少し挑発的な表情など、可愛さよりも気品と知性を優先する。背景は{argument name="背景" default="昭和初期の洋館、ホテルのロビー、書斎、駅舎、喫茶室など"}。キャラクターが主役になるようにする。全体を上品でクラシカル、知的で少しミステリアスな雰囲気にまとめる。
+```
+
+**来源：** [@Mio@AIイラスト](https://x.com/MioWorkshop/status/2063186969858039982) | 2026-06-06
+
+---
+
+### 🔧 例 675：从草图到控制器设计项目
+
+![从草图到控制器设计项目](../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E6%8E%A7%E5%88%B6%E5%99%A8%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为原始概念草图，将其转换为一款高端无线游戏控制器的专业工业设计演示项目。在保留草图整体轮廓和控制布局的基础上，将其重新诠释为具有真实感的哑光黑色产品，并加入符合人体工程学的雕塑感握把、圆润的肩部、精致的接缝、触感按键、模拟摇杆、十字键、肩部扳机、细腻的金属环以及高级材质饰面。
+
+画布与布局：创建一个简洁的 4:3 产品概念项目，背景为温暖的米白色摄影棚风格。使用 5 个渲染视图：左侧放置 1 个占据大部分页面的大型主视觉渲染图，右侧堆叠 4 个较小的面板，分别展示：正面视图、侧面轮廓、背面/顶部视图以及控制区域的特写细节。面板之间使用细白色间距，并添加柔和的摄影棚阴影。
+
+品牌与文字：在大型主视觉渲染图下方添加一个极简标题栏，包含产品名称 {argument name="product name" default="AERO PAD"}（使用宽间距大写字母），上方配有一条细水平分割线，以及描述 {argument name="tagline" default="具有雕塑感人体工程学、触感精准且材质考究的无线游戏控制器。"}
+
+风格：高端工业设计可视化，照片级 3D 渲染，柔和的漫射光，哑光石墨色与黑色材质，细腻的纹理，简洁的 Apple 风格产品展示，不保留任何草图线条。
+
+约束条件：不要添加手、人物、包装、Logo 或额外配件。保持设计明显源自参考草图，同时使其看起来具备量产水准。
+
+[English]
+Using REFERENCE_0 as the rough concept sketch, transform it into a polished professional industrial design presentation board for a premium wireless game controller. Preserve the overall controller silhouette and control layout from the sketch, but reinterpret it as a realistic matte black product with sculpted ergonomic grips, rounded shoulders, refined seams, tactile buttons, analog sticks, D-pad, shoulder triggers, subtle metallic rings, and premium material finishes.
+
+Canvas and layout: Create a clean 4:3 product concept board on a warm off-white studio background. Use exactly 5 rendered views: 1 large hero render on the left occupying most of the page, and 4 smaller stacked panels on the right showing: front view, side profile, rear/top view, and a close-up detail crop of the controls. Use thin white gutters between panels and soft studio shadows.
+
+Branding and text: Add a minimalist title block below the large hero render with the product name {argument name="product name" default="AERO PAD"} in spaced uppercase lettering, a thin horizontal divider line above it, and the description {argument name="tagline" default="Wireless gaming controller with sculpted ergonomics, tactile precision, and refined premium materials."}
+
+Style: High-end industrial design visualization, photorealistic 3D render, soft diffused lighting, matte graphite and black materials, subtle texture, clean Apple-like product presentation, no sketch lines remaining.
+
+Constraints: Do not add hands, people, packaging, logos, or extra accessories. Keep the design clearly derived from the reference sketch while making it look production-ready.
+```
+
+**来源：** [@seesaw game](https://x.com/gitjcccc/status/2063100692013924777) | 2026-06-06
+
+---
+

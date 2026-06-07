@@ -1174,3 +1174,205 @@ Constraints: Keep the exact visible structure and counts: 1 title area, 1 score 
 
 ---
 
+### 🖥️ 例 560：Moonlit 透明度检测卡
+
+![Moonlit 透明度检测卡](../images/Moonlit%20%E9%80%8F%E6%98%8E%E5%BA%A6%E6%A3%80%E6%B5%8B%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张华丽的奇幻“透明度检测”诊断卡，包含一位空灵的月光公主角色和日式结果 UI。
+
+画布：1:1 正方形图像，1024×1024 风格，明亮的蓝紫色调，高细节动漫奇幻插画与优雅的魔法信息图表设计相结合。构图垂直分割：左侧 40% 为半透明玻璃结果面板，右侧 60% 展示站在水晶宫殿中的全身角色。
+
+主体：右侧描绘一位精致的女性奇幻角色，拥有极长的飘逸银白色长发、苍白的皮肤和优雅的姿态。她的脸部被一个朴素的柔和粉米色方形遮挡块覆盖。她穿着精致的层叠礼服，颜色为白色、银色、淡紫色和深紫色，配有深色束胸、星形装饰、宝石链、蕾丝、半透明面纱和闪亮的水晶刺绣。她的裙摆宽大且呈半透明状，带有月亮和星星图案、飘逸的丝带以及闪烁的高光。周围环绕着悬挂的水晶、玻璃气泡、月光、折射光，以及宏伟的冰雪宫殿背景，包含圆柱、拱门、吊灯和环形天体建筑。
+
+左侧诊断面板：使用带有纤细华丽银色边框、花丝边角、微小星形装饰和发光分割线的透明磨砂玻璃矩形面板。所有文字应呈现优雅的日式奇幻排版，以白色为主，带有淡紫色和青色的光晕。
+
+文字内容：顶部为大型日文标题文字：「透明度診断」，下方配有小型英文副标题“TRANSPARENCY CHECK”。下方是一个小标签：「診断結果」。主评分行显示为「透明度：{argument name="transparency score" default="92"}%」，数字非常大且带有发光效果。在分数下方，添加一条几乎填满的水平虹彩进度条，右侧带有一个小水晶标记。进度条下方显示角色名称：「{argument name="character name" default="セシル＝リア＝クラランドール"}」。
+
+等级卡：包含 1 个等级部分，左侧带有圆形新月水晶徽章，上方标签为「透明度ランク」，右侧为巨大的发光等级数值「{argument name="rank" default="SS"}」。
+
+类型与属性部分：包含 2 行带小图标的标签行。第 1 行标签「透明タイプ」，数值「{argument name="transparency type" default="月光水晶型"}」，配有水晶水滴图标。第 2 行标签「属性」，数值「{argument name="attribute" default="月光水属性"}」，配有新月水滴图标。
+
+引言部分：在中间添加一行日文诗句：「静かな意志は、澄みきった光となる。」，上下配有小型装饰性花纹。
+
+辅助指标：在面板底部，在淡蓝紫色雷达图旁边创建 4 行辅助指标。雷达图具有五边形网格，内部填充柔和发光的五边形。4 行指标必须为：「うるみ度 95」（配水滴图标）、「きらめき 90」（配闪烁图标）、「儚さ 84」（配羽毛图标）以及「神秘性 93」（配新月图标）。
+
+视觉风格：超细节、发光、水晶质感、梦幻、透明材质、月光、棱镜反射、柔和虚化、漂浮气泡、微小星辰、银色花丝、高奇幻动漫艺术、优雅 UI 叠加、冷蓝紫色灯光、魔法氛围。
+
+约束：保持精确的可见结构和数量：1 个标题区、1 个评分区、1 条进度条、1 行名称、1 张等级卡、2 行类型/属性、1 行引言、1 个雷达图和 4 行辅助指标。不要添加额外的字符、Logo、水印或现代物体。保留覆盖在角色脸部的方形遮挡块。
+
+[English]
+Goal: Create an ornate fantasy “Transparency Check” diagnostic card featuring an ethereal moonlit princess character and a Japanese results UI.
+
+Canvas: Square 1:1 image, 1024×1024 style, luminous blue-violet palette, high-detail anime fantasy illustration mixed with elegant magical infographic design. The composition is split vertically: the left 40% is a translucent glass results panel, and the right 60% shows the full-body character standing in a crystal palace.
+
+Main subject: On the right, depict a delicate female fantasy character with extremely long flowing silver-white hair, pale skin, and a graceful posture. Her face is covered by a plain muted pink-beige square censor block. She wears an elaborate layered dress in white, silver, lavender, and deep violet with a dark corset bodice, star-shaped ornaments, gemstone chains, lace, translucent veils, and sparkling crystal embroidery. Her skirt is voluminous and semi-transparent with moon-and-star motifs, flowing fabric ribbons, and glittering highlights. Surround her with hanging crystals, glass bubbles, moonlight, refractions, and a grand icy palace background with columns, arches, chandeliers, and circular celestial architecture.
+
+Left diagnostic panel: Use a transparent frosted-glass rectangular panel with thin ornate silver borders, filigree corners, tiny star accents, and glowing divider lines. All text should look like elegant Japanese fantasy typography, mostly white with pale lavender and cyan glow.
+
+Text content: At the top, large Japanese title text: 「透明度診断」 with small English subtitle “TRANSPARENCY CHECK”. Below it, a small label: 「診断結果」. The main score line reads 「透明度：{argument name="transparency score" default="92"}%」 with the number very large and glowing. Under the score, add a horizontal iridescent progress bar filled nearly to the end, with a small crystal marker on the right. Beneath the bar, show the character name: 「{argument name="character name" default="セシル＝リア＝クラランドール"}」.
+
+Rank card: Include exactly 1 rank section with a circular crescent-moon crystal emblem on the left and the label 「透明度ランク」 above a huge glowing rank value 「{argument name="rank" default="SS"}」 on the right.
+
+Type and attribute section: Include exactly 2 labeled rows with small icons. Row 1 label 「透明タイプ」 and value 「{argument name="transparency type" default="月光水晶型"}」 with a crystal droplet icon. Row 2 label 「属性」 and value 「{argument name="attribute" default="月光水属性"}」 with a crescent moon water icon.
+
+Quote section: Add a centered poetic line in Japanese: 「静かな意志は、澄みきった光となる。」 with small ornamental flourishes above and below.
+
+Auxiliary indicators: At the bottom of the panel, create exactly 4 auxiliary metric rows next to a pale blue-purple radar chart. The radar chart has a pentagonal web with a softly glowing filled polygon. The 4 rows must be: 「うるみ度 95」 with a water droplet icon, 「きらめき 90」 with a sparkle icon, 「儚さ 84」 with a feather icon, and 「神秘性 93」 with a crescent icon.
+
+Visual style: Ultra-detailed, luminous, crystalline, dreamy, transparent materials, moonlight, prismatic reflections, soft bokeh, floating bubbles, tiny stars, silver filigree, high fantasy anime art, elegant UI overlay, cool blue lavender lighting, magical atmosphere.
+
+Constraints: Keep the exact visible structure and counts: 1 title area, 1 score area, 1 progress bar, 1 name line, 1 rank card, 2 type/attribute rows, 1 quote, 1 radar chart, and 4 auxiliary metric rows. Do not add extra characters, logos, watermarks, or modern objects. Preserve the face-covering square over the character’s face.
+```
+
+**来源：** [@石上　三歳（ｲｼｶﾞﾐ　ﾐﾄｾ）](https://x.com/mitose_ishigami/status/2063406924452999174) | 2026-06-06
+
+---
+
+### 🖥️ 例 573：都市街头时尚与 Q 版形象结合
+
+![都市街头时尚与 Q 版形象结合](../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E4%B8%8E%20Q%20%E7%89%88%E5%BD%A2%E8%B1%A1%E7%BB%93%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实全身街头时尚肖像，一位开朗的年轻女性站在城市人行道上，背景是一座带有金属门和警示标志的现代工业风灰色建筑。她穿着一件 {argument name="top" default="红色超大款短款运动衫"}，上面印有醒目的白色“08”数字，戴着红色反戴棒球帽、圆形眼镜、叠戴金项链，穿着 {argument name="pants" default="浅蓝色做旧宽松牛仔裤"}，带有大面积破洞细节，搭配米色运动鞋，腰间系着一条红色头巾。她留着齐肩直发，表情兴奋，张着嘴。在她身边站着一个可爱的 {argument name="style" default="Q 版迷你卡通形象"}，有着大大的眼睛，戴着同款红色帽子、眼镜，穿着红色“08”运动衫、白色破洞牛仔裤和米色运动鞋。这个迷你角色细节丰富，采用 3D 卡通风格，比例可爱，灵感源自 Pixar。两只可爱的腊肠犬穿着同款红色运动衫陪伴在侧，一只在 Q 版角色旁边，两只被该女性牵着。都市街头背景，休闲生活摄影，潮流街头时尚，写实纹理，电影级光效，浅景深，超精细，色彩鲜艳，高分辨率，专业摄影，8K 画质，焦点清晰，写实皮肤纹理，可爱的宠物伙伴，时尚都市氛围。 --ar 9:16 --style raw --quality 2
+
+[English]
+Ultra-realistic full-body street fashion portrait of a cheerful young woman standing on an urban city sidewalk in front of a modern industrial gray building with metal doors and warning signs. She is wearing a {argument name="top" default="red oversized cropped sports jersey"} with bold white "08" numbers, a red backward baseball cap, round eyeglasses, layered gold necklaces, {argument name="pants" default="light blue distressed baggy jeans"} with large ripped details, beige sneakers, and a red bandana tied at her waist. She has shoulder-length, straight dark hair and an excited open-mouth expression. Beside her stands a cute {argument name="style" default="chibi-style mini cartoon version"} of herself with oversized eyes, matching red cap, glasses, red "08" jersey, white ripped jeans, and beige sneakers. The miniature character is highly detailed, 3D cartoon style, adorable proportions, Pixar-inspired. Two adorable dachshund puppies wearing matching red sports jerseys accompany them, one beside the chibi character and two on leashes held by the woman. Urban street setting, casual lifestyle photography, trendy streetwear fashion, realistic textures, cinematic lighting, shallow depth of field, ultra-detailed, vibrant colors, high resolution, professional photography, 8K quality, sharp focus, realistic skin texture, cute companion animals, fashionable city vibe. --ar 9:16 --style raw --quality 2
+```
+
+**来源：** [@Calira](https://x.com/CaliraVal/status/2063293927252443213) | 2026-06-06
+
+---
+
+### 🖥️ 例 575：虚构好莱坞明星杂志拼贴画
+
+![虚构好莱坞明星杂志拼贴画](../images/%E8%99%9A%E6%9E%84%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%98%8E%E6%98%9F%E6%9D%82%E5%BF%97%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影级名人杂志拼贴画，介绍一位名为 {argument name="character name" default="Jaxon Croft"} 的虚构男性电影新星，呈现高端好莱坞新闻通稿的质感。主角应出现在每一个以人物为中心的版块中，形象为 30 多岁、深色头发的时尚男性，并刻意将面部匿名化：用柔和的矩形模糊或肤色遮挡块覆盖面部，同时保持发型、服装、姿势和光影的真实感。
+
+画布：宽幅 16:9 水平编辑拼贴画，深色奢华色调，高对比度电影级光影，版块间采用纤细的奶油色分割线，衬线体全大写标题，光面娱乐杂志设计。使用暖色聚光灯、红毯围栏、城市天际线、电影海报、珠宝特写和高端时尚细节。
+
+布局：使用 10 个独立的视觉版块排列成杂志跨页：
+1. 左侧大型主视觉版块，占据约 40% 的宽度：明星全身肖像，站在优雅的酒店套房或办公室中，身穿量身定制的 {argument name="signature suit color" default="深青色三件套西装"}，黑色开领衬衫，叠戴项链，口袋巾，佩戴奢华腕表。顶部文字：“THE RISING STAR:”，下方超大号文字：“JAXON CROFT”。较小的副标题：“全国公认的迷人魅力，毫不费力的风格，充满魅力的凝视。” 左下角文字：“好莱坞新晋男主角。”
+2. 顶部中心版块：洛杉矶红毯首映礼，明星身穿奶油色晚宴夹克和黑色衬衫，闪光灯闪烁，天鹅绒围栏，海报上写着“NEON DREAMS”和“METRO EXPRESS”。标题：“RED CARPET PREMIERE IN L.A.”
+3. 右上角宽幅版块：在温哥华片场拍摄，明星身穿皮夹克，在明亮的摄影棚灯光和摄影器材旁与导演交谈。标题：“ON-SET FILMING IN VANCOUVER.” 底部说明：“METHOD MEETS STYLE.”
+4. 底部中心版块：纽约顶层公寓会议，明星身穿青色西装，站在红毯围栏之间，身后是电影海报。标题：“PENTHOUSE MEETINGS IN NEW YORK”。
+5. 右下角宽幅版块：伦敦露台夜间首映派对，背景是高耸的照明塔天际线，明星身穿西装外套手持饮品。标题：“PREMIERE AFTER-PARTY IN LONDON”。底部说明：“GLOBAL PREMIERE TOUR”。
+6. 右侧边栏顶部小型肖像版块：明星发型、肩膀和模糊面部的特写剪裁。说明：“HOLLYWOOD VIBES”。
+7. 右侧边栏第二个小型细节版块：开领衬衫上叠戴项链的特写。说明：“CURATED DETAILS”。
+8. 右侧边栏第三个小型细节版块：昂贵镂空表盘腕表的微距拍摄。说明：“CURATED DETAILS”。
+9. 右侧边栏第四个小型 Logo 版块：深色背景，带有金色字母组合“JC”。
+10. 右侧边栏底部杂志封面版块：微型光面杂志封面，刊头类似于“GQ MAN”，主角身穿青色和洋红色服装，封面文字包括“JAXON CROFT”和“THE NEW ERA”。
+
+视觉风格：超写实的编辑摄影融合在精致的拼贴画中，戏剧性的名人公关活动氛围，高端男装，电影级景深，狗仔队闪光灯，忧郁的阴影，金色和奶油色排版，红毯装饰，高端腕表和珠宝特写。整体外观应像高端娱乐杂志专题，而非社交媒体网格。
+
+文字限制：在可见处使用上述精确的英文大标题。保持排版优雅，多为衬线体大写，奶油色或白色文字。避免除少量不可读的杂志封面填充文字外的额外随机文字。确保面部在每次出现时都保持一致的匿名化。无水印，无应用 UI，无社交媒体边框。
+
+[English]
+Goal: Create a cinematic celebrity magazine collage introducing a fictional rising male movie star named {argument name="character name" default="Jaxon Croft"}, with an upscale Hollywood press-kit aesthetic. The subject should appear in every human-focused panel as a stylish, dark-haired man in his 30s with a deliberately anonymized face: cover the face with a soft rectangular blur or skin-toned censor block while keeping hair, clothing, posture, and lighting realistic.
+
+Canvas: Wide horizontal 16:9 editorial collage, dark luxury palette, high-contrast cinematic lighting, thin cream divider lines between panels, serif all-caps headlines, glossy entertainment-magazine design. Use warm spotlights, red carpet ropes, city skylines, film posters, jewelry closeups, and premium fashion details.
+
+Layout: Use exactly 10 discrete visual panels arranged as a magazine spread:
+1. Large left hero panel occupying about 40% of the width: full-body portrait of the star standing in an elegant hotel suite or office, wearing a tailored {argument name="signature suit color" default="deep teal three-piece suit"}, open black shirt, layered necklaces, pocket square, and luxury wristwatch. Text at top: “THE RISING STAR:” and very large “JAXON CROFT”. Smaller subtext: “Nationally recognized magnetic charm, effortless style, charismatic gaze.” Bottom-left text: “Hollywood’s New Leading Man.”
+2. Top center panel: red carpet premiere in L.A., the star in a cream dinner jacket and black shirt, paparazzi flashes, velvet ropes, posters reading “NEON DREAMS” and “METRO EXPRESS”. Headline: “RED CARPET PREMIERE IN L.A.”
+3. Top right wide panel: on-set filming in Vancouver, the star in a leather jacket speaking with a director near bright studio lights and camera equipment. Headline: “ON-SET FILMING IN VANCOUVER.” Bottom caption: “METHOD MEETS STYLE.”
+4. Bottom center panel: penthouse meetings in New York, the star in the teal suit standing between red ropes with movie posters behind him. Headline: “PENTHOUSE MEETINGS IN NEW YORK”.
+5. Bottom right wide panel: premiere after-party in London on a terrace at night, skyline with tall illuminated towers, the star holding a drink in a blazer. Headline: “PREMIERE AFTER-PARTY IN LONDON”. Bottom caption: “GLOBAL PREMIERE TOUR”.
+6. Right sidebar top small portrait panel: close-up cropped portrait of the star’s hair, shoulders, and blurred face. Caption: “HOLLYWOOD VIBES”.
+7. Right sidebar second small detail panel: close-up of layered necklaces on an open shirt. Caption: “CURATED DETAILS”.
+8. Right sidebar third small detail panel: macro shot of an expensive skeleton-dial wristwatch. Caption: “CURATED DETAILS”.
+9. Right sidebar fourth small logo panel: dark background with a gold monogram “JC”.
+10. Right sidebar bottom magazine-cover panel: miniature glossy magazine cover with masthead resembling “GQ MAN”, featuring the same star in teal and magenta styling, cover text including “JAXON CROFT” and “THE NEW ERA”.
+
+Visual style: Hyper-realistic editorial photography blended into a polished collage, dramatic celebrity PR campaign mood, luxury menswear, cinematic depth of field, paparazzi flashes, moody shadows, gold and cream typography, red carpet accents, premium watch and jewelry closeups. Keep the overall look like a high-end entertainment magazine feature rather than a social media grid.
+
+Text constraints: Use the exact prominent English headlines listed above where visible. Keep typography elegant, mostly serif uppercase, cream or white text. Avoid extra random text except small unreadable magazine-cover filler. Ensure the face is anonymized consistently in every appearance. No watermark, no app UI, no social media frame.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2063292382624522290) | 2026-06-06
+
+---
+
+### 🖥️ 例 589：成品婴儿感官瓶
+
+![成品婴儿感官瓶](../images/%E6%88%90%E5%93%81%E5%A9%B4%E5%84%BF%E6%84%9F%E5%AE%98%E7%93%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为材料来源，展示由这些材料制成的手工婴儿感官玩具成品，而非未拆封的产品。在同样的浅色木地板上创作一张逼真的智能手机照片：一个清晰的空塑料瓶直立放置，瓶盖旋紧，并缠绕着参考材料中指定的两段彩色胶带——顶部为黄色，下方为深绿色。将手工材料放入瓶中：清晰可见的四个彩色绒球（粉色、红色、蓝色和紫色），以及揉皱的半透明黄橙色薄膜碎片。移除场景中的包装、标签和泡沫垫边缘，使焦点仅集中在完成的玩具上。保持自然的室内光线、随意的家居拍摄视角、轻微的模糊感以及塑料瓶上的逼真反光。可选自定义：将玩具制作成 {argument name="toy type" default="婴儿感官瓶"}，使用 {argument name="cap tape colors" default="黄色和深绿色"} 的胶带以及 {argument name="inside materials" default="彩色绒球和揉皱的半透明黄橙色薄膜"}。
+
+[English]
+Using REFERENCE_0 as the materials source, show the finished handmade baby sensory toy made from those supplies instead of the unopened products. Create a realistic smartphone photo on the same light wood floor: one clear empty plastic bottle standing upright, with its cap secured and wrapped in exactly two colored tape sections from the reference materials — a yellow top and a dark green band below it. Put the craft materials inside the bottle: exactly four clearly visible colorful pom-poms in pink, red, blue, and purple, plus crumpled translucent yellow-orange color film pieces. Remove the packaging, labels, and foam mat edge from the scene so the focus is only on the completed toy. Keep natural indoor lighting, casual home-photo perspective, mild blur, and realistic reflections on the plastic bottle. Optional customization: make the toy a {argument name="toy type" default="baby sensory bottle"} using {argument name="cap tape colors" default="yellow and dark green"} and {argument name="inside materials" default="colorful pom-poms and crumpled translucent yellow-orange film"}.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2063260823334842507) | 2026-06-06
+
+---
+
+### 🖥️ 例 600：贝多芬创作交响曲
+
+![贝多芬创作交响曲](../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%88%9B%E4%BD%9C%E4%BA%A4%E5%93%8D%E6%9B%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级照片真实感的历史场景：{argument name="character name" default="路德维希·凡·贝多芬"} 坐在 19 世纪维也纳音乐室一张宽大且磨损的木制书桌前，正用羽毛笔在手写乐谱上创作。镜头采用桌面高度的广角正面视角，浅景深，午后的金色阳光从右侧的高大窗户射入，空气中漂浮着轻柔的尘埃，背景是深色雕花木墙板和拼花地板，营造出一种神圣、肃穆且充满天才静谧感的氛围。作曲家留着凌乱的深灰色卷发，身穿深绿色天鹅绒外套，内搭白色衬衫和马甲，面部被居中的方形模糊效果刻意遮挡。在前景的书桌上，从左至右整齐摆放 5 张清晰可见的印刷乐谱扉页：1) “SONATA NO. 3”（大提琴与钢琴奏鸣曲），2) “SYMPHONY NO. 5” C 小调（第五交响曲），3) “SYMPHONY NO. 6” “PASTORALE” “SECHSTE SINFONIE”（第六交响曲“田园”），4) “PIANO CONCERTO”（钢琴协奏曲，附带较小的协奏曲文字），5) “TRIOS”（钢琴、小提琴与大提琴三重奏）。房间内还需包含 3 件显眼的乐器：最左侧靠着的一把立式低音提琴，后方中央摆放着打开乐谱的钢琴，以及右侧窗边靠着的一把大提琴。添加时代道具：书桌两侧堆放的皮质书籍、散落的手稿页、打开的墨水瓶、作曲家手中的羽毛笔、黄铜烛台以及侧桌上散落的纸张。采用温暖的琥珀色和棕色调，质感真实，还原 19 世纪初的历史室内风格，光影效果戏剧化，细节丰富，16:9 横向构图，无现代物品，无水印。
+
+[English]
+Create a cinematic photorealistic historical scene of {argument name="character name" default="Ludwig van Beethoven"} seated at a large worn wooden writing desk in a warm 19th-century Viennese music room, writing with a feather quill on handwritten musical manuscript pages. The camera is wide and frontal at desk height, with shallow depth of field, golden afternoon sunlight entering from tall windows on the right, soft dust in the air, dark carved wood wall panels, parquet floor, and a sacred, reverent atmosphere of genius in silence. The composer has wild dark-gray curly hair, wears a dark green velvet coat over a white shirt and waistcoat, and his face is intentionally obscured by a centered square blur. On the foreground desk show exactly 5 large visible printed score title pages, arranged left to right: 1) “SONATA NO. 3” for violoncello and pianoforte, 2) “SYMPHONY NO. 5” in C minor, 3) “SYMPHONY NO. 6” “PASTORALE” “SECHSTE SINFONIE”, 4) “PIANO CONCERTO” with smaller concerto text, 5) “TRIOS” for clavier, violin and violoncello. Also include exactly 3 prominent musical instruments in the room: 1 upright double bass leaning at the far left, 1 piano in the back center with open sheet music, and 1 cello leaning near the right window. Add period props: stacked leather-bound books on both sides of the desk, loose manuscript sheets, an open inkwell, a quill in the composer’s hand, a brass candleholder, and scattered papers on side tables. Use warm amber and brown tones, realistic textures, historically accurate early-1800s interior, dramatic natural light, high detail, 16:9 horizontal composition, no modern objects, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2063245592810201171) | 2026-06-06
+
+---
+
+### 🖥️ 例 612：彩绘玻璃玫瑰雨衣
+
+![彩绘玻璃玫瑰雨衣](../images/%E5%BD%A9%E7%BB%98%E7%8E%BB%E7%92%83%E7%8E%AB%E7%91%B0%E9%9B%A8%E8%A1%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖版动漫风格的时尚插画，描绘 {argument name="character name" default="一位神秘的年轻女子"} 自信地站在破败哥特式大教堂的过道中，背景是一场阳光明媚的暴雨。她留着 {argument name="hair color" default="深紫色"} 的中长发，部分被透明兜帽遮住，面部柔和地隐没在阴影中，呈现出匿名模特的视觉感。服装：一件亮面黑色短款拉链夹克，内搭黑色高领衫，下身穿着黑色短裤，系着细腰带，双手插在夹克口袋里，脚蹬深紫色漆皮高筒细跟长靴。在服装外，她穿着一件极具戏剧性的透明连帽雨衣，雨衣由透明乙烯基制成，长至脚踝且呈斗篷状向外散开，装饰着 14 朵清晰可见的紫色玫瑰图案，图案由纤细的灰色藤蔓和叶片连接：上袖处 2 朵，左前襟 3 朵，右前襟 3 朵，下摆附近 4 朵，侧面褶皱处部分可见 2 朵。雨衣应呈现出彩绘玻璃的质感，带有黑色接缝轮廓、反光的湿润高光、闪烁的雨滴以及发光的边缘。环境：一座废弃的大教堂内部，拥有高耸的尖拱，破损的石制屋顶露出明亮多云的蓝天，墙壁残破，柱子上长满苔藓，背景中可见彩色玻璃窗，两侧摆放着木制长椅，地面是开裂的湿润石板，水洼倒映着人物，雨水穿过屋顶形成长长的垂直雨幕。构图：全身居中低角度时尚姿势，一条腿微微向前，对称的大教堂框架，来自天空的电影级逆光在兜帽和雨衣周围形成光晕。视觉风格：高细节动漫插画，半写实光影，亮面反射，戏剧性的奇幻时尚大片氛围，清晰的线条，湿润的表面，紫色玫瑰装饰在灰色石材背景下显得格外鲜艳。约束条件：无文字，无水印，无额外角色，确保透明雨衣清晰可辨且优雅。
+
+[English]
+Create a vertical anime-style fashion illustration of {argument name="character name" default="a mysterious young woman"} standing confidently in the aisle of a ruined Gothic cathedral during a sunlit rainstorm. She has {argument name="hair color" default="deep purple"} medium-length hair partly hidden by a transparent hood, her face softly obscured in shadow for an anonymous model look. Outfit: a glossy black cropped zip-up jacket with a high black turtleneck underneath, black short shorts, a slim belt, hands tucked into jacket pockets, and tall thigh-high stiletto boots in shiny dark purple-black patent leather. Over the outfit, she wears a dramatic transparent hooded raincoat made of clear vinyl, ankle-length and flaring outward like a cape, decorated with exactly 14 visible purple rose motifs connected by thin gray vine stems and leaves: 2 roses on the upper sleeves, 3 on the left front panel, 3 on the right front panel, 4 near the lower hem, and 2 partially visible along the side folds. The coat should resemble stained glass, with black seam outlines, reflective wet highlights, sparkling raindrops, and luminous edges. Environment: an abandoned cathedral interior with tall pointed arches, broken stone roof opening to a bright cloudy blue sky, ruined walls, mossy pillars, stained-glass windows in the background, wooden pews on both sides, cracked wet stone floor, puddles reflecting the figure, and rain falling through the roof in long vertical streaks. Composition: full-body centered low-angle fashion pose, one leg slightly forward, symmetrical cathedral framing, cinematic backlight from the sky creating a halo around the hood and raincoat. Visual style: highly detailed anime illustration, semi-realistic lighting, glossy reflections, dramatic fantasy fashion editorial mood, crisp linework, wet surfaces, purple rose accents glowing vividly against gray stone. Constraints: no text, no watermark, no extra characters, keep the transparent raincoat clearly readable and elegant.
+```
+
+**来源：** [@みらくる【＊スノウ・フェアリイッ🧚‍♀️＊】](https://x.com/mirakuru012/status/2063220245213675918) | 2026-06-06
+
+---
+
+### 🖥️ 例 644：搞怪凌乱涂鸦草图
+
+![搞怪凌乱涂鸦草图](../images/%E6%90%9E%E6%80%AA%E5%87%8C%E4%B9%B1%E6%B6%82%E9%B8%A6%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将这张照片转化为 {argument name="style" default="搞怪凌乱涂鸦插画"}，刻意营造出凌乱且低技巧的感觉，就像是用廉价马克笔、蜡笔或磨损的毡尖笔在纸上快速绘制的一样。创造出夸张的面部特征，包括尴尬的比例、大小眼、大头小身、歪斜的笑容以及笨拙的解剖结构，同时保持人物的可辨识度。使用 {argument name="line style" default="粗糙的童趣草图线条、颤抖的手绘笔触、可见的涂鸦"}，重叠的轮廓、意外的痕迹以及场景周围随意的涂鸦。添加一个简单的卡通风格背景，包含 {argument name="background details" default="画得拙劣的建筑物、树木、云朵、街道元素以及不均匀的透视"}。着色应看起来漫不经心且不完美，带有可见的笔触纹理、不均匀的填充区域、马克笔晕染以及不规则的阴影。
+
+[English]
+Turn this photo into a {argument name="style" default="chaotic funny doodle illustration"}, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper. Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use {argument name="line style" default="rough childish sketch lines, shaky hand-drawn strokes, visible scribbles"}, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with {argument name="background details" default="badly drawn buildings, trees, clouds, street elements, and uneven perspective"}. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, marker bleed, and irregular shading.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2063151404290814136) | 2026-06-06
+
+---
+

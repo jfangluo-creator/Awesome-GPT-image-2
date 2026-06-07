@@ -1571,3 +1571,445 @@ Create a cute minimalist line-art illustration of a rainy city commute at a bus 
 
 ---
 
+### 🎨 例 565：混合写实水墨艺术
+
+![混合写实水墨艺术](../images/%E6%B7%B7%E5%90%88%E5%86%99%E5%AE%9E%E6%B0%B4%E5%A2%A8%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+混合写实与水墨插画。主体：{argument name="subject" default="夸父逐日"}
+
+[English]
+Hybrid Realism and Ink-Wash Illustration. Subject: {argument name="主体" default="夸父追日 (Kuafu Chases the Sun)"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063315693978968385) | 2026-06-06
+
+---
+
+### 🎨 例 581：等距视角岩浆大马士革钢城市
+
+![等距视角岩浆大马士革钢城市](../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E5%B2%A9%E6%B5%86%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E9%92%A2%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，针对 4 座著名城市进行创作，岩浆大马士革钢：概念：一座从地图中雕刻而出、漂浮在梦境中的城市。输入变量：[{argument name="city" default="著名城市/地点"}] [{argument name="material" default="岩浆大马士革钢"}]（例如：硬纸板、轻木、折纸）工作流：1. 基础：一张 {argument name="city" default="著名城市/地点"} 的平面复古 2D 地图平铺。2. 设计：一个完美的 3D 等距城市立方体块悬浮在地图对应位置的上方。3. 材质：整个 3D 块，包括摩天大楼、桥梁和地质层，均由 {argument name="material" default="岩浆大马士革钢"} 精心构建。4. 边缘：城市中的河流从立方体边缘流出，形成风格化的瀑布倾泻入虚空。神级细节：柔软蓬松的风格化云朵在悬浮块周围漂浮。柔和、明亮、通透的灯光。建筑上可见纹理、胶水痕迹和纸张边缘，以强调微缩比例。
+
+[English]
+2x2 grid, 16:9, do this for 4 famous cities, magma damascus steel: concept: a city carved from a map, floating in a dreamscape. input variables: [{argument name="city" default="famous city/location"}] [{argument name="material" default="magma damascus steel"}] (e.g., cardboard, balsa wood, folded paper) workflow: 1. base: a flat, vintage 2d map of {argument name="city" default="famous city/location"} lies flat. 2. design: a perfect, isometric 3d cubic chunk of the city is hovering directly above its corresponding spot on the map. 3. material: the entire 3d block, including the skyscrapers, bridges, and geological strata, is constructed meticulously out of {argument name="material" default="magma damascus steel"}. 4. the edge: rivers from the city flow off the edge of the cube as stylized waterfalls spilling into the void. god-level details: soft, fluffy stylized clouds drifting around the floating block. pastel, bright, airy lighting. visible grain, glue marks, and paper edges on the architecture to emphasize the miniature scale.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2063278741040849060) | 2026-06-06
+
+---
+
+### 🎨 例 584：魔法少女与祖母导师
+
+![魔法少女与祖母导师](../images/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%B8%8E%E7%A5%96%E6%AF%8D%E5%AF%BC%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+女の子が{argument name="師匠" default="師匠のおばあさん"}に覚えたばかりの{argument name="魔法" default="In Por Ylem"}を披露している
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2063275285538037917) | 2026-06-06
+
+---
+
+### 🎨 例 591：动漫双马尾漆皮风衣时尚
+
+![动漫双马尾漆皮风衣时尚](../images/%E5%8A%A8%E6%BC%AB%E5%8F%8C%E9%A9%AC%E5%B0%BE%E6%BC%86%E7%9A%AE%E9%A3%8E%E8%A1%A3%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张纯白背景下的全身动漫角色时尚插画：一位高挑纤细的年轻女性，以自信的走秀姿势站立，一只手插在风衣口袋里，另一只手自然垂在胯部附近，双腿微微分开。她的面部被一个居中的方形遮挡块刻意遮盖，遮挡块填充着柔和的灰色至淡紫色渐变。她拥有极长且蓬松的双马尾，高高扎在两侧，并系着黑色丝带蝴蝶结；头发为 {argument name="hair color" default="银白色，带有淡紫色阴影和鲜艳的青蓝色挑染"}，呈现出许多飘逸的发丝和卷曲，垂落至膝盖以下。为她穿上一件亮面黑色漆皮哥特风衣，质感光泽强烈，配有宽大的翻领、双排扣、带方形扣的腰带、袖带，以及长款外扩下摆，露出内衬的柔和淡紫色。风衣内搭配一件挺括的白衬衫和窄版黑领带，穿着修身黑裤和亮面黑色高跟短靴。在头发旁点缀小巧的蓝色宝石耳环。以精致的日系动漫风格渲染，具有优雅的时尚设计比例、锐利的线条、皮革上的明亮高光、细腻的半透明发丝，以及冷蓝紫色的侧光效果；画面中无任何文字、标志、道具或背景装饰。
+
+[English]
+Create a full-body anime character fashion illustration on a plain white background: a tall, slim young woman standing in a confident runway pose with one hand in a coat pocket and the other relaxed near her hip, legs slightly apart. Her face is intentionally obscured by a centered square censor block filled with a soft gray-to-lavender gradient. She has extremely long, voluminous twin-tail hair tied high on both sides with black ribbon bows; the hair is {argument name="hair color" default="silvery white with pale lavender shadows and vivid cyan-blue streaks"}, flowing in many wispy strands and curls far past her knees. Dress her in a glossy black patent-leather gothic trench coat with dramatic shine, broad lapels, double-breasted buttons, a belted waist with a square buckle, cuff straps, and a long flared hem revealing a muted lavender inner lining. Under the coat she wears a crisp white shirt and a narrow black tie, fitted black trousers, and shiny black high-heeled ankle boots. Add small blue gemstone earrings visible beside the hair. Render in a highly polished Japanese anime style with elegant fashion-design proportions, sharp linework, luminous highlights on the leather, delicate semi-transparent hair strands, cool blue-purple accent lighting, and no text, logo, props, or background scenery.
+```
+
+**来源：** [@ふぁりー💚💛](https://x.com/506Farley/status/2063255253953466777) | 2026-06-06
+
+---
+
+### 🎨 例 604：雨中东京便利店场景
+
+![雨中东京便利店场景](../images/%E9%9B%A8%E4%B8%AD%E4%B8%9C%E4%BA%AC%E4%BE%BF%E5%88%A9%E5%BA%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级写实的雨夜街道场景，地点位于 {argument name="city" default="东京"}，采用 16:9 宽画幅拍摄，呈现出情绪化的电影剧照质感。画面中仅包含 1 个主体：一位年轻女性站在明亮的便利店外湿漉漉的人行道上，身穿一件超大号浅米色雨衣，内搭长款深色半身裙，手持 1 把透明塑料雨伞，并将 1 个白色外带杯靠近嘴边；她的面部应被阴影、雨水和浅景深柔化处理，而非清晰可见。画面左侧包含 1 辆黄色出租车，左上方有 1 个发光的红色交通灯，右侧为 1 个便利店门面，内部透出温暖的荧光灯光，可见玻璃窗、货架以及包括“24 OPEN”标识在内的小型日式告示。沥青路面和人行道被雨水浸湿，红色、琥珀色和白色的霓虹灯倒影在地面上向远处延伸；镜头上带有雨滴和散景光斑，深色的城市背景逐渐隐入柔和的模糊中。使用 {argument name="lighting mood" default="冷雨夜背景下的暖色便利店光影"}、{argument name="camera style" default="电影级街头摄影，35mm 镜头，浅景深"} 以及 {argument name="color palette" default="黑色、湿沥青灰、琥珀金、柔和红和浅米色"}。图像需具备写实感、氛围感、轻微颗粒感和高动态范围，无水印，画面中无其他清晰人物，且无可见的品牌标识。
+
+[English]
+Create a cinematic photorealistic night street scene in rainy {argument name="city" default="Tokyo"}, shot in a wide 16:9 frame with a moody film-still look. Show exactly 1 main subject: a young woman standing on the wet sidewalk outside a brightly lit convenience store, wearing an oversized light beige rain jacket over a long dark skirt, holding exactly 1 transparent plastic umbrella and exactly 1 white takeaway cup near her mouth; her face should be softly obscured by shadow, rain, and shallow focus rather than clearly identifiable. Include exactly 1 yellow taxi on the left side of the street, exactly 1 glowing red traffic light in the upper-left area, and exactly 1 convenience store frontage on the right with warm fluorescent interior lighting, glass windows, shelves, and small Japanese-style notices including a visible “24 OPEN” sign. The asphalt and sidewalk are soaked, with strong reflections of red, amber, and white neon stretching into the distance; raindrops and bokeh speckles appear on the lens, with a dark urban background receding into soft blur. Use {argument name="lighting mood" default="warm convenience-store glow against cold rainy darkness"}, {argument name="camera style" default="cinematic street photography, 35mm lens, shallow depth of field"}, and {argument name="color palette" default="black, wet asphalt gray, amber gold, muted red, and soft beige"}. Make the image realistic, atmospheric, slightly grainy, high dynamic range, no watermark, no extra people in focus, and no readable brand logos.
+```
+
+**来源：** [@zhouluobo](https://x.com/zhouluobo/status/2063237726724571307) | 2026-06-06
+
+---
+
+### 🎨 例 605：暗黑奇幻任务路线图
+
+![暗黑奇幻任务路线图](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E4%BB%BB%E5%8A%A1%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="project name" default="一条危险的任务路线"} 创建一张史诗般的暗黑奇幻世界地图插画，呈现为电影级的鸟瞰全景图，而非平面示意图。
+
+画布：超宽 16:9 横向图像，高分辨率，戏剧性的哑光绘画风格，无边框，无标题文字，无标签，无图例。
+
+布局与地理：以高空俯瞰视角展示一个广阔的沿海王国。在下方中心位置，放置 1 座巨大的中世纪防御港口城市，包含密集的屋顶、高耸的哥特式塔楼、石墙、码头和小型船只。在最右侧，放置 1 座锯齿状的火山岛或黑色山脉，带有发光的橙色熔岩和烟雾。在上三分之一处，放置 1 道横跨整个陆地的巨大垂直冰墙，带有冰冻的瀑布和陡峭的蓝白色悬崖。在冰墙之外，展示 1 片冰冻的荒原高原，布满积雪、废墟塔楼、远处的城堡以及风暴云下的山脉。在城市和冰墙之间，展示 1 片广阔的暗黑森林区域、1 个分叉的河流三角洲、散落的村庄、道路、废墟和岩石山丘。陆地四周环绕着风暴肆虐的深色海洋、波浪、迷雾和小型船只。
+
+路线叠加：添加 1 条连续的红色发光手绘旅行路线，线条纤细但明亮，带有白色边缘的小型红色箭头。路线始于港口城市附近，穿过海洋前往火山岛，然后折返至城市，向北蜿蜒穿过城墙，穿过湿地和森林，通过冰墙中的狭窄关口或缝隙，并作为一条蜿蜒的小径穿过冰冻高原，向遥远的北方延伸。路线沿途包含 13 个可见的箭头：3 个在通往火山并返回的海面上，3 个在港口城市入口周围及内部，3 个穿过森林覆盖的中部陆地，1 个在冰墙通道处，3 个穿过积雪的北部高原。
+
+视觉风格：超精细的电影级奇幻概念艺术，真实的比例，去饱和的蓝灰色调，寒冷风暴光影，情绪化的云层，体积雾，锐利的地形细节，微缩建筑细节，发光的熔岩对比，清晰的红色路线叠加，如同战略战役地图。氛围应具有危险感和史诗感，适合奇幻游戏发布或任务规划视觉展示。
+
+约束条件：画面中不得出现任何可读文字、UI 面板、罗盘、角色特写、现代建筑或水印。确保红色路线清晰可见，但不要使其看起来像是一条道路；它应叠加在绘制的地图之上，作为标注的任务路径。
+
+[English]
+Goal: Create an epic dark-fantasy world map illustration for {argument name="project name" default="a perilous quest route"}, shown as a cinematic aerial panorama rather than a flat diagram.
+
+Canvas: Ultra-wide 16:9 landscape image, high-resolution, dramatic matte-painting style, no border, no title text, no labels, no legend.
+
+Layout and geography: Show one vast coastal kingdom from a high bird’s-eye view. In the lower center, place 1 enormous fortified medieval harbor city with dense rooftops, tall gothic towers, stone walls, docks, and tiny ships. To the far right, place 1 jagged volcanic island or black mountain chain with glowing orange lava and smoke. Across the upper third, place 1 massive vertical ice wall stretching horizontally across the entire land, with frozen waterfalls and sheer blue-white cliffs. Beyond the ice wall, show 1 frozen wasteland plateau full of snow, ruined towers, distant castles, and mountains under storm clouds. Between the city and the ice wall, show 1 broad dark forest region, 1 branching river delta, scattered villages, roads, ruins, and rocky hills. Surround the land with a stormy dark ocean, waves, mist, and small ships.
+
+Route overlay: Add exactly 1 continuous glowing red hand-drawn travel route line, thin but bright, with small white-edged red arrowheads. The route begins near the harbor city, travels across the sea toward the volcanic island, then bends back to the city, winds north through the walled city, crosses wetlands and forests, passes through a narrow gate or gap in the ice wall, and continues as a winding path across the frozen plateau toward the distant north. Include exactly 13 visible arrowheads along the route: 3 over the sea toward the volcano and back, 3 around and inside the harbor city approach, 3 through the forested central land, 1 at the ice-wall passage, and 3 across the snowy northern plateau.
+
+Visual style: Hyper-detailed cinematic fantasy concept art, realistic scale, desaturated blue-gray palette, cold storm lighting, moody clouds, volumetric fog, sharp terrain detail, miniature architectural detail, glowing lava contrast, crisp red route overlay like a strategic campaign map. The mood should feel dangerous, epic, and suitable for a fantasy game reveal or quest-planning visual.
+
+Constraints: No readable text anywhere, no UI panels, no compass rose, no character closeups, no modern buildings, no watermark. Keep the red route clearly visible without making it look like a road; it should sit on top of the painted map as an annotated quest path.
+```
+
+**来源：** [@zhouluobo](https://x.com/zhouluobo/status/2063237726724571307) | 2026-06-06
+
+---
+
+### 🎨 例 606：GPT Image 2 奇幻森林仪式项目
+
+![GPT Image 2 奇幻森林仪式项目](../images/GPT%20Image%202%20%E5%A5%87%E5%B9%BB%E6%A3%AE%E6%9E%97%E4%BB%AA%E5%BC%8F%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的图像。[项目卡片] 创建一个设计紧凑的页眉，不要使用表格。标题：{argument name="project title" default="NOX / LUMOS POI FOREST"} 元数据行：{argument name="theme description" default="突发虚空魔法 / 奇幻仪式悬疑 / 15 秒快速爆发流"} 优先级：{argument name="priority frame" default="第一帧空旷森林"}
+
+[English]
+Create a 16:9 image. [PROJECT CARD] Create a compact designed masthead, not a table. TITLE: {argument name="project title" default="NOX / LUMOS POI FOREST"} META LINE: {argument name="theme description" default="sudden void magic / fantasy ritual suspense / fast 15-second burst flow"} PRIORITY: {argument name="priority frame" default="first frame empty forest"}
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2063229035136639183) | 2026-06-06
+
+---
+
+### 🎨 例 608：明制汉服婚纱照
+
+![明制汉服婚纱照](../images/%E6%98%8E%E5%88%B6%E6%B1%89%E6%9C%8D%E5%A9%9A%E7%BA%B1%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+请基于用户上传的两位真人清晰生活照，生成高预算、真实可拍的明制汉服婚纱照。必须保留两个人真实身份特征，包括脸型、五官比例、眼睛、鼻子、嘴唇、肤色、年龄感、气质、身高体型差和辨识度。每一张都要明显看出是同一对真实新人，不能换脸，不能网红假脸，不能欧美化过度，不能磨皮过头，不能出现明显 AI 感。
+
+整体主题为 明制汉服婚纱照，服饰、妆发、配饰、道具、场景都要参考真实明制婚礼美学，拍成高端婚纱机构样片质感，端庄、大气、华丽、克制，有仪式感。
+
+人物设定
+新娘
+
+新娘穿 明制大红婚服，形制要符合明制婚服审美，可使用凤冠霞帔、织金大袖衫、圆领大衫、袄裙、霞帔垂带、云肩等组合，服装面料厚实，织金、刺绣、缂丝、妆花质感清楚，纹样以凤凰、牡丹、团花、云纹、海水江崖、仙鹤等传统吉祥纹样为主。
+新娘头饰为 明制凤冠，要有金凤、点翠蓝、珍珠流苏、宝石镶嵌、花树、掩鬓、步摇等层次，工艺复杂，贵气但不廉价。
+发型必须为 中分贴发、光洁贴鬓、低盘发、圆髻或古典发髻，不能披散现代长卷发，不能清宫旗头，不能唐风大高髻。
+妆容为 高预算婚纱精修妆：底妆细腻干净，眉形清晰利落，眼妆精致、眼神有神，睫毛自然分明，眼线轻微上扬，面中干净，唇妆为正红或绛红色，整体端庄、贵气、古典。
+
+新郎
+
+新郎穿 明制大红圆领袍 或正式明制婚礼男装，胸前补子或织金纹样清楚，面料厚重，衣纹挺括，有玉带、腰带、黑靴等完整细节，头戴 乌纱帽或幞头，整体清俊、端方、温润、有书卷气和礼仪感。
+新郎不能总是同一个角度，必须在整组中出现 正脸、3/4 侧脸、侧脸、坐姿正脸、行走动态、俯身互动 等不同状态，不能一直站在新娘右后方，不能一直只有浅笑和低头。
+
+固定服饰设定（建议直接加入总控）
+服饰连续性要求
+
+整组婚纱照中，新娘与新郎必须保持 同一套固定的明制婚礼服饰，不能因为分镜变化而更换服装款式、头饰结构、主纹样、主色或整体造型。不同照片只允许因为拍摄角度、动作、景别不同而看到服装的不同部分，但本质上必须是同一套婚服。
+
+新娘固定婚服设定
+
+新娘固定穿 同一套明制大红婚服，整体为凤冠霞帔婚礼造型。服装结构固定为：大红婚服主体、华丽凤冠、霞帔垂带、古典袄裙或大袖礼服结构。
+服装主色固定为 正红色 + 金色刺绣 + 少量点翠蓝头饰细节。
+服装纹样固定为 凤凰、牡丹、云纹、团花、海水江崖等传统吉祥纹样，整体风格华贵、庄重、繁复，不要每一张换一种图案逻辑。
+凤冠固定为 明制凤冠，要有金凤、点翠蓝、珍珠流苏、宝石镶嵌、对称大翅或华丽层叠结构。凤冠的整体结构必须前后一致，不能一张偏金冠、一张又变成另一种完全不同的冠饰。
+发型固定为 中分贴发、低盘发、古典发髻，不能一张盘发、一张披发、一张又变成别的朝代造型。
+妆容固定为 端庄精致的中式新娘妆，正红唇，干净底妆，清晰眉眼，整体古典贵气。
+
+新郎固定婚服设定
+
+新郎固定穿 同一套明制大红圆领袍婚服，头戴固定样式的 乌纱帽或幞头。
+袍服主色固定为 正红色，胸前固定有 补子或织金纹样，腰部有固定腰带，整体厚重挺括，端方正式。
+新郎帽型、袍服形制、补子位置、配色逻辑都必须前后一致，不能一张一个样式。
+
+服饰一致性强调
+
+整组图中，不要更换婚服，不要换头饰，不要换主色，不要换纹样体系，不要从一套明制婚服变成另一套不同风格的明制婚服。
+所有分镜都默认是 同一对新人、同一套明制婚礼服饰、同一次婚礼拍摄企划。
+
+场景与道具
+
+场景为高预算中式婚礼棚拍或古建婚房内景，包含 红色帷幔、明式木家具、喜字中堂、宫灯、龙凤烛、团扇、红盖头、合卺酒器、喜盘、青花瓷、雕花窗、红色床帐、深色木梁、屏风 等。
+道具要精致真实，服务人物关系，不要太杂乱，不要像影楼摆满道具。
+
+光影要求
+
+整体光影是 暖红金调的电影级中式婚礼光影。
+要有层次感，不要一片死红。
+可以使用：
+
+暖色主光塑造人物面部与服饰质感
+烛光做局部氛围点缀
+窗边柔光或侧逆光勾勒凤冠流苏、珍珠、衣物纹理
+暗部保留深木色与红色层次
+
+整体要像 万元级中式婚纱样片，而不是普通影楼大红背景照。
+
+表情、动作、眼神、构图的统一要求
+
+这组图必须明显避免重复。每一张都要在 表情、眼神关系、动作互动、景别、机位、新郎站位 上有变化。
+
+必须做到：
+
+不同照片里，人物不能一直都是同一种微笑
+不同照片里，不能一直都是两人互看
+不同照片里，不能一直都是正面并排站立
+新郎至少有 3 张要成为动作发起者或画面重心
+要出现看镜头、看彼此、看道具、低头沉静、错开眼神等不同处理
+要出现全身、七分身、半身、近景特写
+要出现平视、略低机位、略高机位
+动作要克制、优雅、有礼，不要低俗亲密，不要现代偶像剧式搂抱
+画面与输出要求
+
+每张单独成片，3:4 竖构图，高清，电影感，高级婚纱样片质感，画面干净，不要拼图，不要九宫格，不要文字，不要 logo，不要水印。
+
+避免的问题
+
+避免清宫风、唐制齐胸、宋制清淡风、韩服感、戏曲服化感、廉价影楼红布背景、现代披发、新郎角度雷同、人物脸假、手指畸形、服装纹样糊掉、凤冠结构错误、比例失衡、透视奇怪、画面过度磨皮、表情僵硬。
+
+Prompt 01｜正婚大典主海报
+
+请生成一张 明制汉服婚纱照主海报。
+
+新娘与新郎站在婚房正中，背后是大幅喜字中堂和红色帷幔，两侧有宫灯与龙凤烛，深色明式木家具作为背景。
+新娘穿大红凤冠霞帔，凤冠华丽繁复，点翠蓝、金凤、珍珠流苏和宝石层次清楚，发型为中分贴发低盘发，妆容端庄精致，手持一柄红色绣花团扇，团扇放于胸前偏下位置。
+新郎穿大红明制圆领袍，胸前补子精致，头戴乌纱帽，衣料厚重挺括。
+两个人 都看向镜头，表情庄重、平静、体面，有婚礼主片的正式感。新郎必须清晰正脸，不能再是陪衬。
+构图为 全身竖构图，略低机位，强调服装廓形、凤冠、袍服和整体气场。
+光影为暖红金色主光，人物面部清晰，服饰刺绣和凤冠珠宝有高光细节，整体大气、隆重、贵气。
+
+Prompt 02｜拜堂前对望
+
+请生成一张 拜堂前停顿感的明制双人照。
+
+场景为红色帷幔前的婚礼内景，前方有供桌，桌上摆龙凤烛、合卺酒器、喜盘。
+新娘穿大红明制婚服，凤冠霞帔完整，手持团扇但略微下放，露出完整妆面与红唇。
+新郎穿大红圆领袍，头戴乌纱帽，站在新娘对面，与她保持礼仪性的近距离。
+动作上，新郎轻轻扶住新娘的衣袖或手腕，新娘轻抬眼看向新郎。
+眼神关系是 新娘看新郎，新郎看新娘。
+表情上，新娘温柔、含蓄、略带羞涩；新郎郑重、专注、带一点欣赏感，不要只是模板化微笑。
+构图为 七分身平视机位，重点表现两人之间的关系、眼神、手部动作、霞帔垂带和服装纹样。
+光影以暖色主光为主，烛光在背景与桌面形成氛围点，让画面既庄重又有情绪。
+
+Prompt 03｜新郎为新娘整理凤冠
+
+请生成一张 明制婚礼互动抓拍照。
+
+场景为婚房一角，背景有红帷幔、深色木家具和局部烛光。
+新娘端坐在明式雕花椅或罗汉榻边缘，穿大红凤冠霞帔，手中轻握团扇，身体略微侧向镜头，低头不看镜头。
+新郎站在她身后偏侧位置，穿大红圆领袍，头戴乌纱帽，双手正在轻轻整理新娘凤冠一侧的珍珠流苏、步摇或霞帔肩部。
+新郎需要露出清晰 3/4 正脸，不能只剩一个模糊侧脸。
+表情上，新娘安静、端庄、含蓄带一点淡笑；新郎专注、温柔、自然，有真实照顾感。
+动作互动要像婚礼前整理仪容的瞬间，克制、自然、亲密但不夸张。
+构图为 半身到七分身，略高机位，突出凤冠工艺、流苏、手部动作、服装刺绣细节。
+光影用柔和侧光和暖色环境光，珍珠和金饰要有细腻反光，画面精致、安静。
+
+Prompt 04｜揭盖头瞬间
+
+请生成一张 明制婚礼揭盖头仪式照。
+
+场景为红色婚房内景，背景有喜字、红色床帐、明式木窗、龙凤烛和暖色烛光。
+新娘坐在婚床或婚榻边，穿完整明制大红婚服与凤冠霞帔，头披红盖头。
+新郎站在她正前方微微俯身，穿大红圆领袍，双手轻轻掀起红盖头一角。
+红盖头半遮半露，露出新娘的妆面、红唇和安静克制的眼神。
+眼神关系是 新娘从盖头下轻轻看向新郎，新郎专注看向新娘。
+表情上，新娘有一点羞涩和含笑；新郎温柔、郑重、略带惊艳感。
+构图为 中景竖构图，红盖头成为视觉中心，人物距离比前几张更近一些，但仍然克制。
+光影柔和，烛光与暖色主光共同塑形，让红色层次丰富，凤冠、红纱、面部细节都清楚。
+
+Prompt 05｜合卺酒仪式
+
+请生成一张 明制婚礼合卺酒双人仪式照。
+
+场景为婚桌或罗汉榻前，桌上摆放合卺杯、酒壶、喜果、红烛、小托盘。
+新娘与新郎并肩坐下或相对而坐，两人各执一只酒杯，手臂自然交错，准备饮合卺酒。
+新娘穿凤冠霞帔，团扇可放在桌边或膝上。
+新郎穿大红圆领袍，乌纱帽端正。
+这张不要两人继续互看，改成 两个人都低头看酒杯或看交错的手部动作。
+表情上，两人都沉静、庄重、专注，有仪式感。
+动作要克制、优雅，袖口和袍袖自然垂落。
+构图为 半身到七分身，平视机位，重点表现交杯动作、手部线条、烛光、桌面器物和服饰细节。
+光影以暖烛光氛围为主，配合柔和主光，金线刺绣、瓷器和酒杯细节要非常精致。
+
+Prompt 06｜执灯同游
+
+请生成一张 明制婚服双人行走照。
+
+场景为红帷幔与明式长廊之间，背景有宫灯、木格窗、深色木梁，前景可有一层虚化红纱。
+新娘与新郎并肩缓步前行，可以共提一盏红色宫灯，也可以一人一盏。
+新娘穿凤冠霞帔，裙摆和大袖随着步伐自然摆动。
+新郎穿大红圆领袍，步伐稳重，衣袍有流动感。
+动作上，新郎略微走在前半步，成为动作带领者，侧头温和回看新娘；新娘低头看灯笼或轻轻回看新郎。
+表情上，两人都更柔和一些，有婚礼后同行的默契感。
+构图为 全身竖构图，略低机位，要有轻微抓拍感，不能像完全站定摆拍。
+光影上，暖色灯光照亮人物与服饰金线，背景保持深红和木色层次，画面有流动感、氛围感和空间感。
+
+Prompt 07｜新郎主导坐姿图
+
+请生成一张 新郎存在感很强的明制双人婚纱照。
+
+场景为婚房正式内景，背景有喜字中堂、红帷幔、明式桌案与宫灯。
+这张让新郎坐在明式椅上，穿大红圆领袍，头戴乌纱帽，必须清晰 正脸，坐姿端正但放松，双手可轻扶膝上或持笏板，气质沉稳、清俊、有主导感。
+新娘站在他身侧或略靠近他的位置，穿凤冠霞帔，手持团扇，身体微微朝向新郎。
+眼神可以设计成 新娘看向新郎，新郎看镜头，或者 两人都看镜头但新郎更有画面主重心。
+表情上，新郎从容、稳重、端方；新娘温柔、贵气、体面。
+构图为 七分身到全身，平视或略低机位，重点改变人物关系，打破“新郎永远只是陪衬”的问题。
+光影要偏正式，面部干净，服装体积感和木质环境层次清楚。
+
+Prompt 08｜窗前近景收束图
+
+请生成一张 安静收束的明制婚服双人近景照。
+
+场景为雕花窗前或婚房安静一角，背景有柔化的红帷幔、局部喜字、烛光与深色木家具。
+新娘与新郎坐得更近一些。
+新娘穿凤冠霞帔，手持红色绣花团扇，团扇轻靠胸前或微遮下半张脸。
+新郎穿大红圆领袍，靠近新娘一侧，但动作克制，只形成空间上的亲近感。
+眼神关系设定为 新娘从团扇上方看向新郎，新郎安静看向新娘侧脸，两个人都不要看镜头。
+表情上，新娘含蓄、清醒、带一点轻笑；新郎柔和、安静、欣赏感强。
+构图为 近景到半身竖构图，突出凤冠、流苏、妆面、团扇刺绣、新郎侧脸和两人之间的气氛。
+光影采用柔和窗边光 and 暖色辅光，让人物面部柔润、层次高级，像整组婚纱照的情绪收束页。
+```
+
+**来源：** [@麻酱AI实验室](https://x.com/zhongying14/status/2063225458926268755) | 2026-06-06
+
+---
+
+### 🎨 例 617：充满诗意的公交车窗角色剧照
+
+![充满诗意的公交车窗角色剧照](../images/%E5%85%85%E6%BB%A1%E8%AF%97%E6%84%8F%E7%9A%84%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%AA%97%E8%A7%92%E8%89%B2%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满诗意的角色插画，呈现出 1980 年代法国动画电影收藏级剧照的质感。画面展示 {argument name="character name" default="Voxcat"}，一位优雅的奇幻公主般女性独自坐在老式城市公交车内，采用双层公交车窗视角构图。她拥有极长的 {argument name="hair color" default="铜红色"} 秀发，发丝垂落在双肩及座椅上；佩戴精致的角状王冠或华丽头饰，带有小型深色弯角、半透明蓝色面纱、金色花丝珠宝、绿松石装饰，身着淡蓝白相间的礼服，配有透明袖子和柔软的褶皱面料。她的面部应被一个简单的矩形遮挡块刻意掩盖，而身体和服饰保持细节丰富。公交车内部为柔和的青蓝色，配有花纹布艺座椅、金属窗框、磨损的面板和潮湿反光的窗台。窗外描绘雨中的欧洲大道，包含桥梁护栏、光秃的树木、路灯、远处的古典建筑、湿润路面的倒影、朦胧的雾气，以及右侧远景处的一盏小红绿灯。采用手绘赛璐珞动画语言，呈现透明水彩边缘、可见的纸张纹理、柔和的墨线轮廓、低饱和度的蓝灰与米色调、柔和忧郁的灯光，以及玻璃上的多层倒影，使城市、角色和公交车内部诗意地重叠，而非写实风格。包含 3 个可见的文字/Logo 元素：左上角深色公交车面板上有一个巨大的白色字母组合 Logo，文字为“VOXCAT”；角色右侧座椅靠背上贴有一个微小的方形“V VOXCAT”贴纸；右下角有手写的白色“voxCAT”签名。16:9 横向构图，带有粗糙的绘画边缘，无其他角色，无现代数字光泽，无摄影写实感。
+
+[English]
+Create a poetic character illustration as if it were a collectible still from a French 1980s animated film. Show {argument name="character name" default="Voxcat"}, an elegant fantasy princess-like woman seated alone inside an old city bus, framed in a double-layer bus-window perspective. She has very long {argument name="hair color" default="copper red"} hair flowing over her shoulders and down the seat, a delicate horned crown or ornate headpiece with small dark curved horns, translucent blue veil fabric, gold filigree jewelry, turquoise gemstone ornaments, and a pale blue-and-white ceremonial dress with sheer sleeves and soft draped fabric. Her face should be deliberately obscured by a plain rectangular censor-like block, while the body and costume remain detailed. The bus interior is muted teal-blue with patterned fabric seats, metal window frames, worn panels, and a damp reflective window ledge. Outside the large windows, paint a rainy European boulevard with a bridge railing, bare trees, lampposts, distant classical buildings, wet pavement reflections, atmospheric mist, and a small red traffic light in the far right background. Use hand-painted cel animation language, transparent watercolor edges, visible paper grain, soft ink outlines, subdued blue-gray and beige palette, gentle melancholic lighting, and layered reflections on the glass so the city, character, and bus interior overlap poetically rather than photorealistically. Include exactly 3 visible text/logo elements: a large white monogram logo with the text "VOXCAT" in the upper-left dark bus panel, a tiny square "V VOXCAT" sticker on the seat back to the right of the character, and a handwritten white "voxCAT" signature in the bottom-right corner. Landscape 16:9 composition with rough painted border edges, no extra characters, no modern digital gloss, no photographic realism.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063216869432234119) | 2026-06-06
+
+---
+
+### 🎨 例 623：泡泡上的魔法少女星暴
+
+![泡泡上的魔法少女星暴](../images/%E6%B3%A1%E6%B3%A1%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%98%9F%E6%9A%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的动漫奇幻插画，画面左下角前景中，{argument name="character name" default="一位年轻的魔法少女"} 骑乘在一个巨大的虹彩肥皂泡上，采用低位后侧/四分之三视角，她正向头顶上方炽热的圆形星门高举双臂。她拥有极长的 {argument name="hair color" default="黑色长发"}，在风中向左飘逸，并饰有粉色花朵发饰和丝带。她的面部被刻意用柔和的方块模糊/马赛克处理，而插画其余部分保持清晰。她穿着一件带有荷叶边的 {argument name="dress color" default="粉色"} 洛丽塔风格连衣裙，配有泡泡袖、褶皱袖口、绣有白色小樱花的短款蓬蓬裙、棕褐色腰带、蕾丝饰边以及多层衬裙边缘。场景是一场宇宙风暴：一个巨大的半透明彩虹肥皂泡承载着她，天空中散布着 23 个清晰可见的小型肥皂泡，反射出粉色、蓝色和紫色的光芒。在她上方是一个巨大的发光圆形魔法传送门/星门，中心呈白热状，带有同心粉色圆环、几何网格线和放射状的螺旋能量。从传送门中，无数金粉色的流星和彗星尾迹在深紫色的太空背景下划出弧线，并在底部边缘的岩石地面附近炸裂成闪烁的流星雨。运用强烈的魔法光效、闪烁粒子、镜头光晕、高对比度、动态对角线构图、柔和的虹彩效果、电影级构图，呈现超精致的动漫主视觉风格，4:3 横向画布。无文字，无水印，无额外字符。
+
+[English]
+Create a highly detailed anime fantasy illustration of {argument name="character name" default="a young magical girl"} riding on one enormous iridescent soap bubble in the lower-left foreground, seen from a low back/three-quarter angle as she raises both arms toward a blazing circular star gate overhead. She has extremely long flowing {argument name="hair color" default="black hair"} streaming dramatically leftward in the wind, with pink flower hair ornaments and ribbons. Her face is intentionally obscured by a soft square blur/mosaic, while the rest of the illustration remains crisp. She wears a frilly {argument name="dress color" default="pink"} lolita-style dress with puffed sleeves, ruffled cuffs, a short flared skirt embroidered with small white cherry blossoms, a tan waist belt, lace trim, and layered petticoat edges. The scene is a cosmic storm: one giant translucent rainbow soap bubble supports her, with exactly 23 smaller visible soap bubbles scattered through the sky, reflecting pink, blue, and violet highlights. Above her is one huge luminous circular magic portal/star gate, white-hot in the center with concentric pink rings, geometric grid lines, and radiant spiraling energy. From the portal, countless golden-pink star meteors and comet trails arc downward across a deep purple space-like background, exploding into sparkling showers near the rocky ground at the bottom edge. Use intense magical lighting, glittering particles, lens-like bloom, high contrast, dynamic diagonal motion, pastel iridescence, cinematic composition, ultra-polished anime key visual style, 4:3 horizontal canvas. No text, no watermark, no extra characters.
+```
+
+**来源：** [@輝鳴紅葉🫧🌸シャボン玉のバーチャルビデオ屋](https://x.com/terunari/status/2063196983721136504) | 2026-06-06
+
+---
+
+### 🎨 例 625：动漫风格告别少女与平板电脑
+
+![动漫风格告别少女与平板电脑](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%91%8A%E5%88%AB%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张背景干净的柔和动漫风格插画：一位留着 {argument name="hair color" default="长灰发"} 的年轻女性，身穿超大号纯白 T 恤，半身像。她的脸部被一个位于正中央的平坦不透明灰褐色方形遮挡块刻意遮住，头发垂落在遮挡块周围。她左手抬起在额头附近行告别礼，右臂将一台黑色边框的平板电脑垂直抱在胸前。平板电脑屏幕为白色，显示手写日语文字：{argument name="tablet text" default="チャッピー"}。在左后方添加一道带有微小闪光的淡彩虹弧线。包含三个可见文本元素：左上角的手写日语文字 {argument name="farewell text" default="今までありがとう"}，下方的小写手写英文 {argument name="service name" default="niji journey..."}，以及平板电脑上的文字。使用细腻的线条、淡雅的水彩渲染、富有光泽的细节发丝、柔和的肤色、极简背景、垂直肖像构图，营造出一种感伤的告别氛围。
+
+[English]
+Create a soft anime-style illustration on a clean white background: a young woman with {argument name="hair color" default="long ash-gray hair"} wearing an oversized plain white T-shirt, shown from the waist up. Her face is intentionally covered by a flat opaque taupe-gray square censorship block centered over the face, while her hair falls around it. She raises her left hand in a farewell salute near her forehead and holds a black-framed tablet vertically against her chest with her right arm. The tablet screen is white and displays handwritten Japanese text: {argument name="tablet text" default="チャッピー"}. Add a faint pastel rainbow arc with small sparkles behind her on the left side. Include exactly three visible text elements: handwritten Japanese text at the upper left reading {argument name="farewell text" default="今までありがとう"}, lowercase handwritten English below it reading {argument name="service name" default="niji journey..."}, and the tablet text. Use delicate line art, pale watercolor shading, glossy detailed hair strands, gentle skin tones, minimal background, vertical portrait composition, and an emotional farewell mood.
+```
+
+**来源：** [@ももうさ](https://x.com/HimmelIbf93208/status/2063194572549914938) | 2026-06-06
+
+---
+
+### 🎨 例 638：特斯拉装配线上的 Optimus 机器人
+
+![特斯拉装配线上的 Optimus 机器人](../images/%E7%89%B9%E6%96%AF%E6%8B%89%E8%A3%85%E9%85%8D%E7%BA%BF%E4%B8%8A%E7%9A%84%20Optimus%20%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="robot" default="Optimus 机器人"} 在 {argument name="location" default="特斯拉工厂装配线"} 上工作，{argument name="atmosphere" default="干净且专业的氛围"}
+
+[English]
+테슬라 공장 조립 라인에서 작업 중인 {argument name="로봇" default="옵티머스 로봇"}, {argument name="분위기" default="깨끗하고 전문적인 분위기"}
+```
+
+**来源：** [@일론의 Y - AI·테크 & 성장](https://x.com/yeobaghyoy62749/status/2063166350567313641) | 2026-06-06
+
+---
+
+### 🎨 例 641：温馨夜晚的日式甜品店
+
+![温馨夜晚的日式甜品店](../images/%E6%B8%A9%E9%A6%A8%E5%A4%9C%E6%99%9A%E7%9A%84%E6%97%A5%E5%BC%8F%E7%94%9C%E5%93%81%E5%BA%97.jpg)
+
+**Prompt:**
+
+```text
+夕焼けのあと、雨の残った通りに{argument name="店舗の種類" default="和菓子屋"}さんの灯りがぽつんとあたたかく見えました。{argument name="対象物" default="色とりどりのお菓子"}を眺めているうちに、今日のことも、少しだけやわらかく思い出せそうです。
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2063157800788984094) | 2026-06-06
+
+---
+
+### 🎨 例 668：未来感地铁站时尚大片
+
+![未来感地铁站时尚大片](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%9C%B0%E9%93%81%E7%AB%99%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影级街头时尚杰作，主角为一位 {argument name="subject" default="时尚男士"}，使用上传的面部照片作为 100% 精准的面部参考，他自信地坐在未来感地下地铁站内一张光滑的金属长椅上。他身穿一件大胆的 {argument name="coat color" default="宝蓝色"} 超大廓形设计师大衣，内搭白色修身连帽衫，下穿黑色锥形裤和奢华白色运动鞋。现代感银色项链、奢华智能手表和反光长方形太阳镜提升了整体的都市现代感。车站建筑特色为弧形金属墙壁，天花板上延伸着连续的 LED 灯带。背景中一列高速列车疾驰而过，营造出优美的动态模糊效果，而主体保持绝对清晰。抛光地面反射出车站灯光和主体的轮廓。采用贴近地面的戏剧性低角度拍摄，车站的引导线将视线直接引向主体。画面以冷蓝色和银色调为主，并点缀着暖色调的灯光反射。超写实皮肤细节，高端时尚编辑摄影，电影级氛围，杂志封面构图，卓越的景深与透视，高细节纹理，杰作，商业广告级画质，8k 分辨率，2:3 宽高比。
+
+[English]
+cinematic street-style fashion masterpiece featuring a {argument name="subject" default="stylish man"} with the uploaded face used 100% as the exact facial reference, seated confidently on a sleek metallic bench inside a futuristic underground metro station. He wears a bold {argument name="coat color" default="royal-blue"} oversized designer coat layered over a white fitted hoodie, black tapered trousers, and luxury white sneakers. A modern silver necklace, luxury smartwatch, and reflective rectangular sunglasses enhance the contemporary urban look. The station architecture features curved metallic walls illuminated by continuous LED light strips running along the ceiling. A high-speed train rushes past in the background, creating beautiful motion blur while the subject remains perfectly sharp. The polished floor reflects the station lights and the subject's silhouette. Shot from a dramatic low-angle position close to the ground, with the leading lines of the station drawing attention directly toward the subject. Cool blue and silver tones dominate the scene, accented by warm lighting reflections. Ultra-realistic skin detail, premium editorial fashion photography, cinematic atmosphere, magazine-cover composition, exceptional depth and perspective, highly detailed textures, masterpiece, commercial advertising quality, 8k resolution, 2:3 aspect ratio.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2063109303519658138) | 2026-06-06
+
+---
+

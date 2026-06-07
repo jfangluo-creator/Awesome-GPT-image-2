@@ -2252,3 +2252,721 @@ Constraints: keep exactly one central full-color standing woman and exactly five
 
 ---
 
+### 🎴 例 566：新艺术风格奇幻香水海报
+
+![新艺术风格奇幻香水海报](../images/%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E5%A5%87%E5%B9%BB%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版新艺术风格奢华香水广告海报，以 {argument name="character name" default="VoxCat"} 为优雅的奇幻动漫女主角，并将香水瓶作为前景视觉焦点。
+
+画布：高竖版海报，2:3 纵横比，高度精细的高级包装插画，全出血构图，带有细黑色外边框和华丽的金属金内框。
+
+布局：角色居中，从上半身到臀部，身体略微向右倾斜，手臂向观众伸出。香水瓶必须占据左下角前景并营造强烈的景深感，使其看起来比身后的躯干大得多。在角色面部区域放置一个大的纯米色正方形，仿佛面部被刻意遮挡。左上角放置一个华丽的字母组合徽章，右下角放置一个空白的装饰性产品标签牌。
+
+主体细节：一位动漫风格的奇幻女性角色，留着飘逸的 {argument name="hair color" default="浅金色"} 长发，发丝随风飘动，皮肤柔和透亮，身穿白金相间的定制盔甲礼服，配有宝石装饰和层叠的半透明织物。她可见的手将香水瓶靠近镜头，手指和光泽指甲刻画精细。添加 6 朵大白百合：3 朵插在头部上方的头发中，1 朵在左下角，2 朵装饰在右下角的标签牌上。添加紫色花朵和深绿色叶子作为边框周围的辅助植物装饰。
+
+香水瓶：前景中有一个圆形的刻面玻璃香水瓶，瓶内装有 {argument name="perfume color" default="虹彩薰衣草金液体"}。瓶盖为大型水晶球，配有金色雕刻瓶盖，瓶身饰有华丽的金色花丝。中央奖章展示了一个小的金色猫咪剪影，周围环绕着月桂枝，底部镶嵌一颗蓝色小宝石。运用玻璃折射、蚀刻细节、明亮的闪光以及商业产品摄影的高光效果。
+
+装饰包装风格：深祖母绿、午夜紫和古金色调；宝石色调背景，角色身后有圆形光环几何图形；漩涡藤蔓线条、金色花丝、细弧线、星星、宝石和植物图案。整体感觉应融合收藏级限量版香水盒与新艺术海报风格。
+
+文字与标记：左上角的徽章包含一个大的金色字母 {argument name="monogram letter" default="V"}，置于心形藤蔓框架内，并悬挂着一颗紫色宝石。右下角的标签牌为深紫色天鹅绒材质，带有华丽的金色饰边，大部分空间留白以便添加文案；在底部附近添加细空白金线，并在右下角添加一个小的手写品牌签名 {argument name="brand signature" default="voxCat"}。
+
+约束条件：仅使用 1 个角色、1 个香水瓶、1 个左上角字母徽章、1 个右下角空白标签牌和 6 朵大白百合。保持面部被纯米色正方形遮挡。除字母组合和品牌签名外，不得有其他可读文字。使图像精致、复杂、明亮且高端，如同奇幻角色艺术与奢华香水包装的融合。
+
+[English]
+Goal: Create a vertical Art Nouveau luxury perfume advertisement poster featuring {argument name="character name" default="VoxCat"} as an elegant fantasy anime heroine presenting a perfume bottle as the main foreground visual anchor.
+
+Canvas: Tall portrait poster, 2:3 aspect ratio, highly detailed premium packaging illustration, full-bleed composition with a thin black outer border and ornate metallic gold inner frame.
+
+Layout: Center the character from upper torso to hips, angled slightly right, with her arm extended toward the viewer. The perfume bottle must dominate the lower-left foreground and create strong depth of field, appearing much larger than the torso behind it. Place a large plain beige square over the character's face, centered on the face area, as if the face is intentionally blocked. Put one ornate monogram crest in the upper-left corner and one empty decorative product-label plaque in the lower-right corner.
+
+Subject details: One anime-style female fantasy character with long flowing {argument name="hair color" default="pale blonde"} hair, wind-swept strands, soft luminous skin, and a white-and-gold armored couture dress with gemstone accents and layered translucent fabric. Her visible hand holds the bottle close to the camera, with carefully drawn fingers and glossy nails. Add exactly 6 large white lilies: 3 lilies tucked into her hair near the upper head, 1 lily in the bottom-left corner, and 2 lilies decorating the lower-right label plaque. Add purple flowers and dark green leaves as secondary botanical decoration around the border.
+
+Perfume bottle: One round faceted glass perfume bottle in the foreground, filled with {argument name="perfume color" default="iridescent lavender-gold liquid"}. It has a large crystal sphere stopper, a gold engraved cap, and ornate gold filigree on the bottle face. The central medallion shows a small gold cat silhouette framed by laurel branches and a small blue gemstone at the bottom. Use glass refraction, etched details, bright sparkles, and commercial product-photography highlights.
+
+Decorative packaging style: Deep emerald, midnight purple, and antique gold palette; jewel-tone background with circular halo geometry behind the character; swirling vine lines, gold filigree, thin arcs, stars, gemstones, and botanical motifs. The overall feel should be a collectible limited-edition perfume box mixed with a New Art poster.
+
+Text and marks: Upper-left crest contains a large gold letter {argument name="monogram letter" default="V"} inside a heart-shaped vine frame with a dangling purple gemstone. Lower-right plaque is dark purple velvet with ornate gold trim and mostly empty space for copy; add thin blank gold lines near the bottom and a small handwritten brand signature reading {argument name="brand signature" default="voxCat"} in the lower-right corner.
+
+Constraints: Use exactly 1 character, 1 perfume bottle, 1 upper-left monogram crest, 1 lower-right blank plaque, and 6 large white lilies. Keep the face covered by the plain beige square. No extra readable text besides the monogram letter and brand signature. Make the image polished, intricate, luminous, and high-end, like fantasy character art fused with luxury fragrance packaging.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063313095184040230) | 2026-06-06
+
+---
+
+### 🎴 例 567：3D 笔记本环球旅行海报
+
+![3D 笔记本环球旅行海报](../images/3D%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%8E%AF%E7%90%83%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一场超写实的高端旅行艺术宣传活动，标题为："{argument name="title" default="笔记本里的国家"}"。重要提示：请勿创作普通的旅行海报。请勿创作微缩城市。请勿创作地图。相反，要营造出整个国家从 {argument name="medium" default="旅行者速写本"} 的页面中浮现出来的感觉。核心概念：一本打开的手工日志放在一张大型木桌上。页面仿佛拥有了生命。著名的地标建筑直接从纸面上升起，化作三维世界。绘画与现实之间的界限变得难以分辨。有些建筑仍是铅笔草图，另一些则过渡为完全成型的建筑。道路从墨线中流淌而出，河流从水彩颜料中涌现，森林从笔触中生长。这个国家仿佛正在自我构建。世界设计：每个地标都应具有手工质感。不要做成微缩玩具风格，而应呈现：建筑模型般的写实感。博物馆展览级品质。部分结构：已完全建成、部分处于草图阶段、仍在绘制中、或正从蓝图线条中浮现。图像应经得起细看，处处皆是微小细节。人物比例：数百名微小的探险者穿梭在页面之间。人物：正在拍照、写生风景、骑自行车、坐在咖啡馆里、探索市场、穿过桥梁。每一个微小的人物都应讲述一个故事。视觉细节：包含手写的旅行笔记、撕下的票根、护照印章、咖啡渍、指南针绘图、路线标记、压花、旧明信片、铅笔批注。一切都应给人一种多年旅行收集而来的感觉。光影：温暖的午后阳光从附近的窗户射入。笔记本页面上投下长长的阴影。建筑上有金色的高光。空气中可见尘埃微粒。博物馆般的氛围。调色板：温暖的羊皮纸色、奶油纸色、柔和的石墨色、水彩色调的蓝色、赤陶色、森林绿、金色阳光、柔和的旅行日志色调。摄像机：高角度四分之三视角。观众既能看到笔记本本身，也能看到从中浮现出的整个微缩世界。大尺度景深。微距摄影的写实感。微妙的移轴效果。高端旅行广告品质。风格融合：奢华旅游宣传、建筑概念艺术、手工速写本、国家地理式叙事、高端编辑摄影。最终感受：最终图像应给人一种整个国家都是通过记忆、草图和冒险，在单一笔记本中被精心重构的感觉。观众会想要放大画面，花上几分钟去发现隐藏在世界各处的微小故事。
+
+[English]
+Create a hyper-realistic premium travel-art campaign titled: "{argument name="title" default="A COUNTRY IN A NOTEBOOK"}." IMPORTANT: Do NOT create a normal travel poster. Do NOT create a miniature city. Do NOT create a map. Instead, create the feeling that an entire country is emerging from the pages of a {argument name="medium" default="traveler's sketchbook"}. CORE CONCEPT An open handmade journal rests on a large wooden desk. The pages appear alive. Famous locations rise directly from the paper as three-dimensional worlds. The boundaries between drawing and reality become impossible to distinguish. Some buildings remain pencil sketches. Others transition into fully realized architecture. Roads flow out of ink lines. Rivers emerge from watercolor paint. Forests grow from brushstrokes. The country appears to be building itself. WORLD DESIGN Every landmark should feel handcrafted. Not miniature toy-like. Instead: architectural-maquette realism. Museum exhibition quality. Some structures are: fully completed, partially sketched, still being painted, emerging from blueprint lines. The image should reward close inspection. Tiny details everywhere. HUMAN SCALE Hundreds of tiny explorers travel through the pages. People: taking photographs, sketching landscapes, riding bicycles, sitting in cafés, exploring markets, crossing bridges. Each tiny figure should tell a story. VISUAL DETAILS Include: handwritten travel notes, torn ticket stubs, passport stamps, coffee rings, compass drawings, route markings, pressed flowers, old postcards, penciled annotations. Everything should feel collected during years of travel. LIGHTING Warm late-afternoon sunlight entering through a nearby window. Long shadows across notebook pages. Golden highlights on architecture. Dust particles visible in the air. Museum-like atmosphere. COLOR PALETTE Warm parchment, Cream paper, Soft graphite, Watercolor blues, Terracotta, Forest green, Golden sunlight, Muted travel-journal tones. CAMERA High-angle three-quarter perspective. The viewer sees both: the notebook itself, the entire miniature world emerging from it. Large-scale depth. Macro-photography realism. Tilt-shift subtlety. Premium travel-advertisement quality. STYLE Blend: luxury tourism campaigns, architectural concept art, handmade sketchbooks, National Geographic storytelling, premium editorial photography. FINAL FEELING The final image should feel like an entire country was lovingly reconstructed from memories, sketches, and adventures inside a single notebook. Viewers should want to zoom in for several minutes discovering tiny stories hidden throughout the world.
+```
+
+**来源：** [@Hemayxn.ai](https://x.com/hemayxn/status/2063310993577631887) | 2026-06-06
+
+---
+
+### 🎴 例 574：黑色时尚拼贴海报
+
+![黑色时尚拼贴海报](../images/%E9%BB%91%E8%89%B2%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张大胆的女性时尚编辑拼贴海报，画面中一位女性模特以多个黑白肖像的形式重复出现，配以撕裂的纸条、装订的杂志碎片、彩色点缀块、超大号压缩字体，呈现奢华的黑色风格，{argument name="outfit style" default="[OUTFIT STYLE]"}，{argument name="collage shapes" default="[COLLAGE SHAPE SYSTEM]"}，高对比度编辑排版，比例 4:3。
+
+[English]
+Create a bold women’s fashion editorial collage poster with one female model repeated across multiple black-and-white portraits, torn paper strips, stapled magazine scraps, colorful accent blocks, oversized condensed typography, luxury noir styling, {argument name="outfit style" default="[OUTFIT STYLE]"}, {argument name="collage shapes" default="[COLLAGE SHAPE SYSTEM]"}, high-contrast editorial layout, 4:3.
+```
+
+**来源：** [@GPT Imagine](https://x.com/gpt_image_2/status/2063292802939908444) | 2026-06-06
+
+---
+
+### 🎴 例 582：复古诺曼底登陆 D-Day 海报
+
+![复古诺曼底登陆 D-Day 海报](../images/%E5%A4%8D%E5%8F%A4%E8%AF%BA%E6%9B%BC%E5%BA%95%E7%99%BB%E9%99%86%20D-Day%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具张力的二战复古纪念海报，主题为 {argument name="headline text" default="D-DAY"}，展示 {argument name="date line" default="1944 年 6 月 6 日"} 的诺曼底盟军登陆行动。
+
+画布：横向 4:3 海报，采用陈旧羊皮纸背景，色调包含深褐色、炭灰色、橄榄绿、海军蓝墨水色，并带有风化纸张纹理。采用粗粝的写实插画风格，融合历史战争杂志封面与手绘军事海报的质感。
+
+布局：在左侧前景放置一名占据主导地位的美国步兵，取景范围从腰部到膝盖，正冲过浅滩向观众方向冲锋。他的面部被一个位于脸部中央的纯深褐色方形遮挡块刻意遮盖。在右上角以巨大的深海军蓝衬线大写字母排布标题“D-DAY”。在其下方添加一条细水平线，中间带有一颗小星，随后是压缩格式的大写副标题“ALLIED INVASION OF NORMANDY, JUNE 6, 1944”。
+
+主体细节：前景士兵身穿湿透的橄榄绿制服，佩戴网罩 M1 头盔，背负织带、弹药包和背包带，右肩上方贴有美国国旗臂章。他斜向下握着一把长步枪。衣物需表现出浸湿、泥泞的状态，并带有反光效果，腿部周围有海水飞溅。背景展示诺曼底海滩登陆场景：左侧和中远景处有 2 艘开启跳板的登陆艇，海滩和水中可见 14 名步兵，烟雾缭绕的天空中可见 7 架飞机的剪影，海岸线附近有 3 处巨大的爆炸烟柱，右侧前景有 2 个捷克刺猬型反坦克障碍物。
+
+环境：汹涌的灰色海浪、海滩障碍物、远处的悬崖与防御工事、烟柱、炮火爆炸以及混乱的战场烟雾。画面应呈现出英雄主义、庄重感和历史纪实感，而非浮夸的风格。
+
+文本内容：使用 {argument name="headline text" default="D-DAY"} 作为主标题，使用“ALLIED INVASION OF NORMANDY, {argument name="date line" default="JUNE 6, 1944"}”作为副标题。字体需保持做旧、墨迹磨损的效果，并与陈旧的海报纹理融为一体。
+
+约束条件：禁止出现现代物品，禁止使用干净的数字光泽，禁止添加额外文本、水印或 Logo，禁止血腥内容，且必须确保士兵面部被棕色方块完全遮挡。
+
+[English]
+Goal: Create a dramatic vintage World War II commemorative poster for {argument name="headline text" default="D-DAY"}, showing the Allied invasion of Normandy on {argument name="date line" default="June 6, 1944"}.
+
+Canvas: Landscape 4:3 poster, aged parchment background with sepia, charcoal, olive drab, navy ink, and weathered paper texture. Use a gritty illustrated realism style, like a historical war magazine cover mixed with a hand-painted military poster.
+
+Layout: Place one dominant U.S. infantry soldier in the left foreground, waist-up to knees, charging through shallow surf toward the viewer. His face is deliberately hidden by one flat opaque dark-brown square censor block centered over the face. Put the large headline “D-DAY” across the upper right in huge dark navy serif capital letters. Beneath it, add a thin horizontal rule with a small centered star, then the subtitle “ALLIED INVASION OF NORMANDY, JUNE 6, 1944” in condensed uppercase lettering.
+
+Subject details: The foreground soldier wears a wet olive drab uniform, netted M1 helmet, webbing straps, ammunition pouches, backpack straps, and a U.S. flag patch on his upper right sleeve. He grips a long rifle diagonally downward across his body. Make his clothing soaked, muddy, and reflective with splashes of seawater around his legs. The background shows a Normandy beach landing: exactly 2 landing craft with open ramps on the left and middle distance, exactly 14 visible infantry figures moving through the water and across the beach, exactly 7 aircraft silhouettes in the smoky sky, exactly 3 large explosion plumes near the shoreline, and exactly 2 Czech hedgehog anti-tank obstacles in the right foreground.
+
+Environment: Rough gray surf, beach obstacles, distant cliffs and fortifications, smoke columns, artillery bursts, and chaotic battlefield haze. The scene should feel heroic, somber, and historically documentary rather than glamorous.
+
+Text content: Use {argument name="headline text" default="D-DAY"} as the main title and “ALLIED INVASION OF NORMANDY, {argument name="date line" default="JUNE 6, 1944"}” as the subtitle. Keep the typography distressed, ink-worn, and integrated into the aged poster texture.
+
+Constraints: No modern objects, no clean digital gloss, no extra text, no watermark, no logos, no gore, and keep the soldier’s face fully obscured by the brown square.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063276829864267845) | 2026-06-06
+
+---
+
+### 🎴 例 599：编辑类杂志封面人像
+
+![编辑类杂志封面人像](../images/%E7%BC%96%E8%BE%91%E7%B1%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超奢华编辑类杂志封面，精致的 {argument name="subject" default="年轻的远见者"} 坐在 {argument name="chair style" default="雕塑感黑色皮质休闲椅"} 上，姿态放松而又不失威严，目光柔和且自信，富有质感的卷发，穿着剪裁考究的 {argument name="outfit" default="廓形黑色西装"}，极简时尚美学，现代创意总监气质。温暖的米色单色背景，构图中融入宏大的排版设计，精致的留白，形式与建筑的优雅平衡，高端设计杂志风格。电影级摄影棚灯光，柔和的定向阳光投下细腻阴影，丰富的皮肤纹理，照片级真实细节，奢华品牌美学，高端时尚广告大片质感，柔和的大地色调，斯堪的纳维亚极简主义与当代艺术指导的碰撞，Vogue 级构图，超简洁的排版布局，空间感，真实感，微妙的对比度，85mm 镜头，浅景深，编辑类杰作，屡获殊荣的创意指导，8K 超精细画质，永恒的精致感。
+
+[English]
+Ultra-luxury editorial magazine cover, sophisticated {argument name="subject" default="young visionary"} seated in a {argument name="chair style" default="sculptural black leather lounge chair"}, relaxed yet commanding presence, soft confident gaze, textured curly hair, tailored {argument name="outfit" default="oversized black suit"}, minimalist fashion aesthetic, modern creative director energy. Warm beige monochrome backdrop with monumental typography integrated into composition, refined negative space, elegant balance of form and architecture, premium design magazine styling. Cinematic studio lighting, soft directional sunlight casting gentle shadows, rich skin texture, photorealistic details, luxury branding aesthetic, high-end fashion campaign quality, muted earth-tone palette, Scandinavian minimalism meets contemporary art direction, Vogue-level composition, ultra-clean typography placement, depth, realism, subtle contrast, 85mm lens, shallow depth of field, editorial masterpiece, award-winning creative direction, 8K ultra-detailed, timeless sophistication.
+```
+
+**来源：** [@WeWant Mars](https://x.com/Madhuribhai/status/2063245693993804161) | 2026-06-06
+
+---
+
+### 🎴 例 616：专业设计师产品广告重构
+
+![专业设计师产品广告重构](../images/%E4%B8%93%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以专业设计师的视角重新构思 {argument name="subject" default="此产品广告"}。运用精致且现代的布局，使其符合当前的视觉趋势，并能直接触达目标受众。
+
+[English]
+Reimagine {argument name="subject" default="this product ad"} through the eyes of a professional designer. Apply a refined, contemporary layout that resonates with current visual trends and speaks directly to the target audience.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063217132704575699) | 2026-06-06
+
+---
+
+### 🎴 例 626：中式烧烤美食标注海报
+
+![中式烧烤美食标注海报](../images/%E4%B8%AD%E5%BC%8F%E7%83%A7%E7%83%A4%E7%BE%8E%E9%A3%9F%E6%A0%87%E6%B3%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版社交媒体美食探店海报，将随手拍摄的餐厅餐桌照片转化为 Instagram 风格的烧烤盛宴封面，并添加俏皮的手绘马克笔中式标注和箭头。
+
+画布：1:1 正方形图像，温暖的室内餐厅灯光，俯拍四分之三角度特写。背景为深色木质餐桌，后方有轻微虚化的椅子和墙壁。使用浓郁的棕色、橙色和金色调，高对比度，呈现食物的油亮光泽和浅景深效果。
+
+主要布局：构图中心为长方形金属烤盘，盘中盛满烤串和烤物，从左下角向右上角倾斜。烤盘后方放置一个黑色小把手锅，内盛香辣牛肉锅。底部边缘部分展示酱料碟和小菜，并进行裁切。顶部留出深色留白，用于放置醒目的手写标题文字。
+
+食物元素计数：展示 7 组明显的食物：后方中心 1 个黑色把手的香辣牛肉锅，左侧 1 块大型烤鱼片或类似烤馍片的食物，右侧 1 组细长的烤串，中心前方 1 组黄色菠萝块，右下角 1 组红油辣椒肉串，底部边缘 1 套小型蘸料碟，以及右下角 1 个部分裁切的烤菜或烤串盘。底部展示 4 个清晰可见的小酱料碟：一个红油辣椒酱，一个亮橙色酱，一个绿色葱花或香草酱，以及一个小份浅色豆腐或配菜碟。
+
+手绘图形叠加：添加白色、黄色、粉色和橙色的彩色涂鸦，如同用马克笔绘制一般。包含 8 组标注：左上角 1 个大标题，右上角 1 个粉色对话框徽章，指向牛肉锅的 1 个箭头标签，指向左侧烤馍/鱼片的 1 个箭头标签，指向右侧烤串拼盘的 1 个箭头标签，左下角 1 个关于小菜的标签，右下角 1 个关于酥脆烤串的标签，以及标题下方的 1 条装饰性下划线。在文字周围添加小星星、爱心、闪光、弯曲箭头和涂鸦装饰。
+
+文字内容：使用粗体手写风格的大字号中式标题：{argument name="headline text" default="今天也要 开心心干饭呀!"}。在右上角放置一个粉色轮廓的对话框，内含徽章文字 {argument name="badge text" default="聚会首选 氛围感拉满~"}。在锅上方添加标签 {argument name="pot label" default="香辣过瘾 牛肉锅~"}。在左侧添加标签 {argument name="roasted item label" default="烤馍片 焦香酥脆~"}。在右侧添加标签 {argument name="skewer label" default="烤串拼盘 种类超丰富!"}。其他小标签应呈现为随意的中式美食探店风格，但保持次要地位，不要喧宾夺主。
+
+视觉风格：写实的美食摄影与手绘编辑涂鸦相结合，呈现出潮流中式餐厅推荐帖的质感。食物应看起来新鲜出炉，带有油光、芝麻、辣椒粉、焦痕和温暖的蒸汽感。字体必须呈现出手写感，不完美、充满活力且可爱，而非规整的数字字体。
+
+约束条件：画面中不得出现人物、品牌 Logo、水印或额外的 UI 边框。保持食物的真实感和标注的可读性，标题应为画面中最大的文字元素。
+
+[English]
+Goal: Create a vertical social-media food review poster that turns a casual restaurant table photo into an Instagram-style barbecue feast cover, with playful hand-drawn Chinese marker annotations and arrows.
+
+Canvas: Square 1:1 image, warm indoor restaurant lighting, close-up overhead three-quarter angle. The background is a dark wooden table with a softly blurred chair and wall behind it. Use a rich brown, orange, and golden color palette with high contrast, glossy food highlights, and shallow depth of field.
+
+Main layout: Center the composition on a rectangular metal grill tray filled with skewers and roasted items, angled from lower left to upper right. Behind the tray, place a small black handled pot filled with spicy beef stew. At the bottom edge, partially show sauce dishes and side dishes cropped by the frame. Leave dark negative space at the top for large handwritten title text.
+
+Counted food elements: Show exactly 7 prominent food groups: 1 black handled pot of spicy beef stew at the back center, 1 large roasted fish fillet or grilled flatbread-like item across the left side of the tray, 1 cluster of thin grilled skewers extending to the right, 1 group of yellow pineapple chunks near the center front, 1 group of red chili-covered meat skewers at the lower right, 1 set of small dipping sauce bowls along the bottom edge, and 1 partially cropped grilled dish or skewer plate at the bottom right. Show exactly 4 visible small sauce bowls at the bottom: one red chili oil sauce, one bright orange sauce, one green chopped scallion or herb sauce, and one small pale tofu or garnish bowl.
+
+Handwritten graphic overlays: Add colorful doodles in white, yellow, pink, and orange, as if drawn with paint markers. Include exactly 8 annotation clusters: 1 large headline at the top left, 1 pink speech-bubble badge at the top right, 1 arrow label pointing to the beef pot, 1 arrow label pointing to the roasted chips/fish on the left, 1 arrow label pointing to the skewer platter on the right, 1 label near the bottom left for small side dishes, 1 label near the lower right for crispy skewers, and 1 decorative underline beneath the headline. Add small stars, hearts, sparkles, curved arrows, and scribble accents around the text.
+
+Text content: Use a big playful Chinese headline in thick hand lettering: {argument name="headline text" default="今天也要 开心心干饭呀!"}. Put a pink outlined speech bubble at the top right with the badge text {argument name="badge text" default="聚会首选 氛围感拉满~"}. Add a label above the pot reading {argument name="pot label" default="香辣过瘾 牛肉锅~"}. Add a left label reading {argument name="roasted item label" default="烤馍片 焦香酥脆~"}. Add a right label reading {argument name="skewer label" default="烤串拼盘 种类超丰富!"}. Other small labels should be rendered as casual Chinese-style food review callouts, but keep them secondary and less dominant.
+
+Visual style: Photorealistic appetizing food photography combined with hand-drawn editorial doodles, like a trendy Chinese restaurant recommendation post. Food should look freshly grilled with oil sheen, sesame, chili flakes, char marks, and steam-like warmth. The typography must feel hand-lettered, imperfect, energetic, and cute, not like a clean digital font.
+
+Constraints: No people, no brand logos, no watermark, no extra UI frame. Keep the food realistic and the annotations legible, with the headline as the largest text element.
+```
+
+**来源：** [@自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu/status/2063194202591375469) | 2026-06-06
+
+---
+
+### 🎴 例 629：中国古代宫廷香水广告
+
+![中国古代宫廷香水广告](../images/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AE%AB%E5%BB%B7%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以传奇舞者 {argument name="inspiration" default="赵飞燕"} 为灵感的中国古代宫廷香水广告。一个饰有错金缠枝莲纹的 {argument name="object" default="青铜瓶"}。神秘、清冷且令人着迷的后宫氛围。竖版人像构图，9:16 比例。
+
+[English]
+Ancient Chinese palace perfume advertisement inspired by the legendary dancer {argument name="inspiration" default="Zhao Feiyan"}. A {argument name="object" default="bronze bottle"} with gold-inlaid twisting lotus vines. Mysterious, cold, and haunting imperial harem atmosphere. Vertical portrait format, 9:16 ratio.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063187221730185227) | 2026-06-06
+
+---
+
+### 🎴 例 634：赛博奇幻“堕落机甲天使”海报
+
+![赛博奇幻“堕落机甲天使”海报](../images/%E8%B5%9B%E5%8D%9A%E5%A5%87%E5%B9%BB%E2%80%9C%E5%A0%95%E8%90%BD%E6%9C%BA%E7%94%B2%E5%A4%A9%E4%BD%BF%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的竖版海报，采用现代“{argument name="poster style" default="国际刑警分析报告"}”风格，设计成一份融合了暗黑赛博奇幻时尚大片视觉效果的绝密国际情报调查文档。整体氛围必须冷峻、神秘、高级、具有电影感且带有一丝神圣气息，结合高级国际刑警档案、生物特征分析表、天界逃犯追踪系统以及未来派法医图形的视觉语言。主体为“{argument name="character description" default="一位堕落机甲天使，留着飘逸的银白色长发并编成复杂的辫子，长着尖尖的精灵耳，双眼闪烁着冰蓝色光芒，手持一把极其精致的金色龙首新月镰刀，武器上覆盖着发光的符文和冰霜"}”。她身披奢华的深红色天鹅绒皮草斗篷，内衬饰有神圣雕刻的复杂银金双色生物机械盔甲。海报必须包含逼真的识别元素，如个人资料分析布局、面部识别标记、序列号、条形码系统、调查笔记、安全印章、机密标记、数字扫描叠加层、指纹区域、坐标图形，以及类似于高级天界犯罪数据库文件的分层文档纹理。添加现代装饰元素、冰蓝色霓虹灯点缀、金色龙纹以及未来派 UI 元素，在不使构图过于拥挤的前提下强化堕落机甲美学。展现主体动态、优雅且极具情感张力的姿态，并呈现不同的面部角度——切勿僵硬或与参考图雷同。她的表情必须生动、冷峻、高贵、忧郁而又充满反抗，宛如一位拥抱寒冬与风暴的远古堕落炽天使。使用电影级的戏剧性光效，包含强烈的体积光、飘落的雪花、冰晶颗粒、逼真的阴影以及高细节渲染。色调应以“{argument name="colors" default="深红、冰蓝、银、金及暗黑哥特色调"}”为主。海报中的排版必须大胆、具有未来感且优雅，将简洁的科技字体与哥特式衬线元素相结合。每一个文本元素都应显得经过精心设计、神秘且视觉冲击力强。最终视觉效果应呈现为一份堕落冰霜炽天使的奢华机密档案，并融合高端暗黑奇幻时尚大片风格。超高细节、高度润色、视觉动态感强、专业级构图，以超清晰 8K 分辨率渲染。
+
+[English]
+Create a high-quality vertical poster in a modern “{argument name="poster style" default="Interpol Wanted Analysis"}” style, designed as a classified international intelligence investigation document mixed with dark cyber-fantasy fashion editorial visuals. The overall atmosphere must feel cold, mysterious, premium, cinematic and slightly divine, combining the visual language of high-level Interpol files, biometric analysis sheets, celestial fugitive tracking systems, and futuristic forensic graphics. The subject is a {argument name="character description" default="Mechfallen Angel with long flowing silver-white hair in intricate braids, pointed elf ears, glowing ice-blue eyes, and an extremely detailed golden dragon-headed crescent scythe weapon covered in glowing runes and ice"}. She wears luxurious dark red velvet and fur cape over intricate silver and gold biomechanical armor with sacred engravings. The poster must include realistic identification elements such as profile analysis layouts, facial recognition markers, serial numbers, barcode systems, investigation notes, security stamps, confidential markings, digital scanning overlays, fingerprint sections, coordinate graphics, and layered document textures resembling advanced celestial criminal database files. Add modern decorative ornaments, icy blue neon accents, golden dragon motifs, and futuristic UI elements that strengthen the Mechfallen aesthetic without overcrowding the composition. Show the subject in dynamic, elegant and emotionally powerful poses with different face angles — never stiff or identical to the reference. Her expression must feel alive, cold, regal, melancholic yet defiant, like an ancient fallen seraph who has embraced winter and storm. Use cinematic dramatic lighting with strong volumetric god rays, falling snow, icy particles, realistic shadows, and high-detail rendering. The color palette should be dominated by {argument name="colors" default="deep reds, icy blues, silver, gold, and dark gothic tones"}. Typography across the poster must be bold, futuristic, and elegant, mixing clean technical fonts with gothic serif elements. Every text element should feel intentionally designed, mysterious, and visually striking. The final visual must feel like a luxury classified dossier of a fallen ice seraph mixed with a high-end dark fantasy fashion campaign poster. Ultra-detailed, highly polished, visually dynamic, professional-grade composition, rendered in ultra-sharp 8K resolution.
+```
+
+**来源：** [@EbonWraith](https://x.com/Skylme/status/2063176748427100329) | 2026-06-06
+
+---
+
+### 🎴 例 635：儿童益智玩具广告海报
+
+![儿童益智玩具广告海报](../images/%E5%84%BF%E7%AB%A5%E7%9B%8A%E6%99%BA%E7%8E%A9%E5%85%B7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张明亮的儿童益智广告海报。一位 {argument name="child subject" default="戴着大圆眼镜、6 岁的好奇小女孩"} 盘腿坐在地板上，身旁是一个 {argument name="toy description" default="比她高 3 倍的巨型彩色拼图盒"}，拼图块飞出并组成世界地图图案，盒顶用明亮醒目的字体写着 "{argument name="brand name" default="THINKPLAY"}"。背景是明亮阳光的儿童游戏室，漂浮着拼图块、书籍和地球仪。背景中填充着明亮蓝色和橙色的粗体友好圆润字体 "THINKPLAY"。底部标语："Smart fun for curious minds."（寓教于乐，启迪智慧。）右上角小字写着 "Designed with GPT Image 2"（灰色）。照片级真实感，儿童益智产品商业广告，明亮欢快的游戏室灯光。
+
+[English]
+A bright educational kids advertisement poster. A {argument name="subject" default="curious young girl age 6 with big round glasses"} sits cross legged on the floor beside a giant colorful puzzle box 3x her height with pieces flying out forming a world map design, "{argument name="brand name" default="THINKPLAY"}" written in bright bold font on the box top. Bright sunny playroom background with floating puzzle pieces books and globe. Bold friendly rounded typography "THINKPLAY" in bright blue and orange filling the background. Tagline bottom: "{argument name="tagline" default="Smart fun for curious minds."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, educational kids product commercial, bright cheerful playroom lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2063174712994463946) | 2026-06-06
+
+---
+
+### 🎴 例 637：创意视觉隐喻模板
+
+![创意视觉隐喻模板](../images/%E5%88%9B%E6%84%8F%E8%A7%86%E8%A7%89%E9%9A%90%E5%96%BB%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="主体" default="少女"}为核心。 创造一个前所未见的视觉概念。 主体突破现实尺度与物理规则。 采用国际广告大奖级创意思维。 强调视觉隐喻、尺度反差、空间错觉与故事表达。 构图简洁但极具记忆点。 兼具艺术性、商业传播性与视觉冲击力。 令人过目难忘。 超高创意，超高审美。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2063170319079420414) | 2026-06-06
+
+---
+
+### 🎴 例 640：变形 3D 时尚模特广告牌
+
+![变形 3D 时尚模特广告牌](../images/%E5%8F%98%E5%BD%A2%203D%20%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9%E5%B9%BF%E5%91%8A%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+参照画像をベースに、街並み・ビル形状・カメラアングル・大型ビジョンの位置関係を活かした、フォトリアルでシネマティックな夜の都会シーンにする。大型ビジョンは平面ではなく、ビル角の丸いR部分まで90度に回り込む湾曲型の巨大LEDビジョン。LED発光、ピクセル感、反射をリアルに表現。
+
+ビジョン内は夜景ではなく、白・ライトグレー・淡いゴールドの明るい高級ファッション広告スタジオ背景。そこから{argument name="モデル" default="22歳の美しい成人女性"}ファッションモデルがバストアップのみで現実へ飛び出す。見えるのは顔・肩・胸元・片腕・片手のみで、腰・脚・足・下半身は描かない。{argument name="衣装" default="赤い高級デザイナーズ衣装"}、サテンやシルクの質感、洗練されたメイク、長い髪、堂々とした表情。
+
+片手を鑑賞者へ伸ばし、アナモルフィック3D広告のような奥行き、影、反射を表現。濡れた道路にネオンと大型ビジョンの光が反射し、通行人が小さく見上げている。文字・ロゴなし、顔や手指の崩れなし。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2063161687453372697) | 2026-06-06
+
+---
+
+### 🎴 例 643：包豪斯风格时尚海报
+
+![包豪斯风格时尚海报](../images/%E5%8C%85%E8%B1%AA%E6%96%AF%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+根据{argument name="主题" default="几何时装"}自动生成一张收藏版几何时装海报：人物作为画面主视觉，站在由红黄蓝几何结构组成的极简棚拍空间中。整体融合包豪斯舞台设计、时装杂志大片、几何装置艺术和高端品牌视觉。画面要有清晰版式、克制留白、高对比主色、纸板模型质感、手工涂装表面、轻微投影和干净棚拍光。人物、服装、背景几何体必须形成统一视觉系统，不要像普通背景拼接，不要廉价舞台，不要杂乱元素。自然加入精致低调签名“voxcat”，像海报作者落款。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063157386001760728) | 2026-06-06
+
+---
+
+### 🎴 例 660：高端智能手机广告海报
+
+![高端智能手机广告海报](../images/%E9%AB%98%E7%AB%AF%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端智能手机广告海报，主角为 {argument name="model" default="时尚年轻女模特"}，姿态清新自信，表情充满魅力。现代潮流穿搭，叠穿风格，时尚配饰，真实的皮肤质感，电影级布光，高级反光效果，焦点清晰，奢华商业摄影风格。未来感背景，融入微妙的科技元素，优雅的排版，简洁的图形设计，专业广告布局，构图平衡，时尚杂志大片质感，超精细，照片级真实感，动态氛围，8K 分辨率。品牌风格：• {argument name="brand" default="Samsung"} — 简洁、高端、未来感、优雅的蓝色调美学。
+
+[English]
+Create a premium smartphone advertising poster featuring a {argument name="model" default="stylish young female model"} in a fresh, confident pose with a charismatic expression. Modern trendy fashion, layered clothing, fashionable accessories, realistic skin texture, cinematic lighting, premium reflections, sharp focus, luxury commercial photography style. Futuristic background with subtle tech-inspired elements, elegant typography, sleek graphic design, professional advertising layout, balanced composition, fashion editorial quality, ultra-detailed, photorealistic, dynamic atmosphere, 8K. Brand Style: • {argument name="brand" default="Samsung"} — clean, premium, futuristic, elegant blue-toned aesthetics.
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2063117562351894973) | 2026-06-06
+
+---
+
+### 🎴 例 661：霓虹风格日系 AI 画布广告
+
+![霓虹风格日系 AI 画布广告](../images/%E9%9C%93%E8%99%B9%E9%A3%8E%E6%A0%BC%E6%97%A5%E7%B3%BB%20AI%20%E7%94%BB%E5%B8%83%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="product name" default="Banas"} 的 AI 创意画布工具制作一张极具视觉冲击力的日系赛博朋克风格宣传海报，采用醒目的黄黑配色街头杂志排版，并以极具戏剧性的时尚摄影作为视觉中心。
+
+画布：16:9 横向海报，明亮的荧光黄背景配以黑色墨迹纹理，采用对角线透视，带有粗糙的半色调划痕、倾斜的面板、粗黑边框以及密集的宣传排版。整体视觉效果应类似于下一代 AI 设计应用的日本网页横幅或交通广告。
+
+主体：一名年轻男性创作者，以极低角度拍摄，占据海报左侧和中心位置。他身穿超大号亮面钴蓝色防风夹克，留着凌乱的黑发，一只手伸向镜头，带有动态模糊和浅景深效果。他的脸部被刻意用柔和的方形模糊/马赛克遮挡。灯光硬朗且具有编辑感，与黄色背景形成强烈对比。
+
+布局：在右上中心位置放置一个巨大的倾斜黑色 Logo 字标，内容为 {argument name="product name" default="Banas"}，并带有小型商标符号。在其上方，添加一条狭窄的黑色标题栏，配以充满活力的日文营销文案。在 Logo 周围，使用多个倾斜的黄黑文本框。在最右侧，添加一个高大的垂直框架标题面板。底部添加一个黑色导航栏，包含产品功能图标和标签。
+
+文本内容：最大的日文标题应为 {argument name="main Japanese headline" default="AIで、想像を超えろ。レイヤーも、ポーズも、すべて自由自在。"}。主要 Logo 区域应包含辅助短语 {argument name="supporting Japanese tagline" default="次世代AIキャンバスツール"}。添加一个醒目的中心标注，文字为 {argument name="big benefit text" default="無限大。"}。在右侧添加一个圆形行动呼吁徽章，文字为 {argument name="call to action" default="今すぐ無料で始める!"}。所有可见文案均采用粗体日文展示排版，混合横向和纵向书写。
+
+需包含的离散可见元素：1 个经过模糊处理的人类模特；1 个巨大的产品 Logo；1 个位于右下中心附近的笔记本电脑/平板电脑类应用预览屏幕；1 个位于右下角的智能手机应用模型；1 个圆形行动呼吁徽章；1 个位于最右侧的高大垂直标题面板；2 个位于左侧的大型数字统计块，一个显示 70%，一个显示 50万人；6 个位于左侧的堆叠功能标签；4 个位于右侧的小型矩形功能徽章；5 个底部导航项，带有简单的白色图标：闪光/AI 生成、图层、网格/模板、云端上传以及搜索/体验按钮。
+
+应用模型：较大的倾斜屏幕应显示深色 UI，标注产品名称，并展示一张超现实的生成图像，画面中一名身穿黄色衣服的人正仰望明亮蓝天中漂浮的岛屿和植被。智能手机模型应显示带有缩略图行和创建按钮的深色移动端界面。
+
+视觉风格：超大胆的日系商业平面设计，霓虹黄背景上的黑色排版，倾斜透视，充满活力的构图，戏剧性的镜头畸变，光泽感时尚摄影与 UI 模型混合，高对比度，清晰的印刷广告质感，拒绝简洁极简主义，拒绝白色背景，拒绝水印。
+
+[English]
+Goal: Create a high-impact Japanese cyberpunk-style advertising poster for an AI creative canvas tool called {argument name="product name" default="Banas"}, with a loud yellow-and-black street magazine layout and a dramatic fashion photo centerpiece.
+
+Canvas: Landscape 16:9 poster, bright fluorescent yellow background with black ink texture, diagonal perspective, gritty halftone scratches, skewed panels, thick black borders, and dense promotional typography. Overall look should feel like a Japanese web banner or transit ad for a next-generation AI design app.
+
+Main subject: One young male creator photographed from an extreme low angle, occupying the left and center of the poster. He wears an oversized glossy cobalt-blue windbreaker jacket, messy black hair, and reaches one hand toward the camera with motion blur and shallow depth of field. His face is intentionally obscured by a soft square blur/mosaic censor block. Lighting is harsh and editorial, with strong contrast against the yellow background.
+
+Layout: Place a huge slanted black logo wordmark reading {argument name="product name" default="Banas"} on the upper right-center, with a small trademark mark. Above it, add a narrow black headline strip with energetic Japanese marketing copy. Around the logo, use multiple tilted yellow and black text boxes. On the far right, add one tall vertical framed headline panel. At bottom, add a black navigation bar with product feature icons and labels.
+
+Text content: The largest Japanese headline should be {argument name="main Japanese headline" default="AIで、想像を超えろ。レイヤーも、ポーズも、すべて自由自在。"}. The main logo area should include the supporting phrase {argument name="supporting Japanese tagline" default="次世代AIキャンバスツール"}. Add a bold central callout reading {argument name="big benefit text" default="無限大。"}. Add one circular call-to-action badge on the right reading {argument name="call to action" default="今すぐ無料で始める!"}. Keep all visible copy in bold Japanese display typography, mixing horizontal and vertical writing.
+
+Discrete visible elements to include: exactly 1 censored human model; exactly 1 giant product logo; exactly 1 laptop/tablet-like app preview screen near the lower center-right; exactly 1 smartphone app mockup in the bottom-right corner; exactly 1 circular call-to-action badge; exactly 1 tall vertical headline panel on the far right; exactly 2 large numeric statistic blocks on the left, one showing 70% and one showing 50万人; exactly 6 stacked feature labels on the left side; exactly 4 small rectangular feature badges on the right side; exactly 5 bottom navigation items with simple white icons: sparkle/AI generation, layers, grid/template, cloud upload, and search/experience button.
+
+App mockups: The larger tilted screen should show a dark UI labeled with the product name and a surreal generated image of a person in yellow clothing looking up at floating islands and vegetation in a bright blue sky. The smartphone mockup should show a dark mobile interface with thumbnail rows and a create button.
+
+Visual style: Ultra-bold Japanese commercial graphic design, black typography on neon yellow, skewed perspective, energetic composition, dramatic lens distortion, glossy fashion photography mixed with UI mockups, high contrast, crisp print-ad finish, no clean minimalism, no white background, no watermark.
+```
+
+**来源：** [@塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo/status/2063113560830742906) | 2026-06-06
+
+---
+
+### 🎴 例 662：日系创意 AI 画布广告
+
+![日系创意 AI 画布广告](../images/%E6%97%A5%E7%B3%BB%E5%88%9B%E6%84%8F%20AI%20%E7%94%BB%E5%B8%83%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="product name" default="Banas™"} 的创意 AI 画布产品制作一张大胆的日系广告海报，采用红、白、黑高能量视觉语言。
+
+画布：横向 3:2 宣传图，明亮的纯红色背景，戏剧性的对角线构图，高对比度商业海报设计。
+
+布局：左侧放置巨大的白色日文标题，采用粗体压缩无衬线字体，书写「アイデアを爆発させろ。」，文字堆叠且超大。下方放置一个小型黑色垂直功能面板，共 5 行，每行包含一个简单的白色图标和日文标签：1) 图像图标「AI画像生成」，2) 铅笔图标「デザインツール」，3) 灯泡图标「アイデアボード」，4) 人物图标「共有・コラボ」，5) 云图标「クラウド保存」。在面板下方，添加白色日文文案「デザインの常識を変える、新しいキャンバスツール」以及带有三条纹样式的 {argument name="product name" default="Banas™"} 标志；下方包含小型 Windows 和 Apple 图标。
+
+中心主体：一位黑白剪影风格的年轻男性创作者，身穿黑色街头夹克，卷曲深色头发，面部被柔和的矩形模糊处理，一只手戏剧性地伸向镜头，呈现极端的透视感，另一只手拿着银色笔记本电脑/平板电脑。人物应与排版和 UI 重叠，营造深度和动感。
+
+顶部中心：添加一个锯齿状白色星形徽章，内含红色日文文字「AIで、想像を超えるクリエイティブを。」。
+
+右侧：在人物身后放置一个倾斜的大型白色浏览器/应用画布模型，展示设计界面，包含点阵画布、顶部缩放控件、分享按钮、左侧工具栏以及 4 个可见的内容/设计区域：1) 一个写有“BUILD THE FUTURE”的红色海报缩略图，2) 一张黑白汽车图像缩略图，3) 一个小型拼贴/草图缩略图，4) 一个包含字体、色板和布局按钮的设置面板。为保持真实感，部分界面细节需略微模糊。
+
+右上角：添加一个黑色倾斜横幅，上方写有小型日文「クリエイティブAIキャンバス」，下方为大型白红相间的 {argument name="product name" default="Banas™"} 字标。
+
+右侧文本栏：在白色倾斜块上使用粗体黑色日文文案：「テキストから画像生成／アイデア出し／デザイン作成」，接着是「すべてこの1つで」，以及一个巨大的红色强调词「完結。」。下方放置一个白色倾斜标签，写着「AIで生成」。添加一个黑色圆形徽章，内含红白文字「30,000+ クリエイターが使っている」。
+
+底部中心：添加一个略微倾斜的窄条白色标签，写有黑色文字“AI × IDEATION × DESIGN”，下方第二条标签写着「すべてを、ひとつのキャンバスで。」。
+
+视觉风格：日系初创公司发布广告，动态杂志排版，锐利的拼贴剪影，粗体无衬线排版，以红色为主调，搭配白色文字和黑色点缀，光泽感 UI 模型，细微阴影，透视变形，清晰的印刷级边缘。
+
+约束：保留 5 行功能行和 4 个 UI 内容/设计区域的精确数量。不要添加额外的人物、额外的徽章或不相关的标志。保持整体构图拥挤、充满活力且具有广告感。
+
+[English]
+Goal: Create a bold Japanese advertising poster for a creative AI canvas product called {argument name="product name" default="Banas™"}, using a high-energy red, white, and black visual language.
+
+Canvas: Landscape 3:2 promotional graphic, bright solid red background, dramatic diagonal composition, high contrast commercial poster design.
+
+Layout: On the left, place an enormous white Japanese headline in heavy condensed sans-serif type reading 「アイデアを爆発させろ。」 with the words stacked and oversized. Below it, place a small black vertical feature panel with exactly 5 rows, each with a simple white icon and Japanese label: 1) image icon 「AI画像生成」, 2) pencil icon 「デザインツール」, 3) lightbulb icon 「アイデアボード」, 4) people icon 「共有・コラボ」, 5) cloud icon 「クラウド保存」. Under the panel, add white Japanese copy 「デザインの常識を変える、新しいキャンバスツール」 and the {argument name="product name" default="Banas™"} logo with a stylized three-stripe mark; include small Windows and Apple icons beneath.
+
+Center subject: A black-and-white cutout photo style young male creator in a black streetwear jacket, curly dark hair, face intentionally blurred by a soft rectangular censor blur, reaching one hand dramatically toward the camera with extreme perspective and holding a silver laptop/tablet in the other hand. The figure should overlap the typography and UI, creating depth and motion.
+
+Top center: Add a jagged white starburst badge with red Japanese text reading 「AIで、想像を超えるクリエイティブを。」.
+
+Right side: Place a large tilted white browser/app canvas mockup behind the person, showing a design interface with dotted canvas, top zoom controls, a share button, a left toolbar, and exactly 4 visible content/design areas: 1) a red poster thumbnail reading “BUILD THE FUTURE”, 2) a black-and-white car image thumbnail, 3) a small collage/sketch thumbnail, 4) a settings panel with font, color swatches, and layout buttons. Keep some interface details slightly blurred for realism.
+
+Top right: Add a black slanted banner with small Japanese text 「クリエイティブAIキャンバス」 above a large white-and-red {argument name="product name" default="Banas™"} wordmark.
+
+Right text column: Use bold black Japanese copy on white angled blocks: 「テキストから画像生成／アイデア出し／デザイン作成」, then 「すべてこの1つで」, and a huge red emphasis word 「完結。」. Below, place a white angled label reading 「AIで生成」. Add a black circular badge with red and white text reading 「30,000+ クリエイターが使っている」.
+
+Bottom center: Add a narrow white strip label tilted slightly with black text “AI × IDEATION × DESIGN”, and a second strip below it reading 「すべてを、ひとつのキャンバスで。」.
+
+Visual style: Japanese startup launch ad, kinetic magazine layout, sharp cutout collage, thick sans-serif typography, red-dominant palette with white text and black accents, glossy UI mockup, subtle shadows, perspective distortion, crisp print-ready edges.
+
+Constraints: Preserve the exact count of 5 feature rows and 4 UI content/design areas. Do not add extra people, extra badges, or unrelated logos. Keep the overall composition crowded, energetic, and advertisement-like.
+```
+
+**来源：** [@塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo/status/2063113560830742906) | 2026-06-06
+
+---
+
+### 🎴 例 663：日系 AI 创意工具海报
+
+![日系 AI 创意工具海报](../images/%E6%97%A5%E7%B3%BB%20AI%20%E5%88%9B%E6%84%8F%E5%B7%A5%E5%85%B7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="brand name" default="Banas"} 的下一代 AI 创意画布工具创作一张大胆的日系广告海报，采用极具冲击力的高对比度杂志/落地页美学。
+
+画布：横向 16:9 海报，米白色纸张背景，带有红色墨迹飞溅、黑色笔触以及细红边框。使用黑、白、亮红和青色的有限配色方案。
+
+主体：前景中心展示一位黑白摄影风格的年轻男性创作者，留着深色卷发，身穿超大号黑色 T 恤。他的脸部被一个居中的灰色矩形模糊/马赛克块刻意遮挡。他的左臂抬向观众，手中握着一支触控笔或钢笔，仿佛在半空中绘画；右手在右下方握着一块向上倾斜的大型深色平板电脑。人物形象应具有戏剧性，采用大比例裁剪，并部分覆盖所有排版文字。
+
+布局与排版：背景填充巨大的倾斜红色日文标题字符，部分被裁剪并置于人物身后，内容为 {argument name="main headline" default="创る力"}。在最左侧边缘放置一条垂直的黑色日文标语，内容为 {argument name="left slogan" default="创造力を解き放て"}。左上角放置一个青色对角横幅，带有粗体黑色文字，内容为 {argument name="top banner text" default="AI で広がる、无限のキャンバス。"}。使用厚重的日文哥特字体、超大字号、对角下划线、粗糙的墨迹纹理以及充满活力的海报构图。
+
+文字与标注：包含 6 个明确的宣传标注区：1 个左上角青色对角横幅；1 个右上角白色方框标注，配有红色标题和黑色正文；1 个右侧青色圆形徽章，宣传免费试用；1 个右侧粗体标语块，带有红色下划线装饰；1 个右下角黑色矩形功能块，带有小型青色图标；以及 1 个底部黑色品牌栏。右上角的方框应显示日文：「プロも初心者も使える次世代キャンバスツール！ 今すぐ、あなたのアイデアを解き放とう！」。青色圆圈应显示：「今だけ！7 日间無料トライアル実施中!!」。右侧标语应显示：「描く、デザインする、生み出す。すべてがここに。」。右下角的黑色方块应显示：「インスピレーションを止めない。最先端のクリエイティブ环境を今すぐ体験！」
+
+左侧功能列表：在左下方创建 3 行小型功能行，每行包含一个黑色圆形图标、一个红色标签条和简短的黑色描述文字。这 3 行分别为：1) 画笔图标，标签「ブラシ无限大!」，描述「リアルもイラストも思いのまま。」；2) 层叠方块图标，标签「レイヤー自由自在!」，描述「直感操作で思い通りの表现を。」；3) 机器人图标，标签「AI アシスト搭载!」，描述「アイデアをカタチにする最強の相棒。」
+
+底部品牌信息：在底部中心添加一个宽大的黑色笔触矩形，包含一个青色抽象 Logo、巨大的白色品牌名称 {argument name="brand name" default="Banas"}（带有一个微小的 ™ 符号）以及日文标语「クリエイティブは、もっと自由だ。」。在右下角，添加一个搜索栏样式的方框，包含「バナス」和放大镜图标，下方附带 URL「banas.app」。
+
+图标数量：左下方包含 3 个黑色圆形功能图标，右下角黑色功能块内包含 5 个小型青色圆形图标，代表图像、文档、调色板、协作和图库等创意工具。请勿添加额外图标。
+
+风格约束：使其看起来像是由纯文本生成的精致日系科技初创公司广告，结合逼真的单色摄影、半色调颗粒、做旧印刷纹理、大胆的红色笔触排版以及简洁的青色强调形状。除刻意模糊的人物面部外，保持所有日文文字清晰易读。
+
+[English]
+Goal: Create a bold Japanese advertising poster for a next-generation AI creative canvas tool called {argument name="brand name" default="Banas"}, with an aggressive high-contrast magazine/landing-page aesthetic.
+
+Canvas: Horizontal 16:9 poster, off-white paper background with red ink splatters, black brush strokes, and a thin red border. Use a limited palette of black, white, vivid red, and turquoise.
+
+Main subject: Center foreground shows a black-and-white photographic young male creator with curly dark hair, wearing an oversized black T-shirt. His face is intentionally hidden by a centered rectangular gray blur/mosaic block. His left arm is raised toward the viewer holding a stylus or pen as if drawing in midair, and his right hand holds a large dark tablet angled upward in the lower right. The figure should be dramatic, cropped large, and partially overlap all typography.
+
+Layout and typography: Fill the background with enormous slanted red Japanese headline characters, partially cropped and layered behind the person, reading {argument name="main headline" default="創る力"}. Along the far left edge place a tall vertical black Japanese slogan reading {argument name="left slogan" default="創造力を解き放て"}. At top left, place a turquoise diagonal banner with bold black text reading {argument name="top banner text" default="AIで広がる、無限のキャンバス。"}. Use heavy Japanese gothic fonts, oversized lettering, diagonal underlines, rough ink textures, and energetic poster composition.
+
+Text and callouts: Include exactly 6 promotional callout areas: 1 turquoise diagonal top-left banner; 1 white boxed callout in the upper right with red header text and black body copy; 1 turquoise circular badge on the right advertising a free trial; 1 bold right-side slogan block with red underline accents; 1 black rectangular feature block in the lower right with small turquoise icons; and 1 black bottom brand bar. The upper-right box should read in Japanese: 「プロも初心者も使える次世代キャンバスツール！ 今すぐ、あなたのアイデアを解き放とう！」. The turquoise circle should read: 「今だけ！7日間無料トライアル実施中!!」. The right slogan should read: 「描く、デザインする、生み出す。すべてがここに。」. The lower-right black block should read: 「インスピレーションを止めない。最先端のクリエイティブ環境を今すぐ体験！」.
+
+Left feature stack: Create exactly 3 small feature rows on the lower left, each with a black circular icon, a red label strip, and small black description text. The 3 rows are: 1) brush icon, label 「ブラシ無限大!」, description 「リアルもイラストも思いのまま。」; 2) layered-squares icon, label 「レイヤー自由自在!」, description 「直感操作で思い通りの表現を。」; 3) robot icon, label 「AIアシスト搭載!」, description 「アイデアをカタチにする最強の相棒。」.
+
+Bottom branding: Add one wide black brush-stroke rectangle across the bottom center containing a turquoise abstract logo mark, the large white wordmark {argument name="brand name" default="Banas"} with a tiny ™, and the Japanese tagline 「クリエイティブは、もっと自由だ。」. At bottom right, add a search-bar style box containing 「バナス」 and a magnifying glass icon, with the URL 「banas.app」 below it.
+
+Icon counts: Include exactly 3 black circular feature icons on the lower left and exactly 5 small turquoise circular icons inside the lower-right black feature block, representing creative tools such as image, document, palette, collaboration, and gallery. Do not add extra icons.
+
+Style constraints: Make it look like a polished Japanese tech startup advertisement generated from text only, combining realistic monochrome photography, halftone grain, distressed print texture, bold red brush typography, and clean turquoise accent shapes. Keep all Japanese text crisp and legible except for the intentionally face-blurred subject.
+```
+
+**来源：** [@塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo/status/2063113560830742906) | 2026-06-06
+
+---
+
+### 🎴 例 664：醒目的日式 AI 设计工具广告
+
+![醒目的日式 AI 设计工具广告](../images/%E9%86%92%E7%9B%AE%E7%9A%84%E6%97%A5%E5%BC%8F%20AI%20%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="brand name" default="Banas™"} 的 AI 设计工具创作一张醒目的日式广告海报，采用极具侵略性的红色字体、黑白摄影风格，营造出高能量的初创企业 SaaS 氛围。
+
+画布：宽幅 16:9 横向横幅，白色背景，边缘略微裁剪，呈现出网页首屏或社交媒体广告的效果。使用纯白、鲜红、黑色和灰度构成的有限调色板。
+
+布局：在左上角放置一个黑色抽象三条纹标志和品牌名称 {argument name="brand name" default="Banas™"}。在画面中心填充一行巨大的红色日文标题，略微向上倾斜并置于人物后方，内容为 {argument name="main headline" default="創造力 解放せよ。"}。在标题上方添加一行较小的红色斜向标语，内容为 {argument name="top tagline" default="AIで、アイデアを爆発させろ。"}。在画面下方中心前景处放置一张年轻日本男性设计师的灰度照片，他留着中等长度的深色头发，身穿深色衬衫，在右下方手持或操作一台深色笔记本电脑。用一个方形灰色像素化模糊块遮住他的脸。笔记本电脑应被底部边缘部分裁剪。
+
+左侧边栏内容：包含 6 个左侧文本元素。1) 一块大型红色垂直日文销售文案：「直感操作で プロ品質の バナーが作れる」。2) 下方的一条较小的黑色注释：「テンプレート不要！ 自由な発想をそのまま形に。」。3) 一个带有白色英文字母的黑色矩形标签：“DRAG & DROP”。4) 一个带有大型白色日文的黑色矩形标签：「簡単操作」。5) 三个堆叠的黑色功能栏，带有白色日文：「レイヤー自由編集」、「商用利用OK」、「高解像度出力対応」。6) 最后一个黑色功能栏：「チームで共有も可能」。
+
+右侧边栏内容：包含 5 个右侧组。1) 一个带有白色日文的红色顶部丝带标签：「誰でもデザイナー」。2) 下方的红色日文文案：「クリエイティブは もっと自由でいい」。3) 一个由 22 条红色垂直条形码状条纹组成的装饰块，排列成两行，下行较短且倾斜。4) 一个红色堆叠列表：「Webバナー SNS投稿 広告画像 サムネイル LP・資料 全部これひとつで」。5) 一个下方的红色标题：「AI搭載 デザイン アシスト」，下方配有较小的红色辅助行，暗示布局建议、自动背景生成和图像校正等功能。
+
+视觉风格：使用超大号压缩哥特式日文字体，极其粗犷且几何化，字间距紧凑，比例对比强烈。中央标题应占据画面主导地位并延伸至肖像后方。使用硬边矩形文本块，除面部模糊外不使用渐变，无柔和阴影，采用简洁的印刷广告构图。摄影采用高对比度单色，而所有营销字体均为红色或黑色。
+
+约束：保留主要可见组件的精确数量：1 个标志/品牌区域、1 个巨大的中央标题、1 个斜向顶部标语、1 个灰度人物、1 台笔记本电脑、1 个方形面部模糊块、6 个左侧文本元素和 5 个右侧组。保持构图拥挤但易读，类似于日式科技广告。不要添加额外的人物、额外的标志、水印或不相关的图标。
+
+[English]
+Goal: Create a bold Japanese advertising poster for an AI design tool called {argument name="brand name" default="Banas™"}, with aggressive red typography, black-and-white photography, and a high-energy startup SaaS feel.
+
+Canvas: Wide horizontal 16:9 banner, white background, slightly cropped at the edges like a web hero image or social media ad. Use a limited palette of pure white, vivid red, black, and grayscale.
+
+Layout: Place a black abstract three-stripe logo mark and the brand name {argument name="brand name" default="Banas™"} in the top-left corner. Fill the center with one enormous red Japanese headline, tilted slightly upward and layered behind the person, reading {argument name="main headline" default="創造力 解放せよ。"}. Add a smaller red diagonal tagline above it reading {argument name="top tagline" default="AIで、アイデアを爆発させろ。"}. Put a grayscale photo of a young Japanese male designer in the lower center foreground, seated with medium-length dark hair, wearing a dark shirt, holding or working behind a dark laptop at the lower right. Cover his face with a square gray pixelated blur censor block. The laptop should be partly cropped by the bottom edge.
+
+Left sidebar content: Include exactly 6 left-side text elements. 1) A large red vertical-ish block of Japanese sales copy: 「直感操作で プロ品質の バナーが作れる」. 2) A smaller black note below it: 「テンプレート不要！ 自由な発想をそのまま形に。」. 3) A black rectangular label with white English text: “DRAG & DROP”. 4) A black rectangular label with large white Japanese text: 「簡単操作」. 5) Three stacked black feature bars with white Japanese text: 「レイヤー自由編集」, 「商用利用OK」, 「高解像度出力対応」. 6) A final black feature bar: 「チームで共有も可能」.
+
+Right sidebar content: Include exactly 5 right-side groups. 1) A red top ribbon label with white Japanese text: 「誰でもデザイナー」. 2) Red Japanese copy below it: 「クリエイティブは もっと自由でいい」. 3) A decorative block of exactly 22 red vertical barcode-like stripes, arranged in two rows, with the lower row shorter and slanted. 4) A red stacked list: 「Webバナー SNS投稿 広告画像 サムネイル LP・資料 全部これひとつで」. 5) A lower red heading: 「AI搭載 デザイン アシスト」, with smaller red supporting lines beneath suggesting features such as layout proposal, automatic background generation, and image correction.
+
+Visual style: Use oversized condensed gothic Japanese lettering, extremely bold and geometric, with tight kerning and dramatic scale contrast. The central headline should dominate the image and extend behind the portrait. Use hard-edged rectangular text blocks, no gradients except the face blur, no soft shadows, and a clean print-ad composition. Make the photography high-contrast monochrome while all marketing typography is red or black.
+
+Constraints: Preserve the exact count of the main visible components: 1 logo/brand area, 1 huge central headline, 1 diagonal top tagline, 1 grayscale person, 1 laptop, 1 square face blur, 6 left-side text elements, and 5 right-side groups. Keep the composition crowded but readable, like a Japanese tech advertisement. Do not add extra people, extra logos, watermarks, or unrelated icons.
+```
+
+**来源：** [@塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo/status/2063113560830742906) | 2026-06-06
+
+---
+
+### 🎴 例 669：90 年代一次性相机人像
+
+![90 年代一次性相机人像](../images/90%20%E5%B9%B4%E4%BB%A3%E4%B8%80%E6%AC%A1%E6%80%A7%E7%9B%B8%E6%9C%BA%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位面容如初的年轻女性，肤色白皙柔和，仿佛定格在 90 年代经典的一次性相机快照中。她乌黑的秀发自然垂落在脸庞两侧。她带着一丝淡淡的浅笑，神情放松而从容。她穿着一件简约的白色修身 Baby T 恤。背景是一面浅米色的墙，上面贴满了拍立得照片、涂鸦和用胶带粘住的演唱会门票。闪光灯效果柔和通透，带有轻微的颗粒感。
+
+[English]
+A young woman with the same unchanged face, pale soft complexion, caught in a classic 90s disposable-camera snapshot. Her loose black hair falls naturally around her face. She gives a subtle smirk, relaxed and unbothered. She’s wearing a simple white baby T-shirt with a fitted silhouette. The background is a light beige wall cluttered with polaroids, doodles, and taped-up concert tickets. The flash feels soft and airy with light grain.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2063108663074500979) | 2026-06-06
+
+---
+
+### 🎴 例 672：奇幻盲盒角色系列海报
+
+![奇幻盲盒角色系列海报](../images/%E5%A5%87%E5%B9%BB%E7%9B%B2%E7%9B%92%E8%A7%92%E8%89%B2%E7%B3%BB%E5%88%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为充满奇幻色彩的魔法苔藓世界创作一张超细节的盲盒收藏角色系列海报，展示 {argument name="series title" default="BLIND BOX SERIES"}，以高级目录布局呈现 12 个独特的玩具角色。
+
+画布：16:9 横向海报，采用暖象牙色羊皮纸质感，带有纤细华丽的金色边框和精致的角落装饰，呈现复古故事书收藏卡风格。顶部中央设置一个大型优雅衬线字体标题“BLIND BOX SERIES”，两侧配有小星星图标，下方配有较小的副标题“12 UNIQUE CHARACTERS”。
+
+布局：在 2 行 6 列的网格中精确排列 12 张垂直收藏卡。每张卡片均有圆角、纤细金色边框、底部的奶油色标签面板，以及左上角淡色弧形标签上的大号数字。每个角色都置于微型魔法森林场景中，周围环绕着茂密的苔藓、小花、发光的虚化光点、闪光以及梦幻般的紫蓝色环境光。采用浅景深、玩具摄影写实感、光泽树脂/乙烯基材质、柔和电影级布光以及魔法盲盒产品摄影风格。
+
+卡片与文本内容：包含以下 12 张编号卡片，名称使用大写衬线字体，下方为较小的斜体原型描述，以及由圆点分隔的三个特征词：
+1. LUNA — Dreamy Streamer — CALM • GENTLE • ETHEREAL。一个坐在闪烁小溪中的月光薰衣草蓝角色，带有泡泡状球体装饰；面部/正面特意覆盖有柔和的米色矩形占位遮罩。
+2. MOCHI — Bunny Buddy — PLAYFUL • INNOCENT • SWEET。一个紫色小兔子收藏玩具，长耳朵、睡眼惺忪、带有小花装饰，坐在雏菊丛中的苔藓上。
+3. NORI — Polar Cuddler — WARM • SHY • KIND。一个白色北极熊幼崽玩具，圆耳朵、柔软的爪子、表情温和，坐在淡蓝色底座上。
+4. POPPY — Deer Fawn — PURE • CURIOUS • GENTLE。一个奶油色小鹿角色，带有小鹿角、蓬松的侧毛、小蹄子，坐在苔藓上；面部/正面特意覆盖有柔和的米色矩形占位遮罩。
+5. YUKI — Cloud Dreamer — SERENE • SOFT • WISTFUL。一个淡蓝色云朵主题玩偶，带有泡泡状薰衣草蓝头发、闭眼、圆脸颊，头部周围环绕半透明球体泡泡，穿着蓝色小靴子坐着。
+6. NOVA — Star Seeker — BRIGHT • CURIOUS • BRAVE。一个鲜艳的蓝色星空女孩玩偶，带有触角状珠子装饰、蓝色双丸子头、星花配饰、闭眼，呈坐姿。
+7. MIRA — Silver Lullaby — ELEGANT • CALM • MYSTICAL。一个银发月光般的人物，带有珍珠泡泡配饰，坐在森林中；面部/正面特意覆盖有柔和的米色矩形占位遮罩。
+8. BIBI — Little Mouse — CHEERFUL • NAIVE • LOVING。一个淡粉色小老鼠玩偶，大圆耳朵、红眼睛、白色花朵头部细节，姿态甜美可爱。
+9. KIKO — Forest Fox — CLEVER • WILD • LOYAL。一个棕褐色与赤褐色相间的狐狸幼崽玩具，超大尖耳朵、黑色爪子点缀、明亮的眼睛，旁边有一朵红色小蘑菇。
+10. BLOOM — Blue Hood — GENTLE • PROTECTIVE • KIND。一个戴着圆润蓝色兜帽或软帽的玩偶，黑色卷发衬托脸庞，红润脸颊，大眼睛，平静地坐在花丛中。
+11. ONYX — Midnight Child — MYSTERIOUS • QUIET • DEEP。一个黑白哥特风格森林玩偶，深色头发，带有微型骷髅或猫头鹰头部配饰，黑色服装，苍白的脸庞配上睡眼。
+12. TWINKLE — Purple Galaxy — MAGICAL • GENTLE • DREAMY。一个薰衣草紫星系主题玩偶，带有熊耳丸子头、泡泡球，闭眼，坐在紫色充气感坐垫或新月底座上。
+
+视觉风格：奢华收藏级玩具目录，高端盲盒宣传页，柔和奶油色与古董金配色，魔法仙境氛围，超细节苔藓与花卉，发光粒子，光泽感 Q 版手办，圆润婴儿比例，大头小身，柔和的蓝、紫、奶油与苔藓绿配色。确保所有排版清晰且对齐。
+
+约束：精确展示 12 张卡片及列出的标签。不要添加额外的角色、额外的行、徽标、二维码、水印或无关文本。保持对称的网格和一致的卡片尺寸。
+
+[English]
+Goal: Create an ultra-detailed fantasy blind-box collectible character lineup poster for a whimsical enchanted moss world, showing {argument name="series title" default="BLIND BOX SERIES"} with 12 unique toy characters in a premium catalog layout.
+
+Canvas: Horizontal 16:9 poster on warm ivory parchment paper, thin ornate gold border, subtle corner flourishes, vintage storybook collector-card styling. At the top center, set a large elegant serif headline reading “BLIND BOX SERIES” with small star icons on both sides, and a smaller subtitle underneath reading “12 UNIQUE CHARACTERS”.
+
+Layout: Arrange exactly 12 vertical collectible cards in a 2-row by 6-column grid. Each card has rounded corners, a thin gold frame, a cream label panel at the bottom, and a large number in the upper-left corner on a pale curved tab. Each character sits in a miniature enchanted forest scene with lush moss, tiny flowers, glowing bokeh lights, sparkles, and dreamy purple-blue ambient lighting. Use shallow depth of field, toy photography realism, glossy resin/vinyl texture, soft cinematic lighting, and magical blind-box product photography.
+
+Cards and text content: Include exactly these 12 numbered cards, with the name in uppercase serif type, a smaller italic archetype line, and three trait words separated by dots:
+1. LUNA — Dreamy Streamer — CALM • GENTLE • ETHEREAL. A moonlit lavender-blue figure sitting in a small sparkling stream with bubble-like orb accessories; the face/front is intentionally covered by a soft beige rectangular placeholder mask.
+2. MOCHI — Bunny Buddy — PLAYFUL • INNOCENT • SWEET. A small purple bunny collectible with long ears, sleepy eyes, tiny flower decorations, seated on moss among daisies.
+3. NORI — Polar Cuddler — WARM • SHY • KIND. A white polar bear cub toy with rounded ears, soft paws, and a gentle expression, seated on a pale blue base.
+4. POPPY — Deer Fawn — PURE • CURIOUS • GENTLE. A cream deer fawn character with small antlers, fluffy side puffs, tiny hooves, seated on moss; the face/front is intentionally covered by a soft beige rectangular placeholder mask.
+5. YUKI — Cloud Dreamer — SERENE • SOFT • WISTFUL. A pale blue cloud-themed doll with bubbly lavender-blue hair, closed eyes, round cheeks, translucent orb bubbles around the head, seated with little blue boots.
+6. NOVA — Star Seeker — BRIGHT • CURIOUS • BRAVE. A vivid blue starry girl doll with antenna-like bead ornaments, blue pigtail buns, star-flower accessories, closed eyes, and a seated pose.
+7. MIRA — Silver Lullaby — ELEGANT • CALM • MYSTICAL. A silver-haired moonlike figure with pearly bubble accessories, seated in the forest; the face/front is intentionally covered by a soft beige rectangular placeholder mask.
+8. BIBI — Little Mouse — CHEERFUL • NAIVE • LOVING. A pale pink mouse doll with big round ears, red eyes, white floral head details, and a sweet seated pose.
+9. KIKO — Forest Fox — CLEVER • WILD • LOYAL. A tan-and-russet fox cub toy with oversized pointed ears, black paw accents, bright eyes, and a tiny red mushroom beside it.
+10. BLOOM — Blue Hood — GENTLE • PROTECTIVE • KIND. A doll with a rounded blue hood or bonnet, black curls framing the face, rosy cheeks, big eyes, seated calmly among flowers.
+11. ONYX — Midnight Child — MYSTERIOUS • QUIET • DEEP. A black-and-white gothic forest doll with dark hair, tiny skull or owl-like head accessory, black outfit, pale face with sleepy eyes.
+12. TWINKLE — Purple Galaxy — MAGICAL • GENTLE • DREAMY. A lavender-purple galaxy-themed doll with bear-ear buns, bubble orbs, closed eyes, seated on a purple inflatable-looking cushion or crescent base.
+
+Visual style: Luxury collectible toy catalog, high-end blind box promotional sheet, soft cream and antique gold typography, magical fairy garden atmosphere, ultra-detailed moss and flowers, glowing particles, glossy chibi figurines, rounded baby proportions, large heads, tiny bodies, pastel palette with blue, purple, cream, and moss green. Keep all typography legible and aligned.
+
+Constraints: Show exactly 12 cards and exactly the listed labels. Do not add extra characters, extra rows, logos, QR codes, watermarks, or unrelated text. Maintain a symmetrical grid and consistent card sizes.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2063103160240255443) | 2026-06-06
+
+---
+
+### 🎴 例 678：极简主义运动海报活动
+
+![极简主义运动海报活动](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端极简主义运动海报，主体为 {argument name="subject" default="一位穿着优雅全黑套装自信前行的男士"}，身着黑色夹克、Polo 衫、定制长裤和白色运动鞋。背景由巨大的黑白侧面肖像主导，面部细节清晰，皮肤纹理真实，表情自然，具有电影般的深度。大胆的垂直排版通过现代剪裁技术巧妙地融入肖像中。干净的白色背景，配以 {argument name="accent color" default="醒目的红色几何装饰"}。奢华杂志封面美学，高端品牌风格，现代编辑布局，电影级灯光，细腻的阴影，真实的深度，专业的广告活动外观，Nike 风格的运动海报，超写实摄影，细节清晰，高对比度，{argument name="typography style" default="高级排版"}，强有力的构图，精致的平面设计，Instagram 热门海报编辑，Adobe Photoshop 杰作，4K 超高清，焦点清晰，垂直 4:5 长宽比。
+
+[English]
+Ultra-premium minimalist sports poster featuring a {argument name="subject" default="confident man walking forward in an elegant all-black outfit"}, black jacket, polo shirt, tailored trousers, and white sneakers. Massive black-and-white side-profile portrait dominating the background with sharp facial details, realistic skin texture, natural expression, and cinematic depth. Bold vertical typography creatively integrated through the portrait using modern cutout techniques. Clean white background with {argument name="accent color" default="striking red geometric accents"}. Luxury magazine cover aesthetic, premium branding style, modern editorial layout, cinematic lighting, subtle shadows, realistic depth, professional advertising campaign look, Nike-inspired sports poster, ultra-realistic photography, crisp details, high contrast, {argument name="typography style" default="premium typography"}, powerful composition, sophisticated graphic design, trending Instagram poster edit, Adobe Photoshop masterpiece, 4K Ultra HD, sharp focus, vertical 4:5 aspect ratio.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2063092464592863250) | 2026-06-06
+
+---
+
+### 🎴 例 686：奢华精华液图层编辑演示
+
+![奢华精华液图层编辑演示](../images/%E5%A5%A2%E5%8D%8E%E7%B2%BE%E5%8D%8E%E6%B6%B2%E5%9B%BE%E5%B1%82%E7%BC%96%E8%BE%91%E6%BC%94%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 AI 图像编辑器创建一个高端深色奢华广告演示图，展示化妆品精华液广告被分解为可编辑图层的过程。
+
+画布：16:9 宽幅横幅，深海军蓝黑色背景，带有金色光束，电影级光泽照明，高端美妆品牌氛围，超精细照片级产品渲染。
+
+布局：左侧展示一张完整的垂直成品海报，海报带有细金色边框。中心放置一个巨大的发光金色箭头，从成品海报指向可编辑的合成区域。在顶部中心，添加标题“{argument name="software title" default="Reve 2.0"}”，使用优雅的大号衬线金白色字体，下方用白色标注副标题“AI画像をレイヤー編集”。在中心偏右侧，展示放大的源模型图像：一位身穿深色缎面晚礼服的女性背影，肩膀闪亮，头发边缘被暖光勾勒，背景为城市夜景虚化，面部覆盖着一个大的柔和矩形遮挡块。在最右侧，展示分离出的可编辑图层元素，这些元素悬浮在蓝色虚线选择框中，并带有小型方形调整手柄。
+
+左侧成品海报细节：海报宣传“{argument name="product name" default="Noxellia 3X"}”，并带有英文副标题“NIGHT REPAIR SERUM”。海报包含 1 位女性模特、1 瓶带有金色滴管的深蓝色精华液、1 朵淡金色花朵装饰、1 个夜间城市天际线背景，以及白金色的日文广告文案。包含醒目的中央日文标题“翌朝、艶印象が変わる。”，使用华丽的衬线字体；顶部小字“一晩で、肌の修復力を最大化する”；中间文案“高濃度ナイトリペアセラム”；底部辅助文本“通常の3倍濃度の独自成分を、1滴に凝縮。”。海报中女性的面部同样被一个柔和的矩形模糊/遮挡块覆盖。
+
+可编辑图层标注：展示 7 个独立的蓝色虚线选择矩形，带有发光的青色角手柄：1 个围绕中央大标题“翌朝、艶印象が変わる。”，1 个围绕中央较小的辅助句子“通常の3倍濃度の独自成分を、1滴に凝縮。”，1 个围绕右上角的日文短语“一晩で、肌の修復力を最大化する”，1 个围绕右侧短语“高濃度ナイトリペアセラム”，1 个围绕独立的产品瓶身和花朵，1 个围绕裁剪后的城市天际线长条，以及 1 个围绕右下角附近的一条细金色曲线。
+
+底部功能行：在中心/右侧区域底部添加 3 个金色图标加文字的功能块：1 个标注为“独自3倍濃度”的液滴图标，配有简短的日文说明文案；1 个标注为“夜の集中ケア”的新月与星星图标，配有简短的日文说明文案；以及 1 个标注为“上質な所有感”的瓶子图标，配有简短的日文说明文案。
+
+视觉风格：奢华护肤品广告，黑色与午夜蓝配色，香槟金排版，闪烁的镜头光晕，优雅的日文衬线字体，发光的青色 UI 手柄，简洁的构图，精华液瓶身上逼真的反射，光泽的皮肤高光，戏剧性的边缘光，高端化妆品活动美学。
+
+约束条件：保持所有日文文本清晰可辨并按描述定位，保留深色金色奢华质感，不使用水印或应用界面元素，使图层框看起来像非破坏性编辑的叠加层，并包含准确计数的元素和选择框。
+
+[English]
+Goal: Create a high-end dark luxury advertising demonstration graphic for an AI image editor, showing a cosmetic serum ad being decomposed into editable layers.
+
+Canvas: Wide 16:9 banner, deep navy-black background with gold light streaks, cinematic glossy lighting, premium beauty-brand mood, ultra-detailed photorealistic product rendering.
+
+Layout: On the left, show one complete vertical finished poster inside a thin gold border. In the center, place a large glowing gold arrow pointing from the finished poster toward the editable composition. Across the top center, add the title “{argument name="software title" default="Reve 2.0"}” in large elegant serif gold-white lettering, with the subtitle “AI画像をレイヤー編集” beneath it in white. On the center-right, show the enlarged source model image: a woman in a dark satin evening dress photographed from behind with a shiny shoulder, hair rim-lit by warm light, city night bokeh behind her, and a large soft rectangular face-obscuring block over her face. On the far right, display separated editable layer elements floating with blue dashed selection boxes and small square resize handles.
+
+Left finished poster details: The poster advertises “{argument name="product name" default="Noxellia 3X"}” with the English sublabel “NIGHT REPAIR SERUM.” It contains exactly 1 female model, 1 dark blue serum bottle with gold dropper, 1 pale gold flower accent, 1 nighttime city skyline background, and Japanese ad copy in white and gold. Include the large central Japanese headline “翌朝、艶印象が変わる。” in ornate serif type, small top copy “一晩で、肌の修復力を最大化する,” mid copy “高濃度ナイトリペアセラム,” and bottom supporting text “通常の3倍濃度の独自成分を、1滴に凝縮。” The woman’s face in the poster is also covered by a soft rectangular blur/censor block.
+
+Editable layer callouts: Show exactly 7 separate blue dashed selection rectangles with glowing cyan corner handles: 1 around the large central headline “翌朝、艶印象が変わる。”, 1 around the smaller central supporting sentence “通常の3倍濃度の独自成分を、1滴に凝縮。”, 1 around the top-right Japanese phrase “一晩で、肌の修復力を最大化する”, 1 around the right-side phrase “高濃度ナイトリペアセラム”, 1 around the isolated product bottle plus flower, 1 around a cropped city skyline strip, and 1 around a thin gold curved line near the bottom right.
+
+Bottom feature row: Add exactly 3 gold icon-and-text feature blocks along the bottom of the central/right area: 1 droplet icon labeled “独自3倍濃度” with small explanatory Japanese copy, 1 crescent moon and stars icon labeled “夜の集中ケア” with small explanatory Japanese copy, and 1 bottle icon labeled “上質な所有感” with small explanatory Japanese copy.
+
+Visual style: Luxury skincare advertising, black and midnight blue palette, champagne gold typography, sparkling lens flares, elegant serif Japanese type, glowing cyan UI handles, clean composition, realistic reflections on the serum bottle, glossy skin highlights, dramatic rim light, premium cosmetic campaign aesthetic.
+
+Constraints: Keep all Japanese text legible and positioned as described, preserve the dark gold luxury look, use no watermarks or app chrome, make the layer boxes look like non-destructive editing overlays, and include exactly the counted elements and selection boxes.
+```
+
+**来源：** [@CREAiTER®（クレアイター）](https://x.com/threemdesign/status/2063074254825112012) | 2026-06-06
+
+---
+
+### 🎴 例 690：GPT Image 2 烹饪提示词横幅
+
+![GPT Image 2 烹饪提示词横幅](../images/GPT%20Image%202%20%E7%83%B9%E9%A5%AA%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="headline topic" default="GPT Image 2 烹饪图像提示词"} 创建一个宽幅日式宣传缩略图/横幅，设计风格类似于可爱的手工食谱拼贴画。
+
+画布：横向 16:9 比例的社交媒体横幅，采用暖色调奶油纸背景，带有细腻的织物纹理、圆角贴纸形状、柔和的阴影，配色方案为红色和深青色，具有极高的可读性。
+
+主标题区域：在顶部放置一个巨大的粗体标题“GPT Image 2”，其中“GPT Image”为深青色，“2”为亮红色，均带有厚实的白色贴纸轮廓和轻微的投影。在标题下方，添加一个醒目的日文大标题“料理画像プロンプト32例”，其中“料理画像”和“32”为红色，其余文字为深青色，同样带有白色轮廓。在标题下方，添加一个深青色的圆角胶囊状横幅，内含白色日文文字：“写真・参考画像・オリキャラからレシピカードまで”。
+
+吉祥物与装饰：添加 3 个可爱的米色缝线猫咪吉祥物，它们戴着红色圆框眼镜，手持一根红色小魔杖：一个较大的吉祥物位于右上角，一个微小的吉祥物位于第一张食谱卡片的底部附近，另一个较大的吉祥物位于右侧的电影海报卡片上。在左上角和右上角各添加 2 个红色毛线树装饰，并在标题周围点缀金色闪光图标。
+
+底部布局：在下半部分横向排列 4 张圆角矩形展示卡片，卡片之间用 3 个指向右侧的红色三角形箭头标记隔开。每张卡片顶部均有一个带有白色文字的深青色标签页。
+
+卡片 1：标签页“レシピカード”。展示一个简洁的食谱卡片布局，左侧为番茄罗勒意面照片，右侧为日文食谱文字。标题应为“トマトとバジルのパスタ”，后跟带有项目符号的简短配料表。在此卡片右下角包含微小的吉祥物。
+
+卡片 2：标签页“料理写真”。展示一张温暖的专业美食摄影作品，卡片中心为堆叠的松饼，配有浆果、鲜奶油、薄荷和糖浆。
+
+卡片 3：标签页“写真集ページ”。展示一本打开的写真集跨页，可见 2 张美食照片：左页为沙拉，右页为炖菜或汤碗，每张照片下方均有简短的日文说明。
+
+卡片 4：标签页“映画ポスター風”。创建一个电影质感的厨房海报风格卡片，左上角有醒目的日文文案“キッチンから、幸せを。”，背景为温馨的厨房，底部为一锅橙色的汤，右侧站立着较大的猫咪吉祥物。
+
+视觉风格：明亮、可爱、精致的日式博客缩略图设计；工艺纸框架内的写实美食照片；贴纸轮廓、圆角、柔和阴影、柔和的米色背景、清晰的层级结构。保持构图紧凑且易读，不要添加额外的卡片、箭头或水印。
+
+[English]
+Goal: Create a wide Japanese promotional thumbnail/banner for {argument name="headline topic" default="GPT Image 2 cooking image prompts"}, designed like a cute handmade recipe-craft collage.
+
+Canvas: Horizontal 16:9-ish social media banner, warm cream paper background with subtle fabric texture, rounded sticker-like shapes, soft shadows, red and dark teal color palette, high readability.
+
+Main headline area: At the top, place a huge bold title reading “GPT Image 2” with “GPT Image” in dark teal and the number “2” in bright red, all with thick white sticker outlines and slight drop shadow. Below it, add a large Japanese headline reading “料理画像プロンプト32例”, with “料理画像” and “32” in red and the remaining text in dark teal, also outlined in white. Under the headline, add a dark teal rounded pill banner with white Japanese text: “写真・参考画像・オリキャラからレシピカードまで”.
+
+Mascot and decorations: Add exactly 3 appearances of a cute beige stitched cat mascot with red round glasses and a small red wand: one large mascot standing at the upper right, one tiny mascot near the bottom of the first recipe card, and one large mascot on the right movie-poster card. Add exactly 2 small red yarn-tree decorations near the top left and top right, plus small golden sparkle icons around the headline.
+
+Bottom layout: Create exactly 4 rounded rectangular showcase cards in a row across the lower half, separated by exactly 3 red triangular arrow markers pointing right between the cards. Each card has a dark teal label tab with white text at the top.
+
+Card 1: Label tab “レシピカード”. Show a clean recipe card layout with a photo of tomato basil pasta on the left and Japanese recipe text on the right. The title should read “トマトとバジルのパスタ”, followed by a small ingredient list with bullet-like lines. Include the tiny mascot at the lower right of this card.
+
+Card 2: Label tab “料理写真”. Show a warm professional food photograph of stacked pancakes topped with berries, whipped cream, mint, and syrup, centered in the card.
+
+Card 3: Label tab “写真集ページ”. Show an open photo book spread with exactly 2 visible food photos: a salad on the left page and a stew or soup bowl on the right page, with small Japanese captions beneath each photo.
+
+Card 4: Label tab “映画ポスター風”. Create a cinematic kitchen-poster style card with large Japanese copy “キッチンから、幸せを。” at the top left, a warm kitchen background, a pot of orange soup at the bottom, and the large cat mascot standing on the right.
+
+Visual style: Bright, cute, polished Japanese blog-thumbnail design; realistic food photos inside craft-paper frames; sticker outlines, rounded corners, subtle shadows, soft beige background, clean hierarchy. Keep the composition dense but readable, with no extra cards, no extra arrows, and no watermark.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2063058591100342407) | 2026-06-06
+
+---
+
