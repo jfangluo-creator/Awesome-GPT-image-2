@@ -2013,3 +2013,219 @@ cinematic street-style fashion masterpiece featuring a {argument name="subject" 
 
 ---
 
+### 🎨 例 694：壮丽自然景观
+
+![壮丽自然景观](../images/%E5%A3%AE%E4%B8%BD%E8%87%AA%E7%84%B6%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="自然之美、奇观、狂喜与广袤"} 呈现于单一场景中，ar1:1
+
+[English]
+{argument name="주제" default="자연의 아름다움과 경이로움과 황홀함과 거대함"}을 한 장면에, ar1:1
+```
+
+**来源：** [@WIN FUTURES](https://x.com/winfutures/status/2063766353291690274) | 2026-06-07
+
+---
+
+### 🎨 例 709：霓虹水晶高定橱窗展示
+
+![霓虹水晶高定橱窗展示](../images/%E9%9C%93%E8%99%B9%E6%B0%B4%E6%99%B6%E9%AB%98%E5%AE%9A%E6%A9%B1%E7%AA%97%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张夜间奢侈品精品店橱窗内的高级时装真人 Cosplay 大片，灵感来源于赛博朋克偶像美学。展示一位魅力十足的女性模特，全身照（从大腿上部到头部），自信地站立，一只手叉腰，另一只手自然下垂。她身穿一件雕塑感黑色漆皮高定大衣裙，带有夸张的尖肩设计、亮面漆皮袖子、深紫黑色裹身裙及高开叉设计，并在深紫色紧身胸衣外叠穿了一件透明多面水晶胸甲。配饰包括锋利的金属水晶项链、长款几何吊坠耳环、多面手镯、戒指、深色美甲以及镶嵌宝石的腰带扣。她的面部被一个平滑的方形遮挡块刻意隐藏，而她长而蓬松的波浪状 {argument name="hair color" default="黑紫色"} 头发垂落在肩头，头顶有两个类似高发髻的部分。场景为一个霓虹灯闪烁的店面橱窗，包含玻璃反射、城市灯光、亚克力展示台、热带植物剪影、复古 CRT 显示器、透明立方体、几何圆锥体、光泽球体以及紫绿色霓虹灯带。画面中必须包含三个清晰可见的猫形品牌标识：左上角橱窗处一个大号标识，左下角 CRT 显示器上一个发光标识，以及右下角透明亚克力立方体内的一个粉色标识。在右下角附近添加手写霓虹紫色签名的品牌文本 {argument name="brand name" default="VOXCAT"}，并在其下方添加一个小矩形标签。采用电影级夜间照明，呈现洋红色、紫色、青色和翡翠色的反射效果，强调多层次材质：玻璃反射、霓虹光感、透明水晶盔甲、亮面黑色漆皮、金属珠宝以及亚克力展示品。垂直 2:3 构图，时尚杂志品质，超高细节，逼真的皮肤和织物纹理，强烈的对比度，无普通摄影棚背景，无额外角色，除品牌名称和标识外无其他可读文本。
+
+[English]
+Create a high-fashion live-action cosplay editorial in a luxury boutique display window at night, inspired by a cyberpunk idol aesthetic. Show one glamorous female model, full body from upper thighs to head, standing confidently with one hand on her hip and the other relaxed downward. She wears a sculptural black lacquered couture coat-dress with dramatic pointed shoulders, glossy patent sleeves, a deep purple-black wrapped skirt with a high thigh slit, and a transparent faceted crystal chest armor bodice over a dark violet corset. Add a sharp metallic crystal necklace, long dangling geometric earrings, a faceted bracelet, rings, dark manicured nails, and a jeweled belt buckle. Her face is intentionally hidden by a smooth square censor block, while her long voluminous wavy {argument name="hair color" default="black-purple"} hair falls around her shoulders with two high bun-like sections on top. The scene is a neon storefront window with glass reflections, city lights, acrylic display pedestals, tropical plant silhouettes, retro CRT screens, transparent cubes, geometric cones, glossy spheres, and purple-green neon light strips. Include exactly three visible stylized cat-logo marks: one large logo on the upper-left window, one glowing logo on the CRT screen at lower left, and one pink logo inside a transparent acrylic cube at lower right. Add the brand text {argument name="brand name" default="VOXCAT"} in a handwritten neon-purple signature near the bottom right plus a small rectangular label beneath it. Use cinematic night lighting with magenta, violet, teal, and emerald reflections, emphasizing layered materials: glass reflection, neon glow, transparent crystal armor, glossy black lacquer, metallic jewelry, and acrylic displays. Vertical 2:3 composition, fashion magazine quality, ultra-detailed, realistic skin and fabric textures, dramatic contrast, no ordinary studio backdrop, no extra characters, no readable text other than the brand name and logos.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063675987938963870) | 2026-06-07
+
+---
+
+### 🎨 例 716：中世纪堡垒训练场
+
+![中世纪堡垒训练场](../images/%E4%B8%AD%E4%B8%96%E7%BA%AA%E5%A0%A1%E5%9E%92%E8%AE%AD%E7%BB%83%E5%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 纵向的中世纪奇幻插画，采用粗犷的水彩与水墨绘画风格，背景设定为 {argument name="setting" default="石砌城堡大门内的一座防御城市训练场"}。主体人物为 {argument name="character name" default="一名未具名的年轻男性学员"}，他是一位外表粗犷的成年男性，留着 {argument name="hair color" default="凌乱的深棕色短发"}，身穿一件袖口卷起的宽松脏旧米白色亚麻衬衫、深色长裤，系着带有小袋和悬挂钥匙的皮带，佩戴棕色护腕，穿着高帮磨损的系带靴子。画面中心展示他的全身像，正从右向左动态地向前冲刺，将一根长木制练习矛刺向左侧前景中仅露出部分的对手，左臂持有一个圆形木制圆盾；他的面部应通过柔和的矩形模糊处理进行匿名化。对手位于左侧边缘，仅露出部分躯干、手臂和武器，身穿软垫盔甲，手持木棍或长矛。训练场尘土飞扬，阳光明媚，训练活动繁忙：总共包含 11 个可见人物，分别为 1 名中心学员、1 名左侧前景的对手、1 名左下方跪地休息的战士、1 名在他身旁蹲着的小助手、2 名左侧背景中正在对练的人、1 名中心偏左侧持盾的金色头发观察者、1 名右侧双臂交叉站立的蓝色长袍或蓝色盔甲教官、1 名站在他身旁面部模糊的儿童或年轻学员、1 名右侧边缘面部模糊的局部人物，以及 1 名靠近大门的远景学员。背景绘制高大的棕灰色石砌堡垒墙壁，带有雉堞，左侧有一座高耸的瞭望塔，中心偏右侧有一扇巨大的拱形木门，悬挂着带有金色狮子纹章的蓝色纹章旗帜、帆布遮阳棚，右侧设有摆满长矛和盾牌的武器架，空气中漂浮着尘埃和木屑，在光线下清晰可见。采用温暖的上午阳光，蓝天配以柔和的云朵，细腻的石材纹理，大地棕色与低饱和度蓝色调，电影级视角，动态感，写实的解剖结构，无现代物品。在右下角添加一个优雅的手写日期和签名，内容为 {argument name="date text" default="2026 年 6 月 8 日"} 和 {argument name="signature" default="Oyagi"}。
+
+[English]
+Create a vertical 2:3 medieval fantasy illustration in a gritty painterly watercolor-and-ink style, set in {argument name="setting" default="a fortified city training yard inside a stone castle gate"}. The main subject is {argument name="character name" default="an unnamed young male trainee"}, a rugged adult man with {argument name="hair color" default="short messy dark brown hair"}, wearing a loose dirty off-white linen shirt with rolled sleeves, dark trousers, a leather belt with pouch and dangling keys, brown bracers, and tall worn lace-up boots. Show him full body in the center, lunging forward dynamically from right to left, thrusting a long wooden practice spear toward a partially visible opponent in the extreme left foreground while holding a round wooden buckler shield on his left arm; his face should be anonymized by a plain soft rectangular blur. The opponent is cropped at the left edge, wearing padded armor and holding a wooden staff or spear, with only part of the torso, arm, and weapon visible. The yard is dusty, sunlit, and crowded with training activity: include exactly 11 visible people total, counted as 1 central trainee, 1 cropped foreground opponent, 1 kneeling resting fighter at lower left, 1 small crouching assistant beside him, 2 sparring men in the left background, 1 blonde observer with shield near center-left, 1 blue-robed or blue-armored instructor standing with folded arms on the right, 1 child or young trainee standing near him with a blurred face, 1 partial figure at the far right edge with a blurred face, and 1 distant background trainee near the gate. Behind them, draw high tan-gray stone fortress walls with crenellations, a tall watchtower on the left, a large arched wooden gate at center-right, heraldic blue banners with gold lion emblems, canvas shade awnings, weapon racks filled with spears and shields on the right, and drifting dust and wood splinters catching the light. Use warm late-morning sunlight, blue sky with soft clouds, detailed stone texture, earthy browns and desaturated blues, cinematic perspective, dynamic motion, realistic anatomy, no modern objects. Add a small elegant handwritten date and signature in the bottom-right corner reading {argument name="date text" default="June 8, 2026"} and {argument name="signature" default="Oyagi"}.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2063649452448202864) | 2026-06-07
+
+---
+
+### 🎨 例 753：单色系时尚大片：体育场风格
+
+![单色系时尚大片：体育场风格](../images/%E5%8D%95%E8%89%B2%E7%B3%BB%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%EF%BC%9A%E4%BD%93%E8%82%B2%E5%9C%BA%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻女性自信地坐在 {argument name="seat color" default="橙色"} 的体育场座椅上，身着 {argument name="outfit" default="全白单色系服装"} —— 超大款粗棒针米色毛衣、白色阔腿裤和白色皮质运动鞋。她留着深色利落发型，佩戴细长方形太阳镜，双手交叠放在膝盖上。背景和地面铺满了醒目的 {argument name="seat color" default="橙色"} 塑料体育场座椅。画面呈现干净的时尚摄影风格，白色与橙色之间形成强烈的色彩对比。柔和的影棚级光效，全身照，正面姿势。
+
+[English]
+A stylish young woman sitting confidently in {argument name="seat color" default="orange"} stadium seats, wearing a {argument name="outfit" default="full white monochromatic outfit"} — oversized chunky knit cream sweater, wide-leg white trousers, and white leather sneakers. She has dark hair styled neatly, wearing slim rectangular sunglasses, with hands clasped together resting on her lap. Bold {argument name="seat color" default="orange"} plastic stadium chairs fill the background and floor. Clean, editorial fashion photography style with strong color contrast between white and orange. Soft studio-quality lighting, full body shot, front-facing pose.
+```
+
+**来源：** [@Fatima Batool✨](https://x.com/Fati_092/status/2063546756835745819) | 2026-06-07
+
+---
+
+### 🎨 例 764：武士水墨画
+
+![武士水墨画](../images/%E6%AD%A6%E5%A3%AB%E6%B0%B4%E5%A2%A8%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+深色水墨画，{argument name="subject" default="孤独的武士"} 手持武士刀，身着传统黑色和服与袴，凌乱的发丝遮住面部阴影。动态笔触，高对比度 {argument name="colors" default="黑白红"} 色调，强烈的飞溅效果，血红色的墨迹，背景为 {argument name="background motif" default="锦鲤图案"}，极简构图，留白，纸张纹理，水墨风格融合现代漫画插画，粗犷、紧张的氛围，电影级光影，8k
+
+[English]
+Dark ink wash painting, {argument name="subject" default="lone samurai warrior"} holding katana, wearing traditional black kimono and hakama, messy hair covering face in shadow. Dynamic brush strokes, high contrast {argument name="colors" default="black white red"} color palette, aggressive splatter effects, blood red ink splashes, {argument name="background motif" default="koi fish motif"} in background, minimalist composition, negative space, textured paper, sumi-e style mixed with modern manga illustration, gritty, intense atmosphere, cinematic lighting, 8k
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2063526419075064292) | 2026-06-07
+
+---
+
+### 🎨 例 769：动漫时尚穿搭灵感拼贴
+
+![动漫时尚穿搭灵感拼贴](../images/%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E7%A9%BF%E6%90%AD%E7%81%B5%E6%84%9F%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 {argument name="style" default="动漫时尚穿搭灵感拼贴"}，温暖的黄金时刻阳光透过大窗户倾泻而入，舒适的 {argument name="setting" default="豪华公寓室内"}，米色墙面，装饰画，玻璃花瓶中的花卉，烛光氛围，优雅的女性美学。
+
+一位美丽的 {argument name="character" default="年轻女性"}，留着深棕色长波浪卷发，皮肤光泽柔和，眼神灵动，佩戴精致的金质圆环耳环和极简风金项链。她身穿一件超大款深酒红色衬衫，随意地塞进浅色超宽腿阔腿牛仔裤中，脚踩白色运动鞋。一只复古棕色皮质单肩包为整体造型画龙点睛。
+
+创建 Pinterest 风格的多图时尚拼贴布局，包含：
+
+中心全身站姿肖像。
+
+侧脸特写肖像。
+
+背影穿搭展示。
+
+在米色沙发上的放松坐姿。
+
+衬衫、牛仔裤、运动鞋和手提包的平铺图。
+
+项链和衬衫领口的时尚细节特写。
+
+包含手提包、蜡烛、花卉和装饰画的生活方式角落。
+
+柔和的电影感光效，金色阳光，逼真的布料质感，豪华时尚杂志摄影，舒适的秋季美学，温暖的中性色调，浅景深，高度精细的衣物褶皱，顶级生活方式杂志品质，优雅构图，Pinterest 穿搭灵感项目，杰作，8K，超精细，照片级动漫插画。
+
+[English]
+Ultra-realistic {argument name="style" default="anime fashion lookbook collage"}, warm golden-hour sunlight streaming through large windows, cozy {argument name="setting" default="luxury apartment interior"} with soft beige walls, framed artwork, flowers in glass vases, candlelight ambiance, elegant feminine aesthetic.
+
+A beautiful {argument name="character" default="young woman"} with long wavy dark brown hair, soft glowing skin, expressive brown eyes, delicate gold hoop earrings, and a minimalist gold necklace. She wears an oversized deep burgundy button-up shirt tucked casually into light-wash ultra-wide-leg baggy jeans with white sneakers. A vintage brown leather shoulder bag completes the outfit.
+
+Create a Pinterest-style multi-panel fashion collage layout featuring:
+
+Full-body standing portrait in the center.
+
+Close-up portrait looking to the side.
+
+Back-view outfit shot.
+
+Relaxed seated pose on a cream sofa.
+
+Flat-lay arrangement of shirt, jeans, sneakers, and handbag.
+
+Close-up fashion detail of necklace and shirt collar.
+
+Lifestyle corner featuring handbag, candle, flowers, and framed artwork.
+
+Soft cinematic lighting, golden sun rays, realistic fabric textures, luxury fashion editorial photography, cozy autumn aesthetic, warm neutral color palette, shallow depth of field, highly detailed clothing folds, premium lifestyle magazine quality, elegant composition, Pinterest outfit inspiration board, masterpiece, 8K, ultra detailed, photorealistic anime illustration.
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2063510972057387399) | 2026-06-07
+
+---
+
+### 🎨 例 770：西班牙古城日落景观
+
+![西班牙古城日落景观](../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8F%A4%E5%9F%8E%E6%97%A5%E8%90%BD%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+【{argument name="景観" default="空からめぐる絶景"}】 金色の川と、古都の空 夕暮れ、{argument name="国" default="スペイン"}の古都を見下ろしながら、雁の群れが西の空へ進んでいく 街の塔、石造りの屋根、遠くまで続く丘 細かく描かれた景色の中に、旅の時間がそのまま残っているようです 一羽だけ白いガチョウが混じっているのも、この旅らしい小さな目印です
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2063508524475228617) | 2026-06-07
+
+---
+
+### 🎨 例 785：雨中赛博朋克情侣
+
+![雨中赛博朋克情侣](../images/%E9%9B%A8%E4%B8%AD%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+全身构图，一对冷峻时尚的 {argument name="couple type" default="赛博朋克情侣"} 并肩站在 {argument name="setting" default="未来感雨夜城市"} 中。男性五官轮廓分明，留着黑色短发，拥有带有发光霓虹细节的半机械义肢，身穿功能性工装裤和未来感街头风格夹克。女性外表冷艳犀利，留着短发，脸上带有精致的荧光机械线条妆容，身穿赛博朋克工装时尚服饰。两人背靠一堵旧金属墙，身体靠近，双腿微张，双手插在工装裤口袋里，头部微低并转向彼此，眼神冷冽而深邃。背景：雨夜中的未来城市，狭窄的高楼街道，闪烁的彩色霓虹灯牌，地面湿漉漉地反射着灯光，周围弥漫着潮湿的雾气。高对比度硬阴影，{argument name="lighting" default="带有深红和电青色点缀的冷蓝紫色霓虹色调"}，电影级胶片颗粒质感，赛博废土环境，超写实肖像，强烈的氛围感，细腻的光影，反乌托邦浪漫美学。
+
+[English]
+Full-body composition, a cold and stylish {argument name="couple type" default="cyberpunk couple"} standing together in a {argument name="setting" default="futuristic rainy city"}. The male has sharp features, short dark hair, a semi-mechanical prosthetic arm with glowing neon details, wearing functional cargo pants and a futuristic streetwear jacket. The female has a cool and sharp appearance, short hair, subtle fluorescent mechanical line makeup on her face, wearing cyberpunk cargo fashion. Both lean against an old metal wall, standing close with legs slightly apart, hands inside cargo pant pockets, heads slightly lowered and turned, sharing a cold and intense gaze. Background: futuristic city on a rainy night, narrow high-rise streets, flickering colorful neon signs, wet ground reflecting lights, damp mist surrounding them. High contrast hard shadows, {argument name="lighting" default="cool blue-purple neon tones with hints of crimson and electric cyan"}, cinematic film grain texture, cyber wasteland environment, ultra realistic portrait, strong atmospheric mood, detailed lighting, dystopian romance aesthetic.
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2063463485808497142) | 2026-06-07
+
+---
+
+### 🎨 例 802：冬日女忍者茶歇场景
+
+![冬日女忍者茶歇场景](../images/%E5%86%AC%E6%97%A5%E5%A5%B3%E5%BF%8D%E8%80%85%E8%8C%B6%E6%AD%87%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖屏、高度细节化的动漫插画，描绘一位优雅的冬日女忍者 {argument name="character name" default="Yuki Hana"}，她正坐在雪天早晨明亮的霜窗旁的一张木桌前。她留着非常长的光泽感 {argument name="hair color" default="蓝黑色"} 头发，扎成高马尾，带有飘逸的散发，并装饰着华丽的蓝白色雪花发饰、水晶花、垂坠链条、丝带和流苏。她的面部被一个居中的柔和灰色方形遮挡块刻意隐藏，遮盖了整个面部区域，但她可见的耳朵、头发、双手和服装保持细节丰富。她穿着一件优雅的层叠式忍者风格和服，主色调为 {argument name="main outfit colors" default="白色、海军蓝和冰银色"}，配有半透明袖子、深色内领、雪花刺绣、蓝色丝带、金属饰边、珠宝花卉胸针和冬季水晶配饰。她双手捧着一个绘有蓝色雪花图案的白色瓷茶杯，杯中可见温热的茶水。房间里充满了清冷的蓝色阳光、闪烁的雪花颗粒和精致的倒影。在大窗户外面，展示霜花、玻璃上的雪花图案、光秃秃的冬树以及远处苍白的建筑物。在木桌上包含 7 件独特的桌面物品：1 个装饰有白色雪花的黑色茶壶，1 本打开的笔记本或日记，上面有手写的日文诗句 {argument name="notebook text" default="今日も、雪やコンペで。静かにお祝い。やさしく優れよう。—水華"}，1 支斜放在打开页面上的钢笔，右下角有一叠正好三本的蓝白色雪花书籍，左下角有一个蓝白色图案的盘子，盘子里有 1 块装饰着雪花的饼干，以及窗边 1 个蓝色小水晶装饰品。在背景中包含 1 个插着白色冬花的蓝白色瓷花瓶。采用明亮精致的动漫艺术风格，展现复杂的织物细节、清晰的线条、柔和的景深、冷色调的蓝白配色、梦幻的雪花闪烁氛围、电影级光影以及宁静的茶歇构图。在右上角添加一段小的白色水印文字 {argument name="watermark text" default="Pollo.ai"}。避免出现多余的角色，避免出现多余的杯子，避免现代杂物，并保持构图高挑而优雅。
+
+[English]
+Create a vertical 9:16 highly detailed anime illustration of a graceful winter kunoichi woman named {argument name="character name" default="Yuki Hana"} sitting at a wooden table beside a bright frosted window on a snowy morning. She has very long glossy {argument name="hair color" default="black-blue"} hair tied in a high ponytail, with flowing loose strands and ornate blue-white snowflake hair ornaments, crystal flowers, dangling chains, ribbons, and tassels. Her face is intentionally hidden by a centered soft gray square censor block covering the full facial area, while her visible ears, hair, hands, and outfit remain detailed. She wears an elegant layered ninja-inspired kimono in {argument name="main outfit colors" default="white, navy blue, and icy silver"}, with translucent sleeves, dark inner collar, snowflake embroidery, blue ribbons, metallic trim, jeweled floral brooches, and winter crystal accessories. She holds a white porcelain teacup with blue snowflake patterns in both hands, with warm tea visible inside. The room is filled with cold blue sunlight, sparkling snow particles, and delicate reflections. Outside the large window, show frost, snowflake patterns on the glass, bare winter trees, and a pale building in the distance. On the wooden table include exactly 7 distinct tabletop items: 1 black teapot decorated with a white snowflake, 1 open notebook or journal with handwritten Japanese poetry reading {argument name="notebook text" default="今日も、雪やコンペで。静かにお祝い。やさしく優れよう。—水華"}, 1 pen laid diagonally across the open pages, 1 stack of exactly three blue-and-white snowflake books at the lower right, 1 blue-and-white patterned plate at the lower left, 1 single snowflake-decorated cookie on the plate, and 1 small blue crystal ornament near the window. In the background include exactly 1 blue-and-white porcelain vase holding white winter blossoms. Use luminous polished anime art, intricate fabric detail, crisp linework, soft depth of field, cool blue and white palette, magical snow sparkle atmosphere, cinematic lighting, and a serene tea-time composition. Add a small white watermark text {argument name="watermark text" default="Pollo.ai"} in the upper-right corner. Avoid extra characters, avoid extra cups, avoid modern clutter, and keep the composition tall and elegant.
+```
+
+**来源：** [@AIチャッティ](https://x.com/ai_chatty/status/2063425297685574084) | 2026-06-07
+
+---
+
+### 🎨 例 803：紫影女忍者书法室
+
+![紫影女忍者书法室](../images/%E7%B4%AB%E5%BD%B1%E5%A5%B3%E5%BF%8D%E8%80%85%E4%B9%A6%E6%B3%95%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖屏动漫插画，描绘一位名为 {argument name="character name" default="Sumi Hana"} 的美丽女忍者，她正坐在樱花季的传统日式书法室中。她留着极长的飘逸 {argument name="hair color" default="silver-white"} 高马尾，皮肤白皙，紫色的双眸，一只眼睛戴着带有花卉纹章的黑紫色装饰性眼罩。为她穿上一套优雅的黑紫色忍者和服，配有半透明的叠层袖子、盔甲风格的黑色手套、紫色腰带、流苏，以及装饰在头发、肩膀、手臂和腰间的众多紫色花朵饰品；服装应呈现出精致的忍者礼服质感。她神情从容，一手拿着小巧的黑色茶杯，坐在摆满书法纸的木桌前。桌上需包含 8 件显眼的物品：1 张写有黑色毛笔字的大幅书法纸、1 支斜放在纸上的毛笔、前景中 1 个光亮的黑色砚台托盘、1 个圆形小墨瓶、1 个立式笔架及毛笔、1 个带有装饰的紫色长方形盒子、1 卷写有文字的卷轴，以及她手中 1 个小茶杯。在她身后，展示一扇敞开的障子窗，窗外是盛开的淡粉色樱花和飘落的花瓣，伴有温暖的背光和闪烁的尘埃微粒。添加 2 条悬挂的竖幅横幅：左侧横幅显示 {argument name="left banner text" default="墨華"}，下方带有紫色花卉徽章；右侧墙上的挂轴显示 {argument name="right scroll text" default="墨染流光 筆落乾坤"} 的黑色书法字。配色方案为 {argument name="accent color" default="深紫与黑色，搭配淡粉色樱花光影"}；使用电影级光效、复杂的织物纹理、漆面质感、柔光效果、高对比度、超精细线条，以及精致的 gpt-image-2 动漫艺术风格。在右上角附近放置一个小的白色“Pollo.ai”水印。9:16 竖屏构图，近景四分之三侧面视角，优雅、宁静、奢华，无多余角色，除水印外无现代物品。
+
+[English]
+Create a highly detailed vertical anime illustration of a beautiful kunoichi character named {argument name="character name" default="Sumi Hana"} seated in a traditional Japanese calligraphy room during cherry blossom season. She has very long flowing {argument name="hair color" default="silver-white"} hair in a high ponytail, soft pale skin, violet eyes, and a decorative black-and-purple eyepatch over one eye with a floral crest. Dress her in an elegant black and deep purple ninja-kimono outfit with sheer layered sleeves, armor-like black gloves, a purple obi, tassels, and many violet flower ornaments in her hair, shoulder, arm, and waist; the outfit should feel like a refined shinobi ceremonial costume. She calmly holds a small black tea cup in one hand while sitting at a wooden desk covered with calligraphy paper. Include exactly 8 prominent desk items: 1 large sheet of calligraphy paper with black brush writing, 1 calligraphy brush lying diagonally on the paper, 1 glossy black inkstone tray in the foreground, 1 small round ink bottle, 1 upright brush holder with brushes, 1 purple rectangular decorated box, 1 rolled scroll with writing, and 1 small tea cup in her hand. Behind her, show an open shoji-window view filled with blooming pale pink cherry blossoms and drifting petals, with warm backlight and sparkling dust motes. Add exactly 2 hanging vertical banners: the left banner displays {argument name="left banner text" default="墨華"} in pale characters with a purple floral emblem below, and the right wall scroll displays {argument name="right scroll text" default="墨染流光 筆落乾坤"} in black calligraphy. The color palette is {argument name="accent color" default="deep violet and black with pale pink blossom light"}; use cinematic lighting, intricate textile patterns, lacquered surfaces, soft bloom, high contrast, ultra-detailed linework, and a polished gpt-image-2 anime art style. Place a small white “Pollo.ai” watermark near the top right. Vertical 9:16 composition, close three-quarter view, elegant, serene, luxurious, no extra characters, no modern objects besides the watermark.
+```
+
+**来源：** [@AIチャッティ](https://x.com/ai_chatty/status/2063425297685574084) | 2026-06-07
+
+---
+

@@ -1115,3 +1115,57 @@ Create a high-quality technical infographic of {argument name="target object" de
 
 ---
 
+### 📊 例 738：SynClub 聊天音效指南
+
+![SynClub 聊天音效指南](../images/SynClub%20%E8%81%8A%E5%A4%A9%E9%9F%B3%E6%95%88%E6%8C%87%E5%8D%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 SynClub 创建一份垂直日文信息图表指南，解释在括号中输入特定词汇即可触发的聊天内音效。使用标题 {argument name="headline text" default="チャット内効果音 一覧ガイド"} 和品牌名称 {argument name="brand name" default="SynClub"}。
+
+画布：2:3 纵向布局，奶油色羊皮纸背景，配以海军蓝和金色点缀，细几何线条，小闪光图标，圆角卡片，简洁的应用指南风格。左上角设有深海军蓝页眉条，包含 SynClub 徽标图标和文字标识。主标题为深海军蓝与金色的粗体日文字体。在标题下方添加说明：「（ ）で囲んだワードを入力すると、効果音が再生されます！」
+
+布局：左侧三分之二包含四个堆叠的圆角分类卡片，构成主要指南列表。右侧上方为 Q 版动漫引导角色，下方为类似智能手机的聊天界面模型。左下角包含一个海军蓝色的使用技巧框，右下角包含一个金色边框的号召性用语横幅。
+
+主体细节：右上角绘制一个可爱的 Q 版女学生风格动漫角色，长黑发、海军蓝制服、金色发夹，手持指示棒；包含一个气泡框，写着「使ってみてね！」。她的脸部被一个居中的柔和灰色模糊/遮挡块覆盖。角色造型使用 {argument name="guide character style" default="chibi anime schoolgirl with long dark hair and navy uniform"}。
+
+指南列表：展示 4 个音效类别，每个类别包含一个图标、彩色标题和括号内的日文触发短语。
+1. 「ドア系」：门图标，棕色/金色标题，5 个触发短语：「（ドアをノックする）」「（ドアを叩く）」「（ドアを開ける）」「（ドアを閉める）」「（鍵をかける）」
+2. 「書籍系」：打开的书图标，蓝色标题，3 个触发短语：「（本を開く）」「（ページをめくる）」「（本を閉じる）」
+3. 「触れ合い系」：握手图标，金色标题，8 个触发短语：「（抱きしめる、ハグ、抱く）」「（服を脱ぐ）」「（撫でる）」「（頭を撫く）」「（袖を引っ張る）」「（ドキドキ、赤面、頬が真っ赤）」「（舐める）」以及紧凑列表样式的换行。
+4. 「生活系」：房屋图标，绿色标题，3 个触发短语：「（靴を振る）」「（携帯が鳴る）」「（布団に入る）」
+
+聊天模型：右侧中间显示一个深海军蓝圆角手机框，标注为「会話画面イメージ」。内部为动漫聊天场景，背景是暖色调咖啡馆灯光下的银发奇幻女性。在聊天图像顶部，显示名称 {argument name="chat character name" default="ファンネリア"}。叠加 4 个圆角聊天气泡：两个三文鱼粉色叙述气泡和两个海军蓝色用户回复气泡。在粉色气泡内高亮显示部分触发词，包括「ドアをノックする」和「頬を赤らめつつ」。保持日文聊天文本小巧且具有氛围感；无需完全清晰可读，但必须看起来像真实的语境聊天界面。
+
+底部文本：左下角海军蓝色框标题为「使い方のポイント」，配有灯泡图标。包含解释性日文文本，说明当句子中括号内写入动作时会触发音效，例如「（ドアをノックする）失礼します…」，并附带高亮提示：「『会話動画』生成の際、自分側の台詞に効果音の記述を挿入しても再生されます。」下方添加小免责声明：「※上記はすべてではありません…まだ判明していない効果音が存在します！」并配有一个小感叹号图标。右下角金色号召性用语框配有扩音器图标，写着「よりリアルな会話体験を！」以及下方的「効果音を活用して、臨場感あふれるチャットを楽しみましょう！」
+
+视觉风格：精致的日文社交媒体信息图表，高分辨率，清晰易读的字体，温暖的奶油色背景，深海军蓝边框，金色高光，圆角矩形，细微的星光闪烁。保持所有日文文本整洁且位置正确。除 SynClub 品牌标识外，无其他水印。
+
+[English]
+Goal: Create a vertical Japanese infographic guide for SynClub explaining in-chat sound effects triggered by typing words in parentheses. Use the headline {argument name="headline text" default="チャット内効果音 一覧ガイド"} and the brand name {argument name="brand name" default="SynClub"}.
+
+Canvas: Portrait 2:3 layout, cream parchment background with navy and gold accents, thin geometric lines, small sparkle icons, rounded cards, clean app-guide styling. Top left has the SynClub logo icon and wordmark on a dark navy header strip. Main title is large, bold Japanese typography in dark navy and gold. Under the title, add the instruction: 「（ ）で囲んだワードを入力すると、効果音が再生されます！」.
+
+Layout: Left two-thirds contains the main guide list in four stacked rounded category cards. Right side contains a chibi anime guide character at the top and a smartphone-like chat screen mockup below. Bottom left contains a navy usage-tip box, and bottom right contains a gold-bordered callout banner.
+
+Subject details: At upper right, draw a cute chibi schoolgirl-style anime character with long dark hair, navy uniform, gold hairpins, and a pointing stick; include a speech bubble saying 「使ってみてね！」. Her face is covered by a centered soft gray square blur/censor block. Use {argument name="guide character style" default="chibi anime schoolgirl with long dark hair and navy uniform"} for the character styling.
+
+Guide list: Show exactly 4 sound-effect categories, each with an icon, colored title, and visible trigger phrases in Japanese parentheses.
+1. 「ドア系」 with a door icon, brown/gold header, 5 trigger phrases: 「（ドアをノックする）」「（ドアを叩く）」「（ドアを開ける）」「（ドアを閉める）」「（鍵をかける）」.
+2. 「書籍系」 with an open-book icon, blue header, 3 trigger phrases: 「（本を開く）」「（ページをめくる）」「（本を閉じる）」.
+3. 「触れ合い系」 with a handshake icon, gold header, 8 trigger phrases: 「（抱きしめる、ハグ、抱く）」「（服を脱ぐ）」「（撫でる）」「（頭を撫く）」「（袖を引っ張る）」「（ドキドキ、赤面、頬が真っ赤）」「（舐める）」 plus one line spacing/continuation style as in a compact list.
+4. 「生活系」 with a house icon, green header, 3 trigger phrases: 「（靴を振る）」「（携帯が鳴る）」「（布団に入る）」.
+
+Chat mockup: Right middle shows a dark navy rounded phone frame labeled 「会話画面イメージ」. Inside is an anime chat scene with a silver-haired fantasy woman in warm café lighting. At the top of the chat image, show the name {argument name="chat character name" default="ファンネリア"}. Overlay exactly 4 rounded chat bubbles: two salmon/pink narrator bubbles and two navy user-response bubbles. Highlight some trigger words in yellow inside the pink bubbles, including 「ドアをノックする」 and 「頬を赤らめつつ」. Keep Japanese chat text small and atmospheric; it does not need to be fully legible, but must resemble a real roleplay chat screen.
+
+Bottom text: Bottom left navy box titled 「使い方のポイント」 with a lightbulb icon. Include explanatory Japanese text saying sound effects trigger when actions are written in parentheses in the sentence, example 「（ドアをノックする）失礼します…」, and a highlighted note: 「『会話動画』生成の際、自分側の台詞に効果音の記述を挿入しても再生されます。」 Add a small disclaimer below: 「※上記はすべてではありません…まだ判明していない効果音が存在します！」 with a small exclamation icon. Bottom right gold callout with megaphone icon says 「よりリアルな会話体験を！」 and underneath 「効果音を活用して、臨場感あふれるチャットを楽しみましょう！」.
+
+Visual style: Polished Japanese social-media infographic, high-resolution, crisp readable typography, warm cream background, dark navy borders, gold highlights, rounded rectangles, subtle star sparkles. Keep all Japanese text clean and correctly placed. No watermark beyond the SynClub brand mark.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2063593311756300618) | 2026-06-07
+
+---
+

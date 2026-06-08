@@ -2970,3 +2970,304 @@ Visual style: Bright, cute, polished Japanese blog-thumbnail design; realistic f
 
 ---
 
+### 🎴 例 698：可爱风波兰饺子塔可食谱海报
+
+![可爱风波兰饺子塔可食谱海报](../images/%E5%8F%AF%E7%88%B1%E9%A3%8E%E6%B3%A2%E5%85%B0%E9%A5%BA%E5%AD%90%E5%A1%94%E5%8F%AF%E9%A3%9F%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="recipe name" default="Pierogi Tacos"} 创建一张可爱粉彩风的 kawaii 风格食谱信息图海报，展示一种趣味十足的融合风舒适美食概念，采用手绘字体、美食摄影风格的塔可、卡通吉祥物以及分步烹饪说明。
+
+画布：1:1 正方形海报，柔和的粉色背景，点缀着小闪光、星星、爱心、圆点和涂鸦。采用丰富但平衡的杂志/食谱卡片布局，配有圆角面板、粗深色轮廓、粉彩填充和贴纸风格元素。
+
+主标题区：在左上角添加一个黄色小丝带，上面写有日文 「ピエロギがタコスに変身！」（波兰饺子变身塔可！）。下方创建一个醒目的大气泡标题“PIEROGI TACOS”，使用超大圆润字体，“PIEROGI” 为紫色，“TACOS” 为粉色，带有白色高光和粗深色阴影轮廓。旁边添加一个对话气泡，写着“Crispy, Cheesy, Totally Taco-licious!”（酥脆、浓郁，塔可风味十足！），并配以爱心/星星装饰。
+
+主食图片：在右上角，展示一个大椭圆形盘子，里面装着 3 个塔可饼，饼内填满了金黄煎制的波兰饺子、切碎的生菜、番茄丁、红洋葱丁、葱花、芝士或酱汁淋面以及青柠角。使用诱人的写实美食细节，但要将其融入插画风格的粉彩海报中。添加一个黄色星形标签，写着“FUN TWIST ON A CLASSIC COMFORT FOOD!”（经典舒适美食的趣味变身！）。
+
+准备信息卡：在标题下方，包含 3 张薄荷绿色小卡片：“PREP TIME”（准备时间）配时钟图标和“15 MIN”（15 分钟）、“COOK TIME”（烹饪时间）配平底锅图标和“15 MIN”（15 分钟），以及“MAKES”（成品数量）配笑脸图标和“4 TACOS”（4 个塔可）。
+
+吉祥物与装饰角色：包含 7 个可爱的角色插画：标题附近有一个戴着厨师帽的微笑波兰饺子吉祥物，配料面板旁边有一只拿着碗的粉色兔子，兔子下方有一个快乐的土豆角色，小贴士部分有一只拿着塔可的绿色企鹅状角色，底部中心有一只拿着塔可的棕色小熊，右侧有一只拿着辣酱瓶的黄色小鸡，右下角有一个戴着厨师帽的微笑洋葱/大蒜角色。此外，在整个海报中加入爱心、云朵、星星和闪光贴纸。
+
+配料部分：在左侧中间，创建一个圆角白色食谱卡，配有粉色标签“INGREDIENTS”（配料）。列出 8 种配料，使用粉彩星形符号作为列表项：“8 个冷冻波兰饺子（土豆芝士味或切达芝士味）”、“4 个小面粉塔可饼”、“1 杯切碎的卷心菜”、“1/4 杯番茄丁”、“1/4 杯葱花”、“1/4 杯切达芝士碎”、“1/4 杯酸奶油”和“1 汤匙橄榄油”。添加一行可选配料：“可选：辣酱、莎莎酱、青柠角。”
+
+制作方法部分：在中间横向创建一个蓝色横幅，写着“HOW TO MAKE”（制作方法），并配有一个小星星吉祥物。下方包含 4 张带编号的说明卡片，配有粉彩数字圆圈和插画。卡片 1：平底锅煎饺子，文字：“HEAT OIL（加热油）在平底锅中以中火加热油。放入波兰饺子，每面煎 5-6 分钟，直至金黄酥脆。”卡片 2：加热塔可饼插画，文字：“WARM（加热）在干平底锅或微波炉中加热塔可饼，直至变软且有弹性。”卡片 3：组装塔可插画，文字：“PLACE（放置）在每个塔可饼中放入 2 个波兰饺子。铺上卷心菜、番茄、葱花和芝士。”卡片 4：成品塔可淋酱插画，文字：“ADD（添加）淋上一勺酸奶油和你喜欢的配料。趁热享用！”
+
+小贴士部分：左下角添加一个紫色圆角白色面板，标题为“TIPS & VARIATIONS”（小贴士与变体）。包含 3 条提示：“尝试不同的波兰饺子口味，如酸菜或蘑菇味！”、“加入熟培根或手撕猪肉，口感更丰富。”以及“加入墨西哥辣椒或你最爱的辣酱，增添风味！”添加一个对话气泡，写着“TRY IT YOUR WAY!”（按你的方式尝试！）。
+
+底部标语：在底部中心，添加一个蓬松的云朵气泡，写着“COMFORT FOOD JUST GOT A TACO-TASTIC MAKEOVER!”（舒适美食迎来塔可风大变身！）。左下角添加一个黄色长条，写着“PERFECT LEFTOVER MAKEOVER! GREAT FOR USING UP EXTRA PIEROGIES!”（完美的剩菜改造！消耗多余波兰饺子的好方法！）。右下角添加一个粉色标签“SERVE WITH LOVE!”（用心呈现！），上方是一张波兰饺子塔可的小型照片风格图片，以及一个蓝色气泡，写着“Great for parties, weeknights, or pierogi cravings!”（适合派对、工作日晚餐或满足波兰饺子瘾！）。
+
+视觉风格：明亮的 kawaii 风格食谱信息图，采用粉红、薄荷绿、薰衣草紫、黄色和奶油色调；圆角设计；粗黑色/深棕色轮廓；光面贴纸高光；欢快的手写字体；温馨的舒适美食氛围。确保文字清晰易读，并保留所有列出的标题和标签。避免超出指定数量的额外部分、步骤或吉祥物。
+
+[English]
+Goal: Create a cute pastel kawaii recipe infographic poster for {argument name="recipe name" default="Pierogi Tacos"}, showing a playful fusion comfort food concept with hand-drawn lettering, food photography-style tacos, cartoon mascots, and step-by-step cooking instructions.
+
+Canvas: Square 1:1 poster, soft pink background with tiny sparkles, stars, hearts, dots, and doodles. Use a busy but balanced magazine/recipe-card layout with rounded panels, thick dark outlines, pastel fills, and sticker-like elements.
+
+Main title area: At the top left, add a small yellow ribbon with Japanese text 「ピエロギがタコスに変身！」. Below it, create a large bubbly headline reading “PIEROGI TACOS” in oversized rounded letters, purple for “PIEROGI” and pink for “TACOS,” with white highlights and thick dark shadow outlines. Add a speech bubble nearby with “Crispy, Cheesy, Totally Taco-licious!” and small heart/star accents.
+
+Hero food image: On the upper right, show a large oval plate filled with exactly 3 taco shells stuffed with golden pan-fried pierogies, shredded lettuce, diced tomato, red onion cubes, scallions, cheese or sauce drizzle, and lime wedges. Use appetizing realistic food detail but keep it integrated into the illustrated pastel poster. Add a yellow starburst label reading “FUN TWIST ON A CLASSIC COMFORT FOOD!”
+
+Prep info cards: Beneath the title, include exactly 3 small mint-green cards: “PREP TIME” with a clock icon and “15 MIN,” “COOK TIME” with a skillet icon and “15 MIN,” and “MAKES” with a smiley face icon and “4 TACOS.”
+
+Mascots and decorative characters: Include exactly 7 cute character illustrations: 1 smiling pierogi mascot wearing a chef hat near the title, 1 pink bunny holding a bowl beside the ingredients panel, 1 happy potato character below the bunny, 1 green penguin-like character holding a taco in the tips section, 1 tan bear holding a taco near the bottom center, 1 yellow chick holding a hot sauce bottle on the right, and 1 smiling onion/garlic character wearing a chef hat at bottom right. Also include small heart, cloud, star, and sparkle stickers throughout.
+
+Ingredients section: On the left middle, create a rounded white recipe card with a pink label “INGREDIENTS.” List exactly 8 ingredients with small pastel star bullets: “8 frozen pierogies (potato & cheese or cheddar),” “4 small flour tortillas,” “1 cup shredded cabbage,” “1/4 cup diced tomatoes,” “1/4 cup sliced green onions,” “1/4 cup shredded cheddar cheese,” “1/4 cup sour cream,” and “1 tbsp olive oil.” Add an optional line: “Optional: hot sauce, salsa, lime wedges.”
+
+How-to section: Across the middle, create a blue banner reading “HOW TO MAKE” with a small star mascot. Under it, include exactly 4 numbered instruction cards with pastel number circles and illustrations. Card 1: skillet with pierogies, text: “HEAT OIL in a skillet over medium heat. Add pierogies and cook for 5-6 minutes per side until golden and crispy.” Card 2: warm tortilla illustration, text: “WARM tortillas in a dry skillet or microwave until soft and pliable.” Card 3: assembled taco illustration, text: “PLACE 2 pierogies in each tortilla. Top with cabbage, tomatoes, green onions, and cheese.” Card 4: finished taco with sauce drizzle, text: “ADD a dollop of sour cream and your favorite extras. Serve hot and enjoy!”
+
+Tips section: Bottom left, add a rounded white panel titled “TIPS & VARIATIONS” in purple. Include exactly 3 bullet tips: “Use different pierogi flavors like sauerkraut or mushroom!”, “Add cooked bacon or pulled pork for extra yum.” and “Spice it up with jalapeños or your fave hot sauce!” Add a small speech bubble saying “TRY IT YOUR WAY!”
+
+Bottom callouts: In the lower center, add a fluffy cloud bubble reading “COMFORT FOOD JUST GOT A TACO-TASTIC MAKEOVER!” In the lower left, add a yellow strip reading “PERFECT LEFTOVER MAKEOVER! GREAT FOR USING UP EXTRA PIEROGIES!” In the lower right, add a pink label “SERVE WITH LOVE!” above a small rectangular photo-style image of pierogi tacos and a blue bubble reading “Great for parties, weeknights, or pierogi cravings!”
+
+Visual style: Bright kawaii cookbook infographic, pastel pink, mint, lavender, yellow, and cream palette; rounded corners; thick black/dark brown outlines; glossy sticker highlights; cheerful hand-lettering; cozy comfort-food energy. Make the text legible and preserve all listed headings and labels. Avoid extra sections, extra steps, or extra mascots beyond the specified counts.
+```
+
+**来源：** [@Rafael Mendiola](https://x.com/GroundControl/status/2063750611653267957) | 2026-06-07
+
+---
+
+### 🎴 例 714：Acrylic VoxCat 时尚橱窗海报
+
+![Acrylic VoxCat 时尚橱窗海报](../images/Acrylic%20VoxCat%20%E6%97%B6%E5%B0%9A%E6%A9%B1%E7%AA%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版高端商业海报 / 收藏卡封面，主角为 {argument name="character name" default="VoxCat"}，将其描绘为一位迷人的暗黑时尚女英雄，置于透明亚克力奢华橱窗内。画布比例为 2:3 竖构图，具有电影质感和光泽感，背景为黑青色，带有烟雾状倒影、分层透明玻璃板和柔和的霓虹灯条。画面中心是一位全身动漫风格女性，自信站立，留着飘逸的 {argument name="hair color" default="深棕黑色配铜色挑染"} 长发，面部模糊或不显示五官，身着极具戏剧性的 {argument name="outfit description" default="黑色漆皮高定礼服，配有棱角分明的肩带、高开叉、半透明斗篷、几何三角形纹理、金属铜色装饰、颈圈和不对称露肩设计"}。采用高端时尚橱窗构图：前景为角色，中层为亚克力倒影和玻璃反光，背景为品牌几何图形和标识。在角色周围精确包含 11 个装饰性图形元素：人物身后 1 个大型亮粉色霓虹矩形边框，1 个内部深色矩形边框，左上角 1 个带有猫咪剪影的大型玫瑰金 V 字 Logo，Logo 下方 1 个品牌文字标识“VOXCAT”，左下角 1 个包含 5 条垂直粉色霓虹灯柱的大型轮廓圆圈，左下角 1 个豹纹倒三角形色块，左侧 1 组半透明矩形色块，左下角 1 个小型半透明玻璃底座，右侧 1 个带有桃色六边形和 2 条波浪线图案的面板，右下角 1 个小型轮廓圆圈，以及右下角 1 个低调的手写签名“voxCAT”。灯光应奢华且克制：洋红色霓虹轮廓光、青色玻璃边缘光、织物上的温暖铜色高光、柔焦倒影、淡淡的薄雾、微妙的辉光以及锐利的光泽材质细节。保持布局优雅简洁，如同亚克力展示柜与收藏卡表面的结合，将品牌标识和纤细的装饰线条融入结构中。无需额外文字，无水印，无需写实面部细节；强调分层透明感、高端海报美学以及精致的 gpt-image-2 风格。
+
+[English]
+Create a vertical high-end commercial poster / collectible card cover featuring {argument name="character name" default="VoxCat"} as a glamorous dark fashion heroine displayed inside a transparent acrylic luxury shop window. The canvas is portrait 2:3, cinematic and glossy, with a black teal background, smoky reflections, layered transparent panes, and soft neon light strips. Center a full-body anime-inspired woman standing confidently, long flowing {argument name="hair color" default="dark brown-black with copper highlights"}, face obscured or left featureless, wearing a dramatic {argument name="outfit description" default="black patent-leather couture gown with angular straps, high slit, translucent cape panels, geometric triangular textures, metallic copper accents, choker, and asymmetric shoulder cutouts"}. Use a premium fashion-window composition: foreground character, middle-layer acrylic reflections and glass glare, background brand geometry and signage. Include exactly 11 decorative graphic elements around her: 1 large hot-pink neon rectangular frame behind the figure, 1 inner darker rectangular frame, 1 large rose-gold V logo with a cat silhouette at upper left, 1 brand wordmark reading "VOXCAT" under the logo, 1 large outlined circle at lower left containing 5 vertical pink neon bars, 1 leopard-print inverted triangle block at lower left, 1 translucent rectangular block cluster on the left, 1 small translucent glass plinth at bottom left, 1 right-side panel with a peach hexagon and 2 wavy line motifs, 1 small outlined circle at lower right, and 1 low-key handwritten signature reading "voxCAT" at bottom right. Lighting should be luxurious and restrained: magenta neon rim light, teal glass edge glow, warm copper highlights on fabric, soft-focus reflections, faint haze, subtle bloom, and sharp glossy material detail. Keep the layout elegant and uncluttered, like an acrylic display case plus collectible card surface, with hidden branding and thin decorative lines integrated into the structure. No extra text, no watermark, no photorealistic face detail; emphasize layered translucency, premium poster aesthetics, and polished gpt-image-2 style.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063664371570749571) | 2026-06-07
+
+---
+
+### 🎴 例 715：宇宙动漫反派集换式卡牌
+
+![宇宙动漫反派集换式卡牌](../images/%E5%AE%87%E5%AE%99%E5%8A%A8%E6%BC%AB%E5%8F%8D%E6%B4%BE%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细的 {argument name="character role" default="动漫反派"} 肖像海报，{argument name="background theme" default="暗黑宇宙背景"}，传奇反派正面站立，单手遮住下半脸，姿态邪恶，发光的双眼直视观众，强大的气场在身体周围爆发，能量粒子，星云，墨迹飞溅，宇宙尘埃，戏剧性的轮廓光，高对比度阴影，电影级动漫插画，锐利的面部细节，肌肉发达的体格，高级漫画封面美学，与角色相符的 {argument name="color theme" default="鲜艳的单色主题"}，角色身后巨大的做旧字体显示着名字，巨大的粗体字母，日语汉字和英文副标题，侧面配有角色名言，能力属性面板，分类部分，标志性技能列表，可收藏的集换式卡牌布局，杂志信息图表设计，奢华海报构图，黑白图形元素，极其整洁的排版，分层视觉层级，发光效果，动态氛围，动漫艺术杰作，海报设计，高度细节，8K，竖屏壁纸，ArtStation 热门趋势。
+
+[English]
+Ultra-detailed {argument name="character role" default="anime villain"} portrait poster, {argument name="background theme" default="dark cosmic background"}, legendary antagonist standing front-facing, one hand covering the lower face in a sinister pose, glowing eyes staring directly at the viewer, powerful aura exploding around the body, energy particles, nebula clouds, ink splashes, cosmic dust, dramatic rim lighting, high contrast shadows, cinematic anime illustration, sharp facial details, muscular physique, premium manga cover aesthetic, {argument name="color theme" default="vibrant monochromatic color theme"} matching the character, giant distressed typography behind the character displaying the name in huge bold letters, Japanese kanji and English subtitles, character quote on the side, power stats panel, classification section, signature abilities list, collectible trading-card layout, magazine infographic design, luxury poster composition, white and black graphic elements, ultra-clean typography, layered visual hierarchy, glowing effects, dynamic atmosphere, masterpiece anime artwork, poster design, highly detailed, 8K, vertical wallpaper, trending on ArtStation.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2063651919596568876) | 2026-06-07
+
+---
+
+### 🎴 例 717：Lightning Bolt 超级跑车
+
+![Lightning Bolt 超级跑车](../images/Lightning%20Bolt%20%E8%B6%85%E7%BA%A7%E8%B7%91%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="超级跑车"} 从风暴云中冲出，车身完全由 {argument name="color" default="蓝色"} 闪电组成，湿润的反光路面，背景中雷声轰鸣，电影级动作广告，高速能量轨迹，超精细汽车渲染，豪华商业摄影，8K。
+
+[English]
+{argument name="subject" default="Supercar"} emerging from a storm cloud, body formed entirely from {argument name="color" default="blue"} lightning bolts, wet reflective road, thunder exploding in background, cinematic action advertising, high-speed energy trails, ultra-detailed automotive render, luxury commercial photography, 8K.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2063649073819959502) | 2026-06-07
+
+---
+
+### 🎴 例 727：职业足球运动员更衣室海报
+
+![职业足球运动员更衣室海报](../images/%E8%81%8C%E4%B8%9A%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%9B%B4%E8%A1%A3%E5%AE%A4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+职业体育海报，{argument name="athlete" default="足球守门员"} 坐在球队更衣室的长椅上，身穿 {argument name="kit color" default="浅蓝色"} 1 号守门员队服，佩戴白色守门员手套，神情专注而强烈。背景悬挂着印有名字和号码的红色队服，{argument name="background style" default="带有比利时国旗配色的黑、黄、红三色笔触喷溅效果"}。动态体育摄影，戏剧性光影，质感十足的垃圾摇滚风格叠加，现代海报设计，高细节，8k 分辨率，照片级真实感
+
+[English]
+Professional sports poster, {argument name="athlete" default="football goalkeeper"} sitting in team locker room on bench, wearing {argument name="kit color" default="light blue"} goalkeeper kit with number 1, white goalkeeper gloves, focused intense expression. Background with hanging red team jerseys with names and numbers, {argument name="background style" default="black and yellow red brush stroke paint splashes in Belgian flag colors"}. Dynamic sports photography, dramatic lighting, textured grunge overlay, modern poster design, high detail, 8k, photorealistic
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2063625767167082849) | 2026-06-07
+
+---
+
+### 🎴 例 744：街头潮流悬浮海报设计
+
+![街头潮流悬浮海报设计](../images/%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%82%AC%E6%B5%AE%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端街头时尚海报，展示了一位 {argument name="subject" default="戴面具的年轻人"} 悬浮在日落时分未来感城市天际线的高空。采用极具戏剧性的低角度拍摄，捕捉动态的自由落体姿态，营造出夸张的尺度感与运动感。主体身着 {argument name="outfit" default="带有微妙 'BRNX' 品牌标识的超大号褪色黑色连帽衫、宽松的做旧牛仔裤以及干净的白色运动鞋"}。
+
+巨大的手绘笔触字体拼写出 "{argument name="text" default="FALL"}"，以醒目的做旧白色大字占据背景，并与构图完美融合。悬浮的人物部分遮挡了字体，营造出深度感和杂志封面美学。
+
+背景展示了密集的摩天大楼和闪烁的窗户，呈现出电影级的景深模糊效果。温暖的金色阳光从右上角穿透云层，营造出戏剧性的体积光束、大气雾霾、漂浮的尘埃颗粒、镜头光晕以及逼真的阴影投射。
+
+设计风格融合了奢侈街头服饰广告、城市文化杂志封面、高级平面设计以及 Behance 精选海报艺术。包含撕纸拼贴元素、编辑排版设计、细腻的脏旧纹理、手写励志笔记、条形码图形、几何 UI 符号以及现代品牌细节。排版内容包括：
+
+"NINE TIMES AND RISE AGAIN" "DISCIPLINE BUILDS FREEDOM" "FALL DOWN. GET UP. REPEAT." "BRNX"
+
+主体呈现出自然的空中悬浮状态，物理效果逼真，衣物褶皱随重力和运动自然反应。一只运动鞋靠近镜头，形成极端的透视畸变，营造出强烈的电影级视觉冲击力。
+
+超逼真的皮肤纹理、细腻的织物材质、高级牛仔布纹理、逼真的缝线、清晰的服装细节、专业调色、高对比度光影、细腻的胶片颗粒、电影级光泽、都市奢华美学、现代街头文化氛围、时尚大片质感、获奖海报设计、超高细节、照片级真实感、8K 分辨率、HDR、主体焦点锐利。
+
+负面提示词：低质量、主体模糊、多余肢体、多余手指、畸形手部、解剖结构错误、身体部位重复、面部扭曲、水印、Logo 错误、文字伪影、排版渲染不佳、色彩过度饱和、卡通、动漫、插画、CGI 感、塑料质感皮肤、低分辨率、压缩伪影、光线平淡、透视错误、阴影不真实、脚部被裁切、头部被裁切、构图杂乱、噪点过多、失焦、细节缺失、对比度弱、业余设计。
+
+[English]
+Ultra-premium streetwear fashion poster featuring a {argument name="subject" default="young masked man"} floating high above a futuristic urban skyline at sunset. Dynamic free-fall pose captured from a dramatic low-angle perspective, creating an exaggerated sense of scale and motion. The subject wears an {argument name="outfit" default="oversized faded black hoodie with subtle 'BRNX' branding, baggy distressed denim jeans, and clean white sneakers"}.
+
+Massive hand-painted brushstroke typography spelling "{argument name="text" default="FALL"}" dominates the background in huge distressed white letters, integrated seamlessly into the composition. The floating figure partially overlaps the typography, creating depth and magazine-cover aesthetics.
+
+Background shows a dense cityscape of towering skyscrapers and glowing windows, heavily blurred with cinematic depth of field. Warm golden sunlight bursts through clouds from the upper right corner, creating dramatic volumetric light rays, atmospheric haze, floating dust particles, lens bloom, and realistic shadow casting.
+
+Design style combines luxury streetwear advertising, urban culture magazine covers, premium graphic design, and Behance-featured poster artwork. Include torn-paper collage elements, editorial layout design, subtle grunge textures, handwritten motivational notes, barcode graphics, geometric UI symbols, and modern branding details. Typography layout includes:
+
+"NINE TIMES AND RISE AGAIN" "DISCIPLINE BUILDS FREEDOM" "FALL DOWN. GET UP. REPEAT." "BRNX"
+
+The subject appears suspended naturally in mid-air with realistic physics, clothing folds reacting to gravity and motion. One sneaker is positioned close to the camera lens for extreme perspective distortion, creating a powerful cinematic effect.
+
+Ultra-realistic skin texture, detailed fabric materials, premium denim textures, realistic stitching, sharp clothing details, professional color grading, high contrast lighting, subtle film grain, cinematic glow, urban luxury aesthetic, modern street culture vibe, fashion campaign quality, award-winning poster design, hyper-detailed, photorealistic, 8K resolution, HDR, razor-sharp focus on subject.
+
+Negative Prompt: low quality, blurry subject, extra limbs, extra fingers, deformed hands, bad anatomy, duplicate body parts, distorted face, watermark, logo errors, text artifacts, poorly rendered typography, oversaturated colors, cartoon, anime, illustration, CGI look, plastic skin, low resolution, compression artifacts, flat lighting, bad perspective, unrealistic shadows, cropped feet, cropped head, messy composition, noisy image, out of focus, low detail, weak contrast, amateur design.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2063582298721951890) | 2026-06-07
+
+---
+
+### 🎴 例 747：通用创意广告模板
+
+![通用创意广告模板](../images/%E9%80%9A%E7%94%A8%E5%88%9B%E6%84%8F%E5%B9%BF%E5%91%8A%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="主体" default="手表"}为核心。
+创造一个前所未见的视觉概念。
+主体突破现实尺度与物理规则。
+采用国际广告大奖级创意思维。
+强调视觉隐喻、尺度反差、空间错觉与故事表达。
+构图简洁但极具记忆点。
+兼具艺术性、商业传播性与视觉冲击力。
+令人过目难忘。
+
+超高创意，超高审美。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2063569402122121308) | 2026-06-07
+
+---
+
+### 🎴 例 758：抽象超现实视觉隐喻
+
+![抽象超现实视觉隐喻](../images/%E6%8A%BD%E8%B1%A1%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%A7%86%E8%A7%89%E9%9A%90%E5%96%BB.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="主体" default="狗"}为核心。 创造一个前所未见的视觉概念。 主体突破现实尺度与物理规则。 采用国际广告大奖级创意思维。 强调视觉隐喻、尺度反差、空间错觉与故事表达。 构图简洁但极具记忆点。 兼具艺术性、商业传播性与视觉冲击力。 令人过目难忘。 超高创意，超高审美。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2063536178645917866) | 2026-06-07
+
+---
+
+### 🎴 例 779：奇幻国家旅行海报
+
+![奇幻国家旅行海报](../images/%E5%A5%87%E5%B9%BB%E5%9B%BD%E5%AE%B6%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实奇幻旅行海报，中心垂直展开的古老羊皮纸卷轴带有木质卷轴轴，展现出 {argument name="country" default="[COUNTRY]"} 的壮丽景色。羊皮纸上写有优雅的草书书法文字“{argument name="country" default="[COUNTRY]"}”，上方饰有装饰性花纹和百合花饰。卷轴左上角别着一枚小的 {argument name="flag" default="[FLAG]"} 丝带。文字附近有 [RED SEAL/STAMP]。
+
+卷轴无缝融合进超精细的 3D 场景：日落时分的 [LANDMARKS]，伴有黄金时刻的灯光、河流/湖泊以及带有柔和云朵的戏剧性天空。2D 卷轴变为 3D 风景的魔法过渡。
+
+前景：在铺着方格布的石面上摆放着传统的 {argument name="country" default="[COUNTRY]"} 美食盛宴。[FOODS] —— 所有物品均超精细、新鲜，带有蒸汽和逼真的质感。包含 [DRINK/TEA] 套装。
+
+左上角：[FLOWERS] 枝条垂下，带有水滴和飘落的花瓣。
+
+风格：8k，电影级灯光，景深，奇幻数字艺术，超写实，超精细纹理，魔幻现实主义，旅行摄影，梦幻氛围，体积光
+
+[English]
+Ultra photorealistic fantasy travel poster, ancient parchment scroll unrolling vertically in the center with wooden scroll holders, revealing a breathtaking landscape of {argument name="country" default="[COUNTRY]"}. Elegant cursive calligraphy text "{argument name="country" default="[COUNTRY]"}" on the parchment with decorative flourishes and fleur-de-lis ornament above it. Small {argument name="flag" default="[FLAG]"} ribbon pinned to top left of scroll. [RED SEAL/STAMP] near the text. 
+
+The scroll blends seamlessly into a hyper-detailed 3D scene: [LANDMARKS] at sunset with golden hour lighting, river/lake, dramatic sky with soft clouds. Magical transition where the 2D scroll becomes 3D landscape.
+
+Foreground: Traditional {argument name="country" default="[COUNTRY]"} food feast arranged on stone surface with checkered cloth. [FOODS] - all items hyper detailed, fresh, with steam and realistic textures. Include [DRINK/TEA] set. 
+
+Top left corner: [FLOWERS] branches hanging down with water droplets and falling petals. 
+
+Style: 8k, cinematic lighting, depth of field, fantasy digital art, photorealistic, ultra detailed textures, magical realism, travel photography, dreamy atmosphere, volumetric lighting
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2063476114606162099) | 2026-06-07
+
+---
+
+### 🎴 例 782：复古水粉画时尚杂志封面
+
+![复古水粉画时尚杂志封面](../images/%E5%A4%8D%E5%8F%A4%E6%B0%B4%E7%B2%89%E7%94%BB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古水粉画时尚杂志封面插图，特写肖像主体为 {argument name="subject" default="一位年轻女性"}，拥有 {argument name="hair style" default="光泽感雕塑发型"}，精致的超大 {argument name="eye color" default="深祖母绿"} 色双眸，瓷器般细腻的肌肤带有柔和腮红和细小雀斑，双唇，身着带有装饰元素的服装，发丝和领口处点缀细节，背景设定。光泽感雕塑发型，细腻的黑色墨水笔触，柔和的喷绘色块，手绘花卉装饰，装饰性书法花体，陈旧纸张纹理，褪色的印刷质感，优雅的封面构图，柔和的色调，浪漫而神秘的表情。在顶部添加虚构的杂志 Logo “{argument name="magazine name" default="LUMIÈRE"}”，封面标题为 “{argument name="main title" default="VINTAGE ECHOES"}”，主标题为 “HEADLINE”，两侧各有一行较小的封面文案，印刷价格 “PRICE”，顶部附近有一行小字期号，底部角落带有条形码。宽高比 4:5。
+
+[English]
+Vintage gouache fashion magazine cover illustration featuring a close-up portrait of {argument name="subject" default="a young woman"} with {argument name="hair style" default="glossy sculpted hair"}, delicate oversized {argument name="eye color" default="deep emerald"} eyes, porcelain skin with soft blush and tiny freckles, lips, wearing clothing with elements tucked into the hair and neckline, set against background. Glossy sculpted hair, fine black ink accents, soft airbrushed color fields, hand-painted floral ornament, decorative calligraphic flourishes, aged paper grain, faded print texture, elegant cover composition, muted palette, romantic mysterious expression. Add a fictional magazine logo reading "{argument name="magazine name" default="LUMIÈRE"}" at the top, a cover title reading "{argument name="main title" default="VINTAGE ECHOES"}", a main headline reading "HEADLINE", two smaller side cover lines, a printed price "PRICE", a small issue line near the top, and a barcode at the bottom corner. Aspect ratio 4:5.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2063468923824345458) | 2026-06-07
+
+---
+
+### 🎴 例 786：Maverick 飞行员风格生活海报
+
+![Maverick 飞行员风格生活海报](../images/Maverick%20%E9%A3%9E%E8%A1%8C%E5%91%98%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%B4%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张酷炫的生活方式广告海报。一位留着凌乱短发、身穿白色亚麻衬衫的时尚年轻男子，随意地倚靠在一副巨大的黑色飞行员太阳镜旁，太阳镜的高度是他身高的 2.5 倍，金色镜框在光线下闪耀，内侧镜腿上刻有金色的 "{argument name="brand name" default="MAVERICK"}" 字样。背景是温暖的日落海滩，带有黄金时刻的焦外成像效果和模糊的海景。背景中填充着醒目、自信的金色斜体文字 "{argument name="background text" default="MAVERICK"}"。底部标语："{argument name="tagline" default="Look cool. Stay cool."}"。右上角的小字写着 "Designed with GPT Image 2"，颜色为灰色。照片级真实感，夏季时尚生活方式大片，温暖的金色日落海滩光影。
+
+[English]
+A cool lifestyle advertisement poster. A stylish young man with tousled hair in a white linen shirt leans back casually beside a giant pair of black aviator sunglasses 2.5x his height with gold frames catching the light, "{argument name="brand name" default="MAVERICK"}" engraved on the inner arm in gold. Warm sunset beach background with golden hour bokeh light and ocean blur. Bold confident italic typography "{argument name="background text" default="MAVERICK"}" in gold filling the background. Tagline bottom: "{argument name="tagline" default="Look cool. Stay cool."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, summer lifestyle fashion editorial, warm golden sunset beach lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2063462928813056489) | 2026-06-07
+
+---
+
+### 🎴 例 789：高端运动杂志海报
+
+![高端运动杂志海报](../images/%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端极简主义运动海报，主体为 {argument name="subject" default="自信的男士"}，需与参考图一致，使用相同面部，身着优雅的全黑 {argument name="brand" default="Nike"} 服装，包括黑色 Nike 夹克、Nike 衬衫、修身长裤和白色 Nike 运动鞋，正向前行走。背景为巨大的黑白侧面肖像，面部细节锐利，皮肤纹理真实，表情自然，具有电影般的景深感。“KAY” 采用醒目的垂直排版，通过现代剪裁技术巧妙地融入肖像中。背景为干净的白色，带有引人注目的红色几何杂志封面美学，高端品牌风格，现代编辑排版，电影级灯光，微妙的阴影，真实的深度，专业的广告大片质感，Nike 风格运动海报，超写实摄影，细节清晰，高对比度，“{argument name="text" default="ChillaiKalan__"}” 高端排版，构图有力，精致的平面设计，Instagram 热门海报风格，Adobe Photoshop 杰作，4K 超高清，焦点清晰，垂直 4:5 比例。
+
+[English]
+Create Ultra-premium minimalist sports poster featuring a {argument name="subject" default="confident man"} same as refrence image use same face walking forward in an elegant all-black outfit of {argument name="brand" default="Nike"}, black jacket Nike, nike shirt, tailored trousers, and white Nike sneakers. Massive black-and-white side-profile portrait dominating the background with sharp facial details, realistic skin texture, natural expression, and cinematic depth.“KAY” Bold vertical typography creatively integrated through the portrait using modern cutout techniques.Clean white background with striking red geometric magazine cover aesthetic, premium branding style, modern editorial layout, cinematic lighting, subtle shadows, realistic depth, professional advertising campaign look, Nike-inspired sports poster, ultra-realistic photography, crisp details, high contrast, “{argument name="text" default="ChillaiKalan__"}” premium typography, powerful composition, sophisticated graphic design, trending Instagram poster edit, Adobe Photoshop masterpiece, 4K Ultra HD, sharp focus, vertical 4:5 aspect ratio.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2063461592839385427) | 2026-06-07
+
+---
+

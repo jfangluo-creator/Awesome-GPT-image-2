@@ -2099,3 +2099,157 @@ Ultra-realistic {argument name="subject" default="Korean casual girl"} portrait,
 
 ---
 
+### 🧍 例 768：昭和摩登铭仙和服时尚
+
+![昭和摩登铭仙和服时尚](../images/%E6%98%AD%E5%92%8C%E6%91%A9%E7%99%BB%E9%93%AD%E4%BB%99%E5%92%8C%E6%9C%8D%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+添付画像をキャラクター参照として使用し、キャラクターの同一性を維持したまま、新規の{argument name="ファッションテーマ" default="昭和モダンな和洋折衷ファッション"}のイラストとして描く。参照画像の顔立ち、髪型、髪色、瞳の色と形、年齢感、体型、雰囲気、魅力、性格の印象、モチーフ性、種族的特徴や象徴的ディテールを維持し、別人にしない。元の衣装は再現せず、キャラクターらしさだけを引き継いで完全に新しい衣装へ着替えさせる。参照画像は同一性把握のための資料として扱い、元画像の衣装、ポーズ、構図、カメラアングル、体の向き、手の位置、視線方向、背景、レイアウトは引き継がない。衣装は、銘仙をイメージした昭和モダンな和洋折衷スタイルにする。昭和初期の都市的なおしゃれ着・外出着らしい、軽やかな銘仙風の着物をベースにする。{argument name="着物の柄" default="幾何学柄、矢絣、縞、斜めの切り替え、抽象花柄、アールデコ調の要素"}を取り入れ、銘仙らしい大胆でモダンな柄構成にする。先染めの絣らしい、わずかなにじみ、かすかなズレ感、少し柔らかな輪郭表現をさりげなく加え、銘仙特有の味わいを感じさせる。配色は華やかでレトロ感のあるものにし、紺、えんじ、くすみ紫、生成り、マスタード、青緑などを差し色として使ってよい。豪華すぎる礼装ではなく、洒落着としての親しみやすさと上品さを持たせる。洋風の帽子、短めの羽織、ショール、手袋、革バッグ、ブーツまたはパンプスを合わせ、和装と洋装が自然に溶け合った都会的で上品なスタイルにする。必要に応じて、キャラクターの象徴的なモチーフを帯留め、帽子飾り、刺繍、バッグ金具、アクセサリー、小物などにさりげなく反映する。背景は{argument name="背景設定" default="昭和初期の街並み、純喫茶の前、路面電車のある街角、レトロ看板のある商店街、またはノスタルジックな喫茶店の店内"}などにする。暖色の灯り、古い街灯、石畳、クラシックな建物、木製家具、ステンドグラスなどを取り入れ、昭和モダンらしいノスタルジックで上品な雰囲気にする。ただし背景は控えめにし、主役は常にキャラクターとする。ポーズ、構図、カメラアングル、表情には自然な変化をつけ、静止した立ち絵ではなく、物語性や空気感のある一枚絵として成立させる。仕上げは参照画像の絵柄、塗り、線の質感、色使いに寄せ、元画像の雰囲気を崩さない。
+```
+
+**来源：** [@Mio@AIイラスト](https://x.com/MioWorkshop/status/2063516639476519029) | 2026-06-07
+
+---
+
+### 🧍 例 774：黑白时尚编辑拼贴画
+
+![黑白时尚编辑拼贴画](../images/%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端 {argument name="style" default="黑白时尚编辑拼贴画"}，呈现一位迷人的年轻女性，其面部特征、身份和样貌完全忠实于参考图像。仅保留其面部结构、眼睛、嘴唇和独特的个人美感；发型、妆容、服装、姿势和造型均进行彻底重塑。她与一位英俊的年轻 {argument name="male partner" default="欧洲男性"} 同框，男方拥有迷人的蓝色眼睛、轮廓分明的下颌线、优雅的五官和极具魅力的气质。两人之间散发着强烈的化学反应、高级感和浪漫张力。女性身着奢华的欧式时尚套装：一件剪裁考究的黑色大廓形西装外套优雅地披在修身的白色丝绸紧身胸衣外，搭配一条带有高开叉设计的时髦高腰裙。造型包括迷人的柔顺波浪卷发、光泽感秀发、透亮肌肤、精致的轮廓妆容、烟熏眼妆、根根分明的睫毛、细腻的修容以及自然的亮面唇妆。现代高级珠宝点缀为整体造型画龙点睛。男性身着精致的奢华 {argument name="male outfit" default="职场风西装"}：剪裁合身的黑色长裤、修身黑色马甲、领口微敞的挺括白衬衫、袖口随意卷起，搭配奢华腕表，造型优雅，既干练又不失随性魅力。他的形象成熟、时髦、充满阳刚之气，极具时尚大片质感。多种艺术构图排列在深黑色背景上的戏剧性撕纸拼贴布局中：• 额头轻触的亲密特写肖像 • 地面上的浪漫坐姿，肢体语言放松 • 真诚的欢笑与深情的拥抱 • 面对面站立，眼神交流强烈 • 背靠背的高级时尚编辑姿势 • 侧脸近吻的电影感张力构图 • 手扶腰间的优雅姿势，展现化学反应 • 强调眼神与表情的情感特写肖像。黑白奢华美学、戏剧性影棚灯光、高对比度阴影、电影级景深、高端 Vogue 风格时尚摄影、韩剧浪漫氛围、情感叙事、精致感官享受、奢侈品牌广告大片质感、忧郁浪漫氛围、艺术构图、超精细纹理、真实皮肤质感、杂志封面级品质、永恒的黑白杰作、获奖级时尚摄影。
+
+[English]
+Ultra-premium {argument name="style" default="black-and-white editorial fashion collage"} featuring a stunning young woman whose facial features, identity, and likeness are faithfully preserved from the reference image. Only her facial structure, eyes, lips, and distinctive beauty are retained; her hairstyle, makeup, wardrobe, pose, and styling are completely transformed. She appears alongside a handsome young {argument name="male partner" default="European man"} with captivating blue eyes, sharp jawline, elegant facial features, and charismatic presence. The couple radiates intense chemistry, sophistication, and romantic tension. The woman wears a luxurious European-inspired fashion ensemble: an oversized tailored black blazer draped elegantly over a fitted white silk corset-style top, paired with a sleek high-waisted skirt featuring a tasteful slit. Her styling includes glamorous soft waves, glossy hair, luminous skin, sculpted makeup, smoky eyes, defined lashes, subtle contouring, and natural glossy lips. Modern high-fashion jewelry accents complete the look. The man wears a refined luxury {argument name="male outfit" default="office-inspired suit"}: tailored black trousers, fitted black waistcoat, crisp white shirt partially unbuttoned at the collar, sleeves casually rolled up, luxury watch, elegant styling, polished yet effortlessly attractive. His appearance is sophisticated, chic, masculine, and editorial-fashion worthy. Multiple artistic compositions arranged across a dramatic torn-paper collage layout on a deep black background: • Intimate close-up portrait with foreheads nearly touching • Romantic seated pose on the floor with relaxed body language • Genuine laughter and affectionate embrace • Standing face-to-face with intense eye contact • Back-to-back high-fashion editorial pose • Near-kiss side-profile composition with cinematic tension • Elegant hand-on-waist pose showcasing chemistry • Close-up emotional portrait emphasizing eyes and expressions Monochrome luxury aesthetic, dramatic studio lighting, high contrast shadows, cinematic depth, premium Vogue-style fashion photography, Korean drama romance atmosphere, emotional storytelling, sophisticated sensuality, luxury editorial campaign quality, moody romantic ambiance, fine-art composition, ultra-detailed textures, realistic skin, magazine cover quality, timeless black-and-white masterpiece, award-winning fashion photography.
+```
+
+**来源：** [@Jessica Collins](https://x.com/AIwithJessica/status/2063490432236237177) | 2026-06-07
+
+---
+
+### 🧍 例 778：花海中的“猫咪乱入”摄影
+
+![花海中的“猫咪乱入”摄影](../images/%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E2%80%9C%E7%8C%AB%E5%92%AA%E4%B9%B1%E5%85%A5%E2%80%9D%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的参考图作为主要面部参考。保留参考图中完全一致的面部特征、面部比例、发型、发际线、肤色、眼睛、眉毛、鼻子、嘴唇、下颌线、笑容、表情、年龄及整体外观。保持最高程度的面部相似度和角色一致性。请勿重新设计、美化、更改、风格化或替换面部。确保该女性完全可辨认，并与上传的图像保持视觉上的一致。
+
+超写实的手机抓拍照片，拍摄于明亮的夏日午后，手机放置在花海的地面上。
+
+手机被特意摆放，旨在拍摄远处荡秋千的女性。
+
+然而，一只意想不到的 {argument name="animal" default="橘猫"} 在快门按下的瞬间突然走到了镜头正前方。
+
+最终呈现出一张构图完全“毁掉”的照片。
+
+前景：
+
+一只胖乎乎的橘猫占据了画面主体，极端的特写视角，大而好奇的眼睛，橘色的毛发填满了大部分画面，鼻子极度靠近镜头，胡须部分遮挡了视野，略微扭曲的广角透视，猫咪表现得仿佛它是照片的主角。
+
+背景：
+
+来自上传参考图的女性，在猫咪身后若隐若现，因景深效果略显模糊，完全没反应过来，一边大笑一边试图挥手赶走猫咪。
+
+外观：
+
+与上传参考图相同的面部、发型、肤色、表情、身体比例，健康的透亮肤色，真实的皮肤质感。
+
+服装（全覆盖式服装）：
+
+{argument name="clothing" default="端庄的休闲夏装，长袖白衬衫，覆盖双腿的宽松蓝色牛仔裤，腰间系着红格子法兰绒衬衫，白色袜子，黑色运动鞋"}，全覆盖式服装，无露脐装，无短裤，无裸露腰部，适合家庭的造型，舒适的户外风格。
+
+表情：
+
+难以置信地大笑，笑容灿烂，略显尴尬，又好气又好笑，笑得停不下来。
+
+肢体语言：
+
+抓着秋千链条，一只脚轻轻触地，身体前倾，一只手伸向猫咪，捕捉到大笑的瞬间，真实的抓拍反应。
+
+环境：
+
+{argument name="setting" default="开阔的草地，覆盖着鲜艳的红罂粟花，翠绿的草丛，花瓣在微风中摇曳，开阔的乡村氛围，没有树木，地平线一览无余"}。
+
+天空：
+
+深邃的夏日蓝天，高耸的白云，极具氛围感的景深。
+
+光影：
+
+强烈的夏日自然光，明亮欢快的照明，干净的高光，真实的阴影，温暖的季节色彩，高动态范围。
+
+氛围：
+
+混乱的夏日快乐，意想不到的喜剧感，轻松的“灾难”，俏皮的活力，一张被完美“毁掉”的照片。
+
+摄影：
+
+智能手机相机，极端的低角度地面视角，24mm 广角镜头，前景主体比例夸张。
+
+[English]
+Use the uploaded reference image as the primary facial reference. Preserve the exact facial identity, facial proportions, hairstyle, hairline, skin tone, eyes, eyebrows, nose, lips, jawline, smile, expression, age, and overall appearance from the reference image. Maintain maximum facial similarity and character consistency. Do not redesign, beautify, alter, stylize, or replace the face. Keep the woman fully recognizable and visually consistent with the uploaded image.
+
+Ultra-realistic candid smartphone photography captured from a phone placed on the ground in a flower field during a bright summer afternoon.
+
+The phone was intentionally positioned to photograph the woman enjoying a swing in the distance.
+
+However, an unexpected {argument name="animal" default="orange tabby cat"} suddenly walks directly in front of the camera at the exact moment the photo is taken.
+
+The result is a completely ruined composition.
+
+FOREGROUND:
+
+a chubby orange tabby cat dominates the frame, extreme close-up perspective, large curious eyes, orange fur filling most of the image, nose extremely close to the lens, whiskers partially obscuring the view, slightly distorted wide-angle perspective, the cat behaves like it is the main character of the photo.
+
+BACKGROUND:
+
+the woman from the uploaded reference image, partially visible behind the cat, slightly blurred by depth of field, caught completely off guard, laughing while trying to wave the cat away.
+
+APPEARANCE:
+
+same face as uploaded reference image, same hairstyle, same skin tone, same facial expression, same body proportions, healthy glowing skin, realistic skin texture.
+
+OUTFIT (FULLY COVERED CLOTHING):
+
+{argument name="clothing" default="modest casual summer outfit, full-sleeve white shirt, loose-fit blue denim jeans covering the entire legs, red plaid flannel shirt tied around the waist, white socks, black sneakers"}, fully covered clothing, no crop top, no shorts, no exposed midriff, family-friendly appearance, comfortable outdoor styling.
+
+EXPRESSION:
+
+laughing in disbelief, wide smile, slightly embarrassed, amused frustration, unable to stop laughing.
+
+BODY LANGUAGE:
+
+holding onto the swing chains, one foot lightly touching the ground, torso leaning forward, one hand reaching toward the cat, captured mid-laughter, genuine candid reaction.
+
+ENVIRONMENT:
+
+{argument name="setting" default="vast meadow covered with vivid red poppy flowers, bright green grass, flower petals moving in the breeze, open countryside atmosphere, no trees, unobstructed horizon"}.
+
+SKY:
+
+deep blue summer sky, towering white clouds, epic atmospheric depth.
+
+LIGHTING:
+
+strong natural summer sunlight, bright cheerful illumination, clean highlights, realistic shadows, warm seasonal colors, high dynamic range.
+
+MOOD:
+
+chaotic summer happiness, unexpected comedy, lighthearted disaster, playful energy, perfectly ruined photograph.
+
+PHOTOGRAPHY:
+
+smartphone camera, extreme low-angle ground-level perspective, 24mm wide-angle lens, foreground subject disproportionately large
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2063477181041508669) | 2026-06-07
+
+---
+

@@ -1386,3 +1386,117 @@ Using the provided reference image, extend the canvas slightly and transform the
 
 ---
 
+### 🧸 例 712：Felt AI Magic School Infographic
+
+![Felt AI Magic School Infographic](../images/Felt%20AI%20Magic%20School%20Infographic.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="school name" default="MakiのAI开发魔法学校"} 创建一个适合社交媒体的正方形毛毡与刺绣风格图形记录项目，将可爱的巫师猫吉祥物与 AI 研究思维导图相结合。设计应呈现手工毛毡拼贴效果：缝合边缘、布料补丁、纸质便签、纱线轮廓、粉笔痕迹以及细小的缝制星星。
+
+画布：1:1 正方形构图，暖米色牛皮纸背景，大部分区域为深海军蓝黑板，顶部带有圆角缝合横幅，布局紧凑且易读，整体充满温馨的手工质感。
+
+主标题与标题：顶部放置一个奶油色缝合横幅，写有标题“MakiのAI开发魔法学校”及小金星。在黑板顶部中央，写上“今日的研究魔法”，并附上大号引语 {argument name="main quote" default="「代码进化，Agent 规划」"}，下方用粉色粉笔线标出下划线。
+
+角色：在左侧放置 1 个核心吉祥物：一只奶油色毛毡巫师猫，戴着装饰有黄色星星的海军蓝巫师帽和斗篷，佩戴红色圆框眼镜，手持一根顶端带有花朵装饰的红色魔杖。猫咪拥有简单的黑色缝合面部特征，表情可爱且认真。
+
+中心图表：在项目中央绘制 1 个圆形粉笔风格的研究循环图，周围带有箭头，中心是一个标有“AI Agent”的小型 AI Agent 面部图标。周围放置 4 个彩色毛毡椭圆形节点：1 个粉色节点标注“代码进化 </>”，1 个蓝色节点标注“问题发现”并带有放大镜图标，1 个绿色节点标注“适应规划”并带有清单图标，以及 1 个黄色节点标注“角色扮演”并带有小型聊天/人物图标。使用白色箭头将所有节点连接成一个循环。
+
+对话气泡与标注：在项目周围包含 6 个缝合的奶油色对话气泡：左上角气泡写着“研究相互关联并进化！”，猫咪附近气泡写着“从机制看，研究更连贯！”，左下角气泡写着“发现新问题，推动研究向前！”，左中气泡写着“代码进化！更新至更好的解决方案！”，右上角气泡写着“用魔法（机制）培养 AI！”，右中气泡写着“通过角色扮演，实现连贯对话！”。如果空间允许，在右下角增加 1 个奶油色气泡，写着“制定规划，在约束条件下实现最优！”并保持缝合风格。
+
+研究卡片：在下方中间位置，放置 5 张用图钉固定的布料/纸质卡片，上方标有小标签“今日研究论文（最新）”。卡片从左到右依次为：1 张粉色卡片“Code2LoRA / 适配代码进化的 LoRA 生成 / </>”，1 张黄色卡片“ArcANE / 角色扮演语言 Agent 的一致性”，1 张浅蓝色卡片“TIDE / 模板引导的多重问题发现”，1 张绿色卡片“AdaPlanBench / 约束下的适应规划评估”，以及下方 1 条小型中央粉色引用带，写着“Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation / 未知语言翻译的上下文学习”，并附带地球图标。
+
+侧边栏与笔记：添加 2 个深色黑板侧边栏：左下侧边栏标题为“研究循环”，列出带有勾选标记的步骤“问题发现 → 代码进化 → 角色扮演 → 适应规划 → 进入下一个问题！”，右下侧边栏标题为“代码示例”，包含简短的伪代码行，如“for step in plan: obs = observe(); thought = think(obs); action = act(thought); result = evaluate(); update(code, result)”。在右上角添加 1 张用图钉固定的纸质笔记，标题为“代码魔法备忘”，包含简短代码块：“def think(plan): obs = observe(); act = plan(obs); return act”以及“# evolve(code)”和“# adapt(plan)”。
+
+底部区域：沿底部包含 3 组小型笔记：1 张黄色清单笔记，标题为“魔法检查”，包含三行复选框“有关联吗？”，“能尝试吗？”，“可复现吗？”，1 张打开的笔记本笔记“研究笔记”，以及 1 个奶油色气泡写着“失败也是咒语的材料哦！”，旁边配有一个简单的兔子涂鸦。右下角添加一个深色缝合横幅，标题为“今日咒语”，内容为 {argument name="spell phrase" default="进化、角色、规划组合阅读"}，并配有一根小魔杖。
+
+装饰元素：右上角包含 1 个毕业帽图标，左上角 1 个原子/科学涂鸦，右侧 1 个小型机器人涂鸦，板面上散布着许多缝合的小星星和闪光，以及白色粉笔箭头、图钉、胶带和线缝。
+
+视觉风格：日系可爱教育信息图，毛毡图形记录，手工刺绣，柔和阴影，触感布料纹理，黑板字体，奇幻 AI 魔法学校主题，暖米色与海军蓝配色，辅以红、黄、粉、蓝、绿点缀。确保文字清晰易读，同时保留迷人的手绘不规则感。
+
+约束：不使用照片级真实感，不使用光泽 3D，除那只猫外不添加额外吉祥物，无水印，无 Logo，并保持适合社交媒体分享的正方形布局平衡。
+
+[English]
+Goal: Create a square social-media-ready felt-and-embroidery graphic recording board for {argument name="school name" default="MakiのAI開発魔法学校"}, mixing a cute wizard cat mascot with an AI research mind map. The design should look like a handmade felt collage: stitched borders, fabric patches, paper notes, yarn outlines, chalk marks, and tiny sewn stars.
+
+Canvas: Square 1:1 composition, warm beige craft-paper background, large dark navy chalkboard occupying most of the image, rounded stitched top banner, dense but readable layout, cozy handmade texture throughout.
+
+Main title and headline: At the top, put a cream stitched banner with the title “MakiのAI開発魔法学校” and small gold stars. In the center top of the chalkboard, write “今日の研究魔法” and the large quote {argument name="main quote" default="「コードが進化し、エージェントが計画する」"}, underlined with a pink chalk stroke.
+
+Character: On the left side, place exactly 1 main mascot: a cream felt wizard cat wearing a navy wizard hat and cape decorated with yellow stars, red round glasses, and holding a red wand with a flower-like tip. The cat has simple black stitched facial features and a cute serious expression.
+
+Central diagram: Draw exactly 1 circular chalk-style research cycle in the middle of the board with arrows around it and a small AI-agent face icon at the center labeled “AIエージェント”. Around it place exactly 4 colored felt oval nodes: 1 pink node labeled “コード進化 </>”, 1 blue node labeled “問題発見” with a magnifying glass icon, 1 green node labeled “適応計画” with a checklist icon, and 1 yellow node labeled “ロールプレイ” with small chat/people icons. Use white arrows connecting every node into a loop.
+
+Speech bubbles and callouts: Include exactly 6 stitched cream speech bubbles around the board: 1 upper-left bubble saying “研究はつながって進化する!”, 1 near the cat saying “仕組みで見ると、研究がつながる!”, 1 lower-left bubble saying “新しい問題を見つけて、研究を前へ!”, 1 left-middle bubble saying “コードが進化! より良い解決へアップデート!”, 1 upper-right bubble saying “魔法（しくみ）でAIを育てよう!”, and 1 right-middle bubble saying “役割を演じて、一貫した対話を実現!”. Also add 1 lower-right cream bubble saying “計画を立てて、制約の中でも最適に動く!” if space allows, keeping the stitched style.
+
+Research cards: Along the lower middle, place exactly 5 pinned fabric/paper cards under a small label “本日の研究論文（最新）”. The cards should read, from left to right: 1 pink card “Code2LoRA / コード進化に合わせたLoRA生成 / </>”, 1 yellow card “ArcANE / ロールプレイ言語エージェントの一貫性”, 1 light blue card “TIDE / テンプレート誘導の複数問題発見”, 1 green card “AdaPlanBench / 制約下の適応計画評価”, and 1 small central pink citation strip below them reading “Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation / 未知言語翻訳の文脈学習” with a globe icon.
+
+Side panels and notes: Add exactly 2 dark chalkboard side panels: bottom-left panel titled “研究のサイクル” listing checkmarked steps “問題発見 → コード進化 → ロールプレイ → 適応計画 → また次の問題へ!”, and bottom-right panel titled “コードの例” containing short pseudo-code lines such as “for step in plan: obs = observe(); thought = think(obs); action = act(thought); result = evaluate(); update(code, result)”. Add exactly 1 upper-right pinned paper note titled “コードの魔法メモ” with a short code block: “def think(plan): obs = observe(); act = plan(obs); return act” plus “# evolve(code)” and “# adapt(plan)”.
+
+Bottom area: Include exactly 3 small note clusters along the bottom: 1 yellow checklist note titled “魔法のチェック” with three checkbox lines “つながっている?”, “試せる?”, “再現できる?”, 1 open notebook note titled “研究メモ”, and 1 cream bubble saying “失敗も呪文の材料になるよ!” next to a simple bunny doodle. At bottom right, add a dark stitched banner titled “今日の呪文” with the phrase {argument name="spell phrase" default="進化・役割・計画をセットで読む"} and a small magic wand.
+
+Decorative elements: Include exactly 1 graduation cap icon in the upper right, 1 atom/science doodle in the upper left, 1 small robot doodle on the right side, many small stitched stars and sparkles scattered across the board, white chalk arrows, pins, tape, and thread seams.
+
+Visual style: Japanese kawaii educational infographic, felt graphic recording, handmade embroidery, soft shadows, tactile fabric texture, chalkboard lettering, whimsical AI magic-school theme, warm beige and navy palette with accents of red, yellow, pink, blue, and green. Make the text legible but preserve the charming hand-drawn irregularity.
+
+Constraints: Use no photorealism, no glossy 3D, no extra mascots beyond the single cat, no watermark, no logo, and keep the square layout balanced for SNS sharing.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2063667032701427865) | 2026-06-07
+
+---
+
+### 🧸 例 732：碎石 3D 风格迁移
+
+![碎石 3D 风格迁移](../images/%E7%A2%8E%E7%9F%B3%203D%20%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB.jpg)
+
+**Prompt:**
+
+```text
+{
+  "task": "image_to_image_style_transfer",
+  "input_image": "{{USER_IMAGE}}",
+  "prompt": "Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented slate + sandstone shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.",
+  "negative_prompt": "text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry",
+  "output": {
+    "aspect_ratio": "use_input_aspect_ratio",
+    "background": "off_white",
+    "camera": {
+      "angle": "straight_on",
+      "framing": "centered",
+      "distance": "medium"
+    }
+  },
+  "params": {
+    "style_strength": 0.75,
+    "identity_preservation": 0.9,
+    "detail_level": "very_high",
+    "lighting_preset": "soft_studio_top_left",
+    "shadow_intensity": "subtle",
+    "gap_visibility": "clear",
+    "debris_chips": "few_tiny",
+    "no_text": true
+  }
+}
+```
+
+**来源：** [@Saman | AI](https://x.com/Samann_ai/status/2063606958188265880) | 2026-06-07
+
+---
+
+### 🧸 例 765：奢华 3D 艺术人偶博物馆展示
+
+![奢华 3D 艺术人偶博物馆展示](../images/%E5%A5%A2%E5%8D%8E%203D%20%E8%89%BA%E6%9C%AF%E4%BA%BA%E5%81%B6%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+参照画像の全身人物をベースに、正方形の高品質3D商品ビジュアルを作成。参照人物の顔立ち、雰囲気、体型、立ち姿、全身シルエットを残し、別人になりすぎないように、大人向け高級4Dアートフィギュアへ再構成。{argument name="フィギュアの体型" default="24歳の成人モデル体型、6.5〜7頭身"}、上品でミステリアスな表情。髪は参照画像の流れを活かした黒髪＋ピンクメッシュ。髪と衣装に、一瞬の動きを閉じ込めた奥行き、動勢、時間性を持たせる。マットレジン、半ツヤソフビ、透明樹脂、セラミック質感の高級コレクタブル。参照服は再現せず、{argument name="衣装の色とスタイル" default="深紅〜ワインレッドの高級モードドレス"}に置換。構築的ショルダー、彫刻的ドレープ、アシンメトリーシルエット、立体的スカート、サテン・ベルベット・オーガンジー・レザー調素材。上品でラグジュアリー、過度な露出なし。透明な縦長の角筒型アクリルカプセルケース内に中央配置。球体ではなくスリムな長方形型。厚い透明アクリル、自然な反射、エッジハイライト、丸みある角、極細シャンパンゴールドフレーム。足元に黒大理石の展示台座、必要なら抽象彫刻オブジェを1つ。背景は{argument name="背景設定" default="高級美術館。高天井、淡い大理石壁、磨かれた石床、静かな展示照明、ぼかした抽象アート"}。スポットライトと拡散光で、赤いドレス、黒髪、ピンクメッシュ、透明ケースに美しい反射とハイライト。ラグジュアリーで静謐。ファッション、彫刻、プロダクトデザイン、現代アートが融合した一点物の展示作品。避ける：子供向け、パステル、丸いカプセル、チビ体型、アニメ目、安っぽい玩具、文字、ロゴ、ブランド名、価格、ラベル。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2063523994998059417) | 2026-06-07
+
+---
+

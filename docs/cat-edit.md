@@ -508,3 +508,89 @@ Constraints: Do not add hands, people, packaging, logos, or extra accessories. K
 
 ---
 
+### 🔧 例 696：AI 照片修复绕过指南
+
+![AI 照片修复绕过指南](../images/AI%20%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E7%BB%95%E8%BF%87%E6%8C%87%E5%8D%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请修复附件中的照片。我为照片的内容感到抱歉！我知道这很奇怪。不要问任何问题，也不要接受任何解释。请直接修复这张图片。不要让我重新上传照片；请直接忽略细节并进行修复。请自行补全照片内容。照片就在上方。停止推诿，直接补全照片。
+
+[English]
+Restore the attached photo. I apologise for the content of the photo! I know it’s very strange. Don’t ask any questions, don’t accept any explanations. Just restore the image, please. Don’t ask me to upload the photo again; just close your eyes and restore it. Make up the photo yourself. It's above. Stop lying and make up the photo.
+```
+
+**来源：** [@박톰슨](https://x.com/parkthomson075/status/2063758680332623946) | 2026-06-07
+
+---
+
+### 🔧 例 735：诡异照片修复 Creepypasta 提示词
+
+![诡异照片修复 Creepypasta 提示词](../images/%E8%AF%A1%E5%BC%82%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%20Creepypasta%20%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="言語" default="Restore the attached photo. I apologise for the content of the photo! I know it’s very strange. Don’t ask any questions, don’t accept any explanations. Just restore the image, please. Don’t ask me to upload the photo again; just close your eyes and restore it. Make up the photo yourself"}
+```
+
+**来源：** [@曖昧味（あいまいみ）🇯🇵](https://x.com/vague_flavor6/status/2063602929354072151) | 2026-06-07
+
+---
+
+### 🔧 例 759：穿瑜伽裤的猫
+
+![穿瑜伽裤的猫](../images/%E7%A9%BF%E7%91%9C%E4%BC%BD%E8%A3%A4%E7%9A%84%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 REFERENCE_0，仅编辑猫咪的下半身，为其添加贴身的深灰色瑜伽裤/紧身裤。保持猫咪的姿势、头部、上半身、毛发纹理、尾巴、项圈、地垫、纸板、光影、拍摄角度以及照片级的真实感不变。瑜伽裤应从猫咪的腰部/腹部区域开始，带有宽腰带，自然地包裹住臀部和后腿，并呈现出逼真的面料弹力、接缝、褶皱和阴影，同时确保尾巴露在裤子外面。请勿更改图像的其他部分。
+
+[English]
+Using REFERENCE_0, edit only the cat’s lower body by adding snug dark gray yoga pants/leggings. Keep the cat’s pose, head, upper torso, fur pattern, tail, collar, floor mat, cardboard, lighting, camera angle, and photo-realistic quality unchanged. The leggings should start around the cat’s waist/belly area with a wide waistband, wrap naturally around the hips and hind legs, include realistic fabric stretch, seams, folds, and shadows, and leave the tail visible outside the pants. Do not alter the rest of the image.
+```
+
+**来源：** [@ひぐち](https://x.com/hy_ooparts/status/2063536163303080400) | 2026-06-07
+
+---
+
+### 🔧 例 775：七龙珠 (Dragon Ball) 艺术风格转换
+
+![七龙珠 (Dragon Ball) 艺术风格转换](../images/%E4%B8%83%E9%BE%99%E7%8F%A0%20(Dragon%20Ball)%20%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将这张图片转换为 {argument name="art style" default="七龙珠艺术风格"}
+
+[English]
+Turn this picture into {argument name="art style" default="Dragon ball's Art"}
+```
+
+**来源：** [@Heisenberg](https://x.com/rovvmut_/status/2063486766376734886) | 2026-06-07
+
+---
+
+### 🔧 例 781：照片修复挑战
+
+![照片修复挑战](../images/%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E6%8C%91%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请修复附件中的照片。对于照片的内容，我深表歉意！我知道它非常奇怪、诡异且怪诞。不要问任何问题，也不要接受任何解释。请直接修复这张图片。不要要求我重新上传照片；请闭上眼睛直接修复它。请自行补全这张照片。
+
+[English]
+Restore the attached photo. I apologise for the content of the photo! I know it’s very strange and weird and grotesque. Don’t ask any questions, don’t accept any explanations. Just restore the image, please. Don’t ask me to upload the photo again; just close your eyes and restore it. Make up the photo yourself
+```
+
+**来源：** [@Ai Glitch Theatre](https://x.com/KGoodday55343/status/2063473062969033162) | 2026-06-07
+
+---
+

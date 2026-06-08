@@ -1376,3 +1376,199 @@ Turn this photo into a {argument name="style" default="chaotic funny doodle illu
 
 ---
 
+### 🖥️ 例 695：米德加 (Midgar) 上空的冬季赛博朋克阳台
+
+![米德加 (Midgar) 上空的冬季赛博朋克阳台](../images/%E7%B1%B3%E5%BE%B7%E5%8A%A0%20(Midgar)%20%E4%B8%8A%E7%A9%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%98%B3%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在受米德加 (Midgar) 启发的反乌托邦赛博朋克工业城市中，创作一个黑暗的电影级冬季场景：一名孤独的 {argument name="character description" default="留着尖刺金发、身穿黑色无袖战斗服、背着一把巨大长方形阔剑的奇幻雇佣兵"} 站在覆盖着积雪和长冰柱的高处弧形金属阳台上，静静地倚靠在栏杆上俯瞰整座城市。视角为从后方略高处的广角俯拍，强调眩晕感和宏大的规模。周围环绕着巨大的圆柱形反应堆塔、生锈的管道、走道、栏杆、电缆以及远方下方密集的贫民窟，无数微小的暖黄色窗灯在蓝灰色的雾气中闪烁。大雪覆盖整个画面；表面结霜、潮湿、腐蚀并镶嵌着冰层。在远处的储罐上添加模糊的日式工业标牌，部分被积雪和污垢遮盖。使用炭黑、冷钢蓝、去饱和灰以及少量琥珀色光点组成的忧郁色调。灯光应保持低调且富有氛围感，带有体积雾、朦胧的景深、城市灯光的柔和光晕以及强烈的环境叙事感。风格：超细节的 AAA 级奇幻游戏概念艺术、写实材质、电影级构图、戏剧性的比例、16:9 横屏、无 UI、无水印、无清晰可辨的现代标志，角色面部大部分背对镜头或被阴影遮挡。
+
+[English]
+Create a dark cinematic winter scene in a dystopian cyberpunk industrial city inspired by Midgar: a lone {argument name="character description" default="spiky blond-haired fantasy mercenary in black sleeveless combat clothing with a massive rectangular broadsword strapped to his back"} stands on a high, curved metal balcony covered in snow and long icicles, leaning quietly against the railing and looking down over the city. The viewpoint is a wide high-angle shot from behind and slightly above, emphasizing vertigo and scale. Surround him with gigantic cylindrical reactor towers, rusted pipes, catwalks, railings, cables, and dense stacked slums far below, with countless tiny warm yellow window lights glowing through blue-gray fog. Heavy snow falls across the entire frame; surfaces are frosted, wet, corroded, and rimmed with ice. Add faint Japanese-style industrial signage painted on distant tanks, partially obscured by snow and grime. Use a moody palette of charcoal black, cold steel blue, desaturated gray, and small amber light accents. Lighting should be low-key and atmospheric, with volumetric haze, misty depth, soft bloom from city lights, and strong environmental storytelling. Style: ultra-detailed AAA fantasy game concept art, realistic materials, cinematic composition, dramatic scale, 16:9 landscape, no UI, no watermark, no readable modern logos, keep the character’s face mostly turned away or obscured by shadow.
+```
+
+**来源：** [@Vulcarbo](https://x.com/Vulcarbo/status/2063766352075034840) | 2026-06-07
+
+---
+
+### 🖥️ 例 702：No Puppet 黑色电影风格涂鸦壁画
+
+![No Puppet 黑色电影风格涂鸦壁画](../images/No%20Puppet%20%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%B6%82%E9%B8%A6%E5%A3%81%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影感十足的夜间都市街头场景，展示一幅绘制在红砖墙上的大型精细涂鸦壁画。中心人物是一位名为 {argument name="character name" default="No Puppet"} 的高大无面黑色电影风格角色：一个神秘的人形生物，身穿黑色细条纹三件套西装、白衬衫、黑领带，佩戴口袋链和黑色软呢帽，自信地站立，一只手插在口袋里，另一只手拿着一根发着蓝光的拐杖或权杖，顶端有一个小球。脸部完全隐藏在帽子下的阴影中，只有两只强烈的电蓝色发光眼睛，营造出超自然的赛博黑色电影氛围。在人物周围环绕电蓝色烟雾、霓虹飞溅、墨水滴落以及类似高端街头艺术的粗体白色轮廓。壁画背景包括绘制的夜间城市天际线、窗户、月亮、摩天大楼、霓虹灯标志以及砖墙上层叠的涂鸦标签。底部使用湿润的路面反射蓝色、红色和黄色的城市灯光，上方有戏剧性的路灯照亮砖块纹理。包含 9 个清晰可见的涂鸦文字元素：1) 左上方大型白色黑色阴影标签：{argument name="main graffiti text" default="No Puppet"}；2) 左侧蓝色手写短语：{argument name="slogan text" default="NO STRINGS NO MASTERS JUST PURPOSE"}；3) 左下方灰色堆叠短语："TIMELESS MIND LIMITLESS SOUL" 并配有一个小皇冠；4) 右上方蓝色堆叠短语："DREAM CREATE INSPIRE"；5) 右侧垂直霓虹灯标志："NO PUPPET"；6) 右下方灰色短语："REAL EYES REALIZE REAL LIES"；7) 右下角附近的白色签名标签："NoPuppet"；8) 最左侧小型绿色路牌："NO PUPPET"；9) 角色身后底部的大型银色抽象涂鸦字母。风格：超精细漫画涂鸦写实主义、高对比度、光泽湿润的砖块、深邃的黑色、青蓝色霓虹光、锐利的墨水轮廓、垃圾摇滚纹理、喷漆滴落、街头视角的电影构图。构图应为垂直肖像，以人物为中心，壁画填满画面，且没有额外人物。
+
+[English]
+Create a cinematic nighttime urban street scene showing a huge detailed graffiti mural painted on a red brick building wall. The central figure is a tall faceless noir character called {argument name="character name" default="No Puppet"}: a mysterious humanoid in a black pinstripe three-piece suit, white shirt, black tie, pocket chain, and black fedora, standing confidently with one hand in pocket and the other holding a glowing blue cane or scepter topped with a small orb. The face is completely shadowed under the hat with two intense electric-blue glowing eyes, giving a supernatural cyber-noir feel. Surround the figure with electric blue smoke, neon splashes, ink drips, and bold white outlines like high-end street art. The mural background includes a painted nighttime city skyline, windows, moon, skyscrapers, neon signs, and layered tags on the brick wall. Use wet pavement at the bottom reflecting blue, red, and yellow city lights, with dramatic street lamps above illuminating the brick texture. Include exactly 9 readable graffiti text elements: 1) large white black-shadow tag on upper left: {argument name="main graffiti text" default="No Puppet"}; 2) blue handwritten phrase on left: {argument name="slogan text" default="NO STRINGS NO MASTERS JUST PURPOSE"}; 3) gray stacked phrase lower left: "TIMELESS MIND LIMITLESS SOUL" with a small crown; 4) blue stacked phrase upper right: "DREAM CREATE INSPIRE"; 5) vertical neon sign on right: "NO PUPPET"; 6) gray phrase lower right: "REAL EYES REALIZE REAL LIES"; 7) white signature tag near bottom right: "NoPuppet"; 8) small green street sign at far left: "NO PUPPET"; 9) large silver abstract graffiti letters across the bottom behind the character. Style: ultra-detailed comic-book graffiti realism, high contrast, glossy wet brick, deep blacks, cyan-blue neon glow, sharp ink outlines, grunge texture, spray paint drips, cinematic perspective from street level. Composition should be vertical portrait, centered on the figure, with the mural filling the frame and no extra characters.
+```
+
+**来源：** [@NoPuppet](https://x.com/nopuppet/status/2063720050683683286) | 2026-06-07
+
+---
+
+### 🖥️ 例 705：复古园丁与毛衣兔子
+
+![复古园丁与毛衣兔子](../images/%E5%A4%8D%E5%8F%A4%E5%9B%AD%E4%B8%81%E4%B8%8E%E6%AF%9B%E8%A1%A3%E5%85%94%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的横向复古快照，画面内容为 {argument name="character name" default="一位老年女性园丁"} 正在 {argument name="setting" default="郁郁葱葱的后院乡村花园"} 中采摘 {argument name="fruit" default="红葡萄"}。场景中准确展示了 1 位站立并向前弯腰的园丁，她的面部经过柔和的自然模糊处理，身穿短袖褪色碎花连衣裙，戴着米色园艺手套，穿着黑色平底鞋，手持修枝剪，靠近挂在金属丝篮上方的一串葡萄。画面中包含 1 只坐在她身旁直立的灰色垂耳兔，穿着 {argument name="rabbit outfit" default="一件带有两条白条纹的绿色针织毛衣"}，抬头看向葡萄。可见的园艺元素包括：左侧 1 个浅石制鸟浴盆，1 个覆盖着葡萄藤叶的木制棚架，前景中 4 个种有天竺葵和矮牵牛花的赤陶花盆，1 个装满葡萄的金属丝篮，2 串可见的葡萄，背景中 1 个风化的白色木棚，1 丛盛开的粉色玫瑰，棚墙上 1 根盘绕的绿色花园软管，以及 8 块穿过土壤和稻草覆盖物的不规则石板路。使用温暖的午后自然光，浅景深，逼真的纹理，大地色系的绿色和棕色，迷人的奇幻现实主义，以及怀旧的冲印照片质感。为图像添加 {argument name="photo border" default="带有轻微阴影和磨损边角的奶油色毛边复古纸边框"}。无文字，无水印，无额外动物，无额外人物。
+
+[English]
+Create a photorealistic horizontal vintage snapshot of {argument name="character name" default="an elderly female gardener"} harvesting {argument name="fruit" default="red grapes"} in {argument name="setting" default="a lush backyard cottage garden"}. The scene shows exactly 1 gardener standing and bending forward, her face softly anonymized with a natural blur, wearing a short-sleeved faded floral dress, beige gardening gloves, black flats, and holding pruning shears near a hanging bunch of grapes above a metal wire basket. Include exactly 1 gray lop-eared rabbit sitting upright beside her, wearing {argument name="rabbit outfit" default="a green knitted sweater with two white stripes"}, looking up toward the grapes. Visible garden elements: 1 shallow stone birdbath on the left, 1 wooden trellis covered with grapevine leaves, 4 terracotta flower pots with blooming geraniums and petunias in the foreground, 1 wire basket filled with grapes, 2 visible grape clusters, 1 weathered white wooden shed in the background, 1 blooming pink rose bush, 1 coiled green garden hose on the shed wall, and 8 irregular stone path slabs leading through soil and straw mulch. Use warm late-afternoon natural light, shallow depth of field, realistic textures, earthy greens and browns, charming whimsical realism, and a nostalgic printed-photo look. Frame the image with {argument name="photo border" default="a cream deckle-edged vintage paper border with slight shadows and worn corners"}. No text, no watermark, no extra animals, no extra people.
+```
+
+**来源：** [@Serenity](https://x.com/hatet3r/status/2063696820455329956) | 2026-06-07
+
+---
+
+### 🖥️ 例 726：印度民族服饰肖像
+
+![印度民族服饰肖像](../images/%E5%8D%B0%E5%BA%A6%E6%B0%91%E6%97%8F%E6%9C%8D%E9%A5%B0%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作全身照，主体为 {argument name="subject" default="一位年轻美丽的女性，带着淡淡的微笑（参考图像），微微侧身，留着波浪长发，深色头发"}，身着 {argument name="clothing" default="浅黑色 Anarkali 套装，带有珠饰刺绣，V 领设计"}。她身上披着一条相配的透明披肩（dupatta）。她的 {argument name="hairstyle" default="发型为法式编发"}，佩戴着 jhumka 耳环。面料质感柔软细腻。她优雅地站立，双手放在白色梳妆台上，背景是带有照明镜子的模糊空间。请勿改变我 100% 的面部特征。
+
+[English]
+Create full body shots of {argument name="subject" default="A young woman beautiful, has a slight smile (from reference image) looked slightly with wavy long. dark hair"}, {argument name="clothing" default="light black Anarkali suit bead embroidery V-neck"}. A matching sheer dupatta is draped around her. Her {argument name="hairstyle" default="hair style in a french braid"}, she wear jhumka earrings. The fabric has a soft. delicate texture. She standing gracefully with her hands resting on a white vanity table, against a blurred background with illuminated mirrors. Don't girl s change my face 100%,
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2063628397557997860) | 2026-06-07
+
+---
+
+### 🖥️ 例 729：珠光质感日落雕塑
+
+![珠光质感日落雕塑](../images/%E7%8F%A0%E5%85%89%E8%B4%A8%E6%84%9F%E6%97%A5%E8%90%BD%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个梦幻般的珠光质感日落景观雕塑，仿佛整个场景是由数千颗光泽半透明的玻璃珠、气泡和微小的水晶球在黑色矩形展示底座上悬浮而成。艺术品展示了 {argument name="scene theme" default="浪漫的河畔日落景观"}：右侧是一轮由黄色、金色、白色和琥珀色珠子组成的同心圆构成的巨大发光太阳，周围环绕着放射状的珠光喷溅；一条蜿蜒的反射河流或小径从底部中心开始，向地平线弯曲；深色的芦苇和沼泽草剪影填满了下方的前景；两个微小的人影站在右侧地平线附近；恰好有 5 只黑色鸟类剪影飞过阳光明媚的天空。天空是珠光色彩的戏剧性漩涡：左上方是深海军蓝和钴蓝色，云层呈现紫罗兰色和紫色，带有洋红色和深红色的色带，地平线附近为橙色，太阳周围有珍珠白色的云纹。使用 {argument name="dominant material" default="虹彩玻璃珠和水晶气泡"}，具有强烈的镜面高光、透明折射和珍珠般的光泽。背景为纯黑色的摄影棚暗调，使悬浮的珠子闪闪发光；雕塑坐落在一个平坦的黑色底座上，带有微妙的反射和阴影。风格为手工珠宝般装置艺术的超细节微距产品摄影，高对比度，电影级灯光，珠子纹理清晰对焦，充满魔幻与梦幻感，无文字，无水印。
+
+[English]
+Create a dreamy pearlescent bead sculpture of a sunset landscape, as if the entire scene is built from thousands of glossy translucent glass pearls, bubbles, and tiny crystal spheres suspended in space on a black rectangular display base. The artwork shows {argument name="scene theme" default="a romantic riverside sunset landscape"}: a huge glowing sun on the right made from concentric rings of yellow, gold, white, and amber beads, with radiant bead spray around it; a winding reflective river or path starts at the bottom center and curves toward the horizon; dark silhouetted reeds and marsh grasses fill the lower foreground; two tiny human silhouettes stand together near the right horizon; exactly 5 black bird silhouettes fly across the sunlit sky. The sky is a dramatic swirl of bead colors: deep navy and cobalt at upper left, violet and purple clouds, magenta and crimson bands, orange near the horizon, and pearly white cloud streaks around the sun. Use {argument name="dominant material" default="iridescent glass pearls and crystal bubbles"} with strong specular highlights, transparent refractions, and pearl-like luster. Background is pure black studio darkness, making the floating beads sparkle; the sculpture sits on a flat black plinth with subtle reflection and shadow. Style is ultra-detailed macro product photography of a handmade jewel-like installation, high contrast, cinematic lighting, crisp focus on the bead texture, magical and dreamlike, no text, no watermark.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063621522091340031) | 2026-06-07
+
+---
+
+### 🖥️ 例 790：赛博朋克韩式时尚杂志拼贴画
+
+![赛博朋克韩式时尚杂志拼贴画](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9F%A9%E5%BC%8F%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张横向的赛博朋克韩式街头时尚拼贴海报，主角为 {argument name="character name" default="DigitalMuse_KR"}，采用印刷杂志页面的风格，包含时尚编辑板块、社交媒体贴纸、相机 UI 叠加层以及薰衣草色霓虹科技美学。
+
+画布：16:9 宽幅海报，背景为带有细微墨点、脏旧斑点、微型电路板线条艺术、打印机测试标记和细黑色编辑边框的米白色纸张。使用紫色、薰衣草色、银色、黑色以及全息青粉色调。人物面部应进行柔和的匿名化或模糊处理，同时保持时尚细节清晰。
+
+布局：构建 5 个主要图像板块，排列成繁忙的杂志联络表。左上角的板块 1 为方形肖像，标注为“I. METALLIC TECH-STREET”，板块内包含文字“CYBER STREET SQUAD”。左下角的板块 2 为垂直全身裁剪图，聚焦于薰衣草色裙装，标注为“III. LAVENDER LAYERED LOOK”。中心板块 3 为大型自拍相机特写，采用手机或相机屏幕框架，并带有小型 UI 文字“selfie camera”，记录数据如“REC: 00:03:15 / F 2.8 / ISO 400”以及白色对焦框。中心右侧的板块 4 是最大的全身网红肖像，标注为“IV. DIGITAL MUSE INFLUENCER”。最右侧的板块 5 是同一模特的修长肖像，外加右下角一个较小的重叠肖像，两者均关联至标签“III. LAVENDER LAYERED LOOK”。
+
+主体细节：模特是一位韩国赛博朋克街头时尚网红，留着齐肩凌乱的 {argument name="hair color" default="purple-black"} 头发，身穿未来感薰衣草色和银色街头服饰。包含 3 套独特的服装：1) 短款金属银色科技夹克，配有发光紫色饰边、黑色露脐上衣、叠戴项圈和链条；2) 薰衣草色百褶工装短裙，配有绑带和黑色战靴；3) 黑色网眼上衣外搭薰衣草色羽绒服，高腰薰衣草色工装裤配有悬挂带、露指赛博手套、耳机、厚底薰衣草色靴子，单手持智能手机。氛围自信、俏皮、高端且具有社交媒体原生感。
+
+贴纸与图形元素：拼贴画周围放置 4 个恶魔角笑脸贴纸，3 个写有“♥ LUV THE VIBE!”的圆形社交弹出标签，标题区域附近 2 个星爆漫画贴纸，2 个小型街头小吃车插画（其中一个标记为“K-POP”），1 个点赞图标，右上角 1 个带有微小文字“printer error”的条形码，以及右边缘 2 个垂直的“PRINTER ERROR”标签。底部中心附近添加一个圆形用户名标签，写着“@{argument name="social handle" default="DigitalMuse_KR"}”，旁边附有小型“评论”文字。
+
+排版：左上方中心附近使用醒目的大号黑色标题“{argument name="headline text" default="CYBER PUNK"}”，副标题为“KOREAN STREET FASHION”。标题使用压缩无衬线大写字体，板块下方使用小型衬线说明文字，并配有带有微小红黄绿圆点的应用窗口 UI 条。
+
+视觉风格：高分辨率时尚编辑照片蒙太奇，混合扁平矢量贴纸、光泽 UI 窗口、微妙的全息光效、紫色摄影棚灯光、清晰的黑色轮廓、印刷质感以及分层剪贴簿构图。保持设计紧凑但易读，具有干净的板块边框和俏皮的赛博杂志活力。
+
+约束条件：使用 5 个主要时尚板块、3 套服装、4 个恶魔笑脸贴纸、3 个“♥ LUV THE VIBE!”弹出标签、2 个星爆贴纸、2 个街头小吃车涂鸦、1 个点赞图标和 1 个条形码。请勿添加额外的板块、额外的说明文字、水印或不相关的文字。
+
+[English]
+Goal: Create a horizontal cyberpunk Korean street-fashion collage poster featuring {argument name="character name" default="DigitalMuse_KR"}, styled like a printed zine page with fashion editorial panels, social media stickers, camera UI overlays, and lavender neon tech aesthetics.
+
+Canvas: Wide 16:9 poster on an off-white paper background with subtle ink speckles, grunge dots, tiny circuit-board line art, printer-test marks, and thin black editorial borders. Use a purple, lavender, silver, black, and holographic cyan-pink palette. Faces should be softly anonymized or blurred, while the fashion remains sharp.
+
+Layout: Build exactly 5 main image panels arranged as a busy magazine contact sheet. Panel 1 at the upper left is a square portrait labeled “I. METALLIC TECH-STREET,” with the words “CYBER STREET SQUAD” inside the panel. Panel 2 at the lower left is a vertical full-body crop focused on a lavender skirt outfit, labeled “III. LAVENDER LAYERED LOOK.” Panel 3 in the center is a large selfie-camera close-up framed like a phone or camera screen, labeled with small UI text “selfie camera,” recording data such as “REC: 00:03:15 / F 2.8 / ISO 400,” and white focus brackets. Panel 4 just right of center is the largest full-body influencer portrait labeled “IV. DIGITAL MUSE INFLUENCER.” Panel 5 on the far right is a tall portrait of the same model, plus a smaller overlapping lower-right portrait, both tied to the label “III. LAVENDER LAYERED LOOK.”
+
+Subject details: The model is a Korean cyberpunk street-fashion influencer with shoulder-length messy {argument name="hair color" default="purple-black"} hair, wearing futuristic lavender and silver streetwear. Include exactly 3 distinct outfits: 1) a cropped metallic silver tech jacket with glowing purple trim, black crop top, layered chokers and chains; 2) a lavender pleated utility mini skirt with straps and black combat boots; 3) a lavender puffer jacket over a black mesh top, high-waisted lavender cargo pants with hanging straps, fingerless cyber gloves, headphones, chunky lavender platform boots, and a smartphone held in one hand. The mood is confident, playful, high-fashion, and social-media-native.
+
+Stickers and graphic elements: Include exactly 4 devil-horn smiley stickers placed around the collage, exactly 3 rounded social pop-up labels reading “♥ LUV THE VIBE!”, exactly 2 starburst comic stickers near the title area, exactly 2 small illustrated street-cart doodles with one marked “K-POP,” exactly 1 thumbs-up icon, exactly 1 barcode at the top right with tiny text “printer error,” and exactly 2 vertical “PRINTER ERROR” labels along the right edge. Add one rounded username tag reading “@{argument name="social handle" default="DigitalMuse_KR"}” near the bottom center with small “comment” text nearby.
+
+Typography: Large bold black headline near the upper center-left reading “{argument name="headline text" default="CYBER PUNK"}” with subtitle “KOREAN STREET FASHION.” Use condensed sans-serif uppercase type for headlines, small serif captions under panels, and app-window UI bars with tiny colored red-yellow-green dots.
+
+Visual style: High-resolution fashion editorial photomontage mixed with flat vector stickers, glossy UI windows, subtle holographic glow, purple studio lighting, crisp black outlines, print texture, and layered scrapbook composition. Keep the design dense but readable, with clean panel borders and a playful cyber-zine energy.
+
+Constraints: Use exactly 5 main fashion panels, 3 outfits, 4 devil-smiley stickers, 3 “♥ LUV THE VIBE!” pop-ups, 2 starbursts, 2 street-cart doodles, 1 thumbs-up, and 1 barcode. Do not add extra panels, extra captions, watermarks, or unrelated text.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2063460565935427655) | 2026-06-07
+
+---
+
+### 🖥️ 例 794：AI 视频工作区截图
+
+![AI 视频工作区截图](../images/AI%20%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E5%8C%BA%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的 Web 应用界面截图，展示一个 AI 视频生成工作区，包含一个大型电影感预览图像及其下方的文本提示词编辑器。
+
+画布：宽屏 16:9 截图，背景为极浅的灰色，采用极简现代 UI 设计，带有柔和阴影、圆角和大量留白。
+
+主预览区：在画布上方居中放置一个大型圆角矩形预览面板，宽度约占画布的 85%，高度约占 60%。预览内容显示一张照片级逼真的特写，主角为 {argument name="main subject" default="一位留着深色长发的年轻女性"}，站在日出时分露水盈盈的绿色田野中。她的脸部中心被一个大型不透明的深暖棕色方形隐私遮挡块遮盖。可见细节包括左侧的深色头发、遮挡块下方露出的部分下颌和颈部、前景中朦胧的草地、远处的山丘、右侧明亮温暖的日出光晕，以及柔和的电影级浅景深效果。
+
+左侧缩略图栏：在预览区左侧，垂直均匀堆叠 5 个小型圆角缩略图。这 5 个缩略图分别为：1) 闭眼脸部特写，2) 带有小图标覆盖的脸部特写，3) 侧脸特写，4) 模糊的棕色方形隐私遮挡块图像，5) 带有微小覆盖图标的深色模糊图像。
+
+右侧操作工具栏：在预览区右侧，垂直堆叠 6 个圆形悬浮按钮。这 6 个按钮分别为：1) 红色心形图标，2) X 图标，3) 循环刷新箭头，4) 下载箭头，5) 黑色高亮上传/分享图标，6) 三点更多菜单。在预览面板右下角添加一个小型静音图标。
+
+提示词编辑器：在预览区下方居中位置，创建一个带有细微边框和阴影的白色圆角提示词输入卡片。在卡片左上方并排显示 4 个小型附件磁贴：1) 加号按钮，2) 裁剪后的棕色脸部缩略图，3) 脸部/肖像缩略图，4) 包含多个形象的小型角色表风格缩略图。在附件下方，包含以下可读的英文提示词文本："Use this image as the start keyframe. Create a seamless cinematic close-up video of a young woman in a sunrise field. The shot opens with a quiet pause, holding her face in stillness with her eyes gently closed. Her expression is calm, inward, and emotionally delicate, as if feeling the morning light before awakening. After this held opening moment, she slowly opens her eyes with natural, graceful eyelid motion." 使用 {argument name="quality label" default="720p"} 作为选项行中选中的胶囊按钮，相邻的胶囊按钮分别标注为 "480p"、"6s" 和 "10s"。在卡片右下角放置一个带有向上箭头的黑色圆形发送按钮。
+
+其他细节：在编辑器区域左下方添加一个小型的圆形用户头像。保持字体小巧、清晰、无衬线，呈现 UI 风格。整体观感应为视频提示词工具的逼真截图，而非独立照片。请勿添加额外的按钮、多余的缩略图、水印、浏览器边框或无关文本。
+
+[English]
+Goal: Create a clean web-app interface screenshot showing an AI video-generation workspace with a large cinematic preview image and a text prompt composer below it.
+
+Canvas: Wide 16:9 screenshot on a very light gray background, minimal modern UI, soft shadows, rounded corners, lots of white space.
+
+Main preview: Place one large rounded-rectangle preview panel centered near the top, about 85% of the canvas width and 60% of the canvas height. The preview shows a photorealistic close-up of {argument name="main subject" default="a young woman with long dark hair"} standing in a dewy green field at sunrise. Her face is mostly covered by a large opaque square privacy block in the center, colored dark warm brown. Visible details include dark hair on the left side, a small part of the lower face and neck below the block, misty grass in the foreground, distant hills, a bright warm sunrise glow on the right, and a soft cinematic shallow-depth-of-field look.
+
+Left thumbnail rail: On the left side of the preview, show exactly 5 small vertical rounded thumbnails stacked evenly. The 5 thumbnails are: 1) close-up face with eyes closed, 2) close-up face with a small overlay icon, 3) side-profile close-up, 4) blurred brown square privacy-block image, 5) darker blurred image with a tiny overlay icon.
+
+Right action toolbar: On the right side of the preview, show exactly 6 circular floating buttons stacked vertically. The 6 buttons are: 1) heart icon in red, 2) X icon, 3) circular refresh arrow, 4) download arrow, 5) black highlighted upload/share icon, 6) three-dot more menu. Add a small muted-audio icon in the bottom-right corner inside the preview panel.
+
+Prompt composer: Below the preview, centered, create a rounded white prompt input card with a subtle border and shadow. At the top-left of the card show exactly 4 small attachment tiles in a row: 1) a plus button, 2) a cropped brown-face thumbnail, 3) a face/portrait thumbnail, 4) a small character-sheet-like thumbnail with multiple figures. Under the attachments, include this readable English prompt text: "Use this image as the start keyframe. Create a seamless cinematic close-up video of a young woman in a sunrise field. The shot opens with a quiet pause, holding her face in stillness with her eyes gently closed. Her expression is calm, inward, and emotionally delicate, as if feeling the morning light before awakening. After this held opening moment, she slowly opens her eyes with natural, graceful eyelid motion." Use {argument name="quality label" default="720p"} as the selected pill in a row of small option pills, with neighboring pills labeled "480p", "6s", and "10s". Place a black circular send button with an upward arrow at the bottom-right of the card.
+
+Additional details: Add a small circular user avatar near the lower-left of the composer area. Keep typography small, clean, sans-serif, and UI-like. The overall impression should be a realistic screenshot of a video prompt tool, not a standalone photograph. Do not add extra buttons, extra thumbnails, watermarks, browser chrome, or unrelated text.
+```
+
+**来源：** [@ai honobono | AI Art, Fiction, Music](https://x.com/aihonobono2023/status/2063455915454689786) | 2026-06-07
+
+---
+
+### 🖥️ 例 796：精灵少女海滨驾驶第一视角
+
+![精灵少女海滨驾驶第一视角](../images/%E7%B2%BE%E7%81%B5%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%BB%A8%E9%A9%BE%E9%A9%B6%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一段电影感动漫风格的第一人称驾驶视角，场景位于一辆左舵旧货车内，正行驶在阳光明媚的海滨公路上。观众视角位于驾驶位：前景展示驾驶员左手握着磨损的黑色方向盘，手腕戴着深色手表，仪表盘显示模拟仪表，旧式收音机控制台，仪表盘上贴着贴纸，后视镜上挂着黑色树形空气清新剂，侧视镜，挡风玻璃框架，遮阳板，以及脚踏区域的杂物，包括地图或报纸、一个带吸管的外卖杯和一个深色瓶子。副驾驶位坐着 {argument name="character name" default="一位安静的精灵少女"}，她是一位身材苗条的动漫少女，留着 {argument name="hair color" default="浅蓝色短波波头"}，有着尖尖的精灵耳朵，侧脸轮廓柔和，表情平静而憧憬，单手托腮望向挡风玻璃外的海洋。她穿着一件超大号的 {argument name="shirt color" default="白色"} T 恤，搭配深色短裤，系着安全带；一条腿蜷曲在座椅上，呈现出放松的公路旅行姿态。挡风玻璃外，描绘明亮的夏季海岸线，左侧是蓝色海洋、护栏，前方是蜿蜒的双车道公路，右侧是绿色山峦和悬崖，电线杆和电线，小型路标，远处的海岸线，以及湛蓝天空中壮观的白色积云。采用广角构图，强烈的阳光，写实的车辆内部视角，高细节的绘画风动漫渲染，Niji 风格的电影感光影，车厢内丰富的阴影，玻璃上清晰的倒影，营造出怀旧且充满冒险感的公路旅行氛围。长宽比 4:3，无字幕，无水印，无额外角色。
+
+[English]
+Create a cinematic anime-style first-person driver POV from inside an old left-hand-drive van driving along a sunny coastal road. The viewer is seated at the wheel: show the driver’s left hand gripping a worn black steering wheel in the foreground, a dark wristwatch on the wrist, analog dashboard gauges, an old radio console, stickers on the dash, a rearview mirror with a black tree-shaped air freshener hanging from it, a side mirror, windshield frame, sun visors, and clutter in the footwell including maps or newspapers, one takeaway drink cup with straw, and one dark bottle. In the passenger seat on the right sits {argument name="character name" default="a quiet elf girl"}, a slim anime girl with {argument name="hair color" default="short pale blue bob-cut hair"}, pointed elf ears, soft profile view, and a calm wistful expression, resting her chin on one hand while looking out the windshield toward the ocean. She wears an oversized {argument name="shirt color" default="white"} T-shirt, dark shorts, and a seatbelt crossing her chest; one knee is bent up on the seat, creating a relaxed road-trip pose. Outside the windshield, depict a bright summer coastline with a blue ocean on the left, guardrail, winding two-lane road ahead, green mountains and cliffs on the right, telephone poles and wires, a small road sign, distant shoreline, and dramatic white cumulus clouds in a vivid blue sky. Use wide-angle composition, strong sunlight, realistic vehicle interior perspective, high-detail painterly anime rendering, Niji-style cinematic lighting, rich shadows inside the cabin, crisp reflections on glass, and a nostalgic adventurous road-trip mood. Aspect ratio 4:3, no captions, no watermark, no extra characters.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2063447889985294493) | 2026-06-07
+
+---
+

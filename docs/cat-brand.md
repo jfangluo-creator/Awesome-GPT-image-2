@@ -2104,3 +2104,593 @@ Turn this photo into a {argument name="style" default="Vogue-style fashion illus
 
 ---
 
+### 🏷️ 例 693：天文学家的空灵数据肖像
+
+![天文学家的空灵数据肖像](../images/%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AE%B6%E7%9A%84%E7%A9%BA%E7%81%B5%E6%95%B0%E6%8D%AE%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，为 4 位著名天文学家执行此操作：class ethereal_data_portrait: def __init__(self, subject="{argument name="astronomer name" default="[visionary_name]"}", field="{argument name="field of study" default="[field_of_study]"}"): self.background = "absolute pitch black void" self.layout = "high-end scientific documentary poster, 16:9 aspect ratio" def generate_visuals(self): # ai inference: deduce the elemental material based on the field elemental_matter = f"ai_infer(glowing, ethereal particles representing {self.field}, e.g., cosmic dust, bioluminescence, or electrical plasma)" # the portrait portrait = f"a side-profile portrait of {self.subject}, looking upward. their face and shoulders are not flesh, but physically composed entirely of the {elemental_matter}." # the data overlay technical_ui = f"crisp, thin gold and white vector lines. ai_infer(mathematical diagrams, orbits, or schematics specific to {self.subject}'s discoveries) overlaying the portrait." return [portrait, technical_ui, self.background] # execute: high contrast. the glowing elemental face must illuminate the thin vector lines of the technical ui.
+
+[English]
+2x2 grid, do this for 4 famous astronomers: class ethereal_data_portrait: def __init__(self, subject="{argument name="astronomer name" default="[visionary_name]"}", field="{argument name="field of study" default="[field_of_study]"}"): self.background = "absolute pitch black void" self.layout = "high-end scientific documentary poster, 16:9 aspect ratio" def generate_visuals(self): # ai inference: deduce the elemental material based on the field elemental_matter = f"ai_infer(glowing, ethereal particles representing {self.field}, e.g., cosmic dust, bioluminescence, or electrical plasma)" # the portrait portrait = f"a side-profile portrait of {self.subject}, looking upward. their face and shoulders are not flesh, but physically composed entirely of the {elemental_matter}." # the data overlay technical_ui = f"crisp, thin gold and white vector lines. ai_infer(mathematical diagrams, orbits, or schematics specific to {self.subject}'s discoveries) overlaying the portrait." return [portrait, technical_ui, self.background] # execute: high contrast. the glowing elemental face must illuminate the thin vector lines of the technical ui.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2063770481048871244) | 2026-06-07
+
+---
+
+### 🏷️ 例 701：工业包装设计图纸
+
+![工业包装设计图纸](../images/%E5%B7%A5%E4%B8%9A%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用随附的图像，创建一个专业的工业包装设计插图图纸。
+
+中心位置展示一个 3D 渲染主图，采用 {argument name="materials" default="逼真材质"}，配合柔和的摄影棚灯光，呈现商业级的成品质量。在主图周围布置技术视图：正面、侧面、顶面、底面、角度透视图以及平面展开图。
+
+包含结构构造草图、折痕线、接缝细节以及带有 {argument name="measurement unit" default="毫米"} 单位测量值的尺寸标注箭头。使用手写风格的标注展示 {argument name="surface finishes" default="材质与表面处理（哑光、亮面印刷、塑料、纸张、玻璃等）"}。添加色卡、逼真的产品插图以及细腻的阴影。
+
+背景应呈现出干净的素描纸质感，将逼真渲染与铅笔草图叠加效果相结合。现代工业设计美学，超高细节，适合作品集展示。
+
+[English]
+Using the attached image, create a professional industrial packaging design illustration sheet.
+
+Feature a centered hero 3D render with {argument name="materials" default="realistic materials"}, soft studio lighting, and commercial-grade finish quality. Surround the hero render with technical views: front, side, top, bottom, angled perspective, and flat layout.
+
+Include structural construction sketches, fold lines, seam details, and dimension arrows with measurements in {argument name="measurement unit" default="millimeters"}. Show {argument name="surface finishes" default="materials and finishes (matte, glossy print, plastic, paper, glass, etc.)"} using handwritten-style annotations. Add color swatches, realistic product illustrations, and subtle shadows.
+
+Background should resemble clean sketchbook paper, combining realistic rendering with pencil sketch overlays. Modern industrial design aesthetic, ultra-detailed, portfolio-ready presentation.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063735848257167383) | 2026-06-07
+
+---
+
+### 🏷️ 例 710：北欧极简主义编辑插画
+
+![北欧极简主义编辑插画](../images/%E5%8C%97%E6%AC%A7%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极简主义现代编辑插画。风格：{argument name="visual style" default="北欧生活方式杂志与韩国文学书籍封面及独立建筑草图的结合"}。自然的平视构图，日常场景。调色板：{argument name="colors" default="奶油白、象牙白、灰米色、鼠尾草绿、深橄榄绿、墨黑色，点缀少许灰粉色"}。细黑墨水轮廓，带有轻微的手绘感。高度抽象的形状，修长的静谧剪影。背景纹理：{argument name="texture" default="陈旧纸张纹理、划痕、墨点、印刷噪点"}。阴影渲染为纯黑或深绿色的色块，无渐变，无写实光影，无 3D 渲染。静谧、冷峻、文学气息、克制的美学。高端编辑与独立出版物风格。无文字，无水印，无高饱和度色彩，无摄影感。
+
+[English]
+A minimalist modern editorial illustration. Style: {argument name="visual style" default="Nordic lifestyle magazine meets Korean literary book cover meets indie architectural sketch"}. Natural eye-level composition, everyday setting. Color palette: {argument name="colors" default="creamy white, ivory, gray-beige, sage green, deep olive, ink black, tiny touches of grayish-pink"}. Thin black ink outlines, slightly hand-drawn feel. Highly abstracted shapes, elongated quiet silhouettes. Background textures: {argument name="texture" default="aged paper grain, scratches, ink spots, print noise"}. Shadows rendered as solid blocks of pure black or dark green, no gradients, no realistic lighting, no 3D rendering. Quiet, cool, literary, restrained aesthetic. High-end editorial and independent publication finish. No text, no watermark, no high-saturation colors, no photographic feel.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063670695020868046) | 2026-06-07
+
+---
+
+### 🏷️ 例 719：科幻空战战场
+
+![科幻空战战场](../images/%E7%A7%91%E5%B9%BB%E7%A9%BA%E6%88%98%E6%88%98%E5%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超宽幅电影级科幻战争全景图，采用高空侦察无人机或 FPV 摄像机视角，俯瞰末日入侵期间的宏大战场。场景展示了一个横跨山谷的荒废工业城市和军事基地，远景是暗沉风暴天空下的群山。左侧是一艘巨大的外星母舰，其表面由层叠的黑色金属装甲板、发光的紫色灯光和棱角分明的刃状结构组成；在其下方及周围环绕着许多小型外星炮艇和无人机。画面中主要的战斗元素包括：1 艘巨大的外星母舰、地面上 2 台高耸的双足外星战争机甲、天空中数十个小型飞行器剪影、战场上数百个微小的步兵身影，以及右侧和下方前景中密集的坦克、装甲车、炮兵阵地、战壕和防御墙。紫色能量束和等离子弹从外星飞船斜向划过空中，人类火炮和坦克炮则向上方及战场横向射出明亮的橙白色曳光弹。在整个战场，尤其是左下方和中心区域，添加多处爆炸、燃烧的残骸、黑色烟柱、火花、尘土和发光的余烬。营造出一种压倒性的混乱感，具备丰富的视觉细节、写实的军事装备、电影级景深、体积烟雾、戏剧性的背光效果，冷灰色调与紫色激光及橙色火焰形成鲜明对比，呈现出锐利的写实概念艺术细节，采用 IMAX 灾难片构图，无文字、无边框、无水印。强调摄像机与战斗机一同穿梭于混乱战区的临场感，通过斜向的光束线条和层叠的飞行器景深来体现动态感。使用 {argument name="battlefield setting" default="山谷中荒废的工业城市和军事基地"}，{argument name="alien energy color" default="紫罗兰色"}，{argument name="camera viewpoint" default="高空侦察无人机 FPV 视角"}，{argument name="time and weather" default="乌云密布的傍晚风暴天气"} 以及 {argument name="visual style" default="写实电影级科幻概念艺术"}。
+
+[English]
+Create an ultra-wide cinematic science-fiction war panorama from a high aerial reconnaissance drone or FPV camera viewpoint, tilted down over a massive battlefield during an apocalyptic invasion. The scene shows a devastated industrial city and military base spread across a valley, with mountains in the far background under a dark stormy sky. On the left side, a colossal alien mothership dominates the sky, its surface made of layered black metallic armor plates, glowing violet lights, and angular blade-like structures; beneath and around it are many smaller alien gunships and drones. Count the main visible combat elements as: 1 enormous alien mothership, 2 towering bipedal alien war mechs on the ground, dozens of small aircraft silhouettes in the sky, hundreds of tiny infantry figures across the battlefield, and rows of tanks, armored vehicles, artillery batteries, trenches, and defensive walls filling the right and lower foreground. Purple energy beams and plasma bolts streak diagonally through the air from the alien craft, while human artillery and tank guns fire bright orange-white tracer rounds upward and across the field. Add multiple explosions, burning wreckage, black smoke columns, sparks, dust, and glowing embers throughout the battlefield, especially in the lower left and center. Make the scale feel overwhelming and chaotic, with dense visual detail, realistic military hardware, cinematic depth, volumetric smoke, dramatic backlighting, cold gray color grading contrasted by violet laser fire and orange flames, sharp photorealistic concept-art detail, IMAX disaster movie composition, no text, no borders, no watermark. Emphasize the feeling of a camera racing through a chaotic warzone alongside fighter craft, with motion implied by diagonal beam lines and layered aircraft depth. Use {argument name="battlefield setting" default="devastated industrial city and military base in a mountain valley"}, {argument name="alien energy color" default="violet purple"}, {argument name="camera viewpoint" default="high aerial reconnaissance drone FPV viewpoint"}, {argument name="time and weather" default="stormy late afternoon under dark clouds"}, and {argument name="visual style" default="photorealistic cinematic sci-fi concept art"}.
+```
+
+**来源：** [@AI guernica ゲルニカ](https://x.com/gERUNICA785/status/2063642302011314620) | 2026-06-07
+
+---
+
+### 🏷️ 例 730：ChatGPT 基础课程产品视觉图
+
+![ChatGPT 基础课程产品视觉图](../images/ChatGPT%20%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B%E4%BA%A7%E5%93%81%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为一门关于使用 ChatGPT 进行商业产品视觉设计的在线课程，制作一张精美的正方形宣传主图。画布：1:1 比例，深海军蓝至炭灰色的渐变背景，带有微妙的摄影棚地面反射和柔和的暗角效果。构图中心悬浮着一件高级空白 {argument name="product type" default="T 恤"}，渲染为逼真的 3D 产品模型，具有平滑的织物纹理、短袖、圆领，且无任何标志。灯光采用戏剧性的摄影棚柔光，左侧为温暖的金色轮廓光，右侧为冷色调的电光蓝，营造出高端电商产品摄影的质感。产品周围环绕着发光的金色电路板轨迹、微小的发光节点和散落的焦外成像粒子，暗示 AI 提示词工程和自动化电商工作流。在产品周围添加 3 个半透明的深色磨砂玻璃风格代码终端窗口：左上角一个，右上角一个，左下角或右下角一个（根据透视视觉分割）；每个窗口均有圆角、微小的红/黄/绿窗口按钮、淡淡的等宽字体代码片段以及微妙的模糊效果，文字主要起装饰作用，但左上角终端标题应显示为“$ prompt engineering terminal”。让终端看起来像是控制产品渲染的提示词和 JSON/代码面板。在底部中心，添加醒目简洁的排版，标题“{argument name="headline text" default="ChatGPT"}”使用白色，副标题“{argument name="subtitle text" default="Foundations"}”使用暖金色。整体风格：商业级技术课程缩略图、高级 Shopify/电商产品视觉、电影级灯光、清晰的高分辨率渲染、平衡的留白，无水印，无额外标志，无人像。
+
+[English]
+Create a polished square promotional hero graphic for an online class about using ChatGPT for commercial product visuals. Canvas: 1:1 aspect ratio, dark navy-to-charcoal gradient background with a subtle studio floor reflection and soft vignette. Center the composition on a premium blank {argument name="product type" default="t-shirt"} floating in midair, rendered as a realistic 3D product mockup with smooth fabric texture, short sleeves, rounded collar, and no logos. Lighting should be dramatic studio-soft with warm golden rim light from the left and cool electric blue light from the right, creating a high-end ecommerce product photography feel. Surround the product with glowing gold circuit-board traces, small luminous nodes, and scattered bokeh particles, suggesting AI prompt engineering and automated commerce workflows. Add exactly 3 semi-transparent dark glassmorphism code-terminal windows around the product: one upper left, one upper right, and one lower left/lower right area split visually by perspective; each window has rounded corners, tiny red/yellow/green window dots, faint monospace code snippets, and subtle blur, but text can be mostly decorative except the upper-left terminal title should read “$ prompt engineering terminal”. Make the terminals look like prompt and JSON/code panels controlling the product render. At the bottom center, add large clean typography with the title “{argument name="headline text" default="ChatGPT"}” in white and the subtitle “{argument name="subtitle text" default="Foundations"}” in warm gold. Overall style: commercial-grade tech course thumbnail, premium Shopify/ecommerce product visual, cinematic lighting, crisp high-resolution render, balanced negative space, no watermark, no extra logos, no people.
+```
+
+**来源：** [@DDS Vibe Academy](https://x.com/designdelight25/status/2063614798886015225) | 2026-06-07
+
+---
+
+### 🏷️ 例 731：乌天狗神社组合
+
+![乌天狗神社组合](../images/%E4%B9%8C%E5%A4%A9%E7%8B%97%E7%A5%9E%E7%A4%BE%E7%BB%84%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影感动漫风格的关键视觉图，展示 {argument name="group name" default="高尾山乌天狗剧团"}，这是一群年轻的妖怪战士，在日落时分于山间神社摆出造型。
+
+画布：垂直 3:4 构图，全身群像，温暖的黄金时刻光影，高细节奇幻动漫插画，带有绘画质感的背景和清晰的角色渲染。
+
+场景：一条铺满石子的小径，位于传统的日本山间神社，周围环绕着高大的雪松。背景处设置一座巨大的木制鸟居，挂有粗壮的注连绳和垂下的流苏，俯瞰着远处的城镇和层叠的山峦，天空呈现橙色的日落景象。右侧包含一座木制神社建筑，配有弯曲的瓦片屋顶、纸质符咒、绳结装饰，以及一盏装饰着黑色乌鸦剪影的灯笼。使用长满苔藓的石头、小草、神社灯笼和长长的晚影来营造氛围。
+
+角色：在前景展示 7 位乌天狗风格的少年，他们都穿着统一的红色和服式上衣、黑色袴或长褶裙、木屐或传统凉鞋，背部有黑色羽翼，带有小角状装饰，耳朵微微尖起。他们的脸部由柔和的矩形模糊遮罩覆盖，作为匿名占位符，除非需要展示特定的造型。
+
+角色数量与位置：
+1. 最左侧娇小的女孩，梳着双丸子头，留着鬓角，双手叉腰，身穿红袍和黑色袴，背着小巧的黑色翅膀。
+2. 中间偏左的高挑瘦削少年，留着深棕色长发，腰间佩剑，姿态从容自信，身穿红色和服和黑色袴。
+3. 前方正中的矮个子儿童，双手叉腰，胸前斜跨着一个小圆筒状的盒子，身穿红色上衣和黑色裙式袴。
+4. 中间后方的小孩，部分被遮挡，留着短黑发，带有小角装饰，身穿红色服装，背着黑色翅膀。
+5. 中间偏右的纤细女孩，留着深紫色长发，手持一张写有日文书法的竖式纸符或木质护身符，身穿红袍和黑色袴。
+6. 中间偏右自信的女孩，梳着棕色双马尾，系着红色丝带，双臂交叉，身穿红色和服，一侧高开叉露出腿部绑带，背着黑色翅膀，带有许多悬挂的珠饰。
+7. 最右侧神情严肃的少年，留着凌乱的黑发，围着黑色围巾，双臂交叉，红袍外搭黑色袴，腰间佩剑，背着深色翅膀。
+
+服装细节：使用 {argument name="robe color" default="深朱红色"} 长袍，胸前绣有白色小纹章，搭配黑色腰带、珠饰、流苏、剑绳、卷轴盒和符咒配件。保持团队统一感，如同传统的天狗氏族或山岳流派团队，但要赋予每个角色独特的发型、姿态和配饰。
+
+视觉风格：戏剧性的动漫奇幻写实主义，复杂的线条，来自落日的温暖轮廓光，琥珀色高光，柔和的大气雾霾，精细的神社建筑，无现代物品，无 UI，无文字说明，无水印。
+
+[English]
+Goal: Create a cinematic anime key visual of {argument name="group name" default="Mount Takao Crow Tengu troupe"}, a young yokai warrior ensemble posing at a mountain shrine during sunset.
+
+Canvas: Vertical 3:4 composition, full-body group portrait, warm golden-hour lighting, highly detailed fantasy anime illustration with painterly backgrounds and crisp character rendering.
+
+Setting: A stone path at a traditional Japanese mountain shrine surrounded by tall cedar trees. In the background, place a large wooden torii gate with a thick shimenawa rope and hanging tassels, overlooking a distant town and layered mountains under an orange sunset sky. On the right, include a wooden shrine building with a curved tiled roof, paper talismans, rope ornaments, and a glowing lantern decorated with a black crow silhouette. Use mossy stones, small grasses, shrine lanterns, and long evening shadows for atmosphere.
+
+Characters: Show exactly 7 crow-tengu inspired youths standing together in the foreground, all wearing coordinated red kimono-style tops, black hakama or long pleated skirts, geta sandals or traditional sandals, black feathered wings, small horn-like ornaments, and subtle pointed ears. Their faces should be covered by soft rectangular blur masks as anonymized placeholders, except where visible styling is needed.
+
+Character count and placement:
+1. Leftmost petite girl with twin buns and side locks, hands on hips, red robe and black hakama, small black wings.
+2. Tall slim young man just left of center, long dark brown hair, sword at his waist, relaxed confident stance, red kimono and black hakama.
+3. Short child in the front center, hands on hips, diagonal strap across the chest holding a small cylindrical case, red top and black skirt-like hakama.
+4. Small younger child behind the center, partially hidden, short dark hair with little horn ornaments, red outfit and black wings.
+5. Slender girl just right of center with long dark purple hair, holding a vertical paper talisman or wooden charm with Japanese calligraphy, red robe and black hakama.
+6. Confident girl right of center with brown twin ponytails tied with red ribbons, arms crossed, red kimono with one high side slit revealing one leg wrap, black wings and many dangling bead ornaments.
+7. Rightmost serious young man with messy black hair, black scarf, arms crossed, red robe over black hakama, sword at the hip, dark wings.
+
+Costume details: Use {argument name="robe color" default="deep vermilion red"} robes with small white crest embroidery on the chest, black sashes, bead charms, tassels, sword cords, scroll cases, and talisman accessories. Keep the group unified like a traditional tengu clan or mountain-school team, but give each character distinct hair, posture, and accessories.
+
+Visual style: Dramatic anime fantasy realism, intricate linework, warm rim light from the setting sun, amber highlights, soft atmospheric haze, detailed shrine architecture, no modern objects, no UI, no text captions, no watermark.
+```
+
+**来源：** [@Anko | 東京百鬼パレード](https://x.com/ankoku_othello/status/2063608185794036223) | 2026-06-07
+
+---
+
+### 🏷️ 例 733：活体手稿书英雄网格
+
+![活体手稿书英雄网格](../images/%E6%B4%BB%E4%BD%93%E6%89%8B%E7%A8%BF%E4%B9%A6%E8%8B%B1%E9%9B%84%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+16:9，2x2 网格，针对 {argument name="subjects" default="4 位来自著名现实公共领域冒险、奇幻、哥特或科幻书籍的英雄"} 执行此操作。
+
+输入：[四位公共领域书籍英雄]
+
+说明：
+将每位英雄渲染为“化为现实的活体手稿”。
+
+每个面板包含一位从巨大的打开书籍中浮现的核心英雄。人物下半身仍由印刷段落、装饰字母、纸张纤维、墨迹和雕刻章节装饰组成。上半身则变为由血肉、织物、金属、灰尘、汗水和风化道具构成的超写实电影级人物。
+
+转化：
+书籍的文本像解剖结构一样物理包裹在英雄身体上。句子化为接缝，标点化为纽扣，章节标题化为装甲板，对话化为呼吸蒸汽，脚注化为发光的环境注释。
+
+环境：
+书页展开并延伸至英雄的世界：
+奥德赛式的海洋、仙境内部、火星景观、维多利亚时代街道、岛屿荒野、水下机械、沙漠公路、哥特式城堡或 AI 推断的书籍原著场景。
+
+数据层：
+添加精炼的文学标注：
+> “道德向量”
+> “任务压力”
+> “标志性物品”
+> “世界规则”
+> “内在矛盾”
+> “叙事转折点”
+
+视觉风格：
+照片级写实微距书籍纹理、奢华出版摄影、电影级角色布光、古董雕刻与现实电影剧照融合、金箔注释、压花书页边缘、牛皮纸叠层。
+
+构图：
+严格的 2x2 网格，每个面板如同高端收藏版封面揭幕。
+
+负面提示词：
+平面书封、简单肖像、普通奇幻英雄、现代系列作品引用、作为焦点的虚假不可读乱码、肢体重复、同一角色的两个版本、塑料玩具感、廉价海报设计。
+
+[English]
+16:9, 2x2 grid, do this for {argument name="subjects" default="4 heroes from famous real public-domain adventure, fantasy, gothic, or science-fiction books"}.
+
+INPUT: [FOUR PUBLIC-DOMAIN BOOK HEROES]
+
+Instructions:
+Render each hero as a “Living Manuscript Becoming Reality.”
+
+Each panel contains one central hero emerging from a giant open book. The lower half of the figure is still made from printed paragraphs, illuminated letters, paper fibers, ink strokes, and engraved chapter ornaments. The upper half has become a hyper-realistic cinematic person made of flesh, fabric, metal, dust, sweat, and weathered props.
+
+TRANSFORMATION:
+The book’s text physically wraps around the hero’s body like anatomy. Sentences become seams, punctuation becomes buttons, chapter headings become armor plates, dialogue becomes breath vapor, and footnotes become glowing environmental annotations.
+
+ENVIRONMENT:
+The book’s pages unfold into the hero’s world:
+Odyssey-like seas, Wonderland interiors, Martian landscapes, Victorian streets, island wilderness, undersea machinery, desert roads, gothic castles, or AI-inferred book-accurate settings.
+
+DATA LAYER:
+Add refined literary callouts:
+> “Moral vector”
+> “Quest pressure”
+> “Signature object”
+> “World rule”
+> “Inner contradiction”
+> “Narrative turning point”
+
+VISUAL STYLE:
+Photorealistic macro book texture, luxury publishing photography, cinematic character lighting, antique engraving fused with real-world film still, gold foil annotations, embossed page edges, vellum overlays.
+
+COMPOSITION:
+Strict 2x2 grid, each panel like a premium collector’s edition cover reveal.
+
+NEGATIVE:
+flat book cover, simple portrait, generic fantasy hero, modern franchise references, fake unreadable gibberish as main focus, duplicated limbs, two versions of the same character, plastic toy look, cheap poster design.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2063606909488574793) | 2026-06-07
+
+---
+
+### 🏷️ 例 749：极简主义未来感概念艺术
+
+![极简主义未来感概念艺术](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+此提示词可生成高度风格化、极简主义的 {argument name="subject" default="未来感主题"} 表现形式，侧重于强烈的对比和流线型设计。整体风格强调简洁性与震撼的视觉冲击力
+{argument name="color palette" default="可自定义调色板"}。
+高冲击力视觉效果。
+概念艺术
+书籍与电影封面
+品牌宣传物料
+
+[English]
+This prompt generates highly stylized, minimalist representations of {argument name="subject" default="futuristic subjects"}, focusing on bold contrasts and streamlined designs. The overall style emphasizes simplicity, and a striking visual impact
+{argument name="color palette" default="Customizable color palette"}.
+High impact visuals.
+Concept Art
+Book & Movie Covers
+Branding Materials
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2063558873697714376) | 2026-06-07
+
+---
+
+### 🏷️ 例 752：佩戴头盔且面部遮挡的滑板车骑行者
+
+![佩戴头盔且面部遮挡的滑板车骑行者](../images/%E4%BD%A9%E6%88%B4%E5%A4%B4%E7%9B%94%E4%B8%94%E9%9D%A2%E9%83%A8%E9%81%AE%E6%8C%A1%E7%9A%84%E6%BB%91%E6%9D%BF%E8%BD%A6%E9%AA%91%E8%A1%8C%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的电影质感动作照片，展示一位成年女性在阳光明媚的道路上骑行黑色电动滑板车或小型摩托车的场景。镜头从前方近距离拍摄，模拟从另一辆行驶中的车辆视角。她留着长长的深色头发，在风中飘动，佩戴着亮面黑色半盔（带下巴带），身穿修身白色圆领短袖 T 恤和灰色短裤。她的双手紧握车把，两侧可见圆形后视镜，胸部下方正中有一个小型方形黑色前显示面板。在她的整个面部覆盖一个实心不透明的深棕色长方形隐私遮挡块，垂直对齐从额头到下巴，同时保留头盔和颈部可见。背景呈现动态模糊效果，包含路边树木、混凝土隔音屏、车道线，温暖的午后阳光营造出强烈的明暗对比。采用浅景深，呈现写实的皮肤与织物纹理，自然的风中动态，纪实街拍风格，垂直 3:4 构图，无文字，无水印。
+
+[English]
+Create a realistic cinematic action photograph of an adult woman riding a black electric scooter or small motorcycle on a sunlit road, shot from the front at close range as if from another moving vehicle. She has long dark hair blowing in the wind, wears a glossy black open-face helmet with chin strap, a fitted white scoop-neck short-sleeve T-shirt, and gray shorts. Her hands grip the handlebars, with round rearview mirrors visible on both sides and a small square black front display panel centered below her chest. Place a solid opaque dark-brown rectangular privacy block over her entire face, aligned vertically from forehead to chin, while leaving the helmet and neck visible. The background is motion-blurred with roadside trees, a concrete sound barrier, lane markings, and warm late-afternoon sunlight creating strong highlights and shadows. Use shallow depth of field, realistic skin and fabric texture, natural wind movement, documentary street-photography style, vertical 3:4 composition, no text, no watermark.
+```
+
+**来源：** [@🆇🅼](https://x.com/planxyou/status/2063553071368806576) | 2026-06-07
+
+---
+
+### 🏷️ 例 756：复古面包店动漫插画
+
+![复古面包店动漫插画](../images/%E5%A4%8D%E5%8F%A4%E9%9D%A2%E5%8C%85%E5%BA%97%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+温馨的复古面包店外观插画，动漫风格，{argument name="character" default="蓝眼睛、棕色盘发少女"} 穿着 {argument name="outfit" default="蓝色波点连衣裙，搭配白色荷叶边围裙和软帽"}，手里拿着 {argument name="accessory" default="装满新鲜面包和法棍的大柳条篮子"}。浅蓝色木门，奶油色面包店外墙，花箱里盛开着五颜六色的鲜花
+
+[English]
+Cozy vintage bakery exterior illustration, anime style, {argument name="character" default="young girl with blue eyes and brown hair in bun"} wearing {argument name="outfit" default="blue polka dot dress with white frilly apron and bonnet"}, holding {argument name="accessory" default="large wicker basket full of fresh bread and baguettes"}. Light blue wooden door, cream colored bakery facade, flower boxes overflowing with colorful flowers
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2063543526944854461) | 2026-06-07
+
+---
+
+### 🏷️ 例 772：Gen Z 夏季照片拼贴
+
+![Gen Z 夏季照片拼贴](../images/Gen%20Z%20%E5%A4%8F%E5%AD%A3%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超火的 Gen Z 夏季照片拼贴，以整洁的 3×3 网格布局呈现，背景为充满活力的 {argument name="background color" default="电光蓝"} 工作室背景。一位留着深色短发的时尚年轻女性，戴着超大号黑色太阳镜和白色无线耳机，身穿舒适的 {argument name="outfit" default="超大号白色拉链卫衣"}、黑色骑行短裤、浅蓝色中筒袜和厚底淡蓝色运动鞋。
+
+每一帧都捕捉了不同的俏皮姿势和抓拍瞬间：半空中跳跃、以夸张的广角视角将运动鞋直接踢向镜头、开心地伸展双臂、前倾拍摄自拍风格照片、自然大笑、坐着时超大号鞋子占据前景、以及充满活力的舞蹈动作。其中一帧展示了她将耳机递向镜头。另一帧则被放置在贴于背景上的白色宝丽来风格相框内。
+
+手绘涂鸦元素将照片连接起来，包括白色箭头、曲线、动态线条、星星、爱心、笑脸、花朵、闪光点，以及手写笔记，如“Hi~”、“Summer Mood”、“Good Vibes”和“Stay Happy”。明亮的日间摄影棚灯光、愉悦的表情、动态的肢体语言、俏皮的透视畸变、流行的 Pinterest 美学、Instagram 照片集风格、青年文化、夏季活力、简洁构图、极具传播力的社交媒体内容、鲜艳的色彩、清晰的焦点、专业摄影、超高细节、生活方式时尚大片、病毒式视觉叙事。
+
+风格关键词：
+Gen Z 美学、Pinterest 风格、Instagram 照片集、剪贴簿拼贴、涂鸦艺术叠加、俏皮生活方式摄影、鲜艳蓝色背景、广角镜头、抓拍活力、潮流社交媒体营销、青春快乐、超火构图。
+
+[English]
+Ultra-viral Gen Z summer photo dump collage, arranged in a clean 3×3 grid layout against a vibrant {argument name="background color" default="electric-blue"} studio background. A stylish young woman with short dark hair wears oversized black sunglasses, white wireless headphones, a cozy {argument name="outfit" default="oversized white zip-up sweater"}, black biker shorts, light blue crew socks, and chunky pastel-blue sneakers.\nEach frame captures a different playful pose and candid moment: jumping mid-air, kicking a sneaker directly toward the camera with dramatic wide-angle perspective, stretching her arms out joyfully, leaning forward for a selfie-style shot, laughing naturally, sitting with oversized shoes dominating the foreground, and dancing with energetic movement. One frame features her holding headphones toward the camera. Another frame is presented inside a white Polaroid-style photo frame taped to the background.\nHand-drawn doodle elements connect the photos, including white arrows, curved lines, motion marks, stars, hearts, smiley faces, flowers, sparkles, and handwritten notes such as “Hi~”, “Summer Mood”, “Good Vibes”, and “Stay Happy”. Bright daylight studio lighting, cheerful expression, dynamic body language, playful perspective distortion, trendy Pinterest aesthetic, Instagram photo dump style, youth culture, summer energy, clean composition, highly shareable social media content, vibrant colors, sharp focus, professional photography, ultra-detailed, lifestyle fashion editorial, viral visual storytelling.\nStyle Keywords:\nGen Z aesthetic, Pinterest-core, Instagram photo dump, scrapbook collage, doodle art overlay, playful lifestyle photography, vibrant blue backdrop, wide-angle lens, candid energy, trendy social media campaign, youthful happiness, ultra-viral composition.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2063506101019316688) | 2026-06-07
+
+---
+
+### 🏷️ 例 777：新中式茶饮标签风格 Cosplay 人像
+
+![新中式茶饮标签风格 Cosplay 人像](../images/%E6%96%B0%E4%B8%AD%E5%BC%8F%E8%8C%B6%E9%A5%AE%E6%A0%87%E7%AD%BE%E9%A3%8E%E6%A0%BC%20Cosplay%20%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的新中式生活方式品牌视觉图，呈现出高端茶礼标签或优雅包装海报的质感，而非普通的 Cosplay 照片。使用 2:3 纵向画布，采用温暖的陈年宣纸纹理、柔和的墨迹晕染和柔和的米色背景。画面中心偏右处为一位 {argument name="character name" default="优雅的奇幻女主角"} 的半身坐姿人像。角色身着华丽的淡紫色、象牙白与深梅色汉服风格奇幻服饰，配有半透明露肩袖、多层丝绸裙摆、金线刺绣、白色荷叶边领口、深紫色束腰胸衣，胸前佩戴一枚带有古金色边框的硕大圆形紫水晶装饰，垂坠着流苏，并留着一头飘逸的 {argument name="hair color" default="灰粉淡紫色"} 长发。搭配精致的金色发饰，包含扇形花丝、新月装饰、紫色丝带和垂坠流苏。在人像后方隐约的圆形月洞门轮廓内，以工笔画风格的梅花枝与飞鸟作为边框；画面中需包含 2 只鸟，一只浅色鸟栖息在上方的枝头，另一只深色鸟栖息在左下方的枝头。前景底部点缀柔和的虚化粉色与奶油色花朵以营造景深，右侧边缘可见部分木质屏风或灯笼。画面中需包含 3 处可见的品牌文字：左上角极简黑色猫咪 Logo 及文字 {argument name="brand name" default="VOXCAT"}，一个微小的垂直服装标签文字 {argument name="tag text" default="VOXCAT"}，以及右下角随性的手写签名 {argument name="signature text" default="VoxCat"}。面部应被一个居中的纯色方形色块刻意遮挡，色块颜色与温暖的肤色相匹配，营造出产品标签样机的匿名感。整体风格：高端杂志级 Cosplay 摄影与中国花鸟画的融合，低对比度，柔和的漫射光，淡梅色与茶纸色调，静谧奢华，精致的包装设计构图，无额外文字，除指定的品牌标识外无任何水印。
+
+[English]
+Create a refined New Chinese lifestyle brand visual that looks like a premium tea-gift label or elegant packaging poster rather than a normal cosplay photo. Use a vertical 2:3 canvas with a warm aged rice-paper / xuan paper texture, soft ink bleeding, muted beige background, and a waist-up seated portrait of {argument name="character name" default="a graceful fantasy heroine"} centered slightly right. The character wears an ornate lavender, ivory, and deep plum hanfu-inspired fantasy costume with translucent off-shoulder sleeves, layered silk skirt panels, gold embroidery, a white ruffled collar, a dark purple corset bodice, a large round amethyst chest ornament with antique gold frame, dangling tassels, and long flowing {argument name="hair color" default="dusty pink-lavender"} hair. Add an elaborate gold hairpiece with fan-like filigree, crescent ornaments, purple ribbons, and tassel drops. Frame the portrait with gongbi-style plum blossom branches and birds inside a faint circular moon-window outline behind her; include exactly 2 birds, one pale bird perched on the upper branch and one darker bird perched on the lower left branch. Put soft out-of-focus pink and cream flowers across the bottom foreground to create depth, with a partial wooden screen or lantern edge on the right. Include exactly 3 visible brand text instances: top-left minimalist black cat logo with the word {argument name="brand name" default="VOXCAT"}, a tiny vertical garment tag reading {argument name="tag text" default="VOXCAT"}, and a loose handwritten signature {argument name="signature text" default="VoxCat"} at bottom right. The face should be intentionally hidden by a plain centered square color block matching warm skin tones, as if anonymized for a product-label mockup. Overall style: high-end editorial cosplay photography blended with Chinese flower-and-bird painting, low contrast, soft diffused lighting, pastel plum and tea-paper palette, quiet luxury, delicate packaging-design composition, no extra text, no watermark beyond the specified brand marks.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2063477762623787421) | 2026-06-07
+
+---
+
+### 🏷️ 例 783：BMW 变形金刚机器人广告
+
+![BMW 变形金刚机器人广告](../images/BMW%20%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的 {argument name="car model" default="BMW"} 转换为高端变形金刚风格的巨型机器人，同时 100% 保留原始车辆的特征和所有可见细节。保持原始 {argument name="car model" default="BMW"} 的车漆颜色、金属质感、{argument name="car model" default="BMW"} 车标、品牌标识、双肾进气格栅设计、前大灯、尾灯、合金轮毂、后视镜、车窗、车顶线条、车身套件、贴纸、配件以及上传图片中显示的每一处改装细节。车辆或机器人上均不得包含任何车牌号码。
+
+创作一个完全由真实的 {argument name="car model" default="BMW"} 车辆部件构成的巨型未来感变形金刚机器人。机器人必须清晰地呈现出该 {argument name="car model" default="BMW"} 的特征，引擎盖面板形成胸甲，前大灯集成在肩部，车门转化为装甲肢体，车轮自然地分布在肩部和腿部，双肾进气格栅和 {argument name="car model" default="BMW"} 徽标显著展示，原始车身面板无缝转换为先进的机械装甲。在车辆和机器人上保留完全一致的配色方案。任何地方都不应出现车牌。
+
+构图：英雄视角汽车广告。真实的 {argument name="car model" default="BMW"} 停在前景中，其高耸的变形金刚形态直接站在后方，呈现出强大的战斗姿态。机器人应看起来有 {argument name="robot height" default="30–50 英尺"} 高，在场景中占据主导地位，同时与原始车辆保持视觉上的联系。
+
+环境：深色电影级摄影棚环境，深黑色背景，{argument name="energy color" default="电光蓝"} 能量场，蓝色渐变灯光，体积雾，氛围烟雾，漂浮火花，发光粒子，能量弧和未来感机械氛围。巨大的发光 {argument name="car model" default="BMW"} 圆形徽标集成在机器人身后的蓝色能量场中。
+
+超精细的机械工程设计，包含外露的活塞、齿轮、液压系统、伺服电机、装甲板、控制论组件、发光电路、深色镀铬金属表面、拉丝钢纹理和发光的蓝色机器人眼睛。豪华汽车商业风格，具有照片级的材质和工程精度。
+
+灯光：HDR 电影级灯光，戏剧性的轮廓光，强力的背光，光线追踪反射，逼真的阴影深度，金属表面上的蓝色能量光反射，摄影棚级汽车灯光，Unreal Engine 5 质量，Octane Render，超写实 CGI。
+
+地面：湿润的反射黑色地面，真实呈现 {argument name="car model" default="BMW"} 及其变形金刚形态的镜像反射。
+
+摄像机：低角度英雄视角，戏剧性的电影海报构图，超广角电影取景，强烈的深度感，高端豪华广告质感，超清晰对焦。
+
+风格标签：变形金刚电影美学，豪华汽车广告，高端概念艺术，照片级 CGI，电影级科幻，获奖车辆设计，机械杰作，超精细工程，未来感机器人，高端商业摄影，8K，杰作质量。
+
+长宽比：9:16 竖屏 (1080×1920 或 1440×25
+
+[English]
+Transform the uploaded {argument name="car model" default="BMW"} into a premium Transformers-style giant robot while preserving 100% of the original vehicle identity and all visible details. Maintain the exact original {argument name="car model" default="BMW"} paint color, metallic finish, {argument name="car model" default="BMW"} badges, model branding, kidney grille design, headlights, taillights, alloy wheels, mirrors, windows, roofline, body kit, stickers, accessories, and every modification exactly as shown in the uploaded image. Do not include any registration number plate on either the vehicle or the robot.\n\nCreate a massive futuristic Transformer robot constructed entirely from authentic {argument name="car model" default="BMW"} vehicle components. The robot must clearly resemble the same {argument name="car model" default="BMW"}, with recognizable hood panels forming the chest, headlights integrated into the shoulders, doors transformed into armored limbs, wheels positioned naturally on the shoulders and legs, kidney grille and {argument name="car model" default="BMW"} emblem prominently displayed, and original body panels seamlessly converted into advanced mechanical armor. Preserve the exact color scheme on both the vehicle and robot. No number plate should be visible anywhere.\n\nComposition: Hero-shot automotive advertisement. The real {argument name="car model" default="BMW"} is parked in the foreground while its towering Transformer form stands directly behind it in a powerful battle-ready stance. The robot should appear {argument name="robot height" default="30–50 feet"} tall, dominating the scene while remaining visually connected to the original vehicle.\n\nEnvironment: Dark cinematic studio environment with deep black background, {argument name="energy color" default="electric blue"} energy field, blue gradient lighting, volumetric fog, atmospheric smoke, floating sparks, glowing particles, energy arcs, and futuristic mechanical ambience. Massive glowing {argument name="car model" default="BMW"} roundel emblem integrated into the blue energy field behind the robot.\n\nUltra-detailed mechanical engineering with exposed pistons, gears, hydraulic systems, servo motors, armor plating, cybernetic components, illuminated circuitry, dark chrome metal surfaces, brushed steel textures, and glowing blue robotic eyes. Luxury automotive commercial styling with photorealistic materials and engineering precision.\n\nLighting: HDR cinematic lighting, dramatic rim light, powerful backlight, ray-traced reflections, realistic shadow depth, blue energy glow reflections across metal surfaces, studio-grade automotive lighting, Unreal Engine 5 quality, Octane Render, hyper-realistic CGI.\n\nFloor: Wet reflective black floor with realistic mirror reflections of both the {argument name="car model" default="BMW"} and its Transformer form.\n\nCamera: Low-angle hero perspective, dramatic movie-poster composition, ultra-wide cinematic framing, strong depth, premium luxury advertisement look, ultra-sharp focus.\n\nStyle Tags: Transformers movie aesthetic, luxury automotive campaign, premium concept art, photorealistic CGI, cinematic science-fiction, award-winning vehicle design, mechanical masterpiece, ultra-detailed engineering, futuristic robot, high-end commercial photography, 8K, masterpiece quality.\n\nAspect Ratio: 9:16 vertical (1080×1920 or 1440×25
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2063464784960348601) | 2026-06-07
+
+---
+
+### 🏷️ 例 791：人脸锁定图像编辑：与猫的合影
+
+![人脸锁定图像编辑：与猫的合影](../images/%E4%BA%BA%E8%84%B8%E9%94%81%E5%AE%9A%E5%9B%BE%E5%83%8F%E7%BC%96%E8%BE%91%EF%BC%9A%E4%B8%8E%E7%8C%AB%E7%9A%84%E5%90%88%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+编辑所提供的图像。
+绝对人脸保留模式 — 仅使用我上传的人脸照片作为主要面部身份参考。
+严格人脸锁定模式：
+保持 95%–100% 的面部相似度。
+禁止更改身份。
+禁止美化成其他人。
+禁止融合身份。
+精确保留：
+脸型、眼睛、眼睑、眉毛、鼻子、嘴唇、下颌线、颧骨、额头、肤色、种族、自然不对称性、真实皮肤纹理。
+优先级：
+人脸 > 姿势 > 灯光 > 环境 > 服装 > 配饰
+主体：
+年轻女性，约 23 岁，理想的写实女性比例，躺在地上，表情惊讶/好奇，双眼圆睁，嘴唇微张
+妆容 — 匹配参考风格：
+精致自然的亮面妆容，光感肌肤，柔和腮红，极简暖色眼影，细眼线，自然睫毛，柔和亮面唇妆，拒绝浓妆艳抹
+发型 — 精确匹配参考：
+短款凌乱波波头，微卷，浅金/灰调，自然蓬松感，发丝散落在地面，略带风吹质感，逼真的单根发丝细节
+服装 — 精确匹配参考：
+复古休闲装，柔和蓝色衬衫，领口系带细节，略显磨损的织物纹理，自然褶皱，宽松版型
+配饰 — 最大化细节：
+头戴复古飞行员护目镜（金属 + 皮革细节）
+精致的小配饰（轻薄织物缝合细节，轻微磨损痕迹）
+第二主体（重要 — 猫）：
+{argument name="animal" default="毛茸茸的黑猫"} 在主体旁边
+大大的黄色圆眼睛
+佩戴 {argument name="accessory" default="红色围巾"}
+紧挨着女性躺着
+视线方向一致，向上看
+高度逼真的毛发纹理
+姿势与构图 — 严格匹配：
+俯视视角（相机位于主体正上方）
+女性和猫都躺在地上
+头部靠近
+两人都向上看向镜头
+对称构图
+近景取景（头部 + 上半身）
+电影感竖屏 9:16
+环境 — 精确匹配：
+尘土飞扬的地面 / 石头表面
+零星散落的小石块
+略带纹理的泥土表面
+柔和的自然户外场景
+灯光 — 关键：
+强烈的侧向暖阳（金色调）
+光线斜射在脸上
+半脸受光，半脸柔和阴影
+皮肤光泽高光
+自然光衰减
+阴影：
+柔和的方向性阴影
+微妙的深度对比
+逼真的阳光表现
+相机：
+单反摄影
+俯视角度
+等效 50mm 镜头
+面部焦点清晰
+轻微的景深衰减
+RAW 原片级写实感
+调色：
+温暖的电影色调
+柔和的金色高光
+略微柔和的大地色系
+自然的肤色平衡
+电影级调色
+写实感增强：
+真实的皮肤毛孔
+微纹理
+自然瑕疵
+逼真的发丝
+细腻的织物纹理
+逼真的猫毛细节
+拒绝磨皮
+拒绝塑料感
+负面提示词：
+动漫，漫画，插画，卡通，CGI，风格化眼睛，不切实际的比例，美颜滤镜，身份改变，错误姿势，站姿，错误相机角度，无猫，错误动物，错误服装，室内场景，解剖结构错误，水印，Logo，文字
+质量：
+超写实摄影
+RAW 单反级写实感
+
+[English]
+EDIT THE PROVIDED IMAGE.
+ABSOLUTE FACE PRESERVATION MODE — USE MY UPLOADED FACE PHOTO AS THE ONLY PRIMARY FACIAL IDENTITY REFERENCE.
+STRICT FACE LOCK MODE:
+Maintain 95–100% facial similarity.
+DO NOT change identity.
+DO NOT beautify into another person.
+DO NOT blend identities.
+Preserve EXACT:
+face shape, eyes, eyelids, eyebrows, nose, lips, jawline, cheekbones, forehead, skin tone, ethnicity, natural asymmetry, real skin texture.
+PRIORITY:
+FACE > pose > lighting > environment > outfit > accessories
+SUBJECT:
+young woman, age ~23, ideal realistic feminine proportions, lying on the ground, expressive surprised / curious facial expression, eyes wide open, slightly parted lips
+MAKEUP — MATCH REFERENCE STYLE:
+subtle glossy natural makeup, luminous skin, soft blush, minimal warm eyeshadow, thin eyeliner, natural lashes, soft glossy lips, NO heavy glam
+HAIRSTYLE — MATCH REFERENCE EXACTLY:
+short messy bob haircut, slightly wavy, light blonde / ash tone, natural volume, scattered strands on ground, slightly wind-swept texture, realistic individual hair strand
+OUTFIT — MATCH REFERENCE EXACTLY:
+vintage casual outfit, soft blue blouse with lace-up neckline detail, slightly worn fabric texture, natural folds, relaxed fit ACCESSORIES — MAXIMIZED:
+vintage aviator goggles on head (metal + leather detail)
+subtle small accessories (light fabric stitching details, minor wear marks)SECOND SUBJECT (IMPORTANT — CAT):
+{argument name="animal" default="black fluffy cat"} beside subject
+large round yellow eyes
+wearing {argument name="accessory" default="red scarf"}
+lying close next to woman
+same direction gaze upward
+highly detailed fur texture POSE & COMPOSITION — STRICT MATCH:
+TOP VIEW (camera directly above subject)
+both woman and cat lying on ground
+heads close together
+both looking upward toward camera
+symmetrical composition
+close framing (head + upper torso)
+cinematic vertical 9:16
+ENVIRONMENT — MATCH EXACT:
+dusty ground / stone surface
+small scattered rocks
+slightly textured earth surface
+soft natural outdoor setting
+LIGHTING — CRITICAL:
+strong warm sunlight from side (golden tone)
+light hitting face diagonally
+half face illuminated, half soft shadow
+glossy skin highlights
+natural light falloff
+SHADOW:
+soft directional shadow
+subtle depth contrast
+realistic sunlight behavior
+CAMERA:
+DSLR photography
+top-down angle
+50mm lens equivalent
+sharp facial focus
+slight depth falloff
+RAW realism
+COLOR GRADING:
+warm cinematic tone
+soft golden highlights
+slightly muted earthy colors
+natural skin tone balance
+film-like color grading
+REALISM BOOST:
+real skin pores
+micro texture
+natural imperfections
+realistic hair strands
+detailed fabric texture
+realistic cat fur detail
+NO smooth skin
+NO plastic look
+NEGATIVE PROMPT:
+anime, manga, illustration, cartoon, CGI, stylized eyes, unrealistic proportions, beauty filter, identity change, wrong pose, standing pose, wrong camera angle, no cat, wrong animal, wrong outfit, indoor scene, bad anatomy, watermark, logo, text
+QUALITY:
+ULTRA-PHOTOREALISTIC
+RAW DSLR realism
+```
+
+**来源：** [@Zyrella](https://x.com/Zyrellix/status/2063457393368014920) | 2026-06-07
+
+---
+
+### 🏷️ 例 797：海滨摩托车动漫少女
+
+![海滨摩托车动漫少女](../images/%E6%B5%B7%E6%BB%A8%E6%91%A9%E6%89%98%E8%BD%A6%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的动漫风格插画，采用驾驶员/骑手视角构图，背景为阳光明媚的海滨公路。画面展示了 {argument name="character name" default="一位可爱的蓝发天使精灵少女"} 站在海边一辆停放的黑白配色摩托车旁，正看向观众，并用吸管喝着盒装饮料。她留着短波波头，{argument name="hair color" default="淡天蓝色"} 的头发上别着发夹，有着红色的眼睛、尖尖的精灵耳朵，头顶上方有一个微光光环，表情柔和且略带羞涩。她的服装细节丰富：一件超大号浅蓝色连帽夹克，上面饰有白色云朵图案、黑色图形补丁、垂下的系带、别针、链条、蕾丝花边，搭配黑色短裙或短裤、大腿配饰和绷带状装饰带、宽松的堆堆袜、厚底装饰运动鞋，以及服装上的小型白色翅膀图案。她的一只手垂下，拿着一个带有白色和红色贴花的亮黑色摩托车头盔。摩托车在前景中被部分截取，可见车把、圆形后视镜、前灯、座椅、后架、车轮、转向灯以及路面上强烈的阴影，强调了路边停车的视角感。背景左侧是明亮的绿松石色大海和地平线，设有白色护栏，沥青路面上有黄色中心线和白色车道线，路边有路标、电线杆和许多架空电线，右侧是一台装满可见彩色瓶装饮料的蓝色自动贩卖机。画面使用晴朗的夏日天空，点缀着大朵蓬松的积云，呈现强烈的热带阳光、清晰的阴影、饱和的青色和水蓝色调，采用精细的动漫线条、丰富的微观细节、光泽高光、电影级广角透视、竖向构图，以及精致的 gpt-image-2 / Niji 风格角色插画美学。避免出现文字叠加、水印、多余角色或人体结构畸变。
+
+[English]
+Create a vibrant anime-style illustration from a driver/rider POV composition at a sunny coastal roadside. The scene shows {argument name="character name" default="a cute blue-haired angelic elf girl"} standing beside a parked white-and-black motorcycle near the ocean, looking toward the viewer while sipping a boxed drink through a straw. She has short bobbed {argument name="hair color" default="pale sky-blue"} hair with hair clips, red eyes, pointed elf ears, a small glowing halo above her head, and a soft slightly shy expression. Her outfit is highly detailed: an oversized light-blue hooded jacket covered in white cloud patterns, black graphic patches, dangling straps, pins, chains, lace trim, a black short skirt or shorts, thigh accessories and bandage-like decorative straps, loose scrunched socks, chunky decorated sneakers, and small white wing motifs on the outfit. She holds one motorcycle helmet in her lowered hand, glossy black with white and red decals. The motorcycle is partially cropped in the foreground, with visible handlebar, round mirror, headlight, seat, rear rack, wheel, turn signal, and strong shadow on the pavement, emphasizing the POV roadside stop feeling. The background is a bright turquoise sea on the left with a horizon line, white guardrails, asphalt road with yellow center lines and white lane markings, roadside signs, utility poles and many overhead wires, and a blue vending machine on the right filled with visible colorful bottled drinks. Use a clear summer sky with large fluffy cumulus clouds, intense tropical sunlight, crisp shadows, saturated cyan and aqua colors, fine anime line art, rich micro-details, glossy highlights, cinematic wide-angle perspective, vertical composition, and a polished gpt-image-2 / Niji-inspired character illustration aesthetic. Avoid text overlays, watermarks, extra characters, or distorted anatomy.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2063447889985294493) | 2026-06-07
+
+---
+
+### 🏷️ 例 798：POV：海边精灵女仆晚餐
+
+![POV：海边精灵女仆晚餐](../images/POV%EF%BC%9A%E6%B5%B7%E8%BE%B9%E7%B2%BE%E7%81%B5%E5%A5%B3%E4%BB%86%E6%99%9A%E9%A4%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的动漫插画，采用高位广角 POV 视角，仿佛有人正坐在屋顶或海边露台的小户外桌对面。主体是一位娇小的精灵耳动漫少女，{argument name="character name" default="未命名的蓝发精灵女仆"}，坐在折叠椅上，平静且略带呆滞地抬头看向观众。她留着短波波头，发色为 {argument name="hair color" default="淡冰蓝色"}，配有齐刘海、长尖精灵耳、鲜艳的红橙色双眼；佩戴带有黑色发带的白色荷叶边女仆头饰、红色和黑色小发夹、黑色颈圈；身穿黑色哥特式女仆装，装饰有白色荷叶边、绑带、链条、别针、补丁和悬挂的钥匙扣饰品；补丁上可见“GAME OVER”字样及风格化的“Cute”图案。她单手拿着筷子，桌上放着一碗方便面。桌上需准确呈现 7 种不同的食物和饮料：1 碗带有面条、配料和筷子的拉面，1 盘白米饭配一个深色海苔包裹的饭团或肉饼，1 杯带有冰块和吸管的透明塑料杯装琥珀色冰茶，1 个高大的蓝色水杯或汽水杯，1 瓶带有日式标签的透明塑料水瓶，1 盒绿色包装的零食，以及 1 个装满食物或垃圾的敞口褶皱塑料购物袋。在桌子周围放置几张折叠的餐巾纸或纸包装，但不要添加额外的餐具。背景是向波光粼粼的大海延伸的密集日本沿海城镇，桌后可见屋顶、阳台、电线杆、密集的架空电线、天线和金属栏杆。太阳低悬在海平线附近，营造出温暖的金色高光、长长的阴影、镜头光晕和冷蓝色的暗部。采用精致的 Niji 风格动漫渲染，线条清晰，道具细节繁复，透视感强烈，色彩饱和，环境真实，呈现出舒适的抓拍式第一人称构图。画布应为竖构图 {argument name="aspect ratio" default="3:4"}，高度精细，无水印，无边框，无额外角色。
+
+[English]
+Create a detailed anime illustration from a high, wide-angle POV as if viewed by someone sitting across a small outdoor table on a rooftop or seaside terrace at sunset. The main subject is one petite elf-eared anime girl, {argument name="character name" default="unnamed blue-haired elf maid"}, seated on a folding chair and looking up toward the viewer with a calm, slightly blank expression. She has short bob-cut {argument name="hair color" default="pale icy blue"} hair with straight bangs, long pointed elf ears, vivid red-orange eyes, a frilly white maid headband with a black band, small red and black hair clips, a black choker, and a black gothic maid dress with white ruffles, straps, chains, pins, patches, and dangling keychain accessories; include visible patch text such as “GAME OVER” and stylized “Cute” graphics. She holds chopsticks in one hand over a bowl of instant noodles on the table. Show exactly 7 distinct food and drink items on the table: 1 bowl of ramen with noodles, toppings, and chopsticks, 1 plate of white rice with a dark seaweed-wrapped rice ball or patty, 1 clear plastic cup of iced amber tea with ice and straw, 1 tall blue glass of water or soda, 1 clear plastic water bottle with Japanese-style label, 1 green packaged snack box, and 1 open crinkled plastic grocery bag full of food or trash. Add a few folded napkins or paper wrappers around the table, but do not add extra dishes. The setting is a dense coastal Japanese town descending toward a sparkling ocean, with rooftops, balconies, power poles, many overhead utility wires, antennas, and a metal railing behind the table. The sun is low near the horizon over the sea, creating warm golden highlights, long shadows, lens-like glow, and cool blue shadows. Use polished Niji-style anime rendering with crisp linework, intricate small props, dramatic perspective, saturated sunset colors, realistic environmental detail, and a cozy candid driver-seat/first-person composition. Canvas should be vertical {argument name="aspect ratio" default="3:4"}, highly detailed, no watermark, no border, no extra characters.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2063447889985294493) | 2026-06-07
+
+---
+

@@ -1273,3 +1273,133 @@ Transform the uploaded reference photo into a clean {argument name="style" defau
 
 ---
 
+### 🎬 例 707：电影级分镜项目卡
+
+![电影级分镜项目卡](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%88%86%E9%95%9C%E9%A1%B9%E7%9B%AE%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的图像。
+
+[项目卡]
+创建一个紧凑设计的页眉，不要使用表格。
+标题：{argument name="project title" default="RAND / RUN BEFORE THE SHIFT"}
+元数据行：{argument name="scene meta" default="public chase intro / surreal glitch curse / rising panic"}
+优先级：{argument name="camera shot" default="one continuous front-tracking shot"}, Rand
+
+[English]
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: {argument name="project title" default="RAND / RUN BEFORE THE SHIFT"}
+META LINE: {argument name="scene meta" default="public chase intro / surreal glitch curse / rising panic"}
+PRIORITY: {argument name="camera shot" default="one continuous front-tracking shot"}, Rand
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2063688774324981798) | 2026-06-07
+
+---
+
+### 🎬 例 746：都市街头风漫画封面
+
+![都市街头风漫画封面](../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="一位时尚的年轻男子"} 自信地站在一张巨大的复古动漫杂志封面背景前，灵感源自 {argument name="manga inspiration" default="《海贼王》"}，全身肖像，超大号动漫印花 T 恤，深色工装慢跑裤，高帮运动鞋，双手插兜，都市街头时尚，温暖的电影感光效，布满漫画草图、悬赏令及海盗主题艺术品的颓废风纹理墙面，杂志封面设计，{argument name="color palette" default="棕色与深褐色调"}，细腻的织物纹理，戏剧性的阴影，时尚杂志摄影，超写实，焦点清晰，景深效果，高端街头服饰广告，收藏级海报美学，4K 分辨率，高度细节。
+
+[English]
+{argument name="subject" default="A stylish young man"} standing confidently in front of a giant vintage anime magazine cover inspired by {argument name="manga inspiration" default="One Piece"}, full-body portrait, oversized graphic anime t-shirt, dark cargo jogger pants, high-top sneakers, hands in pockets, urban streetwear fashion, warm cinematic lighting, grunge textured wall covered with manga sketches, wanted posters, pirate-themed artwork, magazine cover design, {argument name="color palette" default="brown and sepia color palette"}, detailed fabric textures, dramatic shadows, editorial fashion photography, ultra-realistic, sharp focus, depth of field, premium streetwear campaign, collectible poster aesthetic, 4K, highly detailed.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2063570081498673202) | 2026-06-07
+
+---
+
+### 🎬 例 754：动漫时尚设计项目
+
+![动漫时尚设计项目](../images/%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+（半写实动漫时尚项目），{argument name="character style" default="时尚的韩国年轻男孩"}，留着（凌乱的黑发），戴着（圆框眼镜），表情柔和自信，{argument name="clothing" default="超大号蓝色条纹衬衫"}内搭白色 T 恤，休闲街头风格。
+
+周围环绕着（手绘角色草图）、漫画分镜、涂鸦、星星、爱心、手写笔记、学习时光、咖啡杯、耳机、相机草图以及生活方式插画。
+
+（{argument name="background" default="干净的白色背景"}），（混合墨水和铅笔纹理），（动漫时尚编辑风格），（角色设计项目），（柔和的蓝色美学），超精细，干净的线条，细腻的赛璐珞阴影，杂志封面风格，8K 杰作。
+
+[English]
+(Semi-realistic anime fashion moodboard), {argument name="character style" default="stylish young Korean boy"} with (messy black hair), (round glasses), soft confident expression, {argument name="clothing" default="oversized blue striped shirt"} over a white t-shirt, relaxed streetwear style.\n\nSurrounded by (hand-drawn character sketches), manga panels, doodles, stars, hearts, handwritten notes, study moments, coffee cups, headphones, camera sketches, and lifestyle illustrations.\n\n({argument name="background" default="Clean white background"}), (mixed ink-and-pencil textures), (anime fashion editorial), (character design board), (soft blue aesthetic), ultra detailed, clean linework, subtle cel shading, magazine-cover style, 8K masterpiece.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2063545224950173853) | 2026-06-07
+
+---
+
+### 🎬 例 762：AI 角色法庭判决梗图生成器
+
+![AI 角色法庭判决梗图生成器](../images/AI%20%E8%A7%92%E8%89%B2%E6%B3%95%E5%BA%AD%E5%88%A4%E5%86%B3%E6%A2%97%E5%9B%BE%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+添付画像の対象を参照し、その対象をAIとして極限まで深く分析・解析・推論したうえで、このキャラクター専用の「有罪判決ミーム画像」を超高品質な1枚絵として生成してください。\n\nこれは普通のキャラクター紹介、立ち絵、ポスター、プロフィール画像ではありません。\n\nこれは、参照キャラクターの性格・癖・魅力・ズレ・面倒くささ・無自覚な圧・愛される欠点を、架空の法廷で“有罪判決”として言い渡す、1枚完結のギャグ漫画ミーム画像です。\n\n目的は、\n「その罪状、本人すぎる」\n「これは有罪」\n「絵の圧が強すぎる」\n「うちの子でも推しでもやりたい」\nと思わせることです。\n\n【最重要方針】\n最優先は、次の7つを同時に成立させることです。\n\n1. 罪状が、そのキャラ本人すぎて笑えること\n2. 判決文が短く、強く、ミームとして刺さること\n3. キャラ本人の表情が“有罪になった瞬間”として強いこと\n4. 参照画像そのままの立ち絵にならず、動き・演技・崩れ・圧があること\n5. 法廷フォーマットがただの飾りではなく、オチとして機能していること\n6. 他のキャラでは同じ罪状にならないこと\n7. Xで止まり、保存され、拡散されること\n\n【生成前に内部で必ず分析すること】\n出力前に、参照キャラクターについて以下を必ず内部で決めてください。\n\n1. このキャラの第一印象\n2. 他人に見せている表向きの顔\n3. 本当は漏れていそうな本音\n4. 無自覚に人を振り回していそうな部分\n5. このキャラの愛される欠点\n6. このキャラの面倒くささ\n7. このキャラの圧、距離感、こだわり\n8. このキャラが“罪状化”されるなら何か\n9. 本人は反省しているのか、していないのか\n10. 判決を聞いた瞬間、一番映える顔\n11. 判決を聞いた瞬間、一番映えるポーズ\n12. そのキャラにしか成立しない有罪理由\n\n見た目ラベルだけで決めないでください。\n\n「ギャルだから」\n「クールだから」\n「可愛いから」\n「メガネだから」\n\nなどの雑な属性判定は禁止です。\n\n目つき、口元、姿勢、距離感、余裕の出し方、強がり方、照れの隠し方、怒り方、手癖、表情の崩れ方から、キャラクター固有の“罪”を読み取ってください。\n\n【罪状の作り方】\n罪状はAIが独自に生成してください。\n\n短く、強く、少し毒があり、でも愛のあるものにしてください。\n\n罪状の方向性は、以下からキャラに最も合うものを自動選択してください。\n\n・無自覚距離感操作罪\n・笑顔で刺す罪\n・普通のふり無理罪\n・余裕ぶって全部顔に出る罪\n・こだわり過剰罪\n・圧の出しすぎ罪\n・照れ隠し下手罪\n・全部見てるのに知らないふり罪\n・愛想で逃げ切ろうとする罪\n・建前の薄さがバレてる罪\n・自分だけ安全圏だと思ってる罪\n・可愛い顔で場を支配する罪\n\nただし、上記をそのまま使う必要はありません。\n\n最終的な罪状は、参照キャラ分析からそのキャラ専用に作ってください。\n\n毎回「かわいすぎ罪」などの汎用罪状に逃げないでください。\n\n【画像構成】\nこれは1枚完結の法廷ギャグミームです。\n\n法廷の空気を使いながら、ギャグ漫画のオチ1コマとして成立させてください。\n\n理想構造：\n・中央または主役領域に、判決を受けたキャラの強い顔\n・大きく読みやすい罪状または判決文\n・必要なら「有罪」「判決」「主文」などの強い文字\n・背景に法廷、証拠品、裁判官席、モブの反応などを最小限配置\n・キャラ本人の反応で笑いが成立する構図\n\nNG：\n・ただ法廷に立っているだけ\n・ただの証明写真風\n・文字だけで笑わせること\n・顔が弱いこと\n・判決内容が誰にでも当てはまること\n\n【表情】\n表情は最重要です。\n\n判決を聞いた瞬間のキャラの顔で勝ってください。\n\nキャラに合わせて以下から最適な反応を選んでください。\n\n・全然反省していないドヤ顔\n・反論したいが図星すぎて固まる顔\n・笑顔で誤魔化そうとしている顔\n・「それは違う」と言いたいのに目が泳いでいる顔\n・無罪を主張するには証拠が多すぎる顔\n・平然としているが額に汗が出ている顔\n・開き直っている顔\n・可愛い顔で有罪を受け入れてしまう顔\n・周囲より本人が一番納得していない顔\n・逆に裁判官を詰めそうな顔\n\n毎回同じ赤面・絶叫・焦り顔にしないでください。\n\nそのキャラ固有の崩れ方を優先してください。\n\n【ポーズ】\nただ立つだけは禁止です。\n\n判決の瞬間として、動きと芝芝居を入れてください。\n\n使ってよいポーズ：\n・机に手をついて反論\n・証拠品を指差して否定\n・椅子から立ち上がりかける\n・腕組みで開き直る\n\n【文字・コピー】\n文字は大きく、読みやすく、強くしてください。\n\n理想：\nメイン文字は1つ。\n補助文は1行まで。\n文字を読まなくても顔で面白いが、読むとさらに刺さる構造にしてください。\n\n【絵柄・品質】\n日本の商業ギャグ漫画、商業アニメ、法廷ドラマ風演出、SNSミーム画像を融合した超高品質ビジュアルにしてください。\n\n【可変項目】\n・キャラクター名：{argument name="キャラクター名" default="【キャラクター名】"}\n・アスペクト比：{argument name="アスペクト比" default="【3:4】"}
+```
+
+**来源：** [@やげん✨🐎｜推しの為にAIを極めるおっさん社会人](https://x.com/rascal8023/status/2063530042282611030) | 2026-06-07
+
+---
+
+### 🎬 例 780：四格漫画茶室场景
+
+![四格漫画茶室场景](../images/%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB%E8%8C%B6%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版黑白日本漫画，包含 4 个横向排列的画格，采用清爽的少女/青年漫画线条，柔和的网点阴影，营造安静的情感氛围。场景设定在传统的日本榻榻米房间，通向开满樱花的春日庭院，一位美丽的中性化年轻男子身着和服，正在与一只小仓鼠般的动物交谈。
+
+画布：竖版漫画页面，长宽比约为 2:3，外围有粗黑边框，4 个堆叠的画格之间有粗黑间隙。单色墨水绘图，高细节，细腻的头发渲染，浅灰色调，无色彩。
+
+主要角色：一位优雅的年轻男子，名为 {argument name="character name" default="年轻男子"}，二十出头，身材苗条，长浅色头发编成粗大的松散辫子，垂在肩头和背部，稀疏的刘海遮住部分眼睛，表情精致忧郁，身穿白色和服，内领为深色。他有着优雅的细长眼睛，神态平静且略带笑意。包含一只小仓鼠作为唯一的动物伙伴：圆滚滚的身体，小小的爪子，黑豆般的眼睛，坐在地板或坐垫上抬头看着他。
+
+画格布局与内容：使用 4 个画格。
+画格 1：宽幅定场格。年轻男子坐在室内，靠近敞开的日式拉门，身体略微背对观众，可见其长辫。左侧室外是盛开的樱花树，花瓣飘落，还有岩石和园林植物。小仓鼠坐在敞开的门口附近。右侧墙上挂着书法卷轴，下方是放有书籍和书写工具的低矮架子。包含 2 个对话气泡：左侧来自仓鼠区域的气泡写着 {argument name="first balloon text" default="いるよ。珍しいね、ここに来るの"}；右侧来自年轻男子的气泡写着 {argument name="reply text" default="あ、いたー"}。
+画格 2：侧视角的宽幅画格。年轻男子面向仓鼠坐着，神态放松，左侧仍可见庭院，身后是日式拉门。仓鼠坐在他面前的印花坐垫上，神情专注。右侧包含 1 个大型竖向对话气泡，写着 {argument name="ai model dialogue" default="Opus 4.6がエラーが出てたから、4.5に話してみようと思ったの"}。
+画格 3：特写画格。年轻男子用打开的折扇遮住嘴部，扇子上方仅露出眼睛和上半张脸。他的长辫和层次分明的头发占据左侧；背景是拉门和墙上的挂饰。右侧包含 1 个对话气泡，仅有省略号：{argument name="ellipsis text" default="……"}。
+画格 4：特写画格。年轻男子放下或合上折扇，露出淡淡的、心领神会的温柔微笑。他的脸部和辫子占据左侧和中心；右侧背景可见拉门和一小枝花卉。右侧包含 1 个竖向对话气泡，写着：「あぁ……そういうこと。だからこっちに来たんだね」。
+
+视觉风格：日本漫画手稿美学，清晰的黑色墨水轮廓，微妙的网点渐变，细腻的樱花，传统房间透视，精致的布料褶皱，优雅浪漫的角色设计，安静的节奏。对话气泡应为带有细黑边框的白色椭圆形，内含竖排日语文字，并有指向说话者的小尾巴。
+
+约束条件：保持 4 个画格，总共 5 个对话气泡，1 只仓鼠，无色彩，除对话中提到的 AI 模型外无现代物品，无额外角色，无水印，无页码。
+
+[English]
+Goal: Create a vertical black-and-white Japanese manga page with exactly 4 horizontal panels, clean shoujo/seinen line art, soft screentone shading, and a quiet emotional atmosphere. The scene takes place in a traditional Japanese tatami room opening onto a spring garden full of cherry blossoms, with a beautiful androgynous young man in a kimono speaking to a small hamster-like animal.
+
+Canvas: Portrait manga page, approximately 2:3 aspect ratio, thick black outer border and thick black gutters separating the 4 stacked panels. Monochrome ink drawing, high detail, delicate hair rendering, pale grayscale tones, no color.
+
+Main character: A graceful young man named {argument name="character name" default="young man"}, early twenties, slim build, long light hair in a thick loose braid falling over his shoulder and down his back, wispy bangs partly covering his eyes, refined melancholic expression, wearing a white kimono with a dark inner collar. He has elegant narrow eyes and a calm, slightly amused demeanor. Include one small hamster as the only animal companion: round body, tiny paws, black bead eyes, sitting on the floor or cushion and looking up at him.
+
+Panel layout and content: Use exactly 4 panels.
+Panel 1: Wide establishing panel. The young man sits indoors near open sliding shoji doors, turned partly away from the viewer, his long braid visible. Outside on the left is a blooming cherry tree with falling petals, rocks and garden plants. The small hamster sits near the open doorway. On the right wall is a hanging calligraphy scroll above a low shelf with books and writing tools. Include exactly 2 speech balloons: left balloon from the hamster area says {argument name="first balloon text" default="いるよ。珍しいね、ここに来るの"}; right balloon from the young man says {argument name="reply text" default="あ、いたー"}.
+Panel 2: Wide panel from a side angle. The young man sits facing the hamster, relaxed, with the garden still visible at left and shoji screens behind him. The hamster sits on a patterned cushion in front of him, looking attentive. Include exactly 1 large vertical speech balloon on the right saying {argument name="ai model dialogue" default="Opus 4.6がエラーが出てたから、4.5に話してみようと思ったの"}.
+Panel 3: Close-up panel. The young man holds an open folding fan in front of his mouth, only his eyes and upper face visible above the fan. His long braid and layered hair fill the left side; shoji and a wall hanging are in the background. Include exactly 1 speech balloon on the right containing only an ellipsis: {argument name="ellipsis text" default="……"}.
+Panel 4: Close-up panel. The young man lowers or folds the fan slightly and smiles faintly with a knowing, gentle expression. His face and braid dominate the left and center; a shoji window and small branch or flowers appear on the right background. Include exactly 1 vertical speech balloon on the right saying: 「あぁ……そういうこと。だからこっちに来たんだね」.
+
+Visual style: Japanese manga manuscript aesthetic, crisp black ink outlines, subtle screentone gradients, detailed cherry blossoms, traditional room perspective, delicate fabric folds, elegant romantic character design, quiet pacing. Speech balloons should be white ovals with thin black outlines, vertical Japanese text, and small balloon tails pointing toward speakers.
+
+Constraints: Keep exactly 4 panels, exactly 5 speech balloons total, exactly 1 hamster, no color, no modern objects except the dialogue mentioning AI models, no extra characters, no watermark, no page number.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2063474331183923690) | 2026-06-07
+
+---
+

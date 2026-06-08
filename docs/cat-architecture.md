@@ -467,3 +467,67 @@ Create a photorealistic architectural interior rendering of a modern minimalist 
 
 ---
 
+### 🏛️ 例 739：忧郁风格 2x2 照片拼贴
+
+![忧郁风格 2x2 照片拼贴](../images/%E5%BF%A7%E9%83%81%E9%A3%8E%E6%A0%BC%202x2%20%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 2x2 照片拼贴，主角为 {argument name="subject" default="年轻人"}，场景设定在 {argument name="setting" default="深夜昏暗的卧室"}，{argument name="hair" default="深色凌乱的碎发"}，佩戴超大号圆形金属框眼镜，皮肤苍白，带有自然的微小瑕疵和雀斑，身穿超大号黑色连帽衫。忧郁的蓝灰色调，柔和的电影感弱光摄影，充满内省与忧郁的氛围。
+左上：躺在白色枕头上，盖着毯子，侧脸，睡眼惺忪的表情，柔和的蓝色月光照亮脸庞。
+右上：坐在黑暗中，靠近镜子，手部半遮住嘴，若有所思地看向别处，微妙的阴影，情绪化且沉思的氛围。
+左下：躺着时的特写肖像，浅景深，略带模糊的梦幻焦距，眼镜反射着微弱的光，细腻的皮肤质感，亲密的摄影风格。
+右下：在黑暗卧室中的镜子自拍，穿着超大号黑色印花连帽衫，一只手抓着凌乱的头发，姿态放松，背景中可见极简的房间细节。
+写实摄影，柔和颗粒感，低饱和度色彩，暗黑学院风与垃圾摇滚美学，自然光，高细节，电影感阴影，舒适的夜晚氛围，真实的抓拍瞬间，富士胶片风格色调，50mm 镜头，浅景深，照片级真实感。
+
+[English]
+A 2x2 photo collage of the same {argument name="subject" default="young person"} in a {argument name="setting" default="dimly lit bedroom at night"}, {argument name="hair" default="dark messy shaggy black hair"}, oversized round wire-frame glasses, pale skin with subtle natural blemishes and freckles, wearing an oversized black hoodie. Moody blue-gray color grading, soft cinematic low-light photography, introspective and melancholic atmosphere.
+Top-left: lying on a white pillow under blankets, side profile, sleepy expression, soft blue moonlight illuminating the face.
+Top-right: sitting in darkness near a mirror, hand partially covering mouth, looking away thoughtfully, subtle shadows, emotional and contemplative mood.
+Bottom-left: close-up portrait while lying down, shallow depth of field, slightly blurred dreamy focus, glasses reflecting faint light, soft skin texture, intimate photography.
+Bottom-right: mirror selfie in a dark bedroom, oversized black graphic hoodie, one hand in messy hair, relaxed posture, minimal room details visible in the background.
+Realistic photography, soft grain, muted colors, dark academia meets grunge aesthetic, natural lighting, high detail, cinematic shadows, cozy nighttime atmosphere, authentic candid moments, Fujifilm-style tones, 50mm lens, shallow depth of field, photorealistic.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2063592726403465451) | 2026-06-07
+
+---
+
+### 🏛️ 例 771：Vogue 水彩风格照片转换
+
+![Vogue 水彩风格照片转换](../images/Vogue%20%E6%B0%B4%E5%BD%A9%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为源图像，将这张手机照片转换为精致的 Vogue 风格时尚/建筑插画。保持相同的竖构图，保留人物从拱窗探出的姿势，并维持面部模糊处理。将场景转换为优雅的水墨线条画，背景为大面积留白的纸张质感，配以随性的黑色素描轮廓、柔和的米色阴影、柔和的绿色植被以及温暖的铁锈红衬衫。将照片中的墙面简化为干净的白色负空间，同时保留关键的建筑特征：高大的扇形拱窗、右侧的哥特式装饰及滴水嘴兽细节、左侧带有圆形顶饰的石柱、竹竿、绿植，以及窗下精准的 2 个圆形四叶草通风口。使其呈现出 {argument name="magazine style" default="Vogue"} 风格的高级时尚旅行插画质感，既精致又具有手绘感，布局空灵，不添加任何文字、Logo 或额外人物。
+
+[English]
+Using REFERENCE_0 as the source image, transform the phone photo into a refined Vogue-style fashion/architectural illustration. Keep the same vertical composition, the same person leaning out of the arched window in the same pose, and preserve the anonymized blurred face. Convert the scene into elegant ink-and-watercolor line art on a mostly white paper background, with loose black sketch outlines, soft beige shadows, muted green foliage, and a warm rust-red shirt. Simplify the photographic wall into clean white negative space while retaining the key architectural features: the tall scalloped arch window, the Gothic ornament and gargoyle-like detail on the right, the stone stair post with round finial on the left, the bamboo poles, leafy plants, and exactly 2 small circular quatrefoil vents below the window. Make it look like a high-fashion travel illustration from {argument name="magazine style" default="Vogue"}, polished but hand-drawn, with airy editorial spacing and no added text, logos, or extra people.
+```
+
+**来源：** [@Ilia Kitchenko](https://x.com/IliaKitchenko/status/2063508043107844154) | 2026-06-07
+
+---
+
+### 🏛️ 例 773：花园中怀抱兔子的快乐女子
+
+![花园中怀抱兔子的快乐女子](../images/%E8%8A%B1%E5%9B%AD%E4%B8%AD%E6%80%80%E6%8A%B1%E5%85%94%E5%AD%90%E7%9A%84%E5%BF%AB%E4%B9%90%E5%A5%B3%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张自然、阳光明媚的户外摄影照片，画面中是一位 {argument name="subject description" default="留着棕色长波浪卷发的快乐年轻女子"}，她正抬头大笑，神情纯真愉悦，怀里紧紧抱着一只 {argument name="animal" default="毛茸茸的浅棕色小兔子"}。她穿着一件 {argument name="outfit" default="饰有精致黄色花朵图案的浅粉色无袖夏日连衣裙"}，并佩戴着纤细的金色手链作为点缀。她坐在草坪上，身后是一道低矮的白色尖桩篱笆，背景中郁郁葱葱的绿色树篱、缠绕着仙女灯的大树树干以及优雅的户外派对或花园活动在明亮的自然光下呈现出柔和的虚化效果。
+
+[English]
+"A candid, sun-drenched outdoor photograph of a {argument name="subject" default="joyful young woman"} with long, wavy brown hair, laughing and looking upward in pure delight while cradling a {argument name="animal" default="fluffy, light-brown bunny"} close to her chest. She is wearing a {argument name="dress" default="sleeveless, light pink-colored summer sundress"} adorned with a delicate yellow floral pattern, accessorized with thin gold bracelets. She is seated on a grassy lawn behind a low white picket fence, with lush green hedges, a large tree trunk wrapped in fairy lights, and an elegant outdoor party or garden event softly blurred in the background under bright, natural daylight."
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2063495960916033744) | 2026-06-07
+
+---
+
