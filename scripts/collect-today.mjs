@@ -321,6 +321,35 @@ ${promptBlock}
 }
 
 // ─── Step 10: 写入文件 ────────────────────────────────
+
+// 新增百位范围时，自动更新三个文件的导航链接
+function updateNavLinks(start, end) {
+  const padded = String(start).padStart(3, '0') + '-' + String(end).padStart(3, '0');
+  const casesFile = `cases-${padded}.md`;
+
+  const targets = [
+    { file: 'README.md', link: `[案例 ${start}-${end}](docs/${casesFile})` },
+    { file: 'docs/categories.md', link: `[案例 ${start}-${end}](${casesFile})` },
+    { file: 'docs/categories_en.md', link: `[Cases ${start}-${end}](${casesFile})` },
+  ];
+
+  for (const { file, link } of targets) {
+    if (!fs.existsSync(file)) continue;
+    let content = fs.readFileSync(file, 'utf-8');
+    // 已存在则跳过
+    if (content.includes(casesFile)) continue;
+    // 在导航行最后一个 cases-NNN-NNN 链接后追加
+    const re = /cases-\d{3}-\d{3}\.md\)/g;
+    let lastMatch;
+    while (re.exec(content) !== null) lastMatch = re.lastIndex;
+    if (lastMatch) {
+      content = content.slice(0, lastMatch) + ' · ' + link + content.slice(lastMatch);
+      fs.writeFileSync(file, content, 'utf-8');
+      console.log(`  Updated nav in ${file} (+${start}-${end})`);
+    }
+  }
+}
+
 function getCasesFilePath(num) {
   const start = Math.floor((num - 1) / 100) * 100 + 1;
   const end = start + 99;
@@ -333,6 +362,8 @@ function getCasesFilePath(num) {
     const header = `# 案例 ${start} - ${end}\n\n[返回首页](../README.md) · [案例 ${prevStart}-${prevEnd}](${prevFile})\n\n---\n\n`;
     fs.writeFileSync(base, header, 'utf-8');
     console.log(`  Created ${base}`);
+    // 自动更新导航链接
+    updateNavLinks(start, end);
   }
   return base;
 }
