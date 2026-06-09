@@ -2229,3 +2229,307 @@ Create a highly detailed vertical anime illustration of a beautiful kunoichi cha
 
 ---
 
+### 🎨 例 807：女子骑巨猫通勤
+
+![女子骑巨猫通勤](../images/%E5%A5%B3%E5%AD%90%E9%AA%91%E5%B7%A8%E7%8C%AB%E9%80%9A%E5%8B%A4.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="猫バイクで、おはよう出勤"}
+
+人物・表情：
+{argument name="人物" default="若い女性"}。やわらかな日系の顔立ち、自然で明るい笑顔。暗めブラウンの髪を、シースルーバングと顔まわりレイヤーを入れた、ふんわりした日系ポニーテールにまとめる。ナチュラルで上品な日系メイク、繊細なアイメイク、淡いピンクチーク、血色感のあるコーラル系リップ、自然なツヤ肌。
+
+服装・ポーズ：
+白〜アイボリー系の上品な夏ブラウス、ライトベージュのきれいめパンツ、白いローファー、小さめのベージュショルダーバッグ。{argument name="乗り物" default="巨大な黒白の奶牛猫"}にまたがり、手綱を軽く握りながら前傾気味に乗っている。通勤中のような軽やかさがあり、自然で上品な動き。
+
+背景・光：
+朝の都会の大通り。通勤時間帯で車が多く、ビル街の車道を走っている。明るい朝の自然光、澄んだ空気感、爽やかな朝の雰囲気。猫も車も道路の流れに沿って同じ方向へ進んでいる。日本らしい左側通行。背景の街並みや車はやや柔らかくぼけていて、人物と猫がしっかり引き立っている。
+
+構図・カメラ：
+横長構図。人物と猫を画面の主役として大きく捉えた、ダイナミックなストリートスナップ。やや低めの視点、35mm〜50mmの自然な画角。人物の顔と猫の顔にしっかりピントを合わせ、背景の建物や車には適度な景深と自然なボケを入れる。道路の奥行きとスピード感が伝わる構図。
+
+質感・スタイル：
+高精細、4K品質、リアルな写真風AI画像。ソニーの高性能カメラで撮影したような、透明感のある高清写真の質感。Sony α7シリーズで撮ったようなシャープな解像感、自然なコントラスト、繊細な髪の描写、猫の毛並みの立体感、肌のきめが自然に見える上質な写真人像表現。人物と猫はくっきり、背景は少しだけ柔らかくぼけた、都会的で洗練された仕上がり。
+
+ネガティブ：
+低画質、不自然な顔、不自然な手、余分な指、欠けた指、歪んだ指、崩れた顔、左右非対称な目、奇妙な目線、歪んだ体、破綻した服、不自然な猫の体、余分な脚、不自然な毛並み、逆走する車、横断する猫、車道方向の矛盾、背景の不自然な歪位、過度な加工、過度な美肌補正、AI特有の不自然な質感、文字、ロゴ、透かし
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2064125923935580347) | 2026-06-08
+
+---
+
+### 🎨 例 829：奇幻草原上的风中动漫女战士
+
+![奇幻草原上的风中动漫女战士](../images/%E5%A5%87%E5%B9%BB%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%9A%84%E9%A3%8E%E4%B8%AD%E5%8A%A8%E6%BC%AB%E5%A5%B3%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级宽屏动漫风格的奇幻插画，画面左侧前景站着一位孤独的 {argument name="character type" default="高挑成年女战士"}，背景是深蓝色暮色下的广袤草原。她有着极长的、在风中戏剧性地向左飘逸的 {argument name="hair color" default="深紫色"} 头发，面部被柔和的矩形模糊遮挡，姿态自信且面向前方。她的装束是粗犷的末日战术风格：包含 7 个清晰可见的主要服饰和装备元素——一件破损的长款深色风衣、一件撕裂的米白色衬衫、黑色高叉短裤、棕色腰带、大腿绑带、大腿上的手枪枪套，以及深色过膝袜/靴子。风衣和头发应呈现出被强风吹拂的效果，带有散乱的发丝和撕裂的布料边缘。背景是广阔的稀树草原，有着金色的草地、散落的岩石、远处的平顶山，以及 3 棵醒目的树木：右侧一棵巨大的扭曲古树，树冠浓密圆润；左侧远处一棵较小的树；以及地平线附近一棵极小的远景树。天空布满了在浓郁钴蓝色背景下发光的粉橙色积云，左上方可见 3 颗微小的苍白月亮或行星。采用高细节的油画质感动漫渲染，运用戏剧性的日落轮廓光、柔和的大气深度、史诗般的比例，将清晰的线条与油画质感融合，色彩鲜艳，并采用 16:9 的电影级构图。避免出现文字、Logo、水印、多余角色和现代建筑。
+
+[English]
+Create a cinematic widescreen anime-style fantasy illustration of a lone {argument name="character type" default="tall adult woman warrior"} standing in the left foreground of a vast open grassland under a deep blue twilight sky. She has extremely long windblown {argument name="hair color" default="dark purple"} hair streaming dramatically to the left, a partially obscured face covered by a soft rectangular blur, and a confident forward-facing stance. Her outfit is a rugged post-apocalyptic tactical ensemble: exactly 7 visible main clothing and gear elements — a torn long dark trench coat, a ripped off-white shirt, black high-cut shorts, a brown belt, thigh straps, a holstered pistol on one thigh, and dark thigh-high stockings/boots. The coat and hair should be pushed by strong wind, with loose strands and torn fabric edges. The background is a sweeping savanna-like plain with golden grass, scattered rocks, distant mesas, and exactly 3 prominent trees: one large twisted ancient tree on the right with a dense rounded canopy, one smaller tree far left, and one tiny distant tree near the horizon. The sky is filled with glowing pink-orange cumulus clouds against rich cobalt blue, with exactly 3 small pale moons or planets visible near the upper center-left. Use highly detailed painterly anime rendering, dramatic sunset rim light, soft atmospheric depth, epic scale, crisp linework blended with oil-paint texture, vibrant colors, and a 16:9 cinematic composition. Avoid text, logos, watermarks, extra characters, and modern buildings.
+```
+
+**来源：** [@Hunter](https://x.com/Hunter_ctime/status/2064011837000290526) | 2026-06-08
+
+---
+
+### 🎨 例 857：哥特风动漫速写本拼贴画
+
+![哥特风动漫速写本拼贴画](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E5%8A%A8%E6%BC%AB%E9%80%9F%E5%86%99%E6%9C%AC%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页密集的单色铅笔速写本拼贴画，专门描绘一个令人着迷的动漫风哥特少女角色，就像粉丝速写本那样，填满日文手写赞美笔记、爱心以及对同一角色的多次研究。将 {argument name="character name" default="a nameless gothic girl"} 作为反复出现的主体。
+
+画布：方形图像，拍摄或扫描自米白色速写本纸张，最左侧边缘带有可见的螺旋装订孔。使用黑色石墨铅笔，呈现炭笔般的阴影、涂抹痕迹、交叉排线和凌乱的手绘线条。整体色调为灰阶，除纸张的暖色底色外无其他颜色。
+
+布局：用重叠的绘画和手写笔记填满整个页面，不留边缘。构图应显得拥挤、充满情感、狂热且具有手工感，没有整洁的留白。在主要面部上方添加灰色模糊方块，仿佛面部被刻意隐藏。
+
+主要可见绘画：使用精确 11 个独立的字符绘画/研究：1 个位于中央的大型特写肖像，展示女孩的头部和头发，面部被最大的灰色模糊方块遮盖；1 个位于左侧的全身站立哥特少女，身穿黑色露脐上衣、短款腰带裙、渔网袜和厚底系带靴，面部被较小的灰色模糊方块遮盖；1 个位于右上角附近的半身站立姿势，留着长黑发，穿着图案上衣，面部被遮盖；1 个位于右上角附近的坐姿 Q 版女孩，双膝相拥；1 个位于右侧的部分坐姿或蹲姿女孩，面部被遮盖；1 个位于右下角的斜倚或倾斜半身肖像，可见眼睛和嘴唇；1 个位于最左侧站立人物旁的小型 Q 版角色；1 个位于底部中心附近的小型 Q 版角色，面部被遮盖；1 个位于底部中右侧的愤怒 Q 版角色；1 个位于左下角的部分头部，被灰色模糊方块遮盖；1 个位于左下边缘的部分头部，被另一个灰色模糊方块遮盖。
+
+额外研究与细节：包含精确 3 个独立的身体细节特写研究：1 个位于中右侧的大型写实眼睛，1 个位于右下角的大型写实眼睛，以及 1 个位于顶部中心、留着长黑指甲的抬起的手。添加配饰和哥特细节，如颈圈、爱心图案、腰带、链条、蕾丝、渔网、骷髅涂鸦、深色指甲油和凌乱的黑色发丝。
+
+文字内容：在绘画周围环绕大量手写日文笔记、爱心、感叹号和类似对话气泡的评论。书写应看起来随性且充满粉丝感，页面各处散布着如「天才すぎる」、「かわいい」、「好き!!」、「存在が罪」、「推し」、「世界一」、「ありがとう」、「好きすぎて」和「反則じゃん!!」等短语。保持日文笔迹粗糙、大小不一，并与铅笔素描融为一体。
+
+视觉风格：原始漫画速写本美学，高度细致的石墨排线，柔和的涂抹阴影，富有表现力的动漫比例，哥特可爱风氛围，混乱的同人画构图，略微倾斜的纸张拍摄视角。面部遮挡的灰色方块应为柔和渐变的模糊块，而非锐利的黑色矩形。
+
+约束：保持图像完全为纸上单色铅笔画；不要添加数字色彩、整洁的矢量线条、印刷字体或精致的漫画分镜布局。保留拥挤的拼贴感以及 11 个角色绘画加 3 个特写研究的精确数量。
+
+[English]
+Goal: Create a dense monochrome pencil-sketch notebook collage page devoted to an obsessive anime-style gothic girl character, like a fan sketchbook spread filled with handwritten Japanese praise notes, hearts, and multiple studies of the same character. Include {argument name="character name" default="a nameless gothic girl"} as the recurring subject.
+
+Canvas: Square image, photographed or scanned from off-white sketchbook paper with visible spiral binding holes along the far left edge. Use black graphite pencil, charcoal-like shading, smudges, crosshatching, and messy hand-drawn linework. Overall tone is grayscale with no color except the warm paper tint.
+
+Layout: Fill the entire page edge-to-edge with overlapping drawings and handwritten notes. The composition should feel crowded, emotional, obsessive, and handmade, with no clean margins. Add gray blurred square censor blocks over the main faces, as if the faces have been intentionally hidden.
+
+Main visible drawings: Use exactly 11 discrete character drawings/studies: 1 large central close-up portrait of the girl’s head and hair, face covered by the largest gray blur square; 1 full-body standing gothic girl on the left wearing a black crop top, short belted skirt, fishnet stockings, and heavy lace-up platform boots, with her face covered by a smaller gray blur square; 1 upper-body standing pose near the upper right with long dark hair and a patterned top, face covered; 1 seated chibi girl near the upper right hugging her knees; 1 partial seated or crouched girl on the right side with face covered; 1 reclining or tilted bust portrait at the lower right with visible eyes and lips; 1 tiny chibi at the far left beside the standing figure; 1 small chibi near the lower center with face covered; 1 angry chibi near the bottom center-right; 1 partial head at the lower left covered by a gray blur square; 1 partial head at the bottom-left edge covered by another gray blur square.
+
+Additional studies and details: Include exactly 3 separate close-up body-detail studies: 1 large realistic eye near the center-right, 1 large realistic eye in the bottom-right corner, and 1 raised hand with long dark fingernails near the top center. Add accessories and gothic details such as chokers, heart motifs, belts, chains, lace, fishnets, skull-like doodles, dark nail polish, and messy strands of black hair.
+
+Text content: Surround the drawings with many handwritten Japanese notes, hearts, exclamation marks, and speech-bubble-like comments. The writing should look spontaneous and fangirl-like, with phrases such as 「天才すぎる」, 「かわいい」, 「好き!!」, 「存在が罪」, 「推し」, 「世界一」, 「ありがとう」, 「好きすぎて」, and 「反則じゃん!!」 scattered around the page. Keep the Japanese handwriting rough, varied in size, and integrated into the pencil sketch.
+
+Visual style: Raw manga sketchbook aesthetic, highly detailed graphite hatching, soft smudged shadows, expressive anime proportions, gothic-kawaii mood, chaotic fan-art composition, slightly tilted photographed-paper perspective. The gray face censor squares should be soft-gradient blurred blocks, not sharp black rectangles.
+
+Constraints: Keep the image entirely monochrome pencil on paper; do not add digital color, clean vector lines, printed typography, or a polished comic-panel layout. Preserve the crowded collage feeling and the exact count of 11 character drawings plus 3 close-up studies.
+```
+
+**来源：** [@小烂（努力学习版）](https://x.com/donttouchme3322/status/2063956172869439901) | 2026-06-08
+
+---
+
+### 🎨 例 858：概念视觉隐喻模板
+
+![概念视觉隐喻模板](../images/%E6%A6%82%E5%BF%B5%E8%A7%86%E8%A7%89%E9%9A%90%E5%96%BB%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="主体" default="少女"}为核心。
+
+围绕主体创造一个独特而完整的视觉概念。
+
+不直接表现主体本身，而是探索主体所代表的意义、情感、价值或哲学。
+
+通过超现实场景、视觉隐喻与世界观设计，将抽象概念转化为具体画面。
+
+强调故事性、象征性与情绪共鸣。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2063953290057122269) | 2026-06-08
+
+---
+
+### 🎨 例 859：伦敦空中飞行与大雁
+
+![伦敦空中飞行与大雁](../images/%E4%BC%A6%E6%95%A6%E7%A9%BA%E4%B8%AD%E9%A3%9E%E8%A1%8C%E4%B8%8E%E5%A4%A7%E9%9B%81.jpg)
+
+**Prompt:**
+
+```text
+ロンドンを駆ける翼
+
+太陽に向かって
+雁たちがロンドンの空を駆け抜けていく
+
+ビッグベンも テムズ川も 橋を渡る人たちも
+今日はぜんぶ翼の下
+
+白いガチョウの背中にいる小さな姿を見つけると
+この旅が急に近く感じられます
+
+空から眺める街って
+こんなに胸が高鳴るものなんですね？
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2063948203079401810) | 2026-06-08
+
+---
+
+### 🎨 例 864：混合 CGI 水墨中国风插画
+
+![混合 CGI 水墨中国风插画](../images/%E6%B7%B7%E5%90%88%20CGI%20%E6%B0%B4%E5%A2%A8%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+Subject: ({argument name="主题" default="Ancient Chinese folk tales"})
+{argument name="故事" default="八仙過海 (The Eight Immortals Cross the Sea)"}
+{argument name="场景" default="黃粱一夢 (a fleeting dream, all for nothing)"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2063936959605772785) | 2026-06-08
+
+---
+
+### 🎨 例 865：动漫超市群像场景
+
+![动漫超市群像场景](../images/%E5%8A%A8%E6%BC%AB%E8%B6%85%E5%B8%82%E7%BE%A4%E5%83%8F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的动漫风格群像场景，背景设定在明亮的现代日本超市过道内。画面中共有 6 名主要角色分布在店内：最左侧是一名金发年轻男子，身穿绿色敞开式夹克，内搭芥末黄衬衫，下穿深色长裤和运动鞋，正随意地站在农产品区附近；正前方中央是一名白发优雅的年轻男子，身穿宝蓝色西装外套、白衬衫、白色长裤，脚蹬黑色皮鞋，口袋里插着方巾，正推着一辆购物车；购物车后站着一名留着长波浪紫发的年轻女子，身穿无袖深色牛仔连体裤，脚穿运动鞋；中右侧是一名身材高大的深发年轻男子，身穿蓝色工装夹克，内搭深色衬衫，下穿带有链条装饰的黑色长裤，脚蹬靴子，手中拿着平板电脑；右后方是一名赛博朋克风格的摄影师，戴着带有圆形护目镜和天线的金属头盔，身穿灰色科技风夹克，背着背包，戴着手套，正坐在或倚靠在冷藏柜旁，手中拿着专业相机；右下角是一名蹲着的年轻女子，身穿带有黑色小猫补丁的蓝色运动夹克，穿着带有链条束带的短裤，脚蹬黑蓝配色厚底运动鞋，戴着耳环，正伸手去拿低层货架上的罐子或瓶子。将他们置于光洁的超市内部，两侧是冷藏货架，左侧可见水果和蔬菜，右侧为包装食品和饮料，天花板上有明亮的面板灯，悬挂着写有“新鲜蔬菜”等日文的农产品标牌，抛光的瓷砖地面上有倒影，后方的大窗户透入自然光。购物车内清晰可见 4 组杂货：绿叶生菜、红番茄、胡萝卜以及一件小型盒装或袋装商品。采用精致的半写实动漫渲染，细节丰富，展现时尚街头风格，具备电影般的景深、温暖的室内光效、准确的透视以及拥挤但清晰的构图。所有角色的面部均需用柔和的矩形模糊或中性遮挡块刻意遮盖，同时保留发型、姿势、服装和肢体语言。画面中不得出现额外角色、可辨认的品牌标志或水印。
+
+[English]
+Create a detailed anime-style group scene inside a bright modern Japanese supermarket aisle. The image shows exactly 6 main characters arranged across the store: 1 blond young man on the far left wearing a green open jacket over a mustard yellow shirt, dark pants, and sneakers, standing casually near produce; 1 white-haired elegant young man in the front center wearing a royal blue blazer, white shirt, white trousers, black dress shoes, and a pocket square, holding a shopping cart; 1 young woman with long wavy purple hair standing behind the cart in a sleeveless dark denim jumpsuit and sneakers; 1 tall dark-haired young man slightly right of center wearing a blue work jacket over a dark shirt, black pants with a chain, boots, and holding a tablet; 1 cyberpunk photographer on the rear right wearing a metallic helmet with round goggles and antennae, a gray tech jacket, backpack, gloves, and holding a professional camera while seated or leaning near a refrigerated counter; and 1 crouching young woman in the lower right wearing a blue athletic jacket with a small black cat patch, shorts with chain straps, black-and-blue chunky sneakers, and earrings, reaching toward jars or bottles on a low shelf. Place them in a glossy supermarket interior with refrigerated shelves on both sides, fruit and vegetables visible on the left, packaged goods and drinks on the right, bright ceiling panels, hanging produce signs with Japanese text including “fresh vegetables,” reflections on the polished tile floor, and daylight from large windows in the back. The shopping cart contains exactly 4 visible grocery groups: leafy green lettuce, red tomatoes, orange carrots, and a small boxed or packaged item. Use polished semi-realistic anime rendering, rich detail, fashionable streetwear, cinematic depth, warm indoor lighting, accurate perspective, and a crowded but readable composition. Leave every character’s face intentionally obscured by a soft rectangular blur or neutral face-covering censor block, while preserving hair, pose, clothing, and body language. No extra characters, no readable brand logos, no watermark.
+```
+
+**来源：** [@Cartoonverse AI](https://x.com/CartoonverseAi/status/2063934021738852714) | 2026-06-08
+
+---
+
+### 🎨 例 886：暗夜精灵对战远古火龙游戏画面
+
+![暗夜精灵对战远古火龙游戏画面](../images/%E6%9A%97%E5%A4%9C%E7%B2%BE%E7%81%B5%E5%AF%B9%E6%88%98%E8%BF%9C%E5%8F%A4%E7%81%AB%E9%BE%99%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张 AAA 黑暗奇幻 RPG 游戏截图，呈现为真实的游戏内画面而非概念图或插画，展示一场与 {argument name="boss name" default="远古火龙"} 之间戏剧性的 Boss 战。
+
+画布：4:3 横屏游戏截图，电影级第三人称视角，1024x768 质感，高对比度 HDR 渲染，逼真材质，动态模糊，体积烟雾，余烬颗粒，湿润反光的火山地面。
+
+主要场景：在左中前景，展示 {argument name="character description" default="一位皮肤呈淡蓝灰色、拥有发光紫瞳、留着银色长辫的女性暗夜精灵刺客"}，正侧身蹲伏并做出闪避战斗姿态。她穿着细节精致的抛光银色板甲，配有合身的腿甲、护手，身后飘动着深紫色的斗篷。她双持两把散发紫光的短匕首，一把向左后方伸展，另一把低指向龙。她表情凶猛且专注。
+
+敌人与环境：在中景和背景中，一条巨大的黑红色远古火龙占据画面，双翼张开面对玩家。它拥有锯齿状的黑曜石鳞片、许多锋利的角和脊刺、发光的橙色眼睛、颈部和身体上布满熔岩裂纹，张开的大嘴向下喷射着明亮的火焰。战斗地点设在 {argument name="location name" default="龙脊峡谷"}，这是一个火山废墟峡谷，布满深色岩石、燃烧的草地、熔岩般的橙色反光，左侧远方有城堡废墟剪影，右侧有巨大的深色悬崖或树状岩石，伴有风暴云、烟雾、火星和红橙色的末日天空。
+
+HUD 与布局：添加一个完整的黑暗奇幻 RPG 界面，采用华丽的哥特式银色边框。左上角包含 1 个玩家状态组：一个圆形头像轮廓框，以及 3 条水平进度条（红色生命值、蓝色法力值、黄色体力值）。顶部中心包含 1 个 Boss 标题，显示为 "ANCIENT FIRE DRAKE"，下方有 1 条长长的红色 Boss 血条。右上角包含 1 个圆形小地图，上方标注区域名称 "DRAGONSPINE VALLEY"，下方显示时间 "20:15"、风暴/天气图标以及单词 "STORM"。底部中心包含 1 个任务目标面板，金色标题文字为 "ASHES OF THE ANCIENT"，下方较小的白色目标文字为 "Slay the dragon."。左下角包含 3 个快捷物品栏：槽位 1 为标记 x4 的红色药水，槽位 2 为标记 x2 的紫色宝珠，槽位 3 为标记有无穷大符号的交叉或单个武器图标。右侧边缘垂直堆叠 4 个技能图标：技能 1 为冷却时间 13s 的紫色利刃，技能 2 为冷却时间 8s 的紫色漩涡，技能 3 为冷却时间 18s 的蓝色闪电打击，技能 4 为冷却时间 11s 的紫色星爆。每个技能需显示对应的按键数字 1、2、3 和 4。
+
+文字风格：主要标签使用清晰易读的中世纪衬线大写字体，UI 数字使用小型简洁的衬线字体，文字颜色为金色和白色，除指定的任务文本外不添加任何字幕。保持所有 UI 元素清晰对齐，同时游戏世界保持电影质感。
+
+约束：图像必须看起来像是一张来自高预算黑暗奇幻动作 RPG 的真实暂停游戏截图，而非海报、插画或角色设定图。保留上述列出的所有可见 UI 元素数量和文本标签。无水印，无 Logo，无额外角色，无额外怪物。
+
+[English]
+Goal: Create an AAA dark fantasy RPG gameplay screenshot, presented as an actual in-game screen capture rather than concept art or illustration, showing a dramatic boss fight against {argument name="boss name" default="Ancient Fire Drake"}.
+
+Canvas: 4:3 landscape game screenshot, cinematic third-person camera, 1024x768 feel, high-contrast HDR rendering, realistic materials, motion blur, volumetric smoke, ember particles, wet reflective volcanic ground.
+
+Main scene: In the foreground left-center, show {argument name="character description" default="a female dark elf assassin with pale blue-gray skin, glowing violet eyes, long silver braided hair"} crouching and lunging sideways in an evasive combat stance. She wears highly detailed polished silver plate armor with engraved edges, fitted leg armor, gauntlets, and a flowing dark purple cloak whipping behind her. She dual-wields two short violet-glowing daggers, one extended backward to the left and one pointed low toward the dragon. Her expression is fierce and focused.
+
+Enemy and environment: In the midground and background, a colossal black-and-red ancient fire drake dominates the frame, facing the player with wings spread wide. It has jagged obsidian scales, many sharp horns and spines, glowing orange eyes, molten cracks across its neck and body, and an open mouth blasting bright fire downward. Set the battle in {argument name="location name" default="Dragonspine Valley"}, a volcanic ruined valley with dark rocks, burning grass, lava-like orange reflections, castle ruins silhouetted on the far left, a huge dark cliff or tree-like rock shape on the right, storm clouds, smoke, sparks, and a red-orange apocalyptic sky.
+
+HUD and layout: Add a complete dark fantasy RPG interface with ornate gothic silver frames. Include exactly 1 player status cluster at the top left: a circular portrait silhouette frame plus exactly 3 horizontal bars, red health, blue mana, and yellow stamina. Include exactly 1 boss title at the top center reading "ANCIENT FIRE DRAKE" with exactly 1 long red boss health bar below it. Include exactly 1 circular minimap at the top right with the area label "DRAGONSPINE VALLEY" above it, and below it the time "20:15" plus a storm/weather icon and the word "STORM". Include exactly 1 quest objective panel at bottom center with gold title text "ASHES OF THE ANCIENT" and smaller white objective text "Slay the dragon." Include exactly 3 quick item slots at the bottom left: slot 1 red potion labeled x4, slot 2 purple orb labeled x2, slot 3 crossed or single weapon icon labeled with an infinity symbol. Include exactly 4 ability icons stacked vertically on the right edge: ability 1 purple blade with cooldown 13s, ability 2 violet vortex with cooldown 8s, ability 3 blue lightning strike with cooldown 18s, ability 4 purple starburst with cooldown 11s. Show each ability with its key number 1, 2, 3, and 4.
+
+Text style: Use legible medieval serif all-caps for major labels, small clean serif for UI numbers, gold and white text, no subtitles beyond the specified quest text. Keep all UI elements sharp and aligned while the game world remains cinematic.
+
+Constraints: The image must look like a real paused gameplay screenshot from a high-budget dark fantasy action RPG, not a poster, not an illustration, not a character sheet. Preserve the exact visible UI element counts and text labels listed above. No watermark, no logo, no extra characters, no extra monsters.
+```
+
+**来源：** [@lume_itigo15](https://x.com/itigo_uu15/status/2063872804894978535) | 2026-06-08
+
+---
+
+### 🎨 例 891：赛博动漫偶像音乐封面
+
+![赛博动漫偶像音乐封面](../images/%E8%B5%9B%E5%8D%9A%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E9%9F%B3%E4%B9%90%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="song title" default="Cambria Intelligence"} 创作一张竖版动漫音乐封面，融合未来感偶像角色设计与日式电音节的活力。
+
+画布：高竖版封面，9:16 比例，高分辨率光泽插画，设计风格类似于流媒体音乐专辑封面。
+
+主体：一位赛博格动漫偶像少女，展示大腿中部以上，身体微向左转，极长的 {argument name="hair color" default="青绿色双马尾"} 在画面中飘动。她的面部被一个位于中心、半透明的灰色方形遮挡块刻意遮住，覆盖了眼睛和大部分五官。她身穿白色短袖未来感和服式外套，内搭粉色节日风格服装，配有青色绑带、金属腰带模块、小型铬合金圆柱体以及光泽感科幻配饰。
+
+头部装备：超大号未来感头盔和机械发饰，配色为明亮的青色、粉色、白色和铬色。包含 4 个清晰可见的圆形光学镜头模块：头盔前上方 1 个大镜头，旁边 1 个小镜头，左侧机械耳部单元 1 个镜头，右侧机械耳部单元 1 个镜头。头盔上伸出两个巨大的粉白相间棱角分明的兔耳或狐耳鳍，配有较小的侧鳍和抛光的机械关节。
+
+背景与氛围：明亮的柔和色天空，带有青蓝色和柔粉色的云朵，散落的樱花花瓣，充满活力的风感，发光的高光，角落里隐约可见的 HUD 界面标记，以及纤细的未来感电路纹饰。画面应呈现出一种超精致的日式赛博音乐节海报感，色彩丰富、动感十足且轻盈。
+
+文字内容：在底部放置醒目的大标题文字，采用发光的斜体未来感白色字体，并带有微妙的青色/粉色霓虹边缘：{argument name="main title text" default="Cambria Intelligence"}。在其下方，添加较小的日语片假名文字：{argument name="subtitle text" default="カンブリア・インテリジェンス"}。在右侧，添加一行白色的竖排日语标语：{argument name="vertical tagline" default="賢け未来への鼓動。"}。请严格使用这 3 个可读的文字元素。
+
+视觉风格：高级动漫主视觉图，超精细机械设计，光泽渲染，柔和光晕，绘画感数字插画，鲜艳的青色与樱花粉色调，电影级光效，前景细节锐利，并带有柔和的氛围深度。
+
+约束条件：确保标题在底部清晰且突出，保留遮盖角色面部的灰色方块，避免添加额外的标志或水印，且不要添加其他角色。
+
+[English]
+Goal: Create a vertical anime music cover artwork for {argument name="song title" default="Cambria Intelligence"}, blending futuristic idol character design with Japanese festival EDM energy.
+
+Canvas: Tall portrait cover art, 9:16 aspect ratio, glossy high-resolution illustration, designed like a streaming music jacket.
+
+Main subject: A cybernetic anime idol girl shown from mid-thigh upward, slightly turned to the left, with extremely long flowing {argument name="hair color" default="turquoise twin-tail hair"} whipping across the frame. Her face is intentionally obscured by one centered semi-opaque square censor block in muted gray, covering the eyes and most facial features. She wears a white short-sleeved futuristic kimono-style jacket over a pink festival-inspired outfit, with teal straps, metallic belt modules, small chrome cylinders, and glossy sci-fi accessories.
+
+Headgear: Oversized futuristic helmet and mechanical hair ornaments in bright cyan, pink, white, and chrome. Include exactly 4 visible round optical lens modules: 1 large lens on the upper front of the helmet, 1 smaller lens beside it, 1 lens on the left mechanical ear unit, and 1 lens on the right mechanical ear unit. Add two large pink-and-white angular rabbit-ear or fox-ear fins rising from the helmet, with smaller side fins and polished mechanical joints.
+
+Background and atmosphere: Bright pastel sky with cyan blue and soft pink clouds, scattered cherry blossom petals, energetic wind motion, luminous highlights, faint HUD interface markings in the corners, and thin futuristic circuit-line decorations. The image should feel like a hyper-polished Japanese cyber festival poster, colorful, dynamic, and airy.
+
+Text content: Place the large title text near the bottom in glowing italic futuristic white lettering with a subtle cyan/pink neon edge: {argument name="main title text" default="Cambria Intelligence"}. Beneath it, add smaller Japanese katakana text: {argument name="subtitle text" default="カンブリア・インテリジェンス"}. On the right side, add a vertical Japanese tagline in white: {argument name="vertical tagline" default="賢け未来への鼓動。"}. Use exactly these 3 readable text elements.
+
+Visual style: Premium anime key visual, ultra-detailed mechanical design, glossy rendering, soft bloom, painterly digital illustration, vibrant teal and sakura-pink palette, cinematic lighting, sharp foreground detail with gentle atmospheric depth.
+
+Constraints: Keep the title legible and dominant at the bottom, preserve the gray square over the character face, avoid extra logos or watermarks, and do not add additional characters.
+```
+
+**来源：** [@やっきょく＠AIイラスト・AI音楽・AI小説](https://x.com/greenhill_pharm/status/2063860562736680999) | 2026-06-08
+
+---
+
+### 🎨 例 917：绝地武士 X-Wing 沙漠遗迹
+
+![绝地武士 X-Wing 沙漠遗迹](../images/%E7%BB%9D%E5%9C%B0%E6%AD%A6%E5%A3%AB%20X-Wing%20%E6%B2%99%E6%BC%A0%E9%81%97%E8%BF%B9.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="砂漠の地平線"}にそびえる{argument name="主体" default="古代遺跡とXウイング、モンスターと戦うジェダイ"}。シネマティックな大気感。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2063780549118902757) | 2026-06-08
+
+---
+
+### 🎨 例 918：星光沙漠飞机咖啡馆
+
+![星光沙漠飞机咖啡馆](../images/%E6%98%9F%E5%85%89%E6%B2%99%E6%BC%A0%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+星を淹れる飛行機カフェ
+
+砂漠に不時着したパイロットは
+帰る方法を探すかわりに、小さな喫茶店を始めました
+
+夜になると、翼の下にランタンが灯り
+{argument name="店長" default="猫店長"}は一番星をつかまえようと背伸びします
+
+メニューの端や古い機体の傷まで
+少しずつ物語が残っている気がします
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2063774825639006251) | 2026-06-08
+
+---
+

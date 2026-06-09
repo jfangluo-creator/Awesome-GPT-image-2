@@ -2694,3 +2694,183 @@ Create a detailed anime illustration from a high, wide-angle POV as if viewed by
 
 ---
 
+### 🏷️ 例 810：迈阿密开放世界游戏截图
+
+![迈阿密开放世界游戏截图](../images/%E8%BF%88%E9%98%BF%E5%AF%86%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张灵感源自现代迈阿密犯罪冒险游戏的写实 4K 开放世界视频游戏截图。镜头采用第三人称视角，位于一名男性主角身后，他正走在黄金时刻湿润的沿海城市人行道上。他留着深色短发，有着肌肉发达且带有纹身的手臂，身穿深红色热带棕榈印花衬衫、深色长裤，并佩戴黑色手表。场景展示了一条豪华的棕榈树大道，左侧是高耸的玻璃高层公寓、酒店阳台和茂盛的热带植物，右侧是繁忙的车流，温暖的夕阳余晖映照在雨后湿滑的路面上。画面中需包含 5 辆醒目的车辆：右侧前景停放的一辆黑色超级跑车、前方中心车道的一辆红色跑车、更远处的一辆金色跑车、右侧的一辆白色 SUV 以及车流中远处的一辆小型汽车。添加大量的棕榈树、路灯、远处的行人、逼真的阴影、电影级的反射效果以及超高细节的城市密度。在左下角放置一个圆形的迷你地图 HUD，显示灰度城市街道、绿松石色的海岸线、一个小三角形玩家标记以及微小的路线图标，呈现出 AAA 级游戏的精致界面。使用逼真的镜头透视、高动态范围光照、清晰的纹理、大气深度，且画面中不包含任何标题文字或水印。
+
+[English]
+Create a photorealistic 4K open-world video game screenshot inspired by modern Miami crime-adventure gameplay. The camera is third-person, positioned behind a single male protagonist walking forward on a wet coastal city sidewalk at golden hour. He has short dark hair, muscular tattooed arms, and wears a dark red tropical palm-print shirt, dark pants, and a black wristwatch. The scene shows a luxurious palm-lined boulevard with tall glass high-rise condos, hotel balconies, lush tropical plants on the left, busy traffic on the right, and warm sunset light reflecting off rain-slick pavement. Include exactly 5 prominent vehicles: a black supercar parked in the right foreground, a red sports car ahead in the center lane, a gold sports car farther ahead, a white SUV on the right, and a small distant car in traffic. Add many palm trees, streetlights, pedestrians in the distance, realistic shadows, cinematic reflections, and ultra-detailed urban density. Place a circular minimap HUD in the bottom-left corner showing grayscale city streets, a turquoise coastline, a small triangular player marker, and tiny route icons, matching a polished AAA game interface. Use realistic lens perspective, high dynamic range lighting, crisp textures, atmospheric depth, and no visible title text or watermark.
+```
+
+**来源：** [@danmagdav](https://x.com/danmagdav/status/2064118255795511526) | 2026-06-08
+
+---
+
+### 🏷️ 例 824：极简时尚杂志海报提示词
+
+![极简时尚杂志海报提示词](../images/%E6%9E%81%E7%AE%80%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张为 {argument name="vibes" default="vibes"} 设计的高级现代时尚与生活方式品牌海报。当代极简主义杂志设计，单色绿色美学，干净的奢华构图，具有《Vogue》风格的柔和摄影质感。一位时尚、逼真的年轻女性坐在设计师款极简椅子上，身着与郁郁葱葱的单色绿色调相匹配的前卫服装。姿态放松自信，当代杂志造型。非对称的前景布局，背景中是一个巨大的抽象字母“A”。宽敞的留白，角落处有极简的品牌细节，杂志风格的排版层级，纤细的现代无衬线字体，极简品牌文字显示为 "{argument name="branding text" default="Love"}"。柔和的电影级摄影棚灯光，细腻的单色阴影，平滑的渐变光效。使用 Sony A1，85mm f/1.2 镜头拍摄。轻微的胶片颗粒质感，干净的现代渐变，斯堪的纳维亚风格的视觉简洁感。8K 超高分辨率，超写实杂志摄影，Octane Render 渲染，Behance 级别的现代构图。与参考图完全一致的视觉识别与布局。与参考图相同的人脸。 -v 6.0 --ar 3:4 SW
+
+[English]
+A premium modern editorial fashion and lifestyle branding poster for {argument name="vibes" default="vibes"}. Contemporary minimalist editorial design, monochromatic green aesthetic, clean luxury composition, Vogue-esque soft studio photography style. A stylish, photorealistic young woman seated prominently in a designer minimalist chair, wearing a fashion-forward outfit color-matched to the lush green monochromatic palette. Relaxed, confident pose, contemporary editorial styling. Asymmetrical foreground placement against a large, oversized abstract letter "A" dominating the background. Spacious negative space, minimal branding details in the corners, editorial magazine-inspired hierarchy, thin modern sans-serif fonts, minimal branding text reading "{argument name="branding text" default="Love"}". Soft cinematic studio lighting, gentle monochromatic shadows, smooth gradient lighting. Shot on Sony A1, 85mm f/1.2 lens. Minimal film grain texture, clean modern gradients, Scandinavian-inspired visual simplicity. 8K Ultra-high resolution, hyper-realistic editorial photography, Octane Render, Behance-quality modern composition. Same exact visual identity and layout as the reference. Same Face as Reference Image. -v 6.0 --ar 3:4 SW
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2064026967075393876) | 2026-06-08
+
+---
+
+### 🏷️ 例 831：古风中式丝绸店室内场景
+
+![古风中式丝绸店室内场景](../images/%E5%8F%A4%E9%A3%8E%E4%B8%AD%E5%BC%8F%E4%B8%9D%E7%BB%B8%E5%BA%97%E5%AE%A4%E5%86%85%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版历史插画，描绘一家古老的中国丝绸锦缎店，概念标题为 {argument name="shop name" default="沈氏绸庄"}。场景视角从雕花精美的木质店内向外望向阳光明媚的传统街道。采用精致的绘画风格，比例写实，线条繁复，色调为温暖的深褐色与柔和的金色，呈现出清末民初的历史插画质感。画布为竖构图，比例约为 9:16。画面中需精确展示 3 位主要人物：左前方 1 位身着深褐色传统长袍的男性丝绸商人，发髻高束，正俯身在柜台上拿起一卷华丽的锦缎；中景处 1 位身着蓝色长袍的男性店员或顾客，手持打开的账本和毛笔；门外右侧 1 位身着红橙色长袍的女性，手提篮子。他们的面部应特意用平滑的矩形棕褐色模糊块遮盖，不显示任何五官。背景街道中，包含少量笔触柔和的行人和带有弧形瓦顶的传统白墙建筑，保持小巧且富有氛围感。主体物件是柜台上展开的一大块 {argument name="fabric color" default="蓝绿色与古金色"} 丝绸锦缎，上面覆盖着密集的凤凰、云纹、花卉和卷草纹样，带有金属光泽和刺绣质感。店内左侧的雕花木架上堆满了可见的布匹、折叠整齐的纺织品、卷起的丝绸捆、漆盒及小抽屉；添加悬挂的灯笼、雕花格窗、彩绘墙板、门边垂下的珠帘或流苏帘，以及从右侧射入的柔和阳光。柜台上需包含精确 8 种可见的店铺物件：算盘、陶瓷茶杯、小瓷碗、纸质标签与收据、一捆系绳文件、金属锁盒、装饰性纺织品箱以及测量工具。强调古朴的工艺、层叠的织物、浮动的尘埃、温暖的逆光以及浓厚的历史细节。避免出现现代物品、电灯、可辨识的招牌、西式服装以及任何干净的数字 UI 元素。
+
+[English]
+Create a highly detailed vertical historical illustration of an old Chinese silk and brocade shop, titled conceptually {argument name="shop name" default="Shen Family Silk Shop"}. The scene is viewed from inside the richly carved wooden shop looking out toward a sunlit traditional street. Use a refined painterly style with realistic proportions, intricate linework, warm sepia and muted gold tones, like a late-Qing/Republic-era historical illustration. Canvas is tall portrait, about 9:16. Show exactly 3 prominent human figures: 1 front-left male silk merchant in a dark brown traditional robe, hair tied in a topknot, leaning over a counter and lifting an ornate brocade roll; 1 midground male assistant or customer in a blue robe holding an open ledger and brush; 1 right-side woman outside the doorway in a red-orange robe holding a basket. Their faces should be deliberately obscured by smooth rectangular tan blur blocks with no facial features. In the background street, include a few softly painted pedestrians and traditional white-walled buildings with curved tiled roofs, kept small and atmospheric. The main object is a large unrolled silk brocade on the counter in {argument name="fabric color" default="blue-green and antique gold"}, covered with dense phoenix, cloud, floral, and scrolling patterns, metallic highlights, and embroidered texture. The shop interior should contain carved wooden shelves on the left packed with many visible fabric bolts, stacked folded textiles, rolled silk bundles, lacquered boxes, and small drawers; add hanging lanterns, carved lattice windows, painted wall panels, a bead curtain or tasseled shade near the doorway, and soft sunlight entering from the right. On the counter include exactly 8 types of visible shop objects: an abacus, a ceramic tea cup, a small porcelain bowl, paper tags and receipts, a string-tied bundle of documents, a metal lockbox, a decorative textile chest, and measuring tools. Emphasize antique craftsmanship, layered textiles, dust motes, warm backlighting, and dense historical detail. Avoid modern objects, electric lighting, readable signage, western clothing, and any clean digital UI elements.
+```
+
+**来源：** [@Yunfei Yang](https://x.com/yunfei_ai/status/2064008144913924274) | 2026-06-08
+
+---
+
+### 🏷️ 例 869：走出素描画的女性
+
+![走出素描画的女性](../images/%E8%B5%B0%E5%87%BA%E7%B4%A0%E6%8F%8F%E7%94%BB%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个写实风格的时尚奇幻场景，描述 {argument name="character description" default="一位留着飘逸棕色长发的年轻美女"} 从一幅巨大的带框铅笔素描中走出来，仿佛离开了画作进入现实世界。画布比例为 3:4 竖构图。在充满艺术气息的旧工作室中心，放置一个巨大的深色木质画框，画框架在坚固的画架上；工作室背景为质感深色墙壁和水泥地面，侧面有温暖的自然光，周围散落着工作室家具、卷起的纸张，右侧立着一个小型的古典半身像，背景杂乱而富有细节。画框内是一幅深褐色的建筑铅笔素描，描绘了带有拱门、楼梯、圆柱、栏杆、植物和松散施工线条的优雅欧洲露台；在画作右下角附近包含一个小的草书艺术家签名，内容为 {argument name="signature text" default="Agugu"}。这位女性正处于走出画作的一半状态：她的上半身和一条伸出的腿完全以写实风格呈现在画框前方，而身体其余部分则与素描背景融为一体。她穿着 {argument name="dress style" default="一件黑色抹胸紧身胸衣，搭配透明层叠的薄纱裙和高开叉设计"}，脚穿黑色尖头细高跟鞋，佩戴精致的项链和手链。她的姿态动感十足，仿佛正在跳舞或向前迈步，一只手提起薄纱裙摆，另一只手臂向侧面伸展，手指优雅，一条裸露的腿伸展在画框前方。运用逼真的皮肤纹理、电影级摄影棚灯光、浅景深效果，展现单色铅笔画与真实黑色礼服之间的丰富对比，细微的发丝微微飘动，地面上有逼真的阴影。保持构图优雅、超现实、高定时尚感，并具有博物馆工作室的艺术气息；除签名外，画面中不要出现其他文字。
+
+[English]
+Create a photorealistic fashion-fantasy scene of {argument name="character description" default="a beautiful young woman with long flowing brown hair"} stepping out of a huge framed pencil sketch as if leaving the artwork and entering the real world. The canvas is vertical 3:4. Place a large dark wooden picture frame on a sturdy easel in the center of a moody old artist studio with textured dark walls, concrete floor, warm natural side light, scattered studio furniture, rolled papers, a small classical bust on a stand at the right, and subtle background clutter. Inside the frame, show a sepia-toned architectural pencil drawing of an elegant European terrace with arches, stairs, columns, railings, plants, and loose construction lines; include a small cursive artist signature reading {argument name="signature text" default="Agugu"} near the lower right of the drawing. The woman is halfway out of the drawing: her upper body and one extended leg are fully photorealistic in front of the frame while the rest blends with the sketched background. She wears {argument name="dress style" default="a strapless black fitted bodice with a sheer layered tulle skirt and high slit"}, black pointed stiletto heels, a delicate necklace, and a bracelet. Pose her dynamically as if dancing or stepping forward, one hand lifting the gauzy skirt fabric, the other arm extended to the side with elegant fingers, one bare leg stretched down in front of the frame. Use realistic skin texture, cinematic studio lighting, shallow depth of field, rich contrast between the monochrome pencil drawing and the real black dress, fine hair strands blowing slightly, and convincing shadows on the floor. Keep the composition elegant, surreal, high-fashion, and museum-studio inspired; no extra text besides the signature.
+```
+
+**来源：** [@Agugu](https://x.com/guyiguyi_/status/2063923066305159378) | 2026-06-08
+
+---
+
+### 🏷️ 例 894：赛博朋克霓虹 Twitter Logo 人像
+
+![赛博朋克霓虹 Twitter Logo 人像](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9C%93%E8%99%B9%20Twitter%20Logo%20%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超细节电影级全景摄影，拍摄对象为站在巨大的发光 {argument name="logo" default="Twitter X logo"} 内部的 {argument name="subject" default="person"}，该 logo 由黑色铬金属和电白色霓虹灯管打造而成。上传的面部图像 100% 作为参考，精确保留面部特征、逼真的皮肤纹理和自然的身体比例。人物身穿 {argument name="clothing" default="未来感超大廓形黑色皮夹克"}，配有锋利的银色细节，内搭修身白色高领衫和带有金属绑带的白色阔腿工装裤，脚踩亮面白色运动鞋，佩戴一副微微下滑的反射墨镜，手中拿着一部智能手机，屏幕投射出淡淡的蓝光照在手上。巨大的 X logo 在身后耸立，散发出强烈的单色霓虹光，映射在覆盖着薄雾的亮面黑色地板上。背景渐变为深炭灰色，伴有细微的漂浮颗粒和电影级烟雾。高度风格化的摄影布光，结合强烈的轮廓光和柔和的顶部漫射光，营造出奢华的赛博朋克社交媒体氛围。略微仰视的拍摄视角强调了力量感与规模感，居中构图具有对称平衡与强烈的视觉深度。超逼真的纹理，电影级的反射效果，受未来科技文化启发的时尚编辑美学，使用 28mm 电影镜头拍摄，带有细微的胶片颗粒感，呈现出顶级广告质感。
+
+[English]
+Ultra detailed cinematic full shot studio photography of a {argument name="subject" default="person"} standing inside a massive glowing {argument name="logo" default="Twitter X logo"} made from black chrome and electric white neon tubes, uploaded face used 100% as reference with exact facial identity, realistic skin texture, and natural proportions perfectly preserved, the person is wearing a {argument name="clothing" default="futuristic oversized black leather jacket"} with sharp silver details, layered over a fitted white turtleneck and wide-leg white cargo trousers with metallic straps, paired with glossy white sneakers and reflective sunglasses pushed slightly down, holding a smartphone with the screen casting subtle blue light onto their hand, the gigantic X logo towers behind them emitting dramatic monochrome neon lighting that reflects across a glossy black floor covered in thin mist, the background fades into a dark charcoal gradient with subtle floating particles and cinematic haze, highly stylized studio lighting with strong rim lights and soft overhead diffusion creates a luxury cyberpunk social media atmosphere, slightly low angle camera perspective emphasizing power and scale, centered composition with symmetrical balance and intense visual depth, ultra realistic textures, cinematic reflections, fashion editorial aesthetic inspired by futuristic tech culture, captured on a sharp 28mm cinematic lens with subtle film grain and premium advertising quality.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2063840038220345454) | 2026-06-08
+
+---
+
+### 🏷️ 例 898：保持一致的 Instagram 轮播图姿势
+
+![保持一致的 Instagram 轮播图姿势](../images/%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%E7%9A%84%20Instagram%20%E8%BD%AE%E6%92%AD%E5%9B%BE%E5%A7%BF%E5%8A%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度逼真的 4 宫格 Instagram 轮播图，其中包含与上传图片中完全相同的女孩。
+
+仔细分析上传的图片，并保留完全相同的审美氛围、环境、光影、情绪、相机画质、服装造型、发型、配饰以及整体的电影感。
+
+生成 4 种不同的时尚姿势，使其自然地与上传图片的位置和氛围相匹配，就像是在同一次拍摄中完成的一样。
+
+在所有 4 个画面中保持完全相同的面部特征，实现最大程度的面部一致性。保留与上传图片中完全相同的眼睛、鼻子、嘴唇、下颌线、皮肤纹理、发型、发色、身体比例、服装细节、配饰以及自然的表情风格。
+
+面部必须保持超写实、清晰、细腻且自然的人类特征，不得出现 AI 畸变或面部变化。
+
+4 种不同的姿势：
+
+第 1 帧：自信的站姿，自然地看向别处，姿态放松
+
+第 2 帧：随性的坐姿，表情柔和，手部摆放自然
+
+第 3 帧：行走或运动姿势，带有电影般的抓拍感
+
+第 4 帧：回眸或触碰头发的姿势，采用 {argument name="aesthetic style" default="Pinterest / Gen-Z"} 审美风格
+
+每一帧都应具备：
+
+不同的身体姿态
+
+不同的手部摆放
+
+不同的相机构图
+
+不同的抓拍表情
+
+不同的审美能量
+
+同时完美匹配原始图片的氛围。
+
+奢华网红审美、电影级摄影、逼真的阴影、逼真的手部、自然的解剖结构、单反画质、浅景深、温暖的电影级调色、高级 Instagram 审美、编辑时尚摄影氛围、超细腻的皮肤纹理、逼真的发丝、照片级 8k 画质。
+
+最终输出应看起来像是来自同一次审美拍摄的真实 4 张照片轮播图，各帧之间具有平滑的视觉一致性，长宽比为 {argument name="aspect ratio" default="9:16"}
+
+[English]
+Create a highly realistic 4-grid Instagram carousel featuring the SAME exact girl from the uploaded image.
+
+Analyze the uploaded image carefully and preserve the exact same aesthetic vibe, environment, lighting, mood, camera quality, outfit styling, hairstyle, accessories, and overall cinematic feel.
+
+Generate 4 DIFFERENT stylish poses that naturally match the uploaded image’s location and atmosphere, as if they were captured during the same photoshoot session.
+
+Maintain IDENTICAL facial features in all 4 frames with maximum face consistency. Preserve the exact same eyes, nose, lips, jawline, skin texture, hairstyle, hair color, body proportions, outfit details, accessories, and natural expression style from the uploaded image.
+
+The face must remain ultra realistic, sharp, detailed, and naturally human with no AI distortion or facial changes.
+
+4 DIFFERENT POSES:
+
+1st frame: confident standing pose looking away naturally with relaxed posture
+
+2nd frame: candid sitting pose with soft expression and natural hand placement
+
+3rd frame: walking or movement pose with cinematic candid energy
+
+4th frame: over-shoulder or hair-touching pose with {argument name="aesthetic style" default="Pinterest / Gen-Z"} aesthetic
+
+Each frame should have:
+
+different body posture
+
+different hand placement
+
+different camera composition
+
+different candid expression
+
+different aesthetic energy
+
+while still matching the original image vibe perfectly.
+
+Luxury influencer aesthetic, cinematic photography, realistic shadows, realistic hands, natural anatomy, DSLR quality, shallow depth of field, warm cinematic color grading, premium Instagram aesthetic, editorial fashion photography vibe, ultra detailed skin texture, realistic hair strands, photorealistic 8k.
+
+The final output should look like an authentic 4-photo carousel from the same aesthetic photoshoot with smooth visual consistency between all frames aspect ratio {argument name="aspect ratio" default="9:16"}
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2063833802682855535) | 2026-06-08
+
+---
+

@@ -531,3 +531,73 @@ Using REFERENCE_0 as the source image, transform the phone photo into a refined 
 
 ---
 
+### 🏛️ 例 912：奢华玻璃空中顶层公寓时尚拼贴画
+
+![奢华玻璃空中顶层公寓时尚拼贴画](../images/%E5%A5%A2%E5%8D%8E%E7%8E%BB%E7%92%83%E7%A9%BA%E4%B8%AD%E9%A1%B6%E5%B1%82%E5%85%AC%E5%AF%93%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅奢华时尚风格的 mood-board 项目，展示一位优雅的匿名女性置身于漂浮在云端的超现代玻璃顶层公寓中。
+
+画布：宽屏 16:9 拼贴画，采用冷蓝灰色调，呈现清晰的编辑摄影风格，所有面板之间均有细白边分隔。
+
+布局：使用 5 个照片面板：中间是一个占据大部分空间的大型垂直面板，左侧为 2 个上下堆叠的小面板，右侧为 2 个上下堆叠的小面板。所有面板应营造出在同一座未来感空中豪宅拍摄的氛围，豪宅内配备落地玻璃、反光大理石地板、透明墙壁，并可俯瞰云层和蓝天。
+
+主体细节：该女性为 {argument name="character description" default="一位留着黑色长波浪卷发的苗条年轻女性"}。在每个面板中，她的面部应刻意通过柔和的矩形模糊或匿名遮罩进行处理。保持其造型优雅、华丽且简约，如同高端时尚生活方式的编辑大片。
+
+面板数量与内容：
+1. 中央大面板：女性坐在前景中，身穿 {argument name="central outfit" default="白色修身西装，搭配低领设计和精致项链"}，黑色长发垂在肩上。她身后是悬浮在云端的透明多层玻璃豪宅，展示出奢华的室内装潢、楼梯、沙发以及远处微小的人物。
+2. 左上面板：女性站在室内，身旁是一座高大的扭曲水晶雕塑，身穿 {argument name="top left outfit" default="黑白粗花呢短款夹克和高腰白色长裤，系着细腰带"}；身后是玻璃墙和云景。
+3. 左下面板：女性身穿黑色长袖连衣裙坐在米色沙发上，手持或靠着一个结构感十足的黑色设计师手袋，背景是餐厅和全景云层景观。
+4. 右上面板：女性站在云端的玻璃露台上，身穿 {argument name="top right outfit" default="一件极具戏剧性的黑色拖地长裙，裙摆蓬松"}；豪宅内部透过透明墙壁延伸至她身后。
+5. 右下面板：女性身穿黑色闪亮短裙或西装裙，搭配黑色高跟凉鞋，站在反光大理石地板上，周围环绕着高大的多面水晶方尖碑雕塑。
+
+视觉风格：超写实奢华编辑摄影，电影级柔和日光，反光玻璃与铬合金，冰蓝色高光，抛光大理石，细腻的阴影，高端建筑可视化与时尚摄影的结合。强调透明感、反射、钻石/水晶、建筑下方的云层，以及昂贵而宁静的氛围。
+
+限制条件：无可见文字，无 Logo，无水印。保持 5 个面板，并保留白色拼贴分割线。所有可见画面中必须保持面部匿名。
+
+[English]
+Goal: Create a luxury fashion mood-board collage featuring an anonymous elegant woman inside an ultra-modern glass penthouse floating above clouds.
+
+Canvas: Wide 16:9 collage, cool blue-gray color grading, crisp editorial photography style, thin white borders separating all panels.
+
+Layout: Use exactly 5 photo panels: 1 large central vertical panel occupying most of the middle, 2 smaller stacked panels on the left, and 2 smaller stacked panels on the right. All panels should feel like they were shot in the same futuristic sky mansion with floor-to-ceiling glass, reflective marble floors, transparent walls, and views of clouds and blue sky.
+
+Subject details: The woman is {argument name="character description" default="a slim young woman with long wavy black hair"}. Her face should be intentionally obscured with a soft rectangular blur or anonymized mask in every panel. Keep her styling elegant, rich, and minimalist, like a high-fashion lifestyle editorial.
+
+Panel count and contents:
+1. Central large panel: The woman sits in the foreground wearing {argument name="central outfit" default="a white tailored suit with a low neckline and delicate necklace"}, with long dark hair over her shoulders. Behind her is a transparent multi-level glass mansion suspended above clouds, showing luxurious interiors, stairs, sofas, and tiny distant figures.
+2. Top-left panel: The woman stands indoors beside a tall twisting crystal sculpture, wearing {argument name="top left outfit" default="a black-and-white tweed cropped jacket and high-waisted white trousers with a slim belt"}; glass walls and cloud views behind her.
+3. Bottom-left panel: The woman sits on a cream sofa in a black long-sleeve dress, holding or resting beside a structured black designer handbag, with a dining area and panoramic cloud view in the background.
+4. Top-right panel: The woman stands on a glass terrace above the clouds wearing {argument name="top right outfit" default="a dramatic floor-length black gown with a voluminous trailing skirt"}; the mansion interior extends behind her through transparent walls.
+5. Bottom-right panel: The woman poses in a short black sparkling dress or blazer dress with black high-heeled sandals, surrounded by tall faceted crystal obelisk sculptures on a reflective marble floor.
+
+Visual style: Hyper-realistic luxury editorial photography, cinematic soft daylight, reflective glass and chrome, icy blue highlights, polished marble, delicate shadows, high-end architecture visualization mixed with fashion photography. Emphasize transparency, reflections, diamonds/crystals, clouds below the building, and an expensive serene atmosphere.
+
+Constraints: No readable text, no logos, no watermark. Keep exactly 5 panels and maintain the white collage dividers. Faces must remain anonymized in all visible appearances.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2063811479124816341) | 2026-06-08
+
+---
+
+### 🏛️ 例 916：漂浮空间咖啡馆女仆
+
+![漂浮空间咖啡馆女仆](../images/%E6%BC%82%E6%B5%AE%E7%A9%BA%E9%97%B4%E5%92%96%E5%95%A1%E9%A6%86%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的垂直构图写实日本肖像，场景设定在未来感的太空咖啡馆内。画面中心是一位可爱的年轻日本女仆服务员，{argument name="character name" default="未命名的太空咖啡馆女仆"}，在巨大的圆角矩形太空船舷窗前处于失重漂浮状态。窗外展示从轨道俯瞰地球的壮丽景色，背景是深邃的星空。女仆身穿带有粉色点缀的黑白荷叶边女仆装：带有小爱心的蕾丝头带、短波波头 {argument name="hair color" default="黑发"}、粉色蝴蝶结、白色荷叶边围裙、胸前和口袋上的爱心装饰、带有白色荷叶边和粉色滚边的多层裙摆、黑色玛丽珍鞋、腕带，并摆出热情欢迎的姿势。她的左手托着一个空的银色托盘；右手轻柔地抬起，仿佛在说 {argument name="welcome phrase" default="欢迎回家，主人♡"}。让她的身体呈现出在零重力下轻盈悬浮的状态，一只膝盖弯曲，双脚离开地面。在她周围放置 7 款漂浮的咖啡馆甜点和饮品：左下方 1 杯高大的草莓芭菲，最左侧 1 杯较小的草莓芭菲，中左下方 1 杯带有香草冰淇淋和条纹吸管的绿色哈密瓜苏打浮饮，右下方 1 块草莓奶油蛋糕，右下角 1 个鲷鱼烧，中右侧漂浮着 1 对马卡龙，右侧漂浮着 1 个茶壶和茶杯。采用光泽、干净、高细节的商业 AI 摄影风格，柔和的摄影棚灯光，清晰的织物纹理，逼真的甜点细节，酷炫的蓝色太空船内饰面板，电影级景深，且画面中不包含任何可见文字、水印或多余字符。
+
+[English]
+Create a vertical 9:16 photorealistic fantasy portrait of {argument name="character name" default="a cheerful Japanese maid waitress"} floating weightlessly inside a futuristic space cafe. She is centered full-body in front of a large rounded rectangular spaceship window, with Earth filling the background and a dark star field behind it. She wears a cute black-and-white maid cafe uniform with pink accents: lace maid headband with small pink bows, short bob {argument name="hair color" default="dark brown hair"}, black puff-sleeve dress, white frilled apron, pink bow at the collar, heart-shaped decorations on the apron and pocket, layered ruffled skirt with pink ribbon bows, wrist cuffs, and black Mary Jane shoes. Her pose is playful and weightless, one leg bent back, one hand holding a shiny silver serving tray, the other hand raised as if greeting a customer. Around her, show exactly 8 floating cafe items: 1 silver serving tray in her left hand, 1 strawberry parfait glass at lower left, 1 green melon soda float with ice cream and striped straw near bottom center, 1 strawberry shortcake slice at lower right, 1 taiyaki fish-shaped pastry at bottom right, 1 teapot with amber tea plus 1 small teacup at mid-right counted as one tea set, 2 colorful macarons floating near the right side, and 1 tall strawberry dessert parfait near the left side. Use glossy high-detail food styling, soft studio lighting, crisp sci-fi interior panels, cool blue rim light from Earth, gentle zero-gravity composition, whimsical maid-cafe charm, ultra-detailed photorealistic anime-inspired Japanese portrait aesthetic. Keep the face softly beautified and natural, no text, no watermark, no extra people, no extra food items beyond the listed floating objects.
+```
+
+**来源：** [@Amiai](https://x.com/Amiai3211/status/2063783733250105720) | 2026-06-08
+
+---
+

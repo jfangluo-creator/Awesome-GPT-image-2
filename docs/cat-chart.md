@@ -1169,3 +1169,131 @@ Visual style: Polished Japanese social-media infographic, high-resolution, crisp
 
 ---
 
+### 📊 例 822：Churro Maker 信息图表项目
+
+![Churro Maker 信息图表项目](../images/Churro%20Maker%20%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个清晰、简洁的信息图表项目海报，用于 {argument name="product name" default="THE CHURRO MAKER"}。采用 16:9 宽屏布局，白色背景，黑色边框，粗体黑色排版，优质的 {argument name="style" default="Pixar 3D 风格渲染"}，明亮生动的色彩 — {argument name="color scheme" default="金黄的油炸面团，闪闪发光的白糖"}
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="product name" default="THE CHURRO MAKER"}. Wide 16:9 layout, white background, black borders, bold black typography, premium {argument name="style" default="Pixar 3D stylized rendering"}, bright vivid colors — {argument name="color scheme" default="golden fried dough, sparkling white sugar"}
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2064032022830502202) | 2026-06-08
+
+---
+
+### 📊 例 830：中文文本准确性信息图
+
+![中文文本准确性信息图](../images/%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%87%86%E7%A1%AE%E6%80%A7%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版中文商业信息图海报，解释 AI 图像生成目前已实现高中文文本准确率，将杂乱的文本转化为清晰的交付成果。
+
+画布：3:4 竖版海报，简洁的白色背景，采用趣味手绘编辑风格，辅以橙色、绿色、黑色和灰色点缀。使用粗线条草图轮廓、圆形气泡框、充满活力的涂鸦标记，营造友好的科技说明风格。
+
+布局：构图中心为一部大型智能手机模型，展示清晰的中文报告页面。左侧展示一个灰色的“之前”文档面板，上面布满乱码符号和无法辨认的类中文文本。右侧展示一位坐在笔记本电脑后、手持触控笔、做出兴奋握拳姿势的可爱卡通设计师。在手机下方中心和前景处添加一个巨大的亮绿色对勾。右上角添加一个绿色圆形徽章，下方添加一个橙色气泡框。底部的大标题置于一个橙色手绘轮廓气泡内。
+
+文本内容：使用 5 个主要文本区域。1) 左侧灰色气泡：“以前：乱码”。2) 右上角绿色徽章：“95% 准确率”。3) 右侧橙色气泡：“现在：清晰”。4) 手机屏幕标题：“项目总结报告”。5) 底部大标题：“中文准确率 95%”。
+
+手机屏幕细节：展示一部带有刘海屏和状态栏时间 9:41 的黑色 iPhone 风格智能手机。报告页面内包含 4 个由细灰色分割线隔开的堆叠内容区域。第 1 部分包含一个橙色目标图标和标题“项目目标”，后跟关于提升用户体验、优化产品功能和加强系统稳定性的简短中文正文。第 2 部分包含一个蓝色柱状图图标和标题“关键成果”，后跟 3 个要点：用户满意度提升 32%，系统性能提升 45%，问题响应时间缩短 50%。第 3 部分包含一个绿色对勾图标和标题“主要结论”，后跟说明项目达到预期目标并奠定坚实基础的正文。第 4 部分包含一个黄色灯泡图标和标题“下一步计划”，后跟关于持续优化和扩展应用场景的正文。
+
+左侧“之前”区域：渲染一个带有顶部栏的灰色浏览器/文档卡片，上面有多行损坏的字符、问号、标点符号和散乱的汉字，清晰可见且无法阅读。在左下角添加杂乱的纸张、涂鸦和信封图标，以强调文档的无序状态。
+
+右侧人物细节：创建一个可爱的年轻男性卡通设计师，留着棕色卷发，肤色白皙，身穿橙色毛衣，姿势简单生动；面部可留白或进行柔和处理。他一手拿着黑色触控笔，坐在写有“设计师”圆形贴纸的灰色笔记本电脑后。在桌面上添加 3 个前景配件：一本带有简单布局草图和色块的螺旋笔记本、一支黑笔和一个带有橙色爱心的白色马克杯。
+
+视觉风格：友好的中文社交媒体说明海报，半扁平矢量插画与马克笔风格手绘线条相结合，柔和阴影，圆润形状，高可读性，强调鲜艳的绿色对勾和橙色标题。构图丰富但清晰易读，不使用照片写实风格。
+
+约束条件：严格保留指定的中文文本，保持手机报告文本清晰易读，仅使用一个中央手机、一个左侧杂乱文档卡片、一个设计师角色、一个绿色对勾、一个绿色徽章、一个橙色气泡框和一个底部大标题。不要添加水印、Logo、二维码或额外的核心主张。
+
+[English]
+Goal: Create a vertical Chinese business infographic poster explaining that AI image generation now achieves high Chinese text accuracy, transforming messy text into clear deliverables.
+
+Canvas: Portrait 3:4 poster, clean white background, playful hand-drawn editorial style with orange, green, black, and gray accents. Use thick sketch outlines, rounded speech bubbles, energetic doodle marks, and a friendly tech-explainer tone.
+
+Layout: Center the composition around one large smartphone mockup showing a clean Chinese report page. On the left, show a gray “before” document panel full of garbled symbols and unreadable Chinese-like text. On the right, show a cheerful cartoon designer sitting behind a laptop, holding a stylus, with an excited fist pose. Add a large bright green check mark overlapping the lower center of the phone and foreground. Add a green circular badge in the upper right and an orange speech bubble below it. Put a large bottom headline inside an orange hand-drawn outline bubble.
+
+Text content: Use exactly 5 main text areas. 1) Left gray speech bubble: “以前：乱码”. 2) Upper-right green badge: “95% 准确率”. 3) Right orange speech bubble: “现在：清晰”. 4) Phone screen title: “项目总结报告”. 5) Bottom headline: “中文准确率95%”.
+
+Phone screen details: Show an iPhone-like black smartphone with notch and status bar time 9:41. Inside the report page, include 4 stacked content sections separated by thin gray dividers. Section 1 has an orange target icon and heading “项目目标”, followed by short Chinese body text about improving user experience, optimizing product functions, and strengthening system stability. Section 2 has a blue bar-chart icon and heading “关键成果”, followed by 3 bullet points: user satisfaction increased 32%, system performance improved 45%, issue response time shortened 50%. Section 3 has a green check icon and heading “主要结论”, followed by body text saying the project achieved expected goals and laid a solid foundation. Section 4 has a yellow lightbulb icon and heading “下一步计划”, followed by body text about continuous optimization and expanding application scenarios.
+
+Left “before” area: Render a gray browser/document card with a top bar and multiple lines of broken characters, question marks, punctuation, and scattered Chinese characters, clearly unreadable. Add messy paper sheets, scribbles, and an envelope icon near the bottom left to emphasize disorganized documents.
+
+Right character details: Create a cute young male cartoon designer with curly brown hair, fair skin, orange sweater, and simple expressive pose; the face may be left blank or softly obscured. He holds a black stylus in one hand and sits behind a gray laptop with a round sticker reading “设计师”. On the desk add exactly 3 foreground accessories: a spiral notebook with simple layout sketches and small color blocks, a black pen, and a white mug with an orange heart.
+
+Visual style: Friendly Chinese social-media explainer poster, semi-flat vector illustration mixed with marker-like hand-drawn lines, soft shadows, rounded shapes, high readability, vibrant green check mark and orange headline emphasis. Keep the composition busy but legible, with no photorealism.
+
+Constraints: Preserve the Chinese text exactly as specified, keep the smartphone report text crisp and readable, use exactly one central phone, one left messy document card, one designer character, one green check mark, one green badge, one orange speech bubble, and one bottom headline. Do not add watermarks, logos, QR codes, or extra main claims.
+```
+
+**来源：** [@唐华斑竹🦅](https://x.com/uniswap12/status/2064010171396051074) | 2026-06-08
+
+---
+
+### 📊 例 841：AI 使用对比信息图
+
+![AI 使用对比信息图](../images/AI%20%E4%BD%BF%E7%94%A8%E5%AF%B9%E6%AF%94%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张正方形的日本对比信息图，以精致的半写实动漫商务插画风格，展示使用 AI 的人与不使用 AI 的人之间的区别。
+
+画布：1:1 正方形社交媒体图片，从顶部中心附近向底部中心对角线分割为两个对比鲜明的半部分。左侧使用明亮的暖色调，右侧使用深灰蓝色调。在两个场景之间添加一个干净的白色对角分割线。
+
+左侧面板：展示一名使用 AI 的成功上班族。主体是一名穿着 {argument name="shirt color" default="绿色"} 衬衫的年轻日本商务人士，坐在木质办公桌前使用笔记本电脑。在笔记本电脑旁放置一个可爱的小型青色与白色相间的机器人助手，机身上写有“AI”字样。添加柔和的绿色光晕、闪光和积极的氛围。背景中展示两名正在讨论的商务同事、明亮的办公室窗户、植物和演示材料。刻意遮挡或柔化所有人物面部，以实现类似隐私保护的匿名化处理。
+
+左侧文字：在顶部放置一个绿色的圆形标题标签，写着「AIを活用している人」。下方添加标题「活躍して成果を出している！」。包含 2 个白色的想法/对话气泡：一个大气泡写着「AIがサポートしてくれるから効率的に進められる！アイデアも広がる！」，一个小气泡写着「さすが！仕事が早くて助かるよ！」。在员工周围包含 3 张悬浮的 AI 支持卡片：带有文档和放大镜图标的「情報収集・要約」、带有灯泡图标的「アイデア出し」，以及「資料作成サポート」和带有图表图标的「データ分析」。在桌面上，放置一个标有「成果・信頼 評価UP!」的金色奖杯。在左下角，添加一张带有 4 个绿色勾选项目的白色清单卡片：「作業時間を大幅削減！」、「質の高い成果を創出！」、「評価・信頼UP！」、「新しいことに挑戦できる！」。
+
+右侧面板：展示一名没有使用 AI、压力巨大的上班族。主体是一名穿着白衬衫和蓝领带的年轻日本商务人士，瘫坐在办公桌前，一只手扶着头，看着笔记本电脑显得不知所措。办公桌周围堆满了大量的纸张、活页夹和文件。办公室看起来昏暗、寒冷、杂乱，呈现深夜景象，配有挂钟、潦草的压力标记、向下的趋势图和疲惫的氛围。像左侧一样，刻意遮挡或柔化人物面部。
+
+右侧文字：在顶部放置一个深色的圆形标题标签，写着「AIを使えていない人」。下方添加标题「苦労して成果が出せず、遅れてしまう…」。在员工上方包含 1 个大的白色想法气泡，写着「調べるのに時間がかかる…資料作るのも大変…終わらない…」。在墙上或员工周围包含 3 张米色便签：「時間がない！」、「資料が多すぎる…」、「何から手をつければ…」。在向下的图表附近添加一个小标签，写着「進捗の遅れ…」。在右下角，添加一张带有 4 个黑色叉号项目的白色清单卡片：「作業に時間がかかり、残業続き…」、「成果が出ず、評価が上がらない…」、「新しいことに手が回らない…」、「周りに差をつけられて焦る…」。
+
+视觉风格：高质量日本商务插画，半写实动漫风格，简洁的信息图构图，清晰易读的排版，柔和的阴影，细致的办公道具，成功与挣扎之间强烈的视觉对比。保持所有日语文本清晰可辨，且与原文完全一致。无水印，无额外 Logo，无额外的清单项目。
+
+[English]
+Goal: Create a square Japanese comparison infographic showing the difference between a person who uses AI and a person who does not, in a polished semi-realistic anime business illustration style.
+
+Canvas: 1:1 square social media image, split diagonally from near the top center toward the bottom center into two contrasting halves. Use bright warm colors on the left and dark gray-blue colors on the right. Add a clean white diagonal divider between the two scenes.
+
+Left panel: Show a successful office worker using AI. The main subject is a young Japanese businessperson in a {argument name="shirt color" default="green"} shirt sitting at a wooden desk with a laptop. Place a cute small teal-and-white robot assistant beside the laptop, with “AI” written on its body. Add subtle green glow, sparkles, and a positive atmosphere. In the background, show two business colleagues standing and discussing, a bright office window, plants, and presentation materials. Deliberately obscure or softly blur all human faces for privacy-like anonymization.
+
+Left text: At the top, place a green rounded title label reading 「AIを活用している人」. Under it, add the headline 「活躍して成果を出している！」. Include exactly 2 white thought/speech bubbles: one large bubble saying 「AIがサポートしてくれるから効率的に進められる！アイデアも広がる！」 and one smaller bubble saying 「さすが！仕事が早くて助かるよ！」. Include exactly 3 floating AI support cards around the worker: 「情報収集・要約」 with a document and magnifying glass icon, 「アイデア出し」 with a lightbulb icon, and 「資料作成サポート」 plus 「データ分析」 with chart icons. On the desk, include a gold trophy labeled 「成果・信頼 評価UP!」. At the bottom left, add a white checklist card with exactly 4 green check items: 「作業時間を大幅削減！」, 「質の高い成果を創出！」, 「評価・信頼UP！」, 「新しいことに挑戦できる！」.
+
+Right panel: Show a stressed office worker who is not using AI. The main subject is a young Japanese businessperson in a white shirt and blue tie slumped at a desk, holding their head with one hand while looking overwhelmed at a laptop. Surround the desk with large stacks of papers, binders, and documents. The office should look dim, cold, cluttered, and late-at-night, with a wall clock, scribble stress marks, a downward-trending chart, and an exhausted mood. Deliberately obscure or softly blur the human face as on the left side.
+
+Right text: At the top, place a dark rounded title label reading 「AIを使えていない人」. Under it, add the headline 「苦労して成果が出せず、遅れてしまう…」. Include exactly 1 large white thought bubble above the worker saying 「調べるのに時間がかかる…資料作るのも大変…終わらない…」. Include exactly 3 beige sticky notes on the wall or around the worker: 「時間がない！」, 「資料が多すぎる…」, and 「何から手をつければ…」. Add a small label near the downward chart reading 「進捗の遅れ…」. At the bottom right, add a white checklist card with exactly 4 black X items: 「作業に時間がかかり、残業続き…」, 「成果が出ず、評価が上がらない…」, 「新しいことに手が回らない…」, 「周りに差をつけられて焦る…」.
+
+Visual style: High-quality Japanese business illustration, semi-realistic anime, clean infographic composition, crisp readable typography, soft shading, detailed office props, strong emotional contrast between success and struggle. Keep all Japanese text legible and exactly as written. No watermark, no extra logos, no additional checklist items.
+```
+
+**来源：** [@谷知 紀英🐸 緑グリーン株式会社｜代表取締役🥬](https://x.com/midori_green_88/status/2063986830421475584) | 2026-06-08
+
+---
+
+### 📊 例 899：摩托车工程信息图海报
+
+![摩托车工程信息图海报](../images/%E6%91%A9%E6%89%98%E8%BD%A6%E5%B7%A5%E7%A8%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端摩托车信息图杰作，以 {argument name="motorcycle model" default="传奇 Royal Enfield Continental GT 650"} 为主角，呈现博物馆级的工程展览效果。中央巨大的摩托车主视觉渲染图采用充满活力的英伦赛车风格配色，在电影级摄影棚灯光照射下，展现出戏剧性的反射效果和超写实的金属质感。深黑色背景融合了发光的霓虹橙、铜色、铬色和电光蓝点缀。配有未来感蓝图网格叠加、全息 HUD 界面元素以及精密工程原理图。以高端航空航天展示布局，排列出高度精细的前视图、侧视图、后视图、顶视图和 3/4 透视图。摩托车周围环绕着由发光数据线和数字界面图形连接的动画风格技术标注。规格亮点：• 648cc 并列双缸发动机 • 47 马力最大功率 • 52 牛·米峰值扭矩 • 6 速变速箱 • 双通道 ABS • 钢管双摇篮车架 • 双铬合金排气系统 • Cafe Racer 骑行姿态 • 最高时速 170 km/h • 油箱容量 12.5 升 • 风油冷发动机 • 双盘式制动系统。附加视觉元素：• 发动机爆炸图解 • 发动机活塞和曲轴图表 • 扭矩和功率曲线图 • 达到 170 km/h 的速度表可视化 • 燃油效率分析显示 • 悬挂几何结构分解 • 车轮和轮胎规格 • 高级性能数据卡 • 皇家赛车历史时间轴部分 • 未来感全息性能仪表盘。设计风格：National Geographic × Top Gear × Apple 产品发布会 × 一级方程式工程展示 × 军事航空航天信息图风格。色彩丰富的橙色、蓝色、银色和铬色点缀。博物馆展览品质，奢华杂志封面美学，屡获殊荣的平面设计，电影级 HDR 对比度，超清晰排版，高级信息图层级，照片级真实材质，工程蓝图优雅感，未来汽车展示，超精细纹理，8K HDR 杰作，世界级信息图海报。
+
+[English]
+Ultra premium motorcycle infographic masterpiece featuring the {argument name="motorcycle model" default="legendary Royal Enfield Continental GT 650"} displayed as a museum-grade engineering exhibit. Massive central hero render of the motorcycle in vibrant British racing-inspired colors, illuminated by cinematic studio lighting with dramatic reflections and ultra realistic metallic surfaces. Deep black background blended with glowing neon orange, copper, chrome, and electric blue accents. Futuristic blueprint grid overlays, holographic HUD interface elements, and precision engineering schematics. Show highly detailed front view, side view, rear view, top view, and 3/4 perspective view arranged in a premium aerospace presentation layout. Surround the motorcycle with animated-style technical callouts connected by glowing data lines and digital interface graphics. Highlighted Specifications: • 648cc Parallel Twin Engine • 47 HP Maximum Power • 52 Nm Peak Torque • 6-Speed Transmission • Dual Channel ABS • Steel Tubular Double Cradle Frame • Twin Chrome Exhaust System • Cafe Racer Riding Position • Top Speed 170 km/h • Fuel Tank Capacity 12.5 Liters • Air-Oil Cooled Engine • Dual Disc Braking System Additional Visual Elements: • Exploded engine cutaway illustration • Engine piston and crankshaft diagrams • Torque and power curve graphs • Speedometer visualization reaching 170 km/h • Fuel efficiency analytics display • Suspension geometry breakdown • Wheel and tire specifications • Premium performance data cards • Royal racing heritage timeline section • Futuristic holographic performance dashboard Design Style: National Geographic × Top Gear × Apple Product Launch × Formula 1 Engineering Presentation × Military Aerospace Infographic Style. Highly colorful orange, blue, silver and chrome accents. Museum exhibition quality, luxury magazine cover aesthetics, award-winning graphic design, cinematic HDR contrast, ultra sharp typography, premium infographic hierarchy, photorealistic materials, engineering blueprint elegance, futuristic automotive showcase, hyper detailed textures, 8K HDR masterpiece, world-class infographic poster.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2063831404765663401) | 2026-06-08
+
+---
+

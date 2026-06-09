@@ -3271,3 +3271,557 @@ Create Ultra-premium minimalist sports poster featuring a {argument name="subjec
 
 ---
 
+### 🎴 例 809：动漫摇滚乐队演唱会海报
+
+![动漫摇滚乐队演唱会海报](../images/%E5%8A%A8%E6%BC%AB%E6%91%87%E6%BB%9A%E4%B9%90%E9%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 6 月 9 日“摇滚日”创作一张细节极其丰富的竖版动漫摇滚乐队演唱会海报，展现一支名为 {argument name="band name" default="RainRebellion"} 的全女子乐队在樱花纷飞的璀璨夜间舞台上表演的场景。
+
+画布：竖版海报，2:3 纵横比，信息密度高，光泽感偶像动漫主视觉风格，戏剧性的蓝紫色调演唱会灯光，闪烁的镜头光晕，霓虹反射，飘落的樱花瓣，金属脚手架，聚光灯，线缆，音箱，鼓组，吉他以及华丽的幻想装饰。
+
+主体布局：将 5 名年轻的动漫乐队成员置于舞台上，采用英雄式的三角形构图，主唱位于前景中心且最大。在右下角添加 1 个小型吉祥物角色，总计 6 个角色形象。采用奢华的极繁主义视觉风格，包含精致的配饰、哥特摇滚偶像服装、丝带、玫瑰、蕾丝、腰带、链条、星星图案、半透明外套和乐器。
+
+角色与乐器，共 5 名乐队成员加 1 个吉祥物：
+1. 中心：{argument name="lead vocalist name" default="Mio"}，主唱，金色波波头，黑色露肩摇滚 T 恤，上面印有可爱的 Q 版乐队艺术图案，短款荷叶边裙，叠戴项链，手链，手持复古麦克风支架，自信的主唱姿态。
+2. 左上：Hina，吉他手，深紫色长发，带有蓝粉色挑染和花朵发饰，弹奏电吉他，充满活力的侧身姿态。
+3. 左下：Rin，贝斯手，水蓝色双马尾，黑色花卉哥特装，弹奏装饰精美的贝斯，酷炫且专注的姿态。
+4. 右上：Yuzu，鼓手，金色长发，坐在印有乐队名称的鼓组后，举起鼓棒，拿着一面写有“Victory!”的小旗子。
+5. 右中：Luna，键盘手，银薰衣草色长发，优雅的黑蓝色服装，弹奏发光的电子键盘，冷静而神秘的表情。
+6. 右下：Rocky，小型吉祥物角色，棕色头发，带有动物般的魅力，手持麦克风，可爱的炒热气氛姿态。
+
+文字内容与排版：添加日式宣传海报文字，采用发光的手写体和衬线字体。左上角包含“6月9日”、“ロックの日SP”、大标题“ロックバンド作ろ♪”以及粉色手写体“ver.2”。右侧添加竖排日文标语“私たちの音で 明日を塗り替えよう。”。底部中心：大型华丽的发光 Logo“{argument name="band name" default="RainRebellion"}”，带有小型片假名副标题“レイン・リベリオン”，周围环绕着银色花丝、翅膀、玫瑰和蓝色宝石。在 Logo 下方创建 5 个圆形角色资料徽章，分别标注：“Mio Vocal”、“Hina Guitar”、“Rin Bass”、“Yuzu Drums”和“Luna Keyboard”，每个徽章配有微型肖像图标和下方简短的日文标语。左下角添加演唱会信息：“NEXT LIVE”、“RainRebellion 1st Oneman Live”、“Breaking the Rain”、“6.9 (MON) @Eternal Stage”以及微小的开场/开始时间细节。底部中心添加标语“雨降って 地固まる。”以及英文行“We will rock the future together”。右下角添加一个带有“RainRebellion”字样的圆形“RR”徽章。
+
+视觉风格：超细节现代动漫插画，偶像节奏游戏海报，动态舞台灯光，蓝紫色霓虹光效，粉色樱花瓣，魔法闪光，铬合金高光，深邃对比度，华丽排版，清晰的线条，高饱和度，电影级构图，精致的商业主视觉图。
+
+约束条件：保持 5 个乐队成员资料徽章和总计 6 个角色形象。保持海报内容充实但易于阅读。不要增加额外的乐队成员。避免照片写实感；保持动漫风格。将乐队名称 Logo 作为海报下三分之一处最大的文字元素。
+
+[English]
+Goal: Create a highly detailed vertical anime rock-band concert poster for June 9 Rock Day, featuring an all-girl band named {argument name="band name" default="RainRebellion"} performing on a glittering night stage under cherry blossoms.
+
+Canvas: Vertical poster, 2:3 aspect ratio, dense information-rich layout, glossy idol-anime key visual style, dramatic blue-purple-pink concert lighting, sparkling lens flares, neon reflections, floating sakura petals, metal scaffolding, spotlights, cables, speakers, drums, guitars, and ornate fantasy decorations.
+
+Main layout: Put 5 young female anime band members on stage in a heroic triangular composition, with the lead vocalist largest in the center foreground. Add 1 small mascot character in the lower right, making exactly 6 character figures total. Use a luxurious, maximalist visual style with intricate accessories, gothic-rock idol outfits, ribbons, roses, lace, belts, chains, star motifs, translucent jackets, and musical instruments.
+
+Characters and instruments, exactly 5 band members plus 1 mascot:
+1. Center: {argument name="lead vocalist name" default="Mio"}, lead vocalist, blonde bob haircut, black off-shoulder rock T-shirt with cute chibi band art printed on it, short frilly skirt, layered necklaces, bracelets, holding a vintage microphone on a stand, confident frontwoman pose.
+2. Upper left: Hina, guitarist, long dark purple hair with blue-pink highlights and floral hair ornaments, playing an electric guitar, energetic side pose.
+3. Lower left: Rin, bassist, aqua/turquoise twin-tail hair, black floral gothic outfit, playing a decorated bass guitar, cool intense pose.
+4. Upper right: Yuzu, drummer, long blonde hair, seated behind a drum kit labeled with the band name, raising drumsticks, with a small flag reading “Victory!”.
+5. Right middle: Luna, keyboardist, long silver-lavender hair, elegant black-and-blue outfit, playing a luminous electronic keyboard, calm mysterious expression.
+6. Lower right: Rocky, small mascot character with brown hair and animal-like charm, holding a microphone, cute hype-man pose.
+
+Text content and typography: Add Japanese-style promotional poster text with glowing hand-lettered and serif typography. At top left include “6月9日”, “ロックの日SP”, large headline “ロックバンド作ろ♪”, and pink script “ver.2”. At right side, add vertical Japanese slogan “私たちの音で 明日を塗り替えよう.” Center bottom: large ornate glowing logo “{argument name="band name" default="RainRebellion"}” with small katakana subtitle “レイン・リベリオン”, surrounded by silver filigree, wings, roses, and blue gems. Below the logo create exactly 5 circular character profile badges labeled: “Mio Vocal”, “Hina Guitar”, “Rin Bass”, “Yuzu Drums”, and “Luna Keyboard”, each with a tiny portrait icon and a short Japanese tagline beneath. At lower left add concert information: “NEXT LIVE”, “RainRebellion 1st Oneman Live”, “Breaking the Rain”, “6.9 (MON) @Eternal Stage”, and tiny opening/start time details. At bottom center add the slogan “雨降って 地固まる。” and the English line “We will rock the future together”. At lower right add a circular “RR” crest logo with “RainRebellion”.
+
+Visual style: Ultra-detailed modern anime illustration, idol rhythm-game poster, dynamic stage lighting, blue and violet neon glow, pink sakura petals, magical sparkles, chrome highlights, deep contrast, ornate typography, crisp line art, high saturation, cinematic composition, polished commercial key art.
+
+Constraints: Keep exactly 5 band member profile badges and exactly 6 character figures total. Keep the poster packed but readable. Do not add extra band members. Avoid photorealism; keep it anime-style. Make the band name logo the largest text element in the lower third.
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2064122364804354228) | 2026-06-08
+
+---
+
+### 🎴 例 816：专业职场形象照海报生成器
+
+![专业职场形象照海报生成器](../images/%E4%B8%93%E4%B8%9A%E8%81%8C%E5%9C%BA%E5%BD%A2%E8%B1%A1%E7%85%A7%E6%B5%B7%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用您上传的肖像照片，制作一张精美的正式商务形象照海报。请保持人物真实的五官特征、比例、脸型和整体神态——不要改变人物的样貌。
+
+轻微修饰面部轮廓，使其看起来更干净、更上镜。平滑皮肤纹理，减少瑕疵或肤色不均，但不要过度修图——保留自然的皮肤细节和真实的灯光效果。
+
+为拍摄对象设计适合其脸型的商务发型：整洁、专业且自然，不要夸张。为其穿上正式商务装——深色西装外套、白色或浅色衬衫，可选配领带——以呈现高端、简约、值得信赖的形象。
+
+构图：正面半身肖像，主体居中，直视镜头，表情冷静自信。纯白色背景，光线柔和均匀——类似于专业的证件照或职场形象照。风格：干净、正式、照片级真实感，1:1 正方形比例。
+
+在底部包含一个简洁的信息栏，采用现代简约字体：
+姓名：{argument name="name" default="[Yuna Koizumi]"}
+职位：{argument name="job title" default="[Senior Graphic Designer]"}
+部门 / 机构：{argument name="institution" default="[International Design Institute]"}
+
+文字规则：如果任何标签文本是中文或其他语言，请先将其翻译为正式的英文，然后再放入图像中。除非明确要求，否则不要在图像中显示中文。
+
+排版：姓名使用深蓝色粗体大号字体（第一行）；职位和部门使用黑色常规字重（第二行和第三行）。布局应参考大学教职员个人资料页面或专业会议演讲者卡片。
+
+[English]
+Using the portrait photo you upload, create a polished formal business headshot poster. Keep the person's real facial features, proportions, face shape, and overall presence intact — do not change who they look like.
+
+Lightly refine the facial contour to look cleaner and more photogenic. Smooth skin texture and reduce blemishes or uneven tone without over-retouching — preserve natural skin detail and realistic lighting.
+
+Give the subject a business hairstyle tailored to their face shape: neat, professional, and natural-looking, not exaggerated. Dress them in formal business attire — dark suit jacket, white or light shirt, optional tie — for a premium, minimal, trustworthy appearance.
+
+Composition: frontal half-body portrait, subject centered, looking directly at the camera with a calm, confident expression. Plain solid white background with soft, even lighting — similar to a professional ID photo or corporate headshot. Style: clean, formal, photorealistic, square 1:1 ratio.
+
+Include a clean info bar at the bottom with modern minimal typography:
+Name: {argument name="name" default="[Yuna Koizumi]"}
+Title: {argument name="job title" default="[Senior Graphic Designer]"}
+Department / Institution: {argument name="institution" default="[International Design Institute]"}
+
+Text rule: if any label text is in Chinese or another language, translate it to formal English before placing it in the image. Do not display Chinese in the image unless explicitly asked.
+
+Typography: Name in dark navy bold large font (first line); Title and Department in black regular weight (second and third lines). Layout should reference university faculty profile pages or professional conference speaker cards.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064091252161917016) | 2026-06-08
+
+---
+
+### 🎴 例 826：儿童沐浴产品广告海报
+
+![儿童沐浴产品广告海报](../images/%E5%84%BF%E7%AB%A5%E6%B2%90%E6%B5%B4%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满趣味、泡沫丰富的儿童广告海报。一位 {argument name="age" default="5"} 岁、戴着游泳镜的兴奋小男孩，坐在一个比他身高大 3 倍的巨型小黄鸭形状沐浴露瓶子里，瓶身溢满了彩虹泡沫，瓶子上用大而活泼的字体写着 "{argument name="product name" default="BUBBLEPOP"}"。背景是明亮的柔和蓝色浴室，漂浮着小黄鸭、肥皂泡和彩虹泡沫。背景中填充着明亮蓝色和黄色的巨大活泼圆润字体 "{argument name="product name" default="BUBBLEPOP"}"。底部标语："Bath time just got wild." 右上角的小字写着 "Designed with GPT Image 2"，呈灰色。照片级真实感，趣味儿童沐浴产品商业广告，明亮柔和的浴室光线。
+
+[English]
+A fun bubbly kids advertisement poster. An excited young boy age {argument name="age" default="5"} in swimming goggles sits inside a giant rubber duck shaped bubble bath bottle 3x his height overflowing with rainbow bubbles everywhere, "{argument name="product name" default="BUBBLEPOP"}" written in big bouncy letters on the bottle. Bright pastel blue bathroom background with floating rubber ducks soap bubbles and rainbow foam. Big bouncy rounded typography "{argument name="product name" default="BUBBLEPOP"}" in bright blue and yellow filling the background. Tagline bottom: "Bath time just got wild." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, fun kids bath product commercial, bright soft bathroom lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2064019011294421026) | 2026-06-08
+
+---
+
+### 🎴 例 827：时尚色彩主题广告网格
+
+![时尚色彩主题广告网格](../images/%E6%97%B6%E5%B0%9A%E8%89%B2%E5%BD%A9%E4%B8%BB%E9%A2%98%E5%B9%BF%E5%91%8A%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张灵感源自多彩运动装广告的高端时尚海报。全身姿势，以充满活力的街头舞蹈姿态自信站立。主体穿着时尚的单色服装，与背景色彩主题完美呼应。
+
+创建一个 4 宫格网格布局（2×2），每个面板展示同一个人身着不同色彩主题的时尚造型：
+
+左上：鲜艳的蓝色摄影棚背景，蓝色渔夫帽，蓝色夹克，配套街头服饰，白色运动鞋。添加手绘白色涂鸦，包括麦克风、音乐播放器、运动线条和充满活力的素描效果。
+
+右上：大胆的红色摄影棚背景，红黑配色运动装，渔夫帽，白色运动鞋。添加篮球涂鸦、秒表素描、弯曲的运动轨迹和运动图形元素。
+
+左下：明亮的黄色摄影棚背景，黄色渔夫帽，黄色夹克，黑黄配色时尚装束，黑色运动鞋。添加流动的液体形状、速度线、几何图案和充满活力的漫画风格装饰。
+
+右下：浓郁的绿色摄影棚背景，绿色休闲运动装，灰色长裤，绿色渔夫帽，运动鞋。添加风的符号、足迹、指南针素描、心跳线图形和极简的探险主题涂鸦。
+
+风格与质量：
+
+超写实商业时尚摄影
+
+全身构图
+
+干净无缝的摄影棚背景
+
+每个面板色彩搭配协调
+
+高端运动装广告美学
+
+专业柔光箱照明
+
+清晰的细节和逼真的面料质感
+
+高级杂志广告质感
+
+创意白色手绘涂鸦叠加
+
+动态的肢体语言和动作
+
+色彩鲜艳，对比度完美
+
+8K 超精细画质
+
+Instagram 病毒式传播海报风格
+
+无文字，无水印，无 Logo
+
+四个面板中人物面部特征保持一致
+
+照片级真实感，电影感，现代时尚编辑摄影
+
+负面提示词：模糊的面部，多余的手指，重复的身体部位，扭曲的解剖结构，低质量，脚部被裁剪，文字，水印，Logo，边框，边线，色彩过饱和，不现实的比例，卡通风格，CGI 感。
+
+[English]
+Create a high-end fashion advertising poster inspired by colorful sportswear campaigns. Full-body pose, standing confidently in a dynamic dance-like streetwear stance. The subject wears a stylish monochrome outfit that perfectly matches the background color theme.
+
+Create a 4-panel grid layout (2×2), each panel featuring the same person in a different color-themed fashion look:
+
+Top Left: vibrant blue studio background, blue bucket hat, blue jacket, matching streetwear outfit, white sneakers. Add hand-drawn white doodles including microphone, music player, motion lines, and energetic sketch effects.
+
+Top Right: bold red studio background, black and red sportswear outfit, bucket hat, white sneakers. Add basketball doodles, stopwatch sketch, curved motion trails, and sporty graphic elements.
+
+Bottom Left: bright yellow studio background, yellow bucket hat, yellow jacket, black-yellow fashion outfit, black sneakers. Add flowing liquid shapes, speed lines, geometric patterns, and energetic comic-style accents.
+
+Bottom Right: rich green studio background, green casual sportswear outfit, grey pants, green bucket hat, sporty sneakers. Add wind symbols, footprints, compass sketches, heartbeat line graphics, and minimal adventure-themed doodles.
+
+Style & Quality:
+
+Ultra-realistic commercial fashion photography
+
+Full-body composition
+
+Clean seamless studio backgrounds
+
+Matching color palette in each panel
+
+High-fashion sportswear campaign aesthetic
+
+Professional softbox lighting
+
+Sharp details and realistic fabric textures
+
+Premium magazine advertisement look
+
+Creative white hand-drawn doodle overlays
+
+Dynamic body language and movement
+
+Vibrant colors with perfect contrast
+
+8K ultra-detailed quality
+
+Instagram viral poster style
+
+No text, no watermark, no logo
+
+Consistent face identity across all four panels
+
+Photorealistic, cinematic, modern fashion editorial photography
+
+Negative Prompt: blurry face, extra fingers, duplicate body parts, distorted anatomy, low quality, cropped feet, text, watermark, logo, frame, border, oversaturated colors, unrealistic proportions, cartoon style, CGI look.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2064018447147880602) | 2026-06-08
+
+---
+
+### 🎴 例 833：复古风饮料商业海报
+
+![复古风饮料商业海报](../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E9%A5%AE%E6%96%99%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="饮品" default="荔枝冰茶"}生成一张明亮轻快的复古商业广告视觉：画面第一眼由超大、厚实、圆角饱满的主题字标「{argument name="主标题" default="荔枝开场"}」建立记忆点，字形像柔软膨胀的招牌块面，浅色填充、边缘干净，压住上方视觉重心；饮品主形体以真实商品摄影质感出现在下部中心，近距离放大，带清晰高光、冷凝水或液体光泽、自然阴影，向前覆盖背景与部分文字，让平面图形和真实产品形成强烈前后层次。背景使用从主体附近向外扩散的放射块面，边界锐利、节奏密集，形成速度感和欢快冲击力。文字系统分三层：主字标最大，副标题用窄高的复古大写字体「{argument name="副标题" default="LYCHEE ICED TEA"}」紧贴其下，小字号信息分散在边角，手写斜体短句以弧线或斜线穿过主体周围，并加入少量白色线描弧、闪光符号和细小标记增强节奏。色彩从饮料的风味、材质、品牌情绪中提取，保留大面积清亮结构色、少量强对比强调色、浅色信息文字和温暖主体色的角色关系；整体高明度、高饱和但干净通风，色阶清晰，情绪新鲜、俏皮、充满能量，避免灰暗脏旧、浑浊蒙层和低活力复古颗粒。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2064000945458217220) | 2026-06-08
+
+---
+
+### 🎴 例 853：奢华时尚杂志长廊
+
+![奢华时尚杂志长廊](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%95%BF%E5%BB%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级的广角时尚编辑场景，置身于一个狭窄且具有沉浸感的长廊中，墙壁、天花板边缘、地面和侧板上完全覆盖着超大尺寸的亮面杂志封面和时尚广告。一位时尚的成年男性，{argument name="central model" default="一位自信的男性时尚模特"}，身着 {argument name="outfit" default="全黑定制双排扣西装，内搭黑色高领毛衣，修身长裤，抛光黑色正装靴，并佩戴银色腕表"}，正沿着长廊中央向镜头走来。运用戏剧性的奢华展厅灯光、强烈的透视线条以及高级时尚氛围，仿佛置身于一个超现实的杂志档案装置艺术中。包含 12 个清晰可辨的大型编辑品牌或杂志面板：Vogue、Chanel、Gucci、Dior、GQ、W、Harper's Bazaar、Tom Ford、Louis Vuitton、The Untold、Bvlgari 和 Vanity Religion。周围环绕着许多较小的时尚肖像、模特内页、排版块和产品广告风格的布局，但需保持这 12 个指定面板的主导地位和可读性。长廊地面应铺满整页杂志内页，包括模特照片、文章专栏和封面标题，在模特脚下形成一条拼贴画路径。在侧墙上增加两张额外的大型男性时尚海报，右侧一张类似于 GQ 封面，左侧一张嵌入在 Vogue 和 W 的拼贴画中。海报上的人物面孔和中心模特的面部可以进行柔和的匿名化或模糊处理，同时保持服装、姿势、杂志排版和奢华品牌标识的清晰度。色调：暖米色、奶油色、黑色、白色、棕褐色、柔和的橙色以及深邃的阴影，带有亮面纸张的反射效果。拍摄为写实的编辑摄影作品，超高细节，16:9 横向构图，低至中机位高度，24mm 广角镜头视觉，景深浅但清晰可读，无卡通风格，无空白墙面，除可见的杂志时尚拼贴外无额外 Logo，无水印。
+
+[English]
+Create a cinematic wide-angle fashion editorial scene inside a narrow immersive corridor completely covered with oversized glossy magazine covers and fashion advertisements on the walls, ceiling edges, floor, and side panels. A stylish adult man, {argument name="central model" default="a confident male fashion model"}, walks toward the camera down the center of the corridor wearing {argument name="outfit" default="an all-black tailored double-breasted suit with a black turtleneck, slim trousers, polished black dress boots, and a silver wristwatch"}. Use dramatic luxury-showroom lighting, strong perspective lines, and a high-fashion mood, as if inside a surreal magazine archive installation. Include exactly 12 clearly recognizable large editorial brand or magazine panels: Vogue, Chanel, Gucci, Dior, GQ, W, Harper's Bazaar, Tom Ford, Louis Vuitton, The Untold, Bvlgari, and Vanity Religion. Surround them with many smaller fashion portraits, model spreads, typography blocks, and product-ad-style layouts, but keep the 12 named panels dominant and legible. The corridor floor should be tiled with full-page magazine spreads, including photographs of models, article columns, and cover headlines, creating a collage path under the model's feet. Add two additional large male fashion posters on the side walls, one on the right resembling a GQ cover and one on the left embedded among Vogue and W spreads. Faces on posters and the central model may be softly anonymized or blurred, while clothing, pose, magazine typography, and luxury branding remain crisp. Color palette: warm beige, cream, black, white, tan, muted orange, and deep shadows, with glossy paper reflections. Shot as a realistic editorial photograph, ultra-detailed, 16:9 landscape composition, low-to-mid camera height, 24mm wide lens look, shallow but readable depth, no cartoon style, no empty walls, no extra logos beyond the visible magazine-fashion collage, no watermark.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2063963528911065408) | 2026-06-08
+
+---
+
+### 🎴 例 862：Puma Street Force 海报
+
+![Puma Street Force 海报](../images/Puma%20Street%20Force%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="PUMA"} 和 {argument name="campaign title" default="STREET FORCE"} 创建一张超高端的 4:5 Instagram 街头风宣传海报，展现粗粝的城市动作感、霓虹黄能量、混凝土质感，以及达到 Behance 首页水平的运动服饰艺术指导。
+
+画布：竖向 4:5 海报，1024×1280 质感，背景为黑暗、高对比度的地下停车场或夜间混凝土隧道。使用黑色、炭灰色、脏混凝土色、白色喷漆，并以电光荧光黄作为主导强调色。添加胶片颗粒、灰尘、划痕、半色调纹理、磨损墨迹和微妙的印刷磨损效果。
+
+主体布局：巨大的单色黄色 {argument name="brand name" default="PUMA"} 字标填充背景上方约 70% 的区域，边缘紧凑裁剪，位于运动员身后。前景中心：一名男性街头足球运动员低姿蹲伏，身穿黑色连帽衫（带有小型黄色猫咪 Logo）、黑色长裤、白色袜子和亮荧光黄运动鞋。他的双手有纹身，一只手按在印有黄色猫咪 Logo 的黑色足球上。面部被一个中棕色的方形遮挡块刻意遮盖，但短卷发和耳朵部分可见。强烈的黄色荧光灯管在车库背景中发光，并反射在潮湿阴暗的混凝土路面上。
+
+主体细节：运动员蹲姿宽大有力，双肘向前，尽管面部被遮挡，但视线看向镜头。服装数量：共 5 件主要可见的服装/配饰——1 件黑色连帽衫、1 条黑色长裤、1 双白色袜子、1 双荧光黄运动鞋和 1 个黑色足球。保持鞋子光线明亮且色彩饱和，展现真实的布料褶皱和街头穿搭风格。
+
+图形系统与可见文字：包含 16 个独特的可见文字/Logo/标签元素，排列方式如同高端时尚杂志封面：1 个左上角大型黄色跳跃猫 Logo；2 行左上角小字，内容为“PUMA”和“STREETWEAR”；3 个右上角期刊文字元素，内容为“VOL.”、“01”和“2024”；1 个右侧垂直小标签，内容为“FOREVER FASTER.”；1 个右侧垂直条形码；1 个左中侧堆叠标语，内容为“BUILT DIFFERENT”；1 个右中侧运动员说明，内容为“NEYMAR JR. | STREETS WON’T FORGET.”；该说明下方有一个黄色签名涂鸦；1 个右下角产品卡片，内容为“VOLT COLLECTION”并附带条形码和“P. / 20 24”；1 个底部中心大型模板标题，内容为“STREET FORCE”；1 个左下角带框期刊编号“01”；1 个底部中心黄色按钮，内容为“SHOP ONLINE”；1 个底部中心网址“PUMA.COM”；1 个右下角页脚，内容为“VOLT COLLECTION”。
+
+附加图形：添加 7 个非文字装饰性街头图形——1 个横跨左下墙面/地面的白色涂鸦标签，1 个位于 STREET 一词上方的黄色喷漆皇冠，1 个位于 FORCE 下方的黄色下划线滴落效果，1 个靠近左侧标语的地球仪图标，1 个靠近左侧标语的十字准星图标，1 个位于右上角的细十字准星/目标图标，以及 1 个位于 SHOP ONLINE 按钮内部或旁边的地球仪图标。添加细长的编辑边框线、小型裁切标记、微网格线和条形码细节，确保海报不显杂乱。
+
+排版与风格：背景品牌字样使用巨大的压缩粗体无衬线字体，STREET FORCE 使用粗糙的白色模板字体，侧边和页脚文字使用微型技术编辑标签，并采用高定运动宣传的排版间距。海报应呈现出 Puma × {argument name="athlete name" default="Neymar Jr."} 名为 {argument name="collection name" default="Volt Collection"} 的街头系列发布感。避免出现额外的人物、多余的球、额外的大段文字或干净的摄影棚背景。
+
+[English]
+Goal: Create an ultra-premium 4:5 Instagram streetwear campaign poster for {argument name="brand name" default="PUMA"} and {argument name="campaign title" default="STREET FORCE"}, with gritty urban action, neon yellow energy, concrete textures, and Behance-front-page-quality sportswear art direction.
+
+Canvas: Vertical 4:5 poster, 1024×1280 feel, dark high-contrast underground parking garage or concrete tunnel at night. Use black, charcoal gray, dirty concrete, white spray paint, and electric volt yellow as the dominant accent color. Add film grain, dust, scratches, halftone texture, worn ink, and subtle print distress.
+
+Main layout: A huge monolithic yellow {argument name="brand name" default="PUMA"} wordmark fills about 70% of the upper background, cropped close to the edges and sitting behind the athlete. Center foreground: one male street-football athlete crouching low, wearing a black hoodie with a small yellow cat logo, black pants, white socks, and bright volt-yellow sneakers. His hands are tattooed, one hand resting on a black football with a yellow cat logo. The face is intentionally covered by a plain medium-brown square censor block, while short curly hair and ears remain partly visible. Strong yellow fluorescent tube lights glow in the garage background and reflect on the wet/dark concrete floor.
+
+Subject details: The athlete is crouched wide and powerful, elbows forward, looking toward camera despite the face block. Outfit count: exactly 5 main visible outfit/accessory pieces — 1 black hoodie, 1 pair black pants, 1 pair white socks, 1 pair volt-yellow sneakers, and 1 black football. Keep the shoes sharply lit and saturated yellow, with realistic fabric folds and streetwear styling.
+
+Graphic system and visible text: Include exactly 16 distinct visible text/logo/label elements arranged like a premium fashion magazine cover: 1 large top-left yellow leaping cat logo; 2 small top-left lines reading “PUMA” and “STREETWEAR”; 3 top-right issue text elements reading “VOL.”, “01”, and “2024”; 1 tiny right-side vertical label reading “FOREVER FASTER.”; 1 right-side vertical barcode; 1 left-middle stacked slogan reading “BUILT DIFFERENT”; 1 right-middle athlete caption reading “NEYMAR JR. | STREETS WON’T FORGET.”; 1 yellow signature scribble under that caption; 1 lower-right product card reading “VOLT COLLECTION” with a barcode and “P. / 20 24”; 1 large lower-center stencil title reading “STREET FORCE”; 1 bottom-left boxed issue number reading “01”; 1 bottom-center yellow button reading “SHOP ONLINE”; 1 bottom-center website reading “PUMA.COM”; 1 bottom-right footer reading “VOLT COLLECTION”.
+
+Additional graphics: Add exactly 7 non-text decorative street graphics — 1 white graffiti tag across the lower-left wall/floor, 1 yellow spray-painted crown above the word STREET, 1 yellow underline drip beneath FORCE, 1 small globe icon near the left slogan, 1 crosshair icon near the left slogan, 1 thin crosshair/target icon in the top-right corner, and 1 small globe icon inside or beside the SHOP ONLINE button. Add thin editorial border lines, small crop marks, micro grid lines, and barcode details without cluttering the poster.
+
+Typography and style: Use massive condensed bold sans-serif typography for the background brand word, rough white stencil lettering for “STREET FORCE,” tiny technical editorial labels for the side and footer text, and high-fashion sports campaign spacing. The poster should feel like a Puma × {argument name="athlete name" default="Neymar Jr."} streetwear drop called {argument name="collection name" default="Volt Collection"}. Avoid extra people, extra balls, additional large text, or clean studio backgrounds.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2063940540094144871) | 2026-06-08
+
+---
+
+### 🎴 例 863：Nike Raw Motion 街头服饰海报
+
+![Nike Raw Motion 街头服饰海报](../images/Nike%20Raw%20Motion%20%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超高端的 4:5 Instagram 街头服饰宣传海报，主题为 {argument name="brand collaboration" default="Nike × Billie Eilish"}，标题为 {argument name="campaign title" default="RAW MOTION"}，具有高对比度的动感能量、粗犷的地下城市背景以及荧光绿配黑色的配色方案。
+
+画布：垂直 4:5 海报，768×1024 构图风格，Behance 首页质量。深色混凝土停车场或隧道环境，采用戏剧性的低角度透视，带有动态模糊的光束、湿沥青反射、厚重的颗粒感、划痕、垃圾纹理和电影级对比度。
+
+主体：一张 {argument name="featured artist" default="Billie Eilish"} 的低角度全身时尚摄影，身穿超大号黑色机能街头服饰走向镜头：亮面黑色飞行员夹克、宽松黑色运动裤和荧光绿运动鞋。最近的一只鞋非常靠近镜头，通过广角透视进行夸张处理，可见鞋底纹路和灰色的 Nike Swoosh。在衣物褶皱处添加绿色轮廓光。面部被柔和的方形模糊/遮挡块刻意遮盖，但周围仍可见头发。
+
+主要图形系统：在背景上方放置一个巨大的荧光绿 NIKE 字标，几乎横跨整个宽度，一个巨大的荧光 Swoosh 从左至右掠过人物后方。人物与排版重叠并部分遮挡。在 Logo 上使用做旧的墨水纹理，呈现轻微的风化和粗犷感。
+
+布局和文字内容：包含 10 个精确的文字/Logo 区域：
+1. 左上角小型荧光绿 Nike Logo。
+2. 顶部居中小字：“NIKE × EILISH”，后接“VOLT COLLECTIVE”。
+3. 右上角文字：“LIMITED DROP”，带有一个小地球图标。
+4. 背景中心：巨大的荧光绿“NIKE”字标和超大 Swoosh。
+5. 右侧中间艺术家识别块，带有一个小人物图标：“BILLIE EILISH”，大号“001”、“BE / BE-1”、“COLLECTION”以及四个微小的圆形技术图标。
+6. 左下角编号块：大号“23”，后接“VOLT”、“COLLECTIVE”、“SERIES”、“0023_BE”。
+7. 最左侧下方的半透明产品/规格卡，带有“BE-1”和“23”以及微小的图示线条和图标。
+8. 右下角主标题，采用巨大的做旧白色压缩字体：“RAW”堆叠在“MOTION”上方。
+9. 标题下方的小型水平标签：“ENGINEERED FOR IMPACT”，带有荧光标签上的 Nike Swoosh，以及微小的条形码状条纹和微文案“MOVEMENT IS FREEDOM. FREEDOM IS YOU. JUST DO IT.”以及潦草的签名。
+10. 右下角产品袋或标签对象，写有“VOLT COLLECTIVE”和“PROPERTY OF NIKE”，并带有诸如“UNITED BY MOVEMENT”、“DRIVEN BY ENERGY”等微小文字以及一个小型的 Nike Swoosh。
+
+视觉细节补充：在左下角添加小型版权/微型文字和地球图标，底部附近添加对角线荧光危险条纹，绘制荧光绿地面箭头和道路标记，鞋子周围有微妙的霓虹光晕，右下角有一个倾斜的黑色矩形产品袋。排版应大胆、压缩、运动且具有做旧感，将大型展示字体与微小的技术 UI 标签相结合。
+
+配色方案：主色调为黑色、炭灰色、混凝土灰、脏白色和电光荧光绿 {argument name="accent color" default="#B6FF00"}。保持所有高光、鞋子、Logo、条纹和技术标签处于相同的荧光绿调。
+
+限制：使海报看起来像高端 Nike 街头服饰社交媒体焦点图，而非整洁的产品目录。保持构图拥挤但清晰，仅包含一个人像、一个巨大的背景 NIKE 字标、一个巨大的 Swoosh、一个右下角袋状物体，以及上述 10 个文字/Logo 区域。禁止添加额外的品牌名称、额外的人物或水印。
+
+[English]
+Goal: Create an ultra-premium 4:5 Instagram streetwear campaign poster for {argument name="brand collaboration" default="Nike × Billie Eilish"}, titled {argument name="campaign title" default="RAW MOTION"}, with high-contrast kinetic energy, a gritty underground urban setting, and a volt-green-on-black color system.
+
+Canvas: Vertical 4:5 poster, 768×1024 style composition, Behance front-page quality. Dark concrete parking-garage or tunnel environment with dramatic low-angle perspective, motion blur light streaks, wet asphalt reflections, heavy grain, scratches, grunge texture, and cinematic contrast.
+
+Main subject: A low-angle full-body fashion shot of {argument name="featured artist" default="Billie Eilish"} walking toward the camera in oversized black technical streetwear: glossy black bomber jacket, baggy black track pants, and neon volt-green sneakers. The nearest shoe is extremely close to the lens and exaggerated by wide-angle perspective, with visible tread and a gray Nike swoosh. Add green rim lighting along clothing folds. The face is intentionally obscured by a soft square blur/censor block while hair remains visible around it.
+
+Primary graphic system: Place a massive oversized volt-green NIKE wordmark across the upper background, spanning almost the full width, with a giant volt swoosh sweeping behind the figure from left to right. The figure overlaps and partially covers the typography. Use distressed ink texture on the logo, slightly weathered and gritty.
+
+Layout and text content: Include exactly 10 distinct text/logo zones:
+1. Top-left small Nike logo in volt green.
+2. Top-center small text: “NIKE × EILISH” followed by “VOLT COLLECTIVE”.
+3. Top-right text: “LIMITED DROP” with a small globe icon.
+4. Center background: huge “NIKE” wordmark and oversized swoosh in volt green.
+5. Right-middle artist identification block with a small person icon: “BILLIE EILISH”, large “001”, “BE / BE-1”, “COLLECTION”, and four tiny circular technical icons.
+6. Left-lower numbering block: large “23”, then “VOLT”, “COLLECTIVE”, “SERIES”, “0023_BE”.
+7. Far-left lower translucent product/spec card with “BE-1” and “23” plus tiny diagram lines and icons.
+8. Main headline at lower right in huge distressed white condensed type: “RAW” stacked above “MOTION”.
+9. Small horizontal label below the headline: “ENGINEERED FOR IMPACT” with a Nike swoosh on a volt label, plus tiny barcode-like stripes and microcopy “MOVEMENT IS FREEDOM. FREEDOM IS YOU. JUST DO IT.” with a scribbled signature.
+10. Bottom-right product pouch or tag object reading “VOLT COLLECTIVE” and “PROPERTY OF NIKE”, with tiny text such as “UNITED BY MOVEMENT”, “DRIVEN BY ENERGY”, and a small Nike swoosh.
+
+Additional visual details: Add bottom-left small copyright/microtext and globe icon, diagonal volt hazard stripes near the bottom, painted volt-green floor arrows and road markings, subtle neon glow around shoes, and a black rectangular product pouch angled in the bottom-right corner. Use typography that is bold, condensed, athletic, and distressed, mixing large display type with tiny technical UI labels.
+
+Color palette: Dominant black, charcoal gray, concrete gray, dirty white, and electric volt green {argument name="accent color" default="#B6FF00"}. Keep all highlights, shoes, logos, stripes, and technical labels in the same volt-green tone.
+
+Constraints: Make the poster look like a premium Nike streetwear social media hero image, not a clean product catalog. Keep the composition crowded but readable, with exactly one human figure, exactly one oversized background NIKE wordmark, exactly one giant swoosh, exactly one bottom-right pouch object, and exactly the 10 text/logo zones listed above. No extra brand names, no extra people, no watermark.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2063940529121902620) | 2026-06-08
+
+---
+
+### 🎴 例 866：奢华时尚广告海报
+
+![奢华时尚广告海报](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款高端时尚广告海报，展示了一位 {argument name="model description" default="年轻模特"} 自信地站在融入极简建筑背景的巨大 3D 字体前。奢华街头风格，超大款连帽衫和工装慢跑裤，单色系服装配色，高级面料质感，宽松剪裁，双手插兜，时尚编辑部风格姿势。干净的摄影棚环境，柔和的漫射光，细腻的阴影，超写实的面料褶皱，现代奢华品牌感，杂志级广告排版，背景中醒目的大型浮雕字体，极简配色方案，精致构图，高端街头服饰广告，时尚 Lookbook 封面，高端商业摄影，焦点清晰，全身照，居中构图，照片级真实感，电影级布光，深度与立体感，当代奢华时尚品牌风格，8k 细节。
+
+橙色版本
+
+奢华街头服饰广告海报，全身模特穿着 {argument name="outfit color" default="超大款焦橙色连帽衫和配套工装裤"}，站在拼写出醒目品牌名称的巨大白色 3D 字母前，极简建筑墙面，高级时尚编辑风格，干净的奢华美学，超大廓形，柔和的摄影棚灯光，逼真的阴影，高级棉质纹理，现代字体设计，奢华街头服饰广告，单色橙色造型，高端商业摄影，杂志封面排版，照片级真实感，超精细，8k。
+
+白色版本
+
+奢华时尚海报，展示了一位身穿全白超大款街头服饰套装的模特，包括连帽衫、T 恤、工装慢跑裤和运动鞋，站在巨大的白色 3D 字体前，极简单色环境，奢华品牌元素，时尚编辑部广告，干净的现代设计，柔和的自然摄影棚光线，高级工艺美学，照片级面料细节，精致构图，奢华街头服饰广告，时尚 Lookbook 封面，超写实，8k。
+
+负面提示词
+
+低分辨率，模糊，人体结构扭曲，多余的手指，糟糕的手部，肢体重复，背景杂乱，配饰过多，噪点图像，字体糟糕，曝光过度，曝光不足，水印，Logo 伪影，文字错误，脚部被裁切，卡通，插画，CGI 感，服装细节低，构图混乱。
+
+[English]
+A high-end fashion campaign poster featuring a {argument name="model description" default="young model"} standing confidently in front of gigantic 3D typographic letters integrated into a minimalist architectural backdrop. Luxury streetwear aesthetic, oversized hoodie and cargo joggers, monochromatic outfit color palette, premium fabric textures, relaxed fit, hands in pockets, editorial fashion pose. Clean studio environment with soft diffused lighting, subtle shadows, ultra-realistic fabric folds, modern luxury branding, magazine-quality advertising layout, large embossed typography dominating the background, minimalist color scheme, sophisticated composition, premium streetwear campaign, fashion lookbook cover, high-end commercial photography, sharp focus, full-body shot, centered composition, photorealistic, cinematic lighting, depth and dimensionality, contemporary luxury fashion branding, 8k detail.
+
+Orange Version
+
+Luxury streetwear campaign poster, full-body model wearing an {argument name="outfit color" default="oversized burnt-orange hoodie and matching cargo pants"}, standing in front of massive white 3D letters spelling a bold brand name, minimalist architectural wall, premium fashion editorial, clean luxury aesthetic, oversized silhouette, soft studio lighting, realistic shadows, premium cotton texture, modern typography design, luxury streetwear advertisement, monochromatic orange styling, high-end commercial photography, magazine cover layout, photorealistic, ultra detailed, 8k.
+
+White Version
+
+Luxury fashion poster featuring a model in an all-white oversized streetwear set, hoodie, t-shirt, cargo joggers and sneakers, standing against monumental white 3D typography, minimalist monochrome environment, luxury branding elements, editorial fashion campaign, clean modern design, soft natural studio lighting, premium craftsmanship aesthetic, photorealistic fabric detail, sophisticated composition, luxury streetwear advertisement, fashion lookbook cover, ultra realistic, 8k.
+
+Negative Prompt
+
+low resolution, blurry, distorted anatomy, extra fingers, bad hands, duplicate limbs, cluttered background, excessive accessories, noisy image, poor typography, overexposed, underexposed, watermark, logo artifacts, text errors, cropped feet, cartoon, illustration, CGI look, low-detail clothing, messy composition.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2063928106336047495) | 2026-06-08
+
+---
+
+### 🎴 例 876：时尚大片拼图拼贴画
+
+![时尚大片拼图拼贴画](../images/%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E6%8B%BC%E5%9B%BE%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端时尚大片拼贴海报。画面中心为全身写实人物主体，基于上传的面部照片生成，身着现代超大廓形 {argument name="clothing material" default="棉质"} 衬衫和剪裁利落的中性色长裤，并佩戴高级极简太阳镜。主人物身后，四个单色肖像面板如同拼图般排列——不规则的互锁形状无缝衔接。每个面板展示同一人物的不同表现力时尚姿势，均佩戴与面部角色风格相符的太阳镜（{argument name="sunglass style" default="复古护目镜、运动包裹式、大胆几何风、经典飞行员款"}）。干净的画廊风格白色背景，奢华杂志美学，构图考究，电影感黑白肖像，高级摄影棚布光，柔和的自然阴影，分层拼贴效果。超细腻皮肤纹理，写实面料垂坠感，焦点清晰，优雅极简。当代奢华品牌风格，编辑杰作，8K 分辨率，HDR。无文字，无排版，无 Logo，无水印。
+
+[English]
+High-end fashion editorial collage poster. A full-body photorealistic main subject centered in frame, based on an uploaded face photo, wearing a {argument name="clothing" default="modern oversized cotton shirt and sharp tailored trousers"} in {argument name="tones" default="neutral tones"}, plus {argument name="accessories" default="premium minimalist sunglasses"}. Behind the main figure, four monochrome portrait panels are arranged like a jigsaw puzzle assembly — irregular interlocking shapes that fit together seamlessly. Each panel shows the same person in different expressive fashion poses, all wearing sunglasses that match the face character's vibe (retro shield, sporty wraparound, bold geometric, classic aviator). Clean white gallery-style background, luxury magazine aesthetic, sophisticated composition, cinematic black-and-white portraits, premium studio lighting, soft natural shadows, layered collage effect. Ultra-detailed skin texture, realistic fabric drape, sharp focus, elegant minimalism. Contemporary luxury branding style, editorial masterpiece, 8K, HDR. No text, no typography, no logo, no watermark
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2063906805823184942) | 2026-06-08
+
+---
+
+### 🎴 例 877：极简哲学海报网格
+
+![极简哲学海报网格](../images/%E6%9E%81%E7%AE%80%E5%93%B2%E5%AD%A6%E6%B5%B7%E6%8A%A5%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精致的 2x2 网格，包含四张极简主义哲学墙面艺术海报，要求插画克制、排版留白充足，并呈现出安静的编辑风格。
+
+画布：正方形格式，四个相等的海报面板由干净的白色间隙分隔。三个面板使用暖米白色纸张纹理，右下角面板使用深炭黑色。整体风格冷静、高级、极简，适合室内装饰画和海报收藏。
+
+布局：精确的 2x2 排列，共 4 张海报。每张海报均使用大号高对比度衬线字体、充足的负空间、一行小字副标题、一条短水平线以及一个简单的象征性插画。
+
+海报 1，左上：米色背景。左上角为大号黑色衬线标题，内容为“{argument name="top left headline" default="SILENCE IS A ANSWER."}”，采用堆叠换行。下方是一条细水平线和一行小字：“Not every question deserves a reply.” 插画：底部为远处的米色山峦层叠，右下角为深黑色悬崖，悬崖边缘站着一个微小的孤独人影，右侧靠近边缘处有一个浅米色的太阳圆盘。
+
+海报 2，右上：米色背景。左上角为大号暖锈棕色衬线标题，内容为“{argument name="top right headline" default="STAY SOFT"}”。下方小字：“The world is hard enough already.” 添加一条短水平线。插画：中右侧背景为一个圆润的米色抽象色块，右下角为一个哑光白色圆形陶瓷花瓶，以及一根向上延伸的细黑植物茎，上面有 8 片黑叶。
+
+海报 3，左下：米色背景。左上角为大号黑色衬线标题，内容为“{argument name="bottom left headline" default="DON’T RUSH THE PROCESS."}”，分多行排列。下方是一条细水平线和一行小字：“Good things take time.” 插画：下半部分为柔和起伏的米色沙丘，一条蜿蜒的浅色小径通向地平线，右侧山丘后方露出一个焦橙色的太阳圆圈。
+
+海报 4，右下：深炭黑色背景。左上角为大号米色衬线标题，内容为“{argument name="bottom right headline" default="DISCIPLINE TODAY, FREEDOM TOMORROW."}”，分四行堆叠。下方是一条细米色水平线和一行小字：“The choice is yours.” 插画：右侧为一个高大的拱形门洞，散发着温暖的米色光芒，石阶通向拱门，楼梯顶部附近有一个精致的小树剪影。
+
+视觉风格：优雅的衬线字体，类似于经典的编辑海报设计；采用米色、浅褐色、黑色、锈橙色和炭灰色的柔和大地色调。带有轻微颗粒感、细腻的纸张纹理、扁平的极简形态、平衡的非对称性以及安静沉思的氛围。确保四张海报风格统一，构成一个连贯的合集。
+
+约束条件：必须使用 4 个海报面板。保持字体清晰易读。不要添加额外的引语、Logo、签名、边框、样机墙面、除第一张海报中那个微小人影外的人物，或任何装饰性杂物。
+
+[English]
+Goal: Create a refined 2x2 grid of four minimalist philosophical wall-art posters with restrained illustration, spacious typography, and a quiet editorial mood.
+
+Canvas: Square format, four equal poster panels separated by clean white gutters. Use warm off-white paper texture for three panels and deep charcoal black for the bottom-right panel. Overall style is calm, premium, minimalist, suitable for interior prints and poster collections.
+
+Layout: Exactly 4 posters in a 2-by-2 arrangement. Each poster uses large high-contrast serif typography, generous negative space, a tiny subtitle line, a short horizontal rule, and one simple symbolic illustration.
+
+Poster 1, top-left: Cream background. Large black serif headline in the upper-left reads “{argument name="top left headline" default="SILENCE IS A ANSWER."}” with stacked line breaks. Below it, a thin horizontal rule and small text: “Not every question deserves a reply.” Illustration: distant beige mountain layers across the bottom, a dark black cliff occupying the lower right, a tiny lone human silhouette standing on the cliff edge, and a pale beige sun disk near the right side.
+
+Poster 2, top-right: Cream background. Large warm rust-brown serif headline in the upper-left reads “{argument name="top right headline" default="STAY SOFT"}”. Small text beneath: “The world is hard enough already.” Add a short horizontal rule. Illustration: a rounded beige abstract blob in the center-right background, a matte white round ceramic vase at the lower right, and one thin black plant stem with exactly 8 black leaves emerging upward.
+
+Poster 3, bottom-left: Cream background. Large black serif headline in the upper-left reads “{argument name="bottom left headline" default="DON’T RUSH THE PROCESS."}” arranged on multiple lines. Below it, a thin horizontal rule and small text: “Good things take time.” Illustration: soft rolling beige sand-like hills filling the lower half, a winding pale path leading toward the horizon, and one burnt-orange sun circle partly sitting behind a hill on the right.
+
+Poster 4, bottom-right: Deep charcoal black background. Large cream serif headline in the upper-left reads “{argument name="bottom right headline" default="DISCIPLINE TODAY, FREEDOM TOMORROW."}” stacked on four lines. Below it, a thin cream rule and small text: “The choice is yours.” Illustration: on the right side, a tall arched doorway glowing with warm cream light, stone steps rising into the arch, and a small delicate tree silhouette near the top of the stairs.
+
+Visual style: Elegant serif typography similar to classic editorial poster design, muted earth palette of cream, beige, black, rust orange, and charcoal. Soft grain, subtle paper texture, flat minimal forms, balanced asymmetry, quiet contemplative atmosphere. Keep all four posters consistent as a cohesive collection.
+
+Constraints: Use exactly 4 poster panels. Keep typography crisp and legible. Do not add extra quotes, logos, signatures, frames, mockup walls, people beyond the single tiny silhouette in the first poster, or decorative clutter.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2063903778789790127) | 2026-06-08
+
+---
+
+### 🎴 例 880：未来感 Nike 运动服饰广告企划
+
+![未来感 Nike 运动服饰广告企划](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Nike%20%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端 Nike 时尚广告企划，全身 {argument name="gender" default="女性"} 街头服饰模特悬浮在半空中，动态舞蹈姿势，单膝抬起且双脚交叉，侧脸朝下，长编织马尾辫，超大款 {argument name="hoodie color" default="紫色"} 帽衫，黑色未来感工装裤，配有金属链条和绑带，紫色与银色 Nike Air Max 运动鞋，高级时装编辑风格，居中构图，简洁摄影棚背景，背景色为 {argument name="background color" default="单色活力紫渐变"}，发光的 3D 霓虹紫色光轨环绕模特，能量丝带穿梭于场景中，背景有大型垂直粗体排版，未来感图形设计元素，极简科技界面细节，奢华运动服饰广告美学，超写实摄影，超精细织物纹理，逼真的运动鞋细节，戏剧性柔和摄影棚光效，光泽反射，浅景深，商业产品广告，高端品牌海报设计，杂志封面级质量，完美人体结构，清晰对焦，电影级光效，体积光，高对比度，专业修图，获奖级时尚摄影，Octane 渲染，Unreal Engine 5，8k 分辨率，奢华运动企划，悬浮动态效果，纯净紫色调色板，现代未来感街头文化。负面提示词：低质量，模糊，多余肢体，多余手指，人体结构错误，面部扭曲，身体部位重复，脚部被裁切，文字伪影，水印，Logo 错误，服装变形，背景杂乱，色彩过饱和，噪点，运动模糊，画面外，鞋子渲染不佳，比例失调，业余摄影。长宽比：9:16（竖版海报）
+
+[English]
+Ultra-premium Nike fashion advertising campaign, full-body {argument name="gender" default="female"} streetwear model floating in mid-air, dynamic dance-inspired pose with one knee raised and feet crossed, side profile facing downward, long braided ponytail, oversized {argument name="hoodie color" default="purple"} hoodie, black futuristic cargo pants with metallic chains and straps, purple and silver Nike Air Max sneakers, high-fashion editorial styling, centered composition, clean studio background with {argument name="background color" default="monochromatic vibrant purple gradient"}, glowing 3D neon purple light trails swirling around the model, energy ribbons wrapping through the scene, large vertical bold typography in background, futuristic graphic design elements, minimal tech interface details, luxury sportswear campaign aesthetic, hyper-realistic photography, ultra-detailed fabric textures, realistic sneaker details, dramatic soft studio lighting, glossy reflections, shallow depth of field, commercial product advertising, premium brand poster design, magazine cover quality, perfect anatomy, sharp focus, cinematic lighting, volumetric glow, high contrast, professional retouching, award-winning fashion photography, octane render, unreal engine 5, 8k resolution, luxury sports campaign, floating motion effect, clean purple color palette, modern futuristic streetwear culture. Negative Prompt: low quality, blurry, extra limbs, extra fingers, bad anatomy, distorted face, duplicate body parts, cropped feet, text artifacts, watermark, logo errors, deformed clothing, messy background, oversaturated colors, noise, motion blur, out of frame, poorly rendered shoes, incorrect proportions, amateur photography. Aspect Ratio: 9:16 (Vertical Poster)
+```
+
+**来源：** [@Heisenberg](https://x.com/rovvmut_/status/2063890262758404498) | 2026-06-08
+
+---
+
+### 🎴 例 881：高考加油海报壁纸
+
+![高考加油海报壁纸](../images/%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E6%B5%B7%E6%8A%A5%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题" default="高考加油"}生成一张带祝笺仪式感的平面插画：画面上方保留大面积呼吸留白，左上角用小字号署名、短横线和印记形成轻声引入；中部以少量手写祝语或主题口号作为情绪转折；下部建立一个像印刷章戳与票据边框结合的主信息区，边框粗细不均、边缘带手工压印的毛边。主信息区内先读到超大、粗粝、有飞白的主题字形或主题符号，它以背景级规模铺开，部分被中央主题象征物遮挡；中央象征物用清晰线描和平涂色块塑造，姿态端正、正面稳定，附带少量主题派生细节，形成被祝福与加持的焦点。四周安排小图标、题跋短字、圆章和弧形细密符号，让信息像手工礼笺上的印记逐层展开，同时保持疏密有节奏。色彩从主题自身的材质、文化信号与情绪中提取：大面积使用高明度、清透、干净的底色作为纸面与空气，结构线和主字使用主题派生的清晰强调色，占比集中但不浑浊；中央主体用更完整的明暗层级和少量支撑色区分信息层，细节印记只用低面积点状色。整体情绪明亮、洁净、郑重又亲近，纹理是细腻纸纤维和轻微套印误差，不做厚重旧化、脏灰或烟雾感。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2063884566247723406) | 2026-06-08
+
+---
+
+### 🎴 例 887：高端产品营销海报提示词
+
+![高端产品营销海报提示词](../images/%E9%AB%98%E7%AB%AF%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 4:5 纵向比例的照片级真实感高端产品营销海报。
+产品：{argument name="product name" default="[产品名称]"}
+品牌风格：{argument name="brand style" default="[品牌 / 高端 / 奢华 / 科技 / 美妆 / 食品 / 饮品]"}
+主体：{argument name="subject" default="一位自信的模特在靠近镜头处手持或展示产品，产品处于清晰焦点，模特位于产品后方稍远处"}。使用强烈的透视角度，使产品呈现出强大、高端且具有主角般的气场。
+
+[English]
+Create a photorealistic premium product campaign poster in a 4:5 vertical aspect ratio.
+Product: {argument name="product name" default="[PRODUCT NAME]"}
+Brand style: {argument name="brand style" default="[BRAND / PREMIUM / LUXURY / TECH / BEAUTY / FOOD / DRINK]"}
+Main subject: {argument name="subject" default="A confident model holding or presenting the product close to the camera, with the product in sharp focus and the model slightly behind it"}. Use a strong perspective angle so the product feels powerful, premium, and hero-like.
+```
+
+**来源：** [@Sarah](https://x.com/AIwithSarah_/status/2063871161998745877) | 2026-06-08
+
+---
+
+### 🎴 例 895：时尚广告海报框架
+
+![时尚广告海报框架](../images/%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5%E6%A1%86%E6%9E%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为 {argument name="brand" default="[BRAND]"} 的虚构品牌创作一张高端时尚广告海报。使用垂直的编辑类电商布局，展示模特身穿 {argument name="outfit" default="[OUTFIT]"} 的全身照。在模特身后添加超大号裁剪排版、结构化的广告 UI 模块、CTA 按钮、底部类别导航、季节性标签以及精致的杂志风格艺术指导。保持所有文本简洁、意图明确且易于阅读。
+
+[English]
+Create a high-end fashion campaign poster for a fictional brand named {argument name="brand" default="[BRAND]"}. Use a vertical editorial e-commerce layout with a full-body model wearing {argument name="outfit" default="[OUTFIT]"}. Add oversized cropped typography behind the model, structured campaign UI blocks, CTA button, bottom category navigation, seasonal label, and polished magazine-style art direction. Keep all text clean, intentional, and readable.
+```
+
+**来源：** [@GPT Imagine](https://x.com/gpt_image_2/status/2063838275194990633) | 2026-06-08
+
+---
+

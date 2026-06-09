@@ -1500,3 +1500,119 @@ Constraints: Use no photorealism, no glossy 3D, no extra mascots beyond the sing
 
 ---
 
+### 🧸 例 823：3D 风格化运动时尚肖像
+
+![3D 风格化运动时尚肖像](../images/3D%20%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%BF%90%E5%8A%A8%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超细节的 {argument name="art style" default="风格化 3D 肖像"}，主角为 {argument name="subject" default="一位留着蓬松金色卷发的美丽年轻女性"}，身着 {argument name="clothing" default="最新的曼城主队球衣"}，以高级时装模特的姿势自信地交叉双臂站立。佩戴蓝色椭圆形太阳镜，皮肤无瑕，五官精致，嘴唇光泽，妆容淡雅，搭配金色珠宝配饰，表情自信。无纹身。巨大的曼城俱乐部标志填满背景，深蓝色渐变背景，高端运动时尚美学。低多边形几何艺术风格与照片级真实渲染相结合，细节锐利，电影级摄影棚灯光，景深效果，超逼真纹理，奢华编辑摄影，居中构图，对称框架，8K 分辨率，面部细节丰富，充满活力的曼城蓝配色，专业肖像，ArtStation 热门作品，大师级品质。
+
+[English]
+Ultra-detailed {argument name="art style" default="stylized 3D portrait"} of a {argument name="subject" default="beautiful young woman with voluminous curly blonde hair"}, wearing the {argument name="clothing" default="latest Manchester City home jersey"}, standing confidently with arms crossed in a high-fashion model pose. Blue oval sunglasses, flawless skin, elegant facial features, glossy lips, subtle makeup, gold jewelry accessories, confident expression. No tattoos. Large Manchester City club logo filling the background, dark blue gradient backdrop, premium sports fashion aesthetic. Low-poly geometric art style mixed with photorealistic rendering, sharp details, cinematic studio lighting, depth of field, ultra realistic textures, luxury editorial photography, centered composition, symmetrical framing, 8K resolution, highly detailed face, vibrant Manchester City blue colors, professional portrait, trending on ArtStation, masterpiece quality.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2064028227111465203) | 2026-06-08
+
+---
+
+### 🧸 例 897：工业包装设计展示图
+
+![工业包装设计展示图](../images/%E5%B7%A5%E4%B8%9A%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%B1%95%E7%A4%BA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用附带的图片，为 {argument name="product name" default="[产品名称]"} 的包装创建一个专业的工业包装设计展示图。
+
+中心展示一个 3D 渲染的主图，要求材质逼真、摄影棚柔光照明，并具备商业级的成品质量。
+在主图周围环绕展示技术视图：正面、侧面、顶面、底面、角度透视图以及平面展开图。
+
+包含结构构造草图、折痕线、接缝细节，以及以毫米为单位的尺寸标注箭头。
+使用手写风格的标注展示材质和饰面（如哑光、亮面印刷、塑料、纸张、玻璃等）。
+添加色卡、逼真的产品插图以及柔和的阴影。
+
+背景应类似于 {argument name="background style" default="干净的素描纸"}，将逼真渲染与铅笔草图叠加效果相结合。
+现代工业设计美学，超高细节，适合作品集展示。
+
+[English]
+Using the attached image, create a professional industrial packaging design illustration sheet for the packaging of {argument name="product name" default="[PRODUCT NAME]"}
+
+Feature a centered hero 3D render with realistic materials, soft studio lighting, and commercial-grade finish quality.
+Surround the hero render with technical views: front, side, top, bottom, angled perspective, and flat layout.
+
+Include structural construction sketches, fold lines, seam details, and dimension arrows with measurements in millimeters.
+Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) using handwritten-style annotations.
+Add color swatches, realistic product illustrations, and subtle shadows.
+
+Background should resemble {argument name="background style" default="clean sketchbook paper"}, combining realistic rendering with pencil sketch overlays.
+Modern industrial design aesthetic, ultra-detailed, portfolio-ready presentation.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2063836540518973552) | 2026-06-08
+
+---
+
+### 🧸 例 906：DIY 婴儿机器人玩具概念图
+
+![DIY 婴儿机器人玩具概念图](../images/DIY%20%E5%A9%B4%E5%84%BF%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%A9%E5%85%B7%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为素材来源，将拍摄的手工用品转化为一张欢快的日式婴儿玩具概念图，展示一款 DIY 机器人玩具。不要仅仅复制照片；应根据可见材料推断出一个成品玩具，并将其呈现为精美的家长向说明海报。
+
+目标：创建一张可爱的概念图，标题为 {argument name="main headline" default="たっちできる やさしいロボちゃん"}，展示一个由参考图中的纸杯、牛奶盒、小型饮料瓶和彩色胶带制成的手工站立机器人婴儿玩具。
+
+画布与风格：垂直 4:5 教育海报，温暖的奶油色背景，柔和的马卡龙色调，圆角边框，手绘星星和涂鸦，友好的托儿所/婴儿产品设计。采用简洁的日本杂志排版，配以大型俏皮的粉色和绿色标题字体。
+
+主要玩具设计：利用参考材料构建一个核心机器人：牛奶盒身体、纸杯头部、纸杯手臂、小瓶子腿部、彩色胶带边缘和关节。给它一个简单的笑脸、红润的脸颊、带有黄色爱心的蓝色方形胸板、彩色按钮圆点以及稳固的宽脚。使其看起来安全、柔软、手工制作，并适合在成人监督下供婴儿玩耍。
+
+添加图像与布局：左侧包含 1 张完整的机器人大图，右上角包含 1 张小型生活方式风格面板（展示婴儿和家长与机器人玩耍的场景），以及 1 张标注图，解释每个身体部位由什么材料组成。模糊或简化人脸。
+
+包含的日文文本部分：
+- 标题下方的副标题：{argument name="subtitle" default="身近な材料でつくる 赤ちゃん向けDIYおもちゃ"}
+- 右上角的年龄徽章：{argument name="age range" default="対象月齢：10か月〜18か月（保護者と一緒に）"}
+- 两个对话气泡：一个说明机器人即使被触摸或轻轻摇晃也很稳固，另一个说明它适合练习站立。
+- 标记为「材料」的部分，包含 4 个项目： 「紙コップ（白）8〜10個」, 「ミルクパック（1L）1本」, 「小型ボトル（飲むヨーグルトなど）2〜4本」, 「カラーテープ（布テープやビニールテープ）」.
+- 标记为「つくり方（4ステップ）」的部分，包含 4 个编号步骤：1 身体，2 头部，3 脚和腿，4 连接手臂并完成。
+- 标记为「つくりのイメージ（材料と役割）」的图示部分，带有指向 5 个部位的箭头：头部纸杯、手部纸杯、身体牛奶盒、脚部小瓶子、足部杯子。
+- 标记为「あそび方」的部分，包含 4 个要点：触摸/站立支撑、推倒并重新立起、轻柔滚动或移动、观察平衡。
+- 标记为「ねらい（育ちのサポート）」的部分，包含 4 个要点：视觉、触觉、手部动作、因果关系理解。
+- 标记为「安全ポイント（必ず守りましょう）」的部分，包含 6 个简短的图标/注意事项：不要使用小零件、固定瓶盖、覆盖切割边缘、使用柔软材料、确保脚部稳固、必须在成人监护下玩耍。
+
+约束条件：保持海报视觉上的可爱与实用，如同真实的 DIY 打印讲义。以参考材料作为机器人和材料缩略图的基础，但将地板背景替换为简洁的设计概念图。避免添加无关材料，避免额外的步骤或部分，并确保所有日文文本清晰易读。
+
+[English]
+Using REFERENCE_0 as the source materials, transform the photographed craft supplies into a cheerful Japanese baby-toy concept sheet for a DIY robot toy. Do not simply reproduce the photo; infer a finished toy made from the visible materials and present it as a polished parent-facing instruction poster.
+
+Goal: Create a cute concept sheet titled {argument name="main headline" default="たっちできる やさしいロボちゃん"}, showing a handmade standing robot baby toy made from the paper cups, milk carton, small drink bottles, and colored tape in the reference.
+
+Canvas and style: Vertical 4:5 educational poster, warm cream background, soft pastel colors, rounded boxes, hand-drawn stars and doodles, friendly nursery/baby-product design. Use a clean Japanese magazine layout with large playful pink and green headline lettering.
+
+Main toy design: Build one central robot from the reference materials: milk carton body, paper-cup head, paper-cup arms, small-bottle legs, colorful tape edges and joints. Give it a simple smiling face, rosy cheeks, a blue square chest panel with a yellow heart, colored button dots, and stable wide feet. Make it look safe, soft, handmade, and suitable for supervised baby play.
+
+Added imagery and layout: Include exactly 1 large hero image of the completed robot on the left, 1 small lifestyle photo-style panel on the upper right showing a baby and parent playing with the robot, and 1 labeled diagram panel explaining which material forms each body part. Blur or simplify any human faces.
+
+Text sections to include in Japanese:
+- Subtitle under the headline: {argument name="subtitle" default="身近な材料でつくる 赤ちゃん向けDIYおもちゃ"}
+- Age badge in the upper right: {argument name="age range" default="対象月齢：10か月〜18か月（保護者と一緒に）"}
+- Two speech bubbles: one saying the robot is sturdy even if touched or gently shaken, and one saying it is fun for standing practice.
+- Materials section labeled 「材料」 with exactly 4 listed items: 「紙コップ（白）8〜10個」, 「ミルクパック（1L）1本」, 「小型ボトル（飲むヨーグルトなど）2〜4本」, 「カラーテープ（布テープやビニールテープ）」.
+- Making section labeled 「つくり方（4ステップ）」 with exactly 4 numbered steps: 1 body, 2 head, 3 feet and legs, 4 attach arms and finish.
+- Diagram section labeled 「つくりのイメージ（材料と役割）」 with arrows to exactly 5 parts: head paper cup, hand paper cups, body milk carton, feet small bottles, foot cups.
+- Play section labeled 「あそび方」 with exactly 4 bullet ideas: touching/standing support, knocking it down and setting it back up, gentle rolling or movement, observing balance.
+- Development aims section labeled 「ねらい（育ちのサポート）」 with exactly 4 bullets: seeing, touching, hand movement, cause-and-effect understanding.
+- Safety section labeled 「安全ポイント（必ず守りましょう）」 with exactly 6 short icons/cautions: do not use small parts, secure caps, cover cut edges, use soft materials, make stable feet, always play with an adult watching.
+
+Constraints: Keep the poster visually cute and practical, like a real printable DIY handout. Use the reference materials as the basis for the robot and material thumbnails, but replace the floor-photo setting with the clean designed concept sheet. Avoid adding unrelated materials, avoid extra steps or extra sections, and keep all Japanese text legible.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2063818484786802724) | 2026-06-08
+
+---
+

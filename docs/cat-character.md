@@ -2253,3 +2253,306 @@ smartphone camera, extreme low-angle ground-level perspective, 24mm wide-angle l
 
 ---
 
+### 🧍 例 806：沙漠 ATV 越野肖像
+
+![沙漠 ATV 越野肖像](../images/%E6%B2%99%E6%BC%A0%20ATV%20%E8%B6%8A%E9%87%8E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[主体] 参考图片 1 和图片 2。
+
+[姿势与表情]
+坐在广阔沙质沙漠中央的一辆黑色四轮摩托车（ATV）上，面向前方。双手轻握车把，头部微微向右倾斜，带着含蓄而自信的微笑。
+
+[服装]
+身穿简约的黑色背心和紧身黑色打底裤或骑行短裤。这是一种适合沙漠活动的运动风且火辣的旅行造型。
+
+[发型与妆容细节]
+长发随风自然垂落在肩部和背部。妆容采用自然的底妆，在强烈的沙漠阳光下显得健康，并搭配清透的裸色唇妆。
+
+[光影与方向]
+强烈的正午阳光从主体后方高处照射。顶部留有淡淡的光晕，使肤色和沙丘的曲线熠熠生辉，同时在摩托车和主体下方投下深而短的阴影。正面无直射光。
+
+[质感与氛围]
+干燥的米色沙质纹理与 ATV 硬朗光滑的黑色塑料和金属材质形成鲜明对比。整体以单色和中性色调（白色、米色、棕色、黑色）为主，营造出一种狂野、自由的异域风情。
+
+[胶片与相机设置]
+使用 f/5.6、1/1600s、ISO 100 以及 {argument name="focal length" default="24mm"} 广角镜头拍摄。从略低于视平线的位置取景，以容纳动态的 ATV 和雄伟的山脉。深景深确保了从前景的轮胎印到远处的山脉轮廓都清晰可见。
+
+[背景元素]
+布满轮胎印的广阔、宁静的沙质沙漠。主体后方是巨大的土石山脉，部分山峰隐约覆盖着积雪。淡灰蓝色的天空点缀着薄云，极大地增强了空间感。
+
+[签名] 右下角带有小型的 Threads 标志，并以白色草书写有“CHAse”。
+
+[English]
+[인물] 이미지 1, 이미지 2참조
+
+[인물의 포즈 및 표정]
+넓은 모래 사막 한가운데에서 검은색 사륜 바이크(ATV)에 올라타 정면을 바라보며 앉아 있습니다. 양손으로 바이크의 핸들을 가볍게 잡은 채, 고개를 우측으로 살짝 기울여 카메라를 향해 은은하고 자신감 넘치는 미소를 지으며 여유로운 분위기를 자아냅니다.
+
+[인물 의상]
+상의로는 심플한 디자인의 검정색 탱크탑을 입고 있습니다. 하의로는 타이트한 블랙 레깅스(또는 바이커 쇼츠)를 매치했습니다. 사막 액티비티에 어울리는 스포티하면서도 핫한 트래블 룩을 연출했습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+자연스럽게 가르마를 타서 풀어헤친 긴 머리카락이 바람에 날리며 어깨와 등 뒤로 부드럽게 흘러내리고 있습니다. 메이크업은 사막의 강한 햇살 아래서도 건강해 보이는 내추럴한 피부 표현을 베이스로 하여, 과하지 않은 누드 톤의 립으로 깔끔하고 담백하게 마무리했습니다.
+
+[조명 및 빛 방향]
+하늘 높이 떠 있는 한낮의 강렬한 태양광이 인물의 후면에서 내리쬐고 있습니다. 약간의 하얗게 바랜 듯한 잔광이 화면 상단에 감돌며, 햇빛을 받아 인물의 스킨톤과 모래밭의 굴곡이 화사하게 빛나는 동시에 바이크와 인물의 아래쪽으로 짙고 짧은 그림자가 형성됩니다. 인물의 정면에는 주광원이 없으며 그림자가 졌습니다.
+
+[질감과 색감 무드]
+사막 특유의 건조하고 메마른 베이지색 모래 질감과 사륜 바이크의 단단하고 매끄러운 검은색 플라스틱 및 금속 질감이 생생하게 대조됩니다. 전체적으로 화이트, 베이지, 브라운, 블랙의 모노톤과 뉴트럴 톤이 지배적이며, 황량하면서도 와일드하고 자유로운 이국적인 무드를 자아냅니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+조리개 f/5.6, 셔터 스피드 1/1600초, ISO 100, 초점 거리 {argument name="초점 거리" default="24mm"} 광각 렌즈를 사용하여 촬영되었습니다. 사륜 바이크의 역동적인 형태와 뒤편으로 웅장하게 솟은 산맥의 스케일을 한 화면에 시원하게 담아내기 위해, 정면 눈높이보다 약간 낮은 위치에서 포착했습니다. 광각 렌즈의 깊은 피사계 심도를 적용하여 전경의 모래 바퀴 자국부터 원경의 거대한 산등성이 라인까지 전체적으로 왜곡 없이 선명하고 깔끔하게 초점을 맞추었습니다.
+
+[배경 요소 (옵션)]
+바퀴 자국과 굴곡이 가득한 넓고 평화로운 모래 사막 지대입니다. 인물의 뒤편으로는 흙과 거친 암석으로 이루어진 거대하고 장엄한 산맥이 가로로 길게 장벽처럼 솟아 있으며, 산봉우리 일부에는 희미하게 만년설이 덮여 있습니다. 하늘은 구름이 얇게 퍼져 있는 연한 회청색 빛을 띠며 사막의 광활한 공간감을 극대화합니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다.
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2064126725601321376) | 2026-06-08
+
+---
+
+### 🧍 例 847：动漫职场女性姿势参考图
+
+![动漫职场女性姿势参考图](../images/%E5%8A%A8%E6%BC%AB%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张简洁的动漫风格现代职场女性角色姿势参考图，在纯白色背景上展示同一个角色的 6 种全身姿势。
+
+画布：4:3 横向构图，高分辨率数字插画，留白充足，无边框，无标题文字，无标签，除极细微的接地阴影外无其他阴影。
+
+角色：一位年轻的日本职场女性，拥有 {argument name="hair color" default="深棕色"} 下巴长度的波波头，配有柔和的刘海，身材苗条，中等身高，气质干练。面部特征刻意模糊或不作具体刻画，但身体、头发和服装保持线条清晰。
+
+服装：米色修身西装外套，袖口卷起或略带褶皱，白色百褶衬衫，海军蓝九分锥形裤，黑色低跟鞋，佩戴小巧的手表。确保所有姿势中的服装保持一致。
+
+布局：将 6 个独立的全身绘图排列在 3 列 2 行的平衡布局中，在白色背景上均匀分布。
+
+姿势数量及描述：
+1. 左上：正面中性站姿，双臂自然下垂，双脚并拢，姿态沉稳专业。
+2. 中上：坐在简单的黑色细金属腿椅子上，双腿交叉，双手整齐地放在膝盖上，略微从正面视角观察。
+3. 右上：向前行走姿势，一只脚迈步向前，一只手臂在腰部附近弯曲，步伐自信且具商务感。
+4. 左下：奔跑或匆忙姿势，身体前倾，一只膝盖向后抬起，一只拳头举在胸前，头发随动作摆动。
+5. 中下：站立讲解姿势，一只手臂抬起，食指向上指，另一只手臂自然放松，双脚分开。
+6. 右下：思考姿势，一只手托住下巴，另一只手臂横在身前，呈现轻微的重心偏移站姿。
+
+视觉风格：精致的漫画/动漫角色设计，清晰的墨线勾勒，柔和的赛璐璐阴影，自然的比例，浅米色与海军蓝的商务配色，清晰的衣褶，头发上有细微的高光，具备专业的角色参考图质感。
+
+约束条件：所有 6 种姿势必须展示完全相同的角色，确保所有人物完整可见，除坐姿中的椅子外，避免添加额外道具，无背景场景，无文字，无水印，不得有额外姿势或重复。
+
+[English]
+Goal: Create a clean anime-style character pose sheet for a modern office woman, showing the same character in exactly 6 full-body poses on a plain white background.
+
+Canvas: Landscape 4:3 composition, high-resolution digital illustration, plenty of white space, no borders, no title text, no labels, no shadows beyond very subtle grounding.
+
+Character: A young adult Japanese businesswoman with {argument name="hair color" default="dark brown"} chin-length bob hair with soft bangs, slim build, average height, refined professional appearance. Her facial features are intentionally blurred or left indistinct, while the body, hair, and outfit remain sharply drawn.
+
+Outfit: Beige fitted blazer with rolled or slightly ruched sleeves, white pleated blouse, navy ankle-length tapered trousers, black low-heel pumps, and a small wristwatch. Keep the outfit consistent across all poses.
+
+Layout: Arrange exactly 6 separate full-body drawings in a balanced 3-column by 2-row pose sheet, evenly spaced on the white background.
+
+Pose count and descriptions:
+1. Top left: Front-facing neutral standing pose, arms relaxed at sides, feet together, calm professional stance.
+2. Top center: Seated pose on a simple black chair with thin metal legs, legs crossed, hands resting neatly in the lap, viewed slightly from the front.
+3. Top right: Walking forward pose, one foot stepping ahead, one arm bent near the waist, confident businesslike stride.
+4. Bottom left: Running or hurried pose, body leaning forward, one knee lifted back, one fist raised near the chest, hair swinging with motion.
+5. Bottom center: Standing explanation pose, one arm raised with index finger pointing upward, other arm relaxed, feet apart.
+6. Bottom right: Thinking pose, one hand near the chin, opposite arm folded across the body, slight contrapposto stance.
+
+Visual style: Polished manga/anime character design, clean ink outlines, soft cel shading, natural proportions, light beige and navy business color palette, crisp clothing folds, subtle highlights in the hair, professional character-reference-sheet feel.
+
+Constraints: Show exactly the same character in all 6 poses, keep all figures fully visible, avoid extra props except the single chair in the seated pose, no background scenery, no text, no watermark, no additional poses or duplicates.
+```
+
+**来源：** [@みゆ｜50歳主婦がAIマンガでKindle出版に挑戦](https://x.com/miyu_mangaAI/status/2063979131470328133) | 2026-06-08
+
+---
+
+### 🧍 例 883：RPG 角色状态卡
+
+![RPG 角色状态卡](../images/RPG%20%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+参照画像をベースに、正方形の高品質RPGキャラクターカードを作成してください。
+
+参照画像が実写の場合は、人物の顔立ち、髪型、表情、雰囲気、アクセサリーを反映してください。参照画像がアニメやイラストの場合は、キャラクターデザイン、髪型、色、表情、ポーズ、雰囲気を参考にし、元絵の完全再現ではなくオリジナルRPGキャラクターとして再構成してください。
+
+参照画像がバストアップの場合は、顔立ち、髪型、表情、雰囲気、アクセサリーを優先し、体型、立ち姿、衣装、ポーズはプロンプト指定に基づいて自然に補完してください。参照画像が全身の場合は、顔立ち、髪型、雰囲気に加えて、体型バランス、立ち姿、全身シルエットも反映してください。
+
+魔法カードや召喚カードではなく、ファンタジーRPGの仲間紹介カード、ステータスカード、プロフィールUI風にしてください。白、ゴールド、淡いピンク、ライトブルーを基調にした、明るく上品な高級RPGカードデザインにしてください。
+
+カード中央に、参照画像の人物やキャラクターをもとにした、{argument name="年齢" default="22"}歳の成人した日本人の女性RPGキャラクターを配置してください。セミロングの黒髪、バラの花飾り、上品で魅力的なモデル体型、バランスの良い立ち姿、柔らかく印象的な顔立ち、落ち着いた自信のある表情を反映し、子供っぽくせず、大人向けで洗練された雰囲気にしてください。
+
+人物の魅力は露出ではなく、RPGステータス、スキル、属性アイコン、上品な光の演出で表現してください。体型バランスは「シルエット」、髪型は「ヘアスタイル」、顔立ちや表情は「チャーム」、雰囲気は「オーラ」としてカードUIに反映してください。魔法演出は控えめな光、粒子、装飾フレームにしてください。
+
+衣装は現代ファッションとRPG衣装を融合したデザインにしてください。赤を基調に、上品なトップス、ショートジャケットまたはロングコート、立体感のあるスカートまたはスリムなボトムス、繊細な装飾、サテンやレザー調素材を組み合わせてください。過度な露出は避け、品のある魅力を重視してください。
+
+日本語中心の書き換え可能なプロフィールUIをカード内に配置してください。
+
+名前：{argument name="名前" default="REINA"}
+称号：{argument name="称号" default="静かな輝きをまとう人"}
+クラス：オーラスタイリスト
+魅力：上品な立ち姿 / 印象的な目元 / 黒髪とピンクのアクセント
+スキル：Grace Line / Charm Aura / Sakura Focus
+ひとこと：自然体の魅力が、いちばん強い
+
+英語UIとして、LV.22、CHARM、STYLE、AURA、HAIR、BALANCE、SPECIALなどを使用してください。カード下部にステータスゲージ、属性アイコン、スキル枠、レアリティ装飾を配置してください。
+
+背景は明るいファンタジー王国、冒険者ギルド、空中都市、光の神殿、または青空と白い石造建築を感じる明るいファンタジーRPG世界にしてください。背景は控えめにし、キャラクターとUIを見やすくしてください。
+
+全体は、RPGキャラクターイラスト、プロフィールカード、ステータス画面、トレーディングカードが融合した、明るく高級感のあるキャラクターカードにしてください。
+
+避ける：暗い魔法カード、召喚カード感、ホラー、悪魔的演出、過度な露出、子供っぽさ、安っぽいゲームUI、読みにくい長文、実在ブランドロゴ、元画像の丸写し。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2063883848786833626) | 2026-06-08
+
+---
+
+### 🧍 例 901：PPT 武器专家角色设定图
+
+![PPT 武器专家角色设定图](../images/PPT%20%E6%AD%A6%E5%99%A8%E4%B8%93%E5%AE%B6%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款拟人化的演示应用创作一张宽幅动漫概念艺术角色设定图，即一位手持 Slides 主题轨道炮的未来感“PPT 武器专家”少女。使用简洁的白色技术设计布局，搭配细灰色面板线条、黑色排版以及鲜艳的 PowerPoint 橙色点缀。
+
+画布：超宽横向角色设定图，比例约为 2:1，白色/灰白色背景，清晰的编辑项目排版，高分辨率动漫线稿，带有浅灰色阴影和局部橙色高光。
+
+左侧主体部分：{argument name="character name" default="PPT 武器专家"} 的大型全身插画，一位身材苗条的年轻动漫女性，留着长长的飘逸白/银色头发，皮肤白皙，一只眼睛上戴着显眼的橙色赛博护目镜/单片眼镜，表情冷静严肃。她穿着分层的白色未来感外套/斗篷，配有技术绑带、小型的橙色 PowerPoint 风格“P”标志、带有橙色细节的白色鞋子以及轻型机械配件。她手持一把巨大的透明白灰色科幻轨道炮，外形如同一个演示 Slides 组，带有橙色 UI 面板、小型“P”图标、玻璃面板、轨道和机械握把。在武器旁添加橙色注释，写着“PPT DEVICE - SLIDE RAILGUN”。
+
+左侧排版与个人资料：在最左侧，放置一个醒目的垂直日语大标题，使用黑色和橙色大字：{argument name="headline text" default="一枚で、世界を変える。"}。下方配有小型英文文本“PPT WEAPON SPECIALIST”。包含一个标记为“// PROFILE”的紧凑个人资料块，共 8 行：NAME: UNKNOWN, CODE NAME: --, AGE: ?, HEIGHT: 158cm, WEIGHT: 49kg, NATIONALITY: UNKNOWN, SPECIALTY: INFORMATION MANIPULATION, WEAPON: PPT DEVICE。在底部附近添加一小句：“ONE SLIDE, INFINITE IMPACT。”左下角有一个小型橙色 PowerPoint 风格方形图标、“CONFIDENTIAL FILE”以及“PPS-001”。
+
+右侧技术面板：在右半部分精确排列 5 个带标签的部分。第 1 部分是“FACE DETAIL”，包含 3 张面部图像：一张角色侧视并佩戴橙色护目镜的大特写，以及两张较小的堆叠特写，展示橙色眼睛/护目镜机制。第 2 部分是“TURNAROUND”，包含精确 4 个小型全身视图：正面、背面、四分之三侧面和侧/背面视图。第 3 部分是“WEAPON DESIGN”，包含一张轨道炮的长侧视图图表。第 4 部分是其下方的武器动作行，包含精确 4 个小缩略图，分别标记为“01 / IDLE”、“02 / LAYOUT LOCK”、“03 / SLIDE LINK”和“04 / TRANSITION SHOT”，展示枪支处于静止状态、锁定布局模式、Slides 链接发光以及半透明的橙色发射/转场冲击波。第 5 部分是一个小型侧边栏，包含“COLOR PALETTE”，内有精确 5 个方形色块：白色、浅灰色、中灰色、黑色/深灰色和橙色；下方是一个“KEYWORD”列表，包含精确 4 个日语单词：構造, 整列, 誘導, 変革。
+
+视觉风格：精致的日本动漫概念设计，细致干净的墨线，浅水彩灰色阴影，高科技 UI 注释，时尚机能风，示意图式项目排版，极简背景，精确间距。仅在强调、UI 标记、护目镜、图标和关键标题字符处使用橙色。使轨道炮呈现透明感并具有演示软件主题，带有可见的 Slides 面板和橙色界面块。
+
+约束：保持构图文字丰富但简洁易读。不要添加额外字符。不要在计数的各部分之外添加额外缩略图。无水印。保留指定的日语标题和关键词文本，同时保持所有其他标签为英文。
+
+[English]
+Goal: Create a wide anime concept-art character sheet for a personified presentation app, a futuristic “PPT weapon specialist” girl wielding a slide-themed railgun. Use a clean white technical-design layout with thin gray panel lines, black typography, and vivid PowerPoint orange accents.
+
+Canvas: Ultra-wide horizontal character sheet, about 2:1 aspect ratio, white/off-white background, crisp editorial presentation-board composition, high-resolution anime line art with pale gray shading and selective orange highlights.
+
+Main left section: Large full-body illustration of {argument name="character name" default="PPT Weapon Specialist"}, a slender young anime woman with very long flowing white/silver hair, pale skin, one visible orange cybernetic visor/monocle over the eye, and a calm serious expression. She wears a layered white futuristic coat/cape, technical straps, small orange PowerPoint-like “P” markings, white shoes with orange details, and light mechanical accessories. She holds an oversized transparent white-and-gray sci-fi railgun shaped like a presentation slide deck, with orange UI panels, small “P” icons, glassy panels, rails, and mechanical grips. Add an orange annotation beside the weapon reading “PPT DEVICE - SLIDE RAILGUN.”
+
+Left typography and profile: At the far left, place a bold vertical Japanese headline in large black and orange characters: {argument name="headline text" default="一枚で、世界を変える。"}. Under it, small English text reads “PPT WEAPON SPECIALIST.” Include a compact profile block labeled “// PROFILE” with 8 lines: NAME: UNKNOWN, CODE NAME: --, AGE: ?, HEIGHT: 158cm, WEIGHT: 49kg, NATIONALITY: UNKNOWN, SPECIALTY: INFORMATION MANIPULATION, WEAPON: PPT DEVICE. Add a small sentence near the bottom: “ONE SLIDE, INFINITE IMPACT.” Bottom-left has a small orange PowerPoint-style square icon, “CONFIDENTIAL FILE,” and “PPS-001.”
+
+Right-side technical panels: Arrange exactly 5 labeled sections on the right half. Section 1 is “FACE DETAIL,” containing 3 face images: one wide close-up portrait of the character looking sideways with orange visor, plus two smaller stacked close-ups showing the orange eye/visor mechanism. Section 2 is “TURNAROUND,” containing exactly 4 small full-body views: front, back, three-quarter side, and side/back view. Section 3 is “WEAPON DESIGN,” containing one long side-view diagram of the railgun. Section 4 is a weapon action row beneath it with exactly 4 small thumbnails labeled “01 / IDLE,” “02 / LAYOUT LOCK,” “03 / SLIDE LINK,” and “04 / TRANSITION SHOT,” showing the gun at rest, locked layout mode, slide-link glow, and a translucent orange firing/transition blast. Section 5 is a small sidebar with “COLOR PALETTE” containing exactly 5 square swatches: white, light gray, medium gray, black/dark gray, and orange; below it a “KEYWORD” list with exactly 4 Japanese words: 構造, 整列, 誘導, 変革.
+
+Visual style: Delicate Japanese anime concept design, thin clean ink lines, pale watercolor-gray shadows, high-tech UI annotations, fashion techwear, schematic presentation-board layout, minimal background, precise spacing. Use orange only for emphasis, UI marks, visor, icons, and key headline character. Make the railgun transparent and presentation-software themed, with visible slide panels and orange interface blocks.
+
+Constraints: Keep the composition text-heavy but clean and readable. Do not add extra characters. Do not add extra thumbnails beyond the counted sections. No watermark. Preserve the Japanese headline and keyword text exactly as specified while keeping all other labels in English.
+```
+
+**来源：** [@FUJI / Presentation designer](https://x.com/yoshifujidesign/status/2063825655150813397) | 2026-06-08
+
+---
+
+### 🧍 例 902：韩系豪华汽车人像
+
+![韩系豪华汽车人像](../images/%E9%9F%A9%E7%B3%BB%E8%B1%AA%E5%8D%8E%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用我上传的面部照片作为身份参考，并保持 99%–100% 的面部相似度。请勿更改面部结构、肤色、种族、面部比例、眼睛、鼻子、嘴唇、下颌线、颧骨或自然的皮肤纹理。创建一个 {argument name="subject" default="年轻女性 (23 岁)"}，妆容采用细腻光泽的抖音风妆感，皮肤呈现真实透亮感，搭配柔和的蜜桃色腮红、自然睫毛和珊瑚红唇色。严格匹配参考图中的 {argument name="hair style" default="黑色中分长直发"}、{argument name="clothing" default="米白色廓形卫衣"}、珍珠项链、美甲、姿势、拍摄角度、构图、豪华汽车内饰以及日光照明。主体坐在豪华车内，一只手伸向镜头，具有强烈的近景透视感，直视镜头，表情冷静自信。专业单反摄影，24–35mm 镜头，RAW 格式真实感，超清晰细节，真实的毛孔、发丝、织物纹理，浅景深，干净的 HDR 色调，现代韩系奢华美学，8K 商业时尚画质。去除所有文字、Logo、水印和 AI 伪影。负面提示词：动漫、漫画、卡通、CGI、插画、美颜滤镜、塑料感皮肤、身份融合、面部变形、新面部特征、户外场景、花朵、日落、镜头光晕、多余的手指、畸形解剖、模糊、水印、Logo、文字。 --ar 9:16 --style raw --quality high --photorealistic --identity preservation maximum.
+
+[English]
+Use my uploaded face photo as the only facial identity reference and preserve the exact same person with 99–100% facial similarity. Do not change facial structure, skin tone, ethnicity, facial proportions, eyes, nose, lips, jawline, cheekbones, or natural skin texture. Create a {argument name="subject" default="young woman (23)"} with subtle glossy Douyin-style makeup, luminous realistic skin, soft peach blush, natural lashes, and coral-red lips. Match the reference image’s {argument name="hair style" default="long straight black center-parted hair"}, {argument name="clothing" default="cream-white oversized sweatshirt"}, pearl necklace, manicure, pose, camera angle, composition, luxury car interior, and daylight lighting exactly. The subject is seated inside a luxury vehicle, extending one hand toward the camera with strong foreground perspective, direct eye contact, and a calm confident expression. Professional DSLR photography, 24–35mm lens, RAW realism, ultra-sharp details, realistic pores, hair strands, fabric textures, shallow depth of field, clean HDR color grading, modern Korean luxury aesthetic, 8K commercial fashion quality. Remove all text, logos, watermarks, and AI artifacts. Negative prompt: anime, manga, cartoon, CGI, illustration, beauty filters, plastic skin, identity blending, face morphing, new facial features, outdoor scenery, flowers, sunset, lens flare, extra fingers, bad anatomy, blur, watermark, logo, text. --ar 9:16 --style raw --quality high --photorealistic --identity preservation maximum.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2063823858193613182) | 2026-06-08
+
+---
+
+### 🧍 例 915：粉色衬衫海滩快照
+
+![粉色衬衫海滩快照](../images/%E7%B2%89%E8%89%B2%E8%A1%AC%E8%A1%AB%E6%B5%B7%E6%BB%A9%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[主体] 参考图像 1 和图像 2。
+
+[姿势与表情]
+
+站在海滩草地上，直视镜头。强劲的海风吹拂着头发自然地掠过脸庞，眼神平静且充满情感，透过发丝凝视前方。
+
+[服装]
+
+身穿一件超大版型的 {argument name="shirt color" default="浅粉色"} 长袖衬衫，下摆带有湿痕。纽扣解开，自然露出部分臀部和腹部，内搭简约的黑色比基尼，打造出自然而大胆的海滩造型。
+
+[发型与妆容细节]
+
+长款哑光红棕色秀发，自然蓬松。未经刻意打理的发丝遮住脸庞，增添了一丝神秘感。妆容清透自然，强调干净的肤色和自然的唇色，不使用人工色彩。
+
+[光影与方向]
+
+来自右后方的柔和、微妙的午后自然阳光。这种逆光突显了发丝的红色调，并在草地上投射出棕榈树和主体的长影，营造出明亮而宁静的正面光感。
+
+[质感与氛围]
+
+湿润的衬衫面料、绿草地和粗糙的棕榈树干形成鲜明对比。浅粉色、黑色、绿色和蓝色的和谐搭配，营造出度假胶片快照特有的舒适、清新且自由的情感氛围。
+
+[胶片与相机设置]
+
+平视角度的中全景镜头，取景至大腿处。捕捉日常瞬间的情感快照风格。适中的景深使主体和棕榈树保持清晰，同时将背景中的大海和海岸线进行柔焦处理。
+
+[背景元素]
+
+海滨长廊，草地绿意盎然，主体旁有一棵巨大的棕榈树干。平静的海浪、远处的船只、白色字母雕塑以及草地上独特的蓝色动物雕像，共同营造出异国情调的海滩场景。
+
+[签名] 右下角有小型的 Threads 标志，并用白色草书写有 "CHAse"。 {argument name="aspect ratio" default="4:5 比例"}
+
+[English]
+[인물] 이미지 1, 이미지 2 참조.
+
+[인물의 포즈 및 표정]
+
+해변가 잔디밭 위에 똑바로 서서 카메라 정면을 바라보고 있는 포즈입니다. 강한 바닷바람에 머리카락이 얼굴을 가로질러 자연스럽게 흩날리고 있으며, 머리카락 사이로 카메라를 가만히 응시하는 차분하고 감성적이며 아련한 표정을 짓고 있습니다.
+
+[인물 의상]
+
+물에 살짝 젖어 하단에 군데군데 짙은 얼룩이 남은 오버사이즈 핏의 {argument name="셔츠 색상" default="연한 핑크색"} 긴소매 셔츠를 입고 있습니다. 셔츠 단추를 길게 풀어헤쳐 한쪽 골반과 복부가 자연스럽게 드러나며, 셔츠 안에는 심플한 블랙 비키니를 착용하여 내추럴하면서도 과감한 비치웨어를 연출했습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+자연스러운 볼륨감의 길고 매트한 레드브라운 컬러 헤어스타일입니다. 바람에 정돈되지 않은 채 얼굴 전면을 자유롭게 덮은 머리카락이 인물의 이목구비를 신비롭게 가려주며, 메이크업은 인위적인 색조를 배제하고 깨끗한 피부 톤과 차분한 입술을 강조한 아주 투명하고 자연스러운 내추럴 룩입니다.
+
+[조명 및 빛 방향]
+
+늦은 오후의 은은하고 부드럽게 자연 태양광이 인물의 우측 후면에서 비추고 있습니다. 이 반역광 조명이 머리카락의 붉은 톤을 화사하게 살려주고 야자수와 인물의 긴 그림자를 잔디밭 위로 드리우며, 인물의 전면에는 과도한 그늘 없이 화사하고 평온한 광원 환경을 만들어줍니다.
+
+[질감과 색감 무드]
+
+셔츠의 젖은 천 질감과 잔디밭의 푸릇푸릇한 질감, 거친 야자수 기둥의 표면이 생생하게 대비됩니다. 연한 핑크색과 수영복의 검은색, 잔디의 초록색, 바다의 푸른색이 조화를 이루며, 전체적으로 필름 스냅숏 특유의 아늑하면서도 청량하고 자유로운 휴양지 특유의 감성적인 무드를 자아냅니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+인물의 허벅지까지 포착하는 정면 눈높이의 미디엄 풀 숏입니다. 일상적인 순간을 내추럴하게 포착한 감성적인 스냅숏 스타일이며, 적당한 피사계 심도를 사용하여 전면의 인물과 야자수 기둥은 선명하게 표현하고 뒤편으로 멀어지는 바다와 해안선 풍경은 부드럽고 자연스럽게 아웃포커싱했습니다.
+
+[배경 요소 (옵션)]
+
+푸른 잔디가 깔린 해안가 산책로이며 인물 바로 옆에는 커다란 야자수 나무 기둥이 우뚝 서 있습니다. 뒤편으로는 잔잔한 파도가 치는 바다와 멀리 떠 있는 작은 배가 보이고, 해변을 따라 하얀색 알파벳 조형물들과 독특한 파란색 동물 동상이 잔디 위에 배치되어 이국적인 해변 풍경을 이룹니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다. {argument name="비율" default="4:5비율"}
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2063790110504792486) | 2026-06-08
+
+---
+
