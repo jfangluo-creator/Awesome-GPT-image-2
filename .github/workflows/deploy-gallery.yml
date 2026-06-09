@@ -27,10 +27,9 @@ jobs:
 
       - name: Fix images symlink for CI
         run: |
-          # site/public/images 是 Windows 绝对路径的符号链接，CI 上会断链
-          # 删掉后重新链接到仓库内的 ../../images
-          rm -f site/public/images
+          rm -rf site/public/images
           ln -s ../../images site/public/images
+          ls -la site/public/images | head -3
 
       - name: Setup Node
         uses: actions/setup-node@v4
