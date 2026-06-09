@@ -25,12 +25,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fix images for CI (symlink broken on Ubuntu)
-        run: |
-          rm -rf site/public/images
-          cp -r ../../images site/public/images
-          echo "Images copied: $(ls site/public/images | wc -l) files"
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
