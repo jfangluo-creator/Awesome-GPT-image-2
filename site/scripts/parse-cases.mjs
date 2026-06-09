@@ -139,13 +139,10 @@ function extractTags(title, titleEn) {
   return matched;
 }
 
-const MD_FILES = [
-  { file: 'docs/cases-001-100.md', headingLevel: '##' },
-  { file: 'docs/cases-101-200.md', headingLevel: '###' },
-  { file: 'docs/cases-201-300.md', headingLevel: '###' },
-  { file: 'docs/cases-301-400.md', headingLevel: '###' },
-  { file: 'docs/cases-401-500.md', headingLevel: '###' },
-];
+const MD_FILES = fs.readdirSync(path.join(ROOT, 'docs'))
+  .filter(f => /^cases-\d+-\d+\.md$/.test(f))
+  .sort()
+  .map((f, i) => ({ file: `docs/${f}`, headingLevel: i === 0 ? '##' : '###' }));
 
 function extractCategory(headerLine) {
   const chars = [...headerLine];
