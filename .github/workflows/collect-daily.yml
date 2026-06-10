@@ -52,5 +52,13 @@ jobs:
 
       - name: Push changes
         run: git push
-        # 脚本已 commit（--no-push），这里只需 push
-        # 如果脚本因无新案例提前退出，git push 会输出 "Everything up-to-date"
+
+      - name: Trigger Gallery Deploy
+        if: success()
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/deploy-gallery.yml/dispatches \
+            -d '{"ref":"main"}'
+          echo "✅ Deploy workflow triggered"
