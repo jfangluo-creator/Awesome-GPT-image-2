@@ -1403,3 +1403,270 @@ Constraints: Keep exactly 4 panels, exactly 5 speech balloons total, exactly 1 h
 
 ---
 
+### 🎬 例 947：第 3 张分镜图提示词：
+请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16 宫格分镜图」
+
+![第 3 张分镜图提示词：
+请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16 宫格分镜图」](../images/%E7%AC%AC%203%20%E5%BC%A0%E5%88%86%E9%95%9C%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E8%AF%B7%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E9%AB%98%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%81%E9%AB%98%E6%B8%85%E6%99%B0%E5%BA%A6%E7%9A%84%E3%80%8C%E6%B1%89%E5%94%90%E5%AE%AB%E5%BB%B7%E8%88%9E%20%E9%9C%93%E8%A3%B3%E7%BE%BD%E8%A1%A3%E8%88%9E%20%C2%B7%2016%20%E5%AE%AB%E6%A0%BC%E5%88%86%E9%95%9C%E5%9B%BE%E3%80%8D.jpg)
+
+**Prompt:**
+
+```text
+请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16宫格分镜图」。
+
+【整体定位】
+这不是普通古风写真，也不是单纯舞蹈教学图，而是一张融合「汉唐宫廷舞」「霓裳羽衣舞」「真实宫苑空间」「电影分镜感」「16步动作编排」的高完成度分镜海报。
+```
+
+**来源：** [@松果先森](https://x.com/songguoxiansen/status/2064341073015816277) | 2026-06-09
+
+---
+
+### 🎬 例 971：闪耀漫画歌手页面
+
+![闪耀漫画歌手页面](../images/%E9%97%AA%E8%80%80%E6%BC%AB%E7%94%BB%E6%AD%8C%E6%89%8B%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页精致、闪耀的少女风格黑白漫画，展示一位害羞的年轻歌手独自在明亮的排练室或工作室中，营造出闪烁、感性的氛围和电影般的分镜。
+
+画布：竖版漫画页面，黑白灰度，比例约为 3:4，带有细黑色外边框，清晰的黑色分镜间距，高细节网点纸阴影，柔和的光晕，每个分镜中都布满了无数星光般的闪烁和尘埃微粒。
+
+布局：使用 4 个分镜。分镜 1 为页面顶部三分之一处的宽幅横向全景。分镜 2 为中左侧分镜，半身近景。分镜 3 为左下侧分镜，手部紧握麦克风的特写。分镜 4 为右侧纵向长分镜，横跨中下两行，展示带有对话气泡的情感丰富的主角。
+
+主体细节：主角为 {argument name="character name" default="一位害羞的少女歌手"}，留着 {argument name="hair style" default="带有柔和刘海的短碎波波头"}，身材纤细，眼帘低垂，睫毛湿润，面带微红，表情脆弱且充满歉意。她穿着一件超大号浅色 T 恤，一侧肩膀露出深色吊带背心肩带。她双手握着手持麦克风靠近嘴边，仿佛在唱歌或道歉。保持她略微弓背、向内收缩的姿势，传达出尴尬和脆弱感。
+
+分镜细节：
+- 分镜 1：宽幅高角度俯瞰宽敞的镜面舞蹈室或玻璃墙练习室。反光的地板砖，墙上有明亮的窗户或镜子，背景中有模糊的剪影和倒影。女孩独自站在中心，画面中显得很小，手持麦克风。在她附近添加音乐文字：{argument name="humming text" default="・・・・・・・♪"}。
+- 分镜 2：中左侧女孩胸部以上近景，麦克风靠近嘴边。她的脸部大部分被一个位于面部中心的纯灰色矩形遮挡块覆盖。在左侧添加小型音乐/声音文字：{argument name="soft sound effect" default="♪…っ"}。背景中充满了明亮的闪光。
+- 分镜 3：左下侧双手紧握麦克风手柄的特写。手指纤细、紧张，刻画细腻。在左侧添加日语拟声词： 「ギュッ」。强烈的闪光覆盖在衬衫和手上。
+- 分镜 4：右侧纵向长分镜，女孩头部到腰部的特写，脸部可见，低头，眼神含泪且充满歉意。她双手紧紧抓着麦克风。在右上角放置一个垂直椭圆形的对话气泡，内含日语文本 {argument name="speech bubble text" default="あ、また…ごめんなさい！"}。在右下角添加一个小型的 MOOTOON 水印/Logo。
+
+视觉风格：高质量灰度漫画插画，优雅的细线条艺术，闪耀的少女漫画特效，柔和的雾状高光，反光的玻璃和地板表面，精致的发丝，富有情感的特写，宽阔的孤独感与亲密的局部（手/脸）特写之间形成戏剧性的对比。保持图像仅为单色，除灰度色调外无其他颜色。
+
+限制条件：恰好 4 个漫画分镜；恰好 1 个对话气泡；在对话气泡之外恰好有 3 个可见的声音/音乐文字元素： 「・・・・・・・♪」、「♪…っ」和「ギュッ」。仅在中间左侧的分镜中包含灰色矩形面部遮挡块。避免出现额外角色、额外的对话气泡，或除指定元素和 MOOTOON 水印之外的任何额外可读文本。
+
+[English]
+Goal: Create a monochrome manga page in a delicate, glittering shoujo style, showing a shy young singer alone in a luminous rehearsal room or studio, with a sparkling, emotional atmosphere and cinematic paneling.
+
+Canvas: Vertical manga page, black-and-white grayscale, approximately 3:4 aspect ratio, thin black outer border, crisp black panel gutters, high-detail screentone shading, soft bloom, countless star-like sparkles and dust motes across every panel.
+
+Layout: Use exactly 4 panels. Panel 1 is a wide horizontal establishing shot across the full top third of the page. Panel 2 is the middle-left panel, a close bust shot. Panel 3 is the bottom-left panel, a close-up of hands gripping a microphone. Panel 4 is a tall right-side panel spanning the middle and bottom rows, showing the emotional main character with a speech bubble.
+
+Subject details: The main character is {argument name="character name" default="a shy teenage girl singer"}, with {argument name="hair style" default="short messy bob hair with soft bangs"}, a slim build, downcast eyes, wet-looking lashes, faint blush, and a fragile apologetic expression. She wears an oversized light T-shirt with a visible dark camisole or tank strap at one shoulder. She holds a handheld microphone with both hands, close to her mouth, as if singing or apologizing. Keep her posture slightly hunched and inward, conveying embarrassment and vulnerability.
+
+Panel details:
+- Panel 1: Wide high-angle view of a spacious mirrored dance studio or glass-walled practice room. Reflective floor tiles, bright windows or mirrors on the walls, faint silhouettes and reflections in the background. The girl stands alone near the center, very small in frame, holding the microphone. Add musical text near her: {argument name="humming text" default="・・・・・・・♪"}.
+- Panel 2: Middle-left close-up of the girl from chest up, holding the microphone near her mouth. Her face is mostly covered by a plain opaque gray rectangular censor block centered over the face. Add small music/sound text on the left: {argument name="soft sound effect" default="♪…っ"}. The background is filled with bright sparkles.
+- Panel 3: Bottom-left close-up of both hands tightly squeezing the microphone handle. Fingers are slender, tense, and carefully drawn. Add Japanese sound effect text at the left: 「ギュッ」. Strong sparkles overlay the shirt and hands.
+- Panel 4: Tall right panel close-up of the girl from head to waist, face visible and tilted down with teary, apologetic eyes. She clutches the microphone with both hands. Place a vertical oval speech bubble in the upper right containing the Japanese text {argument name="speech bubble text" default="あ、また…ごめんなさい！"}. Add a small MOOTOON watermark/logo in the bottom-right corner.
+
+Visual style: High-quality grayscale manga illustration, elegant thin line art, luminous shoujo sparkle effects, soft foggy highlights, reflective glass and floor surfaces, delicate hair strands, emotional close-ups, dramatic contrast between wide isolation and intimate hand/face panels. Keep the image monochrome only, with no color except grayscale tones.
+
+Constraints: Exactly 4 manga panels; exactly 1 speech bubble; exactly 3 visible sound/music text elements outside the speech bubble: 「・・・・・・・♪」, 「♪…っ」, and 「ギュッ」. Include the gray rectangular face block only in the middle-left panel. Avoid extra characters, extra speech bubbles, or additional readable text beyond the specified elements and the MOOTOON watermark.
+```
+
+**来源：** [@MOOTOON【公式】](https://x.com/officialmootoon/status/2064293942078972397) | 2026-06-09
+
+---
+
+### 🎬 例 974：懒惰水豚的广告工作流漫画
+
+![懒惰水豚的广告工作流漫画](../images/%E6%87%92%E6%83%B0%E6%B0%B4%E8%B1%9A%E7%9A%84%E5%B9%BF%E5%91%8A%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一部单页日本漫画风格的教学漫画，由一只懒散但睿智的水豚担任旁白，介绍如何使用 3×3 图像网格配合 GPT 和 seedance 生成广告视频。画面需呈现出精致的社交媒体科普漫画质感，包含暖色调灯光、细腻的动物渲染以及手绘边框。
+
+画布：竖向 4:5 比例，约 768×960 像素，奶油色纸张背景，带有细黑色外边框。使用暖棕褐色调、柔和阴影、电影感插画、半写实水豚毛发、漫画对话气泡以及清晰易读的日语排版。
+
+主角：一只体型圆润的大水豚，毛色呈棕褐色，睡眼惺忪，表情放松且略带自鸣得意，长着小小的深色爪子。水豚扮演着悠闲广告策略师的角色。可选名称：{argument name="character name" default="懒惰水豚策略师"}。
+
+布局：严格使用 6 个漫画区域：顶部 1 个大型主图面板，下方 2×2 网格排列 4 个小型教学面板，底部 1 个宽幅结尾面板。
+
+主图面板：水豚坐在昏暗舒适办公室的木桌前，一只爪子托着下巴，面前放着一台打开的银色笔记本电脑。桌上需包含 4 件清晰可见的物品：一个贴有「やる気ゼロ。」（毫无干劲）标签的白色马克杯、一部黑色智能手机、一本贴有「今日もやらない」（今天也不干）标签并画有水豚涂鸦的螺旋笔记本，以及右侧的一个棕色皮包。左侧添加一个夸张的白色漫画尖刺气泡，内含粗体文字：{argument name="burst quote" default="これ、地味にすごいやつやん…！"}（这玩意儿，意外地厉害啊……！）。主图面板右侧放置一张贴好的米色参考海报，标题为「引用元ポスト(要約)」（引用帖摘要），主标题为「GPT5.5 × seedance 架空広告の作り方」（GPT5.5 × seedance 虚拟广告制作方法）。海报包含 9 张缩略图，呈 3×3 网格排列：红色跑车、运动鞋、香水瓶、汉堡、豪华手表、度假泳池、咖啡杯、桌上的智能手机、热带行李箱/海滩场景。网格下方展示 4 个简短的日语编号步骤：创建 3×3 图像网格、输入 GPT 转换为提示词、结合图像与提示词生成视频、使用 #higgsfield 和 MCP 进行变体创作。
+
+教学面板 1：左上角小面板，带有蓝色圆形数字「1」和标题「何が便利か」（有什么方便的）。展示水豚胸部以上，表情沉思且不以为然。包含一个对话气泡：「3×3をまとめてGPTに食わせるから、一貫性のあるプロンプトがサクッとできる。」（把 3×3 的图一起喂给 GPT，就能快速生成一致性强的提示词。）底部添加一个小示意图：一个微小的 3×3 色彩网格箭头指向标有「プロンプト(設計図)」（提示词/设计图）的文档图标。添加小标题「1枚ずつ考えるより手戻り減るで。」（比一张张想省事多了。）
+
+教学面板 2：右上角小面板，带有蓝色圆形数字「2」和标题「初心者が真似するなら」（新手如何模仿）。水豚举起一根手指，仿佛在给出建议。包含对话气泡：「まずは3×3で好きなジャンルの画像を集めてみる。無料素材や自作でOK。」（先收集 3×3 张你喜欢的类别的图片。免费素材或自制都可以。）右侧展示 3 个垂直堆叠的图标及箭头：标有「集める」（收集）的 3×3 网格、标有「プロンプト化(GPT)」（提示词化）的大脑图标，以及标有「動画生成(seedance)」（视频生成）的播放按钮。
+
+教学面板 3：左下角小面板，带有蓝色圆形数字「3」和标题「注意点」（注意事项）。水豚表情严肃且困倦地竖起两根手指。对话气泡：「権利・商用利用はちゃんと確認やで。素材の利用規約と、生成物の使いみちは自己責任。」（版权和商用权限要确认清楚。素材的使用条款和生成物的使用方式需自负盈亏。）底部包含 3 个带有标签的警告图标：黄色警告三角形「権利確認」（版权确认）、文档图标「規約チェック」（条款检查）、锁图标「自己責任」（自负盈亏）。
+
+教学面板 4：右下角小面板，带有蓝色圆形数字「4」和标题「小さく試す方法」（小规模尝试的方法）。水豚靠在面板边缘，冷静地解释。对话气泡：「いきなり全額を狙わなくてええ。3×3→1本だけ出してみる。それを見て微調整。小さく回して学ぶのがいちばん早い。」（不用一上来就追求完美。先从 3×3 产出 1 条视频。观察后再微调。小步快跑学习最快。）右侧绘制一个包含 4 个步骤和箭头的循环工作流：「作る(3×3)」（制作）、「出す(1本)」（产出）、「見る(反応)」（观察）、「調整(改善)」（调整）。
+
+结尾面板：底部宽幅面板。水豚瘫在桌子上，闭着眼睛，极度懒散，配有微小的打鼾文字「ふぅ…」（呼……）。左侧大字：{argument name="closing line" default="今日もやらないけど、ここだけ試すならアリ。"}（今天也不干，但如果只试这一步的话还可以。）添加一个小想法气泡：「動いたもん勝ち…ワイは昼寝や。」（动起来就赢了……我还是午睡吧。）右侧放置一张贴好的黄色便利贴清单，标题为「まとめ」（总结），包含 4 个未勾选的项目：「3×3で設計図を作る」（用 3×3 制作设计图）、「自動で量産できる」（可自动量产）、「小さく回して学ぶ」（小步快跑学习）、「今日もやらない(大事)」（今天也不干，重点），外加一个爪印标记。
+
+视觉风格：细腻的半写实水豚，漫画/教学布局，温暖的办公室灯光，柔和的米色阴影，富有表现力的日语字体，蓝色编号徽章，手绘墨水轮廓，轻微的纸张纹理，幽默但专业的社交媒体科普美学。
+
+限制：所有日语文字必须清晰且位于指定位置。严格使用 6 个面板、9 个海报缩略图、4 个桌面物品、面板 2 中的 3 个图标、面板 3 中的 3 个警告图标以及面板 4 中的 4 个工作流步骤。无照片级真实人类，无额外面板，无水印，不得用英文替换可见的日语标签。
+
+[English]
+Goal: Create a single-page Japanese manga-style instructional comic about using a 3×3 image grid with GPT and seedance to generate advertising videos, narrated by a lazy but wise capybara. Make it look like a polished social media explainer comic with warm lighting, detailed animal rendering, and hand-drawn panel borders.
+
+Canvas: Vertical 4:5 page, about 768×960 px, cream paper background with thin black outer border. Use a warm sepia-brown palette, soft shadows, cinematic illustration, semi-realistic capybara fur, manga speech bubbles, and clean readable Japanese typography.
+
+Main character: A large chubby capybara with tan-brown fur, sleepy half-closed eyes, relaxed smug expression, and small dark paws. The capybara acts like a laid-back advertising strategist. Optional name: {argument name="character name" default="lazy capybara strategist"}.
+
+Layout: Use exactly 6 comic areas: 1 large hero panel at the top, 4 smaller instructional panels in a 2×2 grid underneath, and 1 wide closing panel at the bottom.
+
+Hero panel: The capybara sits at a wooden desk in a dim cozy office, one paw under its chin, in front of an open silver laptop. On the desk include exactly 4 visible desk items: a white mug labeled 「やる気ゼロ。」, a black smartphone, a spiral notebook labeled 「今日もやらない」 with a tiny capybara doodle, and a brown leather satchel at the right. Add a dramatic white spiky manga burst on the left with bold text: {argument name="burst quote" default="これ、地味にすごいやつやん…！"}. On the right side of the hero panel place a pinned beige reference poster titled 「引用元ポスト(要約)」 and main headline 「GPT5.5 × seedance 架空広告の作り方」. The poster contains exactly 9 thumbnail images in a 3×3 grid: red sports car, sneaker, perfume bottle, burger, luxury wristwatch, resort pool, coffee cup, smartphone on desk, tropical suitcase/beach scene. Under the grid, show four short numbered Japanese steps explaining: create images in a 3×3 grid, feed them to GPT to convert into a prompt, combine images plus prompt to generate video, and create variations with #higgsfield and MCP.
+
+Instruction panel 1: Top-left small panel with blue circle number 「1」 and title 「何が便利か」. Show capybara from the chest up, thoughtful and unimpressed. Include one speech bubble saying 「3×3をまとめてGPTに食わせるから、一貫性のあるプロンプトがサクッとできる。」 Add a small visual diagram at the bottom: a tiny 3×3 color grid arrow to a document icon labeled 「プロンプト(設計図)」. Add small caption 「1枚ずつ考えるより手戻り減るで。」
+
+Instruction panel 2: Top-right small panel with blue circle number 「2」 and title 「初心者が真似するなら」. Capybara raises one finger like giving advice. Include a speech bubble: 「まずは3×3で好きなジャンルの画像を集めてみる。無料素材や自作でOK。」 On the right show exactly 3 vertically stacked icons with arrows: a 3×3 grid labeled 「集める」, a brain labeled 「プロンプト化(GPT)」, and a play button labeled 「動画生成(seedance)」.
+
+Instruction panel 3: Bottom-left small panel with blue circle number 「3」 and title 「注意点」. Capybara holds up two fingers with a serious sleepy expression. Speech bubble: 「権利・商用利用はちゃんと確認やで。素材の利用規約と、生成物の使いみちは自己責任。」 Along the bottom include exactly 3 warning icons with labels: yellow warning triangle 「権利確認」, document 「規約チェック」, lock 「自己責任」.
+
+Instruction panel 4: Bottom-right small panel with blue circle number 「4」 and title 「小さく試す方法」. Capybara leans on the panel edge, explaining calmly. Speech bubble: 「いきなり全額を狙わなくてええ。3×3→1本だけ出してみる。それを見て微調整。小さく回して学ぶのがいちばん早い。」 On the right draw a circular workflow with exactly 4 steps and arrows: 「作る(3×3)」, 「出す(1本)」, 「見る(反応)」, 「調整(改善)」.
+
+Closing panel: Wide bottom panel. Capybara lies sprawled on the desk, eyes closed, extremely lazy, with tiny snore text 「ふぅ…」. Large text on the left: {argument name="closing line" default="今日もやらないけど、ここだけ試すならアリ。"}. Add a small thought bubble: 「動いたもん勝ち…ワイは昼寝や。」 On the right place a taped yellow sticky-note checklist titled 「まとめ」 with exactly 4 unchecked items: 「3×3で設計図を作る」, 「自動で量産できる」, 「小さく回して学ぶ」, 「今日もやらない(大事)」, plus a paw-print mark.
+
+Visual style: Detailed semi-realistic capybara, manga/comic instructional layout, warm office lighting, soft beige shadows, expressive Japanese lettering, blue numbered badges, hand-drawn ink outlines, slight paper texture, humorous but professional social media explainer aesthetic.
+
+Constraints: Keep all Japanese text legible and in the locations described. Use exactly 6 panels, exactly 9 poster thumbnails, exactly 4 desk items, exactly 3 icons in panel 2, exactly 3 warning icons in panel 3, and exactly 4 workflow steps in panel 4. No photorealistic humans, no extra panels, no watermark, no English replacement for the visible Japanese labels.
+```
+
+**来源：** [@今日もやらないAI副業](https://x.com/OssanMarmot/status/2064274158746321176) | 2026-06-09
+
+---
+
+### 🎬 例 983：动漫风格：巨石营救喜剧场景
+
+![动漫风格：巨石营救喜剧场景](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%EF%BC%9A%E5%B7%A8%E7%9F%B3%E8%90%A5%E6%95%91%E5%96%9C%E5%89%A7%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满动感的全身动漫/漫画风格插画，展现一个喜剧奇幻戏剧场景，主角 {argument name="main character name" default="Hana"} 在一块极其巨大的岩石下苦苦支撑，而其他人拒绝或未能提供帮助。
+
+画布：竖构图 2:3，背景为简洁的白色，采用低角度透视，使角色看起来高大且具有英雄感，巨石顶部被图像上边缘裁切。
+
+主体与数量：准确展示 5 个生物主体：4 名人类角色和 1 只猫。人类 1 是中心位置的运动型年轻女性，留着凌乱的黑色短发，身穿黑色短款上衣、蓝色飞行员夹克、深色高腰短裤并配有链条饰品、大腿绑带、黑色短袜以及超大号蓝黑配色运动鞋；她双腿分开站立，双臂完全举起，手掌抵住头顶上方一块巨大的裂纹石块。人类 2 是一名身材高大的金发年轻男子，站在她右侧，双臂交叉，神情放松且不为所动，身穿鼠尾草绿夹克，内搭芥末黄衬衫，穿着带有链条的棕色工装裤和粗犷的绿棕色运动鞋。人类 3 是左下角的一名紫发小女孩，身穿蓝色牛仔套装，一边大笑或指责，一边指向中心位置的女性。人类 4 是右下角的一名深色头发年轻男子，身穿蓝色夹克和深色长裤，同样指向中心位置的女性。主体 5 是一只位于两名主要成年人之间底部中央的暹罗猫，奶油色皮毛，耳朵、口鼻部、爪子和卷曲的尾巴颜色较深，拥有明亮的蓝色眼睛，嘴巴张开，发出戏剧性的喵叫声。
+
+构图：中心女性和金发男子从鞋子到肩膀占据了画面主体；他们的脸部被柔和的矩形模糊块覆盖，仿佛被刻意审查。两名较小的侧面角色脸部也有模糊矩形。巨石巨大、呈深灰褐色，质感粗糙、布满裂纹且看起来非常沉重，周围有细小的碎石落下。中心女性明显在用力支撑，而金发男子则悠闲地袖手旁观。
+
+文本内容：添加 2 个手写/对话文本元素。左侧靠近支撑女性的位置，手写文字写着：“救命 Zack，我们要死啦！！”并有一条指向她的小箭头。右上角靠近金发男子的位置，有一个白色对话气泡，写着：“我才不帮她”。
+
+视觉风格：高细节当代动漫插画，线条清晰，具有绘画感的阴影，时尚的街头服饰，富有表现力的肢体语言，夸张的低角度人体结构，清爽的白色负空间，微妙的地面阴影，以及幽默的戏剧性基调。中心女性的夹克使用 {argument name="jacket color" default="blue"}，头顶的石块使用 {argument name="boulder size" default="enormous"}。
+
+约束：保持 4 名人类、1 只猫、2 个文本元素和 1 块巨石。不要添加背景环境、额外道具、额外的对话气泡、标志或水印。
+
+[English]
+Goal: Create a dynamic full-body anime/manga illustration of a comedic fantasy-drama scene featuring {argument name="main character name" default="Hana"} struggling under an absurdly huge boulder while others refuse or fail to help.
+
+Canvas: Vertical 2:3 composition on a clean white background, low-angle perspective that makes the characters look tall and heroic, with the top of the giant boulder cropped by the upper edge of the image.
+
+Subjects and count: Show exactly 5 living subjects: 4 human characters and 1 cat. Human 1 is the central athletic young woman with short messy black hair, wearing a cropped black top, blue bomber jacket, dark high-waisted shorts with chain accessories, thigh strap, black socks, and oversized blue-and-black sneakers; she stands with legs apart and both arms fully raised, palms pressed against a massive cracked stone boulder above her head. Human 2 is a tall blond young man standing to her right, arms crossed, relaxed and unimpressed, wearing a sage-green jacket over a mustard yellow shirt, brown cargo pants with a chain, and rugged green-brown sneakers. Human 3 is a small purple-haired girl at the far lower left, wearing a blue denim outfit and pointing toward the central woman while laughing or accusing. Human 4 is a dark-haired young man at the far lower right, wearing a blue jacket and dark pants, also pointing toward the central woman. Subject 5 is a Siamese-like cat centered near the bottom between the two main adults, cream fur with dark ears, muzzle, paws, and curled tail, bright blue eyes, mouth open in a dramatic meow.
+
+Composition: The central woman and the blond man dominate the frame from shoes to shoulders; their faces are covered by soft rectangular blur blocks as if intentionally censored. The two smaller side characters also have blurred face rectangles. The boulder is enormous, dark gray-brown, rough, cracked, and heavy-looking, with small falling pebbles around it. The central woman is visibly straining, while the blond man remains smugly idle.
+
+Text content: Add exactly 2 speech/handwritten text elements. On the left near the straining woman, handwritten text says: “Help Zack, we’re gonna die!!” with a small pointer line aimed toward her. On the upper right near the blond man, a white speech bubble says: “I’m not helping her”.
+
+Visual style: High-detail contemporary anime illustration with clean ink lines, painterly shading, fashionable streetwear, expressive body language, exaggerated low-angle anatomy, crisp white negative space, subtle ground shadows, and a humorous dramatic tone. Use {argument name="jacket color" default="blue"} for the central woman’s jacket and {argument name="boulder size" default="enormous"} for the stone overhead.
+
+Constraints: Keep exactly 4 humans, exactly 1 cat, exactly 2 text elements, and exactly 1 giant boulder. Do not add a background environment, extra props, extra speech bubbles, logos, or watermarks.
+```
+
+**来源：** [@Cartoonverse AI](https://x.com/CartoonverseAi/status/2064261867602665684) | 2026-06-09
+
+---
+
+### 🎬 例 985：多时代电影级 FPV 分镜脚本
+
+![多时代电影级 FPV 分镜脚本](../images/%E5%A4%9A%E6%97%B6%E4%BB%A3%E7%94%B5%E5%BD%B1%E7%BA%A7%20FPV%20%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+8ショット分の絵コンテをつくってください。 各シーンの流れもスタートからエンドまで描写がわかるように画像で絵コンテを入れてください。 各シーンプロンプト以下です。
+
+S1 {argument name="シーン1のテーマ" default="恐竜・大渓谷"} 高速FPVドローンショット。黄金色の太古の夜明けの霧を突き抜けて飛び出し、一人称視点の飛行カメラが広大なジュラ紀の渓谷上空を低空飛行する。草を食む巨大な長い首の竜脚類の群れの脇をかすめ、水辺で恐竜たちが水を飲む川の上を通過し、そのまま緑のシダ植物とジャングルの密集した壁へ一直線に突入する。フォトリアル、超リアル、シネマティック、ダイナミックな朝の光、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S2 恐竜・ジャングル→火山 高速FPVドローンショット。一人称視点の飛行カメラが密集した緑のシダ植物を突き抜けて原始のジャングルへ飛び込み、咆咆するTレックスの脇を高速で通過する。ラプトルたちが四散し、翼竜が画面を横切りながら急降下する。カメラは溶岩で赤く輝く巨大な噴火火山へ向かって疾走し、その後、燃えさしが舞う濃く立ち込める火山煙の中へ突入する。フォトリアル、超リアル、シネマティック、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S3 {argument name="シーン3のテーマ" default="江戸・城下町（上空）"} 高速FPVドローンショット。一人称視点の飛行カメラが朝霧の中から現れ、江戸時代の日本の城下町上空へ出る。瓦屋根の木造建築群の上を低空飛行しながら白く高い天守閣へ向かう。眼下の通りには着物姿の人々や馬の行列が見え、その後、活気ある市場通りへ向かって急降下する。フォトリアル、超リアル、シネマティック、黄金色の朝の光、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S4 江戸・市場通り→橋の下 高速FPVドローンショット。一人称視点の飛行カメラが、木造の屋台、暖簾、提灯が並ぶ混雑した江戸時代の市場通りを低空で疾走する。侍、商人、馬たちの脇を高速で通過し、川に架かる木造アーチ橋へ向かう。そしてそのまま橋の下の暗い影の中へ突入する。フォトリアル、超リアル、シネマティック、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S5 {argument name="シーン5のテーマ" default="昭和・商店街"} 高速FPVドローンショット。一人称視点の飛行カメラが暗い通路から飛び出し、活気あふれる1960年代の昭和の日本の商店街へ入る。光るレトロなネオンサイン、音を立てて走る古い路面電車、商店主や遊ぶ子どもたちの脇を低空で駆け抜ける。頭上には洗濯物が干されており、その後、駅に停車する蒸気機関車の濃い白煙の中へ突入する。フォトリアル、超リアル、シネマティック、懐かしさを感じる暖かな光、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。 
+
+S6 昭和・駅→トンネル 高速FPVドローンショット。一人称視点の飛行カメラが立ち込める白い蒸気の中を抜けながら、混雑した昭和時代の駅ホーム沿いを疾走する。昔ながらの服装をした乗客たちの脇を通り過ぎ、加速する蒸気機関車に寄り添うように飛行する。そして前方の暗いトンネルへ突入する。フォトリアル、超リアル、シネマティック、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S7 令和・満員電車→ホーム 高速FPVドローンショット。一人称視点の飛行カメラが暗い地下鉄トンネルから飛び出し、ラッシュアワーで混雑した現代東京の電車車内へ入る。スマートフォンを見ている通勤客たちの脇を通りながら混雑した通路を疾走し、開いたドアを抜けて賑わうホームへ出る。その後、エスカレーターを駆け上がり明るい日中の光の中へ向かう。フォトリアル、超リアル、シネマティック、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+
+S8 令和・渋谷→大空（締め） 高速FPVドローンショット。一人称視点の飛行カメラが駅の出口から飛び出し、現在の東京・渋谷スクランブル交差点へ出る。巨大な人混み、ネオンスクリーン、車の流れの上を低空で駆け抜け、その後、高くそびえるガラス張りの超高層ビル群の間を至近距離で真上へ上昇する。ガラスの壁面が画面いっぱいを埋めながら、最後は明るく開けた大空へ飛び出す。フォトリアル、超リアル、シネマティック、鮮やかなネオン、強いモーションブラー、高精細、ワンカット、カットなし、ドローンや航空機は映らない。
+```
+
+**来源：** [@akira](https://x.com/AIakira23/status/2064255973167128829) | 2026-06-09
+
+---
+
+### 🎬 例 995：时尚选角黑白联系表
+
+![时尚选角黑白联系表](../images/%E6%97%B6%E5%B0%9A%E9%80%89%E8%A7%92%E9%BB%91%E7%99%BD%E8%81%94%E7%B3%BB%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黑白时尚选角联系表，主体为 {argument name="subject" default="一位模特"}，发型为 {argument name="hair style" default="柔顺长发"}，以整洁的 2x2 四格近景人像网格排列，背景为 {argument name="background" default="纯色背景"}，身着 {argument name="clothing" default="极简街头风服装"}，搭配 {argument name="accessory" default="无配饰"}。每一格展示不同的表情和角度。柔和的影棚灯光，清晰的黑白对比，自然的皮肤质感，可见的面部细节，干净的纯色背景，细腻的胶片颗粒感，高端编辑测试拍摄风格，极简造型，亲密的拍摄距离，专业人像摄影，长宽比 3:4。
+
+[English]
+Black-and-white fashion casting contact sheet of {argument name="subject" default="a model"} with {argument name="hair style" default="long sleek hair"}, arranged in a clean 2x2 grid of four close portrait frames against {argument name="background" default="a plain backdrop"}, wearing {argument name="clothing" default="minimalist streetwear"} and {argument name="accessory" default="no accessories"}. Each frame shows a different expression and angle. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 3:4.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2064219016382832887) | 2026-06-09
+
+---
+
+### 🎬 例 999：可爱的日系婴儿袜子四格漫画
+
+![可爱的日系婴儿袜子四格漫画](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E6%97%A5%E7%B3%BB%E5%A9%B4%E5%84%BF%E8%A2%9C%E5%AD%90%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅以可爱的日系婴儿为主题的四格漫画，采用柔和的水彩绘本风格，讲述关于一只神秘丢失的袜子的故事。图像应为带有圆角深棕色边框和暖奶油色背景的正方形漫画页面，适合 GPT 图像生成。
+
+画布：正方形 1:1 比例。使用柔和的粉彩色调、温暖的米色室内光线、手绘墨水轮廓、水彩纹理以及圆角漫画框。在标题附近添加小巧的装饰性星星涂鸦。
+
+标题：顶部居中放置醒目的手写日文标题：「くつしたどこ？」，颜色为深棕色。
+
+布局：标题下方为 2x2 网格排列的四个等大漫画格，由粗大的深棕色圆角边框分隔。每个漫画格左上角标有带圆圈的数字：1、2、3、4。
+
+角色：一个名叫 {argument name="baby name" default="宝宝"} 的开朗婴儿，穿着淡黄色连体衣和蓝白相间的袜子；一位穿着粉色毛衣和蓝色牛仔裤的母亲；一位穿着绿色连帽衫和深色长裤的父亲；一只系着红色领结的棕色泰迪熊。保持所有面部表情可爱简洁，带有红润的脸颊和圆润的特征。
+
+漫画格细节：第 1 格展示母亲坐在地板上为微笑着的宝宝穿袜子，父亲坐在旁边双臂交叉，看起来很满意。对话气泡写着「これで完璧！」。第 2 格展示宝宝独自坐在圆形地毯上，开心地踢着一只脚，一只蓝白相间的袜子向右飞出，带有运动线条；添加粉色拟声词「ぴょん」。第 3 格展示宝宝坐着，兴奋地指向泰迪熊，泰迪熊头上戴着那只丢失的袜子，像一顶小帽子。对话气泡写着「バブブ！(みつけた)」。第 4 格展示父亲和母亲感到惊讶，举起双手或捂住嘴，而宝宝在戴着袜子的泰迪熊旁边自豪地微笑。对话气泡写着「はいた瞬間に旅立った!?」。
+
+文本限制：仅使用五个可见的日文文本元素：标题「くつしたどこ？」、第 1 格对话「これで完璧！」、第 2 格拟声词「ぴょん」、第 3 格对话「バブブ！(みつけた)」以及第 4 格对话「はいた瞬間に旅立った!?」。日文字体需加粗、圆润且呈现手写感。
+
+约束条件：包含 4 个漫画格，4 个带圆圈的数字编号，漫画中总共 4 个主要角色：宝宝、母亲、父亲、泰迪熊。请勿使用写实摄影、锐利的数字渐变、额外的漫画格、额外的对话气泡、水印或过于复杂的背景。
+
+[English]
+Goal: Create a cute Japanese baby-themed 4-panel comic in a soft watercolor picture-book style about a mysterious missing sock. The image should be a square comic page with a rounded dark-brown border and warm cream background, suitable for GPT image generation.
+
+Canvas: Square 1:1 format. Use pastel colors, gentle beige room lighting, hand-drawn ink outlines, watercolor texture, and rounded panel corners. Add small decorative star doodles near the title.
+
+Title: Large handwritten Japanese title centered at the top: 「くつしたどこ？」 in dark brown.
+
+Layout: Four equal comic panels in a 2x2 grid below the title, separated by thick dark-brown rounded borders. Number each panel with a small circled number in the upper-left corner: 1, 2, 3, 4.
+
+Characters: A cheerful baby named {argument name="baby name" default="baby"} wearing a pale yellow onesie and blue-and-white socks; a mother wearing a pink sweater and blue jeans; a father wearing a green hoodie and dark pants; a tan teddy bear with a red bow tie. Keep all faces cute and simple, with rosy cheeks and rounded features.
+
+Panel details: Panel 1 shows the mother sitting on the floor putting socks on the smiling baby while the father sits beside them with arms crossed, looking satisfied. A speech bubble says 「これで完璧！」. Panel 2 shows the baby alone on a round rug, kicking one foot joyfully as a blue-and-white sock flies off to the right with motion lines; add pink sound-effect text 「ぴょん」. Panel 3 shows the baby sitting and pointing excitedly toward the teddy bear, which now has the missing sock sitting on its head like a little hat. A speech bubble says 「バブブ！(みつけた)」. Panel 4 shows the father and mother surprised, hands raised or covering mouth, while the baby smiles proudly beside the teddy bear with the sock still on its head. A speech bubble says 「はいた瞬間に旅立った!?」.
+
+Text constraints: Use exactly five visible Japanese text elements: the title 「くつしたどこ？」, panel 1 speech 「これで完璧！」, panel 2 sound effect 「ぴょん」, panel 3 speech 「バブブ！(みつけた)」, and panel 4 speech 「はいた瞬間に旅立った!?」. Make the Japanese lettering bold, rounded, and handwritten.
+
+Constraints: Include exactly 4 panels, exactly 4 circled panel numbers, exactly 4 main characters across the comic: baby, mother, father, teddy bear. Do not use realistic photography, sharp digital gradients, extra panels, extra speech bubbles, watermarks, or overly detailed backgrounds.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2064208964678717723) | 2026-06-09
+
+---
+

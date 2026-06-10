@@ -3825,3 +3825,513 @@ Create a high-end fashion campaign poster for a fictional brand named {argument 
 
 ---
 
+### 🎴 例 928：世界杯奖杯揭幕视角
+
+![世界杯奖杯揭幕视角](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%96%E6%9D%AF%E6%8F%AD%E5%B9%95%E8%A7%86%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实体育摄影，纪录片式写实风格，高端商业广告质感，沉浸式 9:16 竖屏构图。
+
+相机位于打开的豪华礼盒内部深处，营造出从隐藏宝藏视角出发的戏剧性第一人称视点。一座宏伟的金色 FIFA 世界杯奖杯静置于前景下方的优雅深色天鹅绒布上，呈现出逼真的金属反光和真实质感。
+
+打开的礼盒上方站着 [PLAYER NAME]，他俯身凝视盒内，神情坚定，充满雄心与对荣耀的渴望。他的一只手自然地伸向奖杯，象征着他赢得 2026 年 FIFA 世界杯的梦想。
+
+严格保持 [PLAYER NAME] 的身份特征。球员必须能被一眼认出是真实的 [PLAYER NAME]，拥有真实的脸部结构、眼型、鼻型、唇形、下颌线、发型、胡须风格、皮肤纹理和表情。极其精准地还原其现实外观，拒绝通用 AI 脸。
+
+真实的人体解剖结构、逼真的比例、细腻的毛孔、真实的眼睛、自然的毛发、真诚的面部表情、栩栩如生的外观、还原真实的色彩。
+
+身穿官方国家队球衣，展现真实的布料褶皱、缝线、纹理、汗水细节及准确的色彩。
+
+官方 2026 年 FIFA 世界杯标志优雅地融入构图中，呈现出逼真的物理质感。整体场景融合了真实的 2026 年 FIFA 世界杯视觉识别系统和官方赛事配色，营造出高端的冠军赛氛围。
+
+远处温暖的体育场灯光、细腻的观众虚化效果、真实的景深、自然的阴影、电影级构图、高端体育广告摄影。
+
+使用 Canon EOS R3 和 RF 70-200mm f/2.8L 镜头拍摄，具备 Getty Images 的写实感、Reuters 体育摄影品质、地道的足球摄影风格、浅景深、真实光影、还原真实的材质。
+
+豪华黑色礼盒内部、高级天鹅绒质感、优雅包装、真实的纸板材质、柔和的阴影、自然的金色反光。
+
+照片级真实感、高度细节化、真实的皮肤纹理、真实的手部和手指、地道的运动员外观、物理上准确的材质。
+
+拒绝通用 AI 脸、拒绝面部扭曲、拒绝改变面部特征、拒绝风格化外观、拒绝卡通风格、拒绝 CGI 感、拒绝塑料感皮肤、拒绝蜡像感皮肤、拒绝奇幻特效、拒绝夸张比例、拒绝畸形手部、拒绝多余手指、拒绝玩具人偶、拒绝乐高风格、拒绝微缩模型。
+
+无水印、无无关文字、无第三方品牌标识。
+
+16K 超高分辨率、照片级真实感、高端商业体育摄影、2026 年 FIFA 世界杯氛围。
+
+纵横比：9:16
+
+[English]
+Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 9:16 vertical composition.\n\nThe camera is positioned deep inside an opened luxury gift box, creating a dramatic first-person perspective from the hidden treasure itself. A magnificent golden FIFA World Cup trophy rests on elegant dark velvet fabric in the lower foreground, with realistic metallic reflections and authentic textures.\n\nAbove the opened box stands [PLAYER NAME], leaning forward and looking directly into the box with an expression of determination, ambition, and hunger for glory. He reaches one hand naturally toward the trophy, symbolizing his dream of winning the FIFA World Cup 2026.\n\nSTRICT IDENTITY PRESERVATION OF [PLAYER NAME]. The player must be instantly recognizable as the real [PLAYER NAME], with authentic facial structure, eye shape, nose, lips, jawline, hairstyle, beard style, skin texture, and expression. Preserve his real-world appearance with extreme accuracy. No generic AI face.\n\nAuthentic human anatomy, realistic proportions, detailed skin pores, realistic eyes, natural hair strands, genuine facial expression, lifelike appearance, true-to-life colors.\n\nOfficial national team jersey with realistic fabric folds, stitching, texture, sweat details, and accurate colors.\n\nThe official FIFA World Cup 2026 logo is elegantly integrated into the composition with realistic physical appearance. The overall scene incorporates the authentic FIFA World Cup 2026 visual identity and official tournament color palette, creating a premium championship atmosphere.\n\nWarm stadium lights in the distance, subtle crowd bokeh, realistic depth of field, natural shadows, cinematic composition, premium sports advertising photography.\n\nCaptured with a Canon EOS R3 and RF 70-200mm f/2.8L lens, Getty Images realism, Reuters sports photography quality, authentic football photography, shallow depth of field, realistic lighting, true-to-life materials.\n\nLuxury black gift box interior, premium velvet textures, elegant packaging, realistic cardboard material, soft shadows, natural golden reflections.\n\nPhotorealistic, highly detailed, realistic skin texture, realistic hands, realistic fingers, authentic athlete appearance, physically accurate materials.\n\nNo generic AI faces, no face distortion, no altered facial features, no stylized appearance, no cartoon style, no CGI look, no plastic skin, no wax skin, no fantasy effects, no exaggerated proportions, no deformed hands, no extra fingers, no toy figures, no LEGO style, no miniatures.\n\nNo watermarks, no unrelated text, no third-party branding.\n\n16K ultra-high-resolution, photorealistic, premium commercial sports photography, FIFA World Cup 2026 atmosphere.\n\nAspect Ratio: 9:16
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2064399631187059188) | 2026-06-09
+
+---
+
+### 🎴 例 929：动态足球巨星插画
+
+![动态足球巨星插画](../images/%E5%8A%A8%E6%80%81%E8%B6%B3%E7%90%83%E5%B7%A8%E6%98%9F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细体育插画海报，动态 {argument name="athlete" default="足球巨星"} 构图，左侧为巨大的侧面肖像，前景为全景动态姿势，正在控球或射门，背景中爆发着强烈的油漆泼溅和水墨笔触，国家队配色融入抽象水彩和涂鸦效果，球员身后浮现出象征性的 {argument name="spirit animal" default="狮子"}，充满戏剧性的能量轨迹，高冲击力的体育海报设计，表现力十足的笔触，漫画风格的写实主义，电影级光影，超精细面部特征，焦点清晰，高端收藏级艺术品，白色背景配以彩色喷溅爆炸效果，排版包含球员姓名和球衣号码，冠军氛围，8K 杰作，ArtStation 热门趋势，体育幻想概念艺术。
+
+[English]
+Ultra-detailed sports illustration poster, dynamic {argument name="athlete" default="football superstar"} composition, giant side-profile portrait dominating the left side, full-body action pose in the foreground controlling or striking a football, explosive paint splashes and ink strokes bursting across the background, national team colors integrated into abstract watercolor and graffiti effects, symbolic {argument name="spirit animal" default="lion"} emerging behind the player, dramatic energy trails, high-impact sports poster design, expressive brushwork, manga-inspired realism, cinematic lighting, hyper-detailed facial features, sharp focus, premium collectible artwork, white background with colorful splatter explosions, typography featuring player name and jersey number, championship aura, 8K masterpiece, trending on ArtStation, sports fantasy concept art.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2064387944333586843) | 2026-06-09
+
+---
+
+### 🎴 例 932：保时捷 911 GT3 RS 赛车海报
+
+![保时捷 911 GT3 RS 赛车海报](../images/%E4%BF%9D%E6%97%B6%E6%8D%B7%20911%20GT3%20RS%20%E8%B5%9B%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级赛车海报，展示一辆 **{argument name="vehicle" default="蜥蜴绿保时捷 911 GT3 RS (991.2)"}** 在赛道弯道漂移的场景。采用后侧方动态视角，包含浓厚的白色胎烟、红白相间的路肩、黑色中央锁止轮毂、黄色刹车卡钳以及巨大的尾翼。背景中加入一张车辆尾部的巨大虚化特写，突出 GT3 RS 徽标和尾翼。
+
+在画面中央添加醒目的超大号 {argument name="color" default="青柠绿"} **“PORSCHE”** 字体，并在上方叠加白色手写风格的 **“GT3RS”** 字样。营造多云的戏剧性天空，配合柔和的阳光、电影级灯光、动态模糊、粗糙的沥青质感以及高对比度的调色。
+
+豪华汽车海报设计、赛车杂志美学、超写实摄影、动态构图、高级编辑排版、青柠绿与单色灰配色、极致细节、照片级真实感、8K 分辨率。
+
+[English]
+Create a premium motorsport poster featuring a **{argument name="vehicle" default="Lizard Green Porsche 911 GT3 RS (991.2)"}** drifting through a racetrack corner. Rear three-quarter action shot with thick white tire smoke, red-and-white curbing, black center-lock wheels, yellow brake calipers, and a massive rear wing. Include a large faded close-up of the car’s rear in the background, emphasizing the GT3 RS badge and wing.
+
+Add bold oversized {argument name="color" default="lime-green"} **“PORSCHE”** typography in the center with white brush-script **“GT3RS”** layered on top. Dramatic cloudy sky with soft sunlight, cinematic lighting, motion blur, gritty asphalt textures, and high-contrast color grading.
+
+Luxury automotive poster design, racing magazine aesthetic, hyper-realistic photography, dynamic composition, premium editorial layout, lime green and monochrome gray palette, ultra-detailed, photorealistic, 8K.
+```
+
+**来源：** [@NoorAI](https://x.com/noorwithwifi/status/2064369833538658473) | 2026-06-09
+
+---
+
+### 🎴 例 934：未来感 BentoCard 软盘广告
+
+![未来感 BentoCard 软盘广告](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20BentoCard%20%E8%BD%AF%E7%9B%98%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张深色、高端 Apple 风格的产品广告海报，宣传一款名为 {argument name="product name" default="BentoCard"} 的虚构科技产品，将其呈现为具有未来存储性能的下一代 3.5 寸软盘。
+
+画布：正方形 1:1 构图，768×768 或类似尺寸，哑光炭黑色背景，带有微妙的晕影、柔和的渐变、淡淡的纹理以及发光的 UI 卡片轮廓。整体氛围极简、高端、具有未来感，且符合产品发布定位。
+
+页眉：居中于顶部，展示一个银色 Apple Logo 图标，接着是小字产品名称“BentoCard”，下方是大号中文标题：“新一代 3.5 寸软盘”。在标题下方，添加较小的中文副标题：“传统尺寸，颠覆性能”。使用简洁的无衬线字体，文字为白色和浅灰色，具有强烈的字间距和类似 Apple 的克制感。
+
+主体布局：采用双栏英雄区布局。左侧放置一张逼真的 3D 渲染图，展示 2 张重叠的 3.5 寸软盘：前方一张为明亮的拉丝银色，圆角设计，黑色滑块区域，顶部中心有小型 Apple Logo，中间有圆形金属中心轮毂，带有黑色小螺丝孔和插槽；后方一张较暗的软盘向左偏移，部分可见，采用黑色/石墨色饰面和圆形轮毂。添加柔和的阴影和微妙的反射，如同在摄影棚中拍摄一般。
+
+右侧功能栏：创建 3 张堆叠的圆角矩形功能卡片，带有细微的半透明边框，左侧配有柔和的蓝色发光图标。卡片 1 图标：圆角方形存储芯片轮廓；文字“32 TB 容量”，下方小字“比传统软盘提升 22857143 倍”。卡片 2 图标：闪电；文字“USB 4 传输速度”，下方小字“最高 40Gb/s”。卡片 3 图标：电池轮廓；文字“超低功耗设计”，下方小字“续航提升 50%”。
+
+底部功能行：在英雄区下方，创建 3 张等大的圆角功能卡片。卡片 1 带有盾牌图标和文字“军工级防护”，下方小字“抗摔 · 防水 · 防尘”。卡片 2 带有云朵图标和文字“跨平台兼容”，下方小字“Mac, PC, Linux 全支持”。卡片 3 带有嫩芽/叶子图标和文字“环保材质”，下方小字“100% 可回收铝金属”。
+
+页脚栏：在底部添加 1 条长圆角半透明栏。栏左侧放置一个小巧的发光圆角方形图标，接着是加粗的中文标语“传统设计，未来性能”，右侧为较小的文字“3.5 寸软盘 2024”。
+
+视觉风格：深色磨砂玻璃 UI，微妙的斜面，磨砂半透明卡片，冷蓝色图标高光，银色金属产品材质，逼真的光影，精确的间距，平衡的网格，无杂乱元素。保持所有文字清晰易读，准确保留中文措辞，避免添加额外的 Logo、水印或额外的功能卡片。
+
+[English]
+Goal: Create a dark, premium Apple-style product advertising poster for a fictional tech product named {argument name="product name" default="BentoCard"}, presented as a next-generation 3.5-inch floppy disk with futuristic storage performance.
+
+Canvas: Square 1:1 composition, 768×768 or similar, matte charcoal-black background with subtle vignette, soft gradients, faint texture, and glowing UI-card outlines. Overall mood is minimalist, high-end, futuristic, and product-launch oriented.
+
+Header: Centered at the top, show a silver Apple logo icon, then the small product name “BentoCard”, then a large Chinese headline: “新一代 3.5 寸软盘”. Under it, add the smaller Chinese subtitle: “传统尺寸，颠覆性能”. Use clean sans-serif typography, white and light gray text, with strong letter spacing and Apple-like restraint.
+
+Main layout: Use a two-column hero layout. On the left, place a large realistic 3D render of exactly 2 overlapping 3.5-inch floppy disks: one front disk in bright brushed silver with rounded corners, black shutter area, small Apple logo centered near the top, circular metallic hub in the middle, small black screw holes and slots; one darker rear disk offset behind it to the left, partially visible, with black/graphite finish and a circular hub. Add soft shadows and subtle reflections, as if photographed in a studio.
+
+Right feature column: Create exactly 3 stacked rounded-rectangle feature cards with thin translucent borders and soft blue glow icons on the left. Card 1 icon: rounded square storage chip outline; text “32 TB 容量” and smaller line “比传统软盘提升 22857143 倍”. Card 2 icon: lightning bolt; text “USB 4 传输速度” and smaller line “最高 40Gb/s”. Card 3 icon: battery outline; text “超低功耗设计” and smaller line “续航提升 50%”.
+
+Lower feature row: Under the hero area, create exactly 3 equal rounded feature cards. Card 1 has a shield icon and text “军工级防护” with smaller line “抗摔 · 防水 · 防尘”. Card 2 has a cloud icon and text “跨平台兼容” with smaller line “Mac, PC, Linux 全支持”. Card 3 has a sprout/leaf icon and text “环保材质” with smaller line “100% 可回收铝金属”.
+
+Footer bar: At the bottom, add exactly 1 long rounded translucent bar. On the left of the bar place a small glowing rounded-square icon, then bold Chinese slogan text “传统设计，未来性能”, and on the right smaller text “3.5 寸软盘 2024”.
+
+Visual style: Dark glassmorphism UI, subtle bevels, frosted translucent cards, cool blue icon highlights, silver metallic product material, realistic lighting, precise spacing, balanced grid, no clutter. Keep all text crisp and legible, preserve the Chinese wording exactly, and avoid extra logos, watermarks, or additional feature cards.
+```
+
+**来源：** [@MarioTan](https://x.com/TanShilong/status/2064369101737537868) | 2026-06-09
+
+---
+
+### 🎴 例 946：雄心壮志视觉隐喻海报
+
+![雄心壮志视觉隐喻海报](../images/%E9%9B%84%E5%BF%83%E5%A3%AE%E5%BF%97%E8%A7%86%E8%A7%89%E9%9A%90%E5%96%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端电影级生活方式海报，标题为：
+"{argument name="title" default="BUILT FROM WHAT YOU CHASE."}"
+核心概念
+一个人的雄心壮志变得清晰可见。
+他们梦想的世界与他们本身融为一体。
+这不是双重曝光。
+这不是旅游海报。
+这不是励志语录图。
+相反，观众应该感觉到他们正在亲眼见证某人内心世界的具象化。
+主体
+{argument name="subject" default="一位年轻人"} 自信地站在令人叹为观止的环境边缘。
+从背后或四分之三侧面观察。
+姿态自然。
+没有夸张的摆拍。
+没有超级英雄般的能量。
+人物应该显得真实且易于产生共鸣。
+视觉反转
+主体的衣物、皮肤和轮廓逐渐转化为他们所追求的世界。
+例如：
+山脉从夹克褶皱中浮现
+河流穿过织物接缝流淌
+城市灯光出现在皮肤纹理之下
+森林从阴影中生长
+道路变成缝合的路径
+这种过渡应该在物理上显得可信。
+不是 Photoshop 特效。
+不是透明叠加层。
+世界应该感觉像是嵌入在主体内部。
+环境
+不要只画山脉，要在多种雄心之间创造强烈的对比：
+一侧：
+狂野自然
+森林
+湖泊
+探索
+另一侧：
+现代天际线
+建筑
+发光的城市灯光
+未来可能性
+主体站在两个世界之间。
+代表选择。
+排版
+巨大的垂直排版沿一侧延伸：
+{argument name="typography" default="BUILD WHAT BUILDS YOU"}
+文字应融入设计之中。
+而不是贴在上面。
+建筑风格的排版。
+高端编辑排版。
+微型文字
+手写小字：
+"keep moving"
+"still learning"
+"not there yet"
+"worth the climb"
+"one life"
+自然地散布在整个构图中。
+调色板
+温暖的日出金。
+深森林绿。
+板岩蓝。
+柔和象牙白。
+柔和炭灰。
+高端电影色调。
+光影
+黄金时刻。
+体积光。
+自然氛围。
+电影级写实感。
+大尺度环境摄影。
+摄影风格
+使用中画幅相机拍摄。
+超写实。
+自然的皮肤纹理。
+真实的织物细节。
+真实的灯光。
+没有 AI 美颜滤镜。
+没有奇幻渲染。
+没有卡通美学。
+最终感受
+这张图片应该给人一种关于雄心壮志的博物馆级视觉隐喻感。
+观众应该能瞬间理解：
+“你终将成为你毕生追求的事物。”
+
+[English]
+Create an ultra-premium cinematic lifestyle poster titled:
+"{argument name="title" default="BUILT FROM WHAT YOU CHASE."}"
+CORE CONCEPT
+A person's ambitions have become visible.
+The world they dream about is physically woven into them.
+This is not a double exposure.
+This is not a travel poster.
+This is not a motivational quote graphic.
+Instead, the viewer should feel like they are seeing someone's inner world made real.
+MAIN SUBJECT
+{argument name="subject" default="A young adult"} standing confidently at the edge of a breathtaking environment.
+Seen from behind or in three-quarter profile.
+Natural posture.
+No dramatic posing.
+No superhero energy.
+The person should feel real and relatable.
+VISUAL TWIST
+The subject's clothing, skin, and silhouette gradually transform into the world they are pursuing.
+For example:
+mountain ranges emerge from jacket folds
+rivers flow through fabric seams
+city lights appear beneath skin texture
+forests grow from shadows
+roads become stitched pathways
+The transition should feel physically believable.
+Not a Photoshop effect.
+Not a transparent overlay.
+The world should feel embedded within the subject.
+ENVIRONMENT
+Instead of mountains, create a dramatic contrast between multiple ambitions:
+One side:
+wild nature
+forests
+lakes
+exploration
+The other side:
+modern skyline
+architecture
+glowing city lights
+future possibilities
+The subject stands between both worlds.
+Representing choice.
+TYPOGRAPHY
+Massive vertical typography running down one side:
+{argument name="typography" default="BUILD WHAT BUILDS YOU"}
+The words should be integrated into the design.
+Not pasted on top.
+Architectural typography.
+Premium editorial layout.
+MICRO TEXT
+Small handwritten notes:
+"keep moving"
+"still learning"
+"not there yet"
+"worth the climb"
+"one life"
+Scattered naturally throughout the composition.
+COLOR PALETTE
+Warm sunrise gold.
+Deep forest green.
+Slate blue.
+Soft ivory.
+Muted charcoal.
+Premium cinematic tones.
+LIGHTING
+Golden hour.
+Volumetric sunlight.
+Natural atmosphere.
+Cinematic realism.
+Large-scale environmental photography.
+PHOTOGRAPHIC STYLE
+Shot on a medium-format camera.
+Ultra-realistic.
+Natural skin texture.
+Real fabric detail.
+Authentic lighting.
+No AI beauty filters.
+No fantasy rendering.
+No cartoon aesthetics.
+FINAL FEELING
+The image should feel like a museum-quality visual metaphor about ambition.
+A viewer should instantly understand:
+"You eventually become the things you spend your life chasing."
+```
+
+**来源：** [@Hemayxn.ai](https://x.com/hemayxn/status/2064342713886269588) | 2026-06-09
+
+---
+
+### 🎴 例 948：温馨中式角色设计海报
+
+![温馨中式角色设计海报](../images/%E6%B8%A9%E9%A6%A8%E4%B8%AD%E5%BC%8F%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="林浅夏"} 创建一张简洁、温馨的米色系中式角色设计海报。她是一位温柔的生活方式博主，海报需结合大尺寸时尚肖像、表情包、动作展示、物品图标、配色方案及个人简介。
+
+画布：竖版肖像海报，比例约为 4:5，采用米白色纸张背景，配有浅米色细边框、精致的金棕色线条分割，点缀微小的闪光和爱心涂鸦，呈现柔和的编辑类杂志排版。使用暖奶油色、棕褐色、桃色和咖啡色调，搭配优雅的手写体装饰。
+
+布局：将海报分为左侧大尺寸肖像栏和右侧较窄的信息栏，左下方放置动作展示区，右下方堆叠简介和配色方案区。保持充足的留白和细线条分割。
+
+左上角标题区：添加大号中文标题「角色设计图」，并配以小号草书英文副标题“Character Design”。在肖像旁，添加竖排诗意文字「清风拂面，明朗如光。」以及小爱心和星星涂鸦。
+
+主肖像：展示一张 {argument name="age" default="25"} 岁年轻东亚女性的腰部以上肖像，留着 {argument name="hair style" default="深棕黑色长波浪卷发，略显凌乱"}，肤色自然温暖，淡妆，佩戴小巧金耳环、精致金吊坠项链，身穿奶油色罗纹无袖背心。她面向前方，光线柔和自然，气质优雅从容，采用写实时尚摄影风格，并带有淡淡的水彩柔光感。
+
+右上方资料块：放置大号名字「林浅夏」及一颗小爱心。下方书写「温柔明朗的生活收藏家」。包含 5 行个人资料：「年龄：25岁」、「身高：165cm」、「生日：7月18日」、「星座：巨蟹座」、「职业：自由内容创作者」。添加一张便签式引言卡片，写着：「生活很简单，开心很重要，请尽情拥抱每一天。——浅夏♡」。
+
+表情区：添加标题「表情设定」，排列 6 个相同的女性头像，分两行展示，每个头像配有圆角米色标签。6 个标签分别为：「开心」、「生气」、「困倦」、「惊讶」、「害羞」、「思考中」。保持发型、服装和身份一致，仅改变面部表情和轻微的头部姿态。
+
+动作区：添加标题「动作设定」，展示 3 个全身动作，人物身穿奶油色短款背心、米色短裤、小白鞋，头发自然披散。3 个动作标签为：「跑步」（充满活力地慢跑）、「玩耍」（跳跃或玩泡泡）、「休闲站姿」（放松站立，手持墨镜）。运用轻盈的动态感、清爽的夏日风格，并在玩耍动作周围添加小泡泡细节。
+
+物品图标区：添加标题「物件图标」，在一行内展示 5 个小巧的插画图标，标签分别为：「墨镜」（黑色墨镜）、「金色耳环」（金圈耳环）、「项链」（金吊坠项链）、「小白鞋」（白色运动鞋）、「小星星」（小星星和爱心挂饰）。
+
+配色方案区：添加标题「配色方案」，展示 6 个圆形色块，标签分别为：「奶油白」、「米杏色」、「暖米色」、「深棕色」、「蜜桃肤」、「柔金色」。配色应在视觉上对应奶油白、米色、暖棕褐、深棕、桃色肤色和柔金色。
+
+简介区：添加标题「角色简介」，配以小爱心和植物线条画。包含简洁的中文简介，分为四行：「性格：温柔亲和，开朗乐观，细腻敏感，喜欢发现生活中的小美好。」、「兴趣：旅行、拍照、写作、听音乐、做手账、收集小物件。」、「特点：笑容温暖治愈，气质清新自然，拥有轻松感染他人的能量。」、「简介：林浅夏热爱自由与表达，喜欢用镜头和文字记录生活的点滴。她相信简单的日常里藏着最动人的故事。认真生活，尽情热爱，是她一直坚持的态度。」
+
+页脚：添加一条细装饰线，居中书写句子「认真生活，尽情热爱，让每一天都闪闪发光。」，两端配以小闪光符号。
+
+视觉风格：柔和写实的角色设定海报，优雅的中式生活杂志美学，暖色日光，精致的米色排版，水彩与写实摄影的微妙融合，构图简洁，无生硬阴影，无多余角色，无多余标签，无水印。
+
+[English]
+Goal: Create a clean, warm beige Chinese character design poster for {argument name="character name" default="林浅夏"}, a gentle lifestyle blogger, combining a large fashion portrait, expression sheet, pose sheet, item icons, color palette, and biography.
+
+Canvas: Vertical portrait poster, approximately 4:5 ratio, off-white paper background with thin pale beige border, delicate gold-brown line dividers, tiny sparkle and heart doodles, soft editorial magazine layout. Use a warm cream, tan, peach, and coffee color scheme with elegant handwritten accents.
+
+Layout: Split the poster into a large left portrait column and a narrower right information column, with an action-pose section across the lower left and biography/palette sections stacked on the lower right. Keep generous white space and fine hairline separators.
+
+Top left title area: Add the large Chinese headline 「角色设计图」 with a small cursive English subtitle “Character Design”. Beside the portrait, add vertical poetic text 「清风拂面，明朗如光。」 plus small hearts and star doodles.
+
+Main portrait: Show one large waist-up portrait of a young East Asian woman, age {argument name="age" default="25"}, with {argument name="hair style" default="long slightly messy dark brown-black wavy hair"}, warm natural skin, minimal makeup, small gold earrings, a delicate gold pendant necklace, and a cream ribbed sleeveless tank top. She faces forward in soft natural light, elegant and calm, with realistic fashion-photo rendering and subtle watercolor softness.
+
+Right top profile block: Place the large name 「林浅夏」 with a small heart. Under it write 「温柔明朗的生活收藏家」. Include exactly 5 profile lines: 「年龄：25岁」, 「身高：165cm」, 「生日：7月18日」, 「星座：巨蟹座」, 「职业：自由内容创作者」. Add a sticky-note quote card reading: 「生活很简单，开心很重要，请尽情拥抱每一天。——浅夏♡」.
+
+Expression section: Add the heading 「表情设定」 and exactly 6 small bust portraits of the same woman arranged in two rows, each with a rounded beige label. The 6 labels must be: 「开心」, 「生气」, 「困倦」, 「惊讶」, 「害羞」, 「思考中」. Make the hair, outfit, and identity consistent while changing only the facial expression and slight head pose.
+
+Action pose section: Add the heading 「动作设定」 and exactly 3 full-body poses of the same woman in a cream crop tank, beige shorts, white sneakers, and loose natural hair. The 3 labeled poses are: 「跑步」 showing her jogging energetically, 「玩耍」 showing her skipping or playing with bubbles, and 「休闲站姿」 showing a relaxed standing pose holding sunglasses. Use light motion, airy summer styling, and small bubble details around the playful pose.
+
+Object icon section: Add the heading 「物件图标」 and exactly 5 small illustrated icons in one row with labels: 「墨镜」 black sunglasses, 「金色耳环」 gold hoop earrings, 「项链」 gold pendant necklace, 「小白鞋」 white sneakers, and 「小星星」 a small star and heart charm.
+
+Color palette section: Add the heading 「配色方案」 and exactly 6 circular swatches with labels: 「奶油白」, 「米杏色」, 「暖米色」, 「深棕色」, 「蜜桃肤」, 「柔金色」. The palette should visually match cream white, beige, warm tan, dark brown, peach skin, and soft gold.
+
+Biography section: Add the heading 「角色简介」 with a small heart and botanical line art. Include concise Chinese profile text with four labeled lines: 「性格：温柔亲和，开朗乐观，细腻敏感，喜欢发现生活中的小美好。」, 「兴趣：旅行、拍照、写作、听音乐、做手账、收集小物件。」, 「特点：笑容温暖治愈，气质清新自然，拥有轻松感染他人的能量。」, 「简介：林浅夏热爱自由与表达，喜欢用镜头和文字记录生活的点滴。她相信简单的日常里藏着最动人的故事。认真生活，尽情热爱，是她一直坚持的态度。」
+
+Footer: Add a thin decorative line and the centered sentence 「认真生活，尽情热爱，让每一天都闪闪发光。」 with small sparkles at both ends.
+
+Visual style: Soft realistic character-sheet poster, elegant Chinese lifestyle magazine aesthetic, warm daylight, delicate beige typography, subtle watercolor/photoreal blend, clean composition, no harsh shadows, no extra characters, no extra labels, no watermark.
+```
+
+**来源：** [@松果先森](https://x.com/songguoxiansen/status/2064340579690193259) | 2026-06-09
+
+---
+
+### 🎴 例 977：“丧尸”购物狂潮促销封面
+
+![“丧尸”购物狂潮促销封面](../images/%E2%80%9C%E4%B8%A7%E5%B0%B8%E2%80%9D%E8%B4%AD%E7%89%A9%E7%8B%82%E6%BD%AE%E4%BF%83%E9%94%80%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级照片写实的博客封面图，展示在阳光明媚的日子里，一群如丧尸般混乱的购物者挤在日本零售店玻璃入口处的场景。摄像机位于店内，透过自动滑动玻璃门向外拍摄，采用 16:9 宽屏构图，低位略带广角视角，强烈的逆光，窗外是蓝天和朵朵白云，玻璃上有倒影，金属门框，侧窗贴有海报，右下角堆放着一叠红色购物篮。约 14 名脸色苍白、肮脏、神情狂乱的人穿着破烂的浅色衣服挤在门口，伸出沾满污垢的手，如同消费者的“踩踏”现场。画面中清晰可见 10 个手机屏幕朝向镜头，每个屏幕都在白色背景上显示着醒目的红色日文促销文字 {argument name="phone screen text" default="本日ポイントアップ↑"}，并带有红色小纸屑点缀；包括 3 部前景中的大手机、5 部背景中举起的手机以及 2 部侧面部分可见的小手机。在左上方中心附近加入 1 个大型竖起的矩形标牌，上面写着同样的红色日文 {argument name="poster sale text" default="ポイント 5倍"}，右侧窗户上贴着 1 张红黄相间的亮色商店海报。添加 9 个不透明的深灰色矩形遮挡块以覆盖不同大小的人脸，包括前景中央的一个大遮挡块、前景右侧的一个大遮挡块、前景左侧的一个大遮挡块，以及背景人群中的六个较小遮挡块。保持场景写实而非卡通化：粗糙的衣物纹理、青灰色的尸体般的手部、伸出双臂的动态模糊、浅景深、高对比度的日光、纪录片式的灾难电影氛围，不要包含额外的可读英文文本，不要有水印。
+
+[English]
+Create a cinematic photorealistic blog cover image showing a chaotic crowd of zombie-like shoppers pressed against the glass entrance of a Japanese retail store on a bright sunny day. The camera is inside the store looking outward through automatic sliding glass doors, wide 16:9 composition, low slightly wide-angle perspective, intense backlight, blue sky and small clouds outside, reflections on the glass, metal door frames, posters on the side windows, and a stack of red shopping baskets at the lower right. About 14 pale, dirty, frantic people in torn light-colored clothes crowd the doorway with outstretched hands and smeared grime, like a consumer stampede. Exactly 10 visible smartphone screens are held up toward the camera, each displaying large red Japanese sale text {argument name="phone screen text" default="本日ポイントアップ↑"} on a white background with small red confetti dots; include 3 large foreground phones, 5 raised background phones, and 2 smaller partially visible side phones. Include 1 large raised rectangular placard near the upper left-center with the same red Japanese text, and 1 bright red-and-yellow store poster on the right window advertising {argument name="poster sale text" default="ポイント 5倍"}. Add exactly 9 opaque dark gray rectangular anonymization blocks covering faces in different sizes, including one large block in the center foreground, one large block on the right foreground, one large block on the left foreground, and six smaller blocks across the background crowd. Keep the scene realistic rather than cartoonish: gritty clothing texture, bluish corpse-like hands, motion blur on reaching arms, shallow depth of field, high-contrast daylight, documentary disaster-movie atmosphere, no extra readable English text, no watermark.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2064270054594957639) | 2026-06-09
+
+---
+
+### 🎴 例 982：复古现代风饮料营销概念
+
+![复古现代风饮料营销概念](../images/%E5%A4%8D%E5%8F%A4%E7%8E%B0%E4%BB%A3%E9%A3%8E%E9%A5%AE%E6%96%99%E8%90%A5%E9%94%80%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+软饮料与饮品 ({argument name="brands" default="Pepsi, Coca-Cola, Sprite, Red Bull"})。复古现代光感、动感体育场氛围、青柠街头风格以及高性能赛车图形。{argument name="campaign" default="Pepsi × Sydney Sweeney — 'THE BLUE HOUR'"}
+
+[English]
+Soft Drinks & Beverages ({argument name="brands" default="Pepsi, Coca-Cola, Sprite, Red Bull"}). retro-modern glow, dynamic stadium vibes, lime street style, and high-performance racing graphics. {argument name="campaign" default="Pepsi × Sydney Sweeney — 'THE BLUE HOUR'"}
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2064262410718859674) | 2026-06-09
+
+---
+
+### 🎴 例 989：20 世纪 80 年代复古韩国科幻海报
+
+![20 世纪 80 年代复古韩国科幻海报](../images/20%20%E4%B8%96%E7%BA%AA%2080%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E9%9F%A9%E5%9B%BD%E7%A7%91%E5%B9%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="era" default="20 世纪 80 年代"} 的科幻电影海报，其构思风格应如同出自一位 {argument name="personality" default="正处于叛逆期的搞怪少年"} 之手。电影海报标题为“{argument name="movie title" default="伟大的银河传说：女王队长"}”。请通过积极运用 20 世纪 80 年代韩国海报的风格与色调来完成创作。
+
+[English]
+{argument name="성격" default="중2병 걸린 질풍노도시기의 멍청이 남자"}가 생각한 듯한 {argument name="연대" default="1980년대"} SF 영화 포스터를 만들어줘. 영화포스터 제목은 '{argument name="영화 제목" default="大은하전설 캡틴여왕"}'이야. 1980년대 한국에서 만들어졌을 것 같은 포스터 스타일과 톤을 적극 활용해서, 만들어줘.
+```
+
+**来源：** [@그림하는김씨](https://x.com/Bcutstudio/status/2064243112076353583) | 2026-06-09
+
+---
+
+### 🎴 例 990：Newton Coffee 开业海报
+
+![Newton Coffee 开业海报](../images/Newton%20Coffee%20%E5%BC%80%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="牛顿咖啡"} 创作一张竖版高端咖啡店盛大开业宣传海报，采用暖米色大理石纸张背景、棕色排版、纸张拼贴元素，中心展示写实的商场店面效果图。
+
+画布：竖版海报，2:3 比例，高分辨率。使用优雅的奶油色、焦糖色、咖啡棕色和暖金色调。整体风格为现代中国商业广告，温馨、精致且高端。
+
+顶部区域：居中放置一个简单的咖啡杯 Logo，上方为品牌名称 {argument name="brand name" default="牛顿咖啡"} 及小号英文文本“NEWTON COFFEE”。下方放置间距适中的大写文本“NEW STORE OPENS”。主标题应使用加粗的深棕色中文字体，内容为 {argument name="headline text" default="拍围挡 · 喝咖啡"}。
+
+优惠券横幅：在标题下方，添加一条右上角用米色美纹纸胶带固定的撕边白纸条。纸条左侧绘制一个小巧的蒸汽咖啡杯线条图及手写体“Enjoy!”。中间放置巨大的“1000”。右侧放置中英文优惠文本：“杯免费送”、“FREE COFFEE”、“FREE COFFEE”。
+
+中心店面场景：创建一个写实的弧形商场围挡/店面墙，带有光亮的地面反射及背景中的玻璃商场建筑。围挡包裹着咖啡主题图形，包含拉花泡沫和大理石纹理。包含 5 个清晰可见的拼贴区域：1) 左侧垂直撕边咖啡照片，展示杯中的拉花艺术；2) 左侧贴着的小告示，写有“新店开业 / 1000杯 / 免费送 / FREE COFFEE”；3) 中间大型奶油色面板，展示 Logo、品牌名称及手写标语 {argument name="slogan" default="好咖啡，这里喝得到！"}；4) 右侧贴着的小告示，写有“NEW STORE OPENS / 2026 / 6/9 / 我们在这里等你”；5) 右下角撕边照片，展示温馨的咖啡店内部，旁边配有一个小杯子插图。
+
+中心功能图标：在大型中央面板底部，展示 3 个极简棕色线条图标及标签：1) 咖啡豆图标，标注“现磨咖啡 / FRESHLY GROUND”；2) 牛奶盒图标，标注“鲜奶拿铁 / FRESH MILK LATTE”；3) 甜点罩图标，标注“手作甜点 / HANDMADE DESSERT”。
+
+店面下方说明区：在干净的奶油色背景上，创建 3 个由箭头分隔的横向参与步骤：1) 相机图标配“拍围挡打卡”；2) 杯子图标配“领免费咖啡”；3) 笑脸图标配“进店体验”。在步骤下方，添加两行居中的较小中文说明文本：“拍下围挡任意角度照片，发布至社交平台并带话题 #牛顿咖啡新店开业#” 以及 “即可到店领取免费咖啡一杯！每日限量，先到先得！”
+
+底部信息栏：创建 3 个带有细竖线分隔的信息块：1) 位置定位图标，“牛顿商场名”，“NEWTON MALL”；2) 楼层图标，“L1层”，“LEVEL L1”；3) 日历图标，{argument name="opening date" default="2026 - 6 - 9"}，“盛大开业”。在最底部添加手写中文文本“牛顿喝了都说好的咖啡”，并配以随意的下划线。
+
+视觉风格：优雅的中国咖啡零售海报，写实店面效果图结合纸张拼贴、撕纸边缘、美纹纸胶带、柔和阴影、暖光、细腻大理石纹理、咖啡泡沫漩涡、精致排版、平衡的居中对齐。
+
+约束：保持所有列出的文本清晰可见，并位于大致相同的位置。使用 3 个功能图标、3 个参与步骤、3 个底部信息块，以及店面上 5 个可见的拼贴区域。无额外 Logo，无水印，无二维码。
+
+[English]
+Goal: Create a vertical premium coffee shop grand-opening promotional poster for {argument name="brand name" default="牛顿咖啡"}, with a warm beige marble-paper background, brown typography, taped paper collage elements, and a realistic mall storefront mockup in the center.
+
+Canvas: Portrait poster, 2:3 ratio, high resolution. Use an elegant cream, caramel, coffee-brown, and warm gold palette. The overall mood is modern Chinese commercial advertising, cozy, polished, and upscale.
+
+Top section: Center a simple coffee-cup logo with steam above the brand name {argument name="brand name" default="牛顿咖啡"} and small English text “NEWTON COFFEE”. Below it place spaced uppercase text “NEW STORE OPENS”. The main oversized headline should read {argument name="headline text" default="拍围挡 · 喝咖啡"} in bold dark-brown Chinese serif display type.
+
+Coupon banner: Under the headline, add a torn white paper strip taped at the upper-right corner with beige masking tape. On the left of the strip draw a small line-art steaming cup and handwritten “Enjoy!”. In the center place a huge “1000”. On the right place Chinese and English offer text: “杯免费送”, “FREE COFFEE”, “FREE COFFEE”.
+
+Central storefront scene: Create a realistic curved mall construction hoarding / storefront wall with glossy floor reflections and glass mall architecture behind it. The hoarding is wrapped in coffee-themed graphics with swirling latte foam and marble textures. It contains exactly 5 visible collage areas: 1) left vertical torn-edge coffee photo showing latte art in a cup, 2) small taped left notice reading “新店开业 / 1000杯 / 免费送 / FREE COFFEE”, 3) large central cream panel with the logo, brand name, and handwritten slogan {argument name="slogan" default="好咖啡，这里喝得到！"}, 4) right taped notice reading “NEW STORE OPENS / 2026 / 6/9 / 我们在这里等你”, 5) lower-right torn photo of a warm coffee shop interior with a small cup illustration beside it.
+
+Central feature icons: Along the bottom of the large central panel, show exactly 3 minimal brown line icons with labels: 1) coffee bean icon labeled “现磨咖啡 / FRESHLY GROUND”, 2) milk carton icon labeled “鲜奶拿铁 / FRESH MILK LATTE”, 3) dessert cloche icon labeled “手作甜点 / HANDMADE DESSERT”.
+
+Instruction section below storefront: On a clean cream background, create exactly 3 horizontal participation steps separated by arrows: 1) camera icon with “拍围挡打卡”, 2) cup icon with “领免费咖啡”, 3) smiley icon with “进店体验”. Beneath the steps, add two centered lines of smaller Chinese instruction text: “拍下围挡任意角度照片，发布至社交平台并带话题 #牛顿咖啡新店开业#” and “即可到店领取免费咖啡一杯！每日限量，先到先得！”
+
+Bottom information row: Create exactly 3 information blocks with thin vertical dividers: 1) location pin icon, “牛顿商场名”, “NEWTON MALL”; 2) stacked-floor icon, “L1层”, “LEVEL L1”; 3) calendar icon, {argument name="opening date" default="2026 - 6 - 9"}, “盛大开业”. At the very bottom add handwritten Chinese text “牛顿喝了都说好的咖啡” with a casual underline.
+
+Visual style: Elegant Chinese coffee retail poster, photorealistic storefront mockup combined with paper collage, torn paper edges, masking tape, soft shadows, warm lighting, subtle marble texture, coffee foam swirls, refined typography, balanced central alignment.
+
+Constraints: Keep all listed text legible and in the same approximate positions. Use exactly 3 feature icons, exactly 3 participation steps, exactly 3 bottom information blocks, and exactly 5 visible collage areas on the storefront. No extra logos, no watermark, no QR code.
+```
+
+**来源：** [@牛顿AI中转站](https://x.com/newtonrouter/status/2064236495519785009) | 2026-06-09
+
+---
+
+### 🎴 例 1019：黄金时刻时尚拼贴画
+
+![黄金时刻时尚拼贴画](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张时尚的竖版美学拼贴海报，主角为同一位 {argument name="subject" default="20 岁南亚男性"}，留着深色卷曲波浪发，带有浅胡茬，佩戴时尚的橙色太阳镜。拼贴画应展示三种不同的电影感姿势，呈对角线排列，并配以流畅的笔触过渡。他身穿 {argument name="clothing" default="灰色廓形衬衫，袖口卷起，搭配黑色宽松长裤"}。场景设定在梦幻般的黄金时刻日落时分，拥有温暖的阳光、柔和的阴影和充满活力的电影氛围。包含艺术光影、微妙的镜头光晕、景深效果以及高级的时尚编辑质感。背景应融合城市与自然元素，呈现奢华现代的美学风格。超写实摄影，高细节，清晰对焦，色彩丰富，适合 Instagram 的构图，专业海报设计，4K 画质，时尚青年风格，简洁背景，无文字，无水印，无 Logo，无后期处理
+
+[English]
+Create a trendy vertical aesthetic collage poster featuring the same {argument name="subject" default="20-year-old South Asian man"} with dark curly-wavy hair, light stubble, and stylish orange sunglasses. The collage should showcase three different cinematic poses arranged diagonally with smooth brush-stroke transitions between them. He is wearing a {argument name="clothing" default="gray oversized button-up shirt with rolled-up sleeves and black loose-fit trousers"}.Set the scene during a dreamy golden-hour sunset with warm sunlight, soft shadows, and a vibrant cinematic atmosphere. Include artistic lighting, subtle lens flares, depth of field, and a premium editorial fashion look. The background should feature a blend of urban and natural elements with a luxurious, modern aesthetic.Ultra-realistic photography, high detail, sharp focus, rich colors, Instagram-worthy composition, professional poster design, 4K quality, stylish youth fashion vibe, clean background, no text, no watermark, no logo, no editing
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2064168378454217172) | 2026-06-09
+
+---
+

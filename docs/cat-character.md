@@ -2556,3 +2556,49 @@ Use my uploaded face photo as the only facial identity reference and preserve th
 
 ---
 
+### 🧍 例 921：小男孩角色设定图
+
+![小男孩角色设定图](../images/%E5%B0%8F%E7%94%B7%E5%AD%A9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+マグカップと同じくらいの大きさの少年の簡易的なキャラクターシートを作成してください。3面図と顔のアップ、スケボーの画像を入れてください。文字は詳細に書かなくて良いです。実在する企業ロゴや文字を入れないでください。服にも企業ロゴや文字を入れないでください。
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2064469738953335171) | 2026-06-09
+
+---
+
+### 🧍 例 930：角色技术三视图参考表
+
+![角色技术三视图参考表](../images/%E8%A7%92%E8%89%B2%E6%8A%80%E6%9C%AF%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请严格根据上传的参考图，制作一张专业的角色参考表。使用 {argument name="background" default="干净、中性的纯色背景"}，并将参考表呈现为技术模型三视图，同时精确匹配参考图的视觉风格（包括相同的写实程度、渲染方式、纹理、色彩处理及整体美学）。请按以下方式安排 {argument name="layout" default="布局：分为两行。顶行：四个全身站立视图。底行：三个高度细节化的特写肖像"}。确保每个面板中的角色身份保持完美一致。角色需保持放松的 A 字站姿，各视图之间的比例和对齐需准确，解剖结构要精确，轮廓清晰；确保间距均匀，面板分隔整洁，全身视图的取景和头部高度保持统一，肖像部分的脸部比例保持一致。{argument name="lighting" default="所有面板的灯光应保持一致（相同的方向、强度和柔和度）"}，并使用自然、可控的阴影，在不产生剧烈情绪变化的前提下保留细节。输出效果应为清晰、适合打印的参考表，细节锐利。
+
+[English]
+Create a professional character reference sheet based strictly on the uploaded reference image. Use a {argument name="background" default="clean, neutral plain background"} and present the sheet as a technical model turnaround while matching the exact visual style of the reference (same realism level, rendering approach, texture, color treatment, and overall aesthetic). Arrange the {argument name="layout" default="composition into two horizontal rows. Top row: four full-body standing views. Bottom row: three highly detailed close-up portraits"}. Maintain perfect identity consistency across every panel. Keep the subject in a relaxed A-pose and with consistent scale and alignment between views, accurate anatomy, and clear silhouette; ensure even spacing and clean panel separation, with uniform framing and consistent head height across the full-body lineup and consistent facial scale across the portraits. {argument name="lighting" default="Lighting should be consistent across all panels (same direction, intensity, and softness)"}, with natural, controlled shadows that preserve detail without dramatic mood shifts. Output a crisp, print-ready reference sheet look, sharp details.
+```
+
+**来源：** [@dreamflux](https://x.com/JohnBan36920009/status/2064376663412977808) | 2026-06-09
+
+---
+
+### 🧍 例 986：Reverb City 电影海报
+
+![Reverb City 电影海报](../images/Reverb%20City%20%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+参照画像の人物を唯一の主役にした、1:1正方形構図の劇場公開映画ポスター風ビジュアルを作成してください。参照画像の顔立ち、髪型、髪色、目の印象、年齢感、体型、衣装の印象、全体の雰囲気を忠実に維持し、別人化させず、同一人物として描いてください。参照画像は1枚だけを前提にしてください。 参照画像が実写の場合は、実写映画の公式キービジュアルのように仕上げてください。参照画像がアニメやイラストの場合は、元の絵柄の特徴を残しつつ、高品質なアニメ映画・イラスト映画ポスターとして仕上げてください。 参照画像がバストアップの場合は、無理に全身化せず、顔立ち、髪型、表情、雰囲気を優先した上半身中心のポスター構図にしてください。参照画像が全身の場合は、全身またはスリークォーターの立ち姿として、体型、シルエット、衣装バランスを保ってください。 人物は画面中央または中央やや右寄りに大きく配置し、参照画像が全身の場合は全身またはスリークォーター、バストアップの場合は上半身中心のドラマチックなポスター構図にしてください。髪は風を受けて自然に揺れ、映画ポスターらしい動きと緊張感を出してください。表情は静かで強い視線、ミステリアスで芯のある表情にしてください。衣装は参照画像の色やシルエットを活かしながら、ポスター用に高級感とドラマ性を加えてください。参照画像に小物やアクセサリーがある場合は自然に反映し、なければ無理に追加しないでください。人物の存在感を最優先にし、映画ポスターの主役らしい強い視線とシルエットを作ってください。 背景は暗く重厚な近未来ノワール都市にしてください。霧と煙の奥にそびえる高層ビル群、赤い火の粉や光の粒子、雨上がりのような濡れた反射感、遠くににじむ都市の光を含めてください。全体は黒、グレー、モノクロームを基調にした高コントラストな色調にし、赤を控えめなアクセントカラーとして使ってください。強い逆光、人物の輪郭を際立たせるリムライト、薄い煙と霧、漂う粒子と控えめな火の粉、繊細なフィルムグレイン、深い陰影、プレミアムな映画ポスター質感を加えてください。壮大で高級感のある劇場映画の公式ポスターのように仕上げてください。 ポスター内に日本語と英語の文字要素を自然に統合してください。文字は実際の映画ポスターのように整理されたレイアウトで配置し、読みやすく、美しく、洗練されたタイポグラフィで表現してください。実在の映画名、実在の俳優名、実在の会社ロゴ、実在ブランドは入れないでください。 上部に小さくキャッチコピー： 「街がすべてを忘れても、彼女だけは覚えている。」 中央下に大きくメインタイトル： 「残響都市」 そのすぐ下に英語タイトルを小さめに： 「ECHO CITY」 さらにその下にサブコピー： 「沈黙で築かれた街。真実のために生きる、ひとりの女。」 この中で「真実」だけ赤文字にしてください。 下部のクレジット行には架空映画クレジットを入れてください： 「監督：黒羽ハンナ｜主演：レナ・ノワール｜脚本：白石ケイ｜製作：NORTHLINE PICTURES」 最下部に公開情報を入れてください： 「2027年 秋 公開」 この中で「秋」だけ赤文字にしてください。 タイポグラフィ全体は重厚でシネマティック、プレミアムな劇場映画ポスター風デザインにしてください。正方形ポスターとして、人物、背景、文字がバランスよく一体化した完成度の高い公式キービジュアルにしてください。 high fidelity to the reference image, cinematic movie poster, official theatrical key visual, Japanese title typography, premium poster design, strong visual hierarchy, elegant typography, dramatic lighting, professional color grading, emotional and mysterious mood 別人化、顔立ちの変更、髪型の大幅な変更、髪色の大幅な変更、目の形や色の変更、年齢変更、性別変更、体型変更、服装の大幅な改変、参照画像にない過度な露出、複数人物、顔の重複、身体の重複、手の破綻、指の破綻、余分な指、欠損した指、不自然なポーズ、ぼやけた顔、低解像度、平坦なライティング、安っぽいポスターデザイン、読めない文字、ランダム文字、実在ロゴ、ウォーターマーク、署名、フレーム、ボーダー、明るすぎる背景、ポップすぎる雰囲気、コミカルな表現、軽すぎる雰囲気
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2064252890433388898) | 2026-06-09
+
+---
+

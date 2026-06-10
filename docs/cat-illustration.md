@@ -2533,3 +2533,149 @@ Constraints: Keep the title legible and dominant at the bottom, preserve the gra
 
 ---
 
+### 🎨 例 920：烈焰天使战士
+
+![烈焰天使战士](../images/%E7%83%88%E7%84%B0%E5%A4%A9%E4%BD%BF%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张史诗级的竖版奇幻插画，描绘一位光芒四射的 {argument name="character name" default="烈焰天使"} 从天而降，居中全身构图，悬浮在日落时分广阔的山峦王国之上。天使身穿华丽且经过抛光的 {argument name="armor color" default="金色与象牙白"} 天界板甲，铠甲上带有复杂的金银丝细工、层叠的肩甲、雕刻的胸甲、发光的橙色接缝以及长而飘逸的破损金色布料。赋予该角色长而波浪状的 {argument name="hair color" default="赤褐色"} 头发，脸部被一个简单的扁平 {argument name="face covering" default="棕色长方形面具"} 遮挡，因此看不到任何面部特征。添加两只巨大的火焰羽翼，分别位于身体两侧，向外张开并向上弯曲，由明亮的橙色、金色和白色火焰组成，羽毛结构清晰可见，并伴有火星。在头部后方放置一个发光的圆形神圣光环符文，带有精细的几何环和放射状符文，如同太阳般燃烧。在天使的左手中放置一把燃烧的 {argument name="weapon" default="烈焰之剑"}，剑身向下倾斜指向左下方，拥有白热的剑刃和金色的剑柄。在角色周围环绕着旋转的火带，在身体周围和下方前景形成一个松散的圆形漩涡。背景是戏剧性的天界天空，包含风暴云、阳光、余烬、远处的锯齿状山脉、山谷中发光的河流或熔岩般的亮光路径，以及悬崖上的微小城堡尖顶。采用超精细的高奇幻数字绘画风格，电影级光影，体积光，极致发光效果，锐利的铠甲细节，温暖的橙金色调，宏伟的神圣氛围，对称的英雄构图，无文字，无水印。
+
+[English]
+Create an epic vertical fantasy illustration of a radiant {argument name="character name" default="fiery angel"} descending from the heavens, centered in the frame and shown full body, floating above a vast mountainous kingdom at sunset. The angel wears ornate polished {argument name="armor color" default="gold and ivory"} celestial plate armor with intricate filigree, layered pauldrons, engraved chest pieces, glowing orange seams, and long flowing tattered golden cloth panels. Give the figure long wavy {argument name="hair color" default="auburn"} hair, with the face intentionally hidden by a simple flat {argument name="face covering" default="brown rectangular mask"} so no facial features are visible. Add exactly two enormous flaming feathered wings, one on each side, spread wide and arcing upward, made of bright orange, gold, and white fire with visible feather structure and sparks. Behind the head place one glowing circular sacred halo sigil with fine geometric rings and radiant runes, burning like a sun. In the angel’s left hand place one blazing {argument name="weapon" default="flaming sword"} angled down toward the lower left, with a white-hot blade and golden hilt. Surround the figure with swirling ribbons of fire forming a loose circular vortex around the body and across the lower foreground. The background is a dramatic heavenly sky with storm clouds, sunbeams, embers, distant jagged mountains, glowing rivers or lava-like light paths through the valley, and tiny castle spires on cliffs. Use ultra-detailed high-fantasy digital painting style, cinematic lighting, volumetric rays, extreme glow, sharp armor detail, warm orange-gold palette, majestic divine mood, symmetrical heroic composition, no text, no watermark.
+```
+
+**来源：** [@NoPuppet](https://x.com/nopuppet/status/2064473358771818999) | 2026-06-09
+
+---
+
+### 🎨 例 922：柔软猫耳动漫艺术
+
+![柔软猫耳动漫艺术](../images/%E6%9F%94%E8%BD%AF%E7%8C%AB%E8%80%B3%E5%8A%A8%E6%BC%AB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+夏に向かってはじける麗しい{argument name="被写体" default="猫耳"}を見てみたいです。{argument name="スタイル" default="にじジャーニー"}っぽいモフっとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2064462070431817762) | 2026-06-09
+
+---
+
+### 🎨 例 936：日本电车上的黄色小鸡吉祥物
+
+![日本电车上的黄色小鸡吉祥物](../images/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%BD%A6%E4%B8%8A%E7%9A%84%E9%BB%84%E8%89%B2%E5%B0%8F%E9%B8%A1%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个写实且略带奇幻色彩的场景，背景位于 {argument name="city" default="名古屋"} 一列拥挤的日本通勤电车内。在车厢中央过道站着一个巨大的等身大吉祥物：一只圆滚滚、毛茸茸的 {argument name="animal" default="黄色小鸡"}，有着柔软蓬松的绒毛、黑色光亮的眼睛、小巧的橙色喙、橙色的蹼足、细小的翅膀，头顶附近还别着一个小巧的粉色花朵发夹。给吉祥物穿上一件厚实的 {argument name="clothing item" default="芥末黄麻花针织开衫"}，针织纹理清晰可见，下摆带有流苏，颜色与身体相呼应。周围站满了穿着冬季商务装和外套的成年通勤者，他们分列在过道两侧；他们的面部应呈现出刻意的模糊或匿名化处理。电车内部应真实且紧凑：银色扶手、吊环拉手、天花板荧光灯、两侧的紫色座椅、磨损的深色地板、车窗和滑动门，以及随处可见的日本广告海报。包含头顶的数字路线显示屏，其中一个显眼地显示着绿色的日文 {argument name="destination text" default="名古屋"}。采用广角平视构图，呈现车厢内的对称透视，温暖的室内光线，高细节，将纪实街头摄影的真实感与吉祥物的超现实幽默感相结合。过道内无其他角色，无水印，无标题，非卡通渲染。
+
+[English]
+Create a photorealistic, slightly whimsical scene inside a crowded Japanese commuter train in {argument name="city" default="Nagoya"}. In the exact center aisle stands a large life-size mascot character: a round fluffy {argument name="animal" default="yellow chick"} with soft shaggy fur, black glossy eyes, a small orange beak, orange webbed feet, tiny wings, and a small pink flower hair clip near the top of its head. Dress the mascot in a chunky knitted {argument name="clothing item" default="mustard-yellow cable-knit cardigan"} with visible braided patterns and fringe at the hem, matching the body color. Surround it with standing adult commuters in winter business attire and coats, lined along both sides of the aisle; their faces should appear intentionally blurred or anonymized. The train interior should be realistic and dense: silver handrails, hanging strap handles, fluorescent ceiling lights, purple seats at the sides, worn dark floor, windows and sliding doors, and Japanese advertisement posters throughout. Include overhead digital route signs, one prominently showing {argument name="destination text" default="名古屋"} in green Japanese text. Use a wide-angle eye-level composition, symmetrical perspective down the train car, warm indoor lighting, high detail, documentary street-photography realism mixed with surreal mascot humor. No extra characters in the aisle, no watermark, no captions, no cartoon rendering.
+```
+
+**来源：** [@MarioTan](https://x.com/TanShilong/status/2064369101737537868) | 2026-06-09
+
+---
+
+### 🎨 例 937：超现实主义中世纪风格编辑插画
+
+![超现实主义中世纪风格编辑插画](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E4%B8%AD%E4%B8%96%E7%BA%AA%E9%A3%8E%E6%A0%BC%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超现实主义中世纪风格编辑插画，描绘照片中人物的怪诞版本与一只 {argument name="animal" default="[动物]"} 在时尚的 {argument name="scenery" default="[风景]"} 中，修长的比例，夸张的窄脸，冷漠的表情，超大号配饰，怪异的时尚氛围，油画笔触质感，扭曲的解剖结构，微妙的低俗超现实主义，精致的荒诞感，以 {argument name="color one" default="[颜色 1]"}、{argument name="color two" default="[颜色 2]"} 和 {argument name="color three" default="[颜色 3]"} 为主导的鲜艳复古色调，富有表现力的油画笔触，时尚的复古服装，夸张的珠宝和眼镜，背景中模糊的奇思妙想角色，优雅的咖啡馆文化氛围，电影级构图，带纹理的绘画背景，当代艺术画廊与 1960 年代里维埃拉插画的结合，高度风格化的编辑美学，垂直构图 4:5
+
+[English]
+Surreal mid-century editorial illustration of an eccentric version of the person in the photo and a {argument name="animal" default="[ANIMAL]"} inside a stylish {argument name="scenery" default="[SCENERY]"}, elongated proportions, exaggerated narrow faces, deadpan expressions, oversized accessories, bizarre fashionable atmosphere, painterly brush textures, distorted anatomy, subtle lowbrow surrealism, sophisticated absurdity, vivid retro color palette dominated by {argument name="color one" default="[COLOR 1]"}, {argument name="color two" default="[COLOR 2]"}, and {argument name="color three" default="[COLOR 3]"}, expressive oil-painted strokes, fashionable vintage clothing, dramatic jewelry and eyewear, whimsical background characters softly blurred in distance, elegant café culture energy, cinematic composition, textured painted background, contemporary art gallery meets 1960s Riviera illustration, highly stylized editorial aesthetic, vertical composition 4:5
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2064366007741739404) | 2026-06-09
+
+---
+
+### 🎨 例 967：沙漠之夜飞机咖啡馆的故事
+
+![沙漠之夜飞机咖啡馆的故事](../images/%E6%B2%99%E6%BC%A0%E4%B9%8B%E5%A4%9C%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86%E7%9A%84%E6%95%85%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+旅の少年が来た飛行機カフェ
+
+砂漠の夜のカウンターに
+今夜は{argument name="少年" default="マントを羽織った旅の少年"}が座りました
+
+温かいコーヒーをひとつ頼んで
+青いカップを手にしたその横で
+{argument name="猫" default="猫店長"}はさっそく気を引こうと大はりきりです
+
+一番星みたいな光を差し出して
+「こっちも見て」と言いたげに背伸びする姿に
+少年も少しだけ旅の顔をゆるめた気がします
+
+遠くから来た人ほど
+まずは一杯と、ひと呼吸が似合う場所なのかもしれません
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2064300290309025809) | 2026-06-09
+
+---
+
+### 🎨 例 972：动漫风格机甲时尚大片
+
+![动漫风格机甲时尚大片](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%9C%BA%E7%94%B2%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+上传图片中的半写实动漫风格年轻女性，全身时尚大片，随意坐在阳光明媚的屋顶边缘，身穿未来感蓝色飞行员夹克、白色 T 恤、黑色战术工装裤，佩戴露指手套，身后矗立着巨大的 RX-78-2 Gundam，超精细机械装甲，图形化动漫叠加元素，HUD 图形，未来感文字，电影级 HDR 灯光，城市天际线背景，白、蓝、红、黄配色，8K 分辨率。
+
+[English]
+Semi-realistic anime style young woman in the uploaded image, full-body fashion editorial, sitting casually on sunlit rooftop ledge, futuristic blue pilot jacket, white t-shirt, black tactical cargo pants, fingerless gloves, giant RX-78-2 Gundam towering behind, hyper-detailed mechanical armor, graphic anime overlay elements, HUD graphics, futuristic text, cinematic HDR lighting, urban skyline background, white blue red yellow palette, 8K.
+```
+
+**来源：** [@Nawal](https://x.com/nawalsehar/status/2064292483362885711) | 2026-06-09
+
+---
+
+### 🎨 例 976：猫耳少女数字插画
+
+![猫耳少女数字插画](../images/%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+夏に向かってはじける{argument name="主体" default="麗しい猫耳"}を見てみたいです。{argument name="スタイル" default="にじジャーニーっぽいカラッとしたデジタルイラスト"}を生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2064271001987547423) | 2026-06-09
+
+---
+
+### 🎨 例 1010：宇宙墨水飞溅情侣剪影
+
+![宇宙墨水飞溅情侣剪影](../images/%E5%AE%87%E5%AE%99%E5%A2%A8%E6%B0%B4%E9%A3%9E%E6%BA%85%E6%83%85%E4%BE%A3%E5%89%AA%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅令人惊叹的 {argument name="subject" default="浪漫情侣"} 侧面剪影，采用 {argument name="art style" default="抽象宇宙墨水飞溅艺术风格"}，两人额头相抵，姿态动人。他们的身体溶解为爆发式的颜料飞溅、发光的星尘以及向外剧烈流动的银河粒子。浓郁的暗黑美学，以 {argument name="color palette" default="鲜艳的翡翠绿、炽热的橙色、深绯红和发光的金色"} 取代了传统色彩。高对比度光影，梦幻般的宇宙质感，墨水溅射效果与天体尘埃交融，柔和的发光边缘，忧郁浪漫的氛围，超精细数字艺术，现代海报美学，大胆的对比，简洁背景，4K，竖向构图。
+
+[English]
+A breathtaking side-profile silhouette of a {argument name="subject" default="romantic couple"} in an {argument name="art style" default="abstract cosmic ink-splash art style"}, standing forehead-to-forehead in an emotional pose. Their bodies dissolve into explosive paint splashes, glowing stardust, and galaxy particles flowing dramatically outward. Rich dark aesthetic with {argument name="color palette" default="vibrant emerald green, fiery orange, deep crimson, and glowing gold"} replacing traditional colors. High contrast lighting, dreamy cosmic texture, ink splatter effects merging with celestial dust, soft glowing edges, moody romantic atmosphere, ultra-detailed digital art, modern poster aesthetic, bold contrast, clean background, 4K, vertical composition.
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2064190049445638443) | 2026-06-09
+
+---
+

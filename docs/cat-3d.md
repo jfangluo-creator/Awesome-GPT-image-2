@@ -1616,3 +1616,57 @@ Constraints: Keep the poster visually cute and practical, like a real printable 
 
 ---
 
+### 🧸 例 966：复古工作室微缩模型与虎斑猫
+
+![复古工作室微缩模型与虎斑猫](../images/%E5%A4%8D%E5%8F%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E4%B8%8E%E8%99%8E%E6%96%91%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="setting" default="充满怀旧收藏品、温暖电影感光效和丰富木质纹理的舒适复古工作室"}。一位 {argument name="subject" default="留着飘逸黑发、戴着墨镜的时尚男士自信地坐在木椅上，手里拿着咖啡杯"}。在他身后是 {argument name="background elements" default="一辆经典的浅蓝色复古敞篷跑车，几只戴着小礼帽的可爱虎斑猫"} 散落在场景中。房间里堆满了古董相机、旧书、时钟、复古收音机、装裱好的艺术品和装饰性珍品。上方有一盏发出温暖光芒的大型工业台灯。浅景深，背景虚化，超精细微缩模型美学，逼真纹理，照片级真实感，电影级构图，黄金时刻色调，高度细节化，8k 分辨率，杰作，杂志级摄影，错综复杂的叙事场景。
+
+[English]
+A {argument name="setting" default="cozy vintage workshop filled with nostalgic collectibles, warm cinematic lighting, and rich wooden textures"}. A {argument name="subject" default="stylish man with flowing dark hair and sunglasses sits confidently in a wooden chair, holding a coffee cup"}. Behind him is a {argument name="background elements" default="classic light-blue vintage convertible sports car and several adorable tabby cats wearing tiny top hats"} are scattered around the scene. The room is packed with antique cameras, old books, clocks, retro radios, framed artwork, and decorative curiosities. Large industrial desk lamp glowing warmly overhead. Shallow depth of field, bokeh background, ultra-detailed miniature diorama aesthetic, realistic textures, photorealistic, cinematic composition, golden-hour tones, highly detailed, 8k resolution, masterpiece, magazine-quality photography, intricate storytelling scene.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2064301067828150394) | 2026-06-09
+
+---
+
+### 🧸 例 984：电影感空手道披萨厨师分镜脚本
+
+![电影感空手道披萨厨师分镜脚本](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%A9%BA%E6%89%8B%E9%81%93%E6%8A%AB%E8%90%A8%E5%8E%A8%E5%B8%88%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作 8 帧独立的极具电影感的 3D 动画卡通分镜，展现一位 {argument name="subject" default="充满活力的厨师"} 以 {argument name="martial arts style" default="空手道战士"} 的风格，以不可思议的速度制作 {argument name="food item" default="披萨"}。风格：充满活力的彩色 3D 动画卡通，非 Pixar 非 Disney，原创动画风格，明亮温暖的色调
+
+[English]
+Create 8 separate ultra-cinematic 3D animated cartoon storyboard frames of an {argument name="subject" default="energetic chef"} making {argument name="food item" default="pizza"} at impossible speed in {argument name="martial arts style" default="karate warrior"} style. Style: vibrant colorful 3D animated cartoon, NOT Pixar NOT Disney, original animation style, bright warm colors
+```
+
+**来源：** [@Shara | AI Video Creator](https://x.com/itsshara_ai/status/2064256009733046427) | 2026-06-09
+
+---
+
+### 🧸 例 1003：3D 纪念徽章旅行海报
+
+![3D 纪念徽章旅行海报](../images/3D%20%E7%BA%AA%E5%BF%B5%E5%BE%BD%E7%AB%A0%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级旅行海报，主体为 {argument name="aesthetic" default="悬浮在干净哑光背景上的 3D 微型纪念徽章"}。徽章内部包含一个高度精细的微型立体模型，重现了 {argument name="scene" default="真实的旅行照片场景：一位游客正在欣赏全景城市景观/地标"}，呈现逼真的建筑、氛围光效和电影级景深。徽章边缘经过精心雕刻，具有手工树脂珐琅质感、复杂的微型细节、柔和的阴影以及奢华的收藏级磁贴美学。在徽章下方，使用优雅的衬线字体以大写字母显示 {argument name="destination" default="目的地名称"}，下方标注国家名称。在徽章下方，展示无缝融合的原始旅行照片作为参考场景。极简主义设计，与目的地氛围相符的柔和色调，高端旅游品牌风格，超逼真 3D 渲染，浅景深，柔和的环境光，精致的排版布局，奢华明信片美学，照片级真实材质，高端旅行宣传，8K 画质，居中构图，简洁的留白，博物馆级艺术作品。
+
+[English]
+Create a premium travel poster featuring a {argument name="aesthetic" default="miniature 3D souvenir badge floating on a clean matte background"}. The badge contains a highly detailed miniature diorama recreating the {argument name="scene" default="exact travel photo scene: a traveler enjoying a panoramic cityscape/landmark view"}, realistic architecture, atmospheric lighting, and cinematic depth. The badge has sculpted edges, handcrafted resin enamel texture, intricate miniature details, soft shadows, and luxury collectible magnet aesthetics. Below the badge, elegant serif typography displays the {argument name="destination" default="destination name"} in large capital letters with the country name beneath it. Under the badge, show the original travel photograph seamlessly integrated as a reference scene. Minimalist design, muted color palette matching the destination mood, premium tourism branding, ultra-realistic 3D render, shallow depth of field, soft ambient lighting, sophisticated editorial layout, luxury postcard aesthetic, photorealistic materials, high-end travel campaign, 8K quality, centered composition, clean negative space, museum-quality artwork.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2064202426220229089) | 2026-06-09
+
+---
+

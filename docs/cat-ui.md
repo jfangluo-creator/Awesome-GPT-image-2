@@ -1990,3 +1990,187 @@ A breathtaking anime-style illustration of a young woman in an elegant {argument
 
 ---
 
+### 🖥️ 例 919：角色主题涂装有轨电车摄影
+
+![角色主题涂装有轨电车摄影](../images/%E8%A7%92%E8%89%B2%E4%B8%BB%E9%A2%98%E6%B6%82%E8%A3%85%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张插图。完全基于上传的插图，创作一个原创的 {argument name="character theme" default="日式角色涂装有轨电车"}。设计一个完全虚构的电车系统和铁路公司，使其自然地源自该艺术作品的世界观，且不得与任何现实中的铁路运营商或现有车辆相似。设计必须适配插图本身：若为柔和的奇幻或神社主题，则采用 {argument name="styling" default="可爱圆润的风格"}；若为庄严的世界，则采用优雅奢华的风格；若为赛博朋克背景，则采用未来主义风格；若为魔法世界，则采用神秘风格；若为怀旧氛围，则采用复古现代风格；若为冒险主题角色，则采用英雄风格。电车车身形状、前脸、车窗、前大灯、车顶设备、受电弓、内部座椅、地板图案、目的地显示屏、灯光、材质以及整体轮廓，必须在视觉上反映出上传插图的色彩、主题、时尚、建筑、符号、魔法、技术和情感基调。所有涂装艺术、标志、路线徽章、铁路标识、排版、车站标牌和装饰性图形，都必须是仅受上传插图启发而完全原创的虚构设计。电车应行驶在 {argument name="location" default="写实城市"}、历史街区、海滨大道、未来感市中心、神社小镇、奇幻之都，或其他自然源自该艺术作品世界的环境中。如果插图中存在角色，请将他们自然地放置在电车旁、登车时、在站台上挥手，或在车厢内乘坐，同时保持其身份特征。电影级交通摄影，戏剧性的低角度构图，超精细，动漫风格杰作，高级铁路广告品质，无水印。
+
+[English]
+Make an illustration. Create an original {argument name="character theme" default="Japanese character-wrapped streetcar"} based entirely on the uploaded illustration. Design a fully fictional tram system and railway company naturally born from the artwork’s universe, never resembling any real railway operator or existing vehicle. The design must adapt to the illustration itself: {argument name="styling" default="cute rounded styling"} for soft fantasy or shrine themes, elegant luxury styling for regal worlds, futuristic styling for cyberpunk settings, mystical styling for magical worlds, retro-modern styling for nostalgic atmospheres, or heroic styling for adventure-themed characters. The tram body shape, front face, windows, headlights, roof equipment, pantograph, interior seating, floor patterns, destination displays, lighting, materials, and overall silhouette must visually reflect the uploaded illustration’s colors, motifs, fashion, architecture, symbols, magic, technology, and emotional tone. All wrapping artwork, logos, route emblems, railway insignia, typography, station signage, and decorative graphics must be fully original fictional designs inspired only by the uploaded illustration. The tram should travel through a {argument name="location" default="realistic city"}, historic district, seaside boulevard, futuristic downtown, shrine town, fantasy capital, or other environment naturally derived from the artwork’s world. If a character exists in the illustration, place them naturally beside the tram, boarding it, waving from a platform, or riding inside while preserving their identity. Cinematic transportation photography, dramatic low-angle composition, ultra detailed, anime-inspired masterpiece, premium railway advertisement quality, no watermark.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2064480037903171612) | 2026-06-09
+
+---
+
+### 🖥️ 例 943：戴着潜水头盔的水下玩家
+
+![戴着潜水头盔的水下玩家](../images/%E6%88%B4%E7%9D%80%E6%BD%9C%E6%B0%B4%E5%A4%B4%E7%9B%94%E7%9A%84%E6%B0%B4%E4%B8%8B%E7%8E%A9%E5%AE%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖构图水下奇幻肖像，画面中一名年轻女性戴着带有透明球形玻璃罩的复古黄铜潜水头盔，坐在古老的水下遗迹中。她的面部被一个位于中心位置的哑光棕色实心正方形遮挡，遮住五官的同时露出头发、头盔、颈部和服装。她留着中等长度的深棕色头发，身穿一件鲜艳的 {argument name="suit color" default="red"} 定制西装外套和配套长裤，内搭白衬衫，肩部有深色肩带，衣领周围装饰着黄铜潜水装备。她双手横握一台黑色掌上游戏机，仿佛正兴奋地在水下玩游戏。场景明亮、具有电影质感且细节丰富：绿松石色的海水、从上方射下的阳光、上升的气泡、两侧色彩斑斓的珊瑚礁、小型热带鱼、左下角前景中有两条橙色小丑鱼、中右侧背景中有一只半透明水母、左侧海底有一个旧宝箱，后方左侧有古老的石柱和遗迹。运用逼真的光影、玻璃头盔上的光泽反射、黄铜金属细节、柔和的景深、鲜艳的珊瑚礁色彩以及充满魔幻冒险感的氛围。竖构图 3:4，主体居中，取膝盖以上部分，无文字，无水印。
+
+[English]
+Create a photorealistic vertical underwater fantasy portrait of a young woman wearing a vintage brass diving helmet with a clear spherical glass dome, seated in an ancient submerged ruin. Her face should be intentionally obscured by a centered solid square privacy block in muted brown, covering the facial features while leaving the hair, helmet, neck, and outfit visible. She has medium-length dark brown hair visible inside the dome and wears a vivid {argument name="suit color" default="red"} tailored blazer and matching trousers over a white shirt, with dark shoulder straps and brass diving gear around the collar. She holds a black handheld game console horizontally with both hands as if excitedly playing underwater. The scene is bright, cinematic, and highly detailed: turquoise-blue ocean water, sunbeams from above, rising air bubbles, colorful coral reefs on both sides, small tropical fish, two orange clownfish in the lower left foreground, a translucent jellyfish in the mid-right background, an old treasure chest on the seafloor at left, and ancient stone columns and ruins in the rear left. Use realistic lighting, glossy reflections on the glass helmet, brass metal details, soft depth of field, vibrant reef colors, and a magical adventurous mood. Vertical 3:4 composition, centered subject from knees upward, no text, no watermark.
+```
+
+**来源：** [@アユネオ](https://x.com/Ayu_AI_0912/status/2064350876559651254) | 2026-06-09
+
+---
+
+### 🖥️ 例 950：昭和动画风格寿喜烧项目
+
+![昭和动画风格寿喜烧项目](../images/%E6%98%AD%E5%92%8C%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%AF%BF%E5%96%9C%E7%83%A7%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为关于 {argument name="dish" default="日式寿喜烧"} 的烹饪短片创建一张单页项目，采用怀旧的昭和时代日本动画风格，呈现温暖的赛璐珞着色、手绘食物质感、电影级特写、蒸汽、光泽酱汁以及令人垂涎的动态效果。
+
+画布：超宽 21:9 纵横比，干净的白色背景，一张包含 12 个项目格的图像，按 4 列 3 行排列。每个项目格之间用细浅灰色边框和窄白色间隙隔开。无标题，无编号，无水印。
+
+视觉风格：1970 年代至 1980 年代日本电视动画食物风格，细节丰富且具有绘画感的线条，温暖的琥珀色厨房灯光，戏剧性的特写构图，可见的蒸汽和沸腾的液体，浓郁的棕色和红色，逼真的大理石花纹牛肉质感，柔和的胶片颗粒感。
+
+项目布局和内容，共 12 格：
+1. 极近距离特写薄切大理石花纹牛肉，鲜红的肉质与白色脂肪纹理填满整个画面。
+2. 特写镜头：一只手在木制项目上切长条大葱，可见几片椭圆形葱段，手部持葱。
+3. 特写镜头：一块黄油在黑色铁制寿喜烧锅中融化并产生泡沫。
+4. 薄切大理石花纹牛肉铺在滚烫的黑色锅中，开始煎烤并发出滋滋声。
+5. 小酱汁壶将深色寿喜烧酱汁淋在锅中牛肉上，酱汁在肉周围沸腾。
+6. 牛肉和洋葱片在光亮的棕色酱汁中剧烈炖煮，浓郁的蒸汽升腾。
+7. 豆腐块和茼蒿加入锅中，与炖煮的牛肉和洋葱放在一起。
+8. 手将生鸡蛋打入米色陶瓷碗中，明亮的橙色蛋黄位于透明蛋清中央。
+9. 筷子将煮熟的牛肉蘸入碗中的生鸡蛋液，金黄的蛋液包裹着肉片。
+10. 筷子夹起一片挂着光亮蛋液的牛肉，背景为温暖的橙色。
+11. 侧面特写：一个留着深色短发的人张开嘴准备享用筷子上的牛肉；仅露出下半脸和嘴部，蒸汽飘散。
+12. 最终俯视四分之三角度镜头：完成的寿喜烧火锅，牛肉、大葱、豆腐、蔬菜、洋葱和面条整齐地摆放在黑锅中，热气腾腾。
+
+约束：保持所有 12 个项目格清晰分隔，并按从左到右、从上到下的正确阅读顺序排列。在各个项目格中保持一致的动画外观，多使用食物特写而非厨房全景，避免在图像内添加任何文字。
+
+[English]
+Goal: Create a single storyboard sheet for a short cooking video about {argument name="dish" default="Japanese sukiyaki"}, drawn in a nostalgic Showa-era Japanese anime style with warm cel-shaded colors, hand-painted food texture, cinematic close-ups, steam, glossy sauce, and appetizing motion.
+
+Canvas: Extra-wide 21:9 aspect ratio, clean white background, one image containing exactly 12 storyboard panels arranged in a 4-column by 3-row grid. Separate every panel with thin light-gray borders and narrow white gutters. No captions, no panel numbers, no watermark.
+
+Visual style: 1970s–1980s Japanese TV anime food animation, detailed but painterly linework, warm amber kitchen lighting, dramatic close-up compositions, visible steam and bubbling liquid, rich browns and reds, realistic marbled beef texture, soft film-grain feel.
+
+Panel layout and contents, exactly 12 panels:
+1. Extreme close-up of thinly sliced marbled beef, vivid red meat with white fat veins filling the entire frame.
+2. Close-up of a knife slicing a long white leek on a wooden cutting board, several oval leek slices visible, hand holding the leek.
+3. Close-up of a cube of butter melting and foaming in a black iron sukiyaki pan.
+4. Thin slices of marbled beef spread across the hot black pan, beginning to sear and sizzle.
+5. A small sauce pot pouring dark sukiyaki sauce over beef in the pan, sauce bubbling around the meat.
+6. Beef and sliced onions simmering vigorously in glossy brown sauce, heavy steam rising.
+7. Tofu cubes and green chrysanthemum leaves added into the pan beside simmering beef and onions.
+8. Hands cracking a raw egg into a beige ceramic bowl, bright orange yolk centered in clear egg white.
+9. Chopsticks dipping cooked beef into the raw egg mixture in the bowl, golden egg coating the meat.
+10. Chopsticks lifting a dripping piece of beef coated in glossy egg against a warm orange background.
+11. Side close-up of a person with short dark hair opening their mouth to eat the beef from chopsticks; only the lower face and mouth are visible, steam drifting.
+12. Final overhead three-quarter shot of the completed sukiyaki hot pot: beef, leeks, tofu, greens, onions, and noodles arranged in a black pot, steaming generously.
+
+Constraints: Keep all 12 panels clearly separated and in the correct reading order from left to right, top to bottom. Maintain a consistent anime look across panels, use food close-ups rather than wide kitchen shots, and avoid adding any text inside the image.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2064335983848640617) | 2026-06-09
+
+---
+
+### 🖥️ 例 964：强制透视旅行票火车
+
+![强制透视旅行票火车](../images/%E5%BC%BA%E5%88%B6%E9%80%8F%E8%A7%86%E6%97%85%E8%A1%8C%E7%A5%A8%E7%81%AB%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+强制透视摄影，人手持复古旅行票，微型高铁从票面驶出至纸上，精致的微型城市景观，带有高耸尖塔的著名大教堂，周围环绕着草图风格的建筑和设计图，手写草书文本标签，
+
+[English]
+Forced perspective photography, human hand holding vintage travel ticket, miniature high-speed train emerging from ticket onto paper, tiny detailed city scene with famous cathedral with tall spires, sketch style buildings and architecture drawings surrounding the scene, handwritten cursive text labels,
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2064307547033546812) | 2026-06-09
+
+---
+
+### 🖥️ 例 987：时尚编辑摄影 JSON 提示词
+
+![时尚编辑摄影 JSON 提示词](../images/%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%91%84%E5%BD%B1%20JSON%20%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+subject": {"person": "女性","appearance": {"hair": "深棕色，梳成利落的后梳发髻","pose": "站立，一条腿微微抬起，膝盖弯曲，低头，表情柔和","outfit": {"style": "单色，实用主义时尚连体裤","color": "深咖啡棕色","details": "短袖衬衫领口，配有胸前口袋，腰部系带配有金色搭扣，阔腿裤"},"footwear": "尖头高跟鞋，颜色与深棕色相匹配"}},"setting": {"background": "极简主义，柔焦垂褶织物背景","lighting": {"type": "影棚人像布光","quality": "柔和、漫射、戏剧性阴影","effect": "营造出柔和的渐变效果并突显轮廓"}},"technical_specifications": {"image_quality": "4k 分辨率，高清","style": "时尚摄影，编辑风格","color_palette": ["#4B3621","#6F4E37","#D2B48C"],"composition": "全身照，居中构图","atmosphere": "优雅，精致，现代"}}
+
+[English]
+subject": {"person": "woman","appearance": {"hair": "dark brown, styled in a sleek, pulled-back bun","pose": "standing, one leg lifted slightly with the knee bent, looking downwards with a soft expression","outfit": {"style": "monochromatic, utilitarian chic jumpsuit","color": "deep coffee brown","details": "short-sleeved shirt top with collar and chest pockets, belted waist with a gold-toned buckle, wide-leg trousers"},"footwear": "pointed-toe high heels in a matching deep brown color"}},"setting": {"background": "minimalist, soft-focus draped fabric backdrop","lighting": {"type": "studio portrait lighting","quality": "soft, diffused, dramatic shadows","effect": "creates a gentle gradient and highlights the silhouette"}},"technical_specifications": {"image_quality": "4k resolution, high definition","style": "fashion photography, editorial","color_palette": ["#4B3621","#6F4E37","#D2B48C"],"composition": "full-body shot, centered","atmosphere": "elegant, sophisticated, modern"}}
+```
+
+**来源：** [@NUSRAT](https://x.com/nxnusratul/status/2064249048685568089) | 2026-06-09
+
+---
+
+### 🖥️ 例 1000：哥特风花魁动漫肖像
+
+![哥特风花魁动漫肖像](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E8%8A%B1%E9%AD%81%E5%8A%A8%E6%BC%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的动漫插画，描绘一位优雅的哥特风花魁，以戏剧性的四分之三侧身姿态端坐，背景为纯黑色，后方衬托着深红色的废墟教堂/窗户剪影。角色是一位面色苍白、宛如人偶的年轻女性，留着 {argument name="hair color" default="铂金色"} 的长发，发型为精致的高耸花魁发髻，配有长卷发、齐刘海、尖尖的精灵耳、冰蓝色的双眼，表情平静而空灵。她的脑后戴着华丽的黑色尖刺金属光环/皇冠，并配有 7 个显眼的发饰：左侧有 3 根交叉的黑色长矛状发簪，1 个卷曲的金色饰品，左侧头部附近有 1 个红色小蝴蝶结，耳边有 1 个红色蝴蝶结，右侧有 1 个红色长方形丝带。为她穿上融合了日本花魁和服、洛丽塔时尚与哥特维多利亚风格的华丽服饰：黑白领口、白色手套、层叠的荷叶边袖子、带有醒目白色书法图案的黑色外袍、腰间巨大的红色腰封蝴蝶结，以及由撕裂的纸质和服布料组成的巨大层叠裙摆。使用黑色、白色、饱和红、亮青色和浅奶油色的醒目配色。裙摆应占据画面下方的三分之二，布满锯齿状的青色布条，上面覆盖着黑色手写文字、带有白色书法的黑色布条、白色荷叶边、红色蝴蝶结，以及左侧带有粉灰色图案的腰封部分。画面中醒目的装饰性蝴蝶结数量应精确为 5 个：发间 2 个，腰间 1 个超大红色蝴蝶结，裙摆下方 2 个红色蝴蝶结。她的右手优雅地抬起，掌心向上，水平托着一根细长的 {argument name="smoking pipe" default="金红相间的烟管"}；另一只戴着手套的手优雅地搭在堆叠的布料上。采用锐利的墨线勾勒、赛璐珞高光、复杂的纺织品纹理、高对比度、时尚杂志编辑式的构图、超现实的哥特氛围，并采用竖向肖像裁剪。在背景右侧添加微妙的红色手写文字，但不要出现可辨认的现代字体、水印或写实风格。
+
+[English]
+Create a highly detailed anime illustration of an elegant gothic oiran courtesan seated in a dramatic three-quarter pose against a pure black background with a crimson ruined cathedral/window silhouette behind her. The character is a pale, doll-like young woman with {argument name="hair color" default="platinum blonde"} hair styled in an elaborate high oiran updo with long curled ringlets, blunt bangs, pointed elf ears, icy blue eyes, and a calm vacant expression. She wears an ornate black spiked metal halo/crown behind her head, plus exactly 7 visible hair ornaments: 3 long black spear-like hairpins crossing diagonally on the left, 1 curled gold ornament, 1 small red ribbon bow near the left side of the head, 1 red ribbon bow by the ear, and 1 red rectangular ribbon on the right side. Dress her in a lavish fusion of Japanese oiran kimono, lolita fashion, and gothic Victorian styling: a black-and-white collar, white gloves, layered ruffled sleeves, a black upper robe with bold white calligraphy, a huge red obi bow at the waist, and an enormous cascading skirt made of torn paper-like kimono panels. Use a striking palette of black, white, saturated red, bright cyan blue, and pale cream. The skirt should dominate the lower two-thirds of the image with many jagged cyan fabric strips covered in black handwritten characters, black strips with white calligraphy, white ruffled edges, red bows, and a pink-and-gray patterned obi section on the left. Count the prominent decorative bows as exactly 5: 2 in the hair, 1 oversized red bow at the waist, and 2 red bows in the lower skirt. Her right hand is raised delicately, palm up, balancing a long slender {argument name="smoking pipe" default="gold-and-red kiseru pipe"} horizontally; her other gloved hand rests elegantly over the piled fabric. Use sharp inked linework, cel-shaded highlights, intricate textile patterns, high contrast, fashion-editorial composition, surreal gothic atmosphere, and a vertical portrait crop. Add subtle red handwritten characters on the right side of the background, but no readable modern typography, no watermark, no photorealism.
+```
+
+**来源：** [@towa💎AIart](https://x.com/towa_AIillust/status/2064207147752448495) | 2026-06-09
+
+---
+
+### 🖥️ 例 1008：超现实波普艺术：周二的混乱
+
+![超现实波普艺术：周二的混乱](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%EF%BC%9A%E5%91%A8%E4%BA%8C%E7%9A%84%E6%B7%B7%E4%B9%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实超现实波普艺术场景，一个 {argument name="subject" default="年轻男子"} 在城市中奔跑，身后有 {argument name="object" default="巨大的闹钟"} 在追赶他。巨大的彩色 "{argument name="text" default="TUESDAY"}" 字母撞碎了他身后的建筑。表情：滑稽的惊恐，眼球突出，嘴巴夸张地张开，充满喜剧感的恐慌。到处漂浮着明亮的锯齿、星星、箭头、漫画爆炸、笑脸和彩色涂鸦。全彩，鲜艳的波普色彩，超写实摄影，异想天开的混乱，电影级光效，充满活力的动作场景。
+
+[English]
+Ultra realistic surreal pop-art scene, a {argument name="subject" default="young man"} running through a city while {argument name="object" default="giant alarm clocks"} chase him. Huge colorful "{argument name="text" default="TUESDAY"}" letters crash through buildings behind him. Expression: hilariously terrified, bulging eyes, exaggerated open mouth, comedic panic. Bright doodles of zigzags, stars, arrows, comic explosions, smiley faces, and colorful scribbles floating everywhere. Fullcolor, vibrant pop colors, ultra realistic photography, whimsical chaos, cinematic lighting, energetic action scene.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2064192943372853407) | 2026-06-09
+
+---
+
+### 🖥️ 例 1022：奢华调酒流体力学海报
+
+![奢华调酒流体力学海报](../images/%E5%A5%A2%E5%8D%8E%E8%B0%83%E9%85%92%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，针对 4 款极受欢迎的饮品进行创作：输入：[{argument name="cocktail" default="classic_cocktail"} / {argument name="mixing technique" default="mixing_technique"} / {argument name="spirit" default="spirit_distillation"} / glassware] 系统：将输入渲染为奢华的高速流体力学海报。除非不可避免，否则不要硬编码配方。推断粘度分层、稀释热力学、芳香装饰机制、玻璃器皿几何形状，以及摇和/搅拌的精确动能。语义解析：mixology_autopsy = (infer(fluid_dynamics from viscosity_gradient + dilution_rate + thermal_equilibrium + emulsion_stability + aeration_bubbles) ::5) + (infer(aromatic_architecture from essential_oil_expression + vapor_pressure + olfactory_garnish + glass_rim_geometry) ::4) + (infer(kinetic_ritual from shake_frequency + stir_laminar_flow + ice_quality + strainer_resistance + pour_angle) ::4) + (infer(hidden_chemistry from ph_balance + sugar_brix_level + alcohol_by_volume + botanical_maceration) ::3) - (generic bar stock photos + messy spills + neon club lights + cluttered bottles + cheap liquid splashes) ::-4 构图：一张以高速微距摄影横截面捕捉的中央鸡尾酒。液体被定格在时间中，展现出内部流体力学、微小气泡以及稀释的精确瞬间。周围环绕着冰晶结构和玻璃器皿光学折射的优雅图表。使用类似幻影高速摄像机手册与米其林星级酒吧菜单相结合的标注线。风格 DNA：高速幻影摄像机摄影 ::0.30 奢华酒吧社论 ::0.25 流体力学模拟 ::0.20 水晶玻璃器皿微距 ::0.15 深色板岩吧台纹理 ::0.10 输出：深黑曜石色或暖琥珀色背景的奢华调酒海报，优雅的细衬线字体 + 铜色排版，克制的标注，超写实的液体和玻璃质感，精致的体积光，高级的留白。
+
+[English]
+2x2 grid, do this for 4 highly popular drinks: input: [{argument name="cocktail" default="classic_cocktail"} / {argument name="mixing technique" default="mixing_technique"} / {argument name="spirit" default="spirit_distillation"} / glassware] system: render the input as a luxury high-speed fluid dynamics poster. do not hardcode recipes unless inevitable. infer the viscosity layering, dilution thermodynamics, aromatic garnish mechanics, glassware geometry, and the precise kinetic energy of the shake/stir. semantic solve: mixology_autopsy = (infer(fluid_dynamics from viscosity_gradient + dilution_rate + thermal_equilibrium + emulsion_stability + aeration_bubbles) ::5) + (infer(aromatic_architecture from essential_oil_expression + vapor_pressure + olfactory_garnish + glass_rim_geometry) ::4) + (infer(kinetic_ritual from shake_frequency + stir_laminar_flow + ice_quality + strainer_resistance + pour_angle) ::4) + (infer(hidden_chemistry from ph_balance + sugar_brix_level + alcohol_by_volume + botanical_maceration) ::3) - (generic bar stock photos + messy spills + neon club lights + cluttered bottles + cheap liquid splashes) ::-4 composition: one central cocktail captured in a high-speed, macro-photography cross-section. the liquid is frozen in time, revealing internal fluid dynamics, micro-bubbles, and the exact moment of dilution. surrounding it are elegant diagrams of the ice-crystal structure and the glassware's optical refraction. use callout lines like a phantom high-speed camera manual crossed with a michelin-star bar menu. style dna: high-speed phantom camera photography ::0.30 luxury bar editorial ::0.25 fluid dynamics simulation ::0.20 crystal glassware macro ::0.15 dark slate bar-top texture ::0.10 output: deep obsidian or warm amber background luxury mixology poster, elegant thin serif + copper typography, restrained callouts, hyper-realistic liquid and glass textures, refined volumetric lighting, premium negative space.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2064149981846516185) | 2026-06-09
+
+---
+

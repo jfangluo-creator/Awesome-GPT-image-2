@@ -601,3 +601,39 @@ Create a vertical 9:16 photorealistic fantasy portrait of {argument name="charac
 
 ---
 
+### 🏛️ 例 935：等轴测圆形博物馆建筑
+
+![等轴测圆形博物馆建筑](../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%9C%86%E5%BD%A2%E5%8D%9A%E7%89%A9%E9%A6%86%E5%BB%BA%E7%AD%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的等轴测建筑概念渲染图，展示方形场地上一座现代圆形层叠建筑，采用极简主义的白色纸模型风格。主体是一个大型圆形多层结构，清晰可见 5 层堆叠的圆形阶梯：一个宽阔的底层环、三个逐渐缩小的上层环（带有连续的窄垂直窗带）以及一个顶部圆形屋顶层。在顶部圆盘上偏离中心位置添加一个小型矩形屋顶体量，并在顶部屋顶边缘处设置一个楔形切口或凹槽。为建筑主体连接两个简单的直线型附楼：一个向右前方延伸的低矮矩形侧翼，以及一个位于右后方的细长简约矩形塔楼。在建筑左前方包含一个独立的小型圆形凉亭，并通过一条短走道连接。场地应为一个带有圆角路缘的方形抬高基座，配有浅灰色路径和柔和的绿色景观。请准确计算景观元素：场地周围可见 9 棵小型风格化树木或灌木，包括左侧绿岛上的 3 棵、左前方草坪上的 2 株小圆灌木、前部中央附近的 1 棵树、中央草坪上的 1 株灌木、右前方弧线附近的 1 棵树以及最右侧草坪上的 1 棵树。使用从上方俯视的正交等轴测相机，构图居中，留有大量负空间，背景为灰白色，具有微妙的环境光遮蔽、精细的灰色轮廓线和柔和的阴影，画面中无人、无车、无标识、无文字。配色方案：暖白色建筑、浅灰色路面、柔和的鼠尾草绿草地、精致的技术插画线条。渲染为精致的建筑体量模型，清晰优雅，几何形状简洁，形态圆润平滑。
+
+[English]
+Create a clean isometric architectural concept rendering of a modern circular tiered building on a square site, in a minimalist white paper-model style. The main subject is a large round multi-level structure with exactly 5 visible stacked circular tiers: a wide ground floor ring, three progressively smaller upper rings with continuous narrow vertical window bands, and a top circular roof level. Add a small rectangular rooftop volume placed off-center on the top disk, and a wedge-shaped cut or recessed notch in the top roof edge. Attach two simple rectilinear annexes to the main building: one low rectangular wing extending to the right front, and one tall plain rectangular tower block at the rear right. Include one small separate circular pavilion near the front left of the building, connected by a short walkway. The site should be a square raised base with rounded road edges, pale gray paths, and soft green landscaping. Count the landscape elements clearly: exactly 9 small stylized trees or shrubs visible around the site, including 3 at the left green island, 2 small round shrubs at the front-left lawn, 1 tree near the front center, 1 shrub on the central lawn, 1 tree near the front-right curve, and 1 tree at the far right lawn. Use an orthographic isometric camera looking down from above, centered composition, lots of negative space, off-white background, subtle ambient occlusion, fine gray outline strokes, soft shadows, no people, no cars, no signage, no text. Color palette: warm white architecture, light gray pavement, muted sage green grass, delicate technical-illustration linework. Render as a polished architectural massing model, crisp and elegant, with simple geometry and smooth rounded forms.
+```
+
+**来源：** [@MarioTan](https://x.com/TanShilong/status/2064369101737537868) | 2026-06-09
+
+---
+
+### 🏛️ 例 978：奢华香氛蜡烛产品摄影
+
+![奢华香氛蜡烛产品摄影](../images/%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%9B%E8%9C%A1%E7%83%9B%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作温暖且富有氛围感的 {argument name="product" default="蜡烛和家居香氛"} 产品图像，传达奢华、舒适与宁静的质感。此提示词旨在捕捉摇曳的烛光、融化的蜡烛质感、{argument name="material" default="琥珀色玻璃"} 的温润感，以及所有能促使买家点击“购买”的感官视觉线索。非常适合蜡烛品牌、Etsy 蜡烛卖家、家居香氛初创公司以及希望通过图像唤起产品全方位感官体验的生活方式品牌。
+
+[English]
+Produce warm, atmospheric {argument name="product" default="candle and home fragrance"} product images that sell the feeling of luxury, comfort, and calm. This prompt captures glowing flame light, molten wax texture, the warmth of {argument name="material" default="amber glass"}, and all the sensory visual cues that make candle buyers click "purchase." Perfect for candle brands, Etsy candle sellers, home fragrance startups, and lifestyle brands wanting imagery that evokes the full sensory experience of their product
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2064267156163051983) | 2026-06-09
+
+---
+

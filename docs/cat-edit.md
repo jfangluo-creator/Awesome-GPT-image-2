@@ -690,3 +690,333 @@ Transform the uploaded portrait into an ultra-detailed {argument name="art style
 
 ---
 
+### 🔧 例 945：霓虹图形小说角色转换
+
+![霓虹图形小说角色转换](../images/%E9%9C%93%E8%99%B9%E5%9B%BE%E5%BD%A2%E5%B0%8F%E8%AF%B4%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将主体转换为引人注目的高对比度单色矢量肖像，采用优质黑白漫画插画风格呈现，具有清晰的赛璐珞阴影、大胆的几何形状和极其干净的矢量线条。高精度保留主体的面部特征、发型、表情和整体相似度。
+
+主体穿着 {argument name="top layer" default="敞开的深色衬衫"}，内搭 {argument name="base layer" default="白色圆领 T 恤"}，并配有一条极简主义方形吊坠项链。一副时尚的太阳镜自然地架在头顶，与发型完美融合。
+
+使用强烈的 {argument name="neon color" default="红色"} 霓虹轮廓光照亮肖像，勾勒出头发、面部、肩膀和衣物的轮廓，在单色艺术作品中营造出戏剧性的光芒。红色高光应在不掩盖黑白设计的前提下，增加深度、层次感和未来主义的电影氛围。
+
+背景为纯黑色，强调强烈的对比度和视觉冲击力。艺术风格应具备锐利的矢量边缘、大胆的阴影、干净的负空间、图形小说美学、现代街头服饰活力以及优质海报级的构图。超精细且极简，前卫、现代且视觉效果震撼。
+
+[English]
+Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.
+
+The subject wears an {argument name="top layer" default="open dark button-up shirt"} layered over a {argument name="base layer" default="white crew-neck T-shirt"}, complemented by a minimalist square pendant chain necklace. A pair of stylish sunglasses rests naturally on top of the head, integrated seamlessly into the hairstyle.
+
+Illuminate the portrait with intense {argument name="neon color" default="red"} neon rim lighting that traces the contours of the hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
+
+Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, and visually powerful.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2064344848539562473) | 2026-06-09
+
+---
+
+### 🔧 例 951：浮世绘肖像转换
+
+![浮世绘肖像转换](../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E8%82%96%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将人物转换为江户时代浮世绘 / 锦绘 / 歌舞伎演员肖像风格，同时保留原始姿势、黑色渔夫帽、手部靠近嘴部的动作以及模糊的匿名面部区域。将现代衬衫替换为传统的层叠和服：深海军蓝外袍配有两个圆形花卉纹章，浅棕色格纹内袍，以及精致的红边装饰。将构图调整为垂直特写木版画，背景为带有可见纹理、墨迹质感、磨损边缘和柔和传统颜料的陈旧米色和纸。添加 4 个装饰性 / 背景元素：左上角添加 1 个垂直标题框，内含日文书法 {argument name="vertical title text" default="東都新賢似顔繪"}；下方添加 1 个红色艺术家印章 {argument name="seal text" default="豊國画"}；并在右上角和左侧中部各添加 1 个风格化的蓝灰色江户云纹。保持面部通过与参考图一致的柔和矩形模糊处理进行遮盖。避免照片级真实感、现代光影和额外文字。
+
+[English]
+Using the provided reference image, transform the person into an Edo-period ukiyo-e / nishiki-e / kabuki actor portrait style while preserving the original pose, black bucket hat, hand-near-mouth gesture, and anonymous blurred face area. Replace the modern shirt with traditional layered kimono robes: a dark navy outer robe with two circular floral crests, a tan checked inner robe, and subtle reddish trim. Change the composition to a vertical close-up woodblock print on aged beige washi paper with visible grain, ink texture, worn edges, and muted traditional pigments. Add exactly 4 new decorative/background elements: 1 vertical title cartouche on the upper left with Japanese calligraphy reading {argument name="vertical title text" default="東都新賢似顔繪"}, 1 red artist seal beneath it reading {argument name="seal text" default="豊國画"}, and 2 stylized blue-gray Edo cloud motifs, one near the upper right and one along the left middle. Keep the face intentionally obscured with a soft rectangular blur matching the reference privacy treatment. Avoid photorealism, modern lighting, and extra text.
+```
+
+**来源：** [@コンドウハルキ｜Harukaze](https://x.com/halukik_0520/status/2064333946519957903) | 2026-06-09
+
+---
+
+### 🔧 例 959：复古 16-bit 像素艺术转换
+
+![复古 16-bit 像素艺术转换](../images/%E5%A4%8D%E5%8F%A4%2016-bit%20%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图像转换为清晰、高质量的复古像素艺术，同时保留原始构图、主体位置、摄像机角度、比例、姿势、服装以及整体场景结构。
+
+格式锁定 — 不可更改
+
+保留原始图像的纵横比。
+
+保留原始构图和取景。
+
+请勿裁剪、缩放、重新定位或重新设计场景。
+
+保持原始的视觉层级和主体位置。
+
+主体保留
+
+保留主体、可辨识的轮廓、面部朝向、服装结构、姿势、身体比例和关键视觉特征。
+
+在保持主体即刻可辨识的前提下，减少不必要的细节。
+
+请勿更改人物、解剖结构、服装或场景结构。
+
+像素艺术风格
+
+将整张图像转换为优质的 16-bit 复古像素艺术。
+
+在整张图像上使用严格的低分辨率像素网格。
+
+在渲染前将图像下采样为清晰可见的大像素。
+
+在整个作品中保持一致的像素大小。
+
+创建清晰、像素级的几何图形。
+
+使用锐利的硬边缘。
+
+避免半写实渲染。
+
+色彩系统
+
+使用有限的复古游戏调色板。
+
+形状之间具有强对比度。
+
+清晰的色彩分离。
+
+精心挑选具有出色可读性的颜色。
+
+避免过度的色彩变化。
+
+阴影
+
+使用简化的复古游戏阴影。
+
+平铺的色彩区域。
+
+每个表面仅使用一到两种阴影色调。
+
+最小化高光的使用。
+
+无写实渐变。
+
+无柔和的光影过渡。
+
+环境
+
+将所有环境元素转换为像素艺术等效物。
+
+背景物体、道具、建筑、植被、地形、天空和光照应遵循相同的像素艺术语言。
+
+在简化细节的同时保持场景深度和透视。
+
+视觉质量
+
+地道的复古游戏美学。
+
+清晰的精灵图（sprite-art）可读性。
+
+一致的像素密度。
+
+平衡的视觉设计。
+
+无模糊。
+
+无抗锯齿。
+
+无平滑过渡。
+
+无噪点。
+
+无伪影。
+
+无涂抹感。
+
+无压缩问题。
+
+输出风格
+
+优质复古像素艺术。
+
+经典的 16-bit 主机游戏美学。
+
+像素级渲染。
+
+高可读性。
+
+清晰的轮廓设计。
+
+地道的游戏截图外观。
+
+锐利的复古视觉效果。
+
+专业的像素艺术工艺。
+
+最终效果
+
+最终图像应呈现出精致的 SNES 时代复古游戏截图感，同时忠实于原始图像的构图和主体。
+
+[English]
+Transform the uploaded image into clean high-quality retro pixel art while preserving the original composition, subject placement, camera angle, proportions, pose, clothing, and overall scene structure.
+
+FORMAT LOCK — NON-NEGOTIABLE
+
+Preserve the original image aspect ratio.
+
+Preserve the original composition and framing.
+
+Do not crop, zoom, reposition, or redesign the scene.
+
+Maintain the original visual hierarchy and subject placement.
+
+SUBJECT PRESERVATION
+
+Preserve the main subject, recognizable silhouette, facial direction, clothing structure, pose, body proportions, and key visual features.
+
+Reduce unnecessary detail while keeping the subject immediately recognizable.
+
+Do not alter the person, anatomy, outfit, or scene structure.
+
+PIXEL ART STYLE
+
+Convert the entire image into premium 16-bit retro pixel art.
+
+Use a strict low-resolution pixel grid across the entire image.
+
+Downsample the image into large visible pixels before rendering.
+
+Maintain consistent pixel size throughout the artwork.
+
+Create clean pixel-perfect geometry.
+
+Use crisp hard edges.
+
+Avoid semi-realistic rendering.
+
+COLOR SYSTEM
+
+Use a limited retro gaming color palette.
+
+Strong contrast between shapes.
+
+Clear color separation.
+
+Carefully selected colors with excellent readability.
+
+Avoid excessive color variation.
+
+SHADING
+
+Use simplified retro-game shading.
+
+Flat color regions.
+
+One to two shading tones per surface.
+
+Minimal highlight usage.
+
+No realistic gradients.
+
+No soft lighting transitions.
+
+ENVIRONMENT
+
+Convert all environmental elements into pixel-art equivalents.
+
+Background objects, props, architecture, vegetation, terrain, sky, and lighting should follow the same pixel-art language.
+
+Keep scene depth and perspective while simplifying details.
+
+VISUAL QUALITY
+
+Authentic retro game aesthetic.
+
+Clean sprite-art readability.
+
+Consistent pixel density.
+
+Balanced visual design.
+
+No blur.
+
+No anti-aliasing.
+
+No smooth transitions.
+
+No noise.
+
+No artifacts.
+
+No smudging.
+
+No compression issues.
+
+OUTPUT STYLE
+
+Premium retro pixel art.
+
+Classic 16-bit console game aesthetic.
+
+Pixel-perfect rendering.
+
+High readability.
+
+Clean silhouette design.
+
+Authentic game-screenshot appearance.
+
+Crisp retro visuals.
+
+Professional pixel-art craftsmanship.
+
+FINAL LOOK
+
+The final image should feel like a polished SNES-era retro game screenshot while remaining faithful to the original image composition and subject.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2064318585691152868) | 2026-06-09
+
+---
+
+### 🔧 例 1005：动漫少女吃拉面剪辑
+
+![动漫少女吃拉面剪辑](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E5%90%83%E6%8B%89%E9%9D%A2%E5%89%AA%E8%BE%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像作为角色基础，保持动漫少女、粉色波波头、超大号淡粉色连帽衫以及方形面部遮挡块不变，将场景转换为拉面店用餐的特写镜头。调整她的姿势，使其坐在柜台前，一手拿着黑色筷子，从大拉面碗中挑起面条送往嘴边。在前景中添加 1 个带有金色日文 {argument name="bowl text" default="横浜家系"} 的黑色拉面碗。拉面应包含 4 种清晰可见的配料：一大片叉烧肉、几片海苔、切碎的菠菜/葱花，以及浸在汤里的面条。在柜台上添加 1 杯冰茶/可乐，左侧放置 1 个调味罐，右侧放置一个小型筷子/调味品架。将纯白色背景替换为温馨的日式拉面店室内环境：木质装饰、柜台座位、项目，以及垂直的墙面招牌，包括 {argument name="right wall sign" default="家系最高"} 和 {argument name="left wall sign" default="ライス無料"}。在左侧包含一张展示拉面和价格 {argument name="ramen poster price" default="1100円"} 的海报/菜单。保持柔和、精致的动漫插画风格、温暖的阳光、细腻的头发高光以及浅景深效果；请勿更改角色的核心设计或移除面部遮挡。
+
+[English]
+Using the provided reference image as the character base, keep the same anime girl, pink bob hair, oversized pale pink hoodie, and the square face-censor block unchanged, but transform the scene into a close-up ramen shop meal. Change her pose so she is seated at a counter, holding black chopsticks in one hand and lifting noodles from a large ramen bowl toward her mouth. Add exactly 1 black ramen bowl in the foreground with gold Japanese text {argument name="bowl text" default="横浜家系"}. The ramen should contain exactly 4 visible topping types: a large slice of chashu pork, sheets of nori seaweed, chopped green spinach/scallions, and noodles in broth. Add exactly 1 glass of iced tea/cola on the counter, exactly 1 condiment jar on the left, and a small chopstick/condiment holder on the right. Replace the plain white background with a warm Japanese ramen restaurant interior: wooden trim, counter seating, menu boards, and vertical wall signs including {argument name="right wall sign" default="家系最高"} and {argument name="left wall sign" default="ライス無料"}. Include a poster/menu on the left showing ramen and the price {argument name="ramen poster price" default="1100円"}. Keep the soft, polished anime illustration style, warm sunlight, detailed hair highlights, and shallow depth of field; do not change the character’s core design or remove the face censor.
+```
+
+**来源：** [@むにむに](https://x.com/ratramuumu/status/2064198440364777631) | 2026-06-09
+
+---
+
+### 🔧 例 1009：吉卜力工作室风格照片转换
+
+![吉卜力工作室风格照片转换](../images/%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片重新构想为由 {argument name="director" default="宫崎骏"} 执导的 {argument name="style" default="吉卜力工作室电影"} 中的静止画面。请保留原始照片中精确的构图、拍摄角度、取景、裁剪、主体位置、姿势以及场景布局 —— 每个元素必须保持在相同的位置且大小不变。仅改变视觉媒介。以鲜明的吉卜力 2D 手绘动画美学渲染场景：角色拥有圆润柔和的面部、大而生动且温和的眼睛（带有简单的光点）、小巧的鼻子、柔和的下巴、微粉的脸颊，以及用自信利落的墨线勾勒出的自然飘逸的头发。身体比例自然柔和，服装褶皱流畅且富有有机感。皮肤和面部采用双色赛璐珞阴影着色 —— 一种基础平涂色和一种柔和的阴影色，不使用喷枪效果。背景呈现出水彩画般的艺术质感 —— 柔和的笔触纹理、层叠的色彩渲染，每一片草叶、树叶、云朵和建筑都经过精心刻画。光影为柔和的自然环境光，通常带有金色的暖调、斑驳的阳光或“魔幻时刻”的光影。整体氛围温柔、怀旧、宁静，并带有一丝奇幻感。调色板偏向柔和的绿色、天空蓝、暖阳黄和柔和的大地色系。图像看起来就像是 {argument name="era" default="1990 年代手绘动画电影"} 中的一帧，带有赛璐珞与手绘背景合成后的轻微质感。
+
+[English]
+Reimagine the uploaded photo as a still frame from a {argument name="style" default="Studio Ghibli film"} directed by {argument name="director" default="Hayao Miyazaki"}. Preserve the exact composition, camera angle, framing, crop, subject position, pose, and scene layout from the original photo — every element must remain in the same place at the same size. Only the visual medium changes. Render the scene with the unmistakable Ghibli 2D hand-drawn animation aesthetic: characters with soft rounded faces, large expressive but gentle eyes with simple highlights, small noses, soft chins, slightly pinkish cheeks, naturally-styled flowing hair drawn with confident clean ink lines. Bodies have soft natural proportions, clothing drawn with flowing organic folds. Skin and faces are colored with two-tone cel-shading — a base flat tone and one gentle shadow tone, no airbrushing. Backgrounds are painterly watercolor masterpieces — soft brush textures, layered washes of color, every blade of grass, leaf, cloud, and building lovingly detailed. Soft ambient natural lighting, often with golden warm tones, dappled sun, or magical hour light. The mood is gentle, nostalgic, peaceful, with a hint of wonder. Color palette favors muted greens, sky blues, sun-warmed yellows, soft earth tones. The image looks like a frame from a {argument name="era" default="hand-painted 1990s animated film"}, with the slight texture of cel and painted background composite.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2064190467470958632) | 2026-06-09
+
+---
+

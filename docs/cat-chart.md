@@ -1297,3 +1297,103 @@ Ultra premium motorcycle infographic masterpiece featuring the {argument name="m
 
 ---
 
+### 📊 例 996：K-pop 舞蹈编排信息图
+
+![K-pop 舞蹈编排信息图](../images/K-pop%20%E8%88%9E%E8%B9%88%E7%BC%96%E6%8E%92%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一份彩色铅笔素描风格的舞蹈编排信息图，主题为 {argument name="dance type" default="K-pop 独舞"}。
+
+布局：16 个步骤排列在整洁的 4x4 网格中，每个面板展示不同的舞蹈动作。
+
+主体：一位 {argument name="character" default="亚洲少女"}，留着长波浪卷发，身穿 {argument name="outfit" default="时尚的淡色系棒球夹克"}，内搭修身白色上衣、百褶网球裙、及膝袜和厚底运动鞋。服装配色包括柔粉色、薰衣草紫、婴儿蓝和白色，营造出可爱且充满活力的 K-pop 偶像美学。
+
+风格：手绘彩色铅笔插画，柔和的阴影，可见的铅笔纹理，线条略显写意但清晰，充满活力的淡色调，迷人的笔记本风格艺术作品。
+
+动作：每一帧展示流畅、富有表现力的舞蹈动作（手臂波浪、扭胯、旋转、比心手势、脚步动作、转身、结束姿势），并配有指示方向和运动流向的小箭头。
+
+设计：现代 K-pop 美学，简约时尚的信息图布局，淡色高光，装饰性的闪光和星星，步骤编号（1–16），每帧下方配有简短说明。
+
+文字：顶部标题 —— “K-POP SOLO DANCE – 16 COUNTS – 10 SECONDS – CUTE & PLAYFUL ENERGY”。
+
+环境：简单的舞蹈练习室背景，柔和的灯光，极简阴影。
+
+质量：超精细，构图清晰，布局平衡，编辑级舞蹈教程海报，专业的信息图设计。
+
+负面提示词：模糊，低质量，多余的肢体，解剖结构扭曲，比例失调，布局混乱，设计过于拥挤，文字错误，水印，重复的姿势。
+
+[English]
+A colored pencil sketch style choreography sheet infographic for a {argument name="dance type" default="K-pop solo dance"}.
+
+Layout: 16 steps arranged in a clean 4x4 grid, each panel showing a different dance move.
+
+Subject: a {argument name="character" default="teenage Asian girl"} with long wavy hair, wearing a {argument name="outfit" default="trendy pastel varsity jacket"} over a fitted white top, pleated tennis skirt, knee-high socks, and chunky platform sneakers. Outfit colors include soft pink, lavender, baby blue, and white, creating a cute and energetic K-pop idol aesthetic.
+
+Style: hand-drawn colored pencil illustration, soft shading, visible pencil texture, slightly sketchy but clean lines, vibrant pastel palette, charming notebook-style artwork.
+
+Movement: each frame shows smooth, expressive dance motions (arm waves, hip sways, spins, finger-heart gestures, footwork, turns, ending pose), with small arrows indicating direction and motion flow.
+
+Design: modern K-pop aesthetic, minimal and stylish infographic layout, pastel highlights, decorative sparkles and stars, step numbers (1–16), short captions under each frame.
+
+Text: Title at the top — “K-POP SOLO DANCE – 16 COUNTS – 10 SECONDS – CUTE & PLAYFUL ENERGY”.
+
+Environment: simple dance practice studio background, soft lighting, minimal shadows.
+
+Quality: ultra-detailed, sharp composition, balanced layout, editorial dance tutorial poster, professional infographic design.
+
+Negative prompt: blurry, low quality, extra limbs, distorted anatomy, bad proportions, messy layout, overcrowded design, text errors, watermark, duplicate poses.
+```
+
+**来源：** [@Aria](https://x.com/ariaxawan/status/2064213389346488645) | 2026-06-09
+
+---
+
+### 📊 例 1018：动漫棒球挥棒关键帧图表
+
+![动漫棒球挥棒关键帧图表](../images/%E5%8A%A8%E6%BC%AB%E6%A3%92%E7%90%83%E6%8C%A5%E6%A3%92%E5%85%B3%E9%94%AE%E5%B8%A7%E5%9B%BE%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个动漫动画关键帧图表，展示一名可爱的年轻女性棒球击球手完成挥棒动作的过程，类似于中间帧动画参考。
+
+画布：1:1 正方形图像，深板岩灰背景，包含一个整齐的 3 列 2 行网格，共 6 张圆角矩形卡片。每张卡片都有厚实的中灰色边框、微妙的阴影，以及右下角的小斜线细节。
+
+布局：每张卡片垂直分为两部分：上方约一半区域为大面积青蓝色标题栏，下方为白色插图区域。一条细深色水平分割线将标题与白色区域隔开。在每个青色标题栏中居中放置一个粗体白色帧编号。
+
+帧标签：使用 6 个标签，每张卡片一个，按从左到右、从上到下的顺序排列：“001”、“002”、“003”、“004”、“005”、“006”。
+
+角色细节：角色为 {argument name="character description" default="一位娇小的动漫棒球少女，留着棕色短波波头，有着大而有神的眼睛"}。她穿着 {argument name="baseball uniform" default="带有深海军蓝饰边的白色棒球服、深色内搭、海军蓝长袜、白色钉鞋和击球手套"}。她手持 {argument name="bat style" default="一根轻质木制棒球棒"}。在所有 6 张卡片中保持角色形象的一致性。
+
+动作序列：展示 6 个不同的击球姿势：001 后挥准备姿势，球棒举在肩后，身体侧转；002 稍微开放的准备姿势，球棒仍处于蓄力状态；003 重心前移，球棒开始挥动；004 击球或接近击球的姿势，球棒横向扫过身体；005 完整挥棒延伸，头发飘动，球棒水平向前伸展；006 挥棒随动延伸，类似于 005，但挥棒幅度稍大。确保角色大小适中，能舒适地放入每张卡片下方的白色区域内。
+
+视觉风格：简洁的动漫插画，柔和的水彩风格阴影，清晰的线条，明亮精致的运动角色外观，极简背景，除球棒外无额外道具。采用简单的 UI 卡片展示形式，而非写实环境。
+
+约束：包含 6 张卡片和 6 个编号标题。不要添加额外的说明文字、徽标、水印、棒球场场景或额外角色。
+
+[English]
+Goal: Create an anime animation keyframe sheet showing a cute young female baseball batter progressing through a swing, like an in-between animation reference.
+
+Canvas: Square 1:1 image, dark slate-gray background, with a neat 3-column by 2-row grid of exactly 6 rounded rectangular cards. Each card has a thick medium-gray border, subtle shadow, and a small diagonal hatch mark detail in the bottom-right corner.
+
+Layout: Each of the 6 cards is vertically split into two sections: a large cyan-blue header occupying about the upper half, and a white illustration area occupying the lower half. A thin dark horizontal divider separates the header from the white area. Center a bold white frame number in each cyan header.
+
+Frame labels: Use exactly 6 labels, one per card, in this order from left to right, top row then bottom row: "001", "002", "003", "004", "005", "006".
+
+Subject details: The character is {argument name="character description" default="a petite anime girl baseball player with short brown bobbed hair and large expressive eyes"}. She wears {argument name="baseball uniform" default="a white baseball uniform with dark navy trim, dark undershirt, navy socks, white cleats, and batting gloves"}. She holds {argument name="bat style" default="a light wooden baseball bat"}. Render the same character consistently across all 6 cards.
+
+Action sequence: Show exactly 6 distinct batting poses: 001 backswing stance with bat raised behind the shoulder and body turned sideways; 002 slightly more open ready stance with the bat still cocked; 003 forward weight shift with the bat beginning to travel; 004 contact or near-contact pose with the bat sweeping downward across the body; 005 full swing extension with hair flowing and the bat stretched horizontally forward; 006 follow-through extension, similar to 005 but slightly farther through the swing. Keep the player small enough to fit comfortably inside the white lower area of each card.
+
+Visual style: Clean anime illustration, soft watercolor-like shading, crisp line art, bright polished sports-character look, minimal background, no extra props besides the bat. Use a simple UI-card presentation rather than a realistic environment.
+
+Constraints: Include exactly 6 cards and exactly 6 numbered headers. Do not add extra captions, logos, watermarks, baseball field scenery, or additional characters.
+```
+
+**来源：** [@角駒｜AIとプロダクトづくりの観測記録](https://x.com/kadokoma_ai/status/2064169442796298560) | 2026-06-09
+
+---
+
