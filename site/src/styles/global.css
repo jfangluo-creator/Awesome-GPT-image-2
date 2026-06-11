@@ -87,8 +87,6 @@
 .masonry-item {
   break-inside: avoid;
   margin-bottom: 1rem;
-  content-visibility: auto;
-  contain-intrinsic-size: auto 320px;
 }
 
 /* Custom scrollbar */
