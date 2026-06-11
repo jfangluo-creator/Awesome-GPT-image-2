@@ -19,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 env:
   TZ: Asia/Shanghai
@@ -56,9 +57,15 @@ jobs:
       - name: Trigger Gallery Deploy
         if: success()
         run: |
-          curl -X POST \
+          HTTP_CODE=$(curl -s -o /tmp/trigger_resp.json -w "%{http_code}" -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/actions/workflows/deploy-gallery.yml/dispatches \
-            -d '{"ref":"main"}'
-          echo "✅ Deploy workflow triggered"
+            -d '{"ref":"main"}')
+          if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+            echo "✅ Deploy workflow triggered (HTTP $HTTP_CODE)"
+          else
+            echo "❌ Failed to trigger deploy (HTTP $HTTP_CODE)"
+            cat /tmp/trigger_resp.json
+            exit 1
+          fi
