@@ -8,6 +8,7 @@ on:
       - 'docs/**'
       - 'images/**'
       - '.github/workflows/deploy-gallery.yml'
+      - '.github/workflows/collect-daily.yml'
   workflow_dispatch:
 
 permissions:
