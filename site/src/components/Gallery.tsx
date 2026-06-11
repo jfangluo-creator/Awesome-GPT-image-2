@@ -74,11 +74,11 @@ interface Props {
 interface CardProps {
   c: CaseData;
   imageBase: string;
-  priority: boolean;
+  eager: boolean;
   onClick: (c: CaseData) => void;
 }
 
-const CaseCard = memo(function CaseCard({ c, imageBase, priority, onClick }: CardProps) {
+const CaseCard = memo(function CaseCard({ c, imageBase, eager, onClick }: CardProps) {
   const imgSrc = `${imageBase}/${encodeImagePath(c.thumb || c.image)}`;
 
   return (
@@ -97,9 +97,9 @@ const CaseCard = memo(function CaseCard({ c, imageBase, priority, onClick }: Car
           width={c.width}
           height={c.height}
           className="w-full h-auto block transition-transform duration-500 hover:scale-105"
-          loading={priority ? 'eager' : 'lazy'}
+          loading={eager ? 'eager' : 'lazy'}
           decoding="async"
-          fetchPriority={priority ? 'high' : undefined}
+          fetchPriority={eager ? 'high' : undefined}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-3">
           <div className="flex items-center flex-wrap gap-1.5 mb-1">
@@ -281,15 +281,22 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
       {/* Masonry Grid */}
       {filtered.length > 0 ? (
         <div className="masonry mt-4">
-          {filtered.map((c, i) => (
-            <CaseCard
-              key={c.id}
-              c={c}
-              imageBase={imageBase}
-              priority={i < 6}
-              onClick={handleCaseClick}
-            />
-          ))}
+          {filtered.map((c, i) => {
+            // CSS columns: items fill column 1 first, then 2, 3, 4, 5 sequentially.
+            // Eager-load the first 3 items of each column so all columns render fast.
+            const colSize = Math.ceil(filtered.length / 5);
+            const posInCol = i % colSize;
+            const eager = posInCol < 3;
+            return (
+              <CaseCard
+                key={c.id}
+                c={c}
+                imageBase={imageBase}
+                eager={eager}
+                onClick={handleCaseClick}
+              />
+            );
+          })}
         </div>
       ) : (
         <div className="flex flex-col items-center justify-center py-20 text-center">
