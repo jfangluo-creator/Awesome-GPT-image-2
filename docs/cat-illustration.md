@@ -2697,3 +2697,135 @@ Create a polished anime-style illustration of a stylish young adult man seated a
 
 ---
 
+### 🎨 例 1026：巴黎咖啡馆的动漫男子
+
+![巴黎咖啡馆的动漫男子](../images/%E5%B7%B4%E9%BB%8E%E5%92%96%E5%95%A1%E9%A6%86%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插画，描绘一名时尚的年轻男子坐在巴黎户外咖啡馆的阳台上，沐浴在温暖的午后阳光中。他留着凌乱的 {argument name="hair color" default="金黄色"} 中长发，带有层次感的刘海；他的面部被一个位于正中央、带有米色肤色渐变的半透明方形遮挡块刻意覆盖，遮住了所有五官。他身穿炭灰色定制西装外套和配套长裤，内搭领口敞开的白色衬衫，系着黑色皮带，手腕上戴着棕色皮质手表，正抬手查看时间。让他以放松的姿态坐在编织咖啡椅上，躯干略微向左倾斜，一只手放在膝盖附近，另一只手抬起至胸前。场景设置在一张圆形大理石咖啡桌旁，旁边是装饰性的黑色锻铁阳台栏杆，背景是模糊的奥斯曼风格巴黎建筑和淡蓝色的天空。桌上需包含 5 件独立的物品：1 个带有蒸汽的白色咖啡杯及托盘、1 份摊开在大理石桌面上的报纸、1 包印有“Fleurs”字样的白色香烟盒、1 个火柴盒，以及 1 个装有整齐三角形三明治的盘子。采用精致的日式动漫 / 乙女视觉小说渲染风格，注重衣物褶皱细节、优雅的线条、柔和的绘画式阴影、电影级的景深效果、温暖的金色高光，营造写实的咖啡馆氛围。采用 3:4 竖构图，画面中不包含其他人物，无水印，除小包装标签外不包含任何额外文字。
+
+[English]
+Create a polished anime-style illustration of a stylish young adult man seated at an outdoor Parisian café balcony in warm late-afternoon sunlight. He has tousled {argument name="hair color" default="golden blond"} medium-length hair with layered bangs, and his face is intentionally covered by a centered opaque square censor block in a beige skin-tone gradient, hiding all facial features. He wears a charcoal gray tailored suit jacket and matching trousers, an open-collar white dress shirt with visible buttons, a black leather belt, and a brown leather wristwatch on the wrist he is raising to check the time. Pose him relaxed in a woven café chair, torso angled slightly left, one hand resting near his lap and the other lifted in front of his chest. Set the scene on a small round marble café table beside an ornate black wrought-iron balcony railing, with blurred Haussmann-style Paris buildings and a pale blue sky in the background. On the table include exactly 5 discrete items: 1 white coffee cup on a saucer with visible steam, 1 folded newspaper spread across the marble surface, 1 white cigarette pack labeled “Fleurs,” 1 small matchbox, and 1 plate holding neat triangular sandwiches. Use refined Japanese anime / otome visual-novel rendering, detailed clothing folds, elegant linework, soft painterly shading, cinematic depth of field, warm golden highlights, realistic café atmosphere, vertical 3:4 composition, no extra people, no watermark, no additional text besides the small package label.
+```
+
+**来源：** [@禮/Rai＠AIイラスト･オリキャラ](https://x.com/Rai_yaki33/status/2064857837986324508) | 2026-06-10
+
+---
+
+### 🎨 例 1033：幻彩波浪上的宇宙冲浪者
+
+![幻彩波浪上的宇宙冲浪者](../images/%E5%B9%BB%E5%BD%A9%E6%B3%A2%E6%B5%AA%E4%B8%8A%E7%9A%84%E5%AE%87%E5%AE%99%E5%86%B2%E6%B5%AA%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超精细的电影级奇幻图像，画面主体为 {argument name="character name" default="一位孤独的宇宙冲浪女神"} 站在一块半透明的幻彩冲浪板上，在日出时分穿越高耸的海洋巨浪，融合了海洋、外太空和神圣几何元素。构图采用 16:9 宽画幅，冲浪者位于中心偏右位置，优雅地蹲伏/坐在发光的晶体状冲浪板上，冲破水花；她湿漉漉的长发向后飘散，健美的金属蓝色身体映衬着金色轮廓光，面部特意用柔和的方形模糊处理。周围环绕着巨大的卷曲波浪，由液态玻璃、彩虹折射、星轨和发光的水带组成。营造一种分割世界的视觉感：左下方水面下可见珊瑚礁和海龟，地平线上是开阔的海洋和遥远的岛屿，上方则是深邃的星空，右上角有一颗类似地球的行星，右中天空附近有一个螺旋星系。在前景和中景处添加数十个大小不一的悬浮球状水滴和气泡，每一个都像棱镜一样，呈现出彩虹焦散和镜头光晕。使用 {argument name="color palette" default="电光蓝、青色、紫色、银色、金色和彩虹幻彩"}，超写实数字艺术，史诗奇幻写实风格，体积光，闪烁的宇宙粒子，复杂的几何星座，高动态范围，清晰细节，戏剧性的景深，动态能量，无文字，无 Logo，无水印。
+
+[English]
+Create an ultra-detailed cinematic fantasy image of {argument name="character name" default="a lone cosmic surfer goddess"} riding one translucent iridescent surfboard through a towering ocean wave at sunrise, blending ocean, outer space, and sacred geometry. The composition is a wide 16:9 panorama with the surfer slightly right of center, seated/crouched gracefully on the glowing crystal-like board as it launches through spray; her long dark wet hair streams backward, her athletic metallic-blue body catches gold rim light, and her face is intentionally obscured by a soft square blur. Surround her with one enormous curling wave made of liquid glass, rainbow refractions, star trails, and luminous water ribbons. Include a split-world feeling: underwater coral reef and sea turtles visible in the lower left beneath the surface, open ocean and distant islands along the horizon, and a deep starry sky above with one Earth-like planet in the upper right and one spiral galaxy near the right-center sky. Add dozens of floating spherical water droplets and bubbles of varied sizes across the foreground and midground, each acting like prisms with rainbow caustics and lens flares. Use {argument name="color palette" default="electric blues, cyan, violet, silver, gold, and rainbow iridescence"}, hyperreal digital art, epic fantasy realism, volumetric light, sparkling cosmic particles, intricate geometric constellations, high dynamic range, sharp details, dramatic depth of field, motion energy, no text, no logo, no watermark.
+```
+
+**来源：** [@はじめの一歩](https://x.com/hazimeno_ipoo/status/2064752345456779767) | 2026-06-10
+
+---
+
+### 🎨 例 1035：暗黑奇幻梦境王国宝座
+
+![暗黑奇幻梦境王国宝座](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E6%A2%A6%E5%A2%83%E7%8E%8B%E5%9B%BD%E5%AE%9D%E5%BA%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个名为 {argument name="theme" default="Dream Kingdom"} 的暗黑史诗奇幻皇家宝座大厅场景。背景中央高处，一位强大的女王端坐在华丽的大理石与黄金宝座上，身穿精致的抛光银色板甲，饰有复杂的金色花纹，头戴精致的王冠，留着波浪长金发，华贵的斗篷披在宝座扶手上。前景中央，一名肌肉发达的野蛮人战士跪在或坐在她面前的台阶上，赤裸上身，皮肤上有伤疤和泥土痕迹，留着湿漉漉的黑色长发，佩戴皮革与金属护腕，腰间穿着深色破旧盔甲，双手紧握一把垂直插在双膝间的大阔剑剑柄。女王和战士的面部应为无特征的矩形暗色面具，如同被审查或刻意留白。宝座大厅如同大教堂般宏伟奢华：高耸的大理石柱、深酒红色的墙面旗帜、金色的雕刻装饰、两侧烛光摇曳的烛台、雕刻石阶、对称的构图，以及宝座后方悬挂的巨大圆形奥术天体徽章或星盘光环。采用戏剧性的明暗对比照明、温暖的烛光、电影级高对比度、超细节写实奇幻概念艺术、反光的金属盔甲、风化的石材、丰富的纹理、浅层的环境雾气、庄严的神话氛围，采用竖向肖像构图。可通过以下参数自定义：女王盔甲 {argument name="queen armor style" default="抛光银色板甲配金色花纹"}、战士外观 {argument name="warrior appearance" default="留着湿漉漉黑长发的伤疤赤膊野蛮人"}、宝座材质 {argument name="throne material" default="白色大理石与古董金"} 以及照明风格 {argument name="lighting style" default="温暖的烛光明暗对比"}。
+
+[English]
+Create a dark epic fantasy royal throne room scene titled {argument name="theme" default="Dream Kingdom"}. A powerful armored queen sits high on an ornate marble-and-gold throne in the background, centered and elevated, wearing full polished silver plate armor with intricate gold filigree, a delicate crown, long wavy blonde hair, and a regal cloak draped over the throne arms. In the foreground, a muscular barbarian warrior kneels or sits low on the steps before her, centered, shirtless with scarred and dirt-smeared skin, long wet black hair, leather-and-metal bracers, dark ragged waist armor, and both hands gripping the pommel of a large vertical broadsword planted point-down between his knees. The queen’s face and the warrior’s face should be featureless obscured rectangular dark masks, as if censored or intentionally blank. The throne room is cathedral-like and opulent: towering marble columns, deep burgundy wall banners, gold carved ornament, candlelit candelabras on both sides, carved stone steps, symmetrical composition, and a large circular arcane celestial emblem or astrolabe halo mounted behind the throne. Use dramatic chiaroscuro lighting, warm candle glow, cinematic high contrast, ultra-detailed realistic fantasy concept art, reflective metal armor, weathered stone, rich textures, shallow atmospheric haze, solemn mythic mood, vertical portrait composition. Customize the queen armor with {argument name="queen armor style" default="polished silver plate armor with gold filigree"}, the warrior look with {argument name="warrior appearance" default="scarred shirtless barbarian with long wet black hair"}, the throne material with {argument name="throne material" default="white marble and antique gold"}, and the lighting with {argument name="lighting style" default="warm candlelit chiaroscuro"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2064734819091972488) | 2026-06-10
+
+---
+
+### 🎨 例 1058：夕阳下的金色动漫电车
+
+![夕阳下的金色动漫电车](../images/%E5%A4%95%E9%98%B3%E4%B8%8B%E7%9A%84%E9%87%91%E8%89%B2%E5%8A%A8%E6%BC%AB%E7%94%B5%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的动漫风格竖版电车站台场景，背景为雨后黄金时段的夕阳。一辆光泽感十足的黑色现代电车，车身装饰着精致的金属金色菊花与花卉图案，停靠在名为 {argument name="station name" default="Yuhidai 1-chome"} 的传统日式车站。电车目的地显示牌应显示日语文字，下方附带小号英文，内容为 {argument name="tram destination" default="KINKO NO SAITO - YUHIDAI"}，电车侧面应印有 {argument name="tram line name" default="Kinko Tram Line"}。前景中，一位优雅的年轻动漫女性，留着极长的飘逸 {argument name="hair color" default="black"} 秀发，正从电车上走下，身穿饰有花卉刺绣的华丽黑金和服，脚穿白色足袋和凉鞋，佩戴金色装饰发饰；她手提一个配套的小手袋，神情冷静且带有一丝神秘感。画面中仅包含两位可见人物：电车外的和服女子以及透过前挡风玻璃可见的制服电车司机。电车内部散发着温暖的灯光，车窗具有反射效果，前灯明亮，可见受电弓和架空电线，电车车头还绘有动漫少女肖像作为装饰的一部分。右侧放置一个高大的发光站牌，上面印有竖排日语文字，下方附带小号英文 "YUHIDAI 1-CHOME"，旁边是一座带有发光窗户和瓦片屋檐的传统木质建筑。使用戏剧性的橙色天空，云层发光，低垂的太阳靠近地平线，地面和轨道湿润且具有反射感，点缀着小灯笼、飘落的金色花瓣、镜头光晕以及浓郁的琥珀色高光。画面需高度精细、质感细腻、氛围感强且奢华，将京都风格的传统建筑与时尚的幻想电车设计融为一体。画面中不得出现额外人物、现代汽车、水印或杂乱的 Logo，并避免除指定标识外的文字扭曲。
+
+[English]
+Create a cinematic anime-style vertical tram stop scene at golden-hour sunset after rain. A glossy black modern streetcar decorated with elaborate metallic gold chrysanthemum and floral patterns is stopped at a traditional Japanese station named {argument name="station name" default="Yuhidai 1-chome"}. The tram destination sign should show Japanese text with small English beneath it, reading {argument name="tram destination" default="KINKO NO SAITO - YUHIDAI"}, and the side of the tram should read {argument name="tram line name" default="Kinko Tram Line"}. In the foreground, an elegant young anime woman with very long flowing {argument name="hair color" default="black"} hair steps down from the tram, wearing an ornate black-and-gold kimono with floral embroidery, white tabi socks, sandals, and a decorative gold hair ornament; she carries a small matching handbag and looks calm and slightly mysterious. Include exactly two visible human figures: the kimono-clad woman outside the tram and the uniformed tram driver seen through the front windshield. The tram has warm glowing interior lights, reflective windows, bright headlights, visible pantograph and overhead wires, and an additional painted anime-girl portrait on the tram front as part of the decoration. To the right, place a tall illuminated station sign with Japanese vertical text and small English text underneath reading "YUHIDAI 1-CHOME", beside a traditional wooden building with lit windows and tiled roof eaves. Use a dramatic orange sky with glowing clouds, low sun near the horizon, wet reflective pavement and rails, small lanterns, golden falling petals, lens flares, and rich amber highlights. Make the image highly detailed, polished, atmospheric, and luxurious, blending Kyoto-like traditional architecture with a sleek fantasy tram design. No extra people, no modern cars, no watermark, no logo clutter, avoid distorted text beyond the specified signage.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2064632131717152776) | 2026-06-10
+
+---
+
+### 🎨 例 1063：复古日式动漫壁纸
+
+![复古日式动漫壁纸](../images/%E5%A4%8D%E5%8F%A4%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+Anime Wallpaper {argument name="风格" default="复古日系动漫风"}+{argument name="填色" default="赛璐璐填色"}
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2064622524168593579) | 2026-06-10
+
+---
+
+### 🎨 例 1068：海底捞火锅约会视角 (POV)
+
+![海底捞火锅约会视角 (POV)](../images/%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%81%AB%E9%94%85%E7%BA%A6%E4%BC%9A%E8%A7%86%E8%A7%92%20(POV).jpg)
+
+**Prompt:**
+
+```text
+两个人面对面吃饭，吃的{argument name="餐厅" default="海底捞"}，男生在对面给女生使用{argument name="手机型号" default="iPhone 17 Pro Max"}拍的
+```
+
+**来源：** [@水木易](https://x.com/ohmuyi/status/2064609869865648606) | 2026-06-10
+
+---
+
+### 🎨 例 1069：神秘生命之树景观
+
+![神秘生命之树景观](../images/%E7%A5%9E%E7%A7%98%E7%94%9F%E5%91%BD%E4%B9%8B%E6%A0%91%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一棵 {argument name="tree size" default="古老而高耸"} 的树矗立在郁郁葱葱的神秘景观中心，其巨大的扭曲根系蜿蜒伸入流淌的溪流，溪水漫过长满苔藓的岩石。在深绿色的广袤树冠中，怀抱着一颗 {argument name="orb style" default="发光的金球"}，它散发出温暖而空灵的光芒，内部隐约可见生命之树的精致剪影。一道巨大的瀑布从云雾缭绕的崎岖悬崖上奔腾而下，汇入远处的河流。金球柔和的暖光与阴郁的阴天以及周围森林深邃浓郁的绿色形成鲜明对比。照片级真实感，{argument name="lighting" default="电影级光效"}，高奇幻艺术风格，细腻的树皮和水流纹理，8k 分辨率。
+
+[English]
+An {argument name="tree size" default="ancient, towering"} tree with massive twisted roots stands at the center of a lush mystical landscape, its roots curling into a rushing stream tumbling over moss-covered stones. Cradled within the vast dark-green canopy is a {argument name="orb style" default="luminous golden orb"} casting warm ethereal light, enclosing a delicate silhouette of a tree of life. A colossal waterfall thunders down a rugged mist-wrapped cliff into the river beyond. The golden orb's soft warm glow contrasts with the moody overcast sky and the deep, rich greens of the surrounding forest. Photorealistic, {argument name="lighting" default="cinematic lighting"}, high fantasy art style, intricate bark and water textures, 8k resolution.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064605486180335893) | 2026-06-10
+
+---
+
+### 🎨 例 1086：Lo-Fi MS Paint 艺术风格
+
+![Lo-Fi MS Paint 艺术风格](../images/Lo-Fi%20MS%20Paint%20%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+{argument name="背景" default="白底"}、{argument name="画风" default="鼠标涂鸦"}、比例怪怪的，像小时候用画图软件乱画。
+```
+
+**来源：** [@大欢kar](https://x.com/LinJiahuanka/status/2064531362774970790) | 2026-06-10
+
+---
+

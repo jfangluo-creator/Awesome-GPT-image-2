@@ -1020,3 +1020,21 @@ Reimagine the uploaded photo as a still frame from a {argument name="style" defa
 
 ---
 
+### 🔧 例 1036：女学生变身乡村农夫的教室场景
+
+![女学生变身乡村农夫的教室场景](../images/%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%8F%98%E8%BA%AB%E4%B9%A1%E6%9D%91%E5%86%9C%E5%A4%AB%E7%9A%84%E6%95%99%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 中金发校服女孩为基础，将其转化为日本教室的写实电影场景。画面中女孩站在室内，面对一名男同学，表情震惊且尴尬，嘴巴微张。保留她的西装外套、开衫、领结、格子裙、金色卷发以及时尚女学生的整体特征，但在校服外增加乡村农夫的装扮：头上系着白色碎花头巾，裙子下穿着宽松的深色碎花工装裤，脚蹬泥泞的橡胶靴。画面中仅增加 1 名人物：一名日本男学生，主要以背影/侧影呈现，身穿海军蓝校服西装和格子长裤，站在左侧面向她。场景设定在铺设木地板的旧教室中，配有成排的课桌椅、绿色黑板、教室海报、高大的窗户以及温暖的午后阳光。采用垂直全身构图，呈现照片级真实感的真人电影风格，具备自然的镜头景深，营造出戏剧性的小说场景氛围，无需任何标题或额外文字。
+
+[English]
+Using REFERENCE_0 as the base for the blonde school-uniform girl, transform it into a realistic cinematic scene from a Japanese classroom. Show the girl now standing indoors, facing a male classmate, with an embarrassed shocked expression and open mouth. Keep her blazer, cardigan, bow tie, plaid skirt, blonde curled hair, and overall fashion-leader schoolgirl identity recognizable, but add rural farmer styling over the uniform: a white floral headscarf tied around her hair, loose dark floral work pants worn under the skirt, and muddy rubber boots. Add exactly 1 other person: a Japanese male student seen mostly from behind/side in a navy school blazer and plaid trousers, standing on the left and facing her. Place them in an old classroom with wooden floors, rows of desks and chairs, a green chalkboard, classroom posters, tall windows, and warm late-afternoon sunlight. Use a vertical full-body composition, photorealistic live-action look, natural lens depth, dramatic novel-scene atmosphere, no captions or extra text.
+```
+
+**来源：** [@Jpg](https://x.com/Jpglovepic/status/2064729962054320573) | 2026-06-10
+
+---
+

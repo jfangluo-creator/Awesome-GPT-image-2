@@ -1670,3 +1670,121 @@ Constraints: Include exactly 4 panels, exactly 4 circled panel numbers, exactly 
 
 ---
 
+### 🎬 例 1046：竖版电影感分镜表
+
+![竖版电影感分镜表](../images/%E7%AB%96%E7%89%88%E7%94%B5%E5%BD%B1%E6%84%9F%E5%88%86%E9%95%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的竖版前期开发项目，将角色设定表与电影分镜相结合，主题为 {argument name="subject" default="一位未来主义主角"}
+
+[English]
+Create a single vertical 9:16 pre-production development board combining CHARACTER SHEETS + CINEMATIC STORYBOARD for {argument name="subject" default="a futuristic protagonist"}
+```
+
+**来源：** [@Abhishek](https://x.com/HeyAbhishek/status/2064681567705076062) | 2026-06-10
+
+---
+
+### 🎬 例 1082：生物发光水生生物分镜脚本
+
+![生物发光水生生物分镜脚本](../images/%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E6%B0%B4%E7%94%9F%E7%94%9F%E7%89%A9%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部 15 秒的奇幻自然短片创作电影级分镜脚本，讲述 {argument name="main creature" default="一只巨大的温顺古老水生生物"} 在神秘的夜间湿地中游弋的故事。
+
+画布：水平 16:9 图像，格式为分镜联系表，包含 12 个面板，排列为 3 列 4 行的网格。使用细黑线作为间距，并带有浅灰色面板边框。在每个面板的左上角添加 1 到 12 的白色小数字。除此之外无其他文字。
+
+视觉风格：超精细电影级概念艺术，深蓝与青色调，发光的生物荧光森林，发光的藤蔓，湿润的叶片，漂浮的荷叶，反光水面，水下焦散，气泡，悬浮颗粒，小型发光鱼类，体积光月光，极具深度感，高对比度，梦幻般的写实奇幻氛围。基调为敬畏与宁静，而非恐怖或战斗。
+
+面板内容，共 12 个独立的分镜画面：
+1. 分层超广角镜头：水线横穿画面，上方是青色生物荧光沼泽森林，下方是深邃的水下世界；水面上有荷叶和涟漪，远处隐约可见巨大生物的剪影。
+2. 低角度水面滑行镜头：摄像机几乎贴近反光水面，前方是发光的垂挂藤蔓和湿润的叶片，青色的倒影在前景的涟漪中穿梭。
+3. 极致微距特写：右上角的叶尖挂着一颗发出青色光芒的透明水滴；第二颗微小水滴从下方落下，深色背景中有柔和的虚化光斑。
+4. 水下溅起瞬间：水滴击中水面，向下激起明亮的圆形涟漪和气泡；一群微小的发光鱼类在水花周围四散游开。
+5. 水下广角展示：巨大的水生生物在远处显现，如鲸鱼般优雅的剪影在蓝色光束下，周围环绕着小鱼和漂浮的颗粒。
+6. 水下植物侧拍跟镜：前景是高大摇曳的水生植物，成群的发光鱼类穿过画面，背景中巨大生物的躯体展示出其宏大的体型。
+7. 从水下树根处仰拍：巨大的树根和发光的树基悬于头顶，青绿色光线穿过水面和垂挂的藤蔓，构成神圣的森林与水下融合的构图。
+8. 水面俯拍：圆形涟漪、成簇的荷叶、零星的蓝色光点，以及下方游动的巨大生物的深色剪影。
+9. 半没入式侧拍：上半部分展示发光的夜间森林和反光沼泽表面，下半部分展示巨大生物在水面下方的游动姿态。
+10. 生物头部与眼睛的极致特写：温和且充满智慧的眼睛，鲸鱼般的皮肤上覆盖着细小的青色生物荧光斑点和流动的光纹，面部周围环绕着柔和的气泡。
+11. 高潮动作帧：生物在水中优雅地扭动，激发出明亮的发光轨迹、水花、气泡以及从上方投射下的涟漪状焦散光束。
+12. 宁静的最终回响：回到发光森林与深邃水下空间的平静分层广角镜头，生物作为远处的剪影在反光水面下渐行渐远。
+
+约束：保持分镜脚本简洁易读，作为单张表格呈现，严格保留 12 个带编号的面板，确保所有面板中青蓝色生物荧光照明的一致性，使生物显得庄严而仁慈而非恐怖，并避免添加标题、对话气泡、水印、Logo 或额外标签。
+
+[English]
+Goal: Create a cinematic storyboard sheet for a 15-second fantasy nature film about {argument name="main creature" default="a giant gentle ancient aquatic creature"} swimming through a mystical night wetland.
+
+Canvas: Horizontal 16:9 image formatted as a storyboard contact sheet with exactly 12 panels arranged in a 3-column by 4-row grid. Use thin black gutters and subtle light gray panel borders. Add small white panel numbers 1 through 12 in the upper-left corner of each panel. No other text.
+
+Visual style: Ultra-detailed cinematic concept art, dark blue and teal color palette, glowing bioluminescent forest, luminous vines, wet leaves, floating lotus leaves, reflective water surface, underwater caustics, bubbles, suspended particles, small glowing fish, volumetric moonbeams, dramatic depth, high contrast, dreamy photoreal fantasy atmosphere. The mood is awe and serenity, not horror or combat.
+
+Panel content, exactly 12 discrete storyboard frames:
+1. Split-level ultra-wide shot: the waterline cuts across the frame, above it a teal bioluminescent swamp forest, below it a deep underwater world; lotus leaves and ripples on the surface, with the huge creature’s shadow passing in the distance.
+2. Low gliding water-surface shot: camera almost touching the reflective water, luminous hanging vines and wet foliage ahead, teal reflections streaking across ripples in the foreground.
+3. Extreme macro close-up: a leaf tip in the upper-right corner holds a transparent water droplet glowing cyan; a second tiny droplet falls below it, with soft bokeh lights in the dark background.
+4. Underwater splash moment: the droplet hits the water and sends bright circular ripples and bubbles downward; a school of tiny glowing fish scatters around the splash.
+5. Wide underwater reveal: the giant aquatic creature appears far away as a graceful whale-like silhouette under blue shafts of light, surrounded by small fish and drifting particles.
+6. Tracking shot beside underwater plants: tall swaying aquatic vegetation in the foreground, schools of glowing fish crossing the frame, and the massive creature’s body moving in the background to show scale.
+7. Upward view from beneath submerged tree roots: enormous roots and a glowing tree base loom overhead, turquoise light streams down through water and hanging vines, creating a sacred forest-underwater composition.
+8. Overhead shot of the water surface: circular ripples, clusters of lotus leaves, scattered blue sparkles, and the dark silhouette of the giant creature swimming below.
+9. Half-submerged lateral shot: the upper half shows the glowing night forest and reflective swamp surface, the lower half shows the giant creature swimming just beneath the waterline.
+10. Extreme close-up of the creature’s head and eye: gentle intelligent eye, whale-like skin covered in fine cyan bioluminescent speckles and flowing light patterns, soft bubbles around the face.
+11. Climax action frame: the creature twists gracefully through the water, creating bright luminous trails, splashes, bubbles, and rippling caustic light beams from above.
+12. Quiet final echo: return to a calm split-level wide shot of the glowing forest and dark underwater space, with the creature receding as a distant silhouette beneath the reflective surface.
+
+Constraints: Keep the storyboard clean and readable as a single sheet, preserve exactly 12 numbered panels, maintain consistent teal-blue bioluminescent lighting across all panels, make the creature majestic and benevolent rather than scary, and avoid captions, speech bubbles, watermarks, logos, or extra labels.
+```
+
+**来源：** [@ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano/status/2064543958232072199) | 2026-06-10
+
+---
+
+### 🎬 例 1083：朋克吉他手漫画封面
+
+![朋克吉他手漫画封面](../images/%E6%9C%8B%E5%85%8B%E5%90%89%E4%BB%96%E6%89%8B%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张垂直构图的美式漫画封面，采用粗粝的朋克摇滚漫画/动画风格，标题为 {argument name="comic title" default="HEARTSTRIKE"}。
+
+画布：肖像漫画封面，2:3 纵横比，全出血插画，带有黑色做旧印刷边框、半色调纹理、墨点、磨损的纸张划痕，以及高对比度的洋红色、黑色、白色和紫色灯光。
+
+主体：画面中心为一位年轻的朋克摇滚吉他手偶像，采用动态低角度透视，占据封面大部分空间。她留着金色双马尾，长着尖尖的精灵耳，戴着饰有小爱心徽章的红色格子贝雷帽，系着黑色丝带发圈，呈现哥特朋克妆容。身穿黑色荷叶边束身衣、渔网/网眼袖套、铆钉手镯、颈圈、红色格子裙，并配有腰带、链条、蕾丝边和心形吊带细节。她的脸部被一个纯肤色的矩形遮挡块刻意覆盖，没有任何面部特征。她正以从左下到中右的对角线姿态激昂地弹奏一把白色 Stratocaster 风格电吉他，吉他细节包括琴弦、拾音器、旋钮、磨损划痕以及清晰可见的琴头签名。
+
+背景：混乱的演唱会舞台，挤满了举着摇滚手势的粉丝剪影，伴有紫色闪电、星芒状舞台灯光、烟雾、电能以及右侧的黑色音箱。氛围喧闹、叛逆、危险且充满魅力。
+
+封面排版与布局：使用夸张的做旧漫画字体，边缘参差不齐，带有粉色阴影、白色填充、黑色轮廓和墨水飞溅效果。包含 8 个清晰可见的文本块：1) 左上角出版商框：“REBEL INK COMICS”，配有粉色骷髅蝴蝶结徽章；2) 价格/期数框：“#1”、“$4.99”、“US”、“APR”、“2025”；3) 横跨封面的顶部标语：“SHE PLAYS LOUD. SHE HITS HARD. SHE NEVER MISSES.”，其中“LOUD”、“HARD”和“NEVER”为亮粉色；4) 巨大的主标题：“{argument name="comic title" default="HEARTSTRIKE"}”；5) 左侧宣传栏：“1ST SMASH ISSUE!”；6) 左侧口号：“LIVE. LOVE. DESTROY.”，其中“DESTROY.”为亮粉色；7) 右侧倾斜说明文字：“FEATURING: THE WORLD'S MOST DANGEROUS SOUND!”，其中“DANGEROUS”为亮粉色；8) 右下角亮粉色巡演印章：“{argument name="tour stamp text" default="BLACKOUT TOUR '25 BEGINS!"}”。在左下角添加一个小型垂直条形码框，标注“DIRECT SALES”及条形码数字。
+
+视觉风格：融合美式朋克漫画封面与日式动漫角色渲染，采用厚重的赛璐珞阴影、细腻的线条艺术、做旧丝网印刷纹理、霓虹洋红色轮廓光、紫色演唱会光晕、戏剧性的透视缩短、锐利的墨线、吉他硬件上的光泽高光以及混乱的构图。
+
+限制：保持封面内容丰富但易于阅读，保留 8 个主要文本块的精确数量，除所列元素外不要添加额外的标题横幅或标志，确保脸部完全被纯色矩形遮挡，并使其看起来像一张值得收藏的创刊号漫画封面。
+
+[English]
+Goal: Create a vertical American comic book cover in a gritty punk-rock manga/anime style for a fictional issue titled {argument name="comic title" default="HEARTSTRIKE"}.
+
+Canvas: Portrait comic cover, 2:3 aspect ratio, full-bleed illustration with a black distressed print border, halftone texture, ink speckles, worn paper scratches, high-contrast magenta, black, white, and purple lighting.
+
+Main subject: Center a young female punk rock guitarist idol in dynamic low-angle perspective, filling most of the cover. She has blonde twin-tail hair, pointed elf ears, a red plaid beret with a small heart pin, black ribbon hair ties, gothic punk makeup vibe, a black corset top with frills, fishnet/mesh sleeves, studded bracelets, choker, red plaid skirt, belts, chains, lace trim, and a heart-shaped garter detail. Her face is deliberately covered by a plain skin-tone rectangular censor block with no facial features. She is aggressively playing a white Stratocaster-style electric guitar angled diagonally from lower left to mid-right, with detailed strings, pickups, knobs, worn scratches, and a visible headstock signature.
+
+Background: A chaotic concert stage packed with silhouetted fans raising rock hand signs, purple lightning bolts, starburst stage lights, smoke, electric energy, and black speaker amps on the right. The mood is loud, rebellious, dangerous, and glamorous.
+
+Cover typography and layout: Use exaggerated distressed comic lettering with jagged edges, pink shadows, white fills, black outlines, and ink splatter. Include exactly 8 visible text blocks: 1) top-left publisher box: "REBEL INK COMICS" with a pink skull-and-bow emblem; 2) price/issue box: "#1", "$4.99", "US", "APR", "2025"; 3) top tagline across the cover: "SHE PLAYS LOUD. SHE HITS HARD. SHE NEVER MISSES." with the words "LOUD", "HARD", and "NEVER" in hot pink; 4) huge main masthead: "{argument name="comic title" default="HEARTSTRIKE"}"; 5) left promo stack: "1ST SMASH ISSUE!"; 6) left slogan: "LIVE. LOVE. DESTROY." with "DESTROY." in hot pink; 7) right tilted caption: "FEATURING: THE WORLD'S MOST DANGEROUS SOUND!" with "DANGEROUS" in hot pink; 8) bottom-right hot pink tour stamp: "{argument name="tour stamp text" default="BLACKOUT TOUR '25 BEGINS!"}". Add a small vertical barcode box at bottom left with "DIRECT SALES" and barcode numbers.
+
+Visual style: Fusion of American punk comic cover, Japanese anime character rendering, heavy cel shading, detailed line art, distressed screenprint texture, neon magenta rim light, purple concert glow, dramatic foreshortening, sharp inked outlines, glossy highlights on guitar hardware, chaotic composition.
+
+Constraints: Keep the cover busy but readable, preserve the exact count of 8 major text blocks, do not add extra title banners or logos beyond the listed elements, keep the face fully hidden by the plain rectangle, and make it look like a collectible first-issue comic cover.
+```
+
+**来源：** [@Toudaiji](https://x.com/ISoBZrpOBM85706/status/2064543324745416802) | 2026-06-10
+
+---
+

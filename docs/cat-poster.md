@@ -4335,3 +4335,369 @@ Create a trendy vertical aesthetic collage poster featuring the same {argument n
 
 ---
 
+### 🎴 例 1032：色彩缤纷的时尚拼贴海报
+
+![色彩缤纷的时尚拼贴海报](../images/%E8%89%B2%E5%BD%A9%E7%BC%A4%E7%BA%B7%E7%9A%84%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的画廊视角模型，展示一张充满活力的时尚肖像拼贴海报，主角为 {argument name="character name" default="一位匿名女性时尚模特"}，所有面部均通过柔和的垂直矩形模糊遮罩进行遮挡。
+
+画布：16:9 的宽幅图像，展示一张竖向海报，位于极简主义米灰色画廊墙壁的中央，配有混凝土底板、精致的天花板轨道细节、柔和的博物馆照明，以及房间右下角附近淡淡的装饰性闪光/星形标记。海报本身为纵向，略微凸出墙面，带有柔和的投影。
+
+海报布局：使用明亮的柔和渐变背景，叠加青色、粉色、黄色、珊瑚色、薄荷绿和薰衣草色的圆形色块。海报上放置 9 张可见的模特图像：1 张大型中央全彩时尚肖像，以及围绕其排列的 8 张较小的圆形肖像。
+
+主体细节：中央模特留着长长的深色波浪卷发，穿着夸张的高级时装，袖子宽大飘逸，面料采用 {argument name="dress colors" default="绿松石色、亮粉色、柠檬黄和翡翠绿"} 的拼色设计。面料应呈现出蓬松、丝滑、随风飘动且具有雕塑感的质感，并带有戏剧性的褶皱和动感。
+
+圆形肖像计数：包含 8 张圆形肖像剪影：1 张左上角黑白肩部肖像，2 张右上角穿着垂坠上衣的黑白肖像，3 张中左侧头发飘逸的黑白肖像，4 张中中央穿着亮粉色服装、双手靠近下巴的全彩肖像，5 张中右侧单手靠近面部的黑白肖像，6 张左下角坐姿或倚靠、单手靠近面部的黑白肖像，7 张下中央穿着黄色服装的全彩肖像，8 张右下角穿着绿色服装、袖子宽大且单手叉腰的全彩肖像。所有圆形肖像必须具有灰色圆形照片背景，并采用相同的柔和矩形面部模糊遮罩。
+
+视觉风格：编辑类时尚杂志拼贴画、精致的摄影写实主义、饱和的糖果色、简洁的海报设计、高级画廊展示模型、平衡的构图、服装和头发的清晰细节，无文字排版，无 Logo，无水印。
+
+[English]
+Goal: Create a realistic gallery-view mockup of a vibrant fashion portrait collage poster featuring {argument name="character name" default="an anonymous female fashion model"} with all faces intentionally obscured by soft vertical rectangular blur masks.
+
+Canvas: Wide 16:9 image showing a tall vertical poster centered on a minimalist beige-gray gallery wall, concrete floor, subtle ceiling track details, soft museum lighting, and a faint decorative sparkle/star mark near the lower right of the room. The poster itself is portrait-oriented, slightly raised from the wall with a soft drop shadow.
+
+Poster layout: Use a bright pastel gradient background with overlapping circular color fields in cyan, pink, yellow, coral, mint, and lavender. Place exactly 9 visible model images on the poster: 1 large central full-color fashion portrait and 8 smaller circular portraits arranged around it.
+
+Subject details: The central model has long dark wavy hair and wears an extravagant high-fashion dress with oversized flowing sleeves and color-blocked fabric in {argument name="dress colors" default="turquoise, hot pink, lemon yellow, and emerald green"}. The fabric should look voluminous, silky, wind-swept, and sculptural, with dramatic folds and movement.
+
+Counted circular portraits: Include exactly 8 circular portrait cutouts: 1 top-left black-and-white shoulder portrait, 2 top-right black-and-white portrait in a draped top, 3 middle-left black-and-white hair-blown portrait, 4 middle-center full-color portrait in a bright pink outfit with hands near chin, 5 middle-right black-and-white portrait with one hand near face, 6 bottom-left black-and-white seated or leaning portrait with hand near face, 7 bottom-center full-color portrait in a yellow outfit, 8 bottom-right full-color portrait in a green outfit with oversized sleeves and one hand on hip. All circular portraits must have gray circular photo backgrounds and the same soft rectangular face-obscuring blur.
+
+Visual style: Editorial fashion magazine collage, polished photographic realism, saturated candy colors, clean poster design, premium gallery installation mockup, balanced composition, sharp details on clothing and hair, no typography, no logos, no watermark.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2064754479170465839) | 2026-06-10
+
+---
+
+### 🎴 例 1043：极简主义现代舞蹈学院海报
+
+![极简主义现代舞蹈学院海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%8E%B0%E4%BB%A3%E8%88%9E%E8%B9%88%E5%AD%A6%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义现代舞蹈学院宣传海报，画面中一位自信的 {argument name="dancer type" default="青少年嘻哈舞者"} 随意地坐在一张现代超大圆柱形扶手椅上。主体穿着 {argument name="clothing" default="芥末黄配黑色防风夹克、宽松黑色工装裤、黑色运动鞋以及针织冷帽"}。姿态放松，双臂搭在椅背上，展现出自信与都市文化气息。简洁的 {argument name="background" default="暖米色摄影棚"} 背景，带有细腻的胶片颗粒感和复古印刷质感。上方构图由醒目的芥末黄色大号压缩字体主导。编辑信息块、课程表详情、价格元素以及极简主义布局组件围绕主体排列，并采用专业的网格对齐。高端平面设计美学，灵感源自现代舞蹈学校、时尚广告大片及当代杂志排版。柔和的摄影棚灯光、低饱和度色彩、高级的排版层级、瑞士设计风格影响、都市青年文化品牌感、极简主义海报设计、奢华印刷广告品质。风格关键词：瑞士设计、编辑排版、舞蹈学院品牌化、极简主义海报、嘻哈文化、时尚广告、当代平面设计。
+
+[English]
+Minimalist contemporary dance academy promotional poster featuring a confident {argument name="dancer type" default="teenage hip-hop dancer"} seated casually in a modern oversized cylindrical armchair. The subject wears {argument name="clothing" default="a mustard yellow and black windbreaker jacket, loose black cargo pants, black sneakers, and a knitted beanie"}. Relaxed posture with arms resting on the chair, projecting confidence and urban culture. Clean {argument name="background" default="warm beige studio"} background with subtle film grain and vintage print texture. Large condensed typography dominates the upper composition in bold mustard yellow lettering. Editorial information blocks, schedule details, pricing elements, and minimalist layout components arranged around the subject with professional grid alignment. High-end graphic design aesthetic inspired by modern dance schools, fashion campaigns, and contemporary magazine layouts. Soft studio lighting, muted colors, premium typography hierarchy, Swiss design influence, urban youth culture branding, minimalist poster design, luxury print advertisement quality. Style Keywords: Swiss design, editorial typography, dance academy branding, minimalist poster, hip-hop culture, fashion campaign, contemporary graphic design.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2064688925130854887) | 2026-06-10
+
+---
+
+### 🎴 例 1044：戏剧性大提琴奏鸣曲海报
+
+![戏剧性大提琴奏鸣曲海报](../images/%E6%88%8F%E5%89%A7%E6%80%A7%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于著名大提琴奏鸣曲及其传奇演奏家的戏剧性宽屏编辑海报，使用西班牙语，营造古典音乐纪录片的氛围。
+
+画布：16:9 横向海报，深炭黑色背景，做旧纸张纹理，高对比度，电影级灯光，带有磨损的墨迹和拼贴颗粒感。
+
+布局：左侧三分之一处包含堆叠的大写西班牙语标题。中心设有一个超大的垂直大提琴拼贴画，部分透明，并分割成磨损的奶油色木纹、黑色、深红色和琥珀橙色的几何叠加层。右下角包含一个水平延伸的裁剪钢琴键盘，下方有一小段手写乐谱碎片。右侧三分之一处包含一个垂直录音时间轴，由一条细垂直线和节点连接 4 个圆形音乐家照片勋章。在大提琴周围添加微妙的声波曲线、点阵网格、精细的技术弧线和淡淡的五线谱纹理。
+
+文本内容：左侧使用以下精确的标题，并混合白色、奶油色、红色和金色以作强调：“TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE.” 然后是非常大的：“¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?” 将 “USTED NO” 设置为亮红色，“AÚN?” 设置为金色，其余部分为做旧的奶油白色。左下角斜体句子：“Estoy casi seguro de que la conoce. Buen momento para volver a escucharla.”
+
+右侧时间轴：包含 4 个垂直堆叠的标注录音条目，每个条目对应一个圆形肖像勋章：1) “ROSTROPOVICH Y RICHTER, 1963”；2) “CASALS Y SERKIN, 1952”；3) “YO-YO MA Y EMANUEL AX, 1985”；4) “ALISA WEILERSTEIN, 2022”。勋章应呈现为带有柔和深褐色、黑白和蓝灰色调的古典音乐家档案照片；最后一张肖像可以是现代灰度的大提琴女演奏家图像。
+
+视觉风格：精致的博物馆海报设计，粗体压缩衬线和板状衬线字体，磨损的印刷纹理，复古音乐会节目单美学，优雅的金色点缀，顶部时间轴肖像后方有红色圆形太阳形状，以及类似音乐分析图表的细线条和点。大提琴应占据构图主导地位，并略微覆盖排版，同时确保文字清晰可读。
+
+可自定义参数：主题句可以是 {argument name="main claim" default="TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE."}；大号问题可以是 {argument name="headline question" default="¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?"}；结束语可以是 {argument name="footer quote" default="Estoy casi seguro de que la conoce. Buen momento para volver a escucharla."}；乐器焦点可以是 {argument name="central instrument" default="cello"}；时间轴标题名称可以是 {argument name="recording list" default="Rostropovich y Richter, 1963; Casals y Serkin, 1952; Yo-Yo Ma y Emanuel Ax, 1985; Alisa Weilerstein, 2022"}。
+
+约束：保持所有文本清晰且拼写与指定内容完全一致，不要添加额外的录音条目，不要添加徽标或水印，保持深沉、精致的古典音乐海报氛围。
+
+[English]
+Goal: Create a dramatic widescreen editorial poster about a famous cello sonata and its legendary performers, in Spanish, with a classical-music documentary mood.
+
+Canvas: 16:9 horizontal poster, dark charcoal-black background, aged paper texture, high contrast, cinematic lighting, distressed ink and collage grain.
+
+Layout: Left third contains the main Spanish typography in stacked uppercase lines. Center features an oversized vertical cello collage, partly transparent and split into worn cream wood, black, deep red, and amber-orange geometric overlays. Bottom right contains a cropped piano keyboard extending horizontally, with a small fragment of handwritten sheet music beneath it. Right third contains a vertical timeline of recordings with exactly 4 circular musician-photo medallions connected by a thin vertical line and small nodes. Add subtle sound-wave curves, dotted grids, fine technical arcs, and faint music-staff textures around the cello.
+
+Text content: Use this exact main headline on the left, with mixed white, cream, red, and gold emphasis: “TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE.” Then very large: “¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?” Make “USTED NO” bright red, “AÚN?” gold, and the rest distressed cream-white. Bottom left italic sentence: “Estoy casi seguro de que la conoce. Buen momento para volver a escucharla.”
+
+Right-side timeline: Include exactly 4 labeled recording entries, stacked vertically, each aligned to one circular portrait medallion: 1) “ROSTROPOVICH Y RICHTER, 1963”; 2) “CASALS Y SERKIN, 1952”; 3) “YO-YO MA Y EMANUEL AX, 1985”; 4) “ALISA WEILERSTEIN, 2022”. The medallions should look like archival classical-musician photos with muted sepia, black-and-white, and blue-gray tones; the final portrait can be a modern grayscale female cellist image.
+
+Visual style: Sophisticated museum-poster design, bold condensed serif and slab-serif typography, grunge print texture, vintage concert-program aesthetic, elegant gold accents, red circular sun shape behind the top timeline portraits, thin lines and dots like a music-analysis diagram. The cello should dominate the composition and overlap the typography slightly without making the text unreadable.
+
+Customizable parameters: The subject sentence may be {argument name="main claim" default="TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE."}; the large question may be {argument name="headline question" default="¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?"}; the closing line may be {argument name="footer quote" default="Estoy casi seguro de que la conoce. Buen momento para volver a escucharla."}; the instrument focus may be {argument name="central instrument" default="cello"}; the timeline title names may be {argument name="recording list" default="Rostropovich y Richter, 1963; Casals y Serkin, 1952; Yo-Yo Ma y Emanuel Ax, 1985; Alisa Weilerstein, 2022"}.
+
+Constraints: Keep all text legible and spelled exactly as specified, do not add extra recording entries, do not add logos or watermarks, maintain a dark refined classical-music poster atmosphere.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2064688408467792231) | 2026-06-10
+
+---
+
+### 🎴 例 1049：苗族时尚杂志封面
+
+![苗族时尚杂志封面](../images/%E8%8B%97%E6%97%8F%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+创作一张高端时尚杂志封面：一位{argument name="人物主体" default="年轻漂亮的苗族年轻女性"}，全新面部形象，气质时尚、自信、优雅，身穿{argument name="服饰风格" default="色彩鲜艳的云南苗族服饰"}，以玫红、蓝色、绿色为主，带有精美民族刺绣、短袖上衣、围裙式前腰装饰、百褶短裙、彩色花纹边饰、银色头饰和民族风配件。背景为简洁高级的时尚杂志封面场景，有{argument name="背景元素" default="上海城市元素"}，保留留白用于刊名与排版，整体具有国际时尚编辑大片质感。人物全身站姿，轻提裙摆，突出民族服饰细节。高级摄影棚布光，画面清晰锐利，超清细节，照片级真实，编辑级封面设计，竖版构图。
+```
+
+**来源：** [@intothewin](https://x.com/intothewin1/status/2064674517474304139) | 2026-06-10
+
+---
+
+### 🎴 例 1057：复古现代风时尚杂志广告
+
+![复古现代风时尚杂志广告](../images/%E5%A4%8D%E5%8F%A4%E7%8E%B0%E4%BB%A3%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+广角摄影棚时尚广告，呈现复古现代美学。单色青灰色（#506D6D）建筑背景，搭配极简几何道具：一根凹槽柱和阶梯状圆形平台。专业漫射摄影棚灯光，营造出具有深度的柔和渐变阴影。四位模特以和谐的群组方式排列：最左侧：一位黑人男性站姿挺拔，身穿棕色粗花呢西装外套、深酒红色高领毛衣和深黄棕色格纹长裤。面带微笑，牵着身旁女性的手。他身旁：一位留着蓬松大爆炸头的黑人女性，侧身坐在 1950 年代复古木制电视机上。身穿深棕色针织上衣、鲜艳的焦橙色（#E88D4D）阔腿裤和时髦的棕色皮靴。中央地面：一位白人女性坐着并向前倾身，手托脸颊。佩戴复古风格发带，身穿橙色与板岩蓝相间的菱格纹无袖上衣、棕色羊毛裙和白色坡跟凉鞋。中右侧：一位白人男性双手撑膝，探身入镜。身穿带有深色饰边的米白色粗棒针织毛衣和剪裁合身的棕色长裤。右侧：一个极简主义的深青色工业风衣架，挂着衬衫、一顶宽檐白色软呢帽，以及一个醒目的橙色皮革邮差包。底部摆放着白色高帮运动鞋和凉鞋。前景中有一个橙色锥形道具。画面中左侧叠加着巨大的高对比度白色 Bodoni 风格衬线字体“KAIRO”，部分覆盖在模特身上，形成 3D 分层效果。顶部中央标题文字：橙色草书“winter”和简洁的白色无衬线字体“COLLECTION”。页脚：右下角有小号白色宽间距无衬线字体显示的“https://t.co/I8Ovuxddnf”。配色方案：青灰色、焦橙色、巧克力棕色和清爽的白色。温暖的秋日氛围。
+
+[English]
+Wide-angle studio fashion advertisement with a retro-modern aesthetic. Monochromatic teal-grey (#506D6D) architectural backdrop with minimalist geometric props: a fluted column and stepped circular platforms. Professionally diffused studio lighting creating soft, graduated shadows with depth. Four models in a cohesive group arrangement: Far left: a Black man standing tall, wearing a brown tweed blazer, deep burgundy turtleneck, and dark yellow-and-brown checkered trousers. Smiling and holding the hand of the woman beside him. Next to him: a Black woman with a large voluminous afro, seated sideways on a vintage 1950s wooden television set. Wearing a dark brown knit top, vibrant burnt orange (#E88D4D) wide-leg trousers, and sleek brown leather boots. Center floor: a White woman seated and leaning forward, hand to her face. Wearing a vintage-style headband, argyle-patterned sleeveless top in orange and slate blue, a brown wool skirt, and white wedge sandals. Center-right: a White man leaning into frame with hands on knees. Wearing a heavy cream-colored cable-knit sweater with dark trim and tailored brown trousers. To the right: a minimalist dark teal industrial clothing rack displaying hanging shirts, a wide-brimmed white fedora, and a prominent structured orange leather messenger bag. White high-top sneakers and sandals at the base. An orange cone prop in the foreground. Massive high-contrast white Bodoni-style serif font reading "KAIRO" overlaid across the center-left, partially overlapping the models for a layered 3D effect. Header text at top center: "winter" in orange cursive script and "COLLECTION" in clean white sans-serif. Footer: "https://t.co/I8Ovuxddnf" in small white wide-tracked sans-serif at the bottom right. Color palette: teal-grey, burnt orange, chocolate brown, and crisp white. Warm autumnal atmosphere.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064635448610136461) | 2026-06-10
+
+---
+
+### 🎴 例 1060：专业奢华 3D 生日海报
+
+![专业奢华 3D 生日海报](../images/%E4%B8%93%E4%B8%9A%E5%A5%A2%E5%8D%8E%203D%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华 {argument name="celebration type" default="生日"} 海报，3:4 比例。整个画面充满高级米白色奢华纸张纹理墙面。巨大的数字 “{argument name="number" default="2"}” 精准地雕刻在墙面上，具有可见的深度和逼真的内部阴影。数字内部：柔和的粉色气球、精致的白花、优雅的花束布置，高级庆典风格。一个快乐的 {argument name="age" default="2"} 岁孩子，保留参考面部特征，身穿乳白色 T 恤和粉色牛仔背带裤，自然地大笑。脸部、肩膀、一只手和一只脚延伸至数字之外，营造出逼真的 3D 效果。一侧温暖的电影感阳光，柔和的轮廓光，照片级真实皮肤，高级摄影棚摄影，超写实，焦点清晰。墙面排版：{argument name="custom text" default="MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER"}。简洁极简布局，奢华杂志封面美学，高端艺术指导，逼真阴影，自然色彩，无树影，无虚假光效，无 AI 伪影。
+
+[English]
+Professional luxury {argument name="celebration type" default="birthday"} poster, 3:4 ratio. Entire frame filled with a premium off white luxury paper textured wall. Large number “{argument name="number" default="2"}” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy {argument name="age" default="2"} year old child with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: {argument name="custom text" default="MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER"}. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
+```
+
+**来源：** [@Belema](https://x.com/EarnWitAI/status/2064627762619387964) | 2026-06-10
+
+---
+
+### 🎴 例 1061：中式奇幻香氛双联画
+
+![中式奇幻香氛双联画](../images/%E4%B8%AD%E5%BC%8F%E5%A5%87%E5%B9%BB%E9%A6%99%E6%B0%9B%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款古风香氛及美妆产品创作一张高端电影质感的双联海报，在白色背景上并排展示 2 张垂直海报，中间留有窄窄的白色间隙。采用深邃、奢华的古宫廷美学，辅以戏剧性的低调照明、金色字体以及时尚香水广告的构图。
+
+画布：整体为正方形图像，包含两张带有细白边的竖版海报。左侧海报为暖琥珀金色调，伴有烟雾感；右侧海报为冷月光蓝黑色调，伴有雾气感。两张海报均应呈现出高端中式美妆广告的质感，配有华丽的书法和小型印章。
+
+左侧面板：创作一张唐风舞者香氛海报，标题为 {argument name="left main calligraphy" default="赵飞燕"}。场景为昏暗的宫廷内部，配有雕花木屏风、烛光、香烟以及背景中乐师的剪影。一位身着古装的优雅中国年轻女子在前景中右侧坐着或斜倚，面部被柔和的方形模糊处理，双臂举过头顶，姿态优雅。她佩戴着精致的金色花卉发饰，垂挂着链条、玉石和珍珠饰品，露出双肩，披着半透明的绿金色丝绸，佩戴着精致的首饰。在左下角前景处放置 3 件产品：1 个华丽的黑金景泰蓝香水瓶（冒着烟雾）、1 个配套的圆形装饰粉盒或带盖香膏盒、以及 1 个打开的小型面霜碗，内含泛着微光的膏体。添加竖排金色中式字体：最左侧为细框标签「掌中舞香膏」，大号主书法字「赵飞燕」，较小的文案包括「回眸一笑百媚生」，以及右侧竖排短语「深宫秘香 惑人心魄」。底部放置 3 个圆形功能徽章，分别标注「古法合香」、「名贵香料」和「长久留香」，并配有一行金色小字。
+
+右侧面板：创作一张月下宫廷水景香氛海报，标题为 {argument name="right main calligraphy" default="洛水有神 肌若凝露"}。场景设定在夜晚的荷花池或宫廷浴池，有倒影水面、远处的窗户、雾气、雕花建筑和冷蓝色灯光。一位中国年轻女子背对镜头，身着黑色半透明刺绣露背长裙，湿发盘成华丽的发髻，插着银色花卉发簪和垂坠饰品；她微微侧脸，面部被柔和的方形模糊处理。在左下角至中心的前景处放置 1 个淡青瓷玉绿色玻璃香水瓶，瓶盖为圆形，置于雕花深色底座上，瓶身有凸起的浮雕花纹和细小的竖排产品文字。在左上方添加优雅的竖排书法「洛神凝露」和大号文字「洛水有神 肌若凝露」，并配有一个红色小印章。在右边缘添加窄竖排文案，右下角附近添加类似签名的标记，底部居中放置标语「凝洛水之灵气 养倾城之美肌」和「洛神凝露 复刻古方 香养肌肤」。底部横向排列 4 个圆形图标徽章，每个徽章配有一个简单的线条图标和简短的中文标签。
+
+视觉风格：超细节写实时尚大片与中式历史奇幻风格结合，奢华香水包装设计，柔和朦胧感，体积光，电影级阴影，浅景深，华丽金箔字体，地道的中式装饰纹样，精致的海报排版，高对比度，高端化妆品广告。
+
+约束条件：保持 2 张海报面板，左侧面板恰好 3 件产品，右侧面板恰好 1 个香水瓶，左侧底部 3 个徽章，右侧底部 4 个徽章。保留指定的汉字作为装饰性文字，避免出现现代物品，避免多余面板，避免卡通风格，无水印，无英文标题。
+
+[English]
+Goal: Create a premium cinematic diptych poster for an ancient Chinese fragrance and beauty product campaign, showing exactly 2 vertical poster panels side by side on a white background with a narrow white gutter between them. Use a dark, luxurious, historical palace aesthetic with dramatic low-key lighting, gold typography, and editorial perfume-ad composition.
+
+Canvas: Square overall image containing two tall portrait posters, each with a thin white border. Left poster is warm amber-gold and smoky; right poster is cool moonlit blue-black and misty. Both posters should look like high-end Chinese cosmetic advertisements with ornate calligraphy and small seal stamps.
+
+Left panel: Create a Tang-style dancer fragrance poster titled {argument name="left main calligraphy" default="赵飞燕"}. The scene is a dim imperial interior with carved wooden screens, candlelight, incense smoke, and silhouettes of musicians in the background. A graceful young Chinese woman in ancient court costume sits or reclines in the center-right foreground, face obscured by a soft square blur, arms raised above her head in an elegant dance pose. She wears an elaborate gold floral hairpiece with dangling chains, jade and pearl ornaments, bare shoulders, a translucent green-gold silk wrap, and delicate jewelry. In the lower-left foreground place exactly 3 product objects: 1 ornate black-and-gold cloisonné perfume vase emitting smoke, 1 matching round decorated compact or lidded perfume case, and 1 open small cream bowl with pale glowing balm. Add vertical gold Chinese-style typography: a slim framed label on the far left reading 「掌中舞香膏」, the large main calligraphy 「赵飞燕」, smaller copy including 「回眸一笑百媚生」, and a right-side vertical phrase 「深宫秘香 惑人心魄」. Along the bottom place exactly 3 circular feature badges labeled 「古法合香」, 「名贵香料」, and 「长久留香」, plus a small fine-print line in gold.
+
+Right panel: Create a moonlit palace-water fragrance poster titled {argument name="right main calligraphy" default="洛水有神 肌若凝露"}. The setting is a dark lotus pond or palace bath at night, with reflective water, distant windows, mist, carved architecture, and cold blue lighting. A young Chinese woman is seen from behind in a black translucent embroidered gown with an open back, wet-looking hair in an ornate updo with silver floral hairpins and dangling ornaments; her face is turned slightly sideways and obscured by a soft square blur. In the lower-left/center foreground place exactly 1 pale celadon jade-green glass perfume bottle with a round cap on a carved dark pedestal, with raised floral relief and small vertical product text on the bottle. Add elegant vertical calligraphy on the upper-left reading 「洛神凝露」 and large text 「洛水有神 肌若凝露」, with a small red seal stamp. Add narrow vertical copy on the right edge, a signature-like mark near the lower right, a centered bottom slogan reading approximately 「凝洛水之灵气 养倾城之美肌」 and 「洛神凝露 复刻古方 香养肌肤」. Along the bottom place exactly 4 circular icon badges, each with a simple line icon and short Chinese label, arranged horizontally.
+
+Visual style: Ultra-detailed photorealistic fashion editorial mixed with Chinese historical fantasy, luxurious perfume packaging design, soft haze, volumetric light, cinematic shadows, shallow depth of field, ornate gold foil lettering, authentic ancient Chinese decorative motifs, refined poster layout, high contrast, premium cosmetics advertising.
+
+Constraints: Keep exactly 2 poster panels, exactly 3 product objects in the left panel, exactly 1 product bottle in the right panel, exactly 3 bottom badges on the left, and exactly 4 bottom badges on the right. Preserve the Chinese characters as decorative text where specified, avoid modern objects, avoid extra panels, avoid cartoon style, no watermark, no English headline text.
+```
+
+**来源：** [@数字山居](https://x.com/ke_cheng22672/status/2064625273358975176) | 2026-06-10
+
+---
+
+### 🎴 例 1062：几何狼头日式海报
+
+![几何狼头日式海报](../images/%E5%87%A0%E4%BD%95%E7%8B%BC%E5%A4%B4%E6%97%A5%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超强冲击力的 {argument name="subject" default="几何狼头"} 插画，置于极简海报构图中心。正面狼头肖像，配有锐利且发光的 {argument name="eye color" default="红色"} 双眼，面部结构对称锋利，毛发细节由棱角分明的多边形矢量形状和破碎的几何碎片构成。采用黑色、炭灰色和白色调，并点缀强烈的深红色。
+狼头后方放置一个巨大的扁平 {argument name="background element" default="红日圆环"}，营造出强烈的日式海报美学。爆发式的抽象笔触、破碎的三角形碎片、喷溅的颜料以及动态的对角线斜切从狼头向外迸发，充满动感与能量。干净的米白色背景，留白效果显著。
+优质矢量艺术作品，高对比度，边缘锐利，电竞 Logo 风格，赛博朋克与日式平面设计碰撞，现代街头品牌感，纹身设计美学，大胆的剪影，超清矢量渲染，对称构图，海报级艺术作品，极简却极具视觉冲击力，Behance 展示级品质，8K 分辨率。
+风格关键词：日式平面设计，几何狼，矢量插画，电竞 Logo，街头服饰图案，红日美学，棱角形状，激进品牌设计。
+
+[English]
+Ultra-aggressive {argument name="subject" default="geometric wolf head"} illustration centered in a minimalist poster composition. Front-facing wolf portrait with piercing glowing {argument name="eye color" default="red"} eyes, sharp symmetrical facial structure, detailed fur created from angular polygonal vector shapes and fractured geometric shards. Black, charcoal gray, and white color palette with intense crimson red accents.
+A large flat {argument name="background element" default="red sun circle"} positioned behind the wolf's head creates a powerful Japanese poster aesthetic. Explosive abstract brush strokes, shattered triangular fragments, paint splashes, and dynamic diagonal slashes burst outward from the wolf, creating motion and energy. Clean off-white background with strong negative space.
+Premium vector artwork, high contrast, razor-sharp edges, esports logo style, cyberpunk meets Japanese graphic design, modern streetwear branding, tattoo design aesthetic, bold silhouette, ultra-clean vector rendering, symmetrical composition, poster-ready artwork, minimalist yet powerful visual impact, Behance showcase quality, 8K resolution.
+Style Keywords: Japanese graphic design, geometric wolf, vector illustration, esports logo, streetwear graphic, red sun aesthetic, angular shapes, aggressive branding.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2064623752374325497) | 2026-06-10
+
+---
+
+### 🎴 例 1065：日式走廊场景词汇海报
+
+![日式走廊场景词汇海报](../images/%E6%97%A5%E5%BC%8F%E8%B5%B0%E5%BB%8A%E5%9C%BA%E6%99%AF%E8%AF%8D%E6%B1%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张内容详实的日式参考海报/信息图，标题为 {argument name="headline text" default="廊下・階段・通路演出の用語表"}，这是一份用于绘制走廊、楼梯和通道场景的词汇表。使其看起来像是一张用于 AI 插画提示词的手绘剪贴簿学习单，其中包含许多以同一位神秘哥特风女学生为向导的微型场景示例。
+
+画布：竖向 4:5 海报，暖象牙色陈旧纸张背景，带有明显的纸张纹理、细网格线、胶带边角，边框装饰有小星星、月亮、花朵、文具涂鸦、墨水瓶、信封、丝带和纸胶带。整体色调为深褐色、柔和海军蓝、烟灰色、褪色蓝和黑色墨水。采用模拟水彩、铅笔和墨水风格，并带有略显凌乱的手写日文字体。
+
+主要角色：一位反复出现的 {argument name="character description" default="忧郁的死鱼眼少女，留着凌乱的长黑发，身穿深色校服，皮肤苍白，眼神困倦，表情忧郁"}。她作为向导在大图左上方出现一次，并在示例缩略图中多次出现。大肖像旁边有一个小标签，写着「ジト目女子が案内するよ」。在角色出现的地方，保持其面部清晰且一致，头发呈现湿润感，风格为哥特式忧郁风。
+
+标题布局：在顶部中央放置大标题「廊下・階段・通路演出の用語表」。在其下方添加副标题，例如「学校廊下・病院廊下・非常階段・地下通路・長い廊下・消失点を整理した、AIイラスト発想補助のための通路演出ワード一覧。」在右上角添加一张带有新月图案的装饰性便签，文字为「通路は物語の流れと心の流れをつくるよ。」
+
+中央布局：使用 4 列 6 行的网格，精确排列 24 张带编号的矩形卡片。每张卡片必须包含一个彩色数字标签、一个日文分类标题、几行微小的手写关键词以及一个小型的水彩场景缩略图。缩略图应展示走廊、楼梯、通道、窗户、消失点、倒影、剪影，或处于不同姿态的哥特少女。请准确统计并包含以下 24 张卡片：
+1. 「学校廊下」 — 学校走廊，带有储物柜、公告栏和午后阳光。
+2. 「病院廊下」 — 安静的医院走廊，白色墙壁、窗帘，带有干净的压抑感。
+3. 「非常階段」 — 紧急楼梯间，金属扶手、冷光，带有逃生通道的紧张感。
+4. 「商業施設通路」 — 商业设施通道，人流涌动，都市明亮感。
+5. 「地下通路」 — 低矮天花板、人工照明、瓷砖墙壁，带有潮湿的沉重感。
+6. 「長い廊下」 — 深邃的消失点，重复的窗户和门。
+7. 「手すり」 — 引导视线沿楼梯或走廊延伸的扶手线条。
+8. 「消失点」 — 一点透视走廊，汇聚于远方。
+9. 「階段」 — 上下移动感、对角线构图，中间有人。
+10. 「踊り場」 — 楼梯平台，楼层间的停顿，安静的转折点。
+11. 「外階段」 — 室外楼梯，带有围栏、天空、风和裸露的金属。
+12. 「連絡通路」 — 建筑物之间的连接通道，体现移动与过渡。
+13. 「渡り廊下」 — 学校的连廊，可以看到外部风景，充满怀旧感。
+14. 「狭い通路」 — 狭窄通道，墙壁紧凑，身体擦过墙面。
+15. 「薄暗い通路」 — 昏暗走廊，微弱光线，潮湿且不安的氛围。
+16. 「明るい廊下」 — 开阔明亮的走廊，干净的地板，充满希望的透明光感。
+17. 「窓のある廊下」 — 窗户、窗帘，光影交织的条纹。
+18. 「曲がり角」 — 转角，未知的延续，叙事悬念。
+19. 「通路の奥」 — 走廊深处，微小的人影，体现深度与目的地。
+20. 「すれ違い」 — 两个角色擦肩而过，没有眼神交流。
+21. 「立ち止まる」 — 角色在通道中停下，背影，安静的犹豫。
+22. 「振り返る」 — 角色回头，头发和裙摆的动态。
+23. 「追いかける背中」 — 在通道中追逐或跟随某人的背影。
+24. 「通路の余韻」 — 人群散去后的空走廊，余韵悠长的氛围。
+
+底部区域：添加一个手写笔记区，用星号要点解释这是用于学校走廊、医院、楼梯和通道演出（场景表现）的词汇表，适合与长走廊、楼梯、扶手、消失点、曲线、光影、剪影和擦肩而过等关键词结合使用。保持文字密集但易读，就像一份日文提示词速查表。
+
+视觉风格：精致的动漫水彩插画，剪贴簿信息图，手写日文字体，细墨水轮廓，柔和的蓝灰色阴影，暖色羊皮纸，拼贴胶带，装饰性天体图案。海报应给人一种信息密集、温馨、怀旧、略带哥特感和手工制作的感觉。
+
+限制：网格中必须精确使用 24 张带编号的卡片；保持大标题清晰易读；避免现代扁平矢量风格；禁止写实照片风格；除必要的装饰性小标记外，禁止使用英文标签；禁止添加水印或 Logo。
+
+[English]
+Goal: Create a dense Japanese reference poster/infographic titled {argument name="headline text" default="廊下・階段・通路演出の用語表"}, a vocabulary chart for illustrating hallways, stairs, and passageway scenes. Make it look like a hand-drawn scrapbook study sheet for AI illustration prompt words, with many miniature scene examples featuring the same mysterious gothic schoolgirl guide.
+
+Canvas: Vertical 4:5 poster, warm ivory aged paper background with visible paper grain, thin ruled grid lines, taped corners, tiny stars, moons, flowers, stationery doodles, ink bottle, envelope, ribbon, and washi tape decorations around the border. Overall palette is sepia beige, muted navy, smoky gray, faded blue, and black ink. Use an analog watercolor, pencil, and ink style with slightly messy handwritten Japanese typography.
+
+Main character: A recurring {argument name="character description" default="gloomy Jitome girl with long messy black hair, dark school uniform, pale skin, sleepy eyes, and a melancholic expression"}. She appears once large at the upper left as the guide and repeatedly inside the example thumbnails. The large portrait has a small label reading 「ジト目女子が案内するよ」. Keep the character’s face visible and consistent where she appears, with wet-looking hair strands and gothic, moody styling.
+
+Header layout: At the top center place the large title 「廊下・階段・通路演出の用語表」. Beneath it add a subtitle line like 「学校廊下・病院廊下・非常階段・地下通路・長い廊下・消失点を整理した、AIイラスト発想補助のための通路演出ワード一覧。」 On the upper right add a decorative note card with a crescent moon and the text 「通路は物語の流れと心の流れをつくるよ。」
+
+Central layout: Use exactly 24 numbered rectangular cards in a 4-column by 6-row grid. Each card must have a colored number tab, a Japanese category title, a few tiny handwritten keyword lines, and a small watercolor scene thumbnail. The thumbnails should show corridors, stairs, passageways, windows, vanishing points, reflections, silhouettes, or the gothic girl in different positions. Count and include these 24 cards exactly:
+1. 「学校廊下」 — school hallway with lockers, bulletin boards, afternoon light.
+2. 「病院廊下」 — quiet hospital corridor with white walls, curtains, clean unease.
+3. 「非常階段」 — emergency stairwell, metal rails, cold light, escape-route tension.
+4. 「商業施設通路」 — shopping mall passage with people flow and urban brightness.
+5. 「地下通路」 — low ceiling, artificial lighting, tiled walls, damp heaviness.
+6. 「長い廊下」 — deep vanishing point, repeating windows and doors.
+7. 「手すり」 — railing lines guiding the eye along stairs or corridor.
+8. 「消失点」 — one-point perspective corridor converging into distance.
+9. 「階段」 — up/down movement, diagonal composition, a person midway.
+10. 「踊り場」 — stair landing, pause between floors, quiet turning point.
+11. 「外階段」 — outdoor stairs with fence, sky, wind, exposed metal.
+12. 「連絡通路」 — connecting passage between buildings, movement and transition.
+13. 「渡り廊下」 — covered school walkway with view outside and nostalgia.
+14. 「狭い通路」 — narrow passage, close walls, body brushing through.
+15. 「薄暗い通路」 — dark corridor, weak light, humid uneasy atmosphere.
+16. 「明るい廊下」 — open bright hallway, clean floor, hopeful transparent light.
+17. 「窓のある廊下」 — windows, curtains, light and shadow bands.
+18. 「曲がり角」 — corner turn, unseen continuation, narrative suspense.
+19. 「通路の奥」 — far end of corridor, small figure, depth and destination.
+20. 「すれ違い」 — two characters passing each other without eye contact.
+21. 「立ち止まる」 — character stopped in passage, back view, quiet hesitation.
+22. 「振り返る」 — character looking back over shoulder, hair and skirt movement.
+23. 「追いかける背中」 — chasing or following someone’s back in a passage.
+24. 「通路の余韻」 — empty corridor after people leave, lingering atmosphere.
+
+Bottom section: Add a handwritten notes area with star bullet points explaining that this is a word list for school corridors, hospitals, stairs, and passage演出, useful for combining with keywords like long hallway, staircase, railing, vanishing point, curve, light, shadow, silhouettes, and passing-by scenes. Keep the text dense but legible, like a Japanese prompt-word cheat sheet.
+
+Visual style: Delicate anime watercolor illustration, sketchbook infographic, hand-lettered Japanese, thin ink outlines, soft blue-gray shadows, warm parchment paper, collage tape, decorative celestial motifs. The poster should feel information-dense, cozy, nostalgic, slightly gothic, and handmade.
+
+Constraints: Use exactly 24 numbered cards in the grid; keep the large title readable; avoid modern flat vector style; no photorealism; no English labels except decorative tiny marks if needed; no watermark or logo.
+```
+
+**来源：** [@ぐふとくく](https://x.com/gufutokuku999/status/2064618571213553796) | 2026-06-10
+
+---
+
+### 🎴 例 1072：皮克斯风格电影项目海报
+
+![皮克斯风格电影项目海报](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E7%94%B5%E5%BD%B1%E9%A1%B9%E7%9B%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="project title" default="THE MURALIST"} 创建一张清晰、简洁的信息图表式项目海报。宽屏 16:9 布局，白色背景，黑色边框，醒目的黑色排版，优质的皮克斯 3D 风格渲染，爆炸性的鲜艳色彩 —— {argument name="primary color" default="电光钴蓝色"}，{argument name="secondary color" default="活力向日葵黄"}
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="project title" default="THE MURALIST"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, explosive vivid colors — {argument name="primary color" default="electric cobalt blues"}, {argument name="secondary color" default="vibrant sunflower"}
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2064585959359058219) | 2026-06-10
+
+---
+
+### 🎴 例 1079：奢华生日海报设计
+
+![奢华生日海报设计](../images/%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 比例。整个画面充满高级米白色奢华纸张纹理墙面。墙面上精准雕刻出巨大的数字“{argument name="age" default="2"}”，具有明显的深度和逼真的内部阴影。数字内部：{argument name="decorations" default="柔粉色和粉色气球，精致的白色花朵"}，优雅的花束布置，高级庆典风格。一位快乐的 2 岁儿童，保留参考面部特征，身穿乳白色 T 恤和粉色牛仔背带裤，自然地大笑。脸部、肩膀、一只手和一只脚延伸至数字之外，营造出逼真的 3D 效果。一侧投射温暖的电影感阳光，柔和的轮廓光，照片级真实皮肤，高级摄影棚摄影，超写实，焦点清晰。墙面排版：{argument name="name" default="MUNONYE"}，CHAPTER 2，365 MORE DAYS OF WONDER。简洁极简的布局，奢华杂志封面美学，高端艺术指导，逼真的阴影，自然色彩，无树影，无虚假光效，无 AI 伪影。
+
+[English]
+Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a {argument name="wall texture" default="premium off white luxury paper textured wall"}. Large number “{argument name="age" default="2"}” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy {argument name="child description" default="2 year old child"} with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: {argument name="headline" default="MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER"}. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2064548138422263945) | 2026-06-10
+
+---
+
+### 🎴 例 1087：苗族双重曝光海报
+
+![苗族双重曝光海报](../images/%E8%8B%97%E6%97%8F%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+一位年轻的{argument name="地点" default="云南"}{argument name="民族" default="苗族"}女性身穿华丽精致的苗族民族服饰（仅参考附件图片的服饰，不参考人物外貌、五官），站在高山之巅翩然起舞，跳着富有民族特色的迎客舞。她的姿态轻盈优美，舞步舒展，自信而灵动，服饰在山风中微微摆动，展现出浓郁的民族风情与生命力。她身处壮阔的大山顶端，脚下是辽阔山岭与云海，远处层峦叠嶂，山谷深远，天空湛蓝而富有戏剧感，点缀着柔和流动的白云与飞翔的鸟群，整体画面充满自由、希望与鼓舞人心的气息。
+
+人物的身体轮廓内部呈现出一个无缝融合的奇幻景观双重曝光效果，包含蜿蜒河流、松树林、瀑布、苗寨木屋、梯田、云雾缭绕的群山以及富有云南地域特色的自然与人文景观，营造出超现实而梦幻的视觉效果，象征民族文化、自然精神与内心力量的融合。
+
+画面左侧有温暖的电影般阳光倾泻而下，形成明显的体积光与金色光晕，照亮人物服饰上的刺绣纹样与银饰细节。服装重点体现云南苗族服饰特色：黑红主色调，精美刺绣领口与袖口，围裙式前胸装饰，百褶裙摆，彩色民族纹样边饰，以及华丽的银饰头饰、银项圈、银耳饰与民族配饰。整体环境超详细、纹理逼真、层次丰富，充满冒险、自由、文化自豪与精神力量的主题。
+
+优雅的排版融入海报构图中，并搭配现代手写体与无衬线字体呈现“{argument name="海报标题" default="The Miao ethnic group of Yunnan: traditional costumes and the \"Guest-Welcoming Dance.\""}”，整体形成一张高端励志艺术海报。 
+
+风格要求：照片级真实、超详细、电影级色彩分级、HDR、景深、8K分辨率、双重曝光、获奖级海报设计、史诗感、励志感、民族文化与自然融合的视觉表达。
+```
+
+**来源：** [@intothewin](https://x.com/intothewin1/status/2064515753399964155) | 2026-06-10
+
+---
+

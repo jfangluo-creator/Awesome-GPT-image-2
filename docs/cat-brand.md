@@ -3368,3 +3368,141 @@ Use 100% face above uploaded photo. Create an ultra-realistic, moody high-fashio
 
 ---
 
+### 🏷️ 例 1028：超写实照片增强
+
+![超写实照片增强](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其增强并修复为超高端的 8K 电影级写实图像。100% 保留原始身份、姿势、取景、构图、背景布局以及所有可见物体，确保其不发生改变。恢复全局清晰的微观细节：清晰的狗眼、逼真的鼻部纹理、独立的毛发、胡须、花瓣、草地、房屋、树木以及户外光影。去除模糊和像素化，提升自然对比度和影棚级清晰度，保留真实的色彩和景深，使最终效果呈现出高端专业摄影质感，且不添加或删除任何元素。
+
+[English]
+Using the provided reference image, enhance and restore it into an ultra-premium photorealistic 8K cinematic-quality image. Keep 100% of the original identity, pose, framing, composition, background layout, and all visible objects unchanged. Recover sharp microdetails throughout: clear dog eyes, realistic nose texture, individual fur strands, whiskers, flower petals, grass, house, trees, and outdoor lighting. Remove blur and pixelation, increase natural contrast and studio-grade clarity, preserve realistic colors and depth of field, and make the result look like a high-end professional photo without adding or removing elements.
+```
+
+**来源：** [@carpe](https://x.com/ftcarpe/status/2064812965195301112) | 2026-06-10
+
+---
+
+### 🏷️ 例 1038：旗袍时尚双联画
+
+![旗袍时尚双联画](../images/%E6%97%97%E8%A2%8D%E6%97%B6%E5%B0%9A%E5%8F%8C%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直的时尚编辑风格双联画，展示同一位全身摄影棚模特并排重复出现 2 次，中间由一条窄窄的灰白色垂直间隙隔开。模特为成年女性，面部被柔和的矩形模糊效果刻意遮挡，黑色头发梳成整洁的复古发髻，正面站立，姿态从容如走秀，双腿略微交叉。她身着一件光泽感酒红色丝绸旗袍，配有高立领、短盖袖、修身及膝剪裁、侧开叉，胸部、腰部和裙摆处饰有金色花卉刺绣，并搭配同色系深酒红色高跟鞋。左侧人物站在一块边缘粗糙的鲜艳 {argument name="left background color" default="红色"} 垂直色块前；右侧人物站在一块完全相同的边缘粗糙的深 {argument name="right background color" default="祖母绿色"} 垂直色块前。在涂料面板周围使用暖奶油色纸张背景，呈现可见的干刷纹理、顶部和底部的毛边效果、细腻的织物光泽、逼真的摄影棚灯光、清晰的服装细节，以及柔和的复古海报质感。在绿色面板右下角附近添加一个小的淡薄荷色四角星光图标。保持构图对称，包含 2 个完整的全身人物，2 个完全相同的垂直背景色块，无任何可读文字、无标志、无水印。
+
+[English]
+Create a vertical fashion editorial diptych showing the same full-body studio model repeated exactly 2 times side by side, separated by a narrow off-white vertical gap. The model is an adult woman with her face intentionally obscured by a soft rectangular blur, black hair in a neat vintage updo, standing front-facing with a poised runway posture and one leg crossing slightly in front of the other. She wears a glossy burgundy silk Chinese qipao / cheongsam with a high Mandarin collar, short capped sleeves, fitted knee-length silhouette, side slit, and gold floral embroidery across the chest, waist, and skirt, plus matching deep burgundy high heels. The left figure stands over a tall rough-edged vertical paint swatch in vivid {argument name="left background color" default="red"}; the right figure stands over an identical rough-edged vertical paint swatch in deep {argument name="right background color" default="emerald green"}. Use a warm cream paper background around the paint panels, visible dry-brush texture, ragged bristle edges at top and bottom, subtle fabric sheen, realistic studio lighting, sharp clothing detail, and a muted vintage poster feeling. Add one small pale mint four-point sparkle icon near the lower right of the green panel. Keep the composition symmetrical, with exactly 2 full-body figures, exactly 2 painted vertical background panels, no readable text, no logo, no watermark.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2064721807773679797) | 2026-06-10
+
+---
+
+### 🏷️ 例 1045：食品品牌 Logo 创意重塑
+
+![食品品牌 Logo 创意重塑](../images/%E9%A3%9F%E5%93%81%E5%93%81%E7%89%8C%20Logo%20%E5%88%9B%E6%84%8F%E9%87%8D%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的品牌 Logo 图像转化为高端食品艺术广告海报。
+
+分析上传的 Logo，并完全使用最符合品牌调性、色彩、行业和视觉风格的 {argument name="food ingredients" default="食品配料"} 进行重塑。Logo 必须在由精心排列的食用元素构成时，依然保持极高的辨识度。
+
+运用逼真的食品造型、配料分层、自然纹理以及专业的食品摄影技术。精确排列配料，以保留原始 Logo 的形状、比例和设计细节。
+
+示例：
+
+- 咖啡品牌 → 咖啡豆、可可粉、拿铁奶泡
+- 快餐品牌 → 薯条、汉堡、酱料、香料
+- 科技品牌 → 水果、谷物、种子、大米、面粉
+- 饮料品牌 → 水果、冰块、香草、糖晶
+- 奢侈品牌 → 巧克力、金色甜点、马卡龙、高级食材
+
+打造高端商业广告构图，采用戏剧性的摄影棚灯光、逼真的阴影、高级的食品造型、超细腻的纹理、俯拍平铺摄影、奢华品牌美学、杂志级呈现效果，照片级真实感，8K 分辨率。
+
+将完成的食品 Logo 置于画面中心显眼位置，并辅以自然环绕的配料。构图简洁，呈现专业广告大片质感，屡获殊荣的创意指导，超写实食品艺术。
+
+负面提示词：
+模糊、Logo 变形、比例错误、品牌不可读、卡通风格、CGI 感、低分辨率、配料摆放杂乱、水印、文字伪影、配料重复、色彩过饱和、光线不佳、背景杂乱。
+
+[English]
+Transform the uploaded brand logo image into a premium food-art advertising poster.
+
+Analyze the uploaded logo and recreate it entirely using {argument name="food ingredients" default="food ingredients"} that best match the brand's identity, colors, industry, and visual style. The logo must remain instantly recognizable while being built from carefully arranged edible elements.
+
+Use realistic food styling, ingredient layering, natural textures, and professional food photography techniques. Arrange ingredients precisely to preserve the original logo shape, proportions, and design details.
+
+Examples:
+
+- Coffee brands → coffee beans, cocoa powder, latte foam
+- Fast food brands → fries, burgers, sauces, spices
+- Technology brands → fruits, grains, seeds, rice, flour
+- Beverage brands → fruits, ice cubes, herbs, sugar crystals
+- Luxury brands → chocolate, gold-colored desserts, macarons, premium ingredients
+
+Create a high-end commercial advertising composition with dramatic studio lighting, realistic shadows, premium food styling, ultra-detailed textures, overhead flat-lay photography, luxury branding aesthetic, magazine-quality presentation, photorealistic, 8K resolution.
+
+Place the completed food logo prominently in the center of the frame with complementary ingredients naturally surrounding it. Clean composition, professional advertising campaign look, award-winning creative direction, hyper-realistic food art.
+
+Negative prompt:
+blurry, distorted logo, incorrect proportions, unreadable branding, cartoon style, CGI appearance, low resolution, messy ingredient placement, watermark, text artifacts, duplicate ingredients, oversaturated colors, poor lighting, cluttered background.
+```
+
+**来源：** [@Smiling Khan](https://x.com/AIwithkhan/status/2064685423147016318) | 2026-06-10
+
+---
+
+### 🏷️ 例 1054：专业餐厅菜单设计
+
+![专业餐厅菜单设计](../images/%E4%B8%93%E4%B8%9A%E9%A4%90%E5%8E%85%E8%8F%9C%E5%8D%95%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+品牌名称：巷口炭火局 餐饮品类：烧烤 / 夜宵 / 小酒馆 主打产品：炭烤牛肉串 + 招牌烤鸡翅 + 冰镇酸梅汤 品牌风格：烟火市井、热闹有锅气、复古红黑、强食欲 目标人群：年轻上班族、朋友聚会、夜宵人群、学生 门店位置：夜市 / 社区街边 / 商圈背街 物料编号：4 画幅比例：16:9 补充要求：生成一张烧烤菜单设计，分类包含招牌烤串、肉类、素菜、主食、小吃、饮品，价格醒目，推荐菜突出，画面有炭火烟火气和夜宵氛围，但排版不能脏乱; 品牌名称：首尔炸鸡研究社 餐饮品类：韩式炸鸡 / 小吃 / 饮品 主打产品：蜂蜜蒜香炸鸡 + 芝士年糕炸鸡 品牌风格：年轻潮流、韩式街头、明亮活力、强食欲 目标人群：学生、年轻情侣、朋友聚会、外卖用户 门店位置：学校周边 / 商圈街边 / 外卖高频区域 物料编号：4 画幅比例：16:9 补充要求：生成一张韩式炸鸡菜单设计，分类包含招牌炸鸡、双拼套餐、小吃、饮品、蘸酱加购，突出套餐价值感和外卖点单效率，画面要酥脆多汁、有年轻社交感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2064641773994193126) | 2026-06-10
+
+---
+
+### 🏷️ 例 1066：休闲约会视角
+
+![休闲约会视角](../images/%E4%BC%91%E9%97%B2%E7%BA%A6%E4%BC%9A%E8%A7%86%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+{argument name="人数" default="两个人"}面对面吃饭，吃的{argument name="餐厅" default="海底捞"}，女生在对面给男生使用{argument name="设备" default="iPhone 17 Pro Max"}拍的
+```
+
+**来源：** [@水木易](https://x.com/ohmuyi/status/2064615445320368579) | 2026-06-10
+
+---
+
+### 🏷️ 例 1073：樱花神社前的马卡龙色系偶像痛车
+
+![樱花神社前的马卡龙色系偶像痛车](../images/%E6%A8%B1%E8%8A%B1%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E5%81%B6%E5%83%8F%E7%97%9B%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个高度精细、具有光泽感的夜间动漫偶像痛车场景：一辆可爱的马卡龙色系小型车（类似于圆润的甲壳虫汽车）以四分之三前视图停在盛开的樱花树下湿润且具有反射效果的路面上，背景是一座灯火通明的日本神社，神社招牌上写着 {argument name="shrine sign text" default="ルミエール神社"}。车身完全包裹在梦幻偶像主题中，采用珠光粉、薰衣草紫、婴儿蓝和白色涂装，带有全息闪光、星星贴纸、丝带贴纸、蕾丝装饰和紫色霓虹底盘灯。在车身上添加 8 组醒目的外部装饰：1) 车顶上有一个巨大的粉色带翼星星偶像徽章，2) 引擎盖上有蝴蝶结、星星和英文文本 {argument name="hood slogan" default="Memorial Idol"}，3) 定制的前车牌，带有微型偶像品牌标识，4) 后视镜上的马卡龙色星星徽章，5) 副驾驶车门上印有大型动漫偶像肖像，脸部区域刻意留白或柔化处理，6) 车侧有大型草书文本 {argument name="side message" default="Thank You!"}，7) 两个可见车轮上均有发光的星星轮毂盖，8) 保险杠、侧裙和轮毂边缘配有紫粉色 LED 灯带。车右侧站着一位无面年轻女性偶像吉祥物，全身像，身穿蓝色、粉色和薰衣草紫色的褶边马卡龙色舞台装，配有层叠荷叶边、蝴蝶结、泡泡袖、白手套、白色厚底短靴和一顶小礼帽；她一手拿着银色麦克风，另一只手向观众伸出，脸部特意模糊处理以便定制。在她脚边放置 1 只小狗，是一只戴着马卡龙色领结、安静坐着的棕白色查理王小猎犬。整体氛围梦幻且充满庆典感，飘落的樱花瓣、柔和的灯笼虚化效果、水坑倒影、电影级轮廓光、超精细 3D 插画风格、偶像演唱会幻想美学、高饱和度、细节清晰，画面中没有其他人物，没有可见水印。使用偶像名称 {argument name="idol name" default="Kana"}，并保持整体氛围温馨、充满魔法感和粉丝自制感。
+
+[English]
+Create a highly detailed, glossy anime idol itasha scene at night: a cute pastel compact car resembling a rounded Volkswagen Beetle is parked three-quarter front view on wet reflective pavement under blooming cherry blossom trees, in front of a warmly lit Japanese shrine with a glowing sign reading {argument name="shrine sign text" default="ルミエール神社"}. The car is fully wrapped in a magical idol theme, with pearlescent pink, lavender, baby blue, and white paint, holographic sparkles, star decals, ribbon decals, lace-like trim, and neon purple underglow. Add exactly 8 prominent exterior decoration groups on the car: 1) a large roof ornament shaped like a pink winged star idol crest, 2) a hood graphic with bows, stars, and the English text {argument name="hood slogan" default="Memorial Idol"}, 3) a custom front license plate with tiny idol branding, 4) a pastel star badge on the side mirror, 5) a large printed anime idol portrait on the passenger door with the face area intentionally blank or softly obscured, 6) large cursive side text reading {argument name="side message" default="Thank You!"}, 7) glowing star wheel covers on both visible wheels, and 8) purple-pink LED strips along the bumper, side skirt, and wheel rims. Beside the car on the right stands a faceless young female idol mascot, full body, wearing a frilly pastel stage dress in blue, pink, and lavender with layered ruffles, bows, puff sleeves, white gloves, white platform ankle boots, and a small white hat; she holds a silver microphone in one hand and reaches toward the viewer with the other, with her face deliberately featureless/blurred for customization. Include exactly 1 dog at her feet, a small Cavalier King Charles Spaniel with brown-and-white fur, wearing a pastel bow tie, sitting calmly. The atmosphere is dreamy and celebratory, with falling sakura petals, soft bokeh lanterns, reflections in puddles, cinematic rim lighting, ultra-polished 3D illustration style, idol concert fantasy aesthetic, high saturation, crisp details, no extra people, no visible watermark. Use the idol theme {argument name="idol name" default="Kana"} and keep the overall mood affectionate, magical, and fan-made.
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2064582215695266125) | 2026-06-10
+
+---
+

@@ -2174,3 +2174,339 @@ Ultra realistic surreal pop-art scene, a {argument name="subject" default="young
 
 ---
 
+### 🖥️ 例 1047：动漫 RPG 东京街头 HUD
+
+![动漫 RPG 东京街头 HUD](../images/%E5%8A%A8%E6%BC%AB%20RPG%20%E4%B8%9C%E4%BA%AC%E8%A1%97%E5%A4%B4%20HUD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影感开放世界 RPG 截图，背景设定在雨中霓虹闪烁的东京夜生活区，采用高预算动漫游戏 UI 跨界风格。场景展示了玩家在樱花树下的湿润人行横道上，面对两位动漫同伴，并叠加了沉浸式 HUD 元素。
+
+画布：16:9 横向游戏截图，1170×675 或类似的宽屏比例，夜间，前景角色清晰，城市背景细节丰富，路面有光泽的雨水倒影。
+
+环境：夜晚花见町（Hanamicho）密集的日本街道，灵感源自歌舞伎町。包含发光的店面招牌、右侧的自动贩卖机、路边的自行车、远处的行人、斑马线，湿润的柏油路面反射着粉色、蓝色、黄色和红色的霓虹灯光。左上方有一棵巨大的粉色樱花树。左侧添加美食摊位的灯笼和暖色招牌，背景中心有高楼大厦和远处的发光塔楼。
+
+主要角色：在玩家前方放置 2 位全身动漫 NPC。左侧角色为 {argument name="left character name" default="Griffith"}，一位高大优雅的银发奇幻骑士，留着极长的波浪状浅色头发，身穿华丽闪亮的银色板甲，带有金色翼状领口细节，白色披风配深紫色内衬，黑色内搭，系腰带，姿态沉稳严肃。右侧角色为 {argument name="right character name" default="Power"}，一位留着极长桃橙色头发的动漫少女，长着红色小角，身穿白衬衫、黑领带、超大号蓝色连帽衫、黑色七分裤和红色运动鞋，姿态随意，单手叉腰。面部应呈现轻微模糊或无特征状态，如同匿名化处理，同时保留头发和服装细节。
+
+玩家视角：第一人称视角，底部前景可见 2 只手向前伸出，穿着深色西装袖子。左手指向骑士，右手指向长角少女，营造出互动对话的瞬间。
+
+HUD 和 UI 元素：添加 7 组主要界面。1) 左上角位置文本：“Hanamicho”及时间“22:47”。2) 下方有一个圆形灰度小地图，带有彩色路线标记。3) 左侧任务追踪器，包含 2 个任务：“The Vanishing Band”，目标为“Search for the missing musicians at LiveHouse Heaven’s Door”；以及“Snack Attack”，目标为“Try the takoyaki at Gindaco”，进度为“0/1”。4) 右上角快捷图标，分别标记为 F1、F2、F3、F4，使用白色小图标表示物品栏、地图/卡片、社交/角色和菜单。5) 右侧角色附近的中心互动提示：一个带框的按键“F”，后接“Talk”。6) 底部对话字幕框，黄色显示说话者姓名 {argument name="speaker name" default="Power"}，以及对话内容 {argument name="dialogue line" default="Hah! You look way too serious. Chill!"}。7) 底部战斗 HUD，显示玩家等级 28，HP“3154/3154”，副条“1030/1030”，EXP“2350 / 6240”，三个技能按钮分别标记为 Q、E、R，以及三个移动/动作图标分别标记为 Z、X、Space。
+
+队伍列表：在右侧包含 3 张队伍成员卡片，带有头像缩略图、姓名、等级和 HP 数值：“Griffith Lv.28 3154/3154”、“Power Lv.27 2418/2418”和“Makima Lv.26 1846/1846”。
+
+视觉风格：将写实的雨中城市摄影背景与清晰的动漫角色艺术及精致的奇幻 RPG HUD 无缝结合。使用戏剧性的霓虹灯光、电影感景深、高细节、清晰易读的 UI 排版，无水印，前景无额外角色，无额外任务或队伍成员。
+
+[English]
+Goal: Create a cinematic open-world RPG screenshot set in a rainy neon Tokyo nightlife district, styled like a high-budget anime game UI crossover. The scene shows the player facing two anime companions in the middle of a wet crosswalk under cherry blossoms, with immersive HUD elements overlaid.
+
+Canvas: 16:9 horizontal game screenshot, 1170×675 or similar wide aspect ratio, nighttime, sharp foreground characters and detailed city background, glossy rain reflections on pavement.
+
+Environment: A dense Japanese city street in Hanamicho at night, inspired by Kabukicho. Include glowing storefront signs, vending machines on the right, bicycles near the curb, pedestrians in the distance, zebra crossing lines, wet asphalt reflecting pink, blue, yellow, and red neon. A large cherry blossom tree with pink flowers spreads across the upper left. Add food-stall lanterns and warm signage on the left, plus tall buildings and a distant illuminated tower in the center background.
+
+Main characters: Place exactly 2 full-body anime NPCs in front of the player. Left character is {argument name="left character name" default="Griffith"}, a tall elegant silver-haired fantasy knight with very long wavy pale hair, ornate shining silver plate armor, gold wing-like collar details, white cape with dark purple lining, black undersuit, belt, and poised serious stance. Right character is {argument name="right character name" default="Power"}, an anime girl with very long peach-orange hair, small red horns, white shirt, black tie, oversized blue hoodie, cropped black pants, and red sneakers, standing casually with one hand on her hip. Faces should appear softly blurred or featureless as if anonymized, while preserving hair and outfit details.
+
+Player perspective: First-person view with exactly 2 visible hands reaching forward from the bottom foreground, wearing dark suit sleeves. The left hand points toward the knight and the right hand points toward the horned girl, creating an interactive dialogue moment.
+
+HUD and UI elements: Add exactly 7 main interface groups. 1) Top-left location text: “Hanamicho” and the time “22:47”. 2) A circular grayscale minimap below it with small colored route markers. 3) A left quest tracker with exactly 2 quests: “The Vanishing Band” with objective “Search for the missing musicians at LiveHouse Heaven’s Door”, and “Snack Attack” with objective “Try the takoyaki at Gindaco” plus progress “0/1”. 4) Top-right shortcut icons labeled exactly F1, F2, F3, F4, using small white icons for inventory, map/card, social/character, and menu. 5) Center interaction prompt near the right character: a boxed key “F” followed by “Talk”. 6) Bottom dialogue subtitle box showing speaker name {argument name="speaker name" default="Power"} in yellow and dialogue {argument name="dialogue line" default="Hah! You look way too serious. Chill!"}. 7) Bottom combat HUD with player level 28, HP “3154/3154”, secondary bar “1030/1030”, EXP “2350 / 6240”, three ability buttons labeled Q, E, R, and three movement/action icons labeled Z, X, Space.
+
+Party list: On the right side, include exactly 3 party member cards with portrait thumbnails, names, levels, and HP values: “Griffith Lv.28 3154/3154”, “Power Lv.27 2418/2418”, and “Makima Lv.26 1846/1846”.
+
+Visual style: Seamlessly combine realistic rainy urban photography background with crisp anime character art and polished fantasy RPG HUD. Use dramatic neon lighting, cinematic depth, high detail, clean readable UI typography, no watermark, no extra characters in the foreground, no additional quests or party members.
+```
+
+**来源：** [@Dir Rayh](https://x.com/DirRayh6474/status/2064677479147602215) | 2026-06-10
+
+---
+
+### 🖥️ 例 1048：GPT Image 2 Prompt Gallery README
+
+![GPT Image 2 Prompt Gallery README](../images/GPT%20Image%202%20Prompt%20Gallery%20README.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的 GitHub README 风格落地页截图，用于推广 {argument name="project title" default="GPT Image 2 Prompt Gallery + Agentic Skill + CLI"}，包含居中的标题区域以及下方的大型奇幻动漫英雄横幅。
+
+画布：890×650 像素的网页截图，白色背景，留有充足的边距，标题下方有一条细浅灰色水平分割线。采用清晰的浏览器/文档美学风格，不包含浏览器边框。
+
+布局：左上角有一个黑色链式锚点图标。顶部居中位置为醒目的大标题“GPT Image 2 Prompt Gallery + Agentic Skill + CLI”。下方放置两行斜体副标题：“OpenAI GPT Image 2 提示词库、图像提示词库、Agent 技能及 CLI —— 精选的复制粘贴提示词及可运行的 Agent 技能示例。”在语言链接下方，居中显示“English · 中文”，采用蓝色下划线链接样式。在语言链接下方，单行放置 6 个小型矩形状态徽章：“License MIT”、“PRs welcome”、“model gpt-image-2”以及“python ≥3.11”；前两个徽章采用深灰色标签 + 绿色数值，模型徽章采用深灰色标签 + 紫色数值，Python 徽章采用深灰色标签 + 蓝色数值。在下方，单行居中放置 3 个排名徽章：“oosmetrics Top 1 Agents”、“oosmetrics Top 1 LLMs”和“oosmetrics Top 1 CLI”，使用深灰色标签部分和柔和的蓝/紫色数值部分。
+
+英雄横幅：在徽章下方放置一张大型宽矩形插图，横跨几乎整个内容宽度，留有少量白色边距。横幅为细节丰富的奇幻工作室场景，采用温暖的电影级光效，动漫/Q 版风格，上方中央有一块黑色笔触招牌，上面用粗犷的金色大字写着 {argument name="banner title" default="GPTImage2Skill"}。背景展示了一个魔法洞穴工作室，配有发光的 UI 面板、悬浮图标、卷轴、提示词页、类似药水的彩色球体、工具以及远处开阔的山脉景观。
+
+英雄横幅中的角色与物体：横幅中需包含 8 个 Q 版奇幻角色，每个角色都持有或展示图像生成产物：左侧 1 名男孩手持羊皮纸并举起拳头，左下角 1 名身着紫色服装的角色手持一张极具戏剧性的动漫图像，左下侧 1 名身着绿色服装的角色手持图表/规格说明书，中左侧 1 名身着长袍的老年角色，中央 1 名身着红色服装的小角色，中右侧 1 名身着绿/黄色服装的角色手持手机风格的 UI 页面，右下侧 1 名面带微笑的橙/绿色角色手持一张写实鸟类照片，最右侧 1 名身着蓝/绿色服装的角色手持海报和仪表盘面板。如有需要，可在其后方添加少量半身人形轮廓，但 8 个前景 Q 版角色必须保持视觉主导地位。将人形角色的面部渲染为刻意模糊或遮盖的柔和棕褐色矩形，以示匿名，同时保持服装、姿势、手部和所持图像的清晰度。
+
+视觉风格：将简洁的文档页面排版与生动的高细节奇幻动漫插图相结合。页面区域应保持平整的白色；英雄图像应色彩饱和、温暖、充满魔力，并带有发光的青色和金色点缀。确保所有指定的可见文字清晰可辨，避免添加额外的段落、水印、徽标或浏览器控件。
+
+[English]
+Goal: Create a clean GitHub README-style landing page screenshot promoting {argument name="project title" default="GPT Image 2 Prompt Gallery + Agentic Skill + CLI"}, with a centered title area and a large fantasy-anime hero banner underneath.
+
+Canvas: 890×650 px webpage screenshot on a white background, with generous margins and a thin light-gray horizontal divider below the title. Use a crisp browser/documentation aesthetic, no browser chrome.
+
+Layout: Top-left has a small black chain-link anchor icon. Centered at the top is the large bold headline “GPT Image 2 Prompt Gallery + Agentic Skill + CLI”. Under it, place an italic two-line subtitle: “OpenAI GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI — curated, copy-paste prompts and runnable examples for skill-capable agents.” Below that, centered language links read “English · 中文” in blue underlined link style. Under the language links, place exactly 6 small rectangular status badges in one row: “License MIT”, “PRs welcome”, “model gpt-image-2”, and “python ≥3.11”, with the first two labels split into dark-gray label + green value, the model badge split dark-gray label + purple value, and the python badge split dark-gray label + blue value. Below, place exactly 3 centered ranking badges in one row: “oosmetrics Top 1 Agents”, “oosmetrics Top 1 LLMs”, and “oosmetrics Top 1 CLI”, using dark-gray label segments and muted blue/purple value segments.
+
+Hero banner: Place one large wide rectangular illustration beneath the badges, spanning almost the full content width with small white margins. The banner is a richly detailed fantasy workshop scene in warm cinematic lighting, anime/chibi style, with a black brush-stroke sign across the upper center reading {argument name="banner title" default="GPTImage2Skill"} in large rough gold lettering. The background shows a magical cave workshop with glowing UI panels, floating icons, scrolls, prompt sheets, potion-like colorful orbs, tools, and a mountain landscape opening in the distance.
+
+Characters and objects in the hero banner: Include exactly 8 chibi fantasy characters arranged across the banner, each holding or presenting image-generation artifacts: 1 boy on the left holding a parchment and raising a fist, 1 purple-clothed character at bottom-left holding a dramatic anime image, 1 green-clothed character near lower-left holding a diagram/spec sheet, 1 elderly robed character near center-left, 1 small red-clothed character in the center, 1 green/yellow character near center-right holding a phone-style UI sheet, 1 smiling orange/green character near lower-right holding a realistic bird photo, and 1 blue/green character at far right holding a poster and a dashboard panel. Add several additional partial humanoid figures behind them if needed, but the 8 foreground chibi characters must remain visually dominant. Render the humanoid faces as intentionally blurred or masked soft tan rectangles, as if anonymized, while keeping costumes, poses, hands, and held images sharp.
+
+Visual style: Combine clean documentation page typography with a vibrant high-detail fantasy anime illustration. The page area should be flat and white; the hero image should be saturated, warm, magical, and highly detailed with glowing cyan and gold accents. Keep all visible text legible where specified, avoid adding extra paragraphs, watermarks, logos, or browser controls.
+```
+
+**来源：** [@Resource Daily](https://x.com/xuxufuye/status/2064674813835444570) | 2026-06-10
+
+---
+
+### 🖥️ 例 1053：窗边的匿名女学生
+
+![窗边的匿名女学生](../images/%E7%AA%97%E8%BE%B9%E7%9A%84%E5%8C%BF%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的电影感照片，主体为一名 {argument name="subject" default="日本少女学生"}，她站在安静的学校走廊内，身旁是一扇大窗户。画面展示其腰部以上的侧影，她正凝视着窗外。她身穿深海军蓝水手风校服，配有百褶裙、白色双条纹水手领和暗红色领带；她留着过肩的长直黑发。为了保持匿名，她的面部被中心化的柔和方形马赛克模糊处理。身后的走廊光线昏暗且略微失焦，背景中可见一扇门和磨砂长方形窗板。画面右侧以高大的白色边框窗户和浅色窗台为主，窗外是阴雨或阴天下的远山、建筑、绿植，玻璃上隐约映出女孩的倒影。采用自然柔和的日光、柔和的冷色调、浅景深、细腻的胶片颗粒感、沉思的氛围，呈现 35mm 纪录片风格的写实摄影效果，垂直方形构图，无文字，无水印。
+
+[English]
+Create a realistic cinematic photograph of a {argument name="subject" default="Japanese teenage schoolgirl"} standing indoors in a quiet school hallway beside a large window, shown from the waist up in side profile as she gazes outside. She wears a dark navy sailor-style school uniform with a pleated skirt, white double-striped sailor collar, and a muted red necktie; her long straight black hair falls past her shoulders. Her face is intentionally obscured by a soft square mosaic blur centered over the facial area, preserving anonymity. The hallway behind her is dim and slightly out of focus, with a door and frosted rectangular window panel visible in the background. The right side of the image is dominated by tall white-framed windows and a pale windowsill, with a rainy or overcast outdoor view of distant hills, buildings, greenery, and a faint reflection of the girl in the glass. Use natural soft daylight, muted cool colors, shallow depth of field, subtle film grain, contemplative mood, photorealistic 35mm documentary style, vertical square composition, no text, no watermark.
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2064647748599849230) | 2026-06-10
+
+---
+
+### 🖥️ 例 1055：动漫番茄酱蛋包饭艺术
+
+![动漫番茄酱蛋包饭艺术](../images/%E5%8A%A8%E6%BC%AB%E7%95%AA%E8%8C%84%E9%85%B1%E8%9B%8B%E5%8C%85%E9%A5%AD%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实且令人垂涎的日式蛋包饭美食摄影照片，盛放在一个大型浅灰色陶瓷盘中。主体是一个光泽诱人的金黄色蛋皮，覆盖在红色的番茄炒饭上，底部边缘隐约可见米饭。在蛋皮上方，用红色番茄酱线条画出一个可爱的动漫风格女孩脸庞：波波头短发，留着短刘海，两只大眼睛，一个小巧的微笑嘴巴，以及简单的脸颊/下颌线条，就像是 {argument name="character name" default="一个可爱的动漫女孩"} 的蛋包饭艺术。在盘子右侧放置一份配菜沙拉，包含 3 种清晰可见的食材：绿叶生菜、深红色/紫色叶子和 1 个圣女果，并淋上少许奶油色调味汁。将盘子放在温暖的木质咖啡馆桌面上，靠近光线柔和的窗户。背景中包含 2 个玻璃制品：左侧是一个插着细小白花的小玻璃花瓶，右侧是一个透明水杯，两者均经过柔焦处理。使用自然晨光、浅景深、温暖舒适的色调、高细节的美食质感、蛋皮上的写实反光，以及 16:9 的横向构图。无文字，无水印，无手部，无餐具。
+
+[English]
+Create a realistic, appetizing food photograph of Japanese omurice served on a large pale gray ceramic plate. The main subject is a glossy golden omelet draped over reddish ketchup fried rice, with the rice visibly peeking out along the bottom edge. On top of the omelet, draw a cute anime-style girl face using red ketchup lines: bobbed hair framing the face, short bangs, two large eyes, a small smiling mouth, and simple cheek/jaw lines, as if it is omurice art of {argument name="character name" default="a cute anime girl"}. Place a side salad on the right side of the plate with exactly 3 visible components: leafy green lettuce, dark red/purple leaves, and 1 cherry tomato, plus a light creamy dressing drizzle. Set the plate on a warm wooden café table near a softly lit window. Include exactly 2 background glass items: 1 small glass vase with tiny white flowers on the left and 1 clear water glass on the right, both softly blurred. Use natural morning sunlight, shallow depth of field, warm cozy tones, high-detail food texture, realistic reflections on the omelet, and a horizontal 16:9 composition. No text, no watermark, no hands, no utensils.
+```
+
+**来源：** [@癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2064638198190645559) | 2026-06-10
+
+---
+
+### 🖥️ 例 1056：电影级海盗主题网站落地页
+
+![电影级海盗主题网站落地页](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B5%B7%E7%9B%97%E4%B8%BB%E9%A2%98%E7%BD%91%E7%AB%99%E8%90%BD%E5%9C%B0%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="website title" default="加勒比海盗"} 创建一个暗黑电影风格的海盗主题落地页，采用高端冒险电影网站的视觉设计，融入古旧羊皮纸、雕刻木纹、金色排版和深邃的海洋光影。
+
+画布：高比例桌面网页模型，宽高比约为 2:3，全屏暗黑奇幻写实风格。使用黑色、棕褐色和暗金色调，搭配深青色的风暴云层和温暖的日落高光。所有元素需体现做旧羊皮纸、古地图、绳索、风化木材和细腻的磨损质感。
+
+页眉：左上角放置一个堆叠式的海盗标志，文字为“Pirates of the Caribbean”，上方配有一个小型徽章。顶部中心放置 6 个导航链接：“HOME”、“ABOUT”、“CREW”、“GALLERY”、“ADVENTURES” 和 “CONTACT”，其中 HOME 需以金色微亮显示并带有下划线。右上角放置一个羊皮纸卷轴样式的按钮，文字为“JOIN THE CREW”。
+
+英雄区：上半部分呈现戏剧性的日落海景：右侧是一艘巨大的黑色海盗船，挂着骷髅旗，海浪汹涌，远处有岩石岛屿剪影，最右侧有棕榈树，风暴云层中透出金色的光芒。左侧添加一个巨大的衬线体标题：{argument name="hero headline" default="活出传奇。\n成为海盗。"} 下方添加一条细红色的分割线，中心配有一个微型骷髅图标。下方添加副标题：“航行于大海。探寻宝藏。\n体验冒险。” 添加一个深红色斜面效果的行动号召按钮，文字为 {argument name="primary button text" default="开启你的冒险"}，并配有一个向右的小箭头。
+
+功能卡片：在英雄区下方，创建 3 个并排的框架面板，背景为做旧羊皮纸/木材。卡片 1 展示一个古董指南针，标题为“EXPLORE”，文字为“探索神秘岛屿、\n隐藏洞穴和异域\n目的地。” 卡片 2 展示交叉的剑和中央的骷髅/徽章，标题为“BATTLE”，文字为“面对可怕的敌人，\n参与史诗般的海战\n以赢取荣耀。” 卡片 3 展示一个溢满金币和珠宝的打开的宝箱，标题为“TREASURE”，文字为“寻找传奇宝藏，\n解锁加勒比海的\n秘密。” 最右侧散落着金币，左下角放置一个巨大的指南针局部，以增加深度感。
+
+船员板块：在功能卡片下方，创建一个暗色区域，左侧放置一个巨大的海盗骷髅交叉剑徽章，装饰有红色头巾条、珠子和刀刃。右侧添加一个红色小标签“ABOUT THE CREW”，随后是金色标题 {argument name="crew headline" default="海上兄弟会"}。添加正文：“我们并非无国之人，而是无畏\n之人。因自由而团结，因冒险而\n驱动，并受法典约束。” 添加一个带有轮廓的按钮，文字为“MEET THE CREW”，并配有一个向右箭头。右侧背景中放置一个隐约的幽灵海盗船剪影。
+
+最新冒险板块：添加一个居中标题“LATEST ADVENTURES”，下方配有小型装饰性水平线和一个微型骷髅。标题下方并排放置 3 张冒险卡片，每张卡片包含图片、标题、描述和红色的“READ MORE >”链接。卡片 1：热带岛屿泻湖图片，标题“诅咒觉醒”，描述“探索从未消逝的传说。” 卡片 2：海上船战图片，标题“托尔图加之战”，描述“大海将染成红色。” 卡片 3：发光洞穴宝藏图片，标题“失落的宝藏”，描述“每一张地图都隐藏着一个秘密。” 在该行最左侧和最右侧添加圆形轮播箭头按钮。
+
+页脚：左下角重复“Pirates of the Caribbean”标志。中心添加一句斜体引言：“问题本身不是问题。\n你对问题的态度才是问题。” 随后标注“— 杰克船长 —”。右下角添加“FOLLOW THE CREW”以及 4 个小型社交媒体图标：Facebook、X、Instagram 和 YouTube。
+
+视觉风格：高细节电影级哑光绘画与精致网站 UI 设计相结合，具备写实光影、古海盗地图装饰、金色雕刻衬线排版、深红色点缀、锐利的矩形内容框架、细腻阴影，营造出奢华冒险游戏落地页的质感。确保所有文字清晰、对齐且拼写准确。禁止使用现代亮色、极简风格、额外板块或水印。
+
+[English]
+Goal: Create a dark cinematic pirate-themed landing page for {argument name="website title" default="Pirates of the Caribbean"}, styled like a premium adventure movie website with antique parchment, carved wood, gold typography, and moody ocean lighting.
+
+Canvas: Tall desktop webpage mockup, approximately 2:3 aspect ratio, full-bleed dark fantasy realism. Use a black, sepia, and tarnished-gold palette with deep teal storm clouds and warm sunset highlights. Texture everything with aged parchment, old maps, rope, weathered wood, and subtle grunge.
+
+Header: At the top left place a stacked pirate logo reading “Pirates of the Caribbean,” with a small emblem above it. Across the top center place exactly 6 navigation links: “HOME,” “ABOUT,” “CREW,” “GALLERY,” “ADVENTURES,” and “CONTACT,” with HOME subtly highlighted in gold and underlined. At the top right place a parchment scroll button reading “JOIN THE CREW.”
+
+Hero section: Make the top half a dramatic seascape at sunset: a large black pirate ship on the right with a skull-and-crossbones sail, rough waves, rocky island silhouettes in the distance, palm trees at far right, storm clouds, and golden light breaking through the sky. On the left, add a large serif headline: {argument name="hero headline" default="LIVE THE LEGEND.\nBECOME A PIRATE."} Under it add a thin red divider with a tiny skull icon centered. Below, add the subtext “Sail the seas. Seek the treasure.\nLive the adventure.” Add a dark red beveled call-to-action button reading {argument name="primary button text" default="BEGIN YOUR ADVENTURE"} with a small right arrow.
+
+Feature cards: Beneath the hero, create exactly 3 adjacent framed panels on aged parchment/wood. Card 1 shows an antique compass and is titled “EXPLORE,” with text “Discover mysterious islands,\nhidden caves and exotic\ndestinations.” Card 2 shows crossed swords and a central skull/emblem, titled “BATTLE,” with text “Face fearsome enemies and\nengage in epic sea battles\nfor glory.” Card 3 shows an open treasure chest overflowing with gold coins and jewels, titled “TREASURE,” with text “Find legendary treasures\nand unlock the secrets of\nthe Caribbean.” Add scattered coins at the far right and a partial large compass at lower left for depth.
+
+Crew section: Below the feature cards, create a dark section with a large pirate skull-and-crossed-swords crest on the left, decorated with red bandana strips, beads, and blades. On the right, add a small red label “ABOUT THE CREW,” then a gold title {argument name="crew headline" default="BROTHERS OF THE SEA"}. Add body copy: “We are not men without a country, but men\nwithout fear. United by freedom, driven by\nadventure and bound by the code.” Add an outlined button reading “MEET THE CREW” with a right arrow. Place a faint ghostly pirate ship silhouette in the background at right.
+
+Latest adventures section: Add a centered heading “LATEST ADVENTURES” with small decorative horizontal lines and a tiny skull below it. Under the heading place exactly 3 adventure cards in a row, each with an image, title, description, and red “READ MORE >” link. Card 1: tropical island lagoon image, title “THE CURSE AWAKENS,” description “Explore the legend that never died.” Card 2: ship battle at sea image, title “BATTLE FOR TORTUGA,” description “The seas will run red.” Card 3: glowing cave treasure image, title “THE LOST TREASURE,” description “Every map hides a secret.” Add circular carousel arrow buttons on the far left and far right of this row.
+
+Footer: Bottom left repeat the “Pirates of the Caribbean” logo. Center add an italic quote: “The problem is not the problem.\nThe problem is your attitude about the problem.” followed by “— Captain Jack Sparrow —”. Bottom right add “FOLLOW THE CREW” and exactly 4 small social icons: Facebook, X, Instagram, and YouTube.
+
+Visual style: High-detail cinematic matte painting mixed with polished website UI design, realistic lighting, old pirate-map ornamentation, gold engraved serif typography, dark red accents, sharp rectangular content frames, subtle shadows, and a luxury adventure-game landing page feel. Keep all text legible, aligned, and spelled exactly as specified. No modern bright colors, no minimalist style, no extra sections, no watermark.
+```
+
+**来源：** [@build4mbottom](https://x.com/build4mbottom/status/2064637292082549133) | 2026-06-10
+
+---
+
+### 🖥️ 例 1071：沙漠流浪者照片拼贴
+
+![沙漠流浪者照片拼贴](../images/%E6%B2%99%E6%BC%A0%E6%B5%81%E6%B5%AA%E8%80%85%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的沙漠探险家照片拼贴，主角为 {argument name="character name" default="一名粗犷的男性沙漠流浪者"}，背景为日落时分风吹沙丘的景观，其面部特意用平滑的矩形模糊/色块遮挡以保持匿名。
+
+画布：宽屏 16:9 拼贴，高分辨率写实编辑风格，由细白边框分割为 5 个板块。
+
+布局：左侧使用一个占据约 45% 宽度的长方形板块，右侧为 2x2 排列的四个较小板块。5 个可见板块分别为：1) 左侧大型特写坐姿肖像，2) 右上中段在沙丘脊线上朝镜头走来的全身照，3) 右上角在沙丘上的四分之三侧身站姿，4) 右下中段在沙地上的放松坐姿，5) 右下角背对镜头走向日落的背影。
+
+人物细节：角色拥有 {argument name="hair style" default="深色中长卷发"}、古铜色皮肤、精瘦健壮的体格，留有胡茬或短须，但面部隐藏。服装为大地色系的层叠式末日沙漠风格：长款风化的橄榄棕色连帽派克大衣，带有松散的系带和磨损边缘，灰米色旧 T 恤，工装裤，棕褐色系带沙漠靴，佩戴手表、戒指、手链和吊坠项链。服装应呈现出日晒褪色、布满灰尘、褶皱且被风吹动的质感。
+
+场景与光影：广阔的沙丘，带有波纹状沙质纹理，远处有山脉剪影，地平线附近有戏剧性的橙金色日落，散落的云朵闪烁着温暖的轮廓光。在行走镜头中加入靴子扬起的轻微尘土。使用电影级的黄金时刻逆光，温暖的高光，深邃的自然阴影，特写镜头采用浅景深，织物和沙子细节清晰锐利。
+
+板块构图：左侧板块展示角色靠近镜头坐着，双臂放在膝盖上，躯干填满画面，面部被一个居中的垂直棕色矩形遮挡块覆盖。右上中段板块展示他在沙丘脊线上向前走，外套在风中飘动，太阳在他身后。右上角板块展示他单手插兜站立，看向一侧，全身可见。右下中段板块展示他坐在沙地上，一膝抬起，一只手撑在身后。右下角板块展示他从背后走向沙丘顶端的背影，外套拖曳，日落天空填满背景。
+
+视觉风格：写实时尚编辑风格与电影冒险片剧照的结合，真实的镜头压缩感，暖色调分级，高动态范围，细节纹理丰富，无文字，无 Logo，无水印。
+
+约束条件：包含 5 个板块，且所有板块中仅出现 1 个角色。在每个板块中通过柔和模糊或平面的棕色矩形遮挡效果保持面部匿名。不要添加额外的人物、车辆、建筑物、武器或可读文字。使用 {argument name="color palette" default="温暖的琥珀色日落、灰橄榄色、沙米色、深棕色阴影"}。
+
+[English]
+Goal: Create a cinematic five-panel character photo collage of {argument name="character name" default="a rugged male desert wanderer"} in a vast sand-dune landscape at sunset, with a travel-fashion editorial and film-still mood.
+
+Canvas: Wide horizontal 16:9 collage, approximately 1200×675. Use thin clean white gutters between panels. Warm golden-hour lighting, dramatic orange sunset sky, distant mountains, rippled desert sand, high dynamic range, realistic photography, shallow depth of field where appropriate.
+
+Layout: Use exactly 5 image panels. The left half is one large vertical portrait panel occupying the full height. The right half is divided into four smaller panels in a 2×2 grid.
+
+Panel 1, large left portrait: Close-up seated three-quarter portrait of the man in the desert, cropped from thighs to head. He has dark curly hair, light stubble, tanned skin, and a rugged expression, but his face is covered by a flat opaque rectangular censor block in warm dark brown. He wears a weathered olive-green hooded parka, dusty beige T-shirt, loose cargo pants, wristwatch, bracelets, rings, and a pendant necklace. His hands rest casually on his knees, sunset rim light outlining his jacket and hair.
+
+Panel 2, top middle: Full-body shot of the same man walking toward camera across rippled dunes at sunset, coat tails blowing in the wind, boots kicking up small puffs of sand. His face is also obscured by the same brown rectangular block.
+
+Panel 3, top right: Full-body standing pose on a dune ridge, one hand in pocket, turned slightly to the side, long parka moving in the breeze, warm sky behind him. His face is obscured by a matching brown rectangle.
+
+Panel 4, bottom middle: Seated desert pose, leaning back with one hand on the sand and one knee raised, relaxed and cinematic, dunes and mountains behind him. His face is blurred or covered with a small brown face-obscuring block.
+
+Panel 5, bottom right: Rear view of the man walking away along a dune crest toward the sunset, parka trailing behind, no face visible, silhouetted by orange sky and distant mountains.
+
+Subject details: The character wears {argument name="outerwear" default="a distressed olive-green hooded parka"}, a dusty beige shirt, olive cargo pants, tan lace-up boots, layered bracelets, rings, a dark wristwatch, and a pendant necklace. Hair is {argument name="hair style" default="short dark curly hair"}. Overall palette is {argument name="color palette" default="warm amber sunset, olive green, beige sand, and smoky blue shadows"}.
+
+Visual style: Ultra-realistic cinematic fashion photography, 35mm editorial look, detailed fabric texture, windblown clothing, natural pose variety, crisp sand texture, dramatic sunset backlight, soft bokeh in close-up, consistent character and outfit across all panels.
+
+Constraints: Use exactly five panels and no text. Keep the same character, outfit, desert setting, and sunset lighting consistent throughout. Include the opaque brown rectangular face-obscuring block on all visible frontal faces. No logos, no watermark, no extra people, no vehicles, no modern city elements.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2064587926651232692) | 2026-06-10
+
+---
+
+### 🖥️ 例 1074：WWDC 2026 亮点信息图
+
+![WWDC 2026 亮点信息图](../images/WWDC%202026%20%E4%BA%AE%E7%82%B9%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：从设计师的角度，制作一张精美的 Apple 风格韩语信息图 Slides，总结 {argument name="headline text" default="WWDC 2026 HIGHLIGHTS"}。
+
+画布：16:9 横向演示图形，1152×768 分辨率感，采用白至浅蓝的渐变背景，右上角带有柔和的半透明波浪丝带。使用 Apple 风格的玻璃拟态（glassmorphism）、圆角卡片、细腻的阴影、蓝紫色渐变、简洁的 SF Pro 类字体，左上角放置一个小型的彩色 Apple Logo。
+
+布局：顶部居中放置大标题，其中“WWDC 2026”为深海军蓝，“HIGHLIGHTS”为蓝紫色渐变。下方排列 6 张圆角白卡，采用 3 列 2 行的网格布局，每张卡片均配有一个从 1 到 6 的光泽蓝紫色圆形编号徽章。
+
+卡片 1：标题 {argument name="liquid glass title" default="리퀴드 글래스 정교화"}（Liquid Glass 精细化）。展示一个半透明磨砂玻璃控制面板，包含 3 个水平滑块：一个切换开关、一个带太阳图标的亮度滑块，以及一个带扬声器图标的音量滑块。右侧展示一个深度增强滑块和一叠半透明玻璃片。包含 3 条韩语要点：“정밀한 투명도 조절로 더욱 몰입감 있는 경험”（通过精确的透明度调节带来更具沉浸感的体验）、“동적 조명과 섬세한 블러로 깊이감 향상”（通过动态照明和细腻的模糊效果提升深度感）、“모든 플랫폼에 일관된 리퀴드 글래스 경험 제공”（在所有平台上提供一致的 Liquid Glass 体验）。
+
+卡片 2：标题 {argument name="design principles title" default="디자인 원칙"}（设计原则）。副标题“AI 시대를 위한 7가지 핵심 원칙”（AI 时代的 7 大核心原则）。在整齐的网格中展示 7 个圆形原则图标，并用英文标注：Purpose、Agency、Responsibility、Familiarity、Flexibility、Simplicity、Craft、Delight。尽管视觉上有 8 个标签位置，但需强调副标题为 7 个原则，而视觉网格包含这 8 个带标签的图标圆圈。底部胶囊状标题：“AI 윤리와 책임을 최우선으로 하는 디자인”（以 AI 伦理和责任为优先的设计）。
+
+卡片 3：标题 {argument name="ios title" default="iOS 27"}。展示一个逼真的 iPhone 模型，带有灵动岛（Dynamic Island）、蓝紫色 Siri 球体壁纸，屏幕上显示韩语文本“Siri가 듣고 있어요...”（Siri 正在聆听...）。右侧包含 3 行垂直功能列表，配有图标和韩语标题：“정리”（整理），副标题“알림과 앱을 자동으로 정리”（自动整理通知和 App）；“확장”（扩展），副标题“필요에 맞게 콘텐츠 확장”（根据需要扩展内容）；“재구성”（重构），副标题“내용을 이해하고 재구성하여 제안”（理解内容并重构以提供建议）。底部圆角胶囊：“더 스마트해진 Siri와 개인화된 경험”（更智能的 Siri 与个性化体验）。
+
+卡片 4：标题 {argument name="safari home title" default="사파리 & 홈"}（Safari 与家庭）。展示一个类似 Safari 的 AI 标签页组模块，标注为“AI 탭 그룹”（AI 标签页组），副标题“AI가 관련 탭을 자동으로 그룹화”（AI 自动对相关标签页进行分组）。包含 4 个可见的标签页芯片及一个加号按钮：“여행 계획 7”（旅行计划 7）、“리서치 5”（研究 5）、“쇼핑 4”（购物 4）以及最后的添加按钮“+”。下方展示“홈 보안 클립”（家庭安全剪辑）部分，副标题“카메라가 감지한 주요 순간을 자동으로 요약”（自动总结摄像头检测到的关键时刻）。包含 4 个带有时间标签的视频缩略图：9:12 AM 快递员、1:47 PM 汽车、4:32 PM 狗狗、8:11 PM 客厅。底部胶囊：“AI가 더 안전하고 편리한 경험을 제공합니다”（AI 提供更安全、更便捷的体验）。
+
+卡片 5：标题 {argument name="macos title" default="macOS 골든 게이트"}（macOS Golden Gate）。展示一台 iMac 显示器，背景为金门大桥日落壁纸，并配有一个发光的 Apple Silicon 芯片徽章。下方包含 3 个带有韩语标题和简短副文本的效益图标：“성능 향상”（性能提升）、“배터리 효율”（电池效率）、“강력한 보안”（强大的安全性）。底部胶囊：“Apple Silicon의 힘으로 더 강력해진 Mac 경험”（借助 Apple Silicon 的力量，Mac 体验更强大）。
+
+卡片 6：标题 “visionOS”。创建一个未来感的空间计算场景：一个发光的中央蓝紫色球体，标注为“Siri Pro”，悬浮在淡淡的透视网格之上。周围放置 6 个浮动的半透明 App 磁贴/图标：图像/照片图标、播放图标、图表图标、人物图标、个人资料剪影图标以及一个小玻璃面板。底部胶囊：“3D 공간에서 더욱 자연스럽고 지능적인 상호작용”（在 3D 空间中实现更自然、更智能的交互）。
+
+视觉风格：高端 Apple 发布会回顾美学，清晰的矢量 UI 与柔和的 3D 玻璃元素相结合，蓝紫色光晕点缀，间距统一，24px 圆角卡片，轻微阴影，极简主义风格。确保所有韩语文本清晰且拼写正确。避免添加额外的 Logo、水印、签名或额外的卡片。
+
+[English]
+Goal: Create a polished Apple-style Korean infographic slide summarizing {argument name="headline text" default="WWDC 2026 HIGHLIGHTS"} from a designer perspective.
+
+Canvas: 16:9 horizontal presentation graphic, 1152×768 feel, white-to-pale-blue gradient background with soft translucent wave ribbons in the top-right corner. Use Apple-inspired glassmorphism, rounded cards, subtle shadows, blue/purple gradients, clean SF Pro-like typography, and a small multicolor Apple logo at the top-left.
+
+Layout: Large centered headline at the top, with “WWDC 2026” in dark navy and “HIGHLIGHTS” in blue-to-purple gradient. Under it, arrange exactly 6 rounded white cards in a 3-column by 2-row grid, each card numbered with a glossy blue-purple circular badge from 1 to 6.
+
+Card 1: Title {argument name="liquid glass title" default="리퀴드 글래스 정교화"}. Show a translucent frosted-glass control panel with exactly 3 horizontal sliders: a toggle slider, a brightness slider with sun icon, and a volume slider with speaker icon. To the right, show a depth-enhancement slider and a stack of translucent glass sheets. Include exactly 3 Korean bullet points: “정밀한 투명도 조절로 더욱 몰입감 있는 경험”, “동적 조명과 섬세한 블러로 깊이감 향상”, “모든 플랫폼에 일관된 리퀴드 글래스 경험 제공”.
+
+Card 2: Title {argument name="design principles title" default="디자인 원칙"}. Subtitle “AI 시대를 위한 7가지 핵심 원칙”. Show exactly 7 circular principle icons in a neat grid, labeled in English: Purpose, Agency, Responsibility, Familiarity, Flexibility, Simplicity, Craft, Delight. Even though 8 label positions are visible, emphasize the subtitle says 7 principles while the visual grid contains these 8 labeled icon circles. Bottom pill caption: “AI 윤리와 책임을 최우선으로 하는 디자인”.
+
+Card 3: Title {argument name="ios title" default="iOS 27"}. Show a realistic iPhone mockup with dynamic island, blue-purple Siri orb wallpaper, and Korean text on screen “Siri가 듣고 있어요...”. To the right, include exactly 3 vertical feature rows with icons and Korean headings: “정리” with smaller text “알림과 앱을 자동으로 정리”, “확장” with smaller text “필요에 맞게 콘텐츠 확장”, and “재구성” with smaller text “내용을 이해하고 재구성하여 제안”. Bottom rounded pill: “더 스마트해진 Siri와 개인화된 경험”.
+
+Card 4: Title {argument name="safari home title" default="사파리 & 홈"}. Show a Safari-like AI tab group module labeled “AI 탭 그룹” with subtitle “AI가 관련 탭을 자동으로 그룹화”. Include exactly 4 visible tab chips plus one plus button: “여행 계획 7”, “리서치 5”, “쇼핑 4”, and a final add button “+”. Below, show a Home security clipping section titled “홈 보안 클립” with subtitle “카메라가 감지한 주요 순간을 자동으로 요약”. Include exactly 4 video thumbnails with time labels: 9:12 AM delivery person, 1:47 PM car, 4:32 PM dog, 8:11 PM living room. Bottom pill: “AI가 더 안전하고 편리한 경험을 제공합니다”.
+
+Card 5: Title {argument name="macos title" default="macOS 골든 게이트"}. Show an iMac display with Golden Gate Bridge sunset wallpaper and a glowing Apple Silicon chip badge. Under it, include exactly 3 benefit icons with Korean headings and short subtext: “성능 향상”, “배터리 효율”, “강력한 보안”. Bottom pill: “Apple Silicon의 힘으로 더 강력해진 Mac 경험”.
+
+Card 6: Title “visionOS”. Create a futuristic spatial-computing scene: a glowing central blue-purple orb labeled “Siri Pro” hovering over a faint perspective grid. Around it place exactly 6 floating translucent app tiles/icons: image/photo icon, play icon, chart icon, person icon, profile silhouette icon, and one small glass panel. Bottom pill: “3D 공간에서 더욱 자연스럽고 지능적인 상호작용”.
+
+Visual style: High-end Apple keynote recap aesthetic, crisp vector UI mixed with soft 3D glass elements, blue/purple glow accents, consistent spacing, rounded 24px cards, light shadows, premium minimalism. Keep all Korean text legible and correctly spelled. Avoid extra logos, watermarks, signatures, or additional cards.
+```
+
+**来源：** [@다자이너](https://x.com/flowerfish33/status/2064574199344357799) | 2026-06-10
+
+---
+
+### 🖥️ 例 1075：融合文化元素的佩戴面具俯视肖像
+
+![融合文化元素的佩戴面具俯视肖像](../images/%E8%9E%8D%E5%90%88%E6%96%87%E5%8C%96%E5%85%83%E7%B4%A0%E7%9A%84%E4%BD%A9%E6%88%B4%E9%9D%A2%E5%85%B7%E4%BF%AF%E8%A7%86%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张俯视的中景镜头，拍摄一位 {argument name="subject" default="女性"} 慵懒地以对位法姿势躺着，身体略微朝左，位于画面中心。她留着深色长发，配有修饰脸型的刘海，并以金色发辫点缀。她的眼睛呈浅蓝色，目光宁静且直视前方，双唇为鲜艳的橙色。她身着一件 {argument name="dress" default="华丽且富有历史感的礼服，主色调为浓郁的蓝绿色，配有高耸的白色荷叶边领口和蓬松的白色袖子"}。面料上融合了精致的印度尼西亚蜡染工艺与金、橙色调的浮世绘波浪图案。她的右手拿着一个 {argument name="mask" default="受印度尼西亚爪哇皮影戏启发的面具"}：白色底色，红色嘴唇，表情愉悦，带有金色花纹。她的左臂旁放置着一个传统的印度尼西亚面具，呈红色，表情愤怒，饰有金色花纹和蓝色羽毛。背景：浓密的深蓝绿色叶丛，点缀着奶油色、浅黄色和鲜艳的橙色玫瑰。柔和的漫射光，带有轻微的高光和柔和的阴影。调色板：蓝绿色、橙色、奶油色、白色、金色。氛围浓郁奢华，细节丰富，纹理华丽。浅景深，居中裁剪。
+
+[English]
+A top-down overhead medium shot of a {argument name="subject" default="woman"} lying languidly in a contrapposto pose, slightly facing left and centered in frame. She has long dark flowing hair with face-framing bangs, accented with gold braids. Her eyes are light blue with a serene, direct gaze, and her lips are vibrant orange. She wears an {argument name="dress" default="opulent historical-inspired gown in rich teal-blue with a high ruffled white collar and voluminous white sleeves"}. The fabric features intricate Indonesian batik combined with Ukiyo-e wave motifs in gold and subtle orange. In her right hand she holds an {argument name="mask" default="Indonesian Javanese wayang-inspired mask"}: white base, red lips, happy expression, gold patterns. On her left arm rests a traditional Indonesian mask in red with an angry expression, gold patterns, and blue feather accents. Background: dense dark teal-green foliage with cream, pale yellow, and vibrant orange roses scattered throughout. Soft diffused lighting with gentle highlights and soft shadows. Color palette: teal, orange, cream, white, gold. Rich and luxurious mood, high detail level, ornate and rich textures. Shallow depth of field, centered crop.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064560010466930843) | 2026-06-10
+
+---
+
+### 🖥️ 例 1085：日语 AI 对话演示幻灯片
+
+![日语 AI 对话演示幻灯片](../images/%E6%97%A5%E8%AF%AD%20AI%20%E5%AF%B9%E8%AF%9D%E6%BC%94%E7%A4%BA%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张简洁的日语演示幻灯片，将 AI 呈现为平易近人的对话伙伴，采用精美的 PowerPoint 风格商务/教育布局。
+
+画布：16:9 宽屏幻灯片，白色背景，带有非常微妙的暖米色点缀，细黑色外边框，留白充足，极简且沉稳。
+
+页眉：左上角小节标题（日语）： 「AIは気軽に聞ける相手」，下方带有简短的细棕色下划线。在顶部中左侧附近，添加一个粉色圆形徽章，内含 「4」，后接粉色注释文本： 「リポストしてるCodexのスキルで作ったパターン　ただのちゃんとした資料。すごすぎ。」 右上角放置一个简单的黑色 JohoSauce 风格 Logo：一滴水落入涟漪中，下方带有 「JohoSauce」 字样。
+
+主标题区：居中大号加粗日语标题： 「{argument name="main headline" default="気軽に何でも聞ける相手"}」。下方为较小的灰色副标题： 「AIは、怒らない・話し言葉OK・いつでも対応の相談相手です。」
+
+主要内容：在同一水平行中使用 3 个完全相等的圆角矩形卡片，每张卡片均带有细浅灰色边框、白色填充、柔和阴影，顶部居中放置深棕色线条图标。卡片 1 图标：微笑聊天气泡。卡片 1 标题： 「何度聞いても怒らない」。卡片 1 正文： 「同じ質問を何回しても大丈夫。\n3回でも5回でも、きちんと答えてくれます。」 卡片 2 图标：侧面头部轮廓，带有两条短声波线。卡片 2 标题： 「話し言葉のままでOK」。卡片 2 正文： 「『えーっと、あの、なんていうか…』\nのような話し方でも汲み取ってくれます。」 卡片 3 图标：简单的模拟时钟。卡片 3 标题： 「24時間いつでも返ってくる」。卡片 3 正文： 「夜中の2時でも大丈夫。\nすぐに答えを返してくれます。」 请严格使用这三张卡片，不要添加额外卡片。
+
+底部信息栏：添加一个横跨幻灯片大部分宽度的宽幅浅米色圆角矩形。在内部左侧放置一个简单的轮廓语音气泡图标。右侧为加粗的日语信息： 「{argument name="bottom message" default="構えず、まず話しかけてみる。それがAIと仲良くなる第一歩です。"}」。
+
+视觉风格：极简日语商务演示风格，黑色和深棕色排版，仅在顶部注释中使用粉色点缀，简单的单线图标，大量留白，平衡对齐，清晰的矢量渲染，无照片，除极其微妙的暖色背景阴影外无渐变，无额外装饰元素。
+
+[English]
+Goal: Create a clean Japanese presentation slide about AI as an approachable conversation partner, in a polished PowerPoint-style corporate/educational layout.
+
+Canvas: 16:9 widescreen slide, white background with very subtle warm beige accents, thin black outer border, generous margins, minimalist and calm.
+
+Header: Top-left small section title in Japanese: 「AIは気軽に聞ける相手」 with a short thin brown underline beneath it. Near the top center-left, add a pink circular badge containing 「4」 followed by pink annotation text: 「リポストしてるCodexのスキルで作ったパターン　ただのちゃんとした資料。すごすぎ。」 Top-right place a simple black JohoSauce-style logo: a droplet falling into ripple rings, with the word 「JohoSauce」 underneath.
+
+Main title area: Centered large bold Japanese headline: 「{argument name="main headline" default="気軽に何でも聞ける相手"}」. Beneath it, smaller gray subtitle: 「AIは、怒らない・話し言葉OK・いつでも対応の相談相手です。」
+
+Main content: Use exactly 3 equal rounded rectangular cards in one horizontal row, each with a thin light-gray border, white fill, soft shadow, and centered dark-brown line icon at the top. Card 1 icon: smiling chat bubble. Card 1 title: 「何度聞いても怒らない」. Card 1 body: 「同じ質問を何回しても大丈夫。\n3回でも5回でも、きちんと答えてくれます。」 Card 2 icon: side profile head speaking with two short sound lines. Card 2 title: 「話し言葉のままでOK」. Card 2 body: 「『えーっと、あの、なんていうか…』\nのような話し方でも汲み取ってくれます。」 Card 3 icon: simple analog clock. Card 3 title: 「24時間いつでも返ってくる」. Card 3 body: 「夜中の2時でも大丈夫。\nすぐに答えを返してくれます。」 Use exactly these three cards and no additional cards.
+
+Bottom message bar: Add one wide pale beige rounded rectangle spanning most of the slide width. On the left inside it, place a simple outlined speech-bubble icon. To the right, bold Japanese message: 「{argument name="bottom message" default="構えず、まず話しかけてみる。それがAIと仲良くなる第一歩です。"}」
+
+Visual style: Minimal Japanese business deck aesthetic, black and dark brown typography, pink accent only in the top annotation, simple monoline icons, lots of whitespace, balanced alignment, crisp vector-like rendering, no photos, no gradients except extremely subtle warm background shading, no extra decorative elements.
+```
+
+**来源：** [@もりた@なごや](https://x.com/fumiya_morita/status/2064537844417450335) | 2026-06-10
+
+---
+

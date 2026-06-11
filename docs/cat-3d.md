@@ -1670,3 +1670,125 @@ Create a premium travel poster featuring a {argument name="aesthetic" default="m
 
 ---
 
+### 🧸 例 1031：雨中东京动漫手办展示
+
+![雨中东京动漫手办展示](../images/%E9%9B%A8%E4%B8%AD%E4%B8%9C%E4%BA%AC%E5%8A%A8%E6%BC%AB%E6%89%8B%E5%8A%9E%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度精细、照片级写实的产品展示场景，背景为雨夜中霓虹闪烁的东京商业街，主角为一款成人动漫风格的收藏级手办。主体为 {argument name="character name" default="Yuki Miho"}，展示为一个光泽感十足的 1/6 比例手办，蹲在前景中央的透明圆形亚克力底座上，身穿湿透的白色连体泳衣，深棕色双马尾长发湿漉漉地垂下，扎着粉色小发圈，双手比出双 V 手势。她的面部被一个平滑的方形模糊/马赛克遮挡。一条红色牵引绳或丝带系在颈部附近，从衣领向右前方呈对角线延伸，营造出极具张力的透视感。环境为暴雨天气，可见清晰的雨滴、湿润的反光路面、雨伞、模糊的行人以及类似涩谷或秋叶原的密集霓虹招牌；运用电影级景深、高对比度反光，并展现超真实的树脂/塑料表面细节。包含两个价格展示元素：1) 左下方的一个透明亚克力标牌，上面写有「結城 美柑」和「¥15,800」，底部带有红色条纹；2) 右侧的一张大型产品卡片或包装盒面板，展示了身穿米色校服外套、绿色格子裙、青色领结、长双马尾发型的同一角色，面部同样经过模糊处理，并印有文字「結城 美柑」和「¥15,800」。保持场景湿润、光亮，呈现出如高端手办街拍般的商业质感；前景中不要出现其他角色，无水印，无额外价格标签。
+
+[English]
+Create a highly detailed photorealistic product-display scene of an adult anime-style collectible figure in a rainy neon Tokyo shopping street at night. The main subject is {argument name="character name" default="Yuki Miho"}, shown as a glossy 1/6 scale figurine squatting on a transparent circular acrylic stand in the center foreground, wearing a wet white one-piece swimsuit, long soaked dark brown twin-tail hair with small pink ties, and holding both hands up in double peace signs. Her face is deliberately obscured by a smooth square blur/censor block. A red leash or ribbon is attached near her neck and stretches diagonally from her collar toward the right foreground, creating a dramatic perspective line. The environment is a rainstorm with visible raindrops, wet reflective pavement, umbrellas, blurred pedestrians, and dense neon signs reminiscent of Shibuya or Akihabara; use cinematic depth of field, high contrast reflections, and ultra-real resin/plastic surface detail. Include exactly two price display elements: 1) a clear acrylic sign on the lower left reading 「結城 美柑」 and 「¥15,800」 with a red bottom stripe, and 2) a large product card or box panel on the right showing the same character in a beige school uniform jacket, green plaid skirt, teal bow, long twin-tail hair, with her face also blurred, plus the printed text 「結城 美柑」 and 「¥15,800」. Keep the scene wet, glossy, and commercial like a premium figure showcase photographed at street level; no extra characters in the foreground, no watermark, no additional price tags.
+```
+
+**来源：** [@らくちゃん](https://x.com/raku_shira/status/2064764507642335368) | 2026-06-10
+
+---
+
+### 🧸 例 1034：1️⃣ 角色设定提示词：
+
+一个高度精细的 3D 
+
+![1️⃣ 角色设定提示词：
+
+一个高度精细的 3D ](../images/1%EF%B8%8F%E2%83%A3%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%80%E4%B8%AA%E9%AB%98%E5%BA%A6%E7%B2%BE%E7%BB%86%E7%9A%84%203D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个高度精细的 3D 动画角色设计图，主角是名叫 Luna 的开朗小女孩和她的兔子伙伴 Bun，采用简洁专业的动画工作室转场布局，皮克斯风格，梦工厂风格，柔和的马卡龙色调，白色背景
+
+[English]
+A highly detailed 3D animated character design sheet of a cheerful little girl named Luna and her bunny companion Bun, presented in a clean professional animation studio turnaround layout, Pixar-style, DreamWorks-style, soft pastel aesthetic, white
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2064739074376912920) | 2026-06-10
+
+---
+
+### 🧸 例 1041：3D Pixar 风格烘焙店信息图
+
+![3D Pixar 风格烘焙店信息图](../images/3D%20Pixar%20%E9%A3%8E%E6%A0%BC%E7%83%98%E7%84%99%E5%BA%97%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="business name" default="THE CINNAMON ROLL BAKER"} 创建一张清晰、简洁的信息图故事板海报。16:9 宽屏布局，白色背景，黑色边框，加粗黑色字体，采用 {argument name="style" default="premium Pixar 3D"} 风格渲染，明亮暖色调 —— 金黄色的烘焙面团，浓郁的肉桂香气
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="business name" default="THE CINNAMON ROLL BAKER"}. Wide 16:9 layout, white background, black borders, bold black typography, {argument name="style" default="premium Pixar 3D"} stylized rendering, bright warm colors — golden baked dough, rich cinnamon
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2064706313389588989) | 2026-06-10
+
+---
+
+### 🧸 例 1070：写实微缩运动人偶转换
+
+![写实微缩运动人偶转换](../images/%E5%86%99%E5%AE%9E%E5%BE%AE%E7%BC%A9%E8%BF%90%E5%8A%A8%E4%BA%BA%E5%81%B6%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 [uploaded_photo] 转换为写实等距微缩人偶，全身像，身着 {argument name="outfit" default="他们标志性的运动服"} 并做出招牌动作，{argument name="background" default="干净的白色背景"}，极简风格，1080x1080，4K 分辨率。
+
+[English]
+Turn [uploaded_photo] into a realistic miniature isometric figurine, full body, dressed in {argument name="outfit" default="their famous sports uniform"} and performing their signature move, {argument name="background" default="clean white background"}, minimal style, 1080x1080, 4K resolution.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064590233317061092) | 2026-06-10
+
+---
+
+### 🧸 例 1080：粉色公主偶像角色拼贴画
+
+![粉色公主偶像角色拼贴画](../images/%E7%B2%89%E8%89%B2%E5%85%AC%E4%B8%BB%E5%81%B6%E5%83%8F%E8%A7%92%E8%89%B2%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一位名为 {argument name="character name" default="シャソリア"} 的公主偶像创作一张超可爱的粉色日系动漫角色参考拼贴画，绘制成一张密集的、充满爱心、蕾丝、丝带、毛绒玩具和手写笔记的手绘剪贴簿页面。
+
+画布：垂直 3:4 纵向页面，浅腮红粉色纸张背景，单色玫瑰粉色线条，带有柔和的水彩阴影，高细节，到处都是闪光和涂鸦。采用甜美的少女漫画风格，笔触细腻，带有玫瑰色渐变，布局呈现出略显杂乱的手绘感。
+
+主体：一位年轻可爱的公主偶像女孩，拥有 {argument name="hair color" default="棉花糖粉色"} 的长双马尾，闪闪发光的大粉色眼睛，穿着荷叶边蕾丝裙，戴着爱心头饰、玫瑰发饰、珍珠链、蝴蝶结、爱心配饰，穿着褶边袜和粉色玛丽珍鞋。她应该给人一种被宠爱、害羞、毛茸茸且像洋娃娃一样的感觉。在画面中加入兔子和泰迪熊元素。
+
+布局：制作一张拥挤的角色参考拼贴画，包含 9 个清晰可见的同一角色描绘：右侧 1 个大型坐姿全身插图，怀抱一只兔子毛绒玩具；左侧 1 个大型特写/后脑勺肖像，带有华丽的爱心头饰和玫瑰，被中间的空白方形占位符部分遮挡；右上角 1 个睡觉的 Q 版脸部；左下角 1 个穿着泡泡袖的小型 Q 版脸部；下部中间附近 1 个中性表情的 Q 版头部；底部中心 1 个开怀大笑的头部；右下角 1 个微型全身 Q 版；左侧边缘 1 个探出半个身子的角色；以及左中位置附近 1 个害羞的脸部/肖像。保持主要的全身形象作为视觉焦点。
+
+空白区域：在左上角/中心区域放置一个大的不透明粉彩粉色正方形，覆盖部分大型肖像，作为空白图像/名称占位符。
+
+文字内容：使用粉色墨水书写俏皮的手写日文笔记和标签。在左上角包含一个大的气泡状标题，内容为 {argument name="title text" default="シャソリア"}。添加分散的手写短语，例如「すきらきらおひめさま!!♡」、「しくすさんもだいすき♡」、「ふわふわのリボンテールさいこーっ♡」、「かわいすぎ!!! 天才…!? 尊い(;_;)♡」、「すきなもの うさちゃん、くまさん、いちご、リボン おひめさまっ…!!」、「ゆめ みんなをしあわせにするアイドルになるっ…♡」、「ぴんくがいちばんしあわせ♡」、「リほんいっぱいだいすき!」以及「お姫さまになりたいの…♡」。笔迹要随意、圆润且具有装饰性，并配有对话气泡和云朵形状的笔记框。
+
+装饰元素：包含 6 个显眼的毛绒或动物吉祥物：顶部中心 1 个泰迪熊，右上角 1 个兔子，主角色怀抱的 1 个兔子毛绒玩具，底部笔记卡附近 1 个小泰迪熊，爱心姓名气球附近 1 个小兔子，以及主角色身上的 1 个微型动物发夹。添加许多爱心、星星、蝴蝶结、玫瑰、珍珠、蕾丝饰边、悬挂的吊饰、心形姓名气球、小纸杯蛋糕、爱心鞋子和微型皇冠。
+
+颜色和质感：以浅奶油粉色背景上的粉色和红粉色墨水为主，带有白色高光和柔和的腮红阴影。保持整体可爱、细节丰富、密集且手绘的风格，就像一张扫描的偶像角色概念图。无写实渲染，无深色，无现代 UI，无水印。
+
+[English]
+Goal: Create an ultra-cute pink Japanese anime character reference collage for a princess idol named {argument name="character name" default="シャソリア"}, drawn like a dense hand-sketched scrapbook page full of hearts, lace, ribbons, plush toys, and handwritten notes.
+
+Canvas: Vertical 3:4 portrait page, pale blush-pink paper background, monochrome rose-pink line art with soft watercolor shading, high detail, sparkles and doodles everywhere. Use a sweet shoujo manga style with delicate pen strokes, rosy gradients, and a slightly messy hand-drawn layout.
+
+Main subject: A young kawaii princess idol girl with {argument name="hair color" default="cotton-candy pink"} long twin-tail hair, big sparkling pink eyes, frilly lace dress, heart tiara, rose hair ornaments, pearl chains, bows, heart accessories, ruffled socks, and pink Mary Jane heels. She should feel adored, shy, fluffy, and doll-like. Add bunny and teddy-bear motifs throughout.
+
+Layout: Make a crowded character sheet collage with exactly 9 visible depictions of the same character: 1 large seated full-body illustration on the right holding a bunny plush; 1 large left-side close-up/back-of-head portrait with ornate heart tiara and roses, partially covered by a centered blank square placeholder; 1 sleeping chibi face in the top-right corner; 1 small chibi face at lower left with puffy sleeves; 1 small neutral chibi head near the lower middle; 1 happy laughing head at the bottom center; 1 tiny full-body chibi at the bottom right; 1 peeking half-body character entering from the left edge; and 1 small shy face/portrait near the center-left. Keep the main full-body figure as the visual focus.
+
+Blank area: Place a large opaque pastel pink square in the upper-left/center area, covering part of the large portrait, as an empty image/name placeholder.
+
+Text content: Use playful handwritten Japanese notes and labels in pink ink. Include a large bubbly title at the top-left reading {argument name="title text" default="シャソリア"}. Add scattered handwritten phrases such as 「すきらきらおひめさま!!♡」, 「しくすさんもだいすき♡」, 「ふわふわのリボンテールさいこーっ♡」, 「かわいすぎ!!! 天才…!? 尊い(;_;)♡」, 「すきなもの うさちゃん、くまさん、いちご、リボン おひめさまっ…!!」, 「ゆめ みんなをしあわせにするアイドルになるっ…♡」, 「ぴんくがいちばんしあわせ♡」, 「リほんいっぱいだいすき!」, and 「お姫さまになりたいの…♡」. Make the handwriting casual, rounded, and decorative, with speech bubbles and cloud-shaped note boxes.
+
+Decorative elements: Include exactly 6 prominent plush or animal mascots: a teddy bear at the top center, a bunny at the top right, a bunny plush held by the main girl, a small teddy near the bottom note card, a small bunny near the heart name balloon, and a tiny animal hair clip on the main girl. Add many hearts, stars, bows, roses, pearls, lace trims, dangling charms, a heart-shaped name balloon, a small cupcake, heart shoes, and tiny crowns.
+
+Color and finish: Predominantly pink and red-pink ink on a light cream-pink background, with white highlights and soft blush shading. Keep everything cute, detailed, cluttered, and hand-drawn, like a scanned idol character concept sheet. No realistic rendering, no dark colors, no modern UI, no watermark.
+```
+
+**来源：** [@あまり🖋️AI &フリー素材配布](https://x.com/amari_AI_art/status/2064546549083058563) | 2026-06-10
+
+---
+
