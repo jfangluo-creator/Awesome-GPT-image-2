@@ -1048,7 +1048,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (102)
+## 🎨 [Illustration & Art](cat-illustration.md) (103)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -1234,6 +1234,8 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 976: 猫耳少女数字插画](cat-illustration.md#-例-976猫耳少女数字插画)
 
 - [Case 1010: 宇宙墨水飞溅情侣剪影](cat-illustration.md#-例-1010宇宙墨水飞溅情侣剪影)
+
+- [Case 1025: 巴黎咖啡馆的动漫男子](cat-illustration.md#-例-1025巴黎咖啡馆的动漫男子)
 ---
 
 <a id="character"></a>
