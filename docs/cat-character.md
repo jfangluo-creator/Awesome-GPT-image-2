@@ -2602,3 +2602,298 @@ Create a professional character reference sheet based strictly on the uploaded r
 
 ---
 
+### 🧍 例 1146：动漫游泳选手角色设定集
+
+![动漫游泳选手角色设定集](../images/%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%B3%B3%E9%80%89%E6%89%8B%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="神宫寺 澪"} 创建一份高细节的专业动漫角色设计参考设定集，她是一位精英女性游泳选手，也是新的县大赛纪录保持者，呈现效果如同商业轻小说角色设定图。
+
+画布：宽幅横向参考项目，干净的白色背景，带有细海军蓝装饰角标和浅色蓝图风格的辅助线。使用精致的动漫插画风格，超高细节，光泽感皮肤高光，柔和阴影，清晰的线条，精细的泳装材质渲染，8k 画质。
+
+主体：一位身材高挑的年轻女性，拥有极长的 {argument name="hair color" default="银白色"} 头发，皮肤白皙，姿态自信，身穿流线型竞技连体泳衣，颜色为 {argument name="swimsuit color" default="深海军蓝配浅薰衣草色侧边装饰"}。她戴着印有竞技场风格标志的白色泳帽，泳帽上方架着一副紫色调泳镜。她的表情区域应刻意进行模糊处理，使用柔和的矩形面部模糊，同时保持身体、头发、服装和配饰的细节。
+
+布局：在左中位置放置一张大型全身站立插画，脚部略微裁剪，单手叉腰，挺胸自信姿态。左上角放置日式标题排版，大字名为「神宫寺 澪」，上方带有小型注音，并附带副标题「县大会的新纪录保持者」。左侧栏添加说明性的日文参考注释、小型研究面板，左下角放置带边框的个人资料卡。
+
+顶部参考行：在右上角展示 5 个全身转向/姿势图，每个图上方带有小型海军蓝标签：1) 正面视图，2) 背面视图，3) 侧面视图，4) 侧脸视图，5) 靠在灰色瓷砖墙上双臂交叉的姿势。所有视图中保持相同的泳衣和泳帽/泳镜。
+
+下方动作行：在右下角展示 3 个与游泳相关的姿势研究：1) 标注为“池畔”的池边坐姿，2) 双臂向上伸展的姿势，3) 在标有数字 4 的出发台上进行出发冲刺的蹲姿，旁边是泳道。仅在这些动作研究中使用湿瓷砖和泳池边缘细节。
+
+左侧研究面板：在“剪影研究”标题下包含 6 个小型黑色剪影研究，展示不同的身体/姿势比例。包含 5 个面部模糊的表情研究缩略图，用日文标注为：普通、浅笑、眨眼、严肃、惊讶。包含 5 个细节研究缩略图：面部/头发特写、泳帽和泳镜特写、泳衣胸部面料特写、露背泳衣特写、以及下躯干/臀部泳衣剪裁特写。
+
+个人资料卡：左下角带边框的个人资料，带有日文标签和海军蓝月桂冠徽章。包含可读的统计数据，如：种族为人类、身高 168 cm、年龄 21 岁、生日 6 月 15 日、所属游泳俱乐部，以及一段关于冷静的王牌游泳选手不断追求纪录的简短说明。具体的传记文本可以是装饰性的，但应看起来像真实的角色设定集。
+
+调色板：在右下角附近添加 8 个小型方形色块：紫色、薰衣草色、浅灰色、深海军蓝、浅肤色、极浅薰衣草色、白色、深板岩蓝，并在附近添加一个类似星星的小装饰标记。
+
+约束：仅使用一名主角，包含 5 个顶部转向图，3 个下方动作姿势，6 个剪影，5 个表情缩略图，5 个细节缩略图，以及 8 个色块。所有文字和标签保持日式角色设定集的美学风格。无多余角色，无水印，无照片写实感，背景简洁。
+
+[English]
+Goal: Create a high-detail professional anime character design reference sheet for {argument name="character name" default="Jinguji Rei"}, an elite female swimmer and new prefectural tournament record holder, presented like a commercial light-novel character sheet.
+
+Canvas: Wide horizontal reference board, clean white background with thin navy decorative corner marks and pale blueprint-like guide lines. Use a polished anime illustration style, ultra detailed, glossy skin highlights, soft shadows, crisp line art, refined swimwear material rendering, 8k-quality finish.
+
+Main subject: A tall athletic young woman with very long {argument name="hair color" default="silver-white"} hair, pale skin, confident posture, and a sleek competitive one-piece swimsuit in {argument name="swimsuit color" default="black navy with pale lavender side accents"}. She wears a white swim cap with an arena-style logo and purple-tinted goggles resting on top of the cap. Her expression areas should be intentionally anonymized with soft rectangular face blurs, while the body, hair, outfit, and accessories remain detailed.
+
+Layout: Place a large full-body standing illustration on the left-center, cropped slightly at the feet, one hand on hip, chest-forward confident pose. Put Japanese-style title typography at the upper left with the large name 「神宮寺 澪」 and small reading text above it, plus subtitle 「県大会の新記録保持者」. Add left-column explanatory Japanese reference notes, small research panels, and a boxed profile card at the bottom left.
+
+Top reference row: Show exactly 5 full-body turnaround/pose figures across the upper right, each with a small navy label above it: 1) neutral front view, 2) back view, 3) side view, 4) profile view, 5) leaning pose with arms crossed against a gray tiled wall. Keep the same swimsuit and cap/goggles in all views.
+
+Lower action row: Show exactly 3 swimming-related pose studies along the lower right: 1) seated poolside pose labeled as poolside, 2) stretching pose with arms raised overhead, 3) start-dash crouch on a starting block marked with the number 4, beside a swimming pool lane. Use wet tile and pool-edge details only in these action studies.
+
+Left research panels: Include exactly 6 small black silhouette studies under a silhouette study heading, showing different body/pose proportions. Include exactly 5 expression-study head thumbnails with blurred faces, labeled in Japanese as neutral, slight smile, wink, serious, and surprised. Include exactly 5 detail-study thumbnails: face/hair close-up, cap and goggles close-up, swimsuit chest fabric close-up, open-back swimsuit close-up, and lower torso/hip swimsuit cut close-up.
+
+Profile card: Bottom-left boxed profile with Japanese labels and a navy laurel crest emblem. Include readable stats such as species human, height 168 cm, age 21, birthday June 15, affiliation swimming club, and a short note about a calm ace swimmer who keeps pursuing records. The exact biography text may be decorative but should look like a real character sheet.
+
+Color palette: Add exactly 8 small square color swatches near the bottom right: purple, lavender, pale gray, deep navy, pale skin tone, very light lavender, white, and dark slate blue, plus a small star-like decorative mark nearby.
+
+Constraints: Use exactly one main character, exactly 5 top turnaround figures, exactly 3 lower action poses, exactly 6 silhouettes, exactly 5 expression thumbnails, exactly 5 detail thumbnails, and exactly 8 color swatches. Keep all text and labels in a Japanese character-sheet design aesthetic. No extra characters, no watermark, no photorealism, no cluttered background.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2065035743546970493) | 2026-06-11
+
+---
+
+### 🧍 例 1165：小黄鸭监控摄像头头角色设定集
+
+![小黄鸭监控摄像头头角色设定集](../images/%E5%B0%8F%E9%BB%84%E9%B8%AD%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E5%A4%B4%E5%A4%B4%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一名拥有小黄鸭监控摄像头头的古怪人形生物，创作一张密集且垂直的日式角色设计提示图，结合时尚参考、性格分析、背景设定说明及小型道具示意图。
+
+画布：1:1 正方形海报，深炭灰色背景上铺设做旧的奶油色纸板，采用手绘编辑排版，配有细黑边框、边角装饰、胶带边缘、墨点及复古野外笔记本纹理。使用细腻的半写实动漫插画风格，结合水彩、水粉、墨线勾勒，点缀暖黄色，并保持高物体细节。
+
+主体：中心放置一个全身站立的角色，命名为 {argument name="character name" default="观测用装置监控摄像头头"}。该角色拥有一个黄色的长方形复古监控摄像头头，外形像可爱的玩具机器，带有两个亮黑色的镜头眼睛、橙色的鸭嘴、小螺丝、接缝、金属磨损痕迹以及一张微小的日文状态标签。角色身穿一件长款米白色污渍实验服，内搭灰色连帽衫，穿着黑色宽松九分裤、灰色袜子、带有黄色点缀的厚底白色运动鞋，并佩戴挂绳、链条、钢笔、夹子、工牌、小型工具、微型设备及鸭子主题挂饰。姿势放松，双手插在衣兜里，面向前方，既古怪又神秘。
+
+文字内容：左上角放置标题 {argument name="headline text" default="あなたに似合う異形頭を創造せよ"}，大标题 {argument name="main title" default="観測用アヒル監視カメラ頭"}，以及副标题 {argument name="subtitle" default="- 観ること、愛でること、笑うこと -"}。排版保持日文风格，黑色标题框内使用白色文字，奶油色面板上使用黑色文字。
+
+布局与面板：使用 3 个带编号的信息面板及小型页脚卡片。面板 1 是左侧一个大型空白的淡紫色书写区，标题为 {argument name="left panel title" default="1. 性格の分析"}。面板 2 是右上角的背景设定面板，标题为日文“这是什么样的异形头？”，顶部包含一张鸭子摄像头头角色的局部肖像，底部包含一张小型设备示意图。面板 3 是中右侧的时尚面板，标题为日文“时尚偏好”，包含日文要点说明及一行 4 张带标签的小型物品卡片。
+
+离散重复元素：总共包含 38 个可见的小黄鸭图案：摄像头头顶部 3 个；左上角头顶 1 个小鸭子；左上角悬挂 1 个；右上角悬挂 1 个；肩部和胸部周围簇拥 8 个；项链或挂绳饰品上 4 个；外套口袋上 2 个；胸前工牌上印有 1 个；袖标上印有 1 个；悬垂的侧带上 2 个；角色脚下及地面道具附近 3 个；右上角面板角落 1 个；小型摄像头设备示意图周围 8 个；4 张时尚物品卡片中各 2 个。此外，面板 3 中包含 4 张时尚物品卡片：鸭子记事本、蒲公英标本、药水瓶和悬挂式鸭子挂饰。
+
+前景道具：左下角展示一个小型的墓地风格静物：一块刻有 {argument name="tombstone text" default="HERE LIES REASON"} 的石碑、瓶中的黄花、棕色药水瓶、盖有红章的剪贴板、散落的纸张、揉皱的纸团以及一本写有手写日文笔记的打开的笔记本。右下角包含两张小型盒装页脚卡片：一张清单式的观察日志和一张带有简单鸭子涂鸦的引言卡片。
+
+风格限制：使其看起来像一张完成的概念艺术角色设定图，而非简洁的信息图。保留不对称的杂志排版、米白色面板、黑色章节标题、微小的日文注释、装饰性边框角、磨损的纸张纹理以及细致的配饰。避免照片级真实感，避免 3D 渲染风格，避免出现额外角色，除墓碑铭文外，不要添加任何英文说明文字。
+
+[English]
+Goal: Create a dense vertical Japanese character-design prompt sheet for an eccentric humanoid with a rubber-duck surveillance-camera head, combining fashion reference, personality analysis, lore notes, and small prop diagrams.
+
+Canvas: Square 1:1 poster, aged cream paper panels on a dark charcoal background, hand-drawn editorial layout with thin black borders, corner ornaments, tape-like edges, ink speckles, and vintage field-notebook texture. Use detailed semi-realistic anime illustration with watercolor, gouache, ink linework, warm yellow accents, and high object detail.
+
+Main subject: Center a full-body standing character named {argument name="character name" default="Observation Appareil Surveillance Camera Head"}. The figure has a yellow rectangular retro security-camera head shaped like a cute toy machine, with two glossy black lens eyes, an orange duck bill mouth, small screws, seams, metal wear, and a tiny Japanese status label. The character wears a long off-white stained lab coat over a gray hoodie, black loose cropped pants, gray socks, chunky white sneakers with yellow accents, lanyards, chains, pens, clips, ID badges, small tools, miniature devices, and duck-themed charms. Pose is relaxed, hands in coat pockets, facing forward, whimsical but mysterious.
+
+Text content: At the top left, place the headline {argument name="headline text" default="あなたに似合う異形頭を創造せよ"}, a large title {argument name="main title" default="観測用アヒル監視カメラ頭"}, and a subtitle {argument name="subtitle" default="- 観ること、愛でること、笑うこと -"}. Keep the typography Japanese, using white text on black header boxes and black text on cream panels.
+
+Layout and panels: Use exactly 3 numbered information panels plus small footer cards. Panel 1 is a large empty pale lavender writing area on the left titled {argument name="left panel title" default="1. 性格の分析"}. Panel 2 is the upper-right lore panel titled with Japanese text meaning “What kind of abnormal head is it?” and includes a small cropped portrait of the duck-camera-headed figure at the top right plus a small device diagram at the bottom. Panel 3 is the mid-to-lower-right fashion panel titled with Japanese text meaning “Fashion preferences,” containing bullet-point Japanese body copy and a row of 4 small labeled item cards.
+
+Discrete repeated elements: Include exactly 38 visible rubber-duck motifs total: 3 on top of the camera head; 1 small duck on the top-left head corner; 1 hanging at the upper left; 1 hanging at the upper right; 8 clustered around the shoulders and chest; 4 on necklace or lanyard charms; 2 attached to coat pockets; 1 printed on a chest ID badge; 1 printed on a sleeve patch; 2 on dangling side straps; 3 near the character’s feet and floor props; 1 in the top-right panel corner; 8 surrounding the small camera-device diagram; 2 in the four fashion item cards. Also include exactly 4 fashion item cards in panel 3: a duck memo pad, a dandelion specimen, a medicinal drink bottle, and a hanging duck charm.
+
+Foreground props: Bottom left shows a small graveyard-like still life: a stone tombstone engraved {argument name="tombstone text" default="HERE LIES REASON"}, yellow flowers in bottles, a brown medicinal drink bottle, a clipboard with red stamp, scattered papers, crumpled paper balls, and an open notebook with handwritten Japanese notes. Bottom right includes two small boxed footer cards: one checklist-style observation log and one quote card with a simple duck doodle.
+
+Style constraints: Make it look like a finished concept-art character sheet rather than a clean infographic. Preserve the asymmetrical magazine layout, off-white panels, black section headers, tiny Japanese annotations, decorative border corners, worn paper texture, and meticulous accessories. Avoid photorealism, avoid 3D render style, avoid extra characters, and do not add any English captions except the tombstone inscription.
+```
+
+**来源：** [@キロ](https://x.com/days_nyan/status/2065001426510819519) | 2026-06-11
+
+---
+
+### 🧍 例 1194：自由女神像主体替换
+
+![自由女神像主体替换](../images/%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F%E4%B8%BB%E4%BD%93%E6%9B%BF%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+【被写体制御】
+参照画像から被写体の顔立ち、髪型、視線、表情、衣服、装飾、質感スタイル（実写/アニメ）を100%保持。元の背景、照明、ポーズは完全破棄し、被写体のみをターゲットに完全置き換えする。
+
+【シチュエーション】
+ニューヨーク・リバティ島。実在する「1つだけの重厚な石造りの台座」の真上にある元の女神像だけが、参照画像の人物にそっくりそのまま入れ替わる。人物は台座に合わせ縮小配置され、「右手を高く掲げて松明を持ち、左手に銘板を抱えた自由の女神と全く同じポーズ」を完全に再現する。
+
+【構図・アングル】
+上空から斜めに見下ろす「ハイアングル（空撮・ドローン風の俯瞰構図）」で完全固定。カメラは台座より高い位置にあり、画面中央に「1つの台座と、その上の人物」を配置。背景には広大な青い海面と、遠景に横一列に広がるマンハッタンの高層ビル群（スカイライン）が圧倒的な奥行きで広がる。
+
+【背景の質感制御】
+被写体のスタイルに関わらず、周囲の背景（1つの台座、海、ビル群、空、緑）は一貫して100%高精細な実写写真（フォトリアル）で固定。参照画像がアニメ/イラストの場合、現実の実写風景の中にキャラがシームレスにブレンドされた「実写映画のCG合成（ライブアクション映画のワンシーン）」として仕上げる。自然な太陽光と立体的な陰影。
+
+【クオリティ・NG】
+鮮烈な色彩、不自然な合成感なし、台座の増殖なし、スケール感の破綻なし。文字や実在ロゴは一切入れない。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2064907367540748755) | 2026-06-11
+
+---
+
+### 🧍 例 1209：罗马斗兽场夜景人像拍摄
+
+![罗马斗兽场夜景人像拍摄](../images/%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA%E5%A4%9C%E6%99%AF%E4%BA%BA%E5%83%8F%E6%8B%8D%E6%91%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[主体] 参考图片 1 和图片 2
+
+[姿势与表情]
+放松地坐在古老的砖砌围栏上，一条腿垂下，另一条腿弯曲在围栏上。双手举过头顶轻触头发，闭眼微笑，营造出梦幻而怀旧的氛围。
+
+[服装]
+穿着 {argument name="outfit" default="一件轻盈飘逸的白色无袖上衣，领口和肩带处饰有精致的蕾丝荷叶边"}。正面有细丝带细节，搭配浅蓝色宽松牛仔裤。深棕色厚底皮鞋，配白色短袜。
+
+[发型与妆容]
+长波浪卷发柔顺地垂在肩上。夜灯在发丝上投下微妙的光泽。清透的底妆，五官轮廓分明，湿润的裸珊瑚色唇妆，展现出都市感与自然魅力。
+
+[光影]
+来自正面和侧面的环境城市灯光柔和地照亮了面部。来自 {argument name="location" default="斗兽场"} 内部强烈而温暖的金色夜灯填满了拱门，作为戏剧性的背光，营造出清晰的深度对比。
+
+[质感与氛围]
+粗糙的砖砌围栏、斗兽场古老的石材纹理与深邃夜空形成对比。金色的人造灯光与蓝色牛仔裤相得益彰，营造出迷人、浪漫且经典的罗马之夜拍摄氛围。
+
+[相机设置]
+24mm 广角镜头，光圈 f/1.8，ISO 800，快门速度 1/60s，采用略微仰拍的角度。焦点清晰地对准围栏上的主体，背景中宏伟的建筑呈现柔和的虚化效果。
+
+[背景]
+罗马斗兽场的夜景。拱门内温暖的黄色灯光展现了建筑之美。围栏下方是黑暗的道路和金属安全围栏，远处可见游客细小的剪影。
+
+[签名] 右下角有一个小的 Threads 标志，上方用白色草书写着名称 "{argument name="signature" default="CHAse"}"。4.5 比例
+
+[English]
+[인물] 이미지 1, 이미지 2참조
+
+[인물의 포즈 및 표정]
+
+고풍스러운 벽돌 난간 위에 비스듬히 걸터앉아 한쪽 다리는 아래로 내리고 다른 쪽 다리는 난간 위에 구부려 올린 편안한 포즈를 취하고 있습니다. 양손을 머리 위로 올려 머리카락을 가볍게 잡은 채, 눈을 감고 밝게 웃어보이며 아련한 분위기를 자아내는 몽환적인 표정입니다.
+
+[인물 의상]
+
+{argument name="의상" default="네크라인과 어깨 끈에 섬세한 레이스 주름 장식이 들어간 가볍고 너풀거리는 화이트 민소매 블라우스 탑"}을 입고 있습니다. 앞부분에는 얇은 리본 끈 디테일이 늘어져 있으며, 하의로는 연한 블루 컬러의 와이드 핏 데님 청바지를 매치했습니다. 발에는 두꺼운 아웃솔의 어두운 갈색 가죽 슈즈와 흰색 양말을 착용했습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+자연스러운 가르마를 타고 어깨 라인까지 부드럽게 흘러내리는 롱 웨이브 헤어스타일입니다. 야간 조명을 받아 머릿결이 은은하게 빛나며, 메이크업은 이목구비를 또렷하게 강조한 깔끔한 스킨 베이스에 촉촉하고 차분한 누드 코랄 빛 입술을 매치하여 도회적이면서도 자연스러운 매력을 살렸습니다.
+
+[조명 및 빛 방향]
+
+밤을 배경으로 하여 전면과 약간 측면에서 은은하게 비추는 도시의 인공 조명이 인물의 얼굴과 의상을 어둡지만 부드럽게 밝혀주고 있습니다. 인물 뒤편으로는 거대한 {argument name="장소" default="콜로세움"} 내부에서 뿜어져 나오는 강렬하고 따뜻한 황금빛 야간 조명이 아치형 구조물 사이를 채우며 화려한 백라이트 역할을 해 명확한 전후방 대비를 이룹니다.
+
+[질감과 색감 무드]
+
+인물이 앉아 있는 오래된 벽돌 난간의 거칠고 메마른 질감과 콜로세움의 고대 석조 텍스처가 밤하늘의 어둠과 대조됩니다. 내부를 채운 인공적인 황금색 조명과 청바지의 푸른 톤이 조화를 이루며, 전체적으로 고혹적이면서도 낭만적이고 클래식한 이탈리아 로마의 야경 화보 같은 무드를 완성합니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+초점 거리 24mm 광각 렌즈, 조리개 값 f/1.8, 감도 ISO 800, 셔터 스피드 1/60초로 설정하여 야간의 빛을 풍부하게 담아낸 약간의 로우 앵글 뷰입니다. 전면의 높은 난간에 앉은 인물에게 초점이 또렷하게 포착되어 있으며, 뒤편에 위치한 거대한 건축물은 야간 조명의 화려함을 유지한 채 부드러운 깊이감으로 아웃포커싱되어 있습니다.
+
+[배경 요소 (옵션)]
+
+이탈리아 로마의 야간 콜로세움 전경입니다. 수많은 아치형 창문마다 따뜻한 노란색 조명이 환하게 켜져 있어 웅장한 건축미를 자랑하며 일부 아치 안에는 조각상의 실루엣이 보입니다. 난간 아래쪽으로는 어두운 도로와 검은색 금속 안전 펜스가 설치되어 있으며, 멀리 길바닥에 아주 작게 관광객들의 실루엣이 걸쳐져 있습니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "{argument name="싸인" default="CHAse"}"라고 싸인처럼 작게 적혀 있다. 4.5:비율
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2064883565561524506) | 2026-06-11
+
+---
+
+### 🧍 例 1210：地铁人像身份保持
+
+![地铁人像身份保持](../images/%E5%9C%B0%E9%93%81%E4%BA%BA%E5%83%8F%E8%BA%AB%E4%BB%BD%E4%BF%9D%E6%8C%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的图像作为唯一的面部身份参考。开启绝对面部保持模式，严格锁定面部。保持 95%–100% 的面部相似度，并完整保留上传参考图中的眼睛、眼睑、眉毛、鼻型、鼻孔、嘴唇、下颌线、颧骨、前额、肤色、种族、年龄外观、面部比例、美人痣以及自然的皮肤纹理。请勿重新设计、美化、改变面部结构、融合身份或生成其他人物。
+
+重现参考图像中的精确场景：一个真实的城市地铁站台环境，左侧有一列火车，带有瓷砖的车站墙壁，电影般的浅景深，自然的车站照明，柔和的背景虚化，真实的动态氛围。主体回头看向镜头，带着温暖真诚的微笑。{argument name="hair color" default="长黑发"} 从浅粉色的 {argument name="headwear" default="纽约洋基队棒球帽"} 下露出，佩戴小金圈耳环，身穿超大款黑色服装，背着黑色单肩包。自然的街拍美学，真实的生活瞬间，逼真的皮肤纹理，超写实 DSLR 画质，浅景深，柔和的焦外成像，电影级调色，高度细节，8K 分辨率。
+
+重要提示：保持所有元素与原始图像完全一致（姿势、摄像机角度、地铁站台、帽子、服装、照明、构图、背景、表情和环境）。仅将面部替换为上传的参考面部，同时确保完美的身份保持和逼真的融合。
+
+[English]
+Use the uploaded image as the ONLY facial identity reference. Absolute face preservation mode. Strict face lock. Maintain 95–100% facial similarity and preserve the exact eyes, eyelids, eyebrows, nose shape, nostrils, lips, jawline, cheekbones, forehead, skin tone, ethnicity, age appearance, facial proportions, beauty marks, and natural skin texture from the uploaded face reference. Do not redesign, beautify, alter facial structure, blend identities, or generate a different person.
+
+Recreate the exact scene shown in the reference image: a candid urban subway platform environment with a train on the left side, tiled station walls, cinematic shallow depth of field, natural station lighting, soft background blur, realistic motion atmosphere. Subject looking back over her shoulder toward the camera with a warm genuine smile. {argument name="hair color" default="Long dark hair"} visible from beneath a light pink {argument name="headwear" default="New York Yankees baseball cap"}, small gold hoop earrings, oversized black outfit, black shoulder bag. Natural candid street-photography aesthetic, authentic lifestyle moment, realistic skin texture, ultra-photorealistic DSLR quality, shallow depth of field, soft bokeh, cinematic color grading, highly detailed, 8K resolution.
+
+Important: Keep everything exactly the same as the original image (pose, camera angle, subway platform, cap, clothing, lighting, composition, background, expression, and environment). Replace only the face with the uploaded face reference while maintaining perfect identity preservation and realistic integration
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2064881578527088912) | 2026-06-11
+
+---
+
+### 🧍 例 1211：比萨斜塔冰淇淋错位摄影提示词
+
+![比萨斜塔冰淇淋错位摄影提示词](../images/%E6%AF%94%E8%90%A8%E6%96%9C%E5%A1%94%E5%86%B0%E6%B7%87%E6%B7%8B%E9%94%99%E4%BD%8D%E6%91%84%E5%BD%B1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[主体] 参考图 1 和图 2
+
+[姿势与表情]
+背景为 {argument name="location" default="比萨斜塔"}，面带满足的微笑，头部向左上方微倾。左手拿着一个华夫饼冰淇淋蛋筒，通过透视关系，使塔身看起来就像是蛋筒顶部的软冰淇淋。请明确透视角度，让塔身精准地“坐”在华夫饼蛋筒上。
+
+[服装]
+穿着 {argument name="outfit" default="简约黑色单肩无袖上衣"}。
+
+[发型与妆容]
+整洁的长直发中分，自然垂落在双肩。佩戴黑色圆形猫眼墨镜和银色/珍珠吊坠耳环。留着长杏仁形美甲，采用淡粉色与黄色渐变配色。
+
+[光影]
+晴天正午，强烈的直射阳光从右前方照射。面部和肩部有明亮的高光，手部和蛋筒在胸前及衣服上投下锐利的高对比度阴影。
+
+[质感与氛围]
+清澈的蓝天、绿草地与米色历史建筑之间形成鲜明对比。华夫饼蛋筒和光泽感墨镜的质感生动，营造出活泼的夏日度假氛围。
+
+[相机设置]
+平视中近景快照，光圈 f/1.8，焦距 5.4mm，ISO 100，快门速度 1/2000s。呈现智能手机广角拍摄特征，人物和蛋筒焦点清晰，远处的建筑背景呈现柔和的虚化效果。人物位于画面左侧，塔身位于右侧。
+
+[背景]
+意大利比萨奇迹广场。右侧是白色的比萨斜塔，左侧是圆顶的比萨大教堂。两者之间是修剪整齐的绿草地，上方是万里无云的蓝天。
+
+[签名] 右下角有一个小型的 Threads 标志，上方用白色草书写着名称 "{argument name="signature" default="CHAse"}"。比例 4.5
+
+[English]
+[인물] 이미지 1, 이미지 2참조
+
+[인물의 포즈 및 표정]
+
+{argument name="장소" default="피사의 사탑"}을 배경으로 서서 고개를 약간 좌측 상단으로 든 채 만족스러운 미소를 짓고 있습니다. 왼손에는 아이스크림 와플 콘을 들고 있으며, 원근법을 이용해 마치 배경의 피사의 사탑이 와플 콘 위의 소프트 아이스크림처럼 보이도록 자세를 잡고 있습니다. 인물이 들고 있는 와플 콘 위에는 정확히 피사의 사탑이 아이스크림처럼 위치하도록 원근법을 지정합니다.
+
+[인물 의상]
+
+{argument name="의상" default="몸에 밀착되는 심플한 블랙 컬러의 원숄더 민소매 탑"}을 입고 있습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+가르마를 중앙으로 단정하게 탄 자연스러운 롱 헤어스타일로 어깨 앞으로 차분하게 늘어뜨렸습니다. 블랙 컬러의 둥근 캣아이 선글라스를 착용하여 눈을 가렸고, 귀에는 실버와 진주가 조합된 드롭 귀걸이를 착용했습니다. 손톱은 파스텔톤 핑크와 옐로우로 그라데이션된 긴 알몬드 형태의 네일 아트입니다.
+
+[조명 및 빛 방향]
+
+맑은 날 정면 우측 상단에서 강렬하게 내리쬐는 한낮의 직사광선입니다. 인물의 얼굴과 어깨에 밝은 하이라이트가 맺히며, 들어 올린 왼손과 와플 콘에 의해 인물의 가슴과 옷 표면에 선명하고 날카로운 그림자가 드리워지는 하이 콘트라스트 광원입니다.
+
+[질감과 색감 무드]
+
+선명하고 맑은 청명한 블루 스카이와 푸른 잔디밭의 초록색, 그리고 베이지빛 고건축물의 색감이 화사한 대비를 이룹니다. 와플 콘의 격자무늬 질감과 선글라스의 매끄러운 광택 질감이 생생하게 살아있는 활기찬 여름 휴양지 무드입니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+조리개 값 f/1.8, 초점 거리 5.4mm, 감도 ISO 100, 셔터 스피드 1/2000초로 설정되어 촬영된 정면 눈높이의 미디엄 클로즈업 스냅숏입니다. 스마트폰 광각 카메라의 특성을 반영하여 전면의 인물과 손에 든 와플 콘은 매우 정밀하고 선명하게 초점이 맞추어져 있으며, 멀리 떨어진 배경의 건축물들은 거리감에 의해 부드럽게 아웃포커싱되었습니다. 프레임기준 인물은 좌측에 있으며 우측에 피사츼 사탑이 있습니다.
+
+[배경 요소 (옵션)]
+
+이탈리아 피사의 두오모 광장입니다. 우측에는 비스듬히 기울어진 하얀 대리석 구조의 피사의 사탑이 거대하게 서 있고, 좌측에는 돔 지붕을 가진 웅장한 피사 대성당 건물이 보입니다. 두 건물 사이로는 잘 가꾸어진 넓고 푸른 잔디밭이 끝없이 펼쳐져 있으며 구름 한 점 없는 완벽하게 맑고 파란 하늘이 배경을 채우고 있습니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "{argument name="싸인" default="CHAse"}"라고 싸인처럼 작게 적혀 있다. 4.5:비율
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2064879035575079321) | 2026-06-11
+
+---
+

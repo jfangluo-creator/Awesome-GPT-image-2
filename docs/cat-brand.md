@@ -3506,3 +3506,431 @@ Create a highly detailed, glossy anime idol itasha scene at night: a cute pastel
 
 ---
 
+### 🏷️ 例 1098：回响峰火山日落
+
+![回响峰火山日落](../images/%E5%9B%9E%E5%93%8D%E5%B3%B0%E7%81%AB%E5%B1%B1%E6%97%A5%E8%90%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级超广角奇幻景观，标题为 {argument name="scene title" default="Echoing Peaks"}，灵感源自《守望先锋》风格的戏剧性环境概念。展示一个日落时分的广阔火山峡谷，天空呈现炽热的橙色，低垂的太阳位于左侧地平线附近，映照着开裂的地热盆地。地形由高耸的深色玄武岩平顶山和侵蚀的悬崖组成：可见 3 座主要的平顶岩层，其中最大的悬崖位于右侧前景，一座冒烟的平顶山位于中景，另一座较低的远景高原靠近太阳。在右侧悬崖边缘放置 1 个微小的孤独人类剪影，以强调宏大的比例。在天空中加入 4 个深色飞鸟剪影。下方的盆地中包含 1 个位于中下方的白色高大间歇泉喷发，以及 6 个散布在谷底和山坡上的小型蒸汽柱，外加 2 个从中央平顶山升起的深色烟柱。在前景中，添加参差不齐的岩石和 3 棵显眼的枯萎扭曲树木，以勾勒出右侧和下方的边缘。使用 {argument name="time of day" default="golden sunset"} 灯光，呈现浓郁的琥珀色、铜色和炭灰色调，长长的阴影、大气霾、体积烟雾、悬崖面上的发光轮廓光以及高细节的粗糙岩石纹理。氛围应呈现出 {argument name="mood" default="史诗感、孤独且末日般"} 的感觉。渲染为照片级真实的游戏概念艺术全景图，16:9 纵横比，具有戏剧性的景深、清晰的前景细节、宏大的规模，无文字、无标志、无水印。
+
+[English]
+Create a cinematic ultra-wide fantasy landscape titled {argument name="scene title" default="Echoing Peaks"}, inspired by an Overwatch-style dramatic environment concept. Show a vast volcanic canyon at sunset with a blazing orange sky, the low sun near the left horizon reflecting across a cracked geothermal basin. The terrain is made of towering dark basalt mesas and eroded cliffs: exactly 3 major flat-topped rock formations are visible, with the largest cliff on the right foreground, a central smoking mesa in the middle distance, and a lower distant plateau near the sun. Place 1 tiny lone human silhouette standing on the top edge of the right cliff, emphasizing immense scale. Include exactly 4 dark bird silhouettes gliding in the sky. The basin below contains exactly 1 tall white geyser eruption near the lower center and 6 smaller steam plumes scattered across the valley floor and mesa slopes, plus 2 darker smoke columns rising from the central mesa. In the foreground, add jagged rocks and exactly 3 prominent leafless, twisted dead trees framing the right and lower edge. Use {argument name="time of day" default="golden sunset"} lighting with intense amber, copper, and charcoal tones, long shadows, atmospheric haze, volumetric smoke, glowing rim light on cliff faces, and high-detail rugged rock textures. The mood should feel {argument name="mood" default="epic, lonely, and apocalyptic"}. Render as a photorealistic game concept art panorama, 16:9 aspect ratio, dramatic depth, sharp foreground details, vast scale, no text, no logo, no watermark.
+```
+
+**来源：** [@Cosmic Cowboy](https://x.com/CosmicCowboyCDN/status/2065116856617173384) | 2026-06-11
+
+---
+
+### 🏷️ 例 1101：韩国涂鸦球衣肖像
+
+![韩国涂鸦球衣肖像](../images/%E9%9F%A9%E5%9B%BD%E6%B6%82%E9%B8%A6%E7%90%83%E8%A1%A3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的人物照片，创作一张病毒式传播的 CapCut 风格 {argument name="nationality" default="韩国"} 涂鸦图像。保持面部特征一致。添加 {argument name="jersey" default="韩国球衣"}、全身姿势、背景为巨大的手绘壁画肖像、{argument name="logo" default="韩国标志"}、{argument name="year text" default="韩国 2026 文字"}、黄绿相间的足球配色、混凝土墙面、简洁的海报构图、前景为逼真的闪光照片、背景为插画风格涂鸦，TikTok 风格。
+
+[English]
+Create a viral CapCut-style {argument name="nationality" default="South korea"} graffiti image from the uploaded person. Keep the face consistent. Add {argument name="jersey" default="South korea jersey"}, full-body pose, giant hand-painted mural portrait in the background, {argument name="logo" default="South korea logo"}, {argument name="year text" default="South korea 2026 text"}, yellow and green football colors, concrete wall, clean poster composition, realistic 闪 photo foreground, illustrated thelifeafptfiti b--'ground,TikTok
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2065112085269504508) | 2026-06-11
+
+---
+
+### 🏷️ 例 1102：男孩撑伞对抗暴风雨
+
+![男孩撑伞对抗暴风雨](../images/%E7%94%B7%E5%AD%A9%E6%92%91%E4%BC%9E%E5%AF%B9%E6%8A%97%E6%9A%B4%E9%A3%8E%E9%9B%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具戏剧性的竖构图电影质感超写实图像，主角是 {argument name="character name" default="Seiren"}，一名被困在住宅区街道猛烈暴风雨中的日本小学生。他留着凌乱且被风吹起的 {argument name="hair color" default="black"} 头发，面部模糊不清，身穿湿透的白色短袖 T 恤、深蓝色短裤、白袜和白色运动鞋。背上背着一个巨大的亮面黑色日本 randoseru 书包，书包倾斜并随风张开。他以宽大的姿势站在湿滑且带有倒影的柏油路上，身体前倾，双手紧握黑色雨伞柄，奋力对抗暴风雨，透明塑料伞被吹得翻转过来，向画面右上方拉伸；清晰展现雨伞的伞骨和透明塑料伞面，上面覆盖着水滴和水雾。场景设定在昏暗的日本郊区街道，背景有公寓楼、阳台、栏杆、灌木丛、电线杆和架空电线，天空布满深灰色的暴风雨云。运用强烈的斜向雨丝、飞溅的水花、飘落的树叶和碎片，路面上映衬着路灯和建筑灯光的倒影，整体采用冷蓝灰色调。构图：低角度全身动作镜头，男孩位于画面中心偏左下方，雨伞占据右上角，背景沿街道向左延伸，充满动感，展现真实的湿透织物和皮肤质感，戏剧性的背光效果，浅景深大气雾气，无文字，无水印。
+
+[English]
+Create a dramatic vertical cinematic photorealistic image of {argument name="character name" default="Seiren"}, an elementary-school-aged Japanese boy caught in a violent rainstorm on a residential city street. He has messy windblown {argument name="hair color" default="black"} hair and an obscured/softly blurred face, wearing a soaked white short-sleeve T-shirt, dark navy shorts, white socks, and white sneakers. A large glossy black Japanese randoseru school backpack is strapped to his back, tilted open and flaring in the wind. He stands in a wide braced stance on wet reflective asphalt, leaning forward with both hands gripping a black umbrella handle, fighting the storm as the transparent plastic umbrella is blown inside-out and stretched toward the upper right of the frame; show the umbrella ribs and clear plastic canopy sharply, covered with droplets and spray. The scene is set in a dim Japanese suburban street lined with apartment buildings, balconies, railings, shrubbery, utility poles, and overhead wires, under dark gray storm clouds. Use strong diagonal rain streaks, splashing water, flying leaves and debris, reflections from streetlights and building lights on the pavement, and a cold blue-gray color grade. Composition: low-angle full-body action shot, boy centered slightly lower left, umbrella dominating the upper right, background receding down the street to the left, high motion energy, realistic wet fabric and skin, dramatic backlighting, shallow atmospheric haze, no text, no watermark.
+```
+
+**来源：** [@ハチワレ🐾SynClub](https://x.com/Hachiware88001/status/2065110020614971632) | 2026-06-11
+
+---
+
+### 🏷️ 例 1109：Golden Hour 品牌设计工作室
+
+![Golden Hour 品牌设计工作室](../images/Golden%20Hour%20%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级超写实广角场景，展示一家名为 {argument name="brand name" default="AUREUS"} 的高端品牌设计工作室，充满温暖的黄金时刻光影和沉浸式的创意指导能量。房间是一个宽敞的阁楼，拥有高大的米色墙壁、抛光木地板，右侧有一扇大型拱形工业风窗户，阳光透过窗外的树木洒入，投下长长的阴影，室内摆放着绿植、复古木质家具和纹理丰富的地毯。在中心位置，展示一位创意总监坐在棕色皮质办公椅上，位于一张大木桌前，以四分之三侧背影视角呈现，正在使用双显示器工作站；其中一台显示器展示带有 {argument name="brand name" default="AUREUS"} 字标的品牌演示文稿，另一台显示器展示带有图像的设计/编辑界面。增加桌面细节，包括黑色台灯、笔筒、纸张、笔记本、键盘、鼠标、咖啡杯、小地球仪和堆叠的设计材料。在后墙上覆盖一个密集的实体项目：精确展示 24 张固定的品牌参考图和照片打印件，混合风景摄影、广告活动图像、排版样本、深色高端色彩研究和 Logo 组合，中间有一张写有 {argument name="brand name" default="AUREUS"} 的大型中心品牌海报。在工作室周围添加 5 个悬浮的半透明 UI 面板：左侧是一个带有垂直风景图像和小行文本的大型黑色“Campaign”面板；左下方是一张带有 {argument name="brand name" default="AUREUS"} Logo 和标语 {argument name="tagline" default="A New Era of Timeless Living"} 的大型奶油色品牌卡片；右侧窗户附近是一个带有清单式行和小型深色圆形按钮的细长奶油色“Strategy”面板；中右侧是一张黑色品牌预览卡，显示 {argument name="brand name" default="AUREUS"} Logo 和一张忧郁的海岸图像；右下方是一个带有五个可见色彩/照片色块的黑色“Moodboard”面板。视觉基调应呈现梦幻工作室氛围：高端品牌感、优质视觉效果、悬浮项目、完全置身于设计流程中、温暖的琥珀色高光、空气中柔和的尘埃、逼真的反射、浅景深、优雅的衬衫字体、深炭色和奶油色界面卡片，除指定的标签外不包含杂乱且不可读的文本，无水印。
+
+[English]
+Create a cinematic ultra-realistic wide-angle scene of a premium brand design studio called {argument name="brand name" default="AUREUS"}, filled with warm golden-hour light and immersive creative-direction energy. The room is a spacious loft with tall beige walls, polished wood floors, a large arched industrial window on the right, sunlight streaming through trees outside, long shadows, indoor plants, vintage wooden furniture, and a richly textured rug. At the center, show one creative director seated in a brown leather office chair at a large wooden desk, viewed from behind in three-quarter profile, working on a dual-monitor workstation; one monitor shows a brand presentation with the {argument name="brand name" default="AUREUS"} wordmark, and the other shows a design/editing interface with imagery. Add desk details including a black task lamp, pencils in a cup, papers, notebooks, keyboard, mouse, coffee cup, small globe, and stacked design materials. Cover the back wall with a dense physical moodboard: exactly 24 pinned brand references and photo prints, mixing landscape photography, campaign imagery, typography samples, dark premium color studies, and logo lockups, with one large central brand poster reading {argument name="brand name" default="AUREUS"}. Add exactly 5 floating translucent UI panels around the studio: 1 large black “Campaign” panel on the left with a vertical landscape image and small text rows, 1 large cream brand card in the lower left with the {argument name="brand name" default="AUREUS"} logo and the tagline {argument name="tagline" default="A New Era of Timeless Living"}, 1 slim cream “Strategy” panel near the right window with checklist-like rows and a small dark circular button, 1 black brand preview card on the mid-right showing the {argument name="brand name" default="AUREUS"} logo above a moody coastal image, and 1 black “Moodboard” panel in the lower right with five visible color/photo swatches. The visual tone should feel like dream studio vibes: high-end branding, premium visuals, floating moodboards, fully inside the design process, warm amber highlights, soft dust in the air, realistic reflections, shallow depth of field, elegant serif typography, dark charcoal and cream interface cards, no cluttered unreadable text beyond the specified labels, no watermark.
+```
+
+**来源：** [@Alessandro Bagnuoli](https://x.com/alex_bagnuoli89/status/2065103639920759189) | 2026-06-11
+
+---
+
+### 🏷️ 例 1123：忧郁大提琴超现实艺术作品
+
+![忧郁大提琴超现实艺术作品](../images/%E5%BF%A7%E9%83%81%E5%A4%A7%E6%8F%90%E7%90%B4%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 宽画幅的电影感超现实数字艺术作品，通过古典音乐描绘 {argument name="mood" default="从忧郁转向希望"} 的主题。背景中央矗立着一把巨大的直立大提琴，比周围建筑更高，视觉上被分割为对比鲜明的两半：左半部分呈焦黑色，布满裂纹，烟雾缭绕，呈现出残破感；右半部分则散发出温暖的琥珀金色光芒，仿佛由内而外点亮，火花与璀璨的尘埃向外迸发。在底部中央，展示一个孤独的坐姿人物，{argument name="character description" default="一个扎着发髻、身穿深色宽松衣物的年轻独行者"}，低头坐在反光的湿润地面上，身处发光的大提琴旁，营造出强烈的比例感与孤独感。环境为一个残破的纪念碑式室内空间或舞台，带有破碎的石膏墙面、高耸的垂直面板，左侧是风暴般的黑暗，右侧是温暖的发光薄雾，光亮的裂纹地面映照出人物与光影。包含两座楼梯：左侧是一座向后延伸的暗色楼梯，右侧是一座升入金色迷雾的红橙色楼梯。从大提琴处，让流动的五线谱戏剧性地向右扫过，伴随着散落的音符，仿佛声音变得可见。在右侧添加六个显著的抽象几何装饰：右上角附近的一个红色菱形、中右侧的一个黄色圆形、其下方的一个红色圆形、乐谱附近的一个深蓝色小点、菱形下方的一个黑金垂直矩形块，以及顶边缘附近的一条细长垂直红条。采用绘画感混合媒介风格，结合写实光影、做旧拼贴纹理、裂纹混凝土、烟雾、金色颗粒和表现力十足的笔触。色调对比鲜明，左侧为深炭色、板岩蓝和黑色，右侧为象牙白、赭石色、琥珀色和红橙色。无文字、无水印、无边框；强调戏剧性的明暗对比、情感的静谧感，以及 {argument name="music theme" default="大提琴奏鸣曲"} 将悲伤转化为光芒的意境。
+
+[English]
+Create a cinematic surreal digital artwork in a wide 16:9 canvas, depicting {argument name="mood" default="melancholy giving way to hope"} through classical music. In the center background stands one enormous upright cello, taller than the architecture, split visually into two contrasting halves: the left half is charred black, cracked, smoky, and partially ruined, while the right half glows warm amber-gold as if lit from within, with sparks and radiant dust bursting outward. At the bottom center, show exactly one small seated human figure, {argument name="character description" default="a solitary young person with hair in a bun, wearing dark loose clothing"}, sitting on the reflective wet floor with head bowed beside the glowing cello, creating a strong sense of scale and loneliness. The environment is a ruined monumental interior or stage, with broken plaster walls, tall vertical panels, stormy darkness on the left, warm luminous mist on the right, and a glossy cracked floor reflecting the figure and light. Include exactly two staircases: one dark staircase receding upward on the left and one red-orange staircase rising into the golden haze on the right. From the cello, let flowing musical staff lines sweep dramatically to the right with scattered musical notes, like sound becoming visible. Add exactly six prominent abstract geometric accents on the right side: one red diamond near the upper right, one yellow circle at mid-right, one red circle below it, one small dark blue dot near the music staff, one black-and-gold vertical rectangular block beneath the diamond, and one thin vertical red bar near the top edge. Use a painterly mixed-media style combining photorealistic lighting, distressed collage textures, cracked concrete, smoke, golden particles, and expressive brush marks. Color palette should contrast deep charcoal, slate blue, and black on the left with ivory, ochre, amber, and red-orange on the right. No text, no watermark, no frame; emphasize dramatic chiaroscuro, emotional silence, and the feeling that {argument name="music theme" default="a cello sonata"} is transforming sorrow into light.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2065076367608172683) | 2026-06-11
+
+---
+
+### 🏷️ 例 1129：未来太空城市中的女性仿生人
+
+![未来太空城市中的女性仿生人](../images/%E6%9C%AA%E6%9D%A5%E5%A4%AA%E7%A9%BA%E5%9F%8E%E5%B8%82%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E4%BB%BF%E7%94%9F%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅名为“飞船与女性仿生人”的电影级超精细科幻场景：一个全身 {argument name="subject" default="女性仿生人"} 在乌托邦式的未来太空城市中，沿着光洁的反射大道自信地向观众走来。她拥有流畅的白色生物机械人形躯体，配有复杂的银色面板、可见的关节、细小的黑红色机械细节、女性化的装甲轮廓，长长的 {argument name="hair color" default="银白色"} 秀发向一侧飘动，面部刻意设计为留白或柔和模糊的无特征状态。环境是一个明亮的白玻璃轨道大都市，左右两侧耸立着针状高塔，配有高架天桥、圆形透明穹顶、弧形露台、修剪整齐的绿色花园，以及反射着天空与建筑的抛光湿润地面。天空中，背景处展示 1 颗巨大的青绿色行星，其前方有 1 颗小型卫星穿过，并散布着 5 架不同深度的飞行器/无人机。使用明亮的日光、蓝天、零星白云、暖色高光、体积感氛围、微妙的镜头光晕、逼真的反射效果和史诗般的尺度。构图：4:5 竖构图，仿生人位于前景中央，中低机位，步道形成强烈的引导线，对称的未来派建筑将其框入画面，远方隐约可见山脉。风格：高端写实科幻概念艺术，干净优雅的白色科技感，宁静的乌托邦氛围，细节锐利，8k 分辨率，电影级布光，无文字，无水印。
+
+[English]
+Create a cinematic ultra-detailed sci-fi scene titled conceptually “spaceship and female android”: a full-body {argument name="subject" default="female android"} walking confidently toward the viewer along a glossy reflective avenue in a utopian futuristic space city. She has a sleek white biomechanical humanoid body with intricate silver panels, visible joints, small black and red mechanical details, feminine armor-like contours, long flowing {argument name="hair color" default="white-silver"} hair blowing to the side, and an intentionally blank/softly blurred featureless face. The environment is a luminous white-and-glass orbital metropolis with tall needle-like towers on the left and right, elevated skybridges, rounded transparent domes, curved terraces, manicured green gardens, and polished wet-looking floors reflecting the sky and architecture. In the sky, show exactly 1 enormous turquoise-green planet dominating the background, exactly 1 small moon crossing in front of it, and exactly 5 small flying spacecraft/drones scattered at different depths. Use bright daylight, blue sky, scattered white clouds, warm highlights, volumetric atmosphere, subtle lens glow, realistic reflections, and epic scale. Composition: vertical 4:5 frame, central android in the foreground, low-to-mid camera angle, strong leading lines from the walkway, symmetrical futuristic architecture framing her, mountains faintly visible in the far distance. Style: high-end photorealistic science-fiction concept art, clean elegant white technology, serene utopian mood, sharp detail, 8k, cinematic lighting, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2065068378449191094) | 2026-06-11
+
+---
+
+### 🏷️ 例 1140：撑着透明雨伞的动漫女学生
+
+![撑着透明雨伞的动漫女学生](../images/%E6%92%91%E7%9D%80%E9%80%8F%E6%98%8E%E9%9B%A8%E4%BC%9E%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫风格插画，主角是 {argument name="character name" default="一位面部模糊的女学生"}，她独自站在雨中，采用高空俯视视角，仿佛摄像机正从上方注视着她。她留着一头飘逸的 {argument name="hair color" default="银灰色长发"}，穿着整洁的日式校服：海军蓝西装外套、白衬衫、绿色条纹领带、海军蓝百褶裙、黑色连裤袜和亮面黑色乐福鞋。她的面部特意用柔和的方形模糊或无特征的遮挡块隐藏，但姿态依然温柔平静，正抬头仰望。她撑着一把巨大的透明塑料雨伞，伞骨清晰可见，手柄呈弯曲状；伞面上布满了雨滴和闪烁的高光。背景是雨后湿润的石板路，水洼倒映着蔚蓝的天空、白云、周围的绿植，前景下方还有一道斜向的彩虹倒影。右侧添加一道深色栏杆，右上角点缀着绿叶阴影，画面中散布着雨滴、涟漪和如镜面般的路面反射。采用精致的日式动漫/轻小说主视觉风格，强调高度细腻的水效、明亮的蓝灰色雨天氛围、穿透云层的柔和阳光、电影级构图、细腻的线条，且画面中不含任何文字或水印。
+
+[English]
+Create a vertical anime-style illustration of {argument name="character name" default="a faceless schoolgirl"} standing alone in the rain, viewed from a high overhead angle as if the camera is looking down at her. She has long flowing {argument name="hair color" default="silver-gray hair"} and wears a neat Japanese school uniform: navy blazer, white shirt, green striped tie, pleated navy skirt, black tights, and glossy black loafers. Her face is intentionally hidden by a soft square blur or featureless censor block, while her posture remains gentle and calm as she looks upward. She holds a large transparent vinyl umbrella with visible metal ribs and a curved black handle; the umbrella surface is covered in raindrops and sparkling highlights. The setting is a wet stone walkway after heavy rain, with puddles reflecting a bright blue sky, white clouds, surrounding greenery, and a diagonal rainbow reflection across the lower foreground. Add a dark railing along the right side, leafy green shadows in the upper right, scattered raindrops, ripples, and mirror-like pavement reflections. Use a polished Japanese anime / light-novel key visual style, highly detailed water effects, luminous blue-gray rainy atmosphere, soft sunlight breaking through clouds, cinematic composition, delicate linework, and no text or watermark.
+```
+
+**来源：** [@SynClub - シンクラブ（公式）](https://x.com/SynClub_Japan/status/2065051421137846305) | 2026-06-11
+
+---
+
+### 🏷️ 例 1145：极简先锋艺术家 Logo
+
+![极简先锋艺术家 Logo](../images/%E6%9E%81%E7%AE%80%E5%85%88%E9%94%8B%E8%89%BA%E6%9C%AF%E5%AE%B6%20Logo.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个为“{argument name="artist name" default="Led Zeppelin"}”设计的 Logo，置于纯黑背景的中心。Logo 尺寸较小且孤立，被广阔的黑暗所包围。它完全由纯黑背景上的纤细白线呈现 —— 无填充、无渐变、无色彩。设计介于书写字符与绘制符号之间 —— 它既是文字又是图像，令人难以解读。名称的字形被抽象化到模糊的地步：原始字母的微弱痕迹仍嵌入在设计中，但已消融为更接近仪式标记、字形或符文的形态。线条精准而从容 —— 并不杂乱，却因其静谧而显得格外令人不安。整体氛围传达出一种不宜久视的压迫感。极简先锋艺术。Logo 占据总画面的比例不超过 15%。其余部分均为绝对的黑暗。
+
+[English]
+A logo design for "{argument name="artist name" default="Led Zeppelin"}" centered on a completely black background. The logo is small, isolated, and surrounded by vast darkness. It is rendered exclusively in thin white lines on pure black — no fills, no gradients, no color. The design exists somewhere between a written character and a drawn symbol — it reads as both text and image simultaneously, resisting easy interpretation. The letterforms of the name are abstracted to the point of ambiguity: faint traces of the original letters remain embedded in the design, but they have dissolved into something closer to a ritual mark, a glyph, or a sigil. The lines are precise and unhurried — not chaotic, but deeply unsettling in their stillness. The overall feeling is of something that should not be looked at for too long. Minimalist avant-garde art. The logo occupies no more than 15% of the total frame. The rest is absolute darkness.
+```
+
+**来源：** [@輪廻タヲ ☯ AI Artist](https://x.com/TaoRInne/status/2065037699690680432) | 2026-06-11
+
+---
+
+### 🏷️ 例 1148：未来感 Nanchatte-Machine 机库
+
+![未来感 Nanchatte-Machine 机库](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Nanchatte-Machine%20%E6%9C%BA%E5%BA%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构的飞行机器人飞机（品牌为 {argument name="machine name" default="Nanchatte-Machine"}）创建一个高度细节化的未来感维修舱场景，融合简洁的日式科幻设计、工业写实感以及俏皮的“伪未来科技”魅力。
+
+画布：垂直 3:4 构图，高分辨率电影级概念艺术，采用略微俯视的广角视角，俯瞰明亮的实验室机库。全图保持清晰对焦，采用具有复杂机械细节的写实渲染。
+
+主体：一架大型白色人形面部 VTOL 空中机器人，从左下角向右上角对角线停放。机身顶部前方设有光滑的透明驾驶舱盖，机头集成优雅的浅色仿生机器人面孔，前方伸出两条纤细的铰接式机械臂，侧面露出内部机械结构。机身主体为亮白色，配有青色、橙色、黄色、黑色和红色的装饰面板，以及精细的面板接缝、铆钉、标签、电缆、活塞、通风口和发动机组件。
+
+离散的主要元素：包含 1 架飞行机器人飞机，机身上方左右两侧各安装 1 个巨大的圆形涵道风扇转子舱，右下方有 1 个分离的圆形驾驶舱或模块，1 名人类技术人员，墙上贴有 1 张标有“H-2025”的蓝图海报，墙上印有 1 个大标题，天花板附近悬挂 4 盏吊灯。
+
+人类技术人员：一名身穿青蓝色工作服和配套安全帽的机械师站在主飞机右侧，身体前倾，正在使用工具修理暴露的发动机区域。人物比例相对于机器要小，以突出飞机的巨大尺寸。
+
+车间环境：整洁的未来感航空车间，拥有白色墙壁、光亮的浅色地板、天花板悬挂的电缆、装满瓶子和零件的储物柜、货架、青色工具箱、橙色抽屉、小型电子设备盒、金属托盘，以及散落在地上的维修面板、螺栓、电线、扳手、螺丝刀、卡尺、尺子和技术图纸。前景布置成活跃的维修场景，配有打开的蓝色工具箱和整齐的零件托盘。
+
+文字内容：在左上方放置大号墙面标题，内容为“{argument name="headline text" default="Nanchatte-Machine"}”，其中“Nanchatte-”为蓝色，“Machine”为红色。在标题左侧添加一条细青色括号状图形线，并在下方添加一条短的红-黄-青色条。在后墙上，包含一张标有“H-2025”的技术示意图海报，并附带小型蓝图绘图。
+
+色彩与灯光：明亮整洁的摄影棚灯光，带有柔和的阴影和地板上的光泽反射。主色调为白色、青色、蓝绿色、橙色、红色、黄色、金属灰和黑色。在后墙高处添加一条醒目的对角青色条纹和橙色垂直建筑面板。
+
+风格限制：超细节的未来工业概念艺术，写实材质，无卡通风格，无额外人物，无额外飞机，无水印，除微小的技术标记外无乱码文字，保持机器名称清晰可读。
+
+[English]
+Goal: Create a highly detailed futuristic maintenance-bay scene for a fictional flying robot aircraft branded {argument name="machine name" default="Nanchatte-Machine"}, combining clean Japanese sci-fi design, industrial realism, and playful “fake future tech” charm.
+
+Canvas: Vertical 3:4 composition, high-resolution cinematic concept art, slightly elevated wide-angle view looking down into a bright laboratory hangar. Use crisp focus across the whole image, photorealistic rendering with intricate mechanical detail.
+
+Main subject: A large white humanoid-faced VTOL air robot parked diagonally from lower left to upper right. It has a sleek transparent cockpit canopy on the top-front, an elegant pale android face integrated into the nose, two thin articulated robotic arms extending forward, and exposed internal machinery along the side. The body is mostly glossy white with turquoise, orange, yellow, black, and red accent panels, fine panel seams, rivets, labels, cables, pistons, vents, and engine components.
+
+Discrete major elements: Include exactly 1 main flying robot aircraft, exactly 2 huge circular ducted-fan rotor pods mounted left and right above the fuselage, exactly 1 detached rounded cockpit or pod module on the lower right, exactly 1 human technician, exactly 1 wall blueprint poster labeled “H-2025”, exactly 1 large title on the wall, and exactly 4 hanging pendant lights near the ceiling.
+
+Human technician: A single mechanic wearing a teal-blue work uniform and matching hard hat stands on the right side of the main aircraft, leaning forward while using tools on the exposed engine area. Scale the person small compared with the machine to emphasize the aircraft’s size.
+
+Workshop environment: Clean futuristic aerospace workshop with white walls, glossy pale floor, ceiling-hung cables, cabinets, shelves full of bottles and parts, teal tool chests, orange drawers, small electronics boxes, metal trays, scattered maintenance panels, bolts, wires, wrenches, screwdrivers, calipers, rulers, and technical drawings on the floor. Arrange the foreground like an active repair scene with open blue tool bins and organized parts trays.
+
+Text content: Put the large wall headline in the upper left reading “{argument name="headline text" default="Nanchatte-Machine"}”, with “Nanchatte-” in blue and “Machine” in red. Add a thin cyan bracket-like graphic line to the left of the headline and a short red-yellow-cyan color bar beneath it. On the back wall, include a technical schematic poster reading “H-2025” with small blueprint drawings.
+
+Color and lighting: Bright clean studio lighting with soft shadows and glossy reflections on the floor. Dominant palette is white, teal, cyan, orange, red, yellow, metallic gray, and black. Add a bold diagonal teal stripe and orange vertical architectural panel high on the back wall.
+
+Style constraints: Ultra-detailed futuristic industrial concept art, realistic materials, no cartoon styling, no extra people, no extra aircraft, no watermark, no illegible gibberish text except tiny technical markings, keep the machine name clearly readable.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2065032964669636661) | 2026-06-11
+
+---
+
+### 🏷️ 例 1152：Golden Plaza 舞蹈项目
+
+![Golden Plaza 舞蹈项目](../images/Golden%20Plaza%20%E8%88%9E%E8%B9%88%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为标题为 {argument name="video title" default="Golden Plaza Routine."} 的竖屏 AI influencer 舞蹈视频创建一个简洁的制作项目，展示一段 15 秒的舞蹈编排，并以 4x4 的网格形式呈现 16 个带编号的镜头卡片。
+
+画布：方形白色项目布局，细灰色边框，编辑类制作项目风格。顶部标题为：“Golden Plaza Routine.”，后接“15-SECOND VERTICAL DANCE VIDEO · STORYBOARD”。使用黑色粗体无衬线字体、紧凑的标签以及精致的创作者工作流美学。
+
+主要主体：一位时尚的女性 AI influencer 舞者，{argument name="character identity" default="留着长波浪棕发、充满自信街舞活力的年轻女性"}，身穿 {argument name="outfit" default="奶油色棒球夹克、白色短款上衣、宽松浅蓝色牛仔裤和运动鞋"}。她在黄金时刻的现代城市广场户外跳舞，背景为温暖的阳光、城市建筑、树木和路面。在所有面板中保持她的人物形象和服装一致。
+
+布局：使用 16 个独立的面板，排列为 4 行 4 列。每个面板左上角有一个小的黑色数字框，包含镜头标题、时间戳、简短备注以及显示舞者的竖屏照片框。照片应看起来像逼真的智能手机拍摄作品，具有自然的 HDR、温暖的阳光、适当的浅度运动模糊以及一致的镜头透视。
+
+面板内容：包含以下 16 个镜头卡片：
+01 — “READY HIT” — 0:00 — 备注：首次爆发，清晰的轮廓，户外空间。全身站姿，舞者准备开始。
+02 — “SUNLIT SHOULDER POP” — 0:01 — 备注：锐利的上半身动作，自然阳光。中景镜头，头发和夹克捕捉到光线。
+03 — “HAND FRAME” — 0:02 — 备注：干净的手部动作，清晰的面部，一致的人物形象。舞者用双手框住脸部。
+04 — “PLAZA SIDE STEP” — 0:03 — 备注：平滑的重心转移，全身可见。宽幅全身侧步姿势。
+05 — “STREET ARM WAVE” — 0:04 — 备注：流畅的动作，自然的手腕，清晰的手臂。动态手臂波浪姿势。
+06 — “CHEST HIT” — 0:05 — 备注：扎实的节奏感，逼真的身体力学。强有力的躯干强调，一只手靠近臀部。
+07 — “HALF TURN” — 0:06 — 备注：逼真的织物运动，一致的侧面。舞者转身，伴随头发和夹克的摆动。
+08 — “HAIR SWEEP” — 0:07 — 备注：可辨认的面部，社交媒体原生风格的活力。身体倾斜时的甩发动作。
+09 — “LOW GROOVE” — 0:08 — 备注：运动型动作，逼真的解剖结构。低蹲舞蹈律动。
+10 — “PAVEMENT GLIDE” — 0:09 — 备注：清晰的步法，脚部无裁剪。全身步法站姿。
+11 — “ARM CROSS” — 0:10 — 备注：强有力的姿势，干净的肢体。交叉双臂的中景镜头。
+12 — “WRIST FLICK” — 0:11 — 备注：受控的手势，戒指捕捉到高光。近中景手势姿势。
+13 — “SPIN PREP” — 0:12 — 备注：开始出现运动模糊，稳定的姿势。旋转前的全身准备动作。
+14 — “GOLDEN SPIN RELEASE” — 0:13 — 备注：动态模糊，稳定的人物形象。旋转姿势，背景和头发带有运动模糊。
+15 — “FINAL DROP” — 0:14 — 备注：充满活力的节奏点，清晰的身体线条。低位戏剧性终结动作。
+16 — “SIGNATURE POSE” — 0:15 — 备注：社交媒体定格画面，精致的结尾。自信的最终姿势，手靠近头发。
+
+底部制作栏：添加一个水平页脚，左侧放置一个小型的智能手机产品风格图像，相机规格显示为：“SHOT ON IPHONE 15 PRO | 26MM LENS | 24FPS | NATURAL HDR”。下方添加备注：“手持拍摄的不完美感、自动对焦呼吸效应、细微的压缩伪影、全身编舞、户外黄金时刻照明、开阔的城市广场、一致的 AI influencer 形象、一致的街头服饰。”右侧添加一个名为“NEGATIVE PROMPT (FOR REFERENCE ONLY)”的框选部分，包含关于避免卡通/动漫/CGI、塑料感皮肤、名人相似度、受版权保护的编舞、面部不一致、服装变化、解剖结构错误、多余手指、肢体残缺、手部扭曲、背景杂乱、刺眼阴影、水印和 Logo 的紧凑文本。
+
+视觉风格：逼真的照片项目，创作者制作文档美学，清晰的细线网格，白色页边距，黑色文字，温暖的黄金时刻色彩分级，智能手机真实感。使用 {argument name="setting" default="现代黄金时刻城市广场"} 并保持 AI influencer 舞蹈视频工作流的一致外观。
+
+约束：保持所有 16 个面板可见且编号正确，保留精确的时间戳和镜头标题，不要添加额外的面板，全身镜头中不要裁剪掉脚部，始终保持相同的舞者和服装，并避免使用 Logo 或水印。
+
+[English]
+Goal: Create a clean production storyboard sheet for a vertical AI influencer dance video titled {argument name="video title" default="Golden Plaza Routine."}, showing a 15-second routine as a 4-by-4 grid of exactly 16 numbered shot cards.
+
+Canvas: Square white storyboard layout, thin gray borders, editorial production-board style. Top header reads: “Golden Plaza Routine.” followed by “15-SECOND VERTICAL DANCE VIDEO · STORYBOARD”. Use black bold sans-serif typography, compact labels, and a polished creator-workflow aesthetic.
+
+Main subject: A fashionable female AI influencer dancer, {argument name="character identity" default="young woman with long wavy brown hair and confident street-dance energy"}, wearing {argument name="outfit" default="cream varsity jacket, white crop top, loose light-blue jeans, and sneakers"}. She dances outdoors in a modern city plaza during golden hour, with warm sunlight, urban buildings, trees, and pavement in the background. Keep her identity and outfit consistent across all panels.
+
+Layout: Use exactly 16 discrete storyboard panels arranged in 4 rows and 4 columns. Each panel has a small black number box at top left, a shot title, a timestamp, short notes, and a vertical-photo frame showing the dancer. The photos should look like realistic smartphone captures with natural HDR, warm sunlight, shallow motion blur where appropriate, and consistent lens perspective.
+
+Panel content: Include exactly these 16 shot cards:
+01 — “READY HIT” — 0:00 — Notes: first blast, clean silhouette, outdoor space. Full-body stance, dancer preparing to start.
+02 — “SUNLIT SHOULDER POP” — 0:01 — Notes: sharp upper-body hit, natural sunlight. Medium shot with hair and jacket catching light.
+03 — “HAND FRAME” — 0:02 — Notes: clean hands, sharp face, consistent identity. Dancer frames her face with both hands.
+04 — “PLAZA SIDE STEP” — 0:03 — Notes: smooth weight transfer, full-body visible. Wide full-body step pose.
+05 — “STREET ARM WAVE” — 0:04 — Notes: fluid motion, natural wrist, readable arms. Dynamic arm wave pose.
+06 — “CHEST HIT” — 0:05 — Notes: grounded rhythm, realistic body mechanics. Strong torso accent, one hand near hip.
+07 — “HALF TURN” — 0:06 — Notes: realistic fabric motion, consistent profile. Dancer turning with hair and jacket movement.
+08 — “HAIR SWEEP” — 0:07 — Notes: recognizable face, social-native energy. Hair-sweep movement with body angled.
+09 — “LOW GROOVE” — 0:08 — Notes: athletic movement, realistic anatomy. Low crouched dance groove.
+10 — “PAVEMENT GLIDE” — 0:09 — Notes: clear footwork, no cropped feet. Full-body footwork stance.
+11 — “ARM CROSS” — 0:10 — Notes: strong pose, clean limbs. Medium shot with crossed arms.
+12 — “WRIST FLICK” — 0:11 — Notes: controlled gesture, rings catch a highlight. Close-medium hand gesture pose.
+13 — “SPIN PREP” — 0:12 — Notes: motion blur begins, stable posture. Full-body preparation for spin.
+14 — “GOLDEN SPIN RELEASE” — 0:13 — Notes: dynamic blur, stable identity. Spinning pose with motion-blurred background and hair.
+15 — “FINAL DROP” — 0:14 — Notes: energetic beat drop, clear body line. Low dramatic final-move pose.
+16 — “SIGNATURE POSE” — 0:15 — Notes: social freeze-frame, polished ending. Confident final pose with hand near hair.
+
+Bottom production strip: Add a horizontal footer with a small smartphone product-style image on the left and camera specs reading: “SHOT ON IPHONE 15 PRO | 26MM LENS | 24FPS | NATURAL HDR”. Add notes below: “Handheld imperfections, autofocus breathing, subtle compression artifacts, full-body choreography, outdoor golden-hour lighting, open city plaza, consistent AI influencer identity, consistent streetwear outfit.” On the right, add a boxed section titled “NEGATIVE PROMPT (FOR REFERENCE ONLY)” containing compact text about avoiding cartoon/anime/CGI, plastic skin, celebrity resemblance, copyrighted choreography, inconsistent face, changing outfit, bad anatomy, extra fingers, broken limbs, warped hands, cluttered background, harsh shadows, watermark, and logo.
+
+Visual style: Realistic photo storyboard, creator production-document aesthetic, crisp thin-line grid, white margins, black text, warm golden-hour color grading, smartphone realism. Use {argument name="setting" default="modern golden-hour city plaza"} and maintain a cohesive AI influencer dance-video workflow look.
+
+Constraints: Keep all 16 panels visible and numbered correctly, preserve the exact timestamps and shot titles, do not add extra panels, do not crop off feet in full-body shots, keep the same dancer and outfit throughout, and avoid logos or watermarks.
+```
+
+**来源：** [@Mushraf Ali](https://x.com/MushrafAli3593/status/2065021790381027547) | 2026-06-11
+
+---
+
+### 🏷️ 例 1162：墨西哥球迷居家观赛照片精修
+
+![墨西哥球迷居家观赛照片精修](../images/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E5%B1%85%E5%AE%B6%E8%A7%82%E8%B5%9B%E7%85%A7%E7%89%87%E7%B2%BE%E4%BF%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，在保持原有房间、拍摄角度、墨西哥足球观赛场景、黑色波浪卷发以及整体坐姿不变的前提下，进行写实风格的美妆与生活照精修。将服装从牛仔裤改为协调的墨西哥足球迷装束：保留黑色球衣但将其腰部改为微露脐款式，并将裤子替换为带有白色饰边和侧面小型墨西哥队徽的黑色运动短裤。优化人物身体比例和皮肤渲染，使其看起来精致、健美且具备写实感，同时提升光影的柔和度、轮廓的清晰度以及姿态的美感，并保持面部被同样的矩形遮挡块遮盖。优化电视画面，使足球比赛看起来更清晰、更易辨认，显示屏上需包含 {argument name="scoreboard text" default="MEX 1 0 GER 52:28"} 的比分牌以及可见的球场广告。保持墨西哥国旗、墨西哥围巾、沙发、毯子、电视柜、植物和温暖的居家灯光一致，但提升整体清晰度、色彩平衡和专业照片质感。避免将场景改为摄影棚拍摄，避免添加额外人物，并确保最终效果如同在家观看世界杯时拍摄的自然抓拍照片。
+
+[English]
+Using the provided reference image, perform a realistic beauty and lifestyle photo retouch while preserving the same room, camera angle, Mexican soccer viewing context, black wavy hair, and general seated pose. Transform the outfit from jeans into a coordinated Mexico soccer fan look: keep the black jersey but make it slightly cropped at the waist, and replace the pants with short black athletic soccer shorts with white trim and a small Mexico crest on the side. Refine the subject’s body proportions and skin rendering to look polished, fit, and photorealistic, with smoother lighting, cleaner contours, and more flattering posture, while keeping the face intentionally obscured by the same rectangular anonymizing block. Improve the TV image so the soccer match looks sharper and more legible, showing an on-screen scoreboard with {argument name="scoreboard text" default="MEX 1 0 GER 52:28"} and visible stadium advertising. Keep the Mexican flag, Mexico scarf, couch, blanket, TV console, plants, and warm home lighting consistent, but enhance overall sharpness, color balance, and professional photo quality. Avoid changing the scene into a studio shot, avoid adding extra people, and keep the result like a natural candid photo of watching the World Cup at home.
+```
+
+**来源：** [@邪修玩AI-诗泳](https://x.com/LiEvanna85716/status/2065003105595638220) | 2026-06-11
+
+---
+
+### 🏷️ 例 1192：Python 脚本生成的隐藏 Logo 风景
+
+![Python 脚本生成的隐藏 Logo 风景](../images/Python%20%E8%84%9A%E6%9C%AC%E7%94%9F%E6%88%90%E7%9A%84%E9%9A%90%E8%97%8F%20Logo%20%E9%A3%8E%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，请仔细构思并寻找不同的 input a 和 b 以实现效果：class HiddenLogoLandscape:      def __init__(self, logo="{argument name="logo name" default="{Input A}"}", biome="{argument name="biome" default="{Input B}"}"):         self.logo = logo         self.biome = biome         self.scene = self.__infer__()          def __infer__(self):         s = Scene()         s.terrain = Terrain()         # 雕刻规则：将 Logo 主体形状作为生物群落表面的负空间凹陷         s.terrain.negative_carve = self.logo.main_body         s.terrain.negative_altitude = -150  # 下沉深度（米）         s.terrain.negative_texture = f"dark {self.biome.material} (shadowed forest, void canyon)"                  # 为分离部件设置浮空岛         s.terrain.floating_islands = [{             "shape": part,             "material": f"{self.biome.material} floating landmass",             "altitude": +200,             "position": "suspended above main shape"         } for part in self.logo.detached_elements]                  s.atmosphere = "swirling clouds, mist, god rays backlight"         s.pareidolia = "edges formed organically by trees, cliffs, snow—no smooth vectors"         s .camera = "aerial drone, 1:1 framing, high contrast, cinematic"         return s      def render(self):         return NationalGeographicAerial(self.scene)  exec(HiddenLogoLandscape().render())
+
+[English]
+2x2 grid, think hard and find different input as and bs that work: class HiddenLogoLandscape:      def __init__(self, logo="{argument name="logo name" default="{Input A}"}", biome="{argument name="biome" default="{Input B}"}"):         self.logo = logo         self.biome = biome         self.scene = self.__infer__()          def __infer__(self):         s = Scene()         s.terrain = Terrain()         # Carving rule: main logo shape is a negative space drop in the biome's surface         s.terrain.negative_carve = self.logo.main_body         s.terrain.negative_altitude = -150  # meters drop         s.terrain.negative_texture = f"dark {self.biome.material} (shadowed forest, void canyon)"                  # Floating islands for detached parts         s.terrain.floating_islands = [{             "shape": part,             "material": f"{self.biome.material} floating landmass",             "altitude": +200,             "position": "suspended above main shape"         } for part in self.logo.detached_elements]                  s.atmosphere = "swirling clouds, mist, god rays backlight"         s.pareidolia = "edges formed organically by trees, cliffs, snow—no smooth vectors"         s .camera = "aerial drone, 1:1 framing, high contrast, cinematic"         return s      def render(self):         return NationalGeographicAerial(self.scene)  exec(HiddenLogoLandscape().render())
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2064911247938871616) | 2026-06-11
+
+---
+
+### 🏷️ 例 1197：金色奢华时尚三联画
+
+![金色奢华时尚三联画](../images/%E9%87%91%E8%89%B2%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一组电影质感的奢华时尚三联画，采用温暖的黄金时刻光效，主体为 {argument name="subject" default="一位身着香槟金垂坠晚礼服的优雅女性"}。画布：宽屏 16:9 水平拼贴，精确分为 3 个垂直面板。左侧面板：全身时尚大片视角，女性伫立在广阔的未来感玻璃与金色建筑内部，地面光亮如镜，墙壁透明，窗外可见沙漠沙丘与平静如水的地平线，礼服长裙摆铺散在地，呈现对称的高级时尚姿态，面部由一个小巧柔和的棕色矩形遮挡块刻意遮盖。中心面板：胸部至头部的中景肖像剪裁，身着同款深 V 领且带有希腊式褶皱的礼服，露出肩部与锁骨，背景为阳光照射下模糊的沙漠建筑，面部由一个居中的哑光棕色方形遮挡块覆盖。右侧面板：上身与头部的紧凑特写，强调肩部褶皱的金色面料，背景为温暖的焦外成像，面部由一个较大的哑光棕色方形遮挡块覆盖，右下胸部附近有一个微小的淡色星形闪光图标。视觉风格：照片级真实感的高端时尚广告，琥珀色单色调，光泽反射，柔和镜头光晕，特写镜头采用浅景深，优雅极简，无可见文字，无 Logo，无水印。使用精确的 3 个遮脸棕色矩形和 1 个小巧闪光图标。整体氛围应呈现出在日落时分拍摄的奢华沙漠度假村大片感，色调为 {argument name="color palette" default="金色、青铜色、香槟色和蜂蜜琥珀色"}。
+
+[English]
+Create a cinematic luxury fashion triptych in warm golden-hour lighting featuring {argument name="subject" default="an elegant woman in a champagne-gold draped evening gown"}. Canvas: wide 16:9 horizontal collage divided into exactly 3 vertical panels. Left panel: full-body fashion editorial shot of the woman standing far away in a vast futuristic glass-and-gold architectural interior, reflective polished floor, transparent walls, desert dunes and a calm water-like horizon outside, long flowing train of the gown spread across the floor, symmetrical high-fashion pose, face intentionally obscured by a small soft brown rectangular censor block. Center panel: medium close-up portrait crop from chest to head, same gown with deep V neckline and gathered Grecian folds, shoulders and collarbones visible, sunlit blurred desert architecture background, face covered by one centered matte brown square censor block. Right panel: tighter close-up crop of the upper torso and head, emphasizing the pleated gold fabric over one shoulder, warm bokeh background, face covered by one larger matte brown square censor block, with a small pale star sparkle icon near the lower-right chest area. Visual style: photorealistic high-end fashion campaign, amber monochrome palette, glossy reflections, soft lens flare, shallow depth of field in close-ups, elegant minimalism, no visible text, no logos, no watermark. Use exactly 3 face-covering brown rectangles and exactly 1 small sparkle icon. The overall mood should feel like a luxurious desert resort editorial photographed at sunset, with {argument name="color palette" default="gold, bronze, champagne, and honey amber"}.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2064905943704555678) | 2026-06-11
+
+---
+
+### 🏷️ 例 1212：男性演示者头像姿势参考图
+
+![男性演示者头像姿势参考图](../images/%E7%94%B7%E6%80%A7%E6%BC%94%E7%A4%BA%E8%80%85%E5%A4%B4%E5%83%8F%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张简洁的角色姿势参考图，用于男性演示者头像，适合商务说明视频。
+
+画布：垂直 2:3 比例图像，白色背景，划分为 3 列 5 行的网格，带有粗黑色的圆角分隔线，形成 15 个等大的面板。
+
+主体细节：同一名年轻男性出现在每个面板中，画面范围为腰部或大腿以上。他拥有 {argument name="hair color" default="深炭黑色"} 波浪状、蓬松的中短发，肤色白皙，身材苗条，面部为中性的方形模糊处理，无可见五官。他身穿亮面黑色短袖 Polo 衫，下摆塞入黑色长裤，系黑色腰带。风格为精致的半写实动漫插画，带有柔和的阴影、干净的线条、黑色织物上的细腻高光，呈现专业的头像参考图外观。
+
+布局与姿势数量：包含 15 种不同的姿势，每个面板一个，从左到右、从上到下排列：
+1. 中性站姿，双臂自然下垂。
+2. 双臂在胸前交叉，姿态自信。
+3. 思考姿势，一只手触碰下巴。
+4. 一只拳头举在胸前，表现出积极动力。
+5. 一只手臂伸出，直接指向观众。
+6. 说明姿势，双手张开，一只手掌向外抬起。
+7. 思考姿势，手指靠近嘴部。
+8. 交谈姿势，双手处于动作中，手掌部分张开。
+9. 一只手调整眼镜或触碰脸侧，另一只手下垂。
+10. 中性专注站姿，双臂下垂。
+11. 手部遮住或触碰嘴部，呈沉思状。
+12. 一只手抓挠或扶住后脑勺。
+13. 竖起一根食指，仿佛在强调重点。
+14. 礼貌鞠躬姿势，双手在身前交叠。
+15. 耸肩姿势，双手抬起，掌心向上。
+
+视觉风格：明亮的白色摄影棚灯光，阴影极少，高调背景，所有面板中的角色比例保持一致，清晰的黑色网格线，无文字，无 Logo，无水印。每个面板中的面部均刻意模糊处理为柔和的方形遮挡块。
+
+[English]
+Goal: Create a clean character-pose reference sheet for a male presenter avatar, suitable for business explainer videos.
+
+Canvas: Vertical 2:3 image, white background, divided into a 3-column by 5-row grid with thick black rounded dividers, creating exactly 15 equal panels.
+
+Subject details: The same young adult man appears in every panel from the waist or upper thighs up. He has {argument name="hair color" default="dark charcoal black"} wavy, tousled medium-short hair with volume, pale skin, a slim build, and a neutral square blurred face with no visible facial features. He wears a glossy black short-sleeve polo shirt tucked into black trousers with a black belt. The style is polished semi-realistic anime illustration with soft shading, clean linework, subtle highlights on the black fabric, and a professional avatar-sheet look.
+
+Layout and pose count: Include exactly 15 distinct poses, one per panel, arranged left to right, top to bottom:
+1. Standing neutrally with arms relaxed downward.
+2. Arms crossed confidently across the chest.
+3. Thinking pose, one hand touching the chin.
+4. One fist raised near the chest as if motivated.
+5. Pointing directly toward the viewer with one arm extended.
+6. Explaining gesture with both hands open, one palm raised outward.
+7. Thinking pose with fingers near the mouth.
+8. Conversational pose with both hands mid-gesture, palms partly open.
+9. Adjusting glasses or touching the side of the face with one hand, other hand down.
+10. Neutral attentive stance with arms down.
+11. Hand covering or touching the mouth in a reflective pose.
+12. Scratching or holding the back of the head with one hand.
+13. Raising one index finger as if making an important point.
+14. Polite bowing posture, hands clasped in front.
+15. Shrugging pose with both hands raised, palms up.
+
+Visual style: Bright white studio lighting, minimal shadows, high-key background, consistent character proportions across all panels, crisp black grid lines, no text, no logos, no watermark. Keep the face intentionally blurred as a soft square censor block in every panel.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2064877637454193106) | 2026-06-11
+
+---
+
+### 🏷️ 例 1213：定制足球圣杯交易卡
+
+![定制足球圣杯交易卡](../images/%E5%AE%9A%E5%88%B6%E8%B6%B3%E7%90%83%E5%9C%A3%E6%9D%AF%E4%BA%A4%E6%98%93%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用我提供的参考图片，制作一张仿照“2004 Mega Cracks Messi Rookie PSA 10”风格的圣杯卡。俱乐部：{argument name="club name" default="Tokyo AI Visuals FC"} 球衣号码：{argument name="jersey number" default="3"} 球员姓名：{argument name="player name" default="KANA"} 这是一张亲笔签名卡。年份：2026 年。将“Mega Cracks”更改为“Mago Cracks”。
+
+[English]
+Use the reference image I provided to create a grail card modeled after the “2004 Mega Cracks Messi Rookie PSA 10” card. Club: {argument name="club name" default="Tokyo AI Visuals FC"} Jersey number: {argument name="jersey number" default="3"} Player name: {argument name="player name" default="KANA"} This is an autographed card. Year: 2026 Change “Mega Cracks” to “Mago Cracks.”
+```
+
+**来源：** [@KANA｜東京AI映像](https://x.com/KanaWorks_AI/status/2064874527440662628) | 2026-06-11
+
+---
+
+### 🏷️ 例 1214：ASCII 布局落地页生成器
+
+![ASCII 布局落地页生成器](../images/ASCII%20%E5%B8%83%E5%B1%80%E8%90%BD%E5%9C%B0%E9%A1%B5%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
++--------------------------------------------------------------------------------+
+| Header                                                                         |
+| Logo: {argument name="logo name" default="みらい労務パートナーズ"}     Nav: サービス | 選ばれる理由 | 事例 | 料金 | お問い合わせ |
+|                                                                  CTA: 初回相談 |
++--------------------------------------------------------------------------------+
+
+【画像】
+```
+
+**来源：** [@Masao | AI部署化サービス開発](https://x.com/Masao_SS0801/status/2064864128523809039) | 2026-06-11
+
+---
+

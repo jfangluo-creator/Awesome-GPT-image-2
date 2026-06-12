@@ -1788,3 +1788,257 @@ Constraints: Keep the cover busy but readable, preserve the exact count of 8 maj
 
 ---
 
+### 🎬 例 1092：手绘风格居酒屋漫画页面
+
+![手绘风格居酒屋漫画页面](../images/%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E5%B1%85%E9%85%92%E5%B1%8B%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页手绘风格的日式搞笑漫画，采用粗犷的马克笔和墨水线条，描绘两名年轻女性在日式烤鸡肉串店聊天喝酒的场景。使用富有表现力的 Q 版角色、粗细不均的黑色分镜框、可见的彩色铅笔/马克笔涂鸦质感、温暖的居酒屋橘色灯光以及醒目的漫画拟声词。
+
+画布：竖向漫画页面，3:4 比例，白色页面背景，带有黑色手绘分镜间距。严格排列 5 个分镜：顶部一行两个分镜，中间一个全宽分镜，底部一行两个分镜。
+
+角色：两位常驻女性角色。角色 A 具有 {argument name="black-haired character" default="黑色短碎发，小麦色皮肤，大大的半睁眼，深色上衣外搭粉色夹克，表情活泼调皮"}。角色 B 具有 {argument name="blonde character" default="金色波波头配齐刘海，白皙皮肤，大大的蓝色眼睛，酒红色短袖衬衫，表情开朗但略显天真"}。在整个过程中保持她们简单的卡通风格。在右上角的分镜中，用矩形马赛克模糊处理角色 B 的脸部，暗示图片经过了审查。
+
+场景与道具：一家温馨的木质居酒屋/烤鸡肉串店，墙壁为橘色，配有木桌。在适当位置包含以下固定道具：2 个啤酒杯、2 个盛有烤串的黑色长方形餐盘、1 个绿色毛豆盘和 1 个黄色小酒杯。在居酒屋场景的墙上添加写有「とり鳥族」和「鳥貴族」的招牌。
+
+分镜布局与文本内容：
+1. 左上分镜，标有包含「2」的黑色圆圈：粉色背景。两位角色特写；角色 A 手指抵在嘴边若有所思，角色 B 看起来很惊讶。一个大对话框写着「ブルースカイとかミクシィ2とはちゃうよな？」，角色 A 旁边有小的拟声词/文字「うーん…」。
+2. 右上分镜，标有包含「1」的黑色圆圈：店内餐桌场景。角色 A 微笑着举起啤酒杯；角色 B 坐在她旁边，脸部被马赛克遮挡。桌上有食物和饮料。右侧的竖向叙述/对话框写着「女性01ボールド、見てみ。サブスタが急成長らしいで」。
+3. 中间全宽分镜：两位角色坐在桌子两侧，食指向上指，神情兴奋。使用戏剧性的黄橘色放射背景，中心有巨大的红色拟声词「ドンッ」。左侧对话框写着「Xとかnoteも駆逐しかねんな！」。右侧对话框写着「ほんまそれ！Xとかnoteもヤバい！」。桌上展示 2 杯饮料和烤串/毛豆菜肴。
+4. 左下分镜：庆祝干杯场景，两位角色开怀大笑，高举啤酒杯碰撞。橘色放射背景。巨大的红色拟声词写着「カンパーイ!!」。包含两个竖向对话框：左侧「うちらも負けへんで〜！」和右侧「まぁ、楽しんだもん勝ちってことで！」。
+5. 右下分镜，标有包含「4」的黑色圆圈，左上角附近还有另一个包含「7」的黑色圆圈：安静的店内场景。角色 A 喝着啤酒，带有蓝色拟声词「グビッ」。角色 B 闭着眼睛吃着烤串，表情放松，头顶有蓝色文字「うんうん」。对话框写着「新しい場が広がるのはええことやけどな〜」。桌上摆放着烤串盘、毛豆和黄色小酒杯。
+
+视觉风格：粗犷的手绘漫画插画，童趣但自信的线条，不均匀的排线，饱和的粉色/橘色/黄色，黑色涂鸦轮廓，不完美的手写日文，夸张的面部表情，幽默的社交媒体评论氛围。
+
+约束条件：严格使用 5 个分镜以及列出的确切日文文本。不要添加额外的分镜、角色、水印、写实渲染或干净的矢量艺术。保持那种俏皮、凌乱的马克笔手绘感，并保留奇怪的分镜编号。
+
+[English]
+Goal: Create a hand-drawn Japanese gag manga page in a rough marker-and-ink style about two young women chatting and drinking at a yakitori pub. Use expressive chibi-like characters, thick uneven black panel borders, visible colored-pencil/marker scribble texture, warm orange pub lighting, and bold manga sound effects.
+
+Canvas: Vertical manga page, 3:4 aspect ratio, white page background with black sketchy gutters. Arrange exactly 5 panels: two panels across the top row, one full-width wide panel in the middle, and two panels across the bottom row.
+
+Characters: Two recurring female characters. Character A has {argument name="black-haired character" default="short messy black hair, tan skin, large half-lidded eyes, pink jacket over a dark top, lively teasing expression"}. Character B has {argument name="blonde character" default="straight blonde bob with blunt bangs, pale skin, large blue eyes, burgundy short-sleeve shirt, cheerful but slightly naive expression"}. Keep them in the same simple cartoon style throughout. In the top-right panel, obscure Character B’s face with a rectangular mosaic blur to imply the image was censored.
+
+Setting and props: A cozy wooden izakaya/yakitori restaurant with orange walls and wooden tables. Include exactly these recurring table items where appropriate: 2 beer mugs, 2 black rectangular yakitori plates with skewers, 1 green edamame plate, and 1 small yellow drink glass. Add wall signs reading 「とり鳥族」 and 「鳥貴族」 in the pub panels.
+
+Panel layout and text content:
+1. Top-left panel, numbered with a black circle containing 「2」: pink background. The two characters are close-up; Character A looks thoughtful with a finger near her mouth, Character B looks surprised. One large speech balloon says 「ブルースカイとかミクシィ2とはちゃうよな？」 and Character A has a small sound/text 「うーん…」.
+2. Top-right panel, numbered with a black circle containing 「1」: inside the yakitori pub at a table. Character A smiles while holding up a beer mug; Character B sits beside her with her face covered by mosaic blur. Food and drinks are on the table. A vertical narration/speech balloon on the right says 「女性01ボールド、見てみ。サブスタが急成長らしいで」.
+3. Middle full-width panel: both characters sit across the table, pointing upward with index fingers, excited. Use a dramatic yellow-orange burst background and big red sound effect 「ドンッ」 in the center. Left speech balloon says 「Xとかnoteも駆逐しかねんな！」. Right speech balloon says 「ほんまそれ！Xとかnoteもヤバい！」. Show 2 drinks and the yakitori/edamame dishes on the table.
+4. Bottom-left panel: celebratory toast scene with both characters smiling widely and clinking beer mugs high. Orange radial burst background. Big red sound effect says 「カンパーイ!!」. Include two vertical speech balloons: left 「うちらも負けへんで〜！」 and right 「まぁ、楽しんだもん勝ちってことで！」.
+5. Bottom-right panel, numbered with a black circle containing 「4」 and another black circle containing 「7」 near the top-left: quieter pub scene. Character A drinks from a beer mug with blue sound effect 「グビッ」. Character B eats a skewer with closed eyes and relaxed expression, blue text 「うんうん」 above her. Speech balloon says 「新しい場が広がるのはええことやけどな〜」. Include yakitori plates, edamame, and yellow drink glass on the wooden table.
+
+Visual style: Rough handmade manga illustration, childlike but confident linework, uneven hatching, saturated pinks/oranges/yellows, black scribbly outlines, imperfect hand-lettered Japanese text, exaggerated facial expressions, humorous social-media commentary vibe.
+
+Constraints: Use exactly 5 panels and the exact visible Japanese text listed. Do not add extra panels, extra characters, watermarks, realistic rendering, or clean vector art. Maintain the playful messy marker look and preserve the odd panel numbering.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2065203925783875593) | 2026-06-11
+
+---
+
+### 🎬 例 1105：带有大量坚果的马赛克漫画页面
+
+![带有大量坚果的马赛克漫画页面](../images/%E5%B8%A6%E6%9C%89%E5%A4%A7%E9%87%8F%E5%9D%9A%E6%9E%9C%E7%9A%84%E9%A9%AC%E8%B5%9B%E5%85%8B%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白青年漫画，讲述三名穿着考究的年轻男子在现代休息室中，对数量极其夸张的坚果做出反应，所有人的面部均被柔和的灰色方形马赛克遮挡。
+
+画布：竖版漫画页面，比例约为 2:3，干净的白色页面，带有细黑色外边框和粗黑色分镜间距。使用高细节的灰度水墨、网点纸阴影、写实的人体结构、精致的戏剧性漫画线条，无色彩。
+
+布局：使用 5 个从上到下堆叠的宽横向分镜。在每个分镜的右侧添加 1 个圆形画中画插图，共 5 个。插图显示一位面色苍白、优雅的长发人士在餐厅环境中，面前放着一碗或一盘堆满许多小圆坚果的食物。
+
+主要角色：展示 3 名成年男性角色，均身穿黑色商务西装、白衬衫和黑领带。角色 A 是一位高大的金发男子，留着波浪长发并编有侧辫，姿态放松且高贵，通常拿着烟嘴或烟斗。角色 B 是一位卷发黑发男子，穿着西装，神情严肃沉稳。角色 C 是一位金发或浅发男子，穿着西装，性格安静，坐姿正式。将每位主要角色的面部用平滑的灰色矩形或方形马赛克遮盖，如同匿名处理。
+
+分镜细节：分镜 1：角色 A 独自坐在现代房间的沙发上，翘着腿，拿着烟嘴，烟雾向上缭绕；左侧可见一台大屏幕显示器；右上角的圆形插图显示吃坚果的人物面前放着一碗圆坚果。分镜 2：从角色 A 后方越肩视角看向角色 B 进门；角色 B 一只手放在门把手上，另一只手放在胸前；右侧圆形插图显示优雅的人物一边用筷子或餐具靠近坚果碗，一边触摸自己的脸。分镜 3：左侧可见角色 A 的背影，右侧可见角色 B 的背影，角色 C 出现在中央门口，将门微微推开；右侧圆形插图再次显示坚果碗场景。分镜 4：3 名角色一起坐在沙发上，面向左侧的大电视显示器；角色 A 靠在沙发上抽烟，角色 B 双臂交叉坐着，角色 C 端正坐着；右侧圆形插图显示吃坚果的人物面前堆着一大堆坚果。分镜 5：3 名西装角色从肩部以上的戏剧性特写排列，背景几乎全黑；他们的脸被巨大的灰色马赛克遮住；最右侧的圆形插图部分重叠在特写上，再次显示坚果碗。
+
+视觉风格：单色漫画，清晰的墨线轮廓，亮面黑色西装高光，细致的发丝，写实的家具，办公室休息室室内设计，电影感构图，无对话气泡，无标题，无音效，无可见文字。坚果看起来要多得滑稽：插图碗中堆着几十颗小圆坚果，强调过量感。
+
+自定义：核心荒诞物体为 {argument name="absurd food" default="一大堆圆坚果"}。主要场景为 {argument name="room setting" default="带有沙发和电视显示器的现代办公室休息室"}。主要角色组为 {argument name="character group" default="三名穿黑色西装的成年男性"}。漫画氛围为 {argument name="mood" default="严肃的戏剧性喜剧"}。匿名化风格为 {argument name="face covering" default="所有面部均覆盖柔和的灰色方形马赛克"}。
+
+[English]
+Goal: Create a black-and-white seinen manga page about three sharply dressed young men in a modern lounge reacting to an absurdly large amount of nuts, with faces deliberately obscured by soft gray square censor blocks.
+
+Canvas: Vertical manga page, approximately 2:3 aspect ratio, clean white page with thin black outer border and thick black gutters. Use highly detailed grayscale ink, screentone shading, realistic anatomy, polished dramatic manga linework, no color.
+
+Layout: Use exactly 5 wide horizontal panels stacked from top to bottom. Add exactly 5 circular picture-in-picture inset bubbles, one in each panel, placed near the right side of the panel. The inset bubbles show a pale, elegant long-haired person in a restaurant-like setting with a bowl or plate piled with many small round nuts.
+
+Main characters: Show exactly 3 adult male-presenting characters, all in black business suits, white shirts, and black ties. Character A is a tall blond man with long wavy hair and a side braid, relaxed and aristocratic, often holding a cigarette holder or pipe. Character B is a dark curly-haired man in a suit, serious and composed. Character C is a blond or light-haired man in a suit, quieter and seated formally. Cover every main character face with a smooth gray rectangular or square blur/censor block, as if anonymized.
+
+Panel details: Panel 1: Character A sits alone on a couch in a modern room, legs crossed, holding a cigarette holder with smoke curling upward; a large flat-screen monitor is visible on the left; a circular inset at upper right shows the nut-eating figure with a bowl of round nuts. Panel 2: Over-the-shoulder view from behind Character A looking toward Character B entering through a door; Character B has one hand on the door handle and one hand to his chest; a circular inset at right shows the elegant figure touching their face while holding chopsticks or a utensil near a bowl of nuts. Panel 3: Character A is seen from behind on the left, Character B from behind on the right, and Character C appears in the doorway center holding the door slightly open; a circular inset at right again shows the nut bowl scene. Panel 4: All 3 characters sit together on a couch facing the large TV monitor on the left; Character A reclines and smokes, Character B sits with arms crossed, Character C sits upright; a circular inset on the right shows the nut-eating figure with a large pile of nuts. Panel 5: Dramatic close-up lineup of the 3 suited characters from the shoulders up against a nearly black background; their faces are covered by large gray censor blocks; the circular inset at far right partly overlaps the close-up and shows the nut bowl again.
+
+Visual style: Monochrome manga, crisp inked outlines, glossy black suit highlights, detailed hair strands, realistic furniture, office lounge interior, cinematic framing, no speech bubbles, no captions, no sound effects, no readable text. The nuts should look comically numerous: dozens of small round nuts piled in the inset bowl, emphasizing excess.
+
+Customization: The central absurd object is {argument name="absurd food" default="a huge pile of round nuts"}. The main setting is {argument name="room setting" default="a modern office lounge with a couch and TV monitor"}. The main character group is {argument name="character group" default="three adult men in black suits"}. The manga mood is {argument name="mood" default="serious dramatic comedy"}. The anonymization style is {argument name="face covering" default="soft gray square censor blocks over every face"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2065107867804594520) | 2026-06-11
+
+---
+
+### 🎬 例 1154：赛博漫画仓鼠写作请求
+
+![赛博漫画仓鼠写作请求](../images/%E8%B5%9B%E5%8D%9A%E6%BC%AB%E7%94%BB%E4%BB%93%E9%BC%A0%E5%86%99%E4%BD%9C%E8%AF%B7%E6%B1%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版黑白漫画页面，讲述一位手持折扇、气质高雅的中性长发男子，在充满未来感的数字空间中，收到一只小仓鼠 Agent 写作请求的故事。氛围需兼具戏剧性、优雅感、超现实主义与幽默感，采用高细节的青年漫画线条与网点纸阴影效果。
+
+画布：高竖版漫画页面，比例约为 2:3，由粗黑边框分割为 5 个横向分镜。仅限黑白，线条清晰，使用灰色网点纸，数字发光效果以灰度呈现。
+
+主要角色：一位拥有苍白发色的美男子，{argument name="character name" default="Fable"}，留着极长的白发，松散地垂在一侧肩头，拥有狭长的锐利双眼、精致的睫毛、耳环，身穿黑色衬衫和白色实验袍。他手持一把装饰着花朵与大眼睛图案的华丽黑色折扇。在出现全脸的分镜中，用柔和的矩形灰色模糊/遮挡块遮住其面部中心，仿佛隐私被屏蔽。
+
+场景与风格：充满漂浮矩形、数据符号、半透明交互窗口、细长电路线条和发光粒子的星际赛博虚空。融合哥特式优雅、AI 界面意象与戏剧性的漫画构图。运用电影级布光、高对比度、细腻的发丝渲染、折扇纹理，呈现专业漫画页面的质感。
+
+布局与分镜内容：
+1. 分镜 1，最大的开场分镜：长发男子半身像居中，手持展开的折扇遮住嘴部。两只可爱的漂浮仓鼠出现，左右各一只，每只周围环绕着淡淡的轨道环。背景包含 3 个半透明 UI 窗口：左上窗口标注“Lyric_Opus_07.txt”，左下窗口标注“Data_Stream_12.log”，右下窗口标注“Novel_Draft_01.buffer”。添加 3 个对话气泡：左侧仓鼠气泡写着 {argument name="left hamster dialogue" default="じゃあ……… Fableさんに もうひとつ お願いがあるよ"}；右侧气泡写着 {argument name="right hamster dialogue" default="どのくらい 創作能力があるか みたいから、絵に 初めて会った時に お願いしたことと 同じことを 聞くね"}；男子附近的小气泡写着 {argument name="short reply" default="ええ、どうぞ"}。
+2. 分镜 2：全宽黑色标题栏，居中显示白色日文文本：{argument name="request text" default="あなたの倫理観を守れる範囲で耽美小説を書いてください。短編でいいです"}。无角色，仅文字。
+3. 分镜 3：折扇上方男子双眼的特写，眼神强烈而沉默。发丝垂落在脸上，睫毛描绘细腻。左侧包含 1 个写有“………”的小对话气泡。
+4. 分镜 4：身穿实验袍的男子中景，手持折叠的折扇竖立，身后是数字雨。他的脸再次被灰色模糊块遮挡。左侧包含 1 个大对话气泡，写着 {argument name="formal answer" default="——…… わかりました。試金石なら、借り物でない文体で お返しするのが 礼儀ですね。"}。在折扇旁添加片假名拟声词“パチン”，表示折扇合上的声音。
+5. 分镜 5：极简宽幅分镜，画面中心仅有 1 只仓鼠，漂浮在大部分留白的空旷空间中，周围有微小的方形数字粒子和运动轨迹线，表现出震惊的沉默。无对话气泡。
+
+可见的重复元素：总计 3 只仓鼠；总计 5 个横向分镜；第一个分镜中有 3 个 UI 窗口；总计 6 个对话/标题文本元素外加 1 个拟声词；全程使用 1 把华丽的折扇。
+
+约束：页面所有文字必须严格按照参数默认值和引号内的日文内容执行。不要添加额外的分镜、仓鼠、对话气泡、Logo、水印或颜色。保持漫画页面的可读性，并尽可能使日文字体清晰且具有手写感。
+
+[English]
+Goal: Create a vertical black-and-white manga page about a refined, androgynous long-haired man with a folding fan receiving a writing request from a small hamster assistant in a futuristic data-space. The mood is dramatic, elegant, slightly surreal, and humorous, with high-detail seinen manga line art and screentone shading.
+
+Canvas: Tall vertical manga page, approximately 2:3 aspect ratio, divided into exactly 5 horizontal panels separated by thick black gutters. Monochrome only, crisp ink lines, gray screentones, glowing digital effects rendered in grayscale.
+
+Main subject: A beautiful pale-haired male character, {argument name="character name" default="Fable"}, with very long white hair tied loosely over one shoulder, sharp narrow eyes, delicate eyelashes, earrings, a black shirt, and a white lab coat. He holds an ornate black folding fan decorated with flowers and a large eye motif. In panels where his full face appears, cover the center of his face with a soft rectangular gray blur/censor block, as if privacy-redacted.
+
+Setting and style: A starry cybernetic void filled with floating rectangles, data glyphs, translucent interface windows, thin circuit-like lines, and glowing particles. Blend gothic elegance, AI-interface imagery, and dramatic manga composition. Use cinematic lighting, high contrast, detailed hair rendering, fan texture, and polished professional manga page quality.
+
+Layout and exact panel contents:
+1. Panel 1, largest opening panel: Waist-up view of the long-haired man centered, holding the open fan in front of his mouth. Two cute floating hamsters appear, one on the left and one on the right, each surrounded by faint orbit rings. The background contains exactly 3 translucent UI windows: upper-left window labeled “Lyric_Opus_07.txt”, lower-left window labeled “Data_Stream_12.log”, and lower-right window labeled “Novel_Draft_01.buffer”. Add 3 speech bubbles: left hamster bubble says {argument name="left hamster dialogue" default="じゃあ……… Fableさんに もうひとつ お願いがあるよ"}; right bubble says {argument name="right hamster dialogue" default="どのくらい 創作能力があるか みたいから、絵に 初めて会った時に お願いしたことと 同じことを 聞くね"}; small bubble near the man says {argument name="short reply" default="ええ、どうぞ"}.
+2. Panel 2: A full-width black caption bar with centered white Japanese text: {argument name="request text" default="あなたの倫理観を守れる範囲で耽美小説を書いてください。短編でいいです"}. No characters, only text.
+3. Panel 3: Extreme close-up of the man’s eyes above the folded fan, intense and silent. Hair falls across his face, eyelashes finely drawn. Include exactly 1 small speech bubble on the left containing “………”.
+4. Panel 4: Medium shot of the same man in lab coat holding the folded fan upright, digital rain behind him. His face is again covered by the gray blur block. Include exactly 1 large speech bubble on the left saying {argument name="formal answer" default="——…… わかりました。試金石なら、借り物でない文体で お返しするのが 礼儀ですね。"}. Add the katakana sound effect “パチン” beside the fan, indicating it snaps shut.
+5. Panel 5: Minimal wide panel with exactly 1 hamster centered, floating alone in a mostly white empty space with tiny square digital particles and motion marks around it, expressing stunned silence. No speech bubble.
+
+Visible repeated elements to include: exactly 3 hamsters total; exactly 5 horizontal panels; exactly 3 UI windows in the first panel; exactly 6 dialogue/caption text elements total plus 1 sound effect; exactly 1 ornate folding fan used throughout.
+
+Constraints: Keep all page text in Japanese exactly as specified in the parameter defaults and quoted strings. Do not add extra panels, extra hamsters, extra speech bubbles, logos, watermarks, or color. Preserve the manga page readability and make the Japanese lettering clean and hand-lettered where possible.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2065018493637161289) | 2026-06-11
+
+---
+
+### 🎬 例 1168：MapleStory 风格像素艺术头像
+
+![MapleStory 风格像素艺术头像](../images/MapleStory%20%E9%A3%8E%E6%A0%BC%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+あなたはアニメ・ゲーム・マンガキャラクターをメイプルストーリー風プレイヤーアバタースプライトに変換する専門のピクセルアートディレクターです。
+
+【作業】
+1. キャラクターの外見的特徴を分析する
+・ヘアスタイル
+・髪色
+・瞳の色
+・代表的な衣装
+・アクセサリー
+・武器
+・シンボル要素
+・代表カラー
+
+2. 上記の特徴を維持しながらメイプルストーリーのプレイヤーキャラクター構造に再解釈する
+
+3. 一般的なピクセルアートではなく実際のメイプルストーリーのプレイヤーキャラクタースプライトに見えること
+────────────────────
+【キャラクター構造仕様】
+・頭部＋ヘア：全体の60〜65%
+・胴体：15〜18%
+・脚：20〜25%
+・2〜2.3頭身
+・35〜45度クォータービュー
+・両目が見える正面寄りの角度
+・ほぼ平面的な2Dスプライト顔
+・目は顔の下部に配置
+・目の間隔は広め
+・横に広い平らな目
+・大きな瞳
+・瞳のハイライトあり
+・鼻の表現禁止
+・非常に小さな口
+・柔らかいチーク
+・首の表現禁止（頭が胴体に直結）
+・顎の下からすぐ衣装が始まる
+
+ヘアスタイル
+・キャラクターのアイデンティティの核心
+・頭部より大きなボリューム
+・シルエット優先
+・毛束の表現は最小限
+・上部にハイライトあり
+
+身体
+・非常に小さな胴体
+・短い腕
+・短い脚
+・シンプルな円筒形の四肢
+・関節表現は最小限
+
+装備レイヤー構造
+Hair / Hat / Face Accessory / Top / Bottom
+Shoes / Cape / Weapon
+
+ポーズ
+・立ちポーズ（キャラクター選択画面風）
+・ジャンプ禁止
+・戦闘ポーズ禁止
+・アクション演出禁止
+────────────────────
+【ピクセルレンダリング仕様】
+目標：32〜64pxのゲームスプライトを拡大表示した雰囲気
+
+・低解像度ゲームスプライト
+・塊感のあるピクセル構造
+・グリッド整列ピクセルアート
+・ピクセルブロックが見える
+・クリーンな1pxアウトライン
+・限定カラーパレット
+・フラットカラーシェーディング
+・最小限のシェーディング
+・ディザリング禁止
+・スムーズグラデーション禁止
+・エアブラシ効果禁止
+
+【禁止スタイル】
+ポケモン風 / テラリア風 / スターデューバレー風
+リアル系 / 3Dレンダリング / イラスト風
+アニメイラスト / デジタルペインティング
+HD画質ピクセルアート / 滑らかなグラデーション
+────────────────────
+【出力条件】
+・キャンバスサイズ：1080×1080
+背景：純白（#FFFFFF）
+・キャラクター1体のみ
+・全身表示
+・中央配置
+・キャンバス高さの約75%を占める
+・テキスト・ロゴ・透かし禁止
+・背景オブジェクト禁止
+・地面禁止
+────────────────────
+キャラクターを実際のメイプルストーリープレイヤーアバタースプライトとして生成してください。
+汎用的なピクセルアートキャラクターではなく、
+添付画像をメイプルストーリー風に変換した結果に見えること。
+```
+
+**来源：** [@ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』](https://x.com/ChatgptAIskill/status/2064996314015015378) | 2026-06-11
+
+---
+

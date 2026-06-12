@@ -2829,3 +2829,288 @@ An {argument name="tree size" default="ancient, towering"} tree with massive twi
 
 ---
 
+### 🎨 例 1093：粗犷油画风格插画
+
+![粗犷油画风格插画](../images/%E7%B2%97%E7%8A%B7%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+『極めて筆致の荒い、抽象画ともとれるような、{argument name="主題" default="白いワンピースを着た猫耳少女と古い街角"}の{argument name="スタイル" default="手描き風"}イラストを見てみたいです。Midjourney 風の油絵っぽいガッとしたデジタルイラストを生成できますか？』
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2065192225525608911) | 2026-06-11
+
+---
+
+### 🎨 例 1103：原宿甜美 Lolita 与和风哥特咖啡馆
+
+![原宿甜美 Lolita 与和风哥特咖啡馆](../images/%E5%8E%9F%E5%AE%BF%E7%94%9C%E7%BE%8E%20Lolita%20%E4%B8%8E%E5%92%8C%E9%A3%8E%E5%93%A5%E7%89%B9%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节高度丰富的竖版动漫插画，背景设定在阳光明媚的原宿时尚街头，位于柔和色调的精品店和哥特风时装店前。画面中需精确展示两名年轻女性坐在小圆玻璃咖啡桌旁：左侧是一位甜美 Lolita 少女，留着 {argument name="left character hair color" default="金色"} 双马尾螺旋卷，佩戴超大号柔和色蕾丝蝴蝶结，身穿粉紫色相间的 Angelic Pretty 风格荷叶边连衣裙，戴着蕾丝手套，穿着粉色厚底鞋，身旁放着柔和色调的购物袋；右侧是一位和风哥特少女，留着 {argument name="right character hair color" default="带有紫色挑染的长黑发"}，佩戴饰有红色流苏的华丽花卉发簪，身穿黑色和服风格的哥特 Lolita 连衣裙，带有紫色花卉图案、透明蕾丝袖、束腰带和叠戴项链，穿着黑色厚底靴，身旁放着一个深色的 Atelier Pierrot 购物袋。两人的面部均应被柔和的方形模糊块遮挡，如同街拍中被匿名处理的效果。桌上必须包含四种清晰可见的甜点/饮品：1) 一块带有心形装饰的草莓奶油蛋糕；2) 一杯高耸的抹茶芭菲，配有抹茶冰淇淋、麻薯和红豆；3) 一杯粉色奶油苏打或草莓漂浮汽水，配有樱桃和吸管；4) 一份折叠的彩虹可丽饼，淋有巧克力酱和糖针。背景中需包含五个清晰可辨的招牌：1) 一个写有“Angelic Pretty”的粉色心形店招；2) 一个写有“HARAJUKU”的街道拱门；3) 一个写有“ATELIER PIERROT”的黑色店招；4) 一个绘有心形和甜点图案的黑板咖啡菜单；5) 一个黑色的和风哥特招牌，上面印有巨大的汉字“和”以及单词“GOTHIC”。采用梦幻般的 GPT-image-2 动漫美学，展现精致的蕾丝、丝带、珠宝、玻璃反光、阳光、粉色系店面、拥挤的步行街景深、蓝天以及高档时尚杂志的构图。摄像机角度略高于桌面，采用 2:3 竖构图，人物填充前景，甜点位于中心，原宿街道向背景延伸。风格应精致、明亮、超细节、可爱且优雅，无水印，且桌旁不得有其他多余人物。
+
+[English]
+Create a highly detailed vertical anime illustration set on a sunny Harajuku fashion street, in front of pastel boutique storefronts and gothic fashion shops. Show exactly two young women seated at a small round glass café table: on the left, a sweet lolita girl with {argument name="left character hair color" default="blonde"} twin-drill pigtails, oversized pastel lace bows, a frilly pink-and-lavender Angelic Pretty style dress, lace gloves, pink platform shoes, and pastel shopping bags; on the right, a wa-gothic girl with {argument name="right character hair color" default="long black hair with purple highlights"}, an ornate floral kanzashi hairpiece with red tassels, a black kimono-inspired gothic lolita dress with purple floral patterns, sheer lace sleeves, corset belts, layered necklaces, black platform boots, and a dark Atelier Pierrot shopping bag. Both faces should be obscured by soft square blur blocks, as if anonymized in a street snapshot. The table must contain exactly four visible desserts/drinks: 1) a heart-topped strawberry shortcake on a plate, 2) a tall matcha parfait with green soft serve, mochi and red bean, 3) a pink cream soda or strawberry float with a cherry and straw, and 4) a folded rainbow crepe drizzled with chocolate and sprinkles. Include exactly five prominent readable background signs: 1) a pink heart shop sign reading “Angelic Pretty,” 2) a street arch reading “HARAJUKU,” 3) a black shop sign reading “ATELIER PIERROT,” 4) a chalkboard café menu sign with hearts and dessert items, and 5) a black wa-gothic sign with the large Japanese character “和” and the word “GOTHIC.” Use a dreamy GPT-image-2 anime aesthetic with intricate lace, ribbons, jewelry, glass reflections, sunlight, pastel pink storefronts, crowded pedestrian street depth, blue sky, and high-fashion magazine composition. Camera angle is slightly above table height, vertical 2:3 framing, characters filling the foreground, detailed desserts centered, Harajuku street receding into the background. Style should be polished, luminous, hyper-detailed, cute yet elegant, with no watermark and no extra characters seated at the table.
+```
+
+**来源：** [@ろは9739](https://x.com/roha9739/status/2065109240596062387) | 2026-06-11
+
+---
+
+### 🎨 例 1111：霓虹涂鸦画廊快照
+
+![霓虹涂鸦画廊快照](../images/%E9%9C%93%E8%99%B9%E6%B6%82%E9%B8%A6%E7%94%BB%E5%BB%8A%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的“霓虹涂鸦画廊快照”风格图像。主体：[SUBJECT]。主体动作：[SUBJECT_ACTION]。道具或产品：[PRODUCT_OR_PROP]。地点：[kashmir]。背景元素：[wooden interior ]。主要手写文字：“[Focus mode on]”。次要手写文字：“[keep going]”。强调符号：[ACCENT_SYMBOL]。服装风格：[WARDROBE_STYLE]。以一张写实的手机抓拍照片作为基础图层。场景应显得具体且普通：可见的墙壁、艺术品、架子、标签、桌子、灯具、海报、人群、包袋、阴影、颗粒感以及不完美的手机手持构图。在照片上方直接绘制一层醒目的数字标记。用粗犷的亮粉色轮廓和青色偏移光晕包裹住主要主体。在轮廓周围添加黄橙色的怪物尖刺、角、射线、鳍或太阳光芒形状。在画面周围散布粗糙的手绘符号：星星、爪印、蜘蛛网边角、光环、抽象眼睛、植物、花朵、涂鸦下划线、计分符号、箭头、爱心和贴纸状的斑点。在空白区域放置粗糙的大写手写标记文字，使用白色、黄色或亮绿色。文字应感觉有趣、个性化、随性且带有学生气息。保持写实抓拍照片与混乱手工涂鸦之间的对比。避免出现水印、用户名、平台 Logo、创作者 ID、应用标记、二维码、纯净的矢量插画、完全绘制的背景、精致的广告排版、奢华的编辑风格、完美的排版、空旷且无菌的地点、可识别的名人以及细小且难以辨认的文字。 --- 变量 --- [ACCENT_SYMBOL] — 星星、爪印、蜘蛛网、光环、抽象眼睛、植物、花朵、下划线、箭头、计分符号或涂鸦 [BACKGROUND_ELEMENTS] — 真实的摄影细节，如墙面艺术、标签、架子、海报、桌子、灯具、标牌、人群、织物、阴影和手机拍摄的颗粒感 [LOCATION] — 艺术画廊、校园走廊、图书馆、工作室评论室、教室、夜市、咖啡馆、书店、博物馆或城市墙壁 [MAIN_TEXT] — 大型手绘标题或情感标语 [PRODUCT_OR_PROP] — 笔记本、托特包、咖啡、手机、耳机、速写本、夹克、零食、海报、相机、书或展览卡片 [SECONDARY_TEXT] — 小型手写笔记、重复词汇、短笑话、日期标签或学习批注 [SUBJECT] — 主要人物、群体、学生、艺术家、朋友、通勤者、购物者或安静的抓拍人物 [SUBJECT_ACTION] — 观看艺术品、学习、行走、等待、浏览、反应、躲藏、大笑或拿着道具 [WARDROBE_STYLE] — 休闲学生街头风、廓形衬衫、连帽衫、托特包、宽松长裤、夹克、耳机、运动鞋或艺术院校穿搭 --- 负面提示词 --- 水印、用户名、创作者 ID、平台 Logo、应用标记、二维码、纯净的矢量海报、完全绘制的场景、精致的广告排版、奢华的编辑摄影、无菌的工作室、完美的排版、完美的贴纸页、细微的涂鸦、空旷的背景、企业吉祥物、可识别的名人、真实的公众人物、细小且难以辨认的文字
+
+[English]
+Create a 9:16 image in the "Neon Doodle Gallery Snapshot" style. Subject: [SUBJECT]. Subject action: [SUBJECT_ACTION]. Prop or product: [PRODUCT_OR_PROP]. Location: [kashmir]. Background elements: [wooden interior ]. Main handwritten text: "[Focus mode on]". Secondary handwritten text: "[keep going]". Accent symbol: [ACCENT_SYMBOL]. Wardrobe style: [WARDROBE_STYLE]. Use a realistic candid phone-photo as the base layer. The setting should feel specific and ordinary: visible walls, art, shelves, labels, tables, lamps, posters, people, bags, shadows, grain, and imperfect handheld framing. Draw a loud digital marker layer directly on top of the photo. Wrap the main subject with a thick hot-pink contour and a cyan offset glow. Add yellow-orange monster spikes, horns, rays, fins, or sunburst shapes around the silhouette. Scatter rough hand-drawn symbols around the frame: stars, paw prints, spiderweb corners, halos, abstract eyes, plants, flowers, scribble underlines, tally marks, arrows, hearts, and sticker-like blobs. Place rough uppercase handwritten marker text in open areas, using white, yellow, or lime green. The text should feel funny, personal, distracted, and student-made. Preserve the contrast between a real candid photo and chaotic handmade doodles. Avoid watermarks, usernames, platform logos, creator IDs, app marks, QR codes, clean vector-only illustration, fully illustrated backgrounds, polished ad layout, luxury editorial styling, perfect typography, empty sterile locations, identifiable celebrities, and tiny unreadable text. --- VARIABLES --- [ACCENT_SYMBOL] — star, paw print, spiderweb, halo, abstract eye, plant, flower, underline, arrow, tally mark, or scribble [BACKGROUND_ELEMENTS] — real photo details such as wall art, labels, shelves, posters, tables, lamps, signage, crowds, fabric, shadows, and phone-camera grain [LOCATION] — art gallery, campus hallway, library, studio critique room, classroom, night market, cafe, bookstore, museum, or city wall [MAIN_TEXT] — large hand-drawn caption or emotional headline [PRODUCT_OR_PROP] — notebook, tote bag, coffee, phone, headphones, sketchbook, jacket, snack, poster, camera, book, or exhibition card [SECONDARY_TEXT] — small handwritten notes, repeated words, short joke, date-like label, or study annotation [SUBJECT] — main person, group, student, artist, friend, commuter, shopper, or quiet candid figure [SUBJECT_ACTION] — looking at art, studying, walking, waiting, browsing, reacting, hiding, laughing, or holding a prop [WARDROBE_STYLE] — casual student streetwear, oversized shirt, hoodie, tote bag, loose trousers, jacket, headphones, sneakers, or art-school layers --- NEGATIVE PROMPT --- watermark, username, creator ID, platform logo, app mark, QR code, clean vector poster, fully illustrated scene, polished advertising layout, luxury editorial shoot, sterile studio, perfect typography, perfect sticker sheet, subtle doodles, empty background, corporate mascot, identifiable celebrity, real public figure, tiny unreadable text
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2065099049938878503) | 2026-06-11
+
+---
+
+### 🎨 例 1130：蒙面哥特王座邂逅
+
+![蒙面哥特王座邂逅](../images/%E8%92%99%E9%9D%A2%E5%93%A5%E7%89%B9%E7%8E%8B%E5%BA%A7%E9%82%82%E9%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个以 {argument name="theme" default="当面具被摘下时"} 为主题的黑暗电影质感奇幻场景：采用全身垂直构图，背景设在华丽的哥特式王座厅内。左侧站着一位高贵的盔甲女性，面对着右侧一位身材高大的野蛮人战士。女性拥有一头飘逸的 {argument name="hair color" default="金黄色"} 波浪长发，身穿合身的抛光银金色雕花板甲，带有鳞片细节、金属手套，以及拖地的浅色刺绣披风。她温柔地向上伸出一只手，触碰或摘下男人脸上华丽的冠状面具或头饰，营造出一种亲密而紧张的时刻。男人身材高大魁梧，留着湿漉漉的黑色长发，赤裸的上身带有伤疤或纹路，佩戴深色皮革金属护腕，穿着粗犷的黑色破旧短裙或战裙，脚蹬重靴，姿态强壮且坚毅。两人的面部应刻意用柔软的矩形遮挡块或阴影区域遮盖，以保持匿名感和神秘感。背景：一座宏伟的教堂式王座大厅，拥有高耸的大理石柱、错综复杂的黑金巴洛克装饰，身后中心设有一座凸起的石制王座和台阶，两侧摆放着带有微弱烛光的烛台，光亮的大理石地面反射着人物和烛光。光影：戏剧性的低调明暗对比，带有温暖的金色高光，深邃的阴影，盔甲和肌肉上的轮廓光，高度细腻的写实奇幻概念艺术，8k 分辨率，绘画级写实风格，电影级景深，无文字，无水印，无额外角色。
+
+[English]
+Create a dark cinematic fantasy scene titled around the idea of {argument name="theme" default="When the mask is removed"}: a full-body vertical composition inside an opulent gothic throne room, where a regal armored woman stands on the left facing a tall barbarian-like warrior man on the right. The woman has long flowing {argument name="hair color" default="golden blonde"} wavy hair, wears a form-fitting polished silver-gold engraved plate armor suit with scale-like details, metal gloves, and a long pale embroidered cape trailing to the floor. She gently reaches upward with one hand to touch or remove an ornate crown-like mask or headpiece from the man's face, creating an intimate tense moment. The man is very tall and muscular with long dark wet hair, scarred or patterned bare torso, dark leather-and-metal bracers, a rugged black tattered skirt or war kilt, heavy boots, and a powerful stoic posture. Both faces should be deliberately obscured by soft rectangular censor-like blocks or shadowed mask areas, preserving anonymity and mystery. Background: a grand cathedral-like throne hall with towering marble columns, intricate black-and-gold baroque ornamentation, a raised stone throne and stairs centered behind them, candelabras with small flames on both sides, and a glossy dark marble floor reflecting the characters and candlelight. Lighting: dramatic low-key chiaroscuro with warm gold highlights, deep shadows, rim light on armor and muscles, highly detailed realistic fantasy concept art, 8k, painterly-photorealistic, cinematic depth, no text, no watermark, no extra characters.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2065067710158196941) | 2026-06-11
+
+---
+
+### 🎨 例 1137：蹲姿机甲少女武士刀
+
+![蹲姿机甲少女武士刀](../images/%E8%B9%B2%E5%A7%BF%E6%9C%BA%E7%94%B2%E5%B0%91%E5%A5%B3%E6%AD%A6%E5%A3%AB%E5%88%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张 3:4 垂直构图的动漫机甲少女插画，背景为干净的白色，由带有切角和侧边刻度的橙色细线科幻 HUD 边框环绕。画面中仅展示一名处于低位侧蹲姿势的动漫机甲少女，身体前倾，目光向下，留着中长直发（{argument name="hair color" default="brown"}），头发部分遮住脸部；在面部中央区域放置一个不透明的棕褐色矩形遮挡块。她身穿白色水手服风格校服，袖口卷起，搭配深海军蓝领子和围巾、橙色领带以及深灰色百褶短裙。添加五个主要的机械元素：一个包裹在头部侧面和后方的超大号灰橙色赛博头盔/耳罩，两只分段式机械手套，以及两组厚重的灰白橙色机械腿/足部组件。她左侧插着一把垂直的长武士刀；武士刀配有白棕色菱形纹路刀柄、机械护手、银色刀身以及橙灰色的科技配件。她的左大腿覆盖着深色装甲长筒袜或腿甲，上面带有包括日式字符在内的白色模板标记，露出的上大腿具有动漫风格的光泽高光。采用清晰的赛尔渲染线条艺术、柔和的渐变、精细的硬表面机甲面板、橙色点缀色，并对后腿进行浅景深模糊处理。包含两个可见的徽标/文字标记：左上角的小型橙色徽标（{argument name="top left logo" default="MECHA GIRLS"}），带有微小的 Q 版/机甲少女图标；右下角为橙色圆形科技徽标，文字内容为 {argument name="bottom right logo" default="IONEN"}。在底部中心添加微小的橙色文字“MECHA GIRL”。保持构图动态，紧凑裁剪至角色本身，不包含额外角色、场景或其他武器。
+
+[English]
+Create a vertical 3:4 anime mecha-girl illustration on a clean white background, framed by a thin orange sci-fi HUD border with clipped corners and small side ticks. Show exactly one teenage anime action mecha girl crouching in a low side pose, leaning forward and staring downward, with straight medium-length {argument name="hair color" default="brown"} hair partially covering her face; place a flat opaque tan rectangular censor block over the central face area. She wears a white sailor-style school blouse with rolled sleeves, a dark navy collar and scarf, an orange necktie, and a short pleated dark gray skirt. Add exactly five major mechanical elements: one oversized gray-and-orange cybernetic helmet/ear visor wrapped around the side and back of her head, two segmented robotic gauntlet hands, and two bulky gray-white-orange mechanical leg/foot assemblies. She grips exactly one long vertical katana planted beside her body on the left; the katana has a white-and-brown diamond-pattern handle, mechanical guard, silver blade, and orange/gray tech fittings. Her left thigh is covered by a dark armored high stocking or leg plate with white stencil markings including Japanese-style characters, and her exposed upper thigh is glossy with anime highlights. Use crisp cel-shaded line art, soft gradients, detailed hard-surface mecha panels, orange accent color, and shallow depth-of-field blur on the rear leg. Include exactly two visible logos/text marks: top-left small orange logo reading {argument name="top left logo" default="MECHA GIRLS"} with a tiny chibi/mecha-girl icon, and bottom-right orange circular tech emblem with text reading {argument name="bottom right logo" default="IONEN"}. Add tiny bottom-center orange text reading MECHA GIRL. Keep the composition dynamic, cropped close to the character, with no extra characters, no scenery, and no additional weapons.
+```
+
+**来源：** [@てんねん](https://x.com/munou_ac/status/2065057209705267275) | 2026-06-11
+
+---
+
+### 🎨 例 1141：手写数据结构作业照片
+
+![手写数据结构作业照片](../images/%E6%89%8B%E5%86%99%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%BD%9C%E4%B8%9A%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的手机拍摄照片，画面为木质桌面上的一页横线笔记本，展示一份手写的软件/数据结构作业答案，使用略显凌乱但真实的黑色中性笔笔迹。页面标题应居中置于顶部，格式为 {argument name="page title" default="第五章答案"}。使其看起来像是一张实际提交的课程作业照片，包含细微瑕疵、笔迹不匀、轻微的纸张卷曲、阴影和透视畸变。
+
+画布与相机：竖向 3:4 照片，从上方以微小角度拍摄。笔记本页面主体占据大部分画面，略微倾斜。光线为温暖的室内桌面光，带有柔和阴影，呈现真实的手机拍摄效果，而非平整的扫描件。
+
+场景细节：使用一本打开的笔记本，纸张带有浅灰色横线和圆角。左侧边缘可见部分前一页纸。笔记本放置在深棕色木质桌面上。在右侧，靠近右下边缘垂直放置一支黑色透明外壳中性笔，右上角放置一块带有灰色污渍的小型白色橡皮擦。在橡皮擦周围散落一些细小的橡皮屑或纸屑。纸张保持米白色，带有细微纹理。
+
+手写内容：使用中文手写笔记，混合数学公式和 C 语言风格伪代码。笔迹应清晰可辨，但刻意保持略微随意和不均匀，间距自然，偶尔出现倾斜变化。准确书写 3 个编号的答案部分：
+
+1. 第 1 部分包含 2 个子项：
+   - “(1) 叶结点数 = (k-1)m + 1。”
+   - “(2) 最多结点数 = (k^h - 1)/(k - 1)，最少结点数 = k(h-1)+1。”
+
+2. 第 2 部分定义 WPL 并包含简短说明及 5 行伪代码。书写：
+   - “WPL：遍历二叉树，遇到叶子就加 weight × depth，”
+   - “根深度为 0。”
+   - “代码大意:”
+   在其下方居中或缩进书写以下 5 行代码：
+   - “if(root == NULL) return 0;”
+   - “if(!root->left && !root->right)”
+   - “return root->weight * depth;”
+   - “return WPL(root->left, depth+1) +”
+   - “WPL(root->right, depth+1);”
+
+3. 第 3 部分包含 5 行手写内容，描述二叉树与森林的转换：
+   - “二叉树根为 A，左子树 B-D-E-H,”
+   - “右子树 C-F，其中 F下有 I、G，I下有 M,”
+   - “M下有 K，G下有 J，J下有 L。”
+   - “森林按左孩子右兄弟关系转换即可。”
+   编号“3.”应从左侧页边距开始，文字延续至页面下半部分。
+
+视觉风格：照片级真实感，自然的阴影，真实的横线纸，黑色墨水，随意的学生笔迹。笔迹应看起来是手写的，而非打印或排版的。笔迹与横线之间存在轻微的不对齐效果更佳。
+
+约束：不要添加额外的图表、印章、水印、装饰图形或打印字体。保持 3 个编号部分，第 1 部分包含 2 个子项，第 2 部分包含 5 行伪代码，且仅包含所列的中文作业文本。
+
+[English]
+Goal: Create a realistic smartphone photo of a lined notebook page on a wooden desk, showing a handwritten software/data-structure homework answer sheet in slightly messy but believable black gel-pen handwriting. The page title should be centered near the top as {argument name="page title" default="第五章答案"}. Make it look like an actual photo submitted for class, with small imperfections, uneven writing, mild page curvature, shadows, and perspective distortion.
+
+Canvas and camera: Vertical 3:4 photo, shot from above at a slight angle. The main notebook page fills most of the frame, tilted very slightly. The lighting is warm indoor desk lighting, with soft shadows and a realistic phone-camera look, not a flat scan.
+
+Scene details: Use an open notebook with pale gray horizontal ruled lines and rounded page corners. A partial previous page is visible along the left edge. The notebook rests on a medium-brown wooden desk. On the right side, place a black transparent-bodied gel pen vertically near the lower-right edge, and a small white eraser with gray smudges near the upper-right corner. Add a few tiny eraser crumbs or paper debris scattered around the eraser. Keep the page off-white with subtle texture.
+
+Handwritten content: Use Chinese handwritten notes mixed with math and C-style pseudocode. The handwriting should be neat enough to read but intentionally slightly casual and uneven, with natural spacing and occasional slant variation. Write exactly 3 numbered answer sections:
+
+1. Section 1 contains exactly 2 subitems:
+   - “(1) 叶结点数 = (k-1)m + 1。”
+   - “(2) 最多结点数 = (k^h - 1)/(k - 1)，最少结点数 = k(h-1)+1。”
+
+2. Section 2 defines WPL and contains a short explanation plus exactly 5 pseudocode lines. Write:
+   - “WPL：遍历二叉树，遇到叶子就加 weight × depth，”
+   - “根深度为 0。”
+   - “代码大意:”
+   Then center or indent the following 5 code lines beneath it:
+   - “if(root == NULL) return 0;”
+   - “if(!root->left && !root->right)”
+   - “return root->weight * depth;”
+   - “return WPL(root->left, depth+1) +”
+   - “WPL(root->right, depth+1);”
+
+3. Section 3 contains exactly 5 handwritten lines describing binary tree and forest conversion:
+   - “二叉树根为 A，左子树 B-D-E-H,”
+   - “右子树 C-F，其中 F下有 I、G，I下有 M,”
+   - “M下有 K，G下有 J，J下有 L。”
+   - “森林按左孩子右兄弟关系转换即可。”
+   The section number “3.” should start on the left margin, with the text continuing across the lower half of the page.
+
+Visual style: Photorealistic, natural shadows, realistic lined paper, black ink, casual student handwriting. The writing should look handwritten rather than printed or typeset. Slightly imperfect alignment with ruled lines is desirable.
+
+Constraints: Do not add extra diagrams, stamps, watermarks, decorative graphics, or typed fonts. Keep exactly 3 numbered sections, exactly 2 subitems in section 1, exactly 5 pseudocode lines in section 2, and the listed Chinese homework text only.
+```
+
+**来源：** [@余温](https://x.com/gkxspace/status/2065051260143763735) | 2026-06-11
+
+---
+
+### 🎨 例 1159：巴黎上空的史诗级法国雄鸡
+
+![巴黎上空的史诗级法国雄鸡](../images/%E5%B7%B4%E9%BB%8E%E4%B8%8A%E7%A9%BA%E7%9A%84%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%B3%95%E5%9B%BD%E9%9B%84%E9%B8%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具戏剧性、写实风格的电影级奇幻场景，展现夜晚巴黎的一场盛大庆典。构图采用竖屏、广角，细节极其丰富：埃菲尔铁塔在背景中央熠熠生辉，凯旋门位于左侧前景，密集的群众填满了画面下半部分。人群挥舞着法国三色旗，高举双臂，手持信号弹，周围环绕着红、白、蓝三色烟雾。在城市上空，由翻滚的云雾和彩色烟雾幻化出一只巨大的雄鸡，象征着法国：其头部和鸡冠位于右上方，呈现鲜艳的红色；身体位于中心，呈现亮白色；飘逸的尾羽位于左上方，呈现深蓝色。夜空中点缀着烟花，探照灯光束斜向射向天空，城市灯火辉煌，火花四溅，薄雾弥漫，天空呈现从日落到夜晚的渐变色。采用奢华、史诗般的高预算视觉风格，具备超写实纹理、体积光效果、强烈的对比度、锐利的建筑细节以及爱国主义色彩。画面中无文字、无水印、无边框。
+
+[English]
+Create an ultra-dramatic, photorealistic cinematic fantasy scene of Paris during a massive French celebration at night. The composition is vertical, wide-angle, and densely detailed: the Eiffel Tower stands glowing in the center background, the Arc de Triomphe anchors the left foreground, and a packed crowd fills the entire lower half of the image. The crowd is waving many French tricolor flags, raising arms, holding flares, and surrounded by red, white, and blue smoke. Above the city, form an enormous rooster made from billowing clouds and colored smoke, symbolizing France: its head and comb are vivid red on the upper right, its body is bright white in the center, and its sweeping tail feathers are deep blue on the upper left. Add fireworks in the night sky, searchlight beams cutting diagonally upward, glowing city lights, sparks, haze, and a sunset-to-night gradient sky. Use luxurious, epic, high-budget visual styling with hyperreal textures, volumetric lighting, intense contrast, sharp architectural detail, and patriotic colors. No text, no watermark, no borders.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2065007382628028532) | 2026-06-11
+
+---
+
+### 🎨 例 1160：蓝雨法师角色设计
+
+![蓝雨法师角色设计](../images/%E8%93%9D%E9%9B%A8%E6%B3%95%E5%B8%88%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创作一个简洁的全身动漫角色设计，居中且无背景。主体是一位娇小的奇幻少女，名为 {argument name="character name" default="未命名的蓝发法师"}，采用精致的日系抽卡游戏概念艺术风格绘制，线条清晰深邃，采用柔和的赛璐珞阴影，皮肤白皙，表情平静且略带困倦。她拥有 {argument name="hair color" default="极浅的冰蓝色"} 长叠层发型：凌乱的刘海遮住部分额头和一只眼睛的边缘，肩部长度的侧发，向左飘逸的长后发，以及少量卷曲的碎发；眼睛为半闭的淡蓝色。为她穿上一套精致的蓝白旅行法师服装：深海军蓝连帽斗篷，配有宽领、绿松石蓝外层镶板、奶油色和金色饰边、白色云朵图案以及许多小雨滴装饰；斗篷下穿着白色高领衬衫、深色修身紧身胸衣、叠层白色短裙、浅蓝色外裙片以及斜跨腰带。添加 3 个醒目的悬挂配饰：右臀部挂 1 个小型黄铜蓝色灯笼，腰间挂 1 个圆形怀表挂饰，正前方中心挂 1 个大型蓝色泪滴水晶吊坠。服装主题应体现雨、水和云，细节优雅且奇幻，不宜过度闪亮。使用 {argument name="main outfit palette" default="海军蓝、天蓝、白色、奶油色和柔和金色"} 的柔和色调。让她以放松的正面四分之三视角站立，双臂大部分隐藏在斗篷下，膝盖在裙摆下方可见，目光直视前方，营造出一种安静忧郁的氛围。保持画面整洁，高分辨率，角色设定图质量，无文字，无水印，无背景物体。
+
+[English]
+Create a clean full-body anime character design on a plain white background, centered with no scenery. The subject is a petite young fantasy girl named {argument name="character name" default="unnamed blue-haired mage"}, drawn in a polished Japanese gacha-game concept-art style with crisp dark linework, soft cel shading, pale skin, and a calm slightly sleepy expression. She has {argument name="hair color" default="very light icy blue"} long layered hair: messy bangs covering part of the forehead and one eye edge, shoulder-length side locks, a long flowing back section trailing to the left, and small curled flyaway strands; her eyes are pale blue and half-lidded. Dress her in an elaborate blue-and-white traveler mage outfit: a deep navy hooded capelet with a wide collar, turquoise-blue outer panels, cream and gold trim, white cloud motifs, and many small raindrop decorations; beneath it, a white high-collar blouse, dark fitted bodice, layered short white skirt, pale blue overskirt panels, and a diagonal belt. Add exactly 3 prominent hanging accessories: 1 small brass-and-blue lantern attached at the right hip, 1 round pocket-watch charm hanging near the waist, and 1 large blue teardrop crystal pendant hanging at the center front. The costume theme should feel like rain, water, and clouds, with elegant fantasy details but not overly shiny. Use a soft color palette of {argument name="main outfit palette" default="navy blue, sky blue, white, cream, and muted gold"}. Pose her standing upright in a relaxed front-facing three-quarter view, arms mostly hidden under the cape, knees visible below the skirt, gaze directed forward with a quiet melancholic mood. Keep the illustration uncluttered, high resolution, character sheet quality, no text, no watermark, no background objects.
+```
+
+**来源：** [@SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN/status/2065006622565614028) | 2026-06-11
+
+---
+
+### 🎨 例 1161：抽象猫耳少女与温顺猫咪画作
+
+![抽象猫耳少女与温顺猫咪画作](../images/%E6%8A%BD%E8%B1%A1%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E4%B8%8E%E6%B8%A9%E9%A1%BA%E7%8C%AB%E5%92%AA%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+極めて筆致の荒い、抽象画ともとれるような、{argument name="服装" default="白いワンピース"}を着た{argument name="主体" default="猫耳少女と優しい猫"}の手描き風イラストを見てみたいです。{argument name="スタイル" default="Midjourney 風の油絵っぽいガッとしたデジタルイラスト"}を生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2065003205348741128) | 2026-06-11
+
+---
+
+### 🎨 例 1166：星空沙漠咖啡馆叙事
+
+![星空沙漠咖啡馆叙事](../images/%E6%98%9F%E7%A9%BA%E6%B2%99%E6%BC%A0%E5%92%96%E5%95%A1%E9%A6%86%E5%8F%99%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+星降るカフェと、{argument name="旅人の出身" default="ジェノバ"}から来た少年
+
+{argument name="場所" default="砂漠の夜に不時着した飛行機カフェ"}へ
+今夜はジェノバから来た小さな旅人が立ち寄りました
+
+病気の母をたずねて
+遠い国、アルゼンチンへ向かう途中
+
+温かい一杯を待つあいだ
+{argument name="相棒" default="白い小さな相棒"}が操り人形を動かして
+少しだけ笑わせようとしています
+
+猫店長はそれに負けじと
+両手で小さな星を掲げています
+
+長い旅の途中でも
+こんな夜がひとつあるだけで
+また歩き出せる気がします
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2064998202001297887) | 2026-06-11
+
+---
+
+### 🎨 例 1185：柔和色调魔法少女公主法师
+
+![柔和色调魔法少女公主法师](../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%85%AC%E4%B8%BB%E6%B3%95%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身垂直构图的动漫魔法少女角色插画，背景为干净的白色，带有柔和的闪光和几片飘落的粉色花瓣。角色为 {argument name="character name" default="一位面部留白的柔和色调公主法师"}，居中并面向前方，呈现优雅的人偶般姿态，拥有极长的飘逸 {argument name="hair color" default="银薰衣草色"} 双马尾，发梢向身体外侧卷曲。在面部区域放置一个平面的淡粉色正方形，刻意遮盖所有五官。为她穿上一件华丽的 {argument name="dress color palette" default="白色、腮红粉和薰衣草色"} 洛丽塔公主裙：泡泡袖、高褶皱领、水手风领口、层叠荷叶边胸衣、宽大的亮面粉色腰封、短款多层褶皱前裙，以及一件戏剧性的前开式高低摆长裙，两侧垂下巨大的薰衣草色内衬层叠荷叶边。搭配白色过膝袜（带蕾丝边）、粉色丝带吊带袜、白色长手套和粉色系带厚底鞋。包含整整 14 个显眼的粉色蝴蝶结：宽檐帽上有 2 个超大蝴蝶结，胸前 2 个，袖口 2 个，腰后侧可见 1 个大蝴蝶结，裙摆两侧 2 个，大腿吊带 2 个，脚踝/鞋面 2 个，法杖上 1 个。给她戴上一顶巨大的褶皱女巫公主帽，装饰有羽毛、蕾丝、花朵和长长的粉色丝带。左手持一把华丽的魔法杖，由粉金色金属制成，带有翅膀、金银丝细工、星形尖端，顶部镶嵌一颗巨大的多面心形粉色水晶；在法杖下端增加一个悬挂的水晶饰品。采用精致的柔和水彩渲染、发光高光、细腻的线条艺术、半透明织物、珠光水晶、柔和的渐变，以及梦幻般的高细节日本 AI 插画风格。保持构图对称、空灵且非常明亮，画面中无文字、无水印，且无额外角色。
+
+[English]
+Create a full-body vertical anime magical-girl character illustration on a clean white background with soft sparkles and a few drifting pink petals. The character is {argument name="character name" default="a faceless pastel princess mage"}, centered and facing forward in an elegant doll-like pose, with extremely long flowing {argument name="hair color" default="silvery lavender"} twin-tail hair curling outward around the body. Place a flat pale pink square over the face area, intentionally covering all facial features. Dress her in an ornate {argument name="dress color palette" default="white, blush pink, and lavender"} lolita princess gown: puff sleeves, high frilled collar, sailor-like neckline, layered ruffle bodice, wide glossy pink waistband, short tiered frilly front skirt, and a dramatic high-low overskirt that opens in front and trails down on both sides into huge lavender-lined cascading ruffles. Add white thigh-high stockings with lace tops, pink ribbon garters, long white gloves, and pink lace-up platform shoes. Include exactly 14 prominent pink bows: 2 oversized bows on the wide-brimmed hat, 2 bows on the chest, 2 sleeve bows, 1 large back-waist bow visible at the sides, 2 large skirt-side bows, 2 thigh garter bows, 2 ankle/shoe bows, and 1 large bow on the staff. Give her a large frilly witch-princess hat decorated with feathers, lace, flowers, and long pink ribbons. In her left hand, place an ornate magical staff made of pink-gold metal with wings, filigree, a star tip, and a large faceted heart-shaped pink crystal at the top; add a dangling crystal ornament near the lower staff. Use delicate pastel watercolor rendering, luminous highlights, fine line art, translucent fabric, pearlescent crystals, soft gradients, and a dreamy high-detail Japanese AI illustration style. Keep the composition symmetrical, ethereal, and very bright, with no text, no watermark, and no extra characters.
+```
+
+**来源：** [@プレイヤー](https://x.com/xDrI15678/status/2064920326384079291) | 2026-06-11
+
+---
+
+### 🎨 例 1190：冰箱里的 Q 版小男孩
+
+![冰箱里的 Q 版小男孩](../images/%E5%86%B0%E7%AE%B1%E9%87%8C%E7%9A%84%20Q%20%E7%89%88%E5%B0%8F%E7%94%B7%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的奇幻场景，打开的冰箱变成了一个充满趣味的 {argument name="theme" default="冰雪仙境"}。中心坐着一个 {argument name="main character" default="开朗的小男孩"}，他面部轮廓柔和，留着浓密的深棕色波浪卷发，眼神明亮灵动，脸上挂着灿烂的笑容。他身穿白蓝条纹 T 恤，下穿浅米色长裤，舒适地盘腿坐在冰箱隔层上，周围环绕着冷藏食品和冰雪装饰。冰箱里塞满了逼真的牛奶瓶、新鲜水果、酸奶杯、奶酪轮、巧克力棒、汽水瓶、浆果以及装满彩色水果的玻璃罐。隔板上覆盖着白霜，边缘悬挂着细小的冰柱，清凉的蓝色灯光营造出沁人心脾的冰雪氛围。数十个 {argument name="miniature versions" default="同样男孩的可爱 Q 版迷你形象"} 分布在冰箱各处，与食物和冰块进行着有趣的互动。一些小男孩正顺着冰滑梯滑入装满冰块和水果的碗中，有的在冰凉的水果碗里游泳，有的在巨大的奶酪轮上攀爬，有的搬运着巧克力棒，有的用吸管喝着巨大的汽水瓶，有的在享用酸奶杯，还有的在冰块间嬉戏。
+
+[English]
+Ultra-realistic whimsical fantasy scene inside an open refrigerator transformed into a playful {argument name="theme" default="frozen wonderland"}. At the center sits a {argument name="main character" default="cheerful young boy"} with soft facial features, thick wavy dark-brown hair, bright expressive eyes, and a wide joyful smile. He wears a white-and-navy striped T-shirt and light beige pants, sitting cross-legged comfortably on a refrigerator shelf while surrounded by chilled foods and icy decorations. The refrigerator is fully stocked with realistic bottles of milk, fresh fruits, yogurt cups, cheese wheels, chocolate bars, soda bottles, berries, and glass jars filled with colorful fruits. Frost covers the shelves, tiny icicles hang from the edges, and cool blue lighting creates a refreshing icy atmosphere. Dozens of {argument name="miniature versions" default="adorable miniature chibi versions of the same boy"} are scattered throughout the fridge, each interacting playfully with the food and ice. Some tiny boys slide down an ice slide into a bowl filled with ice cubes and fruit, some swim in the icy fruit bowl, others climb giant cheese wheels, carry chocolate bars, drink from a giant soda bottle with straws, enjoy yogurt cups, and play among ice cubes.
+```
+
+**来源：** [@Harry Potter](https://x.com/mon010_de/status/2064914975018385585) | 2026-06-11
+
+---
+

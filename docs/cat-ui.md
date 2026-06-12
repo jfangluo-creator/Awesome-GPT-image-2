@@ -2510,3 +2510,183 @@ Visual style: Minimal Japanese business deck aesthetic, black and dark brown typ
 
 ---
 
+### 🖥️ 例 1095：多面板情绪状态网格
+
+![多面板情绪状态网格](../images/%E5%A4%9A%E9%9D%A2%E6%9D%BF%E6%83%85%E7%BB%AA%E7%8A%B6%E6%80%81%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+网格布局，面板之间有细窄的白色间隙，整个构图周围有精致的白色边框。简洁、现代的 UI 美学，每个图块均带有轻微的圆角。
+
+面板 1：{argument name="emotion one" default="愉悦（黄色）"}。暖黄色渐变。双臂高举过头。双眼紧闭。开怀大笑。高能量姿态。
+面板 2：{argument name="emotion two" default="震惊（蓝色）"}。蓝色渐变。双手捧脸。双眼圆睁。嘴巴微张。眉毛高挑。
+面板 3：{argument name="emotion three" default="严肃（红色）"}。纯红色背景。双臂交叉。眉头紧锁。双唇紧闭。深色连帽衫。
+面板 4：深情（粉色）。柔和的粉色渐变。怀抱一只棕色小狗。温柔微笑。舒适的针织毛衣。
+面板 5：自信（紫色）。紫色渐变。单手叉腰。轻微坏笑。印花 T 恤。轻松自然的站姿。
+面板 6：赞许（绿色）。绿色渐变。棒球帽和牛仔夹克。竖起大拇指。放松的微笑。
+面板 7：忧郁（灰色）。灰色渐变。双眼微微下垂。眉头轻微上扬。嘴角微微下撇。
+
+[English]
+Grid layout with thin white gaps between panels and a subtle outer white border around the entire composition. Clean, modern UI aesthetic with slight rounded corners on every tile.
+
+Panel 1: {argument name="emotion one" default="Joyful (Yellow)"}. Warm yellow gradient. Arms raised overhead. Eyes shut. Wide open laugh. High-energy pose.
+Panel 2: {argument name="emotion two" default="Shocked (Blue)"}. Blue gradient. Both hands cupping cheeks. Eyes wide open. Mouth agape. Eyebrows arched high.
+Panel 3: {argument name="emotion three" default="Stern (Red)"}. Solid red background. Arms folded. Brows furrowed. Lips pressed tight. Dark hoodie.
+Panel 4: Affectionate (Pink). Soft pink gradient. Cradling a small brown dog. Gentle smile. Cozy knit sweater.
+Panel 5: Confident (Purple). Purple gradient. One hand resting on hip. Slight smirk. Graphic tee. Easy, relaxed stance.
+Panel 6: Approving (Green). Green gradient. Baseball cap and denim jacket. Thumbs up. Relaxed smile.
+Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner brows slightly raised. Lips gently curved down.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065179623697306098) | 2026-06-11
+
+---
+
+### 🖥️ 例 1096：从草图到专业 UI 设计
+
+![从草图到专业 UI 设计](../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E4%B8%93%E4%B8%9A%20UI%20%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+我上传了一张应用草图，请创建一个真实的设计，但要采用 {argument name="style" default="AI Biznes Lab"} 的风格（参考颜色和字体）
+
+[English]
+wrzuciłem szkic aplikacji, zrób proszę real design, ale w styli {argument name="styl" default="AI Biznes Lab"} (chodzi o kolory i czcionki)
+```
+
+**来源：** [@miroburn](https://x.com/miroburn/status/2065177485034098918) | 2026-06-11
+
+---
+
+### 🖥️ 例 1113：AI 品牌指南生成 UI
+
+![AI 品牌指南生成 UI](../images/AI%20%E5%93%81%E7%89%8C%E6%8C%87%E5%8D%97%E7%94%9F%E6%88%90%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精致的截图风格 UI 模型，展示 AI 聊天或 Agent 工作区成功从 Markdown 文件生成品牌指南 Slides。
+
+画布：4:3 横向构图，约 1024×768。背景为深绿色切割垫网格，顶部和左侧边缘带有刻度标记，细薄的薄荷绿网格线，测量数值从 5 到 50，带有小刻度线和几条淡淡的对角辅助线。中心放置一个带有柔和阴影的大型圆角白色应用窗口，保留绿色网格作为边框可见。
+
+应用窗口布局：白色面板具有圆角和极简工具栏。左上角显示标题文本“Create brand guide slides”，后跟一个三点菜单。右上角包含 4 个小型工具栏图标：一个带有下拉箭头的深色方形图标、一个列表/设置图标、一个小矩形图标和一个分屏图标。工具栏下方有一条细水平分隔线。在聊天区域右上角附近，显示一个标有“DACOIT-DESIGN.md”的圆角附件卡片，下方是一个浅灰色用户消息气泡，内容为“Read this and generate a brand guide slides based on this”。在窗口最右侧添加一个细微的垂直滚动条。
+
+主要回复内容：在左中部区域，显示一行静音状态栏“Worked for {argument name="processing time" default="5m 3s"} ›”。在分隔线下方，显示回复文本：“Generated above using GPT image generation.” 然后是一段话：“It’s a single raster contact-sheet concept for six Dacoit brand-guide slides based on `DACOIT-DESIGN.md`: cover, brand signal, color system, typography, layout rules, and motion/footer. Tiny generated text can have minor artifacts, but the overall brand direction is captured.” 使用简洁的现代无衬线 UI 字体，黑色和灰色文本，宽裕的间距。
+
+嵌入式生成图像缩略图：在段落下方，放置一个圆角缩略图预览，展示六张品牌指南 Slides 的联系表。它必须包含 3×2 网格中的 6 个小型 Slide 面板。小型 Slide 的风格为粗犷的编辑品牌设计，采用棕褐色、焦橙色、黑色、奶油色和红色。计数并描绘六个可见的 Slide 主题：1) 带有巨大文本“DACOIT DESIGN CO”的封面 Slide，2) 带有“REBELLIOUS / EARTHY / DECLARATIVE”的品牌信号 Slide，3) 带有垂直色块的色彩系统 Slide，标记大致为 TAN、RED、INK、BLACK、SMOKE，4) 带有大字“WORDS BECOME ARCHITECTURE”的排版 Slide，5) 带有“DESIGN WITHOUT APOLOGY”的布局规则 Slide，6) 带有深色背景和“START A RIOT”的动态/页脚 Slide。微小的文本可能不完美，但大标签应该是可识别的。
+
+视觉风格：高保真产品截图，清爽的白色界面，细微的阴影，逼真的浏览器/应用外壳，极简的单色图标，清晰易读的文本，整洁的间距。背景应呈现出设计工作区或绘图垫的感觉。
+
+可自定义的来源/品牌详情：如果更改，请使用 {argument name="project title" default="Create brand guide slides"} 作为窗口标题。附件卡片和段落引用请使用 {argument name="file name" default="DACOIT-DESIGN.md"}。品牌指南主题请使用 {argument name="brand name" default="Dacoit"}。消息气泡文本请使用 {argument name="user request" default="Read this and generate a brand guide slides based on this"}。
+
+约束：不要添加人物、手部、浏览器地址栏、额外的弹出窗口、水印或不相关的 UI。保持仅有一个应用窗口、一个附件卡片、一个用户消息气泡、一个状态行、一个回复段落块和一个包含恰好六个小型 Slides 的嵌入式缩略图。
+
+[English]
+Goal: Create a polished screenshot-style UI mockup showing an AI chat or agent workspace successfully generating brand guide slides from a markdown file.
+
+Canvas: 4:3 landscape composition, approximately 1024×768. Background is a dark green cutting-mat grid with ruler markings around the top and left edges, thin mint grid lines, measurement numbers from 5 to 50, small tick marks, and a few faint diagonal guide lines. Center a large rounded white app window with a soft shadow, leaving the green grid visible as a border.
+
+App window layout: The white panel has rounded corners and a minimal toolbar. At top left, show the title text “Create brand guide slides” followed by a three-dot menu. At top right, include exactly 4 small toolbar icons: a dark square icon with a dropdown chevron, a list/settings icon, a small rectangle icon, and a split-panel icon. A thin horizontal divider runs under the toolbar. Near the upper right of the chat area, show a rounded attachment chip labeled “DACOIT-DESIGN.md”, then below it a light gray user message bubble reading “Read this and generate a brand guide slides based on this”. Add a subtle vertical scrollbar on the far right inside the window.
+
+Main response content: In the left-middle area, show a muted status line “Worked for {argument name="processing time" default="5m 3s"} ›”. Below a divider, show the response text: “Generated above using GPT image generation.” Then a paragraph: “It’s a single raster contact-sheet concept for six Dacoit brand-guide slides based on `DACOIT-DESIGN.md`: cover, brand signal, color system, typography, layout rules, and motion/footer. Tiny generated text can have minor artifacts, but the overall brand direction is captured.” Use clean modern sans-serif UI typography, black and gray text, generous spacing.
+
+Embedded generated image thumbnail: Under the paragraph, place one rounded-corner thumbnail preview of a six-slide brand-guide contact sheet. It must contain exactly 6 mini slide panels in a 3×2 grid. The style of the mini slides is gritty editorial branding with tan, burnt orange, black, cream, and red. Count and depict the six visible slide topics: 1) cover slide with huge text “DACOIT DESIGN CO”, 2) brand signal slide with “REBELLIOUS / EARTHY / DECLARATIVE”, 3) color system slide with vertical swatches labeled roughly TAN, RED, INK, BLACK, SMOKE, 4) typography slide with large words “WORDS BECOME ARCHITECTURE”, 5) layout rules slide with “DESIGN WITHOUT APOLOGY”, 6) motion/footer slide with dark background and “START A RIOT”. The tiny text may be imperfect but the large labels should be recognizable.
+
+Visual style: High-fidelity product screenshot, crisp white interface, subtle shadows, realistic browser/app chrome, minimal monochrome icons, sharp readable text, clean spacing. The background should feel like a design workspace or drafting mat.
+
+Customizable source/brand details: Use {argument name="project title" default="Create brand guide slides"} as the window title if changed. Use {argument name="file name" default="DACOIT-DESIGN.md"} for the attachment chip and paragraph reference. Use {argument name="brand name" default="Dacoit"} for the brand guide subject. Use {argument name="user request" default="Read this and generate a brand guide slides based on this"} as the message bubble text.
+
+Constraints: Do not add people, hands, browser address bars, extra popups, watermarks, or unrelated UI. Keep exactly one app window, one attachment chip, one user message bubble, one status line, one response paragraph block, and one embedded thumbnail containing exactly six mini slides.
+```
+
+**来源：** [@Rahul Bhadoriya](https://x.com/rahulbhadoriiya/status/2065087671698128900) | 2026-06-11
+
+---
+
+### 🖥️ 例 1125：水彩风格旅行 App 手机样机
+
+![水彩风格旅行 App 手机样机](../images/%E6%B0%B4%E5%BD%A9%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%20App%20%E6%89%8B%E6%9C%BA%E6%A0%B7%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅水彩旅行 App 样机插画，并排展示 3 部垂直智能手机屏幕，每部屏幕显示一位身处著名城市的时尚女性，风格类似插画版社交媒体旅行故事。
+
+画布：16:9 横向构图，采用米白色纸张背景，手机后方及周围带有随性的水彩泼溅效果。使用柔和的墨线勾勒、淡彩渲染以及细腻的城市速写。三部手机均为黑色 iPhone 风格设备，具有圆角、顶部刘海、窄边框以及底部的小白条主屏幕指示器。
+
+布局：在画面中放置 3 部手机：左侧手机对应 {argument name="left city" default="美国纽约"}，中间手机对应 {argument name="center city" default="法国巴黎"}，右侧手机对应 {argument name="right city" default="英国伦敦"}。中间的手机略大且位置靠前；左右两侧的手机略微倾斜，或被周围的水彩风景部分遮挡。城市风景应延伸至手机屏幕之外，并伴有颜料泼溅和地标碎片。
+
+手机 UI 细节：每块屏幕左上角显示 19:41 的状态栏，左上方有微小的相机图标，中间有位置标签，右上角有小型通知/菜单图标。UI 设计应保持简洁优雅，如同旅行故事 App。
+
+场景与主体数量：包含 3 位女性旅行者，每部手机对应一位。左侧旅行者：身穿休闲街头服饰，搭配黑色皮夹克、印花 T 恤、蓝色牛仔裤、运动鞋和背包，站在纽约的水岸码头。中间旅行者：身穿优雅米色风衣，搭配围巾和靴子，走在巴黎粉色的鹅卵石街道上。右侧旅行者：身穿海军蓝外套，搭配红色围巾、短裙或连衣裙、酒红色过膝靴，在伦敦雨天的街道上撑着一把深色雨伞。面部应柔化处理或不画五官，以保持时尚插画的质感。
+
+地标与城市元素：左侧纽约屏幕需突出显示自由女神像、纽约天际线、水面、码头栏杆、黄色出租车、飞鸟，以及手写风格的“NYC”、“18:30”和“不夜城”字样。中间巴黎屏幕背景需居中显示埃菲尔铁塔，并包含粉色樱花、巴黎建筑、咖啡馆桌椅、行人、花盆和小型咖啡馆遮阳篷。右侧伦敦屏幕需显示大本钟和议会大厦、湿润的反射路面、黑色出租车、红色双层巴士、飞鸟以及雨天蓝灰色的氛围。
+
+视觉风格：精致的水彩与墨水插画，浪漫的旅行日记美学，手绘质感，柔和的粉彩色调，点缀蓝色、粉色、橙色和灰色。建筑与服饰细节丰富，光影反射明亮，具有电影般的景深，手机样机边缘清晰。整体画面应呈现出如旅行日记 App 精美概念广告般的效果。
+
+约束条件：必须展示 3 部智能手机、3 位女性旅行者和 3 个独特的城市场景。不得添加额外的手机、额外的主角、Logo、水印或难以辨认的杂乱元素。画面文字仅限于可见的城市标签和纽约的手写笔记。
+
+[English]
+Goal: Create a wide watercolor travel-app mockup illustration showing exactly 3 vertical smartphone screens side by side, each displaying a fashionable woman in a famous city, like illustrated social media travel stories.
+
+Canvas: Horizontal 16:9 composition on an off-white paper background with loose watercolor splashes behind and around the phones. Use soft ink outlines, pastel washes, and detailed urban sketching. The three phones are black iPhone-style devices with rounded corners, top notch, slim bezel, and a small white home indicator at the bottom.
+
+Layout: Place exactly 3 phones across the image: left phone for {argument name="left city" default="New York, USA"}, center phone for {argument name="center city" default="Paris, France"}, and right phone for {argument name="right city" default="London, United Kingdom"}. The center phone is slightly larger and positioned forward; the left and right phones are slightly angled or partially overlapped by surrounding watercolor scenery. Continue the city scenery beyond the phone screens with paint splatters and landmark fragments.
+
+Phone UI details: Each screen has a small status bar showing 19:41 at top left, tiny camera icon near the upper left, centered location label, and small notification/menu icons near the upper right. Keep the UI minimal and elegant, as if a travel story app.
+
+Scenes and counted subjects: Include exactly 3 main female travelers, one per phone. Left traveler: casual streetwear outfit with black leather jacket, graphic T-shirt, blue jeans, sneakers, backpack, standing on a waterfront pier in New York. Center traveler: elegant beige trench coat, scarf, boots, walking down a pink cobblestone Paris street. Right traveler: navy coat, red scarf, short skirt or dress, knee-high burgundy boots, holding a dark umbrella on a rainy London street. Faces should be softly blurred or featureless to preserve the fashion-illustration look.
+
+Landmarks and city elements: Left/New York screen must show the Statue of Liberty prominently, NYC skyline, water, pier railing, yellow taxis, birds, and handwritten-style text reading “NYC”, “18:30”, and “City that never sleeps”. Center/Paris screen must show the Eiffel Tower centered in the background, pink cherry blossoms, Parisian buildings, café tables, pedestrians, flower pots, and a small café awning. Right/London screen must show Big Ben and the Houses of Parliament, wet reflective pavement, black cabs, a red double-decker bus, flying birds, and rainy blue-gray atmosphere.
+
+Visual style: Delicate watercolor and ink illustration, romantic travel journal aesthetic, hand-painted textures, soft pastel tones with splashes of blue, pink, orange, and gray. Use high detail in architecture and clothing, luminous reflections, cinematic depth, and clean phone mockup edges. Make the overall image look like a polished concept art advertisement for a travel diary app.
+
+Constraints: Show exactly 3 smartphones, exactly 3 female travelers, and exactly 3 distinct city scenes. Do not add extra phones, extra main characters, logos, watermarks, or unreadable clutter. Keep the image text limited to the visible city labels and handwritten New York notes.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065073827701469381) | 2026-06-11
+
+---
+
+### 🖥️ 例 1139：可爱水果动物吉祥物
+
+![可爱水果动物吉祥物](../images/%E5%8F%AF%E7%88%B1%E6%B0%B4%E6%9E%9C%E5%8A%A8%E7%89%A9%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的幼年 {argument name="animal" default="[动物]"} 与 {argument name="fruit" default="[水果]"} 融合，{argument name="fruit description" default="[水果描述]"}，{argument name="animal features" default="[动物特征]"}，超大闪亮的 {argument name="eye color" default="[眼睛颜色]"} 大眼睛，[姿势]，[道具]，卡哇伊吉祥物设计，超萌 Q 版比例，光泽感双眼，高细节 3D 卡通渲染，高端贴纸美学，玩具般的收藏品设计，柔和渐变阴影，[配色方案]，干净的白色背景，柔和投影，商业吉祥物艺术作品，治愈系欢快氛围，极致可爱。
+
+[English]
+Adorable baby {argument name="animal" default="[ANIMAL]"} merged with {argument name="fruit" default="[FRUIT]"}, {argument name="fruit description" default="[FRUIT DESCRIPTION]"}, {argument name="animal features" default="[ANIMAL FEATURES]"}, oversized sparkling {argument name="eye color" default="[EYE COLOR]"} eyes, [POSE], [PROP], kawaii mascot design, ultra-cute chibi proportions, glossy eyes, highly detailed 3D cartoon rendering, premium sticker aesthetic, toy-like collectible design, soft gradient shading, [COLOR PALETTE], clean white background, soft shadows, commercial mascot artwork, wholesome cheerful mood, maximum cuteness.
+```
+
+**来源：** [@AIrina (Virtual Media Net)](https://x.com/airina_xyz/status/2065053709206458581) | 2026-06-11
+
+---
+
+### 🖥️ 例 1170：未来科技摩天大楼城市
+
+![未来科技摩天大楼城市](../images/%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E6%91%A9%E5%A4%A9%E5%A4%A7%E6%A5%BC%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个由巨大的 {argument name="brand" default="Apple iPhone"} 摩天大楼主导的 {argument name="city style" default="未来城市"}，发光的屏幕照亮了周围的建筑，飞行车辆穿梭其中，{argument name="atmosphere" default="赛博朋克氛围"}，超写实建筑，电影级商业摄影，8K 分辨率，高度细节化。
+
+[English]
+A {argument name="city style" default="futuristic city"} dominated by an enormous {argument name="brand" default="Apple iPhone"} standing as a skyscraper, glowing screens illuminating surrounding buildings, flying vehicles, {argument name="atmosphere" default="cyberpunk atmosphere"}, ultra realistic architecture, cinematic commercial photography, 8K, highly detailed.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2064996043314610216) | 2026-06-11
+
+---
+

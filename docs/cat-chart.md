@@ -1451,3 +1451,90 @@ Constraints: Keep all labels legible, align sections neatly, preserve the exact 
 
 ---
 
+### 📊 例 1106：低糖甜点科学信息图
+
+![低糖甜点科学信息图](../images/%E4%BD%8E%E7%B3%96%E7%94%9C%E7%82%B9%E7%A7%91%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+{argument name="grid style" default="2x2 grid"}, {argument name="aspect" default="16:9"}, ai infers: render_target =
+( isometric_ingredient_swap_station_for_[dessert_type]_with_alternative_sweeteners_binders_flours * 1.6 )
++ ( glycemic_impact_comparison_chart_of_natural_and_artificial_sweeteners_for_[dessert_type] * 1.5 )
++ ( bulk_and_structure_science_diagram_explaining_how_to_replace_sugar_in_[dessert_type] * 1.6 )
++ ( texture_result_matrix_cakey_vs_chewy_vs_crispy_using_different_low_sugar_approaches * 1.4 )
++ ( taste_masking_and_flavor_boosting_techniques_for_[dessert_type]_with_spices_and_extracts * 1.2 )
++ ( 3_step_recipe_cards_for_low_sugar_[dessert_type]_with_precise_weights * 1.3 )
++ ( common_myths_busted_about_sugar_alcohols_and_natural_sweeteners * 1.0 )
+- ( shaming_language_about_sugar_or_moralizing_food / 3.5 )
+- ( unbaked_gooey_mess_presented_as_“healthy”_without_real_structure / 3.0 )
+- ( over_use_of_green_leaves_and_“skinny”_labels / 3.3 )
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2065106786420711534) | 2026-06-11
+
+---
+
+### 📊 例 1118：社交媒体书籍总结信息图
+
+![社交媒体书籍总结信息图](../images/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B9%A6%E7%B1%8D%E6%80%BB%E7%BB%93%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+生成一张中等信息密度、适合社交媒体传播的书籍总结信息图海报，主题为《{argument name="书名" default="书籍名称"}》。
+
+【整体风格】
+{argument name="风格" default="现代极简 + 轻复古手绘风"}，背景使用柔和浅色（{argument name="背景色" default="奶油色 #FAF7F2"} 或浅灰蓝 #F5F8FA），大量留白，安静、有内容、可长时间阅读。
+
+【核心要求】
+先判断这本书的主要类型（认知成长、商业财富、心理情绪、小说故事），再据此自然组织内容和侧重点。不要用固定模板标题，不要强行凑结构，要像一个真正读懂书的人在分享。
+
+【内容结构建议（动态组合）】
+- 开场：书名 + 作者 + 一句极具洞察力的话（像人话）
+- 核心理解：这本书真正想表达的核心是什么？它在回应什么现实问题？
+- 最值得带走的部分（重点模块）：根据书类型选择模型、杠杆、情绪机制、人物冲突等
+- 关键结构或框架（视觉核心）
+- 印象深刻的例子/片段（带画面感）
+- 值得记住的金句区（留白处理）
+- 可以带走的改变/行动建议（3-5条，具体可执行）
+
+【视觉要求】
+- 自适应网格布局（2-3列或自由分布）
+- 白色卡片 + 圆角 + 轻微阴影
+- 每个模块配简洁手绘风格插图
+- 标题层级清晰，重要信息适当强调
+- 配色克制优雅（主色根据书类型选：科技蓝、成长绿、心理暖棕等）
+
+【语言风格】
+像人在讲书：有理解、有筛选、有顿悟感。避免“本书讲了…”“核心思想是…”等模板化表达。
+
+生成一张信息清晰、设计高级、适合小红书/微博/推特传播的书籍总结海报。
+```
+
+**来源：** [@GOLD](https://x.com/Honcia13/status/2065079355387285763) | 2026-06-11
+
+---
+
+### 📊 例 1164：提示词：👇
+生成一张 6 步流程图，主题为「旗袍花卉妆造生成过程」。每个小图保持 16:9，排版干净统一。
+
+![提示词：👇
+生成一张 6 步流程图，主题为「旗袍花卉妆造生成过程」。每个小图保持 16:9，排版干净统一。](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%F0%9F%91%87%20%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%206%20%E6%AD%A5%E6%B5%81%E7%A8%8B%E5%9B%BE%EF%BC%8C%E4%B8%BB%E9%A2%98%E4%B8%BA%E3%80%8C%E6%97%97%E8%A2%8D%E8%8A%B1%E5%8D%89%E5%A6%86%E9%80%A0%E7%94%9F%E6%88%90%E8%BF%87%E7%A8%8B%E3%80%8D%E3%80%82%E6%AF%8F%E4%B8%AA%E5%B0%8F%E5%9B%BE%E4%BF%9D%E6%8C%81%2016%209%EF%BC%8C%E6%8E%92%E7%89%88%E5%B9%B2%E5%87%80%E7%BB%9F%E4%B8%80%E3%80%82.jpg)
+
+**Prompt:**
+
+```text
+👇
+生成一张 6 步流程图，主题为「旗袍花卉妆造生成过程」。每个小图保持 16:9，排版干净统一。
+
+步骤1：素颜状态，花枝未生长。
+步骤2：底妆轻微提亮，肩后细枝开始萌芽。
+步骤3：眼妆打底，枝条变多，小花苞出现。
+步骤4：眼影加深、眼线睫毛出现，花朵初步绽放。
+```
+
+**来源：** [@小宇Chengzi](https://x.com/Chengzilhy/status/2065002687511548186) | 2026-06-11
+
+---
+

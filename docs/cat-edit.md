@@ -1038,3 +1038,165 @@ Using REFERENCE_0 as the base for the blonde school-uniform girl, transform it i
 
 ---
 
+### 🔧 例 1182：热带日落海洋壁纸
+
+![热带日落海洋壁纸](../images/%E7%83%AD%E5%B8%A6%E6%97%A5%E8%90%BD%E6%B5%B7%E6%B4%8B%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为海洋与海浪的基础，将其转化为 4K 电影感热带桌面日落壁纸。将暴风雨阴沉的氛围改为温暖的黄金时刻光效，呈现橙色天空和地平线附近的柔和云层。移除空椅子和荒凉的前景。将视角重新调整为略微升高的海岸观景台，增加茂密的深色前景植被，并添加 4 棵清晰可见的棕榈树：左下方一棵大棕榈树，中心附近一棵高大的棕榈树，右上角一棵高大的棕榈树，以及最右侧一棵纤细的倾斜棕榈树。保留海洋地平线和层叠的海浪作为主体，但使海浪更清澈、呈青绿色，并在浪尖处添加发光的轮廓光。在右侧添加热带岩石海岸线和下方的小沙滩。风格应为照片级真实感、宁静、高细节，采用 16:9 宽屏比例，适合作为桌面壁纸，画面中不包含人物、文字或水印。
+
+[English]
+Using the provided reference image as the ocean-and-waves base, transform the scene into a cinematic 4K tropical desktop wallpaper at sunset. Change the stormy, overcast mood into warm golden-hour light with an orange sky and soft clouds near the horizon. Remove the empty chair and barren foreground. Reframe the viewpoint from a slightly elevated coastal overlook, adding lush dark foreground foliage and exactly 4 visible palm trees: one large palm in the lower left, one tall palm near the center, one tall palm on the upper right, and one slimmer leaning palm at the far right. Keep the ocean horizon and layered rolling surf as the main subject, but make the waves cleaner, teal-green, and rim-lit with glowing highlights on the crests. Add a rocky tropical shoreline on the right and a small beach below. Style should be photorealistic, serene, high-detail, widescreen 16:9, suitable for a desktop wallpaper, with no people, no text, and no watermark.
+```
+
+**来源：** [@Aiarty](https://x.com/aiarty_official/status/2064922713849053567) | 2026-06-11
+
+---
+
+### 🔧 例 1198：时尚大片姿态转换
+
+![时尚大片姿态转换](../images/%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E5%A7%BF%E6%80%81%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以上传的图像为参考，保持原人物的面部、五官、发型、表情、肤色、身体比例及整体特征完全不变。保留完全相同的服装，包括海军蓝 Nike 大码卫衣、宽松深色阔腿裤、白色运动鞋、叠戴项链、耳环以及有色太阳镜。
+
+仅更改姿态。
+
+打造一种高级时尚大片拍摄姿态，要求她 {argument name="pose description" default="单腿优雅地交叉在另一条腿前，身体略微侧向镜头。一只手随意插在裤兜里，另一只手轻轻捏住腰部附近的大码卫衣下摆"}。双肩放松，下巴微抬，头部轻微倾斜，展现出自信的奢华广告大片气场。重心自然移至后腿，呈现出精致的模特站姿。
+
+保持与《Vogue》、《Elle》或《Harper’s Bazaar》等奢侈时尚杂志类似的简约大片风格。姿态应显得自然、精致、时髦且具有专业指导感，而非夸张做作。
+
+保持纯蓝色影棚背景完全不变。维持柔和的漫射影棚灯光，通过细腻的阴影增加深度和立体感。保留逼真的布料褶皱、精准的服装纹理、自然的皮肤质感以及专业的时尚修图效果。
+
+重要提示：
+
+请勿更改面部、年龄、发型、太阳镜、服装、配饰、颜色或造型。
+
+请勿添加新的服装或道具。
+
+保持相同的蓝色背景和影棚设置。
+
+仅优化姿态，使其看起来更专业、优雅且具有大片感。
+
+风格：超写实奢华时尚摄影、杂志大片、高端影棚拍摄、焦点清晰、自然皮肤质感、逼真的布料细节、高端商业时尚广告。
+
+拍摄类型：全身肖像。
+
+纵横比：4:5 竖构图。
+
+[English]
+Using the uploaded image as the reference, keep the exact same person's face, facial features, hairstyle, expression, skin tone, body proportions, and overall identity completely unchanged. Preserve the exact same outfit, including the oversized navy Nike sweatshirt, loose dark wide-leg trousers, white sneakers, layered necklace, earrings, and tinted sunglasses.
+
+Change only the pose.
+
+Create a premium high-fashion editorial photoshoot pose where she {argument name="pose description" default="stands with one leg elegantly crossed in front of the other, body slightly angled to the camera. One hand is casually placed inside the trouser pocket while the other hand gently holds the hem of the oversized sweatshirt near the waist"}. Shoulders relaxed, chin slightly lifted, head subtly tilted, creating a confident luxury-campaign attitude. Weight shifted naturally onto the back leg for a refined fashion-model stance.
+
+Maintain an effortless minimalist editorial vibe similar to luxury fashion magazines such as Vogue, Elle, or Harper’s Bazaar. The pose should feel natural, sophisticated, stylish, and professionally directed rather than exaggerated.
+
+Keep the solid blue studio backdrop exactly the same. Maintain soft diffused studio lighting with subtle shadows for depth and dimension. Preserve realistic fabric folds, accurate clothing textures, natural skin texture, and professional fashion retouching.
+
+Important:
+
+Do not change the face, age, hairstyle, sunglasses, outfit, accessories, colors, or styling.
+
+Do not add new clothing or props.
+
+Keep the same blue background and studio setup.
+
+Only improve the pose to look more professional, elegant, and editorial.
+
+Style: Ultra-realistic luxury fashion photography, magazine editorial campaign, premium studio photoshoot, sharp focus, natural skin texture, realistic fabric details, high-end commercial fashion advertising.
+
+Shot Type: Full-body portrait.
+
+Aspect Ratio: 4:5 vertical.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2064905706302747082) | 2026-06-11
+
+---
+
+### 🔧 例 1200：全息线框角色艺术
+
+![全息线框角色艺术](../images/%E5%85%A8%E6%81%AF%E7%BA%BF%E6%A1%86%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图像转换为 {argument name="style" default="超高端全息线框艺术作品"}。
+
+保留原始的 {argument name="subject details" default="面部、身份、发型、身体姿态、拍摄角度、构图和透视"}。
+
+将所有可见物体转换为由发光粒子和数字光点组成的 {argument name="structure type" default="发光白色线框结构"}。
+
+背景变为纯深黑色。
+
+在主体周围创建明亮的霓虹白边光效果。
+
+添加数百万个漂浮粒子、发光尘埃、数字火花、能量轨迹和全息细节。
+
+高对比度单色美学。
+
+奢华赛博朋克广告风格。
+
+湿润的反射地面。
+
+超逼真光影。
+
+清晰对焦。
+
+体积光效果。
+
+影棚级质量。
+
+高级海报设计。
+
+极简未来主义美学。
+
+8K 杰作。
+
+[English]
+Transform the uploaded image into an {argument name="style" default="ultra-premium holographic wireframe artwork"}.
+
+Preserve the exact {argument name="subject details" default="face, identity, hairstyle, body position, clothing, camera angle, composition and perspective"}.
+
+Convert all visible objects into {argument name="structure type" default="glowing white wireframe structures"} made from luminous particles and digital light points.
+
+Background becomes deep pure black.
+
+Create bright neon white edge lighting around the entire subject.
+
+Add millions of floating particles, glowing dust, digital sparks, energy trails and holographic detail.
+
+High contrast monochrome aesthetic.
+
+Luxury cyberpunk advertisement style.
+
+Wet reflective ground surface.
+
+Ultra realistic lighting.
+
+Sharp focus.
+
+Volumetric glow.
+
+Studio quality.
+
+Premium poster design.
+
+Minimalist futuristic aesthetic.
+
+8K masterpiece.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2064904314678861970) | 2026-06-11
+
+---
+

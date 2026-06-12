@@ -637,3 +637,21 @@ Produce warm, atmospheric {argument name="product" default="candle and home frag
 
 ---
 
+### 🏛️ 例 1121：淡紫色家居服卧室人像
+
+![淡紫色家居服卧室人像](../images/%E6%B7%A1%E7%B4%AB%E8%89%B2%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖构图生活方式照片，主角为一位 {argument name="subject" default="皮肤白皙透亮的年轻美女"}，正放松地坐在舒适现代卧室的豪华大床上。她留着 {argument name="hair style" default="一头柔顺的黑色长发，编成侧边麻花辫，带有几缕碎发"}，面部被居中的方形柔和像素模糊效果刻意遮挡。她身穿一套优雅的 {argument name="outfit color" default="灰淡紫色"} 超大廓形丝绒家居服：宽松的长袖圆领上衣、配套的阔腿家居裤，以及一件像毯子般垂坠在身侧的开衫或长袍。让她坐在床沿附近，一条腿横向弯曲，另一条腿自然下垂，双手轻叠放在膝盖上，双肩放松平静。卧室采用暖米色和奶油色调，配有软包床头板、褶皱的亚麻床品、枕头、放着叠放书籍的床头柜、散发暖光的玻璃底座台灯，背景中有一株模糊的绿植。采用电影级柔光，浅景深效果，呈现真实的织物褶皱、可见的自然皮肤纹理、温暖的环境阴影，营造宁静私密的清晨或傍晚氛围。无文字，无水印，照片级相机画质，3:4 竖构图。
+
+[English]
+Create an ultra-realistic vertical lifestyle photograph of a {argument name="subject" default="beautiful young woman with fair glowing skin"} sitting relaxed on a luxury bed in a cozy modern bedroom. She has {argument name="hair style" default="long silky black hair braided over one shoulder with loose wisps"} and her face is intentionally obscured by a centered square soft pixelated blur. She wears an elegant {argument name="outfit color" default="dusty mauve"} oversized velour lounge set: loose long-sleeve crewneck top, matching wide-leg lounge pants, and a draped cardigan or blanket-like robe pooling around her on the bed. Pose her seated near the front edge of the bed with one leg bent crosswise and the other relaxed downward, hands gently resting together in her lap, shoulders soft and calm. The bedroom has warm beige and cream tones, a padded upholstered headboard, rumpled linen bedding, pillows, a bedside table with stacked books, a glass-base table lamp glowing warmly, and a leafy plant softly blurred in the background. Use cinematic soft lighting, shallow depth of field, realistic fabric folds, natural skin texture where visible, warm ambient shadows, and a serene intimate morning/evening mood. No text, no watermark, photorealistic camera quality, 3:4 portrait composition.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2065076837013967049) | 2026-06-11
+
+---
+

@@ -4701,3 +4701,449 @@ Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a {argu
 
 ---
 
+### 🎴 例 1100：奢华街头风时尚海报
+
+![奢华街头风时尚海报](../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端时尚杂志海报，奢华街头美学，4:5 竖构图。一位自信的年轻女性随意地坐在现代铬合金椅子上，身穿 {argument name="outfit" default="一件超大款黑色皮质飞行员夹克、黑色超大款 T 恤、宽松黑色工装裤以及黑白配色奢华运动鞋"}。姿态放松而有力，一只手臂靠在椅背上，直视镜头。背景中是巨大的粗体排版文字：{argument name="headline text" default="I AM A CREATOR"}。米色大号字体融入构图，部分位于模特身后及周围，营造出高端杂志封面的设计感。深炭黑色摄影棚背景，带有细腻的纹理与深度。专业时尚广告摄影，电影级影棚灯光，{argument name="lighting style" default="来自右上角的戏剧性聚光灯"}，柔和阴影，奢华时尚品牌美学，高端街头服饰广告，强烈的视觉层次感。自然蓬松的波浪卷发，真实的皮肤质感，清晰的面部细节，清澈的眼眸，高级感调色，浅景深，超写实摄影，Vogue 杂志品质，奢华广告海报，现代创意企业家品牌形象。极简设计，干净的构图，醒目的排版，高级编辑排版，奢华时尚海报美学，杰作，8K，超写实，专业修图，高对比度，极致细节。左下角小字：“CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE” “ESTD. 2024”。面部保留优先级：最高。身份一致性：最高。文字准确度：高。海报设计质量：奢华时尚广告级别。
+
+[English]
+Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing {argument name="outfit" default="an oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers"}. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera. Massive bold typography in the background reading: {argument name="headline text" default="I AM A CREATOR"}. Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth. Professional fashion campaign photography, cinematic studio lighting, {argument name="lighting style" default="dramatic spotlight from upper right corner"}, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy. Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding. Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed. Small text in bottom left: "CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE" "ESTD. 2024" Face preservation priority: maximum. Identity consistency: maximum. Text accuracy: high. Poster design quality: luxury fashion campaign level.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2065115460820218326) | 2026-06-11
+
+---
+
+### 🎴 例 1110：SmartStep 返校季海报
+
+![SmartStep 返校季海报](../images/SmartStep%20%E8%BF%94%E6%A0%A1%E5%AD%A3%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张明亮的 {argument name="theme" default="返校季"} 广告海报。一名兴奋的 {argument name="subject" default="8 岁小女孩"} 身穿整洁的校服，在一只巨大的、比她高 3 倍的亮黑色校园鞋旁欢快地跳跃，鞋扣细节为银色，鞋底用海军蓝粗体字写着 "{argument name="brand name" default="SMARTSTEP"}"。背景是明亮欢快的教室，配有黑板、彩色铅笔和漂浮的金色星星。背景中填充着海军蓝与黄色相间的友好粗体圆润字体 "SMARTSTEP"。底部标语为："Step smart every day." 右上角的小字写着 "Designed with GPT Image 2"，颜色为灰色。照片级真实感，有趣的返校季商业风格，明亮欢快的教室灯光。
+
+[English]
+A bright {argument name="theme" default="back to school"} advertisement poster. An excited {argument name="subject" default="young girl age 8"} in a neat school uniform skips happily beside a giant shiny black school shoe 3x her height with a silver buckle detail, "{argument name="brand name" default="SMARTSTEP"}" written in bold navy font on the sole. Bright cheerful classroom background with chalkboard colorful pencils and floating gold stars. Friendly bold rounded typography "SMARTSTEP" in navy and yellow filling the background. Tagline bottom: "Step smart every day." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, fun back to school commercial style, bright cheerful classroom lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2065102248770928804) | 2026-06-11
+
+---
+
+### 🎴 例 1119：世界杯夺冠庆典
+
+![世界杯夺冠庆典](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+一位{argument name="人物" default="成年女性世界杯足球宝贝"}在胜利庆祝时刻兴奋举起双手，穿着贴合身形但不过分暴露的时尚应援服装，带有{argument name="配色" default="国家队代表色"}，短款外套与修身运动裙搭配，显得热情、健康、富有感染力，头发飞扬，表情兴奋真实，背景是飘落彩纸、比分屏幕、球场灯光和欢呼人群，整体像终场胜利海报，情绪热烈，高清写实摄影
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2065077419586081033) | 2026-06-11
+
+---
+
+### 🎴 例 1133：世界杯足球女孩时尚海报
+
+![世界杯足球女孩时尚海报](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E5%A5%B3%E5%AD%A9%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+一位成年女性足球宝贝以高级时尚大片方式呈现，穿着融合足球元素的高定风应援造型，例如{argument name="服装造型" default="国家队配色短夹克、修身运动裙或利落球衣改良设计"}，姿态自信，眼神坚定，背景是抽象化的{argument name="背景元素" default="世界杯赛场灯光、球网结构、巨型足球和品牌感舞台布景"}，画面兼具时尚杂志与体育赛事宣传气质，冷暖光交织，质感高级，商业海报风格，高清写实
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2065061170516738232) | 2026-06-11
+
+---
+
+### 🎴 例 1134：标准体育场应援海报
+
+![标准体育场应援海报](../images/%E6%A0%87%E5%87%86%E4%BD%93%E8%82%B2%E5%9C%BA%E5%BA%94%E6%8F%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+一位{argument name="人物" default="成年女性足球宝贝"}站在世界杯赛场看台前，面带自信灿烂笑容，挥舞{argument name="配饰" default="国家队配色的应援围巾"}，穿着带有足球元素的时尚应援服装，整体造型青春、健康、活力十足，长发在风中轻轻扬起，姿态自然有力量感，背景是灯光明亮的现代足球场、观众看台和绿色草坪，空气中有彩带和轻微烟雾氛围，画面充满大型国际足球赛事的热烈气氛，商业体育海报风格，高清写实摄影质感，色彩鲜明，动感强烈
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2065060925066166367) | 2026-06-11
+
+---
+
+### 🎴 例 1136：世界杯啦啦队员动态抓拍
+
+![世界杯啦啦队员动态抓拍](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%95%A6%E5%95%A6%E9%98%9F%E5%91%98%E5%8A%A8%E6%80%81%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="一位成年女性足球宝贝"}站在{argument name="背景" default="世界杯球场边线附近"}，穿着{argument name="服装" default="利落有设计感的足球宝贝应援服"}，手持足球和小型旗帜，微风吹动发丝和衣角，姿态自然又富有运动感，背景是明亮的球场草坪、巨型体育场、看台灯光和欢呼观众，阳光或球场顶灯照亮人物轮廓，整体画面干净有力，具有运动品牌广告质感，热血、专业、青春、国际赛事氛围浓厚
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2065060712528171011) | 2026-06-11
+
+---
+
+### 🎴 例 1138：奢华帝国地层学海报
+
+![奢华帝国地层学海报](../images/%E5%A5%A2%E5%8D%8E%E5%B8%9D%E5%9B%BD%E5%9C%B0%E5%B1%82%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+SYSTEM: 将输入内容渲染为奢华的历史文明地层学海报。除非不可避免，否则不要硬编码日期。推断领土扩张阶段、经济基础支柱、军事创新周期、文化同化模式以及衰落的地质层。 SEMANTIC SOLVE: EMPIRE_AUTOPSY = (INFER(领土架构 FROM 创始核心 + 扩张向量 + 边境防御工事 + 贸易路线控制 + 附庸网络) ::5) + (INFER(经济支柱 FROM 农业基础 + 矿产资源 + 税收制度 + 货币标准 + 劳动力组织) ::4) + (INFER(军事创新 FROM 武器技术 + 战术学说 + 后勤链 + 防御工程 + 海军能力) ::4) + (INFER(衰落机制 FROM 继承危机 + 经济通胀 + 边境压力 + 内部叛乱 + 环境压力) ::3) - (通用时间轴信息图 + 卡通地图 + 杂乱的教科书布局 + 库存照片遗迹 + 廉价教育海报) ::-4 COMPOSITION: 将一个核心帝国可视化为多层考古横截面。底层展示创始定居点，中间层通过彩色地层揭示领土扩张，顶层展示分裂模式。核心周围环绕着浮动标注，展示关键战役、经济指标和映射为物理文物的王朝更迭。使用类似于考古挖掘现场报告与军事战役地图相结合的标注线。 STYLE DNA: 古罗马波伊廷格地图 (Tabula Peutingeriana) ::0.30 考古地层图 ::0.25 复古军事战役地图 ::0.20 博物馆展览信息图 ::0.15 带有污渍纹理的陈年羊皮纸 ::0.10 OUTPUT: 暖棕褐色或深赤陶色背景的奢华历史海报，优雅的古典衬线字体 + 手写注释排版，克制的标注，超写实的地图纹理，精致的陈旧效果，优质的留白。 NEGATIVE: 无全息图，无发光元素，无 VR/AR 叠加，无现代数字地图，无卡通插图，无杂乱的时间轴，无库存照片中的皇帝，无水印，无时代错误元素。
+
+[English]
+SYSTEM: Render the input as a luxury historical civilization stratigraphy poster. Do not hardcode dates unless inevitable. Infer the territorial expansion phases, economic foundation pillars, military innovation cycles, cultural assimilation patterns, and the geological layers of decline.  SEMANTIC SOLVE: EMPIRE_AUTOPSY =    (INFER(territorial_architecture FROM founding_core + expansion_vectors + frontier_fortifications + trade_route_control + vassal_networks) ::5) +    (INFER(economic_pillars FROM agricultural_base + mineral_resources + taxation_system + currency_standard + labor_organization) ::4) +    (INFER(military_innovation FROM weapon_technology + tactical_doctrine + logistics_chain + fortification_engineering + naval_capacity) ::4) +    (INFER(decline_mechanics FROM succession_crises + economic_inflation + frontier_pressure + internal_rebellion + environmental_stress) ::3) -    (generic timeline infographics + cartoon maps + cluttered textbook layouts + stock-photo ruins + cheap educational posters) ::-4  COMPOSITION: One central empire visualized as a multi-layered archaeological cross-section. The bottom layer shows the founding settlement, middle layers reveal territorial expansion through colored strata, and the top layer displays the fragmentation pattern. Surrounding the core are floating callouts showing key battles, economic indicators, and dynastic transitions mapped as physical artifacts. Use callout lines like an archaeological dig site report crossed with a military campaign map.  STYLE DNA: Ancient Roman Tabula Peutingeriana ::0.30 archaeological stratigraphy diagram ::0.25 vintage military campaign map ::0.20 museum exhibit infographic ::0.15 aged parchment with stain texture ::0.10  OUTPUT: Warm sepia or deep terracotta background luxury history poster, elegant classical serif + handwritten annotation typography, restrained callouts, hyper-realistic map textures, refined aging effects, premium negative space.  NEGATIVE: no holograms, no glowing elements, no VR/AR overlays, no modern digital maps, no cartoon illustrations, no cluttered timelines, no stock-photo emperors, no watermark, no anachronistic elements.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2065057210426900515) | 2026-06-11
+
+---
+
+### 🎴 例 1143：Gen-Z 霓虹时尚拼贴画
+
+![Gen-Z 霓虹时尚拼贴画](../images/Gen-Z%20%E9%9C%93%E8%99%B9%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满活力的 Gen-Z 时尚社交媒体拼贴海报，主角为 {argument name="character name" default="一位年轻时尚网红"}，身着未来感街头服饰。所有面部均通过柔和的矩形模糊块进行遮挡，营造出匿名病毒式传播的美学风格。
+
+画布：宽屏 16:9 横向海报，尺寸约为 1200 x 675 像素，采用饱和的赛博朋克日落配色，包含亮粉色、橙色、紫色和电青色。背景为日落时分的屋顶或高处城市观景台，带有模糊的天际线轮廓、发光的交通灯轨迹和霓虹边缘光。
+
+布局：构建一个紧凑的编辑风格拼贴画，包含 7 个完全相同的网红形象：1 个位于中心偏左的大型全身站立形象，身穿黑色短款夹克、全息百褶迷你裙、渔网袜、厚底黑色鞋子、叠戴项链和闪亮的斜挎包；1 个位于最左侧的倾斜智能手机模型，显示相同服装的垂直社交视频界面；1 个位于左下角的小型全身形象，身穿金属银色羽绒服搭配深色街头服饰；1 个位于中心的大型特写肖像，身穿反光虹彩夹克、黑色上衣，佩戴叠戴项链、圆环耳环和两个哪吒头；1 个位于右上角的小型侧身形象，背着带有青色发光装饰的背包；1 个位于右侧的大型霓虹边框垂直照片，展示网红穿着紫色短款上衣和宽松淡紫色工装裤的对镜自拍姿势；1 个位于底部中心附近的倾斜智能手机模型，再次展示黑色夹克和全息裙装。
+
+主体细节：网红拥有 {argument name="hairstyle" default="两个高扎哪吒头，带有修饰脸型的长发丝"}，中等深色皮肤，佩戴圆环耳环、叠戴银色项链，身着潮流 Y2K 赛博街头服饰，姿势自信，采用光泽感的编辑风格布光。在每个形象中，请使用简单的柔边矩形模糊遮挡面部区域，不要使用面具或表情符号。
+
+图形元素：包含 12 个装饰性社交媒体/贴纸元素：右侧垂直照片周围有 1 个大型青色霓虹轮廓，左侧倾斜手机周围有 1 个青色发光轮廓，中心肖像附近有 1 个红色爱心贴纸，左侧手机旁有 1 个垂直排列的三个漂浮红心，1 个带有心形图标的白色“LIKE”标签，1 个带有气泡图标的白色“COMMENT”标签，1 个带有箭头图标的白色“SHARE”标签，顶部中右侧有 1 个写着“GEN-Z STYLE”的漫画文字贴纸，右侧人物附近有 1 个写着“OOTD”的贴纸，右下角附近有 1 个写着“SO CHIC”的贴纸，底部中心附近有 1 个写着“GEN-Z STYLE”和“@FUTUREFASHION”的白色标签贴纸，以及底部中心附近有 1 个小型卡通头像贴纸。
+
+文字内容：使用粗体俏皮的气泡字体，白色填充，带有淡青色和粉色阴影以及黑色轮廓。保留以下精确的可见短语：{argument name="main sticker text" default="GEN-Z STYLE"}、{argument name="handle text" default="@FUTUREFASHION"}、“OOTD”、“SO CHIC”、“LIKE”、“COMMENT”和“SHARE”。手机界面可以显示微小的伪社交媒体 UI 文字，但不应喧宾夺主。
+
+视觉风格：高能量的 TikTok/Instagram 时尚 moodboard，光泽感的霓虹赛博朋克布光，贴纸炸弹式构图，全息面料反射，边缘发光的轮廓，饱和的渐变，俏皮的星星和闪光，清晰的剪裁边缘，通过重叠的面板和手机营造深度，现代青年文化美学。
+
+约束：使用 7 个网红形象和 12 个列出的装饰元素。不要添加额外人物。保持构图紧凑但易于阅读。无水印，除通用社交媒体 UI 样式外无品牌 Logo，且不得出现写实未模糊的面部。
+
+[English]
+Goal: Create a vibrant Gen-Z fashion social media collage poster featuring {argument name="character name" default="a young fashion influencer"} in futuristic streetwear, with all faces intentionally obscured by soft rectangular blur blocks for an anonymous viral-aesthetic look.
+
+Canvas: Wide 16:9 landscape poster, approximately 1200 x 675 px, saturated cyberpunk sunset color palette with hot pink, orange, purple, and electric cyan. Background is a rooftop or elevated city overlook at sunset with blurred skyline silhouettes, glowing traffic light trails, and neon rim lighting.
+
+Layout: Build a dense editorial collage with exactly 7 visible depictions of the same influencer: 1 large full-body standing figure slightly left of center wearing a black cropped jacket, holographic pleated mini skirt, fishnet tights, chunky black platform shoes, layered chain necklaces, and a shiny crossbody pouch; 1 tilted smartphone mockup on the far left showing the same outfit in a vertical social-video interface; 1 smaller full-body figure in the bottom-left wearing a metallic silver puffer jacket over dark streetwear; 1 large close-up portrait in the center wearing a reflective iridescent jacket, black top, layered necklaces, hoop earrings, and two space buns; 1 small figure at the top-right turned sideways wearing a backpack with cyan glow accents; 1 large neon-framed vertical photo on the right showing the influencer taking a mirror/selfie pose in a purple crop top and baggy lavender cargo pants; 1 smaller tilted smartphone mockup near the bottom-center showing the black jacket and holographic skirt outfit again.
+
+Subject details: The influencer has {argument name="hairstyle" default="two high space buns with long face-framing strands"}, medium-dark skin, hoop earrings, layered silver chains, trendy Y2K cyber streetwear, confident poses, and glossy editorial lighting. Keep the face area obscured in every depiction with a simple soft-edged rectangular blur, not a mask or emoji.
+
+Graphic elements: Include exactly 12 decorative social-media/sticker elements: 1 large cyan neon outline around the right vertical photo, 1 cyan glow outline around the left tilted phone, 1 red heart sticker near the center portrait, 1 vertical stack of three floating red hearts beside the left phone, 1 white “LIKE” label with heart icon, 1 white “COMMENT” label with speech bubble icon, 1 white “SHARE” label with arrow icon, 1 comic text sticker reading “GEN-Z STYLE” near the top center-right, 1 sticker reading “OOTD” near the right figure, 1 sticker reading “SO CHIC” near the lower right, 1 white tag sticker reading “GEN-Z STYLE” and “@FUTUREFASHION” near the lower center, and 1 small cartoon avatar sticker near the center-bottom.
+
+Text content: Use bold playful bubble typography with white fills, pastel cyan and pink shadows, and black outlines. Preserve these exact visible phrases: {argument name="main sticker text" default="GEN-Z STYLE"}, {argument name="handle text" default="@FUTUREFASHION"}, “OOTD”, “SO CHIC”, “LIKE”, “COMMENT”, and “SHARE”. The phone interfaces may show tiny pseudo-social media UI text but it should not dominate.
+
+Visual style: High-energy TikTok/Instagram fashion moodboard, glossy neon cyberpunk lighting, sticker-bomb composition, holographic fabric reflections, rim-lit silhouettes, saturated gradients, playful stars and sparkles, crisp cutout edges, depth from overlapping panels and phones, modern youth culture aesthetic.
+
+Constraints: Use exactly 7 influencer depictions and the 12 listed decorative elements. Do not add extra people. Keep the composition busy but readable. No watermark, no brand logos other than generic social media UI styling, and no photorealistic unblurred face.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065042182449590511) | 2026-06-11
+
+---
+
+### 🎴 例 1144：Neon Pulse 偶像档案海报
+
+![Neon Pulse 偶像档案海报](../images/Neon%20Pulse%20%E5%81%B6%E5%83%8F%E6%A1%A3%E6%A1%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="idol group name" default="NEON PULSE"} 创建一张精致的日本偶像团体档案海报。这是一个虚构的五人女子团体，以“校园心动”为主题，设计风格参考带有淡紫色调的时尚经纪公司出道宣传单，包含校服造型、成员简介及服装概念预览。
+
+画布：正方形 1:1 海报，高分辨率，采用柔和的淡紫色与白色调，搭配紫色细边框，排版简洁且具有杂志感，背景为阳光透过大窗户的梦幻教室。整体视觉效果应融合 K-pop/J-pop 偶像宣传档案、时尚画册及出道公告的风格。
+
+主要布局：中央大图需展示 5 名女性偶像成员的全身照，她们身着统一的校服，包括海军蓝西装外套、白衬衫、格子百褶裙、丝带或领带、中筒袜及乐福鞋。将她们并排站立在明亮的教室中。面部可以进行柔和的模糊处理，但发型、服装、姿势和轮廓应保持清晰。在中央照片的右上角添加手写风格的标注：“School Crush ver.”
+
+左侧信息面板：左上角放置大标题“{argument name="idol group name" default="NEON PULSE"}”及下方的日文副标题。添加标语“Light the Beat.”，并配以小型波形线条和心形图标。包含 3 个文本块：1) 团体概念 (GROUP CONCEPT)，描述如霓虹般闪耀，传递心跳加速与治愈感；2) 粉丝名称 (FANDOM NAME)，“SPARKS”及简短说明；3) 出道日期 (DEBUT DATE)，“{argument name="debut date" default="2026.06.07"}”，后跟一颗小爱心。
+
+右侧成员档案面板：添加一个垂直的“MEMBER PROFILE”卡片，列出 5 名成员，每人配有一个彩色星形/菱形标记，包含姓名、职位、生日、年龄、身高、血型、性格备注及代表色。五名成员分别为：1) LUNA，中心位/队长，2004.02.11，168cm，冷静可靠，代表色紫色；2) AURA，王牌，2003.07.23，167cm，热情表演者，代表色金色；3) RIN，舞蹈担当，2004.09.05，165cm，力量与酷感兼具，代表色蓝色；4) NOA，副主唱，2005.01.30，164cm，神秘沉稳，代表色银色；5) YUI，主唱，2005.04.17，163cm，可爱宠粉的忙内，代表色粉色。
+
+中间成员卡片：在主图下方，创建 5 个水平排列的个人档案卡片，展示头像剪裁及姓名：LUNA、AURA、RIN、NOA、YUI。每张卡片应显示特写肖像、英文名下方的日文读音、职位、出生日期、身高、血型、性格、特殊技能或魅力点，以及一个与代表色相符的小型彩色宝石图标。保持每张卡片紧凑且优雅。
+
+底部服装系列：添加一个“OUTFIT COLLECTION”条带，包含 7 个概念缩略图，每个缩略图展示同一 5 人团体穿着不同的统一舞台服装。明确标注七个缩略图：1) Neon Black，黑色与紫色相间的霓虹偶像装；2) School Crush，校服造型；3) White Angel，白色天使舞台裙装；4) Red Carpet，成熟的黑红华丽装；5) Cyber Girl，未来感蓝白赛博装；6) Summer Live，明亮的牛仔与白色夏季造型；7) Moonlight，神秘的紫色月光舞台装。在每个缩略图下方添加简短的日式风格描述，并配以小型彩色爱心/宝石装饰。
+
+视觉风格：清晰的编辑图形设计，淡紫色边框线条，细微的闪光效果，小型爱心、菱形图标、波形图案，优雅的衬线字体标题与简洁的无衬线正文混合，中央教室场景带有柔光效果。海报信息量大但整洁易读，如同官方偶像出道档案表。
+
+约束条件：必须包含 5 名成员和 7 个服装缩略图。保留可见的英文标签和成员姓名。避免添加额外的成员、额外的服装概念、水印、二维码或无关的 Logo。保持设计为正方形，布局平衡且高度易读。
+
+[English]
+Goal: Create a polished Japanese idol group profile poster for {argument name="idol group name" default="NEON PULSE"}, a fictional five-member school-crush themed girl group, designed like a glossy agency debut one-sheet with lavender accents, school uniforms, member bios, and outfit concept previews.
+
+Canvas: Square 1:1 poster, high resolution, soft pastel lavender and white palette, thin purple borders, clean magazine-layout typography, dreamy classroom background with sunlight through large windows. Overall look should combine a K-pop/J-pop idol promotional profile sheet, fashion lookbook, and debut announcement.
+
+Main layout: Use exactly 5 female idol members standing full-body in the large central image, wearing coordinated school uniforms with navy blazers, white shirts, plaid mini skirts, ribbon ties or neckties, knee socks, and loafers. Arrange them shoulder-to-shoulder in a bright classroom. Faces may be softly anonymized or blurred, but hair, clothing, poses, and silhouettes should remain clear. Include a handwritten-style note in the upper right of the central photo reading “School Crush ver.”
+
+Left information panel: At top left, large title “{argument name="idol group name" default="NEON PULSE"}” with Japanese subtitle beneath it. Add the tagline “Light the Beat.” with a small waveform line and heart icon. Include exactly 3 text blocks: 1) GROUP CONCEPT, describing a neon-like shine and delivering heartbeats of excitement and healing; 2) FANDOM NAME, “SPARKS” with a short explanation; 3) DEBUT DATE, “{argument name="debut date" default="2026.06.07"}” followed by a small heart.
+
+Right member profile panel: Add a vertical “MEMBER PROFILE” card listing exactly 5 members, each with a colored star/diamond marker, name, role, birthday, age, height, blood type, personality note, and image color. The five visible members must be: 1) LUNA, center/leader, 2004.02.11, 168cm, cool and reliable, image color purple; 2) AURA, ace, 2003.07.23, 167cm, warm performer, image color gold; 3) RIN, dance leader, 2004.09.05, 165cm, powerful and cool, image color blue; 4) NOA, sub vocal, 2005.01.30, 164cm, mysterious and calm, image color silver; 5) YUI, lead vocal, 2005.04.17, 163cm, cute fan-loving youngest, image color pink.
+
+Middle member cards: Under the main photo, create exactly 5 horizontal profile cards with portrait crops and names: LUNA, AURA, RIN, NOA, YUI. Each card should show a close-up portrait, Japanese name reading under the English name, role, birth date, height, blood type, personality, special skill or appeal point, and a small colored gemstone matching her image color. Keep each card compact and elegant.
+
+Bottom outfit collection: Add an “OUTFIT COLLECTION” strip with exactly 7 concept thumbnails, each showing the same 5-member group in a different coordinated stage outfit. Label the seven thumbnails clearly: 1) Neon Black, dark black-and-purple neon idol outfits; 2) School Crush, the school uniform look; 3) White Angel, white angelic stage dresses; 4) Red Carpet, mature black-and-red glamorous outfits; 5) Cyber Girl, futuristic blue-and-white cyber outfits; 6) Summer Live, bright denim-and-white summer styling; 7) Moonlight, mysterious purple moonlit stage outfits. Include a short Japanese-style description under each thumbnail and a small colored heart/gem accent.
+
+Visual style: Crisp editorial graphic design, pastel lavender frame lines, subtle sparkles, small hearts, diamond icons, waveform motifs, elegant serif title mixed with clean sans-serif body text, a soft glow around the central classroom scene. Make the poster information-dense but tidy and legible, like an official idol debut profile sheet.
+
+Constraints: Use exactly 5 members and exactly 7 outfit thumbnails. Preserve the visible English labels and member names. Avoid adding extra members, extra outfit concepts, watermarks, QR codes, or unrelated logos. Keep the design square, balanced, and highly readable.
+```
+
+**来源：** [@AIチャッティ](https://x.com/ai_chatty/status/2065041757935698338) | 2026-06-11
+
+---
+
+### 🎴 例 1149：赛博朋克 Nova Rebellion 海报
+
+![赛博朋克 Nova Rebellion 海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Nova%20Rebellion%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑电影质感的赛博朋克电影海报，用于一部名为 {argument name="movie title" default="NOVA"} 的科幻惊悚片，副标题为 {argument name="subtitle" default="REBELLION"}。海报采用 1:1 正方形构图，背景为雨夜中的霓虹大都市，街道湿润且带有倒影，摩天大楼林立，浓重的蓝色雾气，红青色调灯光，高对比度写实数字绘画风格。画面中心为一名身穿黑色防雨战术夹克的连帽衫叛军主角，背对镜头，头部略微侧转，呈现侧脸，带有戏剧性的轮廓光，面部大部分隐没在阴影中，神秘莫测，站在街道中央。天空中添加 3 架悬浮的警用无人机或飞行载具：左上方一架带有蓝色探照灯，右上方一架，右侧建筑物上方一架。右侧添加 1 辆正在驶离的未来派跑车，红色尾灯映照在湿润的地面上。城市周围环绕着霓虹灯和广告牌，包含 7 处显著的文字元素：顶部标语 "THE FUTURE IS NOT OURS TO CONTROL"，红色人名 "SCARLETT NOVA"，左中位置的小标语 "LET THEM WATCH"，左侧霓虹灯 "X-05"，右侧标语 "RECLAIM TOMORROW"，右侧霓虹灯 "2 BAR"，以及底部巨大的标题 "NOVA"，下方配有间距较宽的副标题 "REBELLION"。底部包含微小的虚构制作人员名单，最后一行红色文字为 {argument name="release text" default="COMING SOON"}。画面需包含颗粒感雨水、倒影、镜头光晕、大气烟雾，营造反乌托邦的紧张氛围，采用顶级好莱坞海报排版，红色标题块字体，蓝黑色调配以红色点缀。避免多余角色，避免卡通风格，避免明亮的日光，无水印。
+
+[English]
+Create a dark cinematic cyberpunk movie poster for a sci-fi thriller titled {argument name="movie title" default="NOVA"} with subtitle {argument name="subtitle" default="REBELLION"}. Square 1:1 poster composition, rainy neon megacity at night, wet reflective street, towering skyscrapers, dense blue fog, red and cyan lighting, high-contrast photorealistic digital painting. Center a lone hooded rebel protagonist seen from behind in a black rain-slick tactical jacket, head turned slightly in profile, dramatic rim light, mysterious face mostly shadowed, standing in the middle of the street. Add exactly 3 hovering police drones or flying vehicles in the sky: one upper left with a blue searchlight, one upper right, and one mid-right above the buildings. Add exactly 1 futuristic sports car on the right side driving away with red taillights reflected on the wet pavement. Surround the city with neon signs and billboards including exactly 7 notable text elements: top tagline "THE FUTURE IS NOT OURS TO CONTROL", red name text "SCARLETT NOVA", small left-center slogan "LET THEM WATCH", left neon sign "X-05", right slogan "RECLAIM TOMORROW", right neon sign "2 BAR", and a huge bottom title "NOVA" with smaller spaced subtitle "REBELLION" beneath it. Include tiny fictional production credits at the bottom and a final red line reading {argument name="release text" default="COMING SOON"}. Use gritty rain, reflections, lens bloom, atmospheric smoke, dystopian tension, premium Hollywood poster typography, red title block lettering, blue-black palette with red accents. Avoid extra characters, avoid cartoon style, avoid clean daylight, no watermark.
+```
+
+**来源：** [@AIEnhancer](https://x.com/AIEnhancerHQ/status/2065031785134821803) | 2026-06-11
+
+---
+
+### 🎴 例 1174：电影海报转儿童蜡笔画
+
+![电影海报转儿童蜡笔画](../images/%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E8%BD%AC%E5%84%BF%E7%AB%A5%E8%9C%A1%E7%AC%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此电影海报重新构想为 {argument name="art style" default="儿童蜡笔画"}，绘制在 {argument name="paper type" default="横线笔记本纸"} 上。保持所有构图元素、人物姿势、排版、配色方案和布局与原图完全一致，仅改变艺术风格。使用彩色铅笔和蜡笔，线条要摇晃不稳，涂色略微超出边缘，面部特征简化，解剖结构基础。背景用厚重的蜡笔涂鸦填充。展示底部的横线笔记本纸，包括红色边距线。用颤抖的手写蜡笔字重绘所有文本，并与原始字体位置相匹配。呈现为一张平铺的画作扫描图，可见轻微的纸张纹理。
+
+[English]
+Reimagine this movie poster as a {argument name="art style" default="kid's crayon drawing"} on {argument name="paper type" default="lined notebook paper"}. Keep every compositional element, character pose, typography, color palette, and layout identical to the original, changing only the art style. Use colored pencils and crayons with wobbly, unsteady lines and coloring that slightly goes outside the edges, simplified facial features, and basic anatomy. Fill the background with heavy crayon scribble strokes. Show the lined notebook paper underneath, including the red margin line. Redraw all text in shaky hand-lettered crayon matching the original font placement. Present as a flat scan of the drawing with slight paper texture visible.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2064986738775441910) | 2026-06-11
+
+---
+
+### 🎴 例 1177：柴犬动物园角落海报
+
+![柴犬动物园角落海报](../images/%E6%9F%B4%E7%8A%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%A7%92%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张欢快的竖版日式动物园信息告示牌，用于柴犬展区，结合可爱的科普信息图与动漫风格的犬娘吉祥物。
+
+画布：竖版 2:3 海报，背景为温暖的日间户外动物园，带有柔和模糊的绿植和木栅栏。使用精致的 gpt-image-2 动漫插画风格，线条清晰，色彩明亮，阴影柔和，营造出亲切的家庭游乐氛围。
+
+主标题：顶部悬挂一块大型木制告示牌，中心为奶油色，配有圆润的棕色木框、缝线般的虚线边框、爪印装饰，右侧有一个微笑着的柴犬头像图标。标题文字应使用大而俏皮的日语：{argument name="headline text" default="動物園の 柴犬のコーナーへ ようこそ！"}。将「柴犬」设为最大的深棕色文字，欢迎语使用绿色文字。
+
+布局：在标题下方，将海报分为两个主要区域。左侧为奶油色的科普项目，配有绿色丝带状的标题栏和小型图标列表。右侧主体为一只坐着挥手的动漫吉祥物，上方有一个巨大的粉色对话气泡。保持左侧项目内容清晰可读，吉祥物略微重叠在项目前方以增加深度感。
+
+左侧信息项目内容：包含 4 个绿色丝带状区域。第 1 部分标题：「柴犬ってどんな犬？」配有爪印图标。添加一段简短的日语，解释柴犬是古老的日本犬种，聪明、勇敢、忠诚，且体型虽小但魅力十足。添加 1 张圆形的柴犬照片风格插画，展示一只坐在草地上的柴犬，配有一个绿色小标签写着「凛々しい姿がチャームポイント！」。第 2 部分标题：「みんなへのお願い」配有爪印图标。包含 3 行由虚线分隔的规则：规则 1 配有红色禁止触摸/禁止敲击玻璃图标，说明不要敲击玻璃或栅栏，以免惊吓到它们；规则 2 配有红色禁止喂食图标，说明不要喂食，以免引起肠胃不适；规则 3 配有蓝色安静图标，说明不要大声喧哗或奔跑，让大家都能感到安全。第 3 部分标题：「柴犬をよく観察してみましょう！」配有爪印图标。包含 3 张圆形的柴犬观察图片，配有棕色说明牌：左侧展示卷曲的毛茸茸尾巴，说明「くるんと巻いたしっぽがキュート！」；中间展示平静且富有表情的脸庞，说明「豊かな表情にも注目ですわ♪」；右侧展示竖起的尖耳朵，说明「ピンと立った耳がとっても凛々しい！」。第 4 部分为底部的感谢面板，带有爪印图标，文字为「みんなの思いやりが、動物たちの幸せにつながります。」以及红色的感谢语「ご協力、ありがとうございますわ！」。
+
+吉祥物角色：绘制 {argument name="character name" default="a cheerful Shiba Inu dog-girl zookeeper mascot"}，形象为可爱的成年动漫女性，拥有柴犬耳朵、毛茸茸的柴犬尾巴、温暖的棕褐色双马尾发型、琥珀棕色的眼睛眯成开心的笑眼，张开的嘴露出小虎牙，姿势充满活力地挥手。她穿着带有厚实白色绒毛边的黄色外套或连衣裙，穿着黑色连裤袜，脖子上戴着红色项圈，胸前系着蓝色蝴蝶结。一只手高高举起，可见类似肉垫的手套细节，另一只手放在膝盖附近。她的表情生动、热情，略带调皮。
+
+对话气泡：在吉祥物上方放置一个带有闪光效果的大型圆形粉色对话气泡。使用醒目且友好的日语文字：{argument name="speech bubble text" default="みなさま〜！\n柴犬さんたちは、とっても繊細でおりこうさんなのですわ！\nルールを守って、楽しく見守ってくださいましね！\nよろしくてよ〜っ！"}。
+
+视觉风格：可爱的动物园海报，卡哇伊科普告示，温暖的木质纹理，爪印图案，柔和的奶油色纸张面板，绿色区域标签，棕色排版，橙色和红色点缀，精致的动漫角色渲染，文字清晰易读，无水印，无多余区域，除指定图片中显示的柴犬外，不包含其他动物。
+
+[English]
+Goal: Create a cheerful vertical Japanese zoo information sign for a Shiba Inu corner, combining a cute educational infographic with an anime dog-girl mascot.
+
+Canvas: Vertical 2:3 poster, warm daylight outdoor zoo setting with softly blurred greenery and wooden fence in the background. Use a polished gpt-image-2 anime illustration style with clean line art, bright colors, soft shading, and a friendly family-attraction atmosphere.
+
+Main header: A large hanging wooden signboard spans the top, cream-colored center with rounded brown wooden frame, stitch-like dashed border, paw-print decorations, and a small smiling Shiba Inu face icon on the right. The headline text should be large and playful in Japanese: {argument name="headline text" default="動物園の 柴犬のコーナーへ ようこそ！"}. Make 「柴犬」 the biggest dark-brown text, with green text for the welcome phrase.
+
+Layout: Below the header, divide the poster into two main zones. The left side is a cream educational board with green ribbon section headers and small icon bullets. The right side is dominated by a large anime mascot sitting and waving, with a big pink speech bubble above her. Keep the left board readable and the mascot overlapping slightly in front of it for depth.
+
+Left information board content: Include exactly 4 green ribbon sections. Section 1 title: 「柴犬ってどんな犬？」 with a paw icon. Add a short Japanese paragraph explaining Shiba dogs are an ancient Japanese breed, smart, brave, loyal, and charming despite their small bodies. Add exactly 1 circular Shiba Inu photo-style illustration showing a sitting Shiba in grass, with a small green callout reading 「凛々しい姿がチャームポイント！」. Section 2 title: 「みんなへのお願い」 with a paw icon. Include exactly 3 rule rows separated by dotted lines: rule 1 has a red no-touch/no-glass icon and says not to tap glass or fences because it startles them; rule 2 has a red no-feeding icon and says not to give food because it can upset their stomach; rule 3 has a blue quiet icon and says not to shout or run because everyone should feel safe. Section 3 title: 「柴犬をよく観察してみましょう！」 with a paw icon. Include exactly 3 circular Shiba observation images with brown caption plaques: left shows a curled fluffy tail, caption 「くるんと巻いたしっぽがキュート！」; center shows a calm expressive face, caption 「豊かな表情にも注目ですわ♪」; right shows upright pointed ears, caption 「ピンと立った耳がとっても凛々しい！」. Section 4 is a bottom thank-you panel with paw icons, reading 「みんなの思いやりが、動物たちの幸せにつながります。」 and a red thank-you line 「ご協力、ありがとうございますわ！」.
+
+Mascot character: Draw {argument name="character name" default="a cheerful Shiba Inu dog-girl zookeeper mascot"} as a cute adult anime woman with Shiba ears, fluffy Shiba tail, warm tan hair in twin ponytails, amber-brown eyes closed in a happy smile, open laughing mouth with small fang, and energetic waving pose. She wears a yellow coat or dress with thick white fluffy trim, black tights, a red collar around the neck, and a blue bow at the chest. One hand is raised high with visible paw-pad-like glove details, the other rests near her lap. Her expression is lively, welcoming, and slightly mischievous.
+
+Speech bubble: Place a large rounded pink speech bubble above the mascot with sparkles. Use bold friendly Japanese text: {argument name="speech bubble text" default="みなさま〜！\n柴犬さんたちは、とっても繊細でおりこうさんなのですわ！\nルールを守って、楽しく見守ってくださいましね！\nよろしくてよ〜っ！"}.
+
+Visual style: Cute zoo poster, kawaii educational signage, warm wood textures, paw-print motifs, soft cream paper panels, green section labels, brown typography, orange and red accents, glossy anime character rendering, crisp readable text, no watermark, no extra sections, no additional animals beyond the Shiba dogs shown in the specified images.
+```
+
+**来源：** [@人定@人外娘専用アカウント](https://x.com/ninJoMonster115/status/2064966510121259036) | 2026-06-11
+
+---
+
+### 🎴 例 1178：超写实时尚排版海报
+
+![超写实时尚排版海报](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%B6%E5%B0%9A%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的时尚编辑海报，一位美丽的年轻女性站在巨大的垂直 3D “{argument name="brand name" default="MIRA"}” 排版文字旁。她拥有自然的橄榄色皮肤、柔和的面部特征、长长的深棕色波浪卷发，不戴眼镜，素颜妆容，真实的嘴唇，细腻的皮肤纹理，眼神平静而自信。服装：超大款高级 {argument name="outfit color" default="black"} T 恤，胸前印有简洁的白色 “MIRA” 标志，宽松的黑色工装慢跑裤，白红配色奢华运动鞋。姿势休闲且具有电影感——双手插兜，一条腿自然交叉，身体微微倾斜，姿态放松。背景为 {argument name="background" default="深哑光炭灰色影棚"}，配有柔和的渐变灯光和极简奢华美学。她身旁巨大的 “MIRA” 文字应呈现出超高端质感：具有深度、阴影、斜面边缘和柔和反射的亮面白色 3D 排版，采用现代未来主义品牌风格，以艺术布局垂直堆叠。灯光应为柔和的电影级影棚光，头发和肩部周围带有微妙的轮廓光，阴影真实，具有深度和对比度。在排版后方添加轻微的环境光晕，营造奢华的品牌感。构图应呈现出 Nike / Zara / Balenciaga 高级广告海报与现代 AI 时尚品牌美学相结合的感觉。风格：超写实、编辑摄影、DSLR 画质、奢华街头风广告、简洁极简设计、优雅的排版构图、自然美感、无 AI 伪影、无过度处理的皮肤、无夸张妆容、超细腻的面料纹理、柔和的电影色调、8k 杰作、时尚杂志品质。
+
+[English]
+Ultra-realistic fashion editorial poster of a beautiful young woman standing beside giant vertical 3D “{argument name="brand name" default="MIRA"}” typography. She has natural olive skin, soft facial features, long dark brown wavy hair, no glasses, no makeup look, realistic lips, subtle skin texture, and calm confident eyes. Outfit: oversized premium {argument name="outfit color" default="black"} t-shirt with clean white “MIRA” logo printed on chest, relaxed black cargo joggers, white-red luxury sneakers. Pose is casual and cinematic — hands inside pockets, one leg crossed naturally, leaning slightly with relaxed posture. Background is a {argument name="background" default="dark matte charcoal studio"} with soft gradient lighting and luxury minimal aesthetic. The huge “MIRA” text beside her should look ultra-premium: glossy white 3D typography with depth, shadows, bevel edges, soft reflections, modern futuristic branding style, vertically stacked in an artistic layout. Lighting should be soft cinematic studio lighting with subtle rim light around hair and shoulders, realistic shadows, depth, and contrast. Add slight ambient glow behind typography for luxury branding feel. Composition should feel like a premium Nike / Zara / Balenciaga campaign poster mixed with modern AI-fashion branding aesthetics. Style: hyper realistic, editorial photography, DSLR quality, luxury streetwear campaign, clean minimal design, elegant typography composition, natural beauty, no AI artifacts, no overprocessed skin, no exaggerated makeup, ultra detailed fabric texture, soft cinematic tones, 8k masterpiece, fashion magazine quality.
+```
+
+**来源：** [@Mira](https://x.com/miratechtool/status/2064961134881313104) | 2026-06-11
+
+---
+
+### 🎴 例 1179：时代广场电影广告牌场景
+
+![时代广场电影广告牌场景](../images/%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E7%94%B5%E5%BD%B1%E5%B9%BF%E5%91%8A%E7%89%8C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级照片写实的雨后时代广场夜景，视角位于街道水平面，光亮的湿润路面反射着霓虹灯光，人行道上人头攒动，黄色出租车和深色轿车在前景中飞驰而过并带有动态模糊，高耸的摩天大楼上布满了发光的广告。构图主体为红阶梯广场上方并排的两个巨大广告牌：左侧广告牌是一张戏剧性的电影海报，主题为 {argument name="movie title" default="THE CHASE"}，展示了 {argument name="character name" default="KAIRO"} 作为一名时尚的男性动作英雄，身穿黑色大衣和西装，站在日落时的屋顶上，背景是温暖的橙色城市天际线，大衣在风中飘动，双手插兜，英雄的面部被刻意用一个边缘柔和的矩形模糊处理；底部包含巨大的白色标题文字，上方有较小的金色角色名称文字，最下方是微小且不可辨认的演职员表。右侧广告牌是一个深色时尚的电影广告面板，背景为蓝黑色模糊的城市速度感画面，带有淡淡的未来感边角线条图形，左下角附近有一个白色的 {argument name="brand logo text" default="Disney"} 标志。在主广告牌周围环绕明亮的现实风格时代广场标识，包括五个清晰可见的侧面标志群：左侧巨大的 M&M’s World 标志，楼梯附近垂直的红色 tkts 标志，右侧广告牌附近建筑物上垂直的 TIMES SQUARE 标志，最右侧堆叠的 Coca-Cola/M&M’s 标志柱，以及广告牌下方各种色彩缤纷的小型方形广告。使用高动态范围光照、逼真的反射、深蓝色的夜空、锐利的建筑细节、充满活力的游客人群、相机闪光灯以及电影级的广角透视。保持整体图像的照片写实感和城市感，除指定的广告牌文字和标识外，不包含任何额外的可读标题文字。
+
+[English]
+Goal: Create a photorealistic cinematic nighttime scene of Times Square in New York, centered on two enormous adjacent digital billboards above a busy wet street.
+
+Canvas: Wide 16:9 landscape image, street-level perspective, realistic lens compression, high dynamic range, glossy rain-soaked pavement reflecting neon lights, deep blue evening sky between skyscrapers.
+
+Main layout: The composition has exactly 2 dominant central billboards. Billboard 1 on the left is a movie-poster-style ad for {argument name="movie title" default="THE CHASE"}, with the smaller actor/name text {argument name="actor name" default="KAIRO"} above the title. It shows a stylish faceless male action hero in a long black coat and dark suit, standing on a rooftop at sunset with an orange city skyline behind him; the coat flares in the wind, and small fake production-credit text runs along the bottom. Billboard 2 on the right is a dark, mostly empty premium ad screen showing a blurred high-speed night city road with blue-black tones, subtle thin geometric HUD-like corner lines, and a white {argument name="brand logo" default="Disney"} logo near the lower-left area.
+
+Surrounding visible signage: Include exactly 6 notable secondary advertising/sign elements around the central billboards: a large M&M's World sign on the left, a vertical red TKTS sign near the left-center stairs, a vertical TIMES SQUARE-style sign on a building between the main billboards and the right tower, a red Coca-Cola bottle billboard on the far right, a white M&M's sign above it, and a bright blue rectangular billboard at the upper-right corner.
+
+Street and crowd details: Show a dense crowd of pedestrians and tourists gathered along sidewalks and plaza edges, some holding phones toward the billboards. Include exactly 4 prominent moving vehicles in the foreground street: two yellow taxis, one dark sedan, and one blurred vehicle streak, all with motion blur and headlight flares. Red TKTS stairs and a small statue silhouette appear beneath the left billboard.
+
+Visual style: Ultra-realistic commercial photography mixed with blockbuster advertising, sharp architecture, vivid neon reflections, cinematic contrast, realistic Times Square scale, no cartoon styling.
+
+Constraints: Keep the left poster title large and readable, preserve the faceless censored-looking face on the poster character, do not add extra central billboards, do not add watermarks, and avoid legible long blocks of text other than the specified ad words.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2064948546747736262) | 2026-06-11
+
+---
+
+### 🎴 例 1188：宝可梦冠军杂志封面
+
+![宝可梦冠军杂志封面](../images/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%86%A0%E5%86%9B%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超细节的宝可梦冠军杂志封面，未来幻想编辑风格，强大的女性宝可梦训练家自信地站在中心，手持大师球，身穿带有 {argument name="accent color" default="紫色"} 点缀的黑色战术皮质冠军套装，配有腰带、绑带和金属配饰，高马尾发型，电影级美颜光效，神情坚定自信，周围环绕着标志性的宝可梦伙伴，包括肩上的 {argument name="partner pokemon" default="皮卡丘"}、水水獭、沙奈朵、索罗亚克，以及背景中显现的巨大的传说级 {argument name="legendary pokemon" default="深紫色巨龙"} 宝可梦。动态紫色能量特效，魔法粒子，戏剧性氛围，高级杂志封面设计，醒目的“CHAMPION”排版，日文杂志文字，收藏级宝可梦杂志美学，超写实角色渲染，高度细节纹理，清晰对焦，景深效果，影棚级灯光，史诗级幻想构图，充满活力的紫黑配色，奢华游戏编辑摄影，杰作，8K，超写实，ArtStation 热门，电影级调色，专业封面拍摄，完美人体结构，复杂的服装细节，传说级训练家光环，宝可梦宇宙灵感，获奖杂志封面。
+
+[English]
+Ultra-detailed Pokémon Champion magazine cover, futuristic fantasy editorial style, powerful female Pokémon trainer standing confidently in the center, holding a Master Ball, black tactical leather champion outfit with {argument name="accent color" default="purple"} accents, belts, straps, metallic accessories, high ponytail hairstyle, cinematic beauty lighting, intense confident expression, surrounded by iconic Pokémon companions including {argument name="partner pokemon" default="Pikachu"} on shoulder, Oshawott, Gardevoir, Zoroark, and a massive legendary {argument name="legendary pokemon" default="dark-purple dragon"} Pokémon emerging in the background. Dynamic purple energy effects, magical particles, dramatic atmosphere, premium magazine cover design, bold "CHAMPION" typography, Japanese magazine text, collectible Pokémon magazine aesthetic, hyper-realistic character rendering, highly detailed textures, sharp focus, depth of field, studio-quality lighting, epic fantasy composition, vibrant purple and black color palette, luxury gaming editorial photography, masterpiece, 8K, ultra-realistic, trending on ArtStation, cinematic color grading, professional cover shoot, perfect anatomy, intricate costume details, legendary trainer aura, Pokémon universe inspired, award-winning magazine cover.
+```
+
+**来源：** [@𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜](https://x.com/AiwithKinza/status/2064917535666196599) | 2026-06-11
+
+---
+
+### 🎴 例 1201：奢华都市混乱风时尚海报
+
+![奢华都市混乱风时尚海报](../images/%E5%A5%A2%E5%8D%8E%E9%83%BD%E5%B8%82%E6%B7%B7%E4%B9%B1%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用我上传的面部图像作为身份参考。保持我精确的面部特征、胡须、头发纹理、肤色和整体相似度，并具有高保真度。创建一个 {argument name="fashion style" default="奢华都市混乱风时尚海报"}，其中仅包含我在 4 格拼贴画中的形象。{argument name="outfit" default="深棕色缎面衬衫，黑色墨镜，银色戒指和项链"}，自信的模特姿势（正面肖像、侧面轮廓、坐姿沉思、背面视角）。衬衫背面采用涂鸦风格艺术，{argument name="lighting" default="温暖的电影级灯光"}，浓郁的棕色和琥珀色调，忧郁的街头时尚氛围，浅景深，超细节，高级编辑摄影，高对比度，焦点清晰，8K。禁止面部修改，禁止美化，禁止身份偏移，保持参考图像中精确的面部结构和自然外观。
+
+[English]
+Use my uploaded face image as the identity reference. Preserve my exact facial features, beard, hair texture, skin tone, and overall likeness with high fidelity. Create a {argument name="fashion style" default="luxury urban-chaos fashion poster"} featuring only me in a 4-panel collage. {argument name="outfit" default="Dark brown satin shirt, black sunglasses, silver rings and chain"}, confident model poses (front portrait, side profile, seated thoughtful pose, back view).Graffiti-style artwork on the shirt back, {argument name="lighting" default="warm cinematic lighting"}, rich brown and amber tones, moody street-fashion atmosphere, shallow depth of field, ultra-detailed, premium editorial photography, high contrast, sharp focus, 8K. No facial modification, no beautification, no identity drift, maintain exact facial structure and natural appearance from the reference image.
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2064903576955310186) | 2026-06-11
+
+---
+
+### 🎴 例 1202：奢华 3D 生日海报
+
+![奢华 3D 生日海报](../images/%E5%A5%A2%E5%8D%8E%203D%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 竖构图，超高端摄影棚摄影美学。高级米白色纹理纸墙背景，带有细腻的颗粒感和深度。
+
+一个巨大的数字 {argument name="age" default="[AGE]"} 精准地雕刻在墙面上，具有逼真的厚度、斜面边缘以及营造出强烈 3D 深度的内阴影。数字内部：{argument name="decor" default="柔和的粉色气球、优雅的白色花卉和奢华花束布置"}，采用极简高级风格。
+
+一位快乐的 {argument name="age value" default="[AGE]"} 岁儿童，保留面部特征，身穿乳白色 T 恤和淡粉色牛仔背带裤，自然地大笑。
+
+脸部、肩膀、一只手和一只脚延伸至雕刻数字之外，营造出逼真的 3D 弹出效果。
+
+一侧温暖的电影感金色阳光，柔和的轮廓光，超逼真的皮肤纹理，摄影棚级灯光，干净的自然阴影，照片级渲染。
+
+墙面排版：{argument name="name" default="[NAME]"} CHAPTER [AGE] [AGE] 365 MORE DAYS OF WONDER。
+
+极简奢华编辑排版，高端杂志封面风格，完美构图，柔和对比度，自然色彩，无畸变，无 AI 伪影。
+
+[English]
+Professional luxury birthday poster, 3:4 portrait composition, ultra high-end studio photography aesthetic. Premium off-white textured paper wall background with subtle grain and depth.
+
+A large number {argument name="age" default="[AGE]"} is precisely carved into the wall with realistic thickness, beveled edges, and deep inner shadows creating strong 3D depth. Inside the number: {argument name="decor" default="soft pastel pink balloons, elegant white flowers, and luxury bouquet arrangement"} with minimal premium styling.
+
+A happy {argument name="age value" default="[AGE]"}-year-old child with preserved facial identity, wearing a milky white T-shirt and pastel pink denim overalls, laughing naturally.
+
+Face, shoulder, one hand, and one foot extend outside the carved number, creating a realistic 3D pop-out effect.
+
+Warm cinematic golden sunlight from one side, soft rim light, ultra-realistic skin texture, studio-quality lighting, clean natural shadows, photorealistic rendering.
+
+Typography on wall: {argument name="name" default="[NAME]"} CHAPTER [AGE] [AGE] 365 MORE DAYS OF WONDER.
+
+Minimal luxury editorial layout, high-end magazine cover style, perfect composition, soft contrast, natural colors, no distortions, no Al artifacts.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2064903441806450903) | 2026-06-11
+
+---
+
+### 🎴 例 1207：蒙古族传统服饰时尚大片
+
+![蒙古族传统服饰时尚大片](../images/%E8%92%99%E5%8F%A4%E6%97%8F%E4%BC%A0%E7%BB%9F%E6%9C%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+一张高端时尚编辑大片风格的双人分屏海报，整体呈现奢华、艺术化、国际时尚杂志封面感。画面采用左右对称双联构图，具有时尚艺术海报 + 高级广告大片气质。左侧是一位优雅的年轻亚洲女性模特，全身站姿，自信从容，微微扬起下巴，带有时尚大片中的冷艳神情。她身穿蒙古族服装以{argument name="女性服饰颜色" default="天蓝色缎面"}为主，搭配斜襟设计、黑金回纹边饰、彩色刺绣、白色毛边、圆顶民族帽和同色长靴，整体明亮华丽、轻盈灵动，具有鲜明的草原民族舞蹈服饰特色。左侧背景为辽阔的绿色草原在远方延展开来，点缀着成群的羊群，整体氛围自然开阔、清新明亮，带有蒙古草原的生活气息与地域特征。背景需兼具真实感与时尚大片质感，既能体现民族文化环境，又不过于杂乱，能够衬托女性人物的优雅与华贵感。右侧是一位气质成熟、英俊有型的年轻男性模特，全身站姿，姿态松弛而有力量感，带有高级时装广告中的沉稳与不羁。他拥有微卷发、淡胡茬与立体五官，身穿服装以{argument name="男性服饰颜色" default="玫红缎面长袍"}、彩色拼接袖、仿豹纹毛饰、银色腰扣、亮蓝裤装、黑色刺绣蒙古靴和红黑头饰为主要特点，整体华丽鲜明、粗犷有力，具有浓郁的草原民族舞台服饰风格。右侧背景为远处是连绵起伏的雪山山脉，天空辽阔清冷，一只雄鹰在高空盘旋或展翅飞翔，营造出雄浑、力量感十足的视觉氛围。背景整体需呈现史诗感、自然力量感与民族豪迈气质，同时保持高级时尚大片的简洁构图，使男性人物更具英武与不羁气场。
+```
+
+**来源：** [@intothewin](https://x.com/intothewin1/status/2064894309611327916) | 2026-06-11
+
+---
+
+### 🎴 例 1208：西班牙世界杯旅行通行证海报
+
+![西班牙世界杯旅行通行证海报](../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%85%E8%A1%8C%E9%80%9A%E8%A1%8C%E8%AF%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感、超高细节的 {argument name="tournament title" default="2026 年国际足联世界杯"} 宣传旅行通行证海报，举办地为 {argument name="host country" default="西班牙"}。前景展示一只手拿着一张高级红金配色的收藏级通行证或护照，略微倾斜，圆角设计，带有压印织物纹理、金属质感金色字体，右侧边缘带有奶油色票根条。通行证表面呈现出微缩 3D 立体西班牙城市景观，结合了圣家堂风格塔楼、未来派巴塞罗那塔楼、历史悠久的大教堂、广场、树木、街道以及中心带有红色看台的大型现代足球场。在右上角附近添加一个西班牙国家队徽风格的盾牌，上方有一颗金星。在通行证底部包含 5 个小型目的地图标面板，分别标注：Madrid、Barcelona、Sevilla、Bilbao 以及第五个西班牙主办城市风格标签。添加清晰的通行证/票务文字，包括“FIFA WORLD CUP 26”、“ESPAÑA”、巨大的垂直文字“ESPAÑA”、“WORLD CUP PASS 26”、“MORE THAN A PASSION”，以及右侧条带细节“MATCHES 07”、“DESTINATION SPAIN”、“TEAM LA ROJA”、“CATEGORY 1”和“SEAT 001”。一个带有红黄装饰的写实足球在通行证右前方漂浮或飞过，部分重叠，带有动感但渲染依然锐利。背景是日落时分的史诗级西班牙城市广场，类似于马德里，拥有宏伟的历史建筑、圆顶、塔楼、车水马龙的街道和人群，通过景深效果进行柔化。天空充满烟花、发光的云朵以及红、黄、金色的庆典彩带；在前景角落包含模糊的西班牙国旗以进行构图。使用戏剧性的黄金时刻光影、高对比度、浅景深、体积光、写实材质，将超精细 3D 插画与照片级体育广告相结合，呈现官方赛事海报的质感，无水印，除虚构的通行证设计外无额外标志。
+
+[English]
+Create a cinematic, hyper-detailed promotional travel-pass poster for the {argument name="tournament title" default="FIFA World Cup 26"} hosted in {argument name="host country" default="España"}. Show a close-up human hand in the foreground holding a premium red-and-gold collectible pass or passport, tilted slightly, with rounded corners, embossed fabric texture, metallic gold typography, and a cream ticket stub strip on the right edge. The pass features a miniature 3D pop-up Spanish cityscape rising from its surface, combining iconic landmarks such as Sagrada Família-style towers, futuristic Barcelona towers, historic cathedrals, plazas, trees, streets, and a large modern football stadium with a red seating bowl at the center. Add a Spanish national crest-style shield near the top right with one gold star above it. Include exactly 5 small destination icon panels along the bottom of the pass labeled: Madrid, Barcelona, Sevilla, Bilbao, and a fifth Spanish host-city style label. Add visible pass/ticket text including “FIFA WORLD CUP 26,” “ESPAÑA,” a large vertical “ESPAÑA,” “WORLD CUP PASS 26,” “MORE THAN A PASSION,” and right-strip details reading “MATCHES 07,” “DESTINATION SPAIN,” “TEAM LA ROJA,” “CATEGORY 1,” and “SEAT 001.” A realistic football with red and yellow accents floats or flies in front of the pass on the right, partially overlapping it, with motion energy but still sharply rendered. The background is an epic Spanish city square at sunset, resembling Madrid with grand historic buildings, domes, towers, traffic streets, and crowds, softened by depth of field. Fill the sky with fireworks, glowing clouds, and celebratory confetti ribbons in red, yellow, and gold; include blurred Spanish flags in the lower corners for foreground framing. Use dramatic warm golden-hour lighting, high contrast, shallow depth of field, volumetric glow, realistic materials, ultra-detailed 3D illustration mixed with photorealistic sports advertising, official tournament-poster energy, no watermark, no extra logos beyond the fictional pass design.
+```
+
+**来源：** [@PicLumen_ES](https://x.com/Piclumen_ES/status/2064891761672225127) | 2026-06-11
+
+---
+
