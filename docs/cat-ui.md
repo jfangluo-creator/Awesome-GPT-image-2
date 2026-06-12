@@ -1,6 +1,6 @@
 # 🖥️ UI 与数字界面
 
-[返回分类](categories.md) · [查看全部案例](cases-001-100.md) · [返回首页](../README.md)
+[返回分类](categories.md) · [查看全部案例](cases/cases-001-100.md) · [返回首页](../README.md)
 
 
 App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播画面等。

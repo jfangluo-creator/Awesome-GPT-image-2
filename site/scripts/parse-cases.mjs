@@ -139,10 +139,10 @@ function extractTags(title, titleEn) {
   return matched;
 }
 
-const MD_FILES = fs.readdirSync(path.join(ROOT, 'docs'))
+const MD_FILES = fs.readdirSync(path.join(ROOT, 'docs', 'cases'))
   .filter(f => /^cases-\d+-\d+\.md$/.test(f))
   .sort()
-  .map((f, i) => ({ file: `docs/${f}`, headingLevel: i === 0 ? '##' : '###' }));
+  .map((f, i) => ({ file: `docs/cases/${f}`, headingLevel: i === 0 ? '##' : '###' }));
 
 function extractCategory(headerLine) {
   const chars = [...headerLine];

@@ -132,9 +132,9 @@ function filterByDate(cases, dateStr) {
 // ─── Step 4: 去重 ──────────────────────────────────────
 function loadExistingSourceLinks() {
   const links = new Set();
-  const files = fs.readdirSync('docs').filter(f => f.startsWith('cases-') && f.endsWith('.md'));
+  const files = fs.readdirSync('docs/cases').filter(f => f.startsWith('cases-') && f.endsWith('.md'));
   for (const f of files) {
-    const content = fs.readFileSync(`docs/${f}`, 'utf-8');
+    const content = fs.readFileSync(`docs/cases/${f}`, 'utf-8');
     for (const m of content.matchAll(/https:\/\/x\.com\/\S+\/status\/\d+/g)) {
       links.add(m[0]);
     }
@@ -263,9 +263,9 @@ async function downloadImages(cases, ci) {
 // ─── Step 8: 获取最大案例编号 ──────────────────────────
 function getMaxCaseNumber() {
   let max = 0;
-  const files = fs.readdirSync('docs').filter(f => /^cases-\d+-\d+\.md$/.test(f));
+  const files = fs.readdirSync('docs/cases').filter(f => /^cases-\d+-\d+\.md$/.test(f));
   for (const f of files) {
-    const content = fs.readFileSync(`docs/${f}`, 'utf-8');
+    const content = fs.readFileSync(`docs/cases/${f}`, 'utf-8');
     for (const m of content.matchAll(/^### .* 例 (\d+)/gm)) {
       max = Math.max(max, parseInt(m[1]));
     }
@@ -322,16 +322,16 @@ ${promptBlock}
 
 // ─── Step 10: 写入文件 ────────────────────────────────
 
-// 新增百位范围时，自动更新三个文件的导航链接
+// 新增百位范围时，自动更新四个文件的导航链接
 function updateNavLinks(start, end) {
   const padded = String(start).padStart(3, '0') + '-' + String(end).padStart(3, '0');
   const casesFile = `cases-${padded}.md`;
 
   const targets = [
-    { file: 'README.md', link: `[案例 ${start}-${end}](docs/${casesFile})` },
-    { file: 'README_en.md', link: `[Cases ${start}-${end}](docs/${casesFile})` },
-    { file: 'docs/categories.md', link: `[案例 ${start}-${end}](${casesFile})` },
-    { file: 'docs/categories_en.md', link: `[Cases ${start}-${end}](${casesFile})` },
+    { file: 'README.md', link: `[案例 ${start}-${end}](docs/cases/${casesFile})` },
+    { file: 'README_en.md', link: `[Cases ${start}-${end}](docs/cases/${casesFile})` },
+    { file: 'docs/categories.md', link: `[案例 ${start}-${end}](cases/${casesFile})` },
+    { file: 'docs/categories_en.md', link: `[Cases ${start}-${end}](cases/${casesFile})` },
   ];
 
   for (const { file, link } of targets) {
@@ -345,12 +345,12 @@ function updateNavLinks(start, end) {
     const navLineIdx = lines.findIndex(l => l.includes('cases-001-100.md'));
     if (navLineIdx < 0) continue;
 
-    // 扫描 docs/ 目录获取所有 cases-NNN-NNN.md 文件，按编号排序
-    const casesFiles = fs.readdirSync('docs')
+    // 扫描 docs/cases/ 目录获取所有 cases-NNN-NNN.md 文件，按编号排序
+    const casesFiles = fs.readdirSync('docs/cases')
       .filter(f => /^cases-\d{3}-\d{3}\.md$/.test(f))
       .sort();
     const isEn = file.includes('_en');
-    const prefix = file.startsWith('docs/') ? '' : 'docs/';
+    const prefix = file.startsWith('docs/') ? 'cases/' : 'docs/cases/';
     const sep = ' · ';
     const navLinks = casesFiles.map(f => {
       const m = f.match(/cases-(\d{3})-(\d{3})\.md/);
@@ -373,13 +373,13 @@ function updateNavLinks(start, end) {
 function getCasesFilePath(num) {
   const start = Math.floor((num - 1) / 100) * 100 + 1;
   const end = start + 99;
-  const base = `docs/cases-${String(start).padStart(3, '0')}-${String(end).padStart(3, '0')}.md`;
+  const base = `docs/cases/cases-${String(start).padStart(3, '0')}-${String(end).padStart(3, '0')}.md`;
   if (!fs.existsSync(base)) {
     // 创建新文件，含标准 header
     const prevStart = start - 100;
     const prevEnd = end - 100;
     const prevFile = `cases-${String(prevStart).padStart(3, '0')}-${String(prevEnd).padStart(3, '0')}.md`;
-    const header = `# 案例 ${start} - ${end}\n\n[返回首页](../README.md) · [案例 ${prevStart}-${prevEnd}](${prevFile})\n\n---\n\n`;
+    const header = `# 案例 ${start} - ${end}\n\n[返回首页](../../README.md) · [案例 ${prevStart}-${prevEnd}](${prevFile})\n\n---\n\n`;
     fs.writeFileSync(base, header, 'utf-8');
     console.log(`  Created ${base}`);
     // 自动更新导航链接

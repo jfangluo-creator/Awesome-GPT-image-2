@@ -1,6 +1,6 @@
 # 🏷️ 品牌与包装
 
-[返回分类](categories.md) · [查看全部案例](cases-001-100.md) · [返回首页](../README.md)
+[返回分类](categories.md) · [查看全部案例](cases/cases-001-100.md) · [返回首页](../README.md)
 
 
 Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝系列设计等。

@@ -1,6 +1,6 @@
 # 🧪 脑洞与趣味实验
 
-[返回分类](categories.md) · [查看全部案例](cases-001-100.md) · [返回首页](../README.md)
+[返回分类](categories.md) · [查看全部案例](cases/cases-001-100.md) · [返回首页](../README.md)
 
 
 超现实合成、新奇玩法、历史穿越、趣味变装等。
