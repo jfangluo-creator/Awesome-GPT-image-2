@@ -329,6 +329,7 @@ function updateNavLinks(start, end) {
 
   const targets = [
     { file: 'README.md', link: `[案例 ${start}-${end}](docs/${casesFile})` },
+    { file: 'README_en.md', link: `[Cases ${start}-${end}](docs/${casesFile})` },
     { file: 'docs/categories.md', link: `[案例 ${start}-${end}](${casesFile})` },
     { file: 'docs/categories_en.md', link: `[Cases ${start}-${end}](${casesFile})` },
   ];
@@ -338,15 +339,34 @@ function updateNavLinks(start, end) {
     let content = fs.readFileSync(file, 'utf-8');
     // 已存在则跳过
     if (content.includes(casesFile)) continue;
-    // 在导航行最后一个 cases-NNN-NNN 链接后追加
-    const re = /cases-\d{3}-\d{3}\.md\)/g;
-    let lastMatch;
-    while (re.exec(content) !== null) lastMatch = re.lastIndex;
-    if (lastMatch) {
-      content = content.slice(0, lastMatch) + ' · ' + link + content.slice(lastMatch);
-      fs.writeFileSync(file, content, 'utf-8');
-      console.log(`  Updated nav in ${file} (+${start}-${end})`);
-    }
+
+    // 找到导航行（第一个包含 cases-001 的行），提取整行，重建完整有序链接
+    const lines = content.split('\n');
+    const navLineIdx = lines.findIndex(l => l.includes('cases-001-100.md'));
+    if (navLineIdx < 0) continue;
+
+    // 扫描 docs/ 目录获取所有 cases-NNN-NNN.md 文件，按编号排序
+    const casesFiles = fs.readdirSync('docs')
+      .filter(f => /^cases-\d{3}-\d{3}\.md$/.test(f))
+      .sort();
+    const isEn = file.includes('_en');
+    const prefix = file.startsWith('docs/') ? '' : 'docs/';
+    const sep = ' · ';
+    const navLinks = casesFiles.map(f => {
+      const m = f.match(/cases-(\d{3})-(\d{3})\.md/);
+      const s = parseInt(m[1]), e = parseInt(m[2]);
+      return isEn
+        ? `[Cases ${s}-${e}](${prefix}${f})`
+        : `[案例 ${s}-${e}](${prefix}${f})`;
+    }).join(sep);
+
+    // 保留行首的"返回首页"链接（如果有）
+    const origLine = lines[navLineIdx];
+    const homeLink = origLine.match(/^\[([^\]]+)\]\([^)]+\)( · )?/)?.[0] || '';
+    lines[navLineIdx] = homeLink + navLinks;
+    content = lines.join('\n');
+    fs.writeFileSync(file, content, 'utf-8');
+    console.log(`  Updated nav in ${file} (+${start}-${end})`);
   }
 }
 
