@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect, memo } from 'react';
+import { useState, useMemo, useCallback, useEffect, useRef, memo, useLayoutEffect } from 'react';
 import Fuse from 'fuse.js';
 import CategoryFilter from './CategoryFilter';
 import TagFilter from './TagFilter';
@@ -145,21 +145,20 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCase, setSelectedCase] = useState<CaseData | null>(null);
 
-  // Measure header height so toolbar sticks below it
-  const [headerH, setHeaderH] = useState(53);
-  useEffect(() => {
+  // Measure header height so toolbar sticks below it — use ref to avoid re-renders
+  const toolbarRef = useRef<HTMLDivElement>(null);
+  useLayoutEffect(() => {
     const header = document.querySelector('header');
-    if (header) {
-      setHeaderH(header.offsetHeight);
-      // Observe resize to update dynamically
-      const observer = new ResizeObserver((entries) => {
-        for (const entry of entries) {
-          setHeaderH(entry.contentRect.height);
-        }
-      });
-      observer.observe(header);
-      return () => observer.disconnect();
-    }
+    if (!header || !toolbarRef.current) return;
+    const apply = () => {
+      if (toolbarRef.current) {
+        toolbarRef.current.style.top = header.offsetHeight + 'px';
+      }
+    };
+    apply();
+    const observer = new ResizeObserver(apply);
+    observer.observe(header);
+    return () => observer.disconnect();
   }, []);
 
   // Fuse.js for fuzzy search
@@ -254,7 +253,7 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
   return (
     <div>
       {/* Toolbar: filter + search */}
-      <div className="sticky z-30 py-4 space-y-3" style={{ top: headerH, background: 'var(--color-bg)' }}>
+      <div ref={toolbarRef} className="sticky z-30 py-4 space-y-3" style={{ top: 53, background: 'var(--color-bg)' }}>
         <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center justify-between">
           <CategoryFilter categories={categories} active={activeCategory} onChange={setActiveCategory} />
           <SearchBar onSearch={handleSearch} total={cases.length} filtered={filtered.length} />

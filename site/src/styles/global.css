@@ -34,13 +34,14 @@
 
 @layer components {
   .card {
-    @apply rounded-xl overflow-hidden border transition-all duration-300;
+    @apply rounded-xl overflow-hidden border;
     background-color: var(--color-surface);
     border-color: var(--color-border);
+    transition: box-shadow 0.3s, border-color 0.3s;
   }
 
   .card:hover {
-    @apply shadow-lg -translate-y-1;
+    @apply shadow-lg;
     border-color: var(--color-accent);
   }
 
@@ -87,6 +88,7 @@
 .masonry-item {
   break-inside: avoid;
   margin-bottom: 1rem;
+  contain: layout style;
 }
 
 /* Custom scrollbar */
