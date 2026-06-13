@@ -300,7 +300,7 @@ function buildEntries(cases, maxNum) {
 
     const md = `### ${heading}
 
-![${c.title}](../images/${encodedImg})
+![${c.title}](../../images/${encodedImg})
 
 **Prompt:**
 
