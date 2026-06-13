@@ -1538,3 +1538,85 @@ Constraints: Keep all labels legible, align sections neatly, preserve the exact 
 
 ---
 
+### 📊 例 1222：Codex 培训海报工作流程信息图
+
+![Codex 培训海报工作流程信息图](../../images/Codex%20%E5%9F%B9%E8%AE%AD%E6%B5%B7%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的日文演示风格信息图，展示如何利用 Codex 和 Image 2.0 批量制作年度培训研讨会海报。
+
+画布：16:9 横向 Slides，米白色背景，深海军蓝与柔和金色作为点缀色，现代企业医疗审美，留白充裕，带有细微阴影、细分割线和清晰的矢量图标。
+
+页眉：大型加粗海军蓝日文标题：{argument name="headline text" default="使用 Codex 批量制作本年度培训海报"}。在标题左侧添加一条细长的金色垂直线。下方是较小的灰色副标题：{argument name="subtitle text" default="将信息汇总为项目，通过 Image 2.0 指定设计，实现一键批量生成。"}。在副标题下方放置一条细水平分割线。
+
+顶部流程部分：在一行中显示 3 个带编号的步骤，由两条金色箭头线从左至右连接。每个步骤都有一个海军蓝圆形数字徽章、一个海军蓝标题、一个简单的线条图标和简短的日文说明文字。
+1. 第 1 步标题：「将信息整理至文件夹」，配文件夹图标。正文说明将每场研讨会的信息收集到一个文件夹中，包含三个要点：日期/时间/地点、研讨会标题/部门、演讲者/讲座标题；并说明这成为项目素材。
+2. 第 2 步标题：「创建项目并下达指令」，配清单文档图标。正文解释将文件夹转换为 Codex 项目，并指示其利用这些信息创建研讨会海报，包括设计方向（如颜色、布局和氛围）。
+3. 第 3 步标题：「使用 Image 2.0 批量生成」，配带有闪光标记的显示器图标。正文解释所有研讨会海报均以统一设计同时生成，无需逐一制作，细微修改可通过补充指令处理。
+
+底部海报展示区：在一行中均匀排列 4 张垂直研讨会海报卡片，每张卡片具有圆角、柔和的投影、白色主体、海军蓝页眉带、金色图标、右下角金色植物线条装饰以及底部附近的金色水平线。每张卡片包含四行带图标和标签的信息行：「日時」、「場所」、「演者」、「講演タイトル」。
+
+海报卡片 1：页眉文字「第1回 医療安全研修会」，配盾牌与十字图标。日期行：「2025年6月20日（金） 18:00～19:30」。地点行：「本館 3階 大会議室」。演讲者行：「医療安全管理室　山田 太郎」。讲座标题行：「インシデントを防ぐための実践的アプローチ」。
+
+海报卡片 2：页眉文字「第2回 感染対策研修会」，配病毒/网络图标。日期行：「2025年7月18日（金） 18:00～19:30」。地点行：「本館 3階 大会議室」。演讲者行：「感染管理認定看護師　佐藤 花子」。讲座标题行：「標準予防策の再確認と実践のポイント」。
+
+海报卡片 3：页眉文字「第3回 放射線安全研修会」，配辐射符号图标。日期行：「2025年8月22日（金） 18:00～19:30」。地点行：「本館 3階 大会議室」。演讲者行：「診療放射線技師　鈴木 一郎」。讲座标题行：「放射線被ばくの最小化と防護の実践」。
+
+海报卡片 4：页眉文字「第4回 接遇研修会」，配握手图标。日期行：「2025年9月19日（金） 18:00～19:30」。地点行：「本館 3階 大会議室」。演讲者行：「接遇担当　高橋 美咲」。讲座标题行：「信頼される医療者になるためのコミュニケーションの基本」。
+
+页脚：在卡片下方居中放置一行简短的灰色日文总结：{argument name="footer text" default="统一设计、批量生成，彻底告别逐一制作的繁琐。"}。
+
+视觉风格：标题和卡片页眉使用深海军蓝，点缀和图标/箭头使用柔和金色，分割线和辅助文字使用浅灰色。保持排版高度可读，采用日文无衬线字体，标题加粗，所有正文对齐整齐。保持自动生成报告的精致外观，不含照片、人物、水印，且不增加额外的海报卡片或步骤。
+
+[English]
+Goal: Create a clean Japanese presentation-style infographic showing how annual training seminar posters were batch-created with Codex and Image 2.0.
+
+Canvas: 16:9 horizontal slide, off-white background, dark navy and muted gold accent colors, modern corporate healthcare aesthetic, generous margins, subtle shadows, thin divider lines, crisp vector icons.
+
+Header: Large bold navy Japanese headline: {argument name="headline text" default="今年度の研修会ポスターをCodexで一括作成した"}. Add a thin vertical gold line to the left of the headline. Under it, a smaller gray subtitle: {argument name="subtitle text" default="情報をまとめてプロジェクト化し、Image 2.0でデザイン指定。全部まとめて生成。"}. Place a thin horizontal divider below the subtitle.
+
+Top process section: Show exactly 3 numbered steps in one row, connected left-to-right by two gold arrow lines. Each step has a navy circular number badge, a navy title, a simple line icon, and short Japanese explanatory text.
+1. Step 1 title: 「情報をフォルダにまとめる」 with a folder icon. Body says the information for each seminar is gathered into one folder, with three bullet items: date/time/place, seminar title/division, speaker/lecture title; then says this becomes project material.
+2. Step 2 title: 「プロジェクト化して指示する」 with a checklist document icon. Body explains turning the folder into a Codex project and instructing it to create seminar posters using the information, including design directions such as colors, layout, and mood.
+3. Step 3 title: 「Image 2.0で一括生成」 with a monitor icon containing sparkle marks. Body explains that all seminar posters are generated together in a unified design, no need to make them one by one, and small corrections can be handled with additional instructions.
+
+Bottom poster gallery: Display exactly 4 vertical seminar poster cards in a single row, evenly spaced, each with rounded corners, soft drop shadow, white body, navy header band, gold icons, gold botanical line decoration at the bottom right, and a gold horizontal line near the bottom. Each card has four information rows with icons and labels: 「日時」, 「場所」, 「演者」, 「講演タイトル」.
+
+Poster card 1: Header text 「第1回 医療安全研修会」 with a shield-and-cross icon. Date row: 「2025年6月20日（金） 18:00～19:30」. Place row: 「本館 3階 大会議室」. Speaker row: 「医療安全管理室　山田 太郎」. Lecture title row: 「インシデントを防ぐための実践的アプローチ」.
+
+Poster card 2: Header text 「第2回 感染対策研修会」 with a virus/network icon. Date row: 「2025年7月18日（金） 18:00～19:30」. Place row: 「本館 3階 大会議室」. Speaker row: 「感染管理認定看護師　佐藤 花子」. Lecture title row: 「標準予防策の再確認と実践のポイント」.
+
+Poster card 3: Header text 「第3回 放射線安全研修会」 with a radiation symbol icon. Date row: 「2025年8月22日（金） 18:00～19:30」. Place row: 「本館 3階 大会議室」. Speaker row: 「診療放射線技師　鈴木 一郎」. Lecture title row: 「放射線被ばくの最小化と防護の実践」.
+
+Poster card 4: Header text 「第4回 接遇研修会」 with a handshake icon. Date row: 「2025年9月19日（金） 18:00～19:30」. Place row: 「本館 3階 大会議室」. Speaker row: 「接遇担当　高橋 美咲」. Lecture title row: 「信頼される医療者になるためのコミュニケーションの基本」.
+
+Footer: Center a small gray Japanese summary line below the cards: {argument name="footer text" default="すべて統一デザイン・一括生成・1枚ずつ作る手間がゼロに"}.
+
+Visual style: Use dark navy for headings and card headers, muted gold for accents/icons/arrows, light gray for dividers and secondary text. Keep typography highly legible, Japanese sans-serif, with the headline bold and all body text aligned neatly. Maintain a polished autogenerated-report look with no photos, no people, no watermark, and no extra poster cards or extra steps.
+```
+
+**来源：** [@てんそ｜医療× AI](https://x.com/tenso_ai_med/status/2065535061198540873) | 2026-06-12
+
+---
+
+### 📊 例 1253：Master Potter 陶瓷信息图网格
+
+![Master Potter 陶瓷信息图网格](../../images/Master%20Potter%20%E9%99%B6%E7%93%B7%E4%BF%A1%E6%81%AF%E5%9B%BE%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，针对 {argument name="number of potters" default="4"} 位著名陶艺大师执行此操作   输入：   [{argument name="potter data" default="四位陶艺大师及其釉料化学成分图表"}]   系统：   将每位陶艺家渲染为“正在化身为器皿的原始粘土”。每个面板包含一位从巨大的柴烧窑和石膏板中浮现出来的核心工匠。下半部分由生陶土、未烧制的粘土、木制修坯刀、灰釉配方和窑具组成。上半部分是一位超写实的电影级陶艺家，身上覆盖着泥浆、辐射热畸变、皮革围裙和汗水。   转换逻辑：   窑炉的化学反应转化为物理纹理。釉面的缩釉和开片变成皮肤纹理或织物图案，拉坯留下的轮纹变成罗纹状的结构盔甲，窑具变成沉重的结构支撑或饰品。   环境：   窑炉扩展为柴烧穴窑中咆哮、耀眼的内部空间，或是一个细节极其丰富、尘土飞扬的陶艺工作室，伴随着强烈的热畸变和飞溅的余烬。   数据层：   添加精细的陶瓷标注： - “10 号锥还原烧” - “热冲击” - “二氧化硅助熔剂比” - “大气碳” - “玻璃化温度点” - “缩釉”   视觉风格：   照片级写实的工业与工艺摄影，强烈的暖色调灯光（橙色、红色和深土褐色），浓重的烟雾和热畸变纹理，原始泥土和玻璃质釉面的微距细节。   构图：   严格的 2x2 网格，每个面板如同高端工艺与材料科学杂志的专题报道。
+
+[English]
+2x2 grid, 16:9 do this for {argument name="number of potters" default="4"} famous master potters   input:   [{argument name="potter data" default="four master potters & their glaze chemistry charts"}]   system:   render each potter as a “raw clay becoming vessel.” each panel contains one central artisan emerging from a giant, wood-fired kiln and plaster bat. the lower half is made from raw grog, unfired clay, wooden ribs, ash glaze recipes, and kiln wadding. the upper half is a hyper-realistic cinematic potter covered in slip, radiant heat distortion, leather aprons, and sweat.   transformation logic:   the chemistry of the kiln becomes physical texture. glaze crawls and crackles become physical skin textures or fabric patterns, throwing rings become ribbed, structural armor, and kiln wadding becomes heavy, structural supports or jewelry.   environment:   the kiln expands into the roaring, blinding interior of a wood-fired anagama kiln or a hyper-detailed, dusty pottery studio, with massive thermal heat distortion and flying embers.   data layer:   add refined ceramic callouts: - “cone 10 reduction” - “thermal shock” - “silica flux ratio” - “atmospheric carbon” - “vitrification point” - “glaze crawl”   visual style:   photorealistic industrial and craft photography, intense warm lighting (oranges, reds, and deep earth browns), heavy smoke and heat distortion textures, macro details of raw earth and glassy glazes.   composition:   strict 2x2 grid, each panel like a premium craft and material science magazine feature.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2065423373799424499) | 2026-06-12
+
+---
+

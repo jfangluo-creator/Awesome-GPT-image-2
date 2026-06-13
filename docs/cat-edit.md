@@ -1200,3 +1200,47 @@ Minimalist futuristic aesthetic.
 
 ---
 
+### 🔧 例 1262：写实彩色线稿转换器
+
+![写实彩色线稿转换器](../../images/%E5%86%99%E5%AE%9E%E5%BD%A9%E8%89%B2%E7%BA%BF%E7%A8%BF%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+実写に限りなく近い画風の{argument name="描画スタイル" default="色付き線画"}にして
+```
+
+**来源：** [@月真猫-tsukimao-](https://x.com/Atg_Tsukimao/status/2065398993488933173) | 2026-06-12
+
+---
+
+### 🔧 例 1334：分层纸艺风格图像转换
+
+![分层纸艺风格图像转换](../../images/%E5%88%86%E5%B1%82%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为 {argument name="aesthetic" default="受手工纸艺立体透视美学启发，柔和且具有分层感的纸艺插画"}。使用平滑、圆润的形状，{argument name="proportions" default="简化且可爱的角色比例"}，以及极简的面部特征（如豆豆眼和淡淡的腮红），营造出温暖、迷人且引人注目的外观。
+
+利用堆叠的纸层构建场景，营造出强烈的深度和立体感。在层与层之间加入细腻的阴影以强调分层结构，同时保持所有切割边缘整洁精准，呈现出激光切割卡纸的效果。
+
+在每个主要角色周围添加实心白色轮廓，类似于厚实的贴纸边框或白色纸张背衬。该轮廓应将角色与背景清晰区分开，使其看起来像是刻意的分层纸艺元素，而非发光效果。
+
+使用 {argument name="color palette" default="包含柔和蓝、浅绿和暖中性色的舒缓柔和色调"}。保持整体氛围平衡且治愈。光线应柔和、漫射且分布均匀，在增强三维纸层效果的同时，避免强烈的对比或戏剧性的阴影。
+
+[English]
+Transform this image into a {argument name="aesthetic" default="soft, layered papercraft illustration inspired by the aesthetic of a handcrafted papercraft diorama"}. Use smooth, rounded shapes, {argument name="proportions" default="simplified cute character proportions"}, and minimal facial features (such as dot eyes and subtle blush) to create a warm, charming, and inviting appearance.
+
+Build the scene using stacked paper layers with a strong sense of depth and dimension. Include delicate shadows between layers to emphasize the layered construction, while keeping all cut edges clean and precise, resembling laser-cut cardstock.
+
+Add a solid white outline around each main character, similar to a thick sticker border or a white paper backing. This outline should clearly separate the characters from the background and feel like an intentional layered paper element rather than a glow effect.
+
+Use a {argument name="color palette" default="calming pastel color palette featuring muted blues, soft greens, and warm neutral tones"}. Maintain an overall balanced and soothing atmosphere. Lighting should be soft, diffused, and evenly distributed, enhancing the three-dimensional paper-layer effect while avoiding harsh contrast or dramatic shadows.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2065262948097143198) | 2026-06-12
+
+---
+

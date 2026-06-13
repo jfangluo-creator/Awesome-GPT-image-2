@@ -1792,3 +1792,93 @@ Color and finish: Predominantly pink and red-pink ink on a light cream-pink back
 
 ---
 
+### 🧸 例 1235：温馨等距浴室立体模型
+
+![温馨等距浴室立体模型](../../images/%E6%B8%A9%E9%A6%A8%E7%AD%89%E8%B7%9D%E6%B5%B4%E5%AE%A4%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的温馨等距 3D 微缩 {argument name="room type" default="浴室"} 立体模型，{argument name="color palette" default="温暖的赤陶色与米色"} 色调，从 {argument name="viewing angle" default="45 度角"} 视角观察的日式小型浴室场景。奶油色瓷砖搭配温暖的木质装饰，复古的猫脚浴缸里盛满蓝色泡沫，浴缸木托盘上放着打开的笔记本电脑、绿色马克杯、肥皂和点燃的蜡烛。配有小盆栽、金色黄铜弧形浴帘杆和米色浴帘，白色瓷盆上方挂着圆形木质镜子，下方是木质洗漱台和黄铜水龙头。木质座圈马桶，木凳上放着卷好的白毛巾和叠放的书籍，绿色酒瓶，微型盆景，墙上安装的金色壁灯散发着温暖的光芒。墙钩上挂着浅蓝色毛巾，柳条洗衣篮里装满彩色毛巾，圆形的毛绒紫色地垫，米白相间的方格地砖。柔和的黄金时刻光影，舒适的环境光，移轴微缩摄影效果，玩偶屋美学，8k 超高细节，柔和虚化，极其复杂的微缩纹理，Artstation 热门趋势。
+
+[English]
+Adorable cozy isometric 3D miniature {argument name="room type" default="bathroom"} diorama, {argument name="color palette" default="warm terracotta and beige"} color palette, Japanese-style tiny bathroom scene viewed from a {argument name="viewing angle" default="45-degree corner angle"}. Cream ceramic subway tiles with warm wooden trim, vintage clawfoot bathtub filled with blue bubbly foam and a wooden bath tray holding an open laptop, green mug, soap, and lit candles. Small potted plant, golden brass curved shower rod with beige curtain, round wooden mirror above a white porcelain sink with wooden vanity cabinet and brass faucet. Toilet with wooden seat, wooden stool with rolled white towels and stacked books, green wine bottle, tiny bonsai plant, wall-mounted gold sconces glowing warmly. Light blue fluffy towel on wall hook, wicker laundry hamper full of colorful towels, round plush purple bath mat, checkered beige-white floor tiles. Soft warm golden hour lighting, cozy ambient glow, tilt-shift miniature photography effect, dollhouse aesthetic, 8k hyperdetailed, soft bokeh, extremely intricate miniature textures, trending on Artstation.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065451323416617413) | 2026-06-12
+
+---
+
+### 🧸 例 1266：柔和分层纸艺立体模型
+
+![柔和分层纸艺立体模型](../../images/%E6%9F%94%E5%92%8C%E5%88%86%E5%B1%82%E7%BA%B8%E8%89%BA%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为受手工纸艺立体模型美学启发、柔和且具有分层感的纸艺插图。使用平滑的圆润形状、简化可爱的角色比例以及极简的面部特征（如豆豆眼和淡淡的腮红），营造出温暖、迷人且引人注目的外观。通过堆叠的纸层构建场景，展现出强烈的深度和立体感。在图层之间加入细腻的阴影以强调分层结构，同时保持所有切割边缘干净利落，呈现出激光切割卡纸的效果。在每个主要角色周围添加实心白色轮廓，类似于厚实的贴纸边框或白色纸张背衬。此轮廓应使角色与背景清晰分离，并呈现出刻意的分层纸张元素感，而非发光效果。使用柔和的马卡龙色调，包括柔和的蓝色、浅绿色和温暖的中性色。保持整体平衡且舒缓的氛围。光线应柔和、漫射且分布均匀，在增强三维纸层效果的同时，避免强烈的对比或戏剧性的阴影。
+
+[English]
+Transform this image into a soft, layered papercraft illustration inspired by the aesthetic of a handcrafted papercraft diorama. Use smooth, rounded shapes, simplified cute character proportions, and minimal facial features (such as dot eyes and subtle blush) to create a warm, charming, and inviting appearance. Build the scene using stacked paper layers with a strong sense of depth and dimension. Include delicate shadows between layers to emphasize the layered construction, while keeping all cut edges clean and precise, resembling laser-cut cardstock. Add a solid white outline around each main character, similar to a thick sticker border or a white paper backing. This outline should clearly separate the characters from the background and feel like an intentional layered paper element rather than a glow effect. Use a calming pastel color palette featuring muted blues, soft greens, and warm neutral tones. Maintain an overall balanced and soothing atmosphere. Lighting should be soft, diffused, and evenly distributed, enhancing the three-dimensional paper-layer effect while avoiding harsh contrast or dramatic shadows.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2065385896699216275) | 2026-06-12
+
+---
+
+### 🧸 例 1267：3D 卡通形象伴侣特效
+
+![3D 卡通形象伴侣特效](../../images/3D%20%E5%8D%A1%E9%80%9A%E5%BD%A2%E8%B1%A1%E4%BC%B4%E4%BE%A3%E7%89%B9%E6%95%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为参考图像中的人物创建高质量的 {argument name="style" default="3D 卡通伴侣"}，同时确保原始的写实人物完整呈现且不受影响。写实人物必须保持照片级真实感、高度细节化并忠实于原始照片。在他们身边创建一个相同人物的 3D 卡通化版本。保留相同的：服装、发型、配饰、时尚造型、身份、面部特征、姿态和氛围。卡通形象必须具备：大而生动的眼睛、略大的头部、平滑的电影质感皮肤、{argument name="animation style" default="Pixar/Disney 风格的高级 3D 造型"}、较小的身体比例，但仍需看起来时尚且具有辨识度，不得表现得过于幼稚、像玩具或婴儿大小。重要提示：卡通形象的身高应约为真实人物的 {argument name="size" default="肩部到耳部的高度"}，切勿过小或像儿童。卡通形象与真人必须在身体和情感上自然互动。互动示例：牵手、对视、并肩行走、共享物品、倚靠、俏皮姿势、触碰肩膀、模仿姿势、相互回应、自然的化学反应、亲密的陪伴。卡通形象应如同同一个世界中鲜活的动画版人物。尽可能保留原始场景、光影和透视。专业摄影构图、电影级灯光、逼真的阴影，将奢华的编辑级写实感与高级 3D 动画风格完美融合。拒绝微型伴侣、拒绝侧边吉祥物、拒绝脱节的姿势、拒绝独立站立的角色、拒绝玩具比例、拒绝塑料玩偶感、拒绝替换原始人物。
+
+[English]
+Create a premium high-quality {argument name="style" default="3D caricature companion"} of the person in the reference image while keeping the original realistic person fully present and untouched. The realistic person must remain photorealistic, highly detailed and faithful to the original photo. Create a stylized 3D caricature version of the SAME person standing beside them. Preserve the same: outfit, hairstyle, accessories, fashion styling, identity, facial resemblance, attitude and vibe.The caricature must have: large expressive eyes, slightly oversized head, smooth cinematic skin, {argument name="animation style" default="Pixar/Disney-inspired premium 3D styling"}, smaller body proportions, but still look fashionable and recognizable, NOT childish, toy-like or baby-sized.IMPORTANT: The caricature height should be approximately {argument name="size" default="shoulder to ear level"} of the real person, never tiny or child-sized. The caricature and real person must be physically and emotionally interacting naturally. Examples of interaction: holding hands, looking at each other, walking together, sharing an object, leaning, playful pose, touching shoulder, mirroring pose, reacting to each other, casual chemistry, candid companionship. The caricature should feel like a living animated version of the same person existing in the same world. Preserve original scene, lighting and perspective whenever possible. Professional photography composition, cinematic lighting, realistic shadows, luxury editorial realism mixed with premium stylized 3D animation. No tiny companion, no side mascot, no disconnected pose, no separate standing character, no toy proportions, no plastic doll look, no replacing the original person.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2065384202376556927) | 2026-06-12
+
+---
+
+### 🧸 例 1297：Nina 3D 字体人像
+
+![Nina 3D 字体人像](../../images/Nina%203D%20%E5%AD%97%E4%BD%93%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject name" default="NINA"}” 全身摄影棚时尚人像，随意倚靠在拼写为“{argument name="subject name" default="NINA"}”的大型垂直 3D 块状字母旁，简洁的现代编辑构图。女性模特穿着 {argument name="clothing" default="宽松黑色大码 T 恤和黑色工装裤"}，双手插兜，表情自信微妙，姿态自然，双腿交叉，极简造型，穿着运动鞋。深色中性摄影棚背景（哑光炭灰色/灰色），左前方柔和的漫射主光，阴影过渡自然，摄影棚级布光，皮肤上有柔和的高光，真实的皮肤纹理，自然妆容，细腻的织物褶皱。字体：粗体白色 3D 无衬线字母垂直堆叠，略高于主体，哑光质感，柔和阴影，与主体完美对齐。调色：中性，略带冷色调，高端时尚编辑风格，低饱和度，干净的对比度。相机：Sony A1，{argument name="lens" default="85mm"} 镜头，f/2，浅景深，超清晰对焦，杂志级画质，8k，专业摄影棚摄影。负面提示词：背景杂乱，多余文字，身体扭曲，强光，过饱和，模糊，噪点，低细节
+
+[English]
+{argument name="subject name" default="NINA"}” full-body studio fashion portrait, leaning casually against large vertical 3D block letters spelling “{argument name="block text" default="NINA"}”, clean modern editorial composition. Female model in relaxed black oversized t-shirt and black cargo pants, hands in pockets, subtle confident expression, natural pose, crossed legs, minimal styling, sneakers. Dark neutral studio background (matte charcoal/grey), soft diffused key light from front-left, gentle shadow falloff, studio-grade lighting, soft highlights on skin, realistic skin texture, natural makeup, detailed fabric folds. Typography: bold white 3D sans-serif letters stacked vertically, slightly taller than subject, matte finish, soft shadows, perfectly aligned beside subject. Color grading: neutral, slightly cool tones, high-end fashion editorial look, low saturation, clean contrast. Camera: Sony A1, 85mm lens, f/2, shallow depth of field, ultra sharp focus, magazine-quality, 8k, professional studio photography. Negative prompt: cluttered background, extra text, distorted body, harsh lighting, oversaturation, blur, noise, low detail
+```
+
+**来源：** [@PhotoGPT](https://x.com/itsphotogptai/status/2065353269816529380) | 2026-06-12
+
+---
+
+### 🧸 例 1313：皮克斯风格 3D 卡通角色
+
+![皮克斯风格 3D 卡通角色](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%203D%20%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个风格化的 3D 卡通人物，主体为 {argument name="person" default="角色"}，拥有大而生动的眼睛和略显忧郁、闷闷不乐的表情，背景为纯色的 {argument name="background color" default="淡绿色"}。该角色戴着一顶毛茸茸的白色护耳针织帽，并配有同色系的白色头戴式耳机。帽子下露出凌乱的棕色短发。身穿一件宽松的淡绿色 T 恤，胸前印有醒目的黑色图案，双臂交叉，呈现出无聊或烦躁的姿态。柔和的漫反射摄影棚灯光营造出平滑的阴影，质感精致。超精细、高质量的 3D 渲染，采用 {argument name="art style" default="皮克斯风格"}，纹理平滑，浅景深，居中构图，背景简洁极简，配色柔和而鲜明。
+
+[English]
+A stylized 3D cartoon figure of a {argument name="person" default="character"} featuring large expressive eyes and a mildly sad, sulky expression, set against a flat {argument name="background color" default="pastel green"} backdrop. The character sports a plush white fuzzy beanie with ear flaps and coordinating white over-ear headphones. Short, slightly disheveled brown hair peeks out from under the hat. Dressed in a baggy light green tee with a bold black graphic on the chest, arms folded in a bored or irritated stance. Soft, diffused studio lighting creates smooth shadows for a polished look. Ultra-detailed, high-quality 3D render in a {argument name="art style" default="Pixar-inspired"} style, smooth textures, shallow depth of field, centered framing, clean minimal background, gentle yet vivid color scheme.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065300426669580420) | 2026-06-12
+
+---
+

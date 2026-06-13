@@ -655,3 +655,43 @@ Create an ultra-realistic vertical lifestyle photograph of a {argument name="sub
 
 ---
 
+### 🏛️ 例 1257：卡帕多奇亚的暮色雁影
+
+![卡帕多奇亚的暮色雁影](../../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%9A%84%E6%9A%AE%E8%89%B2%E9%9B%81%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节丰富、比例为 3:4 的垂直奇幻写实风景画，描绘 {argument name="location" default="土耳其卡帕多奇亚"} 的暮色景象。从高处全景俯瞰，下方是广阔的山谷，遍布苍白的火山岩地貌和洞穴住宅。画面下半部分充满了精灵烟囱般的石塔、雕凿的岩石房屋、拱形门廊、露台、阶梯、小树，以及城镇中开始闪烁的温暖金色灯光；左侧前景有较大的洞穴房屋立面和阳台，中景和远景则延伸至错落有致的岩石村落、山脊和远山之中。画面上半部分是戏剧性的日落天空，顶部为深钴蓝色，点缀着富有质感的云朵，地平线附近呈现出金、桃、粉和紫罗兰色的光芒。天空中包含 10 只呈松散对角线迁徙队形的飞雁：9 只深褐色翅膀的灰雁和 1 只位于雁群右下方的亮白色大雁；在白雁旁添加一个微小且隐蔽的人物，细节微妙但可被发现。使用 {argument name="sky color palette" default="深蓝、紫罗兰、桃色和金色日落"} 以及 {argument name="town lighting" default="温暖的琥珀色灯笼和窗灯"}。风格应高度精细、具有绘画感且明亮，兼具电影质感、奇幻、宁静与震撼力，建筑线条清晰，具有大气深度，无文字，无边框，无水印。
+
+[English]
+Create a richly detailed vertical 3:4 fantasy-realistic landscape painting of {argument name="location" default="Cappadocia, Turkey"} at twilight, seen from a high panoramic viewpoint over a vast valley of pale volcanic rock formations and cave dwellings. The lower half is filled with fairy-chimney stone towers, carved rock houses, arched doorways, terraces, stairways, small trees, and warm golden window lights beginning to glow throughout the town; the left foreground has larger cave-house facades and balconies, while the middle and right distance recede into a maze of illuminated rock villages, ridges, and distant mountains. The upper half is a dramatic sunset sky with deep cobalt blue at the top, scattered textured clouds, and glowing gold, peach, pink, and violet light near the horizon. Across the sky, include exactly 10 flying geese in a loose diagonal migration formation: 9 gray-brown geese with dark wings and 1 bright white goose at the lower right of the flock; add a tiny hidden small figure beside the white goose, subtle but discoverable. Use {argument name="sky color palette" default="deep blue, violet, peach, and golden sunset"} and {argument name="town lighting" default="warm amber lantern and window lights"}. Style should be highly detailed, painterly yet luminous, cinematic, whimsical, serene, and awe-inspiring, with crisp architecture, atmospheric depth, no text, no border, no watermark.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2065413794059452864) | 2026-06-12
+
+---
+
+### 🏛️ 例 1312：奢华浴室镜面反射
+
+![奢华浴室镜面反射](../../images/%E5%A5%A2%E5%8D%8E%E6%B5%B4%E5%AE%A4%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实奢华肖像摄影，一位自信的运动型男士站在高端现代浴室镜前，身体前倾，双手撑在 {argument name="surface" default="抛光黑色大理石台面"} 上。模特身穿 {argument name="outfit" default="剪裁完美的黑色正装衬衫"}，领口微敞，露出一条精致的银色项链。{argument name="grooming" default="深色短发打理得整齐利落，两侧修剪干净"}，阳刚的面部轮廓，清晰的下颌线，温暖自信的微笑，无瑕的皮肤质感，自然的妆容。
+构图同时捕捉了人物及其在镜中模糊的倒影，营造出精致的双重视角效果。温暖的电影感 LED 镜前灯从两侧勾勒出主体，在面部产生柔和的高光和真实的阴影。奢华的深色石材内饰，哑光黑色浴室配件，高端现代建筑，极简主义高端设计。
+平视拍摄角度，通过镜面与镜头进行直接的眼神交流，浅景深，超细腻的毛孔细节，真实的织物纹理，手腕上隐约可见的手表，台面上自然的手部姿势。专业时尚专题摄影，奢华生活方式广告，电影级调色，柔和暖色调，逼真的反射效果，HDR 画质，85mm 镜头，f/1.8 光圈，面部超清晰对焦，奶油般虚化的背景，杂志封面级品质，8K 分辨率，杰作，高度细节，真实光影，高端男士时尚广告。
+
+[English]
+Ultra-realistic luxury portrait photography, confident athletic man standing in front of a premium modern bathroom mirror, leaning forward with both hands resting on a {argument name="surface" default="polished black marble countertop"}. The subject wears a {argument name="outfit" default="perfectly fitted black dress shirt"} with the top buttons open, revealing a subtle silver chain necklace. {argument name="grooming" default="Short dark hair styled neatly with a clean fade"}, strong masculine facial structure, sharp jawline, warm confident smile, flawless skin texture, natural grooming.
+The composition captures both the man and his blurred reflection in the mirror, creating a sophisticated dual-perspective effect. Warm cinematic LED mirror lighting frames the subject on both sides, producing soft highlights on the face and realistic shadows. Luxury dark-stone interior, matte black bathroom accessories, premium modern architecture, minimalist high-end design.
+Eye-level camera angle, direct eye contact with the camera through the mirror, shallow depth of field, ultra-detailed skin pores, realistic fabric texture, subtle watch visible on the wrist, natural hand positioning on the countertop. Professional fashion editorial photography, luxury lifestyle campaign, cinematic color grading, soft warm tones, photorealistic reflections, HDR quality, 85mm lens, f/1.8 aperture, ultra-sharp focus on the face, creamy bokeh background, magazine-cover quality, 8K resolution, masterpiece, highly detailed, realistic lighting, premium men's fashion advertisement.
+```
+
+**来源：** [@Blitzer](https://x.com/tanzeel617919/status/2065301309025398973) | 2026-06-12
+
+---
+

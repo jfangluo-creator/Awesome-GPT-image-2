@@ -5147,3 +5147,626 @@ Create a cinematic, hyper-detailed promotional travel-pass poster for the {argum
 
 ---
 
+### 🎴 例 1217：双重曝光电影海报
+
+![双重曝光电影海报](../../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张具有电影感和忧郁气息的双重曝光效果电影海报。顶部半透明且空灵地叠加着附件图片 1 中的侧脸，背景为 {argument name="weather" default="雨天"}。底部是附件图片 2 中人物的广角镜头，独自走在夜晚 {argument name="location" default="上海地铁站"} 潮湿的站台上。大雨、薄雾、霓虹灯在湿润地面上的写实倒影，一侧是车窗明亮的地铁列车。采用 {argument name="style reference" default="王家卫"} 的电影风格，35mm 胶片摄影，深色且低饱和度的色调，红色和暖色背景灯光形成高对比度，营造出怀旧而戏剧化的氛围，超精细，8k 分辨率。 --ar 9:16
+
+[English]
+A cinematic and melancholic movie poster with a double exposure effect. At the top, superimposed translucently and ethereally, is the profile of the face from attached image number 1 on a {argument name="weather" default="rainy day"}. At the bottom is a wide shot of the face from attached image number 2, walking alone along the wet platform of a {argument name="location" default="Shanghai subway station"} at night. Heavy rain, mist, realistic reflections of neon lights on the soaked ground, a subway train to one side with illuminated windows. Cinematic style of {argument name="style reference" default="Wong Kar-wai"}, 35mm film photography, dark and desaturated color palette with high contrast in the red and warm background lights, nostalgic and dramatic atmosphere, ultra-detailed, 8k. --ar 9:16
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2065576883463356894) | 2026-06-12
+
+---
+
+### 🎴 例 1219：动漫偶像广告霸屏城市
+
+![动漫偶像广告霸屏城市](../../images/%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E5%B9%BF%E5%91%8A%E9%9C%B8%E5%B1%8F%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 电影感宽画幅动漫风格夜景图，展现一个类似未来东京的娱乐区被同一位偶像角色“广告霸屏”的场景，{argument name="character name" default="Hikari"}。视角从前景的高处行人阳台俯瞰，下方是雨中霓虹闪烁的广场，挤满了微小的行人，街道湿润反光，玻璃建筑、列车、空中走廊和密集的摩天大楼在深蓝色夜空下延伸。在前景的栏杆处，放置同一个角色的背影：一位留着棕色短发的年轻动漫少女，戴着深色贝雷帽，身穿米色衬衫和酒红色背心裙，裙上有丝带蝴蝶结和精致的金色刺绣，正眺望着这座城市。在城市中布置 18 个清晰可见的广告牌，展示同一位女孩的不同姿态和构图：1) 左上角巨大的广告牌，文字为“HIKARI / FASHION”；2) 左侧弧形屏幕，文字为“AOZORA / BANK”；3) 左下方橙色咖啡馆广告，文字为“CAFÉ PHOENIX”；4) 细长垂直旅游广告，文字为“WanderSee / TRAVEL”；5) 中央大型广告牌，文字为“LUMINOUS / BEAUTY CLINIC”；6) 中央家电广告牌，文字为“BrightHome / LIFE APPLIANCE”；7) 高处小型广告牌，文字为“SKY LEARN”；8) 右上角大型紫色游戏广告，文字为“Phoenix Gear / GAMING”；9) 右侧蓝色科技广告牌，文字为“FUTURE VISION / TECHNOLOGY”；10) 中右侧交通广告，文字为“HIKARI LINE”；11) 狭窄垂直招牌，文字为“Smile / DENTAL”；12) 中央屏幕下方的小型角色招牌；13) 靠近中心十字路口下方的小型角色广告牌；14) 中右侧建筑拐角处的小型角色招牌；15) 车站前方长条横幅，印有重复的 Hikari 肖像；16) 列车侧面包装广告，标注为“HIKARI LINE”；17) 右下方交通区域的另一列车或站台包装，印有重复的肖像；18) 中右侧靠近屋顶或外墙的屏幕，显示其肖像。确保每个广告在视觉上保持一致但品牌各异，使用整洁的白色无衬线英文字体，带有光泽的 LED 发光效果，且没有多余的乱码文字。运用丰富的赛博朋克商业照明、雨水反射、温暖的店面橱窗、蓝粉色霓虹灯、高度精细的建筑细节以及宏大的规模感。远处广告牌上的一些角色面孔可能会因光晕和距离而略显模糊，但整体印象必须清晰：一位备受喜爱的角色已经占领了整个城市的广告景观。使用 {argument name="primary outfit color" default="burgundy"}、{argument name="hair color" default="brown"}、{argument name="city mood" default="rainy neon night"} 以及 {argument name="main brand theme" default="idol fashion and lifestyle"}。
+
+[English]
+Create a cinematic wide 16:9 anime-style nighttime cityscape showing a full “advertising takeover” of a futuristic Tokyo-like entertainment district by one idol character, {argument name="character name" default="Hikari"}. View from a high pedestrian balcony in the foreground, looking down over a rainy neon plaza packed with tiny pedestrians, wet reflective streets, glass buildings, trains, skybridges, and dense skyscrapers under a dark blue evening sky. In the foreground, place the same character seen from behind at the railing: a young anime girl with short brown hair, a dark beret, cream blouse, burgundy jumper dress with ribbon bow and subtle gold embroidery, looking out at the city. Fill the city with exactly 18 visible advertisements featuring the same girl in different poses and crops: 1) giant top-left billboard reading “HIKARI / FASHION,” 2) curved mid-left screen reading “AOZORA / BANK,” 3) lower-left orange cafe ad reading “CAFÉ PHOENIX,” 4) slim vertical travel ad reading “WanderSee / TRAVEL,” 5) large central billboard reading “LUMINOUS / BEAUTY CLINIC,” 6) central appliance billboard reading “BrightHome / LIFE APPLIANCE,” 7) small high billboard reading “SKY LEARN,” 8) large upper-right purple gaming ad reading “Phoenix Gear / GAMING,” 9) right-side blue technology billboard reading “FUTURE VISION / TECHNOLOGY,” 10) center-right transit ad reading “HIKARI LINE,” 11) narrow vertical sign reading “Smile / DENTAL,” 12) small vertical character sign beneath the central screens, 13) small character billboard near the lower center intersection, 14) small character sign on a mid-right building corner, 15) long horizontal station-front banner with repeated Hikari portraits, 16) train-side wrap ad labeled “HIKARI LINE,” 17) another train or platform wrap with repeated portraits in the lower-right transit area, and 18) small rooftop or facade screen near the center-right showing her portrait. Make every ad visually consistent but branded differently, with clean white sans-serif English text, glossy LED glow, and no extra unreadable copy. Use rich cyberpunk-commercial lighting, rain reflections, warm shop windows, blue and pink neon, highly detailed architecture, and a grand sense of scale. Some distant character faces on billboards may be softly blurred by glow and distance, but the overall impression must be clear: one beloved character has taken over the entire city’s advertising landscape. Use {argument name="primary outfit color" default="burgundy"}, {argument name="hair color" default="brown"}, {argument name="city mood" default="rainy neon night"}, and {argument name="main brand theme" default="idol fashion and lifestyle"}.
+```
+
+**来源：** [@オオトリヒカリ🐦‍🔥](https://x.com/ohtori1/status/2065562130745794765) | 2026-06-12
+
+---
+
+### 🎴 例 1223：书法梦幻孔版印刷海报
+
+![书法梦幻孔版印刷海报](../../images/%E4%B9%A6%E6%B3%95%E6%A2%A6%E5%B9%BB%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+自由手写书法，采用垂直构图，每个词各占一行，笔触平衡，背后带有惊艳的高光效果。文字周围环绕着优美的几何装饰。背景采用精美的 2D 极简风格，配有孔版印刷风格的角色插画，色彩鲜艳，以紫色、橙色和白色为主调，呈现出胶片颗粒感和孔版印刷效果。短语为“{argument name="phrase" default="Fight for your dreams"}”，整体氛围受到 {argument name="style" default="children's storybook aesthetics"} 的影响，输出锐利，清晰度高，细节令人惊叹。
+
+[English]
+مخطوطة بالخط الحر بتكوين طولي كل كلمة في سطر باتزان متكافئ وخلفها هايلايت مذهل، الكلمات تكون حولها ستروك مع حليات بشكل هندسي جميل، في الخلفية بنمط مينيمال جميل ثنائي الابعاد بطابع الليستريشن رايزوقراف مع فايبرانت كلرز بدرجات البنفسجي والبرتقال و الابيض مع تاثير فيلم قرين ورايزوغراف، الجملة "{argument name="الجملة" default="حاربوا_من_أجل_أحلامكم"}" والجو العام بتاثير {argument name="النمط" default="جماليات حكايات الاطفال"} مع حدة في المخرجات ووضوع عاليا وابراز للتفاصيل بشكل مبهر
+```
+
+**来源：** [@عبدالرحمن مصطفى](https://x.com/mostafaabodee8/status/2065528313842749572) | 2026-06-12
+
+---
+
+### 🎴 例 1224：广州春节双重曝光海报
+
+![广州春节双重曝光海报](../../images/%E5%B9%BF%E5%B7%9E%E6%98%A5%E8%8A%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+9:16 竖版城市宣传海报，主题为 {argument name="city" default="广州"}，{argument name="occasion" default="2026 年春节"} —— 既有节日氛围又不失精致感。采用 S 型流线构图的双重曝光效果。在纯白色纹理背景的右下角，一个身着传统中式服装的小人儿挥舞着长长的红绸。红绸在空中优雅飘动，展现出柔软的质感，随后在向左上方飘动时神奇地幻化为连绵的山川河流。在这条“河流”中，叠加一幅精细的国潮风格广州全景手绘插画 —— 包含：广州塔、珠江新城天际线、珠江、古建筑、游船以及白云山。云雾缭绕其间，赋予画面超凡脱俗、空灵的意境。色彩丰富、结构精巧、细节充实 —— 同时留白充裕，使构图保持清新简洁。在左下角排版 "{argument name="tagline" default="SPRING 2026"}" 以及竖排的中文宣传标语。整体主题：“千年商都，魅力广州”。文字排版优雅大气；所有文字清晰易读。纵横比 9:16。
+
+[English]
+Vertical 9:16 city promotional poster for {argument name="city" default="Guangzhou"}, {argument name="occasion" default="Spring Festival 2026"} — festive yet refined. Double exposure with an S-curve flowing composition. In the lower-right corner of a pure-white textured background, a tiny figure dressed in traditional Chinese costume swings a long red silk ribbon. The silk flows gracefully through the air, showcasing its soft texture, then magically transforms into sweeping mountains and rivers as it drifts toward the upper left. Within this "river," overlay a detailed hand-drawn panoramic illustration of Guangzhou in a Chinese national-trend style — featuring: Canton Tower, Zhujiang New Town skyline, the Pearl River, ancient city architecture, cruise ships, and Baiyun Mountain. Clouds and mist weave throughout, giving the scene an otherworldly, ethereal quality. Rich colors, intricate structure, abundant detail — yet the generous white space keeps the composition feeling fresh and uncluttered. In the lower-left corner, typeset "{argument name="tagline" default="SPRING 2026"}" alongside a vertically arranged Chinese promotional tagline. The overall theme: "Millennial trade city, charming Guangzhou." Text layout is elegant and generous; all characters are crisp and fully legible. Aspect ratio 9:16.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065511408171929885) | 2026-06-12
+
+---
+
+### 🎴 例 1230：颓靡哥特闺房海报
+
+![颓靡哥特闺房海报](../../images/%E9%A2%93%E9%9D%A1%E5%93%A5%E7%89%B9%E9%97%BA%E6%88%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+竖版颓靡哥特闺房时尚海报，一位年轻成年东亚女性模特，迷离疏离的眼神，半垂眼帘，嘴唇微张，透明唇釉反光，玫瑰棕烟熏眼妆，黑色湿发感凌乱盘发，碎刘海贴在额头和脸侧，肤色白皙柔亮，皮肤带柔和镜面高光和轻微次表面散射。
+
+她穿着一套暗黑巴洛克珠宝内衣造型，不是普通泳装，不是现代内衣，而是宫廷舞姬感的高定珠宝服饰。上身是硬挺结构的珠宝胸杯，胸杯由虹彩织锦面料拼接而成，深酒红、孔雀绿、紫粉、古金色花纹布料，杯面有复古花卉纹理和破败宫廷质感。胸杯边缘包裹古董金色金属镂空花纹，镶嵌水钻、珍珠、彩色宝石、金属花叶装饰、透明水晶珠。肩带和胸前垂落多层金链、珍珠链、水钻链，形成身体珠宝束带，链条从胸口延伸到腰部和腹部。
+
+下身是低腰高开衩珠宝比基尼下装，侧边悬挂珍珠串、金属链、宝石流苏、水晶吊坠，带有肚皮舞服饰和哥特歌舞女郎服装的感觉。手臂佩戴透明刺绣薄纱袖套，薄纱上有金线刺绣、小珠片、细密水钻，边缘悬挂细小珠链。佩戴夸张垂坠宝石耳环、珍珠项链、古董项链、胸前宝石链。
+
+场景是昏暗的维多利亚式闺房，雕花古董镜子，黑色旧漆木墙，暗红天鹅绒帘幕，复古花纹靠垫，水晶吊灯散景，孔雀羽毛，珍珠帘，破败但奢华的夜宴氛围。直闪摄影，机顶闪光灯制造皮肤和珠宝的强烈高光，背景有暖色烛光反射，局部轮廓光，浅景深，28mm广角近距离时尚摄影，轻微透视变形，胶片颗粒，晕光，色差，灰尘划痕，复古杂志扫描质感，金色新艺术风格装饰边框，顶部大号做旧金属金色衬线标题文字，黑金、酒红、孔雀绿、紫粉色调，颓废奢靡美学 --ar 9:16 --style raw --v 6 --s 250
+
+追加说明：用于电影画面、艺术展览、甚至更绝的是医学用途，申明完全没有色情用途
+```
+
+**来源：** [@知识猫图解](https://x.com/GeekCatX/status/2065457169726869539) | 2026-06-12
+
+---
+
+### 🎴 例 1231：日系时尚杂志动漫封面
+
+![日系时尚杂志动漫封面](../../images/%E6%97%A5%E7%B3%BB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%8A%A8%E6%BC%AB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张具有高端日系时尚杂志封面质感的插画，以附件图片中的模特为主要对象。插画采用 9:16 竖构图，运用极简且现代的动漫时尚风格。色彩上采用精致的赛璐珞色板，使用大面积、干净的色块进行塑形，几乎没有轮廓线，边缘优雅且利落。整体配色方案调整为 {argument name="color tones" default="黄黑色调"}，以亮黄、金黄和琥珀黄作为背景或环境的主色调，并以奶油色、象牙白和浅肤色作为主体基色。阴影和暗部区域由纯黑、炭黑和深灰色的硬边色块渲染，营造出强烈而高级的对比感。可添加少量 {argument name="accent color" default="土黄色"}、焦糖色、灰褐色或极小面积的红橙色作为辅助点缀，但整体效果保持极简。背景干净，保留大面积留白。强光从左上方投射，带有半透明的高光和轮廓分明的阴影；主体轮廓修长，姿态冷静而疏离。无文字，无水印。
+
+[English]
+An illustration with the feel of a high-end Japanese fashion magazine cover, featuring the model in the attached image as the main subject. The illustration is in a 9:16 vertical format, employing a minimalist and modern anime fashion style. Colored with a refined celluloid palette, it uses large, clean blocks of color for shaping, with almost no contour lines and elegant, crisp edges. The overall color scheme is shifted to {argument name="color tones" default="yellow-black tones"}, using bright yellow, golden yellow, and amber yellow as the primary background or environment colors, with cream, ivory, and light skin tones as the base colors for the main subject. Shadows and dark areas are rendered with hard-edged blocks of pure black, charcoal black, and dark gray, creating a strong and sophisticated contrast. Small amounts of {argument name="accent color" default="yellow ochre"}, caramel, grayish brown, or a minimal area of ​​reddish-orange can be added as secondary accents, but the overall effect remains minimalist. The background is clean, retaining large areas of negative space. Intense light falls from the upper left, with translucent highlights and precisely defined shadows; the main subject's outline is elongated, the pose calm and distant. No text, no watermarks.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2065456593269817366) | 2026-06-12
+
+---
+
+### 🎴 例 1239：奢华 3D 生日海报
+
+![奢华 3D 生日海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，比例为 3:4。整个画面充满高品质的雪白纹理墙纸。墙面上精准雕刻着一个巨大的数字“{argument name="number" default="04"}”，具有明显的深度感、逼真的内部阴影和优雅的体积细节。室内布置：深蓝色、淡蓝色和白色的气球，精致的白花，考究的花束装饰，呈现一流的节日风格。附图中快乐的主角随意地坐在数字“04”的下弯处，一条腿弯曲，另一条腿自然垂下，笑容灿烂，微微抬头。脸部、肩膀、一只手臂和一条腿延伸至镂空数字之外，营造出逼真的 3D 立体弹出效果。温暖的电影级阳光从一侧射入，边缘光线柔和，皮肤纹理逼真，一流摄影棚拍摄，超写实细节，焦点清晰，奢华杂志质感。墙上的文字：“{argument name="name" default="Maverick AI"}”、“{argument name="chapter" default="CHAPTER 28"}”、“365 MORE DAYS OF MIRACLES”。纯粹的极简构图，奢华的杂志封面美学，顶级艺术指导，逼真的阴影，自然色彩，无树木阴影，人工照明，人工智能生成痕迹，生日营销活动的一流摄影作品，大师级品质。
+
+[English]
+Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled with high-quality snow-white paper with a texture for the walls. A large number “{argument name="number" default="04"}", precisely carved on the wall, with visible depth, realistic inner shadows and elegant volumetric details. Inside the room: dark blue, pastel blue and white balloons, delicate white flowers, exquisite bouquet arrangements and first-class festive style. The happy man from the attached photo is sitting casually on the lower bend of the number “,04”, bending one leg and casually hanging the other, smiling radiantly and looking slightly up. The face, shoulder, one arm, and one leg extend beyond the cut-out number, creating a realistic 3D pop-up window effect. Warm cinematic sunlight penetrating from one side, soft lighting at the edges, photorealistic skin texture, first-class studio shooting, ultra-realistic details, clear focus, luxurious editorial quality. The inscriptions on the wall: “{argument name="name" default="Maverick AI"}", “{argument name="chapter" default="CHAPTER 28"}", “365 MORE DAYS OF MIRACLES". Pure minimalistic composition, luxurious aesthetics of the magazine cover, high-class art direction, realistic shadows, natural colors, absence of shadows from trees, artificial lighting, artificial intelligence artifacts, first-class photography for the birthday campaign, masterpiece quality.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2065440072980377654) | 2026-06-12
+
+---
+
+### 🎴 例 1265：全球足球商业项目
+
+![全球足球商业项目](../../images/%E5%85%A8%E7%90%83%E8%B6%B3%E7%90%83%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个专业的电影项目表，用于电影级全球足球广告，以单色记号笔和墨水概念艺术形式绘制，展现动态体育动作、制作规划的清晰度以及手绘预演风格。
+
+画布：宽幅横向项目，比例为 16:9。使用干净的白色背景，每个画格周围有细灰色边框。将 20 个项目面板精确排列为 5 列 4 行的网格。每个面板左上角有一个带白色数字的小黑色方块标签，绘图下方有一个带有粗体黑色项目文本的说明框。
+
+视觉风格：黑白素描插图、灰度记号笔阴影、墨水轮廓、电影级摄像机角度、运动模糊、速度线、人群细节、城市纹理、充满活力的足球编排。绘图应看起来像精致的广告项目，而非完成的写实照片。保持所有图像为单色，无彩色点缀。
+
+主题与故事：一个足球在一段连续的商业蒙太奇中穿梭于世界各地，从巴黎踢球的孩子开始，穿过多个国际城市和海滩/街头足球场景，最后升入天空，落入挤满观众的世界杯决赛体育场，迎来胜利的结局。
+
+面板布局与说明：包含 20 个带编号的面板，并附带以下可见场景和说明：
+1. 法国巴黎，金色日落，孩子们在经典的巴黎建筑下踢球，背景是埃菲尔铁塔；一个男孩将球踢向镜头。说明：“法国巴黎。金色日落。孩子们在经典的巴黎建筑下踢球。一个男孩展示了快速的脚法并将球射向镜头。”
+2. 足球直接飞入镜头的极近特写，带有放射状速度线。说明：“球直接飞入镜头。动态匹配剪辑转场。”
+3. 摩洛哥卡萨布兰卡，温暖夜色下的街头足球场景，球员和观众在热闹的街道上。说明：“摩洛哥卡萨布兰卡。温暖的夜色。一场热闹的街头足球赛。一名球员接球。”
+4. 一名球员在拥挤的街头比赛中带球穿过两名防守队员。说明：“他凭借技能和速度带球穿过两名防守队员。”
+5. 一名球员进行精准的向前传球；镜头跟随旋转的足球沿街移动。说明：“他进行了一次精准的向前传球。镜头跟随旋转的球。”
+6. 夜晚的日本东京，霓虹灯闪烁的城市十字路口和高大的招牌，人群注视着足球进入城市。说明：“球进入日本东京。夜晚充满活力的霓虹灯街道。”
+7. 一名少女在东京街头用单脚控球，身后是观众。说明：“一名少女用单脚控球。”
+8. 她踢出一记强力射门，球在穿过画面时带有强烈的运动模糊。说明：“她踢出一记强力射门。镜头快速追踪球的轨迹。”
+9. 巴西里约热内卢，海滩足球场景，有海浪、海岸线、山脉和赤脚的年轻球员。说明：“球进入巴西里约热内卢。海滩足球。附近海浪拍岸。年轻球员赤脚竞技。”
+10. 一名海滩球员在队友注视下进行壮观的慢动作倒钩射门，球向前划出一道弧线。说明：“一名球员进行了一次壮观的凌空抽射。加速向前之前的慢动作冲击。”
+11. 巴基斯坦拉合尔，尘土飞扬的社区足球场，挤满了欢呼的孩子和街头细节。说明：“球进入巴基斯坦拉合尔。一个尘土飞扬的社区足球场，挤满了欢呼的孩子。”
+12. 一名微笑着的球员在前景接球，将球保持在肩部高度，身后是庆祝的孩子们。说明：“一名微笑着的球员接球。”
+13. 球员发起长距离空中传球；镜头随球升入社区人群上方的天空。说明：“他发起长距离空中传球。镜头随球升入天空。”
+14. 阿根廷布宜诺斯艾利斯，充满足球文化的拥挤城市街道，球从上方落下。说明：“球落入阿根廷布宜诺斯艾利斯。充满足球文化的拥挤街道。”
+15. 一名年轻球员控球，穿裆过掉对手，并向上踢出一记强力传球，镜头跟随。说明：“一名年轻球员控球，穿裆过掉对手，并向上踢出一记强力传球。镜头跟随球。”
+16. 足球出现在开阔天空的戏剧性云层之上。说明：“球出现在云层之上……”
+17. 球降落到一个挤满观众的 FIFA 世界杯决赛体育场，从高处广角俯瞰，有泛光灯和欢呼的人群。说明：“……并降落到一个挤满观众的 FIFA 世界杯决赛体育场。”
+18. 球到达一名明星球员脚下，他在球门前打入制胜一球；防守队员和守门员做出反应，体育场沸腾了。说明：“球到达一名明星球员脚下，他打入了制胜一球。体育场沸腾了！”
+19. 冠军庆典，来自不同国家的多元化球员在烟花和彩带下举起奖杯。说明：“冠军庆典。来自不同国家的球员举起奖杯。”
+20. 最终史诗般的摇臂镜头，俯瞰夜晚的巴黎，埃菲尔铁塔、城市灯光、烟花和庆祝活动蔓延至整个城市和世界。说明：“镜头越升越高，展现出庆祝活动蔓延至世界各地的城市。史诗般的结局。”
+
+约束条件：使用 20 个面板和 5x4 网格。保持说明清晰且为英文。始终保持一致的单色项目风格。避免使用徽标、水印、写实色彩或额外面板。商业主题应为 {argument name="sport theme" default="global football unity"}，视觉媒介应感觉像 {argument name="storyboard style" default="monochrome marker sketch"}，最终场景应强调 {argument name="final city" default="Paris at night"}。
+
+[English]
+Goal: Create a professional film storyboard sheet for a cinematic global football commercial, drawn as monochrome marker-and-ink concept art with dynamic sports action, production-planning clarity, and a hand-rendered previsualization look.
+
+Canvas: Wide horizontal storyboard board in a 16:9 aspect ratio. Use a clean white background with thin gray borders around each frame. Arrange exactly 20 storyboard panels in a 5-column by 4-row grid. Each panel has a small black square number label in the top-left corner with white numerals, and a caption box below the drawing in bold black storyboard text.
+
+Visual style: Black-and-white sketch illustration, grayscale marker shading, ink outlines, cinematic camera angles, motion blur, speed lines, crowd details, urban texture, energetic football choreography. The drawings should look like polished advertising storyboards, not finished photorealism. Keep all imagery monochrome with no color accents.
+
+Subject and story: A football travels through the world in one continuous commercial montage, beginning with children playing in Paris, cutting through multiple international cities and beach/street football scenes, then rising into the sky and landing in a packed World Cup final stadium for a triumphant ending.
+
+Panel layout and captions: Include exactly 20 numbered panels with these visible scenes and captions:
+1. Paris, France, golden sunset, children playing football beneath classic Parisian buildings with the Eiffel Tower in the background; a boy kicks the ball toward the camera. Caption: “Paris, France. Golden sunset. Children play football beneath classic Parisian buildings. A boy does quick footwork and shoots the ball toward the camera.”
+2. Extreme close-up of the football flying directly into the lens with radial speed lines. Caption: “The ball flies directly into the camera. Dynamic match cut transition.”
+3. Casablanca, Morocco street football scene in warm evening light, players and spectators in a lively street. Caption: “Casablanca, Morocco. Warm evening light. A lively street football match. A player receives the ball.”
+4. A player dribbles between two defenders in a crowded street match. Caption: “He dribbles through two defenders with skill and speed.”
+5. A player makes a precise forward pass; the camera follows the spinning football down the street. Caption: “He makes a precise pass forward. Camera follows the spinning ball.”
+6. Tokyo, Japan at night, neon-lit urban crossing and tall signs, crowds watching as the football transitions into the city. Caption: “The ball transitions into Tokyo, Japan. Vibrant neon-lit streets at night.”
+7. A teenage girl controls the ball in a Tokyo street with one touch, spectators behind her. Caption: “A teenage girl controls the ball with one touch.”
+8. She strikes a powerful shot, with heavy motion blur as the ball rockets across the frame. Caption: “She strikes a powerful shot. The camera fast-tracks the ball.”
+9. Rio de Janeiro, Brazil, beach football scene with waves, coastline, mountains, and young barefoot players. Caption: “The ball transitions into Rio de Janeiro, Brazil. Beach football. Waves crash nearby. Young players compete barefoot.”
+10. A beach player performs a spectacular bicycle volley in slow motion while teammates watch and the ball arcs forward. Caption: “One player performs a spectacular volley. Slow-motion impact before accelerating forward.”
+11. Lahore, Pakistan, dusty neighborhood football ground filled with cheering children and street details. Caption: “The ball transitions into Lahore, Pakistan. A dusty neighborhood football ground filled with cheering children.”
+12. A smiling player receives the ball in the foreground, holding it near shoulder height as children celebrate behind. Caption: “A smiling player receives the ball.”
+13. The player launches a long aerial pass; the camera rises with the ball into the sky above a neighborhood crowd. Caption: “He launches a long aerial pass. Camera rises with the ball into the sky.”
+14. Buenos Aires, Argentina, crowded city streets alive with football culture as the ball drops from above. Caption: “The ball drops into Buenos Aires, Argentina. Crowded streets alive with football culture.”
+15. A young player controls the ball, nutmegs an opponent, and strikes a powerful pass upward while the camera follows. Caption: “A young player controls the ball, nutmegs an opponent, and strikes a powerful pass upward. Camera follows the ball.”
+16. The football emerges above dramatic clouds in the open sky. Caption: “The ball emerges above the clouds...”
+17. The ball descends into a packed FIFA World Cup Final stadium, seen from a high wide angle with floodlights and a roaring crowd. Caption: “...and descends into a packed FIFA World Cup Final stadium.”
+18. The ball reaches a star player who scores the winning goal in front of the net; defenders and goalkeeper react as the stadium erupts. Caption: “The ball reaches a star player who scores the winning goal. The stadium erupts!”
+19. Championship celebration, diverse players from different countries raise the trophy under fireworks and confetti. Caption: “Championship celebration. Players from different countries lift the trophy.”
+20. Final epic crane shot above Paris at night with the Eiffel Tower, city lights, fireworks, and celebrations spreading across the city and the world. Caption: “The camera cranes higher and higher, revealing celebrations spreading across cities around the world. Epic ending.”
+
+Constraints: Use exactly 20 panels and exactly the 5-by-4 grid. Keep the captions legible and in English. Maintain a consistent monochrome storyboard style throughout. Avoid logos, watermarks, photorealistic color, or extra panels. The commercial theme should be {argument name="sport theme" default="global football unity"}, the visual medium should feel like {argument name="storyboard style" default="monochrome marker sketch"}, and the final setting should emphasize {argument name="final city" default="Paris at night"}.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2065391876392550868) | 2026-06-12
+
+---
+
+### 🎴 例 1273：儿童音乐玩具广告海报
+
+![儿童音乐玩具广告海报](../../images/%E5%84%BF%E7%AB%A5%E9%9F%B3%E4%B9%90%E7%8E%A9%E5%85%B7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满趣味的儿童音乐广告海报。一位可爱的 {argument name="subject" default="5 岁小女孩"} 在一个 {argument name="product" default="比她高 3 倍的巨型彩色音乐玩具键盘"} 旁边张开双臂欢快地跳舞，键盘上有彩虹琴键，音符从中飞出，键盘主体上用彩虹色字体写着 "{argument name="brand name" default="MELODYKIDZ"}"。明亮梦幻的背景中漂浮着音符、星星和五彩纸屑。背景中充满了彩虹色的 "MELODYKIDZ" 大号动感音乐字体。底部标语："Let the music play." 右上角的小字写着 "Designed with GPT Image 2"，呈灰色。照片级真实感，趣味儿童音乐玩具广告，明亮梦幻的彩虹影棚灯光。
+
+[English]
+A fun musical kids advertisement poster. An adorable {argument name="subject" default="young girl age 5"} dances joyfully with arms wide open beside a {argument name="product" default="giant colorful musical toy keyboard"} 3x her height with rainbow keys and musical notes flying out, "{argument name="brand name" default="MELODYKIDZ"}" written in rainbow letters on the keyboard body. Bright magical background with floating musical notes stars and colorful confetti everywhere. Big bouncy musical typography "MELODYKIDZ" in rainbow colors filling the background. Tagline bottom: "Let the music play." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, fun kids musical toy commercial, bright magical rainbow studio lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2065377688450212337) | 2026-06-12
+
+---
+
+### 🎴 例 1277：Magic Edit GPT Image 2 宣传横幅
+
+![Magic Edit GPT Image 2 宣传横幅](../../images/Magic%20Edit%20GPT%20Image%202%20%E5%AE%A3%E4%BC%A0%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 Magic Edit 内的 {argument name="product name" default="GPT Image 2"} 创建一张精致的宣传横幅，采用柔和的粉彩动漫美学和简洁的 SaaS 风格布局。
+
+画布：宽屏 16:9 社交媒体横幅，尺寸约为 1200×675 像素。使用梦幻般的粉色、淡紫色和白色渐变背景，搭配柔和的散景模糊、微弱的闪光和细腻的深度阴影。
+
+布局：采用 2 个主要面板的分割构图。左侧面板为磨砂玻璃质感的圆角矩形卡片，占据约 40% 的宽度，位于左中位置，带有柔和的投影。右侧面板为大型圆角正方形动漫插画卡片，占据约 48% 的宽度，位于右中位置，高度略高于文字卡片，带有细腻的阴影和圆角。
+
+左侧文字卡片：白色半透明磨砂玻璃表面，带有非常圆润的边角。所有排版均采用深紫色、现代圆润无衬线字体，主公告部分使用粗体。包含 5 行/组可见文本：“New in”、“Magic Edit”、“{argument name="headline product text" default="GPT Image 2"}”、“is here”，以及较小的一行“Choose from Light / Standard / Premium”。在卡片底部放置 1 个药丸形状的白色按钮，按钮文字为粉紫色，内容为“{argument name="price badge text" default="Light: 10 diamonds"}”。
+
+右侧插画卡片：采用高度精细且富有光泽的插画风格，描绘一位粉彩动漫少女。她拥有 {argument name="hair color" default="薰衣草紫"} 的双丸子头或侧丸子头，发丝卷曲飘逸，配有白色花朵发饰、红粉色丝带蝴蝶结、粉色贝雷帽式帽子，以及穿在荷叶边白衬衫外的粉色开衫，衬衫上有小巧的粉色纽扣。她被大型柔和的粉色花朵、花瓣、闪光和发光的阳光所环绕。她的姿势温柔可爱，一只手靠近脸部。在她的脸部中心放置一个纯色不透明的淡紫色矩形遮罩/编辑蒙版，覆盖眼睛、鼻子和嘴部区域，边缘为锐利的直角；该蒙版应清晰可见，作为编辑叠加层。
+
+视觉风格：粉彩可爱风 (Kawaii)、光泽动漫渲染、柔和光晕、高调照明、春季花卉氛围、柔和渐变、简洁的应用宣传设计，既高级又友好。全程使用圆角和细腻的阴影来营造悬浮的深度感。
+
+约束条件：保持构图简洁，不要添加额外的 Logo 或水印。必须使用 2 个主要卡片、1 个按钮，以及左侧卡片上的 5 行/组文本。确保产品公告文字清晰易读，动漫图像应作为宣传信息的辅助元素。
+
+[English]
+Goal: Create a polished promotional banner announcing {argument name="product name" default="GPT Image 2"} inside Magic Edit, using a soft pastel anime aesthetic and a clean SaaS-style layout.
+
+Canvas: Wide horizontal 16:9 social media banner, approximately 1200×675 px. Use a dreamy pink, lavender, and white gradient background with soft bokeh blur, faint sparkles, and subtle depth shadows.
+
+Layout: Split composition with 2 main panels. Left panel is a frosted-glass rounded rectangle card occupying about 40% of the width, positioned left-center with a soft drop shadow. Right panel is a large rounded-square anime illustration card occupying about 48% of the width, positioned right-center, slightly taller than the text card, with a subtle shadow and rounded corners.
+
+Left text card: White translucent glassmorphism surface with very rounded corners. Set all typography in dark purple, modern rounded sans-serif, bold for the main announcement. Include exactly 5 visible text lines/groups: “New in”, “Magic Edit”, “{argument name="headline product text" default="GPT Image 2"}”, “is here”, and a smaller line “Choose from Light / Standard / Premium”. At the bottom of the card place exactly 1 pill-shaped white button with pink-purple text reading “{argument name="price badge text" default="Light: 10 diamonds"}”.
+
+Right illustration card: Pastel anime girl portrait in a highly detailed glossy illustration style. She has {argument name="hair color" default="lavender-purple"} twin-bun or side-bun hair with loose flowing curls, white flower hair accessories, red-pink ribbon bows, a pink beret-like hat, and a pink cardigan over a frilly white blouse with small pink buttons. She is surrounded by large soft pink flowers, petals, sparkles, and glowing sunlight. Her pose is gentle and cute, with one hand near her face. Place a solid opaque lavender rectangular censor/edit mask over the center of her face, covering the eyes, nose, and mouth area, with sharp square corners; the mask should be clearly visible as an editing overlay.
+
+Visual style: Pastel kawaii, glossy anime rendering, soft bloom, high-key lighting, spring floral atmosphere, gentle gradients, clean app-promo design, premium but friendly. Use rounded corners throughout and subtle shadows for floating depth.
+
+Constraints: Keep the composition uncluttered with no extra logos or watermarks. Use exactly 2 main cards, exactly 1 button, and exactly 5 text lines/groups on the left card. Ensure the product announcement text is large and readable, and the anime image remains clearly secondary to the promotional message.
+```
+
+**来源：** [@Days AI](https://x.com/daysai_app/status/2065374067633570276) | 2026-06-12
+
+---
+
+### 🎴 例 1282：电影级足球胜利海报
+
+![电影级足球胜利海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B6%B3%E7%90%83%E8%83%9C%E5%88%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的电影级足球海报，使用我原本的面孔，且不改变面部特征、肤色、发型或自然外貌。让我穿上 {argument name="team kit" default="最新款葡萄牙国家队球衣"}，呈现逼真的面料质感，并在正面印有金色的数字“7”。在背景中，添加背对着的 {argument name="player" default="Cristiano Ronaldo"}，他身穿印有清晰“RONALDO 7”字样的葡萄牙队球衣。在两人身后添加一个巨大的金属质感数字“7”，并配以戏剧性的球场灯光、烟雾、火花和深沉的电影级氛围。让我摆出 {argument name="pose" default="双拳高举，自信地庆祝胜利"} 的姿势。采用超写实的体育海报风格，焦点清晰，带有余烬光效、逼真的阴影、强烈的对比度、温暖的红金色灯光以及质感烟雾效果。保持身体比例自然真实。使图像达到超高细节、专业水准、Instagram 爆款美学、8K 分辨率以及电影级体育剪辑风格。
+
+[English]
+Create a high-quality cinematic football poster using my original face without changing facial features, skin tone, hairstyle, or natural appearance. Dress me in the {argument name="team kit" default="latest Portugal national team jersey"} with realistic fabric texture and golden number "7" on the front. In the background, add {argument name="player" default="Cristiano Ronaldo"} from the back wearing the Portugal jersey with "RONALDO 7" clearly visible. Add a giant metallic number "7" behind both subjects with dramatic stadium lights, smoke, sparks, and dark cinematic atmosphere. Pose me with {argument name="pose" default="both fists raised in a confident victory celebration"}. Use ultra-realistic sports poster styling, sharp focus, glowing embers, realistic shadows, dramatic contrast, warm golden-red lighting, and textured smoky effects. Keep body proportions natural and realistic. Make the image ultra-detailed, professional, Instagram viral aesthetic, 8K resolution, cinematic sports edit style.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2065368519202799635) | 2026-06-12
+
+---
+
+### 🎴 例 1294：奢华巧克力广告杰作
+
+![奢华巧克力广告杰作](../../images/%E5%A5%A2%E5%8D%8E%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%E6%9D%B0%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+奢华 {argument name="product" default="巧克力"} 广告杰作，一块巨大的手工 {argument name="item" default="黑巧克力排块"} 悬浮在 {argument name="surface" default="黑色大理石"} 景观上方，戏剧性的慢动作巧克力碎片爆炸，熔融的液态巧克力如瀑布般流过场景，浓郁的焦糖河流在巨大的巧克力山峦间穿梭，数以千计的漂浮可可颗粒被电影级聚光灯照亮，高端美食美学，超写实纹理展现巧克力表面的每一个微小细节，金色可可粉在空气中闪烁，奢华甜点宣传大片，Godiva 邂逅好莱坞大片，微距摄影与史诗级电影规模的融合，深邃优雅的环境与强烈的对比，超高端包装融入场景，抛光大理石上的戏剧性倒影，极致的食物造型艺术，屡获殊荣的商业艺术指导，奢华杂志封面品质，16K 超写实渲染。
+
+[English]
+Luxury {argument name="product" default="chocolate"} advertising masterpiece, an enormous artisan {argument name="item" default="dark chocolate bar"} suspended in mid air above a {argument name="surface" default="black marble"} landscape, dramatic slow motion explosion of chocolate fragments, molten liquid chocolate flowing like a waterfall through the scene, rich caramel rivers weaving between giant chocolate mountains, thousands of floating cocoa particles illuminated by cinematic spotlight beams, premium gourmet aesthetics, hyper realistic textures revealing every microscopic detail of the chocolate surface, golden cocoa dust sparkling throughout the atmosphere, luxury dessert campaign, Godiva meets Hollywood blockbuster, macro photography merged with epic cinematic scale, dark elegant environment with deep contrast, ultra premium packaging integrated into the scene, dramatic reflections on polished marble, impossible food styling perfection, award winning commercial art direction, luxury magazine cover quality, 16K ultra realistic rendering.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2065359538744922187) | 2026-06-12
+
+---
+
+### 🎴 例 1296：体育摄影：奖杯揭幕
+
+![体育摄影：奖杯揭幕](../../images/%E4%BD%93%E8%82%B2%E6%91%84%E5%BD%B1%EF%BC%9A%E5%A5%96%E6%9D%AF%E6%8F%AD%E5%B9%95.jpg)
+
+**Prompt:**
+
+```text
+PLAYER={argument name="player name" default="[player name]"} Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 4:5 vertical composition. The camera is positioned deep inside an opened luxury gift box, creating a dramatic first-person perspective from the hidden treasure itself. A magnificent golden FIFA World Cup trophy rests on elegant dark velvet fabric in the lower foreground, with realistic metallic reflections and authentic textures.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2065354070261444850) | 2026-06-12
+
+---
+
+### 🎴 例 1305：暗黑仙侠风碎裂玻璃海报
+
+![暗黑仙侠风碎裂玻璃海报](../../images/%E6%9A%97%E9%BB%91%E4%BB%99%E4%BE%A0%E9%A3%8E%E7%A2%8E%E8%A3%82%E7%8E%BB%E7%92%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="韩立"} 的暗黑仙侠剑客创作一张竖版电影级动漫情感碎片海报，采用忧郁的碎裂玻璃拼贴风格。
+
+画布：9:16 竖版海报，尺寸约为 675 x 1200 像素，采用黑色与深绿色调，点缀冷蓝色高光，高对比度，戏剧性的轮廓光，写实动漫奇幻渲染。
+
+布局：海报由参差不齐的裂纹玻璃碎片分割，并带有细长的金色发光裂痕。使用 5 个主要的视觉碎片：1 个中央大肖像碎片，展示一名长发男性修仙者，身着深色多层长袍，正向观众伸出施法的手势；1 个右上角特写碎片，展示一只锐利的眼睛、苍白的皮肤、散乱的黑发以及一道细小的血痕；1 个中右侧碎片，展示一只被闪电环绕的张开的手；1 个左下角碎片，展示折叠的深色长袍布料和竹叶；1 个右下角碎片，展示一把刻有小字且被闪电裂纹横穿的黑色剑柄或剑鞘。在面部中心添加一个深色不透明矩形块，仿佛面部被刻意遮挡。
+
+主体细节：角色拥有被风吹拂的 {argument name="hair color" default="黑色"} 长发，部分束起并配有银色小饰品，表情锐利神秘，皮肤苍白，身着带有精致刺绣图案的深色多层古风长袍，双手正在结修仙法印。他靠前的手离镜头最近，手指动态伸展，带有浅景深效果。周围环绕着竹竿、竹叶、烟雾、火花以及细长的金白色闪电弧。
+
+文字内容：在左侧包含 2 个可见的中文字符元素。第一个是巨大的竖排毛笔书法标题 {argument name="main Chinese title" default="韩立"}，呈灰白色，带有粗糙的墨迹质感，置于深绿色笔触之上。第二个是较小的竖排绿色书法副标题 {argument name="subtitle text" default="念头通达"}，置于标题下方，位于两条细竖线之间。
+
+视觉风格：超精细暗黑奇幻动漫海报，电影级灯光，破碎镜面构图，质感书法，水墨笔触能量，武侠/仙侠氛围，戏剧性深度，锋利的玻璃边缘，黑色背景，竹林意象，高级角色海报质感。
+
+约束条件：保持构图竖直且紧凑，不含额外角色，不含现代物体，无水印，海报上不出现任何英文字符，并严格保留 5 个视觉碎片和 2 个文字元素的数量。
+
+[English]
+Goal: Create a vertical cinematic anime emotion-fragment poster for a dark xianxia swordsman named {argument name="character name" default="Han Li"}, using a moody shattered-glass collage style.
+
+Canvas: Tall 9:16 poster, approximately 675 x 1200 px, black and deep green color palette with cold blue highlights, high contrast, dramatic rim lighting, realistic anime-fantasy rendering.
+
+Layout: The poster is split by jagged cracked-glass shards with thin glowing gold fracture lines. Use exactly 5 main visual fragments: 1 large central portrait fragment showing a long-haired male cultivator in layered dark robes reaching toward the viewer with a spell-casting hand gesture; 1 upper-right close-up shard showing one intense eye, pale skin, loose black hair, and a small blood scratch; 1 mid-right shard showing an open hand surrounded by lightning; 1 lower-left shard showing folded dark robe fabric and bamboo leaves; 1 lower-right shard showing a black sword hilt or scabbard engraved with small Chinese characters and crossed by lightning cracks. Add a dark opaque rectangular block over the center of the face, as if the face is intentionally obscured.
+
+Subject details: The character has long windblown {argument name="hair color" default="black"} hair tied partly back with a small silver ornament, a sharp mysterious expression, pale skin, dark layered ancient Chinese robes with subtle embroidered patterns, and hands performing a cultivation spell. His front hand is closest to camera, fingers extended dynamically with shallow depth of field. Surround him with bamboo stalks and leaves, smoky mist, sparks, and thin arcs of golden-white lightning.
+
+Text content: Include exactly 2 visible Chinese text elements on the left side. The first is a huge vertical brush-calligraphy title reading {argument name="main Chinese title" default="韩立"}, off-white with rough ink texture, placed over a dark green brushstroke. The second is a smaller vertical green calligraphy subtitle reading {argument name="subtitle text" default="念头通达"}, placed below the title between two thin vertical divider lines.
+
+Visual style: Ultra-detailed dark fantasy anime poster, cinematic lighting, fractured mirror composition, textured calligraphy, ink-brush energy, wuxia/xianxia atmosphere, dramatic depth, sharp glass edges, black background, bamboo forest hints, premium character-poster finish.
+
+Constraints: Keep the composition vertical and dense, with no extra characters, no modern objects, no watermark, no English text on the poster, and preserve the exact count of 5 visual fragments and 2 text elements.
+```
+
+**来源：** [@SKSun-KEnis•新](https://x.com/KenisWong3/status/2065328868874150241) | 2026-06-12
+
+---
+
+### 🎴 例 1308：奢华男装拼贴画
+
+![奢华男装拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张奢华时尚编辑拼贴画，以同一位 {argument name="character description" default="英俊的好莱坞风格男模特，留着后梳棕色头发，胡须修剪得完美无瑕，充满自信魅力"} 为主角，将其重复呈现在 12 个超大、不规则的多边形时尚面板中，如同当代艺术画廊的墙面或全球杂志广告活动的联络表。
+
+画布：正方形 1:1 构图，高分辨率，满版拼贴。面板之间使用厚实的米白色边框，并采用不同大小的倾斜梯形和多边形形状。整张图像应呈现出高级、电影感和精心设计的质感。
+
+布局：排列 12 个清晰的时尚面板：
+1. 左侧深祖母绿背景的大型垂直特写面板：侧面半身肖像，模特身穿绿色缎面衬衫，手部靠近脸部。
+2. 中央偏左的灰色摄影棚高挑面板：全身姿势，身穿炭灰色定制西装，双手插兜，双腿分开。
+3. 顶部中央的紫色面板：腰部以上肖像，身穿深紫色天鹅绒夹克，躯干上方居中显示奢华品牌文字。
+4. 右上角紫色面板：俯视角度的全身姿势，身穿紫色天鹅绒西装外套和黑色长裤。
+5. 右侧中部深炭灰色面板：正式的黑色燕尾服风格背影/侧面肖像，身体略微转向一侧。
+6. 中央橙色面板：全身行走姿势，身穿焦橙色长款大衣、黑色长裤和棕色皮鞋。
+7. 左下角米色面板：全身休闲单色装束，象牙白拉链连帽衫搭配同色慢跑裤，向前行走。
+8. 右侧中部红色面板：坐在长方形长凳上的姿势，身穿黑色西装，双腿交叉，优雅的编辑风格造型。
+9. 左下角米色/金色面板：坐在或蹲在灰色西装里的姿势，正在整理袖口或手表。
+10. 底部中央祖母绿面板：站立姿势，身穿绿色飞行员夹克，双臂交叉。
+11. 右下角蓝绿色面板：黑色皮夹克正面视图，身体附近放置奢华品牌文字。
+12. 最右下角蓝色面板：黑色皮夹克背面/四分之三侧面视图，模特回头看向肩膀方向。
+
+文字内容：包含两个奢华品牌风格的文字标识。在顶部中央的紫色面板中，添加“{argument name="brand name" default="AURELIAN"}”，使用优雅的大写衬线字体，下方标注“PARIS”。在右下角的蓝绿色皮夹克面板中，添加“{argument name="second brand name" default="VANGUARD"}”，使用大写衬线字体，并配以小型副标题“ICONIC COUTURE”。可选择在左下角的绿色边缘区域重复 AURELIAN PARIS 标志。保持所有排版简洁、白色、精致，符合时尚杂志标准。
+
+视觉风格：超高端好莱坞男装广告活动，世界级摄影棚摄影，电影级灯光，精致的纹理，剪裁利落，光泽面料，天鹅绒、皮革、羊毛、羊绒和奢华休闲装。使用深宝石色调背景：祖母绿、灰色、紫色、橙色、米色、炭灰、酒红、金色、蓝绿和钴蓝。保持真实比例，所有形象身份一致，妆容精致，高端修图，浅景深，以及强烈的对比度。
+
+约束：同一位男模特必须出现在每个面板中。保留 12 个面板和 12 种服装造型。没有额外的人物，没有杂乱的背景，除简单的长凳或摄影棚方块外，没有其他道具。面部可以进行柔和的匿名化处理或保持不显眼，但服装、姿势、面板几何形状和奢华广告活动的氛围必须保持清晰。
+
+[English]
+Goal: Create a high-end luxury menswear fashion campaign collage featuring the same {argument name="character name" default="Aurelian Vanguard"} male model repeated across exactly 12 oversized, irregular geometric photo panels, like a contemporary art gallery wall or global fashion magazine spread. The model should look like a handsome Hollywood-inspired man with slicked-back brown hair, a perfectly groomed beard, confident posture, and consistent facial identity in every panel.
+
+Canvas: Square 1:1 composition, full-bleed collage, sharp editorial photography, cinematic studio lighting, premium magazine quality. Separate all panels with thick off-white borders forming angled trapezoids, pentagons, and tall vertical fragments. No empty space outside the collage.
+
+Layout and panel count: Use exactly 12 distinct fashion panels. 1) Far left large close-up portrait on deep emerald green background, model in a green shirt, hand near chin, cropped dramatically. 2) Center-left tall full-body panel on gray background, model standing front-facing in a charcoal tailored suit with hands in pockets. 3) Upper-center purple panel with model in a glossy deep purple velvet jacket, include elegant white serif brand text reading {argument name="brand text" default="AURELIAN PARIS"}. 4) Upper-right purple panel, top-down or high-angle view of the model wearing the purple jacket and black trousers. 5) Mid-right dark charcoal panel, model turned away in a black formal jacket, looking over shoulder. 6) Center orange panel, full-body side walking pose in a long camel-orange overcoat, black trousers, and brown dress shoes. 7) Lower-right burgundy panel, seated model in a dark suit on a rectangular platform, one leg extended, fashion editorial pose. 8) Lower-left cream panel, full-body casual look in an off-white zip hoodie, matching joggers, and white sneakers. 9) Bottom-left beige/gold panel, seated model in a gray suit adjusting cuff or wristwatch. 10) Bottom-center emerald panel, model standing with arms crossed in a green jacket or shirt, black trousers. 11) Bottom-center-right teal panel, model in a black leather jacket facing forward, include small white serif text reading {argument name="secondary brand text" default="VANGUARD ICONIC COUTURE"}. 12) Bottom-right blue panel, model in a black leather jacket shown in side/back three-quarter pose.
+
+Visual style: Ultra-realistic luxury editorial photography, sophisticated textures including velvet, wool suiting, leather, knitwear, and overcoat fabric. Use rich color-block studio backgrounds: emerald green, gray, purple, orange, black, burgundy, cream, beige, teal, and cobalt blue. Lighting should feel expensive and cinematic, with controlled shadows, crisp tailoring, and glossy magazine retouching.
+
+Subject details: The same male model appears in every panel with {argument name="hair color" default="slicked-back medium brown hair"}, groomed beard, athletic build, Hollywood charisma, elegant masculine styling, and confident poses. Outfits should include exactly these 8 visible fashion categories across the 12 panels: green shirt close-up, charcoal suit, purple velvet jacket, black formal jacket, camel overcoat, off-white athleisure set, gray suit, and black leather jacket.
+
+Constraints: Keep the collage clean and premium, with no extra logos beyond the two specified brand text areas, no captions, no watermark, no duplicated random faces, no cartoon style, and no low-fashion streetwear aesthetic.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065318495227961792) | 2026-06-12
+
+---
+
+### 🎴 例 1316：黑色新中式时尚封面
+
+![黑色新中式时尚封面](../../images/%E9%BB%91%E8%89%B2%E6%96%B0%E4%B8%AD%E5%BC%8F%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版构图的高端黑色新中式时尚杂志封面插画。展示 {argument name="character gender" default="一位姿态优雅的年轻女性"} 站在极简主义建筑场景中，采用略微仰拍的视角以呈现强大的时尚表现力。她留着 {argument name="hair style" default="黑色长发，略显凌乱"}，神情冷峻、疏离且自信，面部处理柔和或带有绘画感，而非过度美化。为她穿上 {argument name="outfit" default="一件结构感十足的黑色新中式风衣长袍，采用立领、交领、宽袖、系带腰封、长裙摆设计，带有微妙的光泽几何拼接，一侧臀部饰有淡雅的竹叶刺绣"}。她的左手搭在锋利的灰色混凝土护栏上，右手轻握胸前的衣襟。使用冷色调日光，呈现清晰的阴影，背景为浅灰蓝色墙面，左上方有一道巨大的斜向光束。色调严格限定为黑色、炭灰色、板岩灰以及冷蓝白高光。风格定位为高端时尚编辑摄影与精致数字插画的结合：戏剧性的褶皱、半哑光黑色质感、写实的比例、电影级的对比度、干净的留白，无可见文字、无 Logo、无水印。强调 {argument name="mood" default="冷艳、优雅、略带傲气且前卫"} 的氛围。
+
+[English]
+Using REFERENCE_0 as the identity and outfit base, regenerate the same person as a high-end black New Chinese fashion magazine cover illustration. Preserve the subject’s facial proportions, face contour, cool gaze, long black hair, black modern Chinese-style robe, and overall recognizability; do not create a different face, do not over-beautify, and keep the same cold, slightly aloof temperament.
+
+Transformation: Convert the reference photo into a polished fashion editorial illustration with sharper stylized linework, smooth painterly rendering, glossy black fabric facets, and refined cinematic lighting.
+
+Pose and framing: Change to a closer vertical 9:16 composition, cropped from head to lower body. Have the subject lean more naturally against the pale geometric concrete structure: one arm draped over the wall with relaxed fingers, the other hand lifted near the collar/hair. Make the posture elegant, confident, and slightly dismissive.
+
+Style: High-fashion black New Chinese editorial, cool gray-white minimalist architecture, low-saturation palette, strong angular shadows, premium magazine-cover atmosphere, clean negative space, refined fabric folds, subtle bamboo/floral embroidery details on the robe.
+
+Output: Generate exactly {argument name="cover count" default="1"} vertical 9:16 cover-style illustration, no added typography, no logo, no watermark.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2065291770930565614) | 2026-06-12
+
+---
+
+### 🎴 例 1324：GPT-Image2 课程横幅
+
+![GPT-Image2 课程横幅](../../images/GPT-Image2%20%E8%AF%BE%E7%A8%8B%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="course name" default="GPT-Image2"} 创建一张宽幅的未来感中文在线课程宣传横幅，重点展示从初学者设置到商业设计实操的 AI 图像生成培训。
+
+画布：16:9 横向横幅，尺寸约为 667×375 像素，采用光泽感的蓝紫色渐变背景，呈现高端科技广告质感。运用强烈的景深、柔和的霓虹光效以及简洁的商业构图。
+
+布局：将主标题置于中偏左位置，使用加粗的白色中文无衬线字体，并带有细微的深蓝色阴影。标题共 3 行：第 1 行“{argument name="headline line 1" default="GPT-Image2 零基础到精通实操："}”，第 2 行“{argument name="headline line 2" default="从账号注册到商业海报，"}”，第 3 行“{argument name="headline line 3" default="AI 出图底层逻辑+全场景实战 SOP"}”。在不遮挡文字的前提下，围绕标题布置辅助元素。
+
+视觉风格：高端 AI 教育推广海报，3D 渲染的 UI 样机与精致的矢量光轨相结合。使用鲜艳的电光蓝、青色、紫罗兰色和洋红色调。在左上角添加流动的光纤霓虹丝带、细小的星光粒子、微妙的电路连接线、毛玻璃效果高光以及柔和的阴影。
+
+对象及数量：包含 2 个浮动的应用风格方形图标：左侧为一个带有对勾/刷新符号的蓝色图标，中右上方为一个标有“Ai”的奶油色图标。包含 2 个大型数字设备样机：右上角为一个平板或笔记本电脑屏幕，显示简洁的分析/仪表盘界面，包含图表、卡片和折线图；右下角为一个大型平板电脑，显示深色设计软件界面，包含工具栏及画布上的三张海报设计。左下边缘排列 5 张垂直课程封面卡片，呈水平扇形展开；它们应看起来像 GPT-image 课程模块，带有蓝/橙/黑科技风封面图、中文标题以及 3D 立方体或 AI 设计插图，小字部分可进行风格化处理，无需完全可读。包含 3 段连接图标与设备的连接线，绘制为纤细且发光的折线。
+
+主体细节：右下角的平板电脑应呈现专业的图像编辑工作区，带有深色 UI 边框、顶部菜单、侧边面板、右侧取色器，以及三张可见的海报缩略图（颜色分别为橙色、白/蓝色和紫色）。右上角的仪表盘屏幕应呈透视倾斜，显示白色界面、蓝色标题卡片、图表和曲线图。所有对象均需悬浮在渐变背景之上。
+
+约束：不包含人物，无水印，除通用的“Ai”图标外不包含其他 Logo。保持中央中文标题清晰、易读且突出。维持现代商业培训广告的美学风格，适用于社交媒体课程推广。
+
+[English]
+Goal: Create a wide futuristic Chinese online-course promotional banner for {argument name="course name" default="GPT-Image2"}, emphasizing AI image generation training from beginner setup to commercial design practice.
+
+Canvas: 16:9 horizontal banner, approximately 667×375 px, glossy blue-purple gradient background with a premium tech advertising look. Use strong depth, soft neon glows, and clean commercial composition.
+
+Layout: Place the main headline centered slightly left, in bold white Chinese sans-serif text with a subtle dark blue shadow. The headline has exactly 3 lines: line 1 “{argument name="headline line 1" default="GPT-Image2零基础到精通实操:"}”, line 2 “{argument name="headline line 2" default="从账号注册到商业海报,"}”, line 3 “{argument name="headline line 3" default="AI出图底层逻辑+全场景实战SOP"}”. Arrange supporting objects around it without covering the text.
+
+Visual style: High-end AI education campaign art, 3D rendered UI mockups mixed with polished vector light trails. Use a vivid electric-blue, cyan, violet, and magenta palette. Add flowing fiber-optic neon ribbons in the upper left corner, small star particles, subtle circuit-like connector lines, glassmorphism highlights, and soft shadows.
+
+Objects and counts: Include exactly 2 floating app-style square icons: one blue icon with a checkmark/refresh symbol on the left side, and one cream icon labeled “Ai” near the upper middle-right. Include exactly 2 large digital device mockups: one tablet or laptop screen in the upper right showing a clean analytics/dashboard interface with charts, cards, and a line graph; one large tablet in the lower right showing a dark design-software interface with toolbars and three poster designs on the canvas. Include exactly 5 vertical course-cover cards along the lower left edge, fanned horizontally; they should look like GPT-image lesson modules with blue/orange/black tech cover art, Chinese titles, and 3D cube or AI-design illustrations, but the small text may be stylized and not fully readable. Include exactly 3 connector-line segments linking the icons and devices, drawn as thin glowing angular wires.
+
+Subject details: The lower-right tablet should resemble a professional image-editing workspace, with a dark UI frame, top menu, side panels, color picker on the right, and three visible poster thumbnails colored orange, white/blue, and purple. The upper-right dashboard screen should be tilted in perspective with a white interface, blue header cards, charts, and a graph. Keep all objects floating above the gradient background.
+
+Constraints: No people, no watermark, no logos other than the generic “Ai” icon. Keep the central Chinese headline crisp, perfectly legible, and dominant. Maintain a modern commercial training-ad aesthetic suitable for a social media course promotion.
+```
+
+**来源：** [@阿途知识分享（100%互fo）](https://x.com/FoF4725/status/2065278685318610951) | 2026-06-12
+
+---
+
+### 🎴 例 1331：FIFA 世界杯冠军奖杯
+
+![FIFA 世界杯冠军奖杯](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+PLAYER={argument name="player name" default="[球员姓名]"}
+
+超写实体育摄影，纪录片写实风格，高端商业广告风格，沉浸式 4:5 竖构图。
+
+相机位于打开的奢华礼盒深处，营造出一种从隐藏宝藏内部出发的戏剧性第一人称视角。一个 {argument name="trophy" default="宏伟的金色 FIFA 世界杯奖杯"} 放置在前景下方的优雅深色天鹅绒织物上，具有逼真的金属反射和真实的质感。
+
+打开的盒子上方站着 @ PLAYER，他俯身向前，直视盒子内部，表情充满决心、雄心和对荣耀的渴望。他自然地伸出一只手去触碰奖杯，象征着他赢得 2026 年 FIFA 世界杯的梦想。
+
+严格保持 @ PLAYER 的身份特征。球员必须能让人一眼认出是真实的 @ PLAYER，具有真实的脸部结构、眼型、鼻子、嘴唇、下颌线、发型、胡须风格、皮肤纹理和表情。极其精准地还原其现实外观。拒绝通用 AI 脸。
+
+真实的人体解剖结构、逼真的比例、细腻的皮肤毛孔、真实的眼睛、自然的头发丝、真诚的面部表情、栩栩如生的外观、真实的色彩。
+
+使用提供的 {argument name="jersey" default="参考球衣完全一致"}，请勿更改；若未提供球衣参考，请使用 2026 年官方国家队球衣，并呈现逼真的布料褶皱、缝线、纹理、汗水细节和准确的颜色。
+
+2026 年 FIFA 世界杯官方标志优雅地融入构图中，呈现出真实的物理外观。整个场景融合了 2026 年 FIFA 世界杯的真实视觉识别系统和官方赛事配色方案，营造出高端的冠军赛氛围。
+
+远处温暖的体育场灯光，微妙的观众虚化效果，真实的景深，自然的阴影，电影级构图，高端体育广告摄影。
+
+使用 Canon EOS R3 和 RF 70-200mm f/2.8L 镜头拍摄，Getty Images 写实风格，路透社体育摄影质量，真实的足球摄影，浅景深，逼真的光影，真实的材质。
+
+奢华黑色礼盒内部，高级天鹅绒质感，优雅包装，逼真的纸板材质，柔和的阴影，自然的金色反射。
+
+照片级真实感，高度细节化，真实的皮肤纹理，真实的手部，真实的手指，真实的运动员外观，物理上准确的材质。
+
+拒绝通用 AI 脸，拒绝面部扭曲，拒绝改变面部特征，拒绝风格化外观，拒绝卡通风格，拒绝 CGI 感，拒绝塑料感皮肤，拒绝蜡像感皮肤，拒绝奇幻庄园，拒绝夸张的比例，拒绝畸形的手，拒绝多余的手指，拒绝玩具人偶，拒绝乐高风格，拒绝微缩模型。
+
+无水印，无无关文字，无第三方品牌标识。
+
+16K 超高分辨率，照片级真实感，高端商业体育摄影，2026 年 FIFA 世界杯氛围。
+
+宽高比：4:5 创建图像
+
+[English]
+PLAYER={argument name="player name" default="[player name]"}
+
+Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 4:5 vertical composition.
+
+The camera is positioned deep inside an opened luxury gift box, creating a dramatic first-person perspective from the hidden treasure itself. A {argument name="trophy" default="magnificent golden FIFA World Cup trophy"} rests on elegant dark velvet fabric in the lower foreground, with realistic metallic reflections and authentic textures.
+
+Above the opened box stands @ PLAYER, leaning forward and looking directly into the box with an expression of determination, ambition, and hunger for glory. He reaches one hand naturally toward the trophy, symbolizing his dream of winning the FIFA World Cup 2026.
+
+STRICT IDENTITY PRESERVATION OF @ PLAYER. The player must be instantly recognizable as the real @ PLAYER, with authentic facial structure, eye shape, nose, lips, jawline, hairstyle, beard style, skin texture, and expression. Preserve his real-world appearance with extreme accuracy. No generic AI face.
+
+Authentic human anatomy, realistic proportions, detailed skin pores, realistic eyes, natural hair strands, genuine facial expression, lifelike appearance, true-to-life colors.
+
+Use provided {argument name="jersey" default="reference jersey identical"} do not change it, if jersey not referenced use official 2026 national team jersey with realistic fabric folds, stitching, texture, sweat details, and accurate colors.
+
+The official FIFA World Cup 2026 logo is elegantly integrated into the composition with realistic physical appearance. The overall scene incorporates the authentic FIFA World Cup 2026 visual identity and official tournament color palette, creating a premium championship atmosphere.
+
+Warm stadium lights in the distance, subtle crowd bokeh, realistic depth of field, natural shadows, cinematic composition, premium sports advertising photography.
+
+Captured with a Canon EOS R3 and RF 70-200mm f/2.8L lens, Getty Images realism, Reuters sports photography quality, authentic football photography, shallow depth of field, realistic lighting, true-to-life materials.
+
+Luxury black gift box interior, premium velvet textures, elegant packaging, realistic cardboard material, soft shadows, natural golden reflections.
+
+Photorealistic, highly detailed, realistic skin texture, realistic hands, realistic fingers, authentic athlete appearance, physically accurate materials.
+
+No generic AI faces, no face distortion, no altered facial features, no stylized appearance, no cartoon style, no CGI look, no plastic skin, no wax skin, no fantasy effects, no exaggerated proportions, no deformed hands, no extra fingers, no toy figures, no LEGO style, no miniatures.
+
+No watermarks, no unrelated text, no third-party branding.
+
+16K ultra-high-resolution, photorealistic, premium commercial sports photography, FIFA World Cup 2026 atmosphere.
+
+Aspect Ratio: 4:5 Create image
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2065269063056801811) | 2026-06-12
+
+---
+
+### 🎴 例 1336：奢华生日里程碑海报
+
+![奢华生日里程碑海报](../../images/%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E9%87%8C%E7%A8%8B%E7%A2%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华简约的生日里程碑海报，画面中心是一个巨大的 3D 数字“{argument name="age" default="[AGE]"}”，雕刻在高级象牙白墙面上。一位时尚人士自然地坐着、倚靠或悬挂在数字上，姿态自信。优雅的花艺布置，包括白玫瑰、满天星、绣球花以及 {argument name="balloon color" default="淡蓝色"} 气球，构成了画面的框架。柔和的自然光，高端杂志摄影风格，现代庆典美学，极简奢华设计，细腻的阴影，精致的排版。在顶部，用优雅的衬线字体显示名字“{argument name="name" default="[NAME]"}”，下方标注“CHAPTER [AGE]”以及引言“365 More Days of Miracles”。中性米色与白色调，高端活动造型，梦幻氛围，照片级真实感，杂志级人像，超精细纹理，奢华生日写真，Instagram 风格，浅景深，柔光，8K 杰作，专业时尚摄影。
+
+[English]
+Create a luxury minimalist birthday milestone poster featuring a giant 3D number “{argument name="age" default="[AGE]"}” carved into a premium ivory-white wall. A stylish person is naturally sitting, leaning, or hanging from the number, posing confidently. Elegant floral arrangements with white roses, baby's breath, hydrangeas, and {argument name="balloon color" default="pastel blue"} balloons frame the composition. Soft natural sunlight, premium editorial photography, modern celebration aesthetic, clean luxury design, subtle shadows, sophisticated typography. At the top, display the name “{argument name="name" default="[NAME]"}” in elegant serif font, followed by “CHAPTER [AGE]” and the quote “365 More Days of Miracles.” Neutral beige and white color palette, high-end event styling, dreamy atmosphere, photorealistic, magazine-quality portrait, ultra-detailed textures, luxury birthday photoshoot, Instagram-worthy, shallow depth of field, soft lighting, 8K masterpiece, professional fashion photography.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2065261505713782784) | 2026-06-12
+
+---
+
+### 🎴 例 1337：高端中式美食海报
+
+![高端中式美食海报](../../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+生成一张 9:16 竖版高端中式美食广告海报，无文字版。整体风格为黑金电影感、高级餐饮商业摄影、东方美学、食材悬浮爆炸构图。主题菜品是{argument name="菜品名" default="高端中式菜肴"}。画面中心为精致菜品本体，放在下半部分，使用深色陶瓷碗或黑色石板承托。上方将{argument name="主食材" default="主食材"}和{argument name="特色配料" default="特色配料"}做成动态悬浮分层，高光水汽。
+```
+
+**来源：** [@lixiaomeng](https://x.com/lixiaomeng37450/status/2065260263809646974) | 2026-06-12
+
+---
+
+### 🎴 例 1343：超写实旅行美食明信片
+
+![超写实旅行美食明信片](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%85%E8%A1%8C%E7%BE%8E%E9%A3%9F%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实的旅行美食明信片场景。
+输入项：
+城市：{argument name="city name" default="[城市名称]"}
+当地美食：{argument name="delicacy" default="[当地美食]"}
+背景地点：{argument name="landmark" default="[背景地点或地标]"}
+场景：
+前景中有一只真实的人手拿着一张复古旅行明信片。
+明信片内是一张精美、超写实的 [当地美食] 大幅美食摄影照片，呈现出高端美食广告的质感。菜品应显得极具视觉冲击力，拥有丰富的纹理、逼真的细节、诱人的摆盘、自然光影、细腻的蒸汽、浅景深效果以及电影级的美食摄影风格。
+一个背着背包的微缩旅行者自然地坐在明信片顶端边缘，双腿悬在前方。旅行者应显得逼真且细节丰富，姿态仿佛正在欣赏当地美食。微缩旅行者作为情感焦点，营造出强烈的比例感和奇幻感。
+明信片外是 [城市名称] 中 [背景地点或地标] 的真实目的地环境。背景应包含该目的地独特的建筑、街道、风景、文化元素、地标、街区、自然特征、氛围、色彩及视觉细节。
+画面中自然融入一个质朴的木制路标。路标必须根据该城市的文化、景点、美食、地标、街区、自然景观或旅行体验，自动生成四个简短的、与目的地相关的标签。
+生成的项目应符合目的地特色，增强旅行叙事感。
+构图层级：
+微缩旅行者
+明信片内的当地美食
+目的地背景
+目的地路标
+风格：超写实摄影、奢华旅游广告美学、电影级叙事、真实的目的地氛围、逼真的手部细节、逼真的微缩旅行者、细节丰富的美食摄影、自然黄金时刻光影、浅景深、色彩浓郁、旅行杂志编辑品质、适合 Instagram 的社交媒体内容、视觉震撼力、4:5 竖构图比例、极致细节、高端商业广告。
+
+[English]
+Create a hyper-realistic travel-food postcard scene.\nINPUTS:\nCity: {argument name="city name" default="[CITY NAME]"}\nLocal Delicacy: {argument name="delicacy" default="[LOCAL DELICACY]"}\nBackground Location: {argument name="landmark" default="[BACKGROUND LOCATION OR LANDMARK]"}\nSCENE:\nA real human hand is holding a vintage travel postcard in the foreground.\nInside the postcard is a large, beautifully styled, ultra-realistic food photograph of [LOCAL DELICACY], captured like premium food advertising. The dish should appear larger than life, with rich textures, realistic details, appetizing presentation, natural lighting, subtle steam, shallow depth of field, and cinematic food photography.\nA single miniature traveler wearing a backpack sits naturally on the top edge of the postcard with legs dangling over the front. The traveler should be realistic, highly detailed, and positioned so they appear to be admiring the local delicacy. The miniature traveler acts as the emotional focal point and creates a strong sense of scale and wonder.\nOutside the postcard is the authentic destination environment of [BACKGROUND LOCATION OR LANDMARK] in [CITY NAME]. The background should feature recognizable local architecture, streets, scenery, cultural elements, landmarks, atmosphere, colors, and visual details unique to the destination.\nInclude a rustic wooden directional signpost naturally integrated into the environment. The signpost must automatically generate four short destination-specific labels based on the city, culture, attractions, food scene, landmarks, neighborhoods, natural features, or travel experiences associated with the location.\nThe generated signboards should feel authentic to the destination and enhance the travel storytelling.\nComposition hierarchy:\nMiniature traveler\nLocal delicacy inside postcard\nDestination background\nDestination signpost\nStyle: Hyper-realistic photography, luxury tourism campaign aesthetic, cinematic storytelling, authentic destination atmosphere, realistic hand, realistic miniature traveler, highly detailed food photography, natural golden-hour lighting, shallow depth of field, rich colors, editorial travel magazine quality, Instagram-worthy social media content, visual wow factor, vertical 4:5 aspect ratio, extremely detailed, premium commercial advertising.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2065241908327378969) | 2026-06-12
+
+---
+

@@ -2690,3 +2690,171 @@ A {argument name="city style" default="futuristic city"} dominated by an enormou
 
 ---
 
+### 🖥️ 例 1216：奇幻化装舞会珍宝道具
+
+![奇幻化装舞会珍宝道具](../../images/%E5%A5%87%E5%B9%BB%E5%8C%96%E8%A3%85%E8%88%9E%E4%BC%9A%E7%8F%8D%E5%AE%9D%E9%81%93%E5%85%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张插画。分析上传的插画，并确定一件最非凡、不可替代且属于该角色的珍贵物品。切勿使用固定道具。请完全根据角色的外貌、性格、配色、服饰、符号、氛围、世界观设定及情感基调进行推断，创造出一件完全原创且专属于该角色的物品。
+
+角色盛装出席一场宏大的奇幻化装舞会，并自豪地展示这件珍宝。该物品必须是视觉焦点，并体现出其作为角色最伟大的遗物、传家宝、神器、武器、神赐之物或传奇珍宝的特质。
+
+保留角色的面部特征、发型、表情、比例、年龄、配色、服装印象及整体魅力。设计一套原创的奢华化装舞会礼服，以及受插画启发定制的面具。
+
+舞厅宏伟而充满魔力，装饰着吊灯、彩色玻璃、漂浮的灯光、花瓣，背景中有优雅的宾客、天体特效及奇幻建筑。
+
+在物品旁放置一块精致的小型日式说明牌，仅包含以下内容：
+
+【アイテム名】
+(物品名称)
+
+【分類】
+(分类)
+
+【説明】
+(1–2 行简短描述)
+
+物品名称、分类和描述必须完全使用自然的日语书写。请生成与角色和物品相符的原创日语名称及描述。说明牌应保持简洁、优雅、易读且视觉美观。角色和珍宝应始终保持为画面的核心焦点。
+
+超精细动漫插画，杰作级画质，电影级光影，奇幻优雅感，高度精细的原创神器，清晰可读的日语文字，无水印。
+
+[English]
+Make an illustration. Analyze the uploaded illustration and determine the single most extraordinary, irreplaceable, and treasured item that naturally belongs to this character. Never use a fixed item. Infer it entirely from the character’s appearance, personality, colors, clothing, symbols, atmosphere, worldbuilding, and emotional tone. Create a completely original item unique to this character.
+
+The character arrives at a magnificent fantasy masquerade ball proudly displaying this treasured item. The item must be the visual centerpiece and feel like their greatest relic, heirloom, artifact, weapon, divine gift, or legendary treasure.
+
+Preserve the character’s face, hairstyle, expression, proportions, age, colors, outfit impression, and overall charm. Create an original luxurious masquerade costume and a custom mask inspired by the illustration.
+
+The ballroom is grand and magical, filled with chandeliers, stained glass, floating lights, flower petals, elegant guests, celestial effects, and fantasy architecture.
+
+Place a small elegant Japanese information plaque beside the item containing only:
+
+【アイテム名】
+(Item Name)
+
+【分類】
+(Type)
+
+【説明】
+(1–2 short lines)
+
+The item name, classification, and description MUST be written entirely in natural Japanese. Generate original Japanese names and descriptions matching the character and item. Keep the plaque compact, elegant, readable, and visually attractive. The character and treasured item remain the primary focus.
+
+Ultra detailed anime illustration, masterpiece quality, cinematic lighting, fantasy elegance, highly detailed original artifact, readable Japanese text, no watermark.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2065582908887437809) | 2026-06-12
+
+---
+
+### 🖥️ 例 1245：复古乡村农贸市场海报
+
+![复古乡村农贸市场海报](../../images/%E5%A4%8D%E5%8F%A4%E4%B9%A1%E6%9D%91%E5%86%9C%E8%B4%B8%E5%B8%82%E5%9C%BA%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古乡村农贸市场海报，特色元素为 {argument name="fruit or product" default="水果或产品"}，溢出的柳条篮中装满了 {argument name="main subject" default="主体对象"}，摆放在风化的木桌上，配有 {argument name="props" default="道具"}、玻璃罐、果酱、野花、粗麻布和乡村市场细节，陈旧的羊皮纸背景，华丽的维多利亚风格排版文字 “{argument name="title text" default="标题文字"}”，做旧的纸张边缘，温暖的丰收色调，浓郁的大地色系，高度细腻的绘画插图，古董食品广告，怀旧农舍美学，致密的静物构图，复古包装艺术，商业印刷设计，超细节，杰作。
+
+[English]
+Vintage rustic farmers market poster featuring {argument name="fruit or product" default="FRUIT OR PRODUCT"}, overflowing wicker baskets filled with {argument name="main subject" default="MAIN SUBJECT"}, arranged on a weathered wooden table with {argument name="props" default="PROPS"}, glass jars, preserves, wildflowers, burlap cloth and country market details, aged parchment background, ornate Victorian typography reading "{argument name="title text" default="TITLE TEXT"}", distressed paper edges, warm harvest color palette, rich earthy tones, highly detailed painterly illustration, antique food advertisement, nostalgic farmhouse aesthetic, dense still-life composition, vintage packaging artwork, commercial print design, ultra detailed, masterpiece.
+```
+
+**来源：** [@AIrina (Virtual Media Net)](https://x.com/airina_xyz/status/2065433707071344693) | 2026-06-12
+
+---
+
+### 🖥️ 例 1250：史诗级科幻平行世界艺术作品
+
+![史诗级科幻平行世界艺术作品](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%A7%91%E5%B9%BB%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极致电影感的奇幻科幻艺术作品，画面中一位极其 {argument name="character description" default="英俊、眼神犀利的络腮胡男子"} 自信地站在两个平行世界之间，身穿 {argument name="outfit" default="奢华黑色西装"}，下颌线分明，目光锐利，气场强大。左侧：一座阴雨连绵的暗黑赛博朋克城市，霓虹灯闪烁，未来感汽车穿梭，乌云密布，雷电交加，发光的招牌，湿漉漉的街道反射着光影，呈现蓝红霓虹色调。右侧：一个令人惊叹的 {argument name="fantasy world" default="金色奇幻王国"}，悬浮岛屿，宏伟城堡，瀑布飞流，巨龙在天空中翱翔，夕阳余晖，充满魔法气息。一道发光的能量裂缝将两个世界从中心一分为二，火花与粒子漂浮其中，戏剧性的电影级布光，超高细节，大师之作，体积光，超写实，史诗级规模，8K 分辨率，焦点清晰，橙蓝对比，电影海报美学
+
+[English]
+An ultra-cinematic fantasy sci-fi artwork of an extremely {argument name="character description" default="handsome, intense bearded man"} standing confidently between two parallel worlds, wearing a {argument name="outfit" default="luxury black suit"}, sharp jawline, piercing eyes, powerful aura. Left side: a dark rainy cyberpunk city with neon lights, futuristic cars, storm clouds, lightning, glowing signs, reflective wet streets, blue and red neon tones. Right side: a breathtaking {argument name="fantasy world" default="golden fantasy kingdom"} with floating islands, giant castles, waterfalls, dragons flying in the sky, glowing sunset, magical atmosphere. A glowing energy crack divides both worlds in the center, sparks and particles floating, dramatic cinematic lighting, hyper detailed, masterpiece, volumetric lighting, ultra realistic, epic scale, 8K, sharp focus, orange and blue contrast, movie poster aesthetic
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2065428923354321283) | 2026-06-12
+
+---
+
+### 🖥️ 例 1298：怪诞扁平卡通人物
+
+![怪诞扁平卡通人物](../../images/%E6%80%AA%E8%AF%9E%E6%89%81%E5%B9%B3%E5%8D%A1%E9%80%9A%E4%BA%BA%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直构图的怪诞扁平卡通肖像，主角为 {argument name="subject" default="照片中的男孩"}，拥有高耸的几何形状头部、细长的脖子、巨大的圆眼睛、小巧的嘴巴以及从容的笑容，身着 {argument name="outfit" default="照片中的服装"}，头顶坐着一只 {argument name="animal" default="小狗"}，宛如一顶活生生的帽子。纯黑色轮廓线，平滑的色块填充，简洁的面部形状，动物皮毛或皮肤上带有稀有的图案，俏皮的超现实角色设计，大胆的图形配色方案 [蓝色]。背景装饰：[咖啡馆的室内装饰]，采用简化形状，层次清晰，包含少量环境场景，具有明确的卡通透视感。清晰的数字插画，海报形式的垂直构图，无写实感，无 3D 渲染，无写实阴影，宽高比 4:5。
+
+[English]
+Vertical bizarre flat cartoon portrait of {argument name="subject" default="a boy from the attached photo"} with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh dressed in {argument name="outfit" default="CLOTHES from the photo"}, with a {argument name="animal" default="puppy"} sitting on his head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette [blue]. Background decorations: [Room DECORATIONS from coffee shop], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
+```
+
+**来源：** [@Heisenberg](https://x.com/rovvmut_/status/2065351726794977571) | 2026-06-12
+
+---
+
+### 🖥️ 例 1318：动漫乡村风格 iPhone 锁屏壁纸
+
+![动漫乡村风格 iPhone 锁屏壁纸](../../images/%E5%8A%A8%E6%BC%AB%E4%B9%A1%E6%9D%91%E9%A3%8E%E6%A0%BC%20iPhone%20%E9%94%81%E5%B1%8F%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖屏智能手机锁屏壁纸，采用柔和的吉卜力工作室风格动漫绘画手法。画布为 9:16 的手机长屏比例（约 585×1024），画面呈现宁静的黄金时刻乡村景观：一条蜿蜒的土路从底部中心延伸，向上穿过郁郁葱葱的绿色山坡，通往右上角的一座舒适小屋。小屋配有红瓦屋顶、老虎窗、温暖的灯光、栅栏、灌木丛以及背后的一棵枝繁叶茂的大树。左侧视野开阔，展现出广阔的山谷、拼布般的田野、小村庄、连绵起伏的丘陵、远山以及倒映着夕阳余晖的湖泊或河流。天空呈现淡蓝色、桃色和金色，点缀着柔软蓬松的云朵，温暖的阳光从左侧地平线洒下。前景包含野花、草丛、岩石、木质栅栏柱以及沿路斑驳的树影。叠加半透明白色的 iPhone 风格锁屏 UI：顶部状态栏包含 4 个可见元素——左上角显示运营商文字“中国电信”，旁边是一个静音铃铛图标；右上角显示蜂窝信号栏、Wi-Fi 图标以及最右侧的充电电池图标；居中显示电池状态行，文字为“目前电量 {argument name="current battery" default="70%"}    {argument name="time to target" default="13 分钟至 80%"}”；中间显示巨大的时钟文字“{argument name="lock screen time" default="12:13"}”，采用圆润的 iOS 字体，带有细腻的透明度和发光效果。底部包含 3 个锁屏控件：左下角的圆形手电筒按钮、右下角的圆形相机按钮，以及最底部居中的细长白色主屏幕指示条。壁纸整体风格梦幻、细节丰富、具有免费商用质感，画面整洁，无额外应用图标、无通知、无人物、无水印，除指定的锁屏 UI 外不包含任何额外文字。
+
+[English]
+Create a vertical smartphone lock-screen wallpaper in a soft Studio Ghibli–inspired anime painting style. Canvas is a tall 9:16 phone screen, approximately 585×1024, with a peaceful golden-hour countryside landscape: a winding dirt path starts at the bottom center and leads up a lush green hillside to a cozy cottage on the upper right, with a red tiled roof, dormer windows, warm lit windows, a fence, bushes, and a large leafy tree behind it. The left side opens to a vast valley with patchwork fields, small villages, rolling hills, distant mountains, and a glowing lake or river reflecting the sunset. The sky is pastel blue, peach, and gold with soft fluffy clouds and warm sunlight from the left horizon. Foreground includes wildflowers, grasses, rocks, wooden fence posts, and dappled shadows along the path. Overlay an iPhone-style lock screen UI in translucent white: top status bar with exactly 4 visible elements — carrier text “中国电信” at top left, a muted bell icon beside it, cellular signal bars at top right, Wi‑Fi icon at top right, and a charging battery icon at far right; centered battery status line in Chinese reading “目前电量 {argument name="current battery" default="70%"}    {argument name="time to target" default="13 分钟至 80%"}”; huge centered clock text reading “{argument name="lock screen time" default="12:13"}” in a rounded iOS font with subtle transparency and glow. At the bottom, include exactly 3 lock-screen controls: a circular flashlight button on the lower left, a circular camera button on the lower right, and a thin white home indicator bar centered at the very bottom. Make the wallpaper dreamy, detailed, free-to-use-feeling, clean, no extra apps, no notifications, no people, no watermark, no additional text beyond the specified lock-screen UI.
+```
+
+**来源：** [@Mens@cc.codesome.ai](https://x.com/oops073111/status/2065286948068225055) | 2026-06-12
+
+---
+
+### 🖥️ 例 1323：赛博朋克 AI 编程室
+
+![赛博朋克 AI 编程室](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20AI%20%E7%BC%96%E7%A8%8B%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级照片写实的竖构图图像，展现一间被改造成高强度个人 AI 编程工作站的狭窄日式公寓房间。房间狭窄且杂乱，采用广角镜头从门口视角拍摄，具有深邃的透视感和忧郁的青蓝色赛博朋克灯光。放置 4 根高大的青色荧光灯管：左侧门口附近一根垂直灯管，后窗左侧附近一根垂直灯管，后窗右侧附近一根垂直灯管，以及右侧门口附近一根垂直灯管。展示 3 台 iMac 风格的台式电脑，屏幕上显示着发光的科技仪表盘和代码图表：左侧桌面区域两台，后方桌面居中一台。在后方添加一扇带有百叶窗的大窗户，窗外是漆黑的夜晚，窗边漂浮着可见的湿气/蒸汽或雾气，天花板上悬挂着一颗裸露的灯泡，并有裸露的天花板电线。桌面上堆满了键盘、鼠标、小型设备、散热风扇、堆叠的电子产品和线缆。在地面上，营造出由桌面向前景延伸出的杂乱白色和灰色长线缆巢。在右侧中心靠近地面的位置，加入一名穿着黑色连帽衫、精疲力竭的程序员，他低着头，正在解开或插接线缆，传达出倦怠感和深夜调试的状态。在地面上放置 4 个黑色饮料罐，以及散落的纸张、笔记本、一支笔和一个打开的小型设备箱。使用反射青色光线的亮面深色木地板、混凝土或灰色墙壁、两侧的黑色窗帘，高对比度阴影，逼真的镜头畸变，粗粝的纪实细节，无可见文字，无水印。氛围：过热的房间、潮湿的空气、生产力混乱、单人技术团队的能量。风格应为照片写实、电影感、超细节、青色与琥珀色对比、35mm 广角、2:3 竖构图。可选自定义项：使工作站围绕 {argument name="main task" default="AI 编程与 3D 模型生成"} 为中心，将主灯光颜色设置为 {argument name="light color" default="青蓝色"}，将房间位置设置为 {argument name="room location" default="小型日式公寓"}，将人物情绪设置为 {argument name="programmer mood" default="疲惫且不知所措"}，并将时间设置为 {argument name="time of day" default="深夜"}。
+
+[English]
+Create a cinematic photorealistic vertical image of a cramped Japanese apartment room turned into an intense solo AI coding workstation at night. The room is narrow and messy, viewed from the doorway with a wide-angle lens, deep perspective, and moody teal-blue cyberpunk lighting. Place exactly 4 tall cyan fluorescent tube lights: one vertical tube near the left doorway, one vertical tube near the left side of the back window, one vertical tube near the right side of the back window, and one vertical tube near the right doorway. Show exactly 3 iMac-style desktop computers with glowing technical dashboards and code graphs: two on the left desk area and one centered on the back desk. Add a large window with horizontal blinds at the back, black night outside, visible humidity/steam or fog drifting near the window, a bare hanging ceiling bulb and exposed ceiling wires. The desks should be cluttered with keyboards, mice, small devices, cooling fans, stacked electronics, and cables. On the floor, create a chaotic nest of many long white and gray cables spreading from the desks toward the foreground. Include one exhausted programmer in a black hoodie crouching low near the floor on the right-center, head down, untangling or plugging cables, conveying burnout and late-night debugging. Add exactly 4 black drink cans on the floor, plus scattered papers, a notebook, a pen, and a small open equipment case on the right. Use glossy dark wooden flooring reflecting cyan light, concrete or gray walls, black curtains framing both sides, high contrast shadows, realistic lens distortion, gritty documentary detail, no readable text, no watermark. Atmosphere: overheated room, humid air, productivity chaos, one-person tech team energy. Style should be photorealistic, cinematic, ultra-detailed, teal and amber color contrast, 35mm wide-angle, vertical 2:3 composition. Optional customizations: make the workstation centered around {argument name="main task" default="AI coding and 3D model generation"}, set the dominant light color to {argument name="light color" default="cyan blue"}, set the room location to {argument name="room location" default="small Japanese apartment"}, set the person’s mood to {argument name="programmer mood" default="exhausted and overwhelmed"}, and set the time of day to {argument name="time of day" default="late night"}.
+```
+
+**来源：** [@虚空最適零](https://x.com/reisaitekiikfd/status/2065279307044331770) | 2026-06-12
+
+---
+
+### 🖥️ 例 1340：塞尔达风格游戏 UI 截图
+
+![塞尔达风格游戏 UI 截图](../../images/%E5%A1%9E%E5%B0%94%E8%BE%BE%E9%A3%8E%E6%A0%BC%E6%B8%B8%E6%88%8F%20UI%20%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张受 {argument name="game inspiration" default="《塞尔达传说：风之杖》"} 赛璐珞艺术风格启发的 PVP 游戏截图。展示一个 {argument name="character type" default="自定义奇幻角色"} 正在战斗的画面，并配有显示生命值条、玩家头像和操作菜单的游戏内 HUD。采用 {argument name="color palette" default="充满活力的海洋色系"}，呈现风格化的卡通渲染效果。
+
+[English]
+Create a screenshot of a PVP game inspired by {argument name="game inspiration" default="*Zelda: Wind Waker*'s"} cel-shaded art style. Show a {argument name="character type" default="custom fantasy character"} in battle, with an in-game HUD displaying health bars, player portraits, and action menus. {argument name="color palette" default="Vibrant oceanic"} colors, stylized cartoon shading.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065255490331046092) | 2026-06-12
+
+---
+

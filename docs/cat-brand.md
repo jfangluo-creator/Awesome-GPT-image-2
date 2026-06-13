@@ -3934,3 +3934,347 @@ Use the reference image I provided to create a grail card modeled after the “2
 
 ---
 
+### 🏷️ 例 1218：优雅的编辑风天空女性插画
+
+![优雅的编辑风天空女性插画](../../images/%E4%BC%98%E9%9B%85%E7%9A%84%E7%BC%96%E8%BE%91%E9%A3%8E%E5%A4%A9%E7%A9%BA%E5%A5%B3%E6%80%A7%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一幅优雅的编辑风格数字插画，描绘一位女性在 {argument name="sky" default="开阔天空"} 下休憩，她深色的头发松散地垂在脸庞，仿佛被 {argument name="breeze" default="微风"} 轻拂。她双目微闭，双唇轻启，营造出一种沉思且私密的氛围。她身着 {argument name="clothing" default="深蓝色露肩上衣"}。周围环绕着巨大的云层、明亮的蔚蓝天空，远处隐约可见实用的电线。采用流畅的绘画质感、考究的色块运用、现代海报式的构图，以及精致的时尚插画美学。
+
+[English]
+Generate an elegant editorial-style digital illustration of a woman resting under an {argument name="sky" default="open sky"}, her dark hair loosely framing her face as if touched by a {argument name="breeze" default="warm breeze"}. Her eyes are closed and her lips slightly parted, giving a reflective, intimate mood. She wears a {argument name="clothing" default="dark blue off-shoulder top"}. Surround her with oversized cloud formations, bright sky blues, and subtle utility wires in the distance. Use smooth painterly textures, tasteful color blocking, modern poster-like composition, and a refined fashion-illustration sensibility.
+```
+
+**来源：** [@Banana Prompts](https://x.com/bananaprompts/status/2065575433991516489) | 2026-06-12
+
+---
+
+### 🏷️ 例 1229：复古美式沙漠插画
+
+![复古美式沙漠插画](../../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B2%99%E6%BC%A0%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细的复古美式插画，描绘了一位 {argument name="subject" default="自信的年轻女性"} 站在美国西南部沙漠中荒凉的路边加油站。她背对观众，转头看向镜头，表情平静而神秘。长发在沙漠微风中飘逸，脸上带有自然的雀斑，眼神生动，展现出粗犷的美感，身穿休闲的超大号衬衫，袖口卷起，搭配修身牛仔裤，双手插在后兜里。
+背景呈现了一座带有复古气息的旧加油站，风化的招牌上写着 "{argument name="text" default="[自定义文本]"}"，配有复古加油泵、褪色的建筑、空旷的公路氛围、远处的山脉、沙漠景观以及怀旧的 66 号公路美学。
+艺术风格结合了 {argument name="medium" default="精致的墨水素描、灵动的钢笔线条、水彩渲染"}、石墨绘图细节、富有表现力的交叉排线以及手绘插画技法。背景为带有纹理的陈旧纸张，可见划痕、污渍、墨点、磨损的边缘和做旧的印刷效果，呈现出复古杂志插画的质感与怀旧旅行海报的美学。
+
+[English]
+Ultra-detailed vintage Americana illustration of a {argument name="subject" default="confident young woman"} standing at a deserted roadside gas station in the American Southwest desert. She is shown from behind, turning her head over her shoulder toward the viewer with a calm, mysterious expression. Long windblown hair flowing dramatically in the desert breeze, natural freckles, expressive eyes, rugged beauty, casual oversized button-up shirt with rolled sleeves, fitted denim jeans, hands in back pockets.
+Background features an old retro gas station with weathered signage reading "{argument name="text" default="[CUSTOM TEXT]"}", vintage fuel pumps, faded structures, empty highway atmosphere, distant mountains, desert landscape, and a nostalgic Route 66 aesthetic.
+Artwork style combines {argument name="medium" default="fine ink sketching, loose pen-and-ink linework, watercolor washes"}, graphite drawing details, expressive cross-hatching, and hand-drawn illustration techniques. Textured aged paper background with visible scratches, stains, ink splatters, worn edges, distressed print effects, vintage magazine illustration quality, retro travel poster aesthetic.
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2065476025061175793) | 2026-06-12
+
+---
+
+### 🏷️ 例 1240：迷雾森林露营肖像
+
+![迷雾森林露营肖像](../../images/%E8%BF%B7%E9%9B%BE%E6%A3%AE%E6%9E%97%E9%9C%B2%E8%90%A5%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的电影级方形照片，展示 {argument name="subject" default="一位巴基斯坦女性"} 在清晨或蓝调时刻于迷雾松林中露营的场景。她坐在粗糙的倒木上，身旁是一堆小篝火，手中拿着一个冒着热气的金属杯，神情平静沉思，微微看向左侧。她头戴海军蓝棒球帽，身穿绿蓝格纹法兰绒衬衫，搭配深色修身徒步裤和灰棕色登山靴，长长的深色头发编成辫子垂在一侧肩头。前景中，展示一个由 7 块石头围成的紧凑型篝火，火苗呈橙色，伴有余烬和少量烟雾；在火堆旁的圆木上放置 1 盏散发暖光的复古煤油灯。右侧放置 1 个大型黑色登山背包，旁边斜靠着 2 根登山杖。背景中，展示一座舒适的木屋，有 3 扇透出暖黄色灯光的窗户，在高耸的松树间被雾气柔化。采用浅景深效果，冷蓝色的雾气氛围与温暖的火光及木屋灯光形成对比，地面覆盖着松针和苔藓，电影级调色，写实纹理，柔和的体积雾，50mm 纪实摄影质感，无文字，无水印。保持主体面部柔和模糊或匿名化，同时保留自然的比例和照片级真实光影。可通过 {argument name="shirt color" default="绿蓝格纹"}、{argument name="time of day" default="清晨或黄昏"}、{argument name="setting" default="迷雾松林"} 以及 {argument name="background cabin" default="带有暖光窗户的舒适木屋"} 自定义关键细节。
+
+[English]
+Create a realistic cinematic square photo of {argument name="subject" default="a Pakistani woman"} camping in a misty pine forest at early morning or blue-hour dusk. She is seated on a rough fallen log beside a small campfire, holding a metal warm cup with visible steam rising, looking slightly to the left in a calm reflective pose. She wears a navy baseball cap, a green-and-blue plaid flannel overshirt, dark fitted hiking pants, gray-brown hiking boots, and her long dark hair is braided over one shoulder. In the foreground, show a compact campfire built from exactly 7 visible stones around burning logs, with orange flames, embers, and a little smoke; place exactly 1 vintage kerosene lantern glowing warmly on the log near the fire. On the right side, include exactly 1 large black hiking backpack and exactly 2 trekking poles leaning beside it. In the background, show a cozy wooden cabin with exactly 3 warm yellow lit windows, softened by fog among tall pine trees. Use shallow depth of field, cool blue misty atmosphere contrasted with warm fire and cabin light, natural forest ground with pine needles and moss, cinematic color grading, realistic textures, soft volumetric fog, 50mm documentary photography feel, no text, no watermark. Keep the subject’s face softly obscured or anonymized while preserving natural proportions and photorealistic lighting. Customize key details with {argument name="shirt color" default="green and blue plaid"}, {argument name="time of day" default="early morning or dusk"}, {argument name="setting" default="misty pine forest"}, and {argument name="background cabin" default="cozy wooden cabin with warm lit windows"}.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2065439218948862240) | 2026-06-12
+
+---
+
+### 🏷️ 例 1247：泰式炒河粉烹饪项目
+
+![泰式炒河粉烹饪项目](../../images/%E6%B3%B0%E5%BC%8F%E7%82%92%E6%B2%B3%E7%B2%89%E7%83%B9%E9%A5%AA%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张清晰、简洁的图表式项目海报，主题为 {argument name="dish" default="泰式炒河粉烹饪"}。采用 16:9 宽屏布局，白色背景，黑色边框，粗体黑色排版，高级皮克斯 3D 风格渲染，{argument name="colors" default="明亮鲜艳的色彩——金黄的面条，生动的橙色罗望子酱"}
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="dish" default="THE PAD THAI COOK"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, {argument name="colors" default="bright vivid colors — golden noodles, vivid orange tamarind"}
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2065432262754041887) | 2026-06-12
+
+---
+
+### 🏷️ 例 1263：电影级双重曝光角色艺术
+
+![电影级双重曝光角色艺术](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于所附的 {argument name="character reference" default="CHARACTER SHEET"}，围绕任意 {argument name="subject" default="主题对象"} 生成一张具有电影级双重曝光效果的视觉艺术作品：构图首先将主题核心形象的巨大特写置于背景中，并进行大胆的裁剪
+
+[English]
+Based on the {argument name="character reference" default="CHARACTER SHEET"} attached generate a visual artwork with a cinematic double-exposure relationship around any {argument name="subject" default="thematic subject"}: The composition first places a massive close-up of the thematic main form dominating the background, boldly cropped in
+```
+
+**来源：** [@Khai](https://x.com/khaiGPT/status/2065395766559158375) | 2026-06-12
+
+---
+
+### 🏷️ 例 1270：PastelSoft Dolphin 字标 Logo
+
+![PastelSoft Dolphin 字标 Logo](../../images/PastelSoft%20Dolphin%20%E5%AD%97%E6%A0%87%20Logo.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一个简洁的横向圆形或软件品牌 Logo，居中对齐并留有充足的空白。主字标显示为 {argument name="brand name" default="PastelSoft"}，采用优雅、纤细且高对比度的衬线字体，字间距非常宽，深海军蓝色字母，呈现出精致的高级感。将文字放置在宽幅横向画布的中间，尺寸约为 1200 x 515 像素。在字标下方，绘制一条淡青蓝色的细腻流动波浪线，从最左侧开始非常纤细，在字母下方平缓地起伏，然后向右侧逐渐变细。在波浪线右上方，添加一个柔和的淡水绿色渐变海豚剪影，角度呈现向右跃起状，位置紧随最后一个字母之后。采用极简且通透的构图，无边框、无阴影、无额外图标、无多余文字，且无背景图案。整体氛围应保持冷静、海洋感、柔和、轻盈且专业。
+
+[English]
+Create a clean horizontal circle or software brand logo on a pure white background, centered with generous empty space. The main wordmark reads {argument name="brand name" default="PastelSoft"} in an elegant thin high-contrast serif typeface, with very wide letter spacing, dark navy blue lettering, and a refined premium feel. Place the text across the middle of a wide landscape canvas, approximately 1200 by 515 pixels. Under the wordmark, draw one single delicate flowing wave line in pale cyan-blue, starting very thin at the far left, gently rising and dipping beneath the letters, then tapering toward the right. At the far right above the wave, add exactly one small dolphin silhouette in a soft pastel aqua gradient, angled as if leaping to the right, positioned just after the final letters. Use a minimal airy composition with no border, no shadows, no additional icons, no extra text, and no background pattern. The overall mood should be calm, oceanic, pastel, lightweight, and professional.
+```
+
+**来源：** [@水城@2日目 東7 S-15a](https://x.com/mizuki_gamedev/status/2065382402428707270) | 2026-06-12
+
+---
+
+### 🏷️ 例 1275：水上乐园里的日本年轻人
+
+![水上乐园里的日本年轻人](../../images/%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E9%87%8C%E7%9A%84%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+ウォーターパークで遊ぶ{argument name="人数と特徴" default="4人の20代の若くて可愛くて美しい日本人"}。{argument name="場所" default="プール"}。{argument name="デバイス" default="iPhone 17"}で撮影。
+```
+
+**来源：** [@iX](https://x.com/iX00AI/status/2065374651086512373) | 2026-06-12
+
+---
+
+### 🏷️ 例 1276：FPV 无人机水上乐园航线
+
+![FPV 无人机水上乐园航线](../../images/FPV%20%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E8%88%AA%E7%BA%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张具有照片级真实感的 FPV 无人机风格水上乐园航拍图，采用超广角镜头，从高处斜角俯瞰。场景应展现郁郁葱葱的度假环境，布满茂密的绿色棕榈树和热带植物，正午阳光明媚，水体呈现鲜艳的绿松石色，配有棕褐色石径和质朴的木质结构。构图中心为一座横跨狭窄蓝色泳池水道的绳索吊桥，配有木柱、绳网栏杆和风化的木板地面。图中需包含 4 位清晰可见的穿比基尼女性：1 位站在吊桥中央，双臂张开，微笑着抬头看向无人机；1 位在左上角的大型亮蓝色滑水道上滑下；1 位站在或涉水于右上角的清澈浅水池中；1 位躺在下方中心泳池水道的浅蓝色充气泳圈上。在图像上方添加一条醒目的手绘红色 FPV 摄像机路线标注：粗而实心的红色记号笔线条形成一条连续的扫视飞行路径，起点靠近左上角的滑水道，环绕右上角的泳池，向下弯曲绕过下方中心的漂浮泳圈，穿过吊桥区域，并继续向右侧边缘延伸，同时在滑梯和吊桥区域上方添加额外的红色直线方向段。红色路线应看起来像是手动绘制在成品照片上的，笔触不均匀且末端圆润。保持图像的真实感、动态感和电影感，如同在规划整个水上乐园的无人机飞行路线。使用 {argument name="location theme" default="热带水上乐园度假村"}、{argument name="camera angle" default="高斜角 FPV 无人机航拍视角"}、{argument name="main structure" default="横跨蓝色泳池水道的绳索吊桥"}、{argument name="route color" default="亮红色"} 以及 {argument name="number of people" default="4"}。
+
+[English]
+Create a photorealistic FPV drone-style aerial image of a tropical water park, viewed from a high oblique overhead angle with an ultra-wide lens. The scene should show a lush resort environment filled with dense green palm trees and tropical plants, bright midday sunlight, vivid turquoise water, tan stone paths, and rustic wooden structures. Center the composition on a rope suspension bridge crossing over a narrow blue pool channel, with wooden posts, rope net railings, and weathered plank flooring. Include exactly 4 visible women in bikinis: 1 woman standing at the center of the suspension bridge with arms open, smiling up toward the drone; 1 woman sliding down a large bright blue waterslide in the upper left; 1 woman standing or wading in a clear shallow pool in the upper right; and 1 woman reclining on a pale blue inflatable ring in the lower center pool channel. Add a large hand-drawn red FPV camera-route annotation over the image: thick opaque red marker lines forming one continuous sweeping flight path that starts near the top left waterslide, loops around the upper-right pool, curves down around the lower-center floating ring, crosses the bridge area, and continues toward the right edge, with additional straight red directional segments over the slide and bridge area. The red route should look like it was drawn manually on top of the finished photo, with uneven strokes and rounded ends. Keep the image realistic, dynamic, and cinematic, as if planning a drone fly-through route across the whole water park. Use {argument name="location theme" default="tropical water park resort"}, {argument name="camera angle" default="high oblique FPV drone aerial view"}, {argument name="main structure" default="rope suspension bridge over a blue pool channel"}, {argument name="route color" default="bright red"}, and {argument name="number of people" default="4"}.
+```
+
+**来源：** [@iX](https://x.com/iX00AI/status/2065374647978426711) | 2026-06-12
+
+---
+
+### 🏷️ 例 1280：三款日文 note GPT 封面设计方案
+
+![三款日文 note GPT 封面设计方案](../../images/%E4%B8%89%E6%AC%BE%E6%97%A5%E6%96%87%20note%20GPT%20%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 2.1:1 的宽幅对比预览图，展示三款针对 {argument name="service name" default="note 特化版 GPT"} 服务的日文封面设计方案。整体采用干净的奶油色与青色调，用于推广一款能够分析 note 文章并自动生成缩略图、图解及插图的 GPT。
+
+画布：水平 2.1:1 的拼贴画，尺寸约 1200×630 像素，背景为米白色。将画布精确分为三个相等的垂直板块，使用纤细的浅色分隔线，并留出充足的边距。在板块下方添加一个底部标签栏，居中放置三个青色的方案标签：“A案”、“B案”和“C案”。
+
+A 案（左侧方案）：极简优雅的封面设计，采用象牙白纸张背景，右下角带有柔和的青色水彩晕染，左侧和右下角点缀植物枝叶。顶部中央放置一个圆角胶囊标签，文字为“note 特化版 GPT”，右侧配有一个微型钢笔图标。居中放置醒目的日文标题，深炭灰色与青色强调色交替：“あなたの note 記事を 分析して、 サムネ・図解・挿し絵を作る GPT”。标题下方添加一条带有小圆点的纤细分隔线。底部附近配有小字副标题：“3 案で比較できるから、あなたの記事にぴったりの一枚が見つかる”。采用精致的排版风格，宁静且富有空间感。
+
+B 案（中间方案）：温馨的生活方式照片风格封面，展示一位女性在窗边书桌前工作的柔和光影场景；右侧放置笔记本电脑，前景有带有缩略图草稿的笔记本、握笔的手、咖啡杯及文具细节。女性面部需刻意使用简单的方形马赛克进行模糊处理。左侧叠加深炭灰色与青色的粗体日文标题：“あなたの note 記事を 分析して、 サムネ・図解・挿し絵を作る GPT”。左上角添加手写风格文字：“書くことに もっと、集中できる。” 右上角添加一个青色圆形徽章，文字为“note 特化版 GPT”。底部添加一条青色圆角横幅，配有小图标和白色文字：“執筆に集中できる、あなたの味方。” 采用自然的米色光影，营造舒适的创作者工作空间氛围。
+
+C 案（右侧方案）：信息量丰富的图表式封面，采用浅薄荷绿背景，配有圆角白色卡片。顶部胶囊标签：“note 特化版 GPT”。居中大标题：“あなたの note 記事を 分析して、 サムネ・図解・挿し絵を作る GPT”。下方配有一行副标题：“3 案で比較できるから、理想の一枚が見つかる！” 中间横向排列四个步骤卡片，由小箭头连接：1) “記事を分析”（配文档与放大镜图标，副标题“内容や目的を読み解きます”）；2) “3 案を提案”（配标有 A、B、C 的缩略图卡片，副标题“テイストの違う 3 案を比較”）；3) “選んで使える”（配大勾选图标，副标题“ぴったりの 1 枚を選ぶだけ”）；4) “執筆に集中！”（配钢笔书写图标，副标题“デザイン時間をぐっと時短”）。下方创建四个功能卡片：1) “サムネイル”（配风景缩略图图标）；2) “図解・まとめ画像”（配图表与布局块）；3) “挿し絵・イラスト”（配女性头像）；4) “世界観づくり”（配情绪板拼贴）。底部添加一条带有闪光图标的青色页脚丝带，文字为：“アップグレード追加料金なしで、ずっと使える！” 右侧配有一个小爱心轮廓。
+
+视觉风格：保持青色、薄荷绿、象牙白、炭灰色和米色的配色方案。日文排版需精致易读，结合现代无衬线字体与柔和的衬线字体。确保三个方案视觉区分明显：A 案为植物极简风，B 案为温馨生活照风，C 案为结构化图表风。无水印，无社交媒体 UI，无额外板块，无英文替换文本。
+
+[English]
+Goal: Create a wide comparison preview image showing exactly three proposed Japanese cover designs for a service called {argument name="service name" default="note特化版GPT"}, with a clean cream-and-teal aesthetic for promoting a GPT that analyzes note articles and creates thumbnails, diagrams, and illustrations.
+
+Canvas: Horizontal 2.1:1 collage, about 1200×630 px, off-white background. Divide the canvas into exactly three equal vertical panels with thin pale separators and generous margins. Add a bottom label strip under the panels with three centered proposal labels: “A案”, “B案”, and “C案” in teal.
+
+Panel A, left proposal: Minimal elegant cover design on an ivory paper background with soft watercolor teal wash at the bottom right and leafy botanical sprigs on the left and lower right. At top center place a rounded pill label reading “note特化版GPT” with a tiny pen icon to the right. Large Japanese headline centered, mixing dark charcoal and teal emphasis: “あなたの note記事を 分析して、 サムネ・図解・挿し絵を作るGPT”. Add a thin divider line with a small dot beneath the headline. Small subcopy near bottom: “3案で比較できるから、あなたの記事にぴったりの一枚が見つかる”. Refined editorial typography, calm and spacious.
+
+Panel B, middle proposal: Warm lifestyle photo-style cover with a softly lit woman working at a desk near a window; laptop on the right, notebook with thumbnail sketches in the foreground, hand holding a pen, coffee cup and small stationery details. The woman’s face should be intentionally obscured with a simple square blur/mosaic. Overlay Japanese headline on the left in bold dark charcoal and teal: “あなたの note記事を 分析して、 サムネ・図解・挿し絵を作るGPT”. Add handwritten text near top left: “書くことに もっと、集中できる。” Add a circular teal badge near upper right reading “note 特化版 GPT”. Add a teal rounded banner along the bottom with a small icon and white text: “執筆に集中できる、あなたの味方。” Natural beige lighting, cozy creator workspace atmosphere.
+
+Panel C, right proposal: Information-rich infographic cover on a pale mint background with rounded white card. Top pill label: “note特化版GPT”. Large centered headline: “あなたのnote記事を 分析して、 サムネ・図解・挿し絵を作るGPT”. Under it, a line of copy: “3案で比較できるから、理想の一枚が見つかる！” Create exactly four step cards across the middle, connected by small arrows: 1) “記事を分析” with document and magnifying glass icon, subtext “内容や目的を読み解きます”; 2) “3案を提案” with three thumbnail cards labeled A, B, C, subtext “テイストの違う3案を比較”; 3) “選んで使える” with a large checkmark icon, subtext “ぴったりの1枚を選ぶだけ”; 4) “執筆に集中！” with pen writing icon, subtext “デザイン時間をぐっと時短”. Below, create exactly four feature cards: 1) “サムネイル” with landscape thumbnail icon; 2) “図解・まとめ画像” with charts and layout blocks; 3) “挿し絵・イラスト” with simple female portrait; 4) “世界観づくり” with moodboard tiles. Add a teal footer ribbon with sparkle icons and text: “アップグレード追加料金なしで、ずっと使える！” plus a small heart outline at the right.
+
+Visual style: Consistent teal, mint, ivory, charcoal, and beige palette. Japanese typography should look polished and readable, combining modern sans-serif with softer serif accents. Keep the three proposals visually distinct: A is botanical minimalist, B is warm lifestyle/photo, C is structured infographic. No watermarks, no social media UI, no extra panels, no English replacement text.
+```
+
+**来源：** [@みたかずお🌟ラッキーデザイナー](https://x.com/MitaKazuo_LD/status/2065371599050854481) | 2026-06-12
+
+---
+
+### 🏷️ 例 1293：Logo 集成与马克笔叠加效果
+
+![Logo 集成与马克笔叠加效果](../../images/Logo%20%E9%9B%86%E6%88%90%E4%B8%8E%E9%A9%AC%E5%85%8B%E7%AC%94%E5%8F%A0%E5%8A%A0%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+第一张图片为插图。第二张图片包含黑色背景上的 Logo 设计。
+
+将 Logo 放置在插图中最大、最整洁的空白区域——即线条、形状和视觉元素最少的区域。{argument name="placement note" default="[在此处添加关于放置位置的简要说明]"}
+
+复刻第二张图片中的 Logo 原样。以粗犷的手绘笔触进行渲染，呈现出如同用粗马克笔直接在表面签名般的效果。允许 Logo 略微溢出空白区域，延伸至相邻的插图内容中。
+
+颜色规则：Logo 颜色必须始终与下方的背景形成对比。在浅色背景上使用深色线条，在深色背景上使用浅色线条。如果 Logo 跨越多种背景色调，请在笔触中途切换颜色。切勿让 Logo 与周围颜色融合。
+
+请勿以任何其他方式修改插图。请务必完整保留所有原始颜色、线条和构图。
+
+[English]
+The first image is an illustration. The second image contains a logo design on a black background.
+
+Place the logo in the largest open, uncluttered area of the illustration — the zone with the fewest lines, shapes, and visual elements. {argument name="placement note" default="[※ここに配置場所を一言追記]"}
+
+Reproduce the exact logo design from the second image. Render it bold and large, with rough hand-drawn strokes — as if signed directly onto the surface with a thick marker. Allow it to overflow slightly beyond the open area into adjacent illustrated content.
+
+Color rule: The logo color must always contrast against the background directly beneath it. Use dark lines over light backgrounds, light lines over dark backgrounds. Shift color mid-stroke if the logo crosses multiple background tones. Never let the logo blend into the surrounding color.
+
+Do not alter the illustration in any other way. Preserve all original colors, lines, and composition exactly.
+```
+
+**来源：** [@輪廻タヲ ☯ AI Artist](https://x.com/TaoRInne/status/2065359703270715662) | 2026-06-12
+
+---
+
+### 🏷️ 例 1301：F1 赛车技术设计图
+
+![F1 赛车技术设计图](../../images/F1%20%E8%B5%9B%E8%BD%A6%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高度详细的 {argument name="vehicle" default="F1 car"} 设计图，
+概念展示布局，
+技术插图，
+角色 + 载具设计图，
+预演项目，
+照片级真实感渲染，
+多个角度与视图，
+生产级演示文稿，
+
+[English]
+highly detailed {argument name="vehicle" default="F1 car"} design sheet,
+concept showcase layout,
+technical illustration,
+character + vehicle design sheet,
+previsualization board,
+photorealistic rendering,
+multiple angles and views,
+production-quality presentation,
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2065340730982478155) | 2026-06-12
+
+---
+
+### 🏷️ 例 1302：柑橘蜡笔时尚肖像
+
+![柑橘蜡笔时尚肖像](../../images/%E6%9F%91%E6%A9%98%E8%9C%A1%E7%AC%94%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创作一幅极简主义的粗犷蜡笔风格插画，使用非常有限的柑橘色调，包括鲜艳的橙色、红橙色、黄色以及白色的留白。展示一位风格化的年轻女性，四分之三侧面朝左，胸部以上构图，留着大圆波波头，发色为 {argument name="hair color" default="亮橙色"}，占据构图的右上角并遮盖了她的大部分脸部。她戴着俏皮的柠檬片墨镜，镜片为 2 个圆形的黄色柑橘镜片，每个镜片都绘有白色的果瓣线条和白色边框；她的右手抬起正在调整眼镜，用纤细的红橙色草图线条勾勒出手指。在她的胸前正中绘有 1 个圆形的橙子切片吊坠项链，同样带有白色的柑橘果瓣。在她左后方，绘制 1 个巨大的、松散的红橙色圆形柑橘皮弧线，环绕着头部和手臂，并带有粗糙的涂鸦式橙色填充色块。身体部分保持大面积留白，仅有稀疏的红橙色轮廓线和一条可见的肩带，除了被眼镜和头发部分遮挡的阴影鼻部/嘴部区域外，没有详细的面部特征。整体外观应充满活力、手绘感、海报风格、不完美、有纹理且带有颗粒感，如同使用油画棒或蜡笔绘制，具有明显的刮擦笔触和不规则的边缘。无文字，无水印，无照片写实感，无背景物体。
+
+[English]
+Create a minimalist rough crayon-style illustration on a plain white background, using a very limited citrus palette of vivid orange, red-orange, yellow, and white negative space. Show a stylized young woman in three-quarter view facing left, cropped from the chest up, with a large rounded bob haircut in {argument name="hair color" default="bright orange"} that fills the upper right of the composition and covers much of her face. She wears playful lemon-slice sunglasses with exactly 2 round yellow citrus lenses, each drawn with white segment lines and a white rim; her right hand is raised to adjust the glasses, with thin sketchy red-orange linework defining the fingers. Include exactly 1 round orange-slice pendant necklace centered on her chest, also with white citrus segments. Behind her on the left, draw exactly 1 large loose red-orange circular citrus-peel arc framing the head and arm, with rough scribbled orange fill patches. Keep the body mostly white with sparse red-orange outlines, one visible shoulder strap, and no detailed facial features except the shaded nose/mouth area partly hidden by the glasses and hair. The overall look should be energetic, hand-drawn, poster-like, imperfect, textured, and grainy, as if made with oil pastel or wax crayon, with visible scratchy strokes and uneven edges. No text, no watermark, no photorealism, no background objects.
+```
+
+**来源：** [@LITMUS](https://x.com/KeDiao88405/status/2065340326638993769) | 2026-06-12
+
+---
+
+### 🏷️ 例 1307：超宽动漫战斗项目
+
+![超宽动漫战斗项目](../../images/%E8%B6%85%E5%AE%BD%E5%8A%A8%E6%BC%AB%E6%88%98%E6%96%97%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张超宽电影感动漫项目，用于高冲击力的徒手格斗场景，设计为黑白视觉参考图。
+
+画布：21:9 横向画布，干净的白色背景，细黑色外边框，分为 12 个矩形项目画格，采用 3 行 4 列网格排列，画格间距狭窄，画格边框纤细。
+
+视觉风格：高对比度单色水墨艺术，角色主要呈现为纯黑色剪影，带有极简的白色边缘高光，锋利的漫画/动漫速度线、冲击爆发、墨迹飞溅、地面擦痕以及夸张的电影级摄像机角度。无灰度阴影，无色彩，无对话气泡，无标题，无 Logo，无水印。
+
+角色：仅限两名格斗者。格斗者 A 为 {argument name="dominant fighter" default="一位高大、肌肉极其发达的男性剪影，留着尖刺发型，身穿无袖战斗服、手套、宽松长裤和厚重靴子"}。格斗者 B 为 {argument name="opponent fighter" default="一位体型较小的运动型男性剪影，留着尖刺发型，身穿合身战斗服、手套和靴子"}。在整个过程中，保持两个角色均为深色剪影，并呈现清晰易读的姿势。
+
+画格布局与动作节奏：包含 12 个画格，从左到右，从上到下：
+1. 宽镜头对峙：高大格斗者强有力地站在左侧，较小格斗者在右侧摆好架势，两人均立于粗糙的黑色笔触阴影之上。
+2. 动态低角度冲锋：高大格斗者向镜头前方猛冲，拳头蓄力，身后有强烈的放射状速度线。
+3. 特写冲击拳：高大格斗者的拳头击中较小格斗者的面部或上半身，伴有明亮的白色冲击星芒。
+4. 侧面击退：较小格斗者被向右击飞，高大格斗者以奔跑打击姿势跟进。
+5. 中景踢击：高大格斗者用重踢或膝撞击中较小格斗者，后者因冲击而弯腰，躯干处有爆发线。
+6. 紧凑近身格斗：高大格斗者在近距离抓住或身体冲撞对手，两人面部靠近，身体之间有强烈的白色冲击闪光。
+7. 空中抛飞：较小格斗者在空白的画格中对角线飞出，抛飞点留有碎片和地面划痕。
+8. 奔跑追击拳：高大格斗者从左侧冲入，在右边缘再次直拳击中对手，伴有水平速度条纹。
+9. 地面重击：高大格斗者俯身在对手上方将其按入地面，巨大的黑色飞溅状冲击线向上辐射。
+10. 倒地打击：较小格斗者躺在地上，高大格斗者站在上方向下挥拳，伴有紧凑的冲击爆发。
+11. 终极重拳：从高大格斗者身后拍摄的戏剧性透视镜头，他向对手挥出重拳，周围环绕着密集的速度线和冲击碎片。
+12. 结局：高大格斗者在左侧高大且胜利地站立；较小格斗者在右侧单手撑地跪下或倒下，战败。
+
+[English]
+Goal: Create a single ultra-wide cinematic anime storyboard sheet for a high-impact hand-to-hand battle scene, designed as black-and-white visual reference art.
+
+Canvas: 21:9 horizontal canvas, clean white background, thin black outer border, divided into exactly 12 rectangular storyboard panels arranged in a 3-row by 4-column grid with narrow white gutters and thin black panel borders.
+
+Visual style: High-contrast monochrome ink art, characters mostly rendered as solid black silhouettes with minimal white rim highlights, sharp manga/anime speed lines, impact bursts, ink splatter, ground scrape marks, and exaggerated cinematic camera angles. No grayscale shading, no color, no speech bubbles, no captions, no logos, no watermark.
+
+Characters: Two fighters only. Fighter A is {argument name="dominant fighter" default="a tall, extremely muscular male silhouette with spiky hair, sleeveless combat outfit, gloves, loose pants, and heavy boots"}. Fighter B is {argument name="opponent fighter" default="a smaller athletic male silhouette with spiky hair, fitted combat clothes, gloves, and boots"}. Keep both characters as dark silhouettes throughout, with strong readable poses.
+
+Panel layout and action beats: Include exactly 12 panels, left to right, top to bottom:
+1. Wide establishing standoff: the large fighter stands powerfully on the left, the smaller fighter squares up on the right, both grounded on rough black brush shadows.
+2. Dynamic low-angle charge: the large fighter lunges forward toward camera, fist cocked, strong radial speed lines behind him.
+3. Close-up impact punch: the large fighter’s fist smashes into the smaller fighter’s face or upper body, with a bright white impact starburst.
+4. Side view knockback: the smaller fighter is thrown backward to the right while the large fighter follows through in a running strike pose.
+5. Mid-shot kick impact: the large fighter drives a heavy kick or knee into the smaller fighter, who bends forward from the blow, with burst lines at the torso.
+6. Tight close combat: the large fighter grabs or body-checks the opponent at close range, faces close, strong white impact flash between their bodies.
+7. Airborne launch: the smaller fighter flies diagonally across an otherwise open white panel, debris and ground slash marks trailing from the launch point.
+8. Running punch chase: the large fighter dashes in from the left and lands another straight punch on the opponent at the right edge, with horizontal speed streaks.
+9. Ground slam: the large fighter crouches over the opponent and drives him into the ground, huge black splash-like impact lines radiating upward.
+10. Downed opponent strike: the smaller fighter lies on the ground while the large fighter stands over him and punches downward, with a compact impact burst.
+11. Final power punch: dramatic perspective shot from behind the large fighter as he throws a massive punch into the opponent, surrounded by dense speed lines and impact shards.
+12. Aftermath: the large fighter stands tall and victorious on the left; the smaller fighter kneels or collapses on the right with one hand on the ground, defeated.
+
+Constraints: Use {argument name="aspect ratio" default="21:9"}; keep exactly 12 panels and exactly two fighters; make the action read clearly as one continuous brutal anime battle sequence; preserve the clean storyboard-sheet composition; avoid extra characters, weapons, text, color, gore, or background scenery beyond speed lines and ground marks.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2065324767125840044) | 2026-06-12
+
+---
+
+### 🏷️ 例 1309：地铁上的纪实手机摄影
+
+![地铁上的纪实手机摄影](../../images/%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%BA%AA%E5%AE%9E%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张令人惊艳的 {argument name="subject" default="女性"} 低头看着她的 {argument name="device" default="智能手机"}，同时乘坐 {argument name="location" default="地铁"} 的照片，采用纪实街拍风格拍摄。
+
+[English]
+A stunning {argument name="subject" default="woman"} glancing down at her {argument name="device" default="smartphone"} while riding the {argument name="location" default="subway"}, shot in a candid street photography style.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065315253651681324) | 2026-06-12
+
+---
+

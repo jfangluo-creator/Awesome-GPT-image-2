@@ -2042,3 +2042,399 @@ HD画質ピクセルアート / 滑らかなグラデーション
 
 ---
 
+### 🎬 例 1233：动漫教室分镜脚本
+
+![动漫教室分镜脚本](../../images/%E5%8A%A8%E6%BC%AB%E6%95%99%E5%AE%A4%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个垂直的动漫分镜脚本/漫画页面，采用柔和的 niji 风格水彩外观，展示日本高中教室的介绍场景，具有电影般的构图和手绘墨线边框。
+
+画布：高垂直页面，宽高比约为 2:3，分为 4 个堆叠的水平面板，中间由白色间隙隔开。每个面板都有一个细的、略显不完美的手绘黑色边框。在每个面板的左上角添加小号黑色大写标签：“SHOT 1”、“SHOT 2”、“SHOT 3”和“SHOT 4”。
+
+视觉风格：温暖怀旧的动漫电影剧照，精致的草图线条，柔和的水彩阴影，写意的阳光，细腻的纸张纹理，详细的教室透视，海军蓝校服，柔和的阴影，无写实感。使用让人联想到现代日本动画和 niji 插画的风格。
+
+角色与数量：主角是 {argument name="character name" default="一位安静的转学生"}，一位日本少女，留着 {argument name="hair color" default="黑色长直发"}，前三格中穿着带有红色领巾的海军蓝水手校服。包含 4 个面板，正好 1 位主角女孩，第 1 和第 2 格中正好 1 位男老师，第 1 格中正好 26 位坐着的匿名灰色同学剪影，第 3 格中正好 4 位穿校服的女孩，第 4 格中正好 3 个裁剪过的校服躯干。
+
+SHOT 1：从教室后方拍摄的广角全景。主角女孩站在前方，旁边是一位穿着深色西装的高个子男老师。他们身后是一块大黑板、挂钟、公告栏，两侧是明亮的窗户。木制课桌椅排满教室。展示 26 位坐着的同学，以简化的灰色剪影呈现，面向前方。清晨的阳光透过高大的窗户射入，在课桌和地板上投下温暖的光斑。
+
+SHOT 2：主角女孩站在黑板前的中景特写，居中且突出，双肩可见书包带。男老师在右侧背景中显得较小。右侧高墙上可见一个圆形教室挂钟。女孩的面部应刻意保持柔和、模糊或不清晰，而不是细节丰富，同时校服、头发和教室保持清晰。
+
+SHOT 3：教室窗边的社交场景。主角女孩坐在窗边的课桌旁，另外 3 位穿着水手服的女孩围在她身边，俯身仿佛在问候或询问她。此面板总共正好 4 位女孩：1 位坐着的主角女孩和 3 位站着的同学。背景包含书架和课桌，窗外可见绿叶葱郁的树木，课桌表面洒满温暖的阳光。
+
+SHOT 4：3 位女孩从肩膀到腰部的裁剪特写，展示海军蓝水手服，配有浅蓝色领巾和领子。她们的脸部被画面顶部边缘遮挡。强调深色布料的褶皱、丝带形状和温暖的教室光线。背景应极简且柔和地暗示。
+
+约束：所有文字仅限于四个镜头标签。不要添加对话气泡、标题、徽标或水印。始终保持一致的教室环境、温暖的日光和手绘动漫分镜美学。
+
+[English]
+Goal: Create a vertical anime storyboard/comic page in a soft niji-style watercolor look, showing a Japanese high school classroom introduction scene with cinematic framing and hand-drawn ink borders.
+
+Canvas: Tall vertical page, roughly 2:3 aspect ratio, divided into exactly 4 stacked horizontal panels separated by white gutters. Each panel has a thin, slightly imperfect black hand-drawn border. Add small black uppercase labels at the top-left of each panel: “SHOT 1”, “SHOT 2”, “SHOT 3”, and “SHOT 4”.
+
+Visual style: Warm nostalgic anime film still, delicate sketchy line art, muted watercolor shading, painterly sunlight, subtle paper texture, detailed classroom perspective, navy school uniforms, soft shadows, no photorealism. Use a style reminiscent of modern Japanese animation and niji illustration.
+
+Characters and counts: The main character is {argument name="character name" default="a quiet transfer student"}, a teenage Japanese girl with {argument name="hair color" default="long straight black hair"}, wearing a navy sailor school uniform with a red neckerchief in the first three shots. Include exactly 4 panels, exactly 1 main girl, exactly 1 male teacher in shots 1 and 2, exactly 26 seated anonymous gray classmate silhouettes in shot 1, exactly 4 uniformed girls in shot 3, and exactly 3 cropped uniform torsos in shot 4.
+
+Shot 1: Wide establishing view from the back of the classroom. The main girl stands at the front beside a tall male teacher in a dark suit. Behind them is a large green chalkboard, a wall clock, notices, and bright windows on both sides. Rows of wooden desks and chairs fill the room. Show 26 seated classmates as simplified gray silhouettes facing forward. Morning sunlight streams through tall windows, casting warm rectangles of light on desks and floor.
+
+Shot 2: Medium close-up of the main girl standing in front of the chalkboard, centered and large, with backpack straps visible over her shoulders. The male teacher appears smaller in the background at the right. A round classroom clock is visible high on the right wall. The girl’s face should be intentionally soft, indistinct, or blurred rather than detailed, while the uniform, hair, and classroom remain clear.
+
+Shot 3: Social scene near a window inside the classroom. The main girl sits at a desk by the bright window while 3 other sailor-uniform girls stand around her, leaning in as if greeting or questioning her. Count exactly 4 girls total in this panel: 1 seated main girl and 3 standing classmates. Include bookshelves and desks in the background, leafy green trees visible outside, and warm sunlight on the desk surface.
+
+Shot 4: Cropped close-up of exactly 3 girls from shoulders to waist, showing navy sailor uniforms with pale blue neckerchiefs and collars. Their faces are cut off by the top edge of the frame. Emphasize folds in the dark fabric, ribbon shapes, and warm classroom light. Background should be minimal and softly suggested.
+
+Constraints: Keep all text limited to the four shot labels only. Do not add speech bubbles, captions, logos, or watermarks. Maintain consistent classroom setting, warm daylight, and hand-painted anime storyboard aesthetics throughout.
+```
+
+**来源：** [@KanahiRO/かなひろ（AI-ART）](https://x.com/hii_roto/status/2065455524582469696) | 2026-06-12
+
+---
+
+### 🎬 例 1252：浪漫漫画厨房吊坠场景
+
+![浪漫漫画厨房吊坠场景](../../images/%E6%B5%AA%E6%BC%AB%E6%BC%AB%E7%94%BB%E5%8E%A8%E6%88%BF%E5%90%8A%E5%9D%A0%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页垂直的日本浪漫漫画，采用精致的 AI 动漫风格，讲述一位哥特萝莉风格的女孩在豪华厨房制作鲜奶油，她的蓝发男友提醒她今天是情人节并送给她一个心形吊坠的故事。
+
+画布：适合智能手机阅读的竖版漫画页面，9:16 比例，全出血艺术，带有细黑色的分镜边框。使用高细节光影，电影般的景深，装饰华丽的欧式厨房背景，包含铜锅、架子、高大的拱形阳光窗、草莓、金属搅拌碗以及飞溅的白色鲜奶油。
+
+角色：女主角为 {argument name="female character name" default="一位皮肤白皙的哥特萝莉女孩"}：长长的灰金色头发，黑色荷叶边女仆/萝莉发带，红粉色眼睛，黑色蕾丝颈圈，黑色露肩荷叶边连衣裙，小巧的粉色心形耳环，表情害羞。男主角为 {argument name="male character name" default="Alfreed"}：凌乱的亮蓝色头发，酷酷的男友气质，白色 T 恤，黑色皮夹克，深色长裤，佩戴或手持一条带有蓝色心形吊坠的银色项链。保持面部为迷人的动漫风格。
+
+布局：使用 7 个独立的分镜。分镜 1 是顶部宽幅画面，显示女孩在左侧金属碗中用力搅拌鲜奶油，男友站在右侧阳光明媚的厨房里。分镜 2 是左侧中间的特写，女孩全神贯注地搅拌。分镜 3 是右侧中间的特写，男友手放在嘴边说话。分镜 4 是左下方的浪漫特写，男友指着上方，背景有粉色闪光。分镜 5 是右下方的特写，女孩感到震惊，红色的双眼睁大，脸颊绯红，嘴巴微张，鲜奶油飞溅。分镜 6 是底部左侧的小插图，展示蓝色心形吊坠项链的闪光特写。分镜 7 是底部的大幅画面，显示男友站在女孩身后，为她戴上蓝色心形吊坠项链，女孩在鲜奶油碗前害羞地脸红。
+
+文本内容：包含 7 个带有日语文本的对话气泡：1) 顶部面板，男友气泡：{argument name="calling text" default="アルフリード〜♪"}；2) 中右面板：{argument name="question text" default="今日は何の日か知ってる?"}；3) 中左面板，女孩气泡："知らないわよ？ゲームの発売日とかぁ？"；4) 左下面板，男友气泡：{argument name="lovers day line" default="ざんねーん！恋人の日なんだってさー♡"}；5) 右下面板，大型锯齿状反应气泡："はぁ!?"；6) 底部面板，男友气泡："僕にはアルフリードが居るから恋人は要らないけどね♪と言うわけで、感謝の気持ち♪"；7) 左下/底部面板小气泡："………"。
+
+音效：在动作周围添加充满活力的日语漫画拟声词：碗附近的搅拌声如 "ブィーン"、"ポワッ"、"ガシガシガシ"，奶油飞溅声如 "ブゥウウウッ" 和 "ブッガッ!!"，吊坠周围的闪光 "キラッ"，底部附近的心跳声 "ドキッ…"。使用手绘的黑色或粉色漫画字体融入分镜中。
+
+视觉风格：高度精美的现代日本网络漫画，戏剧性的光影，锐利的线条，饱和的眼睛，柔和的辉光，反光的金属，细节丰富的鲜奶油泡沫和飞溅。浪漫喜剧基调，带有夸张的表情和闪亮的少女漫画效果。在动态动作中保持分镜的清晰易读性。
+
+约束：不要添加额外的分镜、角色、水印、标志或英语对话。保持项链吊坠清晰可见且呈蓝色心形。在所有分镜中保持厨房背景的一致性。
+
+[English]
+Goal: Create a vertical Japanese romance manga page in glossy AI-anime style about a goth-lolita girl making whipped cream in a luxurious kitchen while her blue-haired boyfriend reminds her it is Lovers' Day and gives her a heart pendant.
+
+Canvas: Tall smartphone manga page, 9:16 aspect ratio, full-bleed art with thin black panel gutters. Use high-detail lighting, cinematic depth, ornate European kitchen background with copper pots, shelves, tall arched sunlit windows, strawberries, metal mixing bowls, and splashes of white whipped cream.
+
+Characters: Female lead is {argument name="female character name" default="a pale goth-lolita girl"}: long ash-blonde hair, black frilled maid/lolita headband, red-pink eyes, black lace choker, black off-shoulder frilly dress, small pink heart earrings, expressive blush. Male lead is {argument name="male character name" default="Alfreed"}: messy vivid blue hair, cool boyfriend vibe, white T-shirt, black leather jacket, dark pants, wearing or holding a silver necklace with a blue heart pendant. Keep faces attractive anime style.
+
+Layout: Use exactly 7 distinct comic panels. Panel 1 is a wide top panel showing the girl vigorously whisking whipped cream in a metal bowl on the left while the boyfriend stands in the sunlit kitchen on the right. Panel 2 is a left middle panel close-up of the girl whisking with intense focus. Panel 3 is a right middle close-up of the boyfriend speaking with his hand near his mouth. Panel 4 is a lower-left romantic close-up of the boyfriend pointing upward with sparkling pink background. Panel 5 is a lower-right close-up of the shocked girl with wide red eyes, flushed cheeks, open mouth, and whipped cream splashing. Panel 6 is a small bottom-left inset showing a blue heart pendant necklace sparkling in close-up. Panel 7 is a large bottom panel showing the boyfriend standing close behind the girl and putting the blue heart pendant necklace around her neck while she blushes shyly in front of the whipped cream bowl.
+
+Text content: Include exactly 7 speech bubbles with Japanese text: 1) top panel, boyfriend bubble: {argument name="calling text" default="アルフリード〜♪"}; 2) middle-right panel: {argument name="question text" default="今日は何の日か知ってる?"}; 3) middle-left panel, girl bubble: "知らないわよ？ゲームの発売日とかぁ？"; 4) lower-left panel, boyfriend bubble: {argument name="lovers day line" default="ざんねーん！恋人の日なんだってさー♡"}; 5) lower-right panel, large jagged reaction bubble: "はぁ!?"; 6) bottom panel, boyfriend bubble: "僕にはアルフリードが居るから恋人は要らないけどね♪と言うわけで、感謝の気持ち♪"; 7) bottom-left/bottom panel small bubble: "………".
+
+Sound effects: Add energetic Japanese manga SFX around the action: whisking sounds near the bowl such as "ブィーン", "ポワッ", "ガシガシガシ", cream splash sounds like "ブゥウウウッ" and "ブッガッ!!", sparkle around the pendant "キラッ", heartbeat text near the bottom "ドキッ…". Use hand-drawn black or pink manga lettering integrated into the panels.
+
+Visual style: Highly polished modern Japanese web manga, dramatic lighting, sharp linework, saturated eyes, soft bloom, reflective metal, detailed whipped cream foam and splashes. Romantic comedy tone with exaggerated expressions and sparkly shoujo effects. Preserve clean panel readability despite dynamic action.
+
+Constraints: Do not add extra panels, extra characters, watermarks, logos, or English dialogue. Keep the necklace pendant visibly blue and heart-shaped. Keep the kitchen background consistent across panels.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2065424084293554589) | 2026-06-12
+
+---
+
+### 🎬 例 1259：漫画杂志 20 周年纪念特刊页面
+
+![漫画杂志 20 周年纪念特刊页面](../../images/%E6%BC%AB%E7%94%BB%E6%9D%82%E5%BF%97%2020%20%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%B9%E5%88%8A%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+提供された参照画像のキャラクターを基準リファレンスとして使用すること。
+
+参照画像のキャラクターが主人公の、実在しない長期連載漫画作品の「{argument name="記念イベント" default="連載20周年記念お祝い特集ページ"}」を描く。
+
+参照画像のキャラクターの顔、髪型、髪色、瞳、耳、輪郭、体型、シルエット、年齢感、キャラクターとしてのアイデンティティを維持すること。
+
+別キャラクター化しないこと。
+
+実写化しないこと。
+
+これはキャラクターポートレートではない。
+
+これは単独イラストではない。
+
+これは設定資料集ではない。
+
+これは漫画雑誌や記念ムックに掲載された、連載20周年記念のお祝い特集ページである。
+
+誌面の主役は記念特集企画そのものであり、中央キャラクターではない。
+
+ページ全体を雑誌編集デザインとして構成すること。
+
+多数の寄稿イラストを誌面全体に配置すること。
+
+中央に巨大なキャラクターを配置しないこと。
+
+誌面面積の大半を寄稿イラストが占めること。
+
+寄稿イラストは全て同じキャラクターを描いている。
+
+しかしそれぞれ異なる漫画家が描いたかのように表現すること。
+
+異なる線画。
+
+異なる顔の描き方。
+
+異なる頭身。
+
+異なる陰影表現。
+
+異なる色彩設計。
+
+異なる漫画文化。
+
+異なる時代性。
+
+異なる表現思想。
+
+異なる媒体文化。
+
+ただしキャラクターのアイデンティティは維持すること。
+
+【重要】
+
+誌面内に
+
+「少年漫画タッチ」
+
+「少女漫画タッチ」
+
+「SF漫画タッチ」
+
+「ギャグ漫画タッチ」
+
+などの作風説明ラベルを書かないこと。
+
+絶対に書かないこと。
+
+各寄稿イラストには作風名ではなく、
+
+架空の漫画家名
+
+架空のペンネーム
+
+架空の作家サイン
+
+架空のお祝いコメント
+
+を添えること。
+
+誌面内には多数の架空漫画家が存在しているように見せること。
+
+全員異なる名前であること。
+
+同じ名前を使い回さないこと。
+
+実在漫画家名を使用しないこと。
+
+実在出版社名を使用しないこと。
+
+実在雑誌名を使用しないこと。
+
+誌面内には
+
+「20周年おめでとうございます！」
+
+「これからも応援しています！」
+
+「大好きな作品です！」
+
+「連載継続おめでとうございます！」
+
+などの短いお祝いコメントが多数掲載されていること。
+
+漫画家寄稿文化を再現すること。
+
+【誌面構成】
+
+寄稿イラスト
+
+お祝いコメント
+
+作家サイン
+
+編集部コメント
+
+記念ロゴ
+
+特集見出し
+
+インタビュー告知
+
+読者プレゼント告知
+
+周年企画バナー
+
+人気投票結果告知
+
+記念企画案内
+
+などが雑誌らしく混在していること。
+
+高密度。
+
+情報量過多。
+
+非常に賑やか。
+
+紙媒体特有の編集デザイン。
+
+雑誌文化。
+
+漫画文化。
+
+記念号。
+
+周年ムック。
+
+祝祭感。
+
+お祭り感。
+
+本当に存在していた人気漫画の20周年記念特集ページに見えること。
+
+読者が実際に雑誌を開いた瞬間のようなリアリティ。
+
+超高密度誌面。
+
+寄稿文化への愛情。
+
+漫画業界のお祝い文化。
+
+豪華漫画家陣による祝賀特集。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2065408116611768415) | 2026-06-12
+
+---
+
+### 🎬 例 1281：暗黑奇幻漫画战斗页面
+
+![暗黑奇幻漫画战斗页面](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E6%BC%AB%E7%94%BB%E6%88%98%E6%96%97%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个暗黑奇幻漫画动作页面，包含 5 个漫画分格，展示一名孤胆剑士击败魔王的过程，采用粗犷的高对比度动漫风格。
+
+画布：横向 4:3 漫画页面，约 1024×768 分辨率，使用粗白边框分割分格。运用戏剧性光影、水墨漫画线条、绘画级细节、红蓝能量特效、瓦砾、烟雾、余烬和风暴云。当主角面部在近景中可见时，应使用柔和的方形模糊/遮挡块进行遮盖。
+
+布局：使用 5 个分格。顶部一行包含 2 个宽幅分格：左侧为大型场景铺垫，右侧为大型攻击画面。底部一行包含 3 个分格：左侧为恶魔特写，中间为英雄蓄力，右侧为胜利姿态。构图需保持动态和电影感，运用倾斜视角和速度线。
+
+主体细节：英雄为 {argument name="character name" default="一名黑发年轻剑士"}，身穿破损的黑色连帽斗篷、深色装甲夹克、皮带、露指手套，红色围巾/丝带在风中飘动。他手持一把闪烁着 {argument name="sword energy color" default="蓝白色"} 光芒的武士刀。敌人为 {argument name="villain description" default="一名高耸的带角暗影魔王，由黑色盔甲、烟雾、尖刺和红色发光裂纹组成"}。战场为布满裂石、破碎建筑、灰烬和风暴天空的荒原。
+
+分格细节与文字内容：第 1 格（左上）：越肩视角，英雄紧握散发红光的剑，面对荒凉景观中高耸的恶魔；对话气泡内容为 {argument name="opening speech bubble" default="今天就是终点。"}。第 2 格（右上）：英雄斩击恶魔的近景冲击画面，英雄周围环绕蓝色闪电，剑刃处产生红色爆炸；巨大的锯齿状音效文字为“SLASH!”。第 3 格（左下）：被深红火焰和黑烟包围的带角恶魔特写，抬起一只爪子；对话气泡内容为“你什么都不是。”。第 4 格（中下）：英雄正面肖像，双手垂直持剑，蓝色能量升腾；对话气泡内容为 {argument name="hero resolve line" default="我就是自己的极限。"}。第 5 格（右下）：英雄在日落时分的瓦砾上独自站立的全身胜利姿态，发光的蓝色剑刃下垂，破损的斗篷随风飘动；对话气泡内容为“我守护我在乎的一切。”，底部有巨大的粗体漫画文字“VICTORY!”。
+
+视觉风格：现代暗黑少年漫画/动漫插画，极具细节的纹理，锐利的水墨轮廓，戏剧性的明暗对照法，红蓝色彩对比，速度线，火花，碎片，发光的眼睛，电影级景深，强烈的战斗氛围。
+
+约束条件：必须包含 5 个分格，恰好 5 个对话气泡文字元素，以及 2 个大型音效/结果词：“SLASH!”和“VICTORY!”。不要添加额外的分格、标题、标志、水印或无关角色。
+
+[English]
+Goal: Create a dark fantasy manga action page with exactly 5 comic panels showing a lone swordsman defeating a demonic overlord, in a gritty high-contrast anime style.
+
+Canvas: Landscape 4:3 comic page, roughly 1024×768, with thick white gutters dividing the panels. Use dramatic lighting, inked manga linework, painterly detail, red-and-blue energy effects, rubble, smoke, embers, and storm clouds. The main character’s face should be obscured by a soft square blur/censor block in panels where it is close enough to see.
+
+Layout: Use exactly 5 panels. Top row has 2 wide panels: a large left setup panel and a large right attack panel. Bottom row has 3 panels: left demon close-up, center hero power-up, right victory pose. Keep the composition dynamic and cinematic, with tilted perspectives and motion streaks.
+
+Subject details: The hero is {argument name="character name" default="a young black-haired male swordsman"}, wearing a torn black hooded cloak, dark armored jacket, belts, fingerless gloves, and red scarf/ribbons whipping in the wind. He wields a glowing {argument name="sword energy color" default="blue-white"} katana-like sword. The enemy is {argument name="villain description" default="a towering horned shadow demon king made of black armor, smoke, spikes, and red glowing cracks"}. The battlefield is a ruined wasteland of cracked stone, broken structures, ash, and stormy skies.
+
+Panel details and text content: Panel 1, top left: over-the-shoulder view of the hero gripping a red-glowing sword, facing the distant towering demon in a devastated landscape; speech bubble says {argument name="opening speech bubble" default="This ends today."}. Panel 2, top right: close action impact shot of the hero slashing into the demon, with blue lightning around the hero and a red explosion from the blade; large jagged sound effect text says “SLASH!”. Panel 3, bottom left: close-up of the horned demon surrounded by crimson fire and black smoke, one claw raised; speech bubble says “You are nothing.” Panel 4, bottom center: frontal hero portrait holding the sword vertically with both hands, blue energy rising; speech bubble says {argument name="hero resolve line" default="I’m my own limit."}. Panel 5, bottom right: full-body victory pose of the hero standing alone on rubble at sunset with a glowing blue sword lowered, torn cape flowing; speech bubble says “I protect what matters.” and large bold comic text at the bottom says “VICTORY!”.
+
+Visual style: Modern dark shonen manga/anime illustration, extremely detailed textures, sharp ink outlines, dramatic chiaroscuro, red versus blue color contrast, speed lines, sparks, debris, glowing eyes, cinematic depth, intense battle atmosphere.
+
+Constraints: Include exactly 5 panels, exactly 5 text elements in speech bubbles plus 2 large sound/result words: “SLASH!” and “VICTORY!”. Do not add extra panels, captions, logos, watermarks, or unrelated characters.
+```
+
+**来源：** [@Chloe_Lai](https://x.com/Lc_9998/status/2065369835043959176) | 2026-06-12
+
+---
+
+### 🎬 例 1292：1990 年代日本时尚插画
+
+![1990 年代日本时尚插画](../../images/1990%20%E5%B9%B4%E4%BB%A3%E6%97%A5%E6%9C%AC%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古日本时尚插画，1980 年代至 1990 年代编辑漫画风格，{argument name="subject" default="优雅迷人的女性"}，苍白的象牙色皮肤，金色雕塑感发型，修长的颈部和四肢，戏剧性的睫毛，极简的面部阴影，{argument name="makeup" default="大胆的黑色唇膏或深红色唇膏"}，高级时尚姿态，纤细且富有表现力的墨线，随性的手绘轮廓，时尚杂志构图，大面积留白，具有电影氛围的平面图形构图，复古印刷质感，水彩和马克笔渲染，干笔触黑色区域，精致配饰，耳环，手套，高跟鞋，{argument name="clothing" default="黑色连衣裙或红色连衣裙"}，奢华且略带危险的氛围，强烈的红黑对比，专注于深红色、深黑色、象牙色皮肤、浅金色头发的有限调色板，背景为大面积的纯红色或黑色色块，海报式构图，优雅而锐利的轮廓。
+无第二人，无情侣，无人群，无额外角色，无男性形象，无背景人物，无面部重绘，无身份改变，无不同发型，无不同面部结构，无照片写实，无 3D 渲染，无逼真皮肤质感，无光泽数字绘画，无现代网漫风格，无粗糙干净的矢量轮廓，无杂乱构图，无重渐变，无可爱风格，无 Q 版风格
+
+[English]
+retro Japanese fashion illustration, 1980s-1990s editorial manga style, {argument name="subject" default="elegant glamorous woman"}, pale ivory skin, blonde sculpted hair, elongated neck and limbs, dramatic eyelashes, minimal facial shading, {argument name="makeup" default="bold black lipstick or deep red lipstick"}, high fashion pose, thin expressive ink lines, loose hand-drawn contour, fashion magazine composition, large negative space, flat graphic composition with cinematic mood, vintage print texture, watercolor and marker wash, dry brush black areas, refined accessories, earrings, gloves, high heels, {argument name="clothing" default="black dress or red dress"}, luxurious and slightly dangerous atmosphere, strong red and black contrast, limited color palette focused on crimson red, deep black, ivory skin, pale gold hair, background as a large flat red or black color block, poster-like framing, elegant and sharp silhouette. 
+no second person, no couple, no crowd, no extra character, no male figure, no background people, no face redesign, no identity change, no different hairstyle, no different facial structure, no photorealism, no 3D rendering, no realistic skin texture, no glossy digital painting, no modern webtoon style, no thick clean vector outline, no cluttered composition, no heavy gradients, no cute style, no chibi style
+```
+
+**来源：** [@Agugu](https://x.com/guyiguyi_/status/2065362123643933002) | 2026-06-12
+
+---
+
+### 🎬 例 1295：基于参考角色的漫画阅读器页面
+
+![基于参考角色的漫画阅读器页面](../../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E8%A7%92%E8%89%B2%E7%9A%84%E6%BC%AB%E7%94%BB%E9%98%85%E8%AF%BB%E5%99%A8%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色基础，将其转换为日本 AI 漫画阅读器页面的垂直智能手机截图。保留相同的浅发研究员角色和华丽的白金配色服装设计，但以更柔和的连载漫画风格重新绘制，并将其置于多格漫画布局中，而非单幅插图。
+
+画布与构图：创建一个高大的手机屏幕构图，顶部和底部带有黑色应用 UI 条，如同在手机上查看一样。添加一个显示时间 {argument name="phone time" default="17:53"} 的状态栏、信号/Wi‑Fi/电池图标，以及一个带有返回箭头、标题 {argument name="manga title" default="内気な研究者⑫(終)(1/1)"}、菜单图标和刷新图标的漫画阅读器页眉。将漫画页面置于页眉下方。
+
+漫画布局：使用 4 个可见的漫画分格：
+1. 一个以浅发研究员为主的大型特写分格，改编自参考图，保留参考图中面部部分遮挡/空白的效果，背景为明亮梦幻的实验室虚化效果。
+2. 右上角一个小型的对角线插图分格，仅显示研究员微笑的下半张脸和衣领。
+3. 中右侧的对角线分格，场景设定在酒吧或实验室柜台，增加一名穿着衬衫和深色马甲、扎着棕色马尾辫的女性，正在与研究员交谈。
+4. 底部宽幅分格，显示研究员与该女性并排坐在吧台，身后是温暖的货架、瓶子和玻璃器皿。
+
+文字与对话：在漫画页面内添加 4 个文本元素：一个垂直的旁白框，内容为 {argument name="narration text" default="ひそかに気になってしまうラグネスなのであった"}；中间分格的一个对话气泡，内容为 {argument name="woman line" default="いや〜それにしても…"}；以及底部分格的两个对话气泡，内容为 {argument name="bottom dialogue" default="あのトキカゲとはドキドキしたわね / その話、詳しく"}。保留日语文字的排版方向和漫画气泡风格。
+
+风格：精致的条漫/漫画页面，温暖的琥珀色实验室酒吧灯光，对角线分格边框，柔和的光晕，闪烁和虚化效果，细腻的线条，电影般的恋爱剧情基调。在漫画页面下方的中央位置添加两个带有左右箭头的圆形导航按钮。不要添加额外的分格、角色、水印或额外文字。
+
+[English]
+Using REFERENCE_0 as the character base, transform it into a vertical smartphone screenshot of a Japanese AI manga viewer page. Keep the same pale-haired researcher character and ornate white-and-gold outfit design, but redraw him in a softer serialized manga style and place him into a multi-panel comic layout rather than a single illustration.
+
+Canvas and framing: Create a tall mobile-screen composition with black app UI bars at the top and bottom, as if viewed on a phone. Add a status bar showing the time {argument name="phone time" default="17:53"}, signal/Wi‑Fi/battery icons, and a manga viewer header with a back arrow, the title {argument name="manga title" default="内気な研究者⑫(終)(1/1)"}, a menu icon, and a refresh icon. Keep the comic page beneath the header.
+
+Comic layout: Use exactly 4 visible manga panels:
+1. A large dominant close-up panel of the pale-haired researcher, adapted from the reference, with his face partially obscured/blanked as in the reference and a bright dreamy bokeh laboratory background.
+2. A small diagonal inset panel at the upper right showing only the lower half of the researcher’s smiling face and collar.
+3. A middle-right diagonal panel set at a bar or laboratory counter, adding a brown-haired ponytail woman in a blouse and dark vest, speaking to the researcher.
+4. A wide bottom panel at the bar showing the researcher seated beside the same woman, with warm shelves, bottles, and glassware behind them.
+
+Text and dialogue: Add exactly 4 text elements inside the comic page: one vertical narration box reading {argument name="narration text" default="ひそかに気になってしまうラグネスなのであった"}, one speech bubble in the middle panel reading {argument name="woman line" default="いや〜それにしても…"}, and two speech bubbles in the bottom panel reading {argument name="bottom dialogue" default="あのトキカゲとはドキドキしたわね / その話、詳しく"}. Preserve the Japanese text orientation and manga bubble style.
+
+Style: Polished webtoon/manga page, warm amber laboratory-bar lighting, diagonal panel borders, soft glow, sparkles and bokeh, delicate linework, cinematic romance-drama tone. Add two circular navigation buttons with left and right chevrons near the lower center over the comic page. Do not add extra panels, extra characters, watermarks, or additional text.
+```
+
+**来源：** [@美和](https://x.com/tokikageyomikag/status/2065357412132081885) | 2026-06-12
+
+---
+
+### 🎬 例 1327：矢量艺术风格运动肖像
+
+![矢量艺术风格运动肖像](../../images/%E7%9F%A2%E9%87%8F%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将主体转换为高对比度矢量艺术风格，采用黑白单色调和锐利的赛璐珞阴影（cel-shading）。以 {argument name="jersey type" default="国家队球衣"} 的主色调作为霓虹边缘光，突出头发和肩部轮廓。主体应穿着参考图中的球衣，但整体风格需保持黑白单色。背景为纯黑色，呈现戏剧性的漫画插画质感，线条干净利落，具有前卫的现代美学。
+必须使用 4:5 的纵横比。
+
+[English]
+Convert the subject into a high-contrast vector art style, monochrome black and white portrait with sharp cel-shading. Features vibrant {argument name="jersey type" default="national team jersey"} dominant color neon rim lighting highlighting the hair and shoulders.The subject should wear jersey from reference image but monochrome black and white as overall style. Set against a pure black background, dramatic comic book illustration, clean vector lines, edgy modern aesthetic.
+Aspect ratio 4:5 is mandatory.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2065273697720750108) | 2026-06-12
+
+---
+

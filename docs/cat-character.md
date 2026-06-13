@@ -2897,3 +2897,85 @@ Important: Keep everything exactly the same as the original image (pose, camera 
 
 ---
 
+### 🧍 例 1225：暗黑 TRPG 反派角色设定表
+
+![暗黑 TRPG 反派角色设定表](../../images/%E6%9A%97%E9%BB%91%20TRPG%20%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构的 TRPG 反派创建一个暗黑战术风格的角色参考表，采用机密档案和时尚设计项目风格。该角色为 {argument name="character name" default="Talamonsu"}，是神秘现代奇幻背景下的敌对目标 / 永恒教母形象。
+
+画布：宽幅 2.4:1 角色设定表，尺寸约为 1200×500 像素。使用带有细薄技术蓝图线条的做旧黑绿色背景，辅以红色警告点缀、磨损的纸张纹理、网格标记、罗盘圆圈以及细小的档案 UI 细节。整体氛围阴郁、优雅、具有军事感和超自然色彩。
+
+布局：将设定表分为三个主要区域。左侧区域：情报档案面板，包含醒目的红色中文标题「塔拉蒙苏」、罗马拼音名“TALAMONSU”、较小的行文「原名 / 塔拉蒙苏」以及一个字段表格。中央区域：一个由红色引导线框定的主体全身站立角色插画。右侧区域：撕裂纸张风格的装备细节项目，展示服装材质特写。底部长条：用于展示侧面视图和面部肖像裁剪的小型参考面板。
+
+文本内容：在左上角包含小标签“HOSTILE TARGET”。在左侧档案表格中，准确显示以下 6 行：“CODENAME: 塔拉蒙苏 / TALAMONSU”、“TRUE NAME: 塔拉蒙苏”、“OCCUPATION: 不详”、“RANK: 不详”、“AGE: 不详”、“HEIGHT: 不详”。添加一个分区标签“HOSTILE PROFILE / 敌对档案”，配以细小的不可读机密文本行和一个红色三角形危险符号。在右上角添加“DESIGNATION TALAMONSU”。在底部中央附近，添加小字“MELIANDER ACTING GODMOTHER”。右下角：“FILE No. XXXX”及一个红色条形码。
+
+主体细节：主角是一位高挑纤瘦的成年女性，留着 {argument name="hair color" default="深炭黑色"} 波浪短发，皮肤苍白，姿态优雅而严谨。她的面部应被柔和的灰色方形模糊遮罩处理，如同从机密文件中被涂抹掉一样。她身穿结构化的黑色军装风格束腰外衣，配有不对称纽扣、高领、收腰设计，搭配黑色长裤、黑色手套、黑色高跟靴、带有金属扣的皮带，以及一件带有深色绗缝衬里和肩章的戏剧性长款青蓝色斗篷。使用低饱和度的青色、黑色、炭灰色、哑光黄铜色以及血红色的 UI 点缀。
+
+可见元素计数：中心包含 1 个大型全身正面姿势。底部左侧包含 3 个小型多角度参考图：正面四分之三视图、斗篷背面视图以及不带斗篷的正面制服视图。底部中右侧包含 4 个方形肖像面板，每个面板均带有相同的灰色面部遮罩模糊效果，且头部/手部角度各不相同：中性正面、手部靠近嘴部、侧视以及冷静的正面半身像。右侧包含 5 个撕裂纸张风格的装备/细节展示：织物上的吊坠或身份牌、长方形青色绗缝织物、折叠的兜帽或斗篷领口、带有悬挂链条的黑色皮带，以及堆叠的袖口/肩章或折叠的制服饰边。
+
+视觉风格：半写实动漫概念艺术与平面设计档案布局相结合。干净的墨线角色渲染、柔和的绘画阴影、细致的金色与红色线条、风化的纸张边缘以及细微的磨损划痕。使服装设计清晰且具有时尚参考价值，展现精确的接缝、搭扣、纽扣、绗缝和斗篷褶皱。
+
+限制：将图像保持为一张完整的角色设定表，而非多张不相关图像的拼贴。保留图形、肖像和装备展示的精确数量。不要添加额外角色。不要使用明亮的颜色或欢快的灯光。除大型红色中文名称外，所有文本均保持为小型档案排版风格。
+
+[English]
+Goal: Create a dark tactical character reference sheet for a fictional TRPG antagonist, styled like a classified dossier and fashion design board. The character is {argument name="character name" default="Talamonsu"}, a hostile target / eternal godmother figure from an occult modern-fantasy setting.
+
+Canvas: Wide horizontal 2.4:1 character sheet, approximately 1200×500 px. Use a distressed black-green background with thin technical blueprint lines, red warning accents, worn paper textures, grid marks, compass circles, and small dossier UI details. The overall mood is grim, elegant, militaristic, and supernatural.
+
+Layout: Split the sheet into three main zones. Left zone: an intelligence dossier panel with large red Chinese title text 「塔拉蒙苏」, Romanized name “TALAMONSU”, smaller line 「原名 / 塔拉蒙苏」, and a table of fields. Center zone: one dominant full-body standing character illustration framed by red guide lines. Right zone: torn-paper equipment detail board showing outfit material closeups. Bottom strip: smaller reference panels for alternate views and facial portrait crops.
+
+Text content: Include the small top-left label “HOSTILE TARGET”. In the left dossier table, show these 6 rows exactly: “CODENAME: 塔拉蒙苏 / TALAMONSU”, “TRUE NAME: 塔拉蒙苏”, “OCCUPATION: 不详”, “RANK: 不详”, “AGE: 不详”, “HEIGHT: 不详”. Add a section label “HOSTILE PROFILE / 敌对档案” with tiny unreadable classified text lines and a red triangular hazard symbol. On the right upper corner, add “DESIGNATION TALAMONSU”. Near the lower center, add small text “MELIANDER ACTING GODMOTHER”. Bottom-right corner: “FILE No. XXXX” and a red barcode.
+
+Subject details: The main character is a tall, slim adult woman with {argument name="hair color" default="dark charcoal-black"} wavy short hair, pale skin, and an elegant severe posture. Her face should be anonymized by a soft square grey blur mask, as if redacted from a classified document. She wears a structured black military-inspired tunic with asymmetrical buttons, high collar, fitted waist, black trousers, black gloves, heeled black boots, a leather belt with metal buckle, and a dramatic long teal-blue cloak with dark quilted lining and shoulder epaulets. Use desaturated teal, black, charcoal, muted brass, and blood-red UI accents.
+
+Counted visible elements: Include exactly 1 large full-body front pose in the center. Include exactly 3 small turnaround reference figures along the bottom-left: front three-quarter view, rear cloak view, and front uniform view without the cloak dominating. Include exactly 4 square portrait panels along the bottom middle-right, each with the same grey face-redaction blur and different head/hand angles: neutral front, hand raised near mouth, side glance, and calm front-facing bust. Include exactly 5 torn-paper equipment/detail swatches on the right: a pendant or ID tag on fabric, a quilted teal fabric rectangle, a folded hood or cloak collar, a black belt with dangling chains, and stacked cuffs/epaulet or folded uniform trim.
+
+Visual style: Semi-realistic anime concept art mixed with graphic-design dossier layout. Clean inked character rendering, muted painterly shading, thin gold and red linework, weathered paper borders, and subtle grunge scratches. Make the clothing design readable and fashion-reference oriented, with precise seams, buckles, buttons, quilting, and cape folds.
+
+Constraints: Keep the image as a single finished character sheet, not a collage of separate unrelated images. Preserve the exact counts of figures, portraits, and equipment swatches. Do not add extra characters. Do not use bright colors or cheerful lighting. Keep all text as small dossier typography except for the large red Chinese name.
+```
+
+**来源：** [@安准](https://x.com/AnzhunOfficial/status/2065495906116636734) | 2026-06-12
+
+---
+
+### 🧍 例 1246：角色一致性项目
+
+![角色一致性项目](../../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 {argument name="style" default="2.5D IDENTITY BOARD"}，以 image1 作为精确参考，并详细参考 motorcycle Image2。确保所有面板在面部、发型、眼睛、服装和颜色上保持 100% 的一致性。采用柔和背景的简洁工作室展示图。
+
+[English]
+Create a {argument name="style" default="2.5D IDENTITY BOARD"} using image1 as exact reference and motorcycle Image2 in detail. Preserve face, hair, eyes, outfit, and colors with 100% consistency across all panels. Clean studio sheet on soft
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2065432537678413961) | 2026-06-12
+
+---
+
+### 🧍 例 1251：黑色电影侦探杰作
+
+![黑色电影侦探杰作](../../images/%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E4%BE%A6%E6%8E%A2%E6%9D%B0%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一部高度精细、电影级的黑色电影杰作，融合了 1940 年代经典侦探电影风格与现代照片级真实质感。在深夜雨水浸透的昏暗巷弄中，一位神秘且风度翩翩的男子自信地站立着，他拥有参考图中完全一致的面容——表情冷峻果敢，下颌线分明，深色卷发，留着时髦的胡须，戴着飞行员墨镜。他戴着一顶微微倾斜的黑色浅顶软呢帽，肩上披着一件长款黑色皮质风衣（像斗篷一样，敞开且未扣扣子，呈现自然的褶皱），露出里面的白色衬衫、深色马甲和松开的领带。他的双手随意地插在风衣口袋里。嘴里叼着一支点燃的雪茄，烟雾袅袅升起。人体结构完美，手部刻画真实，姿势时髦且深沉，双腿微微分开。在他身旁站着 {argument name="companion" default="Tom from Tom & Jerry"} 作为他那古怪的侦探搭档：一只拟人化的灰色猫咪，戴着迷你的黑色浅顶软呢帽、黑色风衣和配套的飞行员护目镜。它的右爪插在风衣口袋里，左爪拿着一个冒着热气的茶杯。Tom 露出一抹狡黠顽皮的微笑，一边眉毛微微挑起，看起来既酷又滑稽。氛围：大雨倾盆，湿漉漉的鹅卵石街道映照着水洼，浓雾缭绕，戏剧性的高对比度黑色电影灯光，伴随着强烈的阴影和霓虹光晕。上方悬挂的黄色霓虹灯牌写着 "{argument name="sign text" default="NOIR DETECTIVES"}"。远处是灯火通明的城市摩天大楼，体积光效果，电影级构图，青色与琥珀色的情绪化调色与经典的黑白黑色电影色调交织，细腻的胶片颗粒感，超真实纹理，8k 照片级细节，大师之作，顶级画质。
+
+[English]
+A highly detailed, cinematic film noir masterpiece in the style of classic 1940s detective movies with modern photorealistic quality. In a rain-soaked dark alley at night, a mysterious, dashing man with the exact face of the reference — bold and cold expression, sharp jawline, dark curly hair, stylish mustache, wearing aviator sunglasses — stands confidently. He wears a sleek black fedora tilted slightly, a long black leather trench coat dramatically draped over his shoulders (cape-like, unbuttoned and open in front with natural fabric folds), revealing a white dress shirt, dark vest, and loosened tie underneath. Both of his hands are casually tucked into his coat pockets. A lit cigar is in his mouth with smoke curling upward. Perfect anatomy, realistic hands, stylish and brooding pose with legs slightly apart. Beside him stands {argument name="companion" default="Tom from Tom & Jerry"} as his quirky detective partner: anthropomorphic gray cat wearing a miniature black fedora, black trench coat, and matching aviator goggles. His right paw is tucked into his coat pocket, while his left paw holds a steaming teacup. Tom has a smug, mischievous grin with one eyebrow slightly raised, looking cool yet hilarious. Atmosphere: heavy rain falling, wet cobblestone street with reflective puddles, thick swirling fog, dramatic high-contrast noir lighting with strong shadows and neon glows. A glowing yellow neon sign above them reads "{argument name="sign text" default="NOIR DETECTIVES"}". Distant city skyscrapers with lights, volumetric god rays, cinematic composition, moody teal and amber color grading mixed with classic black-and-white film noir tones, subtle film grain, ultra-realistic textures, 8k photorealistic detail, masterpiece, best quality.
+```
+
+**来源：** [@WeWant Mars](https://x.com/Madhuribhai/status/2065426484148445423) | 2026-06-12
+
+---
+

@@ -3114,3 +3114,266 @@ Ultra-realistic whimsical fantasy scene inside an open refrigerator transformed 
 
 ---
 
+### 🎨 例 1226：柔和色调哈士奇幼犬花海
+
+![柔和色调哈士奇幼犬花海](../../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E5%93%88%E5%A3%AB%E5%A5%87%E5%B9%BC%E7%8A%AC%E8%8A%B1%E6%B5%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张梦幻般的柔和水彩插画，采用 3:4 竖版画布，呈现出精致的春日贺卡或文具印刷品效果。画面中准确展示了 4 只毛茸茸的黑白西伯利亚哈士奇幼犬，它们在超大花丛中漂浮或对角线穿行：右上角一只幼犬向右跳跃，带有紫色花环和丝带；左中一只幼犬张嘴微笑，带有粉色花环；右中一只幼犬向右跳跃，带有紫色花环；左下一只幼犬向右行走，带有粉色花环。所有幼犬均采用柔和的铅笔轮廓、温暖的奶油色毛发高光、卷曲的尾巴、尖尖的耳朵、温柔灵动的双眼，以及仿佛在花瓣中穿梭的轻盈动感。周围环绕着硕大浪漫的花朵：左上、右侧边缘及右下角为粉色牡丹/玫瑰；左下角为淡雅的波斯菊状雏菊；右下角和左下角为紫色三色堇/天竺葵状花朵；右侧点缀着纤细的樱花枝。包含 10 只清晰可见的蝴蝶：左上角幼犬区域附近为紫色，顶部中心附近为黄色，顶部中心附近为微型粉色，右上角为粉色，右侧花枝上为粉色，中心附近为紫色，中右侧附近为黄色，右下角幼犬附近为蓝色，底部中心附近为黄色，左下角附近为粉色。画面中散落着粉色花瓣。背景为极淡的奶油色与淡粉色方格图案，并带有薰衣草色、桃色和粉色的透明水彩晕染。采用柔和的手绘质感、细腻的石墨素描细节、半透明晕染、低对比度，无生硬的数码边缘，营造出奇幻的日系可爱文具氛围。在右下角添加一个小型草书签名，内容为 {argument name="signature text" default="coco days"}。可选自定义项：幼犬品种为 {argument name="dog breed" default="西伯利亚哈士奇幼犬"}，主花卉色调为 {argument name="flower palette" default="粉色牡丹、淡波斯菊、紫色三色堇和樱花"}，背景图案为 {argument name="background pattern" default="淡粉色方格"}，整体氛围为 {argument name="mood" default="梦幻春日水彩"}。
+
+[English]
+Create a dreamy pastel watercolor illustration on a vertical 3:4 canvas, like a delicate spring greeting-card or stationery print. The scene shows exactly 4 fluffy black-and-white Siberian husky puppies floating or running diagonally through a garden of oversized blossoms: 1 puppy at upper right leaping to the right with a purple flower garland and ribbon, 1 puppy at mid-left smiling with an open mouth and a pink flower garland, 1 puppy at mid-right leaping to the right with a purple flower garland, and 1 puppy at lower left walking to the right with a pink flower garland. Give all puppies soft pencil outlines, warm cream fur highlights, curled tails, pointed ears, gentle expressive eyes, and a light airy motion as if drifting through petals. Surround them with large romantic flowers: pink peonies/roses at upper left, right edge, and lower right; pale cosmos-like daisies at lower left; purple pansies/geranium-like flowers at lower right and lower left; and thin cherry-blossom branches on the right. Include exactly 10 visible butterflies: purple near the upper left puppy area, yellow near the top center, tiny pink near the top center, pink at the upper right, pink on the right blossom branch, purple near the center, yellow near the middle right, blue near the lower right puppy, yellow near the bottom center, and pink near the bottom left. Add scattered pink petals throughout. Background should be a very pale cream and blush pink gingham checker pattern with transparent watercolor washes in lavender, peach, and pink. Use a soft hand-painted texture, fine graphite sketch detail, translucent washes, low contrast, no hard digital edges, and a whimsical Japanese kawaii stationery mood. Add a small cursive signature reading {argument name="signature text" default="coco days"} in the bottom-right corner. Optional customization: the puppies are {argument name="dog breed" default="Siberian husky puppies"}, the main flower palette is {argument name="flower palette" default="pink peonies, pale cosmos, purple pansies, and cherry blossoms"}, the background pattern is {argument name="background pattern" default="pale blush gingham"}, and the overall mood is {argument name="mood" default="dreamy spring watercolor"}.
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2065495551697949085) | 2026-06-12
+
+---
+
+### 🎨 例 1242：超现实大提琴奏鸣曲梦境
+
+![超现实大提琴奏鸣曲梦境](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E6%A2%A6%E5%A2%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个受发光大提琴奏鸣曲启发的电影级超现实艺术场景，左侧立着一把 {argument name="main instrument" default="大提琴"}，放置在浅浅的反射水面上。乐器为深琥珀色清漆木质，具有逼真的曲线、琴弦、琴码、尾针和光泽高光，周围环绕着金白色的发光音乐丝带，细小的闪烁颗粒从琴身向外流淌，在画面中形成优雅的波浪。右侧放置一个孤独的人影，呈深色剪影，盘腿坐在湿润的地面上沉思，面向乐器和光芒。人物身后是一个巨大的温暖圆形月亮或太阳圆盘，透过高大的半透明建筑面板发出光芒，营造出宁静、富有呼吸感的氛围。场景是一个广阔的室内梦境，配有垂直玻璃墙、朦胧的青灰色阴影、悬挂在细线上的雨滴状水珠，以及像镜子一样的积水地面，反射出大提琴、人物、月亮和光迹。采用 16:9 宽画幅构图，低视平线，冷蓝灰色暗部与暖金色光芒形成戏剧性对比，运用体积光、柔和雾气、超细节电影级写实风格、诗意的魔幻现实主义，呈现优雅的管弦乐氛围，无文字，无水印。
+
+[English]
+Create a cinematic surreal fine-art scene inspired by a luminous cello sonata, with a {argument name="main instrument" default="cello"} standing upright on the left side of a shallow reflective water floor. The instrument is dark amber varnished wood with realistic curves, strings, bridge, endpin, and glossy highlights, surrounded by glowing golden-white ribbons of music and tiny sparkling particles that stream outward from its body in a graceful wave across the image. On the right side, place a solitary human figure in dark silhouette, sitting cross-legged and contemplative on the wet floor, facing the instrument and the light. Behind the figure is a huge warm circular moon or sun disk glowing through tall translucent architectural panels, creating a peaceful, breathing atmosphere. The setting is an expansive indoor dreamscape with vertical glass walls, misty teal-gray shadows, rainlike hanging droplets suspended from thin threads, and a mirrorlike flooded floor reflecting the cello, figure, moon, and light trails. Use a wide 16:9 composition, low horizon, dramatic contrast between cool blue-gray darkness and warm gold illumination, volumetric light, soft haze, ultra-detailed cinematic realism, poetic magical realism, elegant orchestral mood, no text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2065436805353095375) | 2026-06-12
+
+---
+
+### 🎨 例 1249：夏日阳光时尚造型手册
+
+![夏日阳光时尚造型手册](../../images/%E5%A4%8F%E6%97%A5%E9%98%B3%E5%85%89%E6%97%B6%E5%B0%9A%E9%80%A0%E5%9E%8B%E6%89%8B%E5%86%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在阳光明媚的淡黄色房间内，创作一张温暖的编辑风格夏日时尚图片。画面中展示一位年轻女性，留着 {argument name="hair color" default="中棕色波浪卷发"}，身穿一件超大号 {argument name="shirt color" default="奶油黄色"} 纽扣衬衫，衬衫敞开，内搭修身白色罗纹背心，下身搭配高腰米色亚麻短裤；袖口随意卷起，整体造型轻松、透气，充满度假风情。场景采用 16:9 横向时尚布局，右侧为女性的大幅特写，突出躯干和头发，一只手放在臀部附近；左侧设有一个较小的倾斜矩形全身照片插图，如同印刷的造型手册卡片；插图中她站立着，一只手触碰草帽，另一只手叉腰。包含 1 张插图，1 顶草帽，以及 3 件清晰可见的服装：黄色纽扣衬衫、白色背心、米色亚麻短裤。主图和插图中的面部均用纯色矩形棕色色块遮挡，呈现隐私遮盖效果。使用奶油黄色墙壁、强烈的对角线阳光、柔和的窗影、明亮的自然日光、浅景深、精致的商业摄影质感、细腻的镜头柔光，以及干净简约的背景，且画面中无 Logo、无额外人物、无任何可读文字。
+
+[English]
+Create a warm editorial summer fashion image in a sunlit pastel yellow room. Show one young adult woman with {argument name="hair color" default="wavy medium-brown hair"} wearing an oversized {argument name="shirt color" default="buttery yellow"} button-up shirt left open over a fitted white ribbed tank top, paired with high-waisted beige linen shorts; the sleeves are casually rolled and the styling is relaxed, airy, and resort-like. Compose the scene as a horizontal 16:9 fashion layout with a large close-up crop of the woman on the right, her torso and hair prominent, one hand resting near her hip, and a smaller tilted rectangular full-body photo inset on the left like a printed lookbook card; in the inset she stands with one hand touching a straw hat and the other on her hip. Include exactly 1 inset photo, exactly 1 straw hat, exactly 3 visible clothing pieces on the outfit: yellow button-up shirt, white tank top, beige linen shorts. Obscure the face in both the main figure and the inset with plain rectangular brown blocks, matching a privacy-redacted look. Use creamy yellow walls, strong diagonal sunlight, soft window shadows, bright natural daylight, shallow depth of field, polished commercial photography, subtle lens softness, and a clean minimal background with no logos, no extra people, and no readable text.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065430582667153423) | 2026-06-12
+
+---
+
+### 🎨 例 1264：GPT Image 2 去噪净化指令
+
+![GPT Image 2 去噪净化指令](../../images/GPT%20Image%202%20%E5%8E%BB%E5%99%AA%E5%87%80%E5%8C%96%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+图像必须极其干净。不要包含任何照片颗粒感、数字噪点或模糊伪影。保持皮肤和背景完美平滑且纯净。
+
+[English]
+The image must be extremely clean. Do not include any photographic grain, digital noise, or blurry artifacts. Keep the skin and background perfectly smooth and pure.
+```
+
+**来源：** [@James AI-Lab](https://x.com/sama_lover71113/status/2065395321661014517) | 2026-06-12
+
+---
+
+### 🎨 例 1274：2026 年世界杯球迷照片生成器
+
+![2026 年世界杯球迷照片生成器](../../images/2026%20%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E8%BF%B7%E7%85%A7%E7%89%87%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片创作人物，保留其原有的面部特征、脸型结构、发型、肤色和身份，确保人物具有辨识度。首要任务是让人物看起来与本人一致，并准确捕捉 2026 年 FIFA 世界杯的现场氛围，其次是保证高质量的视觉效果。
+
+生成一张沉浸式、逼真的照片，呈现人物身处 2026 年 FIFA 世界杯体育场的场景。人物应位于看台或球场附近，身穿 {argument name="cheering uniform color" default="红色"} 的 {argument name="country" default="韩国"} 国家队助威服，或带有 {argument name="country" default="韩国"} 元素的助威装束。脸上应有自然且精致的 {argument name="national flag" default="太极旗"} 彩绘，手中挥舞着一面 {argument name="national flag" default="太极旗"}。表情应表现出兴奋与沉浸感，营造出在世界杯赛场为 {argument name="country" default="韩国"} 队激情呐喊的氛围。
+
+整体场景应强烈捕捉 2026 年 FIFA 世界杯的独特氛围：宏伟的现代化足球场、座无虚席的看台、来自世界各地的球迷、炫目的球场灯光、电子记分牌、助威横幅、飘扬的旗帜，以及远处清晰可见的绿茵场和真实的比赛氛围。画面应具备世界杯级别的国际足球盛会感，拥有强烈的临场感与宏大感。
+
+像专业的体育摄影师或高质量现场报道摄影那样引导镜头。前景中的人物应清晰锐利，背景中的体育场应宏大开阔。构图应具有冲击力和动态感。强调层次分明、人群的压迫感、强烈的球场灯光以及助威的能量，展现出世界杯真实的张力与热度。
+
+整体视觉风格应为细节丰富、具有电影质感、光影自然、皮肤真实、对焦清晰且色彩鲜艳的写实照片。运用 {argument name="country" default="韩国"} 队的 {argument name="cheering uniform color" default="红色"}、球场灯光和节日色彩，营造出宏大且震撼的世界杯氛围。
+
+设置长宽比为 16:9，高清，高分辨率。如果出现文字，确保拼写准确且排版自然。避免卡通风格、面部扭曲、手部畸形或低分辨率元素。
+
+[English]
+업로드한 사진을 바탕으로 인물을 제작하되, 원래 얼굴 특징, 이목구비 구조, 헤어스타일, 피부 톤, 실제 인물로서의 식별감을 유지해서 여전히 같은 사람처럼 보이게 해줘. 가장 우선해야 하는 핵심은 인물이 실제 본인처럼 보이는 것과 2026 FIFA World Cup 현장 분위기를 정확하게 살리는 것이고, 그다음으로 화면의 시각적 완성도를 높여줘.
+
+2026 FIFA World Cup 경기장 현장에 직접 와 있는 듯한 몰입감 있는 사실적 사진을 생성해줘. 인물은 월드컵 경기장 관중석 또는 필드 인근 스탠드에 위치하고, {argument name="국가" default="한국"} 대표팀의 {argument name="응원 유니폼 색상" default="빨간"} 응원 유니폼 또는 {argument name="국가" default="한국"} 요소가 들어간 응원 의상을 착용하고 있어야 해. 얼굴에는 자연스럽고 정교한 {argument name="국기" default="태극기"} 페이스페인팅이 있고, 손에는 {argument name="국기" default="태극기"}를 들고 있으며, 표정은 흥분되고 몰입감 있고 감정 전달력이 강해서 실제로 월드컵 현장에서 {argument name="국가" default="한국"} 대표팀을 열정적으로 응원하는 듯한 분위기여야 해.
+
+전체 화면은 2026 FIFA World Cup 특유의 분위기를 강하게 담아야 해. 거대한 현대식 축구 경기장, 만원 관중석, 세계 각국에서 온 팬들, 눈부신 경기장 조명, 전광판, 응원 배너, 펄럭이는 깃발, 흩날리는 종이 조각과 리본, 그리고 멀리 선명하게 보이는 초록색 경기장과 실제 경기 분위기가 함께 보여야 해. 한눈에 봐도 월드컵급 국제 축구 축제라는 느낌이 들도록 현장감, 공간감, 스케일감이 강해야 하고, 보는 사람이 실제 현장에 들어와 있는 듯한 몰입감을 느낄 수 있어야 해.
+
+카메라는 실제 스포츠 포토그래퍼나 고품질 현장 취재 사진처럼 연출해줘. 전경의 인물은 선명하고 또렷하게 보이고, 중경과 원경의 경기장 분위기는 웅장하게 살아 있어야 해. 구도는 임팩트 있어야 하고, 화면 전체에는 환호와 움직임이 느껴지는 역동성이 있어야 해. 특히 전경과 배경의 뚜렷한 레이어감, 관중석에 둘러싸인 압박감, 경기장 조명의 강한 존재감, 응원 동작의 에너지를 강조해서 월드컵 현장의 실제적인 긴장감과 열기를 살려줘.
+
+전체 비주얼 스타일은 사실적인 사진, 높은 디테일, 영화 같은 분위기, 자연스러운 빛과 그림자, 자연스러운 피부 표현, 선명한 초점, 풍부한 레이어감, 생생하지만 과도하게 왜곡되지 않은 색감으로 해줘. 메인 컬러는 {argument name="국가" default="한국"} 대표팀의 {argument name="응원 유니폼 색상" default="빨간"}, 월드컵 경기장 조명, 축제 분위기의 컬러를 중심으로 해서 웅장하고 뜨겁고 영광스럽고 압도적인 월드컵 무드를 표현해줘.
+
+화면 비율은 16:9, 고화질, 고해상도로 설정하고, 포스터형 비주얼이나 소셜미디어 게시용으로도 잘 어울리게 만들어줘.
+
+만약 화면 안에 문자, 배너, 유니폼 인쇄 문구, 전광판 내용, 경기장 표기 등이 들어간다면, 철자가 정확하고 레이아웃이 자연스럽고 내용이 일관되게 보이도록 해줘. 깨진 글자, 오타, 변형된 글자, 반복 문자, 어색하게 이어진 텍스트는 피하고, 전체적으로 실제 경기장처럼 자연스러운 텍스트 표현을 유지해줘.
+
+다음 요소는 피해야 해:
+카툰풍, 일러스트풍, 얼굴 왜곡, 본인과 닮지 않음, 저해상도, 흐림, 손 기형, 손가락 추가, 불필요한 팔다리 추가, 싸구려 합성 느낌, 빈약한 배경, 적은 관중, 비현실적인 경기장, 월드컵 분위기 대신 일반 리그 경기 같은 분위기。
+```
+
+**来源：** [@AI 카페인 ☕️](https://x.com/AI_Caffeine/status/2065375358703341652) | 2026-06-12
+
+---
+
+### 🎨 例 1289：海盗偶像服装角色
+
+![海盗偶像服装角色](../../images/%E6%B5%B7%E7%9B%97%E5%81%B6%E5%83%8F%E6%9C%8D%E8%A3%85%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创作一张全身动漫风格的角色插画：一位曲线优美的年轻女性偶像，身着海盗风格的舞台服装，正面站立，姿态自信，一侧臀部微微倾斜，双臂自然垂在身体两侧。她留着长长的 {argument name="hair color" default="金色"} 秀发，垂过肩头；头戴一顶巨大的绿松石蓝色海盗三角帽，帽檐有白色饰边，正面中心处有一个白色的小型骷髅交叉骨标志。面部应保持空白/模糊或仅进行极简细节处理，服装为画面重心。服装由 7 个主要的可见元素组成：1) 带有骷髅标志的超大绿松石色海盗帽，2) 带有高领和前襟荷叶边的白色无袖衬衫，3) 颈部系有黑色丝带蝴蝶结及小型金色胸针，4) 带有黑色交叉系带的绿松石色束腰，5) 分层的短款绿松石色偶像短裙，裙摆有两层褶边，6) 蓝色短裙下可见的黑色荷叶边衬裙，以及 7) 裙子后方垂下的长款绿松石色开叉燕尾服后摆。添加 2 只黑色歌剧长手套，上臂处有小型系带丝带细节，以及 2 只深棕色大腿高系带高跟靴，靴子带有光泽高光和尖头鞋跟。采用清晰的赛璐珞动漫渲染风格、利落的线条艺术、明亮的绿松石色点缀、手套和靴子上的光泽皮革质感、柔和的皮肤高光，以及居中的角色设定图构图。画面中不包含背景道具、文字、水印，除描述的海盗偶像服装外无额外配饰。整体氛围：以青色、白色、黑色和深棕色为主色调的迷人现场表演海盗偶像服装设计。
+
+[English]
+Create a full-body anime-style character illustration on a plain white background: a curvy young female idol dressed in a pirate-inspired stage costume, standing front-facing in a confident fashion pose with one hip slightly tilted and arms relaxed at her sides. She has long flowing {argument name="hair color" default="blonde"} hair falling past her shoulders and wears a large turquoise-blue pirate tricorn hat with white trim and a small white skull-and-crossbones emblem centered near the front. Her face should be left blank/obscured or minimally detailed, while the outfit is the focus. The costume consists of exactly 7 main visible clothing elements: 1) oversized turquoise pirate hat with skull emblem, 2) white sleeveless ruffled blouse with high collar and front frills, 3) black ribbon bow tie with a small gold brooch at the neck, 4) turquoise corset waist cincher with black crisscross lacing, 5) layered short turquoise idol skirt with two flouncy tiers, 6) black ruffled underskirt visible beneath the blue skirt, and 7) long turquoise split back tailcoat panels hanging behind the skirt. Add exactly 2 black opera-length gloves with small lace-up ribbon details near the upper arms, and exactly 2 dark brown thigh-high lace-up heeled boots with glossy highlights and pointed heels. Use clean cel-shaded anime rendering, crisp line art, bright turquoise accents, glossy leather shading on gloves and boots, soft skin highlights, and a centered character-sheet composition with no background props, no text, no watermark, and no extra accessories beyond the described pirate idol outfit. Overall mood: glamorous live-performance pirate idol costume design in teal, white, black, and dark brown.
+```
+
+**来源：** [@Kei🍤衣装本舗](https://x.com/AI_Kei75/status/2065363774102712637) | 2026-06-12
+
+---
+
+### 🎨 例 1300：沉睡羊角少女水墨画
+
+![沉睡羊角少女水墨画](../../images/%E6%B2%89%E7%9D%A1%E7%BE%8A%E8%A7%92%E5%B0%91%E5%A5%B3%E6%B0%B4%E5%A2%A8%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖构图的黑白日式水墨动漫插画，背景为暖色调的米白色宣纸，画面中一位困倦的羊角少女正坐在薄榻榻米上。角色为 {argument name="character type" default="一位长着大卷羊角的年轻动漫羊角少女"}，居中面向前方，双眼紧闭，表情平静而困倦，脸颊微红，留着长长的 {argument name="hair color" default="白色"} 飘逸秀发，长着尖尖的精灵耳，头顶有一撮呆毛。她身穿荷叶边低胸衬衫，胸前系着蝴蝶结，搭配格子高腰裙，穿着深色过膝袜，黑色手套整齐地叠放在膝盖上，肩上披着厚重的黑色毛绒斗篷，斗篷向两侧铺开。喉咙处佩戴一个小巧的方形铃铛或吊坠。运用富有表现力的水墨笔触、柔和的灰色水彩晕染、黑色墨点纹理、极简阴影以及细腻的动漫线条；整体色调以黑、灰和纸张白为主，铃铛处点缀一抹柔和的棕褐色，并盖有一枚红色印章。包含 3 个文字元素：左侧为竖排日文书法，默认文字为 {argument name="left calligraphy" default="静寂"}；其正下方盖有一枚红色方形印章；右上角为竖排的睡眠拟声词，默认文字为 {argument name="sleep sound effect" default="Zzz..."}。背景简洁且富有氛围感，带有淡淡的灰色抽象笔触，暗示远处的薄雾或树木，无具体实景。构图宁静、幽默且可爱，突显出角色即使在正座时也能入睡的特点。
+
+[English]
+Create a vertical monochrome Japanese ink-wash anime illustration on textured off-white rice paper, showing {argument name="character name" default="a sleepy sheep-horned anime girl"} kneeling in formal seiza on a simple tatami mat. She is centered, front-facing, eyes closed, with a peaceful drowsy expression, faint blush, long flowing {argument name="hair color" default="white"} hair, pointed elf-like ears, and two large dark curled ram horns. She wears a frilled low-neck blouse, plaid corset-style waist skirt, dark thigh-high stockings, short black gloves, and a heavy black fur-trimmed cape draped over both shoulders; add a small square bell or pendant at her throat. Her hands rest neatly together in her lap, fingers forming a quiet relaxed pose, emphasizing calm sleepiness. Use expressive sumi-e brushwork: black and gray ink washes, loose sketch lines, soft bleeding edges, minimal shading with occasional warm beige accents on the pendant, no full color. Background is sparse with pale gray misty brush marks suggesting distant vertical shapes, lots of empty paper space, and a grounded ink shadow under the mat. Add exactly two text elements: vertical calligraphy on the left reading {argument name="calligraphy text" default="静寂"} with one small red square seal beneath it, and a tiny vertical sleep mark on the upper right reading {argument name="sleep text" default="Z z z…"}. Keep the composition serene, cute, and sleepy, like a modern manga character rendered as traditional ink painting; no watermark, no extra characters, no border.
+```
+
+**来源：** [@人定@人外娘専用アカウント](https://x.com/ninJoMonster115/status/2065343448191042041) | 2026-06-12
+
+---
+
+### 🎨 例 1303：富士山下的海岸骑行休憩
+
+![富士山下的海岸骑行休憩](../../images/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%B5%B7%E5%B2%B8%E9%AA%91%E8%A1%8C%E4%BC%91%E6%86%A9.jpg)
+
+**Prompt:**
+
+```text
+海边栈道上，一张身穿{argument name="服装" default="紧身运动衣"}的年轻日本女孩的照片，旁边放着一辆公路自行车，整体风格随意自然，人物占画面 80%，远处有{argument name="地标" default="富士山"}，{argument name="天气" default="阴天下午"}，图片比例 9:16
+```
+
+**来源：** [@水木易](https://x.com/ohmuyi/status/2065330580540268856) | 2026-06-12
+
+---
+
+### 🎨 例 1306：奢华杂志风角色排版
+
+![奢华杂志风角色排版](../../images/%E5%A5%A2%E5%8D%8E%E6%9D%82%E5%BF%97%E9%A3%8E%E8%A7%92%E8%89%B2%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个分为两部分的高端杂志风角色档案排版。
+左侧部分
+→ 大号粗体排版 "{argument name="character name" default="JACE ROMAN"}"，采用厚重的黑色大写字体
+→ 副标题："{argument name="subtitle" default="THE CAGE IS HIS CANVAS"}"
+→ 全身照片级真实图像，展示一个真实
+
+[English]
+Create a high-end editorial character profile spread layout split into two sections.
+LEFT SECTION
+→ Large bold typography "{argument name="character name" default="JACE ROMAN"}" in heavy black uppercase font
+→ Subtitle: "{argument name="subtitle" default="THE CAGE IS HIS CANVAS"}"
+→ Full body photorealistic image of a real
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2065325534964514819) | 2026-06-12
+
+---
+
+### 🎨 例 1325：春季时尚隐私拼贴画
+
+![春季时尚隐私拼贴画](../../images/%E6%98%A5%E5%AD%A3%E6%97%B6%E5%B0%9A%E9%9A%90%E7%A7%81%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的春季时尚照片拼贴画，主角为 {argument name="character name" default="一位年轻女性"}，背景为柔和的户外环境，每张照片中的面部均刻意用边缘柔和的纯棕色隐私矩形遮盖。
+
+画布：宽幅 16:9 横向拼贴画，分辨率约为 1024x576，分为 9 个矩形照片面板，呈整洁的 3x3 网格排列，面板间有细小的白色间隙。使用明亮的自然日光、清晰的单反相机写实风格、浅景深、蓝天、蓬松的白云、粉色花朵、绿草、漂浮的肥皂泡以及柔和的镜头光斑。
+
+主体细节：同一位年轻女性贯穿始终，身穿 {argument name="sweater color" default="粉色"} 粗棒针毛衣、米色百褶裙，佩戴精致的珍珠项链和珍珠手链。她留着中长波浪棕色卷发。她的面部不可见；在每个面板中，凡是出现面部的位置，均用一个大的垂直棕色模糊/遮挡矩形覆盖。
+
+布局：包含 9 个不同的照片面板：
+1. 左上：胸部以上的特写肖像，可见粉色毛衣，手靠近下巴，右侧有肥皂泡，背景为蓝天。
+2. 中上：低角度全身照，女性站在蓝天白云下，撑开米色百褶裙，头顶有粉色花瓣飘落。
+3. 右上：头发、毛衣肩部、珍珠项链和蓝天的紧凑特写，面部被一个大的棕色矩形遮盖。
+4. 左中：在盛开的花丛旁侧身姿势，女性比出剪刀手，周围漂浮着肥皂泡。
+5. 中中：极近距离肖像，头发和手靠近面部，背景为蓝天，面部被垂直棕色块完全遮挡。
+6. 右中：坐在草坡上，双膝弯曲，可见粉色毛衣和米色裙子，头发被风吹乱，背景为蓝天白云。
+7. 左下：俯视视角，女性躺在草地上，周围环绕着粉色花瓣和气泡，毛衣和头发散开，面部被遮盖。
+8. 中下：从下方拍摄的特写肖像，一只手放在头发上，可见珍珠手链，右侧有大肥皂泡，背景为蓝天。
+9. 右下：女性举起黑色相机对着脸，粉色毛衣突出，蓝天伴有柔和的阳光光晕。
+
+视觉风格：写实生活方式编辑摄影，欢快梦幻的春季氛围，柔和的调色板，高细节，自然的皮肤和头发质感，逼真的织物针织和褶皱，电影级阳光，无文字，无 Logo，无水印。保持白色网格边框整洁且一致。
+
+[English]
+Goal: Create a bright spring lifestyle photo collage featuring {argument name="character description" default="a young woman with shoulder-length wavy brown hair"} in a dreamy outdoor meadow setting, with her face intentionally obscured by a soft-edged rectangular skin-tone privacy block in every panel.
+
+Canvas: Wide horizontal collage, 16:9 aspect ratio, arranged as a clean 3 by 3 grid with thin white gutters between panels. Use natural daylight, vivid blue skies, fluffy white clouds, soft bokeh, and pastel spring colors.
+
+Visual style: Photorealistic editorial fashion photography with a whimsical, airy mood. Shallow depth of field in close-ups, crisp sunlight, gentle lens flare, floating soap bubbles, pink flower petals, and blooming cherry blossoms. Color palette: sky blue, grass green, pale pink, cream, and warm skin tones.
+
+Subject styling: The same woman appears throughout all 9 panels wearing {argument name="outfit" default="a fuzzy pastel pink sweater, a cream pleated skirt, a pearl necklace, and a pearl bracelet"}. Her hair is tousled by wind, and the overall feeling is playful, soft, feminine, and nostalgic.
+
+Layout: Include exactly 9 distinct panels:
+1. Top-left panel: close-up portrait from chest up against blue sky, woman in pink sweater holding a hand near her mouth, one translucent soap bubble floating beside her head.
+2. Top-center panel: low-angle full-body shot of the woman standing under a bright sky, holding out the cream pleated skirt as it flares, pink petals drifting overhead.
+3. Top-right panel: close-up portrait cropped tightly, windblown hair and pink sweater visible, blue sky background.
+4. Middle-left panel: side-profile medium shot near blooming pink-and-white blossoms, woman making a peace sign, soap bubble floating in the sky.
+5. Middle-center panel: very tight close-up of hair and shoulder with a hand near the face, blue sky background, strongest face-obscuring rectangle.
+6. Middle-right panel: seated full-body/three-quarter shot on a grassy hill, woman wearing pink sweater and cream skirt, knees drawn up, looking toward the open sky.
+7. Bottom-left panel: overhead shot of the woman lying on green grass scattered with pink petals and multiple soap bubbles, her head upside down in frame, pink sweater and hair spread around.
+8. Bottom-center panel: close portrait from below, woman raising one hand to her hair, a large soap bubble floating to the right against the blue sky.
+9. Bottom-right panel: portrait of the woman holding {argument name="camera type" default="a black vintage film camera"} up to her face as if taking a photo, with blue sky, soft clouds, and circular lens flare.
+
+Constraints: Keep all panels consistent as the same character and outfit. Use exactly 9 panels in a 3x3 grid. Add no text, logos, captions, or watermark. The face must be hidden in each panel by a simple rectangular skin-tone blur/block while preserving the fashion-photo composition.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065278553848271240) | 2026-06-12
+
+---
+
+### 🎨 例 1330：动漫少女草地阅读
+
+![动漫少女草地阅读](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E8%8D%89%E5%9C%B0%E9%98%85%E8%AF%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{ "动漫风格插画，一位留着浅棕色齐肩短发的少女坐在开满鲜花的原野上，戴着白色头戴式耳机正在看书。她身穿宽松的白色连衣裙，脚蹬白色运动鞋，坐在草地上，身旁放着一个粉色包。侧面构图，微风吹拂着发丝。郁郁葱葱的绿色草地开满白色野花，背景是大树，明亮的天空伴有柔和的云朵。温暖的漫射阳光，梦幻般的光晕，宁静的春日氛围，高度细致的草地与花朵，电影级景深，柔和的阴影，祥和的情绪基调。", "style": { "art_style": "动漫 / 半写实", "lighting": "温暖的漫射阳光", "mood": "梦幻，宁静" }, "composition": { "camera_angle": "侧面，平视", "framing": "中全景", "aspect_ratio": "1:1" } }
+
+[English]
+{ "Anime-style illustration of a young girl with shoulder-length light brown hair sitting in a flower-filled meadow, reading a book while wearing white over-ear headphones. Wearing a loose white dress and white sneakers, seated on grass with a pink bag beside her. Side profile composition, soft wind flowing through hair. Lush green field with white wildflowers, large trees in the background, bright sky with soft clouds. Warm diffused sunlight, dreamy glow, tranquil spring atmosphere, highly detailed grass and flowers, cinematic depth, soft shadows, peaceful emotional mood.", "style": { "art_style": "anime / semi-realistic", "lighting": "warm diffused sunlight", "mood": "dreamy, serene" }, "composition": { "camera_angle": "side profile, eye-level", "framing": "medium full shot", "aspect_ratio": "1:1" } }
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2065270653192905149) | 2026-06-12
+
+---
+
