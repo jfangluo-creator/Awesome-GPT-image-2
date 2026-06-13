@@ -139,11 +139,14 @@ const CaseCard = memo(function CaseCard({ c, imageBase, eager, onClick }: CardPr
 });
 
 // ─── Main Gallery ─────────────────────────────────────────
+const BATCH_SIZE = 200;
+
 export default function Gallery({ cases, categories, tagGroups, imageBase }: Props) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [activeTags, setActiveTags] = useState<string[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCase, setSelectedCase] = useState<CaseData | null>(null);
+  const [visibleCount, setVisibleCount] = useState(BATCH_SIZE);
 
   // Measure header height so toolbar sticks below it — use ref to avoid re-renders
   const toolbarRef = useRef<HTMLDivElement>(null);
@@ -222,14 +225,17 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
     setActiveTags((prev) =>
       prev.includes(slug) ? prev.filter((t) => t !== slug) : [...prev, slug]
     );
+    setVisibleCount(BATCH_SIZE);
   }, []);
 
   const handleClearTags = useCallback(() => {
     setActiveTags([]);
+    setVisibleCount(BATCH_SIZE);
   }, []);
 
   const handleSearch = useCallback((q: string) => {
     setSearchQuery(q);
+    setVisibleCount(BATCH_SIZE);
   }, []);
 
   const handleCaseClick = useCallback((c: CaseData) => {
@@ -255,7 +261,7 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
       {/* Toolbar: filter + search */}
       <div ref={toolbarRef} className="sticky z-30 py-4 space-y-3" style={{ top: 53, background: 'var(--color-bg)' }}>
         <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center justify-between">
-          <CategoryFilter categories={categories} active={activeCategory} onChange={setActiveCategory} />
+          <CategoryFilter categories={categories} active={activeCategory} onChange={(c) => { setActiveCategory(c); setVisibleCount(BATCH_SIZE); }} />
           <SearchBar onSearch={handleSearch} total={cases.length} filtered={filtered.length} />
         </div>
 
@@ -279,24 +285,36 @@ export default function Gallery({ cases, categories, tagGroups, imageBase }: Pro
 
       {/* Masonry Grid */}
       {filtered.length > 0 ? (
-        <div className="masonry mt-4">
-          {filtered.map((c, i) => {
-            // CSS columns: items fill column 1 first, then 2, 3, 4, 5 sequentially.
-            // Eager-load the first 3 items of each column so all columns render fast.
-            const colSize = Math.ceil(filtered.length / 5);
-            const posInCol = i % colSize;
-            const eager = posInCol < 3;
-            return (
-              <CaseCard
-                key={c.id}
-                c={c}
-                imageBase={imageBase}
-                eager={eager}
-                onClick={handleCaseClick}
-              />
-            );
-          })}
-        </div>
+        <>
+          <div className="masonry mt-4">
+            {filtered.slice(0, visibleCount).map((c, i) => {
+              // CSS columns: items fill column 1 first, then 2, 3, 4, 5 sequentially.
+              // Eager-load the first 3 items of each column so all columns render fast.
+              const colSize = Math.ceil(Math.min(visibleCount, filtered.length) / 5);
+              const posInCol = i % colSize;
+              const eager = posInCol < 3;
+              return (
+                <CaseCard
+                  key={c.id}
+                  c={c}
+                  imageBase={imageBase}
+                  eager={eager}
+                  onClick={handleCaseClick}
+                />
+              );
+            })}
+          </div>
+          {visibleCount < filtered.length && (
+            <div className="flex justify-center py-8">
+              <button
+                onClick={() => setVisibleCount((n) => n + BATCH_SIZE)}
+                className="btn-primary"
+              >
+                加载更多（{Math.min(visibleCount + BATCH_SIZE, filtered.length)} / {filtered.length}）
+              </button>
+            </div>
+          )}
+        </>
       ) : (
         <div className="flex flex-col items-center justify-center py-20 text-center">
           <div className="text-6xl mb-4">🔍</div>
