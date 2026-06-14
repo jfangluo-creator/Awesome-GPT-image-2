@@ -1882,3 +1882,163 @@ A stylized 3D cartoon figure of a {argument name="person" default="character"} f
 
 ---
 
+### 🧸 例 1348：三位面部模糊的 3D 跳舞女孩
+
+![三位面部模糊的 3D 跳舞女孩](../../images/%E4%B8%89%E4%BD%8D%E9%9D%A2%E9%83%A8%E6%A8%A1%E7%B3%8A%E7%9A%84%203D%20%E8%B7%B3%E8%88%9E%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个干净的工作室 3D 渲染图，画面中正好有三位可爱的风格化年轻女性卡通人物，她们并排站在哑光灰色地板上，背景为平滑的灰色渐变。三位角色均拥有白皙的皮肤、乌黑亮丽的头发、简单的玩具般比例、苗条的身材、修长的四肢，并穿着明亮的 {argument name="outfit color" default="orange"} 短款连体装和黑色踝靴。她们的面部必须刻意用柔和的方形像素模糊块遮挡，每个面部中心各一个，不可见任何面部特征。精确控制三位角色的数量和姿势：左侧角色留着黑色长直发并带有刘海，身穿无袖短裙，左臂高举，右手在肩部高度挥动，一条腿俏皮地向后弯曲；中间角色梳着黑色高丸子头并系有黄色发带，身穿短袖连体裤，双臂向上举起，单膝微屈，站在正中央；右侧角色留着黑色短波波头，身穿短袖连体短裤，右臂向外斜上方举起，左臂向下向外伸展，一条腿轻盈抬起，仿佛正在跳舞。采用精致的高品质玩具/CGI 外观，具有柔和的次表面皮肤质感、圆润的边缘、逼真的工作室灯光、地板上的柔和阴影，并使用全身高度的正面摄像机视角。保持背景简洁，无文字、无道具、无水印，且无额外角色。
+
+[English]
+Create a clean studio 3D render of exactly three cute stylized young female cartoon figures standing side by side on a matte gray floor with a smooth gray gradient backdrop. All three have fair skin, glossy black hair, simple toy-like proportions, slim bodies, long arms and legs, and wear bright {argument name="outfit color" default="orange"} short one-piece outfits with black ankle boots. Their faces must be intentionally hidden by soft square pixelated blur blocks, one centered over each face, with no visible facial features. Count and pose the three figures exactly: left figure has long straight black hair with bangs, a sleeveless short dress, left arm raised high, right hand waving near shoulder height, and one leg bent backward playfully; center figure has black hair in a small top bun tied with a yellow band, a short-sleeve romper, both arms raised upward, one knee slightly bent, standing in the middle; right figure has a short black bob haircut, a short-sleeve romper with shorts, right arm raised diagonally outward, left arm extended down and outward, one leg lifted lightly as if dancing. Use a polished high-quality toy/CGI look with soft subsurface skin, rounded edges, realistic studio lighting, gentle shadows on the floor, and a front-facing camera at full-body height. Keep the background minimal with no text, no props, no watermark, and no extra characters.
+```
+
+**来源：** [@甘味屋](https://x.com/halxyzon/status/2065933255996764179) | 2026-06-13
+
+---
+
+### 🧸 例 1354：东方奇幻 3D CG 女主角
+
+![东方奇幻 3D CG 女主角](../../images/%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%203D%20CG%20%E5%A5%B3%E4%B8%BB%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想女性角色海报，3D CG oriental fantasy heroine portrait，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及以上构图，画面主体是一位明确成年的年轻东方幻想系女性剑者，视觉年龄约 22–28 岁，整体气质冷艳、凌厉、空灵、尊贵、克制，带有{argument name="角色特质" default="月下女剑仙"}般的神秘感与强大气场。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级光影、华丽服装动态与高级虚拟角色海报质感，整体要求极其精致、飘逸、唯美。
+
+人物拥有精致的东方美型脸，小巧流畅的鹅蛋脸，骨相清秀立体，下颌线干净利落，皮肤冷白细腻，带轻微通透感与柔和皮肤着色。眼睛细长锐利，瞳色为冷灰紫与冰蓝调混合，瞳孔有通透玻璃感与细致高光，眼神冷静、锋利、带轻微压迫感与疏离感。睫毛纤长，眼妆清冷克制，鼻梁秀挺，嘴唇线条精致，唇色为低饱和冷玫瑰红，神情平静却极具威仪。
+
+发型为高束盘发结合超长黑色长发，主发色为浓黑带冷蓝高光，发丝极其丰盈顺滑，发尾在空中大幅飘扬，形成强烈动态。头顶部盘发稳固华丽，周围有细碎额发与鬓发飘散。头戴精致东方幻想金属发冠，融合鎏金、冷银、细碎宝石与枝叶状纹样，带高级古典工艺感。长发与数缕黑色烟雾状丝带在空中盘旋缠绕，形成强烈的飘逸与力量感。
+
+服装为高精度 3D CG 东方幻想战斗华服，主色为{argument name="服装配色" default="深紫、宝蓝、冰蓝、墨黑与冷白渐变"}，整体层次丰富。内层为贴身深色高领或交领长裙，布面带暗纹、金色刺绣、云纹与山海纹样。外层披覆半透明轻纱长袖与大面积飘逸披帛，披帛材质轻盈通透，边缘带冷光，随风大幅飞舞。肩部、胸前、袖口与领口带精致金属护饰、珠宝嵌饰与刺绣装饰，既有仙气又有战斗感。服装整体材质包含丝绸、轻纱、锦缎、金属与刺绣，具有真实细腻的 PBR 材质表现。由于构图调整为上半身及以上，重点突出人物面部、肩颈、胸前服装结构、发冠、长发动态与披帛层次。
+
+人物手持一把华丽东方长剑，剑身修长笔直，金属冷光锋利，剑柄与护手带古典雕花与鎏金纹样，整体精致高级。人物一手稳稳握剑，剑锋可从画面下方或侧前方斜向切入，保留部分剑身进入画面，增强压迫感与掌控力。另一只手可自然垂落于画面外或轻扶衣袍。人物身体微微侧转，肩颈舒展，姿态挺拔优雅，构图集中表现头部、胸肩、手臂局部、剑柄与披帛动态，营造近景压迫感与高级角色海报气质。
+
+场景为{argument name="背景场景" default="月下东方幻想空间"}，背景中央是一轮巨大的冷白满月，作为人物背后的核心视觉。周围环绕黑色烟雾状能量、墨色枝影与半透明雾气，宛如水墨与灵气融合的空间。空中飘散少量红色丝带与粉红花瓣，形成冷暖对比与诗意张力。背景整体极简而高级，不要杂乱场景，重点烘托人物主体、上半身构图、长发动态与服装飘逸感。
+
+光线采用电影级冷白主光结合柔和月光逆光，面部清晰通透，发丝、肩部、剑身、披帛边缘均有细腻轮廓光。金属发冠、刺绣、珠宝、丝绸、轻纱与剑身都具有真实清晰的材质反馈。整体色调以冷白、灰蓝、深紫、宝蓝、墨黑为主，配少量鲜红丝带与粉色花瓣点缀，画面华丽、干净、通透、空灵、肃杀、精致，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, flowing silk ribbons, translucent chiffon, ornate embroidery, metallic crown details, elegant Chinese fantasy sword, moonlit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2065834715513602148) | 2026-06-13
+
+---
+
+### 🧸 例 1361：针织城市天际线围巾微距摄影
+
+![针织城市天际线围巾微距摄影](../../images/%E9%92%88%E7%BB%87%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E5%9B%B4%E5%B7%BE%E5%BE%AE%E8%B7%9D%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，为 2026 年世界杯的 4 匹黑马执行此操作：16:9，锚点：[{argument name="city" default="该国著名城市天际线"}] :: [针织球迷围巾] 形态：厚实针织足球球迷围巾的极微距拍摄。然而，纱线的线头、针脚和物理绒毛交织在一起，物理性地构成了宿主城市天际线和街道的高细节 3D 地形图。材质物理：{argument name="material" default="厚羊毛和腈纶纱线"}，可见的独立纤维，轻微起球，针织针脚的物理深度营造出建筑物的“阴影”。照明：{argument name="lighting" default="柔和的侧向扫光"}，以强调针织物的物理深度和质感。温暖、怀旧的居家照明。渲染堆栈：微距摄影，移轴，8k，极致纺织细节，物理立体模型。负面提示词：[数字打印，平坦，光滑，2D，发光，塑料，干净] :: -1
+
+[English]
+2x2 grid, do this for 4 dark horses for world cup 2026: 16:9, Anchor: [{argument name="city" default="Country's famous city Skyline"}] :: [Knitted Supporter Scarf]  Morphology: Extreme macro shot of a thick, knitted soccer supporter's scarf. However, the threads, stitches, and physical fuzz of the yarn are woven together to physically form a highly detailed, 3D topographical map of the host city's skyline and streets. Material Physics: {argument name="material" default="Thick wool and acrylic yarn"}, visible individual fibers, slight pilling, physical depth of the knit stitches creating the "shadows" of the buildings. Illumination: {argument name="lighting" default="Soft, raking side-lighting"} to emphasize the physical depth and texture of the knit. Warm, nostalgic domestic lighting. Render Stack: Macro photography, tilt-shift, 8k, extreme textile detail, physical diorama. Negative: [Digital print, flat, smooth, 2D, glowing, plastic, clean] :: -1
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2065817217984254102) | 2026-06-13
+
+---
+
+### 🧸 例 1364：风格化 3D 时尚肖像
+
+![风格化 3D 时尚肖像](../../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%203D%20%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一种原创风格化 3D 肖像插画风格，融合了 {argument name="style" default="收藏级设计师手办"} 的美学与时尚角色设计。几何化、刻意简化且略显夸张的面部特征：硕大的整体式鼻子、宽阔平坦的面部平面、狭长的矩形眼睛、图形化的眉毛、轮廓分明的嘴唇，以及拉长的头部与颈部比例。平滑的雕塑感，极简的细节处理，装饰性的抽象风格，结合了天真玩偶般的表现力与精致的编辑级呈现。哑光触感表面带有细腻纹理，柔和的摄影棚灯光，精致的阴影，精准的高光，纯净的色彩风格化，当代高端 3D 漫画美学，精致的风格化肖像雕塑，优雅的玩具质感写实，精炼的几何面部设计。
+
+[English]
+The style of an original stylized 3D portrait illustration with the aesthetic of a {argument name="style" default="collectible designer figurine"} and fashion character design. Geometrized, intentionally simplified, and slightly exaggerated facial features: a large monolithic nose, broad flat facial planes, narrow rectangular eyes, graphic eyebrows, clearly defined lips, and elongated head and neck proportions. Smooth sculptural plasticity, minimalistic detailing, decorative abstraction, a combination of naive doll-like expressiveness with refined editorial presentation. A matte tactile surface with subtle grain, soft studio lighting, delicate shadows, precise highlights, clean color stylization, a contemporary high-end 3D caricature aesthetic, polished stylized p tortrait sculpture, elegant toylike realism, refined geometric facial design.
+```
+
+**来源：** [@Clara | AI](https://x.com/NaziaCh1578904/status/2065809560124985689) | 2026-06-13
+
+---
+
+### 🧸 例 1382：从概念到定格动画木偶
+
+![从概念到定格动画木偶](../../images/%E4%BB%8E%E6%A6%82%E5%BF%B5%E5%88%B0%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB%E6%9C%A8%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此 2D 角色概念转化为真实的定格动画木偶摄影作品，如同在实体微缩电影布景中拍摄一般。该 {argument name="character type" default="yakuza"} 角色必须成为一个真实的手工雕刻木偶：未经打磨的原始木材，凿刻的切面捕捉着光线，呈现真实的木纹；肩部、肘部和膝盖处露出机械球窝关节，配有黄铜螺丝、金属垫圈和孔眼，黄色绳索像肌腱一样穿过躯干。他的 {argument name="body art" default="irezumi chest tattoos"} 是直接蚀刻在木材表面的烙画雕刻，呈现出微焦的深棕色。长马尾由磨损的黑色纤维绳制成。黑色西裤采用真实的破旧哑光面料，撕裂且磨损，自然地垂在木腿上。他正在点燃一支香烟，有微小的实用余烬光芒和真实的细烟。摄影：微距镜头，浅景深，木偶站在磨损的木制舞台板上，背景为绝对的黑色虚空。灯光：侧面单束硬质暖色钨丝主光，极具戏剧性的明暗对比，深邃的阴影，琥珀色的轮廓光勾勒出剪影，展现出每一处凿痕和木纹细节。图像必须看起来像是一部手工定格动画武士电影的画面：真实、可触、不完美、具象。拒绝 3D 渲染感，拒绝平滑的 CGI 表面，拒绝数字绘画感——呈现真实的材质、真实的光影和真实的微缩布景摄影。
+
+[English]
+transform this 2D character concept into a real photographed stop-motion puppet, as if shot on a physical miniature film set. The {argument name="character type" default="yakuza"} character must become an actual hand-carved wooden puppet: raw unsanded wood with visible chisel facet cuts catching the light, real wood grain, exposed mechanical ball-and-socket joints at shoulders, elbows and knees, brass screws, metal washers and eyelets, yellow string ligatures threaded through the torso like tendons. His {argument name="body art" default="irezumi chest tattoos"} are woodburned pyrography engravings etched directly into the wooden surface, slightly charred dark brown. Long ponytail made of frayed black fiber rope. Black suit trousers in real ragged matte fabric, torn and frayed, draped naturally over the wooden legs. He lights a cigarette, tiny practical ember glow, thin real smoke. Photography: macro lens, shallow depth of field, the puppet stands on worn wooden stage planks against an absolute black void background. Lighting: single hard warm tungsten key light from the side, extreme theatrical chiaroscuro, deep shadows, amber rim light carving the silhouette and revealing every chisel mark and wood grain detail. The image must look like a frame from a handcrafted stop-motion samurai film: tangible, tactile, imperfect, physical. No 3D render look, no smooth CGI surfaces, no digital painting feel — real materials, real light, real miniature set photography
+```
+
+**来源：** [@INK](https://x.com/0xInk_/status/2065751044156493969) | 2026-06-13
+
+---
+
+### 🧸 例 1395：城市街头潮流时尚海报
+
+![城市街头潮流时尚海报](../../images/%E5%9F%8E%E5%B8%82%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张时尚的 {argument name="character" default="留着中长波浪发型和胡须的年轻男子"}，身穿 {argument name="outfit" default="黑色太阳镜、红色连帽衫、黑色慢跑裤和红白配色高帮运动鞋"}，随意地坐在一个巨大的 3D 字体雕塑上，雕塑拼写出 "{argument name="slogan" default="chill out"}"。现代城市街头时尚海报，自信放松的姿态，深黑色摄影棚背景，电影级光影，高对比度，高端商业广告设计，橙色几何点缀，极简图形元素，简洁的排版布局，奢华生活方式品牌感，戏剧性阴影，超写实摄影，景深效果，焦点清晰，杂志封面风格，照片级真实感，8K 分辨率，专业调色，潮流社交媒体贴文设计。
+
+[English]
+A stylish {argument name="character" default="young man with medium-length wavy hair and a beard"}, wearing {argument name="outfit" default="black sunglasses, a red hoodie, black joggers, and red-white high-top sneakers"}, sitting casually on a large 3D typography sculpture that spells "{argument name="slogan" default="chill out"}". Modern urban streetwear fashion poster, confident relaxed pose, dark black studio background, cinematic lighting, high contrast, premium commercial advertising design, orange geometric accents, minimalist graphic elements, clean typography layout, luxury lifestyle branding, dramatic shadows, ultra-realistic photography, depth of field, sharp focus, editorial magazine cover style, photorealistic, 8K, professional color grading, trendy social media post design.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2065713471384351091) | 2026-06-13
+
+---
+
+### 🧸 例 1432：GPT-Image2 电商课程横幅
+
+![GPT-Image2 电商课程横幅](../../images/GPT-Image2%20%E7%94%B5%E5%95%86%E8%AF%BE%E7%A8%8B%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 AI 电商视觉设计课程创作一张明亮的横向宣传海报，采用欢快的 3D 卡通商业插画风格。
+
+画布：970×563 横向横幅，全出血设计，高饱和度，中心呈现温暖的橙黄色光晕，干净的矢量风格 3D 渲染，边缘清晰，非写实照片风格。
+
+布局：在背景正中心放置一个巨大的圆形橙色靶心/放射状光芒徽章，向外辐射圆环和光线。在中间叠加主课程标题，分为两行：第一行显示 {argument name="English title text" default="GPT-Image2"}，第二行显示 {argument name="Chinese headline text" default="电商视觉大片实战课"}。使用超大号加粗圆体展示字体，白色填充，配以红橙色阴影和厚实的橙色描边，并带有微妙的黄色高光，使文字在画面中占据主导地位。
+
+场景：构建一条风格化的电商购物街或商场走廊，向中心的光晕处延伸。左侧展示带有产品瓶和多个购物袋的店面货架。右侧展示数据分析面板和零售展示柜。右下角前景处放置一个购物车，里面装满橙色产品盒和金币。使用瓷砖铺就的人行道引导视线，增加深度。
+
+需包含的明确视觉元素：恰好 1 个中央橙色圆形放射状徽章；恰好 2 行主标题文字；恰好 1 个位于右下角的购物车；恰好 3 个位于右侧的数据/报告面板，包括右上角的一个大型饼图面板、右侧中部的一个大型折线柱状图面板，以及右下角附近的一张橙色图表卡片；总共恰好 7 个显眼的购物袋，包括左侧货架/柜台上的 4 个、左上中心附近的 1 个橙色飞行购物袋、左侧中部的 1 个小型橙色飞行购物袋，以及右下柜台上的 1 个橙色购物袋/卡片；左上货架上恰好 2 个可见的产品瓶；地面/柜台上恰好 2 个礼盒，包括底部左中位置的 1 个橙色礼盒和右侧展示柜上的 1 个小型蓝橙色礼盒；左下中心附近恰好 1 盆绿色盆栽；标题上方恰好 3 个悬浮的应用图标，包括一个蓝色上传/云图标、一个橙色对勾图标和一个红色钱包/卡片图标；场景中散落恰好 5 枚金币。
+
+视觉风格：采用精致的中文电商广告美学，俏皮的等距视角，柔和的阴影，光泽感高光，橙-红-黄品牌配色方案，辅以天蓝色点缀，背景为蓝色城市建筑，点缀蓬松的白云、五彩纸屑条、金币和运动弧线。营造出乐观、高效且充满课程发布氛围的视觉效果。
+
+限制：文字必须清晰易读且居中。保持构图平衡，购物元素应环绕标题而非遮挡。不要添加人物、人脸、水印、二维码或任何额外的小型不可读文字。
+
+[English]
+Goal: Create a bright horizontal promotional poster for an AI e-commerce visual design course, in a cheerful 3D cartoon commercial illustration style.
+
+Canvas: 970×563 landscape banner, full-bleed, high saturation, warm orange-yellow center glow, clean vector-like 3D rendering, crisp edges, no photo realism.
+
+Layout: Put a huge circular orange target/sunburst badge in the exact center background, radiating rings and light rays. Overlay the main course title in the middle with two stacked lines: top line reads {argument name="English title text" default="GPT-Image2"}, bottom line reads {argument name="Chinese headline text" default="电商视觉大片实战课"}. Use very large bold rounded display lettering, white fill with red-orange shadow, thick orange outline, and a subtle yellow highlight glow so the text dominates the composition.
+
+Scene: Build a stylized e-commerce shopping street or mall corridor receding toward the glowing center. On the left, show a storefront shelf with product bottles and multiple shopping bags. On the right, show analytics dashboards and retail display counters. Include a shopping cart in the lower right foreground filled with orange product boxes and gold coins. Use a tiled walkway leading into the center for depth.
+
+Discrete visible elements to include: exactly 1 central orange circular sunburst badge; exactly 2 main text lines; exactly 1 shopping cart in the lower right; exactly 3 dashboard/report panels on the right side, including one large pie-chart panel at the top right, one large line-and-bar chart panel at mid right, and one orange chart card near the lower right; exactly 7 prominent shopping bags total, including 4 on the left shelves/counters, 1 orange flying bag near upper left-center, 1 small orange flying bag mid-left, and 1 orange bag/card on the lower right counter; exactly 2 visible product bottles on the upper-left shelf; exactly 2 gift boxes on the floor/counters, one orange gift box at the bottom center-left and one small blue-orange gift box on a right display; exactly 1 potted green plant near the lower left-center; exactly 3 floating app icons above the headline, including a blue upload/cloud icon, an orange checkmark icon, and a red wallet/card icon; exactly 5 gold coins scattered through the scene.
+
+Visual style: Use a polished Chinese e-commerce advertising aesthetic, playful isometric perspective, soft shadows, glossy highlights, orange-red-yellow brand palette with sky-blue accents, blue city buildings in the background, fluffy white clouds, confetti streaks, coins, and motion arcs. Make the atmosphere optimistic, efficient, and course-launch oriented.
+
+Constraints: Text must be perfectly legible and centered. Keep the composition balanced, with the shopping objects framing the headline rather than blocking it. Do not add people, faces, watermarks, QR codes, or extra small unreadable text.
+```
+
+**来源：** [@h](https://x.com/hnbggnb/status/2065600435164225839) | 2026-06-13
+
+---
+

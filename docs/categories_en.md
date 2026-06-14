@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (90)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (93)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -173,11 +173,17 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 1323: 赛博朋克 AI 编程室](cat-ui.md#️-例-1323赛博朋克-ai-编程室)
 
 - [Case 1340: 塞尔达风格游戏 UI 截图](cat-ui.md#️-例-1340塞尔达风格游戏-ui-截图)
+
+- [Case 1390: “天堂最后一人”奇幻艺术作品](cat-ui.md#️-例-1390天堂最后一人奇幻艺术作品)
+
+- [Case 1413: 奢华时尚三联画肖像](cat-ui.md#️-例-1413奢华时尚三联画肖像)
+
+- [Case 1415: 运动休闲风 Lookbook 拼贴画](cat-ui.md#️-例-1415运动休闲风-lookbook-拼贴画)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (40)
+## 📊 [Charts & Infographics](cat-chart.md) (41)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -245,11 +251,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 1222: Codex 培训海报工作流程信息图](cat-chart.md#-例-1222codex-培训海报工作流程信息图)
 
 - [Case 1253: Master Potter 陶瓷信息图网格](cat-chart.md#-例-1253master-potter-陶瓷信息图网格)
+
+- [Case 1435: 用于药物研究的科学信息图](cat-chart.md#-例-1435用于药物研究的科学信息图)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (198)
+## 🎴 [Posters & Cards](cat-poster.md) (219)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -605,11 +613,53 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 1337: 高端中式美食海报](cat-poster.md#-例-1337高端中式美食海报)
 
 - [Case 1343: 超写实旅行美食明信片](cat-poster.md#-例-1343超写实旅行美食明信片)
+
+- [Case 1349: 复古冰淇淋店海报女郎](cat-poster.md#-例-1349复古冰淇淋店海报女郎)
+
+- [Case 1351: 阿拉伯语励志日落海报](cat-poster.md#-例-1351阿拉伯语励志日落海报)
+
+- [Case 1356: 现代时尚编辑拼贴画](cat-poster.md#-例-1356现代时尚编辑拼贴画)
+
+- [Case 1359: 高级演示文稿项目](cat-poster.md#-例-1359高级演示文稿项目)
+
+- [Case 1362: 高端健身品牌海报](cat-poster.md#-例-1362高端健身品牌海报)
+
+- [Case 1365: 建筑风格 3D 雕刻生日海报](cat-poster.md#-例-1365建筑风格-3d-雕刻生日海报)
+
+- [Case 1369: 贝多芬大提琴奏鸣曲宇宙主题海报](cat-poster.md#-例-1369贝多芬大提琴奏鸣曲宇宙主题海报)
+
+- [Case 1373: 3D 奢华生日海报](cat-poster.md#-例-13733d-奢华生日海报)
+
+- [Case 1381: 奢华美妆品牌编辑广告](cat-poster.md#-例-1381奢华美妆品牌编辑广告)
+
+- [Case 1384: 3D 雕刻奢华生日海报](cat-poster.md#-例-13843d-雕刻奢华生日海报)
+
+- [Case 1386: 坚毅电影感英雄海报](cat-poster.md#-例-1386坚毅电影感英雄海报)
+
+- [Case 1387: 奢华意式浓缩咖啡机广告](cat-poster.md#-例-1387奢华意式浓缩咖啡机广告)
+
+- [Case 1388: 印度尼西亚涂鸦风格足球海报](cat-poster.md#-例-1388印度尼西亚涂鸦风格足球海报)
+
+- [Case 1391: 极简中国水墨雾气画](cat-poster.md#-例-1391极简中国水墨雾气画)
+
+- [Case 1393: 奢华 25 岁生日海报](cat-poster.md#-例-1393奢华-25-岁生日海报)
+
+- [Case 1401: 历史编辑风格战役海报](cat-poster.md#-例-1401历史编辑风格战役海报)
+
+- [Case 1404: 夏日海边浪漫海报](cat-poster.md#-例-1404夏日海边浪漫海报)
+
+- [Case 1406: 3D 深度奢华生日海报](cat-poster.md#-例-14063d-深度奢华生日海报)
+
+- [Case 1408: 超奢华黑白时尚大片](cat-poster.md#-例-1408超奢华黑白时尚大片)
+
+- [Case 1418: Editorial Studio 生日海报](cat-poster.md#-例-1418editorial-studio-生日海报)
+
+- [Case 1421: 奢华 3D 雕刻风格足球海报](cat-poster.md#-例-1421奢华-3d-雕刻风格足球海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (468)
+## 📷 [Photography & Realistic](cat-photo.md) (509)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -1469,11 +1519,93 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 1345: 朦胧韩系时尚肖像](cat-photo.md#-例-1345朦胧韩系时尚肖像)
 
 - [Case 1346: 赛博朋克 AI 创业者肖像](cat-photo.md#-例-1346赛博朋克-ai-创业者肖像)
+
+- [Case 1347: 蓝发节日肖像](cat-photo.md#-例-1347蓝发节日肖像)
+
+- [Case 1350: 上海工业园区内的抓拍肖像](cat-photo.md#-例-1350上海工业园区内的抓拍肖像)
+
+- [Case 1352: 动漫风格商务人士肖像（面部遮挡）](cat-photo.md#-例-1352动漫风格商务人士肖像面部遮挡)
+
+- [Case 1355: 奢华儿童生日摄影主题](cat-photo.md#-例-1355奢华儿童生日摄影主题)
+
+- [Case 1358: 日系海边摄影集封面](cat-photo.md#-例-1358日系海边摄影集封面)
+
+- [Case 1363: 上海工业风锈迹墙摄影](cat-photo.md#-例-1363上海工业风锈迹墙摄影)
+
+- [Case 1366: 奢华杂志封面人物肖像](cat-photo.md#-例-1366奢华杂志封面人物肖像)
+
+- [Case 1367: 梦幻湖畔三重人像](cat-photo.md#-例-1367梦幻湖畔三重人像)
+
+- [Case 1368: 城市爆炸中的战术特工](cat-photo.md#-例-1368城市爆炸中的战术特工)
+
+- [Case 1370: 碎花长裙梳妆台人像](cat-photo.md#-例-1370碎花长裙梳妆台人像)
+
+- [Case 1372: 草莓流心麻薯爆裂摄影](cat-photo.md#-例-1372草莓流心麻薯爆裂摄影)
+
+- [Case 1375: 时间收集者奇幻场景](cat-photo.md#-例-1375时间收集者奇幻场景)
+
+- [Case 1376: 手绘铅笔素描肖像](cat-photo.md#-例-1376手绘铅笔素描肖像)
+
+- [Case 1377: 超现实绵羊睡前故事](cat-photo.md#-例-1377超现实绵羊睡前故事)
+
+- [Case 1378: 复古敞篷车街头时尚](cat-photo.md#-例-1378复古敞篷车街头时尚)
+
+- [Case 1383: 黑白时尚模特试镜联络表](cat-photo.md#-例-1383黑白时尚模特试镜联络表)
+
+- [Case 1389: 混合媒介街头艺术肖像](cat-photo.md#-例-1389混合媒介街头艺术肖像)
+
+- [Case 1392: 足球撞脸瞬间特效转换](cat-photo.md#-例-1392足球撞脸瞬间特效转换)
+
+- [Case 1398: 年轻男性矢量肖像](cat-photo.md#-例-1398年轻男性矢量肖像)
+
+- [Case 1399: 叛逆高中生肖像](cat-photo.md#-例-1399叛逆高中生肖像)
+
+- [Case 1400: 复古胶片风少女肖像转换](cat-photo.md#-例-1400复古胶片风少女肖像转换)
+
+- [Case 1403: Z 世代闪光灯自拍拼贴画](cat-photo.md#-例-1403z-世代闪光灯自拍拼贴画)
+
+- [Case 1405: 世界杯庆祝肖像](cat-photo.md#-例-1405世界杯庆祝肖像)
+
+- [Case 1407: 逼真的纱丽人像生成](cat-photo.md#-例-1407逼真的纱丽人像生成)
+
+- [Case 1409: 基于身份的玫瑰园肖像](cat-photo.md#-例-1409基于身份的玫瑰园肖像)
+
+- [Case 1410: 高级男性时尚杂志肖像](cat-photo.md#-例-1410高级男性时尚杂志肖像)
+
+- [Case 1412: 电影感樱花人像](cat-photo.md#-例-1412电影感樱花人像)
+
+- [Case 1414: 足球撞击面部动态抓拍](cat-photo.md#-例-1414足球撞击面部动态抓拍)
+
+- [Case 1417: 深夜走廊自动贩卖机人像](cat-photo.md#-例-1417深夜走廊自动贩卖机人像)
+
+- [Case 1419: 俯拍红发女子肖像](cat-photo.md#-例-1419俯拍红发女子肖像)
+
+- [Case 1420: 精英男士时尚肖像](cat-photo.md#-例-1420精英男士时尚肖像)
+
+- [Case 1422: 具有戏剧性轮廓光的电影感人像](cat-photo.md#-例-1422具有戏剧性轮廓光的电影感人像)
+
+- [Case 1423: 电影级天才肖像](cat-photo.md#-例-1423电影级天才肖像)
+
+- [Case 1424: 电影感霓虹影棚人像](cat-photo.md#-例-1424电影感霓虹影棚人像)
+
+- [Case 1425: 泳池边白色巴基斯坦时尚人像](cat-photo.md#-例-1425泳池边白色巴基斯坦时尚人像)
+
+- [Case 1426: 优雅的腮红系头巾肖像](cat-photo.md#-例-1426优雅的腮红系头巾肖像)
+
+- [Case 1427: 复古花卉巴基斯坦长裙肖像](cat-photo.md#-例-1427复古花卉巴基斯坦长裙肖像)
+
+- [Case 1428: 复古花卉巴基斯坦服饰肖像](cat-photo.md#-例-1428复古花卉巴基斯坦服饰肖像)
+
+- [Case 1430: 高对比度阴影带肖像](cat-photo.md#-例-1430高对比度阴影带肖像)
+
+- [Case 1433: 动漫风格夏季肖像（含遮挡）](cat-photo.md#-例-1433动漫风格夏季肖像含遮挡)
+
+- [Case 1434: 日西合璧时尚模特](cat-photo.md#-例-1434日西合璧时尚模特)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (134)
+## 🎨 [Illustration & Art](cat-illustration.md) (139)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -1723,11 +1855,21 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 1325: 春季时尚隐私拼贴画](cat-illustration.md#-例-1325春季时尚隐私拼贴画)
 
 - [Case 1330: 动漫少女草地阅读](cat-illustration.md#-例-1330动漫少女草地阅读)
+
+- [Case 1353: 暗黑奇幻动漫少女与神社](cat-illustration.md#-例-1353暗黑奇幻动漫少女与神社)
+
+- [Case 1385: 奢华足球迷时尚大片](cat-illustration.md#-例-1385奢华足球迷时尚大片)
+
+- [Case 1397: Sam Altman 在空无一人的公园玩滑板](cat-illustration.md#-例-1397sam-altman-在空无一人的公园玩滑板)
+
+- [Case 1411: 写实风格足球运动员庆祝插画](cat-illustration.md#-例-1411写实风格足球运动员庆祝插画)
+
+- [Case 1431: 使用 Codex 为 Illo 供电的复古机器人](cat-illustration.md#-例-1431使用-codex-为-illo-供电的复古机器人)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (66)
+## 🧍 [Character Design](cat-character.md) (68)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -1841,11 +1983,15 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 1246: 角色一致性项目](cat-character.md#-例-1246角色一致性项目)
 
 - [Case 1251: 黑色电影侦探杰作](cat-character.md#-例-1251黑色电影侦探杰作)
+
+- [Case 1402: 皮克斯风格 CGI 角色冲刺](cat-character.md#-例-1402皮克斯风格-cgi-角色冲刺)
+
+- [Case 1429: 沙漠时尚大片人像](cat-character.md#-例-1429沙漠时尚大片人像)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (71)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (78)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -1975,11 +2121,25 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 1297: Nina 3D 字体人像](cat-3d.md#-例-1297nina-3d-字体人像)
 
 - [Case 1313: 皮克斯风格 3D 卡通角色](cat-3d.md#-例-1313皮克斯风格-3d-卡通角色)
+
+- [Case 1348: 三位面部模糊的 3D 跳舞女孩](cat-3d.md#-例-1348三位面部模糊的-3d-跳舞女孩)
+
+- [Case 1354: 东方奇幻 3D CG 女主角](cat-3d.md#-例-1354东方奇幻-3d-cg-女主角)
+
+- [Case 1361: 针织城市天际线围巾微距摄影](cat-3d.md#-例-1361针织城市天际线围巾微距摄影)
+
+- [Case 1364: 风格化 3D 时尚肖像](cat-3d.md#-例-1364风格化-3d-时尚肖像)
+
+- [Case 1382: 从概念到定格动画木偶](cat-3d.md#-例-1382从概念到定格动画木偶)
+
+- [Case 1395: 城市街头潮流时尚海报](cat-3d.md#-例-1395城市街头潮流时尚海报)
+
+- [Case 1432: GPT-Image2 电商课程横幅](cat-3d.md#-例-1432gpt-image2-电商课程横幅)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (33)
+## 🏛️ [Architecture & Space](cat-architecture.md) (35)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -2037,11 +2197,15 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 1257: 卡帕多奇亚的暮色雁影](cat-architecture.md#️-例-1257卡帕多奇亚的暮色雁影)
 
 - [Case 1312: 奢华浴室镜面反射](cat-architecture.md#️-例-1312奢华浴室镜面反射)
+
+- [Case 1357: 暗黑机能风三联画时尚大片](cat-architecture.md#️-例-1357暗黑机能风三联画时尚大片)
+
+- [Case 1371: 电影级微型星球奇幻世界](cat-architecture.md#️-例-1371电影级微型星球奇幻世界)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (60)
+## 🎬 [Comics & Storyboards](cat-comic.md) (62)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -2145,11 +2309,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 1295: 基于参考角色的漫画阅读器页面](cat-comic.md#-例-1295基于参考角色的漫画阅读器页面)
 
 - [Case 1327: 矢量艺术风格运动肖像](cat-comic.md#-例-1327矢量艺术风格运动肖像)
+
+- [Case 1360: 世界杯漫画风足球海报](cat-comic.md#-例-1360世界杯漫画风足球海报)
+
+- [Case 1380: 生活方式照片墙拼贴](cat-comic.md#-例-1380生活方式照片墙拼贴)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (125)
+## 🏷️ [Brand & Packaging](cat-brand.md) (130)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -2391,6 +2559,16 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 1307: 超宽动漫战斗项目](cat-brand.md#️-例-1307超宽动漫战斗项目)
 
 - [Case 1309: 地铁上的纪实手机摄影](cat-brand.md#️-例-1309地铁上的纪实手机摄影)
+
+- [Case 1374: 空间站入口处的女性仿生人](cat-brand.md#️-例-1374空间站入口处的女性仿生人)
+
+- [Case 1379: 超写实飞行员肖像](cat-brand.md#️-例-1379超写实飞行员肖像)
+
+- [Case 1394: 洪水城市中的巨大哥特长靴](cat-brand.md#️-例-1394洪水城市中的巨大哥特长靴)
+
+- [Case 1396: Fast-Food Couture Campaign](cat-brand.md#️-例-1396fast-food-couture-campaign)
+
+- [Case 1416: 暗黑奇幻大教堂握手艺术](cat-brand.md#️-例-1416暗黑奇幻大教堂握手艺术)
 ---
 
 <a id="edit"></a>

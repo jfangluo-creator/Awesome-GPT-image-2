@@ -3377,3 +3377,117 @@ Constraints: Keep all panels consistent as the same character and outfit. Use ex
 
 ---
 
+### 🎨 例 1353：暗黑奇幻动漫少女与神社
+
+![暗黑奇幻动漫少女与神社](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E4%B8%8E%E7%A5%9E%E7%A4%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作：基于所附图像的超精细 {argument name="character type" default="暗黑奇幻动漫少女"}，站在 {argument name="setting" default="神秘神社场景"} 中一扇半开的古老日本木门后。古老的木墙上覆盖着数百张日本御札、神秘印记、陈旧的卷轴、汉字书写和灵性符号。强烈的紫色闪电横扫场景，散发出超自然的电能。发光的粒子在空中漂浮，营造出魔法与神秘的氛围。背景中出现了一个发光的维度传送门，倒映在潮湿的地面上。体积感电影光效，戏剧性的阴影，日本超自然恐怖美学，超写实动漫风格，极其精细的面部，服装和配饰的复杂纹理，以及照片级渲染。以紫罗兰色、紫色和深蓝色为主的单色调，电影级景深，全局光照，光线追踪，Unreal Engine 5，类似于电影海报的垂直构图，黑暗且充满灵性的氛围，史诗般的东方奇幻，获奖数字艺术，超高清，清晰对焦，8K 画质，杰作，最佳质量，超写实，电影级灯光，暗黑奇幻，高度细节化。使用 9:16 的纵横比。
+
+[English]
+Masterpiece: Ultra-detailed {argument name="character type" default="dark fantasy anime girl"} based on the attached image, standing behind a partially open, ancient Japanese wooden door in a {argument name="setting" default="mysterious shrine setting"}. Ancient wooden walls covered with hundreds of Japanese ofuda talismans, occult seals, aged scrolls, kanji writing, and spiritual symbols. Powerful purple lightning bolts sweep across the scene, radiating supernatural electrical energy. Glowing particles float in the air, creating a magical and mystical atmosphere. A luminous dimensional portal appears in the background, reflecting off the damp ground. Volumetric cinematic lighting, dramatic shadows, a Japanese supernatural horror aesthetic, hyper-realistic anime style, extremely detailed face, intricate textures on clothing and accessories, and photorealistic rendering. Monochromatic palette dominated by violet, purple, and dark blue tones, cinematic depth of field, global illumination, ray tracing, Unreal Engine 5, vertical composition reminiscent of a movie poster, dark and spiritual atmosphere, epic oriental fantasy, award-winning digital art, ultra-definition, sharp focus, 8K quality, masterpiece, best quality, ultra-realistic, cinematic lighting, dark fantasy, highly detailed. Uses a 9:16 aspect ratio.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2065846410008723730) | 2026-06-13
+
+---
+
+### 🎨 例 1385：奢华足球迷时尚大片
+
+![奢华足球迷时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E8%B6%B3%E7%90%83%E8%BF%B7%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻女性，留着齐肩黑色波浪卷发，皮肤白皙，五官轮廓分明，戴着黑色长方形墨镜，自信地坐在奢华的黑色天鹅绒沙发上。她身穿 {argument name="jersey" default="一件印有白色数字 7 的红色葡萄牙国家队足球球衣"}，内搭修身黑色长袖衫。下身穿着 {argument name="pants" default="超大款褪色灰色宽松牛仔裤，带有复古佩斯利花纹"}，搭配红白配色高帮运动鞋，整体造型感十足。
+她以一种放松且强势的姿态坐着，双臂舒展在沙发靠背上，双腿自然分开。相机位置较低，贴近地面，营造出一种强调自信与态度的有力视角。
+在她身后，一个发光的霓虹灯 {argument name="neon sign" default="CR7"} 标志用温暖的金色光芒照亮了墙壁。房间采用深色现代装修风格，配有精致的奢华装饰、柔和的阴影和情绪化的环境光。
+风格：照片级真实感，电影感生活方式摄影，奢华足球迷美学，暖橙色光影，浅景深，真实的布料质感，真实的皮肤细节，柔和光晕，时尚大片拍摄，高级公寓内景，35mm 镜头，HDR，超精细，8K 画质。
+负面提示词：模糊，低质量，多余的手指，畸形的手，糟糕的解剖结构，扭曲的脸，重复的肢体，身体被裁剪，水印，文字，标志伪影，色彩过饱和，卡通，CGI，噪点，运动模糊。
+
+[English]
+A stylish young woman with shoulder length wavy black hair, fair skin, defined facial features, and black rectangular sunglasses sits confidently on a luxurious black velvet sofa. She wears a {argument name="jersey" default="red Portugal national football jersey with white number 7"}, layered over a fitted black long sleeve shirt. {argument name="pants" default="Oversized faded grey baggy jeans with vintage paisley style patterns"} and red-white high top sneakers complete the outfit.
+She sits in a relaxed dominant pose with both arms stretched across the sofa backrest and legs casually spread. The camera is positioned low near the floor, creating a powerful perspective that emphasizes confidence and attitude.
+Behind her, a glowing neon {argument name="neon sign" default="CR7"} sign illuminates the wall with warm golden light. The room features dark modern interiors, subtle luxury décor, soft shadows, and moody ambient lighting.
+Style: photorealistic, cinematic lifestyle photography, luxury football fan aesthetic, warm orange lighting, shallow depth of field, realistic fabric texture, realistic skin details, soft glow, editorial fashion shoot, premium apartment interior, 35mm lens, HDR, ultra detailed, 8K quality.
+Negative Prompt: blurry, low quality, extra fingers, deformed hands, bad anatomy, distorted face, duplicate limbs, cropped body, watermark, text, logo artifacts, oversaturated colors, cartoon, CGI, noise, motion blur.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2065742138621767715) | 2026-06-13
+
+---
+
+### 🎨 例 1397：Sam Altman 在空无一人的公园玩滑板
+
+![Sam Altman 在空无一人的公园玩滑板](../../images/Sam%20Altman%20%E5%9C%A8%E7%A9%BA%E6%97%A0%E4%B8%80%E4%BA%BA%E7%9A%84%E5%85%AC%E5%9B%AD%E7%8E%A9%E6%BB%91%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="person" default="Sam Altman"} 在 {argument name="location" default="滑板公园"} 玩滑板，周围空无一人，没有任何其他人。
+
+[English]
+{argument name="person" default="Sam Altman"} skating at a {argument name="location" default="skatepark"}, completely empty with no other people around.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065707488918520184) | 2026-06-13
+
+---
+
+### 🎨 例 1411：写实风格足球运动员庆祝插画
+
+![写实风格足球运动员庆祝插画](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E5%BA%86%E7%A5%9D%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位面部特征与参考照片相似的男性足球运动员，身穿阿根廷国家队蓝白条纹球衣，背号 10 号，佩戴黑色队长袖标。他正处于戏剧性的庆祝姿势——双臂张开，头向后仰，表情充满胜利的喜悦。视角为低角度，画面主体为腰部以上的半身像。
+
+视觉风格：写实风格 + 数字艺术，身体周围迸发出尘埃/烟雾粒子特效（弥散效果），平滑的脏迹与水彩纹理，高对比度，身体边缘带有柔和的轮廓光，皮肤和胡须细节非常锐利，球衣面料真实，具有轻微的景深效果。
+
+背景：纯白色背景，主体后方带有巨大的浅蓝色排版文字，文字呈垂直重复排列（例如：“DHINOV”或其他文字），带有轻微模糊效果，并通过正片叠底/叠加模式与烟雾融合。
+
+色调：浅蓝色、白色、灰色；冷色调。电影级光影，轻微的背光，薄雾，少量飞扬的粒子。
+
+构图：9:16 比例，主体居中，顶部留有充足的负空间，底部边缘逐渐淡入烟雾中。极高画质，超精细，HDR，边缘清晰。
+
+[English]
+A male footballer with a face similar to the reference photo wearing the Argentina national team's white-and-blue striped jersey, number 10, captain with a black armband. He's in a dramatic celebration pose—arms wide open, head tilted back, a triumphant expression. The perspective is low, with his body from the waist up filling the frame.
+
+Visual style: photorealistic + digital art, dust/smoke particle effects exploding from the body (dispersion), smooth grunge and watercolor textures, high contrast, soft rim light on the edges of the body, very sharp skin and beard details, realistic jersey fabric, light depth of field.
+
+Background: pure white with giant light blue typography behind the subject, vertically repeating text (example: "DHINOV" or other text), slight blur and multiply/overlay blending to blend with the smoke.
+
+Color palette: light blue, white, gray; cool tones. Cinematic lighting, light backlighting, light fog, small flying particles.
+
+Composition: 9:16 orientation, subject centered, ample negative space overhead, bottom edges fading into smoke. Very high quality, ultra-detailed, HDR, clean edges.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2065658131733233759) | 2026-06-13
+
+---
+
+### 🎨 例 1431：使用 Codex 为 Illo 供电的复古机器人
+
+![使用 Codex 为 Illo 供电的复古机器人](../../images/%E4%BD%BF%E7%94%A8%20Codex%20%E4%B8%BA%20Illo%20%E4%BE%9B%E7%94%B5%E7%9A%84%E5%A4%8D%E5%8F%A4%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满趣味的复古黑白技术卡通插画，背景为暖米白色纸张，采用 16:9 宽屏比例。使用粗圆的黑色墨水轮廓、半色调点阵阴影、极简的奶油色填充以及亮热粉色作为点缀。从左到右依次排列四个主要物体：1) 一台小型复古桌面图像印刷机，正面小写标注为“{argument name="printer label" default="illo"}”，左侧带有曲柄，顶部有滚轮，下方伸出一张纸；打印出的纸张包含一幅简单的风景画，画中有黑色太阳/圆圈、黑色山脉和粉色斜线阴影；2) 中间是一个可爱的小机器人吉祥物，拥有圆角方形头部、黑色屏幕脸部、两只白色椭圆眼睛、小巧的身体、手臂、腿部以及一根顶端带有粉色圆圈的天线；3) 右侧是一个厚实的矩形电池/电源组，标注为“{argument name="battery title" default="Codex"}”，下方有较小的文字“{argument name="battery subtitle" default="subscription"}”，顶部有两个黑色和粉色的端子，上方有一个粉色闪电图标；4) 最右侧是一个小型墙壁插座/电源块，带有一个插孔和一个类似按钮的顶部旋钮。展示两条清晰的电缆连接：一条热粉色电缆从打印机右侧连接到机器人的手部，另一条黑粉相间的插头电缆从机器人连接到 Codex 电池；同时展示一根带有插头的黑色电源线从墙壁插座引出。在机器人手持的插头附近添加两个小巧的粉色运动标记。保持构图简洁居中，留出大量负空间，不要添加额外字符、标签或水印，并保留手绘的 Risograph/Zine 风格。
+
+[English]
+Create a playful retro black-and-white technical cartoon illustration on a warm off-white paper background, in a 16:9 wide canvas. Use thick rounded black ink outlines, halftone stippling shadows, minimal cream fills, and bright hot-pink accent color. Show exactly four main objects arranged left to right: 1) a small vintage tabletop image-printing press labeled “{argument name="printer label" default="illo"}” in lowercase on its front, with a crank on the left, rollers on top, and a sheet of paper emerging from the lower front; the printed sheet contains one simple landscape picture with a black sun/circle, black mountains, and pink diagonal shading; 2) a cute small robot mascot in the center with a rounded square head, black screen face, two white oval eyes, tiny body, arms, legs, and one antenna ending in a pink circle; 3) a chunky rectangular battery/power pack on the right labeled “{argument name="battery title" default="Codex"}” with smaller text “{argument name="battery subtitle" default="subscription"}”, two top terminals colored black and pink, and a pink lightning bolt above it; 4) a small wall outlet/power block at the far right with one socket and one button-like top knob. Show exactly two visible cable connections: a hot-pink cable running from the printer’s right side to the robot’s hand, and a black-and-pink plug cable from the robot into the Codex battery; also show a black power cord with plug leading from the wall outlet. Add exactly two small pink motion marks near the plug held by the robot. Keep the composition clean and centered with lots of negative space, no extra characters, no extra labels, no watermark, and preserve the hand-drawn risograph/zine aesthetic.
+```
+
+**来源：** [@Trevin Chow](https://x.com/trevin/status/2065602075757871595) | 2026-06-13
+
+---
+

@@ -695,3 +695,83 @@ Eye-level camera angle, direct eye contact with the camera through the mirror, s
 
 ---
 
+### 🏛️ 例 1357：暗黑机能风三联画时尚大片
+
+![暗黑机能风三联画时尚大片](../../images/%E6%9A%97%E9%BB%91%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%B8%89%E8%81%94%E7%94%BB%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="ARGOS"} 创作一组高端暗黑机能风时尚三联画，展示同一位男性街头服饰模特在三个相邻的垂直画面中，从原始摄影棚场景过渡到精致建筑展厅的过程。
+
+画布：4:5 纵向构图，约 768×960 分辨率，分割为 3 个完全相等的垂直面板，使用硬直线分割，无边框。
+
+布局与元素计数：包含 3 个全身模特形象，每个面板一个。左侧面板 1 展示幕后摄影棚，可见灯架、明亮的灯光、地面的电缆、未完工的天花板索具、混凝土底面，模特站姿略微前倾，双手靠近口袋。中间面板 2 展示模特处于干净的无缝灰色摄影棚角落，配有柔和的渐变光和哑光地面，模特居中站立，双手插兜。右侧面板 3 展示模特处于奢华的深色混凝土室内，配有高大的几何墙板、垂直条形灯光、光亮的黑色反射地面以及墙面上微妙的品牌 Logo。三个面板应保持对齐，使模特比例一致且呈现全身，戏剧性的阴影投向观众方向。
+
+主体细节：模特为年轻男性，寸头，姿态中性，面部通过柔和的矩形模糊处理进行匿名化。服装：单色黑色超大款机能夹克，配有兜帽和高领，黑色工装裤带有大侧袋，黑色厚底作战靴，黑色手套或部分遮挡的深色手部，腰带环和口袋上悬挂银色链条配饰，带有实用绑带和拉链。服装质感需清晰、有层次感、微光尼龙材质，呈现超大、都市、工业和战术风格。
+
+文字内容：在右侧墙面上，添加小巧简洁的白色品牌文字：“{argument name="brand name" default="ARGOS"}”，下方配有极小的副标题“DYNAMIC NOIR GARMENTS / URBAN PROTECTIVE / 25AW COLLECTION”。文字应保持微妙并融入墙面，而非海报形式。
+
+视觉风格：照片级逼真的时尚宣传摄影，情绪化的工业照明，冷灰色与黑色调，高对比度，编辑级构图，逼真的反射，细腻的织物纹理，电影感阴影，高端先锋街头风格。
+
+约束条件：必须使用 3 个面板和 3 个模特形象。禁止出现额外人物、彩色服装、可见面部特征、除指定品牌标识外的可读文字、水印或卡通风格。
+
+[English]
+Goal: Create a high-end dark techwear fashion editorial triptych for {argument name="brand name" default="ARGOS"}, showing the same male streetwear model in three adjacent vertical panels that progress from raw studio setup to polished architectural showroom.
+
+Canvas: Portrait 4:5 composition, approximately 768×960, split into exactly 3 equal vertical panels with hard straight seams and no borders.
+
+Layout and counted elements: Include exactly 3 full-body model appearances, one per panel. Panel 1 on the left shows a behind-the-scenes photo studio with visible light stand, bright lamp, cables on the floor, unfinished ceiling rigging, concrete floor, and the model standing slightly hunched with hands near pockets. Panel 2 in the center shows the model in a clean seamless gray studio corner with soft gradient lighting and a matte floor, standing centered with hands in pockets. Panel 3 on the right shows the model in a luxury dark concrete interior with tall geometric wall slabs, vertical strip lighting, glossy black reflective floor, and a subtle wall logo. The three panels should align so the models are similar scale and full body, with dramatic shadows falling toward the viewer.
+
+Subject details: The model is a young adult man with a buzz cut, neutral pose, face intentionally anonymized with a soft rectangular blur. Outfit: monochrome black oversized technical jacket with hood and high collar, black cargo pants with large side pockets, black chunky combat boots, black gloves or dark hands partially hidden, silver chain accessories hanging from belt loops and pockets, utility straps and zippers. Make the clothing crisp, layered, slightly glossy nylon, oversized, urban, industrial, and tactical.
+
+Text content: On the right wall, add small clean white branding text: “{argument name="brand name" default="ARGOS"}” with tiny subtext beneath reading “DYNAMIC NOIR GARMENTS / URBAN PROTECTIVE / 25AW COLLECTION”. Keep the text subtle and integrated into the wall, not a poster.
+
+Visual style: Photorealistic fashion campaign photography, moody industrial lighting, cool gray and black palette, high contrast, editorial composition, realistic reflections, detailed fabric texture, cinematic shadows, premium avant-garde streetwear look.
+
+Constraints: Use exactly 3 panels and exactly 3 model figures. No extra people, no colorful clothing, no visible facial features, no readable text except the specified brand mark, no watermark, no cartoon style.
+```
+
+**来源：** [@getimg.ai](https://x.com/getimg_ai/status/2065831813105467427) | 2026-06-13
+
+---
+
+### 🏛️ 例 1371：电影级微型星球奇幻世界
+
+![电影级微型星球奇幻世界](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E5%A5%87%E5%B9%BB%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个高度详尽的电影级微型星球奇幻世界，画面中心是一位 {argument name="main traveler" default="写实的年轻女性旅行者"}，她自信地站在一个微型地球仪中央，地球仪上覆盖着 {argument name="landscape details" default="郁郁葱葱的绿草、五彩缤纷的野花、奇幻建筑以及充满奇思妙想的冒险元素"}。环绕在她周围的是多个可爱的微型版自己，每一个都穿着不同的服装，展现出独特的个性和情绪。
+
+其中一个迷你版身穿探险家服装并指向地平线，另一个背着背包和地图，另一个愉快地挥手，另一个正用相机拍照，另一个坐在海盗船上，另一个穿着未来感旅行服，另一个兴奋地跳跃，还有一个手提小灯笼。所有微型克隆体都保留了主角的面部、发型和外貌特征，同时保持了可爱的风格化比例。
+
+这个微型星球包含了迷人的小屋、奇幻城堡、优雅的塔楼、海盗船、日式宝塔、浮空花园、观景台、蜿蜒的小径、隐藏的冒险地标以及魔法风景点，它们无缝地融入在景观之中。微型克隆体与环境自然互动，营造出一种 {argument name="scene atmosphere" default="充满奇迹与探索的异想天开的叙事氛围"}。
+
+这位女性旅行者拥有美丽且富有表现力的眼睛、飘逸的头发、自信而温暖的表情以及冒险精神。她自豪地站在微型世界的中心，身着融合了奇幻与现代探险家美学的时尚旅行服装。
+
+超广角鱼眼微型星球视角，360 度微型世界效果，戏剧性的航拍无人机视角，居中构图，色彩鲜艳，黄金时刻的阳光，蓬松的云朵，电影级景深，体积光，写实人像摄影与风格化微型角色相结合，奇幻旅行冒险主题，异想天开的世界构建，高度精细的纹理，全局光照，HDR 渲染，超清晰对焦，大师级构图，照片级真实环境，Unreal Engine 5 品质，8K 分辨率。
+
+主角自信地站在中心，所有微型版本像来自不同冒险的伙伴一样环绕着她，代表着想象力、探索、勇气、梦想和个人成长。高级电影级旅行海报美学，Instagram 风格艺术作品，魔幻现实主义，极具沉浸感的视觉叙事，迷人的奇幻氛围，令人惊叹的世界构建，获奖数字艺术。
+
+[English]
+A highly detailed cinematic tiny-planet fantasy world featuring a {argument name="main traveler" default="realistic young female traveler"} standing confidently at the center of a miniature globe covered with {argument name="landscape details" default="lush green grass, colorful wildflowers, fantasy architecture, and whimsical adventure elements"}. Surrounding her are multiple adorable miniature versions of herself, each wearing different outfits and expressing unique personalities and emotions.
+
+One mini version wears an explorer outfit and points toward the horizon, another carries a backpack and map, another waves cheerfully, another takes photos with a camera, another sits on a pirate ship, another wears a futuristic traveler suit, another jumps excitedly, and another holds a small lantern. All miniature clones resemble the main character’s face, hairstyle, and appearance while maintaining cute stylized proportions.
+
+The tiny planet contains charming cottages, fantasy castles, elegant towers, pirate ships, Japanese-style pagodas, floating gardens, observation decks, winding pathways, hidden adventure landmarks, and magical scenic locations seamlessly integrated into the landscape. The miniature clones interact naturally with the environment, creating a {argument name="scene atmosphere" default="whimsical storytelling atmosphere full of wonder and discovery"}.
+
+The main female traveler has beautiful expressive eyes, flowing hair, a confident yet warm expression, and an adventurous spirit. She stands proudly at the center of the tiny world, dressed in stylish travel-inspired clothing that blends fantasy and modern explorer aesthetics.
+
+Ultra-wide fisheye tiny-planet perspective, 360-degree miniature world effect, dramatic aerial drone view, centered composition, vibrant colors, golden-hour sunlight, fluffy clouds, cinematic depth of field, volumetric lighting, realistic human portrait photography mixed with stylized miniature characters, fantasy travel adventure theme, whimsical world-building, highly detailed textures, global illumination, HDR rendering, ultra-sharp focus, masterpiece composition, photorealistic environment, Unreal Engine 5 quality, 8K resolution.
+
+The main character stands confidently at the center while all miniature versions orbit around her like companions from different adventures, representing imagination, exploration, courage, dreams, and personal growth. Premium cinematic travel poster aesthetic, Instagram-worthy artwork, magical realism, highly immersive visual storytelling, enchanting fantasy atmosphere, breathtaking world-building, award-winning digital art.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2065796455109894280) | 2026-06-13
+
+---
+

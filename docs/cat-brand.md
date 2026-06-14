@@ -4278,3 +4278,89 @@ A stunning {argument name="subject" default="woman"} glancing down at her {argum
 
 ---
 
+### 🏷️ 例 1374：空间站入口处的女性仿生人
+
+![空间站入口处的女性仿生人](../../images/%E7%A9%BA%E9%97%B4%E7%AB%99%E5%85%A5%E5%8F%A3%E5%A4%84%E7%9A%84%E5%A5%B3%E6%80%A7%E4%BB%BF%E7%94%9F%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级、超细节的科幻场景，画面中是一名 {argument name="character type" default="女性仿生人"} 站在明亮的未来感飞船入口走廊中，采用全身四分之三侧背视角。她拥有飘逸的 {argument name="hair color" default="银白色"} 长发，光滑的白色生物机械人形躯体，带有黑色关节结构、外露的蓝色发光电路、抛光的装甲板、灵活的双手双脚，面部特征故意模糊或遮挡。场景设定在一个广阔的轨道航天器或空间站内，地面为光亮的反光金属材质，墙壁为带有磨损感的白色工业风墙面，配有蓝色霓虹边缘灯光、透明玻璃面板，以及巨大的弧形舷窗，窗外可见地球与太空。在右侧，加入一块高大的黑色墙面标牌，上面清晰可见文字：“{argument name="door sign text" default="G-07 ENTRANCE SECTOR 07 AUTHORIZED PERSONNEL ONLY"}”。展示一个通往内部中庭的开放式门廊，内部整洁，配有明亮的条形灯、花盆中的植物、栏杆以及层叠的未来感建筑结构。运用逼真的硬表面细节、风化面板、细微划痕、电缆、接缝、反射效果以及冷蓝白色的灯光。氛围：优雅、先进、静谧且具有电影感。构图应为竖向，仿生人位于左侧前景，入口门户居中，标牌位于右侧。高端概念艺术 / 写实科幻渲染，焦点清晰，戏剧性的自然太空光影，无额外角色，无水印。
+
+[English]
+Create a cinematic ultra-detailed sci-fi scene of a {argument name="character type" default="female android"} standing in a bright futuristic spaceship entrance corridor, viewed from behind in a full-body three-quarter pose. She has long flowing {argument name="hair color" default="white silver"} hair, a sleek white biomechanical humanoid body with black joint mechanisms, exposed blue glowing circuitry, polished armor panels, articulated hands and feet, and a deliberately featureless/obscured face. The setting is a vast orbital spacecraft or space station with glossy reflective metal floors, white worn industrial walls, blue neon edge lighting, transparent glass panels, and large curved windows revealing Earth and space outside. On the right side, include one tall black wall sign with the exact visible text: “{argument name="door sign text" default="G-07 ENTRANCE SECTOR 07 AUTHORIZED PERSONNEL ONLY"}”. Show an open doorway leading deeper into a clean atrium-like interior with bright strip lights, plants in planters, railings, and layered futuristic architecture. Use realistic hard-surface detail, weathered panels, tiny scratches, cables, seams, reflections, and cool blue-white lighting. Mood: elegant, advanced, quiet, and cinematic. Composition should be vertical, with the android on the left foreground, the entrance portal centered, and the sign on the right. High-end concept art / photoreal sci-fi render, sharp focus, dramatic natural space light, no extra characters, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2065794555392471354) | 2026-06-13
+
+---
+
+### 🏷️ 例 1379：超写实飞行员肖像
+
+![超写实飞行员肖像](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实肖像，主角是一位年轻美丽的女性，留着 {argument name="hair style" default="飘逸的丝滑深棕黑色长发"}，透过 {argument name="glasses" default="银色无框飞行员墨镜"} 可以看到迷人的 {argument name="eye color" default="蓝色眼睛"}，柔和的玫瑰色双唇，无瑕的瓷感肌肤配以自然韩式妆容，身穿浅灰色无袖上衣，怀中抱着一本白色小书或小盒子，头部微微倾斜，抓拍街拍风格，背景为虚化的城市街道与焦外成像，自然日光伴随柔和阴影，略微俯拍视角，编辑时尚摄影，单反相机画质，85mm 镜头，浅景深，超写实皮肤纹理，高细节，8K --ar 9:16 --style raw --q 2
+
+[English]
+Hyperrealistic portrait of a young beautiful woman with {argument name="hair style" default="long silky dark brown-black hair flowing loosely"}, striking {argument name="eye color" default="blue eyes"} visible through {argument name="glasses" default="silver rimless aviator sunglasses"}, soft rosy lips, flawless porcelain skin with natural K-beauty makeup, wearing a light grey sleeveless top, holding a small white book or box close to her chest, slight tilt of head, candid street photography style, urban blurred city street background with bokeh, natural daylight with soft shadows, shot from slightly above angle, editorial fashion photography, DSLR quality, 85mm lens, shallow depth of field, ultra realistic skin texture, high detail, 8K --ar 9:16 --style raw --q 2
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2065767220396044513) | 2026-06-13
+
+---
+
+### 🏷️ 例 1394：洪水城市中的巨大哥特长靴
+
+![洪水城市中的巨大哥特长靴](../../images/%E6%B4%AA%E6%B0%B4%E5%9F%8E%E5%B8%82%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%93%A5%E7%89%B9%E9%95%BF%E9%9D%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+从极低的地面视角创作一个竖构图的电影感奇幻街道场景，画面中心为一位站立在浅层反射水面上的巨型女性的小腿部分。主体穿着高及膝盖的亮面黑色皮革哥特长靴，配有厚底、圆尖头、前部紧密系带，以及靴子上众多的金属扣和绑带；可见的服装延伸为靴子上方紧身的黑色长裤。长靴占据画面主体，在大腿上方截断，双脚没入及踝深的水中，强烈的镜像反射向下延伸至图像下半部分。周围环绕着宏伟的蒸汽朋克 / 暗黑奇幻城市街道：两侧为华丽的维多利亚式建筑、塔楼、阳台、管道、电缆和架空电线，远处有薄雾，背景中行走的小型行人以突显比例感。包含正好 10 位可见行人：左侧 5 位，中央 1 位正走向巨型长靴，右侧 4 位，均穿着深色长外套或奇幻都市服装。在鞋底周围和反射面上添加自然的涟漪，仿佛雨后街道被淹没，呈现青蓝色水面、闪烁的高光，以及靴子和建筑反射的细微扭曲。光影应为戏剧性的逆光日出或日落，左上方有明亮的光晕，冷蓝色阴影，皮革和建筑上有温暖的轮廓光，电影级景深，高细节，超写实动漫奇幻插画风格，前景长靴清晰，背景富有氛围感，无文字，无水印。使用 {argument name="boot color" default="亮面黑色"}, {argument name="city style" default="蒸汽朋克维多利亚暗黑奇幻"}, {argument name="water effect" default="带有自然涟漪的浅层反射水面"}, {argument name="time of day" default="逆光日出"}, 以及 {argument name="main subject scale" default="巨型女性"}。
+
+[English]
+Create a vertical cinematic fantasy street scene from an extremely low ground-level viewpoint, centered on the lower legs of a colossal or giant woman standing in shallow reflective water. The main subject wears tall glossy black leather gothic boots reaching above the knees, with platform soles, pointed rounded toes, tight lacing up the front, and many metal buckles and straps on both boots; the visible outfit continues as tight black pants above the boots. The boots dominate the frame, cropped at the upper thighs, with the feet planted in ankle-deep water and a strong mirror reflection extending downward across the lower half of the image. Surround her with a grand steampunk / dark fantasy city street: ornate Victorian buildings on both sides, towers, balconies, pipes, cables and overhead wires, distant haze, and small pedestrians walking in the background to emphasize scale. Include exactly 10 visible pedestrians: 5 on the left side of the street, 1 central figure walking toward the giant boots, and 4 on the right side, all dressed in dark long coats or fantasy urban clothing. Add natural water ripples around the soles and across the reflection, as if the street is flooded after rain, with teal-blue water, shimmering highlights, and subtle distortion of the boot and architecture reflections. Lighting should be dramatic backlit sunrise or sunset, bright glow from the upper center-left, cool blue shadows, warm rim light on leather and buildings, cinematic depth, high detail, ultra-realistic anime fantasy illustration style, sharp foreground boots, atmospheric background, no text, no watermark. Use {argument name="boot color" default="glossy black"}, {argument name="city style" default="steampunk Victorian dark fantasy"}, {argument name="water effect" default="shallow reflective water with natural ripples"}, {argument name="time of day" default="backlit sunrise"}, and {argument name="main subject scale" default="colossal giant woman"}.
+```
+
+**来源：** [@史都季さつき](https://x.com/fuuduki_s/status/2065714246252708079) | 2026-06-13
+
+---
+
+### 🏷️ 例 1396：Fast-Food Couture Campaign
+
+![Fast-Food Couture Campaign](../../images/Fast-Food%20Couture%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Beautiful young woman with the exact facial identity, facial structure, skin tone, proportions, and visual likeness of the reference subject. She stands in a relaxed editorial pose with one knee slightly bent and her shoulders angled naturally toward camera, wearing a {argument name="outfit" default="fitted ivory ribbed crop top, tailored retro-inspired yellow athletic shorts with crimson side piping, and a translucent lightweight rain jacket"}. Her hair is styled in a sleek high ponytail with delicate flyaway strands illuminated by studio lighting. She carries a premium structured fast-food campaign tote finished in glossy red with metallic gold arch detailing. Dominating the scene is an enormous oversized {argument name="brand theme" default="Happy Meal-inspired box"} transformed into a monumental sculptural installation. Rather than sitting directly behind her, the giant box is positioned diagonally across the background, creating dramatic depth and perspective. Hundreds of golden fries burst upward and outward from the opening in a swirling arc, appearing to float through the air like a cinematic golden tornado. The fries vary in distance from camera, enhancing dimensionality and visual energy. Dynamic atmospheric effects fill the set: sparkling ice fragments, mist-like condensation, and suspended water droplets frozen in motion. Tiny droplets bead naturally on the transparent jacket surface, producing realistic light refractions and subtle spectral highlights. Shot from a slightly lower camera angle to create a heroic advertising perspective. Captured on a Phase One IQ4 150MP with an 80mm lens at f/2.0, generating exceptional detail on the subject while allowing background elements to transition into luxurious depth separation. Lighting setup: large overhead softbox for elegant skin rendering, directional key light from camera left for shape and definition, and a powerful rim light creating a luminous contour around the figure and transparent jacket. Additional floor reflections bounce warm highlights into the scene. Environment: pristine seamless white studio cyclorama with a highly polished reflective resin floor, producing long cinematic reflections of both the model and the giant product installation. Color treatment: contemporary luxury advertising grade with vibrant reds, rich golden yellows, clean whites, subtle contrast, warm highlights, and crisp commercial clarity. Hyperrealistic 8K CGI, Unreal Engine 5 quality, advanced global illumination, realistic skin subsurface scattering, premium international fast-food campaign aesthetic, luxury brand photography, ultra-detailed textures, photoreal masterpiece.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2065708660115063118) | 2026-06-13
+
+---
+
+### 🏷️ 例 1416：暗黑奇幻大教堂握手艺术
+
+![暗黑奇幻大教堂握手艺术](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%A4%A7%E6%95%99%E5%A0%82%E6%8F%A1%E6%89%8B%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅名为“魔鬼交易”（The Devil’s Deal）的超电影感暗黑奇幻艺术作品，一位极其英俊、留着胡须的男子身穿奢华黑色西装，在宏伟的哥特式大教堂内与他阴暗的恶魔版本握手。轮廓分明的下颌线，锐利的双眼，强大的气场；一个版本是优雅的人类，另一个则是带有发光红眼、燃烧裂纹和暗能量流动的阴影形态。深色桌上放着一份带有火漆印的神秘契约，蜡烛摇曳，烟雾缭绕，火星漂浮，巨大的哥特式窗户，戏剧性的阴影，背景中的天使雕像，黑红配色，电影级布光，超写实，极致细节，电影海报美学，杰作，体积光，8K，暗黑奢华氛围
+
+[English]
+An ultra-cinematic dark fantasy artwork called The Devil’s Deal, an extremely handsome intense bearded man in a luxury black suit shaking hands with a dark demonic version of himself inside a massive gothic cathedral, sharp jawline, piercing eyes, powerful aura, one version human and elegant, the other shadowy with glowing red eyes, burning cracks and dark energy flowing through his body. A mysterious contract lies on a dark table with wax seal, candles flickering, smoke, fire embers floating, giant gothic windows, dramatic shadows, angel statue in background, black and red color palette, cinematic lighting, hyper realistic, ultra detailed, movie poster aesthetic, masterpiece, volumetric lighting, 8K, dark luxury atmosphere
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2065642519917199759) | 2026-06-13
+
+---
+

@@ -5770,3 +5770,560 @@ Create a hyper-realistic travel-food postcard scene.\nINPUTS:\nCity: {argument n
 
 ---
 
+### 🎴 例 1349：复古冰淇淋店海报女郎
+
+![复古冰淇淋店海报女郎](../../images/%E5%A4%8D%E5%8F%A4%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BA%97%E6%B5%B7%E6%8A%A5%E5%A5%B3%E9%83%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 20 世纪 50 年代风格的照片级写实海报女郎肖像，主角是 {argument name="character name" default="Emily Vetrova"}，一位年轻的金发女性，拥有柔和的蓝眼睛、光泽感的双唇、上扬的眼线、直刘海，以及扎在肩后、松散且对称的双马尾。她双臂交叉向前倚靠在抛光白色大理石餐馆柜台上，直视镜头，带着自信而微妙的微笑。她身穿一件合身的淡灰蓝色碎花连衣裙，配有短泡泡袖、深领口和精致的奶油色蕾丝边，展现出纯真复古的汽水店魅力。场景设定在灯光温暖的复古冰淇淋店，采用浅景深效果：左侧有模糊的吊灯光晕，身后是深色木材和玻璃，背景中有一张复古墙面海报，上面写着“ICE CREAM”字样、醒目的“15¢”价格以及冰淇淋甜筒图案，右侧是闪亮的铬合金汽水机设备。在右下方的柜台上，放置一杯高脚草莓圣代，配有粉色冰淇淋、鲜奶油、糖浆纹路，顶部点缀一颗红樱桃。使用电影感的自然暖光，呈现真实的皮肤质感、柔和的焦外成像，采用 3/4 特写构图，高细节，4:5 竖构图，营造怀旧的美国风情氛围，无水印，无多余人物，无现代物品。
+
+[English]
+Create a photorealistic 1950s-inspired pinup portrait of {argument name="character name" default="Emily Vetrova"}, a young blonde woman with soft blue eyes, glossy lips, winged eyeliner, straight bangs, and exactly two loose low pigtails tied behind her shoulders. She is leaning forward on her crossed forearms over a polished white marble diner counter, looking directly into the camera with a subtle confident smile. She wears a fitted pale dusty-blue floral dress with short puff sleeves, a deep neckline, and delicate cream lace trim, giving a wholesome vintage soda-fountain glamour look. The scene is a warmly lit retro ice cream parlor with shallow depth of field: blurred pendant lamp glow on the left, dark wood and glass behind her, one vintage wall poster in the background reading “ICE CREAM” with a large “15¢” and an ice cream cone graphic, and shiny chrome soda-fountain equipment on the right. On the counter at the lower right, include exactly one tall glass strawberry sundae with pink ice cream, whipped cream, syrup streaks, and exactly one red cherry on top. Use cinematic natural warm lighting, realistic skin texture, soft bokeh, 3/4 close-up composition, high detail, 4:5 vertical framing, nostalgic Americana atmosphere, no watermark, no extra people, no modern objects.
+```
+
+**来源：** [@PinUp Girls](https://x.com/pinupgirls_ai/status/2065932188378333380) | 2026-06-13
+
+---
+
+### 🎴 例 1351：阿拉伯语励志日落海报
+
+![阿拉伯语励志日落海报](../../images/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%8A%B1%E5%BF%97%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的方形阿拉伯语励志海报。画面左下方，一位年轻男子全身剪影伫立在岩石山脊上，身穿深色连帽衫、修身牛仔裤和靴子，双手插兜，仰望天空。背景是黄金时刻的壮丽景观：地平线附近有发光的橙色太阳，远处是层峦叠嶂的山谷，被夕阳照亮的暖色云层向上过渡到深蓝色的星空，银河纹理清晰可见。在画面中心放置主要的阿拉伯语标题，使用非常醒目、粗体且深海军蓝色的书法字体，分为两行，内容为 {argument name="Arabic headline text" default="الطموح\nيتحقق"}。字体应带有细微的星光/斑点质感，看起来清晰、厚重且优雅。在标题上方和下方各添加一条纤细的装饰性水平分割线，每条线中心带有一个小巧的装饰花纹。采用平衡的励志海报构图，深色文字与发光天空之间形成高对比度，呈现出具有电影级色彩分级的照片级真实感景观，无需额外标志、水印或附加文字。
+
+[English]
+Create a cinematic square motivational poster in Arabic. A lone young man stands in full body silhouette on a rocky mountain ledge at the lower left, wearing a dark hoodie, slim jeans, and boots, hands in pockets, looking upward toward the sky. The background is a vast dramatic landscape at golden-hour sunset: glowing orange sun near the horizon, layered distant mountains and valleys, warm clouds illuminated by the setting sun, transitioning upward into a deep blue star-filled night sky with a visible Milky Way texture. Center the main Arabic headline in very large bold dark navy calligraphy, two lines, reading {argument name="Arabic headline text" default="الطموح\nيتحقق"}. The letters should have a subtle starry/speckled texture and appear crisp, heavy, and elegant. Add exactly two thin ornamental horizontal divider lines: one above the headline and one below it, each with a small decorative flourish at the center. Use a balanced inspirational poster composition, high contrast between the dark text and glowing sky, photorealistic landscape with polished cinematic color grading, no extra logos, no watermark, no additional text.
+```
+
+**来源：** [@Alaa Masoud](https://x.com/AlaaMasoud52561/status/2065877669997130052) | 2026-06-13
+
+---
+
+### 🎴 例 1356：现代时尚编辑拼贴画
+
+![现代时尚编辑拼贴画](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+现代编辑拼贴海报设计。背景包含四个堆叠的圆角面板，其中填充了 {argument name="subject" default="时尚年轻女性"} 在不同时尚姿势下的黑白电影感肖像。前景叠加了同一位女性的高质量全彩剪影，她身穿白色廓形衬衫，搭配黑色长裤和太阳镜，摆出自信的时尚造型。简洁极简设计，无文字，无排版，无字母，柔和阴影，深度分层，高对比度光效，高级杂志风格，超写实，8K，专业海报构图。
+
+[English]
+MODERN EDITORIAL COLLAGE POSTER DESIGN. THE BACKGROUND FEATURES FOUR STACKED ROUNDED PANELS FILLED WITH BLACK AND WHITE CINEMATIC PORTRAITS OF A {argument name="subject" default="STYLISH YOUNG WOMAN"} IN DIFFERENT FASHION POSES. OVERLAYED IN THE FOREGROUND IS A HIGH-QUALITY FULL-COLOR CUTOUT OF THE SAME WOMAN WEARING A WHITE OVERSIZED SHIRT WITH BLACK PANTS AND SUNGLASSES, STRIKING A CONFIDENT FASHION POSE.CLEAN MINIMAL DESIGN, NO TEXT, NO TYPOGRAPHY, NO LETTERS, SOFT SHADOWS, DEPTH LAYERING, HIGH CONTRAST LIGHTING, PREMIUM MAGAZINE STYLE, ULTRA REALISTIC, 8K, PROFESSIONAL POSTER COMPOSITION.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2065834053207761374) | 2026-06-13
+
+---
+
+### 🎴 例 1359：高级演示文稿项目
+
+![高级演示文稿项目](../../images/%E9%AB%98%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端 4:3 比例的演示文稿项目，采用 3x4 网格（12 个画面）、编辑排版、Headspace/Better Help 高级广告活动风格，以及温暖的赤陶色 + 柔和的鼠尾草色调。在项目顶部添加一个居中的粗体标题：
+
+[English]
+Create a high-end 4:3 pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Headspace/Better Help premium campaign style, warm terracotta + soft sage palette. Add a bold centered heading at the top of the storyboard:
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2065824927408959965) | 2026-06-13
+
+---
+
+### 🎴 例 1362：高端健身品牌海报
+
+![高端健身品牌海报](../../images/%E9%AB%98%E7%AB%AF%E5%81%A5%E8%BA%AB%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端现代健身宣传海报，展示 {argument name="model" default="一位美丽的运动型女性健身模特"} 在单一艺术构图中融合的多种动态健身姿势（非独立方框或拼贴画框）。
+
+风格：奢华健身品牌广告，电影级灯光，高端商业摄影，超写实，8K 画质，焦点清晰，细腻的皮肤纹理，专业健身房环境。
+
+配色方案：{argument name="colors" default="黑色、白色、银色以及霓虹粉色点缀"}。
+
+背景：具有戏剧性灯光的现代豪华健身房，健身器材，微妙的烟雾效果，景深，充满动力的氛围。
+
+自然融入设计的文字元素：
+
+[ STRONGER EVERY DAY ]
+
+Train Hard • Stay Consistent • Get Results
+
+✓ 力量
+✓ 自信
+✓ 活力
+✓ 健康
+
+[ NO EXCUSES • JUST RESULTS ]
+
+"Your only competition is the person you were yesterday."
+
+[ PROGRESS > PERFECTION ]
+
+Start Today. Transform Tomorrow.
+
+排版应采用粗体、现代且高端的字体，并在关键短语周围使用高亮括号。布局简洁，社交媒体海报设计，Instagram 健身活动风格，构图引人注目，专业广告品质。
+
+纵横比：4:5 竖屏
+超写实
+商业健身品牌推广
+高细节
+高端海报设计
+
+[English]
+Create a premium modern fitness promotional poster featuring {argument name="model" default="one beautiful athletic female fitness model"} in multiple dynamic workout poses blended into a single artistic composition (not separate boxes or collage frames).
+
+Style: luxury fitness brand advertisement, cinematic lighting, high-end commercial photography, ultra realistic, 8K quality, sharp focus, detailed skin texture, professional gym environment.
+
+Color Palette: {argument name="colors" default="black, white, silver and neon pink accents"}.
+
+Background: modern luxury gym with dramatic lighting, fitness equipment, subtle smoke effects, depth of field, motivational atmosphere.
+
+Text Elements integrated naturally into the design:
+
+[ STRONGER EVERY DAY ]
+
+Train Hard • Stay Consistent • Get Results
+
+✓ Strength
+✓ Confidence
+✓ Energy
+✓ Health
+
+[ NO EXCUSES • JUST RESULTS ]
+
+"Your only competition is the person you were yesterday."
+
+[ PROGRESS > PERFECTION ]
+
+Start Today. Transform Tomorrow.
+
+Typography should be bold, modern and premium with highlighted brackets around key phrases. Clean layout, social media poster design, Instagram fitness campaign style, eye-catching composition, professional advertising quality.
+
+Aspect Ratio: 4:5 Portrait
+Ultra Realistic
+Commercial Fitness Branding
+High Detail
+Premium Poster Design
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2065812352247988715) | 2026-06-13
+
+---
+
+### 🎴 例 1365：建筑风格 3D 雕刻生日海报
+
+![建筑风格 3D 雕刻生日海报](../../images/%E5%BB%BA%E7%AD%91%E9%A3%8E%E6%A0%BC%203D%20%E9%9B%95%E5%88%BB%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 比例。整个画面由高品质雪白色纹理纸墙填充。墙面上精准雕刻着一个巨大的数字“{argument name="age" default="04"}”，具有明显的深度感、逼真的内部阴影、优雅的体积细节以及顶级的建筑工艺。房间内装饰着深蓝色、淡蓝色和白色的气球，精致的白花，奢华的花束布置，营造出独家的一流庆典美学。照片中的快乐男士随意地坐在数字“{argument name="age" default="04"}”的下弧线上，一条腿弯曲，另一条腿自然垂下，笑容灿烂，微微抬头看向前方。他的脸部、肩膀、手臂和一条腿延伸出雕刻数字之外，创造出逼真的 3D 弹出窗口效果。温暖的电影感阳光从一侧射入，带有柔和的边缘光，照片级的皮肤纹理，顶级摄影棚摄影，超逼真细节，清晰的焦点，以及奢华的编辑级渲染。优雅的墙面题字写着：“{argument name="name" default="AEGON AI"}”、“CHAPTER {argument name="chapter" default="28"}”以及“365 MORE DAYS OF MIRACLES”。纯粹的极简主义构图，奢华杂志封面美学，世界级艺术指导，逼真的阴影，自然的色彩分级，无树影，无人工灯光效果，无 AI 伪影，顶级生日活动摄影，杰作级品质，超精细，超写实，奢华庆典氛围。
+
+[English]
+Professional luxury birthday poster, 3:4 ratio. The entire frame is filled with high-quality snow-white textured paper walls. A large number '{argument name="age" default="04"}' is precisely carved into the wall, featuring visible depth, realistic inner shadows, elegant volumetric details, and premium architectural craftsmanship. Inside the room: dark blue, pastel blue, and white balloons, delicate white flowers, luxurious bouquet arrangements, and an exclusive first-class celebration aesthetic. The happy man from the attached photo is sitting casually on the lower curve of the number '{argument name="age" default="04"}', with one leg bent and the other hanging naturally, smiling radiantly and looking slightly upward. His face, shoulder, one arm, and one leg extend beyond the carved number, creating a realistic 3D pop-up window effect. Warm cinematic sunlight enters from one side, with soft edge lighting, photorealistic skin texture, premium studio photography, ultra-realistic details, crystal-clear focus, and luxurious editorial-quality rendering. Elegant wall inscriptions read: '{argument name="name" default="AEGON AI"}', 'CHAPTER {argument name="chapter" default="28"}', and '365 MORE DAYS OF MIRACLES'. Pure minimalist composition, luxury magazine-cover aesthetics, world-class art direction, realistic shadows, natural color grading, no tree shadows, no artificial lighting effects, no AI artifacts, premium birthday campaign photography, masterpiece quality, ultra-detailed, hyper-realistic, luxury celebration atmosphere.
+```
+
+**来源：** [@Aegon](https://x.com/Fujimoto_hina/status/2065805957280723259) | 2026-06-13
+
+---
+
+### 🎴 例 1369：贝多芬大提琴奏鸣曲宇宙主题海报
+
+![贝多芬大提琴奏鸣曲宇宙主题海报](../../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E5%AE%87%E5%AE%99%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="composer and work" default="BEETHOVEN CELLO SONATA OP. 69"} 创作一张电影感古典音乐海报，将乐曲的开篇视觉化为从寂静中涌现并转化为大提琴与钢琴之间对话的过程。
+
+画布：宽幅横向海报，16:9 比例，深黑色背景配以微妙的青色烟雾，古金色高光，高对比度明暗对照法照明，优雅的博物馆展览式构图。
+
+布局：在左侧三分之一处放置一把巨大的直立木质大提琴，底部散发出温暖的光芒，周围环绕着金粉和抽象的垂直城市状线条。在右侧三分之一处放置一架黑色三角钢琴，琴盖打开，部分碎片化为几何方形块，背景是一轮巨大的淡奶油色圆形月亮或圆盘。在中央上方区域，展示一只悬浮在空中的手套，从大提琴向钢琴呈弧线抛出，带有明亮的金色粒子轨迹、弯曲的五线谱式运动线条以及周围细薄的轨道圆环。构图中运用大量精细的垂直金色引导线、精致的圆圈、螺旋和抽象的音乐几何图形。地面应为光亮且深色的，隐约反射出大提琴和钢琴的倒影。
+
+可见文字：包含 5 个明确的文本块。1) 左上角的大标题：“BEETHOVEN”，下方较小的行：“CELLO SONATA” 和 “OP. 69”。2) 左侧的小段诗意文字：“THE MUSIC IS / BORN IN SILENCE. / IN AN INSTANT, / IT BECOMES / CONVERSATION.” 3) 下方的乐章列表：“I — ADAGIO CANTABILE / II — ALLEGRO VIVACE”。4) 左下角极小的结尾短语：“FROM NOTHING, / MUSIC.” 5) 右上角的诗意文字块：“A SOLITARY CELLO / THROWS A CHALLENGE / INTO THE VOID. / THE PIANO, / WITHOUT HESITATION, / CATCHES IT. / AND MUSIC / BEGINS.” 在右下角添加一个小小的字母组合：“B / 69”。使用字间距较宽的衬线大写字体，象牙色和柔和的金色字母，其中 “AND MUSIC BEGINS” 使用色调略暖的金色。
+
+主体细节：精确计算 2 件主要乐器：一把大提琴和一架三角钢琴。精确计算 1 只悬空的手套。大提琴应看起来写实，棕色漆面，略显风霜，可见琴弦、琴码、琴头和尾针。钢琴应为亮黑色，可见琴键和打开的琴盖，并融合了抽象的立体主义碎片。手套应为棕褐色皮革或布料，掌心朝前，灯光效果如同穿过空间抛出的象征性挑战。
+
+视觉风格：精致的暗黑学院风，古典音乐会海报，超现实宇宙舞台，巴洛克与现代结合的平面设计，电影感灯光，金色粒子能量，细线条图表美学，微妙的颗粒感，无人物，无乐谱页面，无水印。
+
+自定义：如果更改主题，请保持 {argument name="central metaphor" default="a solitary cello throws a challenge into the void and the piano catches it"} 这一短语通过两件乐器之间的弧线在视觉上得到体现。保持整体氛围 {argument name="mood" default="hypnotic, mysterious, and reverent"}。
+
+[English]
+Goal: Create a cinematic classical music poster for {argument name="composer and work" default="BEETHOVEN CELLO SONATA OP. 69"}, visualizing the opening as music emerging from silence and becoming a dialogue between cello and piano.
+
+Canvas: Wide horizontal poster, 16:9 aspect ratio, dark black background with subtle teal smoke, antique gold highlights, high-contrast chiaroscuro lighting, elegant museum-exhibition composition.
+
+Layout: Place a large upright wooden cello on the left third, glowing warmly from below and surrounded by gold dust and abstract vertical city-like bars. Place a black grand piano on the right third, lid open, partly fragmented into geometric square blocks, backlit by a large pale cream circular moon or disk. In the center upper area, show one single thrown glove suspended in the air, arcing from the cello toward the piano, with a bright golden trail of particles, curved staff-like motion lines, and thin orbital circles around it. Use many fine vertical gold guide lines, delicate circles, spirals, and abstract musical geometry across the composition. The floor should be glossy and dark, reflecting the cello and piano faintly.
+
+Visible text: Include exactly 5 distinct text blocks. 1) Large title on the upper left: “BEETHOVEN”, with smaller lines below: “CELLO SONATA” and “OP. 69”. 2) Small poetic block on the left: “THE MUSIC IS / BORN IN SILENCE. / IN AN INSTANT, / IT BECOMES / CONVERSATION.” 3) Small movement list below it: “I — ADAGIO CANTABILE / II — ALLEGRO VIVACE”. 4) Tiny lower-left ending phrase: “FROM NOTHING, / MUSIC.” 5) Upper-right poetic block: “A SOLITARY CELLO / THROWS A CHALLENGE / INTO THE VOID. / THE PIANO, / WITHOUT HESITATION, / CATCHES IT. / AND MUSIC / BEGINS.” Add a small monogram at the lower right: “B / 69”. Use widely spaced uppercase serif typography, ivory and muted gold lettering, with “AND MUSIC BEGINS” slightly warmer gold.
+
+Subject details: Count exactly 2 main instruments: one cello and one grand piano. Count exactly 1 airborne glove. The cello should look realistic, varnished brown, slightly weathered, with visible strings, bridge, scroll, and endpin. The piano should be glossy black with visible keyboard and open lid, integrated with abstract cubist fragments. The glove should be tan leather or cloth, palm facing forward, lit like a symbolic challenge tossed through space.
+
+Visual style: Sophisticated dark academia, classical concert poster, surreal cosmic stage, baroque-meets-modern graphic design, cinematic lighting, gold particle energy, fine-line diagram aesthetics, subtle grain, no people, no sheet music pages, no watermark.
+
+Customization: If changing the theme, keep the phrase {argument name="central metaphor" default="a solitary cello throws a challenge into the void and the piano catches it"} visually represented through the arc between the two instruments. Keep the overall mood {argument name="mood" default="hypnotic, mysterious, and reverent"}.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2065797454688104585) | 2026-06-13
+
+---
+
+### 🎴 例 1373：3D 奢华生日海报
+
+![3D 奢华生日海报](../../images/3D%20%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 比例。整个背景覆盖着优雅的暖象牙色纹理纸墙。墙上雕刻着一个巨大的立体数字“{argument name="age" default="2"}”，具有逼真的深度、平滑的边缘、立体阴影和高级建筑细节。数字内部装饰着淡粉色气球、柔和的玫瑰色气球、精致的白花以及专为奢华庆典设计的精致花艺。一位快乐的 {argument name="age" default="2"} 岁儿童，保留参考面部特征，身穿柔软的白色 T 恤和 {argument name="outfit style" default="淡粉色牛仔背带裤"}，自然地微笑和大笑。儿童的面部、手臂、手和一只脚延伸出数字边框，营造出逼真的 3D 弹出效果。温暖的定向阳光，柔和的边缘高光，自然阴影，高级影棚级布光，逼真的皮肤纹理，高端人像摄影，超精细，清晰对焦。墙上优雅的排版文字：“{argument name="name" default="MUNONYE"}”、“CHAPTER TWO”、“ANOTHER YEAR OF MAGIC”。简洁极简的构图，编辑杂志封面美学，奢华生日活动设计，精致的艺术指导，逼真的深度，自然的调色板，照片级渲染，高级庆典氛围，无树影，无人工灯光效果，无 AI 伪影。
+
+[English]
+Professional luxury birthday poster, 3:4 aspect ratio. Entire background covered with an elegant warm ivory textured paper wall. A large sculpted number '{argument name="age" default="2"}' carved into the wall with realistic depth, smooth edges, dimensional shadows, and premium architectural detailing. Inside the number are blush pink balloons, pastel rose balloons, delicate white blooms, and sophisticated floral arrangements styled for a luxury celebration. A joyful {argument name="age" default="2"}-year-old child with preserved reference facial features, wearing a soft white t-shirt and {argument name="outfit style" default="pastel pink denim overalls"}, smiling and laughing naturally. The child's face, arm, hand, and one foot extend beyond the number frame, creating a realistic 3D pop-out effect. Warm directional sunlight, soft rim highlights, natural shadows, premium studio-quality lighting, realistic skin texture, high-end portrait photography, ultra-detailed, sharp focus. Elegant typography on the wall reading: '{argument name="name" default="MUNONYE"}', 'CHAPTER TWO', 'ANOTHER YEAR OF MAGIC'. Clean minimalist composition, editorial magazine-cover aesthetic, luxury birthday campaign design, refined art direction, realistic depth, natural color palette, photorealistic rendering, premium celebration atmosphere, no tree shadows, no artificial lighting effects, no AI artifacts.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2065794985837170697) | 2026-06-13
+
+---
+
+### 🎴 例 1381：奢华美妆品牌编辑广告
+
+![奢华美妆品牌编辑广告](../../images/%E5%A5%A2%E5%8D%8E%E7%BE%8E%E5%A6%86%E5%93%81%E7%89%8C%E7%BC%96%E8%BE%91%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+(创作一张奢华美妆广告海报，主角为 {argument name="subject count" default="两位"} 拥有丝滑长发的惊艳女性模特)，超写实，高定时尚编辑摄影，高端商业广告风格。
+
+(模特 1 身着优雅的 {argument name="first outfit style" default="奶油色/米色设计师西装"})，手持高端护肤精华液瓶，自信姿态，无瑕透亮的肌肤，奢华珠宝，柔和暖光。
+
+(模特 2 身着时尚的 {argument name="second outfit style" default="深酒红色/红色力量西装"})，手持奢华口红产品，迷人妆容，大胆红唇，自信时尚姿态，奢华配饰。
+
+(两位模特应拥有不同的发型、不同的服装颜色和独特的个性)，置身于精致的奢华摄影棚环境中。
+
+(底部展示高端美妆品牌)，包含写实的精华液瓶包装和奢华口红包装。
+
+包含专业广告文案：
+("Glow That Speaks Confidence")
+("Reveal Your Best Self")
+("Radiance Glow Serum")
+("Long Lasting Matte Lipstick")
+("Glow. Shine. Repeat.")
+
+调色板：
+(奶油色，金色，酒红色，
+
+[English]
+(Create a luxury beauty advertisement poster featuring {argument name="subject count" default="two"} stunning female models with long silky hair), ultra realistic, high-fashion editorial photography, premium commercial advertising style.
+
+(Model 1 wearing an elegant {argument name="first outfit style" default="cream/beige designer suit"}), holding a premium skincare serum bottle, confident pose, flawless glowing skin, luxury jewelry, soft warm lighting.
+
+(Model 2 wearing a stylish {argument name="second outfit style" default="deep burgundy/red power suit"}), holding a luxury lipstick product, glamorous makeup, bold red lips, confident fashion pose, luxury accessories.
+
+(Both models should have different hairstyles, different outfit colors, and unique personalities), sitting in a sophisticated luxury studio environment.
+
+(Premium beauty brand display at the bottom), featuring realistic serum bottle packaging and luxury lipstick packaging.
+
+Include professional advertising text:
+("Glow That Speaks Confidence")
+("Reveal Your Best Self")
+("Radiance Glow Serum")
+("Long Lasting Matte Lipstick")
+("Glow. Shine. Repeat.")
+
+Color palette:
+(Cream, Gold, Burgundy,
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2065751485619572849) | 2026-06-13
+
+---
+
+### 🎴 例 1384：3D 雕刻奢华生日海报
+
+![3D 雕刻奢华生日海报](../../images/3D%20%E9%9B%95%E5%88%BB%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 比例。整个画面为高级米白色奢华纸质纹理墙面。墙面上精准雕刻出巨大的数字“{argument name="age" default="22"}”，具有明显的深度、逼真的内部阴影和优雅的立体细节。数字内部：海军蓝、淡蓝色和白色气球，精致的白花，考究的花束布置，以及高级的庆典风格。一名快乐的 {argument name="age" default="22"} 岁儿童，保留参考面部特征，身穿海军蓝 T 恤和海军蓝牛仔背带裤，随意地坐在数字“{argument name="age" default="22"}”的下弧线上，一条腿弯曲，另一条腿自然垂下，面带灿烂笑容，微微抬头。脸部、肩膀、一只手臂和一只脚延伸出雕刻数字外，营造出逼真的 3D 立体弹出效果。温暖的电影感阳光从一侧射入，柔和的轮廓光，照片级皮肤纹理，专业摄影棚摄影，超逼真细节，焦点清晰，奢华编辑品质。墙面排版文字：“{argument name="name" default="NOEL"}”，“CHAPTER {argument name="chapter" default="22"}”，“365 MORE DAYS OF WONDER”。简洁极简的构图，奢华杂志封面美学，高端艺术指导，逼真的阴影，自然色彩，无树影，无虚假光效，无 AI 伪影，高级生日活动摄影，大师级品质。
+
+[English]
+Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off-white luxury paper textured wall. Large number “{argument name="age" default="22"}” precisely carved into the wall with visible depth, realistic inner shadows, and elegant dimensional detailing. Inside the number: navy blue, pastel blue, and white balloons, delicate white flowers, refined bouquet arrangements, and premium celebration styling. A happy {argument name="age" default="22"}-year-old child with preserved reference facial features, wearing a navy blue T-shirt and navy blue denim overalls, sitting casually on the lower curve of the number “{argument name="age" default="22"}” with one leg bent and the other dangling naturally, smiling brightly while looking slightly upward. Face, shoulder, one arm, and one foot extend outside the carved number, creating a realistic 3D pop-out effect. Warm cinematic sunlight entering from one side, soft rim lighting, photorealistic skin texture, premium studio photography, ultra-realistic details, sharp focus, luxury editorial quality. Typography on the wall: “{argument name="name" default="NOEL"}”, “CHAPTER {argument name="chapter" default="22"}”, “365 MORE DAYS OF WONDER”. Clean minimalist composition, luxury magazine cover aesthetic, high-end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts, premium birthday campaign photography, masterpiece quality.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2065746507429806121) | 2026-06-13
+
+---
+
+### 🎴 例 1386：坚毅电影感英雄海报
+
+![坚毅电影感英雄海报](../../images/%E5%9D%9A%E6%AF%85%E7%94%B5%E5%BD%B1%E6%84%9F%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感英雄海报，画面主体为 {argument name="subject" default="一名 32 岁英俊男子，身高 5 英尺 9 英寸，拥有肌肉发达的运动型身材，散发着强烈的黑帮气质"}，留着时尚的深色短发，表情深沉而专注，眼神锐利，留着淡淡的胡茬，随意地靠在 {argument name="car" default="一辆哑光黑色、布满灰尘的 Dodge Challenger Scat Pack，配有宽体套件和厚重的路面污垢"} 的后侧翼子板上，身穿一件磨损的黑色皮夹克、深色超大阔腿牛仔裤，戴着黑色方框太阳镜，脚穿黑色切尔西靴，采用戏剧性的低调照明，阴影氛围浓郁，背景为 {argument name="background" default="带有质感和细微涂鸦的灰白色风化混凝土墙"}，充满坚毅的城市气息，高细节，电影级调色，史诗级构图 --ar 2:3 --stylize 250 --v 6 --q 2
+
+[English]
+Cinematic hero movie poster, a {argument name="subject" default="handsome 32-year-old man, 5ft 9in with a muscular athletic physique and strong mafia vibes"}, stylish dark hair, intense contemplative expression, piercing eyes, subtle stubble, leaning casually against the rear quarter panel of a {argument name="car" default="dark matte black dusty Dodge Challenger Scat Pack with wide-body kit and heavy road grime"}, wearing a worn black leather jacket, dark oversized wide-leg jeans, black Square sunglasses and black Chelsea boots, dramatic low-key lighting with moody shadows, {argument name="background" default="weathered off-white concrete wall background with texture and subtle graffiti"}, gritty urban atmosphere, high detail, cinematic color grading, epic composition --ar 2:3 --stylize 250 --v 6 --q 2
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2065738911943385224) | 2026-06-13
+
+---
+
+### 🎴 例 1387：奢华意式浓缩咖啡机广告
+
+![奢华意式浓缩咖啡机广告](../../images/%E5%A5%A2%E5%8D%8E%E6%84%8F%E5%BC%8F%E6%B5%93%E7%BC%A9%E5%92%96%E5%95%A1%E6%9C%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级奢华商业广告，展示 {argument name="machine" default="Breville Barista Touch 意式浓缩咖啡机"}，呈现极简主义高端生活美学。一位身着优雅 {argument name="outfit color" default="全白"} 服装的时尚女性，正优雅地操作着放置在洁白大理石厨房台面上、外观时尚的哑光黑与不锈钢材质咖啡机。柔和的自然光，光亮表面上的细微反射，构图简洁宽敞，留白充足。背景为柔和的浅蓝色至白色渐变，呈现出类似高端时尚杂志广告的优质编辑摄影风格。细节清晰，材质与纹理逼真，光影与景深效果完美。右上角印有醒目优雅的 BREVILLE 标志。底部配有精致无衬线字体的极简主义粗体标语：“Perfection. At Your Touch.”（触手可及的完美）。底角带有“Created in ChatGPT”水印。超写实，8k 商业摄影，电影级调色，营造出令人向往的高端氛围。
+
+[English]
+Photorealistic luxury commercial advertisement for the {argument name="machine" default="Breville Barista Touch espresso machine"}, minimalist high-end lifestyle aesthetic. A stylish woman in elegant {argument name="outfit color" default="all-white"} outfit gracefully operating the sleek matte-black and stainless steel machine on a pristine white marble kitchen counter. Soft natural light, subtle reflections on glossy surfaces, clean spacious composition with plenty of negative space. Soft light-blue to white gradient background, premium editorial photography style like high-fashion magazine ads. Crisp details, realistic materials and textures, perfect lighting and depth of field. Prominent elegant BREVILLE logo in the top right. Bold minimalist tagline in sophisticated sans-serif font at the bottom: “Perfection. At Your Touch.” Watermark “Created in ChatGPT” in the bottom corner. Ultra-realistic, 8k commercial photography, cinematic color grading, aspirational premium vibe.
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2065738247905632730) | 2026-06-13
+
+---
+
+### 🎴 例 1388：印度尼西亚涂鸦风格足球海报
+
+![印度尼西亚涂鸦风格足球海报](../../images/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 垂直比例的病毒式 CapCut 风格足球迷海报，画面主体为一位留着黑色长发的年轻女性足球运动员，她自信地站在湿润且带有倒影的地面上，背景是一面粗犷的混凝土涂鸦墙。她身穿 {argument name="national team jersey" default="印度尼西亚红色主场球衣"}，搭配白色镶边、白色短裤、带有红黑条纹的高筒白袜以及白色运动鞋。她的姿势休闲且充满运动感：一条腿站直，另一只脚踩在前景的一个红白黑相间的足球上，双手自然地插在短裤口袋里。在她身后，绘制一幅巨大的手绘壁画，画中是同样留着黑色长发的她，壁画占据了墙面的大部分空间，并被前景中的真人球员部分遮挡。墙面运用大胆的红白斜向笔触、黑色油漆飞溅、滴落效果以及街头艺术质感。海报中必须包含 5 个清晰可见的涂鸦/文字元素：1) 左上角黑色涂鸦文字“INDONESIA 2026”，2) 右上角的盾形徽章，包含印度尼西亚鹰徽和“INDONESIA”字样，3) 左下角红黑涂鸦文字“GARUDA”和“GARUDA DI DADA”，4) 中右侧黑色涂鸦文字“RED WHITE PRIDE”，5) 右下角红色标签文字“#GARUDA 2026”。在短裤上添加球衣号码 {argument name="jersey number" default="26"}。营造电影般的质感，高对比度，环境略显潮湿且氛围感十足，地面带有倒影，运动服细节真实，全身主体清晰，城市壁画背景极具张力，采用红白国家荣耀配色，并呈现社交媒体海报的活力。全程融入 {argument name="country name" default="印度尼西亚"} 的象征元素，但除上述五个指定的涂鸦/文字元素外，请勿添加额外的标志或文字。
+
+[English]
+Create a vertical 9:16 viral CapCut-style football fan poster featuring a full-body young female football player with long black hair, standing confidently on wet reflective pavement in front of a gritty concrete graffiti wall. She wears an {argument name="national team jersey" default="Indonesia red home jersey"} with white trim, matching white shorts, tall white socks with red-and-black stripes, and white sneakers. Her pose is casual and athletic: one leg straight, the other foot resting on a red-white-black football placed in the foreground, hands relaxed in her shorts pockets. Behind her, paint a giant hand-painted mural portrait of the same woman with flowing black hair, filling most of the wall, partly obscured by the real player in front. Use bold red and white diagonal brush strokes across the wall, black paint splatters, drips, and street-art texture. Include exactly 5 visible graffiti/text elements: 1) top left black graffiti reading “INDONESIA 2026”, 2) upper right shield crest with the Indonesian Garuda and the word “INDONESIA”, 3) lower left red-and-black graffiti reading “GARUDA” and “GARUDA DI DADA”, 4) mid-right black graffiti reading “RED WHITE PRIDE”, 5) lower right red hashtag reading “#GARUDA 2026”. Add jersey number {argument name="jersey number" default="26"} on the shorts. Make the environment cinematic, high contrast, slightly wet and moody, with reflections on the ground, realistic sportswear details, sharp full-body subject, dramatic urban mural background, red-white national pride color palette, and social-media poster energy. Use {argument name="country name" default="Indonesia"} symbolism throughout, but avoid adding extra logos or extra text beyond the five listed graffiti/text elements.
+```
+
+**来源：** [@TF](https://x.com/tukanginfoID/status/2065737999464448270) | 2026-06-13
+
+---
+
+### 🎴 例 1391：极简中国水墨雾气画
+
+![极简中国水墨雾气画](../../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E9%9B%BE%E6%B0%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="style" default="传统中国水墨画"} 海报，9:16 竖构图，{argument name="aesthetic" default="东亚极简主义"} 美学，留白充裕；中心主题：{argument name="theme" default="春日雾气与一片深红色叶子"}。
+
+[English]
+{argument name="style" default="Traditional Chinese ink painting"} poster, 9:16 vertical composition, {argument name="aesthetic" default="East Asian minimalist"} aesthetic with generous negative space; central theme: {argument name="theme" default="spring mist and a single crimson leaf"}.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065722755945746664) | 2026-06-13
+
+---
+
+### 🎴 例 1393：奢华 25 岁生日海报
+
+![奢华 25 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%2025%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 纵向比例的超奢华极简主义生日里程碑海报。背景为高级象牙白纹理石膏墙，两侧由高大的古典装饰柱框起，带有柔和的斜射阳光和精致的阴影。顶部中央放置大型优雅衬线字体，显示 {argument name="character name" default="SAMEER"}，颜色为温暖的金属灰褐色（taupe-gold）；下方为间距较大的小型大写字母文本“CHAPTER {argument name="age" default="25"}”，配有一个微小的装饰性分隔符，以及斜体引言 {argument name="quote" default="Built Different Since Day One."}。核心元素是一个巨大的 3D 数字 {argument name="milestone number" default="25"}，深深刻在墙面上：“2”占据左半部分，“5”占据右半部分，具有逼真的凹陷深度、斜角、光滑的石膏质感、优雅的内部阴影以及精湛的工艺。一位英俊的年轻男子自信地倚靠在雕刻数字的右侧，身着剪裁利落的黑色燕尾服，配有缎面翻领、白色礼服衬衫、黑色领结、白色口袋巾、黑色西裤、擦得锃亮的黑色皮鞋和腕表；他一只手整理外套，另一只手插在口袋里，双腿交叉，侧头看向一旁。前景底部环绕着丰富的奢华白色花艺：底部左侧、中央和右侧簇拥着 5 种清晰可见的花卉——白玫瑰、绣球花、满天星、小雏菊和精致的兰花状花朵。使用带有微妙倒影的光滑大理石地面，采用奶油色和象牙色调，呈现杂志时尚摄影灯光、逼真的景深、高端生日庆典美学、照片级渲染，画面中无其他人物，无水印，无额外文字。
+
+[English]
+Create an ultra-luxury minimalist birthday milestone poster in a vertical 2:3 format. The setting is a premium ivory-white textured plaster wall framed by tall classical molding columns on both sides, with soft diagonal sunlight and refined shadows. At the top center, place large elegant serif text reading {argument name="character name" default="SAMEER"} in warm metallic taupe-gold, below it spaced small caps text reading “CHAPTER {argument name="age" default="25"}”, a tiny ornamental divider, and the italic quote {argument name="quote" default="Built Different Since Day One."}. The centerpiece is a giant 3D number {argument name="milestone number" default="25"} deeply carved into the wall: the “2” dominates the left half and the “5” dominates the right half, with realistic recessed depth, bevels, smooth plaster texture, elegant inner shadows, and sophisticated craftsmanship. A handsome young man stands leaning confidently against the right side of the carved number, dressed in a sharp black tuxedo with satin lapels, white dress shirt, black bow tie, white pocket square, black trousers, polished black dress shoes, and a wristwatch; he poses with one hand adjusting his jacket and the other in his pocket, legs crossed, looking to the side. Surround the lower foreground with abundant luxury white floral arrangements: exactly 5 visible flower categories—white roses, hydrangeas, baby’s breath, small daisies, and delicate orchid-like blossoms—clustered along the bottom left, bottom center, and bottom right. Use a glossy marble floor with subtle reflections, cream and ivory color palette, editorial fashion lighting, realistic depth, high-end birthday gala aesthetic, photorealistic rendering, no extra people, no watermark, no additional text.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2065720679400710527) | 2026-06-13
+
+---
+
+### 🎴 例 1401：历史编辑风格战役海报
+
+![历史编辑风格战役海报](../../images/%E5%8E%86%E5%8F%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%88%98%E5%BD%B9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+SELECT warrior_profile, internal_battlefield, typography_overlay FROM Editorial_History_Posters WHERE empire = '{argument name="faction" default="[FACTION]"}' AND milestone = '{argument name="event" default="[EVENT]"}';  /* VISUAL RENDER LOGIC */ -- BASE: # FFFFFF (Absolute White). -- WARRIOR_PROFILE: A commanding profile bust. High contrast, gritty shadows. -- INTERNAL_BATTLEFIELD: Replace the warrior's internal torso/face with AI_INFER(A sprawling landscape, castles, and charging cavalry specific to {argument name="event" default="[EVENT]"}). -- EDGE_BEHAVIOR: The bottom of the bust fades into dust, smoke, and marching soldiers. -- TYPOGRAPHY: Floating cleanly in the negative space. Elegant, museum-exhibit formatting.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2065697428066730064) | 2026-06-13
+
+---
+
+### 🎴 例 1404：夏日海边浪漫海报
+
+![夏日海边浪漫海报](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E6%B5%AA%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+真实写实照片风格，夏日海边恋爱感海报，清爽纯欲，带一点{argument name="海报风格" default="香港 / 日本偶像剧氛围"}。盛夏海边，蓝天白云，阳光很透，海面闪闪发光，一对刚游完泳的成年中国情侣坐在堤岸上聊天，身体自然靠近，像夏天突然心动的瞬间，浪漫暧昧但不色情。
+
+女生黑色长发，穿深蓝色三角比基尼，发丝微湿，皮肤有水光感，身材高挑清瘦但有曲线，背影漂亮，腰臀线条好看，整体清冷又心动。男生黑色湿发，黑色泳裤，赤裸上身，双手后撑，姿态松弛，肩宽背阔，手臂和背部有健身线条，少年感和荷尔蒙并存。
+
+重点表现：海风、阳光、湿发、水光肌、蓝色海面、夏日心动、恋爱氛围。整体蓝白清爽，高级干净，有留白，像一张夏日偶像剧海报，真实自然，不低俗，不夸张摆拍。
+
+海报顶部加入大号{argument name="主题文字" default="夏你们一跳的约会"}，下方加入小号副标题。其他点缀文案围绕夏天、海风、心动、约会随机生成，简洁、有氛围、排版自然，适合社媒传播。
+
+【可修改参数】
+摄影风格：{argument name="摄影风格" default="小米莱卡摄影质感 / CCD / iPhone随手拍电影感"}
+比例：16:9
+构图：正面构图
+```
+
+**来源：** [@老杨啊](https://x.com/yhslgg/status/2065691890088034799) | 2026-06-13
+
+---
+
+### 🎴 例 1406：3D 深度奢华生日海报
+
+![3D 深度奢华生日海报](../../images/3D%20%E6%B7%B1%E5%BA%A6%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华生日海报，3:4 竖构图，超高端编辑摄影风格。
+
+优雅的雕塑感拱门背景，由象牙白大理石和柔和的香槟色纹理表面打造，呈现出精致的建筑深度和奢华室内美学。
+
+画面中心矗立着一个巨大的悬浮金属数字 {argument name="age" default="[AGE]"}，采用拉丝玫瑰金饰面，具有逼真的反射效果、斜面边缘和精致的立体光影。数字周围环绕着层叠的淡粉色玫瑰、白色牡丹、精致的满天星以及悬浮的缎带，构成了艺术感十足的奢华画面。
+
+一位快乐的 {argument name="childs age" default="[AGE]"} 岁儿童（保留面部特征）部分站在数字前方，身着高级奶油色针织套装，点缀柔和的淡粉色，展现时尚的奢华童装风格。自然的开怀大笑，闪烁的眼睛，自信的姿态。
+
+儿童的面部、一只手臂和一条腿延伸至前景装饰元素之外，营造出沉浸式的分层 3D 深度效果，并具有逼真的透视和阴影交互。
+
+柔和的黄金时刻阳光透过大型建筑窗户射入，产生优雅的高光、电影般的辉光和微妙的体积光束。影棚级布光，超逼真的皮肤纹理，高端时尚摄影品质。
+
+排版优雅地融入构图：
+
+{argument name="childs name" default="[NAME]"}
+
+CHAPTER {argument name="age label" default="[AGE]"}
+
+A YEAR OF MAGIC,
+A FUTURE OF DREAMS
+
+精致的奢华衬线字体，采用现代编辑排版间距和高级时尚杂志封面美学。
+
+奢华配色方案：象牙白、香槟金、淡粉色、珍珠白、柔米色。
+
+超细节照片级渲染，高级景深，自然阴影，逼真材质，奢华广告大片品质，构图简洁，造型精致，无畸变，无 AI 伪影，大师级品质。
+
+[English]
+Professional luxury birthday poster, 3:4 portrait composition, ultra-premium editorial photography style.
+
+Elegant sculptural archway backdrop crafted from ivory marble and soft champagne-toned textured surfaces, with refined architectural depth and luxury interior aesthetics.
+
+A grand floating metallic number {argument name="age" default="[AGE]"} stands at the center, designed in brushed rose-gold finish with realistic reflections, beveled edges, and sophisticated dimensional lighting. Surrounding the number are cascading blush-pink roses, white peonies, delicate baby's breath, and floating satin ribbons arranged in an artistic luxury composition.
+
+A joyful {argument name="childs age" default="[AGE]"}-year-old child with preserved facial identity stands partially in front of the number, wearing a premium cream knit outfit with soft pastel pink accents and stylish luxury children's fashion styling. Natural genuine laughter, sparkling eyes, confident pose.
+
+The child's face, one arm, and one leg extend beyond the foreground decorative elements, creating an immersive layered 3D depth effect with realistic perspective and shadow interaction.
+
+Soft golden-hour sunlight streams through large architectural windows, producing elegant highlights, cinematic glow, and subtle volumetric light rays. Studio-grade lighting, ultra-realistic skin texture, premium fashion-photography quality.
+
+Typography elegantly integrated into the composition:
+
+{argument name="childs name" default="[NAME]"}
+
+CHAPTER {argument name="age label" default="[AGE]"}
+
+A YEAR OF MAGIC,
+A FUTURE OF DREAMS
+
+Refined luxury serif typography with modern editorial spacing and high-fashion magazine cover aesthetics.
+
+Luxury color palette: ivory, champagne gold, blush pink, pearl white, soft beige.
+
+Ultra-detailed photorealistic rendering, premium depth of field, natural shadows, realistic materials, luxury advertising campaign quality, clean composition, sophisticated styling, no distortions, no AI artifacts, masterpiece quality.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2065675417772863517) | 2026-06-13
+
+---
+
+### 🎴 例 1408：超奢华黑白时尚大片
+
+![超奢华黑白时尚大片](../../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超奢华时尚大片，黑白摄影，自信的 {argument name="subject" default="男士"} 身着 {argument name="clothing" default="定制黑色大衣并佩戴深色墨镜"} 站在 {argument name="car" default="流线型黑色豪华轿车"} 旁，采用略微俯视的角度拍摄，电影级布光，高对比度阴影，高端汽车广告风格，极简奢华品牌美学，深色纹理摄影棚背景，车漆上的光泽反射，细节锐利，精致的男性魅力，财富与成功的氛围，Vogue 杂志封面构图，奢华生活方式广告，超写实，专业摄影，85mm 镜头，浅景深，戏剧性对比，顶级时尚杂志质感，照片级真实，8K。
+
+[English]
+Ultra-luxury fashion editorial, monochrome black and white photography, confident {argument name="subject" default="man"} wearing a {argument name="clothing" default="tailored black overcoat and dark sunglasses"} standing beside a {argument name="car" default="sleek black luxury sedan"}, photographed from a slightly elevated angle, cinematic lighting, high contrast shadows, premium automotive advertisement style, minimalist luxury branding aesthetic, dark textured studio backdrop, glossy reflections on car paint, sharp details, sophisticated masculine energy, wealth and success mood, Vogue magazine cover composition, luxury lifestyle campaign, ultra-realistic, professional photography, 85mm lens, shallow depth of field, dramatic contrast, premium fashion magazine quality, photorealistic, 8K.
+```
+
+**来源：** [@Weinberg](https://x.com/weiinberg/status/2065665143200162279) | 2026-06-13
+
+---
+
+### 🎴 例 1418：Editorial Studio 生日海报
+
+![Editorial Studio 生日海报](../../images/Editorial%20Studio%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+奢华生日海报，3:4 竖屏比例，高级 Editorial Studio 风格。米白色纹理墙面背景，带有细腻颗粒感。巨大的雕刻感 3D 数字 {argument name="age" default="[AGE]"}，带有深邃阴影。内部装饰：优雅的淡粉色气球、白色花卉及奢华花艺布置。{argument name="childs age" default="[AGE]"} 岁的儿童身着简洁的象牙白/淡色系服装，表情自然欢快。面部和手部略微从数字中探出，呈现 3D 视觉效果。温暖的金色阳光，柔和的轮廓光，超写实皮肤质感，电影级阴影，高端杂志质感。极简排版：{argument name="name" default="[NAME]"} CHAPTER {argument name="age label" default="[AGE]"}  365 MORE DAYS OF WONDER。简洁、奢华、照片级真实感，无畸变。
+
+[English]
+Luxury birthday poster, 3:4 portrait, premium editorial studio style. Off-white textured wall background with soft grain. Large carved 3D number {argument name="age" default="[AGE]"} with deep shadows. Inside: elegant pastel pink balloons, white flowers, luxury floral arrangement. Happy {argument name="childs age" default="[AGE]"}-year-old child in clean ivory/pastel outfit, natural joyful expression. Face and hand slightly popping out of number for 3D effect. Warm golden sunlight, soft rim light, ultra-realistic skin, cinematic shadows, high-end magazine look. Minimal typography: {argument name="name" default="[NAME]"} CHAPTER {argument name="age label" default="[AGE]"}  365 MORE DAYS OF WONDER. Clean, luxury, photorealistic, no distortion.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2065640238698172748) | 2026-06-13
+
+---
+
+### 🎴 例 1421：奢华 3D 雕刻风格足球海报
+
+![奢华 3D 雕刻风格足球海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+专业奢华足球海报，4:5 比例。整个画面由高级奢华纸张纹理墙面填充。墙面上精准雕刻出巨大的数字“{argument name="jersey number" default="[球员球衣号码]"}”，具有明显的深度感和逼真的内部阴影。数字内部：彩色气球、金色纸屑、精致的白色花朵、优雅的庆典布置，高级感造型。{argument name="player name" default="[球员姓名]"} 保留了参考面部特征，身穿 {argument name="national team" default="[国家队名称]"} 国家队 {argument name="jersey number" default="[球员球衣号码]"} 号球衣，与足球自然互动庆祝。脸部、肩膀、一只手和一只脚延伸至数字外，营造出逼真的 3D 效果。单侧戏剧性电影感金色阳光，锐利的轮廓光，照片级真实皮肤质感，顶级摄影棚摄影，超写实，焦点清晰。墙面排版：{argument name="player name" default="[球员姓名]"}，{argument name="national team" default="[国家队名称]"}，[在此处输入你的标题]。简洁极简布局，奢华体育杂志封面美学，高端艺术指导，逼真阴影，自然色彩，无虚假灯光，无 AI 伪影。
+
+[English]
+Professional luxury football poster, 4:5 ratio. Entire frame filled with a premium luxury paper textured wall. Large number "{argument name="jersey number" default="[PLAYER JERSEY NUMBER]"}" precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: colorful balloons, golden confetti, subtle white flowers, elegant celebration arrangement, premium styling. {argument name="player name" default="[NAME OF PLAYER]"} with preserved reference facial features, wearing {argument name="national team" default="[NATIONAL TEAM NAME]"} national team jersey number {argument name="jersey number" default="[PLAYER JERSEY NUMBER]"}, celebrating naturally with football. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Dramatic cinematic golden sunlight from one side, sharp rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: {argument name="player name" default="[NAME OF PLAYER]"}, {argument name="national team" default="[NATIONAL TEAM NAME]"}, [YOUR CAPTION HERE]. Clean minimalist layout, luxury sports magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no fake lighting, no AI artifacts.
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2065637101383647403) | 2026-06-13
+
+---
+

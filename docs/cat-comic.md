@@ -2438,3 +2438,83 @@ Aspect ratio 4:5 is mandatory.
 
 ---
 
+### 🎬 例 1360：世界杯漫画风足球海报
+
+![世界杯漫画风足球海报](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%BC%AB%E7%94%BB%E9%A3%8E%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 2026 年 FIFA 世界杯足球明星创作一张黑白漫画风格海报，主角为 {argument name="character name" default="Hakan Çalhanoğlu"}，以英勇的 Q 版中场球员形象带球冲刺。
+
+画布：1:1 正方形海报，高对比度单色水墨，密集的漫画网点阴影，速度线，爆炸特效，粗黑轮廓线，夸张的漫画字体，充满活力的球星卡构图。
+
+主体：将足球运动员置于画面中心，呈现动态奔跑姿势，大头小身，身穿深色土耳其国家队队服，胸前带有星月徽章，球衣和短裤上印有号码 {argument name="jersey number" default="10"}，带有耐克风格的钩子标志、深色球袜、球鞋，脚下控球。发型尖锐且富有戏剧性。在面部放置一个简单的灰色垂直长方形遮挡块，遮住大部分面部特征，但保留头发、耳朵、身体和队服可见。在头部上方添加一个小型的土耳其盾形徽章，包含星月、足球和“1923”字样。
+
+布局：顶部放置巨大的中心标题，用粗体大字写着“{argument name="headline surname" default="ÇALHANOĞLU"}”，并带有投影效果。上方是一个锯齿状的对话框，写着“THE MAESTRO!”。左上角放置 2026 年 FIFA 世界杯标志。在球员身后使用一个巨大的浅色“26”字样，并从中心向外辐射出爆炸光线。
+
+漫画标注：在球员周围包含 8 个漫画文字爆炸框：1) 左上角爆炸框：“VISION! TECHNIQUE! PRECISION! PERFECTION!!!”；2) 左侧对角线音效：“BOOM!”；3) 右上角爆炸框：“THE PITCH IS HIS CANVAS!”；4) 右侧中间爆炸框：“THE TURKISH MAESTRO!”；5) 右侧中下方爆炸框：“WHAT A LEGEND!!”; 6) 右下角巨大的倾斜爆炸框：“UNSTOPPABLE!!”; 7) 右下角爆炸框：“SET PIECES ARE ART!”; 8) 顶部中心爆炸框：“THE MAESTRO!”。
+
+信息卡：在左下角添加一张长方形球员卡，文字内容为“HAKAN ÇALHANOĞLU”、“10 | MIDFIELDER”、“TÜRKİYE”、“THE GENERAL OF MIDFIELD!”，底部带有三颗星。
+
+底部时间轴：沿底部边缘包含 6 个小型世界杯图标徽章及标签：1) 2002 FIFA WORLD CUP (KOREA/JAPAN), 2) 2006 FIFA WORLD CUP (GERMANY), 3) 2010 FIFA WORLD CUP (SOUTH AFRICA), 4) 2014 FIFA WORLD CUP (BRAZIL), 5) 2018 FIFA WORLD CUP (RUSSIA), 6) 2022 FIFA WORLD CUP (QATAR 2022)。
+
+风格限制：仅限纯黑、纯白和灰度；无色彩。构图要极其丰富且具有庆典感，融合日本体育漫画封面与复古足球集换式卡片风格。使用清晰的线条、网点、墨迹、碎片、动作线以及醒目易读的字体。在背景大数字的右侧附近添加一个小的艺术家签名。
+
+[English]
+Goal: Create a black-and-white manga comic poster for a FIFA World Cup 2026 football star, featuring {argument name="character name" default="Hakan Çalhanoğlu"} as a heroic chibi-style midfielder sprinting forward with a ball.
+
+Canvas: Square 1:1 poster, high-contrast monochrome ink, dense manga halftone shading, speed lines, explosion bursts, thick black outlines, exaggerated comic typography, energetic sports-card composition.
+
+Main subject: Center the footballer in a dynamic running pose, oversized head and compact athletic body, wearing a dark Türkiye national team kit with crescent-and-star chest badge, jersey number {argument name="jersey number" default="10"} on the shirt and shorts, Nike-style swoosh, dark socks, cleats, and a football at his feet. Hair is spiky and dramatic. Place a plain vertical gray rectangular censor/placeholder block over the face, covering most facial features while leaving hair, ears, body, and kit visible. Add a small Türkiye shield crest above the head with crescent, star, football, and “1923”.
+
+Layout: Huge central headline at the top reading “{argument name="headline surname" default="ÇALHANOĞLU"}” in massive block letters with drop shadow. Above it, a jagged caption bubble reads “THE MAESTRO!” Put the FIFA World Cup 2026 logo at top left. Use a giant pale “26” shape behind the player, plus explosive rays radiating from the center.
+
+Comic callouts: Include exactly 8 comic text bursts around the player: 1) left upper burst: “VISION! TECHNIQUE! PRECISION! PERFECTION!!!”; 2) left diagonal sound effect: “BOOM!”; 3) right upper burst: “THE PITCH IS HIS CANVAS!”; 4) right middle burst: “THE TURKISH MAESTRO!”; 5) right lower-middle burst: “WHAT A LEGEND!!”; 6) lower right huge slanted burst: “UNSTOPPABLE!!”; 7) bottom right burst: “SET PIECES ARE ART!”; 8) top center burst: “THE MAESTRO!”.
+
+Info card: Add one rectangular player card at lower left with the text “HAKAN ÇALHANOĞLU”, “10 | MIDFIELDER”, “TÜRKİYE”, “THE GENERAL OF MIDFIELD!”, and three stars along the bottom.
+
+Bottom timeline: Along the bottom edge, include exactly 6 small World Cup icon badges with labels: 1) 2002 FIFA WORLD CUP (KOREA/JAPAN), 2) 2006 FIFA WORLD CUP (GERMANY), 3) 2010 FIFA WORLD CUP (SOUTH AFRICA), 4) 2014 FIFA WORLD CUP (BRAZIL), 5) 2018 FIFA WORLD CUP (RUSSIA), 6) 2022 FIFA WORLD CUP (QATAR 2022).
+
+Style constraints: Pure black, white, and grayscale only; no color. Make the composition extremely busy and celebratory, like a Japanese sports manga cover mixed with a vintage football trading card. Use crisp linework, halftone dots, ink splatters, debris, action rays, and bold readable lettering. Add a small artist signature near the right side of the large background number.
+```
+
+**来源：** [@mertzabun.ai](https://x.com/mertzabunai/status/2065820291809358226) | 2026-06-13
+
+---
+
+### 🎬 例 1380：生活方式照片墙拼贴
+
+![生活方式照片墙拼贴](../../images/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E7%85%A7%E7%89%87%E5%A2%99%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个充满活力的 {argument name="format" default="3×3 网格照片拼贴"}，包含九个完全独特且富有表现力的同一女孩的瞬间。每一格画面都自然地捕捉到不同的情绪、姿态、表情、肢体语言以及与镜头的互动，营造出一种在 Threads 上分享的真实生活方式照片墙（photo dump）的感觉。
+场景捕捉了一个美丽的夏日，明亮的蓝天、蓬松的云朵以及温暖的金色阳光投射出清晰的自然阴影。柔和的虚化效果、闪烁的高光、漂浮的花瓣以及反射着阳光的肥皂泡，营造出梦幻般的氛围。
+角色身着 {argument name="clothing" default="柔和淡紫色超大款针织毛衣，搭配飘逸的及踝碎花长裙"}，佩戴叠层银色项链、精致配饰和白色运动鞋。微风拂过，带来头发和衣物的自然律动。
+每一张图片都应显得随性且各不相同，包含抓拍的微笑、与镜头的俏皮互动、沉思的表情、回眸一瞥、手势、动态抓拍、行走瞬间、坐姿、仰望、自然大笑、手持鲜花、与泡泡互动以及时尚美妆人像。无重复的姿势或表情。
+拼贴画在 35mm 广角全身摄影和 85mm 特写美妆人像之间自由切换，结合了低角度拍摄、平视视角、俯视视角、亲密特写和动态生活方式构图。
+美丽的 {argument name="setting" default="繁花盛开的花园、盛开的树木、白色栅栏、漂浮的花瓣、梦幻般的阳光"} 以及柔和的粉彩色调，营造出高级的韩系春夏氛围。
+以超写实的韩系时尚摄影、奢华生活方式杂志质感、高端社交媒体营销美学呈现，具备逼真的皮肤纹理、真实的织物细节、自然的头发律动、电影级景深、高级色彩分级、极具分享价值的 Threads 美学、青春优雅、快乐回忆、大师级构图，超精细 2K 分辨率。
+整体构图应如同完美一天中捕捉到的真实快乐回忆合集，每一格画面都在讲述不同的故事，同时保持视觉上的完全和谐。
+负面提示词：重复的姿势、重复的表情、短裙、迷你裙、露脐装、露腿、低质量、模糊的脸、糟糕的解剖结构、多余的手指、扭曲的手部、卡通、插画、水印、Logo、文字、色彩过饱和、比例不真实。
+
+[English]
+A vibrant {argument name="format" default="3×3 grid photo collage"} containing nine completely unique and expressive moments of the same girl. Each frame naturally captures a different mood, gesture, expression, body language, and camera interaction, creating the feeling of a real lifestyle photo dump shared on Threads.
+The scene captures a beautiful summer day with a bright blue sky, fluffy clouds, and warm golden sunlight producing crisp natural shadows. Soft bokeh, sparkling highlights, floating flower petals, and soap bubbles reflecting sunlight create a dreamy atmosphere.
+The character wears a {argument name="clothing" default="soft pastel lavender oversized knitted sweater paired with a flowing ankle-length floral maxi skirt"}, layered silver necklaces, delicate accessories, and white sneakers. A gentle breeze creates natural movement in the hair and clothing.
+Every image should feel spontaneous and different, featuring a mix of candid smiles, playful interactions with the camera, thoughtful expressions, over-the-shoulder glances, hand gestures, movement shots, walking moments, sitting poses, looking upward, laughing naturally, holding flowers, interacting with bubbles, and editorial beauty portraits. No repeated poses or repeated expressions.
+The collage freely alternates between 35mm wide-angle full-body photography and 85mm close-up beauty portraits, combining low-angle shots, eye-level perspectives, top-down views, intimate close-ups, and dynamic lifestyle compositions.
+Beautiful {argument name="setting" default="flowering gardens, blooming trees, white fences, floating petals, dreamy sunshine"}, and soft pastel colors create a premium Korean spring-summer atmosphere.
+Rendered in ultra-realistic Korean editorial photography, luxury lifestyle magazine quality, premium social media campaign aesthetics, photorealistic skin texture, realistic fabric details, natural hair movement, cinematic depth of field, luxury color grading, highly shareable Threads aesthetic, youthful elegance, joyful memories, masterpiece composition, ultra-detailed 2K.
+The overall composition should feel like a collection of authentic happy memories captured throughout a perfect day, with every panel telling a different story while maintaining complete visual harmony.
+Negative Prompt: duplicate poses, repeated expressions, short skirt, mini skirt, cropped outfit, exposed legs, low quality, blurry face, bad anatomy, extra fingers, distorted hands, cartoon, illustration, watermark, logo, text, oversaturated colors, unrealistic proportions.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2065766750894129329) | 2026-06-13
+
+---
+

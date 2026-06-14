@@ -2979,3 +2979,39 @@ A highly detailed, cinematic film noir masterpiece in the style of classic 1940s
 
 ---
 
+### 🧍 例 1402：皮克斯风格 CGI 角色冲刺
+
+![皮克斯风格 CGI 角色冲刺](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20CGI%20%E8%A7%92%E8%89%B2%E5%86%B2%E5%88%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+来自参考图 1 的 {argument name="character" default="写实角色"}（请使用上传的照片作为面部参考，并保留两张图片中完全一致的面部特征、脸型、肤色、发型和身份）正在全速冲刺，身体前倾，脸上带着强烈而兴奋的表情。他穿着参考图中看到的现实服装。他向 {argument name="version" default="微型 3D 皮克斯风格版本"} 的图片 2 伸出一只手。这个微缩模型是一个风格化、玩具般的 CGI 人偶，表情夸张且滑稽地惊慌失措，在卡通化的人行道上迈着小小的动画腿疯狂奔跑。“环境” 一个完全以皮克斯动画电影细腻、多彩且迷人的 3D CGI 风格渲染的 {argument name="environment" default="繁华城市街道"}。街道两旁是风格化、异想天开的卡通建筑、圆润的动画汽车和欢快的卡通行人。图片比例为 9:16。4k
+
+[English]
+The {argument name="character" default="photorealistic character"} from the reference image 1(Use the uploaded photos as the facial reference and preserve the exact facial features, face shape, skin tone, hairstyle, and identity of both images.)image 1 is sprinting at full speed, body leaning forward, with an intense and euphoric expression on his face. He is wearing his real-world outfit as seen in the reference. He extends one hand toward a {argument name="version" default="tiny, 3D Pixar-style version"} of image 2. The miniature is a stylized, toy-like CGI figure with an exaggerated, comically panicked expression, running wildly ahead on tiny animated legs over a cartoonish pavement. "Environment" A {argument name="environment" default="bustling city street"} rendered entirely in the detailed, colorful, and charming 3D CGI style of a Pixar animated film. Stylized, whimsical cartoon buildings, rounded animated cars, and cheerful cartoon pedestrians line the street. Image expect ratio is 9:16. 4k
+```
+
+**来源：** [@MoreD](https://x.com/MoreDhax/status/2065693505586884986) | 2026-06-13
+
+---
+
+### 🧍 例 1429：沙漠时尚大片人像
+
+![沙漠时尚大片人像](../../images/%E6%B2%99%E6%BC%A0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实奢华色彩时尚大片，主角为 {argument name="subjects" default="一对印度情侣"}，置身于 {argument name="location" default="壮丽的沙漠"} 中心，拍摄于 {argument name="lighting" default="黄金时刻"}。女性的面部特征、面部结构、眼睛、嘴唇以及独特的个人魅力均忠实于参考图。
+
+[English]
+Ultra-realistic luxury color fashion editorial featuring a beautiful {argument name="subjects" default="Indian couple"} in the heart of a {argument name="location" default="majestic desert"} during the {argument name="lighting" default="golden hour"}. The woman's facial identity, facial structure, eyes, lips, and distinctive beauty are faithfully preserved from the reference
+```
+
+**来源：** [@Mani](https://x.com/manibuildsAI/status/2065618413968580612) | 2026-06-13
+
+---
+

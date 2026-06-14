@@ -1620,3 +1620,21 @@ Visual style: Use dark navy for headings and card headers, muted gold for accent
 
 ---
 
+### 📊 例 1435：用于药物研究的科学信息图
+
+![用于药物研究的科学信息图](../../images/%E7%94%A8%E4%BA%8E%E8%8D%AF%E7%89%A9%E7%A0%94%E7%A9%B6%E7%9A%84%E7%A7%91%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个关于 {argument name="topic" default="LIME 药物设计"} 的详细科学信息图，涵盖其核心概念、作用机制以及在 {argument name="industry" default="药物研究"} 领域的实际应用
+
+[English]
+Create a detailed scientific infographic about {argument name="topic" default="LIME Drug Design"}, covering its core concepts, mechanisms, and real-world applications in {argument name="industry" default="pharmaceutical research"}
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2065586883036578036) | 2026-06-13
+
+---
+

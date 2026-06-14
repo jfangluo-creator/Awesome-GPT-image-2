@@ -2858,3 +2858,81 @@ Create a screenshot of a PVP game inspired by {argument name="game inspiration" 
 
 ---
 
+### 🖥️ 例 1390：“天堂最后一人”奇幻艺术作品
+
+![“天堂最后一人”奇幻艺术作品](../../images/%E2%80%9C%E5%A4%A9%E5%A0%82%E6%9C%80%E5%90%8E%E4%B8%80%E4%BA%BA%E2%80%9D%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极致电影感的奇幻艺术作品，名为 {argument name="artwork title" default="The Last Man in Heaven"}。画面中，一位极其英俊、眼神深邃的留须男子独自伫立在云端之上破败的天堂王国中，下颌线分明，目光锐利。他身着带有金色细节的奢华黑色长款外套，身后背负着残缺的黑色天使羽翼，头上的王冠略有破损，散发出一种既感伤又强大的气场。背景是宏伟废弃的金色天堂之城，巨大的天界城堡、漂浮的废墟、破碎的天使雕像，金色阳光穿透乌云，羽毛飘落，天空充满戏剧张力。氛围感强，电影级光影，超写实，超细节，电影海报美学，体积光，大师之作，史诗级规模，8K 分辨率，黑金配色。
+
+[English]
+An ultra-cinematic fantasy artwork called {argument name="artwork title" default="The Last Man in Heaven"}, an extremely handsome intense bearded man standing alone in a ruined heavenly kingdom above the clouds, sharp jawline, piercing eyes, dark luxury black outfit with golden details, long flowing coat, broken black angel wings behind him, crown slightly damaged, emotional yet powerful aura. Massive abandoned golden heaven city in the background, giant celestial castles, floating ruins, broken angel statues, golden sunlight piercing through dark storm clouds, feathers falling, dramatic sky, emotional atmosphere, cinematic lighting, hyper realistic, ultra detailed, movie poster aesthetic, volumetric lighting, masterpiece, epic scale, 8K, black and gold color palette
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2065727416182747398) | 2026-06-13
+
+---
+
+### 🖥️ 例 1413：奢华时尚三联画肖像
+
+![奢华时尚三联画肖像](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%B8%89%E8%81%94%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的人脸参考图作为严格的身份指南，并以极高的准确度保留其精确的面部特征、比例、肤色、眼形、鼻型、唇形、下颌线以及整体可辨识的身份特征。创作一张超写实的电影级高端时尚大片，{argument name="layout" default="采用 9:16 比例的垂直三联画布局，分为三个横向面板"}，主角为一位 {argument name="subject" default="年轻亚洲女性"}，展现优雅的女性美、柔和的自然造型、奢华审美、佩戴银色圆环耳饰、极简珠宝，以及蓬松柔软的深灰棕色波浪卷发。面板 1：佩戴黑色墨镜的中景四分之三肖像，手部靠近唇边，神情冷静内敛，温暖的金色阳光透过百叶窗投射出条纹阴影，营造电影感氛围。面板 2：墨镜下移后的单眼极致微距特写，呈现高度细节的虹膜、睫毛、湿润的倒影，具有电影级景深和亲密的情感触感。面板 3：摘下墨镜的特写，头部转向光线，手部置于颈后，双唇放松，目光柔和远眺，带有微妙的情感张力。服装：{argument name="outfit" default="烟灰色或柔和米色的定制丝胶混纺衬衫"}，极简优雅的奢华时尚风格，呈现真实的织物纹理。光影：温暖的金色电影级阳光，柔和的室内百叶窗阴影，奢华时尚摄影布光，柔和对比度，透亮肤色高光。相机：DSLR 超写实，85mm 镜头，f/1.4 浅景深，清晰的面部细节，自然的皮肤纹理，8K 画质。调色：暖金色调，柔和的琥珀色高光，电影级对比度，胶片质感，奢华质感。负面提示：无动漫，无 CGI，无塑料感皮肤，无过度磨皮，无面部改变，无畸变，无水印，无文字，无 Logo。
+
+[English]
+Use the uploaded face reference as a strict identity guide and preserve exact facial features, proportions, skin tone, eye shape, nose, lips, jawline, and overall recognizable identity with very high accuracy. Create an ultra-realistic cinematic high-end fashion editorial {argument name="layout" default="vertical triptych portrait in 9:16 format divided into three horizontal panels"} featuring a {argument name="subject" default="young Asian woman"} with elegant feminine beauty, soft natural styling, luxury aesthetic, silver hoop earring, minimal jewelry, and softly voluminous dark ash-brown wavy hair. Panel 1: medium close-up three-quarter portrait wearing black sunglasses, hand near lips, calm introspective expression, warm golden sunlight through window blinds casting striped shadows, cinematic mood. Panel 2: extreme macro close-up of one eye with sunglasses lowered in foreground, highly detailed iris, lashes, moist reflections, cinematic depth, emotional intimate feel. Panel 3: close-up without sunglasses, head turned toward light, hand behind neck, relaxed lips, soft distant gaze, subtle emotional tension. Outfit: {argument name="outfit" default="smoky taupe or muted beige tailored silk-viscose blouse"}, minimal elegant luxury fashion styling, realistic fabric texture. Lighting: warm golden cinematic sunlight, soft indoor blinds shadows, luxury editorial lighting, soft contrast, glowing skin highlights. Camera: DSLR ultra-realism, 85mm lens, f/1.4 shallow depth of field, sharp facial detail, natural skin texture, 8K quality. Color grading: warm golden tones, soft amber highlights, cinematic contrast, filmic glow, luxury finish. Negative: no anime, no CGI, no plastic skin, no over-smoothing, no face change, no distortion, no watermark, no text, no logo.
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2065652906209284292) | 2026-06-13
+
+---
+
+### 🖥️ 例 1415：运动休闲风 Lookbook 拼贴画
+
+![运动休闲风 Lookbook 拼贴画](../../images/%E8%BF%90%E5%8A%A8%E4%BC%91%E9%97%B2%E9%A3%8E%20Lookbook%20%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为女性运动休闲装打造一套简洁的时尚 Lookbook 拼贴画，展示一位模特身穿配套的 {argument name="tracksuit color" default="灰岩蓝"} 连帽衫和工装慢跑裤套装。
+
+画布：宽幅 16:9 横向构图，摄影棚摄影风格，暖米色无缝背景，柔和的漫射光，逼真的面料质感，低调的高级产品目录美学。
+
+布局：使用 5 个由细白网格线分隔的图像面板。画布右半部分为一张大型特写肖像面板，展示模特从胸部到头部的画面，紧凑裁剪，突出超大连帽和肩部缝线。左半部分为四格拼贴：左上角为 1 个全身行走姿势，右上/中为 1 个上半身正面特写，左下角为 1 个坐姿放松姿势，右下/中为 1 个背部四分之三站立视角。
+
+主体细节：模特为年轻女性，拥有 {argument name="hair style" default="深色卷发，扎成凌乱的高丸子头，脸颊两侧留有碎发"}，中等暖色肤色，身材苗条休闲，呈现中性的时尚编辑姿势。在每个面板中，她的面部必须通过平滑的肤色矩形模糊遮罩进行匿名化处理，不显示任何面部特征。
+
+服装细节：展示 4 个主要的穿着元素：1 件带大兜帽、抽绳、罗纹袖口和微落肩设计的超大拉链连帽衫；1 条配套的慢跑风工装运动裤，带有弹性袖口和明显的侧边工装口袋；1 双厚底白色运动鞋；1 条在特写面板中可见的精致链条项链。服装应看起来柔软、舒适且略显宽松。
+
+面板姿势数量：包含 5 个可见姿势：1 个行走全身侧/正面姿势，1 个手靠近衣领的上半身正面姿势，1 个盘腿坐姿且单膝抬起，1 个展示兜帽和工装口袋的背部四分之三站立姿势，以及 1 个右侧大型特写肖像裁剪。
+
+视觉风格：逼真的高端摄影棚时尚摄影，特写镜头具有浅景深，清晰的缝线和抓绒质感，地面有自然阴影，米色/灰褐色背景，无 Logo，无文字，无水印。保持拼贴画整洁且具有编辑感，如同 {argument name="brand mood" default="极简舒适街头风"} 的服装品牌产品宣传照。
+
+[English]
+Goal: Create a studio fashion lookbook collage for a women's casual streetwear tracksuit, emphasizing fabric, fit, and multiple poses.
+
+Canvas: Wide horizontal 16:9 image, clean editorial layout with thin white dividers between panels. Use a warm beige seamless studio background, soft diffused lighting, realistic photography, natural shadows, high detail.
+
+Layout: Use exactly 5 photo panels. Panel 1 is a tall left panel showing a full-body walking pose. Panel 2 is a small upper-middle portrait crop from waist to head. Panel 3 is a lower-left seated full-body pose. Panel 4 is a lower-middle back/three-quarter view from thighs to head. Panel 5 is a large right-side close-up portrait crop occupying about half the canvas, showing the hoodie shoulder, hood, neckline, hair, and upper torso.
+
+Subject details: A young adult woman model with {argument name="hair style" default="dark brown curly hair in a messy high bun with loose tendrils"}, wearing a matching {argument name="tracksuit color" default="dusty blue"} oversized hoodie and jogger cargo sweatpants. The hoodie has a large padded hood, dropped shoulders, ribbed cuffs, metal-tipped drawstrings, and soft fleece texture. The joggers have elastic cuffs, relaxed fit, and cargo-style side pockets. She wears {argument name="shoes" default="chunky white sneakers"} and subtle small earrings with a delicate necklace visible in the close-up.
+
+Panel pose count and descriptions: Include exactly 5 distinct poses: 1) full-body side walking pose with one foot forward, 2) upper-body front pose with one hand near the hoodie drawstring, 3) seated floor pose with one knee raised and one leg folded, 4) rear three-quarter standing pose showing the back of the hoodie and cargo pocket, 5) large close-up three-quarter portrait showing the hood, shoulder seam, drawstrings, and tousled hair.
+
+Face treatment: In every panel, cover the model's face with a simple soft-edged rectangular skin-toned blur block, preserving the anonymous editorial styling. Do not show facial features.
+
+Visual style: Premium fashion e-commerce editorial photography, neutral warm background, realistic textile detail, clean white collage borders, balanced composition, no text, no logos, no watermark. Make the outfit the focus, with cohesive color grading and consistent studio lighting.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2065643954264305916) | 2026-06-13
+
+---
+
