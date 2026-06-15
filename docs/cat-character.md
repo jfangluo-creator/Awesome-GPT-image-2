@@ -3015,3 +3015,253 @@ Ultra-realistic luxury color fashion editorial featuring a beautiful {argument n
 
 ---
 
+### 🧍 例 1445：电影级宠物照片增强器
+
+![电影级宠物照片增强器](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其增强并放大为超高清的电影级照片。100% 保留主体的特征、姿势、取景和整体构图，包括前景表面后方的小猫以及纯蓝色背景。恢复逼真的微观细节：锐利的眼睛、自然的毛发纹理、细致的胡须、精细的耳朵、微妙的面部特征以及更清晰的景深。在保持图像逼真、高对比度、影棚级质感和自然感的同时，去除模糊、像素化、噪点和压缩伪影。目标设定为 {argument name="image quality" default="8K 超高清电影级"}，并强调 {argument name="detail emphasis" default="锐利的眼睛、毛孔/毛发以及逼真的质感"}；请勿将猫更换为其他动物、改变姿势、添加物体、添加文字或修改构图。
+
+[English]
+Using the provided reference image, enhance and upscale it into an ultra-premium cinematic-quality photo. Preserve the subject's identity, pose, framing, and overall composition 100%, including the kitten behind the foreground surface and the plain blue background. Recover realistic micro-details: sharp eyes, natural fur texture, fine whiskers, detailed ears, subtle facial features, and cleaner depth. Remove blur, pixelation, noise, and compression artifacts while keeping the image photorealistic, high contrast, studio-quality, and natural. Target {argument name="image quality" default="8K ultra-premium cinematic"} with {argument name="detail emphasis" default="sharp eyes, pores/fur, and realistic hair"}; do not change the cat into a different animal, alter the pose, add objects, add text, or modify the composition.
+```
+
+**来源：** [@Geloria](https://x.com/gelorria/status/2066213078165856356) | 2026-06-14
+
+---
+
+### 🧍 例 1451：天体观测台探索者
+
+![天体观测台探索者](../../images/%E5%A4%A9%E4%BD%93%E8%A7%82%E6%B5%8B%E5%8F%B0%E6%8E%A2%E7%B4%A2%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的图片作为面部特征的精确参考。保留面部结构、下颌线、发型、皮肤纹理、面部比例、表情真实感以及整体相似度，确保最大程度的身份还原。
+
+一处令人叹为观止的 {argument name="setting" default="天体观测台"} 漂浮在无尽云海之上，置身于繁星点点的夜空下。一位英俊硬朗的探险家自信地坐在古董木椅上，手持一杯冒着热气的金属咖啡杯，其面部与上传的参考图完美匹配。他身穿一件奢华的 {argument name="outerwear" default="深色皮质风衣"}，内搭风化的探险服，营造出一种永恒的冒险家美学。
+
+他周围环绕着一系列非凡的巨型黄铜望远镜、古董星盘、天体导航仪器、发光的星图、古籍、机械钟、发光的灯笼、复杂的发条装置以及复古科学设备。几只可爱的 {argument name="animals" default="虎斑猫"} 戴着微型飞行员护目镜和探险装备在观测台内漫步，好奇地查看着地图和仪器。
+
+背景中，一座巨大的漂浮城市由相互连接的观测塔组成，耸立在云端之上，通过优雅的桥梁相连，并被成千上万盏温暖的金色灯光照亮。一轮巨大的新月悬挂在天空中，无数繁星在苍穹中闪烁。壮观的云层环绕着建筑，营造出一种宏伟的梦幻氛围。
+
+超写实电影摄影，大师级构图，奇幻现实主义，超精细环境，氛围叙事，体积光月光，温暖的灯笼光，逼真的反射，抛光的黄铜表面，细腻的皮革纹理，复杂的机械工艺，电影级景深，漂浮的尘埃颗粒，浅景深，奶油般虚化，HDR 光效，全局光照，光线追踪反射，专业色彩分级，戏剧性视角，奢华奇幻美学，获奖摄影作品，超清晰对焦，照片级真实，8K，令人屏息的视觉叙事。
+
+关键词：漂浮观测台，天空之城，天体建筑，黄铜望远镜，探险家美学，奇幻现实主义，电影氛围，云中之城，蒸汽朋克奢华，温暖的金色灯光，体积光，超精细，大师之作，最高画质，照片级真实，史诗规模，环境叙事。
+
+负面提示词：模糊，低质量，卡通，动漫，色彩过饱和，面部扭曲，多余肢体，物体重复，解剖结构不真实，手部畸形，细节缺失，水印，文字，Logo，主体裁剪，画框外，塑料感皮肤，CGI 感。
+
+长宽比：9:16
+
+风格强度：超写实 • 电影感 • 奇幻现实主义 • 编辑摄影 • 获奖概念艺术 • 超精细 8K
+
+[English]
+Use the uploaded image as the exact facial identity reference. Preserve facial structure, jawline, hairstyle, skin texture, facial proportions, expression realism, and overall likeness with maximum identity accuracy.
+
+A breathtaking {argument name="setting" default="celestial observatory"} floating high above an endless ocean of clouds under a star-filled night sky. A handsome rugged explorer sits confidently in an antique wooden chair, holding a steaming metal coffee cup, his face perfectly matching the uploaded reference image. He wears a luxurious {argument name="outerwear" default="dark leather trench coat"} layered over weathered explorer clothing, creating a timeless adventurer aesthetic.
+
+Surrounding him is an extraordinary collection of massive brass telescopes, antique astrolabes, celestial navigation instruments, illuminated star charts, ancient books, mechanical clocks, glowing lanterns, intricate clockwork devices, and vintage scientific equipment. Several adorable {argument name="animals" default="tabby cats"} wearing miniature aviator goggles and explorer gear roam the observatory, curiously inspecting maps and instruments.
+
+In the background, an immense floating city of interconnected observatory towers rises above the clouds, connected by elegant bridges and illuminated by thousands of warm golden lights. A giant crescent moon hangs in the sky while countless stars sparkle across the heavens. Dramatic cloud formations surround the structures, creating a majestic dreamlike atmosphere.
+
+Ultra-realistic cinematic photography, masterpiece composition, fantasy realism, hyper-detailed environment, atmospheric storytelling, volumetric moonlight, warm lantern glow, realistic reflections, polished brass surfaces, detailed leather textures, intricate mechanical craftsmanship, cinematic depth, floating dust particles, shallow depth of field, creamy bokeh, HDR lighting, global illumination, ray-traced reflections, professional color grading, dramatic perspective, luxury fantasy aesthetic, award-winning photography, ultra-sharp focus, photorealistic, 8K, breathtaking visual narrative.
+
+Keywords: floating observatory, sky kingdom, celestial architecture, brass telescope, explorer aesthetic, fantasy realism, cinematic atmosphere, cloud city, steampunk luxury, warm golden lights, volumetric lighting, ultra-detailed, masterpiece, best quality, photorealistic, epic scale, environmental storytelling.
+
+Negative Prompt: blurry, low quality, cartoon, anime, oversaturated colors, distorted face, extra limbs, duplicate objects, unrealistic anatomy, bad hands, low detail, watermark, text, logo, cropped subject, out of frame, plastic skin, CGI look.
+
+Aspect Ratio: 9:16
+
+Style Strength: Ultra Realistic • Cinematic • Fantasy Realism • Editorial Photography • Award-Winning Concept Art • Hyper Detailed 8K
+```
+
+**来源：** [@WeWant Mars](https://x.com/Madhuribhai/status/2066191635256574395) | 2026-06-14
+
+---
+
+### 🧍 例 1505：动漫旅行角色设定集拼贴画
+
+![动漫旅行角色设定集拼贴画](../../images/%E5%8A%A8%E6%BC%AB%E6%97%85%E8%A1%8C%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为角色和汽车的基础，将其转化为一张生动的日式手绘动漫角色参考拼贴画，背景采用白色素描本风格。保留相同的人物、黑色服装、相机、带有红色座椅的白色敞篷车以及圆形路标，但通过富有表现力的漫画线条、柔和的灰色阴影、可爱的比例、闪光、爱心、音符以及手写日文涂鸦进行重新演绎。
+
+布局：在页面上创建 11 个角色/汽车小插图：
+1. 左上角：佩戴圆形黑色墨镜的大幅半身肖像。
+2. 顶部中央：小型绘图，展示白色敞篷车在路标附近行驶。
+3. 右上角：大幅兴奋微笑的头部肖像。
+4. 中央主体：站在车前的全身站姿，手持相机。
+5. 中左侧：背影坐姿，看向水面/风景，相机放在身旁。
+6. 左侧：小型 Q 版形象，将相机举在脸部附近。
+7. 左下角：小型 Q 版形象，驾驶白色敞篷车。
+8. 下方中央：回头看的半身肖像。
+9. 底部中央：微型 Q 版形象，戴着墨镜静止站立。
+10. 右侧中部：小型 Q 版形象，坐在车旁的折叠椅上。
+11. 右下角：侧面行走姿势，手持相机，带有动态线条。
+
+补充内容：用随性的手写日文笔记、箭头、复选框、微小的爱心、星星、鸟、云朵、音符和充满活力的拟声词填补空白处。在右侧添加一张标题为日文的清单卡片，样式仿照旅行打包备忘录。添加小型装饰性标签，例如 {argument name="main handwritten title" default="ちびロドちゃん"}，{argument name="top praise text" default="最高〜っ!!!"}，以及关于驾驶、咖啡、墨镜和拍照的简短旅行主题笔记。
+
+风格：可爱的单色与柔和色彩漫画素描，松散的黑色墨水轮廓，浅灰色阴影，匹配参考图的有限色彩点缀，俏皮的日记页面构图，布局紧凑且易于阅读。保留参考角色的基本发型、服装轮廓、相机、汽车颜色、红色座椅和路标主题。不要追求写实，使其看起来像是一张充满涂鸦的精致插画角色设定集。
+
+[English]
+Using the provided reference image as the character and car base, transform it into a lively hand-drawn Japanese anime character-reference collage on a white sketchbook-style background. Keep the same person, black outfit, camera, white open-top car with red seats, and round roadside sign recognizable, but reinterpret everything with expressive manga linework, soft gray shading, cute proportions, sparkles, hearts, musical notes, and handwritten Japanese annotation doodles.
+
+Layout: Create exactly 11 character/car vignettes around the page:
+1. A large upper-left bust portrait wearing round black sunglasses.
+2. A small top-center drawing of the white convertible driving near the road sign.
+3. A large upper-right excited smiling head portrait.
+4. The main central full-body standing pose in front of the car, holding the camera.
+5. A mid-left seated back-view scene looking toward the water/landscape with the camera beside them.
+6. A small left chibi holding the camera up near their face.
+7. A lower-left chibi driving the white convertible.
+8. A lower-center bust portrait looking over the shoulder.
+9. A tiny bottom-center chibi standing still with sunglasses.
+10. A right-middle chibi seated in a folding chair beside the car.
+11. A lower-right walking side-view pose holding the camera, with motion lines.
+
+Additions: Fill the empty space with casual handwritten Japanese notes, arrows, checkboxes, tiny hearts, stars, birds, clouds, music notes, and energetic sound-effect marks. Include one checklist card on the right titled in Japanese, styled like a travel packing memo. Add small decorative labels such as {argument name="main handwritten title" default="ちびロドちゃん"}, {argument name="top praise text" default="最高〜っ!!!"}, and short travel-themed notes about driving, coffee, sunglasses, and taking photos.
+
+Style: Cute monochrome-and-muted-color manga sketch, loose black ink outlines, pale gray shadows, limited color accents matching the reference, playful diary-page composition, dense but readable spacing. Preserve the reference character’s general hairstyle, clothing silhouette, camera, car color, red seats, and sign motif. Do not make it photorealistic; make it look like a polished illustrated character sheet full of doodles.
+```
+
+**来源：** [@あきを](https://x.com/akiwo_pome/status/2066107458104561784) | 2026-06-14
+
+---
+
+### 🧍 例 1508：与 Cristiano Ronaldo 的合影
+
+![与 Cristiano Ronaldo 的合影](../../images/%E4%B8%8E%20Cristiano%20Ronaldo%20%E7%9A%84%E5%90%88%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的图片作为唯一的面部特征参考，并开启最高强度的身份保留功能。请勿修改、美化、重塑或重构我的面部结构。请精准保留我在参考图中的眼睛、鼻子、下颌线、笑容形状、肤色、发际线、发型、面部比例以及整体身份特征。
+
+请创作一张超逼真的高质量照片，画面内容为我与 {argument name="celebrity" default="Cristiano Ronaldo"} 在世界杯比赛庆祝后的夜晚足球场上并肩站立。{argument name="celebrity" default="Ronaldo"} 身穿官方的 {argument name="team jersey" default="2026 年葡萄牙世界杯球衣"}，我也穿着同款葡萄牙球衣。{argument name="celebrity" default="Ronaldo"} 将手臂搭在我的肩膀上，摆出友好的庆祝姿势，并自然地对着镜头微笑。请让我呈现出自信且自然的浅笑，同时确保完全保留我原本的面部特征和身份。
+
+这张照片应呈现出由专业体育摄影师拍摄的真实赛后球场照片质感。画面需包含逼真的球场泛光灯、背景中模糊的欢呼人群、电影级的体育氛围、真实的皮肤纹理、自然光影、逼真的织物细节、细腻的景深效果以及超精细的 4K 真实感。
+
+保持构图自然可信，就像与 {argument name="celebrity" default="Cristiano Ronaldo"} 的真实粉丝合影瞬间。拒绝卡通化的 AI 感，拒绝面部扭曲，拒绝过度锐化，拒绝不切实际的对称感。保持纪录片风格的真实感，确保比例准确且情感真实。
+
+[English]
+Use the uploaded image as the ONLY facial identity reference with STRICT identity preservation enabled at maximum strength. Do not modify, beautify, reshape, or regenerate my facial structure. Preserve my exact eyes, nose, jawline, smile shape, skin tone, hairline, hairstyle, facial proportions, and overall identity exactly as in the reference image.
+
+Create an ultra-realistic high-quality photo of me standing beside {argument name="celebrity" default="Cristiano Ronaldo"} on a football stadium field at night after a World Cup match celebration. {argument name="celebrity" default="Ronaldo"} is wearing the official {argument name="team jersey" default="Portugal 2026 FIFA World Cup jersey"}. I am also wearing a matching Portugal jersey. {argument name="celebrity" default="Ronaldo"} has his arm around my shoulder in a friendly celebratory pose while smiling naturally at the camera. Make me smirk confidently and genuinely while still preserving my exact facial features and identity.
+
+The image should feel like a real post-match stadium photograph captured by a professional sports photographer. Include realistic stadium floodlights, blurred cheering crowd in the background, cinematic sports atmosphere, authentic skin texture, natural lighting, realistic fabric details, subtle depth of field, and ultra-detailed 4K realism.
+
+Keep the composition natural and believable like a real fan moment with {argument name="celebrity" default="Cristiano Ronaldo"}. No cartoonish AI look, no face distortion, no excessive sharpening, no unrealistic symmetry. Maintain documentary-style realism with accurate proportions and authentic emotions.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2066100679517827580) | 2026-06-14
+
+---
+
+### 🧍 例 1527：GPT Image 2 面部特征保持肖像
+
+![GPT Image 2 面部特征保持肖像](../../images/GPT%20Image%202%20%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E4%BF%9D%E6%8C%81%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的面部参考图作为精确的面部参考，实现 100% 的面部特征保持和全脸锁定。请勿更改脸型、眼睛、眉毛、鼻子、嘴唇、肤色、发型、发际线、表情、年龄或任何独特的面部特征。仅替换面部为上传的参考图，同时保持其他所有元素与原始场景完全一致。
+一位美丽的年轻女性坐在户外郁郁葱葱的花园庭院中，身着 {argument name="dress style" default="粉白相间的传统花卉服饰"}，搭配亮粉色披肩（dupatta）、优雅的长款耳坠（jhumka）、手镯，妆容自然柔和。一只手轻轻托腮，另一只手搭在肩上，坐姿与参考图完全一致。周围环绕着绿色植物、花卉，光线为柔和的自然光。暖色调金黄色调，奶油般虚化的背景，浅景深，超写实摄影，高细节皮肤纹理，单反相机画质，电影级肖像，色彩鲜艳，专业时尚摄影，85mm 镜头，f/1.8，8K 分辨率。
+仅使用上传参考图中的面部。保持与参考图完全一致的姿势、服装、背景、光影、构图、拍摄角度和表情。
+
+[English]
+Use the uploaded face reference image as the exact face reference with 100% facial identity preservation and full face lock. Do not change the face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, expression, age, or any unique facial features. Replace only the face with the uploaded reference while keeping everything else exactly the same as the original scene.
+A beautiful young woman sitting outdoors in a lush garden courtyard, wearing a {argument name="dress style" default="white and pink floral traditional dress"} with a bright pink dupatta, elegant long jhumka earrings, bangles, soft natural makeup. One hand gently resting on her cheek and the other across her shoulder, seated pose identical to the reference. Surrounded by green plants, flowers, and soft natural daylight. Warm golden color grading, creamy bokeh background, shallow depth of field, ultra-realistic photography, highly detailed skin texture, DSLR quality, cinematic portrait, vibrant colors, professional fashion photography, 85mm lens, f/1.8, 8K resolution.
+Face from uploaded reference only. Keep the same pose, outfit, background, lighting, composition, camera angle, and expression exactly as shown in the reference image.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2066034320155070677) | 2026-06-14
+
+---
+
+### 🧍 例 1550：单轨列车胶囊旅行场景
+
+![单轨列车胶囊旅行场景](../../images/%E5%8D%95%E8%BD%A8%E5%88%97%E8%BD%A6%E8%83%B6%E5%9B%8A%E6%97%85%E8%A1%8C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[主体] 参考图 1 和图 2
+
+[主体的姿势与表情]
+
+主体坐在小型且迷人的 {argument name="vehicle" default="单轨列车胶囊"} 内的木质座椅上，目视前方。主体佩戴黑色长方形墨镜，表情可爱地嘟着嘴（仿佛在亲吻），右手在胸前轻轻握着一台小型银色数码相机。
+
+[主体的穿搭]
+
+主体穿着一件明亮的 {argument name="jacket color" default="淡天蓝色"} 绗缝衬衫夹克，配有棕色纽扣装饰，下身搭配浅蓝色牛仔裤。膝盖上放着一个舒适的灰色绗缝抽绳小包。
+
+[发型与妆容细节]
+
+主体留着 {argument name="hair style" default="黑色长卷发"}，发型自然蓬松，侧边头发用一个小巧的蓝色抓夹固定，作为清爽的点缀。妆容主打透明感十足的亮泽底妆，嘟起的嘴唇上涂抹着水润活泼的珊瑚粉色唇釉。
+
+[光影与光线方向]
+
+午后温暖的黄色自然光从胶囊右侧窗户斜射进来。这种光线在人物脸部左侧和衬衫表面投下柔和的阴影，使整个内部空间充满了温暖而舒适的氛围。
+
+[质感与色彩基调]
+
+衬衫、大海与天空的各种蓝色调，与外部胶囊鲜艳的黄色形成了互补色对比。绗缝衬衫的蓬松质感与木质内饰的温暖质感相得益彰，营造出一种充满旅行兴奋感与放松感的明快氛围。
+
+[胶片、相机镜头景深与角度]
+
+使用 f/2.8 光圈、1/320 秒快门速度、ISO 200 和 35mm 定焦镜头拍摄。采用正面平视角度，稳定地捕捉了狭窄胶囊内人物的上半身和前方桌子。应用了浅景深效果，使人物形象非常清晰，而窗外可见的轨道和其他胶囊则呈现出柔和的虚化效果。
+
+[背景元素（可选）]
+
+海岸单轨列车（空中胶囊）内部，采用白色和木色调设计。头顶上方有一个标有数字“08”的椭圆形标志，左上角安装了一个显示轨道的小型监视器。窗外，一辆黄色的“78”号胶囊正行驶在空中轨道上，远处是蔚蓝的大海和绿色的松林。前方木桌上放着一部智能手机和一个相机包。
+
+[签名] 右下角有一个小型的 Meta 旗下 Threads 标志，上方用白色小字草书写着“CHAse”作为签名。
+
+[English]
+[인물] 이미지1, 이미지 2참조
+
+[인물의 포즈 및 표정]
+
+작고 아기자기한 {argument name="vehicle" default="모노레일 캡슐"} 내부의 원목 좌석에 앉아 정면을 바라보고 있습니다. 검은색 사각형 선글라스를 착용한 채 입술을 귀엽게 내민 오므린 표정(뽀뽀하는 듯한 표정)을 짓고 있으며, 오른손에는 작은 실버 색상의 컴팩트 디카를 들어 가슴 높이에서 가볍게 쥐고 있습니다.
+
+[인물 의상]
+
+갈색 단추가 포인트인 화사한 {argument name="jacket color" default="파스텔톤 하늘색"}의 패딩 셔츠 재킷을 입고 있으며, 하의로는 연청 데님 팬츠를 매치했습니다. 무릎 위에는 회색의 포근한 퀼팅 복조리 형태의 드로우스트링 파우치 가방이 놓여 있습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+자연스러운 볼륨감이 살아있는 {argument name="hair style" default="긴 검은색 웨이브"} 헤어스타일로, 옆머리의 일부를 파란색 작은 집게핀으로 고정해 청량한 포인트를 주었습니다. 메이크업은 투명하고 화사한 피부 표현을 바탕으로, 오므린 입술에 생기 있는 핑크 코랄빛 립을 촉촉하게 발랐습니다.
+
+[조명 및 빛 방향]
+
+늦은 오후의 따스하고 노란빛을 띤 자연 채양광이 캡슐 내부의 우측 창문을 통해 사선으로 비추고 있습니다. 이 빛이 인물의 얼굴 좌측과 셔츠 표면에 부드러운 음영을 만들어내며 내부 공간을 포근하고 아늑한 분위기로 채워줍니다.
+
+[질감과 색감 무드]
+
+셔츠와 바다, 하늘로 이어지는 다채로운 블루 톤과 외부 캡슐의 선명한 노란색이 보색 대비를 이룹니다. 패딩 셔츠의 푹신한 질감과 원목 인테리어의 따뜻한 질감이 조화를 이루며, 전체적으로 여행 중의 설렘과 여유로움이 묻어나는 화사한 무드입니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+조리개 f/2.8, 셔터 스피드 1/320초, ISO 200, 초점 거리 35mm 단렌즈를 사용하여 촬영되었습니다. 협소한 캡슐 내부 공간에서 인물의 상반신과 전면 테이블을 안정적으로 포착한 정면 눈높이 앵글입니다. 얕은 피사계 심도를 적용하여 인물은 매우 선명하게 묘사하고, 창밖으로 보이는 선로와 다른 캡슐은 부드럽게 아웃포커싱했습니다.
+
+[배경 요소 (옵션)]
+
+화이트와 원목 톤으로 디자인된 해안 모노레일(스카이 캡슐) 내부입니다. 머리 위에는 '08'이라는 숫자가 적힌 타원형 표지판이 있고, 좌측 상단에는 선로를 보여주는 작은 모니터가 설치되어 있습니다. 창밖으로는 공중 선로 위에 노란색 '78'번 캡슐이 지나가고 있으며, 그 너머로 푸른 바다와 초록색 소나무 숲이 넓게 펼쳐져 있습니다. 전면 원목 테이블 위에는 스마트폰과 카메라 케이스가 놓여 있습니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다.
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2065967960846745742) | 2026-06-14
+
+---
+

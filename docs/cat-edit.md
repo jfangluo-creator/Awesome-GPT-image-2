@@ -1244,3 +1244,21 @@ Use a {argument name="color palette" default="calming pastel color palette featu
 
 ---
 
+### 🔧 例 1526：照片转写实贴纸包
+
+![照片转写实贴纸包](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%86%99%E5%AE%9E%E8%B4%B4%E7%BA%B8%E5%8C%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为 {argument name="style" default="写实贴纸包"}，包含主体多种表情、姿势、情绪和反应。将贴纸排列在干净的版面上，以便在即时通讯软件和数字交流中使用。
+
+[English]
+Turn this image into a {argument name="style" default="realistic sticker pack"} featuring multiple expressions, poses, emotions, and reactions of the subject. Arrange the stickers on a clean sheet ready for messaging apps and digital communication.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2066037197040685296) | 2026-06-14
+
+---
+

@@ -4364,3 +4364,75 @@ An ultra-cinematic dark fantasy artwork called The Devil’s Deal, an extremely 
 
 ---
 
+### 🏷️ 例 1453：GPT Image 2 太空舷窗
+
+![GPT Image 2 太空舷窗](../../images/GPT%20Image%202%20%E5%A4%AA%E7%A9%BA%E8%88%B7%E7%AA%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级、照片级逼真的科幻视角，从航天器驾驶舱或圆形观测窗向外望去，通过厚重的深色金属圆形舷窗，看到一颗巨大的类地岩石行星占据了画面的大部分。行星表面呈灰蓝色，布满陨石坑和纹理，伴有云层和边缘光，文字“{argument name="main text" default="GPT"}”和“{argument name="subtitle text" default="Image 2"}”以巨大的深色雕刻/浮雕字母形式出现在行星表面，与地形融为一体，具有阴影和真实的深度感。一个未来派航天器机头或对接舱从底部中心向行星延伸，带有深色分段金属板和微小的暖橙色灯光。周围的太空漆黑一片，布满细小的星辰，右上角有一颗明亮的白色太阳或恒星发光，并带有镜头光晕。通过圆形舷窗构图，底部边缘可见驾驶舱控制装置和面板，强烈的对比度照明，玻璃上的真实反射，超精细 3D 渲染，戏剧性的太空探索氛围，方形构图，无额外文字，无水印。
+
+[English]
+Create a cinematic photorealistic sci-fi view from inside a spacecraft cockpit or round observation window, looking out through a thick dark metal circular porthole at a huge Earth-like rocky planet filling most of the frame. The planet surface is gray-blue and cratered/textured with clouds and rim lighting, and the words “{argument name="main text" default="GPT"}” and “{argument name="subtitle text" default="Image 2"}” appear as enormous dark engraved/embossed letters across the planet’s face, integrated into the terrain with shadows and realistic depth. A futuristic spacecraft nose or docking module extends from the bottom center toward the planet, with dark segmented metal panels and small warm orange lights. The surrounding space is black with fine stars, and a bright white sun or star glows at the upper right with lens flare. Frame the scene through the circular porthole with visible cockpit controls and panels along the bottom edge, strong high-contrast lighting, realistic reflections on glass, ultra-detailed 3D render, dramatic space exploration mood, square composition, no extra text, no watermark.
+```
+
+**来源：** [@sadeghTM](https://x.com/sadeghTM1/status/2066188569589211524) | 2026-06-14
+
+---
+
+### 🏷️ 例 1472：维多利亚时代女性骑复古自行车
+
+![维多利亚时代女性骑复古自行车](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E5%A5%B3%E6%80%A7%E9%AA%91%E5%A4%8D%E5%8F%A4%E8%87%AA%E8%A1%8C%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实、电影感的肖像，描绘了 {argument name="subject" default="美丽的年轻女性"} 骑着 {argument name="bicycle style" default="复古黑色自行车"} 穿过秋日公园的场景。她身着优雅的 {argument name="outfit" default="深棕色维多利亚风格连衣裙"}，配有精致的蕾丝花边、高领荷叶边、黑色领结以及配套的宽檐复古礼帽。她长长的深色秀发在微风中轻轻飘动。背景是金灿灿的银杏树，秋叶在她周围轻轻飘落，营造出温暖、阳光明媚的氛围。使用 85mm 镜头拍摄，浅景深，柔和的自然黄金时刻光影，单反相机画质，8k 分辨率，高度细腻的纹理，大师级作品。
+
+[English]
+An ultra-realistic, cinematic portrait of a {argument name="subject" default="beautiful young woman"} riding a {argument name="bicycle style" default="vintage black bicycle"} through an autumn park. She is wearing an elegant, {argument name="outfit" default="dark brown Victorian-style dress"} with detailed lace trim, a high ruffle collar, a black bow tie, and a matching wide-brimmed vintage hat. Her long dark hair is caught in a gentle breeze, flowing dynamically behind her. The background features brilliant, golden-yellow ginkgo trees with autumn leaves softly falling around her, creating a warm, sun-drenched atmosphere. Captured on a 85mm lens, shallow depth of field, soft natural golden hour lighting, DSLR quality, 8k resolution, highly detailed textures, masterpiece.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2066162900025459191) | 2026-06-14
+
+---
+
+### 🏷️ 例 1513：相机技术爆炸图
+
+![相机技术爆炸图](../../images/%E7%9B%B8%E6%9C%BA%E6%8A%80%E6%9C%AF%E7%88%86%E7%82%B8%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+详细的 {argument name="camera model" default="Sony A7 无反相机"} 爆炸图，所有内部组件均已分离且清晰可见，每个部件都标有名称。技术产品插图风格，纯白背景，布局精确且信息丰富。
+
+[English]
+Detailed exploded-view diagram of a {argument name="camera model" default="Sony A7 mirrorless camera"}, with all internal components separated and clearly visible, each part labeled with its name. Technical product illustration style, clean white background, precise and informative layout.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2066085004116193571) | 2026-06-14
+
+---
+
+### 🏷️ 例 1547：靠在复古蓝色汽车上的女性
+
+![靠在复古蓝色汽车上的女性](../../images/%E9%9D%A0%E5%9C%A8%E5%A4%8D%E5%8F%A4%E8%93%9D%E8%89%B2%E6%B1%BD%E8%BD%A6%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的生活方式肖像照，主角是一位留着 {argument name="hair color" default="深棕色"} 头发的年轻女性，头发扎成低马尾，有几缕碎发垂下，她温暖地微笑着，向后靠在一辆复古 {argument name="car color" default="浅蓝色"} 汽车的引擎盖上。她位于画面中心，坐在/靠在引擎盖前部，双臂向后伸展以支撑身体，双手放在引擎盖左右两侧边缘附近。她穿着 3 件核心单品：一件浅蓝色牛仔夹克、一件修身白色背心和一条深海军蓝高腰牛仔裤。汽车从正面展示，带有经典的镀铬格栅、圆形前大灯、镀铬保险杠、挡风玻璃、侧后视镜以及引擎盖上的光泽反射。背景为安静的林荫住宅街道，处于温暖的黄金时刻日光下，带有柔和的绿色虚化效果和浅景深。构图为腰部到大腿中部，对称、自然且随性，女性遮挡了部分挡风玻璃和格栅。具有写实的单反相机质感，自然的肤色，柔和的阳光，清晰的主体细节，逼真的面料纹理和牛仔缝线，无文字，无水印，无其他人物。
+
+[English]
+Create a realistic lifestyle portrait photo of a young woman with {argument name="hair color" default="dark brown"} hair tied in a low ponytail with loose strands, smiling warmly while leaning back against the hood of a vintage {argument name="car color" default="light blue"} car. She is centered in the frame, seated/leaning on the front hood with both arms extended behind her for support and both hands resting on the hood near the left and right edges. She wears exactly 3 main clothing pieces: a light blue denim jacket, a fitted white tank top, and dark navy high-waisted jeans. The car is shown from the front with a classic chrome grille, round headlights, chrome bumper, windshield, side mirrors, and glossy reflections on the hood. Use a quiet tree-lined residential street in the background during warm golden-hour daylight, with soft bokeh greenery and shallow depth of field. Composition should be waist-up to mid-thigh, symmetrical, natural and candid, with the woman covering part of the windshield and grille. Photorealistic DSLR look, natural skin tones, soft sunlight, crisp subject detail, realistic fabric texture and denim seams, no text, no watermark, no extra people.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2065982826634269151) | 2026-06-14
+
+---
+

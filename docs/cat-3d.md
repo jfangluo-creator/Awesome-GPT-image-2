@@ -2042,3 +2042,173 @@ Constraints: Text must be perfectly legible and centered. Keep the composition b
 
 ---
 
+### 🧸 例 1443：GPT Image 2 推理海报
+
+![GPT Image 2 推理海报](../../images/GPT%20Image%202%20%E6%8E%A8%E7%90%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="product name" default="GPT Image 2"} 创建一张精致的竖版宣传海报，通过俏皮的 3D 玩具风格视觉效果，解释该图像模型在渲染前会进行思考。
+
+画布：4:5 竖版社交媒体海报，深钴蓝色背景，带有微妙的径向光晕和柔和的晕影，呈现高分辨率光泽感 3D 渲染美学。
+
+主视觉：上半部分中心是一个超现实的 3D 物体：一个圆润且富有光泽的宝蓝色立方体，右侧嵌入一个闪亮的粉色大脑半球。立方体略微倾斜，露出左前侧和顶部，带有柔和的摄影棚高光、圆角和落影。大脑应看起来像充气的糖果或硅胶，具有圆润的褶皱、明亮的粉色高光，以及在与立方体连接处散发的柔和洋红色光芒。
+
+装饰元素：在海报周围散布 34 个小的悬浮糖果/五彩纸屑物体，避开主要文字区域。包括以下可见类型：1 个黄色星星、2 个弯曲的软糖形状、11 个短胶囊状糖粒、11 个小球体/圆点、4 个较大的光泽球体、3 个微小圆点和 2 个边缘碎片。使用粉色、黄色、薄荷绿、紫色、橙色、白色和红色，并带有柔和的阴影和光泽高光。
+
+文字排版：使用居中的粗体白色无衬线字体。中间的大标题：“{argument name="headline text" default="It reasons, then renders."}”分为两行，采用极粗的字重、简洁的几何无衬线字体，并带有轻微的阴影以增强对比度。下方是较小的粗体副标题：“{argument name="subtitle text" default="GPT Image 2 plans your image before it makes a pixel."}”，分为两行居中排列。
+
+指令卡片：在下方三分之一处放置一个圆角灰白色命令卡片面板，带有微妙的投影，类似于可复制的提示词框。在卡片右侧附带一个珊瑚红色的圆角矩形按钮，部分位于卡片后方，上面用深色粗体文字标注“COPY”。卡片内显示 4 行深炭灰色的等宽字体：“PLAN: composition and constraints.”、“SEARCH: facts you need, or SKIP.”、“GENERATE: the brief.”、“VERIFY: check output before showing.”
+
+页脚：左下角添加一个微小的白色线条艺术风格狗/吉祥物图标，后接小号大写白色无衬线文字“{argument name="footer label" default="GPT IMAGE 2 · PLAIN AND SIMPLE"}”。右下角添加进度文字“{argument name="progress text" default="1 / 7"}”。
+
+视觉风格：明亮的现代 3D 广告风格，光泽塑料材质，糖果色调，圆润友好的形态，强烈的对比度，清晰的排版，柔和逼真的阴影，不包含写实人物，无水印，无额外文字。
+
+[English]
+Goal: Create a polished vertical promotional poster for {argument name="product name" default="GPT Image 2"} explaining that the image model thinks before rendering, using a playful 3D toy-like visual style.
+
+Canvas: 4:5 vertical social media poster, deep cobalt-blue background with a subtle radial glow and soft vignette, high-resolution glossy 3D render aesthetic.
+
+Main visual: Center the top half around a surreal 3D object: a rounded glossy royal-blue cube fused with a shiny pink brain hemisphere protruding from the cube's right side. The cube is angled slightly so the front-left face and top are visible, with soft studio highlights, rounded edges, and a grounded shadow. The brain should look like inflated candy or silicone, with rounded folds, bright pink highlights, and a soft magenta glow where it meets the cube.
+
+Decorative elements: Scatter exactly 34 small floating candy/confetti objects around the poster, avoiding the main text area. Include these visible types: 1 yellow star, 2 curved jellybean shapes, 11 short capsule sprinkles, 11 small spheres/dots, 4 larger glossy balls, 3 tiny round dots, and 2 partial edge sprinkles. Use pink, yellow, mint green, purple, orange, white, and red, with soft shadows and glossy highlights.
+
+Text layout: Use bold white sans-serif typography, centered. Large headline in the middle: “{argument name="headline text" default="It reasons, then renders."}” on two lines, very heavy weight, clean geometric sans serif, slight shadow for contrast. Beneath it, smaller bold subtitle: “{argument name="subtitle text" default="GPT Image 2 plans your image before it makes a pixel."}” on two centered lines.
+
+Instruction card: At the lower third, place a rounded off-white command-card panel with a subtle drop shadow, like a copyable prompt box. On the right side, attach a coral-red rounded rectangular button partially behind the card, labeled “COPY” in dark bold text. Inside the card, show exactly 4 monospaced lines in dark charcoal: “PLAN: composition and constraints.”, “SEARCH: facts you need, or SKIP.”, “GENERATE: the brief.”, “VERIFY: check output before showing.”
+
+Footer: Bottom-left, add a tiny white line-art dog/mascot icon followed by the text “{argument name="footer label" default="GPT IMAGE 2 · PLAIN AND SIMPLE"}” in small uppercase white sans serif. Bottom-right, add the progress text “{argument name="progress text" default="1 / 7"}”.
+
+Visual style: Bright modern 3D advertising, glossy plastic materials, candy colors, rounded friendly forms, strong contrast, crisp typography, soft realistic shadows, no photorealistic people, no watermark, no extra text.
+```
+
+**来源：** [@The House of Curiosity](https://x.com/THCHouseStudio/status/2066217082631450726) | 2026-06-14
+
+---
+
+### 🧸 例 1450：机械发条微缩世界
+
+![机械发条微缩世界](../../images/%E6%9C%BA%E6%A2%B0%E5%8F%91%E6%9D%A1%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个迷人且超精细的场景，以 {argument name="subject" default="发条玩具 / 机械微缩世界"} 为中心，其中一个微小的独立世界由可见的发条钥匙和内部弹簧系统驱动。该玩具应包含微缩建筑、角色、移动的风景、旋转的标牌、微型升降机、摆动部件以及由一个核心机制触发的小型叙事瞬间。微缩世界特征：包含 {argument name="main scene" default="主场景"}、[次要场景]、[移动道具]、[角色动作] 和 [隐藏细节 / 彩蛋] 的视觉区域。周围的特写镜头可以展示钥匙、弹簧室、凸轮和隐藏的传动连杆。视觉风格：日本扭蛋魔法与奢华微缩电影摄影及高端收藏品摄影的结合。奇幻、复杂、情感上令人无法抗拒。构图指南：玩具始终是主角，但观众应感受到被邀请窥探其微小世界。平衡可爱感与高超工艺。使机械结构清晰可见，以产生吸引力。灯光与背景：柔和的摄影棚灯光，带有戏剧性的微影，根据 {argument name="mood" default="氛围"} 选择高级马卡龙色、漆面或深色天鹅绒背景，超细节微缩写实风格，无水印。
+
+[English]
+create a charming but ultra-refined scene centered on {argument name="subject" default="wind-up toy / mechanical miniature world"} where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for {argument name="main scene" default="main scene"}, [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on {argument name="mood" default="mood"}, hyper-detailed miniature realism, no watermark.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2066192943887630372) | 2026-06-14
+
+---
+
+### 🧸 例 1459：3D CG 东方奇幻美女肖像
+
+![3D CG 东方奇幻美女肖像](../../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E7%BE%8E%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想女性角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，镜头为大腿及以上近景构图，带轻微第一人称互动视角，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 20–24 岁，整体气质温柔、甜美、亲近、梦幻、唯美，带有浪漫童话般的东方幻想感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光与高级虚拟角色写真氛围。
+
+人物拥有精致的东方美型脸，小巧流畅的鹅蛋脸，皮肤白皙细腻，带轻微通透感与柔和皮肤着色。眼睛大而清澈，瞳色为浅紫蓝色与淡粉紫调混合，瞳孔有细腻高光与玻璃质感，眼神温柔、明亮、带轻微害羞与甜美笑意，直视镜头。睫毛纤长，眼妆干净柔和，鼻梁秀气自然，嘴唇小巧柔软，唇色为低饱和蜜桃粉，唇角带浅浅温柔微笑，整体神情亲近、治愈、充满恋爱氛围。
+
+发型为浅金色到奶油金色长发，发丝柔顺蓬松，带高精度发丝建模与细腻光泽，局部点缀少量浅薄荷蓝绿色挑染。前额有轻盈刘海，头顶与侧边有精致编发结构，一侧做成小巧卷环马尾装饰，整体发型甜美灵动。头上一枚普通但精致的发卡，可使用珍珠蝴蝶发卡或白金小星星发卡，简洁优雅、梦幻可爱。耳饰为透明青绿色星形水晶耳坠，清透闪亮。
+
+服装为白色与浅冰蓝色系的东方幻想轻礼服，主材质为轻薄缎面、柔软薄纱与半透明欧根纱，布料带珍珠般柔光与细腻褶皱。肩带纤细，胸部饱满，胸部轮廓明显，胸前结构精致，裙身带浅蓝色丝带、蝴蝶结与轻盈垂坠细节，整体像温柔浪漫的幻想系礼裙，纯净、高雅、轻盈。服装在胸肩与腰部的结构清晰但保持克制唯美，不低俗，强调纯净梦幻与高级感。
+
+人物姿势为身体微微前倾，靠近镜头，一只手自然向镜头方向伸出，掌心朝下，手指轻轻弯曲，像是在温柔邀请观众牵手，但不与另一只手真实交握。画面只突出人物伸出的单只手，手部清晰完整，五指自然，手腕比例正确，前景可有极轻微虚化的手部轮廓或不出现前景手，避免复杂手指交叠。另一只手自然轻扶裙身。整体呈现浪漫邀请感、第一人称互动感和温柔恋爱氛围。
+
+背景为浪漫唯美的东方幻想场景。场景设定为梦幻花园温室 / 玻璃花房 / 夕阳下的花廊庭院，背景中可见柔和虚化的白金色拱门、盛开的浅粉玫瑰与白色花藤、轻纱帷幔、透明玻璃窗、微风中的花瓣与浅金色光斑。远景可以带一点朦胧的东方幻想宫廷庭院轮廓或精致雕花廊柱，让场景既浪漫又带高级幻想感。背景整体通透、明亮、柔和，带轻微景深虚化与空气感，营造温暖梦幻的恋爱氛围。
+
+光线采用柔和的金色夕阳自然光与轻微逆光结合，人物面部明亮清透，发丝边缘、肩颈与手部有细腻轮廓光，皮肤、发丝、耳饰、丝带与礼服布料都具有清晰真实的材质反馈。整体色调以奶白、浅金、淡粉、冰蓝、薄荷青为主，画面唯美、精致、浪漫、通透、干净，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic soft lighting, PBR materials, subsurface scattering skin, realistic hair strands, glossy satin fabric, translucent chiffon, crystal earrings, romantic fantasy garden background, hand-holding composition, dreamy floral atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2066176887551131725) | 2026-06-14
+
+---
+
+### 🧸 例 1467：巨型智能手机桌面上的微缩女孩
+
+![巨型智能手机桌面上的微缩女孩](../../images/%E5%B7%A8%E5%9E%8B%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%A1%8C%E9%9D%A2%E4%B8%8A%E7%9A%84%E5%BE%AE%E7%BC%A9%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个温馨、充满奇幻感的写实微缩场景，设定在舒适的马卡龙色系书房工作区：一位可爱的南亚裔年轻女性微缩人偶，{argument name="character name" default="unnamed girl"}，坐在平放在桌面上的巨型现代智能手机顶部，手机仿佛一个亮黑色的平台。她留着长波浪深色侧分发型，佩戴精致的耳坠，身穿一件超大号粗针织 {argument name="sweater color" default="柔粉色"} 毛衣连衣裙，搭配白色袜子和厚底白色运动鞋；让她以双腿交叉的姿势随意坐着，双手撑在身侧的手机屏幕上。采用梦幻般的黄金时刻美学，阳光从左侧大窗户射入，营造出柔和的雾气感、焦外成像效果、浅景深，以及柔美的粉米色调。场景中需包含 11 个清晰可见的工作空间物品：1 部玫瑰金巨型智能手机，右侧 1 台打开的笔记本电脑（屏幕显示粉色励志文字），1 个带金手柄的粉色拿铁拉花咖啡杯，右前方 1 副粉色头戴式耳机，前景中 1 本写有金色手写字“ideas plans action”的粉色螺旋笔记本，1 支粉色钢笔，1 个装有笔的粉色笔筒，1 盆带罗纹花盆的小多肉植物，1 个写有“good things take time”的小型桌面摆件，女孩身后 1 个插着浅粉色花朵的玻璃花瓶，以及左前方 1 个放有马卡龙色配饰的小型装饰托盘。背景细节包括带有书籍和粉色装饰的柔和书架、透明窗帘以及优雅的桌面。确保手机相对于微缩女性而言显得巨大，保留黑色屏幕上真实的阴影和倒影，整体氛围保持温馨、美观、高级、可爱且适合社交媒体发布。避免出现额外人物、多余文字、Logo、水印或解剖结构畸变。
+
+[English]
+Create a warm, whimsical photorealistic miniature scene in a cozy pastel study workspace: a tiny cute young South Asian woman, {argument name="character name" default="unnamed girl"}, sits on top of a giant modern smartphone lying flat on a desk, as if the phone is a glossy black platform. She has long wavy dark hair with a side part, delicate drop earrings, and wears an oversized chunky-knit {argument name="sweater color" default="soft blush pink"} sweater dress, white socks, and chunky white sneakers; pose her seated casually with one leg crossed over the other and both hands resting beside her on the phone. Use a dreamy golden-hour aesthetic with sunlight streaming through a large window on the left, soft haze, bokeh, shallow depth of field, and a feminine pink-beige color palette. Surround her with exactly 11 visible workspace objects: 1 rose-gold giant smartphone, 1 open laptop on the right with a pink screen showing motivational script text, 1 pink coffee mug with latte art and a gold handle, 1 pair of pink over-ear headphones in the foreground right, 1 pink spiral notebook in the foreground with gold handwritten words “ideas plans action”, 1 pink pen, 1 pink pencil cup holding pens and pencils, 1 small succulent in a ribbed pot, 1 small desk sign reading “good things take time”, 1 glass vase of airy pale pink flowers behind the girl, and 1 small decorative tray with pastel accessories in the foreground left. Background details include soft shelves with books and pink decor, sheer curtains, and an elegant desk surface. Make the phone enormous relative to the miniature woman, preserve realistic shadows and reflections on the black screen, and keep the overall mood cozy, aesthetic, luxury, cute, and social-media-ready. Avoid extra people, extra text, logos, watermarks, or distorted anatomy.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2066166835318604073) | 2026-06-14
+
+---
+
+### 🧸 例 1469：3D 战术钩针艺术立体模型
+
+![3D 战术钩针艺术立体模型](../../images/3D%20%E6%88%98%E6%9C%AF%E9%92%A9%E9%92%88%E8%89%BA%E6%9C%AF%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个高度精细的 3D 战术钩针艺术立体模型，呈现了一座正面视角的淡蓝色两层海边商店。建筑由整齐、紧密的浅蓝色纱线针脚钩织而成，配有桃粉色的纱线门框和窗框。左侧是一朵巨大、蓬松、极具质感的积雨云，采用厚实的白色圈圈纱制成，营造出 3D 突出效果，背景是浅蓝色的钩针天空。下方，海洋由深浅蓝色纱线的波浪状横排组成，沙滩则由质感十足的米色沙色纱线缝制。微小的钩针自行车（配有细金属丝轮）、微型椅子、白色遮阳伞、盆栽绿色纱线植物、带有细纱线缆的棕色木质电线杆以及一台小型粉色自动售货机，所有细节均以纱线精心呈现。整个作品整齐地装在一个浅色天然木框内，平放在中性帆布背景上，展现出丰富的纺织纹理。这是一张高分辨率的特写照片，展示了一个精心制作、错综复杂的 3D 钩针立体模型，装在深胡桃木框架内，正面有透明玻璃，放置在中性纹理表面上。主体是一个微缩的欧式街角，完全通过各种钩针和纺织艺术重现，保留了 image_9.png 中的所有元素。建筑以紧密、均匀的钩针针脚呈现，颜色和位置完全一致：带有条纹遮阳篷的薄荷绿和鲑鱼粉主结构，以及相邻的粉色和黄色建筑。所有特征，包括多棵大型、有质感、蓬松的浅粉色钩针樱花树（采用复杂的簇绒针法渲染），均完整呈现。底层的详细门窗、内部暖光（如纱线格栅内的 LED 灯丝）、带钩针花箱的阳台、菜单项目、盆栽植物、灯具和鹅卵石街道铺装都得到了极高保真度的保留。条纹遮阳篷上方的招牌保留了文字。周围的蓝色钩针区域也清晰可见。深胡桃木框架线条简洁，纹理可见。来自大窗户的自然柔和日光照亮了立体模型，在凹陷的场景中营造出柔和、温暖的阴影，并突显了每一针纱线和纤维的丰富纹理。通过透明玻璃可以清晰地看到立体模型的深度，展示了多层结构。焦点集中在中央的立体模型上，木框边缘和下方表面略微虚化。整件作品呈现为高端手工艺术品。
+
+[English]
+A highly detailed 3D tactical crochet art diorama of a pastel blue, two story seaside shop from a straight on perspective, inspired by  The building is crocheted with neat, tight light blue yarn stitches, featuring a peachy pink yarn door and window frames. On the left, a massive, fluffy, ultra-textured cumulus cloud is crafted using thick, chunky white bouclé yarn to give it a 3D pop-out effect, set against a light blue crocheted sky. Below, the ocean is made of wavy horizontal rows of dark and light blue yarn, and the beach is stitched with textured beige sand yarn. A tiny crocheted bicycle with thin wire wheels, miniature chairs, a white umbrella, potted green yarn plants, a brown wooden-pole power line with thin yarn threads, and a small pink vending machine are all meticulously detailed in yarn. The entire piece is neatly enclosed inside a light, natural wooden frame, sitting flat on a neutral canvas fabric background, showing rich textile textures. A detailed, high-resolution close-up photograph of a meticulously crafted, intricate three-dimensional crochet diorama, presented inside a deep walnut wood frame with a clear glass front, sitting on a neutral textured surface. The subject is a miniaturized European-style street corner, recreated entirely through various crochet and textile arts, maintaining all elements from image_9.png. The buildings are rendered with tight, even crochet stitches, in their exact colors and positions: the mint-green and salmon-pink main structure with the striped awning, and the adjacent pink and yellow buildings. All features, including the multiple large, textured, voluminous light-pink crocheted cherry blossom trees (rendered with complex cluster-stitches), are present. The ground-floor detailed doors, windows with internal warm lights (like LED filaments within a yarn grille), balconies with crochet flower boxes, menu boards, potted plants, lamps, and cobblestone street pavement are all preserved with extreme fidelity. The sign over the striped awning retains its text. The surrounding blue crochet field is also visible. The deep walnut frame has clean lines and a visible grain. Natural, soft daylight from a large window illuminates the diorama, creating soft, warm shadows within the recessed scene and highlighting the rich textures of every yarn stitch and fiber. The depth of the diorama is clearly visible through the clear glass, showcasing the multi-layered construction. The focus is sharp across the central diorama, with the wood frame edges and the surface below softly out of focus. The entire piece is framed as a high-end, artisan craft.
+```
+
+**来源：** [@Soulful Ai](https://x.com/soulful__ai/status/2066164537519137004) | 2026-06-14
+
+---
+
+### 🧸 例 1491：3D 奢华儿童生日拼图
+
+![3D 奢华儿童生日拼图](../../images/3D%20%E5%A5%A2%E5%8D%8E%E5%84%BF%E7%AB%A5%E7%94%9F%E6%97%A5%E6%8B%BC%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 2×2 网格布局的高级 3D 卡通风格生日拼图，主角为 {argument name="subject" default="4 个可爱的孩子"}，他们拥有闪亮的大眼睛、柔软的卷发，呈现出皮克斯/迪士尼风格的角色形象。每个画面必须包含一个占据画面 60%–70% 的巨型发光灯牌数字，数字高度需远超孩子，营造出奢华生日写真的视觉效果。
+
+画面 1 – 2 岁男孩
+可爱的幼儿男孩，身穿优雅的米色系派对礼服。站在巨大的发光数字 2 旁边。一只手触碰数字，另一只手挥动。配有蓝色、金色和白色的气球装饰，以及生日蛋糕和礼盒。
+
+画面 2 – 3 岁女孩
+可爱的女孩，身穿淡粉色公主裙。拥抱着巨大的发光数字 3。背景为花卉装饰和粉色气球。配有精致的生日蛋糕和鲜花。
+
+画面 3 – 4 岁男孩
+时尚的男孩，身穿奢华正装。随意地倚靠在巨大的发光数字 4 上。双手插兜，带着俏皮的微笑。配有蓝色和金色的奢华装饰及礼品。
+
+画面 4 – 5 岁女孩
+公主风女孩，身穿淡紫色闪亮礼服。在巨大的发光数字 5 旁边摆出旋转舞蹈的姿势。手持生日蛋糕。背景为紫色花卉、气球和仙女灯。超精细 3D 渲染，电影级光效，光泽质感，景深效果，柔和阴影，奢华生日布置，优雅装饰，真实皮肤质感，可爱的 Q 版比例，高级摄影棚摄影，高度细节化，8K 分辨率。在每个画面下方添加优雅标签：AGE 2, AGE 3, AGE 4, AGE 5。
+
+[English]
+Create a premium 3D cartoon-style birthday collage in a 2×2 grid layout featuring {argument name="subject" default="4 adorable kids"} with big sparkling eyes, soft curly hair, and Pixar/Disney-inspired characters. Each panel must feature a GIANT illuminated marquee number occupying 60–70% of the frame, much taller than the child, creating a luxury birthday photoshoot look.
+
+Panel 1 – Boy Age 2
+Cute toddler boy in elegant cream and beige party outfit. Standing beside a massive glowing number 2. One hand touching the number, other hand waving. Blue, gold and white balloon decor. Birthday cake and gift boxes.
+
+Panel 2 – Girl Age 3
+Adorable girl in pastel pink princess dress. Hugging a giant glowing number 3. Floral backdrop with pink balloons. Elegant birthday cake and flowers.
+
+Panel 3 – Boy Age 4
+Stylish boy in luxury formal wear. Leaning casually against a huge illuminated number 4. Hands in pocket, playful smile. Blue and gold luxury decor with gifts.
+
+Panel 4 – Girl Age 5
+Princess girl in lavender sparkling gown. Twirling dance pose beside a gigantic glowing number 5. Holding a birthday cake. Purple floral backdrop with balloons and fairy lights. Ultra-detailed 3D render, cinematic lighting, glossy textures, depth of field, soft shadows, luxury birthday setup, elegant decorations, realistic skin, cute chibi proportions, premium studio photography, highly detailed, 8K. Add elegant labels below each panel: AGE 2, AGE 3, AGE 4, AGE 5.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2066131823533658603) | 2026-06-14
+
+---
+

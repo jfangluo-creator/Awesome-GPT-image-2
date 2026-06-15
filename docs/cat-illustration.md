@@ -3491,3 +3491,407 @@ Create a playful retro black-and-white technical cartoon illustration on a warm 
 
 ---
 
+### 🎨 例 1441：恶魔化角色设计
+
+![恶魔化角色设计](../../images/%E6%81%B6%E9%AD%94%E5%8C%96%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+【情報入力欄】
+
+キャラクター名：[{argument name="キャラクター名" default=" "}] ←必須
+
+補足事項：[{argument name="補足事項" default="任意入力"}]←AIに伝えたいことがあれば記入
+
+-----------------
+
+【画像生成指示】
+
+添付画像1のキャラクターを基に、添付画像2の悪魔変身セットを使用して着せ替える。
+
+入力されたキャラクター名と、添付画像1のキャラクターの見た目、雰囲気、年齢感、表情、装備、性格が伝わる要素を読み取り、背景、シチュエーション、ポージング、表情、構図、ライティング、画面内の短いひとことを自動で考案する。
+
+元キャラクターの髪型、髪色、目の色、体格、顔立ち、年齢感、雰囲気、キャラクター性は維持する。
+
+悪魔変身セットのデザイン要素は、元キャラクターに自然に馴染むように反映する。
+単に衣装を重ねるのではなく、元キャラクターが悪魔変身した姿として一体感のあるデザインにする。
+
+角と尻尾の生やし方は特に注意して、解剖学的にも視覚的にも自然に見えるように描写する。
+角は頭部から自然に生えているようにし、髪の上に雑に置いたような見え方にはしない。
+角の付け根は頭頂部、額寄り、またはこめかみ周辺から無理のない位置関係で生えているようにし、左右のバランス、向き、長さ、太さ、接続感を適切に整える。
+尻尾は腰の後ろ側、尾てい骨の延長として自然に生えているようにし、腹部、胸部、脚、腕など不自然な位置から生やさない。
+角と尻尾はポーズや衣装に合わせて自然に見えるよう調整し、違和感のある接続、浮いて見える付け根、意味不明な本数、無理な湾曲、異様な生え方にはしない。
+
+背景やシチュエーションは、定番の構図に頼らず、そのキャラクターの魅力が強く伝わる一場面として新しく構成する。
+背景の派手さだけで見せるのではなく、キャラクターの表情、衣装、ポーズ、視線、仕草を主役にする。
+
+表情は最重要項目として扱う。
+無表情、真顔、平坦な冷静顔、普通のキメ顔にはしない。
+感情が一つだけに見える単純な表情ではなく、複数の感情が重なって見える印象的な表情にする。
+
+表情には、眉、目線、瞳のハイライト、口角、頬、顔の角度、首の傾きで変化をつける。
+左右対称で整いすぎた表情ではなく、少しだけ崩した自然な表情にする。
+見た人がキャラクターの内面を想像したくなる表情にする。
+
+ポージングは、衣装全体が見えることを優先しつつ、キャラクターの性格や変身後の雰囲気が伝わる動きのある構図にする。
+ただ立っているだけの構図にはしない。
+武器、翼、角、尻尾、チェーン、アクセサリー、手の仕草、視線の向きを使い、キャラクター性を強調する。
+
+悪魔変身セットの奇抜さは活かすが、元キャラクターの個性を潰さない。
+元キャラクターが別人に見えないようにする。
+
+画面左上または右下に、装飾付きで１段目に「[キャラクター名]」２段目に 今回得た称号を自動生成して、１段目と２段目は同じ文字サイズで配置する。
+文字は画像の邪魔にならない大きさにする。
+
+情報記入欄の補足事項に記入がある場合のみ、その内容を反映させた画像を生成すること。
+
+スタイル：
+- 高画質の2Dアニメーション
+- 言語：日本語
+- ジャンル：ダークファンタジー寄り、但し、暗過ぎる背景にはしないこと。
+- 繊細な衣装デザイン
+- キャラクター重視
+- 印象的な表情
+- ドラマチックライティング
+
+アスペクト比：{argument name="アスペクト比" default="3:4"}
+```
+
+**来源：** [@muda22_Sora](https://x.com/Sora_muda22/status/2066231691539366218) | 2026-06-14
+
+---
+
+### 🎨 例 1448：写实照片与卡通形象合影
+
+![写实照片与卡通形象合影](../../images/%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87%E4%B8%8E%E5%8D%A1%E9%80%9A%E5%BD%A2%E8%B1%A1%E5%90%88%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的写实照片，让 {argument name="subject" default="上传的人物"} 以时尚的姿势站立。在他们身边，放置一个与该人物完全一致的 {argument name="avatar style" default="可爱的卡通形象版本"}，并匹配其服装、发型、配饰、面部表情和整体美学风格。卡通形象应看起来像高级动画电视角色或收藏级吉祥物，与真人自然地站在一起，仿佛存在于同一个世界中。保留原始照片中的所有关键细节，包括服装颜色、太阳镜、珠宝、包袋、鞋子和姿势。两个角色应在 {argument name="environment" default="时尚场景"} 中自然互动，营造出一种有趣的“我和我的卡通双胞胎”效果。照片级真实环境，逼真的光影，真人与动画角色之间的无缝融合，适合社交媒体的构图，超精细，焦点清晰，高级角色设计，电影级摄影，4K，杰作。
+
+[English]
+Create a high-quality realistic photo featuring the {argument name="subject" default="uploaded person"} standing in a stylish pose. Beside them, place a {argument name="avatar style" default="cute cartoon character version"} of the same person, matching their exact outfit, hairstyle, accessories, facial expression, and overall aesthetic. The cartoon should look like a premium animated TV character or collectible mascot, standing naturally next to the real person as if they exist in the same world. Preserve all key details from the original photo including clothing colors, sunglasses, jewelry, bags, shoes, and pose. Both characters should interact naturally within the {argument name="environment" default="stylish scene"}, creating a fun "me and my cartoon twin" effect. Photorealistic environment, realistic lighting and shadows, seamless integration between the real person and the animated character, social-media-worthy composition, ultra-detailed, sharp focus, premium character design, cinematic photography, 4K, masterpiece.
+```
+
+**来源：** [@Smiling Khan](https://x.com/AIwithkhan/status/2066196293148618857) | 2026-06-14
+
+---
+
+### 🎨 例 1464：身着传统纱丽的滑板少女
+
+![身着传统纱丽的滑板少女](../../images/%E8%BA%AB%E7%9D%80%E4%BC%A0%E7%BB%9F%E7%BA%B1%E4%B8%BD%E7%9A%84%E6%BB%91%E6%9D%BF%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影纪录片风格的照片，主角是一位年轻女孩，她正在户外滑板公园 {argument name="action" default="玩滑板"}，身穿一套 {argument name="outfit" default="传统的粉白相间纱丽风格服装"}，服装带有刺绣花边，头上披着半透明的粉色面纱。采用极低的角度进行拍摄，使滑板和她的动作看起来大胆、有力且极具张力。相机放置在靠近坡道边缘的位置，突出了混凝土表面的曲线、滑板的轮子以及她身体的平衡感。
+
+环境设定为午后露天滑板公园，自然光柔和，背景中有树木、苍白的天空以及远处随意站立的几个人。背景应保持轻微失焦，以突出主体，使其更具电影感。混凝土坡道上有逼真的划痕、褪色的油漆痕迹和磨损的纹理，营造出真实的街头运动氛围。
+
+主体的表情应显得专注、勇敢且略带紧张，仿佛正全神贯注于平衡和控制滑板。她的姿势充满动感：一只脚稳稳地踩在滑板上，另一只脚引导动作，一只手臂向外伸展以保持平衡。传统服装飘逸的布料在坚硬的混凝土坡道和滑板的衬托下，形成了优美的动态与对比。
+
+色调应自然而温暖：鲜艳的粉色和红色布料、柔和的白色裙摆色调、浅蓝灰色的混凝土、柔和的绿色树木以及明亮开阔的天空。色彩渐变应从滑板和坡道附近的深色阴影过渡到天空中明亮通透的光线，营造出逼真的逆光效果。粉色面纱在阳光下微微发光，为画面增添了柔和感与情感色彩。
+
+最终图像应给人以力量感、诗意和电影感。展现传统与现代街头文化之间的强烈对比，体现勇气、身份、运动和青春的自由。
+
+风格关键词：电影纪录片摄影，低角度拍摄，户外滑板公园，传统服饰，粉色面纱，滑板动作，文化对比，逼真纹理，温暖自然光，浅景深，赋能氛围，真实表情，动态与平衡，街头运动摄影，人文叙事，电影级调色，情感现实主义。
+
+[English]
+A cinematic documentary style photograph of a young girl {argument name="action" default="skateboarding"} at an outdoor skatepark while wearing a {argument name="outfit" default="traditional pink and white sari-style outfit"} with embroidered floral borders and a translucent pink veil over her head. She is captured from a very low angle perspective, making the skateboard and her movement feel bold, powerful, and larger than life. The camera is placed close to the edge of the ramp, emphasizing the curve of the concrete surface, the wheels of the skateboard, and the balance of her body.
+The environment is an open air skatepark during late afternoon, with soft natural sunlight, trees in the background, a pale sky, and a few people standing casually in the distance. The background should remain slightly out of focus so the main subject feels strong and cinematic. The concrete ramp has realistic scratches, faded paint marks, and worn textures, giving the scene an authentic street sport atmosphere.
+
+The subject’s expression should feel focused, brave, and slightly tense, as if she is concentrating on balancing and controlling the board. Her pose is dynamic: one foot planted firmly on the skateboard, the other guiding the movement, one arm stretched outward for balance. The flowing fabric of her traditional outfit should create beautiful motion and contrast against the hard concrete ramp and skateboard.
+
+Color palette should feel natural and warm: vibrant pink and red fabric, soft white skirt tones, pale blue-gray concrete, muted green trees, and a bright open sky. The color gradient should move from darker shadow tones near the skateboard and ramp to bright airy light in the sky, creating a realistic backlit effect. The pink veil should glow slightly under the sunlight, adding softness and emotion to the scene.
+
+The final image should feel empowering, poetic, and cinematic. A powerful contrast between tradition and modern street culture, showing courage, identity, movement, and youthful freedom.
+
+Style Keywords: cinematic documentary photography, low angle shot, outdoor skatepark, traditional outfit, pink veil, skateboard action, cultural contrast, realistic textures, warm natural sunlight, shallow depth of field, empowering mood, authentic expression, motion and balance, street sports photography, human storytelling, film-like color grading, emotional realism.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2066172307224326482) | 2026-06-14
+
+---
+
+### 🎨 例 1482：宋代风格花鸟画
+
+![宋代风格花鸟画](../../images/%E5%AE%8B%E4%BB%A3%E9%A3%8E%E6%A0%BC%E8%8A%B1%E9%B8%9F%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+以{argument name="艺术家风格" default="宋徽宗的芙蓉锦鸡图风格"}画一张{argument name="主题" default="雀上喜枝图"}。
+```
+
+**来源：** [@17Ge](https://x.com/wangwei1237/status/2066148305672020297) | 2026-06-14
+
+---
+
+### 🎨 例 1486：身处有机茧中的女学生
+
+![身处有机茧中的女学生](../../images/%E8%BA%AB%E5%A4%84%E6%9C%89%E6%9C%BA%E8%8C%A7%E4%B8%AD%E7%9A%84%E5%A5%B3%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形、写实风格的超现实主义艺术图像，主体为 {argument name="character description" default="一名害羞的日本女学生，身穿海军风水手服，系着红色领带，白色衬衫，深蓝色短裙，搭配白色过膝袜"}，她蜷缩在室内，半隐半现地被一个巨大的柔软有机茧温柔地包裹着。茧的质感应呈现为 {argument name="cocoon material" default="浅桃色、类似人类皮肤的毛绒肉质"}：厚实的管状褶皱像超大号的活体靠垫一样缠绕在她的身体周围，带有皱褶、细微的红色斑点、毛孔和圆润下垂的形态，传达出温暖、保护感，而非恐怖感。女孩坐着，一只膝盖抬起，一只手靠近嘴边，深色直发垂在脸庞周围，她的表情被柔和的矩形模糊处理或无特征的阴影遮盖，以保持匿名感。将茧作为画面的主体，以层叠的螺旋环绕占据大部分构图。场景设定在 {argument name="room setting" default="一间安静的传统日式榻榻米房间，配有米色的推拉式拉门、木质装饰，左侧有深色的搁板边缘"}。使用柔和的室内自然光，浅景深，胶片颗粒质感，色调低调，并以 {argument name="mood phrase" default="埋藏在善意中"} 为灵感，营造出忧郁而私密的氛围。保持图像非色情、情感上具有保护性、怪诞且温柔，画面中不得出现任何文字、血腥内容或额外角色。
+
+[English]
+Create a square, photorealistic surreal fine-art image of {argument name="character description" default="a shy Japanese schoolgirl in a navy sailor uniform with a red necktie, white blouse, navy skirt, and knee-high white socks"} sitting curled up indoors, half-hidden and gently embraced by an enormous soft organic cocoon. The cocoon should look like {argument name="cocoon material" default="pale peach human-skin-like plush flesh"}: thick tubular folds coiling around her body like an oversized living cushion, with wrinkled creases, subtle red mottling, pores, and rounded sagging forms, conveying warmth, protection, and unease rather than horror. The girl is seated with one knee raised, one hand near her mouth, dark straight hair falling around her face, her expression obscured by a soft rectangular blur or featureless shadow for anonymity. Compose the cocoon as the dominant subject, filling most of the frame in layered spiral loops around her. Set the scene in {argument name="room setting" default="a quiet traditional Japanese tatami room with beige sliding fusuma doors, wooden trim, and a dark shelving edge on the left"}. Use muted natural indoor light, shallow depth of field, film-grain texture, subdued colors, and a melancholic intimate mood inspired by the phrase {argument name="mood phrase" default="buried in kindness"}. Keep the image nonsexual, emotionally protective, strange, and tender, with no visible text, no gore, and no extra characters.
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2066142129072865344) | 2026-06-14
+
+---
+
+### 🎨 例 1490：博弈天赋研究报告
+
+![博弈天赋研究报告](../../images/%E5%8D%9A%E5%BC%88%E5%A4%A9%E8%B5%8B%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+【情報入力欄】
+
+キャラクター名：[{argument name="キャラクター名" default=" "}] ←必須
+
+補足事項：[{argument name="補足事項" default=" "}] ←AIに伝えたいことがあれば記入
+
+---------------------
+
+添付画像を最重要参照として、キャラクター名：[キャラクター名] の外見・髪型・髪色・瞳・衣装・装飾・表情・モチーフ・雰囲気・職業感・世界観を丁寧に分析し、元画像のキャラクター性を崩さずに、高画質の2Dアニメーション風イラストとして描いてください。
+
+テーマは「ギャンブル適性度の研究レポート」。
+画像は3:4の縦長固定。
+構図は、豪華で華やかで遊び心のある“診断ポスター兼研究レポート”風デザインにしてください。
+
+重要：
+キャラクターは画面中央の主役として大きく配置し、サイズはバストアップを基本にしてください。
+顔・表情・髪・上半身の衣装がしっかり見える構図にし、キャラクターが小さくなりすぎないようにしてください。
+周囲や上下の空間を活かして、診断項目・スコア・コメント欄・観察メモなどを大きく、読みやすく、見栄え良く配置してください。
+「キャラの魅力」と「診断画像としての楽しさ」が両立するレイアウトにしてください。
+
+背景や装飾のギャンブルモチーフは固定化せず、毎回変化をつけてください。
+使用候補は、ルーレット、トランプ、ポーカーチップ、スロットマシン、競馬、競輪、競艇、ダイス、コイン投げ、ビンゴ、くじ引き、カジノテーブルなど。
+この候補の中から毎回2〜4種類をランダムに選び、キャラクターの世界観に合う形で背景・装飾・分析パネル・小物演出に反映してください。
+同じモチーフばかりに偏らず、特にルーレットとポーカーだけに固定しないでください。
+選ばれたモチーフは自然に画面へ溶け込ませ、情報デザインの一部として扱ってください。
+
+画面内には、以下の要素を日本語で、読みやすく、デザイン性高く入れてください。
+
+【必須要素】
+1. タイトル
+・「ギャンブル適性度の研究レポート」
+・必要に応じてキャラの肩書きや異名も添える
+
+2. 大きな数値スコア
+・ギャンブル適性度：0〜100％
+・一目で目立つ大きな表示にする
+・必要なら短い分類ラベルも付ける
+　例：「高リスク高リターン型」「直感勝負型」「堅実派に見えて危険型」など
+
+3. 勝負師タイプ名
+・キャラクターらしさを反映した、印象的で面白いタイプ名を付ける
+・かっこよくてもネタ寄りでもよいが、キャラに合うこと
+
+4. 適性パラメーター
+・直感力
+・ブラフ力
+・リスク耐性
+・引き際の良さ
+・資金管理力
+それぞれ数値や簡単な視覚メーター付きで、見やすく表示する
+
+5. 観察メモ
+・2項目まで
+・短く、キャラの性格や勝負傾向が伝わる文章にする
+・少しコミカルで辛口でもよい
+
+6. 総評コメント
+・短すぎず長すぎない、印象に残る1〜2文
+・コミカルで辛口なエンタメ診断にする
+・例：「勝ち筋は見えるが、ノリに乗ると一瞬で財布が軽くなるタイプ」
+・ただし、実在の賭博を推奨する内容にはしないこと
+
+【あると良い追加要素】
+・そのキャラ의 ギャンブル傾向
+　例：「読み合いに強い」「短期決戦向き」「レア演出に弱い」などを2〜4個
+・「要注意!!」や「研究員からの一言アドバイス」などのワンポイント欄
+・小さなスタンプ、紋章、ミニアイコン、ちびキャラ風ワンポイントなどの遊び要素
+
+診断内容は、真面目な研究レポート風の見た目を保ちつつ、全体のノリは“面白い架空診断”にしてください。
+堅すぎてつまらない雰囲気にはせず、思わず笑える・眺めたくなる・保存したくなるような仕上がりにしてください。
+
+重要：
+・キャラクター本人が主役であること
+・元画像の顔立ち、衣装、色、モチーフ、雰囲気をしっかり維持すること
+・キャラクターの世界観に合う背景と装飾にすること
+・読みやすい大きさの文字にすること
+・細かすぎる長文、小さすぎる注釈、文字化け、読みにくい情報の詰め込みは避けること
+・別人化、衣装の大幅改変、年齢変更、過度な露出、低品質、余計な人物の追加は避けること
+・元画像に武器や特徴的な小物がある場合は、キャラ性を補強する範囲で自然に反映してよいが、「ギャンブル適性診断」より目立たせないこと
+・補足事項：[補足事項] が入力されている場合は、その内容を優先して反映すること
+
+スタイル：高画質の2Dアニメーション
+構図：豪華で楽しい、研究レポート風の縦長診断ポスター
+アスペクト比：3:4 縦長で固定
+```
+
+**来源：** [@muda22_Sora](https://x.com/Sora_muda22/status/2066136717577298171) | 2026-06-14
+
+---
+
+### 🎨 例 1497：日系动漫少女插画
+
+![日系动漫少女插画](../../images/%E6%97%A5%E7%B3%BB%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="スタイル" default="日本のアニメ風"}の{argument name="主体" default="美少女"}を描いて
+```
+
+**来源：** [@濃縮ビンプル@個人ゲーム制作者](https://x.com/kOjDxE1K53W1kkr/status/2066125566387093524) | 2026-06-14
+
+---
+
+### 🎨 例 1498：月光下的动漫少女与牡丹
+
+![月光下的动漫少女与牡丹](../../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E4%B8%8E%E7%89%A1%E4%B8%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 竖构图的奇幻动漫风格插画，描绘一位神情忧郁的年轻女性，侧脸向左，伫立在繁星点点的午夜天空下。她拥有一头极长的飘逸 {argument name="hair color" default="深蓝黑色"} 秀发，发丝流淌在画面中，细节丰富；她的面部被一个位于中心、边缘柔和的灰褐色矩形模糊遮盖。她身着一件华丽的半透明分层 {argument name="robe color" default="深青色与冰蓝色"} 长袍，配有宽袖、白色蕾丝袖口和领口、精致的金色花卉刺绣，以及向右飘动的薄纱状裙摆。在她的耳后添加一个精致的银色镂空翅膀形发饰，装饰有数颗珍珠，并配有一枚垂坠耳环。她手中握着一朵硕大的淡粉色牡丹花，带有绿叶，花茎上垂下两条长长的粉色丝带。背景是梦幻的宇宙之夜：浓郁的蓝色星云纹理，无数细小的雪花状斑点，散布着明亮的星芒，右上角有一轮满月。采用细腻的少女漫画线条，明亮的水彩质感，精细的织物与发丝细节，营造忧郁浪漫的氛围，以冷蓝色调为主，与柔和的粉色花朵形成对比，带有闪烁的高光，无文字，无水印。
+
+[English]
+Create a vertical 2:3 fantasy anime-style illustration of one sorrowful young woman in left-facing side profile, standing under a star-filled midnight sky. She has very long flowing {argument name="hair color" default="deep blue-black"} hair streaming across the image, with countless fine strands, and her face is intentionally covered by one plain soft-edged taupe-gray rectangular blur centered over the facial area. She wears an ornate translucent layered {argument name="robe color" default="deep teal and icy blue"} robe with wide sleeves, white lace cuffs and collar, subtle gold floral embroidery, and a gauzy veil-like train blowing to the right. Add one elaborate silver filigree wing-shaped hair ornament behind her ear, decorated with multiple pearl beads, plus one dangling earring. In her hands she holds exactly one large pale pink peony blossom with green leaves and exactly two long pink ribbon tails hanging from the stem. The background is a dreamy cosmic night: dense blue nebula texture, many tiny snow-like specks, bright starbursts scattered throughout, and exactly one full moon in the upper right. Use delicate shoujo manga linework, luminous watercolor textures, intricate fabric and hair detail, melancholic romantic mood, cool blue palette with soft pink flower contrast, sparkling highlights, no text, no watermark.
+```
+
+**来源：** [@星_AIart](https://x.com/hoshi_starryyy/status/2066124167779651688) | 2026-06-14
+
+---
+
+### 🎨 例 1499：沙漠咖啡馆逃亡故事
+
+![沙漠咖啡馆逃亡故事](../../images/%E6%B2%99%E6%BC%A0%E5%92%96%E5%95%A1%E9%A6%86%E9%80%83%E4%BA%A1%E6%95%85%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+{argument name="タイトル" default="脱走少年と砂漠の一杯"}
+
+白い艦から逃げ出した少年が
+{argument name="場所" default="砂漠のカフェ"}で少しだけ息をついています
+
+店主は何も聞かず
+静かに一杯を淹れるだけ
+
+「僕が一番うまく使えるんだ・・・」
+
+そのつぶやきより先に
+猫店長は{argument name="ロボット" default="丸いロボット"}と
+仲良くなる方法を見つけたようです
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2066120994239267208) | 2026-06-14
+
+---
+
+### 🎨 例 1506：哥特式新艺术风格作品
+
+![哥特式新艺术风格作品](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 画幅的竖版黑白哥特式新艺术风格插画，呈现出极具细节的墨水画质感，包含精细的交叉排线和细腻的装饰性线条。画面中需精确展示两个侧身站立的人物，位于高耸的拱形框架内：左侧是一名留着极长直黑发、皮肤苍白、身穿黑色天鹅绒及膝连衣裙（配白色领子和袖口）、穿着白袜和黑色玛丽珍鞋的年轻女孩；右侧是一名身材高挑纤瘦的成年男子，留着服帖的深色头发，身穿黑色细条纹三件套西装，内搭白衬衫，系深色领带，佩戴口袋巾、黑色皮手套，穿着擦得锃亮的黑色皮鞋。女孩一只手抬向男子的脸部，另一只手拿着一个小碗；男子弯腰靠近她的手，并在胸前拿着另一个小碗。画面中需包含两个小碗，碗内装满深红色的浆果或类似石榴的水果，这是画面中唯一的强色彩点缀。用柔和的矩形灰色模糊块遮住两个人的脸部，一个覆盖女孩的脸，另一个覆盖男子的脸，但保留头发、服装和姿势可见。在他们身后，放置一个位于两人正中央的华丽基督教十字架，带有放射状的细线和花卉底座。场景周围环绕着精致对称的新艺术风格边框：一个巨大的中央椭圆/拱门，两根高耸的侧柱，四个填充有卷曲藤蔓花丝的淡色圆角面板，以及带有细白花卉卷草纹的浓密黑色侧带。使用 {argument name="illustration style" default="哥特式新艺术风格单色墨水雕版画"}，{argument name="left character" default="身穿黑色天鹅绒连衣裙的年轻女孩"}，{argument name="right character" default="身穿黑色细条纹西装的高个男子"}，{argument name="red accent object" default="两个小碗中的深红色浆果"}，以及 {argument name="face treatment" default="覆盖两人面部的柔和矩形灰色模糊块"}。保持构图优雅、垂直、对称、忧郁且高度精细，运用纤细的装饰线条，画面中不得包含现代物品、可读文字或水印。
+
+[English]
+Create a vertical black-and-white gothic Art Nouveau illustration on a 2:3 canvas, like an extremely detailed ink drawing with fine crosshatching and delicate ornamental linework. Show exactly two human figures standing in profile inside a tall arched frame: on the left, a young girl with very long straight black hair, pale skin, a knee-length black velvet dress with a white collar and cuffs, white socks, and black Mary Jane heels; on the right, a tall slim adult man with slicked dark hair, a black pinstripe three-piece suit, white shirt, dark tie, pocket square, black leather gloves, and polished black dress shoes. The girl raises one hand toward the man's face while holding a small bowl in her other hand; the man bends down toward her hand and holds another small bowl at chest level. Include exactly two small bowls, both filled with dark red berries or pomegranate-like fruit, the only strong color accent in the image. Obscure both faces with soft rectangular gray blur blocks, one over the girl's face and one over the man's face, leaving hair, clothing, and poses visible. Behind them, place exactly one ornate Christian cross centered between the figures, with radiating fine lines and a floral base. Surround the scene with an elaborate symmetrical Art Nouveau border: one large central oval/arch, two tall side columns, four pale rounded corner panels filled with curling vine filigree, and dense black side bands with thin white floral scrollwork. Use {argument name="illustration style" default="gothic Art Nouveau monochrome ink engraving"}, {argument name="left character" default="young girl in a black velvet dress"}, {argument name="right character" default="tall man in a black pinstripe suit"}, {argument name="red accent object" default="dark red berries in two small bowls"}, and {argument name="face treatment" default="soft rectangular gray blur blocks over both faces"}. Keep the composition elegant, vertical, symmetrical, melancholic, highly detailed, with thin decorative lines, no modern objects, no readable text, and no watermark.
+```
+
+**来源：** [@杏之](https://x.com/un_none_know/status/2066106137980850238) | 2026-06-14
+
+---
+
+### 🎨 例 1509：极简猫耳少女海边画作
+
+![极简猫耳少女海边画作](../../images/%E6%9E%81%E7%AE%80%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E6%B5%B7%E8%BE%B9%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、抽象画ともとれるような、{argument name="服装" default="白いワンピース"}を着た{argument name="キャラクター" default="猫耳少女"}と{argument name="風景" default="海辺の街の舟"}の手描き風イラストを見てみたいです。Midjourney 風の油絵っぽいノンとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2066093079397032328) | 2026-06-14
+
+---
+
+### 🎨 例 1524：阳光下的女仆姐妹拥抱
+
+![阳光下的女仆姐妹拥抱](../../images/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%A5%B3%E4%BB%86%E5%A7%90%E5%A6%B9%E6%8B%A5%E6%8A%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨且高细节的动漫插画，描绘两位女仆姐妹在阳光明媚的房间里拥抱。画面中恰好有 2 个角色：右侧是姐姐，身材较高，身穿经典的黑色长袖女仆装，配有白色荷叶边围裙、白色褶皱女仆发带、领口处有黑色蝴蝶结，留着 {argument name="older sister hair color" default="暖棕色"} 的长发，扎成高侧马尾并系有黑色蝴蝶结；左侧是妹妹，身材较矮，正开心地拥抱着姐姐，穿着配套的黑白女仆装，配有荷叶边围裙、黑色领结、白色发带，以及 {argument name="younger sister hair color" default="浅金色"} 的双马尾，并系有小黑色蝴蝶结。妹妹闭着眼睛微笑，脸颊红润，张嘴露出开心的笑容，脸颊贴在姐姐的胸口；姐姐正温柔地拥抱着她，她的脸部被一个居中的纯色矩形遮挡块刻意遮住，颜色为柔和的肤色棕。使用温馨的维多利亚风格室内装饰，左侧有一扇大明窗，配有白色透明窗帘，金色的午后阳光斜射进来，空气中漂浮着尘埃，带有柔和的光晕效果，墙壁为暖米色，右侧墙上挂着一幅画，还有一个放着白色花瓶的小木柜。构图为竖向肖像，取景范围从腰部到膝盖，展现亲昵的姐妹姿态，柔和的轮廓光，细腻的布料褶皱、荷叶边、蕾丝、丝带，头发具有光泽感，营造梦幻氛围，精致的现代动漫风格，无文字，无水印，无额外角色。
+
+[English]
+Create a warm, high-detail anime illustration of two maid sisters hugging in a sunlit room. The scene shows exactly 2 characters: an older sister on the right, taller, wearing a classic black long-sleeve maid dress with a white frilled apron, white ruffled maid headband, black ribbon bow at the collar, and long {argument name="older sister hair color" default="warm brown"} hair tied into a high side ponytail with a black bow; and a younger sister on the left, shorter, joyfully hugging her, wearing a matching black-and-white maid outfit with a frilled apron, black bow tie, white headband, and {argument name="younger sister hair color" default="light blonde"} twin ponytails tied with small black bows. The younger sister has closed smiling eyes, rosy cheeks, and an open happy smile while pressing her cheek against the older sister’s chest; the older sister is embracing her gently, with her face intentionally covered by one centered solid rectangular censor block in a muted skin-tone brown. Use a cozy Victorian-inspired interior with a large bright window on the left, sheer white curtains, golden afternoon sunlight streaming diagonally through dust motes, soft bloom, warm beige walls, a framed picture on the right wall, and a small wooden cabinet with a vase of white flowers. Composition is vertical portrait, waist-up to knee-length framing, affectionate sisterly pose, soft rim lighting, delicate fabric folds, frills, lace, ribbons, glossy hair highlights, dreamy atmosphere, polished modern anime style, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Matsubon](https://x.com/Matsubon_Q7/status/2066050525829947712) | 2026-06-14
+
+---
+
+### 🎨 例 1533：意大利山谷晨间飞行
+
+![意大利山谷晨间飞行](../../images/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B1%B1%E8%B0%B7%E6%99%A8%E9%97%B4%E9%A3%9E%E8%A1%8C.jpg)
+
+**Prompt:**
+
+```text
+{argument name="タイトル" default="イタリアの谷を渡る朝"}
+
+{argument name="場所" default="フネスの谷"}が
+{argument name="季節" default="初夏"}の光に包まれるころ
+
+雁たちは高い空で風をつかまえて
+小さな村と緑の牧草地の上を飛んでいきます
+
+今回の群れは遠くにいるから
+白いガチョウの背にいる小さな姿までは見えないかも
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2066008619204944131) | 2026-06-14
+
+---
+
+### 🎨 例 1553：面馆前满头大汗的职场女性
+
+![面馆前满头大汗的职场女性](../../images/%E9%9D%A2%E9%A6%86%E5%89%8D%E6%BB%A1%E5%A4%B4%E5%A4%A7%E6%B1%97%E7%9A%84%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫风格夏季街道插画，描绘一位年轻职场女性在烈日炎炎的一天停在一家传统日式面馆外。画面右侧是这位女性，{argument name="character name" default="一位疲惫的职场女性"}，她身体前倾，一只手撑在膝盖上，另一只手提着一个硬挺的黑色手提包，显得精疲力竭且汗流浃背。她留着一头波浪长发，{argument name="hair color" default="黑色头发"}，皮肤泛红，脸部、颈部、手臂和腿上布满汗珠，身穿海军蓝职业西装外套，内搭白色衬衫，下着配套短裙，脚穿黑色乐福鞋，脖子上挂着一个小巧的粉色便携式挂脖风扇。她的脸部应被一个居中的柔边方形马赛克遮挡。画面左前方放置一个朝向观众的木制 A 型餐厅立牌，上面绘有色彩鲜艳的冷中华凉面：一碗凉面配有五种清晰可见的配料——绿色黄瓜丝、粉色火腿丝、黄色蛋丝、红色红姜丝以及一片红色番茄。立牌上的文字应为醒目的竖排日式书法：{argument name="sign text" default="冷やし中華 始めました"}。背景是餐厅入口，挂着深蓝色暖帘，上面印有巨大的浅色文字 {argument name="shop curtain text" default="初夏屋"}，旁边还有一条写着手写荞麦面风格文字的窄条旗。添加漫画风格的炎热效果：在右上角附近添加两个红色手写感叹词，其中一个写着 {argument name="heat exclamation" default="あづ〜〜〜…"}，女性左侧附近写着“はぁ〜”；在她的头部和肩膀周围添加四个白色小气团，并在路面和店面升起多道波浪状的白色热浪线。背景为阳光明媚的古老商业街，有木制屋檐、石板路、湛蓝天空、远处的建筑、强烈的强光以及闪烁的热气。采用精细的赛璐珞动漫渲染、动态视角、温暖饱和的阳光、清晰的线条、光亮的汗水高光，画面中不包含其他角色、水印或英文字符。
+
+[English]
+Create a vertical anime-style summer street illustration of a young office woman stopping outside a traditional Japanese noodle shop on a blazing hot day. The woman, {argument name="character name" default="a tired office lady"}, is in the right half of the frame, bent forward with one hand on her knee and the other holding a structured black handbag, visibly exhausted and sweating. She has long wavy {argument name="hair color" default="black hair"}, flushed skin, sweat droplets on her face, neck, arms, and legs, and wears a navy business blazer and matching short skirt over a white blouse, black loafers, and a small pink portable neck fan hanging from a strap. Her face should be intentionally obscured by a centered soft-edged square blur/mosaic censor block. On the left foreground, place a wooden A-frame restaurant signboard angled toward the viewer with a colorful illustration of hiyashi chuka: one bowl of chilled noodles topped with exactly five visible toppings—green cucumber strips, pink ham strips, yellow shredded egg, red pickled ginger, and one red tomato slice. The signboard text should be large vertical Japanese calligraphy: {argument name="sign text" default="冷やし中華 始めました"}. Behind it, show the restaurant entrance with dark blue noren curtains carrying large pale characters reading {argument name="shop curtain text" default="初夏屋"}, plus a narrow side banner with handwritten soba-style characters. Add comic heat effects: exactly two red handwritten exclamations, one near the upper right reading {argument name="heat exclamation" default="あづ〜〜〜…"} and one near the left of the woman reading "はぁ〜", exactly four small white puff clouds around her head and shoulders, and multiple wavy white heat lines rising from the pavement and storefront. The background is a sunlit old shopping street with wooden eaves, stone pavement, bright blue sky, distant buildings, harsh highlights, and shimmering heat haze. Use detailed cel-shaded anime rendering, dynamic perspective, warm saturated sunlight, crisp line art, glossy sweat highlights, and no extra characters, no watermark, no English text.
+```
+
+**来源：** [@ヒー🎸✨](https://x.com/yotchin222/status/2065963742891004024) | 2026-06-14
+
+---
+

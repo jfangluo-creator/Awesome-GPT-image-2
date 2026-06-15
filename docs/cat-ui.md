@@ -2936,3 +2936,227 @@ Visual style: Premium fashion e-commerce editorial photography, neutral warm bac
 
 ---
 
+### 🖥️ 例 1442：Crystal Golem 卡牌对比 UI
+
+![Crystal Golem 卡牌对比 UI](../../images/Crystal%20Golem%20%E5%8D%A1%E7%89%8C%E5%AF%B9%E6%AF%94%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色对比截图，展示两张并排的奇幻集换式卡牌设计，呈现出图像生成基准测试 UI 的效果。
+
+画布：16:9 横向构图，黑色/深炭灰色背景，带有细细的霓虹绿色轮廓。两个高大的垂直面板填满画面，左右各一，中间有窄缝隔开。每个面板包含一个可收藏的怪物卡牌预览，下方是一个小型状态/控制区域。
+
+布局：使用 2 个主面板。左侧面板底部用青色像素字体标注“VENICE-NANO-BANANA-2”；右侧面板标注“VENICE-GPT-IMAGE-2”。每个面板的右上角都有一个微小的绿色“OK”指示器。在每个标签下方，显示一行包含时间、“FREE”和“1500x2100”的小型元数据。在每个面板的最底部，包含一行小型 UI 按钮/图标：点赞、点踩、红旗、“SHARE”、“STUDIO”、“HD”加向上箭头、刷新图标以及“SAVE”。
+
+主体：两张卡牌均描绘同一个受 Pokémon 启发的角色，{argument name="character name" default="Crystal Golem"}，一个由锯齿状灰色岩石和发光的紫色紫水晶组成的巨大类人 Golem，带有紫色能量裂纹、水晶尖刺、紧握的拳头和漂浮的水晶碎片。卡牌类型使用紫色心灵/眼睛符号。使卡牌看起来像精致的奇幻集换式卡牌，但不要完全复制任何真实的受版权保护的卡牌模板。
+
+左侧卡牌详情：一张 Stage 1 卡牌，带有银灰色边框，外观略显复古插画风格。标题文本显示“STAGE 1”、{argument name="card title" default="Crystal Golem"} 和“HP 160 HP”。左上角包含一个小圆形进化肖像。艺术图展示了 Golem 的上半身，背景是带有青色蘑菇和发光绿色洞穴灯光的地下水晶洞穴，一只拳头举向观众，周围漂浮着许多紫色水晶碎片。使用干净的动漫/漫画线条艺术、淡紫色高光和全息光泽。攻击区域包含 1 个攻击技能：“Amethyst Crush”，伤害为“130+”。攻击文本：“Discard an Energy attached to this Golem. If you do, this attack does 70 more damage.” 底部属性显示弱点“×2”、抗性“-20”以及三个星形/无色符号的撤退费用。在底部附近包含微小的插画师/收藏者文本和简短的说明文字。
+
+右侧卡牌详情：一张 Stage 2 卡牌，外观更具电影感、细节更丰富，带有黑色/紫色边框。标题文本显示“STAGE 2”、{argument name="card title" default="Crystal Golem"} 和“HP 180”。左上角包含一个小进化框，写着“Evolves from Quartz Guardian”。艺术图占据了卡牌的更多空间，展示了 Golem 在紫色水晶爆炸的洞穴中向前冲刺，一只巨大的张开的手伸向观众，拥有强烈的发光紫色眼睛、黑色岩石纹理、发光的紫水晶脉络和许多漂浮的水晶碎片。攻击区域包含 1 个攻击技能：“Amethyst Crush”，伤害为“130”。攻击文本：“This attack does 20 more damage for each Energy attached to this Pokémon.” 底部属性显示弱点“×2”、抗性“-30”以及四个星形/无色符号的撤退费用。添加微小的插画师/收藏者文本和一句说明文字：“Born from the heart of ancient caverns, it wields the power of earth and crystal in perfect harmony.”
+
+视觉风格：高对比度数字艺术、光泽感集换式卡牌箔片效果、紫色水晶魔法、深色洞穴背景、锐利细节、青色像素 UI 标签、霓虹绿色 UI 轮廓。左侧卡牌应看起来更简洁、更具卡通/动漫感，而右侧卡牌应看起来更具戏剧性、更密集且渲染效果更强。
+
+约束：包含 2 个卡牌面板，每个面板包含 1 张集换式卡牌。每张卡牌包含 1 个攻击技能。保留上述所有可见的英文标签。不要添加额外的卡牌、角色、徽标、水印或真实品牌名称。
+
+[English]
+Goal: Create a dark comparison screenshot showing two fantasy trading-card designs side by side, as if from an image generation benchmark UI.
+
+Canvas: Landscape 16:9 composition, black/dark charcoal background with thin neon-green outlines. Two tall vertical panels fill the frame, left and right, separated by a narrow gap. Each panel contains one collectible monster card preview above a small status/control area.
+
+Layout: Use exactly 2 main panels. The left panel is labeled at the bottom in cyan pixel text “VENICE-NANO-BANANA-2”; the right panel is labeled “VENICE-GPT-IMAGE-2”. Each panel has a tiny green “OK” indicator in its top-right corner. Under each label, show a small metadata row with time, “FREE”, and “1500x2100”. At the very bottom of each panel, include a row of small UI buttons/icons: thumbs up, thumbs down, red flag, “SHARE”, “STUDIO”, “HD” with an up-arrow, a refresh icon, and “SAVE”.
+
+Subject: Both cards depict the same Pokémon-inspired character, {argument name="character name" default="Crystal Golem"}, a massive humanoid golem made of jagged gray stone and glowing purple amethyst crystals, with violet energy cracks, crystal spikes, clenched fists, and floating crystal shards. The card type uses a purple psychic/eye symbol. Make the cards look like polished fantasy trading cards, but not an exact copy of any real copyrighted card template.
+
+Left card details: A Stage 1 card with a silver-gray border and slightly older illustrated-card look. Header text reads “STAGE 1”, {argument name="card title" default="Crystal Golem"}, and “HP 160 HP”. Include a small circular evolution portrait at top left. The artwork shows the golem from the waist up inside an underground crystal cavern with teal mushrooms and glowing green cave lights, one fist raised toward the viewer, many purple crystal shards floating around. Use clean anime/comic line art, pale lavender highlights, and a holographic sheen. Attack area contains exactly 1 attack: “Amethyst Crush” with damage “130+”. Attack text: “Discard an Energy attached to this Golem. If you do, this attack does 70 more damage.” Bottom stats show weakness “×2”, resistance “-20”, and retreat with three star/colorless symbols. Include tiny illustrator/collector text and a short flavor line near the bottom.
+
+Right card details: A Stage 2 card with a darker, more cinematic high-detail look and a black/purple border. Header text reads “STAGE 2”, {argument name="card title" default="Crystal Golem"}, and “HP 180”. Include a small evolution box at upper left reading “Evolves from Quartz Guardian”. The artwork fills more of the card and shows the golem lunging forward through an explosive cavern of purple crystals, with one huge open hand reaching toward the viewer, intense glowing violet eyes, black rock texture, luminous amethyst veins, and many floating crystal shards. Attack area contains exactly 1 attack: “Amethyst Crush” with damage “130”. Attack text: “This attack does 20 more damage for each Energy attached to this Pokémon.” Bottom stats show weakness “×2”, resistance “-30”, and retreat with four star/colorless symbols. Add tiny illustrator/collector text and a flavor quote: “Born from the heart of ancient caverns, it wields the power of earth and crystal in perfect harmony.”
+
+Visual style: High-contrast digital art, glossy trading-card foil effects, purple crystal magic, dark cave backgrounds, sharp details, cyan pixel UI labels, neon green UI outlines. The left card should appear cleaner and more cartoon/anime, while the right card should appear more dramatic, dense, and rendered.
+
+Constraints: Include exactly 2 card panels and exactly 1 trading card in each panel. Include exactly 1 attack on each card. Preserve all visible English labels named above. Do not add extra cards, characters, logos, watermarks, or real brand names.
+```
+
+**来源：** [@Nick](https://x.com/NickPlaysCrypto/status/2066224534785560999) | 2026-06-14
+
+---
+
+### 🖥️ 例 1452：Noir 奢华时尚大片
+
+![Noir 奢华时尚大片](../../images/Noir%20%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感的高级时尚大片，拍摄一位姿态优雅的成年女性，她身着一套精致的 {argument name="suit color" default="橄榄绿"} 定制长裤套装，站在夜间奢华摩天大楼的大堂或顶层公寓走廊内。她随意地倚靠在带有细白纹理的黑色亮面大理石墙壁上，双手插在裤兜里，穿着一件深 V 领西装外套，内里不穿衬衫，肩部剪裁利落，搭配同色系百褶长裤、金色圆环耳环和粗链条金项链。她的头发向后梳理，面部通过柔和的矩形模糊或阴影处理进行遮挡，营造出匿名奢华广告的视觉效果。构图采用横向宽银幕比例，模特位于画面中心偏左位置；她深色的剪影清晰地投射在大理石墙面上。背景是高大的垂直青铜金色反光板和落地窗，窗外展现出夜间城市天际线，右侧可见帝国大厦。运用戏剧性的低调照明、温暖的金色高光、深邃的阴影、黑色大理石地面上的光泽反射，营造出精致的黑色电影氛围，展现逼真的皮肤和织物纹理、浅景深、高端时尚杂志风格以及忧郁的都市奢华美学。无文字、无 Logo、无水印。
+
+[English]
+Create a cinematic high-fashion editorial photograph of a poised adult woman in an elegant {argument name="suit color" default="olive green"} tailored pantsuit, standing indoors at night in a luxury skyscraper lobby or penthouse corridor. She leans casually against a glossy black marble wall with thin white veining, hands tucked into her trouser pockets, wearing a deep plunging blazer with no visible shirt, structured shoulders, matching pleated trousers, gold hoop earrings, and a chunky gold chain necklace. Her hair is slicked back and her face is intentionally obscured by a soft rectangular blur or shadow for an anonymous luxury campaign look. The composition is horizontal widescreen, with the model placed slightly left of center; her dark silhouette is cast sharply onto the marble wall. Behind her are tall vertical bronze-gold reflective panels and floor-to-ceiling windows revealing a nighttime city skyline with the Empire State Building visible on the right. Use dramatic low-key lighting, warm golden highlights, deep shadows, glossy reflections on the black marble floor, sophisticated noir atmosphere, realistic skin and fabric texture, shallow depth of field, premium fashion magazine styling, and a moody urban luxury aesthetic. No text, no logo, no watermark.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066190657702772989) | 2026-06-14
+
+---
+
+### 🖥️ 例 1456：月光幻想炼金术工坊
+
+![月光幻想炼金术工坊](../../images/%E6%9C%88%E5%85%89%E5%B9%BB%E6%83%B3%E7%82%BC%E9%87%91%E6%9C%AF%E5%B7%A5%E5%9D%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个超细节的暗黑幻想炼金术工坊场景，夜间，垂直 2:3 构图。在一个狭窄的中世纪石木结构实验室中，挂满了干燥草药、黄铜星盘、玻璃器皿、古籍、水晶和铜制仪器。画面中必须包含两名女性炼金术士：左侧是一名年轻的学徒，留着深色卷发，身穿灰色与棕色叠层长袍，佩戴腰带、小袋、手镯和项链，正小心翼翼地将发光液体从一个小玻璃瓶倒入圆底烧瓶中；右侧是一名年长的导师，留着 {argument name="mentor hair color" default="银灰色头发"} 并将其盘起，身穿深色叠层长袍并佩戴首饰，手持一本打开的古籍，正做出指导的手势。两人的面部均被简单的柔边棕色方形隐私遮罩遮挡，不显示任何面部特征。中央工作台上放置着三个主要的发光容器：中心是一个发出淡绿色光芒的大圆底烧瓶，右侧是一个发出蓝色光芒的梨形烧瓶，炉子旁还有一个蓝色小药瓶。左下方包含一本打开的植物学魔法书插图、一个黑色研钵和杵、一个华丽的圆形黄铜盘、一个装有石头的浅碗，以及散落的蓝色、紫色、透明和烟灰色水晶。右侧包含一个带有铜管和仪表的暖橙色火炉或炼金锅炉。背景展示一扇拱形窗户，窗外是月光下的松树林，蓝色的夜空中清晰可见两轮月亮。光影应融合来自左侧窗户的冷月光、右侧火炉的暖火光以及液体发出的魔幻青绿色光芒。采用精致的绘画写实风格，强调木材、石头、陈旧金属的纹理、玻璃反射、植物杂物、哥特式巫术氛围、电影级景深，且不包含任何现代物品或可读文字。
+
+[English]
+Create an ultra-detailed dark fantasy alchemist workshop scene at night, vertical 2:3 composition. Inside a cramped medieval stone-and-timber laboratory filled with hanging dried herbs, brass astrolabes, glassware, old books, crystals, and copper apparatus, show exactly two female alchemists: a younger apprentice on the left with dark curly hair, layered gray-brown robes, belts, pouches, bracelets, and necklaces, carefully pouring luminous liquid from a small glass vial into a round-bottom flask; and an older mentor on the right with {argument name="mentor hair color" default="silver-gray hair"} tied up, wearing dark layered robes and jewelry, holding an open ancient book while gesturing as if instructing. Both faces are intentionally covered by plain soft-edged brown square privacy masks, with no facial features visible. The central workbench contains exactly three major glowing vessels: one large round flask glowing pale green at center, one pear-shaped flask glowing blue on the right, and one small blue vial near the furnace. Include one open illustrated botanical grimoire in the lower left, one black mortar and pestle, one ornate circular brass plate, one shallow bowl of stones, and scattered crystals in blue, purple, clear, and smoky tones. On the right, include one warm orange furnace or alchemical boiler with copper pipes and gauges. In the background, show one arched window opening to a moonlit pine forest with exactly two visible moons in the blue night sky. Lighting should mix cold moonlight from the left window with warm firelight from the right furnace and magical cyan-green glow from the liquids. Use intricate painterly realism, highly textured wood, stone, aged metal, glass reflections, botanical clutter, gothic witchcraft atmosphere, cinematic depth, and no modern objects or readable text.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2066183083091759323) | 2026-06-14
+
+---
+
+### 🖥️ 例 1500：动漫风格末日拾荒少年
+
+![动漫风格末日拾荒少年](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%9C%AB%E6%97%A5%E6%8B%BE%E8%8D%92%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅风格化的动漫/漫画插画，描绘两个年轻的末日拾荒少年并排坐在废墟城市中开裂的混凝土墙上，背景是湛蓝的天空。场景中包含 2 个角色和 1 只小猫。左侧角色是一个昏昏欲睡的金发孩子，头发凌乱且呈浅色，半眯着眼，身穿一件白色超大号连帽斗篷，斗篷形状像某种奇异生物的皮，带有黑色斑点和圆形眼状标记，头后垂直绑着一个高大的圆柱形罐子或发射器；他们双膝间竖立着 1 把长款黑色未来主义步枪，穿着深色短裤、白色袜子、厚实的绿色运动鞋和护膝。右侧角色是一个冷静的灰发孩子，留着短波波头，半眯着眼，戴着一个白色的骷髅状动物头盔，头盔上有 2 个巨大的橙色眼孔和边缘的小牙齿；他们穿着蓝色夹克内搭黑色层叠衣物，戴着灰色围巾，系着战术带，背着一个贴满补丁的棕褐色背包，穿着橄榄色长裤和护膝，搭配白色袜子和超大号橙色靴子。将 1 只猫放置在右下角，坐在墙边，猫呈深炭灰色，有着尖耳朵、黄色眼睛和略显烦躁的表情。背景应展示稀疏的废弃城市天际线，可见 2 座高大的废弃建筑、破碎的墙板、散落的碎片、漂浮的小碎石、1 个黑色鸟影和蓬松的白云。使用干净粗犷的黑色轮廓线、平涂赛璐珞阴影、柔和的配色、夸张的超大鞋子和装备，营造可爱但粗粝的科幻冒险氛围，采用竖向肖像构图，低角度视角，无照片写实感，无文字，无水印。使用 {argument name="character duo" default="两个年轻的末日拾荒少年"}、{argument name="left character hair color" default="凌乱的浅金色"}、{argument name="right character helmet" default="带有橙色眼孔的白色骷髅状动物头盔"}、{argument name="weapon" default="长款黑色未来主义步枪"} 以及 {argument name="setting" default="湛蓝天空下的废弃城市"} 来自定义主要细节。
+
+[English]
+Create a stylized anime / manga illustration of two young post-apocalyptic scavenger kids sitting side by side on a cracked concrete wall in a ruined city under a bright blue sky. The scene has exactly 2 human characters and 1 small cat. The left character is a sleepy blond child with messy pale hair, half-closed eyes, and a white oversized hooded poncho shaped like a strange creature skin, with black spots, circular eye-like markings, and a tall cylindrical canister or launcher strapped vertically behind the head; they hold 1 long black futuristic rifle standing upright between their knees, wear dark shorts, white socks, chunky green sneakers, and knee pads. The right character is a calm gray-haired child with a short bob haircut, half-closed eyes, and a white skull-like animal helmet with 2 large orange eye holes and little teeth along the brim; they wear a blue jacket over black layers, a gray scarf, tactical straps, a tan backpack covered in patches, olive pants with knee pads, white socks, and oversized orange boots. Place the 1 cat at the lower right, sitting beside the wall, dark charcoal gray with pointed ears, yellow eyes, and a mildly annoyed expression. The background should show a sparse ruined urban skyline with exactly 2 visible tall ruined buildings, broken wall slabs, scattered debris, small flying rubble pieces, 1 black bird silhouette, and puffy white clouds. Use clean thick black outlines, flat cel shading, pastel colors, exaggerated oversized shoes and gear, cute but gritty sci-fi adventure energy, vertical portrait composition, low-angle view, no photorealism, no text, no watermark. Customize the main details with {argument name="character duo" default="two young post-apocalyptic scavenger kids"}, {argument name="left character hair color" default="messy pale blond"}, {argument name="right character helmet" default="white skull-like animal helmet with orange eye holes"}, {argument name="weapon" default="long black futuristic rifle"}, and {argument name="setting" default="ruined city under a bright blue sky"}.
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2066120273657573705) | 2026-06-14
+
+---
+
+### 🖥️ 例 1510：吉他手水彩插画
+
+![吉他手水彩插画](../../images/%E5%90%89%E4%BB%96%E6%89%8B%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{ "一幅精致的水彩插画，描绘了一位年轻女孩盘腿坐在地上，轻柔地弹奏着一把薄荷绿色的木吉他。她留着深色短发，有刘海，身穿白色圆领 T 恤、蓝色牛仔裤和黑色鞋子。她的脚边散落着黄色和蓝色的小花，几只柔和色调的蝴蝶在附近飞舞。构图极简，留白丰富，主体居中，笔触柔和，带有细腻的墨线勾勒，背景为纹理质感的米白色纸张，氛围梦幻而宁静，阴影柔和，水彩渲染自然，呈现出优雅的日式速写本风格。", "style": { "medium": "水彩与墨水", "texture": "纹理纸张", "mood": "宁静、怀旧、柔和", "detail": "中高" }, "camera": { "angle": "前上方微倾斜视角", "framing": "全身居中" }, "aspect_ratio": "4:5" } { "一幅极简主义水彩插画，描绘了一位女性撑着透明雨伞走远的背影。她身穿飘逸的白色连衣裙，系着黑色腰带，脚蹬短靴，背着一个小巧的棕色单肩包。她的裙摆随风轻轻摆动，丝带在身后飘扬。她走在简单的瓷砖小径上，缝隙间长着细小的青草。主体周围留白较多，采用淡蓝色、灰色和白色的柔和水彩渲染，辅以精致的墨水线条和细微的颜料溅点，背景为纹理质感的米白色纸张，营造出宁静的雨天氛围，呈现出优雅的日式画册风格。", "style": { "medium": "水彩与墨水", "texture": "纸张纹理", "mood": "安静、空灵、忧郁", "detail": "中高" }, "camera": { "angle": "后方平视视角", "framing": "全身居中" }, "aspect_ratio": "4:5" }
+
+[English]
+{ "A delicate watercolor illustration of a young girl sitting cross-legged on the ground, softly playing a mint-green acoustic guitar. She has short dark hair with bangs, wearing a white ringer t-shirt, blue jeans, and black shoes. Small yellow and blue flowers are scattered around her feet, with a few pastel butterflies floating nearby. Minimal composition with lots of negative space, centered subject, soft hand-painted brush strokes, subtle ink outlines, textured off-white paper background, dreamy and calm atmosphere, gentle shadows, expressive watercolor bleeding, elegant Japanese sketchbook style.", "style": { "medium": "watercolor and ink", "texture": "textured paper", "mood": "peaceful, nostalgic, soft", "detail": "medium-high" }, "camera": { "angle": "top-front slight angle", "framing": "full body centered" }, "aspect_ratio": "4:5" } { "A minimalist watercolor illustration of a woman walking away while holding a transparent umbrella above her head. She wears a flowing white dress tied with a black belt, ankle boots, and carries a small brown shoulder bag. Her dress moves gently in the wind, with ribbon strands flowing behind her. She walks on a simple tiled pathway with tiny grass growing between cracks. Large negative space around subject, soft watercolor washes in pale blue, gray, and white, delicate ink sketch lines, subtle paint splashes, textured off-white paper background, serene rainy-day atmosphere, elegant Japanese artbook style.", "style": { "medium": "watercolor and ink", "texture": "paper grain", "mood": "quiet, airy, melancholic", "detail": "medium-high" }, "camera": { "angle": "rear view eye-level", "framing": "full body centered" }, "aspect_ratio": "4:5" }
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2066092095836983706) | 2026-06-14
+
+---
+
+### 🖥️ 例 1519：动漫格斗家介绍卡
+
+![动漫格斗家介绍卡](../../images/%E5%8A%A8%E6%BC%AB%E6%A0%BC%E6%96%97%E5%AE%B6%E4%BB%8B%E7%BB%8D%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一名名为 {argument name="character name" default="のぞむ"} 的全新魔法偶像风格战斗员，创作一张充满活力的动漫手游格斗家介绍卡，采用未来感霓虹科幻 UI 和日文游戏文本。
+
+画布：1:1 正方形宣传角色表，布满发光的 HUD 面板，背景为深海军蓝与黑色的赛博竞技场，配以电光蓝、白、粉、紫色的光效、晶体火花、动态轨迹和镜头光晕。
+
+布局：将主角置于右侧三分之二处，呈现动态的前冲姿势，单眼眨眼，一只手向观众伸出并带有强烈的透视感，另一只手臂弯曲靠近面部。左侧三分之一处填充堆叠的信息面板和属性图表。在右下角添加一个大型对角线标语横幅。使用锋利的棱角边框、发光的青色边框、金属质感的 UI 点缀以及密集的粒子效果。
+
+主标题文字：左上角为醒目的粗体日文标题「新ファイター参戦」，下方附带较小的标签「選手紹介」。在其下方，展示一个指南针/星星图标，并以大型白色笔刷风格日文书写角色名「のぞむ」。
+
+角色细节：该格斗家是一位可爱的动漫少女，拥有长长的淡粉色头发、蓝色眼睛、柔和的腮红，以及俏皮自信的眨眼微笑。头发扎成高侧马尾，配有淡蓝色和白色的小花饰品，发丝随动作飘逸。服装：白色与淡冰蓝色相间的荷叶边魔法少女战斗裙，配有短层叠裙摆、褶边袖子、胸前的星形水晶胸针、银色链条腰带、腰部和脚踝处的星形水晶装饰、过膝袜以及浅蓝色靴子。她的主题是星光、水晶和速度反击。
+
+左侧信息面板：在名字下方包含 6 行个人资料，每一行都有独立的荧光矩形标签：1) 「異名：星光のカウンターエース」，2) 「戦闘スタイル：高速反撃型」，3) 「属性：星光」（带一个小星星图标），4) 「ランク：S」，5) 「必殺技：クリスタルブルーム・インパクト」，6) 「勝利セリフ：その一手、もう読めてるよ。」。
+
+属性面板：添加一个标题为「能力値」的方框区域，中心放置一个浅蓝色雷达图，周围标注 5 个属性类别： 「攻撃力」、「防御」、「必殺」、「速度」、「技巧」、「魅力」。使用白色标签、蓝色分段条以及半透明的青色填充多边形。
+
+必杀技列表：在左下角创建一个标题为「必殺技一覧」的方框区域，包含 4 行带有方形图标和日文技能名称的内容：1) 星爆图标「光返し」，2) 彗星斩图标「星落としカウンター」，3) 水晶冲击图标「クリスタルブルーム・インパクト」，4) 银河漩涡图标「エターナルスターダスト」。
+
+动作特效：角色周围环绕着螺旋状的粉白色能量环、蓝色闪电弧、玻璃般的水晶碎片、星形粒子，以及角色身后淡淡的残影以体现速度感。竞技场背景呈现为全息锦标赛舞台，带有抽象面板和发光的轨道。
+
+底部标语：在右下角放置一个戏剧性的倾斜黑青色横幅，上面写着醒目的斜体发光日文文字：「その一瞬が、勝敗を分ける。勝利は追わない。読み切って奪う。」。
+
+视觉风格：极致精美的日本扭蛋游戏主视觉图，清晰的赛璐珞动漫插画，光泽感十足的未来风 UI，高对比度，极其细腻的灯光效果，锐利的排版，发光的轮廓，无水印。保持文字清晰可读，并保留所有指定的日文字符串。
+
+[English]
+Goal: Create a high-energy anime mobile-game fighter introduction card for a new magical idol-style combatant named {argument name="character name" default="のぞむ"}, with a futuristic neon sci-fi UI and Japanese game text.
+
+Canvas: Square 1:1 promotional character sheet, packed with glowing HUD panels, dark navy and black cyber arena background, electric blue, white, pink, and violet light effects, crystalline sparkles, motion trails, and lens flares.
+
+Layout: Put the main character on the right two-thirds in a dynamic forward-lunging pose, winking, one hand stretched toward the viewer with strong foreshortening, the other arm bent near her face. Fill the left third with stacked information panels and a stat chart. Add a large diagonal slogan banner across the lower right. Use sharp angular frames, glowing cyan borders, metallic UI accents, and dense particles throughout.
+
+Main headline text: At the top left, large bold Japanese title 「新ファイター参戦」 with a smaller label below 「選手紹介」. Beneath it, show a compass/star icon and the character name 「のぞむ」 in large white brush-style Japanese lettering.
+
+Character details: The fighter is a cute anime girl with long pastel pink hair, blue eyes, soft blush, and a playful confident smile while winking. Her hair is tied into a high side ponytail with small pale blue and white flower accessories, with loose flowing strands swept by motion. Outfit: white and pale ice-blue frilly magical-girl battle dress with short layered skirt, ruffled sleeves, crystal star brooch at the chest, silver chain belt, star-shaped crystal ornaments at the waist and ankle, thigh-high stockings, and light blue boots. Her theme is starlight, crystal, and speed counterattacks.
+
+Left information panels: Include exactly 6 profile rows under the name, each in its own glowing rectangular label: 1) 「異名：星光のカウンターエース」, 2) 「戦闘スタイル：高速反撃型」, 3) 「属性：星光」 with a small star icon, 4) 「ランク：S」, 5) 「必殺技：クリスタルブルーム・インパクト」, 6) 「勝利セリフ：その一手、もう読めてるよ。」.
+
+Stats panel: Add a boxed section titled 「能力値」 with a light-blue radar chart in the center and exactly 5 labeled stat categories around it: 「攻撃力」, 「防御」, 「必殺」, 「速度」, 「技巧」, 「魅力」. Use white labels, small blue segmented bars, and a translucent cyan filled polygon.
+
+Special move list: At the lower left, create a boxed section titled 「必殺技一覧」 containing exactly 4 rows with square icons and Japanese skill names: 1) starburst icon 「光返し」, 2) comet slash icon 「星落としカウンター」, 3) crystal impact icon 「クリスタルブルーム・インパクト」, 4) galaxy swirl icon 「エターナルスターダスト」.
+
+Action effects: Surround the character with spiraling pink-white energy rings, blue lightning arcs, glasslike crystal shards, star particles, and a faint ghosted afterimage of the character behind her to show speed. Make the arena background look like a holographic tournament stage with abstract panels and glowing rails.
+
+Bottom slogan: On the lower right, place a dramatic angled black-and-cyan banner with large italic glowing Japanese text: 「その一瞬が、勝敗を分ける。勝利は追わない。読み切って奪う。」.
+
+Visual style: Ultra-polished Japanese gacha game key art, crisp cel-shaded anime illustration, glossy futuristic UI, high contrast, extremely detailed lighting, sharp typography, luminous outlines, no watermark. Keep the text legible and preserve the exact Japanese strings.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2066062080445190650) | 2026-06-14
+
+---
+
+### 🖥️ 例 1540：韩语 GPT 图像提示词详情页
+
+![韩语 GPT 图像提示词详情页](../../images/%E9%9F%A9%E8%AF%AD%20GPT%20%E5%9B%BE%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AF%A6%E6%83%85%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的韩语 GPT Image 2 提示词展示详情页，展示一个逼真的现代冰淇淋店室内设计案例及用于生成该图像的完整提示词。
+
+画布：720×1136 垂直网页截图，采用暖米白色背景，留白充裕，布局采用极简编辑风格。
+
+顶部导航：在左上角添加一行深灰色的小型面包屑导航，包含 3 个由尖括号分隔的项目：{argument name="breadcrumb text" default="提示词 › 图像提示词 › GPT IMAGE 2"}。
+
+标题：在面包屑导航下方，放置一个醒目的黑色韩语大标题：{argument name="headline text" default="现代冰淇淋店室内设计"}。使用加粗无衬线字体，左对齐。
+
+主图卡片：在标题下方，放置一张带有细深色边框和轻微阴影的大型圆角图片卡片。卡片内的图像是一个名为 {argument name="shop name" default="Some ice"} 的逼真现代极简冰淇淋咖啡馆室内设计：温暖的午后阳光从左侧射入，在奶油色的墙壁上投下树叶的阴影；前景有小型圆形咖啡桌和木椅；右侧是一个白色瓷砖服务台，有一名身穿围裙的女性员工；她身后有 4 个项目菜单、一面灰色混凝土墙、一台 iMac 风格的收银机、摆放着纸袋和小盒子的奶油色货架，上方悬挂着一个写有“Some ice”的柔和灰色店招。包含 6 张清晰可见的顾客区圆桌：左前景 2 张，左侧墙壁中间 2 张，右侧 2 张。包含 10 把清晰可见的椅子：主要是带有细金属腿的暖色木椅，右侧另有一把黑色椅子。柜台后方有 4 个悬挂式项目菜单，左墙上有 3 个带框海报/菜单，右墙上有 3 个小型展示架。画面中没有顾客，仅有一名员工。
+
+描述段落：在主图下方，添加一行深灰色的韩语短句：{argument name="description text" default="这是一个展现品牌招牌、菜单、座位区和阳光交织的温暖极简冰淇淋咖啡馆室内设计的逼真建筑可视化提示词。"}
+
+提示词面板：在描述下方，创建一个带有圆角和浅黄色内容区域的大型边框面板。在面板顶部，添加一个左侧标注为“提示词”的白色标题栏。在标题栏右侧，包含 3 个控件：一个标注为“免费生成图像 →”的黑色按钮，一个带有翻译图标且标注为“翻译前”的白色按钮，以及一个方形复制图标按钮。
+
+提示词正文：在黄色面板中填充密集的韩语段落文本，使用简洁的无衬线字体，深灰色，左对齐。用浅蓝色圆角高亮框标注 3 个内联标记：“Some ice”、“Sweet, Yogurt, Classic”和“Have Someice Day”。使用以下正文文本：{argument name="prompt body text" default="生成一张逼真的建筑渲染图，展示一家名为 Some ice 的现代极简冰淇淋店内部，阳光在温暖的午后洒入。视角是从前方的座位区看向服务台。空间高而狭窄，由奶油色石膏墙、灰色混凝土地板、灰色质感背墙、白色方砖柜台、暖色木质天花板顶棚和隐藏式灯带组成，左侧墙壁和地面投射着柔和的树叶阴影。在柜台上方放置一个带有黄色点缀、深灰色字体的品牌大招牌。服务区应包含 1 个白色瓷砖前台、柜台上一台大型银色台式电脑、1 名身穿奶油色衬衫和米色围裙的员工，以及背墙上 4 个带有甜点图片并写有 Signature、Sweet、Yogurt、Classic 字样的发光菜单板。右侧墙壁包含 3 个木质零售货架，陈列着品牌纸袋或盒子。左侧墙壁在细长黄铜壁灯下布置 3 张带框宣传海报，其中一张包含可爱的吉祥物和“Have Someice Day”字样。顾客区共放置 6 张圆形咖啡桌（左前景 2 张，左侧墙壁沿线 2 张，右侧 2 张）。椅子总数 10 把，大部分为带有铬合金腿的暖色曲木椅，右侧包含 1 把黑色椅子。左后方增加木质台阶、黑色金属扶手，以及远处隐约可见的砖墙和玻璃门。采用冷静的斯堪的纳维亚-日本风格咖啡馆美学，使用天然材料、逼真的全局光照、柔和的深度感和整洁的构图。除 1 名员工外不应有其他人，画面无杂物、无水印，生成 3:2 横向比例图像。"}
+
+视觉风格：匹配精致的韩语设计资源网站截图。使用清晰的排版、微妙的边框、圆角、温暖的中性色调和逼真的阴影。确保所有可见的 UI 文字清晰易读，无随机多余标签，无水印，无浏览器界面元素。
+
+[English]
+Goal: Create a clean Korean prompt-collection webpage/card showcasing an example GPT Image 2 prompt for a modern ice cream shop interior.
+
+Canvas: Vertical 9:16 off-white page, warm cream background, generous margins, editorial web layout. Use crisp black typography and a realistic architectural render as the central visual.
+
+Layout: At the top left, show a small breadcrumb with exactly 3 items: "프롬프트", "이미지프롬프트", and "GPT IMAGE 2", separated by chevrons. Below it, place a large bold Korean headline: {argument name="headline text" default="모던한 아이스크림 매장 인테리어"}. Under the headline, place one large rounded-corner image frame with a thin dark border, containing a realistic modern ice cream cafe interior. Below the image, add one short Korean description paragraph. At the bottom, add one large bordered prompt box with a header bar and a pale yellow text area.
+
+Main image subject: A photorealistic modern minimalist ice cream shop named {argument name="shop name" default="Some ice"}. The interior has warm late-afternoon sunlight casting leaf shadows on the wall, cream plaster walls, gray concrete flooring, gray textured back wall, white square-tile counter, warm wood canopy ceiling, hidden cove lighting, a large gray shop logo above the counter, and a single female employee behind the counter wearing a cream shirt and beige apron. Include exactly 6 round cafe tables: 2 near the left foreground, 2 along the left middle wall, and 2 toward the right side. Include about 10 visible chairs, mostly bentwood chairs with chrome legs, plus one black accent chair on the right. Include exactly 4 small illustrated menu boards behind the counter, one desktop computer on the counter, cream storage boxes and beige shopping bags on shelves to the right, 3 framed ice-cream posters on the left wall, a narrow staircase or corridor receding in the back left, and no customers.
+
+Prompt box details: The box has a thick dark outline and slightly rounded corners. The header strip is off-white with the label "프롬프트" on the left. On the right side of the header, include exactly 3 controls: a black button labeled "무료로 이미지 생성" with a right arrow, a white outlined button labeled "번역 전" with a small translation icon, and a small square copy icon button. The large body area is pale yellow and filled with dense Korean paragraph text describing the image prompt. Highlight exactly 4 inline terms with rounded blue selection-style backgrounds: "Some ice", "어플리케이션", "Have Someice Day", and "3:2".
+
+Text content: The paragraph under the image should read: {argument name="description text" default="브랜드 간판, 메뉴판, 좌석, 햇살이 어우러진 따뜻하고 미니멀한 아이스크림 카페 인테리어의 사실적인 건축 시각화 프롬프트입니다."} The prompt body should be Korean prose beginning with a request for a warm late-afternoon sunlit modern ice cream shop interior and should mention the shop name, app-style signage, cream plaster walls, gray concrete floor, wood canopy ceiling, 4 menu boards, 6 round tables, 10 chairs, 3 framed posters, and a 3:2 horizontal composition.
+
+Visual style: Minimal Korean web UI, high-end prompt gallery aesthetic, black and charcoal text, cream paper background, realistic architectural photography in the image area, subtle shadows, clean alignment, no clutter.
+
+Constraints: Use only one main photo, one description paragraph, and one prompt card. Keep all Korean text legible. Do not add watermarks, logos outside the shop sign, extra people, or extra UI panels.
+```
+
+**来源：** [@lucas](https://x.com/lucas_flatwhite/status/2065993847898071182) | 2026-06-14
+
+---
+

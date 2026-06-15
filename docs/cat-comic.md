@@ -2518,3 +2518,225 @@ Negative Prompt: duplicate poses, repeated expressions, short skirt, mini skirt,
 
 ---
 
+### 🎬 例 1437：复古时尚漫画素描
+
+![复古时尚漫画素描](../../images/%E5%A4%8D%E5%8F%A4%E6%97%B6%E5%B0%9A%E6%BC%AB%E7%94%BB%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+我将 {argument name="subject" default="我照片中的人物"} 转化为迷人的 {argument name="style" default="时尚风格漫画素描"}。它们具有夸张可爱的肢体语言、萌趣的比例、富有表现力的双手、戏剧性的表情、笨拙而优雅的姿态、讽刺的时尚感，以及凌乱的墨水线条、粗犷的水彩效果、素描本风格，如同从复古杂志上剪下的插画，并呈现于磨损的米色纸张上。我会在人物周围添加手写的英文笔记、箭头、有趣的观察、涂鸦，以及从照片中提取的迷人的 {argument name="details" default="性格分析"}。
+
+[English]
+I transform the {argument name="subject" default="people in my photographs"} into adorable, {argument name="style" default="fashion-inspired caricature sketches"}. They feature exaggerated, cute body language, adorable proportions, expressive hands, dramatic expressions, awkward yet graceful postures, satirical fashion sense, messy ink lines, rough watercolors, a sketchbook-like style, and illustrations cut from vintage magazines on worn beige paper. I surround the figures with handwritten English notes, arrows, amusing observations, doodles, and charming {argument name="details" default="personality analyses"} gleaned from the photographs.
+```
+
+**来源：** [@AiRT🎥生成AI動画を創る人](https://x.com/AutoIntelliMode/status/2066290586479444093) | 2026-06-14
+
+---
+
+### 🎬 例 1461：复古漫画风格 StackChan 概念设计图
+
+![复古漫画风格 StackChan 概念设计图](../../images/%E5%A4%8D%E5%8F%A4%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%20StackChan%20%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 和 REFERENCE_1 作为小型 StackChan 轮式机器人的基础设计，将其转化为一张充满活力的复古日式漫画/动画风格概念图，展现一位可爱的“来自未来的朋友”。保留其标志性的白色立方体头部、黑色屏幕脸部、侧面 StackChan 标签、灰色机身以及黑黄相间的麦克纳姆轮，但整体采用 1970 年代至 1980 年代的儿童漫画手绘风格，配以墨水轮廓、网点纹理、暖色调米色纸张以及略显褪色的印刷色彩。
+
+目标：为 {argument name="character name" default="StackChan"} 创作一张全页角色介绍海报，将其呈现为一位擅长将“？”转化为“！”的未来机器人猫伙伴。添加猫耳、猫尾、屏幕上友好的动画表情以及俏皮的漫画元素。
+
+布局：采用复古日本杂志/漫画页面的排版，包含 8 个主要内容区域：
+1. 左侧大型主图：机器人猫挥手致意，上方带有标题。
+2. 右上角动作面板：机器人利用麦克纳姆轮高速移动，带有速度线和拟声词「ビューン」。
+3. 右侧中间功能面板：机器人投射出蓝色全息信息显示屏，气泡中显示「！」。
+4. 表情条：包含 5 个带有日语标注的小型表情图标——开心、欢呼、疑惑（带问号）、惊讶和困倦。
+5. 左下角个人资料框：包含要点事实。
+6. 底部中央客串面板：两个著名的蓝色机器猫和男学生风格的剪影（眼睛处有黑色遮挡条）站在 StackChan 旁边，气泡中写着「スタックチャン、すごいね！」。
+7. 右下角秘密道具卡：展示一个环形装置。
+8. 右下角概念说明框：解释该角色如何将每个人的「？」转化为「！」。
+
+文字：包含日语排版和注音假名，营造复古儿童百科全书的感觉。主标题应为 {argument name="headline text" default="22世紀から来た未来の友だち"}。大号红色标题应为 {argument name="title text" default="スタックチャン"}。功能说明应描述麦克纳姆轮的自由移动、全息投影信息，以及连接未来网络的「未来リンク」装置。
+
+风格限制：使其看起来像是一张扫描的复古漫画角色指南页面，而非照片。使用粗体红色标题字体、米色背景、蓝/粉/黄功能面板、粗黑色面板边框、手写体日语说明、可见的印刷颗粒感以及充满童趣的科幻活力。不要添加超过 5 个表情图标或超过 1 张秘密道具卡。
+
+[English]
+Using REFERENCE_0 and REFERENCE_1 as the base design for the small StackChan wheeled robot, transform it into a cheerful retro Japanese manga/anime concept sheet for a cute “friend from the future.” Keep the recognizable white cube head, black screen face, side StackChan label, gray body, and black/yellow mecanum wheels, but stylize everything as hand-drawn 1970s–1980s children’s manga with ink outlines, halftone texture, warm cream paper, and slightly faded print colors.
+
+Goal: Create a full-page character introduction poster for {argument name="character name" default="StackChan"}, presented as a futuristic robot-cat companion who is good at turning “?” into “!”. Add cat ears, a cat tail, a friendly animated face on the screen, and playful manga energy.
+
+Layout: Use a vintage Japanese magazine/comic-page layout with exactly 8 main content areas:
+1. Large hero illustration on the left: the robot-cat waving happily, with the title above.
+2. Top-right action panel: the robot moving fast on its mecanum wheels with speed lines and the sound effect 「ビューン」.
+3. Middle-right feature panel: the robot projecting a blue hologram information display, with a speech bubble showing 「！」.
+4. Expression strip: exactly 5 small face-expression icons labeled in Japanese — happy, yay, confused with a question mark, surprised, and sleepy.
+5. Lower-left profile box with bullet-point facts.
+6. Bottom-center cameo panel: two famous blue robotic-cat and schoolboy-inspired silhouettes with black censor bars over their eyes, standing beside StackChan, with a speech bubble saying 「スタックチャン、すごいね！」.
+7. Lower-right secret gadget card featuring a ring-shaped device.
+8. Bottom-right concept message box explaining that the character turns everyone’s 「？」 into 「！」.
+
+Text: Include Japanese typography and furigana-style small kana for a retro children’s encyclopedia feel. Main headline should read {argument name="headline text" default="22世紀から来た未来の友だち"}. Big red title should read {argument name="title text" default="スタックチャン"}. Feature captions should describe free movement by mecanum wheels, projecting information with holograms, and the gadget 「未来リンク」 that connects to the future network.
+
+Style constraints: Make it look like a scanned vintage manga character guide page, not a photo. Use bold red title lettering, cream background, blue/pink/yellow feature panels, thick black panel borders, hand-lettered Japanese captions, visible print grain, and whimsical child-friendly sci-fi energy. Do not add more than the 5 expression icons or more than the single secret gadget card.
+```
+
+**来源：** [@Yuto Flatmountain](https://x.com/flatmountain/status/2066175546552369213) | 2026-06-14
+
+---
+
+### 🎬 例 1480：动漫电影院大厅漫画页面
+
+![动漫电影院大厅漫画页面](../../images/%E5%8A%A8%E6%BC%AB%E7%94%B5%E5%BD%B1%E9%99%A2%E5%A4%A7%E5%8E%85%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅竖版动漫漫画页面，背景设定在现代电影院的夜晚大厅，主角为 {argument name="character name" default="一位哥特朋克风金发少女"}，她正在纠结看哪部电影。
+
+画布：竖向智能手机漫画布局，比例约为 9:16，全出血设计，高细节彩色插画，带有黑色漫画分镜边框，分镜格略微倾斜。
+
+布局：使用 4 个分镜格。第 1 格为占据右侧全幅及大部分高度的主导分镜，展示少女从大腿以上的侧面轮廓，她正若有所思地向上看，手指轻触嘴唇。第 2 格为左上角的特写分镜，展示同一位少女，面部区域被一个平面的不透明棕褐色遮挡矩形部分覆盖。第 3 格为左侧中间的小型背影分镜，展示她从背后走过电影院大厅。第 4 格为左下角的特写分镜，展示她坐着或倚靠着，回头看向肩膀后方，表情略显迟疑。
+
+角色细节：角色为身材苗条的青少年/年轻成年动漫少女，留着非常长的 {argument name="hair color" default="浅金色"} 双马尾，系着黑色丝带，留有柔和的刘海，皮肤白皙，红色双眸，带有光泽感高光，面容精致。服装为哥特朋克风格：黑色露肩短款上衣，印有白色骷髅和摇滚风格字母，黑色颈圈带有金属环，黑色腕带，黑色百褶短裙，系着带有银色链条和圆环的腰带，黑色大腿绑带/吊带袜，深色透明丝袜，以及小型金属配饰。她的情绪表现为犹豫、深思且略带尴尬。
+
+环境：时尚的多厅电影院大厅，配有温暖的头顶灯光、反光地板、海报展示架、售票柜台，背景中有一个大型数字电影排片项目。项目应包含日语 UI 文字，如「上映中」以及几部虚构的电影列表及时间；项目上需包含 4 行清晰可见的电影标题：「コードギアス 復活のロゼ」、「デューン 砂の惑星」、「バッドボーイズ RIDE OR DIE」和「陰陽師 0」。在项目右侧添加放映时间，如 12:15、12:20、12:25 和 12:40。
+
+文字内容：包含 3 个竖向白色对话气泡，内含黑色日语文字。左上角分镜中的气泡 1 内容为 {argument name="first speech bubble" default="どれにしようかな…"}。左侧中间分镜中的气泡 2 内容为 {argument name="second speech bubble" default="うーん…やっぱりあれかな"}。左下角分镜中的气泡 3 内容为 {argument name="third speech bubble" default="どうしたの？そんなにじっと見て…"}。
+
+视觉风格：精致的日式动漫插画，电影级光影，细腻的发丝，光泽感的皮肤高光，高对比度的黑色服装，深邃的阴影，温暖的焦外成像，清晰的漫画勾线，现代漫画分镜构图，戏剧性的视角，丰富的细节，无水印。
+
+约束条件：保持 4 个分镜格和 3 个对话气泡。前景中不要添加额外角色。尽可能保持所有文字清晰可辨，但允许远处的电影排片项目文字有轻微的自然变形。
+
+[English]
+Goal: Create a vertical anime manga page set inside a modern cinema lobby at night, featuring {argument name="character name" default="a blonde gothic punk girl"} deciding what movie to watch.
+
+Canvas: Tall smartphone manga layout, approximately 9:16, full bleed, high-detail color illustration with black comic panel borders and slightly angled panel divisions.
+
+Layout: Use exactly 4 panels. Panel 1 is a large dominant panel occupying the full right side and most of the height, showing the girl in side profile from thighs up, looking thoughtfully upward with one finger near her lips. Panel 2 is the upper-left close-up panel of the same girl, partly covered by a flat opaque tan censor rectangle over the face area. Panel 3 is a small middle-left rear-view panel showing her walking through the cinema lobby from behind. Panel 4 is the lower-left close-up panel showing her seated or leaning, looking back over her shoulder with a mildly uncertain expression.
+
+Subject details: The character is a slim teenage/young-adult anime girl with very long {argument name="hair color" default="pale blonde"} twin ponytails tied with black ribbons, soft bangs, fair skin, reddish eyes, glossy highlights, and a delicate face. Her outfit is gothic punk: black off-shoulder cropped top with a white skull and rock-style lettering, black choker with metal ring, black wristband, pleated black mini skirt, belt with silver chains and rings, black thigh straps/garters, sheer dark stockings, and small metal accessories. Her mood is hesitant, thoughtful, and slightly embarrassed.
+
+Environment: A sleek multiplex cinema lobby with warm overhead lights, reflective floors, poster displays, ticket counters, and a large digital showtime board in the background. The board should include Japanese UI text such as 「上映中」 and several fictional movie listings with times; include exactly 4 visible movie-title rows: 「コードギアス 復活のロゼ」, 「デューン 砂の惑星」, 「バッドボーイズ RIDE OR DIE」, and 「陰陽師 0」. Add showtimes such as 12:15, 12:20, 12:25, and 12:40 on the right side of the board.
+
+Text content: Include exactly 3 vertical white speech bubbles with black Japanese text. Bubble 1 in the upper-left panel says {argument name="first speech bubble" default="どれにしようかな…"}. Bubble 2 in the middle-left panel says {argument name="second speech bubble" default="うーん…やっぱりあれかな"}. Bubble 3 in the lower-left panel says {argument name="third speech bubble" default="どうしたの？そんなにじっと見て…"}.
+
+Visual style: Polished Japanese anime illustration, cinematic lighting, detailed hair strands, glossy skin highlights, high-contrast black clothing, deep shadows, warm bokeh lights, crisp comic inking, modern manga panel composition, dramatic perspective, rich detail, no watermark.
+
+Constraints: Keep exactly 4 panels and exactly 3 speech bubbles. Do not add extra characters in the foreground. Keep all text legible where possible, but allow slight natural distortion on the distant showtime board.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2066150088578363431) | 2026-06-14
+
+---
+
+### 🎬 例 1501：四季之眼微距艺术
+
+![四季之眼微距艺术](../../images/%E5%9B%9B%E5%AD%A3%E4%B9%8B%E7%9C%BC%E5%BE%AE%E8%B7%9D%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以眼部特写为参考，创建一个 3:4 的四格超写实眼部微距作品，面板从上到下依次为：春、夏、秋、冬。
+
+面板 1（春）：眼睛佩戴 {argument name="spring lens" default="樱花粉"} 美瞳。睫毛上装饰着细小的春花。樱花花瓣和黄色花蕊的小花散落在脸颊上。粉色的蝴蝶在眉间飞舞。浅金色的头发柔顺地垂下。下方盛开着茂密的樱花。中心出现白色的艺术化文字“SPRING”。风格：精致唯美，柔和光影，治愈系柔和色调。下方书写书法字体“SPRING”。
+
+面板 2（夏）：眼睛佩戴清透的荷绿色美瞳。睫毛上装饰着粉色的荷花和绿色的荷叶。晶莹的水珠点缀在脸颊上，粉色的花瓣和绿色的荷叶散落其间。一只蜻蜓在附近盘旋。浅金色的头发。中心为白色的艺术化文字“Summer”。光影：通透流动；色调：清凉舒爽。下方书写书法字体“SUMMER”。
+
+面板 3（秋）：眼睛佩戴金红色美瞳。睫毛上装饰着橙红色的枫叶。金红色的秋叶飘落在脸颊上。橙色的蝴蝶在眉间起舞。浅金色的头发。中心为白色的艺术化文字“AUTUMN”。温暖的金色流动光影，浓郁而舒适的色调。下方书写书法字体“AUTUMN”。
+
+面板 4（冬）：眼睛佩戴雪蓝色美瞳。睫毛上覆盖着冰晶和雪花。白色的雪花和红色的梅花散落在脸颊上。银白色的蝴蝶在眉间翩翩起舞。柔软梦幻的金色头发。中心为醒目的白色文字“WINTER”。冷冽的蓝白色流动光影，纯净而晶莹的色彩。下方书写书法字体“WINTER”。
+
+整体效果：一幅梦幻、治愈的四格构图，通过神奇的眼睛展现季节轮回。微调每个面板的光影强度，以加深氛围感。
+
+[English]
+Using an eye close-up as reference, create a 3:4 four-panel hyperrealistic eye macro, panels arranged top to bottom: Spring, Summer, Autumn, Winter.
+
+Panel 1 (Spring): The eye wears a {argument name="spring lens" default="cherry-blossom pink"} contact lens. Lashes are adorned with tiny spring flowers. Cherry petals and small yellow-stamen blossoms scatter across the cheeks. Pink butterflies float around the brows. Light golden hair falls softly. Dense cherry blossoms bloom below. White stylized text 'SPRING' appears in the center. Style: delicate and beautiful, soft lighting, pastel healing palette. Calligraphic 'SPRING' written below.
+
+Panel 2 (Summer): The eye wears a clear lotus-green contact lens. Lashes decorated with pink lotus blooms and green lotus leaves. Sparkling water droplets dot the cheeks, with pink petals and green lotus scattered throughout. A dragonfly hovers nearby. Faint golden hair. White stylized 'Summer' text in center. Lighting: translucent and flowing; colors: cool and refreshing. Calligraphic 'SUMMER' written below.
+
+Panel 3 (Autumn): The eye wears a gold-and-red contact lens. Lashes adorned with orange-red maple leaves. Golden-red autumn leaves drift across the cheeks. Orange butterflies dance around the brows. Faint golden hair. White stylized 'AUTUMN' text in center. Warm golden flowing light, rich and cozy color palette. Calligraphic 'AUTUMN' written below.
+
+Panel 4 (Winter): The eye wears a snow-blue contact lens. Lashes covered in ice crystals and snowflakes. White snowflakes and red plum blossoms scatter across the cheeks. Silver-white butterflies flutter near the brows. Soft dreamy golden hair. Bold white 'WINTER' text in center. Cold blue-white flowing light, pure and crystalline colors. Calligraphic 'WINTER' written below.
+
+Overall: a dreamy, healing four-panel composition showing the seasonal cycle through magical eyes. Fine-tune lighting intensity per panel to deepen the atmospheric mood.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2066115257849012227) | 2026-06-14
+
+---
+
+### 🎬 例 1539：AI 超维度足球分镜脚本
+
+![AI 超维度足球分镜脚本](../../images/AI%20%E8%B6%85%E7%BB%B4%E5%BA%A6%E8%B6%B3%E7%90%83%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个高能量的 12 格动漫分镜拼贴画，用于“AI 超维度足球”场景，融合魔法少女偶像美学与未来派体育动作。故事讲述了 {argument name="character name" default="三位花卉主题动漫足球少女"} 在 AI 驱动的体育场中运球和传球，最终以可爱的爱心形状高潮结束。
+
+画布：宽幅横向拼贴，4:3 纵横比，由细白线分割成 12 个编号面板。在每个面板的左上角使用粗体白色面板编号，从 1 到 12。整体色调：电光紫、霓虹蓝、青色、洋红色、发光的粉色爱心以及深邃的体育场阴影。
+
+布局：将面板排列成漫画/分镜网格，面板大小各异。顶行包含面板 1、2 和 3。第二行包含面板 4、5 和 6。第三行包含面板 7、8 和 9，其中面板 9 内部拆分为一个小型的反应拼贴画。底行包含面板 10、11 和 12。
+
+主体细节：使用 3 位主要动漫足球少女：一位银蓝色头发的女孩，一位留着紫色花朵发饰的深色头发女孩，以及一位淡粉色头发的女孩。她们穿着配套的华丽未来派足球偶像制服：白色和海军蓝荷叶边上衣、短层叠裙、过膝袜、靴子、金属饰边、小型花卉配饰以及发光的电路状装饰。包含一个带有星星标记的紫白色足球。在观众/反应面板中加入一个可爱的类人 AI 机器人吉祥物，拥有深色发光的面部和心形眼睛。
+
+逐格内容，共 12 个编号场景：
+1. 银蓝色头发的女孩以极快速度冲刺并运球，留下冰蓝色的数字运动轨迹，并在球场上溅起能量波。
+2. 深色头发的策略型女孩特写，旁边是一个透明的紫色全息战术项目，上面布满了足球场图表、数据条、图形和 AI 界面标记；她的脸部可能被柔和的辉光轻微遮盖，增添神秘感。
+3. 体育场全景：深色头发的女孩在前景观看，银蓝色头发的女孩将发光的球传给淡粉色头发的女孩，球场覆盖着霓虹电路线条。
+4. 淡粉色头发的女孩在草坪上低空向前飞行，穿过紫蓝色体育场灯光和数字粒子轨迹追逐球。
+5. 淡粉色头发的女孩控球的肖像特写，长发戏剧性地飘动，表情坚定，周围环绕着闪光和全息足球能量。
+6. 淡粉色头发的女孩在粉紫色魔法爆发中升起，周围环绕着许多发光的爱心粒子和旋转的花瓣。
+7. 淡粉色头发的女孩全身照，漂浮在巨大的发光心形光环中，双臂张开，裙子和头发被魔法能量托起。
+8. 淡粉色头发的女孩正面特写，双臂向观众伸展，身后有粉色爱心和闪烁的粒子；她的脸部可能被柔和的紫色占位符辉光覆盖，以实现风格化的匿名效果。
+9. 反应蒙太奇面板，包含 4 个内部区域：顶部显示欢呼的动漫观众，表情惊讶且快乐；左下角显示两到三个带有柔和遮脸辉光的观众面部特写；右下角显示带有发光心形眼睛的类人 AI 机器人吉祥物，背景充满粉色爱心图标。
+10. 淡粉色头发的女孩向漂浮的星星足球进行空中踢球或传球，周围环绕着闪烁的粉色爱心轨迹和弯曲的体育场天际线。
+11. 从场上三名小型对手球员身后拍摄的戏剧性长镜头，体育场内爆发巨大的霓虹粉色心形进球特效，球或能量点在心形中心发光。
+12. 最终庆祝：3 位主要动漫足球少女在前景紧紧站在一起，双臂举起，面带微笑，上方由发光的爱心、花瓣、人群灯光和紫粉色闪光框住；如果需要，脸部可以用辉光或模糊进行柔和的风格化处理。
+
+视觉风格：高度详细的动漫插画、电影级灯光、饱和的霓虹科幻运动氛围、闪烁的魔法少女特效、挤满欢呼人群的未来派体育场、全息数据叠加、速度线、花瓣、爱心和粒子特效。使画面感觉像是动态 AI 生成的动漫足球音乐视频的静止帧。
+
+文字内容：仅包含面板编号 1–12；无标题、对话气泡、徽标、水印或其他可读文字。
+
+约束：保留 12 个面板，3 位主要女孩，1 个足球设计，以及 1 个机器人吉祥物。保持场景健康、充满活力且可爱。使用 {argument name="primary color theme" default="紫、蓝、粉霓虹色"}，{argument name="sport" default="足球"}，{argument name="magic motif" default="发光的爱心和花瓣"}，以及 {argument name="setting" default="未来派 AI 体育场"}。
+
+[English]
+Goal: Create a high-energy 12-panel anime storyboard collage for an “AI super-dimensional soccer” scene, blending magical-girl idol aesthetics with futuristic sports action. The story follows {argument name="character name" default="three flower-themed anime soccer girls"} dribbling and passing through an AI-powered stadium, ending in a cute heart-shaped climax.
+
+Canvas: Wide horizontal collage, 4:3 aspect ratio, divided by thin white gutters into exactly 12 numbered panels. Use bold white panel numbers in the upper-left corner of each panel, numbered 1 through 12. Overall palette: electric violet, neon blue, cyan, magenta, glowing pink hearts, and dark stadium shadows.
+
+Layout: Arrange the panels in a manga/storyboard grid with varied panel sizes. The top row contains panels 1, 2, and 3. The second row contains panels 4, 5, and 6. The third row contains panels 7, 8, and 9, with panel 9 split internally like a small reaction collage. The bottom row contains panels 10, 11, and 12.
+
+Subject details: Use exactly 3 main anime soccer girls: one silver-blue-haired girl, one dark-haired girl with purple flower hair ornaments, and one lavender-pink-haired girl. They wear matching ornate futuristic soccer-idol uniforms: white and navy frilled tops, short layered skirts, thigh-high socks, boots, metallic trim, small floral accessories, and glowing circuit-like accents. Include one purple-and-white soccer ball with star markings. Add one cute humanoid AI robot mascot in the audience/reaction panel, with a dark glowing face and heart-shaped eyes.
+
+Panel-by-panel content, exactly 12 numbered scenes:
+1. Silver-blue-haired girl sprints and dribbles the star soccer ball at extreme speed, leaving icy blue digital motion trails and splashing energy across the field.
+2. Close-up of the dark-haired strategist girl beside a transparent purple holographic tactics board filled with soccer-field diagrams, data bars, graphs, and AI interface markings; her face may be softly obscured by glow for a mysterious look.
+3. Wide stadium view: the dark-haired girl watches from the foreground while the silver-blue-haired girl passes the glowing ball toward the lavender-pink-haired girl across a field covered in neon circuit lines.
+4. Lavender-pink-haired girl flies forward low over the turf, chasing the ball through purple-blue stadium light and digital particle trails.
+5. Close-up portrait of the lavender-pink-haired girl controlling the ball, long hair flowing dramatically, determined expression, surrounded by sparkles and holographic soccer energy.
+6. Lavender-pink-haired girl rises in a burst of pink-purple magic, surrounded by many glowing heart particles and swirling petals.
+7. Full-body shot of the lavender-pink-haired girl floating in midair inside a giant luminous heart-shaped aura, arms open, skirt and hair lifted by magical energy.
+8. Frontal close-up of the lavender-pink-haired girl reaching both arms outward toward the viewer, with pink hearts and glittering particles behind her; her face may be covered by a soft purple placeholder glow for a stylized anonymous effect.
+9. Reaction montage panel with exactly 4 internal sections: top section shows cheering anime spectators with surprised happy faces, bottom-left section shows two or three close-up spectator faces with soft face-obscuring glow, bottom-right section shows the humanoid AI robot mascot with glowing heart eyes, and pink heart icons fill the background.
+10. Lavender-pink-haired girl performs an airborne kick or pass toward the floating star soccer ball, surrounded by glittering pink heart trails and a curved stadium horizon.
+11. Dramatic long shot from behind three small opposing players on the field as an enormous neon pink heart-shaped goal effect explodes in the stadium, with the ball or energy point glowing at the center of the heart.
+12. Final celebration: the 3 main anime soccer girls stand close together in the foreground with arms raised and smiling poses, framed by a glowing heart above them, flower petals, crowd lights, and purple-pink sparkles; faces can be softly stylized with glow or blur if desired.
+
+Visual style: Highly detailed anime illustration, cinematic lighting, saturated neon sci-fi sports atmosphere, sparkling magical-girl effects, futuristic stadium packed with a cheering crowd, holographic data overlays, speed lines, petals, hearts, and particle effects. Make the image feel like still frames from a dynamic AI-generated anime soccer music video.
+
+Text content: Only include the panel numbers 1–12; no captions, speech bubbles, logos, watermarks, or extra readable text.
+
+Constraints: Preserve exactly 12 panels, exactly 3 main girls, exactly 1 soccer ball design, and exactly 1 robot mascot. Keep the scene wholesome, energetic, and cute. Use {argument name="primary color theme" default="violet, blue, and pink neon"}, {argument name="sport" default="soccer"}, {argument name="magic motif" default="glowing hearts and flower petals"}, and {argument name="setting" default="futuristic AI stadium"}.
+```
+
+**来源：** [@AIチャッティ](https://x.com/ai_chatty/status/2065995592967545182) | 2026-06-14
+
+---
+

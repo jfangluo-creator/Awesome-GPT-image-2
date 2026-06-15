@@ -12492,3 +12492,1237 @@ Create a full-body anime fashion character concept illustration on a clean white
 
 ---
 
+### 📷 例 1439：遮挡式奢华肖像
+
+![遮挡式奢华肖像](../../images/%E9%81%AE%E6%8C%A1%E5%BC%8F%E5%A5%A2%E5%8D%8E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的近景半身肖像，主角为 {argument name="character description" default="一位 20 多岁、极其英俊的黑人男性"}，拍摄视角为胸部以上，正对镜头，背景位于一个建筑风格惊艳的奢华住宅内，时间为明媚的午后。他拥有深邃的棕色皮肤，顶部边缘可见极短且紧密的黑色卷发，颈部和锁骨线条硬朗，右侧可见一只耳朵。他的面部被一个位于正中央的大型不透明方形遮挡块完全覆盖，遮挡块呈深暖棕色，仅露出头顶发际线、右耳、下巴/颈部区域以及衣物。他身着 {argument name="outfit" default="一件深炭灰色定制西装外套，内搭一件深色开领衬衫"}。背景为现代高端室内空间，配有高大的黑色边框窗户，色调为温暖的木质感，伴有柔和的金色阳光，浅景深效果呈现出奶油般的虚化质感。采用电影级自然光，可见颈部真实的皮肤纹理，高动态范围，85mm 肖像镜头感，前景细节清晰，建筑背景虚化，垂直 3:4 构图，无文字，无水印。
+
+[English]
+Create an ultra-realistic close-up semi-portrait of {argument name="character description" default="an exceptionally handsome Black man in his late 20s"}, photographed from the chest up and facing directly toward the camera inside an architecturally stunning luxury residence on a bright sunny afternoon. He has rich dark brown skin, very short tightly coiled black hair visible at the top edge, a strong neck and collarbones, and one ear visible on the right side. His face is completely covered by one large centered opaque square censor block in a dark warm brown color, leaving only the top of the hair, right ear, lower chin/neck area, and clothing visible. He wears {argument name="outfit" default="a dark charcoal tailored blazer over an open-collar dark shirt"}. The background is a modern upscale interior with tall black-framed windows, warm wood tones, soft golden sunlight, and shallow depth of field with creamy bokeh. Use cinematic natural light, realistic skin texture on the visible neck, high dynamic range, 85mm portrait lens look, crisp foreground detail, blurred architectural background, vertical 3:4 composition, no text, no watermark.
+```
+
+**来源：** [@Finaltouch](https://x.com/Finaltoucch/status/2066242319465017506) | 2026-06-14
+
+---
+
+### 📷 例 1440：梦幻日出高山峡谷
+
+![梦幻日出高山峡谷](../../images/%E6%A2%A6%E5%B9%BB%E6%97%A5%E5%87%BA%E9%AB%98%E5%B1%B1%E5%B3%A1%E8%B0%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感、超写实的自然景观，呈现梦幻般的日出：前景是一条蜿蜒的浅河，穿过原始的高山峡谷，背景是茂密的常绿松林和参差不齐、覆盖着薄雪的山峰。太阳位于左侧地平线低处，投射出温暖的金色光芒，形成长长的光束、发光的薄雾以及穿过树林并覆盖整个山谷的柔和体积雾。在河中，准确展示 4 只梅花鹿在水边饮水或吃草：三只聚集在中心附近低头饮水，另一只较小的鹿在更右侧的河岸边。前景布满了鲜艳的野花，主要是紫色羽扇豆和小黄花，以及郁郁葱葱的绿草、石块和河石。使用 {argument name="time of day" default="golden sunrise"}、{argument name="main animals" default="four spotted deer"}、{argument name="mountain style" default="jagged alpine peaks with light snow"}、{argument name="flower colors" default="purple and yellow wildflowers"} 以及 {argument name="mood" default="magical, peaceful, cinematic"}。构图要宽广且具有沉浸感，从前景的花朵到河流、森林、雾气山谷和高耸的山峰，展现出强烈的纵深感。照片级细节，自然色彩，戏剧性的暖色调光影，柔和的薄雾，高动态范围，宁静的荒野氛围，无文字，无人物，无建筑物，无水印。
+
+[English]
+Create a cinematic, ultra-realistic nature landscape at magical sunrise: a pristine alpine valley with a shallow winding river in the foreground, framed by dense evergreen pine forests and jagged snow-dusted mountain peaks in the background. The sun is low on the left horizon, casting warm golden light, long rays, glowing mist, and soft volumetric fog through the trees and across the valley. In the river, show exactly 4 spotted deer drinking or grazing at the water’s edge: three grouped near the center with heads lowered, and one smaller deer farther right near the riverbank. The foreground is filled with vibrant wildflowers, especially purple lupines and small yellow blossoms, with lush green grasses, stones, and river rocks. Use {argument name="time of day" default="golden sunrise"}, {argument name="main animals" default="four spotted deer"}, {argument name="mountain style" default="jagged alpine peaks with light snow"}, {argument name="flower colors" default="purple and yellow wildflowers"}, and {argument name="mood" default="magical, peaceful, cinematic"}. Make the composition wide and immersive, with strong depth from flowers in the foreground to river, forest, misty valley, and towering mountains. Photorealistic detail, natural colors, dramatic warm lighting, soft haze, high dynamic range, serene wilderness atmosphere, no text, no people, no buildings, no watermark.
+```
+
+**来源：** [@Nahe Kola](https://x.com/NaheKola/status/2066236790487285762) | 2026-06-14
+
+---
+
+### 📷 例 1446：三格人像拼贴提示词
+
+![三格人像拼贴提示词](../../images/%E4%B8%89%E6%A0%BC%E4%BA%BA%E5%83%8F%E6%8B%BC%E8%B4%B4%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超逼真的美学三格人像拼贴，主角为 {argument name="subject" default="美丽的年轻女性"}，柔和的自然妆容，透亮的白皙皮肤，红润的双颊，水润的粉色嘴唇，富有表现力的双眼，{argument name="hair style" default="棕色长卷发"}，精致的垂坠耳环。{argument name="lighting" default="温暖的黄金时刻阳光"} 透过窗户洒入，在米色墙面上投下柔和的阴影图案。温馨简约的室内环境，背景中有一株小绿植。第一格：近景自拍姿势，轻微的嘟嘴表情，直视镜头。
+
+[English]
+Ultra-realistic aesthetic 3-frame portrait collage of a {argument name="subject" default="beautiful young woman"}, soft natural makeup, glowing fair skin, rosy cheeks, glossy pink lips, expressive eyes, {argument name="hair style" default="long wavy brown hair"}, delicate dangling earrings. {argument name="lighting" default="Warm golden-hour sunlight"} streaming through a window, creating soft shadow patterns on a beige wall. Cozy minimal indoor setting with a small green plant in the background. Frame 1: close-up selfie pose, slight duck-face expression, looking directly at the camera.
+```
+
+**来源：** [@🐣](https://x.com/omnitrix204/status/2066202003513167973) | 2026-06-14
+
+---
+
+### 📷 例 1449：梦幻水下自由潜摄影系列
+
+![梦幻水下自由潜摄影系列](../../images/%E6%A2%A6%E5%B9%BB%E6%B0%B4%E4%B8%8B%E8%87%AA%E7%94%B1%E6%BD%9C%E6%91%84%E5%BD%B1%E7%B3%BB%E5%88%97.jpg)
+
+**Prompt:**
+
+```text
+请基于我上传的清晰单人人像参考图，创作一组 8 张「自由潜水下梦幻艺术写真」，全部为 3:4 竖构图，分别独立成片。 1｜人物一致性 必须严格保留参考人物本人的真实五官、脸型、眼睛、鼻子、嘴唇、肤色、发际线、年龄感和整体辨识度。 不能换脸，不能变成陌生人，不能网红脸，不能动漫化，不能塑料假脸。 皮肤保留真实质感与高级实拍感，身体比例真实自然，四肢修长协调，肩颈、背部、腰腹、臀腿和足部线条正确。 2｜整体风格 整体风格为：高预算、写实、专业、梦幻、空灵、震撼的自由潜水下艺术大片。 既有时尚大片感，也有纪录片级海洋真实感。 强调 自由潜的专业性、身体控制力、漂浮感、力量与柔美并存。 不是普通游客潜水照，不是廉价美人鱼 cosplay，不是低俗写真感。 3｜自由潜专业装备 人物必须具备自由潜专属装备与专业感，可包含： 低容积自由潜面镜、长款碳纤维自由潜脚蹼 / 长脚蹼、细款配重腰带 / weight belt、潜水电脑表、可少量使用 鼻夹（视画面需要）。 不要氧气瓶、不要 BCD、不要水肺潜水装备，整组必须明确是 自由潜。 4｜服装造型 服装改为 露背、露腿 的高级自由潜写真造型，兼顾 专业、时尚、昂贵、写实。 可包含： 露背高开腿一体式自由潜泳装、贴身修身的露背潜水时装泳衣、高级黑色、珍珠白、海盐灰、雾蓝、深海蓝、浅金、冷灰等高级配色、可搭配少量轻纱、飘带、透明披纱，在水中自然漂浮，但不能喧宾夺主。 整体必须像 国际时尚水下摄影大片，不是廉价泳装照，不要淘宝感，不要过度暴露。 5｜场景与海洋生物 场景全部为 清澈、真实、壮丽的海底世界。 海水呈深蓝、蓝绿、青蓝色，有真实的： 阳光光束穿透海面、水中颗粒感、水波折射、空间层次、海底沙纹、礁石、珊瑚、海沟、海底坡面、开放深海区。 海洋生物要 写实、震撼、优雅，重点增加： 与鲨共舞（礁鲨、柠檬鲨、护士鲨等画面可控、优雅的鲨类）、鱼群风暴 / bait ball / 鱼群旋涡、可辅助出现：海龟、魔鬼鱼、热带鱼群等。 不要畸形海洋生物，不要海洋馆假感，不要拥挤杂乱。 6｜动作与镜头要求 动作要体现专业自由潜的： 下潜、悬浮、平游、侧身游动、旋转漂浮、伸展、上升仰望、与鲨鱼或鱼群互动时的稳定姿态。 拍摄角度和景别必须丰富变化，整组不能雷同，需覆盖： 俯拍、仰拍、侧拍、正面 / 斜前方、近景、中景、远景、超广角大场景、逆光、海面下视角。 7｜画面气质 人物气质：安静、专注、勇敢、梦幻、优雅、神秘、充满生命力。 表情不能僵硬，可以不总看镜头，多用： 看向远方、仰望海面、低头下潜、与海洋生物形成关系感、放松但高度控制的身体状态。 8｜负面要求 不要 AI 感。不要塑料皮肤。不要多手多脚。不要手脚变形。不要身体结构错误。不要奇怪脚蹼结构。不要错误面镜。不要海洋生物畸形。不要低俗性感。不要廉价滤镜。不要水印、logo、文字。不要 8 张图姿势、角度、构图雷同。 01｜海面下潜开场图 请生成第 1 张。 画面为自由潜开场大片：人物从海面下方开始向深海缓慢下潜。 镜头略带 仰拍 + 中远景，能看到海面、水波、阳光光束和人物完整身形。 人物穿 露背、露腿的一体式高级自由潜泳装，佩戴 低容积面镜、长脚蹼、细配重腰带、潜水电脑表。 姿态修长放松，双腿自然延展，身体轻微弯曲，像刚进入深海世界。 整体氛围梦幻、安静、专业、昂贵，有高预算国际水下摄影大片感。 02｜侧面平游穿越珊瑚海 请生成第 2 张。 画面为 侧面拍摄 的自由潜平游图，人物从画面一侧平稳游过，身体线条流畅，露背与腿部线条清晰。 下方是丰富但干净的珊瑚海底与海底坡面，远处有热带鱼点缀。 阳光从海面穿透下来，水体清澈通透。 人物姿态优雅、有控制力，像在海底花园中安静穿行。 构图为 中景到大全景，突出海底层次、服装质感和自由潜专业感。 03｜与鲨共舞：远景大场面 请生成第 3 张。 画面为 远景 / 超广角大片：人物置身辽阔海底，与数条优雅真实的鲨鱼同框。 鲨鱼以 礁鲨 / 柠檬鲨 / 护士鲨 为主，动作自然流畅，不攻击，不猎奇。 人物在沙地或开阔蓝水区中缓慢下潜或悬浮，与鲨群形成尺度对比。 镜头要有强烈空间感和震撼感，人物相对较小，突出海洋的巨大与神奇。 整体像纪录片封面 + 时尚水下大片。 04｜与鲨共舞：中近景关系图 请生成第 4 张。 画面为 中景，人物与一条体态优美的鲨鱼近距离同框，形成“共舞”感。 人物姿态可为侧身悬浮、转身回望、伸展手臂或轻微旋身，动作柔美且稳定。 人物不是触碰鲨鱼，而是与其平行共游，形成专业、冷静、敬畏自然的关系。 镜头稍微斜侧角度，光线干净，海水清透，画面高级、写实、梦幻。 05｜鱼群风暴：俯拍旋涡图 请生成第 5 张。 画面重点为 鱼群风暴 / 鱼群旋涡 / bait ball。 采用 俯拍或高角度广角镜头，大量小鱼在海中形成旋涡、空洞、风暴般的流动形状。 人物位于鱼群中心附近或边缘，身体修长舒展，轻微蜷缩或下潜，形成强烈视觉中心。 整张图要极具震撼感与秩序美，突出大自然的神奇。 人物仍穿露背露腿的专业自由潜造型，并佩戴长脚蹼与面镜。 06｜近景人物特写：海面逆光肖像 请生成第 6 张。 画面为 近景或半身到 3/4 身 的水下人物特写。 人物靠近海面，阳光逆光打在面镜、肩颈、锁骨、背部轮廓上，头发和轻纱在水中缓慢漂浮。 表情平静、神秘、沉浸，不一定看镜头。 背景可以是模糊蓝水和零星鱼群。 重点突出真实脸部辨识度、面镜细节、皮肤质感、露背泳装造型和高预算时尚感。 07｜仰拍上升图：向光而去 请生成第 7 张。 画面为 仰拍上升图，镜头从人物下方拍摄，人物向海面上升，伸向光的方向。 可以看到阳光从上方照下，人物的身体、长脚蹼和露腿线条被光束勾勒出来。 姿态可为单臂向上伸展，另一只手自然放松，身体轻轻弯曲。 整体有诗意、希望感、电影感，像自由潜大片中的收束高潮。 08｜终章收束图：深海梦境大片 请生成第 8 张。 画面为最终收束的 梦境级大全景。 人物置身辽阔深海，与 鲨鱼、少量鱼群、海底沙纹或礁石结构 共同构成一个既真实又梦幻的场景。 构图可偏极简，人物略小，突出人与海洋的关系。 人物姿态安静、漂浮、舒展，像深海中的一场梦。 整体要高级、安静、神秘、有余韵，像国际杂志封底大片。
+```
+
+**来源：** [@麻酱AI实验室](https://x.com/zhongying14/status/2066194072637694049) | 2026-06-14
+
+---
+
+### 📷 例 1454：中国古风奇幻角色
+
+![中国古风奇幻角色](../../images/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E9%A3%8E%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+生成一张 {argument name="构图" default="9:16 竖版"}、高精度古风仙侠精修写真风格的女性人像。画面主体是一位年轻成年东方女性，视觉年龄约 {argument name="年龄" default="20–28"}
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2066188275124211906) | 2026-06-14
+
+---
+
+### 📷 例 1457：黄金时刻特写肖像
+
+![黄金时刻特写肖像](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E7%89%B9%E5%86%99%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感特写肖像，{argument name="subject" default="一位留着棕色波浪短发的漂亮女性"}，一只手遮住部分眼睛，精致的自然妆容，水润双唇，黄金时刻的阳光在脸上投下戏剧性的阴影，温暖的琥珀色与橙色调，充满情绪的室内氛围，浅景深，梦幻的胶片摄影感，柔和的颗粒质感，真实的皮肤细节，亲密的时尚编辑肖像，窗边光影，高对比度照明，舒适的美学风格，使用 85mm 镜头拍摄，f/1.4 光圈，超写实，Kodak Portra 胶片质感，细腻的背景虚化，情绪化的表情，奢华时尚杂志风格，暖色调，照片级真实感 8k
+
+[English]
+Cinematic close-up portrait of a {argument name="subject" default="beautiful woman with short wavy brunette bob hair"} partially covering one eye, soft natural makeup, glossy lips, golden hour sunlight casting dramatic shadows across her face, warm amber and orange color grading, moody indoor atmosphere, shallow depth of field, dreamy film photography, soft grain texture, realistic skin details, intimate editorial fashion portrait, window light streaks, high contrast lighting, cozy aesthetic, shot on 85mm lens, f/1.4, ultra realistic, Kodak Portra film look, subtle bokeh background, emotional expression, luxury fashion magazine style, warm tones, photorealistic 8k
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066181435116130758) | 2026-06-14
+
+---
+
+### 📷 例 1458：古老废弃图书馆奇幻肖像
+
+![古老废弃图书馆奇幻肖像](../../images/%E5%8F%A4%E8%80%81%E5%BA%9F%E5%BC%83%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%A5%87%E5%B9%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用我上传的面部图像作为主要的身份参考。请最大限度地精准保留我的面部特征、脸型、发型、发质、胡须风格、肤色、眼型、眉毛以及所有面部细节。请勿更改我的面部。
+
+为我创作一张电影质感的奇幻编辑风格肖像，背景设定在 {argument name="location" default="古老废弃图书馆"} 中。我身穿优雅宽松的 {argument name="clothing" default="白色针织毛衣和白色长裤"}，赤脚，表情平静而神秘。我的身体微微转向，抬头看向空中，一只手伸向漂浮的书籍。数百本旧书和书页悬浮在我的周围，仿佛被魔法定格。
+
+温暖的金色阳光透过我身后巨大的旧窗户倾泻而入，营造出极具戏剧性的体积光束、尘埃微粒和梦幻般的氛围。背景中布满了高耸的书架、陈旧的木地板、散落的纸张以及漂浮的翻开书籍。超写实摄影风格，电影级布光，浅景深，高细节，奢华杂志美学，8K 分辨率。
+
+请将我的面部作为视觉焦点，并使画面呈现出专业电影剧照的效果。
+
+[English]
+Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, and all facial details with maximum accuracy. Do not change my face.
+
+Create a cinematic fantasy editorial portrait of me standing inside an {argument name="location" default="ancient abandoned library"}. I am wearing an elegant loose {argument name="clothing" default="white knit sweater and white pants"}, barefoot, with a calm mysterious expression. My body is slightly turned while I look upward, reaching one hand toward floating books. Hundreds of old books and pages are suspended in the air around me as if frozen by magic.
+
+Warm golden sunlight streams through large old windows behind me, creating dramatic volumetric light rays, dust particles, and a dreamy atmosphere. The background is filled with towering bookshelves, aged wooden floors, scattered papers, and floating open books. Ultra-realistic photography style, cinematic lighting, shallow depth of field, high detail, luxury magazine aesthetic, 8K resolution.
+
+Keep my face as the main focus and make the scene look like a professional movie still.
+```
+
+**来源：** [@Professor](https://x.com/Professor_134/status/2066177652449513653) | 2026-06-14
+
+---
+
+### 📷 例 1462：电影感都市时尚大片人像
+
+![电影感都市时尚大片人像](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%83%BD%E5%B8%82%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像，在不改变面部的前提下，创作一张令人惊叹的电影感生活方式人像，让 {argument name="subject" default="女性"} 自信地坐在 {argument name="setting" default="都市沙漠风格场景"} 的日落余晖中，并以绝对的精准度保留其面部特征、表情、发型、身体比例和个人身份。将场景转化为高级时尚大片，让她坐在高档改装车旁的一款时尚 {argument name="car detail" default="定制跑车轮毂"} 上，周围环绕着温暖的黄金时刻光影，以及渲染着桃色、橙色和紫色的梦幻棉花糖天空。在保持原有造型的基础上，增强她复古风彩色夹克、牛仔裤和运动鞋的丰富质感与真实面料细节。为她的发丝增添细微的风动感，用轮廓光勾勒出她的身形，并呈现远处城市灯光与棕榈树营造出的唯美虚化效果。以豪华汽车摄影美学捕捉这一场景，运用浅景深、超写实皮肤纹理、电影级调色、HDR 光影、主体锐利对焦，营造出充满野心、自信与青春自由的氛围。照片级真实感 8K 分辨率，Vogue x Porsche 广告大片质感，屡获殊荣的时尚摄影，动态构图，情感叙事，展现强大的现代梦想家美学。
+
+[English]
+Using the uploaded image and without changing face create a stunning cinematic lifestyle portrait of the {argument name="subject" default="woman"} seated confidently at sunset in an {argument name="setting" default="urban desert-inspired setting"}, preserving her exact facial features, expression, hairstyle, body proportions, and identity with absolute accuracy. Transform the scene into a premium fashion editorial where she sits on a sleek {argument name="car detail" default="custom sports car wheel"} beside a high-end modified vehicle, surrounded by warm golden-hour light and dramatic cotton-candy skies painted in shades of peach, orange, and violet. Enhance her colorful retro-inspired jacket, denim jeans, and sneakers with rich textures and realistic fabric detail while maintaining the original styling. Add subtle wind movement through her hair, glowing rim light outlining her silhouette, and beautiful bokeh from distant city lights and palm trees. Capture the scene with luxury automotive photography aesthetics, shallow depth of field, ultra-realistic skin texture, cinematic color grading, HDR lighting, razor-sharp focus on the subject, and an atmosphere of ambition, confidence, and youthful freedom. Photorealistic 8K resolution, Vogue x Porsche campaign quality, award-winning fashion photography, dynamic composition, emotional storytelling, and a powerful modern dreamer aesthetic.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2066175156717019170) | 2026-06-14
+
+---
+
+### 📷 例 1463：黑白时尚试镜联系表
+
+![黑白时尚试镜联系表](../../images/%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E8%AF%95%E9%95%9C%E8%81%94%E7%B3%BB%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黑白时尚试镜联系表，展示了一位女性，其 {argument name="hair style" default="短湿卷发"} 在摄影棚灯光下闪闪发光，排列成整洁的 2x2 四格近景肖像网格，背景为 {argument name="background" default="无缝黑色"}，身着 {argument name="outfit" default="丝绸长袍风格夹克"}，未佩戴明显首饰。每一格展示不同的表情和角度：令人难忘的直视目光、放松的微笑、内省的低头，以及面部带有戏剧性阴影轮廓的侧面肖像。柔和的摄影棚灯光，清晰的单色对比，自然的皮肤纹理，可见的面部细节，干净的纯色背景，细腻的胶片颗粒感，高端编辑测试拍摄，极简造型，亲密的拍摄距离，专业肖像摄影，宽高比 4:5。
+
+[English]
+Black-and-white fashion casting contact sheet of a woman with {argument name="hair style" default="short wet curls"} glistening under studio lights, arranged in a clean 2x2 grid of four close portrait frames against a {argument name="background" default="seamless black"} backdrop, wearing a {argument name="outfit" default="silk robe-inspired jacket"} and no visible jewelry. Each frame shows a different expression and angle: haunting direct gaze, relaxed smile, introspective downward look, and profile portrait with dramatic shadow sculpting across the face. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2066174697130336715) | 2026-06-14
+
+---
+
+### 📷 例 1465：贝多芬：从悲伤到光明的艺术作品
+
+![贝多芬：从悲伤到光明的艺术作品](../../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%EF%BC%9A%E4%BB%8E%E6%82%B2%E4%BC%A4%E5%88%B0%E5%85%89%E6%98%8E%E7%9A%84%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具电影感的混合媒介艺术作品，表现 {argument name="composer" default="路德维希·凡·贝多芬"} 以及悲伤转化为璀璨音乐的悖论。使用 16:9 的宽幅横向画布。在左侧三分之一处，展示一座深色、雕塑感、灰度色调的贝多芬侧面半身像，面向右侧，有着凌乱的卷发、厚重的眉毛和凝重下垂的目光；面部和头发应呈现出木炭、石头和油画颜料结合的质感，部分溶解为黑色墨迹和龟裂的羊皮纸纹理。在他身后，加入模糊的手写手稿痕迹，以及草书风格的“L. v. Beethoven”签名式文字。在画面中心向右侧延伸，描绘五线谱和音符如音流般喷涌而出，从烟雾缭绕的棕褐色暗影过渡为强烈的金白色光芒。在画面下方中心处放置一条撕裂的陈旧手稿纸带，上面书写着优雅的草书 {argument name="inscription text" default="Inter lacrymas et luctus"}。右半部分应极其明亮：闪烁的金色、琥珀色和白色光束、划痕、灰尘以及抽象的笔触，仿佛音乐正在化作光芒。在整个画面中加入黑色墨滴、污渍、裂纹和喷溅的颜料，特别是在中心过渡区域和铭文下方。调色板：左侧接近黑色、炭灰色和柔和的棕色；右侧为璀璨的金色、赭石色、奶油色和白色。风格：表现主义古典与当代拼贴的结合，具有绘画质感、高对比度的明暗对照法、手稿纸、水墨渲染、脏旧喷溅效果，情感浓烈且富有诗意。避免出现现代乐器，避免出现额外人物，避免使用干净的数字矢量图形，并将所有可见文字限制在作曲家签名和中央的拉丁语铭文内。
+
+[English]
+Create a dramatic cinematic mixed-media artwork about {argument name="composer" default="Ludwig van Beethoven"} and the paradox of grief transforming into radiant music. Use a wide 16:9 horizontal canvas. On the left third, show a dark, sculptural, grayscale portrait bust of Beethoven in profile facing right, with wild curly hair, heavy brow, and a solemn downward gaze; the face and hair should look like charcoal, stone, and oil paint combined, partly dissolving into black ink splatters and cracked parchment texture. Behind him, include faint handwritten manuscript marks and the readable signature-like text “L. v. Beethoven” in cursive. Across the center and sweeping toward the right, depict musical staff lines and notes bursting outward like a stream of sound, transitioning from smoky sepia darkness into intense golden-white light. Place a torn strip of aged manuscript paper across the lower center with elegant cursive inscription {argument name="inscription text" default="Inter lacrymas et luctus"}. The right half should be overwhelmingly luminous: glowing gold, amber, and white rays, scratches, dust, and abstract brush strokes, as if music is becoming light. Add black ink drips, stains, cracks, and splattered paint throughout, especially near the central transition and under the inscription. Color palette: left side nearly black, charcoal gray, and muted brown; right side radiant gold, ochre, cream, and white. Style: expressive classical-meets-contemporary collage, painterly texture, high contrast chiaroscuro, manuscript paper, ink wash, grunge splatter, emotionally intense and poetic. Avoid modern instruments, avoid extra people, avoid clean digital vector graphics, and keep all visible text limited to the composer signature and the central Latin inscription.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2066171754960114119) | 2026-06-14
+
+---
+
+### 📷 例 1466：狗仔队在豪华酒店外拍摄
+
+![狗仔队在豪华酒店外拍摄](../../images/%E7%8B%97%E4%BB%94%E9%98%9F%E5%9C%A8%E8%B1%AA%E5%8D%8E%E9%85%92%E5%BA%97%E5%A4%96%E6%8B%8D%E6%91%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的狗仔队风格街拍照片，展示 {argument name="character name" default="一位优雅的女性"} 从繁华城市的四季酒店 (Four Seasons) 入口走出。她位于画面中心，全身出镜，正自信地从路边走向镜头。她身穿一件修身的黑色短袖裹身裙，配有深 V 领口和高开叉设计，脚踩黑色尖头细高跟鞋，左手拎着一只小巧的黑色结构感手袋。她的面部经过柔和的矩形模糊处理以保护隐私，中棕色的及肩长发在自然阳光下清晰可见。在左侧门口附近安排 3 名酒店安保或门童，右侧则是一群密集的摄影师，他们正举着相机，闪光灯对准她拍摄。右侧前景的路边停着一辆光亮的黑色豪华轿车，车牌带有部分欧洲风格。背景应展示四季酒店的入口标志、石材建筑、门口阴影，以及正午明亮的阳光在路面上投下的强烈而真实的阴影。风格：高端明星抓拍、纪实摄影、35mm 街拍、自然对比度、轻微的动态感、无美颜修饰，垂直 3:4 构图。
+
+[English]
+Create a realistic paparazzi-style street photograph of {argument name="character name" default="an elegant woman"} stepping out of the Four Seasons hotel entrance in a busy city. She is centered full-body, walking confidently from the curb toward the camera, wearing a fitted black short-sleeve wrap dress with a deep V neckline and a high thigh slit, black pointed-toe stiletto pumps, and carrying a small structured black handbag in her left hand. Her face is intentionally anonymized with a soft rectangular blur, while her medium brown shoulder-length hair is visible in natural sunlight. Surround her with exactly 3 hotel security or doorman figures on the left near the doorway and a dense crowd of photographers on the right holding cameras with flashes aimed at her. Include a glossy black luxury sedan parked at the curb on the right foreground with a partial European-style license plate. The background should show the Four Seasons entrance sign, stone architecture, doorway shadows, and bright midday sunlight casting strong realistic shadows on the pavement. Style: high-end celebrity candid photo, editorial realism, 35mm street photography, natural contrast, slight motion energy, no glamour retouching, vertical 3:4 composition.
+```
+
+**来源：** [@Nadia Ai](https://x.com/Nadia_with_Ai/status/2066170153667309618) | 2026-06-14
+
+---
+
+### 📷 例 1468：带有隐私遮挡的忧郁肖像
+
+![带有隐私遮挡的忧郁肖像](../../images/%E5%B8%A6%E6%9C%89%E9%9A%90%E7%A7%81%E9%81%AE%E6%8C%A1%E7%9A%84%E5%BF%A7%E9%83%81%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形、电影质感的特写肖像，主体为 {argument name="subject" default="一位留着凌乱深色头发的中性化年轻人"}，场景设定在昏暗的室内，进行紧凑裁剪，使头部和肩部填满画面。人物穿着一件 {argument name="clothing" default="深炭灰色针织毛衣"}，一只手托在下巴附近，姿势若有所思，手指在画面下方中央隐约可见。采用忧郁的低调照明、浅景深、柔和的暖灰色背景、逼真的皮肤和头发纹理，以及带有轻微颗粒感的胶片摄影风格。在面部中央直接放置一个大型不透明方形隐私遮挡块，遮住从额头到嘴部的大部分面部特征；遮挡块应呈现平滑的垂直渐变，顶部为近乎黑色的深棕色，底部为暖中棕色，边缘锐利笔直，居中且占据图像大部分的宽度和高度。仅保留头发边缘、一只耳朵区域、肩膀、毛衣和手部在遮挡块周围部分可见。无文字，无水印，无装饰元素。
+
+[English]
+Create a square, cinematic close-up portrait of {argument name="subject" default="an androgynous young adult with tousled dark hair"} in a dim indoor setting, cropped tightly so the head and shoulders fill the frame. The person wears a {argument name="clothing" default="dark charcoal knit sweater"} and rests one hand near the chin in a thoughtful pose, with softly visible fingers at the lower center. Use moody low-key lighting, shallow depth of field, muted warm-gray background, realistic skin and hair texture, and a subdued film-photography look with slight grain. Place a large opaque square privacy block directly over the center of the face, covering most facial features from the forehead down to the mouth; the block should be a smooth vertical gradient from near-black dark brown at the top to medium warm brown at the bottom, with sharp straight edges, centered and occupying most of the image width and height. Keep only the hair edges, one ear area, shoulder, sweater, and hand partially visible around the block. No text, no watermark, no decorative elements.
+```
+
+**来源：** [@かッッき](https://x.com/kakidios/status/2066165662335303887) | 2026-06-14
+
+---
+
+### 📷 例 1471：暮色公园台阶人像
+
+![暮色公园台阶人像](../../images/%E6%9A%AE%E8%89%B2%E5%85%AC%E5%9B%AD%E5%8F%B0%E9%98%B6%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级超写实人像，画面中一位 {argument name="character age and gender" default="21 岁女性"} 随意地坐在静谧公园内饱经风霜的石阶上，身旁是一盏散发着微光的老式路灯。她面带柔和自然的微笑，姿态放松，双臂搭在膝盖上，深色长发略显凌乱，编成一条侧边辫。服装包含 5 件清晰可见的单品：一件 {argument name="shirt color and style" default="粉色厚实廓形 T 恤"}、黑色工装裤、白色运动鞋、手腕上佩戴的黑色智能手表，以及极简的自然妆容。构图上，将人物置于画面右侧，左侧的老式路灯散发出温暖的黄色光芒；背景中加入两盏模糊的小型公园灯。使用浅景深、柔和的树木虚化效果、温暖的黄昏氛围、真实的皮肤质感、自然的比例以及电影级调色。石阶应呈现出陈旧、带有污渍且纹理丰富的质感，侧面的弧形墙壁呈对角线贯穿整个构图。采用全画幅相机 85mm 镜头视角拍摄，f/1.8 景深，平衡的黄昏曝光，超精细写实风格，无文字，无水印。
+
+[English]
+Create a cinematic hyper-realistic portrait of a {argument name="character age and gender" default="21-year-old woman"} sitting casually on weathered stone stairs in a quiet park at twilight, beside an old glowing lamp post. She has a soft natural smile, relaxed posture, arms resting on her knees, and slightly messy dark hair styled in a long side braid. Outfit includes exactly 5 visible pieces: a {argument name="shirt color and style" default="pink heavyweight oversized T-shirt"}, black cargo pants, white sneakers, a black smartwatch on one wrist, and minimal natural makeup. Compose her seated on the right side of the frame, with the vintage lamp post on the left emitting warm yellow light; add two small blurred park lights in the background. Use shallow depth of field, soft bokeh trees, warm dusk ambience, realistic skin texture, natural proportions, and cinematic color grading. The stone staircase should look aged, stained, and textured, with a curved side wall leading diagonally through the composition. Shot on a full-frame camera with an 85mm lens look, f/1.8 depth of field, balanced twilight exposure, ultra-detailed photorealism, no text, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2066163366272589857) | 2026-06-14
+
+---
+
+### 📷 例 1474：时尚动漫风人物肖像
+
+![时尚动漫风人物肖像](../../images/%E6%97%B6%E5%B0%9A%E5%8A%A8%E6%BC%AB%E9%A3%8E%E4%BA%BA%E7%89%A9%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻日本动漫女性全身肖像，站在干净的时尚摄影棚内，背景为纯净的浅灰白色。她身材苗条迷人，皮肤白皙，留着齐下巴的波波头，发色为 {argument name="hair color" default="带有微妙绿色阴影的白色"}，有着柔和的绿色双眸，神情冷静且略带疏离，视线微微看向观众的右侧。服装：黑色透明不对称单肩短款上衣，高领设计并带有细肩带细节，佩戴叠层项链/颈圈，外搭一件超大款 {argument name="jacket color" default="祖母绿"} 飞行员夹克，夹克滑落肩头，袖管宽大；下身穿着高腰白色迷你裙，裙侧带有黑色透明拼接，系着宽大的黑色腰带，配有大型银色长方形皮带扣；可见两条连接至大腿高透明深色长筒袜的吊带，脚穿带有搭扣的厚底黑色踝靴。姿势：放松的直立站姿，双腿并拢，单肩裸露，双臂自然垂在宽松的夹克袖中。光影与渲染：高度细腻的精致动漫插画，焦点清晰，来自右上方的柔和摄影棚灯光，在墙壁和地面上投下强烈的写实投影，展现出微妙的织物透明感与褶皱，构图简洁，无文字，无道具，无水印。
+
+[English]
+Full-body portrait of a stylish young Japanese anime woman standing in a clean fashion studio against a plain light gray-white background. She has a slim attractive figure, pale skin, short chin-length bob hair in {argument name="hair color" default="white with subtle green-tinted shadows"}, soft green eyes, and a calm slightly aloof expression, looking slightly to the viewer’s right. Outfit: a black sheer asymmetric one-shoulder crop top with a high neck and thin strap details, layered necklaces/choker, an oversized {argument name="jacket color" default="emerald green"} bomber jacket worn off the shoulders with bulky sleeves, a high-waisted white mini skirt with black sheer side panels, a wide black belt with a large silver rectangular buckle, two visible garter straps connected to thigh-high sheer dark stockings, and chunky black platform ankle boots with buckle straps. Pose: relaxed upright standing pose, legs close together, one shoulder exposed, arms hanging naturally inside the loose jacket sleeves. Lighting and rendering: highly detailed polished anime illustration, sharp focus, soft studio lighting from the upper right, strong realistic cast shadow falling to the left on the wall and floor, subtle fabric transparency and folds, clean composition, no text, no props, no watermark.
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2066161246865682706) | 2026-06-14
+
+---
+
+### 📷 例 1476：FIFA 世界杯胜利宝座
+
+![FIFA 世界杯胜利宝座](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E8%83%9C%E5%88%A9%E5%AE%9D%E5%BA%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅奢华的 FIFA 世界杯宝座构图，以上传的人脸作为身份保留参考。主体坐在暗色调摄影棚中央的 {argument name="chair type" default="黑色皮椅"} 上，椅子置于圆形金属平台之上。主体身穿 {argument name="subject clothing" default="深色长袖衬衫和黑色牛仔裤"}，脚蹬浅色运动鞋，神情冷静且充满统治力地注视前方；一只手放在膝盖上，另一只手高举闪耀的奖杯，象征着胜利。周围环绕着一圈巨大的金属奖杯和足球，呈雕塑般的对称排列；前景处散落着几个较小的足球和奖杯，以营造深度和层次感。背景为深邃的纯黑色，带有微妙的体育场氛围薄雾。来自上方的强力 {argument name="rim light color" default="蓝色"} 轮廓光勾勒出面部和肩部线条，下方升起的温暖红色强调光营造出强烈的对比，雕琢出主体轮廓。反光的铬合金表面捕捉着每一处高光，呈现电影级摄影棚写实感、高端编辑摄影风格、浅景深、极致细节、大胆构图、精英级 FIFA 世界杯视觉识别，极具社交媒体病毒式传播的海报质感。
+
+[English]
+A luxury FIFA World Cup throne composition featuring the uploaded face as reference for identity preservation, the subject seated in the middle of a dark studio arena on a {argument name="chair type" default="black leather chair"} placed atop a circular metallic platform, wearing a {argument name="subject clothing" default="dark long-sleeved shirt and black jeans"} with light sneakers, staring forward with a calm, dominant expression, one hand resting on the knee while the other holds a gleaming trophy upright like a symbol of victory, surrounded by a ring of oversized metallic trophies and footballs arranged in a sculptural, symmetrical formation, with a few smaller balls and trophies closer to the foreground to create depth and scale, the backdrop a deep solid black with subtle stadium-like atmospheric haze, strong {argument name="rim light color" default="blue"} rim light from above outlining the face and shoulders, warm red accent light rising from below to create dramatic contrast and sculpt the silhouette, reflective chrome surfaces catching every highlight, cinematic studio realism, premium editorial photography style, shallow depth of field, extreme detail, bold composition, elite FIFA World Cup visual identity, viral social media poster energy.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2066156216980480132) | 2026-06-14
+
+---
+
+### 📷 例 1479：电影院大厅里的哥特风动漫少女
+
+![电影院大厅里的哥特风动漫少女](../../images/%E7%94%B5%E5%BD%B1%E9%99%A2%E5%A4%A7%E5%8E%85%E9%87%8C%E7%9A%84%E5%93%A5%E7%89%B9%E9%A3%8E%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖版手机摄影照片，场景位于夜晚的现代电影院大厅，展示了一位名为 {argument name="character name" default="Emilia"} 的动漫风格年轻女性，她以四分之三侧面站立在巨大的数字“NOW SHOWING”项目下方。她留着非常长的 {argument name="hair color" default="铂金色"} 双马尾，发束用黑色丝带系住，皮肤白皙，身材苗条，脸部被一个简单的竖向米色矩形隐私遮挡块刻意遮住。她摆出沉思的姿势，一只手抬起靠近脸颊，另一只手臂交叉在腰间，抬头看向电影排片表。她的装扮为哥特朋克风格的黑色套装，包含 6 件清晰可见的主要单品：一件露肩短款黑色印花 T 恤（带有白色骷髅字母）、一个黑色颈圈、一条黑色高腰百褶迷你裙、一条黑色金属孔眼腰带、腰间垂下的两条银色链条，以及黑色大腿吊带。电影院背景应包含项目上的 5 个日文电影标题，放映时间分别为 10:15、12:30、12:45、14:45、17:00 和 19:30，此外还有 2 块标有 3 和 4 的大型发光上方海报面板、墙上 2 张带框的电影海报，以及带有黑色立柱的红色排队绳栏。使用温暖的室内影院灯光，带有倒影的亮面深色大理石地面，浅景深效果，轻微的手持抓拍构图，真实的皮肤和头发质感，电影级虚化效果，以及写实的时尚快照风格。保持场景位于 {argument name="location" default="日本电影院大厅"}，并确保 {argument name="board heading" default="NOW SHOWING"} 等日文标识清晰可见，但不必过于锐利。
+
+[English]
+Create a realistic vertical smartphone photo in a modern cinema lobby at night, showing an anime-inspired young woman named {argument name="character name" default="Emilia"} standing in three-quarter profile beneath a large digital “NOW SHOWING” schedule board. She has very long {argument name="hair color" default="platinum blonde"} hair in twin ponytails tied with black ribbons, pale skin, a slim figure, and her face is intentionally covered by a plain vertical beige rectangular privacy block. She poses thoughtfully with one hand raised near her cheek and the other arm folded across her waist, looking upward toward the movie listings. Her outfit is a gothic punk black ensemble with exactly 6 main visible pieces: an off-shoulder cropped black graphic T-shirt with white skull lettering, a black choker, a high-waisted black pleated mini skirt, a black grommet belt, two silver chain drapes at the hip, and black thigh garter straps. The cinema background should include exactly 5 Japanese movie titles on the digital board with showtimes 10:15, 12:30, 12:45, 14:45, 17:00, and 19:30, plus exactly 2 large illuminated upper poster panels labeled 3 and 4, exactly 2 framed lower movie posters on the wall, and red rope queue barriers with black stanchions. Use warm indoor theater lighting, glossy dark marble floors with reflections, shallow depth of field, slight handheld candid composition, realistic skin and hair texture, cinematic bokeh, and a photorealistic fashion snapshot style. Keep the scene in a {argument name="location" default="Japanese movie theater lobby"}, with Japanese signage such as {argument name="board heading" default="NOW SHOWING"} clearly visible but not overly crisp.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2066151080443158680) | 2026-06-14
+
+---
+
+### 📷 例 1484：双色滤镜影棚人像
+
+![双色滤镜影棚人像](../../images/%E5%8F%8C%E8%89%B2%E6%BB%A4%E9%95%9C%E5%BD%B1%E6%A3%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实全身人像，一位年轻的南亚女性，橄榄色皮肤，留着带有细微红褐色挑染的长波浪深棕色头发，双眼低垂，精致的自然妆容，身穿黑色缎面衬衫并束进黑色高腰阔腿裤中，双手插兜，穿着黑红配色运动鞋，自信站立，戏剧性的影棚背景，伴有红金橙三色交织的烟雾云团，双色滤镜灯光，情绪化的电影质感，深色地面反射，时尚杂志摄影风格，全身照，DSLR，焦点清晰，高对比度灯光 --ar 4:5 --stylize 800 --v 6.1
+
+[English]
+ultra-realistic full body portrait of a young South Asian woman, olive skin, long wavy dark brown hair with subtle auburn highlights, eyes cast downward, soft natural makeup, wearing black satin button-up shirt tucked into black wide-leg high-waist trousers, hands in pockets, black and red sneakers, standing confidently, dramatic studio background with swirling red and golden orange smoke clouds, dual color gel lighting, moody cinematic atmosphere, dark floor reflection, editorial fashion photography, full body shot, DSLR, sharp focus, high contrast lighting --ar 4:5 --stylize 800 --v 6.1
+```
+
+**来源：** [@Aiza](https://x.com/AizaAi12/status/2066145554565128208) | 2026-06-14
+
+---
+
+### 📷 例 1485：FIFA 世界杯极简海报
+
+![FIFA 世界杯极简海报](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级的 FIFA 世界杯海报设计，主角为 {argument name="player type" default="传奇足球巨星"}。极简白色背景，画面主体为巨大的单色特写肖像。肖像被分割成若干水平切片，切片间留有细长的白色缝隙，营造出摩登的碎片化编辑效果。左侧采用大型垂直粗体排版，以 {argument name="color scheme" default="国家队配色"} 拼写出球员姓名。前景叠加球员全身动作姿态，身穿国家队球衣，自信庆祝。右上角放置国旗和足协徽章。肖像附近配有优雅的亲笔签名。底部有柔和的雾气/烟雾淡出效果。奢华体育杂志美学，{argument name="branding style" default="Nike 风格"} 广告宣传，高对比度黑白肖像，面部细节清晰，构图简洁，高级排版，海报设计，体育品牌推广，编辑排版，电影级布光，超写实，8k，专业平面设计，留白，现代 FIFA 世界杯宣传艺术作品。
+
+风格关键词：
+体育海报，编辑设计，现代排版，单色肖像，动态运动员姿态，白色极简背景，高级品牌推广，高端广告，世界杯宣传活动，超细节，照片级真实，平面设计杰作
+
+[English]
+Create a premium FIFA World Cup poster design featuring a {argument name="player type" default="legendary football superstar"}. Minimalist white background with a giant monochrome close-up portrait occupying most of the canvas. The portrait is divided into several horizontal slices with thin white gaps between them, creating a modern fragmented editorial effect. On the left side, large vertical bold typography spelling the player’s name in {argument name="color scheme" default="national team colors"}. A full-body action pose of the player overlaps the portrait in the foreground, wearing the national team jersey and celebrating confidently. National flag and federation crest placed on the upper right. Elegant autograph signature near the portrait. Soft fog/smoke fading at the bottom. Luxury sports magazine aesthetic, {argument name="branding style" default="Nike-style"} advertising campaign, high contrast black-and-white portrait, sharp facial details, clean composition, premium typography, poster design, sports branding, editorial layout, cinematic lighting, ultra realistic, 8k, professional graphic design, negative space, modern FIFA World Cup promotional artwork.
+
+Style Keywords:
+Sports poster, Editorial design, Modern typography, Monochrome portrait, Dynamic athlete pose, White minimal background, Premium branding, High-end advertising, World Cup campaign, Ultra detailed, Photorealistic, Graphic design masterpiece
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2066144411801555173) | 2026-06-14
+
+---
+
+### 📷 例 1487：通往另一人生的门：超现实奇幻艺术
+
+![通往另一人生的门：超现实奇幻艺术](../../images/%E9%80%9A%E5%BE%80%E5%8F%A6%E4%B8%80%E4%BA%BA%E7%94%9F%E7%9A%84%E9%97%A8%EF%BC%9A%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅超电影感的超现实奇幻艺术作品，名为 {argument name="artwork title" default="The Door to Another Life"}。画面中，一名孤独帅气的男子站在深夜空旷多雨的道路上，在荒无人烟之处推开了一扇巨大的发光木门。门外：乌云密布、街道潮湿、忧郁的城市天际线，营造出感伤孤独的氛围。门内：一个令人叹为观止的梦幻世界，拥有金色的落日余晖、浮岛、巨大的瀑布、发光的山脉、天空中神奇的城堡，以及温暖的天堂之光。男子站在两个世界之间，象征着希望与新的开始。电影级布光、戏剧性阴影、超写实、超细节、电影海报美学、体积光、杰作、史诗级奇幻规模、8K 分辨率、橙色与深蓝色的对比、焦点清晰。
+
+[English]
+An ultra-cinematic surreal fantasy artwork called {argument name="artwork title" default="The Door to Another Life"}, a lonely handsome man standing on an empty rainy road at night, opening a massive glowing wooden door in the middle of nowhere. Outside the door: dark storm clouds, wet streets, moody city skyline, emotional lonely atmosphere. Inside the door: a breathtaking dream world with golden sunset skies, floating islands, giant waterfalls, glowing mountains, magical castles in the sky, warm heavenly light. The man stands between two worlds, symbolizing hope and a new beginning, cinematic lighting, dramatic shadows, hyper realistic, ultra detailed, movie poster aesthetic, volumetric lighting, masterpiece, epic fantasy scale, 8K, orange and dark blue contrast, sharp focus.
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2066140641629819235) | 2026-06-14
+
+---
+
+### 📷 例 1488：“死亡之墙”鱼眼镜头纪录片风格摄影
+
+![“死亡之墙”鱼眼镜头纪录片风格摄影](../../images/%E2%80%9C%E6%AD%BB%E4%BA%A1%E4%B9%8B%E5%A2%99%E2%80%9D%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%A4%B4%E7%BA%AA%E5%BD%95%E7%89%87%E9%A3%8E%E6%A0%BC%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影级广角纪录片风格照片，展现了一位特技车手在巨大的圆形“死亡之墙”竞技场内进行的惊险表演。车手被捕捉到木质垂直墙壁的上缘附近，骑着一辆 {argument name="vehicle" default="复古红银色摩托车"} 并伸手去接观众手中的钱。构图采用了从竞技场边缘拍摄的 {argument name="lens" default="极致鱼眼视角"}，营造出极具戏剧性的圆形碗状效果，将视线引向下方深邃的中心。环境拥挤且充满活力，观众站在四周的顶部栏杆旁，从上方俯瞰特技表演。竞技场墙壁由深色木板构成，纹理清晰，带有划痕、灰尘和磨损的痕迹。蓝色金属栏杆构成了顶部和底部的前景，增加了强烈的引导线和危险感。车手的表情冷静、专注且无畏，展现出高速表演时的自信。他的身体姿态放松但充满控制力，与危险的环境形成鲜明对比。色调应呈现真实且略带粗粝的质感：温暖的金色阳光洒在竞技场内，深棕色的木墙，褪色的蓝色栏杆，尘土飞扬的阴影以及柔和的观众色彩。添加自然的电影级色彩渐变，车手和摩托车上有温暖的高光，墙壁右侧有更深的阴影色调，并带有轻微去饱和的纪录片质感。画面应呈现出原始、真实、危险且令人心跳加速的感觉，就像在完美瞬间捕捉到的真实特技现场。
+
+[English]
+A cinematic wide-angle documentary photograph of a daring motorcycle stunt rider performing inside a massive circular Wall of Death arena. The rider is captured near the upper edge of the wooden vertical wall, balancing on a {argument name="vehicle" default="vintage red and silver motorcycle"} while reaching out to take money from a spectator’s hand. The composition uses an {argument name="lens" default="extreme fisheye perspective"} from the rim of the arena, creating a dramatic circular bowl shape that pulls the eye toward the deep center below. The environment is crowded and energetic, with spectators standing all around the top railing, watching the stunt from above. The arena walls are dark wooden planks with visible texture, scratches, dust, and motion worn surfaces. Blue metal railings frame the top and bottom foreground, adding strong leading lines and a sense of danger. The rider’s expression is calm, focused, and fearless, showing confidence while performing at high speed. His body posture feels relaxed but controlled, creating contrast with the risky environment. Color palette should feel realistic and slightly gritty: warm golden sunlight hitting the inside of the arena, deep brown wooden walls, faded blue railings, dusty shadows, and muted crowd colors. Add a natural cinematic color gradient with warm highlights on the rider and motorcycle, darker shadow tones along the right side of the wall, and a slightly desaturated documentary look. The image should feel raw, authentic, dangerous, and thrilling, like a real-life stunt captured at the perfect moment.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2066139789578158215) | 2026-06-14
+
+---
+
+### 📷 例 1489：电影级仙侠女剑客肖像
+
+![电影级仙侠女剑客肖像](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E4%BB%99%E4%BE%A0%E5%A5%B3%E5%89%91%E5%AE%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版电影级特写肖像，主角为 {argument name="character name" default="一位优雅的女性修仙者"}，呈现中国仙侠奇幻剧风格。画面采用胸部以上构图，背景为昏暗的古风室内，身侧是一扇散发柔光的格栅窗，左上方有朦胧的体积光射入，背景呈现暗色虚化效果。主体拥有长而有光泽的 {argument name="hair color" default="黑色"} 头发，半扎发髻，发丝自然垂落在肩头，脑后可见精致的金簪，妆造极具古装剧质感。人物面部被一个巨大的不透明灰褐色矩形遮挡块居中覆盖，但头发、颈部、衣物和双手清晰可见。她身着浅象牙色、银灰色和浅蓝色层叠飘逸的汉服，饰有刺绣锦缎镶边、暖红色内领，面料轻盈透亮，并带有细腻的金属丝细节。双手横握一把鲜艳的半透明翡翠绿长剑或玉刃，置于画面下方前景，剑身从左至右略微向上倾斜，右侧边缘带有金色配件，剑身捕捉到明亮的高光。采用高预算中国奇幻电视剧的写实布光，浅景深，柔光溢出，胶片颗粒感，自然的皮肤与织物纹理，戏剧性的逆光，营造出一种既神秘又写实的氛围。竖版 9:16 构图，紧凑裁剪，无可见文字，无水印，无额外角色。
+
+[English]
+Create a vertical cinematic close-up portrait of {argument name="character name" default="a graceful female immortal cultivator"} in a Chinese xianxia fantasy drama style. She is framed from the chest up in a dim antique interior beside a softly glowing lattice window, with hazy volumetric sunlight streaming from the upper left and a dark blurred background. The subject has long glossy {argument name="hair color" default="black"} hair styled half-up with loose flowing strands over the shoulders, an ornate gold hairpin visible near the back of the head, and delicate period-drama styling. Her face is deliberately covered by one large opaque muted gray-brown rectangular censor block centered over the entire face, while the hair, neck, clothing, and hands remain visible. She wears layered flowing Hanfu robes in pale ivory, silver-gray, and light blue, with embroidered brocade trim, a warm red inner collar, soft translucent fabric, and subtle metallic thread details. Both hands hold a vivid translucent emerald-green sword or jade blade horizontally across the lower foreground, angled slightly upward from left to right, with gold fittings at the right edge; the blade catches a bright specular highlight. Use realistic high-budget Chinese fantasy TV production lighting, shallow depth of field, soft bloom, film grain, natural skin and fabric texture, dramatic backlight, and a mystical but grounded mood. Vertical 9:16 composition, close crop, no visible text, no watermark, no extra characters.
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2066137085812019330) | 2026-06-14
+
+---
+
+### 📷 例 1492：电影感 Ilya 咖啡馆窗边镜头
+
+![电影感 Ilya 咖啡馆窗边镜头](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%20Ilya%20%E5%92%96%E5%95%A1%E9%A6%86%E7%AA%97%E8%BE%B9%E9%95%9C%E5%A4%B4.jpg)
+
+**Prompt:**
+
+```text
+## {argument name="character name" default="일리야"} × {argument name="location" default="카페"} 외부 시점 × 창너머 촬영
+
+---
+
+**【레퍼런스 파일 명시】**
+- 얼굴 기준: `일리야_얼굴정면_NEW.png` / `일리야_얼굴측면_NEW.png`
+- 의상·헤어 기준: `일리야_캐릭터턴어라운드1_저용량_.png`
+- 구도·반사 기준: `캡처_210.png`
+- 색보정 기준: `Cinelook_50.jpg`
+
+---
+
+**【카메라 포지션 & 핵심 구도 — 가장 중요】**
+
+카메라는 카페 **외부(길거리)**에 위치. 촬영자는 카페 유리창 바깥에서 안을 들여다보는 시점. {argument name="character name" default="일리야"}는 카페 **실내 창가**에 앉거나 서서 얼굴을 유리창에 바짝 붙이고 있음. 유리창이 카메라와 피사체 사이에 물리적으로 존재 — 유리의 두께감, 미세한 반사, 창틀의 물리적 레이어가 화면 전면부를 구성. 카메라는 로우 앵글(턱선 아래), 약 20~30도 사선. {argument name="character name" default="일리야"}의 얼굴은 유리에 밀착되어 뺨이나 이마가 살짝 눌리는 느낌, 입김이 살짝 서릴 수도 있음. 눈은 하늘 혹은 먼 곳을 응시 — 카메라 직시 아님.
+
+**유리창 레이어 표현:**
+- 유리 표면에 외부 거리({argument name="era" default="1940s 쇼와"}+2026 믹스 동경)의 반사가 {argument name="character name" default="일리야"} 얼굴 위에 은은하게 오버랩
+- 유리의 미세한 먼지, 물기 자국, 왜곡이 사실감을 높임
+- 창틀(목재 또는 금속)이 화면을 수직·수평으로 분할하는 프레임 안의 프레임 구성
+- 카페 내부 조명이 유리를 통해 따뜻하게 새어나오고, 외부는 청회색 낮 빛
+
+---
+
+**【주체 & 피부 질감】**
+{argument name="character name" default="일리야"}. 얼굴은 `일리야_얼굴정면_NEW.png` / `일리야_얼굴측면_NEW.png` 동일하게 유지. 8K 하이퍼리얼리스틱 피부 — 모공, 솜털, 피지광택, 눈물막 반사, 모세혈관, 머리카락 낱올, 속눈썹 수분감. 에어브러싱 완전 배제. 매트하고 살아있는 피부 질감. 유리창에 얼굴이 밀착된 상태라 뺨 한쪽이 유리에 눌려 살짝 변형되는 자연스러운 디테일 포함.
+
+**【의상·헤어·주얼리】**
+`일리야_캐릭터턴어라운드1_저용량_.png` 기준. 백색 베이스 + 레드 용 자수 어깨 아머, 크로스 레이스업 흰색 전투복, 레드 드래곤 패턴. 긴 흑발 자연 웨이브, 드롭형 은 귀걸이. 마스크 없음, 얼굴 완전 노출.
+
+**【배경 — 카페 내부(유리 너머로 보임)】**
+유리창 너머 카페 내부: {argument name="era" default="1940s 쇼와"} 목재 인테리어 + 2026 미니멀 감성 혼합. 낡은 목재 테이블, 다이쇼~쇼와 초기 조명기구(텅스텐 전구), 현대적 산업용 메탈 체어. 카페 내부 조명은 따뜻한 앰버(2800K) — 유리를 통해 배경에서 새어나옴.
+
+**【배경 — 카페 외부(카메라 주변 환경)】**
+카메라가 위치한 거리: 1940년대 동경 + 2026 도시가 혼재한 익스테리어. 낡은 목조 상점들 사이로 현대 빌딩 실루엣, 쇼와 시대 간판과 LED 사이니지 공존. 비 온 직후 젖은 노면 반사. 전체 외부는 청회색 낮 빛, 카페 내부만 따뜻하게.
+
+**【렌즈 & 심도】**
+Sony A7R V. 렌즈: 85mm f/1.4 GM. 조리개 f/2.0~f/2.2. 초점면: 유리창에 밀착된 {argument name="character name" default="일리야"}의 눈·코 — 유리 자체는 살짝 아웃포커스되어 몽환적 레이어 형성. 카페 내부 배경은 소프트 보케. 포그라운드의 창틀은 선명하게.
+
+**【조명】**
+외부(카메라 쪽): 맑은 낮 청백 자연광 5800K, 소프트 디퓨즈. 소프트박스 약광 보조로 인물 얼굴 전면에 밀크 화이트 필 라이트. 내부(유리 너머): 앰버 텅스텐 2800K 카페 조명이 역광처럼 {argument name="character name" default="일리야"} 뒤에서 새어나옴 — 헤어 엣지에 따뜻한 림라이트 효과. 전체 노출: 약한 오버엑스포저, 하이라이트 소프트 클리핑.
+
+**【색보정 & 톤앤매너】**
+`Cinelook_50.jpg` 기준. 청회색 쿨 베이스 톤, 밀크 화이트 하이라이트, 채도 전체 낮게 — 레드 드래곤 자수만 소폭 채도 잔류. 필름 그레인 약하게, 디지털 노이즈 경미하게. 매트 빈티지 CCD 룩. 쨍함 없는 소프트 마감.
+```
+
+**来源：** [@VELIX Cinematic AI Studio](https://x.com/JWPR_ai/status/2066131610156855417) | 2026-06-14
+
+---
+
+### 📷 例 1493：韩系时尚博主公寓肖像
+
+![韩系时尚博主公寓肖像](../../images/%E9%9F%A9%E7%B3%BB%E6%97%B6%E5%B0%9A%E5%8D%9A%E4%B8%BB%E5%85%AC%E5%AF%93%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[参考图像]
+使用提供的参考图像，创作一张超写实的全身生活方式肖像，画面中一位美丽的年轻女性正随意地站在 {argument name="setting" default="现代极简主义公寓"} 内。她留着一头丝滑的长深棕色波浪卷发，拥有无瑕的瓷肌、韩系自然妆容、淡淡的玫瑰色腮红、粉嫩的嘟嘟唇、精致的五官以及温暖柔和的微笑。
+她身穿一件超大款 {argument name="jersey style" default="巴塞罗那足球俱乐部风格主场球衣"}，采用深海军蓝与酒红色垂直条纹，版型宽松，搭配 {argument name="jeans style" default="超宽松浅色阔腿牛仔裤"}，裤脚垂落在厚底白色运动鞋上。单肩背着一个时髦的黑色单肩包，双手自然地插在裤兜里，呈现出一种毫不费力的街头风格姿势。
+背景是一个明亮的斯堪的纳维亚风格公寓，拥有白色墙壁、温暖的木地板、极简主义黑色家具，柜子旁靠着一张装裱好的黑白建筑海报，大窗户透入柔和的自然光，室内整洁清爽，色调中性。
+主体面向镜头，头部微倾，姿态放松，营造出一种温馨的 Pinterest 和韩系时尚博主审美。捕捉逼真的面料质感、超大款牛仔裤的自然褶皱、细腻的发丝、照片级的皮肤质感、平衡的室内光线以及高端的编辑感。
+风格：韩系时尚博主，Pinterest 审美，极简主义家居室内，休闲街头风，足球球衣穿搭，超大款牛仔裤潮流，生活方式摄影，照片级真实，柔和日光，Instagram 编辑风，高端智能手机摄影，超细节，杰作，最佳质量，8K。
+负面提示词
+低质量，模糊，解剖结构错误，多余手指，多余肢体，面部扭曲，手部畸形，人物重复，比例不真实，卡通，动漫，CGI，塑料感皮肤，水印，标志，文字，色彩过饱和，低分辨率，五官绘制粗糙，图像噪点，光线不自然。
+风格关键词
+Pinterest 穿搭灵感，韩系休闲时尚，超大款牛仔裤审美，足球球衣造型，极简主义公寓，斯堪的纳维亚室内设计，生活方式博主，Instagram 时尚，照片级真实，超细节，温馨编辑风，高端智能手机质感，8k。
+
+[English]
+[Reference Image]\nUsing the provided reference image, create an ultra-realistic full-body lifestyle portrait of a beautiful young woman standing casually inside a {argument name="setting" default="modern minimalist apartment"}. She has long, silky dark brown hair with soft waves, flawless porcelain skin, Korean-inspired natural makeup, subtle rosy blush, glossy pink lips, delicate facial features, and a warm, gentle smile.\nShe is wearing an oversized {argument name="jersey style" default="FC Barcelona-inspired home football jersey"} in deep navy and garnet vertical stripes with a relaxed fit, paired with {argument name="jeans style" default="ultra-baggy light-wash wide-leg denim jeans"} that drape over chunky white sneakers. A sleek black shoulder bag hangs from one shoulder, and both hands are tucked naturally into her front pockets for an effortless street-style pose.\nThe setting is a bright Scandinavian-inspired apartment with white walls, warm wooden flooring, minimalist black furniture, a framed black-and-white architectural poster leaning against a cabinet, soft natural daylight from large windows, and a clean, uncluttered interior with neutral tones.\nThe subject stands facing the camera with a slight head tilt and relaxed posture, creating a cozy Pinterest and Korean fashion influencer aesthetic. Capture realistic fabric textures, natural folds in the oversized jeans, detailed hair strands, photorealistic skin, balanced indoor lighting, and a high-end editorial feel.\nStyle: Korean fashion influencer, Pinterest aesthetic, minimalist home interior, casual streetwear, football jersey outfit, oversized denim trend, lifestyle photography, photorealistic, soft daylight, Instagram editorial, premium smartphone photography, ultra-detailed, masterpiece, best quality, 8K.\nNegative Prompt\nlow quality, blurry, bad anatomy, extra fingers, extra limbs, distorted face, malformed hands, duplicate person, unrealistic proportions, cartoon, anime, CGI, plastic skin, watermark, logo, text, oversaturated colors, low resolution, poorly drawn features, noisy image, unnatural lighting.\nStyle Keywords\nPinterest outfit inspiration, Korean casual fashion, oversized jeans aesthetic, football jersey styling, minimalist apartment, Scandinavian interior, lifestyle influencer, Instagram fashion, photorealistic, ultra detailed, cozy editorial, premium smartphone look, 8k.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066130912954474817) | 2026-06-14
+
+---
+
+### 📷 例 1494：极简剪影渐变肖像
+
+![极简剪影渐变肖像](../../images/%E6%9E%81%E7%AE%80%E5%89%AA%E5%BD%B1%E6%B8%90%E5%8F%98%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影感极简肖像，描绘了一个孤独的 {argument name="subject" default="man"} 站在引人注目的 {argument name="gradient color" default="orange-to-red"} 渐变环境中，戏剧性的背光剪影，深邃的阴影对比，镜面般的反射地板，完美对称的构图，剥离繁杂的极简美学
+
+[English]
+A cinematic minimalist portrait of a lone {argument name="subject" default="man"} standing in a striking {argument name="gradient color" default="orange-to-red"} gradient environment, dramatic backlit silhouette, deep shadow contrast, mirror-like reflective floor, perfectly symmetrical framing, stripped-back minimal aesthetic
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2066130323369590816) | 2026-06-14
+
+---
+
+### 📷 例 1495：黄色混合媒介肖像海报
+
+![黄色混合媒介肖像海报](../../images/%E9%BB%84%E8%89%B2%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张现代混合媒介编辑风格的肖像海报，主体为一位 {argument name="subject" default="南亚年轻女性"} 的半身像，居中且正对镜头，留着浓密的长波浪深棕色卷发，垂在双肩两侧，身穿一件亮 {argument name="shirt color" default="芥末黄"} 短袖口袋 T 恤。使用一个居中的纯色长方形暖棕色隐私色块完全遮挡面部，覆盖范围从额头到下巴，同时保留头发、颈部和服装可见。将肖像置于一个带有白色细边框的大型芥末黄色圆形镂空内。背景采用暖米色纸张纹理，并叠加图形拼贴元素：圆形后方有一个倾斜的白色矩形框，右上角和左下角有宽大的粗犷黄色笔触斜向扫过，左侧有一根带有 14 片清晰可见深色叶片的黑色植物枝条，左上角有黄色点状半色调网格，右下角有黑色点状半色调区域，右侧有淡淡的黄色方格网，圆形右下边缘附近有小型黑色圆形线条艺术，以及细微的灰色墨点纹理。保持构图垂直、高对比度、时尚、简洁且具有海报感，画面中无任何可读文字，且无水印。
+
+[English]
+Create a modern mixed-media editorial poster portrait of a {argument name="subject" default="young South Asian woman"} from the waist up, centered and facing forward, with long voluminous wavy dark brown hair over both shoulders, wearing a bright {argument name="shirt color" default="mustard yellow"} short-sleeve pocket T-shirt. Obscure the entire face with a centered solid rectangular privacy block in medium warm brown, covering from forehead to chin while leaving hair, neck, and clothing visible. Place the portrait inside a large mustard-yellow circular cutout with a thin white rim. Behind it, use a warm beige paper-texture background with layered graphic collage elements: one tilted white rectangular frame behind the circle, broad rough yellow paint-brush strokes sweeping diagonally from the upper right and lower left, a black botanical branch with exactly 14 visible dark leaves along the left side, a yellow dotted halftone grid in the upper left, a black dotted halftone field in the lower right, a faint yellow square grid on the right, small black circular line art near the lower right edge of the circle, and subtle gray ink splatter textures. Keep the composition vertical, high contrast, stylish, clean, and poster-like, with no readable text and no watermark.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2066129099203190847) | 2026-06-14
+
+---
+
+### 📷 例 1496：真实感智能手机夜间自拍
+
+![真实感智能手机夜间自拍](../../images/%E7%9C%9F%E5%AE%9E%E6%84%9F%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%A4%9C%E9%97%B4%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的近景自拍肖像，拍摄对象为 {argument name="subject" default="年轻女性"}，场景设定在室内夜间，由智能手机摄像头拍摄。皮肤质感柔和自然，肤色细腻，脸颊泛着淡淡的红晕，双唇粉嫩有光泽，表情俏皮，舌尖轻触上唇。明亮深邃的双眸略微侧向镜头。中长深棕色秀发配有轻盈的法式刘海，修饰着脸型。身着 {argument name="clothing" default="舒适的米色针织毛衣"}。构图采用极近距离裁剪，面部占据画面大部分空间，并部分延伸至画面边缘，营造出亲密且随性的氛围。温暖的低光环境照明在皮肤上投射出柔和的阴影与细腻的高光。背景为 {argument name="location" default="光线昏暗的公寓内部"}，配有大面积玻璃窗，窗外隐约可见城市灯光与倒影，家具虚化，景深较浅。呈现自然的智能手机摄影美学，低光条件下带有轻微噪点，皮肤纹理真实，电影感氛围浓厚，舒适的深夜格调，真实随性的社交媒体自拍，超细节，高分辨率，背景虚化，色彩真实，柔焦过渡，4K 摄影。
+
+[English]
+Ultra-realistic close-up selfie portrait of a {argument name="subject" default="young woman"} indoors at night, captured with a smartphone camera. Soft natural skin with a smooth complexion, subtle rosy cheeks, glossy pink lips, and a playful expression with her tongue slightly touching her upper lip. Large dark expressive eyes looking slightly sideways toward the camera. Medium-length dark brown hair with wispy curtain bangs framing the face. {argument name="clothing" default="Cozy cream-colored knitted sweater"} draped around the shoulders. The composition is an extreme close crop, with the face filling most of the frame and partially extending beyond the edges for an intimate candid feel. Warm low-light ambient illumination creates soft shadows and gentle highlights on the skin. Background features a {argument name="location" default="dimly lit apartment interior"} with large glass windows, faint city lights and reflections visible outside, blurred furniture, and shallow depth of field. Natural smartphone photography aesthetic, slight grain from low-light conditions, realistic skin texture, cinematic mood, cozy late-night atmosphere, authentic candid social-media selfie, ultra-detailed, high resolution, bokeh background, realistic colors, soft focus transitions, 4K photography.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066125611836616953) | 2026-06-14
+
+---
+
+### 📷 例 1502：日系街头时尚校服风格
+
+![日系街头时尚校服风格](../../images/%E6%97%A5%E7%B3%BB%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E6%A0%A1%E6%9C%8D%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张逼真的全身街头时尚照片，展现一位年轻女性站在日本商业街阳光明媚的人行道上，身穿 2.5D 动漫风格的校服。她留着长直发，发色为 {argument name="hair color" default="浅棕色"}，发间系着深色小发带，面部经过柔和的矩形模糊处理以保持匿名。服装细节：白色水手服上衣，配有海军蓝领子和大型海军蓝蝴蝶结，外搭奶油色廓形罗纹开衫，高腰海军蓝与米色格纹百褶短裙，宽松的白色堆堆袜，厚底黑色乐福鞋，饰有金色扣环，佩戴一条小项链、一个绿色珠子手链，单肩背着一个带有链条肩带的黑色单肩包。姿势设定为随意站立，一只手握住包带，另一只手自然垂在裙边，双腿微张，采用低角度至平视角度拍摄。背景：绿树成荫的城市街道，配有玻璃店面、办公楼、人行道地砖、花坛、汽车、远处的行人以及清晰可见的零售招牌，整体呈现明亮的正午阳光效果，阴影清晰，具有自然的景深。采用精致的时尚杂志风格，呈现逼真的皮肤和织物纹理，构图清晰的全身照，垂直 2:3 画幅，无额外文字，无水印。
+
+[English]
+Create a realistic full-body street fashion photo of a young woman standing on a sunny urban sidewalk in a Japanese shopping district, wearing a 2.5D anime-inspired school-uniform outfit. She has long straight {argument name="hair color" default="light brown"} hair with small dark hair ribbons, and her face is intentionally covered by a soft rectangular blur for anonymity. Outfit details: white sailor-style blouse with a navy collar and large navy bow, cream oversized ribbed cardigan, high-waisted navy-and-beige plaid pleated mini skirt, loose white scrunched leg warmers, chunky black platform loafers with gold buckle details, a small necklace, a green beaded bracelet, and a black shoulder bag with a chain strap held over one shoulder. Pose her standing casually with one hand holding the bag strap and the other relaxed by her skirt, legs slightly apart, photographed from a low-to-normal angle. Background: tree-lined city street with glass storefronts, office buildings, sidewalk tiles, planters, cars, pedestrians in the distance, and visible retail signs, all in bright midday sunlight with crisp shadows and natural depth of field. Use a polished fashion-editorial look, realistic skin and fabric textures, sharp full-body composition, vertical 2:3 framing, no extra text, no watermark.
+```
+
+**来源：** [@AI lady collection@生成AI](https://x.com/nihonnoashita/status/2066112183424164032) | 2026-06-14
+
+---
+
+### 📷 例 1507：赛博朋克 Q 版战术英雄
+
+![赛博朋克 Q 版战术英雄](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Q%20%E7%89%88%E6%88%98%E6%9C%AF%E8%8B%B1%E9%9B%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖屏电影感赛博朋克角色肖像，展示一个风格化的 Q 版动作英雄，全身站立在雨中霓虹闪烁的城市街道中央。角色头部较大，留着整齐的后梳 {argument name="hair color" default="black"} 发型，耳朵可见，脸部从额头到下巴覆盖着一块巨大的光滑矩形占位符，填充着柔和的棕色到紫色渐变，没有任何面部特征。小巧的身体穿着修身的黑色战术装甲服，配有分段式胸甲、肘垫和膝垫、多功能腰带、大腿包、手套以及厚重的黑色作战靴。角色双腿分开，自信地站立，手中握着 2 件物品：左手持一把向下指的黑色手枪，右手持一支金色的短铅笔或指挥棒。场景设定在暴雨中，可见长长的雨滴、潮湿的反射路面、水坑以及背景中模糊的摩天大楼。添加发光的霓虹灯牌和散景光效，使用 4 种主导强调色：亮粉色、青色、红色和蓝色。使用来自两侧的戏剧性轮廓光，一侧为红色高光，另一侧为冷青色高光，装甲和地面上有光泽的反射。画面高度精细，具有电影感，浅景深，超写实的玩具般比例，竖屏 9:16 构图，主体居中，无文字，无水印，无额外角色。
+
+[English]
+Create a vertical cinematic cyberpunk character portrait of a stylized chibi action hero standing full-body in the middle of a rain-soaked neon city street at night. The character has an oversized head with neatly swept-back {argument name="hair color" default="black"} hair, visible ears, and a large smooth rectangular face placeholder covering the entire face area from forehead to chin, filled with a muted brown-to-purple gradient and no facial features. The small body wears a fitted black tactical armored suit with segmented chest plates, elbow and knee pads, utility belt, thigh pouches, gloves, and heavy black combat boots. The character stands confidently with legs apart, holding exactly 2 items: a black pistol pointed downward in the left hand and a short golden pencil or baton in the right hand. Set the scene in heavy rain with long visible raindrops, wet reflective pavement, puddles, and blurred skyscrapers in the background. Add glowing neon signs and bokeh lights in exactly 4 dominant accent colors: hot pink, cyan, red, and blue. Use dramatic rim lighting from both sides, red highlights on one side and cool cyan highlights on the other, with glossy reflections on the suit and ground. Make it highly detailed, cinematic, shallow depth of field, ultra-realistic toy-like proportions, vertical 9:16 composition, centered subject, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Lipstick](https://x.com/lipsticksplus/status/2066102654162379197) | 2026-06-14
+
+---
+
+### 📷 例 1511：电影级双重曝光风暴肖像
+
+![电影级双重曝光风暴肖像](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E9%A3%8E%E6%9A%B4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张令人难忘的电影级双重曝光肖像，以 {argument name="subject" default="我的脸"} 为主体。面部从 {argument name="storm element" default="猛烈风暴"} 中浮现，一侧保持清晰的细节，另一侧则消融在旋转的黑暗迷雾、烟雾以及数百只飞散向天空的黑鸟之中。被风吹乱的头发像活着的阴影一样戏剧性地向上扭曲，与风暴云层和大气雾气无缝融合。背景中，一片 {argument name="scenery" default="荒凉海岸线"} 向地平线延伸，远处的电线杆在雾中隐没，营造出一种孤独与忧郁感。我专注的目光始终是焦点，在混乱中传达出韧性、神秘感和情感深度。忧郁的灰蓝色调，空灵的雾气，电影级布光，超写实皮肤纹理，戏剧性对比，超精细面部特征，情感叙事，黑暗奇幻氛围，体积光，大师级构图，获奖摄影作品，照片级真实感，16K，超锐利对焦，超现实且真实，艺术肖像，电影级景深。
+
+[English]
+A haunting cinematic double exposure portrait using {argument name="subject" default="my face"} as the subject. The face emerges from a {argument name="storm element" default="violent storm"}, with one side remaining sharply detailed while the other dissolves into swirling dark mist, smoke, and hundreds of black birds scattering into the sky. Windswept hair twists dramatically upward like living shadows, blending seamlessly into storm clouds and atmospheric fog. In the background, a {argument name="scenery" default="desolate coastline"} stretches toward the horizon with distant power lines fading into the mist, creating a sense of isolation and melancholy. My intense gaze remains the focal point, conveying resilience, mystery, and emotional depth amid chaos. Moody gray blue color grading, ethereal fog, cinematic lighting, hyper realistic skin texture, dramatic contrast, ultra detailed facial features, emotional storytelling, dark fantasy atmosphere, volumetric lighting, masterpiece composition, award winning photography, photorealistic, 16K, ultra sharp focus, surreal yet believable, fine art portrait, cinematic depth of field.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2066090397592699215) | 2026-06-14
+
+---
+
+### 📷 例 1512：浪漫天台黄金时刻人像
+
+![浪漫天台黄金时刻人像](../../images/%E6%B5%AA%E6%BC%AB%E5%A4%A9%E5%8F%B0%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的情侣瞬间 ❤️ 一张超写实、浪漫的天台人像，主角是一对时尚的年轻情侣（请保持 100% 相同面部，无需更改），时间设定在 {argument name="time" default="黄金时刻"}，地点位于俯瞰绝美城市天际线的现代豪华公寓天台。女性拥有 {argument name="hair" default="黑色长直发配柔和刘海"}，身穿 {argument name="outfit" default="黑色修身抹胸裙"}，双臂举过头顶，双眼微闭，轻轻靠在光滑的混凝土墙上。
+
+[English]
+Cute Couple moment ❤️ Ultra-photorealistic romantic rooftop portrait of a stylish young couple ( use 100% same face no alternation ), at {argument name="time" default="golden hour"} on a modern luxury apartment rooftop overlooking a breathtaking city skyline. The woman has {argument name="hair" default="long straight black hair with soft bangs"}, wearing a {argument name="outfit" default="fitted strapless black dress"}, standing pressed gently against a sleek concrete wall with both arms raised above her head, eyes closed.
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2066089489869746180) | 2026-06-14
+
+---
+
+### 📷 例 1514：咖啡馆电影感美食人像
+
+![咖啡馆电影感美食人像](../../images/%E5%92%96%E5%95%A1%E9%A6%86%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BE%8E%E9%A3%9F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实、具有电影质感的人像照片，主角是一位美丽的年轻东亚女性，扎着凌乱的高丸子头，几缕发丝柔和地垂在脸颊两侧。她直视镜头，表情平和宁静。她脖子上围着厚实的灰色针织围巾，外搭一件与围巾同材质的粗棒针织开衫，内衬一件棕褐色衬衫。她手中托着一个木制托盘，上面摆放着一个巨大的美味 {argument name="food" default="培根芝士汉堡"}，汉堡配有融化的切达干酪、爽脆的生菜和芝麻面包，旁边是一个装满金黄酥脆 {argument name="side dish" default="炸薯条"} 的牛皮纸盒。背景是充满质感的咖啡馆内饰，在柔和的暖色调背景光（bokeh）下呈现出模糊的温馨氛围。使用 50mm 镜头拍摄，单反相机画质，浅景深，纹理丰富，自然柔光，8k 分辨率。
+
+[English]
+An ultra-realistic, cinematic portrait of a beautiful young East Asian woman with a messy high bun and soft, loose tendrils framing her face. She is looking directly into the camera with a neutral, serene expression. She is wearing a thick, textured grey knit scarf wrapped around her neck and a matching chunky knit cardigan over a tan button-up shirt. She is holding a wooden serving tray presenting a massive, gourmet {argument name="food" default="bacon cheeseburger"} with melted cheddar, crisp lettuce, and a sesame seed bun, alongside a brown paper container overflowing with golden, crispy {argument name="side dish" default="french fries"}. In the background, a rustic, softly blurred cozy cafe interior with warm, ambient bokeh lighting. Shot on a 50mm lens, DSLR quality, shallow depth of field, rich textures, natural soft lighting, 8k resolution.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2066084544349143355) | 2026-06-14
+
+---
+
+### 📷 例 1515：电影感时尚大片摄影构图分析
+
+![电影感时尚大片摄影构图分析](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E6%91%84%E5%BD%B1%E6%9E%84%E5%9B%BE%E5%88%86%E6%9E%90.jpg)
+
+**Prompt:**
+
+```text
+在{argument name="房间风格" default="明亮极简卧室"}创作电影级时尚编辑摄影，呈现为电影摄影构图分析框架。主画面：{argument name="模特动作" default="年轻女性模特跪在柔软白床上"}，靠近大窗户与薄纱白窗帘。她位于画面左三分线位置，身体与三分线网格对齐。身体微微后倾，面向窗户光线，表情平静深邃。右侧充满透过薄纱窗帘的明亮白光，平衡左侧深色主体。光线：强自然窗光从右侧创造高对比。脸部、上身、腰部、轮廓分明。左侧补光揭示阴影细节。温暖朦胧晨光，柔和高光，逼真肌理，温柔阴影，窗帘柔和发光。构图叠层：添加可见电影摄影构图指南图形，如电影学校分析框架。包括：三分线网格（细绿线）；模特身体左三分线对齐的红竖线；绿色圆形焦点标记围绕腰髋、脸部、明亮窗帘；黄色眼线箭头从脸到腰髋再到窗光；红色引导线沿床边与墙板指向焦点；青色箭头显示左侧补光；文字标签：'三分线网格对齐''高对比焦点''眼线追踪''焦点3''高对比焦点1''阴影补光源''线条引导焦点''白色块面平衡画面'。风格：奢侈时尚编辑摄影、柔和电影质感、暖米白色调、极简卧室、米色墙板、白色床品、薄纱窗帘、细微胶片颗粒、浅景深、优雅构图、教育电影分析叠层。相机：35mm镜头、中等广角、眼平视角、16:9宽屏。
+```
+
+**来源：** [@摆烂程序媛](https://x.com/wanerfu/status/2066084490330685812) | 2026-06-14
+
+---
+
+### 📷 例 1516：女子与小猫特写
+
+![女子与小猫特写](../../images/%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%B0%8F%E7%8C%AB%E7%89%B9%E5%86%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张平视特写镜头，一位留着棕色波浪长发和齐刘海的年轻女子将一只 {argument name="kitten color" default="毛茸茸的浅灰白色小猫"} 举在脸前，小猫身后仅露出她的眼睛、鼻子和前额。小猫有着又大又好奇的绿色眼睛、明显的胡须以及额头上深色的虎斑纹，正警觉地直视镜头。女子身穿鲜艳的红色上衣，背景是在柔和的自然户外光线下，郁郁葱葱、茂密的灌木丛和杜松树。
+
+[English]
+A close-up, eye-level shot of a young woman with long, wavy brown hair and front bangs holding up a {argument name="kitten color" default="fluffy, light grey and white kitten"} directly in front of her face, with only her eyes, nose, and forehead visible behind it. The kitten has wide, curious green eyes, prominent whiskers, and dark tabby markings on its forehead, looking straight into the camera with an alert expression. The woman is wearing a vibrant red top, and the background is filled with lush, dense green bushes and juniper trees under soft, natural outdoor lighting.
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2066083661062287752) | 2026-06-14
+
+---
+
+### 📷 例 1517：怀旧日式家居清洁场景
+
+![怀旧日式家居清洁场景](../../images/%E6%80%80%E6%97%A7%E6%97%A5%E5%BC%8F%E5%AE%B6%E5%B1%85%E6%B8%85%E6%B4%81%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张怀旧胶片摄影风格的图像，画面中 {argument name="character description" default="一位留着黑色短波波头的年轻女性"} 正在传统的日式住宅中跪着擦拭抛光木地板。她穿着 {argument name="outfit" default="米色短袖上衣、浅色碎花长裙，并系着白色围裙"}。画面中仅限 1 人，右手下方有且仅有 1 块白色清洁布，没有其他活动角色。她的面部应通过柔和的方形模糊或阴影遮挡进行匿名化处理，但身体姿势需清晰可见：单膝跪地前倾，一只手按着抹布，另一只手支撑平衡。场景设定为 {argument name="room setting" default="带有推拉门、磨砂玻璃面板、深色木饰边、梳妆台以及隐约可见的里屋的古老日式木质室内"}。利用午后温暖的侧向阳光，在光亮的地板上投射出金色的反光，并在房间内形成柔和的阴影带。以地面视角构图，采用浅景深、柔和的大地色调、模拟胶片颗粒感、轻微的镜头柔焦，并在右侧边缘加入微妙的红橙色漏光效果，如同 35mm 胶片抓拍。保持安静、居家且亲密的氛围，专注于清洁这一动作。
+
+[English]
+Create a nostalgic, film-photography style image of {argument name="character description" default="one young woman with a short black bob haircut"} kneeling on a polished wooden floor in a traditional Japanese home while cleaning. She is wearing {argument name="outfit" default="a cream short-sleeve top, pale floral long skirt, and a white apron tied at the back"}. Show exactly 1 person, exactly 1 white cleaning cloth under her right hand, and no other active characters. Her face should be intentionally obscured with a soft square blur or shadowed anonymizing block, while her body posture is clear: bent forward on one knee, one hand pressing the cloth to the floor and the other hand supporting her balance. The setting is {argument name="room setting" default="an old wooden Japanese interior with sliding doors, frosted glass panels, dark wood trim, a dresser, and a softly visible back room"}. Use warm late-afternoon sunlight streaming from the side, creating golden reflections on the glossy floor and gentle shadow bands across the room. Compose the scene at floor level with shallow depth of field, muted earthy colors, analog grain, slight lens softness, and a subtle red-orange light leak along the right edge, like a candid 35mm film still. Keep the mood quiet, domestic, and intimate, focused on the act of cleaning.
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2066082228468367844) | 2026-06-14
+
+---
+
+### 📷 例 1518：写实风格大码东亚女性肖像
+
+![写实风格大码东亚女性肖像](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%A4%A7%E7%A0%81%E4%B8%9C%E4%BA%9A%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+创作一张现实主义真人全身体像，描绘一位{argument name="年龄" default="25岁"}的成年{argument name="人物特质" default="东亚女性"}，可爱且柔和的外貌，站在室内一扇浅木色门前。她拥有白皙的皮肤，甜美圆润的脸庞，大大的棕色眼睛，柔软光泽的嘴唇，玫瑰色的害羞脸颊，以及温柔腼腆的微笑。她留着{argument name="发色" default="浅灰棕色"}的及肩发，末端柔软卷曲，直直的齐刘海，以及松散的贴面发丝。她戴着可爱的心形耳环。 体型：柔软的加大码/丰满曲线身材，具有自然现实的比例，圆润柔和的身形，宽臀，粗壮大腿，以及温馨亲切的外观。让她看起来健康、可爱、自然且真实，而不是夸张的。 姿势：面向镜头站立，全身从头到脚可见。她的膝盖微微向内转，呈现害羞可爱的姿势。一只手轻轻握住开衫边缘，另一只手自然地放在短裤口袋附近。肩膀微微放松，腼腆却谦和的身体语言。 服装：白色贴身吊带背心，完全覆盖胸部和腰部，浅灰色开衫，带抽绳的浅灰色休闲短裤，以及黑色及膝袜。衣服是不透明的、舒适的、休闲的且真实的，带有自然的褶皱、面料拉伸，以及腰部和大腿周围的柔软压痕。 场景：简约的公寓入口或卧室门道，她身后是浅木色门，干净的地板，柔和的室内照明，温暖的中性色调，安静私密的家居氛围。全身体竖构图，9:16画面。 摄影风格：现实主义的智能手机照片，自然的皮肤纹理，柔和的室内光线，略带手持视角，高细节，生活化的温馨家居肖像，真实的发丝，真实的布料褶皱，自然的身体比例。 避免动漫风格、插图、CGI外观、未成年外貌、瘦削身材、夸张的奇幻比例、露骨裸露、透明服装、过于性感的姿势、扭曲的手、额外的手指、糟糕的解剖结构、塑料皮肤、过度平滑的脸庞、低分辨率。
+```
+
+**来源：** [@硅基废话](https://x.com/DDJCXX/status/2066063303617712247) | 2026-06-14
+
+---
+
+### 📷 例 1520：生动的水彩动漫肖像
+
+![生动的水彩动漫肖像](../../images/%E7%94%9F%E5%8A%A8%E7%9A%84%E6%B0%B4%E5%BD%A9%E5%8A%A8%E6%BC%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的水彩动漫风格肖像插画，描绘了一位留着柔软波浪卷深色头发、戴着超大透明圆框眼镜的英俊青年，他单手托腮，带着温暖柔和的微笑。拥有明亮闪烁且富有表现力的双眼、淡淡的红晕、柔和的粉彩肤色、精致的墨水草图轮廓，以及奇幻的水彩飞溅和晕染效果。身穿一件色彩鲜艳的 {argument name="shirt color" default="orange"} 衬衫，带有逼真的水彩阴影和自然的衣褶。植物背景中点缀着垂下的绿色藤蔓和叶片，以及柔和的桃色、奶油色和暖橙色水彩渲染。构图中散落着手绘的小爱心和星星。手绘纸张质感，梦幻美学，氛围温馨治愈，高度细腻的水彩笔触，绘本插画风格，优雅迷人。超精细动漫水彩艺术，干净的白色背景，边缘处有精致的水彩晕染和飞溅，柔和的自然光，暖色调配色，可爱的角色设计，高细节，竖构图，专业水彩日记插画，充满奇幻与魔法气息。
+
+[English]
+Cute watercolor anime-style portrait illustration of a handsome young man with soft wavy dark hair and oversized transparent round glasses, resting his chin on his hand with a warm gentle smile. Large sparkling expressive eyes, subtle rosy cheeks, soft pastel skin tones, delicate ink sketch outlines, whimsical watercolor splashes and stains. Wearing a vibrant bright {argument name="shirt color" default="orange"} button-up shirt with realistic watercolor shading and relaxed fabric folds. Botanical background with hanging green vines and leaves, soft peach, cream and warm orange watercolor washes. Tiny hand-drawn hearts and stars scattered around the composition. Hand-painted paper texture, dreamy aesthetic, cozy and uplifting mood, highly detailed watercolor brushwork, storybook illustration style, elegant and charming. Ultra-detailed anime watercolor art, clean white background, delicate watercolor blooms and splatters around the edges, soft natural lighting, warm color palette, adorable character design, high detail, vertical composition, professional watercolor journal illustration, whimsical and magical atmosphere.
+```
+
+**来源：** [@Aegon](https://x.com/Fujimoto_hina/status/2066061799007338539) | 2026-06-14
+
+---
+
+### 📷 例 1522：日本街头时尚编辑拼贴画
+
+![日本街头时尚编辑拼贴画](../../images/%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实日本生活方式时尚编辑摄影，{argument name="couple" default="年轻亚裔情侣"} 穿着 {argument name="clothing" default="色彩鲜艳的抽象针织毛衣"}，城市街道上的抓拍互动，梦幻浪漫的友谊氛围，自然的化学反应，温柔的微笑，随意的姿势，时尚的透明有色眼镜，当代街头时尚，真实的日常生活瞬间。
+混合角度照片拼贴布局，三个水平电影感面板垂直堆叠。
+顶部面板：从下方拍摄的超广角低角度镜头，情侣通过交织的毛衣袖子向下看镜头，明亮的过曝天空背景，俏皮的构图，创意视角摄影。
+中间面板：情侣站在覆盖着大型蓝色日文字体和街道标志的城市墙壁前的中景镜头，放松的时尚姿势，编辑杂志构图。
+底部面板：抓拍的特写瞬间，女性做着有趣的表情调整眼镜，男性在背景中大笑，浅景深，自发的生活方式情感。
+柔和的自然日光，阴天照明，高调曝光，柔和的色彩分级，温暖的奶油色高光，柔和的对比度，空气感氛围，胶片摄影美学，Kodak Portra 400 风格，微妙的光晕效果，柔焦边缘，梦幻般的焦外成像，地道的日本街头摄影，时尚杂志编辑，真实的皮肤纹理，自然的瑕疵，纪录片式的生活方式叙事，高级摄影，50mm 镜头，f/1.8，超写实，高度细节。
+负面提示词
+过度饱和的颜色，HDR，强烈的阴影，影棚灯光，人工摆拍，时尚秀场，奢华魅力，锐利的数码感，过度的对比度，霓虹色，动漫，插画，CGI，3D 渲染，人物重复，手部扭曲，多余的手指，模糊的脸部，低分辨率，水印，文字叠加
+
+[English]
+Ultra-realistic Japanese lifestyle fashion editorial photography, {argument name="couple" default="young Asian couple"} wearing {argument name="clothing" default="matching colorful abstract knit sweaters"}, candid playful interaction on urban city streets, dreamy romantic friendship atmosphere, natural chemistry, soft smiles, casual posing, stylish transparent tinted glasses, contemporary street fashion, authentic daily life moment.\nMixed-angle photo collage layout, three horizontal cinematic panels stacked vertically.\nTop panel: ultra-wide low-angle shot from below, couple looking down toward camera through intertwined sweater sleeves, bright overexposed sky background, playful framing, creative perspective photography.\nMiddle panel: medium shot of couple standing in front of urban wall covered with large blue Japanese typography and street signage, relaxed fashion pose, editorial magazine composition.\nBottom panel: candid close-up moment, female adjusting glasses with funny expression while male laughs in background, shallow depth of field, spontaneous lifestyle emotion.\nSoft natural daylight, overcast lighting, high-key exposure, pastel color grading, warm cream highlights, muted contrast, airy atmosphere, film photography aesthetic, Kodak Portra 400 look, subtle bloom effect, soft focus edges, dreamy bokeh, authentic Japanese street photography, fashion magazine editorial, realistic skin texture, natural imperfections, documentary lifestyle storytelling, premium photography, 50mm lens, f/1.8, ultra realistic, highly detailed.\nNegative Prompt\noversaturated colors, HDR, harsh shadows, studio lighting, artificial posing, fashion runway, luxury glamour, sharp digital look, excessive contrast, neon colors, anime, illustration, CGI, 3D render, duplicate people, distorted hands, extra fingers, blurry face, low resolution, watermark, text overlay
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2066054832662999075) | 2026-06-14
+
+---
+
+### 📷 例 1523：Q 版迷你自我街头时尚
+
+![Q 版迷你自我街头时尚](../../images/Q%20%E7%89%88%E8%BF%B7%E4%BD%A0%E8%87%AA%E6%88%91%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富、超可爱的街头时尚肖像，主角为 {argument name="subject" default="一位时尚的年轻人"}，以及他可爱的 {argument name="chibi version" default="Q 版迷你形象"} 和 {argument name="pets" default="两只毛茸茸的缅因猫"}。所有角色均身着配套的 {argument name="outfit" default="印有 27 号的超大红色运动衫、做旧浅蓝色牛仔裤、白色运动鞋以及反戴的红色棒球帽"}。Q 版角色拥有大而灵动的眼睛、卡通比例和迷人的微笑。猫咪们安静地坐在两侧，穿着同款红色运动衫。背景为具有工业建筑风格的现代城市街道，采用柔和的电影级灯光，浅景深效果，奢华时尚摄影风格，色彩鲜艳，纹理逼真，构图专业，8K 分辨率，皮克斯与写实主义相结合的美学，Instagram 爆款质量，氛围可爱且治愈。
+
+[English]
+Create a highly detailed, ultra-cute street fashion portrait featuring a {argument name="subject" default="stylish young man"}, his adorable {argument name="chibi version" default="chibi mini version"}, and {argument name="pets" default="two fluffy Maine Coon cats"}. All characters wear matching {argument name="outfit" default="oversized red sports jerseys with the number 27, distressed light-blue jeans, white sneakers, and red baseball caps worn backwards"}. The chibi character has large expressive eyes, cartoon proportions, and a charming smile. The cats are sitting calmly on both sides wearing matching red jerseys. Background is a modern urban street with industrial architecture, soft cinematic lighting, shallow depth of field, luxury fashion photography style, vibrant colors, realistic textures, professional composition, 8K resolution, Pixar-meets-realism aesthetic, Instagram viral quality, cute and wholesome atmosphere.
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2066054825213907270) | 2026-06-14
+
+---
+
+### 📷 例 1525：怪诞几何卡通肖像
+
+![怪诞几何卡通肖像](../../images/%E6%80%AA%E8%AF%9E%E5%87%A0%E4%BD%95%E5%8D%A1%E9%80%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直怪诞扁平卡通肖像，主角为 {argument name="subject" default="一个人"}，拥有高耸的几何头部形状、细长的脖子、巨大的圆眼睛、小巧的嘴巴和淡定的笑容，身穿 {argument name="clothing" default="色彩鲜艳的街头服饰"}，头上戴着 {argument name="object" default="一个小生物"} 就像一顶活生生的帽子。纯黑色轮廓，平滑的色块填充，简洁的面部形状，动物皮毛或皮肤上罕见的图案，趣味超现实角色设计，大胆的图形调色板。背景装饰：简化的环境元素，使用简化形状制作，层次清晰，包含少量环境场景和清晰的卡通视角。清晰的数字插画，海报形式的垂直构图，无写实感，无 3D 渲染，无写实阴影，宽高比 4:5。
+
+[English]
+Vertical bizarre flat cartoon portrait of {argument name="subject" default="a person"} with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh, dressed in {argument name="clothing" default="colorful streetwear"}, with {argument name="object" default="a small creature"} sitting on their head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette. Background decorations: simplified environmental elements, made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2066048157805629937) | 2026-06-14
+
+---
+
+### 📷 例 1528：印度 Anarkali 时尚拼贴画
+
+![印度 Anarkali 时尚拼贴画](../../images/%E5%8D%B0%E5%BA%A6%20Anarkali%20%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张梦幻美学肖像拼贴画，主角是一位美丽的年轻印度女孩，她身着柔和淡色系 {argument name="dress color" default="baby-blue"} 的花卉 Anarkali 裙装，搭配相衬的飘逸纱巾（dupatta）。她佩戴着优雅的金饰，包括精致的额饰（maang tikka）、耳环和手镯。她的妆容柔和精致，拥有无瑕的肌肤、红润的双颊、光泽感的双唇和灵动的双眸。拼贴画包含多张艺术肖像，营造出浪漫、空灵的氛围，采用柔和的自然光、淡雅色调、漂浮的花朵、细腻的焦外成像效果，呈现出奢华的时尚杂志风格。超细节、高质量、电影级摄影、优雅姿态、高贵之美、梦幻背景，4K 分辨率。
+
+[English]
+Create a dreamy aesthetic portrait collage of a beautiful young Indian girl wearing a soft pastel {argument name="dress color" default="baby-blue"} floral Anarkali dress with a matching flowing dupatta. She is adorned with elegant gold jewelry, including a delicate maang tikka, earrings, and bangles. Her makeup is soft glam with flawless skin, rosy cheeks, glossy lips, and expressive eyes. The collage features multiple artistic portrait shots with a romantic, ethereal atmosphere, soft natural lighting, pastel tones, floating flowers, subtle bokeh effects, and a luxurious editorial fashion style. Ultra-detailed, high-quality, cinematic photography, graceful pose, elegant beauty, dreamy background, 4K resolution.
+```
+
+**来源：** [@Noor](https://x.com/noorlewisx/status/2066017403088302590) | 2026-06-14
+
+---
+
+### 📷 例 1529：经典 BMW E30 城市插画
+
+![经典 BMW E30 城市插画](../../images/%E7%BB%8F%E5%85%B8%20BMW%20E30%20%E5%9F%8E%E5%B8%82%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感插画，展示了一辆 {argument name="car model" default="经典的 1980 年代红色 BMW E30"} 停在 {argument name="location" default="迷人的城市街道"} 上，正值黄金时段。车辆采用了低趴姿态、深凹金色网状轮毂、亮红色车漆、细节丰富的前大灯、运动型前唇以及复古车牌。温暖的阳光在车身上投射出美丽的倒影。
+背景展示了一栋舒适的砖砌建筑，覆盖着郁郁葱葱的常春藤和悬挂植物，配有大型黑色边框窗户、精品店门面、显示“1986”的复古招牌、咖啡馆氛围，以及投射在人行道上的树影。浓郁的金色阳光穿过叶片，营造出戏剧性的高光和柔和的阴影。
+{argument name="art style" default="动漫风格写实主义"}，手绘数字艺术作品，吉卜力工作室风格的城市环境，电影级调色，温暖的橙色和琥珀色调，高度精细的建筑，逼真的反射，氛围照明，梦幻般的夏日午后意境，超精细概念艺术，深度与透视感，8K 画质，杰作插画，ArtStation 热门趋势。
+
+[English]
+Cinematic illustration of a {argument name="car model" default="classic red 1980s BMW E30"} parked on a {argument name="location" default="charming urban street"} during golden hour. The car features lowered stance, deep dish gold mesh wheels, glossy red paint, detailed headlights, sporty front splitter, and vintage license plate. Warm sunlight reflects beautifully across the bodywork.\nBackground shows a cozy brick building covered with lush green ivy and hanging plants, large black framed windows, boutique storefronts, vintage signage displaying "1986", café atmosphere, and tree shadows stretching across the pavement. Rich golden sunlight filters through the leaves creating dramatic highlights and soft shadows.\n{argument name="art style" default="Anime inspired realism"}, hand painted digital artwork, Studio Ghibli inspired urban environment, cinematic color grading, warm orange and amber tones, highly detailed architecture, realistic reflections, atmospheric lighting, dreamy summer afternoon mood, ultra detailed concept art, depth and perspective, 8K quality, masterpiece illustration, trending on ArtStation.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2066012317171749199) | 2026-06-14
+
+---
+
+### 📷 例 1530：韩系时尚 Lookbook 网格提示词
+
+![韩系时尚 Lookbook 网格提示词](../../images/%E9%9F%A9%E7%B3%BB%E6%97%B6%E5%B0%9A%20Lookbook%20%E7%BD%91%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端韩系时尚 Lookbook，在全部六个画面中呈现相同的 {argument name="subject" default="日本女性"}，并确保整张图像中人物身份的高度一致性。她的面部特征、年龄、族裔、发型、身体比例和整体气质在每个面板中都应保持不变，确保一眼就能看出是同一个人穿着不同的服装。
+
+构图采用简洁优雅的 2×3 网格，包含六个等大的全身面板。保持模特比例一致、面板间距清晰，并呈现平衡的编辑对称感。在顶部中心位置，加入精致的奢华衬线字体，内容为：'{argument name="title" default="LOOKBOOK — The Edit • Vol. 01"}'。
+
+每个面板应展示不同的穿搭和自然的时尚姿势：
+
+1. 米色廓形西装外套、白色上衣、阔腿裤和高跟鞋。
+2. 短款皮夹克、修身上衣、工装裤和奢华运动鞋。
+3. 黑色修身晚礼服，搭配精致配饰。
+4. 白色廓形衬衫搭配牛仔短裤。
+5. 米色针织毛衣搭配百褶中长裙。
+6. 同色系剪裁夹克与半身裙套装。
+
+为每个造型设计独特的站姿和细微的表情变化，同时保持模特身份和奢华大片质感。肢体语言应展现出自信、干练的气质，适合高端百货公司的时尚目录。
+
+使用无缝的暖象牙米色无影棚背景，不含任何道具或家具。光线应柔和、漫射，灵感源自《Vogue Korea》大片，营造出真实的阴影、自然的皮肤纹理、可见的毛孔以及细腻的织物细节。最终图像应呈现出超高端商业时尚摄影的质感，具备 HDR 品质、照片级细节和 8K 级清晰度。
+
+优先保证：严格的身份一致性、每个面板的全身可见度、清晰的面板分割、一致的比例以及精致的奢华呈现。
+
+避免：身份改变、面部不一致、换脸、人物被裁剪、主体重叠、多余肢体、解剖结构错误、杂乱背景、道具、家具、Logo、水印、动漫风格、CGI、插画、过度磨皮的塑料感皮肤、模糊或低分辨率输出。
+
+[English]
+Create a high-end Korean fashion lookbook featuring the same {argument name="subject" default="Japanese woman"} across all six looks, with strong identity consistency throughout the entire image. Her facial features, age, ethnicity, hairstyle, body proportions, and overall presence should remain unchanged in every panel, making it unmistakably the same person wearing different outfits.\n\nArrange the composition as a clean and elegant 2×3 grid with six equal-sized full-body panels. Maintain consistent model scale, clear spacing between panels, and balanced editorial symmetry. At the top center, include refined luxury serif typography reading: '{argument name="title" default="LOOKBOOK — The Edit • Vol. 01"}'.\n\nEach panel should showcase a different outfit and natural fashion pose:\n\n1. Beige oversized blazer, white top, wide-leg trousers, and heels.\n2. Cropped leather jacket, fitted top, cargo pants, and luxury sneakers.\n3. Black fitted evening dress with sophisticated accessories.\n4. White oversized shirt paired with denim shorts.\n5. Cream knit sweater with a pleated midi skirt.\n6. Monochrome tailored jacket and matching skirt set.\n\nGive each look a unique standing pose and subtle change in expression while maintaining the same model identity and luxury campaign energy. The body language should feel confident, polished, and suitable for a premium department-store fashion catalog.\n\nUse a seamless warm ivory-beige cyclorama studio background with no props or furniture. Lighting should be soft, diffused, and inspired by Vogue Korea editorials, creating realistic shadows, natural skin texture, visible pores, and beautifully rendered fabric details. The final image should feel like ultra-premium commercial fashion photography with HDR quality, photorealistic detail, and 8K-level sharpness.\n\nPrioritize strict identity preservation, full-body visibility in every panel, clear panel separation, consistent proportions, and a sophisticated luxury presentation.\n\nAvoid: identity changes, different faces, face swapping, cropped figures, overlapping subjects, extra limbs, anatomical errors, cluttered backgrounds, props, furniture, logos, watermarks, anime styling, CGI, illustrations, overly smooth plastic skin, blur, or low-resolution output.
+```
+
+**来源：** [@MatteoCruz](https://x.com/CruzzCtrl1/status/2066012163097981332) | 2026-06-14
+
+---
+
+### 📷 例 1531：水彩动漫男性肖像
+
+![水彩动漫男性肖像](../../images/%E6%B0%B4%E5%BD%A9%E5%8A%A8%E6%BC%AB%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的水彩动漫风格肖像插画，主角为 {argument name="character" default="英俊的年轻男子"}（与上传图片一致），留着柔软的黑色波浪卷发，戴着 {argument name="glasses type" default="超大透明圆框眼镜"}，单手托腮，面带温柔微笑。拥有明亮闪烁的动人双眸、淡淡的红晕、柔和的粉彩色肤色、精致的墨水勾线，以及奇幻的水彩泼溅和晕染效果。身穿一件 {argument name="shirt color" default="深绿色"} 衬衫，衣褶自然，带有水彩阴影。植物背景中点缀着垂下的绿色藤蔓和叶片，辅以淡淡的桃色和米色水彩渲染，周围散落着手绘的小爱心和星星。具有手绘纸张质感，梦幻美学，氛围温馨治愈，高细节水彩笔触，绘本插画风格，优雅迷人。竖构图，柔和自然光，水彩手账艺术，奇幻插画，柔和色调，可爱的动漫角色设计，高细节，干净的白色背景，精致的水彩花卉和飞溅效果。
+
+[English]
+Cute watercolor anime-style portrait illustration of a {argument name="character" default="handsome young man"}(same as in uploaded image) with soft wavy black hair and {argument name="glasses type" default="oversized transparent round glasses"}, resting his chin on his hand with a gentle smile. Large sparkling expressive eyes, subtle rosy cheeks, soft pastel skin tones, delicate ink sketch outlines, whimsical watercolor splashes and stains. Wearing a {argument name="shirt color" default="dark green"} button-up shirt with relaxed folds and watercolor shading. Botanical background with hanging green vines and leaves, subtle peach and beige watercolor washes, tiny hand-drawn hearts and stars scattered around. Hand-painted paper texture, dreamy aesthetic, cozy and uplifting mood, highly detailed watercolor brushwork, storybook illustration style, elegant and charming. Vertical composition, soft natural lighting, watercolor journal art, whimsical illustration, soft color palette, adorable anime character design, high detail, clean white background, delicate watercolor blooms and splatters.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066012008911356142) | 2026-06-14
+
+---
+
+### 📷 例 1534：极简赛博兔娘角色卡
+
+![极简赛博兔娘角色卡](../../images/%E6%9E%81%E7%AE%80%E8%B5%9B%E5%8D%9A%E5%85%94%E5%A8%98%E8%A7%92%E8%89%B2%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在白色背景上创作一张简洁的极简风格原创角色卡插画，主角为一位身着赛博哥特街头服饰、带有定制兔头骨符号元素的动漫少女半身像。
+
+画布：垂直 4:5 矩形卡片，明亮的白色底色，通透的编辑排版，无圆形边框，无圆形遮罩，无圆形窗口，无圆形裁剪肖像。角色保持从胸部到头部的自然构图，略微偏右居中。
+
+主体：绘制 {argument name="character name" default="未命名的赛博兔娘"}，一位年轻的动漫风格女性角色，留着凌乱的短波波头，发色主要为 {argument name="hair color" default="黑色，内层带有鲜艳的紫色和青蓝色渐变"}。她的脸部被一个位于中心、约占画布宽度三分之一的方形柔和渐变色块遮挡，色调为柔和的灰薰衣草色。露出的一只耳朵，凌乱的层次感刘海，蓬松的发丝，以及带有光泽的紫色高光。姿势设定为一只手抬起靠近头发，肩膀略微倾斜，展现出自信但内敛的气质。
+
+服装：黑色短款吊带背心，胸前印有巨大的紫色兔头骨标志；一根淡蓝色背带，配有紫色连接扣；超大号黑色拉链连帽衫滑落肩头，内衬为鲜艳的紫色。添加罗纹黑色袖口、拉链细节、小补丁，以及领口/颈圈区域的两个可见配饰：1 个兔头骨形状的小型黑色颈圈挂饰，以及 1 条带有紫色兔头骨吊坠的银色项链。
+
+背景与排版：极简白色图形卡片设计，带有淡薰衣草色垂直面板和棱角分明的斜线装饰。在右上角放置一条高大的紫色垂直色带，其中垂直堆叠 3 个白色图标元素：顶部为 1 个兔头骨符号，中间为 1 个 X 标记，底部为 1 个三横线菜单标记。在角色左侧背景添加一个巨大的淡薰衣草色兔头骨剪影。在左下角和右下角附近添加细装饰线、小方形色块和对角蓝色线条装饰。
+
+可见文字：使用纤细的现代无衬线字体包含 2 个小型英文标签：左上角附近的“VISUAL NOTE”和左下角附近的“SOFT TONE”。排版需保持微小、间距宽，且作为角色的辅助元素。
+
+符号计数：总共使用 5 个可见的兔头骨图案：左侧 1 个大型浅色背景剪影，右侧紫色色带中 1 个白色图标，背心上 1 个紫色标志，连帽衫上 1 个紫色小补丁，以及 1 个紫色项链吊坠。额外的挂饰细节可以呼应此形状，但应保持细小，不宜喧宾夺主。
+
+视觉风格：高质量动漫插画，清晰的线条，柔和的赛璐珞阴影，精致的数字艺术，冷紫色/青色调色板，极简角色卡构图，干净的负空间，无水印，无额外角色，无杂乱元素。
+
+[English]
+Goal: Create a clean minimalist original character card illustration on a white background, featuring a bust-up anime girl with a cyber-goth streetwear look and a custom bunny-skull symbol motif.
+
+Canvas: Vertical 4:5 rectangular card, bright white base, airy editorial layout, no circular frames, no round masks, no round windows, no cropped circular portrait. Keep the character naturally framed from chest to head, centered slightly right.
+
+Main subject: Draw {argument name="character name" default="unnamed cyber bunny girl"} as a youthful anime-style female character with short messy bob hair, mostly {argument name="hair color" default="black with vivid purple and cyan-blue underside gradients"}. Her face is intentionally covered by a centered square soft gradient block, about one third of the canvas width, in muted gray-lavender tones. Show one visible ear, loose layered bangs, tousled strands, and glossy purple highlights. Pose her with one hand raised near her hair, shoulders angled slightly, confident but understated.
+
+Outfit: Black cropped camisole with a large purple bunny-skull logo on the chest; one pale blue suspender strap with a purple connector; oversized black zip hoodie falling off the shoulders with a vivid purple lining. Add ribbed black sleeve cuffs, zipper details, small patches, and a collar/choker area with two visible accessories: 1 small black choker charm shaped like the bunny skull and 1 silver necklace with a purple bunny-skull pendant.
+
+Background and layout: Minimal white graphic card design with pale lavender vertical panels and angular diagonal accents. Place a tall purple vertical band on the upper right containing exactly 3 white icon elements stacked vertically: 1 bunny-skull symbol at the top, 1 X mark in the middle, and 1 three-line menu mark below. Add a large faint lavender bunny-skull silhouette on the left behind the character. Add thin decorative lines, small square color chips, and diagonal blue line accents near the lower left and right edges.
+
+Visible text: Include exactly 2 small English labels in a thin modern sans-serif font: “VISUAL NOTE” near the upper left and “SOFT TONE” near the lower left. Keep the typography tiny, spaced out, and secondary to the character.
+
+Symbol count: Use exactly 5 visible bunny-skull motifs total: 1 large faint background silhouette on the left, 1 white icon in the right purple band, 1 purple logo on the camisole, 1 small purple patch on the hoodie, and 1 purple necklace pendant. Additional charm details may echo the shape but should remain small and not dominate.
+
+Visual style: High-quality anime illustration, crisp linework, soft cel shading, polished digital art, cool purple/cyan palette, minimalist character-card composition, clean negative space, no watermark, no extra characters, no clutter.
+```
+
+**来源：** [@あまり🖋️AI &フリー素材配布](https://x.com/amari_AI_art/status/2066008381287243908) | 2026-06-14
+
+---
+
+### 📷 例 1535：怪诞扁平卡通肖像
+
+![怪诞扁平卡通肖像](../../images/%E6%80%AA%E8%AF%9E%E6%89%81%E5%B9%B3%E5%8D%A1%E9%80%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+竖版怪诞扁平卡通肖像，主体为 {argument name="subject" default="照片中的女孩"}，拥有高耸的几何形状头部、细长的脖子、巨大的圆眼、小巧的嘴巴以及从容的笑容，身穿 {argument name="clothing" default="照片中的服装"}，头顶坐着一只 {argument name="animal on head" default="乌贼"}，宛如一顶活生生的帽子。纯黑色轮廓，平滑的色块填充，简洁的面部形状，动物皮毛或皮肤上有稀有的花纹，俏皮的超现实角色设计，大胆的图形调色板 {argument name="main color" default="黄色"}。背景装饰：[超市里的房间装饰]，使用简化形状制作，层次清晰，包含少量环境场景和清晰的卡通透视。清晰的数字插画，海报形式的竖构图，无写实感，无 3D 渲染，无绘画式阴影，宽高比 4:5。
+
+[English]
+Vertical bizarre flat cartoon portrait of {argument name="subject" default="a girl from the attached photo"} with a high geometric head shape, a long narrow neck, huge round eyes, a tiny mouth and an unflappable laugh dressed in {argument name="clothing" default="CLOTHES from the photo"}, with a {argument name="animal on head" default="squid"} sitting on his head like a living hat. Pure black outline, smooth color fills, simple face shapes, rare drawings on animal fur or skin, playful surreal character design, bold graphic palette {argument name="main color" default="yellow"}. Background decorations: [Room DECORATIONS from supermarket], made using simplified shapes, clear depth, a small amount of scenery from the environment and a clear cartoon perspective. Clear digital illustration, vertical framing in the form of a poster, no realism, no 3D rendering, no picturesque shading, aspect ratio 4:5.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2066007983331717444) | 2026-06-14
+
+---
+
+### 📷 例 1537：硬核新黑色电影风格战术肖像
+
+![硬核新黑色电影风格战术肖像](../../images/%E7%A1%AC%E6%A0%B8%E6%96%B0%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%88%98%E6%9C%AF%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+**拍摄类型：** 宽画幅电影感中全景镜头
+**主体与表情：** 一张写实肖像，主角为上传参考图中的同款男性。他神情冷静，透着一种近乎捕食者的自信。
+**场景与氛围：** 夜晚，雨后湿滑的废弃地下停车场。空气中弥漫着潮湿的水汽，可见的薄雾和尘埃在光线下浮动。
+**动作与细节：** 他随意地靠在布满涂鸦的湿润混凝土柱子上。他正在抽一支粗壮的 {argument name="accessory" default="雪茄"}；吸入时橙色的火光闪烁，在脸上投下阴影。他的一只手拿着一把高度定制的消音 {argument name="weapon" default="AR-15 步枪"}（战术病毒式枪械创意：集成激光/战术灯组合，以及独特的“磨损青铜”色 Cerakote 涂层），枪口安全地朝下。
+**着装：** 一件 {argument name="jacket color" default="炭灰色"} 的防水战术夹克（袖子微微卷起），内搭黑色 T 恤，穿着深色破洞牛仔裤和沾满泥土的战术靴。战术腰带上挂着几个弹匣。
+**光影与色彩：** 高对比度、硬核的新黑色电影风格光影。主光源是头顶上方一盏嗡嗡作响的暖黄色钨丝灯，在脸上投下强烈的“蝴蝶光”阴影，并在湿润的枪身金属和沥青地面上形成锐利的高光。与之形成鲜明对比的是，地面水洼反射出深邃冷冽的紫罗兰色霓虹灯光，并在他的肩膀和头发边缘勾勒出锐利的轮廓光。
+**技术参数：** 使用 Panavision 变形镜头（70mm）拍摄，带有明显的水平镜头光晕和浓重的电影颗粒感。浅景深（shallow DoF），使广阔的车库背景呈现出优美的模糊虚化效果。硬核电影色调，2:3 画幅比例。
+
+[English]
+**Shot Type:** Wide Cinematic Medium-Full Shot
+**Subject & Expression:** A realistic portrait featuring the exact man from the uploaded reference face. He maintains a calm, almost predatory confidence.
+**Setting & Atmosphere:** A rain-slicked, abandoned underground parking garage at night. The air is heavy with humidity, visible mist, and dust motes catching the light.
+**Action & Details:** He is leaning casually against the wet, graffiti-covered concrete pillar. He is smoking a thick {argument name="accessory" default="cigar"}; orange light glows as he inhales, throwing shadows across his face. In one hand, he holds a highly customized, suppressed {argument name="weapon" default="AR-15 rifle"} (tactical viral gun idea: integrated laser/light combo and a unique 'worn bronze' Cerakote finish) pointing safely downwards.
+**Attire:** A {argument name="jacket color" default="charcoal grey"}, water-resistant tactical jacket (sleeves slightly rolled) over a black t-shirt, dark ripped jeans, and mud-stained tactical boots. The tactical belt holds several magazines.
+**Lighting & Color:** High-contrast, gritty neo-noir lighting. The primary light is a single, warm, yellow tungsten lamp buzzing overhead, creating harsh 'butterfly shadows' on his face and sharp highlights on the wet gun metal and asphalt. This is dramatically contrasted by a deep, cool violet neon sign reflecting off puddles on the ground and casting a sharp edge-light on his shoulder and hair.
+**Technical:** Shot on a Panavision anamorphic lens (70mm) with noticeable horizontal lens flare and heavy cinematic grain. Shallow depth of field (shallow DoF), rendering the sprawling garage background in a beautifully blurred, moody bokeh. Gritty film color grade, 2:3 aspect ratio.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2066001971983827424) | 2026-06-14
+
+---
+
+### 📷 例 1538：韩系奢华时尚 Lookbook 网格
+
+![韩系奢华时尚 Lookbook 网格](../../images/%E9%9F%A9%E7%B3%BB%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%20Lookbook%20%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主要身份参考，并在所有六个面板中展示完全相同的日本女性，严格保持身份一致性。在每个造型中保持相同的面部结构、眼睛形状、鼻子、嘴唇、下颌线、颧骨、前额、年龄、种族、发型特征、身体比例和整体气质。创建一个高级韩系奢华时尚 Lookbook，采用严格的 2×3 网格布局，包含六个等大的全身面板、清晰的间距、相同的模特比例以及整洁的编辑对称性。顶部居中奢华衬线字体：“LOOKBOOK — The Edit • Vol. 01”。造型 1：{argument name="outfit one" default="米色廓形西装外套、白色上衣、阔腿裤、高跟鞋"}。造型 2：{argument name="outfit two" default="短款皮夹克、修身上衣、工装裤、奢华运动鞋"}。造型 3：{argument name="outfit three" default="黑色修身晚礼服，搭配优雅配饰"}。造型 4：白色廓形衬衫和牛仔短裤。造型 5：米色针织毛衣搭配百褶中长裙。造型 6：单色剪裁夹克和配套半身裙套装。每个面板展示不同的自然站姿、微妙的表情变化和奢华大片的肢体语言。背景：无缝暖象牙米色无影棚，无道具。柔和的漫射 Vogue Korea 风格影棚灯光，逼真的阴影，自然的皮肤纹理，可见毛孔，超精细面料，HDR，8K 照片级商业时尚摄影。优先级：所有六个面板中面部一致，严格的 2×3 布局，全身可见，清晰的面板分隔，相同的比例，奢华百货公司目录呈现。负面提示词：不同的面部、身份改变、换脸、身体裁剪、重叠人物、多余肢体、糟糕的解剖结构、杂乱背景、道具、家具、Logo、水印、动漫、CGI、插画、塑料感皮肤、模糊、低分辨率。
+
+[English]
+The primary identity reference and display the exact same Japanese woman in all six panels with strict identity preservation. Keep identical facial structure, eye shape, nose, lips, jawline, cheekbones, forehead, age, ethnicity, hairstyle characteristics, body proportions, and overall personality across every look. Create a premium Korean-style luxury fashion lookbook in a strict 2×3 grid with six equal full-body panels, clear spacing, identical model scale, and clean editorial symmetry. Top-center luxury serif typography: “LOOKBOOK — The Edit • Vol. 01”. Outfit 1: {argument name="outfit one" default="beige oversized blazer, white top, wide-leg trousers, heels"}. Outfit 2: {argument name="outfit two" default="cropped leather jacket, fitted top, cargo pants, luxury sneakers"}. Outfit 3: {argument name="outfit three" default="black fitted evening dress with elegant accessories"}. Outfit 4: white oversized shirt and denim shorts. Outfit 5: cream knit sweater with pleated midi skirt. Outfit 6: monochrome tailored jacket and matching skirt set. Each panel features a different natural standing pose, subtle expression variation, and luxury campaign body language. Background: seamless warm ivory-beige cyclorama studio with no props. Soft diffused Vogue Korea-style studio lighting, realistic shadows, natural skin texture, visible pores, ultra-detailed fabrics, HDR, 8K photorealistic commercial fashion photography. Priority: same face in all six panels, strict 2×3 layout, full-body visibility, clear panel separation, identical scale, luxury department-store catalog presentation. Negative prompt: different face, identity change, face swap, cropped body, overlapping figures, extra limbs, bad anatomy, busy background, props, furniture, logo, watermark, anime, CGI, illustration, plastic skin, blur, low resolution.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2065996374777495993) | 2026-06-14
+
+---
+
+### 📷 例 1542：未来感赛博朋克侧脸肖像
+
+![未来感赛博朋克侧脸肖像](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E4%BE%A7%E8%84%B8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用我上传的面部图像作为主要的身份参考。高保真地保留我的面部特征、脸型、发型、发质、胡须、肤色、眼型以及整体相似度。
+
+根据参考图像，为我创作一张电影质感的未来主义数字肖像。制作一张极具戏剧性的侧脸特写，表情自信，视线略微向上。保持面部真实细腻，呈现自然的皮肤纹理、轮廓分明的五官以及逼真的胡须细节。
+
+风格：深色调 {argument name="aesthetic" default="赛博朋克编辑风"} 美学，半张脸从数字碎片中浮现，伴随破碎的像素颗粒、抽象的科技图案，轮廓周围环绕着发光的 {argument name="colors" default="橙色与电光蓝"} 能量。添加未来感的电路线条、故障艺术效果以及与背景融合的泼墨纹理。
+
+光影：强烈的电影级轮廓光，一侧为温暖的橙色光，另一侧为冷色调的蓝色光，深邃的阴影，高对比度。
+
+构图：超细节肖像，写实摄影与数字艺术的结合，8K 画质，焦点清晰，高级电影海报质感，戏剧性氛围。
+
+避开：改变我的身份、不同的面孔、卡通风格、扭曲的面部特征、多余的眼睛、不自然的皮肤、模糊的细节。
+
+[English]
+Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, beard, skin tone, eye shape, and overall likeness with high fidelity.
+
+Create a cinematic futuristic digital portrait of me inspired by the reference image. Make a dramatic close-up side-profile portrait, with a strong confident expression, looking slightly upward. Keep my face realistic and detailed with natural skin texture, sharp facial features, and realistic beard details.
+
+Style: dark {argument name="aesthetic" default="cyberpunk editorial"} aesthetic, half of the face emerging from digital fragments, shattered pixel particles, abstract technology patterns, glowing {argument name="colors" default="orange and electric blue"} energy around the silhouette. Add futuristic circuit lines, glitch effects, and paint-splash textures blending into the background.
+
+Lighting: intense cinematic rim lighting, warm orange glow from one side and cool blue light from the other, deep shadows, high contrast.
+
+Composition: ultra-detailed portrait, realistic photography mixed with digital art, 8K quality, sharp focus, premium movie poster look, dramatic atmosphere.
+
+Avoid: changing my identity, different face, cartoon style, distorted facial features, extra eyes, unnatural skin, blurry details.
+```
+
+**来源：** [@Professor](https://x.com/Professor_134/status/2065992389127455069) | 2026-06-14
+
+---
+
+### 📷 例 1543：超写实电影感绣球花人像
+
+![超写实电影感绣球花人像](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BB%A3%E7%90%83%E8%8A%B1%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考照片作为唯一的面部来源，进行超写实电影感肖像创作，以绝对的精度保留面部特征、肤色和身份（100% 面部匹配，不做任何更改）。超写实电影感肖像，描绘了一位 {argument name="subject" default="年轻女性"} 在清晨阳光明媚的植物园中，优雅地伫立在 {argument name="flowers" default="郁郁葱葱的绣球花丛"} 间。构图采用垂直时尚摄影画幅，从略高于视角的角度拍摄，营造出柔和自然的抓拍氛围。女性位置略微偏离中心，部分被巨大的绿色绣球花叶片以及成簇的白色和淡蓝色花朵遮挡。她姿态优雅放松，双肩自然下垂，身体向镜头方向转动约 20 度，头部微微低垂并轻微向左倾斜。她的目光投向花朵而非镜头，营造出梦幻、羞涩且沉思的神情。一只手在腰间轻柔地握住绣球花茎，手指自然弯曲，没有紧绷感。另一只手臂自然垂在身侧，部分被花朵和叶片遮掩。她表情平静纯真，双唇放松，流露出微妙的深思感。她留着长长的直发，深棕色的发丝垂落在双肩，被温暖的阳光照亮，形成自然的挑染光泽。她身穿一件 {argument name="clothing" default="精致的淡雅碎花连衣裙"}，带有薰衣草紫、蓝色、薄荷绿和淡粉色的柔和水彩调，饰有蕾丝边细节，展现出浪漫的田园风格。一件轻薄的白色开衫松散地披在肩上和手臂上，增添了柔美与动感。环境前景为茂密的绣球花丛，营造出层次感，自然地勾勒出主体轮廓。她身后是一条蜿蜒的石阶，在树木与绿植中向背景深处延伸。阳光透过头顶的叶片洒下，在场景中形成自然斑驳的光影。光线为来自右上方的温暖黄金时刻阳光，在她的头发、脸颊、肩膀和花朵上形成柔和的高光。柔和的阴影落在她的脸部和裙装上，增加了真实感与立体感。背景融化为奶油般的虚化效果，景深较浅，在强调主体的同时保留了梦幻的植物园氛围。摄影风格：超写实、奢华时尚大片、植物人像摄影、自然抓拍姿态、梦幻浪漫美学、浅景深、柔和虚化、电影级调色、85mm 镜头、f/1.8 光圈、HDR、高细节皮肤纹理、逼真的织物细节、自然阳光、杂志级画质、宁静的童话花园氛围、照片级真实感、8K 分辨率。
+
+[English]
+Ultra-realistic cinematic portrait using the uploaded reference photo as the ONLY face source, preserving exact facial features, skin tone, and identity with absolute precision (100% face match — no changes). Ultra-realistic cinematic portrait of a {argument name="subject" default="young woman"} standing gracefully among {argument name="flowers" default="lush blooming hydrangea bushes"} in a sunlit botanical garden during golden morning light. The composition is a vertical fashion-photography frame captured from a slightly elevated eye-level angle, creating a soft candid atmosphere. The woman is positioned slightly off-center, partially hidden behind large green hydrangea leaves and clusters of white and pale blue blossoms. She stands with a gentle relaxed posture, shoulders naturally lowered, body turned approximately 20 degrees toward the camera while her head is slightly tilted downward and subtly angled to her left. Her gaze is directed downward toward the flowers instead of looking into the lens, creating a dreamy, shy, contemplative look. One hand delicately holds a hydrangea stem at waist level, fingers softly curved around the stem without tension. The other arm rests naturally beside her body, partially concealed by flowers and foliage. Her expression is calm and innocent, with relaxed lips and a subtle thoughtful look. She has long, straight dark brown hair cascading over both shoulders, illuminated by warm sunlight that creates natural highlights.She wears a {argument name="clothing" default="delicate pastel floral dress"} with soft watercolor tones of lavender, blue, mint, and blush pink, featuring lace trim details and a romantic cottagecore aesthetic. A sheer white lightweight cardigan drapes loosely over her shoulders and arms, adding softness and movement. The environment features dense hydrangea bushes in the foreground, creating layered depth and natural framing around the subject. Behind her, a winding stone staircase softly disappears into the background among trees and greenery. Sunlight filters through the leaves overhead, producing natural dappled light patterns across the scene. Lighting is warm golden-hour sunlight from the upper right side, creating soft highlights on her hair, cheeks, shoulders, and flowers. Gentle shadows fall across portions of her face and dress, adding realism and dimension. The background melts into creamy bokeh with a shallow depth of field, emphasizing the subject while preserving the magical garden atmosphere Photography style: ultra-realistic, luxury fashion editorial, botanical portrait photography, natural candid pose, dreamy romantic aesthetic, shallow depth of field, soft bokeh, cinematic color grading, 85mm lens, f/1.8 aperture, HDR, highly detailed skin texture, realistic fabric details, natural sunlight, magazine-quality image, serene fairytale garden mood, photorealistic, 8K resolution.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2065990074014339234) | 2026-06-14
+
+---
+
+### 📷 例 1544：90 年代纪实风格狗仔街拍
+
+![90 年代纪实风格狗仔街拍](../../images/90%20%E5%B9%B4%E4%BB%A3%E7%BA%AA%E5%AE%9E%E9%A3%8E%E6%A0%BC%E7%8B%97%E4%BB%94%E8%A1%97%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="location" default="东京"} 雨后街道（{argument name="brand" default="Prada"} 极简风格）
+一张超写实的 {argument name="era" default="1990 年代"} 纪实风格狗仔摄影作品，具有电影般的雨水浸润感，捕捉时尚活动后霓虹灯街道上的静谧时刻。
+一位年轻女性，面部特征保留完整，骨相优雅，因冷雨而皮肤微红，留着 90 年代层次感短发，发丝别在耳后，几缕湿发自然贴在脸颊。
+服装：超大款米色风衣，面料略带褶皱，腰间松散系带，内搭丝绸连衣裙隐约可见，色调中性，低调奢华，半开的雨伞微微倾斜。
+场景与构图：
+夜间街道，反光的柏油路面，霓虹灯光虚化成焦外成像，背景中有出租车驶过，狗仔队的闪光灯穿透雨幕。她走在路上，视线看向别处，神情冷静而疏离。
+35mm 胶片质感，高 ISO 颗粒感，雨丝的动态模糊，电影级对比度。
+负面提示词：无动漫，无 CGI，无过度处理的皮肤，无奇幻灯光，无插画，无塑料质感。
+
+[English]
+{argument name="location" default="Tokyo"} Rain Street After Event ({argument name="brand" default="Prada"} Minimal)
+A hyper-realistic {argument name="era" default="1990s"} editorial paparazzi photograph with cinematic rain-soaked realism, capturing post-fashion-event silence on a neon-lit street.
+A young woman with preserved facial identity, elegant bone structure, slightly flushed skin from cold rain, short layered 90s haircut pushed behind ears, a few wet strands sticking naturally.
+Outfit: oversized beige trench coat with slightly wrinkled fabric, cinched loosely at waist, inner silk dress barely visible underneath, neutral tones, understated luxury, umbrella half-open and tilted.
+Scene & Composition:
+Night street, reflective asphalt, neon signs blurred into bokeh, taxis passing behind, paparazzi flash cutting through rain. She looks away mid-walk, expression calm but distant.
+35mm film look, high ISO grain, motion blur rain streaks, cinematic contrast.
+NEGATIVE PROMPT: No anime, no CGI, no overprocessed skin, no fantasy lighting, no illustration, no plastic texture.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2065989327272722873) | 2026-06-14
+
+---
+
+### 📷 例 1545：生物发光夜间海滩人像
+
+![生物发光夜间海滩人像](../../images/%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E5%A4%9C%E9%97%B4%E6%B5%B7%E6%BB%A9%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实电影级竖版夜间海滩人像，画面中 {argument name="character description" default="一位留着黑色长波浪卷发、肤色温暖、五官优雅的年轻美女"} 优雅地坐在岸边潮湿的深色沙滩上。她身着一件极具戏剧感的深棕色透明薄纱礼服，裙摆蓬松，配有柔软的泡泡袖、褶皱胸衣，佩戴着金色吊坠耳环和精致的项链。她呈四分之三侧面坐姿，身体微微向左倾斜，一只手臂向下伸展，食指触碰着身前的沙地。在前景中，沙滩上写着 1 个发光的电光蓝色手写社交账号：{argument name="glowing sand text" default="@Mehwishkiran07"}；使其看起来由微小的生物发光颗粒和蓝色霓虹灯组成，她的指尖正触碰着文字的起始处。背景呈现出热带海滩的夜晚景象：右侧是深色的海浪，水线处有一条明亮的蓝色生物发光浪潮，左侧湿润的沙滩反射着远处度假村的暖光，隐约可见棕榈树的剪影，上方是繁星点点的夜空，银河横跨天际。采用富有情绪感的电影级布光：左侧为女性提供柔和的暖色主光，海浪和文字提供冷蓝色轮廓光，远处灯光呈现浅景深效果，展现高细节的织物纹理、真实的皮肤质感、自然的阴影以及大气的夜间对比度。人像构图，2:3 纵横比，超写实风格，除指定的发光账号外无其他文字，无水印，非卡通或插画风格。
+
+[English]
+Create a hyper-realistic cinematic vertical night portrait on a tropical beach: a beautiful young woman with {argument name="hair color" default="long flowing black hair"} sits gracefully on dark wet sand near the shoreline, wearing a voluminous {argument name="dress color" default="dark chocolate brown"} sheer tulle gown with puff sleeves and a full skirt spread around her. She has warm medium skin, elegant gold dangling earrings, a delicate necklace, and a calm poised expression, seated slightly left of center with one arm resting down and her index finger touching the sand in the foreground. In the sand, her fingertip appears to create glowing electric-blue bioluminescent writing that reads {argument name="glowing sand text" default="@Mehwishkiran07"}, made of sparkling particles and a soft neon aura. The ocean on the right glows with bright blue bioluminescent waves and scattered luminous specks along the surf, while the left background shows a dark palm-lined coast with a few warm resort lights reflecting on wet sand. Above her, the sky is deep navy and filled with stars, with a visible Milky Way band arcing diagonally across the top. Use dramatic low-light cinematic photography, realistic skin and fabric detail, shallow depth of field, natural beach perspective, soft moonlight and warm rim lighting, high contrast, glossy wet sand reflections, and an enchanting magical-realism mood. Vertical 2:3 composition, no extra people, no watermark, keep the glowing text legible and integrated into the sand.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2065985520203919816) | 2026-06-14
+
+---
+
+### 📷 例 1546：烛光下遮面肖像
+
+![烛光下遮面肖像](../../images/%E7%83%9B%E5%85%89%E4%B8%8B%E9%81%AE%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满电影质感的暖色调特写肖像，主角是一位沉思中的 {argument name="subject" default="年轻女性"}，置身于昏暗、压抑的室内环境中，光线几乎完全来自画面右侧的一支发光蜡烛。主角位于画面中偏左的位置，展示胸部以上部位，留着深色波浪长发，垂在双肩，身穿大地色系的深色服装，领口和肩部有精致的刺绣细节。她的头部微微向下并向右倾斜，仿佛在注视着蜡烛，但她的面部被一个位于中心位置的暖中棕色实心方形遮挡块完全遮住。画面中仅包含 1 支蜡烛：一支位于右下象限的奶油色高蜡烛，带有明亮的泪滴状火焰和柔和的金色光晕。使用深黑绿色阴影、浅景深、胶片颗粒感、低调照明，发丝和颈部带有柔和的金色高光，营造出一种亲密且受文艺复兴风格启发的烛光氛围。无文字，无水印，无多余人物，无额外蜡烛。
+
+[English]
+Create a warm cinematic close-up portrait of a contemplative {argument name="subject" default="young woman"} in a dark, moody interior, lit almost entirely by one glowing candle on the right side of the frame. The subject is centered slightly left, shown from chest up, with long dark wavy hair falling over both shoulders, wearing dark earthy clothing with subtle embroidered details around the neckline and shoulders. Her head is angled gently downward and to the right as if looking toward the candle, but her face is completely obscured by a single solid square censor block in a warm medium-brown color placed over the central face area. Include exactly 1 candle: a tall cream-colored candle near the lower-right quadrant with a bright teardrop flame and soft golden halo. Use deep black-green shadows, shallow depth of field, film grain, low-key lighting, soft golden highlights on the hair and neck, and an intimate candlelit Renaissance-inspired atmosphere. No text, no watermark, no extra people, no additional candles.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2065982830870745549) | 2026-06-14
+
+---
+
+### 📷 例 1548：舒适复古毛衣人像
+
+![舒适复古毛衣人像](../../images/%E8%88%92%E9%80%82%E5%A4%8D%E5%8F%A4%E6%AF%9B%E8%A1%A3%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+舒适的室内环境，搭配冷灰色背景。一位 20 岁的绝美女性，拥有鹅蛋脸、白皙的冷色调皮肤以及精致立体的五官。她化着优雅的妆容，双眸深邃专注，眉形自然，双唇呈现柔和的自然光泽。
+
+她留着栗棕色的长发，梳成松散的侧编发，发丝呈现出蓬松的波浪感，细微的轮廓光勾勒出秀发的边缘。
+
+她佩戴着玫瑰红花朵耳环、叠戴珍珠项链以及红玫瑰吊坠项链。手腕上戴着一款金表盘黑表带的手表。
+
+她身穿一件 {argument name="sweater color" default="red"} 粗棒针毛衣，针织纹理清晰可见，面料蓬松柔软，透出温暖舒适的气息。她单手轻托下巴，神情甜美、亲切且迷人。
+
+整体风格为甜美复古风。画面高度写实且细节丰富，强调了衣物的质感与场景的温馨氛围。冷色调摄影美学。
+
+使用 Leica M11-P 相机和 Summilux-M 90mm f/1.5 ASPH 人像镜头拍摄，导出为 STH0668.DNG。图像被转化为充满叙事张力的电影感画幅，运用慢快门美学捕捉永恒与流逝的矛盾感。强烈的背景虚化，富有诗意的情感表达，以及光影的艺术交织。
+
+极端的亮部与深邃的暗部营造出强烈的视觉冲击力。非传统的构图、独特的视角、强烈的景深与透视畸变、意识流的视觉叙事、侧脸特写，以及纯艺术摄影美学。
+
+[English]
+A cozy indoor setting with a cool gray background. A beautiful 20-year-old woman with an oval face, fair cool-toned skin, and refined three-dimensional facial features. She wears elegant makeup, with long focused eyes, naturally shaped eyebrows, and soft natural glossy lips. 
+
+Her long chestnut-brown hair is styled with a loose side braid and soft voluminous waves, with subtle rim lighting illuminating the edges of her hair.
+
+She wears rose-red floral earrings, layered pearl necklaces, and a red rose-flower pendant necklace. On her wrist is a black-strap watch with a gold dial.
+
+She is dressed in a {argument name="sweater color" default="red"} chunky-knit sweater with clearly visible knit texture, fluffy soft fabric, and a warm cozy appearance. Her pose features one hand gently supporting her chin, expressing a sweet, approachable, and charming mood.
+
+The overall style is sweet vintage elegance. The image is highly realistic and finely detailed, emphasizing the texture of the clothing and the warm atmosphere of the scene. Cool-toned photography aesthetics.
+
+Captured with a Leica M11-P camera and Summilux-M 90mm f/1.5 ASPH portrait lens, exported as STH0668.DNG. The image is transformed into a cinematic frame filled with narrative tension, using slow-shutter aesthetics to capture the paradox of permanence and passing time. Strong background bokeh, poetic emotional expression, and an artistic interplay of light and shadow.
+
+Extreme highlights and deep shadows create powerful visual impact. Unconventional composition, unique perspective, strong depth and perspective distortion, stream-of-consciousness visual storytelling, side-profile emphasis, and a fine-art photographic aesthetic
+```
+
+**来源：** [@Soaima](https://x.com/soaima70480/status/2065974352261316962) | 2026-06-14
+
+---
+
+### 📷 例 1549：电影感编辑风格水墨插画
+
+![电影感编辑风格水墨插画](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B0%B4%E5%A2%A8%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感编辑风格水墨插画，主体为 {argument name="subject" default="[HUMAN]"}，场景位于 {argument name="scenery" default="[SCENERY]"}，回头望向后方，比例写实，发丝随风飘动，眼神锐利自信。身着 {argument name="clothing" default="[CLOTHING]"}。采用洒脱且富有表现力的黑色水墨线条，保留可见的草图构建线，高对比度阴影，阳光边缘光晕，风化纸张纹理，墨迹飞溅，做旧印刷痕迹，写实的公路电影环境，限定三色调色板：{argument name="palette" default="[PALETTE]"}，现代时尚海报插画风格，长宽比 4:5。
+
+[English]
+Cinematic editorial ink illustration of {argument name="subject" default="a traveler"} in {argument name="scenery" default="a desert road"}, looking back over the shoulder with realistic proportions, windblown hair and sharp confident gaze. Wearing {argument name="clothing" default="a vintage leather jacket"}. Loose expressive black ink linework, visible sketch construction lines, high-contrast shadows, sunlit rim glow, weathered paper texture, ink splatters, distressed print marks, realistic road-movie environment, limited three-color palette: {argument name="palette" default="black, white, and ochre"}, contemporary fashion poster illustration, aspect ratio 4:5.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2065973105823281314) | 2026-06-14
+
+---
+
+### 📷 例 1552：浪漫情侣日落肖像
+
+![浪漫情侣日落肖像](../../images/%E6%B5%AA%E6%BC%AB%E6%83%85%E4%BE%A3%E6%97%A5%E8%90%BD%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超 100% 逼真的电影感 {argument name="mood" default="浪漫"} 情侣肖像，背景是 {argument name="setting" default="精美的木门"}，温暖的金色夕阳透过装饰性格子窗洒入。我上传的脸部照片和我女朋友的脸部必须 100% 精准匹配。我们紧紧依偎在门边，分享着充满爱意和温情的时刻。我身着时尚奢华的服装，留着 {argument name="hair style" default="黑黄挑染发型"}，展现出现代时尚感和自信魅力。
+
+[English]
+Ultra-100% realistic cinematic {argument name="mood" default="romantic"} couple portrait near a {argument name="setting" default="beautiful wooden doorway"} with warm golden sunset light streaming through decorative lattice windows. My uploaded face and my girlfriend’s face must match 100% accurately. We are standing close together near the door, sharing a loving and affectionate moment. I am wearing a stylish luxury outfit with {argument name="hair style" default="black-and-yellow mixed hairstyle"}, modern fashion look, and confident charm
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2065966074114593015) | 2026-06-14
+
+---
+
+### 📷 例 1554：城市夜景随拍人像
+
+![城市夜景随拍人像](../../images/%E5%9F%8E%E5%B8%82%E5%A4%9C%E6%99%AF%E9%9A%8F%E6%8B%8D%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+【主体】{argument name="身份" default="22岁左右成年东亚女性"}，{argument name="场景" default="夜晚都市人行天桥"}，男友视角手机夜景人像抓拍【核心姿势】- 女性站在人行天桥扶手附近，像是在约定地点安静等待 - 注意到男友到来后自然抬头，露出安心、开心但不过分夸张的笑容 - 一只手自然伸向镜头方向，像是在说“过来这边”或“牵住手吧” - 手部离相机较近，因为手机广角透视略显偏大，指尖稍微柔焦 - 肩膀放松，站姿自然，不刻意摆拍，不强调身体曲线 - 表情温柔亲近，只像是对熟悉的人展现的轻松笑意 - 头发为深棕色到黑色中长发，受夜风和湿气影响，发梢与刘海略微凌乱、有自然束感【环境】夜晚都市人行天桥，保留参考图中的天桥结构、扶手、瓷砖地面、路灯、高层建筑、蓝色发光楼宇、远处道路、车灯、行道树。背景有真实城市夜晚的暗部噪点与灯光层次，不要过度干净或像布景。【服装/细节】{argument name="服装" default="白色或浅色无袖针织上衣"}，黑色长裙或宽松长裤，都市夜晚约会前后的日常私服感。佩戴小巧项链、低调耳环，背黑色肩包。整体干净自然，不过度修饰。【构图要求】竖屏3:4，女性位于画面中央略偏下。画面层次：近处伸出的手 → 自然笑容与柔和眼神 → 天桥扶手 → 夜晚都市道路与高层灯光。构图略微倾斜，像男友到达约定地点后随手用手机拍下的真实照片，不要完美对称，不要商业大片构图。【相机/技术参数】真实智能手机夜景快照质感，男友视角，近距离拍摄，约24mm手机广角，比视线略低的位置。手机HDR处理，脸部大致合焦，指尖稍微柔焦。轻微夜间噪点、轻度动态模糊、社交平台压缩感，背景车灯有自然光晕。【氛围/光线】夜晚路灯的暖色顶光，与楼宇窗户灯光、道路车灯、蓝色发光建筑反射形成混合光。皮肤和衣服上有轻微色差，脸颊与鼻尖因路灯和手机HDR产生自然高光与轻微过曝。整体有潮湿夜晚、朦胧空气、路灯晕光和末班车前后安静都市感。【风格】日常手机快照，真实感日系都市夜景人像，像会发到社交平台上的随手照片。自然、亲密、生活化，不像影棚摄影，不像广告大片，不要过度AI美化。
+```
+
+**来源：** [@水木易](https://x.com/ohmuyi/status/2065960662266732672) | 2026-06-14
+
+---
+
+### 📷 例 1555：雨中校园人像拼贴
+
+![雨中校园人像拼贴](../../images/%E9%9B%A8%E4%B8%AD%E6%A0%A1%E5%9B%AD%E4%BA%BA%E5%83%8F%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具美感的雨季大学人像拼贴，画面中一位时尚的年轻女性身穿 {argument name="shirt color" default="粉色"} 的宽松衬衫和飘逸的 {argument name="pants color" default="白色"} 阔腿裤，在美丽的校园道路上享受着细雨。周围环绕着盛开的粉色花朵、茂密的绿植和倒映着景色的湿润路面。包含多种自然姿态——行走、微笑、看向别处以及享受雨水。
+
+[English]
+Create an aesthetic rainy-season college portrait collage featuring stylish young woman wears a {argument name="shirt color" default="pink"} oversized shirt and flowing {argument name="pants color" default="white"} wide-leg pants while enjoying gentle rainfall on a beautiful campus road. Surround her with blooming pink flowers, lush greenery, and reflective wet pavement. Include multiple natural poses—walking, smiling, looking away, and enjoying the rain.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2065955125789946141) | 2026-06-14
+
+---
+
+### 📷 例 1556：电影感静止动态街头肖像
+
+![电影感静止动态街头肖像](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E9%9D%99%E6%AD%A2%E5%8A%A8%E6%80%81%E8%A1%97%E5%A4%B4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的电影感编辑风格街头肖像，主体为 {argument name="subject description" default="一位年轻女性"}，她完美静止地坐在繁华城市人行道中央的一张抛光黄铜长椅上。主体直视镜头，表情平静而忧郁，焦点清晰，姿态放松，双臂随意交叠，双腿交错，身穿一件暖灰褐色的超大号粗针织毛衣和宽松的大地色长裤。头发是凌乱随意的盘发，几缕发丝垂在脸颊旁，造型自然低调。周围是密集的人群，他们双向匆匆走过，呈现出强烈的动态模糊和拉丝状的面部/身体，而坐着的主体则保持清晰且独立。采用暖金色调的色彩分级，柔和的编辑风格布光，浅景深，细腻的 HDR 细节，真实的织物纹理，长椅上的黄铜反光，背景中城市店面虚化为光斑（bokeh），竖构图，平视视角，85mm 镜头感，高端时尚杂志氛围，8K 照片级真实感。保持构图居中且对称，主体是模糊人群中唯一静止的人物。无文字，无水印，无额外物体，无风格化插图。
+
+[English]
+Create an ultra-realistic cinematic editorial street portrait of {argument name="subject description" default="a young woman"} seated perfectly still at the center of a busy city sidewalk on a polished brass bench. The subject faces the camera directly with a calm, melancholic expression, sharp focus, relaxed posture, arms loosely folded, legs crossed, wearing an oversized chunky knit sweater in warm taupe-gray and loose earth-tone trousers. Hair is a messy casual updo with loose strands framing the face, natural understated styling. Surround her with a dense crowd of pedestrians moving past in both directions, rendered with strong motion blur and streaked faces/bodies while the seated subject remains crisp and isolated. Use warm golden-olive color grading, soft editorial lighting, shallow depth of field, subtle HDR detail, realistic fabric texture, reflective brass highlights on the bench, urban storefront background blurred into bokeh, vertical portrait composition, eye-level camera, 85mm lens look, high-end fashion magazine mood, 8K photorealism. Keep the composition centered and symmetrical, with the subject as the only still figure amid the blurred crowd. No text, no watermark, no extra objects, no stylized illustration.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2065954482199109949) | 2026-06-14
+
+---
+
+### 📷 例 1557：电影感街头时尚人像
+
+![电影感街头时尚人像](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的电影感街头人像，主体为 {argument name="subject" default="一位留着飘逸金发的年轻女性"}，站在 {argument name="location" default="一家温馨的复古花店"} 外，正值黄金时刻。她身穿 {argument name="outfit" default="一件优雅的黑色修身针织裙"}，手中捧着一束干花和柔和的淡色花朵。温暖的阳光从上方和后方倾泻而下，营造出梦幻的镜头光晕、发丝周围柔和的轮廓光以及琥珀色的发光氛围。主体处于轻微运动状态，头部向侧面转动，在面部和发丝上形成自然的动态模糊。微风轻轻拂起发丝，增强了抓拍的编辑感。背景呈现出质朴的店面细节、花艺布置、报纸、木质纹理以及橙色、棕色和金色的暖色调秋日氛围。浅景深，柔焦美学，电影级虚化，怀旧胶片质感，复古色调分级，梦幻朦胧感，细腻颗粒感，时尚编辑摄影，情感叙事构图，自然光，真实的皮肤纹理，单反相机画质，85mm 镜头，f/1.8，高动态范围，照片级真实，超高细节，情绪化氛围，奢侈杂志风格，8K 分辨率，竖向人像构图，柔和的金色光芒。
+
+[English]
+Ultra-realistic cinematic street portrait of a {argument name="subject" default="young woman with long flowing blonde hair"}, standing outside a {argument name="location" default="cozy vintage flower shop"} during golden hour. She wears an {argument name="outfit" default="elegant fitted black turtleneck dress"}, holding a bouquet of dried flowers and soft pastel blooms in her hands. Warm sunlight streams through the scene from above and behind, creating dreamy lens flares, soft rim lighting around her hair, and a glowing amber atmosphere. The subject is captured in slight motion, turning her head to the side, creating natural motion blur across her face and hair. Wind gently lifts strands of hair, enhancing the candid editorial feel. The background features rustic storefront details, flower arrangements, newspapers, wooden textures, and warm autumn-inspired tones in shades of orange, brown, and gold. Shallow depth of field, soft focus aesthetic, cinematic bokeh, nostalgic film look, vintage color grading, dreamy haze, subtle grain, fashion editorial photography, emotional storytelling composition, natural lighting, realistic skin texture, DSLR quality, 85mm lens, f/1.8, high dynamic range, photorealistic, ultra-detailed, moody atmosphere, luxury magazine style, 8K resolution, vertical portrait composition, soft golden glow.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2065949912424960452) | 2026-06-14
+
+---
+

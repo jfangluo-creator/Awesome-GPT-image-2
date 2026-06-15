@@ -6327,3 +6327,592 @@ Professional luxury football poster, 4:5 ratio. Entire frame filled with a premi
 
 ---
 
+### 🎴 例 1436：MBTI 人格特质卡片海报
+
+![MBTI 人格特质卡片海报](../../images/MBTI%20%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B4%A8%E5%8D%A1%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+縦長A4ポスター、日本のハイエンドビジネス誌表紙風。中央に「{argument name="タイプ名" default="ENTJ COMMANDER"}」のキャラクター。{argument name="人物像" default="40代前後の知的な日本人男性"}。税理士・事業家・AI講師を融合したイメージ。片手にタブレット、周囲にAIネットワーク、データフロー、不動産、セミナー登壇、教育コンテンツのモチーフ。背景は未来都市とデジタルワークスペース。上部に「{argument name="キャッチコピー" default="AI時代の開拓者"}」のキャッチコピー。左右に整理されたインフォグラフィック。内容は「強み：戦略性・実行力・学習速度・仕組み化・発信力」「注意点：抱え込み・分散・飽きやすさ」。下部にE60 I40 / N85 S15 / T70 F30 / J60 P40のレーダーチャート。洗練されたタイポグラフィ、高級感、フルカラー、雑誌特集表紙クオリティ、情報デザイン重視、1枚で人物像が理解できる構成。
+```
+
+**来源：** [@荒井悠輔｜税理士×AI実務活用](https://x.com/araiyusuke_vb/status/2066307272536621329) | 2026-06-14
+
+---
+
+### 🎴 例 1438：Riyad Mahrez 体育海报编辑设计
+
+![Riyad Mahrez 体育海报编辑设计](../../images/Riyad%20Mahrez%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E7%BC%96%E8%BE%91%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="athlete name" default="Riyad Mahrez"} 创建一张高级垂直体育海报，采用 Adidas 足球广告风格，呈现大胆的编辑拼贴美学。
+
+画布：垂直海报，2:3 纵横比，干净的白色背景，搭配高对比度的黑色、灰色和红色图形。采用精致的商业体育设计风格，具备锐利的排版、颗粒质感和分层深度。
+
+布局：画面中心放置一位全身男性足球运动员向前行走的形象，位置略微偏左，身着全黑休闲运动装：黑色飞行员夹克、黑色 Polo 衫、黑色修身长裤和白色运动鞋。姿态轻松自信，单手插兜，影棚灯光，地面带有柔和阴影。在他身后，放置一张巨大的黑白剪裁肖像剪影，占据大部分背景。在左侧叠加超大号垂直大写字母 {argument name="main vertical word" default="MAHREZ"}，部分透明并与背景肖像融合。在左上边缘附近添加小型垂直文字 {argument name="side name text" default="RIYAD"}。在右侧，包含一个大型红色几何形状：一个带有宽白色对角条纹的倾斜红色块状/圆形，部分从右下角裁切。在右上角附近添加一个小型红色菱形。
+
+文字内容：包含 5 个明确的文字/ Logo 元素：1) 左侧巨大的垂直单词“MAHREZ”，2) 左上角的小型垂直单词“RIYAD”，3) 左下角附近的红色手写签名 {argument name="signature text" default="Mahrez"} 及其下方的数字“26”，4) 签名下方的小型大写说明文字“RIYAD MAHREZ / ALGERIA NATIONAL TEAM / WINGER”，以及 5) 左下角的黑色 Adidas Logo。
+
+视觉风格：现代体育海报设计，单色摄影与大胆的红色装饰形状结合，粗颗粒/半调质感，强对比度，干净的留白，奢侈品牌广告质感，杂志编辑排版，清晰的无衬线字体，写实的运动员照片处理。
+
+约束条件：使用 2 个红色几何形状，1 位全身运动员，1 个巨大的背景肖像剪影，5 个如上所述的文字/ Logo 元素，不得包含额外运动员、额外 Logo、水印或边框，除非被微妙的矩形图形覆盖，否则面部需保持写实。
+
+[English]
+Goal: Create a premium vertical sports poster design for {argument name="athlete name" default="Riyad Mahrez"}, styled like an Adidas football campaign, with a bold editorial collage aesthetic.
+
+Canvas: Vertical poster, 2:3 aspect ratio, clean white background with high-contrast black, grey, and red graphics. Use a polished commercial sports-design look with sharp typography, grain texture, and layered depth.
+
+Layout: Center a full-body male footballer walking forward, slightly left of center, wearing an all-black casual athletic outfit: black bomber jacket, black polo shirt, black slim trousers, and white sneakers. His pose is relaxed and confident, one hand in pocket, studio-lit with soft shadows on the floor. Behind him, place a giant black-and-white cropped portrait silhouette of the same athlete’s head filling most of the background. Overlay very large vertical uppercase typography reading {argument name="main vertical word" default="MAHREZ"} along the left side, partially transparent and integrated over the background portrait. Add the small vertical text {argument name="side name text" default="RIYAD"} near the upper-left edge. On the right side, include one large red geometric shape: a tilted red block/circle-like form with a wide white diagonal stripe, partially cropped off the bottom-right corner. Add one small red diamond shape near the top-right corner.
+
+Text content: Include exactly 5 distinct text/logo elements: 1) the huge vertical word “MAHREZ” on the left, 2) the small vertical word “RIYAD” at upper left, 3) a red handwritten signature reading {argument name="signature text" default="Mahrez"} with the number “26” beneath it near the lower left, 4) small uppercase caption text reading “RIYAD MAHREZ / ALGERIA NATIONAL TEAM / WINGER” below the signature, and 5) a black Adidas logo at the bottom-left corner.
+
+Visual style: Modern sports poster design, monochrome photography mixed with bold red accent shapes, gritty halftone/grain texture, strong contrast, clean negative space, luxury brand campaign feel, editorial magazine composition, crisp sans-serif typography, realistic athlete photo treatment.
+
+Constraints: Use exactly 2 red geometric shapes, exactly 1 full-body athlete, exactly 1 giant background portrait silhouette, exactly 5 text/logo elements as listed, no extra athletes, no extra logos, no watermark, no border, and keep the face realistic unless intentionally obscured by a subtle rectangular graphic overlay.
+```
+
+**来源：** [@Ayyoub Ai](https://x.com/MaAyyoub/status/2066265032225083679) | 2026-06-14
+
+---
+
+### 🎴 例 1444：2026 年 FIFA 世界杯体育海报
+
+![2026 年 FIFA 世界杯体育海报](../../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+type: image_generation_prompt
+
+{
+  "title": "Universal FIFA World Cup 2026 Locked In Poster",
+  "aspect_ratio": "9:16",
+  "style": "ultra-realistic cinematic sports poster",
+  "quality": "16K UHD premium realism",
+  "subject": {
+    "identity": "{argument name="player name" default="[PLAYER_NAME or uploaded player]"}",
+    "pose": "powerful side-profile portrait with intense focus",
+    "expression": "determined, locked-in, championship mentality",
+    "gesture": "one hand gripping the national team jersey near the badge"
+  },
+  "wardrobe": {
+    "kit": "{argument name="country" default="[COUNTRY_NAME]"} official home jersey",
+    "details": "authentic textures, federation crest, official FIFA World Cup 2026 sleeve patch, realistic fabric folds and stitching"
+  },
+  "environment": {
+    "background": "clean light grey textured sports poster canvas with futuristic geometric lines, subtle technical graphics and premium editorial composition",
+    "effects": "dynamic paint splashes, energy streaks and particles inspired by the national colors of {argument name="national colors" default="[COUNTRY_NAME]"}",
+    "national_elements": "subtle stars, symbols and graphic motifs inspired by the country's identity",
+    "atmosphere": "high-energy tournament anticipation"
+  },
+  "lighting": {
+    "type": "dramatic cinematic lighting",
+    "rim_light": "colored rim lighting matching the country's flag",
+    "highlights": "glossy skin reflections and realistic sweat details",
+    "contrast": "strong sports-poster contrast"
+  },
+  "composition": {
+    "camera_angle": "close-up side profile",
+    "framing": "upper body portrait",
+    "depth_of_field": "shallow",
+    "focus": "face, badge and jersey grip"
+  },
+  "branding": {
+    "tournament": "FIFA World Cup 2026",
+    "logo": "official FIFA World Cup 2026 logo integrated elegantly",
+    "color_palette": "official FIFA World Cup 2026 tournament colors combined with [COUNTRY_NAME] national colors",
+    "headline": "\"LOCKED IN\" displayed in large modern typography",
+    "subtitle": "[COUNTRY_NAME] • FIFA WORLD CUP 2026"
+  },
+  "mood": [
+    "focused",
+    "elite",
+    "fearless",
+    "national pride",
+    "championship energy"
+  ],
+  "camera": {
+    "lens": "85mm",
+    "sharpness": "extreme detail",
+    "rendering": "hyper-realistic sports illustration mixed with premium editorial poster design"
+  },
+  "output_goal": "Create a world-class FIFA World Cup 2026 poster that works universally for any player and any country, featuring a side-profile portrait, jersey grip, explosive national-color energy effects, elegant tournament branding, and a powerful 'LOCKED IN' atmosphere worthy of an official promotional campaign."
+}
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2066214316530094465) | 2026-06-14
+
+---
+
+### 🎴 例 1447：奢华护肤防晒霜广告策划
+
+![奢华护肤防晒霜广告策划](../../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E9%98%B2%E6%99%92%E9%9C%9C%E5%B9%BF%E5%91%8A%E7%AD%96%E5%88%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+防晒霜广告，“{argument name="headline" default="隐形之盾"}”
+
+奢华护肤广告杰作，一瓶巨大的高端防晒霜矗立在黄金时刻纯净的热带海岸线上，强烈的阳光从天而降，在接触到防晒霜散发的透明防护能量罩时瞬间四散，数以百万计的闪烁紫外线粒子在触及无瑕肌肤前化作金色尘埃，清澈的海面反射，流动的海水悬浮在产品周围，微小的水滴捕捉着电影般的光影，超写实纹理展现瓶身每一处细节，奢华美妆广告美学，戏剧性的体积光，发光的氛围感薄雾，高端 {argument name="color palette" default="白金配色"} 色调，可视化为优雅光波的未来防护技术，超细节环境，商业摄影巅峰之作，屡获殊荣的广告设计，照片级渲染，16K 超高分辨率，全球护肤品牌活动，大师级品质。
+
+文字叠加：
+{argument name="product" default="防晒霜"}
+
+标语：
+“守护每一道光，绽放每一刻光彩。”
+
+[English]
+SUNSCREEN AD, “{argument name="headline" default="THE INVISIBLE SHIELD"}”
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium {argument name="color palette" default="white and gold"} color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+{argument name="product" default="SUNSCREEN"}
+
+Tagline:
+“Protect Every Ray. Reveal Every Glow.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2066200217347854445) | 2026-06-14
+
+---
+
+### 🎴 例 1455：Oakley 滑板风格太阳镜广告
+
+![Oakley 滑板风格太阳镜广告](../../images/Oakley%20%E6%BB%91%E6%9D%BF%E9%A3%8E%E6%A0%BC%E5%A4%AA%E9%98%B3%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand name" default="OAKLEY"} 创建一张极简主义风格的竖版品牌广告海报。在干净的白色摄影棚背景上，绘制一个黑白水墨风格的卡通滑板少年，他有着刺猬头、大头、坏笑的表情、交叉的双臂，穿着 T 恤、长短裤、袜子和运动鞋。他自信地站立，一只脚着地，另一只脚踩在倾斜的滑板上；在轮子附近添加少量手绘的尘土和地面涂鸦。将一副写实的黑色环绕式太阳镜放置在卡通少年的眼睛位置，通过混合媒介拼贴的方式实现视觉融合，镜片呈现光泽感，厚实的弧形镜腿向左右延伸，带有细腻的反光，并在纸面上投下柔和的阴影。在顶部中心位置，添加粗体大写的标题 {argument name="headline text" default="SEE DIFFERENT.\nBE DIFFERENT."}，使用间距宽大的黑色无衬线字体，分为两行，居中置于人物上方。在底部中心位置，放置 {argument name="brand logo" default="Oakley 椭圆形 O 标志"}，其下方为品牌文字标识 {argument name="wordmark text" default="OAKLEY"}，两者均为黑色。风格：高端眼镜平面广告，高对比度单色调，俏皮的手绘插画与写实产品摄影相结合，留白充足，构图简洁，无额外文字，无边框，无水印。
+
+[English]
+Create a minimalist vertical brand advertisement poster for {argument name="brand name" default="OAKLEY"}. On a clean white studio background, draw a black-and-white ink sketch of a cocky cartoon skater boy with spiky hair, oversized head, smirking mouth, crossed arms, T-shirt, long shorts, socks, and sneakers. He stands confidently with one foot on the ground and one foot propped on a tilted skateboard; include small hand-drawn dust clouds and ground scribbles near the wheels. Place one real photorealistic pair of black wraparound sunglasses over the cartoon boy’s eyes, physically integrated like a mixed-media collage, with glossy dark lenses, thick curved arms extending left and right, subtle reflections, and a soft cast shadow on the paper. At the top center, add the bold uppercase headline {argument name="headline text" default="SEE DIFFERENT.\nBE DIFFERENT."} in widely spaced black sans-serif letters, two lines, centered above the character. At the bottom center, place the {argument name="brand logo" default="Oakley ellipse O logo"} above the wordmark {argument name="wordmark text" default="OAKLEY"}, both in black. Style: premium eyewear print ad, high-contrast monochrome, playful sketched illustration combined with realistic product photography, lots of white space, clean composition, no extra text, no border, no watermark.
+```
+
+**来源：** [@Ilia Kitchenko](https://x.com/IliaKitchenko/status/2066185680284450875) | 2026-06-14
+
+---
+
+### 🎴 例 1460：法式蛇蝎美人诗歌海报
+
+![法式蛇蝎美人诗歌海报](../../images/%E6%B3%95%E5%BC%8F%E8%9B%87%E8%9D%8E%E7%BE%8E%E4%BA%BA%E8%AF%97%E6%AD%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张横向社交媒体艺术海报，将复古法式情节剧油画与黑色诗歌及制作人员面板相结合。
+
+画布：宽幅 16:9 构图，尺寸约为 1024×576。图像分为两个主要部分：左侧为占据约 60% 宽度的巨幅绘画场景，右侧为占据约 40% 的纯黑色文本面板。在整个艺术品周围添加深棕色细边框。
+
+左侧场景：以 20 世纪初欧洲室内为背景，采用柔和的后印象派/受 Toulouse-Lautrec 启发的油画风格，具有明显的笔触质感，色调为陈旧的清漆色、赭石色、青色、奶油色和黑色。画面中恰好有 2 名女性在进行紧张的戏剧性对话。女性 1 站在左侧，身穿宽松的白色衬衫和深色裙子，面向另一位女性，双手举起，手指张开，表现出惊恐。女性 2 坐在右侧的床或软垫长椅上，身穿低胸黑色吊带裙和黑色丝袜，姿态冷艳，一只手肘弯曲，手靠近下巴，一只膝盖抬起，给人一种危险的蛇蝎美人的印象。她们身后包含 3 个主要背景元素：一面高大的深色木质镜子、一扇狭窄的垂直木板或门，以及一个铁艺床架。两位女性的面部应被柔和的矩形模糊块遮挡，如同经过匿名化或审查处理。
+
+字幕：在绘画场景底部，添加一行带有黑色细阴影的白色斜体电影字幕，内容为“{argument name="French subtitle" default="Vous êtes folle!—"}”。将其居中放置在绘画底部边缘附近。
+
+右侧面板布局：纯黑色背景。在顶部中心放置一个小的米色方形二维码图形，带有 3 个可见的黑色角标。在其下方，居中放置一段用金赭色手写体书写的诗歌。使用随性且不规则的手写字体，而非标准的整洁字体。
+
+诗歌正文：“{argument name="poem text" default="you’re insane!\nshouts the distraught woman\nin French—\nI thank goodness for subtitles\nand dangerous femme fatales"}”。保持行居中堆叠，并留出充足的间距。
+
+制作人员名单：在右侧面板的中下部，添加较小的金色手写文本，内容为：“AI image created by\n{argument name="artist name" default="Michael H. Lester"}\nin collaboration with\nGPT Image 2 Low on\nNightcafestudio\ntwitter: mlhlester”。
+
+底部链接：在右侧面板底部添加两行居中的金色文本：“{argument name="creator link" default="https://creator.nightcafe.studio/?ru/mhlester"}” 和 “{argument name="portfolio link" default="https://4-michael-lester.pixels.com/"}”。
+
+约束条件：必须包含 2 名女性、1 行字幕、1 个二维码图形、1 个诗歌块、1 个制作人员名单块以及 2 行底部链接。保持右侧面板大部分为黑色留白，维持忧郁的黑色电影戏剧基调，并避免照片级真实感。
+
+[English]
+Goal: Create a horizontal social-media art poster combining a vintage French melodrama painting with a black poetry-and-credits panel.
+
+Canvas: Wide 16:9 composition, approximately 1024×576. The image is divided into two main columns: a large painted scene on the left taking about 60% of the width, and a flat black text panel on the right taking about 40%. Add a thin dark brown border around the full artwork.
+
+Left scene: Paint an early 20th-century European interior in a muted post-impressionist / Toulouse-Lautrec-inspired oil-painting style with visible brush texture, aged varnish colors, ochre, teal, cream, and black. Show exactly 2 women in a tense dramatic conversation. Woman 1 stands on the left in a loose white blouse and dark skirt, turned toward the other woman, both hands raised in alarm with spread fingers. Woman 2 sits on the right on a bed or cushioned bench, wearing a low-cut black slip dress and black stockings, posed coolly with one elbow bent and hand near her chin, one knee raised, giving the impression of a dangerous femme fatale. Behind them include exactly 3 major background elements: a tall dark wooden mirror, a narrow vertical wooden panel or door, and an iron bedframe. Both women's faces should be obscured by soft rectangular blur blocks, as if anonymized or censored.
+
+Subtitle: At the bottom of the painted scene, add a white italic film subtitle with a thin black shadow reading “{argument name="French subtitle" default="Vous êtes folle!—"}”. Place it centered near the bottom edge of the painting.
+
+Right panel layout: Solid black background. At the top center place one small beige square QR-code-like graphic with exactly 3 visible black corner markers. Below it, center a poem in hand-lettered golden ochre text. Use casual uneven handwritten lettering, not a standard clean font.
+
+Main poem text: “{argument name="poem text" default="you’re insane!\nshouts the distraught woman\nin French—\nI thank goodness for subtitles\nand dangerous femme fatales"}”. Keep the lines centered and stacked, with generous spacing.
+
+Credits text: In the lower middle of the right panel, add smaller golden handwritten text reading: “AI image created by\n{argument name="artist name" default="Michael H. Lester"}\nin collaboration with\nGPT Image 2 Low on\nNightcafestudio\ntwitter: mlhlester”.
+
+Bottom links: Along the bottom of the right panel add two centered golden lines: “{argument name="creator link" default="https://creator.nightcafe.studio/?ru/mhlester"}” and “{argument name="portfolio link" default="https://4-michael-lester.pixels.com/"}”.
+
+Constraints: Use exactly 2 women, exactly 1 subtitle line, exactly 1 QR-code-like square, exactly 1 main poem block, exactly 1 credits block, and exactly 2 bottom link lines. Keep the right panel mostly empty black space, maintain a moody noir theatrical tone, and avoid photorealism.
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2066175922945073454) | 2026-06-14
+
+---
+
+### 🎴 例 1470：生成式盆景展览海报
+
+![生成式盆景展览海报](../../images/%E7%94%9F%E6%88%90%E5%BC%8F%E7%9B%86%E6%99%AF%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一场生成式自然盆景展创作一张极简瑞士风格的展览海报，以陶瓷盆中的写实盆景树为中心，将植物摄影与精确的算法图表图形相结合。
+
+画布：竖版海报，3:4 长宽比，米白色暖色纸张背景，留白充裕，呈现清晰的印刷设计质感。
+
+主体：一棵成熟的盆景树，写实风格，置于中心偏下方。树干粗壮扭曲呈深褐色，根部外露，茂密的亮绿色松针状叶片呈层叠的水平状排列，土壤覆盖着苔藓，盆器为一个浅圆形灰色混凝土陶瓷盆，带有细微的污渍与阴影。盆景应呈现出如同高端产品摄影般融入设计海报的效果。
+
+排版：使用纤细的现代无衬线大写字体，仅限黑色与深灰色。左上角的主标题为“{argument name="headline text" default="BONSAI SYSTEM"}”，采用超大号纤细字体分两行排列。上方小字为“GENERATIVE NATURE”和“SERIES 01”。标题下方书写“GENERATIVE FORM”，随后是一个三行的小列表：“ALGORITHM”、“VARIATION”、“EQUILIBRIUM”。右上角书写“{argument name="city and year" default="TOKYO 2026"}”。左下角书写活动日期，分三行堆叠：“{argument name="event dates" default="MAY 08 / JUN 21 / 2026"}”，其中 2026 字号显著放大。下方添加“AT”和“TOKYO GENERATIVE LAB”。左侧中部添加小标语“NATURE IS THE ORIGINAL ALGORITHM.”。旁边添加竖排日文：“盆栽系統”。底部中心包含 5 个微小的编号索引标签：“01 SEED”、“02 GROWTH”、“03 FORM”、“04 BALANCE”、“05 TIME”。右下角包含“WWW.GENERATIVE-LAB.JP”。
+
+几何布局：在盆景周围叠加一套浅灰色与黑色的精致技术图表系统。包括：盆景后方居中 1 个巨大的淡色圆环，贯穿顶部的 1 条垂直中心线，穿过叶片区域的 1 条水平线，水平线上 2 个小型黑色圆点节点，右上角叶片后方 1 个矩形网格面板，从右上角向下扫过的 1 组多条纤细弧形等高线，右下角 1 个较小的嵌套弧线角落图案，2 个由微小黑点组成的点阵块，2 个小型浅灰色方块，以及右上角网格附近 1 个狭长的实心黑色垂直矩形。
+
+布局细节：海报应具有数学般的构图感与编辑感，盆景占据中下部区域，排版严格对齐边距。使用纤细的分隔线和短水平线作为点缀。保持干净的单色图形系统，唯一的强色彩为绿色的盆景叶片。
+
+视觉风格：高端博物馆海报，日式设计影响，包豪斯/瑞士风格排版，生成式算法图表美学，精确的矢量叠加，微妙的纸张纹理，写实的植物与盆器，无杂乱元素。
+
+约束：保持所有文字清晰易读，不得添加额外的植物或人物，不得添加水印，仅使用一棵盆景树和一个盆，保留稀疏的米白色背景和黑色几何设计语言。
+
+[English]
+Goal: Create a minimalist Swiss-style exhibition poster for a generative nature bonsai show, centered on a realistic bonsai tree in a ceramic pot, combining botanical photography with precise algorithmic diagram graphics.
+
+Canvas: Vertical poster, 3:4 aspect ratio, off-white warm paper background with generous negative space, crisp print-design finish.
+
+Main subject: A single mature bonsai tree, photorealistic, placed slightly below center. The tree has a thick twisted dark brown trunk, exposed roots, dense bright green pine-like foliage arranged in layered horizontal pads, moss-covered soil, and a shallow round gray concrete ceramic pot with subtle stains and shadow. The bonsai should look like a premium product photograph integrated into a design poster.
+
+Typography: Use thin modern sans-serif uppercase typography, black and dark gray only. The main headline at upper left reads “{argument name="headline text" default="BONSAI SYSTEM"}” in very large thin letters over two lines. Above it, small text reads “GENERATIVE NATURE” and “SERIES 01”. Below the headline, write “GENERATIVE FORM”, then a small three-line list: “ALGORITHM”, “VARIATION”, “EQUILIBRIUM”. On the upper right, write “{argument name="city and year" default="TOKYO 2026"}”. On the lower left, write the event dates as three stacked lines: “{argument name="event dates" default="MAY 08 / JUN 21 / 2026"}”, with 2026 much larger. Under that, add “AT” and “TOKYO GENERATIVE LAB”. Near the left middle, add the small slogan “NATURE IS THE ORIGINAL ALGORITHM.” Add vertical Japanese text beside it: “盆栽系統”. At bottom center, include exactly 5 tiny numbered index labels: “01 SEED”, “02 GROWTH”, “03 FORM”, “04 BALANCE”, “05 TIME”. At bottom right, include “WWW.GENERATIVE-LAB.JP”.
+
+Geometric layout: Overlay a delicate technical diagram system in very light gray and black around the bonsai. Include exactly 1 large faint circle centered behind the tree, exactly 1 vertical centerline running from top to bottom, exactly 1 horizontal line crossing the composition through the foliage area, exactly 2 small black circular nodes on the horizontal line, exactly 1 rectangular grid panel in the upper right behind the foliage, exactly 1 fan of many thin curved contour lines sweeping down from the upper right, exactly 1 smaller nested curved-line corner motif near the lower right, exactly 2 dotted matrix blocks made of tiny black dots, exactly 2 small pale gray square blocks, and exactly 1 narrow solid black vertical rectangle near the upper-right grid.
+
+Layout details: The poster should feel mathematically composed and editorial, with the bonsai occupying the center-lower area and the typography aligned to strict margins. Use thin divider strokes and short horizontal rules as accents. Maintain a clean monochrome graphic system with the only strong color being the green bonsai foliage.
+
+Visual style: High-end museum poster, Japanese design influence, Bauhaus/Suisse typography, generative algorithm diagram aesthetics, precise vector overlays, subtle paper texture, photorealistic plant and pot, no clutter.
+
+Constraints: Keep all text sharp and legible, do not add extra plants or people, do not add a watermark, use exactly one bonsai tree and one pot, preserve the sparse off-white background and black geometric design language.
+```
+
+**来源：** [@Roku｜AI × BizDev](https://x.com/RokuMasuda/status/2066164273378910395) | 2026-06-14
+
+---
+
+### 🎴 例 1473：Gritty City Fever 剧院海报
+
+![Gritty City Fever 剧院海报](../../images/Gritty%20City%20Fever%20%E5%89%A7%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部名为 {argument name="play title" default="CITY FEVER"} 的城市音乐剧创作一张醒目的排版剧院海报，展现 20 世纪 70 年代末粗犷的朋克/百老汇风格，并使用极具视觉冲击力的超大字体。
+
+画布：竖版海报，3:4 长宽比。明亮的饱和黄色背景，仅使用黑色和红色油墨，具有高对比度的孔版印刷/丝网印刷质感，边缘略显磨损，带有复印颗粒感和半色调阴影。
+
+布局：标题占据左侧和中下部，使用巨大的压缩黑色大写字母，分为 3 个堆叠的标题块：顶部为“CITY”，中间为“FE”，底部为“VER”。字母被海报边缘裁剪并略微倾斜，营造出动感的街头海报氛围。在右中位置放置一张黑白剪影照片，主角为一位戏剧性的女舞者/歌手，与标题重叠：凌乱的深色头发，头部向后仰，一只手臂高举出画框，敞开的衬衫内搭黑色背心，穿着牛仔裤，呈现出富有表现力的舞台表演姿态。
+
+文本内容：在海报周围添加 11 组不同的文本：1) 左侧垂直红/黑色标语：“LOVE. AMBITION. SURVIVAL. WELCOME TO THE CITY THAT NEVER SLEEPS.” 2) 中左侧红色副标题：{argument name="subtitle" default="A NEW PLAY WITH MUSIC"} 3) 右上角演职员表：“WRITTEN BY AYA SATO” 和 “DIRECTED BY KEN MORI” 4) 小型红色星形徽章，写着 “LIVE MUSIC EVERY NIGHT” 5) 右侧垂直场地信息块：{argument name="venue" default="METRO STAGE"}，下方附带较小的红色地址 “555 W 42ND ST NEW YORK, NY” 6) 倾斜日期框：{argument name="dates" default="OCT 18 — NOV 24"} 7) 票务信息块：“TICKETS ON SALE NOW” 8) 电话和网址：“212.555.0198” 和 “CITYFEVERPLAY.COM” 9) 左下角评论引用：“ELECTRIFYING. A LOVE LETTER TO THE ONES WHO KEEP THE CITY ALIVE.”，署名为 “— FRONT ROW NEW YORK” 10) 圆形黑色徽章：“LIMITED ENGAGEMENT DON’T MISS IT!” 11) 底部红色横幅：{argument name="bottom banner" default="THE HEAT IS REAL. THE STORIES ARE REALER."} 
+
+视觉细节补充：在底部边缘添加黑色剪影天际线，包括小型建筑、摩天大楼和水塔。使用类似于复古剧院海报的粗体压缩无衬线字体，并用红色强调文本以增加紧迫感。所有字体均保持大写，字间距紧凑，并带有刻意的重叠和裁剪边缘。画面中不包含其他人物、Logo 或水印。
+
+[English]
+Goal: Create a bold typographic theater poster for an urban music play titled {argument name="play title" default="CITY FEVER"}, with a gritty late-1970s punk/Broadway energy and extreme oversized typography.
+
+Canvas: Vertical poster, 3:4 aspect ratio. Bright saturated yellow background with black and red ink only, high-contrast risograph/screenprint texture, slightly distressed edges, photocopied grain, halftone shadows.
+
+Layout: The title dominates the left and lower center in huge condensed black uppercase letters, split into exactly 3 stacked title blocks: “CITY” at the top, “FE” in the middle, and “VER” across the bottom. Letters are cropped by the poster edges and slightly tilted for a kinetic street-poster feel. Place a black-and-white cutout photo of a dramatic female dancer/singer on the right-center, overlapping the title: messy dark hair, head tilted back, one arm raised high out of frame, open shirt over a black tank top, jeans, expressive stage-performance pose.
+
+Text content: Add exactly 11 distinct text groups around the poster: 1) left vertical red/black tagline: “LOVE. AMBITION. SURVIVAL. WELCOME TO THE CITY THAT NEVER SLEEPS.” 2) red subtitle near the center-left: {argument name="subtitle" default="A NEW PLAY WITH MUSIC"} 3) top-right credits: “WRITTEN BY AYA SATO” and “DIRECTED BY KEN MORI” 4) small red star badge reading “LIVE MUSIC EVERY NIGHT” 5) right vertical venue block: {argument name="venue" default="METRO STAGE"} with smaller red address “555 W 42ND ST NEW YORK, NY” 6) slanted date box: {argument name="dates" default="OCT 18 — NOV 24"} 7) ticket block: “TICKETS ON SALE NOW” 8) phone and website: “212.555.0198” and “CITYFEVERPLAY.COM” 9) lower-left review quote: “ELECTRIFYING. A LOVE LETTER TO THE ONES WHO KEEP THE CITY ALIVE.” with attribution “— FRONT ROW NEW YORK” 10) round black badge: “LIMITED ENGAGEMENT DON’T MISS IT!” 11) red bottom banner: {argument name="bottom banner" default="THE HEAT IS REAL. THE STORIES ARE REALER."}
+
+Additional visual details: Add a black silhouette skyline along the bottom edge, including small buildings, skyscrapers, and a water tower. Use heavy condensed sans-serif typography similar to vintage theater bills, with red accent text for urgency. Keep all type uppercase, tightly kerned, with intentional overlaps and cropped margins. No extra people, no logos, no watermark.
+```
+
+**来源：** [@Roku｜AI × BizDev](https://x.com/RokuMasuda/status/2066162339574157332) | 2026-06-14
+
+---
+
+### 🎴 例 1475：瑞士几何风格音乐海报
+
+![瑞士几何风格音乐海报](../../images/%E7%91%9E%E5%A3%AB%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张简洁的瑞士现代主义排版海报，用于实验音乐活动，运用精确的几何抽象和大胆的非对称布局。
+
+画布：竖版海报，3:4 纵横比，暖白色纸张背景，带有微妙的印刷纹理。使用严格的网格、细灰色辅助线，以及高对比度的黑色、红色和一种蓝色作为点缀。
+
+布局：构图由一条细垂直中心线和一条横跨下三分之一处的细水平线分割。上半部分包含一个大型抽象圆形声波图案，位于中心偏上位置，横跨垂直轴。右下角包含活动排版块，左对齐。留出充足的负空间，保持设计清晰、扁平且具有印刷质感。
+
+几何元素：包含 7 组主要的几何特征：1 组围绕中心的大型精细同心灰圆，1 个右上角的黑色粗半环，1 个被白色和黑色圆形片段部分重叠的红色中心圆，1 组靠近左上边缘的细垂直灰线，1 组从左侧横跨至中心的细水平灰线，1 个从左下角向上延伸的红色粗四分之一圆弧，以及 1 个位于主构图下方的小型实心蓝圆。在主圆右侧水平排列 7 个小黑点。在水平分割线下方左侧包含一个被裁切的黑色半圆形形状。
+
+文本内容：主标题使用粗体大写黑色无衬线字体：{argument name="headline text" default="SONIC STRUCTURES"}。下方添加小字副标题：{argument name="subtitle text" default="experimental music series"}。在一条细分割线下方，用粗体红色大写字母设置地点和日期：{argument name="location" default="ZÜRICH"} 和 {argument name="date" default="12–14 OCT 2026"}。在另一条细分割线下方，添加黑色小字详情：{argument name="venue and time" default="Tonhalle Forum / 20:00"}，以及最后一行流派说明 "electronic / chamber / improvisation"。
+
+视觉风格：受包豪斯启发的瑞士国际主义风格，实验音乐节海报，锐利的矢量几何，平衡的非对称性，大胆的 Helvetica 类排版，黑色、红色、蓝色、灰色和暖白色的极简配色。使用干净的扁平形状，无阴影，无照片，无渐变，无装饰边框，无水印。
+
+[English]
+Goal: Create a clean Swiss modernist typography poster for an experimental music event, using precise geometric abstraction and bold asymmetrical layout.
+
+Canvas: Vertical poster, 3:4 aspect ratio, warm off-white paper background with subtle print texture. Use a strict grid, thin gray construction lines, and high-contrast black, red, and one blue accent.
+
+Layout: The composition is split by a thin vertical center line and a thin horizontal line across the lower third. The upper half contains a large abstract circular sound-wave motif centered slightly above the middle, crossing the vertical axis. The lower right contains the event typography block, aligned left. Leave generous negative space and keep the design crisp, flat, and print-like.
+
+Geometric elements: Include exactly 7 main geometric feature groups: 1 large set of fine concentric gray circles around the center, 1 thick black partial ring on the upper right, 1 red central circle partially overlapped by white and black circular segments, 1 cluster of thin vertical gray lines near the upper left edge, 1 cluster of thin horizontal gray lines crossing from the left into the center, 1 thick red quarter-arc sweeping upward from the lower left, and 1 small solid blue circle below the main composition. Add exactly 7 small black dots in a horizontal row to the right of the main circle. Include a black semicircular shape cropped on the left side below the horizontal divider.
+
+Text content: Set the main headline in bold uppercase black sans-serif: {argument name="headline text" default="SONIC STRUCTURES"}. Under it, add the small subtitle: {argument name="subtitle text" default="experimental music series"}. Below a thin divider line, set the location and date in bold red uppercase: {argument name="location" default="ZÜRICH"} and {argument name="date" default="12–14 OCT 2026"}. Below another thin divider line, add the small black details: {argument name="venue and time" default="Tonhalle Forum / 20:00"} and a final genre line reading "electronic / chamber / improvisation".
+
+Visual style: Bauhaus-inspired Swiss International Style, experimental music festival poster, sharp vector geometry, balanced asymmetry, bold Helvetica-like typography, minimal palette of black, red, blue, gray, and off-white. Use clean flat shapes, no shadows, no photographs, no gradients, no decorative borders, no watermark.
+```
+
+**来源：** [@Roku｜AI × BizDev](https://x.com/RokuMasuda/status/2066160672019447891) | 2026-06-14
+
+---
+
+### 🎴 例 1477：VANTORÉ 奢华腕表广告
+
+![VANTORÉ 奢华腕表广告](../../images/VANTOR%C3%89%20%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="VANTORÉ"} 创作一则奢华瑞士腕表广告，画面包含一位时尚的男性模特，呈现高端时尚姿态。
+
+画布：1:1 正方形奢华杂志广告，采用暖米色与炭灰色调，高端编辑摄影与精致平面设计相结合。构图采用左右分割：左侧为模特，右侧为品牌标识与腕表细节。
+
+布局：左侧展示一位英俊的男性模特，背景为极简主义地中海风格的米色建筑，带有高大的圆形拱门和强烈的午后阴影。他的面部被一个居中的暖棕色柔边正方形模糊处理，但深色波浪卷发清晰可见。他身着剪裁合身的 {argument name="suit color" default="灰褐色"} 西装，搭配深棕色/黑色开领衬衫和同色系口袋巾，一只手插在裤兜里。另一只手整理着西装翻领，以便清晰展示左手腕上的奢华腕表。右侧为炭灰色垂直面板，配有优雅的高端排版，右下角放置腕表产品渲染图。
+
+文字内容：在右侧面板顶部，放置一个极简的金色 V 字形字母组合 Logo，下方为大号间距的金色衬线字体品牌名“{argument name="brand name" default="VANTORÉ"}”，下方以小号间距大写字母标注“SWISS MADE”。居中标题为“{argument name="headline text" default="TIME REDEFINED"}”，采用大号白色高对比度衬线大写字母，分为两行排列。下方添加一条细金色分割线。线下方书写小号间距金色大写字母“CRAFTED FOR LEADERS”，随后是小号斜体白色字体的“Swiss Made Collection”。再下方书写极小号间距金色大写字母“PRECISION • PRESTIGE • PERFORMANCE”。
+
+产品细节：包含 2 只清晰可见的腕表：一只佩戴在模特手腕上，另一只为右下角的独立产品渲染图。两款腕表均为黑色表盘、玫瑰金表壳与指针、纤细刻度及黑色皮质表带。在独立腕表下方，书写小号金色间距大写字母“VANTORÉ HERITAGE”以及更小号的白色间距大写字母“AUTOMATIC”。
+
+底部功能行：在左下角包含 3 个小型金色线条图标及白色标签：1 个盾牌图标标注“5 YEAR WARRANTY”，1 个水滴图标标注“5 ATM WATER RESISTANT”，以及 1 个瑞士十字图标标注“SWISS MOVEMENT”。
+
+视觉风格：高端腕表营销活动，电影感暖阳，干练的西装剪裁，真实的织物纹理，浅景深，优雅的拱门阴影，极简布局，炭灰色背景上精致的金色与白色排版，奢华编辑风格。
+
+约束条件：保持模特在左、排版与产品腕表在右的布局，维持简洁的奢华感，确保腕表清晰可见，不出现额外人物，除 3 个功能图标外不添加其他图标，且避免任何水印或社交媒体 UI。
+
+[English]
+Goal: Create a luxury Swiss wristwatch advertisement for {argument name="brand name" default="VANTORÉ"}, featuring a single stylish male model in a premium fashion pose.
+
+Canvas: Square 1:1 luxury magazine ad, warm beige and charcoal palette, high-end editorial photography mixed with refined graphic design. Split composition: model on the left, product branding and watch details on the right.
+
+Layout: Left half shows one handsome male model standing in front of minimalist Mediterranean-style beige architecture with tall rounded arches and strong late-afternoon shadows. His face is covered by a centered soft-edged square blur in warm brown tones, while his dark wavy hair remains visible. He wears a tailored {argument name="suit color" default="taupe gray"} suit, a dark brown/black open-collar shirt, matching pocket square, and one hand in his trouser pocket. His other hand adjusts his jacket lapel so the luxury wristwatch on his left wrist is clearly visible. Right half is a dark charcoal vertical panel with elegant premium typography and a product watch render near the lower right.
+
+Text content: At the top of the right panel, place a minimalist gold monogram logo shaped like a stylized V, then the brand name "{argument name="brand name" default="VANTORÉ"}" in large spaced gold serif letters, with "SWISS MADE" below in small spaced caps. Center headline reads "{argument name="headline text" default="TIME REDEFINED"}" in large white high-contrast serif capitals, split across two lines. Add a thin gold divider line below. Under it, write "CRAFTED FOR LEADERS" in small spaced gold capitals, then "Swiss Made Collection" in small italic white type. Beneath that, write "PRECISION • PRESTIGE • PERFORMANCE" in tiny spaced gold capitals.
+
+Product details: Include exactly 2 visible watches: one real watch on the model’s wrist and one isolated product watch render on the lower right. Both watches have a black dial, rose-gold case and hands, slim indices, and a black leather strap. Under the isolated watch, write "VANTORÉ HERITAGE" in small gold spaced capitals and "AUTOMATIC" in smaller white spaced capitals.
+
+Bottom feature row: Along the bottom left, include exactly 3 small gold line icons with white labels: 1 shield icon labeled "5 YEAR WARRANTY", 1 water drop icon labeled "5 ATM WATER RESISTANT", and 1 Swiss cross icon labeled "SWISS MOVEMENT".
+
+Visual style: Premium watch campaign, cinematic warm sunlight, crisp suit tailoring, realistic fabric texture, shallow depth of field, elegant arch shadows, minimal clutter, refined gold and white typography on charcoal, luxury editorial mood.
+
+Constraints: Keep the model on the left and the typography/product watch on the right, maintain a clean luxury layout, make the wristwatch clearly visible, use no extra people, no additional icons beyond the 3 feature icons, and avoid any watermark or social media UI.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2066151610418684147) | 2026-06-14
+
+---
+
+### 🎴 例 1478：奢华分屏腕表广告大片
+
+![奢华分屏腕表广告大片](../../images/%E5%A5%A2%E5%8D%8E%E5%88%86%E5%B1%8F%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand name" default="VANTORÉ"} 创作一张 1:1 的奢华方形高端男士腕表广告大片。构图采用垂直分屏，呈现两种对比鲜明的建筑时尚编辑风格：左侧为暖米色石材，配有高耸拱门和斜向阳光阴影；右侧为深海军蓝现代建筑，配有垂直立柱和低矮平台。放置两位完全不同的成年男性模特，两人的面部均被柔和的矩形模糊遮罩刻意遮挡。左侧模特 1 身着浅鼠尾草绿双排扣西装，搭配金色纽扣、敞开的白色衬衫、口袋巾，左手佩戴银色链带腕表；他自信站立，一手整理西装，一手插在裤兜里。右侧模特 2 身着深酒红色高领毛衣、深色长款大衣、炭灰色百褶长裤和黑色皮鞋，左手佩戴深色表带计时码表；他姿态放松，一手插兜，一手靠近胸前。在大型衬线字体品牌名 {argument name="brand name" default="VANTORÉ"} 上方居中放置品牌字母组合标志，下方配以小号字间距文本“SWISS MADE”。在画面中下部，添加优雅的白色大写衬线字体主标题：{argument name="headline text" default="TIME REDEFINED"}，下方配有一条细金色分割线，以及小号字间距金色大写字母标语 {argument name="tagline" default="CRAFTED FOR LEADERS"}。在底部两侧各包含一个大型腕表产品切图：左侧产品腕表标注为 {argument name="left watch model" default="VERIDIAN"}，为不锈钢链带腕表，配深绿色表盘，自动机械风格，并附带文本行“AUTOMATIC”、“SWISS MOVEMENT”、“SAPPHIRE CRYSTAL”；右侧产品腕表标注为 {argument name="right watch model" default="OBSIDIAN"}，为深色皮带计时码表，配海军蓝表盘，并附带文本行“CHRONOGRAPH”、“SWISS MOVEMENT”、“5 ATM WATER RESISTANT”。在底部中心，包含三个极简功能图标及标签：盾牌图标标注“2 YEAR WARRANTY”，水滴图标标注“5 ATM WATER RESISTANT”，以及类似医疗十字的加号图标标注“SWISS MOVEMENT”。采用高级时尚广告灯光，写实摄影，精致对比度，干净的留白，居中奢华排版，微妙的金色点缀，清晰的织物纹理，抛光金属腕表高光，无多余物体，无水印，无额外文本。
+
+[English]
+Create a luxurious square 1:1 high-end men's watch campaign advertisement for {argument name="brand name" default="VANTORÉ"}. The composition is split vertically into two contrasting architectural fashion-editorial halves: the left half is warm beige stone with a tall arch and diagonal sunlight shadow, and the right half is deep navy-blue modern architecture with vertical columns and a low platform. Place two completely different adult male models, both with faces intentionally obscured by soft rectangular blur masks. Model 1 on the left wears a pale sage-green double-breasted suit with gold buttons, an open white dress shirt, a pocket square, and a silver bracelet watch on his left wrist; he stands confidently with one hand adjusting his jacket and one hand in his trouser pocket. Model 2 on the right wears a dark burgundy turtleneck, long dark overcoat, charcoal pleated trousers, black shoes, and a dark-strap chronograph watch on his left wrist; he stands relaxed with one hand in his pocket and one hand near his chest. Center the brand monogram above the large serif wordmark {argument name="brand name" default="VANTORÉ"}, with small spaced text “SWISS MADE” underneath. In the middle-lower area, add the main campaign headline in elegant white uppercase serif type: {argument name="headline text" default="TIME REDEFINED"}, with a small gold divider line below and the tagline {argument name="tagline" default="CRAFTED FOR LEADERS"} in small spaced gold uppercase letters. Include exactly two large product watch cutouts at the bottom corners: left product watch labeled {argument name="left watch model" default="VERIDIAN"}, a stainless steel bracelet watch with a deep green dial, automatic styling, and text lines “AUTOMATIC”, “SWISS MOVEMENT”, “SAPPHIRE CRYSTAL”; right product watch labeled {argument name="right watch model" default="OBSIDIAN"}, a dark leather-strap chronograph with navy dial and text lines “CHRONOGRAPH”, “SWISS MOVEMENT”, “5 ATM WATER RESISTANT”. Along the bottom center, include exactly three small minimalist feature icons with labels: a shield icon labeled “2 YEAR WARRANTY”, a water droplet icon labeled “5 ATM WATER RESISTANT”, and a medical-cross-like plus icon labeled “SWISS MOVEMENT”. Use premium fashion advertising lighting, realistic photography, refined contrast, clean negative space, centered luxury typography, subtle gold accents, sharp fabric texture, polished metal watch highlights, and no extra objects, no watermark, no additional text.
+```
+
+**来源：** [@shah_zadii](https://x.com/sha_zdiii/status/2066151080526786614) | 2026-06-14
+
+---
+
+### 🎴 例 1481：史诗奇幻战争记忆海报
+
+![史诗奇幻战争记忆海报](../../images/%E5%8F%B2%E8%AF%97%E5%A5%87%E5%B9%BB%E6%88%98%E4%BA%89%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张以氛围而非文字为主题的史诗级暗黑奇幻电影海报，唤起 {argument name="theme" default="memories"} 的意境：一位巨大的金发女战士或女神占据了从左上角到右下角的整个构图，她随风飘扬的长发掠过火红的天空，她的面部在左上方被一个巨大的纯灰色方形遮挡块刻意掩盖。在她下方，一名留着长黑发的肌肉发达的野蛮人英雄正穿过飞溅的水花和战场残骸向前冲锋，右手持剑，左臂佩戴圆盾，他的面部也被一个微小的柔和深色方形模糊处理。英雄周围环绕着宏大的中世纪战争场景：手持长矛和旗帜的军队、破败的哥特式城堡、崎岖的山脉、飞龙或巨鸟、烟雾、火星以及士兵的剪影。光影被戏剧性地分为两个对立的色调世界：左侧是冰冷的蓝色风暴云和寒雾，右侧是燃烧的橙红色落日、火焰和余烬。在前景中，巨大的深色盔甲形态和盾牌从两个下角向上弯曲，包括右侧带有红色光影的盔甲肢体或护手，以及左侧带有蓝色光影的金属盾牌状结构，以此衬托冲锋的英雄。采用超精细的奇幻写实风格，高对比度，极具动态感，体积云，雨雾，发光的落日地平线，电影概念艺术，复杂的盔甲纹理，混乱的战争氛围，竖版海报构图，无可见文字，无 Logo，无水印。自定义中心英雄为 {argument name="hero archetype" default="barbarian warrior"}，巨人形象为 {argument name="giant figure" default="blonde female warrior goddess"}，左侧色调为 {argument name="cold color palette" default="icy blue storm"}，右侧色调为 {argument name="warm color palette" default="fiery orange-red sunset"}。
+
+[English]
+Create an epic dark-fantasy cinematic poster titled by mood rather than typography, evoking {argument name="theme" default="memories"}: a colossal blonde female warrior or goddess fills the entire composition from the upper left to the lower right, her long windblown hair streaming across the fiery sky, her face intentionally covered by a large plain square gray censor block in the upper center-left. Below her, a muscular barbarian hero with long dark hair charges forward through splashing water and battlefield debris, holding a sword in his right hand and a round shield on his left arm, with his face also obscured by a small soft dark square blur. Surround the hero with a massive medieval battle: armies with spears and banners, ruined gothic castles, jagged mountains, flying dragons or large birds, smoke, sparks, and silhouettes of soldiers. Split the lighting dramatically into two opposing color worlds: icy blue storm clouds and cold mist on the left, burning orange-red sunset, fire, and embers on the right. In the foreground, show huge dark armored forms and shields curving up from both lower corners, including a red-lit armored limb or gauntlet on the right and a blue-lit metallic shield-like structure on the left, framing the charging hero. Use hyper-detailed fantasy realism, high contrast, extreme dynamic motion, volumetric clouds, rain spray, glowing sunset horizon, cinematic concept art, intricate armor textures, chaotic war atmosphere, vertical poster composition, no readable text, no logo, no watermark. Customize the central hero as {argument name="hero archetype" default="barbarian warrior"}, the giant figure as {argument name="giant figure" default="blonde female warrior goddess"}, the left-side palette as {argument name="cold color palette" default="icy blue storm"}, and the right-side palette as {argument name="warm color palette" default="fiery orange-red sunset"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2066149646758789569) | 2026-06-14
+
+---
+
+### 🎴 例 1483：虚构夏季漫画杂志封面
+
+![虚构夏季漫画杂志封面](../../images/%E8%99%9A%E6%9E%84%E5%A4%8F%E5%AD%A3%E6%BC%AB%E7%94%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张虚构的日本周刊漫画杂志封面，采用明亮的夏季少年漫风格，呈现出光鲜亮丽的报刊亭发行效果，以海洋海滩插画作为主封面图，并配有许多充满活力的封面文案。
+
+画布：竖版杂志封面，比例约为 2:3，全出血设计，饱和的青蓝色天空与海洋，醒目的黄蓝配色排版，高密度印刷布局。
+
+主封面图：一位动漫风格的少女站在阳光明媚的热带海滩上，背影出镜并微微侧身，手持一顶带有蓝色丝带的宽檐草帽，风将她棕色的中长发吹向右侧。她身穿一件纯白色短袖 T 恤，扎进高腰白色夏季长裙中，裙上带有淡蓝色花卉图案。她的面部被矩形的类似马赛克的模糊效果遮挡。背景展现出波光粼粼的绿松石色海浪、沙滩上的白色泡沫、远处的绿色岛屿悬崖、明亮的蓝天、蓬松的夏日云朵，以及从右上角伸入的棕榈叶。
+
+杂志刊头及顶部区域：顶部放置巨大的做旧斜体刊头 {argument name="magazine title" default="Mushin"}，采用亮黄色，带有深海军蓝描边和粗糙的半调网点纹理。左上角添加一个小型的周刊标签，顶部横跨一行简短的日式标语，右上角放置一个小型的发行日期徽章。右上角的期刊信息应显示 {argument name="issue number" default="No. 28"}、{argument name="issue date" default="2025.7.2"} 以及 550 日元的定价。
+
+大型主标题：在右侧放置一个竖排的日文夏季主标题 {argument name="main cover headline" default="夏が呼んでる。"}，采用白色大字配蓝色阴影，外加一行较小的粉色竖排侧边短语，暗示夏日耀眼的笑容。
+
+内嵌专题框：包含 3 个内嵌专题栏目。栏目 1 位于左侧中上方：一位深蓝色调的动作漫画英雄，留着刺猬头，拳头散发蓝光，面部模糊，白色边框，配有醒目的蓝色日文专题文字。栏目 2 位于左侧中部：一位淡紫色头发、紫色眼睛的动漫少女肖像，白色边框，配有粉色和蓝色日文专题文字。栏目 3 位于右下角：一个仿写真/访谈宣传栏，展示一位身穿白裙的年轻女性在温室或花园场景中，面部模糊，采用华丽的衬线标题样式和花卉装饰；包含暗示独家专访的文字。
+
+其他封面文字：在左侧栏添加 5 个较小的连载标题简介，以堆叠的蓝色日文呈现，末尾配有一行粉色的“and more!!”风格文字。底部创建一个大型活动横幅，左侧带有粉色星爆徽章，标题为 {argument name="bottom campaign text" default="人気キャラ総選挙2025 開催中!!"}，使用巨大的蓝色、粉色和黑色字体，下方配有一条较小的黄白色投票行动号召条。
+
+视觉风格：高分辨率精美的动漫杂志艺术，充满活力的少年漫封面设计，明亮的夏季配色，粗轮廓线，半调印刷纹理，光泽高光，戏剧性的重叠排版，贴纸式徽章，投影效果，以及密集的编辑排版。保持构图紧凑但易读，中央的海滩少女占据页面主导地位。
+
+约束条件：仅使用 1 个主要角色和 3 个内嵌栏目；模糊或遮挡主角色及内嵌栏目中所有可见的面部；不得使用真实的漫画标题、真实的出版商标志或真实的明星姓名；确保所有日文文字看起来像专业排版且具有杂志质感。
+
+[English]
+Goal: Create a fictional weekly Japanese manga magazine cover in a bright summer shonen style, like a glossy newsstand issue, featuring an ocean-beach illustration as the main cover art and many energetic cover lines.
+
+Canvas: Portrait magazine cover, approximately 2:3 aspect ratio, full bleed, saturated cyan-blue sky and sea, bold yellow-and-blue typography, high-density print layout.
+
+Main cover art: A single anime-style teenage girl stands on a sunny tropical beach, seen from behind and slightly turned, holding a wide straw hat with a blue ribbon as wind blows her medium brown hair to the right. She wears a plain white short-sleeve T-shirt tucked into a high-waisted white summer skirt with pale blue floral patterns. Her face is obscured by a rectangular censor-like blur. The background shows sparkling turquoise ocean waves, white foam on sand, distant green island cliffs, a bright blue sky, puffy summer clouds, and palm leaves entering from the top right.
+
+Magazine masthead and top area: Huge distressed italic masthead {argument name="magazine title" default="Mushin"} across the top in bright yellow with dark navy outline and rough halftone texture. Add a small weekly label at top left, a short Japanese-style tagline across the top, and a small release-day badge at top right. Issue information on the upper right should show {argument name="issue number" default="No. 28"}, {argument name="issue date" default="2025.7.2"}, and a price line of 550 yen.
+
+Large main headline: On the right side, place a tall vertical Japanese summer headline reading {argument name="main cover headline" default="夏が呼んでる。"} in large white characters with blue shadow, plus a smaller pink vertical side phrase suggesting the dazzling smile of summer.
+
+Inset feature boxes: Include exactly 3 inset feature panels. Panel 1 is on the left upper-middle: a dark blue action manga hero with spiky hair and a glowing blue fist, face blurred, framed in white, with bold blue Japanese feature text. Panel 2 is on the left middle: a pastel lavender-haired anime girl portrait with purple eyes, framed in white, with pink and blue Japanese feature text. Panel 3 is on the lower right: a faux gravure/interview promo showing a young woman in a white dress inside a glasshouse or garden setting, face blurred, with ornate serif title styling and floral decorations; include text implying an exclusive interview.
+
+Other cover text: Add a left column with exactly 5 smaller serialized-title blurbs in stacked blue Japanese text, ending with a small pink “and more!!” style line. At the bottom, create a large campaign banner with a pink starburst badge on the left and the headline {argument name="bottom campaign text" default="人気キャラ総選挙2025 開催中!!"} in big blue, pink, and black lettering, followed by a smaller yellow-and-white voting call-to-action strip.
+
+Visual style: High-resolution polished anime magazine art, energetic shonen cover design, bright summer palette, thick outlines, halftone print textures, glossy highlights, dramatic overlapping typography, sticker-like badges, drop shadows, and dense editorial layout. Keep the composition crowded but readable, with the central beach girl dominating the page.
+
+Constraints: Use exactly 1 main character and exactly 3 inset panels; blur or obscure all visible faces in the main character and inset panels; do not use real manga titles, real publisher logos, or real celebrity names; make all Japanese text look professionally typeset and magazine-like.
+```
+
+**来源：** [@無心 Mushin](https://x.com/xoMushinxo/status/2066148139472740820) | 2026-06-14
+
+---
+
+### 🎴 例 1503：奢华韩系街头风海报
+
+![奢华韩系街头风海报](../../images/%E5%A5%A2%E5%8D%8E%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张风格为“{argument name="magazine style" default="奢华韩系街头风杂志"}”的高定时尚杂志海报，品牌为“{argument name="brand" default="LUXURY"}”。采用极简未来主义美学，背景由醒目的大号字体主导。画面中心为全身 {argument name="model type" default="男性时尚模特"}，表情中性，双手插兜，姿态从容自信。服装展示超大廓形奢华街头风：宽松工装裤、叠穿连帽衫、羽绒服/飞行员夹克，采用单色调，搭配高端运动鞋。
+
+[English]
+Create a premium high-fashion editorial poster for "{argument name="brand" default="LUXURY"}" in a {argument name="magazine style" default="luxury Korean streetwear magazine"} style. Minimal futuristic aesthetic with oversized bold typography dominating the background. Full-body {argument name="model type" default="male fashion model"} centered symmetrically, neutral facial expression, hands in pockets, relaxed confident stance. Outfit features oversized luxury streetwear: baggy cargo pants, layered hoodie, puffer/bomber jacket, monochromatic tones, high-end sneakers.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2066109713616630137) | 2026-06-14
+
+---
+
+### 🎴 例 1504：Pizza Hut 高级时尚海滩广告大片
+
+![Pizza Hut 高级时尚海滩广告大片](../../images/Pizza%20Hut%20%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%BB%A9%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="couple" default="年轻时尚的情侣"} 在阳光明媚的热带海滩上优雅地跪着 —— 女士梳着利落的高马尾，身穿修身白色短款上衣和深红金配色运动短裤，外罩一件晶莹剔透的 PVC 防风外套，折射出棱镜般的光芒；男士身穿宽松的白色 T 恤和同色系深红金配色慢跑短裤，外搭一件结构感十足的透明 PVC 外套 —— 两人面对面开怀大笑，展现出自然、轻松的默契。两人怀中抱着一个精致、有光泽的 {argument name="brand" default="Pizza Hut"} 品牌手提袋，袋身带有金属红和金色的箔印细节。一个巨大的超大号 Pizza Hut 比萨盒在他们身后如建筑背景般巍然耸立并敞开 —— 融化的拉丝马苏里拉芝士冒着热气，鲜艳的意大利辣香肠在定向光下闪闪发光，酱汁边缘焦香浓郁。比萨盒呈现出清晰的品牌字体和深红色的漆面质感。场景：{argument name="location" default="原始沙滩"}，黄金时刻，温暖的琥珀色和橘色阳光以 15 度角斜射入画面，长而柔和的棕榈叶阴影在光亮湿润的沙地上投下条纹。散落的贝壳、热带木槿花以及漂浮在半空中的半透明柑橘和番茄切片点缀在构图中。使用 85mm f/1.4 镜头拍摄，浅景深带来奶油般的虚化背景，带有轻微的电影级遮幅裁剪。灯光：三点式摄影棚布光与自然黄金时刻轮廓光相结合，温暖的 3200K 主光，柔和的补光反射板，PVC 表面上微妙的蓝调边缘光营造出虹彩般的棱镜光晕。调色：受 Kodak Vision3 500T 启发的暖色调压制，提升暗部细节，深邃饱和的红色，明亮的肤色。超写实 8K 超高清 3D 渲染，商业广告摄影，次表面皮肤散射，PVC 和地面上的光线追踪反射，比萨的食物主体光，电影级景深。
+
+[English]
+{argument name="couple" default="Young stylish couple"} kneeling gracefully on a sun-drenched tropical beach — woman with sleek high ponytail wearing a fitted white crop top and deep red-and-gold athletic shorts beneath a crystal-clear transparent PVC windbreaker catching prismatic light, man in a relaxed oversized white tee and matching deep red-and-gold jogger shorts under a structured transparent PVC jacket — both laughing joyfully toward each other with natural, effortless chemistry. Both cradling a polished, glossy {argument name="brand" default="Pizza Hut"} branded bag with metallic red and gold foil detailing. A colossal, oversized Pizza Hut pizza box erupts open directly behind them as a towering architectural backdrop — steam wisping from molten stretchy mozzarella, vibrant pepperoni glistening under directional light, sauce edges caramelized and rich. The box rendered with sharp typographic branding and deep red lacquered surfaces. Setting: {argument name="location" default="pristine sandy beach"} at golden hour, warm amber and tangerine sunlight raking across the scene at 15-degree angle, long soft palm leaf shadows striping the glossy reflective wet-sand floor. Scattered seashells, tropical hibiscus blooms, and floating translucent citrus and tomato slices drift mid-air around the composition. Shot on 85mm f/1.4 lens, shallow depth of field with creamy bokeh background, slight cinematic letterbox crop. Lighting: three-point studio setup blended with natural golden hour rim lighting, warm 3200K key light, soft fill reflector, subtle blue-hour edge light on PVC surfaces creating iridescent prismatic flares. Color grading: Kodak Vision3 500T-inspired warm crush, lifted shadows, deep saturated reds, luminous skin tones. Ultra-realistic 8K hyperrealistic 3D render, commercial advertising campaign photography, subsurface skin scattering, ray-traced reflections on PVC and floor, food hero lighting on pizza, cinematic depth.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066109550894436742) | 2026-06-14
+
+---
+
+### 🎴 例 1521：复古唱片店生活方式人像
+
+![复古唱片店生活方式人像](../../images/%E5%A4%8D%E5%8F%A4%E5%94%B1%E7%89%87%E5%BA%97%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实生活方式人像，主角是一位 {argument name="subject" default="年轻女性"}，正在 {argument name="setting" default="复古独立唱片店"} 中浏览音乐。她站在黑胶唱片和 CD 的货架之间，手持一张音乐专辑向镜头方向伸出，营造出动态的浅景深效果。中长款深棕色波波头，自然妆容，神情自信而放松，与镜头有直接的眼神交流。唱片店里摆满了木质货架，上面堆满了 CD、黑胶唱片和音乐纪念品。墙上装饰着大型复古音乐海报和专辑封面，营造出怀旧的独立音乐氛围。店内随处可见“ALT-ROCK”和“90s INDIE”等流派标识。{argument name="lighting" default="温暖的室内环境光"}，舒适的复古美学，地道的音乐爱好者文化。使用专业全画幅相机搭配大光圈镜头（f/1.8）拍摄，产生强烈的近景模糊和电影级背景虚化。前景中伸出的手和专辑略微失焦，而主体面部保持清晰。自然色彩分级，柔和的胶片色调，编辑摄影风格，独立书店和唱片店氛围，抓拍瞬间，高度细腻的纹理，真实的皮肤质感，超写实，4K，杂志级生活方式摄影。负面提示词：低分辨率，面部模糊，曝光过度，卡通，CGI，插画，动漫，手部畸形，多指，唱片重复，解剖结构错误，水印，Logo，文字叠加，边框，边线，色彩过饱和，皮肤不真实，运动模糊，噪点，伪影，光线昏暗的场景。
+
+[English]
+Ultra-realistic lifestyle portrait of a {argument name="subject" default="young woman"} browsing music in a {argument name="location" default="vintage independent record store"}. She stands between rows of vinyl records and CDs, reaching toward the camera while holding a music album, creating a dynamic shallow-depth-of-field effect. Medium-length dark brown bob haircut, natural makeup, confident and relaxed expression, direct eye contact with the camera.\nThe record store is filled with wooden shelves packed with CDs, vinyl records, and music memorabilia. Large retro music posters and album covers decorate the walls, creating a nostalgic indie atmosphere. Genre signs such as "ALT-ROCK" and "90s INDIE" are visible throughout the shop. Warm ambient indoor lighting, cozy vintage aesthetic, authentic music-lover culture.\nShot with a professional full-frame camera using a wide-aperture lens (f/1.8), producing strong foreground blur and cinematic background bokeh. The extended hand and album in the foreground are slightly out of focus while the subject's face remains sharp. Natural color grading, soft film tones, editorial photography style, indie bookstore and record-shop vibe, candid moment, highly detailed textures, realistic skin, ultra-photorealistic, 4K, magazine-quality lifestyle photography.\nNegative Prompt:\nlow resolution, blurry face, overexposed lighting, cartoon, CGI, illustration, anime, distorted hands, extra fingers, duplicate records, bad anatomy, watermark, logo, text overlay, frame, border, oversaturated colors, unrealistic skin, motion blur, noise, artifacts, poorly lit scene.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066057162292334621) | 2026-06-14
+
+---
+
+### 🎴 例 1532：手绘水粉风格产品海报
+
+![手绘水粉风格产品海报](../../images/%E6%89%8B%E7%BB%98%E6%B0%B4%E7%B2%89%E9%A3%8E%E6%A0%BC%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="product" default="[PRODUCT]"} 创建一张精美的手绘水粉风格产品海报。
+
+以 {argument name="product" default="[PRODUCT]"} 为核心主体，周围环绕 {argument name="ingredients" default="[INGREDIENTS]"}，添加 [LIFESTYLE DETAILS]，运用温暖的编辑级灯光效果，打造高端商业海报设计。
+
+[English]
+Create a premium illustrated product poster for {argument name="product" default="[PRODUCT]"} in a whimsical hand-painted gouache style.\n\nFeature {argument name="product" default="[PRODUCT]"} as the hero object, surrounded by {argument name="ingredients" default="[INGREDIENTS]"}, [LIFESTYLE DETAILS], warm editorial lighting, and premium commercial poster design.
+```
+
+**来源：** [@PixelPop Lab](https://x.com/zhongbingzhao/status/2066009934119268448) | 2026-06-14
+
+---
+
+### 🎴 例 1541：AI 手势挑战动漫横幅
+
+![AI 手势挑战动漫横幅](../../images/AI%20%E6%89%8B%E5%8A%BF%E6%8C%91%E6%88%98%E5%8A%A8%E6%BC%AB%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 AI 手势挑战创作一张明亮的动漫活动横幅，展示五位演示不同手势的插画少女，并配有醒目的日语宣传字体和难度卡片。
+
+画布：宽幅横向横幅，16:9 比例，约 1200×675。背景使用明亮的梦幻温室或玻璃中庭，带有柔和的蓝白色日光、散景光斑、柔和的镜头光晕，呈现精致的社交媒体宣传风格。
+
+主标题：在顶部中央放置一个醒目的彩色标题，内容为 {argument name="headline text" default="#AI ハンドサイン チャレンジ"}。使用粗体圆润的日语展示字体，采用粉色到紫色再到蓝色的渐变色，配有白色描边、投影、小星星光斑，标题旁配有一个简单的蓝色线条手势图标。在其下方添加一个蓝粉色丝带标签，内容为 {argument name="subtitle text" default="あなたの推しハンドサインを見せてください！"}。
+
+角色：在画面中部展示 5 位动漫风格的年轻女性，从肩部到腰部排列，略有重叠，均具有细腻的光泽插画质感和生动的手势。从左至右依次为：1) 一位黑发狐耳少女，身穿深红色露肩和服风格服装，一只手托腮沉思；2) 一位短金发波波头少女，身穿白色吊带和半透明浅色外套，比出剪刀手；3) 一位居中的黑发少女，身穿黑色上衣和米色开衫，一只手轻触脸颊；4) 一位长金发少女，身穿白色衬衫，向观众做出清晰的指点手势；5) 一位淡紫色编发女仆或哥特萝莉风格少女，身穿黑白连衣裙和荷叶边发带，双手比出爱心形状。面部区域可以稍微模糊或简化处理，但手部必须解剖结构清晰且位于中心位置。
+
+底部难度卡片：在底部创建 5 张圆角矩形卡片，带有细彩色边框、柔和的粉彩色填充、小闪光装饰以及简单的线条手势图标。卡片从左至右依次为：1) “Lv.2” 和 “ピースサイン”，配剪刀手图标；2) “Lv.3” 和 “頬に手を添える”，配触脸手势图标；3) “Lv.6” 和 “指差し”，配指点手势图标；4) “Lv.7” 和 “手でハート”，配双手爱心图标；5) “Lv.9” 和 “顎の前で手を組む”，配下巴处合十手势图标。等级数字需醒目且采用颜色编码：Lv.2 为红/橙色，Lv.3 为橙色，Lv.6 为蓝色，Lv.7 为紫粉色，Lv.9 为紫罗兰色。
+
+视觉风格：高质量现代动漫主视觉图，柔和的绘画渲染，色彩饱和但通透的粉彩色调，光泽感发丝高光，清晰的排版，可爱的挑战海报氛围，画面充满光斑，前景清晰，背景梦幻模糊。
+
+约束条件：保持 5 个角色和 5 张底部卡片的精确数量。强调易读的日语文本和准确的手势。避免出现额外的标志、日期、水印或无关文本。
+
+[English]
+Goal: Create a bright anime event banner for an AI hand-sign challenge, featuring five illustrated girls demonstrating different hand gestures, with bold Japanese promotional typography and difficulty cards.
+
+Canvas: Wide horizontal banner, 16:9 aspect ratio, approximately 1200×675. Use a luminous fantasy greenhouse or glass atrium background with soft blue-white daylight, bokeh sparkles, pastel lens flare, and a polished social-media campaign look.
+
+Main headline: At the top center, place a large colorful title reading {argument name="headline text" default="#AI ハンドサイン チャレンジ"}. Use thick rounded Japanese display lettering with a pink-to-purple-to-blue gradient, white outline, drop shadow, small star sparkles, and a simple blue line-art waving hand icon near the title. Under it, add a small blue-pink ribbon label reading {argument name="subtitle text" default="あなたの推しハンドサインを見せてください！"}.
+
+Characters: Show exactly 5 anime-style young women arranged shoulder-to-waist across the middle, overlapping slightly, all with detailed glossy illustration quality and expressive hand poses. From left to right: 1) a black-haired fox-ear girl in a deep red off-shoulder kimono-like outfit, holding one hand thoughtfully near her chin; 2) a short blonde bob-haired girl in a white camisole and translucent pale jacket, posing with a peace sign; 3) a black-haired girl in the center wearing a black top and beige cardigan, touching one cheek with one hand; 4) a long blonde-haired girl in a white blouse reaching toward the viewer with a clear pointing gesture; 5) a lavender-blue braided-hair maid or gothic lolita girl in a black-and-white dress and frilled headband, forming a heart shape with both hands. The face area may be softly obscured or left less detailed, but the hands must be anatomically clear and central.
+
+Bottom difficulty cards: Along the bottom, create exactly 5 rounded rectangular cards with thin colored borders, soft pastel fills, small sparkle decorations, and simple line-art hand icons. The cards must read, from left to right: 1) "Lv.2" and "ピースサイン" with a peace-sign hand icon; 2) "Lv.3" and "頬に手を添える" with a cheek-touching hand icon; 3) "Lv.6" and "指差し" with a pointing-hand icon; 4) "Lv.7" and "手でハート" with two hands making a heart icon; 5) "Lv.9" and "顎の前で手を組む" with clasped hands under chin icon. Make the level numbers large and color-coded: red/orange for Lv.2, orange for Lv.3, blue for Lv.6, purple-pink for Lv.7, and violet for Lv.9.
+
+Visual style: High-quality modern anime key visual, soft painterly rendering, saturated but airy pastel colors, glossy hair highlights, clean typography, cute challenge-poster energy, sparkles throughout, crisp foreground against a dreamy blurred background.
+
+Constraints: Keep the exact count of 5 characters and 5 bottom cards. Emphasize readable Japanese text and accurate hand gestures. Avoid extra logos, dates, watermarks, or unrelated text.
+```
+
+**来源：** [@浪費家K@AIイラスト修行中](https://x.com/Rouhika_K/status/2065992625430442380) | 2026-06-14
+
+---
+

@@ -775,3 +775,39 @@ The main character stands confidently at the center while all miniature versions
 
 ---
 
+### 🏛️ 例 1536：自动编码器潜在空间中的 DiT 寄生生物图解
+
+![自动编码器潜在空间中的 DiT 寄生生物图解](../../images/%E8%87%AA%E5%8A%A8%E7%BC%96%E7%A0%81%E5%99%A8%E6%BD%9C%E5%9C%A8%E7%A9%BA%E9%97%B4%E4%B8%AD%E7%9A%84%20DiT%20%E5%AF%84%E7%94%9F%E7%94%9F%E7%89%A9%E5%9B%BE%E8%A7%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在 16:9 的宽幅白色画布上创作一张极简主义的黑白概念图，展示一个扩散 Transformer 生物寄生在自动编码器潜在空间中的场景。使用纤细的手绘黑色轮廓和简洁的无衬线字体标签，呈现干净的文章插图风格。在下三分之一处，绘制一条水平管道：左侧进入一根带有虚线中心线的白色长管，穿过一个标有“Encoder”的小型圆拱，随后进入一个标有白色“Latent”字样的纯黑色矩形中央块，再穿过一个对应的标有“Decoder”的圆拱，进入右侧带有虚线中心线的白色管道。在潜在块上方，绘制一个巨大的椭圆形对话气泡或标注气泡，气泡尖端指向下方的潜在块。在气泡内部，偏左侧居中位置绘制一个小型团状生物：柔软的变形虫身体、两个微小的圆点眼睛、四条圆润的滴状腿，以及一根顶端带有小圆圈的竖起触角；使其看起来略显怪异，但不要过于恐怖或可爱。在气泡内生物的右侧，放置标签“{argument name="creature label" default="DiT"}”。图中仅使用三个可见的文字标签：“Encoder”、“Latent”和“Decoder”，加上生物标签。保持构图稀疏，单色，无阴影，无色彩，无额外图标，无水印。
+
+[English]
+Create a minimalist black-and-white conceptual diagram on a wide 16:9 white canvas showing a diffusion-transformer creature parasitizing an autoencoder latent space. Use thin hand-drawn black outlines and simple sans-serif labels, with a clean article-illustration style. Across the lower third, draw a horizontal pipeline: a long white tube enters from the left with a dashed centerline, passes through a small rounded arch labeled “Encoder,” then becomes a solid black rectangular central block labeled “Latent” in white, then exits through a matching rounded arch labeled “Decoder” into a white tube on the right with a dashed centerline. Above the latent block, draw one very large oval speech-bubble or callout balloon with a pointed tail aimed down toward the latent block. Inside the balloon, centered slightly left, draw exactly one small blob-like creature: soft amoeba body, two tiny dot eyes, four rounded drippy legs, and one raised antenna ending in a small circle; make it mildly uncanny but not scary and not overly cute. To the right of the creature inside the balloon, place the label “{argument name="creature label" default="DiT"}” in black. Use exactly three visible text labels on the diagram: “Encoder,” “Latent,” and “Decoder,” plus the creature label. Keep the composition sparse, monochrome, no shading, no color, no extra icons, no watermark.
+```
+
+**来源：** [@FA770](https://x.com/ArmorF23679/status/2066006365517349371) | 2026-06-14
+
+---
+
+### 🏛️ 例 1551：微缩 LEGO 建筑场景
+
+![微缩 LEGO 建筑场景](../../images/%E5%BE%AE%E7%BC%A9%20LEGO%20%E5%BB%BA%E7%AD%91%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一支超写实的微型建筑团队正在组装一个巨大的 {argument name="object" default="LEGO 积木"}。微型起重机吊起色彩鲜艳的部件，工人们紧固连接处，工程师检查结构完整性。这个超大的 {argument name="object" default="LEGO 积木"} 放置在一个带有标志的 {argument name="brand" default="LEGO"} 盒子上。温暖的摄影棚灯光，充满趣味的玩具广告美学，超细节的微距摄影，充满想象力的建筑世界。
+
+[English]
+A hyper-realistic miniature construction team assembling a giant {argument name="object" default="LEGO brick"}. Tiny cranes lift colorful sections, workers tighten connections, engineers inspect structural integrity. The oversized {argument name="object" default="LEGO brick"} rests on a branded {argument name="brand" default="LEGO"} box with logo. Warm studio lighting, playful toy-commercial aesthetic, ultra-detailed macro photography, imaginative construction world.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2065967961438036412) | 2026-06-14
+
+---
+
