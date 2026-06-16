@@ -1638,3 +1638,77 @@ Create a detailed scientific infographic about {argument name="topic" default="L
 
 ---
 
+### 📊 例 1575：时尚信息图概念设计表
+
+![时尚信息图概念设计表](../../images/%E6%97%B6%E5%B0%9A%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+时尚蓝图设计表，展示了一位身着休闲 {argument name="team style" default="足球灵感"} 街头服饰的年轻时髦女性，全身正面视角，配有详细的服装注释和造型标注标签。留着长直黑发，妆容自然柔和，笑容轻松，身穿海军蓝与深红色条纹的 {argument name="jersey style" default="巴塞罗那足球队风格"} 球衣，搭配超大廓形水洗蓝 {argument name="pants type" default="超宽腿牛仔裤"}，白色厚底运动鞋，黑色单肩包，双手随意插在口袋里，背景为带有现代装饰的极简室内环境，呈现出随性自然的韩系街头时尚美学。
+
+模特周围环绕着时尚信息图元素、球衣面料说明、牛仔材质描述、鞋履拆解、配饰标注、姿势分析、造型建议，采用电影级柔光，构图简洁大气，超高细节，专业时尚概念设计表，8k。
+
+[English]
+Fashion blueprint sheet of a stylish young woman in casual {argument name="team style" default="football-inspired"} streetwear, full-body front view with detailed outfit annotations and styling callout labels. Long straight dark hair, soft natural makeup, relaxed smile, navy and deep-red striped {argument name="jersey style" default="FC Barcelona-style"} football jersey, oversized faded blue {argument name="pants type" default="ultra-wide-leg denim jeans"}, white chunky sneakers, black shoulder bag, hands tucked casually into pockets, minimalist indoor setting with modern décor, effortless Korean street-fashion aesthetic.
+
+Surrounding the model are fashion infographic elements, jersey fabric notes, denim texture descriptions, footwear breakdowns, accessory callouts, pose analysis, styling tips, cinematic soft lighting, clean editorial composition, ultra detailed, professional fashion concept sheet, 8k.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066538934713380962) | 2026-06-15
+
+---
+
+### 📊 例 1636：Museum Wall Claude Fable 5 信息图
+
+![Museum Wall Claude Fable 5 信息图](../../images/Museum%20Wall%20Claude%20Fable%205%20%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张垂直的博物馆画廊风格日式说明信息图，主题为 {argument name="headline text" default="Claude Fable 5に、米国が動いた"}，呈现为一面精心策划的墙面展品，配有华丽的金色画框、温暖的聚光灯，以及一名正在观察展品的小型观察者角色。
+
+画布：3:4 纵向构图，暖色调奶油色画廊墙面，木质地板，柔和阴影，左上方和右上方各有一盏天花板聚光灯，写实 3D 渲染信息图风格，配以优雅的编辑级灯光。
+
+布局：顶部居中放置大号粗体黑色衬线日文字体标题，上方和下方配有小型金色装饰花纹。在标题下方，排列 3 个主要的华丽框架展品，并由 2 个金色箭头从左至右连接：一个直线箭头从左侧框架指向中心框架，另一个 L 型箭头从中心框架向下/向右指向右侧的大型框架。
+
+主要框架展品，共 3 个：
+1. 左侧框架：小型金色画框，背景为深色寺庙风格，内含一块雕刻石碑。顶部海军蓝标签文字为 {argument name="left frame label" default="Mythos 5"}。底部象牙白标签文字为「高性能モデル」。在此框架下方，附带一块华丽的象牙白铭牌，内含一个带有金锁的小型棕色宝箱，文字为「フル性能だが限定提供」。
+2. 中心框架：中型金色画框，展示桌面上打开的插画故事书，右页为明亮的风景插画。顶部海军蓝标签文字为 {argument name="center frame label" default="Fable 5"}。底部象牙白标签文字为「公開向け調整」。在此框架下方，附带一块华丽的象牙白铭牌，内含一个简单的纸箱图标，文字为「危険部分を抑制」。
+3. 右侧框架：右侧最大的金色画框，深红色背景，内含一个带有金色美国鹰印章的密封红色信封。顶部红色标签文字为「米国通達」，中央大号文字为「停止通達」，底部红色标签文字为「全アクセス停止」。在此框架下方，附带一块华丽的象牙白铭牌，内含一个红色圆形暂停图标，文字为「国籍判定できず 全員停止」。
+
+附加文本框：在左下方观察者与右侧框架之间，放置一张小型华丽的象牙白便签卡。内容必须包含以下日文正文：「性能と安全のせめぎ合いが、国境の壁を生んだ。その判断が、すべての扉を閉じた。」，下方配有一个微小的金色装饰。
+
+观察者角色：在左下方添加 1 名 Q 版成年女性，背影呈四分之三视角，抬头仰望展品。她留着 {argument name="hair color" default="深棕色"} 的齐肩波波头，戴着眼镜，身穿白色衬衫、黑色铅笔裙和黑色平底鞋。相对于墙面展示，她的比例要小。
+
+视觉风格：高级博物馆信息图，华丽的金色画框，奶油色与酒红色调，衬线字体，柔和的写实阴影，抛光的木质地板，平衡的留白，细腻的景深，高分辨率垂直海报设计。
+
+约束条件：必须使用 3 个主要框架展品，3 个附在展品下方的说明铭牌，1 张独立的便签卡，2 个方向箭头，1 个观察者角色，以及 2 盏天花板聚光灯。保留所写的日文文本，避免多余的标签，禁止添加水印或 Logo，并确保所有文字清晰易读。
+
+[English]
+Goal: Create a vertical museum-gallery style Japanese explainer infographic about {argument name="headline text" default="Claude Fable 5に、米国が動いた"}, shown as a curated wall exhibit with ornate gold picture frames, warm spotlights, and a small viewer character observing the display.
+
+Canvas: Portrait 3:4 composition, warm cream gallery wall, wooden floor, subtle shadows, two ceiling spotlights at the upper left and upper right, realistic 3D-rendered infographic style with elegant editorial lighting.
+
+Layout: Large centered headline at the top in bold black serif Japanese typography, with small gold ornamental flourishes above and below. Beneath it, arrange exactly 3 main ornate framed exhibits connected left-to-right by exactly 2 gold arrows: one straight arrow from the left frame to the center frame, then an L-shaped arrow from the center frame down/right to the large right frame.
+
+Main framed exhibits, exactly 3:
+1. Left frame: small gold frame with a dark temple-like background and a carved stone tablet. Top navy label reads {argument name="left frame label" default="Mythos 5"}. Bottom ivory label reads 「高性能モデル」. Below this frame, attach one ornate ivory plaque containing a small brown treasure chest with a gold lock and the text 「フル性能だが限定提供」.
+2. Center frame: medium gold frame showing an open illustrated storybook on a table, with a bright landscape illustration on the right page. Top navy label reads {argument name="center frame label" default="Fable 5"}. Bottom ivory label reads 「公開向け調整」. Below this frame, attach one ornate ivory plaque containing a simple cardboard box icon and the text 「危険部分を抑制」.
+3. Right frame: largest gold frame on the right, deep red background, containing a sealed red envelope with a gold U.S. eagle seal. Top red label reads 「米国通達」, large central text reads 「停止通達」, and bottom red label reads 「全アクセス停止」. Below this frame, attach one ornate ivory plaque containing a red circular pause icon and the text 「国籍判定できず 全員停止」.
+
+Additional text box: Place one small ornate ivory note card near the lower center-left, between the viewer and the right frame. It should contain exactly this Japanese body text: 「性能と安全のせめぎ合いが、国境の壁を生んだ。その判断が、すべての扉を閉じた。」 with a tiny gold ornament beneath.
+
+Viewer character: Add exactly 1 chibi-style adult woman standing at the lower left, seen from behind in three-quarter view, looking up at the exhibit. She has {argument name="hair color" default="dark brown"} shoulder-length bobbed hair, glasses, a white blouse, black pencil skirt, and black flats. Keep her small relative to the wall display.
+
+Visual style: Premium museum infographic, ornate gold frames, cream and burgundy palette, serif typography, soft realistic shadows, polished wood floor, balanced negative space, subtle depth-of-field, high-resolution vertical poster design.
+
+Constraints: Use exactly 3 main framed exhibits, exactly 3 lower explanatory plaques attached to those exhibits, exactly 1 separate note card, exactly 2 directional arrows, exactly 1 viewer character, and exactly 2 ceiling spotlights. Preserve the Japanese text as written, avoid extra labels, avoid watermarks or logos, and keep all text legible.
+```
+
+**来源：** [@永野ヨウ](https://x.com/nagano_yoh/status/2066366747125698830) | 2026-06-15
+
+---
+

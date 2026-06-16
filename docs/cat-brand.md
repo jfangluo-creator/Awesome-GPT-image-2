@@ -4436,3 +4436,327 @@ Create a realistic lifestyle portrait photo of a young woman with {argument name
 
 ---
 
+### 🏷️ 例 1559：雨夜 24 小时便利店
+
+![雨夜 24 小时便利店](../../images/%E9%9B%A8%E5%A4%9C%2024%20%E5%B0%8F%E6%97%B6%E4%BE%BF%E5%88%A9%E5%BA%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感方形构图的夜间城市街道场景。画面右侧是一家小型现代便利店，透过巨大的玻璃窗和滑动门散发出温暖的光芒，店内陈列着琳琅满目的商品。入口上方是一个蓝色招牌，带有一条细长的亮粉色条纹，并清晰地写着白色的“24 HOURS”字样。在店门外靠近入口处放置 2 台自动售货机，旁边放置 2 个深色垃圾桶。街道上空无一人一车，雨后显得格外宁静，湿漉漉的柏油路面和水洼倒映着便利店的橙粉色灯光和深蓝色的天空。画面中需包含电线杆、架空电线、昏暗的路灯，左侧是隐没在雾气中的低矮建筑，右侧边缘前景处有一根巨大的深色电线杆。采用印象派数字油画风格，展现明显的笔触质感，运用浓郁的群青色和靛蓝色阴影、霓虹洋红色点缀、温暖的桃色室内灯光、柔和的雾气以及极具戏剧性的倒影。整体氛围保持忧郁、宁静且富有感染力；除便利店招牌外，画面中不要出现其他文字。
+
+[English]
+Create a painterly nighttime city street scene in a cinematic square composition. The focal point is a small modern convenience store on the right side of the frame, glowing warmly through large glass windows and sliding doors, with shelves of colorful products visible inside. Above the entrance is a blue fascia sign with a thin hot-pink stripe and the readable text “24 HOURS” in white. Place exactly 2 vending machines just outside the store near the entrance, plus exactly 2 dark trash bins beside them. The street is empty of people and cars, quiet after rain, with wet asphalt and puddles reflecting the store’s orange-pink light and the deep blue sky. Include utility poles, overhead power lines, dim streetlights, low buildings fading into mist on the left, and one large dark pole in the foreground on the right edge. Use an impressionistic digital oil-painting style with visible brush texture, rich ultramarine and indigo shadows, neon magenta accents, warm peach interior lighting, soft haze, and dramatic reflections. Keep the mood melancholic, calm, and atmospheric; no extra text besides the store sign.
+```
+
+**来源：** [@nic](https://x.com/nicdunz/status/2066663926272528831) | 2026-06-15
+
+---
+
+### 🏷️ 例 1561：和服少女双重曝光雨伞
+
+![和服少女双重曝光雨伞](../../images/%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E9%9B%A8%E4%BC%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格双重曝光插画，描绘一位身穿白色日本和服的年轻女性撑着一把透明雨伞，从低角度后侧方视角拍摄，她正回眸望向后方。构图应为竖向肖像，背景为明亮的夏日日光和湛蓝的天空，细腻的樱花枝条通过双重曝光效果与雨伞伞面融合。主体身穿光泽感白色和服，带有精致的刺绣花纹，内领为红色，背部系着巨大的红色腰带结，配有奶油色与金色的装饰面料及红色花卉图案。她的 {argument name="hair color" default="深蓝黑色，发尾为灰棕色卷发"} 头发梳成优雅的发髻，带有松散的卷发，装饰着巨大的白色折叠发饰、一朵鲜艳的红玫瑰和一个金色小圆饰。可见的耳朵上戴着垂坠的珍珠耳环。她可见的手轻握着身后的黑色伞柄，指甲涂着整洁的红色指甲油。采用发光的绘画渲染风格、清晰的动漫线条、柔和的渐变、和服面料上的反光高光，并对头发、褶皱、花朵和伞骨进行高细节刻画。面部大部分背对镜头且神情宁静，强调优雅的姿态、红白蓝的配色方案，以及充满 {argument name="seasonal flowers" default="淡粉色樱花"} 的梦幻双重曝光雨伞。避免出现文字、标志、水印、多余角色或现代城市细节。
+
+[English]
+Create a polished anime-style double-exposure illustration of a young woman in a white Japanese kimono under a transparent umbrella, viewed from a low rear three-quarter angle as she turns her head back over her shoulder. The composition should be a vertical portrait with bright summer daylight, a vivid blue sky, and delicate cherry blossom branches visually blended through the umbrella canopy as a double-exposure effect. The subject wears a glossy white kimono with subtle embroidered floral patterns, a red inner collar, and a large red obi bow at the back with cream-and-gold decorative fabric and red flower motifs. She has {argument name="hair color" default="dark blue-black with ash-brown curled ends"} hair styled in an elegant updo with loose curls, decorated with a large white folded hair ornament, one vivid red rose, and one small gold circular accent. Add a dangling pearl earring on the visible ear. Her visible hand delicately holds the black umbrella handle behind her, with neat red-painted nails. Use luminous painterly rendering, crisp anime linework, soft gradients, reflective highlights on the kimono fabric, and high detail in the hair, folds, blossoms, and umbrella ribs. Keep the face mostly turned away and serene, emphasizing the graceful pose, the red-white-blue color palette, and the dreamy double-exposure umbrella filled with {argument name="seasonal flowers" default="pale pink cherry blossoms"}. Avoid text, logos, watermarks, extra characters, or modern city details.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2066649786871320859) | 2026-06-15
+
+---
+
+### 🏷️ 例 1564：超现实柔和花卉时尚肖像
+
+![超现实柔和花卉时尚肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%9F%94%E5%92%8C%E8%8A%B1%E5%8D%89%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖构图的高级时尚奇幻照片，主体为 {argument name="subject" default="一位年轻女性"}，她蹲伏在梦幻般的花海环境中，采用极低角度的广角拍摄，仿佛观众正置身于花丛之中。主体拥有长而飘逸的 {argument name="hair color" default="暖棕色头发"}，在风中向外吹散，身穿精致的柔和花卉连衣裙，带有透明的花瓣状层叠设计，发间编织着小花和细枝状的花卉装饰。她的面部被一个位于中心位置的哑光灰褐色垂直矩形遮挡，右臂戏剧性地向镜头伸出，超大且带有透视缩短效果的张开手掌处于前景的清晰焦点中。周围环绕着六朵醒目的大花：左下前景是一朵模糊的桃色花朵，下部中心附近是一朵明亮的青蓝色花朵，右下边缘是一朵橙黄色模糊花朵，左中背景是一朵桃色花朵，右上背景是一朵桃色花朵，左上附近是一朵黄色小花。添加数十条飘逸的半透明丝带和如颜料般的卷须，色调为 {argument name="color palette" default="珊瑚粉、桃色、水蓝色、青绿色和柔和的橙色"}，像液态花瓣一样环绕在她的头发和身体周围。使用明亮的白色背光、空气感过曝、柔光效果、浅景深、柔和的色彩分级、空灵的春日氛围、光泽感的电影级细节，以及异想天开的超现实编辑时尚美学。无文字，无 Logo，无水印。
+
+[English]
+Create a vertical 9:16 high-fashion fantasy photo of {argument name="subject" default="a young woman"} crouching in a dreamlike floral environment, shot from a very low, wide-angle perspective as if the viewer is among the flowers. The subject has long flowing {argument name="hair color" default="warm brown hair"} blown outward by wind, wears a delicate pastel floral dress with sheer petal-like layers, and has small blossoms and twig-like floral ornaments woven into her hair. Her face is intentionally hidden by a flat vertical matte taupe rectangle centered over the face, while her right arm reaches dramatically toward the camera with an oversized foreshortened open hand in sharp foreground focus. Surround her with exactly six prominent large blossoms: one blurred peach flower in the lower left foreground, one bright cyan-blue flower near the lower center, one orange-yellow blurred flower at the lower right edge, one peach flower on the left middle background, one peach flower on the upper right background, and one small yellow-orange flower near the upper left. Add dozens of flowing translucent ribbons and paint-like tendrils in {argument name="color palette" default="coral pink, peach, aqua blue, turquoise, and soft orange"}, swirling around her hair and body like liquid petals. Use bright white backlighting, airy overexposure, soft bloom, shallow depth of field, pastel color grading, ethereal spring atmosphere, glossy cinematic detail, and a whimsical surreal editorial fashion aesthetic. No text, no logo, no watermark.
+```
+
+**来源：** [@NIKKO](https://x.com/AIArtAlchemist/status/2066631138760921569) | 2026-06-15
+
+---
+
+### 🏷️ 例 1571：超现实 Y2K 街头时尚智能手机错觉
+
+![超现实 Y2K 街头时尚智能手机错觉](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20Y2K%20%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E9%94%99%E8%A7%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，创作一张超写实的超现实街头时尚构图，采用俯视的鸟瞰视角，画面主体为一位 {argument name="subject" default="时尚年轻女性"}，她站在一个嵌入城市人行道的 {argument name="music player interface" default="巨大的超大号智能手机音乐播放器界面"} 上，营造出一种有趣的强制透视错觉。巨大的手机屏幕显示着现代音乐播放器 UI，包含专辑封面、播放控制、进度条以及深色主题下的极简界面元素。与巨大的手机相比，女性显得非常渺小，仿佛站在专辑封面上。她留着深色长发，扎着两条辫子，戴着黑色佩斯利花纹头巾，佩戴超大圆形眼镜、叠戴的银色项链（带有星星吊坠）、粗款手链，身穿前卫的 Y2K 风格黑色无袖上衣，并带有金属装饰。她搭配超大号深色工装短裤、白色袜子和棕褐色麂皮一脚蹬鞋。一个深酒红色皮质单肩包（配有银色五金件）随意地放在巨型手机旁边。在画面底部，加入摄影师本人的双脚，穿着宽松的深色牛仔裤和棕色麂皮鞋，以强化观众正俯视路面上超大设备的错觉。女性姿态俏皮，双手抬起调整眼镜，同时向上看向镜头。构图应呈现逼真的混凝土纹理、柔和的阴天光影、细腻的投影、照片级的皮肤和织物细节，以及干净的都市美学。风格：{argument name="aesthetic" default="Pinterest 美学，Y2K 街头服饰，超现实透视错觉"}。负面提示词：低质量，模糊，解剖结构错误，多余的手指，多余的肢体，重复的人，透视扭曲，畸形的手，不切实际的比例，卡通，动漫，CGI，水印，Logo，随机文字，噪点图像，塑料质感皮肤，低分辨率，光线不佳，伪影，漂浮物体。风格关键词：强制透视，巨型智能手机错觉，超大号音乐播放器，Pinterest 美学，Y2K 时尚，韩系街头风格，创意摄影，鸟瞰视角，超现实写实主义，编辑概念，照片级真实，超细节，8K，Instagram 病毒式美学。
+
+[English]
+Using the provided reference image, create an ultra-realistic surreal street-fashion composition from a top-down bird’s-eye view, featuring a {argument name="subject" default="stylish young woman"} standing on top of a {argument name="music player interface" default="giant oversized smartphone music player interface"} embedded into a city sidewalk, creating a playful forced-perspective illusion. The giant smartphone screen displays a modern music player UI with album artwork, playback controls, progress bar, and minimal interface elements in a sleek dark theme. The woman appears tiny compared to the oversized phone, as if she is standing on the album cover. She has long dark hair styled in two braids beneath a black paisley bandana, wears oversized round glasses, layered silver necklaces with a star pendant, chunky bracelets, and an edgy Y2K-inspired black sleeveless top with metallic embellishments. She pairs it with oversized dark cargo shorts, white socks, and tan suede slip-on shoes. A deep burgundy leather shoulder bag with silver hardware rests casually beside the giant phone. At the bottom of the frame, include the photographer’s own feet wearing loose dark jeans and brown suede shoes, reinforcing the illusion that the viewer is looking down at the oversized device on the pavement. The woman poses playfully with both hands raised to adjust her glasses while looking upward toward the camera. The composition should feature realistic concrete textures, soft overcast lighting, subtle shadows, photorealistic skin and fabric detail, and a clean urban aesthetic. Style: {argument name="aesthetic" default="Pinterest aesthetic, Y2K streetwear, surreal perspective illusion"}. Negative Prompt: low quality, blurry, bad anatomy, extra fingers, extra limbs, duplicate person, distorted perspective, malformed hands, unrealistic proportions, cartoon, anime, CGI, watermark, logo, random text, noisy image, plastic skin, low resolution, poor lighting, artifacts, floating objects. Style Keywords: forced perspective, giant smartphone illusion, oversized music player, Pinterest aesthetic, Y2K fashion, Korean street style, creative photography, bird’s-eye view, surreal realism, editorial concept, photorealistic, ultra detailed, 8K, Instagram viral aesthetic.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066555031277740327) | 2026-06-15
+
+---
+
+### 🏷️ 例 1586：花海中的空灵肖像
+
+![花海中的空灵肖像](../../images/%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%81%B5%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位美丽的 {argument name="subject" default="年轻女性"}，留着一头浓密且富有质感的黑色波浪长发，回眸浅笑。她身着一件 {argument name="outfit" default="优雅的奶油色飘逸长裙"}，配有半透明的灯笼袖，胸前饰有精致的花卉刺绣。她正站在一片广阔的 {argument name="environment" default="郁郁葱葱的草地"} 中，周围开满了白色的雏菊和零星的红罂粟。一位美丽的年轻女性，留着一头浓密且富有质感的黑色波浪长发，回眸浅笑。她身着一件优雅的奶油色飘逸长裙，配有半透明的灯笼袖，胸前饰有精致的花卉刺绣。她正站在一片广阔、郁郁葱葱的草地中，周围开满了白色的雏菊和零星的红罂粟。前景中模糊的白色雏菊营造出柔和的景深效果。背景中，一道柔和而鲜艳的彩虹横跨在温暖、朦胧的黄金时刻天空中。照片级画质，电影级光影，空灵氛围，8k 分辨率。
+
+[English]
+A beautiful {argument name="subject" default="young woman"} with long, voluminous, wavy black hair looking back over her shoulder with a gentle smile. She is wearing an {argument name="outfit" default="elegant cream-colored, flowing maxi dress"} featuring sheer bishop sleeves and delicate floral embroidery on the bodice. She is standing umair in a vast, {argument name="environment" default="lush meadow"} filled with blooming white daisies and scattered red poppies. A beautiful young woman with long, voluminous, wavy black hair looking back over her shoulder with a gentle smile. She is wearing an elegant cream-colored, flowing maxi dress featuring sheer bishop sleeves and delicate floral embroidery on the bodice. She is standing umair in a vast, lush meadow filled with blooming white daisies and scattered red poppies.The foreground shows blurred white daisies creating a soft depth-of-field effect. In the background, a soft, vibrant rainbow stretches across a warm, hazy golden hour sky. Photorealistic, cinematic lighting, ethereal atmosphere, 8k resolution.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2066517764936994863) | 2026-06-15
+
+---
+
+### 🏷️ 例 1595：水彩海滩肖像拼贴画
+
+![水彩海滩肖像拼贴画](../../images/%E6%B0%B4%E5%BD%A9%E6%B5%B7%E6%BB%A9%E8%82%96%E5%83%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="style" default="大型水彩肖像"} + {argument name="layout" default="全身海滩场景"}。{argument name="vibe" default="热带风情"}，柔和的色彩飞溅与高级艺术质感。
+
+[English]
+{argument name="style" default="Large watercolor portrait"} + {argument name="layout" default="full-body beach scene"}. {argument name="vibe" default="Tropical vibes"}, pastel splashes & premium artwork.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2066494093870678158) | 2026-06-15
+
+---
+
+### 🏷️ 例 1598：超现实高级定制舞者肖像
+
+![超现实高级定制舞者肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E8%88%9E%E8%80%85%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的电影感奇幻时尚肖像，展现一位优雅女性在超现实抽象环境中翩翩起舞，画面取景自大腿中部以上，呈现动态的四分之三背影，一只手臂向下伸展，头部微微转向观众。她的面部应被一个位于正中央的暖棕色纯色矩形遮挡块刻意遮盖。她身穿一件精致飘逸的高级定制礼服，颜色为 {argument name="dress colors" default="青色、绿松石色、珊瑚橙、奶油色和金属金"}，配有透明长袖、复杂的金银丝刺绣、蕾丝般的有机图案、低开背设计，以及长长的半透明丝带和饰片在身后飘动，仿佛被风吹拂。在深近乎黑色的背景下，用密集的漩涡状抽象颜料带、飞溅物、卷须、圆形盘、花卉涂鸦和装饰性颗粒环绕她，色调与青橙色相呼应。在头部右上方包含一个巨大的光泽悬浮球体，装饰有华丽的花卉和佩斯利涡纹图案，并带有高光反射。构图应具有沉浸感和动感，采用戏剧性的背光、发丝和肩部的暖金色轮廓光、青橙色调分级、浅景深、高细节、绘画般的写实风格、奢华的编辑时尚造型、体积光，且不含任何可读文字。使用 {argument name="aspect ratio" default="9:16 竖构图"} 框架，强调动感、织物流动感和超现实的装饰复杂性。
+
+[English]
+Create a vertical cinematic fantasy fashion portrait of a graceful woman dancing in a surreal abstract environment, shown from mid-thigh upward in a dynamic three-quarter back pose with one arm extended downward and her head turned slightly toward the viewer. Her face should be intentionally obscured by a plain rectangular censor block in a warm tan color, centered over the face. She wears an elaborate flowing couture gown in {argument name="dress colors" default="teal, turquoise, coral orange, cream, and metallic gold"}, with sheer long sleeves, intricate filigree embroidery, lace-like organic patterns, a low open back, and long translucent ribbons and panels streaming behind her as if caught in wind. Surround her with dense swirling abstract paint ribbons, splashes, tendrils, circular disks, floral doodles, and decorative particles in matching teal and orange tones against a dark nearly black background. Include exactly one large glossy floating sphere near the upper right of her head, decorated with ornate floral and paisley-like patterns, reflecting highlights. The composition should feel immersive and kinetic, with dramatic backlighting, warm golden rim light on hair and shoulders, teal-orange color grading, shallow depth of field, high detail, painterly photorealism, luxury editorial fashion styling, volumetric glow, and no readable text. Use {argument name="aspect ratio" default="vertical 9:16"} framing, emphasizing motion, fabric flow, and surreal ornamental complexity.
+```
+
+**来源：** [@NIKKO](https://x.com/AIArtAlchemist/status/2066482214385410509) | 2026-06-15
+
+---
+
+### 🏷️ 例 1616：产品设计目录排版
+
+![产品设计目录排版](../../images/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E7%9B%AE%E5%BD%95%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个垂直 3:4 的 {argument name="page type" default="产品设计目录页面"}，并使用 {argument name="background" default="温暖的中性纸质背景"}。
+
+顶部区域 — 生活方式主图：将产品（使用上传的图片作为精确参考，保持其形态、比例、材质和特征，无需重新设计）置于中心位置，并留出充足的留白。场景设定为极简建筑室内，配有纹理灰泥墙和质感细腻的混凝土/石材地面。{argument name="lighting" default="光线为侧向照射的自然阳光，柔和但投射出高对比度的阴影"}。以编辑类生活方式摄影风格渲染，高真实感，采用温暖且柔和的色彩分级。
+
+底部区域 — 采用整洁模块化网格布局的技术规格面板：
+- 左下及中心：展示正视图、侧视图和四分之三剖面/侧面图的建筑正投影线条图。线条采用柔和的红色或棕褐色，精细的技术线条粗细，配以极简的编辑类尺寸标注和结构说明。
+- 右下：3-4 个源自产品实际材质（如适用，包括织物、皮革、金属、木材或塑料）的材质样本，采用方形或矩形格式，并配有简短的编辑类说明文字。
+
+排版：极简编辑风格，仅使用细微的说明文字，无大标题，颜色为柔和的黑色或深棕色。
+
+整体氛围：设计目录 / 产品设计期刊 — 建筑感、高端、宁静。无杂乱元素，无鲜艳色彩，无厚重的品牌标识，无装饰性图形，技术图纸中无透视畸变。
+
+[English]
+Create a vertical 3:4 {argument name="page type" default="product design catalog page"} with a {argument name="background" default="warm neutral paper-like background"}.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. {argument name="lighting" default="Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows"}. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2066447564132745574) | 2026-06-15
+
+---
+
+### 🏷️ 例 1618：拼贴艺术插画融合
+
+![拼贴艺术插画融合](../../images/%E6%8B%BC%E8%B4%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+已附上五张图片。
+图片 1–4 为同一艺术家的插画作品。
+图片 5 为黑色背景上的 Logo 设计。
+
+将四张插画合并为一个统一的构图，并将图片 5 中的 Logo 置于视觉中心作为锚点元素。
+
+[融合规则]
+- 每张插画仅展示局部——仅显示面部和关键元素，而非完整构图
+- 自然融合插画间的边界——无硬边缘或可见接缝
+- 每张插画保持可辨识度，同时与下一张自然衔接
+- 元素间保留充足的留白——让构图具有呼吸感
+- 最终效果应优雅、精炼且富有设计感——避免杂乱无章
+
+[构图]
+- Logo 占据画面中心，作为主要视觉焦点
+- 四张插画围绕 Logo 分布，保持视觉平衡
+- 非网格布局——排列应具有绘画感和设计意图
+- 插画间采用简洁、极简的背景，营造呼吸空间
+
+[色彩与亮度]
+- 围绕 Logo 的插画必须鲜艳且色彩饱和
+- 提升 Logo 区域外所有插画部分的亮度和色彩丰富度
+- 色彩应生动、温暖且明亮——避免暗淡或深沉
+- 深色 Logo 区域与明亮周围插画之间的对比应具有意图感和戏剧性
+
+[Logo 集成]
+- 还原图片 5 中的精确 Logo 设计
+- 将其放置在构图中心，比例放大且突出
+- Logo 应融入艺术作品中——而非悬浮于上方
+- 在 Logo 正后方创建微妙的暗色虚空或负空间
+- 暗色区域严格限制在 Logo 后方的紧邻范围内——不得渗透到周围的插画中
+
+[风格保留]
+- 严格保持源插画的原始艺术风格
+- 不得引入原作中不存在的新元素、角色或背景
+- 保留源图像的调色板和线条质量
+
+[English]
+Five images are attached.
+Images 1–4 are illustrations by the same artist.
+Image 5 is a logo design on a {argument name="logo background" default="black"} background.
+
+Merge the four illustrations into a single unified composition, with the logo from Image 5 placed at the {argument name="logo position" default="visual center"} as the anchor element.
+
+[Fusion Rules]
+- Each illustration appears as a partial glimpse — show faces and key elements only, not full compositions
+- Blend the boundaries between illustrations naturally — no hard edges or visible seams
+- Each illustration remains recognizable but flows into the next
+- Generous negative space between elements — let the composition breathe
+- The result should feel elegant, curated, and intentional — not busy or cluttered
+
+[Composition]
+- The logo occupies the center of the frame as the dominant focal point
+- The four illustrations are distributed around the logo with natural visual balance
+- No grid layout — the arrangement should feel painterly and intentional
+- Clean, minimal background between the illustrations to create breathing room
+
+[Color & Brightness]
+- The illustrations surrounding the logo must be vivid and fully saturated
+- Boost the brightness and chromatic richness of all illustration areas outside the logo zone
+- Colors should feel alive, warm, and luminous — not muted or dark
+- The contrast between the dark logo zone and the bright surrounding illustrations is intentional and dramatic
+
+[Logo Integration]
+- Reproduce the exact logo design from Image 5
+- Place it at the center of the composition, large and prominent
+- The logo should feel embedded in the artwork — not floating on top
+- Create a subtle dark void or negative space directly behind the logo
+- The dark zone is strictly limited to the immediate area behind the logo — it must not bleed into the surrounding illustrations
+
+[Style Preservation]
+- Maintain the original art style of the source illustrations exactly
+- Do not introduce new elements, characters, or backgrounds not present in the originals
+- Preserve the color palette and line quality of the source images
+```
+
+**来源：** [@輪廻タヲ ☯ AI Artist](https://x.com/TaoRInne/status/2066446867261509849) | 2026-06-15
+
+---
+
+### 🏷️ 例 1623：华丽和服动漫少女
+
+![华丽和服动漫少女](../../images/%E5%8D%8E%E4%B8%BD%E5%92%8C%E6%9C%8D%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超精细的复古动漫奇幻插画，描绘 1 位优雅的年轻女性，身着华丽的日式和服，以富有戏剧性的四分之三侧身姿态站立，回眸凝视观众。她拥有 {argument name="hair color" default="飘逸的长粉发"}、柔和的绿色双眼、白皙的皮肤，头侧佩戴着饰有垂坠丝带和珠宝的华丽花卉发饰。她肩后撑着 1 把硕大的红黑配色和伞（wagasa），伞骨如扇面般放射状展开，装饰着金色花丝和深红色图案。她的服装是一件奢华的层叠和服，主色调为 {argument name="main kimono colors" default="深海军蓝、黑色、深红、紫色和金色"}，通体覆盖着繁复的织锦、绣球花、樱花簇、漩涡状阿拉伯式金线、凤凰与蝴蝶纹样、流苏、珠饰及刺绣绳结；通过和服开叉处露出 1 条腿，脚穿红色系带木屐。背景采用极其繁复的日式节日装饰元素：左侧有 1 只金色凤凰，左上方有 1 轮明亮的蓝色圆月或宝石，左下方有 1 座红色灯笼结构，右上角有 1 个巨大的发光红金螺旋装饰，其余空间填满密集的藤蔓花纹。采用高饱和度的宝石色调，点缀闪耀的金色高光和微粒，线条精致，织物纹理超写实，电影级光影，头发与衣物动态飘逸，装饰密度极高，焦点清晰，大师级品质，2D 动漫插画，竖构图，无文字，无水印，无边框。
+
+[English]
+Create an ultra-detailed old-school anime fantasy illustration of 1 elegant young woman in a lavish Japanese kimono, standing in a dramatic three-quarter pose and looking back over her shoulder at the viewer. She has {argument name="hair color" default="long flowing pink hair"}, soft green eyes, pale skin, and an ornate floral hair ornament with dangling ribbons and jewels on one side of her head. She holds 1 large black-and-red wagasa parasol behind her shoulder, its ribs radiating outward like a fan, decorated with gold filigree and crimson patterns. Her outfit is a sumptuous layered kimono in {argument name="main kimono colors" default="deep navy, black, crimson, purple, and gold"}, covered edge to edge with intricate brocade, hydrangea blossoms, cherry-blossom-like clusters, swirling arabesque gold linework, phoenix and butterfly motifs, tassels, beads, and embroidered cords; show 1 exposed leg through the kimono slit with red lace-up geta-style footwear. Surround her with an overwhelming maximalist background of glowing Japanese festival ornamentation: 1 golden phoenix-like bird on the left, 1 bright blue circular moon or jewel near the upper left, 1 red lantern structure at the lower left, 1 large luminous red-and-gold spiral ornament in the upper right, and dense floral scrollwork filling every remaining space. Use a highly saturated jewel-tone palette, glittering gold highlights, sparkling particles, ornate line art, hyper-detailed fabric textures, cinematic lighting, dynamic flowing hair and cloth, extreme decorative density, sharp focus, masterpiece quality, 2D anime illustration, vertical composition, no text, no watermark, no frame.
+```
+
+**来源：** [@ねね*AIcreator](https://x.com/NeneneAI/status/2066424685877960825) | 2026-06-15
+
+---
+
+### 🏷️ 例 1645：被四名反派包围的天使
+
+![被四名反派包围的天使](../../images/%E8%A2%AB%E5%9B%9B%E5%90%8D%E5%8F%8D%E6%B4%BE%E5%8C%85%E5%9B%B4%E7%9A%84%E5%A4%A9%E4%BD%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有戏剧性的垂直构图动漫奇幻主视觉图，前景为 {argument name="main character" default="一位纯洁的白发天使少女"}，背景为四名黑暗敌对角色。画布：适合智能手机壁纸的纵向构图，9:16 比例，精美的日本轻小说/动漫插画风格，电影级光影，线条锐利细腻，带有发光的粒子特效，无文字。前景主体：天使少女半身像居中，面朝前方，神情平静而脆弱；留着极长的飘逸白发，皮肤白皙，耳畔别着一朵小白花，身穿宽松的白色荷叶边短袖连衣裙，腰间系着淡紫色丝带，背后展开巨大的纯白羽翼，带有柔和明亮的边缘光和空灵的光晕。背景敌人：在少女身后上方呈半圆形排列四名反派角色，神情严肃且充满敌意，身着黑、红、白、金配色的哥特奇幻服饰。敌人 1（左上）：高大的黑发男子，身穿带有锁链和红色装饰的黑色高领军装/哥特式大衣，戴着手套的手靠近嘴边，姿态阴郁且贵气。敌人 2（右上）：淡紫色长发的哥特风女子，戴着深色荷叶边头饰，身穿黑紫色相间的裙子，配有红玫瑰装饰，一只手抬至脸旁，气质幽灵般优雅。敌人 3（中左）：银发青年，身穿带有毛领披肩和金色锁链的华丽白大衣，手中托着一颗发光的红色魔法球。敌人 4（中右）：金发贵族男子，身着黑白相间的服装，配有金色肩章和红色披风或腰带，抬起戴着黑色手套的手，仿佛正在施展魔法。环境：背景为翻涌的深红恶魔气息，充斥着红色星云烟雾、黑色阴影、火花、血红色的魔法能量环和余烬粒子，在天使的纯白与敌人的红黑威胁之间形成强烈的色彩对比。氛围：唯美而阴郁，仿佛天使被复杂的敌对势力而非简单的恶魔所包围。使用 {argument name="background color palette" default="深红、黑色和发光的红色"}，强调背光效果和戏剧性的景深，画面中不得出现任何水印或标题。
+
+[English]
+Create a dramatic vertical anime fantasy key visual featuring {argument name="main character" default="an innocent white-haired angel girl"} in the foreground and exactly four dark enemy characters behind her. Canvas: tall smartphone wallpaper composition, 9:16 ratio, highly polished Japanese light-novel/anime illustration, cinematic lighting, sharp detailed linework, glowing particle effects, no text. Foreground subject: the angel girl is centered from waist up, facing forward with a calm fragile presence; very long flowing white hair, pale skin, small white flower hair ornament near one ear, loose white ruffled dress with short puff sleeves and a pale lavender waist ribbon, large pure white feathered wings spread to both sides, soft bright rim light and ethereal glow. Background enemies: arrange exactly four villainous figures in a layered semicircle above and behind her, all looking serious and hostile, mostly dressed in black, crimson, white, and gold gothic-fantasy clothing. Enemy 1, upper left: tall dark-haired man in a black high-collar military/gothic coat with chains and red accents, gloved hand near his mouth, ominous aristocratic pose. Enemy 2, upper right: pale lavender-haired gothic woman in a dark frilled headdress and black-and-purple dress with red rose accents, one hand lifted near her face, spectral and elegant. Enemy 3, middle left: silver-haired young man in a white ornate coat with fur-trimmed shoulder cape and gold chains, holding a glowing red magical orb in one hand. Enemy 4, middle right: long blond-haired noble man in a white-and-black outfit with gold epaulets, red cloak or sash, black glove raised as if casting magic. Environment: a swirling crimson demonic background filled with red nebula smoke, black shadows, sparks, blood-red magical energy rings, ember particles, and glowing red orbs, creating a strong color contrast between the angel’s white purity and the enemies’ red-black menace. Mood: beautiful but ominous, as if an angel is surrounded by complex antagonists rather than simple demons. Use {argument name="background color palette" default="deep crimson, black, and glowing red"} with intense backlighting, dramatic depth, and no visible watermark or captions.
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2066347461019365774) | 2026-06-15
+
+---
+
+### 🏷️ 例 1646：花藤下的复古女性
+
+![花藤下的复古女性](../../images/%E8%8A%B1%E8%97%A4%E4%B8%8B%E7%9A%84%E5%A4%8D%E5%8F%A4%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 1:1 正方形的颗粒感复古时尚照片，主角为一位 {argument name="subject" default="年轻女性"}，她站在户外，背景是一面被花藤覆盖的阳光明媚的米色灰泥墙前。她身穿一件宽松的象牙白羊毛短袖 T 恤，搭配同色系的休闲白色松紧腰长裤，并佩戴一块闪亮的银色奢华正装腕表。她的发型为 {argument name="hair style" default="蓬松的深棕色 90 年代电影反派波浪卷"}，发丝随风飘动，充满魅力。让她面向镜头摆姿势：一只手抬起放在头侧，另一只手轻轻采摘或握住藤蔓上的一朵紫色花朵。周围环绕着大量类似三角梅的紫色、粉色和洋红色花朵，并点缀着深绿色叶片，尤其是在画面左侧和上方背景处。使用温暖而强烈的午后阳光，在墙面上投下浓重的自然阴影，采用浅景深、轻微柔焦、模拟胶片颗粒感、柔和的复古色调以及随性的编辑风格。面部需进行刻意模糊处理，在五官位置覆盖居中的柔和矩形模糊/马赛克，同时保持图像其余部分的细节清晰。无文字，无水印，无其他人物。
+
+[English]
+Create a square 1:1 grainy retro vintage fashion photograph of a {argument name="subject" default="young woman"} standing outdoors in front of a sunlit beige stucco wall covered with flowering vines. She wears a loose ivory-white wool short-sleeve T-shirt and matching relaxed white pants with a gathered elastic waist, plus a shiny silver luxury formal wristwatch. Her hair is {argument name="hair style" default="voluminous dark brown 1990s movie baddie waves"}, wind-swept and glamorous. Pose her facing the camera: one hand lifted to the side of her head, the other hand gently plucking or holding one purple flower from the vine. Surround her with abundant bougainvillea-like blossoms in purple, pink, and magenta with deep green leaves, especially along the left side and upper background. Use warm harsh afternoon sunlight with strong natural shadows on the wall, shallow depth of field, slightly soft focus, analog film grain, muted vintage colors, and candid editorial styling. The face should be intentionally anonymized with a centered soft rectangular blur/mosaic over the facial features while the rest of the image remains detailed. No text, no watermark, no extra people.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2066346118750093768) | 2026-06-15
+
+---
+
+### 🏷️ 例 1651：夏季京都寺庙俯瞰图
+
+![夏季京都寺庙俯瞰图](../../images/%E5%A4%8F%E5%AD%A3%E4%BA%AC%E9%83%BD%E5%AF%BA%E5%BA%99%E4%BF%AF%E7%9E%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细、照片级逼真的夏季京都旅行风景照，从高处俯瞰，视线穿过热闹的传统坡道，望向宏伟的木制寺庙舞台。场景中心为 {argument name="temple name" default="Kiyomizu-dera"}：一座大型历史悠久的日本寺庙大殿，拥有宽阔的棕色桧皮屋顶、华丽的屋檐，以及由高大木柱支撑的壮观木制露台，上面挤满了细小的游客。在大殿左侧稍远处，加入一座带有红橙色装饰和层叠深色屋顶的三重塔。在前景和左下方，展示一条陡峭的石板步行道，两旁是传统的町屋风格建筑和许多灰蓝色瓦片屋顶，成群的游客正拾级而上或向下行走。寺庙和街道周围环绕着茂密的新鲜夏季绿树，右下角前景处点缀着明亮的枫叶。在寺庙后方，展现广阔的城市全景，无数低矮的白灰色建筑错落有致，一条绿色河流横穿中景，远方是连绵的蓝色森林山脉，天空清澈湛蓝。采用垂直 {argument name="aspect ratio" default="3:4"} 构图，高视角，深景深，建筑细节清晰，色彩自然鲜艳，午后阳光温暖，阴影柔和，无文字，无边框，无水印，营造出一种引人入胜的“虚拟旅行风景”氛围，让观众仿佛能从屋顶漫步至河流与远山。
+
+[English]
+Create a highly detailed photorealistic summer travel landscape of Kyoto viewed from an elevated hillside, looking down over a lively traditional slope toward a grand wooden temple stage. The scene centers on {argument name="temple name" default="Kiyomizu-dera"}: a large historic Japanese temple hall with a broad brown cypress-bark roof, ornate eaves, and a dramatic wooden veranda supported by tall timber pillars, crowded with tiny sightseeing visitors. Slightly left of the main hall, include a three-story pagoda with red-orange accents and layered dark roofs. In the foreground and lower left, show a steep stone-paved pedestrian lane lined with traditional machiya-style houses and many gray-blue tiled roofs, with small groups of tourists walking upward and downward. Surround the temple and street with dense fresh green summer trees, including bright maple leaves framing the lower right foreground. Beyond the temple, reveal a wide city panorama with countless low-rise white and gray buildings, a green river corridor cutting horizontally across the middle distance, and blue forested mountains spanning the horizon under a clear vivid blue sky. Use a vertical {argument name="aspect ratio" default="3:4"} composition, high vantage point, deep depth of field, crisp architectural detail, vibrant natural colors, warm midday sunlight, gentle shadows, no text, no border, no watermark, and an inviting “imaginary travel scenery” atmosphere that makes the viewer want to visually wander from the rooftops to the river and distant mountains.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2066329606748282964) | 2026-06-15
+
+---
+

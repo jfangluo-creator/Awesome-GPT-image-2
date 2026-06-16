@@ -2740,3 +2740,111 @@ Constraints: Preserve exactly 12 panels, exactly 3 main girls, exactly 1 soccer 
 
 ---
 
+### 🎬 例 1587：女仆与兔子公馆漫画
+
+![女仆与兔子公馆漫画](../../images/%E5%A5%B3%E4%BB%86%E4%B8%8E%E5%85%94%E5%AD%90%E5%85%AC%E9%A6%86%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版日式漫画，主角为 {argument name="character name" default="Faneria"}，一位在豪华公馆中为毛绒白兔主人工作的娇小银发女仆。幽默点在于女仆的发型在不同分格中不一致，有时是双马尾，有时像马尾辫，且在大多数近景中，她的脸部被一块朴素的米色矩形隐私遮挡块覆盖。
+
+画布：竖版手机漫画页面，长宽比约为 2:3，全彩，高细节动漫插画，粗黑色外边框，黑色漫画分格间隙，略微倾斜的分格边框，带有暖色灯光的精致数字绘画。
+
+布局：使用 5 个垂直排列的分格：顶部一行两个小分格，中部上方一个宽幅动作分格，下方一个宽幅用餐分格，底部一个大型戏剧性夜景分格。
+
+角色与重复元素：包含 2 个主要角色：1 位娇小的动漫女仆女孩和 1 位拟人化的白兔绅士。女仆拥有淡银白色头发，身穿黑色女仆装配白色围裙、白色荷叶边发带、超大黑色发结、黑色长筒袜、小巧鞋子，体型为可爱的 Q 版比例；在正面或突出的分格中，在其脸部放置一块平面的米色矩形遮挡块。兔子是一只柔软的毛绒状白兔，长耳朵，通常穿着深色正装或睡衣，闭眼微笑，举止优雅高贵。
+
+分格细节：第 1 格，左上：在装饰华丽的公馆房间内，背景有镜子和金色装饰，身穿黑色管家服的兔子背对着站立，女仆拿着写字板跟随；女仆的银发看起来很长，并系着黑色发结。添加一个竖排白色旁白框，文字为「旦那様のスケジュールは朝からビッシリです」。第 2 格，右上：卧室场景，有红色窗帘和古董家具；兔子穿着蓝灰色睡衣坐在豪华床上，额头上推着海军蓝睡眠眼罩，正喝着女仆端来的托盘上的晨茶；添加困倦的拟声词「ん〜…」以及一个竖排旁白框，文字为「朝はまず美味しい紅茶でお目覚めになって頂きます」。第 3 格，中部宽幅动作分格：挂着吊灯的宏伟走廊，铺着红地毯；女仆此时清晰地显示出双马尾状的银发，正使用大型吸尘器或吹风机喷射出明亮的蓝色闪光，吹走 6 只黑色小虫状害虫；添加巨大的蓝色拟声词「シュバーン!!」以及一个竖排旁白框，文字为「お屋敷を美しく保つのも大事な仕事です」。第 4 格，下方宽幅用餐分格：烛光晚餐桌上摆满了华丽的菜肴，包括大龙虾拼盘、沙拉、烤肉、小碟、酒杯和酒瓶；女仆呈上一道大菜，兔子正愉快地用叉子和餐巾进餐；添加粉色咀嚼拟声词「もぐもぐ」以及一个竖排旁白框，文字为「ディナーは最高級、一日の労をねぎらうのです」。第 5 格，底部大型分格：满月下公馆的夜间外观；女仆摆出动态战斗姿势，手持巨大的机械锤或武器，银发随风飘动，脸部有米色遮挡块；前方躺着一个破碎的深色机器人或怪物，眼睛发出红光，伴有烟雾、火花和星星；公馆窗户里，兔子正安详地睡着，上方有「Zzz」字样；添加红色冲击拟声词「ドンッ!!」以及一个竖排旁白框，文字为「24時間旦那様の安全を確保することが最優先」。
+
+视觉风格：精致的动漫漫画，电影级灯光，华丽的维多利亚式公馆内饰，浓郁的棕色、金色、酒红色窗帘，闪亮的高光，戏剧性的动作特效，可爱的 Q 版比例与精细背景相结合，日式商业网络漫画风格。
+
+文字数量与限制：包含 6 个带有黑色日文的白色竖排旁白框，4 个拟声词（包括「ん〜…」、「シュバーン!!」、「もぐもぐ」和「ドンッ!!」），以及一个小的「Zzz」睡眠文字。不要添加额外的分格、额外的主要角色、徽标、水印或英文标题。
+
+[English]
+Goal: Create a vertical Japanese manga page about {argument name="character name" default="Faneria"}, a tiny silver-haired maid working in a luxurious mansion for a plush white rabbit master. The humor is that the maid's hairstyle is inconsistent across panels, sometimes twin tails and sometimes ponytail-like, while her face is covered by a plain beige rectangular privacy block in most close views.
+
+Canvas: Tall smartphone comic page, approximately 2:3 aspect ratio, full color, high-detail anime illustration, thick black outer border, black manga gutters, slightly tilted panel borders, glossy digital painting with warm lighting.
+
+Layout: Use exactly 5 panels arranged vertically: two small panels across the top row, one wide action panel in the upper middle, one wide dining panel below it, and one large dramatic night panel at the bottom.
+
+Characters and repeated elements: Include exactly 2 main characters: 1 petite anime maid girl and 1 anthropomorphic white rabbit gentleman. The maid has pale silver-white hair, a black maid dress with white apron, white frilled headband, oversized black hair bows, black stockings, small shoes, and a cute chibi body proportion; place a flat beige rectangular censor block over her face in panels where her face is frontal or prominent. The rabbit is a soft white plush-like bunny with long ears, usually wearing dark formal clothes or pajamas, expressive closed smiling eyes, and refined aristocratic behavior.
+
+Panel details: Panel 1, top left: in an ornate mansion room with mirrors and gold trim, the rabbit in a black butler-like suit stands with his back turned while the maid follows holding a clipboard; the maid's silver hair appears long and tied with black bows. Add a vertical white narration box reading 「旦那様のスケジュールは朝からビッシリです」. Panel 2, top right: bedroom scene with red curtains and antique furniture; the rabbit sits in a luxurious bed wearing blue-gray pajamas and a navy sleep mask pushed onto his forehead, sipping morning tea from a tray held by the maid; add sleepy sound effect 「ん〜…」 and a vertical narration box reading 「朝はまず美味しい紅茶でお目覚めになって頂きます」. Panel 3, middle wide action panel: grand hallway with chandeliers and red carpet; the maid, now clearly shown with twin-tail-like silver hair, uses a large vacuum cleaner or blower wand to blast away exactly 6 small black insect-like pests with a bright blue jet of sparkling light; add large blue sound effect 「シュバーン!!」 and a vertical narration box reading 「お屋敷を美しく保つのも大事な仕事です」. Panel 4, lower wide dining panel: candlelit banquet table packed with ornate dishes, including a large lobster platter, salads, roast meats, small plates, wine glasses, and a wine bottle; the maid presents a large dish while the rabbit happily eats with a fork and napkin; add pink chewing sound effect 「もぐもぐ」 and a vertical narration box reading 「ディナーは最高級、一日の労をねぎらうのです」. Panel 5, bottom large panel: nighttime exterior of the mansion under a full moon; the maid is in a dynamic battle pose holding a huge mechanical hammer or weapon, with silver hair flying dramatically and a beige face block; a large broken dark robot or monster lies in front with glowing red eyes, smoke puffs, sparks, and stars; in the mansion window the rabbit sleeps peacefully with 「Zzz」 above him; add red impact sound effect 「ドンッ!!」 and a vertical narration box reading 「24時間旦那様の安全を確保することが最優先」.
+
+Visual style: Polished anime manga, cinematic lighting, ornate Victorian mansion interiors, rich browns, golds, burgundy curtains, sparkling highlights, dramatic action effects, cute chibi proportions mixed with detailed backgrounds, Japanese commercial webcomic look.
+
+Text count and constraints: Include exactly 6 white vertical narration boxes with black Japanese text, exactly 4 sound effects including 「ん〜…」, 「シュバーン!!」, 「もぐもぐ」, and 「ドンッ!!」, plus one small 「Zzz」 sleep text. Do not add extra panels, extra main characters, logos, watermarks, or English captions.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2066515731295195250) | 2026-06-15
+
+---
+
+### 🎬 例 1601：奇幻儿童绘本插画
+
+![奇幻儿童绘本插画](../../images/%E5%A5%87%E5%B9%BB%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将我上传的照片转化为温馨的奇幻 {argument name="art style" default="儿童绘本插画"}。画面主体为 {argument name="subject" default="一位年轻母亲牵着幼儿的手"}，背景是一辆 {argument name="object" default="复古米色露营车"}，位于温馨的城市街区。将写实照片转化为色彩丰富的手绘艺术作品，融入柔和的粉彩色调、俏皮的涂鸦、微笑的太阳、蓬松的云朵、花朵、星星、爱心、可爱的植物和串灯。背景中明亮的公寓楼被重新构想为欢快的卡通风格。在保持人物姿势、服装和互动忠实于原照片的同时，增添迷人的绘本细节和温馨的家庭氛围。风格：现代儿童绘本插画、卡哇伊美学、手绘数字艺术、鲜艳的色彩、纹理笔触、清晰的轮廓、可爱的角色设计、奇幻的环境、温馨的街区氛围、高度细节化、神奇的日常生活、绘本封面级质量。构图：母亲和孩子全身位于中心，露营车在他们身后，色彩缤纷的花朵和涂鸦环绕场景，布局平衡，白色背景配以装饰元素，氛围可爱且令人愉悦。光影：柔和的日光、温暖的高光、梦幻的光泽、柔和的阴影。质量：杰作、超细节、迷人的插画、高分辨率、专业儿童绘本艺术作品、充满欢乐与怀旧感。
+
+[English]
+Turn my uploaded photo into a heartwarming whimsical {argument name="art style" default="children’s storybook illustration"}. A {argument name="subject" default="young mother holding her toddler’s hand"} beside a {argument name="object" default="vintage beige camper van"} in a cozy urban neighborhood. Transform the realistic photo into a colorful hand-drawn artwork with soft pastel tones, playful doodles, smiling sun, fluffy clouds, flowers, stars, hearts, cute plants, and string lights. Bright apartment buildings in the background reimagined in a cheerful cartoon style. Keep the characters’ pose, clothing, and interaction faithful to the original photo while adding charming storybook details and a warm family atmosphere. Style: modern children’s book illustration, kawaii aesthetic, hand-painted digital art, vibrant colors, textured brush strokes, clean outlines, adorable character design, whimsical environment, cozy neighborhood vibes, highly detailed, magical everyday life, storybook cover quality. Composition: full-body mother and child in the center, camper van behind them, colorful flowers and doodles surrounding the scene, balanced layout, white background with decorative elements, cute and uplifting mood. Lighting: soft daylight, warm highlights, dreamy glow, gentle shadows. Quality: masterpiece, ultra detailed, charming illustration, high resolution, professional children’s book artwork, joyful and nostalgic feeling.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2066477758205853710) | 2026-06-15
+
+---
+
+### 🎬 例 1611：铅笔素描故事板草图
+
+![铅笔素描故事板草图](../../images/%E9%93%85%E7%AC%94%E7%B4%A0%E6%8F%8F%E6%95%85%E4%BA%8B%E6%9D%BF%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+非常にラフな鉛筆によるストーリーボードのスケッチ、雑な手描きの落書き、緩やかな走り書きの線、{argument name="コマ数" default="6"}コマのグリッドレイアウト、基本的な構図のみ、ディテールなし、白い紙に{argument name="筆記具" default="グレーの鉛筆"}、ラフなアニマティックのコンセプト
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2066451443276767634) | 2026-06-15
+
+---
+
+### 🎬 例 1634：15 格足球少年分镜脚本
+
+![15 格足球少年分镜脚本](../../images/15%20%E6%A0%BC%E8%B6%B3%E7%90%83%E5%B0%91%E5%B9%B4%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个电影感 3D 动画分镜脚本，讲述 {argument name="character name" default="Jacob"} 的故事。他是一位 10 至 12 岁的男孩，梦想成为足球冠军，通过刻苦训练，在决定性的比赛中进球并与队友共同庆祝。
+
+画布：宽屏 4:3 图像，排列为 15 格分镜网格，5 列 3 行。每个分镜左上角有一个黑色小方块标签，标有 1 到 15 的白色数字。分镜之间使用细白色间隙。
+
+视觉风格：高质量 Pixar 风格 3D 动画，温暖的黄金时刻光影，生动的面部表情，电影级景深，动态运动模糊，尘埃粒子，拥挤的体育场氛围，富有感染力的体育电影叙事。主角男孩拥有 {argument name="hair color" default="凌乱的深棕色头发"}，明亮圆润的眼睛，温暖生动的表情，身穿 {argument name="football uniform" default="带有绿色镶边的白色球衣、绿色短裤、白色球袜、运动鞋，球衣号码为 7 号"}。足球为标准的黑白相间足球。
+
+分镜面板：包含 15 个编号面板。面板 1：男孩手持足球的背影，站在山坡上俯瞰日落时分色彩斑斓的小镇，远处的体育场闪烁着光芒，天空中飞鸟掠过。面板 2：男孩在热闹的街道上追逐足球奔跑，身后是孩子和镇民，充满尘土的阳光动作感。面板 3：他在土路上扑倒或跌倒的特写动作镜头，伸手够向滚动的足球，尘土飞扬，表情坚定。面板 4：安静的夜晚学习场景，男孩在台灯下写笔记，足球放在身旁，展现专注与自律。面板 5：在摆放橙色标志桶的足球场上进行训练，男孩带球，两名教练在旁观察，背景是模糊的体育场观众。面板 6：男孩兴奋地微笑着，一位成年教练或官员在球场附近递给他一张纸，暗示他入选了球队或比赛。面板 7：比赛开始，身穿白绿色球衣的男孩在拥挤的体育场内穿梭于两名身穿深红色球衣的对手之间。面板 8：男孩在对手之间低身潜行的紧张特写，眼神专注，戏剧性的体育场灯光与紧张氛围。面板 9：从身穿 7 号球衣的男孩身后拍摄的比赛广角镜头，他带着球向防守队员推进，队友在旁奔跑，体育场内坐满了观众。面板 10：点球或射门准备，男孩面对球门前身穿黄色球衣的守门员，前景有另一名球员，身后是庞大的观众群。面板 11：日落时分，球鞋踢中草地上足球的极度特写，泥土和草皮飞溅。面板 12：足球击中或进入明亮体育场内的球网，背景中的球员举手庆祝，伴有纸屑般的灯光和戏剧性的逆光。面板 13：四名年轻队友拥抱庆祝，在体育场内欢笑欢呼。面板 14：奖杯庆祝，男孩在体育场灯光下高举金杯，队友们在周围欢呼。面板 15：与面板 1 呼应的结尾镜头，日落时分男孩手持足球的背影，俯瞰小镇和远处的体育场，氛围宁静而充满胜利感。
+
+约束条件：确保主角在所有 15 个面板中视觉形象保持一致。在大多数面板中使用同一个足球作为反复出现的中心道具。使每个面板都具有电影感且无需对白气泡或除编号外的说明文字即可传达情感。避免出现标志、水印、额外文字、解剖结构扭曲或球衣颜色不一致的情况。
+
+[English]
+Goal: Create a cinematic 3D animated storyboard about {argument name="character name" default="Jacob"}, a 10–12-year-old boy who dreams of becoming a football champion, trains hard, plays a decisive match, scores, and celebrates with his team.
+
+Canvas: Wide 4:3 image arranged as a 15-panel storyboard grid, 5 columns by 3 rows. Each panel has a small black square label in the top-left corner with white numbers 1 through 15. Use thin white gutters between panels.
+
+Visual style: High-quality Pixar-like 3D animation, warm golden-hour lighting, expressive faces, cinematic depth of field, dynamic motion blur, dust particles, packed stadium atmosphere, emotional sports-movie storytelling. The main boy has {argument name="hair color" default="messy dark brown hair"}, bright round eyes, a warm expressive face, and wears {argument name="football uniform" default="a white jersey with green trim, green shorts, white socks, sneakers, and jersey number 7"}. The ball is a standard black-and-white football.
+
+Storyboard panels: Include exactly 15 numbered panels. Panel 1: rear view of the boy holding a football, standing on a hillside overlooking a colorful town at sunset, a stadium glowing in the distance, birds in the sky. Panel 2: the boy runs down a lively street chasing a football, children and townspeople behind him, dusty sunlit action. Panel 3: close-up action shot of him diving or falling on a dirt street while reaching toward the rolling ball, dust flying, determined expression. Panel 4: quiet nighttime study scene at a desk, the boy writes in a notebook under a lamp with the football beside him, showing dedication and discipline. Panel 5: training drill on a football field with orange cones, the boy dribbles the ball while two coaches watch, stadium crowd blurred in the background. Panel 6: the boy smiles excitedly as an adult coach or official hands him a paper, set near the pitch, suggesting he is selected for a team or match. Panel 7: match action begins, the boy in white and green dribbles between two opponents in dark red kits inside a crowded stadium. Panel 8: intense close-up of the boy crouched low between opponents, focused eyes, dramatic stadium lighting and tension. Panel 9: wider match view from behind the boy wearing number 7 as he advances with the ball toward defenders, a teammate runs nearby, stadium full of spectators. Panel 10: penalty or shooting setup, the boy approaches the ball facing a goalkeeper in yellow near the goal, another player in foreground, huge crowd behind. Panel 11: extreme close-up of a boot striking the football on grass at sunset, dirt and turf exploding outward. Panel 12: the ball hits or enters the net in a bright stadium, players in the background raise their arms in celebration, confetti-like lights and dramatic backlight. Panel 13: four young teammates hug and celebrate together, laughing and cheering in the stadium. Panel 14: trophy celebration, the boy holds a golden cup high while teammates cheer around him under stadium lights. Panel 15: closing mirror shot similar to panel 1, rear view of the boy with the football at sunset overlooking the town and distant stadium, peaceful triumphant mood.
+
+Constraints: Keep the main character visually consistent in all 15 panels. Use exactly one football as the recurring central prop in most panels. Make every panel cinematic and emotionally readable without speech bubbles or captions other than the panel numbers. Avoid logos, watermarks, extra text, distorted anatomy, or inconsistent jersey colors.
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2066373767287435761) | 2026-06-15
+
+---
+

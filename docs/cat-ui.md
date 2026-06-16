@@ -3160,3 +3160,155 @@ Constraints: Use only one main photo, one description paragraph, and one prompt 
 
 ---
 
+### 🖥️ 例 1560：恶魔系女高中生动漫角色场景
+
+![恶魔系女高中生动漫角色场景](../../images/%E6%81%B6%E9%AD%94%E7%B3%BB%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个全身动漫角色插画，主角为 {argument name="character name" default="一个调皮的恶魔女学生"}，她自信地站在阳光明媚的午后，现代学校建筑前的近景处。她留着 {argument name="hair color" default="黑色短波波头，刘海凌乱"}，拥有小麦色皮肤、锐利的半睁眼、狡黠的坏笑、红润的脸颊，头顶有且仅有 2 只小巧且有光泽的黑色恶魔角。她身穿深海军蓝色的日式校服：白色短袖衬衫、海军蓝无袖针织背心、胸前系着大红色蝴蝶结、黑色百褶短裙、黑色透明连裤袜，以及厚底黑色乐福鞋。在她身上添加 4 个清晰可见的配饰：一个带有心形圆环吊坠的黑色项圈、手腕上戴着一个红色发圈手链、涂着黑色指甲油，并背着一个大号黑色单肩包。单肩包应挂在她的右肩上，并包含 5 个装饰物：一个可爱的黑猫脸贴布、一个小红心、2 个星星挂饰，以及一条垂下的链条带细节。让她摆出单手叉腰、另一只手抓着包带的姿势，双腿微微交叉，仿佛正朝观众走来。
+
+场景设定在风格化的校园前，呈现出一种融合了 21 世纪初西方动画与精致日本动漫风格的温暖卡通/动漫外观。背景中包含 4 名次要学生：左侧长椅上坐着 2 名女生，一名橙色头发的女生正在喝杯子里的饮料，另一名深色头发的女生正在阅读一本紫色书；右侧入口附近站着 2 名男生，一名穿着红色运动衫、拿着滑板的橙色头发男生，以及一名穿着深色衬衫、绿色裤子的黑发男生。在入口上方添加一个大型学校时钟，并设置一个写有 {argument name="school sign text" default="CN"} 的黑白标志，下方有较小的文字写着 “CARTOON NETWORK”。在左侧添加绿叶茂盛的树木、带有几朵柔软白云的蓝天、玻璃校窗、混凝土台阶、人行道地砖、散落的叶子，以及矮墙上的涂鸦，涂鸦包含 3 个符号：一个皇冠、一颗心和一颗星星。
+
+使用鲜艳的赛璐珞风格光影、清晰的线条、饱和的色彩、夸张的表现力比例以及戏剧性的午后阴影。摄像机角度略低且居中，突显主角高挑且充满魅力的形象。采用垂直肖像构图，从头到鞋全身可见，细节丰富但画面整洁，无额外角色，无水印，无写实感。
+
+[English]
+Create a full-body anime character illustration of {argument name="character name" default="a mischievous demon schoolgirl"} standing confidently in the foreground outside a modern school building on a sunny afternoon. She has {argument name="hair color" default="short black bob-cut hair with messy bangs"}, tan skin, sharp half-lidded eyes, a sly smirk, rosy cheeks, and exactly 2 small glossy black demon horns on top of her head. Her outfit is a dark navy Japanese-inspired school uniform: white short-sleeve collared shirt, navy sleeveless sweater vest, large red bow at the chest, black pleated mini skirt, sheer black tights, and chunky black platform loafers. Add exactly 4 visible accessories on her body: a black choker with a heart-shaped ring pendant, a red scrunchie bracelet on one wrist, black nail polish, and a large black shoulder bag. The shoulder bag should hang from her right shoulder and include exactly 5 decorations: a cute black cat face patch, a small red heart, 2 star charms, and a dangling chain strap detail. Pose her with one hand on her hip and the other gripping the bag strap, legs crossed slightly as if walking toward the viewer.
+
+Set the scene in front of a stylized school campus with a warm cartoon/anime look inspired by early-2000s Western animation blended with polished Japanese anime. The background contains exactly 4 secondary students: 2 girls sitting on a bench at left, one orange-haired girl drinking from a cup and one dark-haired girl reading a purple book; and 2 boys standing near the entrance at right, one orange-haired boy in a red jersey holding a skateboard and one black-haired boy in a dark shirt with green pants. Include a large school clock above the entrance and a black-and-white sign reading {argument name="school sign text" default="CN"} with smaller text below reading "CARTOON NETWORK". Add leafy green trees on the left, blue sky with a few soft white clouds, glass school windows, concrete steps, sidewalk tiles, scattered leaves, and graffiti on a low wall with exactly 3 marks: a crown, a heart, and a star.
+
+Use vibrant cel-shaded lighting, crisp line art, saturated colors, exaggerated expressive proportions, and dramatic late-afternoon shadows. The camera angle is slightly low and centered, emphasizing the main character as tall and charismatic. Vertical portrait composition, full body visible from head to shoes, highly detailed but clean, no extra characters, no watermark, no photorealism.
+```
+
+**来源：** [@Gwen AIart](https://x.com/Gwen2cerebro/status/2066663869188092164) | 2026-06-15
+
+---
+
+### 🖥️ 例 1562：Cozy Café 聊天截图
+
+![Cozy Café 聊天截图](../../images/Cozy%20Caf%C3%A9%20%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色模式的移动端聊天界面截图，展示用于文章插图的 AI 图像生成结果。
+
+画布：竖屏智能手机截图，896×768 比例裁剪，黑色背景，顶部附近有一个大的圆角深灰色提示词气泡，下方是一张生成的图像预览卡片。在两张卡片周围留出充足的黑色边距。
+
+顶部提示词气泡：一个靠右上角对齐的炭灰色圆角矩形，顶部略微裁剪。其中包含白灰色的英文提示文本，可见行包括：“slight angle, looking at the café window with a slightly uncertain posture”（微侧角度，看着咖啡馆窗户，姿态略显迟疑），一个独立的破折号，“hands in pockets or arms crossed. Warm light glowing”（双手插兜或交叉双臂。温暖的光芒），以及一行较暗的文字“from inside the café.”（来自咖啡馆内部）。在此气泡底部，包含日文 UI 文本“表示を増やす”以及一个小的向下箭头图标。
+
+生成的图像卡片：提示词气泡下方是一个大的圆角矩形图像预览，具有明显的圆角。在卡片内，绘制一幅柔和、温暖、怀旧的水彩风格插图，内容为 {argument name="scene subject" default="一位年轻女性在黄昏时分独自站在一家小型社区咖啡馆外"}。女性从后方微侧角度被呈现，正看着咖啡馆的窗户，姿态迟疑且不确定。她留着深色头发，扎成低发髻，身穿长款米色外套，内搭深色及踝长裙，穿着白色鞋子，肩上背着一个奶油色帆布袋；双手插在外套口袋里。咖啡馆外立面有大玻璃窗、风化的木制双开门、温暖的琥珀色室内灯光、吊灯、货架、咖啡吧台、隐约可见的顾客或店员剪影，以及内部的黑板菜单。街道安静，略带雨意或阴天，有电线杆、架空电线、狭窄的人行道、向远处延伸的柔和建筑，以及苍白的傍晚天空。在店面周围添加正好 8 个可见的植物容器：窗户/门区域两侧各 2 个较高的灌木，右侧附近 3 个中型花盆，长椅旁 1 个白色小花盆，人行道标志旁 1 个花槽，台阶旁 1 个低矮花盆。在咖啡馆前添加正好 2 个街边物体：一个小木凳和一个黑色 A 型黑板立牌。
+
+图像卡片上的叠加 UI：在图像上方添加正好 2 个半透明圆形按钮：左下角标注为“編集”的按钮，以及右下角的分享/上传图标按钮。保持按钮简洁、浅灰色且半透明。
+
+视觉风格：柔和的日式都市生活切片插画，米色和灰色调，温暖的咖啡馆光晕，水彩画质感，边缘柔和，带有轻微的纸张颗粒感，氛围感强且可爱而写实。图像预览应看起来像是嵌入在聊天应用中的已完成生成插图，而非全屏艺术作品。
+
+约束：仅使用所描述的可见 UI 元素：1 个顶部提示词气泡、1 个生成的图像卡片、2 个叠加按钮，以及完全按照书写的日文文本标签。不要添加额外的标题、水印或应用图标。
+
+[English]
+Goal: Create a dark-mode mobile chat interface screenshot showing an AI image generation result for an article illustration.
+
+Canvas: Portrait smartphone screenshot, 896×768 style crop, black background, with a large rounded dark-gray prompt bubble near the top and a generated image preview card below it. Leave generous black margins around both cards.
+
+Top prompt bubble: One charcoal-gray rounded rectangle aligned toward the upper right, partly cropped at the very top. It contains white and gray prompt text in English, including the visible lines: “slight angle, looking at the café window with a slightly uncertain posture”, a standalone dash, “hands in pockets or arms crossed. Warm light glowing”, and a dimmer line “from inside the café.” At the bottom of this bubble, include the Japanese UI text “表示を増やす” with a small downward chevron.
+
+Generated image card: One large rounded-rectangle image preview beneath the prompt bubble, with strongly rounded corners. Inside it, paint a soft, warm, nostalgic watercolor-style illustration of {argument name="scene subject" default="a young woman standing alone outside a small neighborhood café at dusk"}. The woman is viewed from behind at a slight angle, looking into the café window with a hesitant, uncertain posture. She has dark hair tied in a low bun, wears a long beige coat over a dark ankle-length skirt, white shoes, and carries a cream tote bag over one shoulder; her hands are in her coat pockets. The café façade has large glass windows, weathered wooden double doors, warm amber interior lighting, pendant lamps, shelves, a coffee counter, faint customers or staff silhouettes, and a chalkboard menu inside. The street is quiet and slightly rainy or overcast, with utility poles, overhead wires, narrow sidewalk, muted buildings receding into the distance, and a pale evening sky. Add exactly 8 visible plant containers around the storefront: 2 taller shrubs flanking the window/door area, 3 medium pots near the right side, 1 small white pot near the bench, 1 planter near the sidewalk sign, and 1 low pot by the step. Add exactly 2 street-side objects in front of the café: a small wooden bench and a black A-frame chalkboard sign.
+
+Overlay UI on image card: Add exactly 2 circular translucent buttons on top of the image: a bottom-left button labeled “編集” and a bottom-right share/upload icon button. Keep the buttons subtle, light gray, and semi-transparent.
+
+Visual style: Gentle Japanese urban slice-of-life illustration, muted beige and gray palette, warm café glow, painterly watercolor texture, soft edges, slightly grainy paper feel, atmospheric and cute but realistic. The image preview should look like a finished generated illustration embedded in a chat app, not a full-bleed artwork.
+
+Constraints: Use only the visible UI elements described: 1 top prompt bubble, 1 generated image card, 2 overlay buttons, and the Japanese text labels exactly as written. No extra captions, no watermark, no app logo.
+```
+
+**来源：** [@ひるげ【Roamble 6/19(金)公開】](https://x.com/Hiru_ge/status/2066648695794454601) | 2026-06-15
+
+---
+
+### 🖥️ 例 1568：动漫管家约会漫画截图
+
+![动漫管家约会漫画截图](../../images/%E5%8A%A8%E6%BC%AB%E7%AE%A1%E5%AE%B6%E7%BA%A6%E4%BC%9A%E6%BC%AB%E7%94%BB%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖屏手机漫画页面截图，内容为浪漫喜剧动漫中约会时突然更换服装的场景，角色面部刻意用柔和的矩形隐私模糊遮盖。
+
+画布：9:16 高比例手机截图，尺寸约为 625 x 1080，顶部带有黑色应用查看器标题栏。标题栏左侧包含一个返回箭头，中间为白色日文标题文本 {argument name="header title" default="服装チェンジ(今だけ)(1/1)"}，右侧有两个小型白色界面图标。在底部中心附近添加两个半透明的圆形导航按钮，带有左右箭头。
+
+布局：使用 6 个倾斜的漫画分镜，由粗黑边框隔开。分镜 1（左上）：一位娇小的金发年轻女性特写，身穿紫白相间的女仆装，手指轻触嘴唇，神情尴尬。分镜 2（右上）：一位帅气的黑发年轻男性，身穿黑色管家燕尾服，站在欧洲街道上。分镜 3（中左）：同一位管家尴尬地挠着后脑勺。分镜 4（中右）：金发女性脸红心跳、不知所措的特写。分镜 5（底部跨越大部分宽度的长分镜）：金发女性向前跌倒在鹅卵石街道上，神情慌乱，裙摆和半透明袖子戏剧性地散开。分镜 6（右下窄分镜）：管家惊讶地伸出手的部分视图。
+
+角色：女性角色为 {argument name="female character" default="一位精致的金发动漫少女，留着长波浪卷发，侧边编发，佩戴紫色花朵发饰和紫罗兰流苏耳环，脸颊绯红，身穿带有半透明蕾丝袖的褶边白紫色女仆装"}。男性角色为 {argument name="male character" default="一位高大帅气的动漫男性，留着凌乱的黑发，身穿黑色管家西装，带有金色饰边、白色褶皱衬衫、黑色领结、翻领链条和装饰性胸针"}。用 5 个柔和的矩形马赛克遮盖可见的面部：分镜 1 中女性的脸、分镜 2 中男性的脸、分镜 3 中男性的脸、分镜 4 中女性的脸以及分镜 6 中男性部分可见的脸；分镜 5 中跌倒女性闭着眼睛的脸保持可见。
+
+文本内容：使用 10 个对话气泡，并保留以下日文对话：{argument name="Japanese dialogue text" default="どうして… / いつもはメイド服なのに…！ / おーいミワどうしたんだ？ / てか貸してくれるか？ / ？ / そんなに驚くことか？ / あーたまにはいいだろ？ / かっこよすぎる…っ / ずるいよこんなの反則でしょー!!! / おい、ミワ!?"}。添加 4 个拟声词或反应文本：{argument name="sound effects" default="はなそそや… / きゅううん…♡ / はぁっ / ガクッ!!"}。
+
+视觉风格：精致的高细节 AI 动漫插画，柔和的浪漫光影，柔和的亮部高光，闪烁效果，浅景深，华丽的欧洲城市街道背景，光泽感的漫画渲染，戏剧性的对角线分镜构图，富有表现力的浪漫喜剧节奏。保持图像为竖屏、内容紧凑且具有截图感；不要添加额外的分镜、角色、水印或额外文本。
+
+[English]
+Goal: Create a vertical smartphone screenshot of a romantic comedy anime manga page about a sudden outfit change during a date, with the characters' faces intentionally covered by soft rectangular privacy blurs.
+
+Canvas: Tall 9:16 mobile screenshot, approximately 625 x 1080, with a black app viewer header at the top. Header includes a back arrow on the left, centered white Japanese title text {argument name="header title" default="服装チェンジ(今だけ)(1/1)"}, and two small white interface icons on the right. Add two semi-transparent circular navigation buttons with left and right chevrons near the bottom center.
+
+Layout: Use exactly 6 tilted comic panels separated by thick black gutters. Panel 1, top left: close-up of a petite blonde young woman in a purple-and-white maid-like dress, one finger near her lips, embarrassed. Panel 2, top right: handsome dark-haired young man in a black butler tuxedo standing on a European street. Panel 3, middle left: the same butler man scratching the back of his head awkwardly. Panel 4, middle right: close-up of the blonde woman blushing heavily, overwhelmed. Panel 5, bottom large panel spanning most of the width: the blonde woman has fallen forward onto the cobblestone street, flustered, skirt and translucent sleeves spread dramatically. Panel 6, bottom right narrow panel: partial view of the butler man reaching out in surprise.
+
+Characters: The woman is {argument name="female character" default="a delicate blonde anime girl with long wavy hair, side braids, purple flower hair ornaments, violet tassel earrings, flushed cheeks, and a frilly white-and-purple maid dress with translucent lace sleeves"}. The man is {argument name="male character" default="a tall handsome anime man with tousled black hair, a black butler suit, gold trim, white ruffled shirt, black bow tie, lapel chain, and a decorative brooch"}. Cover the visible faces with exactly 5 soft rectangular censor blurs: one over the woman's face in panel 1, one over the man's face in panel 2, one over the man's face in panel 3, one over the woman's face in panel 4, and one over the partial man's face in panel 6; leave the fallen woman's closed-eyed face in panel 5 visible.
+
+Text content: Use exactly 10 speech bubbles and preserve the Japanese dialogue in this set: {argument name="Japanese dialogue text" default="どうして… / いつもはメイド服なのに…！ / おーいミワどうしたんだ？ / てか貸してくれるか？ / ？ / そんなに驚くことか？ / あーたまにはいいだろ？ / かっこよすぎる…っ / ずるいよこんなの反則でしょー!!! / おい、ミワ!?"}. Add exactly 4 sound-effect or reaction texts: {argument name="sound effects" default="はなそそや… / きゅううん…♡ / はぁっ / ガクッ!!"}.
+
+Visual style: Polished high-detail AI anime illustration, soft romantic lighting, pastel highlights, sparkles, shallow depth of field, ornate European city street background, glossy manga rendering, dramatic diagonal panel composition, expressive rom-com pacing. Keep the image vertical, dense, and screenshot-like; do not add extra panels, extra characters, watermarks, or additional text.
+```
+
+**来源：** [@美和](https://x.com/tokikageyomikag/status/2066563338574930034) | 2026-06-15
+
+---
+
+### 🖥️ 例 1600：带有模糊时尚照片的 X 时间线
+
+![带有模糊时尚照片的 X 时间线](../../images/%E5%B8%A6%E6%9C%89%E6%A8%A1%E7%B3%8A%E6%97%B6%E5%B0%9A%E7%85%A7%E7%89%87%E7%9A%84%20X%20%E6%97%B6%E9%97%B4%E7%BA%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的 X/Twitter 时间线截图风格图像，展示由同一认证账号发布的两条堆叠帖子，配有柔和、阳光明媚且人脸经过模糊处理的时尚照片缩略图。
+
+画布：垂直移动端截图，尺寸约为 606 × 724 像素，白色 X/Twitter 界面背景，细淡的分隔线，左对齐的时间线列，裁剪效果如同从手机或浏览器信息流中截取。
+
+布局：展示由同一账号垂直堆叠的 2 条推文。每条推文最左侧有一个小的圆形动漫风格头像，加粗的显示名称 {argument name="display name" default="guan"}，蓝色认证勾选标记，账号名 {argument name="handle" default="@Justwanttoslee5"}，日期 {argument name="date" default="5月9日"}，右上角有一个三点菜单，以及右上边缘附近有一个小的静音/可见性风格图标。推文文字为中文：第一条推文文字 {argument name="first tweet text" default="你跑，我追，你插翅难飞"}；第二条推文文字 {argument name="second tweet text" default="摔了吧"}。
+
+第一条推文媒体：水平排列 3 张圆角图片卡片。卡片 1 展示了一名年轻女性的全身户外肖像，身穿荷叶边白色蕾丝迷你裙，佩戴白色头饰，穿着过膝袜或靴子，站在阳光明媚的花园小径上，靠近混凝土台阶。卡片 2 展示了同一装扮下更近的倚靠姿势，一只手靠近下巴，浅景深，明亮的阳光，背景为植物和台阶。卡片 3 在右边缘部分被裁剪，展示了同一主体手靠近脸部的特写；在此部分卡片中心叠加一个深色圆形右箭头按钮。所有可见的人脸必须使用方形/柔和的马赛克进行强力模糊处理。
+
+第一条推文互动栏：在媒体行下方从左到右显示 5 个互动项目/图标：回复图标（计数 1）、转发图标（计数 2）、点赞图标（计数 10）、分析图表图标（计数 1,106）、书签图标，以及最右侧的分享/上传图标。使用静音的深蓝灰色 Twitter UI 图标样式。
+
+第二条推文媒体：在第二条推文文字下方并排包含 2 张圆角图片卡片。卡片 1 展示了同一名身穿白色蕾丝装的女性在阳光明媚的花园小径上四肢着地或向前跌倒，从后方/侧方拍摄，长黑发飘动，背景为台阶/植物。卡片 2 展示了在小径上向前爬行或跌倒的正面/侧面姿势，长黑发向前垂落，同样的装扮，背景为混凝土台阶和蓝天，人脸经过方形/柔和的马赛克模糊处理。
+
+视觉风格：使 UI 界面清晰逼真，如同真实的 X/Twitter 截图，而嵌入的照片应呈现柔和、高调、略带梦幻感、温暖的阳光、浅景深、淡米色混凝土、绿色杂草和小花，以及户外楼梯场景。主体穿着白色荷叶边蕾丝裙、白色蕾丝软帽/发带以及浅色靴子/袜子。保持皮肤和光线自然，不要有塑料感或过于光亮。
+
+约束条件：不要添加额外的推文、额外的媒体卡片、额外的按钮、水印或无关文字。保持 2 条推文、总共 5 张可见媒体缩略图以及上述互动计数的精确数量。所有照片缩略图中的人脸必须保持模糊且无法辨认。
+
+[English]
+Goal: Create a realistic screenshot-style image of an X/Twitter timeline showing two stacked posts by the same verified account, featuring soft, sunlit fashion photo thumbnails with intentionally blurred faces.
+
+Canvas: Vertical mobile screenshot, approximately 606 × 724 px, white X/Twitter interface background, thin pale divider lines, left-aligned timeline column, cropped as if captured from a phone or browser feed.
+
+Layout: Show exactly 2 tweets stacked vertically from the same account. Each tweet has a small circular anime-style profile avatar on the far left, bold display name {argument name="display name" default="guan"}, blue verified check, handle {argument name="handle" default="@Justwanttoslee5"}, date {argument name="date" default="5月9日"}, a three-dot menu at the top right, and a small muted/visibility-style icon near the upper right edge. The tweet text is in Chinese: first tweet text {argument name="first tweet text" default="你跑，我追，你插翅难飞"}; second tweet text {argument name="second tweet text" default="摔了吧"}.
+
+Top tweet media: Include exactly 3 rounded-corner image cards in a horizontal row. Card 1 shows a full-body outdoor portrait of a young woman in a frilly white lace mini dress, white headpiece, thigh-high socks or boots, standing on a sunlit garden path near concrete stairs. Card 2 shows a closer leaning pose in the same outfit with one hand near the chin, shallow depth of field, bright sunlight, plants and steps behind. Card 3 is partially cropped on the right edge, showing the same subject close-up with hands near the face; overlay a dark circular right-arrow button centered over this partial card. All visible faces must be strongly blurred with a square/soft mosaic blur.
+
+Top tweet engagement row: Under the media row show exactly 5 engagement items/icons from left to right: reply icon with count 1, repost icon with count 2, heart icon with count 10, analytics bars icon with count 1,106, bookmark icon, and share/upload icon at the far right. Use muted dark blue-gray Twitter UI icon styling.
+
+Second tweet media: Include exactly 2 rounded-corner image cards side by side below the second tweet text. Card 1 shows the same woman in the white lace outfit on all fours or falling forward on the sunny garden path, photographed from behind/side, with long dark hair moving and stairs/plants in the background. Card 2 shows a front/side crawling or fallen pose on the path, long dark hair falling forward, same outfit, concrete stairs and blue sky behind, with the face blurred by a square/soft mosaic.
+
+Visual style: Make the UI crisp and realistic like an actual X/Twitter screenshot, while the embedded photos are soft, high-key, slightly dreamy, warm sunlight, shallow depth of field, pale beige concrete, green weeds and small flowers, outdoor stairway setting. The subject wears a white frilly lace dress, white lace bonnet/headband, and light-colored boots/socks. Keep skin and lighting natural, not glossy or plastic.
+
+Constraints: Do not add extra tweets, extra media cards, extra buttons, watermarks, or unrelated text. Maintain the exact count of 2 tweets, 5 total visible media thumbnails, and the engagement counts listed above. Faces in all photo thumbnails must remain blurred and unidentifiable.
+```
+
+**来源：** [@guan](https://x.com/Justwanttoslee5/status/2066478022060822880) | 2026-06-15
+
+---
+

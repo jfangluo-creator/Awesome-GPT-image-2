@@ -3265,3 +3265,243 @@ Face from uploaded reference only. Keep the same pose, outfit, background, light
 
 ---
 
+### 🧍 例 1590：奢华黑白时尚编辑拼贴画
+
+![奢华黑白时尚编辑拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，创作一张超写实的 2×2 编辑拼贴画，展示同一位优雅年轻女性在奢华黑白摄影棚中的拍摄效果。整体构图应采用高对比度的黑白风格，呈现永恒的时尚杂志美感。她留着顺滑的漆黑色长发，中分发型精准，拥有无瑕的瓷感肌肤、锐利的猫眼、轮廓自然的眉毛、精致的眼线和柔和的哑光唇妆。她的表情冷静、神秘且自信，展现出高端秀场模特的风范。她身穿简约的修身黑色半高领短袖迷你裙，搭配黑色渔网袜和厚底过膝皮靴。造型简洁、精致且现代，没有任何多余的配饰。创作四个不同的画面：1. 左上：全身站立肖像，双臂交叉，面对镜头，背景为无缝黑色摄影棚。2. 右上：紧凑的美容特写，一只手轻轻托在下巴下方，眼神深邃，面部光线柔和。3. 左下：坐在黑色矮方块上，单膝抬起，以优雅的时尚编辑构图展示靴子和渔网袜。4. 右下：全身站立肖像，一只手轻触颈部，姿态修长，呈现简约的秀场风格。背景应为无缝的暗色摄影棚，配以柔和的渐变光影和细腻的阴影。使用柔光箱雕刻面部和身体轮廓，同时保持强烈的对比度。强调照片级的皮肤质感、细致的发丝、优雅的衣褶以及高端的编辑品质。风格：奢华时尚大片、黑白摄影、Vogue Korea 编辑风格、Saint Laurent 美学、极简摄影棚肖像、韩国模特、高端时尚杂志封面、艺术摄影、电影级布光、照片级真实、DSLR 中画幅品质、85mm 镜头、浅景深、杰作、最佳质量、超写实、8K。负面提示词：低质量、模糊、解剖结构错误、多余的手指、多余的肢体、身体部位重复、面部扭曲、眼睛不对称、卡通、动漫、CGI、塑料感皮肤、水印、Logo、文字、光线过曝、手部绘制拙劣、比例失调、噪点、伪影、低分辨率。风格关键词：黑白编辑风格、奢华时尚摄影棚、黑白肖像、韩国模特美学、极简高级定制、Vogue 灵感、Saint Laurent 大片、艺术摄影、戏剧性柔光、高端美容肖像、照片级真实、超精细、8K。
+
+[English]
+Using the provided reference image, create an ultra-realistic 2×2 editorial collage featuring the same elegant young woman in a luxury monochrome studio photoshoot. The entire composition should be in high-contrast black and white, with a timeless fashion magazine aesthetic She has long, sleek jet-black hair with a precise center part, flawless porcelain skin, sharp cat-like eyes, naturally defined brows, subtle eyeliner, and soft matte lips. Her expression is calm, mysterious, and confident, embodying a high-fashion runway model. She is dressed in a minimalist fitted black mock-neck mini dress with short sleeves, paired with black fishnet tights and chunky knee-high platform leather boots. The styling is clean, sophisticated, and modern with no distracting accessories. Create four distinct frames: 1. Top Left: Full-body standing portrait with arms crossed, facing the camera against a seamless black studio backdrop. 2. Top Right: Tight beauty close-up with one hand gently resting beneath the chin, intense editorial gaze, soft facial lighting. 3. Bottom Left: Seated pose on a low black cube, one knee raised, showcasing the boots and fishnet tights in a graceful fashion-editorial composition. 4. Bottom Right: Full-body standing portrait with one hand lightly touching the neck, elongated posture, minimalist runway-inspired pose. The background should be a seamless dark studio with soft gradient lighting and subtle shadows. Use diffused softboxes to sculpt the face and body while maintaining dramatic contrast. Emphasize photorealistic skin texture, detailed hair strands, elegant fabric folds, and premium editorial quality. Style: luxury fashion campaign, monochrome photography, Vogue Korea editorial, Saint Laurent aesthetic, minimalist studio portrait, Korean model, high-fashion magazine cover, fine art photography, cinematic lighting, photorealistic, DSLR medium-format quality, 85mm lens, shallow depth of field, masterpiece, best quality, ultra realistic, 8K. Negative Prompt low quality, blurry, bad anatomy, extra fingers, extra limbs, duplicate body parts, distorted face, asymmetrical eyes, cartoon, anime, CGI, plastic skin, watermark, logo, text, oversaturated lighting, poorly drawn hands, unrealistic proportions, noise, artifacts, low resolution. Style Keywords black and white editorial, luxury fashion studio, monochrome portrait, Korean model aesthetic, minimalist couture, Vogue-inspired, Saint Laurent campaign, fine art photography, dramatic soft lighting, high-end beauty portrait, photorealistic, ultra detailed, 8K.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066511194454991183) | 2026-06-15
+
+---
+
+### 🧍 例 1609：身份锁定型奢华时尚肖像
+
+![身份锁定型奢华时尚肖像](../../images/%E8%BA%AB%E4%BB%BD%E9%94%81%E5%AE%9A%E5%9E%8B%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的参考图作为人物的唯一身份基准。
+严格的身份锁定
+100% 保留上传参考图中的面部结构、肤色、发型、胡须、面部特征、年龄、身体比例及身份信息。
+请勿更改脸型、眼睛、鼻子、嘴唇、下颌线、胡须样式、发型或自然外观。
+服装（固定）
+{argument name="clothing" default="高级黑色罗纹针织毛衣，时尚黑色长方形太阳镜，单耳佩戴小巧银色圆环耳饰，现代时尚造型。"}
+姿势
+时尚肖像姿势，头部微微低垂，脸部略微侧转，自信的表情，微妙的微笑，视线越过镜头。
+场景
+奢华摄影棚时尚肖像，{argument name="background" default="深绯红色渐变背景，暗红色电影感背景板"}，简洁极简的构图，高端专业摄影棚布景。
+灯光
+柔和的正面美颜光，
+头发和肩部周围有戏剧性的红色轮廓光，编辑级摄影棚灯光，电影感阴影，高对比度高光，高级时尚大片质感。
+相机
+胸部以上近景肖像，85mm 镜头，f/1.8 光圈，
+浅景深，极致的面部细节，焦点清晰对准面部。
+风格
+{argument name="aesthetic" default="奢华男士时尚大片，病毒式 Instagram 肖像美学，超写实"}，
+高细节皮肤纹理，
+专业单反摄影，高级调色，杂志级肖像，超逼真。
+宽高比 9:16
+
+[English]
+Use the uploaded reference image as the exact identity of the person.
+STRICT IDENTITY LOCK
+Preserve 100% facial structure, skin tone, hairstyle, beard, facial features, age, body proportions and identity from the uploaded reference image.
+Do not alter face shape, eyes, nose, lips, jawline, beard style, hairstyle or natural appearance.
+OUTFIT (FIXED)
+{argument name="clothing" default="Premium black ribbed knit sweater, sleek black rectangular sunglasses, small silver hoop earring in one ear, modern fashion styling."}
+POSE
+Fashion portrait pose, head slightly lowered, face turned slightly sideways, confident expression, subtle smile, looking past camera.
+SCENE
+Luxury studio fashion portrait, {argument name="background" default="deep crimson red gradient background, dark red cinematic backdrop"}, clean minimal composition, high-end professional photoshoot setup.
+LIGHTING
+Soft frontal beauty light,
+dramatic red rim light around hair and shoulders, editorial studio lighting, cinematic shadows, high contrast highlights, premium fashion campaign look.
+CAMERA
+Chest-up close portrait, 85mm lens, f/1.8 aperture,
+shallow depth of field, extreme facial detail, sharp focus on face.
+STYLE
+{argument name="aesthetic" default="Luxury men's fashion editorial, viral Instagram portrait aesthetic, ultra realistic"},
+high detail skin texture,
+professional DSLR photography, premium color grading, magazine-quality portrait, hyper realistic.
+Aspect Ratio 9:16
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2066464532017631565) | 2026-06-15
+
+---
+
+### 🧍 例 1615：Dark Sword Angel 角色设定集
+
+![Dark Sword Angel 角色设定集](../../images/Dark%20Sword%20Angel%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Angie"} 创建一份精致的动漫风格角色设定集，她是一位暗黑奇幻风格的剑之天使少女，背景为干净的白色摄影棚背景。
+
+画布：宽幅横向角色设计项目，比例约为 16:9，留有大量空白区域和手写标注标签。采用高细节 3D/动漫概念艺术风格渲染，每个姿势下方带有柔和阴影。
+
+角色设计：一位冷静、不祥且姿态优雅的年轻女战士，名为 {argument name="character name" default="Angie"}。她留着黑色短波波头，拥有发光的琥珀色眼睛、苍白的皮肤，红色的兜帽下遮盖着面容。她身穿红米色哥特式兜帽连衣裙，搭配黑色皮质袖套、腰带、搭扣、荷叶边装饰、露指手套、带有红色鞋底的厚底黑靴，以及一对巨大的黑色羽翼。她的标志性武器是一把巨大的暗黑之剑，比她的身体还要高，剑身宽大，带有锯齿状脊部、圆形青铜镶嵌物以及缠绕的剑柄。
+
+左上角信息卡：添加一个细长的黑色矩形框，包含四行文字，格式严格参照角色设定集：NAME: {argument name="character name" default="Angie"}；ROLE: {argument name="role" default="Dark Sword Angel"}；CORE MOOD: {argument name="core mood" default="Stoic, ominous, poised"}；VISUAL SIGNATURE: {argument name="visual signature" default="Twin black wings, red hood, giant dark sword, glowing amber eyes"}。
+
+布局与可见元素数量：包含 1 个大型中心主姿势：全身四分之三侧视图，自信站立，剑竖立在身侧，翅膀在身后展开。左侧包含 3 个转向视图，分别标注为“中性”、“背面”和“侧面”。右侧包含 5 个动作姿势研究，分别标注为“坐姿”、“倚靠”、“蹲姿”、“俯视”和“仰视”。左下角包含 3 个黑色剪影研究，展示不同的翅膀与剑的轮廓形状。底部中心包含 4 个表情研究头像，均戴着兜帽，在冷静的琥珀色眼眸表情中展现细微差异。右下角包含 6 个细节研究面板：兜帽面部特写、后脑头发特写、黑色羽毛、剑刃细节、连衣裙/腰带/裙摆细节以及戴手套的手部细节。
+
+视觉风格：高级游戏/动漫角色设计项目，线条清晰，采用红、黑、米、青铜和琥珀色的电影级柔和色调，具备逼真的布料和皮革纹理、羽毛细节、细微的环境光遮蔽，无背景景观。姿势和研究说明使用优雅的草书手写标签，信息卡则使用整洁的衬线字体。
+
+约束条件：确保整个项目作为一份专业的角色参考设定集具有良好的可读性。不要添加额外的角色、姿势、标志、水印或不相关的道具。
+
+[English]
+Goal: Create a polished anime-style character sheet for {argument name="character name" default="Angie"}, a dark fantasy sword angel girl, on a clean white studio background.
+
+Canvas: Wide horizontal character design board, approximately 16:9, with lots of white space and small handwritten annotation labels. Render in high-detail 3D/anime concept art style with soft shadows under each pose.
+
+Character design: A stoic, ominous, poised young female warrior called {argument name="character name" default="Angie"}. She has short black bobbed hair, glowing amber eyes, pale skin, and a shadowed face under a red hood. She wears a red-and-cream gothic hooded dress with black leather sleeves, belts, buckles, ruffled trim, fingerless gloves, chunky black boots with red soles, and twin large black feathered wings. Her signature weapon is a massive dark sword, taller than her body, with a broad blade, jagged sawlike spine, circular bronze insets, and a wrapped handle.
+
+Top-left info card: Add a thin black rectangular box with four typed lines exactly formatted like a character sheet: NAME: {argument name="character name" default="Angie"}; ROLE: {argument name="role" default="Dark Sword Angel"}; CORE MOOD: {argument name="core mood" default="Stoic, ominous, poised"}; VISUAL SIGNATURE: {argument name="visual signature" default="Twin black wings, red hood, giant dark sword, glowing amber eyes"}.
+
+Layout and visible element counts: Include exactly 1 large central hero pose: full-body three-quarter view, standing confidently, sword held upright at her side, wings spread behind her. Include exactly 3 turnaround views on the left labeled Neutral, Back, and Profile. Include exactly 5 action pose studies on the right labeled Seated, Leaning, Crouching, Top-Down, and Low-Angle. Include exactly 3 black silhouette studies at bottom-left, showing different wing-and-sword readable shapes. Include exactly 4 expression-study head portraits at bottom-center, all hooded with subtle variations in stoic amber-eyed expressions. Include exactly 6 detail-study panels along the bottom-right: hooded face close-up, back hair close-up, black wing feathers, sword blade detail, dress/belt/skirt detail, and gloved hand detail.
+
+Visual style: Premium game/anime character design sheet, crisp linework, cinematic muted palette of red, black, cream, bronze, and amber, realistic fabric and leather textures, feather detail, subtle ambient occlusion, no background scenery. Use elegant cursive handwritten labels for pose and study captions, while the info card uses clean serif type.
+
+Constraints: Keep the whole board readable as a single professional character reference sheet. Do not add extra characters, extra poses, logos, watermarks, or unrelated props.
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2066447640829505886) | 2026-06-15
+
+---
+
+### 🧍 例 1633：带有动态克隆的时尚大片
+
+![带有动态克隆的时尚大片](../../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E5%85%8B%E9%9A%86%E7%9A%84%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影质感的时尚大片摄影，主角为一位 {argument name="subject" default="女性"}，面部特征与参考图完全一致，身穿 {argument name="outfit" default="超大款蓝色短袖衬衫搭配黑色领带"}、宽松黑色工装裤、黑色运动鞋并佩戴黑色鸭舌帽。她自信地站在干净简约的白墙前，强烈的直射阳光投射出锐利且具有几何感的阴影。姿态放松时尚，一只手轻触帽檐。画面两侧有该女性的动态克隆走过，呈现出电影级的运动模糊效果。广角低角度拍摄，青橙色调，奢华都市街头美学。背景中，一本高定时尚杂志的封面设计将醒目的大号字体 "{argument name="brand name" default="VAISH"}" 无缝融合在人物身后。超写实纹理，HDR，焦点清晰，高细节，景深，8k 分辨率。
+
+[English]
+Cinematic fashion editorial photography of a {argument name="subject" default="woman"} with identical facial features as the reference image, wearing an {argument name="outfit" default="oversized blue short-sleeve button-down shirt with a black tie"}, loose black baggy cargo jeans, black sneakers, and a black cap. She is standing confidently in front of a clean, minimal white wall, with dramatic direct sunlight casting sharp, strong geometric shadows. Relaxed, stylish pose with one hand touching the brim of her cap. Motion clones of the same woman walk past on both sides with a cinematic motion blur effect. Wide-angle, low-angle shot, teal and orange color grading, luxury urban streetwear aesthetic. In the background, a high-fashion magazine cover design features the large, bold typography text "{argument name="brand name" default="VAISH"}" seamlessly integrated behind her. Ultra-realistic texture, HDR, sharp focus, high detail, depth of field, 8k resolution.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2066375158521364496) | 2026-06-15
+
+---
+
+### 🧍 例 1650：海滩烟火大会上优雅的日式浴衣少女
+
+![海滩烟火大会上优雅的日式浴衣少女](../../images/%E6%B5%B7%E6%BB%A9%E7%83%9F%E7%81%AB%E5%A4%A7%E4%BC%9A%E4%B8%8A%E4%BC%98%E9%9B%85%E7%9A%84%E6%97%A5%E5%BC%8F%E6%B5%B4%E8%A1%A3%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[人物] 参考图像 1 和图像 2
+
+[姿势与表情]
+
+在 {argument name="location" default="海滩祭典场景"} 背景下，绚丽的烟火正在绽放。人物身体侧转 90 度，头部转向镜头直视前方。她嘴角微微上扬，带着优雅而含蓄的微笑，眼神中流露出神秘与怀旧感，倒映着照亮夜空的烟火光芒。
+
+[服装]
+
+身着传统日式浴衣，底色为淡雅的 {argument name="clothing color" default="淡紫色"}，上面精细地印有亮白色和深紫色的花卉图案。腰间系着一条干净鲜艳的粉色腰带（Obi），与上衣和谐搭配，成为优雅的点缀。
+
+[发型与妆容细节]
+
+采用 {argument name="hairstyle" default="低发髻造型"}，刘海自然中分并向两侧梳理，头发整齐地盘在脑后。发髻侧面装饰着一朵与浴衣相配的大型白色花朵发饰，增添了一抹亮色。妆容强调纯净与古典美，淡粉色唇妆与通透水润的底妆相得益彰。
+
+[光影与光线方向]
+
+在夜晚昏暗的余晖基调中，头顶上方巨大烟火绽放出的强烈金色光芒，在人物的头发、脸部侧面和肩部线条上勾勒出绚丽的高光。人物面部无直接强光照射。
+
+[质感与色彩氛围]
+
+漫天绚烂的金色烟火、浴衣的淡紫色与粉色腰带交织在一起，营造出极其浪漫梦幻的祭典色彩氛围。浴衣棉质面料的柔软质感与夜空中散落的烟火碎片光影形成对比，将梦幻氛围发挥到极致。
+
+[胶片与相机镜头景深、角度]
+
+使用 f/2.0 光圈、1/125 秒快门速度、ISO 800 和 50mm 标准定焦镜头拍摄。采用正面平视角度，以人物上半身为中心，平衡地捕捉夜空中的烟火。为了符合夜间烟火摄影的特点，大光圈设置确保了焦点精准落在人物身上，背景中的观众和远方地平线上的烟火则呈现出美丽而柔和的虚化效果。
+
+[背景元素（可选）]
+
+夏季海滩夜晚的大型烟火祭典场景。人物头顶上方的夜空中，无数金色烟火巨大而壮观地绽放，远处的海岸线附近还有另一簇烟火升起。下方的沙滩上，众多观众坐着享受祭典，增添了现场感。
+
+[签名] 右下角有一个由 Meta 运营的 Threads 小图标，上方用白色小字草书写着“CHAse”作为签名。
+
+[English]
+[인물] 이미지1, 이미지 2참조
+
+[인물의 포즈 및 표정]
+
+화려한 불꽃놀이가 펼쳐지는 {argument name="장소" default="해변 축제 현장"}에서 몸을 90도 측면으로 돌린 채 고개를 정면으로 돌려 카메라 정면을 바라보고 있습니다. 입꼬리를 살짝 올린 은은하고 우아한 미소를 짓고 있으며, 밤하늘을 수놓은 불꽃 빛을 받아 신비롭고 아련한 눈빛을 보여줍니다.
+
+[인물 의상]
+
+은은한 파스텔조의 {argument name="의상 색상" default="라벤더색"} 바탕에 화사한 화이트와 짙은 보라색 꽃무늬가 정교하게 새겨진 일본 전통 의상 유카타를 입고 있습니다. 허리에는 상의와 잘 어우러지는 깔끔하고 선명한 핑크색 오비(허리띠)를 단정하게 둘러 우아한 포인트를 주었습니다.
+
+[인물 헤어스타일 및 메이크업 디테일]
+
+앞머리를 가르마 타서 옆으로 자연스럽게 넘기고, 머리를 뒤로 깔끔하게 묶어 연출한 {argument name="헤어스타일" default="로우번 스타일"}입니다. 번 헤어 옆쪽에는 유카타와 어울리는 커다란 화이트 꽃 모양의 헤어 장식을 달아 화사함을 더했습니다. 메이크업은 투명하고 촉촉한 피부 표현에 은은한 핑크빛 립을 매치해 청순하고 고전적인 미를 강조했습니다.
+
+[조명 및 빛 방향]
+
+기본적인 밤의 어스름한 잔광 속에서, 머리 위 하늘에서 터지는 대형 불꽃놀이의 강렬한 황금빛 조명이 인물의 머릿결과 얼굴 측면, 그리고 어깨 라인을 따라 화려한 하이라이트를 만들어내고 있습니다. 인물의 얼굴에는 직접적인 조명이 없습니다.
+
+[질감과 색감 무드]
+
+하늘을 가득 채운 화려한 황금빛 불꽃송이들과 유카타의 은은한 보라색, 핑크색 오비가 어우러져 극도로 낭만적이고 환상적인 축제의 색감 무드를 자아냅니다. 유카타 천의 부드러운 코튼 질감과 밤하늘에 흩뿌려지는 불꽃의 반짝이는 파편 질감이 대비되어 몽환적인 분위기를 극대화합니다.
+
+[필름 및 카메라 렌즈 심도, 앵글]
+
+조리개 f/2.0, 셔터 스피드 1/125초, ISO 800, 초점 거리 50mm 표준 단렌즈를 사용하여 촬영되었습니다. 인물의 상반신을 중심으로 밤하늘의 불꽃을 균형 있게 포착한 정면 눈높이 앵글입니다. 야간 불꽃놀이 촬영에 맞춰 조리개를 개방하여 인물에게 정확히 초점을 맞추었으며, 뒷배경의 관중들과 먼 수평선의 불꽃은 아름답고 몽글몽글한 보케(Bokeh)로 아웃포커싱 처리되었습니다.
+
+[배경 요소 (옵션)]
+
+여름밤 해변에서 열리는 대규모 불꽃축제 현장입니다. 인물의 머리 위 밤하늘에는 수많은 황금빛 불꽃들이 거대하고 화려하게 터지고 있으며, 저 멀리 바다 수평선 근처에서도 또 다른 불꽃이 솟아오르고 있습니다. 아래쪽 해변가 백사장에는 수많은 관람객이 앉아서 축제를 즐기고 있는 모습이 낮게 깔려 있어 현장감을 더합니다.
+
+[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다.
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2066334123526897921) | 2026-06-15
+
+---
+
+### 🧍 例 1652：哥特风狐妖巫女
+
+![哥特风狐妖巫女](../../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E7%8B%90%E5%A6%96%E5%B7%AB%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫插画，主角是一位原创狐耳巫女，置身于暗黑哥特可爱风（gothic-kawaii）的祭典场景中。角色为 {argument name="character name" default="一位无名狐妖巫女"}，全身像，呈跪姿，身体微微前倾，直视观众，眼神慵懒，半睁的粉色双眸，微张的小嘴，脸颊泛红，流露出羞涩而忧郁的神情。她留着极长的淡薰衣草白发，分为两条垂下的发束，刘海凌乱，长着毛茸茸的狐耳，刘海上别着两个小巧的十字形发夹。她的服装是一套华丽且略显暴露的叠层和风巫女装，配色为 {argument name="main color palette" default="灰薰衣草色、柔粉色、黑色和灰白色"}：宽松的露肩袖、花卉图案面料、蕾丝花边、丝带、绳结、过膝袜、吊带袜、凉鞋以及许多悬挂的饰品。保持服装的性感度，但不要过于露骨，严禁裸露。
+
+构图：肖像画布，9:16 比例，角色居中并占据画面大部分空间。她的右手握着一根装饰华丽的仪式杖，垂直倾斜于画面右侧，杖上挂满了丝带、珠子、流苏、纸条、小饰品，以及一张写有 {argument name="talisman text" default="満夢祓え"} 的垂直符咒。她周围有 6 个醒目的可爱神秘学/祭典饰品：左侧发丝附近有一个小兔子挂件，左侧有一个挂着纸条的圆形玻璃风铃，右下方有一个微型骷髅挂件，左上方有一个心形顶端的魔杖或饰品，左侧有一个悬挂的祈福纸签，以及杖上的一簇丝带和珠子。背景点缀许多微小的心形、棋盘格、墨点和纸屑，但不要添加其他主要角色。
+
+背景与风格：深色纹理的夜空背景，背后有一轮巨大的苍白圆月或光环，带有风格化的日式云纹、复古网点印刷质感、刮痕水墨画效果、分层拼贴细节，以及柔和的紫粉色单色调氛围。采用细腻的高细节线条、柔和的水彩阴影、密集的装饰性微细节、梦幻的哥特萝莉情绪，以及略带颗粒感的印刷海报质感。光影应低对比度且富有情绪感，在头发、耳朵、面部、长袍褶皱和饰品上呈现苍白的高光。避免照片写实感，将其制作成一张精致、复杂的动漫主视觉图。
+
+[English]
+Create a vertical anime illustration of a single original fox-eared shrine maiden girl in a dark gothic-kawaii festival setting. The character is {argument name="character name" default="a nameless kitsune shrine maiden"}, shown full body in a kneeling, slightly leaning-forward pose, looking directly at the viewer with sleepy half-lidded pink eyes, a small open mouth, soft blush, and a coy melancholic expression. She has very long pale lavender-white hair in twin trailing sections, messy bangs, fluffy fox ears, and two small cross-shaped hair clips on her bangs. Her outfit is an ornate, revealing layered kimono-inspired shrine maiden costume in {argument name="main color palette" default="dusty lavender, muted pink, black, and off-white"}: loose off-shoulder robe sleeves, floral patterned fabric, lace trim, ribbons, cords, thigh-high stockings, garter straps, sandals, and many dangling charms. Keep the clothing sensual but non-explicit, with no nudity.
+
+Composition: portrait canvas, 9:16 aspect ratio, character centered and filling most of the frame. Her right hand holds a decorated ritual pole or staff angled vertically on the right side of the image, covered with ribbons, beads, tassels, paper strips, small ornaments, and a vertical paper talisman reading {argument name="talisman text" default="満夢祓え"}. Around her are exactly 6 prominent cute occult/festival ornaments: 1 small bunny charm near her left hair, 1 round glass wind chime with a hanging paper strip on the left, 1 tiny skull charm near the lower right, 1 heart-topped wand or ornament near the upper left, 1 dangling paper prayer tag on the left, and 1 cluster of ribbons and beads on the staff. Add many tiny hearts, checker squares, ink speckles, and paper confetti as background accents, but do not add extra main characters.
+
+Background and style: dark textured night backdrop with a large pale circular moon or halo behind her, stylized Japanese cloud bars, grunge halftone printing texture, scratched ink wash, layered collage details, and a muted violet-pink monochrome atmosphere. Use delicate high-detail line art, soft watercolor shading, dense decorative micro-details, a dreamy gothic lolita mood, and a slightly grainy printed-poster finish. Lighting should be low contrast and moody, with pale highlights on the hair, ears, face, robe folds, and charms. Avoid photorealism; make it a polished, intricate anime key visual.
+```
+
+**来源：** [@🌙Lun4.（ルナ）](https://x.com/L_u_n_4___/status/2066325763004170268) | 2026-06-15
+
+---
+

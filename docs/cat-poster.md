@@ -6916,3 +6916,409 @@ Constraints: Keep the exact count of 5 characters and 5 bottom cards. Emphasize 
 
 ---
 
+### 🎴 例 1585：西班牙世界杯足球海报
+
+![西班牙世界杯足球海报](../../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为参加 FIFA 世界杯的西班牙国家足球队创作一张戏剧性的方形体育海报。画面中心是一位年轻的男性足球运动员，肤色为 {argument name="skin tone" default="中棕色皮肤"}，留着深色短卷发，自信地坐在拥挤体育场内堆叠的粗糙混凝土台阶上。他身穿带有黄色肩条的红色西班牙球衣，球衣上有西班牙队徽和数字 {argument name="jersey number" default="19"}，搭配带有黄色装饰的蓝色短裤、红色球袜和金属质感足球鞋；将一只脚靠近或轻放在一个带有深蓝色、橙色和黑色面板图案的现代白色比赛用球上。他的面部应通过柔和的矩形模糊处理进行遮挡，而身体其余部分则保持清晰写实。在他身后，顶部添加巨大的粗体大写字母 {argument name="headline text" default="ESPAÑA"}，字体为海军蓝配金色轮廓，部分被球员遮挡。在球员和文字后方斜向绘制红-黄-红的西班牙国旗动态宽笔触，黄色条带上带有小型的西班牙国徽。背景中精确添加三个微弱的纹章/足球协会元素：左上角一个巨大的淡色皇冠标志，右上角一个带有皇冠和星星的金色盾牌徽章，以及球员左侧旗帜笔触内的一个小型国徽。环境设定为夜晚激烈的足球场，配有明亮的泛光灯、烟雾缭绕的氛围、欢呼的人群、散落的西班牙国旗、温暖的火花，以及两侧西班牙地标建筑的轮廓。采用电影级体育摄影与图形海报设计相结合的风格，强调高对比度、颗粒质感、金色光影、体积感烟雾、浅景深，营造出胜利的赛事氛围。保持构图为垂直方形、居中、高端编辑风格，除主标题 {argument name="headline text" default="ESPAÑA"} 外，避免出现其他可读文本。
+
+[English]
+Create a dramatic square sports poster for Spain’s national football team at the FIFA World Cup. Center a young male footballer with {argument name="skin tone" default="medium-brown skin"} and short curly dark hair, seated confidently on stacked rough concrete podium blocks in a packed stadium. He wears a red Spain jersey with yellow shoulder stripes, the Spain crest, and the number {argument name="jersey number" default="19"}, blue shorts with yellow accents, red socks, and metallic football boots; place one foot near or lightly on a modern white match ball with dark blue, orange, and black panel graphics. His face should be intentionally obscured by a soft rectangular blur, while the rest of the body is sharp and realistic. Behind him, add huge bold uppercase typography reading {argument name="headline text" default="ESPAÑA"} across the top in navy blue with a gold outline, partially hidden behind the player. Paint broad dynamic brush strokes of the Spanish flag, red-yellow-red, diagonally behind the player and text, with a small Spain coat of arms on the yellow band. Add exactly three faint heraldic/football federation elements in the background: a large pale crown emblem on the upper left, a gold shield crest with a crown and star on the upper right, and the small coat of arms within the flag brush stroke near the player’s left side. The environment is an intense football stadium at night with bright floodlights, smoky atmosphere, cheering crowd, scattered Spanish flags, warm sparks, and architectural hints of Spanish landmarks on both sides. Use cinematic sports photography mixed with graphic poster design, high contrast, gritty texture, golden light, volumetric smoke, shallow depth of field, and a triumphant tournament mood. Keep the composition vertical-square, centered, premium editorial, and avoid extra readable text beyond the main word {argument name="headline text" default="ESPAÑA"}.
+```
+
+**来源：** [@LAPTOP LIFESTYLE BLOGGER](https://x.com/MonetizationDon/status/2066521607217016935) | 2026-06-15
+
+---
+
+### 🎴 例 1589：Cinematic GPT Image 2 森林传送门横幅
+
+![Cinematic GPT Image 2 森林传送门横幅](../../images/Cinematic%20GPT%20Image%202%20%E6%A3%AE%E6%9E%97%E4%BC%A0%E9%80%81%E9%97%A8%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的宽幅宣传横幅，展示 {argument name="product name" default="GPT Image 2"}，背景设定在夜晚的暗黑魔法森林中。画面右侧是一棵巨大的古树树干，树干上的空洞化作一个发光的橙色圆形传送门；透过传送门可以看到风暴云层下雾气缭绕的蓝色山谷。传送门周围环绕着温暖的火花，琥珀色的边缘光映照在扭曲的树根、湿润的岩石、苔藓和森林地面上。左侧保持较暗的色调，呈现高大的树木剪影、蓝色薄雾，并留出适合排版的负空间。在左下角添加 2 个清晰可见的文本元素：一个醒目的白色大标题，内容为“{argument name="headline text" default="GPT Image 2"}”，下方是一个较小的白色副标题，内容为“{argument name="subtitle text" default="现已登陆 Blyth AI"}”。采用 16:9 横向画布，使用高对比度的青橙色调，呈现照片级的奇幻环境、体积雾效果、浅景深、戏剧性的电影级灯光，确保排版清晰易读，无需额外添加 Logo、水印或其他文字。
+
+[English]
+Create a cinematic wide promotional banner for {argument name="product name" default="GPT Image 2"} set in a dark enchanted forest at night. The scene shows one massive ancient tree trunk on the right with a hollow opening transformed into one glowing circular orange portal; through the portal is a misty blue mountain valley under stormy clouds. Surround the portal with warm sparks and amber rim light reflecting on twisted roots, wet stones, moss, and the forest floor. The left side should remain darker with tall tree silhouettes, blue fog, and negative space for typography. Add exactly 2 visible text elements in the lower-left corner: a large white headline reading “{argument name="headline text" default="GPT Image 2"}” and a smaller white subtitle below reading “{argument name="subtitle text" default="Now on Blyth AI"}”. Use a 16:9 landscape canvas, high-contrast teal-and-orange color grading, photorealistic fantasy environment, volumetric mist, shallow depth of field, dramatic cinematic lighting, crisp readable typography, no extra logos, no watermark, and no additional text.
+```
+
+**来源：** [@Blyth AI](https://x.com/blyth_ai/status/2066513035808714983) | 2026-06-15
+
+---
+
+### 🎴 例 1592：奢华足球迷房间
+
+![奢华足球迷房间](../../images/%E5%A5%A2%E5%8D%8E%E8%B6%B3%E7%90%83%E8%BF%B7%E6%88%BF%E9%97%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感运动迷房间夜景，舒适奢华的室内设计，配有温暖的琥珀色灯光和蓝色 LED 点缀。一位时尚的年轻女性随意地坐在抛光木地板上，身穿 {argument name="outfit" default="红色葡萄牙 7 号足球球衣"}，内搭黑色高领衫，穿着超大号褪色灰色宽松牛仔裤、红白配色运动鞋，并戴着黑色太阳镜。自信、放松的姿势，侧头看向一侧。她身后是一张巨大的足球海报，展示了一位 {argument name="background poster" default="传奇 7 号球员"} 在球场氛围中的背影。黑色柜子上亮着明亮的霓虹灯 {argument name="neon text" default="“CR7”"} 标志。现代展示架上摆放着奖杯、足球纪念品、装饰雕塑、汽车模型、植物和环境 LED 灯带。带有蓝色灯光的迷你玻璃门饮料冰箱。奢华足球迷空间美学，浅景深，电影级构图，超精细纹理，木地板上真实的阴影和反射，高端生活方式摄影，35mm 镜头，f/1.8，HDR，照片级真实感，8K，杰作级品质。
+
+[English]
+Ultra-realistic cinematic sports fan room at night, cozy luxury interior with warm amber lighting and blue accent LEDs. A stylish young woman sits casually on a polished wooden floor, wearing a {argument name="outfit" default="red Portugal football jersey with number 7"}, black inner turtleneck, oversized faded gray baggy jeans, red-and-white sneakers, and black sunglasses. Confident, relaxed pose, looking sideways. Behind her is a massive framed football poster showing a {argument name="background poster" default="legendary number 7 player"} from the back in a stadium atmosphere. Bright neon {argument name="neon text" default="“CR7”"} sign glowing on a black cabinet. Modern display shelves with trophies, football memorabilia, decorative sculptures, model cars, plants, and ambient LED strips. Mini glass-door beverage fridge with blue lighting. Luxury football fan cave aesthetic, shallow depth of field, cinematic composition, ultra-detailed textures, realistic shadows and reflections on the wooden floor, premium lifestyle photography, 35mm lens, f/1.8, HDR, photorealistic, 8K, masterpiece quality.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2066509536907907151) | 2026-06-15
+
+---
+
+### 🎴 例 1594：梦幻日式花卉艺术节海报
+
+![梦幻日式花卉艺术节海报](../../images/%E6%A2%A6%E5%B9%BB%E6%97%A5%E5%BC%8F%E8%8A%B1%E5%8D%89%E8%89%BA%E6%9C%AF%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张优雅的虚构日本艺术节展览海报，采用梦幻的水彩与摄影混合风格，标题为 {argument name="main title" default="苍花幻灯"}，营造出蓝色、青色、珊瑚色和象牙白交织的诗意花卉氛围。
+
+画布：竖版海报，3:4 比例，高分辨率，米白色纸张背景，带有细腻的水彩晕染和精细纹理。构图应呈现出高级画廊/活动海报的质感，空灵且浪漫，并配以精致的日式排版。
+
+布局：将大型竖排日文主标题置于左侧，占据左上至左中区域。在其上方添加一行小型活动名称 {argument name="event name" default="苍花市艺术祭 2026"}。在标题下方添加一行简短的日文诗意副标题。下方放置一条纤细的装饰分割线，随后是日期范围、场馆和地点信息。底部边缘放置一行微小的页脚文字。在右下半部分，展示一位侧身向左的年轻女性，她置身于花丛中；她的面部被一个柔和的方形米色模糊遮罩刻意遮挡，不显示任何五官。
+
+主体细节：仅限一位女性人物。她留着齐肩深海军黑色短发，发梢为鲜艳的洋红色，发丝略显凌乱且带有背光效果。她身穿一件半透明的飘逸和服式披肩或连衣裙，上面印有蓝色和珊瑚色的花朵。她姿态平静且沉思，头部微微上扬，画面呈现胸部以上部分。人物自然地融入到手绘的植物环境中。
+
+花卉与水彩设计：创作一大片对角线分布的水彩花簇和墨水晕染，从左上角横跨中心延伸至右侧，以深靛蓝、钴蓝、绿松石色和青色为主色调，点缀着温暖的珊瑚色、桃色和橙色花朵。使用许多精致纤细的植物茎秆、细小的叶片和花朵，如同压花或墨水插画般叠加。底部前景是一片柔和的野花丛，带有模糊的焦外成像效果：珊瑚色的波斯菊状花朵、蓝色花朵、浅色茎秆和发光的亮点。
+
+文本内容：包含 7 个可见文本块：1) 顶部小型活动名称：{argument name="event name" default="苍花市艺术祭 2026"}；2) 大型主标题：{argument name="main title" default="苍花幻灯"}；3) 诗意副标题：{argument name="subtitle" default="色彩が記憶に触れる、ひと夜限りの幻想展示"}；4) 日期行：{argument name="date line" default="2026.10.17 Sat — 11.03 Tue"}；5) 场馆行："星雫ホール / HOSHIZUKU Hall"；6) 地点行："苍花市・水庭区"；7) 底部页脚："光、花、そして揺らぐ感情の輪郭を描く。    入場自由 / Exhibition Poster"。保持日文字体清晰易读，主标题使用大型优雅的明朝体衬线字体，所有小字采用精致的海军蓝色字体。
+
+视觉风格：明亮的水彩晕染、酒精墨水纹理、精细的植物线条艺术、柔软的纸张质感、花丛处电影般的浅景深、精致的博物馆海报设计、考究的留白。使用与靛蓝色颜料相匹配的深蓝色排版。整体氛围安静、梦幻、诗意且具有展览感。
+
+约束条件：无 Logo，无二维码，除上述 7 个文本块外无额外文字，无写实的清晰五官（面部必须保持被方形模糊遮罩覆盖），布局不杂乱，保持宽裕的留白和精致的日式海报美学。
+
+[English]
+Goal: Create an elegant fictional Japanese art festival exhibition poster in a dreamy watercolor-and-photography mixed style, titled {argument name="main title" default="蒼花幻灯"}, with a poetic blue, cyan, coral, and ivory floral atmosphere.
+
+Canvas: Vertical poster, 3:4 aspect ratio, high resolution, off-white paper background with subtle watercolor staining and fine grain. The composition should feel like a premium gallery/event poster, airy and romantic, with refined Japanese typography.
+
+Layout: Place the large vertical Japanese main title on the left side, occupying the upper-left to mid-left area. Above it, add a small event line reading {argument name="event name" default="蒼花市芸術祭 2026"}. Beneath the title, add a short poetic subtitle in small Japanese text. Below that, place a thin decorative divider line, then the date range, venue, and location information. Put a tiny footer line along the bottom edge. On the right lower half, show one young woman in profile facing left, standing among flowers; her face is intentionally covered by a soft square beige blur/mask with no facial features visible.
+
+Subject details: One female figure only. She has shoulder-length dark navy-black hair with vivid magenta-pink tips, slightly messy and backlit. She wears a translucent flowing kimono-like shawl or dress printed with blue and coral flowers. Her pose is calm and contemplative, head angled slightly upward, seen from the chest up. The figure blends naturally into the painted botanical environment.
+
+Floral and watercolor design: Create a large diagonal cloud of watercolor blooms and ink washes sweeping from the upper left across the center to the right side, dominated by deep indigo, cobalt blue, turquoise, and cyan, with warm coral, peach, and orange blossoms scattered through it. Use many delicate thin botanical stems, tiny leaves, and small flowers overlaid like pressed flowers or ink illustrations. The bottom foreground is a soft field of wildflowers with blurred bokeh-like depth: coral cosmos-like flowers, blue blossoms, pale stems, and glowing highlights.
+
+Text content: Include exactly 7 visible text blocks: 1) top small event name: {argument name="event name" default="蒼花市芸術祭 2026"}; 2) large main title: {argument name="main title" default="蒼花幻灯"}; 3) poetic subtitle: {argument name="subtitle" default="色彩が記憶に触れる、ひと夜限りの幻想展示"}; 4) date line: {argument name="date line" default="2026.10.17 Sat — 11.03 Tue"}; 5) venue line: "星雫ホール / HOSHIZUKU Hall"; 6) location line: "蒼花市・水庭区"; 7) bottom footer: "光、花、そして揺らぐ感情の輪郭を描く。    入場自由 / Exhibition Poster". Keep the Japanese typography crisp and legible, with the main title in a large elegant Mincho-style serif font and all smaller text in refined navy lettering.
+
+Visual style: Luminous watercolor wash, alcohol ink textures, fine botanical line art, soft paper texture, cinematic shallow depth of field at the flower field, delicate museum-poster design, refined negative space. Use deep blue typography matching the indigo paint. The mood is quiet, magical, poetic, and exhibition-like.
+
+Constraints: No logo, no QR code, no extra text beyond the 7 text blocks, no realistic sharp facial features because the face must remain covered by the square blur, no cluttered layout, maintain generous margins and a sophisticated Japanese poster aesthetic.
+```
+
+**来源：** [@NIKKO](https://x.com/AIArtAlchemist/status/2066499810744762863) | 2026-06-15
+
+---
+
+### 🎴 例 1596：超现实主义日本日清雪景广告
+
+![超现实主义日本日清雪景广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%97%A5%E6%9C%AC%E6%97%A5%E6%B8%85%E9%9B%AA%E6%99%AF%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand" default="NISSIN"} 杯面创作一张超现实主义的日本广告拼贴画，融合雪景田园风光、互联网文化、AI 图像以及荒诞的产品植入。
+
+画布：宽横幅，比例约为 16:9，背景为明亮的青色冬日天空和雪原，采用光泽感商业合成风格，包含照片级真实感的物体、柔和的辉光效果以及夸张的广告级色彩饱和度。
+
+主体：画面中左侧前景，一位身穿白色蕾丝上衣的年轻金发女性面向观众。她的脸部被一个巨大的棕色方形遮挡块刻意遮盖。她左手拿着一台打开的银色笔记本电脑/平板电脑，右手托着一款杯面产品。杯子上标有牛奶海鲜面口味，包装带有色彩鲜艳的日文，并配有奶油质感的速食面盖。一个带有两根天线、类似吉祥物的小型绿色机器人/外星人站在杯面之上或之后；其脸部/身体被一个小绿色方块部分模糊处理。
+
+文字与品牌：左上角显示一个红色的 {argument name="logo text" default="NISSIN"} 徽章，下方有小号日文“日清商品”。在左上方的天空中放置一个巨大的白色 Twitter 鸟图标。左下方至中下部有超大圆润的日文标题文字 {argument name="headline text" default="あぁ、チーズ感。"}，采用带有柔和阴影的光泽橙黄色 3D 字体，横跨雪地和前景。
+
+背景元素：创作一个雪景，左侧有白色的树木，右侧有起伏的雪丘、栅栏以及农舍或谷仓。在右上方的天空中，展示一个由霓虹电路组成的巨大发光半透明蓝色数字大脑。在周围添加闪烁的数据粒子和淡淡的界面标记。
+
+浮动对象计数：天空中需包含 5 个浮动气球/球体元素：1 个标有“internet”的热气球，1 个标有“Orotier”的较小热气球，1 个标有“SNS”（出现两次）的大型热气球，1 个标有“Digital”的发光玻璃球，以及 1 个标有“Oratier”的小型橙黄色热气球。
+
+前景与中景对象计数：女性旁边的左侧雪地上需包含 3 个食品/饮料物品：1 个装有红酒的酒杯，1 个绿色酒瓶，以及女性手中持有的 1 个杯面。右下中心附近的雪地上需包含 2 只躺着的猪。最右侧需包含 1 只拿着竹子站立的熊猫，雪地上散落着额外的竹叶。雪地中景需包含 2 名正在使用设备的孩子：一名身穿红条纹衬衫的孩子在猪附近奔跑/跪着时拿着平板电脑，另一名孩子在右侧农舍附近拿着笔记本电脑/平板电脑。两名孩子的脸部均被模糊或遮盖。在孩子附近被雪半掩埋的雪地中，需包含 1 辆深色光泽的未来派载具或雪橇，并带有蓝色发光高光。
+
+风格限制：使图像呈现出刻意的混乱感和模因（meme）感，如同在测试 AI 生成的日本广告中的文字渲染效果。在指定位置保留可读文字，但允许小标签上出现轻微不完美的 AI 字体。使用明亮的日光、清脆的雪景、商业产品照明以及无缝但怪诞的照片合成技术。除指定的数量外，请勿添加额外的人员、动物、徽标或标题文字。
+
+[English]
+Goal: Create a surreal Japanese advertising collage for {argument name="brand" default="NISSIN"} cup noodles, mixing a snowy pastoral landscape, internet culture, AI imagery, and absurd product placement.
+
+Canvas: Wide horizontal banner, approximately 16:9, bright cyan winter sky and snowfield background, glossy commercial-composite style with photorealistic objects, soft glow effects, and exaggerated ad-like color saturation.
+
+Main subject: Center-left foreground, a young blonde woman in a white lace top faces the viewer. Her face is intentionally obscured by a large flat tan square censor block. She holds an open silver laptop/tablet in her left hand and presents a cup noodle product on her right palm. The cup is labeled as a milk seafood noodle flavor, with colorful Japanese packaging and a creamy instant noodle lid. A small green mascot-like robot/alien with two antennae stands on or behind the noodle cup; its face/body is partly blurred by a small green square.
+
+Text and branding: Top-left corner shows a red {argument name="logo text" default="NISSIN"} badge with small Japanese text beneath it reading 日清商品. Place a large white Twitter bird icon nearby in the upper-left sky. Bottom-left to lower-center has oversized rounded Japanese headline text {argument name="headline text" default="あぁ、チーズ感。"} in glossy orange-yellow 3D lettering with a soft shadow, spanning across the snow and foreground.
+
+Background elements: Create a snowy landscape with white trees on the left, rolling snow hills, fences, and a farmhouse or barn on the right. In the upper-right sky, show a huge glowing translucent blue digital brain made of neon circuitry. Add sparkling data particles and faint interface marks around it.
+
+Counted floating objects: Include exactly 5 floating balloon/orb elements in the sky: 1 hot-air balloon labeled “internet,” 1 smaller hot-air balloon labeled “Orotier,” 1 large hot-air balloon labeled “SNS” twice, 1 glowing glass orb labeled “Digital,” and 1 small orange-yellow hot-air balloon labeled “Oratier.”
+
+Counted foreground and midground objects: Include exactly 3 food/drink items on the left snow beside the woman: 1 wine glass with red wine, 1 green wine bottle, and 1 cup noodle held in the woman’s hand. Include exactly 2 pigs lying on the snow near the lower-right center. Include exactly 1 panda standing at far right holding bamboo, with extra bamboo leaves on the snow. Include exactly 2 children in the snowy midground using devices: one child in a red striped shirt holding a tablet while running/kneeling near the pigs, and one child near the right farmhouse holding a laptop/tablet. Both children’s faces are blurred or covered. Include exactly 1 dark glossy futuristic vehicle or sled partially buried in snow near the children, with blue glowing highlights.
+
+Style constraints: Make the image intentionally chaotic and meme-like, as if testing text rendering in an AI-generated Japanese ad. Preserve readable text where specified, but allow minor imperfect AI typography on small labels. Use bright daylight, crisp snow, commercial product lighting, and seamless but uncanny photomontage compositing. Do not add extra people, animals, logos, or headline text beyond the specified counts.
+```
+
+**来源：** [@bunassyi](https://x.com/bunassyi74/status/2066488037199204674) | 2026-06-15
+
+---
+
+### 🎴 例 1597：超现实 NISSIN 牛奶海鲜杯面广告
+
+![超现实 NISSIN 牛奶海鲜杯面广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20NISSIN%20%E7%89%9B%E5%A5%B6%E6%B5%B7%E9%B2%9C%E6%9D%AF%E9%9D%A2%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="NISSIN"} 杯面创作一幅明亮且超现实的日式食品广告，强调奶油与芝士的主题。
+
+画布：宽幅横向广告牌构图，16:9 比例，光泽感商业摄影插画风格，饱和的日光色调，清晰的产品焦点，俏皮荒诞的食品广告氛围。
+
+布局：画面中央为一位胸部以上的年轻女性，背景是蓝天下的绿色牧场。她留着长长的波浪状 {argument name="hair color" default="金黄色"} 头发，身穿白色蕾丝衬衫。她的面部被一个垂直的长方形暖米色至棕色渐变遮挡块刻意遮盖，隐藏了所有五官。她的右手拿着一个超大号方便面杯，靠近画面右侧，略微朝向观众。放置两个红色的 NISSIN 盾牌标志：左上角 1 个，左下角 1 个。在底部横跨一行醒目的黑色手写日文标语：{argument name="slogan text" default="あぁ、チーズ感！ミルクシーフード"}。
+
+产品细节：杯身上应以醒目的蓝色粗体字标明 {argument name="product name" default="MILK SEAFOOD"}，并带有较小的 NISSIN 和 Cup Noodle 风格标识。杯子为白色，带有蓝色条纹和红色/黄色的小型日文标签装饰。杯缘处展示浓稠的浅黄色融化芝士或奶油滴落效果，杯后可见升腾的蒸汽。
+
+背景与元素计数：明亮的田园牧场，有起伏的绿色山丘和蓝天。包含 4 只显眼的农场动物：2 只黑白花色的荷斯坦奶牛、1 只白羊和 1 只白山羊。左侧的奶牛站在女性左肩旁，羊在它旁边，山羊站在产品杯的右侧，第二只奶牛站在最右侧边缘。在山丘上散布 7 只微小的远景奶牛以增加深度。包含 4 朵漂浮的奶油状云朵：左上角 1 朵大奶油团，右上角 1 朵大奶油团，左侧地平线 1 朵小奶油云，右侧地平线 1 朵小奶油云。在底部标语后的边缘处添加一道厚实的奶油色浅黄色波浪边框。
+
+视觉风格：超写实广告拼贴，比例略显夸张，女性和杯子采用干净的摄影棚灯光，鲜艳的蓝天，郁郁葱葱的绿色牧场，奶油般的灰白色食品质感，风格奇幻超现实，但如同日式方便面电视广告截图般精致。
+
+限制：保持面部完全被长方形遮挡块遮盖，确保所有文字清晰可辨，不要添加额外的标志、动物、杯子、人物或标语，并避免出现水印或社交媒体 UI。
+
+[English]
+Goal: Create a bright surreal Japanese food advertisement for {argument name="brand name" default="NISSIN"} cup noodles, emphasizing a creamy dairy-and-cheese theme.
+
+Canvas: Wide horizontal billboard composition, 16:9 aspect ratio, glossy commercial photo-illustration style, saturated daylight colors, sharp product focus, playful absurdist food-advertising mood.
+
+Layout: Center a young woman from chest up in a green pasture under a clear blue sky. She has long wavy {argument name="hair color" default="golden yellow"} hair and wears a white lace blouse. Her face is intentionally covered by a flat vertical rectangular censor block in warm beige-to-brown gradient, hiding all facial features. Her right hand holds one oversized instant noodle cup close to the camera on the viewer’s right side, angled slightly toward the viewer. Place two red NISSIN shield logos: exactly 1 in the upper-left corner and exactly 1 in the lower-left corner. Put a large black handwritten Japanese slogan across the bottom: {argument name="slogan text" default="あぁ、チーズ感！ミルクシーフード"}.
+
+Product details: The cup should read {argument name="product name" default="MILK SEAFOOD"} in large bold blue letters, with smaller NISSIN and Cup Noodle-style markings. The cup is white with blue stripes and small red/yellow Japanese label accents. Show thick melted pale-yellow cheese or cream dripping over the rim of the cup, with visible steam rising behind it.
+
+Background and counted elements: A bright pastoral dairy field with rolling green hills and a blue sky. Include exactly 4 prominent farm animals: 2 black-and-white Holstein cows, 1 white sheep, and 1 white goat. The left cow stands near the woman’s left shoulder, the sheep is beside it, the goat stands to the right of the product cup, and the second cow stands near the far right edge. Add exactly 7 tiny distant cows scattered on the hills for depth. Include exactly 4 floating cream-shaped clouds: 1 large creamy blob in the top-left corner, 1 large creamy blob in the top-right corner, 1 small cream cloud on the left horizon, and 1 small cream cloud on the right horizon. Add a thick creamy pale-yellow wave border along the bottom edge behind the slogan.
+
+Visual style: Hyperreal advertising collage with slightly exaggerated proportions, clean studio-like lighting on the woman and cup, vivid blue sky, lush green pasture, creamy off-white food textures, whimsical and surreal but polished like a Japanese instant noodle TV commercial still.
+
+Constraints: Keep the face fully obscured by the rectangular block, keep all text legible, do not add extra logos, animals, cups, people, or slogans, and avoid watermarks or social media UI.
+```
+
+**来源：** [@bunassyi](https://x.com/bunassyi74/status/2066486203592114308) | 2026-06-15
+
+---
+
+### 🎴 例 1599：现代时尚杂志封面
+
+![现代时尚杂志封面](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高端时尚杂志封面，顶部以醒目的黑色极简无衬线字体印有标题“{argument name="magazine title" default="VANTAGE"}”。左侧副标题为“SUMMER EDITION”，右侧为“2024 年”。
+
+画面中心是一位时尚的年轻女性，留着蓬松的长波浪卷发，头戴黑色棒球帽，佩戴超大号设计师太阳镜，身穿一件超大款 {argument name="shirt color" default="浅蓝色"} 短袖衬衫，随意地塞进宽松的黑色牛仔裤中，搭配细黑色领带和厚底时尚运动鞋。她自信地倚靠在明亮夏日阳光下的灰白色混凝土墙边，散发出毫不费力的街头风格优雅感和现代时尚编辑的活力。
+
+在她两侧，多位经过重度动态模糊处理的同一女性剪影正匆匆走过，营造出强烈的速度感、动感和城市节奏。模糊的人物保持着相同的服装和发型，但刻意保持模糊不清。
+
+在左下角，印有精致的编辑排版文字：
+“STREET REFINED: THE NEW CODE OF STYLE”
+“MOTION CULTURE: MOVING FAST. LOOKING SHARP.”
+“SUMMER STATE OF MIND: LIGHTER DAYS. BOLDER MOVES.”
+
+奢华时尚杂志美学，写实编辑摄影，Vogue 级封面设计，焦点清晰对准中心主体，两侧动态模糊，高对比度阳光，清晰的阴影，高级色彩分级，电影级构图，城市精致感，当代街头时尚，照片级真实感 8K，专业时尚摄影，杂志封面杰作。
+
+[English]
+A high-end fashion magazine cover titled "{argument name="magazine title" default="VANTAGE"}" in a bold, black, minimalist sans-serif font across the top. The subtext reads "SUMMER EDITION" on the left and "2024" on the right.
+
+The central subject is a stylish young woman with long, voluminous wavy hair, wearing a black baseball cap, oversized designer sunglasses, an oversized {argument name="shirt color" default="light-blue"} short-sleeved button-down shirt loosely tucked into baggy black jeans, a slim black tie, and chunky fashion sneakers. She leans confidently against an off-white concrete wall under bright summer sunlight, exuding effortless street-style elegance and modern fashion-editorial energy.
+
+Flanking her on both sides are multiple heavily motion-blurred silhouettes of the same woman walking past, creating a striking sense of speed, movement, and urban rhythm. The blurred figures maintain the same outfit and hairstyle while remaining intentionally indistinct.
+
+In the bottom left corner, sleek editorial typography reads:
+"STREET REFINED: THE NEW CODE OF STYLE"
+"MOTION CULTURE: MOVING FAST. LOOKING SHARP."
+"SUMMER STATE OF MIND: LIGHTER DAYS. BOLDER MOVES."
+
+Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-quality cover design, sharp focus on the central subject, dynamic motion blur on the sides, high-contrast sunlight, crisp shadows, premium color grading, cinematic composition, urban sophistication, contemporary street fashion, photorealistic 8K, professional fashion photography, magazine-cover masterpiece.
+```
+
+**来源：** [@simply](https://x.com/kingofdairyque/status/2066480589809856717) | 2026-06-15
+
+---
+
+### 🎴 例 1625：奢华时尚产品与生活方式广告
+
+![奢华时尚产品与生活方式广告](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%BA%A7%E5%93%81%E4%B8%8E%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极具时尚感的 {argument name="subjects" default="年轻情侣"}，展现出毫不费力的自信——女性梳着利落的高马尾，身穿白色罗纹短款上衣、深海军蓝配金色的运动短裤，外搭透明虹彩 PVC 防风外套，捕捉着棱镜般的光影反射；男性身穿超大款白色优质棉 T 恤、深海军蓝配金色的慢跑短裤，搭配同款带有微妙全息光泽的透明 PVC 外套——两人都露出了充满感染力的真诚笑容，身体向彼此倾斜，呈现出放松而充满力量的姿态。每人手中拿着一个结构感十足的海军蓝麂皮品牌手拿包，配有拉丝金五金件，呼应了 {argument name="brand identity" default="Dior Sauvage"} 的视觉识别。一个巨大的 Dior Sauvage 香水瓶，瓶身带有 {argument name="color theme" default="深钴蓝色与熔金"} 浮雕字体，悬浮在与肩同高的仿古洞石底座上，捕捉着定向主光，在多面玻璃表面雕琢出耀眼的镜面高光。温暖的琥珀色与赤陶色渐变背景融入氛围中——散落的焦赭色、赭石色和铁锈色的干枯秋叶飘落在光亮的黑曜石反射地面上，如液体般精准地倒映出整个场景。浓密的电影级干冰雾气在脚踝处翻滚，将柔和的光线漫射成空灵的丝缕。灯光：三点式电影布光，45 度角 5600K 暖金色主光，深琥珀色补光，以及勾勒轮廓的清脆蓝白色轮廓光。使用 Phase One IQ4 150MP 相机、Zeiss Otus 85mm f/1.4 镜头拍摄，浅景深，主体清晰，背景虚化为明亮的金色光斑。调色：Kodak Vision3 500T 胶片模拟——丰富的阴影带有青色底色，暖色调中间调，略微过曝的高光。全身商业构图，超写实 8K 极度逼真的 CGI 渲染混合，奢华时尚广告大片美学，《Vogue》杂志编辑级质量，照片级产品摄影。
+
+[English]
+Hyper-stylish {argument name="subjects" default="young couple"}, effortlessly confident — woman with sleek high ponytail, white ribbed crop top, deep navy and gold athletic shorts, transparent iridescent PVC windbreaker catching prismatic light reflections; man in oversized white premium-cotton tee, deep navy and gold jogger shorts, matching transparent PVC jacket with subtle holographic sheen — both sharing an electric, genuine smile, bodies angled toward each other in a relaxed power-lean pose. Each holds a structured branded clutch in navy suede with brushed gold hardware, echoing the {argument name="brand identity" default="Dior Sauvage"} visual identity. A monumental, oversized Dior Sauvage bottle in {argument name="color theme" default="deep cobalt blue with molten gold"} embossed lettering levitates at shoulder height on an aged travertine stone pedestal, catching directional key light that carves glowing specular highlights across its faceted glass surface. Warm amber and terracotta gradient backdrop bleeds into the atmosphere — scattered dry autumn leaves in burnt sienna, ochre, and rust drift across a glossy obsidian reflective floor, mirroring the full scene below with liquid precision. Dense, cinematic dry-ice fog rolls at ankle level, diffusing soft light into ethereal wisps. Lighting: three-point cinematic rig with a warm golden 5600K key light at 45 degrees, a deep amber fill, and a crisp blue-white rim light sculpting contours. Shot on a Phase One IQ4 150MP, Zeiss Otus 85mm f/1.4 lens, shallow depth of field, subject-sharp bokeh dissolving into luminous golden background orbs. Color grading: Kodak Vision3 500T film emulation — rich shadows with teal undertones, warm midtones, slightly blown highlights. Full body commercial frame, ultra-realistic 8K hyperrealistic CGI-render hybrid, luxury fashion advertising campaign aesthetic, Vogue editorial quality, photorealistic product photography.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2066413621601784273) | 2026-06-15
+
+---
+
+### 🎴 例 1628：皮克斯风格故事板海报
+
+![皮克斯风格故事板海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个清晰、简洁的信息图式故事板海报，用于 {argument name="project title" default="THE TATTOO ARTIST"}。宽屏 16:9 布局，白色背景，黑色边框，粗体黑色排版，优质皮克斯 3D 风格渲染，大胆且富有戏剧性的色彩 —— 深邃的午夜黑，电光墨色
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="project title" default="THE TATTOO ARTIST"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bold dramatic colors — deep midnight blacks, electric ink
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2066398171442631031) | 2026-06-15
+
+---
+
+### 🎴 例 1630：3D 饮料广告海报
+
+![3D 饮料广告海报](../../images/3D%20%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端商业 3D 广告海报，4:5 竖版比例。
+
+核心产品居中展示：{argument name="product" default="星巴克星冰乐燕麦奶黑巧克力布朗尼瓶装"}，悬浮在光泽感十足的雕塑底座上方。
+
+背景采用巨大的奢华排版：
+
+"{argument name="slogan" default="INDULGE THE DARK SIDE"}"
+
+超大加粗的编辑字体，部分被瓶身遮挡，营造出层叠的深度感。
+
+附加排版：
+
+"浓郁黑巧克力。丝滑燕麦奶。"
+
+小型高级文案：
+
+"每一口都如甜点般美妙。"
+
+环境设计灵感源自产品本身：
+
+流动的奶油燕麦奶丝带、光泽的黑巧克力流、悬浮的布朗尼方块、燕麦片、包装设计中的紫色植物叶片。
+
+配色方案提取自产品标签：
+
+{argument name="colors" default="深皇家紫、奶油米色、黑巧克力棕、暖燕麦色"}。
+
+奢华平面设计元素：
+
+编辑排版、悬浮贴纸标签、极简条形码、微型排版、高级包装标注、微妙的几何形状、现代商业布局。
+
+摄影棚电影级灯光，柔和的主光，紫色轮廓光，体积光辉，悬浮颗粒，逼真的玻璃反射，超写实 PBR 材质，超清晰的标签可读性，浅景深，广告大片质感，Behance 精选项目品质，8K 商业渲染，高端饮料品牌美学，高级食品摄影美学。
+
+[English]
+Premium commercial 3D advertising poster, vertical 4:5 format.
+
+Hero product perfectly centered: {argument name="product" default="Starbucks Frappuccino Oatmilk Dark Chocolate Brownie bottle"}, floating above a glossy sculptural pedestal.
+
+Massive luxury typography in the background:
+
+"{argument name="slogan" default="INDULGE THE DARK SIDE"}"
+
+oversized bold editorial font, partially hidden behind the bottle, layered depth effect.
+
+Additional typography:
+
+"Rich Dark Chocolate. Smooth Oatmilk."
+
+Small premium copy:
+
+"Every Sip Feels Like Dessert."
+
+Environment inspired by the product itself:
+
+flowing ribbons of creamy oatmilk, glossy dark chocolate streams, floating brownie cubes, oat flakes, purple botanical leaves from the packaging design.
+
+Color palette extracted from the label:
+
+{argument name="colors" default="deep royal purple, cream beige, dark chocolate brown, warm oat tones"}.
+
+Luxury graphic design elements:
+
+editorial typography, floating sticker labels, minimal barcode, micro typography, premium packaging callouts, subtle geometric shapes, modern commercial layout.
+
+Studio cinematic lighting, soft key light, purple rim light, volumetric glow, floating particles, realistic glass reflections, hyper-realistic PBR materials, ultra-sharp label readability, shallow depth of field, advertising campaign quality, Behance featured project quality, 8K commercial render, high-end beverage branding, premium food photography aesthetic.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2066386292217467241) | 2026-06-15
+
+---
+
+### 🎴 例 1632：撕纸风格时尚杂志封面
+
+![撕纸风格时尚杂志封面](../../images/%E6%92%95%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+灵感源自奢侈时尚刊物的高定时尚杂志封面。一位 {argument name="subject" default="留着深棕色长发的年轻女性"} 站在 {argument name="background" default="浓郁深红色"} 的摄影棚背景中央。她身着 {argument name="outfit" default="超大廓形黑色西装外套、挺括的白色衬衫和细长黑色领带"}，展现出一种充满力量感的中性时尚美学。她神情专注、自信且带有一丝神秘感，直视镜头。
+
+构图特色在于画面中央横贯的戏剧性撕纸效果。在撕裂的纸张层后方，露出了同一位女性的黑白重复肖像，聚焦于她的眼睛和上半张脸。撕裂边缘呈现出极具真实感的白色纸张纤维纹理，营造出层次分明的拼贴效果。
+
+模特手持一支香烟靠近唇边，正用一根长长的白色火柴点燃。小小的火苗发出温暖的光芒，与深色服装和红色背景形成微妙对比。她的手指姿态优雅，修剪着长指甲，佩戴着简约的首饰。
+
+顶部印有大型奢侈杂志刊头，采用醒目的黑色衬线字体。角落处点缀着极简的编辑文本，保持了高端时尚杂志的排版风格。电影级摄影棚布光、柔和阴影、高对比度、清晰的面部细节、奢华编辑摄影、Vogue 风格封面设计、当代时尚大片美学、高级感调色、照片级皮肤纹理、超精细织物褶皱、优质杂志印刷质感。
+
+风格关键词：时尚编辑、奢侈杂志封面、撕纸拼贴、双重曝光效果、黑白叠加肖像、电影级布光、高定时尚摄影、奢侈品牌感、极简设计、照片级真实、超精细、专业摄影棚拍摄、8K 画质、高级调色。
+
+长宽比：4:5 竖构图。
+
+[English]
+Ultra high fashion editorial magazine cover inspired by luxury fashion publications. A {argument name="subject" default="young woman with long dark brown hair"} stands centered against a {argument name="background" default="rich deep red"} studio background. She wears {argument name="outfit" default="an oversized black tailored blazer, crisp white button up shirt, and a slim black necktie"}, creating a powerful and androgynous fashion aesthetic. Her expression is intense, confident, and slightly mysterious, looking directly into the camera.
+
+The composition features a dramatic torn paper effect running horizontally across the center of the image. Behind the ripped paper layer, a black and white duplicate portrait of the same woman is revealed, focusing on her eyes and upper face. The torn edges are highly realistic with textured white paper fibers, creating a layered collage effect.
+
+The model holds a cigarette near her lips while lighting it with a long white matchstick. The small flame glows warmly, providing a subtle contrast against the dark wardrobe and red background. Her fingers are elegantly posed, featuring long manicured nails and minimal jewelry.
+
+Large luxury magazine masthead typography appears at the top, bold serif lettering in black. Minimal editorial text is placed in the corners, maintaining a premium fashion magazine layout. Cinematic studio lighting, soft shadows, high contrast, sharp facial details, luxury editorial photography, Vogue inspired cover design, contemporary fashion campaign aesthetic, sophisticated color grading, photorealistic skin texture, ultra detailed fabric folds, premium magazine print quality.
+
+Style Keywords: fashion editorial, luxury magazine cover, torn paper collage, double exposure effect, monochrome overlay portrait, cinematic lighting, high fashion photography, luxury branding, minimalist design, photorealistic, ultra detailed, professional studio shoot, 8K quality, premium color grading.
+
+Aspect Ratio: 4:5 vertical.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2066375669639208969) | 2026-06-15
+
+---
+
+### 🎴 例 1648：赛博朋克动漫时尚杂志封面
+
+![赛博朋克动漫时尚杂志封面](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超精细的奢华动漫时尚封面插画，描绘了一位走在未来潮流前沿的年轻女性，留着齐肩乌黑秀发，带有 {argument name="hair highlights" default="电青色挑染"}，几缕发丝轻拂脸颊，双眸闪烁着明亮的 {argument name="eye color" default="琥珀色"}，皮肤如瓷器般光滑，妆容精致透亮，神情从容自信。她身穿一件超大廓形不对称炭灰色机能夹克，内搭黑色高领短款上衣，饰有金属青色点缀，佩戴着叠层银链、耳骨夹、多层戒指，精致的细线条赛博纹身延伸至锁骨、手部和腰间。
+
+她置身于一张名为“{argument name="magazine title" default="NEO VANGUARD"}”的高级先锋杂志封面构图中，周围环绕着精致的编辑排版、未来感界面图形、日式设计元素、蓝图细节、抽象网格、条形码细节以及覆盖在纹理象牙白背景上的醒目深红色装饰板。画面将奢华街头服饰美学与新一代设计师广告大片的能量完美融合。
+
+锐利的动漫线条艺术与写实的电影级灯光相结合，极具细节的织物纹理、反光的金属配饰、柔和的皮肤渲染、戏剧性的阴影、亮泽的发丝反光、完美的杂志排版设计、居中的时尚肖像构图、当代都市未来主义、叛逆优雅、奢华广告美学、高端平面设计、ArtStation 热门品质、杰作、超精细、8k 分辨率、专业色彩分级、清晰的对比度、高级编辑氛围、时尚摄影与动漫插画的融合、收藏版封面设计。
+
+[English]
+Ultra-detailed luxury anime fashion cover illustration of a futuristic trendsetting young woman with shoulder-length raven hair featuring {argument name="hair highlights" default="electric cyan underlights"}, wispy face-framing strands, luminous {argument name="eye color" default="amber"} eyes, smooth porcelain skin, subtle glossy makeup, and a poised, self-assured expression. She wears an oversized asymmetric charcoal utility jacket layered over a sleek black high-neck crop top with metallic teal accents, accessorized with layered silver chains, ear cuffs, stacked rings, and elegant fine-line cyber tattoos extending across her collarbone, hands, and midriff.
+
+She stands against a premium avant-garde magazine cover composition titled “{argument name="magazine title" default="NEO VANGUARD"}”, surrounded by sophisticated editorial typography, futuristic interface graphics, Japanese-inspired design motifs, blueprint elements, abstract grids, barcode details, and bold crimson accent panels over a textured ivory backdrop. The scene blends luxury streetwear aesthetics with next-generation designer campaign energy.
+
+Sharp anime line art fused with realistic cinematic lighting, highly detailed fabric textures, reflective metallic accessories, soft skin rendering, dramatic shadows, glossy hair reflections, immaculate magazine layout design, centered fashion portrait composition, contemporary urban futurism, rebellious elegance, luxury advertising aesthetic, high-end graphic design, ArtStation trending quality, masterpiece, ultra-detailed, 8k resolution, professional color grading, crisp contrast, premium editorial atmosphere, fashion photography merged with anime illustration, collector’s edition cover design.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2066343417278570610) | 2026-06-15
+
+---
+

@@ -2212,3 +2212,171 @@ Princess girl in lavender sparkling gown. Twirling dance pose beside a gigantic 
 
 ---
 
+### 🧸 例 1593：伦敦微缩城市肖像
+
+![伦敦微缩城市肖像](../../images/%E4%BC%A6%E6%95%A6%E5%BE%AE%E7%BC%A9%E5%9F%8E%E5%B8%82%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖构图的超写实微缩城市肖像。一位 {argument name="subject" default="美丽的年轻女性"} 坐在一个精致的桌面级 {argument name="city" default="伦敦"} 微缩模型后方，身体前倾，双臂轻叠在桌面上，身穿一件干练的 {argument name="outfit" default="白色长袖纽扣领衬衫"}。她留着一头光泽的 {argument name="hair style" default="栗棕色中分波浪卷发"}，肤色温暖自然，姿态优雅，呈现出静谧的摄影棚肖像感。微缩城市填满画面的下半部分，包含 5 个标志性的伦敦地标：左侧的伦敦眼、后方的碎片大厦、中央的大本钟与议会大厦、前景横跨河流的塔桥，以及右侧的圣保罗大教堂。泰晤士河蜿蜒穿过前景，点缀着小船、桥梁、堤岸、树木、街道、微型汽车、巴士、建筑、温暖的城市灯光以及水面上真实的倒影。采用电影级的浅景深效果：女性的上半身和头发清晰锐利，前景的微缩模型细节丰富，远景则柔和虚化。灯光采用柔和的摄影棚布光，白色衬衫上有细腻的高光，发丝带有温暖的轮廓光。背景为深海军蓝色的无缝摄影棚幕布。营造出一种奇幻而超现实的比例感，仿佛这位女性是一位巨人，正小心翼翼地置身于超精致的伦敦微缩模型之后。超写实摄影，高细节，自然的皮肤纹理，逼真的发丝，顶级社论肖像画质，无文字，无水印，无建筑畸变。
+
+[English]
+Create an ultra-realistic miniature city portrait in a vertical 9:16 composition. A {argument name="subject" default="beautiful young woman"} sits behind a detailed tabletop-scale miniature of {argument name="city" default="London"}, leaning forward with both forearms crossed gently on the table, wearing a crisp {argument name="outfit" default="white long-sleeve blouse with a buttoned collar"}. She has long, glossy {argument name="hair style" default="chestnut-brown wavy hair parted in the center"}, warm medium skin, and a calm elegant studio-portrait pose. The miniature city fills the lower half of the frame with exact recognizable London landmarks: 5 major landmarks are visible, including the London Eye on the left, The Shard rising behind it, Big Ben and the Houses of Parliament in the center, Tower Bridge spanning the river in the foreground, and St. Paul’s Cathedral on the right. Add the River Thames winding through the foreground with small boats, bridges, embankments, trees, streets, tiny cars, buses, buildings, warm city lights, and realistic reflections on the water. Use cinematic shallow depth of field: the woman’s upper body and hair are sharp, the miniature foreground is richly detailed, and the far background softly fades. Lighting is soft studio lighting with gentle highlights on the white blouse and warm rim light on the hair. Background is a dark navy-blue seamless studio backdrop. Make the scale feel magical and surreal, as if the woman is a giant carefully posed behind a hyper-detailed miniature London. Ultra-realistic photography, high detail, natural skin texture, realistic hair strands, premium editorial portrait quality, no text, no watermark, no distorted architecture.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2066499854348825001) | 2026-06-15
+
+---
+
+### 🧸 例 1604：怀抱西瓜的迷你玩偶
+
+![怀抱西瓜的迷你玩偶](../../images/%E6%80%80%E6%8A%B1%E8%A5%BF%E7%93%9C%E7%9A%84%E8%BF%B7%E4%BD%A0%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实的高级手工收藏级玩偶肖像，采用温暖的摄影棚微距布景。主体是一个迷你玩偶版本的 {argument name="character name" default="南亚女性"}，拥有略大的头部和精致的手工比例，站在一块比她躯干还高的巨大西瓜咬痕切片旁并紧紧拥抱它。保留玩偶般的写实感：长而浓密的波浪形 {argument name="hair color" default="深棕色头发"} 中分，垂落在背部；细小写实的双手和赤足；涂有亮面蓝色指甲油的指甲和脚趾甲；佩戴金耳环、项链、手镯、脚链，并有精致的指甲花纹饰。为她穿上一套传统的 {argument name="outfit color" default="焦橙色"} 南亚刺绣服装，长长的头巾（dupatta）被一只从左上方伸入的巨大人类手掌轻轻捏起；织物带有华丽的金边、小碎花刺绣和高级纺织品光泽。面部应被一个位于中央的纯色正方形遮挡块遮住，遮挡块颜色为中棕色肤色，完全覆盖面部特征，同时保留头发、珠宝、服装和姿势可见。构图为垂直特写图像，玩偶位于左中位置，西瓜切片位于右侧，红色的多汁果肉面向镜头，可见浅色瓜皮和斑驳的绿色外皮，带有多个咬痕和湿润的果汁液滴。玩偶的右手按在西瓜果肉上，左臂环抱着它。在底部的奶油色桌面上添加红色西瓜汁溅痕、水洼和小液滴。使用浅景深、柔和的黄金时刻光线、暖米色背景，展现巨大的人类手指、微小玩偶和超大水果之间的真实比例对比，呈现发丝、刺绣、湿润果肉和皮肤的清晰质感。避免出现文字、标志、水印、额外角色或其它道具。
+
+[English]
+Create a photorealistic premium handmade collectible doll portrait in a warm studio macro setup. The subject is a miniature doll version of {argument name="character name" default="a South Asian woman"}, with a slightly oversized head and delicate handmade proportions, standing beside and hugging an enormous bitten wedge of watermelon that is taller than her torso. Preserve the doll-like realism: long thick wavy {argument name="hair color" default="dark brown hair"} parted in the center, cascading down her back; tiny realistic hands and bare feet; glossy blue-painted fingernails and toenails; gold earrings, necklace, bangles, anklets, and intricate henna-like details. Dress her in a traditional {argument name="outfit color" default="burnt orange"} South Asian embroidered outfit with a long dupatta being gently pinched and lifted by a large human hand entering from the upper left; the fabric has ornate gold trim, small floral embroidery, and a premium textile sheen. The face should be obscured by a plain centered square censor block in a medium brown skin-tone color, covering the facial features completely while leaving hair, jewelry, clothing, and pose visible. Compose the scene as a close-up vertical image with the doll on the left-center and the watermelon wedge on the right, its red juicy flesh facing camera, pale rind and mottled green skin visible, with multiple bite marks and wet juice droplets. The doll’s right hand presses into the watermelon flesh and her left arm wraps around it. Add red watermelon juice splashes, puddles, and small droplets on the cream tabletop at the base. Use shallow depth of field, soft golden-hour lighting, warm beige background, realistic scale contrast between the giant human fingers, tiny doll, and oversized fruit, crisp textures in hair strands, embroidery, wet fruit pulp, and skin. Avoid text, logos, watermarks, extra characters, or additional props.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2066475428878180618) | 2026-06-15
+
+---
+
+### 🧸 例 1605：带有西瓜的微缩人偶
+
+![带有西瓜的微缩人偶](../../images/%E5%B8%A6%E6%9C%89%E8%A5%BF%E7%93%9C%E7%9A%84%E5%BE%AE%E7%BC%A9%E4%BA%BA%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的优质手工微缩人偶肖像，主角为 {argument name="character name" default="身份参考中的人物"}，需保留其精确的面部特征、面部比例、眼睛形状与间距、鼻子、嘴巴、下颌线、发型、表情及自然细节。展示这个微小的全身人偶正倚靠在一大块切开的西瓜楔上，并部分攀爬在上面。人偶身着深海军蓝定制西装，搭配同色长裤、亮面黑色正装皮鞋及深色衬衫；织物略显湿润，并点缀着清晰可见的西瓜果肉和果汁液滴。一只手按在红色的西瓜果肉中，另一只手臂靠近瓜皮，一条腿支撑在桌面上以保持平衡。一只真实的人类手从左上方伸入，拇指和手指轻轻捏住微缩人偶的背部/肩部区域，以强调比例感。与人偶相比，西瓜楔显得巨大，具有鲜艳多汁的红色果肉、淡绿白色的瓜皮、深绿色条纹外皮、类似咬痕的凹陷纹理、种子/果肉碎屑，以及滴落在浅色木质表面上的果汁。采用温暖的摄影棚微距摄影风格，浅景深，柔和的米色背景，焦点清晰地对准微缩人偶、手部及西瓜纹理，手指上可见真实的皮肤毛孔，湿润的水果和鞋子上有光泽的高光，具备优质手工收藏品品质，竖构图，无文字，无水印。
+
+[English]
+Create an ultra-realistic premium handmade miniature figurine portrait of {argument name="character name" default="the person in the identity reference"}, preserving the exact facial resemblance, facial proportions, eye shape and spacing, nose, mouth, jawline, hairstyle, expression, and natural details. Show the tiny full-body figurine leaning against and partly climbing into one large cut wedge of watermelon. The figurine wears a dark navy tailored suit with matching trousers, glossy black dress shoes, and a dark shirt; the fabric is slightly wet and dotted with visible watermelon pulp and juice droplets. One hand is pressed into the red watermelon flesh, the other arm is near the rind, and one leg is braced on the tabletop for balance. A real human hand enters from the upper left, thumb and fingers gently pinching the miniature by the back/shoulder area to emphasize scale. The watermelon wedge is oversized compared with the figure, with vivid red juicy flesh, pale green-white rind, dark green striped outer skin, bite-like gouged texture, seeds/pulp pieces, and juice dripping onto a light wooden surface. Use warm studio macro photography, shallow depth of field, soft beige background, crisp focus on the miniature, hand, and watermelon texture, realistic skin pores on the fingers, glossy highlights on wet fruit and shoes, premium handcrafted collectible quality, vertical composition, no text, no watermark.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2066475423354204389) | 2026-06-15
+
+---
+
+### 🧸 例 1606：带西瓜的微缩人偶
+
+![带西瓜的微缩人偶](../../images/%E5%B8%A6%E8%A5%BF%E7%93%9C%E7%9A%84%E5%BE%AE%E7%BC%A9%E4%BA%BA%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超逼真的微距照片，主角是一个由 {argument name="character name" default="该人物"} 制作的高级手工收藏级人偶，设计特点是略大的头部和微小的写实身体。人偶穿着一套完整的服装：深蓝色修身夹克、配套的深蓝色长裤和亮面黑色皮鞋。织物被打湿，并溅有细小的西瓜果肉液滴。人偶留着 {argument name="hair color" default="黑色短发"}，发型打理得整齐利落，发丝逼真，呈现自然的侧分纹理。画面左上方伸入一只巨大的人手，拇指和食指轻轻捏住人偶夹克的后背以支撑其站立，以此强调微缩比例。将人偶靠在一大块西瓜瓣上，西瓜切开后露出鲜红的果肉、浅色的瓜皮和深绿色的条纹瓜皮；人偶的小手按在多汁的红色果肉上。画面包含且仅包含一块西瓜瓣、一只可见的人手、一个人偶，以及散落在浅色木质桌面上的果汁液滴和果肉。使用暖米色摄影棚背景，浅景深，柔和的漫射光，清晰的微距细节，手指上逼真的皮肤纹理，湿润的果肉质感，手工收藏级工艺，以及高级玩具摄影的写实感。构图保持垂直，特写，以人偶和西瓜为中心，西瓜瓣从左下角向右侧呈对角线倾斜。避免出现文字、标志、多余角色或卡通风格。
+
+[English]
+Create a hyper-realistic macro photograph of a premium handmade collectible doll version of {argument name="character name" default="the person"}, designed with a slightly oversized head and a tiny realistic body. The doll is wearing one complete outfit: a dark navy fitted jacket, matching dark navy trousers, and glossy black shoes. The fabric is wet and speckled with small watermelon pulp droplets. The doll has {argument name="hair color" default="short black"} neatly styled hair with realistic individual strands and a natural side-swept texture. Show one large human hand entering from the upper left, with thumb and finger gently pinching the back of the doll’s jacket to hold it upright, emphasizing the miniature scale. Place the doll leaning against one large wedge of watermelon, cut open with vivid red flesh, pale rind, and dark green striped skin; the doll’s small hand presses into the juicy red fruit. Include exactly one watermelon wedge, one visible human hand, one miniature doll, and scattered juice drops and pulp on a light wooden tabletop. Use a warm beige studio background with shallow depth of field, soft diffused lighting, crisp macro detail, realistic skin texture on the fingers, glossy wet fruit texture, handmade collectible craftsmanship, and premium toy-photography realism. Keep the composition vertical, close-up, and centered on the doll and watermelon, with the watermelon wedge angled diagonally from lower center to right side. Avoid text, logos, extra characters, or cartoon styling.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2066475415410204872) | 2026-06-15
+
+---
+
+### 🧸 例 1607：灰色小猫表情包贴纸预览图
+
+![灰色小猫表情包贴纸预览图](../../images/%E7%81%B0%E8%89%B2%E5%B0%8F%E7%8C%AB%E8%A1%A8%E6%83%85%E5%8C%85%E8%B4%B4%E7%BA%B8%E9%A2%84%E8%A7%88%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为小猫形象，在纯白背景上创作一张简洁的微信风格贴纸预览图。将真实照片转化为柔软、半写实的可爱 3D/卡通风格灰色小猫，要求毛发蓬松、比例圆润、肢体语言生动柔和，同时保留小猫整体的灰色调、小耳朵、幼态脸庞和娇小脆弱的质感。
+
+布局：将 6 种不同的贴纸姿势排列成 3 行 2 列的网格，保持宽裕的留白，不要添加边框。
+
+6 种贴纸姿势如下：
+1. 正面端坐，双爪合拢，尾巴蜷缩在身体一侧。
+2. 低身伏地，瞪大眼睛向前窥视，显得顽皮而羞涩。
+3. 端坐并举起一只爪子，露出粉色与深色相间的肉垫。
+4. 蜷缩着安静入睡，双眼紧闭，尾巴环绕身体。
+5. 向上跳跃，双爪向前，带有细小的运动线条和下方淡淡的椭圆形阴影。
+6. 后腿站立，双爪向外举起，露出肉垫，呈现欢快的问候姿势。
+
+仅在第 1、3、5 和 6 个姿势的脸部区域添加一个纯中灰色方形占位符，如同遮挡或为后续文字/表情预留空间。不要添加任何文字。保持预览图精致、可爱、角色设计统一，适合作为成品贴纸/表情包预览。使用 {argument name="sticker count" default="6"} 个贴纸，背景颜色为 {argument name="background color" default="纯白"}，艺术风格为 {argument name="art style" default="柔软半写实可爱 3D 卡通"}，基于 {argument name="character" default="参考照片中的灰色小猫"}。
+
+[English]
+Using REFERENCE_0 as the kitten identity, create a clean WeChat-style sticker-pack preview sheet on a plain white background. Transform the real photo into a soft, semi-realistic cute 3D/cartoon gray kitten with plush fur, round proportions, and gentle expressive body language, while preserving the kitten’s overall gray color, small ears, baby face, and soft fragile look.
+
+Layout: Arrange exactly 6 separate sticker poses in a 3-by-2 grid with generous white spacing and no borders.
+
+Sticker poses, exactly 6:
+1. Sitting upright facing forward, paws together, tail curled beside the body.
+2. Crouching low and peeking forward with wide eyes, playful and timid.
+3. Sitting upright with one paw raised high, showing pink-and-dark paw pads.
+4. Curled up sleeping peacefully, eyes closed, tail wrapped around body.
+5. Jumping upward with both paws forward, small motion lines and a faint oval shadow underneath.
+6. Standing on hind legs with both paws raised outward, showing paw pads, cheerful greeting pose.
+
+Add a solid medium-gray square placeholder over the face area of poses 1, 3, 5, and 6 only, as if censoring or reserving space for future text/expressions. Do not add any text. Keep the sheet polished, adorable, consistent in character design, and suitable for a finished sticker/emoticon set preview. Use {argument name="sticker count" default="6"} stickers, with {argument name="background color" default="plain white"}, in a {argument name="art style" default="soft semi-realistic cute 3D cartoon"} style, based on {argument name="character" default="the gray kitten from the reference photo"}.
+```
+
+**来源：** [@南溪](https://x.com/nanxi0412/status/2066472112001544508) | 2026-06-15
+
+---
+
+### 🧸 例 1608：手工毛绒角色转换
+
+![手工毛绒角色转换](../../images/%E6%89%8B%E5%B7%A5%E6%AF%9B%E7%BB%92%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 {argument name="subject" default="这张图片"} 转换为来自知名国际玩具品牌的优质手工毛绒角色。赋予该主体超大且富有表现力的眼睛、圆润柔软的比例、蓬松的织物纹理、精致的刺绣细节、微型配饰以及令人无法抗拒的魅力。将其置于一个由温暖金色仙女灯照亮的 {argument name="setting" default="温馨卧室"} 中，周围环绕着可爱的收藏品和故事书装饰。运用电影级景深、精美的构图、顶级玩具摄影质感以及高度精致的视觉叙事。
+
+[English]
+Transform {argument name="subject" default="this image"} into a premium handcrafted plush character from a beloved international toy brand. Give the subject oversized expressive eyes, soft rounded proportions, fluffy fabric textures, embroidered details, tiny accessories, and irresistible charm. Place them inside a {argument name="setting" default="cozy bedroom"} illuminated by warm golden fairy lights, surrounded by cute collectibles and storybook decorations. Use cinematic depth, beautiful composition, premium toy-photography quality, and highly polished visual storytelling.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2066470669265842297) | 2026-06-15
+
+---
+
+### 🧸 例 1620：微缩版 Starbucks 翻新场景
+
+![微缩版 Starbucks 翻新场景](../../images/%E5%BE%AE%E7%BC%A9%E7%89%88%20Starbucks%20%E7%BF%BB%E6%96%B0%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个超写实的场景，描绘了 {argument name="workers" default="微型建筑工人"} 正在翻新一个 {argument name="target" default="巨大的 Starbucks 咖啡杯"}。微小的油漆工正在完善标志，起重机将泡沫艺术品吊装到位，工人们在杯子周围的脚手架上攀爬。超大号的咖啡杯放置在 {argument name="tray" default="印有 Starbucks 标志的托盘"} 上。温暖的咖啡馆灯光，高端商业摄影，趣味微缩世界，高度细腻的纹理。
+
+[English]
+A hyper-realistic scene featuring {argument name="workers" default="miniature construction workers"} renovating a {argument name="target" default="giant Starbucks coffee cup"}. Tiny painters perfect the logo, cranes lift foam art into place, workers climb scaffolding around the cup. The oversized coffee cup rests on a {argument name="tray" default="branded Starbucks tray"}. Warm café lighting, premium commercial photography, playful miniature world, highly detailed textures.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2066440811760472122) | 2026-06-15
+
+---
+
+### 🧸 例 1624：夏日日式女仆休憩
+
+![夏日日式女仆休憩](../../images/%E5%A4%8F%E6%97%A5%E6%97%A5%E5%BC%8F%E5%A5%B3%E4%BB%86%E4%BC%91%E6%86%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插画，描绘一位年轻的和风女仆在明媚夏日的传统榻榻米房间中休憩。场景包含：恰好一位坐姿女仆、恰好一个圆形木制茶托、恰好一个装有绿茶的透明玻璃杯、恰好一个带有蓝色纸条的悬挂式玻璃风铃、恰好一幅挂轴画、恰好一个插有绿植的陶瓷花瓶，以及右下角恰好有一个手写的白色艺术家签名“Okamata”。女仆穿着改良版和风女仆装：橄榄绿和服上衣配红白领口、带有荷叶边肩带和腰带的白色褶边女仆围裙、黑灰格纹百褶裙、白色过膝袜以及白色女仆头饰。她坐在榻榻米上，一只手撑在地面，另一只手放在裙边，姿态如同在微风中安静地小憩。她的头发为 {argument name="hair color" default="短银白色"}，光线柔和，略显凌乱。面部刻意被一个朴素的不透明米色矩形遮挡块覆盖，没有任何五官。背景为传统的日式房间，有木梁、通向阳光明媚走廊的推拉式障子门、光亮的木地板、庭院围栏、绿树、远山，以及窗外明亮蓝天和稀疏云层下可见的小型寺庙式屋顶。使用温暖的阳光、强烈的自然高光、柔和的阴影、细腻的布料褶皱、清晰的线条、光泽感的动漫渲染，营造宁静的夏日氛围。可自定义女仆服装颜色为 {argument name="kimono color" default="橄榄绿"}，饮品为 {argument name="tea type" default="绿茶"}，户外季节为 {argument name="season" default="夏季"}，签名文本为 {argument name="signature text" default="Okamata"}。保持构图为竖构图，展示腰部以上至膝盖的范围，角色居中，开放的走廊框选出其身后明亮的景观。
+
+[English]
+Create a polished anime-style illustration of a young Japanese-style maid resting in a traditional tatami room on a bright summer day. The scene features exactly one seated maid, exactly one round wooden tea tray, exactly one clear glass cup filled with green tea, exactly one hanging glass wind chime with a blue paper strip, exactly one wall scroll painting, exactly one ceramic vase with greenery, and exactly one white handwritten artist signature reading “Okamata” in the bottom-right corner. The maid wears a hybrid kimono maid outfit: an olive-green kimono top with a red-and-white collar, a white frilled maid apron with ruffled shoulder straps and waist sash, a black-and-gray checkered pleated skirt, white thigh-high stockings, and a white maid headband. She is seated on tatami with one hand braced on the floor and the other resting near her skirt, posed as if taking a quiet break in the breeze. Her hair is {argument name="hair color" default="short silver-white"}, softly lit and slightly tousled. The face is intentionally covered by a plain opaque beige rectangular censor block with no facial features. The setting is a traditional Japanese room with wooden beams, sliding shoji doors opened to a sunlit veranda, glossy wooden floorboards, garden railing, green trees, distant mountains, and a small temple-like roof visible outside under a vivid blue sky with scattered clouds. Use warm sunlight, strong natural highlights, soft shadows, detailed fabric folds, crisp linework, glossy anime rendering, and a calm summer atmosphere. Customize the maid outfit color as {argument name="kimono color" default="olive green"}, the drink as {argument name="tea type" default="green tea"}, the outdoor season as {argument name="season" default="summer"}, and the signature text as {argument name="signature text" default="Okamata"}. Keep the composition vertical, waist-up to knees visible, with the character centered and the open veranda framing the bright landscape behind her.
+```
+
+**来源：** [@kanata](https://x.com/KanataAiai/status/2066424163972325610) | 2026-06-15
+
+---
+

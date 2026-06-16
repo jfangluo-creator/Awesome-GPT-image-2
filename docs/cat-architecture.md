@@ -811,3 +811,86 @@ A hyper-realistic miniature construction team assembling a giant {argument name=
 
 ---
 
+### 🏛️ 例 1602：微缩建筑运动鞋场景
+
+![微缩建筑运动鞋场景](../../images/%E5%BE%AE%E7%BC%A9%E5%BB%BA%E7%AD%91%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个超现实的微距场景，展示了微型建筑工人们正在组装一只巨大的 Nike Air Jordan 运动鞋。微小的焊工连接着鞋面裁片，起重机正在安装 Nike Swoosh 标志，工程师们则在检查鞋底结构。这只巨大的运动鞋放置在一个带有品牌标识的 Nike 鞋盒上。采用温暖的摄影棚灯光，超写实的材质表现，高端产品广告风格，富有想象力的建筑主题，电影级的细节呈现。
+
+[English]
+A surreal macro scene featuring miniature construction workers assembling a giant Nike Air Jordan sneaker. Tiny welders connect shoe panels, cranes position the Nike swoosh, engineers inspect the sole structure. The massive sneaker rests on a branded Nike shoebox with logo. Warm studio lighting, hyper-realistic materials, premium product advertising, imaginative construction theme, cinematic detail.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2066476393047937147) | 2026-06-15
+
+---
+
+### 🏛️ 例 1612：深夜吃拉面的困倦女子
+
+![深夜吃拉面的困倦女子](../../images/%E6%B7%B1%E5%A4%9C%E5%90%83%E6%8B%89%E9%9D%A2%E7%9A%84%E5%9B%B0%E5%80%A6%E5%A5%B3%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨的动漫风格单格插画，画面内容为 {argument name="character description" default="一位留着凌乱短棕发、脸颊微红的困倦年轻女子"} 在深夜的温馨小厨房里吃拉面。她坐在木桌旁，双眼微闭，表情困倦而平静，正从一个装饰着红色回纹图案的奶油色大拉面碗中吸食面条；她一手拿着筷子，另一只手扶着碗。画面需展现热拉面冒出的袅袅蒸汽，碗中可见面条、汤底和半个溏心蛋。场景由左上角的一盏大型暖色吊灯照亮，营造出柔和的琥珀色阴影和宁静的昭和复古氛围。背景包括她身后的深夜窗户（窗外有三个微小的发光点）、蓝色窗帘、瓷砖厨房墙壁、水龙头、小型电饭煲、水壶以及墙上的一张手写纸条。桌面上除了拉面碗外，需精确包含 7 个前景物体：一个装满筷子的长形餐具筒、一个调味瓶、一个小号青色标签的调料罐、一杯茶、一个纯白色马克杯、一个放有酱料和勺子的小碟子，以及右侧边缘的一个深色长方形锅或容器。使用 {argument name="lighting mood" default="柔和的暖色灯光"}，色调采用柔和的棕色、奶油色、红色和深蓝色，线条清晰且富有表现力，采用轻柔的赛璐珞上色风格，带有细微的颗粒感，构图温馨居家，采用 16:9 横向画幅，拒绝照片写实感，拒绝现代光泽感，无水印，除墙上纸条上模糊的手写痕迹外，不包含任何可辨识的文字。
+
+[English]
+Create a warm anime-style single-panel illustration of {argument name="character description" default="a sleepy young woman with short tousled brown hair and flushed cheeks"} eating ramen late at night in a cozy small kitchen. She sits at a wooden table, eyes gently closed with a drowsy peaceful expression, slurping noodles from a large cream ramen bowl decorated with a red Greek-key pattern; she holds chopsticks in one hand and steadies the bowl with the other. Show visible steam curling from the hot ramen, with noodles, broth, and a halved soft-boiled egg in the bowl. The scene is lit by a large warm hanging lamp at the upper left, creating soft amber shadows and a calm Showa-retro atmosphere. Include a dark night window behind her with three small glowing dots outside, blue curtains, tiled kitchen wall, sink faucet, small rice cooker, kettle, and a handwritten paper note on the wall. On the table include exactly 7 foreground objects besides the ramen bowl: a tall utensil holder full of chopsticks, a condiment bottle, a small teal-labeled seasoning jar, a glass of tea, a plain white mug, a small plate with sauce and a spoon, and a dark rectangular pot or container at the right edge. Use {argument name="lighting mood" default="soft warm lamp light"}, muted browns, creams, reds, and deep blues, clean expressive linework, gentle cel shading, subtle grain, cozy domestic composition, 16:9 horizontal framing, no photorealism, no modern glossy look, no watermark, no readable text except vague handwritten marks on the wall note.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2066451440458166325) | 2026-06-15
+
+---
+
+### 🏛️ 例 1629：温馨卧室写实生活摄影
+
+![温馨卧室写实生活摄影](../../images/%E6%B8%A9%E9%A6%A8%E5%8D%A7%E5%AE%A4%E5%86%99%E5%AE%9E%E7%94%9F%E6%B4%BB%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "prompt": "从高角度拍摄的温馨卧室自拍。一位 {argument name="subject" default="长着雀斑、戴着眼镜的红发女性"} 正躺在床上，床上放着 {argument name="pillow pattern" default="蜻蜓图案的枕头"} 和一条有质感的毯子，她穿着一件 {argument name="outfit" default="柔软的淡紫色无袖上衣"}。她表情俏皮，一根手指靠近嘴唇。床头柜上放着一盏发出暖光的台灯、茶壶和遥控器，增添了轻松的氛围。温暖的环境光和柔和的阴影营造出宁静的夜晚情绪。",
+  "style": "写实生活摄影",
+  "lighting": "温暖的床头灯光，带有柔和的自然阴影",
+  "composition": "高角度俯拍自拍，近景构图，卧室场景",
+  "mood": "温馨、放松、亲密"}
+
+[English]
+{
+  "prompt": "Cozy bedroom selfie shot from a high angle. A {argument name="subject" default="red-haired woman with freckles and glasses"} is lounging on a bed with {argument name="pillow pattern" default="dragonfly-patterned pillows"} and a textured blanket, wearing a {argument name="outfit" default="soft lavender sleeveless top"}. She has a playful expression with one finger near her lips. A nightstand with a warm glowing lamp, teapot, and remote control adds to the relaxed atmosphere. Warm ambient light and soft shadows create a calm nighttime mood.",
+  "style": "realistic lifestyle photography",
+  "lighting": "warm bedside lamp light with soft natural shadows",
+  "composition": "high-angle overhead selfie, close framing, bedroom setting",
+  "mood": "cozy, relaxed, intimate"
+}
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2066387199323750851) | 2026-06-15
+
+---
+
+### 🏛️ 例 1643：粉色家居服对镜自拍
+
+![粉色家居服对镜自拍](../../images/%E7%B2%89%E8%89%B2%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%AF%B9%E9%95%9C%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖构图对镜自拍照片，画面中 {argument name="character description" default="一位皮肤白皙透亮、留着黑色丝滑长发的漂亮巴基斯坦年轻女性"} 舒适地坐在温馨女性化卧室的米色长绒地毯上。她身穿 {argument name="outfit" default="一套柔软的粉色无袖家居套装：宽松无袖背心和带有金色侧边纽扣的罗纹阔腿家居裤"}。她的面部被柔和的矩形模糊处理以保护隐私，头发呈波浪状垂在一侧肩头。她坐在地板上摆出姿势，一只手撑在地毯上，一条腿弯曲，另一条腿折叠，赤着双脚，手持 {argument name="phone" default="一部带有三摄模组和装饰性透明手机壳的高端金色智能手机"} 对着镜子自拍。通过一面大型华丽的金色落地镜展现场景，四周可见金色镜框。卧室背景包含 8 个显著的装饰元素：1 张带有竖条纹床头的米色软包床、2 个淡蓝色枕头、1 个淡粉色枕头、1 条米色图案被子、1 条铺在床上的淡粉色盖毯、1 盏温暖的床头台灯以及 1 个摆放着小植物和花瓶的白色置物架。采用柔和的暖色调傍晚灯光，浅景深，米色-粉色-蓝色调，写实的皮肤和织物纹理，2026 年现代家居时尚细节，优雅温馨的生活方式美学，高分辨率人像构图。避免出现文字、Logo、多余人物、手部畸形以及任何清晰可见的面部特征。
+
+[English]
+Create a realistic vertical mirror-selfie photograph of {argument name="character description" default="a beautiful young Pakistani woman with fair glowing skin and long silky black hair"} sitting comfortably on a cream shag rug in a cozy feminine bedroom. She wears {argument name="outfit" default="a soft pink sleeveless co-ord lounge set: loose sleeveless tank top and ribbed wide-leg lounge pants with gold side buttons"}. Her face is intentionally obscured by a soft rectangular blur for privacy, while her hair falls over one shoulder in loose waves. She poses seated on the floor with one hand resting on the rug, one leg bent up, the other folded, barefoot, holding {argument name="phone" default="a premium gold smartphone with a triple-camera module and a decorative clear case"} in front of her face for the mirror selfie. Frame the scene as seen through a large ornate gold floor mirror, with the gold mirror border visible on all sides. The bedroom background includes exactly 8 notable decor elements: 1 beige upholstered bed with vertical channel headboard, 2 pale blue pillows, 1 blush pink pillow, 1 cream patterned duvet, 1 pale pink throw blanket draped over the bed, 1 warm glowing bedside table lamp, and 1 white shelving unit with small plants and vases. Use soft warm evening lighting, shallow depth of field, pastel cream-pink-blue color palette, realistic skin and fabric texture, modern 2026 lounge fashion details, elegant cozy lifestyle aesthetic, high-resolution portrait orientation. Avoid text, logos, extra people, distorted hands, and any visible facial features.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2066347879896424668) | 2026-06-15
+
+---
+

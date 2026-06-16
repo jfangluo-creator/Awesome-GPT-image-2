@@ -3895,3 +3895,73 @@ Create a vertical anime-style summer street illustration of a young office woman
 
 ---
 
+### 🎨 例 1558：翡翠水晶幻想礼服
+
+![翡翠水晶幻想礼服](../../images/%E7%BF%A1%E7%BF%A0%E6%B0%B4%E6%99%B6%E5%B9%BB%E6%83%B3%E7%A4%BC%E6%9C%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的幻想动漫插画，描绘一位优雅的年轻女性置身于光芒四射的水晶宫殿中，身穿一件由透明宝石和流动的极光玻璃制成的翡翠绿幻想礼服。她拥有 {argument name="hair color" default="淡银薄荷金"} 的长发，随风飘动，并佩戴着由翡翠、钻石和虹彩水晶花瓣组成的精致珠宝花卉发饰。她的面部光线柔和，以优雅的三分之二侧身姿态微微转头，营造出梦幻、空灵的氛围。礼服为露肩修身款式，颜色为 {argument name="dress color" default="翡翠绿"}，由半透明的层叠欧根纱、水晶般的面料、闪亮的珠饰、金丝花纹和大型多面翡翠宝石制成；腰间饰有一朵醒目的珠宝花，领口和胸前饰有精致的宝石链条。裙摆和袖子应像液态玻璃一样在她周围戏剧性地飘动，呈现出彩虹棱镜的反射、星光般的闪烁和折射光。将她置于一个明亮如大教堂的水晶花园中，背景包括高耸的拱形立柱、华丽的玻璃建筑、悬挂的棱镜、水晶吊灯、白百合和闪闪发光的植物。使用从左上方射入的强烈暖阳，在场景中营造出镜头光晕、发光背光、焦外成像和彩虹焦散效果。风格：超细节日本幻想艺术、浪漫少女优雅风、发光绘画渲染、精致线条、高密度闪光、柔和的粉彩高光、透明宝石质感、魔法奢华感、竖构图、4:5 纵横比。保持画面聚焦于一个完整的上半身人物，无文字，无水印，无额外角色。
+
+[English]
+Create a highly detailed fantasy anime illustration of an elegant young woman in a radiant crystal palace, wearing an emerald green fantasy gown that looks like transparent gemstones and flowing aurora glass. She has {argument name="hair color" default="pale silvery mint-blonde"} long wind-swept hair, styled with an elaborate jeweled floral hair ornament made of emeralds, diamonds, and iridescent crystal petals. Her face is softly lit and partially turned in a graceful three-quarter pose, with a dreamy, ethereal atmosphere. The dress is an off-shoulder, fitted bodice gown in {argument name="dress color" default="emerald green"}, made from translucent layered organza, crystal-like fabric, sparkling beadwork, gold filigree, and large faceted emerald gems; include one prominent jeweled flower at the waist and delicate gem chains across the neckline and bodice. The skirt and sleeves should billow dramatically around her like liquid glass, with rainbow prism reflections, star-like glitter, and refracted light. Place her in a luminous cathedral-like crystal garden with tall arched columns, ornate glass architecture, hanging prisms, crystal chandeliers, white lilies, and sparkling foliage. Use strong warm sunlight streaming from the upper left, creating lens flare, glowing backlight, bokeh, and rainbow caustics across the scene. Style: ultra-detailed Japanese fantasy art, romantic shoujo elegance, luminous painterly rendering, delicate linework, high sparkle density, soft pastel highlights, transparent gem textures, magical luxury, vertical composition, 4:5 aspect ratio. Keep the image focused on one full upper-body figure, no text, no watermark, no extra characters.
+```
+
+**来源：** [@🎧𓂃𓈒𓏸︎︎︎︎Giga🔔Sub@AIイラストレーター](https://x.com/gigaAI2103200/status/2066666679791472881) | 2026-06-15
+
+---
+
+### 🎨 例 1579：网漫风格电影院对视
+
+![网漫风格电影院对视](../../images/%E7%BD%91%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%94%B5%E5%BD%B1%E9%99%A2%E5%AF%B9%E8%A7%86.jpg)
+
+**Prompt:**
+
+```text
+上映中なのに{argument name="キャラクター" default="エミリア"}と目が合う瞬間
+『ウェブトゥーン』
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2066528451264467441) | 2026-06-15
+
+---
+
+### 🎨 例 1619：专业商务开业横幅
+
+![专业商务开业横幅](../../images/%E4%B8%93%E4%B8%9A%E5%95%86%E5%8A%A1%E5%BC%80%E4%B8%9A%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+【{argument name="業種" default="ハンバーガーショップ"}】のオープン記念バナーを作ってください。
+あなたはプロのデザイナーです。
+以下内容を意識して、来店・購入を促す内容にしてください。
+
+・【{argument name="アピールポイント" default="ハンバーガーの大きさと肉厚感、チーズのとろける躍動感"}】
+・視線導線
+・訴求力が高い
+・文字のジャンプ率やメリハリ
+・グラフィック要素を入れて遊び心あるテキスト
+・次回行動を促しやすくなるように見やすく分かりやすく指示
+```
+
+**来源：** [@ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』](https://x.com/ChatgptAIskill/status/2066445869361287250) | 2026-06-15
+
+---
+
+### 🎨 例 1653：金发双马尾女孩喝茶
+
+![金发双马尾女孩喝茶](../../images/%E9%87%91%E5%8F%91%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%A5%B3%E5%AD%A9%E5%96%9D%E8%8C%B6.jpg)
+
+**Prompt:**
+
+```text
+{argument name="飲み物" default="紅茶"}を飲んでる{argument name="髪色" default="金髪"}{argument name="髪型" default="ツインテール"}の可愛い女の子
+```
+
+**来源：** [@Nobu-Kobayashi : Generative AI Technology](https://x.com/nyaa_toraneko/status/2066312415479058740) | 2026-06-15
+
+---
+

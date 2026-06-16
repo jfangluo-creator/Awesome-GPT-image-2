@@ -1262,3 +1262,21 @@ Turn this image into a {argument name="style" default="realistic sticker pack"} 
 
 ---
 
+### 🔧 例 1626：世界杯球场球迷形象转换
+
+![世界杯球场球迷形象转换](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E5%BD%A2%E8%B1%A1%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为逼真的世界杯球场球迷场景。将人物自然地置于大型国际赛事中座无虚席的足球场内，身处数千名球迷之中。该人物应身穿 {argument name="country" default="你所在国家"} 的国家队官方球衣，坐在或站在同样支持该国家的球迷中间。在保持人物面部特征、发型和可辨识特征的同时，营造出逼真的体育纪实摄影效果。捕捉世界杯现场比赛的兴奋感、情绪和氛围，展现真实的球场座位、人群、旗帜、围巾、球队配色以及比赛日的活力。主体应自然地融入人群，仿佛由专业体育摄影师在真实比赛中拍摄。运用逼真的光影、浅景深、自然的表情以及纪实风格的体育摄影手法。图像应具有真实感、电影质感、高度细节，且与在国际足球赛事中拍摄的真实照片无异。超逼真、专业摄影、真实的互动、地道的球迷文化、自然的衣物褶皱、逼真的球场环境、高细节、8k 画质。比例 4:5
+
+[English]
+Transform the uploaded photo into a realistic World Cup stadium fan scene. Place the person naturally among thousands of supporters in a packed football stadium during a major international tournament. The person should be wearing the official national team jersey of {argument name="country" default="your country"}, sitting or standing among fans who are also supporting the same nation. Maintain the person’s facial identity, hairstyle, and recognizable features while creating a realistic candid sports photography look. Capture the excitement, emotion, and atmosphere of a live World Cup match, with authentic stadium seating, crowds, flags, scarves, team colors, and match-day energy. The subject should blend naturally into the crowd as if photographed by a professional sports photographer during a real game. Use realistic lighting, shallow depth of field, natural facial expressions, and documentary-style sports photography. The image should feel authentic, cinematic, highly detailed, and indistinguishable from a real photograph taken during an international football tournament. Ultra-realistic, professional photography, realistic crowd interactions, authentic fan culture, natural clothing folds, realistic stadium environment, high detail, 8k quality.Ratio 4:5
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2066409300269097439) | 2026-06-15
+
+---
+
