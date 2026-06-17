@@ -4760,3 +4760,158 @@ Create a highly detailed photorealistic summer travel landscape of Kyoto viewed 
 
 ---
 
+### 🏷️ 例 1666：AI 杂志产品样机
+
+![AI 杂志产品样机](../../images/AI%20%E6%9D%82%E5%BF%97%E4%BA%A7%E5%93%81%E6%A0%B7%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一本紧凑的 AI 驱动型杂志，直立展示在现代工作空间中。封面呈现了先进的人工智能概念、全息元素、数字神经网络以及未来感十足的品牌设计。优雅的杂志排版、优质的亮面质感、电影级光影、逼真的阴影、专业的产品摄影、高度细节化、照片级真实感、杂志样机、8K 分辨率
+
+[English]
+A compact AI-powered magazine displayed upright on a modern workspace. The cover showcases advanced artificial intelligence concepts, holographic elements, digital neural networks, and futuristic branding. Elegant magazine layout, premium glossy finish, cinematic lighting, realistic shadows, professional product photography, highly detailed, photorealistic, magazine mockup, 8K
+```
+
+**来源：** [@Aaliyah | AI](https://x.com/The_Kremlinn/status/2066909275339817286) | 2026-06-16
+
+---
+
+### 🏷️ 例 1670：女子在公园骑行遛狗
+
+![女子在公园骑行遛狗](../../images/%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%9B%AD%E9%AA%91%E8%A1%8C%E9%81%9B%E7%8B%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的全身户外生活方式肖像，画面中是一位年轻女子，面部特征柔和模糊，皮肤白皙红润，留着一头长直发，发尾微卷，{argument name="hair color" default="黑色"}，半扎发造型并系着一个可爱的米色蝴蝶结。她甜美地微笑着，骑着一辆复古城市自行车在阳光普照的林荫公园小径上行驶。她身穿一件修身的 {argument name="top color" default="黄色"} 无袖罗纹上衣，搭配高腰 {argument name="pants style" default="蓝色阔腿牛仔裤"}，佩戴一条小吊坠项链，手腕上戴着智能手表。自行车配有弯曲的银色车把、棕色车架，前方安装着一个大型编织藤篮。篮子里坐着 1 只面部柔和模糊的小狗，它坐姿端正，目视前方。采用明亮的自然日间场景，两侧是郁郁葱葱的树木，铺设好的小径向背景延伸，光线温暖柔和，浅景深，奶油般虚化的背景，呈现写实的摄影细节。将女子和自行车置于画面中心，从略低于视平线的角度拍摄，营造出 50mm 人像镜头的质感，色彩自然，氛围纯净美好，无文字，无水印，无其他人物或动物。
+
+[English]
+Create a realistic full-body outdoor lifestyle portrait of a young woman with a softly blurred anonymous face, fair rosy skin, long straight {argument name="hair color" default="black"} hair with curled ends, styled half-up and tied with a cute beige bow. She is smiling sweetly and riding a vintage city bicycle along a sunlit tree-lined park path. She wears a fitted {argument name="top color" default="yellow"} sleeveless ribbed top, high-waisted {argument name="pants style" default="blue wide-leg jeans"}, a small pendant necklace, and a smartwatch on one wrist. The bicycle has curved silver handlebars, a brown frame, and a large woven wicker basket mounted on the front. Inside the basket is exactly 1 small dog with a softly blurred face, sitting upright and looking forward. Use a bright natural daytime setting with lush green trees on both sides, a paved pathway receding into the background, warm soft sunlight, shallow depth of field, creamy bokeh, and realistic photography details. Center the woman and bicycle, shoot from slightly below eye level with a 50mm portrait-lens feel, natural colors, clean wholesome mood, no text, no watermark, no extra people or animals.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2066889470847361201) | 2026-06-16
+
+---
+
+### 🏷️ 例 1679：优雅小提琴手极简主义插画
+
+![优雅小提琴手极简主义插画](../../images/%E4%BC%98%E9%9B%85%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+主体内容：一位正在演奏小提琴的东方成年女性人物插画
+主体气质：{argument name="气质" default="优雅、灵动、清冷、精致"}
+画面用途：极简人物插画
+主色调：{argument name="主色调" default="深靛蓝、冷白、紫罗兰"}
+点缀色：{argument name="点缀色" default="金色"}
+几何元素强度：极弱
+几何元素类型：弧线
+画幅比例：4:5
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2066867671266910307) | 2026-06-16
+
+---
+
+### 🏷️ 例 1683：“未寄出的信”咖啡馆插画
+
+![“未寄出的信”咖啡馆插画](../../images/%E2%80%9C%E6%9C%AA%E5%AF%84%E5%87%BA%E7%9A%84%E4%BF%A1%E2%80%9D%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅时尚的 3:4 竖构图动漫时尚插画，采用富有表现力的水墨水彩风格，场景设定在窗边的一张小咖啡桌旁。画面展示了一位名为 {argument name="character name" default="Saiyu"} 的年轻女性，以四分之三侧面视角就座，她戴着宽檐黑帽，留着凌乱的 {argument name="hair color" default="灰棕色短发"}，身穿黑色露肩吊带裙，佩戴黑色颈圈和圆形黑色耳环，涂着亮面黑色指甲油。她的脸部被一个位于中心的大型不透明正方形遮挡块刻意遮住，遮挡块呈现温暖的灰褐色到棕色渐变，隐藏了大部分面部特征，仅露出部分眼睛、头发、帽子、耳朵和肩膀。她的右手伸向桌上的黑色密封信封；信封上有一个圆形的黄色柠檬片封蜡。旁边放着 1 杯高透明玻璃杯装的深色冰饮，杯中插着 1 根黑色吸管，杯沿装饰有 1 片黄色柠檬轮，杯身印有 1 个黄色圆形标志。使用奶油色、黑色、炭灰色、柔和棕色以及明亮的柠檬黄作为点缀的有限色调。构图上，左侧前景设有一个极具戏剧性的黑色斜向窗框，窗外是模糊的黄色花朵和叶片，白色桌面上投射着粗犷的干笔触阴影，并带有写意的水墨边框。整体氛围应如同捕捉到的决定性瞬间，概念标题为 {argument name="scene title" default="Letter Left Unsent"}：私密、时尚、苦涩且具有电影感。在右下角添加一行细微的、类似水印的签名文本 {argument name="signature text" default="SAIYU。"}。保持插画的写意感和绘画感，呈现可见的笔触纹理、高对比度的黑色形状以及柔和的奶油色背景，除签名外，画面中不应包含其他额外角色或可读文字。
+
+[English]
+Create a stylish vertical 3:4 anime fashion illustration in expressive ink-and-watercolor style, set at a small cafe table by a window. Show a young woman named {argument name="character name" default="Saiyu"} seated in three-quarter view, wearing a wide black hat, short tousled {argument name="hair color" default="ash-brown hair"}, a black off-shoulder camisole dress with thin straps, a black choker, round black earrings, and glossy black nail polish. Her face is intentionally covered by one large centered opaque square censor block in a warm taupe-to-brown gradient, hiding most facial features while leaving part of one eye, hair, hat, ear, and shoulder visible. Her right hand reaches toward a black sealed envelope on the table; the envelope has exactly 1 round yellow lemon-slice wax seal. Beside it is exactly 1 tall clear glass of dark iced drink with exactly 1 black straw, exactly 1 yellow lemon wheel garnish on the rim, and exactly 1 yellow circular emblem printed on the glass. Use a limited palette of cream, black, charcoal, muted brown, and bright lemon yellow accents. Compose the scene with a dramatic diagonal black window frame on the left foreground, blurred yellow flowers and leaves outside the window, a white tabletop with rough dry-brush shadows, and sketchy black ink borders. The mood should feel like a captured decisive moment, titled conceptually {argument name="scene title" default="Letter Left Unsent"}: intimate, fashionable, bittersweet, and cinematic. Add a small subtle watermark-like signature text {argument name="signature text" default="SAIYU。"} in the bottom-right corner. Keep the illustration loose and painterly with visible brush texture, high contrast black shapes, soft cream background, and no extra characters or readable text beyond the signature.
+```
+
+**来源：** [@サイユ。(Saiyu)](https://x.com/pe77fs/status/2066865334905454791) | 2026-06-16
+
+---
+
+### 🏷️ 例 1696：定制足球海报双重曝光
+
+![定制足球海报双重曝光](../../images/%E5%AE%9A%E5%88%B6%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片创作一张高质量的 8K 体育海报，保持原始面部特征不变。让他穿上最新的长袖 {argument name="team jersey" default="葡萄牙足球队服"}，并带有真实的球队品牌和赞助商标志。采用电影级的双重曝光构图：前景展示他握拳呐喊庆祝胜利的画面，背景则呈现一个巨大的淡化剪影，球衣上显示“{argument name="player name" default="karlos"}”和号码“{argument name="number" default="7"}”。背景为干净且富有质感的浅灰色，并带有微妙的超大号“7”字水印。光影效果强烈，对比度高，焦点极其清晰，细节逼真，呈现专业的足球海报设计。生成图像并使用参考图中的面部。
+
+[English]
+Create a high-quality 8K sports poster from the uploaded photo, keeping the original face unchanged. Dress him in the latest full-sleeve {argument name="team jersey" default="Portugal football jersey"} with authentic team branding and sponsor logos. Use a cinematic double-exposure composition: foreground shows him shouting in victory with a clenched fist, while a large faded rear-view silhouette appears behind, displaying “{argument name="player name" default="karlos"}” and number “{argument name="number" default="7"}” on the jersey. Clean textured light-gray background with a subtle oversized “7” watermark. Dramatic lighting, strong contrast, ultra-sharp focus, realistic details, professional football poster design. Give image and use face as in refrence image
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2066824159234240954) | 2026-06-16
+
+---
+
+### 🏷️ 例 1704：1960 年代里维埃拉超现实主义社论插画
+
+![1960 年代里维埃拉超现实主义社论插画](../../images/1960%20%E5%B9%B4%E4%BB%A3%E9%87%8C%E7%BB%B4%E5%9F%83%E6%8B%89%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%A4%BE%E8%AE%BA%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片中人物与一只时尚的 {argument name="subject" default="猫"} 在 {argument name="setting" default="奢华的 1960 年代里维埃拉休息室"} 中的超现实主义中世纪社论插画，拉长的比例，夸张的配饰，面无表情，精致的荒诞感，漂浮的物体，{argument name="color palette" default="温暖的赤陶色、石油蓝和芥末黄配色"}，富有表现力的油画质感，当代艺术画廊与法国里维埃拉海报艺术的结合，电影级社论摄影美学，高度细节，奇幻叙事
+
+[English]
+Surreal mid-century editorial illustration of the person in the photo and a stylish {argument name="pet" default="cat"} in a luxurious 1960s Riviera lounge, elongated proportions, oversized accessories, deadpan expressions, sophisticated absurdity, floating objects, warm terracotta, petrol blue and mustard yellow palette, expressive oil painting textures, contemporary art gallery meets French Riviera poster art, cinematic editorial photography aesthetic, highly detailed, whimsical storytelling
+```
+
+**来源：** [@Diego Jr](https://x.com/CallMeDiegoJr/status/2066792340895732178) | 2026-06-16
+
+---
+
+### 🏷️ 例 1713：世界杯夺冠球员通道场景
+
+![世界杯夺冠球员通道场景](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E7%90%83%E5%91%98%E9%80%9A%E9%81%93%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+胜利的 {argument name="event" default="FIFA World Cup"} 球员通道场景，以上传的人脸作为身份保留参考，主体正缓慢而自信地穿过现代化的深色球员通道，走向发光的体育场入口，身穿 {argument name="outfit" default="黑色街头风足球服"}，搭配长袖上衣、深色牛仔裤和浅色运动鞋，左手紧紧握着一座金色的奖杯，仿佛刚刚赢得了决赛。周围悬浮着几个金属奖杯和足球，呈现出超现实的电影感布局，一些漂浮在地面上方，另一些倒映在光亮的通道地面上。通道墙壁排列着昏暗的 LED 面板、抽象的世界杯图形，以及前方体育场传来的模糊欢呼光影。强烈的冷蓝色顶光与温暖的红色底光混合，在面部和服装上形成强烈的对比，烟雾在走廊中弥漫，戏剧性的阴影，光亮的反射，浅景深，高端体育海报构图，超写实细节，宏大的氛围，高级电影级调色，旨在营造出传奇、病毒式传播且令人难忘的视觉效果。
+
+[English]
+victorious {argument name="event" default="FIFA World Cup"} tunnel scene featuring the uploaded face as reference for identity preservation, the subject walking slowly and confidently through a dark modern player tunnel toward a glowing stadium entrance, wearing a {argument name="outfit" default="black streetwear-inspired football outfit"} with a long-sleeved top, dark jeans, and light sneakers, holding a golden trophy tightly in the left hand as if just won the final, while several metallic trophies and footballs appear suspended around him in a surreal cinematic arrangement, some floating slightly above the ground and others reflecting in the glossy tunnel floor, the tunnel walls lined with dim LED panels, abstract World Cup graphics, and blurred flashes of cheering crowd light from the stadium ahead, intense cool blue overhead lighting mixed with warm red uplight creating a powerful contrast across the face and outfit, smoke haze drifting through the corridor, dramatic shadows, glossy reflections, shallow depth of field, high-end sports poster composition, ultra realistic details, monumental atmosphere, premium cinematic grading, designed to feel legendary, viral, and unforgettable.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2066765289677570199) | 2026-06-16
+
+---
+
+### 🏷️ 例 1726：混合媒介纸娃娃时尚
+
+![混合媒介纸娃娃时尚](../../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BA%B8%E5%A8%83%E5%A8%83%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个极具创意的混合媒介时尚概念，场景设定在 {argument name="interior setting" default="明亮的斯堪的纳维亚风格客厅"}，展现了一位 {argument name="model" default="写实人物"} 与超大尺寸手绘纸艺时尚插画的无缝融合。服装呈现为真人大小的剪纸草图，由彩色铅笔、蜡笔和马克笔笔触绘制而成，边缘带有粗犷的黑色轮廓线，并使用可见的白色纸质标签和胶带痕迹固定。模特保持写实风格，而服装则采用多种风格绘制：{argument name="clothing styles" default="蓝色棒球夹克配短裤、别致黑色上衣配棕色长裤、超大款灰色西装外套配阔腿牛仔裤、彩色虹色连帽衫配慢跑裤"}。舒适的现代室内环境，自然光透过大窗户倾泻而入，室内植物、书架、木质家具、柔软的毯子、中性装饰，极简主义美学。时尚编辑摄影，奇幻的纸娃娃效果，手工草图质感，逼真的阴影与深度，超高细节，生活方式杂志品质，浅景深，柔和自然光，高写实度，趣味时尚叙事，高端商业广告，8K 分辨率。
+
+风格关键词：
+
+纸娃娃时尚，可穿戴草图艺术，彩色铅笔质感，混合媒介插画，写实模特，斯堪的纳维亚室内设计，时尚编辑广告，手工剪纸美学，舒适家居环境，逼真光影，创意广告摄影，超高细节，8k，杰作。
+
+[English]
+A highly creative mixed-media fashion concept in a {argument name="interior setting" default="bright Scandinavian-style living room"}, featuring a {argument name="model" default="realistic person"} seamlessly integrated with oversized hand-drawn paper fashion illustrations. The outfit appears as a life-sized cutout sketch made with colored pencils, crayons, and marker strokes, outlined with bold black lines and attached using visible white paper tabs and tape marks around the edges. The model remains photorealistic while the clothing is illustrated in various styles: {argument name="clothing styles" default="blue varsity jacket and shorts, chic black top with brown trousers, oversized gray blazer with wide-leg jeans, colorful rainbow hoodie and joggers"}. Cozy modern interior with natural daylight streaming through large windows, indoor plants, bookshelves, wooden furniture, soft blankets, neutral decor, minimalist aesthetic. Editorial fashion photography, whimsical paper-doll effect, handmade sketch texture, realistic shadows and depth, ultra-detailed, lifestyle magazine quality, shallow depth of field, soft natural lighting, high realism, playful fashion storytelling, premium commercial campaign, 8K resolution.
+
+Style Keywords:
+
+paper doll fashion, wearable sketch art, colored pencil texture, mixed media illustration, photorealistic model, Scandinavian interior, editorial fashion campaign, handcrafted cutout aesthetic, cozy home setting, realistic lighting, creative advertising photography, ultra detailed, 8k, masterpiece.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2066729818792890406) | 2026-06-16
+
+---
+

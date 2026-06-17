@@ -3312,3 +3312,157 @@ Constraints: Do not add extra tweets, extra media cards, extra buttons, watermar
 
 ---
 
+### 🖥️ 例 1654：未来感冰宫时尚拼贴画
+
+![未来感冰宫时尚拼贴画](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%86%B0%E5%AE%AB%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组未来感超现实主义冰宫时尚大片拼贴画，主角为 {argument name="model description" default="一位留着黑色短波波头的优雅女性"}，身着 {argument name="dress description" default="一件发光的虹彩薰衣草色液态金属挂脖礼服，配有雕塑感铬合金领饰、珠宝般的吊坠五金件、高开叉设计以及长长的飘逸裙摆"}。
+
+画布：垂直 2:3 时尚 mood-board 拼贴画，超高分辨率，分为 4 个清晰的网格图像面板：顶部两格，底部两格。无标题、无 Logo、无水印。
+
+布局与面板数量：包含 4 张独立的时尚摄影图。面板 1（左上）：全身正面秀场姿势，模特位于空灵的水晶冰宫中心，礼服垂落在反光的地面上，下摆周围环绕着闪烁的微粒。面板 2（右上）：从肩部到头部的特写，聚焦于铬合金领饰、虹彩皮肤高光、短波波头以及悬垂的抽象水晶耳环。面板 3（左下）：模特行走或摆姿势的戏剧性低角度侧视图，展示高开叉设计和扫过反光地面的超长半透明裙摆。面板 4（右下）：模特旋转或将礼服展开成花朵状的俯视图，周围环绕着发光的同心青色和紫色光环，宛如魔法科幻传送门。
+
+场景：{argument name="setting" default="一座高耸的水晶冰宫，拥有透明拱门、漂浮的菱形水晶、镜面湿地以及极光般的垂直光束"}。环境应营造出外星冰川大教堂中未来高定秀场的氛围，带有闪烁的霜雪、璀璨的冰尘、霓虹反射以及深邃的氛围感。
+
+视觉风格：超写实时尚摄影与未来幻想超现实主义的结合，光泽感编辑灯光，电影级对比度，高细节织物物理效果，棱镜反射，采用薰衣草色、青色、蓝绿色、银色和紫色的调色板。礼服应呈现半透明、金属感、全息感和湿润光泽，带有彩虹色焦散和闪烁的高光。使用戏剧性的轮廓光、柔和的皮肤美妆光以及梦幻的体积光。
+
+主体细节：模特姿态优雅修长，裸露双肩，颈部线条优美，皮肤光滑且带有微妙的全息光泽，表情从容且具有高级时尚感。面部可适当模糊或弱化，但时尚造型和珠宝必须清晰可见。珠宝数量：共 2 件醒目的珠宝元素——一件带中央吊坠的雕塑感铬合金领饰，以及在特写中可见的一枚悬垂水晶耳环。
+
+约束条件：保持拼贴画作为系列大片的连贯性和统一性。全程使用 4 个面板和 1 位模特。避免出现额外人物、文字、产品标签、现代家具、暖色调、卡通风格或杂乱元素。全程保持冰冷的薰衣草色与青色交织的未来高定氛围。
+
+[English]
+Goal: Create a futuristic surrealist ice-palace fashion editorial collage featuring {argument name="model description" default="an elegant woman with a short black bob haircut"} wearing {argument name="dress description" default="a luminous iridescent lavender liquid-metal halter gown with a sculptural chrome collar, jewel-like pendant hardware, a high slit, and a long flowing train"}.
+
+Canvas: Vertical 2:3 fashion mood-board collage, ultra high resolution, split into exactly 4 image panels in a clean grid: two panels on the top row and two panels on the bottom row. No captions, no logos, no watermarks.
+
+Layout and panel count: Include exactly 4 discrete fashion shots. Panel 1, top left: full-body front runway pose, the model centered in an ethereal crystal ice palace, gown falling to the reflective floor with sparkling particles around the hem. Panel 2, top right: close-up crop from shoulder to head area focusing on the chrome collar necklace, iridescent skin highlights, short bob hair, and a dangling abstract crystal earring. Panel 3, bottom left: dramatic low-angle side view of the model walking or posing, showing the high slit and an extremely long translucent train sweeping across the reflective floor. Panel 4, bottom right: overhead top-down view of the model spinning or opening the gown into a circular flower-like shape, surrounded by glowing concentric cyan and violet rings like a magical sci-fi portal.
+
+Setting: {argument name="setting" default="a towering crystalline ice palace with transparent arches, floating diamond-shaped crystals, mirrored wet floors, and aurora-like vertical light beams"}. The environment should feel like a future couture runway inside an alien glacier cathedral, with shimmering frost, glittering ice dust, neon reflections, and deep atmospheric depth.
+
+Visual style: Hyperrealistic fashion photography mixed with futuristic fantasy surrealism, glossy editorial lighting, cinematic contrast, high-detail fabric physics, prismatic reflections, pearlescent lavender, cyan, teal, silver, and violet color palette. The gown should look semi-transparent, metallic, holographic, and wet-shiny, with rainbow caustics and sparkling highlights. Use dramatic rim light, soft beauty lighting on skin, and magical volumetric glow.
+
+Subject details: The model has graceful elongated posing, bare shoulders, elegant neck, smooth skin with subtle holographic sheen, and a poised high-fashion expression. The face may be softly obscured or de-emphasized, but the fashion styling and jewelry must remain clear. Jewelry count: exactly 2 prominent jewelry elements — one sculptural chrome collar necklace with a central pendant, and one dangling crystal earring visible in the close-up.
+
+Constraints: Keep the collage seamless and coherent as one editorial series. Use exactly four panels and exactly one model throughout. Avoid extra people, text, product labels, modern furniture, warm earthy colors, cartoon styling, or clutter. Maintain an icy lavender-cyan futuristic couture mood throughout.
+```
+
+**来源：** [@Fox Zhang](https://x.com/FoxZhang1978/status/2067032959325184186) | 2026-06-16
+
+---
+
+### 🖥️ 例 1664：Power Suit 高端时尚大片
+
+![Power Suit 高端时尚大片](../../images/Power%20Suit%20%E9%AB%98%E7%AB%AF%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+参考提供的参考图，创作一张超写实的高端时尚编辑肖像，保留该女性的面部特征和独特神韵。
+她是一位美丽的年轻女性，留着一头浓密的长波浪深色卷发，自然地垂落在肩头，几缕发丝随意地遮挡在脸庞。她的皮肤呈现出无瑕的瓷质感，具有真实的纹理和柔和的哑光妆容。她有着精致的烟熏妆、修剪自然的眉毛以及柔和的玫瑰色双唇，神情宁静、神秘且充满自信。
+在她的脖颈侧面添加一个 {argument name="tattoo" default="写着“Meem”的精致极简手写体纹身"}。
+为她穿上一套 {argument name="outfit" default="超大款黑色定制 Power Suit"}，包含剪裁利落的西装外套和宽松长裤。内搭一件挺括的白色衬衫，领口扣子随意解开。一条 {argument name="accessory" default="深酒红色丝绸领带"} 松散地挂在颈间，略显歪斜，营造出一种精致而叛逆的时尚感。她以一种放松却充满气场的姿势站立，双手自然地插在裤兜里。
+将她置于无缝的深酒红色渐变摄影棚背景前。使用柔和的电影级灯光，轻柔地包裹她的面部，营造出优雅的深度和微妙的阴影。微风拂过，让她的秀发更具动感，提升了整体的精致编辑氛围。
+以高端时尚宣传大片的规格捕捉画面，追求极致的真实感：自然的皮肤毛孔、细节分明的发丝、丰富的面料质感、完美的剪裁以及浅景深效果。模拟中画幅相机，使用 85mm 人像镜头、柔和的漫射主光以及优雅的电影级调色。
+视觉方向：Saint Laurent 风格剪裁、Vogue Korea 编辑审美、极简奢华造型、现代 Power Dressing、精致韩系时尚大片、永恒优雅、暗黑奢华肖像。
+质量标签：杰作，超写实，照片级真实，8K，高端时尚摄影，电影级构图，高细节，高级质感，真实光影。
+负面提示词
+低质量，模糊，解剖结构错误，多余手指，多余肢体，面部扭曲，重复人物，畸形手部，卡通，动漫，CGI，塑料感皮肤，水印，Logo，文字，噪点，色彩过饱和，光线不佳，比例不真实，低分辨率，伪影，不自然的头发，服装渲染粗糙，姿势尴尬。
+
+[English]
+Using the reference image, create an ultra-photorealistic luxury fashion editorial portrait of the same woman, preserving her facial identity and distinctive features.
+She is a beautiful young woman with long, voluminous dark wavy hair that falls naturally around her shoulders, with a few loose strands partially covering her face. Her skin is flawless porcelain with realistic texture and soft matte makeup. She has subtly smoky eyes, naturally groomed brows, and muted rose-toned lips, giving her a serene, mysterious, and effortlessly confident expression.
+Add a small elegant {argument name="tattoo" default="tattoo on the side of her neck that reads “Meem”"} in delicate minimalist handwritten script.
+Dress her in an {argument name="outfit" default="oversized black tailored power suit"} featuring a sharp structured blazer and relaxed-fit trousers. Underneath, she wears a crisp white dress shirt with the top buttons casually undone. A {argument name="accessory" default="deep burgundy silk tie"} hangs loosely around her neck, slightly untied and off-center, creating a refined rebellious fashion statement. She stands in a relaxed yet commanding pose with both hands tucked naturally into her trouser pockets.
+Place her against a seamless deep burgundy gradient studio backdrop. Use soft cinematic lighting that gently wraps around her face, creating elegant depth and subtle shadows. A light breeze adds movement to her hair, enhancing the sophisticated editorial atmosphere.
+Capture the scene as a premium luxury fashion campaign with exceptional realism: natural skin pores, individually detailed hair strands, rich fabric textures, immaculate tailoring, and shallow depth of field. Simulate a medium-format camera using an 85mm portrait lens, soft diffused key light, and elegant cinematic color grading.
+Visual direction: Saint Laurent-inspired tailoring, Vogue Korea editorial aesthetic, minimalist luxury styling, modern power dressing, sophisticated Korean fashion campaign, timeless elegance, dark luxury portraiture.
+Quality tags: masterpiece, ultra realistic, photorealistic, 8K, luxury editorial photography, cinematic composition, highly detailed, premium textures, realistic lighting.
+Negative Prompt
+low quality, blurry, bad anatomy, extra fingers, extra limbs, distorted face, duplicate person, malformed hands, cartoon, anime, CGI, plastic skin, watermark, logo, text, noisy image, oversaturated colors, poor lighting, unrealistic proportions, low resolution, artifacts, unnatural hair, poorly rendered clothing, awkward pose.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2066918517287637125) | 2026-06-16
+
+---
+
+### 🖥️ 例 1673：赛博朋克 AI 创业者肖像
+
+![赛博朋克 AI 创业者肖像](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20AI%20%E5%88%9B%E4%B8%9A%E8%80%85%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影质感肖像，一位自信的年轻 {argument name="profession" default="AI 创业者"} 站在充满未来感的赛博朋克数据中心中，手中拿着一块发光的透明全息玻璃面板。霓虹绿与电光蓝灯光，先进的 AI 仪表盘，服务器机架，数字界面，浮动 HUD 元素，体积光，高科技氛围，戏剧性的轮廓光，清晰的面部细节，时尚的黑色连帽衫，专业的胡须，侧视的专注目光。全息面板上显示着带有发光边框和数字特效的醒目未来感排版。网络安全、人工智能、数据智能主题。超精细，照片级真实感，景深，焦外成像，Unreal Engine 5 渲染品质，科幻美学，电影级构图，超清晰对焦，8K 分辨率，未来感品牌海报，ArtStation 热门作品，杰作，高度细节，霓虹光效，先进技术环境，9:16 竖屏比例。
+
+[English]
+Ultra-realistic cinematic portrait of a confident young {argument name="profession" default="AI entrepreneur"} standing in a futuristic cyberpunk data center, holding a glowing transparent holographic glass panel. Neon green and electric blue lighting, advanced AI dashboards, server racks, digital interfaces, floating HUD elements, volumetric lighting, high-tech atmosphere, dramatic rim light, sharp facial details, stylish black hoodie, professional beard, intense gaze looking sideways. The holographic panel displays bold futuristic typography with glowing borders and digital effects. Cybersecurity, artificial intelligence, data intelligence theme. Hyper-detailed, photorealistic, depth of field, bokeh lights, Unreal Engine 5 quality, sci-fi aesthetics, cinematic composition, ultra-sharp focus, 8K resolution, futuristic branding poster, trending on ArtStation, masterpiece, highly detailed, neon glow, advanced technology environment, vertical 9:16 aspect ratio.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2066882294640775470) | 2026-06-16
+
+---
+
+### 🖥️ 例 1689：巨型智能手机音乐播放器场景
+
+![巨型智能手机音乐播放器场景](../../images/%E5%B7%A8%E5%9E%8B%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+高角度俯拍视角，真实街头摄影风格，一台巨型黑色圆角手机平放在粗糙灰色水泥地面上，手机像真实物体一样有厚度、边框和阴影，画面为竖版 3:4 构图。手机屏幕显示 QQ音乐 播放界面，深黑绿色暗色 UI，绿色高亮按钮和进度条，界面清晰真实，带有中文音乐播放器元素。
+
+一位温柔漂亮的中国年轻女性站在巨型手机屏幕上，像站在音乐播放面板里的梦幻人物。她是东方美女气质，五官精致柔和，皮肤白皙干净，妆容淡雅自然，眼神温柔安静，微微抬头看向镜头。黑色长发做成松散优雅的半扎发或低盘发，带少量自然碎发，佩戴精致耳坠和细项链。人物穿一条{argument name="裙子颜色" default="紫色"}长裙，轻纱材质，飘逸层叠，裙摆自然垂落，带有柔和褶皱、薄纱披肩、细肩带和小花装饰，整体风格浪漫、温柔、东方、仙气，但保持真实摄影质感。
+
+手机屏幕内容：顶部显示时间 13:14，右上角有信号、电量、循环图标。中间是方形专辑封面，画面为紫蓝色黄昏天空、云层、栏杆和远处人物剪影，氛围忧伤浪漫，封面上有淡淡手写中文艺术字。歌曲信息区域清楚显示中文标题“{argument name="歌曲名" default="多余的解释"}”，歌手名“{argument name="歌手名" default="许嵩"}”。下方有 QQ音乐 风格标签按钮：VIP、SQ、杜比、音效 off、视频。歌词行显示“那阵子我们的感情出了一些问题”。底部有绿色播放进度条，时间显示 01:53 和 04:21，中间是绿色圆形暂停按钮，两侧有上一首、下一首、随机播放、列表等图标，右下角显示“QQ音乐”。
+
+画面右侧地面放着一个深酒红色皮质手提包，带金属扣、拉链、肩带和复古五金细节。画面底部边缘露出拍摄者的棕色鞋子和深色裤腿，增强第一视角俯拍感。右上角有黑色玻璃门框或建筑边缘。整体光线柔和自然，真实摄影质感，细节清晰，高级感，时尚大片风格，巨型手机与人物比例真实，透视准确，阴影自然，画面干净精致。
+```
+
+**来源：** [@鑫叔](https://x.com/Kevin69156026/status/2066855663527919683) | 2026-06-16
+
+---
+
+### 🖥️ 例 1733：超现实流体艺术时尚大片
+
+![超现实流体艺术时尚大片](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%B5%81%E4%BD%93%E8%89%BA%E6%9C%AF%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超奢华的超现实时尚大片，主角需与上传图片中的人物保持一致，100% 保留原始面部特征，不对面部进行任何改动。保持精确的面部结构、皮肤纹理、肤色、发型、眼型、表情以及所有独特的身份识别特征，达到照片级的真实感。
+
+主角自信地向前迈步，穿过一场令人惊叹的流体爆炸，周围环绕着 {argument name="liquid color one" default="白色"} 和充满活力的 {argument name="liquid color two" default="熔岩橙色"} 液体颜料，画面定格在动态瞬间。巨大的流体波浪在身体周围戏剧性地卷曲，悬浮的液滴、飞溅的痕迹以及优雅的抽象动态如同液体艺术般雕塑着空气。
+
+为主角穿上一套前卫的 {argument name="clothing style" default="全白高级定制西装"}，剪裁奢华，轮廓修长，飘逸的面料在场景中优雅地舞动。环境是一个纯净、极简的白色空间，强调对比度和留白感。
+
+主角身后悬浮着一个巨大的发光橙色球体，宛如太阳，散发着柔和的体积光，营造出一种天体般的梦幻氛围。电影级的灯光在液体表面产生微妙的反射，增强了深度、真实感和视觉冲击力。
+
+风格：高端奢华时尚广告、艺术摄影大片、当代画廊杰作、超写实纹理、超精细面料模拟、动态流体物理、清晰对焦、定格动态捕捉、电影级调色、体积光、白色与橙色的高对比度、优雅构图、艺术张力、博物馆级影像。
+
+超写实，8K 分辨率，获奖级时尚摄影，Vogue 级时尚美学，大师级品质。
+
+[English]
+Create an ultra-luxury surreal fashion editorial featuring the same person from the uploaded image, preserving 100% of the original facial identity with no alterations to the face whatsoever. Maintain the exact facial structure, skin texture, complexion, hairstyle, eye shape, expression, and all unique identity-defining features with photorealistic accuracy.
+
+The subject walks confidently forward through a breathtaking explosion of flowing {argument name="liquid color one" default="white"} and vibrant {argument name="liquid color two" default="molten-orange"} liquid paint, captured in frozen motion. Massive fluid waves curl dramatically around the body, with suspended droplets, splashes, and elegant abstract motion sculpting the air like liquid art.
+
+Dress the subject in an avant-garde {argument name="clothing style" default="all-white couture suit"} with luxurious tailoring, elongated silhouettes, and dramatic flowing fabric that moves gracefully through the scene. The environment is a pristine, minimalist white space that emphasizes contrast and negative space.
+
+Behind the subject floats an enormous glowing orange sun-like sphere, radiating soft volumetric light and creating a celestial, dreamlike atmosphere. Cinematic lighting produces subtle reflections across the liquid surfaces, enhancing depth, realism, and visual impact.
+
+Style: premium luxury fashion campaign, fine-art editorial photography, contemporary gallery masterpiece, hyper-realistic textures, ultra-detailed fabric simulation, dynamic fluid physics, sharp focus, frozen-motion capture, cinematic color grading, volumetric lighting, high contrast between white and orange, elegant composition, artistic energy, museum-quality imagery.
+
+Ultra-realistic, 8K resolution, award-winning editorial photography, Vogue-level fashion aesthetic, masterpiece quality.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2066722146265751634) | 2026-06-16
+
+---
+

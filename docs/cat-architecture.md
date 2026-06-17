@@ -894,3 +894,39 @@ Create a realistic vertical mirror-selfie photograph of {argument name="characte
 
 ---
 
+### 🏛️ 例 1698：机器人与巨龙的史诗对决
+
+![机器人与巨龙的史诗对决](../../images/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%B7%A8%E9%BE%99%E7%9A%84%E5%8F%B2%E8%AF%97%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在废墟城市中，{argument name="mecha" default="巨大的未来派机器人"} 与 {argument name="beast" default="巨大的喷火巨龙"} 之间的史诗对决，机器人配备发光的蓝色武器和重型装甲，巨龙覆盖着熔岩般的鳞片并喷射火焰，到处都是爆炸，燃烧的建筑物，电影般的动作场景，阴暗的风暴天空，超写实，高度细节，科幻奇幻，史诗规模，4K 杰作
+
+[English]
+Epic battle between a {argument name="mecha" default="giant futuristic robot"} and a {argument name="beast" default="massive fire-breathing dragon"} in a destroyed city, robot with glowing blue weapons and heavy armor, dragon covered in lava-like scales breathing fire, explosions everywhere, burning buildings, cinematic action scene, dark stormy sky, ultra realistic, highly detailed, sci-fi fantasy, epic scale, 4K masterpiece
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2066814564822585769) | 2026-06-16
+
+---
+
+### 🏛️ 例 1744：充满活力的花园女性肖像
+
+![充满活力的花园女性肖像](../../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E8%8A%B1%E5%9B%AD%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位迷人的年轻女性站在充满活力的 {argument name="garden type" default="花丛花园"} 中，背景是明亮的自然日光，留着一头柔顺的深棕色长直发，皮肤透着柔和的光泽，面部表情宁静，身穿 {argument name="outfit" default="浅粉蓝色麻花针织毛衣和白色迷你裙"}，背着一款时尚的 {argument name="accessory" default="绗缝单肩包"}，手中拿着一台复古相机。周围环绕着郁郁葱葱的绿色植物和盛开的橙色与粉色花朵，电影感户外肖像摄影，柔和的阳光，浅景深，面部细节丰富，逼真的皮肤质感，自然色彩，单反相机画质，超写实，柔和的背景虚化，时尚摄影风格，优雅的姿态，高细节，4K 分辨率，焦点清晰，自然光，美学构图。
+
+[English]
+A stunning young woman standing in a vibrant {argument name="garden type" default="flower garden"} during bright natural daylight, long straight dark brown hair, soft glowing skin, calm facial expression, wearing a {argument name="outfit" default="light pastel blue cable-knit sweater and a white mini skirt"}, carrying a stylish {argument name="accessory" default="quilted shoulder bag"} and holding a vintage camera in hand. Surrounded by lush green plants and blooming orange and pink flowers, cinematic outdoor portrait photography, soft sunlight, shallow depth of field, highly detailed face, realistic skin texture, natural colors, DSLR quality, ultra-realistic, soft bokeh background, fashion photography style, elegant pose, high detail, 4K, sharp focus, natural lighting, aesthetic composition.
+```
+
+**来源：** [@S](https://x.com/sakshi___007/status/2066705566106550533) | 2026-06-16
+
+---
+

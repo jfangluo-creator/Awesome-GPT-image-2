@@ -2848,3 +2848,75 @@ Constraints: Keep the main character visually consistent in all 15 panels. Use e
 
 ---
 
+### 🎬 例 1660：困倦的圆滚滚仓鼠漫画
+
+![困倦的圆滚滚仓鼠漫画](../../images/%E5%9B%B0%E5%80%A6%E7%9A%84%E5%9C%86%E6%BB%9A%E6%BB%9A%E4%BB%93%E9%BC%A0%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅迷人的黑白漫画风格水墨插图，描绘一只极其圆润、毛茸茸的 {argument name="animal" default="仓鼠"} 半个身子探出小木屋正在睡觉。这只动物体型超大且呈球状，闭着困倦的双眼，小嘴微张，脸颊柔软，耳朵细小，胡须精致，有着清晰的毛发排线，两只小前爪垂在门槛上。木屋有垂直的木板墙、弧形拱门、圆形的瓦片屋顶，门上方挂着一块小牌子，上面写着 {argument name="sign text" default="おうち♡"}。将木屋放置在简单的木台阶或分层积木上，仓鼠瘫在上面的台阶上，仿佛刚醒来又睡着了。在左侧精确添加三个睡眠符号：一个手写的“Zzz...”标记，下方有两个漂浮的小气泡，以及一个指向下方台阶上一小团灰尘的虚线弯曲箭头。使用干净的白色背景，精致的钢笔水墨线条，轻微的交叉排线，细腻的木纹，可爱的日式漫画风格，极简阴影，温馨幽默的氛围，方形构图，无色彩，无额外角色，无水印。
+
+[English]
+Create a charming black-and-white manga ink illustration of an extremely round, fluffy {argument name="animal" default="hamster"} sleeping halfway out of a small wooden house. The animal is oversized and spherical, with closed sleepy eyes, tiny mouth, soft cheeks, small ears, fine whiskers, visible fur hatching, and two tiny front paws drooping over the ledge. The wooden house has vertical plank walls, a curved arched doorway, a tiled rounded roof, and a small sign above the door reading {argument name="sign text" default="おうち♡"}. Place the house on top of simple wooden steps or tiered blocks, with the hamster slumped over the upper step as if it has just woken up and fallen asleep again. Add exactly three sleep symbols to the left: a handwritten “Zzz...” mark, two small floating bubbles beneath it, and one dashed curved arrow pointing downward toward a small puff of dust on the lower step. Use clean white background, delicate pen-and-ink linework, light crosshatching, subtle wood grain, cute Japanese comic style, minimal shading, cozy and humorous mood, square composition, no color, no extra characters, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2066956292825264544) | 2026-06-16
+
+---
+
+### 🎬 例 1715：奇幻和菓子漫画烹饪页面
+
+![奇幻和菓子漫画烹饪页面](../../images/%E5%A5%87%E5%B9%BB%E5%92%8C%E8%8F%93%E5%AD%90%E6%BC%AB%E7%94%BB%E7%83%B9%E9%A5%AA%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版日式漫画，内容是在温暖的奇幻厨房中制作传统甜点，采用精致的动漫风格，包含详细的背景、生动的分镜以及地道的漫画对话气泡。
+
+画布：高竖版漫画页面，比例约为 2:3，带有粗黑边框和全彩渲染的动漫艺术。使用温暖的琥珀色灯光，木制柜台、铜锅、装满罐子的架子、木桶、悬挂的炊具，营造出舒适的旧世界甜点工坊氛围。
+
+布局：使用 6 个漫画分镜。分镜 1 是顶部的全宽大分镜。分镜 2 是其下方的左侧中型分镜。分镜 3 是分镜 2 旁边的右侧中型分镜。分镜 4 是左下方的窄幅特写分镜。分镜 5 是右下方较大的烹饪动作分镜。分镜 6 是底部的全宽反应分镜。
+
+角色：包含 4 个固定的奇幻/动漫角色。角色 1 是 {argument name="main confectioner" default="一位留着黑色长发、戴着发簪、身穿白衬衫和海军蓝围裙的日系少女"}；她负责引导烹饪，出现在分镜 1、2 和 5 中。角色 2 是 {argument name="elf guest" default="一位身穿绿色与白色华丽奇幻长裙的精灵女性"}；角色 3 是 {argument name="samurai guest" default="一位留着尖刺红发、身穿深色盔甲、佩戴长剑的高大战士"}；角色 4 是 {argument name="lavender-haired guest" default="一位身穿紫色与白色奇幻服饰、拥有淡紫色头发的少女"}。在生成的画面中，面部由柔和的方形模糊块遮挡，但肢体语言和服装保持可见。
+
+分镜细节：
+- 分镜 1：甜点师站在木制柜台后，张开双臂展示食材。展示 2 个食材碗：中心是一个装满光泽红豆的大碗，右侧是一个装有白色粉末的小碗。添加 4 个文本元素：右侧对话气泡写着「先日のクエストのお礼に、私の世界の『和菓子』を作ります！」，左侧对话气泡写着「用意したのは、この小豆っていうのと…こちらが砂糖代わりに使えそうな粉」，豆子旁边的标签卡写着「バナシウスの絆　一般的に花の中身として使用されている」，粉末旁边的标签卡写着「エリドゥ粉　この世界での甘味料の一つ。」
+- 分镜 2：甜点师搅拌着一锅冒热气的红豆。添加 1 个对话气泡写着「洗ったバナシウスをじっくり茹でてまっすぐ柔らかくします」。
+- 分镜 3：三位客人从柜台或门口好奇地注视着，显得印象深刻。添加 2 个对话气泡：精灵说「ただの豆を茹でて菓子になるの…？」，淡紫色头发的少女说「ふんふん、あんな味味わものが美味いわけが…」。
+- 分镜 4：红豆在锅上的篮子或滤网中沥水的特写，蒸汽升腾。添加 1 个大号拟声词：「ザッ…」。
+- 分镜 5：甜点师微笑着将白色粉末倒入豆锅中，并用木铲搅拌。展示豆沙变稠并产生光泽的过程。添加 3 个文本元素：对话气泡写着「ここにエリドゥ粉を加えて、焦げ付かないようにじっくり練りながら煮詰めます！」，倒入的拟声词「ドサッ」，以及搅拌/变稠的拟声词「コトコト…」和「トロリ…」。
+- 分镜 6：三位客人在前景的广角反应镜头，背景带有闪烁的花朵装饰，闻着甜美的香气。精灵脸红或做出夸张反应，红发战士站在中间，淡紫色头发的少女惊讶地捂住嘴。添加 2 个文本元素：精灵附近粉色的波浪状反应拟声词「ぐぅ～～」，以及右侧对话气泡写着「あら……？なんだか、とても甘い香りがしてきましたよ……？」
+
+视觉风格：高质量现代动漫漫画着色、清晰的线条艺术、电影般的温暖灯光、丰富的奇幻厨房细节、戏剧性的特写、蒸汽效果、有光泽的豆子、手写日文漫画拟声词、带有黑色日文竖排文字的白色对话气泡、小羊皮纸食材标签，以及充满活力的烹饪漫画构图。
+
+限制：保持页面为一个完整的漫画页，保留 6 个分镜，4 个角色，开篇分镜中 2 个可见的食材碗，以及所列的日文文本。不要添加额外的分镜、Logo、水印、页码或英文标题。
+
+[English]
+Goal: Create a vertical Japanese manga page about making traditional sweets in a warm fantasy kitchen, in polished anime style with detailed backgrounds, expressive paneling, and authentic manga speech bubbles.
+
+Canvas: Tall vertical comic page, approximately 2:3 aspect ratio, with thick black panel borders and full-color rendered anime art. Use warm amber lighting, wooden counters, copper pots, shelves of jars, barrels, hanging cookware, and a cozy old-world confectionery workshop atmosphere.
+
+Layout: Use exactly 6 comic panels. Panel 1 is a wide full-width opening panel at the top. Panel 2 is a medium left panel below it. Panel 3 is a medium right panel beside panel 2. Panel 4 is a narrow lower-left close-up panel. Panel 5 is a larger lower-middle/right cooking-action panel. Panel 6 is a wide full-width reaction panel at the bottom.
+
+Characters: Include exactly 4 recurring fantasy/anime characters. Character 1 is {argument name="main confectioner" default="a young Japanese-style girl with long black hair, hairpins, white blouse, and navy apron"}; she leads the cooking and appears in panels 1, 2, and 5. Character 2 is {argument name="elf guest" default="a blonde elf woman in a green-and-white ornate fantasy dress"}; Character 3 is {argument name="samurai guest" default="a tall red-haired warrior with spiky hair, dark armor, and a sheathed sword"}; Character 4 is {argument name="lavender-haired guest" default="a pale lavender-haired girl in a white-and-purple fantasy outfit"}. In the generated look, faces are obscured by soft square blur blocks, but body language and costumes remain visible.
+
+Panel details:
+- Panel 1: The main confectioner stands behind a wooden counter with arms open, presenting ingredients. Count exactly 2 ingredient bowls: one large bowl piled with glossy red adzuki beans in the center, and one smaller bowl of white powder on the right. Add 4 text elements: a right speech bubble saying 「先日のクエストのお礼に、私の世界の『和菓子』を作ります！」, a left speech bubble saying 「用意したのは、この小豆っていうのと…こちらが砂糖代わりに使えそうな粉」, a label card by the beans saying 「バナシウスの絆　一般的に花の中身として使用されている」, and a label card by the powder saying 「エリドゥ粉　この世界での甘味料の一つ。」
+- Panel 2: The main confectioner stirs a steaming pot of red beans. Add 1 speech bubble saying 「洗ったバナシウスをじっくり茹でてまっすぐ柔らかくします」.
+- Panel 3: The three guests watch from a counter or doorway, curious and impressed. Add 2 speech bubbles: one from the elf saying 「ただの豆を茹でて菓子になるの…？」 and one from the lavender-haired guest saying 「ふんふん、あんな味味わものが美味いわけが…」.
+- Panel 4: Close-up of steaming red beans being drained in a basket or strainer over a pot, with vapor rising. Add 1 large sound effect: 「ザッ…」.
+- Panel 5: The main confectioner smiles while pouring white powder into a pan of beans and stirring with a wooden spatula. Show the paste thickening and becoming glossy. Add 3 text elements: a speech bubble saying 「ここにエリドゥ粉を加えて、焦げ付かないようにじっくり練りながら煮詰めます！」, a pouring sound effect 「ドサッ」, and stirring/thickening sound effects 「コトコト…」 and 「トロリ…」.
+- Panel 6: Wide reaction shot of the three guests in the foreground with sparkly floral background accents, smelling the sweet aroma. The elf blushes or reacts dramatically, the red-haired warrior stands in the center, and the lavender-haired girl covers her mouth in surprise. Add exactly 2 text elements: a pink wavy reaction sound 「ぐぅ～～」 near the elf, and a right speech bubble saying 「あら……？なんだか、とても甘い香りがしてきましたよ……？」
+
+Visual style: High-quality modern anime manga coloring, crisp line art, cinematic warm lighting, rich fantasy-kitchen details, dramatic close-ups, steam effects, glossy beans, handwritten Japanese manga sound effects, white speech bubbles with black Japanese vertical text, small parchment ingredient labels, and energetic cooking-comic composition.
+
+Constraints: Keep the page as one complete manga page, preserve exactly 6 panels, exactly 4 characters, exactly 2 visible ingredient bowls in the opening panel, and the listed Japanese text. Do not add extra panels, logos, watermarks, page numbers, or English captions.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2066751968757129547) | 2026-06-16
+
+---
+

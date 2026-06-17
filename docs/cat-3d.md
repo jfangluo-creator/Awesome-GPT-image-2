@@ -2380,3 +2380,161 @@ Create a polished anime-style illustration of a young Japanese-style maid restin
 
 ---
 
+### 🧸 例 1663：3D 素描错觉少女肖像
+
+![3D 素描错觉少女肖像](../../images/3D%20%E7%B4%A0%E6%8F%8F%E9%94%99%E8%A7%89%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极具创意的 3D 错觉艺术作品，画面中 {argument name="subject" default="可爱的少女"} 正从放置在木桌上的螺旋笔记本页面中走出。笔记本内页带有横线，顶部有手写文字。少女呈现半写实的 3D 卡通风格，留着柔软的棕色波浪卷发，妆容自然，笑容甜美，身穿 {argument name="top" default="浅色短款上衣"} 和 {argument name="bottom" default="浅灰色高腰牛仔裤"}，脚蹬白色运动鞋。她的下半身呈现为笔记本上的铅笔素描效果，而上半身则看起来栩栩如生，仿佛从纸面中跃出。
+
+[English]
+A creative 3D illusion artwork of a {argument name="subject" default="cute young girl"} stepping out of a spiral notebook page placed on a wooden desk. The notebook has lined paper with handwritten text at the top. The girl looks semi-realistic 3D cartoon style, soft wavy brown hair, natural makeup, sweet smile, wearing a {argument name="top" default="pastel crop top"} and {argument name="bottom" default="high-waisted light grey jeans"} with white sneakers. Her lower body appears sketched in pencil on the notebook while the upper body looks realistic and popping out of the page.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066937475914990057) | 2026-06-16
+
+---
+
+### 🧸 例 1671：坐在 2026 数字上的女大学生
+
+![坐在 2026 数字上的女大学生](../../images/%E5%9D%90%E5%9C%A8%202026%20%E6%95%B0%E5%AD%97%E4%B8%8A%E7%9A%84%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖版肖像照片，画面中 {argument name="character description" default="一位可爱的大学生女孩"} 悠闲地坐在公园里巨大的独立 3D 金属金色数字 {argument name="year text" default="2026"} 上。女孩位于画面中心，坐在数字顶部，双手轻搭在数字边缘，双腿自然下垂，身穿 3 件核心服饰：一件浅黄色半拉链连帽衫、修身黑色牛仔裤和干净的白色运动鞋。她留着长长的深色头发，编成侧边麻花辫，肤色自然，姿态从容休闲。面部区域应进行柔和的匿名处理或保持模糊，不显示具体的五官特征。3D 数字为大型光亮金色铬合金材质，带有斜面边缘、逼真的反射效果和明显的厚度；所有 4 个数字从左到右清晰可辨：2、0、2、6。场景设定在秋季公园的草地上，背景为带有绿色、橙色和棕色的树木，呈现出强烈的虚化景深效果，柔和的日光与黄金时刻的逆光，电影级镜头质感，逼真的阴影，浅景深，高细节，比例自然，无额外文字，无水印。
+
+[English]
+Create an ultra-realistic vertical portrait photo of {argument name="character description" default="a cute college-age girl"} sitting casually on giant freestanding 3D metallic gold numbers spelling {argument name="year text" default="2026"} in a beautiful park. The girl is centered, seated across the top of the middle numbers, with both hands resting on the number edges, legs relaxed downward, wearing exactly 3 main outfit pieces: a soft yellow half-zip hoodie, fitted black jeans, and clean white sneakers. She has long dark hair styled in a side braid over one shoulder, natural skin tone, and a calm casual pose. The face area should be softly anonymized or left indistinct, with no detailed identity features. The 3D numbers are large glossy gold chrome with beveled edges, realistic reflections, and visible thickness; all 4 digits are clearly readable from left to right: 2, 0, 2, 6. Set the scene on grass in an autumn park with warm green, orange, and brown trees in the background, heavily blurred bokeh depth of field, soft daylight and golden-hour backlighting, cinematic lens look, realistic shadows, shallow focus, high detail, natural proportions, no extra text, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2066889461955449267) | 2026-06-16
+
+---
+
+### 🧸 例 1687：3D 收藏级玩具立体模型
+
+![3D 收藏级玩具立体模型](../../images/3D%20%E6%94%B6%E8%97%8F%E7%BA%A7%E7%8E%A9%E5%85%B7%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度精细的 3D 收藏级玩具立体模型，主角为 {argument name="subject" default="坐在户外咖啡桌旁的时尚年轻情侣"}，灵感源自真实参考照片。将两人转化为 {argument name="style" default="高级设计师乙烯基人偶"}，具有光滑的亮面塑料质感、可动玩具关节细节、夸张的表情大眼、逼真的面部特征以及时尚的服饰。
+
+女性人偶留着深色编织发型，佩戴黑色墨镜、金色耳环、叠戴金项链，身穿白色 V 领衬衫。她托着腮，微笑着看向同伴。男性人偶留着浓密的深色波浪发，佩戴黑色墨镜，身穿白色 T 恤，手腕戴着银色手表，正用白色陶瓷杯喝咖啡。
+
+两人坐在木质咖啡桌旁，桌上摆放着咖啡杯、茶托和勺子。场景设定为优雅的 {argument name="location" default="欧式户外咖啡馆"}，背景为温暖的米色建筑、大窗户、蓝色遮阳伞、郁郁葱葱的绿树以及柔焦处理的背景客人。
+
+风格：皮克斯风格收藏级玩具、高级乙烯基人偶、设计师玩具美学、超逼真 3D 渲染、亮面塑料质感、玩具摄影、浅景深、电影级布光、温暖的黄金时刻阳光、照片级真实材质、高端商业产品摄影、焦点清晰、超精细、8K 分辨率。
+
+构图：正面中景镜头，双人居中，姿态自然，咖啡馆氛围，富有深度与真实感，专业广告级质量。
+
+渲染质量：Octane Render、Unreal Engine 5、光线追踪、全局光照、逼真反射、HDR 布光、高细节纹理、收藏级人偶展示。
+
+[English]
+Create a highly detailed 3D collectible toy diorama of a {argument name="subject" default="stylish young couple sitting at an outdoor café table"}, inspired by a real-life reference photo. Transform both people into {argument name="style" default="premium designer vinyl figures"} with smooth glossy plastic surfaces, articulated toy-joint details, oversized expressive eyes, realistic facial features, and fashionable outfits.
+
+The female figure has dark braided hair, black sunglasses, gold earrings, layered gold necklaces, and a white V-neck blouse. She rests her chin on her hand while smiling at her companion. The male figure has thick wavy dark hair, black sunglasses, a white t-shirt, and a silver wristwatch while drinking coffee from a white ceramic cup.
+
+Both figures sit at a wooden café table with coffee cups, saucers, and spoons. The setting is an elegant {argument name="location" default="European-style outdoor café"} with warm beige architecture, large windows, blue umbrellas, lush green trees, and softly blurred background guests.
+
+Style: Pixar-inspired collectible toy, premium vinyl figure, designer toy aesthetic, ultra-realistic 3D render, glossy plastic texture, toy photography, shallow depth of field, cinematic lighting, warm golden-hour sunlight, photorealistic materials, high-end commercial product photography, sharp focus, ultra detailed, 8K resolution.
+
+Composition: Front-facing medium shot, both characters centered, natural poses, café ambiance, depth and realism, professional advertisement quality.
+
+Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination, realistic reflections, HDR lighting, highly detailed textures, collectible figurine showcase.
+```
+
+**来源：** [@Smiling Khan](https://x.com/AIwithkhan/status/2066858886511161451) | 2026-06-16
+
+---
+
+### 🧸 例 1688：等轴测统计可视化渲染
+
+![等轴测统计可视化渲染](../../images/%E7%AD%89%E8%BD%B4%E6%B5%8B%E7%BB%9F%E8%AE%A1%E5%8F%AF%E8%A7%86%E5%8C%96%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个简洁的 3D 等轴测渲染图，将 {argument name="statistic topic" default="单一抽象统计数据"} 转化为一个你能感受到其分量的实体对象——柔和的摄影棚灯光、哑光粘土材质、柔和的环境光遮蔽阴影，以及中性的混凝土灰色背景。其核心在于“规模冲击”：选取一个人们难以直观感知的数字，将其重构为一个有形的实体，并置于一个熟悉的物体旁进行对比（例如：{argument name="scale example" default="人类历史上开采的所有黄金堆叠成一个立方体，旁边停着一辆校车"}）。一个精确且超大的手工设置数字锚定构图，配以简洁的无衬线字体短标题，标注指标及其来源年份。细微的测量条和一个微小的人类剪影用于提供比例参考。拒绝杂乱——保留充足的负空间，突出一个主体对象，进行一次对比。其精髓在于：如同科学博物馆的展品模型，将统计数据重构为建筑，让原本会被你匆匆划过的数字，变成一种你的身体能够感知的存在。
+
+[English]
+A clean isometric 3D render that turns a {argument name="statistic topic" default="single abstract statistic"} into a physical object you can feel the weight of — soft studio lighting, matte clay materials, gentle ambient occlusion shadows, a neutral concrete-grey backdrop. The point is scale shock: take a number nobody can intuit and rebuild it as one tangible mass beside a familiar object for comparison ({argument name="scale example" default="all the gold ever mined as a single cube next to a school bus"}). One precise, oversized hand-set numeral anchors the composition, with a short caption in clean grotesque type stating the metric and its source year. Subtle measurement bars and a tiny human silhouette provide scale. No clutter — generous negative space, one hero object, one comparison. The spirit: a science-museum exhibit model that reframes a statistic as architecture, so a figure you'd scroll past becomes something your body understands.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2066857824093892887) | 2026-06-16
+
+---
+
+### 🧸 例 1697：3D 收藏级玩具邮轮渲染图
+
+![3D 收藏级玩具邮轮渲染图](../../images/3D%20%E6%94%B6%E8%97%8F%E7%BA%A7%E7%8E%A9%E5%85%B7%E9%82%AE%E8%BD%AE%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的 3D 收藏级玩具渲染图，灵感源自浪漫的邮轮甲板场景。将上传图片中的两位角色转化为 {argument name="style" default="高端设计师可动人偶"}，采用光泽感十足的高品质塑料材质。男性角色站在女性角色身后，双手环抱其腰部，两人深情对视。请保持参考图中精准的身体姿态、情感互动、服装风格及优雅体态。
+
+女性人偶身穿精致的黑色礼服，搭配白色蕾丝胸衣，双臂披着奶油色刺绣披肩。男性人偶身穿黑色大衣，内搭白色衬衫。两位角色均展现出逼真的收藏级玩具工艺，包括在肩部、肘部、手腕、髋部和膝盖处可见的细微关节设计。
+
+场景设定在豪华复古邮轮的甲板上，时间为 {argument name="lighting" default="黄金时刻"}。温暖的夕阳余晖将角色笼罩在浓郁的琥珀色调中，在光亮的塑料表面营造出电影级的高光与逼真的反射效果。超精细玩具纹理、高端人偶质感、博物馆级收藏美学、逼真的模塑发丝细节、复杂的织物雕刻、浅景深、柔和的背景虚化、专业玩具摄影、奢华展示品、高度逼真的光影、Octane Render、Unreal Engine 5、光线追踪反射、大师级品质、8K 分辨率、收藏级雕像展示、高端产品摄影、电影级氛围。
+
+[English]
+Create a highly detailed 3D collectible toy render inspired by a romantic ocean-liner deck scene. Transform both characters from the uploaded image into {argument name="style" default="premium designer action figures"} made of glossy, high-quality plastic. The male figure stands behind the female figure, embracing her waist with both hands while they look deeply into each other's eyes. Maintain the exact body positioning, emotional connection, wardrobe styling, and elegant posture from the reference image.
+
+The female figurine wears a sophisticated black dress with a white lace bodice and a cream-colored embroidered shawl draped around her arms. The male figurine wears a black overcoat layered over a white shirt. Both figures feature realistic collectible toy craftsmanship, including subtle visible articulation joints at the shoulders, elbows, wrists, hips, and knees.
+
+Set the scene on the deck of a luxurious vintage ocean liner during {argument name="lighting" default="golden hour"}. Warm sunset light bathes the figures in rich amber tones, creating cinematic highlights and realistic reflections across the glossy plastic surfaces. Ultra-detailed toy textures, premium figurine finish, museum-quality collectible aesthetic, realistic molded hair details, intricate fabric sculpting, shallow depth of field, creamy bokeh background, professional toy photography, luxury display piece, highly realistic lighting, Octane Render, Unreal Engine 5, ray-traced reflections, masterpiece quality, 8K resolution, collectible statue showcase, premium product photography, cinematic atmosphere.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2066822364344795331) | 2026-06-16
+
+---
+
+### 🧸 例 1724：3D 笔记本错觉素描
+
+![3D 笔记本错觉素描](../../images/3D%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%94%99%E8%A7%89%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一件 3D 错觉创意艺术作品，描绘了 {argument name="subject" default="英俊的年轻人"} 从放置在木桌上的螺旋笔记本页面中走出的场景。笔记本页面带有横线，顶部有手写笔记。该角色采用半写实 3D 卡通风格设计，留着整洁的深棕色短发，眼神生动，带着自信友好的微笑，面部细节刻画细腻。他身穿休闲浅色 T 恤、浅色牛仔外套、修身浅灰色牛仔裤和干净的白色运动鞋。
+
+他的下半身呈现为直接画在笔记本页面上的精细铅笔素描，而上半身则转化为从纸面跃出的写实 3D 人物，营造出惊人的立体弹出错觉效果。复杂的石墨阴影和素描线条与 3D 角色的写实纹理无缝融合。温暖的自然阳光照亮了木桌，投下柔和的阴影并增强了深度感。超精细、照片级写实的混合媒介艺术作品，真实的笔记本纹理，电影级光效，浅景深，极具创意的视觉错觉，8K 画质，大师级构图。
+
+[English]
+A creative 3D illusion artwork of a {argument name="subject" default="handsome young man"} stepping out of a spiral notebook page placed on a wooden desk. The notebook features lined paper with handwritten notes at the top. The character is designed in a semi-realistic 3D cartoon style with neatly styled dark brown hair, expressive eyes, a confident friendly smile, and subtle realistic facial details. He wears a casual pastel-colored t-shirt, a light denim jacket, slim-fit light grey jeans, and clean white sneakers.
+
+The lower half of his body appears as a detailed pencil sketch drawn directly on the notebook page, while his upper body transforms into a realistic 3D figure emerging from the paper, creating a striking pop-out illusion effect. Intricate graphite shading and sketch lines seamlessly blend into the realistic textures of the 3D character. Warm natural sunlight illuminates the wooden desk, casting soft shadows and enhancing depth. Ultra-detailed, photorealistic mixed-media artwork, realistic notebook textures, cinematic lighting, shallow depth of field, highly creative optical illusion, 8K quality, masterpiece composition.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2066732255532429324) | 2026-06-16
+
+---
+
+### 🧸 例 1743：与真人大小汤姆猫合影的女性
+
+![与真人大小汤姆猫合影的女性](../../images/%E4%B8%8E%E7%9C%9F%E4%BA%BA%E5%A4%A7%E5%B0%8F%E6%B1%A4%E5%A7%86%E7%8C%AB%E5%90%88%E5%BD%B1%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的、融合了写实与 3D 卡通风格的公园全身肖像。一位年轻女性，留着 {argument name="hair style" default="齐肩黑色波浪卷发"}，眼神灵动，笑容温暖，面容可爱，自信地以轻松休闲的姿态站在公园的铺装小径上。她穿着一件舒适的 {argument name="sweater color" default="黑色"} 超大款毛衣，胸前印有醒目的彩色汤姆猫图案，搭配宽松的高腰蓝色牛仔裤和干净的白色帆布鞋。在她身旁站着一个真人大小的 {argument name="cartoon character" default="《猫和老鼠》中的汤姆猫"}，呈现为高质量的 3D 动画角色，拥有灰色的皮毛、白色的肚皮和爪子、粉色的耳廓、黄绿色的眼睛、黑色的眉毛和胡须，脸上挂着开心的笑容。该角色比女性略高，亲昵地用一只手搭在她的肩上，她也挽着它的手臂，呈现出友好的伙伴姿态。背景：郁郁葱葱的公园，高大的树木，柔和的虚化叶片，温暖的晨光，远处可见长椅，右侧有一盏精致的路灯。构图：居中全身照，两人从头到脚完整呈现，比例自然，浅景深，电影级布光，柔和阴影，色彩鲜艳且真实，衣物与皮毛细节清晰。保持画面温馨、迷人且时尚；避免出现额外人物、除卡通印花外的文字或 Logo、人体结构扭曲或脚部被裁剪的情况。
+
+[English]
+Create a cheerful full-body photorealistic/3D hybrid portrait in a sunny park: a young woman with {argument name="hair style" default="shoulder-length wavy black hair"}, expressive eyes, a warm smile, and an adorable face stands confidently in a casual stylish pose beside a life-size Tom Cat character from Tom and Jerry. Her face should be softly anonymized/blurred, while the rest of the scene remains sharp. She wears exactly 4 visible outfit pieces: a cozy black crewneck sweater with a large colorful Tom Cat cartoon print on the front, baggy high-waisted blue jeans, white Converse-style low-top sneakers, and no visible accessories. Tom is a tall gray-blue anthropomorphic cat mascot with soft plush-like fur, a white belly and paws, pink inner ears, green-yellow eyes, black eyebrows, whiskers, and a friendly smile; he stands to her right with one arm around her shoulders and the other hand resting on his hip, tail curved behind him. The woman stands with one arm relaxed at her side and the other around Tom’s back/shoulder area. Use a square 1:1 composition, full-body framing, eye-level camera, shallow depth of field, warm golden daylight, soft bokeh trees, a paved park path, green grass, distant benches, and a black lamppost in the background. Make the image polished, cute, wholesome, high-resolution, and cinematic, with realistic fabric folds, denim texture, sneaker details, and fluffy character fur. Avoid extra characters, logos beyond the Tom print, text, watermarks, or cropped feet.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2066710362439983457) | 2026-06-16
+
+---
+

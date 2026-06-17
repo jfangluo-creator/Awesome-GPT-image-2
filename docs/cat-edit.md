@@ -1280,3 +1280,21 @@ Transform the uploaded photo into a realistic World Cup stadium fan scene. Place
 
 ---
 
+### 🔧 例 1719：装饰性民间艺术扁平插画
+
+![装饰性民间艺术扁平插画](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将整张图像转换为 {argument name="style" default="带有涂鸦元素的装饰性民间艺术扁平插画"}。使用大胆且充满趣味的配色方案，使其与原始图像截然不同。将所有细节简化为简洁的扁平形状，呈现出一种手工绘制、略带瑕疵的质感，仿佛画在白纸上一样。整体风格应显得可爱、童趣且充满奇思妙想。
+
+[English]
+Please transform the entire image into a single {argument name="style" default="Decorative Folk Flat Illustration with Doodle elements"}. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2066742340434424079) | 2026-06-16
+
+---
+

@@ -3505,3 +3505,95 @@ Background and style: dark textured night backdrop with a large pale circular mo
 
 ---
 
+### 🧍 例 1690：异世界公会接待员角色转换
+
+![异世界公会接待员角色转换](../../images/%E5%BC%82%E4%B8%96%E7%95%8C%E5%85%AC%E4%BC%9A%E6%8E%A5%E5%BE%85%E5%91%98%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+参照画像のキャラクターをベースデザインとして使用して、「{argument name="シーン" default="転生したアニメキャラクターが、異世界の冒険者ギルドで普通に受付嬢として働いている瞬間"}」を描く。キャラクターのアニメイラストとしての空気感を正確に維持する。キャラクターの顔、髪型、髪色、瞳、耳、シルエット、頭身、表情の印象を維持すること。キャラクターのアイデンティティを絶対に崩さない。別人化しない。実写人間化しない。キャラクター部分はアニメイラスト表現を維持する。舞台は{argument name="場所" default="異世界ファンタジー世界の大都市ギルド本部"}。背景は{argument name="背景エンジン" default="Unreal Engine 5"}で描かれたような高品質なファンタジー空間。リアル寄りの背景描写。生活感のある異世界空間。綺麗すぎない。コンセプトアート化しない。ゲーム公式ビジュアルのようにしない。背景には、巨大なクエスト掲示板、木製カウンター、依頼書、地図、武器ラック、革鎧の冒険者、魔導ランタン、石造りの壁、酒場スペース、吹き抜け構造、二階回廊、荷物、樽、雑多な備品などを自然に配置する。構図は一人称視点（POV）。視聴者はギルドを訪れた冒険者。画面手前には、冒険者の腕、手、依頼書、冒険者カード、報酬袋、地図、飲み物、荷物などを自然にフレームインさせる。POV側の人物は、・依頼書を受け取ろうとしている・冒険者カードを差し出している・報酬袋へ手を伸ばしている・地図を覗き込んでいる・受付カウンターへ寄りかかっているなど、受付とのやり取りが成立する自然な行動を取る。ギルド受付嬢となったアニメキャラクターは、・依頼書を差し出している・地図を広げて説明している・冒険者カードを返却している・報酬袋を渡している・初心者向けクエストを案内している・ランクアップを祝福している・少し眠そうに受付している・慣れた様子で業務をこなしているなど、「普通に働いている」自然な動作を行っている。重要：キャラクター本人は、異世界の受付嬢であることを特別視していない。周囲の冒険者達も、それを当たり前の日常として受け入れている。ゲームUI風オーバーレイを追加する。冒険者ランク、クエスト情報、所持金、パーティ情報、通知表示、ミニマップなどを自然に表示する。UI内容は固定しない。AI側が自然に生成すること。UIは主役ではない。受付嬢と冒険者のやり取りを補強する程度に留める。異世界とアニメキャラクターが自然に融合した、奇妙にリアルな空気感を重視する。映画ポスター風にしない。過剰なシネマティック演出禁止。綺麗すぎる構図禁止。AI特有の glossy rendering を避ける。情報量を盛りすぎない。「RPGのイベントシーンのスクリーンショット」ではなく、「異世界の日常を偶然目撃した一瞬」のような生活感と偶然性を重視する。high quality anime character, UE5 fantasy environment, POV shot, guild receptionist, natural interaction, fantasy daily life, weirdly realistic atmosphere
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2066853724811866286) | 2026-06-16
+
+---
+
+### 🧍 例 1736：海贼王风格悬赏令
+
+![海贼王风格悬赏令](../../images/%E6%B5%B7%E8%B4%BC%E7%8E%8B%E9%A3%8E%E6%A0%BC%E6%82%AC%E8%B5%8F%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像作为面部和发型特征的基础，将其转换为极具戏剧性的海贼王风格海盗悬赏令。保持参考图中面部的遮挡效果，但将可见的头部、灰色卷发、胡须和上半身重新诠释为手绘动漫海盗肖像。将原本的泳池背景替换为史诗般的海盗场景：左侧为船桅和索具，帆或旗帜上带有草帽海贼团的骷髅标志，背景为海浪、空中的飞鸟，以及右侧远处的岛屿或城堡，呈现金色的日落景象。为人物穿上粗犷的敞开式海盗外套，采用红色和深色调，内搭衬衫，并佩戴骷髅吊坠项链。
+
+海报设计：陈旧的羊皮纸质感，带有烧焦和裂纹的边缘、深褐色污渍、厚重的黑色复古字体、长方形肖像框、做旧的墨水纹理、电影般的暖色调灯光，以及受海贼王悬赏令启发的细腻手绘漫画/动漫写实风格。
+
+文字：使用西班牙语悬赏令布局，包含 5 个主要文本区域：顶部标题“{argument name="headline text" default="SE BUSCA"}”；状态行“{argument name="status text" default="MUERTO O VIVO"}”；大号名称“{argument name="wanted name" default="RODRIGO D MUÑOZ"}”；赏金金额“{argument name="bounty amount" default="$ 1.750.000.000"}”；底部阵营标签“MARINE”。在底部附近添加一些装饰性的、不可读的法律风格小字，以匹配海报的质感。
+
+约束条件：在风格化处理其他元素的同时，保留参考人物可辨识的发型和胡须结构；不要还原泳池背景；保持经典的悬赏令竖构图；避免出现现代物品、水印或多余的可读文字。
+
+[English]
+Using the provided reference image as the facial and hair identity base, transform the person into a dramatic One Piece-style pirate wanted poster. Keep the face covered/obscured as in the reference, but reinterpret the visible head, gray curly hair, beard, and upper body as an illustrated anime pirate portrait. Replace the real pool setting with an epic pirate scene: a ship mast and rigging on the left, a Straw Hat skull-and-crossbones emblem on a sail or flag, ocean waves, birds in the sky, and a distant island/castle on the right at golden sunset. Dress the subject in a rugged open pirate coat with red and dark tones, layered shirt, and a skull pendant necklace.
+
+Poster design: aged parchment paper, burned and cracked edges, sepia stains, heavy black vintage typography, rectangular portrait frame, distressed ink texture, cinematic warm lighting, detailed hand-painted manga/anime realism inspired by One Piece bounty posters.
+
+Text: Use a Spanish wanted-poster layout with exactly 5 main text areas: top headline “{argument name="headline text" default="SE BUSCA"}”; status line “{argument name="status text" default="MUERTO O VIVO"}”; large name “{argument name="wanted name" default="RODRIGO D MUÑOZ"}”; bounty amount “{argument name="bounty amount" default="$ 1.750.000.000"}”; bottom faction label “MARINE”. Add small decorative unreadable legal-style fine print near the bottom, matching the poster texture.
+
+Constraints: preserve the reference person’s recognizable hair and beard structure while stylizing everything else; do not recreate the pool background; keep the composition vertical like a classic bounty poster; avoid modern objects, watermarks, or extra readable text.
+```
+
+**来源：** [@Rockdrigo Muñoz NO VOTÉ POR LARRY🤟🇨🇱](https://x.com/rmunoze1/status/2066719090564083740) | 2026-06-16
+
+---
+
+### 🧍 例 1745：卡帕多奇亚热气球晨间人像
+
+![卡帕多奇亚热气球晨间人像](../../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%83%AD%E6%B0%94%E7%90%83%E6%99%A8%E9%97%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[人物] 请参考图 1 和图 2。
+
+[姿势与表情]
+
+站在热气球吊篮中，身体自然斜转，望向左侧远方。一只手轻轻搭在吊篮内侧的栏杆上，神情平静、细腻且略带憧憬，仿佛正在享受清晨清新的空气。
+
+[服装]
+
+一件舒适且质感柔软的落肩 {argument name="knit color" default="象牙白"} 圆领针织衫。针织衫右下摆开叉处饰有银色闪亮珠子和流苏装饰，增添了一抹华丽感，搭配干净的白色长裤。佩戴简约的迷你耳环。
+
+[发型与妆容]
+
+平静的 {argument name="hair style" default="明亮中长发"}，带有自然的蓬松感。头发自然地垂落在肩前，无需特殊造型，在晨风中轻盈飘动。妆容非常清透自然，与柔和的晨光相得益彰，呈现出透明感的底妆和沉稳的裸色系唇妆。指甲涂有干净的黑色美甲。
+
+[光影]
+
+来自黎明末期的柔和温暖自然光，在日出后不久于地平线附近低位升起，从左侧照射。这抹微妙的晨光透明地照亮了 {argument name="knit color" default="象牙白"} 针织衫舒适的表面纹理，并在右侧脸颊和肩部线条处营造出柔和的阴影，增加了立体感。
+
+[纹理与色彩氛围]
+
+整体采用柔和的白色、奶油色和米色的同色系穿搭，与柔和色调的晨空相协调，营造出宁静而浪漫的氛围。针织衫致密柔软的羊毛质感与吊篮粗糙的藤编纹理以及底部的璀璨水晶珠饰形成对比。
+
+[技术规格]
+
+使用 f/4.0 光圈、1/500 秒快门速度、ISO 100 和 28mm 广角镜头拍摄。采用正面平视角度，捕捉吊篮内人物至大腿处的画面，同时平衡背景中广阔的大地与天空。焦点对准主体，深景深清晰地捕捉到了远处的岩层和众多的热气球。
+
+[背景]
+
+{argument name="location" default="卡帕多奇亚"} 的广阔全景，拥有异域风情的岩层和峡谷。在带有橙色日出余晖的清澈蓝色晨空中，数十个色彩各异、图案不一的热气球悠闲地漂浮着，营造出童话般的景观。
+
+[签名] 右下角有一个小小的 Threads 标志，上方以白色小字草书写着“CHAse”作为签名。
+
+[English]
+[인물] 이미지 1, 이미지 2참조\n\n[인물의 포즈 및 표정]\n\n하늘을 나는 열기구 바구니 안에 서서 자연스럽게 몸을 대각선으로 틀어 왼쪽 먼 곳을 바라보고 있습니다. 한쪽 손은 바구니의 난간 안쪽에 가볍게 두고 있으며, 이른 아침의 상쾌한 공기를 만끽하는 듯 차분하고 은은하며 아련한 표정으로 시선을 멀리 두고 있습니다.\n\n[인물 의상]\n\n포근하고 부드러운 질감의 드롭 숄더 스타일 {argument name="니트 색상" default="아이보리"} 라운드넥 니트 스웨터를 입고 있습니다. 스웨터의 우측 하단 트임 라인을 따라 은빛으로 반짝이는 비즈와 태슬 장식이 길게 장식되어 있어 화려한 포인트를 주며, 하의로는 깔끔한 화이트 팬츠를 매치했습니다. 귀에는 심플한 미니 귀걸이를 착용했습니다.\n\n[인물 헤어스타일 및 메이크업 디테일]\n\n자연스러운 볼륨감이 살아있는 차분한 {argument name="헤어스타일" default="밝은 미디엄 롱 헤어스타일"}입니다. 특별한 스타일링 없이 어깨 뒤와 앞으로 자연스럽게 풀어헤쳐진 머릿결이 아침 바람에 가볍게 날리고 있습니다. 메이크업은 부드러운 아침 햇살에 어울리는 투명한 피부 표현과 차분한 누드 톤의 립을 매치한 아주 맑고 자연스러운 내추럴 메이크업입니다. 손톱에는 깔끔한 블랙 네일 아트를 했습니다.\n\n[조명 및 빛 방향]\n\n이른 아침 일출 직후 수평선 근처에서 낮게 떠오르는 부드럽고 따스한 늦은 새벽의 자연 태양광이 인물의 좌측에서 비추고 있습니다. 이 은은한 아침 햇살이 {argument name="니트 색상" default="아이보리"}색 니트의 포근한 표면 질감을 투명하게 밝혀주며, 인물의 오른쪽 뺨과 어깨 라인을 따라 부드럽고 잔잔한 음영을 만들어내어 입체감을 더해줍니다.\n\n[질감과 색감 무드]\n\n전체적으로 부드러운 화이트, 크림색, 베이지색의 톤온톤 의상과 파스텔톤으로 은은하게 물든 아침 하늘이 조화를 이루어 평온하고 낭만적인 무드를 자아냅니다. 니트의 촘촘하고 부드러운 울 질감과 열기구 바구니의 거친 라탄 엮음 질감, 그리고 하단의 화려한 크리스탈 비즈 질감이 조화롭게 대조됩니다.\n\n[필름 및 카메라 렌즈 심도, 앵글]\n\n조리개 f/4.0, 셔터 스피드 1/500초, ISO 100, 초점 거리 28mm 광각 렌즈를 사용하여 촬영되었습니다. 열기구 바구니 내부에서 인물의 허벅지까지 포착하면서 뒤편의 광활한 대지와 하늘을 균형 있게 담아낸 정면 눈높이 앵글입니다. 피사체인 인물에게 초점을 맞추었으며, 광각 렌즈 특유의 깊은 심도 표현을 통해 먼 배경의 기암괴석 계곡과 공중에 떠 있는 수많은 열기구들의 형태까지 비교적 선명하고 깨끗하게 포착했습니다.\n\n[배경 요소 (옵션)]\n\n이국적인 기암괴석과 협곡이 끝없이 펼쳐진 {argument name="장소" default="카파도키아"}의 드넓은 대지 전경입니다. 은은한 오렌지빛 일출 잔광이 남아있는 맑고 푸른 아침 하늘에는 크고 작은 다양한 색상과 패턴의 열기구들이 수십 개씩 유유히 떠다니며 동화 같은 풍경을 만들어내고 있습니다.\n\n[싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "CHAse"라고 싸인처럼 작게 적혀 있다.
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2066676379194716654) | 2026-06-16
+
+---
+

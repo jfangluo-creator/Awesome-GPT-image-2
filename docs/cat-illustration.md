@@ -3965,3 +3965,118 @@ Create a highly detailed fantasy anime illustration of an elegant young woman in
 
 ---
 
+### 🎨 例 1657：彩虹发色猫耳少女画作
+
+![彩虹发色猫耳少女画作](../../images/%E5%BD%A9%E8%99%B9%E5%8F%91%E8%89%B2%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、{argument name="髪の色" default="虹色"}の髪の麗しい{argument name="キャラクター" default="猫耳少女"}と、{argument name="動物" default="優しい猫"}を描いた手描き風イラストを見てみたいです。Midjourney 風の油絵っぽいパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2066996580113400004) | 2026-06-16
+
+---
+
+### 🎨 例 1676：伦敦异世界兔女郎茶摊
+
+![伦敦异世界兔女郎茶摊](../../images/%E4%BC%A6%E6%95%A6%E5%BC%82%E4%B8%96%E7%95%8C%E5%85%94%E5%A5%B3%E9%83%8E%E8%8C%B6%E6%91%8A.jpg)
+
+**Prompt:**
+
+```text
+【異世界から来た店主さん】
+ビッグ・ベンの見える紅茶屋さん
+
+花冠の国フロリア＝ベルから来た
+月兎族の女の子{argument name="キャラクター名" default="リュシエル"}は
+満月の茶会で割れた銀のティーポットに吸い込まれ
+気づけば{argument name="場所" default="ロンドン"}の広場に立っていました
+
+困って泣いたのは最初の一日だけ
+今では時計塔の見える通りで
+紅茶とケーキの露店を切り盛りしています
+
+花の香りがまじる紅茶
+苺をのせたスコーン
+小瓶に入った魔法のシロップ
+奥には 元の世界から一緒に落ちてきた茶器も並んでいます
+
+スマホを構える人たちは
+たぶんお菓子だけじゃなく
+この街に迷い込んだ小さな奇跡を撮っているのです
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2066877270636343715) | 2026-06-16
+
+---
+
+### 🎨 例 1702：抽象彩虹猫娘画作
+
+![抽象彩虹猫娘画作](../../images/%E6%8A%BD%E8%B1%A1%E5%BD%A9%E8%99%B9%E7%8C%AB%E5%A8%98%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、抽象画ともとれるような、{argument name="髪の色" default="虹色"}の髪の麗しい{argument name="主体" default="猫耳少女"}を描いた手描き風イラストを見てみたいです。{argument name="スタイル" default="Midjourney 風の油絵"}っぽいパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2066809004500644290) | 2026-06-16
+
+---
+
+### 🎨 例 1712：在温馨餐厅中手持向日葵的女性
+
+![在温馨餐厅中手持向日葵的女性](../../images/%E5%9C%A8%E6%B8%A9%E9%A6%A8%E9%A4%90%E5%8E%85%E4%B8%AD%E6%89%8B%E6%8C%81%E5%90%91%E6%97%A5%E8%91%B5%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张自然、暖色调的中景照，画面中一位年轻女性留着 {argument name="hair style" default="蓬松的深棕色长波浪卷发"}，正温柔地注视着她双手捧着的 {argument name="object" default="明亮的黄色向日葵"}。她面带柔和的微笑，妆容精致，涂着红粉色唇膏，指甲修剪整齐并涂有深红色指甲油。她身穿一件简约的米色修身 T 恤，佩戴着精致的金色项链，手腕上叠戴着银色链条手链。场景设定在 {argument name="setting" default="夜晚灯光温馨、人声鼎沸的室内餐厅或休息室"}，背景中可见大型反光金属柱、环境射灯，以及模糊的用餐人群，营造出一种舒适而生动的氛围。
+
+[English]
+A candid, warm-toned medium shot of a young woman with {argument name="hair style" default="long, voluminous wavy dark brown hair"}, gently looking down at a {argument name="object" default="bright yellow sunflower"} she is holding in both hands. She has a soft smile, subtle makeup with reddish-pink lipstick, dark red manicured nails, and is wearing a simple cream-colored fitted t-shirt, a delicate gold necklace, and stacked silver chain bracelets on her wrist. The setting is a {argument name="setting" default="bustling, warmly lit indoor restaurant or lounge at night"}, featuring large reflective metallic pillars, ambient overhead spotlights, and a softly blurred background of other patrons sitting at tables, creating a cozy and lively atmosphere.
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2066765426671931451) | 2026-06-16
+
+---
+
+### 🎨 例 1727：未来感太空板球赛
+
+![未来感太空板球赛](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%A4%AA%E7%A9%BA%E6%9D%BF%E7%90%83%E8%B5%9B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+外太空史诗级未来感板球赛，宇航员在月球悬浮体育场上打板球，巨大的地球在背景中闪耀，繁星与小行星环绕四周，{argument name="player action" default="击球手强力击出六分打"}，未来感板球护甲与头盔，发光的球门柱，戏剧性的体育场灯光，零重力效果，电影级氛围，超写实，高细节，科幻体育，史诗规模，4K 杰作
+
+[English]
+Epic futuristic cricket match in outer space, astronauts playing cricket on a floating stadium on the moon, giant Earth glowing in the background, stars and asteroids surrounding the scene, {argument name="player action" default="batsman hitting a powerful six"}, futuristic cricket armor and helmets, glowing stumps, dramatic stadium lights, zero gravity effects, cinematic atmosphere, ultra realistic, highly detailed, sci-fi sports, epic scale, 4K masterpiece
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2066729708549755270) | 2026-06-16
+
+---
+
+### 🎨 例 1730：带遮挡的像素风 Q 版女孩
+
+![带遮挡的像素风 Q 版女孩](../../images/%E5%B8%A6%E9%81%AE%E6%8C%A1%E7%9A%84%E5%83%8F%E7%B4%A0%E9%A3%8E%20Q%20%E7%89%88%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个微型全身 Q 版角色，采用可爱的像素艺术风格，居中放置在留有大量空白的纯白色背景上。角色是一个娇小的女孩，有着大大的头和非常小的身体，留着短圆波波头，发色为 {argument name="hair color" default="黑色"}，带有柔和的高光和厚重的刘海。她的脸部被一个大的不透明方形遮挡块刻意遮住，颜色为 {argument name="censor block color" default="暖灰色"}，遮挡范围从刘海一直覆盖到下巴，使面部特征不可见。她穿着简单的单色服装：带有黑色饰边的白色无袖上衣、非常宽松的深炭灰色阔腿裤、浅色鞋底的黑色鞋子，左侧挎着一个小巧的黑色单肩包，包上挂着一个微小的白色挂饰。使用粗糙的低分辨率像素、柔和的抖动效果、略微模糊的像素边缘，营造出舒适可爱的游戏精灵外观。保持姿势端庄且面向前方，一只手臂靠近身体，另一只手拿着包。无文字，无背景，除淡淡的接地效果外无阴影，无额外角色。
+
+[English]
+Create a tiny full-body chibi character in a cute pixel-art style, centered on a plain white background with lots of empty space. The character is a petite girl with an oversized head and very small body, wearing a short rounded bob haircut in {argument name="hair color" default="black"} with soft highlights and thick bangs. Her face is intentionally covered by a large opaque square censor block in {argument name="censor block color" default="warm gray"}, placed over the entire face from the bangs down to the chin, making facial features invisible. She wears a simple monochrome outfit: a white sleeveless top with black trim, very loose dark charcoal wide-leg pants, black shoes with light soles, and a small black shoulder bag hanging at her left side with a tiny white charm attached. Use chunky low-resolution pixels, soft dithering, slightly blurred pixel edges, and a cozy adorable game-sprite look. Keep the pose modest and front-facing, with one arm near the body and the other holding the bag. No text, no scenery, no shadows beyond a faint grounding effect, no extra characters.
+```
+
+**来源：** [@Edimakor Korea](https://x.com/EdimakorKorea/status/2066726066228789510) | 2026-06-16
+
+---
+

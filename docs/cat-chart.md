@@ -1712,3 +1712,71 @@ Constraints: Use exactly 3 main framed exhibits, exactly 3 lower explanatory pla
 
 ---
 
+### 📊 例 1684：史诗级宇宙历史时间轴海报
+
+![史诗级宇宙历史时间轴海报](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%AE%87%E5%AE%99%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 gpt-image-2 创建一幅超宽、信息密度极高的全景插画时间轴，涵盖整个宇宙、地球、生命、人类文明、科技及未来，并将其渲染为一幅无缝衔接的史诗级横截面壁画。
+
+画布：16:9 横向海报，极高细节，电影级写实风格与博物馆级教育插画相结合，清晰度足以辨认微小的时间轴标签。画面中心使用宏大的地球弧形地平线，上方为外太空，下方为分层历史场景。画面不留空白。
+
+整体布局：构图分为 4 个主要横向区域。顶部区域：深空中的宇宙历史。中上区域：横跨广阔景观的地球历史与自然演化。中下区域：人类文明与科技进步。底部区域：一条连续的金色时间轴带，包含 18 个精确标注的中文里程碑，每个里程碑配有一个小圆点标记。
+
+顶部宇宙区域：最左侧展示炽热的宇宙大爆炸，色彩斑斓的星云和星场、螺旋星系、正在形成的行星、太阳系、地球与月球、小行星与彗星、火箭、卫星、空间站、月球上的宇航员、月球车、火星车、未来空间望远镜、航天器、环形空间站、遥远行星、黑洞，以及最右侧蓝色的激光状太空轨迹。在上方区域添加一条带有小型圆形节点的细长金色轨道时间轴线。
+
+中上地球与演化区域：左侧融合火山喷发的早期地球，伴有闪电、熔岩、陨石撞击、炽热海洋、微生物气泡和海洋生物；过渡到郁郁葱葱的史前海洋，包含鱼类、菊石、三叶虫和海生爬行动物；延伸至恐龙景观，包含森林、蜥脚类、兽脚类、翼龙及小型恐龙；过渡到冰河时代的群山与猛犸象；最后过渡到现代河流、草原、大象、鹿、风力发电机、农田，以及右侧线条流畅的未来城市天际线。保持过渡无缝衔接，如同按时间顺序排列的世界地图。
+
+中下文明与科技区域：最左侧展示人类演化的剪影，包括前行的人类、早期营火、洞穴、石器、原始小屋、陶器、羊群与牛群。随后展示古代农业、金字塔、神庙、古典城市、宝塔、中世纪城堡、教堂、集市、帆船、商队、早期机械、蒸汽火车、自行车、汽车、飞机、冒烟的工厂、电线、电话、收音机、电视机、计算机、笔记本电脑、智能手机、服务器、实验室、控制室、机器人、全息蓝色界面、高速列车及未来玻璃城市。包含许多身着时代服装的小人物，自然地进行互动。
+
+底部条带：创建一个深蓝黑色的页脚带，配有一条细金线和 18 个均匀分布的里程碑节点。每个节点使用以下精确的中文标签和日期：1. 「宇宙诞生\n约138亿年前」，2. 「太阳系形成\n约46亿年前」，3. 「地球形成\n约45亿年前」，4. 「生命起源\n约38亿年前」，5. 「海洋生命\n约5.4亿年前」，6. 「恐龙时代\n约2.3亿年前」，7. 「哺乳动物时代\n约6600万年前」，8. 「人类出现\n约300万年前」，9. 「农业革命\n约1.2万年前」，10. 「文明起源\n约公元前3500年」，11. 「古典时代\n约公元前800年」，12. 「中世纪\n约5世纪」，13. 「大航海时代\n15–17世纪」，14. 「工业革命\n18–19世纪」，15. 「电气时代\n19–20世纪」，16. 「信息时代\n20世纪后半叶」，17. 「数字时代\n21世纪」，18. 「未来探索\n未来」。
+
+视觉风格：超高细节的史诗级科技历史信息图，写实光影，色彩鲜艳且协调，金色装饰线条，深蓝与橙色调，微缩模型细节，电影级景深，清晰的微场景，拒绝卡通风格，拒绝扁平矢量感。
+
+限制条件：海报内容需极其丰富但逻辑连贯；确保所有 18 个底部标签清晰可读；避免在时间轴外出现随机乱码文字；避免重复的里程碑标签；不得添加水印或 Logo。主题为 {argument name="timeline theme" default="宇宙、地球、生命、文明、科技及未来探索的完整历史"}。页脚标签使用 {argument name="language for milestone labels" default="中文"}，视觉风格采用 {argument name="visual style" default="超高细节电影级教育壁画"}，强调色使用 {argument name="accent color" default="金色"}，未来城市氛围设定为 {argument name="future city mood" default="乐观的蓝色未来感"}。
+
+[English]
+Goal: Create an ultra-wide, extremely information-dense panoramic illustrated timeline of the entire universe, Earth, life, human civilization, technology, and the future, rendered as a single seamless epic cross-section mural for gpt-image-2.
+
+Canvas: 16:9 horizontal poster, very high detail, cinematic realism mixed with museum-quality educational illustration, sharp enough to read tiny timeline labels. Use a grand curved horizon of Earth across the center, with outer space above and layered historical scenes below. No blank areas.
+
+Overall layout: The composition is divided into 4 main horizontal zones. Top zone: cosmic history in deep space. Upper-middle zone: Earth history and natural evolution across a sweeping landscape. Lower-middle zone: human civilization and technological progress. Bottom zone: a continuous golden timeline strip with exactly 18 labeled milestones in Chinese, each with a small circular marker.
+
+Top cosmic zone: Show a fiery Big Bang explosion at far left, colorful nebulae and starfields, a spiral galaxy, forming planets, the solar system, Earth and Moon, asteroids and comets, rockets, satellites, a space station, astronauts on the Moon, lunar rover, Mars rover, futuristic space telescopes, spacecraft, a ring station, distant planets, black hole, and blue laser-like space trails at far right. Add a thin golden orbital timeline line with small circular nodes crossing this upper area.
+
+Upper-middle Earth and evolution zone: Blend volcanic early Earth on the left with lightning, lava, meteor impacts, hot oceans, microbial bubbles and sea creatures; transition into lush prehistoric seas with fish, ammonites, trilobites, and marine reptiles; continue into a dinosaur landscape with forests, sauropods, theropods, pterosaurs, and smaller dinosaurs; transition to ice-age mountains and mammoths; then to modern rivers, grasslands, elephants, deer, birds, wind turbines, farmland, and a sleek futuristic city skyline at the right. Keep the transitions seamless like a chronological world map.
+
+Lower-middle civilization and technology zone: At far left show human evolution silhouettes walking forward, early campfires, caves, stone tools, primitive huts, pottery, sheep and cattle. Continue through ancient agriculture, pyramids, temples, classical cities, pagodas, medieval castles, churches, marketplaces, sailing ships, caravans, early machines, steam trains, bicycles, automobiles, airplanes, factories with smokestacks, power lines, telephones, radios, televisions, computers, laptops, smartphones, servers, laboratories, control rooms, robots, holographic blue interfaces, high-speed trains, and futuristic glass cities. Include many tiny people in period clothing interacting naturally.
+
+Bottom strip: Create a dark blue-black footer band with a thin gold line and exactly 18 milestone nodes, evenly spaced left to right. Use these exact Chinese labels and dates, one per node: 1. 「宇宙诞生\n约138亿年前」, 2. 「太阳系形成\n约46亿年前」, 3. 「地球形成\n约45亿年前」, 4. 「生命起源\n约38亿年前」, 5. 「海洋生命\n约5.4亿年前」, 6. 「恐龙时代\n约2.3亿年前」, 7. 「哺乳动物时代\n约6600万年前」, 8. 「人类出现\n约300万年前」, 9. 「农业革命\n约1.2万年前」, 10. 「文明起源\n约公元前3500年」, 11. 「古典时代\n约公元前800年」, 12. 「中世纪\n约5世纪」, 13. 「大航海时代\n15–17世纪」, 14. 「工业革命\n18–19世纪」, 15. 「电气时代\n19–20世纪」, 16. 「信息时代\n20世纪后半叶」, 17. 「数字时代\n21世纪」, 18. 「未来探索\n未来」.
+
+Visual style: Hyper-detailed epic science-history infographic, realistic lighting, vibrant but coherent color grading, gold accent lines, deep blues and oranges, miniature diorama detail, cinematic depth, crisp micro-scenes, no cartoon style, no flat vector look.
+
+Constraints: Make the poster astonishingly dense but coherent; keep all 18 bottom labels legible; avoid random unreadable text outside the timeline; avoid duplicated milestone labels; do not add watermarks or logos. The main theme is {argument name="timeline theme" default="the complete history of the universe, Earth, life, civilization, technology, and future exploration"}. Use {argument name="language for milestone labels" default="Chinese"} for the footer labels, a {argument name="visual style" default="hyper-detailed cinematic educational mural"}, a {argument name="accent color" default="gold"}, and a {argument name="future city mood" default="optimistic blue futuristic"}.
+```
+
+**来源：** [@沐阳](https://x.com/yyyole/status/2066865025059520750) | 2026-06-16
+
+---
+
+### 📊 例 1691：纹身师故事板信息图
+
+![纹身师故事板信息图](../../images/%E7%BA%B9%E8%BA%AB%E5%B8%88%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个清晰、简洁的信息图故事板海报，主题为 {argument name="subject" default="纹身师"}。16:9 宽屏布局，白色背景，黑色边框，粗体黑色排版，优质 Pixar 3D 风格渲染，富有情绪的暖色调工作室灯光，点缀霓虹色彩 — 深黑色
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="subject" default="THE TATTOO ARTIST"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, moody warm studio lighting with neon color pops — deep black
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2066849629564555622) | 2026-06-16
+
+---
+

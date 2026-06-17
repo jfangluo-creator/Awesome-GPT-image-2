@@ -7322,3 +7322,555 @@ Sharp anime line art fused with realistic cinematic lighting, highly detailed fa
 
 ---
 
+### 🎴 例 1661：骑士铠甲 FIFA 英雄海报
+
+![骑士铠甲 FIFA 英雄海报](../../images/%E9%AA%91%E5%A3%AB%E9%93%A0%E7%94%B2%20FIFA%20%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超精细的史诗级 2026 年 FIFA 世界杯海报，主角为代表 {argument name="country" default="[国家]"} 的 {argument name="player name" default="[球员姓名]"}。全身英雄构图，站在云海之上的崎岖山峰之巅。球员身穿融合了官方 {argument name="country" default="[国家]"} 国家队队服与华丽中世纪骑士铠甲的装备，铠甲带有精细的金色雕刻、华丽的肩甲、护臂、护胫以及装饰性的战斗细节。一件由 {argument name="country" default="[国家]"} 国旗制成的巨大风化斗篷在风中戏剧性地飘扬。球员手持一把刻有国家名称的精致传奇之剑，散发着微弱的能量光芒。在球员身后，巨大的做旧字体“FIFA WORLD CUP 2026”占据背景，与云层、烟雾、冰块、灰尘和破碎的颗粒部分融合。添加戏剧性的风暴天空、穿透云层的神圣阳光、雾气缭绕的山脉、大气深度和电影级体积光。在铠甲、斗篷和灯光装饰中全程使用 {argument name="country" default="[国家]"} 的官方配色。在边框处加入微妙的国家徽章、书法元素和冠军细节。强有力的冠军姿态、强烈的表情、高度逼真的面部特征、动态风效、奇幻现实主义、传奇战士美学、黑暗史诗氛围、高级体育海报设计、中心构图、电影海报品质、Unreal Engine 5、Octane Render、HDR、杰作、超清晰对焦、超精细纹理、体积雾、戏剧性对比、电影级调色、获奖艺术作品、8K。长宽比：{argument name="aspect ratio" default="2:3"} 风格化：{argument name="stylize value" default="300-750"} 质量：高 混乱度：5-15 种子：固定（用于保持一致性）
+
+[English]
+Create an ultra-detailed epic FIFA World Cup 2026 poster featuring {argument name="player name" default="[PLAYER NAME]"} representing {argument name="country" default="[COUNTRY]"}. Full-body heroic composition, standing atop a jagged rocky mountain peak above a sea of clouds. The player wears a fusion of the official [COUNTRY] national team kit and magnificent medieval knight armor with intricate gold engravings, ornate shoulder plates, arm guards, greaves, and decorative battle details. A massive weathered cape made from the [COUNTRY] flag flows dramatically in the wind. The player holds an elaborate legendary sword engraved with the country's name, glowing with subtle energy. Behind the player, enormous distressed typography reading "FIFA WORLD CUP 2026" dominates the background, partially integrated with clouds, smoke, ice fragments, dust, and shattered particles. Add dramatic stormy skies, divine rays of sunlight breaking through the clouds, mist-covered mountain ranges, atmospheric depth, and cinematic volumetric lighting. Use the official colors of [COUNTRY] throughout the armor, cape, and lighting accents. Include subtle national emblems, calligraphy elements, and championship details along the borders. Powerful champion stance, intense expression, highly realistic facial features, dynamic wind effects, fantasy realism, legendary warrior aesthetic, dark epic atmosphere, premium sports poster design, center composition, movie poster quality, Unreal Engine 5, Octane Render, HDR, masterpiece, ultra-sharp focus, hyper-detailed textures, volumetric fog, dramatic contrast, cinematic color grading, award-winning artwork, 8K.Aspect Ratio: {argument name="aspect ratio" default="2:3"} Stylize: {argument name="stylize value" default="300-750"} Quality: High Chaos: 5-15 Seed: Fixed (for consistency)
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2066947838941270270) | 2026-06-16
+
+---
+
+### 🎴 例 1668：Vista 模块化公寓海报
+
+![Vista 模块化公寓海报](../../images/Vista%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%85%AC%E5%AF%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张醒目的复古现代建筑海报，用于宣传 {argument name="building name" default="THE VISTA"}。垂直肖像画布，2:3 长宽比，简洁的矢量插画，清晰的黑色轮廓，平铺的饱和色彩，细腻的半色调纹理，中世纪旅行海报氛围，温暖的阳光，深钴蓝色的天空。左侧三分之一为图形排版区域：上方是巨大的奶油白色压缩字体标题“THE”和“VISTA”，下方有一条细金线，再下方是间距较宽的小号金色文字“MODERN LIVING”和“ELEVATED”，一个微小的菱形图标，以及小号白色文字“LUXURY CONDOMINIUMS”和“DOWNTOWN”。右侧三分之二展示了一座高耸的模块化豪华公寓大楼，由堆叠错位的矩形阳台盒组成，采用低角度视角，具有强烈的透视感，右侧有深色的窗格。立面上需包含 13 个清晰可见的模块化阳台/房间单元：1. 左上角奶油色单元，配有木质天花板、玻璃栏杆和盆栽；2. 上方中心奶油色面板，配有白色几何格栅屏风；3. 右上角黄色阳台，配有盆栽棕榈树和吊灯；4. 第二排左侧奶油色单元，配有垂直木条和高大植物；5. 第二排中心蓝色内凹单元，配有椅子和盆栽树；6. 第二排右侧橙色房间，配有吊灯、墙面艺术品和花箱；7. 第三排左侧绿色阳台，配有大型花盆和橙色金属丝躺椅；8. 第三排中心狭窄灰色玻璃单元，配有盆栽树；9. 第三排右侧粉色房间，配有仙人掌、藤椅、吊灯和粉色格栅屏风；10. 第四排左侧斑点米色墙面单元，配有小型横向窗户和垂吊藤蔓；11. 第四排中心绿色室内休息室，配有圆形吊灯、黄色沙发、高大植物和绿色窗帘；12. 第四排右侧深色玻璃休息室，配有抽象黑奶油色艺术品和低矮植物；13. 底层包含一个黄色边框阳台（配有植物和抽象太阳艺术品）、一个蓝色瓷砖立面部分（配有黑色门和花盆），以及一个红橙色阳台（配有盆栽、椅子和黑奶油色图案隐私屏风）。在各处添加大量室内植物和阳台花盆，营造郁郁葱葱的模块化生活感。底部展示带有温暖灯光的玻璃建筑大堂顶棚。左侧背景包含市中心天际线，其中包括 {argument name="landmark tower" default="CN Tower"}、简化的摩天大楼、深色树木剪影、几只小鸟和三朵风格化的奶油色云朵。画面中不要出现人物和汽车，不要有水印，并保持海报文字清晰易读。
+
+[English]
+Create a bold retro-modern architectural poster advertising {argument name="building name" default="THE VISTA"}. Vertical portrait canvas, 2:3 aspect ratio, clean vector illustration with crisp black outlines, flat saturated colors, subtle halftone texture, mid-century travel-poster mood, warm sunlight, deep cobalt blue sky. Left third is a graphic typography block: large tall condensed cream-white title reading “THE” above “VISTA”, a thin gold divider line below, small spaced gold text “MODERN LIVING” and “ELEVATED”, a tiny diamond icon, then small white text “LUXURY CONDOMINIUMS” and “DOWNTOWN”. Right two-thirds shows a tall modular luxury condominium tower made of stacked offset rectangular balcony boxes, viewed from a low angle, with dramatic perspective and dark window grids along the right side. Include exactly 13 visible modular balcony/room units on the facade: 1 top left cream unit with wood ceiling, glass railing, potted plant; 2 top center cream panel with white geometric lattice screen; 3 top right yellow balcony with potted palm and hanging pendant lamp; 4 second-row left cream unit with vertical wood slats and tall plant; 5 second-row center blue recessed unit with chair and potted tree; 6 second-row right orange room with pendant light, wall art, and planter box; 7 third-row left green balcony with large planter and orange wire lounge chair; 8 third-row center narrow gray glass unit with potted tree; 9 third-row right pink room with cactus, rattan chair, pendant light, and pink lattice screen; 10 fourth-row left speckled beige wall unit with small horizontal window and trailing vines; 11 fourth-row center green interior lounge with round pendant lamp, yellow sofa, tall plant, and green curtains; 12 fourth-row right dark glass lounge with abstract black-and-cream artwork and low plants; 13 bottom row includes a yellow-framed balcony with plant and abstract sun artwork, a blue tiled facade section with black door and planter, and a red-orange balcony with potted plant, chair, and black-and-cream patterned privacy screen. Add many indoor plants and balcony planters throughout for a lush modular-living feel. At the bottom, show the building lobby canopy with warm lit glass. Background left side includes a downtown skyline with the {argument name="landmark tower" default="CN Tower"}, simplified skyscrapers, dark tree silhouettes, a few small birds, and three stylized cream clouds. Use no people, no cars, no watermark, and keep the poster text sharp and legible.
+```
+
+**来源：** [@𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt/status/2066892999515107417) | 2026-06-16
+
+---
+
+### 🎴 例 1680：带有涂鸦元素的品牌合成广告
+
+![带有涂鸦元素的品牌合成广告](../../images/%E5%B8%A6%E6%9C%89%E6%B6%82%E9%B8%A6%E5%85%83%E7%B4%A0%E7%9A%84%E5%93%81%E7%89%8C%E5%90%88%E6%88%90%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创意合成品牌广告，3:4 垂直纵横比，干净的白色背景，高级摄影棚灯光，焦点清晰，极简构图，留白充裕。一张巨大的 {argument name="brand" default="[BRAND]"} 实拍照片置于中心，并与手绘黑色墨水涂鸦插画无缝融合。涂鸦风格为简洁、生动、迷人的线条艺术，阴影极少，类似于随手绘制的笔记本草图。可爱的小型蓬松卡通生物，拥有圆润的身体、短小的四肢、细小的腿部、简单的面部表情和俏皮的个性，与产品自然互动。产品成为了微型涂鸦世界的一部分。主场景：{argument name="scene description" default="[SCENE]"} 额外的涂鸦活动：小生物爬梯子、搬运配料、在产品周围搭建结构、插旗、在酱汁或奶油上冲浪、在冰块或食物元素上放松、自拍、用五彩纸屑庆祝、像探险家一样探索产品。装饰性涂鸦元素：漂浮的心形、运动线条、闪光、星星、手写笔记、箭头、蒸汽涂鸦、香气漩涡、小对话气泡。涂鸦自然地环绕在产品周围，将其转化为一个俏皮的微型世界，同时保持高级的商业美感。顶部标题："{argument name="tagline" default="[TAGLINE]"}"，大型粗体现代无衬线字体，居中。底部区域：官方 [BRAND LOGO]，保持完整原始颜色。视觉风格：逼真的产品摄影 + 黑色墨水涂鸦插画，高级广告营销活动，奇趣叙事，极具分享价值的 Threads 内容，引人注目的社交媒体创意，屡获殊荣的商业设计，干净的留白，真实摄影与插画的无缝集成，高端食品品牌推广，超精细，专业食品造型，高端编辑类广告。
+
+[English]
+Creative composite brand advertisement, 3:4 vertical aspect ratio, clean white background, premium studio lighting, sharp focus, minimalist composition, generous negative space. A real-life photograph of a giant {argument name="brand" default="[BRAND]"} is placed in the center and seamlessly integrated with hand-drawn black ink doodle illustrations. The doodle style is simple, expressive, charming line art with minimal shading, resembling spontaneous notebook sketches. Cute tiny puffy cartoon creatures with rounded bodies, small arms, tiny legs, simple facial expressions, and playful personalities naturally interact with the product. The product becomes part of a miniature doodle universe. Main Scene: {argument name="scene description" default="[SCENE]"} Additional doodle activities: Tiny creatures climbing ladders Carrying ingredients Building structures around the product Planting flags Surfing on sauces or cream Relaxing on ice cubes or food elements Taking selfies Celebrating with confetti Exploring the product like adventurers Decorative doodle elements: Floating hearts Motion lines Sparkles Stars Handwritten notes Arrows Steam doodles Aroma swirls Small speech bubbles The doodles naturally wrap around the product, transforming it into a playful miniature world while maintaining a premium commercial aesthetic. Top headline: "{argument name="tagline" default="[TAGLINE]"}" Large bold modern sans-serif typography, centered. Bottom section: Official [BRAND LOGO] in full original colors. Visual style: Photorealistic product photography + black ink doodle illustration, premium advertising campaign, whimsical storytelling, highly shareable Threads content, scroll-stopping social media creative, award-winning commercial design, clean negative space, seamless integration between real photography and illustration, luxury food branding, ultra detailed, professional food styling, high-end editorial advertising.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2066866384253165689) | 2026-06-16
+
+---
+
+### 🎴 例 1686：现代运动图形海报设计
+
+![现代运动图形海报设计](../../images/%E7%8E%B0%E4%BB%A3%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%BD%A2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张专业的运动图形设计海报，主角为 {argument name="player name" default="这位运动员"}，采用简洁、现代且极简的编辑风格设计，背景为略带纹理的米白色。
+​中心构图：中心处有一个大型垂直粗体图形，内部包含 {argument name="player name" default="这位运动员"} 呐喊或展现强烈情绪的高对比度黑白特写肖像。该图形被水平方向的简洁白线切割/分段，露出运动员肖像后方纯色的 {argument name="team color" default="球队主色调"} 背景。
+​前景主体：右下角前景为 [PLAYER NAME] 身着 [TEAM KIT] 进行标志性庆祝动作的全身彩色动态照片。主体突破了中心图形框架，并在背景上投下柔和、逼真的投影，营造出 3D 深度效果。
+​排版与布局：
+​沿中心图形垂直排列的粗体黑色无衬线字体拼写出 [LAST NAME]。
+​美学风格：图形设计布局、细节锐利、体育杂志封面风格、高对比度、简洁矢量图与运动摄影的结合、细腻的纸张纹理。
+
+[English]
+A professional sports graphic design poster of {argument name="player name" default="the athlete"}, designed in a clean, modern, and minimalist editorial style against a slightly textured off-white background.
+​Central Composition: In the center, a large vertical bold graphic shape contains a high-contrast black and white close-up portrait of {argument name="player name" default="the athlete"} shouting or showing intense emotion. This graphic shape is slashed/segmented horizontally by clean white lines, revealing a solid bold {argument name="team color" default="primary team color"} background behind the player's portrait.
+​Foreground Subject: In the lower right foreground, a full-body color action shot of [PLAYER NAME] in their [TEAM KIT] performing their signature celebration. The subject breaks out of the central graphic frame, casting a soft, realistic drop shadow onto the background to create a 3D depth effect.
+​Typography & Layout:
+​Running vertically alongside the central graphic shape, bold black sans-serif typography spells out [LAST NAME].
+​Aesthetic: Graphic design layout, sharp details, editorial sports magazine cover, high contrast, clean vectors mixed with athletic photography, subtle paper texture.
+```
+
+**来源：** [@Heisenberg](https://x.com/rovvmut_/status/2066860005580824746) | 2026-06-16
+
+---
+
+### 🎴 例 1703：奢华 Lionel Messi 广告海报
+
+![奢华 Lionel Messi 广告海报](../../images/%E5%A5%A2%E5%8D%8E%20Lionel%20Messi%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个奢华的 {argument name="poster type" default="FIFA 世界杯广告海报"}。纯净的白色背景。无体育场。无观众。无烟雾。无杂乱或拥挤的背景。采用高端编辑风格的极简主义高级体育海报。肖像比例 4:5。排版层 — 肖像后方：使用超压缩粗体字母，巨大且垂直排列的“{argument name="player name" default="MESSI"}”字样。字母被划分为带有不规则间距的水平分段，营造出当代体育平面设计的审美感。排版颜色：天蓝色和白色，灵感源自阿根廷。分段之间细窄的白色间隙增加了深度和维度。字母部分融入肖像并与之结合，仿佛名字本身就嵌入在图像中。肖像层 — 主背景：Lionel Messi 的超写实黑白特写肖像。极高对比度，电影级布光，颧骨和下颌线下方有深邃阴影。表情冷静、专注、自信。皮肤纹理细节丰富。排版部分覆盖面部并淡入肖像，实现文字与图像的无缝融合。前景层 — 球员形象：身穿阿根廷国家队队服庆祝进球的 Lionel Messi。全彩色照片级真实图像。细节极其清晰，完全没有动态模糊。位于构图下方的三分之一处，站在排版前方以营造深度、主导地位和视觉层级。图形元素 • 左上角极简阿根廷国家队队徽 • 右侧边缘有阿根廷配色的细长垂直装饰条 • 右下角有优雅的手写金色或黑色书法风格“Messi”球员签名 • 右上角放置 FIFA 2026 世界杯标志 • 编辑标语：“{argument name="tagline" default="天才。传奇。最伟大。"}” • 下方微型排版：“#10 · 2026 · ARG” 构图结构 • 35% — 大型立体排版（左侧，垂直对齐） • 45% — 单色肖像（中心至右侧，与排版融合） • 20% — 前景全彩球员形象（下方中心） • 构图周围有大面积纯净的白色留白。视觉风格：灵感源自 Nike 广告的高级体育海报。FIFA 精英级广告审美。高端极简主义。Behance 获奖级设计品质。超写实主义。4K 细节。电影级布光。高端编辑艺术指导。全球品牌印刷广告品质。清晰的专业摄影。博物馆级海报设计。精致的深度、层次感和高级视觉层级。
+
+[English]
+Create a luxurious {argument name="poster type" default="FIFA World Cup advertising poster"}. Clean white background. No stadium. No crowd. No smoke. No busy or cluttered backgrounds. Minimalist premium sports poster in a high-end editorial style. Portrait aspect ratio 4:5. TYPOGRAPHIC LAYER — BEHIND THE PORTRAIT A giant vertical typographic rendering of “{argument name="player name" default="MESSI"}” using ultra-condensed bold lettering. The letters are divided into horizontal segmented sections with irregular spacing, creating a contemporary sports graphic design aesthetic. Typography colors: sky blue and white, inspired by Argentina. Thin white gaps between segments add depth and dimension. The letters partially merge into the portrait and integrate with it, as if the name is embedded into the image itself. PORTRAIT LAYER — MAIN BACKGROUND An ultra-realistic black-and-white close-up portrait of Lionel Messi. Extremely high contrast, cinematic lighting, deep shadows beneath the cheekbones and jawline. Calm, focused, confident expression. Highly detailed skin texture. The typography partially overlaps the face and fades into the portrait, creating a seamless integration between text and image. FOREGROUND LAYER — PLAYER FIGURE Lionel Messi celebrating a goal in the Argentina national team kit. Fully photorealistic color image. Ultra-sharp details with absolutely no motion blur. Positioned in the lower center third of the composition, standing in front of the typography to create depth, dominance, and visual hierarchy. GRAPHIC ELEMENTS • Minimalist Argentina national team crest in the upper-left corner • Thin vertical accent stripe in Argentina’s colors along the right edge • Player signature “Messi” in the lower-right corner, rendered in elegant handwritten gold or black calligraphy • FIFA World Cup 2026 emblem positioned in the upper-right area • Editorial tagline: “{argument name="tagline" default="The Genius. The Legacy. The Greatest."}” • Micro-typography beneath: “#10 · 2026 · ARG” COMPOSITION STRUCTURE • 35% — large dimensional typography (left side, vertically aligned) • 45% — monochrome portrait (center to right side, integrated with typography) • 20% — full-color player figure in the foreground (lower center) • Large areas of clean white negative space surrounding the composition VISUAL STYLE Premium sports advertising poster inspired by Nike campaigns. FIFA elite campaign aesthetic. High-end minimalism. Behance award-winning design quality. Ultra-realism. 4K detail. Cinematic lighting. Luxury editorial art direction. Global-brand print campaign quality. Crisp professional photography. Museum-grade poster design. Sophisticated depth, layering, and premium visual hierarchy.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2066803794944598403) | 2026-06-16
+
+---
+
+### 🎴 例 1705：角色主题和果子广告拍摄
+
+![角色主题和果子广告拍摄](../../images/%E8%A7%92%E8%89%B2%E4%B8%BB%E9%A2%98%E5%92%8C%E6%9E%9C%E5%AD%90%E5%B9%BF%E5%91%8A%E6%8B%8D%E6%91%84.jpg)
+
+**Prompt:**
+
+```text
+この{argument name="モチーフ" default="キャラ"}をモチーフにした和菓子を{argument name="個数" default="4"}種類考案し、お盆の上に並べた広告ショットを作成してください。アスペクト比は{argument name="アスペクト比" default="3:4"}の縦長でお願いします
+```
+
+**来源：** [@どーなつひつじ](https://x.com/donut_sheep/status/2066789307638051245) | 2026-06-16
+
+---
+
+### 🎴 例 1709：高端饮料广告海报
+
+![高端饮料广告海报](../../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端商业 3D 广告海报，垂直 4:5 比例。
+
+核心产品居中：{argument name="product" default="芬达橙味汽水瓶/罐"}，悬浮在半透明光泽的橙色底座上方，标签清晰可见，产品占据构图中心。
+
+背景巨型排版："{argument name="headline" default="释放橙色能量"}"
+
+超大粗体字，部分被产品遮挡，充满活力的青年文化广告风格。
+
+副标题："{argument name="secondary headline" default="更多乐趣，更多芬达。"}"
+
+小型标语："橙味爆棚。"
+
+环境灵感完全源自新鲜橙子和气泡汽水。爆炸性的橙汁波浪在场景中盘旋，碳酸气泡四处漂浮，橙片悬浮在半空中，橙皮螺旋，柑橘飞溅弧线，果汁瀑布，光泽液体丝带，漂浮的水果碎片。
+
+将配料转化为超现实建筑：巨大的橙片传送门，漂浮的柑橘岛屿，半透明的橙色水晶结构，果汁河流，汽水气泡隧道，由闪亮橙色汽水构成的弯曲液体结构。
+
+配色方案提取自产品：鲜艳的橙色、橘色、金黄色、亮黄色，点缀新鲜的绿色叶片。
+
+奢华平面设计层：超大图形圆圈，趣味贴纸元素，动态箭头，半调网点，条形码标签，编辑排版，剪纸拼贴纹理，现代青年文化品牌风格。
+
+灯光：影棚级电影质感灯光，温暖的橙色主光，金色轮廓光，发光背光，体积感氛围，闪烁粒子，穿过汽水气泡的光线折射。
+
+材质：超写实 PBR 渲染，逼真的碳酸气泡，光泽橙色液体，高级水果纹理，包装上的冷凝水珠，超清晰反射。
+
+相机：微妙的低角度视角，85mm 商业镜头质感，浅景深，产品极其锐利，背景柔和虚化。
+
+氛围：充满活力、俏皮、清爽、年轻、高端、夏日气息、高端饮料广告。
+
+负面提示词：无额外标志，无包装变形，无标签扭曲，无杂乱，无写实超市场景，无低质量渲染，无模糊产品，无普通库存照片感。
+
+8K 超精细，获奖商业饮料广告，Behance 精选品质，世界级 3D 主视觉，高端汽水广告，清爽柑橘奇幻世界。
+
+[English]
+Premium commercial 3D advertising poster, vertical 4:5 format.
+
+Hero product perfectly centered: {argument name="product" default="Fanta Orange bottle/can"}, floating slightly above a glossy translucent orange pedestal, label perfectly readable, product dominating the composition.
+
+Massive typography in the background: "{argument name="headline" default="UNLEASH THE ORANGE"}"
+
+huge bold typography, oversized and partially hidden behind the product, energetic youth-
+
+culture advertising style.
+
+Secondary headline: "{argument name="secondary headline" default="MORE FUN. MORE FANTA."}"
+
+Small tagline: "Bursting With Orange Flavor."
+
+Environment entirely inspired by fresh oranges and fizzy soda. Explosive orange juice waves twisting through the scene, carbonation bubbles floating everywhere, orange slices suspended in mid-air, orange peel spirals, citrus splash arcs, juice waterfalls, glossy liquid ribbons, floating fruit fragments.
+
+Transform ingredients into surreal architecture: giant orange slice portals, floating citrus islands, translucent orange crystal formations, juice rivers, soda bubble tunnels, curved liquid structures made of sparkling orange soda.
+
+Color palette extracted from the product: vibrant orange, tangerine, golden citrus, bright yellow, fresh green leaf accents.
+
+Luxury graphic design layer: oversized graphic circles, playful sticker elements, dynamic arrows, halftone dots, barcode labels, editorial typography, paper-cut collage textures, modern youth-culture branding.
+
+Lighting: studio-quality cinematic lighting, warm orange key light, golden rim light, glowing backlight, volumetric atmosphere, sparkling particles, light refractions through soda bubbles.
+
+Materials: hyper-realistic PBR rendering, realistic fizzy carbonation, glossy orange liquid, premium fruit textures, condensation droplets on packaging, ultra-clean reflections.
+
+Camera: subtle low-angle perspective, 85mm commercial lens look, shallow depth of field, product razor sharp, background softly blurred.
+
+Mood: energetic, playful, refreshing, youthful, premium, summer vibe, high-end beverage advertising.
+
+Negative prompt: no extra logos, no distorted packaging, no label distortion, no clutter, no realistic supermarket scene, no low quality render, no blurry product, no generic stock-photo look.
+
+8K ultra-detailed, award-winning commercial beverage campaign, Behance-featured quality, world-class 3D key visual, premium soda advertising, refreshing citrus fantasy world.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2066768197760770243) | 2026-06-16
+
+---
+
+### 🎴 例 1710：可定制的奢华 FIFA 主题海报
+
+![可定制的奢华 FIFA 主题海报](../../images/%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%9A%84%E5%A5%A2%E5%8D%8E%20FIFA%20%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华的 FIFA 世界杯主题海报。纯净白色背景。无体育场。无观众。无烟雾。无杂乱背景。极简奢华体育海报。1:1 纵横比。排版层 — 人像后方：巨大的垂直排版，拼写出 "{argument name="player name" default="[球员姓名]"}" — 超紧凑粗体字母，自定义水平切片，不规则间隔，体育编辑图形设计。排版颜色：{argument name="team color" default="[球队颜色十六进制代码]"}。每个切片之间留有极细的白色间隙以营造深度感。字母与人像融合。人像层 — 主背景：[球员姓名] 的全脸特写肖像，黑白风格，超高对比度，戏剧性光影，下颌和颧骨下方有深邃阴影，{argument name="facial expression" default="[面部表情]"}，照片级真实皮肤纹理，排版字体与面部重叠并融合，如同名字纹在图像中一样。前景层 — 动作人物：处于 {argument name="pose" default="[标志性动作]"} 姿态的全身 [球员姓名]，身穿 [国籍] 国家队队服，全彩照片级真实感，超清晰细节，无运动模糊，位于海报下方三分之一处中心，站在排版人像前方。图形元素：— [国家队队徽] 置于左上角，小巧简洁 — [国籍] 国旗图案作为右侧边缘的微妙装饰条 — 手绘球员签名 "[签名标记]"，黑色或金色墨水，右下角 — FIFA 2026 世界杯收藏版徽章图形，右上角区域 — 小型编辑说明文字："[标语第一行]。[标语第二行]。" — 下方微型说明："#[球衣号码] · 2026 · [国家代码]" 设计结构：35% — 巨大的切片排版（沿左轴垂直对齐）45% — 单色人像（略微向右偏移，与排版融合）20% — 全彩前景动作球员（位于下方三分之一处中心）构图周围留有大面积空白负空间。视觉风格：Nike 广告海报。FIFA 高端宣传艺术作品。奢华体育编辑设计。Behance 获奖体育海报。超写实。清晰的 4K 细节。电影级光影。印刷级质量。
+
+[English]
+Create a luxury FIFA World Cup editorial poster. Clean white background. No stadium. No crowd. No smoke. No busy backgrounds. Minimalist luxury sports poster. 1:1 aspect ratio. TYPOGRAPHY LAYER — Behind the portrait: Giant vertical typography spelling "{argument name="player name" default="[PLAYER NAME]"}" — ultra-condensed bold letters, custom horizontal sliced segments at irregular intervals, editorial sports graphic design. Typography color: {argument name="team color" default="[TEAM COLOR HEX]"}. Razor-thin white gap between each slice to create depth. Letters bleed into the portrait. PORTRAIT LAYER — Main background: Full-face close-up portrait of [PLAYER NAME], black and white, ultra-high contrast, dramatic lighting, deep shadows under jaw and cheekbones, {argument name="facial expression" default="[FACIAL EXPRESSION]"}, photorealistic skin texture, the typography letterforms overlap and integrate through the face like the name is tattooed into the image. FOREGROUND LAYER — Action figure: Full-body [PLAYER NAME] in {argument name="pose" default="[SIGNATURE POSE]"}, wearing [NATIONALITY] national team kit, full photorealistic color, ultra-sharp detail, zero motion blur, positioned at the lower-center third of the poster, standing in front of the typographic portrait. GRAPHIC ELEMENTS: — [NATIONAL TEAM CREST] placed top-left corner, small and clean — [NATIONALITY] flag motif as a subtle accent strip on the far right edge — Hand-drawn player signature "[SIGNATURE MARK]" in black or gold ink, bottom-right corner — FIFA World Cup 2026 collector badge graphic, top-right area — Small editorial caption text: "[TAGLINE LINE 1]. [TAGLINE LINE 2]." — Micro caption below: "#[JERSEY NUMBER] · 2026 · [NATION CODE]" DESIGN STRUCTURE: 35% — Giant sliced typography (aligned vertically on the left axis) 45% — Monochrome portrait (slightly offset to the right, integrated with typography) 20% — Full-color foreground action player (centered at lower third) Large empty white negative space surrounding composition VISUAL STYLE: Nike campaign poster. FIFA premium promotional artwork. Luxury sports editorial design. Behance award-winning sports poster. Ultra-realistic. Sharp 4K detail. Cinematic lighting. Print-ready quality.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2066767897490595973) | 2026-06-16
+
+---
+
+### 🎴 例 1714：极简主义奢华时尚海报
+
+![极简主义奢华时尚海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简主义奢华时尚编辑风格海报，主体为一位 {argument name="subject" default="身着象牙白双排扣西装的年轻男士"}，背景为 {argument name="background" default="柔和的灰色摄影棚背景"}。设计包含四个分层的特写画框，突显面部特征与剪裁细节；顶部展示优雅的 {argument name="brand name" default="品牌名称 "ZarOon""}，底部配以标语“Quiet confidence. Timeless in every detail.”（静谧自信，细节永恒），营造出精致、现代的高定时尚美感。
+
+[English]
+Create A minimalist luxury fashion editorial poster featuring a {argument name="subject" default="young man in an ivory double-breasted suit"} seated against a {argument name="background" default="soft gray studio backdrop"}. The design includes four layered close-up frames highlighting facial features and tailoring details, with the elegant {argument name="brand name" default="brand name "ZarOon""} at the top and the tagline "Quiet confidence. Timeless in every detail." at the bottom, creating a refined, modern, high-fashion aesthetic.
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2066756939552317669) | 2026-06-16
+
+---
+
+### 🎴 例 1716：精英足球运动员体育杂志封面设计
+
+![精英足球运动员体育杂志封面设计](../../images/%E7%B2%BE%E8%8B%B1%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+体育杂志艺术作品。一位身穿职业俱乐部球衣的年轻精英足球运动员，胸部以上居中肖像，略微抬头，带着自信的微笑。球员身后有一个巨大的粗体白色数字“{argument name="player number" default="25"}”，通过穿过脸部和颈部的水平切片/故障效果融入构图。简洁的极简主义背景，使用俱乐部的主色调并带有平滑的渐变。顶部为白色“{argument name="top text" default="FIFA"}”文本，底部为间距排版的俱乐部名称。影棚灯光，清晰的面部细节，逼真的皮肤质感，专业体育摄影，高对比度，优质的 EA Sports/FIFA 封面美学，对称布局，现代图形设计，鲜艳的色彩，清晰的排版，景深效果，8K 画质，海报设计，屡获殊荣的体育品牌设计。
+
+[English]
+Sports magazine artwork. A young elite footballer in a professional club jersey, centered chest-up portrait, looking slightly upward with a confident smile. Large bold white number “{argument name="player number" default="25"}” behind the player, integrated into the composition with horizontal slice/glitch cuts passing through the face and neck. Clean minimalist background using the club's primary colors with a smooth gradient. White “{argument name="top text" default="FIFA"}” text at the top, club name spaced out at the bottom. Studio lighting, sharp facial details, realistic skin texture, professional sports photography, high contrast, premium EA Sports/FIFA cover aesthetic, symmetrical layout, modern graphic design, vibrant colors, crisp typography, depth of field, 8K quality, poster design, award-winning sports branding.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2066749051811623292) | 2026-06-16
+
+---
+
+### 🎴 例 1722：Off Duty 时尚杂志封面
+
+![Off Duty 时尚杂志封面](../../images/Off%20Duty%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版的高端时尚杂志封面海报。采用极简主义摄影棚时尚编辑美学，背景为暖浅灰色无缝背景纸，光线柔和且均匀。主体是一位年轻女性，低姿态坐在地板上，神情放松而自信，采用略微仰视的视角，透视感强烈：一条弯曲的腿穿着超大号深靛蓝色牛仔裤，占据左下角前景；另一条腿延伸至右下角前景；躯干位于画面中右侧。她身穿 {argument name="top style" default="白色罗纹短款背心"}，搭配非常宽松的深色牛仔裤，头顶架着一副半透明奶油色太阳镜。她留着凌乱的中长棕色波浪卷发，脸颊两侧有两缕显眼的彩色编发，色彩鲜艳如彩虹。保持真实的皮肤质感和自然的编辑级修图，避免过度光亮或塑料感。她的面部被一个位于中心、边缘柔和的暖肤色方形隐私模糊遮盖，遮住五官，但保留头发、太阳镜、身体和服装可见。构图参考小众时尚杂志封面，左上角留出充足的留白，并配以精准的奢华排版。添加 7 个文字元素：1) 左上角小型大写文字：“PRIVATE STUDIO EDIT”；2) 右上角小型大写期号标签：“ISSUE No.27”，其中“No.27”为柔和红色；3) 左上角堆叠巨大的优雅 Didot/Bodoni 风格衬线字体封面标题，内容为 {argument name="main cover title" default="OFF\nDUTY\nICON"}，其中“ICON”中的字母 O 为柔和红色，其余为黑色；4) 中右侧小型大写说明文字，内容为“MINIMAL\nMOOD.”，后接一个柔和红色的短横线，再接“BOLD\nSIMPLICITY.”；5) 左下方小型白色大写说明文字，旁边有一个微小的柔和红色短横线，内容为“EFFORTLESS\nCONFIDENCE,\nNATURAL\nALLURE.”；6) 底部中心大型衬线字体标语，内容为 {argument name="bottom slogan" default="SIMPLE. STRONG. UNAPOLOGETIC."}，其中仅“UNAPOLOGETIC.”为柔和红色，其余为白色；7) 标语下方，两行居中的微小间距大写文字，内容为“A PRIVATE EDIT FEATURING AUTHENTIC EXPRESSION\nAND MODERN FEMININITY.”，以及更小的居中页脚文字“STUDIO ARCHIVE\n2024 COLLECTION”。在左下角添加一个垂直的黑白条形码。排版采用精致的黑、白、柔和红配色，运用高定时尚杂志的间距设计、清晰的印刷布局、前景牛仔裤的浅景深效果，画面中不包含其他多余的物体、Logo 或文字。
+
+[English]
+Create a vertical 3:4 high-end fashion magazine cover poster featuring {argument name="model description" default="a young woman with wavy brown hair, colorful braided strands, and a confident studio-fashion pose"} as the main subject, photographed in a minimalist private studio against a warm light-gray seamless backdrop. The model sits low and slightly reclined with one oversized denim-clad leg dominating the foreground in dramatic perspective, wearing very loose dark blue jeans and a fitted white ribbed crop tank top. Her upper body is on the right side of the frame, one hand raised near her mouth, the other arm relaxed to the side; place translucent cream sunglasses on top of her hair. Preserve realistic skin texture, natural proportions, and a candid editorial attitude rather than heavy beauty retouching. Use soft studio lighting, shallow depth of field, subtle film grain, and muted neutral tones with deep denim blues and small red typography accents.
+
+Design the image as a niche luxury fashion magazine cover. Use elegant high-contrast serif typography for the main title on the upper left, stacked in three lines reading {argument name="cover title" default="OFF\nDUTY\nICON"}; make the word “ICON” include one red letter “O” while the rest is black. Add small uppercase sans-serif text at the top left reading “PRIVATE STUDIO EDIT” and top right reading “ISSUE No.27” with “No.27” in red. On the right side, place two compact editorial callouts: “MINIMAL\nMOOD.” above a short red dash, then “BOLD\nSIMPLICITY.” Below the left knee area, add a small red dash and the stacked white caption “EFFORTLESS\nCONFIDENCE,\nNATURAL\nALLURE.” At the bottom center, add a large refined serif tagline reading {argument name="bottom tagline" default="SIMPLE. STRONG. UNAPOLOGETIC."}, with “UNAPOLOGETIC.” in red and the rest white. Under it, add small spaced uppercase text: “A PRIVATE EDIT FEATURING AUTHENTIC EXPRESSION\nAND MODERN FEMININITY.” and beneath that “STUDIO ARCHIVE\n2024 COLLECTION.” Add exactly one small vertical barcode block at the bottom left with tiny numbers. Keep the layout clean, editorial, and asymmetrical, with generous negative space on the upper left and typography integrated around the model. No extra logos, no watermark, no additional cover lines beyond the specified text.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2066740099749126512) | 2026-06-16
+
+---
+
+### 🎴 例 1729：电影质感风格化足球海报
+
+![电影质感风格化足球海报](../../images/%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超风格化 {argument name="sport" default="足球"} 海报，暗黑电影感体育艺术作品，局部色彩效果，深邃黑色背景，单色灰度人物，仅保留 {argument name="team colors" default="球队配色"}，高对比度光影，戏剧性阴影，粗犷胶片颗粒质感，半色调印刷效果，复古杂志美学，霓虹光感点缀，眼部遮挡条发光效果，现代街头服饰平面设计，体育编辑海报，动态动作姿势，体育场氛围逐渐隐入黑暗。
+
+主体：{argument name="athlete" default="身穿国家队球衣的精英足球运动员"}，表情强烈，庆祝动作中，居中构图，球衣色彩保持鲜艳，而皮肤与背景保持黑白，身体轮廓带有微妙的红/橙色光晕，戏剧性轮廓光，漂浮粒子，电影级景深。
+
+风格灵感源自当代体育平面设计、地下足球文化、海报艺术、绘本纹理、高端品牌宣传活动、大胆构图、极简背景、高端 Photoshop 处理、超精细、8K 分辨率、杰作。
+
+色彩处理：
+- 整体图像为黑白
+- 仅球衣、球袜、球鞋和足球保留完整的国家队配色
+- 与球队配色相符的霓虹光感
+- 红色、橙色、黄色、蓝色或国家队色调的高光
+- 强对比度与情绪化氛围
+
+效果：
+厚重的胶片颗粒、CRT 纹理、噪点叠加、灰尘粒子、半色调网点、纸张纹理、暗角、光晕溢出、色差、微妙的动态模糊、体育编辑视觉风格。
+
+排版区域：
+为标题和品牌信息留出负空间，海报布局，杂志封面构图。
+
+[English]
+Ultra-stylized {argument name="sport" default="football"} poster, dark cinematic sports artwork, selective color effect, deep black background, monochrome grayscale players with only {argument name="team colors" default="team colors"} preserved, high contrast lighting, dramatic shadows, gritty film grain texture, halftone print effect, retro magazine aesthetic, neon glow accents, glowing censor bar across eyes, modern streetwear graphic design, editorial sports poster, dynamic action pose, stadium atmosphere fading into darkness.
+
+Main subject: {argument name="athlete" default="elite football player in national team jersey"}, intense expression, mid-celebration, centered composition, jersey colors remain vibrant while skin and background stay black and white, subtle red/orange glow outlining body, dramatic rim lighting, floating particles, cinematic depth.
+
+Style inspired by contemporary sports graphic design, underground football culture, poster art, graphic novel texture, premium branding campaign, bold composition, minimalist background, high-end Photoshop manipulation, ultra detailed, 8K, masterpiece.
+
+Color treatment:
+- Entire image in black and white
+- Only jersey, socks, boots, and football remain in full national team colors
+- Neon glow matching team colors
+- Red, orange, yellow, blue, or national palette highlights
+- Strong contrast and moody atmosphere
+
+Effects:
+heavy film grain, CRT texture, noise overlay, dust particles, halftone dots, paper texture, vignette, glow bloom, chromatic aberration, subtle motion blur, sports editorial look.
+
+Typography area:
+leave negative space for title and branding, poster layout, magazine cover composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2066726998060552538) | 2026-06-16
+
+---
+
+### 🎴 例 1734：极简街头风时尚杂志封面
+
+![极简街头风时尚杂志封面](../../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实时尚杂志封面，{argument name="style" default="极简街头风编辑风格"}，{argument name="subject" default="一名年轻男子站在干净的白墙前，身穿海军蓝超大款短袖衬衫、黑色领带、黑色宽松长裤、黑色运动鞋、黑色鸭舌帽，佩戴太阳镜"}。前景两侧有多个同一人物的动态模糊克隆人走过，营造出动态移动效果。中心主体清晰且自信，双手插兜，电影级布光，柔和阴影，高端时尚摄影，编辑排版，奢华杂志美学，中性色调，浅景深，专业单反相机，85mm 镜头，Vogue 风格封面拍摄，照片级真实感，8K 细节。顶部印有大型杂志刊头文字“{argument name="magazine title" default="VANTAGE"}”，现代排版，布局简洁。
+
+[English]
+Ultra-realistic fashion magazine cover, {argument name="style" default="minimalist streetwear editorial"}, {argument name="subject" default="young man standing against a clean white wall wearing an oversized navy-blue short-sleeve shirt, black tie, baggy black trousers, black sneakers, black cap, sunglasses"}. Multiple motion-blurred clones of the same person walking past in the foreground on both sides, creating a dynamic movement effect. Central subject perfectly sharp and confident, hands in pockets, cinematic lighting, soft shadows, high-end fashion photography, editorial composition, luxury magazine aesthetic, neutral color palette, shallow depth of field, professional DSLR, 85mm lens, Vogue-style cover shoot, photorealistic, 8K detail. Large magazine masthead text at the top reading “{argument name="magazine title" default="VANTAGE"}”, modern typography, clean layout.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2066721691150274927) | 2026-06-16
+
+---
+
+### 🎴 例 1735：极简主义东京城市线条艺术海报
+
+![极简主义东京城市线条艺术海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%9F%8E%E5%B8%82%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的极简主义城市肖像海报，主题为 {argument name="city" default="TOKYO"}，通过建筑线条插画捕捉日常城市生活中那份宁静的精致感与井然有序的混乱感。
+
+无需突出著名地标，而是描绘一个充满生活气息的街区场景，让日常琐事定义城市的特质。展现一个受下北泽、中目黑、吉祥寺、高圆寺或当代东京侧街启发，充满本土特色的密集而优雅的街景。
+
+场景
+
+构图中心是一个繁忙的步行走廊，两旁排列着紧凑的咖啡馆、拉面店、书店、便利店、自行车停放处、自动贩卖机、铁路基础设施、电线杆、狭窄的店面以及层叠的日式招牌。
+
+居民自然地融入场景中：
+
+通勤的上班族
+穿过十字路口的大学生
+穿梭在街道上的骑行者
+坐在户外的咖啡馆顾客
+提着购物袋的行人
+在路口或交通站点等待的当地居民
+
+氛围应呈现出地道的东京感——高效、时尚、符合人类尺度且极具都市气息。
+
+大型地标建筑仅可作为融入天际线的远景剪影出现，绝不能作为视觉焦点。
+
+视觉风格
+
+当代编辑插画
+精密建筑绘图
+极简主义单线艺术
+瑞士国际主义风格海报设计
+日本平面设计影响
+博物馆级城市品牌美学
+纯净矢量渲染
+几何透视构建
+强烈的留白运用
+精致的视觉层级
+
+线条
+
+极细的单线笔触
+技术插画级的精准度
+无草稿感
+密集的城市细节
+窗户、电缆、招牌、自行车、店面、栏杆和街道设施的有序节奏
+复杂但视觉上保持冷静且易读的构图
+
+色彩概念
+
+使用克制的双色丝网印刷系统：
+
+一种精心挑选的油墨颜色
+一种对比鲜明的纸张/背景颜色
+
+选择能唤起东京精致都市活力与当代设计文化的色彩。
+
+建议色板：
+
+深 {argument name="ink color" default="朱砂色"} 油墨印在温暖的 {argument name="paper color" default="宣纸象牙白"} 纸张上
+
+避免使用渐变、霓虹效果、多种强调色或摄影灯光。
+
+排版
+
+顶部：
+{argument name="english title" default="TOKYO"}
+
+底部：
+东京
+
+排版应呈现出奢侈设计刊物或文化展览海报的质感。
+
+完美的字距
+简洁的编辑布局
+现代无衬线字体
+插画中包含地道的日式招牌
+无扭曲或不可读的文字
+
+氛围
+
+不是旅游目的地。
+
+不是明信片。
+
+是对东京日常优雅、城市节奏、设计文化和人类尺度密度的视觉赞歌。
+
+这张海报应看起来像是属于当代艺术博物馆、高端旅行杂志或国际设计展览的作品。
+
+输出
+
+竖向构图（4:5 或 2:3 比例）
+超高分辨率 8K
+可直接打印的海报设计
+清晰的矢量品质
+
+[English]
+Create an ultra-premium minimalist city portrait poster of {argument name="city" default="TOKYO"}, capturing the quiet sophistication and organized chaos of everyday urban life through an architectural line-art illustration.
+
+Instead of highlighting famous landmarks, portray a lived-in neighborhood scene where daily routines define the city’s identity. Feature a dense yet elegant streetscape inspired by areas such as Shimokitazawa, Nakameguro, Kichijoji, Koenji, or a contemporary Tokyo side street filled with local character.
+
+SCENE
+
+The composition centers on a bustling pedestrian corridor lined with compact cafés, ramen counters, bookstores, convenience stores, bicycle parking, vending machines, rail infrastructure, utility poles, narrow storefronts, and layered Japanese signage.
+
+Residents naturally inhabit the scene:
+
+Office workers commuting
+Students crossing intersections
+Cyclists weaving through streets
+Café patrons sitting outdoors
+Shoppers carrying bags
+Locals waiting at crossings or transit stops
+
+The atmosphere should feel authentically Tokyo—efficient, stylish, human-scaled, and deeply urban.
+
+Large landmark structures may appear only as distant silhouettes integrated into the skyline, never as focal points.
+
+VISUAL STYLE
+
+Contemporary editorial illustration
+Precision architectural drawing
+Minimalist monoline artwork
+Swiss International Style poster design
+Japanese graphic design influence
+Museum-quality city branding aesthetic
+Clean vector rendering
+Geometric perspective construction
+Strong use of negative space
+Sophisticated visual hierarchy
+
+LINEWORK
+
+Extremely fine monoline strokes
+Technical illustration precision
+No sketchiness
+Dense urban detailing
+Organized rhythm of windows, cables, signs, bicycles, storefronts, railings, and street furniture
+Intricate composition that remains visually calm and readable
+
+COLOR CONCEPT
+
+Use a restrained two-color silkscreen system:
+
+One carefully selected ink color
+One contrasting paper/background color
+
+Choose colors that evoke Tokyo’s refined urban energy and contemporary design culture.
+
+Suggested palette:
+
+Deep {argument name="ink color" default="vermilion"} ink on warm {argument name="paper color" default="rice-paper ivory"} stock
+
+Avoid gradients, neon effects, multiple accent colors, or photographic lighting.
+
+TYPOGRAPHY
+
+Top:
+{argument name="english title" default="TOKYO"}
+
+Bottom:
+東京
+
+Typography should feel like a luxury design publication or cultural exhibition poster.
+
+Perfect kerning
+Clean editorial layout
+Modern sans-serif typography
+Authentic Japanese signage throughout the illustration
+No distorted or unreadable text
+
+MOOD
+
+Not a tourist destination.
+
+Not a postcard.
+
+A visual celebration of Tokyo’s everyday elegance, urban rhythm, design culture, and human-scale density.
+
+The poster should feel like it belongs in a contemporary art museum, premium travel journal, or international design exhibition.
+
+OUTPUT
+
+Vertical composition (4:5 or 2:3 ratio)
+Ultra-high-resolution 8K
+Print-ready poster design
+Crisp vector-qu
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2066719909263143080) | 2026-06-16
+
+---
+
+### 🎴 例 1738：城市涂鸦风格足球海报
+
+![城市涂鸦风格足球海报](../../images/%E5%9F%8E%E5%B8%82%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细街头艺术风格足球海报，主角为 {argument name="character" default="一位可爱的风格化卡通/动漫女孩，留着充满活力的紫色高马尾"}，自信地交叉双臂，一只脚踩在足球上。她身穿 {argument name="team kit" default="阿根廷国家足球队主场球衣：天蓝色和白色条纹球衣、黑色短裤、白色过膝袜以及配套的足球鞋"}。笑容灿烂，有着大而生动的紫罗兰色眼睛，外形如吉祥物般迷人。背景是一面绘有巨幅城市涂鸦的斑驳混凝土墙。墙面上绘有与角色形象一致的巨大插画肖像，周围环绕着动感的颜料飞溅、笔触以及足球主题的街头艺术元素。上方印有醒目的粗体涂鸦文字“{argument name="title text" default="ARGENTINA 2025"}”及皇冠图案。画面包含显眼的阿根廷足球协会 (AFA) 会徽、三颗冠军星、爱国蓝白配色，以及手写标语“Vamos Argentina!”。照片级真实环境与高质量 3D 动画角色设计相结合，皮克斯风格角色渲染，色彩鲜艳，戏剧性的体育海报构图，细节纹理丰富，城市街头文化美学，逼真的阴影与光影，电影级景深，足球迷艺术作品，世界杯氛围，超清晰细节，高分辨率，竖构图，3:4 比例。风格关键词：体育壁画，涂鸦艺术，足球吉祥物，皮克斯风格角色，3D 卡通女孩，阿根廷国家队，街头海报，城市墙绘，鲜艳的蓝白主题，电影级体育插画，高度精细，大师级品质。
+
+[English]
+Ultra-detailed street-art football poster featuring a {argument name="character" default="cute stylized cartoon/anime girl with vibrant purple hair tied in a high ponytail"}, standing confidently with crossed arms and one foot resting on a soccer ball. She wears the {argument name="team kit" default="Argentina national football team home kit: sky-blue and white striped jersey, black shorts, white knee-high socks, and matching football sneakers"}. Cheerful smile, large expressive violet eyes, charming mascot-like appearance. Background is a massive urban graffiti mural painted on a weathered concrete wall. A giant illustrated portrait of the same purple-haired character dominates the wall, surrounded by dynamic paint splashes, brush strokes, and football-themed street-art elements. Large bold graffiti typography reading “{argument name="title text" default="ARGENTINA 2025"}” with a crown above it. Prominent Argentina Football Association (AFA) crest, three championship stars, patriotic blue-and-white color palette, and handwritten slogan “Vamos Argentina!” Photorealistic environment combined with high-quality 3D animated character design, Pixar-inspired character rendering, vibrant colors, dramatic sports-poster composition, detailed textures, urban street culture aesthetic, realistic shadows and lighting, cinematic depth, football fan artwork, World Cup-inspired atmosphere, ultra-sharp details, high resolution, vertical composition, 3:4 aspect ratio. Style keywords: sports mural, graffiti art, football mascot, Pixar-style character, 3D cartoon girl, Argentina national team, street poster, urban wall art, vibrant blue and white theme, cinematic sports illustration, highly detailed, masterpiece quality.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2066712407930491166) | 2026-06-16
+
+---
+
