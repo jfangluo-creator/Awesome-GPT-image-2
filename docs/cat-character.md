@@ -3597,3 +3597,146 @@ Constraints: preserve the reference person’s recognizable hair and beard struc
 
 ---
 
+### 🧍 例 1778：横向角色参考图
+
+![横向角色参考图](../../images/%E6%A8%AA%E5%90%91%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+横向 {argument name="subject" default="角色参考图"}，背景为 {argument name="background" default="纯白背景"}，并排三个视图：正面视图（左）、侧面轮廓（中）、上半身特写（右）。图像风格：照片级真实感，影棚灯光，{argument name="aspect ratio" default="16:9"} 横向布局。全身参考图。无文字
+
+[English]
+Horizontal {argument name="subject" default="character reference sheet"} on {argument name="background" default="pure white background"}, three views side by side: front view (left), side profile (center), upper body close-up (right). Follow image Photorealistic, studio lighting, {argument name="aspect ratio" default="16:9"} horizontal layout. full body sheet. no text
+```
+
+**来源：** [@George Wu](https://x.com/GeorgeWuAI/status/2067243749361758294) | 2026-06-17
+
+---
+
+### 🧍 例 1822：超现实 LEGO 人偶
+
+![超现实 LEGO 人偶](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20LEGO%20%E4%BA%BA%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据附件照片中的人物，创作一张超现实的摄影棚肖像，将超大尺寸的超写实人类头部连接到微小的 LEGO 人偶身体上。保持服装风格 {argument name="clothing style" default="与参考图一致：经典的 LEGO 躯干、LEGO 腿部、LEGO 手臂"}。人类头部应大得不成比例（达到“人体模型”的比例），具有细腻的皮肤纹理和凌乱的自然发型。姿势：一只手向后拉下嘴唇，露出牙齿，表情俏皮且略带混乱。照片采用极具视觉冲击力的低角度拍摄，并带有轻微的鱼眼畸变，以突出面部特征。极简的摄影棚背景，采用 {argument name="background gradient" default="淡薄荷绿/天蓝色渐变"}。明亮的直射闪光灯照明，带有清晰的阴影和光泽高光。构图应荒诞但同时保持整洁，将玩具摄影与时尚肖像的美学相结合。保持逼真头部与塑料 LEGO 身体之间明显的对比。面部细节丰富，柔和的柔和色调，编辑超现实主义，现代互联网美学，人偶的收藏感，集中的构图。
+
+[English]
+Create a surreal studio portrait of a man from an attached photo with a large-size photorealistic human head attached to the tiny body of a LEGO minifigure. Keep your clothing style {argument name="clothing style" default="identical to the reference: classic LEGO torso, LEGO legs, LEGO arms"}. A human head should be disproportionately huge (on the scale of a "dummy"), with a detailed skin texture and disheveled natural hair. Pose: One hand pulls back the lower lip, exposing teeth in a playful, slightly chaotic expression. The picture was taken from a spectacular low angle with a slight fisheye distortion to accentuate the face. Minimal studio background with a {argument name="background gradient" default="pale mint/sky blue gradient"}. Bright direct flash lighting with clear shadows and glossy highlights. The composition should be absurd, but at the same time clean, combining toy photography and the aesthetics of a fashionable portrait. Maintain a visible contrast between the realistic head and the plastic LEGO body. Over-detailed face, soft pastel color scheme, editorial surrealism, modern Internet aesthetics, collectible energy of the figure, concentrated composition.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2067106098931441702) | 2026-06-17
+
+---
+
+### 🧍 例 1830：一致的游戏角色扩展
+
+![一致的游戏角色扩展](../../images/%E4%B8%80%E8%87%B4%E7%9A%84%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%89%A9%E5%B1%95.jpg)
+
+**Prompt:**
+
+```text
+{argument name="縦横比" default="3:4"}の縦長の画角。アップロードされたキャラクターを基準キャラクターとして使用すること。真ん中に描くこと。
+
+出力は{argument name="人数" default="五人"}。
+
+基準キャラクターと同じゲームに登場する新規キャラクターをデザインすること。
+
+⸻
+
+【最重要】
+
+基準キャラクターの画風を厳密に維持すること。
+
+基準キャラクターの世界観を維持すること。
+
+基準キャラクターの色彩設計を維持すること。
+
+基準キャラクターのデザイン思想を維持すること。
+
+同じ作品の登場人物として成立すること。
+
+画像をいたずらに高詳細にしない。細かいエフェクトや塵を入れない。画面を汚くしない。粒子を入れるのはタブー。服のデザインを細かくしすぎない。過度の装飾を避ける。
+
+⸻
+
+【禁止事項】
+
+基準キャラクターの顔を流用しないこと。
+
+基準キャラクターの髪型を流用しないこと。
+
+基準キャラクターの髪色を流用しないこと。
+
+基準キャラクターの目の形を流用しないこと。
+
+基準キャラクターの前髪を流用しないこと。
+
+基準キャラクターの性格を流用しないこと。
+
+色違いキャラクターを作らないこと。
+
+姉妹キャラのようなデザインにしないこと。
+
+キャラクターの服装と違う服装にすること。新規デザイン。
+
+キャラクターの服装とは色を変えること。新規デザイン。
+
+一目で別人と分かること。
+
+⸻
+
+【キャラクター条件】
+
+キャラクター①
+{argument name="キャラクター設定" default="（ここに自由入力）"}
+
+キャラクター②
+（ここに自由入力）
+
+キャラクター③
+（ここに自由入力）
+
+キャラクター④
+（ここに自由入力）
+
+キャラクター⑤
+（ここに自由入力）
+
+【背景】
+
+⸻
+
+【出力】
+
+背景込み。
+
+公式設定資料レベル。
+```
+
+**来源：** [@咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc/status/2067090357100421620) | 2026-06-17
+
+---
+
+### 🧍 例 1844：霓虹蝴蝶仙子奇幻艺术
+
+![霓虹蝴蝶仙子奇幻艺术](../../images/%E9%9C%93%E8%99%B9%E8%9D%B4%E8%9D%B6%E4%BB%99%E5%AD%90%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超精细的竖版奇幻动漫插画，画面中心站立着全身像 {argument name="character name" default="一位优雅的无面仙子公主"}，周围环绕着令人目不暇接的由蝴蝶、花朵、藤蔓和星尘组成的发光花园。构图极其密集且追求极繁主义，不留任何空白：深邃的午夜蓝宇宙背景中，填满了发光的花卉纹饰、闪烁的微粒、宝石般的花瓣、卷曲的金色卷须和霓虹光轨。角色身穿一件由层叠的玻璃质感花瓣和虹彩丝带构成的半透明飘逸长裙，裙摆从下方中心向右侧蜿蜒延伸，融入花丛之中。她的头发和裙摆向上方和外侧飘散，形成华丽的大漩涡，在头部周围构成类似光环的螺旋；在脸部位置放置一个小的竖向柔和灰褐色矩形模糊，以遮挡面部特征。使用 {argument name="color palette" default="电光青、荧光粉、紫罗兰、洋红、橙色、金色和深蓝宝石色"}，呈现强烈的发光效果、高饱和度、光泽高光和宝石般的折射感。画面中必须包含 11 只显眼的超大蝴蝶：左上角一只金色蝴蝶，左侧一只大型青色蝴蝶，上方中心附近一只青色蝴蝶，右上角一只橙色蝴蝶，最右上角一只青粉色蝴蝶，右边缘一只大型青色蝴蝶，右下角一只大型洋红色蝴蝶，右下角附近一只蓝色蝴蝶，左下角一只蓝色蝴蝶，左下角附近一只橙黄色蝴蝶，以及左侧中部一只粉黄色蝴蝶；添加许多微小的次要蝴蝶和花瓣作为背景细节。在角色周围簇拥着粉色、橙色、紫色、蓝色和红色的花朵，特别是在胸前和裙摆周围。风格：{argument name="art style" default="高端日式 AI 奇幻插画，华丽动漫，彩色玻璃虹彩，超精细数字绘画"}。光效应呈现出璀璨的魔法感，伴有成千上万个微小的星光闪烁和发光轮廓；使图像清晰、复杂且高度精致。画布：竖版 2:3 比例，全画幅构图，无文字，无水印，无边框。
+
+[English]
+Create an ultra-detailed vertical fantasy anime illustration of {argument name="character name" default="an elegant faceless fairy princess"} standing full body in the center, surrounded by an overwhelming luminous garden of butterflies, flowers, vines, and stardust. The composition is extremely dense and maximalist, with no empty space: a dark midnight-blue cosmic background is filled edge to edge with glowing floral filigree, sparkling particles, gem-like petals, curling golden tendrils, and neon light trails. The character wears a long translucent flowing gown made of layered glassy petals and iridescent ribbons, with a sweeping train that curves from the lower center toward the right, blending into the flower field. Her hair and dress stream upward and outward in large ornate swirls, creating a halo-like spiral around her head; place a small vertical soft gray-brown rectangular blur over the face so the facial features are obscured. Use {argument name="color palette" default="electric cyan, hot pink, violet, magenta, orange, gold, and deep sapphire blue"} with intense glow, high saturation, glossy highlights, and jewel-like refractions. Include exactly 11 prominent oversized butterflies: one golden butterfly at the upper left, one large cyan butterfly on the left side, one cyan butterfly near the upper center, one orange butterfly at the upper right, one cyan-pink butterfly at the far upper right, one large cyan butterfly on the right edge, one large magenta butterfly at the lower right, one blue butterfly near the lower right, one blue butterfly at the lower left, one orange-yellow butterfly near the lower left, and one pink-yellow butterfly on the mid-left; add many tiny secondary butterflies and petals as background detail. Surround the character with clustered flowers in pink, orange, purple, blue, and red, especially near the chest and along the dress. Style: {argument name="art style" default="premium Japanese AI fantasy illustration, ornate anime, stained-glass iridescence, hyper-detailed digital painting"}. Lighting should be radiant and magical, with thousands of tiny star sparkles and glowing outlines; make the image crisp, intricate, and highly polished. Canvas: vertical 2:3 portrait, full-frame composition, no text, no watermark, no border.
+```
+
+**来源：** [@魚谷真](https://x.com/uuu3ooo/status/2067068100412141716) | 2026-06-17
+
+---
+

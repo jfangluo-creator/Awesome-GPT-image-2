@@ -7874,3 +7874,525 @@ Ultra-detailed street-art football poster featuring a {argument name="character"
 
 ---
 
+### 🎴 例 1748：横滨三男泼墨艺术海报
+
+![横滨三男泼墨艺术海报](../../images/%E6%A8%AA%E6%BB%A8%E4%B8%89%E7%94%B7%E6%B3%BC%E5%A2%A8%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动态的竖版动漫风格插画，标题为 {argument name="artwork title" default="横滨与三男"}：前景为三名时尚的成年男性，背景为日落或傍晚时分的横滨港。采用戏剧性的漫画/泼墨艺术美学，运用浓重的墨色阴影、富有表现力的笔触、高对比度，以及横跨画面的红、蓝、白三色动感泼墨。画布比例为 2:3 竖版。背景：可辨认的横滨海滨，左侧为横滨地标塔，港口建筑，水面上一艘大型白色客轮，闪烁的蓝色倒影，海鸥，中右侧为 Cosmo Clock 摩天轮，右侧为红砖仓库。前景包含 3 名男子：一名高大的男子位于中左侧，身穿深海军蓝开领衬衫和外套，留着凌乱的黑色波浪发，看向侧方；一名男子位于右侧，身穿白色西装外套内搭黑色衬衫，配蓝色口袋巾，身体微倾，留着凌乱黑发，姿态强烈；一名男子位于左下方，坐着或蹲着，身穿深海军蓝西装、白衬衫和领带，一只手抬起靠近嘴边，仿佛在思考或拿着香烟，头部向下倾斜。面部应被深棕色的实心矩形遮挡块遮住，每个人的脸部各覆盖一个矩形，共 3 个遮挡矩形。在衣物和天空上添加鲜艳的红色和钴蓝色泼墨，并点缀白色油漆斑点。在右下角添加一个优雅的小签名和日期，内容为 {argument name="date text" default="2026 年 6 月 17 日"} 和 {argument name="signature text" default="Oyagi"}。使图像精致、具有电影感和海报质感，不要包含其他可读文字、标志、水印或额外人物。
+
+[English]
+Create a dynamic vertical anime-style illustration titled {argument name="artwork title" default="Yokohama and Three Men"}: three stylish adult men in the foreground against Yokohama harbor at sunset or early evening. Use a dramatic painterly manga / splash-art aesthetic with thick ink-like shadows, expressive brush strokes, high contrast, and energetic red, blue, and white paint splatters sweeping diagonally across the composition. Canvas is portrait 2:3. Background: recognizable Yokohama waterfront with the Landmark Tower on the left, harbor buildings, a large white passenger ship on the water, sparkling blue reflections, seagulls, the Cosmo Clock Ferris wheel near the center-right, and red brick warehouse buildings on the right. Foreground contains exactly 3 men: one tall central-left man standing upright in a dark navy open-collar shirt and jacket, messy wavy black hair, looking off to the side; one right-side man in a white blazer over a black shirt with a blue pocket square, leaning forward slightly, messy black hair, intense posture; one lower-left seated or crouching man in a dark navy suit, white shirt, and tie, hand raised near his mouth as if thinking or holding a cigarette, head angled downward. Faces should be obscured by solid rectangular censor blocks in dark brown tones, one rectangle covering each man’s face, exactly 3 censor rectangles. Add vivid red and cobalt-blue splashes across clothing and sky, with white paint flecks throughout. Include a small elegant signature and date in the bottom-right corner reading {argument name="date text" default="June 17, 2026"} and {argument name="signature text" default="Oyagi"}. Make the image polished, cinematic, and poster-like, with no other readable text, no logo, no watermark, and no extra people.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2067378784941306135) | 2026-06-17
+
+---
+
+### 🎴 例 1750：和服吉他手时尚插画
+
+![和服吉他手时尚插画](../../images/%E5%92%8C%E6%9C%8D%E5%90%89%E4%BB%96%E6%89%8B%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高挑的全身动漫时尚插画，描绘一位身着现代日式和服街头服饰的时尚年轻男子，自信地站在米白色羊皮纸背景前。角色留着凌乱的卷发，{argument name="hair color" default="黑色"} 发丝高高堆起且有几缕散落，头顶架着一副小圆墨镜，身材修长精致；面部处理得柔和模糊或极简，以营造时尚海报的质感。他身穿青色、深海军蓝、奶油色和柔和橙色叠穿的和服长袍，饰有半透明几何拼接、樱花图案、扇形纹章、波浪纹、三角形装饰、流苏、绳结以及腰间系着的绳索腰带，搭配宽松的深色袴式长裤和带有流苏细节的亮面黑色系带鞋。他左手持一把原声吉他，深色木质琴身上装饰着与服装相呼应的金橙色花卉和波浪纹饰。周围环绕着优雅的日式装饰元素：上半身背后有一个巨大的橙色太阳圆盘，两根主要的樱花枝围绕着他蜿蜒生长，几片花瓣飘落，还有风格化的青色和橙色丝带状波浪、淡云形状、纤细的金色线条艺术以及散落的几何三角形。采用浮世绘与现代动漫相结合的轻盈风格，具有水彩质感、精致的墨线勾勒、柔和的青/橙/金配色、复杂的纺织品图案、高细节度，从头发到鞋子全身可见，构图居中，无文字，无水印，留有干净的奶油色负空间。
+
+[English]
+Create a tall vertical full-body anime fashion illustration of a stylish young man in modern Japanese kimono streetwear, standing confidently against an off-white parchment background. The character has messy curly {argument name="hair color" default="black"} hair piled high with loose strands, small round sunglasses resting on top of his head, and a refined slim build; leave the face softly obscured or minimally detailed for a fashion-poster feel. Dress him in layered teal, deep navy, cream, and muted orange kimono robes with translucent geometric panels, floral sakura motifs, fan crests, wave patterns, triangle accents, tassels, cords, and a tied rope obi at the waist, paired with loose dark hakama-style trousers and glossy black lace-up shoes with tassel details. He holds one acoustic guitar in his left hand, dark wood body decorated with matching gold-orange floral and wave ornamentation. Surround him with elegant Japanese-inspired decorative elements: one large orange sun disk behind the upper body, two main flowering cherry blossom branches curling around him, several small falling petals, stylized teal and orange ribbon-like waves, pale cloud shapes, thin gold line art, and scattered geometric triangles. Use an airy ukiyo-e-meets-contemporary-anime style with watercolor texture, delicate ink outlines, muted teal/orange/gold palette, intricate textile patterns, high detail, full body visible from hair to shoes, centered composition, no text, no watermark, clean cream negative space.
+```
+
+**来源：** [@大野ノリ](https://x.com/ohno_nori_on_x/status/2067369318103617906) | 2026-06-17
+
+---
+
+### 🎴 例 1752：动漫麻将杂志封面
+
+![动漫麻将杂志封面](../../images/%E5%8A%A8%E6%BC%AB%E9%BA%BB%E5%B0%86%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为现代麻将资讯杂志创作一张精美的动漫风格封面，主题为置身于奢华休息室中的可爱次世代女性麻将选手。
+
+画布：1:1 正方形封面，768×768 或更高分辨率，全出血艺术图，叠加杂志排版。温暖的电影级灯光，深棕色与金色调，高端编辑风格。
+
+主体：画面中心前景紧凑排列 4 位动漫少女，呈现偶像专题报道的姿态。她们穿着协调且优雅的中国风无袖麻将礼服，配有黑色盘扣、金色花卉刺绣、浅色缎面布料及低领设计。4 位少女的具体要求如下：左上方 1 位棕色短发少女，身着金色服装，面部被实心模糊方块遮挡；右上方 1 位白色长直发少女，身着白色服装，面部被实心模糊方块遮挡；左下方 1 位浅蓝色双马尾少女，身着青色服装，面部被实心模糊方块遮挡，手边放置 1 枚麻将牌；右下方 1 位粉色双马尾少女，面带微笑，紫色眼睛，手托腮。三个遮挡块应为边缘柔和的不透明米色/灰色方块，直接覆盖在面部上方，而粉发少女保持清晰。
+
+背景：高档麻将休息室或俱乐部内景，包含深色木材、真皮座椅、镶框海报、奖杯、暖色台灯、架子、植物，并具有浅景深效果。背景需保持轻微模糊，以突出杂志文字和少女主体。
+
+杂志排版：顶部使用大号金色刊头，文字为 {argument name="magazine title" default="麻雀 NEXT"}，其中“NEXT”采用超大号衬线金属字体，左侧配有较小的日文字符。顶部添加一行白色小标语 {argument name="top tagline" default="麻雀がもっと強く、もっと楽しくなる　No.1麻雀情報誌"}。右上角添加期号信息 {argument name="issue date and price" default="2025 6 JUNE 定価980円"}。混合使用粗体日文编辑文本、红色标注标题、白色专题文案及金色装饰元素。
+
+左侧封面文字：在左侧创建 4 个堆叠的专题文本块：1 个红色标题块 {argument name="main feature headline" default="表紙巻頭特集"}；1 个大号白色专题块“次世代 / ガールズ雀士 / ユニット完全密着”；1 行较小的白色文字“4人が語る勝負と友情”；1 个下方的白色访谈块“全国大会直前 / スペシャルインタビュー”。
+
+右侧封面文字：在右侧创建 3 个编辑文本块：1 个金色月桂叶装饰块“M.LEAGUE / 2024-25 / 最新レポート / 全チーム戦力分析”；1 个带有红色小标签“インタビュー”的访谈块，白色文字为“トッププロが語る / 次世代の可能性”；1 个带有红色标签 {argument name="tactics label" default="麻雀戦術特集"} 的麻将战术块，白色文字为“守備から攻めへ / 最新トレンド戦術 / 徹底解説”。
+
+视觉风格：高精细动漫插画，柔和的皮肤阴影，细腻的头发高光，光面杂志质感，写实的金色排版，戏剧性的暖色高光，干净易读的封面设计。采用日本杂志美学，华丽但不色情，无水印，除杂志刊头外无其他 Logo。确保所有可见文字均像真实印刷杂志封面一样经过精心排版，避免出现随机的乱码。
+
+[English]
+Goal: Create a glossy anime-style magazine cover for a modern mahjong information magazine, themed around cute next-generation female mahjong players in a luxurious lounge.
+
+Canvas: Square 1:1 cover, 768×768 or larger, full-bleed artwork with layered magazine typography. Warm cinematic lighting, dark brown and gold palette, premium editorial look.
+
+Main subject: Show exactly 4 anime girls grouped tightly in the center foreground, posed like an idol feature spread. They wear coordinated elegant Chinese-inspired sleeveless mahjong hostess dresses with black frog closures, gold floral embroidery, pale satin fabric, and low necklines. Count the 4 girls as follows: 1 brown-haired girl at upper left with a short bob and gold outfit, face covered by a solid blurred square; 1 white-haired girl at upper right with very long straight hair and white outfit, face covered by a solid blurred square; 1 pale blue-haired girl at lower left with twin ponytails and teal outfit, face covered by a solid blurred square, holding exactly 1 mahjong tile near her hand; 1 pink-haired girl at lower right with twin tails, visible smiling face, purple eyes, resting her cheek on her hand. The three censor blocks should be soft-edged opaque beige/gray squares placed directly over the faces, while the pink-haired girl remains unobscured.
+
+Background: Upscale mahjong lounge or club interior with dark wood, leather seating, framed posters, trophies, warm lamps, shelves, plants, and shallow depth of field. Keep the background slightly blurred so the magazine text and girls dominate.
+
+Magazine layout: Large gold masthead across the top reading {argument name="magazine title" default="麻雀 NEXT"}, with oversized serif metallic letters for “NEXT” and smaller Japanese characters at left. Add a small top tagline in white reading {argument name="top tagline" default="麻雀がもっと強く、もっと楽しくなる　No.1麻雀情報誌"}. At the top right, add issue information reading {argument name="issue date and price" default="2025 6 JUNE 定価980円"}. Use a mix of bold Japanese editorial text, red callout headers, white feature lines, and gold accents.
+
+Left cover text: Create exactly 4 stacked feature text blocks on the left side: 1 red headline block reading {argument name="main feature headline" default="表紙巻頭特集"}; 1 large white feature block reading “次世代 / ガールズ雀士 / ユニット完全密着”; 1 smaller white line reading “4人が語る勝負と友情”; 1 lower white interview block reading “全国大会直前 / スペシャルインタビュー”.
+
+Right cover text: Create exactly 3 editorial blocks on the right side: 1 gold laurel block reading “M.LEAGUE / 2024-25 / 最新レポート / 全チーム戦力分析”; 1 interview block with a small red label reading “インタビュー” and white text reading “トッププロが語る / 次世代の可能性”; 1 mahjong tactics block with a red label reading {argument name="tactics label" default="麻雀戦術特集"} and white text reading “守備から攻めへ / 最新トレンド戦術 / 徹底解説”.
+
+Visual style: Highly polished anime illustration, soft skin shading, detailed hair highlights, glossy magazine finish, realistic gold typography, dramatic warm highlights, clean readable cover design. Use Japanese magazine aesthetics, glamorous but not explicit, no watermark, no logo other than the magazine masthead. Ensure all visible text is intentionally placed like a real printed magazine cover and avoid random extra gibberish.
+```
+
+**来源：** [@Mankyu | AI動画生成](https://x.com/manaimovie/status/2067358371942916206) | 2026-06-17
+
+---
+
+### 🎴 例 1760：无脸动漫 Cosplay 博览会双人组
+
+![无脸动漫 Cosplay 博览会双人组](../../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%20Cosplay%20%E5%8D%9A%E8%A7%88%E4%BC%9A%E5%8F%8C%E4%BA%BA%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的 2D 动漫时尚插画作为活动海报，画面中恰好有两名无脸年轻女性在奢华的粉彩派对房间中合影。构图为竖向肖像比例，呈现出“Cosplay 博览会上的闺蜜”这一活泼氛围。左侧角色是一位可爱的洛丽塔风格少女，留着 {argument name="left character hair color" default="浅米金色"} 的短波浪波波头，戴着大号深色蝴蝶结发箍，双手比出剪刀手，单膝俏皮抬起，身穿奶油色围裙裙，内搭棕色格纹短裙，配有泡泡袖、蕾丝边、珍珠项链、手链、链条腰带、白袜和棕色乐福鞋。右侧角色更靠近镜头且体型较大，坐在华丽的椅子上，留着 {argument name="right character hair color" default="铂金色"} 的长发，发丝戏剧性地向上飘动，手中拿着一杯装满金色气泡酒的高脚香槟杯，身穿饰有金色花卉刺绣的黑色亮面短夹克、黑色上衣、黑色短裙、金色链条腰带、带有花卉图案的黑色蕾丝过膝袜以及黑色系带靴。两人的面部必须刻意用平面的桃色矩形遮挡块覆盖，不显示任何五官。画面左下方包含一只粉色小泰迪熊吉祥物，举起的手中持有一个香槟杯，背景散落着红金两色的五彩纸屑，配有粉色帷幔、吊灯、甜点、鲜花、墙面装饰画、温暖的阳光以及华丽的咖啡馆家具。采用高细节的日本动漫渲染风格，线条优雅，高光亮丽，色调以桃粉金为主，发丝与衣物呈现动态感，氛围欢快，景深较浅，并具备丰富的时尚配饰细节。在右下角添加海报风格的活动文字：大号粗体标题 {argument name="event title" default="AI COSPLAY EXPO"}，较小的副标题 {argument name="event subtitle" default="INTERNATIONAL EVENT"}，以及微小的制作方说明 {argument name="producer line" default="produced by AI lady collection"}。在活动标题上方保留类似 Logo 的黑色剪影标记，但避免在其他地方添加额外的可读文字。
+
+[English]
+Create a polished 2D anime fashion illustration for an event poster featuring exactly two faceless young women posing together in a luxurious pastel party room. The composition is vertical, portrait-oriented, with a lively “best friends at a cosplay expo” mood. The left character is a cute girly-lolita girl with {argument name="left character hair color" default="light beige blonde"} short wavy bob hair, a large dark bow headband, both hands raised in peace signs, one knee lifted playfully, wearing a frilly cream apron dress over a brown checkered skirt, puff sleeves, lace trim, pearl necklace, bracelets, chain belt, white socks, and brown loafers. The right character is closer to the camera and larger, seated on an ornate chair, with {argument name="right character hair color" default="platinum blonde"} long flowing hair dramatically sweeping upward, holding one tall champagne flute filled with sparkling golden drink, wearing a glossy black cropped jacket with gold floral embroidery, black top, short black skirt, gold chain belt, black lace-pattern thigh-high stockings with floral motifs, and black lace-up boots. Both faces must be deliberately covered by flat peach-colored rectangular censor blocks with no facial features visible. Include exactly one small pink teddy bear mascot near the lower left, exactly one champagne flute in the raised hand, scattered red and gold confetti, pink drapery, chandeliers, desserts, flowers, framed wall decor, warm sunlight, and ornate café furniture in the background. Use highly detailed Japanese anime rendering, elegant linework, glossy highlights, soft peach-pink-gold color palette, dynamic hair and fabric motion, celebratory atmosphere, shallow depth of field, and rich fashion-accessory detail. Add poster-style event text in the lower right: large bold title {argument name="event title" default="AI COSPLAY EXPO"}, smaller subtitle {argument name="event subtitle" default="INTERNATIONAL EVENT"}, and tiny producer line {argument name="producer line" default="produced by AI lady collection"}. Keep the logo-like black silhouette mark above the event title, but avoid adding extra readable text elsewhere.
+```
+
+**来源：** [@AI lady collection@生成AI](https://x.com/nihonnoashita/status/2067283501838401951) | 2026-06-17
+
+---
+
+### 🎴 例 1765：未来赛博朋克风格足球海报
+
+![未来赛博朋克风格足球海报](../../images/%E6%9C%AA%E6%9D%A5%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张史诗级的足球海报，主角为身穿 {argument name="national team" default="葡萄牙"} 红色国家队队服、身披 7 号球衣的 {argument name="player name" default="Cristiano Ronaldo"}，将其塑造为一名 {argument name="theme" default="未来赛博朋克战士"}。他半边脸是人类面孔，另半边脸则显露出先进的金属“终结者”风格机械结构，并配有一只发光的红色机械眼。深红色的背景中充斥着烟雾、火花、能量粒子和体育场灯光。
+
+背景为巨大的英雄肖像，表情坚毅，下颌线分明，皮肤纹理超写实。前景为正在带球的 Ronaldo，动作充满动感，佩戴队长袖标，带有动态运动模糊，移动轨迹伴随着爆发性的能量拖尾。
+
+设计中融入了醒目的字体排版：
+"CR7"
+"THE TERMINATOR"
+"THE MACHINE NEVER STOPS"
+
+包含葡萄牙国旗元素、国家队队徽、微妙的未来感电路、故障艺术效果、破碎的碎片、红色闪电、赛博朋克氛围以及冠军气场。戏剧性的电影级布光、体积雾、高对比度阴影，呈现出高端体育杂志封面的质感。
+
+配色方案：深红、黑色、金属银、发光深红、暗影。
+
+超精细、超写实、体育广告大片、Nike 商业美学、Behance 热门平面设计、Photoshop 杰作、8K 分辨率、HDR、焦点清晰、分层构图、海报艺术、获奖足球艺术作品。
+
+[English]
+Create an epic football poster featuring {argument name="player name" default="Cristiano Ronaldo"} in {argument name="national team" default="Portugal"}'s red national team kit, number 7, standing as a {argument name="theme" default="futuristic cybernetic warrior"}. One side of his face is human, the other side reveals advanced metallic Terminator-style machinery with glowing red robotic eye. Dark crimson background filled with smoke, sparks, energy particles, and stadium lights.
+
+Large heroic portrait in the background, intense expression, sharp jawline, ultra-realistic skin texture. Foreground Ronaldo in action pose dribbling a football, captain's armband visible, dynamic motion blur, explosive energy trails following his movement.
+
+Massive typography integrated into the design:
+"CR7"
+"THE TERMINATOR"
+"THE MACHINE NEVER STOPS"
+
+Portugal flag elements, national team crest, subtle futuristic circuits, glitch effects, shattered fragments, red lightning, cyberpunk atmosphere, championship aura. Dramatic cinematic lighting, volumetric fog, high contrast shadows, premium sports magazine cover style.
+
+Color palette: deep red, black, metallic silver, glowing crimson, dark shadows.
+
+Ultra-detailed, hyper realistic, sports advertising campaign, Nike commercial aesthetic, Behance trending graphic design, Photoshop masterpiece, 8K resolution, HDR, sharp focus, layered composition, poster art, award-winning football artwork.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2067265788273373559) | 2026-06-17
+
+---
+
+### 🎴 例 1766：街头潮流杂志封面设计
+
+![街头潮流杂志封面设计](../../images/%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实街头潮流杂志封面拍摄，场景位于 {argument name="location" default="复古橙色电话亭"} 内，采用极具张力的俯视视角拍摄。一位时尚的年轻男子，留着中长波浪深色头发，修剪整齐的胡须，佩戴黑色长方形太阳镜，自信地站在中心，直视镜头。他身穿一件充满活力的 {argument name="jacket" default="橙色棒球夹克"}，上面带有刺绣贴片，内搭干净的白色 T 恤，下穿黑色工装裤，叠戴银色项链，脚踩橙色高帮帆布鞋。电话亭内部完全被大胆的橙色调包裹，带有光泽的反射和磨损的质感。背景墙上印有醒目的超大白色字体 “{argument name="headline" default="CALL YOUR SHOT"}”。他的左手向镜头方向伸出，营造出深度和透视感。墙上安装着一台复古黑色公用电话。现代编辑图形元素、励志贴纸、手绘涂鸦、条形码标签、签名标记以及杂志风格的排版细节贯穿整个构图。奢华时尚广告美学、高端杂志封面设计、电影感叙事、城市 Z 世代活力、创意品牌推广、高端街头服饰广告、强烈的深度感、有力的引导线、反光玻璃墙、对称构图、照片级皮肤质感、真实的织物细节、细腻的胶片颗粒、柔和的漫射光、丰富的橙色调色、清晰对焦、超细节、HDR、8K 分辨率。相机设置：Sony A7R V，24mm 广角镜头，f/2.8，ISO 100，俯视镜头，专业编辑摄影，浅景深，自然反射，超清晰细节。风格关键词：编辑时尚摄影、街头潮流广告、杂志封面、创意广告、奢华品牌推广、都市生活方式、电影级写实、高级海报设计、现代排版、高端时尚商业摄影。负面提示词：模糊、低分辨率、卡通、动漫、CGI、解剖结构扭曲、多余的手指、肢体重复、糟糕的手部、高光过曝、色彩暗淡、文字伪影、水印、细节缺失、噪点图像、塑料质感皮肤、面部畸形、透视错误、身体裁剪、光线不佳、不真实的反射。
+
+[English]
+Ultra-realistic editorial streetwear magazine cover shot inside a {argument name="location" default="vintage orange telephone booth"}, photographed from a dramatic top-down bird’s-eye perspective. A stylish young man with wavy medium-length dark hair, trimmed beard, and black rectangular sunglasses stands confidently in the center, looking directly at the camera. He wears a vibrant {argument name="jacket" default="orange varsity bomber jacket"} with embroidered patches, a clean white t-shirt, black cargo pants, layered silver necklaces, and orange high-top canvas sneakers. The phone booth interior is fully wrapped in bold orange tones with glossy reflections and worn textures. Large oversized white typography reading "{argument name="headline" default="CALL YOUR SHOT"}" dominates the background wall behind him. His left hand is raised toward the camera, creating depth and perspective. A retro black payphone is mounted on the wall. Modern editorial graphic elements, motivational stickers, handwritten doodles, barcode label, signature mark, and magazine-style layout details are integrated throughout the composition. Luxury fashion campaign aesthetic, premium magazine cover design, cinematic storytelling, urban Gen-Z energy, creative branding, high-end streetwear advertisement, dramatic depth, strong leading lines, reflective glass walls, symmetrical framing, photorealistic skin texture, realistic fabric details, subtle film grain, soft diffused lighting, rich orange color grading, sharp focus, ultra-detailed, HDR, 8K resolution. Camera Settings: Sony A7R V, 24mm wide-angle lens, f/2.8, ISO 100, top-down overhead shot, professional editorial photography, shallow depth of field, natural reflections, ultra-sharp details. Style Keywords: editorial fashion photography, streetwear campaign, magazine cover, creative advertising, luxury branding, urban lifestyle, cinematic realism, premium poster design, modern typography, high-fashion commercial photography. Negative Prompt: blurry, low resolution, cartoon, anime, CGI, distorted anatomy, extra fingers, duplicated limbs, bad hands, overexposed highlights, washed colors, text artifacts, watermark, low detail, noisy image, plastic skin, deformed face, incorrect perspective, cropped body, poor lighting, unrealistic reflections.
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2067265656735904209) | 2026-06-17
+
+---
+
+### 🎴 例 1773：孙悟空大闹天宫插画
+
+![孙悟空大闹天宫插画](../../images/%E5%AD%99%E6%82%9F%E7%A9%BA%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度精细的竖版奇幻插画，灵感源自《西游记》，展示 {argument name="character name" default="孙悟空"} 冲入天宫战场的画面。采用经典的中国连环画与手绘水墨插画风格：清晰的黑色线条、密集的装饰细节、饱和的色彩、水彩般的阴影、金色点缀、翻腾的白云以及明亮的青蓝色天空。
+
+画布：高竖版海报构图，9:16 比例，从上到下充满动作感。
+
+主体：在左上方中心位置，展示孙悟空动态十足地跃向天空，双膝弯曲，身穿黄色上衣、红色裤子、黑色靴子，腰间系着豹纹围裙，戴着蓝色围巾、金箍和华丽的护臂。他斜握着一根从左上延伸至右中的红金相间如意金箍棒。他的面部特意用一个小型的竖向米色模糊矩形遮盖，仿佛经过匿名处理。
+
+主要可见元素，共 5 个大型焦点人物：
+1. 挥舞斜向金箍棒跃起的孙悟空。
+2. 右上方从白云中探出的巨型绿金中国龙，长有橙色胡须、红色大嘴和凶猛的眼睛。
+3. 左下方一名向后倒下的身穿蓝绿色盔甲的天兵，手持长矛，头戴红缨盔，表情惊恐。
+4. 右下方一名身穿红金盔甲的天兵，手持长柄武器，身披粉色飘带，脚边有一个圆形金盾。
+5. 中间附近一名倒立翻滚的蓝色盔甲战士，正掉落一个金色的轮状武器。
+
+次要人物：在天空和云层中添加 13 个小型飞行天兵和侍从：左上方 3 个，金箍棒周围上方中心 2 个，右上方旗帜和长矛旁 2 个，左中云层周围 3 个，中下云层附近 2 个，以及右中宫殿阳台上站立的 1 个微小人物。赋予他们华丽的盔甲、飘动的丝带、旗帜、长矛、戟以及生动的战斗姿态。
+
+建筑与环境：在右侧和左下方填充精致的中国天宫建筑：红柱、青绿与金色琉璃瓦屋顶、白玉露台、雕花栏杆、层叠的亭台楼阁和装饰性檐角。最大的宫殿群在右侧云后升起；左下方坐落着一组较小的亭台。在右侧阳台上添加几组身着彩色唐风长袍、佩戴发饰的优雅宫女，正在观战。
+
+云层与特效：整幅场景中使用密集的翻腾白云，带有卷曲的水墨轮廓和柔和的阴影。在云层间嵌入 8 个小型彩虹弧：左中 1 个、左下边缘 1 个、左中心 1 个、正中心 1 个、右上龙附近 2 个、右中阳台旁 1 个、右下边缘 1 个。画面中包含散落的武器、丝带和在空中飞舞的金色装饰。
+
+配色方案：明亮的天蓝色背景、白云、红金建筑、玉绿色盔甲、深红色丝带、黄色孙悟空上衣、青绿色屋顶瓦片以及彩虹点缀。
+
+限制条件：无现代物体，无写实风格，无 3D 渲染，无留白背景，无文字或水印。保持整幅画面为充满中国传统奇幻细节的密集神话动作场景。
+
+[English]
+Create a highly detailed vertical fantasy illustration inspired by Journey to the West, showing {argument name="character name" default="Sun Wukong"} storming through a heavenly palace battlefield. Use a classic Chinese comic-book and hand-painted ink illustration style: crisp black linework, dense ornamental detail, saturated colors, watercolor-like shading, gold accents, swirling white clouds, and a bright cyan-blue sky.
+
+Canvas: Tall vertical poster composition, 9:16 ratio, packed with action from top to bottom.
+
+Main subject: In the upper center-left, show the Monkey King leaping dynamically through the sky, knees bent, wearing a yellow tunic, red trousers, black boots, leopard-skin waist wrap, blue scarf, gold circlet, and ornate arm bands. He grips a long red-and-gold magical staff diagonally from upper left to center right. His face is intentionally covered by a small vertical soft beige blur rectangle, as if anonymized.
+
+Main visible elements, exactly 5 large focal figures:
+1. The leaping Monkey King with the diagonal staff.
+2. A huge green-and-gold Chinese dragon emerging from white clouds in the upper right, with orange whiskers, red mouth, and fierce eyes.
+3. A large armored blue-green celestial warrior falling backward in the lower left, holding a spear, with a red plume helmet and shocked expression.
+4. A large red-and-gold armored celestial warrior in the lower right, holding a polearm, with pink flowing ribbons and a round golden shield near his feet.
+5. A smaller blue-robed armored warrior tumbling upside down near the center, dropping a golden wheel-like weapon.
+
+Secondary figures: Add exactly 13 small flying celestial soldiers and attendants scattered through the sky and clouds: three near the upper left, two near the upper center around the staff, two near the upper right with banners and spears, three around the left-middle clouds, two near the center-lower clouds, and one tiny figure standing on the palace balcony at mid-right. Give them ornate armor, fluttering ribbons, banners, spears, halberds, and expressive battle poses.
+
+Architecture and environment: Fill the right side and lower left with elaborate heavenly Chinese palace buildings: red pillars, turquoise and gold tiled roofs, white marble terraces, carved railings, layered pavilions, and decorative eaves. The largest palace complex rises on the right side behind clouds; a smaller pavilion cluster sits at the lower left. Add groups of elegant court ladies on the right balcony wearing colorful Tang-style robes and hair ornaments, watching the battle.
+
+Clouds and effects: Use dense billowing white clouds throughout the scene, with curled ink outlines and soft shadows. Add exactly 8 small rainbow arcs embedded among the clouds: one left-middle, one lower-left edge, one center-left, one center, two near the dragon in the upper right, one mid-right beside the balcony, and one lower-right edge. Include scattered weapons, ribbons, and golden ornaments flying through the air.
+
+Color palette: Bright sky blue background, white clouds, red and gold architecture, jade green armor, crimson ribbons, yellow Monkey King tunic, turquoise roof tiles, and rainbow accents.
+
+Constraints: No modern objects, no photorealism, no 3D rendering, no empty background, no text or watermark. Keep the entire image as a dense mythological action scene with traditional Chinese fantasy details.
+```
+
+**来源：** [@Luo](https://x.com/luo40612/status/2067252730419380590) | 2026-06-17
+
+---
+
+### 🎴 例 1777：美妆广告概念
+
+![美妆广告概念](../../images/%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实商业美妆广告，9:16 竖屏构图，8K 超高清，超细节摄影棚摄影。一位美丽的年轻女性，留着浓密卷曲的深棕色长发，居中站立在平滑的纯色 {argument name="background color" default="泡泡糖粉色"} 背景前。她身穿 {argument name="outfit" default="舒适的粉白格纹毛绒浴袍，配有披肩领"}，双臂自然交叉，一只手抬起，食指轻轻触碰下巴。她微微歪头，眼神侧视，表情俏皮而深思，双唇涂抹着光泽感的粉色唇釉。自然妆容，肤色红润，淡雅腮红，粉色美甲，眼神灵动，时尚杂志级质感。在画面四周靠近她脸部的位置，有四只优雅的男性手部模型，展示着漂浮的写实象征性物体，而非具体产品。左上角：一颗发光的红色水晶心，标注着“TRUE LOVE”，带有细小的漂浮心形粒子和柔和的浪漫光晕。右上角：一套展示在天鹅绒胸像上的奢华金饰，闪烁着高级宝石的光泽。左下角：一座好莱坞风格的金色明星奖杯，被柔和的聚光灯束和彰显尊贵的细节环绕。右下角：一个微缩的奢华生活场景，包含现代白色豪宅、异域棕榈树、豪华跑车、无边泳池和高端生活元素。明亮的高调摄影棚布光，干净的阴影，鲜艳饱和的粉色调，精致的广告美学，完美平衡的构图，焦点清晰地聚焦于女性和符号，奢华品牌风格，高端杂志宣传片质感，逼真的纹理，电影级景深，光泽反射，超细节 3D 渲染，现代社交媒体病毒式海报，引人注目的视觉叙事，专业时尚摄影，大师级品质。
+
+[English]
+Ultra-realistic commercial beauty advertisement, vertical 9:16 composition, 8K UHD, hyper-detailed studio photography. A beautiful young woman with long, voluminous curly dark-brown hair stands centered against a smooth solid {argument name="background color" default="bubblegum-pink"} background. She wears a {argument name="outfit" default="cozy pink-and-white checkered plush fleece bathrobe with a shawl collar"}, arms loosely crossed, one hand raised with her index finger gently touching her chin. Her head is slightly tilted, eyes looking sideways with a playful, thoughtful expression and softly pursed glossy pink lips. Natural makeup, radiant skin, subtle blush, pink manicured nails, expressive eyes, fashion-magazine quality. Surrounding her from the four sides of the frame near to her face are four elegant disembodied male hands of presenting floating realistic symbolic objects instead of products. Top left: a glowing red crystal heart labeled "TRUE LOVE" with small floating heart particles and a soft romantic aura. Top right: a luxurious gold jewelry set displayed on a velvet bust, sparkling with premium gemstone reflections. Bottom left: a golden fame trophy shaped like a Hollywood-style star, surrounded by subtle spotlight beams and prestige-inspired details. Bottom right: a miniature luxury lifestyle scene featuring a modern white mansion, exotic palm trees, luxury sports car, infinity pool, and premium living elements. Bright high-key studio lighting, clean shadows, vibrant saturated pink color palette, polished advertising aesthetic, perfectly balanced composition, sharp focus on woman and symbols, luxury branding style, premium magazine campaign quality, realistic textures, cinematic depth, glossy reflections, ultra-detailed 3D rendering, modern social media viral poster, eye-catching visual storytelling, professional fashion photography, masterpiece quality.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2067245555332571432) | 2026-06-17
+
+---
+
+### 🎴 例 1791：日式运动饮料广告海报
+
+![日式运动饮料广告海报](../../images/%E6%97%A5%E5%BC%8F%E8%BF%90%E5%8A%A8%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的日式运动饮料广告海报，呈现充满活力的电视广告质感，展现运动后清爽补水的效果。
+
+画布：横向 16:9 海报，照片级商业摄影风格，高对比度，鲜明的蓝白配色，阳光明媚的户外体育场背景，画面中布满晶莹的水花和凝结的水珠。
+
+布局：左侧为醒目的日文产品大标题；中心展示一瓶靠近镜头的透明塑料运动饮料瓶；右侧为一名身穿蓝白运动衫的年轻女性运动员，半身像，扎着随风飘动的马尾辫，面部区域刻意用一个纯肤色的矩形遮挡块覆盖。底部边缘设有一个醒目的蓝色横幅，配有白色日文文案。在右侧水花上方添加一个圆形蓝色标注。
+
+主体细节：运动员站在强光下的体育场内，背光发丝闪耀，充满动态感与新鲜感。她手持一个带有亮蓝色瓶盖和蓝色标签的透明塑料瓶；标签上印有日文产品名称、白色字样、小型英文副标题以及水花图案。饮料看起来冰凉沁爽，瓶身挂满水珠，液体中充满气泡。
+
+文本内容：请使用以下主要的可见文本组：1 个大标题：{argument name="headline text" default="あおい"}；下方 1 行产品类别：{argument name="product category" default="スポーツドリンク"}；手写风格标语：{argument name="tagline" default="今日の頑張りに、まっすぐな水分補給を。"}；瓶身标签重复产品名称和类别，并附带一行小字英文 "AOI SPORTS DRINK"；左下角排列 3 个六边形功能徽章，从左至右依次为 {argument name="feature badge one" default="塩分補給"}、“ミネラル配合”和“すっきり低カロリー”；底部横幅文字：“運動時の水分補給に最適！”；右侧圆形标注文字：{argument name="callout text" default="すっきり爽快！"}。
+
+可见元素统计：精确包含 1 名运动员、1 个瓶子、3 个六边形功能徽章、1 个圆形标注、1 个底部横幅、1 个大型体育场观众背景，以及集中在底部和右边缘的多处蓝色水花。
+
+视觉风格：日式饮料商业海报，清晰的产品摄影，光泽感水效，镜头光晕，蓝天白云，背景为虚化的体育场看台，充满活力的夏季运动氛围，清爽宜人的饮用感。
+
+约束条件：所有排版需保持粗体、整洁且易于阅读；主标题日文需非常大且呈深蓝色；不得添加额外的徽章或产品；除虚构的产品标签外，不得包含其他标志；面部必须用简单的矩形块遮盖。
+
+[English]
+Goal: Create a bright Japanese sports drink advertising poster with an energetic TV-commercial feel, showing refreshing hydration after exercise.
+
+Canvas: Horizontal 16:9 poster, photorealistic commercial style, high contrast, vivid blue-and-white color palette, sunny outdoor stadium background, sparkling water splashes and condensation everywhere.
+
+Layout: Left side dominated by large Japanese product headline text; center shows a clear plastic sports drink bottle held close to camera; right side shows a young female athlete in a blue-and-white sports jersey, seen from chest up, hair in a windswept ponytail, face area intentionally covered by a plain skin-toned rectangular censor block. Bottom edge has a bold blue banner with white Japanese copy. Add a circular blue callout on the right over the water splash.
+
+Subject details: The athlete is standing in a stadium under strong sunlight, backlit hair glow, dynamic sense of motion and freshness. She holds one transparent plastic bottle with a bright blue cap and blue label; the label displays the product name in Japanese, white lettering, small English subtext, and water-splash graphics. The drink looks icy cold, with droplets on the bottle and bubbles in the liquid.
+
+Text content: Use exactly these main visible text groups: 1 large headline: {argument name="headline text" default="あおい"}; 2 product category line below it: {argument name="product category" default="スポーツドリンク"}; 3 handwritten-style tagline: {argument name="tagline" default="今日の頑張りに、まっすぐな水分補給を。"}; 4 bottle label repeats the product name and category, plus small English text reading "AOI SPORTS DRINK"; 5 three hexagonal feature badges along the lower-left area labeled, from left to right, {argument name="feature badge one" default="塩分補給"}, "ミネラル配合", and "すっきり低カロリー"; 6 bottom banner text: "運動時の水分補給に最適！"; 7 right circular callout text: {argument name="callout text" default="すっきり爽快！"}.
+
+Counted visible elements: exactly 1 athlete, exactly 1 bottle, exactly 3 hexagonal feature badges, exactly 1 circular callout, exactly 1 bottom banner, exactly 1 large stadium crowd background, and multiple blue water splashes concentrated along the bottom and right edge.
+
+Visual style: Japanese beverage commercial poster, crisp product photography, glossy water effects, lens flare, blue sky with soft clouds, stadium seating blurred in the background, energetic summer sports mood, refreshing and drinkable atmosphere.
+
+Constraints: Keep all typography bold, clean, and legible; make the main Japanese headline very large and dark blue; do not add extra badges or extra products; do not include logos other than the fictional product label; keep the face covered by a simple rectangular block.
+```
+
+**来源：** [@今野健介｜Claude×EC専門家](https://x.com/dansyu_callenge/status/2067205525964771567) | 2026-06-17
+
+---
+
+### 🎴 例 1793：青色时尚拼贴海报
+
+![青色时尚拼贴海报](../../images/%E9%9D%92%E8%89%B2%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的肖像作为参考，创作一张潮流 3:4 竖版时尚海报。将主体转换为高对比度的黑白双色调，背景为 {argument name="background color" default="亮青色"}。保留时尚的发型、胡须以及自信的编辑风格姿势。让他身穿 {argument name="overcoat" default="超大款双排扣格纹羊毛大衣"}，内搭罗纹高领毛衣，双手插兜。在人物周围添加趣味十足的白色手绘涂鸦（皇冠、星星、行星、虚线圆圈、动感线条、笔触扫痕）。加入醒目的手写文字 "{argument name="text" default="SAY HELLO"}"，并在下方配一个小胡子涂鸦。现代街头服饰与拼贴时尚杂志美学，构图简洁，居中大腿中部裁剪。
+
+[English]
+Create a trendy 3:4 vertical fashion poster using the uploaded portrait as reference. Convert the subject to high-contrast black-and-white duotone on a solid {argument name="background color" default="bright teal background"}. Keep stylish hair, beard, and a confident editorial pose. Dress him in an {argument name="overcoat" default="oversized double-breasted plaid wool overcoat"} over a ribbed turtleneck sweater, hands in pockets. Add playful white hand-drawn doodles (crown, stars, planets, dotted circles, motion lines, brush swooshes) around the figure. Include bold handwritten text "{argument name="text" default="SAY HELLO"}" with a small doodle mustache underneath. Modern streetwear-meets-collage fashion magazine aesthetic, clean composition, centered mid-thigh crop.
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2067194751686709567) | 2026-06-17
+
+---
+
+### 🎴 例 1806：风格化水粉民俗艺术插画
+
+![风格化水粉民俗艺术插画](../../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%B0%B4%E7%B2%89%E6%B0%91%E4%BF%97%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于以下艺术风格创作一幅风格化的水粉和马克笔插画。请勿构思新场景，而是使用以下视觉特征转换用户的参考照片：
+
+• 风格：扁平化的民俗水粉插画，具有大胆的不透明色彩和哑光海报颜料质感。
+• 解剖与线条：粗犷自信的轮廓线，简化的块状形状，极少阴影的平涂色彩，比例略显圆润柔和。
+• 面部特征：风格化的半闭眼，带有图形化的猫眼眼线，细长的拱形眉毛，用单条曲线绘制的长细鼻梁，以及小巧平整的闭口微笑唇。干净、极简、玩偶般的面部结构。
+• 肤色：温暖的桃色肤色，无雀斑，脸颊上有明显的实心玫瑰粉色圆形腮红（平涂颜色，无点状或纹理）。
+• 构图：特写肖像，{argument name="subject description" default="主体手托腮、肘部抬起，坐在车内"}。内饰渲染为扁平的海军蓝色，座椅和车门面板上有虚线缝合细节。透过窗户，可以看到简化的场景，包含 {argument name="background elements" default="一辆红色卡通小车、一名微笑的卡通司机、一个黄色太阳、带蓝色轮廓的扇形云朵，以及散落的装饰性叶子/爱心/花朵"}。人物上方的留白处填充了奇幻的民俗艺术图案：{argument name="decorative motifs" default="星星、小枝、圆点、拱门和一朵花"}，背景为奶油色。
+• 色彩调色板：暖色调（桃色皮肤、芥末黄、珊瑚粉、棕色头发）与冷色调（海军蓝、天蓝、紫色、绿色）形成对比，整体高饱和度，无渐变。
+
+[English]
+Create a stylized gouache and marker illustration based on the following artistic style. Do not invent a new scene, transform the user’s reference photo using these exact visual characteristics:
+
+•Style: Flat folk-art gouache illustration with bold opaque color and a matte poster-paint finish.
+•Anatomy & Lines: Thick confident outlines, simplified blocky shapes, flat color fills with minimal shading, slightly rounded and softened proportions.
+•Facial Features: Stylized heavy-lidded eyes with a graphic winged eyeliner flick, thin arched eyebrows, a long thin nose drawn with a single curved line, and small flat closed-mouth smiling lips. Clean, minimalist, doll-like facial structure.
+•Complexion: Warm peachy skin tone, no freckles, with prominent solid rosy-pink circular blush on the cheeks (flat color, not stippled or textured).
+•Composition: Close-up cropped portrait, {argument name="subject description" default="subject resting cheek on hand with elbow raised, seated inside a car"}. Interior rendered in flat navy-blue with dashed white stitch details on the seats and door panel. Through the window, a simplified scene with {argument name="background elements" default="a small red cartoon car, a smiling cartoon driver, a yellow sun, scalloped blue-outlined clouds, and scattered decorative leaves/hearts/flowers"}. Negative space above the figure filled with whimsical folk-art motifs: {argument name="decorative motifs" default="stars, sprigs, dots, arches, and a flower"}, on a cream background.
+•Color Palette: Warm tones (peach skin, mustard yellow, coral pink, brown hair) contrasted against cool accents (navy blue, sky blue, purple, green), with high saturation throughout and no gradients.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2067163760738148674) | 2026-06-17
+
+---
+
+### 🎴 例 1809：护士与医院场景词汇海报
+
+![护士与医院场景词汇海报](../../images/%E6%8A%A4%E5%A3%AB%E4%B8%8E%E5%8C%BB%E9%99%A2%E5%9C%BA%E6%99%AF%E8%AF%8D%E6%B1%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版日式参考海报，用于 AI 插画提示词，主题为护士与医院场景词汇，采用精致的动漫水彩风格。海报标题应为 {argument name="headline text" default="看護師・病院シチュの用語表"}，并配有一个较小的副标题，说明这是用于 AI 插画灵感的医院场景词汇表。整体氛围：宁静而忧伤的医院夜班氛围，主角为 {argument name="main character" default="一位忧郁的年轻女护士，留着凌乱的长深蓝色头发"}。
+
+画布：3:4 竖版海报，奶油色纸张背景，带有淡淡的污渍、胶带痕迹、手绘边框、小星星、月亮图案、压花装饰以及笔记本碎片拼贴细节。使用象牙白、淡蓝、灰紫色、灰色墨水和柔和棕褐色的柔和色调。
+
+布局：顶部横幅居中放置醒目的日文标题，左上角配有护士的小插图和便签引语，右上角设有一个小的带框关键词备忘录。下方创建一个精确的网格，包含 24 张编号词汇卡片，排列为 4 列 6 行。每张卡片包含编号、日文术语标题、简短的关键词行、简短的说明块以及一张微型动漫医院插图。底部添加一个宽大的备忘录区域，包含项目符号笔记、左侧的花卉装饰，以及右下角一张护士趴在手臂上休息、旁边放着马克杯的较大插图。
+
+24 张卡片必须严格为以下项目，并按编号排列：1. ナースステーション（护士站）, 2. 病室前（病房前）, 3. カルテ（病历）, 4. 巡回（巡房）, 5. 夜勤（夜班）, 6. 引き継ぎ（交接班）, 7. 休憩室（休息室）, 8. 蛍光灯（荧光灯）, 9. 病院廊下（医院走廊）, 10. ナースコール（护士呼叫器）, 11. 点滴スタンド（输液架）, 12. ベッドサイド（床边）, 13. 白衣（白大褂）, 14. スクラブ（刷手服）, 15. 名札（名牌）, 16. 体温計（体温计）, 17. 医療用ワゴン（医疗推车）, 18. 受付カウンター（接待台）, 19. 待合室（候诊室）, 20. 面会時間（探视时间）, 21. 夜の病棟（夜晚病房）, 22. 仮眠前（小睡前）, 23. 申し送りメモ（交接班笔记）, 24. 病院の余韻（医院的余韵）。
+
+主体细节：护士应穿着 {argument name="uniform style" default="淡蓝色刷手服，外搭白大褂，佩戴名牌，携带钢笔、写字板，表情疲惫"}。她在卡片中反复出现，处于不同的医院时刻：书写病历、手持写字板、站在走廊、检查输液、坐在桌前、喝水、与同事交谈以及睡前休息。她的情绪是温柔、疲惫、内省且具有电影感的，而非欢快的。
+
+视觉风格：细腻的墨线、柔和的水彩渲染、半写实动漫插画、纹理纸张、手写剪贴簿质感、微妙的医疗设备、柔和的灯光、安静的医院内景、透明面板、细线条边框和微小的装饰性星星。使文字看起来像精心设计的日式学习单：主要是清晰的标题、紧凑的小字正文和整洁的印刷标签。使用 {argument name="lighting mood" default="冷色调医院荧光灯与温暖的月光夜色混合"} 来营造氛围灯光。
+
+底部备忘录区域：添加一个撕纸风格的标签，写着“つかいかたメモ”（使用说明），并用小字列出几个日文项目符号笔记，包括一些红色强调行，解释如何组合这些词汇来生成护士与医院场景的插画提示词。
+
+约束条件：严格保持 24 张编号网格卡片，不得增加额外卡片。不要使用照片写实风格；保持柔和的动漫水彩风格。避免使用徽标、水印、真实的医院品牌、血腥、手术、紧急创伤或令人不安的医疗内容。最终海报应给人一种实用的提示词词汇表和精美插画参考页的感觉。
+
+[English]
+Goal: Create a vertical Japanese reference poster for AI illustration prompting about nurse and hospital-scene vocabulary, in a delicate anime watercolor style. The poster headline should read {argument name="headline text" default="看護師・病院シチュの用語表"}, with a smaller subtitle explaining that it is a hospital-situation word list for AI illustration ideas. Overall theme: a quiet, wistful hospital night-shift atmosphere featuring {argument name="main character" default="a melancholic young female nurse with long messy dark navy hair"}.
+
+Canvas: Portrait 3:4 poster, cream paper background with faint stains, tape pieces, hand-drawn borders, tiny stars, moon motifs, pressed-flower decorations, and notebook-scrap collage details. Use a muted palette of ivory, pale blue, dusty lavender, gray ink, and soft sepia.
+
+Layout: Top header band with the large Japanese title centered, a small illustration of the nurse near the upper left beside a sticky-note quote, and a small framed keyword memo at the upper right. Below it, create a precise grid of exactly 24 numbered vocabulary cards arranged as 4 columns by 6 rows. Each card contains a number, Japanese term title, small keyword lines, a short point/explanation block, and a miniature anime hospital illustration. At the bottom, add a wide memo section with bullet notes, floral decorations on the left, and a larger resting nurse illustration on the lower right leaning on her arms beside a mug.
+
+The 24 cards must be exactly these discrete items, numbered and titled: 1. ナースステーション, 2. 病室前, 3. カルテ, 4. 巡回, 5. 夜勤, 6. 引き継ぎ, 7. 休憩室, 8. 蛍光灯, 9. 病院廊下, 10. ナースコール, 11. 点滴スタンド, 12. ベッドサイド, 13. 白衣, 14. スクラブ, 15. 名札, 16. 体温計, 17. 医療用ワゴン, 18. 受付カウンター, 19. 待合室, 20. 面会時間, 21. 夜の病棟, 22. 仮眠前, 23. 申し送りメモ, 24. 病院の余韻.
+
+Subject details: The nurse should wear {argument name="uniform style" default="a pale blue nurse scrub uniform with a white coat, ID badge, pens, clipboard, and tired expression"}. She appears repeatedly throughout the cards in different hospital moments: writing charts, holding a clipboard, standing in hallways, checking IVs, sitting at a desk, drinking from a mug, speaking with another nurse, and resting before sleep. Her mood is gentle, exhausted, introspective, and cinematic rather than cheerful.
+
+Visual style: Fine ink linework, soft watercolor wash, semi-realistic anime illustration, textured paper, handwritten scrapbook feeling, subtle medical equipment, gentle lighting, quiet hospital interiors, transparent panels, thin ruled borders, and tiny decorative stars. Make the text look like a designed Japanese study sheet: mostly legible headings, compact small body text, and neat printed labels. Add atmospheric lighting using {argument name="lighting mood" default="cool fluorescent hospital light mixed with warm moonlit night tones"}.
+
+Bottom memo section: Add a torn-paper label reading つかいかたメモ and several Japanese bullet notes in small print, including some red-emphasis lines, explaining how to combine the terms for nurse and hospital-scene illustration prompts.
+
+Constraints: Keep exactly 24 numbered grid cards, no extra cards. Do not use photorealism; keep it as soft anime watercolor. Avoid logos, watermarks, real hospital branding, gore, surgery, emergency trauma, or disturbing medical content. The final poster should feel like a useful prompt-word glossary and a beautiful illustrated reference sheet.
+```
+
+**来源：** [@ぐふとくく](https://x.com/gufutokuku999/status/2067155285869809685) | 2026-06-17
+
+---
+
+### 🎴 例 1810：Doritos 时尚广告大片摄影
+
+![Doritos 时尚广告大片摄影](../../images/Doritos%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subjects" default="两位年轻的闺蜜"}，20 岁出头，两人都露出了灿烂夺目的笑容，捕捉她们在动态产品抛掷姿势中的瞬间——双臂向上伸展，身体略微向对方倾斜，呈现出俏皮的对称感。两人均身穿干练的白色露脐上衣、大胆的橙金拼色运动短裤（带有金属装饰条纹），透明 PVC 防风外套捕捉并折射出影棚灯光，呈现出彩虹般的光泽，脚踩洁净的白色低帮运动鞋，鞋底带有橙色细节。每人手中都抓着一个时尚的 {argument name="brand" default="Doritos 品牌"} 配饰包，主色调为醒目的 {argument name="primary color" default="火焰橙"}，配有烫金字体。画面中心：一个巨大的超大号 Doritos Nacho Cheese 包装袋——高度及胸且正在爆开——玉米片向四面八方飞溅，在锐利的焦点中定格于半空。数十片玉米片像酥脆的光环一样环绕在两位女性周围。散落的橙色粉末玉米片和闪烁的纳乔调味料颗粒像金色纸屑一样捕捉着光线。使用 Phase One IQ4 150MP 相机、85mm f/1.4 镜头拍摄，浅景深，主体清晰锐利，背景虚化柔和。布光：四点式频闪布光设置——主光位于相机右侧 45°，配有大型八角柔光箱以投射柔和的暖色补光；轮廓光位于两侧 135°，为 PVC 外套提供电光橙金色的分离感；地面反射板将干净的光线向上反射。调色：暖色调黄金时刻 LUT，增强橙色并压低冷色阴影，高光处带有轻微的胶片光晕。纯净无缝的白色圆弧背景墙。超高光泽的白色环氧树脂反射地面，倒映出两个人物和下方的玉米片爆炸场景。超写实 3D 合成，超逼真商业产品摄影，8K 分辨率，Pantone 精准品牌色彩，电影级广告大片美学——Doritos × 高端时尚街头运动风。1744x2336
+
+[English]
+{argument name="subjects" default="Two young best-friend women"}, early 20s, both flashing radiant high-wattage smiles, captured mid-motion in a dynamic product-toss pose — arms extended upward, bodies slightly angled toward each other in playful symmetry. Both wearing crisp white crop tops, bold orange-and-gold color-blocked athletic shorts with metallic accent stripes, transparent PVC windbreakers catching and refracting studio light with iridescent gloss, and pristine white low-top sneakers with orange sole details. Each grips a sleek {argument name="brand" default="Doritos-branded"} accessory bag in bold {argument name="primary color" default="flame-orange"} with foil gold typography. Dominating the scene: a colossal oversized Doritos Nacho Cheese bag — chest-high and bursting — with tortilla chips exploding outward in every direction, frozen mid-air in sharp focus. Dozens of chips arc around both women like a crunchy halo. Scattered orange-dusted chips and glinting nacho seasoning particles catch the light like golden confetti. Shot on a Phase One IQ4 150MP, 85mm f/1.4 lens, shallow depth of field with razor-sharp subjects and feathered background falloff. Lighting: four-point strobe setup — key light at 45° camera-right with large octabox casting soft warm fill, rim lights at 135° both sides delivering electric orange-gold separation on the PVC jackets, and a ground-level reflector bouncing clean fill upward. Color grading: warm golden hour LUT with boosted oranges and crushed cool shadows, slight film halation on highlights. Pure seamless white cyclorama background. Hyper-glossy white epoxy reflective floor mirroring both figures and the chip explosion below. Ultra-realistic 3D compositing, hyperrealistic commercial product photography, 8K resolution, Pantone-accurate brand colors, cinematic advertising campaign aesthetic — Doritos × high-fashion street sport energy. 1744x2336
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067151302506017244) | 2026-06-17
+
+---
+
+### 🎴 例 1816：奢华护肤品时尚编辑拼贴画
+
+![奢华护肤品时尚编辑拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E5%93%81%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在纯白摄影棚背景下创作一张极简主义的高级时尚护肤品广告拼贴画，将超大号化妆品与面部被柔和米色模糊方块遮挡的优雅模特相结合。
+
+画布：宽幅横向横幅，比例约为 16:9，干净的白色背景，柔和的自然阴影，高级编辑风格布光，通透的负空间。
+
+布局：将场景布置为超现实的产品比例拼贴画，包含 6 个可见人物和 6 个醒目的护肤品。左侧：一位身穿奶油色服装的女性赤脚坐在巨大的圆形润肤霜罐上。中央：一位身穿黑色毛衣的女性背身站立，倚靠在一个巨大的白色泵头精华液瓶旁。右上角：一位身穿白衬衫的模特特写，手持巨大的琥珀色面部精油滴管瓶靠近脸部。左下角：另一位身穿白衬衫的模特特写，斜倚着手持巨大的琥珀色面部精油瓶。中右下方：一位身穿海军蓝西装外套和白色长裤的小型全身模特，站在一个高大的银色精华液罐旁。最右侧：一位身穿米色服装的模特倚靠在一支带有绿色叶子图案的乳霜挤压管旁。
+
+离散元素：包含 6 个具体人物：1 位坐在罐子上的女性，1 位在泵头瓶旁的黑毛衣女性，1 位在右上角手持滴管瓶的特写模特，1 位在左下角手持面部精油的特写模特，1 位身穿西装外套和白色长裤的站立模特，1 位身穿米色服装的倚靠模特。包含 6 个护肤品：1 个标有“LUXURIOUS MOISTURIZER”的巨大圆形罐子，1 个标有“SERUM”的巨大白色泵头瓶，1 个标有“FACIAL OIL”的琥珀色滴管瓶，1 个位于左下角特写中的第二个琥珀色面部精油瓶，1 个标有“SERUM”的高大银色圆柱形瓶子，1 个带有绿色叶子图标的乳霜挤压管。
+
+主体细节：模特应为成年人，具有优雅的时尚造型、纤细的编辑风格姿势，服装色调为中性的米色/白色/海军蓝/黑色。面部必须通过矩形肤色模糊块进行匿名化处理，而非自然面部特征。产品相对于人物应呈现超大比例，营造出趣味性的奢华编辑风格比例偏移。
+
+文字内容：使用极简的化妆品标签排版，采用纤细的大写衬线或无衬线字体。主要可读标签包括 {argument name="moisturizer label" default="LUXURIOUS MOISTURIZER"}、{argument name="serum label" default="SERUM"} 以及 {argument name="oil label" default="FACIAL OIL"}。可包含少量填充标签文字，但应保持低调，不喧宾夺主。
+
+视觉风格：高级护肤品营销风格，干净的白色摄影棚，柔和阴影，超写实时尚拼贴画，柔和的奶油色和琥珀色调，杂志广告构图，精致的商业修图。
+
+约束条件：保持背景为纯白色，避免杂乱，避免添加额外产品或人物，不要显示清晰的面部特征，保持超现实的超大产品比例，不得包含任何商标或水印。
+
+[English]
+Goal: Create a high-fashion skincare advertising collage on a clean white studio background, combining oversized cosmetic products with editorial model poses. The concept should feel like a minimalist luxury beauty campaign with surreal scale, where people interact with giant product packaging.
+
+Canvas: Wide horizontal banner, approximately 16:9 ratio, bright off-white background, soft studio lighting, subtle shadows, no borders or watermark.
+
+Layout: Arrange exactly 6 human figures and exactly 6 main skincare products in an overlapping editorial collage. Use realistic photography style with slightly surreal product scale. Keep the composition airy but dense, with the largest faces intentionally obscured by smooth rectangular skin-tone blur blocks.
+
+Human figures, exactly 6:
+1. Top left: a seated female model in an ivory satin wrap blouse and wide-leg pants, barefoot, sitting on top of a giant round cream jar.
+2. Center: a model seen mostly from the back wearing a loose black sweater, leaning on or touching the pump of a giant white serum bottle.
+3. Upper right: a large cropped female model in a white button-up shirt holding an oversized amber facial oil dropper bottle near her face; her face is covered by a large square skin-tone blur.
+4. Lower left: a large cropped female model in a white shirt holding another oversized amber facial oil bottle close to her cheek; her face is covered by a square skin-tone blur.
+5. Lower center-right: a small full-body model in a navy blazer, white trousers, and black flats, standing beside and touching a tall metallic silver serum bottle.
+6. Far right: a female model in a beige sleeveless top and loose beige trousers, leaning casually against a giant cream-colored cosmetic tube.
+
+Skincare products, exactly 6:
+1. A giant round cream jar at the top left with gold serif text reading “LUXURIOUS MOISTURIZER” and smaller understated product copy below.
+2. A giant matte white pump bottle in the center labeled “SERUM” with smaller text underneath, minimal black typography.
+3. An oversized amber glass dropper bottle in the upper right with a black dropper cap and label text including “FACIAL OIL”.
+4. A second oversized amber glass dropper bottle in the lower left, partly overlapping the model, also labeled “FACIAL OIL”.
+5. A tall metallic silver cylindrical bottle near the lower center-right labeled “SERUM” with small technical text beneath.
+6. A giant cream-colored squeeze tube on the far right with a green leaf icon and a dark cap at the bottom.
+
+Visual style: Photorealistic luxury beauty campaign, clean editorial collage, neutral palette of ivory, beige, white, black, amber, muted green, and silver. Use soft natural studio shadows and crisp product edges. Typography on packaging should be elegant, minimal, and believable, with some tiny unreadable filler text allowed.
+
+Face treatment: Obscure the visible faces with smooth skin-tone rectangular blur blocks, especially the larger figures; smaller distant faces may also be softly blurred. Do not show identifiable facial features.
+
+Customizable details: The central bottle should read {argument name="main product name" default="SERUM"}; the cream jar headline should read {argument name="moisturizer label" default="LUXURIOUS MOISTURIZER"}; the amber bottle label should read {argument name="oil label" default="FACIAL OIL"}; use a {argument name="color palette" default="ivory beige white amber silver muted green"} luxury palette; keep the overall campaign mood {argument name="campaign mood" default="minimalist editorial skincare luxury"}.
+
+Constraints: Keep exactly 6 human figures and 6 main skincare products. Do not add extra products, extra models, logos, watermarks, decorative props, or background scenery. Maintain a clean white studio background and a polished fashion-magazine advertising look.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2067126472297660780) | 2026-06-17
+
+---
+
+### 🎴 例 1841：极简对称风格运动海报
+
+![极简对称风格运动海报](../../images/%E6%9E%81%E7%AE%80%E5%AF%B9%E7%A7%B0%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款简洁的极简主义运动海报，主角为 {argument name="player" default="一位传奇足球运动员"}，画面呈现其背影，自信地站在画面中央。球员身穿 {argument name="kit" default="葡萄牙国家队主场队服"}，包括深红色球衣、绿色短裤、红色球袜和现代足球鞋。球衣上印有金色的“RONALDO”字样，下方是数字 7。
+构图完全对称，球员占据画布的中下部。柔和的 {argument name="background color" default="天蓝色渐变"} 背景填充了整个场景，主体上方留有大面积负空间，营造出高级壁纸的质感。
+在球员身后，巨大的粗体白色文字“RONALDO”横向延伸至背景下方，被球员身体部分遮挡。
+一道富有戏剧性的长影斜向投射在地面上，增加了深度和电影般的氛围。光线柔和且具有方向性，在球衣面料上营造出细腻的高光和逼真的褶皱。
+超简洁构图，现代运动品牌风格，高对比度，边缘清晰，超精细面料纹理，逼真比例，影棚级灯光，高级海报设计，居中构图，竖屏手机壁纸，8K 画质。
+
+[English]
+A clean minimalist sports poster featuring {argument name="player" default="a legendary football player"} viewed entirely from the back, standing confidently in the center of the frame. The player wears the {argument name="kit" default="Portugal national team home kit"} with a deep red jersey, green shorts, red socks, and modern football boots. The jersey displays "RONALDO" in gold lettering with the number 7 beneath it.
+The composition is perfectly symmetrical with the player occupying the lower-middle portion of the canvas. A smooth {argument name="background color" default="sky-blue gradient"} background fills the entire scene with large negative space above the subject, creating a premium wallpaper aesthetic.
+Behind the player, enormous bold white typography spelling "RONALDO" stretches horizontally across the lower background, partially hidden by the player's body.
+A dramatic long shadow extends diagonally across the ground, adding depth and cinematic atmosphere. The lighting is soft yet directional, creating subtle highlights on the jersey fabric and realistic folds.
+Ultra-clean composition, modern sports branding style, high contrast, crisp edges, hyper-detailed fabric texture, realistic proportions, studio-quality lighting, premium poster design, centered composition, vertical smartphone wallpaper, 8K quality.
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2067071488369537508) | 2026-06-17
+
+---
+
+### 🎴 例 1847：金阁寺旅行写生海报
+
+![金阁寺旅行写生海报](../../images/%E9%87%91%E9%98%81%E5%AF%BA%E6%97%85%E8%A1%8C%E5%86%99%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+简约的高分辨率旅行海报，主体为 {argument name="subject" default="金阁寺"}，采用 {argument name="art style" default="写生簿风格"} 呈现，背景为带有细腻纹理的洁白纸张。风格：精准的钢笔插画搭配灵动的水彩渲染。细腻的黑色墨线，柔和通透的色彩填充，精致的传统日式建筑细节。描绘 {argument name="scene" default="宁静的京都寺庙场景"} —— 传奇的金阁倒映在静谧的池塘中，狭窄的石径，松树，微波荡漾的水面，远处的秋季枫叶，小巧的灯笼，衣着素雅的游客，柔和的晨雾，以及洒在金箔墙面上的温暖阳光。编辑排版中留有充足的负空间。氛围：宁静、深思、雅致、抒情。排版：“[KINKAKU-JI]” “京都的金色宁静” 高级旅行写生风格，低调而优雅，超写实水彩加墨水日志美学，超高分辨率，9:16。
+
+[English]
+Minimalist high-resolution travel poster of {argument name="subject" default="Kinkaku-ji"} rendered in {argument name="art style" default="sketchbook style"}, on crisp white paper with a subtle grain texture. Style: precise pen illustration with loose watercolor washes. Fine black ink lines, soft airy color fills, refined traditional Japanese architectural details. Depict a {argument name="scene" default="tranquil Kyoto temple scene"} — the legendary golden pavilion mirrored in a still pond, narrow stone paths, pine trees, gently rippling water, autumn maple leaves in the distance, small lanterns, peaceful visitors in muted clothing, soft morning haze, and warm sunlight falling on the gold-clad walls. Generous negative space in an editorial layout. Mood: serene, contemplative, refined, lyrical. Typography: "[KINKAKU-JI]" "Golden Serenity of Kyoto" Elevated travel sketch style, understated and elegant, hyper-realistic watercolor + ink journal aesthetic, ultra-high-resolution, 9:16.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2067051685546201509) | 2026-06-17
+
+---
+
+### 🎴 例 1850：Charlie Chaplin 产品海报
+
+![Charlie Chaplin 产品海报](../../images/Charlie%20Chaplin%20%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简风格的海报，画面中的 {argument name="character" default="Charlie Chaplin"} 手持产品图片中的 {argument name="product" default="止痒膏"}，并面带微笑。保持整体风格简洁明快。
+
+[English]
+Create a minimalist poster of {argument name="character" default="Charlie Chaplin"} holding an {argument name="product" default="anti-itch cream"} from the product image, wearing a smile. Keep the style clean and simple.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2067036387946512497) | 2026-06-17
+
+---
+

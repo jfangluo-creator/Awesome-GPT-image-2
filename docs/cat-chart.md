@@ -1780,3 +1780,130 @@ Create a crisp, clean infographic storyboard poster for {argument name="subject"
 
 ---
 
+### 📊 例 1751：地球剖面结构信息图
+
+![地球剖面结构信息图](../../images/%E5%9C%B0%E7%90%83%E5%89%96%E9%9D%A2%E7%BB%93%E6%9E%84%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张具有视觉冲击力的科学剖面信息图，展示 {argument name="planet name" default="地球"}，呈现其在太空中且内部结构如同精密 3D 剖面模型般暴露出来的效果。
+
+画布：1:1 正方形构图，高分辨率，背景为布满繁星的黑色太空。行星占据画面左侧及中心大部分区域，标注文字排列在右侧。
+
+主体：从太空视角观察的写实地球，略微偏左，地表可见亚洲、日本、东南亚和澳大利亚。从地球右前方移除一个巨大的楔形四分之一部分以露出内部。剖面应呈现出物理切割感，边缘为厚实的岩石地壳，内部层级带有发光效果。在行星周围添加一层淡淡的蓝色大气光晕。
+
+剖面结构：准确展示 4 个独立的内部/结构层，每一层视觉上均清晰可辨，并与标注引导线对齐：1) 最外层为薄薄的棕色岩石地壳，2) 厚实的红橙色地幔层，呈现湍流质感，3) 包围中心明亮的橙色外核，以及 4) 位于中心发着黄白色光芒的内核球体。使地幔成为视觉上最大的层级，外核呈半球状且具有发光感，内核则极其明亮并带有旋转的热流质感。
+
+文字与标注：在右侧放置 4 个日语标注块，每个标注块配有一个白色圆点标记和一条指向对应层级的细白引导线。使用加粗的白色日语标题，并在每个标题下方添加较小的白色解释性文字。四个可见标签必须为：{argument name="crust label" default="地殻"}，下方小字“地球の最も外側の薄い層。”；{argument name="mantle label" default="マントル"}，下方小字“厚さ約2,900kmの層。高温の岩石がゆっくりと流動している。”；{argument name="outer core label" default="外核"}，下方小字“厚さ約2,200kmの層。主に鉄とニッケルの流体で構成される。”；{argument name="inner core label" default="内核"}，下方小字“半径約1,220kmの固体の層。主に鉄とニッケルでできており、非常に高温・高圧の環境にある。”
+
+视觉风格：写实太空科学教育海报，电影级光效，清晰的排版，逼真的地球纹理，发光的熔岩状内部，简洁的白色标注线，高对比度，精致的博物馆级信息图风格。
+
+约束：保持 4 个标注块和 4 个层级标签。不要添加额外的图标、标签、边框、Logo、水印或装饰性 UI 面板。确保所有文字清晰易读，并放置在行星右侧。
+
+[English]
+Goal: Create a dramatic scientific cutaway infographic of {argument name="planet name" default="Earth"}, showing the planet in space with its internal layers exposed like a precise 3D sectional model.
+
+Canvas: Square 1:1 composition, high-resolution, black star-filled space background. The planet fills most of the left and center of the frame, with annotation text arranged on the right side.
+
+Main subject: A photorealistic Earth viewed from space, centered slightly left, with Asia, Japan, Southeast Asia, and Australia visible on the surface. Remove a large wedge-shaped quarter section from the front-right side of the globe to reveal the interior. The cutaway should look physically carved, with a thick rocky crust rim and glowing internal layers. Add a subtle blue atmospheric glow around the planet.
+
+Cutaway structure: Show exactly 4 discrete internal/structural layers, each visually distinct and aligned with annotation leader lines: 1) a thin brown rocky crust at the outer edge, 2) a thick red-orange molten mantle layer with turbulent texture, 3) a bright orange outer core surrounding the center, and 4) a glowing yellow-white inner core sphere at the center. Make the mantle the largest visible layer, the outer core semi-spherical and luminous, and the inner core intensely bright with swirling heat texture.
+
+Text and labels: Place exactly 4 Japanese annotation blocks on the right, each with a white dot marker and thin white leader line pointing to the correct layer. Use bold white Japanese headings and smaller white explanatory text beneath each heading. The four visible labels must be: {argument name="crust label" default="地殻"} with smaller text “地球の最も外側の薄い層。”; {argument name="mantle label" default="マントル"} with smaller text “厚さ約2,900kmの層。高温の岩石がゆっくりと流動している。”; {argument name="outer core label" default="外核"} with smaller text “厚さ約2,200kmの層。主に鉄とニッケルの流体で構成される。”; {argument name="inner core label" default="内核"} with smaller text “半径約1,220kmの固体の層。主に鉄とニッケルでできており、非常に高温・高圧の環境にある。”
+
+Visual style: Photorealistic space-science educational poster, cinematic lighting, crisp typography, realistic Earth texture, glowing lava-like interior, clean white callout lines, high contrast, polished museum infographic style.
+
+Constraints: Keep exactly 4 annotation blocks and exactly 4 layer labels. Do not add extra icons, extra labels, borders, logos, watermarks, or decorative UI panels. Keep all text legible and positioned to the right of the planet.
+```
+
+**来源：** [@G2（じーにー）｜AIビジネス翻訳家](https://x.com/aiclass_g2/status/2067362555019042839) | 2026-06-17
+
+---
+
+### 📊 例 1758：牙医故事板信息图
+
+![牙医故事板信息图](../../images/%E7%89%99%E5%8C%BB%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张清晰、简洁的信息图故事板海报，主题为 {argument name="subject" default="牙医"}。布局为 {argument name="aspect ratio" default="宽屏 16:9"}，白色背景，黑色边框，粗体黑色排版，渲染风格为 {argument name="rendering style" default="高级 Pixar 3D 风格化渲染"}，色彩明亮生动 —— 洁净的临床白，天蓝色手套
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="subject" default="THE DENTIST"}. {argument name="aspect ratio" default="Wide 16:9"} layout, white background, black borders, bold black typography, {argument name="rendering style" default="premium Pixar 3D stylized rendering"}, bright vivid colors — clean clinical white, sky blue gloves
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2067286660149092638) | 2026-06-17
+
+---
+
+### 📊 例 1789：技术蓝图信息图
+
+![技术蓝图信息图](../../images/%E6%8A%80%E6%9C%AF%E8%93%9D%E5%9B%BE%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+关于 {argument name="object" default="[OBJECT]"} 的高级技术信息图。
+仅使用参考图像来理解物体的形状和结构，切勿直接复制相同的照片、角度、构图或背景。以全新的专业写实摄影风格重新诠释该主体，画面需整洁、光线充足，并配以合适且更具美感的背景。保持物体为真实照片，而非插画。添加技术蓝图风格的叠加层，包含白色线条、箭头、尺寸标注、标签以及关于零件、材质、测量数据和功能的小型图示。
+构图清晰、优雅且富有信息量。
+在左上角包含一个草图框，标题为 "OBJECT"。
+
+[English]
+Premium technical infographic of {argument name="object" default="[OBJECT]"}.
+Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an
+illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.
+Clear, elegant, and informative composition.
+Include a sketch box in the upper left corner with the title "OBJECT".
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2067218870264602681) | 2026-06-17
+
+---
+
+### 📊 例 1790：中华文明历程海报
+
+![中华文明历程海报](../../images/%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E5%8E%86%E7%A8%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张信息极其密集的全景式插画历史信息图，标题为 {argument name="main title" default="中华上下五千年文化历程"}，将五千年中华文明展现为从史前时代到当代的一条连续视觉时间轴。
+
+画布：宽幅横向海报，比例约为 16:9，羊皮纸色背景，带有古卷质感，装饰有云纹和龙纹边框，采用暖棕褐色墨水，辅以柔和的红色、蓝色、玉绿色、青铜色、金色和黑色书法。采用密集的手绘中国历史壁画风格，线条细腻，包含微缩人物、建筑细节、文物插图，并具备博物馆目录般的精确度。
+
+布局：将海报分为 5 个堆叠的横向带。第 1 带是主要的时间轴全景，顶部设有大标题，并从左至右排列 10 个标记明确的时代板块：1) 史前，2) 夏商周，3) 春秋战国，4) 秦汉，5) 魏晋南北朝，6) 隋唐，7) 宋元，8) 明清，9) 近现代，10) 当代。第 2 带是文物、文字、发明、书籍、钱币、瓷器、印章、乐器和书法样本的目录条。第 3 带是社会生活与经济条，展示农业、作坊、集市、学校、礼仪、贸易、军队、宫廷场景、船只、桥梁和城市街道。第 4 带是科学、医学、植物学、天文学、制图学和技术条，包含图表、学者、工具、时钟、地球仪、实验室般的房间以及早期工业场景。第 5 带是现代至当代技术条，包含实验室、工厂、计算机、办公室、航空航天、卫星、高铁、可再生能源和未来主义基础设施。
+
+主题细节：顶部的时间轴应如连续的古老山水画般流动，包含山川、河流、道路、宫殿、寺庙、城门、村庄、农田、商队、骑兵、军队、学者、皇帝、工匠、僧侣、商人、戏曲表演者、改革开放时期的市民、现代工程师、摩天大楼、高铁、火箭发射和轨道航天器。在中央上方全景图中加入一条蜿蜒的浅色河流或龙形丝带，在视觉上连接各个时代。左侧应体现史前和青铜时代感，中间应强调历代王朝和古典文化，右侧则过渡到现代工业、城市生活和空间技术。
+
+文字内容：在顶部中央使用黑色大号毛笔书法书写主标题 {argument name="main title" default="中华上下五千年文化历程"}。在顶部沿线保留 10 个小型深色牌匾作为时代标签。在画面中添加大量细小的中文书法注释、卷轴残片、书页、印章和标签，但它们应作为装饰性的历史注解，而非大段可阅读的文字。
+
+视觉风格：极繁主义教育挂图，百科全书式博物馆壁画，中国古画与历史信息图的融合，包含数千个微小细节，清晰的微缩场景，精心分隔的板块，无留白，陈旧纸张质感，手绘墨线，细腻的水彩渲染，写实但风格化的历史服饰与文物。
+
+约束条件：必须保留 10 个顶部时代板块和 5 个横向内容带。画面需密集且连贯，不得包含任何现代英文字符、水印、Logo，不得有空白区域，且不得有单一超大字符主导构图。
+
+[English]
+Goal: Create an extremely information-dense panoramic illustrated historical infographic titled {argument name="main title" default="中华上下五千年文化历程"}, showing five thousand years of Chinese civilization as a continuous visual timeline from ancient prehistory to the contemporary era.
+
+Canvas: Wide horizontal poster, approximately 16:9 aspect ratio, parchment-colored background, antique scroll texture, ornate cloud-and-dragon border, warm sepia ink with muted reds, blues, jade greens, bronze, gold, and black calligraphy. Use a dense hand-painted Chinese historical mural style with fine linework, miniature figures, architectural details, artifact illustrations, and museum-catalog precision.
+
+Layout: Divide the poster into 5 stacked horizontal bands. Band 1 is the main chronological panorama with a large title at the top and exactly 10 labeled era panels running left to right: 1) 史前, 2) 夏商周, 3) 春秋战国, 4) 秦汉, 5) 魏晋南北朝, 6) 隋唐, 7) 宋元, 8) 明清, 9) 近现代, 10) 当代. Band 2 is a catalog strip of artifacts, writing, inventions, books, coins, porcelain, seals, instruments, and calligraphy samples. Band 3 is a social-life and economy strip showing agriculture, workshops, markets, schools, rituals, trade, armies, court scenes, ships, bridges, and city streets. Band 4 is a science, medicine, botany, astronomy, cartography, and technology strip with diagrams, scholars, tools, clocks, globes, laboratory-like rooms, and early industrial scenes. Band 5 is a modern-to-contemporary technology strip with laboratories, factories, computers, offices, aerospace, satellites, high-speed rail, renewable energy, and futuristic infrastructure.
+
+Subject details: The top timeline should flow like a continuous ancient landscape with mountains, rivers, roads, palaces, temples, city gates, villages, farms, caravans, horse riders, armies, scholars, emperors, artisans, monks, merchants, opera performers, reform-era citizens, modern engineers, skyscrapers, bullet train, rocket launch, and orbiting spacecraft. Include a pale winding river or dragon-like ribbon crossing the central upper panorama, visually connecting the eras. The left side should feel prehistoric and bronze-age, the middle should emphasize imperial dynasties and classical culture, and the right side should shift into modern industry, urban life, and space technology.
+
+Text content: Use the main title {argument name="main title" default="中华上下五千年文化历程"} in large black brush calligraphy centered at the top. Keep the 10 era labels in small dark plaques along the top. Add many tiny Chinese calligraphy notes, scroll fragments, book pages, seals, and labels throughout, but they should function as decorative historical annotations rather than large readable paragraphs.
+
+Visual style: Maximalist educational wall chart, encyclopedic museum mural, ancient Chinese painting fused with historical infographic, thousands of tiny details, crisp miniature scenes, carefully separated panels, no empty space, aged paper texture, hand-drawn ink outlines, subtle watercolor shading, realistic but stylized historical costumes and artifacts.
+
+Constraints: Preserve exactly 10 top era panels and 5 horizontal content bands. Make the image dense but coherent, with no modern English text, no watermark, no logo, no blank areas, and no single oversized character dominating the composition.
+```
+
+**来源：** [@今天也要学AI](https://x.com/DevAIVibe/status/2067208622975971802) | 2026-06-17
+
+---
+

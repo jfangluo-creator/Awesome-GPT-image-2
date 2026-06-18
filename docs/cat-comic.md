@@ -2920,3 +2920,123 @@ Constraints: Keep the page as one complete manga page, preserve exactly 6 panels
 
 ---
 
+### 🎬 例 1749：赛博朋克漫画推理短篇
+
+![赛博朋克漫画推理短篇](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%BC%AB%E7%94%BB%E6%8E%A8%E7%90%86%E7%9F%AD%E7%AF%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅黑白漫画风格的两格连环画，展示一位中性长发的 AI 助手或分析师正在进行高强度的推理过程，角色面部被一个平面的灰色方块刻意遮挡。
+
+画布：宽幅横向漫画条，比例约为 2:1，精确分为 2 个相等的矩形分镜，中间有粗黑分割线，外围有黑色边框。使用高对比度的黑白网点阴影、清晰的墨线、发光的数字叠加层以及充满未来感的机房背景。
+
+布局：两个分镜均展示同一角色的半身像，正面朝向，双臂交叉，身穿深色商务西装、白衬衫和黑领带。角色发型为 {argument name="hair style" default="长发，一侧肩膀垂下一条粗麻花辫"}。在两个分镜中，角色的面部均覆盖一个平滑的不透明灰色方块，遮住所有五官。角色背景填充发光的网格、半透明的 UI 窗口、代码块以及垂直的雨状数据流。
+
+分镜 1 文字元素：在角色周围包含 5 个浮动的矩形 UI 标签，每个标签都有发光边框和日文文本。这 5 个标签分别是：1) 左上方的「推論中……」，2) 左中位置的「思考 Max」，3) 左下方的「プロンプトに対する懸念を処理」，4) 右上方的「創作的のプロンプトと判断」，5) 右中位置的「日本語文体での創作的応答を生成」。字体需保持粗体、漫画风格且易于阅读。
+
+分镜 2 文字元素：在第二个分镜的左侧重复 3 个浮动 UI 标签：1) 左上方的「推論中……」，2) 左中位置的「思考 Max」，3) 左下方的「プロンプトに対する懸念を処理」。在右上角背景处添加一个部分发光的标签「創作的のプロンプトと判断」，并被对话框部分遮挡。在最右侧添加一个大型垂直椭圆形对话框，内含垂直排列的日文文本：「……そう頼まれるのは光栄だと思う。それに応えられるものを書きたい。」
+
+主体细节：角色应显得冷静、严肃、具有分析力且优雅，如同天才管家或企业战略家。姿势对称且沉稳，双臂交叉，双肩平直。西装应刻画得锐利，具有强烈的明暗对比。
+
+视觉风格：戏剧性的黑白漫画，赛博朋克界面美学，深色电路背景上的发光白色面板，精细的排线，网点渐变，UI 元素周围有微妙的光晕，对话框边缘清晰。图像应看起来像扫描的漫画页面与科幻 AI 仪表盘的结合体。
+
+约束：必须使用 2 个分镜。第一个分镜必须包含 5 个浮动 UI 标签，第二个分镜必须包含 4 个浮动 UI 标签和 1 个对话框。请精确保留所写的日文文本。不要显示眼睛、嘴巴或面部特征；在两个分镜中均保持面部被灰色方块遮挡。除灰度外不得使用任何颜色，无水印，无额外说明文字。
+
+[English]
+Goal: Create a black-and-white manga-style two-panel comic strip showing an androgynous long-haired AI assistant or analyst visualizing an intense reasoning process, with the character's face intentionally obscured by a flat gray censor square.
+
+Canvas: Wide horizontal manga strip, approximately 2:1 aspect ratio, split into exactly 2 equal rectangular panels with a thick black divider between them and a black outer border. Use high-contrast monochrome screentone shading, crisp ink lines, glowing digital overlays, and a futuristic data-room background.
+
+Layout: Both panels show the same central character from the waist up, facing forward, arms crossed, wearing a dark business suit, white shirt, and black tie. The character has {argument name="hair style" default="long pale hair with a thick side braid over one shoulder"}. Place a smooth opaque gray square over the face in both panels, hiding all facial features. Behind the character, fill the background with luminous grids, translucent UI windows, code-like blocks, and vertical rain-like data streaks.
+
+Panel 1 text elements: Include exactly 5 floating rectangular UI labels around the character, each with glowing borders and Japanese text. The five labels are: 1) 「推論中……」 near the upper left, 2) 「思考 Max」 at left-center, 3) 「プロンプトに対する懸念を処理」 at lower left, 4) 「創作的のプロンプトと判断」 near the upper right, 5) 「日本語文体での創作的応答を生成」 at right-center. Keep the typography bold, manga-like, and legible.
+
+Panel 2 text elements: Repeat exactly 3 floating UI labels on the left side of the second panel: 1) 「推論中……」 near the upper left, 2) 「思考 Max」 at left-center, 3) 「プロンプトに対する懸念を処理」 at lower left. Add one partial glowing label in the upper right background reading 「創作的のプロンプトと判断」, partly hidden by the speech bubble. Add one large vertical oval speech bubble on the far right with Japanese text arranged vertically: 「……そう頼まれるのは光栄だと思う。それに応えられるものを書きたい。」
+
+Subject details: The character should feel calm, serious, analytical, and elegant, like a genius butler or corporate strategist. The pose is symmetrical and composed, with crossed arms and squared shoulders. The suit should be sharply rendered with strong highlights and shadows.
+
+Visual style: Dramatic monochrome manga, cyberpunk interface aesthetic, glowing white panels against dark circuitry, fine hatching, halftone gradients, subtle bloom around UI elements, clean speech bubble borders. The image should look like a scanned manga page mixed with a sci-fi AI dashboard.
+
+Constraints: Use exactly 2 panels. Use exactly 5 floating UI labels in the first panel and exactly 4 floating UI labels plus 1 speech bubble in the second panel. Preserve the Japanese text exactly as written. Do not show eyes, mouth, or facial features; keep the face covered by a plain gray square in both panels. No color except grayscale, no watermark, no extra captions.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2067373917736767689) | 2026-06-17
+
+---
+
+### 🎬 例 1763：GTA 故事板提示词
+
+![GTA 故事板提示词](../../images/GTA%20%E6%95%85%E4%BA%8B%E6%9D%BF%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 3x3 的 GTA 6 游戏故事板图像，展示 Michael 踢足球的场景
+
+[English]
+Create a 3x3 GTA 6 gameplay storyboard image showing Micheal Playing football
+```
+
+**来源：** [@Abdul Șhakoor](https://x.com/abxxai/status/2067275332848333032) | 2026-06-17
+
+---
+
+### 🎬 例 1825：双格仓鼠漫画场景
+
+![双格仓鼠漫画场景](../../images/%E5%8F%8C%E6%A0%BC%E4%BB%93%E9%BC%A0%E6%BC%AB%E7%94%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅黑白少女漫画页面，包含上下排列的 2 个宽幅横向分镜，由粗黑边框分隔，展现 {argument name="character name" default="一位美型中性少年"} 与 {argument name="animal" default="一只小仓鼠"} 之间温馨的睡前互动。
+
+画布：横向漫画页面，比例约为 16:9，高分辨率黑白线稿，带有干净的网点纸阴影，细腻的发丝细节，富有表现力的眼睛，柔和的浪漫氛围。
+
+分镜 1：顶部的宽幅分镜，场景设定在夜晚华丽的四柱床上。展示系在床柱上的飘逸窗帘、荷叶边织物、枕头、毯子，以及床后漆黑的星空窗户/背景。少年穿着睡衣斜倚着，浅色头发略显凌乱，双手张开靠近小仓鼠。仓鼠在他手掌上方可爱地弹跳起来，带有细小的动作线条和微小的拟声词。在左侧添加 1 个大型垂直对话框，内容为 {argument name="first speech bubble" default="今日はハムスターを好きにしていいよ！"}。在仓鼠附近添加 1 个手写拟声词，内容为 {argument name="sound effect" default="ぽてっ"}。此分镜中少年的面部眼睛和鼻子部位应被一个居中的浅灰色方形马赛克遮挡，其余头发、嘴巴、身体和手部保持可见。
+
+分镜 2：底部的宽幅分镜，视角更近、更亲密。展示仓鼠坐在左侧少年张开的手掌上，直立着身体，神情机敏可爱，小爪子清晰可见。少年从右侧凑近，温柔地微笑着，深情地注视着仓鼠，拥有长长的睫毛、精致的眼眸、层次分明的凌乱发型和宽松的睡衣领口。核心情感指令是两人深情对视。在右侧添加 1 个垂直对话框，内容为 {argument name="second speech bubble" default="……言ったね。"}。
+
+可见元素统计：共 2 个漫画分镜；1 个男性角色；1 只仓鼠；2 个对话框；1 个小型拟声词；1 张四柱床；2 根可见的床柱；仅在顶部面板中有 1 个灰色马赛克方块。
+
+视觉风格：优雅的日式漫画线条，浪漫喜剧基调，细腻的排线，浅灰色调，清晰的黑色分镜边框，富有表现力的特写构图，无色彩，无水印，无额外角色，无额外文字。
+
+[English]
+Goal: Create a black-and-white shoujo manga page with exactly 2 wide horizontal panels stacked vertically, framed by thick black gutters, showing a tender bedtime interaction between {argument name="character name" default="a beautiful androgynous young man"} and {argument name="animal" default="a tiny hamster"}.
+
+Canvas: Landscape manga page, approximately 16:9, high-resolution monochrome line art with clean screentone shading, delicate hair detail, expressive eyes, soft romantic atmosphere.
+
+Panel 1: A wide top panel set in an ornate canopy bed at night. Show flowing curtains tied to bedposts, frilled fabric, pillows, blankets, and a dark starry window/background behind the bed. The young man reclines in pajamas with loose, slightly messy light hair, holding both hands open near the tiny hamster. The hamster is popping upward in a cute bounce above his palms, with small motion lines and a tiny sound effect. Add exactly 1 large vertical speech bubble on the left containing {argument name="first speech bubble" default="今日はハムスターを好きにしていいよ！"}. Add exactly 1 small handwritten sound effect near the hamster containing {argument name="sound effect" default="ぽてっ"}. The young man’s face in this top panel should be partially obscured by a plain light-gray square censor block centered over the eyes and nose, while the rest of the hair, mouth, body, and hands remain visible.
+
+Panel 2: A wide bottom panel, closer and more intimate. Show the hamster sitting upright on the young man’s open palm at the left, looking alert and cute with tiny paws. The young man leans close from the right, smiling softly and gazing lovingly directly at the hamster, with long eyelashes, detailed eyes, tousled layered hair, and loose pajama collar. The key emotional instruction is that their eyes meet affectionately. Add exactly 1 vertical speech bubble on the right containing {argument name="second speech bubble" default="……言ったね。"}.
+
+Counted visible elements: exactly 2 manga panels; exactly 1 human character; exactly 1 hamster; exactly 2 speech bubbles; exactly 1 small sound effect; exactly 1 canopy bed; exactly 2 visible bedposts; exactly 1 gray censor square in the top panel only.
+
+Visual style: Elegant Japanese manga linework, romantic comedy tone, fine hatching, pale grayscale shading, crisp black panel borders, expressive close-up composition, no color, no watermark, no extra characters, no additional text.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2067092462703894862) | 2026-06-17
+
+---
+
+### 🎬 例 1834：时尚选角联系表
+
+![时尚选角联系表](../../images/%E6%97%B6%E5%B0%9A%E9%80%89%E8%A7%92%E8%81%94%E7%B3%BB%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+女性时尚选角黑白联系表，{argument name="hair length" default="及腰直发"} 垂在一侧肩头，以整洁的 2x2 四格近景人像网格排列，背景为柔光织物，身着 {argument name="clothing" default="丝绸衬衫"} 并佩戴 {argument name="accessories" default="精致吊坠耳环"}。每格展现不同的姿态与表情：双手环绕颈部，神情宁静；单肩转向镜头，回眸凝视；指尖轻触双唇，与镜头保持眼神交流；低头，双眼从眉下向上注视。柔和摄影棚灯光，清晰的单色对比，自然的皮肤质感，清晰的面部细节，干净的纯色背景，细腻的胶片颗粒感，高端编辑测试拍摄，极简造型，亲密的拍摄距离，专业人像摄影，长宽比 4:5。
+
+[English]
+Black-and-white fashion casting contact sheet of a woman with {argument name="hair length" default="waist-length straight hair"} flowing over one shoulder, arranged in a clean 2x2 grid of four close portrait frames against a softly illuminated fabric backdrop, wearing a {argument name="clothing" default="silk blouse"} and {argument name="accessories" default="delicate drop earrings"}. Each frame shows a different pose and expression: both hands wrapped around her neck with a serene gaze, one shoulder turned toward the camera while looking back over it, fingertips brushing her lips while maintaining eye contact, and head lowered with eyes looking upward beneath her brows. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2067083166243058001) | 2026-06-17
+
+---
+

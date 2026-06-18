@@ -2538,3 +2538,113 @@ Create a cheerful full-body photorealistic/3D hybrid portrait in a sunny park: a
 
 ---
 
+### 🧸 例 1762：微缩施工队打造巨型 Whopper
+
+![微缩施工队打造巨型 Whopper](../../images/%E5%BE%AE%E7%BC%A9%E6%96%BD%E5%B7%A5%E9%98%9F%E6%89%93%E9%80%A0%E5%B7%A8%E5%9E%8B%20Whopper.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超现实且超写实的微距食品摄影场景，展示一个巨大的 {argument name="burger type" default="Burger King Whopper"} 正像建筑工地一样被微型工人组装。汉堡放置在一个 Burger King Whopper 硬纸盒的中心，顶部带有芝麻的面包正由一台头顶黄色起重机的四条链条吊索悬挂着。清晰展示汉堡的层次：光亮的芝麻面包、卷曲的绿色生菜、厚实的红色番茄片、白色洋葱圈、酸黄瓜、番茄酱、炭烤牛肉饼以及底层面包。周围环绕着 18 名身穿橙色安全背心、头戴黄色安全帽的微型建筑工人：3 名站在顶部面包上，2 名在面包边缘处理链条，2 名在左侧的剪叉式升降机上，3 名在右侧的脚手架上，2 名在靠近梯子的硬纸盒前方，2 名在载有番茄片的小型自卸卡车旁，1 名操作着载有酸黄瓜片的叉车，另有 3 名散落在前景检查现场。包含 5 台主要的建筑机械或结构：左侧一台印有 Burger King 字样的黄色大型起重机，汉堡旁的一台剪叉式升降机，右侧带有写着 {argument name="scaffold sign text" default="HOME OF THE WHOPPER"} 标牌的金属脚手架，一辆装满番茄片的小型自卸卡车，以及一辆载有酸黄瓜片的叉车。在前景加入一个带有四行检查清单的质量检测牌：新鲜食材、完美火烤、配料均衡、100% Whopper。将一个模糊的 Burger King 饮料杯放在左后方，一盒模糊的薯条放在右后方。使用温暖的电影级摄影棚灯光、浅景深、深色餐厅厨房背景虚化、粗糙的桌面施工碎片、俏皮且富有想象力的比例、超精细的纹理、诱人的光亮食品表面以及逼真的微缩模型比例。在包装盒、杯子、起重机和背景包装上醒目地展示 Burger King 标志，并在包装盒正面显示大字 {argument name="box headline text" default="WHOPPER"}。无额外文字，无水印，方形构图。
+
+[English]
+Create a surreal hyper-realistic macro food photography scene of a gigantic {argument name="burger type" default="Burger King Whopper"} being assembled like a construction site by miniature workers. The burger sits centered on a cardboard Burger King Whopper box, with a sesame-seed top bun being held by four chain slings from an overhead yellow crane. Show the burger layers clearly: glossy sesame bun, curly green lettuce, thick red tomato slices, white onion rings, pickles, ketchup, charred grilled beef patty, and bottom bun. Surround it with exactly 18 visible miniature construction workers in orange safety vests and yellow hard hats: 3 standing on the top bun, 2 on the bun edges handling chains, 2 on a scissor lift at left, 3 on scaffolding at right, 2 on the cardboard box front near ladders, 2 by a small dump truck carrying tomato slices, 1 operating a forklift with pickle slices, and 3 scattered in the foreground inspecting the site. Include exactly 5 main construction machines or structures: a large yellow crane on the left branded with Burger King text, a scissor lift beside the burger, metal scaffolding on the right with a sign reading {argument name="scaffold sign text" default="HOME OF THE WHOPPER"}, a small dump truck loaded with tomato slices, and a forklift carrying pickle slices. Add a foreground quality inspection sign with four checklist lines: Fresh ingredients, Perfect flame grill, Toppings balanced, 100% Whopper. Place a Burger King drink cup blurred in the rear left and a carton of fries blurred in the rear right. Use warm cinematic studio lighting, shallow depth of field, dark restaurant-kitchen background bokeh, gritty tabletop construction debris, playful imaginative scale, ultra-detailed textures, appetizing glossy food surfaces, and realistic miniature diorama proportions. Prominently display Burger King logos on the box, cup, crane, and background packaging, with the large word {argument name="box headline text" default="WHOPPER"} on the front of the box. No extra text, no watermark, square composition.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2067275692480552999) | 2026-06-17
+
+---
+
+### 🧸 例 1795：混乱的黏土动画风格照片转换
+
+![混乱的黏土动画风格照片转换](../../images/%E6%B7%B7%E4%B9%B1%E7%9A%84%E9%BB%8F%E5%9C%9F%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将整张照片转换为手工制作的荒诞黏土动画场景，同时尽可能准确地保留原始构图、镜面自拍取景、摄像机角度、主体位置、姿势、比例、物体位置、服装布局、手机位置、手臂摆放以及整体结构。
+
+风格转换：将所有可见表面重塑为触感十足的定格动画黏土，呈现出凹凸不平的手工塑形、拇指印、不规则边缘、粗糙指纹、细小凹痕、不完美的接缝、污迹以及哑光涂漆的黏土质感。让人物、头发、衣服、手机、手表、手链、镜框和浴室墙壁看起来都像是用黏土物理捏造而成的。
+
+保留内容：将两个遮挡面部的方形块保持在相同的位置和颜色，保留镜面自拍的布局，保留男子手持深色手机的形象，保留女子在前、男子手臂环绕的姿势，并保留相同的可见服装轮廓和配饰。
+
+添加/强调：使背景墙和镜框看起来像厚重且有裂纹的石膏/黏土板，并带有夸张的手工质感。将头发处理成厚实的黏土发束，将手部处理成超大号的雕塑感黏土手指，并将手机/相机镜头处理成柔软圆润的黏土细节。使用温暖的泥土色调灯光，营造出混乱的手工黏土动画质感。
+
+约束条件：请勿更改姿势、裁剪比例、人数、主要物体位置或面部隐私遮挡块。请勿添加文字、新物体、额外角色或更改环境。
+
+[English]
+Using the provided reference image, transform the entire photo into a handcrafted absurdist claymation scene while preserving the exact composition, mirror-selfie framing, camera angle, subject placement, pose, proportions, object positions, clothing layout, phone position, arm placement, and overall structure as accurately as possible.
+
+Style transformation: Recreate every visible surface as tactile stop-motion clay, with lumpy hand-sculpted forms, thumbprints, uneven edges, rough fingerprints, small dents, imperfect seams, smudges, and matte painted clay texture. Make the people, hair, clothes, phone, watch, bracelet, mirror frame, and bathroom wall all look physically molded from clay.
+
+Preserve: Keep the two face-obscuring square blocks in the same locations and colors, keep the mirror selfie arrangement, keep the man holding the dark phone, keep the woman in front with the man’s arm around her, and keep the same visible outfit shapes and accessories.
+
+Add/Emphasize: Make the background wall and mirror border look like thick cracked plaster/clay slabs with exaggerated handmade texture. Turn the hair into chunky clay strands, the hands into oversized sculpted clay fingers, and the phone/camera lenses into soft rounded clay details. Use warm earthy lighting and a chaotic handmade claymation finish.
+
+Constraints: Do not change the pose, crop, number of people, main object positions, or facial privacy blocks. Do not add text, new objects, extra characters, or a different environment.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2067192440059285543) | 2026-06-17
+
+---
+
+### 🧸 例 1818：复古 Source Engine 3D 游戏风格
+
+![复古 Source Engine 3D 游戏风格](../../images/%E5%A4%8D%E5%8F%A4%20Source%20Engine%203D%20%E6%B8%B8%E6%88%8F%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+帮我把这张照片重制为{argument name="游戏引擎" default="早期 Source 引擎（起源引擎初代）"}风格的 3D 游戏截图。保留原图的主体、构图、视角和场景布局，但把整个画面重新诠释为{argument name="游戏场景" default="《Half-Life 2》或 Garry’s Mod 早期地图"}中的场景。整体不是简单滤镜，而是像把现实照片“重新建模”成一张老游戏截图。画面角色能清晰的看到低多边面的棱角，角色五官不要出现任何圆润的图形，全部用棱角或多边形代替；画面添加杂色，纹理极细的低像素格子，轻微色差效果渲染。风格要求： 3D建模：所有物体、角色、树木、岩石、建筑都呈现明显的**低多边形（Low-Poly）**建模感，边缘略硬，几何感明显 。模仿《半条命》(Half-Life）或Garry'sMod的早期视觉质感；材质贴图：使用低分辨率（Low-Res）纹理，贴图略糊、略重复、细节有限，带有早期游戏资产的粗糙感 。光影效果：模拟早期引擎特有的混乱、生硬光影、略不自然的光照；
+```
+
+**来源：** [@MarioTan](https://x.com/TanShilong/status/2067117790574833862) | 2026-06-17
+
+---
+
+### 🧸 例 1840：可爱风街机抓娃娃机人像
+
+![可爱风街机抓娃娃机人像](../../images/%E5%8F%AF%E7%88%B1%E9%A3%8E%E8%A1%97%E6%9C%BA%E6%8A%93%E5%A8%83%E5%A8%83%E6%9C%BA%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+日式可爱风超写实摄影作品。附图中美丽的年轻女性坐在 {argument name="setting" default="一台塞满宝可梦毛绒玩具的抓娃娃机"} 里。构图完美居中且对称。模特双手握住头顶上方的金属抓杆，表情 {argument name="mood" default="柔和而忧郁"}，直视镜头。她留着深棕色的长波浪卷发，皮肤细腻透亮，双腿优雅地伸展在堆积如山的可爱毛绒玩具之上。
+
+内部空间完全被宝可梦毛绒玩具填满。这台日式街机装饰着可爱插画、日文字体、星星、爱心及其他精致细节。
+
+{argument name="lighting" default="包裹感十足的霓虹粉色 LED 灯光"}，两侧配有垂直灯管，玻璃和金属表面呈现电影级反光，柔和光晕，梦核氛围，原宿美学，蒸汽波色调，棉花糖粉色单色调分级，柔和的洋红色调，超精细，超写实，中等景深，焦点完美聚焦于模特，逼真的反射效果，奢华社论摄影，日系杂志风格，充满魔力与怀旧气息，85mm 镜头，f/2.0 光圈，HDR，8K 分辨率，杰作，超逼真，电影级布光，高端时尚摄影，高度细节，柔和光泽，梦幻氛围。
+
+[English]
+Hyperrealistic photograph in Japanese kawaii style. The beautiful young woman in the attached image sits inside {argument name="setting" default="a UFO Catcher arcade machine overflowing with Pokémon plushies"}. The composition is perfectly centered and symmetrical. The model holds the metal shaft of the claw above her head, her expression {argument name="mood" default="soft and melancholic"} as she gazes directly at the camera. She has long, wavy, dark brown hair, luminous and delicate skin, and her legs are elegantly extended atop a mountain of adorable plushies.
+
+The interior is completely filled with Pokémon plushies. The Japanese arcade machine is decorated with kawaii illustrations, Japanese typography, stars, hearts, and other cute details.
+
+{argument name="lighting" default="Enveloping neon pink LED lighting"}, vertical light tubes on both sides, cinematic reflections on glass and metal, soft bloom, dreamcore atmosphere, Harajuku aesthetic, pastel vaporwave, monochromatic cotton candy pink color grading, soft magenta tones, ultra-detailed, hyper-realistic, moderate depth of field, perfect focus on the model, realistic reflections, luxury editorial photography, Japanese magazine style, magical and nostalgic atmosphere, 85mm, f/2.0, HDR, 8K, masterpiece, ultra-realistic, cinematic lighting, premium fashion photography, highly detailed, soft glow, dreamy atmosphere.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2067074753848877322) | 2026-06-17
+
+---
+
+### 🧸 例 1846：微缩积木奇幻小镇模型
+
+![微缩积木奇幻小镇模型](../../images/%E5%BE%AE%E7%BC%A9%E7%A7%AF%E6%9C%A8%E5%A5%87%E5%B9%BB%E5%B0%8F%E9%95%87%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个异想天开的微缩积木立体模型，风格为微型互锁塑料积木，展示一座宏伟童话城堡前的奇幻中世纪城镇广场。场景中包含两个完全由小积木拼搭而成的 Q 版动漫风格女孩形象，她们站在蓝色运河旁弯曲的鹅卵石小路上。左侧角色是一位名叫 {argument name="left character name" default="金发女巫"} 的开朗小女巫：留着金色长发，拥有绿色大眼睛和尖耳朵，戴着超大的深紫色女巫帽，穿着带有白色饰边的深紫色连衣裙，脚蹬棕色靴子，手中拿着一本打开的棕色咒语书，封面带有金色徽章。右侧角色是一位名叫 {argument name="right character name" default="金发女仆"} 的开朗女仆：留着发梢卷曲的金发双马尾，拥有绿色大眼睛和尖耳朵，身穿黑白相间的女仆装，戴着白色发带，穿着带有金色小蝴蝶结的黑色鞋子，提着一个装满红色、蓝色、绿色和黄色彩色积木的灰色篮子。周围环绕着细节丰富的中世纪市场：带有蓝色和棕色屋顶的木框架房屋、红白相间的条纹遮阳篷、花箱、发光的黑金路灯、带有微小模糊文字的木制招牌、色彩鲜艳的花坛、石墙以及左下角的一条小运河。背景处放置一座大型石砌城堡，配有蓝色圆锥形屋顶、多座塔楼、黄色旗帜、拱桥或大门，以及一面红金相间的纹章旗帜。在左上方的天空中添加一只飞翔的白鸟。采用明亮的日光、蓝天白云、温暖饱和的色调、浅景深、微距摄影视角、高度精细的积木纹理、玩具般的真实感、可爱的奇幻氛围以及 3:4 的竖构图。确保所有物体均由微型积木清晰可见地拼搭而成，没有平滑的非积木表面，没有真人，没有文字叠加，也没有水印。
+
+[English]
+Create a whimsical miniature block diorama in the style of tiny interlocking plastic bricks, showing a fantasy medieval town square in front of a grand fairytale castle. The scene features exactly two chibi anime-style girl figures made entirely of small bricks, standing on a curved cobblestone path by a blue canal. The left character is a cheerful little witch named {argument name="left character name" default="the blonde witch"}: long blonde hair, big green eyes, pointed ears, oversized dark purple witch hat, dark purple dress with white trim, brown boots, and a brown spellbook held open with a gold emblem on the cover. The right character is a cheerful maid named {argument name="right character name" default="the blonde maid"}: blonde twin-tail hair with curled ends, big green eyes, pointed ears, black-and-white maid outfit, white headband, black shoes with small gold bows, and a gray basket filled with colorful red, blue, green, and yellow blocks. Surround them with a richly detailed medieval marketplace: timber-frame houses with blue and brown roofs, red-and-white striped awnings, flower boxes, glowing black-and-gold street lamps, a wooden signboard with tiny unreadable writing, colorful flower beds, stone walls, and a small canal at the lower left. In the background, place a large stone castle with blue conical roofs, multiple towers, yellow flags, an arched bridge or gate, and a red-and-gold heraldic banner. Add exactly one white bird flying in the upper-left sky. Use bright daylight, blue sky with soft clouds, warm saturated colors, shallow depth of field, macro photography perspective, highly detailed brick texture, toy-like realism, cute fantasy atmosphere, and a vertical 3:4 composition. Keep every object visibly constructed from miniature blocks, with no smooth non-brick surfaces, no real humans, no text overlays, and no watermark.
+```
+
+**来源：** [@Toudaiji](https://x.com/ISoBZrpOBM85706/status/2067064845728727507) | 2026-06-17
+
+---
+

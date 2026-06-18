@@ -1298,3 +1298,141 @@ Please transform the entire image into a single {argument name="style" default="
 
 ---
 
+### 🔧 例 1799：民间艺术风格插画
+
+![民间艺术风格插画](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将整张图像转换为单一的装饰性 {argument name="style" default="民间艺术扁平插画"}，并加入涂鸦风格元素。使用一套与原图完全不同的 {argument name="color palette" default="大胆、活泼的配色方案"}。将所有细节简化为简洁的扁平形状，呈现出一种手工绘制、略带不完美的感觉，就像画在白纸上一样。整体风格应看起来可爱、稚趣、异想天开且富有魅力。
+
+[English]
+Please transform the entire image into a single decorative {argument name="style" default="folk-art flat illustration"} with doodle-style elements. Use a {argument name="color palette" default="bold, playful color palette"} that is completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, whimsical, and charming.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2067178706594840631) | 2026-06-17
+
+---
+
+### 🔧 例 1802：动态电影感标题叠加
+
+![动态电影感标题叠加](../../images/%E5%8A%A8%E6%80%81%E7%94%B5%E5%BD%B1%E6%84%9F%E6%A0%87%E9%A2%98%E5%8F%A0%E5%8A%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为该图像添加具有空间深度感的标题文本。
+
+[要添加的文本]
+- 要添加的短语："{argument name="title" default="在此输入标题"}"
+
+[排版]
+- 若文本为英文或罗马字：手写毛笔书法风格 —— 笔触随性、富有表现力、自信，呈现出不完美且生动的质感
+- 若文本为日文：大师级书法笔触 —— 粗犷、大胆、即兴的墨迹，笔压和粗细具有自然的起伏变化
+- 比例：大型且占据主导地位 —— 文本是视觉元素，而非标签
+- 颜色：选择与背景不冲突或不重复的颜色 —— 优先考虑视觉和谐，而非可读性
+
+[图层深度 —— 关键规则]
+- 文本必须出现在主体（人物、形象或前景物体）的后方
+- 主体自然地遮挡文本 —— 就像主体站在文本前方一样
+- 背景保持在文本和主体的后方
+- 如果图像中存在其他文本元素（水印、标题、正文、小字），标题必须出现在它们的前方
+- 从后到前的图层顺序：背景 → 现有文本元素 → 标题文本 → 主体
+
+[可读性 —— 重要]
+- 不要强求文本的可读性
+- 文本部分被主体遮挡是可以接受的，甚至是理想的效果
+- 文本作为设计元素和构图层存在，而非供阅读的信息
+- 布局和美学融合始终优先于可读性
+
+[位置]
+- 文本横跨图像，部分被主体遮挡
+- 位置感应具有电影感和刻意为之的效果 —— 如同电影海报或杂志封面
+- 允许文本自然地延伸至画面边缘之外
+- 不要在图像的任何位置生成随机文本块、正文或填充文本
+- 仅应添加指定的标题文本作为新增内容
+
+[风格保持]
+- 不要改变原始图像的主体、颜色或构图
+- 仅添加文本图层 —— 不添加其他任何内容
+
+[English]
+Add a title text to this image with intentional layer depth.
+
+[Text to Add]
+- The phrase to add: "{argument name="title" default="[ここにタイトルを入力]"}"
+
+[Typography]
+- If the text is in English or romaji: handwritten brush script style — loose, expressive, confident strokes, imperfect and alive
+- If the text is in Japanese: calligraphic brushwork by a master — rough, bold, spontaneous ink strokes with natural variation in pressure and thickness
+- Scale: large and dominant — the text is a visual element, not a label
+- Color: choose a color that does not clash with or duplicate the background — prioritize visual harmony over legibility
+
+[Layer Depth — Critical Rule]
+- The text must appear BEHIND the main subject (person, figure, or foreground object)
+- The main subject occludes the text naturally — as if the subject is standing in front of the text
+- The background remains behind both the text and the subject
+- If any other text elements exist in the image (watermarks, captions, body copy, small text), the title must appear in front of all of them
+- Layer order from back to front: background → existing text elements → title text → subject
+
+[Legibility — Important]
+- Do not force the text to be readable
+- It is acceptable — even desirable — for portions of the text to be hidden behind the subject
+- The text exists as a design element and compositional layer, not as information to be read
+- Layout and aesthetic integration take priority over legibility at all times
+
+[Placement]
+- The text spans large across the image, partially hidden behind the subject
+- Placement feels cinematic and intentional — like a movie poster or editorial cover
+- Allow the text to bleed beyond the frame edges naturally
+- Do not generate random text blocks, body copy, or filler text anywhere in the image
+- Only the specified title text should appear as a new addition
+
+[Style Preservation]
+- Do not alter the subject, colors, or composition of the original image
+- Add only the text layer — nothing else
+```
+
+**来源：** [@輪廻タヲ ☯ AI Artist](https://x.com/TaoRInne/status/2067171642846093366) | 2026-06-17
+
+---
+
+### 🔧 例 1824：角色概念设计图
+
+![角色概念设计图](../../images/%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张精细的角色概念设计图，名称：{argument name="character name" default="机械师"}，添加 {argument name="variant" default="不戴红色护目镜"} 版本，白色背景
+
+[English]
+Make a detailed character sheet concept art, name: {argument name="character name" default="The Mechanic"}, add the {argument name="variant" default="no red goggles"} version, white background
+```
+
+**来源：** [@I’m Bobo | Commission OPEN](https://x.com/imtheboboo/status/2067103367080640656) | 2026-06-17
+
+---
+
+### 🔧 例 1839：民间艺术风格转换提示词
+
+![民间艺术风格转换提示词](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图片转换为一幅装饰性民间艺术扁平插画，并加入俏皮的涂鸦风格细节。在完全重构为奇趣的手工民间艺术美学的同时，保留原照片的构图、姿势、面部特征、发型、猫咪、服装以及整体框架。使用一套与原照片截然不同的 {argument name="color palette" default="大胆、鲜艳且出人意料的配色方案"}。将所有元素简化为干净的扁平形状，减少阴影，使用柔和且不规则的轮廓线以及手绘质感。女性角色应拥有红润的双颊、富有表现力的眼睛、简化的面部特征以及流畅的装饰性发纹。{argument name="pet" default="猫咪"} 应采用迷人的民间艺术纹样进行风格化处理，简化毛发细节，呈现出可爱的绘本外观。在整个构图中添加装饰性民间艺术元素，包括环绕主体的人物、花朵、叶片、爱心、星星、圆点、漩涡、微型涂鸦以及俏皮的图案点缀。融入受 {argument name="regional style" default="斯堪的纳维亚民间艺术、波兰民间艺术以及现代儿童绘本插画"} 启发的手工笔触、缝合细节和装饰性图案。背景应为明亮的白纸，主体周围散布着色彩斑斓的涂鸦装饰。保持温暖、舒适、愉悦的氛围，呈现出一种仿佛由手工精心绘制、略带不完美感的艺术效果。
+
+[English]
+Transform the uploaded image into a single Decorative Folk Art Flat Illustration with playful doodle-style details. Preserve the exact composition, pose, facial features, hairstyle, cat, clothing, and overall framing of the original photo while completely reimagining it in a whimsical handmade folk-art aesthetic. Use a {argument name="color palette" default="bold, vibrant, and unexpected color palette"} that is entirely different from the original photograph. Simplify all elements into clean flat shapes with minimal shading, soft imperfect outlines, and hand-painted textures. The woman should have rosy cheeks, expressive eyes, simplified facial features, and flowing decorative hair patterns. The {argument name="pet" default="cat"} should be stylized with charming folk-art markings, simplified fur details, and a cute storybook appearance. Add decorative folk-art elements throughout the composition, including flowers, leaves, hearts, stars, dots, swirls, tiny doodles, and playful pattern accents surrounding the subjects. Incorporate handcrafted brush textures, stitched details, and ornamental motifs inspired by {argument name="regional style" default="Scandinavian folk art, Polish folk art, and modern children's book illustrations"}. The background should be bright white paper with colorful doodle decorations scattered around the subjects. Maintain a warm, cozy, joyful mood with a handmade, slightly imperfect appearance, as if carefully drawn and painted by hand.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2067080101100191994) | 2026-06-17
+
+---
+

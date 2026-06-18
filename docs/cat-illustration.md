@@ -4080,3 +4080,196 @@ Create a tiny full-body chibi character in a cute pixel-art style, centered on a
 
 ---
 
+### 🎨 例 1747：温馨动漫风早间直播
+
+![温馨动漫风早间直播](../../images/%E6%B8%A9%E9%A6%A8%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%97%A9%E9%97%B4%E7%9B%B4%E6%92%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温暖且细节丰富的动漫风格早间直播插图，场景设定在温馨的木质小木屋咖啡馆内。画面中共有 2 名主角坐在木桌前：左侧是一位长着猫耳的矮个子冒险少女，留着浅棕色短发，琥珀色双眼，有着毛茸茸的耳朵和尾巴，身穿深棕色探险装，系着红围巾，戴着露指手套，背着背包带，身后还背着一把步枪或长款探险装备；她举起一只手，害羞地打着招呼。右侧是一位身材较高的主播少女，留着长长的双麻花辫 {argument name="hair color" default="绿松石色头发配粉色发梢"}，戴着带有青色发光环的大号黑色耳机，身穿印有青色、粉色、橙色和绿色像素爱心图案的白色连帽衫，头上别着一个奶牛发夹；她的脸部被一个柔和的灰米色纯色方块遮挡，她正挥动着一只手。画面中需包含 7 个显眼的奶牛主题物品：主播头上的 1 个奶牛发夹、天花板附近的 3 个圆形奶牛灯笼、早餐托盘上的 1 个奶牛马克杯、桌子左前方的 1 个奶牛毛绒玩具，以及后方黑板上的 1 个奶牛涂鸦。在主播面前放置一个早餐托盘，包含 4 种食物：吐司、煎蛋、圣女果和绿叶蔬菜。在桌子右侧边缘放置一个用于直播的大型麦克风，中心前方放一盆小盆栽，右前方放一块木牌，上面写着「いってらっしゃい & いってきます!」并带有爪印。桌上放一个写有「今日の予定」的小螺旋笔记本，包含 3 行复选框：「配信」、「牧场模拟器」和「冒险准备♪」。在左上方添加粉色的大号气泡感日语标题文本「{argument name="headline text" default="おはよう"}」，带有厚实的白色描边和柔和阴影。下方添加较小的手写文本「{argument name="morning message" default="今日もいい一日にしようねっ♪"}」，旁边配有一个简单的黄色太阳涂鸦和小爱心。背景包括一扇阳光明媚的窗户，窗外可见绿植，配有温暖的木梁、串灯，后墙的黑板上写着英文“Good Morning!”，并画有爱心和奶牛图案。采用金色晨光、柔和的边缘光、可爱的 VTuber 同人画风格、高细节、干净的线条、光泽感的动漫渲染、淡粉色点缀、温馨的乡村质感以及欢快热情的氛围。保持垂直构图，近景，画面丰富但清晰易读，除指定的标牌和标签外，不包含额外角色或文字。
+
+[English]
+Create a warm, detailed anime-style morning livestream illustration inside a cozy wooden cabin cafe. The scene features exactly 2 main characters seated at a wooden table: on the left, a small cat-eared adventurer girl with short light-brown hair, amber eyes, fluffy ears and tail, wearing a dark brown explorer outfit, red scarf, fingerless gloves, backpack straps, and a rifle or long adventuring gear strapped behind her; she raises one hand in a shy greeting. On the right, a taller streamer girl with long twin-braided {argument name="hair color" default="turquoise hair with pink tips"}, oversized black headphones with cyan glowing rings, a white hoodie with a pixel heart design in teal, pink, orange, and green, and a tiny cow hair clip; her face is deliberately covered by a plain square censor block in a muted gray-beige color, while she waves with one hand. Place exactly 7 visible cow-themed items: 1 cow hair clip on the streamer’s head, 3 round hanging cow lanterns near the ceiling, 1 cow-face mug on the breakfast tray, 1 cow plush at the front-left corner of the table, and 1 cow doodle on the rear chalkboard. Add a breakfast tray in front of the streamer with exactly 4 food items: toast, a sunny-side-up egg, cherry tomatoes, and leafy greens. Add a large microphone on the right edge of the table for livestreaming, a small potted plant near the center front, and a wooden sign on the front-right reading 「いってらっしゃい & いってきます!」 with paw prints. Add a small spiral notebook on the table labeled 「今日の予定」 with exactly 3 checkbox lines: 「配信」, 「牧場シミュレーター」, and 「冒険の準備♪」. In the upper-left, add large bubbly Japanese headline text 「{argument name="headline text" default="おはよう"}」 in pink with a thick white outline and soft shadow. Beneath it, add smaller handwritten text 「{argument name="morning message" default="今日もいい一日にしようねっ♪"}」 next to a simple yellow sun doodle and small hearts. In the background, include a sunlit window with greenery outside, warm wooden beams, string lights, and a chalkboard on the back wall with English text “Good Morning!” plus hearts and a cow drawing. Use golden morning sunlight, soft rim lighting, cute VTuber fan-art energy, high detail, clean linework, glossy anime rendering, pastel pink accents, cozy rustic textures, and a cheerful welcoming mood. Keep the composition vertical, close-up, crowded but readable, with no extra characters and no additional text beyond the specified signs and labels.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2067390659217260674) | 2026-06-17
+
+---
+
+### 🎨 例 1754：彩虹发色猫耳少女艺术创作
+
+![彩虹发色猫耳少女艺术创作](../../images/%E5%BD%A9%E8%99%B9%E5%8F%91%E8%89%B2%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E8%89%BA%E6%9C%AF%E5%88%9B%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、{argument name="髪の色" default="虹色"}の髪の麗しい{argument name="キャラクター" default="猫耳少女"}と、優しい猫耳のお友達が、一緒に齧るリンゴを描いた{argument name="スタイル" default="手描き風"}イラストを見てみたいです。Midjourney 風の油絵っぽいパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2067345598995673196) | 2026-06-17
+
+---
+
+### 🎨 例 1759：功能性二维码生成器
+
+![功能性二维码生成器](../../images/%E5%8A%9F%E8%83%BD%E6%80%A7%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个高对比度、完全平整的黑白二维码，能够有效扫描并跳转至 URL “{argument name="url" default="https://t.co/UoN4sQvNjH"}”。该二维码必须有效、具备功能性，并置于白色背景之上。
+
+[English]
+A high-contrast, perfectly flat, black-and-white QR code that effectively scans to the URL '{argument name="url" default="https://t.co/UoN4sQvNjH"}'. The QR code must be valid, functional, and isolated on a white background.
+```
+
+**来源：** [@Chetaslua](https://x.com/chetaslua/status/2067283793883594771) | 2026-06-17
+
+---
+
+### 🎨 例 1772：低角度白色视觉时尚大片
+
+![低角度白色视觉时尚大片](../../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E7%99%BD%E8%89%B2%E8%A7%86%E8%A7%89%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直时尚大片，采用极低角度的虫眼视角，仿佛相机放置在腰部高度，透过一条纯白钩针编织或蕾丝面料的隧道向上拍摄。主体是 {argument name="character name" default="一位年轻女性"}，穿着一件宽松的白色镂空钩针罩衫或沙滩毛衣，在画面左右两侧形成框架，温暖的棕褐色皮肤和柔光照射下的腹部占据画面下方前景，底部中心可见肚脐。她的头部和肩膀出现在上方远处的中心位置，被面料部分遮挡，留着凌乱的 {argument name="hair color" default="棕色头发"}，几缕彩色编织发丝，头顶架着一副太阳镜。使用明亮通透的自然阳光、奶油白、温暖的米色肤色、闪烁的蕾丝高光、浅景深、梦幻般的焦外成像，以及高级时尚杂志的质感。面部应大部分被遮挡，或用一个位于面部中心、边缘柔和的纯色肤色矩形隐私遮罩代替。添加极简风格的白色编辑文本：左上角一行写着“WHITE”，下方写着“VISION”，下方有一个小横线；右上角写着“PLAYFUL”；左侧垂直文本写着“STUDIO EDIT”；左下角写着“VOL. 01”；右下角写着“2024 COLLECTION”。保持构图亲密、对称、明亮、柔和且高雅，不要添加额外物体、水印或其他文本。
+
+[English]
+Create a vertical editorial fashion photograph from an extreme low-angle worm’s-eye perspective, as if the camera is placed at waist level looking upward through a tunnel of sheer white crocheted or lace fabric. The subject is {argument name="character name" default="a young woman"} wearing a loose white open-knit crochet cover-up or beach sweater that frames the image on both left and right sides, with warm tan skin and a softly lit abdomen dominating the lower foreground, including a visible navel near the bottom center. Her head and shoulders appear far above in the center, partially shadowed by the fabric, with tousled {argument name="hair color" default="brown hair"}, a few colorful braided strands, and sunglasses resting on top of her head. Use bright airy natural sunlight, creamy whites, warm beige skin tones, sparkling lace highlights, shallow depth of field, dreamy bokeh, and a high-fashion magazine look. The face should be mostly obscured or replaced by a plain soft-edged rectangular skin-tone privacy block centered over the face. Add minimalist white editorial text: top left reads “WHITE” on one line, “VISION” below it, and a small dash underneath; top right reads “PLAYFUL”; left side vertical text reads “STUDIO EDIT”; bottom left reads “VOL. 01”; bottom right reads “2024 COLLECTION”. Keep the composition intimate, symmetrical, luminous, soft, and tasteful, with no extra objects, no watermark, and no additional text.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2067253581439521197) | 2026-06-17
+
+---
+
+### 🎨 例 1780：中国传统水墨画风格嫦娥
+
+![中国传统水墨画风格嫦娥](../../images/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%B0%B4%E5%A2%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%AB%A6%E5%A8%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+中国传统水墨画风格演绎 {argument name="subject" default="嫦娥奔月"}，富有表现力的黑色墨迹笔触，柔和的渐变，诗意般的简洁，极简主义构图，大面积留白
+
+[English]
+Traditional Chinese ink wash interpretation of {argument name="主题" default="嫦娥奔月"}, expressive black ink brushstrokes, soft gradients, poetic simplicity, minimalist composition, large areas of untouched white space
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2067242943220416762) | 2026-06-17
+
+---
+
+### 🎨 例 1798：彩虹发色猫娘插画
+
+![彩虹发色猫娘插画](../../images/%E5%BD%A9%E8%99%B9%E5%8F%91%E8%89%B2%E7%8C%AB%E5%A8%98%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、{argument name="キャラクター" default="虹色の髪の麗しい猫耳少女と、優しい猫耳のお友達"}を描いた手描き風イラストを見てみたいです。Midjourney 風の油絵っぽいパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2067178722571309555) | 2026-06-17
+
+---
+
+### 🎨 例 1801：晨间水疗养生 JSON
+
+![晨间水疗养生 JSON](../../images/%E6%99%A8%E9%97%B4%E6%B0%B4%E7%96%97%E5%85%BB%E7%94%9F%20JSON.jpg)
+
+**Prompt:**
+
+```text
+{
+  "image_generation": {
+    "subject": {
+      "description": "{argument name="subject description" default="young woman in a peaceful self-care moment"}",
+      "expression": "calm, serene, at ease",
+      "face": "natural features with a {argument name="face mask type" default="gray clay face mask"} applied smoothly",
+      "skin": "natural skin tone, soft texture"
+    },
+    "hair": {
+      "style": "hair wrapped in a white towel turban",
+      "appearance": "clean, spa-inspired look"
+    },
+    "outfit": {
+      "clothing": "white fluffy bathrobe",
+      "style": "cozy, minimal, spa aesthetic",
+      "accessories": "small gold hoop earrings, delicate gold chain necklace"
+    },
+    "pose": {
+      "hands": "one hand cradling a ceramic mug, other hand resting lightly against the temple",
+      "posture": "upright, relaxed"
+    },
+    "props": {
+      "mug": "{argument name="prop description" default="white ceramic mug featuring a cute cat illustration"}",
+      "theme": "morning wellness, self-care ritual"
+    },
+    "environment": {
+      "setting": "bright indoor space beside a window",
+      "background": "soft white wall bathed in natural window light with lush green houseplant",
+      "mood": "serene, fresh, uncluttered"
+    },
+    "lighting": {
+      "type": "natural daylight",
+      "direction": "side light streaming through window",
+      "effect": "gentle shadows, warm highlights"
+    },
+    "camera": {
+      "style": "lifestyle photography",
+      "angle": "medium close-up",
+      "focus": "crisp subject focus with softly blurred background",
+      "quality": "high-resolution, photorealistic"
+    },
+    "aesthetic": {
+      "theme": "self-care, wellness, morning routine",
+      "color_palette": "soft whites, warm neutrals, earthy greens",
+      "vibe": "clean, tranquil, effortlessly luxurious"
+    }
+  }
+}
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2067172534420971593) | 2026-06-17
+
+---
+
+### 🎨 例 1828：黑色背景下的严肃表情
+
+![黑色背景下的严肃表情](../../images/%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E4%B8%A5%E8%82%83%E8%A1%A8%E6%83%85.jpg)
+
+**Prompt:**
+
+```text
+背景{argument name="背景" default="黒塗り"}で{argument name="表情" default="真顔"}、{argument name="感情" default="躊躇い"}を前後で表現する
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2067090741474816488) | 2026-06-17
+
+---
+
+### 🎨 例 1845：霓虹蝴蝶仙子舞者
+
+![霓虹蝴蝶仙子舞者](../../images/%E9%9C%93%E8%99%B9%E8%9D%B4%E8%9D%B6%E4%BB%99%E5%AD%90%E8%88%9E%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 比例的竖版超精细动漫奇幻插画，画面中有一位空灵的舞者，被密集的发光水晶蝴蝶、花瓣和魔法光迹所环绕。画面中的女性主体拥有 {argument name="hair color" default="飘逸的长棕色秀发"}，发丝向左侧戏剧性地飘动，她面容宁静，侧脸向上，双眼半闭，姿态优雅地拱起，双臂向上向外伸展，仿佛沉浸在音乐中漂浮。她身着华丽的花卉仙子舞者服装，由无数宝石般的花朵、半透明花瓣、藤蔓和闪烁的细丝组成，层叠的裙摆化作丝带、蝴蝶翅膀和发光的花朵碎片。画面边缘填满数百只发光的蝴蝶和花朵形状，色调采用 {argument name="color palette" default="电光紫、洋红色、青色、蓝宝石色、金色、橙色和亮粉色"}，环绕着她的身体和头发形成旋转的圆形构图。运用强烈的霓虹生物发光照明、闪烁的高光、棱镜玻璃质感、虹彩翅膀、金色的丝状弧线、星光般的闪烁效果以及极繁主义的细节。氛围狂喜、梦幻且充满魔力，宛如一场天上的花卉节或蝴蝶星云。画面需高度精炼、清晰、鲜艳且复杂，无文字、无边框、无水印，且无多余角色。
+
+[English]
+Create a vertical 2:3 ultra-detailed anime fantasy illustration of one ethereal dancing woman surrounded by a dense storm of luminous crystal butterflies, flower petals, and magical light trails. The single female subject has {argument name="hair color" default="long flowing dark brown hair"} streaming dramatically to the left, a serene upward-facing profile, closed or half-closed eyes, and a graceful arched pose with both arms extended above and outward as if floating in music. She wears an ornate floral fairy-dancer costume made of countless jewel-like blossoms, translucent petals, vines, and sparkling filigree, with a flowing layered skirt that dissolves into ribbons, butterfly wings, and glowing floral fragments. Fill the entire frame edge to edge with hundreds of radiant butterflies and flower shapes in {argument name="color palette" default="electric violet, magenta, cyan, sapphire blue, gold, orange, and hot pink"}, with swirling circular composition lines wrapping around her body and hair. Use intense neon bioluminescent lighting, glittering highlights, prismatic glass textures, iridescent wings, golden threadlike arcs, star-like sparkles, and maximalist detail. The mood is ecstatic, magical, and dreamlike, like a celestial flower festival or butterfly nebula. Make the image highly polished, sharp, vibrant, and intricate, with no text, no border, no watermark, and no extra characters.
+```
+
+**来源：** [@魚谷真](https://x.com/uuu3ooo/status/2067066835397480852) | 2026-06-17
+
+---
+

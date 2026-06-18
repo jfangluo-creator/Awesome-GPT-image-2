@@ -3466,3 +3466,111 @@ Ultra-realistic, 8K resolution, award-winning editorial photography, Vogue-level
 
 ---
 
+### 🖥️ 例 1779：当代油画风格转换
+
+![当代油画风格转换](../../images/%E5%BD%93%E4%BB%A3%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将以下艺术效果应用于所附图像：当代油画美学，极具细节的厚涂技法，清晰的笔触，三维质感，遍布表面的细微裂纹，现代金缮效果，奢华抽象拼贴，层叠的旧纸张，艺术壁画质感，人物与背景的视觉融合，居中构图，柔和的柔光箱编辑灯光，适度对比度，绘画深度，当代艺术画廊质感，绘画超写实主义，超高清纹理，杰作，博物馆级品质，美术肖像，混合媒介绘画，超精细，8k，优雅奢华美学，精致的编辑艺术作品。
+
+[English]
+Apply the following artistic effect to the attached image: Contemporary oil painting aesthetic with extremely detailed impasto, visible brushstrokes, three-dimensional texture, fine crackle distributed across the entire surface, modern kintsugi effect, luxury abstract collage, layers of worn paper, artistic mural texture, visual integration between figure and background, centered composition, soft softbox editorial lighting, moderate contrast, pictorial depth, contemporary art gallery finish, pictorial hyperrealism, ultra HD texture, masterpiece, museum quality, fine art portrait, mixed media painting, ultra detailed, 8k, elegant luxury aesthetic, sophisticated editorial artwork.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2067243113316569382) | 2026-06-17
+
+---
+
+### 🖥️ 例 1783：电商产品信息图
+
+![电商产品信息图](../../images/%E7%94%B5%E5%95%86%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张高影响力的电商产品信息图，展示“{argument name="product name" default="Apple Pods Pro 3"}” {argument name="product type" default="无线耳机"}。
+
+[English]
+Create a high-impact e-commerce product infographic featuring "{argument name="product name" default="Apple Pods Pro 3"}" {argument name="product type" default="wireless earbuds"}.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2067232749900169306) | 2026-06-17
+
+---
+
+### 🖥️ 例 1797：坠机残骸上的星空咖啡馆
+
+![坠机残骸上的星空咖啡馆](../../images/%E5%9D%A0%E6%9C%BA%E6%AE%8B%E9%AA%B8%E4%B8%8A%E7%9A%84%E6%98%9F%E7%A9%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的奇幻风格插画，主题为 {argument name="scene title" default="失眠男孩与星空咖啡馆"}：在日落时分，一家温馨的旅行咖啡馆建在一架坠毁的银色螺旋桨旧飞机侧面，背景是绚丽的蓝紫色银河。画面比例为 3:4 竖构图，采用绘本风格的动漫质感，温暖的金色灯笼光与粉橙色的黄昏及深邃的星空蓝交织，纹理极其细腻，充满魔幻现实主义色彩，无现代标识或水印。画面中必须包含 4 个角色：1 位留着 {argument name="boy hair color" default="棕色头发"} 的冒险男孩，赤脚坐在飞机机翼上，身穿卷边绿色长裤、白衬衫、背心、靴子，长长的绿色围巾在风中飘动；1 位带透明翅膀的微小发光仙子在他身边盘旋，撒下金色星尘；1 位温柔的咖啡馆店员，留着 {argument name="attendant hair color" default="灰金色头发"}，站在柜台后，穿着米色围裙，手持金属咖啡壶；以及 1 位橙白相间的猫咪经理，直立在柜台前，正伸手去拿发光的星形点心或杯子。飞机应呈现出饱经风霜的机头、左侧巨大的螺旋桨、驾驶舱窗户、划痕、铆钉、小星星贴纸，藤蔓爬满机身，机翼构成咖啡馆的屋顶。咖啡馆柜台摆满了罐子、咖啡豆、玻璃瓶、杯子、星形糕点、货架、悬挂的星星灯笼、圆形金灯、垂下的装饰品和蔓生植物。包含 5 个清晰可见的标识或项目：最左侧有一个带有星星主题路标的小型路牌；咖啡馆内挂着一块黑板菜单，列出“星光咖啡”、“月光拿铁”、“沙丘摩卡”、“夜空滴滤”、“流星热可可”和“暮光茶”等饮品；桌面放着一块写有“今日特调星光拼配”的特价牌；地面放着一块写有“咖啡是杯中的一点星光”的黑板；柜台边缘还有一个小型的装饰性菜单或便签。在咖啡馆周围的底部和右侧前景处，放置 10 簇显眼的盆栽和花盆，外加一张木凳、木箱、落地灯和一条石子路。强调咖啡馆仿佛仍在夜色中穿行，旧飞机的伤痕、菜单边缘、藤蔓和温暖的灯光均以细致的绘本风格呈现。使用 {argument name="overall mood" default="梦幻、怀旧且充满冒险感"} 的氛围以及 {argument name="image quality" default="5k 超高清精细绘本插画"}。
+
+[English]
+Create a highly detailed whimsical fantasy illustration of {argument name="scene title" default="The Sleepless Boy and the Star Cafe"}: a cozy traveling cafe built into the side of an old crashed silver propeller airplane at sunset, under a brilliant blue-purple Milky Way sky. The canvas is vertical 3:4, painterly anime storybook style, warm golden lantern light mixed with pink-orange dusk and deep starry blues, extremely detailed textures, magical realism, no modern signage or watermark. Show exactly 4 living characters: 1 adventurous boy with messy {argument name="boy hair color" default="brown hair"} sitting barefoot on the airplane wing, wearing rolled green trousers, a white shirt, vest, boots, and a long green scarf blowing dramatically in the wind; 1 tiny glowing fairy with translucent wings hovering beside him, scattering golden stardust; 1 gentle cafe attendant woman with {argument name="attendant hair color" default="ash blonde hair"} behind the counter, wearing a cream apron and holding a metal coffee pot; and 1 orange-and-white cat cafe manager standing upright at the counter, reaching toward a glowing star-shaped treat or cup. The airplane should have a weathered nose, large propeller on the left, cockpit windows, scratches, rivets, small star decals, vines crawling over the fuselage, and the wing forming the cafe roof. The cafe counter is packed with jars, coffee beans, glass bottles, cups, pastries shaped like stars, shelves of bottles, hanging star lanterns, round golden lamps, dangling charms, and trailing plants. Include exactly 5 readable sign or board elements: 1 small roadside signpost on the far left with star-themed directional labels, 1 chalkboard menu hanging inside the cafe listing drinks such as "Starlight Coffee," "Moon Milk Latte," "Sand Dune Mocha," "Night Sky Drip," "Meteor Hot Cocoa," and "Twilight Tea," 1 tabletop special sign reading "Today's Special Starlight Blend," 1 floor chalkboard reading "Coffee is a little starlight in a cup," and 1 small decorative menu or note near the counter edge. Surround the cafe with exactly 10 prominent potted plant clusters and flower pots around the base and right foreground, plus a wooden stool, crates, a floor lantern, and a stone path. Emphasize that the cafe feels as if it is still traveling through the night, with the old aircraft wounds, menu edges, vines, and warm lights all rendered with meticulous storybook detail. Use {argument name="overall mood" default="dreamy, nostalgic, and adventurous"} atmosphere and {argument name="image quality" default="5k ultra-detailed painterly illustration"}.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2067180432769396980) | 2026-06-17
+
+---
+
+### 🖥️ 例 1819：四宫格炒年糕对比图
+
+![四宫格炒年糕对比图](../../images/%E5%9B%9B%E5%AE%AB%E6%A0%BC%E7%82%92%E5%B9%B4%E7%B3%95%E5%AF%B9%E6%AF%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张 2x2 的照片级逼真对比网格图，展示四碗令人垂涎的韩式炒年糕。每碗占据一个相等的象限，使用纤细清晰的分割线，且不包含任何文字标签。使用方形画布，采用戏剧性的美食摄影布光、浅景深、高对比度，呈现光泽感十足的韩式辣酱和黑色陶瓷碗。每个象限应展现略有不同的生成美食风格，但保持相同的主题：圆柱形年糕、鱼饼片、葱花、芝麻和水煮蛋装饰。左上象限：黑色碗置于深色磨砂表面，可见上升的热气，年糕裹满鲜红酱汁，顶部中心放有一颗完整的去壳水煮蛋，周围撒有芝麻和葱花。右上象限：从上方近距离拍摄的黑色碗，浓郁的酱汁中堆叠着年糕，中心撒有葱花和芝麻，右侧放有半颗蛋黄鲜艳的水煮蛋，热气较少。左下象限：黑色碗置于深色背景，汤汁浓郁的炒年糕，可见热气，中心有葱花堆，撒有芝麻，右侧放有一颗撒了辣椒粉的完整水煮蛋。右下象限：黑色碗置于质朴的木桌上，温暖的餐厅灯光，光泽感十足的红酱，年糕和长方形鱼饼，中心堆放着葱花和芝麻，右侧放有一颗撒了辣椒粉的完整水煮蛋。让食物看起来浓郁、辛辣且诱人，酱汁和碗具上要有逼真的反光。画面中不要有人物、餐具、标题或水印。
+
+[English]
+Create a photorealistic 2x2 comparison grid of four appetizing bowls of Korean tteokbokki, each occupying one equal quadrant with thin clean dividers and no text labels. Use a square canvas, dramatic food-photography lighting, shallow depth of field, high contrast, glossy spicy red gochujang sauce, and black ceramic bowls. Each quadrant should show a slightly different generated-food style while keeping the same subject: cylindrical rice cakes, fish cake pieces, chopped green onions, sesame seeds, and a boiled egg garnish. Top-left quadrant: black bowl on a dark matte surface, visible steam rising, rice cakes coated in bright red sauce, a whole peeled boiled egg centered on top with sesame seeds, green onions scattered around it. Top-right quadrant: black bowl cropped close from above, dense pile of rice cakes in deep red sauce, chopped scallions and sesame seeds in the center, a halved boiled egg on the right with vivid orange yolk, minimal steam. Bottom-left quadrant: black bowl on a dark background, saucier tteokbokki with abundant red broth, visible steam, green onion mound in the center, sesame seeds, and a whole boiled egg on the right dusted with red pepper. Bottom-right quadrant: black bowl on a rustic wooden table, warm restaurant lighting, glossy red sauce, rice cakes and rectangular fish cakes, central mound of chopped scallions and sesame seeds, whole boiled egg on the right sprinkled with chili powder. Make the food look rich, spicy, and craveable, with realistic reflections on the sauce and bowls. No people, no utensils, no captions, no watermark.
+```
+
+**来源：** [@크레아코퍼레이션](https://x.com/creacorp_/status/2067115838961029597) | 2026-06-17
+
+---
+
+### 🖥️ 例 1821：RX-78-2 屋顶飞行员时尚大片
+
+![RX-78-2 屋顶飞行员时尚大片](../../images/RX-78-2%20%E5%B1%8B%E9%A1%B6%E9%A3%9E%E8%A1%8C%E5%91%98%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张半写实动漫风格的时尚编辑海报，主角是一位 {argument name="character name" default="身份不明的年轻女飞行员"}，全身坐姿位于混凝土屋顶边缘，背景是高耸的 RX-78-2 Gundam 机动战士。女性位于前景中心，留着棕色长卷发，姿态自信放松，单膝抬起，一只手撑在边缘，面部区域留作柔和的中性占位符，以便后续进行换脸。服装：亮面未来感 {argument name="jacket color" default="蓝色"} 飞行员夹克，带有军事徽章和小型印刷标记，内搭纯白 T 恤，黑色战术工装裤配有腰带和多功能袋，黑色露指手套，黑色作战靴，佩戴手表，袖子上有一个红色“飞行前拆除”风格的标签。在她身后，以低角度展示巨大的 RX-78-2 Gundam，呈现超精细的白色装甲板及风化效果、蓝色躯干、红黄色胸部装饰、V 型天线头盔、发光的眼睛、肩部印有 E.F.S.F. 和 WB 102 字样，以及机械关节、通风口、贴纸、划痕，其真实的比例使人类主体显得格外渺小。背景：明亮的电影感蓝天，点缀着稀疏云层，屋顶栏杆下方是遥远的现代城市天际线。在图像上叠加透明的未来感 HUD 海报图形和细白色的技术边框线：精确包含 8 个主要文本/图形块，包括 1 个左上角的大标题块，文字为“RX-78-2 GUNDAM”，1 个左侧小型机器人规格图表块，1 个左侧飞行员资料块，1 个左下角任务/雷达块，1 个底部中央显示四个 100% 进度条的系统检查栏块，1 个右上角地球联邦宇宙军块，文字为“E.F.S.F.”，1 个右侧警告/状态块，以及 1 个右下角 Gundam 蓝图块。采用清晰的编辑级布光、强烈的阳光高光、电影级对比度、超精细纹理、逼真的织物褶皱、金属机甲表面、微妙的镜头光晕、锐利对焦、8K 画质、4:5 竖构图。保持女性和 Gundam 为主体，无额外角色，无水印，无血腥内容，非卡通 Q 版风格。
+
+[English]
+Create a semi-realistic anime fashion editorial poster featuring {argument name="character name" default="an unknown young woman pilot"} seated full-body on a concrete rooftop ledge in front of a towering RX-78-2 Gundam mobile suit. The woman is centered in the foreground with long loose brown hair, confident relaxed posture, one knee raised, one hand resting on the ledge, and the face area left as a soft neutral identity placeholder for later face replacement. Outfit: glossy futuristic {argument name="jacket color" default="blue"} pilot bomber jacket with military patches and small printed markings, plain white T-shirt, black tactical cargo pants with belts and utility pouches, black fingerless gloves, black combat boots, wristwatch, and a small red remove-before-flight style tag on the sleeve. Behind her, show the massive RX-78-2 Gundam from a low-angle perspective, ultra-detailed white armor panels with weathering, blue torso, red and yellow chest accents, V-fin helmet, glowing eyes, shoulder markings reading E.F.S.F. and WB 102, mechanical joints, vents, decals, scratches, and realistic scale dwarfing the human subject. Background: bright cinematic blue sky with scattered clouds and a distant modern city skyline below the rooftop railing. Overlay the image with transparent futuristic HUD poster graphics and thin white technical frame lines: exactly 8 main text/graphic blocks including 1 large top-left title block reading “RX-78-2 GUNDAM”, 1 small left robot specification diagram block, 1 left pilot profile block, 1 bottom-left mission/radar block, 1 bottom-center system check bar block showing four 100% bars, 1 top-right Earth Federation Space Force block reading “E.F.S.F.”, 1 right warning/status block, and 1 bottom-right Gundam blueprint block. Use crisp editorial lighting, strong sun highlights, cinematic contrast, ultra-detailed textures, realistic fabric folds, metallic mecha surfaces, subtle lens flare, sharp focus, 8K quality, vertical 4:5 composition. Keep the woman and Gundam dominant, no extra characters, no watermark, no gore, no cartoon chibi style.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2067107510558040069) | 2026-06-17
+
+---
+
+### 🖥️ 例 1833：日本街头风格抓拍
+
+![日本街头风格抓拍](../../images/%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%A0%BC%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+年轻的 {argument name="nationality" default="日本"} 女孩，留着深棕色长直发和柔和的刘海，身穿 {argument name="outfit" default="修身黑色 T 恤、灰色百褶短裙、灰色袜子和浅蓝色拖鞋"}，随意地站在绿树成荫的安静马路旁的人行道上。身体微微前倾，带着可爱自然的微笑，手里拎着一个透明托特包，上面挂着一个小毛绒挂件。采用略微俯视的智能手机拍摄视角，日常休闲抓拍，姿态自然，非专业模特摆拍。柔和的阴天自然光，真实的皮肤质感，未经修饰的手机照片，轻微的镜头畸变，自然色彩，普通的街道背景，社交媒体抓拍氛围，iPhone 摄像头画质，手持拍摄，构图不完美，真实的阴影，自发的瞬间，真实的移动摄影，照片级真实感，无单反相机质感，无影棚灯光，无电影级调色，无过度模糊，休闲生活美学。
+
+[English]
+Young {argument name="nationality" default="Japanese"} girl with long straight dark brown hair and soft bangs, wearing a {argument name="outfit" default="fitted black t-shirt, gray pleated mini skirt, gray socks, and light blue slippers"}, standing casually on the sidewalk beside a quiet road lined with green trees. Slightly leaning forward with a cute natural smile, holding a transparent tote bag with a small plush keychain. Captured from a slightly high-angle smartphone camera perspective, casual everyday snapshot, natural pose, no professional modeling. Soft overcast daylight, realistic skin texture, unedited phone photo, slight lens distortion, natural colors, ordinary street background, candid social-media vibe, iPhone camera quality, handheld shot, imperfect framing, realistic shadows, spontaneous moment, authentic mobile photography, photorealistic, no DSLR look, no studio lighting, no cinematic grading, no heavy blur, casual lifestyle aesthetic.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2067085253827576285) | 2026-06-17
+
+---
+

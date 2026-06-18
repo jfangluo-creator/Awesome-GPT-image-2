@@ -4915,3 +4915,171 @@ paper doll fashion, wearable sketch art, colored pencil texture, mixed media ill
 
 ---
 
+### 🏷️ 例 1764：仙侠女子远眺云雾山峦秘境
+
+![仙侠女子远眺云雾山峦秘境](../../images/%E4%BB%99%E4%BE%A0%E5%A5%B3%E5%AD%90%E8%BF%9C%E7%9C%BA%E4%BA%91%E9%9B%BE%E5%B1%B1%E5%B3%A6%E7%A7%98%E5%A2%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极具史诗感的电影级奇幻风景画，采用高度细腻的写实绘画风格，呈现中国仙侠意境。一位孤独的 {argument name="character description" default="背影优雅的中国古代女子"} 站在山崖边缘的高耸石台上，在日出时分凝视着下方广袤的云雾秘境。她身着层叠飘逸的 {argument name="robe color" default="青色与浅白色丝绸长袍"}，饰有华丽的金色花卉刺绣，长长的半透明袖摆和丝带在风中剧烈飘动；她的一头乌黑长发半挽，戴着精致的银色发饰，发丝随风向一侧飞扬。在她周围及前景两侧，环绕着两幅巨大的展开卷轴或丝绸山水画，左侧卷轴向上卷曲，右下侧卷轴横向铺开，羊皮纸表面绘有淡淡的水墨山峦，边缘镶有金边，使整个场景宛如一幅活生生的画卷。下方展现出一座宏伟的神话山谷，无数嶙峋的喀斯特峰林、漂浮的云层与雾气、蜿蜒的河流与湖泊倒映着阳光，山间隐约可见村庄或宫殿屋顶，远处的山脉在水汽氤氲中渐行渐远。{argument name="time of day" default="金色日出"} 的光芒从上方中央的云层中穿透而出，将温暖的霞光洒在水面上，而前景则保持着冷色调的阴影。采用广角宏大构图，女子位于左下三分之一处，背对镜头，强调纵深感，营造体积雾、柔和的耶稣光、细腻的织物纹理，呈现中国古代奇幻意境，氛围宁静而令人敬畏，环境极其精细，电影级布光，无现代物体，无文字，无水印。
+
+[English]
+Create an epic cinematic fantasy landscape in a highly detailed painterly-realistic Chinese xianxia style. A lone {argument name="character description" default="elegant ancient Chinese woman viewed from behind"} stands on a high stone terrace at the edge of a mountain cliff, gazing out over a vast mist-filled realm at sunrise. She wears layered flowing {argument name="robe color" default="teal and pale white silk robes"} with ornate gold floral embroidery, long translucent sleeves and scarves streaming dramatically in the wind; her very long black hair is half-up with delicate silver hair ornaments and loose strands blowing sideways. Around her and partly framing the foreground are two enormous unfurled painted scrolls or silk landscape paintings, one curling up on the left and one sweeping in from the lower right, their parchment surfaces decorated with faint ink-wash mountains and gold-trimmed edges, making the scene feel like a living painting. The view below shows a grand mythic valley with countless jagged karst peaks, floating layers of clouds and fog, winding rivers and lakes reflecting the sun, tiny villages or palace rooftops nestled among mountains, distant bridges of water and land, and blue-gray mountain ranges fading into atmospheric haze. The {argument name="time of day" default="golden sunrise"} breaks through dramatic clouds near the upper center, casting warm radiant light across the water while the foreground remains cool blue and shadowed. Use a wide-angle grand scale composition, the woman positioned in the lower left third facing away, strong depth, volumetric mist, soft god rays, intricate fabric detail, ancient Chinese fantasy mood, serene and awe-inspiring atmosphere, ultra-detailed environment, cinematic lighting, no modern objects, no text, no watermark.
+```
+
+**来源：** [@Afu Wang](https://x.com/tudou0219/status/2067268429346914732) | 2026-06-17
+
+---
+
+### 🏷️ 例 1785：背靠背双剑战士
+
+![背靠背双剑战士](../../images/%E8%83%8C%E9%9D%A0%E8%83%8C%E5%8F%8C%E5%89%91%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅概念名为“双剑合璧”的戏剧性竖构图奇幻插画：两名身披铠甲的剑士背靠背站立，构图紧凑，每人手持一把华丽的长剑直立向上，画面中总共包含 2 名战士和 2 把清晰可见的长剑。左侧战士位于前景，身体略微朝左，拥有随风飘逸的 {argument name="left warrior hair color" default="浅金色"} 头发，身穿银色中世纪板甲，细节处可见锁子甲，左侧边缘竖立着一把长剑，面部被一个 {argument name="left face block color" default="暖米色"} 的大块平整不透明正方形遮盖。右侧战士位于后方，身体朝右，拥有随风飘逸的长发，铠甲颜色较深，右侧边缘竖立着第二把长剑，面部被一个 {argument name="right face block color" default="深棕黑色"} 的大块平整不透明正方形遮盖。采用高对比度的水墨漫画风格，结合粗犷的半色调网点、喷溅涂料、凌乱的线条以及爆发性的混合媒介质感。画面氛围在左侧的明亮灰白色与热粉色喷溅，以及右侧的深黑色与电光蓝喷溅之间进行分割，营造出光影对称碰撞的效果。铠甲应具备高度细节，呈现磨损的金属高光、雕刻精美的剑柄、紧握武器的戴手套双手，以及横跨画面的动态发丝。画面中不应包含可辨认的文字、标志、边框或额外角色，请确保遮盖面部的两个正方形保持为干净平整的矩形。
+
+[English]
+Create a dramatic vertical fantasy illustration titled conceptually “mutual swords”: two armored sword warriors standing back-to-back in a tight cropped composition, each holding one ornate longsword upright, for a total of exactly 2 warriors and exactly 2 visible swords. The left warrior is in the foreground facing slightly left, with wild windblown {argument name="left warrior hair color" default="pale blond"} hair, silver medieval plate armor, chainmail details, a raised sword along the left edge, and a large flat opaque square covering the face in a {argument name="left face block color" default="warm beige"} tone. The right warrior is slightly behind and facing right, with long dark windblown hair, darker armor, a second upright sword along the right edge, and a large flat opaque square covering the face in a {argument name="right face block color" default="dark brown black"} tone. Use a high-contrast ink-and-paint comic style with gritty halftone dots, splattered paint, scratchy linework, and explosive mixed-media texture. Split the mood between bright off-white and hot pink splashes on the left side and deep black with electric blue splashes on the right side, creating a symmetrical clash of light and shadow. The armor should be highly detailed with worn metal highlights, engraved sword hilts, gloved hands gripping the weapons, and dynamic hair strands crossing the image. No readable text, no logo, no border, no extra characters, preserve the two face-covering squares as clean flat rectangles.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2067227475680415942) | 2026-06-17
+
+---
+
+### 🏷️ 例 1804：香港赛博朋克 Vespa 骑手
+
+![香港赛博朋克 Vespa 骑手](../../images/%E9%A6%99%E6%B8%AF%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Vespa%20%E9%AA%91%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感竖屏动漫风格插画，画面中 {argument name="character name" default="一位优雅的年轻女性"} 在夜晚骑着一辆奶油色复古 Vespa 风格踏板车，停在雨后的香港街道上。她留着 {argument name="hair color" default="带有鲜艳红色挑染的铂金白发"}，发型是凌乱随性的盘发，垂下几缕发丝并系着丝带，戴着精致的耳环，双手扶在车把上，摆出自信的时装模特姿势。她的面部被一个哑光棕色的纯色长方形遮挡块刻意遮住，遮挡块位于面部正中央。她身穿一件光泽感紧身白色中式旗袍短裙，配有红色滚边、盘扣、高领、无袖设计、胸前深菱形镂空，以及露出单侧大腿的高开叉。踏板车位于前景正中，配有镀铬后视镜和车把、发光的圆形前大灯、淡薄荷奶油色车身以及清晰可见的 Vespa 风格徽标；画面需包含踏板车漆面和镀铬件上的湿润倒影。背景是密集的赛博朋克城市大道，高楼林立，地面湿润，车灯拖影，霓虹招牌密布；画面中必须包含 4 个清晰可见的标志性招牌：左侧一个巨大的红色竖排招牌，文字为 {argument name="left neon sign text" default="香港永盛電子公司"}，背景中央一个青色竖排招牌，文字为 {argument name="center neon sign text" default="東方銀行"}，右侧一个小巧的红色方形招牌，文字为 {argument name="right neon sign text" default="YK 茶餐廳"}，以及一个显示女性肖像的数字广告牌。采用戏剧性的低角度透视，轻微的荷兰式倾斜，超精细的光泽感光效，蓝色与洋红色的霓虹轮廓光，逼真的雨水倒影，浅景深，高对比度，精致的 gpt-image-2 动漫写实风格，画面中不包含额外角色，无水印，除指定的招牌外不包含任何额外文字。
+
+[English]
+Create a cinematic vertical cyberpunk glamour illustration of {argument name="character name" default="a stylish young woman"} sitting astride a vintage cream Vespa-style scooter on a rainy Hong Kong street at night. She has pale skin, long messy {argument name="hair color" default="platinum white hair with vivid red streaks"} tied up with loose flyaway strands, red-and-black hair accessories, earrings, and a confident fashion-model pose with both hands on the handlebars. Her face is deliberately obscured by a plain centered rectangular censor block in muted taupe, covering the eyes, nose, and mouth. She wears a glossy tight {argument name="dress color" default="ivory white"} cheongsam-inspired mini dress with red piping, frog closures, a high collar, sleeveless cut, deep keyhole neckline, fitted waist, and high side slit. The scooter is front-facing in the foreground with chrome mirrors and handlebars, a glowing round headlight, wet reflections on the bodywork, a small front badge, and a cursive Vespa-like logo. The background is a dense neon cityscape with tall skyscrapers, wet asphalt, reflections of pink, cyan, and red lights, light traffic, and exactly four prominent readable sign elements: a large vertical red Chinese neon sign on the left reading 「香港永盛電子公司」, a vertical cyan sign in the mid-background reading 「東方銀行」, a red square sign on the right reading “YK” with small Chinese characters beneath, and a small illuminated billboard showing a woman's face. Use a dramatic low-angle three-quarter composition, slightly tilted camera, shallow depth of field, high-detail anime-realistic rendering, glossy highlights, volumetric night atmosphere, rain-slick streets, strong rim lighting, and saturated cyberpunk colors. Keep the image vertical {argument name="aspect ratio" default="2:3"}, polished, detailed, and cinematic; avoid extra limbs, distorted hands, illegible random text, watermarks, or additional characters.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2067170294729785823) | 2026-06-17
+
+---
+
+### 🏷️ 例 1808：泰坦墙上的写实侦察兵
+
+![泰坦墙上的写实侦察兵](../../images/%E6%B3%B0%E5%9D%A6%E5%A2%99%E4%B8%8A%E7%9A%84%E5%86%99%E5%AE%9E%E4%BE%A6%E5%AF%9F%E5%85%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个受《进击的巨人》启发的电影级写实场景：一名年轻的调查兵团女士兵 {argument name="character name" default="三笠·阿克曼"} 站在巨大的中世纪石墙顶端，采用 9:16 的竖构图，从后上方视角拍摄。她留着 {argument name="hair color" default="黑色"} 的齐肩短发，在风中微微飘动；身穿棕色调查兵团短夹克，背部和一侧袖口清晰可见“自由之翼”徽章，穿着白色战术长裤和深色背带，脚蹬棕色高筒皮靴，腰间配备完整的立体机动装置。她双手各握一把长钢刃，腰部周围挂满了笨重的瓦斯罐、缆绳卷轴、金属盒、扳机、管线及各种机械细节。石墙向左侧延伸，布满了粗糙的风化石块、城垛和堡垒塔楼。墙下是广阔的绿色峡谷，点缀着森林、泥土小径、村庄、连绵起伏的丘陵和蓝色的山脉，天空明亮且云层稀疏。峡谷中需包含 8 个可见的泰坦：右侧地平线附近有 1 个巨大的远景泰坦，中右侧有 2 个站立的中景泰坦，中心附近有 1 个较小的行走泰坦，右下方有 2 个前景泰坦，中下方峡谷有 1 个蹲伏或爬行的泰坦，以及树丛中 1 个极小的远景泰坦。画面需呈现戏剧性的真实比例、史诗般的冒险氛围、自然日光、清晰的前景细节、远处的空气感薄雾、电影剧照质感、写实纹理；禁止使用动漫绘画风格，禁止添加标题或水印。
+
+[English]
+Create a cinematic photorealistic scene inspired by Attack on Titan: a young female Scout Regiment soldier named {argument name="character name" default="Mikasa Ackerman"} stands on top of a massive medieval stone wall, viewed from behind and slightly above in a vertical 9:16 composition. She has {argument name="hair color" default="black"} shoulder-length hair blowing lightly in the wind and wears the brown Survey Corps cropped jacket with the Wings of Freedom emblem clearly visible on the back and on one sleeve, white tactical pants with dark harness straps, tall brown leather boots, and full 3D maneuver gear at her waist. She grips two long steel blades, one in each hand, with bulky gas canisters, cable reels, metal boxes, triggers, tubes, and mechanical details attached around her hips. The wall stretches into the distance on the left with rough weathered stones, battlements, and a fortress tower. Below and beyond the wall is a vast green valley with forests, dirt paths, villages, rolling hills, and blue mountains under a bright partly cloudy sky. Include exactly 8 visible Titans in the valley: 1 enormous distant Titan near the horizon on the right, 2 mid-distance standing Titans near the center-right, 1 smaller Titan walking near the center, 2 foreground Titans at the lower right, 1 crouched or crawling Titan in the mid-lower valley, and 1 tiny far Titan among the trees. Use dramatic realistic scale, epic adventure mood, natural daylight, sharp foreground detail, atmospheric haze in the distance, film still quality, realistic textures, no anime drawing style, no captions, no watermark.
+```
+
+**来源：** [@Share Prompt Free (Prompt hay miễn phí)](https://x.com/hongthich22470/status/2067159718901235783) | 2026-06-17
+
+---
+
+### 🏷️ 例 1811：惊慌失措的爱丽丝梦游仙境追逐战
+
+![惊慌失措的爱丽丝梦游仙境追逐战](../../images/%E6%83%8A%E6%85%8C%E5%A4%B1%E6%8E%AA%E7%9A%84%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83%E8%BF%BD%E9%80%90%E6%88%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高细节的动态动漫插画，描绘 {argument name="character name" default="Alice"} 在奇幻的“仙境”花园中，仿佛正惊慌失措地向观众奔跑而来。她是一位金发碧眼的年轻女孩，留着飘逸的长发，拥有明亮的绿松石色双眼、泛红的双颊，脸上挂着细小的泪珠和汗珠，嘴巴因惊恐而微张，头顶系着一个巨大的黑色蝴蝶结。她身穿经典的蓝白配色爱丽丝女仆风连衣裙：蓝色泡泡袖、白色荷叶边围裙、多层褶皱裙摆、黑色颈饰蝴蝶结、带有小纽扣的白色袖口、白色过膝袜以及黑色玛丽珍鞋。采用戏剧性的低角度特写构图，展现身体的透视缩短效果，一只拳头紧握在胸前，另一只手臂向后挥动，裙摆和头发因运动而飞扬。背景是柔和的奇幻茶会小径，包含 7 个显著的背景/物体元素：左下方 1 个巨大的茶杯和茶托，左前下方 1 个金色怀表/时钟，左侧 1 朵红色的心形花朵或灌木造型，右下方 1 朵巨大的粉色花朵，1 条红白格纹花园小径，左侧 1 个手持红桃 A 扑克牌的显眼扑克牌士兵，以及中心附近 1 个模糊的撑伞背景人物。顶部添加卷曲的树枝作为框架，点缀绿叶、漂浮的花瓣、右侧金色的棋子状装饰，以及柔和的焦外成像深度。风格应为精致的现代日本动漫，可爱而慌乱，线条清晰，高光亮泽，色彩柔和清新，具有电影般的动感、浅景深以及明亮空灵的童话氛围。保持图像为竖构图，全彩，无标题，无水印，无额外文字。
+
+[English]
+Create a dynamic high-detail anime illustration of {argument name="character name" default="Alice"} in a whimsical Wonderland garden, as if she is sprinting toward the viewer in panic. She is a young blonde girl with long flowing hair, bright turquoise-blue eyes, flushed cheeks, tiny tears and sweat drops, an open frightened mouth, and a huge black bow on top of her head. She wears a classic blue-and-white Alice maid-style dress: blue puff sleeves, white frilled apron, layered ruffled skirt, black neck bow, white wrist cuffs with small buttons, white thigh-high stockings, and black Mary Jane shoes. Use a dramatic low-angle close-up composition with her body foreshortened, one fist clenched near her chest and one arm thrown back, skirt and hair flying from motion. The setting is a pastel fantasy tea-party path with exactly 7 notable background/object elements: 1 large teacup and saucer in the lower left, 1 gold pocket watch/clock in the lower left foreground, 1 red heart-shaped flower or topiary on the left, 1 large pink flower in the lower right, 1 red-and-white checkered garden path, 1 prominent playing-card soldier holding an ace-of-hearts card on the left, and 1 blurred background figure with a parasol near the center. Add curled tree branches framing the top, leafy greenery, floating petals, golden chess-piece-like ornaments on the right, and soft bokeh depth. Style should be polished modern Japanese anime, cute but frantic, with clean line art, glossy highlights, soft pastel colors, cinematic motion, shallow depth of field, and a bright airy fairytale atmosphere. Keep the image vertical, full color, no captions, no watermark, no extra text.
+```
+
+**来源：** [@雨宮さん家@幼女ぱんつの人](https://x.com/RAmue34993/status/2067149575484506476) | 2026-06-17
+
+---
+
+### 🏷️ 例 1817：手持打火机的忧郁肖像
+
+![手持打火机的忧郁肖像](../../images/%E6%89%8B%E6%8C%81%E6%89%93%E7%81%AB%E6%9C%BA%E7%9A%84%E5%BF%A7%E9%83%81%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请 100% 使用上传照片中的面部。创作一张超写实、充满忧郁感的肖像，主角为 {argument name="subject" default="年轻男子"}，背景为 {argument name="environment" default="黑暗环境"}。他留着潮湿凌乱的头发，佩戴着 {argument name="accessories" default="长方形太阳镜"}。他双手合拢靠近面部，正用一个复古金属打火机点燃香烟。突如其来的温暖金黄色火焰照亮了他面部的下半部分，投射出深邃且富有戏剧性的明暗对比阴影。烟雾刚刚开始袅袅升起。重点刻画他手部的纹理、打火机的火花、香烟燃烧的尖端，以及手指上可见的黑色金属戒指。身穿深色皮夹克。电影级写实感，触感纹理，85mm f/1.4 镜头质感。请勿更改面部。
+
+[English]
+Use 100% face above uploaded photo. Create an ultra-realistic, moody portrait of the {argument name="subject" default="young man"} in a {argument name="environment" default="dark environment"}. He has damp messy hair and wears {argument name="accessories" default="rectangular sunglasses"}. He is cupping his hands close to his face to light a cigarette with a vintage metal lighter. A sudden, warm golden flame illuminates the lower half of his face, casting deep, dramatic chiaroscuro shadows. Smoke is just beginning to curl upwards. Focus intensely on the texture of his hands, the spark of the lighter, the burning tip of the cigarette, and the metallic black-stone ring visible on his finger. Dark leather jacket. Cinematic realism, tactile texture, 85mm f/1.4 lens feel. Don't change the face.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2067119041647636768) | 2026-06-17
+
+---
+
+### 🏷️ 例 1827：写实风格便利店生活照
+
+![写实风格便利店生活照](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的抓拍生活照，展现了一位年轻女性在灯火通明的便利店过道购物的场景。侧面视角，中景全身照。她站在摆满琳琅满目个人护理和家居用品的货架之间，一手拿着一个小瓶子，另一手拿着另一件商品，正在仔细阅读标签。{argument name="hair style" default="深色头发扎成随意的丸子头"}，头顶架着一副太阳镜，戴着小耳环，妆容自然。身穿一件修身的 {argument name="top color" default="米色/杏色"} 圆领短袖上衣和 {argument name="leggings color" default="浅灰色"} 打底裤。肩上背着一个大号花纹设计师款托特包。干净现代的便利店内部，天花板上有荧光灯，过道狭窄，两侧均为货架，呈现真实的零售环境。表情自然真实，专注于对比商品。浅景深，背景柔和虚化，真实的皮肤纹理，高细节，纪实摄影风格，35mm 镜头，平视视角，超写实，RAW 照片画质，自然色彩，焦点清晰，4K。
+
+竖构图 (4:5)，主体位于画面偏左，侧身面向右侧货架，东南亚室内便利店，日常购物瞬间，非摆拍的抓拍美学，柔和的漫射荧光灯，真实的阴影，地道的零售氛围。
+
+[English]
+Photorealistic candid lifestyle photo of a young woman shopping in a brightly lit convenience store aisle. Side profile view, medium-full body shot. She is standing between shelves filled with colorful personal care and household products, carefully reading the label of a small bottle in one hand while holding another product in the other. {argument name="hair style" default="Dark hair tied in a casual messy bun"}, sunglasses resting on top of her head, small earrings, neutral makeup. Wearing a fitted {argument name="top color" default="cream/beige"} scoop-neck short-sleeve top and {argument name="leggings color" default="light gray"} leggings. Large patterned designer-style tote bag hanging from her shoulder. Clean modern convenience store interior with fluorescent ceiling lights, narrow aisle, product shelves on both sides, realistic retail environment. Natural candid expression, focused on comparing products. Shallow depth of field, soft background blur, realistic skin texture, high detail, documentary photography style, 35mm lens, eye-level perspective, ultra-realistic, RAW photo quality, natural colors, sharp focus, 4K.
+
+Vertical composition (4:5), subject centered slightly left of frame, side-facing toward the right shelf, indoor convenience store in Southeast Asia, casual everyday shopping moment, unposed snapshot aesthetic, soft diffused fluorescent lighting, realistic shadows, authentic retail atmosphere.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2067091219084443919) | 2026-06-17
+
+---
+
+### 🏷️ 例 1836：动漫角色概念设计图
+
+![动漫角色概念设计图](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端 {argument name="style" default="动漫角色设计项目"}，{argument name="subject" default="极限运动女主角概念设计图"}，跳伞生活方式品牌吉祥物，高级主视觉大师插画，日式角色设定集页面，现代收藏级角色设计，超精细动漫风格
+
+[English]
+high-end {argument name="style" default="anime character design board"}, {argument name="subject" default="extreme-sports heroine concept sheet"}, skydiving lifestyle brand mascot, premium key-art master illustration, Japanese-style character bible page, modern collectible character design, ultra-detailed anime
+```
+
+**来源：** [@Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk/status/2067081794101366971) | 2026-06-17
+
+---
+
+### 🏷️ 例 1849：超现实天文台景观
+
+![超现实天文台景观](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A4%A9%E6%96%87%E5%8F%B0%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张原创的超现实主义写实社论风格图像，视角位于 {argument name="room style" default="广阔且阴暗的天文台房间"} 内，透过 {argument name="window style" default="巨大的拱形窗户"} 向外望去，远处的地平线上是 {argument name="horizon view" default="不可思议的未来文明"}。
+
+场景：一位孤独的女性
+
+[English]
+Create an original photorealistic surreal editorial image from inside a {argument name="room style" default="vast, shadowed observatory room"}, looking out through a {argument name="window style" default="monumental arched window"} toward an {argument name="horizon view" default="impossible civilization"} on the far horizon.\n\nScene: a lone woman
+```
+
+**来源：** [@Glitter Gal](https://x.com/GlitterPixely/status/2067040227764392156) | 2026-06-17
+
+---
+
