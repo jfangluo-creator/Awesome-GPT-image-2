@@ -4273,3 +4273,138 @@ Create a vertical 2:3 ultra-detailed anime fantasy illustration of one ethereal 
 
 ---
 
+### 🎨 例 1858：足球运动员的进化
+
+![足球运动员的进化](../../images/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E7%9A%84%E8%BF%9B%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级广角写实场景，展示足球运动员在同一片连续的足球场上跨越时间的进化。画面被一道弯曲的发光时间传送门弧线一分为二：左半部分描绘了 19 世纪的场景，包括泥泞的草地、原始的木质看台、灰蒙蒙的天空，以及一群身穿深色大衣、头戴圆顶礼帽的观众；右半部分描绘了现代夜间座无虚席的体育场，配有明亮的泛光灯、LED 项目、大型视频屏幕和修剪整齐的绿色草坪。画面中共有 8 名足球运动员沿着球场向前奔跑：左侧 3 名历史球员身穿宽松的米色衬衫、深色灯笼裤、长袜，脚蹬厚重的靴子，面部略显模糊；中间附近有 1 名过渡时期的早期现代球员，身穿棕色衬衫、白色短裤和深色长袜；右侧 4 名现代精英球员身穿当代运动装备，其中一人穿蓝色球衣，一人穿红蓝相间球衣，一人穿蓝色球衣并印有 11 号，另一人穿白色球衣并印有 10 号。画面中包含 3 个足球：左侧历史球员附近有一个深色的旧皮球，中间奔跑者附近有一个白色足球，底部中心前景处有一个极具戏剧性的发光深色足球，周围环绕着金色光环，仿佛是驱动时间转换的能量源。采用贴近草皮的低机位拍摄，使用浅景深效果，奔跑者带有动态模糊，呈现真实的体育场比例、高对比度光影，并实现从泥泞的维多利亚时代足球到未来感职业运动的无缝左右转换。无标题，无 Logo，无水印。
+
+[English]
+Create a cinematic wide-angle photorealistic scene showing the evolution of soccer players across time on one continuous football pitch. The image is split by a curved glowing time-portal arc: the left half depicts the 19th century with muddy grass, primitive wooden stands, foggy gray sky, and a crowd of men in dark coats and bowler hats; the right half depicts a modern packed stadium at night with bright floodlights, LED boards, big video screens, and a pristine green pitch. Show exactly 8 footballers running forward along the field: 3 historical players on the left wearing loose beige shirts, dark knickerbockers, long socks, and heavy boots with slightly blurred faces; 1 transitional early-modern player near the center wearing a brown shirt, white shorts, and dark socks; and 4 modern elite players on the right wearing contemporary athletic kits, including one in blue, one in a red-and-blue kit, one in blue with number 11, and one in white with number 10. Include exactly 3 soccer balls: one dark old leather ball near the left historical players, one white ball near the center runners, and one dramatic glowing dark ball in the foreground at the bottom center, surrounded by a golden halo as if powering the time transition. Use a low camera angle close to the turf, shallow depth of field, motion blur on the runners, realistic stadium scale, high-contrast lighting, and a seamless left-to-right transformation from muddy Victorian football to futuristic professional sport. No captions, no logos, no watermark.
+```
+
+**来源：** [@Alejandro Martinez | IA](https://x.com/copyelpadrino/status/2067691133929422951) | 2026-06-18
+
+---
+
+### 🎨 例 1859：足球场演变场景
+
+![足球场演变场景](../../images/%E8%B6%B3%E7%90%83%E5%9C%BA%E6%BC%94%E5%8F%98%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级的广角体育演变场景，通过一张连续的图像展示足球场从过去到现在的历史变迁。画布为 16:9 的横向构图，以球场水平视角呈现，场景通过氛围而非硬性线条进行对角线分割：左半部分是 20 世纪初泥泞的足球场，配有简陋的木质看台、简单的木制球门、阴沉的灰绿色天空，场边有身穿深色外套、头戴礼帽的观众，以及身着宽松米色球衣、长短裤、深色长袜和厚重球靴的复古球员。右半部分是现代夜晚座无虚席的足球场，拥有巨大的弧形顶棚、明亮的 LED 泛光灯、两个清晰可见的巨型视频屏幕、坐满数千名球迷的阶梯看台、整洁的绿色草坪以及正在向前冲刺的现代职业球员。画面中需准确呈现 10 名向观众跑来的足球运动员：左侧为 5 名复古时代球员（包括一名处于中心位置、穿着棕色球衣的过渡球员），右侧为 5 名身穿蓝色、红蓝相间及白色球衣的现代球员，其中两名球员的球衣上印有清晰的 11 号和 10 号。画面中需包含 3 个足球：左侧泥泞的前景中有一个老式深色皮球，中线附近有一个浅色足球，极度靠近前景的时代交界处有一个极具戏剧性的发光足球，周围环绕着如时间隧道般的温暖金色光晕。头顶上方添加一道扫过的圆弧，展示旧球场向现代球场的形态转换，弧线上点缀着橙色的小型箭头状灯光，暗示时间的流逝。整体氛围应宏大、写实、略带超现实感且具有纪录片式的电影质感，跑动中的球员带有动态模糊，左侧呈现湿润的泥土质感，右侧呈现清晰明亮的草地，并包含体积光、球场雾气、浅景深效果，画面中不得出现任何可辨认的文字、Logo、标题或水印。
+
+[English]
+Create a cinematic wide-angle sports evolution scene showing the history of football stadiums transforming from past to present in one continuous image. The canvas is a 16:9 landscape frame at field level, with the scene split diagonally by atmosphere rather than a hard line: the left half is an early 20th-century muddy football ground with small wooden bleachers, simple timber posts, overcast gray-green sky, men in dark coats and hats watching from the sideline, and vintage players in loose beige shirts, long shorts, dark socks, and heavy boots. The right half is a modern packed football stadium at night with a huge curved roof, bright LED floodlights, two visible giant video screens, tiered stands full of thousands of fans, clean green turf, and modern professional players sprinting forward. Show exactly 10 football players running toward the viewer: 5 vintage-era players on the left, including one central brown-shirted transition player, and 5 modern-era players on the right wearing blue, red-and-blue, and white kits, with visible jersey numbers 11 and 10 on two of them. Include exactly 3 footballs: one old dark leather ball in the muddy left foreground, one pale ball near the center line, and one dramatic glowing ball in the extreme foreground at the boundary between eras, surrounded by a warm golden halo like a time portal. Add a sweeping circular arc overhead where the old stadium morphs into the modern stadium, with small orange arrow-like lights along the curve suggesting time progression. The mood should be epic, realistic, slightly surreal, and documentary-cinematic, with motion blur on the running players, wet mud texture on the left, crisp illuminated grass on the right, volumetric light, stadium haze, shallow depth of field, and no readable text, logos, captions, or watermarks.
+```
+
+**来源：** [@Alejandro Martinez | IA](https://x.com/copyelpadrino/status/2067691129575768281) | 2026-06-18
+
+---
+
+### 🎨 例 1865：梦幻虹彩水滴中的动漫少女
+
+![梦幻虹彩水滴中的动漫少女](../../images/%E6%A2%A6%E5%B9%BB%E8%99%B9%E5%BD%A9%E6%B0%B4%E6%BB%B4%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅简洁白底的精致竖版动漫奇幻插画：画面几乎被一颗巨大的透明泪珠状水滴填满，顶部呈尖状，底部圆润，正下方悬挂着一颗微小的独立水滴。水滴内部，展现一位空灵的年轻动漫少女，拥有极长的飘逸 {argument name="hair color" default="银白色"} 秀发、白皙的皮肤和宁静而憧憬的表情，侧身站立并微微回头看向观众。她身穿一件轻盈的及膝 {argument name="dress color" default="半透明白色"} 连衣裙，裙摆层叠褶皱，袖口如蕾丝般精致，柔软的布料仿佛在微风中飘动。水滴内部包含一个发光的梦幻景观，背景是倒映着水面的夕阳：粉色、桃色、淡紫色、青色和金色的柔和云彩，少女身后是发光的地平线，水面上映照出彩虹般的倒影。将水滴渲染得如玻璃般晶莹剔透且带有虹彩效果，弯曲的边缘带有棱镜般的蓝、绿松石、紫、玫瑰红和金色高光，轮廓线条纤细透明，内部有焦散条纹和闪烁的星光。画面包含 1 颗巨大的包裹水滴、1 位少女、1 个反射水面、下方 1 颗微小的悬挂水滴，以及分布在水滴内部或表面的 12 个大小不一的圆形气泡，并点缀着细小的星光。风格：高细节柔和动漫艺术、水彩与发光数字绘画、梦幻柔和色调、半透明玻璃质感、柔和光晕照明、优雅构图，无文字，无水印，无边框。
+
+[English]
+Create a delicate vertical anime fantasy illustration on a clean white background: one enormous transparent teardrop-shaped water droplet fills almost the entire canvas, tapering to a sharp point at the top and a rounded point at the bottom, with one tiny separate dangling droplet directly beneath it. Inside the droplet, show one ethereal young anime girl with very long flowing {argument name="hair color" default="white-silver"} hair, pale skin, and a calm wistful expression, standing in side profile and looking back slightly toward the viewer. She wears one airy knee-length {argument name="dress color" default="white translucent"} dress with layered ruffled hem, lace-like sleeves, and soft fabric drifting as if in a gentle breeze. The interior of the droplet contains a luminous dreamscape sunset over reflective water: pastel clouds in pink, peach, lavender, cyan, and gold, a glowing horizon behind the girl, and mirrored rainbow reflections across the water surface. Render the droplet as glassy and iridescent, with prismatic blue, turquoise, violet, rose, and gold highlights along the curved edges, thin transparent outlines, internal caustic streaks, and sparkling star glints. Include exactly 1 giant enclosing droplet, 1 girl, 1 reflective water plane, 1 tiny dangling droplet below, and 12 visible round air bubbles of varying sizes distributed inside or on the droplet, plus scattered tiny star sparkles. Style: high-detail soft anime art, watercolor and luminous digital painting, dreamy pastel palette, translucent glass, gentle bloom lighting, elegant composition, no text, no watermark, no frame.
+```
+
+**来源：** [@がびねこ](https://x.com/PawprintBit/status/2067642899727335471) | 2026-06-18
+
+---
+
+### 🎨 例 1882：红蓝奇幻剑术对决
+
+![红蓝奇幻剑术对决](../../images/%E7%BA%A2%E8%93%9D%E5%A5%87%E5%B9%BB%E5%89%91%E6%9C%AF%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个名为 {argument name="scene title" default="遭遇对峙"} 的戏剧性竖版奇幻战斗场景：两名战士在阴暗、雨水浸透的战场上近距离兵刃相接。左侧是一名肌肉发达的野蛮人狂战士，留着湿漉漉的长黑发，赤裸的躯干上布满伤疤和泥点，佩戴皮带、原始深色盔甲、锁链和护身符，前景中紧握一把宽大的钢剑；他的脸部被一个深色矩形遮挡块隐藏。右侧是一名光芒四射的女骑士，留着飘逸的金色卷发，身穿抛光的银色板甲，披着深蓝色斗篷，手持长剑进行防御；她的脸部被一个棕褐色矩形遮挡块隐藏。画面中仅展示两名战斗人员和两把清晰可见的剑，一把对角线剑刃占据前景，另一把位于交锋点附近。在中心位置，他们的武器碰撞并爆发出一场对立能量的耀眼爆炸：{argument name="left energy color" default="深红色"} 火花和余烬从野蛮人一侧喷涌而出，而 {argument name="right energy color" default="电光蓝"} 的闪电、粒子和飞溅的魔法碎片从骑士一侧迸发。采用超精细的电影级写实风格，高对比度，湿润的反射表面，飞溅的碎片，动态运动模糊，浅景深，强烈的轮廓光，粗犷的质感，以及混乱的黑暗背景。构图应为方形至竖向，特写动作，野蛮人位于左下方向上突刺，骑士位于右上方向下劈砍或格挡，能量碰撞点位于中心偏右位置。无文字，无水印，无额外字符。
+
+[English]
+Create a dramatic vertical fantasy battle scene titled {argument name="scene title" default="Encounter Confrontation"}: two warriors collide swords at extremely close range in a dark, rain-soaked battlefield. On the left is a muscular barbarian berserker with long wet black hair, bare scarred and mud-splattered torso, leather straps, dark primitive armor, chains and amulets, gripping a broad steel sword in the foreground; his face is hidden by a dark rectangular censor block. On the right is a radiant female knight with flowing curly blonde hair, polished silver plate armor, and a deep blue cape, bracing with a longsword; her face is hidden by a tan rectangular censor block. Show exactly two combatants and exactly two visible swords, one diagonal blade dominating the foreground and another near the clash point. At the center, their weapons collide in a blinding explosion of opposing energy: {argument name="left energy color" default="crimson red"} sparks and embers erupt from the barbarian side, while {argument name="right energy color" default="electric blue"} lightning, particles, and splashing magical fragments burst from the knight side. Use hyper-detailed cinematic realism, high contrast, wet reflective surfaces, flying debris, dynamic motion blur, shallow depth of field, intense rim lighting, gritty texture, and a chaotic dark background. Composition should be square-to-vertical, close-up action, the barbarian low-left lunging upward and the knight upper-right descending or blocking, with the energy clash slightly right of center. No text, no watermark, no extra characters.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2067595598061289737) | 2026-06-18
+
+---
+
+### 🎨 例 1899：猫咪拟人化角色设计
+
+![猫咪拟人化角色设计](../../images/%E7%8C%AB%E5%92%AA%E6%8B%9F%E4%BA%BA%E5%8C%96%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+画像生成。
+うちの猫を擬人化してください。
+人間年齢{argument name="年齢" default="18歳"}の{argument name="性別" default="男性"}。
+髪色は毛色、瞳の色はそのまま瞳孔は人間に寄せてください。
+```
+
+**来源：** [@えりー@aiを遊び倒す](https://x.com/eliy46tierai/status/2067496232512324087) | 2026-06-18
+
+---
+
+### 🎨 例 1910：暗黑女王美学时尚元素
+
+![暗黑女王美学时尚元素](../../images/%E6%9A%97%E9%BB%91%E5%A5%B3%E7%8E%8B%E7%BE%8E%E5%AD%A6%E6%97%B6%E5%B0%9A%E5%85%83%E7%B4%A0.jpg)
+
+**Prompt:**
+
+```text
+{argument name="服饰" default="黑裙"} 、{argument name="武器" default="长剑"} 、{argument name="妆容" default="红唇"} 、蕾丝
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2067462285497614559) | 2026-06-18
+
+---
+
+### 🎨 例 1919：日本女孩公园随拍
+
+![日本女孩公园随拍](../../images/%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%85%AC%E5%9B%AD%E9%9A%8F%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+美丽的年轻日本女孩，拥有 {argument name="hair style" default="深棕色长直发和柔和的齐刘海"}，皮肤白皙，笑容自然灿烂，随意地坐在公园的木长椅上，手里拿着一杯 {argument name="drink" default="冰咖啡"}。身穿 {argument name="outerwear" default="浅米色防风外套"} 和 {argument name="clothing" default="白色百褶短裙"}，姿态放松，一只手搭在长椅上。周围是郁郁葱葱的公园，有高大的树木、新鲜的草地和湛蓝的天空与柔软的云朵。使用智能手机人像模式拍摄，休闲日常随拍，自然日光，手持 iPhone 拍摄，构图略显随意，真实的皮肤质感，自然的色彩，柔和的手机 HDR 处理，社交媒体抓拍美学，非专业模特，无影棚灯光，无电影级调色，真实的移动摄影，普通的公园出游氛围，自发的瞬间，真实的阴影，轻微的镜头柔焦，照片级真实，高质量手机摄影图像。
+
+[English]
+Beautiful young Japanese girl with {argument name="hair style" default="long straight dark brown hair and soft full bangs"}, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an {argument name="drink" default="iced coffee cup"}. Wearing a {argument name="outerwear" default="light beige windbreaker jacket"} and a {argument name="clothing" default="white pleated mini skirt"}, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2067451160991084677) | 2026-06-18
+
+---
+
+### 🎨 例 1923：2026 年夏季发型趋势推文
+
+![2026 年夏季发型趋势推文](../../images/2026%20%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%8F%91%E5%9E%8B%E8%B6%8B%E5%8A%BF%E6%8E%A8%E6%96%87.jpg)
+
+**Prompt:**
+
+```text
+添付のキャラは「{argument name="キャラクター名" default="○○○ちゃん"}」です。2026年夏のトレンドヘアスタイルを徹底的にリサーチし、{argument name="髪型の数" default="7"}つの髪型を紹介するインスタの投稿を作ります。衣装は{argument name="季節感" default="夏らしく"}して。
+```
+
+**来源：** [@アユネオ](https://x.com/Ayu_AI_0912/status/2067442426696872064) | 2026-06-18
+
+---
+

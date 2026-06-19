@@ -3740,3 +3740,83 @@ Create an ultra-detailed vertical fantasy anime illustration of {argument name="
 
 ---
 
+### 🧍 例 1863：城市公园休闲肖像
+
+![城市公园休闲肖像](../../images/%E5%9F%8E%E5%B8%82%E5%85%AC%E5%9B%AD%E4%BC%91%E9%97%B2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张图片，内容为“{argument name="subject" default="一位年轻男子"}（使用参考图像）在夜间的户外公园或城市区域，随意地坐在一个 {argument name="seat" default="巨大的石球"} 上，在路灯的照耀下。他穿着 {argument name="clothing" default="一件袖口卷起的宽松白衬衫，搭配宽松、略带破洞的蓝色牛仔裤"}，脚穿白色运动鞋。他的发型时尚且蓬松。背景呈现出模糊的灯光、绿植和一辆停放的汽车。整体时尚氛围轻松且具有城市感，穿着舒适宽松，姿态自信且现代。”
+
+[English]
+Create image of a "{argument name="subject" default="A young man"} (use refrence image)is sitting casually on a {argument name="seat" default="large stone sphere"} at night in an outdoor park or urban area, illuminated by streetlights. He is wearing a {argument name="clothing" default="loose white shirt with rolled sleeves and loose, slightly baggy blue ripped jeans"}, paired with white sneakers. His hairstyle is trendy and voluminous. The background features blurred lights, greenery, and a parked car. The fashion vibe is relaxed and urban, with comfortable, loose-fitting clothes and a confident, modern pose.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2067643622917550165) | 2026-06-18
+
+---
+
+### 🧍 例 1896：地狱暗影忍者
+
+![地狱暗影忍者](../../images/%E5%9C%B0%E7%8B%B1%E6%9A%97%E5%BD%B1%E5%BF%8D%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直构图的黑暗奇幻电影级插画，描绘一位孤独的 {argument name="character type" default="暗影忍者战士"} 全身像，站在古代日本城市夜晚潮湿的石制屋顶上。人物正面对向前方，姿态强劲有力，身穿层叠的黑色破烂忍者服、围巾、腰带、护臂、宽松的袴式长裤和深色靴子，背部斜插着一把武士刀。面部完全隐藏在深邃的阴影中，如同一个匿名的黑暗虚空，凌乱的黑发在强烈的逆光下勾勒出剪影。头部后方有一个巨大的熔岩橙色发光圆环，宛如日食光环，同时旋绕的黑烟、灰烬、火星和火焰丝带环绕着身体和长袍。背景使用戏剧性的月光天空，左侧有一轮明亮的满月，伴有风暴云、远处的塔楼屋顶和废墟城市的剪影。色调应几乎完全由黑色、炭灰色和余烬橙色组成，具有高对比度的轮廓光，服装上闪烁着熔岩般的能量裂纹，脚下有燃烧的余烬，地面是潮湿且具有反射感的石砖，并伴有浓厚的氛围烟雾。风格：超精细奇幻概念艺术、武士忍者黑暗巫术美学、写实绘画渲染、史诗级海报构图、锐利纹理、体积感火光，无文字，无水印。
+
+[English]
+Create a vertical dark fantasy cinematic illustration of a lone {argument name="character type" default="shadow ninja warrior"} standing full-body on a wet stone rooftop in an ancient Japanese city at night. The figure faces forward in a powerful still pose, wearing layered black tattered shinobi robes, scarf, sash belt, arm wraps, loose hakama-style pants, and dark boots, with one katana sheathed diagonally across the back. The face is completely hidden in deep shadow as an anonymous dark void, with messy black hair silhouetted against intense backlight. Behind the head is one large glowing circular halo of molten orange fire, like an eclipse ring, while swirling black smoke, ash, sparks, and flame ribbons wrap around the body and robes. Use a dramatic moonlit sky with one bright full moon on the left, storm clouds, distant pagoda rooftops, and a ruined city silhouette in the background. The palette should be almost entirely black, charcoal, and ember orange, with high-contrast rim lighting, glowing cracks of lava-like energy across the clothing, burning embers at the feet, wet reflective stone tiles, and dense atmospheric smoke. Style: ultra-detailed fantasy concept art, samurai-ninja dark sorcery aesthetic, realistic painterly rendering, epic poster composition, sharp textures, volumetric firelight, no text, no watermark.
+```
+
+**来源：** [@Shara](https://x.com/itsshara_ai/status/2067505407371927945) | 2026-06-18
+
+---
+
+### 🧍 例 1900：体育迷照片拼贴
+
+![体育迷照片拼贴](../../images/%E4%BD%93%E8%82%B2%E8%BF%B7%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实体育迷照片拼贴，{argument name="layout" default="5 格网格布局"}（上 2 下 3），主角为同一位美丽的年轻女性（面部参考所提供的参考图），她正坐在挤满观众的职业棒球场内。她拥有 {argument name="hair" default="栗棕色长卷发"}，皮肤清透有光泽，榛色双眸灵动，妆容自然，笑容灿烂。身穿正版 {argument name="jersey" default="白色斗山熊队棒球衫"}，带有海军蓝和红色镶边，布料质感真实，佩戴精致的项链。
+
+第 1 格：观看比赛时侧头微笑的抓拍特写，浅景深，背景中的人群模糊处理。
+
+第 2 格：手持两根白色充气加油棒，表情兴奋，抬头望向赛场。
+
+第 3 格：坐在靠近赛场的位置，轻抚秀发，笑容温暖，球场灯光映照在眼中。
+
+第 4 格：俏皮地比出剪刀手并做出飞吻表情，手中拿着一个小型的球队吉祥物应援牌。
+
+第 5 格：单手举起庆祝，胜利后的喜悦反应，充满活力的现场氛围。
+
+专业体育转播摄影，长焦镜头（85mm），f/2.0 光圈，电影级球场灯光，真实的皮肤纹理，自然的脸部比例，真实的棒球比赛环境，转播级摄像机画质，浅景深，背景人群虚化，超细节，照片级真实感，高动态范围，主体对焦清晰，色彩鲜艳自然，8K 分辨率，杂志级体育肖像拼贴，各画幅间有干净的白色边框，真实的韩国棒球场氛围。
+负面提示词：卡通，动漫，CGI，插画，皮肤过度处理，过度美颜滤镜，手部扭曲，多指，面部模糊，低分辨率，人物重影，不真实的光影，文字伪影，水印，Logo 变形，色彩过饱和，解剖结构畸形。
+
+[English]
+Ultra-realistic sports fan photo collage, {argument name="layout" default="5-panel grid layout"} (2 images on top, 3 images on bottom), featuring the same beautiful young woman ( FACE GIVEN IN REFRANCE IMAGE) seated in a packed professional baseball stadium. She has {argument name="hair" default="long wavy chestnut-brown hair"}, clear glowing skin, expressive hazel eyes, natural makeup, and a bright cheerful smile. Wearing an authentic {argument name="jersey" default="white Doosan Bears baseball jersey"} with navy and red trim, realistic fabric texture, subtle jewelry necklace.
+
+Panel 1: candid close-up smiling and looking to the side while watching the game, shallow depth of field, crowd softly blurred behind her.
+
+Panel 2: holding two white inflatable cheering sticks with team branding, excited expression, looking upward toward the field.
+
+Panel 3: seated near the field, gently touching her hair, warm smile, stadium lights reflecting in her eyes.
+
+Panel 4: playful pose making a peace sign and kissing expression while holding a small team mascot fan sign.
+
+Panel 5: raising one arm in celebration, joyful victory reaction, energetic crowd atmosphere.
+
+Professional sports broadcast photography, telephoto lens (85mm), f/2.0 aperture, cinematic stadium lighting, realistic skin texture, natural facial proportions, authentic baseball game environment, broadcast camera quality, shallow depth of field, bokeh crowd background, ultra-detailed, photorealistic, high dynamic range, sharp focus on subject, vibrant but natural colors, 8K resolution, magazine-quality sports portrait collage, clean white borders separating each frame, realistic Korean baseball stadium atmosphere.
+Negative Prompt: cartoon, anime, CGI, illustration, overprocessed skin, excessive beauty filters, distorted hands, extra fingers, blurry face, low resolution, duplicate person, unrealistic lighting, text artifacts, watermark, logo distortion, oversaturated colors, deformed anatomy.
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2067490221743386977) | 2026-06-18
+
+---
+

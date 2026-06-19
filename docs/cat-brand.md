@@ -5083,3 +5083,231 @@ Create an original photorealistic surreal editorial image from inside a {argumen
 
 ---
 
+### 🏷️ 例 1853：雨季居家准备公寓
+
+![雨季居家准备公寓](../../images/%E9%9B%A8%E5%AD%A3%E5%B1%85%E5%AE%B6%E5%87%86%E5%A4%87%E5%85%AC%E5%AF%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真、柔和光线的竖版生活方式图片，展示一间为暴风雨天气做好准备的雨季公寓客厅。场景中，一位年轻女性（{argument name="character description" default="深色头发扎成松散的发髻，面部柔和模糊以保护隐私"}）坐在落地窗旁的浅色沙发上，身穿浅蓝色针织开衫搭配白色衬衫，手持灰色马克杯，若有所思地望向窗外的雨景。窗外是乌云密布下的灰蓝色城市天际线，玻璃上可见明显的雨滴和雨痕。采用雾霾蓝、白、灰和浅米色的冷静冷色调，自然阴天光线，写实纹理，呈现简洁的日式公寓美学。房间应强调衣物晾晒和防灾准备细节：天花板晾衣杆或晾衣架上精确悬挂 7 件衣物，包括一件浅蓝色衬衫、一件白色长袖衬衫、一件浅黄色衬衫、一件蓝白条纹衬衫、一条蓝色裙子或毛巾、一个小型衣架上的一双白袜子，以及另一件浅蓝色衣物；架子上放着一台白色除湿机；整齐折叠的蓝色毛巾；储物篮；一盆绿叶盆栽；以及浅蓝色窗帘。在前景的圆形浅色木桌上，包含精确 14 件应急或舒适物品：1 个小型白色桌面风扇、1 瓶透明塑料瓶装水、1 个装有柠檬饮品的玻璃杯、1 个蓝色绣球花花瓶、1 条折叠的蓝色毛巾、2 个蓝色冷却凝胶冰袋、1 个装有罐头食品和密封食品袋的编织篮、1 个透明塑料储物盒、1 包带有淡雅柠檬图案的纸巾或湿巾、1 个灰色应急背包、背包旁第 2 瓶透明塑料瓶装水、1 把黑色手电筒，以及桌后架子上的 1 个白色喷雾瓶。氛围应感觉安静、实用且令人安心，就像一篇关于 {argument name="article topic" default="雨季居家准备与湿度控制"} 的文章配图。构图应保持整洁但信息丰富，女性位于中心偏左，应急物资位于前景，衣物和除湿机区域位于右侧。无可见标志，无易读的品牌文字，无标题，无水印。
+
+[English]
+Create a photorealistic, softly lit vertical lifestyle image of a rainy-season apartment living room prepared for stormy weather. The scene shows a young woman with {argument name="character description" default="dark hair in a loose bun, face softly blurred for privacy"} sitting on a pale sofa by a large floor-to-ceiling window, wearing a light blue knit cardigan over a white shirt, holding a gray mug and looking thoughtfully toward the rain. Outside the window is a gray-blue city skyline under heavy storm clouds, with visible raindrops and streaks on the glass. Use a calm cool palette of misty blue, white, gray, and pale beige, natural overcast light, realistic textures, and a clean Japanese apartment aesthetic. The room should emphasize laundry and disaster-preparedness details: exactly 7 hanging laundry items on a ceiling rail or drying rack, including a pale blue shirt, white long-sleeve shirt, pale yellow shirt, blue-and-white striped shirt, blue skirt or towel, white sock pair on a small hanger, and another pale blue garment; a white dehumidifier on a shelf; neatly folded blue towels; storage baskets; a leafy potted plant; and pale blue curtains. In the foreground on a round light wood table, include exactly 14 emergency or comfort items: 1 small white tabletop fan, 1 clear plastic water bottle, 1 glass with lemon drink, 1 blue hydrangea vase, 1 folded blue towel, 2 blue cooling gel packs, 1 woven basket containing canned food and sealed food pouches, 1 transparent plastic storage box, 1 tissue or wet-wipe pack with a subtle lemon pattern, 1 gray emergency backpack, 1 second clear plastic water bottle beside the backpack, 1 black flashlight, and 1 white spray bottle on the shelf behind the table. The mood should feel quiet, practical, and reassuring, like an editorial image for an article about {argument name="article topic" default="rainy season household preparedness and humidity control"}. Keep the composition uncluttered but information-rich, with the woman slightly left of center, the preparedness supplies in the foreground, and the laundry/dehumidifier area to the right. No visible logos, no readable brand text, no captions, no watermark.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2067743773774536980) | 2026-06-18
+
+---
+
+### 🏷️ 例 1860：维多利亚时代足球赛
+
+![维多利亚时代足球赛](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E8%B6%B3%E7%90%83%E8%B5%9B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的体育历史照片，内容为 {argument name="year" default="1890"} 年的一场 {argument name="sport" default="足球赛"}，拍摄角度为维多利亚时代体育场内凹凸不平的泥泞草地上，采用低位视角。画面中需精确展示 5 名正在比赛的男性足球运动员：右前方 1 名主要球员，身穿纯白色长袖羊毛衫（带小徽章）、深蓝色短裤、带白色条纹的深色长袜和黑色靴子，正前倾带球；左前方 1 名主要对手，身穿红色无袖羊毛衫内搭白色衬衫、白色短裤、红白条纹长袜和黑色靴子，正向其冲刺；背景中央有 1 名较小的红白队服球员；远景左侧有 1 名白衣球员；远景右侧有 1 名白衣球员。在主要白衣球员脚边的草地上放置 1 个旧式棕色皮质足球。球员应身穿符合时代特征的厚重羊毛球衣，穿着简单的靴子，面部略显模糊或带有动态模糊。背景中展示在长条顶棚看台下拥挤的站立观众，并带有类似旧足球俱乐部横幅的模糊标语。使用低饱和度的纪实色调、阴沉的灰色天空、柔和的自然光、轻微的胶片颗粒感、浅景深，营造出档案级彩色照片的质感。在右上角添加一个小的白色 {argument name="watermark text" default="Pollo.ai"} 水印。
+
+[English]
+Create a realistic historical sports photograph of a {argument name="sport" default="football match"} in {argument name="year" default="1890"}, shot from a low field-level angle on an uneven muddy grass pitch in a Victorian-era stadium. Show exactly 5 male football players in action: 1 main player in the right foreground wearing a plain white long-sleeve wool shirt with a small crest, dark navy shorts, dark socks with white bands, black boots, leaning forward while dribbling; 1 main opponent in the left foreground wearing a red sleeveless wool jersey over a white shirt, white shorts, red-and-white striped socks, black boots, sprinting toward him; 1 smaller red-and-white player running in the center background; 1 white-shirted player in the far left background; and 1 white-shirted player in the far right background. Include exactly 1 old tan leather football on the grass near the main white-shirted player's foot. The players should have period-appropriate heavy wool uniforms, simple boots, and slightly indistinct or motion-blurred faces. Behind them, show a packed standing crowd under a long covered grandstand with muted signage reading like an old football club banner. Use a desaturated, documentary color palette, overcast gray sky, soft natural light, slight film grain, shallow depth of field, and the feeling of an archival colorized photograph. Add a small white {argument name="watermark text" default="Pollo.ai"} watermark in the top-right corner.
+```
+
+**来源：** [@Alejandro Martinez | IA](https://x.com/copyelpadrino/status/2067691122915254692) | 2026-06-18
+
+---
+
+### 🏷️ 例 1866：地中海夏季时尚人像
+
+![地中海夏季时尚人像](../../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%A4%8F%E5%AD%A3%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻男子站在石砌海滨长廊上，背景是 {argument name="lighting" default="黄金时刻"} 的宁静蓝色水域，以及地中海风格的别墅和青山。他身穿 {argument name="outfit" default="一件解开几颗纽扣的宽松黑色亚麻衬衫、休闲炭灰色阔腿裤、黑色人字拖，并佩戴深色墨镜"}。他一只手插在口袋里，另一只手正在调整墨镜，姿态自信且从容。柔和温暖的夕阳照亮了他的脸庞和衣物，投下自然的阴影。奢华海滨度假美学，老钱风夏季穿搭，极简主义时尚大片，抓拍旅行摄影，电影级构图，全身照，自然色彩，超写实，浅景深，高细节，35mm 摄影，高端生活方式杂志质感，Instagram 风格旅行人像。
+
+负面提示词：
+模糊，低分辨率，天空过曝，背景杂乱，多余肢体，手部畸形，姿势不自然，滤镜过重，色彩过饱和，文字，水印，Logo，人体结构错误，卡通，CGI，人工照明。
+
+[English]
+A stylish young man standing on a stone waterfront promenade at {argument name="lighting" default="golden hour"}, overlooking calm blue water with Mediterranean-style villas and green hills in the background. He wears a {argument name="outfit" default="loose black linen shirt with a few buttons undone, relaxed charcoal wide-leg trousers, black flip-flops, and dark sunglasses"}. One hand is in his pocket while the other adjusts his sunglasses, creating a confident, effortless pose. Soft warm sunset light illuminates his face and clothing, casting natural shadows. Luxury coastal vacation aesthetic, old-money summer style, minimalist fashion editorial, candid travel photography, cinematic composition, full-body shot, natural colors, ultra-realistic, shallow depth of field, high detail, 35mm photography, premium lifestyle magazine look, Instagram-worthy travel portrait.
+
+Negative Prompt:
+blurry, low resolution, overexposed sky, crowded background, extra limbs, distorted hands, unnatural pose, heavy filters, oversaturated colors, text, watermark, logo, poor anatomy, cartoon, CGI, artificial lighting.
+```
+
+**来源：** [@Weinberg](https://x.com/weiinberg/status/2067642133612503432) | 2026-06-18
+
+---
+
+### 🏷️ 例 1889：都市街头时尚大片
+
+![都市街头时尚大片](../../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+AGE {argument name="age" default="24"} 岁，全身照，身穿卡其色重磅超大号 {argument name="shirt color" default="pink"} T 恤，印有 {argument name="text color" default="red"} 色文字，puma 品牌。喇叭裤。白色运动鞋。左手佩戴手表。略显凌乱的深色头发，黑色太阳镜。在红色 Thar 越野车旁摆出随性时尚的姿势。背景中有一些绿色树木，呈现出类似 DSLR 相机拍摄的虚化效果。自然光。都市时尚大片风格，大胆的态度，高对比度照片。
+
+[English]
+AGE {argument name="age" default="24"} EAR OLD CREATE KHAKI HEAVYWEIGHT FULL BODY OVERSIZED {argument name="shirt color" default="pink"} T-SHIRT WITH THE {argument name="text color" default="red"} COLOUR TEXT puma. Bell bottom PANTS. WHITE SNEAKERS. WATCH IS LEFT HAND. SLIGHTLY MESSY DARK HAIR BLACK SUNGLASSES. RANDAM STYLISH ATTITUDE POST IN Red THAR. THERE WILL BE SOME TREES IN THE green BACKGROUND THAT WILL BE BLURRED, LIKE WHEN TAKING PHOTOS WITH A DSLR. NATURAL LIGHT. URBAN FASHION EDITORIAL STYLE, BOLD ATTITUDE, HIGH CONTRAST PHOTO,
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2067560718379999279) | 2026-06-18
+
+---
+
+### 🏷️ 例 1898：AIVIVE 沉浸式 AI 画廊首屏设计
+
+![AIVIVE 沉浸式 AI 画廊首屏设计](../../images/AIVIVE%20%E6%B2%89%E6%B5%B8%E5%BC%8F%20AI%20%E7%94%BB%E5%BB%8A%E9%A6%96%E5%B1%8F%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="AIVIVE"} 创建一张高端落地页首屏图像，以沉浸式画廊视角展示 AI 图像生成社交信息流，画面呈现用户坐在屏幕前的背影。
+
+画布：宽屏 16:9 构图，1200×768 风格，暖米色摄影棚背景，柔和暗角，浅景深，电影级光效，极简奢华科技美学。
+
+布局：顶部居中放置风格化的黑色 {argument name="brand name" default="AIVIVE"} Logo。下方正中央放置一张大型垂直精选图像卡片，呈现悬浮效果。前景底部展示一名坐在奶油色圆弧沙发上的人的背影，双臂搁在沙发上，正看向中央卡片。两侧布置弧形水平排列的浮动图像卡片，向纵深处延伸，侧面的卡片略带模糊并带有倾斜角度，营造出社交信息流画廊的视觉感。
+
+文本内容：在左上方添加一小段文案，内容必须为：“No wallet. / No subscription. / Just create.” 在右上方添加一小段文案，内容必须为：“Pay-per-generation / in USDC. / Simple as that.” 在左下角添加一个半透明胶囊状图标，包含闪电图标和文字“1.00 USDC”。在右下角添加社交证明元素，包含四个小型圆形创作者头像和文字“2.3K creators”。
+
+图像卡片数量与主题：总共使用 14 张浮动图像卡片：1 张中央精选卡片，7 张左侧卡片，6 张右侧卡片。中央精选卡片为一张清晰的垂直奇幻/科幻图像，画面中一个孤独的身影站在反光的岩石景观中，上方悬浮着一个在金色云层中发光的破碎立方体，卡片右上角有一个白色小爱心图标。7 张左侧卡片分别为：最左侧边缘的一张局部暖色城市/街道图像、一张大型花卉肖像卡片、一张带有微小行走人物的森林小径卡片、一张靠近中上部的小型浅色抽象卡片、一张森林后方模糊的浅色风景卡片、一张宇航员头盔肖像卡片，以及一张左下角模糊的浅色卡片。6 张右侧卡片分别为：一张高耸的未来主义雨中城市天际线卡片、其后方一张小型模糊垂直卡片、一张大型花卉肖像卡片、最右侧的一张山谷风景卡片、右上角边缘的一张小型卡片，以及城市卡片与肖像卡片之间一张模糊的远景小卡片。
+
+视觉风格：照片级真实感 3D 产品广告渲染，暖奶油色与金色调，柔和全局光照，带有圆角和细微阴影的浮动玻璃质感卡片，优雅的极简排版，轻微背景模糊，高端初创公司发布会视觉风格。中央卡片应为画面中最清晰、最明亮的元素，周围卡片则更柔和、更具氛围感。
+
+约束条件：无杂乱元素，无浏览器边框，除 Logo、文本块、价格胶囊、创作者头像和爱心图标外，不得出现任何可见的应用界面。确保所有文本清晰可辨且拼写准确。避免添加额外的卡片、按钮、水印或超出指定范围的装饰性图标。
+
+[English]
+Goal: Create a premium landing-page hero image for {argument name="brand name" default="AIVIVE"}, presenting an AI image-generation social feed as an immersive gallery viewed from behind a seated user.
+
+Canvas: Wide 16:9 composition, 1200×768 style, warm beige studio background with soft vignette, shallow depth of field, cinematic lighting, minimal luxury tech aesthetic.
+
+Layout: Center the stylized black {argument name="brand name" default="AIVIVE"} logo at the top. Below it, place one large vertical featured image card in the exact center, floating in front of the viewer. Show the back of a person seated on a cream, rounded sofa in the bottom foreground, arms resting along the couch, looking toward the central card. Arrange a curved horizontal carousel of floating image cards receding into depth on both sides, with the side cards slightly blurred and angled to imply a social feed gallery.
+
+Text content: Add a small left copy block near the upper left reading exactly: “No wallet. / No subscription. / Just create.” Add a small right copy block near the upper right reading exactly: “Pay-per-generation / in USDC. / Simple as that.” Add a bottom-left translucent pill with a lightning icon and the text “1.00 USDC”. Add a bottom-right social proof element with four small circular creator avatars and the text “2.3K creators”.
+
+Image card count and subjects: Use exactly 14 floating image cards total: 1 central featured card, 7 left-side cards, and 6 right-side cards. The central featured card is a crisp vertical fantasy/sci-fi image of a lone figure standing in a reflective rocky landscape beneath a glowing fragmented cube suspended in dramatic golden clouds, with a small white heart icon in the top-right corner of the card. The 7 left-side cards are: 1 partial warm city/street image at the far left edge, 1 large floral portrait card, 1 forest path card with a tiny walking figure, 1 small pale abstract card near the upper middle, 1 blurred pale landscape card behind the forest, 1 astronaut helmet portrait card, and 1 faint low blurred card near the lower left. The 6 right-side cards are: 1 tall futuristic rainy city skyline card, 1 small blurred vertical card behind it, 1 large floral portrait card, 1 mountain valley landscape card at the far right, 1 small card near the upper right edge, and 1 faint small distant card between the city and portrait cards.
+
+Visual style: Photorealistic 3D product advertising render, warm cream and gold palette, soft global illumination, floating glassy cards with rounded corners and subtle shadows, elegant minimal typography, slight background blur, premium startup launch campaign look. The central card should be the sharpest and brightest element, while surrounding cards are softer and more atmospheric.
+
+Constraints: No clutter, no browser chrome, no visible app interface beyond the logo, text blocks, price pill, creator avatars, and heart icon. Keep all text legible and spelled exactly. Avoid adding extra cards, extra buttons, watermarks, or decorative icons beyond those specified.
+```
+
+**来源：** [@e_camli](https://x.com/ekinoks_26/status/2067502572718715151) | 2026-06-18
+
+---
+
+### 🏷️ 例 1906：水獭一家荷塘插画
+
+![水獭一家荷塘插画](../../images/%E6%B0%B4%E7%8D%AD%E4%B8%80%E5%AE%B6%E8%8D%B7%E5%A1%98%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温暖且细节丰富的彩色铅笔与墨水插画，描绘一只河獭妈妈仰卧在平静的荷塘中，腹部怀抱着两只幼崽。成年水獭位于构图左侧，体型较大，正对着观众，有着明亮深邃的眼睛、圆润的黑色鼻子、浅色的胡须口吻、小巧的耳朵，以及用数千条细密交叉排线勾勒出的浓密棕色皮毛。两只幼崽紧挨着坐在她的躯干上，都看向前方，小爪子搭在妈妈湿润的皮毛上；右侧的幼崽位置略低且更显慵懒。水獭妈妈的后脚和尾巴向右侧边缘延伸，部分浸入水中，一只深色的蹼足露出水面。周围是宁静的池塘水面，点缀着 9 片大小不一的睡莲叶和 5 朵粉色的睡莲或花苞：左下角前景有一朵盛开的大花，右上侧附近有一朵盛开的大花，右上角有一个闭合的花苞，上部中心附近有一个尖尖的小花苞，下部中心附近有一个粉色小花苞。采用柔和的自然光，描绘细腻的涟漪、蓝绿色的水面反射、柔和的黄绿色睡莲叶以及带有黄色花心的粉色花瓣。画面应呈现出温馨、舒适的绘本感，采用手绘自然主义风格，保留纸张纹理和精细的素描线条，无文字，无边框，采用 16:9 的宽屏横向构图。
+
+[English]
+Create a warm, highly detailed colored-pencil and ink illustration of a mother river otter floating on her back in a calm lily pond, cradling exactly two baby otters on her belly. The adult otter is large on the left side of the composition, facing the viewer with glossy dark eyes, a rounded black nose, pale whiskered muzzle, small ears, and dense brown fur rendered with thousands of fine crosshatched pencil strokes. The two pups sit close together across her torso, both looking forward with tiny paws resting on the mother’s wet fur; the right pup is slightly lower and more reclined. The mother’s hind feet and tail extend toward the right edge, partly submerged, with one dark webbed foot raised above the water. Surround them with a tranquil pond surface filled with exactly 9 visible lily pads of varying sizes and exactly 5 pink water lilies or buds: one large open flower in the lower left foreground, one large open flower near the upper center-right, one closed bud at the upper right, one small pointed bud near the upper center, and one small pink bud near the lower center. Use soft natural daylight, delicate ripples, blue-green water reflections, muted yellow-green lily pads, and pastel pink petals with yellow centers. The image should feel tender, cozy, and storybook-like, with a hand-drawn naturalist style, visible paper texture, fine sketch lines, no text, no border, and a wide horizontal 16:9 composition.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067479637597556738) | 2026-06-18
+
+---
+
+### 🏷️ 例 1907：实验性 David Beckham 体育海报
+
+![实验性 David Beckham 体育海报](../../images/%E5%AE%9E%E9%AA%8C%E6%80%A7%20David%20Beckham%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张实验性的 {argument name="subject" default="David Beckham"} 海报，以捕捉运动瞬间的侧面肖像为核心。Beckham 仿佛正在画面中穿行，设计语言需紧随其动作轨迹。整体构图应充满活力、年轻且极具现代感。配色方案以石墨灰、金属银、{argument name="accent color" default="荧光酸橙色"} 和纯白色为基调。酸橙色作为海报的视觉识别色，通过超大图形形状、编辑高光、抽象排版和设计干预呈现。巨大的非对称结构横跨构图，营造出视觉张力和动感。肖像需融合孔版印刷风格的纹理、胶印瑕疵、分层透明效果以及高级编辑处理。最终作品应呈现出一种面向未来的体育广告质感，更像是为奢侈街头服饰联名打造的视觉大片，而非传统的足球海报。风格大胆、实验性强且具有极高的辨识度。
+
+[English]
+Create an experimental {argument name="subject" default="David Beckham"} poster built around a striking side-profile portrait captured during motion. Beckham appears to be moving through the frame while the design language follows his movement. The composition should feel energetic, youthful, and highly contemporary. The color palette is built around graphite grey, metallic silver, {argument name="accent color" default="fluorescent acid lime"}, and clean white. Acid lime functions as the visual identity of the poster, appearing through oversized graphic shapes, editorial highlights, abstract typography, and design interventions. Large asymmetrical structures cut across the composition, creating visual tension and movement. The portrait should be integrated with risograph-inspired textures, offset-print imperfections, layered transparency effects, and premium editorial treatments. The final artwork should feel like a future-facing sports campaign created for a luxury streetwear collaboration rather than a football poster. Bold, experimental, and instantly recognizable
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2067478817564934179) | 2026-06-18
+
+---
+
+### 🏷️ 例 1908：装饰性民间艺术扁平插画
+
+![装饰性民间艺术扁平插画](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将整张图像转换为 {argument name="illustration style" default="一张带有涂鸦元素的装饰性民间艺术扁平插画"}。使用大胆且俏皮的配色方案，使其与原始图像完全不同。将所有细节简化为简洁的扁平形状，并呈现出一种手工绘制、略带瑕疵的质感，就像画在白纸上一样。整体风格应看起来 {argument name="vibe" default="可爱、童趣且充满奇思妙想"}
+
+[English]
+Please transform the entire image into a {argument name="illustration style" default="single Decorative Folk Flat Illustration with Doodle elements"}. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look {argument name="vibe" default="cute, childlike, and whimsical"}
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2067477780342931799) | 2026-06-18
+
+---
+
+### 🏷️ 例 1909：地中海巷弄肖像
+
+![地中海巷弄肖像](../../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%B7%B7%E5%BC%84%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实照片，展现了一位女性坐在 {argument name="location" default="地中海巷弄"} 的石阶上，周围是 {argument name="wall color" default="鲜艳的蓝色墙壁"}、楼梯以及带有白色装饰的建筑。她身穿 {argument name="clothing" default="蓝色修身无袖上衣"} 和一条长款飘逸的白色裙子，赤着双脚，表情平静放松，双眼微微下垂。长长的波浪卷发自然地垂落在肩头。强烈的自然阳光营造出高对比度的阴影和饱和的色彩。采用略微仰视的正面视角拍摄，全身构图，主体对焦清晰，背景细节丰富，包括蓝色墙壁、悬挂的图案织物、小窗户和上方的植物。高饱和度的蓝色与自然的白色及肤色形成鲜明对比，质感超写实，阴影清晰，景深真实。
+
+[English]
+Ultra-realistic photo of a {argument name="subject" default="woman"} seated on stone steps in a {argument name="location" default="vibrant Mediterranean alley with vivid blue-painted walls"}, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. {argument name="lighting style" default="Strong natural sunlight"} creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2067474399431979223) | 2026-06-18
+
+---
+
+### 🏷️ 例 1922：高端椰子护肤品产品摄影
+
+![高端椰子护肤品产品摄影](../../images/%E9%AB%98%E7%AB%AF%E6%A4%B0%E5%AD%90%E6%8A%A4%E8%82%A4%E5%93%81%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简风格的 {argument name="bottle color" default="白色"} 瓶身，配有 {argument name="pump style" default="金色泵头"}，周围环绕着 {argument name="environment" default="裂开的椰子"}、椰奶飞溅和泡沫云，营造热带奢华水疗氛围，呈现奶油质感，背景中漂浮着逼真的气泡，高端护肤品广告质感，柔和暖光，超精细 8K 分辨率。
+
+[English]
+Minimal {argument name="bottle color" default="white"} bottle with {argument name="pump style" default="golden pump"} surrounded by {argument name="environment" default="cracked coconuts"}, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2067445760325734734) | 2026-06-18
+
+---
+
+### 🏷️ 例 1925：受审查的兔女战士素描
+
+![受审查的兔女战士素描](../../images/%E5%8F%97%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%85%94%E5%A5%B3%E6%88%98%E5%A3%AB%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 比例的竖版复古暗黑奇幻动漫插画，描绘一位成年兔耳女性跪在粗糙的地面上，背景为斑驳的羊皮纸米色。她留着长而凌乱的 {argument name="hair color" default="black"} 头发，发丝随风飘动，头顶竖立着两只高大的黑色兔耳。她的面部及头部上方中央区域被一个巨大的不透明方形审查遮挡块刻意覆盖，遮挡块呈柔和的棕灰色，以面部为中心，从额头延伸至上胸部区域。她穿着一件宽松、短款、无袖的 {argument name="dress color" default="dark red"} 吊带裙，面料有褶皱，领口较低，呈现为非露骨的奇幻角色艺术。姿势设定为双膝跪地，身体向左侧倾斜四分之三，一只手撑在身前地面，另一只手臂向右伸展，握着一条沉重的黑色锁链。锁链末端是一个巨大的中世纪尖刺铁球钉头锤，放置在右下角附近，带有多个圆锥形尖刺和陈旧的深色金属质感。采用手绘石墨和彩色铅笔风格，带有明显的素描线条、交叉排线、粗糙的阴影、柔和的大地色调、陈旧的纸张纹理，营造出略带哥特式的氛围。画面无文字、无水印、无额外角色，构图紧凑，兔耳几乎触及顶部边缘，武器填满右下角。
+
+[English]
+Create a vertical 2:3 vintage dark-fantasy anime illustration of an adult rabbit-eared woman kneeling on rough ground against a mottled parchment beige background. She has long messy {argument name="hair color" default="black"} hair with loose windblown strands and two tall upright black rabbit ears. Her face and upper central head area are deliberately covered by a large opaque square censor block in muted brown-gray, centered over the face and extending from the forehead to the upper chest area. She wears a loose, short, sleeveless {argument name="dress color" default="dark red"} slip dress with thin straps, wrinkled fabric, and a low neckline, rendered as non-explicit fantasy character art. Pose her seated on her knees, body angled three-quarters left, one hand resting on the ground in front, the other arm extended to the right holding a heavy black chain. At the end of the chain is one large medieval spiked iron ball mace resting near the lower right corner, with multiple conical spikes and a dark worn metal texture. Use a hand-drawn graphite-and-colored-pencil look with visible sketch lines, crosshatching, rough shading, muted earthy colors, aged paper grain, slightly gothic mood, no text, no watermark, no extra characters, and keep the composition cropped close so the ears nearly touch the top edge and the weapon fills the lower right.
+```
+
+**来源：** [@ぱよ](https://x.com/payo_que/status/2067438890722669025) | 2026-06-18
+
+---
+

@@ -8396,3 +8396,317 @@ Create a minimalist poster of {argument name="character" default="Charlie Chapli
 
 ---
 
+### 🎴 例 1852：日本高中招生宣传册设计
+
+![日本高中招生宣传册设计](../../images/%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%E5%86%8C%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+日本の高校の紹介パンフレット作成。日本の若い女子高生が笑顔。架空の高校「{argument name="高校名" default="みさAI高等学校"}」。文武両道でITにも力を入れている。
+```
+
+**来源：** [@MISA@ブルバ120%](https://x.com/banana_ai_club2/status/2067748109120409670) | 2026-06-18
+
+---
+
+### 🎴 例 1855：动漫风格大学抗议海报
+
+![动漫风格大学抗议海报](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%A7%E5%AD%A6%E6%8A%97%E8%AE%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张受 Azur Lane 角色设计启发、具有戏剧性的动漫抗议海报，展示大学生在奥地利捍卫教育经费的场景。
+
+画面：宽幅电影级 16:9 横向海报，1200x675 构图，背景为宏伟的欧洲大学建筑，有圆顶、雕像和圆柱，前方是拥挤的政治示威人群，天空为暴风雨前的日落，空中飘散着纸张和火花。
+
+主要信息：左上方有巨大的做旧大写德语标题：“UNSERE UNIVERSITÄTEN. UNSERE ZUKUNFT.”，其中“UNSERE ZUKUNFT.”为深红色；下方有红色笔触风格的口号：“KEINE KÜRZUNGEN. KEINE KOMPROMISSE。”
+
+角色：包含 6 位身着华丽海军学院奇幻制服的动漫风格年轻女性，均以精致的高细节插画质量呈现。1) 中央领袖，拥有 {argument name="hair color" default="长薰衣草色头发"}，身穿白色荷叶边制服外套，配黑色丝带，一手拿着扩音器，另一手向上指，腰间挂着一个小毛绒吉祥物；2) 左前方深褐色头发女孩，身穿黑色军装风格外套，手持标语牌；3) 左中位置蓝色头发女孩，身穿蓝白相间制服；4) 中间背景处银色短发小女孩，手持标语牌；5) 右中位置粉色头发女孩，身穿红白相间服装；6) 最右侧金色头发女孩，身穿华丽的白金配色服装，手持标语牌。在中央领袖和左侧深褐色头发女孩的脸上添加柔和的矩形马赛克模糊效果，以匹配图像编辑后的痕迹。
+
+旗帜与标语牌：在中央领袖身后加入 1 面巨大的深海军蓝色旗帜，随风剧烈飘动，上面有白色的锚与月桂叶徽章，以及格言“WISSEN. INNOVATION. MORGEN.”。包含 6 个抗议标语牌：1) 左前方标语牌写着“BILDUNG STÄRKEN. ZUKUNFT SICHERN.”；2) 中央高举的标语牌写着“UNIVERSITÄTEN SIND DAS RÜCKGRAT UNSERES LANDES.”；3) 下方中央标语牌写着“WISSEN SCHAFFT FORTSCHRITT. KÜRZUNGEN STOPPEN.”；4) 右下方深色标语牌写着“OHNE UNS KEINE INNOVATION. OHNE INNOVATION KEINE ZUKUNFT.”；5) 最右侧标语牌写着“INVESTITIONEN IN WISSEN – INVESTITIONEN IN ÖSTERREICH.”；6) 人群中有一个部分被遮挡的小型抗议标语牌，带有大学徽章风格，但文字不清晰。
+
+右侧信息面板：在右上角添加 2 个堆叠的倾斜矩形信息图表。顶部深色面板为白色文字并用红色强调：“DIE BUNDESREGIERUNG PLANT EINE BEISPIELLOSE KÜRZUNG DES GESAMTEN UNIVERSITÄTSBUDGETS. VON 16,5 MILLIARDEN € (2025–2027) AUF NUR 15,5 MILLIARDEN € (2028–2030) STATT DER NOTWENDIGEN 18 MILLIARDEN €。”底部红色面板写着：“DAS ENTSPRICHT EINER FAKTISCHEN KÜRZUNG VON RUND 14%。”将“14%”放大并设为白色。
+
+视觉风格：史诗般的宣传海报构图，动态低角度视角，绘画感动漫渲染，锐利的线条，高对比度，红白黑抗议配色，尘土与飞扬的纸张，电影级灯光，戏剧性的云层，营造出紧迫感和团结感。使用 {argument name="headline text" default="UNSERE UNIVERSITÄTEN. UNSERE ZUKUNFT."} 和 {argument name="slogan text" default="KEINE KÜRZUNGEN. KEINE KOMPROMISSE."} 作为主要的易读排版。保持所有文字均为德语，加粗、做旧且具有海报感。避免使用任何真实政党的标志或品牌。
+
+[English]
+Goal: Create a dramatic anime protest poster inspired by Azur Lane character design, showing university students defending education funding in Austria.
+
+Canvas: Wide cinematic 16:9 horizontal poster, 1200x675 style composition, crowded political demonstration in front of grand European university architecture with domes, statues, columns, and a stormy sunset sky filled with drifting papers and sparks.
+
+Main message: Huge distressed uppercase German headline across the upper left: “UNSERE UNIVERSITÄTEN. UNSERE ZUKUNFT.” with “UNSERE ZUKUNFT.” in dark red, and a red paint-stroke slogan below: “KEINE KÜRZUNGEN. KEINE KOMPROMISSE.”
+
+Characters: Include exactly 6 anime-style young women in ornate naval-academy fantasy outfits, all rendered with polished high-detail illustration quality. 1) central leader with {argument name="hair color" default="long lavender hair"}, white frilled uniform coat, black ribbons, holding a megaphone in one hand and pointing upward with the other, with a small plush mascot hanging at her waist; 2) left foreground brunette in a black military-style coat holding a placard; 3) blue-haired girl in a white-and-blue uniform near left center; 4) small silver-haired girl in the middle background holding a sign; 5) pink-haired girl in a red-and-white outfit near right center; 6) blonde girl in an ornate white-and-gold outfit at far right holding a placard. Add soft rectangular censor-like blur patches over the central leader’s face and the left brunette’s face, matching the image-edit artifact.
+
+Flags and placards: Include exactly 1 large dark navy flag behind the central leader, waving dramatically, with a white anchor-and-laurel emblem and the motto “WISSEN. INNOVATION. MORGEN.” Include exactly 6 protest signs/placards: 1) left foreground sign reading “BILDUNG STÄRKEN. ZUKUNFT SICHERN.”; 2) center raised sign reading “UNIVERSITÄTEN SIND DAS RÜCKGRAT UNSERES LANDES.”; 3) lower center sign reading “WISSEN SCHAFFT FORTSCHRITT. KÜRZUNGEN STOPPEN.”; 4) lower right dark sign reading “OHNE UNS KEINE INNOVATION. OHNE INNOVATION KEINE ZUKUNFT.”; 5) far right sign reading “INVESTITIONEN IN WISSEN – INVESTITIONEN IN ÖSTERREICH.”; 6) one partially obscured small protest sign in the crowd, with university-emblem styling but not much readable text.
+
+Right-side information panels: Add exactly 2 stacked tilted rectangular infographic panels in the upper right. Top dark panel with white text and red emphasis: “DIE BUNDESREGIERUNG PLANT EINE BEISPIELLOSE KÜRZUNG DES GESAMTEN UNIVERSITÄTSBUDGETS. VON 16,5 MILLIARDEN € (2025–2027) AUF NUR 15,5 MILLIARDEN € (2028–2030) STATT DER NOTWENDIGEN 18 MILLIARDEN €.” Bottom red panel reading: “DAS ENTSPRICHT EINER FAKTISCHEN KÜRZUNG VON RUND 14%.” Make “14%” enormous and white.
+
+Visual style: Epic propaganda-poster composition, dynamic low-angle perspective, painterly anime rendering, sharp linework, high contrast, red-white-black protest typography, dust and flying paper, cinematic lighting, dramatic clouds, sense of urgency and solidarity. Use {argument name="headline text" default="UNSERE UNIVERSITÄTEN. UNSERE ZUKUNFT."} and {argument name="slogan text" default="KEINE KÜRZUNGEN. KEINE KOMPROMISSE."} as the dominant readable typography. Keep all text intentionally German, bold, distressed, and poster-like. Avoid logos or real-party branding.
+```
+
+**来源：** [@Yu-Tian Xiao](https://x.com/Bobby_XiaoYT/status/2067728362701795351) | 2026-06-18
+
+---
+
+### 🎴 例 1857：Night Static 街头服饰封面
+
+![Night Static 街头服饰封面](../../images/Night%20Static%20%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张大胆的街头风格杂志封面，以 {argument name="character names" default="Rue 和 Jules"} 为主角，展现前卫的都市时尚偶像形象。他们坐在粗粝的巷道地面上，周围环绕着涂鸦、贴纸纹理和手绘的编辑排版文字。
+
+画布：垂直 3:4 杂志封面构图，采用近距离广角时尚摄影风格，色调为饱和的钴蓝色、安全橙色、黑色、白色和混凝土灰色。使用高对比度闪光灯照明，呈现真实的织物纹理、肮脏的墙壁、磨损的路面、胶带粘贴的海报、刮痕漆面以及层叠的街头艺术标记。
+
+主要主体：画面中心正好有 2 个坐着的主体。主体 1 是一位年轻的街头服饰模特，留着 {argument name="hair style" default="齐肩棕色卷发，带有浅色挑染"}，姿态放松且略显慵懒，单膝抬起，身穿钴蓝色印花 T 恤、宽松的褪色黑色牛仔裤，佩戴叠层银项链、戒指，并穿着蓝橙配色高帮运动鞋。主体 2 是一个超大号的毛绒黑猫吉祥物伙伴，有着巨大的白色椭圆形眼睛、橙色鼻子、胡须、尖耳朵（内耳为橙色），身穿蓝橙配色棒球夹克，胸前有一个巨大的橙色字母，穿着海军蓝长裤和配套的橙蓝配色运动鞋。这只猫像最好的朋友一样坐在模特身边，共同登上街头服饰杂志封面。
+
+排版与字体：将左上角的大标题设计得醒目且具有手绘感：{argument name="main title" default="NIGHT STATIC"}，其中“NIGHT”采用橙色笔刷字体，“STATIC”采用白色倾斜漆面笔触。在主体周围添加白色、橙色和电蓝色的混乱涂鸦，仿佛是在完成的编辑照片上直接绘制而成。
+
+可见文本元素：包含 7 个明确的文本块：1) 左上角主标题“NIGHT STATIC”；2) 右上角对话气泡“STAY STRANGE”；3) 左侧黑色标签“NO RULES JUST VIBES”；4) 右侧圆形涂鸦“OWN YOUR CHAOS”；5) 右下角附近的蓝色胶带便签“WE SEE WHAT THEY IGNORE”；6) 左下角手写便签“don’t fit in stand out”；7) 左下角撕裂的胶带标签“BE REAL BE RARE BE RUE”。
+
+涂鸦与图形标记：包含 10 个显著的非文本涂鸦元素：1) 标题附近的白色星星，2) 标题附近的小橙色星星，3) 标题下方的橙色弯曲波浪线，4) 右上角附近的白色笑脸对话气泡，5) “STAY STRANGE”附近的蓝色 X 标记，6) 指向“OWN YOUR CHAOS”的粗白色箭头，7) 猫裤腿上的大白色箭头，8) 下方中心附近的白色粉笔箭头，9) 右下角的橙色笑脸，10) 左下角鞋子附近的橙色轮廓星星。
+
+时尚细节：强调超大号牛仔裤、宽松廓形、运动鞋文化造型、叠层项链、棒球夹克纹理、磨损的鞋底、橙色鞋带，以及两个角色之间蓝橙色的色彩协调。
+
+约束条件：使其看起来像一张真实的摄影编辑封面，带有插画风格的涂鸦叠加层，而不是干净的矢量海报。保持构图紧凑但易读，主体占据画面大部分空间，并将排版文字自然融入巷道的墙壁和地面中。
+
+[English]
+Goal: Create a bold street style magazine cover featuring {argument name="character names" default="Rue and Jules"} as edgy urban fashion icons sitting on a gritty alley floor, surrounded by graffiti, sticker textures, and hand-drawn editorial lettering.
+
+Canvas: Vertical 3:4 magazine-cover composition, close wide-angle fashion photography look, saturated cobalt blue, safety orange, black, white, and concrete gray palette. Use high contrast flash lighting, realistic fabric texture, grungy walls, worn pavement, taped posters, scratched paint, and layered street-art marks.
+
+Main subjects: Exactly 2 seated subjects centered in the frame. Subject 1 is a young streetwear model with {argument name="hair style" default="shoulder-length curly brown hair with lighter highlights"}, relaxed slouched pose, one knee raised, wearing a cobalt blue graphic T-shirt, loose faded black jeans, layered silver necklaces, rings, and blue-and-orange high-top sneakers. Subject 2 is an oversized plush black cat mascot companion with huge white oval eyes, orange nose, whiskers, pointed ears with orange inner ears, wearing a blue-and-orange varsity jacket with a large orange letter on the chest, navy pants, and matching orange-and-blue sneakers. The cat sits close beside the model like a best friend on a streetwear magazine cover.
+
+Layout and typography: Make the top-left headline huge and hand-painted: {argument name="main title" default="NIGHT STATIC"}, with “NIGHT” in orange brush lettering and “STATIC” in white slanted paint strokes. Add chaotic doodles around the subjects in white, orange, and electric blue, as if drawn over a finished editorial photo.
+
+Visible text elements: Include exactly 7 distinct text blocks: 1) top-left main title “NIGHT STATIC”; 2) upper-right speech bubble “STAY STRANGE”; 3) left black label “NO RULES JUST VIBES”; 4) right circular scribble “OWN YOUR CHAOS”; 5) blue taped note near lower right “WE SEE WHAT THEY IGNORE”; 6) lower-left handwritten note “don’t fit in stand out”; 7) lower-left torn tape label “BE REAL BE RARE BE RUE”.
+
+Doodles and graphic marks: Include exactly 10 prominent non-text doodle elements: 1) white star near the title, 2) small orange star near the title, 3) orange curved squiggle under the title, 4) white smiley speech bubble near the upper right, 5) blue X marks near “STAY STRANGE”, 6) thick white arrow pointing toward “OWN YOUR CHAOS”, 7) large white arrow on the cat’s pant leg, 8) white chalk arrows near the lower center, 9) orange smiley face at bottom right, 10) orange outlined star near the lower left shoe.
+
+Fashion details: Emphasize oversized denim, baggy silhouettes, sneaker-culture styling, layered chains, varsity jacket texture, scuffed soles, orange laces, and blue-orange color coordination between both characters.
+
+Constraints: Make it look like a real photographed editorial cover with illustrated graffiti overlays, not a clean vector poster. Keep the composition crowded but readable, with the subjects filling most of the frame and the typography integrated into the alley wall and floor.
+```
+
+**来源：** [@sevthurr](https://x.com/sevthurrAI/status/2067706919750627726) | 2026-06-18
+
+---
+
+### 🎴 例 1862：贝多芬大提琴奏鸣曲海报
+
+![贝多芬大提琴奏鸣曲海报](../../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张具有戏剧张力的西班牙语编辑式海报，主题为 {argument name="music work" default="贝多芬第 3 号大提琴与钢琴奏鸣曲，作品 69 号"}，将其呈现为不可错过的古典音乐杰作。
+
+画布：宽幅 16:9 横向海报，深近黑色背景，复古音乐会节目单质感，带有轻微的做旧印刷颗粒感，高对比度，呈现优雅的博物馆/展览设计风格。
+
+布局：左侧以醒目的西班牙语排版为主；中右侧为高耸的大提琴拼贴画；右下角包含钢琴键及一小段手写乐谱片段；右上角为垂直排列的著名演奏家时间轴，配有圆形照片勋章。运用分层几何图形、纤细的技术图表线条、波形曲线、点阵网格以及微妙的乐谱细节。
+
+主要文字内容：左上方设置白色堆叠式衬线标题，其中一行用红色强调：“TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE。”将“ESTA SONATA”设为红色。下方使用巨大的压缩式做旧块状字体提出问题：“¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?”将“USTED NO”设为亮红色，其余大部分词汇设为灰白色，“AÚN?”设为赭金色。在问题下方，添加一句暖米色的小号斜体句子：“Estoy casi seguro de que la conoce. Buen momento para volver a escucharla.”底部添加暖奶油色的大号作曲家姓名：“Beethoven”，下方为加粗的白色文字：“Sonata para violonchelo y piano n.º 3, Op. 69”。
+
+中心主体：一把巨大的直立大提琴，从顶部到底部裁剪，位置略偏右。采用混合媒介拼贴风格：真实的木纹、黑色琴弦、清晰可见的琴码和 f 孔、半透明叠加层、穿过琴身上部的红色垂直矩形、琥珀橙色的琴身下部、背后衬有米色月亮状圆盘，以及磨损的纸张纹理。大提琴应与从左侧排版延伸向乐器的抽象声波线条重叠。
+
+右侧时间轴：包含 4 个圆形演奏家勋章，由带有小节点的细垂直线连接。标签必须完全按照以下内容书写：1) “ROSTROPOVICH Y RICHTER, 1963”，2) “CASALS Y SERKIN, 1952”，3) “YO-YO MA Y EMANUEL AX, 1985”，4) “ALISA WEILERSTEIN, 2022”。圆圈内使用小型的棕褐色或黑白肖像风格音乐家照片，姓名使用赭色大写字母，年份使用浅奶油色。
+
+视觉风格：精致的古典音乐杂志封面与包豪斯音乐会海报的结合；深海军黑、象牙白、猩红色、赭金色、柔和青色和棕褐色；做旧墨迹、陈旧纸张、细微划痕、微妙的半调网点及分层拼贴。排版应体现出大胆、西班牙语、编辑感和电影质感，融合优雅的衬线字体与巨大的压缩式无衬线展示字体。
+
+限制条件：所有可见的西班牙语文本必须严格按照指定内容保留。请勿添加任何徽标、水印、现代 UI 元素或额外的演奏家条目。在保持复古做旧质感的同时，确保文字具有极强的可读性。
+
+[English]
+Goal: Create a dramatic Spanish editorial poster about {argument name="music work" default="Beethoven Sonata para violonchelo y piano n.º 3, Op. 69"}, presenting it as an essential classical music discovery.
+
+Canvas: Wide horizontal 16:9 poster, dark near-black background, vintage concert-program texture, slightly distressed print grain, high contrast, elegant museum/exhibition design.
+
+Layout: Left side dominated by large Spanish typography; center-right dominated by a tall cello collage; lower-right contains piano keys and a small handwritten sheet-music fragment; upper-right contains a vertical timeline of notable performers with circular photo medallions. Use layered geometric shapes, thin technical diagram lines, waveform curves, dotted grids, and subtle music-notation details.
+
+Main text content: At upper left, set a stacked serif headline in white with one red emphasis line: “TODOS LOS GRANDES CHELISTAS DEL SIGLO XX SUPIERON QUE ESTA SONATA ERA DIFERENTE.” Make “ESTA SONATA” red. Below it, use huge condensed distressed block lettering for the question: “¿POR QUÉ USTED NO LA HA ESCUCHADO AÚN?” Make “USTED NO” bright red, most other words off-white, and “AÚN?” ochre-gold. Under the question, add a small italic sentence in warm beige: “Estoy casi seguro de que la conoce. Buen momento para volver a escucharla.” At the bottom, add the composer name in large warm cream: “Beethoven”, and beneath it in bold white: “Sonata para violonchelo y piano n.º 3, Op. 69”.
+
+Central subject: A large upright cello, cropped from top to bottom, centered slightly right. Make it a mixed-media collage: realistic wood grain, black strings, visible bridge and f-holes, semi-transparent overlays, red vertical rectangle through the upper body, amber-orange lower bout, beige circular moon-like disk behind it, and worn paper textures. The cello should overlap abstract sound-wave lines that travel from the left typography toward the instrument.
+
+Right timeline: Include exactly 4 circular performer medallions connected by a thin vertical line with small nodes. Labels must read exactly: 1) “ROSTROPOVICH Y RICHTER, 1963”, 2) “CASALS Y SERKIN, 1952”, 3) “YO-YO MA Y EMANUEL AX, 1985”, 4) “ALISA WEILERSTEIN, 2022”. Use small sepia or black-and-white portrait-style musician images inside the circles, with names in ochre uppercase and years in pale cream.
+
+Visual style: Sophisticated classical-music magazine cover meets Bauhaus concert poster; dark navy-black, ivory, scarlet red, ochre gold, muted teal, and sepia; distressed ink, aged paper, fine scratches, subtle halftone, and layered collage. Typography should feel bold, Spanish, editorial, and cinematic, with a mix of elegant serif text and massive condensed sans-serif display type.
+
+Constraints: Keep all visible text in Spanish exactly as specified. Do not add logos, watermarks, modern UI elements, or extra performer entries. Maintain strong readability despite the vintage grunge texture.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2067666410671620590) | 2026-06-18
+
+---
+
+### 🎴 例 1868：奢华腕表杂志封面
+
+![奢华腕表杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考照片，同时保持面部完全不变，与原始主体完全一致。超写实奢华腕表广告杂志封面，主体为 {argument name="subject" default="一位仪态优雅的韩国女性"}，身着干练的黑色定制西装外套，一只手腕优雅地抬起并转向镜头，展示一款镶钻黄金奢华腕表，另一只手自信地叉在腰间。皮肤无瑕，梳着利落的低发髻，妆容精致立体，涂抹着光泽感的藕粉色唇膏。背景：无缝深炭灰色摄影棚，采用戏剧性的伦勃朗光，捕捉腕表钻石切面的光芒，金属表面带有微妙的镜头光晕。"{argument name="magazine name" default="ROBB REPORT"}" 刊头采用精致的粗衬线字体，侧边栏配有编辑风格的腕表规格文字。85mm 微距镜头，超精细的腕表金属工艺与钻石闪耀效果，8K 照片级奢华产品编辑大片。负面提示词：卡通、模糊、假宝石、水印、手腕/手部畸形。
+
+[English]
+Use the reference photo while keeping the face completely unchanged and identical to the original subject, Ultra-realistic luxury watch campaign magazine cover featuring a {argument name="subject" default="poised Korean woman"} in a sharp black tailored blazer, one wrist elegantly raised and turned toward camera to showcase a diamond-encrusted gold luxury watch, her other hand resting confidently on her hip. Flawless skin, sleek low bun, sharp defined makeup, glossy mauve lips. Background: seamless deep charcoal studio with dramatic Rembrandt lighting catching the watch's diamond facets, subtle lens flare off the metal. "{argument name="magazine name" default="ROBB REPORT"}" masthead in refined bold serif with watch specs in editorial sidebar text. 85mm macro-capable lens, ultra-detailed watch metalwork and diamond sparkle, 8K photorealistic luxury product editorial. Negative: cartoon, blurry, fake gems, watermark, distorted wrist/hand.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067640587260682436) | 2026-06-18
+
+---
+
+### 🎴 例 1878：汽车生活方式杂志封面
+
+![汽车生活方式杂志封面](../../images/%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超逼真的汽车生活方式杂志封面，画面中一位引人注目的 {argument name="ethnicity" default="韩裔"} 女性身穿时髦的 {argument name="clothing" default="黑色皮质风衣"}，随性地倚靠在光泽感哑光黑豪华 {argument name="car type" default="双门跑车"} 的引擎盖上，一只手搭在车身雕塑般的面板上，自信的编辑风格凝视镜头。柔顺的直发被微风轻轻吹起，精致的迷人妆容，深浆果色唇妆。背景：氛围感十足的地下停车场，顶部有戏剧性的聚光灯，潮湿的反射混凝土路面映照出车身和霓虹灯点缀。"ROAD & TRACK" 刊头采用醒目的现代无衬线字体，配有汽车规格标注。35mm 镜头，超细节的车漆反射和金属光泽，8K 电影级汽车编辑摄影。
+
+负面提示词：卡通，模糊，不真实的汽车比例，水印，扭曲的反射。
+
+[English]
+Ultra-realistic automotive lifestyle magazine cover featuring a striking {argument name="ethnicity" default="Korean"} woman in a sleek {argument name="clothing" default="black leather trench coat"}, leaning casually against the hood of a glossy matte-black luxury {argument name="car type" default="sports coupe"}, one hand resting on the car's sculpted body panel, confident editorial gaze at camera. Sleek straight hair blown slightly by wind, sharp glam makeup, deep berry lip. Background: moody underground parking garage with dramatic overhead spotlighting, wet reflective concrete floor mirroring the car and neon accent lighting. "ROAD & TRACK" masthead in bold modern sans-serif with car spec callouts. 35mm lens, ultra-detailed car paint reflection and metallic sheen, 8K cinematic automotive editorial. 
+
+Negative: cartoon, blurry, fake car proportions, watermark, distorted reflections.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067612460627144910) | 2026-06-18
+
+---
+
+### 🎴 例 1890：高端电子产品奢华商业广告
+
+![高端电子产品奢华商业广告](../../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%A5%A2%E5%8D%8E%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端商业产品广告，以 {argument name="product" default="高端吹风机"} 为主角，悬浮于半空中，伴随 {argument name="visual effect" default="动态气流效果"}，优雅的 {argument name="texture" default="丝绸般发丝"} 在其周围飘动，强劲的风力粒子，细微的水珠瞬间蒸发，未来科技感光环，高级金属质感，戏剧性的摄影棚灯光，电影级阴影，超纯净深色渐变背景，高端美妆与时尚广告美学，奢华电子产品品牌风格，超写实产品摄影，极其锐利的细节，光泽反射，体积光，高级排版空间，屡获殊荣的广告构图，动态能量轨迹，专业商业修图，8K 分辨率，超精细纹理，照片级真实感，全球奢侈品牌品质，Apple × Dyson 级营销视觉，杰作，广告代理商作品集品质。
+
+[English]
+Luxury commercial product advertisement featuring a {argument name="product" default="premium hair dryer"} as the hero product, floating in mid-air with {argument name="visual effect" default="dynamic airflow effects"}, elegant strands of {argument name="texture" default="silk-like hair"} flowing around it, powerful wind particles, subtle water droplets evaporating instantly, futuristic technology aura, premium metallic finish, dramatic studio lighting, cinematic shadows, ultra-clean dark gradient background, high-end beauty and fashion campaign aesthetic, luxury electronics branding style, hyper-realistic product photography, razor-sharp details, glossy reflections, volumetric lighting, premium typography space, award-winning advertising composition, dynamic energy trails, professional commercial retouching, 8K resolution, ultra-detailed textures, photorealistic, global luxury brand quality, Apple × Dyson level marketing visual, masterpiece, advertising agency portfolio quality.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2067554704880767034) | 2026-06-18
+
+---
+
+### 🎴 例 1903：单色编辑风格体育海报
+
+![单色编辑风格体育海报](../../images/%E5%8D%95%E8%89%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度图形化的 {argument name="subject" default="贝克汉姆"} 海报，整体采用单色调设计。肖像部分需呈现出非凡的细节与对比度，占据构图约 70% 的比例。每一处面部轮廓、表情纹理和细节都应显得真实且充满力量感。设计以黑、白、灰为主色调，仅使用一种鲜明的强调色：{argument name="accent color" default="荧光橙"}。橙色应克制地出现在编辑标记、排版系统、几何图形干预以及战略性的设计高光处。这种克制感营造出极具辨识度的视觉标识。拍摄角度应采用非传统视角，从正下方仰拍，同时让主体微微前倾进入画面。排版、网格结构、对齐系统以及现代信息设计元素应与肖像进行高度受控的互动。最终图像应呈现出设计年鉴封面的质感，而非普通的体育海报。
+
+[English]
+Create a highly graphic {argument name="subject" default="Beckham"} poster built almost entirely in monochrome. The portrait should be photographed with extraordinary detail and contrast, occupying roughly seventy percent of the composition. Every facial contour, expression line, and texture should feel authentic and powerful. The design relies on black, white, and shades of grey, with only a single vivid accent color: {argument name="accent color" default="fluorescent orange"}. The orange appears sparingly through editorial markers, typography systems, geometric interventions, and strategic design highlights. This restraint creates a highly recognizable visual identity. The camera angle should be unconventional, capturing the subject from directly below while he leans slightly forward into the frame. Typography, grid structures, alignment systems, and modern information design elements interact with the portrait in a highly controlled manner. The final image should feel like a design annual cover rather than a sports poster.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2067483359820017953) | 2026-06-18
+
+---
+
+### 🎴 例 1911：高级足球传奇海报
+
+![高级足球传奇海报](../../images/%E9%AB%98%E7%BA%A7%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Create a premium {argument name="主体" default="football legend"} poster wallpaper inspired by modern sports editorial design, luxury athlete campaigns, Spotify-inspired music cover aesthetics, Apple Music UI elements, and elite football branding. The design must feel cinematic, heroic, collectible, and highly shareable on social media. STYLE Ultra-realistic sports photography Premium sports advertising campaign High-end football magazine cover Modern {argument name="设计元素" default="UI/UX overlay"} design Dynamic depth composition Professional stadium lighting Cinematic atmosphere Photorealistic details Luxury poster aesthetic 4K quality Sharp focus Highly detailed textures Professional color grading
+```
+
+**来源：** [@Simply Ray](https://x.com/simplyfutureai/status/2067457700578181400) | 2026-06-18
+
+---
+
+### 🎴 例 1912：日式动漫足球强力射门
+
+![日式动漫足球强力射门](../../images/%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E5%BC%BA%E5%8A%9B%E5%B0%84%E9%97%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动态的动漫运动海报，画面中一位代表 {argument name="country team" default="日本"} 的女足球员在夜晚座无虚席的体育场内。采用从草地视角拍摄的低位超广角动作镜头，左下角前景处是一个巨大的、带有轻微动态模糊的黑白足球。球员正向观众方向俯冲，仿佛在冲刺或滑铲准备射门，一只手臂向侧面伸展，一只膝盖靠近草皮，身体以极快的速度倾斜。她留着长长的 {argument name="hair color" default="亮粉色"} 秀发，在风中狂乱飘动，部分遮住了脸部，没有可见的面部细节。她身穿深海军蓝足球服，带有粉色发光装饰，短袖、短裤、条纹袜和球鞋；胸前文字为 {argument name="jersey chest text" default="JAPAN"}，胸前和短裤上印有球衣号码 {argument name="jersey number" default="10"}。她的身体周围环绕着生动的粉色魔法能量、烟雾轨迹、火花和花瓣状粒子，使场景充满力量感和超自然气息。背景：巨大的弧形足球场，挤满了欢呼的观众，明亮的泛光灯，戏剧性的景深，电影级的动态模糊，镜头附近的绿色草叶清晰可见。视觉风格：高细节日式动漫插画，史诗级体育广告主视觉，鲜艳的洋红色和海军蓝配色，轮廓光，强烈的对比度，动态构图，戏剧性的透视，16:9 横屏格式。避免出现额外的文字、标志、水印或其他球员。
+
+[English]
+Create a dynamic anime sports poster of a female soccer player representing {argument name="country team" default="Japan"} in a packed stadium at night. Use a low, ultra-wide action camera angle from the grass, with a large slightly motion-blurred black-and-white soccer ball dominating the lower-left foreground. The player is lunging forward and downward toward the viewer as if sprinting or sliding to strike the ball, one arm stretched out to the side, one knee bent close to the turf, body tilted aggressively with intense speed. She has long flowing {argument name="hair color" default="bright pink"} hair whipping wildly in the wind, partially covering her face, with no visible facial details. Dress her in a dark navy soccer uniform with pink glowing accents, short sleeves, shorts, striped socks, and cleats; the chest text reads {argument name="jersey chest text" default="JAPAN"} and the jersey number is {argument name="jersey number" default="10"} on both the chest and shorts. Surround her with vivid pink magical energy, smoke trails, sparks, and petal-like particles exploding from behind and around her body, making the scene feel powerful and supernatural. Background: a huge curved soccer stadium packed with a cheering crowd, bright floodlights, dramatic depth of field, cinematic motion blur, green grass blades sharply visible near the camera. Visual style: high-detail Japanese anime illustration, epic sports advertising key visual, vibrant magenta and navy palette, rim lighting, intense contrast, dynamic composition, dramatic perspective, 16:9 landscape format. Avoid extra text, logos, watermarks, or additional players.
+```
+
+**来源：** [@ねね*AIcreator](https://x.com/NeneneAI/status/2067457062532170149) | 2026-06-18
+
+---
+
+### 🎴 例 1913：克里斯蒂亚诺·罗纳尔多单色海报
+
+![克里斯蒂亚诺·罗纳尔多单色海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%8D%95%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度图形化的 {argument name="athlete" default="克里斯蒂亚诺·罗纳尔多"} 海报，整体几乎完全采用单色设计。肖像应以极高的细节和对比度拍摄，占据构图约 70% 的空间。每一处面部轮廓、表情纹理和质感都应显得真实且充满力量。设计以黑、白、灰为主色调，仅使用一种鲜明的强调色：{argument name="accent color" default="荧光橙色"}。橙色应通过编辑标记、排版系统、几何干预和战略性设计亮点进行少量点缀。这种克制感营造出极具辨识度的视觉形象。拍摄角度应不落俗套，从正下方仰拍，同时让他身体微微前倾进入画面。这种视角营造出强烈的张力和临场感。排版、网格结构、对齐系统和现代信息设计元素应以高度受控的方式与肖像互动。最终图像应呈现出设计年鉴封面的质感，而非普通体育海报。
+
+[English]
+Create a highly graphic {argument name="athlete" default="Cristiano Ronaldo"} poster built almost entirely in monochrome. The portrait should be photographed with extraordinary detail and contrast, occupying roughly seventy percent of the composition. Every facial contour, expression line, and texture should feel authentic and powerful. The design relies on black, white, and shades of grey, with only a single vivid accent color: {argument name="accent color" default="fluorescent orange"}. The orange appears sparingly through editorial markers, typography systems, geometric interventions, and strategic design highlights. This restraint creates a highly recognizable visual identity. The camera angle should be unconventional, capturing Ronaldo from directly below while he leans slightly forward into the frame. The resulting perspective creates intensity and immediacy. Typography, grid structures, alignment systems, and modern information design elements interact with the portrait in a highly controlled manner. The final image should feel like a design annual cover rather than a sports poster.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2067456561279373420) | 2026-06-18
+
+---
+
+### 🎴 例 1915：高端零食广告海报
+
+![高端零食广告海报](../../images/%E9%AB%98%E7%AB%AF%E9%9B%B6%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端零食广告海报，以 {argument name="snack brands" default="Kurkure Blasts 和 Lay’s Blasts"} 作为核心产品，动态风味从包装中迸发而出，酥脆的薯片和零食碎块在半空中定格，火辣的香料、辣椒粉、芝士粉、香草和调味料颗粒环绕四周，极具冲击力的飞溅效果，高速摄影美学，充满活力的 {argument name="color scheme" default="霓虹橙、红和黄色"} 色调，深色电影质感背景，高端商业食品摄影，超精细包装，逼真纹理，强力影棚灯光，体积烟雾，能量轨迹，漂浮的配料，大胆的广告构图，超写实，奢华快速消费品 (FMCG) 营销活动，广告牌级画质，焦点清晰，景深效果，获奖产品广告，8K 分辨率，杰作，照片级真实感，中心构图，品牌展示。
+
+[English]
+Ultra-premium snack advertising poster featuring {argument name="snack brands" default="Kurkure Blasts and Lay’s Blasts"} as the hero products, dynamic flavor explosion bursting from the packets, flying crispy chips and crunchy snack pieces frozen mid-air, fiery spices, chili flakes, cheese powder, herbs and seasoning particles swirling around, dramatic splash effects, high-speed photography aesthetic, vibrant {argument name="color scheme" default="neon orange, red and yellow"} color palette, dark cinematic background, premium commercial food photography, ultra-detailed packaging, realistic textures, powerful studio lighting, volumetric smoke, energy trails, floating ingredients, bold advertising composition, hyper-realistic, luxury FMCG campaign, billboard quality, sharp focus, depth of field, award-winning product advertisement, 8K, masterpiece, photorealistic, center composition, brand showcase.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2067455929315164161) | 2026-06-18
+
+---
+
+### 🎴 例 1927：AR 智能眼镜科技杂志封面
+
+![AR 智能眼镜科技杂志封面](../../images/AR%20%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E7%A7%91%E6%8A%80%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的科技产品专题杂志封面，主角是一位自信的 {argument name="subject" default="韩国女性"}，佩戴着时尚的透明镜片 {argument name="eyewear" default="AR 智能眼镜"}，镜片上反射出隐约可见的全息界面，身穿极简主义黑色科技面料夹克。一只手触碰镜腿，仿佛正在调整设置，另一只手自然垂在身侧。皮肤洁净透亮，妆容自然柔和，神情冷静专注，视线略微偏离镜头，仿佛正在查看 AR 显示内容。背景：无缝浅灰色摄影棚，带有淡淡的发光网格线和漂浮的应用图标全息图。"{argument name="magazine name" default="TECH INSIDER"}" 粗体刊头，配有专题标题。85mm 镜头，超精细镜片反射和产品真实感，焦点清晰，8K 照片级画质。
+
+负面提示词：卡通，模糊，眼镜看起来虚假，水印，脸部变形。
+
+[English]
+Ultra-realistic tech product editorial magazine cover featuring a confident {argument name="subject" default="Korean woman"} wearing sleek transparent-lens {argument name="eyewear" default="AR smart glasses"} with a subtle holographic interface visible reflecting in the lenses, paired with a minimalist black tech-fabric jacket. One hand touches the temple of the glasses as if adjusting settings, the other rests at her side. Clean glowing skin, soft natural makeup, calm focused expression looking slightly off-camera as if viewing an AR display. Background: seamless light-grey studio with faint glowing grid lines and floating app-icon holograms. "{argument name="magazine name" default="TECH INSIDER"}" bold masthead with feature callouts. 85mm lens, ultra-detailed lens reflection and product realism, sharp focus, 8K photorealistic. 
+
+Negative: cartoon, blurry, fake-looking glasses, watermark, distorted face.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067415146788422125) | 2026-06-18
+
+---
+

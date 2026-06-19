@@ -2648,3 +2648,39 @@ Create a whimsical miniature block diorama in the style of tiny interlocking pla
 
 ---
 
+### 🧸 例 1869：超现实乐高人仔肖像
+
+![超现实乐高人仔肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B9%90%E9%AB%98%E4%BA%BA%E4%BB%94%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超现实的摄影棚肖像，将附件照片中的男性头部以照片级逼真的大比例，放置在小巧的乐高人仔身体上。服装风格需与参考图完全一致：经典的乐高躯干、乐高腿部和乐高手臂。人类头部应呈现出不成比例的巨大感（类似于“人偶”的比例），并具备细腻的皮肤纹理和凌乱的自然发型。姿势：一只手拉下嘴唇，露出牙齿，表情俏皮且略显混乱。照片采用极具视觉冲击力的低角度拍摄，并带有轻微的鱼眼畸变，以突出面部特征。极简的摄影棚背景，呈现淡薄荷绿/天蓝色的渐变效果。明亮的直射闪光灯照明，带有清晰的阴影和光泽高光。构图应荒诞而整洁，融合玩具摄影与时尚肖像的美学。保持逼真头部与塑料乐高身体之间明显的对比。面部细节丰富，柔和的配色方案，编辑类超现实主义，现代互联网美学，人仔的收藏感，构图集中。
+
+[English]
+Create a surreal studio portrait of a man from an attached photo with a large-size photorealistic human head attached to the tiny body of a LEGO minifigure. Keep your clothing style identical to the reference: classic LEGO torso, LEGO legs, LEGO arms. A human head should be disproportionately huge (on the scale of a "dummy"), with a detailed skin texture and disheveled natural hair. Pose: One hand pulls back the lower lip, exposing teeth in a playful, slightly chaotic expression. The picture was taken from a spectacular low angle with a slight fisheye distortion to accentuate the face. Minimal studio background with a pale mint/sky blue gradient. Bright direct flash lighting with clear shadows and glossy highlights. The composition should be absurd, but at the same time clean, combining toy photography and the aesthetics of a fashionable portrait. Maintain a visible contrast between the realistic head and the plastic LEGO body. Over-detailed face, soft pastel color scheme, editorial surrealism, modern Internet aesthetics, collectible energy of the figure, concentrated composition.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2067634935712891375) | 2026-06-18
+
+---
+
+### 🧸 例 1917：Q 版赛博忍者手办
+
+![Q 版赛博忍者手办](../../images/Q%20%E7%89%88%E8%B5%9B%E5%8D%9A%E5%BF%8D%E8%80%85%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的 3D 渲染图，展示一个摆放在展示底座上的 Q 版赛博忍者收藏级手办，呈现出高端玩具产品的摄影质感。角色为一个小型风格化男性忍者，拥有超大头型和无面部特征的平滑模糊面罩，尖刺状的 {argument name="hair color" default="带有电光蓝挑染的银薰衣草色头发"}，姿态自信地站立。他身穿未来感黑色战术忍者服，配有层叠盔甲、交叉胸带、腰带、小包、手套、护膝、带有发光蓝色装饰的厚底靴，以及一条向右飘动的黑色短围巾或斗篷。包含 3 件清晰可见的武器：左手向下持有一把发光的蓝色武士刀，右侧腰间挂着两把短剑柄。上袖处印有白色日文汉字标记，围巾上有小型青色科技纹样。将他放置在一个圆形的亮面黑色科幻展示底座上，底座带有精细的面板细节、螺栓、反射和蓝色光效。在底座右侧，放置一个小型垂直发光灯牌，黑色边框上带有青色日文文本 {argument name="sign text" default="未来忍者"}。使用暖米色摄影棚背景，配合柔和的渐变光效、浅景深、电影级产品布光、清晰的玩具质感、亮面塑料和金属表面、蓝色轮廓光、逼真的阴影，采用居中构图，人物位于画面中左侧，右侧留有负空间。无水印，无多余字符，除袖标和灯牌外无任何额外文字。
+
+[English]
+Create a high-quality 3D render of a collectible chibi cyber-ninja figurine on a display base, photographed like a premium toy product shot. The character is a small stylized male ninja with an oversized head and faceless smooth blurred face panel, spiky {argument name="hair color" default="silver lavender hair with electric blue highlights"}, and a confident standing pose. He wears a futuristic black tactical ninja outfit with layered armor, crossed chest straps, belts, pouches, gloves, knee pads, chunky boots with glowing blue accents, and a short black scarf or cape blowing to the right. Include exactly 3 visible weapons: one glowing blue katana held downward in his left hand, and two short sword handles sheathed at his right hip. Add a white Japanese kanji mark on the upper sleeve and small cyan tech markings on the scarf. Place him on a round glossy black sci-fi display base with subtle panel details, bolts, reflections, and blue light accents. To his right on the base, include one small vertical illuminated sign with cyan Japanese text {argument name="sign text" default="未来忍者"} on a black frame. Use a warm beige studio background with soft gradient lighting, shallow depth of field, cinematic product lighting, crisp toy-like materials, glossy plastic and metallic surfaces, blue rim lights, realistic shadows, centered composition with the figure occupying the left-center and empty negative space to the right. No watermark, no extra characters, no additional text beyond the sleeve mark and the sign.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067454577625211014) | 2026-06-18
+
+---
+

@@ -952,3 +952,39 @@ low quality, blurry face, extra fingers, duplicate objects, distorted hands, bad
 
 ---
 
+### 🏛️ 例 1854：阳光花园中佩戴飘逸头纱的新娘
+
+![阳光花园中佩戴飘逸头纱的新娘](../../images/%E9%98%B3%E5%85%89%E8%8A%B1%E5%9B%AD%E4%B8%AD%E4%BD%A9%E6%88%B4%E9%A3%98%E9%80%B8%E5%A4%B4%E7%BA%B1%E7%9A%84%E6%96%B0%E5%A8%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实的户外新娘肖像，{argument name="subject" default="一位年轻的成年新娘"} 侧身站在阳光明媚的花园小径上，背景是一座带有拱形木门的小型白色石砌教堂。她身穿一件优雅的象牙白缎面婚纱，配有细肩带、修身胸衣、露背设计、珍珠般的腰部装饰、臀部褶皱设计以及高开叉裙摆。长长的透明白色头纱固定在她的盘发上，在风中向右侧戏剧性地飘动，半透明的飘逸面料占据了画面右侧的大部分空间。新娘一只手靠近头发，另一只手自然垂在腿侧，展现出婚礼当天喜悦的状态。在她的面部中心放置一个实心米色方形遮挡块，遮住五官，但保留头发和身体可见。背景应呈现一个浪漫的六月花园，有白玫瑰、紫色小花、绿色灌木和通往教堂的鹅卵石小径，所有背景均经过柔和的奶油色虚化处理。使用来自左上方的温暖晨光，为头纱提供逆光效果，营造出镜头光晕、柔和的高光、轻盈的柔和色调以及浅景深。横向 4:3 构图，新娘位于画面中偏右位置，头纱延伸至右侧边缘，梦幻般的编辑类婚礼摄影风格，自然的胶片颗粒感，无文字，无水印。
+
+[English]
+Create a photorealistic outdoor bridal portrait of {argument name="subject" default="a young adult bride"} standing in profile on a sunlit garden path in front of a small white stone chapel with arched wooden doors. She wears an elegant ivory satin wedding dress with thin spaghetti straps, a fitted bodice, a low back, a pearl-like waist detail, ruched fabric over the hips, and a high thigh slit. A long sheer white veil is attached to her updo and streams dramatically to the right in the wind, filling much of the right side of the frame with translucent flowing fabric. The bride holds one hand near her hair and the other relaxed by her thigh, posing with a joyful wedding-day energy. Place exactly one solid beige square censor block over the center of her face, covering facial features while leaving hair and body visible. The background should show a romantic June garden with white roses, small purple flowers, green shrubs, and a cobblestone path leading to the chapel, all softly blurred with creamy bokeh. Use warm morning sunlight from the upper left, backlighting the veil, creating lens glow, soft highlights, airy pastel tones, and shallow depth of field. Horizontal 4:3 composition, bride centered slightly right, veil extending off the right edge, dreamy editorial wedding photography style, natural film grain, no text, no watermark.
+```
+
+**来源：** [@susumu_Mind](https://x.com/SusumuMind/status/2067735657246752830) | 2026-06-18
+
+---
+
+### 🏛️ 例 1881：动漫阴阳双子少女
+
+![动漫阴阳双子少女](../../images/%E5%8A%A8%E6%BC%AB%E9%98%B4%E9%98%B3%E5%8F%8C%E5%AD%90%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅方形动漫风格插画，描绘两名年轻女性在柔和的梦幻空间中漂浮或平躺，构成阴阳太极图的形态。图像包含 2 名角色：左上方的少女拥有 {argument name="upper character hair color" default="飘逸的长栗棕色头发"}、蓝色双眸、白皙皮肤，身穿半透明白色无袖吊带裙；右下方的少女拥有 {argument name="lower character hair color" default="飘逸的长深海军蓝头发"}、蓝色双眸、白皙皮肤，身穿半透明白色宽松裙。她们以镜像的胎儿姿势向彼此蜷缩，身体和头发交织成圆形的漩涡，如同阴阳符号的两半。上方的少女面朝下方，一只手靠近脸庞，双腿折叠；下方的少女相对于观察者呈倒置状态，向上凝视，一只手臂弯曲在头顶，双腿收拢。画面可见她们赤裸的双足和纤细的四肢，解剖结构优美，表情温柔。采用淡雅的水彩和彩色铅笔动漫渲染风格，线条柔和，皮肤高光通透，布料褶皱轻盈，发丝飘逸，情感基调宁静。背景为 {argument name="background colors" default="雾蓝色、薰衣草色、桃色和柔珊瑚色"} 的抽象圆形水洗效果，笔触呈现漩涡状，以强化太极图的形状。无文字、无边框、无水印、无额外角色；保持构图居中，让交织的圆形姿势填满方形画布。
+
+[English]
+Create a square anime-style illustration of two young women forming a yin-yang taijitu composition while floating or lying in a soft dreamlike space. The image contains exactly 2 characters: one upper-left girl with {argument name="upper character hair color" default="long flowing chestnut brown hair"}, blue eyes, pale skin, and a translucent white sleeveless slip dress; and one lower-right girl with {argument name="lower character hair color" default="long flowing deep navy blue hair"}, blue eyes, pale skin, and a translucent white loose dress. They are curled toward each other in mirrored fetal poses, their bodies and hair creating a circular swirl, like the two halves of a yin-yang symbol. The upper girl faces downward with one hand near her face and her legs folded; the lower girl is upside down relative to the viewer, gazing upward with one arm bent over her head and legs tucked. Their bare feet and delicate limbs are visible, with graceful anatomy and gentle expressions. Use a pastel watercolor and colored-pencil anime rendering style with soft linework, luminous skin highlights, sheer fabric folds, flowing hair strands, and a tranquil emotional tone. The background is an abstract circular wash of {argument name="background colors" default="misty blue, lavender, peach, and soft coral"}, painted with swirling brush textures that reinforce the taijitu shape. No text, no border, no watermark, no extra characters; keep the composition centered and fill the square canvas with the circular intertwined pose.
+```
+
+**来源：** [@ぱよ](https://x.com/payo_que/status/2067596331976368187) | 2026-06-18
+
+---
+

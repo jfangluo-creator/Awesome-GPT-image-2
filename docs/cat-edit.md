@@ -1436,3 +1436,77 @@ Transform the uploaded image into a single Decorative Folk Art Flat Illustration
 
 ---
 
+### 🔧 例 1880：照片与民间艺术扁平插画对比
+
+![照片与民间艺术扁平插画对比](../../images/%E7%85%A7%E7%89%87%E4%B8%8E%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个左右对比图，左侧为随意的真实生活照片，右侧为其转换后的装饰性民间艺术扁平插画。
+
+画布：宽幅 16:9 水平构图，外角圆润并带有细浅灰色边框，精确分割为两个相等的垂直面板，中间有清晰的分隔线。
+
+左侧面板：一张温馨、光线柔和的室内快照，展示了 {argument name="person description" default="一位身穿宽松白 T 恤和浅色运动裤的年轻女性"} 蜷缩在书桌旁，旁边放着一台打开的笔记本电脑。她的脸部被一个柔和的矩形模糊处理。她用一根手指轻轻触碰 {argument name="cat description" default="一只耳朵颜色较深的奶油色蓬松猫咪"} 的鼻子。画面中包含笔记本电脑旁发光的小台灯、键盘附近的紫色物体、米色墙面背景以及可见的墙壁插座。氛围应呈现出随意、温馨、略带颗粒感且如同手机拍摄的效果。
+
+右侧面板：将同一场景重新诠释为一幅带有涂鸦元素的装饰性民间艺术扁平插画，使用与照片完全不同的鲜明活泼配色方案。将所有细节简化为边缘略显不完美的干净扁平手工形状。展示相同位置的人物和猫：人物在右侧，脸部被一个扁平的桃色矩形遮挡，黑色头发扎成凌乱的发髻，上面装饰着细小的彩色涂鸦，身穿奶油色衬衫和印有花卉刺绣图案的蓝绿色裤子。猫咪坐在左侧，闭着眼睛微笑，人物正在触碰它的鼻子。画面中包含一台屏幕上有爱心图案的插画笔记本电脑、一盏发出黄色光芒的小台灯以及一个带有爱心图案的紫色杯子。在白色背景中填充欢快的涂鸦：确切包含 18 组可见的装饰性涂鸦——3 朵大花、3 根叶茎、2 个蓝色星星形状、2 个橙色星星/放射状图案、2 个爱心、2 个螺旋卷纹、2 个小花图标、1 个灯泡涂鸦以及 1 组散落的彩色圆点。
+
+视觉风格：左侧必须保持写实且色调温暖；右侧必须充满奇思妙想、扁平化、手绘感、民间艺术风格，色彩明亮活泼，并带有可见的蜡笔/颜料质感。保持两个面板之间的构图一致性，画面中不含文字、水印及其他额外字符。
+
+[English]
+Goal: Create a side-by-side comparison image showing a casual real-life photo on the left and its transformed decorative folk flat illustration on the right.
+
+Canvas: Wide horizontal 16:9 composition with rounded outer corners and a thin light gray border, split exactly into two equal vertical panels with a clean center divider.
+
+Left panel: A warm, dimly lit indoor snapshot of {argument name="person description" default="a young woman in a loose white T-shirt and light sweatpants"} sitting curled up beside an open laptop on a desk. Her face is obscured by a soft rectangular blur. She gently touches the nose of {argument name="cat description" default="a fluffy cream-colored cat with darker ears"} with one finger. Include a small desk lamp glowing near the laptop, a purple object near the keyboard, beige wall background, and a visible wall outlet. The mood should feel candid, cozy, slightly grainy, and photographed with a phone.
+
+Right panel: Reinterpret the same scene as a single decorative folk flat illustration with doodle elements, using a bold playful color palette completely different from the photo. Simplify all details into clean flat handmade shapes with slightly imperfect edges. Show the same person and cat in matching positions: the person on the right, face obscured by a flat peach rectangular mask, black hair tied in a messy bun decorated with tiny colorful doodles, wearing a cream shirt and teal pants covered in floral embroidery-like patterns. The cat sits on the left, smiling with closed eyes as the person touches its nose. Include an illustrated laptop with a heart on the screen, a tiny desk lamp shining yellow light, and a purple cup with a heart. Fill the white background with cheerful doodles: exactly 18 visible decorative doodle groups — 3 large flowers, 3 leafy stems, 2 blue star shapes, 2 orange star/sunbursts, 2 hearts, 2 spiral curls, 2 small flower icons, 1 lightbulb doodle, and 1 scattering of colorful dots.
+
+Visual style: The left side must remain realistic and warm-toned; the right side must be whimsical, flat, hand-drawn, folk-art inspired, bright, and playful with visible crayon/paint texture. Keep the composition recognizable between panels, with no text, no watermark, and no extra characters.
+```
+
+**来源：** [@linghucong](https://x.com/linghucong/status/2067602372596277651) | 2026-06-18
+
+---
+
+### 🔧 例 1887：照片转动漫风格
+
+![照片转动漫风格](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为高质量的动漫插画，同时保留原图中 {argument name="elements to preserve" default="人物、姿势、构图、面部特征、服装和背景"} 的精确细节。保持角色的辨识度，并维持主体自然的比例和表情。使用 {argument name="art style" default="干净的动漫线条、细腻的阴影、柔和的电影级光影、逼真的反射、丰富的色彩以及精致的现代动漫美学"}。
+
+将动漫艺术作品作为主图展示，并在右下角添加一个带有圆角的小型参考框，放入原始上传的照片，从而实现无缝的照片转动漫对比效果。保留与源图像相同的摄像机角度、取景和环境。添加极简的社交媒体风格界面元素以增加真实感。温暖的自然光、细腻的纹理、高级插画品质、逼真的景深、时尚的造型、高度精细的面部、清晰的对焦、大师级动漫艺术作品、专业数字插画、潮流当代美学。
+
+[English]
+Transform the uploaded photo into a high-quality anime illustration while preserving the exact {argument name="elements to preserve" default="people, pose, composition, facial features, clothing, and background"} from the original image. Keep the characters recognizable and maintain the natural proportions and expressions of the subjects. Use {argument name="art style" default="clean anime linework, detailed shading, soft cinematic lighting, realistic reflections, rich colors, and a polished modern anime aesthetic"}.
+
+Display the anime artwork as the main image and include the original uploaded photo in a small rounded-corner reference box in the bottom-right corner, creating a seamless photo-to-anime comparison. Preserve the same camera angle, framing, and environment as the source image. Add minimal social-media-style interface elements for authenticity. Warm natural lighting, detailed textures, premium illustration quality, realistic depth, fashionable styling, highly detailed faces, sharp focus, masterpiece anime artwork, professional digital illustration, trending contemporary aesthetic.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2067580348536668240) | 2026-06-18
+
+---
+
+### 🔧 例 1904：民间扁平化插画风格转换
+
+![民间扁平化插画风格转换](../../images/%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将整张图像转换为 {argument name="style" default="带有涂鸦元素的装饰性民间扁平化插画"}。使用一种与原图完全不同的 {argument name="palette" default="大胆且俏皮的配色方案"}。将所有细节简化为简洁的扁平形状，并带有手工绘制、略显不完美的质感，就像画在白纸上一样。整体风格应看起来可爱、稚趣且充满奇思妙想。
+
+[English]
+Please transform the entire image into a single {argument name="style" default="Decorative Folk Flat Illustration with Doodle elements"}. Use a {argument name="palette" default="bold and playful color palette"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2067482776870547556) | 2026-06-18
+
+---
+

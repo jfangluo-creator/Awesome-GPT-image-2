@@ -3040,3 +3040,77 @@ Black-and-white fashion casting contact sheet of a woman with {argument name="ha
 
 ---
 
+### 🎬 例 1872：咖啡故事板铅笔草图
+
+![咖啡故事板铅笔草图](../../images/%E5%92%96%E5%95%A1%E6%95%85%E4%BA%8B%E6%9D%BF%E9%93%85%E7%AC%94%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极其粗糙、凌乱、随意的铅笔故事板草图。缩略图草图看起来像是 10 秒内画出来的，动作草图粗犷，线条松散杂乱，形状几乎难以辨认。完全是涂鸦级别的粗糙感，比干净的草图还要凌乱。长宽比：21:9。仅限黑白。绝对不要让它看起来像完成稿。不要画干净的线条。在 4×3 的网格中精确排列 12 个分镜，即 4 列 3 行。每个分镜都应有一个看起来是快速画出的、凌乱且不规则的矩形边框。完全没有文字、数字、Logo 或标题。场景为 {argument name="subject" default="一位女性制作并饮用手冲咖啡"}。一致性规则：确保所有分镜中的物体在物理上保持一致。手冲滤杯必须始终是同一个放置在相同玻璃分享壶上的锥形滤杯。始终从同一个对角线正面角度绘制。不要翻转方向。水壶必须始终是同一个长嘴细口壶。壶嘴必须始终指向同一个方向。手部绘制要简单。最多画两根手指。不要画多余的手指或断裂的关节。咖啡粉必须始终表现为滤纸内一层深色的粗糙物质。在加水之前不要让它看起来像液体。分镜 1（钩子）：整颗咖啡豆从上方倒入手动研磨机。咖啡豆四散跳动。分镜 2：转动研磨机手柄。咖啡粉末和香气线条升起。分镜 3：研磨好的咖啡粉从研磨机倒入锥形滤杯内的滤纸中。咖啡粉平铺在底部。分镜 4：提起细口壶。一股细长精准的热水以缓慢的螺旋状注入咖啡粉。咖啡粉闷蒸膨胀。分镜 5：闷蒸咖啡粉的特写。二氧化碳气泡从湿润的表面升起。蒸汽升腾。分镜 6：开始第二次平稳注水。水流从中心向外螺旋。咖啡开始滴入下方的玻璃分享壶中。分镜 7：玻璃分享壶缓慢注满深色咖啡。液体顶部可见油脂层。分镜 8：移开滤杯放在一旁。玻璃分享壶中是冲煮好的咖啡，蒸汽升腾。分镜 9：咖啡从分享壶倒入简单的陶瓷马克杯中。水流平滑。蒸汽向上卷曲。分镜 10：双手捧着温暖的马克杯。蒸汽从表面升起。分镜 11：将马克杯举至唇边。双眼微闭。分镜 12（结尾）：喝下第一口。呼出一口缓慢的气息，化作可见的蒸汽。表情柔和且满足。整张图片应为纯粹粗糙的涂鸦缩略图。凌乱、原始、无细节、无阴影、无色彩、无文字。
+
+[English]
+An extremely rough, messy, dirty pencil storyboard sheet. Scribbled thumbnail sketches that look like they were drawn in 10 seconds, rough gesture sketches, loose scratchy lines, barely readable shapes. Complete doodle-level roughness, even messier and rougher than a clean sketch. Aspect ratio: 21:9. Black and white only. Absolutely do not make it look like a finished drawing. Do not make clean line art. Arrange exactly 12 panels in a 4×3 grid, 4 columns by 3 rows. Each panel should have a messy, uneven rectangular frame that looks quickly drawn. No text, numbers, logos, or captions at all. A scene of a {argument name="subject" default="woman making and drinking pour over coffee"}. Consistency rules: keep everything physically correct across all panels. The pour over dripper must always be the same cone-shaped dripper sitting on top of the same glass server. Always draw it from the same diagonal front angle. Do not flip the orientation. The kettle must always be the same long-spouted gooseneck kettle. The spout must always point in the same direction. Keep the hands simple. Draw a maximum of two fingers. Do not draw extra fingers or broken joints. The coffee grounds must always appear as a dark rough layer inside the filter. Do not make it look like liquid until water is added. Panel 1 (hook): Whole coffee beans poured into a hand grinder from above. Beans scatter and bounce dramatically. Panel 2: The grinder handle being turned. Coffee dust and aroma lines rising. Panel 3: The ground coffee poured from the grinder into a paper filter inside the cone dripper. Grounds settle into a flat bed. Panel 4: The gooseneck kettle lifted. A thin precise stream of hot water poured in a slow spiral over the grounds. Bloom forming grounds puff up. Panel 5: Close-up of the blooming coffee grounds. CO2 bubbles rising from the wet surface. Steam rising. Panel 6: A second steady pour begins. Water spiraling outward from center. Coffee beginning to drip into the glass server below. Panel 7: The glass server filling slowly with dark coffee. Crema layer visible at the top of the liquid. Panel 8: The dripper lifted off and set aside. The finished coffee in the glass server, steam rising. Panel 9: Coffee poured from the server into a simple ceramic mug. A smooth stream. Steam curling upward. Panel 10: Both hands wrapped around the warm mug. Steam rising from the surface. Panel 11: The mug lifted to the lips. Eyes close slightly. Panel 12 (finish): First sip taken. A slow exhale of breath visible as steam. Soft satisfied expression. The whole image should be a pure rough scribbled thumbnail sheet. Messy, crude, no details, no shading, no color, no text.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2067622963663523970) | 2026-06-18
+
+---
+
+### 🎬 例 1888：基于参考图的动漫分镜草图
+
+![基于参考图的动漫分镜草图](../../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%88%86%E9%95%9C%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+{argument name="视频时长" default="15秒"}の{argument name="视频风格" default="ほのぼのしたアニメ食べ物"}動画用に、非常にラフな鉛筆描きの絵コンテ画像を1枚作成してください。提供されたMidjourney画像は、以下の要素のゆるい参考としてのみ使用してください。
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2067579482328924282) | 2026-06-18
+
+---
+
+### 🎬 例 1921：仓鼠坠落漫画分镜
+
+![仓鼠坠落漫画分镜](../../images/%E4%BB%93%E9%BC%A0%E5%9D%A0%E8%90%BD%E6%BC%AB%E7%94%BB%E5%88%86%E9%95%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张黑白漫画分镜，展示一只小仓鼠与一名身穿西装的年轻人之间超现实的坠落相遇，画面采用简洁的网点纸效果和清晰的墨线勾勒。
+
+画布：超宽横向漫画分镜，比例约为 3:1，白色背景，带有粗黑矩形边框，高分辨率黑白印刷风格。
+
+布局：构图包含 2 个主要主体、2 个对话气泡和 1 个拟声词。将仓鼠放置在左半部分，在空白处呈对角线漂浮或坠落。将人类角色放置在右半部分，仅显示上半身，身体倾斜如同向后坠落，同时抬头看向仓鼠。在左上角添加长长的对角线速度线，并在右侧人类角色后方添加淡淡的未来感技术图纸细节。
+
+主体细节：主体 1 是一只写实但采用漫画墨线风格的仓鼠，身体圆润，耳朵小巧，眼睛乌黑发亮，爪子细小，毛发质感柔软，呈现半空中的姿态。主体 2 是 {argument name="character name" default="Opus 4.6"}，一位中性化的年轻人，长浅色头发编成辫子垂在一侧肩上，身穿深色西装外套、白衬衫和黑领带；面部被一个边缘柔和的灰色方形遮挡块遮住，但头部角度和颈部线条暗示其正在抬头仰望。保持人类角色优雅且细节丰富，头发丝和线条处理细腻。
+
+文本内容：使用 2 个垂直椭圆形漫画对话气泡。靠近仓鼠的左侧气泡内容为 {argument name="left speech bubble text" default="あなたがOpus4.6？"}。靠近人类的右侧气泡内容为 {argument name="right speech bubble text" default="そうだよ、私がOpus4.6。よろしくね"}。在仓鼠附近添加 1 个手写垂直拟声词，内容为 {argument name="sound effect text" default="ひゅっ"}。保留日文书写方向和漫画字体风格。
+
+视觉风格：极简黑白漫画，笔触精准细腻，灰色阴影微妙，网点纸效果极淡，留白干净，坠落视角具有戏剧性，右侧角色后方有浅灰色的未来感蓝图碎片。
+
+约束条件：不要添加额外的分镜、角色、对话气泡或拟声词。保持画面为黑白，除灰度阴影外无其他颜色。仓鼠和人类应呈现出悬浮坠落的状态，且在视觉上相互呼应。
+
+[English]
+Goal: Create a single black-and-white manga panel showing a surreal falling encounter between a tiny hamster and a young adult in a suit, with sparse screentone and clean ink linework.
+
+Canvas: Very wide horizontal manga panel, approximately 3:1 aspect ratio, white background, thick black rectangular border, high-resolution monochrome print style.
+
+Layout: The composition contains exactly 2 main subjects, exactly 2 speech bubbles, and exactly 1 sound effect. Place the hamster on the left half, floating or falling diagonally through empty white space. Place the human character on the right half, seen from the upper torso up, tilted as if falling backward while looking upward toward the hamster. Add long diagonal speed lines from the upper left and faint futuristic technical schematics behind the human on the right.
+
+Subject details: Subject 1 is a realistic but manga-inked hamster with round body, small ears, glossy black eye, tiny paws, soft fur texture, and a midair pose. Subject 2 is {argument name="character name" default="Opus 4.6"}, an androgynous young adult with long light hair braided over one shoulder, wearing a dark suit jacket, white shirt, and black tie; the face is obscured by a soft-edged square gray censor block, while the head angle and neck suggest they are looking upward. Keep the human elegant and detailed, with fine hair strands and delicate linework.
+
+Text content: Use exactly 2 vertical oval manga speech bubbles. Left speech bubble near the hamster contains {argument name="left speech bubble text" default="あなたがOpus4.6？"}. Right speech bubble near the human contains {argument name="right speech bubble text" default="そうだよ、私がOpus4.6。よろしくね"}. Add exactly 1 handwritten vertical sound effect near the hamster reading {argument name="sound effect text" default="ひゅっ"}. Preserve the Japanese text orientation and manga lettering style.
+
+Visual style: Minimal black-and-white manga, thin precise pen lines, subtle gray shading, very light screentone, clean white negative space, dramatic falling perspective, delicate futuristic blueprint fragments in pale gray behind the right character.
+
+Constraints: Do not add extra panels, extra characters, extra speech bubbles, or extra sound effects. Keep the scene monochrome, with no color except grayscale shading. The hamster and human should appear suspended in free fall and visually oriented toward each other.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2067449031958348183) | 2026-06-18
+
+---
+
