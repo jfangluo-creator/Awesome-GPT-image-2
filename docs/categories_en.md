@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (117)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (123)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -227,6 +227,18 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 1871: 哥特风动漫少女与机械巨剑](cat-ui.md#️-例-1871哥特风动漫少女与机械巨剑)
 
 - [Case 1885: Claude Design 同步 UI 模型](cat-ui.md#️-例-1885claude-design-同步-ui-模型)
+
+- [Case 1937: 虚构历史人物社交媒体动态](cat-ui.md#️-例-1937虚构历史人物社交媒体动态)
+
+- [Case 1941: 超现实城市巨型结构建筑提示词](cat-ui.md#️-例-1941超现实城市巨型结构建筑提示词)
+
+- [Case 1947: 赛博恶魔女仆武士刀](cat-ui.md#️-例-1947赛博恶魔女仆武士刀)
+
+- [Case 1953: 金发足球运动员夜间体育场射门](cat-ui.md#️-例-1953金发足球运动员夜间体育场射门)
+
+- [Case 1958: 电影感动漫风格照片对比](cat-ui.md#️-例-1958电影感动漫风格照片对比)
+
+- [Case 1989: 城市阶梯时尚拼贴画](cat-ui.md#️-例-1989城市阶梯时尚拼贴画)
 ---
 
 <a id="chart"></a>
@@ -321,7 +333,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (294)
+## 🎴 [Posters & Cards](cat-poster.md) (312)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -869,11 +881,47 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 1915: 高端零食广告海报](cat-poster.md#-例-1915高端零食广告海报)
 
 - [Case 1927: AR 智能眼镜科技杂志封面](cat-poster.md#-例-1927ar-智能眼镜科技杂志封面)
+
+- [Case 1929: Anime Skate Cali 海报](cat-poster.md#-例-1929anime-skate-cali-海报)
+
+- [Case 1933: 时尚日式玉米活动海报](cat-poster.md#-例-1933时尚日式玉米活动海报)
+
+- [Case 1934: 美国核能复兴海报](cat-poster.md#-例-1934美国核能复兴海报)
+
+- [Case 1935: 向日葵植物高定海报](cat-poster.md#-例-1935向日葵植物高定海报)
+
+- [Case 1950: 混合媒介产品海报](cat-poster.md#-例-1950混合媒介产品海报)
+
+- [Case 1962: 动漫农场故事日](cat-poster.md#-例-1962动漫农场故事日)
+
+- [Case 1963: 汽车杂志封面肖像](cat-poster.md#-例-1963汽车杂志封面肖像)
+
+- [Case 1964: 暗黑动漫悬疑肖像海报](cat-poster.md#-例-1964暗黑动漫悬疑肖像海报)
+
+- [Case 1965: 哥特式 Undine 浪漫主义海报](cat-poster.md#-例-1965哥特式-undine-浪漫主义海报)
+
+- [Case 1971: 美食宣传海报](cat-poster.md#-例-1971美食宣传海报)
+
+- [Case 1976: 克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报](cat-poster.md#-例-1976克里斯蒂亚诺罗纳尔多安迪沃霍尔风格运动海报)
+
+- [Case 1977: 像素风端午节海报](cat-poster.md#-例-1977像素风端午节海报)
+
+- [Case 1984: 布达佩斯剪纸风格旅行海报](cat-poster.md#-例-1984布达佩斯剪纸风格旅行海报)
+
+- [Case 1987: 超写实商业汽水罐广告](cat-poster.md#-例-1987超写实商业汽水罐广告)
+
+- [Case 1994: 意日融合风餐厅海报](cat-poster.md#-例-1994意日融合风餐厅海报)
+
+- [Case 2001: Midnight Aurora 奢华香水广告](cat-poster.md#-例-2001midnight-aurora-奢华香水广告)
+
+- [Case 2002: 皮克斯风格 Q 版手办生成器](cat-poster.md#-例-2002皮克斯风格-q-版手办生成器)
+
+- [Case 2007: 2026 年 FIFA 世界杯英雄海报](cat-poster.md#-例-20072026-年-fifa-世界杯英雄海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (719)
+## 📷 [Photography & Realistic](cat-photo.md) (757)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -2235,11 +2283,87 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 1924: 空灵艺术黑白肖像](cat-photo.md#-例-1924空灵艺术黑白肖像)
 
 - [Case 1926: 梦幻工作室艺术肖像](cat-photo.md#-例-1926梦幻工作室艺术肖像)
+
+- [Case 1930: 玻璃球鹿角公牛生物](cat-photo.md#-例-1930玻璃球鹿角公牛生物)
+
+- [Case 1931: 电影感橙色背景人像](cat-photo.md#-例-1931电影感橙色背景人像)
+
+- [Case 1932: 超写实日本女性智能手机人像](cat-photo.md#-例-1932超写实日本女性智能手机人像)
+
+- [Case 1936: 抽象剪影电影感网格](cat-photo.md#-例-1936抽象剪影电影感网格)
+
+- [Case 1938: 辣妹角色与夜间泳池烟花](cat-photo.md#-例-1938辣妹角色与夜间泳池烟花)
+
+- [Case 1940: 祖母绿丝绸连衣裙肖像](cat-photo.md#-例-1940祖母绿丝绸连衣裙肖像)
+
+- [Case 1942: 高角度写实自拍肖像](cat-photo.md#-例-1942高角度写实自拍肖像)
+
+- [Case 1943: 高管肖像与迷你卡通形象](cat-photo.md#-例-1943高管肖像与迷你卡通形象)
+
+- [Case 1944: 专业体育场球迷摄影提示词](cat-photo.md#-例-1944专业体育场球迷摄影提示词)
+
+- [Case 1946: 保持面部特征的旅行抓拍人像](cat-photo.md#-例-1946保持面部特征的旅行抓拍人像)
+
+- [Case 1948: 高级时尚杂志风太阳镜人像](cat-photo.md#-例-1948高级时尚杂志风太阳镜人像)
+
+- [Case 1949: 赛博朋克剑术对决项目](cat-photo.md#-例-1949赛博朋克剑术对决项目)
+
+- [Case 1951: 家庭肖像童书插画](cat-photo.md#-例-1951家庭肖像童书插画)
+
+- [Case 1952: 奢华巴基斯坦夫妇肖像](cat-photo.md#-例-1952奢华巴基斯坦夫妇肖像)
+
+- [Case 1954: 金色和服折扇肖像](cat-photo.md#-例-1954金色和服折扇肖像)
+
+- [Case 1955: 忧郁图书馆吸烟肖像](cat-photo.md#-例-1955忧郁图书馆吸烟肖像)
+
+- [Case 1959: 超写实肖像拼贴](cat-photo.md#-例-1959超写实肖像拼贴)
+
+- [Case 1967: 粉色精品店内的现代时尚人像](cat-photo.md#-例-1967粉色精品店内的现代时尚人像)
+
+- [Case 1968: 柔和色调女仆咖啡厅肖像](cat-photo.md#-例-1968柔和色调女仆咖啡厅肖像)
+
+- [Case 1969: 超现实低角度花卉人像](cat-photo.md#-例-1969超现实低角度花卉人像)
+
+- [Case 1970: 南亚皇家新娘肖像拼贴](cat-photo.md#-例-1970南亚皇家新娘肖像拼贴)
+
+- [Case 1975: 霓虹灯巷低角度拍摄](cat-photo.md#-例-1975霓虹灯巷低角度拍摄)
+
+- [Case 1978: 街机厅抓拍风格街头肖像](cat-photo.md#-例-1978街机厅抓拍风格街头肖像)
+
+- [Case 1979: 白色哥特萝莉大教堂肖像](cat-photo.md#-例-1979白色哥特萝莉大教堂肖像)
+
+- [Case 1980: 写实风格餐厅员工生活照](cat-photo.md#-例-1980写实风格餐厅员工生活照)
+
+- [Case 1982: 空灵东方奇幻肖像](cat-photo.md#-例-1982空灵东方奇幻肖像)
+
+- [Case 1983: 仪式感明信片肖像构图](cat-photo.md#-例-1983仪式感明信片肖像构图)
+
+- [Case 1992: 电影感仙侠女剑客肖像](cat-photo.md#-例-1992电影感仙侠女剑客肖像)
+
+- [Case 1993: 赛博朋克激光眼时尚人像](cat-photo.md#-例-1993赛博朋克激光眼时尚人像)
+
+- [Case 1995: CCTV 时尚街拍海报](cat-photo.md#-例-1995cctv-时尚街拍海报)
+
+- [Case 2003: 与鹿同框的随性旅行手机抓拍](cat-photo.md#-例-2003与鹿同框的随性旅行手机抓拍)
+
+- [Case 2006: 武士 Cosplay 地标人像生成器](cat-photo.md#-例-2006武士-cosplay-地标人像生成器)
+
+- [Case 2008: 优雅纱丽礼服肖像](cat-photo.md#-例-2008优雅纱丽礼服肖像)
+
+- [Case 2009: 艺术感长曝光美妆人像](cat-photo.md#-例-2009艺术感长曝光美妆人像)
+
+- [Case 2011: 浪漫魅力金色珠宝人像](cat-photo.md#-例-2011浪漫魅力金色珠宝人像)
+
+- [Case 2012: 身着黑色纱丽的海滩人像](cat-photo.md#-例-2012身着黑色纱丽的海滩人像)
+
+- [Case 2014: 雨季季风拼贴肖像](cat-photo.md#-例-2014雨季季风拼贴肖像)
+
+- [Case 2015: 逼真的皇家马德里足球场球迷肖像](cat-photo.md#-例-2015逼真的皇家马德里足球场球迷肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (180)
+## 🎨 [Illustration & Art](cat-illustration.md) (186)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -2581,6 +2705,18 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 1919: 日本女孩公园随拍](cat-illustration.md#-例-1919日本女孩公园随拍)
 
 - [Case 1923: 2026 年夏季发型趋势推文](cat-illustration.md#-例-19232026-年夏季发型趋势推文)
+
+- [Case 1928: 华丽百合花彩色玻璃艺术](cat-illustration.md#-例-1928华丽百合花彩色玻璃艺术)
+
+- [Case 1966: 在基督像上的巴西足球迷](cat-illustration.md#-例-1966在基督像上的巴西足球迷)
+
+- [Case 1972: Old Money 风格男士街头穿搭](cat-illustration.md#-例-1972old-money-风格男士街头穿搭)
+
+- [Case 1985: 彩虹发色猫耳少女插画](cat-illustration.md#-例-1985彩虹发色猫耳少女插画)
+
+- [Case 2005: 浪漫逗子海岸日落情侣](cat-illustration.md#-例-2005浪漫逗子海岸日落情侣)
+
+- [Case 2013: 雨季时尚拼贴画](cat-illustration.md#-例-2013雨季时尚拼贴画)
 ---
 
 <a id="character"></a>
@@ -2751,7 +2887,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (106)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (111)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -2951,11 +3087,21 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 1869: 超现实乐高人仔肖像](cat-3d.md#-例-1869超现实乐高人仔肖像)
 
 - [Case 1917: Q 版赛博忍者手办](cat-3d.md#-例-1917q-版赛博忍者手办)
+
+- [Case 1960: 3D CG 东方奇幻角色肖像](cat-3d.md#-例-19603d-cg-东方奇幻角色肖像)
+
+- [Case 1961: 小红书 3D 创作者个人资料卡](cat-3d.md#-例-1961小红书-3d-创作者个人资料卡)
+
+- [Case 1973: 从草图到现实的 3D 幻觉](cat-3d.md#-例-1973从草图到现实的-3d-幻觉)
+
+- [Case 1999: 女大学生坐在 2026 数字上](cat-3d.md#-例-1999女大学生坐在-2026-数字上)
+
+- [Case 2016: 足球底座上的 Q 版流行歌星](cat-3d.md#-例-2016足球底座上的-q-版流行歌星)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (46)
+## 🏛️ [Architecture & Space](cat-architecture.md) (48)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -3039,11 +3185,15 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 1854: 阳光花园中佩戴飘逸头纱的新娘](cat-architecture.md#️-例-1854阳光花园中佩戴飘逸头纱的新娘)
 
 - [Case 1881: 动漫阴阳双子少女](cat-architecture.md#️-例-1881动漫阴阳双子少女)
+
+- [Case 1939: 动漫风厨房青梅糖浆场景](cat-architecture.md#️-例-1939动漫风厨房青梅糖浆场景)
+
+- [Case 1990: 编辑风格几何肖像插画](cat-architecture.md#️-例-1990编辑风格几何肖像插画)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (80)
+## 🎬 [Comics & Storyboards](cat-comic.md) (82)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -3187,11 +3337,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 1888: 基于参考图的动漫分镜草图](cat-comic.md#-例-1888基于参考图的动漫分镜草图)
 
 - [Case 1921: 仓鼠坠落漫画分镜](cat-comic.md#-例-1921仓鼠坠落漫画分镜)
+
+- [Case 1974: 机器人咖啡仪式分镜脚本](cat-comic.md#-例-1974机器人咖啡仪式分镜脚本)
+
+- [Case 2017: 哥特双胞胎卧室漫画](cat-comic.md#-例-2017哥特双胞胎卧室漫画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (175)
+## 🏷️ [Brand & Packaging](cat-brand.md) (181)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -3533,11 +3687,23 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 1922: 高端椰子护肤品产品摄影](cat-brand.md#️-例-1922高端椰子护肤品产品摄影)
 
 - [Case 1925: 受审查的兔女战士素描](cat-brand.md#️-例-1925受审查的兔女战士素描)
+
+- [Case 1956: Glossy Codex 与 Hermes Tech 缩略图](cat-brand.md#️-例-1956glossy-codex-与-hermes-tech-缩略图)
+
+- [Case 1981: 守护的黑猫与嘶叫的小猫](cat-brand.md#️-例-1981守护的黑猫与嘶叫的小猫)
+
+- [Case 1991: 新艺术风格珠宝蝴蝶](cat-brand.md#️-例-1991新艺术风格珠宝蝴蝶)
+
+- [Case 1996: 电影级动漫风格照片转换](cat-brand.md#️-例-1996电影级动漫风格照片转换)
+
+- [Case 2004: 韩式美妆技巧缩略图](cat-brand.md#️-例-2004韩式美妆技巧缩略图)
+
+- [Case 2010: 绚丽的六月花园](cat-brand.md#️-例-2010绚丽的六月花园)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (53)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (60)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -3642,6 +3808,20 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 1887: 照片转动漫风格](cat-edit.md#-例-1887照片转动漫风格)
 
 - [Case 1904: 民间扁平化插画风格转换](cat-edit.md#-例-1904民间扁平化插画风格转换)
+
+- [Case 1945: 将图片转换为 16 位复古像素艺术](cat-edit.md#-例-1945将图片转换为-16-位复古像素艺术)
+
+- [Case 1957: 电影级动漫风格转换对比](cat-edit.md#-例-1957电影级动漫风格转换对比)
+
+- [Case 1986: 可爱童书风格可丽饼插画](cat-edit.md#-例-1986可爱童书风格可丽饼插画)
+
+- [Case 1988: 民间艺术涂鸦风格转换](cat-edit.md#-例-1988民间艺术涂鸦风格转换)
+
+- [Case 1997: 电影感动漫照片转换](cat-edit.md#-例-1997电影感动漫照片转换)
+
+- [Case 1998: 电影感动漫冬季照片转换](cat-edit.md#-例-1998电影感动漫冬季照片转换)
+
+- [Case 2000: 照片转动漫风格](cat-edit.md#-例-2000照片转动漫风格)
 ---
 
 <a id="fun"></a>

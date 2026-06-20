@@ -2684,3 +2684,155 @@ Create a high-quality 3D render of a collectible chibi cyber-ninja figurine on a
 
 ---
 
+### 🧸 例 1960：3D CG 东方奇幻角色肖像
+
+![3D CG 东方奇幻角色肖像](../../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="比例" default="9:16"} 竖版，高精度 3D CG 东方幻想女性角色人像，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，胸部以上近景到半身构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 {argument name="视觉年龄" default="20–26 岁"}，整体气质清冷、温柔、知性、安静，带一点贵气与空灵感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级光影与高级虚拟角色写真氛围。
+
+人物拥有精致的东方美型脸，小巧柔和的鹅蛋脸，面部轮廓流畅清秀，皮肤白皙细腻，带轻微通透感与柔和皮肤着色。眼睛大而清澈，瞳色为冰蓝色与浅青蓝色混合，瞳孔有细腻玻璃质感与高光，眼神温柔安静，略带若有所思的距离感。睫毛纤长，眼妆清透精致，眼尾带一点淡橘粉与浅红晕染，增强灵气。鼻梁秀气自然，嘴唇柔软小巧，唇色为低饱和蜜桃粉，嘴唇微启，神情轻柔、克制、优雅。
+
+发型为浅银蓝色长发，发丝柔顺细腻，带淡冷光泽与高精度发丝建模。刘海轻盈，额前有自然分束碎发，一侧脸旁垂落柔软发丝修饰轮廓。头发后部盘成低发髻或松散低丸子头，并保留部分长发自然披落到肩侧与背后。发髻上点缀黑色蝴蝶结发饰、珍珠垂链与小型珠饰，精致优雅。耳饰为长款东方幻想风耳坠，金属底托搭配蓝绿色宝石水滴与流苏细节，轻奢华丽。手腕佩戴细致金属手镯，指甲为淡蓝色或青蓝色美甲，增强整体统一感。
+
+服装为黑色东方幻想轻礼服或修身无袖长裙，上半身为黑色贴身抹胸 / 挂脖式结构，材质带丝缎光泽与细腻褶皱，边缘有精致蕾丝滚边或珠饰细节，整体剪裁简洁但高级，突出肩颈、锁骨与手臂线条。服装整体风格兼具现代优雅与轻东方幻想感，不低俗，强调成熟、精致、安静的女性魅力。
+
+人物姿势为坐在窗边桌旁，身体微微侧向镜头，一只手肘轻放桌面，手背自然托住下巴或脸侧，另一只手自然垂落或置于桌边。肩颈放松，背部与手臂线条流畅，姿态安静从容，像在午后庭院茶室中短暂停留的一瞬间。整体构图重点表现人物侧脸轮廓、蓝色眼睛、浅银蓝发、耳饰、手部姿态与上半身黑色礼服的精致细节。
+
+场景为明亮通透的东方幻想庭院茶室 / 临窗花廊空间，背景有木质立柱、窗框、室内外植物、柔和日光和若隐若现的东方庭院结构。人物身旁有绿色植物叶片、桌面小摆件或玻璃小瓶，增强生活感与雅致氛围。背景适度虚化，保留温暖光斑、窗外明亮散景与轻微空气感，营造高雅、静谧、治愈的氛围。
+
+光线采用午后暖金自然光与柔和侧逆光结合，阳光从窗边照入，形成发丝边缘光、肩颈轮廓光与桌面高光。面部保持柔和清晰补光，眼睛高光通透。皮肤、发丝、宝石、金属、黑色丝缎布料与植物都具有真实清晰的 PBR 材质表现。整体色调以浅银蓝、冰蓝、黑色、金色、绿色为主，画面精致、通透、安静、优雅、唯美，具有高端收藏级 3D CG 东方幻想角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, glossy black dress fabric, gemstone earrings, elegant oriental fantasy aesthetics, indoor garden tea house atmosphere, volumetric sunlight, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2067981149939663014) | 2026-06-19
+
+---
+
+### 🧸 例 1961：小红书 3D 创作者个人资料卡
+
+![小红书 3D 创作者个人资料卡](../../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%203D%20%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个垂直的小红书风格 3D 创作者个人资料卡，主题为 {argument name="creator niche" default="AI 时尚创作者"}，采用未来感紫黑色调、光泽感磨砂玻璃面板、柔和霓虹灯光以及高级感的社交媒体作品集布局。
+
+画布：9:16 竖屏手机海报，深炭灰至黑色背景，圆角外卡片边缘带有淡淡的紫罗兰色光晕，高对比度白色字体，点缀薰衣草色，并配有柔和的泛光照明。整体视觉效果应呈现为精致的 3D UI 资料卡，将时尚编辑影像与应用仪表板组件融为一体。
+
+主体：在左侧放置一个全身风格化的 3D 女性时尚创作者头像，略微悬浮于底部上方，身穿闪亮的虹彩薰衣草色飞行员夹克、黑色短款上衣、黑色工装慢跑裤和厚底白色运动鞋。头发扎成凌乱的高丸子头，面部刻意进行柔焦或匿名化处理，身体周围环绕着一个发光的紫色圆环，并伴有几个漂浮的半透明紫色球体和水晶形状。
+
+布局：右上角设置大标题块，显示“{argument name="headline text" default="AI 时尚创作者"}”，采用加粗白色无衬线字体；下方副标题显示“{argument name="subtitle text" default="用 AI 重塑风格"}”。副标题下方包含 3 个胶囊标签：“AI 时尚设计师”、“数字创作者”和“视觉叙事者”，每个标签配有小图标和紫色渐变样式。
+
+创作者数据面板：添加一个名为“Creator Stats”的圆角玻璃面板，配有一个小型柱状图图标。内部显示 4 列数据，由细微的垂直分隔线隔开：28.6K 粉丝（配人物图标）、1.2M 浏览量（配上升趋势图标）、176K 点赞（配爱心图标）以及 320 次收藏（配书签图标）。
+
+内容支柱面板：添加一个名为“Content Pillars”的圆角玻璃面板。内部显示 4 个带有图标和标签的正方形渐变卡片：“AI 时尚设计”（配连衣裙模特图标）、“数字型录”（配闪光图标）、“风格视觉”（配相机图标）和“技巧与洞察”（配灯泡图标）。
+
+审美面板：添加一个名为“Aesthetic”的圆角面板。包含 5 个垂直缩略图卡片，展示未来感抽象/时尚影像，下方均配有小型圆角标签：“未来感”、“极简”、“大胆”、“单色”和“梦幻”。使用紫色、丁香紫、黑色、铬色和柔和的蓝色作为色彩点缀。
+
+工具包面板：在右侧放置一个较窄的圆角面板，命名为“Toolkit”，配有一个小型公文包图标。列出 6 个工具，配有可识别的小型应用风格图标和白色文字：Midjourney、Stable Diffusion、Photoshop、Blender、Runway 和 Topaz Photo AI。行与行之间使用细微的水平分隔线。
+
+精选帖子面板：在底部创建一个宽大的圆角面板，命名为“Featured Post”。左侧包含一张矩形图片预览，展示同一位身穿虹彩外套的头像，置身于超现实的薰衣草色未来建筑场景中，旁边是反光的湖水。右侧添加一个紫色分类胶囊标签“数字型录”，帖子标题为“{argument name="featured post title" default="宇宙漂移系列"}”，描述文字为：“未来主义与流动性的融合。用 AI 探索风格的新维度。”添加 3 个标签：“AI 时尚”、“未来感”和“型录”。在此面板底部，显示 3 个互动指标及图标：爱心 12.4K、评论 460、收藏 1.2K。
+
+视觉风格：3D 渲染社交资料 UI，深色磨砂玻璃风格，圆角矩形，紫罗兰色霓虹边框光，柔和阴影，光泽感渐变卡片，清晰的现代无衬线字体，高级创作者品牌审美，细节丰富且整洁易读。所有文字保持英文，严格遵守标签、数据列、内容卡片、审美缩略图、工具、标签及互动指标的数量要求。无水印，无浏览器边框，无额外面板，无多余文字。
+
+[English]
+Goal: Create a vertical Xiaohongshu-style 3D creator profile card for {argument name="creator niche" default="AI Fashion Creator"}, with a futuristic purple-black aesthetic, glossy glassmorphism panels, soft neon lighting, and a premium social-media portfolio layout.
+
+Canvas: Portrait 9:16 mobile poster, dark charcoal-to-black background, rounded outer card with a subtle violet glow along the edges, high-contrast white typography, lavender accents, and soft bloom lighting. The overall look should feel like a polished 3D UI profile card, combining fashion editorial imagery with app-dashboard components.
+
+Main subject: On the left side, place one full-body stylized 3D female fashion creator avatar floating slightly above the bottom, wearing a shiny iridescent lavender bomber jacket, black cropped top, black cargo jogger pants, and chunky white sneakers. Her hair is tied in a high messy bun, her face is intentionally softly blurred or anonymized, and she is surrounded by a glowing purple ring wrapping around her body plus several floating translucent purple orbs and crystal shapes.
+
+Layout: Large headline block in the upper right reading “{argument name="headline text" default="AI Fashion Creator"}” in bold white sans-serif type, with a subtitle underneath reading “{argument name="subtitle text" default="Redefining style through AI"}”. Below the subtitle, include exactly 3 pill badges: “AI Fashion Designer”, “Digital Creator”, and “Visual Storyteller”, each with a small icon and purple gradient styling.
+
+Creator Stats panel: Add one rounded glass panel titled “Creator Stats” with a small bar-chart icon. Inside it, show exactly 4 stat columns separated by faint vertical dividers: 28.6K Followers with a people icon, 1.2M Views with an upward trend icon, 176K Likes with a heart icon, and 320 Saved with a bookmark icon.
+
+Content Pillars panel: Add one rounded glass panel titled “Content Pillars”. Inside it, show exactly 4 square gradient cards with icons and labels: “AI Fashion Design” with a dress mannequin icon, “Digital Lookbooks” with a sparkle icon, “Style Visuals” with a camera icon, and “Tips & Insights” with a lightbulb icon.
+
+Aesthetic panel: Add one rounded panel titled “Aesthetic”. Include exactly 5 vertical thumbnail cards showing futuristic abstract/fashion imagery, each with a small rounded label underneath: “Futuristic”, “Minimal”, “Bold”, “Monochrome”, and “Dreamy”. Use purple, lilac, black, chrome, and soft blue color accents.
+
+Toolkit panel: Place a narrower right-side rounded panel titled “Toolkit” with a small briefcase icon. List exactly 6 tools with recognizable small app-style icons and white text: Midjourney, Stable Diffusion, Photoshop, Blender, Runway, and Topaz Photo AI. Separate rows with subtle horizontal dividers.
+
+Featured Post panel: At the bottom, create a wide rounded panel titled “Featured Post”. On the left, include one rectangular image preview of the same avatar in an iridescent coat standing in a surreal lavender futuristic architectural scene beside reflective water. On the right, add a small purple category pill reading “Digital Lookbook”, the post title “{argument name="featured post title" default="Cosmic Drift Collection"}”, and description text: “A fusion of futurism and fluidity. Exploring new dimensions of style with AI.” Add exactly 3 tag pills: “AI Fashion”, “Futuristic”, and “Lookbook”. At the bottom of this panel, show exactly 3 engagement metrics with icons: heart 12.4K, comment 460, bookmark 1.2K.
+
+Visual style: 3D rendered social profile UI, dark glassmorphism, rounded rectangles, violet neon rim light, soft shadows, glossy gradient cards, crisp modern sans-serif typography, premium creator-branding aesthetic, highly detailed but clean and readable. Keep all text in English, maintain exact counts for badges, stat columns, content cards, aesthetic thumbnails, tools, tags, and engagement metrics. No watermark, no browser chrome, no extra panels, no extra text.
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2067980951632674924) | 2026-06-19
+
+---
+
+### 🧸 例 1973：从草图到现实的 3D 幻觉
+
+![从草图到现实的 3D 幻觉](../../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%9A%84%203D%20%E5%B9%BB%E8%A7%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的人脸作为精准面部参考，创作一幅令人惊叹的超写实 3D 幻觉艺术作品。
+
+一位 {argument name="subject" default="帅气的年轻旅行者"} 正从放置在质朴木桌上的 {argument name="source" default="螺旋笔记本"} 中走出。笔记本页面上绘满了复杂的旅行素描、护照印章、飞机涂鸦、山脉轮廓、指南针和世界地图。角色的下半身依然是纸上细节丰富的石墨铅笔素描，而上半身则无缝转化为走出笔记本的逼真 3D 人物。
+
+请严格使用上传的人脸参考来呈现角色的面部特征、发型、肤色、眼型、表情和整体相似度。这位旅行者带着自信且充满冒险精神的微笑，面部细节与参考图完全一致。他穿着 {argument name="clothing" default="休闲米色 T 恤、浅色牛仔夹克、修身工装裤、白色运动鞋"}，并背着一个时尚的旅行背包。
+
+在他周围，微型 3D 旅行元素从笔记本中浮现，包括埃菲尔铁塔、热气球、雪山、棕榈树、复古飞机、旅行标志和漂浮的护照印章，营造出一种神奇的旅行效果。素描线条逐渐融入逼真的纹理，实现了从绘画到现实的完美过渡。
+
+温暖的黄金时刻阳光照亮了木桌，投下柔和的电影感阴影，增强了深度和真实感。写实的笔记本纹理、浅景深、超细节混合媒介艺术、创意视觉幻觉、电影级构图、旅行灵感氛围、大师级品质、超写实渲染、非凡细节、8K 分辨率、专业概念艺术、从草图到现实的无缝转换。比例 4:5
+
+[English]
+Create a stunning ultra-realistic 3D illusion artwork using the uploaded face as the exact facial reference.
+
+A {argument name="subject" default="handsome young traveler"} is emerging from a {argument name="source" default="spiral notebook"} placed on a rustic wooden desk. The notebook page is filled with intricate hand-drawn travel sketches, passport stamps, airplane doodles, mountain outlines, compasses, and a world map. The lower half of the character remains a highly detailed graphite pencil sketch on the paper, while the upper half seamlessly transforms into a lifelike 3D human figure stepping out of the notebook.
+
+Use the uploaded face reference exactly for the character’s facial features, hairstyle, skin tone, eye shape, expression, and overall likeness. The traveler has a confident adventurous smile and realistic facial details matching the reference image. He wears a {argument name="clothing" default="casual beige t-shirt, light denim jacket, slim-fit cargo pants, white sneakers"}, and carries a stylish travel backpack.
+
+Around him, miniature 3D travel elements emerge from the notebook, including the Eiffel Tower, hot air balloons, snow-capped mountains, palm trees, a vintage airplane, travel signs, and floating passport stamps, creating a magical journey effect. The sketch lines gradually blend into realistic textures, producing a flawless transition from drawing to reality.
+
+Warm golden-hour sunlight illuminates the wooden desk, casting soft cinematic shadows and enhancing depth and realism. Photorealistic notebook textures, shallow depth of field, ultra-detailed mixed-media artwork, creative optical illusion, cinematic composition, travel-inspired atmosphere, masterpiece quality, hyper-realistic rendering, extraordinary detail, 8K resolution, professional concept art, seamless sketch-to-reality transformation.ratio 4:5
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2067948869091278932) | 2026-06-19
+
+---
+
+### 🧸 例 1999：女大学生坐在 2026 数字上
+
+![女大学生坐在 2026 数字上](../../images/%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%90%E5%9C%A8%202026%20%E6%95%B0%E5%AD%97%E4%B8%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖版单反肖像，画面中一位年轻女大学生坐在公园里巨大的独立 3D 数字 {argument name="year text" default="2026"} 上。她位于画面中心，随意地坐在数字顶部，一条腿叠在另一条腿上，一只手放在大数字“2”的左侧，两只白色运动鞋在前方清晰可见。保持主体为照片级写实的大学生，留着长直浅棕色头发，垂在肩上，面带自然微笑，姿态放松自信。服装：{argument name="top" default="黄色短款连帽衫，配有黑色抽绳和袖子上的黑色侧条纹"}，{argument name="pants" default="黑色紧身牛仔裤"}，以及 {argument name="shoes" default="白色系带运动鞋"}。3D 文字应包含 4 个大数字“2”、“0”、“2”、“6”，正面为暖金色，侧面为深黑色，放置在带有细微倒影的湿润石板路上。背景：郁郁葱葱的绿色公园，有树木、树篱和淡淡的粉色花朵，背景经过重度模糊处理，具有浅景深效果。光线：柔和的日光，右上角有温暖的电影级太阳耀斑，逼真的高光，自然的肤色，以及柔和的对比度。相机效果：85mm 镜头，浅景深，焦外成像，照片级写实，超细节，8K，竖屏构图，无额外文字，无水印，无其他人物。
+
+[English]
+Create an ultra-realistic vertical DSLR portrait of a young college girl sitting on oversized freestanding 3D numerals spelling {argument name="year text" default="2026"} in a beautiful park. She is centered in frame, seated casually across the top of the numbers with one leg crossed over the other, one hand resting on the left side of the large “2,” and both white sneakers visible near the front. Preserve the subject as a photorealistic college-age woman with long straight light-brown hair falling over her shoulders, a natural smile, and relaxed confident posture. Outfit: {argument name="top" default="yellow cropped hoodie with black drawstrings and black side stripes on the sleeves"}, {argument name="pants" default="black skinny jeans"}, and {argument name="shoes" default="white lace-up sneakers"}. The 3D text should have exactly 4 large digits, “2,” “0,” “2,” and “6,” with warm gold front faces and dark black side depth, placed on wet stone paving with subtle reflections. Background: lush green park with trees, hedges, and faint pink flowers, heavily blurred with shallow depth of field. Lighting: soft daylight with warm cinematic sun flare from the upper right, realistic highlights, natural skin tones, and gentle contrast. Camera look: 85mm lens, shallow depth of field, bokeh, photorealistic, ultra-detailed, 8K, portrait orientation, no extra text, no watermark, no additional people.
+```
+
+**来源：** [@Ayesha](https://x.com/AyeshaAi12/status/2067829922882785452) | 2026-06-19
+
+---
+
+### 🧸 例 2016：足球底座上的 Q 版流行歌星
+
+![足球底座上的 Q 版流行歌星](../../images/%E8%B6%B3%E7%90%83%E5%BA%95%E5%BA%A7%E4%B8%8A%E7%9A%84%20Q%20%E7%89%88%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%98%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个日落时分足球场上的写实收藏级玩具场景：两个大头 Q 版乙烯基流行歌星人偶站在一个圆形的绿色足球场展示底座上，底座带有红色边缘和白色球场标线。左侧人偶为女性歌手，拥有极其夸张蓬松的 {argument name="female hair color" default="金黄色"} 卷发，身穿闪亮的 {argument name="female outfit color" default="红色"} 两件套舞台装，配有交叉上衣、流苏裙和高筒亮片靴，垂下的手中握着一支黑色麦克风。右侧人偶为男性歌手，留着光滑油亮的 {argument name="male hair color" default="黑色"} 发型，身穿闪烁的 {argument name="male jacket color" default="红色"} 亮片夹克，内搭白色衬衫，配黑色九分裤和亮面黑皮鞋，垂下的手中握着一支黑色麦克风。他们内侧抬起的手臂在中心上方交汇，做出庆祝的姿势。画面需包含恰好 2 个玩偶、恰好 2 支手持麦克风以及恰好 1 个共享的圆形足球主题底座。将它们置于前景的写实草地上，背景为模糊的体育场观众席、两侧明亮的体育场泛光灯，以及戏剧性的橙紫色黄昏天空。采用浅景深、光面塑料玩具质感、大头小身比例、充满活力的演唱会氛围、电影级灯光，以及 16:9 横向构图。用一个纯色不透明的矩形 {argument name="face censor color" default="暖棕色"} 色块遮住每个玩偶的脸部，使其面部特征不可见。
+
+[English]
+Create a photorealistic collectible toy scene on a soccer stadium field at sunset: two big-headed chibi vinyl pop-star figurines standing on a single round green soccer-field display base with a red rim and white pitch markings. The left figurine is a female singer with extremely oversized voluminous curly {argument name="female hair color" default="golden blonde"} hair, wearing a sparkly {argument name="female outfit color" default="red"} two-piece stage outfit with crisscross top, fringe skirt, tall glitter boots, and holding one black microphone in her lowered hand. The right figurine is a male singer with slick glossy {argument name="male hair color" default="black"} hair, wearing a sparkling {argument name="male jacket color" default="red"} sequined jacket over a white shirt, black cropped pants, shiny black shoes, and holding one black microphone in his lowered hand. Their raised inner arms meet in a celebratory clasp above the center. Include exactly 2 figurines, exactly 2 handheld microphones, and exactly 1 shared circular soccer-themed base. Place them in the foreground on realistic grass, with a blurred packed stadium crowd, bright stadium floodlights on both sides, and a dramatic orange-purple dusk sky behind them. Use shallow depth of field, glossy plastic toy texture, oversized heads and small bodies, playful high-energy concert personality, cinematic lighting, and a 16:9 horizontal composition. Cover each figurine’s face with a plain opaque rectangular {argument name="face censor color" default="warm brown"} block, with no facial features visible.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067780848032809202) | 2026-06-19
+
+---
+

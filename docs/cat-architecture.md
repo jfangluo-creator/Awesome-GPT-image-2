@@ -988,3 +988,39 @@ Create a square anime-style illustration of two young women forming a yin-yang t
 
 ---
 
+### 🏛️ 例 1939：动漫风厨房青梅糖浆场景
+
+![动漫风厨房青梅糖浆场景](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8E%A8%E6%88%BF%E9%9D%92%E6%A2%85%E7%B3%96%E6%B5%86%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅明亮、温馨的动漫风格厨房插画，描绘一位年轻家庭主妇在雨天的周六早晨观察自制青梅糖浆发酵的场景。画面采用 16:9 宽幅横向构图，尽管窗外下着雨，室内依然阳光明媚、充满活力，具有柔和的电影级景深、温暖的金色高光以及细腻的手绘动漫渲染效果。在左前方中心位置，放置一个大型透明玻璃密封罐，里面装满黄绿色和橙色的青梅、半透明的冰糖晶体，底部汇聚着金色的糖浆；玻璃需呈现出强烈的反光和折射效果，质感通透。在右侧，描绘一位留着 {argument name="hair color" default="深棕色头发"} 的年轻女性，头发扎成凌乱的丸子头并戴着蓝色格子发带，身穿白色 T 恤和薄荷绿碎花围裙，单手肘撑在厨房台面上，深情地注视着玻璃罐；面部可保持空白或模糊处理，但姿态要保持温柔放松。在主罐子外，包含 12 个清晰可见的果实相关前景元素：左侧 1 个装满青梅的黄色篮子，左前方台面上有 3 颗散落的青梅，前中心附近有 1 颗切开并露出果核的青梅，女性附近的小白碟上有 1 颗青色青梅，右侧有 1 个装满黄青梅的红色波点碗，下方有 1 个绿松石色碗，最右侧有 1 个带花纹的玻璃杯，1 条折叠的碎花厨房抹布，最左侧有 1 个插着小白花的花瓶，以及窗边 1 个色彩鲜艳的饮料瓶。背景设定在一个可爱的绿松石色厨房中，配有青色瓷砖防溅墙、蓝色橱柜、悬挂的金属锅具和汤勺、摆放碗碟的开放式搁架，以及一扇木框窗户，透出雨天柔和模糊的户外光线。台面上铺着印有橙色、蓝色、绿色和白色图案的彩色碎花桌布。整体氛围：治愈、居家、清新、充满期待、闪耀且略带怀旧感。无文字，无水印，无多余字符。
+
+[English]
+Create a bright, cozy anime-style kitchen illustration of a young homemaker watching homemade plum syrup ferment on a rainy Saturday morning. The scene is a wide horizontal 16:9 composition, sunlit and cheerful despite rain outside, with soft cinematic depth of field, warm golden highlights, and detailed hand-painted anime rendering. In the center-left foreground, place one large clear glass clamp-lid jar filled with yellow-green and orange plums, translucent rock sugar crystals, and golden syrup pooling at the bottom; make the glass glossy with strong reflections and refractions. To the right, show a young woman with {argument name="hair color" default="dark brown hair"} tied in a messy bun with a blue checkered headband, wearing a white T-shirt and a mint-green floral apron, leaning on the kitchen counter with one elbow and looking fondly at the jar; use a blank smooth face area or obscured facial details if needed, but keep the pose gentle and relaxed. Include exactly 12 visible fruit-related foreground elements outside the main jar: 1 yellow basket of plums on the left, 3 loose plums on the front-left counter, 1 halved plum with pit near the front center, 1 single green plum on a small white saucer near the woman, 1 red polka-dot bowl full of yellow plums on the right, 1 turquoise bowl beneath it, 1 patterned drinking glass on the far right, 1 folded floral kitchen cloth, 1 vase of small white flowers at the far left, and 1 colorful drink bottle near the window. Set the background in a cute turquoise kitchen with teal tile backsplash, blue cabinets, hanging metal pans and ladles, open shelves with bowls, and a wooden-framed window with rainy, softly blurred outdoor light. Use a colorful floral tablecloth with orange, blue, green, and white patterns across the counter. Overall mood: wholesome, domestic, fresh, anticipatory, sparkling, and slightly nostalgic. No text, no watermark, no extra characters.
+```
+
+**来源：** [@ゆな｜AIクリエイター](https://x.com/yuna41534577/status/2068060218521751912) | 2026-06-19
+
+---
+
+### 🏛️ 例 1990：编辑风格几何肖像插画
+
+![编辑风格几何肖像插画](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%87%A0%E4%BD%95%E8%82%96%E5%83%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将附图中的人物绘制为扁平化编辑风格插画，人物穿着与照片中相同的服装，置于一个受照片启发、简洁的 {argument name="background" default="包含大型垂直和水平色块的几何室内空间"} 中。使用简化的面部特征、修长柔和的比例，{argument name="texture" default="哑光水粉画般的质感"}，细腻的纸张纹理，营造平静沉思的氛围，精心控制留白，无黑色轮廓线，非写实风格，无 3D 渲染，无视觉杂乱。现代编辑艺术风格，构图平衡，色彩和谐，采用 4:5 垂直纵横比。
+
+[English]
+Flat editorial illustration of {argument name="subject" default="the person from the attached photo"}, wearing the {argument name="clothing" default="same clothing shown in the photo"}, placed within a {argument name="interior style" default="clean geometric interior"} featuring large vertical and horizontal color-blocked shapes inspired by the photograph. Use simplified facial features, elongated and soft proportions, matte gouache-like textures, subtle paper grain, a calm and contemplative mood, carefully controlled negative space, no black outlines, no photorealism, no 3D rendering, no visual clutter. Modern editorial art style with balanced composition, refined color harmony, and a vertical 4:5 aspect ratio.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2067876068061753365) | 2026-06-19
+
+---
+

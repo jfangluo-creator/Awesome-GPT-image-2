@@ -1510,3 +1510,149 @@ Please transform the entire image into a single {argument name="style" default="
 
 ---
 
+### 🔧 例 1945：将图片转换为 16 位复古像素艺术
+
+![将图片转换为 16 位复古像素艺术](../../images/%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%2016%20%E4%BD%8D%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图像转换为高质量的复古像素艺术，同时保留原始构图、主体位置、摄像机角度、比例、姿势、服装和整体场景结构。格式：保留原始图像的纵横比、构图和取景。请勿裁剪、缩放、重新定位或重新设计场景。保持原始的视觉层级和主体位置。主体：保留主体、可识别的轮廓、面部朝向、服装结构、姿势、身体比例和关键视觉特征。在减少不必要细节的同时，确保主体清晰可辨。请勿更改人物、解剖结构、服装或场景结构。像素艺术风格：将整张图像转换为优质的 {argument name="bit depth" default="16-bit"} 复古像素艺术。在整张图像上使用严格的低分辨率像素网格。在渲染前进行降采样，形成清晰可见的大像素。保持像素大小一致。像素级完美的几何形状。清晰的硬边缘。无半写实渲染。颜色：有限的复古游戏调色板。形状之间具有强烈的对比度。清晰的色彩分离。{argument name="color quality" default="精心挑选的颜色，具有出色的可读性"}。无过度的色彩变化。阴影：简化的复古游戏阴影。平坦的色块区域。每个表面仅使用一到两种阴影色调。极简的高光。无写实渐变。无柔和的光影过渡。环境：将所有环境元素转换为像素艺术等效物——包括背景、道具、建筑、植被、地形、天空和光照。在简化细节的同时保持场景深度和透视感。质量：无模糊。无抗锯齿。无平滑过渡。无噪点。无伪影。无涂抹。最终效果：一张精致的 {argument name="console era" default="SNES-era"} 复古游戏截图——忠实于原始构图，每一个细节都达到像素级完美。
+
+[English]
+Transform the uploaded image into clean high-quality retro pixel art while preserving the original composition, subject placement, camera angle, proportions, pose, clothing, and overall scene structure. FORMAT Preserve the original image aspect ratio, composition and framing. Do not crop, zoom, reposition, or redesign the scene. Maintain the original visual hierarchy and subject placement. SUBJECT Preserve the main subject, recognizable silhouette, facial direction, clothing structure, pose, body proportions, and key visual features. Reduce unnecessary detail while keeping the subject immediately recognizable. Do not alter the person, anatomy, outfit, or scene structure. PIXEL ART STYLE Convert the entire image into premium {argument name="bit depth" default="16-bit"} retro pixel art. Use a strict low-resolution pixel grid across the entire image. Downsample into large visible pixels before rendering. Consistent pixel size throughout. Clean pixel-perfect geometry. Crisp hard edges. No semi-realistic rendering. COLOR Limited retro gaming color palette. Strong contrast between shapes. Clear color separation. {argument name="color quality" default="Carefully selected colors with excellent readability"}. No excessive color variation. SHADING Simplified retro-game shading. Flat color regions. One to two shading tones per surface. Minimal highlights. No realistic gradients. No soft lighting transitions. ENVIRONMENT Convert all environmental elements into pixel-art equivalents — background, props, architecture, vegetation, terrain, sky, lighting. Keep scene depth and perspective while simplifying details. QUALITY No blur. No anti-aliasing. No smooth transitions. No noise. No artifacts. No smudging. FINAL LOOK A polished {argument name="console era" default="SNES-era"} retro game screenshot — faithful to the original composition, pixel-perfect in every detail.
+```
+
+**来源：** [@Quadcode AI](https://x.com/quadcode_ai/status/2068023861363315156) | 2026-06-19
+
+---
+
+### 🔧 例 1957：电影级动漫风格转换对比
+
+![电影级动漫风格转换对比](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张横向并排对比图，展示同一个小女孩的两个版本：左侧为写实风格的休闲照片，右侧为奢华的电影级日本动漫风格转换。画布：16:9 宽屏对比布局，中间由一条细长的垂直黑色分割线精确平分，不含任何标题或标签。主体：一个小女孩在每个面板中各出现一次，全身照，背景为现代风格的室内墙面，墙面由垂直黑色木条和灰色大理石/混凝土板组成。她留着长长的深棕色头发，面部带有矩形模糊遮挡，左手抬起触碰垂直木条，右手叉腰，双脚并拢，呈现出自信的儿童姿态。服装：淡粉色运动套装，包括拉链连帽衫、侧边条纹宽松慢跑裤、白色 T 恤和白色运动鞋；保留衣服和裤子上清晰可见的品牌文字“alo”。可见 Logo 文字计数：总共 4 处“alo”，每个面板的衬衫和裤子上各一处。左侧面板风格：柔和、略显模糊的智能手机写实照片，柔和的日光，简单的室内地面，浅灰色墙壁，光影效果较平淡。右侧面板风格：高级电影级动漫剧照，高度精细的绘画质感，来自右上方的温暖金色阳光，发光的尘埃颗粒，更深邃的阴影，更丰富的大理石纹理，更生动的发丝和衣物褶皱，姿势和构图与左侧面板保持一致。确保背景建筑、服装颜色、身体比例、姿态以及面部遮挡位置在两个面板中高度匹配。使用 {argument name="anime style" default="luxurious cinematic Japanese anime film still"}（动漫风格）、{argument name="outfit color" default="pale pink"}（服装颜色）、{argument name="visible brand text" default="alo"}（可见品牌文字）、{argument name="lighting mood" default="warm golden sunlight"}（光影氛围）以及 {argument name="face treatment" default="rectangular blurred face censor block"}（面部处理）。约束条件：无额外人物，无额外物体，无文字标签，无水印，不得更改姿势，保持分屏的前后对比构图。
+
+[English]
+Create a horizontal side-by-side comparison image showing the same young girl in two versions: the left panel is a realistic casual photo and the right panel is a luxurious cinematic Japanese anime-style transformation. Canvas: wide 16:9 comparison layout, split exactly down the center by a thin vertical black divider, with no captions or labels. Subject: one small girl appears once in each panel, standing full body indoors against a modern wall of vertical black wooden slats and gray marble/concrete panels. She has very long dark brown hair, a rectangular blurred face censor block, her left hand raised and touching the vertical slats, her right hand resting on her hip, feet close together, confident childlike pose. Outfit: pale pink tracksuit with zip hoodie, loose jogger pants with side stripes, white T-shirt, white sneakers; preserve the visible brand text "alo" on the shirt and pants. Counted visible logo text: exactly 4 instances of "alo" total, one on the shirt and one on the pants in each panel. Left panel style: soft, slightly blurry smartphone photo realism, muted daylight, simple indoor floor, pale gray wall, less dramatic lighting. Right panel style: premium cinematic anime film still, highly polished painterly rendering, warm golden sunlight from the upper right, glowing dust particles, deeper shadows, richer marble texture, more dramatic hair strands and fabric folds, same pose and composition as the left panel. Keep the background architecture, clothing colors, body proportions, stance, and censor block placement closely matched between panels. Use {argument name="anime style" default="luxurious cinematic Japanese anime film still"}, {argument name="outfit color" default="pale pink"}, {argument name="visible brand text" default="alo"}, {argument name="lighting mood" default="warm golden sunlight"}, and {argument name="face treatment" default="rectangular blurred face censor block"}. Constraints: no extra people, no extra objects, no text labels, no watermark, no change to the pose, keep the split-screen before-and-after composition.
+```
+
+**来源：** [@طالب](https://x.com/_TALEBM_/status/2067985562179449175) | 2026-06-19
+
+---
+
+### 🔧 例 1986：可爱童书风格可丽饼插画
+
+![可爱童书风格可丽饼插画](../../images/%E5%8F%AF%E7%88%B1%E7%AB%A5%E4%B9%A6%E9%A3%8E%E6%A0%BC%E5%8F%AF%E4%B8%BD%E9%A5%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为可爱且充满奇思妙想的童书插画，画面中是一个可爱的卡哇伊 {argument name="character" default="小女孩"}，手里拿着一个 {argument name="snack" default="巧克力冰淇淋可丽饼"}，有着大大的闪亮眼睛、红润的脸颊、柔和圆润的面部特征，背景为 {argument name="background" default="色彩缤纷的糖果店"}。
+
+将真实的咖啡馆替换为一个迷人的卡通可丽饼摊位，配有彩色菱形瓷砖、粉彩收银机、手写菜单项目（写着“CREPES • SWEET • YUMMY • HAPPY”）、花朵、爱心、星星、涂鸦以及漂浮在场景周围的俏皮装饰元素。
+
+采用明亮欢快的配色方案，包含黄色、粉色、青色、橙色、紫色和白色调。扁平插画风格融合现代童书艺术，线条干净利落，阴影平滑，带有手绘质感，点缀可爱的花卉装饰，营造出温馨快乐的氛围，呈现出贴纸般的审美。
+
+女孩穿着明黄色的碎花连衣裙，自豪地拿着可丽饼，头部微微倾斜，表情愉悦，周围环绕着奇思妙想的涂鸦和积极的氛围。柔和的灯光，高细节，构图迷人，具备童书海报的品质，符合 Pinterest 的审美，充满治愈和温馨感。
+
+风格灵感源自现代卡哇伊插画、儿童绘本、文具艺术、可爱的咖啡馆品牌设计，呈现出色彩缤纷的矢量艺术外观，极度简洁，专业插画，杰作，高度细节化，色彩鲜艳，4K 分辨率。
+
+[English]
+Transform the uploaded photo into a cute whimsical children's storybook illustration, adorable kawaii {argument name="character" default="little girl"} holding a {argument name="snack" default="chocolate ice cream crepe"}, big sparkling eyes, rosy cheeks, soft rounded facial features, {argument name="background" default="colorful candy-shop background"}.
+
+Replace the real café with a charming cartoon crepe stand featuring colorful diamond-pattern tiles, pastel cash register, handwritten menu board reading “CREPES • SWEET • YUMMY • HAPPY”, flowers, hearts, stars, doodles, sparkles, playful decorative elements floating around the scene.
+
+Bright cheerful color palette with yellow, pink, teal, orange, purple, and white tones. Flat illustration style mixed with modern children's book art, clean outlines, smooth shading, hand-painted textures, cute floral decorations, cozy happy atmosphere, sticker-like aesthetic.
+
+The girl wears a bright yellow dress with tiny floral patterns, holding the crepe proudly, head slightly tilted, joyful expression, surrounded by whimsical doodles and positive vibes. Soft lighting, high detail, charming composition, storybook poster quality, Pinterest aesthetic, wholesome and heartwarming mood.
+
+Style inspired by modern kawaii illustration, children's picture books, stationery art, cute café branding, colorful vector-art look, ultra clean, professional illustration, masterpiece, highly detailed, vibrant colors, 4K.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2067892989893185717) | 2026-06-19
+
+---
+
+### 🔧 例 1988：民间艺术涂鸦风格转换
+
+![民间艺术涂鸦风格转换](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将整张图像转换为 {argument name="illustration style" default="一幅扁平化的装饰性民间艺术插画，并带有涂鸦元素"}。使用与原图完全不同且大胆、有趣的配色方案。将所有细节简化为干净、扁平的形状，呈现出一种手工绘制、略带瑕疵的质感，仿佛画在白纸上一样。整体风格应为 {argument name="vibe" default="可爱、童趣、异想天开且富有魅力"}。
+
+[English]
+Tansform the entire image into a single flat, decorative {argument name="art style" default="folk-art illustration"} with {argument name="details" default="doodle elements"}. Use a bold and playful color palette that is completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if they were drawn on a sheet of white paper. The overall style should be {argument name="aesthetic" default="cute, childlike, whimsical, and charming"}.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2067888380634108118) | 2026-06-19
+
+---
+
+### 🔧 例 1997：电影感动漫照片转换
+
+![电影感动漫照片转换](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为基础图像，将其转换为 3:4 竖构图的高级电影感日式动漫画面。保留原始构图、姿势、摄像机角度、角色位置、肢体语言、取景、透视、车内环境、窗外景色、服装、毛绒配饰以及所有可见道具。保持被遮挡的面部为相同位置的纯色矩形块，不要自行添加面部特征。将整个场景转换为精致的动漫关键帧艺术，采用细腻的线条、柔和的绘画式阴影、透过车窗洒入的温暖黄金时刻阳光、发光的轮廓光、细微的尘埃颗粒、柔和的辉光、更丰富的色彩分级以及梦幻般的怀旧氛围。保持猫耳帽、粉色蝴蝶结、条纹垂坠系带、淡粉色长发、蓬松粉色外套以及两个带有红色蝴蝶结的白色毛绒角色的可爱毛绒质感。渲染效果应如同日本动画电影中的精致剧照，同时忠实于参考照片的布局和细节。使用 {argument name="aspect ratio" default="3:4"} 以及 {argument name="cinematic mood" default="warm golden-hour dreamy anime"} 风格。
+
+[English]
+Using REFERENCE_0 as the base image, transform it into a premium cinematic Japanese anime frame in a 3:4 vertical ratio. Preserve the original composition, pose, camera angle, character placement, body language, framing, perspective, car interior environment, window view, outfit, plush accessories, and all visible props. Keep the obscured face as a plain rectangular block in the same position rather than inventing facial features. Convert the entire scene into high-end anime key art with delicate linework, soft painterly shading, warm golden-hour sunlight streaming through the car window, glowing rim light, subtle dust particles, gentle bloom, richer color grading, and a dreamy nostalgic atmosphere. Maintain the cute fluffy textures of the cat-ear hat, pink bow, striped dangling ties, long pale pink hair, fluffy pink coat, and the two white plush characters with red bows. Make the rendering feel like a polished still from a Japanese animated film while staying faithful to the reference photo’s layout and details. Use {argument name="aspect ratio" default="3:4"} and a {argument name="cinematic mood" default="warm golden-hour dreamy anime"} look.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2067830289297195040) | 2026-06-19
+
+---
+
+### 🔧 例 1998：电影感动漫冬季照片转换
+
+![电影感动漫冬季照片转换](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E5%86%AC%E5%AD%A3%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为基础图像，将其转换为高质量的电影感日本动漫画面。保留原始构图、姿势、拍摄角度、角色位置、面部表情、肢体语言、取景、透视、环境布局、光照方向以及面部可见的隐私遮挡块。将照片转换为细节丰富的手绘动漫风格，具备清晰的线条、柔和的赛璐珞阴影、有质感的毛绒皮毛、富有表现力的高光以及精致的电影剧照质感。
+
+将场景提升为温暖的冬夜氛围：保留湿润的深色路面和边缘的积雪，但使地面更具反光感和绘画感，增加小水洼、散落的落叶和细微的雪斑。在右上角背景中加入温暖的电影感灯笼光芒，包括盆栽植物和一个带有日文字符的小型发光招牌/灯笼，同时确保这些背景元素自然融合且略微虚化。使用金橙色的轮廓光和倒影，与冷蓝灰色的路面形成对比，并运用柔和的景深、氛围感光斑以及高精度的动漫渲染。请勿更改儿童的恐龙服装、棒棒糖、站姿或整体构图；仅对图像进行风格化处理和丰富细节。
+
+[English]
+Using REFERENCE_0 as the exact base image, transform it into a premium cinematic Japanese anime frame. Preserve the original composition, pose, camera angle, character placement, facial expression, body language, framing, perspective, environment layout, lighting direction, and the visible privacy censor block over the face. Convert the photo into a richly detailed hand-painted anime look with clean linework, soft cel-shading, textured plush fur, expressive highlights, and a polished film-still finish.
+
+Enhance the scene into a warm winter evening atmosphere: keep the wet dark pavement and snow along the edges, but make the ground more reflective and painterly with small puddles, scattered fallen leaves, and subtle snow patches. Add warm cinematic lantern glow in the upper-right background, including potted plants and a small illuminated sign/lantern with Japanese characters, while keeping these background additions softly integrated and slightly out of focus. Use golden-orange rim light and reflections contrasting with cool blue-gray pavement, gentle depth of field, atmospheric bokeh, and high-detail anime rendering. Do not change the child’s dinosaur costume, lollipop, stance, or overall framing; only stylize and enrich the image.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2067830268153753934) | 2026-06-19
+
+---
+
+### 🔧 例 2000：照片转动漫风格
+
+![照片转动漫风格](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据照片创建一个动漫风格的角色。保留照片中的身体比例、面部表情、服装和发型。添加动漫角色的典型特征：大眼睛、可爱的脸庞、头发上的高光。角色应在白色背景下全身完整呈现。
+
+[English]
+Create an anime-style character based on a photo. Keep the body proportions, facial expression, clothing, and hairstyle from the photo. Add characteristic features of anime characters: eyes, cute face, shine on the hair. The character should be fully visible in the frame in full height, on a white background.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2067816572711055749) | 2026-06-19
+
+---
+

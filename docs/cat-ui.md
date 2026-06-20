@@ -3642,3 +3642,147 @@ Constraints: Keep the composition wide and uncluttered, preserve the exact count
 
 ---
 
+### 🖥️ 例 1937：虚构历史人物社交媒体动态
+
+![虚构历史人物社交媒体动态](../../images/%E8%99%9A%E6%9E%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%8A%A8%E6%80%81.jpg)
+
+**Prompt:**
+
+```text
+{argument name="人物A" default="織田信長"}のX(旧Twitterの)の画面を生成。{argument name="人物B" default="武田信玄"}とかと煽り合いしている投稿が見える。
+```
+
+**来源：** [@MISA@ブルバ120%](https://x.com/banana_ai_club2/status/2068075624913359048) | 2026-06-19
+
+---
+
+### 🖥️ 例 1941：超现实城市巨型结构建筑提示词
+
+![超现实城市巨型结构建筑提示词](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%9F%8E%E5%B8%82%E5%B7%A8%E5%9E%8B%E7%BB%93%E6%9E%84%E5%BB%BA%E7%AD%91%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+1. 城市墙：一面单一的 {argument name="structure material" default="浅色混凝土"} 公寓城市墙，耸立在空旷的 {argument name="terrain" default="草地"} 之上，其高度之巨，顶部已没入 {argument name="atmosphere" default="蓝绿色雾气"} 中，窗户排列融合成连续的垂直立面。9:16 垂直构图，从静谧草甸拍摄的远景长焦，60% 的画面为空旷草地与蓝色薄雾，下三分之一处有一匹小马和一条通往墙体的小土路；第一视觉焦点为空旷原野，第二视觉焦点为不可思议的城市巨构。清晨冷雾，柔和的漫射光，克制的浅灰与柔和绿色调，重复的公寓排窗软化为纹理，离地高处有一扇深色长方形大门。无街道级城市场景，无天际线拼贴，无多个独立塔楼，无集市，无交通，无繁杂工程，无管道，无起重机，无赛博朋克灯光，无可见文字，无 Logo，无水印。
+
+2. 倒置天花板：一座悬浮在黑色湿润平原上的单一倒置城市天花板，规模之大，仅有底部碎片进入画面，悬垂的建筑层叠消融在夜雾中。21:9 宽画幅低角度镜头，拍摄于空旷的反射平原，70% 的画面为雾气、黑暗与镜面般的地面，悬挑结构下方边缘处有三个微小的人影；最近处为湿润的空地，最终焦点为不可思议的城市底部。深蓝色夜雾，远处细微的暖色窗户纹理如同一道缝隙，哑光混凝土板，柔和的倒影，静谧感。无街道级城市场景，无天际线拼贴，无独立塔楼群，无交通，无起重机，无管道，无霓虹杂乱，无可见文字，无 Logo，无水印，无鱼眼畸变，无前景大特写脚部。
+
+3. 城市之门：一座切割穿过世界级城市大坝的单一堆叠式公寓城市之门，规模之大，两侧垂直边缘均超出画面，城市细节融合成一座静谧的居住悬崖。16:9 正面长镜头，横跨空旷的浅色盐滩，65% 的画面为留白前景，透过巨大的长方形开口可见雾气弥漫的明亮天空，两辆微小的车辆停在狭窄道路的门槛处；第一视觉焦点为空旷盐滩，第二视觉焦点为城市之门。白色薄雾，柔和的阴天光线，浅色混凝土与蓝灰色阴影，重复的窗户带如同静谧的表面纹理，开口的远端消融在雾气中。无街道级城市场景，无天际线拼贴，无奇幻废墟，无华丽城门，无科幻走廊，无多个独立塔楼，无交通，无起重机，无管道，无赛博朋克灯光，无可见文字，无 Logo，无水印。
+
+[English]
+1. City Wall: A single {argument name="structure material" default="pale concrete"} apartment-city wall rising beyond an empty {argument name="terrain" default="grassland"}, so large that the top disappears into {argument name="atmosphere" default="blue-green fog"} and the window rows merge into one continuous vertical face. Vertical 9:16 distant telephoto from a quiet meadow, 60 percent empty grass and blue haze, one tiny horse in the lower third and a narrow dirt path leading toward the wall; first read is the empty field, second read is the impossible city mass. Cool morning mist, soft diffused light, restrained pale gray and muted green palette, repeated apartment rows softened into texture, one dark rectangular gate far above the ground. No street-level city scene, no skyline collage, no many separate towers, no market, no traffic, no busy engineering, no pipes, no cranes, no cyberpunk lights, no readable text, no logo, no watermark.
+
+2. Inverted Ceiling: A single inverted city ceiling suspended over a black wet plain, so large that only the underside fragment fits in frame and the hanging building layers fade into night fog. 21:9 wide low-angle shot from an empty reflective plain, 70 percent mist, darkness, and mirror-like ground, three tiny people at the lower edge below the overhang; closest point is empty wet ground, final focus is the impossible city underside. Deep blue night haze, faint warm window texture as a thin distant seam, matte concrete slabs, soft reflections, silence. No street-level city scene, no skyline collage, no separate tower cluster, no traffic, no cranes, no pipes, no neon clutter, no readable text, no logo, no watermark, no fisheye distortion, no feet dominating foreground.
+
+3. City Gate: A single stacked apartment-city gate cut through a world-scale city dam, so large that both vertical edges leave the frame and the city details merge into one quiet inhabited cliff. 16:9 frontal long shot across an empty pale salt flat, 65 percent blank foreground and fog-bright sky seen through the colossal rectangular opening, two tiny vehicles stopped at the threshold on a thin road; first read is the empty salt flat, second read is the city gate. White haze, soft overcast light, pale concrete and blue-gray shadows, repeated window bands as quiet surface texture, the far side of the opening dissolving into mist. No street-level city scene, no skyline collage, no fantasy ruin, no ornate city gate, no sci-fi corridor, no many separate towers, no traffic, no cranes, no pipes, no cyberpunk lights, no readable text, no logo, no watermark.
+```
+
+**来源：** [@挣够钱就种田](https://x.com/Pinkuo_/status/2068050331817365673) | 2026-06-19
+
+---
+
+### 🖥️ 例 1947：赛博恶魔女仆武士刀
+
+![赛博恶魔女仆武士刀](../../images/%E8%B5%9B%E5%8D%9A%E6%81%B6%E9%AD%94%E5%A5%B3%E4%BB%86%E6%AD%A6%E5%A3%AB%E5%88%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身垂直动漫插画，主角是 {argument name="character name" default="一位哥特赛博恶魔女仆剑士"}，她大部分背对着镜头，回头看向后方，表情冷峻而强烈。她拥有苍白的蓝调皮肤，留着凌乱的 {argument name="hair color" default="黑色"} 短波波头，红色的眼睛，头上长着两只长长的黑色弯曲恶魔角，并戴着一个白色褶边女仆发带。她的服装是一件破损的黑白哥特女仆装，融合了光泽感的黑色赛博格装甲：可见的部件包括一个褶边发带、一件破损的紧身胸衣、两只装甲袖子、一条层叠的破烂裙子、两只黑色长袜、两双高跟厚底靴、一条链条腰带，以及散布在各处的金属板，上面有红色和青色的发光裂纹。她手持一把长武士刀，斜跨在画面下半部分，刀刃散发着分裂的霓虹蓝和红色光芒，边缘挂着如油漆般的滴落物。让她摆出强烈的对立式站姿，双脚分开，一只戴手套的手握住右侧的剑柄，裙子和丝带破烂且向下垂坠。背景为纯白色，背后有一个巨大的浅灰色字母 X，左侧勾勒着细细的霓虹红线，右侧勾勒着霓虹青线，X 的边缘有微妙的垂直滴落效果。在她的靴子下方添加光泽反射和红色、蓝色及黄色的霓虹液体水洼。风格：高细节日本动漫概念艺术，锐利的线条，绘画般的喷溅纹理，赛博朋克灯光，以黑白灰为主色调，点缀电光青、亮粉色和红色，戏剧性的轮廓光，清晰的焦点，无额外角色，无水印，无可见文字。
+
+[English]
+Create a full-body vertical anime illustration of {argument name="character name" default="a gothic cyber-demon maid swordswoman"} standing with her back mostly turned, looking over her shoulder with a cold intense expression. She has pale bluish skin, short messy {argument name="hair color" default="black"} hair in a tousled bob, red eyes, exactly two long black curved demon horns, and a white frilled maid headband. Her outfit is a shredded black-and-white gothic maid dress fused with glossy black cybernetic armor: visible pieces include one frilled headband, one torn bodice, two armored sleeves, one layered ragged skirt, two black stockings, two high platform boots, one chain belt, and scattered metallic plating with red and cyan glowing cracks. She holds exactly one long katana diagonally across the lower half of the image, the blade glowing split neon blue and red with paint-like drips hanging from the edge. Pose her in a strong contrapposto stance, feet apart, one gloved hand gripping the sword hilt at her right side, skirt and ribbons tattered and dripping. Background is clean white with one huge pale gray letter X behind her, outlined by thin neon red on the left and neon cyan on the right, with subtle vertical drips from the X edges. Add glossy reflections and puddles of red, blue, and yellow neon liquid beneath her boots. Style: high-detail Japanese anime concept art, sharp linework, painterly splatter textures, cyberpunk lighting, black-white-gray palette accented by electric cyan, hot pink, and red, dramatic rim light, crisp focus, no extra characters, no watermark, no readable text.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2068018259354591511) | 2026-06-19
+
+---
+
+### 🖥️ 例 1953：金发足球运动员夜间体育场射门
+
+![金发足球运动员夜间体育场射门](../../images/%E9%87%91%E5%8F%91%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E5%A4%9C%E9%97%B4%E4%BD%93%E8%82%B2%E5%9C%BA%E5%B0%84%E9%97%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性且超逼真的竖版体育动作照片，主角是 {argument name="character name" default="Pine-chan"}，一名金发女足球员在挤满观众的夜间体育场中处于踢球瞬间。她有着齐肩的金色长发，随风向左飘动，拥有健美的体格；她的面部被一个位于正中央的纯棕色方形遮挡块刻意遮盖，没有任何面部特征可见。她身穿 {argument name="team jersey" default="带有细多色垂直细条纹、黑色领口和袖口饰边、胸前带有徽章贴片的白色日式足球球衣"}，搭配黑色短裤、带有蓝色条纹的白色长袜以及黑色足球鞋。画面中前景仅展示一名球员，右侧边缘有一个因运动而模糊的足球，背景中有一个白色球门，远处球门处站着一名黄色守门员，上方有两个明亮的体育场泛光灯组，球员支撑脚附近的草地上有一个微小的黄色小黄鸭挂件或玩具。采用低位侧拍角度，踢球的腿向镜头方向伸展，支撑脚周围有草皮和泥块飞溅，浅景深，强烈的体育场灯光，看台上有模糊的人群，呈现出电影级的高速体育摄影质感。使用 {argument name="lighting mood" default="明亮的泛光灯夜赛"}，清晰的写实感，球和头发带有动态运动模糊，前景草地细节丰富，前景无额外球员，无可见的广告文字，无水印。
+
+[English]
+Create a dramatic ultra-realistic vertical sports action photograph of {argument name="character name" default="Pine-chan"}, a blonde female soccer player in mid-kick inside a packed night stadium. She has shoulder-length windblown golden hair flying to the left, an athletic build, and her face is intentionally hidden by one plain tan square censor block centered over the face with no facial features visible. She wears a {argument name="team jersey" default="white Japan-style soccer jersey with thin multicolor vertical pinstripes, black collar and sleeve trim, and a crest patch on the chest"}, black shorts, long white socks with blue stripes, and black soccer cleats. Show exactly one player in the foreground, exactly one soccer ball motion-blurred at the right edge as it is being kicked, exactly one white goal in the background, exactly one distant yellow goalkeeper standing in the goal, exactly two bright stadium floodlight clusters, and exactly one tiny yellow rubber duck charm or toy near the player’s planted boot on the grass. Capture the moment from a low sideline angle with the kicking leg extended toward the camera, turf and clumps of dirt flying upward around the planted foot, shallow depth of field, strong stadium lighting, a blurred crowd filling the stands, and a cinematic high-speed sports photography look. Use {argument name="lighting mood" default="bright floodlit night match"}, crisp realism, dynamic motion blur on the ball and hair, detailed grass in the foreground, no extra players in the foreground, no readable advertising text, no watermark.
+```
+
+**来源：** [@藍澤 ミライ](https://x.com/mirai_ai2050/status/2068000623195553908) | 2026-06-19
+
+---
+
+### 🖥️ 例 1958：电影感动漫风格照片对比
+
+![电影感动漫风格照片对比](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a side-by-side comparison image showing a realistic reference-style photo on the left and a luxurious cinematic Japanese anime transformation on the right, featuring the same child pose, outfit, background, and framing.
+
+Canvas: Wide horizontal 2-panel layout, approximately 1036×573 pixels, with a clean vertical split down the center. No captions, no labels, no watermark.
+
+Layout: Use exactly 2 panels. Left panel: soft, slightly blurry phone-photo realism. Right panel: polished cinematic anime film still. Keep the same full-body composition in both panels: a young girl standing indoors against a wall, one hand raised and touching vertical black wooden slats, the other hand resting on her hip, body facing forward, camera at a slightly low child-height angle.
+
+Subject details: The character is {argument name="character description" default="a young girl with very long dark brown hair and a deliberately blurred square face for privacy"}. Preserve the pose precisely: left arm raised with palm on the wall slats, right hand on hip, feet close together, relaxed confident stance. Hair should fall past the shoulders and become more dramatic and wind-swept in the anime panel.
+
+Outfit: Show exactly 4 visible clothing pieces: 1 pale pink zip hoodie, 1 white T-shirt with the small text “alo” on the chest, 1 pair of pale pink jogger sweatpants with the small text “alo” near the pocket and dark side stripes, and 1 pair of light sneakers. Use {argument name="outfit color" default="pale blush pink"} as the main tracksuit color. Keep the same clothing design in both panels.
+
+Environment: Indoor modern wall with exactly 3 main visible background surfaces: dark marble panel on the far left, vertical black wooden slat panel behind the raised hand, and gray plaster/concrete wall to the right. Include a light floor and a thin baseboard. In the right anime panel, enhance the environment with warm golden sunlight, soft dust particles, stronger shadows, painterly marble texture, and cinematic depth.
+
+Visual style: Left panel should resemble the original casual photo: natural lighting, muted gray tones, slight lens softness, realistic proportions. Right panel should look like a high-end Japanese anime movie still: detailed line art, refined cel shading, warm rim light from the upper right, volumetric glow, realistic fabric folds, expressive hair strands, polished cinematic color grading, and dramatic but faithful composition.
+
+Text content: Preserve exactly 3 visible text marks: “alo” on the left-panel shirt, “alo” on the left-panel pants, and “alo” on the right-panel shirt/pants area as small brand-like markings; keep them subtle and not oversized.
+
+Constraints: Maintain identical framing, pose, body proportions, outfit, wall placement, camera angle, and object positions between the two panels. Do not add extra people, props, captions, logos beyond the small “alo” markings, or decorative borders. Keep the face obscured with a smooth square blur in both panels.
+```
+
+**来源：** [@طالب](https://x.com/_TALEBM_/status/2067985542025810124) | 2026-06-19
+
+---
+
+### 🖥️ 例 1989：城市阶梯时尚拼贴画
+
+![城市阶梯时尚拼贴画](../../images/%E5%9F%8E%E5%B8%82%E9%98%B6%E6%A2%AF%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张逼真的时尚/生活方式照片拼贴画，展示 {argument name="subject" default="一位面部被柔和矩形模糊块匿名处理的年轻金发女性"} 在现代玻璃建筑旁的户外城市阶梯上摆拍。
+
+画布：宽幅水平 16:9 拼贴画，约 1024×576 分辨率，无缝编辑蒙太奇效果，包含重叠的矩形照片面板和柔和的混合边缘。
+
+布局：使用 5 个不同的照片面板。面板 1 是最大的中央图像：女性站在混凝土楼梯上的全身侧面照，一只脚踩在较高台阶上，侧身看向别处，背景是蓝天白云，金属栏杆和现代建筑构成了场景框架。面板 2 是左上角的垂直照片：女性背着黑色背包带走上楼梯，视角略微俯视。面板 3 是左下角的近景自拍式裁剪：她的上半身和手臂伸向镜头，面部被一个大的模糊块遮挡。面板 4 是右上角的后视图裁剪：女性从肩膀到臀部的背影，头发盘成发髻，走在玻璃建筑旁。面板 5 是右下角的照片：女性倚靠在金属栏杆上，背景是模糊的绿植和行人。
+
+主体细节：该女性拥有 {argument name="hair color and style" default="盘成整洁低发髻的金发"}、运动型身材、白皙肤色，且在每个可见面板中面部均已匿名化。她身穿 {argument name="top" default="一件亮宝蓝色短款修身 T 恤，领口和袖口有黑色饰边"}、{argument name="pants" default="黑色高腰慢跑裤，带有白色侧条纹或抽绳细节"} 以及干净的白色运动鞋。仅在左上角的行走面板中包含一个黑色背包。
+
+视觉风格：照片级逼真的单反街头时尚摄影，自然日光，细节清晰，部分面板具有浅景深效果，暖色调肤色，蓝色上衣与中性混凝土楼梯形成高对比度，逼真的阴影，现代城市校园氛围。
+
+约束条件：展示 5 个面板，且所有面板中仅出现 1 个重复的主体。通过在每个可见面部上方使用不透明或柔和模糊的矩形块来保持面部匿名效果。不要添加文字、徽标、水印、作为主要主体的额外人物或额外的服装变体。
+
+[English]
+Goal: Create a realistic fashion/lifestyle photo collage of {argument name="subject" default="a young blonde woman with her face anonymized by soft rectangular blur blocks"} posing on an outdoor urban staircase near a modern glass building.
+
+Canvas: Wide horizontal 16:9 collage, approximately 1024×576, seamless editorial montage with overlapping rectangular photo panels and soft blended edges.
+
+Layout: Use exactly 5 distinct photo panels. Panel 1 is the largest central image: full-body side profile of the woman standing on concrete stairs, one foot higher on a step, looking to the side, blue sky and clouds behind her, metal railings and a modern building framing the scene. Panel 2 is a top-left vertical photo: the woman walking upward on the stairs while holding a black backpack strap, viewed from slightly above. Panel 3 is a bottom-left close-up selfie-like crop: her upper torso and arm extend toward camera, face covered by a large blur block. Panel 4 is a top-right rear-view crop: back of the woman from shoulders to hips, hair in a bun, walking beside a glass building. Panel 5 is a bottom-right photo: the woman leaning on a metal railing with greenery and pedestrians blurred in the background.
+
+Subject details: The woman has {argument name="hair color and style" default="blonde hair tied in a neat low bun"}, athletic build, light skin, and anonymized face in every visible panel. She wears {argument name="top" default="a bright royal-blue cropped fitted T-shirt with black trim on the collar and sleeves"}, {argument name="pants" default="black high-waisted jogger pants with white side stripes or drawstring details"}, and clean white sneakers. Include a black backpack in the top-left walking panel only.
+
+Visual style: Photorealistic DSLR street-fashion photography, natural daylight, crisp detail, shallow depth of field in some panels, warm skin tones, high contrast blue shirt against neutral concrete stairs, realistic shadows, modern urban campus atmosphere.
+
+Constraints: Show exactly 5 panels and exactly 1 repeated subject across all panels. Preserve the anonymized face effect using opaque or softly blurred rectangular blocks over each visible face. Do not add text, logos, watermarks, extra people as main subjects, or additional outfit variations.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2067878463865020476) | 2026-06-19
+
+---
+

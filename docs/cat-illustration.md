@@ -4408,3 +4408,146 @@ Beautiful young Japanese girl with {argument name="hair style" default="long str
 
 ---
 
+### 🎨 例 1928：华丽百合花彩色玻璃艺术
+
+![华丽百合花彩色玻璃艺术](../../images/%E5%8D%8E%E4%B8%BD%E7%99%BE%E5%90%88%E8%8A%B1%E5%BD%A9%E8%89%B2%E7%8E%BB%E7%92%83%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅垂直的华丽彩色玻璃花卉艺术作品，以 {argument name="flower type" default="百合花"} 为核心主题。使用 9:16 的竖向画布，满版呈现奢华的新艺术风格彩色玻璃构图。画面需包含六朵盛开的百合花，组成流畅的垂直花束：上方中心和中部各有一朵白百合，右下方一朵白百合，左侧和中右侧各有一朵薰衣草紫百合，左下方一朵薰衣草紫百合；花朵需展现清晰的雄蕊，配以暖棕色花药和优雅卷曲的花瓣。添加抛光银色金属茎秆、叶片以及环绕花朵的卷曲藤蔓装饰，并带有反光铬金属高光。背景由不规则的彩色玻璃拼块组成，颜色为 {argument name="background colors" default="淡粉色、薰衣草紫、蓝宝石色、绿松石色和浅蛋白石色"}，并以凸起的银色线条分隔。加入圆形和螺旋状玻璃图案、拱形面板线条，并在边缘和卷轴处嵌入紫色、粉色、透明及蓝色的宝石状玻璃。渲染出玻璃的半透明质感、气泡、裂纹蛋白石纹理、光泽反射及闪耀高光。整体氛围优雅、明亮、细节丰富且富有宝石色调，宛如梦幻般的教堂窗户或装饰性的 Tiffany 风格嵌板。无文字、无人物、无边框、无水印。
+
+[English]
+Create a vertical ornate stained-glass floral artwork featuring {argument name="flower type" default="lilies"} as the central subject. Use a tall 9:16 canvas filled edge to edge with a luxurious Art Nouveau stained-glass composition. Show exactly six large blooming lilies arranged in a flowing vertical bouquet: two white lilies near the upper center and middle, one white lily at the lower right, two lavender-purple lilies on the left and center-right, and one lavender lily near the lower left; include visible stamens with warm brown anthers and graceful curled petals. Add polished silver metallic stems, leaves, and curling vine scrollwork weaving around the flowers, with reflective chrome highlights. The background should be made of irregular stained-glass panels in {argument name="background colors" default="pastel pink, lavender, sapphire blue, turquoise, and pale opal"}, separated by raised silver leading. Include circular and spiral glass motifs, arched panel lines, and embedded jewel-like cabochons in purple, pink, clear, and blue along the borders and scrolls. Render the glass with translucent texture, bubbles, crackled opalescent patterns, glossy reflections, and sparkling highlights. The overall mood should be elegant, luminous, highly detailed, and jewel-toned, like a fantasy cathedral window or decorative Tiffany-style panel. No text, no people, no frame, no watermark.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2068117465616273633) | 2026-06-19
+
+---
+
+### 🎨 例 1966：在基督像上的巴西足球迷
+
+![在基督像上的巴西足球迷](../../images/%E5%9C%A8%E5%9F%BA%E7%9D%A3%E5%83%8F%E4%B8%8A%E7%9A%84%E5%B7%B4%E8%A5%BF%E8%B6%B3%E7%90%83%E8%BF%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="年轻巴西女性"}，留着齐肩深色头发，笑容灿烂，身穿合身的 {argument name="jersey" default="黄色巴西足球球衣"}，配有绿色领口和袖边，穿着绿色运动短裤，赤脚，自信地坐在 {argument name="landmark" default="基督像"} 巨大的张开的手掌上，膝上横放着一面挥舞的巴西国旗，俯瞰里约热内卢和大海，国际足联世界杯庆祝氛围，足球迷活力，鲜艳的巴西色彩，戏剧性的航拍视角，黄金时刻的阳光，风吹过她的头发，电影级体育摄影，惊人的高度，超写实细节，民族自豪感，旅行与足球的融合，专业无人机拍摄，动态构图，焦点清晰，8K，高细节，史诗级规模，病毒式社交媒体旅行摄影。
+
+[English]
+{argument name="subject" default="Young Brazilian woman"} with shoulder-length dark hair, bright smile, wearing a fitted {argument name="jersey" default="yellow Brazil football jersey"} with green collar and sleeve trim, green athletic shorts, barefoot, sitting confidently on the giant outstretched hand of the {argument name="landmark" default="Christ the Redeemer statue"}, holding a large waving Brazil national flag across her lap, overlooking Rio de Janeiro and the ocean, FIFA World Cup celebration atmosphere, football fan energy, vibrant Brazilian colors, dramatic aerial perspective, golden hour sunlight, wind blowing through her hair, cinematic sports photography, breathtaking height, ultra-realistic details, national pride, travel and football fusion, professional drone shot, dynamic composition, sharp focus, 8K, highly detailed, epic scale, viral social media travel photography.
+```
+
+**来源：** [@Smiling Khan](https://x.com/AIwithkhan/status/2067968410848498024) | 2026-06-19
+
+---
+
+### 🎨 例 1972：Old Money 风格男士街头穿搭
+
+![Old Money 风格男士街头穿搭](../../images/Old%20Money%20%E9%A3%8E%E6%A0%BC%E7%94%B7%E5%A3%AB%E8%A1%97%E5%A4%B4%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻 {argument name="subject" default="男士"}，留着 {argument name="hair style" default="中长款深色波浪卷发"} 和修剪整齐的胡须，走在 {argument name="setting" default="欧洲城市街道"} 上，身穿超大款浅米色亚麻衬衫、宽松白色阔腿裤和干净的白色运动鞋。极简主义 Old Money 审美，中性色调，抓拍风格街头时尚摄影，自然阴天光线，奢华男装大片，从容自信，城市建筑背景，柔和阴影，柔和色调，高端杂志质感，逼真的面料纹理，景深效果，全身照，电影级构图。制作一个包含多种姿势的时尚拼贴图：走过人行横道、靠在石墙上、看手机、拿着咖啡杯、双手插兜。优质 Instagram 时尚帖，超写实，4K 细节。
+
+[English]
+A stylish young {argument name="subject" default="man"} with {argument name="hair style" default="medium-length dark wavy hair"} and a well-groomed beard walking through a {argument name="setting" default="European city street"}, wearing an oversized light beige linen button-up shirt, relaxed-fit white wide-leg trousers, and clean white sneakers. Minimalist old-money aesthetic, neutral color palette, candid street-style fashion photography, natural overcast daylight, luxury menswear editorial, effortless confidence, urban architecture backdrop, soft shadows, muted tones, high-end magazine quality, realistic fabric texture, depth of field, full-body shots, cinematic composition. Create a fashion collage with multiple poses: walking across a crosswalk, leaning against a stone wall, checking a phone, holding a coffee cup, hands in pockets. Premium Instagram fashion post, ultra-realistic, 4K detail.
+```
+
+**来源：** [@Orion](https://x.com/Prime_54/status/2067957233225470299) | 2026-06-19
+
+---
+
+### 🎨 例 1985：彩虹发色猫耳少女插画
+
+![彩虹发色猫耳少女插画](../../images/%E5%BD%A9%E8%99%B9%E5%8F%91%E8%89%B2%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+極めて筆数の少ない、{argument name="髪の色" default="虹色"}の髪の麗しい{argument name="キャラクター" default="猫耳少女と、優しい猫耳のお友達"}と、{argument name="背景" default="真夏の花火"}を描いた手描き風イラストを見てみたいです。Midjourney 風の油絵っぽいパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2067894090448900569) | 2026-06-19
+
+---
+
+### 🎨 例 2005：浪漫逗子海岸日落情侣
+
+![浪漫逗子海岸日落情侣](../../images/%E6%B5%AA%E6%BC%AB%E9%80%97%E5%AD%90%E6%B5%B7%E5%B2%B8%E6%97%A5%E8%90%BD%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="夕焼けにほどける恋"}
+
+人物・表情：
+{argument name="人物描写" default="20代前半の日系カップル。男性は柔らかな黒髪で清潔感のある雰囲気、少し照れたような優しい表情。女性は黒髪をゆるくまとめ、後れ毛が海風に揺れる。ふたりは鼻先が触れそうな距離で見つめ合い、今にもキスしそうな静かなロマンチックさを出す。"}
+
+服装・ポーズ：
+女性は白〜クリーム系の軽いシフォンワンピース、控えめなパフスリーブ、細いリボン、ふわっと揺れる裾、華奢なフラットサンダル。男性は淡いベージュまたは白の半袖シャツ、ライトベージュのゆったりしたワイドパンツ、白スニーカー。男性が女性の腰をやさしく抱き、女性は両腕を彼の首元へ回し、片脚を軽く後ろに上げる。甘いけれど自然で上品な抱きしめポーズ。
+
+背景・光：
+{argument name="背景" default="逗子海岸の砂浜、海と砂浜が直接つながる波打ち際。足元には濡れた砂と小さな波、夕陽の反射がきらめく。遠景に江の島方面の海岸線、右側に暗い岬のシルエット、奥に淡く浮かぶ富士山。空はオレンジから淡いピンクへ変わる日没のグラデーション、薄い夕焼け雲、数羽のカモメが空を横切る。低い夕陽の逆光で髪と服の輪郭に金色のリムライトが入る。"}
+
+構図・カメラ：
+縦長3:4。ややローアングルで、カップルを画面左寄りの中央に配置。空を広く取り、上部のカモメで動きを出す。背景の富士山と夕陽がふたりを引き立てる構図。35mm〜50mm相当、自然な遠近感、波打ち際と夕空の奥行きを残す。浅すぎない被写界深度で、人物はくっきり、背景は少し柔らかく。
+
+質感・スタイル：
+高精細な写真風AI画像、日系ポートレート、夏の海辺デート写真、映画のワンシーンのような夕景。自然な肌の質感、過度に加工されていない柔らかな光、透明感のある色調、オレンジピンクの夕焼け、濡れた砂と海面のリアルな反射。上品で可愛い、雑誌写真のような仕上がり。
+
+ネガティブ：
+低画質、不自然な顔、不自然な手、余分な指、欠けた指、歪んだ指、余分な腕、余分な脚、崩れた顔、左右非対称な目、奇妙な目線、歪んだ体、不自然な足、破綻した服、過度な露出、重いフォーマル服、桟橋、柵、鎖、舗装された遊歩道、文字、ロゴ、透かし、背景の文字化け、不自然な鳥、AI特有の不自然な質感
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2067813221034303990) | 2026-06-19
+
+---
+
+### 🎨 例 2013：雨季时尚拼贴画
+
+![雨季时尚拼贴画](../../images/%E9%9B%A8%E5%AD%A3%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超写实的电影级时尚拼贴画，描绘 {argument name="character description" default="一位美丽的年轻女性"} 在梦幻般的雨季傍晚，在倾盆大雨中赤脚欢快起舞，手持透明雨伞，身穿 {argument name="dress description" default="一件飘逸优雅的白色丝绸吊带裙，带有蕾丝饰边"}。
+
+画布：垂直 2:3 比例拼贴画，尺寸约 768×1152，照片级真实感，光泽湿润的表面，浅景深，温暖的城市光斑，冷色调雨天蓝灰色氛围，高端时尚编辑摄影风格。
+
+布局：使用 5 个摄影面板层叠成一张拼贴画。面板 1 是占据中心和右侧的主体全身垂直肖像，展示女性在湿漉漉的城市街道上翩翩起舞，裙摆飞扬，一只手握着白色的弧形伞柄，另一只手臂优雅地伸展，赤脚溅起水花。面板 2 是左上角的大特写，展示她微笑的脸庞、湿润的发丝、红润的脸颊、生动的双眼、皮肤上的雨滴以及部分透明雨伞。面板 3 是左中位置的小矩形细节特写，展示她靠近湿润深色头发和蕾丝面料的纤细手指。面板 4 是左下角的细节特写，展示她的耳朵、悬垂的圆环耳环、叠戴项链、湿发和肩带。面板 5 是右下角的细节特写，展示她赤裸的双脚以及白色裙摆的蕾丝边在反射雨水的路面上溅起水花。
+
+主体细节：女性拥有 {argument name="hair color" default="长长的湿润深色头发"}，明亮水润的肌肤，自然欢快的笑容，以及舞者般优雅的姿态。裙子长度及脚踝至小腿，柔软的缎面或丝绸材质，因雨水而呈现半光泽感，胸部、腰部和下摆饰有蕾丝；面料应展现出真实的湿润动态和随风飘动的效果。透明雨伞带有清晰的伞骨、雨滴和精致的白色弧形手柄。
+
+环境：{argument name="setting" default="黄昏时分雨中的城市街道"}，背景中对称排列的温暖路灯向远处延伸，模糊的交通灯，反射光线的路面，坠落的雨丝，溅起的水花，以及电影般的景深。使用温暖的琥珀色光斑与冷蓝灰色的雨景形成对比，营造浪漫的雨季氛围。
+
+叠加细节：在拼贴画的部分区域叠加几个柔和的米棕色矩形色块，作为抽象的遮罩式设计元素：右上角一个大矩形，面部中心区域一个小矩形，左下角珠宝面板处一个中等矩形。保持色块平整、柔和融合，且不包含任何文字。
+
+视觉风格：超写实，电影级，高动态范围，时尚编辑摄影，清晰的水滴，光泽高光，柔和的皮肤渲染，自然色彩分级，浪漫梦幻氛围，无排版，无 Logo，无水印。
+
+[English]
+Goal: Create an ultra-realistic cinematic fashion collage of {argument name="character description" default="a beautiful young woman"} dancing joyfully barefoot in heavy rain during a dreamy monsoon evening, holding a transparent umbrella and wearing {argument name="dress description" default="a flowing elegant white satin slip dress with lace trim"}.
+
+Canvas: Vertical 2:3 portrait collage, about 768×1152, photorealistic, glossy wet surfaces, shallow depth of field, warm city bokeh lights, cool rainy blue-gray atmosphere, high-end editorial fashion photography.
+
+Layout: Use exactly 5 photographic panels layered into one collage. Panel 1 is the main full-body vertical portrait occupying the center and right side, showing the woman mid-dance on a wet city street, dress swirling outward, one hand holding a white curved umbrella handle, the other arm extended gracefully, bare feet splashing in puddles. Panel 2 is a large close-up crop in the upper left showing her smiling face, wet hair strands, glowing cheeks, expressive eyes, raindrops on skin, and part of the transparent umbrella. Panel 3 is a small rectangular detail crop on the left-middle showing her delicate hands and fingers near wet dark hair and lace fabric. Panel 4 is a lower-left detail crop showing her ear, dangling hoop earring, layered necklace, wet hair, and shoulder strap. Panel 5 is a lower-right detail crop showing her bare feet and the lace hem of the white dress splashing in reflective rainwater.
+
+Subject details: The woman has {argument name="hair color" default="long wet dark hair"}, luminous dewy skin, a joyful natural smile, and graceful dancer-like posture. The dress is ankle-to-calf length, soft satin or silk, semi-glossy from rain, with lace at the bodice, waist, and hem; the fabric should show realistic wet movement and wind lift. The transparent umbrella has visible ribs, raindrops, and a delicate curved white handle.
+
+Environment: {argument name="setting" default="a rainy city street at dusk"} with symmetrical rows of warm streetlights receding into the background, blurred traffic lights, reflective pavement, falling rain streaks, puddle splashes, and cinematic depth. Use warm amber bokeh against cool blue-gray rain for a romantic monsoon mood.
+
+Overlay details: Include several soft muted beige-brown rectangular blocks layered over parts of the collage as abstract mask-like design elements: one large rectangle in the upper-right, one smaller rectangle over the central face area, and one medium rectangle over the lower-left jewelry panel. Keep them flat, softly blended, and without text.
+
+Visual style: Ultra-realistic, cinematic, high dynamic range, editorial beauty photography, sharp water droplets, glossy highlights, soft skin rendering, natural color grading, romantic dreamy atmosphere, no typography, no logo, no watermark.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2067797461251555644) | 2026-06-19
+
+---
+

@@ -3114,3 +3114,39 @@ Constraints: Do not add extra panels, extra characters, extra speech bubbles, or
 
 ---
 
+### 🎬 例 1974：机器人咖啡仪式分镜脚本
+
+![机器人咖啡仪式分镜脚本](../../images/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%92%96%E5%95%A1%E4%BB%AA%E5%BC%8F%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的温馨机器人 {argument name="ritual" default="V60 手冲仪式"} 电影感分镜脚本图像
+
+[English]
+Create a 16:9 warm robotic {argument name="ritual" default="V60 pour-over ritual"} cinematic storyboard sheet image
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2067932101148623320) | 2026-06-19
+
+---
+
+### 🎬 例 2017：哥特双胞胎卧室漫画
+
+![哥特双胞胎卧室漫画](../../images/%E5%93%A5%E7%89%B9%E5%8F%8C%E8%83%9E%E8%83%8E%E5%8D%A7%E5%AE%A4%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张黑白灰度动漫漫画插图，描绘两个精致的双胞胎少女在夜晚并排坐在华丽的维多利亚式床上，两人都留着凌乱的浅色短发，眼神疲惫柔和，表情忧郁，仿佛正在擦拭泪水。左侧女孩穿着引人注目的黑色哥特洛丽塔连衣裙，配有泡泡袖、荷叶边袖口、深色珠饰项链、颈圈和压花紧身胸衣；她的一只手触碰眼睛，另一只手放在厚毯子下的膝盖上。右侧女孩穿着带有细肩带、花卉刺绣、层叠裙摆的白色蕾丝睡裙或婚纱风格礼服，配有精致的颈圈和吊坠项链；她的一只手触碰眼睛，另一只手放在毯子上。画面采用腰部以上至全身裙摆的构图，对称地居中于雕刻精美的古董床头板前，周围堆满枕头和褶皱的毯子。她们身后是一扇高大的窗户，可以看到星光璀璨的夜空，两侧挂着厚重的垂帘。在床头柜上包含两个玻璃圆顶展示柜：左侧圆顶内有一个带有华丽机械底座的发光垂直管灯，右侧圆顶内有一棵微型开花树，树上栖息着一只小鸟。房间装饰华丽，配有维多利亚风格的墙板、架子、金银丝装饰、蕾丝纹理和精细的线条。使用黑暗、忧郁、高度精细的铅笔墨水漫画风格，带有柔和的颗粒感、微妙的暗角、复杂的交叉排线，营造优雅的哥特氛围，除灰度外无任何色彩，无可见文字，无水印。自定义这对角色为 {argument name="character name" default="IMPET 和 AEL"}，发色为 {argument name="hair color" default="浅银白色"}，场景为 {argument name="room style" default="华丽的维多利亚哥特式卧室"}，氛围为 {argument name="mood" default="困倦忧郁的午夜氛围"}，图像风格为 {argument name="image style" default="高度精细的单色漫画插图"}。
+
+[English]
+Create a monochrome grayscale anime manga illustration of two delicate twin-like young women sitting side by side on an ornate Victorian bed at night, both with short tousled pale hair, soft tired eyes, and melancholic expressions as if rubbing away tears. The left girl wears a dramatic black gothic lolita dress with puff sleeves, ruffled cuffs, dark bead necklace, choker, and an embossed corset bodice; her right hand touches one eye while her other hand rests in her lap under a heavy blanket. The right girl wears a white lace nightgown or bridal-style dress with thin straps, floral embroidery, layered skirt, delicate choker and pendant necklace; her right hand touches one eye and her left hand rests on the blanket. Frame them waist-up to full-skirt, centered symmetrically on a carved antique headboard with abundant pillows and rumpled blankets. Behind them is a tall window showing a starry night sky, with heavy draped curtains parted on both sides. Include exactly two glass dome displays on bedside tables: the left dome contains a glowing vertical tube lamp in an ornate mechanical base, and the right dome contains a miniature flowering tree with a small bird perched inside. The room is richly decorated with Victorian wall panels, shelves, filigree ornaments, lace textures, and fine linework. Use a dark, moody, highly detailed pencil-and-ink manga style, soft grain, subtle vignette, intricate crosshatching, elegant gothic atmosphere, no color except grayscale, no visible text, no watermark. Customize the pair as {argument name="character name" default="IMPET and AEL"}, with {argument name="hair color" default="pale silver-white"}, in a {argument name="room style" default="ornate Victorian gothic bedroom"}, using a {argument name="mood" default="sleepy melancholic midnight atmosphere"}, and {argument name="image style" default="highly detailed monochrome manga illustration"}.
+```
+
+**来源：** [@CAROPAPA](https://x.com/gxeducom00/status/2067763404564271421) | 2026-06-19
+
+---
+

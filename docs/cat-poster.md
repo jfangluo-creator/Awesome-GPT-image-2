@@ -8710,3 +8710,616 @@ Negative: cartoon, blurry, fake-looking glasses, watermark, distorted face.
 
 ---
 
+### 🎴 例 1929：Anime Skate Cali 海报
+
+![Anime Skate Cali 海报](../../images/Anime%20Skate%20Cali%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫街头风格海报，主题为 {argument name="title text" default="SKATE CALI"}。画面展示一名充满活力的年轻男性滑手，正蹲伏在滑板上，在日落时分疾驰下坡，穿行于加州海岸。滑手留着凌乱的深色短发，双眼闪烁着强烈的蓝光，身穿带有金色镶边的黑色超大款连帽衫，背部印有巨大的金色指南针/星形徽章，搭配黑色长裤和黑色运动鞋；电光蓝色的能量线条和如同纹身般发光的电路纹路，沿着他裸露的手臂、手部、连帽衫以及拖曳的运动轨迹延伸。采用极端的低角度动作视角，滑板靠近观众，一只手几乎触碰到柏油路面，轮子呈现模糊动态，路面带有潮湿的反射质感，并配有戏剧性的速度线。背景是广阔的洛杉矶/马里布海岸线：左侧是金色的海洋日落，陡峭的道路两旁排列着棕榈树，下方是城市灯光和房屋，山丘上隐约可见 HOLLYWOOD 标志，以及一块写有“Pacific Coast Hwy”和“Malibu”并带有右转箭头的绿色高速公路指示牌。设计风格为粗犷的复古丝网印刷旅行/滑板海报，带有做旧的油墨质感、黑色斑点边框、油漆飞溅、笔触效果、高对比度阴影，以及温暖的橙金色日落色调与电光霓虹蓝高光的碰撞。海报上半部分填充着粗犷的手绘大字：上方是米白色的“SKATE”，下方是橙色的“CALI”。包含 4 个较小的文本块：海报左中部写着“COAST. CULTURE. FREEDOM. RIDE.”，左下角写着“NO ROADS. NO RULES. JUST MOMENTUM.”，底部中心写着“LIVE FAST ★ SKATE FREE”，右下角印有带有坐标“34.0522° N, 118.2437° W”的“CALIFORNIA”邮戳标签，下方还有一个小熊和星星图标。在底部中心附近添加一个金色指南针翅膀徽章。保持所有字体为手绘、做旧、粗体且清晰易读，不要添加额外的文字或标志。
+
+[English]
+Create a vertical anime streetwear poster for {argument name="title text" default="SKATE CALI"}, showing a dynamic young male skater crouched low on a skateboard as he speeds downhill through coastal California at sunset. The skater has messy dark hair, intense glowing blue eyes, a black oversized hoodie with gold trim and a large gold compass/star emblem on the back, black pants, and black sneakers; electric blue energy lines and tattoo-like glowing circuitry run along his exposed arm, hand, hoodie, and trailing motion streaks. Use an extreme low-angle action perspective with the skateboard close to the viewer, one hand nearly touching the asphalt, wheels blurred, wet reflective road texture, and dramatic speed lines. The background is a sweeping Los Angeles/Malibu coastline: golden ocean sunset on the left, palm trees lining a steep road, city lights and houses below, hills with a visible HOLLYWOOD sign, and a green highway sign reading “Pacific Coast Hwy” and “Malibu” with a right arrow. Design it as a gritty vintage screen-printed travel/skate poster with distressed ink texture, black speckled border, paint splatters, brush strokes, high contrast shadows, warm orange-gold sunset palette mixed with electric neon blue highlights. Large rough brush lettering fills the top half: “SKATE” in off-white above “CALI” in orange. Include exactly 4 smaller text blocks: left mid poster reads “COAST. CULTURE. FREEDOM. RIDE.”, lower left reads “NO ROADS. NO RULES. JUST MOMENTUM.”, bottom center reads “LIVE FAST ★ SKATE FREE”, and bottom right has a stamped label “CALIFORNIA” with coordinates “34.0522° N, 118.2437° W”, plus a small bear and star icon beneath. Add one gold compass-wing emblem near the bottom center. Keep all typography hand-painted, distressed, bold, and legible, with no extra text or logos.
+```
+
+**来源：** [@TheOrder](https://x.com/TheOrdering/status/2068114368211124596) | 2026-06-19
+
+---
+
+### 🎴 例 1933：时尚日式玉米活动海报
+
+![时尚日式玉米活动海报](../../images/%E6%97%B6%E5%B0%9A%E6%97%A5%E5%BC%8F%E7%8E%89%E7%B1%B3%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具时尚感的日式活动海报，用于宣传虚拟农场玉米品尝活动，融合极简主义编辑排版与干净的农产品摄影。
+
+画布：3:4 比例的竖版海报，米白色哑光纸背景，带有细腻的印刷质感，呈现高端现代日式设计风格。
+
+布局：在右半部分斜向放置一根写实的带浅绿色外皮的黄色玉米，从左下向右上倾斜。让玉米部分重叠在主标题后方。在左上及中心使用巨大的粗体黑色无衬线标题，第一行写“EAT”，第二行写“CORN.”。在左上角添加小号字间距较大的大写文本：“SMART FARM PRESENTS”。在右上角放置一个带有微型谷仓图标的圆形“SMART FARM / VIRTUAL FARM”标志。在右侧边缘添加垂直文本“VIRTUAL FARM. REAL FUTURE.”，并在其上方加一条短竖线。
+
+文本内容：主标题：{argument name="headline text" default="EAT CORN."}。标题下方的小副标题：“TOGETHER.”。左侧日文正文：“未来の農業から、おいしいトウモロコシをお届けします。” 活动日期区块：{argument name="event date" default="2025.07.26 SAT."}，下方标注“10:00-16:00”。地点/主办方行：“場所｜バーチャルファーム”、“主催｜スマート牧場”，以及一行小字“※入場無料・事前予約不要”。
+
+底部区域：在左下半部分添加一个大型芥末黄色矩形面板，内含黑色日文文案。其标题应为：{argument name="yellow panel headline" default="トウモロコシを、いっしょに食べよう！"}。下方包含一段关于 Smart Farm 种植的新鲜甜玉米以及体验未来农业的简短日文段落。包含 6 个带有时间的活动项目：10:00 开幕与农场介绍、11:00 收获体验、13:00 玉米品尝活动、14:30 农场讲座、15:30 问答锦标赛，以及一个简短的“イベントプログラム”标签。
+
+右下角：创建一个干净的白色信息区，带有小标签“主催・生産者”、超大的日文主办方名称 {argument name="organizer name" default="スマート牧場"}、一条细水平分割线以及地点行“場所：バーチャルファーム”。在最底部添加一个小型 URL “www.smart-farm.vf” 以及 3 个小型社交/媒体图标：Instagram 轮廓相机、X 符号和 YouTube 播放按钮。
+
+视觉风格：使用强烈的黑色排版、充裕的留白、精确的网格对齐、紧凑的日文文本、现代瑞士/日式海报美学、高端食品宣传外观、清晰逼真的玉米粒、柔和的自然阴影，画面中不出现人物，无杂乱元素，除所述 Smart Farm 品牌外无额外标志。
+
+[English]
+Goal: Create an overly stylish Japanese event poster advertising a virtual farm corn-eating event, blending minimalist editorial typography with a clean agricultural product photo.
+
+Canvas: Vertical poster in a 3:4 ratio, off-white matte paper background, subtle print texture, high-end contemporary Japanese design.
+
+Layout: Place a large photorealistic ear of yellow corn in pale green husks diagonally on the right half, tilted from lower center toward upper right. Let the corn overlap behind the main headline. Use huge bold black sans-serif headline typography on the upper left and center reading “EAT” on the first line and “CORN.” on the second line. Add small spaced uppercase text at the top left: “SMART FARM PRESENTS”. Put a thin circular “SMART FARM / VIRTUAL FARM” logo at the top right with a tiny barn icon. Add vertical side text along the right edge reading “VIRTUAL FARM. REAL FUTURE.” with a small vertical line above it.
+
+Text content: Main headline: {argument name="headline text" default="EAT CORN."}. Small subhead under the headline: “TOGETHER.” Japanese body copy on the left: “未来の農業から、おいしいトウモロコシをお届けします。” Event date block: {argument name="event date" default="2025.07.26 SAT."}, below it “10:00-16:00”. Venue/organizer lines: “場所｜バーチャルファーム”, “主催｜スマート牧場”, and a tiny note “※入場無料・事前予約不要”.
+
+Bottom section: Add one large mustard-yellow rectangular panel occupying the lower left half, with black Japanese copy. Its headline should read: {argument name="yellow panel headline" default="トウモロコシを、いっしょに食べよう！"}. Below it, include a short Japanese paragraph about fresh sweet corn grown at Smart Farm and experiencing the future of agriculture. Include exactly 6 visible event program items with times: 10:00 opening and farm introduction, 11:00 harvest experience, 13:00 corn tasting event, 14:30 farm talk, 15:30 quiz tournament, plus one short introductory “イベントプログラム” label.
+
+Bottom right: Create a clean white information area with a small label “主催・生産者”, a very large Japanese organizer name {argument name="organizer name" default="スマート牧場"}, a thin horizontal divider line, and the venue line “場所：バーチャルファーム”. At the very bottom add a small URL “www.smart-farm.vf” and exactly 3 small social/media icons: Instagram outline camera, X symbol, and YouTube play button.
+
+Visual style: Use stark black typography, generous negative space, precise grid alignment, narrow condensed Japanese text, modern Swiss/Japanese poster aesthetics, premium food campaign look, crisp photorealistic corn kernels, soft natural shadows, no people, no clutter, no extra logos beyond the described Smart Farm branding.
+```
+
+**来源：** [@Test_AI](https://x.com/TestAI_WORKS/status/2068096736418242678) | 2026-06-19
+
+---
+
+### 🎴 例 1934：美国核能复兴海报
+
+![美国核能复兴海报](../../images/%E7%BE%8E%E5%9B%BD%E6%A0%B8%E8%83%BD%E5%A4%8D%E5%85%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版爱国主义装饰艺术（Art Deco）宣传风格海报，颂扬美国核能并庆祝 250 周年纪念主题，主标题为 {argument name="headline text" default="AMERICAN REIGNITION"}。
+
+画布：竖向海报，长宽比约为 2:3，采用带有轻微斑点的做旧奶油色纸张纹理，深海军蓝背景，金色与棕褐色油墨，清晰的丝网印刷矢量图形，高对比度，对称构图。
+
+布局：使用华丽的双线装饰艺术边框，配有几何边角装饰，底部中心有一个向下的小菱形缺口。画面分为上部的英雄主义徽章场景、中央的工业能源场景以及底部的粗体排版区。
+
+主体细节：顶部中心展示 1 只双翼完全展开的秃鹰，略微朝向左侧，以金色、奶油色、深棕色和黑色阴影呈现。鹰胸前佩戴 1 面爱国主义盾牌，上有蓝色星星和红白相间的垂直条纹。鹰头后方是 1 个圆形齿轮状太阳勋章，内含 1 个黑色核辐射三叶草符号；环形文字写着“EST. 1776 • 250th ANNIVERSARY”。鹰爪抓着 2 件象征性物品：左爪是 1 个带有电子点的金色原子轨道图标；右爪是 1 本带有蓝色区域和白色星星的小型棕褐色书籍或文件，暗示《宪法》或美国建国文献。
+
+工业场景：在鹰的下方，绘制 2 座大型核冷却塔，左右各一，均释放出浓厚的白色蒸汽。在它们之间，包含 1 个中央发光的反应堆堆芯或能量柱，带有明亮的青色玻璃和向上升起的金色光束。周围环绕 6 座简化的工业建筑：两座高大的深色矩形塔，左侧一座低矮矩形建筑，一座中央圆柱形塔，右侧一座圆顶建筑，以及右侧一座低矮设施。添加 2 座输电塔，左右边缘各一座，电力线向内延伸。使用多道从中央反应堆向鹰辐射的金色光芒。
+
+背景：深海军蓝星空，鹰周围散布着 10 颗醒目的白色或金色四角星/点，塔楼后方两侧有风格化的淡蓝色云层。保持场景的英雄主义、乐观主义和复古未来感。
+
+文本内容：底部排版区包含 3 行/组文字。最大的标题 {argument name="headline text" default="AMERICAN REIGNITION"} 采用巨大的奶油色装饰艺术风格大写字母，配有金色阴影和深色轮廓。下方副标题为 {argument name="subheadline text" default="ATOMIC ENERGY FOR A BRIGHT FUTURE"}。最小的页脚文字为 {argument name="footer text" default="COMMEMORATING OUR 250th ANNIVERSARY | 1776 - 2026 | USA"}。所有文字均需居中、加粗、清晰易读，并与海报融为一体。
+
+调色板：使用 {argument name="primary palette" default="navy blue, antique cream, metallic gold, tan, muted red, cyan glow"}。整体氛围应乐观、宏伟、爱国，适合作为高端周边海报或丝网印刷 T 恤设计。
+
+约束条件：禁止写实风格，禁止现代 UI，禁止额外标语，禁止水印，禁止签名，禁止添加其他动物或人物，并严格遵守上述描述的元素数量。
+
+[English]
+Goal: Create a vertical patriotic Art Deco propaganda-style poster celebrating American nuclear energy and a 250th anniversary theme, with the main headline {argument name="headline text" default="AMERICAN REIGNITION"}.
+
+Canvas: Portrait poster, approximately 2:3 aspect ratio, aged cream paper texture with slight speckling, dark navy background, gold and tan ink, crisp screen-printed vector shapes, high contrast, symmetrical composition.
+
+Layout: Use an ornate double-line Art Deco border with geometric corner ornaments and a small downward-pointing diamond notch centered at the bottom. The image is divided into a heroic upper emblem scene, a central industrial energy scene, and a bold typography block at the bottom.
+
+Main subject details: At the top center, show exactly 1 bald eagle with wings fully spread, facing slightly left, rendered in gold, cream, dark brown, and black shadows. The eagle wears exactly 1 patriotic shield on its chest with blue stars and red-and-white vertical stripes. Behind the eagle’s head is exactly 1 circular gear-like sun medallion containing exactly 1 black nuclear radiation trefoil symbol; the ring text reads “EST. 1776 • 250th ANNIVERSARY”. The eagle holds exactly 2 symbolic items: in its left talon, 1 golden atomic orbit icon with electron dots; in its right talon, 1 small tan book or document marked with a small blue field and white stars, suggesting the Constitution or American founding documents.
+
+Industrial scene: Below the eagle, create exactly 2 large nuclear cooling towers, one on the left and one on the right, both releasing thick white steam plumes. Between them, include exactly 1 central glowing reactor core or energy column with bright cyan glass and gold light beams rising upward. Surround it with exactly 6 simplified industrial buildings: two tall dark rectangular towers, one low rectangular building on the left, one central cylindrical tower, one domed building on the right, and one low right-side facility. Add exactly 2 electrical transmission towers, one near the left edge and one near the right edge, with power lines extending inward. Use multiple golden sunburst rays radiating from the central reactor toward the eagle.
+
+Background: Deep navy starry sky with exactly 10 prominent white or gold four-point stars/dots scattered around the eagle, plus stylized pale blue cloud banks at both sides behind the towers. Keep the scene heroic, optimistic, and retro-futurist.
+
+Text content: Bottom typography block contains exactly 3 text lines/groups. The largest headline reads {argument name="headline text" default="AMERICAN REIGNITION"} in huge cream Art Deco block capitals with gold shadow and dark outline. Beneath it, the subheadline reads {argument name="subheadline text" default="ATOMIC ENERGY FOR A BRIGHT FUTURE"}. The smallest footer reads {argument name="footer text" default="COMMEMORATING OUR 250th ANNIVERSARY | 1776 - 2026 | USA"}. Keep all text centered, bold, legible, and integrated into the poster.
+
+Color palette: Use {argument name="primary palette" default="navy blue, antique cream, metallic gold, tan, muted red, cyan glow"}. The mood should be optimistic, monumental, patriotic, and suitable for a premium merch poster or screen-printed T-shirt design.
+
+Constraints: No photorealism, no modern UI, no extra slogans, no watermark, no signatures, no additional animals or people, and keep the exact counted elements described above.
+```
+
+**来源：** [@☉rthonormalist🧭✡️](https://x.com/orthonormalist/status/2068093502068589036) | 2026-06-19
+
+---
+
+### 🎴 例 1935：向日葵植物高定海报
+
+![向日葵植物高定海报](../../images/%E5%90%91%E6%97%A5%E8%91%B5%E6%A4%8D%E7%89%A9%E9%AB%98%E5%AE%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构的植物高定系列创作一张迷人的垂直时尚海报照片，展示一位年轻女性模特在夜间屋顶花店穿着奢华的向日葵礼服。氛围为编辑风格、奢华、略带超现实感和电影感，如同高端时尚杂志封面。
+
+画布：高垂直 9:16 海报，全出血图像，在阴暗多雨/多云的城市夜晚进行暖色闪光摄影。使用浅景深、高层建筑灯光的虚化效果、丰富的对比度、轻微的胶片颗粒感以及手持时尚摄影的质感。
+
+主体：一位苗条的女模特以自信的走秀姿势站在中心，身体略微倾斜，一只手臂举在脑后，另一只手臂下垂，拿着一个牛皮纸花束袋。她的脸部被一个简单的垂直米色矩形刻意遮挡。她留着长长的深色头发，部分隐藏在花朵后面。皮肤被直接闪光灯柔和地照亮。服装是一件精致的植物高定迷你裙，由真实的和镶嵌珠宝的向日葵、金色茎秆、黄色花瓣、细小花朵、珠饰和透明花艺金属丝制成。
+
+向日葵元素计数：展示正好 9 个显眼的向日葵花头：左上方模特头发旁有 2 朵大向日葵，胸部中心覆盖着 1 朵非常大的向日葵，右侧胸部附近垂直站立着 1 朵大向日葵，腰部中心有 1 朵向日葵，裙子正面由 2 个大向日葵花头组成，左手腕上有 1 个向日葵手环，左下方牛皮纸袋中可见 1 个向日葵花束头。裙子上可以散布额外的细小黄色填充花朵和绿植，但不要添加额外的大向日葵花头。
+
+环境：场景设定在夜晚的屋顶或阳台花店，模特周围环绕着盆栽植物和花架。左侧放置一块深色黑板，上面有手写的粉笔字“Sunflower”，下方有模糊的日文价格书写。右下方添加色彩鲜艳的小花、盆栽绿植，背景为带有发光窗户的模糊城市建筑。
+
+排版与海报设计：在底部三分之一处添加奶油金色墨水的华丽古董植物雕刻图形，包括镜像向日葵插图、卷曲的藤蔓、叶子、装饰边框和复古标签框架。在左上方放置小型间距的衬线大写文本：“BOTANICAL COUTURE QUEENS”。在下部中心横跨放置一个巨大的做旧复古衬线标题：“SUNFLOWER”。在其上方添加斜体文本：“Helianthus annuus”，以及一个小标题：“A SYMBOL OF ADORATION, LONGEVITY & RADIANT BEAUTY.”。在主标题下方添加：“BOTANICAL COUTURE COLLECTION” 和 “BLOOMING ELEGANCE, NATURALLY TIMELESS.”。在底部中心的一个小华丽框架内，添加：“No.108”，然后是 “TOKYO FLORAL ATELIER”，最后是 “JAPAN”。
+
+视觉风格：高端时尚编辑摄影与奢华植物海报设计相结合，写实花卉，金黄色调，黑色夜空背景，奶油金色排版，华丽的维多利亚时代植物雕刻叠加，戏剧性的闪光高光，优雅的成人色彩分级。
+
+参数：将系列标题设为 {argument name="collection title" default="SUNFLOWER"}，植物名称设为 {argument name="botanical name" default="Helianthus annuus"}，左上角品牌文本设为 {argument name="brand text" default="BOTANICAL COUTURE QUEENS"}，店铺位置设为 {argument name="atelier location" default="TOKYO FLORAL ATELIER JAPAN"}，特色花卉设为 {argument name="featured flower" default="sunflower"}。
+
+约束：保持模特脸部被一个简单的米色矩形遮住；保持文本清晰且为英文，除了模糊的日式粉笔价格标记；不要添加徽标、水印、额外人物或额外的大向日葵花头。
+
+[English]
+Goal: Create a glamorous vertical fashion-poster photograph for a fictional botanical couture collection, featuring a young adult woman modeling an extravagant sunflower dress on a nighttime rooftop flower shop. The mood is editorial, luxurious, slightly surreal, and cinematic, like a high-fashion magazine cover.
+
+Canvas: Tall vertical 9:16 poster, full-bleed image, warm flash photography against a dark rainy/cloudy city night. Use shallow depth of field, bokeh high-rise lights, rich contrast, slight film grain, and a handheld fashion-photo feel.
+
+Main subject: A slender female model stands centered in a confident runway pose, body angled slightly, one arm raised behind her head and the other arm lowered holding a brown paper bouquet bag. Her face is intentionally obscured by a plain vertical beige rectangle. She has long dark hair partly hidden behind flowers. Skin is softly lit by direct flash. The outfit is an elaborate botanical couture mini-dress made from real and jeweled sunflowers, gold stems, yellow petals, tiny blossoms, beadwork, and transparent floral wiring.
+
+Counted sunflower elements: Show exactly 9 prominent sunflower heads: 2 large sunflowers tucked beside the model’s hair at upper left, 1 very large sunflower covering the center of her chest, 1 large sunflower standing vertically on her right side near the bust, 1 sunflower at her waist center, 2 large sunflower heads forming the skirt front, 1 small sunflower bracelet on her left wrist, and 1 sunflower bouquet head visible in the brown paper bag at lower left. Additional tiny yellow filler flowers and greenery may be scattered through the dress, but do not add extra large sunflower heads.
+
+Environment: Set the scene on a rooftop or balcony flower shop at night, with potted plants and flower racks surrounding the model. Include a dark chalkboard sign on the left with handwritten chalk text reading “Sunflower” and faint Japanese price writing underneath. Add small colorful flowers in the lower right, greenery in pots, and blurred urban buildings with illuminated windows in the background.
+
+Typography and poster design: Add ornate antique botanical engraving graphics in cream-gold ink over the bottom third, including mirrored sunflower illustrations, curling vines, leaves, decorative borders, and a vintage label frame. At top left, place small spaced serif uppercase text: “BOTANICAL COUTURE QUEENS”. Across the lower center, place a huge distressed vintage serif title: “SUNFLOWER”. Above it, add italic text: “Helianthus annuus”, and a small caption: “A SYMBOL OF ADORATION, LONGEVITY & RADIANT BEAUTY.” Below the main title, add: “BOTANICAL COUTURE COLLECTION” and “BLOOMING ELEGANCE, NATURALLY TIMELESS.” Near the bottom center inside a small ornate frame, add: “No.108”, then “TOKYO FLORAL ATELIER”, then “JAPAN”.
+
+Visual style: High-fashion editorial photography mixed with luxury botanical poster design, realistic flowers, gold and yellow palette, black night background, cream-gold typography, ornate Victorian botanical engraving overlays, dramatic flash highlights, elegant adult color grading.
+
+Parameters: Make the collection title {argument name="collection title" default="SUNFLOWER"}, the botanical name {argument name="botanical name" default="Helianthus annuus"}, the top-left brand text {argument name="brand text" default="BOTANICAL COUTURE QUEENS"}, the shop location {argument name="atelier location" default="TOKYO FLORAL ATELIER JAPAN"}, and the featured flower {argument name="featured flower" default="sunflower"}.
+
+Constraints: Keep the model’s face covered by a simple beige rectangle; keep the text legible and in English except the faint Japanese-style chalk price marks; do not add logos, watermarks, extra people, or extra large sunflower heads.
+```
+
+**来源：** [@AI Girl's Photo Studio](https://x.com/AI_GIRL_DESIGN/status/2068091455977996674) | 2026-06-19
+
+---
+
+### 🎴 例 1950：混合媒介产品海报
+
+![混合媒介产品海报](../../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创新的混合媒介品牌活动海报，竖版构图，采用明亮的灰白色背景，呈现高端极简主义摄影棚风格。一张真实拍摄的 {argument name="product" default="[BRAND PRODUCT]"} 作为视觉中心，周围延伸出充满趣味的手绘黑色记号笔插画，将现实世界与插画世界无缝融合。一个古怪的涂鸦角色正在 {argument name="character action" default="[SCENE]"}，以意想不到的方式使用、攀爬、搬运或与产品进行创意互动。素描风格充满活力、随性且富有表现力，包含手写细节、箭头、微型道具、动态线条和幽默的视觉叙事。顶部采用优雅的粗体排版展示 {argument name="brand name" default="[BRAND]"} 的标语，底部整齐地放置着真实的彩色 [BRAND] 标志。清晰的摄影棚阴影，照片级逼真的产品纹理，真实元素与插画元素之间形成强烈对比，现代广告构图，病毒式社交媒体活动美学，富有想象力的艺术指导，专业创意代理商级别品质，极具视觉冲击力。
+
+[English]
+Innovative mixed-media brand campaign poster, vertical format, premium minimalist studio setup on a bright off-white background. A real photographed {argument name="product" default="[BRAND PRODUCT]"} serves as the centerpiece while playful hand-drawn black marker illustrations extend beyond it, merging the physical and illustrated worlds seamlessly. A quirky doodle character is {argument name="character action" default="[SCENE]"}, using, climbing, carrying, or creatively interacting with the product in an unexpected way. The sketch style is energetic, imperfect, and expressive, featuring handwritten details, arrows, tiny props, motion lines, and humorous visual storytelling. Elegant bold typography at the top displays the {argument name="brand name" default="[BRAND]"} tagline, while the authentic full-color [BRAND] logo sits neatly at the bottom. Crisp studio shadows, photorealistic product textures, strong contrast between real and illustrated elements, modern advertising composition, viral social media campaign aesthetic, imaginative art direction, polished creative agency quality, highly scroll-stopping.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2068012753361813692) | 2026-06-19
+
+---
+
+### 🎴 例 1962：动漫农场故事日
+
+![动漫农场故事日](../../images/%E5%8A%A8%E6%BC%AB%E5%86%9C%E5%9C%BA%E6%95%85%E4%BA%8B%E6%97%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温暖且细节丰富的动漫风格宣传插画，用于温馨的农场故事日，主角为 {argument name="character name" default="MuuMuu Bell"}，营造柔和的田园氛围，配以金色日落光影、闪光、爱心及绘本魅力。
+
+画布：垂直 4:5 插画，精细渲染，柔和的电影级景深，发光的橙粉色日落天空，通向农田的乡村谷仓内部，配有干草堆、木栅栏、树木及漂浮的魔法光点。
+
+主体：一位可爱的奶牛主题动漫少女盘腿坐在谷仓前的格子野餐垫上，正在阅读一本打开的绘本。她留着极长的银白色长发，发梢呈淡水蓝色，长有小巧的奶油色牛角和牛耳，身穿无袖奶牛纹上衣、带淡蓝色饰边的白色短裙、奶牛纹过膝袜，佩戴金色牛铃项圈，一件黑色棒球外套从肩头滑落。外套袖子/背部印有华丽的金色字样“MuuMuu Bell”。她的脸部被一个位于中心的大型不透明桃色方形遮挡块完全遮住，遮盖了眼睛、鼻子和嘴巴，但保留了头发、牛角、耳朵和服装的可见度。
+
+动物：包含 7 只可见的动物围在她身边：左侧有一只黑白相间的小牛正看着书，右侧有一只毛茸茸的白色小羊正向上微笑，膝盖前方有一只黄色小鸡，左下方有 3 只鸡（两只棕色母鸡和一只白色公鸡），右侧干草堆上栖息着一只蓝色小鸟。
+
+道具与细节：少女手中拿着一本打开的儿童绘本，封面绘有淡彩农场插画，并印有日文标题「おおきな たいせつな ともだち」。她周围堆放着儿童读物、一个奶牛纹马克杯，以及一个标有“MuuMuu Milk”字样并绘有小牛插画的金属牛奶罐。添加干草堆、木制谷仓横梁、头发和动物身上的金色轮廓光、心形高光、雏菊及柔和的闪光。
+
+顶部标牌：在左上方添加一个奶油色羊皮纸风格的装饰标牌，周围环绕着花朵、藤蔓、小爱心、闪光及橙色丝带蝴蝶结。大型日文标题必须为 {argument name="headline text" default="朗読の日"}。下方较小的副标题必须为 {argument name="subtitle text" default="声にのせて、心をつなぐ物語"}。
+
+黑板标牌：在左下方放置一块带有木框的小型深色黑板，装饰有花朵、小爱心和一个简单的奶牛涂鸦。书写四行日文： 「やさしい声で…」、「つむぐ物語」、「きみの心に」、「そっと届きますように」。
+
+视觉风格：精致的日本动漫插画，柔和的绘画感渲染，高细节，温暖的农场核心美学，浪漫的日落色调，明亮的高光，细腻的线条，温馨的绘本氛围。保持构图健康、引人入胜，并聚焦于朗读这一动作。
+
+约束条件：使用精确的可见动物数量及列出的文字元素；确保所有日文文字清晰可辨并按描述放置；无额外角色，无水印，除外套字样和牛奶罐标签外无其他 Logo；保持大型桃色方形遮脸块。
+
+[English]
+Goal: Create a warm, highly detailed anime-style promotional illustration for a cozy farm storytelling day featuring {argument name="character name" default="MuuMuu Bell"}, with a gentle pastoral mood, golden sunset lighting, sparkles, hearts, and storybook charm.
+
+Canvas: Vertical 4:5 illustration, richly rendered, soft cinematic depth of field, glowing orange-pink sunset sky, rustic barn interior opening onto a farm field with hay bales, wooden fence, trees, and floating magical light particles.
+
+Main subject: A cute cow-themed anime girl sits cross-legged on a plaid picnic blanket in front of a barn, reading an open picture book. She has very long silvery-white hair with pale aqua-blue tips, small cream cow horns, cow ears, a sleeveless white cow-print top, a white skirt with pale blue trim, cow-print thigh-high stockings, a gold cowbell choker, and a black varsity jacket slipping off her shoulders. The jacket sleeve/back has ornate gold lettering reading “MuuMuu Bell.” Her face is fully hidden by a large opaque peach-colored square censorship block centered over the face, covering the eyes, nose, and mouth while leaving hair, horns, ears, and outfit visible.
+
+Animals: Include exactly 7 visible animals gathered around her: 1 black-and-white calf on the left looking at the book, 1 fluffy white lamb on the right smiling upward, 1 tiny yellow chick in front near her knee, 3 chickens at lower left consisting of two brown hens and one white rooster, and 1 small blue-gray bird perched on the hay bale at right.
+
+Props and details: The girl holds an open children’s picture book with a pastel farm illustration and Japanese title on the cover reading 「おおきな たいせつな ともだち」. Around her are stacked children’s books, a cow-print mug, and a metal milk can labeled “MuuMuu Milk” with a small cow illustration. Add hay bales, wooden barn beams, golden rim light on hair and animals, tiny heart-shaped highlights, daisies, and soft sparkles.
+
+Top sign: In the upper left, add a cream parchment-style decorative sign bordered with flowers, vines, small hearts, sparkles, and an orange ribbon bow. Large Japanese headline text must read {argument name="headline text" default="朗読の日"}. Smaller subtitle beneath it must read {argument name="subtitle text" default="声にのせて、心をつなぐ物語"}.
+
+Chalkboard sign: At bottom left, place a small dark chalkboard with a wooden frame, flower decorations, little hearts, and a simple cow doodle. Write exactly four Japanese lines: 「やさしい声で…」, 「つむぐ物語」, 「きみの心に」, 「そっと届きますように」.
+
+Visual style: Polished Japanese anime illustration, soft painterly rendering, high detail, warm farmcore aesthetic, romantic sunset palette, luminous highlights, delicate linework, cozy children’s-book atmosphere. Keep the composition wholesome, inviting, and centered on the act of reading aloud.
+
+Constraints: Use the exact visible animal count and listed text elements; keep all Japanese text legible and placed as described; no extra characters, no watermark, no logo other than the jacket lettering and milk-can label; maintain the large peach square face-covering block.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2067976746025279964) | 2026-06-19
+
+---
+
+### 🎴 例 1963：汽车杂志封面肖像
+
+![汽车杂志封面肖像](../../images/%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用参考图像作为女孩身份的唯一来源。100% 保留面部特征、相似度、脸型、肤色、眼型、鼻子、嘴唇、年龄、比例以及所有可识别的特征，确保完全一致。请勿更改她的面部或使其看起来像另一个人。
+
+创作一张超写实的汽车生活方式杂志封面，主角为参考图像中的同一位女孩，她自信地站在一辆光泽哑光黑豪华跑车旁。她随意地倚靠在引擎盖上，一只手放在雕塑般的车身上，同时以自信的编辑风格表情直视镜头。
+
+她身穿一件剪裁合身的黑色时尚皮质风衣。她的一头长直发在风中轻轻飘动。妆容精致而迷人，突显双眼轮廓，肤色轮廓柔和，并涂有深浆果色口红。
+
+场景：一个氛围感十足的地下停车场，配有戏剧性的头顶聚光灯、微妙的霓虹灯点缀，以及倒映着汽车和她轮廓的湿润反光混凝土地面。
+
+将其设计为高端汽车杂志封面，顶部采用粗体现代无衬线字体作为“ROAD & TRACK”刊头，并配有逼真的汽车规格标注和编辑封面文字。
+
+超细节哑光黑豪华跑车，具有逼真的金属光泽、准确的车身比例、高级漆面反射、电影级氛围、豪华编辑风格、35mm 镜头摄影、浅景深、高动态范围、汽车摄影、照片级真实感、8K 画质、杂志封面构图。
+
+负面提示词：卡通、动漫、插画、模糊、低质量、虚假的汽车比例、多余的手指、畸形的手、扭曲的反射、重复的人、改变的面部、不同的身份、水印、文字伪影、皮肤过度饱和、CGI 感。
+
+[English]
+Use the reference image as the only source for the girl’s identity. Preserve 100% facial identity, resemblance, face shape, skin tone, eye shape, nose, lips, age, proportions, and all recognizable features exactly. Do not alter her face or make her appear as a different person.
+
+Create an ultra-realistic automotive lifestyle magazine cover featuring the same girl from the reference image, posing confidently beside a glossy matte-black luxury sports coupe. She is leaning casually against the hood of the car with one hand resting on its sculpted body panel while looking directly at the camera with a confident editorial expression.
+
+She wears a sleek black leather trench coat tailored to her figure. Her long straight hair is gently blown by the wind. Makeup is glamorous yet refined, featuring defined eyes, softly contoured skin, and deep berry lipstick.
+
+Scene: a moody underground parking garage with dramatic overhead spotlighting, subtle neon accent lights, and a wet reflective concrete floor that mirrors both the car and her silhouette.
+
+Design it as a premium automotive magazine cover with “ROAD & TRACK” as a bold modern sans-serif masthead at the top, accompanied by realistic automotive spec callouts and editorial cover text.
+
+Ultra-detailed matte-black luxury sports coupe with realistic metallic sheen, accurate body proportions, premium paint reflections, cinematic atmosphere, luxury editorial styling, 35mm lens photography, shallow depth of field, high dynamic range, automotive photography, photorealistic, 8K quality, magazine cover composition.
+
+Negative prompt: cartoon, anime, illustration, blurry, low quality, fake car proportions, extra fingers, deformed hands, distorted reflections, duplicate person, altered face, different identity, watermark, text artifacts, oversaturated skin, CGI look.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2067971380109537778) | 2026-06-19
+
+---
+
+### 🎴 例 1964：暗黑动漫悬疑肖像海报
+
+![暗黑动漫悬疑肖像海报](../../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E6%82%AC%E7%96%91%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版电影感动漫风格海报，背景为纯黑色。展示一位年轻女性的上半身，身体呈四分之三侧转，露出背部和右肩，微微转头看向左后方；她的面部被一个不透明的深棕色方形遮挡块刻意遮住。她留着一头有光泽的短波波头，发色为 {argument name="hair color" default="黑色"}，强烈的红粉色轮廓光勾勒出头发、颈部、肩膀和衬衫的边缘。她穿着一件简洁合身的 {argument name="shirt color" default="暖灰米色"} 短袖 T 恤，衣褶自然，人体结构写实，采用戏剧性的低调照明。整体氛围神秘、优雅，具有书封质感，高对比度，深邃阴影，细腻的皮肤高光，呈现出精致的数字插画效果。在顶部中心，包含 3 个离散的图形/文字元素：1 行小巧纤细的日文文本 {argument name="small top text" default="間田内"}，1 个大号且字间距宽的日文标题 {argument name="main title text" default="真　名"}，以及标题下方居中的 1 个微型红色眼镜图标，图标左右两侧带有淡淡的水平分割线。保持构图简洁，人物上方留出大量黑色空白，无其他额外物体，无水印，无边框，无多余文字。
+
+[English]
+Create a vertical 9:16 cinematic anime-style poster on a pure black background. Show a young woman from the upper body, turned three-quarters away with her back and right shoulder visible, looking slightly over her left shoulder; her face is intentionally covered by one opaque dark brown square censor block. She has a short glossy bob haircut in {argument name="hair color" default="black"}, with strong red-pink rim lighting tracing the outer edges of her hair, neck, shoulders, and shirt. She wears a plain fitted {argument name="shirt color" default="warm gray beige"} short-sleeve T-shirt, softly wrinkled, with realistic anatomy and dramatic low-key lighting. The mood is mysterious, elegant, and book-cover-like, with high contrast, deep shadows, subtle skin highlights, and a polished digital illustration finish. At the top center, include exactly 3 discrete graphic/text elements: 1 small thin Japanese text line reading {argument name="small top text" default="間田内"}, 1 large spaced Japanese title reading {argument name="main title text" default="真　名"}, and 1 tiny red eyeglasses icon centered beneath the title with faint horizontal divider lines extending left and right. Keep the composition minimal, lots of empty black space above the character, no additional objects, no watermark, no border, and no extra text.
+```
+
+**来源：** [@しん](https://x.com/echoandwakaba/status/2067970345706111285) | 2026-06-19
+
+---
+
+### 🎴 例 1965：哥特式 Undine 浪漫主义海报
+
+![哥特式 Undine 浪漫主义海报](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Undine%20%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于浪漫主义和水仙女故事《Undine》的深色哥特式编辑海报，将电影质感的森林河流场景与大型西班牙语排版相结合。
+
+画布：方形 1:1 社交媒体帖子，768×768 风格构图，忧郁的高对比度光影，深青色/黑色调，搭配暖象牙色文字和细长的古金色装饰线条。
+
+背景与主体：夜晚雾气缭绕的日耳曼森林环绕着冰冷幽暗的河流。在右半部分，展示一位苍白水仙女的背影和部分侧脸，她腰部以下浸在水中，湿漉漉的长黑发中缠绕着小树枝或珍珠。她的脸部大部分被覆盖在右上方的实心深色矩形块中。添加涟漪、没入水中的肩膀、湿润的皮肤、松树剪影、前景中的枝叶，以及神秘的浪漫主义时期氛围。
+
+布局：左侧以排版为主；右侧以仙女和水面为主。添加一条从左上方开始并环绕文字的极细古金色圆弧，以及小型装饰花纹和分隔装饰。在左上方放置一个小型带框作者标签。在左下方放置一个小型圆形页码标记。
+
+文字内容：在左上方，置于一个带有小型装饰末端的细金边矩形标签内，书写 {argument name="author name" default="CARL REINECKE"}。在左侧中心，用巨大的压缩粗体大写象牙色字母，分四行堆叠标题：{argument name="headline text" default="¿UNA NINFA EXPLICA EL ROMANTICISMO?"}。在标题下方，添加一条带有中心小型金色花卉装饰的细装饰分隔线。在下方，用优雅的衬线字体书写副标题：{argument name="subtitle text" default="«Undine» es la puerta de entrada."}。左下角页面徽章：一个包含 {argument name="page number" default="1/4"} 的细金边小圆圈。
+
+排版与风格：标题使用高大的压缩海报字体，奶油灰白色墨水，略带陈旧的印刷质感，细微的颗粒感，以及古典文学杂志的外观。副标题使用优雅的衬线字体，作者标签使用窄间距大写字母。
+
+约束：保留这 4 个可见的文本元素：作者标签、标题、副标题和页码标记。不要添加徽标、水印、额外说明文字或其他人物。尽管背景是幽暗的森林，仍需保持强烈的易读性。
+
+[English]
+Goal: Create a dark Gothic editorial poster about Romanticism and the water-nymph story Undine, combining a cinematic forest-river scene with large Spanish typography.
+
+Canvas: Square 1:1 social media post, 768×768 style composition, moody high-contrast lighting, deep teal/black palette with warm ivory text and thin antique-gold ornament lines.
+
+Background and subject: A misty Germanic forest at night surrounds a cold dark river. On the right half, show the back and partial profile of a pale aquatic nymph emerging waist-deep from the water, with long wet black hair tangled with small twigs or pearls. Her face is mostly hidden by a solid dark rectangular block placed over the upper-right facial area. Add rippling water, submerged shoulders, wet skin, silhouetted pine trees, branches and leaves in the foreground, and a mysterious Romantic-era atmosphere.
+
+Layout: Left side dominated by typography; right side dominated by the nymph and water. Add a very thin antique-gold circular arc starting near the upper left and curving around the text, plus small decorative flourishes and divider ornaments. Place a small framed author label at the top left. Place a small circular page marker at the bottom left.
+
+Text content: At the top left, inside a thin gold rectangular label with small ornamental ends, write {argument name="author name" default="CARL REINECKE"}. Center-left, in huge condensed bold uppercase ivory letters, stack the headline across four lines: {argument name="headline text" default="¿UNA NINFA EXPLICA EL ROMANTICISMO?"}. Beneath the headline, add a thin decorative divider line with a small gold floral ornament in the center. Below it, write the subtitle in an elegant serif font: {argument name="subtitle text" default="«Undine» es la puerta de entrada."}. Bottom-left page badge: a small thin gold-outlined circle containing {argument name="page number" default="1/4"}.
+
+Typography and style: Use tall condensed poster type for the headline, creamy off-white ink, slightly aged print texture, subtle grain, and a classical literary-magazine look. Use an elegant serif for the subtitle and narrow spaced capitals for the author label.
+
+Constraints: Keep exactly these 4 visible text elements: author label, headline, subtitle, and page marker. Do not add logos, watermarks, extra captions, or additional people. Maintain strong legibility despite the dark forest background.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2067968519363326375) | 2026-06-19
+
+---
+
+### 🎴 例 1971：美食宣传海报
+
+![美食宣传海报](../../images/%E7%BE%8E%E9%A3%9F%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+把这个{argument name="图片" default="图"}做一个{argument name="类别" default="菜品"}的宣传海报
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2067958682344988723) | 2026-06-19
+
+---
+
+### 🎴 例 1976：克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报
+
+![克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%AE%89%E8%BF%AA%C2%B7%E6%B2%83%E9%9C%8D%E5%B0%94%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="克里斯蒂亚诺·罗纳尔多"} 运动海报，概念 — 将单张照片以四种完全不同的色彩处理方式呈现 — 并排排列 — 分割为四个等宽的垂直长条 — 每个长条展示同一张图片 — 每个长条代表一个不同的色彩世界 — {argument name="art logic" default="安迪·沃霍尔玛丽莲梦露逻辑"} — 但应用于体育摄影而非名人肖像 — 重复的视觉效果揭示了 — 他既是多重身份的集合体 — 又是始终如一的个体，照片内容 — 全身像 — {argument name="pose" default="半空倒钩射门"} — 身体完全倒置 — 低角度拍摄 — 展现人体所能构成的最复杂的建筑学轮廓 — 所有四个长条均展示这一瞬间 — 但处于四种不同的现实中，第一条 — 左侧 — 背景为暖奶油色 Pantone 9183C — 人物为深炭灰色 — 近乎单色 — 一个强调色 — 信号红 Pantone 485C — 位于接触球的球鞋上 — 以及球衣号码 7 上 — 图像 2、3、4 的设计语言 — 技术性 — 精确 — 奶油色区域内包含技术信息注释，第二条 — 背景为电钴蓝色 Pantone 2728C — 人物为白色 — 高对比度 — 反色处理 — 蓝色背景上的白色轮廓 — 伊夫·克莱因风格 — 纯粹的色彩与形式 — 无细节 — 仅保留他构成的形状 — 在蓝色区域上方 — 白色日文汉字 — 空 — kū — 虚空 — 天空 — 空气 — 他所掌控的元素，第三条 — 背景为深森林绿 Pantone 349C — 人物为暖金色 Pantone 130C — 葡萄牙队的配色 — 与常规关系反转 — 绿色与金色 — 而非绿色与红色 — 金钱的颜色 — 胜利的颜色 — 他所积累成就的颜色 — 奖杯以金色小剪影的形式渲染在绿色背景区域中，第四条 — 右侧 — 背景为纯黑色 — 人物为朱红色 Pantone 179C — 最具侵略性的长条 — 热力长条 — 他的轮廓在燃烧 — 如同热成像图 — 如同热特征 — 将身体视为能量源 — 视为引擎 — 视为全速运转的系统，长条之间 — 分割线 — 1px — 在骨白色与信号红色之间交替 — 纤细但清晰可见 — 四个现实的接缝 — 底片样张的边框 — 分色网格，横跨所有四个长条 — 贯穿整个海报宽度 — 忽略长条分割 — 一个排版元素 — 位于垂直中心位置 — RONALDO — 在每个长条上呈现不同颜色 — 奶油色背景上的红色 — 蓝色背景上的白色 — 金色背景上的黑色 — 黑色背景上的金色 — 名字的外观在改变 — 但其含义从未改变，海报底部 — 在所有四个长条下方 — 一个统一的横条 — 黑色 — 全宽 — 包含白色文字 — Helvetica Neue Light 字体 — 8pt 字号，字间距 600 — 四句陈述 — 每个长条对应一句 — 以细线分隔 — 自律 / 艺术感 / 执着 / 传奇，横条将长条所分割的内容统一起来 — 一位球员 — 四个维度 — 全部真实 — 同时存在。
+
+[English]
+{argument name="subject" default="Cristiano Ronaldo"} sports poster, the concept — a single photograph printed in four completely different color treatments — side by side — divided into four equal vertical strips — each strip the same image — each strip a different color world — {argument name="art logic" default="Andy Warhol Marilyn logic"} — but applied to sports photography not celebrity portraiture — the repetition reveals — that he is simultaneously many things — and always the same thing, the photograph — full body — {argument name="pose" default="mid bicycle kick"} — body fully inverted — shot from below — the most architecturally complex silhouette a body can make — all four strips show this same moment — but in four realities, strip one — left — background warm cream Pantone 9183C — figure in deep charcoal — almost monochrome — one accent — signal red Pantone 485C — on the boot making contact — and on the number 7 — the design language of Images 2 3 4 — technical — precise — information annotations in the cream zones, strip two — background electric cobalt Pantone 2728C — figure in white — high contrast — reversed out — white silhouette on blue — Yves Klein territory — pure color pure form — no details — just the shape he makes — in the upper zone of the blue — white Japanese kanji — 空 — kū — void — sky — air — the element he masters, strip three — background deep forest green Pantone 349C — figure in warm gold Pantone 130C — the Portugal colors — inverted from their usual relationship — green and gold — not green and red — the color of money — the color of victory — the color of what he has accumulated — trophies rendered as small gold silhouettes in the green background zones, strip four — right — background absolute black — figure in vermillion Pantone 179C — the most aggressive strip — the heat strip — his silhouette burning — like a thermal image — like a heat signature — the body as energy source — as engine — as system running at maximum, between strips — dividing lines — 1px — alternating between bone white and signal red — thin but present — the seams of four realities — the frame of a contact sheet — the grid of a color separation, across all four strips — running full poster width — ignoring the strip divisions — one typographic element — positioned at exact vertical center — RONALDO — in a different color on each strip — red on cream — white on blue — black on gold — gold on black — the name changing its appearance — never changing its meaning, bottom of poster — below all four strips — a single unifying band — black — full width — containing in white — Helvetica Neue Light — 8pt tracking 600 — four statements — one per strip — separated by thin rules — DISCIPLINE / ARTISTRY / OBSESSION / LEGEND, the band unifies what the strips separate — one man — four dimensions — all true — simultaneously.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2067924941715247192) | 2026-06-19
+
+---
+
+### 🎴 例 1977：像素风端午节海报
+
+![像素风端午节海报](../../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E7%AB%AF%E5%8D%88%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+比例：3:4
+主体：像素化{argument name="节日" default="端午节"}庆典海报
+节日：{argument name="节日名称" default="端午节"} {argument name="日期" default="2026.06.19"}
+色盘：绿色基调，莫兰迪色调，配少许撞色
+```
+
+**来源：** [@draco](https://x.com/DracoVibeCoding/status/2067914620371943493) | 2026-06-19
+
+---
+
+### 🎴 例 1984：布达佩斯剪纸风格旅行海报
+
+![布达佩斯剪纸风格旅行海报](../../images/%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张 {argument name="city" default="匈牙利布达佩斯"} 的垂直旅行海报插画，呈现为精致的手工剪纸立体模型，展现历史建筑、多瑙河以及充满温暖怀旧气息的永恒街道。
+
+画布：3:4 纵向构图，如同精致的旅行杂志封面。使用带有细腻纹理的蓝色纸张作为天空背景，营造午后暖光，通过层叠的剪纸阴影，使每一座建筑、树木、桥梁、云朵和屋顶都呈现出如同手工拼贴的物理质感。
+
+布局：采用从布达山俯瞰城市的视角。前景是陡峭的鹅卵石街道，铺设着电车轨道，配有黄色复古电车、行人、自行车、古老的石墙、咖啡馆盆栽和红瓦屋顶。中景左侧为布达城堡和渔人堡，多瑙河斜穿中心，链子桥横跨河面通向右侧，匈牙利国会大厦位于右侧远端河岸。背景展示了远处的城市天际线、低矮的蓝色山丘和大气薄雾。
+
+文字内容：在右上角添加一个醒目的白色手写粉笔字体标题，内容为 {argument name="title text" default="Budapest"}。包含 5 个白色手写的小型地标注释，配有精致的箭头和涂鸦：“渔人堡”指向左上方的塔楼，“马加什教堂”指向华丽的教堂屋顶和尖塔，“布达城堡”指向圆顶宫殿，“国会大厦”指向河畔的国会大厦并配有一个小爱心涂鸦，“链子桥”指向悬索桥并配有一个微型桥梁草图。添加少量装饰性小星星、虚线旅行路径以及标题附近的一个小型定位针涂鸦。
+
+可见元素：天空中包含 2 朵奶油色纸质云朵，左上方一朵较大的云，中心下方一朵较小的云；河流/天空上方有 2 个简单的鸟类剪影；1 辆标有数字“2”的黄色电车；多瑙河右下方有 1 艘白色游船；右下方有 1 个咖啡馆露台，配有圆桌、椅子、遮阳伞和花盆；底部中心附近有 2 辆自行车；几棵由柔和绿色纸张剪裁而成的层叠树木。
+
+视觉风格：高度细致的剪纸拼贴，微缩立体模型深度，写实的建筑剪影但通过手工工艺纹理进行柔化。配色方案包括灰青色天空、奶油色纸质高光、赤陶色屋顶、柔和的鼠尾草绿树木、米色石质建筑、绿松石蓝河流以及金黄色电车。每一层剪纸下方均有柔和阴影，边缘略显粗糙，具有真实的纸张纤维质感，不包含照片级写实的人物。
+
+约束条件：保持场景迷人且内容丰富但易于阅读，准确保留布达佩斯历史地标以便识别，避免出现现代广告牌或汽车，除列出的 5 个注释外，不要添加额外的地标标签，且不要添加任何水印或 Logo。
+
+[English]
+Goal: Create a vertical travel poster illustration of {argument name="city" default="Budapest, Hungary"} as an intricate handmade paper-cut diorama, showing historic architecture, the Danube River, and timeless streets in a warm nostalgic style.
+
+Canvas: Portrait 3:4 composition, like a detailed editorial travel cover. Use a soft textured blue paper sky background with subtle grain, warm afternoon light, and layered cut-paper shadows that make every building, tree, bridge, cloud, and rooftop feel physically assembled from paper.
+
+Layout: Use an elevated viewpoint from the Buda hills looking down over the city. The foreground is a steep cobblestone street with tram tracks, a yellow vintage tram, pedestrians, bicycles, old stone walls, potted café plants, and red-tiled rooftops. The middle ground contains Buda Castle and Fisherman's Bastion on the left, the Danube River running diagonally through the center, Chain Bridge crossing the river to the right, and the Hungarian Parliament building on the far right riverbank. The background shows a distant city skyline, low blue hills, and atmospheric haze.
+
+Text content: Add a large handwritten white chalk-script title in the upper right reading {argument name="title text" default="Budapest"}. Include exactly 5 small white handwritten landmark annotations with delicate arrows and doodles: “Fisherman's Bastion” pointing to the towers on the upper left, “Matthias Church” pointing to the ornate church roof and spire, “Buda Castle” pointing to the domed palace, “Parliament” pointing to the riverside parliament building with a small heart doodle, and “Chain Bridge” pointing to the suspension bridge with a tiny bridge sketch. Add a few tiny decorative stars, a dotted travel path, and a small location-pin doodle near the title.
+
+Visible elements to include: exactly 2 cream paper clouds in the sky, one larger cloud at upper left and one smaller cloud below it near the center; exactly 2 simple bird silhouettes over the river/sky; exactly 1 yellow tram marked with the number “2”; exactly 1 white river boat on the lower right of the Danube; exactly 1 café terrace in the lower right with round tables, chairs, umbrellas, and flower pots; exactly 2 bicycles near the lower center; several layered trees made from muted green paper cutouts.
+
+Visual style: Highly detailed paper-cut collage, miniature diorama depth, realistic architectural silhouettes but softened by handmade craft texture. Color palette of dusty teal sky, cream paper highlights, terracotta roofs, muted sage trees, beige stone buildings, turquoise-blue river, and golden-yellow tram. Use soft shadows under every cut-paper layer, slight edge roughness, tactile paper fibers, and no photorealistic people.
+
+Constraints: Keep the scene charming and dense but readable, preserve the historic Budapest landmarks accurately enough to recognize them, avoid modern billboards or cars, avoid extra landmark labels beyond the 5 listed annotations, and do not add watermarks or logos.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2067894649663246574) | 2026-06-19
+
+---
+
+### 🎴 例 1987：超写实商业汽水罐广告
+
+![超写实商业汽水罐广告](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E5%95%86%E4%B8%9A%E6%B1%BD%E6%B0%B4%E7%BD%90%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的商业广告摄影作品，展示了一个巨大的 {argument name="beverage brand" default="Coca-Cola"} 汽水罐，放置在现代超市的货架区。一位穿着职业装的年轻 {argument name="person" default="businessman"} 从罐身正面浮现，仿佛与包装设计融为一体。该男子留着整洁的黑色短发，面带自信而温暖的微笑，身穿剪裁合身的炭灰色西装，搭配挺括的白色衬衫和 {argument name="tie color" default="deep red"} 领带。他双手捧着一座细节极其丰富的金色 FIFA 世界杯奖杯。巨大的 Coca-Cola 罐身上布满了逼真的冷凝水珠，印有鲜艳的红色品牌标识、优雅的金色丝带图案以及 2026 年 FIFA 世界杯徽标。背景货架上摆满了多个 Coca-Cola 罐，营造出空间深度和品牌重复的视觉效果。
+
+使用全画幅专业相机拍摄，85mm 镜头，平视视角，浅景深，电影级超市灯光，主体与奖杯超清晰对焦，自然的皮肤纹理，金属表面逼真的反射效果，精准的阴影，光泽感铝罐材质，照片级水珠效果，高端广告构图，HDR，全局光照，光线追踪反射，体积光，背景虚化，极致细节，杂志级产品摄影，商业品牌美学，色彩鲜艳，高对比度，逼真的超市环境，完美的五官，超精细纹理，获奖广告大片风格。
+
+8K UHD，超写实，照片级真实，杰作，超精细，极致清晰度，专业调色，影棚级灯光，清晰对焦，真实比例，电影级景深，奢华商业广告，竖构图（4:5 纵横比）。
+
+[English]
+A hyper-realistic commercial advertising photograph of a giant {argument name="beverage brand" default="Coca-Cola"} can displayed inside a modern supermarket aisle, featuring a professionally dressed young {argument name="person" default="businessman"} emerging from the front of the can as if integrated into the packaging design. The man has neatly styled black hair, a warm confident smile, and wears a tailored charcoal-gray suit, crisp white dress shirt, and {argument name="tie color" default="deep red"} tie. He is holding a highly detailed golden FIFA World Cup trophy with both hands. The enormous Coca-Cola can is covered in realistic condensation droplets, vibrant red branding, elegant gold ribbon graphics, and a FIFA World Cup 2026 emblem. Multiple Coca-Cola cans fill the background shelves, creating depth and brand repetition.
+
+Shot with a full-frame professional camera, 85mm lens, eye-level perspective, shallow depth of field, cinematic supermarket lighting, ultra-sharp focus on the subject and trophy, natural skin texture, realistic reflections on metallic surfaces, accurate shadows, glossy aluminum can material, photorealistic water droplets, premium advertising composition, HDR, global illumination, ray-traced reflections, volumetric lighting, bokeh background, extreme detail, magazine-quality product photography, commercial branding aesthetic, vivid colors, high contrast, realistic supermarket environment, flawless facial features, ultra-detailed textures, award-winning advertising campaign style.
+
+8K UHD, hyper-realistic, photorealistic, masterpiece, ultra-detailed, maximum clarity, professional color grading, studio-quality lighting, sharp focus, realistic proportions, cinematic depth, luxury commercial advertisement, vertical composition (4:5 aspect ratio).
+```
+
+**来源：** [@Zyro](https://x.com/Itswsm105f/status/2067890700788945267) | 2026-06-19
+
+---
+
+### 🎴 例 1994：意日融合风餐厅海报
+
+![意日融合风餐厅海报](../../images/%E6%84%8F%E6%97%A5%E8%9E%8D%E5%90%88%E9%A3%8E%E9%A4%90%E5%8E%85%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张关于美食的极简主义广告海报，采用现代意大利风格与日本布局美学，保留精确的构图结构：两个大型圆角垂直几何色块沿对角线排列，俯视视角的食物摄影。左上方的色块是主菜：{argument name="first dish" default="浅色陶瓷盘中盛放的松露奶油帕尔马干酪新鲜宽面条"}，配有黑松露薄片、橄榄油和微型蔬菜，呈现高端餐厅服务品质。右下方的色块是第二道主菜：{argument name="second dish" default="哑光深色盘中盛放的慢炖小牛膝配藏红花烩饭"}，配有浓郁酱汁、香草碎和新鲜香草，呈现现代原创意大利料理。漂浮的配菜和餐具整齐地排列在每道菜周围：复古餐具、亚麻餐巾、迷迭香和百里香枝条、圣女果、帕尔马干酪片、迷你橄榄油锅、新鲜手工佛卡夏面包、橄榄和香料。右上角对齐现代意大利风格的大号排版，文字全部为英文：餐厅名称、菜品名称和价格。每道菜旁边放置带有价格的小字。轻盈的编辑风格采用负空间系统，柔和的商业色调包括奶油色、赤陶色、橄榄色、鼠尾草绿和石墨色。清晰的非对称视觉层级，高端餐厅品牌美学，电影级柔和阴影，海报格式的现代菜单呈现。页脚处的微妙签名自然地融入构图底部。纯垂直构图，超细节，高端品牌感，逼真的食物造型，柔和的电影级暗绿色灯光，意大利料理编辑海报设计，极简主义。
+
+[English]
+A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: {argument name="first dish" default="fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate"}, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: {argument name="second dish" default="slow—stewed ossobuco with saffron risotto on a matte dark plate"}, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2067835275695534326) | 2026-06-19
+
+---
+
+### 🎴 例 2001：Midnight Aurora 奢华香水广告
+
+![Midnight Aurora 奢华香水广告](../../images/Midnight%20Aurora%20%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超高端奢华产品摄影场景，采用竖屏格式，以名为“{argument name="product name" default="MIDNIGHT AURORA"}”的虚构小众香水作为主角。
+
+香水瓶身采用时尚的几何轮廓，由 {argument name="material" default="深蓝宝石色水晶玻璃"} 精制而成，配有拉丝铂金装饰和雕塑感金属瓶盖。将香水瓶放置在抛光的黑色黑曜石底座上，周围环绕着发光的水晶碎片和淡淡的薄雾。
+
+环境营造出北极极光下神秘的 {argument name="environment" default="北极之夜"} 氛围。背景中，充满活力的极光波纹在场景中流转，伴随着柔和的绿色、蓝色和紫色光迹。漂浮的冰晶、闪烁的微粒和半透明的霜雪纹理营造出一种梦幻般的氛围。
+
+灯光：背部戏剧性的电影级轮廓光，左侧冷蓝色主光，瓶身微妙的铂金反射，体积光束，奢华商业灯光设置，高端香水广告美学。
+
+色调：午夜蓝、翡翠绿、冰青色、银色、紫色。
+
+相机：全画幅专业相机，85mm 微距镜头，f/2.8 光圈，浅景深，超逼真的玻璃反射，高端产品摄影，极其锐利的瓶身细节，柔和细腻的焦外成像。
+
+构图：简洁的居中构图，香水瓶占据视觉焦点，平衡的留白，奢华品牌美学，杂志封面级品质，照片级真实感，8K 分辨率，杰作，商业广告大片。
+
+重要提示：请保留上传产品的确切形状和标签位置，并将其无缝融入奢华的北极极光环境中。
+
+[English]
+Create an ultra-premium luxury product photography scene in vertical format featuring a fictional niche perfume called “{argument name="product name" default="MIDNIGHT AURORA"}” as the hero product.
+
+The perfume bottle has a sleek geometric silhouette crafted from {argument name="material" default="deep sapphire-blue crystal glass"} with brushed platinum accents and a sculptural metallic cap. Place the bottle on a polished black obsidian pedestal surrounded by glowing crystal fragments and subtle mist.
+
+The environment evokes a mystical {argument name="environment" default="Arctic night"} under the Northern Lights. In the background, vibrant aurora waves flow across the scene with soft green, blue, and violet light trails. Floating ice crystals, shimmering particles, and translucent frost textures create a magical atmosphere.
+
+Lighting: dramatic cinematic rim lighting from behind, cool blue key light from the left, subtle platinum reflections on the bottle, volumetric light rays, luxury commercial lighting setup, high-end fragrance campaign aesthetic.
+
+Color palette: midnight blue, emerald green, icy cyan, silver, violet.
+
+Camera: Full-frame professional camera, 85mm macro lens, f/2.8 aperture, shallow depth of field, ultra-realistic glass reflections, premium product photography, razor-sharp bottle details, soft creamy bokeh.
+
+Composition: clean centered composition, bottle occupying the visual focus, balanced negative space, luxury branding aesthetic, magazine-cover quality, photorealistic, 8K, masterpiece, commercial advertising campaign.
+
+Important: Preserve the exact uploaded product shape and label placement while seamlessly integrating it into the luxury Arctic aurora environment.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2067815062144987542) | 2026-06-19
+
+---
+
+### 🎴 例 2002：皮克斯风格 Q 版手办生成器
+
+![皮克斯风格 Q 版手办生成器](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20Q%20%E7%89%88%E6%89%8B%E5%8A%9E%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张高质量的影棚宣传照，展示上传的真人与其专属的 {argument name="figurine style" default="皮克斯风格 Q 版手办"} 并肩站立的场景。
+
+画面锁定
+垂直 4:5 构图。全身视角。两个主体均从头到脚完整呈现。高端杂志封面质感。简洁的居中影棚构图。
+
+身份锁定
+仅使用上传的图片作为身份参考。保留准确的面部结构、五官比例、发型、发色、肤色、表情、身体比例、服装、配饰、珠宝、手表、鞋子以及可辨识的身份特征。真人与手办必须清晰地代表同一个人。
+
+影棚环境
+中性 {argument name="backdrop color" default="中性灰"} 无缝背景，带有微妙的径向渐变，主体后方略亮，边缘逐渐变暗。专业摄影棚布置。地面整洁。无道具。无干扰元素。
+
+光影效果
+{argument name="lighting style" default="大型柔光箱主光"} 从左上方照射。右侧有柔和的暖色补光。后方有微妙的轮廓光。柔和的高级影棚阴影。自然的皮肤渲染。两个主体必须共享相同的光照方向和阴影表现。
+
+真人主体
+站在画面右侧。全身可见。身体呈四分之三侧向镜头。姿态放松自信。重心落在后腿。直视镜头。服装与外观与参考图完全一致。
+
+Q 版手办
+站在左侧，略微位于真人前方。
+高度约为真人胸部位置（约其身高的 60%）。
+平衡的皮克斯风格比例。头部约占全身高度的 30%。身体约占全身高度的 70%。躯干、手臂、腿部和脚部完整可见。非摇头娃娃。非 Funko Pop 风格。头部比例不过大。
+面部设计应为真人极具辨识度的皮克斯风格演绎。大而富有表现力的眼睛，带有细腻的虹膜和明亮的眼神光。雕刻出的发型与参考图一致。柔和圆润的脸颊。温暖友好的微笑。高端收藏级手办质感。
+
+服装匹配
+手办穿着与真人完全相同的服装、鞋子、配饰、珠宝、手表、颜色、图案和造型，并自然地适配 Q 版比例。
+
+互动细节
+真人的右手自然地搭在手办头顶。手掌触碰头发。手肘位置放松。互动自然舒适。两个主体看起来是在同一时间、同一影棚内共同拍摄的。
+
+输出风格
+高端影棚宣传摄影。照片级真实的人物主体。高端皮克斯/迪士尼风格收藏级手办。奢华广告美学。逼真的阴影。无缝融合。超精细材质。8K 画质。细腻的胶片颗粒感。
+
+负面提示词
+避免摇头娃娃比例。避免 Funko Pop 风格。避免巨大的悬浮头部。避免幼童化
+
+[English]
+Create a premium studio campaign portrait featuring the uploaded person standing beside a collectible {argument name="figurine style" default="Pixar-style chibi figurine"} version of themselves.
+
+FORMAT LOCK
+Vertical 4:5 composition. Full-body view. Both subjects fully visible from head to toe. Premium magazine-cover quality. Clean centered studio composition.
+
+IDENTITY LOCK
+Use the uploaded image as the only identity reference. Preserve exact facial structure, facial proportions, hairstyle, hair color, skin tone, expression, body proportions, clothing, accessories, jewelry, watch, shoes, and recognizable identity traits. The real person and the figurine must clearly represent the same individual.
+
+STUDIO ENVIRONMENT
+Medium {argument name="backdrop color" default="neutral grey"} seamless backdrop with a subtle radial gradient, slightly brighter behind the subjects and darker toward the edges. Professional photography studio setup. Clean floor. No props. No distractions.
+
+LIGHTING
+{argument name="lighting style" default="Large softbox key light"} from upper-left. Gentle warm fill light from the right. Subtle rim light from behind. Soft premium studio shadows. Natural skin rendering. Both subjects must share identical lighting direction and shadow behavior.
+
+REAL PERSON
+Standing on the right side of the frame. Full height visible. Three-quarter stance toward camera. Relaxed confident pose. Weight on the back leg. Direct eye contact with the camera. Exact outfit and appearance from the reference image.
+
+CHIBI FIGURINE
+Standing on the left side, slightly in front of the real person.
+Height reaches approximately the real person's chest level (about 60% of their height).
+Balanced Pixar-style proportions. Head approximately 30% of total figure height. Body approximately 70% of total figure height. Full visible torso, arms, legs, and feet. Not a bobblehead. Not a Funko Pop. Not oversized head proportions.
+Facial design should be a highly recognizable Pixar-style interpretation of the real person. Large expressive eyes with detailed irises and bright catchlights. Sculpted hairstyle matching the reference. Soft rounded cheeks. Warm friendly smile. Premium collectible figure quality.
+
+WARDROBE MATCH
+The figurine wears the exact same outfit, shoes, accessories, jewelry, watch, colors, patterns, and styling as the real person, adapted naturally to chibi proportions.
+
+INTERACTION
+The real person's right arm rests naturally on top of the figurine's head. Palm touching the hair. Relaxed elbow position. Comfortable natural interaction. Both subjects appear photographed together in the same studio at the same moment.
+
+OUTPUT STYLE
+Premium studio campaign photography. Photoreal human subject. High-end Pixar/Disney-style collectible figurine. Luxury advertising aesthetic. Realistic shadows. Seamless integration. Ultra-detailed materials. 8K quality. Fine film grain.
+
+NEGATIVE PROMPT
+Avoid bobblehead proportions. Avoid Funko Pop style. Avoid giant floating head. Avoid childlike
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2067814643372786104) | 2026-06-19
+
+---
+
+### 🎴 例 2007：2026 年 FIFA 世界杯英雄海报
+
+![2026 年 FIFA 世界杯英雄海报](../../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的 2026 年 FIFA 世界杯冠军海报，主角为一名身穿 {argument name="jersey color" default="白色"} 国家队球衣、背号为 {argument name="jersey number" default="10 号"} 的 {argument name="subject" default="年轻足球巨星"}。背景为巨幅电影感球员肖像，面部细节清晰，发型时尚且随风飘动，神情自信。前景中，球员正穿过充满未来感的金色球场通道，通道内灯光与倒影交相辉映。采用优雅的白金配色，融入高端体育品牌风格、发光的能量流、金属质感及奖杯灵感设计元素，营造史诗般的世界杯氛围，呈现高端广告质感与励志体育英雄美学。包含动态景深、体积光效果、超精细皮肤纹理、逼真的织物褶皱、光洁的地板倒影以及获奖级的海报构图。文字内容：“LEGENDS AREN’T BORN. THEY INSPIRE A GENERATION.”（传奇非天生，而是激励一代人。）8K 分辨率，超写实，电影级，杰作，Behance 和 ArtStation 热门作品，高端体育营销摄影风格。
+
+[English]
+Create an ultra-realistic FIFA World Cup 2026 championship poster featuring a {argument name="subject" default="young football superstar"} wearing a {argument name="jersey color" default="white"} national team jersey with {argument name="jersey number" default="number 10"}. A massive cinematic portrait of the player dominates the background, with sharp facial details, stylish windswept hair, and a confident expression. In the foreground, the player walks through a futuristic golden stadium tunnel illuminated by dramatic lights and reflections. Elegant white and gold color palette, luxury sports branding, glowing energy streaks, metallic textures, trophy-inspired design elements, epic World Cup atmosphere, high-end advertising style, inspirational sports hero aesthetic. Include dynamic depth, volumetric lighting, ultra-detailed skin, realistic fabric folds, glossy floor reflections, and award-winning poster composition. Text: “LEGENDS AREN’T BORN. THEY INSPIRE A GENERATION.” 8K resolution, hyper-realistic, cinematic, masterpiece, trending on Behance and ArtStation, premium sports campaign photography.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2067807860063695072) | 2026-06-19
+
+---
+

@@ -5311,3 +5311,165 @@ Create a vertical 2:3 vintage dark-fantasy anime illustration of an adult rabbit
 
 ---
 
+### 🏷️ 例 1956：Glossy Codex 与 Hermes Tech 缩略图
+
+![Glossy Codex 与 Hermes Tech 缩略图](../../images/Glossy%20Codex%20%E4%B8%8E%20Hermes%20Tech%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张光泽感、高对比度的 YouTube 风格科技视频缩略图，主题为在 {argument name="tool one name" default="Codex"} 和 {argument name="tool two name" default="Hermes"} 之间进行选择。
+
+画布：4:3 横向缩略图，1024×768 构图，深黑色至炭灰色的摄影棚背景，顶部中央射下一道戏剧性的白色聚光灯，带有淡淡的烟雾感，电影级的轮廓光，以及高级的“油润”光泽感缩略图外观。
+
+布局：画面中央为一名年轻男性主持人，胸部以上出镜，面向镜头，身穿纯黑色 V 领 T 恤。他的面部应刻意进行匿名化处理，使用平滑模糊的肤色矩形遮罩。他的双臂对称抬起，手掌向上打开，仿佛在权衡两个选择。在他双手上方放置 2 个悬浮选项图形：左侧为一个发着蓝光的云状终端图标，带有白色命令行符号；右侧为一个黑白动漫风格的女性头像，头发具有光泽感且带有白色轮廓光，面部同样用模糊的小方块进行匿名化处理。
+
+文字内容：在画面下三分之一处添加 2 行堆叠文字。顶行：大型加粗白色中文字体，带有黑色阴影，内容为 {argument name="top headline text" default="到底选"}。底行：巨大的金白混合字体，内容为 {argument name="bottom comparison text" default="Codex 还是 Hermes?"}；将“Codex”和“Hermes?”设为带有斜面、渐变、黑色描边和投影的金属金色，中间的中文保持白色。在“Hermes”一词右侧附近加入一个小型的金色星形镜头光晕。
+
+主体细节：主持人留着凌乱的短棕发，被头顶的聚光灯照亮，手部自然，手掌清晰可见，姿态中立，表现出对比或犹豫的感觉。左侧图标应发出电光蓝色的光芒，带有霓虹轮廓；右侧动漫头像应为单色，并带有强烈的白色边缘高光。
+
+视觉风格：高精细度的中文科技创作者缩略图，主体抠图清晰，对比度强烈，光泽感 3D 文字，戏剧性灯光，饱和的高光，构图简洁，无额外 Logo，无水印，无其他文字。
+
+[English]
+Goal: Create a glossy, high-contrast YouTube-style tech video thumbnail about choosing between {argument name="tool one name" default="Codex"} and {argument name="tool two name" default="Hermes"}.
+
+Canvas: 4:3 landscape thumbnail, 1024×768 composition, dark black-to-charcoal studio background with a dramatic white spotlight shining down from the top center, subtle smoky haze, cinematic rim lighting, and a premium “oily” glossy thumbnail look.
+
+Layout: Center a young male presenter from chest up, facing camera, wearing a plain black V-neck T-shirt. His face should be intentionally anonymized with a smooth blurred rectangular skin-tone mask. His arms are raised symmetrically, palms open upward as if weighing two choices. Place exactly 2 floating option graphics above his hands: on the left, a glowing blue cloud-shaped terminal icon with a white command prompt symbol; on the right, a black-and-white anime-style female avatar bust with glossy hair and a white outline glow, also anonymized with a small blurred square over the face.
+
+Text content: Add exactly 2 stacked text lines across the lower third. Top line: large bold white Chinese text with black shadow, {argument name="top headline text" default="到底选"}. Bottom line: huge mixed gold-and-white text reading {argument name="bottom comparison text" default="Codex 还是 Hermes?"}; make “Codex” and “Hermes?” metallic gold with bevel, gradient, black outline, and drop shadow, while the middle Chinese word stays white. Include one small golden star lens flare near the right side of the word “Hermes”.
+
+Subject details: The presenter has short messy brown hair lit by the overhead spotlight, natural hands with visible palms, and a neutral pose suggesting comparison or uncertainty. The left icon should glow electric blue with a neon rim; the right anime avatar should be monochrome with strong white edge highlights.
+
+Visual style: Hyper-polished Chinese tech creator thumbnail, sharp subject cutout, intense contrast, glossy 3D text, dramatic lighting, saturated highlights, clean composition, no extra logos, no watermark, no additional text.
+```
+
+**来源：** [@王帅真](https://x.com/qizong007/status/2067994215293038979) | 2026-06-19
+
+---
+
+### 🏷️ 例 1981：守护的黑猫与嘶叫的小猫
+
+![守护的黑猫与嘶叫的小猫](../../images/%E5%AE%88%E6%8A%A4%E7%9A%84%E9%BB%91%E7%8C%AB%E4%B8%8E%E5%98%B6%E5%8F%AB%E7%9A%84%E5%B0%8F%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实特写照片，画面中仅包含两只室内黑猫：前景是一只毛茸茸的小黑猫，正后方是一只体型较大的成年黑猫，正以半拥抱或守护的姿态笼罩着它。小猫居中，拥有光泽的黑色皮毛、紫罗兰色的眼睛，前爪抬起并露出肉垫，嘴巴张大做出戏剧性的喵喵叫或嘶叫动作，露出细小的白色尖牙和粉色舌头，胡须清晰地捕捉着光线，表情既惊恐又愤怒。身后的成年猫体型更大，长毛，有着明亮的冰蓝色眼睛，黑色口鼻部和胡须富有光泽，眼神警觉且充满保护欲，略微看向右上方；画面中仅可见其头部、胸部及部分身体。采用温暖的室内金色光线，浅景深，柔和的背景虚化，背景为优雅舒适的房间，带有模糊的木质家具、暖色墙板和柔和发光的台灯。构图采用紧凑的 4:3 横向画幅，低角度拍摄，与猫眼平齐，猫的皮毛细节极其锐利，背景则柔和虚化。高端野生动物肖像写实风格，电影级对比度，黑色皮毛上带有温暖的琥珀色轮廓光，无文字，无项圈，无人类，无其他动物。
+
+[English]
+Create a photorealistic cinematic close-up of exactly two black cats indoors: one tiny fluffy black kitten in the foreground and one larger adult black cat directly behind it, partially embracing or looming protectively. The kitten is centered, with glossy black fur, violet-purple eyes, tiny raised front paws with visible pads, mouth wide open in a dramatic meow or hiss showing small white fangs and a pink tongue, whiskers sharply catching the light, and an expressive startled-angry face. The adult cat behind it is larger, long-haired, with bright icy blue eyes, a glossy black muzzle and whiskers, looking slightly upward and to the right with an alert protective expression; only the head, chest, and part of the body are visible around the kitten. Use warm golden indoor lighting, shallow depth of field, creamy bokeh, and an elegant cozy room background with blurred wooden furniture, warm wall panels, and a softly glowing table lamp. Compose as a tight horizontal 4:3 frame, low angle at cat eye level, fur detail extremely sharp on the cats while the background is softly blurred. High-end wildlife portrait realism, cinematic contrast, warm amber rim light on black fur, no text, no collar, no humans, no extra animals.
+```
+
+**来源：** [@優里（ユーリ）🪷](https://x.com/Yuri_lily202507/status/2067898583056265341) | 2026-06-19
+
+---
+
+### 🏷️ 例 1991：新艺术风格珠宝蝴蝶
+
+![新艺术风格珠宝蝴蝶](../../images/%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%8F%A0%E5%AE%9D%E8%9D%B4%E8%9D%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅华丽的“新艺术”风格奇幻插画，描绘一只巨大的珠宝蝴蝶悬停在日出时分雾气缭绕的野花草地上。蝴蝶位于画面中心偏左，双翼完全展开，可见四片翅膀，拥有纤细的青铜金色身体和两根长触角；其双翼如同彩色玻璃或珐琅珠宝般镶嵌着金丝，填充着复杂的卷曲金线、青色与深蓝色板块、象牙色半透明区域、微小的蓝色花朵以及扇贝状蕾丝边缘。背景是梦幻般的金色景观，低垂的太阳位于右侧地平线附近，阳光穿过发光的云层，远处是朦胧的山丘和树木，空气中弥漫着柔和的雾气。前景草地密布着精致的白雏菊、白色花朵、小蓝花、藤蔓，以及几片飘浮在空中的淡色花瓣或蝴蝶。整个场景由一个精致的圆角矩形“新艺术”风格边框包裹，采用古金色和深青色，包含卷曲的植物卷轴纹饰，并设有恰好两个圆形边角徽章：左上角徽章内含微型山景，右上角徽章内含一朵百合花。在边缘和下角添加额外的金色藤蔓弧线和装饰性花纹，但不要包含任何文字。采用奢华的古董故事书美学，高细节的绘画渲染，温暖的金色与柔和的青色调，柔和的发光雾气，精细的雕刻线条，对称的优雅感，电影般的宽画幅构图，16:9 比例。
+
+[English]
+Create an ornate Art Nouveau fantasy illustration of a single enormous jeweled butterfly hovering over a misty wildflower meadow at sunrise. The butterfly is centered slightly left, wings fully spread, with four visible wings and a slender bronze-gold body with two long antennae; its wings are filigreed like stained glass or enamel jewelry, filled with intricate curling gold lines, teal and deep blue panels, ivory translucent sections, tiny blue flowers, and scalloped lace-like edges. The background is a dreamy golden landscape with a low sun near the right horizon, radiant sunbeams through glowing clouds, distant hazy hills and trees, and soft atmospheric mist. The foreground meadow is dense with delicate white daisies, white blossoms, small blue flowers, grasses, vines, and a few pale petals or butterflies drifting in the air. Frame the entire scene with an elaborate rounded-rectangle Art Nouveau border in aged gold and dark teal, including curling botanical scrollwork and exactly two circular corner medallions: the top-left medallion contains a tiny mountain landscape, and the top-right medallion contains a white lily flower. Add additional golden vine arcs and decorative flourishes around the edges and lower corners, but no text. Use a luxurious antique storybook aesthetic, highly detailed painterly rendering, warm gold and muted teal palette, soft luminous haze, fine engraved linework, symmetrical elegance, cinematic wide composition, 16:9 aspect ratio.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2067853891585065438) | 2026-06-19
+
+---
+
+### 🏷️ 例 1996：电影级动漫风格照片转换
+
+![电影级动漫风格照片转换](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其转换为高品质的电影级日本动漫画面，同时严格保留原始构图、姿势、身体比例、拍摄角度、服装设计、墙板、地板位置以及所有可见的标志/文字。保持面部匿名/遮挡，与参考图一致。将照片转换为精致的手绘动漫关键帧艺术，具备清晰的线条、细腻的赛璐珞阴影、逼真的布料褶皱、细致的发丝以及高预算电影剧照的质感。
+
+光影与氛围：从右侧添加温暖的黄金时刻阳光、柔和的发光高光、横跨墙壁和地板的细长对角阴影、柔和的大气尘埃/焦外成像颗粒，以及梦幻般的电影级调色。在保持室内场景和主体位置不变的同时，增加对比度和深度。
+
+保留限制：请勿更改儿童的站姿、手部位置、服装颜色、鞋子款式、背景结构或取景范围。请勿添加额外的人物或道具。保持垂直肖像裁剪和逼真的比例，仅将图像升级为动漫电影风格。
+
+[English]
+Using the provided reference image, transform it into a premium cinematic Japanese anime film frame while strictly preserving the original composition, pose, body proportions, camera angle, outfit design, wall panels, floor position, and all visible logos/text. Keep the face anonymized/covered as in the reference. Convert the photo into polished hand-drawn anime key art with clean linework, subtle cel shading, realistic fabric folds, detailed hair strands, and a high-budget movie-still finish.
+
+Lighting and mood: add warm golden-hour sunlight from the right side, soft glowing highlights, long diagonal shadows across the wall and floor, gentle atmospheric dust/bokeh particles, and a dreamy cinematic color grade. Increase contrast and depth while keeping the same indoor setting and subject placement.
+
+Preservation constraints: do not change the child’s stance, hand positions, clothing colors, shoe style, background structure, or framing. Do not add extra characters or props. Maintain the vertical portrait crop and realistic proportions, only upgrading the image into anime-film style.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2067830330858619119) | 2026-06-19
+
+---
+
+### 🏷️ 例 2004：韩式美妆技巧缩略图
+
+![韩式美妆技巧缩略图](../../images/%E9%9F%A9%E5%BC%8F%E7%BE%8E%E5%A6%86%E6%8A%80%E5%B7%A7%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张明亮的韩式 YouTube 缩略图，主题为皮肤问题改善技巧，将美妆人像与醒目的编辑风格文字相结合。
+
+画布：1200×675 的 16:9 横向缩略图，边缘内侧带有细白色矩形边框。背景为温暖的米色室内卧室/客厅，带有柔和的模糊效果，包含窗帘、灯光、植物，营造出舒适、干净的美妆氛围。
+
+布局：将一位年轻韩国女性放置在右半部分，展示胸部以上，身穿露肩象牙白针织毛衣。她留着黑色长直发，手部靠近脸部，姿态温柔。用一个位于中心、边缘柔和的棕粉色方形马赛克/模糊遮挡块覆盖她的脸部，仅露出头发、耳朵、颈部、肩膀和手部。左半部分主要用于展示大型堆叠的韩语标题排版。
+
+文字内容：使用 4 个主要文字区域：1) 左上方的一个粉色笔触横幅，文字为 {argument name="top banner text" default="요즘 제가 빠진!"}；2) 左侧超大的主标题，文字为 {argument name="headline text" default="삶의 질을 높여준 8가지"}，第一行为黑色，下方行使用亮粉色，所有文字均带有粗白色轮廓和微妙的深色阴影；3) 下方中心附近的一个粉色椭圆笔触徽章，文字为 {argument name="badge text" default="꼭 해보세요!"}；4) 右上方的一条小型手写注释，文字为 {argument name="side note text" default="일상이 달라져요!"}，首词为黑色，强调词为粉色并带有下划线。
+
+视觉风格：韩式美妆/生活方式缩略图设计，高对比度，俏皮的手写装饰，光泽感的杂志灯光，柔和的粉白配色，醒目的圆体韩文字体，文字周围有干净的剪纸风格轮廓，整体基调欢快且具有说服力。
+
+装饰元素：包含 5 个明显的涂鸦装饰：左中上方 2 个白色闪光图标，顶部横幅旁 1 个粉色轮廓爱心，右侧注释旁 1 个粉色轮廓爱心，以及左下边缘 1 个粉色星星涂鸦。
+
+约束条件：不要添加额外的徽标或水印。通过方形模糊块刻意保持面部匿名。确保在缩略图尺寸下具有极强的可读性，并避免添加除上述 4 个指定区域之外的任何文字。
+
+[English]
+Goal: Create a bright Korean YouTube-style thumbnail about improving sleep, combining a lifestyle portrait with bold editorial typography.
+
+Canvas: 1200×675 horizontal 16:9 thumbnail, soft warm indoor bedroom/living-room background, thin white rectangular border inset from the edges.
+
+Main subject: On the right half, show a young East Asian woman with long dark wavy hair wearing an off-shoulder cream knit sweater, sitting in a cozy room and touching her cheek with one hand. Her face is intentionally covered by a large centered square blur/mosaic block in muted skin-tone colors, obscuring all facial features. Keep the portrait softly lit, feminine, and clean.
+
+Layout: Left half is dominated by oversized stacked Korean headline typography with thick white outline and subtle black drop shadow. Use three main headline lines: line 1 black text, line 2 pink text, line 3 pink text. The woman overlaps slightly behind the typography, creating a magazine thumbnail composition.
+
+Text content: Include exactly 4 text blocks: 1) a pink brush-stroke banner at upper left reading {argument name="top banner text" default="요즘 제가 빠진!"}; 2) the main headline reading {argument name="headline text" default="삶의 질을 높여준 8가지"}; 3) a pink oval brush label near the lower center reading {argument name="callout text" default="꼭 해보세요!"}; 4) a small handwritten note on the right reading {argument name="side note text" default="일상이 달라져요!"}, with the second phrase in pink and underlined.
+
+Decorative elements: Include exactly 2 pink outline hearts, one near the top banner and one near the right handwritten note. Include exactly 4 star/sparkle doodles: two white sparkle marks above the headline near the center, one pink star outline on the left edge, and one small white star near the lower callout label. Add hand-drawn underline strokes under the callout and side note.
+
+Visual style: Korean lifestyle content thumbnail, cute and polished, high contrast, bold rounded sans-serif Korean lettering, black and hot-pink palette with white outlines, soft beige background, playful brush strokes, clean social-media design.
+
+Constraints: Do not add extra text blocks, extra people, logos, or watermarks. Keep the face fully obscured by the square blur block while preserving the hair, sweater, hand, and shoulders.
+```
+
+**来源：** [@응애](https://x.com/Waaah_waaah/status/2067813256362917889) | 2026-06-19
+
+---
+
+### 🏷️ 例 2010：绚丽的六月花园
+
+![绚丽的六月花园](../../images/%E7%BB%9A%E4%B8%BD%E7%9A%84%E5%85%AD%E6%9C%88%E8%8A%B1%E5%9B%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅生动且照片级逼真的夏季花园景观，采用 16:9 宽画幅。画面展示一条狭窄且阳光明媚的鹅卵石小径，从画面下方中央向右侧远方延伸，两侧环绕着郁郁葱葱的绿植和繁茂的六月花卉。在左侧前景处，放置高耸的蜀葵花茎，需包含 12 朵清晰可见的大型花朵，颜色混合：深绯红、洋红、淡粉色、浅桃色、奶油黄、白色和紫罗兰色，花瓣圆润舒展，并带有绿色的垂直花苞。在右上角，绘制一个茂密的橙色凌霄花藤架，需包含 13 朵显眼的盛开或管状花朵，在油亮的绿叶间垂下，部分遮掩着古老的花园墙壁或棚架。在小径左侧，加入一条波光粼粼的宁静河流或运河，反射着阳光；在河对岸，展示远处的蓝绿色山峦、一座小桥和柔和的白色积云。在左上方的明亮蓝天中，添加一道淡淡的柔和彩虹。整体氛围应显得宏伟、清新、温暖且田园诗般，色彩自然饱和，阳光明媚，具有柔和的景深，花瓣和叶片细节丰富，水面波光逼真，画面中不包含人物、动物、文字或水印。
+
+[English]
+Create a vibrant photorealistic midsummer garden landscape beside a calm river, celebrating {argument name="season and theme" default="magnificent June flowers"}. Use a wide 16:9 horizontal composition from a low eye-level viewpoint on a narrow cobblestone path that curves into the distance along the right side of the river. In the left foreground, show a tall cluster of hollyhocks with about 14 visible blossoms in deep crimson, hot pink, pale pink, lemon yellow, creamy white, and lavender-purple, with long green flower spikes rising upward. On the right and upper foreground, frame the scene with a lush arbor or trellis covered in abundant orange trumpet vine flowers and round orange blooms, approximately 18 prominent orange blossoms/trumpets visible, hanging overhead and cascading down beside a rustic fence or garden wall. The middle ground should contain dense green shrubs, small pink wildflowers, and a sunlit riverside walkway leading toward a tiny seating area or bridge in the distance. The left side contains sparkling turquoise-blue river water with bright sun glints, bordered by leafy trees. In the background, include a soft blue mountain, fluffy white cumulus clouds, and a faint pastel rainbow arcing through the blue sky. Lighting should be bright golden summer sunlight with high saturation, crisp detail, fresh green foliage, strong depth, gentle atmospheric haze in the distance, and a cheerful idyllic travel-photography feeling. Avoid people, animals, text, logos, buildings dominating the scene, or artificial fantasy elements beyond the natural rainbow.
+```
+
+**来源：** [@TakTempest](https://x.com/222TT222/status/2067801707468493283) | 2026-06-19
+
+---
+
