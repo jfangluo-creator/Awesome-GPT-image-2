@@ -3820,3 +3820,73 @@ Negative Prompt: cartoon, anime, CGI, illustration, overprocessed skin, excessiv
 
 ---
 
+### 🧍 例 2030：电影级照片增强
+
+![电影级照片增强](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其增强为 {argument name="output quality" default="超高清 8K 电影质感"}。100% 保留原始主体特征、姿势、物体、取景、构图、光照方向以及参考图中现有的遮挡物。恢复场景中真实的微观细节：可见的眼睛/眼镜边缘更锐利，手部和戒指细节清晰，皮肤纹理自然，卷发定义明确，奖杯表面纹理更清晰，玻璃反射更纯净，阴影细节更丰富。实现具有摄影棚级对比度、电影级景深、温暖博物馆展示灯光的照片级真实感，无像素化、无模糊、无伪影，且不对场景进行任何虚构的改动。
+
+[English]
+Using the provided reference image, enhance it into {argument name="output quality" default="ultra-premium 8K cinematic quality"}. Preserve 100% of the original identity, pose, objects, framing, composition, lighting direction, and the existing face-obscuring block exactly as in the reference. Recover realistic micro-details throughout the scene: sharper eyes/glasses edges where visible, crisp hand and ring detail, natural skin texture, defined hair curls, clearer trophy surface texture, cleaner glass reflections, and richer shadow detail. Make it photorealistic with studio-grade contrast, cinematic depth, warm museum-display lighting, no pixelation, no blur, no artifacts, and no invented changes to the scene.
+```
+
+**来源：** [@Chesny](https://x.com/chesny/status/2068348596672512048) | 2026-06-20
+
+---
+
+### 🧍 例 2050：动漫角色设定图对比
+
+![动漫角色设定图对比](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="夏目るり"} 的学生会副会长版本创建一张宽幅并排对比图，展示两张动漫角色参考图，并将面部用柔和的矩形模糊块刻意遮挡。
+
+画布：超宽横向画布，约 1200×429 像素，白色背景，由一条细垂直间隙分为两个等大的面板。在左侧面板上方居中添加一个小的绿色标签，文字为“GPT-image2”；在右侧面板上方居中添加一个小的黄色标签，文字为“NanobananaPro”。使用青色细边框。
+
+左侧面板布局：紧凑的角色设计图，包含许多细引导线和小标签。左上方包含 3 个大型三视图：正面、侧面和背面。右上角包含 1 个标有“Eye”的大型眼睛特写和 5 个标有“Mouth”的小型嘴部样本。底部横向排列 6 个半身表情/动作姿势：中性正面姿势、微笑侧面姿势、手部靠近脸部的悲伤姿势、打电话姿势、单手吃三明治姿势，以及头发放下的放松背侧面姿势。保持左侧图纸略显密集且难以阅读，带有较小的日式注释文字和精细线条。
+
+右侧面板布局：更简洁、更醒目的角色设定图。左上方放置一个大型日文标题，使用此确切文本：{argument name="headline text" default="夏目るり 設定画"}。下方添加一行日文小字说明。上方中央展示 3 个带有水平引导线和重复“1:1:1”比例标签的大型头肩三视图：正面、侧面和背面。右上角添加 2 个特征特写：一个带有日文注释的绿色眼睛特写，以及一个带有日文注释的嘴部/唇部特写。右侧面板底部包含 6 个带日文标题的编号半身表情/动作姿势：1 冷静表情，2 微笑但眼神未笑，3 困扰表情，4 查看手机时的锐利表情，5 单手吃三明治，6 头发放下。使用比左侧面板更粗的轮廓线和更清晰的间距。
+
+角色细节：动漫女学生，日系少女审美，柔软的棕色头发扎成高马尾，系着蓝色发圈，微卷的层次感发型，带有松散的侧发；皮肤白皙；在特写中可见的大型浅绿色眼睛；灰色西装制服，白色衬衫，蓝色丝带蝴蝶结，深色滚边，整洁的学生会形象。表情姿势应显得沉稳、严肃、略带严厉或礼貌开朗。将三视图和半身像中的所有主要面部用居中的米色模糊矩形遮挡，同时保留头发、制服、手部、三明治、手机以及眼睛/嘴部特写细节。
+
+视觉风格：干净的数字动漫参考图，柔和的赛璐珞阴影，柔和的色彩，细到中等粗细的黑色轮廓线，专业的角色设定艺术，日式设计图排版，许多细小的注释线，对比图表呈现。避免照片级真实感，避免 3D 渲染，避免出现额外角色，除顶部的两个对比标签外，避免出现其他标志或水印。
+
+[English]
+Goal: Create a wide side-by-side comparison image of two anime character reference sheets for {argument name="character name" default="夏目るり"}, a student council vice president version, with the faces deliberately obscured by soft rectangular blur blocks.
+
+Canvas: Extra-wide horizontal canvas, about 1200×429 px, white background, split into two equal panels by a thin vertical gap. Add a small green label centered above the left panel reading “GPT-image2” and a small yellow label centered above the right panel reading “NanobananaPro”. Use thin teal panel borders.
+
+Left panel layout: A compact character design sheet with many thin guide lines and small labels. Include exactly 3 large turnaround views across the upper left: front view, side view, and back view. To the upper right, include exactly 1 large eye close-up labeled “Eye” and exactly 5 small mouth samples labeled “Mouth”. Along the bottom, include exactly 6 bust expression/action poses in a row: neutral front pose, smiling side pose, sad pose with hand near face, talking on phone pose, eating a sandwich pose with one hand, and relaxed back/side pose with hair down. Keep the left sheet slightly dense and hard to read, with smaller Japanese-style annotation text and fine linework.
+
+Right panel layout: A cleaner, bolder character setting sheet. At the top left, place a large Japanese headline using this exact text: {argument name="headline text" default="夏目るり 設定画"}. Under it add a small note line in Japanese. Across the upper center, show exactly 3 large head/shoulder turnaround views with horizontal guide lines and repeated “1:1:1” proportion labels: front, side, and back. On the upper right, add exactly 2 feature close-ups: one green eye close-up with Japanese annotation and one mouth/lip close-up with Japanese annotation. Along the bottom of the right panel, include exactly 6 numbered bust expression/action poses with Japanese captions: 1 calm expression, 2 smiling but eyes not smiling, 3 troubled expression, 4 sharp expression checking a phone, 5 eating a sandwich with one hand, and 6 letting hair down. Use thicker outlines than the left panel and clearer spacing.
+
+Character details: Anime schoolgirl, teenage Japanese aesthetic, soft brown hair in a high ponytail tied with a blue scrunchie, slightly wavy layered hair with loose side strands; pale skin; large light green eyes where visible in close-ups; gray blazer uniform, white shirt, blue ribbon bow tie, dark trim, neat student council look. Expression poses should feel composed, serious, mildly stern, or politely cheerful. Obscure every main face in the bust and turnaround drawings with a centered beige blur rectangle, while leaving hair, uniform, hands, sandwiches, phones, and close-up eye/mouth studies visible.
+
+Visual style: Clean digital anime reference sheet, soft cel shading, muted colors, thin-to-medium black outlines, professional character setting art, Japanese design-sheet typography, many small annotation lines, comparison-chart presentation. Avoid photorealism, avoid 3D rendering, avoid extra characters, avoid logos or watermarks beyond the two top comparison labels.
+```
+
+**来源：** [@Jump Tnt](https://x.com/Jp_Tnt/status/2068319044076437845) | 2026-06-20
+
+---
+
+### 🧍 例 2058：基于参考图的服装迁移
+
+![基于参考图的服装迁移](../../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%9A%84%E6%9C%8D%E8%A3%85%E8%BF%81%E7%A7%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="リファレンス人物" default="1枚目"}のリファレンス画像の人物に{argument name="衣装" default="2枚目"}の衣装を着せてください。アクセサリーの装着については{argument name="アクセサリー" default="3枚目"}の画像を参考にしてください。
+```
+
+**来源：** [@うこむ](https://x.com/UComN/status/2068252281322275313) | 2026-06-20
+
+---
+

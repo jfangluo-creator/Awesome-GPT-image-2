@@ -4551,3 +4551,263 @@ Visual style: Ultra-realistic, cinematic, high dynamic range, editorial beauty p
 
 ---
 
+### 🎨 例 2018：技术性线条粗细控制
+
+![技术性线条粗细控制](../../images/%E6%8A%80%E6%9C%AF%E6%80%A7%E7%BA%BF%E6%9D%A1%E7%B2%97%E7%BB%86%E6%8E%A7%E5%88%B6.jpg)
+
+**Prompt:**
+
+```text
+キャラクターの輪郭線は {argument name="輪郭の太さ" default="3px"}、内側の細部は {argument name="細部の太さ" default="1px"} で描いてください
+```
+
+**来源：** [@Jump Tnt](https://x.com/Jp_Tnt/status/2068480264422973765) | 2026-06-20
+
+---
+
+### 🎨 例 2028：VHS 怀旧朋克街头风
+
+![VHS 怀旧朋克街头风](../../images/VHS%20%E6%80%80%E6%97%A7%E6%9C%8B%E5%85%8B%E8%A1%97%E5%A4%B4%E9%A3%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 20 出头、充满魅力的年轻女性，{argument name="ethnicity" default="日韩裔"}，身着 {argument name="outfit" default="朋克街头服饰"}，迈着轻盈自然的步伐，身体微微摆动，处于行走瞬间。姿态自然放松。场景：{argument name="location" default="脚下是龟裂盐壳的白色盐滩"}。视觉风格：情绪化模拟胶片静帧，VHS 摄像机画质衰减，磁带噪点，水平扫描线，色彩溢出，色差，低分辨率隔行扫描纹理，跟踪故障，色彩边缘模糊。
+
+[English]
+A captivating young woman in her early 20s, {argument name="ethnicity" default="Japanese or Korean"}, dressed in {argument name="outfit" default="punk streetwear"}, caught mid-step with a light natural stride and subtle body sway. Relaxed candid pose. Setting: {argument name="location" default="white salt flat playa with cracked salt crust underfoot"}. Visual style: moody analog film still, VHS camcorder degradation, tape noise, horizontal scanlines, color bleeding, chromatic aberration, low-resolution interlaced texture, tracking glitches, color fringing.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2068351058116747295) | 2026-06-20
+
+---
+
+### 🎨 例 2049：夜之调香师 Laila
+
+![夜之调香师 Laila](../../images/%E5%A4%9C%E4%B9%8B%E8%B0%83%E9%A6%99%E5%B8%88%20Laila.jpg)
+
+**Prompt:**
+
+```text
+【{argument name="肩書き" default="異世界から来た店主さん"}】
+{argument name="場所" default="マラケシュ"}に迷い込んだ夜の香水師
+
+黒曜の砂海ネヴァルから来た{argument name="種族" default="黒豹族"}の香水師 ライラ
+星砂を採りに出た夜
+足元に開いた転移の裂け目から この街へ落ちました
+
+最初は言葉も通じず
+持っていた小瓶を並べただけの小さな店
+
+けれど今では
+香りを試した旅人が思わず振り返る
+{argument name="場所" default="マラケシュ"}の不思議な名物店です
+
+棚いっぱいの魔法香油
+青い光を閉じ込めた大瓶
+金具のついた古い香水瓶
+小さな袋には眠る前に使う星砂の香り
+
+彼女が手にしている細い短冊は
+香りを試すための試香札
+
+ひと振りすると
+紙の上に小さな星明かりが残ります
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2068319917196382475) | 2026-06-20
+
+---
+
+### 🎨 例 2051：海滨素描风格动漫插画
+
+![海滨素描风格动漫插画](../../images/%E6%B5%B7%E6%BB%A8%E7%B4%A0%E6%8F%8F%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="style" default="轻松的素描风格动漫美学"}, 一个 {argument name="subject" default="在海边遛着毛茸茸博美犬的女性"}, 以柔和色彩的海滨小屋和广阔蓝天为背景，粗犷且充满动感的自由形态，具有不同线条粗细的手绘风格线条艺术，轻盈清新的氛围，{argument name="palette" default="纯白、水蓝、糖果粉和柠檬奶油色"} 的配色方案
+
+[English]
+{argument name="style" default="Lighthearted sketch-style anime aesthetic"}, a {argument name="subject" default="woman walking along the seaside with a fluffy Pomeranian"}, seaside background with pastel-colored beach houses and a vast blue sky, rough and dynamic freeform shapes, hand-drawn style line art with varying line weights, light and refreshing atmosphere, {argument name="palette" default="pure white, aqua blue, candy pink, and lemon cream"} for coloring
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2068307623238336659) | 2026-06-20
+
+---
+
+### 🎨 例 2054：写实风格城市智能手机快照
+
+![写实风格城市智能手机快照](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%9F%8E%E5%B8%82%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+美丽的年轻 {argument name="subject" default="日本女孩"}，皮肤白皙，妆容自然柔和，深色长发扎成低马尾，戴着黑色棒球帽，身穿 {argument name="outfit" default="超大款白色印花 T 恤和黑色宽松运动长裤"}。在阳光明媚的午后，悠闲地走在 {argument name="setting" default="安静的住宅巷弄"} 中，一只手自然地抬起靠近脸部，呈现出抓拍的姿态。温暖的阳光，人行道和墙壁上真实的阴影，背景是带有电线杆、小房子和绿植的普通街区。使用智能手机摄像头拍摄，休闲日常快照，手持 iPhone 照片，构图略显随意，色彩自然，真实的移动端 HDR 处理，写实的皮肤纹理，无专业模特姿势，无影棚灯光，无电影级调色，社交媒体生活方式美学，自发的街头瞬间，照片级真实感，高质量手机摄影图像，自然视角，日常生活摄影。
+
+[English]
+Beautiful young {argument name="subject" default="Japanese girl"} with fair skin, soft natural makeup, and long dark hair tied in a low ponytail under a black baseball cap, wearing an {argument name="outfit" default="oversized white graphic t-shirt and loose black full-length athletic pants"}. Walking casually through a {argument name="setting" default="quiet residential alley"} on a sunny afternoon, one hand raised near her face in a natural candid gesture. Warm sunlight, realistic shadows on the pavement and walls, ordinary neighborhood background with utility poles, small houses, and greenery. Captured with a smartphone camera, casual everyday snapshot, handheld iPhone photo, slightly imperfect framing, natural colors, authentic mobile HDR processing, realistic skin texture, no professional modeling pose, no studio lighting, no cinematic grading, social media lifestyle aesthetic, spontaneous street moment, photorealistic, high-quality phone camera image, natural perspective, everyday life photography.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2068286901212090717) | 2026-06-20
+
+---
+
+### 🎨 例 2056：提示词：
+
+使用上传的人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征和整体辨识度
+
+![提示词：
+
+使用上传的人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征和整体辨识度](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%9A%84%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E5%8F%91%E5%9E%8B%E7%89%B9%E5%BE%81%E5%92%8C%E6%95%B4%E4%BD%93%E8%BE%A8%E8%AF%86%E5%BA%A6.jpg)
+
+**Prompt:**
+
+```text
+使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征和整体辨识度，不要生成陌生人脸，不要过度美颜，不要塑料感。
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2068278459315658818) | 2026-06-20
+
+---
+
+### 🎨 例 2062：热气球涂色页
+
+![热气球涂色页](../../images/%E7%83%AD%E6%B0%94%E7%90%83%E6%B6%82%E8%89%B2%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在宽幅横向白色画布上创作一张干净的黑白涂色书线条画。画面中心为一个漂浮在天空中的奇趣热气球，采用平滑的手绘墨线勾勒，除少量阴影排线外，不含任何颜色或渲染。气球主体圆润硕大，带有垂直缝合线，下半部分缠绕着弧形彩旗装饰；彩旗包含 7 面三角形旗帜，采用纯色与点状填充交替纹理。气球下方连接着一个编织篮筐，由两根绳索悬挂，篮筐内坐着一名戴着帽檐帽和围巾、正举手友好挥舞的微笑儿童。气球周围环绕着 4 朵蓬松的卡通云：左上方一朵小云，左下方一朵大云，中右侧一朵中云，右下方一朵大云。添加 3 个简单的飞鸟剪影，形状如同松散的弧形“V”字：气球左侧两只，右侧一只。保持构图通透，留有大量空白，比例圆润可爱，线条适合儿童，笔触粗细均匀，内部细节极简，无背景地平线，无文字，无颜色，无水印。主体应呈现为 {argument name="theme" default="一个快乐的孩子乘坐热气球"} 的简单可打印涂色页风格。
+
+[English]
+Create a clean black-and-white coloring-book line drawing on a wide horizontal white canvas. Center the scene on a whimsical hot air balloon floating in the sky, drawn with smooth hand-inked outlines and no color or shading except sparse hatch marks. The balloon envelope is large and rounded with vertical stitched panel lines and a curved bunting garland wrapped across its lower half; the garland has exactly 7 triangular pennant flags with alternating plain and dotted fill textures. Below the balloon, attach a small woven basket with two suspension ropes, and place one smiling child inside, wearing a brimmed hat and scarf, with one arm raised in a friendly wave. Surround the balloon with exactly 4 puffy cartoon clouds: one small cloud in the upper left, one large cloud in the lower left, one medium cloud at mid-right, and one large cloud in the lower right. Add exactly 3 simple flying bird silhouettes shaped like loose curved V marks: two small birds to the left of the balloon and one to the right. Keep the composition airy with lots of blank white space, rounded cute proportions, child-friendly line art, consistent medium-weight black strokes, minimal interior detail, no background horizon, no text, no color, and no watermark. The main subject should feel like {argument name="theme" default="a cheerful child riding a hot air balloon"} in a simple printable coloring page style.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2068220620928897235) | 2026-06-20
+
+---
+
+### 🎨 例 2066：巴库火焰塔航拍场景
+
+![巴库火焰塔航拍场景](../../images/%E5%B7%B4%E5%BA%93%E7%81%AB%E7%84%B0%E5%A1%94%E8%88%AA%E6%8B%8D%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="フレイム・タワー"}を見下ろす旅
+
+{argument name="都市" default="アゼルバイジャンの首都バクー"}
+海風の上を {argument name="群れ" default="群れ"}がゆっくり横切っていきます
+
+群れの中にまぎれた一羽の{argument name="隠れキャラ" default="白いガチョウ"}
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2068213617296855273) | 2026-06-20
+
+---
+
+### 🎨 例 2071：复古落日背景下的写实风格南亚女性
+
+![复古落日背景下的写实风格南亚女性](../../images/%E5%A4%8D%E5%8F%A4%E8%90%BD%E6%97%A5%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的 {argument name="subject" default="梳着利落深色后梳发型的南亚女性"}，她佩戴着 {argument name="outfit" default="大圆框黄色墨镜、亮黄色罗纹高领毛衣、饰有青色与金色刺绣的华丽民族风外套，以及多层厚实的金色圆珠项链"}。佩戴大型圆形金色流苏耳环。她微微闭眼，凝视上方。在她身后，是一个 {argument name="background" default="以鲜艳橙色平面为背景、居中放置的巨大完美金黄色圆圈"}，呈现出极简且醒目的复古太阳图案。
+
+[English]
+Create a photorealistic {argument name="subject" default="South Asian woman with sleek dark hair pulled back"}, wearing {argument name="outfit" default="large round yellow-tinted sunglasses, a bright yellow ribbed turtleneck, an ornate teal and qold em broidered ethnic jacket, and layered chunky gold ball neck laces"}. Large circular gold tassel earrings. She gazes upward with eyes slightly closed. Behind her, a {argument name="background" default="large perfect golden yellow circle centered against a flat vivid orange back ground"}, minimal and bold like a retro sun motif.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2068189965968945370) | 2026-06-20
+
+---
+
+### 🎨 例 2074：柔和水彩童书插画
+
+![柔和水彩童书插画](../../images/%E6%9F%94%E5%92%8C%E6%B0%B4%E5%BD%A9%E7%AB%A5%E4%B9%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+柔和的童书插画，画面主体为 {argument name="subject" default="可爱的女孩"}，场景位于 {argument name="location" default="花店"}，简单的圆脸，大眼睛，温柔的微笑，素描线条搭配水彩填充，{argument name="color palette" default="柔和色调（奶油色、桃色、浅粉色、薄荷绿）"}，极简背景留白，木桌上摆放着小花瓶，氛围宁静舒适，带有轻微的纸张纹理
+
+[English]
+soft children’s book illustration of a {argument name="subject" default="cute girl"} in a {argument name="location" default="flower shop"}, simple rounded face, large eyes, gentle smile, sketchy pencil lines with watercolor fills, {argument name="color palette" default="pastel palette (cream, peach, light pink, mint)"}, minimal background with white space, small vases of flowers on wooden table, calm cozy mood, light grain paper texture
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2068183728887885885) | 2026-06-20
+
+---
+
+### 🎨 例 2075：白板技能构建工作流
+
+![白板技能构建工作流](../../images/%E7%99%BD%E6%9D%BF%E6%8A%80%E8%83%BD%E6%9E%84%E5%BB%BA%E5%B7%A5%E4%BD%9C%E6%B5%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张简洁的手绘风格白板说明图，展示如何将混乱的工具堆叠转化为可复用的 GPT 图像技能。使用趣味十足的黑色记号笔素描风格，辅以局部的红橙色点缀和少量黄色高光。
+
+画布：宽屏 16:9 横向画布，白色背景，留白充裕，构图居中。手绘黑色轮廓，笔触略显不完美，阴影极少，非写实风格。
+
+标题：在顶部中央，书写醒目的手写标题 {argument name="headline text" default="挖场景，造 Skills"}。使用粗体黑色笔刷字体，下方用一条红橙色曲线下划线，并在标题两侧各添加两个红橙色强调符号。
+
+布局：将故事安排为从左到右的工作流，通过粗黑色箭头连接三个主要场景。左侧场景 1 展示混乱和过多的工具；中间场景 2 展示分析工作场景；右侧场景 3 展示简化的技能构建流水线。
+
+场景 1：画一个抓着头的短发年轻人，神情困惑，身边有一个问号，头顶上方有涂鸦式的烦恼云。他们站在一个标有 {argument name="tool box label" default="更多工具"} 的大开口盒子后面。盒子里溢出了 18 只红橙色的小卡通小龙虾，作为工具过多的隐喻：盒内或边缘可见 15 只，盒子左下角外侧有 3 只。每只小龙虾都有简单的黑色眼睛、钳子和分节的身体。在盒子周围添加少量运动线条。
+
+场景 2：画同一个年轻人俯身在桌前，拿着放大镜研究一张工作流地图。纸上包含一张手绘流程图，有 10 个圆角矩形/节点、细黑色连接箭头，以及几个标记重要点的红色虚线框和红色箭头。在纸的左下角贴一张小便利贴。在桌子前方，放置一张矩形标签卡，上面写着 {argument name="scenario label" default="工作场景"}。
+
+场景 3：画同一个年轻人微笑着，拿着或靠在流水线的第一张卡片上。流水线包含 4 张水平排列的可见卡片/图标：卡片 1 是放大镜图标，标签为 {argument name="step one label" default="挖场景"}；卡片 2 是工具箱/扳手图标，标签为 {argument name="step two label" default="造 Skill"}；卡片 3 是向上柱状图和红色上升箭头图标，标签为 {argument name="step three label" default="持续优化"}；卡片 4 是一个小圆角方形成功卡片，带有一个红橙色对勾，周围有黄色放射状短线和闪光符号。用粗黑色箭头连接这些卡片。
+
+视觉风格：简洁的黑白白板插画，类似 Notion 的涂鸦比例，角色圆润，记号笔轮廓粗犷，在小龙虾、箭头、工具、下划线和图表箭头处使用稀疏的红橙色作为强调色。保持背景空旷、整洁。
+
+约束：保留从左到右的叙事逻辑，严格遵守 3 个主要场景、18 只小龙虾、10 个工作流节点和 4 张流水线卡片的数量要求。不要添加额外的面板、Logo、水印或密集的解释性文字。
+
+[English]
+Goal: Create a clean whiteboard hand-drawn explainer illustration about turning messy tool overload into reusable GPT image skills. Use a playful black marker sketch style with selective red-orange accents and a few yellow highlights.
+
+Canvas: Wide 16:9 horizontal canvas, white background, generous margins, centered composition. Hand-drawn black outlines, slightly imperfect marker strokes, minimal shading, no photorealism.
+
+Title: At the top center, write the large handwritten headline {argument name="headline text" default="挖场景，造 Skills"}. Use bold black brush lettering, underline it with one red-orange curved stroke, and add two small red-orange emphasis marks on each side of the title.
+
+Layout: Arrange the story as a left-to-right workflow with three main illustrated scenes connected by bold black arrows. Scene 1 on the left shows confusion and too many tools; scene 2 in the center shows analyzing the work scenario; scene 3 on the right shows a simplified skill-building pipeline.
+
+Scene 1: Draw a confused young person with short black hair scratching their head, a question mark beside them, and a scribbly frustration cloud above. They stand behind a large open box labeled {argument name="tool box label" default="更多工具"}. The box is overflowing with exactly 18 small red-orange cartoon crawfish/lobsters as a metaphor for too many tools: 15 visible inside or on the rim of the box and 3 outside near the bottom/left edges. Each crawfish has simple black eyes, claws, and segmented bodies. Add small motion lines around the box.
+
+Scene 2: Draw the same young person leaning over a table with a magnifying glass, studying a paper workflow map. The paper contains a hand-drawn process diagram with exactly 10 small rounded rectangles/nodes, thin black connector arrows, and a few red dashed boxes and red arrows marking important points. Add a small sticky note on the lower left of the paper. In front of the table, place a rectangular label card reading {argument name="scenario label" default="工作场景"}.
+
+Scene 3: Draw the same young person smiling and holding or leaning on the first card of a pipeline. The pipeline contains exactly 4 visible cards/icons arranged horizontally: card 1 with a magnifying glass icon and label {argument name="step one label" default="挖场景"}; card 2 with a toolbox/wrench icon and label {argument name="step two label" default="造 Skill"}; card 3 with an upward bar chart and red rising arrow icon labeled {argument name="step three label" default="持续优化"}; card 4 is a small rounded square success card with a red-orange checkmark, surrounded by short yellow radiating lines and sparkle marks. Connect the cards with bold black arrows.
+
+Visual style: Simple black-and-white whiteboard illustration, friendly Notion-like doodle proportions, rounded characters, thick marker outlines, sparse red-orange accent color on crawfish, arrows, tools, underlines, and chart arrow. Keep the background empty and uncluttered.
+
+Constraints: Preserve the left-to-right narrative and the exact counts of the three main scenes, 18 crawfish/lobsters, 10 workflow nodes, and 4 pipeline cards. Do not add extra panels, logos, watermarks, or dense explanatory text.
+```
+
+**来源：** [@Geek Lite](https://x.com/QingQ77/status/2068168209124204921) | 2026-06-20
+
+---
+
+### 🎨 例 2083：猫耳仿生人数字插画
+
+![猫耳仿生人数字插画](../../images/%E7%8C%AB%E8%80%B3%E4%BB%BF%E7%94%9F%E4%BA%BA%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体" default="猫耳ガイノイド"}を見てみたいです。{argument name="スタイル" default="にじジャーニー風"}のパキッとしたデジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2068137253495517437) | 2026-06-20
+
+---
+

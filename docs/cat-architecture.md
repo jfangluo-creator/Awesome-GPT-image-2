@@ -1024,3 +1024,25 @@ Flat editorial illustration of {argument name="subject" default="the person from
 
 ---
 
+### 🏛️ 例 2020：温馨公寓生活快照
+
+![温馨公寓生活快照](../../images/%E6%B8%A9%E9%A6%A8%E5%85%AC%E5%AF%93%E7%94%9F%E6%B4%BB%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 20 多岁的日本年轻女性，留着深棕色长直发，化着柔和的自然妆容，身穿 {argument name="clothing" default="宽松针织衫和休闲裤"}，放松地坐在 {argument name="location" default="她温馨的公寓卧室"} 的床边。面带自然的微笑，双手放在膝盖上，身边放着一个托特包。房间温馨且充满生活气息：背景中摆满了书架、艺术画框、带有笔记本电脑和文具的书桌、室内植物以及各种个人装饰。拍摄效果呈现为 {argument name="photography style" default="自然窗光下的随手 iPhone 快照"}。轻微的镜头柔焦，真实的手机 HDR 处理，无电影级调色，随手拍的手机摄影美感，真实的皮肤纹理，自然的比例，全身构图，背景整洁，生活方式摄影，4K。
+负面提示词：
+低分辨率，模糊，浓妆，影棚灯光，电影级调色，不真实的皮肤，动漫，卡通，CGI，水印，文字，多余的手指，解剖结构扭曲，过度处理的图像。
+
+[English]
+A young Japanese woman in her mid-20s, long straight dark brown hair, soft natural makeup, wearing a {argument name="clothing" default="baggy knit sweater and loose trousers"}, sitting relaxed on the edge of a tidy bed in {argument name="location" default="her cozy apartment bedroom"}. Natural smile, hands resting in her lap, a tote bag beside her. The room is warm and lived-in: bookshelves, framed art prints, a study desk with a laptop, stationery, indoor plants and personal touches filling the background. Shot to look like a {argument name="photography style" default="spontaneous iPhone snapshot in natural window daylight"}. Slight lens softness, authentic mobile HDR processing, no cinematic color grading, candid phone photo aesthetic, realistic skin texture, natural proportions, full-body composition, clean background, lifestyle photography, 4K.
+Negative prompt:
+low resolution, blurry, heavy makeup, studio lighting, cinematic grading, unrealistic skin, anime, cartoon, CGI, watermark, text, extra fingers, distorted anatomy, overprocessed image.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2068425287818461247) | 2026-06-20
+
+---
+

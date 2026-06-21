@@ -2836,3 +2836,161 @@ Create a photorealistic collectible toy scene on a soccer stadium field at sunse
 
 ---
 
+### 🧸 例 2036：创作者桌上的定制手办
+
+![创作者桌上的定制手办](../../images/%E5%88%9B%E4%BD%9C%E8%80%85%E6%A1%8C%E4%B8%8A%E7%9A%84%E5%AE%9A%E5%88%B6%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个逼真的方形商业产品摄影场景，展示一个 1/7 比例的 {argument name="character name" default="身穿黑色刺绣传统服饰的年轻女性"} 定制手办，陈列在明亮的收藏家工作室的白色电脑桌上。真人创作者站在桌子右侧，造型与手办完全一致：留着深棕色长发并编成粗侧辫，身穿黑色及踝长裙，配有透视袖子、金色刺绣饰边、黑色打底裤、黑色鞋子和垂坠耳环；她的面部经过柔和的隐私模糊处理。她一只手拿着细画笔，另一只手拿着小工具或触控笔，姿势仿佛正在修补手办。手办居中放置在圆形透明亚克力底座上，穿着同样的服装，留着同样的发型，面部经过柔和模糊处理，具有逼真的 PVC 收藏品质感、细腻的织物纹理和精致的金色饰边。桌子左侧是一个零售手办包装盒，正面带有大开窗，印有相同角色的全身艺术图，设计风格如同商业玩具包装，带有小型标志块和产品名称 {argument name="box product name" default="BASHEEQA DOLL"}。手办后方是一台桌面显示器，显示着数字角色艺术软件，上面有该女性的全身参考图。除包装盒、显示器、键盘和手办外，请包含 2 个桌面艺术品/办公用品：一个装满铅笔和画笔的网格笔筒，以及一个靠在显示器旁的带框插画。房间墙壁为白色，配有白色浮动搁板，整体呈现简洁的马卡龙色系收藏家美学。请清点并包含 18 个可见的搁板收藏品/艺术品：左上层搁板上有 2 个穿着粉色裙子的时尚人偶和 6 个小型 Q 版/动漫手办；右上墙面/搁板区域有 2 个带框动漫女孩画作和 3 个穿着马卡龙色裙子的小人偶；中右层搁板上有 2 个小型马卡龙色人偶；右下层搁板上有 2 个大头小人偶；最右下角有 1 幅带框公主风插画。使用柔和的日光、浅景深、逼真的相机视角、清晰的产品细节，背景玩具带有微妙的虚化效果，除玩具包装盒上的品牌名称外，不添加任何额外文字。
+
+[English]
+Create a realistic square commercial product-photo scene showing a custom 1/7 scale figurine of {argument name="character name" default="a young woman in a black embroidered traditional dress"} displayed on a white computer desk in a bright collector's studio. The life-size real person stands to the right of the desk, matching the figurine exactly: long dark brown hair in a thick side braid, black ankle-length dress with sheer sleeves, gold embroidered trim, black leggings, black shoes, and dangling earrings; her face is softly privacy-blurred. She holds a thin paintbrush in one hand and a small tool or stylus in the other, posed as if touching up the figurine. The figurine stands centered on a round transparent acrylic base, wearing the same outfit and hairstyle, with a softly blurred face, realistic PVC collectible finish, fine fabric texture, and detailed gold trim. On the desk to the left is a retail figure box with a large front window and printed full-body artwork of the same character, styled like a commercial toy package with small logo blocks and the product name {argument name="box product name" default="BASHEEQA DOLL"}. Behind the figurine is a desktop monitor showing digital character-art software with a full-body reference of the same woman. Include exactly 2 desk art/office objects besides the box, monitor, keyboard, and figurine: a mesh pencil cup filled with pencils and brushes, and a framed illustration leaning near the monitor. The room has white walls, white floating shelves, and a clean pastel collector aesthetic. Count and include exactly 18 visible shelf collectibles/art pieces: on the upper left shelf, 2 tall fashion dolls in pink dresses and 6 small chibi/anime figures; on the upper right wall/shelf area, 2 framed anime-girl prints and 3 small dolls in pastel dresses; on the middle right shelf, 2 small pastel dolls; on the lower right shelf, 2 small dolls with oversized heads; on the bottom right, 1 framed princess-style illustration. Use soft daylight, shallow depth of field, realistic camera perspective, crisp product details, subtle bokeh on background toys, and no extra text beyond the toy-box branding.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2068337764463149345) | 2026-06-20
+
+---
+
+### 🧸 例 2044：香蕉机器人玩具产品摄影
+
+![香蕉机器人玩具产品摄影](../../images/%E9%A6%99%E8%95%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%A9%E5%85%B7%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的电影级产品摄影图，拍摄一个站在整洁白色桌面上的微型香蕉机器人玩具，场景位于舒适的现代室内。主体是一个弯曲的黄色香蕉机器人，大小如同小型手办，位于画面中心偏右，呈四分之三侧面视角，面向左侧。机器人具有分段式机械面板接缝、小型圆形铰链关节、黑色螺丝、两只短小的关节腿以及黑黄相间的脚，脸上带有小巧的微笑嘴部和两只发光的蓝色 LED 眼睛。顶部添加一个短小的深色香蕉柄，旁边长出一片小绿叶。在下侧印有标签，内容为 {argument name="robot label" default="BANA-BOT 12"}，并附带一个可爱的小香蕉标志。桌面应为明亮的哑光白色，向右投下柔和的阴影。背景：柔焦处理的大窗户，透出温暖的日光，摆放着阔叶热带盆栽，最右侧有一个书架，左侧有一把中性色椅子，整体采用浅景深和奶油般柔和的焦外成像效果。光线应为来自左侧的温暖自然晨光，具备逼真的反射效果，机器人细节丰富，采用 16:9 横向构图，呈现高端微型机器人广告质感。避免出现多余角色、杂物、可见的手部、水印，或除机器人标签外可辨认的文字。
+
+[English]
+Create a photorealistic cinematic product shot of a tiny banana-shaped robot toy standing on a clean white tabletop in a cozy modern indoor room. The subject is a curved yellow banana robot, about the size of a small figurine, positioned slightly right of center and facing left in a three-quarter side view. It has segmented mechanical panel seams, small circular hinge joints, black screws, two short articulated legs with black-and-yellow feet, a small smiling mouth, and two glowing blue LED eyes. Add a short dark banana stem at the top with one small green leaf sprouting beside it. Include printed markings on the lower side reading {argument name="robot label" default="BANA-BOT 12"} plus a small cute banana logo. The tabletop should be bright matte white with a soft shadow cast to the right. Background: softly blurred large windows with warm daylight, potted tropical plants with broad green leaves, a bookshelf on the far right, and a neutral chair on the left, all rendered with shallow depth of field and creamy bokeh. Lighting should be warm natural morning light from the left, realistic reflections, high detail on the robot, 16:9 horizontal composition, premium miniature robotics advertisement feel. Avoid extra characters, clutter, visible hands, watermark, or readable text other than the robot label.
+```
+
+**来源：** [@opppp](https://x.com/Peeeeiooo/status/2068327636426969375) | 2026-06-20
+
+---
+
+### 🧸 例 2045：桌面上可爱的香蕉机器人
+
+![桌面上可爱的香蕉机器人](../../images/%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%8F%AF%E7%88%B1%E7%9A%84%E9%A6%99%E8%95%89%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的电影感产品风格图像，展示一个可爱的未来感香蕉机器人玩具，它正站在温馨现代房间里整洁的白色桌面上。主体是一个小巧的黄色香蕉形机器人，拥有弯曲的香蕉身体、分段式的机械面板线条、微小的螺丝、两只发光的蓝色圆形眼睛、一张小小的笑脸、茎尖处有一个黑色开口、顶部长出一片小绿叶，侧面印有文字 {argument name="robot label" default="BANA-BOT v2"} 以及一个小小的香蕉标志。给它设计四条完全可活动的机械腿，配有黑黄相间的关节和圆形的黄色脚掌，呈现出在桌面上快乐行走的姿态。场景背景中包含三株清晰可见的室内植物：左侧窗边有一株大型龟背竹类植物，中心窗户附近有一株小型盆栽，右侧有一株较高的叶片植物；此外，右侧远端包含一个模糊的书架，主体后方是一面巨大的落地窗墙。采用温暖的黄金时刻自然光，浅景深效果，桌面上投射出向右的真实阴影，背景呈现柔和的虚化效果，采用高端微型机器人设计，材质既俏皮又真实，构图为 16:9 横向比例。将机器人置于画面偏左的中心位置，背景保持柔和虚化，除机器人标签外，不要添加任何额外文字。
+
+[English]
+Create a photorealistic cinematic product-style image of a cute futuristic banana robot toy standing on a clean white tabletop in a cozy modern room. The main subject is one small yellow banana-shaped robot with a curved banana body, segmented mechanical panel lines, tiny screws, two glowing blue circular eyes, a small smiling mouth, a black opening at the stem tip, a small green leaf sprouting near the top, and printed side text reading {argument name="robot label" default="BANA-BOT v2"} with a tiny banana logo. Give it exactly four articulated mechanical legs with black-and-yellow joints and round yellow feet, posed as if happily walking across the table. The scene contains exactly three visible houseplants in the background: one large monstera-like plant near the window on the left, one small potted plant near the center window, and one taller leafy plant on the right; also include one blurred bookshelf on the far right and one large window wall behind the subject. Use warm golden-hour natural light, shallow depth of field, realistic shadows cast to the right on the tabletop, soft bokeh background, high-end miniature robotics design, playful but believable materials, and a 16:9 horizontal composition. Keep the robot centered slightly left of frame with the background softly out of focus and no extra text beyond the robot label.
+```
+
+**来源：** [@c2p](https://x.com/change2pro/status/2068327552633163984) | 2026-06-20
+
+---
+
+### 🧸 例 2055：手工剪纸分层插画风格
+
+![手工剪纸分层插画风格](../../images/%E6%89%8B%E5%B7%A5%E5%89%AA%E7%BA%B8%E5%88%86%E5%B1%82%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为 {argument name="illustration style" default="柔和的手工剪纸分层插画风格"}，灵感源自纸艺立体模型美学。使用平滑的圆润形状，{argument name="character style" default="简约可爱的角色比例"}
+
+[English]
+Convert this image into a {argument name="illustration style" default="soft, handcrafted paper-cut layered illustration style"}, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, {argument name="character style" default="simplified cute character proportions"}
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2068285446753259995) | 2026-06-20
+
+---
+
+### 🧸 例 2070：剪纸分层插画风格
+
+![剪纸分层插画风格](../../images/%E5%89%AA%E7%BA%B8%E5%88%86%E5%B1%82%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为 {argument name="art style" default="柔和的手工剪纸分层插画风格"}，灵感源自纸艺立体模型美学。使用圆润平滑的形状、简化可爱的角色比例以及极简的面部细节（{argument name="facial details" default="豆豆眼、腮红"}），营造出温暖迷人的视觉效果。应用堆叠的纸张图层，展现明显的深度感、图层间微妙的阴影以及类似激光切割卡纸的利落边缘。
+
+[English]
+Convert this image into a {argument name="art style" default="soft, handcrafted paper-cut layered illustration style"}, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details ({argument name="facial details" default="dot eyes, blush cheeks"}) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2068192617242960081) | 2026-06-20
+
+---
+
+### 🧸 例 2082：优雅毕业时尚肖像
+
+![优雅毕业时尚肖像](../../images/%E4%BC%98%E9%9B%85%E6%AF%95%E4%B8%9A%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="美丽的年轻女性，留着波浪长卷发，发色为赤褐色"}，精致的柔光妆容，根根分明的睫毛，粉色亮面唇妆，灿烂的笑容，头戴带有金色流苏的黑色学士帽。优雅的 {argument name="outfit" default="黑色抹胸荷叶边上衣，饰有精致的白色 3D 玫瑰藤蔓贴花，配有黑色颈圈细节，下搭飘逸的白色百褶长裙"}。站在 {argument name="location" default="奢华毕业庆典户外，背景是一面由白色、黄色和粉色玫瑰组成的绝美花墙"}，背景中带有模糊的毕业标志。明亮的自然日光，柔和的阳光，浅景深，梦幻虚化，照片级逼真的时尚肖像，女性优雅气质，高端毕业摄影，超细腻皮肤纹理，电影级调色，奢华编辑摄影，焦点清晰，85mm 镜头，f/1.8，杰作，8K UHD，竖构图。
+
+[English]
+{argument name="subject" default="Beautiful young woman with long wavy auburn-brown hair"}, soft glam makeup, defined lashes, pink glossy lips, radiant smile, wearing a black graduation cap with a gold tassel. Elegant {argument name="outfit" default="black strapless peplum top adorned with intricate white 3D rose vine appliqués and a black choker neckline detail, paired with a flowing white pleated maxi skirt"}. Standing outdoors at a {argument name="location" default="luxury graduation celebration in front of a stunning wall of white, yellow, and pink roses"} with a blurred graduation sign in the background. Bright natural daylight, soft sunlight, shallow depth of field, dreamy bokeh, photorealistic fashion portrait, feminine elegance, high-end graduation photoshoot, ultra-detailed skin texture, cinematic color grading, luxury editorial photography, sharp focus, 85mm lens, f/1.8, masterpiece, 8K UHD, vertical composition.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2068152832960962909) | 2026-06-20
+
+---
+
+### 🧸 例 2084：哥特奇幻风格微缩模型屋
+
+![哥特奇幻风格微缩模型屋](../../images/%E5%93%A5%E7%89%B9%E5%A5%87%E5%B9%BB%E9%A3%8E%E6%A0%BC%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E5%B1%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个高度精细的奇幻微缩模型屋，采用手工玩偶屋风格，呈现出高端收藏品展示的摄影效果，主题为 {argument name="theme" default="魔法哥特奇幻工作室"}。
+
+画布：方形 1:1 图像，四分之三正面视角，浅景深，逼真的微距摄影灯光，左上方柔和的自然光，前景细节清晰，背景略微虚化。微缩模型放置在干净的白色桌面上，带有柔和的阴影。
+
+布局：构建一个由两面墙组成的盒状微缩房间，正面开放。左侧墙壁是一个爬满常春藤的商店角落，配有货架、彩色玻璃、吊灯、相框和复古街机。后墙是一幅大型奇幻城堡壁画，展示了雾气缭绕的中世纪城市和塔楼。中心区域堆满了发光水晶、微型家具、书籍、瓶子、宝藏、灯笼、绿植，前景处有一个带石边的小水池。
+
+主要人偶：包含 6 个动漫风格的可收藏玩偶：1 个金色天使战士，悬浮或站立在后方中心，拥有光芒四射的羽翼、金色盔甲、光环状头冠和长矛；1 个银发哥特恶魔少女，坐在左前方中心，带有黑色蝙蝠翅膀和黑色荷叶边裙子；1 个红白盔甲巫女战士，站在前方中心，带有机械细节和双角状配饰；1 个优雅的长浅发女性，坐在右后方的高背红椅上，主要以背影呈现，身穿黑色哥特舞会礼服；1 个浅蓝发女仆，站在右前方中心，身穿黑白女仆装；以及 1 个微小的独眼怪物少女，位于右前边缘，拿着或站在一把黑伞旁，身穿带有巨大紫色独眼的黑色荷叶边裙子。
+
+其他可见角色与装饰：包含 1 个悬挂在左上墙壁的小白鬼装饰，3 个位于左侧货架区域的像素风游戏角色装饰，以及大量非人形的微型装饰物，如骷髅、南瓜、药水瓶、微型生物、水晶、宝箱和发光灯笼，不再添加额外的人形玩偶。
+
+环境细节：使用密集的微型杂物：装满微型书籍和饰品的木架、爬满墙壁的藤蔓、左侧高大的拱形彩色玻璃窗、温暖的琥珀色鸟笼灯、蓝色和紫色的魔法水晶簇、放有零食和杯子的小木桌、凳子、板条箱、木桶、苔藓、花朵、岩石以及小池塘中反射的水面。营造出一种迷人、舒适且极繁主义的氛围。
+
+视觉风格：超精细的混合媒介微缩工艺，逼真的树脂人偶，光泽感水晶，温暖的烛光与冷色调魔法蓝光交织，电影级景深，丰富的金色、棕色、绿色、黑色蕾丝和宝石色调。使用 {argument name="lighting style" default="温暖的灯笼光与冷色调魔法水晶高光"}。人偶应具有精致的动漫面孔、高质量的涂装细节和玩偶般的比例。
+
+文字：在右下角添加一个细微的白色签名水印，内容为 {argument name="signature text" default="Triglav@rasenkaidano"}。
+
+约束：严格保持 6 个动漫玩偶、1 个悬挂鬼魂和 3 个像素装饰的数量。不要添加现代全尺寸人物、车辆或超大型角色。避免平面插画感；它应该看起来像是一个用微距镜头拍摄的真实手工微缩模型。
+
+[English]
+Goal: Create a highly detailed fantasy miniature diorama room in a handcrafted dollhouse style, photographed like a premium collectible display, themed around {argument name="theme" default="magical gothic fantasy atelier"}.
+
+Canvas: Square 1:1 image, three-quarter front view, shallow depth of field, realistic macro photography lighting, soft daylight from the upper left, crisp foreground details and slightly blurred deep background. The diorama sits on a clean white tabletop with soft shadows.
+
+Layout: Build a box-shaped miniature room with two walls and an open front. The left wall is an ivy-covered shop corner with shelves, stained glass, hanging lamps, framed pictures, and a retro arcade cabinet. The back wall is a large fantasy castle mural showing a misty medieval city and towers. The center is crowded with glowing crystals, tiny furniture, books, bottles, treasure, lanterns, greenery, and a small stone-edged water pool in the foreground.
+
+Main figures: Include exactly 6 anime-style collectible doll figures: 1 golden angel warrior floating or standing elevated at the rear center with radiant feather wings, gold armor, a halo-like crown, and a long spear; 1 small silver-haired gothic demon girl seated front-left-center with black bat wings and a black frilly dress; 1 red-and-white armored shrine-maiden warrior standing center-front with mechanical details and twin horn-like accessories; 1 elegant long pale-haired woman seated on a high-backed red chair at the right rear, shown mostly from behind, wearing a black gothic ball gown; 1 small pale blue-haired maid standing front-right-center in a black-and-white maid outfit; and 1 tiny one-eyed monster-girl near the front-right edge holding or standing beside a black umbrella, wearing a black frilly dress with a single large purple eye.
+
+Additional visible characters and ornaments: Include exactly 1 small white hanging ghost decoration on the upper left wall, exactly 3 pixel-art game character decorations on the left shelf area, and numerous tiny non-human decorative objects such as skulls, pumpkins, potion bottles, miniature creatures, crystals, treasure chests, and glowing lanterns without adding extra humanoid dolls.
+
+Environment details: Use dense miniature clutter: wooden shelves packed with tiny books and trinkets, vines climbing the walls, a tall arched stained-glass window on the left, warm amber cage lamps, blue and purple magical crystal clusters, a little wooden table with snacks and cups, stools, crates, barrels, moss, flowers, rocks, and reflective water in the small pond. Make the scene feel enchanted, cozy, and maximalist.
+
+Visual style: Hyper-detailed mixed-media miniature craft, realistic resin figures, glossy crystals, warm candlelight mixed with cool magical blue glows, cinematic depth, rich golds, browns, greens, black lace, and jewel tones. Use {argument name="lighting style" default="warm lantern glow with cool magical crystal highlights"}. The figures should have delicate anime faces, high-quality painted details, and doll-like proportions.
+
+Text: Add a small subtle white signature watermark in the bottom-right corner reading {argument name="signature text" default="Triglav@rasenkaidano"}.
+
+Constraints: Keep the exact count of 6 anime doll figures, 1 hanging ghost, and 3 pixel-art decorations. Do not add modern full-size people, vehicles, or extra large characters. Avoid a flat illustration look; it should resemble a real handcrafted miniature diorama photographed with a macro lens.
+```
+
+**来源：** [@Triglav（トリグラフ）](https://x.com/rasenkaidan6/status/2068126629428338770) | 2026-06-20
+
+---
+

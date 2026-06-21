@@ -1907,3 +1907,59 @@ Constraints: Preserve exactly 10 top era panels and 5 horizontal content bands. 
 
 ---
 
+### 📊 例 2060：龙井茶信息图海报
+
+![龙井茶信息图海报](../../images/%E9%BE%99%E4%BA%95%E8%8C%B6%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="tea name" default="龙井茶"} 创建一张精致的中国茶信息图海报，采用优雅的编辑排版、柔和的植物氛围以及清晰的中文排版。
+
+画布：16:9 宽屏横向画布，温暖的米白色背景，带有微妙的纸张纹理，圆角卡片 UI 面板，配有柔和阴影和细浅色边框。使用象牙白、鼠尾草绿、橄榄绿、柔和金和深森林绿组成的冷静色调。
+
+布局：构建 7 个圆角矩形内容面板和 1 个底部长条标语栏。排列如下：左侧一个大型主视觉卡片，占据约一半宽度和上部三分之二空间；中右列堆叠两个小卡片；最右列堆叠两个小卡片；左下角一个小型采摘卡片；底部中心/右侧横跨一个长条标语栏。
+
+主视觉卡片：左上角放置一个带有叶子图标的小胶囊标签，文字为“中国十大名茶之一”。添加一个非常大的深绿色中文标题“{argument name="tea name" default="龙井茶"}”和一个较小的英文副标题“{argument name="English tea name" default="Longjing Tea"}”。下方添加简短描述“中国十大名茶之一，以扁平挺秀、清香鲜爽著称。” 在该卡片右侧添加逼真的产品静物：一杯淡绿色的玻璃茶杯，杯中漂浮着茶叶，后方是一个浅色白碟，堆放着扁平的龙井茶叶。背景应包含模糊的绿色植物阴影和柔和的日光。在主视觉卡片底部，展示 3 个由细垂直线分隔的图标功能块：叶子图标标注“历史悠久 / 千年传承”，山峰图标标注“匠心工艺 / 传统炒制”，冒热气的茶杯图标标注“清雅之味 / 自然本真”。在该卡片右下角，添加一个带有地图定位图标的地点胶囊，文字为“浙江·杭州·西湖”。
+
+中右上方卡片：创建一个产地卡片，带有水上传统中式凉亭的细线圆形图标，标题为“产地”，文字为“主要产于浙江杭州西湖一带，西湖龙井最为知名。” 底部添加淡淡的灰绿色景观剪影。
+
+中右下方卡片：创建一个风味卡片，带有淡绿色圆形茶杯图标，标题为“风味”，文字为“豆香、栗香与清新的嫩香并存，口感柔和，回甘细腻。” 右下角添加微妙的茶叶线条画。
+
+最右上方卡片：创建一个标题为“特点”的功能列表卡片，带有深绿色圆形叶子图标。包含 4 行由虚线分隔的水平列表行，每行配有一个小图标和中文文字：1) 叶子图标“外形扁平挺直”，2) 水滴图标“色泽嫩绿光润”，3) 香气/蒸汽图标“香气清高鲜爽”，4) 茶碗图标“滋味鲜醇甘润”。右上角添加两个淡淡的装饰性叶子轮廓。
+
+最右下方卡片：创建一个标题为“冲泡建议”的冲泡指南卡片，带有茶壶图标。添加文字行“水温 80–85°C | 茶水比例 1:50 | 可用玻璃杯或盖碗冲泡。” 底部展示 3 个由垂直分隔符隔开的小型指标块：温度计图标“80–85°C”，水滴图标“1:50”，茶杯图标“玻璃杯/盖碗”。
+
+左下角采摘卡片：创建一个标题为“等级与采摘”的卡片，带有小叶子图标。添加正文“以春茶为佳，芽叶细嫩，明前茶尤受欢迎。” 在该卡片右侧，放置一张带有浅景深效果的、田间新鲜嫩绿茶芽的小型圆角照片。
+
+底部标语栏：创建一个带有微妙叶子纹理的长条淡绿色标语栏。居中放置大字间距的中文“鲜 · 香 · 甘”。右侧添加短语“一杯龙井，品味江南春意”，配以精致的流线和叶子插图，以及一个包含“茶”字的小型垂直茶印。
+
+视觉风格：高端现代中式编辑设计，逼真的茶摄影与简洁的矢量图标融合，柔和的自然光，清晰易读的文字，宽敞的间距，平衡的网格，圆角，微妙的阴影，无杂乱感。
+
+约束：使用 7 个内容面板和 1 个底部标语栏，3 个主视觉功能块，4 个功能列表行，以及 3 个冲泡指标块。保持所有中文文字清晰易读。无水印，无额外 Logo，无人物。
+
+[English]
+Goal: Create a clean premium Chinese tea infographic poster for {argument name="tea name" default="龙井茶"}, with an elegant editorial product-card layout combining photography, soft illustrations, and Chinese typography.
+
+Canvas: Wide horizontal 16:9 canvas, warm off-white background, subtle paper texture, rounded white cards with soft shadows and thin pale-gray borders. Use a refined palette of deep tea green, muted olive, cream, light beige, and pale gold.
+
+Layout: Arrange exactly 7 rounded information cards plus 1 bottom slogan banner. The left side contains one large hero card occupying about half the canvas width and upper-left area. The right side contains four smaller cards in a 2-by-2 grid. The bottom-left contains one horizontal card. The bottom center/right contains a long banner spanning most of the remaining width.
+
+Hero card details: Large Chinese title “{argument name="tea name" default="龙井茶"}” in dark green calligraphic serif style, with smaller English subtitle “{argument name="English tea name" default="Longjing Tea"}”. Add a small pill label at top left reading “中国十大名茶之一” with a leaf icon. Include short body copy: “中国十大名茶之一，以扁平挺秀、清香鲜爽著称。” On the right side of this card, show a realistic transparent glass cup of pale green tea with floating tea leaves, placed behind a shallow white ceramic dish filled with dry flat Longjing tea leaves. Add faint bamboo/leaf shadows in the background. Along the bottom of the hero card, show exactly 3 small icon feature blocks: 1) leaf icon, “历史悠久 / 千年传承”; 2) mountain icon, “匠心工艺 / 传统炒制”; 3) teacup icon, “清雅之味 / 自然本真”. Add a small location pill at bottom right with a pin icon and text “浙江 · 杭州 · 西湖”.
+
+Right-side card count and contents: Create exactly 4 smaller rounded cards. Card 1, top middle: “产地” with a circular line icon of a traditional pavilion and text “主要产于浙江杭州西湖一带，西湖龙井最为知名。” Add misty gray-green mountains at the bottom. Card 2, top right: “特点” with exactly 4 list rows separated by dotted lines, each with a small icon: “外形扁平挺直”, “色泽嫩绿光润”, “香气清高鲜爽”, “滋味鲜醇甘润”. Card 3, lower middle: “风味” with a small teacup icon and text “豆香、栗香与清新的嫩香并存，口感柔和，回甘细腻。” Add pale botanical line art leaves in the lower-right corner. Card 4, lower right: “冲泡建议” with a teapot icon and text “水温 80–85°C | 茶水比例 1:50 | 可用玻璃杯或盖碗冲泡。” At the bottom of this card show exactly 3 small measurement icons and labels: thermometer “80–85°C”, water drop “1:50”, teacup “玻璃杯/盖碗”.
+
+Bottom-left card: Title “等级与采摘” with a small leaf icon. Text: “以春茶为佳，芽叶细嫩，明前茶尤受欢迎。” Include one rectangular rounded photo inset showing fresh green tea buds growing outdoors with soft bokeh.
+
+Bottom banner: A long pale green textured banner with large dark green slogan text “{argument name="slogan" default="鲜 · 香 · 甘"}” centered-left, followed by smaller text “一杯龙井，品味江南春意”. Add a delicate flowing tea-leaf line illustration on the right and a tiny vertical tea seal icon.
+
+Visual style: High-end modern Chinese wellness branding, minimal and airy, crisp readable Chinese text, soft natural light, realistic tea photography blended with subtle botanical line art. Keep all cards aligned on a grid with generous spacing and rounded corners.
+
+Constraints: Use exactly 7 information cards and exactly 1 bottom slogan banner. Use exactly 3 hero feature blocks, 4 feature list rows, and 3 brewing measurement icons. Do not add extra logos, watermarks, QR codes, people, or unrelated objects.
+```
+
+**来源：** [@歸藏(guizang.ai)](https://x.com/op7418/status/2068239294372987378) | 2026-06-20
+
+---
+

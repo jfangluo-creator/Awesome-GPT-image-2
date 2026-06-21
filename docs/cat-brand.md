@@ -5473,3 +5473,21 @@ Create a vibrant photorealistic midsummer garden landscape beside a calm river, 
 
 ---
 
+### 🏷️ 例 2033：Reinecke Undine 森林标题卡
+
+![Reinecke Undine 森林标题卡](../../images/Reinecke%20Undine%20%E6%A3%AE%E6%9E%97%E6%A0%87%E9%A2%98%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为关于 {argument name="composer and work" default="Reinecke: Undine"} 的古典音乐视频制作一张电影质感的横向标题卡。使用 16:9 宽屏画布。场景设定为夜晚深邃的浪漫主义森林，弥漫着蓝灰色的雾气和水汽，底部边缘有一汪浅浅的倒影池。一道强烈的冷色月光从右上角斜射而下，照亮了位于画面中下方的一位幽灵般的水精灵（Undine），她身形娇小，留着极长的浅金色长发，身穿与雾气和水色融为一体的半透明银蓝色长裙。前景中需准确构图 9 棵醒目的黑色树干：左侧簇拥 5 棵，右侧 4 棵，顶部带有细长的垂枝和苔藓。整体氛围应充满神秘感、神话色彩和歌剧感，色调以深绿、黑、青蓝色雾霾为主，并辅以柔和的体积光。在左上角添加醒目的标题文本：共 2 行，第 1 行显示 {argument name="top title text" default="Reinecke:"}，使用白色、较小的粗体无衬线字体；第 2 行显示 {argument name="main title text" default="Undine"}，使用大号亮黄色粗体无衬线字体，并带有微妙的深色阴影。保持排版整洁且高度易读，画面其余部分不添加任何文字，无 Logo，无水印。
+
+[English]
+Create a cinematic horizontal title card for a classical music video about {argument name="composer and work" default="Reinecke: Undine"}. Use a 16:9 widescreen canvas. The scene is a dark Romantic forest at night, filled with blue-gray mist and water vapor, with a shallow reflective pool along the bottom edge. A powerful diagonal shaft of cold moonlight enters from the upper right and illuminates a ghostly water spirit or undine standing near the lower center, small in scale, with very long pale blonde hair and a translucent silver-blue gown that blends into the fog and water. Frame the image with exactly 9 prominent black tree trunks in the foreground: 5 clustered on the left side and 4 on the right side, with thin hanging branches and moss near the top. The atmosphere should feel mysterious, mythic, and operatic, with deep greens, blacks, cyan-blue haze, and soft volumetric lighting. Add bold title text in the upper left: exactly 2 lines, line 1 reads {argument name="top title text" default="Reinecke:"} in white, smaller bold sans-serif, and line 2 reads {argument name="main title text" default="Undine"} in large bright yellow bold sans-serif with a subtle dark shadow. Keep the typography clean and highly legible, leave the rest of the image free of text, no logos, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2068344270587580864) | 2026-06-20
+
+---
+

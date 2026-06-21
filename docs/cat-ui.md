@@ -3786,3 +3786,181 @@ Constraints: Show exactly 5 panels and exactly 1 repeated subject across all pan
 
 ---
 
+### 🖥️ 例 2031：风格化河石雕塑
+
+![风格化河石雕塑](../../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%B2%B3%E7%9F%B3%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+由光滑河石制成的可爱风格化 {argument name="subject" default="动物"}，堆叠的有机形态，哑光矿物质感，{argument name="action" default="安静地坐着"}，宁静的禅意氛围，圆润的比例，自然的 {argument name="color tones" default="大地色"}，极简构图，柔和的定向光，具有收藏价值的艺术品美学。
+
+[English]
+Cute stylized {argument name="subject" default="animal"} made from smooth river stones, stacked organic forms, matte mineral texture, {argument name="action" default="sitting quietly"}, calm zen atmosphere, rounded proportions, natural {argument name="color tones" default="earthy"} tones, minimal composition, soft directional lighting, collectible art object aesthetic.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2068345987484254352) | 2026-06-20
+
+---
+
+### 🖥️ 例 2053：日文家务任务 App 广告
+
+![日文家务任务 App 广告](../../images/%E6%97%A5%E6%96%87%E5%AE%B6%E5%8A%A1%E4%BB%BB%E5%8A%A1%20App%20%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="app name" default="きょうのクエスト"} 的家庭家务辅助 App 创建一张欢快的日文宣传横幅，展示将家务转化为趣味游戏任务的过程。
+
+画布：横向 3:2 社交媒体广告，明亮的白色与暖米色家居内饰，简洁的商业设计，高分辨率写实生活照片，结合多彩的 App UI 模型和趣味矢量图形。
+
+布局：左半部分顶部包含大型 App Logo，下方为简短的日文标语，以及 2 个稍微向彼此倾斜的大型智能手机模型。右半部分包含一张写实风格的孩子在篮子里整理衣物的照片，右上角附近有一个明亮的橙色扇形对话徽章，右侧垂直堆叠 4 张圆角白色功能卡片。左下角有一个奶油色圆角消息丝带，带有一个小型家庭头像图标。
+
+主体：一个扎着丸子头的幼童，身穿白色短袖衬衫和蓝色裤子，跪在浅色木地板上，将一块粉色布料放入米色洗衣篮中。家居背景经过柔焦处理，配有透明窗帘、自然光、简单的木质搁板和小盆栽。保持孩子面部柔和模糊或中性，不要作为焦点。
+
+Logo 和标题文字：在左上角，创建一个带有多彩圆润日文字符的趣味横幅 Logo。使用带有橙色轮廓、小星星、闪光和蓝色强调标记的奶油色丝带标志。Logo 文字为「きょうの クエスト」，其中「きょうの」位于彩色小圆圈中，「クエスト」为红色、蓝色、绿色和橙色的大字母。在 Logo 下方，添加粗体深棕色圆润日文字体标语「おてつだいが、たのしくなるアプリ！」。
+
+手机模型：包含 2 部黑色边框智能手机。最左侧的手机 1 显示奖励/确认界面，内含孩子整理衣物的照片（黄色边框内）、红色点赞图标、底部两个橙色和紫色的大按钮，以及包括「ぬいたふくを かごにいれる」、「もういちど」和「おくる！」在内的小型日文标签。右侧的手机 2 显示 App 主页/任务界面，带有黄色顶部栏、用户名「はる」、金币计数器、相同的 App Logo 卡片、带有篮子图标的任务卡片，以及一个标有「スタート！」的大型紫色按钮；包含一个带有小型圆角图标的底部导航栏。
+
+右侧标注：在右上角添加一个橙色扇形圆形徽章，配有白色日文文字：「おうちのおてつだいをゲーム感覚で楽しく！」。在右侧堆叠 4 张圆角功能卡片，每张卡片左侧带有大图标，右侧为日文文案：1) 红色/粉色目标图标，文字为「おてつだいがクエストになる！」；2) 蓝色圆圈中的白色星星，文字为「できたらシールでやる気アップ！」；3) 绿色圆圈中的礼物图标，文字为「ごほうびでがんばりを実感！」；4) 显示彩虹背景上微笑黄色星星吉祥物的 App 图标，配有粗体文字「お手伝いクエスト」、较小文字「今すぐダウンロード！」以及一个黑色 Google Play 徽章。
+
+底部丝带：在手机下方的左下角附近添加一个圆角奶油色丝带，带有一个小型圆形家庭插画图标和日文信息「親子でいっしょに、たのしく成長！」。
+
+视觉风格：友好、以家庭为导向、多彩、精致的日文 App 公关图形。使用圆润字体、柔和阴影、贴纸风格图标、柔和色调强调、整洁的间距和温暖的自然照片背景。确保所有 UI 元素清晰易读，不包含额外的功能卡片、额外的手机、水印，且除了 Google Play 徽章外不包含任何无关的英文文本。
+
+[English]
+Goal: Create a cheerful Japanese promotional app banner for a family chore-help app called {argument name="app name" default="きょうのクエスト"}, showing household chores turned into fun game-like quests.
+
+Canvas: Horizontal 3:2 social media ad, bright white and warm beige home interior, clean commercial design, high-resolution photorealistic lifestyle photo combined with colorful app UI mockups and playful vector graphics.
+
+Layout: Left half contains the large app logo at the top, a short Japanese tagline below it, and exactly 2 large smartphone mockups angled slightly toward each other. Right half contains a photorealistic child doing laundry in a basket, with a bright orange scalloped speech-badge near the top right and exactly 4 rounded white feature cards stacked vertically along the right side. Bottom left has one cream-colored rounded message ribbon with a small family avatar icon.
+
+Main subject: A young child with a top bun hairstyle, wearing a white short-sleeve shirt and blue pants, kneeling on a light wood floor and putting a pink cloth into a beige laundry basket. The home background is softly blurred, with sheer curtains, natural daylight, a simple wooden shelf, and small green plants. Keep the child face softly obscured or neutral, not the focus.
+
+Logo and headline text: At the top left, create a playful banner logo with colorful rounded Japanese characters. Use a cream ribbon sign with orange outline, tiny stars, sparkles, and blue accent marks. The logo text reads 「きょうの クエスト」, with 「きょうの」 in small colored circles and 「クエスト」 in large red, blue, green, and orange letters. Under the logo, add the tagline 「おてつだいが、たのしくなるアプリ！」 in bold dark brown rounded Japanese type.
+
+Phone mockups: Include exactly 2 black-framed smartphones. Phone 1 on the far left shows a reward/confirmation-style screen with a photo of the child doing laundry inside a yellow border, a red thumbs-up icon, two large bottom buttons in orange and purple, and small Japanese labels including 「ぬいたふくを かごにいれる」, 「もういちど」, and 「おくる！」. Phone 2 to its right shows the app home/quest screen with a yellow top bar, a user name 「はる」, a coin counter, the same app logo card, a quest card with basket icon, and a large purple button labeled 「スタート！」; include a bottom navigation bar with small rounded icons.
+
+Right-side callouts: Add an orange scalloped circular badge at the top right with white Japanese text: 「おうちのおてつだいをゲーム感覚で楽しく！」. Stack exactly 4 rounded feature cards on the right, each with a large icon on the left and Japanese copy on the right: 1) target icon in red/pink with text 「おてつだいがクエストになる！」, 2) white star in blue circle with text 「できたらシールでやる気アップ！」, 3) gift icon in green circle with text 「ごほうびでがんばりを実感！」, 4) app icon showing a smiling yellow star mascot over a rainbow background, with bold text 「お手伝いクエスト」, smaller text 「今すぐダウンロード！」, and a black Google Play badge.
+
+Bottom ribbon: Add one rounded cream ribbon near the bottom left under the phones with a small circular family illustration icon and the Japanese message 「親子でいっしょに、たのしく成長！」.
+
+Visual style: Friendly, family-oriented, colorful, polished Japanese app PR graphic. Use rounded fonts, soft shadows, sticker-like icons, pastel accents, clean spacing, and a warm natural photo background. Make all UI elements crisp and readable, with no extra feature cards, no extra phones, no watermark, and no unrelated English text except the Google Play badge.
+```
+
+**来源：** [@Aki | 個人開発×Web制作](https://x.com/Aki_Web_dev/status/2068287424854462946) | 2026-06-20
+
+---
+
+### 🖥️ 例 2065：MeiGen AI Gallery 移动端截图
+
+![MeiGen AI Gallery 移动端截图](../../images/MeiGen%20AI%20Gallery%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="gallery name" default="MeiGen Gallery"} 的 AI 图像提示词库创建一个精致的移动端网页截图，以垂直滚动的信息流形式展示视觉提示词示例。
+
+画布：高长比例智能手机截图，720×1200 像素，白色与极淡蓝色背景，圆角浏览器页面边缘，右上角附近有一条细长的深色垂直滚动条。
+
+页眉：顶部放置一个极简黑色三角形山峰 Logo，后接加粗的“MeiGen”文本，以及灰色的手写体“Gallery”。保持页眉简洁，留出充足的留白。
+
+布局：在页眉下方，在一个柔和圆角的浅色容器内创建一个双列瀑布流图库。使用带有统一间距和柔和阴影的大圆角矩形图片卡片。展示 6 张可见的图库卡片：
+1. 左上大卡片：温暖的生活方式人像，{argument name="cafe subject" default="一位身穿奶油色无袖衬衫、系领结、穿薰衣草色长裤的优雅女性"} 坐在圆木咖啡桌旁，背景是高大的工业风窗户和砖墙，她手持铅笔靠近嘴唇，桌上放着一本打开的书和冰咖啡；营造舒适的电影感阳光。
+2. 右上大卡片：极简风格端午节海报，水边场景，垂直构图，一位身穿白衣的女性坐在倒影池旁，墙上有竹影，平静的湖面地平线，大号汉字“端午”，小号英文文本“Slow into summer”，以及精细的垂直排版汉字。
+3. 中左大卡片：充满活力的街头服饰照片，{argument name="streetwear subject" default="一位身穿牛仔夹克、白衬衫、米色短裤、白袜和运动鞋的年轻人"} 坐在混凝土台阶上，背景是带有卡通大猩猩、涂鸦箭头、皇冠、X 标记和霓虹黄装饰的亮蓝色涂鸦墙。
+4. 中右大卡片：雪天冬季人像，{argument name="winter subject" default="一位裹着厚实蓝色花纹披肩的女性"} 在夜晚或黄昏时分站在户外，可见雪花，背景有温暖的模糊灯光，具有电影感的景深效果。
+5. 左下部分可见的宽卡片：简洁的产品设计/规格说明拼贴，包含四个标注区域，展示未来感小工具：“AEROFOLD ONE”电动滑板车、“HELIX CHEF”紧凑型厨房设备、“SYNAPSE BAND”耳机或可穿戴手环，以及“LUMEN CAST”半透明科技设备；包含小型渲染图、注释、图标和整齐的网格排版。
+6. 右下部分可见的宽卡片：动漫风格角色横幅，展示 {argument name="anime character name" default="HINATA HYUGA"}，身穿白紫色服装，长黑发，动作姿态，带有紫色 UI 装饰，粗体大字“HINATA HYUGA”，圆形徽章和动态线条。
+
+视觉风格：整体截图应呈现现代 AI 提示词灵感网站的质感：清晰的 UI、柔和的圆角、写实的混合媒体缩略图、高分辨率图像、平衡的间距、整洁的排版，且无杂乱感。
+
+约束：保持双列图库排列，严格展示列表中的 6 张卡片，底部两张卡片需被下边缘截断以体现页面延续感，避免额外卡片，避免水印，并确保所有指定文本清晰可读。
+
+[English]
+Goal: Create a polished mobile webpage screenshot for an AI image prompt gallery called {argument name="gallery name" default="MeiGen Gallery"}, shown as a vertically scrollable feed of visual prompt examples.
+
+Canvas: Tall smartphone screenshot, 720×1200 px, white and very pale blue background, rounded browser-like page edges, with a thin dark vertical scroll indicator on the far right near the top.
+
+Header: At the top, place a minimalist black mountain-like triangular logo followed by the bold text “MeiGen” and a gray handwritten script word “Gallery”. Keep the header clean with generous white space.
+
+Layout: Below the header, create a two-column masonry gallery inside a softly rounded light container. Use large rounded-rectangle image cards with consistent gutters and soft shadows. Show exactly 6 visible gallery cards:
+1. Top-left large card: warm lifestyle portrait of {argument name="cafe subject" default="an elegant woman in a sleeveless cream blouse with a bow collar and lavender trousers"} seated at a round wooden cafe table beside tall industrial windows and a brick wall, holding a pencil near her lips, with an open book and iced coffee on the table; cozy cinematic sunlight.
+2. Top-right large card: minimalist Chinese Dragon Boat Festival poster by water, vertical composition with a seated woman in white near a reflective pool, bamboo shadows on a pale wall, calm lake horizon, large Chinese characters “端午”, small English text “Slow into summer”, and subtle vertical Chinese typography.
+3. Middle-left large card: energetic streetwear photo of {argument name="streetwear subject" default="a young man in a denim jacket, white shirt, beige shorts, white socks, and sneakers"} sitting on concrete steps in front of a bright blue graffiti mural with a cartoon gorilla, doodle arrows, crowns, X marks, and neon yellow accents.
+4. Middle-right large card: snowy winter portrait of {argument name="winter subject" default="a woman wrapped in a thick blue patterned shawl"} standing outdoors at night or dusk, snowflakes visible, warm blurred lights in the background, moody cinematic depth of field.
+5. Bottom-left partially visible wide card: clean product design/spec sheet collage with four labeled sections for futuristic gadgets: “AEROFOLD ONE” electric scooter, “HELIX CHEF” compact kitchen device, “SYNAPSE BAND” headphones or wearable band, and “LUMEN CAST” translucent tech device; include small renders, annotations, icons, and neat grid typography.
+6. Bottom-right partially visible wide card: anime-style character banner featuring {argument name="anime character name" default="HINATA HYUGA"} in a white and purple action pose with long dark hair, purple UI accents, bold large text “HINATA HYUGA”, circular badges, and dynamic motion lines.
+
+Visual style: The overall screenshot should look like a modern AI prompt inspiration website: crisp UI, soft rounded corners, realistic mixed media thumbnails, high-resolution images, balanced spacing, clean typography, and no clutter.
+
+Constraints: Preserve the two-column gallery arrangement, show exactly 6 cards as listed, make the bottom two cards cropped by the lower edge as if the page continues, avoid extra cards, avoid watermarks, and keep all text legible where specified.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2068215343286501872) | 2026-06-20
+
+---
+
+### 🖥️ 例 2069：醉棍漫画截图
+
+![醉棍漫画截图](../../images/%E9%86%89%E6%A3%8D%E6%BC%AB%E7%94%BB%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张竖屏智能手机漫画截图，展示一页戏剧性的全彩漫画，内容为一位戴着面具的武术家使用醉棍技巧，应用标题栏中显示 {argument name="episode title" default="エピソード名思いつかなかった💦"}。
+
+画布：9:16 高比例手机屏幕，顶部为黑色应用 UI 栏，左侧有返回箭头，中间为截断的日语标题文本“エピソード名思…”，右侧有一个小猫脸图标、一个菜单图标以及一个刷新/旋转图标。下方展示一页动态漫画，带有粗黑色的分镜间距和倾斜的分镜边框。在靠近底部中心的位置添加两个半透明的圆形导航按钮，按钮上带有白色箭头，叠加在漫画页面上方。
+
+布局：使用精确的 5 个可见漫画分镜：1) 左上角动作分镜，展示角色站在寺庙屋顶前的樱花树下，手持长棍；2) 右上角特写，展示一只绿色眼睛和黑色刺绣面罩；3) 中右侧窄分镜，展示华丽的棍尖触碰圆形石地砖图案；4) 中央大分镜，占据页面大部分空间，展示武术家戏剧性的低角度全身姿势；5) 底部特写分镜，展示角色锐利的绿色眼睛，被屏幕边缘部分裁剪。
+
+主角：一位苗条的年轻女性武术家，名为 {argument name="character name" default="unnamed masked martial artist"}，留着深棕色渐变至金色的及肩短发，刘海被风吹乱，拥有鲜艳的绿色眼睛，佩戴着带有金色刺绣的黑色华丽面罩。她身穿飘逸的黑色中式武术服，配有宽袖、层叠的半透明白色腰带、金色镶边、流苏、腰带、装饰结、带有刺绣袖口的宽松黑裤和黑色布鞋。她携带一根雕刻精美的黑金长棍/手杖，有时会将其立在地上。她的姿势应显得优雅、摇晃且充满力量，如同将醉拳转化为醉棍格斗。
+
+场景与氛围：春季的日式/中式寺庙庭院，背景为华丽的木制神社建筑和瓦片屋顶，粉色樱花树，花瓣在明亮的空气中飘舞，电影般的阳光，强风，对角线构图，速度线和动态模糊。高细节动漫插画，光泽感韩漫/漫画渲染，戏剧性的透视，丰富的阴影，金色点缀，绘画风格背景，清晰的分镜边框。
+
+文本内容：在中央分镜内包含 1 个巨大的竖排毛笔书法标题，内容为 {argument name="technique title" default="酔棍"}。包含 8 个带有黑色日语文本的白色竖排漫画对话框：左上分镜“酔うのは酒ではない…心だ”；右上分镜右侧“フッ…オレだと思って判断するとは…”；右上分镜左侧“まだまだだな”；中右分镜右侧“棒は酒のように軽く…”；中右分镜下方“すべてを流す”；中央分镜左下方“酔えば酔うほど強くなる”；底部分镜左侧“これが酔拳の奥義…”；底部分镜右侧“酔ってなお…揺るがぬ心”。
+
+约束：保持图像为智能手机漫画阅读器截图，而非纯粹的独立插画。除列出的 5 个分镜外，不要添加额外分镜；除列出的 8 个对话框外，不要添加额外对话框；不要添加水印，不要追求照片写实感，并严格保留指定的日语文本。
+
+[English]
+Goal: Create a vertical smartphone screenshot of a dramatic full-color manga episode page about a masked martial artist using a drunken staff technique, titled {argument name="episode title" default="エピソード名思いつかなかった💦"} in the app header.
+
+Canvas: Tall 9:16 mobile screen, black app UI bar at the top with a back arrow on the left, centered truncated Japanese title text “エピソード名思…”, a small cat-face icon, a menu icon, and a refresh/rotate icon on the right. Below it, show one dynamic manga page with thick black gutters and angled panel borders. Add two semi-transparent circular navigation buttons with white chevrons near the lower center, overlaying the manga page.
+
+Layout: Use exactly 5 visible manga panels: 1) upper-left action panel of the character standing under cherry blossoms in front of temple roofs, holding a long staff; 2) upper-right close-up of one green eye and black embroidered face mask; 3) middle-right narrow panel showing the ornate staff tip touching a circular stone floor pattern; 4) large central hero panel occupying most of the page, showing the full-body martial artist in a dramatic low-angle pose; 5) bottom close-up panel of the character’s intense green eyes, partly cropped by the screen edge.
+
+Main character: A slim young female martial artist named {argument name="character name" default="unnamed masked martial artist"}, with shoulder-length dark brown hair fading to golden tips, windblown bangs, vivid green eyes, and a black ornate face mask with gold embroidery. She wears a flowing black Chinese-inspired martial arts outfit with wide sleeves, layered translucent white sashes, gold trim, tassels, belts, decorative knots, loose black trousers with embroidered cuffs, and black slippers. She carries one long black-and-gold carved staff/cane, sometimes planted on the ground. Her pose should feel elegant, unstable, and powerful, like drunken boxing transformed into drunken staff fighting.
+
+Setting and mood: Outdoor Japanese/Chinese temple courtyard in spring, ornate wooden shrine buildings and tiled roofs in the background, pink cherry blossom trees, petals swirling through bright air, cinematic sunlight, strong wind, diagonal composition, speed lines and motion blur. High-detail anime illustration, glossy manhwa/manga rendering, dramatic perspective, rich shadows, gold accents, painterly backgrounds, crisp panel borders.
+
+Text content: Include exactly 1 large vertical brush-calligraphy title inside the central panel reading {argument name="technique title" default="酔棍"}. Include exactly 8 white vertical manga speech boxes with black Japanese text: upper-left panel “酔うのは酒ではない…心だ”; upper-right panel right side “フッ…オレだと思って判断するとは…”; upper-right panel left side “まだまだだな”; middle-right panel right side “棒は酒のように軽く…”; middle-right panel lower side “すべてを流す”; central panel lower-left “酔えば酔うほど強くなる”; bottom panel left “これが酔拳の奥義…”; bottom panel right “酔ってなお…揺るがぬ心”.
+
+Constraints: Keep the image as a smartphone screenshot of a manga reader, not a clean standalone illustration. Use no extra panels beyond the 5 listed, no extra speech boxes beyond the 8 listed, no watermark, no photorealism, and preserve the Japanese text exactly where specified.
+```
+
+**来源：** [@りりあん](https://x.com/riri_28_SynClub/status/2068194624746009048) | 2026-06-20
+
+---
+
+### 🖥️ 例 2076：雨中猫耳幸存者的清晨
+
+![雨中猫耳幸存者的清晨](../../images/%E9%9B%A8%E4%B8%AD%E7%8C%AB%E8%80%B3%E5%B9%B8%E5%AD%98%E8%80%85%E7%9A%84%E6%B8%85%E6%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版动漫风格插画，描绘一位可爱的 Q 版猫耳冒险少女，坐在日出时分雨后末日废墟城市的破碎混凝土瓦砾上。角色为 {argument name="character name" default="一位无名的猫耳幸存者少女"}，一位看起来年纪尚小的兽耳娘，有着浅棕色凌乱短发、带有白色内耳毛的毛茸茸猫耳、金棕色眼睛、柔和的腮红和冷静羞涩的微笑。她穿着粗犷的棕色生存装：长款棕色外套或短袍、深色打底裤、护膝、露指手套、带有金属扣的工具腰带、小袋、绑带和厚重的棕色系带作战靴，脖子上围着深红色围巾，身后露出一截卷曲的棕色猫尾。她双膝弯曲坐在湿漉漉的瓦砾上，手中拿着 2 件小型手持物品：一只手拿着短刀，另一只手拿着一块木头，正在削刻。她的背上背着 2 把高大的金属长矛状武器或刀刃，固定在皮质背带上，装备上还挂着 2 个发光的圆形药水状饰品，一个红色，一个绿色。背景是荒废的城市街道，有倒塌的建筑物、裸露的混凝土框架、瓦砾、水坑、散落的草芽、乌云密布的暴风雨天空，地平线上透出温暖的日出光芒，倒映在湿润的地面上。大雨以长长的垂直线条洒满整个画面，带有电影般的轮廓光和大气雾气。在左上方添加手写的发光日文清晨文字 {argument name="greeting text" default="おはよう"}；并在文字周围添加 2 个小涂鸦：左侧为一个简单的太阳图标，右侧为一个微小的绿色嫩芽图标。视觉风格：高度精细的现代动漫插画，绘画感光影，可爱的角色设计与粗犷的废墟形成对比，温暖的橙色日出与冷灰色雨景交织，角色焦点清晰，景深效果，无水印，无多余角色，无多余文字。
+
+[English]
+Create a vertical 9:16 anime-style illustration of a cute chibi cat-eared adventurer girl sitting on broken concrete rubble in a rainy post-apocalyptic ruined city at sunrise. The character is {argument name="character name" default="an unnamed cat-eared survivor girl"}, a small young-looking kemonomimi girl with tan-blonde messy short hair, fluffy cat ears with white inner fur, golden-brown eyes, soft blush, and a calm shy smile. She wears a rugged brown survival outfit: long brown coat or tunic, dark leggings, knee pads, fingerless gloves, utility belts with metal buckles, pouches, straps, and heavy lace-up brown combat boots, plus a deep red scarf around her neck and a visible tan cat tail curling behind her. She sits with knees bent on wet rubble, holding exactly 2 small hand items: a short knife in one hand and a carved piece of wood in the other, as if whittling. On her back are exactly 2 tall metallic spear-like weapons or blades in a leather harness, and exactly 2 glowing round potion-like ornaments attached to the gear, one red and one green. The background is a devastated urban street with collapsed buildings, exposed concrete frames, debris, puddles, scattered grass shoots, dark storm clouds, and warm sunrise light glowing low on the horizon, reflecting in the wet ground. Heavy rain falls in long vertical streaks across the entire image, with cinematic rim light and atmospheric mist. Add handwritten glowing Japanese morning text near the upper left reading {argument name="greeting text" default="おはよう"}; include exactly 2 small doodles around it: a simple sun icon to the left and a tiny green sprout icon to the right. Visual style: highly detailed modern anime illustration, painterly lighting, cute character design contrasted with gritty ruins, warm orange sunrise against cool gray rain, sharp character focus, depth of field, no watermark, no extra characters, no extra text.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2068165268845818254) | 2026-06-20
+
+---
+

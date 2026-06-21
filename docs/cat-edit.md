@@ -1656,3 +1656,91 @@ Create an anime-style character based on a photo. Keep the body proportions, fac
 
 ---
 
+### 🔧 例 2025：装饰性民间扁平插画风格转换
+
+![装饰性民间扁平插画风格转换](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将整张图像转换为 {argument name="style" default="装饰性民间扁平插画"} 风格，并加入涂鸦元素。使用一套与原图完全不同的 {argument name="color palette" default="大胆且活泼的配色方案"}。将所有细节简化为干净的扁平形状，呈现出一种手工绘制、略带不完美的感觉，就像画在 {argument name="canvas" default="白纸"} 上一样。整体风格应看起来可爱、稚趣且充满奇思妙想。
+
+[English]
+Transform the entire image into a single {argument name="style" default="Decorative Folk Flat Illustration"} with Doodle elements. Use a {argument name="color palette" default="bold and playful color palette"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of {argument name="canvas" default="white paper"}. The overall style should look cute, childlike, and whimsical
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2068368875033620910) | 2026-06-20
+
+---
+
+### 🔧 例 2034：90 年代动漫风格插画
+
+![90 年代动漫风格插画](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+比例：9:16
+风格：二次元立绘 + 工笔细描 + 90s Anime + 赛璐璐 + {argument name="装饰风格" default="极繁主义"}
+人物：{argument name="角色" default="SPY FAMILY一家"}
+```
+
+**来源：** [@draco](https://x.com/DracoVibeCoding/status/2068342359524626871) | 2026-06-20
+
+---
+
+### 🔧 例 2067：小红书美食封面改造
+
+![小红书美食封面改造](../../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BE%8E%E9%A3%9F%E5%B0%81%E9%9D%A2%E6%94%B9%E9%80%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+转化为小红书美食封面图。 {argument name="preservation" default="保留原始食物类型和主要内容"}
+
+[English]
+To Xiaohongshu Food Cover Photo Edit. {argument name="preservation" default="保留原来的食物类型和主要内容"}
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068212544813121666) | 2026-06-20
+
+---
+
+### 🔧 例 2073：蜡笔画转写实照片
+
+![蜡笔画转写实照片](../../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E8%BD%AC%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此 {argument name="input style" default="蜡笔风格插画"} 转换为一张高度写实的专业照片。保持相同的姿势、面部表情、手势和构图。将绘制的角色转换为一位 {argument name="subject" default="真实的年轻女性"}，具备自然的皮肤纹理、逼真的双眼、细腻的头发以及真实的五官特征。将涂鸦背景替换为 {argument name="background" default="真实的户外场景"}，呈现柔和的自然光、逼真的景深以及干净的环境。在保持整体氛围和角色特征的同时，使最终效果看起来如同使用高端单反相机拍摄一般。超写实、照片级真实、自然色彩、高细节、85mm 镜头、浅景深、真实光影。
+
+[English]
+Transform this {argument name="input style" default="crayon-style illustration"} into a highly realistic professional photograph. Keep the same pose, facial expression, hand gesture, and composition. Convert the drawn character into a {argument name="subject" default="real young woman"} with natural skin texture, realistic eyes, detailed hair, and authentic facial features. Replace the doodle background with a {argument name="background" default="real-life outdoor setting"} featuring soft natural light, realistic depth of field, and a clean environment. Maintain the overall mood and character while making the result look like it was captured with a high-end DSLR camera. Ultra-realistic, photorealistic, natural colors, high detail, 85mm lens, shallow depth of field, realistic lighting.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2068185527636111740) | 2026-06-20
+
+---
+
+### 🔧 例 2079：奇幻民间艺术扁平化插画
+
+![奇幻民间艺术扁平化插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将整张图像转换为 {argument name="art style" default="带有涂鸦元素的装饰性民间扁平插画"}。使用一套与原图完全不同的 {argument name="color palette" default="大胆且充满趣味的配色方案"}。将所有细节简化为简洁的扁平形状，并赋予其手工绘制、略带瑕疵的质感，仿佛是在白纸上绘制而成。整体风格应看起来可爱、童趣且充满奇幻色彩。
+
+[English]
+Please transform the entire image into a single {argument name="art style" default="Decorative Folk Flat Illustration with Doodle elements"}. Use a {argument name="color palette" default="bold and playful color palette"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2068160143989330318) | 2026-06-20
+
+---
+

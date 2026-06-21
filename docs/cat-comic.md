@@ -3150,3 +3150,21 @@ Create a monochrome grayscale anime manga illustration of two delicate twin-like
 
 ---
 
+### 🎬 例 2027：可爱极简风马卡龙色涂鸦插画
+
+![可爱极简风马卡龙色涂鸦插画](../../images/%E5%8F%AF%E7%88%B1%E6%9E%81%E7%AE%80%E9%A3%8E%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱极简风马卡龙色涂鸦插画，可爱的角色与他们的 {argument name="animal companion" default="动物伙伴"} 并肩站立，灵感源自现代日系文具艺术与儿童绘本，简洁的矢量线条，柔和的奶油色背景，低饱和度马卡龙配色（粉色、蓝色、薄荷绿、薰衣草紫、黄色），简单的几何形状，细小的纸屑圆点与漂浮的装饰元素，圆润的角色设计，穿着超大号毛衣、阔腿裤、运动鞋、戴着眼镜，表情平静，动物伙伴包括 {argument name="creature list" default="羊驼、小熊、美西螈、兔子、猫、狐狸、乌龟或奇幻生物"}，舒适的场景背景包含 {argument name="location" default="海滨木栈道、湖畔村庄、山间小镇或异想天开的自然景观"}，扁平化设计，粗线条轮廓，迷人且俏皮的美学风格，对称构图，全身姿势，可爱的友谊主题，高度精细的矢量插画，贴纸质感，儿童绘本艺术风格，柔和阴影，干净的留白，色彩鲜艳而柔和，Pinterest 热门趋势，可爱治愈的氛围，4k，杰作。
+
+[English]
+Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable {argument name="animal companion" default="animal companion"}, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including {argument name="creature list" default="llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature"}, cozy scenic background with {argument name="location" default="seaside boardwalk, lakeside village, mountain town or whimsical nature landscape"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2068351521016955098) | 2026-06-20
+
+---
+

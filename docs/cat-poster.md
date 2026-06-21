@@ -9323,3 +9323,185 @@ Create an ultra-realistic FIFA World Cup 2026 championship poster featuring a {a
 
 ---
 
+### 🎴 例 2041：奢华 3 岁生日海报
+
+![奢华 3 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%203%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张专业的奢华生日海报，采用垂直 3:4 比例，庆祝幼儿 {argument name="age number" default="3"} 岁生日，呈现优雅的编辑级摄影棚质感。
+
+画布：竖向 3:4 构图，高分辨率，居中布局。整个画面为雪白色的纸质墙面，带有细腻的纹理，柔和的暖色日光，轻柔的阴影，以及高级极简的生日美学。
+
+主体与布局：墙面上精准镂刻出一个巨大的数字 {argument name="age number" default="3"}，形成深邃的建筑感凹槽。数字边缘圆润厚实，具有明显的深度、逼真的内部阴影、斜面以及平滑的立体纸张/石膏质感。镂空数字内部为一个柔和的淡蓝灰色空间。一名幼儿坐在数字下方的开口处，身体略微覆盖前缘，身穿纯白色短袖 T 恤和浅蓝色卷边牛仔裤，赤脚，姿态放松，一膝抬起，一腿下垂。保持幼儿面部柔和模糊处理，同时保留逼真的发丝、身体、衣物和姿态。
+
+装饰细节：在镂空的数字内填充 12 个清晰可见的气球，配色为海军蓝、粉蓝、白色和柔灰色：左上角 1 个海军蓝气球，其后方半掩 1 个淡色气球，左侧内部附近 1 个灰色气球，右上角 1 个白色气球，右上角 1 个海军蓝气球，右中上方附近 1 个粉蓝色气球，右中位置 1 个白色气球，右侧前方 1 个大型粉蓝色气球，左下角 1 个海军蓝气球，左下角前景 1 个白色气球，底部中左侧附近 1 个小型粉蓝色气球，以及幼儿右侧底部附近 1 个海军蓝气球。添加 5 处白色花艺装饰：左上角内部一束，左中凹槽处一小簇，左下开口处一大簇，幼儿右侧一束，以及右下内部附近一处小型白色花卉点缀。使用细气球绳，并呈现逼真的植物细节。
+
+文字内容：在数字下方居中处，添加三行优雅的衬线字体。第一行：{argument name="child name" default="SAAD"}，使用大型金属金色大写字母，带有细腻的 3D 光泽。第二行：{argument name="chapter line" default="CHAPTER 28"}，使用较小的深海军蓝大写衬线字体。第三行：{argument name="birthday tagline" default="365 MORE DAYS OF MIRACLES"}，使用深海军蓝大写衬线字体，字号略小于第二行。
+
+视觉风格：奢华生日海报，逼真的 3D 纸雕建筑感，柔和的摄影棚灯光，奶油白与蓝色调，柔和的景深，精致的高级质感，干净的留白，无杂乱元素，无水印，无额外文字。
+
+[English]
+Goal: Create a professional luxury birthday poster in a vertical 3:4 ratio celebrating a young child turning {argument name="age number" default="3"}, with an elegant editorial studio look.
+
+Canvas: Portrait 3:4 composition, high-resolution, centered layout. The entire frame is a snow-white paper wall with subtle fine texture, soft warm daylight, gentle shadows, and a premium minimalist birthday aesthetic.
+
+Main subject and layout: A very large number {argument name="age number" default="3"} is precisely carved into the white wall as a deep architectural cutout niche. The number has thick rounded edges, visible depth, realistic inner shadows, bevels, and smooth volumetric paper/plaster details. Inside the hollow number is a muted pale blue-gray interior room. A toddler boy sits in the lower middle opening of the number, slightly overlapping the front edge, wearing a plain white short-sleeve T-shirt and cuffed light blue jeans, barefoot, relaxed pose with one knee raised and one leg hanging down. Keep the child’s face softly anonymized or blurred while maintaining realistic hair, body, clothing, and pose.
+
+Decor details: Fill the carved number with exactly 12 visible balloons in a navy blue, powder blue, white, and soft gray palette: 1 navy balloon at the upper left, 1 pale balloon partly hidden behind it, 1 gray balloon near the left interior, 1 white balloon at the upper right, 1 navy balloon at the upper right, 1 powder blue balloon near the right upper middle, 1 white balloon on the right middle, 1 large powder blue balloon in front on the right, 1 navy balloon at the lower left, 1 white balloon at the lower left foreground, 1 small powder blue balloon near the bottom center-left, and 1 navy balloon at the lower right near the child. Add exactly 5 white floral arrangements: a bouquet at the upper left interior, a small cluster in the middle-left recess, a larger cluster in the lower-left opening, a bouquet on the right beside the child, and a small white floral accent near the right lower interior. Use thin balloon strings and realistic botanical detail.
+
+Text content: Centered beneath the number, add three lines of elegant serif typography. First line: {argument name="child name" default="SAAD"} in large metallic gold uppercase letters with a subtle 3D sheen. Second line: {argument name="chapter line" default="CHAPTER 28"} in smaller dark navy uppercase serif. Third line: {argument name="birthday tagline" default="365 MORE DAYS OF MIRACLES"} in dark navy uppercase serif, slightly smaller than the second line.
+
+Visual style: Luxury birthday poster, realistic 3D paper-cut architecture, soft studio lighting, creamy white and blue palette, gentle depth of field, polished premium finish, clean negative space, no clutter, no watermark, no extra text.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2068333419273322534) | 2026-06-20
+
+---
+
+### 🎴 例 2042：带有复古海报的写实街头人像
+
+![带有复古海报的写实街头人像](../../images/%E5%B8%A6%E6%9C%89%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%8A%A5%E7%9A%84%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实的全景人像，一位美丽的年轻女性身穿 {argument name="outfit" default="休闲黄色夏日连衣裙和白色运动鞋"}，站在 {argument name="setting" default="鹅卵石铺就的城市街道"} 上。她倚靠在一根风化的石柱旁，柱子上贴着一张破损的复古风格海报。海报上印着同一位女性手提一篮黄色野花。现实中的女性手中拿着 {argument name="object" default="一束相配的黄色花朵"}。高细节摄影，柔和的自然光，欧洲街头氛围，电影级构图，照片级真实感，8k 分辨率，剥落的纸张和石材纹理清晰可见。
+
+[English]
+A realistic, full-body portrait of a beautiful young woman wearing a {argument name="outfit" default="casual yellow sundress and white sneakers"}, standing on a {argument name="setting" default="cobblestone city street"}. She is leaning against a weathered stone pillar that has a torn, distressed vintage-style poster pasted onto it. The poster features an image of the same woman holding a basket of yellow wildflowers. The woman in reality is holding a {argument name="object" default="matching bundle of yellow flowers"}. High-detail photography, soft natural lighting, European street atmosphere, cinematic composition, photorealistic, 8k, intricate textures on the peeling paper and stone.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2068331431680774270) | 2026-06-20
+
+---
+
+### 🎴 例 2043：动漫限定化妆品展示柜
+
+![动漫限定化妆品展示柜](../../images/%E5%8A%A8%E6%BC%AB%E9%99%90%E5%AE%9A%E5%8C%96%E5%A6%86%E5%93%81%E5%B1%95%E7%A4%BA%E6%9F%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Nozomu"} 创建一个梦幻般的动漫风格限量版化妆品零售展示柜，主题为名为 {argument name="brand name" default="Lumière Ciel"} 的淡蓝色花卉联名品牌。
+
+画布：垂直 4:5 的产品宣传展示图，明亮的百货公司化妆品专柜正面视角。使用柔和的景深效果处理真实的商店背景，展示光泽感的亚克力货架、淡蓝色灯光、闪光点、半透明反射以及漂浮在场景中的精致花瓣。
+
+布局：展示柜后方设有一块大型竖立广告牌。左侧包含优雅的品牌排版和宣传文案；右侧展示一幅大型动漫少女插画。在角色面部中心放置一个纯色不透明的淡粉色方块遮挡物，遮住眼睛、鼻子和嘴巴，但保留头发、耳饰、颈部和服装可见。在广告牌下方，布置 2 层透明亚克力产品架以及一个花卉底座。
+
+主要角色细节：广告插画展示了一位柔美、优雅的动漫少女，拥有极长的 {argument name="hair color" default="银白色"} 头发、白皙的皮肤、耳边的蓝色花卉发饰、小巧的耳环，以及带有浅蓝色水手风丝带的白色衬衫。整体氛围温柔、轻盈、精致且具有收藏价值。
+
+文字内容：包含优雅的英文和日式展示文字。醒目的文字应包括“Lumière Ciel”、“Limited Collaboration”、大型日文平假名品牌名“のぞむ”、间距排版的罗马音“NOZOMU”、“Blue Bloom Collection”以及一个写有“数量限定 / Limited Edition”的圆形徽章。包含较小的日文宣传文案和价格标签，但细小文字应以装饰性为主，看起来真实可信即可，无需完全清晰可辨。
+
+产品及数量：在亚克力货架上展示 10 组主要化妆品，每组配有白色小价格标签，部分标记为“Tester”（试用装）：1 个方形蓝色花卉眼影盒、1 个打开的四色眼影盘、1 个圆形粉色腮红盒、1 个圆形蓝色花卉粉饼盒、1 个多面切割淡蓝色香水瓶、1 套四支装粉蓝唇彩、1 支花卉管状产品、1 套三支装淡蓝色手柄化妆刷、1 个华丽的椭圆形手镜以及 1 个蓝色花卉化妆包。添加 2 张侧面宣传卡：左侧卡片展示“Special Present”礼品活动，包含化妆包和角色卡；右侧卡片展示“Original Charm”活动，包含带有蓝色花朵吊坠的金色链条挂件。在左后方和右上角徽章区域各添加 1 个圆形花卉装饰牌。
+
+视觉风格：高质量的 gpt-image-2 动漫商业插画与写实产品摄影相结合；光泽亚克力、玻璃反射、柔和的焦外成像、淡蓝色与白色调、细碎花朵、丝带元素，营造出高端限量化妆品柜台的质感。排版应采用优雅的衬线字体搭配手写体装饰。
+
+约束条件：保持展示柜对称，使其看起来像真实的店内限量化妆品专柜。使用 {argument name="theme color" default="淡天蓝色"} 作为主导强调色。不要添加超出上述 10 组之外的其他产品。无水印，无真实公司品牌 Logo，画面中不得出现人手，前景中不得出现顾客。
+
+[English]
+Goal: Create a dreamy anime-style limited-edition cosmetics retail display for {argument name="character name" default="Nozomu"}, themed as a pastel blue flower collaboration brand called {argument name="brand name" default="Lumière Ciel"}.
+
+Canvas: Vertical 4:5 promotional product-display image, front-facing view in a bright department-store cosmetics section. Use soft depth of field for the real store background, glossy acrylic shelves, pale blue lighting, sparkles, translucent reflections, and delicate flower petals floating across the scene.
+
+Layout: A large upright advertisement panel fills the back of the display. The left side contains elegant brand typography and campaign copy; the right side features a large anime girl illustration. Place a plain opaque pale pink square censor block over the center of the character’s face, covering eyes, nose, and mouth while leaving hair, ear accessories, neck, and outfit visible. Below the panel, arrange exactly 2 clear acrylic product tiers plus a floral base plinth.
+
+Main character details: The advertisement illustration shows a soft, elegant anime girl with very long {argument name="hair color" default="silvery white"} hair, pale skin, blue floral hair ornaments near the ear, small earrings, and a white blouse with a light blue sailor-style ribbon. The mood is gentle, airy, refined, and collectible.
+
+Text content: Include a mix of elegant English and Japanese-style display text. Prominent visible text should include “Lumière Ciel,” “Limited Collaboration,” large Japanese hiragana-style brand name “のぞむ,” spaced romanization “NOZOMU,” “Blue Bloom Collection,” and a circular badge reading “数量限定 / Limited Edition.” Include smaller Japanese promotional copy and price tags, but keep tiny text decorative and plausible rather than perfectly legible.
+
+Products and counts: Show exactly 10 main cosmetic product groups on the acrylic shelves, each with a small white price tag and some marked “Tester”: 1 square blue floral eyeshadow palette box, 1 open four-color eyeshadow palette, 1 round pink blush compact, 1 round blue floral face powder compact, 1 faceted pale blue perfume bottle, 1 set of four pink-blue lip gloss tubes, 1 floral tube product, 1 set of three makeup brushes with pale blue handles, 1 ornate oval hand mirror, and 1 blue floral cosmetic pouch. Add exactly 2 side promotional cards: left card for a “Special Present” gift campaign showing a pouch and character card, right card for an “Original Charm” campaign showing a gold chain charm with a blue flower pendant. Add exactly 2 floral circular sign decorations on the left/back and top-right badge area.
+
+Visual style: High-quality gpt-image-2 anime commercial illustration blended with realistic product photography; glossy acrylic, glass reflections, soft bokeh, pastel blue and white color palette, tiny blossoms, ribbon motifs, premium limited-cosmetics-counter feel. Typography should be elegant serif plus handwritten script accents.
+
+Constraints: Keep the display symmetrical and believable as an in-store limited cosmetics counter. Use {argument name="theme color" default="pale sky blue"} as the dominant accent color. Do not add extra product groups beyond the 10 listed. No watermark, no brand logos from real companies, no hands, no customers in the foreground.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2068328011422961987) | 2026-06-20
+
+---
+
+### 🎴 例 2047：赛博朋克特工杂志封面
+
+![赛博朋克特工杂志封面](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超写实的赛博朋克时尚杂志封面，主角为 {argument name="character name" default="Relina Jane"}，一位东亚女性战术特工，采用奢华科幻编辑风格，融合《攻壳机动队》与《赛博朋克 2077》的美学元素。
+
+画布：竖版杂志封面，3:4 长宽比，黑色未来城市背景，配以黄色全息 HUD 图形，高对比度电影级光效，8K 超写实画质，光面高级印刷质感。
+
+主体：居中腰部以上特工肖像，留着 {argument name="hair color and style" default="灰金色高马尾"}，皮肤质感真实，体格健美，身穿白色短款背心，外搭白色未来主义战术夹克及配套战术长裤。添加细节丰富的绑带、拉链、搭扣、装甲板、小型黄色科技标签、发光装饰、多功能腰带以及厚重的黑色赛博义体颈圈或颈部装置。她单手握住一把大型黑色未来科幻步枪横跨在肩上。步枪采用棱角分明的工业设计，带有导轨、通风口、黄色装饰线条及真实的金属磨损质感。她的脸部被一块与生成图像色调一致的肤色矩形隐私遮挡块覆盖。
+
+杂志刊头与排版：顶部横跨巨大的粗体压缩黄色标题 {argument name="magazine title" default="CYBERPUNK"}，部分位于角色头部和步枪后方。左侧顶部小字写着“NEON FUTURE MAGAZINE”，右侧为日式赛博朋克文字。左上角的大号黄色期号文字为 {argument name="issue number" default="2077"}。使用锐利的科技感字体、黄色网格线、微缩文字、十字准星图标、微小的加号以及发光界面细节。
+
+布局与计数元素：包含 1 张主中心肖像，右侧堆叠 3 个较小的肖像内嵌框，每个框展示同一位特工从略微不同的角度拍摄的画面，且均带有相同的肤色矩形脸部遮挡块。包含 4 个主要的黄色全息信息面板：1 个左中部的武器蓝图面板，标注“M-X9 ACHILLES”并附带步枪图表及规格；1 个左下角的赛博义体界面面板，标注“CYBERNETIC INTERFACE”并附带头部扫描图及“100%”字样；1 个中右下方的特工资料面板，标注“OPERATIVE PROFILE”；以及 1 个右下角的任务概览面板，显示夜间城市天际线及“SUCCESS PROBABILITY 97.6%”。
+
+可见文字细节：在左侧期号下方，包含“SPECIAL COLLECTOR'S EDITION”、“MODEL”、“RELINA JANE”、“TACTICAL OPERATIVE”、“CLEARANCE: OMEGA”以及“STATUS: ACTIVE”。在右侧资料面板中包含紧凑的技术参数行，如 ID、角色、专长、所属组织及威胁等级。在任务概览面板中包含行动、目标、地点、时间以及大号百分比“97.6%”。底部添加一个小条形码及页脚文字“NEON FUTURE MAGAZINE // ISSUE 77”。
+
+视觉风格：超精细的编辑写实主义，赛博朋克黑底黄字 UI 叠加，金属白与炭黑色调，真实的织物纹理，光泽感装甲，戏剧性的轮廓光，浅景深，未来城市虚化背景，高级收藏版封面设计。保持构图紧凑且易读，明亮的黄色刊头占据上半部分。
+
+[English]
+Goal: Create an ultra-photorealistic cyberpunk fashion magazine cover featuring {argument name="character name" default="Relina Jane"}, an East Asian female tactical operative in a luxury sci-fi editorial style, blending Ghost in the Shell and Cyberpunk 2077 aesthetics.
+
+Canvas: Vertical magazine cover, 3:4 aspect ratio, black futuristic city background with yellow holographic HUD graphics, high contrast cinematic lighting, 8K photorealism, glossy premium print finish.
+
+Main subject: Centered waist-up female operative with {argument name="hair color and style" default="ash-blonde high ponytail"}, realistic skin, athletic build, wearing a white cropped tank top under a white futuristic tactical jacket and matching white tactical pants. Add detailed straps, zippers, buckles, armor plates, small yellow tech labels, illuminated accents, utility belt, and a bulky black cybernetic collar or neck device. She holds a large black futuristic sci-fi rifle across her shoulders with one hand gripping the stock. The rifle has angular industrial design, rails, vents, yellow accent lines, and realistic worn metal texture. Her face is covered by a flat rectangular skin-toned privacy block, matching the generated image.
+
+Magazine masthead and typography: Huge bold condensed yellow title across the top reading {argument name="magazine title" default="CYBERPUNK"}, partially behind the character’s head and rifle. Small top text reads "NEON FUTURE MAGAZINE" on the left and Japanese-style cyberpunk text on the right. Large yellow issue text on the upper left reads {argument name="issue number" default="2077"}. Use sharp techno fonts, yellow grid lines, microtext, crosshair icons, tiny plus signs, and glowing interface details.
+
+Layout and counted elements: Include exactly 1 main central portrait and exactly 3 smaller stacked portrait inset frames on the right side, each showing the same operative from slightly different angles with the same skin-toned rectangular face block. Include exactly 4 major yellow holographic information panels: 1 left-middle weapons blueprint panel labeled "M-X9 ACHILLES" with a rifle diagram and specs, 1 bottom-left cybernetic interface panel labeled "CYBERNETIC INTERFACE" with a head scan and "100%", 1 mid-lower-right operative profile panel labeled "OPERATIVE PROFILE", and 1 bottom-right mission overview panel showing a night city skyline and "SUCCESS PROBABILITY 97.6%".
+
+Visible text details: On the left under the issue number, include "SPECIAL COLLECTOR'S EDITION", "MODEL", "RELINA JANE", "TACTICAL OPERATIVE", "CLEARANCE: OMEGA", and "STATUS: ACTIVE". In the right profile panel include compact technical lines such as ID, role, specialty, affiliation, and threat level. In the mission overview panel include operation, objective, location, time, and the large percentage "97.6%". Add a small barcode and footer text reading "NEON FUTURE MAGAZINE // ISSUE 77" along the bottom.
+
+Visual style: Hyper-detailed editorial realism, cyberpunk yellow-on-black UI overlays, metallic whites and charcoal blacks, realistic fabric texture, glossy armor, dramatic rim lighting, shallow depth of field, futuristic city bokeh, premium collector’s edition cover design. Keep the composition dense but readable, with the bright yellow masthead dominating the top half.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2068324174716961032) | 2026-06-20
+
+---
+
+### 🎴 例 2072：提示词：
+
+使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发
+
+![提示词：
+
+使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E5%8F%91%E5%9E%8B%E7%89%B9%E5%BE%81%E3%80%81%E9%BB%91%E8%89%B2%E9%95%BF%E5%8D%B7%E5%8F%91.jpg)
+
+**Prompt:**
+
+```text
+使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发与圆框眼镜，不要生成陌生人脸，不要过度美颜，不要塑料皮肤。人物设定为 22–28 岁成年东亚女性，气质温柔、清爽、可爱、带一点书卷气和轻微俏皮感。
+
+生成一组夏日文艺少女感写真海报，竖版 3:4
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2068185566475366886) | 2026-06-20
+
+---
+
+### 🎴 例 2080：奢华 6 岁生日海报
+
+![奢华 6 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%206%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张专业的奢华生日海报，比例为竖版 3:4。使用优雅的雪白色纹理纸墙填满整个画面，右上角投射柔和的暖色调摄影棚灯光，营造出逼真的阴影和高端的杂志编辑质感。设计中心为两个巨大的墙面雕刻数字，即 2 个独立的数字：左侧为“0”，右侧为“6”，共同组成数字 {argument name="birthday age" default="06"}。数字采用深嵌入墙体的设计，边缘圆润，具有厚实的体积感、逼真的内部阴影以及奶油白色的石膏质感。在镂空数字的内部及后方，展示精致的生日装饰，包含 46 个清晰可见的气球，排列成两个密集的球链簇：海军蓝、淡粉蓝、白色和珍珠灰气球，以及 2 个淡蓝色金属质感星形气球。在镂空底部放置 4 组小型花艺装饰，使用白玫瑰、绣球花、小花朵和绿植。画面中放置一名时尚小男孩，部分身体位于右侧数字前方及两个数字之间，单膝抬起，另一条腿自然放松下垂，身穿橙色卫衣、鼠尾草绿翻边长裤、棕色与奶油色拼色乐福鞋、白色短袜，颈部挂着银色耳机；面部进行柔焦或匿名化处理，同时保持姿势和服装的清晰度。镂空内部使用大理石地台，背景采用微妙的米色镶板。添加 3 行文字：顶部为大型雕刻衬线字体 {argument name="child name" default="HIIRA"}；下方为较小的全大写衬线字体 {argument name="chapter text" default="CHAPTER 28"}；底部为宽间距全大写衬线字体 {argument name="bottom quote" default="365 MORE DAYS OF MIRACLES"}。排版应优雅，采用细至中等粗细的衬线字体，呈现灰色浮雕/雕刻效果，并完美居中。配色保持奢华简约：白色、奶油色、灰色、海军蓝、淡蓝色、鼠尾草绿和暖橙色。无 Logo，无水印，无额外文字，非卡通风格。
+
+[English]
+Create a professional luxury birthday poster in a vertical 3:4 ratio. Use an elegant snow-white textured paper wall filling the entire frame, with soft warm studio lighting from the upper right, realistic shadows, and a premium editorial look. Center the design around two giant carved wall numerals, exactly 2 discrete digits: “0” on the left and “6” on the right, forming the number {argument name="birthday age" default="06"}. The numerals are cut deeply into the wall with rounded edges, thick volumetric depth, realistic inner shadows, and a cream-white plaster texture. Inside and behind the cutout digits, show a refined birthday installation with exactly 46 visible balloons arranged as two dense garland clusters: navy blue, pale powder blue, white, and pearl gray balloons, plus 2 metallic star balloons in pale blue. Add exactly 4 white floral arrangements in small vases along the bottom of the cutouts, using white roses, hydrangeas, small blossoms, and greenery. Place one stylish young boy sitting partly in front of the right digit and between the numerals, one knee raised and one leg relaxed downward, wearing an orange sweatshirt, sage green cuffed trousers, brown-and-cream loafers, white socks, and silver headphones around his neck; his face is softly blurred or anonymized while keeping the pose and outfit sharp. Use a marble floor ledge inside the cutouts and subtle beige paneling in the background. Add exactly 3 text lines: at the top, large engraved serif text {argument name="child name" default="HIIRA"}; below it, smaller uppercase serif text {argument name="chapter text" default="CHAPTER 28"}; at the bottom, wide-spaced uppercase serif text {argument name="bottom quote" default="365 MORE DAYS OF MIRACLES"}. Typography should be elegant, thin-to-medium serif, gray embossed/engraved effect, perfectly centered. Keep the palette luxurious and minimal: white, cream, gray, navy, pale blue, sage, and warm orange. No logos, no watermark, no extra text, no cartoon style.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2068160107868041682) | 2026-06-20
+
+---
+
