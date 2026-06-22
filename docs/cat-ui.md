@@ -3964,3 +3964,179 @@ Create a vertical 9:16 anime-style illustration of a cute chibi cat-eared advent
 
 ---
 
+### 🖥️ 例 2098：无面暗影忍者角色设计图
+
+![无面暗影忍者角色设计图](../../images/%E6%97%A0%E9%9D%A2%E6%9A%97%E5%BD%B1%E5%BF%8D%E8%80%85%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的动漫角色概念设计图，塑造一名暗影忍者战士，适用于资产文件夹或角色设计参考。
+
+画布：1:1 正方形画布，浅暖灰色背景，带有淡淡的辅助线，精致的数字插画，清晰的勾线，赛璐珞动漫渲染，无水印。
+
+布局：在设计图上展示 3 个完整的全身角色视图：左侧为 1 个正面站立姿势，中间为 1 个动态战斗姿势，右侧为 1 个背面站立姿势。添加 2 个嵌入式参考面板：右上角为 1 个小型正方形头部特写，右下角为 1 个小型正方形黑色动作剪影。
+
+角色细节：将 {argument name="character name" default="无面暗影忍者"} 描绘为一名年轻的男性动漫忍者，拥有狂野的尖刺状 {argument name="hair color" default="黑色头发"}，面部区域刻意留白或模糊，无可见五官，体格健壮，散发着严肃的潜行战士气息。服装为分层的深色忍者装束，颜色为 {argument name="outfit colors" default="深海军蓝、炭黑色、柔和酒红色及灰白色点缀"}：无袖深色裹身长袍内搭长袖，宽松的袴式裤装，护胫，护臂，露指手套，足袋，长腰带和飘逸的布条。在背面视图中，包含一个斜挎在背后的圆柱形卷轴盒，带有浅色羊皮纸面板和深色标记。
+
+姿势数量与内容：左侧姿势：全身正面视图，双腿分开站立，一只拳头下垂，长长的白色和酒红色腰带垂下并随风飘动。中间姿势：全身动作姿势，身体在扭转的武术动作中转向一侧，一只手臂伸展，膝盖弯曲，布带向外飞舞，周围环绕着黑色水墨笔触的能量弧和飞溅痕迹。右侧姿势：全身背面视图，直立站立，卷轴盒在背部清晰可见，长腰带尾部向侧面拖曳。右上角嵌入图：裁剪后的头部与头发特写，采用相同的无面处理。右下角嵌入图：同一忍者在戏剧性动作姿势下的纯黑色剪影，带有飘动的布条。
+
+视觉风格：高质量漫画/动漫概念艺术，锐利的动态剪影，细致的褶皱和接缝，黑色织物上带有微妙的蓝灰色高光，自信的角色设计图展示。保持所有元素在灰色背景上清晰分离，避免添加额外的道具、文字标签、标志或背景场景。
+
+[English]
+Goal: Create a clean anime character concept sheet for a dark ninja warrior, suitable for an asset folder or character design reference.
+
+Canvas: Square 1:1 canvas, light warm-gray background with faint construction guide lines, polished digital illustration, crisp inked linework, cel-shaded anime rendering, no watermark.
+
+Layout: Show exactly 3 full-body character views across the sheet: 1 front standing pose on the left, 1 dynamic combat action pose in the center, and 1 back standing pose on the right. Add exactly 2 inset reference panels: 1 small square head close-up in the upper-right corner and 1 small square black silhouette action pose in the lower-right corner.
+
+Character details: Depict {argument name="character name" default="a faceless shadow ninja"} as a young male anime shinobi with wild spiky {argument name="hair color" default="black hair"}, an intentionally blank/blurred face area with no visible facial features, athletic build, and a serious stealth-warrior presence. Outfit is a layered dark shinobi costume in {argument name="outfit colors" default="deep navy, charcoal black, muted burgundy, and off-white accents"}: sleeveless dark wrap tunic over long sleeves, loose hakama-style pants, shin guards, arm guards, fingerless gloves, tabi boots, long waist sashes and trailing cloth strips. Include a cylindrical scroll case strapped diagonally across the back in the rear view, with light parchment panels and dark markings.
+
+Pose count and content: Left pose: full-body front view, standing with legs apart, one fist lowered, long white and burgundy waist ties hanging and flowing. Center pose: full-body action stance, body turned away in a twisting martial-arts movement, one arm extended, knees bent, cloth belts whipping outward, surrounded by black ink-brush energy arcs and splatter marks. Right pose: full-body rear view, standing upright with the scroll case visible across the back and long sash tails trailing to the side. Upper-right inset: cropped head-and-hair close-up with the same blank face treatment. Lower-right inset: solid black silhouette of the same ninja in a dramatic action stance with trailing cloth strips.
+
+Visual style: High-quality manga/anime concept art, sharp dynamic silhouettes, detailed folds and seams, subtle blue-gray highlights on black fabric, confident character-design sheet presentation. Keep all elements separated clearly on the gray sheet and avoid extra props, text labels, logos, or background scenery.
+```
+
+**来源：** [@Kennedy Hugo](https://x.com/KennedyHug42411/status/2068798112403976521) | 2026-06-21
+
+---
+
+### 🖥️ 例 2099：空间站零重力侧踢
+
+![空间站零重力侧踢](../../images/%E7%A9%BA%E9%97%B4%E7%AB%99%E9%9B%B6%E9%87%8D%E5%8A%9B%E4%BE%A7%E8%B8%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影感宽屏科幻动漫动作插画，场景位于受损的轨道空间站走廊内，透过巨大的全景窗可以看到地球和深邃的太空。画面中精准呈现了两个处于零重力状态的装甲人物：右侧是 {argument name="attacking astronaut suit color" default="青绿色"} 的动力宇航服，背部、肩部和靴子上带有发光的蓝白色喷气推进器，正从右向左水平飞行并全力踢出一记侧踢；左侧是 {argument name="defender armor color" default="米色和深灰色"} 的人形战斗机器人或装甲宇航员，正因受到踢击而向后反弹，胸部破碎，碎片和火花向外迸发。攻击者的腿部完全伸展踢向防御者的躯干，一只手臂向前冲出，另一只手臂向后拉，身体动态倾斜，仿佛由宇航服的喷气动力推进。精确计算主要可见主体和效果：2 个装甲人物，1 个巨大的弧形观察窗，1 个带有云层漩涡的蓝色地球地平线视野，窗外 1 颗小型卫星，2 个侧面阳台平台，右下角 1 个控制台，大量漂浮的金属碎片和玻璃碎片，以及穿过房间的多个橙色火花和蓝色能量轨迹。采用精致的日本动漫 / 图像小说风格，具有清晰的墨线勾勒、戏剧性的透视、高对比度的赛璐珞阴影，以及细致的机械面板、管道、栏杆和科幻墙面接缝。光影应呈现来自地球和窗户的冷青色，并辅以橙色的冲击火花和鲜艳的蓝色推进器光芒。构图需具备动态感和对角线张力，利用碎片轨迹和运动弧线强调失重状态下的移动。画布：{argument name="aspect ratio" default="16:9 宽屏"}。氛围：{argument name="mood" default="激烈的轨道战斗"}。无文字，无 Logo，无水印。
+
+[English]
+Create a cinematic widescreen sci-fi anime action illustration inside a damaged orbital space station corridor, with Earth and deep space visible through a huge panoramic window. The scene shows exactly two armored figures in zero gravity: on the right, {argument name="attacking astronaut suit color" default="teal green"} powered astronaut armor with glowing blue-white jet thrusters on the back, shoulders, and boots, flying horizontally from right to left and delivering a full-force side kick; on the left, {argument name="defender armor color" default="beige and dark gray"} humanoid combat android or armored astronaut recoils from the kick, chest shattered with fragments and sparks bursting outward. The attacker’s leg is fully extended into the defender’s torso, one arm punched forward and the other pulled back, body tilted dynamically as if propelled by suit jets. Count the major visible subjects and effects precisely: 2 armored figures, 1 enormous curved observation window, 1 view of Earth’s blue horizon with swirling clouds, 1 small satellite outside the window, 2 side balcony platforms, 1 control console at lower right, many floating metal shards and glass fragments, and multiple orange sparks and blue energy streaks arcing through the room. Use a polished Japanese anime / graphic novel style with crisp ink outlines, dramatic perspective, high contrast cel shading, detailed mechanical panels, pipes, rails, and sci-fi wall seams. Lighting should be cold cyan from Earth and the window, accented by orange impact sparks and vivid blue thruster glows. Make the composition dynamic and diagonal, with debris trails and motion arcs emphasizing weightless movement. Canvas: {argument name="aspect ratio" default="16:9 widescreen"}. Mood: {argument name="mood" default="intense orbital combat"}. No text, no logos, no watermark.
+```
+
+**来源：** [@Cleveland Tobias](https://x.com/ClevelandT76275/status/2068797557153603988) | 2026-06-21
+
+---
+
+### 🖥️ 例 2105：电影级体育场项目
+
+![电影级体育场项目](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E4%BD%93%E8%82%B2%E5%9C%BA%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个电影级、信息密集型的 {argument name="venue name" default="FIFA 世界杯体育场"} 项目，设计为专业的电影/游戏环境参考表。
+
+画布：宽屏 16:9 水平项目，采用深炭灰/黑色纹理背景，配有细黄色引导线、微妙的网格标记，以及现代体育转播制作的设计感。在边框面板内使用清晰的照片级真实感体育场图像，并配以白色和黄色的紧凑型大写字体。
+
+主标题：左侧大号垂直标题，文字为“LOCATION BOARD”。
+
+左侧信息栏：包含 10 行带标签的元数据：名称：{argument name="venue name" default="FIFA 世界杯体育场"}；类型：足球场；时代：2010 年代至今；规模：大型（8 万人以上容量）；建筑：带有开放式屋顶和钢桁架结构的现代体育场；材质：钢材、混凝土、玻璃、塑料座椅、LED 显示屏；氛围：热烈、充满活力、庞大的人群、世界级赛事；默认时间：中午；默认天气：晴朗；用途：国际足球比赛、锦标赛、大型活动。
+
+中央主面板：一张大型定场镜头，标注为“ESTABLISHING SHOT (HERO VIEW)”，展示从球门后方拍摄的现代足球场，郁郁葱葱的绿色球场，球场上微小的球员，明亮的日光，钢制屋顶环，巨型屏幕，蓝色座椅点缀，以及密集的人群。
+
+面板 01 — 视角：展示 5 个缩略图，分别标注为 Wide（广角）、Mid（中景）、Tight（特写）、Alt Angle（备选角度）和 Overhead（俯视）。Wide 展示整个球场和看台；Mid 更靠近球场和人群；Tight 更侧重于球场/人群细节；Alt Angle 是对角线体育场视角；Overhead 是球场的高空俯视图。
+
+面板 02 — 时间（同一角度）：展示 4 个缩略图，分别标注为 Dawn（黎明）、Noon（中午）、Dusk（黄昏）和 Night（夜晚），每个缩略图使用相同的体育场角度，但光照条件不同。
+
+面板 03 — 细节：展示 2 个特写细节图像，分别标注为 Seat Material / Texture（座椅材质/纹理）和 Roof Truss & Lighting Detail（屋顶桁架及灯光细节）。座椅材质应为带有水滴/纹理的蓝色塑料体育场座椅；屋顶细节应展示钢桁架和体育场灯光。
+
+面板 04 — 场景布置/道具：展示 5 个独立的道具图像，分别标注为 FIFA Signage（FIFA 标识）、Corner Flag（角旗）、Match Ball（比赛用球）、Sub Board（换人牌）和 Water Bottle（水瓶）。包括一个蓝色 FIFA 标志、一个蓝色角旗、一个有花纹的足球、一个数字换人牌和一个蓝色运动水瓶。
+
+面板 05 — 天气/氛围（同一角度）：展示 4 个缩略图，分别标注为 Clear Sunny（晴朗）、Overcast（阴天）、Rain-Soaked（雨天）和 Misty Fog（雾天），全部采用相同的体育场角度。
+
+面板 06 — 色板（取自场景）：展示 6 个矩形色块，带有十六进制标签：#4A6F37 深草坪绿、#7EA23A 亮草坪绿、#1E6DB7 体育场蓝、#69B6E7 天蓝、#B9B9B9 混凝土灰和 #C0392B 红色点缀。
+
+页脚：添加一个细边框注释，文字为“Use this location board as a visual reference for consistent depiction of the environment across all generations.”。在右下角，添加一行风格标签，文字为“STYLE  Modern  •  Realistic  •  Cinematic”。
+
+视觉风格：照片级真实感体育场图像，高细节建筑参考项目，电影级真实感，整洁的网格布局，统一的面板边框，微妙的磨损纹理，黄色技术标注，近景前景中无人，仅有远处的观众和球员。保持所有文字清晰且对齐。
+
+[English]
+Goal: Create a cinematic, information-dense location board for a {argument name="venue name" default="FIFA World Cup Stadium"}, designed as a professional film/game environment reference sheet.
+
+Canvas: Wide 16:9 horizontal board with a dark charcoal/black textured background, thin yellow guide lines, subtle grid marks, and a modern sports-broadcast production design feel. Use crisp photo-realistic stadium imagery inside bordered panels, with condensed uppercase typography in white and yellow.
+
+Main title: Large vertical-left header reading “LOCATION BOARD”.
+
+Left information column: Include 10 labeled metadata rows: Name: {argument name="venue name" default="FIFA World Cup Stadium"}; Type: Football / Soccer Stadium; Era: 2010s – Present; Scale: Large (80,000+ capacity); Architecture: Contemporary stadium with open roof & steel truss structure; Materials: Steel, concrete, glass, plastic seating, LED displays; Atmosphere: Electric, energetic, massive crowd, world-class event; Default time: Noon; Default weather: Clear, sunny; Purpose: International football matches, tournaments, large-scale events.
+
+Central hero panel: One large establishing shot labeled “ESTABLISHING SHOT (HERO VIEW)”, showing a packed modern soccer stadium from behind one goal, lush green pitch, players tiny on the field, bright daylight, steel roof ring, giant screens, blue seating accents, and a dense crowd.
+
+Panel 01 — Views: Show exactly 5 view thumbnails labeled Wide, Mid, Tight, Alt Angle, and Overhead. Wide shows the full field and stands; Mid is closer to the pitch and crowd; Tight focuses more on field/crowd detail; Alt Angle is a diagonal stadium view; Overhead is a high top-down view of the pitch.
+
+Panel 02 — Time of Day (Same Angle): Show exactly 4 thumbnails labeled Dawn, Noon, Dusk, and Night, each using the same stadium angle with different lighting conditions.
+
+Panel 03 — Details: Show exactly 2 close-up detail images labeled Seat Material / Texture and Roof Truss & Lighting Detail. Seat material should be a blue plastic stadium seat with droplets/texture; roof detail should show steel trusses and stadium lighting.
+
+Panel 04 — Set Dressing / Props: Show exactly 5 isolated prop images labeled FIFA Signage, Corner Flag, Match Ball, Sub Board, and Water Bottle. Include a blue FIFA sign, a blue corner flag, a patterned soccer ball, a digital substitution board, and a blue sports water bottle.
+
+Panel 05 — Weather / Mood (Same Angle): Show exactly 4 thumbnails labeled Clear Sunny, Overcast, Rain-Soaked, and Misty Fog, all from the same stadium angle.
+
+Panel 06 — Color Palette (From Location): Show exactly 6 rectangular color swatches with hex labels: #4A6F37 deep field green, #7EA23A bright grass green, #1E6DB7 stadium blue, #69B6E7 sky blue, #B9B9B9 concrete gray, and #C0392B red accent.
+
+Footer: Add a thin boxed note reading “Use this location board as a visual reference for consistent depiction of the environment across all generations.” On the bottom right, add a style tag row reading “STYLE  Modern  •  Realistic  •  Cinematic”.
+
+Visual style: Photorealistic sports venue imagery, high-detail architectural reference board, cinematic realism, clean grid layout, consistent panel borders, subtle grunge texture, yellow technical annotations, no people in close-up foreground except distant crowd and players. Keep all text legible and aligned.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2068724473730396323) | 2026-06-21
+
+---
+
+### 🖥️ 例 2121：雨中东京小巷的动漫少女
+
+![雨中东京小巷的动漫少女](../../images/%E9%9B%A8%E4%B8%AD%E4%B8%9C%E4%BA%AC%E5%B0%8F%E5%B7%B7%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫风格夜间街道插画，画面中 {argument name="character name" default="一位文静的少女"} 全身站立在雨后狭窄的东京小巷中央，采用低机位视角。她留着 {argument name="hair color" default="灰金色短波波头，留着齐刘海"}，肤色白皙，双眸深邃，神情平静而略带忧郁，正看向观者。她身穿一件超大号深色连帽外套，配有厚实的口袋，下着深色短裙，穿着黑色短袜和米色厚底运动鞋，双手插在衣兜里。在她身后，东京塔位于画面正上方，像一座发光的尖塔耸立在远方，其明亮的中心灯光形成了一圈温暖的光晕，与深蓝色的夜空形成鲜明对比。小巷细节丰富：两侧是高耸狭窄的建筑，布满空调外机、店铺卷帘门、小招牌、路灯、电线杆、错综复杂的架空电线、阳台、管道，以及带有积水的湿润反光路面。建筑和路灯采用青色和蓝绿色调，与东京塔及店铺内部发出的温暖橙色光芒形成对比。构图应具有电影感和些许超现实色彩，强调透视深度、情绪化光影、清晰的漫画线条、柔和的绘画质感、湿润的反光地面，以及左侧前景中微妙的虚化灯光。保持角色在背景透视中的比例略大，营造出一种比例虽不完美但视觉上极具魅力的效果。画面中不要出现可辨认的文字、多余角色、车辆或水印。
+
+[English]
+Create a vertical anime-style night street illustration of {argument name="character name" default="a quiet teenage girl"} standing full-body in the middle of a narrow Tokyo back alley after rain, viewed from a low street-level perspective. She has {argument name="hair color" default="short ash-blonde bob hair with straight bangs"}, pale skin, large muted eyes, and a calm slightly melancholy expression, looking toward the viewer. She wears an oversized dark hooded jacket with bulky pockets, a short dark skirt, black ankle socks, and chunky beige sneakers, hands tucked into her jacket pockets. Behind her, perfectly centered above her head, the illuminated orange-and-white Tokyo Tower rises in the distance like a glowing spire, with its bright central light creating a warm halo that contrasts against the deep blue night sky. The alley is dense with urban details: tall narrow buildings on both sides, air-conditioning units, shop shutters, small signs, street lamps, utility poles, tangled overhead power lines, balconies, pipes, and wet reflective pavement with puddles. Use a teal-and-cyan color palette for the buildings and street lighting, with warm orange highlights from the tower and shop interiors. The composition should feel cinematic and slightly surreal, with strong perspective depth, moody lighting, crisp manga linework, soft painterly shading, reflective wet ground, and subtle bokeh lights in the foreground on the left. Keep the character noticeably large compared with the background perspective, as if the scale is slightly imperfect but visually charming. No readable text, no extra characters, no vehicles, no watermark.
+```
+
+**来源：** [@achi@AIイラスト](https://x.com/achi_ej2024/status/2068667989977887217) | 2026-06-21
+
+---
+
+### 🖥️ 例 2124：分层剪纸风格插画
+
+![分层剪纸风格插画](../../images/%E5%88%86%E5%B1%82%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+分层剪纸风格插画，主题为 {argument name="subject" default="[subject]"}，由柔和的 {argument name="primary color" default="[color1]"} 和 {argument name="secondary color" default="[color2]"} 色调的重叠形状构成，采用手工质感，层间带有微妙阴影，边缘清晰的矢量风格，以哑光奶油色背景为中心，呈现出奇幻而现代的视觉叙事效果。
+
+[English]
+Layered paper-cut illustration of {argument name="subject" default="[subject]"}, built with overlapping shapes in soft {argument name="primary color" default="[color1]"} and {argument name="secondary color" default="[color2]"}, handcrafted textures, subtle shadows between layers, clean vector edges, centered on a matte cream background, whimsical and modern visual storytelling.
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2068654947500224545) | 2026-06-21
+
+---
+
+### 🖥️ 例 2134：世界杯黑马球队可视化
+
+![世界杯黑马球队可视化](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E9%BB%91%E9%A9%AC%E7%90%83%E9%98%9F%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，为 4 支入围 {argument name="world cup year" default="2026 年世界杯"} 的黑马球队执行此操作，16:9 void main() { string team = "{argument name="team name" default="[球队名称]"}"; // 基于球队的语义解剖映射 mat4 beast = infer_mascot_anatomy(team); // 例如：bull()、raptor()、kraken() vec3 base_mat = infer_team_primary_material(team); vec3 accent_mat = infer_team_accent_colors(team); // 纹理与形态 apply_texture(beast, base_mat, accent_mat); add_battle_scars_and_breath_fog(beast); // 渲染 render_mesh(beast, base_mat, accent_mat); apply_lighting(nat_geo_low_angle, stadium_dust: true); // UI 叠加层（无深度，纯 2D） draw_2D_overlay(top_left, infer_team_logo(team)); }
+
+[English]
+2x2 grid, do this for 4 dark horse teams that qualified for {argument name="world cup year" default="World Cup 2026"}, 16:9 void main() { string team = "{argument name="team name" default="[TEAM]"}"; // Semantic Anatomy Mapping based on Team mat4 beast = infer_mascot_anatomy(team); // e.g., bull(), raptor(), kraken() vec3 base_mat = infer_team_primary_material(team); vec3 accent_mat = infer_team_accent_colors(team); // Texture & Form apply_texture(beast, base_mat, accent_mat); add_battle_scars_and_breath_fog(beast); // Render render_mesh(beast, base_mat, accent_mat); apply_lighting(nat_geo_low_angle, stadium_dust: true); // UI Overlay (No depth, pure 2D) draw_2D_overlay(top_left, infer_team_logo(team)); }
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2068607352329458007) | 2026-06-21
+
+---
+

@@ -5491,3 +5491,197 @@ Create a cinematic horizontal title card for a classical music video about {argu
 
 ---
 
+### 🏷️ 例 2106：加拿大橄榄球角色项目
+
+![加拿大橄榄球角色项目](../../images/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A9%84%E6%A6%84%E7%90%83%E8%A7%92%E8%89%B2%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一名虚构的加拿大职业橄榄球运动员创建一份完整的电影级角色参考项目，该运动员名为 {argument name="character name" default="Canadian Titan"}，旨在作为动画或图像生成的生产级视觉一致性表。
+
+画布：宽屏 16:9 横向项目，深炭灰色/黑色纹理技术背景，带有细黄色网格线、圆角面板边框、细微的颗粒感，以及大胆的体育考察档案美学。使用高对比度的黄色排版和白色微型标签。左上角的主标题以巨大的压缩块状字母写着“CHARACTER BOARD”。
+
+主体：一名超写实、肌肉发达的男性橄榄球运动员，31 岁，身高 6 英尺 2 英寸 / 188 厘米，宽肩，粗颈，强健的下颌线，络腮胡，短金发，蓝眼睛，身穿 {argument name="uniform description" default="红色加拿大橄榄球装备，带有白色 99 号，白色短裤，红白相间的袜子，带有枫叶细节的白色球鞋"}。展现出他纪律严明、坚韧不拔、自信、专注且不可动摇的特质。面部可以进行柔和的匿名化/模糊处理，同时保持身体、制服和姿势清晰。
+
+布局及所需独立元素：
+- 左侧：一个大型全身英雄渲染图，展示球员身穿红色球衣和白色短裤正面站立，占据项目左侧三分之一。
+- 英雄渲染图旁边：一张垂直个人信息卡，包含 10 个精确标注的条目：姓名“Canadian Titan”，年龄“31”，身高“6'2” (188 cm)”，体格“超肌肉力量型”，头发“短金发”，眼睛“蓝色”，特征“强健下颌线，络腮胡，宽肩，粗颈”，服装“加拿大橄榄球装备，红色球衣 #99，白色短裤，红/白袜子，带枫叶的球鞋”，性格“纪律严明，坚韧不拔，领导者，竞争者，守护者”，情绪“自信，专注，不可动摇”。
+- 面板 01 — 视图：精确的 4 个全身转向渲染图，标注为正面、左侧 3/4、左侧、背面；全部展示相同的球员和制服，背面视图清晰显示 99 号。
+- 面板 02 — 表情：精确的 5 个半身肖像，标注为中性、微笑、沉思、专注、严肃；全部在胸部位置裁剪，身穿相同的红色球衣和枫叶徽章。
+- 面板 03 — 服装细节：精确的 1 个红色球衣面料特写，展示白色枫叶胸章、Nike 风格的钩子标志以及部分巨大的白色数字。
+- 面板 04 — 服装平铺图：精确的 5 个物品卡，标注为球衣（正面）、短裤（正面）、袜子、球鞋、徽章细节；展示红色 #99 球衣、白色短裤、红/白条纹袜子、带有红色枫叶装饰的白色球鞋，以及枫叶徽章贴片的特写。
+- 面板 05 — 光影/情绪：精确的 4 个半身光影变体，标注为柔和日光、温暖钨丝灯室内、冷蓝色夜景、硬朗电影级侧光。
+- 面板 06 — 色板：精确的 6 个矩形色块，标注为 #B31117, #BA0E14, #EDEDEF, #C9CED6, #D7B49E, #9E7B67。
+
+文字与样式：使用清晰易读的英文标签。左下角注释写着：“使用此角色项目作为在所有生成中保持角色一致性的视觉参考。”右下角页脚写着：“STYLE · Modern · Realistic · Cinematic”。保持精致的写实体育摄影外观，具备电影级光影、清晰的制服纹理、真实的解剖结构以及整洁有序的面板间距。不要添加额外的面板、额外的球员、额外的数字、除通用体育标志以外的商标，或不相关的道具。
+
+[English]
+Goal: Create a full cinematic character reference board for a fictional professional Canadian football player named {argument name="character name" default="Canadian Titan"}, designed as a production-ready visual consistency sheet for animation or image generation.
+
+Canvas: Wide 16:9 horizontal board, dark charcoal/black textured technical background with thin yellow grid lines, rounded panel borders, subtle grunge speckles, and a bold sports-scouting dossier aesthetic. Use high-contrast yellow typography and white micro-labels. Main title at top left reads “CHARACTER BOARD” in huge condensed block letters.
+
+Main subject: A hyper-realistic, ultra-muscular male football athlete, age 31, 6'2" / 188 cm, broad shoulders, thick neck, strong jawline, full beard, short blond hair, blue eyes, wearing a {argument name="uniform description" default="red Canadian football kit with white number 99, white shorts, red-and-white socks, white cleats with maple leaf details"}. Show him as disciplined, relentless, confident, focused, and unyielding. Face may be softly anonymized/blurred while keeping the body, uniform, and pose sharp.
+
+Layout and required discrete elements:
+- Left side: one large full-body hero render of the player standing front-facing in the red jersey and white shorts, taking up the left third of the board.
+- Beside the hero render: one vertical profile information card with exactly 10 labeled entries: Name “Canadian Titan”, Age “31”, Height “6'2” (188 cm)”, Build “Ultra-muscular powerhouse”, Hair “Short blond”, Eyes “Blue”, Features “Strong jawline, full beard, broad shoulders, thick neck”, Outfit “Canada football kit, red jersey #99, white shorts, red/white socks, cleats with maple leaf”, Character “Disciplined, relentless, leader, competitor, protector”, Mood “Confident, focused, unyielding”.
+- Panel 01 — Views: exactly 4 full-body turnaround renders labeled Front, 3/4 Left, Side Left, Back; all show the same player and uniform, with the back view clearly showing number 99.
+- Panel 02 — Expressions: exactly 5 bust portraits labeled Neutral, Smile, Thoughtful, Focused, Serious; all cropped across the chest with the same red jersey and maple leaf emblem.
+- Panel 03 — Outfit Detail: exactly 1 close-up crop of the red jersey fabric showing the white maple leaf chest emblem, Nike-style swoosh, and part of the large white number.
+- Panel 04 — Outfit Flat-Lays: exactly 5 item cards labeled Jersey (Front), Shorts (Front), Socks, Cleats, Crest Detail; show the red #99 jersey, white shorts, red/white striped socks, white cleats with red maple leaf accents, and a close-up maple leaf crest patch.
+- Panel 05 — Lighting / Mood: exactly 4 bust lighting variants labeled Soft Daylight, Warm Tungsten Interior, Cool Blue Night, Hard Cinematic Side-Light.
+- Panel 06 — Color Palette: exactly 6 rectangular swatches labeled #B31117, #BA0E14, #EDEDEF, #C9CED6, #D7B49E, #9E7B67.
+
+Text and styling: Use crisp legible English labels. Bottom left note reads: “Use this character board as a visual reference for consistent depiction of the character across all generations.” Bottom right footer reads: “STYLE · Modern · Realistic · Cinematic”. Maintain a polished realistic sports photography look with cinematic lighting, sharp uniform texture, realistic anatomy, and clean organized panel spacing. Do not add extra panels, extra players, extra numbers, logos beyond generic sports marks, or unrelated props.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2068724468089082203) | 2026-06-21
+
+---
+
+### 🏷️ 例 2110：故事书风格旅行日志插画
+
+![故事书风格旅行日志插画](../../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为 {argument name="illustration style" default="充满奇趣的手绘故事书插画"}。保留原始的姿势、透视、凸面交通镜反射、道路、电线杆以及周围的热带绿植。将镜面反射重构为一个充满活力的插画世界，包含茂密的丛林植物、棕榈树、花朵、蝴蝶、涂鸦爱心、星星、漩涡、微笑的太阳、蓬松的云朵以及色彩缤纷的手绘装饰。将人物转化为可爱的卡通角色，身穿 {argument name="outfit" default="白色 T 恤、海军蓝短裤、白色袜子和蓝色鸭舌帽"}，单脚抬起并比出剪刀手，姿态俏皮。以迷人的信息图表风格将健身追踪数据整合在镜子内：{argument name="activity statistics" default="“第 53 天”、“4.06 公里”、“88 米”、“24 分 9 秒”"}。明亮的柔和色调，水粉画质感，儿童绘本美学，奇趣涂鸦，干净的轮廓线，温馨愉悦的氛围，高度细节化的植被，俏皮的旅行日志风格，受 Strava 启发的冒险艺术作品，充满活力的绿色、橙色、蓝色和粉色，超精细插画，杰作，可爱美学，编辑级品质，竖构图，4k。
+
+[English]
+Transform the uploaded photo into a {argument name="illustration style" default="whimsical hand-painted storybook illustration"}. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing {argument name="outfit" default="a white t-shirt, navy shorts, white socks, and a blue cap"}, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: {argument name="activity statistics" default="“Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”"}. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2068716967968788743) | 2026-06-21
+
+---
+
+### 🏷️ 例 2114：GTA VI 风格动漫鬼族少女
+
+![GTA VI 风格动漫鬼族少女](../../images/GTA%20VI%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E9%AC%BC%E6%97%8F%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+融合主题，{argument name="style" default="GTA VI 女孩角色扮演"}，真人转动漫女孩，{argument name="characters" default="金发女孩和鬼族少女"}，黑暗，Marin，Yamato，Shion
+
+[English]
+Merge themes, {argument name="style" default="GTA VI Girl cosplay"}, Image 2 Real Anime Girls, {argument name="characters" default="Blonde Girls and Oni Girls"}, Darkness, Marin, Yamato, Shion
+```
+
+**来源：** [@Olivia Bernardo](https://x.com/livybabie/status/2068693522765455711) | 2026-06-21
+
+---
+
+### 🏷️ 例 2115：二战风暴海滩防御工事
+
+![二战风暴海滩防御工事](../../images/%E4%BA%8C%E6%88%98%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%BB%A9%E9%98%B2%E5%BE%A1%E5%B7%A5%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实广角镜头，展示从战壕内部望向二战海滩入侵防御线的景象，前景布满低矮的泥泞沙袋和深色木质战壕板。战壕外是泥泞且被水淹没的海滩，上面覆盖着纠缠的铁丝网、断裂的木桩、水洼，以及从左至右散布在不同距离的 12 个清晰可见的捷克刺猬型反坦克障碍物。海面汹涌阴暗，白浪翻滚着涌向岸边，地平线上有几道模糊的战舰剪影，包括中心偏右处的一艘大型战列舰。天空乌云密布，上方中心处透出一丝昏暗寒冷的光线。使用去饱和的蓝灰色和炭灰色调，强调粗粝的写实感、湿润反光的泥土、朦胧的海雾、戏剧性的阴天光影，以及高细节的电影级构图，16:9 纵横比，画面中无人、无文字、无现代物体。强调 {argument name="battlefield mood" default="两栖登陆前阴郁、紧张、荒凉"} 的氛围，场景设定在 {argument name="location" default="诺曼底风格的防御海滩"}，时间为 {argument name="time of day" default="风暴黎明"}，视觉风格为 {argument name="visual style" default="写实战争电影剧照"}。
+
+[English]
+Create a cinematic photorealistic wide shot of a bleak World War II beach invasion defense line viewed from inside a trench, with a low row of muddy sandbags and dark wooden trench planks across the entire foreground. Beyond the trench is a flooded, muddy beach covered in tangled barbed wire, broken stakes, puddles, and exactly 12 visible steel Czech hedgehog anti-tank obstacles scattered from left to right at varying distances. The ocean is rough and dark, with white-capped waves rolling toward shore, and several faint warship silhouettes on the horizon, including one larger battleship slightly right of center. The sky is heavy with storm clouds, with a dim cold break of light near the upper center. Use a desaturated blue-gray and charcoal color palette, gritty realism, wet reflective mud, misty sea spray, dramatic overcast lighting, high-detail cinematic composition, 16:9 aspect ratio, no people, no text, no modern objects. Emphasize the mood of {argument name="battlefield mood" default="grim, tense, abandoned before an amphibious assault"}, set on {argument name="location" default="a Normandy-style fortified beach"}, during {argument name="time of day" default="stormy dawn"}, with {argument name="visual style" default="photorealistic war film still"}.
+```
+
+**来源：** [@刘仙升](https://x.com/LukeLiu95/status/2068689814778749191) | 2026-06-21
+
+---
+
+### 🏷️ 例 2137：海边动漫少女速写
+
+![海边动漫少女速写](../../images/%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%80%9F%E5%86%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+轻松写意的动漫速写风格。一幅宁静的动漫插画，画面中一位 {argument name="subject" default="年轻女性"} 坐在海边的树下，平视视角下的全身坐姿，身体微微侧向三分之二侧面，低头用黑色钢笔在螺旋装订的速写本上作画。采用柔和的粉彩色调，线条清晰，水彩晕染细腻，温暖柔和的定向阳光投射出淡淡的长影。她身穿一件 {argument name="outfit" default="淡紫色长袖衬衫，外搭饰有白色小雏菊图案的绿色背带裙"}，露出印有大雏菊图案的白色衬裙，穿着白色短袜和棕色乐福鞋。留着长长的深色头发，表情自然，脸颊泛着淡淡的红晕。巨大的树干纹理清晰， {argument name="leaves" default="金色的秋叶"} 在微风中飘落；几片落叶散落在路面上。背景：平静的蓝色海洋，海浪轻柔，浅色的沙滩，远处的地平线和柔软蓬松的云朵，海边有一条安静的双车道沿海公路。前景包括一个放在路缘石上的彩色横条纹编织草编手提袋。强调宁静怀旧的氛围，注重精致的细节（衣褶、叶脉、树皮纹理、编织袋纹理、笔触和纸张质感），电影级构图，高分辨率，柔和的颗粒感，微妙的轮廓光和自然的环境光遮蔽。
+
+[English]
+Lighthearted sketch-style anime aesthetic, A serene, anime-inspired illustration of a {argument name="subject" default="young woman"} sitting against a tree by the seaside, full-body seated view at eye level, slightly turned three-quarter pose, looking down as she draws in a spiral sketchbook with a black pen. Soft pastel color palette with clean line art and gentle watercolor shading, warm, soft directional sunlight casting subtle, long shadows. She wears a {argument name="outfit" default="lavender long-sleeve blouse under a green pinafore dress patterned with small white daisies"}, a white underskirt with larger daisy prints peeking out, white ankle socks and brown loafers. Long dark hair, natural expression, light blush on cheeks. Large tree trunk with textured bark and {argument name="leaves" default="golden autumn leaves"} drifting in a light breeze; a few leaves scattered on the pavement. Background: calm blue ocean with gentle waves, pale sandy beach, distant horizon and soft fluffy clouds, a quiet two-lane coastal road beside the beach. Foreground includes a woven straw tote bag with colorful horizontal stripes placed on the curb. Emphasize peaceful, nostalgic mood, delicate details (fabric folds, leaf veins, bark texture, woven bag weave, pen and paper strokes), cinematic composition, high-resolution, soft grain, subtle rim light and natural ambient occlusion.
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2068586089414369391) | 2026-06-21
+
+---
+
+### 🏷️ 例 2141：动漫风牛奶布丁咖啡馆问候图
+
+![动漫风牛奶布丁咖啡馆问候图](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E7%89%9B%E5%A5%B6%E5%B8%83%E4%B8%81%E5%92%96%E5%95%A1%E9%A6%86%E9%97%AE%E5%80%99%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的动漫风格咖啡馆问候插画，背景设定在夕阳下，画面中两位女性角色并肩站在温馨的木质店面前。左侧角色是一位娇小的女学生，留着 {argument name="hair color" default="深海军蓝渐变至亮青色"} 的长发，身穿带有白色滚边的海军风校服，配有红色领结、金色纽扣和一个小星星发夹；她向观众挥手，姿态欢快。右侧角色是一位名为 {argument name="character name" default="Muumuu Bell"} 的奶牛主题咖啡馆女仆，留着银白色渐变至蓝色的长发，头戴两只小巧的奶油色牛角和黑白奶牛耳，服装上有奶牛纹装饰，颈部系着带有大金牛铃的蓝色丝带，身穿印有布丁图标和“MILK & PUDDING”字样的米色围裙；她的一只手放在一个大型金属牛奶罐旁。按照图片要求，在两位角色的面部放置简单的矩形隐私遮挡块：女仆面部覆盖一个柔和的米色遮挡块，女学生面部覆盖一个深米色至灰色的渐变遮挡块。背景是灯光温暖的木质咖啡馆外观，配有发光的窗户、吊灯和招牌。在左上角添加醒目可爱的日文手写问候语 {argument name="greeting text" default="こんにちは"}，字体为白色，带有粉色和青色描边，周围环绕着爱心、闪光和装饰线；下方添加咖啡馆招牌文字 {argument name="cafe sign text" default="汤布丁咖啡馆"}，采用温暖的奶油色字体。在右侧，展示一个巨大的圆柱形银色牛奶罐，上面贴有“MILK 100L”标签和一个可爱的奶牛脸图标。在前景的木桌上展示两份食物/饮品：一份放在白色盘子里的焦糖布丁，配有鲜奶油和薄荷叶；以及一瓶插着吸管的牛奶，贴有小巧的“MILK & PUDDING”标签。在右侧放置一块写有涂鸦布丁和牛奶文字的小黑板菜单，以及一个种有白色雏菊的小花盆。采用浓郁的黄金时刻灯光，呈现高细节的动漫渲染效果、柔和的虚化背景、温暖的咖啡馆氛围、饱和的色彩、干净的线条，并采用 4:5 的竖构图。避免出现额外角色，避免出现多余的前景甜点，并确保可见文字清晰易读。
+
+[English]
+Create a vibrant anime-style café greeting illustration at sunset featuring exactly two female characters standing close together in front of a cozy wooden storefront. The left character is a petite schoolgirl with very long {argument name="hair color" default="dark navy blue fading into bright cyan"} hair, wearing a navy sailor-style school uniform with white trim, a red neck bow, gold buttons, and a small star hair clip; she raises one open hand toward the viewer in a cheerful wave. The right character is a taller cow-themed café waitress named {argument name="character name" default="Muumuu Bell"}, with long silver-white hair fading into blue tips, two small cream cow horns, black-and-white cow ears, cow-pattern markings on her outfit, a blue ribbon collar with a large gold cowbell, and a beige apron printed with a pudding icon and the words “MILK & PUDDING”; she holds one hand up beside a large metal milk can. Place simple rectangular privacy censor blocks over both characters’ faces, matching the image: one soft beige block over the waitress’s face and one darker beige-to-gray gradient block over the schoolgirl’s face. The background is a warmly lit wooden café exterior with glowing windows, hanging lamps, and a signboard. Add large cute handwritten Japanese greeting text at the top left reading {argument name="greeting text" default="こんにちは"} in white with pink and cyan outline, surrounded by small hearts, sparkles, and accent lines; below it, add the café sign text {argument name="cafe sign text" default="湯プリンカフェ"} in warm cream lettering. On the right, show exactly one oversized cylindrical silver milk can labeled “MILK 100L” with a cute cow face icon. In the foreground, show exactly two food/drink items on a wooden table: one caramel custard pudding on a white plate with whipped cream and mint, and one glass bottle of milk with a straw and a small “MILK & PUDDING” label. Include exactly one small chalkboard menu on the right with doodled pudding and milk text, and exactly one small flower pot with white daisies near it. Use rich golden-hour lighting, glossy high-detail anime rendering, soft bokeh, warm café ambience, saturated colors, clean linework, and a vertical 4:5 composition. Avoid extra characters, avoid extra foreground desserts, and keep the visible text legible.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2068563228825960709) | 2026-06-21
+
+---
+
+### 🏷️ 例 2142：CCTV 监控录像美学
+
+![CCTV 监控录像美学](../../images/CCTV%20%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+CCTV 风格的监控录像，画面中 {argument name="subject" default="时尚少女"} 走过监控摄像头，抬头看向镜头并露出 {argument name="expression" default="灿烂友好的微笑"}，随性地挥手，动作自然真实，带有几分自信的模特气质，穿着现代休闲装，位于 {argument name="location" default="室内公共空间（走廊或大厅）"}，高角度监控摄像头视角，略微畸变的广角镜头，低分辨率，单色或低饱和度色彩，带有时间戳叠加，细微的扫描线，数字噪点，压缩伪影，运动模糊，光照不均，强烈的阴影，颗粒感纹理，真实的监控摄像头美学，未经修饰的纪录片质感
+
+[English]
+A CCTV-style surveillance footage of a {argument name="subject" default="stylish teenage girl"} walking past a security camera, looking up at the camera with a {argument name="expression" default="bright friendly smile"}, waving her hand casually, candid and natural movement, slightly confident model-like appearance, casual modern outfit, {argument name="location" default="indoor public space (hallway or lobby)"}, high angle security camera perspective, slightly distorted wide-angle lens, low resolution, monochrome or desaturated color, timestamp overlay, subtle scan lines, digital noise, compression artifacts, motion blur, uneven lighting, harsh shadows, grainy texture, authentic security camera aesthetic, unpolished and documentary feel
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2068558572716236897) | 2026-06-21
+
+---
+
+### 🏷️ 例 2143：梦幻足球超现实主义插画
+
+![梦幻足球超现实主义插画](../../images/%E6%A2%A6%E5%B9%BB%E8%B6%B3%E7%90%83%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+梦幻般的 {argument name="theme" default="足球灵感"} 超现实主义插画，巨大的 {argument name="color" default="粉色"} 足球场矗立在色彩斑斓的欧洲城市景观之上，俯瞰视角，充满活力的翠绿色球场，成千上万的小观众，华丽的建筑，巨大的盛开牡丹和花卉图案环绕着场景，足球传奇人物在神奇的花海中奔跑追逐足球，动态动作姿势，特写肌肉发达的足球运动员腿部运着复古花纹的足球，柔和的粉色天空，大胆的蓝色与绿色对比，浪漫的植物元素与运动能量相结合，绘画般的笔触，复古海报美学，奇幻世界，高度细节的花卉，电影级构图，丰富的纹理，鲜艳的色彩，富有表现力的光影，编辑类体育艺术作品，超现实体育幻想，当代插画，新艺术运动花卉图案，怀旧足球文化，杰作，超精细，8k，在 Behance 和 ArtStation 上流行。
+
+[English]
+Dreamlike {argument name="theme" default="football-inspired"} surrealist illustration, massive {argument name="color" default="pink"} football stadium rising above a colorful European cityscape, aerial view, vibrant emerald green pitch, thousands of tiny spectators, ornate architecture, blooming oversized peonies and floral patterns surrounding the scene, football legends sprinting through a magical flower meadow chasing a ball, dynamic action poses, close-up muscular footballer legs dribbling a vintage patterned soccer ball, pastel pink sky, bold blue and green contrasts, romantic botanical elements mixed with sports energy, painterly brushstrokes, vintage poster aesthetic, whimsical fantasy world, highly detailed flowers, cinematic composition, rich textures, vibrant colors, expressive lighting, editorial sports artwork, surreal sports fantasy, contemporary illustration, Art Nouveau floral motifs, nostalgic football culture, masterpiece, ultra detailed, 8k, trending on Behance and ArtStation.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2068548768916729909) | 2026-06-21
+
+---
+
+### 🏷️ 例 2147：逼真的体育场球迷肖像
+
+![逼真的体育场球迷肖像](../../images/%E9%80%BC%E7%9C%9F%E7%9A%84%E4%BD%93%E8%82%B2%E5%9C%BA%E7%90%83%E8%BF%B7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张逼真的体育场人群场景，画面中一位时尚的 {argument name="subject" default="金发女性"} 身穿 {argument name="clothing" default="橙色足球迷服饰和围巾"}，站在 {argument name="location" default="VIP 看台"} 上，背景是一场激烈的国际足球比赛。她全神贯注地观看比赛，周围环绕着其他球迷，充满活力的体育场氛围，电影级体育摄影，浅景深，逼真的光影，高细节，比赛日活力。
+
+[English]
+A photorealistic stadium crowd scene featuring a stylish {argument name="subject" default="blonde woman"} wearing an {argument name="clothing" default="orange football supporter outfit and scarf"}, standing in the {argument name="location" default="VIP stands"} during an intense international soccer match. She watches the game with focused anticipation as fans surround her, vibrant stadium atmosphere, cinematic sports photography, shallow depth of field, realistic lighting, high detail, match-day energy.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2068533670542233839) | 2026-06-21
+
+---
+

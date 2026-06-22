@@ -3168,3 +3168,105 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 
 ---
 
+### 🎬 例 2092：月下神社法师对决漫画
+
+![月下神社法师对决漫画](../../images/%E6%9C%88%E4%B8%8B%E7%A5%9E%E7%A4%BE%E6%B3%95%E5%B8%88%E5%AF%B9%E5%86%B3%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅电影感动漫漫画风格的动作漫画页面，展示在月光照耀的神社中进行的魔法对决，两位对手法师使用对比鲜明的能量进行交锋。
+
+画布：1:1 正方形漫画页面，带有细白色外边距，以及由白色间隙分隔的四个圆角矩形分镜。使用干净的墨线稿、赛璐珞动漫上色、戏剧性的夜间光影、冷蓝色阴影以及发光的法术特效。
+
+布局：使用 4 个分镜。分镜 1 是占据上半部分宽度的宽幅全景，展示新月下的神社庭院。分镜 2 是下方的另一个水平宽幅分镜，展示近距离的对峙动作。分镜 3 和分镜 4 是底部的两个等宽小分镜。
+
+角色：两位年轻的日式奇幻法师。左侧角色为女性施法者，名为 {argument name="female character name" default="紫袍神社巫女"}，身穿叠层黑色与深紫色和服风格长袍、紫色腰带、凉鞋，深色头发用紫色丝带束起；她施展发光的洋红色纸符咒和紫色结界魔法。右侧角色为男性施法者，名为 {argument name="male character name" default="绿袍风系法师"}，身穿带有金色镶边的深绿色和服长袍、宽松袴裤、凉鞋，短发凌乱，双手环绕着发光的金色圆环状饰品；他操控苍白色的风旋和金色能量环。保持两人的面部略微简化或模糊处理，无需精细肖像刻画。
+
+分镜细节：分镜 1：夜间神社庭院的宽幅全景，包括石板路、台阶、鸟居、灯笼、树木、神社建筑，以及高悬于天空中央的明亮新月；女性法师站在左侧，手持紫色符咒，男性风系法师站在右侧，手持金色圆环，两人在对决前蓄势待发。分镜 2：近距离动作构图，左侧女性向前伸出一只手，洋红色纸符咒在她周围盘旋；右侧男性抬起一只手进行防御，巨大的白色风旋从右向左横扫画面，手腕处环绕着金色圆环。分镜 3：左下角冲击分镜，女性法师投射出一个明亮的紫色圆形传送门或护盾，男性法师以一道横扫的金色风弧进行反击，击中结界并激起尘土、落叶和火花。分镜 4：右下角余波分镜，两位角色在神社庭院中拉开距离；一个垂直的发光紫色椭圆形结界漂浮在他们之间，男性从右侧观察，手部带有金色圆环，背景可见月亮和神社台阶。
+
+视觉风格：精致的动漫漫画插画、动态视角、富有表现力的衣物动态、速度线、发光粒子、透明魔法环、紫色魔法与金色风系魔法的高对比度、精细的神社建筑、圆角黑色分镜边框，无对话气泡，无标题，无可见文字，无 Logo，无水印。
+
+自定义：将环境设置为 {argument name="setting" default="月光下的神社庭院"}，女性魔法颜色设置为 {argument name="female magic color" default="紫洋红色"}，男性魔法颜色设置为 {argument name="male magic color" default="金色与苍白色"}。
+
+[English]
+Goal: Create a cinematic anime manga-style action comic page showing a magical duel at a moonlit Shinto shrine, with two rival sorcerers facing off using contrasting energy powers.
+
+Canvas: Square 1:1 comic page with a thin white outer margin and four rounded-rectangle panels separated by white gutters. Use clean inked line art, cel-shaded anime coloring, dramatic night lighting, cool blue shadows, and glowing spell effects.
+
+Layout: Use exactly 4 panels. Panel 1 is a wide establishing shot across the full top half-width area, showing the shrine courtyard under a crescent moon. Panel 2 is another wide horizontal panel beneath it, a close action standoff. Panels 3 and 4 are two smaller equal-width panels along the bottom row.
+
+Characters: Two young adult Japanese-style fantasy sorcerers. The left character is a female spellcaster named {argument name="female character name" default="purple-robed shrine mage"}, wearing layered black and deep purple kimono-style robes, a purple sash, sandals, and dark hair tied back with purple ribbons; she casts glowing magenta paper talismans and violet barrier magic. The right character is a male spellcaster named {argument name="male character name" default="green-robed wind sorcerer"}, wearing a dark green kimono robe with gold trim, loose hakama pants, sandals, short dark tousled hair, and glowing golden ring-like charms around his hands; he controls pale white wind spirals and golden energy loops. Keep both faces slightly simplified or softly obscured, not detailed portraits.
+
+Panel details: Panel 1: wide establishing view of the shrine courtyard at night, stone paving, stairs, torii gates, lanterns, trees, shrine buildings, and a bright crescent moon centered high in the sky; the female mage stands on the left with violet talismans, the male wind sorcerer stands on the right with golden rings, both poised before the duel. Panel 2: close-up action composition, female on the left thrusting one hand forward while magenta paper talismans swirl around her, male on the right raising one hand defensively while a huge white wind vortex sweeps across the frame from right to left, with golden rings around his wrists. Panel 3: bottom-left impact panel, the female mage projects a bright purple circular portal or shield, while the male sorcerer counters with a sweeping golden wind arc that strikes the barrier, scattering dust, leaves, and sparks. Panel 4: bottom-right aftermath panel, both characters stand farther apart in the shrine courtyard; a vertical glowing purple oval barrier floats between them, the male watches from the right with golden hand loops, the moon and shrine steps visible behind them.
+
+Visual style: polished anime comic illustration, dynamic perspective, expressive cloth motion, speed lines, glowing particles, transparent magical rings, high contrast between violet magic and golden wind, detailed shrine architecture, rounded black panel borders, no speech bubbles, no captions, no readable text, no logos, no watermark.
+
+Customization: Set the environment as {argument name="setting" default="a moonlit Shinto shrine courtyard"}, the female magic color as {argument name="female magic color" default="violet magenta"}, and the male magic color as {argument name="male magic color" default="gold and pale white"}.
+```
+
+**来源：** [@Flynn Ivy](https://x.com/FlynnIvy86379/status/2068809061613658249) | 2026-06-21
+
+---
+
+### 🎬 例 2094：四格漫画风格拳击击倒
+
+![四格漫画风格拳击击倒](../../images/%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%8B%B3%E5%87%BB%E5%87%BB%E5%80%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一部戏剧性的动漫风格四格拳击比赛漫画，展示一名处于劣势的女性拳手在职业拳台上击败一名体型更大的男性对手。运用动态动作、电影级灯光、汗水、撞击火花以及拥挤昏暗的观众席。面部应刻意使用柔和的矩形模糊/遮挡块进行处理，同时保持身体、姿势和服装的细节。
+
+画布：宽幅横向漫画条，16:9 纵横比，分为 2x2 网格的 4 个等大分镜，带有粗黑边框。
+
+视觉风格：高细节现代动漫运动插画，强烈的赛璐珞阴影，光泽感的汗水高光，强健的身体结构，动态线条，戏剧性的透视缩短，明亮的头顶体育场聚光灯，深蓝黑色的竞技场氛围，红蓝相间的拳击台围绳，背景中模糊的观众。
+
+主要角色：女性拳手留着 {argument name="hair color" default="深海军蓝"} 的头发，扎成凌乱的高马尾，运动员体格，身穿红色无袖短款背心、黑色拳击短裤、黑色短靴，缠着白色手带。男性拳手身材更高大、肌肉更发达，赤裸上身，古铜色皮肤，深色短发，黑色拳击短裤，缠着白色手带。裁判身穿白衬衫、黑色领结、黑色长裤，戴着蓝色手套。
+
+分镜布局与动作描述：包含 4 个分镜。分镜 1（左上）：两位拳手在拳台上对峙，中远景镜头，女性拳手在左侧呈防守姿态，男性拳手在右侧，背部部分朝向镜头，裁判位于他们身后中央。分镜 2（右上）：男性拳手向画面横向挥出一记长直拳，女性拳手后仰防守，拳头擦着她的脸部挥过。分镜 3（左下）：女性拳手反击，一记强力直拳击中男性拳手面部；展示明亮的星爆撞击闪光、汗珠和速度线。分镜 4（右下）：男性拳手双膝跪地，双手撑地，低着头，女性拳手站在右侧，呈胜利姿态；裁判从左侧介入，围绳后的观众做出反应。
+
+文字：无标题、对话气泡、标志、记分牌或可见的文字。
+
+约束：保持构图简洁且易于阅读，作为连续的战斗场景，确保 4 个分镜中的服装和拳台环境保持一致，无血腥、无流血、无水印，并确保所有面部被模糊块遮挡。
+
+[English]
+Goal: Create a dramatic anime-style four-panel boxing match comic showing an underdog female boxer defeating a larger male opponent in a professional ring. Use dynamic action, cinematic lighting, sweat, impact sparks, and a packed dark arena crowd. Faces should be intentionally obscured with soft rectangular blur/censor blocks, while bodies, poses, and clothing remain detailed.
+
+Canvas: Wide horizontal comic strip, 16:9 aspect ratio, divided into exactly 4 equal panels in a 2-by-2 grid with thick black gutters.
+
+Visual style: High-detail modern anime sports illustration, intense cel shading, glossy sweat highlights, strong anatomy, motion lines, dramatic foreshortening, bright overhead stadium spotlights, dark blue-black arena atmosphere, red and blue boxing ring ropes, blurred audience in the background.
+
+Main characters: The female boxer has {argument name="hair color" default="dark navy blue"} hair tied in a high messy ponytail, athletic build, red sleeveless crop tank, black boxing shorts, black ankle boots, and white hand wraps. The male boxer is much taller and more muscular, shirtless, tan skin, short dark hair, black boxing shorts, and white hand wraps. The referee wears a white shirt, black bow tie, black pants, and blue gloves.
+
+Panel layout and action count: Include exactly 4 panels. Panel 1, top left: the two fighters square off in the ring from a medium-wide angle, female boxer on the left in guard stance, male boxer on the right with his back partly toward camera, referee centered behind them. Panel 2, top right: the male boxer throws a long straight punch across the frame toward the female boxer, who leans back and guards, the punch barely missing her face. Panel 3, bottom left: the female boxer counters with a powerful straight punch to the male boxer’s face; show a bright starburst impact flash, sweat droplets, and speed lines. Panel 4, bottom right: the male boxer is down on both knees and hands, head lowered, while the female boxer stands tall to the right in victory stance; the referee steps in from the left, and the crowd reacts behind the ropes.
+
+Text: No captions, speech bubbles, logos, scoreboards, or visible written text.
+
+Constraints: Keep the composition clean and readable as a sequential fight scene, maintain consistent outfits and ring environment across all 4 panels, use no gore, no blood, no watermark, and keep all faces obscured by blur blocks.
+```
+
+**来源：** [@Rochus Hahn B.Sc.](https://x.com/b_hahnd/status/2068808850010988873) | 2026-06-21
+
+---
+
+### 🎬 例 2148：定制裁缝故事板
+
+![定制裁缝故事板](../../images/%E5%AE%9A%E5%88%B6%E8%A3%81%E7%BC%9D%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端 {argument name="aspect ratio" default="4:3"} 裁缝提案演示文稿故事板，采用 3x4 网格（12 帧）和编辑排版，风格为 {argument name="brand style" default="Loro Piana/Brioni style"}，配色方案为 {argument name="color palette" default="深海军蓝 + 原色米白"}。结构流程：灵感 → 面料 → 工艺 → 廓形 → 品牌标识收尾。每帧分为：顶部电影级图像（无文字）+ 底部故事板注释。呈现旧世界欧洲工作室美学，体现男性精准度与静谧的大师级氛围。手工裁剪的翻领是贯穿始终的情感核心。
+
+[English]
+Create a high-end {argument name="aspect ratio" default="4:3"} tailoring pitch deck storyboard in 3x4 grid (12 frames), editorial layout, {argument name="brand style" default="Loro Piana/Brioni style"}, {argument name="color palette" default="deep navy + raw ecru palette"}. Structured flow: inspiration → cloth → craft → silhouette → identity closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Old-world European atelier aesthetic, masculine precision, silent mastery mood. A hand-cut lapel is the emotional center throughout.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2068522106791526680) | 2026-06-21
+
+---
+

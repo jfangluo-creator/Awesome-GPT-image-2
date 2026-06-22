@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (128)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (134)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -249,11 +249,23 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 2069: 醉棍漫画截图](cat-ui.md#️-例-2069醉棍漫画截图)
 
 - [Case 2076: 雨中猫耳幸存者的清晨](cat-ui.md#️-例-2076雨中猫耳幸存者的清晨)
+
+- [Case 2098: 无面暗影忍者角色设计图](cat-ui.md#️-例-2098无面暗影忍者角色设计图)
+
+- [Case 2099: 空间站零重力侧踢](cat-ui.md#️-例-2099空间站零重力侧踢)
+
+- [Case 2105: 电影级体育场项目](cat-ui.md#️-例-2105电影级体育场项目)
+
+- [Case 2121: 雨中东京小巷的动漫少女](cat-ui.md#️-例-2121雨中东京小巷的动漫少女)
+
+- [Case 2124: 分层剪纸风格插画](cat-ui.md#️-例-2124分层剪纸风格插画)
+
+- [Case 2134: 世界杯黑马球队可视化](cat-ui.md#️-例-2134世界杯黑马球队可视化)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (50)
+## 📊 [Charts & Infographics](cat-chart.md) (51)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -341,11 +353,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 1790: 中华文明历程海报](cat-chart.md#-例-1790中华文明历程海报)
 
 - [Case 2060: 龙井茶信息图海报](cat-chart.md#-例-2060龙井茶信息图海报)
+
+- [Case 2117: 复古兔子拼贴标本](cat-chart.md#-例-2117复古兔子拼贴标本)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (318)
+## 🎴 [Posters & Cards](cat-poster.md) (331)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -943,11 +957,37 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发](cat-poster.md#-例-2072提示词使用上传人物照片作为主体参考保留人物五官比例脸型轮廓眼神气质发型特征黑色长卷发)
 
 - [Case 2080: 奢华 6 岁生日海报](cat-poster.md#-例-2080奢华-6-岁生日海报)
+
+- [Case 2085: Glitch Angel Studio 海报](cat-poster.md#-例-2085glitch-angel-studio-海报)
+
+- [Case 2102: 2026 年未来感 AI 科技海报](cat-poster.md#-例-21022026-年未来感-ai-科技海报)
+
+- [Case 2104: 皮克斯风格重构海报](cat-poster.md#-例-2104皮克斯风格重构海报)
+
+- [Case 2112: 暗黑动漫《鬼灭之刃》海报](cat-poster.md#-例-2112暗黑动漫鬼灭之刃海报)
+
+- [Case 2125: Cristiano Ronaldo 里斯本双重曝光海报](cat-poster.md#-例-2125cristiano-ronaldo-里斯本双重曝光海报)
+
+- [Case 2127: 电影感“未来自我”励志海报](cat-poster.md#-例-2127电影感未来自我励志海报)
+
+- [Case 2128: 现代时尚编辑海报](cat-poster.md#-例-2128现代时尚编辑海报)
+
+- [Case 2129: 月下仙卷现世](cat-poster.md#-例-2129月下仙卷现世)
+
+- [Case 2135: 日本世界杯比赛总结海报](cat-poster.md#-例-2135日本世界杯比赛总结海报)
+
+- [Case 2138: 科幻悬浮都市海报](cat-poster.md#-例-2138科幻悬浮都市海报)
+
+- [Case 2140: Cristiano Ronaldo 收藏版海报](cat-poster.md#-例-2140cristiano-ronaldo-收藏版海报)
+
+- [Case 2145: 赛博朋克电竞快递员海报](cat-poster.md#-例-2145赛博朋克电竞快递员海报)
+
+- [Case 2146: 狂野西部双重曝光海报](cat-poster.md#-例-2146狂野西部双重曝光海报)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (782)
+## 📷 [Photography & Realistic](cat-photo.md) (798)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -2435,11 +2475,43 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 2078: 水晶湖畔的女子](cat-photo.md#-例-2078水晶湖畔的女子)
 
 - [Case 2081: 山顶俯瞰视角人像](cat-photo.md#-例-2081山顶俯瞰视角人像)
+
+- [Case 2086: 复古酒吧蕾丝裙肖像](cat-photo.md#-例-2086复古酒吧蕾丝裙肖像)
+
+- [Case 2087: 写实风格香水主题日系女性人像摄影](cat-photo.md#-例-2087写实风格香水主题日系女性人像摄影)
+
+- [Case 2088: 职业清单平铺剪影](cat-photo.md#-例-2088职业清单平铺剪影)
+
+- [Case 2090: 赛博朋克浪人对决](cat-photo.md#-例-2090赛博朋克浪人对决)
+
+- [Case 2096: 蓝色花卉幻想肖像](cat-photo.md#-例-2096蓝色花卉幻想肖像)
+
+- [Case 2097: 昭和复古游乐园可乐饼人像](cat-photo.md#-例-2097昭和复古游乐园可乐饼人像)
+
+- [Case 2108: 深秋电影感人像系列](cat-photo.md#-例-2108深秋电影感人像系列)
+
+- [Case 2118: 梦幻森林黄金时刻人像](cat-photo.md#-例-2118梦幻森林黄金时刻人像)
+
+- [Case 2119: 深色纸艺花卉肖像](cat-photo.md#-例-2119深色纸艺花卉肖像)
+
+- [Case 2123: 手绘动漫风格海滩漫步](cat-photo.md#-例-2123手绘动漫风格海滩漫步)
+
+- [Case 2126: 巴黎旅行人像 Face Lock](cat-photo.md#-例-2126巴黎旅行人像-face-lock)
+
+- [Case 2130: 雪林中的男子与狼群](cat-photo.md#-例-2130雪林中的男子与狼群)
+
+- [Case 2133: 低多边形足球运动员插画](cat-photo.md#-例-2133低多边形足球运动员插画)
+
+- [Case 2136: 写实风格遮挡水手服自拍](cat-photo.md#-例-2136写实风格遮挡水手服自拍)
+
+- [Case 2144: 日本学生便利店抓拍](cat-photo.md#-例-2144日本学生便利店抓拍)
+
+- [Case 2149: 月光蕾丝王子肖像](cat-photo.md#-例-2149月光蕾丝王子肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (198)
+## 🎨 [Illustration & Art](cat-illustration.md) (206)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -2819,11 +2891,27 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 2075: 白板技能构建工作流](cat-illustration.md#-例-2075白板技能构建工作流)
 
 - [Case 2083: 猫耳仿生人数字插画](cat-illustration.md#-例-2083猫耳仿生人数字插画)
+
+- [Case 2089: 青花瓷风格](cat-illustration.md#-例-2089青花瓷风格)
+
+- [Case 2091: 月下动漫长枪武者](cat-illustration.md#-例-2091月下动漫长枪武者)
+
+- [Case 2095: 天界九尾灵狐](cat-illustration.md#-例-2095天界九尾灵狐)
+
+- [Case 2100: 天界九尾狐灵](cat-illustration.md#-例-2100天界九尾狐灵)
+
+- [Case 2113: 极简几何矢量插画](cat-illustration.md#-例-2113极简几何矢量插画)
+
+- [Case 2120: “黑暗森林”水妖专辑封面](cat-illustration.md#-例-2120黑暗森林水妖专辑封面)
+
+- [Case 2131: 手持弹珠汽水的金发浴衣少女](cat-illustration.md#-例-2131手持弹珠汽水的金发浴衣少女)
+
+- [Case 2139: 趣味水粉风格插画](cat-illustration.md#-例-2139趣味水粉风格插画)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (93)
+## 🧍 [Character Design](cat-character.md) (94)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -2991,11 +3079,13 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 2050: 动漫角色设定图对比](cat-character.md#-例-2050动漫角色设定图对比)
 
 - [Case 2058: 基于参考图的服装迁移](cat-character.md#-例-2058基于参考图的服装迁移)
+
+- [Case 2107: 橄榄球运动员三视图参考表](cat-character.md#-例-2107橄榄球运动员三视图参考表)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (118)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (124)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -3219,6 +3309,18 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 2082: 优雅毕业时尚肖像](cat-3d.md#-例-2082优雅毕业时尚肖像)
 
 - [Case 2084: 哥特奇幻风格微缩模型屋](cat-3d.md#-例-2084哥特奇幻风格微缩模型屋)
+
+- [Case 2093: 冰窟中的金发战士](cat-3d.md#-例-2093冰窟中的金发战士)
+
+- [Case 2101: 忍者格斗过场动画（已打码）](cat-3d.md#-例-2101忍者格斗过场动画已打码)
+
+- [Case 2109: 乐高风格人偶收藏品](cat-3d.md#-例-2109乐高风格人偶收藏品)
+
+- [Case 2111: 装饰性民间剪纸插画](cat-3d.md#-例-2111装饰性民间剪纸插画)
+
+- [Case 2116: 3D 卡通足球角色生成器](cat-3d.md#-例-21163d-卡通足球角色生成器)
+
+- [Case 2122: 手工纺织奇幻艺术](cat-3d.md#-例-2122手工纺织奇幻艺术)
 ---
 
 <a id="architecture"></a>
@@ -3317,7 +3419,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (83)
+## 🎬 [Comics & Storyboards](cat-comic.md) (86)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -3467,11 +3569,17 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 2017: 哥特双胞胎卧室漫画](cat-comic.md#-例-2017哥特双胞胎卧室漫画)
 
 - [Case 2027: 可爱极简风马卡龙色涂鸦插画](cat-comic.md#-例-2027可爱极简风马卡龙色涂鸦插画)
+
+- [Case 2092: 月下神社法师对决漫画](cat-comic.md#-例-2092月下神社法师对决漫画)
+
+- [Case 2094: 四格漫画风格拳击击倒](cat-comic.md#-例-2094四格漫画风格拳击击倒)
+
+- [Case 2148: 定制裁缝故事板](cat-comic.md#-例-2148定制裁缝故事板)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (182)
+## 🏷️ [Brand & Packaging](cat-brand.md) (191)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -3827,11 +3935,29 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 2010: 绚丽的六月花园](cat-brand.md#️-例-2010绚丽的六月花园)
 
 - [Case 2033: Reinecke Undine 森林标题卡](cat-brand.md#️-例-2033reinecke-undine-森林标题卡)
+
+- [Case 2106: 加拿大橄榄球角色项目](cat-brand.md#️-例-2106加拿大橄榄球角色项目)
+
+- [Case 2110: 故事书风格旅行日志插画](cat-brand.md#️-例-2110故事书风格旅行日志插画)
+
+- [Case 2114: GTA VI 风格动漫鬼族少女](cat-brand.md#️-例-2114gta-vi-风格动漫鬼族少女)
+
+- [Case 2115: 二战风暴海滩防御工事](cat-brand.md#️-例-2115二战风暴海滩防御工事)
+
+- [Case 2137: 海边动漫少女速写](cat-brand.md#️-例-2137海边动漫少女速写)
+
+- [Case 2141: 动漫风牛奶布丁咖啡馆问候图](cat-brand.md#️-例-2141动漫风牛奶布丁咖啡馆问候图)
+
+- [Case 2142: CCTV 监控录像美学](cat-brand.md#️-例-2142cctv-监控录像美学)
+
+- [Case 2143: 梦幻足球超现实主义插画](cat-brand.md#️-例-2143梦幻足球超现实主义插画)
+
+- [Case 2147: 逼真的体育场球迷肖像](cat-brand.md#️-例-2147逼真的体育场球迷肖像)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (65)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (67)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -3960,6 +4086,10 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 2073: 蜡笔画转写实照片](cat-edit.md#-例-2073蜡笔画转写实照片)
 
 - [Case 2079: 奇幻民间艺术扁平化插画](cat-edit.md#-例-2079奇幻民间艺术扁平化插画)
+
+- [Case 2103: 纸艺风格图像转换](cat-edit.md#-例-2103纸艺风格图像转换)
+
+- [Case 2132: 编辑风格单色模特卡](cat-edit.md#-例-2132编辑风格单色模特卡)
 ---
 
 <a id="fun"></a>

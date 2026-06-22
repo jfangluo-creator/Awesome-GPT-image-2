@@ -18872,3 +18872,319 @@ Extreme high-angle bird's-eye view full-body shot of a {argument name="subject" 
 
 ---
 
+### 📷 例 2086：复古酒吧蕾丝裙肖像
+
+![复古酒吧蕾丝裙肖像](../../images/%E5%A4%8D%E5%8F%A4%E9%85%92%E5%90%A7%E8%95%BE%E4%B8%9D%E8%A3%99%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实且高细节的编辑风格肖像，描绘一位成年女性坐在私密复古酒吧或私人俱乐部内的一张小型圆形大理石咖啡桌旁。她留着 {argument name="hair color" default="黑色"} 及肩蓬松波浪短发，表情优雅从容，肤色为温暖的小麦色。她身着一件优雅的深 {argument name="dress color" default="酒红色"} 蕾丝晚礼服，配有透明长蕾丝袖、扇形领口和修身胸衣，呈现出迷人的夜生活时尚风格，而非暴露的裸露。她的左手在桌旁拿着一杯红酒，手指上戴着一枚简约的金戒指。环境氛围浓郁：深绿色墙壁上挂满了许多装裱好的棕褐色素描和肖像画，配有抛光的深色木质装饰、皮革座椅、古董镜子和玻璃柜，温暖的琥珀色灯光营造出一种忧郁而高档的旧世界室内感。构图采用从桌子高度略微向上的中景特写，以女性从头部到腰部为中心，红酒杯位于左下角前景，背景细节柔和。使用电影般的暖色调灯光、自然的皮肤纹理、逼真的蕾丝面料细节、浅景深、35mm 纪实摄影质感、细腻的胶片颗粒感以及丰富的对比度。无文字，无水印，无额外人物，无扭曲的手部，无夸张的解剖结构。
+
+[English]
+Create a realistic, high-detail editorial portrait of an adult woman seated at a small round marble café table in an intimate vintage bar or private club. She has {argument name="hair color" default="black"} shoulder-length voluminous wavy bob hair, a poised feminine expression, and warm medium skin. She is wearing an elegant deep {argument name="dress color" default="burgundy red"} lace evening dress with sheer long lace sleeves, a scalloped neckline, and a fitted bodice, styled as glamorous nightlife fashion rather than explicit nudity. Her left hand holds a stemmed glass of red wine near the table, with a simple gold ring visible on one finger. The setting is richly atmospheric: dark green walls covered with many framed sepia sketches and portraits, polished dark wood trim, leather seating, antique mirrors and glass cabinets, warm amber lamp light, and a moody upscale old-world interior. Compose the image as a medium close-up portrait from slightly above table height, centered on the woman from head to waist, with the wine glass in the lower left foreground and the background softly detailed. Use cinematic warm lighting, natural skin texture, realistic fabric lace detail, shallow depth of field, 35mm documentary photography feel, subtle film grain, and rich contrast. No text, no watermark, no extra people, no distorted hands, no exaggerated anatomy.
+```
+
+**来源：** [@Thank you PSG.](https://x.com/AlexandraNg1991/status/2068823842412462263) | 2026-06-21
+
+---
+
+### 📷 例 2087：写实风格香水主题日系女性人像摄影
+
+![写实风格香水主题日系女性人像摄影](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E9%A6%99%E6%B0%B4%E4%B8%BB%E9%A2%98%E6%97%A5%E7%B3%BB%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实彩色肖像，主角为一位 {argument name="subject" default="日本女性"}，年龄约 {argument name="age" default="20 岁出头"}，在柔和的自然窗光下拍摄。画面呈现出宁静、私密且优雅低调的时尚编辑风格。采用半身近景，3/4 侧身角度，头部微微低垂，目光柔和地向下注视。一只手轻轻握着一个小巧的玻璃香水瓶，空气中弥漫着被光线捕捉到的细微喷雾。
+
+她的脸型圆润，五官精致小巧，有着温暖的棕色双眸，眼下带有柔和的质感，嘴角挂着自然的浅笑，带着一丝迷人的不对称感，皮肤质感真实清新。深棕色的中长发呈现出微湿的质感，几缕发丝自然地散落在脸庞周围，营造出清新逼真的视觉效果。
+
+她身穿一件 {argument name="outfit color" default="象牙白"} 精致蕾丝边吊带时尚上衣，轻薄柔软的面料自然叠搭。服装风格精致、柔美且优雅，面料纹理细腻，蕾丝装饰考究，褶皱自然，剪裁贴合身形。她的身材曲线柔和匀称，上围丰满自然，整体轮廓圆润，比例真实。整体造型应呈现出高雅的美容与香水编辑大片感，而非普通的性感写真。
+
+构图：半身近景肖像，3/4 侧身角度，优雅的低头凝视，单手持香水瓶靠近身体，光线照亮空气中的香水喷雾，手部结构自然，肩膀放松，姿态真实，构图考究。
+
+光影：侧面温暖的漫射窗光，皮肤、头发、织物和香水喷雾上带有柔和的高光，阴影细腻，色调真实，氛围电影感且自然。
+
+背景：窗边安静的室内空间，背景为模糊的中性墙面，极简内饰，浅景深，营造出宁静的私人空间氛围。
+
+风格：照片级写实，超写实，逼真的日本女性，带有细微毛孔的真实皮肤质感，自然的面部不对称，细节丰富的湿发质感，精致的蕾丝与织物纹理，高端编辑摄影，50mm 镜头感，f/2.8 大光圈，面部与香水喷雾焦点清晰，背景虚化柔和。
+
+整体意图：一张写实风格的彩色香水主题编辑肖像，展现一位清新亲切的日本女性，突出柔和的面部特征、自然美感、细腻的服装质感以及优雅的窗光氛围。
+
+[English]
+Ultra-realistic color portrait of a {argument name="subject" default="Japanese woman"} in her {argument name="age" default="early 20s"}, photographed in soft natural window light. The image has a calm, intimate fashion-editorial mood, elegant and understated. She is shown from the upper body in a close 3/4 angle, with her head slightly lowered and her gaze softly directed downward. One hand gently holds a small glass perfume bottle, while a fine mist catches the light in the air.
+
+Her face has a soft rounded oval shape, a petite and delicate appearance, warm brown eyes, gentle under-eye softness, a natural subtle smile with a slightly charming unevenness, and fresh realistic skin. She has dark brown medium-length hair with a slightly damp texture, with a few fine strands falling naturally around her face, creating a fresh and lifelike impression.
+
+She wears an {argument name="outfit color" default="ivory off-white"} delicate lace-trimmed camisole-style fashion top, layered naturally with light soft fabric details. The outfit feels refined, feminine, and elegant, with subtle fabric texture, fine lace accents, soft folds, and a gentle natural fit. Her figure is softly curvy and balanced, with a naturally fuller upper silhouette, softly rounded feminine shape, and realistic body proportions. The overall styling should look like a tasteful beauty and fragrance editorial, not a glamour shoot.
+
+Composition: close upper-body portrait, 3/4 angle, elegant downward gaze, one hand holding a perfume bottle near the body, visible perfume mist illuminated by soft light, natural hand anatomy, relaxed shoulders, realistic posture, tasteful framing.
+
+Lighting: warm diffused window light from the side, soft highlights on skin, hair, fabric, and perfume mist, gentle shadows, realistic color tones, cinematic but natural atmosphere.
+
+Background: a quiet indoor room near a window, softly blurred neutral wall, minimal interior, shallow depth of field, calm private-room atmosphere.
+
+Style: photorealistic, ultra-realistic, lifelike Japanese woman, realistic skin texture with subtle pores, natural facial asymmetry, detailed damp hair strands, refined lace and fabric texture, premium editorial photography, 50mm lens look, f/2.8, sharp focus on face and perfume mist, soft background blur.
+
+Overall intent: a realistic color version of a quiet perfume editorial portrait, featuring a fresh and approachable Japanese woman with soft facial features, natural beauty, delicate clothing texture, and elegant window-light atmosphere.
+```
+
+**来源：** [@こやす69＠AIプロンプト屋](https://x.com/AI_money_club/status/2068823778973614207) | 2026-06-21
+
+---
+
+### 📷 例 2088：职业清单平铺剪影
+
+![职业清单平铺剪影](../../images/%E8%81%8C%E4%B8%9A%E6%B8%85%E5%8D%95%E5%B9%B3%E9%93%BA%E5%89%AA%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 {argument name="profession" default="[PROFESSION]"} 装备的俯视平铺摄影图，Knolling 风格::5 排列：将实物工具、装备和配件精心排列在 {argument name="background" default="米色背景"} 上，完美构成 {argument name="shape" default="[SHAPE]"} 的实心剪影::5 清单：AI_INFER（高度逼真、触感真实的工具、织物以及 [PROFESSION] 日常生活中的特定物品），统一的色彩分级::4 排版：左下角带有标注职业的简洁优雅文字::3 灯光：摄影棚柔光箱，零透视畸变，8k 分辨率，商业产品摄影::3 杂乱、重叠的物体、3D 透视、房间背景、手::-3
+
+[English]
+A top-down flat lay photograph of {argument name="profession" default="[PROFESSION]"} gear, Knolling style::5  The Arrangement: The physical tools, gear, and accessories are meticulously arranged on a {argument name="background" default="beige background"} to perfectly form the solid silhouette of a {argument name="shape" default="[SHAPE]"}::5  The Inventory: AI_INFER(Highly realistic, tactile tools, fabrics, and objects specific to the daily life of a [PROFESSION]), cohesive color grading::4  Typography: Clean, elegant text in the bottom left corner labeling the profession::3  Lighting: Studio overhead softbox, zero perspective distortion, 8k resolution, commercial product photography::3  Messy, overlapping objects, 3d perspective, room background, hands::-3
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2068818493672210433) | 2026-06-21
+
+---
+
+### 📷 例 2090：赛博朋克浪人对决
+
+![赛博朋克浪人对决](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%B5%AA%E4%BA%BA%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感的赛博朋克动漫动作场景，背景是夜晚霓虹闪烁的雨中巷道。两名主要战士在中央对峙：左侧是一位神秘的浪人，头戴宽大的草笠，身披破旧的长款黑斗篷，主要以背影呈现，摆出低姿态的战斗架势，手持武士刀；右侧是一位身穿盔甲的忍者武士，戴着恶魔般的鬼面具，双眼闪烁红光，正向前突刺，双刀一柄向外延伸，另一柄横跨碰撞。他们的刀剑在中心相交，迸发出耀眼的青白色能量，在潮湿的街道上溅射出锐利的电火花和青绿色闪电弧。场景设定在密集的未来主义日本城市巷道中，地面是反光的鹅卵石路面，伴有大雨、水坑、薄雾、裸露的管道、悬挂的电缆、背景中的雨伞，以及许多带有日文/中文风格字符的粉色、青色、蓝色、橙色和紫色垂直霓虹灯牌。采用 16:9 动态宽屏构图，戏剧性的透视效果，高对比度的轮廓光，运动轨迹，战士脚边溅起的水花，细腻的盔甲与衣物褶皱，地面上的发光倒影，深蓝色的氛围阴影，以及精致的高端动漫概念艺术质量。保持画面中仅有两名战斗人员，不要出现可读的英文字符，不要有 Logo，不要有水印。
+
+[English]
+Create a cinematic cyberpunk anime action scene in a rainy neon-lit alley at night. Two main fighters face off in the center: on the left, a mysterious ronin wearing a wide straw kasa hat and a long torn black cloak, seen mostly from behind in a low battle stance, holding a katana; on the right, an armored ninja-samurai with a demonic oni-style mask and glowing red eyes lunges forward with two blades, one extended outward and one crossing the clash. Their swords meet at the center in a brilliant cyan-white energy burst, throwing sharp electric sparks and turquoise lightning arcs across the wet street. The setting is a dense futuristic Japanese city alley with reflective cobblestone pavement, heavy rain, puddles, mist, exposed pipes, hanging cables, umbrellas in the background, and many vertical neon signs with Japanese/Chinese-style characters in pink, cyan, blue, orange, and purple. Use a dynamic wide 16:9 composition, dramatic perspective, high contrast rim lighting, motion streaks, rain splashes around the fighters’ feet, detailed armor and cloth folds, glowing reflections on the ground, dark blue atmospheric shadows, and polished high-end anime concept art quality. Keep exactly two combatants, no readable English text, no logos, no watermark.
+```
+
+**来源：** [@Abe Lee](https://x.com/AbeLee888295/status/2068810336959115632) | 2026-06-21
+
+---
+
+### 📷 例 2096：蓝色花卉幻想肖像
+
+![蓝色花卉幻想肖像](../../images/%E8%93%9D%E8%89%B2%E8%8A%B1%E5%8D%89%E5%B9%BB%E6%83%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版电影感幻想肖像，描绘一位年轻女性坐在梦幻般的蓝白花丛中，身穿一件优雅飘逸的 {argument name="dress color" default="白至水蓝色"} 长裙，裙身采用半透明分层织物，紧身胸衣和一只袖子上饰有深色墨水般的碎花图案，宽大的裙摆在她周围铺开。她留着非常长的波浪形 {argument name="hair color" default="黑色"} 头发，佩戴着华丽的超大花卉头饰，该头饰由 4 簇醒目的花朵组成：右上角一朵明亮的青色花朵，其后是一朵淡粉色花朵，耳边是一簇白色花朵，左侧是一朵鲜艳的蓝色花朵，周围环绕着细小的枝条和叶片。让她以四分之三侧面坐着，躯干微微向左转，一只手轻轻托在下巴附近，另一只手放松地放在膝盖上。将她置于盛开的枝头间，花朵以 2 种主色调为主：电光青蓝色和柔和的白色，叶片和花瓣点缀前景。使用浅景深效果，左下角前景有模糊的大花朵，背景为明亮的高调白色天空，采用冷蓝色调，柔和的背光，空灵的焦外成像，以及超细腻的织物纹理。面部应呈现出柔和模糊且不清晰的效果，而头发、花朵、手部和裙子则保持清晰的渲染。风格：照片级写实幻想时尚摄影，精致、浪漫、明亮，9:16 竖版构图，无文字，无水印。
+
+[English]
+Create a vertical cinematic fantasy portrait of a young woman sitting in a dreamy blue-and-white flowering garden, wearing an elegant flowing {argument name="dress color" default="white-to-aqua blue"} gown with translucent layered fabric, dark ink-like floral branch patterns across the bodice and one sleeve, and a wide billowing skirt spread around her. She has very long wavy {argument name="hair color" default="black"} hair and an ornate oversized floral headpiece made of exactly 4 prominent flower clusters: one bright cyan flower on the upper right, one pale pink blossom behind it, one white flower cluster near the ear, and one vivid blue flower on the left side, surrounded by fine twig-like sprays and small leaves. Pose her seated in three-quarter view, torso turned slightly left, one hand resting gently near her chin and the other hand relaxed on her lap. Place her among blooming branches with exactly 2 dominant blossom colors, electric cyan-blue and soft white, with leaves and petals framing the foreground. Use a shallow depth of field with large blurred blossoms in the lower left foreground, a bright high-key white sky background, cool blue color grading, soft backlight, ethereal bokeh, and ultra-detailed fabric texture. The face should appear softly blurred and indistinct, while the hair, flowers, hands, and dress remain sharply rendered. Style: photorealistic fantasy fashion photography, delicate, romantic, luminous, 9:16 vertical composition, no text, no watermark.
+```
+
+**来源：** [@NIKKO](https://x.com/AIArtAlchemist/status/2068806663394787453) | 2026-06-21
+
+---
+
+### 📷 例 2097：昭和复古游乐园可乐饼人像
+
+![昭和复古游乐园可乐饼人像](../../images/%E6%98%AD%E5%92%8C%E5%A4%8D%E5%8F%A4%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%AF%E4%B9%90%E9%A5%BC%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖构图旅行快照，场景设定在 20 世纪 60 年代昭和复古风格的日本怀旧游乐园商业街，类似西武园游乐园的夕阳丘商店街。在前景中，展示一位年轻的日本女性，留着深棕色波浪短发，身穿一件浅色 {argument name="dress color" default="浅蓝色"} 短袖 V 领排扣夏季连衣裙，腰部有松紧设计，背着一条细细的白色斜挎包带；她位于画面中心，取景从大腿中部向上，单手拿着一个装在棕色纸袋里的热可乐饼靠近嘴边。她的脸部被一个平面的不透明中棕色方形遮挡块刻意遮住，遮挡区域从额头延伸至嘴部，周围仍可见部分头发。在她身后，营造出一条繁忙的室内商业街，温暖的日光透过玻璃和金属屋顶洒下，具有浅景深效果，右侧是一家灰色木质店面。在她上方添加一个醒目的橙色商店招牌，文字为 {argument name="main shop sign" default="本格特製 肉のおほみ 電話 (2) 4125"}，配有蓝色和红色字体以及绿色边框；招牌下方添加一个红黄条纹的遮阳篷。沿街悬挂 4 个红白相间的圆柱形纸灯笼，店面旁边悬挂 1 个圆形红灯笼。背景中包含行人：3 个主要行走的人物背影，带有柔和的模糊效果。添加几个复古的竖式招牌，包括左侧一个拱形入口招牌，文字为 {argument name="arcade sign" default="SEIBUEN YUENCHI"}，以及一个写有 {argument name="vertical sign" default="王冠クリーム"} 的高大竖式招牌。使用照片级的细节，自然的皮肤和织物纹理，柔和的背景虚化，温暖的怀旧色调，无现代标识，无水印，前景中无额外人物。
+
+[English]
+Create a realistic vertical travel snapshot in a nostalgic 1960s Showa-retro Japanese amusement-park shopping street, like Seibuen Yuenchi's Sunset Hill shopping arcade. In the foreground, show one young Japanese woman with a short wavy dark-brown bob wearing a pale {argument name="dress color" default="light blue"} short-sleeve V-neck button-front summer dress with an elastic waist and a thin white crossbody bag strap; she stands centered, cropped from mid-thigh upward, holding one hot croquette in a tan paper pouch up near her mouth with one hand. Her face is intentionally obscured by one flat opaque medium-brown square censor block covering the central face area from forehead to mouth, while some hair remains visible around it. Behind her, create a busy covered arcade with warm daylight through a glass-and-metal roof, shallow depth of field, and a grey wooden storefront on the right. Add one large orange shop sign above her reading {argument name="main shop sign" default="本格特製 肉のおほみ 電話 (2) 4125"}, with blue and red lettering and a green frame; add a red-yellow striped awning beneath it. Include exactly four red-and-white cylindrical paper lanterns hanging along the street and exactly one round red lantern beside the storefront. Include pedestrians in the background: three main walking figures visible from behind, softly blurred. Add several retro vertical signs, including one arched entrance sign on the left reading {argument name="arcade sign" default="SEIBUEN YUENCHI"} and a tall vertical sign reading {argument name="vertical sign" default="王冠クリーム"}. Use photorealistic detail, natural skin and fabric texture, soft background blur, warm nostalgic colors, no modern signage, no watermark, no extra people in the foreground.
+```
+
+**来源：** [@藍澤 ミライ](https://x.com/mirai_ai2050/status/2068801133355626681) | 2026-06-21
+
+---
+
+### 📷 例 2108：深秋电影感人像系列
+
+![深秋电影感人像系列](../../images/%E6%B7%B1%E7%A7%8B%E7%94%B5%E5%BD%B1%E6%84%9F%E4%BA%BA%E5%83%8F%E7%B3%BB%E5%88%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+18K 超写实电影感人像系列，与参考图像面部完全匹配，保持相同的时尚发型和短方胡须（无变化）。创建 10 种完全不同的姿势，并使用 {argument name="shirt colors" default="深秋衬衫颜色：橄榄绿、森林绿、酒红色、巧克力棕、铁锈橙、芥末黄、深青色、咖啡棕、驼色和炭黑色"}。黄金时刻光影，温暖的电影级调色，真实的皮肤纹理，清晰的下颌线，柔和的背景虚化，HDR，{argument name="camera" default="Leica SL3"}，{argument name="lens" default="85mm 镜头"}，f/1.4 --ar 4:5 比例
+
+[English]
+18K ultra-realistic cinematic portrait series, exact face match from reference image, same Stylish hairstyle and same short boxed beard (no changes). Create 10 completely different poses with {argument name="shirt colors" default="Deep Autumn shirt colors: Olive Green, Forest Green, Burgundy, Chocolate Brown, Rust Orange, Mustard Yellow, Dark Teal, Coffee Brown, Camel Beige, and Charcoal Black"}. Golden hour lighting, warm cinematic color grading, realistic skin texture, sharp jawline, soft bokeh, HDR, {argument name="camera" default="Leica SL3"}, {argument name="lens" default="85mm lens"}, f/1.4 --ar 4:5 ratio
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2068721235564073223) | 2026-06-21
+
+---
+
+### 📷 例 2118：梦幻森林黄金时刻人像
+
+![梦幻森林黄金时刻人像](../../images/%E6%A2%A6%E5%B9%BB%E6%A3%AE%E6%9E%97%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张梦幻般的竖构图人像摄影作品，画面中一位 {argument name="subject" default="年轻女性"} 独自站在郁郁葱葱的森林中一条狭窄的泥土小径上，时间处于黄金时刻。她位于画面中心偏下方，距离镜头较远，在参天大树的衬托下显得身姿娇小，身穿一件长款无袖淡粉色碎花雪纺裙，裙摆轻盈飘逸，脚穿白色鞋子。她棕色的短发在光线下闪烁；一只手抬起靠近脸庞，仿佛在拨弄头发，另一只手轻轻提着裙边。小径向茂密的绿植深处蜿蜒延伸，两侧长满高草，头顶是树叶交织而成的拱形树冠。强烈的暖阳从左上方射入，形成巨大的白色光晕、柔和的雾气、发光的逆光、叶片上的斑驳高光，以及画面下方角落处微妙的绿色镜头光晕。采用宁静、浪漫、空灵的日系人像摄影风格，色彩自然，高动态范围，浅至中等景深，柔焦光晕，3:4 竖构图，无文字，无水印，无多余人物。
+
+[English]
+Create a dreamy vertical portrait photograph of a {argument name="subject" default="young woman"} standing alone on a narrow dirt path in a lush green forest during golden hour. She is positioned slightly below center and far enough away to appear small against the towering trees, wearing a long sleeveless pale pink floral chiffon dress with a soft flowing skirt and white shoes. Her short brown hair catches the light; one hand is raised near her face as if brushing hair aside, while the other lightly holds the edge of her skirt. The path curves gently into dense greenery, with tall grasses on both sides and an arching canopy of leafy trees overhead. Strong warm sunlight enters from the upper left, creating a large white sun flare, soft haze, glowing backlight, dappled highlights on leaves, and subtle green lens flares near the lower corners. Use a serene, romantic, ethereal Japanese portrait photography mood, natural colors, high dynamic range, shallow-to-medium depth of field, soft focus bloom, vertical 3:4 composition, no text, no watermark, no extra people.
+```
+
+**来源：** [@yokotachaos](https://x.com/yokotachaos/status/2068680337027207298) | 2026-06-21
+
+---
+
+### 📷 例 2119：深色纸艺花卉肖像
+
+![深色纸艺花卉肖像](../../images/%E6%B7%B1%E8%89%B2%E7%BA%B8%E8%89%BA%E8%8A%B1%E5%8D%89%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖构图电影感奇幻肖像，主角为 {argument name="character name" default="一位优雅的年轻女性"}，周围环绕着茂密如梦境般的纸花花园。主体呈胸部以上的三分之四侧面，留着深色波浪形齐肩发，露出一只耳朵，一只苍白的手轻柔地抬起靠近脸颊。脸部中央放置一个巨大的不透明正方形作为刻意的隐私/遮挡块，呈现出柔和的深棕色到玫瑰棕色的垂直渐变。她身穿深海军蓝半透明蕾丝连衣裙，饰有花卉刺绣，领口和袖口带有黑色荷叶边蕾丝。整个场景应呈现出层叠剪纸、半透明牛皮纸、墨水溅射和悬浮在周围的水彩花瓣的质感，而非普通的真实花卉。使用冷午夜蓝、黑色、冰白色和淡蓝色调，并点缀少许深红色。在前景和下半部分包含 5 朵醒目的红色或粉色花朵，以及许多环绕头部和肩部的小型白色纸花和细长枝干。背景应柔化虚化，呈现抽象的撕纸纹理、淡雾、深靛蓝水墨晕染和精致的白色枝条。光线从左上方射入，柔和而空灵，具有浅景深、光斑效果，头发、蕾丝、纸张边缘和花脉细节丰富。风格：超精细 GPT-image-2 数字艺术，写实的面部与头发渲染结合超现实纸艺拼贴植物元素，优雅的日式深色花卉氛围，无文字，无水印。
+
+[English]
+Create a vertical 9:16 cinematic fantasy portrait of {argument name="character name" default="an elegant young woman"} surrounded by a dense, dreamlike paper-flower garden. The subject is shown from the chest up in three-quarter profile, with dark wavy shoulder-length hair, one visible ear, a pale hand raised delicately beside the cheek, and a large opaque square placed over the center of the face as a deliberate privacy/censor block, colored with a muted dark-to-rose brown vertical gradient. She wears a deep navy translucent lace dress with floral embroidery and ruffled black lace at the collar and cuffs. The entire scene should feel like layered cut paper, translucent vellum, ink splashes, and watercolor petals suspended around her, not ordinary real flowers. Use a cool midnight blue, black, icy white, and pale blue palette with selective crimson accents. Include exactly 5 prominent red or pink blossoms in the foreground and lower half, plus many small white paper blossoms and thin branching stems arcing around the head and shoulders. The background should be softly blurred with abstract torn-paper textures, pale mist, dark indigo ink washes, and delicate white branches. Lighting is soft and ethereal from the upper left, with shallow depth of field, bokeh, high detail in the hair, lace, paper edges, and flower veins. Style: ultra-detailed GPT-image-2 digital art, photorealistic face-and-hair rendering combined with surreal paper-collage botanical elements, elegant Japanese-inspired dark floral atmosphere, no text, no watermark.
+```
+
+**来源：** [@NIKKO](https://x.com/AIArtAlchemist/status/2068678732215378361) | 2026-06-21
+
+---
+
+### 📷 例 2123：手绘动漫风格海滩漫步
+
+![手绘动漫风格海滩漫步](../../images/%E6%89%8B%E7%BB%98%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%BB%A9%E6%BC%AB%E6%AD%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+手绘动漫风格海滩漫步肖像，{argument name="character" default="留着凌乱丸子头的年轻成年女性"}
+
+[English]
+Hand Drawn Anime Beach Walk Portrait, {argument name="character" default="adult young woman with messy bun"}
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068657013425328557) | 2026-06-21
+
+---
+
+### 📷 例 2126：巴黎旅行人像 Face Lock
+
+![巴黎旅行人像 Face Lock](../../images/%E5%B7%B4%E9%BB%8E%E6%97%85%E8%A1%8C%E4%BA%BA%E5%83%8F%20Face%20Lock.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+FACE LOCK。保留精确的面部特征。17:05 人像，地点：{argument name="location" default="巴黎战神广场"}。身穿 {argument name="outfit" default="粉蓝色粗花呢外套，丝绸围巾"}，扎着高马尾，佩戴金饰，开怀大笑。埃菲尔铁塔清晰可见，她面部的白色大理石雕塑矗立在巴黎之上。阳光明媚，充满活力，超写实 {argument name="style" default="旅行杂志风格"}。
+
+[English]
+FACE LOCK. Preserve exact facial identity. 17:05 portrait at {argument name="location" default="Champ de Mars, Paris"}. Laughing in {argument name="outfit" default="powder-blue tweed, silk scarf"},high ponytail, gold jewelry. Eiffel Tower visib white-marble monument of her face towers over Paris. Sunny, vibrant, ultra-realistic {argument name="style" default="travel magazine style"}.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2068651657651487201) | 2026-06-21
+
+---
+
+### 📷 例 2130：雪林中的男子与狼群
+
+![雪林中的男子与狼群](../../images/%E9%9B%AA%E6%9E%97%E4%B8%AD%E7%9A%84%E7%94%B7%E5%AD%90%E4%B8%8E%E7%8B%BC%E7%BE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一名 {argument name="subject" default="强壮帅气的男子"} 走在 {argument name="setting" default="夜晚的雪林"} 中，周围环绕着 {argument name="companions" default="巨大的狼群"}，身穿深色皮大衣，锐利的蓝色双眼，飘落的雪花，月光穿透树木，电影级奇幻写实风格，神秘氛围，超高细节，奢华杂志摄影，杰作，8k 分辨率。
+
+[English]
+A {argument name="subject" default="powerful handsome man"} walking through a {argument name="setting" default="snowy forest at night"} surrounded by {argument name="companions" default="massive wolves"}, dark leather coat, piercing blue eyes, falling snow, moonlight breaking through trees, cinematic fantasy realism, mysterious atmosphere, ultra detailed, luxury editorial photography, masterpiece, 8k.
+```
+
+**来源：** [@Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603/status/2068626509712253102) | 2026-06-21
+
+---
+
+### 📷 例 2133：低多边形足球运动员插画
+
+![低多边形足球运动员插画](../../images/%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细的低多边形数字肖像插画，主体为 {argument name="subject" default="年轻的职业足球运动员"}，采用头部和肩部构图，自信地看向右上角。留着干练的黑色寸头，皮肤修剪整齐，运动员面部轮廓分明，下颌线硬朗，表情冷静而坚定。身穿 {argument name="outfit" default="现代宝蓝色足球球衣"}，球衣带有微妙的几何多边形纹理。面部由锐利的棱角多边形切面构成，色彩过渡平滑，肤色真实，边缘清晰，眼睛细节丰富，采用电影级布光，阴影效果强烈，呈现出优质矢量插画的质感。背景采用受 {argument name="background inspiration" default="法国国旗"} 启发的醒目抽象构图，左侧为深蓝色，中间为白色，右侧为鲜艳的红色，并结合了动态几何碎片、多边形形状、棱角分明的线条和动态图形。高对比度，现代体育海报美学，构图简洁，色彩鲜艳，编辑级品质，电子竞技品牌风格，Adobe Illustrator 矢量外观，Behance 作品集质量，超清晰，8K 分辨率，居中肖像，垂直 4:5 比例。
+
+[English]
+Ultra-detailed low poly digital portrait illustration of a {argument name="subject" default="young professional football player"}, head-and-shoulders composition, looking confidently toward the upper right, short black buzz cut with a clean skin fade, athletic face with strong jawline, calm determined expression, wearing a {argument name="outfit" default="modern royal blue football jersey"} with subtle geometric polygon texture. The face is constructed from sharp angular polygonal facets with smooth gradients, realistic skin tones, crisp edges, high-detail eyes, cinematic lighting, dramatic shadows, premium vector illustration quality. Background features a bold abstract composition inspired by the {argument name="background inspiration" default="French flag"}, with deep blue on the left, white in the center, vibrant red on the right, combined with dynamic geometric shards, polygon shapes, angular streaks, and motion graphics. High contrast, modern sports poster aesthetic, clean composition, vibrant colors, editorial quality, esports branding style, Adobe Illustrator vector look, Behance portfolio quality, ultra sharp, 8K, centered portrait, vertical 4:5.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2068608547546636769) | 2026-06-21
+
+---
+
+### 📷 例 2136：写实风格遮挡水手服自拍
+
+![写实风格遮挡水手服自拍](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E9%81%AE%E6%8C%A1%E6%B0%B4%E6%89%8B%E6%9C%8D%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度写实的竖版自拍风格肖像，主角为一位 {argument name="character age" default="年轻"} 的东亚女性，身着日本水手校服进行 Cosplay。构图为胸部以上的特写，呈现出手机手持拍摄的效果。她留着 {argument name="hair color" default="深黑褐色"} 的中长发，发型略显凌乱并松散地扎起，带有稀疏的刘海和头顶细碎的散发。她的面部被一个位于正中央的大型不透明方形隐私遮挡块完全遮盖，遮挡块呈温暖的柔和棕色，覆盖了从额头到下巴的整个面部区域。她穿着一件挺括的白色水手风衬衫，领口和袖口饰有蓝色格子边，系着海军蓝领带，胸前有一个小口袋。背景为光线柔和的温馨卧室，墙面呈浅奶油色，右侧为床铺，背景中有一个毛绒泰迪熊，左侧为柔和发光的台灯或梳妆区，所有背景细节均通过浅景深处理呈现出轻微模糊感。采用自然室内光，展现真实的布料褶皱、细腻的发丝细节、颈部和手臂处自然的肤色，构图随意自然，无文字，无水印。
+
+[English]
+Create a highly realistic vertical selfie-style portrait of a {argument name="character age" default="young adult"} East Asian woman cosplaying in a Japanese sailor school uniform, framed from the chest upward as if taken with a phone at arm’s length. She has {argument name="hair color" default="dark black-brown"} slightly messy medium-length hair tied back loosely, with wispy bangs and flyaway strands around the head. Her face is completely hidden by one large centered opaque square privacy censor block, colored warm muted brown, covering the entire facial area from forehead to chin. She wears a crisp white sailor-style blouse with blue plaid trim on the collar and sleeve cuffs, a navy necktie, and a small chest pocket. The setting is a softly lit cozy bedroom with a pale cream wall, a bed on the right, a plush teddy bear in the background, and a softly glowing lamp or vanity area on the left, all background details slightly blurred with shallow depth of field. Use natural indoor lighting, realistic fabric folds, fine hair detail, soft skin tones visible at the neck and arm, casual candid composition, no text, no watermark.
+```
+
+**来源：** [@桁大](https://x.com/ls1823028681/status/2068594261449490729) | 2026-06-21
+
+---
+
+### 📷 例 2144：日本学生便利店抓拍
+
+![日本学生便利店抓拍](../../images/%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E4%BE%BF%E5%88%A9%E5%BA%97%E6%8A%93%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="留着黑色长直发、带有轻薄空气刘海的日本女生"}，身穿 {argument name="outfit top" default="薄荷绿 Polo 衫"} 和 {argument name="outfit bottom" default="蓝色格子裙"}，随意地站在摆满彩色饮料的便利店冷柜前。一只手拿着一本打开的书，姿态放松，表情自然柔和，充满日常学生气息。明亮的荧光灯照明，冷柜门上有写实的倒影，清晰可见的饮料标签，便利店内部环境，平凡日子里的抓拍瞬间。使用智能手机拍摄，手持 iPhone 照片，轻微柔焦，色彩自然，真实的移动端 HDR 处理，写实的皮肤纹理，随意的社交媒体快照，未经修饰的手机拍摄质感，普通的便利店氛围，构图略显随意，无专业摆拍，无影棚灯光，无电影级调色，照片级真实，高质量移动摄影，日常生活美学，自然且随性。
+
+[English]
+{argument name="subject" default="Japanese girl with long straight black hair and soft wispy bangs"}, wearing a {argument name="outfit top" default="mint green polo shirt"} and a {argument name="outfit bottom" default="blue plaid skirt"}, standing casually in front of a convenience store refrigerator filled with colorful drinks. Holding an open book in one hand, relaxed posture, soft natural expression, everyday student vibe. Bright fluorescent store lighting, realistic reflections on the refrigerator doors, visible drink labels, convenience store interior, candid moment during a normal day. Captured with a smartphone camera, handheld iPhone photo, slight softness, natural colors, authentic mobile HDR processing, realistic skin texture, casual social media snapshot, unedited phone-camera look, ordinary convenience store atmosphere, slightly imperfect framing, no professional posing, no studio lighting, no cinematic color grading, photorealistic, high-quality mobile photography, everyday lifestyle aesthetic, spontaneous and natural.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2068543924055240801) | 2026-06-21
+
+---
+
+### 📷 例 2149：月光蕾丝王子肖像
+
+![月光蕾丝王子肖像](../../images/%E6%9C%88%E5%85%89%E8%95%BE%E4%B8%9D%E7%8E%8B%E5%AD%90%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高细节的动漫风格竖版肖像，主角是 {argument name="character name" default="一位精致的蕾丝王子"}，他坐在暗夜月光下的玫瑰花园中，靠近观察者，采用戏剧性的低角度构图和浅景深效果。角色是一位身材修长的年轻男子，拥有 {argument name="hair color" default="凌乱的银白色短发"}、苍白的皮肤、裸露的肩膀，面部区域（从额头到下巴）被一个巨大的灰色不透明正方形遮挡。他穿着 4 件主要服饰：头戴一顶倾斜的华丽银冠，身穿闪亮的白色无袖背心，外搭一件从双肩滑落的白色蕾丝质感超大开衫，下身穿着带有银链细节的黑色修身长裤。佩戴 3 条清晰可见的项链：一条精致的蕾丝颈圈、一条深银色链条项链，以及一条带有小星星吊坠的长款项链。在他向观察者伸出的右手上，展示 4 枚银戒指：一枚粗拇指环、一枚细食指环、一枚棱角分明的中指环和一枚无名指环。姿势应显得亲密且具有王子气质，手部向镜头进行透视缩短处理，躯干微微前倾。背景包含铁艺栅栏、紫色玫瑰、右侧发光的复古路灯、深蓝色的星空以及飘落的淡紫色花瓣。采用明亮的冷蓝色调照明，辅以温暖的灯笼高光，呈现出光泽面料的闪烁感、复杂的蕾丝纹理、优雅的哥特浪漫氛围、超精细的数字绘画、干净的动漫线条、柔和的电影级虚化效果，无文字，无水印。
+
+[English]
+Create a high-detail anime-style vertical portrait of {argument name="character name" default="a delicate lace prince boy"} sitting close to the viewer in a dark moonlit rose garden at night, with a dramatic low-angle composition and shallow depth of field. The character is a slender young man with {argument name="hair color" default="short tousled silver-white hair"}, pale skin, bare shoulders, and a large flat opaque gray square deliberately covering the entire face area from forehead to chin. He wears exactly 4 main outfit pieces: an ornate silver crown tilted on his head, a sparkling white sleeveless tank top, an oversized white lace-textured cardigan slipping off both shoulders, and fitted black pants with silver chain details. Add exactly 3 visible necklaces: a delicate lace choker, a dark silver chain necklace, and a longer chain with a small star pendant. On the raised right hand reaching toward the viewer, show exactly 4 silver rings: one thick thumb band, one thin index-finger ring, one angular middle-finger ring, and one ring-finger band. The pose should feel intimate and princely, with the hand foreshortened toward the camera and the torso leaning forward. The background contains a wrought-iron fence, purple roses, glowing vintage street lamps on the right, a deep blue starry sky, and drifting pale purple flower petals. Use luminous cool blue lighting with warm lantern highlights, glossy fabric sparkles, intricate lace texture, elegant gothic-romantic atmosphere, ultra-detailed digital painting, clean anime linework, soft cinematic bokeh, no text, no watermark.
+```
+
+**来源：** [@Sol](https://x.com/solvraens/status/2068498583914205394) | 2026-06-21
+
+---
+

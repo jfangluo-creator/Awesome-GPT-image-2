@@ -1963,3 +1963,21 @@ Constraints: Use exactly 7 information cards and exactly 1 bottom slogan banner.
 
 ---
 
+### 📊 例 2117：复古兔子拼贴标本
+
+![复古兔子拼贴标本](../../images/%E5%A4%8D%E5%8F%A4%E5%85%94%E5%AD%90%E6%8B%BC%E8%B4%B4%E6%A0%87%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的复古混合媒介拼贴插画，画面中心为一个站立的兔子形状角色，背景为泛黄的奶油色档案纸，带有细长矩形边框和淡淡的污渍。该角色是一个全身拟人化的兔子剪影，拥有 2 只修长的竖耳、1 个圆头、1 个躯干、2 只手臂、2 条腿和 2 只厚实的靴子，完全由撕碎的纸片、古董图表、地图、手稿残片、电路板碎片、硬币、齿轮和工程蓝图拼贴而成。配色采用柔和的深褐色、羊皮纸色、赭石色、海军蓝蓝图色、褪色的电路板绿色、铜色和深色墨水色调。头部由左侧的马匹洞穴壁画纸和右侧的解剖/技术绘图纸拼贴而成，中央的奶油色圆形面部贴片上绘有一个简单的黑色无穷大符号，头部右侧附有一个巨大的红色玻璃相机镜头或机械光学装置。在头部后方，绘制向外延伸的精细放射状墨水线条。两只耳朵各不相同：左耳包含一个带有小型标注节点和撕裂手稿边缘的科学网络图；右耳包含单词“MYCELIUM”、白色蘑菇/菌丝体插图以及一条绿色电路板条。躯干看起来像一件打补丁的黄色纸质外套或束腰外衣，上面印有大字 {argument name="torso text" default="KANA"}，并配有撕裂的胶带状纸条、地图碎片、小型灯泡绘图以及右侧露出的绿色电路板。在头部左下方/躯干上部附近添加 6 枚清晰可见的硬币，并在角色左侧髋部/侧面添加 3 个工业齿轮。腿部和靴子由深海军蓝蓝图纸制成，带有白色绘图线条、米色撕裂纸带和厚重的黑色靴底。在角色周围添加带有细引线的小型手写注释标签，呈现老式标本图的风格：右上角标注“Catalog ocean prominent”，左中部标注“Illimeted manuscip cuttings”，右中部标注“Circuit letterpress samples”，左下角标注“Industrial gears”，右下角标注“Catalog specimen plate”。整体氛围：异想天开的复古未来主义珍奇屋标本，精准的拼贴边缘，层叠的撕裂纸张质感，手绘技术细节，无写实人脸特征，非现代简洁矢量风格。主体应为 {argument name="character shape" default="a rabbit silhouette"}，面部贴片上带有 {argument name="central symbol" default="a black infinity symbol"}，以高分辨率扫描纸艺拼贴形式呈现于 {argument name="background paper" default="aged cream paper"} 之上。
+
+[English]
+Create a vertical vintage mixed-media collage illustration of a standing rabbit-shaped character centered on an aged cream archival paper page, with a thin rectangular border and subtle stains. The character is a full-body anthropomorphic bunny silhouette with exactly 2 long upright ears, 1 round head, 1 torso, 2 arms, 2 legs, and 2 chunky boots, constructed entirely from torn paper fragments, antique diagrams, maps, manuscript scraps, circuit board pieces, coins, gears, and engineering blueprints. Use a muted sepia, parchment, ochre, navy blueprint, faded green circuit-board, copper, and dark ink palette. The head should be a collage of horse cave-art paper on the left, anatomical/technical drawing paper on the right, a central cream circular face patch containing a simple black infinity symbol, and a large red glass camera-lens or mechanical optical device attached on the right side of the head. Behind the head, draw fine radial sunburst ink lines extending outward. The 2 ears should differ: the left ear contains a scientific network diagram with small labeled nodes and torn manuscript edges; the right ear contains the word “MYCELIUM,” a white mushroom/mycelium illustration, and a green circuit-board strip. The torso should resemble a patched yellow paper coat or tunic with the large printed word {argument name="torso text" default="KANA"}, torn tape-like strips, map fragments, small lightbulb drawings, and exposed green circuit board on the right side. Add exactly 6 visible coins clustered near the lower left side of the head/upper torso, and exactly 3 industrial gears at the character’s left hip/side. The legs and boots should be made from dark navy blueprint paper with white drafting lines, beige torn paper bands, and heavy black boot soles. Include small handwritten annotation labels around the character with thin leader lines, in the style of an old specimen plate: “Catalog ocean prominent” near the upper right, “Illimeted manuscip cuttings” at left middle, “Circuit letterpress samples” at right middle, “Industrial gears” at lower left, and “Catalog specimen plate” at lower right. Overall mood: whimsical retro-futurist cabinet-of-curiosities specimen, precise collage edges, layered torn paper texture, hand-drawn technical details, no photorealistic human features, no modern clean vector style. The main subject should be {argument name="character shape" default="a rabbit silhouette"} with {argument name="central symbol" default="a black infinity symbol"} on the face patch, rendered as a high-resolution scanned paper collage on {argument name="background paper" default="aged cream paper"}.
+```
+
+**来源：** [@KANA｜東京AI映像](https://x.com/KanaWorks_AI/status/2068687847117512863) | 2026-06-21
+
+---
+

@@ -4811,3 +4811,143 @@ Constraints: Preserve the left-to-right narrative and the exact counts of the th
 
 ---
 
+### 🎨 例 2089：青花瓷风格
+
+![青花瓷风格](../../images/%E9%9D%92%E8%8A%B1%E7%93%B7%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+{argument name="風格" default="明代青花瓷風格"}，{argument name="主題" default="觀音菩薩、哪吒"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2068810669827526822) | 2026-06-21
+
+---
+
+### 🎨 例 2091：月下动漫长枪武者
+
+![月下动漫长枪武者](../../images/%E6%9C%88%E4%B8%8B%E5%8A%A8%E6%BC%AB%E9%95%BF%E6%9E%AA%E6%AD%A6%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级的动漫动作场景，背景为夜晚的东亚古代宫廷庭院。一位孤独的武者，{argument name="character name" default="无名长枪武者"}，正悬于石拱桥上方，手持一柄带有锋利双刃枪头的银色长枪，正在进行杂技般的旋转攻击。武者身着飘逸的深海军蓝与白色长袍，配有银色铠甲装饰，长长的腰带随风飘动，深色长发被兜帽或头饰半掩；身体在动态翻转中倒置，面部隐约可见，突显出速度与技能。一道明亮的青蓝色能量弧从长枪挥出，在右下角前景划出一道巨大的新月形斩击，散发出火花、碎片、薄雾和动态模糊轨迹。场景包括前景中一座主要石桥（带深色木质栏杆）、其后方的一段较小桥梁、带有温暖灯笼光影的传统瓦片宫殿建筑、远处的锯齿状山脉、两侧的松树，以及在星光璀璨的深蓝色天空中，透过漂浮云层散发光芒的巨大满月。采用戏剧性的月光照明，冷蓝色阴影与温暖的琥珀色窗户形成对比，精细的动漫关键帧艺术风格，锐利的线条，大气雾气，边缘处高动态模糊，以及类似奇幻武侠动画剧照的 16:9 宽画幅构图。无文字，无水印，无现代物品。
+
+[English]
+Create a cinematic anime action scene at night in an ancient East Asian palace courtyard. A lone martial warrior, {argument name="character name" default="unnamed spear warrior"}, is midair above a stone arched bridge, performing an acrobatic spinning attack while holding a long silver spear with a sharp double-edged spearhead. The warrior wears flowing dark navy and white robes with silver armor accents, long trailing sashes, and dark hair partly hidden by a hood or head covering; their body is inverted in a dynamic flip, face partly visible, emphasizing speed and skill. A bright cyan-blue energy arc from the spear sweeps across the lower right foreground in a huge crescent slash, scattering sparks, debris, mist, and motion streaks. The setting includes exactly one main stone bridge with dark wooden railings in the foreground, one smaller bridge section behind it, traditional tiled palace buildings with warm lantern lights, distant jagged mountains, pine trees on both sides, and a large full moon glowing through drifting clouds in a starry deep-blue sky. Use dramatic moonlit lighting, cool blue shadows contrasted with warm amber windows, detailed anime key art style, sharp linework, atmospheric fog, high motion blur at the edges, and a wide 16:9 composition like a fantasy wuxia animation still. No text, no watermark, no modern objects.
+```
+
+**来源：** [@Henley Hubery](https://x.com/HHubery11625/status/2068809150616707375) | 2026-06-21
+
+---
+
+### 🎨 例 2095：天界九尾灵狐
+
+![天界九尾灵狐](../../images/%E5%A4%A9%E7%95%8C%E4%B9%9D%E5%B0%BE%E7%81%B5%E7%8B%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张宽屏电影级奇幻动漫插画，描绘 {argument name="character name" default="一只白色九尾灵狐"} 在黄昏时分优雅地跃过冰封云端王国的天空。主体是一位拟人化的狐神，拥有白色皮毛、飘逸的银白色长发、尖耳朵、纤细且充满力量感的体格，身后展开九条巨大的弧形尾巴，极具视觉冲击力。角色身着优雅的白金配色天界战士装束，配有华丽的金色饰边、护臂、脚踝护具、丝带状饰带及多层布料；姿态动感十足，处于空中，一只手臂向前伸展，另一只向后，双腿弯曲，仿佛在飞行或起舞。在角色周围绘制两个巨大的椭圆形发光魔法环，横跨天际，一个呈青蓝色，另一个呈暖金色，环上散布着闪烁的星尘。背景为广阔梦幻的高海拔景观，包含冰冷的浮空悬崖、云层、晶莹的蓝色尖塔、积雪的岩层，以及悬浮在云间的蜿蜒苍白桥梁或冰径。左上方天空绘有一弯新月，远处点缀着繁星，伴有发光的蓝色水晶高光、朦胧的云迹，地平线附近呈现暖色夕阳余晖，并逐渐融入深邃的藏青色夜空。采用精致的高细节动漫奇幻风格，色彩鲜艳且柔和，光影具有绘画感，角色线条清晰，带有发光的轮廓光，展现史诗般的规模与魔法氛围。构图为 16:9，角色位于地平线上方偏中心位置。无文字，无水印，无 UI 元素。
+
+[English]
+Create a wide cinematic fantasy anime illustration of {argument name="character name" default="a white nine-tailed fox spirit"} leaping gracefully through the sky above a frozen cloud kingdom at twilight. The central subject is an anthropomorphic fox deity with white fur, flowing silver-white hair, pointed ears, a slim athletic build, and exactly nine large sweeping tails fanning behind them in a dramatic arc. Dress the character in an elegant white-and-gold celestial warrior outfit with ornate gold trim, arm bracers, ankle cuffs, ribbon-like sashes, and layered fabric panels; the pose is airborne and dynamic, with one arm extended forward, one arm back, and legs bent as if flying or dancing. Surround the character with two large luminous elliptical magic rings crossing the sky, one cyan-blue and one warm golden, with sparkling star particles scattered along the rings. The setting is a vast dreamlike high-altitude landscape of icy floating cliffs, cloud banks, crystalline blue spires, snow-covered rock formations, and winding pale bridges or ice paths suspended among the clouds. Include a small crescent moon in the upper left sky, distant stars, glowing blue crystal highlights, misty cloud trails, and a warm sunset glow near the horizon blending into deep navy night above. Use a polished high-detail anime fantasy style, vibrant but soft color grading, painterly lighting, crisp character linework, luminous rim light, epic scale, magical atmosphere, and a 16:9 composition with the character centered slightly above the horizon. No text, no watermark, no UI elements.
+```
+
+**来源：** [@Pollitt Antonio](https://x.com/AntonioPol91940/status/2068808275227767064) | 2026-06-21
+
+---
+
+### 🎨 例 2100：天界九尾狐灵
+
+![天界九尾狐灵](../../images/%E5%A4%A9%E7%95%8C%E4%B9%9D%E5%B0%BE%E7%8B%90%E7%81%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽屏电影质感的奇幻动漫插画，描绘 {argument name="character name" default="一只优雅的白色九尾狐灵"} 在暮色中跃过梦幻般的天界云端王国。角色为拟人化狐狸，拥有白色皮毛、纤细如舞者般的体态、尖耳朵、精致的口鼻部，身后飘逸着整整九条长尾；身着优雅的 {argument name="outfit style" default="白金配色天界舞者服饰"}，配有华丽的金色臂环、腰带、脚链以及飘带。将狐狸设定为飞行姿态，一只手臂向前伸展，一条腿向后弯曲，仿佛在天空中滑翔。在角色周围环绕两个巨大的椭圆形发光魔法轨迹，一个为青蓝色，另一个为暖金色，在身体后方和周围交织，并伴有闪烁的星尘。环境为广阔的高海拔奇幻景观，包含整整四个主要的浮动冰云地貌：左侧高耸的冰云塔、中心地平线附近的小型远岛、右侧地平线上的水晶尖塔岛，以及从左下角延伸至右下角的宽阔前景冰桥平台。添加蓬松的云朵、半透明的蓝色水晶悬崖、朦胧的风带、微小的星粒，以及左上角的一弯新月。采用 {argument name="sky colors" default="深海军蓝、钴蓝、薰衣草紫、桃红和金色夕阳"} 的浓郁暮色调，运用柔和的边缘光，呈现高精度的数字绘画效果、干净的动漫线条、极具张力的透视感、空灵的氛围以及魔法般的动感。画面中不含文字、水印、现代物体及多余角色。
+
+[English]
+Create a wide cinematic fantasy anime illustration of {argument name="character name" default="a graceful white nine-tailed fox spirit"} leaping through the air above a dreamlike celestial cloud kingdom at twilight. The character is an anthropomorphic fox with white fur, a slim dancer-like body, pointed ears, a delicate muzzle, and exactly nine long flowing tails fanning dramatically behind them; they wear an elegant {argument name="outfit style" default="white and gold celestial dancer outfit"} with ornate gold arm bands, waist sash, ankle bracelets, and trailing fabric ribbons. Pose the fox mid-flight, one arm reaching forward and one leg bent back, as if gliding across the sky. Surround the character with exactly two large luminous elliptical magic trails, one cyan-blue and one warm gold, crossing behind and around the body with sparkling stardust. The environment is an expansive high-altitude fantasy landscape with exactly four major floating ice-and-cloud landforms: a tall icy cloud tower on the left, a small distant island near the center horizon, a crystalline spire island on the right horizon, and a broad foreground ice bridge/platform sweeping from lower left to lower right. Add fluffy sculpted clouds, translucent blue crystal cliffs, misty wind ribbons, tiny star particles, and one crescent moon in the upper left sky. Use a rich twilight palette of {argument name="sky colors" default="deep navy, cobalt blue, lavender, peach, and golden sunset"}, soft glowing rim light, highly polished digital painting, clean anime linework, dramatic perspective, ethereal atmosphere, and a sense of magical motion. No text, no watermark, no modern objects, no extra characters.
+```
+
+**来源：** [@Edward Everley](https://x.com/EdwardEver19291/status/2068797504301182987) | 2026-06-21
+
+---
+
+### 🎨 例 2113：极简几何矢量插画
+
+![极简几何矢量插画](../../images/%E6%9E%81%E7%AE%80%E5%87%A0%E4%BD%95%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的照片创建垂直 {argument name="aspect ratio" default="4:5"} 的图像。使用上传照片中的主体，风格采用 {argument name="illustration style" default="minimalist geometric vector illustration"}，运用大胆的纯色块、锐利简洁的边缘，配色方案为 {argument name="color palette" default="深森林绿、板岩灰和柔白色"}，叠加细微的颗粒质感，采用对称构图，呈现现代波普艺术美感，留白简洁，形状对比鲜明，专业平面设计，8k 分辨率。
+
+[English]
+Create vertical {argument name="aspect ratio" default="4:5"} photo uploaded. Use the subject from photo uploaded, in the style of {argument name="illustration style" default="minimalist geometric vector illustration"}, bold flat color blocks, sharp clean edges, palette of {argument name="color palette" default="dark forest green, slate grey, and soft white"}, subtle grainy texture overlay, symmetrical composition, modern pop art aesthetic, clean negative space, high-contrast shapes, professional graphic design, 8k resolution.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2068700978631840074) | 2026-06-21
+
+---
+
+### 🎨 例 2120：“黑暗森林”水妖专辑封面
+
+![“黑暗森林”水妖专辑封面](../../images/%E2%80%9C%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E2%80%9D%E6%B0%B4%E5%A6%96%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张黑暗电影质感的奇幻专辑封面图像，主题为 {argument name="composer and title" default="Reinecke: Undine"}。采用 16:9 宽屏画布，写实主义绘画风格，忧郁的明暗对照法光影，深绿黑色调搭配银色水光。场景：一位水妖精灵在夜晚或黄昏时分，腰部以下浸没在阴暗的森林溪流中，位置略微偏右。她拥有极长的湿润浅金色长发，向后飘入水中；穿着半透明的银白色水感长裙，裙摆紧贴并环绕着身体；一只手放在胸前，空灵的水滴和丝带状的水流缠绕在她的身上。她的面部特意用柔和的方形模糊/雾气遮盖，不显示细节。背景：古老的苔藓覆盖的树干和巨大的树根形成了一个隧道般的黑暗森林；微弱的光线从她身后的树冠中透出，营造出雾气和背光发丝的效果。水面光亮、漆黑且具有反射感，伴有同心圆涟漪和发光的液体丝带。添加 8 页清晰可见的古董乐谱：左下角前景有一张倾斜的大乐谱，左下水面附近有一张模糊的倒影乐谱，左上树木区域有一张小乐谱，女性中心上方有一张漂浮的乐谱，中心右上方有一张漂浮的乐谱，她身后右侧中部有一张漂浮的乐谱，右上方的树上钉着或漂浮着一张乐谱，右下角水边旧书旁有一张乐谱。左上角排版：两行文本叠加，左对齐；第一行显示 {argument name="small title text" default="Reinecke:"}，使用粗体浅冰蓝色无衬线字体；第二行显示 {argument name="main title text" default="Undine"}，使用非常大的粗体暖黄色无衬线字体。保持标题清晰易读，无其他可读文本，无水印，无边框。
+
+[English]
+Create a dark cinematic fantasy album-cover image for {argument name="composer and title" default="Reinecke: Undine"}. Wide 16:9 canvas, photorealistic painterly realism, moody chiaroscuro lighting, deep green-black palette with silver water highlights. Scene: an undine water spirit rises waist-deep from a shadowy forest stream at night or twilight, centered slightly right. She has very long wet pale-blonde hair flowing backward into the water, a translucent silver-white waterlike gown clinging and swirling around her, one hand held to her chest, ethereal droplets and ribbon-like currents wrapping around her body. Her face is intentionally hidden by a soft square blur/mist patch, not detailed. Background: ancient moss-covered tree trunks and huge roots form a tunnel-like dark forest; dim light breaks through the canopy behind her, creating mist and backlit hair. The water is glossy, black, reflective, with concentric ripples and luminous liquid strands. Add exactly 8 visible antique sheet-music pages: 1 large tilted page in the lower-left foreground, 1 faint reflected page near the lower-left water surface, 1 small page on the upper-left tree area, 1 floating page above the woman near the center, 1 floating page just upper-right of center, 1 floating page mid-right behind her, 1 page pinned or drifting on the upper-right tree, and 1 page near the lower-right water edge beside an old closed book. Top-left typography: two-line text overlay, aligned left; first line reads {argument name="small title text" default="Reinecke:"} in bold pale icy blue-white sans serif, second line reads {argument name="main title text" default="Undine"} in very large bold warm yellow sans serif. Keep the title clean and legible, no other readable text, no watermark, no border.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2068677606283600313) | 2026-06-21
+
+---
+
+### 🎨 例 2131：手持弹珠汽水的金发浴衣少女
+
+![手持弹珠汽水的金发浴衣少女](../../images/%E6%89%8B%E6%8C%81%E5%BC%B9%E7%8F%A0%E6%B1%BD%E6%B0%B4%E7%9A%84%E9%87%91%E5%8F%91%E6%B5%B4%E8%A1%A3%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版动漫风格插画，主角是 {argument name="character name" default="Hikari"}，一位穿着夏季浴衣的开朗年轻女性。画面采用近景半身构图，背景是阳光明媚的复古砖石街道。她留着蓬松的 {argument name="hair color" default="金黄色"} 短波波头，头顶有一根向上弯曲的呆毛，发丝层次分明，带有明亮的逆光高光。在面部正中央放置一个巨大的扁平桃米色方形遮挡块，遮住眼睛、鼻子、嘴巴及大部分面部特征，但保留头发、颈部、双手和服装可见。她穿着两件可见的衣物：一件淡薄荷绿色的浴衣，上面印有白色大花朵和绿叶，腰间系着奶油色的腰带。姿势设定为身体微微前倾；左手轻轻抓着胸前的浴衣领口，右手拿着 1 瓶透明蓝色玻璃弹珠汽水，瓶盖为蓝色，可见瓶内液体、气泡、冷凝水珠及闪烁的高光。背景是一个如画般的欧日混搭风格节日小巷，有砖砌建筑、深色木质窗框、攀爬的绿植、盆栽花卉、壁灯、向远处延伸的屋顶线条，以及明亮的蓝天和柔和的白云。采用精致的现代动漫渲染，线条清晰，皮肤阴影柔和，发丝光泽感强，衣物褶皱细节丰富，浅景深效果，温暖的夏日阳光，色彩鲜艳，营造出浪漫愉悦的氛围。画面中无文字、无水印、无多余角色，且面部需完全被纯色方形遮挡块遮盖。
+
+[English]
+Create a vertical 9:16 anime-style illustration of {argument name="character name" default="Hikari"}, a cheerful young woman in a summer yukata, shown from the waist up in a close perspective on a sunny old-fashioned brick-and-cobblestone street. She has short fluffy {argument name="hair color" default="golden blonde"} bobbed hair with a single long ahoge strand curving upward, soft layered strands, and bright backlit highlights. Place a large flat peach-beige square censor block centered over the entire face, covering the eyes, nose, mouth, and most facial features while leaving the hair, neck, hands, and outfit visible. She wears exactly 2 visible clothing pieces: a pale mint-green yukata with large white flower blossoms and green leaves, and a cream-colored obi sash at the waist. Pose her leaning slightly toward the viewer; her left hand lightly grips the front collar of the yukata near her chest, and her right hand holds exactly 1 transparent blue glass ramune-style soda bottle with a blue cap, visible water, bubbles, condensation, and sparkling highlights. The background is a picturesque European-Japanese festival-like alley with brick buildings, dark wooden window frames, climbing greenery, potted flowers, a wall lantern, rooflines receding into the distance, and a bright blue sky with soft white clouds. Use polished modern anime rendering, crisp linework, soft skin shading, luminous hair, detailed fabric folds, shallow depth of field, warm summer sunlight, vibrant colors, and a romantic cheerful mood. No text, no watermark, no extra characters, and keep the face fully hidden by the plain square block.
+```
+
+**来源：** [@ヒカリちゃん@AIイラスト](https://x.com/Bluetoothmatsu/status/2068618676354347308) | 2026-06-21
+
+---
+
+### 🎨 例 2139：趣味水粉风格插画
+
+![趣味水粉风格插画](../../images/%E8%B6%A3%E5%91%B3%E6%B0%B4%E7%B2%89%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+“{argument name="subject" default="我和 [○○]"}”的插画，姿态俏皮迷人。呈现手绘质感，纸面带有丰富的 {argument name="texture" default="水粉质感"}，突显自然的笔触、简洁的线条和克制的色彩搭配。氛围明亮、治愈；角色看向前方或上方，切勿向下看。构图极简，留白充裕。色彩呈现松弛的模拟风格，带有不完美的手工质感。角色的面部被物体或主体部分或全部遮挡。柔和的阴影，强烈的氛围感，情绪表达丰富。{argument name="background" default="干净的白色背景"}，宽边距，无文字，1:1 纵横比。
+
+[English]
+Illustration of "{argument name="subject" default="Me and [○○]"}" in a playful and charming pose. Hand-painted look with rich gouache-like texture on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. Clean white background, wide margins, no text, 1:1 aspect ratio.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2068567588989464670) | 2026-06-21
+
+---
+

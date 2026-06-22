@@ -1744,3 +1744,39 @@ Please transform the entire image into a single {argument name="art style" defau
 
 ---
 
+### 🔧 例 2103：纸艺风格图像转换
+
+![纸艺风格图像转换](../../images/%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为柔和的手工 {argument name="art style" default="纸雕分层插画"} 风格，灵感源自 {argument name="aesthetic" default="纸艺立体模型"} 美学。使用平滑的圆润形状、简化的 {argument name="character proportions" default="可爱"} 角色比例以及极简的面部细节（豆豆眼、腮红），营造出温暖迷人的视觉效果。应用堆叠的纸张层，呈现明显的深度、层与层之间微妙的阴影，以及类似激光切割卡纸的干净边缘。
+
+[English]
+Convert this image into a soft, handcrafted {argument name="art style" default="paper-cut layered illustration"} style, inspired by {argument name="aesthetic" default="papercraft diorama"} aesthetics. Use smooth rounded shapes, simplified {argument name="character proportions" default="cute"} character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+```
+
+**来源：** [@Sharon Riley](https://x.com/Just_sharon7/status/2068740666965029267) | 2026-06-21
+
+---
+
+### 🔧 例 2132：编辑风格单色模特卡
+
+![编辑风格单色模特卡](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%8D%95%E8%89%B2%E6%A8%A1%E7%89%B9%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为单色 3x3 编辑风格模特卡，主体为 {argument name="subject" default="成年东亚女性"}
+
+[English]
+To Monochrome 3x3 Editorial Comp Card, {argument name="subject" default="adult East Asian woman"} from an uploaded photo
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068615094901113187) | 2026-06-21
+
+---
+

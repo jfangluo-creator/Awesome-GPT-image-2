@@ -3890,3 +3890,49 @@ Visual style: Clean digital anime reference sheet, soft cel shading, muted color
 
 ---
 
+### 🧍 例 2107：橄榄球运动员三视图参考表
+
+![橄榄球运动员三视图参考表](../../images/%E6%A9%84%E6%A6%84%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张 360 度逼真的角色三视图参考表，展示一名魁梧的职业橄榄球运动员，旨在确保角色在各个角度保持一致。
+
+画布：宽幅横向摄影棚参考图，纯净的纯白色背景，高调照明，全身人像对齐在同一基准线上，无道具或环境背景。
+
+布局：精确展示同一角色的 4 个全身视图，从左到右均匀分布：1) 正面视图，2) 左侧面视图，3) 背面视图，4) 右侧四分之三侧视图。确保 4 个视图中的身体比例、服装细节、身高、肤色、发型和配饰保持一致。
+
+主体细节：一名肌肉极其发达、体格健壮的男性美式橄榄球运动员，拥有宽阔的胸膛、粗壮的手臂、厚实的颈部、强壮的双腿，肤色白皙，留着浅棕色短发，面部模糊/遮挡以保持匿名。他直立站立，双臂自然垂在身体两侧，姿态威武且具有运动感，面部附近可见寒冷的呼气雾气。
+
+队服：运动员身穿加拿大主题的红色橄榄球球衣，正面和背面印有白色数字 {argument name="jersey number" default="99"}，数字上方居中印有白色枫叶标志，袖口有细小的白色条纹，并带有小型的白色运动勾形标志。搭配紧身白色橄榄球裤，裤侧有红色条纹和细小的红色枫叶装饰，红色及膝袜配有两条白色横条纹，底部为白色袜面，白色橄榄球鞋上点缀着红色枫叶图案。采用爱国主义的红白配色方案。
+
+视觉风格：超写实体育摄影，细节锐利，织物纹理有光泽，皮肤带有汗水/霜冻质感，逼真的肌肉解剖结构，摄影棚产品参考照明，边缘清晰剪裁，非插画或卡通风格。
+
+可自定义细节：角色应为 {argument name="player archetype" default="魁梧的加拿大橄榄球前锋"}；队服国家主题为 {argument name="country theme" default="加拿大"}；队服主色为 {argument name="primary uniform color" default="红色"}；队服辅色为 {argument name="secondary uniform color" default="白色"}。
+
+约束条件：仅限 4 个视图；请勿添加头盔、橄榄球、文字标签、边框、遮挡脚部的阴影、额外球员、背景景观或除简单的通用运动标志和枫叶符号之外的任何标志。确保每个视图中的服装细节和体格完全一致。
+
+[English]
+Goal: Create a photorealistic 360-degree character turnaround reference sheet for a massive professional football player, designed to keep the same character consistent from every angle.
+
+Canvas: Wide horizontal studio sheet, clean pure white background, high-key lighting, full-body figures aligned on the same baseline with no props or environment.
+
+Layout: Show exactly 4 full-body views of the same character, evenly spaced from left to right: 1) front view, 2) left side profile view, 3) back view, 4) right three-quarter side view. Keep body proportions, outfit details, height, skin tone, hair, and accessories consistent across all 4 views.
+
+Subject details: A hyper-muscular, heavyset male American football player with a very broad chest, huge arms, thick neck, powerful legs, pale skin, short light-brown hair, and a blurred/obscured face for anonymity. He is standing upright with relaxed arms at his sides, imposing athletic posture, and visible cold breath mist near the face.
+
+Uniform: The player wears a Canadian-themed red football jersey with white number {argument name="jersey number" default="99"} on the front and back, a white maple leaf emblem centered above the number, small white sleeve stripes, and a small white athletic swoosh logo. Add tight white football pants with red side stripes and small red maple leaf accents, red knee-high socks with two white horizontal stripes, white lower sock panels, and white football cleats splattered with red maple leaf graphics. Use a patriotic red-and-white color palette.
+
+Visual style: Ultra-realistic sports photography, sharp detail, glossy fabric texture, sweat/frosty skin texture, realistic muscle anatomy, studio product-reference lighting, crisp cutout edges, no illustration or cartoon style.
+
+Customizable details: Character should be a {argument name="player archetype" default="massive Canadian football lineman"}; uniform country theme is {argument name="country theme" default="Canada"}; primary uniform color is {argument name="primary uniform color" default="red"}; secondary uniform color is {argument name="secondary uniform color" default="white"}.
+
+Constraints: Exactly 4 views only; do not add helmets, footballs, text labels, borders, shadows that obscure the feet, extra players, background scenery, or logos beyond simple generic athletic marks and maple leaf symbols. Maintain identical outfit details and physique in every view.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2068724463399756216) | 2026-06-21
+
+---
+

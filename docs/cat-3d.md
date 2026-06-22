@@ -2994,3 +2994,111 @@ Constraints: Keep the exact count of 6 anime doll figures, 1 hanging ghost, and 
 
 ---
 
+### 🧸 例 2093：冰窟中的金发战士
+
+![冰窟中的金发战士](../../images/%E5%86%B0%E7%AA%9F%E4%B8%AD%E7%9A%84%E9%87%91%E5%8F%91%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 宽画幅的电影级 3D 奇幻动作场景：一位年轻的金发女战士，{argument name="character name" default="女性奇幻骑士"}，在黑暗的冰窟中向前冲锋，位置略低于画面中心，身体前倾奔跑，单膝抬起。她身穿带有金色饰边的蓝色无袖束腰外衣，胸前有金色徽章，搭配深色短裤、皮靴、护腕和轻型护甲。她留着浅金色短发，但面部被一个平面的不透明灰色方块遮挡。左手持一面大型圆盾，盾牌边缘为金色，盾面为深蓝色，并带有绳索状的金色十字装饰；右手持一柄长矛，矛身向左后方倾斜。环境是一个巨大的冰冻洞穴，天花板上悬挂着参差不齐的钟乳石，岩壁呈蓝黑色，散布着冰层结构，地面平坦且结冰，两侧有巨大的阴影巨石。采用低调的电影氛围光，冷蓝色调，带有淡淡的薄雾，右上角有柔和的体积光，呈现出精致的动画电影/游戏过场动画质感，具有景深效果和宏大的比例感。无文字，无水印，无多余角色。
+
+[English]
+Create a cinematic 3D fantasy action scene in a wide 16:9 frame: a young blonde warrior girl, {argument name="character name" default="female fantasy knight"}, charges forward through a dark icy cavern, centered slightly below the middle of the image, leaning into a run with one knee raised. She wears a blue sleeveless tunic with gold trim and a gold emblem on the chest, dark shorts, leather boots, bracers, and light armor accents. Her short pale-blonde hair frames her head, but her face is intentionally covered by a flat opaque gray square censor block. In her left hand she carries a large round shield with a gold rim, dark blue face, and decorative rope-like gold cross detail; in her right hand she holds a long spear angled diagonally backward to the left. The environment is a vast frozen cave with jagged stalactites hanging from the ceiling, blue-black rock walls, scattered ice formations, a flat icy floor, and large shadowy boulders on both sides. Use moody low-key lighting, cold blue color grading, subtle mist, soft volumetric light from the upper right, and a polished animated-film/game-cinematic look with depth of field and dramatic scale. No text, no watermark, no extra characters.
+```
+
+**来源：** [@Dave Jesse](https://x.com/DaveJesse748973/status/2068808882630045928) | 2026-06-21
+
+---
+
+### 🧸 例 2101：忍者格斗过场动画（已打码）
+
+![忍者格斗过场动画（已打码）](../../images/%E5%BF%8D%E8%80%85%E6%A0%BC%E6%96%97%E8%BF%87%E5%9C%BA%E5%8A%A8%E7%94%BB%EF%BC%88%E5%B7%B2%E6%89%93%E7%A0%81%EF%BC%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的电影感静态帧，画面主体为一位风格化的 3D 动漫动作女英雄，场景设定在阴暗的工业储藏室中，渲染效果如同高质量游戏过场动画。角色为 {argument name="character type" default="一位年轻的女性忍者格斗家"}，呈现动态的武术防御姿势，躯干转向镜头，一只手臂向画面右侧前方伸展，另一只手臂向左后方伸展。她留着 {argument name="hair style" default="深蓝黑色长发，扎成高发髻，发尾垂在背后"}，有着尖尖的精灵耳，佩戴露指手套、黑色皮革前臂护具、黑色贴身胸甲，配有白色围巾式领口和白色短袖，腰间系着宽大的黑色腰封，挂着细小的银色链条和浅色布条，身穿深色长裤。在面部中心放置一个实心的像素化方块遮挡物，遮住所有面部特征。背景是一个昏暗的蓝绿色仓库或军械库，阴影中隐约可见金属货架、模糊的箱子、罐子和设备。采用情绪化的低调照明，冷青色阴影，头发和肩部带有细腻的轮廓光，浅景深，逼真的织物和皮革纹理，戏剧性的动作构图，无文字，无水印，无额外角色。
+
+[English]
+Create a cinematic 16:9 still frame of a stylized 3D anime action heroine in a dark industrial storage room, rendered like a high-quality game cutscene. The character is {argument name="character type" default="a young female ninja fighter"} in a dynamic defensive martial-arts pose, torso turned toward camera, one arm extended forward to the right edge of the frame and the other arm reaching back to the left. She has {argument name="hair style" default="long dark blue-black hair tied in a high topknot with loose length down the back"}, pointed elf-like ears, fingerless gloves, black leather forearm guards, a black fitted chest armor piece, a white scarf-like collar and white short sleeves, a wide black waist wrap with a small dangling silver chain and pale cloth tab, and dark pants. Place a solid square pixelated censor block over the center of the face, obscuring all facial features. The background is a dim blue-green warehouse or armory with metal shelving, indistinct boxes, jars, and equipment in shadow. Use moody low-key lighting, cool teal shadows, subtle rim light on the hair and shoulders, shallow depth of field, realistic fabric and leather textures, dramatic action composition, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Bowen DuBois](https://x.com/BowenDuboi68792/status/2068796530404831389) | 2026-06-21
+
+---
+
+### 🧸 例 2109：乐高风格人偶收藏品
+
+![乐高风格人偶收藏品](../../images/%E4%B9%90%E9%AB%98%E9%A3%8E%E6%A0%BC%E4%BA%BA%E5%81%B6%E6%94%B6%E8%97%8F%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款高度精细的收藏级玩具人偶，灵感源自乐高风格人偶，置于专业摄影棚中。人偶拥有 {argument name="face features" default="写实年轻女性面孔，瓷器般细腻的皮肤，直顺的乌黑长发，齐刘海，以及一缕醒目的白色挑染"}。她佩戴着精致的银色耳环，表情沉稳自信。身体为光泽感塑料积木人偶，身着 {argument name="outfit" default="印有 10 号的足球球衣"}，搭配同款短裤及 {argument name="theme" default="国家队风格配色"}。全身构图，居中取景，浅景深效果，高级产品摄影，超洁净布光，反光塑料质感，逼真阴影，焦点清晰，奢华收藏品美学，高端商业广告风格，写实面部与玩具身体无缝融合，8K 分辨率，鲜艳色彩分级，与球衣配色相呼应的摄影棚背景。
+
+[English]
+A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a {argument name="face features" default="realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak"}. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a {argument name="outfit" default="soccer jersey with the number 10"}, matching shorts, and {argument name="theme" default="national-team-inspired colors"}. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2068717001145778630) | 2026-06-21
+
+---
+
+### 🧸 例 2111：装饰性民间剪纸插画
+
+![装饰性民间剪纸插画](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E5%89%AA%E7%BA%B8%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将整张图像重构为一种融合了 {argument name="style" default="装饰性民间扁平插画"} 的风格，并结合柔和的手工剪纸分层样式，灵感源自迷人的纸艺立体模型美学。保留原始主体、构图和整体氛围，但将所有元素简化为简洁的扁平形式、圆润的粗线条形状以及可爱且充满童趣的比例。添加俏皮的涂鸦装饰、民间艺术图案、略显不规则的手工轮廓，以及点状眼睛和柔和腮红等极简面部细节。使用一种 {argument name="color palette" default="生动、欢快的调色板"}，使其感觉清新且与原始图像不同，同时保持最终作品的温暖、甜美、纯真、奇幻和绘本感。营造出层叠卡纸的深度感，展现堆叠的纸张厚度、干净的切割边缘、层与层之间的微妙阴影以及手工纸艺的轻微瑕疵，仿佛场景是在干净的白纸上精心切割、上色并组装而成。最终效果应显得可爱、手工感强、俏皮且视觉统一，呈现出一种精致而迷人的手工民间艺术纸艺质感。
+
+[English]
+Reimagine the entire image as one cohesive {argument name="style" default="Decorative Folk Flat Illustration"} blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks. Use a {argument name="color palette" default="vivid, cheerful color palette"} that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2068716810346860804) | 2026-06-21
+
+---
+
+### 🧸 例 2116：3D 卡通足球角色生成器
+
+![3D 卡通足球角色生成器](../../images/3D%20%E5%8D%A1%E9%80%9A%E8%B6%B3%E7%90%83%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+上传任意人脸图像，即可生成一个具有大头效果、自信姿态、{argument name="outfit" default="球队球衣"}、光泽质感以及 {argument name="background" default="简洁背景"} 的 3D {argument name="character style" default="卡通足球角色"}。
+
+[English]
+Upload any face image and generate a stylized 3D {argument name="character style" default="cartoon football character"} with a big head, confident pose, {argument name="outfit" default="team jersey"}, glossy textures, and a {argument name="background" default="clean background"}.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2068689009455575171) | 2026-06-21
+
+---
+
+### 🧸 例 2122：手工纺织奇幻艺术
+
+![手工纺织奇幻艺术](../../images/%E6%89%8B%E5%B7%A5%E7%BA%BA%E7%BB%87%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅迷人且细节丰富的纺织奇幻艺术作品，看起来完全由奢华面料、刺绣、蕾丝、羊毛、丝绸、毛毡和针线活手工制作而成。一位 {argument name="subject" default="优雅的年轻女性"} 侧身站在 {argument name="setting" default="梦幻般的乡村景观"} 中。她身穿一件 {argument name="clothing" default="飘逸的薰衣草色连衣裙"}，上面装饰着精致的刺绣花朵和蝴蝶，并叠搭着复杂的象牙白蕾丝。**风格：** 奢华纺织艺术、织物拼贴杰作、刺绣插画、针毡奇幻艺术、手工高级定制艺术品、混合纺织媒介、童话般的优雅、浪漫民间艺术。**构图：** 竖向肖像构图，优雅女性侧面闭眼，周围环绕着盛开的野花、连绵的丘陵、开花的树木、小巧的乡村小屋、柔软的云朵和精致的鸟儿。**材质与质感：** 每个元素均由织物、绣线、蕾丝、毛毡、羊毛、缝制贴花、钩针细节、手工缝制纹理、分层纺织品、可见的缝线、立体的纯手工外观构成。**调色板：** 薰衣草紫、丁香紫、腮红粉、柔和鼠尾草绿、象牙奶油色、暖米色、柔和紫罗兰色、柔和的金色点缀。**环境：** 梦幻般的春日乡村、开满鲜花的草地、盛开的树木、拼布般的山丘、异想天开的村庄、栖息在花丛中的鸟儿、神奇的田园风光。**光影：** 柔和的漫射日光、温和的光芒、梦幻的氛围、织物纹理上的细腻高光。**氛围：** 宁静、浪漫、柔美、神奇、怀旧、童话感、诗意且安详。**细节：** 完美精致的面容、奢华的蕾丝图案、刺绣蝴蝶、有质感的花朵、手工制作的鸟儿、细节丰富的纺织景观、顶级工匠技艺。**质量：** 杰作、博物馆级纺织艺术品、超精细刺绣插画、奢华手工设计、非凡的纹理深度、极其复杂的针线工艺、8k 分辨率、无文字、无水印、无边框。
+
+[English]
+Create an enchanting ultra-detailed textile fantasy artwork that looks entirely handcrafted from luxurious fabrics, embroidery, lace, wool, silk, felt, and needlework. A {argument name="subject" default="graceful young woman"} in profile stands in a {argument name="setting" default="dreamy countryside landscape"}. She wears a {argument name="clothing" default="flowing lavender dress"} adorned with delicate embroidered flowers and butterflies, layered with intricate ivory lace. **Style:** luxury textile art, fabric collage masterpiece, embroidery illustration, needle-felted fantasy art, handcrafted couture artwork, mixed textile media, fairy-tale elegance, romantic folk art. **Composition:** vertical portrait composition, elegant woman in side profile with eyes closed, surrounded by blooming wildflowers, rolling hills, flowering trees, tiny countryside cottages, soft clouds, and delicate birds. **Materials & Texture:** every element created from fabric, embroidery threads, lace, felt, wool, stitched appliqué, crochet details, hand-sewn textures, layered textiles, visible stitching, dimensional handcrafted appearance. **Color Palette:** lavender, lilac, blush pink, soft sage green, ivory cream, warm beige, pastel violet, muted gold accents. **Environment:** dreamlike spring countryside, flowering meadows, blooming trees, patchwork hills, whimsical village, birds resting among flowers, magical pastoral scenery. **Lighting:** soft diffused daylight, gentle glow, dreamy atmosphere, delicate highlights on fabric textures. **Mood:** peaceful, romantic, feminine, magical, nostalgic, fairytale-like, poetic and serene. **Details:** flawless delicate face, luxurious lace patterns, embroidered butterflies, textured flowers, handcrafted birds, richly detailed textile landscape, premium artisanal craftsmanship. **Quality:** masterpiece, museum-quality textile artwork, ultra-detailed embroidery illustration, luxury handcrafted design, extraordinary texture depth, highly intricate needlework, 8k resolution, no text, no watermark, no frame.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2068663135909888388) | 2026-06-21
+
+---
+

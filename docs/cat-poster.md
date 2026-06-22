@@ -9505,3 +9505,543 @@ Create a professional luxury birthday poster in a vertical 3:4 ratio. Use an ele
 
 ---
 
+### 🎴 例 2085：Glitch Angel Studio 海报
+
+![Glitch Angel Studio 海报](../../images/Glitch%20Angel%20Studio%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有故障艺术美感的高端白色摄影棚时尚编辑海报，风格融合了写实的杂志拍摄与 AI 玩具/产品目录排版。使用方形画布。主体是一位成年女性模特，拥有 {argument name="hair style" default="黑色微卷长发"}，眼神冷峻疏离，皮肤细节真实，表情自然不僵硬，具备极高的时尚模特表现力。她以四肢着地/向前跪姿位于一张巨大的超大号打印收据地毯上，身体从中心向右侧倾斜，身穿一件滑落单肩的超大号黑色皮夹克、白色背心、叠戴银色项链、带有白色百褶花边装饰的黑色短裙或短裤，以及黑色靴子；在她右侧放置一个小巧的黑色纹理手提包，双手后方放置一个黑白棋盘格靠垫。摄影棚背景保持无缝米白色，采用柔和的编辑风格灯光和微妙的阴影。
+
+将图像设计为一张图形海报，左侧配有强烈的排版和细小的技术细节。左侧主标题文字：{argument name="headline text" default="GLITCH ANGEL"}，使用巨大的压缩粗体黑色大写字母，带有 RGB 色差、扫描线失真、水平故障条纹和轻微的数字破碎效果。下方添加一条黑色长条副标题，以小号等宽小写白字显示 {argument name="subtitle text" default="beauty in static"}。在左上角添加小号等宽字体文案：“BEAUTY IS NOT PERFECT. / IT'S REAL WHEN THE SIGNAL BREAKS.” 在角落和左边缘附近添加微小的加号对齐标记。在左侧添加小型编辑文本块：“signal break / emotion remains”、一段彩色故障条形码、“A MOMENT BETWEEN NOISE AND SILENCE.”、“//2026”、“EDITORIAL SERIES”，并在左下角附近添加：“THIS ISN'T A PORTRAIT. / IT'S A FREQUENCY.”，随后紧跟另一条微小的故障条纹。
+
+超大号收据地毯必须包含可读的黑色收据风格等宽字体打印内容，包括条形码、项目表格和情感编辑短语。包含可见行，如“CASH RECEIVED CHANGE”、“THANK YOU FOR YOUR ENERGY”、“NOTES: BEAUTY IS DATA. EMOTION IS SIGNAL. YOU ARE THE GLITCH.”、“NO RETURNS ON FEELINGS”，以及包含数量和金额的项目列表，包括“SUBTOTAL”、“STUDIO FEE”、“CREATIVE DIR.”和“LIGHT SETUP”。使用分散的收据编号和条形码标记以增加真实感。整体色调：米白色、黑色、炭灰色皮革、浅肤色，带有微妙的青色/红色故障边缘。模特应看起来像真实的摄影棚照片，而图形排版和收据细节则应具有刻意的设计感和编辑感。避免出现额外主体，避免卡通化风格，避免过度杂乱，并保持所有文本为英文。
+
+[English]
+Create a high-end white studio fashion editorial poster with a glitch aesthetic, like a realistic magazine photoshoot mixed with an AI toy/catalog spread. Use a square canvas. The main subject is an adult female model with {argument name="hair style" default="long black slightly wavy hair"}, a cool distant gaze, realistic detailed skin, natural non-stiff expression, and a recognizable fashion-model presence. She is posed on all fours/kneeling forward on a large oversized printed receipt rug, body angled from center toward the right, wearing an oversized black leather jacket slipped off one shoulder, a white tank top, layered silver necklaces, a short black skirt or shorts with white pleated ruffle trim, and black boots; include a small black textured handbag near her right side and a black-and-white checkerboard cushion behind her hands. Keep the studio background seamless off-white with soft editorial lighting and subtle shadows.
+
+Design the image as a graphic poster with strong left-side typography and small technical details. Main headline text on the left: {argument name="headline text" default="GLITCH ANGEL"}, huge condensed bold black uppercase letters with RGB chromatic offset, scanline distortion, horizontal glitch streaks, and slight digital breakup. Under it, add a black strip subtitle reading {argument name="subtitle text" default="beauty in static"} in small monospaced lowercase white letters. At the top left, add small monospaced copy: "BEAUTY IS NOT PERFECT. / IT'S REAL WHEN THE SIGNAL BREAKS." Add tiny plus-sign registration marks near the corners and left margin. Add small editorial text blocks on the left: "signal break / emotion remains", a short colored glitch barcode, "A MOMENT BETWEEN NOISE AND SILENCE.", "//2026", "EDITORIAL SERIES", and near the bottom left: "THIS ISN'T A PORTRAIT. / IT'S A FREQUENCY." followed by another tiny glitch strip.
+
+The oversized receipt rug must contain readable black receipt-style monospaced printing, including a barcode, item table, and emotional editorial phrases. Include visible lines such as "CASH RECEIVED CHANGE", "THANK YOU FOR YOUR ENERGY", "NOTES: BEAUTY IS DATA. EMOTION IS SIGNAL. YOU ARE THE GLITCH.", "NO RETURNS ON FEELINGS", and an itemized list with quantities and amounts including "SUBTOTAL", "STUDIO FEE", "CREATIVE DIR.", and "LIGHT SETUP". Use scattered receipt numbers and barcode marks for realism. Overall color palette: off-white, black, charcoal leather, pale skin tones, with subtle cyan/red glitch fringes. The model should look like a real studio photograph, while the graphic typography and receipt details feel intentionally designed and editorial. Avoid extra subjects, avoid cartoon styling, avoid excessive clutter, and keep all text in English.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2068840728739115461) | 2026-06-21
+
+---
+
+### 🎴 例 2102：2026 年未来感 AI 科技海报
+
+![2026 年未来感 AI 科技海报](../../images/2026%20%E5%B9%B4%E6%9C%AA%E6%9D%A5%E6%84%9F%20AI%20%E7%A7%91%E6%8A%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张未来感竖版科技海报，用于展示 {argument name="headline text" default="AI 2026"}，核心主体为一个由神经网络线条和电路轨迹构成的发光人工智能大脑。
+
+画布：竖版海报，2:3 宽高比，深海军蓝至黑色背景，高对比度，清脆的科幻光效，无边框或水印。
+
+布局：在顶部放置一个巨大的粗体大写标题，内容为 {argument name="headline text" default="AI 2026"}。使用厚重的压缩无衬线字体，填充白至冰蓝色的渐变色，带有斜面高光和电光蓝外发光效果。在标题正下方，添加一条细长的发光分割线，以及一行小号且字间距较宽的大写标语：{argument name="tagline" default="INTELLIGENCE. INNOVATION. INFINITE POSSIBILITIES."}
+
+主体：在中心和下半部分，绘制一个巨大的侧面人脑轮廓，由数百个发光的蓝色节点和连接线组成，如同数字神经网络星座。大脑应散发出强烈的青色、电光蓝和白色光点，并散布着更密集的明亮节点。从大脑底部，垂直的电路路径向下延伸至底部中心的圆形全息门户或靶心状光源中。
+
+背景：在整个背景中填充微妙的印刷电路板轨迹、微芯片路径、小圆点、微小方块以及淡淡的界面标记。电路应围绕并衬托在大脑后方，主要为黑色背景上的细长霓虹蓝线条，并带有若干更明亮的连接点。
+
+侧边功能面板：包含 6 个小型图标及标签功能块，左侧三个，右侧三个，在大脑两侧垂直对齐。左侧从上到下：1) 微芯片图标，标签为“LEARN ADAPT”；2) 抽象大脑/花朵网络图标，标签为“THINK CREATE”；3) 地球图标，标签为“CONNECT TRANSFORM”。右侧从上到下：4) 上升柱状图图标，标签为“DATA DRIVEN”；5) 带锁盾牌图标，标签为“TRUST SECURE”；6) 三人组图标，标签为“HUMAN CENTERED”。使用小型青色线条图标，搭配大写堆叠标签和细水平分割线。
+
+视觉风格：高端赛博朋克信息图海报，锐利的矢量与 3D 渲染结合，发光全息效果，放射状镜头光晕，精细的电路设计，对称构图，清晰易读的排版，超高细节，高分辨率。
+
+约束：保持所有可见文字拼写与指定内容完全一致，确保标题清晰易读，仅使用列出的 6 个侧边功能块，避免添加额外标签、Logo 或真人照片。
+
+[English]
+Goal: Create a futuristic vertical tech poster announcing {argument name="headline text" default="AI 2026"}, centered on a glowing artificial-intelligence brain made of neural network lines and circuit traces.
+
+Canvas: Portrait poster, 2:3 aspect ratio, dark navy-to-black background, high contrast, crisp sci-fi lighting, no border or watermark.
+
+Layout: Put an enormous bold uppercase headline at the top reading {argument name="headline text" default="AI 2026"}. Use a heavy condensed sans-serif font with white-to-icy-blue gradient fill, bevel-like highlights, and electric blue outer glow. Directly below it, add a thin glowing divider line and the small spaced uppercase tagline: {argument name="tagline" default="INTELLIGENCE. INNOVATION. INFINITE POSSIBILITIES."}
+
+Main subject: In the center and lower half, draw one large side-view human brain silhouette formed from hundreds of luminous blue nodes and connecting lines, like a digital neural constellation. The brain should glow intensely with cyan, electric blue, and white points of light, with denser bright nodes scattered throughout. From the bottom of the brain, vertical circuit pathways descend into a circular holographic portal or target-like light source at the bottom center.
+
+Background: Fill the entire background with subtle printed-circuit-board traces, microchip paths, small dots, tiny squares, and faint interface markings. The circuitry should radiate around and behind the brain, mostly thin neon-blue lines on black, with some brighter connection points.
+
+Side feature panels: Include exactly 6 small icon-and-label feature blocks, three on the left and three on the right, aligned vertically beside the brain. Left side from top to bottom: 1) microchip icon labeled “LEARN ADAPT”, 2) abstract brain/flower network icon labeled “THINK CREATE”, 3) globe icon labeled “CONNECT TRANSFORM”. Right side from top to bottom: 4) rising bar chart icon labeled “DATA DRIVEN”, 5) shield with lock icon labeled “TRUST SECURE”, 6) three-person group icon labeled “HUMAN CENTERED”. Use small cyan line icons with uppercase stacked labels and thin horizontal divider lines.
+
+Visual style: Premium cyberpunk infographic poster, sharp vector-meets-3D rendering, glowing blue holographic effects, radiant lens flares, detailed circuitry, symmetrical composition, clean readable typography, ultra-detailed, high resolution.
+
+Constraints: Keep all visible text spelled exactly as specified, make the headline very legible, use only the 6 side feature blocks listed, avoid extra labels, avoid logos, avoid photographic people.
+```
+
+**来源：** [@veno‎ 𓅃](https://x.com/venoyuls/status/2068778058413211974) | 2026-06-21
+
+---
+
+### 🎴 例 2104：皮克斯风格重构海报
+
+![皮克斯风格重构海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E9%87%8D%E6%9E%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将电视节目 {argument name="tv show" default="[TV SHOW]"} 重构为皮克斯风格的电影海报。将主要角色描绘成迷人的 3D CGI 漫画形象，具有夸张且富有表现力的特征、大而传神的眼睛，并采用温暖、光泽的皮克斯级渲染效果。将其构图为一张真实的电影海报
+
+[English]
+Pixar-style movie poster reimagining of the TV show {argument name="tv show" default="[TV SHOW]"}. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2068734051792392459) | 2026-06-21
+
+---
+
+### 🎴 例 2112：暗黑动漫《鬼灭之刃》海报
+
+![暗黑动漫《鬼灭之刃》海报](../../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E3%80%8A%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E3%80%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="灶门炭治郎"} 创作一张粗犷的竖版动漫电影海报，灵感源自暗黑少年奇幻风格与《鬼灭之刃》美学，营造废墟战场氛围，展现戏剧性的火焰、水之呼吸特效以及做旧的复古排版。
+
+画布：竖版海报，2:3 纵横比，全出血设计，带有细双线棕褐色边框和陈旧纸张纹理。采用高细节的绘画风漫画风格，包含粗犷的墨线、胶片颗粒、煤灰、划痕、余烬粒子以及温暖的橙黑色对比。
+
+主体：中心位置为一名身穿深色制服和绿黑格纹羽织的少年剑士，以强有力的四分之三侧身姿势站立。他拥有刺状的酒红色黑发、花札耳饰，轮廓英勇而强烈。他的面部区域被一个纯中棕色的矩形遮挡块覆盖，但头发、耳朵、脖子和身体保持可见。他双手握住腰间的武士刀，刀身向左上方倾斜。刀刃被明亮的青蓝色水能量包裹，一道清晰的卷曲水斩从左下方扫向左上方。羽织应呈现出破损且随风飘动的效果，边缘参差不齐。
+
+背景：夜晚燃烧的鬼杀战场。在背景烟雾缭绕的天空中，展示同一剑士巨大的幽灵侧脸肖像，面向右侧，带有发光的红色高光。右侧中景包含一座废弃的日式塔楼/建筑，右侧有一面带有深色书法字体的破旧竖旗，底部有倒塌的木结构和瓦砾，以及飞扬的灰烬、黑色碎片、火花和红橙色的火云。整体氛围呈现出末日感、英雄气概与悲剧色彩。
+
+排版与布局：设计应类似于日式电影海报与西班牙语标题的结合。包含以下明确的可见文本组：
+1. 左上角巨大的竖排日语标题：「希望」，做旧奶油色墨迹。
+2. 左侧标题旁的红色印章，带有类似「竈門 炭治郎」的日语字符。
+3. 右上角竖排日语文本框：「心を燃やせ 全てを懸けて」，下方附带较小的「鬼滅の刃」。
+4. 左下角竖排日语文本框：「命を繋ぎ、未来を照らすために」。
+5. 右侧旗帜上的深色书法：「鬼滅」。
+6. 下方三分之一处的主西班牙语标题，采用巨大的做旧衬线大写字母：{argument name="main title" default="LA VOLUNTAD INQUEBRANTABLE"}。“LA”置于“VOLUNTAD”上方且字号较小，“INQUEBRANTABLE”置于下方。
+7. 标题下方的红色小字制作人员名单：{argument name="credit name" default="TANJIRO KAMADO"}。
+8. 下方的小字白色副标题：{argument name="series subtitle" default="KIMETSU NO YAIBA"}。
+9. 最底部包含三个图标说明块：左侧太阳光芒图标配“UN HERMANO. UNA PROMESA.”，中心莲花图标配“UN CAMINO DE SACRIFICIO.”，右侧格纹方块图标配“UNA ESPERANZA QUE NUNCA MUERE.”
+10. 左下角带日语文本及英语含义的小方框技术标签：「水の呼吸 / 壱ノ型 / 水面斬り」。
+11. 底部中心圆形印章，内含大号汉字「滅」及微小的环形文字。
+12. 右下角小方框技术标签：「竈門炭治郎」及“WATER BREATHING / FIRST FORM / WATER SURFACE SLASH”。
+
+色彩与风格：使用焦橙色、黑色、炭灰色、柔和奶油色、深绿色、血红色和电青色水流高光的有限调色板。排版应呈现风化、开裂和部分侵蚀的效果。构图保持紧凑且具有电影感，强调强烈的背光和高对比度。
+
+约束条件：无现代物体，无干净的矢量感，无额外角色，除底部三个图标说明块外无额外图标，除列出的文本组外无额外标题文本，所有日语文本应保持装饰性，并在可能的情况下保持可读性。
+
+[English]
+Goal: Create a gritty vertical anime movie poster for {argument name="character name" default="Tanjiro Kamado"}, inspired by dark shonen fantasy and Demon Slayer aesthetics, with a ruined battlefield atmosphere, dramatic flames, water breathing effects, and distressed vintage typography.
+
+Canvas: Tall poster, 2:3 aspect ratio, full bleed, with a thin double-line tan border and aged paper texture. Use a high-detail painterly manga style with rough ink lines, film grain, soot, scratches, ember particles, and warm orange-black contrast.
+
+Main subject: Center a teenage swordsman in a dark uniform and green-black checkered haori, standing in a powerful three-quarter pose. He has spiky burgundy-black hair, hanafuda-style earrings, and an intense heroic silhouette. His face area is covered by a plain medium-brown rectangular censor block, while the hair, ears, neck, and body remain visible. He grips a katana with both hands near his waist, angled diagonally upward to the left. The blade is wrapped in bright turquoise-blue water energy, with one distinct curling water slash sweeping from the lower center toward the upper left. The haori should look torn and windblown, with many ragged pieces flowing outward.
+
+Background: A burning demon-slaying battlefield at night. Show a large ghostly profile portrait of the same swordsman in the smoky sky behind him, facing right, with glowing reddish highlights. Include one ruined Japanese pagoda/building on the right midground, one tattered vertical banner on the right with dark calligraphy, collapsing wooden structures and rubble along the bottom, flying ash, black debris, sparks, and red-orange fire clouds. The overall mood is apocalyptic, heroic, and tragic.
+
+Typography and layout: Make the design look like a Japanese theatrical poster mixed with a Spanish title treatment. Include exactly these visible text groups:
+1. Large vertical Japanese title on the upper left: 「希望」, distressed cream ink.
+2. Small red seal stamp beside the left title with Japanese characters resembling 「竈門 炭治郎」.
+3. Vertical Japanese text box on the upper right: 「心を燃やせ 全てを懸けて」 with a smaller line 「鬼滅の刃」.
+4. Vertical Japanese text box on the lower left: 「命を繋ぎ、未来を照らすために」.
+5. Dark calligraphy on the right banner: 「鬼滅」.
+6. Main Spanish title across the lower third, huge distressed serif capitals: {argument name="main title" default="LA VOLUNTAD INQUEBRANTABLE"}. Put “LA” smaller above “VOLUNTAD”, and “INQUEBRANTABLE” below.
+7. Red small-credit line under the title: {argument name="credit name" default="TANJIRO KAMADO"}.
+8. Small white subtitle under that: {argument name="series subtitle" default="KIMETSU NO YAIBA"}.
+9. Bottom row contains exactly three icon-caption blocks: left sunburst icon with “UN HERMANO. UNA PROMESA.”, center lotus icon with “UN CAMINO DE SACRIFICIO.”, right checker-square icon with “UNA ESPERANZA QUE NUNCA MUERE.”
+10. Bottom-left small boxed technique label with Japanese text and English meaning: 「水の呼吸 / 壱ノ型 / 水面斬り」.
+11. Bottom-center circular seal emblem containing the large kanji 「滅」 and tiny ring text.
+12. Bottom-right small boxed technique label: 「竈門炭治郎」 and “WATER BREATHING / FIRST FORM / WATER SURFACE SLASH”.
+
+Color and style: Use a limited palette of burnt orange, black, charcoal, muted cream, dark green, blood red, and electric cyan water highlights. Typography should be weathered, cracked, and partially eroded. Keep the composition dense and cinematic, with strong backlighting and high contrast.
+
+Constraints: No modern objects, no clean vector look, no extra characters, no extra icons beyond the three bottom icon-caption blocks, no additional title text beyond the listed groups, and keep all Japanese text decorative but legible where possible.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2068710294617280951) | 2026-06-21
+
+---
+
+### 🎴 例 2125：Cristiano Ronaldo 里斯本双重曝光海报
+
+![Cristiano Ronaldo 里斯本双重曝光海报](../../images/Cristiano%20Ronaldo%20%E9%87%8C%E6%96%AF%E6%9C%AC%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="Cristiano Ronaldo"} sports poster. The technique of in-camera double exposure. Two photographs shot on the same frame of film. The first exposure his portrait. The second exposure an aerial photograph of the city of {argument name="city" default="Lisbon"}. The two images occupying the same physical space. Neither erasing the other. Both present simultaneously. His face AND the city. The city visible through his face. His face mapped onto the city. Alfama rooftops where his forehead is. The Tagus river running through his jaw. The Ponte 25 de Abril suspension bridge crossing his eyes. He is made of the city. The city is shaped like him. Both statements true. The portrait layer. Shot on {argument name="film stock" default="Kodak Portra 800 35mm film"}. The grain of this stock at this ISO visible throughout. His face three quarters angle looking upward. Slightly underexposed at minus one stop to allow the second exposure to read through. His features present but transparent. The face of a man you can see through and see more clearly because of it. The city layer. Aerial photograph of Lisbon. Shot from 300 meters altitude. The Alfama district. The castle. The red rooftops. The white facades. The river. The bridges. The specific geography of a capital city that produced its greatest athlete. Slightly overexposed at plus one stop to compensate for the portrait underexposure. The city luminous. The city bright. The city insisting on itself within the face of its son. The combination. Where his face is lightest the city is most visible. The Tagus river runs through the highlight on his forehead. The red Alfama rooftops cluster in the warm midtones of his cheeks. The shadow of his eye socket contains the shadow of the castle. The city and the face share a tonal logic. The highlights of one are the highlights of the other. The shadows of one are the shadows of the other. They were always the same image. Color treatment. The portrait layer in warm near-monochrome. His skin rendered in the sepia-warm tones of underexposed Portra 800. The city layer in full color. Terracotta greds of Lisbon rooftops. The specific blue-grey of the Tagus. The white limestone facades. The green of the miradouro viewpoint trees. The color of the city bleeding through the near-monochrome of the face. Lisbon in color. Ronaldo in near-monochrome. The city more vivid than the man because the city is larger and older and will endure longer and knows it. One graphic intervention. A thin ring. Signal red Pantone 485C. 0.5pt stroke. No fill. Diameter spanning the full width of his irises. Positioned at his eyes. A targeting circle. A lens aperture. The eye as a camera. The camera that recorded everything he saw and used it. The red ring the only designed element added to the photographic layers. Everything else is found not made. Typography. The restraint of someone who understands that the image does not need assistance. Upper left. Garamond Italic 7pt tracking 400 bone white. A dupla exposição. The double expos
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2068652365746737470) | 2026-06-21
+
+---
+
+### 🎴 例 2127：电影感“未来自我”励志海报
+
+![电影感“未来自我”励志海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E2%80%9C%E6%9C%AA%E6%9D%A5%E8%87%AA%E6%88%91%E2%80%9D%E5%8A%B1%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端电影感励志宣传海报，标题为：
+{argument name="title" default="你欠未来自己的债"}
+这不是电影海报。
+这不是健身广告。
+它应呈现出由顶尖创意机构为整整一代深陷自律困境、注意力涣散及潜力未被发掘的年轻人所打造的全球奢华广告质感。
+画面中心是一位 {argument name="subject" default="年轻人"}，正走在一座巨大的未完工建筑结构中。
+环境既非城市，也非施工现场。
+它看起来更像是正在物理构建中的未来人生蓝图。
+高耸的钢结构直插云霄。
+漂浮的建筑图纸在空中游走。
+半截楼梯通向虚无。
+未竟的桥梁延伸至迷雾之中。
+空荡的窗框映照出未来不同的可能性。
+人物着装简约。
+没有奢华服饰。
+没有明显的身份象征。
+只有专注。
+只有前行。
+视觉反转
+在中心人物周围，环绕着巨大的、半透明的、来自不同时间线的自我形象。
+一个版本更加强壮。
+一个版本更加睿智。
+一个版本因悔恨而疲惫不堪。
+一个版本功成名就。
+一个版本从未发挥出潜力。
+这些平行时空的自我如同巨大的建筑幽灵，与环境融为一体。
+有的由光影构成。
+有的由未完成的草图构成。
+有的仿佛雕刻在混凝土中。
+有的从云雾与尘埃中浮现。
+观者应能感受到：每一个决定都会造就一个不同的未来自我。
+排版设计
+与建筑结构融为一体的巨型字体：
+你正在透支未来。
+你的未来自我将为此买单。
+每一个习惯都在复利增长。
+每一个借口都在累积利息。
+成为一个值得被继承的人。
+字体应呈现出物理嵌入墙体、钢梁、蓝图、脚手架及未完工结构中的质感。
+信息设计
+精致的高级信息图表元素：
+一致性指数
+自律评分
+专注力分配
+投入年份
+复利增长曲线
+细小的手写笔记
+习惯追踪系统
+未来预测
+建筑测量数据
+蓝图注释
+整体设计应显得智能且考究，而非杂乱无章。
+配色方案
+深石墨色
+混凝土灰
+蓝图蓝
+暖琥珀色高光
+柔和的白色建筑照明
+暗示已获成就的金色点缀
+风格
+奢华广告设计
+屡获殊荣的创意指导
+建筑摄影
+编辑式叙事
+博物馆展览海报
+Apple × Nike × A24 视觉精致感
+照片级真实感
+极深的空间感
+宏大的氛围尺度
+高级字体排版融合
+8K 杰作
+最终图像应呈现出复利增长本身的视觉化表达——让人在滑动屏幕时停下来，凝视数秒，细细品味其中的深意。
+
+[English]
+Create an ultra-premium cinematic motivational campaign poster titled:
+{argument name="title" default="THE DEBT YOU OWE YOUR FUTURE SELF"}
+This is not a movie poster.
+This is not a fitness advertisement.
+This should feel like a luxury global campaign created by an elite creative agency for an entire generation struggling with discipline, distraction, and unrealized potential.
+At the center stands a {argument name="subject" default="young adult"} walking through a massive unfinished architectural structure.
+The environment is neither a city nor a construction site.
+Instead, it resembles the blueprint of a future life being physically built around them.
+Towering steel frameworks rise into the clouds.
+Floating architectural drawings drift through the air.
+Half-finished staircases lead nowhere.
+Uncompleted bridges extend into fog.
+Empty window frames reveal alternate versions of the future.
+The person is dressed simply.
+No luxury clothing.
+No obvious status symbols.
+Only focus.
+Only movement.
+THE VISUAL TWIST
+Surrounding the central figure are enormous translucent versions of themselves from different timelines.
+One version is stronger.
+One is wiser.
+One is exhausted from regret.
+One is successful.
+One never reached their potential.
+These alternate selves appear like giant architectural ghosts integrated into the environment itself.
+Some are built from light.
+Some are built from unfinished sketches.
+Some appear carved into concrete.
+Some emerge from clouds and dust.
+The viewer should feel that every decision creates a different future person.
+TYPOGRAPHY
+Massive typography integrated into the architecture:
+YOU ARE LIVING ON CREDIT.
+YOUR FUTURE SELF PAYS THE BILL.
+EVERY HABIT COMPOUNDS.
+EVERY EXCUSE ACCRUES INTEREST.
+BECOME SOMEONE WORTH INHERITING.
+Typography should feel physically embedded into walls, steel beams, blueprints, scaffolding, and unfinished structures.
+INFORMATION DESIGN
+Subtle premium infographic elements:
+Consistency Index
+Discipline Score
+Focus Allocation
+Years Invested
+Compound Growth Curves
+Tiny handwritten notes
+Habit tracking systems
+Future projections
+Architectural measurements
+Blueprint annotations
+Everything should feel intelligently designed rather than cluttered.
+COLOR PALETTE
+Deep graphite
+Concrete gray
+Blueprint blue
+Warm amber highlights
+Soft white architectural lighting
+Hints of gold representing earned progress
+STYLE
+Luxury campaign design
+Award-winning creative direction
+Architectural photography
+Editorial storytelling
+Museum exhibition poster
+Apple × Nike × A24 visual sophistication
+Photorealistic
+Extreme depth
+Atmospheric scale
+Premium typography integration
+8K masterpiece
+The final image should feel like a visual representation of compound growth itself — something that makes people stop scrolling and stare for several seconds before understanding what they're looking at.
+```
+
+**来源：** [@Hemayxn.ai](https://x.com/hemayxn/status/2068648529380495681) | 2026-06-21
+
+---
+
+### 🎴 例 2128：现代时尚编辑海报
+
+![现代时尚编辑海报](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建 {argument name="style" default="现代时尚编辑海报"}，并应用 {argument name="effect" default="超大扭曲排版遮罩效果"}。人像被无缝融入 {argument name="background" default="明亮霓虹背景"} 上的巨型拉伸字体中，呈现出高端杂志封面的视觉美感。非常适合时尚广告、品牌推广、音乐封面、海报设计以及当代编辑图形设计。
+
+[English]
+Create {argument name="style" default="modern fashion editorial posters"} with {argument name="effect" default="oversized distorted typography masking effects"}. Portraits are seamlessly integrated into giant stretched letterforms on a {argument name="background" default="bright neon background"}, producing a premium magazine-cover aesthetic. Perfect for fashion campaigns, branding, music artwork, poster design, and contemporary editorial graphics.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2068631395493405037) | 2026-06-21
+
+---
+
+### 🎴 例 2129：月下仙卷现世
+
+![月下仙卷现世](../../images/%E6%9C%88%E4%B8%8B%E4%BB%99%E5%8D%B7%E7%8E%B0%E4%B8%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版电影感东方奇幻海报，画面中 {argument name="character name" default="一位月下仙女"} 正从一幅悬挂的中国丝绸画卷中走向现实世界。画卷居中，细长高挑，带有陈旧的象牙色丝绸边框，上下配有精致的深色木质卷轴，画卷内部的景观呈现出三维立体感：朦胧蓝夜空中的一轮满月、远处的泼墨山水、静谧的湖泊倒影，以及散发着温暖灯光的传统凉亭。女子从画卷中迈步而出，一只手抓着右侧丝绸边缘，另一只手臂向观众伸展，呈现强烈的透视感；她的面部被阴影和动态模糊轻微遮掩，长长的黑发向后飘动。为她穿上层叠的半透明 {argument name="robe color" default="淡蓝色与银色"} 汉服，配以轻纱袖口、精致的金线刺绣、闪烁的珠饰以及精美的银质花卉发冠。画卷周围环绕着白玉兰花：前景和侧枝处包含 5 簇显眼的玉兰花，空中飘落着花瓣。画卷之外的环境是一个月光笼罩的黑暗花园，地面有低矮的薄雾，背景是柔和的虚化花朵，冷色调的蓝色光影与魔幻的尘埃颗粒。采用戏剧性的景深构图，超细节的奇幻写实风格，丝绸面料呈现光泽感，底部有湿润的倒影，体积雾效果，充满中国仙侠画意氛围，高对比度的月光与少量温暖的灯笼光形成对比。比例 9:16，无文字，无水印，无现代物品。
+
+[English]
+Create a vertical cinematic oriental fantasy poster of {argument name="character name" default="a moonlit immortal woman"} emerging from a hanging Chinese silk scroll into the real world. The scroll is centered, tall and narrow, with aged ivory silk borders, ornate dark wooden rollers at the top and bottom, and a painted inner landscape that becomes three-dimensional: a full moon in a misty blue night sky, distant ink-wash mountains, a quiet lake with reflections, and a traditional pavilion glowing with warm lantern light. The woman steps forward from the scroll, one hand gripping the right silk edge and the other arm reaching toward the viewer in strong foreshortening; her face is softly obscured by shadow and motion blur, while her long black hair flows backward. Dress her in layered translucent {argument name="robe color" default="pale blue and silver"} hanfu robes with gauzy sleeves, subtle gold embroidery, glittering beadwork, and a delicate silver floral hair crown. Surround the scroll with white magnolia blossoms: include exactly 5 prominent blossom clusters in the foreground and side branches, plus drifting petals in the air. The environment outside the scroll is a dark moonlit garden with low rolling mist, soft bokeh flowers, cool blue lighting, and magical dust motes. Use a dramatic depth-of-field composition, ultra-detailed fantasy realism, glossy fabric highlights, wet reflective water at the base, volumetric fog, painterly Chinese xianxia atmosphere, and high-contrast moonlight with a small amount of warm lantern glow. Aspect ratio 9:16, no text, no watermark, no modern objects.
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068630479771779177) | 2026-06-21
+
+---
+
+### 🎴 例 2135：日本世界杯比赛总结海报
+
+![日本世界杯比赛总结海报](../../images/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%80%BB%E7%BB%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的日本体育新闻号外图片，主题为 {argument name="event title" default="2026 年国际足联世界杯"}，风格模仿日本 4–0 战胜突尼斯后在社交媒体上疯传的比赛总结海报。
+
+画布：3:4 竖版海报，深蓝色体育场背景，地平线处有明亮的泛光灯，红色和蓝色纸屑，脏旧的油漆纹理，高对比度，充满活力的报纸/体育新闻设计。
+
+主图：展示 3 名身穿蓝色日本国家队球衣的男性足球运动员在奔跑庆祝。中间的球员最大，身穿 9 号球衣，紧握拳头；左侧球员较小且部分被遮挡，身穿 15 号球衣；右侧球员部分被裁剪，身穿 14 号球衣。在右上角球员后方放置一个巨大的日本国旗笔触圆圈。使用逼真的体育摄影灯光、随风飘动的头发和强烈的表情，但不要使用真实球员的肖像。
+
+布局与文字：在左上角放置一个小的金色英文标题：{argument name="event title" default="2026 年国际足联世界杯"}。下方使用巨大的做旧白色日本报纸风格标题文字：{argument name="main Japanese headline" default="日本战\n最新总结"}。下方添加一个红色笔触标注，配以粗体白色日文：{argument name="red callout text" default="突尼斯战\n大胜！"}。保持排版粗体、紧凑、略显粗糙，并带有投影和倾斜的笔触装饰。
+
+比分板块：在中心创建一个大的深蓝色比分条，包含 2 面国旗，左侧为日本，右侧为突尼斯。包含日本队名和醒目的黄色比分：{argument name="main score line" default="日本 4-0 突尼斯"}。上方放置日文小组赛标签，下方以较小字体添加进球者：{argument name="scorers line" default="得点：上田绮世×2 / 鎌田大地 / 伊东纯也"}。
+
+下方信息区：添加一段巨大的手写风格白色和黄色日文声明，说明日本在 F 组排名第 2，下方附带小字说明平局或更好成绩即可确保第二名或更高排名。创建 2 个中间面板：左侧面板为下一场比赛，显示日本对阵瑞典，包含日本和瑞典国旗、日期/时间和场地；右侧面板为 F 组积分榜。
+
+积分榜：积分榜必须包含 4 行，排名 1 至 4：荷兰、日本、瑞典、突尼斯。包含各国国旗、日文队名、积分和净胜球。使用深蓝色单元格，日本队所在行使用红色高亮，白色文字，黄色点缀。
+
+底部比赛时间轴：创建 3 个矩形比赛卡片，由带有圆点的细时间轴连接，标记为比赛 1、比赛 2、比赛 3。卡片 1 显示荷兰 2–2 日本，包含两国国旗。卡片 2 高亮显示，展示突尼斯 0–4 日本，包含两国国旗。卡片 3 显示日本对阵瑞典，包含两国国旗。在底部居中添加一个小更新日期。
+
+视觉风格：现代日本体育报纸号外，大胆的编辑布局，深蓝/红/白/黄配色，逼真的球员与图形叠加，清晰的边框，发光的体育场灯光，油漆飞溅，做旧纹理，充满庆祝的紧迫感。确保所有文字清晰易读，无水印，除通用国旗和通用日本队徽外，不包含其他标志。
+
+[English]
+Goal: Create a dramatic Japanese sports-news extra edition graphic about {argument name="event title" default="FIFA WORLD CUP 2026"}, styled like a viral social media match-summary poster after Japan defeats Tunisia 4–0.
+
+Canvas: Vertical 3:4 poster, dark navy stadium background with bright floodlights along the lower horizon, red and blue confetti, grunge paint textures, high contrast, energetic tabloid/sports-news design.
+
+Main image: Show exactly 3 Japanese male soccer players in blue Japan national-team jerseys, running and celebrating. The center player is largest, wearing number 9, fist clenched; the left player is smaller and partly behind him, wearing number 15; the right player is partly cropped, wearing number 14. Place a large Japanese flag brushstroke circle behind the players on the upper right. Use realistic sports photography lighting, wind-swept hair, intense expressions, but do not use real player likenesses.
+
+Layout and text: At top left, place a small gold English title: {argument name="event title" default="FIFA WORLD CUP 2026"}. Under it, use huge distressed white Japanese newspaper-style headline text: {argument name="main Japanese headline" default="日本戦\n最新まとめ"}. Add a red brushstroke callout below with bold white Japanese text: {argument name="red callout text" default="チュニジア戦\n勝利！"}. Keep the typography bold, condensed, slightly rough, with drop shadows and angled paint-stroke accents.
+
+Score block: In the center, create one large navy scoreboard bar with exactly 2 national flags, Japan on the left and Tunisia on the right. Include Japanese team names and a large yellow score: {argument name="main score line" default="日本 4-0 チュニジア"}. Above it place the group-stage label in Japanese, and below it add scorers in smaller text: {argument name="scorers line" default="得点：上田綺世×2 / 鎌田大地 / 伊東純也"}.
+
+Lower information area: Add a large handwritten-style white and yellow Japanese statement saying Japan is in 2nd place in Group F, with a smaller note underneath saying a draw or better secures second place or higher. Create exactly 2 middle panels: left panel for the next match, showing Japan vs Sweden with Japan and Sweden flags, date/time, and venue; right panel for the Group F standings.
+
+Standings table: The standings panel must have exactly 4 rows, ranked 1 to 4: Netherlands, Japan, Sweden, Tunisia. Include each country flag, team name in Japanese, points, and goal difference. Use dark navy cells, a red highlight row for Japan, white text, and yellow accents.
+
+Bottom match timeline: Create exactly 3 rectangular match cards connected by a thin timeline with dots, labeled match 1, match 2, match 3. Card 1 shows Netherlands 2–2 Japan with both flags. Card 2 is highlighted and shows Tunisia 0–4 Japan with both flags. Card 3 shows Japan vs Sweden with both flags. Add a small update date centered at the bottom.
+
+Visual style: Modern Japanese sports newspaper extra, bold editorial layout, navy/red/white/yellow palette, realistic players combined with graphic overlays, sharp borders, glowing stadium light, paint splashes, distressed textures, celebratory urgency. Make all text crisp and legible, no watermarks, no logos other than generic national flags and a generic Japan crest.
+```
+
+**来源：** [@ヌケがら🔥](https://x.com/nukegala83/status/2068594881128521941) | 2026-06-21
+
+---
+
+### 🎴 例 2138：科幻悬浮都市海报
+
+![科幻悬浮都市海报](../../images/%E7%A7%91%E5%B9%BB%E6%82%AC%E6%B5%AE%E9%83%BD%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+科幻未来城市电影感海报，{argument name="subject" default="霓虹城市上空的巨型悬浮都市"}
+
+[English]
+Sci Fi Future City Cinematic Poster, {argument name="subject" default="giant floating metropolis above a neon city"}
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068585014334210227) | 2026-06-21
+
+---
+
+### 🎴 例 2140：Cristiano Ronaldo 收藏版海报
+
+![Cristiano Ronaldo 收藏版海报](../../images/Cristiano%20Ronaldo%20%E6%94%B6%E8%97%8F%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="athlete name" default="CRISTIANO RONALDO"} 创建一张垂直方向的收藏版体育编辑海报，采用做旧的档案印刷美学和醒目的排版布局。
+
+画布：高长比例海报，宽高比约为 2:3，暖色调灰白色纸张背景，带有明显的纹理、划痕、墨迹、套准标记、细网格线、裁切标记、十字准星和技术绘图注释。
+
+主体构图：在右半部分放置一张运动员的黑白半色调特写肖像，裁切后仅露出头部右侧、耳朵、颈部和肩膀。面部区域被一个占据右上中心大部分空间的柔和灰褐色垂直矩形覆盖，营造出编辑审查遮挡的效果。肖像应呈现出高对比度、颗粒感、丝网印刷感，并带有粗糙的白色笔触擦除效果。
+
+排版与布局：在左上方，使用高瘦的粗体无衬线大写字母设置标题：{argument name="headline text" default="CRISTIANO RONALDO"}。在标题上方添加一个微小的橙色标签“CR7”。在标题下方，添加间距较小的橙色文字：“COLLECTOR EDITION”。在左中位置，放置一个巨大的做旧橙色数字 {argument name="jersey number" default="7"}，数字左上角附近嵌入微小的垂直白色文字“CR7”。在左下角，放置巨大的被裁切的黑色字母“CR”，部分被海报边缘切断。
+
+可见的小字与注释：在左侧以微小的黑色字体包含 5 条职业生涯时间线： “2002 SPORTING CP”、“2003 MANCHESTER UNITED”、“2009 REAL MADRID”、“2018 JUVENTUS” 和 “2021 MANCHESTER UNITED”。在下方添加 “2023 AL NASSR”。在葡萄牙队徽图标旁添加垂直橙色文字 “PORTUGAL”。在大数字旁添加垂直橙色文字 “THE STANDARD”。在左下角的黑色大字母内添加一小堆励志词汇：“DISCIPLINE”、“AMBITION”、“OBSESSION”、“LEGACY”。在底部中心，添加引言：{argument name="bottom quote" default="TALENT WITHOUT WORKING HARD IS NOTHING"}。在顶部附近添加小型坐标标签，包括 “40.7128° N” 和 “74.0060° W”，并在右上角添加橙色序列号 “001/1985”。在左下角添加微小的 Nike 风格体育品牌标识，包含一个橙色钩子图标和微小文字 “NIKE FOOTBALL TRAINING DIVISION”。
+
+图形元素：使用 1 个巨大的橙色数字、1 个巨大的被裁切黑色 “CR” 字母组合、1 个小型葡萄牙队徽、1 个橙色钩子标志、2 个靠近顶部角落的十字准星符号，以及多条细技术网格线和测量刻度。保持所有设计元素扁平化且具有印刷感，无光泽 3D 效果。
+
+配色方案：陈旧象牙色纸张、深黑色墨水、褪色的炭灰色肖像色调、鲜艳的焦橙色点缀，以及用于大面积遮挡矩形的柔和灰褐色。
+
+风格限制：高级足球纪念品海报，瑞士编辑网格与垃圾丝网印刷纹理相结合，博物馆档案收藏卡质感，高对比度，非对称布局，做旧墨迹边缘，细微的纸张老化效果，无写实背景场景，无额外人物，除指定的排版外无其他大号文字。
+
+[English]
+Goal: Create a vertical collector's-edition editorial sports poster for {argument name="athlete name" default="CRISTIANO RONALDO"}, with a distressed archival print aesthetic and bold typographic layout.
+
+Canvas: Tall portrait poster, approximately 2:3 aspect ratio, warm off-white paper background with visible grain, scratches, ink smudges, registration marks, thin grid lines, crop marks, crosshair targets, and technical drafting annotations.
+
+Main composition: Place an extreme close-up black-and-white halftone portrait of the athlete on the right half, cropped so only the right side of the head, ear, neck, and shoulder are visible. The face area is covered by a large muted taupe-gray vertical rectangle occupying much of the upper-right center, creating an editorial censor-block effect. The portrait should feel high-contrast, gritty, screen-printed, and partially erased with rough white brush textures.
+
+Typography and layout: On the upper left, set the headline in tall condensed bold sans-serif uppercase: {argument name="headline text" default="CRISTIANO RONALDO"}. Above it, add a tiny orange label “CR7”. Beneath the headline, add small spaced orange text: “COLLECTOR EDITION”. Dominating the left-center, place a huge distressed orange number {argument name="jersey number" default="7"}, with small vertical white text “CR7” embedded near the top-left of the number. Across the lower-left corner, place enormous cropped black letters “CR”, partially cut off by the poster edge.
+
+Visible small text and annotations: Include exactly 5 career timeline entries in tiny black text on the left: “2002 SPORTING CP”, “2003 MANCHESTER UNITED”, “2009 REAL MADRID”, “2018 JUVENTUS”, and “2021 MANCHESTER UNITED”. Add “2023 AL NASSR” beneath them. Add vertical orange text “PORTUGAL” beside a small Portugal crest icon. Add vertical orange text “THE STANDARD” near the large number. Add a small motivational word stack inside the lower-left black typography: “DISCIPLINE”, “AMBITION”, “OBSESSION”, “LEGACY”. At the bottom center, add the quote: {argument name="bottom quote" default="TALENT WITHOUT WORKING HARD IS NOTHING"}. Add small coordinate labels near the top, including “40.7128° N” and “74.0060° W”, plus orange serial text “001/1985” in the top-right corner. Add tiny Nike-style sports branding at the bottom-left with an orange swoosh and small text “NIKE FOOTBALL TRAINING DIVISION”.
+
+Graphic elements: Use exactly 1 huge orange numeral, exactly 1 huge cropped black “CR” monogram, exactly 1 small Portugal crest, exactly 1 orange swoosh logo, exactly 2 crosshair target symbols near the top corners, and multiple thin technical grid lines and measurement ticks. Keep all design elements flat and print-like, with no glossy 3D effects.
+
+Color palette: Aged ivory paper, deep black ink, faded charcoal portrait tones, vivid burnt orange accents, and muted taupe-gray for the large face-block rectangle.
+
+Style constraints: Premium football memorabilia poster, Swiss editorial grid mixed with grunge screenprint texture, museum-archive collector card energy, high contrast, asymmetrical layout, distressed ink edges, subtle paper aging, no photorealistic background scene, no extra people, no additional large text beyond the specified typography.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2068564048028045672) | 2026-06-21
+
+---
+
+### 🎴 例 2145：赛博朋克电竞快递员海报
+
+![赛博朋克电竞快递员海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%94%B5%E7%AB%9E%E5%BF%AB%E9%80%92%E5%91%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版赛博朋克电竞动作海报，用于名为 {argument name="event title" default="LOW ORBIT"} 的未来主义单人快递员活动，画面呈现一名身穿装甲的快递员站在雨中霓虹闪烁的超级城市中。
+
+画布：2:3 竖版比例，深色电影级科幻色调，高对比度，光亮的雨水反射，锐利的电竞主视觉图。在海报四周使用带有细青色线条和少量橙色点缀的未来主义 HUD 边框。
+
+布局：顶部三分之一处包含活动品牌信息。最上方是小号间距的大写文字“ORBITAL CONFLICT SERIES”。下方是巨大的粗体压缩标题“LOW ORBIT”，采用青色到紫色的渐变，并带有微妙的做旧纹理。标题下方是间距排列的标语“DELIVER. SURVIVE. REACH ORBIT.”，其中“SURVIVE.”为橙色。正下方是一个橙色和青色勾边的黑色多边形徽章，写着“SOLO COURIER EVENT”，并配有一个小的橙色向下箭头。
+
+主体场景：一名戴兜帽的未来主义快递员背影，位于画面中心偏左，身穿黑色湿润装甲夹克、战术裤、手套，背着一个坚硬的长方形快递背包。背包上印有橙色三角形标志和“ORBITAL LOGISTICS”字样。快递员一只手提着一个带有相同橙色标志的深色行李袋。人物站在雨水浸湿的夜间海滨街道上，面向密集的未来城市天际线。添加高耸的摩天大楼，配有青色、紫色、洋红色和橙色的全息标志、薄雾、降雨、水坑反射、远处的飞行灯光，以及一条从右上角斜穿至左中部的巨大高架高速公路或铁路桥。在右侧桥墩上包含一个橙色的“07”标记。
+
+底部信息栏：在底部添加 5 张独立的 HUD 风格活动卡片，每张卡片都有细的霓虹青色或紫色轮廓，标签上方配有一个图标。卡片 1：准星图标，标签“MODE”，数值“SOLO”。卡片 2：地球仪/雷达图标，标签“MAP”，数值 {argument name="map name" default="NEO-AEGIS"}。卡片 3：橙色三角形活动标志，标签“EVENT DATE”，数值 {argument name="event date" default="MAY 24-25 2025"}。卡片 4：骷髅图标，标签“REWARD”，数值 {argument name="reward name" default="ORBITAL CACHE"}。卡片 5：奖杯图标，标签“ENTRY”，数值 {argument name="entry status" default="OPEN"}。在卡片下方，放置一个居中的长条形多边形按钮，写着“REGISTER NOW”，两侧带有小箭头和橙色危险条纹。
+
+视觉风格：高端 AAA 游戏营销海报，赛博朋克电竞比赛美学，电影级光效，超细节的雨水和反射表面，青-紫-橙霓虹配色，硬核写实的装甲角色，清晰易读的排版，对称的海报层级。
+
+约束：仅包含一个主角，正好五张底部信息卡片，保持所有文字清晰可辨，不要添加额外的卡片，不要添加虚构活动标志以外的任何 Logo 或水印，保持黑暗的高科技氛围。
+
+[English]
+Goal: Create a vertical cyberpunk esports action poster for a futuristic solo courier event titled {argument name="event title" default="LOW ORBIT"}, with a dramatic armored courier standing in a rainy neon megacity.
+
+Canvas: Tall 2:3 poster, dark cinematic sci-fi palette, high contrast, glossy rain reflections, sharp esports key art. Use a futuristic HUD border around the whole poster with thin cyan lines and small orange accents.
+
+Layout: Top third contains the event branding. At the very top, small spaced uppercase text reads “ORBITAL CONFLICT SERIES”. Below it, an enormous bold condensed headline reads “LOW ORBIT” in a cyan-to-violet gradient with subtle distressed texture. Under the headline, a spaced tagline reads “DELIVER. SURVIVE. REACH ORBIT.” with “SURVIVE.” in orange. Centered below is a black angular badge outlined in orange and cyan reading “SOLO COURIER EVENT”, with a small orange downward chevron.
+
+Main scene: A single hooded futuristic courier viewed from behind, centered slightly left, wearing a black wet armored jacket, tactical pants, gloves, and a hard rectangular delivery backpack. The backpack has an orange triangular logo and the words “ORBITAL LOGISTICS”. The courier holds a dark duffel bag in one hand with the same orange logo. The figure stands on a rain-soaked waterfront street at night, facing a dense futuristic city skyline. Add towering skyscrapers with cyan, violet, magenta, and orange holographic signs, mist, falling rain, puddle reflections, distant flying lights, and a massive elevated highway or rail bridge crossing diagonally from upper right to middle left. Include an orange “07” marking on a bridge pillar at the right.
+
+Bottom information strip: Add exactly 5 separate HUD-style event cards across the bottom, each with a thin neon cyan or violet outline and one icon above its label. Card 1: crosshair icon, label “MODE”, value “SOLO”. Card 2: globe/radar icon, label “MAP”, value {argument name="map name" default="NEO-AEGIS"}. Card 3: orange triangular event logo, label “EVENT DATE”, value {argument name="event date" default="MAY 24-25 2025"}. Card 4: skull icon, label “REWARD”, value {argument name="reward name" default="ORBITAL CACHE"}. Card 5: trophy icon, label “ENTRY”, value {argument name="entry status" default="OPEN"}. Beneath the cards, place a long angular button centered at the bottom reading “REGISTER NOW”, with small chevrons and orange hazard stripes on both sides.
+
+Visual style: Premium AAA game marketing poster, cyberpunk esports tournament aesthetic, cinematic lighting, ultra-detailed rain and reflective surfaces, teal-purple-orange neon color scheme, gritty realistic armored character, crisp readable typography, symmetrical poster hierarchy.
+
+Constraints: Include exactly one main character, exactly five bottom info cards, keep all text legible, do not add extra cards, do not add logos or watermarks beyond the fictional event marks, maintain a dark high-tech atmosphere.
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2068542823721214235) | 2026-06-21
+
+---
+
+### 🎴 例 2146：狂野西部双重曝光海报
+
+![狂野西部双重曝光海报](../../images/%E7%8B%82%E9%87%8E%E8%A5%BF%E9%83%A8%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作级双重曝光海报，{argument name="subject" default="粗犷的狂野西部牛仔"} 侧面轮廓，头戴 {argument name="accessory" default="黑色帽子"}，电影级剪影中融入多个西部场景：日落时分骑马穿越沙漠的骑士、壮观的山脉景观、蒸汽火车、亡命之徒的篝火、古老的边境小镇、走在泥泞街道上的孤独枪手、史诗般的峡谷远景，深沉的氛围，复古西部美学，{argument name="colors" default="棕褐色和焦橙色调"}，墨迹飞溅边缘，做旧羊皮纸背景，高细节数字绘画，戏剧性光影，分层构图，概念艺术，电影海报设计，超细节，照片级真实感，8k，灵感源自 Red Dead Redemption。
+
+[English]
+Masterpiece double exposure poster, {argument name="subject" default="rugged wild west cowboy"} in side profile wearing a {argument name="accessory" default="black hat"}, cinematic silhouette filled with multiple western scenes, horseback riders crossing a desert at sunset, dramatic mountain landscape, steam train, outlaw campfire, old frontier town, lone gunslinger walking through a muddy street, epic valley vista, dark moody atmosphere, vintage western aesthetic, {argument name="colors" default="sepia and burnt orange color palette"}, ink splatter edges, distressed parchment background, highly detailed digital painting, dramatic lighting, layered composition, concept art, movie poster design, ultra detailed, photorealistic, 8k, Red Dead Redemption inspired.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2068537383255941230) | 2026-06-21
+
+---
+
