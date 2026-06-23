@@ -5685,3 +5685,233 @@ A photorealistic stadium crowd scene featuring a stylish {argument name="subject
 
 ---
 
+### 🏷️ 例 2150：历史发明可视化公式
+
+![历史发明可视化公式](../../images/%E5%8E%86%E5%8F%B2%E5%8F%91%E6%98%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%85%AC%E5%BC%8F.jpg)
+
+**Prompt:**
+
+```text
+innovation_ripple_effect_for_{argument name="invention" default="[historical_invention]"} = ( mechanical_anatomy_exploded_view_of_{argument name="invention" default="[historical_invention]"} * 1.8 ) + ( information_velocity_graph_years_to_spread_idea_pre_vs_post_invention * 2.0 ) + ( cognitive_load_shift_diagram_how_society_processed_information_differently * 1.6 ) + ( economic_disruption_matrix_guilds_vs_industry_labor_shift * 1.4 ) + ( material_supply_chain_sourcing_map_for_the_invention * 1.3 ) - ( dusty_museum_artifact_photos / 3.0 ) - ( inventor_as_lone_genius_trope / 3.8 ) - ( boring_patent_office_drawings / 3.5 )
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2069184404736377159) | 2026-06-22
+
+---
+
+### 🏷️ 例 2153：极简抽象光泽油画
+
+![极简抽象光泽油画](../../images/%E6%9E%81%E7%AE%80%E6%8A%BD%E8%B1%A1%E5%85%89%E6%B3%BD%E6%B2%B9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+極めて不安定で構成要素の少ない、{argument name="スタイル" default="ツーっとした"}抽象画を見てみたいです。{argument name="雰囲気" default="Midjourney 風の厚塗りの油絵っぽいツヤっとした"}デジタルイラストを生成できますか？
+```
+
+**来源：** [@Kitten Kiki](https://x.com/KittenKiki15/status/2069158981680160935) | 2026-06-22
+
+---
+
+### 🏷️ 例 2157：从草图到复古恐怖剧院场景
+
+![从草图到复古恐怖剧院场景](../../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E5%A4%8D%E5%8F%A4%E6%81%90%E6%80%96%E5%89%A7%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的草图作为构图和生物设计基础，将其转化为完整的电影级场景：将草图中的怪物渲染为舞台上同一个圆形底座上的写实怪诞昆虫蜘蛛生物，保留其中心姿势、多条腿、尖刺、张开的嘴以及圆顶展示/舞台的概念。将粗糙的笔记本绘图更改为 {argument name="visual style" default="戏剧性的黑白复古恐怖摄影"}，具备高对比度、胶片颗粒感、烟雾缭绕的氛围以及强烈的头顶聚光灯。将简单的草图拱门替换为华丽的剧院台口：包含 2 块高大的侧幕、2 根雕刻侧柱以及舞台附近的 2 盏小型落地灯。在前景中加入正式的剧院观众，从后方视角呈现，画面中需清晰可见 20 名身着复古晚礼服的观众正在观看该生物。将图片设置为竖版，呈现出 {argument name="era" default="1930 年代"} 舞台表演摄影的效果。保持氛围诡异、具有戏剧感且宏大；不要包含笔记本纸张、铅笔线条、手写符号、现代物品或色彩。
+
+[English]
+Using the provided sketch as the composition and creature-design base, transform it into a finished cinematic scene: render the sketched monster as a realistic grotesque insect-spider stage creature on the same circular pedestal, keeping the central pose, multiple legs, spikes, open mouth, and domed display/stage concept. Change the rough notebook drawing into {argument name="visual style" default="dramatic black-and-white vintage horror photography"} with high contrast, film grain, smoky atmosphere, and a strong overhead spotlight. Replace the simple sketched arch with an ornate theater proscenium: exactly 2 tall side curtains, 2 carved side columns, and 2 small floor lanterns near the stage. Add a formal theater audience in the foreground, seen from behind, with exactly 20 visible spectators in period eveningwear watching the creature. Make the image vertical, like a staged performance photograph from {argument name="era" default="the 1930s"}. Keep the mood eerie, theatrical, and grand; do not include notebook paper, pencil lines, handwritten symbols, modern objects, or color.
+```
+
+**来源：** [@Marcvs](https://x.com/marcvs/status/2069105507743260923) | 2026-06-22
+
+---
+
+### 🏷️ 例 2188：废墟大教堂中的狂野哥特恶魔少女
+
+![废墟大教堂中的狂野哥特恶魔少女](../../images/%E5%BA%9F%E5%A2%9F%E5%A4%A7%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E7%8B%82%E9%87%8E%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高竖版暗黑奇幻动漫插图，采用粗犷的单色水墨风格，并配以强烈的点缀色。展示 {argument name="character name" default="一位狂野的哥特恶魔少女"} 的极度特写，采用低角度倾斜构图，让她在废墟大教堂内向观众猛扑而来。她留着凌乱的 {argument name="hair color" default="银灰色"} 头发，皮肤苍白且有裂纹，戴着褶边哥特式女仆头饰，长着两只粗壮的黑色弯曲犄角，双眼闪烁着红光且瞳孔呈星芒状，咧着巨大的嘴露出锯齿状牙齿，表情狂乱且充满战意。她的服装是黑色哥特盔甲与破损褶边连衣裙的结合，配有皮带、搭扣、袖子和褴褛的布料。包含三个主要的装备元素：一把斜持在身后上方巨大的双头战斧或长戟，一个位于前景、带有星形徽章的大型圆形华丽金属肩甲/护肩，以及一条垂在裙子正中央的系带腰带。背景是高耸的废墟大教堂内部，有尖拱、碎石，左下方有一扇发出微弱白光的圆形玫瑰窗。主要使用黑色、炭色和灰色，配合高对比度的素描漫画线条、厚重的划痕、裂纹质感、飞溅的墨迹、碎片和混乱的动态感。添加四种点缀飞溅色：眼睛周围和左侧类似鲜血的红色溅射，武器和中心下方附近的电光蓝色斑点，右侧的小块金色碎片，以及窗户中的白色高光。构图应具有动态感和压迫感，比例为 9:16 的竖版，面部位于中上方，武器横跨顶部三分之一处，大教堂建筑在身后向远方延伸。画面需高度精细、充满侵略性、哥特感、不稳定且具有电影质感，不要包含任何可读文字、水印或干净的现代元素。
+
+[English]
+Create a tall vertical dark fantasy anime illustration in a gritty monochrome ink style with violent accent colors. Show {argument name="character name" default="a feral gothic demon girl"} in extreme close-up from a low tilted angle, lunging toward the viewer inside a ruined cathedral. She has messy {argument name="hair color" default="silver-gray"} hair, pale cracked skin, a frilled maid-like gothic headpiece, two thick black curved horns, two glowing red eyes with starburst pupils, a huge open jagged-toothed grin, and a manic battle expression. Her outfit is black gothic armor mixed with a torn frilled dress, leather straps, buckles, sleeves, and ragged fabric. Include exactly three major gear elements: one enormous double-headed battle axe or halberd held diagonally above and behind her, one large circular ornate metal shoulder shield/pauldron near the foreground with a star-like emblem, and one strapped belt hanging down the center of her skirt. The background is a towering ruined cathedral interior with pointed arches, broken stone, and a circular rose window glowing dim white in the lower left. Use mostly black, charcoal, and gray with high-contrast sketchy manga linework, heavy scratches, cracked textures, splattered ink, debris, and chaotic motion. Add exactly four accent splatter colors: red blood-like splashes around the eyes and left side, electric blue flecks near the weapon and lower center, small gold shards on the right side, and white highlights in the window. Composition should be dynamic, claustrophobic, vertical 9:16, with the face centered slightly above the middle, the weapon crossing the top third, and cathedral architecture receding behind her. Make it highly detailed, aggressive, gothic, unstable, and cinematic, with no readable text, no watermark, and no clean modern elements.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2069008985735532806) | 2026-06-22
+
+---
+
+### 🏷️ 例 2191：浮光记忆长廊
+
+![浮光记忆长廊](../../images/%E6%B5%AE%E5%85%89%E8%AE%B0%E5%BF%86%E9%95%BF%E5%BB%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+展示 {argument name="subject" default="穿过一条由漂浮记忆组成的走廊"}。每一段记忆都呈现为悬浮在空中的发光电影相框。温暖的怀旧灯光，富有情感的氛围，写实的人物肖像，梦幻般的叙事感，电影级视觉效果，8K 分辨率。
+
+[English]
+Show me {argument name="subject" default="walking through a corridor made of floating memories"}. Each memory appears as a glowing cinematic frame suspended in the air. Warm nostalgic lighting, emotional atmosphere, realistic portrait, dreamlike storytelling, movie-quality visuals, 8K.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2068991260283838969) | 2026-06-22
+
+---
+
+### 🏷️ 例 2192：电影级角色身份项目
+
+![电影级角色身份项目](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%BA%AB%E4%BB%BD%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的艺术化角色身份项目（CHARACTER IDENTITY BOARD）。
+
+以图像 A 作为主体和视觉媒介。名称：{argument name="name" default="Clara"}。{argument name="correction" default="Fix headphones"}。（根据你的需求修改此行。）
+
+柔和的米白色背景。无环境背景，无 Logo，无水印。
+
+设计方向：
+不要创建标准的角色参考图。
+创建一个电影级的身份项目，使其看起来像是高端动画工作室的角色研究与艺术画册排版的结合体。
+
+排版应是不对称的、优雅且令人印象深刻的。
+利用大面积留白、多变的图像比例和刻意的不平衡感。
+避免使用网格、蓝图设计、目录式排版以及重复的转向展示。
+
+重要排版规则：
+不要让任何角色图像重叠。
+每个视图都必须有清晰的间距和呼吸感。
+保持所有全身像、肖像、剪影和细节研究在视觉上相互独立。
+禁止面部裁剪、肢体遮挡、堆叠人物或姿势重叠。
+
+主要构图：
+放置一个略微偏离中心的大型全身英雄视图作为视觉锚点。
+
+在其周围，以整洁的间距排列较小的辅助研究图：
+中性全身视图、背面视图、侧面视图、坐姿、倚靠姿势、蹲姿、俯视角度、仰视角度以及表情研究。
+
+每个视图都应感觉像是独立的、清晰的角色研究，而不是同一场景中的帧。
+
+身份锁定：
+在所有视图中保持严格的身份一致性：
+相同的面部、相同的面部比例、相同的发型、相同的服装、相同的身体比例、相同的姿态语言、相同的视觉个性。
+
+实用的参考细节：
+使角色易于识别，以便进行后续的图像和视频生成：
+清晰的脸型、清晰的发型轮廓、清晰的服装轮廓、清晰的体型、清晰的手部、清晰的姿态、清晰的表情范围。
+
+艺术板块：
+包含一个小型剪影研究区，展示 2-3 个简化的黑色角色剪影。
+包含一个小型表情研究区，展示细微的情绪变化。
+包含一个小型细节研究区，展示面部、头发和服装的关键视觉特征。
+
+文字设计：
+添加一个时尚的角色 ID 模块。
+保持极简、醒目且具有艺术指导感。
+仅使用：
+姓名 (NAME)
+角色 (ROLE)
+核心情绪 (CORE MOOD)
+视觉特征 (VISUAL SIGNATURE)
+
+仅在必要时使用小型的书写体标签。
+允许使用细微的编辑箭头和注释标记，但要保持极简和优雅。
+
+风格：
+极简、电影感、高级、画册感、整洁、表现力强、适用于生产流程。
+
+最终图像应呈现出一种艺术化的角色身份项目设计感。
+
+[English]
+Create an artistic 16:9 CHARACTER IDENTITY BOARD.
+
+Use Image A as the subject and the visual medium. Name: {argument name="name" default="Clara"}. {argument name="correction" default="Fix headphones"}. (just change this line as your needs.)
+
+Soft off-white background. No environment, no logo, no watermark.
+
+DESIGN DIRECTION:
+Do not create a standard character reference sheet.
+Create a cinematic identity board that feels like a high-end animation studio character study mixed with an artbook layout.
+
+The layout should be asymmetrical, elegant and visually memorable.
+Use large empty space, varied image scale and intentional imbalance.
+Avoid grids, blueprint design, catalog layout and repetitive turnaround presentation.
+
+IMPORTANT LAYOUT RULE:
+Do not overlap any character images.
+Every view must have clear separation and breathing room.
+Keep all bodies, portraits, silhouettes and detail studies visually distinct.
+No cropped faces, no hidden limbs, no stacked figures, no merged poses.
+
+MAIN COMPOSITION:
+Place one large hero full-body view slightly off-center as the visual anchor.
+
+Around it, arrange smaller supporting studies with clean spacing:
+neutral full-body view, back view, profile view, seated pose, leaning pose, crouching pose, top-down body angle, low-angle body angle, expressive portrait studies.
+
+Each view should feel like a separate clean character study, not a frame from one scene.
+
+IDENTITY LOCK:
+Preserve strict identity consistency across all views:
+same face, same facial proportions, same hairstyle, same outfit, same body proportions, same posture language, same visual personality.
+
+USEFUL REFERENCE DETAILS:
+Make the character readable for future image and video generation:
+clear face shape, clear hair silhouette, clear outfit silhouette, clear body shape, clear hands, clear posture, clear expression range.
+
+ARTISTIC SECTIONS:
+Include a small silhouette study area with 2-3 simplified black character silhouettes.
+Include a small expression study area with subtle emotional variations.
+Include a small detail study area showing key visual features of the face, hair and outfit.
+
+TEXT DESIGN:
+Add one stylish CHARACTER ID block.
+Keep it minimal, bold and art-directed.
+Use only:
+NAME
+ROLE
+CORE MOOD
+VISUAL SIGNATURE
+
+Use small handwritten-style labels only where helpful.
+Subtle editorial arrows and annotation marks are allowed, but keep them minimal and elegant.
+
+STYLE:
+minimal, cinematic, premium, artbook-like, clean, expressive, useful for production.
+
+The final image should feel like an artistic character identity board designed
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2068989070332543027) | 2026-06-22
+
+---
+
+### 🏷️ 例 2215：Minecraft 自拍照片集成
+
+![Minecraft 自拍照片集成](../../images/Minecraft%20%E8%87%AA%E6%8B%8D%E7%85%A7%E7%89%87%E9%9B%86%E6%88%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用提供的 {argument name="person name" default="Rafa Franco"} 参考照片作为最高优先级的面部参考。请务必完整保留 {argument name="person name" default="Rafa Franco"} 的面部特征。观众必须能一眼认出 {argument name="person name" default="Rafa Franco"}。请保留他精确的发型、面部比例、胡茬、眉毛、眼型、鼻子、嘴唇、下颌线、皮肤纹理以及所有独特的面部特征。{argument name="person name" default="Rafa Franco"} 必须保持完全的写实感。垂直构图 — 1080×1350。创建一个超电影感的 Minecraft 主题自拍场景。自拍由 Minecraft 中的 Steve 拍摄，他位于前景，单臂完全伸向观众，呈现出真实智能手机自拍的视角。Steve 对着镜头微笑，表情生动、友好且充满冒险精神。在 Steve 身后站着 {argument name="person name" default="Rafa Franco"}，他呈现出完全的写实感，并通过逼真的光影、氛围和电影级调色自然地融入 Minecraft 宇宙中。{argument name="person name" default="Rafa Franco"} 自然地微笑着，怀里舒适地抱着一只 Minecraft 狼。狼看起来放松、友好且有安全感，营造出一个温馨而难忘的瞬间。场景设定在黄金时段日落时分，风景如画的 Minecraft 山谷中。环境细节丰富，拥有茂密的绿草、美丽的河流、木质 Minecraft 房屋、悬挂的灯笼、迷人的桥梁、色彩斑斓的花朵、参天大树、远处的山脉、瀑布以及宁静的村庄氛围。摄像机角度必须感觉就像真实的合影自拍。Steve 因为拿着相机而占据前景，而 {argument name="person name" default="Rafa Franco"} 略微在他身后，但依然清晰可见、易于辨认且光线充足。狼成为重要的次要焦点，自然地位于 {argument name="person name" default="Rafa Franco"} 的怀抱中。温暖的金色夕阳沐浴着整个场景。美丽的体积光穿过树木和山脉。漂浮的萤火虫、细微的体素粒子、大气尘埃和柔和的环境雾气增添了生机、深度和真实感。画面应充满欢乐、冒险感、电影感和真实感，就像在史诗般的 Minecraft 电影冒险中拍摄的幕后照片。环境必须感觉生动且具有沉浸感，而不是像游戏截图。视觉风格：Minecraft 电影 × 皮克斯级别的叙事 × Unreal Engine 5 电影级灯光 × 3A 游戏宣传艺术。超写实摄影、大师级构图、电影级景深、光线追踪、全局光照、体积光、逼真的皮肤纹理、真实的衣物褶皱、大气透视、高度精细的 Minecraft 环境、大片级质量、8K 分辨率、超清晰对焦、视觉上令人难忘、优质 Instagram 封面质量。
+
+[English]
+Use the provided {argument name="person name" default="Rafa Franco"} reference photo as the highest-priority facial reference. Preserve {argument name="person name" default="Rafa Franco"}’s facial identity exactly. The viewer must instantly recognize {argument name="person name" default="Rafa Franco"}. Preserve his exact hairstyle, facial proportions, beard shadow, eyebrows, eye shape, nose, lips, jawline, skin texture, and all unique facial characteristics. {argument name="person name" default="Rafa Franco"} must remain fully photorealistic. Vertical composition — 1080×1350. Create an ultra-cinematic Minecraft-inspired selfie scene. The selfie is being taken by Steve from Minecraft, who occupies the foreground and holds the camera with one arm fully extended toward the viewer, creating the exact perspective of a real smartphone selfie. Steve smiles directly at the camera with a fun, friendly, and adventurous expression. Behind Steve stands {argument name="person name" default="Rafa Franco"}, fully photorealistic and naturally integrated into the Minecraft universe through realistic lighting, atmosphere, and cinematic color grading. {argument name="person name" default="Rafa Franco"} smiles naturally while holding a Minecraft wolf comfortably in his arms. The wolf appears relaxed, friendly, and secure, creating a wholesome and memorable moment. The scene takes place in a breathtaking Minecraft valley during golden hour sunset. The environment is rich with detail, featuring lush green grass, beautiful rivers, wooden Minecraft houses, hanging lanterns, charming bridges, colorful flowers, giant trees, distant mountains, waterfalls, and a peaceful village atmosphere. The camera angle must feel exactly like a real group selfie. Steve dominates the foreground because he is holding the camera, while {argument name="person name" default="Rafa Franco"} appears slightly behind him but remains clearly visible, recognizable, and well-lit. The wolf becomes an important secondary focal point, positioned naturally within {argument name="person name" default="Rafa Franco"}’s arms. Warm golden sunset light bathes the entire scene. Beautiful volumetric god rays pass through the trees and mountains. Floating fireflies, subtle voxel particles, atmospheric dust, and soft environmental haze add life, depth, and realism. The image should feel joyful, adventurous, cinematic, and authentic, like a behind-the-scenes photograph taken during an epic Minecraft movie adventure. The environment must feel alive and immersive rather than resembling a gameplay screenshot. Visual style: Minecraft Movie × Pixar-level storytelling × Unreal Engine 5 cinematic lighting × AAA game promotional artwork. Ultra-realistic photography, masterpiece composition, cinematic depth of field, ray tracing, global illumination, volumetric lighting, realistic skin texture, realistic clothing folds, atmospheric perspective, highly detailed Minecraft environment, blockbuster movie quality, 8K resolution, ultra-sharp focus, visually unforgettable, premium Instagram cover quality.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2068915506417951080) | 2026-06-22
+
+---
+

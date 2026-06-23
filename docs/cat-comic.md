@@ -3270,3 +3270,89 @@ Create a high-end {argument name="aspect ratio" default="4:3"} tailoring pitch d
 
 ---
 
+### 🎬 例 2158：电影感夜间山地分镜
+
+![电影感夜间山地分镜](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%A4%9C%E9%97%B4%E5%B1%B1%E5%9C%B0%E5%88%86%E9%95%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的夜间山地军队冲锋电影感分镜图。
+
+[主体]
+一份为 {argument name="character name" default="Raya"} 设计的现代极简风格项目，展示其正穿过 {argument name="opponent" default="庞大的军队"} 向山上冲刺，并使用一把 {argument name="weapon" default="剑"} 在密集的人群中击倒敌人。展示
+
+[English]
+Create a 16:9 night mountain army-run cinematic storyboard sheet image.
+
+[SUBJECT]
+A modern-minimal production board for Raya already sprinting uphill through a vast army, cutting individual enemies inside the packed crowd with one jian. Show
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2069105130675331152) | 2026-06-22
+
+---
+
+### 🎬 例 2164：粗糙铅笔故事板草图
+
+![粗糙铅笔故事板草图](../../images/%E7%B2%97%E7%B3%99%E9%93%85%E7%AC%94%E6%95%85%E4%BA%8B%E6%9D%BF%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极其粗糙、凌乱、肮脏的 {argument name="style" default="铅笔故事板页面"}。看起来像是 10 秒内画出的潦草缩略图草图，粗糙的动态草图，松散的潦草线条，几乎难以辨认的形状。完全是涂鸦级别的粗糙感，比……还要更凌乱、更粗糙
+
+[English]
+An extremely rough, messy, dirty {argument name="style" default="pencil storyboard sheet"}. Scribbled thumbnail sketches that look like they were drawn in 10 seconds, rough gesture sketches, loose scratchy lines, barely readable shapes. Complete doodle-level roughness, even messier and rougher than a
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2069077671762411847) | 2026-06-22
+
+---
+
+### 🎬 例 2212：单色猫头商务人士漫画页
+
+![单色猫头商务人士漫画页](../../images/%E5%8D%95%E8%89%B2%E7%8C%AB%E5%A4%B4%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E6%BC%AB%E7%94%BB%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白日本漫画，主角为 {argument name="character name" default="Morgan"}，一位身穿商务西装、长着猫头的拟人化男性，正在展示其极具戏剧性的火焰能力。整体基调为紧张的超自然动作漫画，采用硬核网点阴影、速度线、浓重的墨线以及恐怖奇幻风格的特效。
+
+画布：正方形漫画页，单色，由 3 个带粗黑边框的格子组成：顶部 1 个占据页面高度约 58% 的大通栏格子，底部 2 个并排的小格子。
+
+布局与分格：
+- 第 1 格（顶部通栏）：画面中心为一位高大的猫头人形角色，身穿深色西装、白衬衫、花纹领带并配有口袋巾。他长着尖尖的猫耳，戴着眼镜，面部被一个方形灰色模糊遮挡块遮住。他的身体被狂暴的黑白火焰环绕。一只手臂被火焰吞没并伸向前景，另一只手控制着一条向右卷曲的丝带状长条或绷带。背景为深色颗粒感网点。包含 2 个椭圆形对话框：左侧对话框文字为「巻き方を忘れちまったからな」（并在“巻”字旁标注小型假名），右侧对话框文字为「もう俺もどうにかできんぞ」。
+- 第 2 格（左下）：画面中心为远处一个燃烧的人形剪影，双臂张开，伴有 4 根升起的烟柱。顶部边缘展示一条狭窄的反应条，内有 6 名神情震惊的旁观者，包括怪物或吸血鬼面孔，都在注视着燃烧的身影。在烟雾周围添加手写拟声词「ざわ…」并重复 3 次，角色附近添加一个小型对话框写着「ジジ…」，底部添加醒目的白色大标题「モルガン」。
+- 第 3 格（右下）：同一位猫头商务人士的半身特写，面部同样覆盖着方形灰色模糊遮挡块。他向观众伸出一只张开的手，肩后燃烧着火焰。包含 2 个椭圆形对话框：右侧对话框文字为「全て焼きつくしてやった」，左侧对话框文字为「この世に残ったのはあの影だけだ」。
+
+视觉风格：地道的连载漫画页，手绘墨线，硬核半色调网点，高对比度黑色阴影，带有锯齿状黑边的白色火焰剪影，戏剧性的构图，略带粗糙的纸张质感。对话框内使用日式竖排文字。除灰度外无其他颜色。拒绝干净的数字矢量感。
+
+主体细节：主角为拟人化的猫头成年男性，长耳、戴眼镜、身着正式黑色西装、白衬衫、深色圆点领带、口袋巾，姿态沉稳如反派。其面部中心区域在两次出现时均必须被方形灰色模糊遮挡块覆盖。
+
+约束条件：严格使用 3 个分格，总计 4 个对话框，反应条内 6 名旁观者，左下格内 4 根烟柱，以及 3 次重复的「ざわ…」拟声词。保持页面边框为黑色，分格间隙清晰。
+
+[English]
+Goal: Create a black-and-white Japanese manga page featuring {argument name="character name" default="Morgan"}, an anthropomorphic cat-headed man in a business suit demonstrating a dramatic fire-based power. The tone is intense supernatural action manga with gritty screentone shading, speed lines, heavy ink, and horror-fantasy effects.
+
+Canvas: Square manga page, monochrome, divided into exactly 3 panels with thick black gutters: 1 large full-width top panel occupying about 58% of the page height, and 2 smaller bottom panels side by side.
+
+Layout and panels:
+- Panel 1, top full-width: Center a tall cat-headed humanoid in a dark suit, white shirt, patterned tie, and pocket square. He has large pointed cat ears, glasses, and his face is obscured by a square gray blur censor block. His body is surrounded by violent white-and-black flames. One arm is engulfed in fire and stretched across the foreground, while the other hand holds or controls a long ribbon-like strip or bandage curling toward the right. Background is dark grainy screentone. Include exactly 2 oval speech bubbles: left bubble says 「巻き方を忘れちまったからな」 with small furigana beside 巻, and right bubble says 「もう俺もどうにかできんぞ」.
+- Panel 2, bottom left: A dramatic silhouette of a burning humanoid figure in the center, seen from a distance, arms spread, with exactly 4 rising smoke columns. Along the top edge, show a narrow reaction strip with exactly 6 shocked onlookers, including monstrous or vampire-like faces, all staring down at the burning figure. Add small handwritten sound effects around the smoke reading 「ざわ…」 repeated exactly 3 times, a tiny speech bubble near the figure saying 「ジジ…」, and a large bold white title at the bottom reading 「モルガン」.
+- Panel 3, bottom right: A closer bust shot of the same cat-headed businessman with the square gray blur censor block over his face. He raises one open hand toward the viewer, flames behind his shoulder. Include exactly 2 oval speech bubbles: right bubble says 「全て焼きつくしてやった」 and left bubble says 「この世に残ったのはあの影だけだ」.
+
+Visual style: Authentic serialized manga page, hand-drawn ink linework, gritty halftone screentones, high contrast black shadows, white flame silhouettes with jagged black edges, dramatic composition, slightly rough paper texture. Use Japanese vertical typesetting inside speech bubbles. No color except grayscale. No clean digital vector look.
+
+Subject details: The main character is an anthropomorphic cat-headed adult male with pointed ears, glasses, formal black suit, white shirt, dark tie with small dots, pocket square, and composed villain-like posture. His central face area must remain covered by a square gray blur censor block in both visible appearances.
+
+Constraints: Use exactly 3 panels, exactly 4 speech bubbles total, exactly 6 onlookers in the reaction strip, exactly 4 smoke columns in the bottom-left panel, and exactly 3 repeated 「ざわ…」 sound effects. Keep the page border black and the panel gutters clean.
+```
+
+**来源：** [@テンバガー投資猫ニャーZ🐾億り人/毎月資産公開/Xiaomi株推し🚀2017年投資開始📈](https://x.com/kabu3210/status/2068921800348881363) | 2026-06-22
+
+---
+

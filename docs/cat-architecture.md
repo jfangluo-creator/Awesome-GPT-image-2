@@ -1046,3 +1046,83 @@ low resolution, blurry, heavy makeup, studio lighting, cinematic grading, unreal
 
 ---
 
+### 🏛️ 例 2152：清晨伸展卧室肖像
+
+![清晨伸展卧室肖像](../../images/%E6%B8%85%E6%99%A8%E4%BC%B8%E5%B1%95%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版逼真的清晨生活方式肖像，画面中一位 {argument name="character ethnicity" default="日本"} 成年女性坐在明亮卧室的床上，构图范围从上半身到头部。她留着 {argument name="hair color" default="中栗棕色"} 的齐肩微乱波浪卷发，穿着一件简单的 {argument name="top color" default="白色"} 罗纹背心。让她摆出慵懒伸展的姿势，双臂抬起并弯曲遮住面部：左前臂水平横在双眼前，右臂向侧面抬起，手靠近头发，手指放松且自然。她的面部被一个位于中心的不透明方形遮挡块刻意隐藏，遮挡块采用暖棕色肤色渐变，在遮住面部特征的同时，露出头发、手臂、颈部和衣物。场景设定为一个柔和的阳光卧室，前景下方为白色床品，左上方为明亮的过曝窗户，右侧为浅色窗帘，温暖的自然背光在头发上营造出柔和的高光。采用真实的相机质感，具有浅景深、柔和的皮肤纹理、自然的比例、温馨的清晨氛围、简洁的构图，无文字，无水印，且没有其他人物。
+
+[English]
+Create a vertical photorealistic morning lifestyle portrait of an adult {argument name="character ethnicity" default="Japanese"} woman sitting on a bed in a bright bedroom, framed from the upper torso to the top of the head. She has {argument name="hair color" default="medium chestnut brown"} shoulder-length slightly messy wavy hair, and is wearing a simple {argument name="top color" default="white"} ribbed tank top. Pose her stretching sleepily with both arms raised and bent across her face: the left forearm crosses horizontally in front of her eyes, the right arm is lifted to the side with the hand near her hair, fingers relaxed and natural. Her face is intentionally hidden by a centered opaque square censor block in a warm brown skin-tone gradient, covering the facial features while leaving hair, arms, neck, and clothing visible. The setting is a soft sunlit bedroom with white bedding in the lower foreground, a bright overexposed window on the upper left, pale curtains on the right, and warm natural backlighting that creates gentle highlights in the hair. Use a realistic camera look with shallow depth of field, soft skin texture, natural proportions, cozy morning atmosphere, clean composition, no text, no watermark, and no extra people.
+```
+
+**来源：** [@ゆーじ/AI生成見習い](https://x.com/ph_laugh/status/2069171066967118202) | 2026-06-22
+
+---
+
+### 🏛️ 例 2156：幽闭恐惧闪光快照
+
+![幽闭恐惧闪光快照](../../images/%E5%B9%BD%E9%97%AD%E6%81%90%E6%83%A7%E9%97%AA%E5%85%89%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形、闪光灯照明的胶片快照，画面中是一个年轻女孩，{argument name="face censor style" default="脸部被一个实心像素化模糊方块遮挡"}，侧身站在左侧浅青色金属门与右侧光滑浅灰白色墙壁之间极度狭窄的缝隙中。构图应给人以局促且略显不安的感觉，仿佛是在狭窄的走廊或门后拍摄，主体被挤压在黑暗的垂直空间里。她留着深色齐肩短发，大部分隐没在阴影中，画面可见范围从头部到大腿中部，一只手臂自然下垂，身穿 {argument name="outfit" default="一件带有细小蓝色碎花图案的短袖白衬衫和一件浅蓝色格子裙"}。左侧是一扇带有锈迹、油漆剥落、垂直接缝以及左上角有一个白色圆柱形门闩或铰链装置的旧薄荷绿金属门或大门；右侧则是一面质感柔和、带有蓝色阴影的墙面。使用强烈的直射相机闪光灯、冷色调褪色效果、一次性相机的颗粒真实感、轻微的暗角、不完美的对焦，主体背景黑暗，营造出一种幽闭恐惧的纪录片快照氛围。画面中无其他人物，无文字，无水印。
+
+[English]
+Create a square, flash-lit analog snapshot of a young girl with {argument name="face censor style" default="a solid pixelated blur square covering her face"} standing sideways in an extremely narrow gap between a pale turquoise metal door on the left and a smooth light gray-white wall on the right. The composition should feel cramped and slightly unsettling, as if photographed in a tight corridor or behind a door, with the subject squeezed into the dark vertical space. She has dark shoulder-length hair mostly in shadow, visible from head to mid-thigh, one arm hanging straight down, wearing {argument name="outfit" default="a short-sleeved white blouse with tiny blue floral print and a light blue plaid skirt"}. The left side shows an old mint-green metal door or gate with rust stains, chipped paint, a vertical seam, and a white cylindrical latch or hinge fixture near the upper left; the right side is dominated by a close wall surface with soft texture and bluish shadows. Use harsh direct camera flash, cool faded colors, grainy disposable-camera realism, slight vignetting, imperfect focus, dark background behind the subject, and a claustrophobic documentary snapshot mood. No extra people, no text, no watermark.
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2069109093068050715) | 2026-06-22
+
+---
+
+### 🏛️ 例 2174：微型女性拥抱巨型巧克力
+
+![微型女性拥抱巨型巧克力](../../images/%E5%BE%AE%E5%9E%8B%E5%A5%B3%E6%80%A7%E6%8B%A5%E6%8A%B1%E5%B7%A8%E5%9E%8B%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在温馨的家庭厨房中创作一个写实风格的微距场景：一个微型小人儿 {argument name="character age and gender" default="20 岁女性"} 站在质朴的木制厨房桌面上，开心地拥抱一块比她躯干还要大的巨型巧克力棒。她留着 {argument name="hairstyle" default="棕色凌乱高丸子头"}，身穿 {argument name="outfit" default="粉色连帽衫、白色短裤和粉色运动鞋"}。巧克力包装纸部分剥开，露出亮红色的外包装和褶皱的银色锡纸，巧克力棒顶部呈现凸起的方形块，其中一块缺了一角。一只巨大的人类手从右上角伸入，轻轻捏住并提起她粉色连帽衫的兜帽/肩部区域，以此强调她微小的比例。让她摆出单脚站立、另一条腿向后弯曲的姿势，双臂环抱巧克力，神情俏皮愉悦。使用浅景深，呈现逼真的皮肤和织物纹理，展现桌面细腻的木纹，采用柔和的金色厨房灯光，背景为模糊的橱柜和厨具，电影级微距摄影，高写实度，奇幻的微型比例错觉。构图居中，正方形比例，无可见文字，无水印。
+
+[English]
+Create a photorealistic macro scene in a warm home kitchen: a tiny miniature {argument name="character age and gender" default="20-year-old woman"} stands on a rustic wooden kitchen table, joyfully hugging an oversized chocolate bar that is larger than her torso. She has {argument name="hairstyle" default="brown hair in a messy high bun"} and wears a {argument name="outfit" default="pink hoodie, white shorts, and pink sneakers"}. The chocolate is partially unwrapped, with a glossy red wrapper and crinkled silver foil, and the top of the chocolate bar shows raised square segments with one bite missing. A large human hand enters from the upper right, gently pinching and lifting the back of her pink hoodie by the hood/shoulder area, emphasizing her tiny scale. Pose her standing on one leg with the other leg bent backward, arms wrapped around the chocolate, playful and delighted. Use shallow depth of field, realistic skin and fabric texture, detailed wood grain on the tabletop, soft golden kitchen lighting, blurred cabinets and utensils in the background, cinematic macro photography, high realism, whimsical miniature scale illusion. Keep the composition centered, square aspect ratio, no visible text, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2069064161166827992) | 2026-06-22
+
+---
+
+### 🏛️ 例 2202：赛博朋克安卓僧侣天空之城
+
+![赛博朋克安卓僧侣天空之城](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%AE%89%E5%8D%93%E5%83%A7%E4%BE%A3%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级超宽幅奇幻科幻插画，描绘一位宁静的、面部空白的人形安卓僧侣，正盘腿冥想于云端之上的圆形浮空平台上。这座宏伟的天空之城融合了古老的亚洲寺庙建筑与高科技赛博朋克机械。中心主体为 {argument name="character type" default="一位面部空白的白金配色人形安卓僧侣"}，盘腿而坐，身披饰有金边的翡翠绿长袍，长袍下露出抛光的象牙色机械肢体，胸口嵌有一枚发光的圆形核心。面部应平滑空白，没有任何五官，如同苍白的矩形面具或未完成的面甲。在人物身后，放置一个巨大的、由同心圆、符文、三角形、轨道线和奥术电路图案组成的放射状金色神圣几何光环。僧侣坐在一座装饰华丽的圆形平台上，平台上布满了绿松石色的全息符号、发光电路和金色机械细节，视角为微俯视且正对前方。
+
+场景设定在日落时分的宏伟浮空城市，背景为温暖的云层、蓝天和穿透云层的金色阳光。包含 7 座主要的浮空建筑结构：最左侧一座巨大的被截断的塔楼（带有青色圆形全息图），僧侣左后方一座高耸的尖塔，中右上方一座巨大的类似宝塔的悬浮要塞，右上方一座宝塔，中央要塞下方的一组中距离塔楼，右中距离处一座高耸的针状塔，以及右下方的一座平台塔。添加 6 架小型飞行载具：左下方一架白色飞行器，上方中央一架微型飞行器，中央桥梁区域一架微型飞行器，右中位置一架微型飞行器，以及右下方两架白色吊舱式飞行器。添加 5 个悬浮在空中的发光灯笼舱：左边缘附近一个，僧侣左肩附近一个，上方中央一个，右下边缘附近一个，以及右中桥梁附近一个。使用发光的青色能量桥和栏杆穿过城市，搭配华丽的金色装饰、悬浮平台、浮空尖塔、大气薄雾以及下方的云层。
+
+视觉风格：{argument name="art style" default="史诗级高细节电影概念艺术"}，极其复杂，焦点清晰地对准僧侣和平台，具有大气深度、体积光效果、青色与金色调、发光的青色全息图、神圣科技神秘主义、未来主义佛教寺庙氛围，除抽象的发光符号外无任何可读文字。采用 16:9 全景构图，细节丰富，规模宏大，营造出宁静超脱的氛围。强调 {argument name="color palette" default="翡翠青、古董金、象牙白以及温暖的日落云层"}。
+
+[English]
+Create a cinematic ultra-wide fantasy sci-fi illustration of a serene faceless humanoid android monk meditating in lotus pose on a circular floating platform above the clouds, in a vast sky city that blends ancient Asian temple architecture with high-tech cyberpunk machinery. The central subject is {argument name="character type" default="a faceless white-and-gold humanoid android monk"}, seated cross-legged, wearing a draped emerald-green robe with gold trim over polished ivory mechanical limbs and a glowing circular chest core. The face should be smooth and blank, with no features, like a pale rectangular mask or unfinished faceplate. Behind the figure, place a huge radiant golden sacred-geometry halo made of concentric rings, runes, triangles, orbital lines, and arcane circuit patterns. The monk sits on a large ornate circular platform covered in turquoise holographic glyphs, glowing circuitry, and gold mechanical detailing, viewed from slightly above and facing forward.
+
+Set the scene in a majestic floating city at sunset, with warm clouds, blue sky, and golden sunlight breaking through. Include exactly 7 major floating architectural structures: 1 massive cropped tower on the far left with a cyan circular hologram, 1 tall spired tower behind the monk on the left, 1 large pagoda-like suspended fortress in the upper center-right, 1 pagoda tower in the upper far right, 1 mid-distance tower cluster below the central fortress, 1 tall needle-like tower near the right-center distance, and 1 lower-right platform tower. Add exactly 6 small flying vehicles: 1 white craft near the lower left, 1 tiny craft near the upper center, 1 tiny craft near the central bridge area, 1 tiny craft near the right-center, and 2 white pod-like craft near the lower right. Add exactly 5 glowing hanging lantern capsules suspended in the air: 1 near the left edge, 1 near the monk’s left shoulder, 1 near the upper center, 1 near the lower right edge, and 1 near the right-center bridge. Use luminous turquoise energy bridges and rails crossing the city, with ornate gold accents, suspended platforms, floating spires, atmospheric mist, and clouds below.
+
+Visual style: {argument name="art style" default="epic high-detail cinematic concept art"}, extremely intricate, sharp focus on the monk and platform, atmospheric depth, volumetric lighting, teal and gold color palette, glowing cyan holograms, sacred-tech mysticism, futuristic Buddhist temple mood, no readable text except abstract glowing glyphs. Use a 16:9 panoramic composition, rich detail, dramatic scale, and a peaceful transcendent atmosphere. Emphasize {argument name="color palette" default="emerald teal, antique gold, ivory white, and warm sunset clouds"}.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2068959721365836167) | 2026-06-22
+
+---
+

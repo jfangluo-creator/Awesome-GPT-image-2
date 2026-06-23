@@ -4140,3 +4140,189 @@ Layered paper-cut illustration of {argument name="subject" default="[subject]"},
 
 ---
 
+### 🖥️ 例 2151：黄金海岸婚纱照
+
+![黄金海岸婚纱照](../../images/%E9%BB%84%E9%87%91%E6%B5%B7%E5%B2%B8%E5%A9%9A%E7%BA%B1%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张梦幻般的写实婚纱照，背景是黄金时刻宁静的海滩。一位 {argument name="groom description" default="身穿修身黑色燕尾服、搭配白衬衫和黑色领结的年轻新郎"} 和一位 {argument name="bride description" default="身穿白色蕾丝舞会礼服、戴着长头纱并拖着长裙摆的年轻新娘"} 亲密地站在海岸边，面对面站立；新郎低头看向新娘，新娘一只手轻轻放在他的胸口，抬头注视着他。将他们置于画面中心偏下方，全身可见，长长的影子投射在湿润的沙滩上。左侧是翻滚着白色浪花的大海，一条弯曲的、反射着光芒的湿沙带延伸向远方，右侧是宽阔的浅色沙滩，上方是柔和的蓝天。利用地平线附近低垂太阳的强烈逆光，使大海和湿沙闪烁着明亮的高光，营造出浪漫的洗练金色光泽和柔和的雾气。在整个画面中添加许多漂浮的小型发光白色颗粒，如同闪烁的海浪泡沫或魔法雪花，在顶部和前景处更为密集。风格应为超写实、电影感、高动态范围、暖色调、浅层大气雾气、自然镜头光晕、细腻的沙滩纹理、明亮的海面反射、优雅的婚纱面料细节，无可见文字，无水印。
+
+[English]
+Create a dreamy, photorealistic wedding portrait on a quiet beach at golden hour. A {argument name="groom description" default="young groom in a fitted black tuxedo with a white shirt and black bow tie"} and a {argument name="bride description" default="young bride in a white lace ball gown with a long veil and trailing train"} stand close together near the shoreline, facing each other intimately; the groom tilts his head down toward the bride, and the bride gently rests one hand on his chest while looking up at him. Place them slightly below center, full body visible, with their long shadows falling across wet sand. The ocean is on the left with rolling white waves, a curving strip of reflective wet sand leads into the distance, and a wide pale sandy beach stretches to the right under a soft blue sky. Use intense backlighting from a low sun near the horizon so the sea and wet sand sparkle with bright highlights, creating a romantic washed-gold glow and soft haze. Add many small luminous white particles floating across the entire frame like glittering sea spray or magical snow, denser near the top and foreground. Style should be ultra-realistic, cinematic, high dynamic range, warm pastel tones, shallow atmospheric haze, natural lens flare, detailed sand texture, bright ocean reflections, elegant bridal fabric detail, no visible text, no watermark.
+```
+
+**来源：** [@Yasue (RNT Lab)](https://x.com/Hideo9365816897/status/2069174751898321141) | 2026-06-22
+
+---
+
+### 🖥️ 例 2154：高端心理学网站 AI 横幅
+
+![高端心理学网站 AI 横幅](../../images/%E9%AB%98%E7%AB%AF%E5%BF%83%E7%90%86%E5%AD%A6%E7%BD%91%E7%AB%99%20AI%20%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高端宣传主图，展示一个由 AI 生成的专业心理学家网站，并标注为 ChatGPT 与 KIMI 的合作项目。
+
+画布：16:9 横向社交媒体横幅，电影级深绿色与暖金色调，高对比度，照片级真实背景，叠加精致的网页设计模型。
+
+顶部品牌标识：在背景顶部正中央，放置两个醒目的 AI 品牌标志：左侧为圆角黑色正方形的 ChatGPT 图标及白色文字“ChatGPT”，中间是一条细竖线，右侧为白色圆角正方形 K 图标及白色大号文字“KIMI”。确保这些 Logo 醒目且清晰。
+
+网站主体模型：在中心位置放置一个带有细白边框和细腻玻璃质感反射的圆角矩形浏览器框架。框架内展示 {argument name="character name" default="Carol Monero"} 的奢华心理学网站主页。网站配色采用深橄榄绿、黑色、奶油色和柔和的金色。模型内部背景为一个精致的心理咨询室，配有绿墙、办公桌、绿色皮椅、书架、植物艺术画框、暖色台灯、绿植、文具和柔和的窗光。
+
+页眉布局：在网站框架左上角，展示一个白色的植物主题字母组合 Logo，下方标注文字“CAROL MONERO”及较小的“PSICÓLOGA”。顶部导航栏包含五个菜单项：“SOBRE”、“PROCESSO”、“TRATAMENTOS”、“DEPOIMENTOS”和“DÚVIDAS”。最右侧添加一个米色按钮，标注为“AGENDAR CONSULTA”。
+
+首屏内容：在网站首屏左侧，添加一行优雅的衬线字体葡萄牙语大标题：“Cuidado que transforma.”（分两行显示），下方是一行斜体的柔和金色文字：“Escuta que liberta。”。在文字下方添加白色小字正文：“Psicoterapia e avaliação completa para quem deseja se reconectar consigo e viver com mais leveza。”。在正文下方，添加第二个米色行动呼吁按钮，标注为“AGENDAR CONSULTA”。
+
+主体人物：在网站首屏右侧，放置一位自信专业的女性心理学家，半身像，双臂交叉站立。她留着棕色长波浪卷发，佩戴金色圆环耳环和精致的金色项链，身穿白色衬衫和橄榄绿西装外套。她的面部被一个居中的不透明棕色矩形隐私遮挡块遮住。在她的右肩附近，放置一个带有月桂叶细节的圆形白色印章 Logo，周围环绕小字，与网站品牌风格保持一致。
+
+光影与风格：电影级高端代理机构美学，浅景深，温暖的实用光效，光泽感界面框架，逼真的阴影，精致的排版，奢华的健康品牌氛围。避免出现多余的 UI 面板，禁止水印，确保所有可见文字清晰且对齐。
+
+[English]
+Goal: Create a premium promotional hero image showing an AI-generated professional website for a psychologist, branded as a collaboration between ChatGPT and KIMI.
+
+Canvas: 16:9 horizontal social media banner, cinematic dark-green and warm-gold color grading, high contrast, photorealistic background with a polished web-design mockup overlay.
+
+Top branding: At the very top center, place two large AI brand marks on the background: the ChatGPT icon in a rounded black square followed by the white text “ChatGPT”, a thin vertical divider line, then a white rounded-square K icon followed by the large white text “KIMI”. Make these logos prominent and clean.
+
+Main website mockup: Center a large rounded-rectangle browser-like frame with a thin white border and subtle glass reflection. Inside it is a luxury psychology website homepage for {argument name="character name" default="Carol Monero"}. The website uses deep olive green, black, cream, and muted gold. The background inside the mockup is a sophisticated therapist office with green walls, a desk, a green leather chair, shelves, framed botanical art, warm lamps, plants, stationery, and soft window light.
+
+Header layout: In the top-left of the website frame, show a white botanical monogram logo and the text “CAROL MONERO” with the smaller word “PSICÓLOGA” below it. Across the top navigation, include exactly five menu items: “SOBRE”, “PROCESSO”, “TRATAMENTOS”, “DEPOIMENTOS”, and “DÚVIDAS”. On the far right, add one beige button labeled “AGENDAR CONSULTA”.
+
+Hero content: On the left side of the website hero, add a large elegant serif headline in Portuguese: “Cuidado que transforma.” on two lines, followed by an italic muted-gold line: “Escuta que liberta.” Under it, add small white body copy: “Psicoterapia e avaliação completa para quem deseja se reconectar consigo e viver com mais leveza.” Below the copy, add a second beige call-to-action button labeled “AGENDAR CONSULTA”.
+
+Main subject: On the right side of the website hero, place a confident professional female psychologist, waist-up, standing with crossed arms. She has long wavy brown hair, gold hoop earrings, a delicate gold necklace, white blouse, and olive-green blazer. Her face is intentionally covered by a centered opaque brown rectangular privacy block. Near her right shoulder, place a circular white seal logo with laurel details and small text around the circle, matching the website branding.
+
+Lighting and style: Cinematic premium agency aesthetic, shallow depth of field, warm practical lights, glossy interface frame, realistic shadows, refined typography, luxury wellness brand mood. Avoid extra UI panels, avoid watermarks, and keep all visible text crisp and aligned.
+```
+
+**来源：** [@Fabio Hanzer AI](https://x.com/FabioHanzer/status/2069145290246902125) | 2026-06-22
+
+---
+
+### 🖥️ 例 2169：雏菊草地里的快乐幼儿
+
+![雏菊草地里的快乐幼儿](../../images/%E9%9B%8F%E8%8F%8A%E8%8D%89%E5%9C%B0%E9%87%8C%E7%9A%84%E5%BF%AB%E4%B9%90%E5%B9%BC%E5%84%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨的绘本水彩插画，画面中 {argument name="character" default="一个快乐的幼儿"} 赤脚坐在阳光明媚的草地上，周围是高高的草丛和硕大的金心白雏菊。孩子位于画面下半部分的中心，身穿 {argument name="shirt" default="芥末黄长袖波点衬衫"} 和 {argument name="shorts" default="带有黑色瓢虫斑点的红色短裤"}，双腿自然向前伸展，卷曲的棕色头发在逆光下闪闪发光。在孩子的面部放置一个纯色不透明的暖棕色方形遮挡块，遮住五官，但保留头发、耳朵、衣物、手臂、腿部和脚部可见。在孩子周围放置 5 只清晰可见的瓢虫：1 只停在左上方的长叶子上，1 只微笑的瓢虫停在左下方的雏菊上，2 只飞行的瓢虫位于右上方的天空中，1 只爬在右下方前景的叶子上。在右上角添加一个可爱的微笑太阳，带有红润的脸颊和简单的闭眼表情，散发着柔和的黄色光芒。草地应密布白雏菊、细小的黄花、绿色的茎秆和具有深度的叶片前景，背景为淡蓝色的天空、蓬松的奶油色云朵、金色的斑点和梦幻般的晨光。采用怀旧的手绘童书风格，运用柔和的水彩和水粉质感、细腻的线条、明亮欢快的色彩、浅景深、奇幻的比例，营造出一种纯真快乐的整体氛围。竖构图 4:5，无文字，无水印，非写实照片风格。
+
+[English]
+Create a warm storybook watercolor illustration of {argument name="character" default="a happy toddler"} sitting barefoot in a sunlit meadow of tall grass and oversized white daisies with golden centers. The child is centered in the lower half of the image, wearing a {argument name="shirt" default="mustard-yellow long-sleeve shirt with white polka dots"} and {argument name="shorts" default="red shorts with black ladybug spots"}, legs relaxed forward, curly brown hair glowing in the backlight. Place a plain opaque warm-brown square privacy block over the child's face, covering the facial features but leaving hair, ears, clothing, arms, legs, and feet visible. Surround the child with exactly 5 visible ladybugs: 1 perched on a tall leaf at the upper left, 1 smiling ladybug on a daisy at the lower left, 2 flying ladybugs in the upper right sky area, and 1 crawling on a leaf near the lower right foreground. Add a single cute smiling sun in the upper right corner, with rosy cheeks and simple closed eyes, radiating soft yellow rays. The meadow should be dense with white daisies, tiny yellow flowers, green stems, and leafy foreground depth, with a pale blue sky, fluffy cream clouds, golden speckles, and dreamy morning light. Use a nostalgic hand-painted children's book style, soft watercolor and gouache texture, gentle linework, bright cheerful colors, shallow depth, whimsical proportions, and an overall feeling of innocent happiness. Vertical 4:5 composition, no text, no watermark, no photorealism.
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2069067899936075949) | 2026-06-22
+
+---
+
+### 🖥️ 例 2180：情侣锁屏 iPhone 平铺摄影
+
+![情侣锁屏 iPhone 平铺摄影](../../images/%E6%83%85%E4%BE%A3%E9%94%81%E5%B1%8F%20iPhone%20%E5%B9%B3%E9%93%BA%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的奢华苹果风格平铺摄影照片，展示两部并排摆放在暖米色亚麻布上的 iPhone 15 Pro，背景为黄金时段的阳光，带有柔和的对角线窗影和逼真的手机倒影。左侧手机略微偏左，右侧手机略微偏右，均以竖屏方向放置，带有黑色圆角边框、钛金属边缘、灵动岛（Dynamic Island）切口、锁屏状态图标、底部的闪光灯和相机按钮，以及白色的主屏幕指示条。两部手机的锁屏均显示日期“6 月 20 日，星期日”和醒目的时间“05:30”；左侧运营商标签显示为 {argument name="left carrier label" default="Smart"}，右侧运营商标签显示为 {argument name="right carrier label" default="DITO"}。锁屏壁纸在两块独立的屏幕间形成无缝的情侣互动效果：左侧屏幕上，一位留着棕色长发的年轻女性穿着黑色 T 恤，上面印有醒目的白色文字 {argument name="left shirt text" default="I’M HIS"} 和一个红色爱心；她的手臂从左侧手机壁纸中水平延伸出来，并在视觉上延伸至右侧手机，俏皮地戳向或按压着年轻男性的脸颊。右侧屏幕上，一位留着凌乱深色头发的年轻男性穿着黑色连帽衫，上面印有醒目的白色文字 {argument name="right shirt text" default="I’M HERS"} 和一个红色爱心，对她的俏皮动作做出微妙反应。画面中仅包含两名人物、两部手机、两颗红色爱心图标，并确保姿势在屏幕间隙处完美对齐，使手臂看起来像是一张连续的图像。人物面部应保持匿名或柔和模糊处理，同时保留真实的肤色、发质、衣物纹理和光影效果。采用浅景深效果，呈现 8K 级超高清摄影细节，高端智能手机产品摄影风格，暖米色与黑色调配色，画面中不包含额外设备，除锁屏和 T 恤文字外无其他文字，无水印。
+
+[English]
+Create an ultra-realistic luxury Apple-style flat lay photograph of exactly two iPhone 15 Pro devices placed side by side on warm beige linen fabric in golden-hour sunlight, with soft diagonal window shadows and realistic phone reflections. The left phone is slightly left of center and the right phone is slightly right of center, both upright in portrait orientation with black rounded bezels, titanium edges, Dynamic Island cutouts, lock-screen status icons, flashlight and camera buttons at the bottom, and the white home indicator bar. Both lock screens show the date “Sunday, June 20” and the large time “05:30”; the left carrier label reads {argument name="left carrier label" default="Smart"} and the right carrier label reads {argument name="right carrier label" default="DITO"}. The lock-screen wallpapers form a seamless couple interaction across the two separate screens: on the left screen, a young woman with long brown hair wears a black T-shirt with bold white text {argument name="left shirt text" default="I’M HIS"} followed by a red heart; her arm extends horizontally out of the left phone wallpaper and continues visually across into the right phone, playfully punching or pressing against the young man’s cheek. On the right screen, a young man with tousled dark hair wears a black hoodie with bold white text {argument name="right shirt text" default="I’M HERS"} followed by a red heart, reacting subtly to her playful punch. Include exactly two visible people, exactly two phones, exactly two red heart icons on the shirts, and make the pose align perfectly across the gap between screens so the arm feels like one continuous image. Faces should appear anonymized or softly obscured while preserving realistic skin tones, hair, clothing, and lighting. Use shallow depth of field, crisp 8K photoreal detail, premium smartphone product photography, warm beige and black color palette, no extra devices, no extra text beyond the lock screen and shirt text, no watermark.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2069033328104308951) | 2026-06-22
+
+---
+
+### 🖥️ 例 2182：迷幻邪教风格动漫人物
+
+![迷幻邪教风格动漫人物](../../images/%E8%BF%B7%E5%B9%BB%E9%82%AA%E6%95%99%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版暗黑迷幻风格的动漫插画，画面中心站着 {argument name="character name" default="一位神秘的中性金发少年"}，身穿黑色正装，内搭白色衬衫并系着领带，身材修长，皮肤苍白，留着齐肩凌乱的金发，表情平静却透着一丝不安。人物大部分处于阴影中，边缘被强烈的霓虹色勾勒，面部被黑暗部分遮挡。在人物头部后方，放置一个巨大的发光月亮或光环球体，内部填充着混乱的荧光漆纹理，色彩包含饱和的钴蓝色、品红色、亮粉色、橙色、黄色、青色和绿色，如同漆黑背景下的一颗迷幻行星。在人物周围，从黑暗中伸出 11 只无躯干的手臂和前臂：左上方 1 只，右上方 2 只，左中上方 1 只，右中上方 1 只，左中部 1 只，右中部 1 只，右中下方 1 只，左下方区域 1 只，右下边缘 1 只，以及底部中心 1 只巨大的前景手，手中拿着一朵花。前景中的手呈现出 {argument name="flower type" default="一朵光芒四射的菊花状花朵"}，花朵拥有许多细长卷曲的花瓣，散发着霓虹粉、青、蓝、黄、橙和绿色的彩虹光芒。运用喷溅颜料、滴落的色彩轨迹、电光轮廓、高对比度的黑色阴影、宗教邪教般的超现实主义符号以及戏剧性的动漫主视觉构图。营造出一种既美丽又阴森、狂喜且狂热的氛围，画面中不得包含任何文字、边框或水印。
+
+[English]
+Create a vertical dark psychedelic anime illustration of {argument name="character name" default="a mysterious androgynous blond youth"} standing centered in a black formal suit with a white shirt and tie, slim build, pale skin, shoulder-length messy golden hair, and a calm faintly unsettling expression. The character is mostly in shadow, rim-lit by intense neon colors, with their face partially obscured by darkness. Behind their head, place one enormous glowing moon or halo sphere filled with chaotic fluorescent paint textures in saturated cobalt blue, magenta, hot pink, orange, yellow, cyan, and green, like a psychedelic planet against a pitch-black background. Surround the figure with exactly 11 disembodied reaching hands and forearms emerging from the darkness: 1 at the upper left, 2 at the upper right, 1 at the left upper-middle, 1 at the right upper-middle, 1 at the left middle, 1 at the right middle, 1 at the right lower-middle, 1 at the left lower area, 1 at the lower right edge, and 1 large foreground hand at the bottom center holding a flower. The foreground hand offers {argument name="flower type" default="a radiant chrysanthemum-like flower"} with many thin curling petals glowing in rainbow neon pink, cyan, blue, yellow, orange, and green. Use splattered paint, dripping color trails, electric outlines, high contrast black shadows, religious-cult-like surreal symbolism, and dramatic anime key visual composition. Make the mood beautiful, ominous, ecstatic, and fanatical, with no text, no border, and no watermark.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2069031234194567585) | 2026-06-22
+
+---
+
+### 🖥️ 例 2196：龙井茶信息图海报
+
+![龙井茶信息图海报](../../images/%E9%BE%99%E4%BA%95%E8%8C%B6%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张简洁且高端的中国茶信息图海报，主题为 {argument name="tea name" default="龙井茶"}，采用优雅的编辑排版、柔和的自然光影以及精致的米白色与鼠尾草绿配色。
+
+画布：宽屏 16:9 构图，约 1200×675 像素，背景为暖象牙色，采用圆角卡片 UI 布局。使用细腻的阴影、纤细的分隔线、淡绿色植物装饰及极简线条图标。整体风格应呈现出知名中国茶的高级生活方式杂志信息图质感。
+
+布局：使用 8 张圆角矩形内容卡片加 1 个底部长条标语横幅。将它们排列成整齐的网格。左侧包含一张占据约一半宽度和大部分高度的大型主视觉卡片。右侧包含 4 张较小的信息卡片，呈 2×2 网格排列。左下角包含 1 张小卡片。底部中央/右侧包含 1 个长横向标语横幅。保持充足的留白和统一的圆角。
+
+主视觉卡片：展示一个光影柔和的桌面场景，右上角是一杯清澈的淡黄绿色茶汤，可见漂浮的龙井茶叶，正下方是一个盛放着扁平绿茶的白色瓷碟。背景添加模糊的绿色植物阴影。左侧文字：带有叶子图标的小标签 {argument name="category label" default="中国十大名茶之一"}；深绿色大号中文标题 {argument name="tea name" default="龙井茶"}；较小的英文副标题“Longjing Tea”；中文简短描述：“中国十大名茶之一，以扁平挺秀、清香鲜爽著称。” 在该卡片底部，包含 3 个特征图标块：1) 叶子图标，标签“历史悠久”，副标签“千年传承”；2) 山峰图标，标签“匠心工艺”，副标签“传统炒制”；3) 茶杯图标，标签“清雅之味”，副标签“自然本真”。右下角添加一个带有定位图标的小标签，文字为“浙江·杭州·西湖”。
+
+右侧信息卡片：创建 4 张卡片。卡片 1（中上）：标题“产地”，配有圆形宝塔/寺庙线条图标，文字“主要产于浙江杭州西湖一带，西湖龙井最为知名。”，底部带有淡淡的云雾山景。卡片 2（右上）：标题“特点”，配有深绿色圆形叶子图标，并列出 4 行由虚线分隔的文字：“外形扁平挺直”、“色泽嫩绿光润”、“香气清高鲜爽”、“滋味鲜醇甘润”，每行配有对应的小线条图标。卡片 3（中下）：标题“风味”，配有茶杯图标，文字“豆香、栗香与清新的嫩香并存，口感柔和，回甘细腻。”，右下角配有淡雅的植物叶片插画。卡片 4（右下）：标题“冲泡建议”，配有茶壶图标，文字“水温 80–85°C | 茶水比例 1:50 | 可用玻璃杯或盖碗冲泡。” 在该卡片底部包含 3 个小型冲泡图标及标签：温度计“80–85°C”、水滴“1:50”、茶杯“玻璃杯/盖碗”。
+
+左下角卡片：标题“等级与采摘”，配有叶子图标徽章，文字“以春茶为佳，芽叶细嫩，明前茶尤受欢迎。”，右侧嵌入一张矩形照片，展示户外鲜嫩翠绿的茶芽，具有浅景深效果。
+
+底部标语横幅：一条带有细腻茶叶纹理的浅绿色长横幅。居中放置深绿色大号中文标语 {argument name="slogan text" default="鲜 · 香 · 甘"}。右侧添加较小文字“一杯龙井，品味江南春意”、精致的茶叶线条画以及一个包含“茶”字的微型垂直方形印章。
+
+视觉风格：高端极简中国风设计，柔和的自然摄影与简洁的矢量图标结合，暖象牙色卡片，鼠尾草绿点缀，深森林绿字体，标题采用纤细优雅的中文宋体，正文使用较小的灰绿色字体，均衡的留白，细腻的纸张纹理，无杂乱元素。
+
+约束：严格遵守上述卡片数量和项目数量。保持所有中文字符清晰易读。不要添加额外的部分、图标、水印、Logo、人物或无关的装饰物。
+
+[English]
+Goal: Create a clean premium Chinese tea infographic poster about {argument name="tea name" default="龙井茶"}, with an elegant editorial layout, soft natural lighting, and a refined off-white and sage-green palette.
+
+Canvas: Wide horizontal 16:9 composition, approximately 1200×675 px, with a warm ivory background and rounded-card UI layout. Use subtle shadows, thin dividers, pale green botanical accents, and minimalist line icons. Overall style should feel like a polished lifestyle magazine infographic for a famous Chinese tea.
+
+Layout: Use exactly 8 rounded rectangular content cards plus 1 long bottom slogan banner. Arrange them in a neat grid. Left side contains one large hero card occupying about half the width and most of the height. Right side contains four smaller information cards in a 2×2 grid. Bottom left contains one small card. Bottom center/right contains one long horizontal slogan banner. Keep generous spacing and consistent rounded corners.
+
+Main hero card: Show a softly lit tabletop scene with a clear glass cup of pale yellow-green tea in the upper right, visible floating Longjing tea leaves, and a small white porcelain dish piled with flat green tea leaves in the lower center. Add blurred green plant shadows in the background. Text on the left: small pill label with a leaf icon and {argument name="category label" default="中国十大名茶之一"}; large dark-green Chinese title {argument name="tea name" default="龙井茶"}; smaller English subtitle “Longjing Tea”; short description in Chinese: “中国十大名茶之一，以扁平挺秀、清香鲜爽著称。” At the bottom of this hero card, include exactly 3 feature icon blocks: 1) leaf icon, label “历史悠久”, sublabel “千年传承”; 2) mountain icon, label “匠心工艺”, sublabel “传统炒制”; 3) teacup icon, label “清雅之味”, sublabel “自然本真”. Add a small location pill at the lower right with a pin icon and text “浙江·杭州·西湖”.
+
+Right information cards: Create exactly 4 cards. Card 1, top middle: “产地” with a small pagoda/temple line icon in a circle, text “主要产于浙江杭州西湖一带，西湖龙井最为知名。” and faint misty mountain scenery along the bottom. Card 2, top right: “特点” with a dark green circular leaf icon and exactly 4 listed rows separated by dotted lines: “外形扁平挺直”, “色泽嫩绿光润”, “香气清高鲜爽”, “滋味鲜醇甘润”, each with a small matching line icon. Card 3, lower middle: “风味” with a teacup icon, text “豆香、栗香与清新的嫩香并存，口感柔和，回甘细腻。” and a pale botanical leaf illustration in the lower right. Card 4, lower right: “冲泡建议” with a teapot icon, text “水温 80–85°C | 茶水比例 1:50 | 可用玻璃杯或盖碗冲泡。” At the bottom of this card include exactly 3 small brewing icons and labels: thermometer “80–85°C”, water drop “1:50”, teacup “玻璃杯/盖碗”.
+
+Bottom left card: “等级与采摘” with a leaf icon badge, text “以春茶为佳，芽叶细嫩，明前茶尤受欢迎。” and one rectangular photo inset on the right showing fresh bright green tea shoots growing outdoors with shallow depth of field.
+
+Bottom slogan banner: A long pale green banner with subtle tea-leaf texture. Center the large dark-green Chinese slogan {argument name="slogan text" default="鲜 · 香 · 甘"}. On the right add smaller text “一杯龙井，品味江南春意”, a delicate flowing line drawing of tea leaves, and a tiny vertical square seal containing “茶”.
+
+Visual style: Premium minimal Chinese design, soft natural photography mixed with clean vector icons, warm ivory cards, sage green accents, dark forest-green typography, thin elegant Chinese serif-style font for headings, smaller gray-green body text, balanced whitespace, subtle paper texture, no clutter.
+
+Constraints: Use exactly the card count and item counts described above. Keep all Chinese text crisp and legible. Do not add extra sections, extra icons, watermarks, logos, people, or unrelated decorative objects.
+```
+
+**来源：** [@AbleGPT](https://x.com/AbleGPT/status/2068981937302278145) | 2026-06-22
+
+---
+
+### 🖥️ 例 2218：温馨牛油果热可可涂鸦
+
+![温馨牛油果热可可涂鸦](../../images/%E6%B8%A9%E9%A6%A8%E7%89%9B%E6%B2%B9%E6%9E%9C%E7%83%AD%E5%8F%AF%E5%8F%AF%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的白色背景上创作一幅简单的黑白手绘线条艺术插画。画面中心是一个可爱的拟人化牛油果角色，拥有梨形身体、圆润的顶部、较大的底部，腹部有一个椭圆形的果核。牛油果有着一张快乐的可爱脸庞，闭着月牙形的眼睛，小小的微笑嘴巴，以及淡淡的腮红。给角色围上一条超大号的粗针织围巾，围巾的一端垂在右侧并带有流苏；通过细腻的墨水排线展现针织纹理和柔软的褶皱。牛油果有着细长简单的手臂，小小的深色手套状手部捧着胸前的一杯热可可；马克杯里清晰可见 5 颗棉花糖，上方有袅袅升起的热气。仅使用单色墨水，运用草图轮廓线、交叉排线、细小的针脚细节，并在角色下方添加几笔简短的地面阴影。保持构图简约、温馨、居中且充满童趣，无颜色、无文字、无边框，并留出大量空白空间。
+
+[English]
+Create a simple black-and-white hand-drawn line art illustration on a clean white background. Center a cute anthropomorphic avocado character with a pear-shaped body, smooth rounded top, larger rounded bottom, and a single oval pit on its belly. The avocado has a small happy kawaii face with closed crescent eyes, a tiny smiling mouth, and subtle cheek blush marks. Wrap the character in an oversized chunky knitted scarf around its neck, with one scarf tail hanging to the right and ending in tassels; show stitched knit texture and soft folds with fine ink hatching. Give the avocado thin simple arms with small dark mitten-like hands holding a steaming mug of hot cocoa in front of its chest; the mug contains exactly 5 visible marshmallows and rising steam curls. Use monochrome ink only, with sketchy contour lines, cross-hatching, small stitch details, and a few short ground-shadow strokes beneath the character. Keep the composition minimal, cozy, centered, and whimsical, with no color, no text, no border, and lots of empty white space.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2068905938451566630) | 2026-06-22
+
+---
+

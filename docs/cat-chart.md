@@ -1981,3 +1981,35 @@ Create a vertical vintage mixed-media collage illustration of a standing rabbit-
 
 ---
 
+### 📊 例 2159：远征规划战略项目
+
+![远征规划战略项目](../../images/%E8%BF%9C%E5%BE%81%E8%A7%84%E5%88%92%E6%88%98%E7%95%A5%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为正在规划 {argument name="mission type" default="[旅程 / 任务]"} 前往 {argument name="location" default="[目的地 / 时代]"} 的远征队长提供的战略指挥项目。左侧面板：详细的地形路线图，标注了航点、危险区域，边缘处设有时间轴。中央面板：所有装备的俯视平铺图，按整齐的行排列，每件物品均标注了重量和功能，标记了冗余项，不包含任何多余物品。右侧面板：远征进行中或抵达目的地时的场景，广阔景观中点缀着渺小的人物，比例感鲜明。视觉语言从制图的精确性，过渡到功能性清单记录，再到宏大的史诗级环境摄影。标题栏显示：“{argument name="expedition name" default="[远征名称]"} — [路线], [日期], [目标]”。
+
+[English]
+A strategic command board for an expedition leader planning {argument name="mission type" default="[JOURNEY / MISSION]"} to {argument name="location" default="[DESTINATION / ERA]"}. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "{argument name="expedition name" default="[EXPEDITION NAME]"} — [ROUTE], [DATE], [OBJECTIVE]".
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2069104692098130014) | 2026-06-22
+
+---
+
+### 📊 例 2162：赛博生物发光花卉信息图
+
+![赛博生物发光花卉信息图](../../images/%E8%B5%9B%E5%8D%9A%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E8%8A%B1%E5%8D%89%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+赛博半透明生物荧光花卉概念信息图，9:16竖版。中央是一株超写实3D赛博花卉，悬浮于冷黑色未来实验室虚空中。花瓣与叶片呈半透明磨砂玻璃质感，具有次表面散射、X光透视、薄膜折射与显微水滴；内部植物脉络转化为PCB电路、光导纤维、发光毛细管和能量流体。保持真实植物结构：65%有机生命体，35%数字电路。采用“主星—卫星”构图：中央立体花卉占约30%，外围70%为高密度二维HUD信息系统。画面边缘精确排列10个独立数据模组，严格对齐隐藏网格，以0.5pt超细直线和90度机械折线连接花瓣、叶脉、茎干、雄蕊与电路节点。模组内嵌微型条形图、波形图、光谱曲线、等高线剖面、拓扑节点和点阵刻度。视觉风格：超写实生物X光渲染 × 冷峻正交HUD界面 × 未来植物实验档案。背景为接近黑色的无限虚空，加入极弱数字颗粒、扫描线、点阵网格和体积雾。主体无外框自然融入背景，外围UI采用硬边模块化切割。避免普通游戏界面、廉价赛博朋克、卡通质感和机械零件随意拼贴。**配色主题：{argument name="主题名称" default="郁金香"}*** 背景基底：{argument name="深色背景" default="冷黑色"}* 半透明结构色：{低饱和玻璃色}* 主生物荧光色：{主色}* 辅助荧光色：{辅色}* 唯一强调色：{强调色}* 技术文字色：{文字色}色彩规则：背景与结构色占约60%，主、辅助荧光色占约30%，强调色仅占5%—10%。全画面最多两种荧光色和一种强调色。强调色严格用于雄蕊能量核心、电路节点、关键箭头、危险参数与数据峰值，禁止大面积使用，禁止随机彩虹渐变。字体采用浓缩技术文档排版。顶部设置一个超大纯汉字黑体标题，约64px，禁止拼音、英文和中英混排。10个模组使用等宽小标题、技术无衬线正文 and 高密度微文本。文字从中央向边缘逐渐密集，不遮挡主体，不出现乱码大字。主体配色映射：花瓣主体使用透明结构色，花瓣边缘与叶脉使用主荧光色，内部细脉与光纤使用辅助荧光色，PCB交汇节点与雄蕊核心仅使用强调色。外围HUD亮度不得超过中央花卉。高细节、电影级照明、真实折射、体积辉光、锐利边缘、精密排版、印刷级品质、统一构图、极高信息密度。主体：{argument name="主体" default="郁金香"}
+```
+
+**来源：** [@知识猫图解](https://x.com/GeekCatX/status/2069089696978976877) | 2026-06-22
+
+---
+

@@ -3936,3 +3936,21 @@ Constraints: Exactly 4 views only; do not add helmets, footballs, text labels, b
 
 ---
 
+### 🧍 例 2220：女性街头赛车手参考图集
+
+![女性街头赛车手参考图集](../../images/%E5%A5%B3%E6%80%A7%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B%E5%8F%82%E8%80%83%E5%9B%BE%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考图中的同一张脸，且不改变面部特征。角色参考图集提示词名称：{argument name="name" default="Sharon Riley"} 一张高度精细的电影级角色参考图集，主角为一位专业的 {argument name="background" default="西方"} 女性 {argument name="vocation" default="街头赛车手"}，24 岁，运动型身材，
+
+[English]
+use the same face from the reference image without changing facial features. Character Reference Sheet Prompt Name: Sharon Riley A highly detailed cinematic character reference sheet of a professional western female street racer, age 24, athletic build,
+```
+
+**来源：** [@Sharon Riley](https://x.com/Just_sharon7/status/2068899285664780515) | 2026-06-22
+
+---
+

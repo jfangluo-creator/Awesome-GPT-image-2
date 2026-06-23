@@ -3102,3 +3102,95 @@ Create an enchanting ultra-detailed textile fantasy artwork that looks entirely 
 
 ---
 
+### 🧸 例 2163：3D CG 东方奇幻鸦神肖像
+
+![3D CG 东方奇幻鸦神肖像](../../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E9%B8%A6%E7%A5%9E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG {argument name="角色主题" default="东方幻想女性角色"}人像，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，胸部以上近景到半身构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 {argument name="视觉年龄" default="22–28 岁"}，整体气质清冷、高贵、神秘、疏离、柔美，带有黑羽神女与东方幻境贵族的高级感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光与高级虚拟角色海报质感。
+人物拥有精致的东方美人脸，小巧柔和的鹅蛋脸，面部骨相清秀流畅，下颌线干净，皮肤白皙细腻，带冷白通透感与丝滑细腻的皮肤着色。眼睛细长柔美，瞳色为浅琥珀棕与暖金色混合，瞳孔有通透玻璃感与细腻高光，眼神安静、清冷、略带疏离感。睫毛纤长，眼妆为低饱和暖棕与浅粉调轻雾感晕染，鼻梁秀气挺直，嘴唇柔软精致，唇色为低饱和蜜桃豆沙色，唇部微启，神情克制、优雅、带一点若有所思的冷淡美感。
+发型为{argument name="发型" default="浓黑色偏冷调的蓬松短卷发与中短层次发型"}，发量丰盈，发丝柔顺细腻，带轻微空气感与自然卷度，额前有凌乱柔软碎刘海与脸侧碎发修饰轮廓，后侧保留一缕较长发束垂落。头顶或背后隐约融入黑羽装饰感轮廓，强化神秘幻想气质。耳饰为华丽东方风吊坠耳环，以金属底托搭配蓝金色宝石与精细垂饰，细节精致。手部佩戴金色戒指，手指修长优雅，一只手轻轻抬起靠近下巴与脸侧，姿态克制而高贵。
+服装为高精度 3D CG 东方幻想华服，主体为黑色丝缎与锦缎质感的高领长袍或改良中式礼服，上面布满华丽的东方纹样刺绣，包括金色云纹、瑞兽纹、花卉纹、青蓝色与珊瑚粉色点缀图案。衣领精致立体，胸前与肩部有复杂刺绣与珠宝装饰细节，布料具有真实丝绸反光、厚重垂坠感和高级面料质感。整体服装华丽、庄重、神秘，强调黑金配色与东方奢雅感。
+人物背后展开一侧或两侧黑色羽翼，羽毛层次清晰，材质细腻真实，带微弱冷光与丝绒般质感，作为重要视觉元素但不遮挡人物主体。背景为东方幻想装饰空间，可见金色雕花圆形框架、华丽屏风纹样、淡蓝灰山水远景、粉色樱花枝与轻雾云气，形成古典东方与梦幻神话融合的氛围。背景层次丰富但适度虚化，不喧宾夺主。
+光线采用柔和电影级布光，面部为柔光主灯，辅以轻微暖金轮廓光，勾勒发丝、羽翼边缘、脸颊与手部。皮肤、丝绸、刺绣、金属戒指、耳饰、羽毛与金色装饰均具有真实清晰的 PBR 材质表现。整体色调以黑色、金色、青蓝色、粉樱色、冷白肤色为主，画面精致、奢华、空灵、静谧，具有高端收藏级 3D CG 东方幻想角色海报质感。
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, black feather wings, ornate embroidered robe, oriental fantasy aesthetics, golden decorative frame, cherry blossom background, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2069088357226094709) | 2026-06-22
+
+---
+
+### 🧸 例 2175：巨型咖啡杯旁的小人儿
+
+![巨型咖啡杯旁的小人儿](../../images/%E5%B7%A8%E5%9E%8B%E5%92%96%E5%95%A1%E6%9D%AF%E6%97%81%E7%9A%84%E5%B0%8F%E4%BA%BA%E5%84%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在厨房台面上创作一个温馨舒适的微距摄影场景：一位身高约等于方糖大小的微型年轻女性，直立在一只巨大的冒着热气的陶瓷咖啡杯旁。她穿着一件粉色、淡紫色和薄荷绿相间的柔和色调超大号连帽衫，带有前袋，搭配浅色牛仔短裤和白色运动鞋；棕色长直发垂在肩上，面部特征像小雕像一样柔和简化。她看起来既惊讶又略显谨慎，双臂自然垂在身体两侧，面对着高耸的杯子和升腾的热气。一只逼真的成年人手从右侧伸入，小心翼翼地将 1 块白色方糖放在她身旁的木质台面上。画面包含 3 个主要前景主体：左侧带有明显把手的巨大米色斑点咖啡杯、中间的微型女性，以及右侧拿着方糖的手。采用浅景深、逼真的微距比例、奶油般的焦外成像、温暖的清晨厨房光线、天然木质台面，以及带有架子、调料罐、厨具、烤面包机和小植物的柔和模糊背景。强调比例对比、从咖啡中升起的细腻蒸汽卷、温馨的居家氛围、照片级的纹理以及电影般的柔焦效果。无文字，无水印，无多余字符。
+
+[English]
+Create a warm cozy macro-photography scene on a kitchen counter: a tiny miniature young woman, about the height of a sugar cube, stands upright beside a giant steaming ceramic coffee mug. She wears a pastel oversized hoodie in soft pink, lavender, and mint with a front pouch, light denim shorts, and white sneakers; long straight brown hair falls over her shoulders, and her face is softly simplified like a tiny figurine. She looks amazed and slightly cautious, arms relaxed outward at her sides, facing the towering mug and the rising steam. A realistic adult human hand enters from the right, carefully placing exactly 1 white sugar cube on the wooden countertop beside her. Include exactly 3 main foreground subjects: the giant speckled beige coffee mug on the left with visible handle, the miniature woman in the center, and the hand with sugar cube on the right. Use shallow depth of field, realistic macro scale, creamy bokeh, warm morning kitchen lighting, natural wood countertop, and a softly blurred background with shelves, spice jars, kitchen utensils, a toaster, and a small plant. Emphasize scale contrast, delicate steam curls rising high from the coffee, cozy domestic atmosphere, photorealistic textures, and cinematic soft focus. No text, no watermark, no extra characters.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2069064153403171194) | 2026-06-22
+
+---
+
+### 🧸 例 2176：微型女子拥抱巨型巧克力
+
+![微型女子拥抱巨型巧克力](../../images/%E5%BE%AE%E5%9E%8B%E5%A5%B3%E5%AD%90%E6%8B%A5%E6%8A%B1%E5%B7%A8%E5%9E%8B%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温暖、舒适的微距写实摄影作品，场景设定在光线柔和的家庭厨房中。在质朴的木桌上，展示一位玩偶比例的微型 {argument name="character age and gender" default="20 岁女性"}，她穿着淡粉色超大连帽衫、白色短裤和粉色低帮运动鞋，留着棕色凌乱的高丸子头。她正拥抱一块巨大的巧克力棒，巧克力棒包裹在光亮的红色锡纸中，顶部带有褶皱的银色锡纸；巧克力表面有明显的方块纹理，一角有被咬过的痕迹。让她摆出快乐俏皮的姿势，单脚站立，另一条腿向后弯曲。一只巨大的写实人类手从右上角伸入，用拇指和食指轻轻捏住并提起她的连帽衫兜帽，以突显她的微型尺寸。使用浅景深，焦点清晰地对准微型女子、巧克力、手部和木质桌面，背景为奶油般虚化的厨房，包含温暖的橱柜下灯光、橱柜、台面物品和悬挂的厨具。光线应呈现金色、柔和且具有电影质感，展现手部自然的皮肤纹理、逼真的织物褶皱、细腻的木纹以及奇幻的比例对比。保持构图为正方形、居中、高分辨率、写实风格，无文字、无标志、无水印。
+
+[English]
+Create a warm, cozy macro-realistic photograph in a softly lit home kitchen. On a rustic wooden table, show a tiny miniature {argument name="character age and gender" default="20-year-old woman"} standing at doll-like scale, wearing a pastel pink oversized hoodie, white shorts, and pink low-top sneakers, with brown hair in a messy high bun. She is hugging a giant oversized chocolate bar wrapped in glossy red foil with crinkled silver foil at the top; the chocolate has visible square segments and one bitten corner. Pose her joyfully and playfully, standing on one leg with the other leg bent back. A large realistic human hand enters from the upper right, gently pinching and lifting the hood of her hoodie between thumb and forefinger, emphasizing her miniature size. Use shallow depth of field, sharp focus on the tiny woman, chocolate, hand, and wooden tabletop, with a creamy blurred kitchen background containing warm under-cabinet lights, cabinets, countertop objects, and hanging utensils. Lighting should be golden, soft, and cinematic, with natural skin texture on the hand, realistic fabric folds, detailed wood grain, and whimsical scale contrast. Keep the composition square, centered, high-resolution, photorealistic, no text, no logos, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2069064129890127882) | 2026-06-22
+
+---
+
+### 🧸 例 2195：日本学校操场写实摄影
+
+![日本学校操场写实摄影](../../images/%E6%97%A5%E6%9C%AC%E5%AD%A6%E6%A0%A1%E6%93%8D%E5%9C%BA%E5%86%99%E5%AE%9E%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 8K 摄影，4:6。{argument name="subject" default="年轻男子"}，坐在日本学校操场的混凝土圆管上。自然地大笑，看向左侧。{argument name="clothing" default="深栗色超大款印花 T 恤，米白色宽松长裤，白色高帮运动鞋"}。哆啦 A 梦 3D 毛绒玩偶坐在中间的圆管上，大雄 3D 卡通男孩坐在右侧圆管上——身穿黄色 Polo 衫，蓝色短裤，戴圆框眼镜。{argument name="background" default="樱花树背景，可见日本民居"}。金色夕阳，奶油般虚化效果，浅景深外观，电影级朦胧感。
+
+[English]
+Hyper-realistic 8K photography, 4:6. {argument name="subject" default="Young man"}, sitting on concrete cylinder tubes in {argument name="location" default="Japanese school playground"}. Laughing naturally, looking left. Dark marun oversized graphic t-shirt, off white loose pants, white high-top sneakers. {argument name="character" default="Doraemon"} 3D plush figure sitting center tube, Nobita 3D cartoon boy sitting right tube — yellow polo shirt, blue shorts, round glasses. Cherry blossom tree background, Japanese house visible.Golden sunset light, creamy bokeh, shallow depth of field look, cinematic haze.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2068984354341105841) | 2026-06-22
+
+---
+
+### 🧸 例 2210：剪纸立体透视风格图像转换
+
+![剪纸立体透视风格图像转换](../../images/%E5%89%AA%E7%BA%B8%E7%AB%8B%E4%BD%93%E9%80%8F%E8%A7%86%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像转换为柔和的手工剪纸分层插画风格，灵感源自纸艺立体透视美学。使用 {argument name="shape style" default="平滑圆润的形状"}、简化的 {argument name="character style" default="可爱的角色比例"} 以及 {argument name="detail level" default="极简的面部细节（豆豆眼、腮红）"} 来营造温暖迷人的视觉效果。应用堆叠的纸张图层，展现可见的深度感、图层间的微妙阴影，以及类似激光切割卡纸的干净边缘。
+
+[English]
+Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use {argument name="shape style" default="smooth rounded shapes"}, simplified {argument name="character style" default="cute character proportions"}, and {argument name="detail level" default="minimal facial details (dot eyes, blush cheeks)"} to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2068924947192496530) | 2026-06-22
+
+---
+

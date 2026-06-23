@@ -10045,3 +10045,153 @@ Masterpiece double exposure poster, {argument name="subject" default="rugged wil
 
 ---
 
+### 🎴 例 2185：纽约双重曝光海报
+
+![纽约双重曝光海报](../../images/%E7%BA%BD%E7%BA%A6%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="NEW YORK"} 创作一张电影质感的商业双重曝光城市海报，以 {argument name="subject" default="帅气的成年男性城市运动员"} 作为前景主体。
+
+画布：竖版海报，2:3 纵横比，高分辨率照片级广告风格，温暖的黄金时刻色调，戏剧性对比，细节锐利，无边框或水印。
+
+构图：将男性主体从胸部到头顶的上半身置于中心，面部略微朝向观众右侧。他的面部大部分被一块暖深棕色的纯色不透明矩形遮挡，遮住面部中心区域，同时露出卷曲的深色头发、耳朵、颈部、肩膀和衬衫。将他置于夕阳下发光的曼哈顿天际线背景前，左侧清晰可见帝国大厦，右侧背景可见世界贸易中心一号大楼。在建筑物后方使用太阳耀斑和朦胧的橙色云彩。
+
+双重曝光效果：将细节丰富的纽约城市场景融合进主体的米色圆领衫和躯干中。躯干叠加层必须包含 5 个主要的可见城市元素：1) 横跨胸前的布鲁克林大桥，2) 大桥后方密集的曼哈顿摩天大楼，3) 在右下方朝观众驶来的高架地铁列车，4) 左下方潮湿城市街道上的黄色出租车和车流，以及 5) 下方街道两侧发光的店面和建筑立面。让城市叠加层与衣物自然融合，边缘透明并带有温暖的反射。
+
+排版：在底部添加一个巨大的粗体压缩做旧大写标题，内容为 {argument name="headline text" default="NEW YORK"}，颜色为灰白色，宽度几乎横跨整个海报。在标题下方，添加一个较小的、字间距较宽的大写副标题，内容为 {argument name="subtitle text" default="BUILT FOR THE RUSH"}，颜色为暖金黄色。保持排版居中且具有海报感，标题部分覆盖下方的城市场景。
+
+视觉风格：商业运动生活方式海报，硬朗的城市能量，电影级写实感，金色夕阳照明，湿沥青反射，高动态范围，分层双重曝光，高端旅游宣传氛围，强烈的深度感，清晰的建筑细节，戏剧性但真实的光影。
+
+限制：仅使用一名前景人物，仅限一个大型城市标题和一个副标题，无额外 Logo，无附加文字，无可见品牌标识，无卡通风格，无未来主义元素，无重复面孔。
+
+[English]
+Goal: Create a cinematic commercial double-exposure city poster for {argument name="city name" default="NEW YORK"}, featuring a {argument name="subject" default="handsome adult male urban athlete"} as the dominant foreground figure.
+
+Canvas: Vertical poster, 2:3 aspect ratio, high-resolution photorealistic advertising style, warm golden-hour color grade, dramatic contrast, sharp detail, no border or watermark.
+
+Composition: Center the upper body of the male subject from chest to top of hair, facing slightly to the viewer’s right. His face is mostly hidden by a plain opaque rectangular block in warm dark brown, covering the central face area while leaving curly dark hair, ear, neck, shoulders, and shirt visible. Place him against a glowing Manhattan skyline at sunset, with the Empire State Building clearly visible on the left and One World Trade Center visible in the right background. Use sun flare and hazy orange clouds behind the buildings.
+
+Double exposure effect: Blend a detailed New York city scene into the subject’s beige crewneck shirt and torso. The torso overlay must include exactly 5 major visible urban elements: 1) the Brooklyn Bridge spanning across the chest, 2) dense Manhattan skyscrapers behind the bridge, 3) an elevated subway train running toward the viewer near the lower center-right, 4) yellow taxis and traffic on a wet city street at the lower left, and 5) glowing shopfronts and building facades along both sides of the lower street. Make the city overlay feel naturally integrated into the fabric, with transparent edges and warm reflections.
+
+Typography: At the bottom, add a huge bold condensed distressed uppercase title reading {argument name="headline text" default="NEW YORK"} in off-white, spanning nearly the full width. Beneath it, add a smaller widely spaced uppercase subtitle reading {argument name="subtitle text" default="BUILT FOR THE RUSH"} in warm golden yellow. Keep the typography centered and poster-like, with the title partially overlapping the lower city scene.
+
+Visual style: Commercial sports-lifestyle poster, gritty urban energy, cinematic realism, golden sunset lighting, wet asphalt reflections, high dynamic range, layered double exposure, premium travel campaign mood, strong depth, crisp architectural details, dramatic but believable lighting.
+
+Constraints: Use only one foreground person, exactly one large city title and one subtitle, no extra logos, no additional text, no visible brand marks, no cartoon styling, no futuristic elements, no duplicated faces.
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2069023061181956411) | 2026-06-22
+
+---
+
+### 🎴 例 2201：街头足球拼贴海报
+
+![街头足球拼贴海报](../../images/%E8%A1%97%E5%A4%B4%E8%B6%B3%E7%90%83%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高分辨率的 4:5 竖版街头足球拼贴海报，以一名全身年轻女性为中心主体，她正随意地向观众走来。她留着深棕色长波浪卷发，戴着一顶灰色棒球帽，帽上绣有红白相间的文字 {argument name="cap text" default="Orlando"}，身穿一件黄色的巴西风格足球衫，配有绿色饰边，胸前印有巨大的绿色数字 {argument name="jersey number" default="10"}，下身穿着宽松的黑色运动裤，侧面带有细白条纹，脚蹬干净的白色运动鞋。她的面部特意用柔和的矩形模糊处理以保持匿名，同时保留自然的姿态、发型、服装和轮廓。将她置于粗糙的撕纸白色剪裁边缘上，叠加在充满活力的垃圾摇滚风格拼贴背景之上，背景采用巴西配色：芥末黄纸张质感、宝蓝色和绿色的撕纸碎片、黑色笔触、半色调圆点、丝网印刷网格、油漆涂抹、划痕、做旧墨迹以及右下角的混凝土纹理。包含 5 个星形图形：右上角附近 1 个大绿星，主体左侧肩部区域附近 1 个小绿星，左侧 1 个蓝星，右侧中部附近 1 个蓝星，以及右下角附近 1 个绿星。添加粗体压缩的黑色编辑排版：左上角文字为 {argument name="main headline" default="STREET FOOTBALL"}，下方附带较小的文字 {argument name="tagline" default="PLAY WITH SOUL"}；右侧边缘有垂直文字 {argument name="side label" default="CITY ICON"}；左下角有一个手绘的大号绿色“10”以及堆叠的黑色文字“PLAY WITH SOUL”，下方带有细小的装饰性星号和线条标记。整体构图呈现出世界杯街头时尚海报的质感，融合纸张拼贴层、粗犷的城市运动活力、高对比度、逼真的服装褶皱，且避免任何光亮的塑料感。
+
+[English]
+Create a high-resolution vertical 4:5 street football collage poster featuring a full-body young woman as the central subject, walking casually toward the viewer. She has long wavy dark brown hair and wears a gray baseball cap with red-and-white embroidered text reading {argument name="cap text" default="Orlando"}, a yellow Brazil-inspired soccer jersey with green trim and a large green {argument name="jersey number" default="10"} on the chest, loose black track pants with thin white side stripes, and clean white sneakers. Her face is intentionally obscured by a soft rectangular blur for anonymity, while keeping the pose, hair, outfit, and silhouette natural. Place her on a rough torn-paper white cutout edge, layered over an energetic grunge collage background in Brazil colors: mustard yellow paper texture, royal blue and green torn paper shards, black brush streaks, halftone dots, screen-print grids, paint smears, scratches, distressed ink, and concrete texture on the lower right. Include exactly 5 star graphics: 1 large green star near the upper right, 1 small green star left of the subject near the shoulder area, 1 blue star on the left side, 1 blue star near the right middle, and 1 green star near the lower right. Add bold condensed black editorial typography: top left text reads {argument name="main headline" default="STREET FOOTBALL"} with smaller text underneath reading {argument name="tagline" default="PLAY WITH SOUL"}; right edge has vertical text reading {argument name="side label" default="CITY ICON"}; lower left has a large hand-painted green “10” and stacked black text “PLAY WITH SOUL” with tiny decorative star and line marks beneath. Make the composition feel like a World Cup streetwear fashion poster, with paper collage layers, gritty urban sports energy, high contrast, realistic clothing folds, and no glossy plastic look.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2068960095464284479) | 2026-06-22
+
+---
+
+### 🎴 例 2205：动漫定格杂志海报
+
+![动漫定格杂志海报](../../images/%E5%8A%A8%E6%BC%AB%E5%AE%9A%E6%A0%BC%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="LUCILA"} 创建一张精致的动漫杂志封面海报，主题围绕摄影、电影和梦幻般的定格瞬间。
+
+画布：竖版人像海报，3:4 比例，明亮的白色至淡薰衣草色背景，通透的高调照明，柔和的虹彩光晕，带有青色和紫色的高光。在左下角留出干净的留白，以便放置标题文字。
+
+主体：一位充满活力的动漫少女斜向漂浮在页面上，仿佛悬浮在半空中。她拥有长长的 {argument name="hair color" default="深靛色和紫色"} 飘逸秀发，半透明的紫色发丝向右戏剧性地拂动，明亮的紫色双眼，自信俏皮的微笑，以及被刘海半遮住的眨眼表情。她戴着一顶带有微妙星空内衬的宽大深色圆帽，身穿带有淡蓝色半透明面板的未来感白色短款夹克、黑色手套、黑色系带上衣、深色短裙或短裤、深色过膝袜，大腿上配有银色圆环饰品。她的姿势充满活力且具有透视感：一只手臂向前伸出，拿着一台紧凑型银色相机，另一只手举在脸部附近，拿着一个小巧的相机设备或镜头，同时一条腿向右侧观众方向伸展。
+
+摄影元素：左手持有一台显眼的银色复古相机，脸部附近有一个小型镜头/相机设备，右下边缘附近有一个大型悬垂的圆形链环，周围漂浮着 9 条清晰可见的胶片碎片。胶片应呈现半透明、发光且带有青色、粉色和薰衣草色反射的虹彩效果，散布在顶部、两侧和中心，以营造动感。
+
+排版与文字内容：在顶部放置一个超大且优雅的细衬线字体刊头，文字为 {argument name="headline text" default="LUCILA"}，几乎横跨整个宽度，颜色为柔和的薰衣草灰，部分位于角色和头发后方。在左上方添加一行小型的堆叠日期 {argument name="date text" default="JUNE 2026"}。在左下角添加一个粗体压缩无衬线标题 {argument name="feature title" default="FREEZE FRAME"}。在其下方添加两行较小的文字：“I am my own freeze frame.” 和 “I am my own afterimage.” 所有文字均保持薰衣草紫色，风格简洁且具有杂志感。
+
+视觉风格：高细节日本抽卡游戏主视觉图，《鸣潮》（Wuthering Waves）风格，光泽感赛璐珞插画，精致的线条，发光的渐变，棱镜折射，柔和的泛光，头发和胶片带有微妙的运动模糊，复杂的服装细节，柔和的赛博时尚美学，杂志封面构图。
+
+约束条件：仅使用一个角色，不得出现额外人物，无水印，除指定的文字外不得有任何 Logo，保持背景以白色为主且不杂乱，保留可读的英文文本，最终图像应看起来像一张高级动漫角色海报，而非写实照片。
+
+[English]
+Using the provided reference image as the pose, outfit, camera props, hair flow, and floating film-strip composition base, transform it into a polished 2D anime key visual / magazine-poster illustration in a Wuthering Waves–inspired style. Replace the photographic cosplay look with clean luminous line art, soft cel shading, iridescent highlights, and a bright white-lavender background. Reconstruct the obscured face as an attractive anime heroine with a playful wink, visible purple eyes, and a confident smile, while keeping the same overall reclining diagonal pose and camera-in-hand gesture.
+
+Poster additions: add large elegant serif title text behind the character reading {argument name="character name" default="LUCILLA"}; add a small vertical date block on the upper left reading {argument name="date text" default="JUNE 2026"}; add a lower-left headline reading {argument name="headline text" default="FREEZE FRAME"}; add exactly 2 smaller quote lines below it: {argument name="quote line one" default="I am my own freeze frame."} and {argument name="quote line two" default="I am my own afterimage."}
+
+Style and layout: high-resolution vertical poster, pastel cyan/lavender glow, airy negative space, translucent holographic film frames swirling around her, long purple hair sweeping across the top, glossy white jacket and black accessories rendered as fantasy-tech anime costume details. Keep the same main subject scale and dynamic diagonal composition, but make the image brighter, cleaner, and more illustrative. Do not add extra text, logos, watermarks, or additional characters.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2068952376233648543) | 2026-06-22
+
+---
+
+### 🎴 例 2219：航空公司机组人员宣传海报
+
+![航空公司机组人员宣传海报](../../images/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实商业航空公司广告大片，采用大胆的体育运动宣传海报风格，三位 {argument name="airline company" default="QATAR AIRWAYS"} 机组人员以英雄式的半身剪裁呈现，从画面下方戏剧性地升起，采用略低于视线的正面拍摄视角，4:5 竖构图。中心：一位男性飞行员，身着深海军蓝双排扣西装外套，佩戴金色机长肩章和金色纽扣，系海军蓝领带，直视前方，表情坚定。两侧对称排列：两位女性空乘人员，身着相同的 {argument name="uniform color" default="深洋红色"} 修身西装制服，配有金色纽扣，佩戴同色系洋红色药盒帽，帽上饰有小型金色凤凰徽章，系白色花纹丝绸领巾，佩戴珍珠耳钉，两人均神情从容，目光投向画外两侧。主体仅露出胸部/腰部以上，底部切边以获得最大的视觉冲击力。画面下方前景：一架带有品牌标识及尾翼几何 Logo 的白色商用飞机机身。背景：深青蓝色黄昏天空，伴有戏剧性的金橙色背光云层，左侧为现代玻璃机场航站楼和温暖的体育场泛光灯。灯光具有电影般的戏剧感：左侧强烈的暖琥珀色主光，冷蓝色小时补光，深邃丰富的阴影，采用青橙互补色的高级调色风格。图形化的体育运动宣传海报构图，大胆且充满抱负，三位主体均清晰锐利，4:5 竖构图。
+
+[English]
+Ultra realistic commercial airline advertisement editorial styled like a bold sports campaign poster featuring three {argument name="airline company" default="QATAR AIRWAYS"} crew members in a heroic half-body crop, rising dramatically from the lower frame, shot straight-on slightly below eye level, 4:5 vertical. Center: a male pilot in a dark navy double-breasted blazer with gold captain epaulettes and gold buttons, navy tie, direct forward gaze, intense expression. Flanking him symmetrically: two female flight attendants in identical {argument name="uniform color" default="deep magenta-purple"} fitted blazer uniforms with gold buttons, matching magenta pillbox hats with small gold phoenix pins, white floral-patterned silk neckerchiefs, pearl stud earrings both with composed off-camera gazes in opposite directions. Subjects visible from chest/waist up only, cut off at the bottom of frame for maximum graphic impact. In the lower foreground: a white commercial aircraft fuselage with branding and the geometric logo on the tail. Background: deep teal-blue dusk sky with dramatic golden-orange backlit clouds, modern glass airport terminal and warm stadium floodlights on the left. Lighting is cinematic dramatic: strong warm amber key from left, cool blue hour fill, deep rich shadows, prestige color grade teal and orange complementary palette. Graphic sports-campaign poster composition, bold and aspirational, tack-sharp on all three subjects, 4:5 vertical.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2068904354405363884) | 2026-06-22
+
+---
+
+### 🎴 例 2223：高端足球宣传海报
+
+![高端足球宣传海报](../../images/%E9%AB%98%E7%AB%AF%E8%B6%B3%E7%90%83%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 竖构图的超高端足球宣传海报，设计风格参考官方 {argument name="event" default="FIFA World Cup"} 广告。整体风格应具备超写实、电影感、奢华质感与强烈的情感张力，呈现深色极简主义的体育海报美学。将上传的参考图像作为左侧人物，需最大程度还原其面部特征，包括脸型、眼睛、鼻子、嘴唇、肤色、发型、比例及整体相似度，确保人物既能被一眼认出，又能自然融入足球海报中。右侧放置 {argument name="player" default="Cristiano Ronaldo"}，呈现高度写实的面部细节和专业体育摄影质感。两位主体均采用半身像，背靠背站立，双臂交叉，直视镜头，展现出冷静的自信、冠军心态和精英运动员的气场。两人均身着当前的 {argument name="team" default="Portugal national team"} 主场球衣，展现逼真的面料质感、正版领口设计、袖口饰边、缝线细节、准确的队徽位置、细腻的织物纹理以及高端比赛服的真实感。球衣应呈现出专业摄影效果，带有自然的褶皱和逼真的光影。构图以黑色背景为主，营造强烈的对比度和局部高光。在主体身后，添加三条受葡萄牙国旗颜色（绿色、红色和金色）启发的竖向发光灯柱。背景中融入一面隐约可见的巨大葡萄牙国旗，以增加深度和氛围感。加入逼真的球场烟雾、漂浮的尘埃颗粒、电影级阴影、柔和的镜头光晕、球衣的亮面反射以及高端体育广告灯光。在主体周围使用微妙的霓虹边缘光，使其与深色背景分离。设计中融入优雅且极简的足球主题字体，例如：PORTUGAL RONALDO WORLD CUP 2026。保持所有文字简洁、现代、高端且低调。调色方案应基于深黑、浓郁红、翡翠绿、暖金色调以及纯净的白色高光。最终图像应充满情感、精英感、戏剧性，并具备全球足球宣传活动的质感。具备超写实的皮肤纹理、锐利的对焦、真实的球衣材质、电影级的景深、专业的体育海报构图以及全程 8K 质量的细节呈现。
+
+[English]
+Create an ultra-premium football campaign poster in a vertical 4:5 format, designed like an official {argument name="event" default="FIFA World Cup"} advertisement. The style should be hyper-realistic, cinematic, luxury-focused, and emotionally powerful, with a dark minimalist sports-poster aesthetic. Use the uploaded reference image as the person on the left side. Preserve her facial identity with maximum accuracy, including facial structure, eyes, nose, lips, skin tone, hairstyle, proportions, and overall likeness. She should remain instantly recognizable while naturally integrated into the football poster. On the right side place {argument name="player" default="Cristiano Ronaldo"}, rendered with highly realistic facial detail and professional sports-photography quality. Both subjects should be shown from the waist up, standing back-to-back with folded arms, looking directly into the camera with calm confidence, champion mentality, and elite athlete energy. Dress both characters in the current {argument name="team" default="Portugal national team"} home jersey, featuring realistic fabric texture, authentic collar design, sleeve trim, stitching details, accurate badge placement, subtle fabric patterns, and premium match-kit realism. The jersey should look professionally photographed with natural folds and realistic lighting. The composition should feature a mostly black background with dramatic contrast and selective highlights. Behind the subjects, add three tall glowing vertical light bars inspired by the Portuguese flag colors (green, red, and gold). Include a large faded Portugal flag blended subtly into the background for depth and atmosphere. Add realistic stadium haze, drifting smoke, floating dust particles, cinematic shadows, soft lens flares, glossy jersey reflections, and premium sports-advertising lighting. Use subtle neon edge lighting around the subjects to separate them from the dark background. Include elegant and minimal football-themed typography integrated into the design, such as: PORTUGAL RONALDO WORLD CUP 2026 Keep all text clean, modern, premium, and understated. Color grading should be based on deep blacks, rich reds, emerald greens, warm gold accents, and clean white highlights. The final image should feel emotional, elite, dramatic, and worthy of a global football campaign. Ultra-realistic skin textures, razor-sharp focus, authentic jersey materials, cinematic depth, professional sports-poster composition, and 8K-quality detailing throughout.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2068889550324461985) | 2026-06-22
+
+---
+
+### 🎴 例 2226：温馨饮品杂志封面
+
+![温馨饮品杂志封面](../../images/%E6%B8%A9%E9%A6%A8%E9%A5%AE%E5%93%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[参考图片]
+使用参考照片，同时确保面部完全不变，与原主体保持一致。超写实温馨生活饮品杂志封面，主角为一位 {argument name="subject" default="优雅舒适的韩国女性"}，身穿柔软的 {argument name="outfit" default="米色大廓形针织毛衣"}，双手捧着一个 {argument name="prop" default="带有品牌标识的陶瓷杯，杯中是带有拉花且冒着轻微热气的手工咖啡"}，面带宁静的微笑，双眼微闭，尽情享受。肌肤透出温暖光泽，自然的淡妆，红润的双颊。柔软的波浪卷发。背景：温暖的乡村风格咖啡馆内景，木质纹理，柔和的晨光透过窗户，背景中模糊的咖啡豆袋和烘焙设备。顶部印有“FOOD & WINE”杂志标题，采用温暖的衬线字体，并配有品牌故事的宣传文字。50mm 镜头，超细节的蒸汽丝缕和拿铁奶泡质感，8K 照片级写实温馨生活广告大片。负面提示词：卡通、模糊、冷色调、水印、虚假的 CGI 蒸汽。
+
+[English]
+[Reference Image]
+Use the reference photo while keeping the face completely unchanged and identical to the original subject, Ultra-realistic warm lifestyle beverage magazine cover featuring a {argument name="subject" default="cozy elegant Korean woman"} in a soft {argument name="outfit" default="oversized cream knit sweater"}, both hands wrapped around a {argument name="prop" default="branded ceramic mug of artisanal coffee with visible latte art and gentle steam rising"}, content peaceful smile, eyes slightly closed in enjoyment. Warm glowing skin, soft natural makeup, rosy cheeks. Loose soft waves. Background: warm rustic café interior with wooden textures, soft morning window light, blurred coffee bags and roasting equipment. "FOOD & WINE" masthead in warm serif typography with brand story callout text. 50mm lens, ultra-detailed steam wisps and latte foam texture, 8K photorealistic cozy lifestyle campaign. Negative: cartoon, blurry, cold lighting, watermark, fake steam CGI.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2068863423186903316) | 2026-06-22
+
+---
+

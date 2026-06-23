@@ -1780,3 +1780,57 @@ To Monochrome 3x3 Editorial Comp Card, {argument name="subject" default="adult E
 
 ---
 
+### 🔧 例 2161：照片转 Q 版涂鸦
+
+![照片转 Q 版涂鸦](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为可爱的黑白手绘 Q 版涂鸦插画。在转换 {argument name="subjects" default="母子"} 时，请保留原图的姿势、构图、面部表情、服装、太阳镜和鹿角发箍，并将人物转化为拥有大头、小身体、圆眼睛、柔和微笑和简化特征的可爱卡通形象。使用纯白背景上的干净黑色墨水线条，辅以细腻的素描排线、俏皮的手绘质感，并在周围添加小爱心、闪光和可爱的涂鸦装饰。保持温暖的拥抱、欢乐的家庭联系以及抓拍照片般的视角。卡哇伊漫画风格，极简黑白配色，贴纸包美学，温馨的儿童绘本插画，迷人的速写画，表情生动，圆润柔和的形状，舒适暖心的氛围，高细节线条艺术，可爱的社交媒体头像风格，大师级品质。
+
+[English]
+Transform the uploaded photo into a cute black-and-white hand-drawn chibi doodle illustration. Preserve the exact pose, composition, facial expressions, clothing, sunglasses, and antler headband while converting {argument name="subjects" default="the mother and child"} into adorable cartoon characters with oversized heads, tiny bodies, round eyes, soft smiles, and simplified features. Use clean black ink linework on a pure white background with subtle sketch hatching, playful hand-drawn texture, tiny hearts, sparkles, and cute doodle accents around them. Maintain the warm hug, joyful family connection, and candid photo-booth perspective. Kawaii manga-inspired art style, minimalist monochrome palette, sticker-pack aesthetic, wholesome children's storybook illustration, charming sketchbook drawing, expressive faces, soft rounded shapes, cozy and heartwarming mood, highly detailed line art, cute social media avatar style, masterpiece quality.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2069094152164536336) | 2026-06-22
+
+---
+
+### 🔧 例 2181：迷你 Q 版人偶转换
+
+![迷你 Q 版人偶转换](../../images/%E8%BF%B7%E4%BD%A0%20Q%20%E7%89%88%E4%BA%BA%E5%81%B6%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将第一个参考人物转换为第二个参考图像的风格，同时精准保留面部特征、眼睛、嘴唇、发型和柔和的表情。在保持原有人物可辨识度的基础上，将其转换为 {argument name="style" default="可爱的迷你 Q 版人偶"}，并呈现出大眼睛和收藏级人偶的比例。
+
+[English]
+Transform the first reference person into the style of the second reference image while preserving the exact facial identity, eyes, lips, hairstyle, and soft expression. Keep the original face recognizable but convert into an {argument name="style" default="adorable miniature chibi doll"} with oversized cute eyes and collectible doll proportions.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2069033275679715646) | 2026-06-22
+
+---
+
+### 🔧 例 2197：极简数字插画转换
+
+![极简数字插画转换](../../images/%E6%9E%81%E7%AE%80%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为干净、极简的半写实数字插画，同时保留原始构图、姿势、服装、椅子、咖啡杯以及整体取景。简化面部特征，采用平滑的矢量风格形状、柔和的绘画式阴影和细腻的线条。使用 {argument name="color palette" default="柔和的大地色系、暖米色、橄榄绿、炭黑色和柔和的棕色"}。将复杂的咖啡馆背景替换为简单的几何色块墙面和极简的室内元素。保持 {argument name="clothing and accessories" default="自然的波浪长发、超大款黑色皮夹克、白色罗纹背心、深色阔腿牛仔裤和绿色棒球帽"}。营造一种宁静、舒适的咖啡馆氛围，采用柔和的环境光、平滑的质感、平涂渲染、优雅的极简主义、现代编辑插画风格、高细节、清晰的边缘、平衡的构图、高端生活方式艺术作品、4K 画质。
+
+[English]
+Transform the uploaded photo into a clean, minimalist semi-realistic digital illustration while preserving the original composition, pose, outfit, chair, coffee cup, and overall framing. Simplify facial features with smooth vector-like shapes, soft painterly shading, and subtle linework. Use {argument name="color palette" default="muted earthy tones, warm beige, olive green, charcoal black, and soft brown"}. Replace the detailed café background with simple geometric color-blocked walls and minimal interior elements. Maintain {argument name="clothing and accessories" default="natural long wavy hair, oversized black leather jacket, white ribbed tank top, dark wide-leg jeans, and green baseball cap"}. Create a calm, cozy coffeehouse atmosphere with soft ambient lighting, smooth textures, flat-color rendering, elegant minimalism, modern editorial illustration style, high detail, clean edges, balanced composition, premium lifestyle artwork, 4K quality.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2068979376708858015) | 2026-06-22
+
+---
+

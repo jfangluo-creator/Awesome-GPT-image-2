@@ -4951,3 +4951,173 @@ Illustration of "{argument name="subject" default="Me and [○○]"}" in a playf
 
 ---
 
+### 🎨 例 2171：超宽横版游戏关卡概念
+
+![超宽横版游戏关卡概念](../../images/%E8%B6%85%E5%AE%BD%E6%A8%AA%E7%89%88%E6%B8%B8%E6%88%8F%E5%85%B3%E5%8D%A1%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+请生成一张【超宽横版游戏关卡设定图】，单张完整图片，不要拼图，不要多宫格，不要分栏。尺寸：横版 3:1。【关卡主题】：{argument name="关卡主题" default="赛博都市 / 奇幻森林 / 废土地铁站 / 东方古城 / 你自己的主题"}【场景风格】：{argument name="场景风格" default="科幻 / 奇幻 / 废土 / 古风 / 蒸汽朋克 / 城市冒险"}【玩法类型】：{argument name="玩法类型" default="跑酷 / 平台跳跃 / 动作冒险 / 解谜探索 / 横版卷轴…"}
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2069066394428125630) | 2026-06-22
+
+---
+
+### 🎨 例 2183：魔法湖中的水妖长笛手
+
+![魔法湖中的水妖长笛手](../../images/%E9%AD%94%E6%B3%95%E6%B9%96%E4%B8%AD%E7%9A%84%E6%B0%B4%E5%A6%96%E9%95%BF%E7%AC%9B%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的奇幻插画，主角是 {argument name="character name" default="Undine"}，一位水妖长笛手，站在黄昏时分黑暗而迷人的德国森林湖泊中，水深及腰。她穿着一件飘逸的半透明 {argument name="dress color" default="蓝绿色"} 长裙，裙摆如丝绸般与漩涡状的水流融为一体，布料湿润闪烁，袖口饰有精致的珠子，留着长长的棕色波浪卷发，发间点缀着细小的蓝色花朵，面部特征被刻意模糊，覆盖着一个柔和的中性方形遮罩。她横握一支银色音乐会长笛于唇边。在她身后，放置一架半沉在湖中的亮黑色三角钢琴，琴盖开启，反射着月光下的青色高光；水流应在钢琴琴弦和边缘上倾泻溅起，仿佛乐器本身就是湖泊的一部分。在前景的水中，放置一把装饰华丽的银色匕首或短剑，剑柄镶嵌着金饰和绿松石，半没于水中，暗示着背叛。在右侧加入两条金鱼，湖面上分布着六朵花心为黄色的白色睡莲，以及许多深绿色的睡莲叶。水流应在音乐家和钢琴周围形成神奇的圆形水流，充满闪烁的金粉、细小的发光音符状轨迹、青色的倒影和发光的涟漪。湖泊周围环绕着高大阴郁的常青树，树干长满苔藓，呈现深邃的森林绿色，雾气弥漫，冷冽的阳光穿过树冠投下光束。氛围：浪漫、神秘、悲剧色彩，灵感来源于 Carl Reinecke 的 {argument name="music title" default="Undine Sonata"}，长笛声仿佛危险水灵的歌声，而钢琴则如同守护的深邃湖水。采用超细节的绘画写实风格，16:9 宽画幅构图，高对比度的青金配色调色，体积光，清澈的水面效果，无文字，无水印。
+
+[English]
+Create a cinematic fantasy illustration of {argument name="character name" default="Undine"}, a water-nymph flutist standing waist-deep in a dark enchanted German forest lake at twilight. She wears a flowing translucent {argument name="dress color" default="blue-green"} gown that merges with swirling water like silk, with wet shimmering fabric, delicate beaded sleeves, long wavy brown hair decorated with tiny blue flowers, and an intentionally obscured, featureless face covered by a soft neutral square blur. She holds one silver concert flute horizontally to her lips. Behind her, place one glossy black grand piano half-submerged in the lake with its lid open, reflecting moonlit teal highlights; water should cascade and splash over the piano strings and rim as if the instrument is part of the lake. In the foreground water, include exactly one ornate silver dagger or short sword with a jeweled gold-and-turquoise hilt lying partly submerged, hinting at betrayal. Add exactly two golden fish swimming on the right side, exactly six white water lilies with yellow centers distributed across the lake surface, and many dark green lily pads. The water should form magical circular currents around the musician and piano, filled with sparkling golden motes, tiny glowing musical-note-like trails, turquoise reflections, and luminous ripples. Surround the lake with tall shadowy evergreen trees, mossy trunks, deep forest greens, mist, and shafts of cool sunlight filtering through the canopy. Mood: romantic, mysterious, tragic, inspired by Carl Reinecke’s {argument name="music title" default="Undine Sonata"}, where the flute feels like the voice of a dangerous water spirit and the piano feels like protective dark water. Use ultra-detailed painterly realism, dramatic wide 16:9 composition, high contrast teal-and-gold color grading, volumetric light, crisp water effects, no text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2069024073724608993) | 2026-06-22
+
+---
+
+### 🎨 例 2184：南亚乡村西洋镜纪录片
+
+![南亚乡村西洋镜纪录片](../../images/%E5%8D%97%E4%BA%9A%E4%B9%A1%E6%9D%91%E8%A5%BF%E6%B4%8B%E9%95%9C%E7%BA%AA%E5%BD%95%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张来自旧时代的黑白写实纪录片照片。一台传统的木制西洋镜矗立在尘土飞扬的乡村土路旁。四五个贫困的乡村儿童正透过西洋镜的小孔向内窥视，眼中充满了好奇与惊叹。他们有的穿着简陋的旧衣，有的赤裸上身，大多数人赤着双脚。孩子们脸上洋溢着纯真的童年喜悦、惊奇与入迷的神情。
+
+在西洋镜后方，一位年长的乡村老人正平静地操作着机器。他身着朴素的传统服饰，脸上刻满了岁月的痕迹。周围环境展现了简朴的乡村生活，有土路、树木以及宁静村庄的氛围。
+
+自然光影，柔和的阴影，高质量纪录片摄影，老胶片的颗粒质感，充满情感与怀旧的环境，20 世纪中叶南亚乡村生活，历史照片质感，高度写实，细节丰富，照片级真实感，高分辨率，完美呈现深度与真实感。
+
+[English]
+পুরনো দিনের সাদা কালো বাস্তবধর্মী ডকুমেন্টারি আলোকচিত্র। গ্রামের ধুলোময় কাঁচা রাস্তার পাশে কাঠের তৈরি ঐতিহ্যবাহী বায়োস্কোপ দাঁড়িয়ে আছে। চার থেকে পাঁচজন দরিদ্র গ্রামের শিশু গভীর কৌতূহল ও বিস্ময়ভরা চোখে বায়োস্কোপের ছোট ছিদ্রে চোখ রেখে ভেতরের দৃশ্য দেখছে। তাদের কারও গায়ে সাধারণ পুরনো পোশাক, কারও খালি গা, অধিকাংশের পায়ে জুতা নেই। শিশুদের মুখে শৈশবের নির্মল আনন্দ, বিস্ময় ও মুগ্ধতার অভিব্যক্তি স্পষ্ট।
+
+বায়োস্কোপের পেছনে একজন বয়স্ক গ্রামীণ ব্যক্তি শান্তভাবে যন্ত্রটি পরিচালনা করছেন। তার পরনে সাদামাটা ঐতিহ্যবাহী পোশাক, মুখে সময়ের ছাপ। চারপাশে সরল গ্রামীণ জীবনযাত্রার পরিবেশ, ধুলোময় পথ, গাছপালা ও নিস্তব্ধ গ্রামের আবহ ফুটে উঠেছে।
+
+প্রাকৃতিক আলো, নরম ছায়া, উচ্চমানের ডকুমেন্টারি ফটোগ্রাফি, পুরনো ফিল্মের দানাদার টেক্সচার, গভীর আবেগময় ও নস্টালজিক পরিবেশ, বিংশ শতাব্দীর মধ্যভাগের দক্ষিণ এশীয় গ্রামীণ জীবন, ঐতিহাসিক আলোকচিত্রের অনুভূতি, অত্যন্ত বাস্তবসম্মত, সূক্ষ্ম বিবরণসমৃদ্ধ, ফটোরিয়ালিস্টিক, উচ্চ রেজোলিউশন, গভীরতা ও বাস্তবতার নিখুঁত উপস্থাপন।
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2069023876110278960) | 2026-06-22
+
+---
+
+### 🎨 例 2186：AI 角色换装指令
+
+![AI 角色换装指令](../../images/AI%20%E8%A7%92%E8%89%B2%E6%8D%A2%E8%A3%85%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+{argument name="キャラクター画像" default="1枚目"}をキャラクター画像、{argument name="衣装画像" default="2枚目"}を衣装画像として扱います。{argument name="衣装画像" default="2枚目"}に別のキャラクターが写っていても、服だけを参考にして、{argument name="キャラクター画像" default="1枚目"}のキャラクターに着せ替えます。{argument name="キャラクター画像" default="1枚目"}の絵の衣装のみを変えたイラストをつくって
+```
+
+**来源：** [@日向_AI](https://x.com/himukai_an/status/2069022148992385271) | 2026-06-22
+
+---
+
+### 🎨 例 2203：向日葵花田中的动漫少女
+
+![向日葵花田中的动漫少女](../../images/%E5%90%91%E6%97%A5%E8%91%B5%E8%8A%B1%E7%94%B0%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 竖版动漫风格插画，描绘一位年轻女子站在灿烂的夏季向日葵花田中，她的面部区域中心覆盖着一个平面的不透明米色方形遮挡块。她拥有非常长的飘逸 {argument name="hair color" default="金色"} 秀发，在阳光下闪耀，皮肤白皙，身材苗条优雅，身穿一件无袖 {argument name="dress color" default="白色"} 连衣裙，带有精致的荷叶边、收腰设计和在逆光下发光的蓬松裙摆。她怀中抱着 3 朵显眼的向日葵：一朵大而明亮的向日葵靠近她的右肩，一朵较小的向日葵位于其下方，另一朵部分可见的向日葵靠近她的胸前，带有长长的绿色茎叶。场景设定在一片茂密的金色向日葵花田中，一条狭窄的土路在她身后延伸，温暖的叶片和花瓣在空中飘落，前景中几朵模糊的向日葵构成了底部的边框。背景处设置一座浪漫的欧式宅邸或学校建筑，拥有奶油色的墙壁、红棕色的屋顶、老虎窗和高耸的钟楼尖顶，背景是远处的蓝色山脉、蓬松的白云和湛蓝的天空。使用来自右上方黄金时刻的阳光，头发边缘有强烈的轮廓光，柔和的镜头光晕，发光的焦外成像，浅景深，绘画感高细节动漫渲染，鲜艳的黄色和绿色，电影级构图，梦幻浪漫的氛围，无文字，无水印。
+
+[English]
+Create a vertical 2:3 anime-style illustration of a young woman standing in a brilliant summer sunflower field, with her face intentionally covered by a flat opaque beige square censor block centered over the facial area. She has very long flowing {argument name="hair color" default="golden blonde"} hair catching the sunlight, pale skin, and a graceful slim figure, wearing a sleeveless {argument name="dress color" default="white"} sundress with delicate ruffles, a fitted waist, and a full skirt glowing in backlight. She holds exactly 3 prominent sunflowers in her arms: one large bright sunflower near her right shoulder, one smaller sunflower below it, and one partially visible sunflower tucked closer to her chest, with long green stems and leaves. The setting is a dense golden sunflower field with a narrow dirt path receding behind her, warm leaves and petals drifting in the air, and a few blurred foreground sunflowers framing the bottom corners. In the background, place a romantic European mansion or school building with cream walls, red-brown roofs, dormer windows, and a tall clock-tower spire, set against distant blue mountains, fluffy white clouds, and a clear blue sky. Use golden-hour sunlight from the upper right, strong rim light through the hair, soft lens flare, glowing bokeh, shallow depth of field, painterly high-detail anime rendering, vibrant yellows and greens, cinematic composition, dreamy romantic atmosphere, no text, no watermark.
+```
+
+**来源：** [@AI東京にセクシー現るおじさんイラスト](https://x.com/AIGondora/status/2068959244746183093) | 2026-06-22
+
+---
+
+### 🎨 例 2204：极简奇幻街景水彩画
+
+![极简奇幻街景水彩画](../../images/%E6%9E%81%E7%AE%80%E5%A5%87%E5%B9%BB%E8%A1%97%E6%99%AF%E6%B0%B4%E5%BD%A9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+松散的墨线速写水彩插画，极简奇幻街景，{argument name="character" default="穿着飘逸碎花裙的娇小女孩"} 边走边回头，{argument name="colors" default="柔和的粉彩色调（桃色、薄荷绿、奶油色、黄色）"}，简洁的面部特征，轻盈且富有表现力的线条，通透的留白，{argument name="location" default="开满鲜花并装饰着彩旗的欧洲咖啡馆街道"}，柔和的阳光，温婉的绘本美学
+
+[English]
+loose ink sketch watercolor illustration, minimalist whimsical street scene, {argument name="character" default="petite girl in a flowing floral skirt"} walking and turning back, {argument name="colors" default="soft pastel tones (peach, mint, cream, yellow)"}, simple facial features, light expressive linework, airy white space, {argument name="location" default="European café street with flowers and bunting flags"}, soft sunlight, gentle storybook aesthetic
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2068956909655433550) | 2026-06-22
+
+---
+
+### 🎨 例 2207：清晨仓鼠咖啡馆插画
+
+![清晨仓鼠咖啡馆插画](../../images/%E6%B8%85%E6%99%A8%E4%BB%93%E9%BC%A0%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨、可爱且高度精致的动漫风格咖啡馆插画，主角是一只圆滚滚的黄白相间仓鼠，正坐在木桌上享用松软的戚风蛋糕。仓鼠是画面的核心，体态圆润丰满，有着亮晶晶的黑色眼睛、小巧圆润的耳朵、粉色的鼻子、用小爪子捧着一块海绵蛋糕，胡须柔软洁白，奶油色的腹部上带有橘棕色的毛发斑块。在它面前的白色盘子里摆放着 4 样食物：一块竖立的大块金黄色戚风蛋糕、一团搅打奶油、一颗带绿叶的红草莓以及散落的蛋糕屑。场景设定在一家温馨的清晨甜品店，金色的阳光从左侧窗户洒入，带有柔和的景深效果，墙壁呈奶油米色，光影温暖，氛围梦幻治愈。在左下方添加一个淡粉色的咖啡杯，杯身上印有简单的仓鼠脸 Logo 和“SORA City Patisserie”字样。在左侧放一个小玻璃花瓶，插着雏菊和粉色小花。背景右侧设有一块黑板，上面写着大号字体“SORA”，副标题“City Patisserie”，以及手写的英文短句“Good morning!”和“Have a sweet day”，并配有爱心涂鸦。此外，展示一个带有玻璃罩的蛋糕架，里面放着草莓顶饰蛋糕，以及背景中模糊的糕点展示架。在左上方叠加醒目的手写日文 {argument name="morning greeting" default="おはよう"}，采用粗圆的棕色字体，并带有白色描边。在问候语周围添加 3 个装饰性涂鸦：顶部中央是一个微笑的太阳，下方是一个小桃心，左侧是一个橘色轮廓的爱心。在右下方放置一张小立式菜单卡，上面用日文写着“ふわふわ シフォンケーキ ♡ おすすめ!”，并装饰有小花朵。采用方形构图，柔和的虚化效果，以淡橘色和奶油色为主色调，柔和的边缘光，清晰可爱的角色细节，诱人的蛋糕质感，无多余人物，无水印。
+
+[English]
+Create a warm, cute, highly polished anime-style café illustration of an extremely round golden-and-white hamster sitting on a wooden table and eating fluffy chiffon cake. The hamster is the central subject, oversized and plush, with glossy black eyes, small rounded ears, a pink nose, tiny paws holding one cube of sponge cake, soft white whiskers, and orange-brown fur patches over a creamy white belly. In front of it is a white plate holding exactly 4 food items: one large upright slice of golden chiffon cake, one swirl of whipped cream, one whole red strawberry with green leaves, and scattered cake crumbs. The setting is a cozy morning patisserie with golden sunlight streaming through a window on the left, soft depth of field, creamy beige walls, warm highlights, and a dreamy wholesome mood. Add a pale pink café mug on the lower left printed with a simple hamster-face logo and the text “SORA City Patisserie.” Add a small glass vase of daisies and tiny pink flowers on the left. In the background on the right, include a chalkboard sign with the large text “SORA,” the subtitle “City Patisserie,” and the handwritten English lines “Good morning!” and “Have a sweet day” with small heart doodles. Also show a cake stand with a strawberry-topped cake under a glass dome and a softly blurred pastry display shelf. Overlay large handwritten Japanese text near the upper left reading {argument name="morning greeting" default="おはよう"}, in thick rounded brown lettering with a white outline. Add exactly 3 decorative doodles around the greeting: one smiling sun near the top center, one small peach heart beneath it, and one orange outlined heart on the left. On the lower right, place a small standing menu card with Japanese text reading “ふわふわ シフォンケーキ ♡ おすすめ!” with tiny floral decorations. Use a square composition, soft bokeh, pastel orange and cream color palette, gentle rim lighting, crisp adorable character detail, appetizing cake texture, no extra characters, no watermark.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2068930159290581502) | 2026-06-22
+
+---
+
+### 🎨 例 2211：水彩时尚插画美学
+
+![水彩时尚插画美学](../../images/%E6%B0%B4%E5%BD%A9%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张绘制在纹理冷压纸上的精致水彩时尚插画。一位 {argument name="subject" default="留着浅棕色长发的年轻女性"} 闭着双眼静静地坐着，倚靠在 {argument name="background element" default="粗壮树干"} 的根部。她身穿 {argument name="outfit" default="米色长款风衣，内搭奶油色针织毛衣，下着绿色、灰色和酒红色调的格纹中长裙，脚蹬浅灰色短靴"}。她的姿态放松而优雅，双腿交叠，一只手放在膝盖上，另一只手自然地垂在身侧。
+她身旁的草地上放着一个带有极简文字设计的淡粉色购物袋。树干在背景中心垂直向上延伸。她的脚边环绕着柔和的草丛。整体构图极简，留白充裕。
+风格：手绘水彩插画、柔和晕染、半透明颜料、细腻的墨水勾线、时尚草图美学、柔和阴影、低饱和度大地色调、梦幻氛围、女性优雅、日系文具艺术风格、高细节、可见水彩纸纹理、干净背景、编辑类插画。
+光影：柔和的漫射日光，平静祥和的氛围。
+相机/构图：全身肖像，居中构图，略微拉远，竖构图作品。
+
+[English]
+A delicate watercolor fashion illustration on textured cold-press paper. A {argument name="subject" default="young woman with long light-brown hair"} sits peacefully with her eyes closed, leaning against the base of a {argument name="background element" default="large tree trunk"}. She wears a {argument name="outfit" default="long beige trench coat over a cream knit sweater, a plaid midi skirt in muted green, gray, and burgundy tones, and light gray ankle boots"}. Her posture is relaxed and elegant, one leg crossed over the other, one hand resting on her lap and the other loosely beside her.
+Next to her on the grass is a small pastel pink shopping bag with minimal typography. The tree trunk rises vertically behind her, occupying the center background. Soft patches of grass surround her feet. The overall composition is minimalist with ample negative space.
+Style: hand-painted watercolor illustration, soft washes, translucent pigments, subtle ink sketch lines, fashion sketch aesthetic, gentle shadows, muted earth-tone palette, dreamy atmosphere, feminine elegance, Japanese stationery art style, high detail, watercolor paper texture visible, clean background, editorial illustration.
+Lighting: soft diffused daylight, calm and serene mood.
+Camera/composition: full-body portrait, centered composition, slightly zoomed out, vertical artwork.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2068924288397373515) | 2026-06-22
+
+---
+
+### 🎨 例 2225：水花飞溅时尚合成图
+
+![水花飞溅时尚合成图](../../images/%E6%B0%B4%E8%8A%B1%E9%A3%9E%E6%BA%85%E6%97%B6%E5%B0%9A%E5%90%88%E6%88%90%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 8K 超写实垂直时尚合成图，主角为 {argument name="character name" default="一位年轻女性"}，拥有 {argument name="hair color and style" default="深棕色波浪卷发，梳成凌乱的松散发髻，带有几缕碎发"}，白皙透亮的肌肤，自然妆容，粉色哑光唇妆，以及光泽感指甲。构图展示了同一位女性的 2 个版本：1 个大型特写肖像占据左侧及背景中心（从胸部到头顶），以及 1 个全身人像站在右侧前景。两张面部均被平滑的肤色矩形隐私遮挡块刻意遮盖，边缘柔和，呈现出类似审查的视觉效果。她穿着 4 件主要服装：一件 {argument name="shirt color" default="翡翠蓝缎面衬衫"}，带有领子和开放式领口，搭配修身黑色九分裤、白色厚底运动鞋，指甲光泽细腻；全身人像的一只手插在裤兜里，另一只手自然垂在身侧。将她置于右下角的圆形漂浮木质平台上，平台可见木板纹理及深色湿润质感。主体周围环绕着动态的透明蓝色水花和水滴：全身人像的头部和肩部后方有巨大的浪花，画面下方中心处有横跨大特写肖像的翻涌波浪，周围散布着细小的水滴。采用干净的浅蓝色摄影棚背景，清晰的商业灯光，高对比度，逼真的织物纹理，锐利的水体折射，精致的编辑类时尚摄影风格，无文字，无 Logo，无多余人物。
+
+[English]
+Create an 8K ultra-realistic vertical fashion composite of {argument name="character name" default="a young woman"} with {argument name="hair color and style" default="dark-brown wavy hair in a messy loose bun with stray strands"}, fair glowing skin, natural makeup, pink matte lips, and glossy nails. The composition shows exactly 2 versions of the same woman: 1 large close-up portrait filling the left and center background from chest to top of head, and 1 full-body figure standing in the right foreground. Both faces are intentionally covered by smooth rectangular skin-tone privacy blocks with soft edges, matching the image’s censor-like look. She wears exactly 4 main outfit pieces: an {argument name="shirt color" default="emerald-blue satin button-up shirt"} with collar and open neckline, fitted black ankle-length pants, white platform sneakers, and subtle glossy nails; the full-body figure has one hand in a pants pocket and the other relaxed at her side. Place her on a circular floating wooden platform at the bottom right, with visible planks and dark wet texture. Surround the subject with dynamic transparent blue water splashes and droplets: a large cresting splash behind the full-body figure’s head and shoulders, a sweeping wave across the lower center over the large portrait, and smaller droplets scattered throughout. Use a clean light-blue studio background, crisp commercial lighting, high contrast, realistic fabric texture, sharp water refraction, polished editorial fashion photography, no text, no logos, no extra people.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2068863912074940649) | 2026-06-22
+
+---
+
