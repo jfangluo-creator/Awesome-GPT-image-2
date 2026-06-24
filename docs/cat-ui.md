@@ -4326,3 +4326,103 @@ Create a simple black-and-white hand-drawn line art illustration on a clean whit
 
 ---
 
+### 🖥️ 例 2227：Rakuten Happy Bag 横幅对比图
+
+![Rakuten Happy Bag 横幅对比图](../../images/Rakuten%20Happy%20Bag%20%E6%A8%AA%E5%B9%85%E5%AF%B9%E6%AF%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张宽幅对比图，展示针对现代日本护肤品牌 {argument name="brand name" default="NOBUNOSUKE"} 的三款并排日本美容精华促销横幅变体，用于宣传 Rakuten Happy Bag 促销活动。
+
+画布：水平三联式对比布局，尺寸约为 1200×500 像素。顶部添加一条黑色标题栏，在每个面板上方居中放置三个白色小写标签：共 3 个标签，从左到右依次为“low”、“medium”、“high”。标题栏下方，将图像精确划分为 3 个等宽的垂直横幅面板，面板间以细深色间隙隔开。
+
+整体视觉风格：面向 30–40 岁女性的奢华日本现代化妆品广告。使用象牙白、深朱红、哑光金、暖米色和精致黑色点缀的优雅配色。背景应呈现出带有金箔、波浪纹、红色圆形图案、折扇、梅花、水引绳结装饰的高级和纸质感，底部带有光泽的水面反射效果。排版应将大型优雅的衬线英文字体与精致的小号日文文案相结合。
+
+每个面板中必须重复的元素：顶部附近 1 个品牌 Logo，1 个醒目的“HAPPY BAG”大标题，1 个写有“楽天限定”的红色圆形 Rakuten 专属徽章，1 个显示 {argument name="discount text" default="20%OFF"} 的折扣优惠，以及 1 个展示护肤精华液包装的主产品。
+
+面板 1（标记为 low）：构图采用奶油色与红色调，产品右侧背景为一个巨大的红色圆日。品牌 Logo 和小号日文品牌文字置于顶部中央，左侧为金色大号“HAPPY BAG”标题，右上角附近为红色“楽天限定”徽章，产品组合包含 2 件物品：一个带金色瓶盖和白色标签的琥珀色玻璃滴管精华瓶，以及旁边的一个高款白色产品盒。在产品周围添加白色梅花和半开的金色折扇。标题下方添加日文文案，在巨大的红色“20% OFF”上方添加一个写有“今だけ”的小号红色标签。底部放置一条红色页脚栏，带有白色小号日文文字，说明数量有限，售完即止。
+
+面板 2（标记为 medium）：构图采用更简洁的象牙白横幅，左下角和右侧带有红色弧形纸张形状、金箔、花卉图案，右上角配有一把红色折扇。品牌 Logo 置于顶部中央，深红色大号“HAPPY BAG”标题居中偏左，右上角为红色“楽天限定”徽章。右侧居中展示 4 件产品：两个带金色瓶盖的高款圆柱形瓶子，一个带泵头/滴管造型的较短精华瓶，以及其后方一个带有红色水引绳结装饰的白色长方形盒子。左下角添加折扣区，包含小号垂直日文“最大”和巨大的“20% OFF”。底部中央附近添加两行小号日文季节性美容文案。
+
+面板 3（标记为 high）：构图采用更具奢华感的深色调，奶油色背景，产品后方为红金相间的笔触弧线，右侧配有红色折扇和梅花，底部为水面反射效果。品牌 Logo 置于左上角，标题上方有一个金色蝴蝶结/水引装饰，左侧为红色大号“HAPPY BAG”标题。右上角添加红色圆形“楽天限定”徽章。右侧居中展示 2 件产品：一个带金色瓶盖和深色标签的黑色玻璃滴管精华瓶，以及旁边的一个高款白色产品盒。标题下方添加日文文案，在巨大的金红色圆形折扣区旁添加一个写有“特別価格”的垂直红色标签，显示“20% OFF”，底部为深红色页脚栏，带有白色小号日文文字，说明数量有限，售完即止。
+
+约束条件：保持三个面板视觉相似但不完全相同，如同对比同一提示词生成的低、中、高质量输出。保持清晰的高级产品广告构图、可读的主标题英文、逼真的化妆品包装、精致的日式装饰，且不要添加额外的面板或水印。
+
+[English]
+Goal: Create a wide comparison image showing three side-by-side Japanese beauty serum promotional banner variants for the modern Japanese skincare brand {argument name="brand name" default="NOBUNOSUKE"}, advertising a Rakuten Happy Bag sale.
+
+Canvas: Horizontal 3-panel comparison layout, approximately 1200×500 px. Add a black header strip across the top with three white lowercase labels centered over each panel: exactly 3 labels, left to right: “low”, “medium”, “high”. Below the header, divide the image into exactly 3 equal vertical banner panels separated by thin dark gaps.
+
+Overall visual style: Luxurious Japanese modern cosmetics advertising for women in their 30s–40s. Use an elegant palette of ivory, deep vermilion red, muted gold, warm beige, and subtle black accents. Backgrounds should feel like premium washi paper with gold flecks, wave patterns, red circular motifs, folding fans, plum blossoms, mizuhiki cord ornaments, and glossy water reflections at the bottom. Typography should mix large elegant serif English lettering with small refined Japanese copy.
+
+Required repeated elements in every panel: exactly 1 brand logo near the top, exactly 1 large “HAPPY BAG” headline, exactly 1 red circular Rakuten-limited badge reading “楽天限定”, exactly 1 discount offer showing {argument name="discount text" default="20%OFF"}, and exactly 1 main product display with skincare serum packaging.
+
+Panel 1, labeled low: Compose a cream-and-red banner with a large red sun circle behind the product on the right. Place the brand logo and small Japanese brand text at top center, a large gold “HAPPY BAG” headline on the left, a red “楽天限定” badge near the upper right, and a product set consisting of exactly 2 items: one amber glass dropper serum bottle with gold cap and white label, and one tall white product box beside it. Add white plum blossoms and a partially open gold folding fan around the product. Add Japanese copy under the headline, then a small red tag reading “今だけ” above a large red “20% OFF”. Put a red footer strip along the bottom with small white Japanese text indicating limited quantity and sale ending when sold out.
+
+Panel 2, labeled medium: Compose a cleaner ivory banner with red curved paper shapes at the left bottom and right side, gold flecks, floral motifs, and a red folding fan in the upper right. Place the brand logo at top center, large dark red “HAPPY BAG” headline centered-left, and a red “楽天限定” badge at the upper right. Show exactly 4 product items centered-right: two tall cylindrical bottles with gold caps, one shorter serum bottle with pump/dropper styling, and one white rectangular box behind them with a red mizuhiki cord decoration. Add a discount block at lower left reading small vertical Japanese text “最大” and large “20% OFF”. Add two lines of small Japanese seasonal beauty copy near the bottom center.
+
+Panel 3, labeled high: Compose a deeper luxury banner with cream background, red-and-gold arch brushstroke behind the product, red fan and plum blossoms on the right, and reflective water at the bottom. Place the brand logo at upper left, a small gold bow/mizuhiki motif above the headline, and a large red “HAPPY BAG” headline on the left. Add a red circular “楽天限定” badge at upper right. Show exactly 2 product items on the right-center: one black glass dropper serum bottle with gold cap and dark label, and one tall white product box beside it. Add small Japanese copy under the headline, a vertical red tag reading “特別価格” next to a large gold-red circular discount area showing “20% OFF”, and a dark red footer strip with small white Japanese text about limited quantity and sale ending when sold out.
+
+Constraints: Keep all three panels visually similar but not identical, as if comparing low, medium, and high quality outputs of the same prompt. Maintain crisp premium product-ad composition, readable main English text, realistic cosmetic packaging, refined Japanese ornamentation, and no extra panels or watermarks.
+```
+
+**来源：** [@nobunosuke](https://x.com/nobunosuke_hori/status/2069564094404080056) | 2026-06-23
+
+---
+
+### 🖥️ 例 2229：优雅甜品店和服男子
+
+![优雅甜品店和服男子](../../images/%E4%BC%98%E9%9B%85%E7%94%9C%E5%93%81%E5%BA%97%E5%92%8C%E6%9C%8D%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身竖构图的动漫风格插画，主角是 {argument name="character name" default="F"}，一位身材高挑、气质优雅的年轻男子，正站在安静街道上一家精致的日式西式甜品店前。他留着长长的波浪形 {argument name="hair color" default="白金色"} 头发，在肩侧扎成一个低马尾，皮肤白皙，面部被一个简洁的浅灰色正方形遮挡。他姿态端庄地站立，双手交叠于腰间，握着一把合上的黑色折扇。他的服饰由 8 个明显的部件组成：1 件带有淡紫色紫藤花刺绣的白色长款羽织，1 件黑色叠层和服式内袍，1 件黑色正式马甲，1 件领口带有淡薰衣草色高领或领巾细节的衬衫，1 条带有银色装饰扣的深色花纹腰带，1 条黑色长款褶皱袴，1 双修身的黑色手套，以及 1 双亮面黑色系带皮靴。羽织内衬应呈现微妙的薰衣草色调，整体色调为白色、黑色、银色和柔和的紫色。背景设定在 {argument name="shop type" default="一家传统日式点心咖啡馆"} 外，店面为深色木质结构，配有玻璃门、温暖的挂灯、右侧的白色门帘以及石板路。背景中包含 5 个显著元素：左侧 1 盏复古街灯，1 处盛开的紫藤花花架或花盆，1 块写有日文 {argument name="shop sign text" default="紫藤亭\n洋菓子\n喫茶"} 的竖式招牌，1 扇透出温暖灯光的深色木门，以及地面上散落的紫色花瓣。采用电影感的清晨或傍晚柔光，浅景深效果，优雅的乙女游戏角色画风，细腻的布料质感，构图优美，高分辨率，且画面中不包含其他额外角色。
+
+[English]
+Create a full-body vertical anime-style illustration of {argument name="character name" default="F"}, a tall elegant young man standing in front of a refined Japanese-Western pastry shop on a quiet street. He has long wavy {argument name="hair color" default="platinum blond"} hair tied into a low side ponytail over one shoulder, pale skin, and an intentionally obscured face covered by a plain soft gray square. He stands calmly with a dignified posture, hands folded at his waist, holding a closed black folding fan. His outfit has exactly 8 visible main pieces: 1 white long haori coat with delicate pale purple wisteria and floral embroidery, 1 black layered kimono-style inner robe, 1 black formal vest, 1 pale lavender high-collar shirt or cravat detail at the neck, 1 dark patterned obi belt with a silver ornamental clasp, 1 long black pleated hakama skirt-trouser, 1 pair of fitted black gloves, and 1 pair of glossy black lace-up dress boots. The coat lining should show subtle lavender accents, and the overall palette should be white, black, silver, and soft purple. Set him outside {argument name="shop type" default="a traditional Japanese confectionery and café"} with a dark wooden storefront, glass door, warm hanging lanterns, a white entrance curtain on the right, and stone pavement. Include exactly 5 notable background elements: 1 vintage streetlamp on the left, 1 planter or trellis of blooming purple wisteria, 1 vertical shop sign bearing the Japanese text {argument name="shop sign text" default="紫藤亭\n洋菓子\n喫茶"}, 1 dark wood doorway with glowing interior lamps, and scattered purple flower petals on the ground. Use cinematic soft morning or late-afternoon lighting, shallow depth of field, elegant otome-game character art, fine fabric detail, graceful composition, high resolution, and no extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2069553898340438123) | 2026-06-23
+
+---
+
+### 🖥️ 例 2236：时尚大片超现实花卉人像
+
+![时尚大片超现实花卉人像](../../images/%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%8A%B1%E5%8D%89%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级真实感高定时尚大片，垂直比例 4:5。一位 {argument name="subject" default="年轻时尚模特"} 沉静地坐在 {argument name="location" default="一朵巨大粉色花朵的中心"}，花朵生长在云层之上，花茎从下方升起并消失在柔软的白云中。采用略微仰视的低角度视角，花朵环绕画面，使花朵显得宏大且超现实。模特身穿 {argument name="clothing" default="短袖挺括廓形白衬衫，宽松浅色长裤"}，佩戴银饰，穿着黑色极简凉鞋。自然的棕色长发在风中轻柔飘动，神情从容，带着淡淡的微笑。清澈明亮的蓝天，几朵柔软的白云，巨大的细节花瓣，明亮的自然日光，色彩鲜艳清晰，充满趣味的超现实时尚广告氛围，逼真的解剖结构，自然的手部细节，锐利的时尚摄影，无文字，无 Logo --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+
+[English]
+Photorealistic high-fashion editorial image, vertical 4:5. A {argument name="subject" default="young adult fashion model"} sitting calmly on the {argument name="location" default="center of one enormous pink flower"} growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a {argument name="clothing" default="short sleeve crisp oversized white shirt, loose light trousers"}, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2069471846890959183) | 2026-06-23
+
+---
+
+### 🖥️ 例 2280：废墟大教堂中的战斗女仆
+
+![废墟大教堂中的战斗女仆](../../images/%E5%BA%9F%E5%A2%9F%E5%A4%A7%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E6%88%98%E6%96%97%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的垂直动漫奇幻动作插图，画面中有一位女性角色，{argument name="character name" default="一位白发战斗女仆"}，正冲过一座破败的哥特式大教堂。她拥有飘逸的 {argument name="hair color" default="银白色"} 长发，刘海间隐约可见一只闪烁的深红色眼睛，带着狂野自信的笑容，皮肤苍白，身穿黑白女仆装，并与肩部、手臂和躯干上的深色板甲融为一体。她的裙摆和围裙破损并在风中飘动。她紧握着一把巨大的未来感长柄武器：一根长长的黑色金属杆，末端是一个巨大的圆形斧状机械刀片，带有分层铬合金面板、裸露的齿轮、中央金色透镜核心、蓝色电光高光和细微的红色能量点缀。武器以极端的透视效果占据了从底部中心向上的前景，砸向石质地面并激起碎石。将角色置于武器的上方和后方，身体前倾，呈现出挥舞过程中的进攻姿态。背景是高耸的大教堂内部，有高大的尖拱、断裂的柱子、苍白的石墙、高窗、尘埃、烟雾和冷冽的日光束。采用动态低角度构图，超精细的绘画风动漫渲染，锐利的金属反射，飞溅的瓦砾，破碎的地砖，蓝白色的火花，撞击点附近的微弱红光，高对比度照明，碎片中的动态模糊，以及以白色、灰色、黑色、钢蓝色为主，并带有深红色点缀的冷色调调色板。画布应为细长型，{argument name="aspect ratio" default="9:16"}，电影感，高度精细，无文字，无水印，无额外角色。
+
+[English]
+Create a dramatic vertical anime fantasy action illustration of one female character, {argument name="character name" default="a white-haired battle maid"}, charging through a ruined gothic cathedral. She has wild flowing {argument name="hair color" default="silver-white"} hair, one glowing crimson eye visible through sweeping bangs, a manic confident grin, pale skin, and a black-and-white maid dress fused with dark plate armor on the shoulders, arms, and torso. Her skirt and apron are torn and whipping in the wind. She grips one enormous futuristic polearm weapon: a long black metal shaft ending in a gigantic circular axe-like mechanical blade with layered chrome panels, exposed gears, a central golden lens core, blue electric highlights, and thin red energy accents. The weapon dominates the foreground from bottom center upward in extreme perspective, smashing into the stone floor and sending chunks of masonry outward. Place the character above and behind the weapon, leaning forward aggressively as if mid-swing. The background is a towering cathedral interior with tall pointed arches, broken columns, pale stone walls, high windows, dust, smoke, and shafts of cold daylight. Use a dynamic low-angle composition, ultra-detailed painterly anime rendering, sharp metallic reflections, flying rubble, shattered floor tiles, blue-white sparks, small red glows near the impact, high contrast lighting, motion blur in the debris, and a cool monochrome palette of whites, grays, blacks, steel blue, with crimson accents. Canvas should be tall and narrow, {argument name="aspect ratio" default="9:16"}, cinematic, highly polished, no text, no watermark, no extra characters.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2069256630277984423) | 2026-06-23
+
+---
+

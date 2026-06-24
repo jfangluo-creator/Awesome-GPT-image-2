@@ -10195,3 +10195,263 @@ Use the reference photo while keeping the face completely unchanged and identica
 
 ---
 
+### 🎴 例 2241：StarKidz 科学海报
+
+![StarKidz 科学海报](../../images/StarKidz%20%E7%A7%91%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张梦幻的科学广告海报。一位 {argument name="subject" default="10 岁的好奇小男孩"} 身穿 NASA T 恤，正满怀惊叹地站在一台比他高 3 倍的巨大闪亮银色望远镜旁，望向头顶壮丽的星系景观，望远镜镜身上用发光的白色字体写着 "{argument name="brand name" default="STARKIDZ"}"。深邃的太空背景中点缀着银河系色彩斑斓的星云和流星。背景中充满发光的宇宙风格字体 "{argument name="brand name" default="STARKIDZ"}"（白色与蓝色）。底部标语："{argument name="tagline" default="探索宇宙。"}"。右上角小字写着 "Designed with GPT Image 2"（灰色）。照片级真实感，梦幻的儿童科学产品广告，戏剧性的深空星系光影。
+
+[English]
+A magical science advertisement poster. A {argument name="subject" default="curious young boy age 10"} in a NASA tshirt gazes up in total wonder beside a giant shiny silver telescope 3x his height pointed toward a breathtaking galaxy view above, "{argument name="brand name" default="STARKIDZ"}" written in glowing white font on the telescope body. Deep dark space background with milky way galaxy colorful nebula clouds and shooting stars. Glowing cosmic typography "{argument name="brand name" default="STARKIDZ"}" in white and blue filling the background. Tagline bottom: "{argument name="tagline" default="Explore the universe."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, magical kids science product commercial, dramatic deep space galaxy lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2069448983651787177) | 2026-06-23
+
+---
+
+### 🎴 例 2246：未来感 X-07 动漫角色海报
+
+![未来感 X-07 动漫角色海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20X-07%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的未来感动漫主视觉图，采用 16:9 宽屏比例。展示一位中性化的年轻男性动漫角色，{argument name="character name" default="X-07"}，以四分之三侧身特写姿势略微向左，皮肤白皙，拥有冷灰蓝色双眼，表情冷静严肃，凌乱的层次感 {argument name="hair color" default="silver-white"} 发型，长刘海遮住部分眼睛。他身穿挺括的白衬衫，外搭一件带有高领且具光泽感的黑色超大号机能风夹克，夹克呈现微妙的蓝紫色反光；抬起的左手上戴着黑色露指手套，佩戴细项链、手链和小型耳钉。他抬起的手悬浮在发光的蓝白色能量球旁。背景为明亮的纯白色，极简风格，点缀着青色科幻 UI 图形：他身后左侧有一个巨大的做旧青绿色字母 X，左下方有一个水平的品红渐变至蓝色的条形码状色带，右上角有一个小型标签，上面写着 “{argument name="project label" default="X-07"}”，下方标注 “PROJECT” 及条形码，角色袖口有一个小型全息界面面板，显示青色 X 和细小的乱码数据线，构图中穿插着细密的青色点状引导线。采用高细节的日式动漫插画风格，细腻的线条，明亮的赛璐珞上色，柔和的渐变，锐利的面部渲染，光泽感的织物高光，以及以青色/蓝色/白色为主、点缀少量品红的冷色调配色。保持构图如科幻角色海报般精致，无多余角色，无水印，背景不杂乱。
+
+[English]
+Create a clean futuristic anime key visual in a wide 16:9 canvas. Show one androgynous young male anime character, {argument name="character name" default="X-07"}, in a close-up three-quarter pose facing slightly left, with pale skin, cool gray-blue eyes, a calm serious expression, and messy layered {argument name="hair color" default="silver-white"} hair with long bangs partially covering one eye. He wears a crisp white shirt under a glossy oversized black techwear jacket with a high collar and subtle blue-purple reflections, plus a black fingerless glove on the raised left hand, a thin necklace, bracelet, and small ear piercings. His raised hand hovers near a glowing blue-white circular energy orb. The background is bright white and minimal, filled with cyan sci-fi UI graphics: exactly 1 huge distressed turquoise letter X behind him on the left, exactly 1 horizontal magenta-to-blue barcode-like color strip near the lower left, exactly 1 small top-right label reading “{argument name="project label" default="X-07"}” with “PROJECT” below it and a barcode underneath, exactly 1 small holographic interface panel on the character’s sleeve with a cyan X and tiny unreadable data lines, and fine dotted cyan guide lines crossing the composition. Use high-detail Japanese anime illustration style, delicate line art, luminous cel shading, soft gradients, sharp facial rendering, glossy fabric highlights, and a cool cyan/blue/white color palette with small magenta accents. Keep the composition polished like a sci-fi character poster, no extra characters, no watermark, no cluttered background.
+```
+
+**来源：** [@Eternity丶](https://x.com/Eternity_210707/status/2069427138756059547) | 2026-06-23
+
+---
+
+### 🎴 例 2265：余晖记忆肖像海报
+
+![余晖记忆肖像海报](../../images/%E4%BD%99%E6%99%96%E8%AE%B0%E5%BF%86%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的时尚肖像海报，展现凌晨 2 点一位年轻女性的形象，氛围忧郁，无需言语即可溢出情感。画面为半身像，她靠在质感墙面上，身体微微侧转，露出一侧肩膀，长而凌乱的波浪卷发 {argument name="hair color" default="黑色"} 垂落在肩头，身着深色半透明露肩薄纱或欧根纱裹身裙。她的双臂轻轻交叉在躯干前，双手可见于画面下方中央，传达出孤独、微醺的柔软感、失焦感以及未寄出的思念。运用戏剧性的深夜霓虹灯光：左上方投射出温暖的红橙色光芒，右侧为深紫和靛蓝色的阴影，左下方及裙摆处有电光蓝色的溢光，墙上投射出她轮廓分明且边缘柔和的阴影。面部应保持自然且具辨识度，不过度美化，不显塑料感，呈现真实的皮肤纹理和细腻的情绪。垂直 4:5 画幅，紧凑构图，高定杂志封面排版，带有胶片颗粒感、轻微模糊、色差、细微划痕、微小故障痕迹以及梦幻般的夜间氛围。添加 5 个清晰可见的文字元素，采用精致的浅粉色/白色排版：1) 左上方的一首小诗，内容为“the echo of us / is still / living here / —”；2) 左下方的大号优雅纤细衬线体主标题，内容为“{argument name="main title" default="AFTERGLOW MEMORY"}”；3) 其下方斜体且字间距拉开的副标题，内容为“{argument name="subtitle" default="you stayed in my mind ///"}”；4) 左下方的一则小注，内容为“I replay our / hands almost / touching / again / —”；5) 右侧的一则小注，内容为“glass hearts / don’t break / they fade / —”。在底部中央添加一行模糊的微型文字，内容为“it’s not over / just in the afterglow”。保持所有排版与忧郁的专辑封面式海报融为一体，不要添加任何标志或水印。
+
+[English]
+Create a cinematic editorial fashion portrait poster of a young woman at 2 a.m., moody and emotionally overflowing without speaking. She is shown from the waist up, leaning against a textured wall, body turned slightly sideways with one bare shoulder exposed, long messy wavy {argument name="hair color" default="black"} hair falling over her shoulders, wearing a dark translucent off-shoulder tulle or organza wrap dress. Her arms are folded gently across her torso, hands visible near the lower center, conveying loneliness, tipsy softness, defocus, and unsent longing. Use dramatic neon after-hours lighting: warm red-orange glow from the upper left, deep violet and indigo shadows on the right, electric blue spill across the lower left and the dress, with a strong soft-edged shadow of her profile cast on the wall. The face should remain natural and recognizable, not over-beautified, not plastic, with realistic skin texture and subtle emotion. Vertical 4:5 canvas, close crop, high-fashion magazine cover composition, grainy film texture, slight blur, chromatic aberration, faint scratches, tiny glitch marks, and dreamy nocturnal atmosphere. Add exactly 5 visible text elements in delicate pale pink/white typography: 1) a small upper-left poem reading “the echo of us / is still / living here / —”; 2) the main title in large elegant thin serif uppercase near the lower left reading “{argument name="main title" default="AFTERGLOW MEMORY"}”; 3) an italic spaced subtitle below it reading “{argument name="subtitle" default="you stayed in my mind ///"}”; 4) a small lower-left note reading “I replay our / hands almost / touching / again / —”; 5) a small right-side note reading “glass hearts / don’t break / they fade / —”. Add faint microtext near the bottom center reading “it’s not over / just in the afterglow”. Keep all typography integrated like a melancholy album-cover poster, with no logos or watermark.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2069304782486155361) | 2026-06-23
+
+---
+
+### 🎴 例 2266：意式乡村风味食品广告
+
+![意式乡村风味食品广告](../../images/%E6%84%8F%E5%BC%8F%E4%B9%A1%E6%9D%91%E9%A3%8E%E5%91%B3%E9%A3%9F%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张温暖的 {argument name="product" default="意式番茄酱"} 广告海报。一位面带微笑的意大利老奶奶穿着经典的红色围裙，自豪地拿着一把木勺，勺上滴落着浓郁的番茄酱；她身旁立着一个比她高出 3 倍的高端番茄酱大罐，罐身印有复古的意大利乡村插画、成熟的阳光番茄、橄榄枝以及托斯卡纳连绵起伏的丘陵。罐身上用优雅的红金双色斜体字写着 "{argument name="brand name" default="BELLA SALSA"}"。
+
+背景为温暖的意式乡村厨房，挂着大蒜辫、干草药，摆放着铜锅、柳条篮里的新鲜番茄、木质搁板和纹理感十足的砖墙。浓郁的地中海风情，金色的午后阳光透过农舍窗户洒入室内。
+
+背景中填充着巨大的经典暖色衬线字体 "{argument name="brand name" default="BELLA SALSA"}"（红金配色），与质朴的环境融为一体。深红色的番茄色调、温暖的泥土色系，以及贯穿整个构图的高端手工食品品牌质感。
+
+底部标语："Made with amore."
+
+右上角的小字写着："Designed with GPT Image 2"，呈低调的灰色。
+
+照片级真实感，地道的意大利美食生活方式社论，高端美食广告活动，温暖的乡村厨房灯光，超精细食品摄影，电影级构图，奢华包装设计，杂志级商业海报，高度逼真的纹理，诱人且开胃的氛围，8K 分辨率，专业食品品牌推广。
+
+[English]
+A warm {argument name="product" default="Italian tomato sauce"} advertisement poster. A cheerful Italian grandmother in a classic red apron proudly holds a wooden spoon dripping with rich tomato sauce beside a giant premium tomato sauce jar 3x her height, featuring vintage Italian countryside illustrations, ripe sun-kissed tomatoes, olive branches, and rolling Tuscan hills on the label. "{argument name="brand name" default="BELLA SALSA"}" written in elegant red and gold italic font across the jar.
+
+Warm rustic Italian kitchen background with hanging garlic braids, dried herbs, copper pots, fresh tomatoes in wicker baskets, wooden shelves, and textured brick walls. Rich Mediterranean atmosphere with golden afternoon sunlight streaming through a farmhouse window.
+
+Large classic warm serif typography "{argument name="brand name" default="BELLA SALSA"}" in red and gold fills the background, blending seamlessly into the rustic setting. Deep red tomato tones, warm earthy colors, and premium artisanal food branding throughout the composition.
+
+Tagline at the bottom: "Made with amore."
+
+Small text in the top-right corner reads: "Designed with GPT Image 2" in subtle grey.
+
+Photorealistic, authentic Italian food lifestyle editorial, premium gourmet advertising campaign, warm rustic kitchen lighting, ultra-detailed food photography, cinematic composition, luxury packaging design, magazine-quality commercial poster, highly realistic textures, inviting and appetizing atmosphere, 8K resolution, professional food branding.
+```
+
+**来源：** [@AI Enthu](https://x.com/v_garg_s/status/2069296383249785016) | 2026-06-23
+
+---
+
+### 🎴 例 2272：意大利美食广告海报
+
+![意大利美食广告海报](../../images/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张温馨的意大利美食广告海报。一位穿着经典红色围裙、笑容满面的意大利祖母正在空中抛洒 {argument name="pasta type" default="新鲜面食"}，她身旁是一个高度是她 3 倍的优质面食巨型包装盒，包装上印有复古的意大利乡村插画，盒子上用经典的红金斜体字写着 "{argument name="brand name" default="BELLA PASTA"}"。背景是温馨的乡村风格意大利厨房，挂着干香草、铜锅和砖墙。背景中填充着经典的红金配色衬线字体 "{argument name="brand name" default="BELLA PASTA"}"。底部标语："{argument name="tagline" default="Made with amore."}"。右上角的小字写着 "Designed with GPT Image 2"，颜色为灰色。照片级真实感，地道的意大利美食生活方式社论风格，温暖的乡村厨房光影。
+
+[English]
+A warm Italian food advertisement poster. A cheerful Italian grandmother in a classic red apron tosses {argument name="pasta type" default="fresh pasta"} in the air beside a giant premium pasta box 3x her height with vintage Italian countryside illustrations on the packaging, "{argument name="brand name" default="BELLA PASTA"}" written in classic red and gold italic font on the box. Warm rustic Italian kitchen background with hanging dried herbs copper pots and brick walls. Classic warm serif typography "{argument name="brand name" default="BELLA PASTA"}" in red and gold filling the background. Tagline bottom: "{argument name="tagline" default="Made with amore."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, authentic Italian food lifestyle editorial, warm rustic kitchen lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2069270467316470119) | 2026-06-23
+
+---
+
+### 🎴 例 2273：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报
+
+![克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%20(Cristiano%20Ronaldo)%20%E8%83%B6%E5%8D%B0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="克里斯蒂亚诺·罗纳尔多"} 受胶印错误启发的现代体育海报。背景为纯白纸张。图像呈现出四次独立印刷的效果。
+青色层。洋红色层。黄色层。
+黑色层。
+
+每一层都经过刻意的几毫米偏移。最终效果产生了重影、色彩边缘和光学震动感。
+
+{argument name="subject name" default="罗纳尔多"} 的形象因印刷过程本身而产生重叠。一侧肩膀呈现青色。一只手臂呈现洋红色。一条腿呈现黄色。黑色层则起到稳固视觉的作用。
+
+画面既精准又带有破碎感。排版逻辑与之相同，每个字母都以四个轻微位移的版本呈现。即使海报静止不动，也能感受到强烈的视觉震动。
+
+艺术指导灵感源自瑞士印刷工作坊和实验性现代平面设计。错误本身即是美学。
+
+[English]
+{argument name="subject" default="Christiano Ronaldo"} Contemporary sports poster inspired by offset printing errors. Background pure white paper. The image appears printed four separate times.
+Cyan layer. Magenta layer. Yellow layer.
+Black layer.
+
+Each layer intentionally shifted several millimeters. The result creates ghost images. Color fringes. Optical vibration.
+
+{argument name="subject name" default="Ronaldo"} appears multiplied by the printing process itself. One shoulder appears in cyan. One arm in magenta. One leg in yellow. The black layer anchors reality.
+
+The image feels simultaneously precise and broken. Typography follows the same logic. Every letter exists in four slightly displaced versions. The poster vibrates even while perfectly still.
+
+Art direction inspired by Swiss printing workshops and experimental contemporary graphic design.The error becomes the aesthetic.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2069268695072047198) | 2026-06-23
+
+---
+
+### 🎴 例 2284：涂鸦风格混合媒体广告
+
+![涂鸦风格混合媒体广告](../../images/%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的产品图片作为参考，创作一张垂直格式的高级混合媒体广告海报。
+
+品牌信息
+品牌名称：{argument name="brand name" default="[BRAND_NAME]"}
+核心产品：{argument name="product" default="[HERO_PRODUCT]"}
+
+重要产品保留说明
+请完整保留上传产品的原始外观。
+
+风格
+高级广告宣传风格。明亮的灰白色摄影棚背景。极简构图。奢华商业摄影与趣味黑色马克笔涂鸦插画相结合。
+
+混合媒体概念
+真实的 {argument name="product" default="[HERO_PRODUCT]"} 成为场景的核心。手绘涂鸦角色以俏皮且富有想象力的方式与产品进行互动。
+
+场景
+将产品转化为：{argument name="theme" default="[GIANT_OBJECT_OR_THEME]"}
+
+微小的涂鸦角色正在攀爬、探索或庆祝。
+
+标题
+顶部采用醒目的手写马克笔字体。
+“[MAIN_HEADLINE]”
+
+促销贴纸
+创建一个色彩鲜艳的大型促销徽章。
+徽章文字：“[PROMO_TEXT]”
+
+[English]
+Create a premium mixed-media advertising poster in vertical format using the uploaded product image as the reference.
+
+BRAND INFORMATION
+Brand Name: {argument name="brand name" default="[BRAND_NAME]"}
+Hero Product: {argument name="product" default="[HERO_PRODUCT]"}
+
+IMPORTANT PRODUCT PRESERVATION
+Preserve the uploaded product exactly as shown.
+
+STYLE
+Premium advertising campaign. Bright off-white studio background. Minimalist composition. Luxury commercial photography combined with playful black-marker doodle illustrations.
+
+MIXED-MEDIA CONCEPT
+The real {argument name="product" default="[HERO_PRODUCT]"} becomes the centerpiece of the scene. Hand-drawn doodle characters interact with the product in a playful and imaginative way.
+
+SCENE
+Transform the product into: {argument name="theme" default="[GIANT_OBJECT_OR_THEME]"}
+
+Tiny doodle characters are climbing, exploring, or celebrating.
+
+HEADLINE
+Large handwritten marker typography at the top.
+"[MAIN_HEADLINE]"
+
+PROMO STICKER
+Create a large colorful promotional badge.
+Badge Text: "[PROMO_TEXT]"
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2069241566309605512) | 2026-06-23
+
+---
+
+### 🎴 例 2287：马卡龙色系动漫风夏日海滩拼贴画
+
+![马卡龙色系动漫风夏日海滩拼贴画](../../images/%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的马卡龙色系夏日动漫插画，主角为 {argument name="character name" default="一位时尚的年轻女性"}，展现俏皮的海滩度假氛围，采用动态海报构图，从背后视角呈现。
+
+画布：竖版 2:3 插画，全出血设计，柔和的高调照明，采用水蓝色、泡泡糖粉、奶油色、薰衣草紫和柠檬黄组成的轻盈马卡龙色调。运用细腻的线条、水彩风格的阴影、光泽感高光，以及可爱的 20 世纪 90 年代少女漫夏日美学。
+
+主体：角色位于画面中心，腰部以上，身体略微向左转，露出背部和肩膀。她留着 {argument name="hair color" default="深海军黑"} 色波浪卷发，扎成高马尾，系着一个巨大的粉色格子蝴蝶结。马尾附近点缀着小星星发夹。面部区域被一个居中的不透明方形遮挡块刻意遮盖，采用从柔和灰到浅粉色的垂直渐变，遮住五官。她抬起一只手调整头上的粉色边框太阳镜。她穿着一件带有浅蓝色波点、荷叶边肩带、露背剪裁且后腰系有蝴蝶结的白色荷叶边夏日上衣，搭配一条带有可见口袋和绿松石色腰带的粉色高腰裙。
+
+漂浮的夏日元素：包含 13 个精确的周围道具：左上角 1 副粉色边框太阳镜，左侧 1 根木棍上的绿松石色冰棒，右上角 1 个巨大的粉白相间救生圈，顶部附近 1 个黄色沙滩球，右侧 1 个蓝色螺旋贝壳，中右侧 1 片橙子，右下角 1 杯带有吸管和柠檬片的绿松石色柠檬水，右下角 1 个粉白相间沙滩球，左下角 1 个马卡龙条纹游泳圈，左下角 1 个粉色贝壳，左下角 1 个黄色海星，左下角 1 朵巨大的向日葵，以及向日葵附近 1 个粉色蝴蝶结。
+
+背景：用欢快的海滩图形拼贴填充背景：青色波浪图案、网格纸纹理、对角线马卡龙色形状、五彩纸屑圆点、小星星、抽象油漆溅点，以及从左上角伸入的几片棕榈叶。构图应显得饱满而平衡，如同装饰性的夏日明信片。
+
+文字：在右下角添加一个小的手写风格签名 {argument name="signature" default="Oyagi"}，并在其上方标注日期 {argument name="date" default="2026 年 6 月 23 日"}。
+
+约束：除自定义签名外，所有文字保持英文。禁止写实风格，禁止深色阴影，禁止出现额外人物，禁止添加额外的大号文字，除微小的签名/日期外禁止添加水印。确保面部遮挡方块准确覆盖在面部区域。
+
+[English]
+Goal: Create a bright pastel summer anime illustration of {argument name="character name" default="a stylish young woman"} enjoying a playful beach-vacation mood, viewed from behind in a dynamic poster composition.
+
+Canvas: Vertical 2:3 illustration, full-bleed, soft high-key lighting, airy pastel palette of aqua, bubblegum pink, cream, lavender, and lemon yellow. Use delicate line art, watercolor-like shading, glossy highlights, and a cute 1990s shoujo-anime summer aesthetic.
+
+Main subject: Center the character from hips upward, turned slightly to the left with her back and shoulder visible. She has {argument name="hair color" default="dark navy-black"} wavy hair in a high ponytail, tied with a large pink gingham bow. Add small star hair clips near the ponytail. Her face area is intentionally covered by a centered opaque square censor block with a muted gray-to-pale-pink vertical gradient, obscuring facial features. She raises one hand to adjust pink-framed sunglasses on her head. She wears a frilly sleeveless white summer top with pale blue polka dots, ruffled straps, an open-back cut, and a tied bow at the lower back, plus a high-waisted pink skirt with visible pockets and a turquoise belt.
+
+Floating summer objects: Include exactly 13 discrete surrounding props: 1 pink-framed sunglasses pair at upper left, 1 turquoise popsicle on a wooden stick at left, 1 large pink-and-white life preserver at upper right, 1 yellow beach ball near the top, 1 blue spiral seashell at right, 1 orange slice at mid-right, 1 tall turquoise lemonade glass with straw and lemon slice at lower right, 1 pink-and-white beach ball at bottom right, 1 pastel striped swim ring at bottom left, 1 pink seashell at lower left, 1 yellow starfish at lower left, 1 large sunflower at bottom left, and 1 pink bow near the sunflower.
+
+Background: Fill the backdrop with a cheerful collage of beach graphics: teal wave patterns, grid paper texture, diagonal pastel shapes, confetti dots, small stars, abstract paint splashes, and a few palm leaves entering from the top-left corner. The composition should feel packed but balanced, like a decorative summer postcard.
+
+Text: Add a small handwritten-style signature at the bottom right reading {argument name="signature" default="Oyagi"}, with the date {argument name="date" default="June 23, 2026"} just above it.
+
+Constraints: Keep everything in English except the signature if customized. No photorealism, no dark shadows, no extra people, no additional large text, no watermark beyond the tiny signature/date. Maintain the face-covering square exactly over the face area.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2069217860279468201) | 2026-06-23
+
+---
+

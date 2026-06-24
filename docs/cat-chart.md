@@ -2013,3 +2013,21 @@ A strategic command board for an expedition leader planning {argument name="miss
 
 ---
 
+### 📊 例 2238：皮克斯风格信息图故事板
+
+![皮克斯风格信息图故事板](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个清晰、简洁的信息图故事板海报，主题为 {argument name="title" default="THE DONUT MAKER"}。采用 16:9 宽屏布局，白色背景，黑色边框，粗体黑色排版，{argument name="style" default="高级皮克斯 3D 风格渲染"}，明亮鲜艳的色彩——金黄色的油炸面团，浓郁的巧克力
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="title" default="THE DONUT MAKER"}. Wide 16:9 layout, white background, black borders, bold black typography, {argument name="style" default="premium Pixar 3D stylized rendering"}, bright vivid colors — golden fried dough, rich chocolate
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2069463116291731475) | 2026-06-23
+
+---
+

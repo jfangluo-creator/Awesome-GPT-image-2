@@ -1834,3 +1834,119 @@ Transform the uploaded photo into a clean, minimalist semi-realistic digital ill
 
 ---
 
+### 🔧 例 2239：可爱单色涂鸦风格转换
+
+![可爱单色涂鸦风格转换](../../images/%E5%8F%AF%E7%88%B1%E5%8D%95%E8%89%B2%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的自拍转换为可爱的单色 {argument name="style" default="可爱涂鸦插画"}，同时精准保留姿势、面部表情、眼镜、头巾、服装细节及拍摄角度。将人物转换为 {argument name="character type" default="Q 版角色"}，拥有大而生动的头部、娇小的身体、圆润的五官、柔和的腮红、眼镜后闪烁的大眼睛以及可爱的嘟嘟唇。在 {argument name="background color" default="柔和淡粉色背景"} 上使用干净的黑色墨水线条勾勒，采用极简配色方案，呈现手绘漫画涂鸦美学，角色周围环绕着俏皮的心形、闪光、星星及微小的装饰元素。简洁的线条阴影，营造舒适迷人的氛围，呈现社交媒体贴纸风格、笔记本素描插画感，具备可爱的动漫比例，充满奇思妙想且符合 Pinterest 流行审美。保留智能手表、条纹衬衫及头巾褶皱等配饰，并进行简化卡通处理。高细节线条、流畅轮廓、可爱的表情、现代可爱肖像插画、极简背景、构图简洁，打造可爱的涂鸦角色设计。
+
+风格关键词：
+可爱涂鸦艺术，单色素描插画，Q 版肖像，漫画线条艺术，可爱淡粉色背景，手绘墨水画，Pinterest 审美，可爱贴纸艺术，奇幻卡通风格，动漫风格涂鸦，极简配色，柔和腮红细节。
+
+[English]
+Transform the uploaded selfie into a cute monochrome {argument name="style" default="kawaii doodle illustration"} while preserving the exact pose, facial expression, glasses, hijab, clothing details, and camera angle. Convert the person into a {argument name="character type" default="chibi-style character"} with a large expressive head, tiny body, rounded facial features, soft blush cheeks, oversized sparkling eyes behind glasses, and adorable puckered lips. Clean black ink sketch lines on a {argument name="background color" default="soft pastel pink background"}, minimal color palette, hand-drawn manga doodle aesthetic, playful hearts, sparkles, stars, and tiny decorative elements floating around the character. Simple line-art shading, cozy and charming atmosphere, social-media sticker style, notebook sketchbook illustration, cute anime-inspired proportions, whimsical and trendy Pinterest aesthetic. Preserve accessories such as smartwatch, striped shirt, and hijab folds with simplified cartoon details. High-detail linework, smooth outlines, adorable expression, modern kawaii portrait illustration, minimalistic background, clean composition, cute doodle character design.
+
+Style keywords:
+kawaii doodle art, monochrome sketch illustration, chibi portrait, manga line art, cute pastel pink background, hand-drawn ink drawing, Pinterest aesthetic, adorable sticker art, whimsical cartoon style, anime-inspired doodle, minimal color palette, soft blush details.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2069457152943722678) | 2026-06-23
+
+---
+
+### 🔧 例 2263：手绘极简涂鸦转换
+
+![手绘极简涂鸦转换](../../images/%E6%89%8B%E7%BB%98%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图像转换为 {argument name="style" default="极简手绘涂鸦插画"}。使用简单的黑色毛笔轮廓，线条略带抖动且不完美。在保留主体和构图的同时，将所有细节简化为可爱、稚气的形状。稚拙素描本美学，俏皮且异想天开的角色设计，干净的白色背景，极简线条，富有表现力的简洁感，手工涂鸦风格，黑墨水绘图，迷人的不完美感，简单的卡通插画。格式 {argument name="aspect ratio" default="3:4"}。
+
+[English]
+Transform the image into a {argument name="style" default="minimalist hand-drawn doodle illustration"}. Use simple black brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration. Format {argument name="aspect ratio" default="3:4"}.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2069321119828775325) | 2026-06-23
+
+---
+
+### 🔧 例 2277：单色调 VTuber 角色设计图
+
+![单色调 VTuber 角色设计图](../../images/%E5%8D%95%E8%89%B2%E8%B0%83%20VTuber%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色草图，将其优化并扩展为一张精致的全身动漫 VTuber 角色设计图，角色名为 {argument name="character name" default="KURO"}。保留草图的核心概念，将其重新设计为具有平涂赛璐璐风格、线条细腻且排版专业的单色调角色。
+
+目标：将草图转化为完整的角色设计图，而非单幅插画。
+
+画布与排版：使用横向角色设计图布局，背景为暖米白色，搭配细边框、小标签及极简的编辑排版。左侧放置一张大型全身正面插图，右侧及底部排列多个参考面板。
+
+角色重塑：设计一位身材苗条的动漫少女，留着浅色短波波头，身穿黑色超大款露肩短上衣、浅灰色迷你裙，佩戴黑色腰带、侧边小包及绑带，穿着黑色短袜、厚底黑色运动鞋，涂有黑色指甲油，并带有小型火焰/水滴图案。在主全身姿势后方添加一个大型抽象黑色火焰或阴影形状。使用 {argument name="main color palette" default="黑色、白色、暖灰色、炭灰色"} 的单色调配色，并辅以柔和的米色纸张色调。
+
+所需面板及精确数量：
+- 左侧 1 个大型全身正面主姿势。
+- 1 个包含 {argument name="character name" default="KURO"} 名字及小型装饰图标的标题栏。
+- 1 个简短的概念标语区，描述角色充满活力、轻松且独立。
+- 3 个标注为 TURNAROUND 的视图：正面、侧面和背面。
+- 1 个标注为 CLOSE-UP 的大型半身特写面板。
+- 4 个标注为 EXPRESSIONS 的表情/头部面板：正面中性、正面替换表情、可见绑带的正面替换表情、侧面轮廓。
+- 4 个标注为 DETAILS 的圆形细节面板：衣领/颈带、腰带与小包配饰、火焰徽章、带有黑色指甲的手部。
+- 1 个标注为 SILHOUETTE 的剪影面板。
+- 1 个标注为 COSTUME BREAKDOWN 的服装拆解面板，展示上衣、光环/颈部配饰、带腰带与小包的裙子、袜子及运动鞋等独立单品。
+- 1 个包含年龄、身高、生日、喜好及厌恶事物的个人资料文本面板。
+- 6 个带有十六进制颜色代码标签的配色色块。
+- 4 个标注为 ENERGETIC（活力）、INDEPENDENT（独立）、PLAYFUL（俏皮）、HONEST（诚实）的性格图标。
+- 5 个使用暗夜意象、月亮、黑猫、纹理及链条/配饰参考的 Moodboard 缩略图。
+- 1 个带有角色名字草书签名的签名区。
+
+文本细节：包含一个引用区，内容为 {argument name="quote" default="I want to feel light. Mind, clothes, everything."}。全程使用简洁的英文标签，允许添加微小的日文装饰文本以增加风味。
+
+风格：现代日本动漫角色设计图、VTuber 概念艺术、干净的赛璐璐阴影、纤细的灰色辅助线、柔和的单色时尚设计、细腻的纸张纹理、优雅的极简平面设计。
+
+约束：保留草图中的短发女孩概念和黑色火焰主题，但需全面优化解剖结构、服装、姿势及排版呈现。避免出现额外角色，避免背景杂乱，确保设计作为专业的角色参考图具有良好的可读性。
+
+[English]
+Using REFERENCE_0 as the rough character sketch, clean it up and expand it into a polished full-body anime VTuber character design sheet for {argument name="character name" default="KURO"}. Keep the core concept from the sketch, but redesign it as a sleek monochrome character with flat cel-shading, delicate line art, and a professional character-sheet layout.
+
+Goal: Turn the sketch into a complete character sheet rather than a single illustration.
+
+Canvas and layout: Use a horizontal character design sheet on a warm off-white background with thin panel borders, small labels, and a minimal editorial layout. Place one large full-body front illustration on the left, with multiple reference panels arranged on the right and bottom.
+
+Character redesign: Create a slim teenage anime girl with a short pale bob haircut, a black oversized off-shoulder cropped top, a light gray mini skirt, black belt, side pouch and straps, black socks, chunky black sneakers, black nail polish, and small flame/drop motifs. Add a large abstract black flame or shadow shape behind the main full-body pose. Use a monochrome palette of {argument name="main color palette" default="black, white, warm gray, charcoal"} with soft beige paper tones.
+
+Required sheet sections and exact counts:
+- 1 large main full-body front pose on the left.
+- 1 title block with the name {argument name="character name" default="KURO"} and small decorative icons.
+- 1 short concept tagline area describing the character as energetic, lighthearted, and independent.
+- 3 turnaround views labeled TURNAROUND: front, side, and back.
+- 1 large close-up bust panel labeled CLOSE-UP.
+- 4 expression/head panels labeled EXPRESSIONS: front neutral, front alternate, front alternate with straps visible, and side profile.
+- 4 circular detail panels labeled DETAILS: collar/neck strap, belt and pouch accessories, flame emblem, and hand with black nails.
+- 1 silhouette panel labeled SILHOUETTE.
+- 1 costume breakdown panel labeled COSTUME BREAKDOWN showing the top, halo/neck accessory, skirt with belt and pouch, sock, and sneaker as separated items.
+- 1 profile text panel with age, height, birthday, likes, and dislikes.
+- 6 palette swatches with hex-style labels.
+- 4 personality icons labeled ENERGETIC, INDEPENDENT, PLAYFUL, HONEST.
+- 5 moodboard thumbnails using dark night imagery, moon, black cat, texture, and chain/accessory references.
+- 1 signature area with a cursive signature of the character name.
+
+Text details: Include a small quote area with {argument name="quote" default="I want to feel light. Mind, clothes, everything."}. Use clean English labels throughout, with tiny Japanese accent text allowed as decorative flavor.
+
+Style: Modern Japanese anime character sheet, VTuber concept art, clean cel shading, thin gray construction lines, muted monochrome fashion design, soft paper texture, elegant minimal graphic design.
+
+Constraints: Preserve the rough sketch’s short-haired girl concept and black flame motif, but fully polish the anatomy, outfit, pose, and sheet presentation. Avoid extra characters, avoid busy backgrounds, and keep the design readable as a professional character reference sheet.
+```
+
+**来源：** [@Gwen AIart](https://x.com/Gwen2cerebro/status/2069262950620123260) | 2026-06-23
+
+---
+

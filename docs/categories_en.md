@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (141)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (145)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -275,11 +275,19 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 2196: 龙井茶信息图海报](cat-ui.md#️-例-2196龙井茶信息图海报)
 
 - [Case 2218: 温馨牛油果热可可涂鸦](cat-ui.md#️-例-2218温馨牛油果热可可涂鸦)
+
+- [Case 2227: Rakuten Happy Bag 横幅对比图](cat-ui.md#️-例-2227rakuten-happy-bag-横幅对比图)
+
+- [Case 2229: 优雅甜品店和服男子](cat-ui.md#️-例-2229优雅甜品店和服男子)
+
+- [Case 2236: 时尚大片超现实花卉人像](cat-ui.md#️-例-2236时尚大片超现实花卉人像)
+
+- [Case 2280: 废墟大教堂中的战斗女仆](cat-ui.md#️-例-2280废墟大教堂中的战斗女仆)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (53)
+## 📊 [Charts & Infographics](cat-chart.md) (54)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -373,11 +381,13 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 2159: 远征规划战略项目](cat-chart.md#-例-2159远征规划战略项目)
 
 - [Case 2162: 赛博生物发光花卉信息图](cat-chart.md#-例-2162赛博生物发光花卉信息图)
+
+- [Case 2238: 皮克斯风格信息图故事板](cat-chart.md#-例-2238皮克斯风格信息图故事板)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (337)
+## 🎴 [Posters & Cards](cat-poster.md) (345)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -1013,11 +1023,27 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 2223: 高端足球宣传海报](cat-poster.md#-例-2223高端足球宣传海报)
 
 - [Case 2226: 温馨饮品杂志封面](cat-poster.md#-例-2226温馨饮品杂志封面)
+
+- [Case 2241: StarKidz 科学海报](cat-poster.md#-例-2241starkidz-科学海报)
+
+- [Case 2246: 未来感 X-07 动漫角色海报](cat-poster.md#-例-2246未来感-x-07-动漫角色海报)
+
+- [Case 2265: 余晖记忆肖像海报](cat-poster.md#-例-2265余晖记忆肖像海报)
+
+- [Case 2266: 意式乡村风味食品广告](cat-poster.md#-例-2266意式乡村风味食品广告)
+
+- [Case 2272: 意大利美食广告海报](cat-poster.md#-例-2272意大利美食广告海报)
+
+- [Case 2273: 克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报](cat-poster.md#-例-2273克里斯蒂亚诺罗纳尔多-cristiano-ronaldo-胶印海报)
+
+- [Case 2284: 涂鸦风格混合媒体广告](cat-poster.md#-例-2284涂鸦风格混合媒体广告)
+
+- [Case 2287: 马卡龙色系动漫风夏日海滩拼贴画](cat-poster.md#-例-2287马卡龙色系动漫风夏日海滩拼贴画)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (828)
+## 📷 [Photography & Realistic](cat-photo.md) (854)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -2597,11 +2623,63 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 2222: 电影感风暴海滩女战士](cat-photo.md#-例-2222电影感风暴海滩女战士)
 
 - [Case 2224: 超现实空灵双重曝光](cat-photo.md#-例-2224超现实空灵双重曝光)
+
+- [Case 2228: 腊肠树大道人像](cat-photo.md#-例-2228腊肠树大道人像)
+
+- [Case 2234: Tropical Villa Ceylon 自拍](cat-photo.md#-例-2234tropical-villa-ceylon-自拍)
+
+- [Case 2235: 虚构高中毕业纪念册肖像](cat-photo.md#-例-2235虚构高中毕业纪念册肖像)
+
+- [Case 2240: 温暖月光拼贴剧照](cat-photo.md#-例-2240温暖月光拼贴剧照)
+
+- [Case 2243: 颠覆性音乐节海报提示词](cat-photo.md#-例-2243颠覆性音乐节海报提示词)
+
+- [Case 2244: 海滨日落人像](cat-photo.md#-例-2244海滨日落人像)
+
+- [Case 2245: 令人难忘的复古美式肖像](cat-photo.md#-例-2245令人难忘的复古美式肖像)
+
+- [Case 2248: 忧郁电影感肖像](cat-photo.md#-例-2248忧郁电影感肖像)
+
+- [Case 2251: 真实的手机旅行快照](cat-photo.md#-例-2251真实的手机旅行快照)
+
+- [Case 2252: 祖母绿戒指植物奢华微距摄影](cat-photo.md#-例-2252祖母绿戒指植物奢华微距摄影)
+
+- [Case 2255: 低多边形几何男性肖像](cat-photo.md#-例-2255低多边形几何男性肖像)
+
+- [Case 2256: 编辑级美妆肖像拼贴](cat-photo.md#-例-2256编辑级美妆肖像拼贴)
+
+- [Case 2257: 黄金时刻野花人像](cat-photo.md#-例-2257黄金时刻野花人像)
+
+- [Case 2259: 面容隐匿的暗黑动漫战士](cat-photo.md#-例-2259面容隐匿的暗黑动漫战士)
+
+- [Case 2260: 黄金时刻海滨肖像](cat-photo.md#-例-2260黄金时刻海滨肖像)
+
+- [Case 2261: 创始人编辑风格肖像](cat-photo.md#-例-2261创始人编辑风格肖像)
+
+- [Case 2262: 超现实大理石画廊之门](cat-photo.md#-例-2262超现实大理石画廊之门)
+
+- [Case 2264: 阳光街头咖啡馆时尚人像](cat-photo.md#-例-2264阳光街头咖啡馆时尚人像)
+
+- [Case 2267: 意外拍摄的 iPhone 前置摄像头自拍](cat-photo.md#-例-2267意外拍摄的-iphone-前置摄像头自拍)
+
+- [Case 2270: 影棚时尚人像红色背景](cat-photo.md#-例-2270影棚时尚人像红色背景)
+
+- [Case 2278: 温馨特写自拍肖像](cat-photo.md#-例-2278温馨特写自拍肖像)
+
+- [Case 2279: 极简水彩动漫肖像提示词](cat-photo.md#-例-2279极简水彩动漫肖像提示词)
+
+- [Case 2282: 现代摄影棚时尚拼贴画](cat-photo.md#-例-2282现代摄影棚时尚拼贴画)
+
+- [Case 2283: Candid Cafe 智能手机摄影提示词](cat-photo.md#-例-2283candid-cafe-智能手机摄影提示词)
+
+- [Case 2285: 奢华香水广告摄影](cat-photo.md#-例-2285奢华香水广告摄影)
+
+- [Case 2286: 皇家 Sherwani 人像拼贴提示词](cat-photo.md#-例-2286皇家-sherwani-人像拼贴提示词)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (215)
+## 🎨 [Illustration & Art](cat-illustration.md) (224)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -3015,11 +3093,29 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 2211: 水彩时尚插画美学](cat-illustration.md#-例-2211水彩时尚插画美学)
 
 - [Case 2225: 水花飞溅时尚合成图](cat-illustration.md#-例-2225水花飞溅时尚合成图)
+
+- [Case 2230: 大正春日咖啡馆动漫少年](cat-illustration.md#-例-2230大正春日咖啡馆动漫少年)
+
+- [Case 2232: 薄荷茶与圣甲虫刺绣](cat-illustration.md#-例-2232薄荷茶与圣甲虫刺绣)
+
+- [Case 2237: 日式生活方式素描插画](cat-illustration.md#-例-2237日式生活方式素描插画)
+
+- [Case 2242: 现代都市中的时尚男士](cat-illustration.md#-例-2242现代都市中的时尚男士)
+
+- [Case 2247: 月光下的水妖森林湖泊](cat-illustration.md#-例-2247月光下的水妖森林湖泊)
+
+- [Case 2250: 角色姿势与背景构图提示词](cat-illustration.md#-例-2250角色姿势与背景构图提示词)
+
+- [Case 2271: 异想天开的超现实柔和卡通风格](cat-illustration.md#-例-2271异想天开的超现实柔和卡通风格)
+
+- [Case 2276: 夏日天台柠檬苏打](cat-illustration.md#-例-2276夏日天台柠檬苏打)
+
+- [Case 2281: 动漫角色与涂鸦拼贴](cat-illustration.md#-例-2281动漫角色与涂鸦拼贴)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (95)
+## 🧍 [Character Design](cat-character.md) (96)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -3191,6 +3287,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 2107: 橄榄球运动员三视图参考表](cat-character.md#-例-2107橄榄球运动员三视图参考表)
 
 - [Case 2220: 女性街头赛车手参考图集](cat-character.md#-例-2220女性街头赛车手参考图集)
+
+- [Case 2231: 硬核赏金猎人三视图设计](cat-character.md#-例-2231硬核赏金猎人三视图设计)
 ---
 
 <a id="3d"></a>
@@ -3547,7 +3645,7 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (89)
+## 🎬 [Comics & Storyboards](cat-comic.md) (94)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -3709,11 +3807,21 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 2164: 粗糙铅笔故事板草图](cat-comic.md#-例-2164粗糙铅笔故事板草图)
 
 - [Case 2212: 单色猫头商务人士漫画页](cat-comic.md#-例-2212单色猫头商务人士漫画页)
+
+- [Case 2233: 雨中武士对决分镜故事板](cat-comic.md#-例-2233雨中武士对决分镜故事板)
+
+- [Case 2249: 前期制作项目与角色设定表](cat-comic.md#-例-2249前期制作项目与角色设定表)
+
+- [Case 2268: 可爱绘本风手绘插画](cat-comic.md#-例-2268可爱绘本风手绘插画)
+
+- [Case 2269: 极简日式水彩插画](cat-comic.md#-例-2269极简日式水彩插画)
+
+- [Case 2275: 温馨咖啡馆绘本插画](cat-comic.md#-例-2275温馨咖啡馆绘本插画)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (198)
+## 🏷️ [Brand & Packaging](cat-brand.md) (202)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -4101,11 +4209,19 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 2192: 电影级角色身份项目](cat-brand.md#️-例-2192电影级角色身份项目)
 
 - [Case 2215: Minecraft 自拍照片集成](cat-brand.md#️-例-2215minecraft-自拍照片集成)
+
+- [Case 2253: 极简手绘涂鸦风格](cat-brand.md#️-例-2253极简手绘涂鸦风格)
+
+- [Case 2254: 久经沙场的老兵肖像](cat-brand.md#️-例-2254久经沙场的老兵肖像)
+
+- [Case 2258: 扁平涂鸦风格照片转换](cat-brand.md#️-例-2258扁平涂鸦风格照片转换)
+
+- [Case 2274: 生活时尚公园拼贴画](cat-brand.md#️-例-2274生活时尚公园拼贴画)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (70)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (73)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -4244,6 +4360,12 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 2181: 迷你 Q 版人偶转换](cat-edit.md#-例-2181迷你-q-版人偶转换)
 
 - [Case 2197: 极简数字插画转换](cat-edit.md#-例-2197极简数字插画转换)
+
+- [Case 2239: 可爱单色涂鸦风格转换](cat-edit.md#-例-2239可爱单色涂鸦风格转换)
+
+- [Case 2263: 手绘极简涂鸦转换](cat-edit.md#-例-2263手绘极简涂鸦转换)
+
+- [Case 2277: 单色调 VTuber 角色设计图](cat-edit.md#-例-2277单色调-vtuber-角色设计图)
 ---
 
 <a id="fun"></a>

@@ -3356,3 +3356,137 @@ Constraints: Use exactly 3 panels, exactly 4 speech bubbles total, exactly 6 onl
 
 ---
 
+### 🎬 例 2233：雨中武士对决分镜故事板
+
+![雨中武士对决分镜故事板](../../images/%E9%9B%A8%E4%B8%AD%E6%AD%A6%E5%A3%AB%E5%AF%B9%E5%86%B3%E5%88%86%E9%95%9C%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 4x4 的电影感动漫武士对决分镜联系表，设计为可拆分的动画镜头。场景描述：{argument name="red warrior" default="一名身穿湿透深红色和服的长发女浪人"} 与 {argument name="blue warrior" default="一名身穿深蓝色和服的粗犷男武士"} 在 {argument name="setting" default="深夜雨水浸透的江户时代寺庙庭院"} 中战斗。请刻意将人物面部匿名化，在可见面部区域覆盖柔和的深色方形遮挡块，同时保留发型、服装、武器和动作姿态。
+
+画布：宽屏 16:9 图像，排列为 4 列 4 行的整齐网格，共 16 个矩形电影分镜框，面板间留有细白边。每个面板应呈现同一战斗序列中的不同摄像机镜头。使用戏剧性的低调照明、湿润的反射地面、雨丝、飘落的红色花瓣、灯笼光晕、动态模糊、剑光、火花和水花。风格：高度细腻的暗黑动漫电影剧照、绘画写实感、动态构图、激烈的动作编排、浅景深、忧郁的蓝黑色阴影配以深红色点缀。
+
+面板数量与内容：包含 16 个面板：
+1. 广角建立镜头：两名武士在湿润的庭院中对峙，红方在左，蓝方在右，拔剑出鞘，背景为寺庙建筑和灯笼。
+2. 红方武士向镜头突刺武士刀的动作特写，头发在雨中飞舞，面部被深色方块遮挡。
+3. 蓝方武士防御性握住武士刀的动作特写，刀刃向前倾斜，面部被深色方块遮挡。
+4. 侧面交锋：红方武士从左侧猛冲，蓝方武士从右侧反击，雨水和花瓣四散飞舞。
+5. 低位侧拍：刀剑碰撞，在两人之间迸发出明亮的火花。
+6. 动态追踪镜头：红方武士旋转或横向挥砍，红色衣袖飘动，明亮的剑弧划过画面。
+7. 蓝方武士中位防御，武士刀在雨中横扫，刀刃周围带有多个蓝白色动态轨迹。
+8. 紧凑双人镜头：红蓝武士近距离刀剑锁死，可见湿发和血迹，两人面部均被遮挡。
+9. 杂技镜头：红方武士在庭院屋檐或走廊上方翻转，长剑伸展，雨丝和动态模糊强调速度感。
+10. 蓝方武士的中景特写，抬头或转身，武士刀就位，背景中寺庙灯光模糊，面部被遮挡。
+11. 越肩镜头：从蓝方武士身后拍摄，红方武士在粉色花瓣下举剑跃下。
+12. 极近距离交锋：镜头前交叉的刀刃迸发出星状火花，蓝方武士面部被深色方块部分遮挡。
+13. 红方武士强力挥砍的特写，深红色衣袖和头发横扫画面，面部被遮挡。
+14. 冲击镜头：蓝方武士胸部或肩部中招，深红色血液喷溅在深蓝色长袍上，面部被遮挡。
+15. 广角对峙重置：红方武士在前台垂剑站立，蓝方武士在寺庙前的远处蹲伏，地面积水。
+16. 雨中红方武士的最终肖像特写，深红色长袍沾染污渍，头发环绕面部，巨大的深色方块遮住面部。
+
+约束：保持网格布局精确，16 个镜头各不相同，且在所有面板中保持角色、服装、武器、天气和场景的一致性。无字幕、无对话气泡、无 Logo、无水印。强调电影动作的连续性、湿润织物的质感、写实的金属剑身、发光的灯笼倒影以及高对比度的雨夜氛围。整体基调应为 {argument name="mood" default="悲剧、残酷、优雅且充满悬疑感"}。
+
+[English]
+Goal: Create a 4-by-4 storyboard contact sheet of a cinematic anime samurai duel, designed as separable shots for animation. The scene follows {argument name="red warrior" default="a long-haired female ronin in a soaked crimson kimono"} fighting {argument name="blue warrior" default="a rugged male samurai in a dark navy kimono"} in {argument name="setting" default="a rain-drenched Edo-period temple courtyard at night"}. Make the faces intentionally anonymized with soft dark square censor blocks over visible faces, while preserving hair, clothing, weapons, and action poses.
+
+Canvas: Wide 16:9 image, arranged as exactly 16 rectangular cinematic frames in a clean 4 columns by 4 rows grid, with thin white gutters between panels. Each panel should feel like a different camera shot from the same fight sequence. Use dramatic low-key lighting, wet reflective ground, rain streaks, drifting red petals, lantern glow, motion blur, sword glints, sparks, and splashes. Style: highly detailed dark anime film stills, painterly realism, dynamic composition, intense choreography, shallow depth of field, moody blue-black shadows with crimson accents.
+
+Panel count and content: Include exactly 16 panels:
+1. Wide establishing shot: both warriors face each other across the wet courtyard, red warrior on the left, blue warrior on the right, swords drawn, temple building and lanterns behind them.
+2. Close-up action shot of the red warrior thrusting a katana toward camera, hair whipping in rain, face covered by a dark square.
+3. Close-up action shot of the blue warrior gripping his katana defensively, blade angled forward, face covered by a dark square.
+4. Side-view clash: red warrior lunges from the left while blue warrior counters from the right, rain and petals swirling.
+5. Low side shot: swords collide with a bright burst of sparks between the fighters.
+6. Dynamic tracking shot: red warrior spins or slashes horizontally, red sleeves flowing, bright sword arc crossing the frame.
+7. Blue warrior mid-guard with a katana sweeping through rain, multiple blue-white motion trails around the blade.
+8. Tight two-shot: red and blue warriors locked close in a blade bind, wet hair and blood flecks visible, both faces obscured.
+9. Acrobatic shot: red warrior flips upside down over the courtyard roofline or walkway, sword extended, rain streaks and motion blur emphasizing speed.
+10. Medium close-up of the blue warrior looking upward or turning with his katana ready, temple lights blurred behind him, face obscured.
+11. Over-the-shoulder shot from behind the blue warrior as the red warrior leaps down with raised sword beneath pink blossoms.
+12. Extreme close clash: crossed blades near the camera with a starburst of sparks, blue warrior partially hidden by a dark face block.
+13. Close-up of the red warrior performing a powerful slash, crimson sleeve and hair sweeping across the frame, face obscured.
+14. Impact shot: the blue warrior is struck across the chest or shoulder, dark red blood sprays across his navy robe, face obscured.
+15. Wide standoff reset: red warrior stands in the foreground with sword lowered while the blue warrior crouches at distance in front of the temple, rain pooling on the ground.
+16. Final portrait close-up of the red warrior in rain, crimson robe stained and hair framing the face, large dark square obscuring the face.
+
+Constraints: Keep the grid layout exact, with 16 distinct shots and consistent characters, outfits, swords, weather, and setting across all panels. No captions, no speech bubbles, no logos, no watermark. Emphasize cinematic action continuity, wet fabric texture, realistic sword metal, glowing lantern reflections, and high-contrast rain-night atmosphere. Overall mood should be {argument name="mood" default="tragic, brutal, elegant, and suspenseful"}.
+```
+
+**来源：** [@Geno](https://x.com/GenoQuest/status/2069499603842392193) | 2026-06-23
+
+---
+
+### 🎬 例 2249：前期制作项目与角色设定表
+
+![前期制作项目与角色设定表](../../images/%E5%89%8D%E6%9C%9F%E5%88%B6%E4%BD%9C%E9%A1%B9%E7%9B%AE%E4%B8%8E%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的竖屏前期制作开发项目，结合角色设定表 + 电影故事板，用于 {argument name="project" default="the film concept"}
+
+[English]
+Create a single vertical 9:16 pre-production development board combining CHARACTER SHEETS + CINEMATIC STORYBOARD for {argument name="project" default="the film concept"}
+```
+
+**来源：** [@Abhishek](https://x.com/HeyAbhishek/status/2069414636974391523) | 2026-06-23
+
+---
+
+### 🎬 例 2268：可爱绘本风手绘插画
+
+![可爱绘本风手绘插画](../../images/%E5%8F%AF%E7%88%B1%E7%BB%98%E6%9C%AC%E9%A3%8E%E6%89%8B%E7%BB%98%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱且充满童趣的手绘插画，采用 {argument name="art style" default="俏皮可爱的绘本风格"}，{argument name="color palette" default="明亮的柔和色调"}，简洁的白色背景，场景周围散布着涂鸦元素（{argument name="doodle elements" default="爱心、花朵、星星、云朵、漩涡、叶子、闪光"}），粗而柔和的轮廓线，平涂色彩并带有细腻纹理，温馨愉悦的氛围，拥有圆眼睛、红脸蛋和简化特征的迷人卡通角色，装饰性的花卉点缀，色彩缤纷的物体和店面，美学咖啡馆与生活方式氛围，高度细节化且极简，数字水粉插画，儿童绘本美学，贴纸般的构图，充满活力的构图，可爱温馨的情绪，现代可爱插画，适合 Instagram 的艺术作品，高分辨率。
+
+[English]
+Cute whimsical hand-drawn illustration in a {argument name="style" default="playful kawaii storybook style"}, {argument name="color palette" default="bright pastel color palette"}, clean white background, doodle elements scattered around the scene (hearts, flowers, stars, clouds, swirls, leaves, sparkles), thick soft outlines, flat colors with subtle texture, cozy and cheerful atmosphere, {argument name="character description" default="charming cartoon characters with round eyes, rosy cheeks"}, simplified features, decorative floral accents, colorful objects and storefronts, aesthetic café and lifestyle vibes, highly detailed yet minimal, digital gouache illustration, children’s book aesthetic, sticker-like composition, vibrant composition, adorable and cozy mood, modern cute illustration, Instagram-worthy artwork, high resolution.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2069275160390271472) | 2026-06-23
+
+---
+
+### 🎬 例 2269：极简日式水彩插画
+
+![极简日式水彩插画](../../images/%E6%9E%81%E7%AE%80%E6%97%A5%E5%BC%8F%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅在手工纹理纸上绘制的细腻水彩绘本插画。大面积留白。柔和的粉彩色调。极简构图。一个孤独的 {argument name="subject" default="[SUBJECT]"} 正在与 {argument name="object" default="[OBJECT]"} 互动。人物周围环绕着零星漂浮的花朵、蝴蝶、花瓣和水彩溅点。安静的情感氛围，怀旧且富有诗意。当代日式水彩画册风格。精致的墨线细节，透明的水彩渲染，可见的纸张纹理，画廊级插画品质。主体仅占据画布的 20%–30%。背景大部分为留白纸张。边缘柔和，阴影微妙，呈现出优雅的手工质感。
+
+[English]
+A delicate watercolor storybook illustration on textured handmade paper. Large negative space. Soft pastel colors. Minimal composition. A solitary {argument name="subject" default="subject"} interacting with {argument name="object" default="object"}. Small floating flowers, butterflies, petals, and watercolor splashes surrounding the figure. Quiet emotional atmosphere, nostalgic and poetic. Contemporary Japanese watercolor artbook style. Fine ink details, transparent watercolor washes, visible paper texture, gallery-quality illustration. Subject occupies only 20–30% of the canvas. Background mostly blank paper. Soft edges, subtle shadows, elegant handcrafted appearance.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2069271511589093583) | 2026-06-23
+
+---
+
+### 🎬 例 2275：温馨咖啡馆绘本插画
+
+![温馨咖啡馆绘本插画](../../images/%E6%B8%A9%E9%A6%A8%E5%92%96%E5%95%A1%E9%A6%86%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为温馨、舒适的手绘绘本插画。保留照片中的姿势、面部表情、发型、咖啡杯、桌子、甜点、室内咖啡馆环境及构图。一位年轻女性平静地坐在阳光明媚的窗边，手持咖啡，若有所思地望向远方。采用柔和的数字绘画风格，使用 {argument name="color palette" default="暖米色和奶油色调"}，勾勒细腻的线条，添加红润的脸颊和大而传神的眼睛。加入 {argument name="decorative elements" default="奇幻的涂鸦爱心、闪光、微型花卉元素、盆栽植物"} 以及舒适的咖啡馆细节。{argument name="lighting style" default="午后的金色阳光"} 透过窗户洒入，营造出柔和的阴影和梦幻般的氛围。田园风（Cottagecore）美学，舒适的咖啡馆氛围，Pinterest 风格艺术作品，迷人的生活方式插画，暖色调，手绘质感，温馨的室内设计，优雅的植物装饰，宁静的意境，细节丰富且柔和，吉卜力工作室风格的温暖感，绘本插画，审美手账艺术，杰作级品质，超高细节，竖构图。
+
+[English]
+Transform the uploaded photo into a warm, cozy hand-painted storybook illustration. Preserve the exact pose, facial expression, hairstyle, coffee cup, table, dessert, indoor café setting, and composition. A young woman sits peacefully by a sunlit window, holding a coffee while gazing thoughtfully into the distance. Render in a soft digital painting style with {argument name="color palette" default="warm beige and cream tones"}, delicate linework, rosy cheeks, and large expressive eyes. Add {argument name="decorative elements" default="whimsical doodle hearts, sparkles, tiny floral elements, potted plants"}, and cozy café details. {argument name="lighting style" default="Golden afternoon sunlight"} streams through the window, creating soft shadows and a dreamy atmosphere. Cottagecore aesthetic, cozy coffee-shop vibes, Pinterest-inspired artwork, charming lifestyle illustration, warm color palette, hand-painted textures, inviting interior design, elegant botanical decor, peaceful mood, highly detailed yet soft, Studio Ghibli-inspired warmth, storybook illustration, aesthetic journal art, masterpiece quality, ultra-detailed, vertical composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2069265215838126168) | 2026-06-23
+
+---
+

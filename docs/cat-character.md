@@ -3954,3 +3954,41 @@ use the same face from the reference image without changing facial features. Cha
 
 ---
 
+### 🧍 例 2231：硬核赏金猎人三视图设计
+
+![硬核赏金猎人三视图设计](../../images/%E7%A1%AC%E6%A0%B8%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BA%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="Vane"} 的硬核赛博朋克西部赏金猎人设计一张全身角色转面图，重点表现写实的磨损材质、灰尘、污垢以及充满生活气息的服装。
+
+画布：宽幅横向概念设计图，背景为纯净的暖米色摄影棚背景，无场景，除磨损的服装和配饰外不包含任何道具。使用柔和的中性光，并在靴子下方添加细微的接触阴影。
+
+布局：展示同一男性角色的 4 个全身站立视图，从左至右均匀排列：1) 正面朝向镜头，2) 四分之三正面（略微转向观察者右侧），3) 严格的侧面轮廓（朝向右侧），4) 背面。确保所有四个视图的比例一致，并将双脚对齐在同一基准线上。
+
+主体细节：成年硬朗男性赏金猎人，留着凌乱的短黑发，体型精瘦，姿态沧桑，具有写实的人体特征。在前三个可见面部的视图中，面部应刻意用柔和的矩形模糊/遮挡块遮盖，背面视图仅显示后脑勺。服装包含 7 个主要的可见服装/配饰元素：1) 长款做旧牛血红色风衣，带有高领、磨损的下摆、补丁肩膀、接缝、磨损的袖口和脏兮兮的皮革纹理；2) 风衣内搭深炭灰色衬衫；3) 胸前悬挂的圆形黄铜吊坠或环形护身符；4) 带有方形金属扣的棕色皮带；5) 褪色的灰绿色工装裤，布满灰尘和褶皱；6) 粗犷的棕色系带靴，带有磨损和泥垢；7) 角色右手佩戴一只深色露指手套，明显磨损且肮脏。
+
+视觉风格：照片级逼真的角色概念艺术，具有极高的材质真实感，包括细腻的皮革纹理、织物磨损、缝线、污垢、划痕、汗渍浸染的布料、接缝处的污垢以及可信的磨损感。风衣颜色应为 {argument name="coat color" default="做旧牛血红"}；整体氛围应呈现出 {argument name="genre mood" default="赛博朋克西部"} 世界的质感，且不添加任何未来主义小道具。使用柔和的大地色系，呈现出扎实、实用的服装设计感。
+
+约束条件：无文字标签，无武器，无帽子，无额外角色，无戏剧性背景，无电影动作姿势。保持设计简洁、居中，并确保其作为专业的转面参考图具有良好的可读性。
+
+[English]
+Goal: Create a full-body character design turnaround sheet for a gritty cyberpunk-western bounty hunter named {argument name="character name" default="Vane"}, emphasizing realistic worn materials, dust, grime, and lived-in clothing.
+
+Canvas: Wide horizontal concept-art sheet on a plain warm off-white studio background, no scenery, no props except worn clothing and accessories. Use soft neutral lighting and subtle contact shadows under the boots.
+
+Layout: Show exactly 4 full-body standing views of the same male character, evenly spaced left to right: 1) front view facing camera, 2) three-quarter front view turned slightly to the viewer’s right, 3) strict side profile facing right, 4) back view. Keep proportions consistent across all four views and align the feet on the same ground line.
+
+Subject details: Adult rugged male bounty hunter with messy short dark hair, lean build, weathered posture, and a realistic human body. The face should be deliberately obscured by a soft rectangular blur/censor block in the first three visible-face views, while the back view shows only the back of the head. Outfit includes exactly 7 main visible clothing/accessory elements: 1) long distressed oxblood-red duster coat with high collar, frayed hem, patched shoulders, seams, worn cuffs, and dirty leather texture; 2) dark charcoal button-up shirt beneath the coat; 3) circular brass pendant or ring amulet hanging at the chest; 4) brown leather belt with square metal buckle; 5) faded gray-green work trousers, dusty and creased; 6) rugged brown lace-up boots, scuffed and muddy; 7) one dark fingerless glove on the character’s right hand, visibly worn and dirty.
+
+Visual style: Photorealistic character concept art with high material realism, detailed leather grain, fabric fraying, stitching, dirt, scratches, sweat-darkened cloth, grime in seams, and believable wear. The coat color should be {argument name="coat color" default="weathered oxblood red"}; the setting should feel like a {argument name="genre mood" default="cyberpunk western"} world without adding futuristic gadgets. Use muted earthy colors and a grounded, practical costume-design presentation.
+
+Constraints: No text labels, no weapons, no hats, no extra characters, no dramatic background, no cinematic action pose. Keep the design clean, centered, and readable as a professional turnaround reference sheet.
+```
+
+**来源：** [@Samuel C. Okanume](https://x.com/sammychrise/status/2069546450212507989) | 2026-06-23
+
+---
+

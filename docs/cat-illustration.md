@@ -5121,3 +5121,258 @@ Create an 8K ultra-realistic vertical fashion composite of {argument name="chara
 
 ---
 
+### 🎨 例 2230：大正春日咖啡馆动漫少年
+
+![大正春日咖啡馆动漫少年](../../images/%E5%A4%A7%E6%AD%A3%E6%98%A5%E6%97%A5%E5%92%96%E5%95%A1%E9%A6%86%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的全身动漫插画，描绘一位中性美的年轻男子站在阳光明媚的春日街道上，背景是一家怀旧的大正时代日式甜品店。他拥有 {argument name="hair color" default="柔和的白色"} 蓬松的卷曲波波头，皮肤白皙，琥珀色的双眸温柔，带着羞涩的微笑，微微歪着头，手扶着一顶装饰着小花的草编平顶帽。为他穿上优雅的和洋折衷风格服饰：一件带有精致花卉刺绣的奶油色羽织/和服外套，一件带有深色丝带领结和小胸针的白色高领衬衫，以及带有流苏绳和下摆处微小花卉图案的深色宽大袴裤，脚蹬擦得锃亮的深色系带靴。他的另一只手提着一个小巧的复古花卉皮箱，配有皮带和金属包角。场景设定在一家传统的店面门前，配有温暖的木质框架、纸灯笼、垂直的布艺旗帜和招牌；包含可见的日式咖啡馆招牌，如「春风堂」和「喫茶」，以及一个展示着「あんみつ」和甜点插画的小型人行道项目。入口处环绕着盛开的樱花枝，花瓣散落，柔和的斑驳阳光洒在石板路上。使用浪漫的深褐色与粉色调色板，精细的线条，高度细腻的织物褶皱与刺绣，梦幻的焦外成像景深，电影级的垂直构图，优雅的少女/动漫艺术风格，温暖的背光，以及宁静的午后氛围。避免出现现代汽车、霓虹灯、前景中多余的角色、强烈的对比或写实风格。
+
+[English]
+Create a delicate full-body anime illustration of an androgynous young man standing outside a nostalgic Taisho-era Japanese sweets café on a sunlit spring street. He has {argument name="hair color" default="soft white"} fluffy curly bob-length hair, pale skin, gentle amber eyes, and a soft shy smile, tilting his head while holding the brim of a straw boater hat decorated with small flowers. Dress him in elegant Japanese-Western fusion clothing: an oversized cream haori/kimono jacket with subtle floral embroidery, a white high-collar blouse with a dark ribbon tie and small brooch, wide dark hakama-style trousers with tassel cords and tiny flower motifs near the hem, and polished dark lace-up boots. In his other hand he carries a small vintage floral suitcase with leather straps and metal corners. Set the scene in front of a traditional storefront with warm wooden frames, paper lanterns, vertical fabric banners and signs; include visible Japanese café signage such as 「春風堂」 and 「喫茶」, plus a small sidewalk menu board showing 「あんみつ」 with a dessert illustration. Surround the entrance with blooming cherry blossom branches, scattered petals, and soft dappled sunlight across the stone pavement. Use a romantic sepia-pink color palette, fine linework, highly detailed fabric folds and embroidery, dreamy bokeh depth of field, cinematic vertical composition, elegant shoujo/anime art style, warm backlighting, and a serene early afternoon atmosphere. Avoid modern cars, neon signs, extra characters in the foreground, harsh contrast, or photorealism.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2069552840952119501) | 2026-06-23
+
+---
+
+### 🎨 例 2232：薄荷茶与圣甲虫刺绣
+
+![薄荷茶与圣甲虫刺绣](../../images/%E8%96%84%E8%8D%B7%E8%8C%B6%E4%B8%8E%E5%9C%A3%E7%94%B2%E8%99%AB%E5%88%BA%E7%BB%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="drink" default="一杯薄荷茶"} 放在一张小木椅上。树影婆娑。叶片沙沙作响。还有一双正在用天蓝色亮片绣制 {argument name="subject" default="带翅圣甲虫"} 的手。
+
+[English]
+{argument name="drink" default="كوب شاي بالنعناع"} على كرسي خشب صغير
+ظل شجرة 
+صوت أوراق يتحرك
+ويدان تطرّزان {argument name="subject" default="جعراناً مجنّحاً"} بترتر بلون السماء
+```
+
+**来源：** [@Eman Wagdy | AI-Fashion Creator](https://x.com/em_wagdy/status/2069505733666697507) | 2026-06-23
+
+---
+
+### 🎨 例 2237：日式生活方式素描插画
+
+![日式生活方式素描插画](../../images/%E6%97%A5%E5%BC%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E7%B4%A0%E6%8F%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的当代日式生活方式插画，营造温馨的日常氛围。
+
+艺术风格
+手绘钢笔素描插画，线条细腻且富有表现力，轮廓松散自然，极简编辑艺术风格，柔和的水彩渲染，微妙的纸张纹理，优雅的留白，速写本美学，现代日式独立插画，构图轻盈通透，当代咖啡馆艺术风格，情感温暖而亲密。
+
+人物
+两位年轻人，面部特征柔和简约，表情自然。穿着休闲宽松的服装，肢体语言放松，互动真实，捕捉日常瞬间。面部采用细腻的线条勾勒，而非写实风格。
+
+环境
+温馨的室内场景，如咖啡馆、咖啡店、公寓、工作室、书店、角落或创意工作空间。包含木质家具、咖啡杯、室内绿植、书架、书籍、窗户、柔和的装饰细节及小型日常物品。环境应呈现出生活气息，但不过于杂乱。
+
+构图
+全身或四分之三身位。人物自然坐着，面对面交流。平衡的非对称布局。大面积的留白。通过姿态和氛围而非动作来叙事。编辑插画式构图。平视视角。
+
+配色方案
+仅使用柔和且低饱和度的色彩：
+• 灰蓝色
+• 暖奶油色
+• 柔米色
+• 浅灰色
+• 鼠尾草绿
+• 暖棕色
+• 米白色
+
+仅添加一个小的 {argument name="accent color" default="红色"} 元素，例如红袜子、红鞋、红杯子或一个小红物件。
+
+光影
+柔和的自然光从窗户射入。温和的环境照明。无戏剧性阴影。氛围温暖、宁静、治愈。
+
+渲染
+极简阴影。细节稀疏。在细腻的墨线内进行水彩风格填色。略带未完成的素描质感。高质量插画，保留可见的手绘瑕疵。边缘柔和，纹理微妙。
+
+氛围
+舒适、安静、怀旧、平和、亲密、温馨、日常幸福感、慢生活、咖啡文化、深思熟虑的交谈、温柔的人际连接。
+
+避免
+动漫截图、漫画分镜、赛璐珞风格、数字绘画、超写实主义、照片写实主义、3D 渲染、光泽表面、鲜艳饱和的色彩、电影特效、戏剧性光影、过度细节、锐利轮廓、浓重阴影、复杂背景。
+
+场景：
+{argument name="scene" default="[在此处插入你的场景描述]"}
+
+最终图像应呈现出艺术画册、咖啡馆杂志、设计期刊或独立速写本系列中常见的优质日式生活方式插画质感。
+
+[English]
+Create a delicate contemporary Japanese lifestyle illustration with a cozy slice-of-life atmosphere.
+
+ART STYLE
+Hand-drawn pen-and-ink sketch illustration, thin expressive linework, loose imperfect contours, minimalist editorial artwork, soft watercolor washes, subtle paper texture, elegant negative space, sketchbook aesthetic, modern Japanese indie illustration, light and airy composition, contemporary café-art style, emotionally warm and intimate.
+
+CHARACTERS
+Two young adults with soft, simplified facial features and natural expressions. Casual oversized clothing, relaxed body language, authentic interaction, candid everyday moment. Faces are minimally rendered with delicate linework rather than detailed realism.
+
+ENVIRONMENT
+A cozy indoor setting such as a café, coffee shop, apartment, studio, bookstore, kitchen corner, or creative workspace. Include wooden furniture, coffee mugs, indoor plants, shelves, books, windows, soft decorative details, and small everyday objects. The environment should feel lived-in yet uncluttered.
+
+COMPOSITION
+Full-body or three-quarter-body view. Characters seated naturally and facing one another. Balanced asymmetrical layout. Large areas of clean negative space. Storytelling through posture and atmosphere rather than action. Editorial illustration framing. Eye-level perspective.
+
+COLOR PALETTE
+Muted and desaturated colors only:
+• Dusty blue
+• Warm cream
+• Soft beige
+• Light gray
+• Sage green
+• Warm brown
+• Off-white
+
+Add only one small {argument name="accent color" default="red"} element such as red socks, red shoes, a red mug, or a small red object.
+
+LIGHTING
+Soft natural daylight entering through windows. Gentle ambient illumination. No dramatic shadows. Warm, peaceful, calming mood.
+
+RENDERING
+Minimal shading. Sparse details. Watercolor-style color fills inside delicate ink outlines. Slightly unfinished sketch quality. High-quality illustration with visible hand-drawn imperfections. Soft edges and subtle texture.
+
+MOOD
+Comfortable, quiet, nostalgic, peaceful, intimate, cozy, everyday happiness, slow living, café culture, thoughtful conversation, gentle human connection.
+
+AVOID
+Anime screenshots, manga panels, cel shading, digital painting, hyperrealism, photorealism, 3D rendering, glossy surfaces, vibrant saturated colors, cinematic effects, dramatic lighting, excessive details, sharp outlines, heavy shadows, complex backgrounds.
+
+SCENE:
+{argument name="scene" default="[INSERT YOUR SCENE DESCRIPTION HERE]"}
+
+The final image should feel like a premium Japanese lifestyle illustration found in an art book, café magazine, design journal, or independent sketchbook collection.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2069469184787198164) | 2026-06-23
+
+---
+
+### 🎨 例 2242：现代都市中的时尚男士
+
+![现代都市中的时尚男士](../../images/%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E4%B8%AD%E7%9A%84%E6%97%B6%E5%B0%9A%E7%94%B7%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位时尚的年轻男子自信地走在现代城市街道上，身处一家潮流咖啡馆外，手中拿着外带咖啡杯。他穿着一件 {argument name="shirt color" default="浅灰色"} 衬衫，袖口卷起，搭配 {argument name="pants style" default="炭黑色宽松牛仔裤"}、白色运动鞋、豪华腕表，前臂带有精致的纹身。{argument name="hair style" default="凌乱质感深色短发"}，面部轮廓分明，表情轻松而时尚。都市生活方式摄影，抓拍行走姿态，浅景深，温暖的电影级光影，柔和的背景虚化，高端时尚杂志大片风格，街头时尚美学，超写实，自然的肤色，专业 DSLR 摄影，85mm 镜头，f/1.8 光圈，高度细节，4K 画质。
+
+[English]
+A stylish young man walking confidently through a modern city street outside a trendy café, holding a takeaway coffee cup. He wears a {argument name="shirt color" default="light gray"} button-down shirt with rolled-up sleeves, {argument name="pants style" default="oversized charcoal black jeans"}, white sneakers, a luxury wristwatch, and detailed forearm tattoos. {argument name="hair style" default="Messy textured dark hair"}, sharp facial features, relaxed yet fashionable expression.Urban lifestyle photography, candid walking pose, shallow depth of field, warm cinematic lighting, soft bokeh background, high-end fashion editorial, street style aesthetic, ultra-realistic, natural skin tones, professional DSLR photography, 85mm lens, f/1.8, highly detailed, 4K quality.
+```
+
+**来源：** [@Zar⭕on](https://x.com/Xaroon_x/status/2069442015012741303) | 2026-06-23
+
+---
+
+### 🎨 例 2247：月光下的水妖森林湖泊
+
+![月光下的水妖森林湖泊](../../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E6%B0%B4%E5%A6%96%E6%A3%AE%E6%9E%97%E6%B9%96%E6%B3%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个黑暗电影质感的奇幻场景，灵感源自 {argument name="musical work" default="Carl Reinecke 的《水妖》奏鸣曲"}：夜晚月光下的德国森林水潭，黑色的树木和缠绕的枝条环绕着冰冷的湖泊。画面中需精确包含五个人物：左侧前景处有一个男性人物，仅以近乎全黑的背影剪影呈现，蹲伏或站立在水边；中央有一位水妖正从湖中升起，露出腰部以上，留着湿透的长黑发，皮肤苍白湿润，半透明的湿透长裙紧贴身体；在她身后的湖水中，有三张苍白如鬼魅的面孔或头颅半没于水中，分布在画面中后方和右侧，如同溺水的见证者。中央的水妖应是画面最明亮的焦点，被冷蓝色的月光和薄雾照亮，而男子则几乎完全处于阴影中。湖水应呈现黑色、涟漪阵阵、富有反射感且带有保护色，水妖周围有细小的波纹，前景的苔藓岩石上有微弱的高光。采用写实的电影剧照风格，营造哥特浪漫氛围，使用低调照明、青蓝色调、浓重的阴影、雾气、湿润质感、浅景深，并传达出背叛与静谧威胁的感官体验。构图保持宽幅横向，如同戏剧性的电影画面，画面中不得出现任何文字、现代物品或可见的乐器。
+
+[English]
+Create a dark cinematic fantasy scene inspired by {argument name="musical work" default="Carl Reinecke's Undine sonata"}: a moonlit German forest pool at night, with black trees and tangled branches enclosing a cold lake. Show exactly five human figures: one male figure in the left foreground seen only as a near-black silhouette from behind, crouched or standing at the water's edge; one central water nymph rising waist-deep from the lake with long soaked dark hair, pale wet skin, and a translucent drenched gown clinging to her body; and three ghostly pale faces or heads partially submerged in the water behind her, spaced across the middle and right background like drowned witnesses. The central nymph should be the brightest focal point, lit by cool blue moonlight and mist, while the man remains almost completely unlit. The water should look black, rippling, reflective, and protective, with small waves around the nymph and dim highlights on mossy rocks in the foreground. Use a realistic film-still style, gothic romantic atmosphere, low-key lighting, teal-blue color grading, heavy shadows, fog, wet textures, shallow depth of field, and a sense of betrayal and quiet menace. Keep the composition wide and horizontal, like a dramatic movie frame, with no text, no modern objects, and no visible instruments.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2069424147344630242) | 2026-06-23
+
+---
+
+### 🎨 例 2250：角色姿势与背景构图提示词
+
+![角色姿势与背景构图提示词](../../images/%E8%A7%92%E8%89%B2%E5%A7%BF%E5%8A%BF%E4%B8%8E%E8%83%8C%E6%99%AF%E6%9E%84%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{argument name="キャラクター" default="画像1のキャラクター"}に{argument name="ポーズ" default="画像2の11番目のポーズ"}を使い、大胆な構図と視点とパースで{argument name="背景" default="カッコ良い背景"}を合わせた画像をお願いします
+```
+
+**来源：** [@咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc/status/2069407214021001443) | 2026-06-23
+
+---
+
+### 🎨 例 2271：异想天开的超现实柔和卡通风格
+
+![异想天开的超现实柔和卡通风格](../../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%9F%94%E5%92%8C%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于所附照片创作一幅异想天开的超现实手绘卡通插画。使用 {argument name="color harmony" default="柔和色彩，受控的灰调柔和配色，包含柔和的紫色、海蓝色、油黄色和暖奶油色"}，柔和的彩色铅笔线条，圆润且夸张的比例，拉长的脸部，富有表现力的低垂双眼，俏皮、怪诞、有机的形状，细腻的阴影，如画的水粉画阴影，哑光纸张上可见的颗粒感，以及微小的漂浮斑点。加入植物涂鸦，采用集中的海报构图，留出纯净的负空间，背景简洁。迷人、奇特、梦幻的氛围，无写实感，无 3D 渲染，无生硬的黑色轮廓，无光泽表面，无杂乱背景，无混乱构图。
+
+[English]
+Whimsical surreal hand-drawn cartoon illustration of the attached photo. Use {argument name="color palette" default="pastel colors"}, controlled dusty pastel color harmony with {argument name="specific shades" default="muted purples, aquamarines, oil yellows and warm cream shades"}, soft colored pencil lines, rounded, exaggerated proportions, elongated faces, expressive downcast eyes, playful, grotesque, organic shapes, fine shading, picturesque {argument name="shading style" default="gouache shading"}, visible graininess of matte paper, tiny floating specks. and the botanical doodles, a concentrated poster composition with pure negative space and a simple background. Charming, strange, dreamlike mood, no photorealism, no 3D rendering, no harsh black contours, no glossy surfaces, no general background, no chaotic composition.
+```
+
+**来源：** [@Lariab Fatima‎](https://x.com/AiwithLariab/status/2069270966027633112) | 2026-06-23
+
+---
+
+### 🎨 例 2276：夏日天台柠檬苏打
+
+![夏日天台柠檬苏打](../../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E5%8F%B0%E6%9F%A0%E6%AA%AC%E8%8B%8F%E6%89%93.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="屋上レモンソーダ"}
+
+人物・表情：
+明確に成人した{argument name="年齢層" default="20代女性"}が3人。全員、自然な肌質、清透感のある日系ナチュラルメイク、ブラウン〜黒髪。左下の女性は高めのポニーテールで、巨大なグラスを見上げながら明るく笑う。右上の女性は短めのボブヘアで、グラスの縁に座り、やさしく微笑む。右下の女性は肩につく黒髪で、布の上に座りながら上を見上げて楽しそうに笑う。
+
+服装・ポーズ：
+左下の女性は白いノースリーブトップス、コーラルレッドのショートパンツ、裸足。透明な氷ブロックに片足を乗せ、右手を巨大グラスへ伸ばす。右上の女性は黄色の透かし編みノースリーブトップス、ライトブルーのデニムショートパンツ、白いストラップサンダル。巨大グラスの右上の縁に自然に腰掛け、臀部と太ももが縁にしっかり接している。片手で赤白ストライプの極太ストローを軽く握り、もう片方の手はグラスの縁に添える。両脚は外側へ自然に垂らし、片脚を少し前、もう片脚を後ろにして重心を安定させる。右下の女性は白いシアーシャツ、淡いオレンジのインナー、淡い黄色のショートパンツ。片手を後ろについて、リラックスして座る。
+
+背景・光：
+日本の屋上テラス。白い手すり、遠景にぼけた都市ビル群、鉢植え、小さな白いテーブルとドリンク小物。中央に巨大な透明グラスのレモンソーダ。黄金色の炭酸液、たっぷりの気泡、大きな氷、輪切りレモン、上にバニラアイスと赤いさくらんぼ。右上から強い夏の日差しが入り、人物の頬、髪、肩、グラスの縁、水滴、氷、レモン、濡れた床に暖かいハイライト。床には薄い水たまりがあり、光を反射してきらめく。
+
+構図・カメラ：
+縦長9:16。巨大なレモンソーダのグラスを中央に大きく配置し、画面の約65〜70％を占める。左下に立つ女性、右上にグラスの縁へ座る女性、右下に座る女性を三角形に配置。カメラはやや低めの目線、軽いローアングル。50mm前後の自然な圧縮感。人物と巨大グラスはシャープ、背景は浅めの被写界深度でやわらかくぼかす。
+
+質感・スタイル：
+明るく暖かい日系リアル写真表現。夏の広告写真のように爽やかで開放的。グラスの厚み、透明感、屈折、結露、水滴、炭酸の粒、氷のエッジ、レモン果肉、床の反射を高精細に描写。写真の上に手描き風のカラフルな落書きと日本語メモを重ねる。黄色い雲型吹き出しに「屋上で見つけた しあわせのレモンソーダ♡」、右上にピンクで「最高〜!!」、左に紫で「しゅわ しゅわ〜」、右に水色で「つめた〜い!」、左下に黄色で「ビッグな夏の思い出♡」、下部に青で「ぴちぴち きらきら〜!!」。軽やかで楽しい夏のアルバム風。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2069264240473681961) | 2026-06-23
+
+---
+
+### 🎨 例 2281：动漫角色与涂鸦拼贴
+
+![动漫角色与涂鸦拼贴](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E4%B8%8E%E6%B6%82%E9%B8%A6%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位可爱的动漫风格年轻女性，留着 {argument name="hair style" default="齐肩金发"}，柔和的侧分刘海，戴着圆框眼镜，带着 {argument name="expression" default="温柔的微笑"}。她正若有所思地摆出姿势，一根手指抵在下巴上，身穿 {argument name="outfit" default="浅蓝色宽松衬衫，内搭白色上衣，下着白色百褶裙"}。角色位于画面中心，作为视觉焦点。背景是极具创意的黑白涂鸦拼贴，包含多个她本人在不同画框和姿势下的素描风格肖像。手绘的心形、星星、箭头、闪光、漩涡以及可爱的漫画元素环绕在素描周围。背景中点缀着俏皮的手写文字，如“WOW!”、“LOVE IT!”、“SO CUTE!” 和 “OMG!”。干净的白色背景，漫画素描美学，融合细腻的动漫插画，柔和的灯光，可爱的表情，潮流社交媒体贴纸风格，高度细节，超可爱，迷人，青春活力，奇思妙想的构图，杰作级品质。
+
+[English]
+A cute anime-inspired young woman with {argument name="hair style" default="shoulder-length blonde hair"}, soft side-swept bangs, round eyeglasses, and a {argument name="expression" default="gentle smile"}. She is posing thoughtfully with one finger resting on her chin, wearing a {argument name="outfit" default="light blue oversized shirt over a white top and a white pleated skirt"}. The character stands in the center as the main focus. Behind her is a creative black-and-white doodle collage featuring multiple sketch-style portraits of herself in different frames and poses. Hand-drawn hearts, stars, arrows, sparkles, swirls, and cute comic elements surround the sketches. Playful handwritten words like "WOW!", "LOVE IT!", "SO CUTE!", and "OMG!" appear throughout the background. Clean white backdrop, manga sketch aesthetic, mixed with detailed anime illustration, soft lighting, adorable expression, trendy social media sticker style, highly detailed, ultra cute, charming, youthful, whimsical composition, masterpiece quality.
+```
+
+**来源：** [@Soaima](https://x.com/soaima70480/status/2069254712818610552) | 2026-06-23
+
+---
+

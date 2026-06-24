@@ -5915,3 +5915,87 @@ Use the provided {argument name="person name" default="Rafa Franco"} reference p
 
 ---
 
+### 🏷️ 例 2253：极简手绘涂鸦风格
+
+![极简手绘涂鸦风格](../../images/%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图像转换为极简手绘涂鸦插画。使用简单的 {argument name="ink color" default="绿色"} 画笔轮廓，线条略带抖动且不完美。在保留主体和构图的同时，将所有细节简化为可爱、稚气的形状。天真的素描本美学，俏皮而异想天开的角色设计，干净的 {argument name="background color" default="粉色"} 背景，极简线条，富有表现力的简洁感，手工涂鸦风格，黑色墨水绘图，迷人的不完美感，简单的 {argument name="style" default="卡通插画"}。格式 3:4。
+
+[English]
+Transform the image into a minimalist hand-drawn doodle illustration. Use simple {argument name="ink color" default="green"} brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean {argument name="background color" default="pink"} background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple {argument name="style" default="cartoon illustration"}. Format 3:4.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2069383824845512935) | 2026-06-23
+
+---
+
+### 🏷️ 例 2254：久经沙场的老兵肖像
+
+![久经沙场的老兵肖像](../../images/%E4%B9%85%E7%BB%8F%E6%B2%99%E5%9C%BA%E7%9A%84%E8%80%81%E5%85%B5%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="雰囲気" default="歴戦の強者感"}、{argument name="人物像" default="いい意味のおっさん感"}、{argument name="スローガン" default="異端であれ"}
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2069382462090674521) | 2026-06-23
+
+---
+
+### 🏷️ 例 2258：扁平涂鸦风格照片转换
+
+![扁平涂鸦风格照片转换](../../images/%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图，将其转换为简洁的涂鸦 / 扁平插画。精确保留原始构图、摄像机角度、房间布局、主体位置、室内外框架以及整体场景：即从客厅内透过落地玻璃门看向露台餐桌的视角。
+
+风格：将照片转换为精致的扁平矢量风格卡通插画，使用简单形状、干净的黑色轮廓、中等粗细的线条、平涂色彩，且不含任何写实阴影或渐变。在保持所有主要物体可辨识的前提下，简化纹理和细节。
+
+人物与布局：在户外餐桌周围保留与参考图中相对位置完全一致的 6 个人：左侧 1 位老年男性，桌后 1 位站立的成年人，中心附近 1 位老人，中右侧 1 位儿童，右侧 1 位儿童，以及最右侧 1 位成年女性。保持餐桌、椅子、食物、杯子、露台植物、玻璃门、窗帘、带靠垫的沙发、地毯和躺椅在原始位置。
+
+色彩处理：使用受照片启发且温暖友好的平涂色彩：米色窗帘、奶油色沙发、红色装饰靠垫、条纹地毯、黑色窗框、棕色露台家具、灰色露台地面、黄色花园墙壁以及明亮的绿色植物和树木。
+
+约束条件：禁止写实风格、禁止绘画笔触、禁止阴影、禁止排线、禁止增加人物、禁止添加文字、禁止水印。最终图像应呈现为基于参考照片制作的简洁编辑类扁平插画。
+
+[English]
+Using the provided reference image, transform it into a clean doodle / flat illustration. Preserve the original composition, camera angle, room layout, subject positions, indoor-outdoor framing, and overall scene exactly: the view from inside the living room through the large glass doors toward the patio dining table.
+
+Style: Convert the photograph into a polished flat vector-like cartoon illustration with simple shapes, clean black outlines, medium-weight linework, flat colors, and zero realistic shading or gradients. Simplify textures and details while keeping all major objects recognizable.
+
+People and layout: Keep exactly 6 people seated or standing around the outdoor table in the same relative positions as the reference: 1 older man at the left, 1 standing adult behind the table, 1 elderly person near the center, 1 child near center-right, 1 child to the right, and 1 adult woman at the far right. Keep the table, chairs, food, cups, patio plants, glass doors, curtains, sofa with pillows, rug, and lounge chair in their original locations.
+
+Color treatment: Use warm, friendly flat colors inspired by the photo: beige curtains, cream sofa, red accent pillow, striped rug, black window frames, brown patio furniture, gray patio floor, yellow garden wall, and bright green plants and trees.
+
+Constraints: No photorealism, no painterly brushwork, no shadows, no hatching, no extra people, no text, no watermark. The final image should look like a clean editorial flat illustration made from the reference photo.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2069359829752402236) | 2026-06-23
+
+---
+
+### 🏷️ 例 2274：生活时尚公园拼贴画
+
+![生活时尚公园拼贴画](../../images/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A%E5%85%AC%E5%9B%AD%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实生活时尚拼贴画，主角为一位 {argument name="subject" default="美丽的年轻女性"}，置身于 {argument name="location" default="开阔的绿色公园"} 中，时间为黄金时刻的日落时分，柔和温暖的阳光，电影般的自然光效，韩系时尚氛围，身着 {argument name="outfit" default="深酒红色宽松衬衫，浅蓝色阔腿牛仔裤"}，搭配白色运动鞋，背着深棕色皮革单肩包。采用 5 个抓拍瞬间的多帧拼贴布局。
+
+[English]
+Ultra realistic lifestyle fashion collage of a {argument name="subject" default="beautiful young woman"} in a {argument name="location" default="wide open green park"} during golden hour sunset, soft warm sunlight, cinematic natural lighting, aesthetic Korean fashion vibe, wearing a {argument name="outfit" default="deep burgundy oversized button-up shirt, light blue wide-leg denim jeans"}, white sneakers, carrying a dark brown leather shoulder bag. Multi-frame collage layout with 5 candid moments.
+```
+
+**来源：** [@Stonic AI](https://x.com/Stonic_AI/status/2069268026399338999) | 2026-06-23
+
+---
+
