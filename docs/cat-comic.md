@@ -3490,3 +3490,55 @@ Transform the uploaded photo into a warm, cozy hand-painted storybook illustrati
 
 ---
 
+### 🎬 例 2340：奇幻民间艺术风格扁平插画
+
+![奇幻民间艺术风格扁平插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将这张照片转换为带有涂鸦元素的奇幻民间风格扁平插画。保留原始构图和人物，但将所有细节简化为色彩鲜艳的简洁扁平形状，并呈现出手工制作的童趣感。使用 {argument name="color palette" default="柔和且充满活力的色彩"}、红润的脸颊、俏皮的线条艺术、可爱的装饰符号、花朵、鸟类、漩涡纹样以及温馨的城市背景细节。整体氛围应如同现代儿童绘本插画一般，温暖、欢快、艺术感十足且充满魅力。
+
+[English]
+Transform this photo into a whimsical folk flat illustration with doodle elements. Preserve the original composition and characters, but simplify all details into clean colorful flat shapes with a handmade childlike feel. Use {argument name="color palette" default="pastel and vibrant colors"}, rosy cheeks, playful line art, cute decorative symbols, flowers, birds, swirls, and cozy urban background details. The overall mood should feel warm, joyful, artistic, and charming like a modern children’s book illustration.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2069648536053133349) | 2026-06-24
+
+---
+
+### 🎬 例 2364：魔法少女变身分镜脚本
+
+![魔法少女变身分镜脚本](../../images/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%8F%98%E8%BA%AB%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为角色基础，为 {argument name="video length" default="15 秒"} 的序列创建一个横向魔法少女变身分镜脚本。在展示电影级变身序列的同时，分析并保留参考图中的角色面部、发型、发色、眼睛、体型、服装细节、配饰、主题元素以及整体的粉色魔法世界美学。
+
+格式：宽幅分镜表，采用 2 行 5 列的网格布局，共 10 个分镜格。每个分镜格必须包含一个带有日文标签的小型分镜表格，包括场景编号、时间范围、分镜画面、场景描述、镜头运用以及视频生成提示词。使用简洁的粉色边框制作风格。无水印，仅保留无标题的网格。
+
+分镜序列与时间安排：1：0.0–1.5 秒，角色在梦幻粉色天空下的发光魔法阵上站立，准备变身。2：1.5–3.0 秒，脚部特写，魔法阵和光点升起。3：3.0–4.5 秒，鞋子、袜子和腿部装饰在闪烁的光芒中显现。4：4.5–6.0 秒，丝带和发光布料缠绕腰间，裙摆形成。5：6.0–7.5 秒，上身服装成型，包括衬衫、蝴蝶结和肩部细节。6：7.5–9.0 秒，手臂配饰、袖子、手套和腕部装饰出现。7：9.0–10.5 秒，面部和上半身特写，发饰、丝带、耳朵/头部配饰以及皇冠状的小饰品闪烁就位。8：10.5–12.0 秒，角色获得或召唤标志性的魔法道具/武器，必要时面部可被明亮的变身光芒部分遮挡。9：12.0–13.5 秒，全身展示，头发、裙摆和丝带在灿烂的粉色光芒中戏剧性地飘动。10：13.5–15.0 秒，最终英雄姿势，身后出现巨大的魔法阵，周围环绕可爱的吉祥物元素。
+
+风格：柔和的粉色动漫魔法少女美学，柔软的云朵、爱心、闪光、发光的符文、丝带、发光粒子、梦幻般的奇幻光影、细腻的线条，高饱和度的粉色与白色。保持分镜脚本清晰且面向制作，每个分镜格内包含日文文本块。
+
+自定义：变身主题应为 {argument name="transformation theme" default="粉色爱心与丝带魔法少女"}，最终的魔法道具应为 {argument name="magical item" default="可爱的粉色魔杖类武器"}。
+
+[English]
+Using the provided reference image as the character base, create a horizontal magical-girl transformation storyboard for a {argument name="video length" default="15 seconds"} sequence. Analyze and preserve the character’s face, hairstyle, hair color, eyes, body type, outfit details, accessories, motifs, and overall pink magical world aesthetic from the reference while showing the transformation as a cinematic sequence.
+
+Format: Wide storyboard sheet with exactly 10 panels arranged in a 2-row by 5-column grid. Each panel must have a small storyboard table layout with Japanese labels, including Scene number, time range, split image, scene description, camera work, and video generation prompt. Use a clean pink-bordered production storyboard style.
+
+Panel sequence and timing: 1: 0.0–1.5s, the character stands before transforming on a glowing magic circle in a dreamy pink sky. 2: 1.5–3.0s, close-up of feet as magic circles and light particles rise. 3: 3.0–4.5s, shoes, socks, and leg decorations appear in sparkling light. 4: 4.5–6.0s, skirt forms as ribbons and luminous fabric wrap around the waist. 5: 6.0–7.5s, upper-body outfit forms with blouse, bow, and shoulder details. 6: 7.5–9.0s, arm accessories, sleeves, gloves, and wrist decorations appear. 7: 9.0–10.5s, close-up of the face and upper body as hair ornaments, ribbons, ears/head accessories, and a small crown-like ornament sparkle into place. 8: 10.5–12.0s, the character receives or summons a signature magical item/weapon, with face partially obscured by bright transformation light if needed. 9: 12.0–13.5s, full-body reveal with hair, skirt, and ribbons swirling dramatically in radiant pink light. 10: 13.5–15.0s, final heroic pose with a large magic circle behind her and cute mascot-like elements around the scene.
+
+Style: pastel pink anime magical-girl aesthetic, soft clouds, hearts, sparkles, glowing runes, ribbons, luminous particles, dreamy fantasy lighting, delicate line art, high saturation pinks and whites. Keep the storyboard readable and production-oriented, with Japanese text blocks in each panel. Add a title-free grid only; no watermark.
+
+Customization: The transformation theme should be {argument name="transformation theme" default="pink heart-and-ribbon magical girl"}, and the final magical item should be {argument name="magical item" default="a cute pink wand-like weapon"}.
+```
+
+**来源：** [@Mikisun](https://x.com/mikisuno2025/status/2069585389984329928) | 2026-06-24
+
+---
+

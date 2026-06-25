@@ -4426,3 +4426,67 @@ Create a dramatic vertical anime fantasy action illustration of one female chara
 
 ---
 
+### 🖥️ 例 2292：网球拍爆炸图蓝图
+
+![网球拍爆炸图蓝图](../../images/%E7%BD%91%E7%90%83%E6%8B%8D%E7%88%86%E7%82%B8%E5%9B%BE%E8%93%9D%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的技术蓝图风格爆炸图，展示 {argument name="sports equipment" default="网球拍和网球"}，并像说明书插图一样进行标注。
+
+画布：3:4 纵向构图，采用米白色纸张背景，留有大量负空间。使用纤细的钴蓝色线条、单线绘图笔触，仅在必要处使用淡蓝色半透明填充，并带有细微的印刷纹理。除球核处有极淡的平铺蓝色填充外，无其他阴影。
+
+布局：将爆炸的网球拍垂直放置在画布左侧三分之二处，各部件沿中心垂直轴分离。将爆炸的网球横截面放置在右侧中部。添加虚线垂直引导线以框定每个爆炸组件，并添加虚线水平引出线指向各部件右侧的标签。使用小型全大写等宽蓝图字体。
+
+页眉和页脚文本：在左上角放置 "FIG.002"。在右上角放置 "[ RACQUET AND BALL ]"。在右下角放置 "COPYRIGHT 2026"。
+
+离散元素：总共显示 13 个主要可见组件：7 个球拍组件和 6 个球体/标注相关组件。7 个球拍组件从上到下依次为：1) FRAME（拍框），带有均匀间隔小孔的椭圆形拍头边缘及局部叉状连接；2) STRING BED（拍面），由密集的对角交叉线组成的独立椭圆形网状插件，带有微小的周边节点；3) THROAT（拍喉），带有开放式切口的叉状三角形连接件；4) SHAFT（拍杆），带有矩形嵌入细节和圆形末端开口的短圆柱形连接件；5) GRIP（手柄），带有螺旋带的加长缠绕式圆柱形手柄；6) BUTT CAP（拍柄底盖），手柄下方的小型六角形端盖；7) 环绕球拍组件的虚线对齐框和标注构造线。6 个球体/标注相关组件为：1) 顶部白色弧形 FELT（毛毡）外壳片；2) 顶部带有圆形环状轮廓的中央蓝色球形 CORE（球核）；3) 底部白色弧形 FELT（毛毡）外壳片；4) 环绕球体组件的虚线垂直引导线；5) 指向 FELT 的虚线水平标签线；6) 指向 CORE 的虚线水平标签线。
+
+标签：添加 7 个蓝色大写文本标注：FRAME、STRING BED、THROAT、SHAFT、GRIP、BUTT CAP、FELT 和 CORE。将球拍标签放置在球拍部件右侧，球体标签放置在球体部件右侧。保持标签对齐且简洁。
+
+视觉风格：极简未来主义技术插图、产品爆炸示意图、精确的矢量几何图形、纤细的蓝色轮廓、拍面使用淡蓝色阴影/网格，无照片级真实感，无人像，无球场，无额外装饰。
+
+约束：保持拍头在顶部略微倾斜，拍面悬浮于其下方，所有手柄部件向下堆叠并留有可见间隙。球体应呈现为简单的剖面图，包含两个分离的毛毡外壳半球和一个蓝色球核。在 {argument name="background color" default="暖米色"} 纸张上使用 {argument name="line color" default="钴蓝色"} 线条，并标注 {argument name="figure number" default="FIG.002"} 和 {argument name="copyright text" default="COPYRIGHT 2026"}。
+
+[English]
+Goal: Create a clean technical blueprint-style exploded diagram of {argument name="sports equipment" default="a tennis racquet and ball"}, labeled like an instruction manual figure.
+
+Canvas: Portrait 3:4 composition on an off-white paper background with lots of negative space. Use thin cobalt-blue line art, monoline drafting strokes, pale blue translucent fills only where needed, and subtle print texture. No shadows except very light flat blue fill on the ball core.
+
+Layout: Place the exploded tennis racquet vertically on the left two-thirds of the canvas, with parts separated along a central vertical axis. Place the exploded tennis ball cross-section on the right-middle. Add dashed vertical guide lines framing each exploded assembly and dashed horizontal callout lines leading to labels on the right of each part. Use small all-caps monospaced blueprint lettering.
+
+Header and footer text: Put "FIG.002" in the top-left corner. Put "[ RACQUET AND BALL ]" in the top-right corner. Put "COPYRIGHT 2026" in the bottom-right corner.
+
+Discrete elements: Show exactly 13 main visible components total: 7 racquet components and 6 ball/callout-related components. The 7 racquet components, from top to bottom, are: 1) FRAME, an oval racquet head rim with small evenly spaced holes around the inner edge and a partial yoke connection; 2) STRING BED, a separate oval mesh insert made of dense diagonal crisscross strings with tiny perimeter nodes; 3) THROAT, a forked triangular bridge piece with open cutouts; 4) SHAFT, a short cylindrical handle connector with a rectangular inset detail and a circular end opening; 5) GRIP, a longer wrapped cylindrical grip with spiral bands; 6) BUTT CAP, a small hexagonal end cap below the grip; 7) dashed alignment box and callout construction lines surrounding the racquet assembly. The 6 ball/callout-related components are: 1) top white curved FELT shell piece; 2) central blue spherical CORE with a circular ring contour on top; 3) bottom white curved FELT shell piece; 4) dashed vertical guide lines around the ball assembly; 5) dashed horizontal label line to FELT; 6) dashed horizontal label line to CORE.
+
+Labels: Add exactly 7 callout labels in blue uppercase text: FRAME, STRING BED, THROAT, SHAFT, GRIP, BUTT CAP, FELT, and CORE. Place racquet labels to the right of the racquet parts and ball labels to the right of the ball parts. Keep labels aligned and minimal.
+
+Visual style: Minimal futuristic technical illustration, exploded product schematic, precise vector-like geometry, thin blue outlines, light blue hatching/mesh for the string bed, no photorealism, no people, no court, no extra decorations.
+
+Constraints: Keep the racquet head slightly tilted in perspective at the top, the string bed floating below it, and all handle parts stacked downward with visible gaps. The ball should appear as a simple cutaway with two separated felt shell halves and one blue core. Use {argument name="line color" default="cobalt blue"} linework on {argument name="background color" default="warm off-white"} paper, with {argument name="figure number" default="FIG.002"} and {argument name="copyright text" default="COPYRIGHT 2026"}.
+```
+
+**来源：** [@RT](https://x.com/ReverseTricks/status/2069862854992286160) | 2026-06-24
+
+---
+
+### 🖥️ 例 2317：超现实主义高级时装大片
+
+![超现实主义高级时装大片](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级真实感高级时装大片，竖构图 4:5。一位年轻时尚模特平静地坐在 {argument name="flower type" default="巨大的粉色花朵"} 的中心，花朵生长在云层之上，花茎从下方升起并消失在柔软的白云中。从略低的角度进行仰拍，花朵构成了画面框架，使花朵显得宏伟而超现实。模特身穿 {argument name="clothing" default="短袖挺括的超大款白色衬衫"}，搭配宽松的浅色长裤、银饰和黑色极简凉鞋。自然的棕色长发在风中轻柔飘动，表情沉稳，带着淡淡的微笑。干净明亮的蓝天，几朵柔软的白云，巨大的花瓣细节丰富，明亮的自然日光，色彩鲜艳清晰，充满趣味的超现实时尚广告氛围，逼真的解剖结构，自然的手部细节，清晰的时尚摄影，无文字，无 Logo --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+
+[English]
+photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one {argument name="flower type" default="enormous pink flower"} growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a {argument name="clothing" default="short sleeve crisp oversized white shirt"}, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2069735876910031312) | 2026-06-24
+
+---
+

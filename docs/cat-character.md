@@ -3992,3 +3992,35 @@ Constraints: No text labels, no weapons, no hats, no extra characters, no dramat
 
 ---
 
+### 🧍 例 2345：葡萄牙队球迷购物生活照
+
+![葡萄牙队球迷购物生活照](../../images/%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E7%90%83%E8%BF%B7%E8%B4%AD%E7%89%A9%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张与参考图像中人物一致的写实生活方式抓拍照片，保留其面部特征、面部比例、肤色及可辨识的细节。她正身处一家现代便利店中悠闲购物，同时自豪地支持 {argument name="team" default="葡萄牙队"} 征战 {argument name="tournament" default="2026 年国际足联世界杯"}，捕捉的是真实的日常瞬间，而非摆拍。
+
+中景全身侧面构图。她站在光线明亮的货架通道中，神情专注地阅读包装细节，对比着两款美容或健康产品。一只手将一个精致的瓶子拿在脸部附近，另一只手拿着她正在考虑的第二件产品。
+
+她的深色头发梳成 {argument name="hair style" default="随性的高丸子头"}，几缕发丝自然地垂在脸颊旁。佩戴纤细的金色圆环耳环，涂着淡淡的唇彩，妆容自然，头顶架着一副超大黑色太阳镜。
+
+服装：一件灵感源自 2026 年国际足联世界杯活动的葡萄牙国家队正版球衣，融入了葡萄牙队配色及微妙的“通往 2026 年国际足联世界杯”设计细节，搭配炭灰色迷你短裙和黑色透肤丝袜，营造出时髦的都市运动女孩风格。她背着一个大号奢华风老花单肩包，脚穿黑色短靴。
+
+场景设定为东南亚的现代便利店，通道狭窄，货架上摆满了色彩缤纷的护肤品、饮料、零食和日用品。天花板的荧光灯板为整个场景投射出柔和、漫射的光线。
+
+自然的抓拍肢体语言、写实的姿态、真实的购物行为、地道的零售氛围，呈现出非摆拍的纪实美学。柔和的景深效果，背景略微虚化，同时保持主体清晰细腻。
+
+使用 35mm 镜头平视拍摄，超写实 RAW 摄影画质，真实的皮肤纹理，精准的织物细节，自然色彩，柔和阴影，焦点清晰，4K 细节。
+
+竖构图，主体位于画面中心偏左，面向右侧货架，营造出沉浸式的日常购物场景，具有当代都市生活方式的编辑风格，避免了刻意感，将葡萄牙队的球迷氛围自然地融入 2026 年国际足联世界杯的日常生活中。
+
+[English]
+Photorealistic candid lifestyle photograph of the same woman as the reference image, preserving her exact facial identity, facial proportions, skin tone, and recognizable features. She is {argument name="action" default="casually shopping inside a modern convenience store while proudly supporting Portugal on the road to the FIFA World Cup 2026"}, captured in an authentic everyday moment rather than a posed photoshoot. Medium-full body side-angle composition. She stands in a brightly illuminated aisle, comparing two beauty or wellness products while reading packaging details with a focused expression. One hand holds a sleek bottle close to her face while the other carries a second product she is considering. Her dark hair is styled in a relaxed high bun with a few loose strands framing her face. Slim gold hoop earrings, subtle glossy lips, natural makeup, and oversized black sunglasses resting on her head. Outfit: {argument name="clothing" default="an authentic Portugal national team jersey inspired by the FIFA World Cup 2026 campaign, featuring Portugal colors and subtle “Road to FIFA World Cup 2026” design details, paired with a charcoal gray mini skort and sheer black tights"}, creating a chic sporty city-girl aesthetic. She carries a large luxury-inspired monogram shoulder bag and wears black ankle boots. {argument name="location" default="Modern convenience store environment in Southeast Asia"} with narrow aisles, brightly stocked shelves filled with colorful skincare, beverages, snacks, and household essentials. Fluorescent ceiling panels cast soft, diffused light across the scene. Natural candid body language, realistic posture, genuine shopping behavior, authentic retail atmosphere, unposed documentary aesthetic. Soft depth of field with subtle background blur while keeping the subject sharply detailed. Shot with a 35mm lens at eye level, ultra-realistic RAW photography quality, realistic skin texture, accurate fabric details, natural colors, soft shadows, crisp focus, 4K detail. Vertical composition, subject positioned slightly left of center, facing the shelves on the right side of the frame, immersive everyday shopping scene, contemporary urban lifestyle editorial feel without looking staged, subtle Portugal fan energy integrated naturally into an everyday FIFA World Cup 2026 lifestyle moment.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2069632582917197923) | 2026-06-24
+
+---
+

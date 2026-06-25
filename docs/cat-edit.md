@@ -1950,3 +1950,141 @@ Constraints: Preserve the rough sketch’s short-haired girl concept and black f
 
 ---
 
+### 🔧 例 2296：电影级剧照超分辨率转换
+
+![电影级剧照超分辨率转换](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%89%A7%E7%85%A7%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将源图像转换为高分辨率的 {argument name="mood" default="充满氛围感的电影剧照"}，同时确保绝对忠实于原始主体 100% 的面部特征、姿势和性别。保持人物姿势与原始图像 100% 完全一致。进行超写实放大，使主体聚焦极其清晰。显著增强并锐化皮肤纹理，使其细节丰富且栩栩如生，展现出清晰的毛孔、细纹和逼真的轮廓。应用戏剧性的 {argument name="lighting" default="低调背光，投射出强烈的暖橙色和深琥珀色调"} 作为主光源，在轮廓周围营造出强烈的轮廓光和温暖的光晕。阴影部分必须压暗至深黑色，并在较暗的背景区域呈现出明显的冷青色和柔和的深绿色底色。在整张图像上添加厚重、真实的模拟胶片颗粒纹理。浅景深，高对比度明暗对照照明，氛围感，情感化，暗黑电影美学。
+
+[English]
+Transform the source image into a high-resolution, {argument name="mood" default="moody cinematic film still"}, while maintaining absolute fidelity to the 100% original subject's facial features, pose, and gender. Keep the person's pose exactly 100% the same as the real image. Perform a hyper-realistic upscale, bringing the subject into extremely sharp focus. Significantly enhance and sharpen skin texture to be incredibly detailed and lifelike, showing visible pores, fine lines, and realistic definition. Apply dramatic, {argument name="lighting" default="low-key backlighting that casts intense warm orange and deep amber tones"} as the dominant light source, creating strong rim lighting and a heated glow around the silhouette. The shadows must be crushed deep black, with distinct cool teal and muted dark green undertones visible in the darker background areas. Add a heavy, authentic analog film grain texture over the entire image. Shallow depth of field, high contrast chiaroscuro lighting, atmospheric, emotional, dark cinematic aesthetic.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2069808613871218893) | 2026-06-24
+
+---
+
+### 🔧 例 2307：手绘编辑涂鸦风格
+
+![手绘编辑涂鸦风格](../../images/%E6%89%8B%E7%BB%98%E7%BC%96%E8%BE%91%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以简约的手绘涂鸦卡通风格进行创作，仿佛是用黑色记号笔手绘而成。使用自然的记号笔线条、略显不规则的轮廓、细微的手绘瑕疵、微开口的边缘，营造出一种温暖的编辑涂鸦感。避免过于精致的矢量效果，避免过于清晰的数字完美感，保持画面简约、通透、扁平且低调。仅将 {argument name="accent color" default="sky blue"} 用作强调色。
+
+[English]
+Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person with a black felt-tip pen. Use natural marker lines, slightly wobbly contours, subtle hand-drawn imperfections, slightly open edges, and a warm editorial doodle feeling. Avoid polished vector-clean results, avoid overly crisp digital perfection, and keep the image simple, airy, flat, and understated. Use {argument name="accent color" default="sky blue"} only as the accent color.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2069773202675658902) | 2026-06-24
+
+---
+
+### 🔧 例 2319：屋顶上的动漫忍者少女
+
+![屋顶上的动漫忍者少女](../../images/%E5%B1%8B%E9%A1%B6%E4%B8%8A%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%BF%8D%E8%80%85%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插图，描绘一位年轻女忍者在黄昏时分坐在倾斜的日式传统瓦片屋顶上，采用 2:3 竖版构图。她留着 {argument name="hair color" default="亮橙珊瑚色"} 的双马尾，用发圈扎起，长刘海修饰脸型，姿态俏皮，一只手举起比出剪刀手；在手势旁添加一个小黄色闪光点。她的面部被一个居中的方形遮挡块刻意隐藏，遮挡块呈现柔和的粉色到灰色渐变，完全遮住了眼睛、鼻子和嘴巴。她身穿橙色无袖忍者服，深 V 领口设计，带有黑色滚边、黑色腰带及垂下的系带，侧面可见网眼拼接，短橙色裙摆下穿着黑色紧身短裤，佩戴黑色露指手套和护腕，腿部缠绕黑色绑腿，脚穿红色系带的黑色露趾忍者凉鞋。镜头从上方近距离拍摄，强调她坐在前景中弯曲双腿、一只手臂撑在身后屋顶的姿态。背景：深蓝色瓦片屋顶、阴影中的树木和烟囱剪影，以及清澈的青蓝色夜空。使用清晰利落的线条、赛璐珞动漫渲染、光泽感的皮肤高光、冷蓝色阴影下饱和的橙色点缀、电影级光效，高细节，无文字，无水印，无额外角色。
+
+[English]
+Create a polished anime-style illustration of a young female ninja sitting on a sloped traditional Japanese tiled rooftop at dusk, shown in a vertical 2:3 composition. She has {argument name="hair color" default="bright orange coral"} hair in two high twin ponytails tied with scrunchies, long bangs framing the face, and a playful pose with one hand raised making a peace sign; add a small yellow sparkle beside the gesture. Her face is intentionally hidden by a centered square censor block with a soft pink-to-gray gradient, covering the eyes, nose, and mouth completely. She wears an orange sleeveless kunoichi outfit with a deep wrap-style neckline, black trim, black belt and hanging ties, visible fishnet mesh side panels, black tight shorts under a short orange skirt panel, black fingerless gloves with wrist guards, black shin wraps, and open-toe black ninja sandals with red ties. The camera is close and slightly above, emphasizing her seated pose with bent legs in the foreground and one arm braced behind her on the roof. Background: dark blue rooftops with ceramic tiles, shadowy trees and chimney silhouettes, and a clear teal-blue evening sky. Use clean crisp linework, cel-shaded anime rendering, glossy skin highlights, saturated orange accents against cool blue shadows, cinematic lighting, high detail, no text, no watermark, no extra characters.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2069722617444270291) | 2026-06-24
+
+---
+
+### 🔧 例 2326：唯美旅行手账拼贴
+
+![唯美旅行手账拼贴](../../images/%E5%94%AF%E7%BE%8E%E6%97%85%E8%A1%8C%E6%89%8B%E8%B4%A6%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为时尚的 {argument name="style" default="唯美旅行手账拼贴"}。保持面部不变，确保 100% 的面部相似度及自然的皮肤纹理。使用原场景中的 4–5 种不同姿势创建多图拍立得布局，展示一位穿着 {argument name="outfit" default="粉色格纹西装外套和短裙"}、白色短款上衣、太阳镜、金色配饰，并手持一束粉白满天星花束的时尚女性。添加撕纸纹理、复古胶带、手写笔记、涂鸦爱心、干花、邮票元素、胶片边框以及优雅的日记风格排版。使用 {argument name="color palette" default="暖米色调"}，营造柔和的自然日光、舒适的首尔街头氛围、高端生活方式摄影感、简洁的构图、逼真的阴影、高级手账美学、旅行日记设计、Instagram 风格拼贴，呈现超精细、杂志级的 4K 分辨率画质。加入励志的手写引语和微妙的韩式设计元素，同时保持时尚、柔美且梦幻的氛围。
+
+[English]
+Transform the uploaded photo into a stylish aesthetic travel scrapbook collage. Keep the face unchanged with 100% facial similarity and natural skin texture. Create a multi-photo Polaroid layout using 4–5 different poses from the original scene, featuring {argument name="fashion style" default="a fashionable woman in a pink plaid blazer and skirt, white crop top, sunglasses, gold accessories, and a bouquet of pink and white baby’s breath flowers"}. Add torn paper textures, vintage tape pieces, handwritten notes, doodle hearts, dried flowers, postage stamp elements, film frame borders, and elegant journal-style typography. Use a {argument name="color palette" default="warm beige"} color palette with soft natural daylight, {argument name="location vibe" default="cozy Seoul street vibes"}, high-end lifestyle photography, clean composition, realistic shadows, premium scrapbook aesthetic, travel diary design, Instagram-worthy collage, ultra-detailed, magazine-quality, 4K resolution. Include inspirational handwritten quotes and subtle Korean-inspired design elements while maintaining a chic, feminine, and dreamy atmosphere.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2069699386163224923) | 2026-06-24
+
+---
+
+### 🔧 例 2338：动漫杂志封面转换
+
+![动漫杂志封面转换](../../images/%E5%8A%A8%E6%BC%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色和服装基础，将 Cosplay 照片转换为精致的全身动漫杂志封面插画。保留标志性的蓝色旗袍式服装、银白色长发、蓝色丝带、红色腰部流苏、带有蕾丝图案的黑色过膝袜以及黑色高跟鞋，但将所有元素重绘为干净的高端 2D 动漫艺术风格，并加入光泽感的布料高光和细腻的线条。
+
+将姿势改为更具动感的漂浮/跪姿时尚造型：角色面朝观众，表情冷静，长发在页面上戏剧性地飘动，一只手臂向外伸展，一只手低垂在裙摆附近，一条弯曲的腿在前景中突出。将真实照片的地面替换为明亮的白色编辑背景，并点缀散落的蓝色花瓣。
+
+添加时尚/动漫杂志封面设计，包含 7 个可见的文字元素：顶部横跨一个巨大的红色衬线字体刊头，内容为 {argument name="masthead text" default="HOKUEU"}；左上方有两个小的红/黑色副标题块，内容分别为 {argument name="left cover text" default="STAR HI OF NPEL"} 和 "GINIIN"；右上方有一个带有风格化伪编辑文本的小型红色副标题块；左下方有两行红色封面文案，内容分别为 {argument name="bottom name text" default="IREYREY"} 和 {argument name="issue number" default="2.0"}；以及一个下方带有微小不可读出版文本的条形码块。保持排版优雅、极简，且具有类似日本画册封面的超现实感。
+
+风格：清晰的现代动漫插画，白色负空间，饱和的蓝宝石色和深红色点缀，精致的时尚海报构图，柔和的皮肤阴影，发光质感的头发，拒绝写实感。不要保留参考图中遮挡面部的色块；将其替换为动漫风格的面部。
+
+[English]
+Using REFERENCE_0 as the character and costume base, transform the cosplay photo into a polished full-body anime magazine-cover illustration. Preserve the recognizable blue qipao-style outfit, silver-white long hair, blue ribbon, red waist tassel, black thigh-high stockings with lace pattern, and black heels, but redraw everything as clean high-end 2D anime art with glossy fabric highlights and delicate linework.
+
+Change the pose into a more dynamic floating/kneeling fashion pose: the character faces the viewer with a calm expression, long hair streaming dramatically across the page, one arm extended outward to the side, one hand low near the dress hem, and one bent leg lifted prominently in the foreground. Replace the real photo floor with a bright white editorial background and scattered blue petal accents.
+
+Add a fashion/anime magazine cover design with exactly 7 visible text elements: 1 huge red serif masthead across the top reading {argument name="masthead text" default="HOKUEU"}; 2 small red/black subtitle blocks near the upper left reading {argument name="left cover text" default="STAR HI OF NPEL"} and "GINIIN"; 1 small red subtitle block near the upper right with stylized pseudo-editorial text; 2 lower-left red cover lines reading {argument name="bottom name text" default="IREYREY"} and {argument name="issue number" default="2.0"}; and 1 barcode block with tiny unreadable publication text beneath it. Keep the typography elegant, minimal, and slightly surreal like a Japanese art-book cover.
+
+Style: crisp modern anime illustration, white negative space, saturated sapphire blue and crimson accents, refined fashion-poster composition, soft skin shading, luminous hair, no photorealism. Do not keep the face-obscuring block from the reference; replace it with an anime face.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2069663852359467309) | 2026-06-24
+
+---
+
+### 🔧 例 2344：奇幻民间艺术插画
+
+![奇幻民间艺术插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此照片转换为 {argument name="style" default="奇幻民间扁平插画"}，并加入涂鸦元素。保留原始构图和人物，但将所有细节简化为整洁的 {argument name="color scheme" default="色彩鲜艳的扁平形状"}，并带有手工童趣感。使用 {argument name="palette" default="柔和且鲜艳的配色"}，添加红润的脸颊、俏皮的线条艺术、可爱的装饰符号、花朵、鸟类、漩涡纹样以及温馨的城市背景细节。整体氛围应如同现代童书插画般温暖、愉悦、富有艺术感且迷人。
+
+[English]
+Transform this photo into a {argument name="style" default="whimsical folk flat illustration"} with doodle elements. Preserve the original composition and characters, but simplify all details into clean {argument name="color scheme" default="colorful flat shapes"} with a handmade childlike feel. Use {argument name="palette" default="pastel and vibrant colors"}, rosy cheeks, playful line art, cute decorative symbols, flowers, birds, swirls, and cozy urban background details. The overall mood should feel warm, joyful, artistic, and charming like a modern children’s book illustration.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2069639987008798809) | 2026-06-24
+
+---
+
+### 🔧 例 2363：手绘 Q 版涂鸦插画
+
+![手绘 Q 版涂鸦插画](../../images/%E6%89%8B%E7%BB%98%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转化为可爱的黑白手绘 {argument name="illustration style" default="Q 版涂鸦插画"}。在将母子转化为拥有大头、小身体、圆眼睛、柔和微笑和简化特征的可爱卡通形象时，请保留原始的姿势、构图、面部表情、服装、太阳镜和鹿角头饰。使用纯白背景上的干净黑色墨水线条，辅以细腻的素描排线、俏皮的手绘纹理，并在周围添加微小的爱心、闪光和可爱的涂鸦元素。保持温暖的拥抱、愉悦的家庭氛围以及抓拍照片的视角。卡哇伊漫画风格，极简黑白配色，贴纸包美学，温馨的儿童绘本插画，迷人的速写画作，生动的表情，柔和的圆润形状，舒适暖心的氛围，高精细度线条艺术，可爱的社交媒体头像风格，大师级品质。
+
+[English]
+Transform the uploaded photo into a cute black-and-white hand-drawn {argument name="illustration style" default="chibi doodle illustration"}. Preserve the exact pose, composition, facial expressions, clothing, sunglasses, and antler headband while converting the mother and child into adorable cartoon characters with oversized heads, tiny bodies, round eyes, soft smiles, and simplified features. Use clean black ink linework on a pure white background with subtle sketch hatching, playful hand-drawn texture, tiny hearts, sparkles, and cute doodle accents around them. Maintain the warm hug, joyful family connection, and candid photo-booth perspective. Kawaii manga-inspired art style, minimalist monochrome palette, sticker-pack aesthetic, wholesome children's storybook illustration, charming sketchbook drawing, expressive faces, soft rounded shapes, cozy and heartwarming mood, highly detailed line art, cute social media avatar style, masterpiece quality.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2069594832692261292) | 2026-06-24
+
+---
+

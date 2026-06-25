@@ -1126,3 +1126,35 @@ Visual style: {argument name="art style" default="epic high-detail cinematic con
 
 ---
 
+### 🏛️ 例 2332：小红书情绪感人像封面
+
+![小红书情绪感人像封面](../../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%83%85%E7%BB%AA%E6%84%9F%E4%BA%BA%E5%83%8F%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+生成一张适合小红书发布的3:4竖版封面图。画面主体是一位{argument name="年龄" default="20多岁"}的年轻人，晚上独自坐在{argument name="环境" default="出租屋书桌前"}，盯着电脑屏幕发呆。电脑上隐约显示多个副业项目页面和待办事项，但不要出现清晰可读文字。人物表情要有“{argument name="情绪" default="想改变现状，但又不知道从哪里开始”的真实迷茫感"}。不是夸张崩溃，而是安静、压抑、让人有代入感。桌面上有笔记本、手机、咖啡杯、几张随手写过的便签，环境真实生活化，不要豪华办公室。构图要求：人物位于画面右侧，左侧和上方留出干净区域，方便后期放大标题。光线要求：房间整体偏暗，桌面有一盏暖黄色台灯，电脑屏幕发出微弱冷光，形成冷暖对比。整体风格是真实摄影感，高级但不过度修饰。自然皮肤纹理，真实阴影，略带电影感。
+```
+
+**来源：** [@空投龙 | 美股AI分析师](https://x.com/1YES_yes1/status/2069684466206036201) | 2026-06-24
+
+---
+
+### 🏛️ 例 2354：浪漫花园中的猫咪肖像
+
+![浪漫花园中的猫咪肖像](../../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E7%9A%84%E7%8C%AB%E5%92%AA%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量的竖版照片级逼真肖像，画面中一位优雅的 {argument name="woman ethnicity" default="南亚裔"} 女性坐在郁郁葱葱、阳光明媚的浪漫花园中，长椅为精致的白色雕花石椅。她留着 {argument name="hair style" default="侧分的长波浪深色卷发"}，发丝垂落在肩头，佩戴着夸张的银色 Jhumka 风格耳环，身穿一件优雅的 {argument name="dress color and pattern" default="柔和淡粉色花卉图案 A 字裙"}，配有透视长袖、简约圆领、收口袖口和飘逸的裙摆。她的面部应进行柔和的匿名化或遮挡处理，同时保留整体肖像构图。一只毛茸茸的 {argument name="pet" default="白色波斯猫"} 安静地趴在她的膝盖上，露出爪子，她的手正轻轻抚摸着它。场景包含一张精致的白色石椅，背景中有一个模糊的层叠喷泉，她身后有一根浅色立柱或花园建筑，两侧簇拥着粉色玫瑰，前景中点缀着模糊的淡紫色花朵。运用温暖的黄金时刻阳光、柔和的逆光、浅景深、奶油般的虚化效果、自然的淡雅色调，营造出优雅的时尚杂志摄影氛围。采用 2:3 竖版构图，坐姿为四分之三侧面，主体略微偏右，前景花卉营造出空间深度。无文字，无水印，无其他人物。
+
+[English]
+Create a high-quality vertical photorealistic portrait of a graceful {argument name="woman ethnicity" default="South Asian"} woman seated on an ornate white carved stone garden bench in a lush, sun-drenched romantic garden. She has {argument name="hair style" default="long dark wavy hair parted to one side"} cascading over her shoulder, wears large silver jhumka-style earrings, and is dressed in an elegant {argument name="dress color and pattern" default="soft pastel pink floral-patterned A-line dress"} with sheer long sleeves, a modest round neckline, gathered cuffs, and a flowing skirt. Her face should be softly anonymized or obscured while preserving the overall portrait composition. A fluffy {argument name="pet" default="white Persian cat"} rests calmly on her lap with its paws visible, and her hand gently pets it. The setting includes exactly one ornate white stone bench, one tiered fountain blurred in the background, one pale column or garden structure behind her, clusters of pink roses on both sides, and lavender-like purple flowers blurred in the foreground. Use warm golden-hour sunlight, soft backlighting, shallow depth of field, creamy bokeh, natural pastel colors, and an elegant editorial fashion photography mood. Compose as a 2:3 vertical image, seated three-quarter pose, subject centered slightly right, with foreground flowers creating depth. No text, no watermark, no extra people.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2069617048716788011) | 2026-06-24
+
+---
+

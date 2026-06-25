@@ -10455,3 +10455,169 @@ Constraints: Keep everything in English except the signature if customized. No p
 
 ---
 
+### 🎴 例 2288：先锋运动服饰时尚大片
+
+![先锋运动服饰时尚大片](../../images/%E5%85%88%E9%94%8B%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+先锋运动服饰时尚广告，一个超大号的 {argument name="prop" default="篮球"} 被处理成雕塑般的艺术装置，一位女性运动员斜倚在其弧形表面上，宛如躺在设计师家具上，背景中填充着巨大的粗体字 "{argument name="headline" default="ELEVATE"}"，浓郁的 {argument name="background color" default="焦橙色"} 工作室背景，高光反射地面，奢华高端运动时尚美学，戏剧性的电影级灯光，极致简约的构图，1:1
+
+[English]
+Avant-garde sportswear editorial ad, an oversized {argument name="prop" default="basketball"} treated as a sculptural monument, a female athlete lying back across its curved surface as though draped on designer furniture, the word "{argument name="headline" default="ELEVATE"}" in massive bold type filling the backdrop, rich {argument name="background color" default="burnt-orange"} studio background, high-gloss reflective floor, luxury high-end athletic editorial aesthetic, dramatic cinematic lighting, ultra-clean minimal composition, 1:1
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2069930794983039029) | 2026-06-24
+
+---
+
+### 🎴 例 2293：城市双重曝光宣传海报
+
+![城市双重曝光宣传海报](../../images/%E5%9F%8E%E5%B8%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="event" default="2026 年春节"} {argument name="city" default="广州"} 城市宣传海报，9:16 竖版，既有节日氛围又不失优雅。采用 S 型流线构图的双重曝光效果，背景为纯白纹理纸质感。右下角：一位身着传统中式服装的微缩人物挥舞着长长的红绸带，绸带幻化为连绵的山峦与江水，从中显现出层次分明的广州全景，包括广州塔、珠江新城天际线、珠江游船、古建筑以及白云山。左下角排版：“SPRING 2026” 横向排列，配以竖排汉字“千年商都，魅力广州”。
+
+[English]
+{argument name="event" default="Spring Festival 2026"} {argument name="city" default="Guangzhou"} city promo poster, vertical 9:16, festive yet elegant. Double exposure with S-curve flowing composition on a pure white textured background. Bottom-right corner: a miniature figure in traditional Chinese attire swings a long red silk ribbon that morphs into mountain ridges and river currents, revealing a layered Guangzhou panorama inside, including Canton Tower, Zhujiang New Town skyline, Pearl River with cruise ships, ancient architecture, and Baiyun Mountain. Bottom-left typography: "SPRING 2026" horizontal with a vertical line of Chinese characters reading "Millennial Trade City, Charming Guangzhou."
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2069840084673945968) | 2026-06-24
+
+---
+
+### 🎴 例 2309：瑞士现代主义汽车海报
+
+![瑞士现代主义汽车海报](../../images/%E7%91%9E%E5%A3%AB%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超简洁的汽车海报设计，主体为 {argument name="car" default="[CAR]"}，完美的侧面轮廓，位置偏低且居中。一个精致小巧的 {argument name="brand" default="[BRAND]"} 徽章/标志位于上方角落，配以微小的现代主义大写字体短语 “{argument name="slogan" default="[SLOGAN]"}”。一道戏剧性的对角线分层 [COLORS] 速度条纹从上方角落斜切至下方中心，营造出动感与视觉节奏。温暖的象牙色纸张背景，留有大量的负空间。清晰的技术插图，精准的比例，细腻的丝网印刷质感，精致的墨线轮廓，极简的阴影，画廊级平面设计。地面下方有稀薄的油漆滴落和色彩拖尾。瑞士现代主义汽车海报，精致的矢量精度，博物馆级海报质量，宽高比 4:5。
+
+[English]
+Ultra-clean automotive poster design featuring a {argument name="car" default="[CAR]"}, perfect side profile, positioned low and centered in the frame. A small refined {argument name="brand" default="[BRAND]"} badge/logo sits near the upper corner, with a short slogan reading “{argument name="slogan" default="[SLOGAN]"}” in tiny modernist uppercase typography. A dramatic diagonal burst of layered [COLORS] speed stripes slices across the composition from upper corner to lower center, creating motion and visual rhythm. Warm ivory paper background with expansive negative space. Crisp technical illustration, precise proportions, subtle screen-print texture, fine ink outlines, minimal shadows, gallery-quality graphic design. Thin paint drips and color trails descending beneath the ground plane. Swiss modernist automotive poster, refined vector precision, museum poster quality, aspect ratio 4:5.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2069767687631437995) | 2026-06-24
+
+---
+
+### 🎴 例 2315：足球角色一致性海报
+
+![足球角色一致性海报](../../images/%E8%B6%B3%E7%90%83%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实足球海报，展示了受 {argument name="player" default="Cristiano Ronaldo"} 启发的一致性角色，他与自己的迷你 Q 版形象并肩站立，两人均身着 {argument name="team colors" default="葡萄牙红绿配色国家队"} 队服……
+
+[English]
+Ultra-realistic football poster featuring {argument name="player" default="Cristiano Ronaldo"} inspired character consistency, standing beside a miniature chibi version of himself, both wearing {argument name="team colors" default="Portugal's red and green national"} …
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2069739932294271014) | 2026-06-24
+
+---
+
+### 🎴 例 2316：极简主义电影感剪影海报
+
+![极简主义电影感剪影海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%94%B5%E5%BD%B1%E6%84%9F%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极具视觉冲击力的极简主义电影海报，背景为纯色的 {argument name="background color" default="textured backdrop"} 纹理背景。巨大的做旧字体写着 “{argument name="main word" default="SUCCESS"}”，以超大号粗体压缩字形占据构图主体，上方或文字内部配有一行小字标语 “{argument name="tagline" default="THE ULTIMATE GOAL"}”。一个 {argument name="subject" default="a person"} 的全身小剪影自信地站在或走在文字前方。人物投射出巨大的拉长阴影，戏剧性地延伸覆盖在巨型字母上，成为核心的叙事元素。高对比度光影，细腻的颗粒质感，高级编辑设计，大胆的留白，现代极简构图，电影氛围，超精细，照片级真实感，8K 分辨率，可直接打印。
+
+[English]
+A striking minimalist cinematic poster with a solid {argument name="background color" default="textured backdrop"} textured backdrop. Massive distressed typography reading “{argument name="main word" default="SUCCESS"}” dominates the composition in oversized bold condensed letters, with a small tagline “{argument name="tagline" default="THE ULTIMATE GOAL"}” positioned above or within the text. A small full-body silhouette of {argument name="subject" default="a person"} stands or walks confidently in front of the typography. The figure casts an oversized elongated shadow that stretches dramatically across the giant letters, becoming a central storytelling element. High-contrast lighting, subtle grunge texture, premium editorial design, bold negative space, modern minimalist composition, cinematic atmosphere, ultra-detailed, photorealistic, 8K, print-ready.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2069737150564938168) | 2026-06-24
+
+---
+
+### 🎴 例 2320：电影级海报设计
+
+![电影级海报设计](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为电影 “{argument name="film title" default="Cold War"}” 创作一张电影级海报，采用国际传奇海报设计师的风格 —— 具备影院级品质、强烈的戏剧张力以及世界级的视觉呈现。
+
+模仿电影海报设计大师的风格，呈现国际电影海报的质感。创作一张电影海报。电影标题：Cold War。
+
+[English]
+Craft a cinematic movie poster for the film "{argument name="film title" default="Cold War"}" in the style of a legendary international poster designer — theatrical quality, high drama, world-class finish.
+
+Emulate a master of cinematic poster design, with international film-poster quality. Create a movie poster. Film title: Cold War.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2069719325641265362) | 2026-06-24
+
+---
+
+### 🎴 例 2329：利昂内尔·梅西 (Lionel Messi) 街头艺术风格足球海报
+
+![利昂内尔·梅西 (Lionel Messi) 街头艺术风格足球海报](../../images/%E5%88%A9%E6%98%82%E5%86%85%E5%B0%94%C2%B7%E6%A2%85%E8%A5%BF%20(Lionel%20Messi)%20%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张动态插画风格的足球海报，采用爆发力十足的街头艺术风格，主角为身穿阿根廷 2026 年世界杯灵感新款球衣的 {argument name="player name" default="Lionel Messi"}，他正全神贯注地向前冲刺并击球。低角度电影感视角，前景为超大号足球，强烈的动态模糊效果，飞溅的泥土与油漆，{argument name="team colors" default="醒目的蓝白阿根廷配色"}，充满活力的涂鸦背景，手绘笔触风格的文字写着“{argument name="poster text" default="¡Viva Messi!"}”，震撼的球场氛围，超精细体育插画，英雄式灯光，海报构图，极具冲击力的动作，鲜艳的色彩，4K 画质。
+
+[English]
+A dynamic illustrated football poster in explosive street art style, featuring {argument name="player name" default="Lionel Messi"} wearing Argentina’s updated 2026 World Cup inspired jersey, sprinting forward and striking the ball with intense focus. Low angle cinematic perspective, oversized football in the foreground, dramatic motion blur, flying dirt, paint splashes, {argument name="team colors" default="bold blue white Argentina colors"}, energetic graffiti background, hand-painted brush typography saying “{argument name="poster text" default="¡Viva Messi!"}”, powerful stadium atmosphere, ultra detailed sports illustration, heroic lighting, poster composition, high impact action, vibrant colors, 4K quality.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2069694334505799959) | 2026-06-24
+
+---
+
+### 🎴 例 2337：排版织物海报模板
+
+![排版织物海报模板](../../images/%E6%8E%92%E7%89%88%E7%BB%87%E7%89%A9%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直编辑风格海报肖像，主角为 {argument name="character" default="[CHARACTER]"}，发型为 {argument name="hair style" default="[HAIR]"}，面部被紧紧框在褶皱的 {argument name="fabric type" default="[FABRIC]"} 之后，超大号粗体压缩无衬线字体穿透织物，以堆叠音节的形式拼写出“[SPLIT]”并覆盖整个画面，眼睛、鼻子和嘴唇透过字母开口清晰可见，侧边有小型垂直单词“[SIDE]”，右下角有微型条形码块，高阶时尚美妆灯光，逼真的皮肤纹理，褶皱处有柔和阴影，柔和的 [PALETTE] 色调，干净的杂志封面构图，清晰的排版层级，高级印刷质感，无多余文字，无杂乱布局，非卡通风格，非 3D 渲染，比例 ar 4:5
+
+[English]
+Vertical editorial poster portrait of {argument name="character" default="[CHARACTER]"} with {argument name="hair style" default="[HAIR]"}, face tightly framed behind crumpled {argument name="fabric type" default="[FABRIC]"}, oversized bold condensed sans-serif typography cut through the fabric spelling “[SPLIT]” in stacked syllables across the whole image, eyes, nose and lips visible through the letter openings, small vertical side word “[SIDE]”, tiny barcode block near the lower right, high-fashion beauty lighting, realistic skin texture, soft shadows in the folds, muted [PALETTE], clean magazine-cover composition, sharp typography hierarchy, premium print finish, no extra words, no messy layout, no cartoon style, no 3D render, ar 4:5
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2069665902304350358) | 2026-06-24
+
+---
+
+### 🎴 例 2346：奢华能量饮料 Snow Leopard 广告
+
+![奢华能量饮料 Snow Leopard 广告](../../images/%E5%A5%A2%E5%8D%8E%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%20Snow%20Leopard%20%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+用于奢华 {argument name="product type" default="能量饮料"} 品牌的超高端广告宣传海报。一只威严的白雪豹位于完美对称的摄影棚构图中心，正对着镜头。雪豹双眼微闭，神情既平静又充满力量。它微微张开嘴，露出锋利的象牙色獠牙，口中横向紧紧咬着一罐时髦的 {argument name="container color" default="银色"} 能量饮料。罐身采用金属铝质感，带有细腻的霜冻纹理、浮雕品牌标识、高级排版和逼真的反射效果。产品完美对齐在雪豹口中，成为视觉焦点。超逼真的毛发细节，清晰可见的单根毛发、自然的黑色斑点、柔软的胡须、高度精细的鼻部纹理以及写实的牙齿。简洁的极简主义奢华广告美学。冷色调单色配色方案，包含银色、白色、浅灰色和微妙的蓝色点缀。平滑的渐变摄影棚背景，配以柔和的环境光。背景中显示产品名称的超大号字体采用粗体大写字母，部分隐藏在动物身后，呈现出高级的编辑设计感。现代纤细的无衬线字体优雅地叠加在构图之上。专业商业产品摄影、奢华饮品宣传活动、中心构图、完美对称、浅景深、超清晰对焦、柔和的漫射摄影棚灯光、雪豹毛发周围微妙的轮廓光、逼真的阴影、高级杂志广告、高端品牌推广、屡获殊荣的创意指导。照片级真实感、8K 分辨率、超精细、HDR、全局光照、逼真的毛发渲染、高级商业修图、奢华海报设计、编辑广告、干净的留白、电影级质量、完美的产品植入、现代极简主义营销活动、垂直 4:5 纵横比。
+
+[English]
+Ultra premium advertising campaign poster for a luxury {argument name="product type" default="energy drink"} brand. A majestic white snow leopard is centered in a perfectly symmetrical studio composition, facing directly toward the camera. The snow leopard has its eyes gently closed, creating a calm yet powerful expression. Its mouth is slightly open, revealing sharp ivory fangs while firmly gripping a sleek {argument name="container color" default="silver"} energy drink can horizontally between its teeth. The can features a metallic aluminum finish with subtle frost textures, embossed branding, premium typography, and realistic reflections. The product is perfectly aligned across the leopard's mouth, acting as the visual focal point. Hyper realistic fur detail with individual strands visible, natural black spots, soft whiskers, highly detailed nose texture, and photorealistic teeth. Clean minimalist luxury advertising aesthetic. Cool monochromatic color palette consisting of silver, white, light gray, and subtle blue accents. Smooth gradient studio background with soft atmospheric lighting. Large oversized typography in the background displaying the product name in bold uppercase letters, partially hidden behind the animal for a premium editorial design look. Modern thin sans serif text layered elegantly over the composition. Professional commercial product photography, luxury beverage campaign, centered composition, perfect symmetry, shallow depth of field, ultra sharp focus, soft diffused studio lighting, subtle rim lighting around the leopard's fur, realistic shadows, premium magazine advertisement, high end branding, award winning creative direction. Photorealistic, 8K resolution, ultra detailed, HDR, global illumination, realistic fur rendering, premium commercial retouching, luxury poster design, editorial advertising, clean negative space, cinematic quality, flawless product placement, modern minimalist marketing campaign, vertical 4:5 aspect ratio.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2069628391326982224) | 2026-06-24
+
+---
+

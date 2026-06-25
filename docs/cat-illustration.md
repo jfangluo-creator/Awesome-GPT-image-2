@@ -5376,3 +5376,61 @@ A cute anime-inspired young woman with {argument name="hair style" default="shou
 
 ---
 
+### 🎨 例 2314：专业角色设计图
+
+![专业角色设计图](../../images/%E4%B8%93%E4%B8%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的照片作为角色参考，创建一张专业的 2x4 角色设计图。图像必须展示上传照片中的同一个人，并重复 8 种变化。请勿创建不同的人。在所有面板中保持角色的身份、面部表情、发型、脸型、年龄感、体型、肤色、自然姿态和整体个性。将角色排列在 {argument name="layout" default="2x4 网格布局"} 中，背景为 {argument name="background" default="纯白色背景"}。每个面板应展示全身站立姿势，比例一致且角色设计具有高度辨识度。创建 8 种相同的角色变化，仅改变服装、表情、姿势和小配饰。使用 {argument name="fashion style" default="休闲现代韩系街头风"} 并搭配夏季造型：轻便夹克、短袖衬衫、宽松 T 恤、短裤、宽松长裤、运动鞋、双肩包、托特包、鸭舌帽或极简配饰。所有服装应保持写实、时尚，适合日常城市生活。每个变化应具有不同的自然表情和姿势，例如平静、微笑、惊讶、自信、害羞、俏皮、沉思或略显烦恼。姿势应显得放松自然，不要过于夸张。风格：2020 年代动画角色设计图、受日本漫画影响的插画、手绘草图、纤细干净的线条、清晰的轮廓、细微的不完美轮廓、高细节时尚插画、柔和的复古平涂色调、细腻的纸张纹理、编辑类时尚氛围。仅使用平涂颜色。无重度阴影、无柔和渐变、无写实光影、无戏剧性阴影、无照片级真实感。保持构图简洁、平衡且专业，如同动画前期制作的角色设计图。长宽比：16:9 横向。
+
+[English]
+Use the uploaded photo as the only character reference and create a professional 2x4 character design sheet. The image must show the same person from the uploaded photo repeated in 8 variations. Do not create different people. Preserve the character’s identity, facial impression, hairstyle, face shape, age impression, body type, skin tone, natural posture, and overall personality across all panels. Arrange the character in a clean {argument name="layout" default="2x4 grid layout"} on a {argument name="background" default="pure white background"}. Each panel should show a full-body standing pose with consistent proportions and the same recognizable character design. Create 8 different variations of the same character, changing only the outfit, expression, pose, and small accessories. Use {argument name="fashion style" default="casual modern Korean street fashion"} with summer styling: lightweight jacket, short-sleeve shirt, oversized T-shirt, shorts, loose pants, sneakers, backpack, tote bag, cap, or minimal accessories. Keep all outfits realistic, stylish, and suitable for everyday urban life. Each variation should have a different natural expression and pose, such as calm, smiling, surprised, confident, shy, playful, thoughtful, or slightly annoyed. Poses should feel relaxed and natural, not exaggerated. Style: 2020s animation character design sheet, Japanese manga-influenced illustration, hand-drawn sketch, thin clean linework, crisp outlines, subtle imperfect contours, high-detail fashion illustration, muted retro flat color palette, subtle paper texture, editorial fashion mood. Use flat colors only. No heavy shading, no soft gradients, no realistic lighting, no dramatic shadows, no photorealism. Keep the composition clean, balanced, and professional, like an animation pre-production character sheet. Aspect ratio: 16:9 horizontal.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2069741023149142416) | 2026-06-24
+
+---
+
+### 🎨 例 2348：奇幻多面板世界场景
+
+![奇幻多面板世界场景](../../images/%E5%A5%87%E5%B9%BB%E5%A4%9A%E9%9D%A2%E6%9D%BF%E4%B8%96%E7%95%8C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+生成五个子画面，每格都是不同幻想设定场景：
+
+- {argument name="场景一" default="漂浮在天空中的岛屿城市，瀑布从空中落下"}。
+- {argument name="场景二" default="建在巨型树干内部的图书馆"}。
+- {argument name="场景三" default="月球表面上的东方茶馆"}。
+- 水下的古典歌剧院，观众是发光水母。
+- 沙漠中央一列被植物吞没的废弃列车。
+
+要求：世界观完整，细节丰富，想象力强。
+```
+
+**来源：** [@老张来了](https://x.com/laozhang2579/status/2069625318336258120) | 2026-06-24
+
+---
+
+### 🎨 例 2350：水彩赛博朋克时尚插画
+
+![水彩赛博朋克时尚插画](../../images/%E6%B0%B4%E5%BD%A9%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实、Netflix 风格的 {argument name="theme" default="cyberpunk illustration"}，以附件图片中的模特为原型，置于充满未来感的 {argument name="style" default="watercolor"} 城市背景中。整个人物以奢华的水彩画风格呈现，背景完全由水彩霓虹灯、青色与橙色颜料的飞溅、抽象城市景观、艺术感颜料滴落以及绚丽的水彩效果构成。该插画具有极其丰富的电影级色彩渐变、深邃的对比度、鲜明的色彩深度，是集奢华海报美学与细腻笔触于一身的时尚插画杰作。采用 3:4 的长宽比。
+
+[English]
+Ultra-realistic, Netflix-style {argument name="theme" default="cyberpunk illustration"} of the model pictured in the attached image, set against a futuristic {argument name="style" default="watercolor"} cityscape. The entire character is rendered in a luxurious watercolor painting style, with a background entirely composed of watercolor neon lights, splashes of teal and orange pigment, abstract cityscapes, artistic paint drips, and colorful watercolor effects. The illustration features ultra-rich cinematic color gradation, deep contrast, vibrant color depth, and is a masterpiece of fashion illustration with a luxurious poster aesthetic and highly detailed brushstrokes. Uses a 3:4 aspect ratio.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2069624054043033652) | 2026-06-24
+
+---
+

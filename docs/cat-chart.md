@@ -2031,3 +2031,45 @@ Create a crisp, clean infographic storyboard poster for {argument name="title" d
 
 ---
 
+### 📊 例 2318：Claude Code 速报信息图
+
+![Claude Code 速报信息图](../../images/Claude%20Code%20%E9%80%9F%E6%8A%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张日式手绘风格的速报信息图，主题为 {argument name="headline topic" default="Claude Code 实现用于 X 速报帖子的信息图生成功能"}。
+
+画布：16:9 横向图片，深蓝色黑板背景，粗糙的马克笔和粉笔质感，采用高对比度的红色、橙色、黄色、白色和奶油色。使用不规则的手写字体、草图轮廓、笔触和涂鸦图标。拒绝照片级真实感。
+
+布局：左侧设有一个带白色边框的竖长红色速报横幅，垂直堆叠白色大号日文「速报」字样，底部附近有一个黄色闪电图标。顶部中央设有一个宽大的红橙渐变笔触标题横幅，左侧配有 1 个黄色闪电图标，右侧配有 1 个扩音器图标。下方是一个圆角来源栏。中间主要区域包含 2 个垂直堆叠的大型圆角矩形信息面板。右侧包含 2 个垂直堆叠的小型圆角卡片：上方为来源信息卡，下方为日期/时间卡。底部一行包含 3 个标签胶囊。
+
+文本内容：顶部标题横幅文字：第一行「Claude Code」，第二行「インフォグラフィック画像生成機能を」，第三行「X速報投稿に実装」。来源栏文字：「SOURCE: zenn-blog-automation PR #217」。右侧来源卡文字：「情報源:」然后是「zenn-blog-automation」和「PR #217」。第一个主面板文字：「GPT-IMAGE-2で」、「breaking_newsテーマの」、「インフォグラフィックを生成し」、「X速報投稿に添付できるようになった。」在图像缩略图图标上包含一个写有「GPT-IMAGE-2」的小型橙色标签。第二个主面板文字：「画像生成失敗時は」、「テキストのみ投稿にフォールバック。」日期/时间卡文字：「検出日時:」然后是 {argument name="timestamp" default="2026/06/24 19:15 JST"}。底部标签胶囊必须包含 3 个标签：{argument name="hashtag one" default="#claudecode"}、{argument name="hashtag two" default="#anthropic"} 以及 {argument name="hashtag three" default="#ai"}。
+
+需包含的离散视觉元素：1 个左侧竖向横幅、1 个顶部标题笔触横幅、1 个来源栏、2 个主信息面板、2 个右侧卡片、3 个标签胶囊、共 2 个黄色闪电图标、1 个扩音器、1 个文档图标、1 个时钟图标、1 个带山脉图案的图像缩略图图标、2 个指向右侧的橙色箭头图标、1 个带 X 的云朵失败图标，以及 1 个带三个点的对话气泡。
+
+视觉风格：充满活力的日式速报信息图，马克笔海报外观，略显不规则的白色手写字体，橙色圆角边框，重要短语下方有黄色下划线高亮，扩音器、横幅和标签周围有小型装饰性放射状强调标记。保持构图紧凑但易读，具有强烈的层级感和戏剧性的紧急新闻氛围。
+
+约束：严格使用指定的日文文本，不要添加额外的部分或标签，所有图标保持手绘风格，避免使用 Logo，避免水印，并全程保持粗糙的粉笔和颜料质感。
+
+[English]
+Goal: Create a hand-drawn breaking-news style infographic in Japanese about {argument name="headline topic" default="Claude Code implementing infographic image generation for X breaking-news posts"}.
+
+Canvas: 16:9 horizontal image, dark navy chalkboard background, rough marker and chalk texture, high-contrast red, orange, yellow, white, and cream colors. Use imperfect hand-lettering, sketchy outlines, brush strokes, and doodle icons. No photorealism.
+
+Layout: Left side has 1 tall vertical red breaking-news banner with a white border, large white Japanese text 「速報」 stacked vertically, and 1 yellow lightning bolt near the bottom. Top center has 1 wide red-to-orange brush-stroke headline banner with 1 yellow lightning icon on the left and 1 megaphone icon on the right. Under it is 1 rounded source bar. Main middle area contains exactly 2 large rounded rectangular information panels stacked vertically. Right side contains exactly 2 smaller rounded cards stacked vertically: a source-information card above and a date/time card below. Bottom row contains exactly 3 hashtag pills.
+
+Text content: Top headline banner text: 「Claude Code」 on the first line, then 「インフォグラフィック画像生成機能を」, then 「X速報投稿に実装」. Source bar text: 「SOURCE: zenn-blog-automation PR #217」. Right source card text: 「情報源:」 then 「zenn-blog-automation」 then 「PR #217」. First main panel text: 「GPT-IMAGE-2で」, 「breaking_newsテーマの」, 「インフォグラフィックを生成し」, 「X速報投稿に添付できるようになった。」 Include a small orange label reading 「GPT-IMAGE-2」 on an image-thumbnail icon. Second main panel text: 「画像生成失敗時は」, 「テキストのみ投稿にフォールバック。」 Date/time card text: 「検出日時:」 then {argument name="timestamp" default="2026/06/24 19:15 JST"}. Bottom hashtag pills must read exactly 3 labels: {argument name="hashtag one" default="#claudecode"}, {argument name="hashtag two" default="#anthropic"}, and {argument name="hashtag three" default="#ai"}.
+
+Discrete visual elements to include: exactly 1 left vertical banner, 1 top headline brush banner, 1 source bar, 2 main info panels, 2 right-side cards, 3 hashtag pills, 2 yellow lightning bolts total, 1 megaphone, 1 document icon, 1 clock icon, 1 image-thumbnail icon with mountains, 2 orange arrow icons pointing right, 1 cloud-with-X failure icon, and 1 speech bubble with three dots.
+
+Visual style: Energetic Japanese breaking-news infographic, marker poster look, slightly irregular white handwritten type, orange rounded borders, yellow underline highlights under important phrases, small decorative radiating accent marks around the megaphone, banner, and hashtags. Keep the composition dense but readable, with strong hierarchy and a dramatic emergency-news feel.
+
+Constraints: Use Japanese text exactly as specified, do not add extra sections or extra hashtags, keep all icons hand-drawn, avoid logos, avoid watermarks, and maintain the rough chalk-and-paint texture throughout.
+```
+
+**来源：** [@甲斐甲](https://x.com/k_aik_ou/status/2069726412253110717) | 2026-06-24
+
+---
+

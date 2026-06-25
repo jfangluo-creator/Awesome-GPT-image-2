@@ -3194,3 +3194,93 @@ Convert this image into a soft, handcrafted paper-cut layered illustration style
 
 ---
 
+### 🧸 例 2302：巨掌中的迷你女孩
+
+![巨掌中的迷你女孩](../../images/%E5%B7%A8%E6%8E%8C%E4%B8%AD%E7%9A%84%E8%BF%B7%E4%BD%A0%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张逼真的竖构图肖像，画面中一个微型玩偶般的女孩盘腿坐在巨大的真实人类手掌心。另一只巨大的手从右侧伸入，轻轻捏住或调整女孩耳边的位置，以强调比例错觉。女孩应拥有 {argument name="hair color" default="长栗棕色头发"}，皮肤光滑逼真，表情平静自然，面部被一个位于中央的暖中棕色矩形遮挡块刻意遮盖。她穿着 {argument name="outfit color and style" default="一套淡灰粉色刺绣传统库尔塔睡衣"}，领口、袖口、下摆和裤子上带有精致的蕾丝和线绣工艺，并搭配同款软拖鞋。她双臂交叉抱在胸前，双腿整齐盘坐，稳稳地坐在手掌上。通过清晰的微距细节展示掌纹、皮肤纹理、手指、指甲和自然的褶皱，使人类的手掌与微小的坐姿人物相比显得非常巨大。背景：{argument name="background setting" default="夜间城市天际线"}，高楼林立，背景中有蓝色、紫色、红色、金色和白色的失焦光斑。使用浅景深、电影级灯光、温暖的肤色、微小身体接触手掌处的真实阴影、高细节、2:3 竖构图、主体居中、魔幻微缩写实风格，无文字，无水印，无多余人物，无解剖结构畸变。
+
+[English]
+Create a photorealistic vertical portrait of a miniature tiny doll-like girl sitting cross-legged in the open palm of a giant realistic human hand, with a second giant hand entering from the right and gently pinching or adjusting near the tiny girl's ear to emphasize the scale illusion. The girl should have {argument name="hair color" default="long chestnut-brown hair"}, smooth realistic skin, a calm neutral expression, and a face intentionally obscured by a plain centered rectangular censor block in warm medium brown. She is wearing {argument name="outfit color and style" default="a pastel dusty-pink embroidered traditional kurta pajama set"} with delicate lace and threadwork around the neckline, cuffs, hem, and trousers, plus matching soft slippers. Her arms are folded across her chest and her legs are crossed neatly, seated securely on the palm. Show the palm lines, skin texture, fingers, nails, and natural hand creases in sharp macro detail, making the human hands look very large compared to the tiny seated figure. Background: {argument name="background setting" default="a nighttime city skyline"} with tall buildings and colorful out-of-focus bokeh lights in blue, purple, red, gold, and white. Use shallow depth of field, cinematic lighting, warm skin tones, realistic shadows where the tiny body touches the hand, high detail, vertical 2:3 composition, centered subject, magical miniature realism, no text, no watermark, no extra people, and no distorted anatomy.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2069787660579954820) | 2026-06-24
+
+---
+
+### 🧸 例 2303：人类掌心中的微型玩偶
+
+![人类掌心中的微型玩偶](../../images/%E4%BA%BA%E7%B1%BB%E6%8E%8C%E5%BF%83%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%9E%8B%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的竖构图肖像，描绘一个微型玩偶般的 {argument name="subject" default="年轻女性"} 在夜晚盘腿坐在一只巨大的写实人手中，另一只巨大的手从右侧伸入，轻轻捏住玩偶的头发/耳朵附近，仿佛在调整或握住她。微型人物留着中分长棕发，戴着小耳环，双臂交叉，身穿柔软的淡色 {argument name="outfit color" default="灰粉色"} 传统睡衣风格刺绣套装，搭配同色系宽松长裤和小拖鞋。在整个面部覆盖一个不透明的方形遮挡块，颜色为中等暖棕色肤色，遮住所有面部特征。比例应具有超现实感但保持写实：手部巨大且具有细腻的皮肤纹理、掌纹、指甲和温暖的自然光，而微型人物则呈现出真实的织物褶皱、蕾丝刺绣和逼真的比例。背景：黑暗的夜间城市天际线，高楼大厦，带有蓝色、紫色、红色、金色和白色的重度模糊散景灯光，营造出梦幻般的电影级景深。构图：玩偶居中坐在掌心，特写镜头，浅景深，暖色调肤色，头发上有柔和的轮廓光，玩偶接触手部处有真实的阴影，高细节摄影风格，无文字，无水印。
+
+[English]
+Create a hyper-realistic vertical portrait of a miniature tiny doll-like {argument name="subject" default="young woman"} sitting cross-legged in the open palm of a giant realistic human hand at night, with a second giant hand entering from the right and gently pinching near the doll’s hair/ear as if adjusting or holding her. The tiny figure has long brown hair parted near the center, small earrings, arms crossed, and wears a soft pastel {argument name="outfit color" default="dusty pink"} traditional pajama-style embroidered outfit with matching loose pants and small matching slippers. Place an opaque square censor block over the entire face in a medium warm brown skin-tone color, hiding all facial features. The scale should feel surreal but photorealistic: the hands are enormous with detailed skin texture, palm lines, nails, and warm natural lighting, while the miniature person has realistic fabric folds, lace embroidery, and lifelike proportions. Background: a dark nighttime city skyline with high-rise buildings, heavily blurred bokeh lights in blue, purple, red, gold, and white, creating a dreamy cinematic depth of field. Composition: centered doll seated on the palm, close-up framing, shallow depth of field, warm skin tones, soft rim light on hair, realistic shadows where the doll touches the hand, high-detail photography style, no text, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2069787653613228398) | 2026-06-24
+
+---
+
+### 🧸 例 2321：手工 3D 刺绣场景
+
+![手工 3D 刺绣场景](../../images/%E6%89%8B%E5%B7%A5%203D%20%E5%88%BA%E7%BB%A3%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+手工 3D 刺绣场景，一位奇幻少女从敞开的窗户探出身子，玩偶般的面容，带有 {argument name="eye color" default="红润脸颊和大大的棕色眼睛"}，{argument name="hair style" default="长长的波浪形纱线头发，带有柔和的挑染"}，编织着细小的刺绣花朵，身穿 {argument name="dress style" default="柔和彩虹色缝制连衣裙"}，由纹理感麻花针和缎面针法制成，佩戴精致的金珠项链和耳环，编织线窗框带有藤蔓刺绣，窗格上停着一只帝王蝶，嗡嗡作响的刺绣蜜蜂，一只小缝制小狗在雏菊和细小花朵的草地上嬉戏，立体刺绣纺织艺术，触感纱线和线材纹理，照片级真实感的微距纺织细节，柔和的自然暖光，浅景深，舒适的田园风美学，柔和色调，超精细，高分辨率，摄影棚级构图
+
+[English]
+Handcrafted 3D embroidered scene of a whimsical girl leaning from an open window, doll-like face with {argument name="eye color" default="rosy cheeks and big brown eyes"}, {argument name="hair style" default="long wavy yarn hair with pastel streaks"} and tiny embroidered flowers woven throughout, wearing a {argument name="dress style" default="pastel rainbow stitched dress"} made of textured cable and satin stitches, delicate gold bead necklace and earrings, braided thread window frame with vine embroidery, monarch butterfly on the pane, buzzing embroidered bee, small stitched puppy frolicking in a grassy meadow of daisies and tiny flowers, stumpwork textile art, tactile yarn and thread textures, photorealistic macro textile detail, soft natural warm light, shallow depth of field, cozy cottagecore aesthetic, pastel color palette, ultra-detailed, high resolution, studio-quality composition
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2069710296722333817) | 2026-06-24
+
+---
+
+### 🧸 例 2328：水晶玻璃雕塑半身像渲染图
+
+![水晶玻璃雕塑半身像渲染图](../../images/%E6%B0%B4%E6%99%B6%E7%8E%BB%E7%92%83%E9%9B%95%E5%A1%91%E5%8D%8A%E8%BA%AB%E5%83%8F%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张照片级逼真的 3D 渲染图，主体为 {argument name="subject" default="[戴眼镜的沉思者]"} 的雕塑半身像，完全由 {argument name="material" default="透明水晶玻璃"} 精制而成，悬浮在 {argument name="surface" default="纯净的白色哑光表面"} 上方。重点表现逼真的折射效果、柔和的焦散光影、抛光边缘、细微的表面划痕、指纹以及微妙的内部气泡。采用中低角度拍摄，配合柔和的漫反射摄影棚灯光，呈现出奢华的极简主义构图。
+
+[English]
+Generate a photorealistic 3D render of a sculptural bust of a {argument name="subject" default="[thoughtful person] wearing glasses"}, crafted entirely from {argument name="material" default="transparent crystal glass"}, hovering above a {argument name="surface" default="pristine white matte surface"}. Emphasize realistic refraction, soft caustic light patterns, polished edges, tiny surface scratches, fingerprints, and subtle internal bubbles. Capture the subject from a medium-low angle with soft diffused studio lighting and a luxury minimalist composition.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2069694879693676908) | 2026-06-24
+
+---
+
+### 🧸 例 2341：微缩世界人像场景
+
+![微缩世界人像场景](../../images/%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C%E4%BA%BA%E5%83%8F%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超写实、高度精细的微缩世界人像场景，采用 4:5 垂直构图。一位 {argument name="subject" default="美丽的年轻女性"}，拥有无瑕的皮肤、富有表现力的棕色眼睛、自然形状的眉毛……
+
+[English]
+Create an ultra-realistic, highly detailed miniature-world portrait scene in a vertical 4:5 composition. A {argument name="subject" default="beautiful young woman"} with flawless skin, expressive brown eyes, naturally shaped eyeb…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2069648512728408293) | 2026-06-24
+
+---
+

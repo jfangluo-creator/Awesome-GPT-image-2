@@ -5999,3 +5999,189 @@ Ultra realistic lifestyle fashion collage of a {argument name="subject" default=
 
 ---
 
+### 🏷️ 例 2291：连贯的产品 Instagram 信息流布局
+
+![连贯的产品 Instagram 信息流布局](../../images/%E8%BF%9E%E8%B4%AF%E7%9A%84%E4%BA%A7%E5%93%81%20Instagram%20%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为该产品设计一个 9 图的 Instagram 信息流，风格为 {argument name="aesthetic style" default="统一美学"}。运用多样化的地点、角度和构图，融入人物、动物、自然元素及多元环境，同时保持视觉风格的连贯性。
+
+[English]
+Design a 9-image Instagram feed for this product in {argument name="aesthetic style" default="the same aesthetic"}. Use varied locations, angles, and compositions — weaving in people, animals, nature, and diverse environments while keeping the visual style cohesive.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2069870263152599226) | 2026-06-24
+
+---
+
+### 🏷️ 例 2295：浪漫红色夜色氛围
+
+![浪漫红色夜色氛围](../../images/%E6%B5%AA%E6%BC%AB%E7%BA%A2%E8%89%B2%E5%A4%9C%E8%89%B2%E6%B0%9B%E5%9B%B4.jpg)
+
+**Prompt:**
+
+```text
+{argument name="色调" default="红色夜晚"}的浪漫感，不是热烈告白，是那种喝到微醺以后，突然想起某个人的瞬间。{argument name="主体" default="面具"} {argument name="环境元素" default="烟雾 暗木色房间"} 还有一点慌张的小表情，像一句差点说出口的话，最后只留在了眼神里
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2069809436479357382) | 2026-06-24
+
+---
+
+### 🏷️ 例 2298：夜市晚餐肖像
+
+![夜市晚餐肖像](../../images/%E5%A4%9C%E5%B8%82%E6%99%9A%E9%A4%90%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的夜间美食集市抓拍照片，画面中一位年轻女性坐在深色帐篷顶棚下，周围有金属杆和明亮的头顶灯光，背景是模糊的繁忙人群，采用浅景深效果。她留着波浪长棕发，身穿一件鲜艳的宝蓝色连帽衫，脸部被一个位于中心的大型垂直不透明灰褐色矩形遮挡以实现匿名化；同时在背景人物的脸上添加两个较小的模糊遮挡块。她左手拿着一部智能手机，右手拿着一个透明塑料水杯。在前景的红白格纹塑料桌布上，放置两个白色一次性纸盘：左侧盘子里是切好的照烧烤鸡，右侧盘子里是盖着一个明亮黄蛋黄的煎蛋盖饭。画面中需包含她右手边的一个透明塑料杯、一部可见的手机、两条带有小圆吊坠的精致项链，以及背景中随意的集市食客。使用直接闪光灯或明亮的集市照明，色彩自然，呈现纪实旅行摄影的真实感，采用 4:3 竖构图，平视视角，轻微的背景虚化，无添加文字，无水印。可自定义细节：{argument name="hoodie color" default="宝蓝色"}, {argument name="tablecloth pattern" default="红白格纹"}, {argument name="main dish" default="切好的照烧烤鸡"}, {argument name="side dish" default="盖着一个明亮黄蛋黄的煎蛋盖饭"}, {argument name="face anonymization color" default="灰褐色"}。
+
+[English]
+Create a realistic candid nighttime food-market photo of a young woman seated at a table under a dark tent canopy with metal poles and bright overhead lights, shallow depth of field and a busy blurred crowd behind her. She has long wavy brown hair and wears a vivid royal-blue hoodie, with her face intentionally anonymized by one large vertical opaque muted taupe rectangle centered over the face; also include two smaller blurred face blocks on background people. She is holding one smartphone in her left hand and one clear plastic cup of water in her right hand. In the foreground on a red-and-white checkered plastic tablecloth, show exactly two white disposable paper plates: the left plate contains sliced grilled glazed chicken with dark sauce, and the right plate contains white rice topped with one sunny-side-up egg with a bright yellow yolk. Include exactly one clear plastic cup near her right hand, one visible phone, two delicate necklaces with small round pendants, and casual market diners in the background. Use direct flash or bright market lighting, natural colors, documentary travel-photo realism, vertical 4:3 composition, eye-level framing, slight background bokeh, no added text, no watermark. Customizable details: {argument name="hoodie color" default="royal blue"}, {argument name="tablecloth pattern" default="red-and-white checkered"}, {argument name="main dish" default="sliced grilled glazed chicken"}, {argument name="side dish" default="white rice topped with one sunny-side-up egg"}, {argument name="face anonymization color" default="muted taupe"}.
+```
+
+**来源：** [@Harshith](https://x.com/HarshithLucky3/status/2069800572392505545) | 2026-06-24
+
+---
+
+### 🏷️ 例 2308：极简涂鸦素描插画
+
+![极简涂鸦素描插画](../../images/%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图像转换为 {argument name="art style" default="极简手绘涂鸦插画"}。使用简单的 {argument name="ink color" default="黑色"} 针管笔轮廓，线条略带抖动，呈现不完美感。将所有细节简化为可爱、稚拙的形状，同时保留主体和构图。天真的速写本美学，俏皮且充满童趣的角色设计，干净的白色背景，极简线条，富有表现力的简洁感，手工涂鸦风格，黑色墨水画，迷人的不完美感，简单的卡通插画。格式 3:4。
+
+[English]
+Transform the image into a {argument name="art style" default="minimalist hand-drawn doodle illustration"}. Use simple {argument name="ink color" default="black"} brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration. Format 3:4.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2069772837355716971) | 2026-06-24
+
+---
+
+### 🏷️ 例 2330：复古像素风头像
+
+![复古像素风头像](../../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 1:1 的正方形头像，使用 {argument name="reference" default="上传的图片"} 作为姿势、构图和 {argument name="art style" default="像素艺术风格"} 的精确参考。将主体重新创作为精致的复古像素艺术，要求具有明显的像素颗粒感、清晰的阶梯状边缘、强烈的深色轮廓、极具张力的像素化阴影、鲜艳的色彩以及清脆的 16 位/32 位街机精灵图外观。仅使用平坦的纯色 {argument name="background" default="Pantone 354C 绿色"} 背景（#00B140）。禁止使用渐变、纹理、文字、Logo、额外物体或照片级写实效果。保持抬起的手套、面部特征、构图和整体风格与参考图完全一致。
+
+[English]
+Create a square 1:1 profile picture using the {argument name="reference" default="uploaded image"} as the exact reference for the pose, composition, and {argument name="art style" default="pixel art style"}. Recreate the subject as detailed retro pixel art, with large visible pixels, defined stair-stepped edges, strong dark outlines, dramatic pixelated shading, vibrant colors, and a crisp 16-bit/32-bit arcade sprite look. Use only a flat solid {argument name="background" default="Pantone 354C green"} background (#00B140). No gradients, textures, text, logos, extra objects, or photorealism. Keep the raised glove, facial features, framing, and overall style exactly the same as the reference.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2069691290199949603) | 2026-06-24
+
+---
+
+### 🏷️ 例 2335：无脸动漫男子怀抱三花猫
+
+![无脸动漫男子怀抱三花猫](../../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90%E6%80%80%E6%8A%B1%E4%B8%89%E8%8A%B1%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅全身动漫风格肖像，主角是 {argument name="character name" default="一位神秘的年轻人"}，他正走在阳光明媚的日本镰仓传统商业街上，面向观众。他的面部刻意留白，模糊且没有任何五官，留着凌乱的 {argument name="hair color" default="黑色"} 中长发，身材高挑纤细。他身着精致的大正时代风格服装：米色高领衬衫、花纹背心、深色高腰袴式长裤、锃亮的黑色皮鞋、装饰性腰链，以及一件带有精致金色花卉刺绣和飘逸半透明面料的长款黑色羽织。他双臂怀抱着一只三花猫；猫咪为白底配橙黑斑块，有着警觉的黄色眼睛，神态沉稳。背景是一条狭窄的古镇石板路，两旁是木质店面、悬挂的门帘、纸灯笼以及写有日文书法的竖式招牌；左侧需包含一个显眼的木制招牌，上面写着「鎌仓 小町通り」，右侧挂着写有「鎌仓屋」的深色门帘。背景中加入一些穿着素雅和服及休闲装的行人，以体现透视感。光线为午后温暖的阳光，透过树叶洒下斑驳的阴影，形成轮廓光，营造出怀旧的电影氛围。采用高细节的绘画风动漫渲染，优雅的时装插画风格，柔和的景深，细腻的织物纹理，真实的街道透视，竖构图，无水印，无额外动物，并保持中心人物的主体地位。
+
+[English]
+Create a full-body anime-style portrait of {argument name="character name" default="a mysterious young man"} walking toward the viewer on a sunlit traditional Japanese shopping street in Kamakura. He has a deliberately blank, softly blurred face with no facial features, tousled {argument name="hair color" default="black"} medium-length hair, and a tall slender build. He wears a refined Taisho-era inspired outfit: cream high-collar shirt, patterned vest, high-waisted dark hakama-style trousers, polished black shoes, a decorative waist chain, and a long black haori coat with subtle gold floral embroidery and flowing translucent fabric panels. He cradles exactly one calico cat in both arms; the cat is white with orange and black patches, alert yellow eyes, and a calm but strong presence. The setting is a narrow old-town stone-paved lane lined with wooden storefronts, hanging shop curtains, paper lanterns, and vertical signs with Japanese calligraphy; include a prominent wooden signboard on the left reading 「鎌倉 小町通り」 and a dark shop curtain on the right reading 「鎌倉屋」. Add small background pedestrians in muted kimono and casual clothing, receding in perspective. Lighting is warm late-afternoon sunlight filtering through leafy trees, creating dappled shadows, rim light, and a nostalgic cinematic atmosphere. Use highly detailed painterly anime rendering, elegant fashion illustration, soft depth of field, intricate fabric textures, realistic street perspective, vertical composition, no watermark, no extra animals, and keep the central figure dominant.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2069668066183840049) | 2026-06-24
+
+---
+
+### 🏷️ 例 2336：日式开发者评论横幅
+
+![日式开发者评论横幅](../../images/%E6%97%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85%E8%AF%84%E8%AE%BA%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个用于短视频叠加的透明背景装饰性日式下三分之一横幅。画布：宽横向 3:1 比例，约 1200×400 像素，艺术作品后方带有浅灰色棋盘格透明预览。主体：一个米白色圆角矩形对话气泡牌，横跨大部分宽度，带有分层偏移阴影以及细金线和淡蓝色轮廓描边，呈现出轻微的复古文具风格。布局：在牌子左上角放置一个小标签，内含一个带有代码括号的笔记本电脑圆形图标，标签文字为 {argument name="category label" default="开发人员评论"}；将主标题居中放置，使用优雅的大号日式明朝体书法，文字为 {argument name="headline text" default="如何删除 Heine"}，其中“删除”二字为柔和的蓝色，其余为黑色。在牌子内部左侧，包含 1 个面向右侧的水彩风格海豚插图，颜色为淡蓝灰色。在右上角，与牌子重叠处，添加 1 个带有扇形边缘的漫画爆破贴纸，米色轮廓，手写文字为 {argument name="sound effect text" default="叮"}，外加 2 个感叹号射线。装饰细节：在海豚、标题和右边缘周围分布 6 个小闪烁星；标题下方有 1 条细蓝色波浪下划线；右下中心附近有 4 个微小圆点；左右两侧有微妙的米色半调网点斑块；角落有精致的金色装饰花纹。视觉风格：柔和的奶油色、灰蓝色、柔和的金色，简洁的日式 YouTube Shorts 字幕图形，柔和的投影，清晰的矢量边缘与轻微的水彩质感相结合。约束：无人物或角色，无额外文字，保持横幅清晰易读并留有充足的空白空间，保留透明 PNG 叠加感。
+
+[English]
+Create a transparent-background decorative Japanese lower-third banner for a short video overlay. Canvas: wide horizontal 3:1 ratio, about 1200×400 px, with a light gray checkerboard transparency preview behind the artwork. Main object: a cream-white rounded rectangular speech-bubble plaque spanning most of the width, with layered offset shadows and thin gold and pale blue outline strokes, slightly vintage stationery style. Layout: place a small tab on the upper left of the plaque containing a circular icon of a laptop with code brackets and the label {argument name="category label" default="開発者コメント"}; place the main headline centered in large elegant Japanese Mincho-style calligraphy reading {argument name="headline text" default="ハイネを消す方法"}, with the characters for “消す” colored muted blue while the rest is black. On the left side inside the plaque, include exactly 1 watercolor-style dolphin illustration facing right, pale blue-gray. On the upper right, overlapping the plaque, add exactly 1 comic burst sticker with scalloped edges, beige outline, and handwritten text {argument name="sound effect text" default="ピコン"}, plus exactly 2 exclamation mark rays. Decorative details: include exactly 6 small sparkle stars distributed around the dolphin, headline, and right edge; exactly 1 thin blue wavy underline beneath the headline; exactly 4 tiny dots near the lower right center; subtle beige halftone dot patches on the left and right; small gold ornamental corner flourishes. Visual style: soft pastel cream, dusty blue, muted gold, clean Japanese YouTube Shorts caption graphic, gentle drop shadows, crisp vector edges mixed with light watercolor texture. Constraints: no characters or people, no extra text, keep the banner readable with generous empty space, preserve a transparent PNG overlay feel.
+```
+
+**来源：** [@kenta@AIVTuberテセウス•ノ•ハイネ開発者](https://x.com/kenta_shoko/status/2069665995862769753) | 2026-06-24
+
+---
+
+### 🏷️ 例 2351：蓝色花卉纸雕舞台
+
+![蓝色花卉纸雕舞台](../../images/%E8%93%9D%E8%89%B2%E8%8A%B1%E5%8D%89%E7%BA%B8%E9%9B%95%E8%88%9E%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个精致的组装式纸雕立体舞台，展示一位身处蓝色绣球花园中的动漫少女，如同拍摄于桌面上的高端手工展示模型。
+
+画布：横向 4:3 图像，居中正面视角，带有轻微的深度透视，浅景深，温暖的室内模糊背景，柔和的摄影棚灯光，配色方案为淡蓝色、白色、奶油色和浅薰衣草色。
+
+主体：一位名为 {argument name="character name" default="Nozomu"} 的年轻动漫少女，放置在纸雕舞台中心。她拥有飘逸的 {argument name="hair color" default="香槟金"} 长发、清澈的蓝色眼睛、淡淡的红晕、温柔羞涩的表情，头部左侧饰有华丽的花朵发饰。她身穿白色与浅蓝色相间的露肩浪漫礼服，带有蕾丝花边、胸前蓝色丝带蝴蝶结、肩部花朵细节、垂坠耳环以及精致的颈圈。
+
+立体结构：一个分层的组装式纸雕展示舞台，右侧可见许多堆叠的切割纸张。使用激光切割的装饰边框、扇形边角、卷曲藤蔓形状、花卉镂空以及淡蓝色侧板。前框是一个矩形的影子盒舞台，具有厚实的层叠边缘，左侧和右侧有装饰性的纸质叶片突出。设计应具有明显的物理纸艺模型质感，可见厚度、插槽、卡扣、层叠面板以及纸层之间的细微阴影。
+
+布局与元素计数：包含 1 个中心角色，她身后有 3 个高大的拱形窗户，2 个华丽的标签牌，以及前下方角落的 2 个大丝带蝴蝶结。顶部边框悬挂 8 串水晶：左侧 4 串，右侧 4 串，每串由珠子和蓝色多面钻石棱镜组成。边框周围包含 6 簇显眼的绣球花：左下方 2 大簇，前中心附近 1 小簇，右下方 2 簇，以及右侧窗户附近角色身后 1 簇。
+
+文字内容：顶部中心标签牌显示日语平假名 {argument name="top Japanese name" default="のぞむ"}，下方附有小号罗马字母“NOZOMU”。前下方标签牌显示标题 {argument name="stage title" default="Blue Flower Stage"}，采用优雅的草书字体，下方有三行小号大写副标题：“LAYERED PAPER STAGE”、“ASSEMBLED DISPLAY MODEL” 和 “ORIGINAL PAPER DIORAMA”。
+
+视觉风格：高度细腻的动漫插画与写实的纸艺产品摄影相结合。使用清晰的纸张边缘、浮雕感的镂空、细腻的纹理、珠光蓝纸张、半透明的多面水晶、柔和的背景虚化以及梦幻般的浪漫灯光。图像应看起来像一个成品手工纸雕舞台套件，而非平面海报。
+
+约束：保持蓝色和白色的色调统一，避免出现额外角色，避免额外文字，确保所有文字清晰可辨，保持中心少女被花朵和窗户环绕，并通过堆叠的纸层和柔和的阴影强调深度。
+
+[English]
+Goal: Create a delicate assembled layered paper stage diorama featuring an anime girl in a blue hydrangea flower garden, like a premium craft display model photographed on a tabletop.
+
+Canvas: Landscape 4:3 image, centered front view with slight depth perspective, shallow depth of field, warm blurred indoor background, soft studio lighting, pastel blue, white, cream, and pale lavender color palette.
+
+Main subject: One young anime girl named {argument name="character name" default="Nozomu"}, placed in the center of the paper stage. She has long flowing {argument name="hair color" default="champagne blonde"} hair, clear blue eyes, soft blush, a gentle shy expression, and ornate flower hair accessories on the viewer-left side of her head. She wears an off-shoulder romantic dress in white and very pale blue with lace trim, a blue ribbon bow at the chest, floral shoulder details, dangling earrings, and a delicate choker.
+
+Diorama structure: A layered, assembled paper display stage made of many stacked cut-paper sheets visible along the right side. Use laser-cut ornamental borders, scalloped corners, curled vine shapes, floral cutouts, and pale blue side panels. The front frame is a rectangular shadow-box stage with thick layered edges and decorative paper foliage protruding on the left and right. The design should clearly feel like a physical paper craft model, with visible thickness, slots, tabs, layered panels, and slight shadows between paper layers.
+
+Layout and counted elements: Include exactly 1 central character, exactly 3 tall arched window openings behind her, exactly 2 ornate label plaques, and exactly 2 large ribbon bows on the lower front corners. Include exactly 8 visible hanging crystal strands from the top frame: 4 on the left side and 4 on the right side, each made from beads and blue faceted diamond prisms. Include exactly 6 prominent hydrangea flower clusters around the frame: 2 large clusters along the lower left, 1 small cluster near the center front, 2 clusters on the lower right, and 1 cluster behind the character near the right window.
+
+Text content: Top center plaque displays Japanese hiragana {argument name="top Japanese name" default="のぞむ"} with small roman text “NOZOMU” underneath. Front lower plaque displays the title {argument name="stage title" default="Blue Flower Stage"} in elegant cursive, with three small uppercase subtitle lines below: “LAYERED PAPER STAGE”, “ASSEMBLED DISPLAY MODEL”, and “ORIGINAL PAPER DIORAMA”.
+
+Visual style: Highly detailed anime illustration combined with realistic paper-craft product photography. Use crisp paper edges, embossed-looking cutouts, subtle grain, pearlescent blue paper, translucent faceted crystals, soft bokeh background, and dreamy romantic lighting. The image should look like a finished handmade layered paper stage kit, not a flat poster.
+
+Constraints: Keep the palette cohesive in blue and white, avoid extra characters, avoid extra text, make all text legible, keep the central girl framed by flowers and windows, and emphasize depth through stacked paper layers and soft shadows.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2069621031258452059) | 2026-06-24
+
+---
+
+### 🏷️ 例 2357：1985 年北京胡同街头摄影
+
+![1985 年北京胡同街头摄影](../../images/1985%20%E5%B9%B4%E5%8C%97%E4%BA%AC%E8%83%A1%E5%90%8C%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="year" default="1985"} 年北京胡同，时间为 {argument name="time of day" default="黎明"}，一位赤脚的豆腐摊贩挑着两个木桶走过，油条摊冒着热气，复古的“飞鸽”牌自行车靠在灰砖墙边，秋叶散落在潮湿的鹅卵石路上，一位身穿中山装的老人正在路边摊吃煎饼，霓虹灯招牌闪烁，温暖的钨丝路灯光，Kodak Portra 400 胶片颗粒感，由 {argument name="photographer" default="王福春"} 拍摄的纪实街头摄影
+
+[English]
+{argument name="year" default="1985"} Beijing hutong alley at {argument name="time of day" default="dawn"}, a barefoot tofu seller carrying two wooden buckets across his shoulder, steam rising from a yutan stall, vintage Flying Pigeon bicycles parked against grey brick walls, autumn leaves scattered on wet cobblestone, an old man in Mao suit eating jianbing from a street cart, neon shop signs flickering, warm tungsten streetlight glow, Kodak Portra 400 film grain, documentary street photography by {argument name="photographer" default="Wang Fuchun"}
+```
+
+**来源：** [@空投龙 | 美股AI分析师](https://x.com/1YES_yes1/status/2069609688807960624) | 2026-06-24
+
+---
+
