@@ -2088,3 +2088,75 @@ Transform the uploaded photo into a cute black-and-white hand-drawn {argument na
 
 ---
 
+### 🔧 例 2373：8K 宠物照片修复
+
+![8K 宠物照片修复](../../images/8K%20%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其放大并修复为超高清 8K 电影级照片。100% 保留小猫的特征、姿态、构图、花色及整体布局。去除模糊、噪点、像素化和压缩伪影，同时还原逼真的微观细节：明亮有神的眼睛、根根分明的毛发、胡须、耳部纹理、鼻部细节、自然阴影以及柔软的织物前景。保持原有的蓝色背景和米色前景，但使其更加干净、平滑，呈现摄影棚级质感。最终效果需达到超写实水平，具备高对比度、自然光影和聚焦清晰的面部细节，且不添加任何额外物体、文字、水印或改变原有风格。
+
+[English]
+Using the provided reference image, upscale and restore it into an ultra-premium 8K cinematic-quality photograph. Preserve 100% of the kitten’s identity, pose, framing, color pattern, and overall composition. Remove blur, noise, pixelation, and compression artifacts while recovering realistic microdetails: sharp glossy eyes, individual fur strands, whiskers, ear texture, nose detail, natural shadows, and the soft fabric foreground. Keep the same simple blue background and beige foreground, but make them clean, smooth, and studio-quality. Make the result photorealistic with high contrast, natural lighting, crisp focus on the kitten’s face, and no added objects, text, watermark, or style change.
+```
+
+**来源：** [@zre](https://x.com/zrebroia/status/2070212758289711340) | 2026-06-25
+
+---
+
+### 🔧 例 2404：手绘记号笔涂鸦风格
+
+![手绘记号笔涂鸦风格](../../images/%E6%89%8B%E7%BB%98%E8%AE%B0%E5%8F%B7%E7%AC%94%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 {argument name="style" default="简约手绘涂鸦风格卡通"} 进行绘制，就像由人使用 {argument name="tool" default="黑色记号笔"} 手绘而成。使用自然的记号笔线条、略微不稳的轮廓、微妙的手绘瑕疵、略微开放的边缘，以及温暖的编辑涂鸦感。避免过于精致的矢量效果，避免过于锐利的数字完美感，保持图像简约、通透、扁平且低调。仅使用 {argument name="accent color" default="天蓝色"} 作为强调色。
+
+[English]
+Draw in a {argument name="style" default="simple hand-drawn doodled style cartoon"}, as if sketched by a person with a {argument name="tool" default="black felt-tip pen"}. Use natural marker lines, slightly wobbly contours, subtle hand-drawn imperfections, slightly open edges, and a warm editorial doodle feeling. Avoid polished vector-clean results, avoid overly crisp digital perfection, and keep the image simple, airy, flat, and understated. Use {argument name="accent color" default="sky blue"} only as the accent color.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2070078849845514357) | 2026-06-25
+
+---
+
+### 🔧 例 2434：极简马克笔涂鸦素描
+
+![极简马克笔涂鸦素描](../../images/%E6%9E%81%E7%AE%80%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为 {argument name="art style" default="极简马克笔素描"} 风格的可爱黑白手绘涂鸦插画。保留原始构图、姿势、拍摄角度、面部表情、服装以及所有主体的位置。将人物转换为可爱的 {argument name="character style" default="Q 版/卡通角色"}，特征包括简化的五官、大而富有表现力的眼睛、圆润的脸庞和清晰的轮廓。风格要求：
+
+[English]
+Convert the uploaded photo into a cute black-and-white hand-drawn doodle illustration in the exact style of a {argument name="art style" default="minimalist marker sketch"}. Preserve the original composition, pose, camera angle, facial expressions, clothing, and positioning of all subjects. Transform the people into adorable {argument name="character style" default="chibi/cartoon characters"} with simplified features, large expressive eyes, rounded faces, and clean outlines. Style requirements:
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2069985781926793289) | 2026-06-25
+
+---
+
+### 🔧 例 2439：异想天开的民间涂鸦插画
+
+![异想天开的民间涂鸦插画](../../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%B0%91%E9%97%B4%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将这张照片转化为带有涂鸦元素的 {argument name="style" default="异想天开的民间扁平化插画"}。保留原始构图和人物，但将所有细节简化为 {argument name="aesthetic" default="干净、色彩丰富的扁平形状，带有手工童趣感"}。使用 {argument name="color palette" default="柔和且鲜艳的色彩"}，添加红润的脸颊、俏皮的线条艺术、可爱的装饰符号、花朵、鸟类、漩涡以及温馨的城市背景细节。整体氛围应感觉温暖、愉悦、富有艺术感且迷人，就像现代童书插画一样。
+
+[English]
+Transform this photo into a {argument name="style" default="whimsical folk flat illustration"} with doodle elements. Preserve the original composition and characters, but simplify all details into {argument name="aesthetic" default="clean colorful flat shapes with a handmade childlike feel"}. Use {argument name="color palette" default="pastel and vibrant colors"}, rosy cheeks, playful line art, cute decorative symbols, flowers, birds, swirls, and cozy urban background details. The overall mood should feel warm, joyful, artistic, and charming like a modern children’s book illustration.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2069977287483891804) | 2026-06-25
+
+---
+

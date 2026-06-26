@@ -3542,3 +3542,211 @@ Customization: The transformation theme should be {argument name="transformation
 
 ---
 
+### 🎬 例 2378：漫画风格照片转换
+
+![漫画风格照片转换](../../images/%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的照片创作一幅高度精细的黑白漫画插图，同时保留原始的姿势、构图、面部表情、服装和拍摄角度。{argument name="subject" default="两个朋友在现代电梯里对着镜子自拍。女孩站在前景，手持智能手机，穿着超大号黑色连帽衫，留着长长的深色头发，做出夸张的尖叫表情，一只眼睛眯着。她身后的男孩穿着超大号白色连帽衫，戴着兜帽，同样睁大眼睛、张大嘴巴戏剧性地尖叫，拳头紧握，姿势俏皮。"}
+
+使用粗犷的漫画墨线、干净的轮廓线条、富有表现力的排线、细腻的笔触、微妙的网点阴影以及动态的漫画风格线条粗细来绘制所有内容。保持电梯背景简洁但具有辨识度，体现金属面板和反射效果。在两人头部周围添加细小的漫画强调线，以增强喜剧氛围。
+
+[English]
+Create a highly detailed black-and-white manga illustration based on the uploaded photo while preserving the exact pose, composition, facial expressions, clothing, and camera angle. {argument name="subject" default="Two friends are taking a mirror selfie inside a modern elevator. The girl stands in the foreground holding a smartphone, wearing an oversized black hoodie, long dark hair, making an exaggerated screaming expression with one eye squinted. Behind her, the boy wears an oversized white hoodie with the hood up, also screaming dramatically with wide eyes and an open mouth, fists clenched in a playful pose."}
+
+Illustrate everything using bold manga ink lines, clean contour work, expressive cross-hatching, fine pen strokes, subtle screentone shading, and dynamic comic-style line weight. Keep the elevator background minimal but recognizable with metallic panels and reflections. Add tiny manga emphasis lines around both heads to enhance the comedic energy.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2070180260520620061) | 2026-06-25
+
+---
+
+### 🎬 例 2398：猪肉味噌汤粗略分镜故事板
+
+![猪肉味噌汤粗略分镜故事板](../../images/%E7%8C%AA%E8%82%89%E5%91%B3%E5%99%8C%E6%B1%A4%E7%B2%97%E7%95%A5%E5%88%86%E9%95%9C%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部 15 秒的日本 2D 动画烹饪短片创建一个 21:9 的宽幅分镜故事板图像，主题为制作 {argument name="dish name" default="猪肉味噌汤定食"}。图像应呈现出一种由手工快速绘制的、非常粗糙的铅笔分镜风格，画面凌乱且未完成，白色背景上带有黑色石墨线条，无色彩，无精细勾线，除松散的涂鸦外无阴影，并保留可见的草图构建痕迹。
+
+画布：超宽水平 21:9 构图，分为 12 个矩形分镜格，按 3 行 4 列的网格排列。使用带有轻微抖动的细手绘边框。保持整张画面为单色且粗糙。
+
+布局与分镜数量：展示 12 个独立的烹饪镜头，从左到右，从上到下：
+1. 特写：双手在案板上用厨刀切白萝卜或大型白色根茎蔬菜；左侧有几片圆形的切片。
+2. 特写：手和刀切着另一种蔬菜的小月牙片，切好的碎片堆在右侧。
+3. 侧面/俯视视角：一碗水或高汤，切好的葱花或蔬菜圈落入液体中。
+4. 特写：双手将不规则的魔芋块或豆腐状食材放入矩形托盘；托盘上方悬着一块圆形蔬菜。
+5. 特写：在案板上用大刀切薄猪肉条；切好的肉条堆在左侧。
+6. 特写：锅中猪肉在浅层液体或油中被筷子搅拌。
+7. 俯视视角：一个带柄的锅，里面装满了大块蔬菜和肉，筷子在混合物中搅拌。
+8. 特写：液体高汤从壶中倒入装满食材的锅里。
+9. 炖煮中的锅，可见气泡、蒸汽、根茎蔬菜和豆腐/魔芋块；一个汤勺或漏勺从右上角伸入。
+10. 特写：汤勺将一团味噌酱或调味料举在冒热气的锅上方，同时用筷子或勺子辅助溶解。
+11. 汤被盛入碗中，切好的葱花从上方落下作为装饰。
+12. 最终成品镜头：一碗成品猪肉味噌汤，上面撒着葱花圈，配料丰富，左后方放着一小碗白米饭。
+
+视觉风格：极度粗糙的日本动画分镜铅笔草图，仓促的人工绘制，杂乱的构建线条，不均匀的透视，松散且充满活力的笔触，简单的手部结构，极简背景，无精细插图。使用电影化的特写镜头和烹饪动作构图。整体感觉应如同动画美食场景的制作分镜缩略图。
+
+约束条件：无标题，无对话气泡，无印刷文字，无色彩，无照片级真实感，无干净的线条艺术，无水彩，无 3D 渲染。保持所有 12 个分镜格清晰分隔，并保留精确的 3 行 4 列分镜网格。
+
+[English]
+Goal: Create a wide 21:9 storyboard image for a 15-second Japanese 2D anime cooking short about making {argument name="dish name" default="tonjiru set meal"}. The image should look like a very rough pencil storyboard drawn quickly by hand, messy and unfinished, with black graphite lines on a white background, no color, no clean inking, no shading beyond loose scribbles, and visible sketch construction marks.
+
+Canvas: Ultra-wide horizontal 21:9 composition, divided into exactly 12 rectangular storyboard panels arranged in a 3-row by 4-column grid. Use thin hand-drawn panel borders with slight wobble. Keep the whole sheet monochrome and rough.
+
+Layout and panel count: Show exactly 12 discrete cooking shots, left to right, top to bottom:
+1. Close-up of hands slicing a daikon radish or large white root vegetable on a cutting board with a chef knife; several round slices on the left.
+2. Close-up of a hand and knife cutting small crescent slices of another vegetable, with chopped pieces piled to the right.
+3. Bowl of water or stock seen from the side/top, with sliced green onions or vegetable rings falling into the liquid.
+4. Hands placing irregular cubes of konjac or tofu-like ingredients into a rectangular tray; one round vegetable piece held above the tray.
+5. Close-up of thin pork strips being sliced on a cutting board with a large knife; cut strips stacked on the left.
+6. Pot or pan close-up with pork being stirred by chopsticks in a shallow layer of liquid or oil.
+7. Top view of a handled pot filled with chunky vegetables and meat, chopsticks stirring through the mixture.
+8. Close-up of liquid broth being poured from a pitcher into a pot full of ingredients.
+9. Simmering pot with visible bubbles, steam, root vegetables and tofu/konjac chunks; a ladle or skimmer enters from the upper right.
+10. Ladle lifting a mound of miso paste or seasoning over the steaming pot while chopsticks or a spoon help dissolve it.
+11. Soup being ladled into a bowl, with chopped green onions falling from above as garnish.
+12. Final serving shot: a bowl of finished tonjiru topped with green onion rings and chunky ingredients, with a small bowl of white rice placed to the left rear.
+
+Visual style: Extremely rough Japanese animation storyboard pencil sketch, rushed human drawing, dirty construction lines, uneven perspective, loose energetic strokes, simple anatomy for hands, minimal background, no polished illustration. Use cinematic close-ups and cooking-action framing. The overall feeling should be like production storyboard thumbnails for an anime food scene.
+
+Constraints: No captions, no speech bubbles, no printed text, no color, no photorealism, no clean line art, no watercolor, no 3D render. Keep all 12 panels clearly separated and preserve the exact 3 by 4 storyboard grid.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2070091909381722363) | 2026-06-25
+
+---
+
+### 🎬 例 2442：奇幻韩式数字艺术
+
+![奇幻韩式数字艺术](../../images/%E5%A5%87%E5%B9%BB%E9%9F%A9%E5%BC%8F%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+奇幻韩式风格插画，{argument name="color palette" default="柔和的粉彩色调"}，温馨美学，手绘数字艺术，场景中散布着可爱的涂鸦元素（爱心、星星、漩涡、小鸟、花朵、云朵），温暖的阳光和梦幻的氛围，清晰的轮廓线，红润的脸颊，迷人的卡通风格角色，细腻的纸张纹理，高度精细的背景，绘本感，卡哇伊美学，柔和的阴影，鲜艳而柔和的色彩，俏皮的构图，适合 Instagram 的艺术作品，温馨浪漫的氛围，全身角色，花卉装饰，魔法闪光，超精细数字绘画，可爱的生活片段场景。
+
+图像 1 变体（咖啡馆里的情侣）：
+一对可爱的年轻情侣站在 {argument name="setting" default="温馨的咖啡馆"} 外，提着纸质购物袋，休闲街头穿搭，害羞的表情，靠在装饰着彩色涂鸦和可爱吉祥物海报的墙边，温暖的室内灯光，周围环绕着花朵和盆栽，浪漫的日常瞬间，奇幻韩式插画风格。
+
+图像 2 变体（女孩自拍）：
+可爱的女孩穿着 {argument name="clothing" default="超大号黑色套装"} 和宽檐帽，正用手机自拍，明亮的蓝天背景，蓬松的云朵，微笑的太阳，鲜艳的花朵，漂浮的涂鸦爱心和星星，欢快的春日氛围，俏皮的韩式插画风格，梦幻且具有美感。
+
+图像 3 变体（情侣握手）：
+年轻情侣在绿树下牵手问候，穿着配套的黑色夹克和帽子，飘逸的白色连衣裙，周围花朵盛开，柔和的午后阳光在墙上投下美丽的树影，浪漫而宁静的氛围，奇幻韩式绘本插画风格。
+
+[English]
+Whimsical Korean-inspired illustration, soft pastel color palette, cozy aesthetic, hand-painted digital art, cute doodle elements scattered around the scene (hearts, stars, swirls, birds, flowers, clouds), warm sunlight and dreamy atmosphere, clean outlines, blushy cheeks, charming cartoon-style characters, subtle paper texture, highly detailed background, storybook feeling, kawaii aesthetic, gentle shadows, vibrant yet soft colors, playful composition, Instagram-worthy artwork, cozy and romantic mood, full-body characters, floral decorations, magical sparkles, ultra-detailed digital painting, adorable slice-of-life scene.
+
+Image 1 Variation (couple in café):
+Cute young couple standing outside a cozy café, holding paper shopping bags, casual streetwear, shy expressions, leaning against a wall decorated with colorful doodles and a cute mascot poster, warm indoor lighting, flowers and potted plants around them, romantic everyday moment, whimsical Korean illustration style.
+
+Image 2 Variation (girl selfie):
+Cute girl in oversized black outfit and wide-brim hat taking a selfie with her phone, bright blue sky background, fluffy clouds, smiling sun, colorful flowers, floating doodle hearts and stars, cheerful spring atmosphere, playful Korean illustration style, dreamy and aesthetic.
+
+Image 3 Variation (couple handshake):
+Young couple holding hands and greeting each other under a leafy tree, matching black jackets and caps, flowing white dress, flowers blooming around them, soft afternoon sunlight casting beautiful tree shadows on the wall, romantic and peaceful atmosphere, whimsical Korean storybook illustration style.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2069968533719757081) | 2026-06-25
+
+---
+
+### 🎬 例 2446：动漫角色薯片包装
+
+![动漫角色薯片包装](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%96%AF%E7%89%87%E5%8C%85%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+入力画像を{argument name="キャラクター" default="キャラクター"}参照として使用する。 
+
+縦3:4。実写風の木目テーブルの上に、架空ブランドの銀色ポテトチップス袋が置かれている写真風画像を作成する。 入力画像のキャラクターを、銀色のポテトチップス袋に直接描かれたような白黒の手描き漫画風イラストに変換する。イラストは袋の下半分の余白を大きく使って描く。顔、髪型、衣装、特徴的な装飾、相棒キャラがいる場合はその存在感を保つ。 
+
+ポテトチップスは必ず架空ブランドにする。実在企業名、実在ロゴ、実在商品のデザインは使わない。 ポテトチップスの製品名は、入力画像のキャラクターのモチーフ・雰囲気・種族・衣装・相棒要素を参考にして決定する。製品名は短く、覚えやすく、実際にコンビニで見かけそうな自然な名前にする。できるだけ「{argument name="製品名" default="○○ポテト"}」「○○チップス」「○○あげ」などの短い商品名にする。 ポテトチップスの味名も、入力画像のキャラクターの印象に合わせて自然に決定する。{argument name="味名" default="和風、塩系、のり系、黒胡椒系、だし系、甘辛系"}など、日本のスナック菓子として違和感のない味名にする。 
+
+袋の上半分は商品パッケージデザインを主体にし、大きな商品名、味名、キャッチコピー、黒白の太い文字、手描きの吹き出し、星や小さな落書き風装飾で構成する。袋の下半分はキャラクターの白黒手描きイラストを主体にする。 袋は日本のスナック菓子風。メタリックな銀色フィルム、しわ、反射、印刷されたような黒白の太い文字、架空の味名、限定コラボ風の遊び心ある装飾を入れる。 
+
+背景と袋は実写風。袋に描かれたキャラクターだけは、ラフなペン画・漫画線画・手描きスケッチ風にする。 雰囲気は、限定コラボ商品のようにかわいく、遊び心があり、写真として自然に見えるもの。画像を作成する
+```
+
+**来源：** [@Anko | 東京百鬼パレード](https://x.com/ankoku_othello/status/2069944036744720639) | 2026-06-25
+
+---
+
+### 🎬 例 2448：Zareya 沙漠王国分镜脚本
+
+![Zareya 沙漠王国分镜脚本](../../images/Zareya%20%E6%B2%99%E6%BC%A0%E7%8E%8B%E5%9B%BD%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="story title" default="ZAREYA — 埋葬王国的歌声"} 创建一份电影感十足的 16 格分镜脚本联系表，展示一位神话般的沙漠歌者在被埋葬的帝国遗迹中漫步。氛围史诗、悲剧、神秘且风沙弥漫，呈现出 2.5D 卡通渲染动画概念艺术风格，结合油画质感的动漫背景、风格化光影、柔和光晕、沙粒模拟以及温暖的日落色调。
+
+画布：宽屏 16:9 分镜表，排列为精确的 4 列 4 行网格，带有细淡的分割线。每个分镜都是一个独立的电影镜头，具有一致的金色琥珀色沙漠光影、高细节，且无可见 UI。使用温暖的琥珀色、青铜色、赭石色和深褐色调，点缀以青绿色的魔法光芒。
+
+视觉风格：吉卜力工作室的氛围与《Arcane》风格的油画渲染及《波斯王子》奇幻建筑相结合。极具电影感的构图，戏剧性的逆光，体积感尘埃，随风飘动的衣物，飘逸的头发，华丽的珠宝，古老的砂岩遗迹，巨大的雕像以及旋涡状的沙尘。女主角是 {argument name="main character" default="Zareya"}，一位孤独的沙漠吟游诗人/公主，留着长长的深色编发，佩戴青绿色珠子、金色饰品，身穿花纹沙漠长袍，戴着手镯，拿着一支木笛。她的脸在多个特写镜头中部分被遮挡或裁剪；在 3 个分镜中，脸部区域需覆盖平面的深棕色矩形遮挡块，以匹配生成的联系表。
+
+分镜布局：包含精确的 16 个独立分镜：
+1. 女主角闭眼的极端特写，睫毛、悬挂的金色链条、青绿色珠子以及在日落光线下发光的尘埃。
+2. 闭眼和脸颊的另一个特写，由风吹乱的头发和悬挂的青绿色饰品勾勒轮廓。
+3. 低角度广角镜头，女主角站在破碎的石像或倒塌的巨型头像上，斗篷和头发在发光的天空下被沙尘暴吹动。
+4. 编发、珠串和花纹头巾的侧面特写，脸部区域覆盖有深棕色矩形遮挡块。
+5. 女主角吹奏木笛的中景特写，双手戴满手镯，头发在风中飞舞，脸部被深棕色矩形遮挡块遮住。
+6. 她独自走在沙云环形旋涡中的全身镜头，位于金色风暴的中心。
+7. 微小的人物走向被埋葬王国中宏伟的残破圆柱和石巨人，沙尘在建筑周围盘旋。
+8. 宏伟的遗迹全景，耸立的雕像和宫殿残骸，女主角作为底部的一个小剪影，天空充满尘埃与光线。
+9. 奇幻广角镜头，巨大的蛇形沙龙或风暴精灵在古老遗迹上方盘旋，女主角站在岩石壁架上。
+10. 女主角将笛子靠近肩膀的英雄式中景，长袍飘动，身后是龙形沙尘暴，脸部被深棕色矩形遮挡块遮住。
+11. 对称的寺庙大门镜头，两座巨大的雕像，女主角面对门口垂直的青绿色强光，两侧沙浪升起。
+12. 室内或大门镜头，看向被青蓝色魔法光芒淹没的巨大雕刻门洞，一个微小的人类剪影站在门槛处，沙尘向内飘散。
+13. 女主角走向发光的青绿色寺庙大门的背影，斗篷破烂且随风飘动，两侧是华丽的遗迹。
+14. 极广的沙漠景观，起伏的沙丘，远处的埋葬城市，以及一个微小的孤独旅人走向一个小型的蓝色发光入口或门洞。
+15. 类似航拍的极端广角视角，无尽的金色沙丘和山脉，旅人缩减为下方中心的一个微小深色身影。
+16. 最后的黑色标题卡，居中显示小型衬线字体，内容为：{argument name="closing text" default="每一个被遗忘的王国\n都依然记得她的歌声。"}
+
+文本内容：仅最后一张分镜包含文字。使用优雅的灰白色衬线字体，居中偏右，置于纯黑色背景上。保持两行之间的换行。
+
+约束条件：保持精确的 4x4 网格和 16 个分镜。不要添加额外的标题、徽标、水印、对话气泡、现代物体、科幻机械或额外角色。保持角色设计在所有分镜中的一致性。强调随风飘动的织物、飞扬的沙粒、油画笔触、电影般的日落光影，以及琥珀色沙漠遗迹与青绿色神圣光芒之间的对比。
+
+[English]
+Goal: Create a cinematic 16-panel storyboard contact sheet for {argument name="story title" default="ZAREYA — The Song That Buried a Kingdom"}, showing a mythic desert singer wandering through the ruins of a buried empire. The mood is epic, tragic, mystical, and wind-swept, like 2.5D cel-shaded animation concept art with painterly anime backgrounds, stylized lighting, soft bloom, sand particle simulation, and warm sunset grading.
+
+Canvas: Wide 16:9 storyboard sheet, arranged as an exact 4-column by 4-row grid with thin pale dividing lines. Each panel is a separate cinematic shot with consistent golden-orange desert lighting, high detail, and no visible UI. Use a warm amber, bronze, ochre, and sepia palette, with occasional turquoise magical light.
+
+Visual style: Studio Ghibli atmosphere mixed with Arcane-style painterly rendering and Prince of Persia fantasy architecture. Highly cinematic composition, dramatic backlight, volumetric dust, wind-driven cloth, flowing hair, ornate jewelry, ancient sandstone ruins, colossal statues, and swirling sand. The heroine is {argument name="main character" default="Zareya"}, a solitary desert bard/princess with long dark braided hair, turquoise beads, gold ornaments, patterned desert robes, bangles, and a wooden flute. Her face is partly obscured or cropped in several close-ups; include flat dark-brown rectangular censor-like blocks over the face in exactly 3 panels to match the generated contact sheet.
+
+Panel layout: Include exactly 16 discrete panels:
+1. Extreme close-up of the heroine's closed eye, eyelashes, hanging gold chains, turquoise beads, and dust motes glowing in sunset light.
+2. Another close-up of the closed eye and cheek, framed by windblown hair and a dangling turquoise ornament.
+3. Low-angle wide shot of the heroine standing on a broken stone statue or fallen colossal head, cloak and hair blown by a sandstorm under a glowing sky.
+4. Close side view of braided hair, bead strands, and patterned headscarf, with a dark-brown rectangular block covering the face area.
+5. Medium close-up of the heroine playing a wooden flute, hands covered in bracelets, hair whipping in the wind, face hidden by a dark-brown rectangular block.
+6. Full-body shot of her walking alone through a circular vortex of sand and cloud, centered in a golden storm.
+7. Tiny figure walking toward monumental ruined columns and stone giants in a buried kingdom, sand curling around the architecture.
+8. Grand ruin vista with towering statues and palace remnants, the heroine as a small silhouette at the bottom, sky full of dust and light.
+9. Wide fantasy shot of enormous serpentine sand-dragon forms or storm spirits arcing above ancient ruins while the heroine stands on a rock ledge.
+10. Heroic medium shot of the heroine holding the flute near her shoulder, robe billowing, a dragon-shaped sandstorm behind her, face covered by a dark-brown rectangular block.
+11. Symmetrical temple-gate shot with two colossal statues, the heroine facing a tall vertical turquoise glow in the doorway, sand waves rising on both sides.
+12. Interior or gate shot looking into a vast carved doorway flooded with cyan-blue magical light, a small human silhouette standing at the threshold, sand drifting inward.
+13. Rear view of the heroine walking toward the glowing turquoise temple gate, cloak tattered and windblown, ornate ruins on both sides.
+14. Very wide desert landscape with rolling dunes, distant buried city, and a tiny lone traveler approaching a small blue-lit portal or doorway.
+15. Extreme wide aerial-like view of endless golden dunes and mountains, the traveler reduced to a tiny dark figure in the lower center.
+16. Final black title card with centered small serif text reading exactly: {argument name="closing text" default="Every forgotten kingdom\nstill remembers her song."}
+
+Text content: Only the final panel contains text. Use elegant off-white serif typography, centered slightly right of the middle on a pure black background. Keep the line break between the two lines.
+
+Constraints: Maintain the exact 4x4 grid and exactly 16 panels. Do not add extra captions, logos, watermarks, speech bubbles, modern objects, sci-fi machinery, or additional characters. Keep the character design consistent across all panels. Emphasize wind-driven fabric, flying sand particles, painterly brush texture, cinematic sunset lighting, and the contrast between amber desert ruins and turquoise sacred light.
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2069939536390664563) | 2026-06-25
+
+---
+

@@ -3284,3 +3284,167 @@ Create an ultra-realistic, highly detailed miniature-world portrait scene in a v
 
 ---
 
+### 🧸 例 2367：东京扭蛋街头时尚摄影
+
+![东京扭蛋街头时尚摄影](../../images/%E4%B8%9C%E4%BA%AC%E6%89%AD%E8%9B%8B%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张在日本东京拍摄的写实竖屏街头时尚快照，展示 {argument name="character name" default="一位成年女性"} 在繁华步行购物街的扭蛋机墙旁摆拍。她是画面中唯一的中心主体，身体略微前倾靠近镜头，右手正在转动扭蛋机旋钮，左手轻触耳边的头发。她的面部被一个柔和边缘的棕色方形模糊块刻意遮挡。她留着深棕色长发，身穿浅蓝色衬衫并卷起袖子，胸前系着深蓝色蝴蝶结，搭配超短海军蓝百褶裙、黑色过膝袜和白色运动鞋。为她添加 3 个清晰可见的配饰：一个大型海军蓝单肩包，包上挂着一个白色小泰迪熊钥匙扣，左手腕戴着两个发圈（一个粉色花朵状发圈和一个黑色发圈）。画面右侧包含 6 台纵向排列的显眼白色扭蛋机正面，展示着色彩鲜艳的动漫风格产品海报、投币口、透明扭蛋窗和蓝白相间的转动旋钮；她的右手手指正放在其中一个旋钮上。背景是拥挤的秋叶原/涩谷风格人行道，有许多行人走过，配有明亮的日式店招、彩色广告牌和密集的城市广告；保持背景清晰度略低于主体。使用明亮的自然光，呈现真实的皮肤和织物纹理，采用智能手机拍摄视角，从略高处进行广角 3/4 全身构图，色彩鲜艳，细节丰富，呈现社交媒体抓拍的真实感。可自定义服装颜色为 {argument name="outfit color" default="浅蓝色衬衫和海军蓝裙子"}，地点为 {argument name="city street" default="东京动漫购物街"}，扭蛋机主题为 {argument name="capsule toy theme" default="可爱动漫角色扭蛋"}，以及面部遮挡效果为 {argument name="face effect" default="面部覆盖大面积棕色方形模糊块"}。避免出现多余肢体、手部畸形、解剖结构错误、重复的包袋或额外的中心主体。
+
+[English]
+Create a photorealistic vertical street-fashion snapshot in Tokyo, Japan, showing {argument name="character name" default="an adult woman"} posing beside a wall of capsule toy vending machines on a busy pedestrian shopping street. She is the single main subject, leaning forward slightly toward the camera while turning a gashapon knob with her right hand and touching her hair near her ear with her left hand. Her face is intentionally hidden by a large soft-edged square blur/censor block in muted brown tones. She has long dark brown hair and wears a light blue button-up blouse with rolled sleeves, a dark navy bow tied at the chest, a very short navy pleated skirt, black knee-high socks, and white sneakers. Add exactly 3 visible accessories on her: a large navy shoulder bag, a small white teddy bear keychain hanging from the bag, and two wrist scrunchies on the left wrist, one pink flower-like scrunchie and one black scrunchie. The right side of the image contains exactly 6 prominent white capsule toy machine fronts in a vertical perspective row, with colorful anime-style product posters, coin slots, clear capsule windows, and blue-and-white turning knobs; her right fingertips rest on one knob. The background is a crowded Akihabara/Shibuya-style sidewalk with many pedestrians walking away, bright Japanese storefront signs, colorful billboards, and dense urban advertising; keep the background slightly less sharp than the subject. Use bright natural daylight, realistic skin and fabric texture, smartphone camera perspective, wide-angle 3/4 full-body framing from slightly above, vibrant colors, high detail, candid social-media photo realism. Customize the outfit color as {argument name="outfit color" default="light blue blouse and navy skirt"}, the location as {argument name="city street" default="Tokyo anime shopping street"}, the machine theme as {argument name="capsule toy theme" default="cute anime character gashapon"}, and the face concealment as {argument name="face effect" default="large square brown blur over the face"}. Avoid extra limbs, distorted hands, unreadable anatomy, duplicate bags, or additional main subjects.
+```
+
+**来源：** [@K's Al Photo Studio](https://x.com/mashiro_minase/status/2070288718037143639) | 2026-06-25
+
+---
+
+### 🧸 例 2386：收藏级玩具包装设计师
+
+![收藏级玩具包装设计师](../../images/%E6%94%B6%E8%97%8F%E7%BA%A7%E7%8E%A9%E5%85%B7%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个风格化的收藏级玩具包装，主角为 {argument name="character name" default="[角色名称]"}。
+
+包装颜色：{argument name="packaging color" default="[颜色]"}
+顶部文字："{argument name="title" default="[标题]"}"
+人偶风格：可爱的乙烯基设计师玩具，大头，简化比例。
+姿势：[姿势]
+表情：[表情]
+
+配件：
+• [物品 1]
+• [物品 2]
+• [物品 3]
+• [物品 4]
+• [物品 5]
+
+服装：
+[服装描述]
+
+专业产品摄影，模塑塑料托盘，豪华收藏级包装，正面视图，对称布局，柔和阴影，哑光质感，超精细 3D 渲染。
+
+[English]
+Create a stylized collectible toy package featuring {argument name="character name" default="[CHARACTER NAME]"}.
+
+Packaging color: {argument name="packaging color" default="[COLOR]"}
+Top text: "{argument name="title" default="[TITLE]"}"
+Figure style: adorable vinyl designer toy, oversized head, simplified proportions.
+Pose: [POSE]
+Expression: [EXPRESSION]
+
+Accessories:
+• [ITEM 1]
+• [ITEM 2]
+• [ITEM 3]
+• [ITEM 4]
+• [ITEM 5]
+
+Outfit:
+[OUTFIT DESCRIPTION]
+
+Professional product photography, molded plastic tray, luxury collectible packaging, front view, symmetrical layout, soft shadows, matte finish, ultra-detailed 3D render.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2070155260103197161) | 2026-06-25
+
+---
+
+### 🧸 例 2408：Ingrid 冰雪储藏室咖啡馆奇幻场景
+
+![Ingrid 冰雪储藏室咖啡馆奇幻场景](../../images/Ingrid%20%E5%86%B0%E9%9B%AA%E5%82%A8%E8%97%8F%E5%AE%A4%E5%92%96%E5%95%A1%E9%A6%86%E5%A5%87%E5%B9%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个异想天开的电影质感奢华冰蓝色咖啡馆场景，由 {argument name="character name" default="Ingrid"} 主演。如果提供了上传的人脸参考，请使用该人脸作为精确参考，锁定面部特征并确保在每个角色版本中保持一致。
+
+画布：方形 4:5 比例的竖构图，超精细光泽 3D 插画 / 电影级数字艺术，冰蓝与白色调，闪烁的霜花、雪花、冷雾、反光的冰冻大理石地面、明亮的轮廓光以及梦幻般的冬季咖啡馆氛围。
+
+主体：将主角 {argument name="character name" default="Ingrid"} 置于画面中心，她坐在一个巨大的光泽白色陶瓷杯形椅子中，椅子造型如同一个巨型咖啡杯。杯子右侧有一个大把手，并印有优雅的黑色衬线文字：“INGRID”，下方有较小的文字：“• COFFEE QUEEN •”。她穿着舒适的超大款 {argument name="cardigan color" default="淡冰蓝色"} 针织开衫、白色上衣和蓝色牛仔裤，双手捧着一杯热咖啡。她长长的棕色波浪卷发自然垂落，坐在杯内柔软的淡蓝色坐垫上。
+
+环境与标识：场景设定在一家名为“INGRID'S ICE STORAGE — CAFÉ —”的高级冰冻咖啡馆内，背景墙上有巨大的发光蓝白色字母。天花板边缘悬挂着冰柱，配有磨砂玻璃墙、发光展示柜，主体上方有一个圆形吸顶灯，向下投射出璀璨的蓝色光束。请准确包含以下可见标识：“PREMIUM ICE CREAM”位于左侧冷冻架上方，“FROZEN FRUITS”位于左下展示柜上，“COFFEE & MORE”位于右侧咖啡站上方，“INGRID'S CAFÉ”位于黑色咖啡菜单项目上，“ICED DRINKS”位于右下饮料柜上，“DESSERTS & TREATS”位于甜点展示柜上。
+
+重复角色数量：展示总共 7 个 {argument name="character name" default="Ingrid"} 版本：1 个巨大的中心 Ingrid 坐在巨型咖啡杯椅中；1 个迷你 Ingrid 坐在左侧冰淇淋架上拿着饮料；1 个迷你 Ingrid 站在右侧咖啡机旁；1 个迷你 Ingrid 坐在左下方阅读菜单并喝咖啡；1 个迷你 Ingrid 坐在左下前景附近，拿着软冰淇淋蛋筒并穿着 Ingrid 咖啡馆围裙；1 个迷你 Ingrid 坐在底部中央，提着一小篮水果；以及 1 个迷你 Ingrid 坐在右侧的小圆咖啡桌旁喝咖啡。
+
+企鹅数量：包含 5 只可爱的毛绒质感企鹅，戴着蓝色冬帽和围巾：1 只在左侧架子上，位于迷你 Ingrid 旁边；1 只小企鹅在左下中央，位于阅读者旁边；1 只大企鹅在左下前景；1 只小企鹅在巨型咖啡杯右侧附近；以及 1 只企鹅在右侧咖啡桌旁。
+
+食物与饮品细节：添加装满印有角色名称的品牌冰淇淋桶的冷冻架、瓶装和杯装冰饮、玻璃柜中的甜点、奶油点心、糕点以及色彩缤纷的冷冻水果。在底部中央附近放置一个装有菠萝、橙子、柠檬和浆果的水果篮。右侧的黑色咖啡菜单项目应显示 6 种带插图的饮品选项：美式咖啡 (Americano)、拿铁 (Latte)、卡布奇诺 (Cappuccino)、摩卡 (Mocha)、香草拿铁 (Vanilla Latte) 和焦糖玛奇朵 (Caramel Macchiato)。
+
+风格：超精细、光泽感、高端奇幻咖啡馆广告风格，丰富的反射效果，柔和的体积光，蓝白色霓虹光，雪花颗粒，磨砂玻璃，舒适的针织纹理，可爱的迷你角色，以及迷人的冬季吉祥物活力。
+
+约束条件：如果提供了参考人物，请确保所有面部特征与参考人物保持一致。除指定的 7 个角色外，不要添加额外的角色分身；除指定的 5 只企鹅外，不要添加额外的企鹅。确保文字清晰且位于描述的位置。无水印，无 Logo，无扭曲的手部，无无法辨认的主标识。
+
+[English]
+Goal: Create a whimsical cinematic luxury ice-blue café scene starring {argument name="character name" default="Ingrid"}, using the uploaded person as the exact face reference if provided, with face identity locked and repeated consistently across every character version.
+
+Canvas: Square 4:5-feeling vertical composition, ultra-detailed glossy 3D illustration / cinematic digital art, icy blue and white palette, sparkling frost, snowflakes, cool mist, reflective frozen marble floor, bright rim lighting, and a magical winter café atmosphere.
+
+Main subject: Center the main {argument name="character name" default="Ingrid"} seated inside an oversized glossy white ceramic mug chair shaped like a giant coffee cup. The mug has a large handle on the right and is labeled in elegant black serif text: "INGRID" with smaller text below: "• COFFEE QUEEN •". She wears a cozy oversized {argument name="cardigan color" default="pale ice-blue"} knitted cardigan, white top, blue jeans, and holds a hot coffee cup with both hands. Her long wavy brown hair flows naturally, and she sits on soft pale-blue cushions inside the cup.
+
+Environment and signage: Set the scene inside a premium frozen café called "INGRID'S ICE STORAGE — CAFÉ —" in large glowing white-blue letters on the back wall. Add icicles hanging from the ceiling edges, frosted glass walls, glowing display cases, and a circular ceiling light above the main subject casting radiant blue beams downward. Include these visible signs exactly: "PREMIUM ICE CREAM" above the left freezer shelves, "FROZEN FRUITS" on the lower-left case, "COFFEE & MORE" above the right coffee station, "INGRID'S CAFÉ" on the black coffee menu board, "ICED DRINKS" on the lower-right drink case, and "DESSERTS & TREATS" on the dessert display.
+
+Repeated character count: Show exactly 7 total versions of {argument name="character name" default="Ingrid"}: 1 large central Ingrid in the giant mug chair; 1 mini Ingrid sitting on the left ice-cream shelf holding a drink; 1 mini Ingrid standing at the right coffee machine; 1 mini Ingrid sitting lower left reading a menu and drinking coffee; 1 mini Ingrid sitting near the bottom-left foreground holding a soft-serve ice cream cone and wearing an Ingrid café apron; 1 mini Ingrid sitting bottom center with a small shopping basket of fruit; and 1 mini Ingrid sitting at a small round café table on the right holding coffee.
+
+Penguin count: Include exactly 5 cute plush-like penguins wearing blue winter hats and scarves: 1 on the left shelf beside the mini Ingrid; 1 small penguin near the lower center-left beside the reader; 1 large penguin in the bottom-left foreground; 1 small penguin near the right side of the giant mug; and 1 penguin beside the right café table.
+
+Food and drink details: Add frozen shelves filled with branded ice-cream tubs labeled with the character name, iced drinks in bottles and cups, desserts in glass cases, whipped cream treats, pastries, and colorful frozen fruit. Include a fruit basket with pineapple, oranges, lemons, and berries near the bottom center. The right black coffee menu board should show exactly 6 illustrated drink options labeled: Americano, Latte, Cappuccino, Mocha, Vanilla Latte, and Caramel Macchiato.
+
+Style: Hyper-detailed, glossy, high-end fantasy café advertising look, rich reflections, soft volumetric light, blue-white neon glow, snow particles, frosty glass, polished ceramic, cozy knit textures, cute miniature characters, and charming winter mascot energy.
+
+Constraints: Keep all faces consistent with the reference person if one is provided. Do not add extra character copies beyond the 7 specified, and do not add extra penguins beyond the 5 specified. Keep the text legible and centered where described. No watermark, no logo, no distorted hands, no unreadable main signage.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2070071634065862709) | 2026-06-25
+
+---
+
+### 🧸 例 2436：3D 分层剪纸艺术
+
+![3D 分层剪纸艺术](../../images/3D%20%E5%88%86%E5%B1%82%E5%89%AA%E7%BA%B8%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为高度精细的 3D 分层剪纸艺术作品。创建多个堆叠的纸张图层，展现清晰的切割边缘、层与层之间的柔和阴影以及手工纸张质感。将所有元素转换为具有深度和维度的平滑圆润纸艺形状。使用 {argument name="color palette" default="柔和且温暖的大地色系"}，搭配精致的剪纸叶片、风格化的建筑以及梦幻浪漫的氛围。让角色看起来像可爱的 {argument name="character type" default="故事书人物"}，拥有简单的面部特征、红润的脸颊、柔和的表情以及分层的纸艺发型。在背景中添加复杂的剪纸景观，包括树木、花卉、小径以及柔和的日落光影。构图极其简洁，呈现高级手工纸艺效果，具备景深感和影盒效果，充满奇幻与魅力，高度精细，专业纸艺插画，8k 画质。
+
+[English]
+Transform the uploaded photo into a highly detailed 3D layered papercut artwork. Create multiple stacked paper layers with visible cut edges, soft shadows between layers, and handcrafted paper textures. Convert all elements into smooth rounded paper shapes with depth and dimension. Use {argument name="color palette" default="pastel and warm earthy colors"}, delicate paper-cut foliage, stylized buildings, and a dreamy romantic atmosphere. Make the characters look like cute {argument name="character type" default="storybook figures"} with simple facial features, rosy cheeks, soft expressions, and layered paper hair. Add intricate paper-cut scenery in the background with trees, flowers, pathways, and soft sunset lighting. Ultra-clean composition, premium handcrafted paper art, depth of field, shadow-box effect, whimsical, charming, highly detailed, professional papercraft illustration, 8k quality.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2069982849005171006) | 2026-06-25
+
+---
+
+### 🧸 例 2441：害羞动漫少女怀抱鲨鱼玩偶
+
+![害羞动漫少女怀抱鲨鱼玩偶](../../images/%E5%AE%B3%E7%BE%9E%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%80%80%E6%8A%B1%E9%B2%A8%E9%B1%BC%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖构图动漫插画，描绘一位在柔和灯光卧室中的害羞少女，画面从大腿中部向上，她正将一只大型鲨鱼毛绒玩具抱在胸前。角色拥有 {argument name="hair color" default="带有红色内挑染的黑色短波波头"}，皮肤白皙，脸颊绯红，红色的眼睛，表情羞涩，一只手抬起遮住嘴巴。在刘海一侧加上银色的小发夹。她穿着一件宽松的 {argument name="shirt color" default="白色"} 大号长袖衬衫，领口敞开，衣褶柔软，在温暖的阳光下呈现出微妙的半透明感，营造出一种温柔私密的早晨氛围，无任何露骨内容。鲨鱼玩偶又大又可爱，背部蓝灰色，腹部白色，有一只黑色的珠子眼睛、鳃痕、侧鳍、尾巴以及露出三角形牙齿的张开嘴巴。场景设定在一间舒适的卧室，左侧有一扇高大的窗户，挂着米色薄纱窗帘，金色的阳光倾泻而入，投下明亮的高光和长长的阴影。背景中包含 5 个清晰可见的房间细节：墙上挂着 1 幅海洋与云朵的画框，1 张床头柜，1 个插着黄色花朵的花瓶，1 个小相框，以及 1 个木制抽屉柜。采用精致的日式动漫风格，配合绘画感的光影、柔和的腮红调、光泽感的发丝高光、细腻的布料褶皱、浅景深、温暖的尘埃微粒，以及 3:4 的竖构图。保持温柔、安静且略带尴尬的氛围；无文字，无水印，无多余角色。
+
+[English]
+Using REFERENCE_0 as the base, transform the photo into a polished anime-style illustration while preserving the same overall pose, camera angle, white oversized shirt, shark plush being hugged, window-side indoor setting, and warm backlit mood. Replace the obscured face with a cute expressive anime face: soft blush, slightly shy eyes, and the hand still raised near the mouth. Keep the short black bob silhouette but make it glossy and stylized, with red-tinted hair tips and 3 visible hair accessories: 2 silver rectangular hair clips and 1 gray X-shaped pin. Render the scene with clean line art, detailed painterly shading, luminous sunlight, soft highlights on fabric, and a high-quality visual-novel/anime key art finish.
+
+Add and clarify the room details that were only vague in the reference: a teal-green wall, a framed ocean-and-cloud picture on the wall, a wooden dresser on the right, a white vase with exactly 3 yellow flowers, and 1 small framed photo on the dresser. Add a few subtle floating dust motes/bubbles in the sunlight. Make the shark plush more cute and crisp, with a blue top, white belly, black eye, gill marks, fin, tail, and open mouth with triangular teeth.
+
+Customizable details: anime character with {argument name="eye color" default="red"}, {argument name="hair accent color" default="red"}, wearing {argument name="shirt style" default="oversized white button-up shirt"}, holding {argument name="plush toy" default="blue shark plush"}, in a {argument name="background mood" default="warm sunlit bedroom by a window"}.
+
+Constraints: do not crop out the plush, keep the composition vertical, keep the pose and outfit close to the reference, avoid photorealism, avoid extra characters, avoid text or watermarks.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2069969307292012985) | 2026-06-25
+
+---
+

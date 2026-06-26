@@ -2073,3 +2073,57 @@ Constraints: Use Japanese text exactly as specified, do not add extra sections o
 
 ---
 
+### 📊 例 2380：白斑河鲀科学图鉴
+
+![白斑河鲀科学图鉴](../../images/%E7%99%BD%E6%96%91%E6%B2%B3%E9%B2%80%E7%A7%91%E5%AD%A6%E5%9B%BE%E9%89%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张 4:5 纵向比例的微距科学图鉴信息图，主题为 {argument name="animal name" default="白斑河鲀"}，将该动物呈现为极具视觉冲击力的全出血珊瑚礁景观，并采用信息丰富的杂志排版。
+
+画布：4:5 纵向比例，深青色海洋背景，将高分辨率写实野生动物微距摄影与简洁的矢量信息图板块相结合。使用奶油色、沙色、柔和的黄色、水蓝色和珊瑚橙色作为点缀。添加细微的气泡、珊瑚礁纹理和圆角板块边框。
+
+主体：一条大型写实白斑河鲀，{argument name="scientific name" default="Arothron hispidus"}，位于画面中下方偏右，面向右侧，身体充气呈圆形，覆盖着密集的白斑，拥有带有黄色光环的明亮眼睛、微噘的小嘴、半透明的鳍，背景可见珊瑚礁。鱼类应像景观标本一样占据中心位置。
+
+顶部标题区：大型压缩大写奶油色标题，内容为 {argument name="headline text" default="白斑河鲀"}。下方添加斜体黄色学名“Arothron hispidus”，随后是一行简短的分类信息“辐鳍鱼纲 / 鲀形目 / 四齿鲀科”，以及一段简短描述：“一种迷人的珊瑚礁居民，拥有强大的防御能力和缓慢的游动姿态——可爱、聪明且具有潜在危险。”
+
+左侧栏：创建一个名为“防御特征”的纵向板块，包含 6 张带编号的特征卡片，每张卡片配有小幅照片剪裁和文字。6 张卡片分别为：1) “充气”：展示充气后的河鲀面部，解释其通过快速吸入水或空气使身体膨胀成一个大圆球；2) “棘刺”：展示近距离观察下竖起的尖锐皮肤棘刺，解释其在充气时会从皮肤中竖起；3) “坚韧皮肤”：展示皮革般的斑点皮肤，解释其带有凸起和鳞片的厚实皮肤提供了机械性保护；4) “喙状牙齿”：展示嘴部，解释其融合的强力牙齿可以压碎螃蟹、蜗牛和海胆等带壳猎物；5) “毒素风险”：展示带有生物危害标志和黄色警告三角的河鲀，解释河鲀毒素可能致命且无解药；6) “警告姿态”：展示完全充气的带刺河鲀，解释受威胁的动物会充气、竖起棘刺并展示鲜明的对比图案。
+
+右侧栏：创建堆叠的圆角科学板块。顶部为分类卡片，包含 3 行内容及图标：“纲：辐鳍鱼纲 (Actinopterygii)”、“目：鲀形目 (Tetraodontiformes)”、“科：四齿鲀科 (Tetraodontidae)”。下方为“分布范围”板块，展示青色背景上的米色世界地图，并以橙色高亮显示印度洋-太平洋分布区，标注为“印度洋-太平洋：东非至琉球群岛，南至澳大利亚，东至法属波利尼西亚。”下方创建 3 张生态卡片：“捕食者”配以鲨鱼、石斑鱼、海鳗和海鸟图像；“饮食”配以螃蟹、蜗牛和海胆图像；“行为”配以小型河鲀肖像，描述其缓慢放松的游动方式，常在珊瑚礁附近徘徊，独居或成对，除非受到挑衅否则不具攻击性。
+
+中下部信息带：在鱼类附近添加一张“栖息地”小卡片，配有珊瑚图标，介绍其在清澈热带水域的珊瑚礁和泻湖中生活，通常靠近斜坡和避风区域，深度可达 40 米。在中心区域底部，添加 5 个带有图标的度量瓷砖：“体型：最大 50 厘米 (20 英寸)”、“重量：最大 2.5 公斤 (5.5 磅)”、“速度：最快 8 公里/小时 (5 英里/小时)”、“寿命：野生环境下 10–15 年”、“保护状况：无危 (LC)，IUCN 红色名录”。
+
+底部区域：创建两个大型圆角板块。左侧板块标题为“关键适应性”，包含 7 个绿色勾选符号的要点：具有可快速充气的弹性胃；通过肌肉控制竖起的棘刺；用于物理防御的坚韧带刺皮肤；用于压碎硬壳猎物的强力喙；作为化学防御的河鲀毒素；与珊瑚和沙地融为一体的卓越伪装；用于精确机动的强壮胸鳍。包含一张带刺充气河鲀的圆形内嵌图像。右侧板块标题为“3 个惊人的事实”，包含 3 条带编号的事实：1) 它们可以使用胸鳍在海底“行走”；2) 河鲀毒素并非由鱼类自身产生，而是来自其饮食中的细菌，并随地点和季节而变化；3) 尽管看起来行动迟缓，但它们是优秀的解题者，拥有良好的记忆力。添加三张小型辅助插图：行走中的河鲀、绿色细菌和蓝色大脑。
+
+页脚：添加一个带有相机图标的窄长圆角横幅，包含保护信息 {argument name="footer message" default="只可远观，不可触碰。拍照留念，切勿惊扰。这些神奇的防御机制属于海洋。"}，随后是一个蓝色小爱心。
+
+约束条件：使用列出的准确板块数量和编号项目。保持所有文字为英文，清晰易读，并对齐到精致的教育海报网格中。避免添加额外的动物或不相关的标签。无水印，无二维码，无 Logo。
+
+[English]
+Goal: Create a vertical 4:5 macro-detail scientific plate infographic about {argument name="animal name" default="White-Spotted Pufferfish"}, presenting the animal as a dramatic full-bleed reef landscape with an information-rich magazine layout.
+
+Canvas: Portrait 4:5 aspect ratio, dark teal oceanic background, high-resolution photorealistic macro wildlife photography blended with clean vector infographic panels. Use cream, sand, muted yellow, aqua, and coral-orange accents. Add subtle bubbles, reef texture, and rounded panel borders.
+
+Main subject: A large photorealistic white-spotted pufferfish, {argument name="scientific name" default="Arothron hispidus"}, centered slightly low and right, facing right, inflated into a round body covered in dense white spots, with a glossy yellow-ringed eye, small puckered mouth, translucent fins, and coral reef visible behind it. The fish should dominate the center like a landscape specimen.
+
+Top title area: Large condensed uppercase cream headline reading {argument name="headline text" default="WHITE-SPOTTED PUFFERFISH"}. Under it, add the italic yellow scientific name “Arothron hispidus”, then a small taxonomy line “Actinopterygii / Tetraodontiformes / Tetraodontidae” and a short description: “A charismatic coral reef resident with powerful defenses and a slow-moving demeanor—cute, clever, and potentially deadly.”
+
+Left column: Create a vertical panel titled “DEFENSIVE FEATURES” with exactly 6 numbered feature cards, each with a small photo crop and text. The 6 cards are: 1) “INFLATION” showing an inflated pufferfish face, explaining it rapidly fills its stomach with water or air to swell into a large rounded ball; 2) “SPINES” showing close-up raised sharp skin spines, explaining they erect from the skin when inflated; 3) “TOUGH SKIN” showing leathery spotted skin, explaining thick skin in bumps and scales provides mechanical protection; 4) “BEAK-LIKE TEETH” showing the mouth, explaining fused powerful teeth crush hard-shelled prey like crabs, snails, and urchins; 5) “TOXIN RISK” showing the pufferfish with a biohazard symbol and yellow warning triangle, explaining tetrodotoxin can be lethal and has no antidote; 6) “WARNING POSTURE” showing a fully inflated spiny fish, explaining the threatened animal inflates, raises spines, and displays bold contrast patterns.
+
+Right column: Create stacked rounded science panels. At the top, a taxonomy card with exactly 3 rows and icons: “CLASS: Actinopterygii (ray-finned fishes)”, “ORDER: Tetraodontiformes (pufferfishes and relatives)”, and “FAMILY: Tetraodontidae (true pufferfishes)”. Below it, a “RANGE” panel with a beige world map on teal and orange highlighted Indo-Pacific distribution, captioned “Indo-Pacific: East Africa to the Ryukyu Islands, south to Australia, and east to French Polynesia.” Below, create exactly 3 ecological cards: “PREDATORS” with shark, grouper, moray eel, and seabird imagery; “DIET” with crab, snail, and sea urchin imagery; and “BEHAVIOR” with a small pufferfish portrait, describing slow relaxed movement, often hovering near reefs, solitary or paired, not aggressive unless provoked.
+
+Center-lower info strip: Add a small “HABITAT” card near the fish with a coral icon and text about coral reefs and lagoons in clear tropical waters, usually near slopes and sheltered areas from the surface down to 40 meters. Along the bottom of the central area, add exactly 5 metric tiles with icons: “SIZE Up to 50 cm (20 in)”, “WEIGHT Up to 2.5 kg (5.5 lb)”, “SPEED Up to 8 km/h (5 mph)”, “LIFESPAN 10–15 years in the wild”, and “CONSERVATION STATUS LEAST CONCERN (LC), IUCN Red List”.
+
+Bottom section: Create two large rounded panels. Left panel titled “KEY ADAPTATIONS” with exactly 7 green check bullet points: elastic stomach for rapid inflation; spines that erect via muscular control; tough spined skin for physical defense; powerful beak for crushing hard prey; tetrodotoxin as chemical defense; excellent camouflage with white spots blending into coral and sand; strong pectoral fins for precise maneuvering. Include a circular inset image of a spiny inflated pufferfish. Right panel titled “3 SURPRISING FACTS” with exactly 3 numbered facts: 1) they can “walk” on the seafloor using pectoral fins; 2) tetrodotoxin is not produced by the fish itself but comes from bacteria in its diet and varies by location and season; 3) despite their slow look, they are excellent problem-solvers with good memory. Add three small supporting illustrations: walking pufferfish, green bacterium, and blue brain.
+
+Footer: Add a narrow rounded banner with a camera icon and the conservation message {argument name="footer message" default="Admire, don’t take. Photograph, don’t touch. These amazing defenses belong in the ocean."} followed by a small blue heart.
+
+Constraints: Use exactly the listed panel counts and numbered items. Keep all text in English, legible, and aligned to a polished educational poster grid. Avoid extra animals or unrelated labels. No watermark, no QR code, no logos.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2070174521856864651) | 2026-06-25
+
+---
+

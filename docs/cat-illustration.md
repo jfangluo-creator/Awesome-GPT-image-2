@@ -5434,3 +5434,167 @@ Ultra-realistic, Netflix-style {argument name="theme" default="cyberpunk illustr
 
 ---
 
+### 🎨 例 2369：哥特式镜花动漫封面
+
+![哥特式镜花动漫封面](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E9%95%9C%E8%8A%B1%E5%8A%A8%E6%BC%AB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅正方形哥特式单色动漫插画，呈现出古董书籍封面的质感。构图展示了一位中性化的年轻男子，留着 {argument name="hair color" default="淡银白色"} 的凌乱中长发，身穿高领荷叶边衬衫、深色丝带领结、背心式正装叠穿、合身手套和纽扣袖口。他位于画面中心偏右，身体前倾，一只戴着手套的手举在嘴边，姿态神秘而忧郁；面部中央区域用一个暖灰米色的实心不透明方块刻意遮挡，覆盖了从额头到嘴部的大部分面部特征。他左后方是一面华丽的椭圆形维多利亚式镜子，带有雕刻精美的巴洛克式边框，镜中映照出同一角色柔和且带有幽灵感的侧脸。人物周围环绕着茂密的花卉和叶片：右上角有硕大的淡色兰花，左下角和中心分布着许多簇拥的小花，以及遍布各处的叶片和花蕾。在左侧添加垂直的日文标题文字 {argument name="vertical title text" default="擬花"}，采用优雅的衬线/书法字体，并配有纤细的装饰性水平花纹。使用柔和的深褐色调，呈现水彩和水墨渲染的质感，阴影柔和，细节丰富，线条细腻，背景梦幻深邃，并带有微妙的纸张纹理。用细窄的古董边框装裱整个图像，四个角落饰有华丽的装饰花纹，顶部和底部中心亦有小型装饰性花纹。画布：1:1 正方形。约束条件：仅限一个主要角色，仅限一个镜面反射，面部仅限一个不透明方块遮挡，仅限两个可见的日文标题字符，四个角落装饰；禁止出现现代物品，禁止使用鲜艳色彩，禁止添加水印。
+
+[English]
+Create a square gothic monochrome anime illustration with an antique book-cover feel. The composition shows an androgynous young man with {argument name="hair color" default="pale silver-white"} tousled medium-length hair, wearing a high-collared ruffled blouse, dark ribbon tie, vest-like formal layers, fitted gloves, and buttoned cuffs. He is positioned slightly right of center, leaning forward with one gloved hand raised near his mouth in a secretive, melancholy pose; keep the central face area intentionally obscured by a flat opaque square censor block in warm gray-beige, covering most facial features from forehead to mouth. Behind him on the left is an ornate oval Victorian mirror with a carved baroque frame, reflecting a soft ghostly side profile of the same character. Surround the figure with dense flowers and foliage: large pale orchids in the upper right, many small clustered blossoms across the lower left and center, leaves and buds throughout. Add vertical Japanese title text on the left reading {argument name="vertical title text" default="擬花"}, set in elegant serif/calligraphic characters with thin decorative horizontal flourishes. Use a muted sepia-gray palette, watercolor and ink wash texture, soft shading, high detail, delicate linework, dreamy dark background, and subtle paper grain. Frame the entire image with a thin antique border and ornate corner filigree decorations on all four corners, plus small centered ornamental flourishes at the top and bottom. Canvas: 1:1 square. Constraints: exactly one main character, exactly one mirror reflection, exactly one opaque square over the face, exactly two visible Japanese title characters, and four ornate corner decorations; no modern objects, no bright colors, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2070240728522051675) | 2026-06-25
+
+---
+
+### 🎨 例 2376：水彩剪影角色故事
+
+![水彩剪影角色故事](../../images/%E6%B0%B4%E5%BD%A9%E5%89%AA%E5%BD%B1%E8%A7%92%E8%89%B2%E6%95%85%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+【情報入力欄】
+
+キャラクター名：[{argument name="キャラクター名" default=""}] ←必須
+
+ポーズ番号：[{argument name="ポーズ番号" default="0"}] ←任意（0〜10から選択 未記入は自動生成）
+
+補足事項：[{argument name="補足事項" default=""}] ←AIに伝えたいことがあれば記入
+
+-----------------
+
+補足事項に入力がある場合は、その内容を最優先で反映してください。補足事項と本文の指示が矛盾する場合は、補足事項の内容を優先し、ただし「影絵風・水彩風・余白重視・詩的な一枚絵」という基本テイストは保ってください。
+
+添付された「うちの子」の画像を分析し、髪型・髪色・目元・服装・装飾・小物・種族的特徴・モチーフ・性格や雰囲気を読み取り、【キャラクター名】として高画質の2Dアニメーション風イラストを生成してください。
+
+完成イメージは、白〜生成りの紙の上に、キャラクターの存在感だけが静かに浮かび上がる「影絵風・水彩風・詩的な一枚絵」です。通常の描き込みの多いキャラクター立ち絵ではなく、シルエット、淡いにじみ、余白、紙の質感、静かな物語性を主役にしてください。
+
+ポーズは【ポーズ番号】で指定されたものを採用してください。ポーズ番号が未記入、または0の場合は、添付されたキャラクターの見た目・性格・モチーフに最も合うポーズを、上記1〜10の中からAIが自然に1つ選んでください。番号ごとに構図・向き・印象が変わるようにし、同じキャラクターでもポーズ番号が変われば別の一枚絵として見えるようにしてください。
+
+イメージカラーは固定しないでください。添付された「うちの子」の髪色・瞳の色・服装・装飾・モチーフ・雰囲気を総合的に解析し、その子に最も似合うメインカラーをAIが判断してください。作例や参考画像の色に引っ張られず、添付されたキャラクター自身の印象に合う色でまとめてください。赤系の子なら赤〜紫系、青系の子なら青〜水色系、緑系の子なら緑〜若草系、白系の子なら白〜淡色系、黒系の子なら黒〜灰色系、金色系の子なら金〜琥珀系など、キャラクターに合わせて自然に選んでください。
+
+配色は、選んだメインカラーを中心に、濃い影色・淡い水彩のにじみ・ごく薄い差し色を使って上品にまとめてください。極端な多色使いにはせず、キャラクターの印象色が紙に溶け込むような静かな色彩にしてください。
+
+キャラクターの特徴は、顔や衣装を細かく描き込みすぎず、髪型の輪郭、服の形、角・耳・羽・尻尾・リボン・帽子・武器・花・アクセサリーなど、その子を象徴する特徴が影絵として分かるようにしてください。表情は必要以上に描き込まず、シルエットと雰囲気でその子らしさを表現してください。
+
+背景は白〜生成りの紙質感を残し、広い余白を活かしてください。キャラクターの足元や背後に、水彩のにじみ、淡い植物影、花びら、羽、布、星屑、光の粒などを少量だけ配置し、静かな風や物語の余韻を感じる画面にしてください。背景を描き込みすぎず、森や建物などの具体的な背景は薄く控えめにしてください。
+
+画像タイトルは、添付されたキャラクターの見た目・雰囲気・モチーフ・イメージカラーから、AIが短く美しい言葉で自動作成してください。画像内の右上、または余白の邪魔にならない位置に、AIが考えた画像タイトルと【キャラクター名】を装飾して配置してください。
+
+タイトルとキャラクター名は、薄くなりすぎないようにしてください。文字色は、イラストのメインカラーから選んだ濃いめの色、または背景に対して十分に読める落ち着いた濃色にしてください。透明度を下げすぎず、紙の質感になじませながらも、ひと目で読める濃さとコントラストを保ってください。文字は上品なタイトルロゴ風にし、細い飾り罫、繊細な花、葉、光の粒、小さなモチーフなどを添えてください。ただし、主役のキャラクターより目立ちすぎないようにしてください。
+
+参考にするのは「影絵風・水彩風・余白・紙質感・詩的タイトル・静かな空気感」という方向性だけにしてください。特定の投稿画像と同じ構図、同じポーズ、同じ小物配置、同じ色、同じ人物配置、同じ葉や花の散り方にはしないでください。
+
+全体の印象は、静寂、余白、影絵、水彩紙、淡いにじみ、詩的、上品、儚さを重視してください。派手な背景、通常の美麗ファンタジー立ち絵、過度な描き込み、強すぎるエフェクト、キャラクターと無関係な色指定は避けてください。
+
+スタイル：高画質の2Dアニメーション
+
+アスペクト比：3:4 縦長
+```
+
+**来源：** [@muda22_Sora](https://x.com/Sora_muda22/status/2070202139662848348) | 2026-06-25
+
+---
+
+### 🎨 例 2403：夏季西瓜涂鸦拼贴画
+
+![夏季西瓜涂鸦拼贴画](../../images/%E5%A4%8F%E5%AD%A3%E8%A5%BF%E7%93%9C%E6%B6%82%E9%B8%A6%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张俏皮的夏季生活方式照片拼贴画，主角为 {argument name="character description" default="一位留着深色短发，身穿蓝白条纹无袖上衣和浅色短裤的年轻女性"} 在阳光明媚的公园里享用西瓜，并装饰有手绘白色涂鸦和随意的英文手写词。
+
+画布：宽幅 16:9 横向图像，排列为精确的 3x3 网格，包含 9 个相等的长方形照片面板，面板间有细白色边框。使用柔和的自然日光、翠绿的草地、浅景深以及明亮通透的夏季色调。
+
+布局与面板数量：包含精确的 9 个面板：
+1. 左上：女性盘腿坐在草地上，双手拿着一大块西瓜挡在脸前，背景是白色栅栏和多云的天空；涂鸦包括笑脸、短射线、“Hi!”字样以及小水花标记。
+2. 中上：盘子或托盘上几块西瓜的特写静物，旁边放着一个橙色包；涂鸦包括皇冠状的波浪线、闪光标记以及手写词“Sweet!”。
+3. 右上：女性坐在草地上的侧面视角，微笑着看向或拿着西瓜靠近嘴边；涂鸦包括“Hello!”、引号、漩涡线和一颗心。
+4. 左中：女性拿着小叉子或签子叉着一小块西瓜的特写肖像剪裁；涂鸦包括放射状标记和一个大问号。
+5. 中中：女性拿着西瓜靠近嘴边的特写，脸部大部分居中并被水果部分遮挡；涂鸦包括虚线、一颗心和一个小笑脸。
+6. 右中：女性坐在草地上，拿着西瓜举到脸前；旁边放着橙色包；涂鸦包括“Nice Day!”、波浪下划线、引号、短草笔触和小闪光线。
+7. 左下：从上方俯拍的较宽镜头，女性躺在或坐在草地的野餐布上，旁边有西瓜和橙色包；涂鸦包括弯曲的箭头、笑脸、小爱心和动态标记。
+8. 中下：女性将橙色帽子或橙色包靠近胸前或脸部的紧凑肖像剪裁，背景是柔和的草地；涂鸦包括小爱心、白色弯曲笔触和一个类似数字的大波浪线。
+9. 右下：从上方俯拍，女性躺在草地上，一只手臂抬起，旁边放着橙色包，手边有一块西瓜；涂鸦包括写着“Yummy!”的对话气泡、小短横线和一个心形轮廓。
+
+主体细节：主体应显得开朗、放松且自然，如同夏季野餐旅行拍摄。保持脸部柔和的匿名化或模糊处理，同时保留姿势、发型轮廓、服装和肢体语言。在多个面板中使用 {argument name="main prop" default="带有黑色籽的新鲜红西瓜片"} 作为重复出现的道具，并在多个面板中加入 {argument name="accent accessory" default="明亮的橙色托特包或遮阳帽"}。
+
+视觉风格：写实摄影，柔和的胶片色调，略微过曝的夏季高光，绿色公园背景，休闲的社交媒体拼贴美学。添加白色手绘涂鸦，就像用记号笔在照片上画的一样：爱心、箭头、笑脸、闪光、波浪线、引号和简短的手写词。
+
+文本内容：在拼贴画中仅使用以下可见的手写英文单词：{argument name="greeting text" default="Hi!"}、“Sweet!”、“Hello!”、“Nice Day!”和“Yummy!”。保持字体非正式、白色且具有涂鸦感。
+
+约束：保持精确的 9 面板网格，细白色分隔线，无额外面板，无水印，无应用界面，拼贴画外无标题，并避免添加除指定涂鸦文本之外的其他可读文字。
+
+[English]
+Goal: Create a playful summer lifestyle photo collage featuring {argument name="character description" default="a young woman with short dark hair wearing a blue-and-white striped sleeveless top and light shorts"} enjoying watermelon in a sunny park, decorated with hand-drawn white doodles and casual handwritten English words.
+
+Canvas: Wide horizontal 16:9 image, arranged as an exact 3 by 3 grid of 9 equal rectangular photo panels with thin white borders between panels. Use soft natural daylight, fresh green grass, shallow depth of field, and a bright airy summer color palette.
+
+Layout and panel count: Include exactly 9 panels:
+1. Top-left: the woman sits cross-legged on grass holding a large watermelon slice in front of her face, with a white fence and cloudy sky in the background; doodles include a smiley face, short rays, the word “Hi!”, and small splash marks.
+2. Top-center: close-up still life of several watermelon slices on a plate or tray beside an orange bag; doodles include a crown-like squiggle, sparkle marks, and the handwritten word “Sweet!”.
+3. Top-right: side view of the woman sitting on grass, smiling toward or holding a watermelon slice near her mouth; doodles include “Hello!”, quotation marks, a swirl line, and a heart.
+4. Middle-left: close-up portrait crop of the woman holding a small fork or skewer with a tiny watermelon cube; doodles include radiating marks and a large question mark.
+5. Middle-center: close-up of the woman holding a watermelon slice near her mouth, face mostly centered and partially obscured by the fruit; doodles include dotted lines, a heart, and a small smiley face.
+6. Middle-right: the woman sits on grass holding a watermelon slice up to her face; orange bag nearby; doodles include “Nice Day!”, a wavy underline, quotation marks, short grass strokes, and small sparkle lines.
+7. Bottom-left: wider overhead-leaning shot of the woman reclining or sitting on a picnic cloth on grass with watermelon and orange bag; doodles include a curved arrow, smiley face, small hearts, and motion marks.
+8. Bottom-center: tight portrait crop of the woman holding an orange hat or orange bag close to her chest or face, with soft grass background; doodles include small hearts, a curved white stroke, and a large number-like squiggle.
+9. Bottom-right: overhead shot of the woman lying or reclining on grass with one arm raised, orange bag beside her, and a watermelon slice near her hand; doodles include a speech bubble saying “Yummy!”, small dash marks, and a heart outline.
+
+Subject details: The subject should appear cheerful, relaxed, and candid, like a summer picnic travel-photo shoot. Keep the face softly anonymized or blurred, while preserving the pose, hair silhouette, outfit, and body language. Use {argument name="main prop" default="fresh red watermelon slices with black seeds"} as the recurring prop in multiple panels, and include {argument name="accent accessory" default="a bright orange tote bag or sun hat"} in several panels.
+
+Visual style: Realistic photography, soft film-like tones, slightly overexposed summer highlights, green park setting, casual social-media collage aesthetic. Add white hand-drawn doodles as if sketched with a marker on top of the photos: hearts, arrows, smiley faces, sparkles, squiggles, quotation marks, and short handwritten words.
+
+Text content: Use exactly these visible handwritten English words across the collage: {argument name="greeting text" default="Hi!"}, “Sweet!”, “Hello!”, “Nice Day!”, and “Yummy!”. Keep the lettering informal, white, and doodle-like.
+
+Constraints: Maintain the exact 9-panel grid, thin white dividers, no extra panels, no watermark, no app interface, no captions outside the collage, and avoid adding additional readable words beyond the specified doodle text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2070081200149160038) | 2026-06-25
+
+---
+
+### 🎨 例 2423：春日水彩阅读场景
+
+![春日水彩阅读场景](../../images/%E6%98%A5%E6%97%A5%E6%B0%B4%E5%BD%A9%E9%98%85%E8%AF%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅竖构图、梦幻般的水彩场景，描绘了一位年轻女子坐在苍劲的 {argument name="tree type" default="开花树木"} 下，正阅读着一本摊开的大书；采用柔和的粉彩色调，点缀着 {argument name="flowers" default="粉色樱花"}，配以柔和的绿色和天空渲染，可见细腻的墨线和纸张纹理。女孩身穿 {argument name="outfit" default="简约复古白裙"}，留着飘逸的长发，表情宁静，面部带有温暖的轮廓光。中景处，一座带有发光窗户的小型乡村小屋掩映在花丛中。前景布满了野花、高草，微风中飘落着零星花瓣。柔和明亮的光线透过枝叶洒下，带有微妙的虚化效果和水彩晕染，面部、书本和树皮细节丰富，背景笔触灵动，营造出奇幻而宁静的氛围，充满魔幻现实主义色彩。
+
+[English]
+A vertical, dreamy watercolor scene of a young woman sitting beneath a gnarled {argument name="tree type" default="blossoming tree"}, reading a large open book; soft pastel palette with {argument name="flowers" default="pink cherry blossoms"}, muted greens and sky washes, delicate ink outlines and paper texture visible. The girl wears a {argument name="outfit" default="simple vintage white dress"}, long flowing hair, serene expression, warm rim light on her face. In the midground a small rustic cottage with glowing windows nestles among flowering bushes. Foreground filled with wildflowers, tall grass and scattered petals drifting in a gentle breeze. Soft, luminous sunlight filters through branches, subtle bokeh and watercolor bleeds, high detail on face, book and tree bark, loose painterly background, whimsical tranquil atmosphere, magical realism.
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2070012258651083109) | 2026-06-25
+
+---
+
+### 🎨 例 2428：狼人与小红帽
+
+![狼人与小红帽](../../images/%E7%8B%BC%E4%BA%BA%E4%B8%8E%E5%B0%8F%E7%BA%A2%E5%B8%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅浪漫的动漫风格奇幻插画，背景是洒满阳光、开满野花的森林草地。画面中仅包含两位主角：左侧是一位身材高大、肌肉发达的狼人，长着灰色狼耳，留着银色尖刺短发，拥有古铜色皮肤和蓬松的灰白色尾巴，身穿黑色修身无袖背心、黑色长裤，系着棕色腰带；右侧是一位娇小的年轻女性，身着华丽的小红帽装束。狼人站在左侧，温柔地向她倾身，递上一束亲手采摘的野花，神情羞涩而专注。女子坐在右侧的花丛中，抬头看着他，神情甜蜜而惊喜，手中拿着几枝花茎。她的装束包括一件细节丰富的红色连帽斗篷（带白色蕾丝边）、深蓝色碎花连衣裙、白色束腰胸衣（配红色交叉系带）、泡泡袖、丝带、玫瑰装饰、蕾丝围裙和多层褶皱裙摆。在左下角前景处放置一个野餐篮，篮内清晰可见两件物品：一个包裹好的包裹和一瓶带红色瓶盖的深绿色葡萄酒。环境应为郁郁葱葱的魔法林间空地，有高大的树木、斑驳的金色阳光、柔和的虚化效果以及茂密多彩的花丛，包括红罂粟、雏菊、薰衣草色花朵、黄色小花和粉色野花。采用精致的高细节日本动漫插画风格，柔和的浪漫光影，鲜艳的色彩，细腻的蕾丝和花卉刺绣，电影级构图，4:5 竖构图，无文字，无水印。自定义角色参数：{argument name="wolf man appearance" default="身材高大、肌肉发达的灰色狼人，银色头发，古铜色皮肤，长有狼耳和尾巴"}，{argument name="girl outfit" default="华丽的小红帽装束，配红色兜帽、深蓝色碎花裙、白色蕾丝胸衣和玫瑰丝带"}，{argument name="setting" default="洒满阳光、开满野花的森林草地"}，{argument name="romantic action" default="狼人献上刚采摘的花束，女孩坐在花丛中采花"}，以及 {argument name="art style" default="高细节浪漫日本动漫奇幻插画"}。
+
+[English]
+Create a romantic anime-style fantasy illustration in a sunlit forest meadow filled with wildflowers. Show exactly two main characters: a very tall, muscular wolf-man with gray wolf ears, spiky silver hair, tanned skin, a fluffy gray-white tail, a fitted black sleeveless tank top, black pants, and a brown belt; and a petite young woman dressed as an ornate Little Red Riding Hood. The wolf-man is standing on the left, leaning gently toward her and offering her a small hand-picked bouquet of wildflowers, appearing shyly devoted and helpful. The woman sits on the right among the flowers, looking up at him with a sweet, surprised romantic mood, holding a few flower stems in one hand. Her outfit is a richly detailed red hooded cape with white lace trim, a navy-blue floral dress, white corset bodice with red crisscross lacing, puff sleeves, ribbons, rose decorations, lace apron, and layered frilled skirt. Include exactly one picnic basket in the lower left foreground containing exactly two visible items: one wrapped parcel and one dark green wine bottle with a red cap. The environment should be a lush magical woodland clearing with tall trees, dappled golden sunlight, soft bokeh, and dense colorful flowers including red poppies, daisies, lavender-purple blossoms, tiny yellow flowers, and pink wildflowers. Use polished high-detail Japanese anime illustration style, soft romantic lighting, vibrant colors, delicate lace and floral embroidery, cinematic composition, vertical 4:5 framing, no text, no watermark. Customize the characters as {argument name="wolf man appearance" default="very tall muscular gray wolf-man with silver hair, tanned skin, wolf ears and tail"}, {argument name="girl outfit" default="ornate Little Red Riding Hood dress with red hood, navy floral skirt, white lace corset and rose ribbons"}, {argument name="setting" default="sunlit forest meadow full of wildflowers"}, {argument name="romantic action" default="the wolf-man offers a freshly picked bouquet while the girl sits flower-picking"}, and {argument name="art style" default="high-detail romantic Japanese anime fantasy illustration"}.
+```
+
+**来源：** [@ハスノ＠核心ぶち抜きヒーラー／天空図書館夫婦](https://x.com/00_hasu_00/status/2069998204561850821) | 2026-06-25
+
+---
+

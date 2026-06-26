@@ -6185,3 +6185,166 @@ Constraints: Keep the palette cohesive in blue and white, avoid extra characters
 
 ---
 
+### 🏷️ 例 2374：洗衣机视角下的自助洗衣店人像
+
+![洗衣机视角下的自助洗衣店人像](../../images/%E6%B4%97%E8%A1%A3%E6%9C%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张鱼眼视角、从洗衣机内部拍摄的时尚照片，主角是 {argument name="character name" default="一位年轻女性"}，她正蹲在打开的自助洗衣机前，双手伸向圆形的金属边缘，仿佛正在向滚筒内窥视。画面应由厚重的深色圆形洗衣机门边框和铬合金高光勾勒，具有强烈的广角畸变效果，伴随温暖的午后阳光、米色瓷砖地面以及复古的投币洗衣店背景。后墙上需清晰展示 3 台前置式洗衣机：左侧一台大型铬合金圆门洗衣机，中间一台大部分被主体遮挡，右侧一台大型铬合金圆门洗衣机。在它们上方，展示 3 个清晰可见的墙面标牌：左侧标牌写着“LAUNDRY INSTRUCTIONS”，中间的大型标牌写着“TRY OUR GIANT WASHER FOR COMFORTERS TOO!”，右侧标牌列出“SOAP BLEACH SOFTENERS”。主体拥有 {argument name="hair color" default="长波浪蜂蜜棕色头发"}，身着休闲的 Y2K 街头风格服装，面部被一个居中的平坦棕色矩形遮挡块刻意遮盖。服装细节：需包含 5 件可见的服饰/配饰——一件带有红色镶边、印有 {argument name="tank top text" default="Honey"} 字样及两个小樱桃图案的米色罗纹短款背心，侧面带有白色星星图案的宽松红裤子，红白配色运动鞋，一条小星星吊坠项链，以及一对小耳环。添加细腻的胶片颗粒感、怀旧的金色调色、洗衣机门上逼真的反射、边缘轻微的镜头柔化效果，并在垂直边缘及画面上方添加模糊的半透明水印文字 {argument name="watermark text" default="♥ NaEun & Damien 2026"}。保持构图亲密、低角度、居中、写实且具有编辑感，主体的双臂向观众方向呈现透视缩短效果，且洗衣店的标牌清晰可见。
+
+[English]
+Create a fisheye, inside-the-washing-machine point-of-view fashion photo of {argument name="character name" default="a young woman"} crouching directly in front of an open laundromat washer, reaching both hands toward the circular metal rim as if looking into the drum. The image should be framed by a thick dark circular washer-door border with chrome highlights, strong wide-angle distortion, warm late-afternoon sunlight, beige tile floor, and a vintage coin-laundry background. Show exactly 3 front-loading washing machines across the back wall: one large chrome round door on the left, one mostly hidden behind the subject in the center, and one large chrome round door on the right. Above them, show exactly 3 readable wall signs: a left sign labeled “LAUNDRY INSTRUCTIONS,” a large center sign reading “TRY OUR GIANT WASHER FOR COMFORTERS TOO!,” and a right sign listing “SOAP BLEACH SOFTENERS.” The subject has {argument name="hair color" default="long wavy honey-brown hair"}, a casual Y2K streetwear look, and a deliberately obscured face covered by a centered flat tan rectangular censor block. Outfit details: exactly 5 visible clothing/accessory pieces — a cream ribbed cropped tank top with red trim and the word {argument name="tank top text" default="Honey"} plus two small cherry graphics, loose red pants with white star graphics down the side, red-and-white sneakers, a small star pendant necklace, and small earrings. Add subtle film grain, golden nostalgic color grading, realistic reflections in the washer doors, slight lens softness at the edges, and faint semi-transparent watermark text around the vertical edges and across the frame reading {argument name="watermark text" default="♥ NaEun & Damien 2026"}. Keep the composition intimate, low-angle, centered, photorealistic, and editorial, with the subject’s arms foreshortened toward the viewer and the laundromat signage clearly visible.
+```
+
+**来源：** [@NaEun K](https://x.com/noirmielrue/status/2070204634397020380) | 2026-06-25
+
+---
+
+### 🏷️ 例 2377：FIFA 世界杯动漫海报
+
+![FIFA 世界杯动漫海报](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高细节的 2026 年 FIFA 世界杯波普艺术动漫插画，主角为 {argument name="subject" default="[SUBJECT]"}，特写肖像，身体前倾，左眼眨眼，右眼直视观众，左手在脸前拿着一个微型 {argument name="country emblem" default="[COUNTRY LOGO / EMBLEM]"}，脸部被微型徽章部分遮挡，表情自信俏皮。长宽比：4:5（竖屏）。固定构图：完全保持原始姿势。物体：微型 {argument name="country emblem" default="[COUNTRY LOGO / EMBLEM]"}，细节设计。背景：简洁的 {argument name="background color" default="[BACKGROUND COLOR]"} 方块灵感背景，带有细边框，极简复古漫画海报设计。排版：角色下方为醒目的复古粗体字，显示：“{argument name="custom text" default="[CUSTOM TEXT]"}”。风格：日本波普艺术、漫画插画、时尚杂志海报、粗黑色轮廓、鲜艳的赛璐珞阴影、高级矢量艺术。
+
+[English]
+Ultra detailed FIFA World Cup 2026 pop-art anime illustration of {argument name="subject" default="[SUBJECT]"}, close-up portrait, leaning forward, winking left eye, right eye looking directly at viewer, left hand holding a miniature {argument name="country emblem" default="[COUNTRY LOGO / EMBLEM]"} in front of her face, face partially hidden behind the miniature emblem, confident playful expression. Aspect Ratio: 4:5 (vertical). Fixed composition: Keep original pose exactly the same. Object: Miniature {argument name="country emblem" default="[COUNTRY LOGO / EMBLEM]"}, detailed design. Background: Clean {argument name="background color" default="[BACKGROUND COLOR]"} square-inspired background with thin border, minimal retro manga poster design. Typography: Large bold vintage retro lettering below character displaying: "{argument name="custom text" default="[CUSTOM TEXT]"}". Style: Japanese pop art, manga illustration, fashion editorial poster, bold black outlines, vibrant cel shading, premium vector artwork.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2070188188900172254) | 2026-06-25
+
+---
+
+### 🏷️ 例 2389：深褐色动漫贵族与镜子
+
+![深褐色动漫贵族与镜子](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8A%A8%E6%BC%AB%E8%B4%B5%E6%97%8F%E4%B8%8E%E9%95%9C%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 垂直单色深褐色动漫插画，描绘一位中性化的年轻贵族，拥有 {argument name="hair color" default="银白色"} 凌乱的层次感发型，置身于忧郁的维多利亚哥特式花园场景中。角色身穿光泽感白色荷叶边衬衫，配有高领褶皱和颈部黑色丝带蝴蝶结，一只戴着白手套的手触碰脸颊，另一只袖口清晰可见 3 枚圆形纽扣。长发扎成一个低侧马尾，垂在右肩上。在左侧放置一面华丽的古董手持镜，镜框带有金属雕花，映照出角色低垂的面容及闭合或半睁的眼睛。在画面中央添加一个不透明的正方形遮挡块，颜色为柔和的暖灰褐色，覆盖主要面部区域，宽度约为画面三分之一，边缘锐利清晰。肖像周围环绕白色花朵：背景上方有 3 朵大型兰花，右侧及左下前景处有多簇小型五瓣白花。采用细腻的漫画线条、绘画风格的灰度阴影、柔和的高光、精致的发丝、浪漫的深色叶片、浅景深、高细节，营造优雅忧郁的氛围，无文字，无水印。
+
+[English]
+Create a vertical 9:16 monochrome sepia anime illustration of an androgynous young noble with {argument name="hair color" default="silvery white"} tousled layered hair, posed in a melancholic Victorian-gothic garden scene. The character wears a glossy white ruffled blouse with a high frilled collar, a black ribbon bow at the neck, one visible white glove touching the cheek, and one visible cuff with exactly 3 round buttons. Their long hair is tied into one low side ponytail over the right shoulder. Place one ornate antique hand mirror along the left side, with carved metallic floral scrollwork, reflecting the character’s downcast face and closed or half-lidded eye. Add an opaque centered square censor block in muted warm gray-taupe covering the main face area, about one third of the image width, with sharp clean edges. Surround the portrait with white flowers: exactly 3 large orchid blossoms in the upper background, plus multiple clusters of small five-petal white flowers near the right side and lower left foreground. Use delicate manga linework, painterly grayscale shading, soft highlights, intricate hair strands, romantic dark foliage, shallow depth of field, high detail, elegant sorrowful mood, no text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2070143380794015913) | 2026-06-25
+
+---
+
+### 🏷️ 例 2391：涂鸦墨水动画风格
+
+![涂鸦墨水动画风格](../../images/%E6%B6%82%E9%B8%A6%E5%A2%A8%E6%B0%B4%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+涂鸦灵感素描动画，表现力十足的墨水涂鸦，松散的手势绘图，充满活力的喷漆纹理，不断变形的素描线条，夸张的挤压与拉伸，富有弹性的卡通物理效果，俏皮的视觉混乱，动态手绘运动，生动的笔触，抽象角色动画，自发的艺术瑕疵，快节奏的闹剧能量，充满活力的城市艺术美学。
+
+[English]
+Graffiti-inspired sketch animation, expressive ink scribbles, loose gestural drawing, energetic spray paint textures, constantly morphing sketch lines, exaggerated squash and stretch, elastic cartoon physics, playful visual chaos, dynamic hand-drawn motion, lively brush strokes, abstract character animation, spontaneous artistic imperfections, fast-paced slapstick energy, vibrant urban art aesthetic.
+```
+
+**来源：** [@Nokosu](https://x.com/Nokosu_kansoku/status/2070133679167570264) | 2026-06-25
+
+---
+
+### 🏷️ 例 2392：异世界龙女的火焰商店
+
+![异世界龙女的火焰商店](../../images/%E5%BC%82%E4%B8%96%E7%95%8C%E9%BE%99%E5%A5%B3%E7%9A%84%E7%81%AB%E7%84%B0%E5%95%86%E5%BA%97.jpg)
+
+**Prompt:**
+
+```text
+【異世界から来た店主さん】
+スロベニアの首都に灯した帰れない火
+
+{argument name="主人公" default="焔鱗の国ネヴィアから来た竜人族の少女 ミレイア"}
+崩れた火山神殿から逃げる途中
+燃える鏡に吸い込まれて
+{argument name="場所" default="スロベニアの首都リュブリャナの川辺"}に転移しました
+
+帰る方法はまだ見つからないけれど
+彼女には火を扱う手があります
+
+棚に並ぶのは
+{argument name="商品" default="夜になっても冷めない魔法ランプ"}
+触れると青く光る火の小瓶
+竜の鱗をまねたガラスのキャンドルホルダー
+古い鍵の形をした火打ち道具
+
+おばあさんも
+少年も
+通りすがりの絵描きも
+その灯りを見て少しだけ笑顔になります
+
+だから今日も
+彼女はこの街で店を開けます
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2070131857535197284) | 2026-06-25
+
+---
+
+### 🏷️ 例 2426：复古世界杯像素精灵
+
+![复古世界杯像素精灵](../../images/%E5%A4%8D%E5%8F%A4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%83%8F%E7%B4%A0%E7%B2%BE%E7%81%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为姿势、构图、身份和像素艺术风格的精确参考，创作一张 4:5 比例的 2026 年 FIFA 世界杯风格方形头像。以详细的 {argument name="art style" default="复古像素艺术风格"} 创作主体，要求具有清晰可见的大像素、明显的阶梯状边缘、强烈的深色轮廓、戏剧性的像素化阴影、鲜艳的色彩以及清脆的 16 位/32 位街机精灵外观。仅使用代表 {argument name="country" default="所选国家主色调"} 的纯色背景。举起的守门员手套必须包含 {argument name="national symbols" default="所选国家的国旗"} 或官方国家配色。禁止使用渐变、纹理、文字、徽标、额外物体或照片写实风格。在保留参考图像中精确姿势和构图的同时，巧妙地融入 2026 年 FIFA 世界杯的主题和氛围。严格保持参考图像中显示的举起手套、面部特征、取景和整体视觉风格。输出长宽比：4:5。
+
+[English]
+Create a square-inspired FIFA World Cup 2026 profile portrait in a 4:5 aspect ratio using the uploaded image as the exact reference for pose, composition, identity, and pixel art style. Create the subject in a detailed {argument name="art style" default="retro pixel art style"} with large visible pixels, defined stair-stepped edges, strong dark outlines, dramatic pixelated shading, vibrant colors, and a crisp 16-bit/32-bit arcade sprite appearance. Use only a flat solid background color representing the {argument name="country" default="selected country’s primary national color"}. The raised goalkeeper glove must feature the {argument name="national symbols" default="selected country’s national flag"} or official national colors. No gradients, textures, text, logos, extra objects, or photorealism. Subtly incorporate the FIFA World Cup 2026 theme and atmosphere while preserving the exact pose and composition from the reference. Maintain the raised glove, facial features, framing, and overall visual style exactly as shown in the reference image. Output aspect ratio: 4:5.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2070005032720941155) | 2026-06-25
+
+---
+
+### 🏷️ 例 2429：黄金时刻城市天台时尚大片
+
+![黄金时刻城市天台时尚大片](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%9F%8E%E5%B8%82%E5%A4%A9%E5%8F%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+广角时尚大片，身穿 {argument name="outfit" default="大胆的黄青色格纹高领连衣裙"} 的女性站在 {argument name="location" default="城市天台"} 上，佩戴圆形复古墨镜，手部靠近面部，头发在风中呈现动感，下方可见城市天际线与天台边缘，清澈的蓝天在左上方留有空白以供添加标题文字，强烈的色彩对比，黄金时刻光影，三分法构图，高级时尚生活方式摄影 --ar 4:5 --v 6
+
+[English]
+Wide editorial shot, woman in {argument name="outfit" default="bold yellow-teal plaid turtleneck dress"} standing on {argument name="location" default="city rooftop"}, round vintage sunglasses, hand raised near face, hair caught mid-motion by wind, skyline and rooftop ledge visible below, clear blue sky with negative space upper left for caption text, strong color contrast, golden hour light, rule of thirds composition, high-fashion lifestyle photography --ar 4:5 --v 6
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2069993120201371890) | 2026-06-25
+
+---
+
+### 🏷️ 例 2430：复古像素风头像
+
+![复古像素风头像](../../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图片作为姿势、构图和像素艺术风格的精确参考，创作一张 1:1 的正方形头像。将主体重构为精致的复古像素艺术，要求像素清晰可见、边缘呈阶梯状、轮廓粗犷深邃、阴影效果具有戏剧性的像素感、色彩鲜艳，并呈现出经典 16 位/32 位街机游戏角色的锐利质感。背景仅使用纯色 {argument name="background color" default="Pantone 354C 绿色"} ({argument name="hex code" default="#00B140"})。请勿包含渐变、纹理、文字、Logo、额外物体或任何照片级真实元素。保持举起的手套、面部特征、取景范围以及整体风格与参考图完全一致。
+
+[English]
+Create a square 1:1 profile picture using the uploaded image as the exact reference for the pose, composition, and pixel art style. Recreate the subject as detailed retro pixel art with large, clearly visible pixels, crisp stepped edges, bold dark outlines, dramatic pixelated shading, vibrant colors, and the sharp look of a classic 16-bit/32-bit arcade sprite. Use only a solid {argument name="background color" default="Pantone 354C green"} background ({argument name="hex code" default="#00B140"}). Do not include gradients, textures, text, logos, extra objects, or any photorealistic elements. Keep the raised glove, facial features, framing, and overall style exactly the same as in the reference image.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2069992959538512022) | 2026-06-25
+
+---
+

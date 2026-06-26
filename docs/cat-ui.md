@@ -4490,3 +4490,47 @@ photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion
 
 ---
 
+### 🖥️ 例 2420：3D 黏土风格阅读 App 插画
+
+![3D 黏土风格阅读 App 插画](../../images/3D%20%E9%BB%8F%E5%9C%9F%E9%A3%8E%E6%A0%BC%E9%98%85%E8%AF%BB%20App%20%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="app type" default="阅读 App"} 设计的空状态插画，共 {argument name="scene count" default="6"} 个场景，采用 {argument name="style" default="3D 黏土风格"}。
+每张插画均位于独立的容器中，布局保持一致。
+纯白色背景，留白充足，构图简洁极简。
+符合 Dribbble 品质的设计标准。
+长宽比 9:16。
+
+[English]
+Empty state illustrations for a {argument name="app type" default="Reading app"}, {argument name="scene count" default="6"} scenes in {argument name="style" default="3D clay style"}.
+Each illustration in its own container with a consistent layout.
+Pure white background, generous whitespace, clean and minimal composition.
+Dribbble-quality design standards.
+Aspect ratio 9:16.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2070021226668683284) | 2026-06-25
+
+---
+
+### 🖥️ 例 2432：暗黑波普艺术混合媒介拼贴画
+
+![暗黑波普艺术混合媒介拼贴画](../../images/%E6%9A%97%E9%BB%91%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅解构主义的混合媒介数字拼贴艺术作品。主体为 {argument name="subject" default="附带模型"}。构图由层层叠叠、撕裂的古董钢琴乐谱、带有可见复古文字（包括如“HER19845”等词汇）的报纸剪报、半色调网格图案以及褶皱纸张纹理构成。配色方案严谨：白色、黑色、淡青色以及鲜艳且高饱和度的深红色。画面中有两块纯深红色区域：右上角的一个大矩形，以及左侧中心带有“X”标记的纹理正方形。整个图像表面覆盖着深刻的磨损、划痕以及陈旧的污垢纹理。拼贴画的所有元素边缘均呈现出参差不齐的锯齿状。风格融合了暗黑波普艺术与精致的破坏主义拼贴风格。
+
+[English]
+A deconstructed, mixed-media digital collage artwork. The subject is {argument name="subject" default="the attached model"}. The composition is built from dense, torn layers of overlapping antique piano scores, newspaper clippings with visible vintage text (including words like 'HER19845'), halftone grid patterns, and textured crumpled paper. The color palette is austere: white, black, pale cyan, and a vibrant, highly saturated crimson red. There are two blocks of solid crimson red: a large rectangle in the upper right corner and a textured square with an 'X' in the center left. The entire surface of the image is covered with deep abrasions, scratches, and a worn, aged, grime texture. There are ragged, jagged edges on all elements of the collage. The style is a blend of dark pop art and refined vandalism collage.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2069987445978919124) | 2026-06-25
+
+---
+

@@ -1158,3 +1158,53 @@ Create a high-quality vertical photorealistic portrait of a graceful {argument n
 
 ---
 
+### 🏛️ 例 2371：土耳其老奶奶倒茶
+
+![土耳其老奶奶倒茶](../../images/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%80%81%E5%A5%B6%E5%A5%B6%E5%80%92%E8%8C%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级写实场景，画面中一位 {argument name="character description" default="78 岁的土耳其老奶奶"} 坐在 20 世纪 80 年代伊斯坦布尔家中温暖怀旧的厨房餐桌旁。她戴着系在下巴下的白色碎花头巾（yazma），身穿厚实的米色针织开衫和深色碎花连衣裙。她的面部中央被一块纯色长方形肤色遮挡物刻意遮盖，发际线处隐约可见灰白的头发。她正小心翼翼地将冒着热气的深色土耳其红茶，从传统的双层铜制茶壶（çaydanlık）的上层小壶倒入圆盘上的郁金香形玻璃茶杯中。桌面上必须包含 4 个核心茶具：她手中的小铜壶、一个已倒满茶的郁金香玻璃杯、一个带有红色装饰的小白瓷杯，以及放在托盘上的一把茶匙。右侧展示放置在黑色金属炉灶上的大铜壶。场景细节包括：左侧在强烈阳光照射下泛着光泽的蕾丝窗帘、空气中可见的漂浮尘埃与蒸汽、温暖的米色灰泥墙、摆放着旧式厨房容器的木架、一个蓝白相间的装饰墙盘、一个蓝色恶魔之眼挂饰，以及最左侧隐约可见的碎花陶瓷花瓶。采用黄金时段的窗光，暖琥珀棕色调，浅景深，逼真的纹理，做旧的铜器反光，细腻的胶片颗粒感，纪录片式的构图，16:9 横向画幅。无文字，无水印，无现代家电，无其他人物。
+
+[English]
+Create a cinematic photorealistic scene of a {argument name="character description" default="78-year-old Turkish grandmother"} seated at a kitchen table in a warm nostalgic 1980s Istanbul home. She wears a white floral yazma headscarf tied under the chin, a thick beige knitted cardigan, and a dark floral dress. Her face is intentionally obscured by a plain rectangular skin-toned privacy block covering the central face area, while gray hair is faintly visible at the hairline. She carefully pours steaming dark Turkish tea from the small upper copper teapot of a traditional double çaydanlık into one tulip-shaped glass tea cup on a round copper tray. Include exactly 4 main tabletop tea objects: the small copper teapot in her hand, one filled tulip tea glass, one small white porcelain cup with red decoration, and one teaspoon resting on the tray. To the right, show the larger copper kettle sitting on a black metal stove. The setting includes lace curtains glowing with strong sunlight on the left, visible floating dust and steam, warm beige plaster walls, a wooden shelf with old kitchen containers, one blue-and-white decorative wall plate, one blue evil-eye charm, and a partially visible floral ceramic vase at the far left. Use golden-hour window light, warm amber-brown color grading, shallow depth of field, realistic textures, aged copper reflections, gentle film grain, documentary-style composition, 16:9 horizontal framing. No text, no watermark, no modern appliances, no extra people.
+```
+
+**来源：** [@Ozan Sihay](https://x.com/ozansihay/status/2070231828997242882) | 2026-06-25
+
+---
+
+### 🏛️ 例 2417：春日秘密手势花园场景
+
+![春日秘密手势花园场景](../../images/%E6%98%A5%E6%97%A5%E7%A7%98%E5%AF%86%E6%89%8B%E5%8A%BF%E8%8A%B1%E5%9B%AD%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满活力、细节丰富、超写实的照片级图像，展示了一个俏皮的 {argument name="scene" default="春日场景"}。一位美丽的年轻女子站在米色墙面的房屋外，手指放在唇边做出“嘘”的秘密手势，同时俏皮地将一束 {argument name="object" default="粉色花束"} 藏在身后。她留着黑色波浪卷发，身穿浅粉色长袖衬衫，系着蓝色领结，下身穿着高腰蓝色百褶中长裙，裙上有细白条纹，脚蹬蓝色帆布鞋。在她身旁，一只 {argument name="animal" default="毛茸茸的橘色虎斑猫"} 耐心地坐在蓝色窗框的外部窗台上。窗内，一位留着黑色短发、蓄着胡茬、身穿青色夹克的年轻男子正微笑着向外张望。场景沐浴在明亮、温暖的日光下，在房屋墙面上投射出清晰、优美的树枝剪影。前景底部由柔和且失焦的粉色花枝环绕，增添了温暖的景深感。画面明亮洁净，充满浪漫的电影感光影，超写实风格。
+
+[English]
+A vibrant, highly detailed, ultra-realistic photorealistic image of a playful {argument name="scene" default="springtime scene"}. A beautiful young woman stands outside a house with smooth beige walls, making a 'shh' secret gesture with her finger to her lips while playfully hiding a {argument name="object" default="bouquet of pink flowers"} behind her back. She has wavy black hair and is wearing a light pink long-sleeved blouse with a blue bow tie, a high-waisted pleated blue midi skirt with thin white stripes, and blue canvas sneakers. Beside her, a {argument name="animal" default="fluffy orange tabby cat"} sits patiently on the exterior ledge of a blue-framed window. Inside the window, a smiling young man with short Black hair, a slight beard, and a teal jacket looks out happily. The scene is bathed in bright, sunny daylight, casting distinct, beautiful silhouettes of tree branches onto the wall of the house. Soft, out-of-focus pink blossoming branches frame the bottom foreground, adding a warm depth of field. Clean, bright, romantic, cinematic lighting, hyper-realistic.
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2070021824889712849) | 2026-06-25
+
+---
+
+### 🏛️ 例 2447：宏伟太空星云站
+
+![宏伟太空星云站](../../images/%E5%AE%8F%E4%BC%9F%E5%A4%AA%E7%A9%BA%E6%98%9F%E4%BA%91%E7%AB%99.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主題" default="宇宙探検"}、{argument name="背景" default="星雲輝く無限の宇宙"}に{argument name="構造物" default="巨大ステーション"}が浮かぶ壮大な光景
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2069941142649462845) | 2026-06-25
+
+---
+
