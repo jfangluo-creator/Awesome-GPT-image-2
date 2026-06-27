@@ -2127,3 +2127,84 @@ Constraints: Use exactly the listed panel counts and numbered items. Keep all te
 
 ---
 
+### 📊 例 2512：历史战役可视化长卷
+
+![历史战役可视化长卷](../../images/%E5%8E%86%E5%8F%B2%E6%88%98%E5%BD%B9%E5%8F%AF%E8%A7%86%E5%8C%96%E9%95%BF%E5%8D%B7.jpg)
+
+**Prompt:**
+
+```text
+生成一张【经典战役可视化长卷】，单张完整图片，不要拼图，不要多宫格，不要分栏，横版 3:1。
+
+战役主题：【{argument name="战役主题" default="赤壁之战"}】
+标题：【{argument name="标题" default="赤壁之战"}】
+副标题：【{argument name="副标题" default="一句话概括关键转折"}】
+核心内容：【战场地形 / 双方阵营 / 主攻路线
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2070401850101158066) | 2026-06-26
+
+---
+
+### 📊 例 2514：韩语版人机协作团队信息图
+
+![韩语版人机协作团队信息图](../../images/%E9%9F%A9%E8%AF%AD%E7%89%88%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版韩语信息图海报，总结 Anthropic 关于构建高效人机协作团队的课程，页面 {argument name="page number" default="1/2"}，采用简洁的米色编辑科技风格，并带有编号的课程章节。
+
+画布：2:3 竖版海报，米白色暖色背景，细边圆角卡片，橙色编号圆圈，黑色韩语字体，微妙的灰色分割线，小型线条艺术插图，以及类似 Anthropic 的极简品牌标识。采用类似于博客摘要信息图的密集但易读的布局。
+
+页眉：大号粗体韩语标题：“Anthropic 的教训：构建高效的 Human-Agent Team”。下方为小号副标题：“从一个人与一个 AI 工作的时代，迈向人与 Agent 在同一工作空间协作的团队时代”。元数据行：“原文摘要 | Claude Tag | 2026.06.24”。右上角有一个小巧的圆角页面徽章“1/2”，以及一幅手将积木放入三个橙色抽屉的插图；抽屉上显示着人类、机器人和目标的简单图标。
+
+布局：本页使用 5 个主要的编号章节，以清晰的网格堆叠。第 1 和第 2 章节位于页眉下方并排显示。第 3 章节是一个宽带，分为三个参与卡片和一个模拟聊天截图。第 4 章节是一个全宽课程卡片。第 5 章节是另一个全宽课程卡片。底部设有导航条、来源条和页脚品牌标识。
+
+第 1 章节：编号徽章“1”，标题“有什么不同？”。展示一个包含 2 个面板的对比图：左侧面板标记为“单人模式”，显示 1 个人类图标 ↔ 1 个 AI 机器人图标，配文“1 名人类 ↔ 1 个 AI”；右侧面板标记为“多人模式”，显示多个人类剪影 + 多个机器人图标 + 一个目标图标，配文“多人 + 多个 Agent + 共同目标”。添加底部标注：“现在的 AI 协作更接近团队工作，而非个人任务”。
+
+第 2 章节：编号徽章“2”，标题“什么是多人模式 Agent？”。包含 3 个带图标的定义行：机器人图标行“与多个人类同时工作的 AI Agent”；大脑图标行“拥有自主记忆 (memory)、技能 (skills) 和凭证 (credentials)”；类似 Slack 标志的彩色图标行“驻留在 Slack 等协作空间中支持团队目标”。底部示例胶囊：“例如：在团队频道中共同进行数据分析”。
+
+第 3 章节：编号徽章“3”，标题“如何高效参与团队”。左侧包含 3 个圆角卡片：卡片 1（带头像和便签图标），标题“持续记忆”，描述“记住目标并调整执行”；卡片 2（带盾牌和钥匙图标），标题“与人类分离的凭证”，描述“安全的权限和可预测的护栏”；卡片 3（带数据库和放大镜图标），标题“广泛且持续的信息访问”，描述“理解并遵循组织期望的行为方式”。在这些卡片下方添加一个星形标注：“仅有技术是不够的 → 还需要团队的运营方式和共同规范”。右侧显示一个类似 Slack 的聊天截图，标题为“# data-analysis”，带有紫色侧边栏，并显示来自以下发送者的 5 条聊天消息：“민지 (分析主管)”、“Claude (Data Analyst)”、“호준 (PM)”、“Claude (Data Analyst)”以及一个小型的最终状态/消息区域。包含微小的头像和时间戳，但保持文本清晰紧凑。
+
+第 4 章节：编号徽章“4”，标题“Lesson 1. 公开工作，并为 Agent 提供广泛的背景信息”。左侧插图：3 个人坐在笔记本电脑前，周围环绕着包含文档、聊天和代码图标的虚线共享工作空间图。中间的要点区域解释说，Agent 应该在 Slack、Jira、文档和存储库等可见空间中工作；私聊会隐藏背景信息；Agent 需要访问记录的对话和工件。添加两个侧边卡片：卡片标题“为什么重要？”（带橙色星形图标，要点包括记忆不是自动的、缺失背景会降低输出质量、共享背景可改善建议）；卡片标题“Anthropic 式运营方式”（带齿轮图标，要点包括共享频道、公开分享工作成果、将有用的私聊移至共享空间、记录易读的摘要）。底部锁定标注：“敏感对话可以通过 DM、Claude.ai 和 Claude Code 等独立空间处理”。
+
+第 5 章节：编号徽章“5”，标题“Lesson 2. 为所有人及 Agent 明确分配角色和工具”。包含一个简短的韩语要点列表，关于分配明确的角色、工具、凭证和期望。左下方创建 2 个小表格：“Human (人类)”表格（包含 4 行人类队友及其角色）；“Agents (Agent)”表格（包含 4 行：“Claude (Data Analyst)”、“Claude (Design Critic)”、“Claude (Research Synthesizer)”、“Claude (QA Tester)”）。右侧是一个绿色边框的清单卡片，标题为“高效团队的样子”，包含 5 个清单项：“达成共识的 Task Set”、“人类和 Agent 在同一线程中协作”、“记录各角色的范围和责任”、“个人不再由 AI 代替，团队共享相同的背景和数据”，以及最后一项关于共享工具和权限的简洁说明。
+
+底部导航：添加橙色箭头图标和文字：“下一页：Lesson 3 复杂性设置 · Lesson 4 建立信任 · 清单 · 结论”，右侧带有小的“1/2”徽章。来源条包含两个带图标的项目：“来源 URL: https://claude.com/blog/building-effective-human-agent-teams”和“原文标题: Building effective human-agent teams”。右下角大字标“ANTHROPIC”。左下角版权“© 2026 Gonnecter”。右下角添加一个微小的彩色抽象标志。
+
+视觉风格：现代韩语商业信息图，清晰的矢量线条艺术，暖奶油色背景，橙色点缀，聊天模拟图使用柔和的紫色，成功清单使用绿色，精确对齐，高信息密度，易读的韩语文本，无照片写实感，除微妙的卡片深度外无阴影。
+
+约束：保持 5 个编号主章节，2 个对比面板，3 个定义行，3 个参与卡片，5 条聊天消息，2 个角色表格，以及 5 个清单项。不要添加额外的页面、额外的课程编号、水印或不相关的图标。
+
+[English]
+Goal: Create a tall Korean infographic poster summarizing Anthropic’s lesson on building effective human-agent teams, page {argument name="page number" default="1/2"}, with a clean beige editorial tech style and numbered lesson sections.
+
+Canvas: Vertical 2:3 poster, off-white warm background, thin rounded cards, orange numbered circles, black Korean typography, subtle gray dividers, small line-art illustrations, and Anthropic-like minimal branding. Use a dense but readable layout similar to a blog-summary infographic.
+
+Header: Large bold title in Korean: “Anthropic의 교훈: 효과적인 Human-Agent Team 만들기”. Under it, small subtitle: “한 사람이 한 AI와 일하던 시대에서, 사람과 에이전트가 같은 워크스페이스에서 함께 일하는 팀의 시대로”. Metadata row: “원문 요약 | Claude Tag | 2026.06.24”. Top-right corner has a small rounded page badge “1/2” and an illustration of a hand placing blocks on three orange drawers; the drawers show simple icons for humans, a robot, and a target.
+
+Layout: Use exactly 5 main numbered sections on this page, stacked in a clear grid. Section 1 and 2 sit side by side below the header. Section 3 is a wide band split between three participation cards and a mock chat screenshot. Section 4 is a full-width lesson card. Section 5 is another full-width lesson card. Bottom has a navigation strip, source strip, and footer branding.
+
+Section 1: Number badge “1” and title “무엇이 달라졌나?”. Show a comparison diagram with exactly 2 panels: left panel labeled “싱글플레이어”, showing one human icon ↔ one AI robot icon with caption “1명 인간 ↔ 1개 AI”; right panel labeled “멀티플레이어”, showing multiple human silhouettes + multiple robot icons + a target icon with caption “여러 사람 + 여러 에이전트 + 공동 목표”. Add a bottom callout: “이제 AI 협업은 개인 작업이 아니라 팀 작업에 가깝다”.
+
+Section 2: Number badge “2” and title “멀티플레이어 에이전트란?”. Include exactly 3 definition rows with icons: robot icon row “여러 인간과 동시에 일하는 AI 에이전트”; brain icon row “자체 기억(memory), 스킬(skills), 자격증명(credentials)을 보유”; Slack logo-inspired colored icon row “Slack 같은 협업 공간에 상주하며 팀 목표를 지원”. Bottom example pill: “예: 팀 채널에서 데이터 분석을 함께 진행”.
+
+Section 3: Number badge “3” and title “팀에 생산적으로 참여하려면”. Left side contains exactly 3 rounded cards: card 1 with head and sticky-note icon, title “지속적 메모리”, description “목표를 기억하고 실행을 조정”; card 2 with shield and key icon, title “인간과 분리된 자격증명”, description “안전한 권한과 예측 가능한 가드레일”; card 3 with database and magnifying-glass icon, title “넓고 지속적인 정보 접근”, description “조직이 원하는 방식을 이해하고 행동”. Below those cards add a star callout: “기술만으로는 부족하다 → 팀의 운영 방식과 공통 규범도 필요”. Right side shows a Slack-like chat screenshot titled “# data-analysis” with a purple sidebar and exactly 5 visible chat messages from these senders: “민지 (분석 리드)”, “Claude (Data Analyst)”, “호준 (PM)”, “Claude (Data Analyst)”, and a small final status/message area. Include tiny avatars and timestamps, but keep text mostly legible and compact.
+
+Section 4: Number badge “4” and title “Lesson 1. 공개적으로 일하고, 에이전트에 넓은 맥락을 제공하라”. Left illustration: exactly 3 people sitting with laptops around a dotted shared workspace diagram containing document, chat, and code icons. Middle bullet area explains that agents should work in visible spaces like Slack, Jira, documents, and repositories; private DMs can hide context; and agents need access to recorded conversations and artifacts. Add two side cards: card titled “왜 중요한가?” with orange star icon and bullet points about memory not being automatic, missing context lowering output quality, and shared context improving recommendations; card titled “Anthropic 식 운영 방식” with gear icon and bullets about shared channels, openly sharing work products, moving useful DMs into shared space, and documenting easy-to-read summaries. Bottom lock callout: “민감한 대화는 DM, Claude.ai, Claude Code와처럼 별도 공간에서 다룰 수 있다”.
+
+Section 5: Number badge “5” and title “Lesson 2. 모든 인간과 에이전트에 역할과 도구를 명확히 부여하라”. Include a short Korean bullet list about assigning clear roles, tools, credentials, and expectations. Below left, create exactly 2 small tables: “Human (사람)” table with 4 rows of human teammates and roles; “Agents (에이전트)” table with 4 rows: “Claude (Data Analyst)”, “Claude (Design Critic)”, “Claude (Research Synthesizer)”, “Claude (QA Tester)”. On the right, a green bordered checklist card titled “잘 작동하는 팀의 모습” with exactly 5 checklist items: “합의된 Task Set”, “사람과 에이전트가 같은 스레드에서 함께 작업”, “각 역할의 범위와 책임을 문서화”, “개인은 AI가 나타나는 대신, 팀 전체가 같은 맥락과 같은 숫자를 공유”, and one concise final item about shared tools and permissions.
+
+Bottom navigation: Add an orange arrow icon and text: “다음 페이지: Lesson 3 복잡성 설정 · Lesson 4 신뢰 구축 · 체크리스트 · 결론”, with a small “1/2” badge on the right. Source strip contains two icon-labeled items: “출처 URL: https://claude.com/blog/building-effective-human-agent-teams” and “원문 제목: Building effective human-agent teams”. Bottom-right large wordmark “ANTHROPIC”. Bottom-left copyright “© 2026 Gonnecter”. Add a tiny colorful abstract logo at the bottom-right corner.
+
+Visual style: Modern Korean business infographic, crisp vector line art, warm cream background, orange accents, muted purple for chat mockup, green for success checklist, precise alignment, high information density, readable Korean text, no photorealism, no shadows beyond very subtle card depth.
+
+Constraints: Keep exactly 5 numbered main sections, exactly 2 comparison panels, exactly 3 definition rows, exactly 3 participation cards, exactly 5 chat messages, exactly 2 role tables, and exactly 5 checklist items. Do not add extra pages, extra lesson numbers, watermarks, or unrelated icons.
+```
+
+**来源：** [@고영혁 (Dylan Ko)](https://x.com/Gonnector/status/2070393328584343918) | 2026-06-26
+
+---
+

@@ -5598,3 +5598,35 @@ Create a romantic anime-style fantasy illustration in a sunlit forest meadow fil
 
 ---
 
+### 🎨 例 2483：参考角色图像风格化
+
+![参考角色图像风格化](../../images/%E5%8F%82%E8%80%83%E8%A7%92%E8%89%B2%E5%9B%BE%E5%83%8F%E9%A3%8E%E6%A0%BC%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+名前入力のところに名前を入力ください 🔸プロンプト🔸 添付されたキャラクターイラストを最重要の基準として使用し、
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2070492688500338747) | 2026-06-26
+
+---
+
+### 🎨 例 2508：空灵天使感谢插画
+
+![空灵天使感谢插画](../../images/%E7%A9%BA%E7%81%B5%E5%A4%A9%E4%BD%BF%E6%84%9F%E8%B0%A2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的竖版动漫风格插画，主角是 {argument name="character name" default="Celestin"}，一位空灵的天使般少年，皮肤苍白，柔软凌乱的 {argument name="hair color" default="雪白色"} 头发垂在眼前。画面采用近景四分之三侧面视角，他正温柔地亲吻着某人的手背。他的表情平静、虔诚且略带忧郁，长长的睫毛下垂。他身着带有半透明面料的层叠白色礼服，配有淡蓝色点缀、华丽的银饰、带有金属饰边的深色高领、垂坠耳环，以及耳边装饰着蓝色水晶羽毛。巨大的柔软白翼和飘落的羽毛环绕着他，营造出梦幻般的天堂氛围。采用明亮的水彩与铅笔素描美学，色调为非常柔和的粉白色、冰蓝色和珍珠灰色，高调照明，具有空气感的笔触纹理，闪烁如雪的微粒，以及浪漫的少女漫画构图。前景中的手应被他优雅地用双手捧着亲吻，手指纤细优美。在右下角附近添加手写的发光白色文字 {argument name="thank you message" default="感谢 400♡"}，并在旁边加上一个可爱的小涂鸦，画一个带翅膀的 Q 版脸或天使吉祥物。画布应为 9:16 竖版，亲密的裁剪肖像，无硬轮廓线，无现代物体，无水印。
+
+[English]
+Create a delicate vertical anime-style illustration of {argument name="character name" default="Celestin"}, an ethereal angelic young man with very pale skin and soft, messy {argument name="hair color" default="snow-white"} hair falling over his eyes, shown in close-up three-quarter profile as he gently kisses the back of someone’s hand. His expression is calm, reverent, and slightly melancholic, with long eyelashes and downcast eyes. He wears layered white ceremonial clothing with translucent fabric, pale blue accents, ornate silver jewelry, a dark high collar with metallic trim, dangling earrings, and blue crystal-feather ornaments near one ear. Large soft white wings and drifting feathers surround him, filling the background with a dreamy heavenly atmosphere. Use a luminous watercolor and pencil-sketch aesthetic, very soft pastel whites, icy blues, pearly grays, high-key lighting, airy brush textures, sparkling snow-like particles, and a romantic shoujo manga composition. The foreground hand should be gracefully held in both of his hands as he kisses it, with elegant slender fingers. Add handwritten glowing white text near the lower right reading {argument name="thank you message" default="Thank you for 400♡"}, plus a small cute doodle of a winged chibi face or angel mascot beside it. Canvas should be vertical 9:16, intimate cropped portrait, no hard outlines, no modern objects, no watermark.
+```
+
+**来源：** [@りりあん](https://x.com/riri_28_SynClub/status/2070410584349442479) | 2026-06-26
+
+---
+

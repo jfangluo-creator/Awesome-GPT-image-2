@@ -6348,3 +6348,243 @@ Create a square 1:1 profile picture using the uploaded image as the exact refere
 
 ---
 
+### 🏷️ 例 2462：电影感反派对决项目
+
+![电影感反派对决项目](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8F%8D%E6%B4%BE%E5%AF%B9%E5%86%B3%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 {argument name="aspect ratio" default="16:9"} 充满活力的 {argument name="subject" default="villain-duel"} 电影感项目分镜图像。
+
+[English]
+Create a {argument name="aspect ratio" default="16:9"} energetic {argument name="subject" default="villain-duel"} cinematic storyboard sheet image.
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2070542007555035234) | 2026-06-26
+
+---
+
+### 🏷️ 例 2465：荒诞风格 2D 橡胶卡通插画
+
+![荒诞风格 2D 橡胶卡通插画](../../images/%E8%8D%92%E8%AF%9E%E9%A3%8E%E6%A0%BC%202D%20%E6%A9%A1%E8%83%B6%E5%8D%A1%E9%80%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图像转换为 {argument name="style" default="扁平 2D 荒诞卡通插画"} 风格，同时保留主体、构图、服装、配饰及整体特征。
+
+将所有主体重新绘制为厚实、橡胶质感的卡通角色，并采用简化且夸张的解剖结构：超大的圆润身体、短粗的四肢、细小的豆豆眼，以及占据面部下半部分、带有大而平的牙齿和醒目红色唇线的巨大张开嘴巴。将面部比例推向一种怪诞而俏皮、充满荒诞感的审美。
+
+使用扁平的 {argument name="skin tone" default="暖桃橙色"} 肤色。以清晰的矢量风格线条进行渲染，配以粗黑轮廓和纯色填充，绝对不使用渐变、阴影、纹理、光影效果或写实摄影效果。
+
+忠实还原参考图中的所有服装、发型、配饰、鞋履、包袋、帽子和道具，将其简化为同样的粗线条图形卡通风格，同时保持可辨识的颜色和轮廓。
+
+将全身主体置于肖像构图的中心，背景为干净的 {argument name="background color" default="纯钴蓝色 (#4A7FD4)"}。
+
+风格基因：扁平 2D 编辑类卡通，灵感源自经典美式动画与现代街头服饰插画美学。大胆、图形化、不羁、富有表现力，且具有刻意的夸张感。
+
+[English]
+Transform the uploaded image into a {argument name="style" default="flat 2D absurdist cartoon illustration"} while preserving the subject(s), composition, clothing, accessories, and overall identity.
+
+Redraw every subject as chunky, rubbery cartoon characters with simplified, exaggerated anatomy: oversized rounded bodies, short stubby limbs, tiny beady dot eyes, and an enormous wide-open mouth with large flat teeth and a bold red lip outline dominating the lower half of the face. Push the facial proportions into a grotesque yet playful, joyfully absurd aesthetic.
+
+Use flat {argument name="skin tone" default="warm peach-orange"} skin tones. Render everything in crisp vector-style line art with thick bold black outlines, solid flat colors, and absolutely no gradients, shadows, textures, lighting effects, or photorealism.
+
+Faithfully recreate all clothing, hairstyles, accessories, footwear, bags, hats, and props from the reference image, simplifying them into the same bold graphic cartoon style while maintaining recognizable colors and silhouettes.
+
+Center the full-body subject(s) in a portrait composition against a clean {argument name="background color" default="solid cobalt blue (#4A7FD4)"}.
+
+Style DNA: Flat 2D editorial cartoon, inspired by classic American animation with a modern streetwear illustration aesthetic. Bold, graphic, irreverent, expressive, and intentionally exaggerated.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2070534719729774611) | 2026-06-26
+
+---
+
+### 🏷️ 例 2478：19 世纪复古黑白雕版画
+
+![19 世纪复古黑白雕版画](../../images/19%20%E4%B8%96%E7%BA%AA%E5%A4%8D%E5%8F%A4%E9%BB%91%E7%99%BD%E9%9B%95%E7%89%88%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张构图对称的黑白复古雕版画，主体为 {argument name="subject" default="一位戴着连帽衫兜帽、兜帽下反戴棒球帽的蓄须男子"}。仅保留头部和上胸部，背景为素雅的米白色纹理纸。风格：{argument name="style" default="细致的钢笔蚀刻画，带有密集的交叉排线、紧密的平行线以及古籍插画式的阴影"}。主体直视前方，表情平静自然。棒球帽的调节带横跨前额，上方露出向后梳的头发，浓密的胡须覆盖下半张脸。连帽衫的两根抽绳垂在胸前。保持严格的左右对称，采用经典雕版半身像的紧凑构图，并排除所有色彩、现代图形元素及背景物体。
+
+[English]
+A symmetrically composed black-and-white vintage engraving of a {argument name="subject" default="bearded man in a pullover hoodie with the hood raised and a backward snapback cap underneath"}. Frame only the head and upper chest against a plain off-white textured paper background. Style: {argument name="style" default="detailed pen-and-ink etching with dense cross-hatching, tight parallel lines, and antique book illustration shading"}. The subject looks straight ahead with a calm, neutral expression. The cap's snap-closure band crosses the forehead, slicked-back hair shows above it, a full thick beard covers the lower face. Two drawstrings hang from the hoodie at the chest. Maintain strict bilateral symmetry, crop tightly like a classic engraved bust, and exclude all color, modern graphic elements, and background objects.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2070504541204947426) | 2026-06-26
+
+---
+
+### 🏷️ 例 2486：21 世纪初 CCD 视频日记项目
+
+![21 世纪初 CCD 视频日记项目](../../images/21%20%E4%B8%96%E7%BA%AA%E5%88%9D%20CCD%20%E8%A7%86%E9%A2%91%E6%97%A5%E8%AE%B0%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+21 世纪初 CCD 视频日记项目。这是一个可复用的视觉提示词，适用于 {argument name="character" default="虚构的东亚职场女性"}，具有清晰的构图和可编辑的变量。
+
+[English]
+Early 2000s Ccd Video Diary Storyboard. Reusable visual prompt for {argument name="character" default="fictional adult East Asian office woman"} with clear composition and editable variables.
+```
+
+**来源：** [@Eric Kang - Vogue AI](https://x.com/Eric_Kangg/status/2070478201965420830) | 2026-06-26
+
+---
+
+### 🏷️ 例 2492：梦幻柔和浪漫情侣插画
+
+![梦幻柔和浪漫情侣插画](../../images/%E6%A2%A6%E5%B9%BB%E6%9F%94%E5%92%8C%E6%B5%AA%E6%BC%AB%E6%83%85%E4%BE%A3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考内容转换为 {argument name="style" default="梦幻、奇思妙想、柔和色调的插画场景"}，主角为 {argument name="subject" default="浪漫情侣"}，置于电影般的氛围中。保持构图柔和、温暖且富有情感表现力，采用手绘童书插画风格。
+
+[English]
+Transform the reference into a {argument name="style" default="dreamy, whimsical, pastel-toned illustrated scene"} of a {argument name="subject" default="romantic couple"} in a cinematic environment. Keep the composition soft, warm, and emotionally expressive with a hand-drawn children’s book illustration style.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2070440342449766613) | 2026-06-26
+
+---
+
+### 🏷️ 例 2495：赛博黑色电影明暗对照肖像
+
+![赛博黑色电影明暗对照肖像](../../images/%E8%B5%9B%E5%8D%9A%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E6%98%8E%E6%9A%97%E5%AF%B9%E7%85%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体呈现为微妙的侧面轮廓，头部微微上扬，双眼紧闭，双唇微启，表情神秘而宁静。她穿着一件极简风格的 {argument name="clothing style" default="哑光黑色上衣"}，逐渐融入阴影之中。灯光高度聚焦于明暗对照（Chiaroscuro）对比，在她的脸上投下深邃的阴影，而 {argument name="accent light" default="鲜艳的橙色光条"} 则营造出明亮、朦胧的光晕。背景是柔和、有质感且忧郁的 {argument name="background colors" default="柔和灰色"} 渐变，并伴有朦胧的大气烟雾。最终图像具有粗粝的电影胶片颗粒感，带有空灵的赛博黑色电影基调，并采用浅景深拍摄，在梦幻般的超现实叠加层下呈现出清晰的面部结构。 --ar 9:16
+
+[English]
+The subject is seen from a subtle side profile, her head slightly tilted up, eyes closed, and lips parted with an enigmatic, serene expression. She is wearing a minimalist, {argument name="clothing style" default="matte black top"} that fades into the shadows. The lighting is heavily focused on Chiaroscuro contrast, casting deep shadows over her face while the {argument name="accent light" default="vibrant orange streaks"} create a brilliant, hazy glow. The background is a soft, textured, moody gradient of {argument name="background colors" default="muted greys"} and hazy atmospheric smoke. The final image has a gritty, cinematic film grain, an ethereal cyber-noir undertone, and is captured with a shallow depth of field, rendering sharp facial structures beneath a dreamy, surreal overlay. --ar 9:16
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2070435100291191000) | 2026-06-26
+
+---
+
+### 🏷️ 例 2498：肉じゃがアニメ料理项目
+
+![肉じゃがアニメ料理项目](../../images/%E8%82%89%E3%81%98%E3%82%83%E3%81%8C%E3%82%A2%E3%83%8B%E3%83%A1%E6%96%99%E7%90%86%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="video topic" default="关于肉じゃが的 15 秒日式 2D 动画料理短片"} 创建一张宽幅项目，以简洁的单色铅笔线条画展示完整的烹饪过程。
+
+画布：超宽 21:9 比例的项目图像，白色背景，带有细黑色外边框。将 12 个矩形画格精确排列为 4 列 × 3 行的网格，画格间留有窄白色间隙，并带有细黑色边框。使用电影级的厨房特写镜头、动态动画分镜风格、手绘石墨素描质感，无色彩、无标题、无对话气泡、无画格编号。
+
+视觉风格：日式 2D 动画项目草图，精细的食物插画，富有表现力的铅笔排线，可见的辅助线，充满活力的动态线条，写实的厨具透视，微距特写构图。所有绘图均保持黑白，仅带有微妙的灰色阴影。
+
+项目画格：包含 12 个独立的画格，从左到右，从上到下：
+1. 在项目上切土豆的特写，一只手按住土豆，厨刀正在切入，旁边有几块削好的土豆。
+2. 将胡萝卜切成厚圆块和楔形块的特写，刀处于切割过程中，项目上散落着蔬菜块。
+3. 项目上洋葱楔和半个洋葱的特写，层次清晰可见，刀或手部分进入画面。
+4. 从上往下的视角拍摄锅或深煎锅，筷子正在翻炒薄肉片，汤汁或油轻微冒泡。
+5. 锅内装满肉和块状蔬菜的特写，筷子正在搅拌土豆块、胡萝卜块和洋葱。
+6. 调味汁从容器中倒入锅内蔬菜和肉上的场景，强调倾倒的液体流。
+7. 一个圆形落盖（落し蓋）放置在锅内炖煮的食材上，筷子通过落盖的孔洞进行调整。
+8. 炖煮中的锅，落盖部分掀起，蒸汽升腾，盖下食材可见。
+9. 汤勺在锅内搅拌或舀起炖好的菜肴，肉和蔬菜周围环绕着蒸汽和光泽的汤汁。
+10. 汤勺将块状的肉じゃが从锅中盛入碗中，大块土豆落入碗内。
+11. 汤汁或肉汤浇在碗中盛好的肉じゃが上，蒸汽升腾，土豆和肉上带有光泽的高光。
+12. 最终的成品特写，一碗完整的肉じゃが，包含大块土豆、洋葱楔、胡萝卜块、薄牛肉片和汤汁，采用低角度近距离拍摄。
+
+约束：图像必须呈现为一个连贯的项目，而不是独立的插图。使用精确的 12 个画格，且不含任何文字。强调肉じゃが的食材：{argument name="main ingredients" default="土豆、洋葱、胡萝卜、薄牛肉片、酱油基底炖汤"}。保持适合规划短视频的手绘动画制作项目风格。
+
+[English]
+Goal: Create a single wide storyboard sheet for a {argument name="video topic" default="15-second Japanese 2D anime cooking short about nikujaga"}, showing a complete cooking sequence in clean monochrome pencil line art.
+
+Canvas: Extra-wide 21:9 aspect ratio storyboard image, white background, thin black outer border. Arrange exactly 12 rectangular panels in a 4 columns × 3 rows grid, with narrow white gutters and thin black panel borders. Use cinematic close-up kitchen shots, dynamic anime storyboarding, hand-drawn graphite sketch texture, no color, no captions, no speech bubbles, no panel numbers.
+
+Visual style: Japanese 2D animation storyboard rough, detailed food illustration, expressive pencil hatching, visible construction lines, energetic motion lines, realistic cookware perspective, close-up macro framing. Keep all drawings black-and-white with subtle gray shading only.
+
+Storyboard panels: Include exactly 12 discrete panels, left to right, top to bottom:
+1. Close-up of a potato being cut on a cutting board, one hand holding it, chef’s knife slicing into it, a few peeled potato pieces nearby.
+2. Close-up of a carrot being chopped into thick round and wedge-like chunks, knife mid-cut, scattered vegetable pieces on the board.
+3. Close-up of onion wedges and onion halves on a cutting board, layers clearly visible, knife or hand partly entering frame.
+4. Top-down angle into a pot or deep pan where thin slices of meat are being stir-fried with chopsticks, broth or oil bubbling lightly.
+5. Pot close-up filled with meat and chunky vegetables, chopsticks mixing potato pieces, carrot chunks, and onion.
+6. Seasoning liquid being poured from a small container into the pot over the vegetables and meat, emphasizing the pouring stream.
+7. A round drop-lid placed over the simmering ingredients inside the pot, chopsticks adjusting the lid through its holes.
+8. Simmering pot with the drop-lid partly lifted, steam rising and ingredients visible beneath the lid.
+9. Ladle stirring or scooping the finished stew inside the pot, steam and glossy sauce around meat and vegetables.
+10. A ladle transferring chunky nikujaga from the pot into a serving bowl, large potato pieces falling into the bowl.
+11. Sauce or broth being poured over the plated nikujaga in a bowl, steam rising, glossy highlights on potatoes and meat.
+12. Final hero shot of a full bowl of nikujaga with large potatoes, onion wedges, carrot chunks, thin beef slices, and broth, viewed close-up from a low angle.
+
+Constraints: The image must read as one cohesive storyboard sheet, not separate illustrations. Use exactly 12 panels and no text. Emphasize nikujaga ingredients: {argument name="main ingredients" default="potatoes, onions, carrots, thinly sliced beef, soy-based simmering broth"}. Maintain a hand-sketched anime production-board look suitable for planning a short cooking video.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2070424127715078490) | 2026-06-26
+
+---
+
+### 🏷️ 例 2505：皮克斯风格奇幻黄金时刻渲染
+
+![皮克斯风格奇幻黄金时刻渲染](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E5%A5%87%E5%B9%BB%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="lighting style" default="温暖的黄金时刻阳光"} 洒满整个场景，发光的尘埃颗粒在体积光束中漂浮，营造出柔和而梦幻的氛围。{argument name="background" default="质朴的木质村庄"} 背景经过浅景深处理，呈现柔和的模糊效果。{argument name="art style" default="皮克斯 / 迪士尼风格 3D 渲染"} —— 可爱、温馨、奇幻。电影级布光，发丝带有柔和的轮廓光。超高细节，高质量，暖色调，4k，焦外成像，柔焦。
+
+[English]
+{argument name="lighting style" default="Warm golden hour sunlight"} fills the scene, glowing dust particles drifting through volumetric light rays, creating a soft magical atmosphere. {argument name="background" default="Rustic wooden village"} background softly blurred with shallow depth of field. {argument name="art style" default="Pixar / Disney-style 3D render"} — cute, cozy, whimsical. Cinematic lighting with a soft rim light on hair. Ultra-detailed, high quality, warm color palette, 4k, bokeh, soft focus.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2070413910008852781) | 2026-06-26
+
+---
+
+### 🏷️ 例 2517：网红生活方式摄影
+
+![网红生活方式摄影](../../images/%E7%BD%91%E7%BA%A2%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+"一位 {argument name="subject" default="年轻男性内容创作者"} 身着商务休闲装，自信地站在 {argument name="location" default="现代星巴克咖啡馆"} 前，面带微笑，手中拿着一杯清晰可见品牌 Logo 的星巴克冰咖啡。他正指向饮品，仿佛在向观众进行推荐。电影感生活方式摄影，奢华都市街头，自然日光，浅景深，高端商业广告风格，超写实，高端单反相机画质，8K，色彩鲜艳，构图简洁，社交媒体网红品牌推广。"
+
+[English]
+"A {argument name="subject" default="young male content creator"} wearing a smart casual outfit standing confidently in front of a {argument name="location" default="modern Starbucks café"}, smiling while holding a Starbucks iced coffee cup with the logo clearly visible. He is pointing toward the drink as if recommending it to his audience. Cinematic lifestyle photography, luxury urban street, natural daylight, shallow depth of field, premium commercial advertising style, ultra-realistic, high-end DSLR quality, 8K, vibrant colors, clean composition, social media influencer brand promotion.
+```
+
+**来源：** [@𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2/status/2070383614513283229) | 2026-06-26
+
+---
+
+### 🏷️ 例 2524：悬浮 iPhone 产品渲染图
+
+![悬浮 iPhone 产品渲染图](../../images/%E6%82%AC%E6%B5%AE%20iPhone%20%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高端产品渲染图，展示一个 {argument name="product name" default="iPhone 17 Pro Max"} 在一个极简的 {argument name="background color" default="淡薄荷绿与暖奶油色"} 摄影棚环境中，斜向悬浮在光亮的白色圆形底座上方。画面中仅展示一部智能手机，正面呈四分之三视角，向左微倾，具有纤细的黑色边框、金属质感的深色侧边栏、清晰可见的侧边按钮、底部扬声器孔、充电接口以及顶部的药丸状灵动岛（Dynamic Island）开孔。屏幕显示一张优雅的绿色抽象壁纸，带有柔和的半透明椭圆形图案，中间印有白色文字“{argument name="screen text" default="iPhone 17 Pro Max"}”；底部附近包含小型锁屏图标。采用柔和的摄影棚灯光、平滑的渐变效果、巨大的弧形薄荷色背景、右侧奶油色的垂直光区、逼真的玻璃反射、金属边框上的细腻高光，以及悬浮手机下方光亮表面上的漫反射阴影。超写实纹理，商业广告风格，构图极其简洁，宽屏横向裁剪，无多余物体，无手部出现，无水印。
+
+[English]
+Premium product shot of a {argument name="product name" default="iPhone 17 Pro Max"} floating diagonally above a glossy white circular pedestal in a minimal {argument name="background color" default="pale mint green and warm cream"} studio environment. Show exactly one smartphone, front-facing at a three-quarter angle, tilted slightly left, with a slim black bezel, metallic dark side rails, visible side buttons, bottom speaker holes, charging port, and a pill-shaped dynamic-island cutout at the top. The screen displays an elegant green abstract wallpaper with soft translucent oval shapes and centered white text reading “{argument name="screen text" default="iPhone 17 Pro Max"}”; include small lock-screen icons near the bottom. Use soft studio lighting, smooth gradients, a large curved mint backdrop, a creamy vertical light area on the right, realistic glass reflections, subtle highlights along the metal frame, and a diffused shadow directly beneath the floating phone on the glossy surface. Hyper-realistic textures, commercial advertising style, ultra-clean composition, wide landscape crop, no extra objects, no hands, no watermark.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2070355936791900657) | 2026-06-26
+
+---
+

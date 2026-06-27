@@ -2160,3 +2160,103 @@ Transform this photo into a {argument name="style" default="whimsical folk flat 
 
 ---
 
+### 🔧 例 2458：智能手机照片人脸特征转换
+
+![智能手机照片人脸特征转换](../../images/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E4%BA%BA%E8%84%B8%E7%89%B9%E5%BE%81%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张高保真照片转换。在保持所提供源图像人脸特征绝对精确且零偏差的前提下进行转换。这是一张由现代智能手机拍摄的超写实、超清晰照片，具有独特的数字清晰度。[场景]：背景描绘了一个 {argument name="location" default="光线明亮的书店内部"}。左侧有许多书架，上面摆满了各种书籍；右侧的架子上展示着杂志和手工书。架子上方的一块深色招牌上醒目地写着“MAGAZINES &”字样。主体被置于偏左的位置，呈现出零售环境中自然的抓拍构图。[主体]：一位肤色白皙的年轻女性，正坐在那里喝水，身体略微向左倾斜。她穿着一件 {argument name="outfit" default="粉白格子印花上衣"}，领口带有精致的白色荷叶边装饰，胸前有白色丝带系带。一件浅色水洗牛仔夹克随意地披在肩上，左臂自然地放在身后，右臂微微弯曲，手持一个插着白色吸管的透明塑料杯送到唇边。她的姿势展现出自然的人体不对称感，右肩微微抬起，左胯略显放松，头部轻轻向上并向左倾斜。棕色头发打理成柔软的“美人鱼波浪卷”，中分发型，脸颊两侧有细小的装饰性编发，别在耳后。她拥有光泽、饱满且自然的粉紫色嘴唇，带有细微的闪光。皮肤无瑕且透亮，呈现出“水光肌”质感，鼻梁和鼻尖上有强烈的露水般高光，颧骨处涂抹了位置较高的淡雅腮红。她表情沉思且充满好奇，双唇微张含着吸管，目光向上看向别处。她的眼睛瞳孔略微放大，外眼角有细微的收紧，仿佛捕捉到了沉思瞬间的缓慢眨眼。[光影]：场景由自然的暖色调日光照亮，柔和的玫瑰色底色微妙地反射在皮肤上，增强了自然的腮红质感。干净的白平衡确保了皮肤保持自然的清晰度，没有过重的色彩分级，并带有柔和的高光过渡。[美学]：一张由现代智能手机（如 Google Pixel 8）拍摄的超写实、超清晰照片，具有独特的数字清晰度。整个场景处于清晰对焦状态，没有背景虚化或焦外成像，展现出逼真的数字纹理和锐利的细节，包括皮肤上可见的毛孔。图像对比度极低，没有 HDR 扁平化，也没有厚重的色彩分级，保留了皮肤柔和的粉色暖调。ar 4:5
+
+[English]
+Create a high-fidelity photographic transformation. Maintain the exact facial identity from the provided source image with absolute precision and zero alteration. A hyper-realistic, ultra-sharp photograph taken on a modern smartphone, characterized by its digital clarity. [SCENE]: The background depicts a {argument name="location" default="brightly lit interior of a bookstore"}. On the left, numerous bookshelves are packed with various books, while on the right, racks display magazines and craft books. A dark sign prominently features the words "MAGAZINES &" above the racks. The subject is framed slightly off-center to the left, capturing a natural, handheld composition within the retail environment. [SUBJECT]: A young adult female with a fair complexion is captured mid-sip, seated and angled slightly to the left. She wears a {argument name="outfit" default="pink and white gingham print top"} with delicate white ruffled trim along the neckline and a white ribbon tie closure at the bust. A light wash denim jacket is casually draped over her shoulders, with her left arm resting loosely behind her and her right arm slightly bent as she holds a clear plastic cup with a white straw to her lips. Her pose exhibits natural human asymmetry, with her right shoulder subtly raised, her left hip slightly relaxed, and her head tilted gently upward and to the left. Her brown hair is styled with soft mermaid waves, parted in the center, and small decorative braids frame her face, tucked behind her ears. She has glossy, plump, and natural pinkish-mauve lips with a subtle shimmer. Her skin is flawless and luminous, featuring a 'glass skin' texture with intense, dewy highlights on the bridge and tip of the nose, and a subtle blush applied with high placement on the cheekbones. Her expression is reflective and intrigued, with her lips slightly parted around the straw as she looks upward and away. Her eyes show a slight pupil dilation and a micro-tightening at the outer corners, suggesting a moment of contemplation, captured during a slow blink. [LIGHTING]: The scene is illuminated by naturally warm daylight with soft rosy undertones reflecting subtly on the skin, enhancing the natural blush tones. The clean white balance ensures the skin retains natural clarity without heavy color grading, with a soft highlight rolloff. [AESTHETIC]: A hyper-realistic, ultra-sharp photograph taken on a modern smartphone, like a Google Pixel 8, characterized by its digital clarity. The entire scene is in sharp focus without any background blur or bokeh, showcasing realistic digital textures and sharp details, including visible pores on the skin. The image has minimal contrast, no HDR flattening, and no heavy color grading, preserving the soft pink warmth of the skin. ar 4:5
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2070562831263817952) | 2026-06-26
+
+---
+
+### 🔧 例 2477：动漫双人 Q 版肖像
+
+![动漫双人 Q 版肖像](../../images/%E5%8A%A8%E6%BC%AB%E5%8F%8C%E4%BA%BA%20Q%20%E7%89%88%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张纯白色背景的方形全出血数字插画，展示动漫双人转换布局。主体是一个位于画布中心及右侧的可爱极简 Q 版动漫女孩，呈现头部到上半身的构图，拥有超大头部、窄肩、非常大的深棕色亮眼、柔和的桃色皮肤、红润的脸颊、小巧的鼻尖高光以及微张的平静小嘴。她留着 {argument name="hair color" default="深棕色近乎黑色"} 凌乱的短波波头，发丝微卷且带有碎发，中分偏分，左肩垂下一条粗松的侧辫。在辫子下端别上 1 个小巧的粉色五瓣花发夹。她穿着 {argument name="top color" default="黑色"} 极简吊带背心，带有 2 条细肩带和浅 V 领。表情应显得害羞、平静且如玩偶般精致，采用细腻的线条、柔和的水彩风格阴影、微妙的腮红渐变以及精美的动漫渲染。在左上角，包含 1 个带有细深色边框的小型圆角矩形嵌入式相框，展示同一年轻女性的写实肖像作为源参考：凌乱的深色短卷发、自然妆容、黑色吊带背心，坐在车内，面对镜头，表情平静。嵌入框宽度约为画布的四分之一，距离顶部和左侧边缘留有小间距。保持背景完全纯白，无文字、无水印、无额外配饰，且无其他角色。采用简洁的高分辨率社交媒体头像风格，使写实嵌入图与大型动漫版本在发型、服装和氛围上保持视觉一致。
+
+[English]
+Create a square full-bleed digital illustration on a plain solid white background showing an anime twin transformation layout. The main subject is a cute minimalist chibi anime girl occupying the center and right side of the canvas from head to upper torso, with an oversized head, tiny shoulders, very large glossy dark brown eyes, soft peach skin, rosy blushing cheeks, a small nose highlight, and a tiny slightly parted neutral mouth. She has {argument name="hair color" default="dark brown almost black"} messy short wavy bob hair with loose flyaway strands, parted near the center, with one thick loose side braid falling over her left shoulder. Add exactly 1 small pink five-petal flower clip attached near the lower part of the braid. She wears {argument name="top color" default="black"} minimalist spaghetti-strap camisole top with exactly 2 thin shoulder straps and a shallow V neckline. The expression should feel shy, calm, and doll-like, with delicate clean line art, soft watercolor-like shading, subtle blush gradients, and polished anime rendering. In the upper-left corner, include exactly 1 small rounded-rectangle inset photo frame with a thin dark border, showing a realistic portrait of the same young woman as the source look: short tousled dark wavy hair, natural makeup, black spaghetti-strap top, seated in a car interior, facing the camera with a neutral expression. The inset should be about one quarter of the canvas width, placed with a small margin from the top and left edges. Keep the background completely white, with no text, no watermark, no extra accessories, and no additional characters. Use a clean high-resolution social-media avatar style that makes the realistic inset and the larger anime version visually match in hairstyle, outfit, and mood.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2070505352232366097) | 2026-06-26
+
+---
+
+### 🔧 例 2513：可爱布丁河畔问候
+
+![可爱布丁河畔问候](../../images/%E5%8F%AF%E7%88%B1%E5%B8%83%E4%B8%81%E6%B2%B3%E7%95%94%E9%97%AE%E5%80%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张欢快的竖版动漫风格插图，描绘一个可爱的布丁吉祥物在阳光明媚的河畔森林中向观众问候。主体是一个圆润的卡仕达布丁生物，顶部有光泽的焦糖，有着小巧圆润的四肢、闪亮的黑色椭圆形眼睛和张开的快乐大嘴；它坐在闪烁的蓝色溪流旁翠绿的草地上。在布丁顶部放置 2 个甜点配料：一圈白色鲜奶油和一颗带梗的闪亮红樱桃。在上方天空中添加醒目且俏皮的日语问候文字 {argument name="greeting text" default="こんにちは"}，使用带有白色轮廓的粗体圆润橙色字体，并装饰 2 个小花图标：文字左上方一朵粉色小花，右上方一朵黄橙色小花。在吉祥物周围环绕 4 个色彩鲜艳的音符图标：左上方一个橙色音符，左侧中间一个黄色音符，右侧中间一个粉色音符，右上方一个黄色音符。在角色周围加入白色小闪光和弯曲的魔法动感线条。环境应展示晴朗的蓝天和柔软的云朵、茂密且阳光充足的绿树、左侧带有泡沫和波光粼粼的流动河流、前景中圆润的河石，以及草丛中黄色和白色的小野花。使用温暖的金色阳光、柔和的动漫绘画渲染、饱和的色彩、可爱的 kawaii 氛围、浅景深、精致的数字艺术，无水印，除问候语外无其他文字。
+
+[English]
+Create a cheerful vertical anime-style illustration of a cute pudding-shaped mascot saying hello in a lush riverside forest. The main subject is a large, chubby, glossy caramel custard creature, centered slightly right, sitting on bright green grass beside a sparkling stream. It has a soft golden-yellow pudding body with four small rounded limbs, shiny black oval eyes, a tiny smiling face, and an open happy mouth. Its top is covered with glossy amber caramel sauce dripping slightly over the edge, decorated with exactly 2 toppings: one dollop of white whipped cream on the upper left and one red cherry with a stem near the center. Add playful magical accents around it: exactly 5 colorful music notes, exactly 8 small white sparkle stars, and exactly 2 flower icons near the headline. The background is a sunlit woodland river scene with clear blue water flowing diagonally along the left side, rounded gray stones on the bank, dense green trees, dappled sunlight, blue sky, soft clouds, tall grass, and small wildflowers in the foreground. At the top, place large rounded Japanese bubble text reading {argument name="greeting text" default="こんにちわ"}, in thick orange lettering with a white outline and a subtle shadow, spanning almost the full width. Use a bright, wholesome, high-saturation anime illustration style with soft painterly details, warm sunlight, sparkling water highlights, cute mascot proportions, and a joyful social-media sticker feeling. Vertical 3:4 composition, no border, no watermark, no extra characters.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2070393387329769491) | 2026-06-26
+
+---
+
+### 🔧 例 2542：超级英雄时代变身分屏肖像
+
+![超级英雄时代变身分屏肖像](../../images/%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%97%B6%E4%BB%A3%E5%8F%98%E8%BA%AB%E5%88%86%E5%B1%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作画质，9:16 比例
+@image1 = {argument name="reference character" default="primary character reference"}
+请保留参考角色的脸型、发型、发色、瞳色、肢体与手指数量、个性、肢体语言、标志性配色、服装主题、物种特征、配饰、剪影、体型、身体比例以及整体角色氛围。如果角色戴着面具，请勿更改。如果角色没有头部，请勿凭空创造。请勿丢失角色辨识度。请勿将角色变成普通路人或无关的设计。请勿使构图过于拥挤。请勿引入额外角色或重复角色。除非变身概念有明确要求，否则请勿破坏解剖结构。请勿使画面变得视觉混乱或难以辨识。请勿显式列出或命名所使用的隐藏影响因素。请勿让环境喧宾夺主。
+请使用你的 Python 环境（代码解释器）生成一个伪随机数。请勿猜测或依赖语言模型权重来选择数字。
+请严格遵守以下限制：
+1. 范围：[1] 到 [4] 之间（包含边界值）。
+2. 类型：[整数]
+3. 执行：导入 'random' 或 'secrets' 库来计算结果。
+4. 输出：请勿将最终随机数作为输出提供。请勿包含任何对话填充内容。请使用该数字从下方的列表中选择场景。
+1. 狂野西部
+2. 爱德华时代的英国
+3. 1920 年代爵士时代
+4. 中世纪
+绘制 @image1 的两个版本。绘制一条对角线将两个版本分隔开。线条的颜色、形状和材质效果将由 @image1 的视觉个性决定。左侧的 @image1 将站在符合所选场景的客厅壁炉旁，身着符合该场景的正式服装。服装必须符合 @image1 的视觉个性。表情和姿态表现为平静满足。场景时间为正午。
+右侧的 @image1 将身着符合所选场景的超级英雄服装。服装必须精致、优雅、专为极致隐匿而设计，符合 @image1 的视觉个性，并具有强大的气场。他们将处于夜晚的户外，潜行追踪潜在罪犯。@image1 将使用符合其角色和视觉个性的武器或魔法。如果 @image1 是儿童，他们将使用魔法，并确保服装既合适又可爱。表情和姿态表现为一名隐秘的刺客。
+
+[English]
+Masterpiece quality 9:16 aspect ratio
+@image1 = {argument name="reference character" default="primary character reference"}
+Preserve the referenced characters’ face shape, hairstyle, hair color, eye color, correct number of limbs and fingers, personality, body language, signature color palette, outfit motifs, species traits, accessories, silhouette, body shape, body proportions, and overall character vibe. If the character has a mask, do not change it. If the character does not have a head, do not invent one. Do not lose character recognizability. Do not turn the character into a generic person or unrelated design. Do not overcrowd the composition. Do not introduce extra characters or duplicates. Do not break anatomy unless clearly justified by transformation concept. Do not make the scene visually confusing or unreadable. Do not explicitly list or name the hidden influences used. Do not let environment overpower the character.
+Use your Python environment (Code Interpreter) to generate a pseudo-random number. Do not guess or rely on your language modeling weights to pick the number. 
+Please follow these exact constraints:
+1. Range: Between [1] and [4], inclusive.
+2. Type: [Integer]
+3. Execution: Import the 'random' or 'secrets' library to compute the result.
+4. Output: Do not provide the final random number(s) as the output. Do not include conversational filler. Use the number to select the setting from the list below.
+1. Wild West
+2. Edwardian England
+3. 1920’s Jazz Era
+4. Medieval
+Draw two versions of @image1. Draw a diagonal line separating both versions. The line’s color, shape, and material effect will be determined by the visual personality of @image1. @image1 will be On the left, standing in a parlor fitting to the chosen setting and wearing a formal outfit, also fitting the chosen setting, by a fireplace. The outfit must adhere to the visual personality of @image1. The expression and posture will one of peaceful contentment. This setting will be midday.
+The right side will have @image1 wearing a superhero costume fitting to the chosen setting. The costume must be intricate, elegant, designed for maximum stealth, adhere to the visual personality of @iamge1, and have a powerful aura. They will be outdoors at night, and they will be stalking potential criminals. @image1 will use weapons or magic fitting to their character and visual personality. If @image1 is a child, they will use magic and ensure their costume is appropriate and cute. The expression and posture will one of a stealthy assassin.
+```
+
+**来源：** [@Pupperfish Pat](https://x.com/Pupperfishpat/status/2070297863301521469) | 2026-06-26
+
+---
+

@@ -3750,3 +3750,177 @@ Constraints: Maintain the exact 4x4 grid and exactly 16 panels. Do not add extra
 
 ---
 
+### 🎬 例 2453：复古 1960 年代四格时尚大片
+
+![复古 1960 年代四格时尚大片](../../images/%E5%A4%8D%E5%8F%A4%201960%20%E5%B9%B4%E4%BB%A3%E5%9B%9B%E6%A0%BC%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古摄影作品，展示同一位女性扮演四个不同的角色，并排呈现在水平网格中。每个面板都有其独特的 {argument name="colors" default="马卡龙色背景（黄色、蓝色、粉色、薄荷绿）"}。她全程身着 {argument name="era" default="1960 年代复古时装"}，搭配彩色印花、粉色过膝袜和浓郁的妆容。
+
+左侧面板（办公室）：坐在办公桌前，周围摆放着道具、转盘电话、文件夹和文具。身穿印花连衣裙，打电话时表情惊讶。
+第二面板（旅行）：戴着宽檐帽，身着鲜艳的套装，摆出优雅的姿势，旁边放着复古手提箱和旅行配件。
+第三面板（运动）：身穿复古运动装，手持网球拍和球，展现出悠闲俏皮的活力。
+右侧面板（居家）：身穿长袍，头发卷着发卷，在梳妆台前拿着手镜，周围摆放着各种美容产品。
+
+面板划分整齐，构图对称，灯光和拍摄角度保持一致。柔和明亮的摄影棚光线，高端时尚大片美学，细节极其清晰，色彩鲜艳饱和，几乎无阴影，无文字，无 Logo，无水印。
+风格：{argument name="style" default="波普艺术怀旧风，韦斯·安德森式对称，时尚摄影大片，马卡龙色块"}，高分辨率，8K，构图简洁。
+
+[English]
+Retro studio photography featuring the same woman in four distinct character roles, laid out side by side in a horizontal panel grid. Each panel has its own bold {argument name="colors" default="pastel backdrop (yellow, blue, pink, mint)"}. She's styled in {argument name="era" default="1960s vintage fashion"} throughout, colorful prints, pink knee-high socks, and bold makeup.
+
+Left panel (Office): Seated at a desk surrounded by props, a rotary telephone, file folders, stationery. Patterned dress, expression of surprise while on the phone.
+Second panel (Travel): Wide-brimmed hat, vibrant ensemble, posed with a vintage suitcase and travel accessories, elegant posture.
+Third panel (Sports): Retro athletic outfit, holding a tennis racket and ball with laid-back playful energy.
+Right panel (Home): Wearing a robe with rollers in her hair, holding a hand mirror at a vanity table with beauty products arranged around her.
+
+Panels are neatly divided with symmetrical framing and consistent lighting and camera angle throughout. Soft bright studio light, high-end fashion editorial aesthetic, razor-sharp detail, vivid saturated colors, near-shadowless, no text, no logos, no watermarks.
+Style: {argument name="style" default="pop art nostalgia, Wes Anderson symmetry, fashion editorial photography, pastel color blocking"}, high resolution, 8K, clean composition.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2070625353580925426) | 2026-06-26
+
+---
+
+### 🎬 例 2479：商场里的漫画仓鼠朋友
+
+![商场里的漫画仓鼠朋友](../../images/%E5%95%86%E5%9C%BA%E9%87%8C%E7%9A%84%E6%BC%AB%E7%94%BB%E4%BB%93%E9%BC%A0%E6%9C%8B%E5%8F%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白漫画，讲述一位时尚的年轻人，在繁忙的室内购物广场偶遇一只拟人化迷你仓鼠朋友的故事。
+
+画布：竖版漫画页面，比例约为 2:3，干净的白色页面，带有细黑色外边框和粗黑色分镜间距。高细节的黑白钢笔画，采用网点纸风格的阴影，写实的建筑透视，优雅的少女/青年漫画角色渲染。
+
+布局：严格使用 6 个分镜。分镜 1 为顶部通栏全景。分镜 2 为其下方的另一个宽幅分镜。分镜 3 行包含两个分镜：左侧为男性的窄幅特写，右侧为较宽的仓鼠分镜。分镜 4 行包含两个分镜：左侧为窄幅的仓鼠与手部互动笑料，右侧为较宽的结尾分镜。
+
+场景：现代室内商场或车站大厅，有光亮的瓷砖地面、高大的玻璃店面、熙熙攘攘的行人、头顶的指示牌、圆形室内喷泉，以及结尾分镜中的服装店。包含英文标识，如指示牌上的“Central Plaza”和服装店上方的“SELECTED MEN'S WEAR”，以及店门口附近的小型“NEW ARRIVAL”标志。
+
+角色：主要人类角色为 {argument name="male friend description" default="一位高大英俊的年轻人，有着凌乱的波浪卷深色头发，眼神锐利，表情冷静疏离，身穿黑色长款大衣，内搭黑色高领毛衣，佩戴长围巾和吊坠项链"}。小同伴为 {argument name="hamster friend description" default="一只圆滚滚、毛茸茸的仓鼠，戴着小巧的贝雷帽和领结，拿着或站在智能手机旁，表情生动可爱"}。
+
+分镜细节：分镜 1：远景拍摄购物广场喷泉的宽幅全景。许多行人在周围走动。小仓鼠坐在圆形喷泉边缘，低头看着智能手机，旁边有小的拟声词文字。分镜 2：中远景，英俊的男子在左前景，身体略微朝右，注意到某物；右侧背景中可以看到带有小仓鼠的喷泉。分镜 3 左：男子面部的紧凑特写，表情严肃且略显困惑。分镜 3 右：喷泉边缘仓鼠的近景，站在智能手机上或旁边，用力挥动一只爪子。分镜 4 左：喜剧特写，一只人类的手轻轻捏住并提起仓鼠的小贝雷帽；仓鼠悬空，爪子受惊地摆动。分镜 4 右：服装店前的最终中远景。男子侧身站立，将仓鼠托在张开的手掌上，看向陈列着西装和衣架的商店橱窗。
+
+可见文字与效果：包含 8 个文字元素：1) 头顶的指示牌“Central Plaza”；2) 分镜 1 中仓鼠附近的小型日语拟声词 {argument name="phone tapping sound" default="てちてち"}；3) 分镜 2 中男子的对话气泡，内容为 {argument name="man first line" default="ん？"}；4) 分镜 3 左侧的沉默气泡，内容为“……”；5) 分镜 3 右侧仓鼠的对话气泡，内容为 {argument name="hamster greeting" default="あ、こっちだよー"}；6) 分镜 4 左侧的大型日语拟声词，内容为“わしっ”；7) 分镜 4 左侧仓鼠的小型对话气泡，内容为“え？”；8) 分镜 4 右侧的最终对话气泡：男子说“……ハムスターに似合う服を見に行くから服屋から回るぞ”，仓鼠回答“えぇ…………”。
+
+风格限制：请勿使用彩色。保持页面精致且具有电影感，运用细腻的排线、写实的行人剪影、清晰的分镜边框、细致的衣物褶皱以及生动的漫画表情。仓鼠与男子相比必须保持微小，以形成幽默的对比。避免添加多余的分镜、额外的对话、水印或现代 UI 叠加层。
+
+[English]
+Goal: Create a black-and-white manga page about a fashionable young man meeting a tiny anthropomorphic hamster friend at a busy indoor shopping plaza.
+
+Canvas: Vertical manga page, roughly 2:3 aspect ratio, clean white page with thin black outer border and thick black gutters. Highly detailed monochrome pen-and-ink line art with screentone-style shading, realistic architectural perspective, elegant shoujo/seinen manga character rendering.
+
+Layout: Use exactly 6 panels. Panel 1 is a wide establishing shot across the full top width. Panel 2 is another wide panel below it. Panel 3 row has two panels: a narrow close-up of the man on the left and a wider hamster panel on the right. Panel 4 row has two panels: a narrow vertical hamster-hand gag panel on the left and a wider final panel on the right.
+
+Setting: A modern indoor mall or station concourse with glossy tiled floors, tall glass storefronts, crowds of pedestrians, overhead direction signs, a circular indoor fountain, and a clothing store in the final panel. Include English signage such as “Central Plaza” on a directional sign and “SELECTED MEN'S WEAR” above the clothing shop, plus a small “NEW ARRIVAL” sign near the shop entrance.
+
+Characters: The main human character is {argument name="male friend description" default="a tall handsome young man with tousled wavy dark hair, sharp eyes, a calm aloof expression, wearing a black long coat over a black turtleneck with a long scarf and pendant necklace"}. The small companion is {argument name="hamster friend description" default="a round fluffy hamster wearing a tiny beret and bow tie, holding or standing near a smartphone, expressive and cute"}.
+
+Panel details: Panel 1: Wide establishing shot of the shopping plaza fountain from a distance. Many pedestrians walk around. The tiny hamster sits on the rim of the circular fountain, looking down at a smartphone, with small sound text near it. Panel 2: Medium-wide shot showing the handsome man in the left foreground, facing slightly right, noticing something; the fountain with the tiny hamster appears on the right side in the background. Panel 3 left: Tight close-up of the man’s face, serious and slightly puzzled. Panel 3 right: Close shot of the hamster on the fountain rim, waving one paw energetically while standing on or beside the smartphone. Panel 4 left: Comedic close-up of a human hand pinching and lifting the hamster gently by the tiny beret; the hamster dangles with startled paws. Panel 4 right: Final medium-wide shot in front of the menswear shop. The man stands in profile, holding the hamster on his open palm while looking toward the store window with suits and racks of clothes.
+
+Visible text and effects: Include exactly 8 text elements: 1) the overhead sign “Central Plaza”; 2) small Japanese sound effect {argument name="phone tapping sound" default="てちてち"} near the hamster in panel 1; 3) speech bubble from the man in panel 2 reading {argument name="man first line" default="ん？"}; 4) silent speech bubble in panel 3 left reading “……” ; 5) hamster speech bubble in panel 3 right reading {argument name="hamster greeting" default="あ、こっちだよー"}; 6) large Japanese sound effect in panel 4 left reading “わしっ”; 7) small hamster speech bubble in panel 4 left reading “え？”; 8) final speech bubbles in panel 4 right: the man says “……ハムスターに似合う服を見に行くから服屋から回るぞ” and the hamster replies “えぇ…………”.
+
+Style constraints: Do not use color. Keep the page polished and cinematic, with delicate hatching, realistic crowd silhouettes, crisp panel borders, detailed clothing folds, and expressive manga faces. The hamster should remain tiny compared with the man, creating a humorous contrast. Avoid extra panels, extra dialogue, watermarks, or modern UI overlays.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2070504047619248533) | 2026-06-26
+
+---
+
+### 🎬 例 2523：绿发漫画少女对话框
+
+![绿发漫画少女对话框](../../images/%E7%BB%BF%E5%8F%91%E6%BC%AB%E7%94%BB%E5%B0%91%E5%A5%B3%E5%AF%B9%E8%AF%9D%E6%A1%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的黑白漫画/动漫风格特写插图，主角是 {argument name="character name" default="Misaki, the Green Lady"}，一位美丽的年轻女性，留着长直的 {argument name="hair color" default="柔和鼠尾草绿"} 秀发，有着绿色双眸，戴着黑色细框椭圆眼镜。画面呈现她胸部以上的特写，采用自信的三分之二侧身姿势，两根手指轻触镜框边缘，仿佛正在调整眼镜，嘴唇微张，似乎正在说话，表情沉稳而犀利。她身着精致的维多利亚风格白色衬衫，配有荷叶边袖口、前襟荷叶边装饰、黑色小纽扣、领口黑色丝带蝴蝶结以及高领细节；画面需包含 6 个清晰可见的服饰/配饰元素：眼镜、黑色领口丝带、荷叶边袖口、胸前荷叶边装饰、黑色前襟纽扣以及白色衬衫。采用高对比度的黑白漫画页风格，仅在头发、眼睛和一颗绿色爱心处保留绿色。背景：爆炸性的放射状速度线、网点纹理、墨迹飞溅、厚重的黑色冲击笔触，以及左侧和下方前景的漫画拟声词。在右侧放置一个巨大的锯齿状对话框，其中包含竖排日文文本 {argument name="speech bubble text" default="真実は\nいつもひとつ\nですわ\n💚"}；请将绿色爱心保留在文本底部。构图应充满动感与张力，角色占据画面左侧和中心，对话框占据右侧三分之一，线条清晰，采用网点阴影，头发带有光泽高光，画面中不包含其他角色，无水印，除漫画风格效果外无边框。
+
+[English]
+Create a dramatic monochrome manga/anime close-up illustration of {argument name="character name" default="Misaki, the Green Lady"}, a beautiful young woman with long straight {argument name="hair color" default="muted sage green"} hair and green eyes, wearing thin black oval glasses. She is shown from the chest up in a confident three-quarter pose, touching the bridge of her glasses with two fingers as if adjusting them, mouth slightly open mid-speech, expression composed and sharp. Her outfit is a refined white Victorian-inspired blouse with ruffled cuffs, ruffled front placket, small black buttons, a black ribbon bow at the collar, and a high neck detail; include exactly 6 visible outfit/accessory elements: glasses, black collar ribbon, ruffled cuffs, ruffled chest trim, black front buttons, and white blouse. Use a high-contrast black-and-white manga page style with selective green color only in the hair, eyes, and a green heart. Background: explosive radial speed lines, halftone textures, ink splatter, heavy black impact strokes, and manga sound-effect marks on the left and lower foreground. On the right side, place one large jagged speech bubble with vertical Japanese text reading {argument name="speech bubble text" default="真実は\nいつもひとつ\nですわ\n💚"}; keep the green heart at the bottom of the text. Composition should be dynamic and intense, with the character occupying the left and center, the speech bubble occupying the right third, crisp line art, screentone shading, glossy hair highlights, and no extra characters, no watermark, no borders beyond the manga-style effects.
+```
+
+**来源：** [@ろば店長(偽)(　￣ー￣)*ｷﾗﾝ](https://x.com/robatenc/status/2070356380708491687) | 2026-06-26
+
+---
+
+### 🎬 例 2531：猪肉味噌汤烹饪草图分镜
+
+![猪肉味噌汤烹饪草图分镜](../../images/%E7%8C%AA%E8%82%89%E5%91%B3%E5%99%8C%E6%B1%A4%E7%83%B9%E9%A5%AA%E8%8D%89%E5%9B%BE%E5%88%86%E9%95%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段 15 秒的日式烹饪 2D 动画创建一个 21:9 超宽分镜表，内容是制作 {argument name="dish name" default="猪肉味噌汤定食"}。图像应呈现为快速绘制的粗糙铅笔分镜帧，包含杂乱的草图线条、辅助线、手绘边框，除淡淡的石墨阴影外无任何色彩，并采用电影级的食物准备特写构图。
+
+画布：21:9 宽幅水平构图，白色纸张背景，细黑色粗糙铅笔线条。将画布精确划分为 12 个矩形分镜格，按 4 列 3 行排列，格间距较窄，边框略显不规则的手绘感。
+
+视觉风格：超粗糙铅笔分镜风格，线条松散且充满活力，呈现动画关键帧的草图感，可见重叠的笔触，无需精细渲染，无润色墨线，无灰度渲染，无排版文字，无标题，无水印。使用聚焦于手部、刀具、锅具、碗、蒸汽和食材的特写镜头。
+
+分镜布局与格数：使用精确的 12 个分镜格，从左到右，从上到下排列：
+1. 特写：双手在项目上用大菜刀切长条白萝卜，左侧摆放着几个半圆形切片。
+2. 特写：一只手用刀切小圆块蔬菜（可能是蘑菇或根茎类蔬菜圆片），切好的块堆在右侧。
+3. 侧视/俯视：盛水的碗或汤锅，椭圆形切片或葱花掉入液体中，表面泛起涟漪。
+4. 手部动作：在浅托盘中放置或搅拌切块的魔芋或豆腐块，手指间夹着一块圆形蔬菜。
+5. 特写：五花肉薄片在项目上被切开，肉条堆叠在左侧，刀斜放在肉上。
+6. 猪肉片在锅中煎炸，周围有油点，上方有筷子在搅拌肉片。
+7. 俯视：锅中装满切碎的蔬菜和魔芋块，筷子在白萝卜圆片和不规则块状物之间搅拌。
+8. 液体汤底从带嘴容器倒入装有食材的锅中，产生动感线条和飞溅效果。
+9. 俯视：炖煮中的汤锅，食材翻滚沸腾，一把汤勺或撇油勺从右侧伸入。
+10. 一把汤勺将味噌酱或调味料举在冒热气的锅上方，筷子辅助溶解，蒸汽环绕在汤勺周围。
+11. 汤从汤勺倒入盛汤碗中，切好的葱花从上方落下，强调装饰动作。
+12. 最终成品镜头：一碗装满猪肉、蔬菜、魔芋块和葱花的猪肉味噌汤，背景左侧放着一小碗白米饭。
+
+主体细节：仅展示手部和烹饪工具，不出现完整人物。食材应体现日式家庭料理特色：白萝卜、猪肉片、魔芋或豆腐块、葱花、汤底、味噌和米饭。强调蒸汽、气泡、切割动作、倾倒动作和筷子搅拌动作。
+
+约束条件：图像内无文字。保持分镜的粗糙感和单色调。保持 4 列 3 行共 12 个独立分镜格。使用动态动画分镜感，而非成品插画。
+
+[English]
+Goal: Create a 21:9 ultra-wide storyboard sheet for a 15-second Japanese 2D cooking animation about making a {argument name="dish name" default="Tonjiru set meal"}. The image should look like rough production storyboard frames drawn quickly in pencil, with messy sketch lines, construction strokes, hand-drawn panel borders, no color except faint graphite shading, and cinematic close-up food-prep framing.
+
+Canvas: Wide horizontal 21:9 composition, white paper background, thin black rough pencil line art. Divide the canvas into exactly 12 rectangular storyboard panels arranged in a 4 columns by 3 rows grid, with narrow gutters and slightly imperfect hand-drawn borders.
+
+Visual style: Ultra-rough pencil storyboard style, loose and energetic, sketchy animation keyframes, visible overlapping strokes, minimal clean rendering, no polished ink, no grayscale wash, no typography, no captions, no watermarks. Use close-up camera angles focused on hands, knives, pots, bowls, steam, and ingredients.
+
+Storyboard layout and panel count: Use exactly 12 panels, left to right, top to bottom:
+1. Close-up of hands slicing a long white daikon radish on a cutting board with a large kitchen knife; several semicircle slices lie to the left.
+2. Close-up of a hand slicing small round vegetables, likely mushrooms or root vegetable rounds, with a knife; cut pieces pile on the right.
+3. Bowl of water or broth seen from the side/top, with oval slices or chopped green onion rings dropping into the liquid and ripples on the surface.
+4. Hands placing or mixing cubed konnyaku or tofu-like pieces in a shallow tray, with one round vegetable held between fingers.
+5. Close-up of thin pork belly slices being cut on a cutting board, strips stacked on the left and the knife angled across the meat.
+6. Pork pieces frying in a pot or pan, oil dots around them, chopsticks stirring the meat from above.
+7. Top view of a pot full of chopped vegetables and konnyaku cubes; chopsticks stir the mixture among daikon rounds and irregular cubes.
+8. Liquid broth being poured from a spouted container into the pot of ingredients, creating motion lines and splashes.
+9. Simmering soup pot viewed from above, bubbling vigorously with ingredients visible; a ladle or skimmer enters from the right.
+10. A ladle lifts a mound of miso paste or seasoning above the steaming pot while chopsticks help dissolve it; steam curls around the ladle.
+11. Soup being poured from a ladle into a serving bowl; small sliced green onions fall from above, emphasizing the garnish action.
+12. Final serving shot: a bowl of tonjiru filled with pork, vegetables, konnyaku cubes, and green onion rings, with a separate small bowl of white rice in the background on the left.
+
+Subject details: Show only hands and cooking tools, no full characters. Ingredients should read as Japanese home cooking: daikon, pork slices, konnyaku or tofu cubes, chopped scallions, broth, miso, and rice. Emphasize steam, bubbles, cutting motion, pouring motion, and chopstick stirring.
+
+Constraints: No text inside the image. Keep the storyboard rough and monochrome. Maintain exactly 12 distinct panels in a 4 by 3 grid. Use a dynamic animation storyboard feel rather than a finished illustration.
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2070345726694203474) | 2026-06-26
+
+---
+
+### 🎬 例 2544：90 年代街头赛车漫画风格
+
+![90 年代街头赛车漫画风格](../../images/90%20%E5%B9%B4%E4%BB%A3%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+参照画像の構図、キャラクター、車両、背景、左右二分割レイアウト、カメラアングル、遠近感、シーン内容を完全に維持すること。 カラーイラストではなく、日本の{argument name="年代" default="1990年代"}走り屋漫画の完成原稿として描き直す。 画面全体を白黒漫画へ変換。 高品質な漫画原稿。 印刷前の完成原稿品質。 インクによる繊細なペン画。 Gペンによる強弱のある線。 細密なクロスハッチング。 スクリーントーンによる陰影。 衣装、髪、車体、背景すべてを漫画技法で描写。 紙の質感。 インクのにじみ。 トーン粒子。 原稿用紙へ描かれたような自然な仕上がり。 【躍動感】 画面全体へ大胆なスピード線。 流線。 集中線。 車体後方へ長く伸びる移動線。 背景流し。 路面にも流線を追加。 タイヤスモークはペンとスクリーントーンのみで描写。 煙にも流線を加える。 背景の木々。 ガードレール。 路面。 すべて高速移動による流れを漫画らしく描写。 【振動表現】 キャラクター。 髪。 肩。 腕。 手。 ハンドル。 シフトノブ。 車体。 タイヤ。 ホイール。 サスペンション。 マフラー。 リアスポイラー。 これらの輪郭周囲へ短く細い縦方向の振動線を多数追加。 高回転エンジンの振動。 荒れた路面から伝わる微振動。 高速走行時の共振。 緊張感。 速度感を漫画表現として描写。 輪郭は崩さない。 極めて細かい補助線として描く。 【人物】 真剣な表情。 鋭い視線。 高速コーナリング中の集中。 汗。 髪にも細かな振動線。 衣装にもわずかなブレ。 【車両】 車両デザインは維持。 ホイール回転は漫画表現。 タイヤ変形。 荷重移動。 車体ロール。 サスペンションの沈み込み。 ドリフト角。 タイヤスモーク。 飛び石。 路面の削れ。 すべて迫力ある漫画描写。 【擬音】 画面内へ巨大な漫画擬音を追加する。 擬音は1コマにつき主役となるものを1種類のみ配置する。 小さな擬音を大量に配置しない。 複数種類の擬音を散りばめない。 巨大な擬音が画面全体の印象を支配する構図とする。 擬音は漫画の描画要素として描く。 フォントではない。 漫画家が筆とペンで直接描いたような手描き文字。 白ベタ塗り。 極太黒縁。 勢いのある輪郭。 筆圧のムラ。 インクのかすれ。 わずかな歪み。 遠近法に合わせて自然に変形。 背景のパースへ沿わせる。 人物や車体へ大胆に重ねてもよい。 背景へ食い込ませてもよい。 コマから大胆にはみ出してもよい。 画面外へ見切れてもよい。 可読性より画面演出を優先する。 巨大なグラフィックとして画面へ溶け込ませる。 その場面に最適な擬音を1種類のみ自然に選択する。 例として {argument name="擬音" default="ギャアアア"} など。 【仕上げ】 左右は同じ瞬間を異なる視点から描いた漫画コマとして扱う。 セリフ。 吹き出し。 モノローグ。 タイトル。 ページ番号。 作者名。 ロゴ。 ウォーターマークは追加しない。 画面全体を、日本の1990年代走り屋漫画雑誌へ掲載される完成原稿品質で仕上げる。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2070297554328404212) | 2026-06-26
+
+---
+

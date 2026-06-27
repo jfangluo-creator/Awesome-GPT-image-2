@@ -11047,3 +11047,733 @@ Style constraints: Modern Chinese social-media greeting-card design, refined and
 
 ---
 
+### 🎴 例 2459：极简 Nike 运动鞋广告海报
+
+![极简 Nike 运动鞋广告海报](../../images/%E6%9E%81%E7%AE%80%20Nike%20%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+担任资深商业艺术总监及精英产品广告设计师，专注于高端 Nike 全球产品推广及顶级社交媒体创意设计。
+
+创作一张超高端 Nike 运动鞋广告海报，灵感源自现代极简主义编辑类产品广告，结合大胆的几何构图、干净的奢华设计以及强有力的品牌叙事。
+
+垂直 4:5 构图。
+
+艺术指导：
+极简而有力。
+大胆且整洁。
+高级运动奢华美学。
+Behance 首页级品质。
+每个元素都必须显得刻意且经过商业打磨。
+
+构图：
+设计一种动态的非对称构图，使用大型抽象几何形状而非写实平台。
+利用分层的建筑形状和交叉平面来营造深度与视觉张力。
+强烈的焦点层级，留有充足的负空间。
+产品主导构图，同时保持布局的整洁与高级感。
+
+核心产品：
+一双高级 Nike 运动鞋作为核心主体悬浮，占据画面高度的 35%–45%。
+清晰可见的 Nike Swoosh 品牌标识。
+超细节的网面、皮革及鞋底工艺。
+轮廓清晰，边缘定义完美。
+写实的鞋带及高级材质还原度。
+
+几何模块：
+边缘锐利干净的大型抽象几何表面。
+混合角度平面、悬浮块及微妙的层叠阴影。
+现代建筑设计语言。
+形状应起到支撑产品构图和营造深度的作用。
+
+排版系统：
+超大号加粗压缩版 NIKE 字体，作为图形元素融入背景。
+字体被画面边缘部分裁剪。
+半透明分层效果。
+视觉重量感强，但不会喧宾夺主。
+
+可选辅助词：
+AIR
+SPEED
+RUN
+
+背景：
+干净的高级渐变背景，带有微妙的大气深度。
+冷暖色调之间的柔和过渡。
+允许出现极简云纹或柔和的环境雾气。
+拒绝视觉杂乱。
+
+灯光：
+高端商业产品灯光。
+柔和的主光，带有清晰的镜面高光。
+受控的阴影。
+增强轮廓的微妙轮廓光。
+高级材质反射。
+
+色彩系统：
+受控的高级调色板。
+主要聚焦于运动鞋配色。
+中性背景搭配一种强烈的强调色。
+产品与环境之间形成高对比度。
+
+微观细节：
+微妙的产品着地阴影。
+干净的接触阴影。
+精致的反射效果。
+奢华产品真实感。
+
+摄影：
+高级商业产品摄影视角。
+轻微的透视变形以增加动感。
+平衡的编辑类构图。
+
+后期处理：
+微妙的泛光效果
+微对比度锐化
+光泽印刷质感
+边缘精修
+
+质量：
+超写实
+照片级商业广告
+高级 Nike 全球推广品质
+超细节
+8K UHD
+
+负面提示词：
+无杂乱
+无随机文字
+无 AI 伪影
+无变形的运动鞋
+无廉价图形
+无混乱的构图
+
+[English]
+Act as a senior commercial art director and elite product advertising designer specializing in premium Nike global product campaigns and high-end social media creatives.
+
+Create an ultra-premium Nike sneaker campaign poster inspired by modern minimalist editorial product advertising, combining bold geometric composition, clean luxury design, and strong brand storytelling.
+
+Vertical 4:5 composition.
+
+ART DIRECTION:
+Minimal yet powerful.
+Bold but clean.
+Premium sports luxury aesthetic.
+Behance front-page quality.
+Every element must feel intentional and commercially polished.
+
+COMPOSITION:
+Design a dynamic asymmetrical composition using large abstract geometric forms instead of literal platforms.
+Use layered architectural shapes and intersecting planes to create depth and visual tension.
+Strong focal hierarchy with generous negative space.
+Product dominates the composition while the layout remains clean and premium.
+
+HERO PRODUCT:
+A premium Nike sneaker floating as the dominant hero object, occupying 35–45 percent of frame height.
+Visible Nike swoosh branding.
+Ultra-detailed mesh, leather, and sole engineering.
+Crisp silhouette with perfect edge definition.
+Realistic laces and premium material fidelity.
+
+GEOMETRY BLOCK:
+Large abstract geometric surfaces with sharp clean edges.
+Mix of angled planes, floating blocks, and subtle layered shadows.
+Modern architectural design language.
+Shapes should support product framing and depth.
+
+TYPOGRAPHY SYSTEM:
+Oversized bold condensed NIKE typography integrated into the background as a graphic design element.
+Typography partially cropped by frame edges.
+Semi-transparent layering.
+Strong visual weight without overpowering product.
+
+Optional supporting words:
+AIR
+SPEED
+RUN
+
+BACKGROUND:
+Clean premium gradient background with subtle atmospheric depth.
+Soft transition between cool and warm tones.
+Minimal cloud textures or soft ambient haze allowed.
+No visual clutter.
+
+LIGHTING:
+High-end commercial product lighting.
+Soft key light with crisp specular highlights.
+Controlled shadows.
+Subtle rim lighting enhancing silhouette.
+Premium material reflections.
+
+COLOR SYSTEM:
+Controlled premium palette.
+Primary focus on sneaker colorway.
+Neutral background with one strong accent tone.
+High contrast between product and environment.
+
+MICRO DETAILS:
+Subtle product shadow anchoring.
+Clean contact shadows.
+Refined reflections.
+Luxury product realism.
+
+CAMERA:
+Premium commercial product photography angle.
+Slight perspective distortion for energy.
+Balanced editorial framing.
+
+POST PROCESS:
+Subtle bloom
+Micro contrast sharpening
+Glossy print finish
+Clean edge refinement
+
+QUALITY:
+Hyper-realistic
+Photorealistic commercial advertising
+Premium Nike global campaign quality
+Ultra-detailed
+8K UHD
+
+NEGATIVE:
+No clutter
+No random text
+No AI artifacts
+No distorted sneaker
+No cheap graphics
+No messy composition
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2070562623440187447) | 2026-06-26
+
+---
+
+### 🎴 例 2461：动态 Cristiano Ronaldo 海报
+
+![动态 Cristiano Ronaldo 海报](../../images/%E5%8A%A8%E6%80%81%20Cristiano%20Ronaldo%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具动态感的 {argument name="athlete" default="Cristiano Ronaldo"} 海报，围绕运动的视觉语言进行构建。不要使用运动模糊，而是通过动态排版、方向性几何图形、分层编辑结构和图形节奏来表达速度。构图捕捉了曼联时期 Cristiano Ronaldo 强力变向的瞬间，使用 {argument name="lens" default="35mm 编辑镜头"} 拍摄，产生轻微的透视畸变和戏剧性的能量感。肖像应保持极其清晰，同时周围的每一个设计元素都要传达出加速感。超大字体像流动的线条一样横跨整个构图。方向箭头、模块化信息系统、碎片化图形块、重复的数字结构和分层视觉标记，共同营造出一种精致且受控的动量感。配色方案结合了 {argument name="colors" default="哑光黑、清爽白和荧光绿"}。荧光绿应作为视觉导航系统而非装饰，引导观众浏览整个构图。整体美学应呈现出由世界顶级品牌工作室打造的精英体育形象项目质感，而非传统的足球海报。
+
+[English]
+Create a highly dynamic {argument name="athlete" default="Cristiano Ronaldo"} poster built around the visual language of movement. Instead of using motion blur, express speed through kinetic typography, directional geometry, layered editorial structures, and graphic rhythm. The composition captures Manchester United-era Ronaldo during a powerful change of direction, photographed with a {argument name="lens" default="35mm editorial lens"} that creates slight perspective distortion and dramatic energy. The portrait should remain exceptionally sharp while every surrounding design element communicates acceleration. Oversized typography stretches across the composition like streams of movement. Directional arrows, modular information systems, fragmented graphic blocks, repeated numerical structures, and layered visual markers create a sophisticated sense of controlled momentum. The palette combines {argument name="colors" default="matte black, crisp white, and fluorescent lime"}. The lime should function as a visual navigation system rather than decoration, guiding the viewer through the composition. The overall aesthetic should feel like an elite sports identity project created by one of the world's leading branding studios rather than a traditional football poster.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2070542892159172968) | 2026-06-26
+
+---
+
+### 🎴 例 2466：震撼的体育海报设计
+
+![震撼的体育海报设计](../../images/%E9%9C%87%E6%92%BC%E7%9A%84%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅体育海报构图，{argument name="subject" default="虚构的足球运动员正在庆祝"} 双臂高举，画面左侧充满全彩条纹爆炸效果，采用 {argument name="gradient colors" default="红、绿、金渐变色"}，足球悬浮在半空中，右侧留有干净的负空间用于放置球队标志或标题文字，专业体育广告海报设计，垂直 4:5
+
+[English]
+Wide sports poster composition, {argument name="subject" default="fictional soccer player celebrating"} with arms raised, full color-streak explosion effect filling the left side of frame in {argument name="gradient colors" default="red, green and gold gradient"}, soccer balls suspended mid-air, clean negative space on right side for team logo or caption text, professional sports advertising poster design, vertical 4:5
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2070534481883324923) | 2026-06-26
+
+---
+
+### 🎴 例 2474：浮世绘风格骷髅社畜语录海报
+
+![浮世绘风格骷髅社畜语录海报](../../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E9%A3%8E%E6%A0%BC%E9%AA%B7%E9%AB%85%E7%A4%BE%E7%95%9C%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张暗黑且细节丰富的日式浮世绘风格海报，以骷髅社畜作为冷峻的励志形象，将江户时代的木版画质感与现代职场倦怠的讽刺感相结合。
+
+画布：竖版海报，比例约为 4:5，背景为陈旧的羊皮纸，带有厚重的黑色边框、风化的纸张污渍、墨迹飞溅、划痕、做旧的印刷颗粒，色调采用柔和的棕褐色、黑色、炭灰色、骨白色和深绯红色。
+
+布局：将画面在视觉上分为两个区域。左侧放置一个占据约四分之一宽度的长方形羊皮纸书法面板，并以细黑色装饰线勾边。右侧和中心放置主角，形象高大且具有戏剧性，站在或蹲伏在岩石堆上，骷髅后方由巨大的黑色水墨圆环衬托。在左下角背景中加入海浪、烟雾状云朵和微小的富士山景观。包含 3 个主要文本区域：左侧 1 个大型竖排日文引语面板，左下角 1 个小型英文翻译块，以及右下角公文包上 1 个小型手写标签。
+
+主体：一具全身人类骷髅，身穿破旧的深海军蓝黑色西装或大衣，华丽但已腐朽，袖口磨损，布料撕裂，露出肋骨和骨骼，红色的领带丝带向右飘动，带有装饰性金边和悬挂的小护身符。骷髅有空洞的黑色眼眶和微微张开的咧嘴下颚。左手拿着一个复古的黑色黄铜扩音器靠近嘴边；扩音器上贴有一张垂直的小纸标签，写着「社畜课」。右侧的骷髅手下垂，提着一个带有金属包角的破旧黑色皮公文包。角色胸前的垂直名牌上写着「终电严守」。在右下角边缘附近，添加一只半隐藏在公文包后的黑猫，眼睛发出黄色的光。
+
+文本内容：在左侧书法面板上，书写醒目且富有表现力的竖排日文毛笔书法：「{argument name="Japanese quote" default="道を選ばずして、何が人生だ。"}」。下方配以较小的竖排日文：「武者小路实笃　生きて行く私」，并盖上两枚红色印章。在左下角，添加一段灰白色的小型衬线字体英文翻译：“To live is to choose. To choose is to risk. To risk is to become.”，随后标注“Saneatsu Mushanokōji”和“Ikiteyuku Watashi”。在公文包的标签上，用粗犷的手写体日文写上「本日も苦労様でした」。
+
+风格：复杂的线条，戏剧性的漫画与浮世绘结合的插画，复古木版画，粗犷的蚀刻细节，粗糙的墨线，高对比度阴影，不对称构图，华丽的腐朽纹理，庄重而带有黑色幽默的氛围。使其看起来像是一张古老的日本谚语插画海报，而非干净的数字绘画。
+
+约束：仅使用 1 个骷髅角色、1 个扩音器、1 个公文包、1 只黑猫、1 座富士山、1 个大型水墨圆环、2 枚红色印章和 3 个主要文本区域。所有指定位置的日文文本必须保持竖排，避免使用现代标志或水印，且不要添加额外角色。
+
+[English]
+Goal: Create a dark, highly detailed Japanese ukiyo-e style poster featuring a skeletal salaryman as a grim motivational figure, combining Edo-period woodblock print texture with modern corporate burnout satire.
+
+Canvas: Vertical poster, roughly 4:5 aspect ratio, aged parchment background with heavy black border, weathered paper stains, ink splatter, scratches, distressed print grain, muted tan, black, charcoal, bone white, and deep crimson palette.
+
+Layout: Split the image visually into two zones. On the left, place a tall rectangular parchment calligraphy panel occupying about one quarter of the width, bordered with thin black ornamental lines. On the right and center, place the main character large and dramatic, standing or perched on a rocky mound, framed by a huge black circular ink-brush halo behind the skull. Add waves, smoke-like clouds, and a small Mount Fuji landscape in the lower left background. Include exactly 3 main text areas: 1 large vertical Japanese quote panel on the left, 1 small English translation block near the bottom left, and 1 small handwritten label on the briefcase at bottom right.
+
+Main subject: A full-body human skeleton wearing a tattered dark navy-black business suit or overcoat, ornate but decayed, with frayed sleeves, ripped fabric, exposed ribs and bones, red torn necktie ribbons blowing to the right, decorative gold trim, and small hanging talismans. The skull has hollow black eye sockets and a slightly open grinning jaw. The figure holds a vintage black and brass megaphone near its mouth in the left hand; the megaphone has a small vertical paper label reading 「社畜課」. The right skeletal hand hangs down holding a battered black leather briefcase with metal corners. A vertical name tag on the character’s chest reads 「終電厳守」. Add a small black cat with glowing yellow eyes partially hidden behind the briefcase near the lower right edge.
+
+Text content: On the left calligraphy panel, write large expressive vertical Japanese brush calligraphy: 「{argument name="Japanese quote" default="道を選ばずして、何が人生だ。"}」. Beneath it in smaller vertical Japanese text: 「武者小路実篤　生きて行く私」, plus two red seal stamps. In the lower left corner, add a small serif English translation in off-white: “To live is to choose. To choose is to risk. To risk is to become.” followed by “Saneatsu Mushanokōji” and “Ikiteyuku Watashi”. On the briefcase label, write 「本日も苦労様でした」 in rough handwritten Japanese.
+
+Style: Intricate linework, dramatic manga-meets-ukiyo-e illustration, antique woodblock print, gritty etching detail, rough ink outlines, high contrast shadows, asymmetrical composition, ornate decayed textures, solemn but darkly humorous mood. Make it look like an old Japanese illustrated proverb poster rather than a clean digital painting.
+
+Constraints: Use exactly 1 skeleton character, 1 megaphone, 1 briefcase, 1 black cat, 1 Mount Fuji, 1 large ink-brush circle, 2 red seal stamps, and 3 main text areas. Keep all Japanese text vertical where specified, avoid modern logos or watermarks, and do not add extra characters.
+```
+
+**来源：** [@番号の人](https://x.com/bangounohito477/status/2070514268181786776) | 2026-06-26
+
+---
+
+### 🎴 例 2487：带有动态轨迹的时尚编辑杂志封面
+
+![带有动态轨迹的时尚编辑杂志封面](../../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的人脸作为精确的身份参考，创作一张高端时尚编辑杂志封面。在保持照片级真实感的同时，保留面部结构、发型、胡须、肤色以及整体相似度。
+
+主体以全身姿态呈现，摆出时尚的舞蹈动作，身着 {argument name="outfit" default="一件高级黑色缎面开领衬衫、定制黑色阔腿裤、抛光黑色皮鞋以及时髦的黑色墨镜"}。头发梳成利落的男士发髻。表情冷静、自信且充满时尚感。
+
+创建动态轨迹效果，在主体身后和侧面自然地放置 3–4 个半透明的重影版本，展示之前的动作帧。中心人物清晰锐利，而动态重影则带有柔和的模糊感和降低的不透明度，营造出高级的电影级动态效果。
+
+背景为无缝的 {argument name="backdrop color" default="深绯红至暗红色"} 摄影棚背景，带有微妙的渐变灯光、柔和的雾气，以及将主体与背景分离的戏剧性轮廓光。灯光采用时尚编辑级质量，具备柔和的主光、微妙的阴影以及光泽面料的高光效果。
+
+杂志封面设计：
+• 左上角垂直排列巨大的粗体白色文字 "{argument name="magazine title" default="MOTION"}"。
+• 下方配有小字标语："MOVE DIFFERENT. LEAVE MARKS."
+• 左下角包含带有小字的逼真条形码："SUMMER COLLECTION 2026"。
+• 右下角包含用于真实杂志排版的微小编辑占位文本。
+• 简洁的奢华排版，间距完美，设计极简。
+
+风格：Vogue、GQ、Esquire、奢华时尚广告、电影级编辑摄影、超写实、超细节、高级摄影棚拍摄、8K 分辨率、锐利对焦、逼真的皮肤毛孔、自然的皮肤纹理、准确的解剖结构、高级调色、浅景深、高动态范围、获奖时尚摄影。
+
+[English]
+Create a high-end fashion editorial magazine cover using the uploaded face as the exact identity reference. Preserve the facial structure, hairstyle, beard, skin tone, and overall likeness with photorealistic accuracy.
+
+The subject is captured full-body in a stylish dance pose, wearing {argument name="outfit" default="a premium black satin open-collar shirt, tailored black wide-leg trousers, polished black leather shoes, and sleek black sunglasses"}. Hair is tied into a neat man bun. Expression is calm, confident, and effortlessly stylish.
+
+Create a motion-trail effect with 3–4 semi-transparent ghosted versions of the subject positioned naturally behind and beside him, showing previous movement frames. The central figure is perfectly sharp while the motion duplicates are softly blurred with reduced opacity, creating a premium cinematic movement effect.
+
+Background is a seamless {argument name="backdrop color" default="deep crimson-to-dark-red"} studio backdrop with subtle gradient lighting, soft haze, and dramatic rim lighting separating the subject from the background. The lighting is fashion-editorial quality with soft key light, subtle shadows, and glossy fabric highlights.
+
+Magazine cover design:
+• Huge bold white text "{argument name="magazine title" default="MOTION"}" vertically aligned on the upper left.
+• Small tagline beneath: "MOVE DIFFERENT. LEAVE MARKS."
+• Bottom left includes a realistic barcode with small text: "SUMMER COLLECTION 2026".
+• Bottom right contains tiny editorial placeholder text for an authentic magazine layout.
+• Clean luxury typography with perfect spacing and minimal design.
+
+Style: Vogue, GQ, Esquire, luxury fashion campaign, cinematic editorial photography, hyper-realistic, ultra-detailed, premium studio shoot, 8K resolution, razor-sharp focus, realistic skin pores, natural facial texture, accurate anatomy, premium color grading, shallow depth of field, high dynamic range, award-winning fashion photography.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2070451918384795841) | 2026-06-26
+
+---
+
+### 🎴 例 2490：金字塔旅行封面海报
+
+![金字塔旅行封面海报](../../images/%E9%87%91%E5%AD%97%E5%A1%94%E6%97%85%E8%A1%8C%E5%B0%81%E9%9D%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张关于旅行观点类话题的小红书 / 社交媒体封面海报，以吉萨大金字塔的电影感照片为背景，采用醒目的杂志风格排版。
+
+画布：竖版 3:4 海报，约 768 × 1024 像素，全出血图像背景，现代杂志封面构图。使用冷蓝灰色天空、暖色调沙地金字塔高光，添加细腻的胶片颗粒、雾气、光斑漏光效果，以及前景略微模糊的岩石以增强深度感。
+
+主体：一座巨大的金字塔，位置略微偏右，采用低角度仰拍，塔尖位于中上方。右侧面为暖米色阳光照射，左侧面为深蓝灰色阴影。底部为沙漠地面，背景为大气云层天空。
+
+排版与布局：使用超大号加粗白色中文字体，厚重的无衬线字体，在顶部、左侧和底部进行大胆的裁切，使部分巨大字符延伸至画布外，呈现现代海报风格。将主标题置于左下/中部区域，分为两行堆叠：{argument name="headline text" default="不建议去\n10个理由"}。标题需保持超大、白色、块状，并与金字塔略微重叠。
+
+左上角细节：添加一个白色轮廓定位图标。其右侧放置两行大写文字：{argument name="location label" default="GIZA PYRAMIDS\nEGYPT"}。下方添加一条细水平线和一个紧凑的条形码状图案。
+
+右侧垂直信息栏：在右上角附近，将大号白色数字“20”堆叠在“25”上方。下方添加小号大写文字“DREAM / RECORD”，一条短分隔线，然后是四行堆叠的日期文字：{argument name="date text" default="MAY.\n18\nSUN"}。在日期下方，垂直排列四个小号轮廓社交图标：心形、聊天气泡、星形和纸飞机/发送图标。下方添加一条细水平分隔线，接着是垂直排列的大写文字“NOT RECOMMENDED”，以及一条向下延伸的细垂直线。
+
+左侧及下方微型文字：在主标题下方，添加三行小号大写英文文字：“REASONS / NOT TO / GO”，然后是一条短分隔线。下方水平排列五个小号轮播点：第一个点为白色实心，其余四个为轮廓圆圈。沿左下边缘，垂直旋转排列小号文字“@ DREAM ARCHIVE”，上方带有两个微小的圆形社交风格图标。
+
+右下角说明：添加一个小号地球轮廓图标和一段紧凑的白色说明文字：{argument name="caption text" default="Some places\nare better left\nas dreams. —"}.
+
+视觉风格：极简奢华杂志封面，低饱和度旅行摄影，高对比度白色排版，简洁的 UI 式标注，柔和颗粒感，电影级调色，无边框，无水印。设计应呈现出 2025 年旅行内容创作者关于“不建议前往金字塔”的封面风格。
+
+[English]
+Goal: Create a stylish Xiaohongshu / social-media cover poster about a travel opinion topic, using a cinematic photo of the Great Pyramid of Giza as the background and bold editorial typography.
+
+Canvas: Vertical 3:4 poster, about 768 × 1024 px, full-bleed image background, modern magazine-cover composition. Use a cool blue-gray sky, warm sandy pyramid highlights, subtle film grain, haze, bokeh light leaks, and a slightly blurred foreground rock for depth.
+
+Main subject: A large pyramid centered slightly right, viewed from a low angle, with the apex near the upper middle. The right face is sunlit warm beige, the left face is dark blue-gray shadow. Desert ground at the bottom, atmospheric cloudy sky behind it.
+
+Typography and layout: Use oversized bold white Chinese display type, heavy sans-serif, cropped dramatically at the top, left edge, and bottom edge so parts of giant characters extend off-canvas like a contemporary poster. Place the main headline over the lower-left/middle area in two stacked lines: {argument name="headline text" default="不建议去\n10个理由"}. Keep the headline very large, white, blocky, and slightly overlapping the pyramid.
+
+Top-left details: Add a small white outlined location-pin icon. To its right place two uppercase lines: {argument name="location label" default="GIZA PYRAMIDS\nEGYPT"}. Under it add a short thin horizontal line and a compact barcode-like stripe.
+
+Right-side vertical info column: Near the upper right, stack large white numerals as “20” above “25”. Below add small uppercase text “DREAM / RECORD”, a short divider line, then date text in four stacked lines: {argument name="date text" default="MAY.\n18\nSUN"}. Under the date, include exactly four small outlined social icons in a vertical row: heart, chat bubble, star, and paper-plane/send icon. Farther down add a thin horizontal divider, then vertical uppercase text reading “NOT RECOMMENDED”, and a thin vertical line extending downward.
+
+Left and lower microtext: Under the main headline, add small uppercase English text in three lines: “REASONS / NOT TO / GO”, then a short divider line. Below it place exactly five small carousel dots in a horizontal row: the first dot filled white, the other four outlined circles. Along the lower-left edge, rotate small text vertically reading “@ DREAM ARCHIVE” with two tiny circular social-style icons above it.
+
+Bottom-right caption: Add a small globe outline icon and a compact white caption: {argument name="caption text" default="Some places\nare better left\nas dreams. —"}.
+
+Visual style: Minimal luxury editorial cover, muted travel photography, high-contrast white typography, clean UI-like annotations, soft grain, cinematic color grading, no border, no watermark. The design should feel like a 2025 travel content creator cover warning against visiting the pyramids.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2070444042907955589) | 2026-06-26
+
+---
+
+### 🎴 例 2499：中式婚礼邀请函海报
+
+![中式婚礼邀请函海报](../../images/%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版中式婚礼邀请函海报，采用简洁的杂志摄影风格，将影棚新人肖像与醒目的传统红色排版及票据式邀请信息相结合。
+
+画布：高竖版 9:16 海报，暖象牙色/米白色背景，带有圆角装饰切口和精细内边框的复古红色细边框。采用红白配色，点缀少量柔和的金色，印刷设计清晰，高分辨率。
+
+主体布局：在新人身后放置 1 个巨大的亮红色中式“囍”字，居中并填满大部分中上部背景。前方居中偏下位置放置 1 位新娘和 1 位新郎的半身像。新郎站在左侧，身穿白色西装外套、白衬衫，系红色领结，佩戴带有丝带的红色花卉胸花；左手举起 1 本红色结婚证。新娘站在右侧，身穿露肩白色婚纱，佩戴珍珠项链和红色花卉胸花/丝带，深色盘发上装饰着红白小花；她胸前拿着 1 本配套的红色结婚证，右手轻抚发际，姿态俏皮。将两人的面部进行方形马赛克模糊处理，同时保持服装和姿势清晰。
+
+可见元素计数：恰好 2 人，恰好 2 本红色结婚证，恰好 1 个超大红色“囍”字，左右两侧中部边缘各有 1 个小爱心图标，侧边边缘各有 2 条垂直条形码状装饰，右上角有 1 个圆形“囍”字印章，右下角有 1 个带有 3 条波浪形邮戳线的圆形“囍”字印章，底部有 3 个主要信息块，最底端中心有 1 个红色小爱心。
+
+顶部票据页眉：添加红色细横线和微小的标签文字。左侧显示“No.”后接 {argument name="invitation number" default="5201314"}。中间显示“DATE”后接 {argument name="wedding date" default="2024 年 05 月 20 日"}。右侧显示“TIME”后接 {argument name="wedding time" default="13:14"}。右上角放置一个包含中式“囍”字的圆形红色印章。
+
+侧边文字：沿左侧边缘，设置红色竖排中式婚礼文字，包括 {argument name="left vertical blessing" default="喜结良缘 · 同喜同欢"}。沿右侧边缘，设置竖排中式文字，包括 {argument name="right vertical blessing" default="愿得一人心 · 白首不相离"}。左侧添加竖排英文标签“WEDDING INVITATION”，右侧添加“GOOD LUCK”。
+
+底部区域：使用一个占据底部四分之一的红色细框带。内部创建 3 个区块。左侧区块为一个带中文标题的方框信息卡，配有小字英文“THE WEDDING”、日期“2024 年 05 月 20 日”以及简短的中式流程/地点说明。中间区块最大，采用醒目的红色毛笔书法书写 {argument name="main calligraphy text" default="我们结婚啦!"}，上方有一个红色小爱心，下方配有微小的英文“WELCOME TO OUR WEDDING”及一行简短的中文祝福语。右侧区块为一个方框卡片，显示邀请编号“5201314”、一句寓意终身相守的中文短语以及红色印章/邮戳图案。最底部添加微小的寄件人/收件人文字：左侧为“FROM Mr. 霖 & Mrs. 晶”，右侧为“TO 亲爱的您”。
+
+视觉风格：现代中式婚礼邀请函美学，极简留白，精准的矢量风格红色印刷元素，新人影棚柔光照明，浪漫喜庆且优雅。保持排版清晰，巨型字符使用粗体红色，所有边框和标签使用精致的红色细线。避免出现多余人物、多余证件、随机道具、水印或不相关的装饰。
+
+[English]
+Goal: Create a vertical Chinese wedding invitation poster with a joyful modern red-and-cream aesthetic, combining a studio wedding photo cutout with bold typographic graphics.
+
+Canvas: 9:16 vertical poster, warm off-white background, thin double red border with decorative clipped corner flourishes, print-like invitation layout, clean margins, high resolution.
+
+Main layout: At the top center, place small ticket-style metadata lines: “No. 5201314”, “DATE 2024 / 05 / 20”, and “TIME 13:14”. Add a circular red double-happiness seal in the upper right. The center background is dominated by one enormous bright-red Chinese character “囍”, blocky geometric style, cropped slightly by the couple in front.
+
+Subject details: In the lower-middle foreground, show a smiling young Chinese bride and groom from the waist up. The groom stands left, wearing an ivory white suit jacket, white shirt, burgundy bow tie, and red wedding boutonniere ribbon; he has short black styled hair and smiles warmly toward the bride while holding one red marriage certificate booklet raised in his left hand. The bride stands right, wearing an off-shoulder white wedding dress, pearl necklace, floral red-and-white hair accessories, red bridal earrings, and a red corsage ribbon; she smiles back at the groom, makes a V-sign near her cheek with one hand, and holds one red marriage certificate booklet in the other hand. There are exactly 2 visible red marriage certificate booklets, both with gold Chinese emblem and wedding registration text.
+
+Side text and decorative marks: Add vertical red Chinese blessing text on both sides of the large “囍”; left side reads “喜结良缘 · 同喜同欢”, right side reads “愿得一人心 · 白首不相离”. Add small heart icons and barcode-like vertical red decorative strips labeled in English “WEDDING INVITATION” on the left and “GOOD LUCK” on the right.
+
+Bottom information panel: Create a horizontal boxed invitation section occupying the bottom quarter. It contains exactly 3 main information blocks: left boxed details, central handwritten headline, and right boxed details. Left block title “喜事专列”, include labels and text such as “THE WEDDING”, “受宴时间 2024年05月20日”, “受宴地点 幸福婚姻登记处”, “行驶期限 一生一世”, and “FROM Mr. 曾 & Mrs. 蔡”. Center block uses large expressive red brush calligraphy reading {argument name="main headline text" default="我们结婚啦!"}, with a small red heart above and small English “WELCOME TO OUR WEDDING” below. Right block includes “受邀编号 5201314”, “承诺期限 一生一世”, a small circular double-happiness stamp, wavy postal cancellation lines, and “TO 亲爱的您”.
+
+Text customization: Use the couple names {argument name="couple names" default="Mr. 曾 & Mrs. 蔡"}, wedding date {argument name="wedding date" default="2024年05月20日"}, invitation number {argument name="invitation number" default="5201314"}, and ceremony location {argument name="ceremony location" default="幸福婚姻登记处"} consistently wherever those values appear.
+
+Visual style: Minimalist contemporary Chinese wedding design, auspicious red typography, cream paper texture, crisp vector border lines, realistic bright studio photography for the couple, soft flattering lighting, cheerful celebratory mood, balanced negative space, no watermark, no extra people, no extra booklets.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2070422842039292293) | 2026-06-26
+
+---
+
+### 🎴 例 2501：中式书法品牌形象海报
+
+![中式书法品牌形象海报](../../images/%E4%B8%AD%E5%BC%8F%E4%B9%A6%E6%B3%95%E5%93%81%E7%89%8C%E5%BD%A2%E8%B1%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为书法字标创作一张精致的中式形象设计展示海报，以两个大型黑色水墨书法汉字 {argument name="main Chinese logotype" default="晓峰"} 为核心，采用优雅的品牌案例研究布局及说明性标注图形。
+
+画布：3:4 比例的竖版海报，温暖的米白色宣纸背景，带有细腻的纤维纹理和浅米灰色陈旧感，留白充足，呈现极简的高级编辑排版风格。
+
+主体构图：将巨大的黑色书法字标置于中心偏左位置，占据页面中部。笔触应富有表现力、棱角分明且具有建筑感，呈现干笔渐变、粗糙的墨迹边缘、锋利的钩笔末端以及笔画内细微的留白。在字标下方中心附近添加一枚红色方形印章。
+
+文字层级：在主字标下方，设置间距宽阔的拼音 {argument name="romanized name" default="XIAO FENG"}，随后是一条细长的水平分割线，两侧为较小的中文名称，再下方是小号大写英文字体 {argument name="English subtitle" default="DAWN PEAK"}。保持排版精致、字间距宽、灰色且低调。
+
+左上角标识区：在左上角添加一个小型垂直对齐的品牌标题，包含中文和英文行。包含 4 行可见文字：“学生万象”、一条短横线、“品牌标识提案”以及“IDENTITY DESIGN”。使用微小的灰色衬线体或宋体。
+
+右上角座右铭区：在右上角添加一段狭长的垂直中文短语 {argument name="vertical motto" default="晓启乾坤  峰立云间"}，下方配有一枚小红印。
+
+右侧标注系统：在字标右侧创建 3 个分析元素。首先，用一个细红圈高亮显示第二个字的顶部笔锋，通过红色引导线连接至标签“细节解析”。其次，一个红色轮廓的方形插图显示该笔锋的放大细节，下方标注“提气笔”及小字“峰顶意象”。第三，在其下方放置一张带有浅色边框的矩形说明卡，标题为“设计说明”，包含一段紧凑的中文段落和 4 个带红色圆圈编号的要点。
+
+左下角细节标注：添加 1 个圆形放大插图，展示第一个字左下角内部的笔画细节，带有精细的黑色构造线和浅色半圆高亮。其右侧放置小标题“设计说明”及一段微小的灰色中文说明文字。
+
+右下角结构标注：添加 1 个淡雅的技术构造图，标注为“字形结构”，下方附带英文“STRUCTURE”，展示细线条的几何辅助线及低透明度的字标轮廓。
+
+视觉风格：高端中式品牌展示，学术性形象设计提案，克制的红色标注线，灰色微型排版，黑色水墨书法，细腻的印章红点缀，精致的网格状说明细节，博物馆目录般的静谧留白。
+
+约束条件：使用 2 个主要中式书法汉字，2 枚红色印章，3 个右侧分析元素，1 个左下角圆形插图，以及 1 个右下角结构图。所有标注需保持精巧准确，避免现代 UI 风格，避免鲜艳色彩，避免杂乱，并保留海报优雅的留白。
+
+[English]
+Goal: Create a refined Chinese identity-design poster for a calligraphic wordmark, centered on the two large brush characters {argument name="main Chinese wordmark" default="晓峰"}, with an elegant academy branding presentation and detailed typographic annotations.
+
+Canvas: Portrait poster, approximately 3:4 aspect ratio, warm off-white rice-paper background with subtle fiber texture, light gray ink speckles, generous negative space, and a quiet minimalist premium design mood.
+
+Layout: Place the oversized black ink calligraphy wordmark in the center, spanning most of the width. The two discrete main characters are: 1) left character “晓”, 2) right character “峰”. Below the wordmark, add a small red square seal centered, then widely spaced romanization “XIAO FENG”, then a thin divider line with “晓 · 峰”, then small English text “DAWN PEAK”. Use muted gray and cinnabar red for all annotation lines and seals.
+
+Top-left branding: Add small vertical/stacked Chinese text “学生万象”, a short horizontal divider line, then “品牌标识提案”, and small English text “IDENTITY DESIGN”. Keep it light gray, tiny, and aligned near the upper-left margin.
+
+Top-right motto: Add a narrow vertical Chinese phrase near the upper-right edge: “晓启乾坤  峰立云间”, with a tiny red seal stamp beneath it.
+
+Annotation system: Use exactly 4 visible analysis modules around the main wordmark. 1) Upper-right stroke callout: circle the top peak-like stroke of the right character, connect it with thin red leader lines to the label “细节解析”. 2) Right inset box: a thin red square frame containing an enlarged cropped black brush stroke from the character “峰”, with the label “提气笔” and small text “峰顶意象” below. 3) Right explanatory card: a pale gray rectangular text box titled “设计说明”, containing several short Chinese paragraphs and exactly 4 numbered red bullet points. 4) Bottom-left circular detail: a round magnified crop of the lower-left internal structure of “晓”, showing a small sunrise-like white semicircle and fine black rays, with a nearby title “设计说明” and short explanatory paragraph.
+
+Additional lower-right structure diagram: Add a very light technical construction sketch labeled “字形结构” and “STRUCTURE”, showing thin pale gray outline strokes of the wordmark, partially transparent and subordinate to the main design.
+
+Subject details: The calligraphy should be bold, expressive, and architectural, with dry-brush texture, uneven ink density, sharp wedge-shaped terminals, and a mountain-peak silhouette emphasized in the right character. The left character should contain a subtle dawn/sunrise motif in its lower inner opening: a pale cream semicircle rising from a dark horizontal base, with fine short rays above it.
+
+Typography and style: Use a tasteful mix of Chinese serif/Songti-style text and small spaced uppercase English letters. Keep annotation text delicate and readable but not dominant. Use black ink for the main wordmark, warm gray for body text, and muted red for seals, labels, leader lines, circles, and numbering.
+
+Constraints: Preserve a high-end brand identity presentation style, no people, no photo realism, no bright colors, no clutter, no watermark. Keep all Chinese text as design elements, with the customizable academy label {argument name="top-left Chinese title" default="学生万象"}, the subtitle {argument name="proposal label" default="品牌标识提案"}, the romanized name {argument name="romanized name" default="XIAO FENG"}, and the English subtitle {argument name="English subtitle" default="DAWN PEAK"}.
+```
+
+**来源：** [@Eric｜晓峰](https://x.com/ericoding99/status/2070421339043975170) | 2026-06-26
+
+---
+
+### 🎴 例 2502：GTA San Andreas 印尼风格插画
+
+![GTA San Andreas 印尼风格插画](../../images/GTA%20San%20Andreas%20%E5%8D%B0%E5%B0%BC%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{"style": "高度细腻的 GTA San Andreas 风格电影海报插画，融合现代城市编辑美学、大胆的漫画式阴影、戏剧性光影、丰富的对比度、生动的色彩分级、分层纹理、涂鸦细节、贴纸图形、做旧海报质感、高级排版以及动态街头风格构图。超精细 8K 渲染质量。", "subject": {"description": "一位留着卷发、胡须并佩戴眼镜的年轻魅力男士，作为现代 GTA San Andreas 加载界面风格艺术作品的中心焦点。", "pose": "放松而自信的坐姿，肢体语言自然且富有表现力，身体微微前倾，一只手靠近下巴，展现出时尚的国际超模气质。", "expression": "自信、富有魅力、友好的微笑，展现出强烈的个性和现代城市态度。", "outfit": {"style": "现代高级街头服饰", "details": ["叠穿棒球夹克", "廓形连帽衫", "图形排版元素", "街头服饰贴布", "奢华休闲配饰", "链条项链", "现代腕表"], "colors": ["深绿色", "奶油白", "黑色", "金色点缀"], "materials": ["羊毛", "棉", "皮革纹理"]}}, "background": {"theme": "动态印尼城市氛围与 GTA San Andreas 电影环境的融合", "landmarks": [{"name": "国家纪念塔 (Monas)", "city": "雅加达"}, {"name": "沙爹大厦 (Gedung Sate)", "city": "万隆"}, {"name": "婆罗浮屠 (Borobudur Temple)", "city": "日惹"}, {"name": "泗马大桥 (Suramadu Bridge)", "city": "泗水"}, {"name": "乌伦达努寺 (Pura Ulun Danu)", "city": "巴厘岛"}], "elements": ["日落电影感天空", "城市天际线", "棕榈树", "经典低底盘汽车", "涂鸦墙", "街头海报纹理", "编辑拼贴叠加", "贴纸图形", "油漆飞溅", "垃圾摇滚质感", "漫画墨线轮廓"]}, "typography": {"main_title": "Kings Landing", "subtitle": "Indonesia Is My Playground", "style": "受 GTA San Andreas 宣传艺术启发的粗体高级城市排版", "details": ["分层标题构图", "做旧字体", "街头风格字体", "涂鸦风格装饰", "贴纸排版", "动态层级", "现代编辑排版布局"]}, "lighting": {"style": "电影级戏剧性日落光影", "details": ["高对比度阴影", "温暖的橙色光晕", "深邃的黑色", "金色高光", "柔和的大气雾霾"]}, "composition": {"layout": "极具吸引力的非通用海报布局，具有分层深度和非对称平衡感", "camera_angle": "中景特写，具有电影视角", "render_quality": "超精细 8K", "mood": ["充满活力", "电影感", "时尚", "高级", "城市", "现代", "充满能量"]}, "art_direction": {"inspirations": ["GTA San Andreas 加载界面", "现代街头服饰广告", "城市编辑海报", "漫画插画", "奢华城市品牌设计"], "avoid": ["扁平构图", "僵硬姿势", "细节匮乏", "通用排版", "普通服装", "空白背景"]}}
+
+[English]
+{"style": "Highly detailed GTA San Andreas-inspired cinematic poster illustration with modern urban editorial aesthetics, bold comic-book shading, dramatic lighting, rich contrast, vivid color grading, layered textures, graffiti details, sticker graphics, distressed poster textures, premium typography, and dynamic street-style composition. Ultra-detailed 8K render quality.", "subject": {"description": "Young charismatic man with curly hair, beard, and glasses, portrayed as the central focal point in a modern GTA San Andreas loading-screen inspired artwork.", "pose": "Relaxed yet confident seated pose with expressive natural body language, slightly leaning forward with one hand near the chin, giving a stylish international fashion-model vibe.", "expression": "Confident, charismatic, friendly smile with strong personality and modern urban attitude.", "outfit": {"style": "Modern premium streetwear fashion", "details": ["Layered varsity jacket", "Oversized hoodie", "Graphic typography elements", "Streetwear patches", "Luxury casual accessories", "Chain necklace", "Modern watch"], "colors": ["dark green", "cream white", "black", "gold accents"], "materials": ["wool", "cotton", "leather textures"]}}, "background": {"theme": "Dynamic Indonesian urban atmosphere mixed with GTA San Andreas cinematic environment", "landmarks": [{"name": "Monas", "city": "Jakarta"}, {"name": "Gedung Sate", "city": "Bandung"}, {"name": "Borobudur Temple", "city": "Yogyakarta"}, {"name": "Suramadu Bridge", "city": "Surabaya"}, {"name": "Pura Ulun Danu", "city": "Bali"}], "elements": ["sunset cinematic sky", "urban skyline", "palm trees", "classic lowrider car", "graffiti walls", "street poster textures", "editorial collage overlays", "sticker graphics", "paint splashes", "grunge textures", "comic ink outlines"]}, "typography": {"main_title": "Kings Landing", "subtitle": "Indonesia Is My Playground", "style": "Bold premium urban typography inspired by GTA San Andreas promotional artwork", "details": ["layered title composition", "distressed fonts", "street-style lettering", "graffiti-inspired accents", "sticker typography", "dynamic hierarchy", "modern editorial placement"]}, "lighting": {"style": "Cinematic dramatic sunset lighting", "details": ["high contrast shadows", "warm orange glow", "deep blacks", "golden highlights", "soft atmospheric haze"]}, "composition": {"layout": "Highly engaging non-generic poster layout with layered depth and asymmetrical balance", "camera_angle": "Medium close-up with cinematic perspective", "render_quality": "Ultra detailed 8K", "mood": ["vibrant", "cinematic", "stylish", "premium", "urban", "modern", "energetic"]}, "art_direction": {"inspirations": ["GTA San Andreas loading screens", "modern streetwear campaigns", "urban editorial posters", "comic-book illustration", "luxury urban branding"], "avoid": ["flat composition", "stiff pose", "minimal details", "generic typography", "plain clothing", "empty background"]}}
+```
+
+**来源：** [@Orion](https://x.com/Prime_54/status/2070420295157264557) | 2026-06-26
+
+---
+
+### 🎴 例 2516：奢华时尚杂志封面
+
+![奢华时尚杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+奢华时尚杂志封面。顶部为醒目的银色衬线字体 {argument name="brand name" default="品牌名称 \"SOLÈNE\""}，略带透明感，与模特的头发重叠——高端刊头风格。奶油白色无缝摄影棚背景，柔和的暖色调灯光。
+
+{argument name="model features" default="年轻女性，拥有天使般的面容、丰满的嘴唇、梦幻般的绿色大眼睛，以及一头丝滑的巧克力棕色长波浪卷发"}。优雅地坐着，一只手轻触下颌，目光柔和而神秘。
+
+{argument name="gown style" default="极具戏剧性的拖地干枯玫瑰色缎面舞会礼服，带有如玫瑰花瓣般蓬松的雕塑感肩部设计，透明香槟色丝绸紧身胸衣上绣有珍珠和水晶，巨大的层叠裙摆在周围铺开"}。
+
+杂志文字采用衬线字体叠加：“SOFT & SOVEREIGN / THE NEW ERA OF BEAUTY” — “LUMINOUS & RARE / PURE GRACE” — 底部为大型透明展示字体：“DIVINE & UNTOUCHABLE”
+
+垂直比例 9:13，超写实，8K 分辨率，电影级调色。
+
+[English]
+Luxury fashion magazine cover. Bold silver serif {argument name="brand name" default="brand name \"SOLÈNE\""} at the very top, slightly transparent, overlapping the model's hair — high-end masthead style. Cream-white seamless studio background, soft warm-toned lighting.
+
+{argument name="model features" default="Young woman with angelic features, full lips, big dreamy green eyes, long silky chocolate brown wavy hair"}. Seated gracefully, one hand touching her jaw, gaze soft and mysterious.
+
+{argument name="gown style" default="Dramatic floor-length dusty rose blush satin ballgown with sculptural puff shoulders that billow like rose petals, sheer champagne silk mesh bodice embroidered with pearls and crystals, enormous tiered skirt pooling around her"}.
+
+Magazine text overlaid in serif: "SOFT & SOVEREIGN / THE NEW ERA OF BEAUTY" — "LUMINOUS & RARE / PURE GRACE" — large transparent display font at bottom: "DIVINE & UNTOUCHABLE"
+
+Vertical 9:13, ultra photorealistic, 8K, cinematic color grading.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2070383734491426922) | 2026-06-26
+
+---
+
+### 🎴 例 2518：自助洗衣店时尚杂志封面
+
+![自助洗衣店时尚杂志封面](../../images/%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端时尚杂志封面，拍摄场景设定在极简主义的冷色调灰白色自助洗衣店。背景为整洁的白色长方形墙砖，以及带有圆形镀铬滚筒门的深色光泽工业洗衣机，画面左侧三分之一处有一根黑色金属立柱分割构图。主体是一位 {argument name="model identity" default="年轻亚裔女性"}，随意地坐在深色磨损的洗衣长凳或机器边缘，身体微微前倾，留着一头浓密的 {argument name="hair style" default="黑色自然蓬松卷发"}，妆容清淡精致，五官细腻，眼神平静疏离，流露出一种慵懒、微醺且深思的氛围。她戴着一副窄框黑色墨镜，墨镜微微下移，单手轻触镜框；身穿一件敞开的超大款挺括白衬衫，内搭浅蓝色水洗牛仔紧身胸衣式短上衣，下身穿着同色系高腰牛仔短裤，并配有印满黑色小 X 图案的黑色透肤连裤袜。她的姿势充满时尚感且放松：一只手臂向下伸向洗衣机区域，双腿在画面下方呈对角线延伸，躯干转向镜头。采用冷色调去饱和处理，呈现锐利的杂志摄影质感，配合柔和的漫射影棚光，带有细腻的胶片颗粒感、真实的皮肤纹理、金属光泽反射，营造出一种精致而工业化的氛围。在画面最左侧边缘添加一个占据约四分之一区域的深海军蓝黑色垂直排版栏，并配有做旧的超大号米白色垂直标题，文字为 {argument name="cover headline" default="COOLNESS"}。在此排版栏中包含三个较小的文本块：右上角附近为垂直微文案 {argument name="side quote" default="STYLE ISN'T LOUD — IT JUST DOESN'T NEED TO EXPLAIN"}；左下角附近为堆叠文字“WASHED IN SILENCE. WORN ON PURPOSE.”；其下方为堆叠的期刊信息“SS / 24 EDITORIAL SERIES”及一条短细水平线。整体布局需呈现当代时尚杂志封面的质感，采用 3:4 垂直裁剪，画面中无其他人物、无额外文字、无水印。
+
+[English]
+Create a high-end fashion magazine editorial cover shot in a minimalist cold white-gray laundromat. The scene has clean white rectangular wall tiles, dark glossy industrial laundry machines with round chrome drum doors in the background, and a black metal vertical pole dividing the composition near the left third. The subject is a {argument name="model identity" default="young Asian woman"} seated casually on a dark worn laundry bench or machine ledge, leaning slightly forward with long voluminous {argument name="hair style" default="black natural loose wavy hair"}, pale refined makeup, delicate features, and a calm detached gaze with a faint lazy, tipsy, thoughtful mood. She wears narrow black sunglasses lowered slightly as she touches the frame with one hand, an oversized crisp white button-down shirt worn open, a light blue washed denim corset-style crop top, matching high-waisted denim shorts, and sheer black tights patterned with many small black X marks. Her pose is editorial and relaxed: one arm extends down toward the washer area, legs angled diagonally across the lower frame, torso turned toward camera. Use cool desaturated tones, sharp magazine photography, soft diffused studio lighting, subtle film grain, realistic skin texture, glossy metal reflections, and a polished yet industrial mood. Add a dark navy-black vertical typography panel along the far left edge occupying about one quarter of the image, with distressed oversized off-white vertical headline text reading {argument name="cover headline" default="COOLNESS"}. Include exactly three smaller text blocks on this panel: near the upper right, vertical microcopy reading {argument name="side quote" default="STYLE ISN'T LOUD — IT JUST DOESN'T NEED TO EXPLAIN"}; near the lower left, stacked text reading "WASHED IN SILENCE. WORN ON PURPOSE."; and below it, stacked issue text reading "SS / 24 EDITORIAL SERIES" with a short thin horizontal rule. Make the layout feel like a contemporary fashion magazine cover, 3:4 vertical crop, no extra people, no extra text, no watermark.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2070381720952840483) | 2026-06-26
+
+---
+
+### 🎴 例 2519：“明日档案馆”编辑海报
+
+![“明日档案馆”编辑海报](../../images/%E2%80%9C%E6%98%8E%E6%97%A5%E6%A1%A3%E6%A1%88%E9%A6%86%E2%80%9D%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的单色编辑艺术海报，标题为：THE ARCHIVE OF TOMORROW。设计一张精致的画廊级海报，使其呈现出探索记忆、抱负与时间流逝的实验性设计展览的视觉形象。中心主体是一位沉思的年轻创意人士，采用四分之三侧面而非正面姿势。他们身着结构感羊毛大衣，内搭极简高领针织衫，传达出超越当代时尚潮流的永恒优雅。主体并非单纯的人像，而是逐渐融入复杂的建筑蓝图，蓝图由碎片化的几何图形、技术绘图标记、网格系统、抽象城市剪影、纸张纹理、水墨晕染以及零散的手写笔记构成。画面应营造出一种“思想正在转化为建筑”的意境。构图刻意采用非对称设计。左侧留出宽敞的负空间，右侧则随着层叠的设计元素、档案标记、套印符号、胶片齿孔、测量标尺、索引标签、编辑分隔符及抽象印刷痕迹而愈发密集。禁止使用彩色图形。禁止使用霓虹灯。禁止使用未来主义全息图。一切都应具有触感、印刷感和手工感。排版即设计。排版应作为艺术品本身的一部分，而非仅仅是标签。主标题占据海报近一半的版面：COLLECTING UNWRITTEN FUTURES。字体应呈现出手绘质感，并带有覆盖在磨损纸张纹理上的写意干笔触。构图周围环绕着数十个较小的编辑碎片，例如：EVERY MEMORY LEAVES A BLUEPRINT. IDEAS OUTLIVE THEIR MAKERS. WHAT YOU BUILD FIRST EXISTS ONLY IN SILENCE. PROCESS BEFORE PERFECTION. ARCHIVE NO. 014 OBSERVATION LOG DRAFT REVISION III INDEX OF UNFINISHED THOUGHTS。微小的目录细节、坐标、展览参考、条形码元素、印刷套准标记、图书馆印章、档案编号以及极简符号，将为放大观看的观众带来惊喜。艺术指导：融合当代编辑平面设计、美术展览画册、粗野主义排版、日本海报极简主义、瑞士国际主义风格、复古印刷术、写意水墨插画、博物馆品牌设计及高端独立出版物的影响。最终构图应类似于陈列在知名当代艺术博物馆中的作品，而非商业海报。调色板：仅使用暖象牙白纸张、浓郁碳黑、炭灰、柔和石墨色、细腻的风化纸张色调。不添加任何其他颜色。美感应完全源于对比度、纹理、构图与排版。视觉风格：博物馆级编辑设计、奢华平面品牌设计、照片级人像与写意水墨纹理的融合、不显杂乱的混合媒介拼贴、优雅的非对称构图。
+
+[English]
+Create an ultra-premium monochromatic editorial art poster titled: THE ARCHIVE OF TOMORROW. Design a sophisticated gallery-quality poster that feels like the visual identity for an experimental design exhibition exploring memory, ambition, and the passage of time. The central subject is a thoughtful young creative captured in a three-quarter profile rather than a frontal pose. They wear a structured wool overcoat layered over a minimalist high-neck knit, conveying timeless elegance rather than contemporary fashion trends. Instead of a clean portrait, the subject gradually dissolves into an intricate architectural blueprint made from fragmented geometric forms, technical drafting marks, grid systems, abstract city silhouettes, paper textures, ink washes, and fragmented handwritten notes. It should feel as though their thoughts are becoming architecture. The composition is intentionally asymmetrical. The left side remains spacious with generous negative space, while the right side becomes increasingly dense with layered design elements, archival markings, registration symbols, film perforations, measurement scales, index tabs, editorial dividers, and abstract printing artifacts. No colorful graphics. No neon. No futuristic holograms. Everything should feel tactile, printed, and handcrafted. TYPOGRAPHY AS DESIGN. Typography should function as part of the artwork itself rather than simply labeling it. The dominant headline occupies nearly half the poster: COLLECTING UNWRITTEN FUTURES. The lettering should appear hand-painted with expressive dry-brush strokes layered over distressed paper textures. Surrounding the composition are dozens of smaller editorial fragments such as: EVERY MEMORY LEAVES A BLUEPRINT. IDEAS OUTLIVE THEIR MAKERS. WHAT YOU BUILD FIRST EXISTS ONLY IN SILENCE. PROCESS BEFORE PERFECTION. ARCHIVE NO. 014 OBSERVATION LOG DRAFT REVISION III INDEX OF UNFINISHED THOUGHTS. Tiny catalog details, coordinates, exhibition references, barcode elements, print registration marks, library stamps, archival accession numbers, and minimalist symbols should reward viewers who zoom in. ART DIRECTION: Blend influences from contemporary editorial graphic design, fine-art exhibition catalogues, brutalist layouts, Japanese poster minimalism, Swiss International Style, vintage printmaking, expressive ink illustration, museum branding, luxury independent publishing. The final composition should resemble something displayed in a prestigious contemporary art museum rather than a commercial poster. COLOR PALETTE: Only use warm ivory paper, rich carbon black, charcoal gray, soft graphite, subtle weathered paper tones. No additional colors. The beauty should come entirely from contrast, texture, composition, and typography. VISUAL STYLE: Museum-grade editorial design, Luxury graphic branding, Photorealistic portraiture blended with expressive ink textures, Mixed-media collage without appearing chaotic, Elegant asymmetrical composition.
+```
+
+**来源：** [@Hemayxn.ai](https://x.com/hemayxn/status/2070380022708531253) | 2026-06-26
+
+---
+
+### 🎴 例 2521：动漫镜像自拍网格
+
+![动漫镜像自拍网格](../../images/%E5%8A%A8%E6%BC%AB%E9%95%9C%E5%83%8F%E8%87%AA%E6%8B%8D%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="image model title" default="GPT Image 2"} 创建一张充满活力的动漫联动海报，展示镜像自拍拼贴画，画面包含四组著名少年漫角色在主题浴室或更衣室中摆拍。
+
+画布：垂直 3:4 海报，黑色背景，顶部有粗体奶油色标题，标题附近有两个黄色小星星，配有细黄色装饰线，以及由黑色边框分隔的 2x2 四格插画网格。
+
+顶部标题文字：醒目的大号粗体白色圆角无衬线文字，内容为“{argument name="image model title" default="GPT Image 2"}”。
+
+布局：使用 2x2 网格，共 4 个面板，每个面板采用光泽感动漫插画风格，并呈现镜面中明亮的相机闪光灯反射。每个面板应包含浴室洗手台、水龙头、杯子、洗手液瓶、海报、便签、道具以及各系列主题的杂物。在每个面板的镜面上或附近直接添加手写系列名称。
+
+面板 1，左上角 — ONE PIECE：展示 4 位主角在镜前自拍：路飞戴着草帽拿着相机比出剪刀手，娜美在他身后眨眼，左侧是绿发且双臂交叉的索隆，右侧是金发且大笑的山治。海盗主题的浴室杂物包括骷髅旗、悬赏令、宝箱、木桶、水果、航海马克杯和黄铜装置。底部的手写黑色文字写着“ONE PIECE”并配有一个红心。
+
+面板 2，右上角 — NARUTO：展示 4 位主角在镜前自拍：中间是穿着橙色衣服的鸣人拿着相机微笑，左侧是比出剪刀手的佐助，右侧是微笑的小樱，身后是银发戴着面罩的卡卡西。房间里有忍者卷轴、苦无、手里剑、护额展示、拉面元素、海报和洗手台。镜子下方的手写橙色文字写着“NARUTO”并配有一个红心。
+
+面板 3，左下角 — DRAGON BALL：展示 4 位主角在镜前自拍：左侧是双臂交叉的贝吉塔，中间是拿着相机微笑比出剪刀手的悟空，右侧是蓝发微笑的布尔玛，身后是戴着白色头巾的绿色比克。添加龙珠、胶囊公司标签、仙豆杯、训练笔记、瓶子、小工具和浴室洗手台。顶部的手写文字写着“DRAGON BALL”并配有一个红心。
+
+面板 4，右下角 — DEMON SLAYER：展示 4 位主角在镜前自拍：中间是拿着相机并带有明亮闪光的炭治郎，左侧是咬着竹筒比出剪刀手的祢豆子，右侧是惊慌失措举起双手的善逸，身后是戴着猪头面具并展示肌肉的伊之助。使用带有紫藤花的日式木质内饰，配有乌鸦、刀剑、护身符、洗手液瓶和洗手台装置。木质下边框上的文字写着“DEMON SLAYER”。
+
+视觉风格：高细节精致动漫同人画风格，色彩丰富，充满活力，表情生动，电影感暖光，逼真的镜面反射和相机闪光眩光，密集的背景道具，整洁的黑色网格边框，清晰的线条，饱和的色彩。
+
+约束：使用 4 个面板，每个面板恰好 4 位主角，总计 16 位主角。保持所有可见文字在指定位置清晰可辨。无水印，无额外面板，拒绝照片写实风格。
+
+[English]
+Goal: Create a vibrant anime crossover poster showing a mirror-selfie collage for {argument name="image model title" default="GPT Image 2"}, with four famous shonen anime groups posing in themed bathrooms or dressing rooms.
+
+Canvas: Vertical 3:4 poster, black background, thick cream title at the top, two small yellow stars near the title, thin yellow decorative lines, and a 2x2 grid of four framed illustration panels separated by black borders.
+
+Top title text: Large bold white rounded sans-serif text reading “{argument name="image model title" default="GPT Image 2"}”.
+
+Layout: Use exactly 4 panels in a 2 by 2 grid, each panel styled like a glossy anime illustration and featuring a bright camera flash reflected in a mirror. Each panel should include bathroom sink counters, faucets, cups, soap bottles, posters, notes, props, and franchise-themed clutter. Add handwritten franchise names directly on or near the mirror in each panel.
+
+Panel 1, top left — ONE PIECE: Show exactly 4 main characters posing around a mirror selfie: Luffy in a straw hat holding a camera and making a peace sign, Nami winking behind him with orange hair, Zoro at left with green hair and arms crossed, and Sanji at right with blond hair and a laughing expression. Pirate-themed bathroom clutter includes a skull-and-crossbones flag, wanted posters, treasure chests, barrels, fruit, nautical mugs, and brass fixtures. Handwritten black text at the bottom reads “ONE PIECE” with a red heart.
+
+Panel 2, top right — NARUTO: Show exactly 4 main characters posing around a mirror selfie: Naruto in orange at center holding a camera and smiling, Sasuke at left making a peace sign, Sakura at right smiling, and Kakashi behind them with silver hair and a mask. The room has ninja scrolls, kunai, shuriken, headband displays, ramen items, posters, and a sink counter. Handwritten orange text across the lower mirror reads “NARUTO” with a red heart.
+
+Panel 3, bottom left — DRAGON BALL: Show exactly 4 main characters posing around a mirror selfie: Vegeta at left with crossed arms, Goku in the center smiling and making a peace sign while holding a camera, Bulma at right smiling with blue hair, and Piccolo behind them in green with a white turban. Add Dragon Balls, Capsule Corp labels, senzu bean cup, training notes, bottles, gadgets, and a bathroom sink. Handwritten text at the top reads “DRAGON BALL” with a red heart.
+
+Panel 4, bottom right — DEMON SLAYER: Show exactly 4 main characters posing around a mirror selfie: Tanjiro at center holding a camera with a bright flash, Nezuko at left making a peace sign with bamboo muzzle, Zenitsu at right panicking with raised hands, and Inosuke behind them wearing a boar mask and flexing. Use a warm wooden Japanese interior with wisteria flowers, crow, swords, talismans, soap bottles, and sink fixtures. Text on the wooden lower frame reads “DEMON SLAYER”.
+
+Visual style: High-detail polished anime fan-art style, colorful, energetic, expressive faces, cinematic warm lighting, realistic mirror reflections and camera flash glare, dense background props, clean black grid borders, crisp linework, saturated colors.
+
+Constraints: Use exactly 4 panels and exactly 4 main characters per panel, for 16 total main characters. Keep all visible text legible where specified. No watermark, no extra panels, no photorealism.
+```
+
+**来源：** [@Edimakor Japan](https://x.com/EdimakorJP/status/2070363221979177303) | 2026-06-26
+
+---
+
+### 🎴 例 2529：Risograph 风格咖啡馆海报插画
+
+![Risograph 风格咖啡馆海报插画](../../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+扁平化现代 Risograph 风格海报插画，画面主体为 {argument name="human" default="HUMAN"}，身穿 [CLOTHING]，正面对着坐在简单的咖啡馆桌子后，与 {argument name="animal" default="ANIMAL"} 一起处于 {argument name="scenery" default="SCENERY"} 中。使用 [COLORS] 作为暖色调米色纸张上的扁平纯色块，搭配简单的黑色手绘轮廓、稚拙的比例、极简的面部特征、细小的短线纹理、可见的斑点印刷颗粒、轻微的错位套印、干净的图形形状、俏皮的民间海报构图以及平静的居中布局。背景为 [BACKGROUND]，简化为平面的墙体形状、一张装裱海报、一个窗户形状、一盆盆栽和几个圆形的悬挂灯笼。桌上的物品保持简洁：一个瓶子、一个杯子、一盘食物和两个小挂件。带有圆角的奶油色边框，呈现复古日本绘本海报质感，长宽比 4:5。
+
+[English]
+Flat modern risograph-style poster illustration of {argument name="human" default="HUMAN"}, wearing [CLOTHING], sitting front-facing behind a simple café table with {argument name="animal" default="ANIMAL"} in {argument name="scenery" default="SCENERY"}. Use [COLORS] as flat solid color blocks on warm cream paper, with simple black hand-drawn outlines, naive proportions, minimal facial features, tiny dash textures, visible speckled print grain, slightly imperfect registration, clean graphic shapes, playful folk-poster composition, and a calm centered layout. The background is [BACKGROUND], simplified into flat wall shapes, one framed poster, one window shape, one potted plant, and a few rounded hanging lanterns. Keep the table objects simple: one bottle, one glass, one plate of food, and two tiny charms. Rounded cream border, retro Japanese picture-book poster feel, aspect ratio 4:5.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2070348017300025501) | 2026-06-26
+
+---
+
+### 🎴 例 2533：Risograph 风格咖啡馆插画
+
+![Risograph 风格咖啡馆插画](../../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+扁平化现代 Risograph 风格海报插画，描绘 {argument name="human" default="[HUMAN]"}，身穿 {argument name="clothing" default="[CLOTHING]"}，正向坐在简约咖啡桌后，旁边有 {argument name="animal" default="[ANIMAL]"}，场景位于 [SCENERY]。使用 [COLORS] 作为暖色调米色纸张上的扁平纯色块，搭配简约的黑色手绘轮廓、稚拙的比例、极简的面部特征、细小的短线纹理、可见的斑点印刷颗粒、轻微的套色不准、干净的图形形状、俏皮的民间海报构图以及平静的居中布局。背景为 [BACKGROUND]，简化为扁平的墙面形状、一张带框海报、一个窗户形状、一盆盆栽和几个圆形的悬挂灯笼。桌上的物品保持简约：一个瓶子、一个杯子、一盘食物和两个小挂件。带有圆角米色边框，具有复古日本绘本海报质感，宽高比 4:5。
+
+[English]
+Flat modern risograph-style poster illustration of {argument name="human" default="[HUMAN]"}, wearing {argument name="clothing" default="[CLOTHING]"}, sitting front-facing behind a simple café table with {argument name="animal" default="[ANIMAL]"} in [SCENERY]. Use [COLORS] as flat solid color blocks on warm cream paper, with simple black hand-drawn outlines, naive proportions, minimal facial features, tiny dash textures, visible speckled print grain, slightly imperfect registration, clean graphic shapes, playful folk-poster composition, and a calm centered layout. The background is [BACKGROUND], simplified into flat wall shapes, one framed poster, one window shape, one potted plant, and a few rounded hanging lanterns. Keep the table objects simple: one bottle, one glass, one plate of food, and two tiny charms. Rounded cream border, retro Japanese picture-book poster feel, aspect ratio 4:5.
+```
+
+**来源：** [@Duet | AI](https://x.com/Sheldon056/status/2070342553212473749) | 2026-06-26
+
+---
+
+### 🎴 例 2538：极简主义旅行海报模板
+
+![极简主义旅行海报模板](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张关于 {argument name="city name" default="[城市名称]"} 的扁平化极简主义旅行海报，以 {argument name="main subject" default="[主要主体]"} 的风格化插图为特色。
+使用简洁的矢量形状，呈现生动且简化的剪影。
+顶部采用粗体无衬线字体拼写城市名称，下方配有较小的副标题。
+应用 {argument name="color palette" default="[配色方案]"} 配色方案，包含 2–4 种高饱和度、高对比度或柔和的色调。
+使用纯色背景，避免使用渐变或阴影。
+海报设计应唤起现代旅行的渴望，并带有波普艺术海报的氛围。
+图像比例为 2:3。
+
+[English]
+A flat minimalist travel poster for the city of {argument name="city name" default="[City Name]"}, featuring a stylized illustration of {argument name="main subject" default="[Main Subject]"}.
+Use clean vector shapes with a playful and simplified silhouette.
+Bold sans-serif text at the top spells the city name, with a smaller subheading beneath.
+Apply a {argument name="color palette" default="[Color Palette]"} color palette consisting of 2–4 saturated, high-contrast or pastel tones.
+Use a solid color background and avoid gradients or shadows.
+Poster design should evoke modern wanderlust and pop art poster vibes.
+Image ratio is 2:3.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2070330146259869851) | 2026-06-26
+
+---
+
+### 🎴 例 2543：中式荷花早安海报
+
+![中式荷花早安海报](../../images/%E4%B8%AD%E5%BC%8F%E8%8D%B7%E8%8A%B1%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的中式早安海报，采用类似收藏级书籍封面的排版，结合水墨荷花插画与优雅的竖排编辑布局。
+
+画布：宽幅 16:9 横向海报，采用温暖的象牙色宣纸背景，带有细腻的纹理和轻微的陈旧质感。在中心偏左处留出充足的留白，并将植物插画主要置于右半部分。
+
+布局：采用非对称构图。最左侧设置窄长的竖排日期与天气栏。其右侧稍远处放置醒目的竖排书法标题。标题右侧添加一条纤细的红色竖向分割线及一段简短的竖排祝福语。左下角设置两行带有彩色圆点标签的每日建议。右半部分以淡雅的水墨矿物颜料荷花场景为主。
+
+文本内容：包含 5 个文本区域：1) 最左侧竖排日期栏，显示“2026 / 06 / 26 / 星期五”；2) 下方为小型天气模块，包含云雨图标及竖排文字“长沙天气 | 阴有阵雨 25°C | 30°C”；3) 主标题竖排书法 {argument name="headline text" default="荷风早安"}；4) 竖排祝福语 {argument name="morning blessing" default="早安，愿你今日心有清荷，步步生香。"}；5) 底部建议区，包含两行：绿色圆点标签“宜”后接“今日宜 | 赏荷、读书、慢行、见想见的人”，以及暗红色圆点标签“忌”后接“今日忌 | 烦躁、拖延、久坐、过度忧心”。在祝福语下方添加一枚微型红色印章。
+
+主体细节：右侧的荷花插画包含 10 个显著的植物元素：右上中心附近 1 朵淡粉色盛开的荷花，2 朵长弯茎的粉色花苞，2 个莲蓬，4 片带有清晰淡色叶脉和水墨撕裂边缘的深绿色荷叶，以及 1 枝带有红色小浆果的细枝。在中央留白处添加少量散落的水墨点和一条淡淡的流水纹样。
+
+视觉风格：传统中式国风美学，宋元水墨画意境，柔和的矿物色彩，暗青色叶片，淡粉色花瓣，灰绿色茎秆，苍劲的黑色书法，点缀朱砂红。排版需具备高级感、平衡感，且如同可印刷的收藏级文学书籍封面，并将其转化为早安问候海报。
+
+约束条件：保持背景整洁，维持高端的编辑排版间距，禁止出现现代 UI 面板，禁止写实摄影风格，除指定文本外禁止添加额外文字，禁止水印，禁止边框。
+
+[English]
+Goal: Create a refined Chinese-style good-morning poster with collectible book-cover typography, combining ink wash lotus illustration and elegant vertical editorial layout.
+
+Canvas: Wide horizontal 16:9 poster, warm ivory rice-paper background with subtle grain and light aged texture. Leave generous negative space in the center-left and place the botanical illustration mainly on the right half.
+
+Layout: Use an asymmetrical composition. On the far left, create a slim vertical date and weather column. Slightly right of that, place a large vertical brush-calligraphy headline. To the right of the headline, add a thin vertical red divider line and a small vertical blessing quote. Along the bottom-left, add two horizontal daily-advice rows with circular colored labels. The right half is dominated by a pale ink-and-mineral-pigment lotus scene.
+
+Text content: Include exactly 5 text areas: 1) far-left vertical date column reading “2026 / 06 / 26 / 星期五”; 2) below it a small weather block with a cloud-rain icon and vertical text “长沙天气 | 阴有阵雨 25°C | 30°C”; 3) the main vertical calligraphy headline {argument name="headline text" default="荷风早安"}; 4) the vertical quote {argument name="morning blessing" default="早安，愿你今日心有清荷，步步生香。"}; 5) bottom advice area with exactly 2 rows: green circular label “宜” followed by “今日宜 | 赏荷、读书、慢行、见想见的人”, and muted red circular label “忌” followed by “今日忌 | 烦躁、拖延、久坐、过度忧心”. Add a tiny red seal stamp below the quote.
+
+Subject details: The right-side lotus illustration contains exactly 10 prominent botanical elements: 1 large pale pink open lotus flower near the upper-right center, 2 pink lotus buds on long curved stems, 2 lotus seed pods, 4 large dark green lotus leaves with visible pale veins and torn ink-wash edges, and 1 thin branch with small reddish berries. Add a few scattered ink dots and one faint flowing water-line motif in the central blank area.
+
+Visual style: Traditional Chinese guofeng aesthetics, Song/Yuan dynasty ink painting mood, soft mineral colors, muted dark teal leaves, blush-pink lotus petals, gray-green stems, black expressive calligraphy, small vermilion accents. Typography should feel premium, balanced, and print-ready, like a collectible literary book cover adapted into a morning greeting poster.
+
+Constraints: Keep the background uncluttered, maintain high-end editorial spacing, no modern UI panels, no photorealism, no extra text beyond the specified text areas, no watermark, no border.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2070297746549113201) | 2026-06-26
+
+---
+

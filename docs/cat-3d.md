@@ -3448,3 +3448,147 @@ Constraints: do not crop out the plush, keep the composition vertical, keep the 
 
 ---
 
+### 🧸 例 2451：古董图书馆里的毛绒猫娘女仆玩偶
+
+![古董图书馆里的毛绒猫娘女仆玩偶](../../images/%E5%8F%A4%E8%91%A3%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%87%8C%E7%9A%84%E6%AF%9B%E7%BB%92%E7%8C%AB%E5%A8%98%E5%A5%B3%E4%BB%86%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的绘本风格水彩插画，画面中是一个名为 {argument name="character name" default="Mimi"} 的柔软毛绒玩偶，它正坐在一间舒适古老图书馆的复古木质书桌上。玩偶位于画面中心，展示全身，拥有圆圆的 Q 版大头、娇小的坐姿身体、天鹅绒般的布料质感、奶油色毛绒皮肤、短波波头 {argument name="hair color" default="柔和粉色"} 头发配齐刘海、2 只蓝色刺绣风格的大眼睛、小巧的中性嘴巴、淡淡的腮红，以及 2 只内侧为粉色的猫耳。玩偶身着黑白女仆装：白色荷叶边发带、黑色长袖连衣裙、白色荷叶边围裙、袖口和下摆带有奶油色褶边装饰、黑色毛绒鞋，领口系着紫色丝带蝴蝶结。场景应营造出温暖、怀旧且真实的触感，强调毛绒织物和手工缝制的接缝细节。背景是细节丰富的古董书房：左侧是洒满阳光的窗户，右侧是摆满旧书的深色木质书架，玩偶上方挂着一幅复古画框，书桌上堆放着陈旧的书籍。前景需包含 5 个显眼的桌面物品：1 张手写羊皮纸、1 瓶黑色墨水、1 支白色羽毛笔、1 支放在黄铜烛台里的点燃蜡烛，以及 1 个精致的小型黄铜物件。使用从左侧窗户射入的午后金色光线，柔和的阴影，棕褐色调，奶油色高光，以及细腻的水彩铅笔线条。构图应为 9:16 竖屏，亲密的特写视角，毛绒玩偶占据画面中部，桌面物品环绕在前景下方。添加微妙的插画质感，如手工纸纹理，高细节，舒适的奇幻氛围，无现代物品，无可见文字，无水印。
+
+[English]
+Create a vertical storybook-style watercolor illustration of a soft plush doll named {argument name="character name" default="Mimi"} sitting on an antique wooden writing desk in a cozy old library. The doll is centered and shown full body, with a large round chibi head, tiny seated body, velvety fabric texture, pale cream plush skin, short bobbed {argument name="hair color" default="pastel pink"} hair with blunt bangs, 2 large blue embroidered-looking eyes, a small neutral mouth, faint blush, and 2 cat ears with pink inner fabric. Dress the doll in a black-and-white maid outfit: white ruffled headband, black long-sleeve dress, white ruffled apron, cream frill trim at cuffs and hem, black plush shoes, and a purple ribbon bow at the collar. The scene should feel warm, nostalgic, and tactile, emphasizing fuzzy fabric and hand-sewn plush seams. The background is a richly detailed antique study: a glowing sunlit window on the left, dark wooden bookshelves filled with old books on the right, a framed vintage painting above the doll, and stacks of aged books on the desk. Include exactly 5 prominent foreground desk items: 1 handwritten parchment sheet, 1 black ink bottle, 1 white feather quill, 1 lit candle in a brass holder, and 1 small ornate brass object. Use golden afternoon light streaming from the left window, soft shadows, sepia browns, cream highlights, and delicate watercolor pencil linework. Composition should be vertical 9:16, intimate close-up, with the plush doll occupying the middle of the frame and the desk objects framing the lower foreground. Add a subtle illustrated texture like handmade paper, high detail, cozy fantasy atmosphere, no modern objects, no visible text, no watermark.
+```
+
+**来源：** [@りりあん](https://x.com/riri_28_SynClub/status/2070642212040536126) | 2026-06-26
+
+---
+
+### 🧸 例 2475：超现实“灵魂出窍”提示词
+
+![超现实“灵魂出窍”提示词](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E2%80%9C%E7%81%B5%E9%AD%82%E5%87%BA%E7%AA%8D%E2%80%9D%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题对象" default="hello kity 毛绒玩具"}生成一张带有“灵魂出窍”瞬间的创意实拍感画面：主题的实体本体以安静、松弛、略带无防备的姿态占据主要视觉重量，像真实物件或柔软玩偶一样躺卧、靠放或静止在干净展台上；从本体上方或核心位置升起一个同主题派生的半透明分身，形态与本体有清晰亲缘关系，但材质变成轻薄、透亮、带细微褶皱和边缘高光的幽灵状外壳，像被抽离出的意识或第二层生命。画面第一眼读到实体与透明分身的错位关系，第二眼看到分身仍附着在本体附近，保持轻微悬浮、前倾或攀起的动作，使荒诞感温柔而不恐怖。背景保持明亮、清透、干净，使用大面积高明度中性底色和少量主题派生的柔和支撑色，黑色或深色只作为极小面积的眼神、轮廓、接缝或信息点，整体明亮轻快、通风感强，避免脏灰、烟雾和陈旧滤镜。光线柔和均匀，透明层需要可见折射、薄纱质感、局部亮边和轻微阴影，让它既像真实材料又像精神投影。构图保留展陈式留白与低干扰环境，可加入小型标签、支撑物或道具作为尺度与现实感提示，但信息层保持克制，不抢走主体与分身之间的奇妙关系。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2070509703940161840) | 2026-06-26
+
+---
+
+### 🧸 例 2489：神话高定草图工作区
+
+![神话高定草图工作区](../../images/%E7%A5%9E%E8%AF%9D%E9%AB%98%E5%AE%9A%E8%8D%89%E5%9B%BE%E5%B7%A5%E4%BD%9C%E5%8C%BA.jpg)
+
+**Prompt:**
+
+```text
+生成一张《纸上成真 · 神话绮装》风格图片，4:5 竖版。画面是高级东方神话高定服饰设定稿：米白色手稿纸夹在木质画板上，放在温暖木色设计工作台。桌面有布料小样、配色色卡、铅笔、针管笔、陶瓷茶杯、玉饰、金属配件和小型服饰结构草图。
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2070446262902575300) | 2026-06-26
+
+---
+
+### 🧸 例 2493：黏土定格动画风格角色
+
+![黏土定格动画风格角色](../../images/%E9%BB%8F%E5%9C%9F%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个可爱的 {argument name="character" default="手工黏土角色"}，采用趣味十足的 3D 定格动画风格，站在干净的白色背景前，身后是巨大的粗体黑色排版文字。该角色穿着超大号运动鞋，面部特征简约，表情愉悦，比例圆润，并以俏皮的姿势与身后的文字互动。柔和的哑光聚合黏土质感，可见手工雕刻的瑕疵，{argument name="colors" default="鲜艳的柔和色调"}，极简构图，影棚灯光，柔和阴影，高细节，高级玩具设计，现代图形海报美学，居中构图，超干净背景，皮克斯风格但带有手工黏土动画质感，高分辨率。
+
+[English]
+A cute {argument name="character" default="handcrafted clay character"} in a whimsical 3D stop-motion style, standing in front of giant bold black typography on a clean white background. The character has oversized sneakers, simplified facial features, a cheerful expression, rounded proportions, and a playful pose interacting with the word behind them. Soft matte polymer clay texture, visible hand-sculpted imperfections, {argument name="colors" default="vibrant pastel colors"}, minimal composition, studio lighting, soft shadows, high detail, premium toy design, modern graphic poster aesthetic, centered composition, ultra-clean background, Pixar-inspired but handcrafted clay animation look, high-resolution.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2070437346185715740) | 2026-06-26
+
+---
+
+### 🧸 例 2507：3D 错觉素描肖像
+
+![3D 错觉素描肖像](../../images/3D%20%E9%94%99%E8%A7%89%E7%B4%A0%E6%8F%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极具创意的 3D 错觉艺术作品，画面中 {argument name="subject" default="可爱的年轻女孩"} 正从放置在木质书桌上的螺旋笔记本页面中走出。笔记本上有横线纸，顶部写有手写文字。女孩呈现半写实的 3D 卡通风格，留着柔软的波浪卷发，妆容自然，笑容甜美，身穿 {argument name="clothing" default="淡雅简约的上衣和浅灰色高腰牛仔裤"}，脚蹬白色运动鞋。她的下半身呈现为笔记本上的铅笔素描效果，而上半身则看起来非常写实，仿佛从页面中跃出。
+
+[English]
+A creative 3D illusion artwork of a {argument name="subject" default="cute young girl"} stepping out of a spiral notebook page placed on a wooden desk. The notebook has lined paper with handwritten text at the top. The girl looks semi-realistic 3D cartoon style, soft wavy hair, natural makeup, sweet smile, wearing a {argument name="clothing" default="pastel modest top and high-waisted light grey jeans"} with white sneakers. Her lower body appears sketched in pencil on the notebook while the upper body looks realistic and popping out of the page.
+```
+
+**来源：** [@Ai Bella](https://x.com/zahra4sure/status/2070411630110970015) | 2026-06-26
+
+---
+
+### 🧸 例 2536：可爱的 Q 版情侣坐在凳子上
+
+![可爱的 Q 版情侣坐在凳子上](../../images/%E5%8F%AF%E7%88%B1%E7%9A%84%20Q%20%E7%89%88%E6%83%85%E4%BE%A3%E5%9D%90%E5%9C%A8%E5%87%B3%E5%AD%90%E4%B8%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超萌的高端 3D Q 版肖像，主角为 {argument name="character pair" default="一个年轻女孩和一个年轻男孩"}，他们坐在两张独立的现代圆形凳子上，在阳光明媚的室内花园咖啡馆里近距离面对面。女孩坐在左侧，男孩坐在右侧；两人身体前倾，一只手肘撑在膝盖上，下巴托在手心里，俏皮地微笑着，透过时尚的小黑圆太阳镜深情对视。采用夸张可爱的 Q 版比例：大而传神的眼睛、小巧的鼻子和嘴巴、柔软如玩偶般的皮肤、超大的头部、紧凑的身材，以及精致的皮克斯 (Pixar) 级 3D 渲染。女孩留着蓬松的深棕色头发，梳成松散的高丸子头，垂下几缕波浪长发，装饰着 5 朵清晰可见的黄心白雏菊，并戴着小巧的吊坠耳环。她穿着 {argument name="girl outfit" default="酒红色条纹长袖衬衫、高腰黑色阔腿裤和厚底小白鞋"}。男孩留着凌乱的深棕色卷发，戴着一只黑色小耳环，穿着 {argument name="boy outfit" default="酒红色短袖翻领衬衫、黑色宽松阔腿裤和小白鞋"}。凳子为 2 张圆形的软垫凳，配有焦糖棕色皮革座面、纤细的金色金属椅腿和圆形脚踏。场景设定在温馨的现代温室风格室内，左侧有高大的落地窗，黄金时段的阳光倾泻而入，地面光洁如镜，摆放着盆栽绿植，上方悬挂着带有暖色仙女灯的藤蔓，窗外可见柔和的粉色花朵，背景中有模糊的置物架和黑色壁灯，右侧摆放着一瓶粉色鲜花。采用电影级的浅景深效果，暖琥珀色灯光，柔和的焦外成像，轻柔的轮廓光，细腻的织物褶皱，光泽反射，营造出浪漫俏皮的氛围。竖构图肖像，全身视角，主体对称居中，无文字，无水印，无多余角色。
+
+[English]
+Create an ultra-cute high-end 3D chibi-style portrait of {argument name="character pair" default="a young girl and a young boy"} sitting on two separate modern round stools, facing each other at close distance in a warm sunlit indoor garden café. The girl sits on the left and the boy on the right; both lean forward with one elbow on their knee and their chin resting in one hand, smiling playfully and gazing into each other’s eyes through stylish small black round sunglasses. Use exaggerated adorable chibi proportions: large expressive eyes, small noses and mouths, soft doll-like skin, oversized heads, compact bodies, and polished Pixar-quality 3D rendering. The girl has voluminous dark brown hair in a loose high bun with long wavy strands trailing down, decorated with exactly 5 visible white daisy flowers with yellow centers, plus small dangling earrings. She wears a {argument name="girl outfit" default="burgundy striped long-sleeve blouse, high-waisted wide-leg black trousers, and chunky white sneakers"}. The boy has tousled dark brown curly hair, a small black earring, and wears a {argument name="boy outfit" default="burgundy short-sleeve collared shirt, loose black wide-leg trousers, and white sneakers"}. The stools are exactly 2 round padded stools with caramel-brown leather seats and slim gold metal legs with circular footrests. Set the scene in a cozy modern greenhouse-like interior with large tall windows on the left, golden-hour sunlight streaming in, glossy reflective floor, potted greenery, trailing hanging vines with warm fairy lights overhead, soft pink flowers outside the window, a blurred shelf and black wall lamp in the background, and a vase of pink flowers on the right. Use a cinematic shallow depth of field, warm amber lighting, soft bokeh, gentle rim light, detailed fabric folds, glossy reflections, and a romantic playful mood. Vertical portrait composition, full-body view, subjects centered symmetrically, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2070332070279496026) | 2026-06-26
+
+---
+
+### 🧸 例 2537：花园凳上的 Q 版情侣
+
+![花园凳上的 Q 版情侣](../../images/%E8%8A%B1%E5%9B%AD%E5%87%B3%E4%B8%8A%E7%9A%84%20Q%20%E7%89%88%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超可爱的高端 3D Q 版肖像，主角是两名年轻人，{argument name="girl description" default="一位时尚的年轻女孩，拥有温暖白皙的皮肤、明亮的大棕色眼睛、蓬松的高盘棕色发髻（带有几缕卷发），发间点缀着一簇小白雏菊"} 和 {argument name="boy description" default="一位时尚的年轻男孩，拥有温暖白皙的皮肤、明亮的大棕色眼睛、凌乱蓬松的深棕色头发，戴着一只小黑耳环"}，他们坐在两张独立的现代圆形凳子上，以俏皮的镜像姿势面对面。画面中必须包含 2 个角色：左侧 1 名女孩，右侧 1 名男孩。画面中必须包含 2 张凳子：带有焦糖棕色软垫、纤细金色金属腿及圆形脚踏的圆凳。两个角色均单手托腮，身体微微前倾，面带柔和微笑，透过时尚的小黑墨镜深情对视。穿着协调的酒红色与黑色系服装：女孩身穿酒红色细条纹长袖衬衫，搭配黑色阔腿裤、厚底小白鞋和精致的小吊坠耳环；男孩身穿酒红色短袖翻领衬衫，搭配宽松黑色阔腿裤、厚底小白鞋和一只小耳环。采用夸张的 Q 版比例，拥有大头、小鼻子、圆润柔软的脸颊、精致的嘴唇、透过墨镜隐约可见的明亮双眼，以及类似 Pixar 的逼真 3D 渲染效果。场景设定为 {argument name="setting" default="一个阳光明媚的室内花园咖啡馆或温室工作室"}，左侧有高大的格子窗，金色的午后阳光倾泻而入，抛光混凝土路面上映出柔和的倒影，头顶悬挂着带有闪烁仙女灯的绿色藤蔓，周围摆放着盆栽植物、粉色花卉、带有植物的木架，背景中还有一盏黑色小吊灯。构图为 4:5 竖版，平视角度，以两个人物为中心对称分布，景深较浅，具有奶油般的虚化效果，色调为温暖的琥珀色，电影级柔光照明，细节呈现出逼真的布料褶皱和光滑如玩具般的皮肤质感，画面中无任何可见文字、Logo 或水印。
+
+[English]
+Create an ultra-cute high-end 3D chibi-style portrait of two young people, {argument name="girl description" default="a fashionable young girl with warm fair skin, huge expressive brown eyes, a high voluminous brown updo with loose curled strands, and a cluster of small white daisy flowers tucked into her hair"} and {argument name="boy description" default="a fashionable young boy with warm fair skin, huge expressive brown eyes, tousled fluffy dark brown hair, and a small black earring"}, sitting on separate modern round stools and facing each other in a playful mirrored pose. Count exactly 2 characters: 1 girl on the left and 1 boy on the right. Count exactly 2 stools: round caramel-brown cushioned seats with slim gold metal legs and circular footrests. Both characters rest their chins on one hand, lean slightly forward, smile softly, and gaze into each other's eyes through stylish small black sunglasses. Dress them in coordinated burgundy and black outfits: the girl wears a burgundy pinstriped long-sleeve blouse tucked into wide-leg black trousers with chunky white sneakers and small dangling earrings; the boy wears a burgundy short-sleeve collared shirt, loose wide-leg black trousers, chunky white sneakers, and a small earring. Use exaggerated chibi proportions with oversized heads, tiny noses, soft rounded cheeks, delicate lips, glossy eyes visible behind tinted lenses, and realistic Pixar-like 3D rendering. Place them in {argument name="setting" default="a warm sunlit indoor garden cafe or studio conservatory"} with tall grid windows on the left, golden afternoon sunlight streaming in, soft reflections on a polished concrete floor, hanging green vines with glowing fairy lights overhead, potted plants, pink flowers, a wooden shelf with plants, and a small black pendant lamp in the background. The composition is vertical 4:5, eye-level, centered on the two figures with symmetrical spacing, shallow depth of field, creamy bokeh, warm amber color grading, cinematic soft lighting, detailed fabric folds, smooth toy-like skin, and no visible text, logos, or watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2070332065154052457) | 2026-06-26
+
+---
+
+### 🧸 例 2541：绿色乙烯基怪兽三视图
+
+![绿色乙烯基怪兽三视图](../../images/%E7%BB%BF%E8%89%B2%E4%B9%99%E7%83%AF%E5%9F%BA%E6%80%AA%E5%85%BD%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为生物设计基础，将草图转化为精致的收藏级玩具/手办渲染图。在保留草图中怪兽核心轮廓与特征的同时，将其转化为具有光泽感的半透明绿色乙烯基材质，并配以柔和的雕刻细节、圆润的玩具比例、珍珠白色的爪子/牙齿/腹部高光，以及黑白亮面的眼睛。
+
+制作一张简洁的产品三视图，包含 3 个由白色间隙分隔的垂直面板：1) 正视图，2) 左侧侧视图，3) 右侧/后方四分之三侧视图。保持角色以相同的姿态直立，将角、多眼、小翅膀、多条手臂、分段式腹部、粗壮的腿、尾巴、爪子、凸起、鳞片以及怪兽玩具质感转化为精细的 3D 雕塑效果。
+
+风格：{argument name="toy material" default="半透明祖母绿光泽乙烯基"}，摄影棚产品摄影，柔和均匀的灯光，细腻的阴影，中性浅灰色背景，高细节，趣味十足的日式 sofubi 怪兽美学。请勿包含文字、标志、手部、工具或草图线条。最终图像应呈现为物理原型的渲染照片，适用于 3D 建模或雕塑参考。
+
+[English]
+Using REFERENCE_0 as the creature design base, turn the rough sketch into a polished collectible toy/garage-kit render. Preserve the monster’s core silhouette and features from the sketch, but convert it into a glossy translucent green vinyl figure with soft sculpted details, rounded toy-like proportions, pearly off-white claws/teeth/belly highlights, and black-and-white glossy eyes.
+
+Create a clean product turnaround sheet with exactly 3 vertical panels separated by white gutters: 1) front view, 2) left side profile, 3) right side / rear three-quarter profile. Keep the figure standing upright in the same general pose, with the horns, many eyes, small wings, multiple arms, segmented belly, chunky legs, tail, claws, bumps, scales, and kaiju-toy texture translated into a finished 3D sculpt.
+
+Style: {argument name="toy material" default="translucent emerald green glossy vinyl"}, studio product photography, soft even lighting, subtle shadows, neutral light gray background, high detail, playful Japanese sofubi monster aesthetic. Do not include text, logos, hands, tools, or sketch lines. The final image should look like rendered photos of a physical prototype ready for 3D modeling or sculpting reference.
+```
+
+**来源：** [@クリエイティブボーイ（USELESS NARRATIVES）](https://x.com/today_senrihin/status/2070312489389347318) | 2026-06-26
+
+---
+

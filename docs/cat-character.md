@@ -4024,3 +4024,99 @@ Photorealistic candid lifestyle photograph of the same woman as the reference im
 
 ---
 
+### 🧍 例 2450：动漫高级时装角色设定集
+
+![动漫高级时装角色设定集](../../images/%E5%8A%A8%E6%BC%AB%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质、现代的 {argument name="style" default="高级时装"} {argument name="type" default="角色概念设定集"}，采用 {argument name="layout" default="16:9 宽屏布局"}，背景为纯白色，并遵循以下精确的结构化构图和视觉美学：[STYLE]：高对比度数字动漫插画，线条干净，
+
+[English]
+Create a premium, modern {argument name="style" default="high-fashion"} {argument name="type" default="CHARACTER CONCEPT ART SHEET"} in a {argument name="layout" default="16:9 widescreen layout"} on a pure white background, following this exact structured composition and visual aesthetic: [STYLE]: high-contrast digital anime illustration with clean,
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2070657009356263844) | 2026-06-26
+
+---
+
+### 🧍 例 2455：动感复古网球大片
+
+![动感复古网球大片](../../images/%E5%8A%A8%E6%84%9F%E5%A4%8D%E5%8F%A4%E7%BD%91%E7%90%83%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[人物] {argument name="person" default="参考图片 1"} [签名] 右下角有一个由 Meta 运营的 Threads 小图标，图标上方用白色草书小字写着“{argument name="signature" default="CHAse"}”，如同签名一般。 [姿势与表情] 捕捉全身动作姿态，展现运动员在户外网球场上奋力奔跑击球的瞬间。角色右手用力挥动网球拍，一颗黄色网球正飞速掠过球拍框架前方。她眼神专注且锐利地直视前方，仿佛完全沉浸在比赛中；微张的嘴唇透出运动特有的紧张感与活力。 [服装] 身穿一件精致的 {argument name="outfit" default="奶油白挂脖露脐上衣"}，带有复杂的拼接装饰和缝线细节。下身搭配同款百褶迷你裙，随动作轻盈飘动，裙摆处饰有半透明横条纹网纱，增添时尚感。左手腕佩戴白色运动护腕，脚穿干净的白色网球鞋。 [发型与妆容] 长波浪卷发因剧烈运动和风吹而自然地向四周飞扬。妆容以白皙的底妆为基础，透出运动时因热量和汗水产生的微光，淡雅的裸粉色唇妆十分突出。颈部佩戴细银链项链，耳部佩戴简约的小圆环耳环，为运动造型增添了一抹精致感。 [光影] 晴朗天气下，户外球场上洒满温暖而耀眼的自然阳光。从左上方倾泻而下的强烈阳光在肩线和四散的发丝上形成明亮的高光，使整个画面呈现出温暖的金色余晖。人物正面带有阴影。 [质感与氛围] 温暖的米色与浅绿松石色（复古蓝）色调，营造出复古且经典的运动画报感。为表现速度感，球拍、网球和腿部周围应用了动态运动模糊纹理，以最大化视觉能量，并与功能性运动服柔软光滑的质感形成鲜明对比。 [相机与角度] 使用 f/4.0 光圈、1/2000 秒快门速度、ISO 200 和 28mm 广角镜头拍摄。采用低角度仰拍，以更宏伟的视角捕捉运动员动态的跳跃与速度。上半身和表情清晰对焦，而前景中的球拍和周围背景因广角镜头的独特畸变和刻意的运动效果而产生戏剧性的模糊。带有 70 年代电影胶片的细腻颗粒感。 [背景元素] 网格状的黑色网球场围栏（球网）在人物身后横向延伸，营造出空间感。围栏上方是万里无云、向温暖金色过渡的浅蓝色背景，地面上隐约可见部分绿色球场表面和白色底线，并带有高速模糊效果。9:16 比例。模拟胶片质感。
+
+[English]
+[인물] {argument name="인물" default="이미지 1 참조"} [싸인] 우측하단에는 Meta가 운영하는 Threads 로고가 작게 위치하고, 그 위에 흰색 필기체로 "{argument name="싸인" default="CHAse"}"라고 싸인처럼 작게 적혀 있다. [인물의 포즈 및 표정] 야외 테니스 코트 위에서 공을 치기 위해 역동적으로 질주하는 찰나의 전신 액션 포즈입니다. 오른손으로 테니스 라켓을 강하게 휘두르고 있으며, 라켓 프레임 앞으로 노란색 테니스 공이 순식간에 날아오는 순간이 포착되었습니다. 경기에 완벽히 몰입한 듯 진지하고 강렬한 눈빛으로 정면을 응시하고 있으며, 살짝 벌어진 입술에서 스포츠 특유의 팽팽한 긴장감과 건강한 에너지가 느껴집니다. [인물 의상] 정교한 패널 장식과 스티치 라인이 들어간 세련된 {argument name="의상" default="크림 화이트 컬러의 홀터넥 크롭 탑"}을 입고 있습니다. 하의로는 움직임에 따라 경쾌하게 흩날리는 매칭되는 색상의 플레어 미니스커트를 착용했으며, 스커트 밑단에는 반투명한 가로 스트라이프 패턴의 메쉬 디테일이 들어가 스타일리시함을 더합니다. 왼손목에는 하얀색 스포츠 아대를 착용했고, 발에는 가볍고 깔끔한 화이트 테니스 운동화를 신었습니다. [인물 헤어스타일 및 메이크업 디테일] 격렬한 움직임과 대기의 바람에 의해 사방으로 거칠고 자연스럽게 휘날리는 긴 웨이브 헤어스타일입니다. 메이크업은 운동 중의 열기와 땀방울이 느껴지는 듯 은은한 광택감이 도는 뽀얀 피부 표현을 베이스로 했으며, 차분한 누드 핑크빛 입술이 돋보입니다. 목에는 가느다란 실버 체인 목걸이를, 귀에는 심플한 미니 링 귀걸이를 착용하여 스포티한 룩에 섬세한 포인트를 주었습니다. [조명 및 빛 방향] 맑은 날 야외 코트 위에 내리쬐는 따스하고 눈부신 내추럴 태양광입니다. 좌측 상단에서 쏟아지는 강렬한 햇살이 인물의 어깨 라인, 그리고 사방으로 퍼지는 머릿결에 화사한 하이라이트를 맺히게 하며, 전체적으로 화면 가득 따뜻한 골든 톤의 잔광을 만들어냅니다. 그러나 인물의 정면에는 그림자가 졌습니다. [질감과 색감 무드] 빈티지하고 클래식한 스포츠 화보 감성의 따뜻한 베이지 및 연한 청록빛(레트로 블루)이 어우러진 색감 무드입니다. 속도감을 표현하기 위해 전경의 라켓과 테니스 공, 그리고 인물의 다리 주변에 역동적인 모션 블러(Motion Blur) 질감이 들어가 있어 현장감 넘치는 시각적 에너지를 극대화하며, 기능성 스포츠웨어의 부드럽고 매끄러운 질감과 멋진 대조를 이룹니다. [필름 및 카메라 렌즈 심도, 앵글] 조리개 f/4.0, 셔터 스피드 1/2000초, ISO 200, 초점 거리 28mm 광각 렌즈를 사용하여 촬영되었습니다. 선수의 dynamic한 도약과 속도감을 한층 더 장엄하게 포착하기 위해 바닥에 밀착해 위를 올려다보는 로우 앵글 구도입니다. 인물의 상체와 표정에 선명하게 초점을 맞춘 반면, 광각 화각 특유의 왜곡과 의도적인 무브먼트 효과로 인해 전경의 라켓과 주변 배경은 극적으로 흐려지도록 연출했습니다. 70년대 시네마틱 필름 톤의 미세한 입자감(Film Grain)이 감돌고 있습니다. [배경 요소 (옵션)] 격자무늬의 검은색 테니스 코트 펜스(그물망)가 인물 뒤로 길게 가로지르며 공간감을 형성합니다. 펜스 위로는 구름 한 점 없이 맑지만 따뜻한 황금빛 톤으로 바랜 청명한 연하늘색 배경이 넓게 펼쳐져 있으며, 바닥에는 테니스 코트의 초록색 바닥면과 하얀색 베이스라인의 일부가 속도감 있는 흐림 효과와 함께 살짝 걸쳐져 있습니다. 9:16비율로 만들어줘. 아날로그 필름감성
+```
+
+**来源：** [@CHAse](https://x.com/CHAseUnre/status/2070566260103127092) | 2026-06-26
+
+---
+
+### 🧍 例 2506：赛博朋克特工角色设定表
+
+![赛博朋克特工角色设定表](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="KAIYŌ"} 创建一个未来感动漫/赛博朋克风格的角色身份项目，她是来自隐秘派系的特工，整体呈现为简洁的机密概念艺术设定表。
+
+画布：4:3 横向白色摄影棚背景，高分辨率数字插画，留白充足，带有淡粉色细分割线，深炭灰色排版，搭配亮粉色强调标签。
+
+布局：最左侧放置大型派系标志，下方文字为“CIAO SYNDICATE”。左上角身份信息块，大标题为“KAIYŌ”，右侧附带小型日文“海洋”，副标题为“Operative / Infiltration Specialist”，随后是六行紧凑的档案信息：Real Name: KAIYŌ; Code Name: WAVE; Faction: CIAO SYNDICATE; Role: INFILTRATION SPECIALIST; Origin: UNKNOWN; Weapon: CUSTOM SMG。在档案下方用粉色字体添加引言：“THE QUIETEST WAVE LEAVES THE DEEPEST MARK.”
+
+主体：中心位置为一名年轻女性潜入专家的全彩插画，她呈紧张的蹲姿，一膝着地，手持一把向下指的紧凑型定制冲锋枪。她拥有 {argument name="hair color" default="长银薰衣草色头发，带有粉色挑染"}，高马尾，发丝凌乱，眼神锐利，下半脸戴着带有图案的战术呼吸面罩。服装为叠穿的宽松战术和服式外套，内搭深色紧身衣，工装裤，黑色护膝和护胫，厚底战斗靴，露指手套，侧带，腰带，悬垂的织物丝带，以及洋红色战术装饰。光影和绘画风格为充满活力的概念艺术，笔触棱角分明，赛璐珞动漫写实风格，洋红色/青色轮廓光，深紫色阴影，边缘清晰。
+
+左侧细节面板：在身份信息块下方包含 3 个面板：1) “FULL BODY”面板，展示角色站立手持冲锋枪的全身小图；2) “COLORS”面板，包含 5 个垂直色卡：淡薰衣草灰、亮洋红、深紫色、深青色和近黑色炭灰色；3) “WEAPON”面板，展示侧视图的紧凑型定制冲锋枪，包含消音器、瞄准镜、弹匣、前握把、伸缩枪托和一个小型洋红色丝带标签。
+
+右侧细节面板：在粉色标签“HEAD DETAILS”下方包含 4 个头部细节特写：1) 戴面罩的正视图，直视前方；2) 显示高马尾和面罩侧影的四分之三侧视图；3) 显示马尾和外套领口的后视图；4) 如需平衡画面，可在上方集群中额外增加一个小头部特写。下方包含标签“TURNAROUND”以及 4 个全身转面图：正面、四分之三侧面、侧面轮廓和背面。
+
+视觉风格：高级游戏角色概念设定表，灵感源自现代战术动漫设计和精美的科幻身份项目，简洁的编辑排版，粉色细引导线，人物下方有微妙的灰色阴影，无复杂的背景环境。使用 {argument name="accent color" default="hot magenta"} 作为主要的图形强调色和轮廓光颜色。
+
+约束：除角色名称旁的小字“海洋”外，所有可见文字均保持为英文。严格使用上述列出的面板和细节视图数量。不要添加额外的角色、标志、UI 窗口、水印或背景环境。
+
+[English]
+Goal: Create a futuristic anime/cyberpunk character identity board for {argument name="character name" default="KAIYŌ"}, an operative from a covert faction, presented like a clean confidential concept-art sheet.
+
+Canvas: Landscape 4:3 white studio background, high-resolution digital illustration, lots of negative space, thin pale pink divider lines, dark charcoal typography with hot-pink accent labels.
+
+Layout: Large faction logo on the far left with the text “CIAO SYNDICATE” beneath it. Top-left identity block with the huge title “KAIYŌ” and small Japanese text “海洋” to the right, subtitle “Operative / Infiltration Specialist,” then six compact dossier rows: Real Name: KAIYŌ; Code Name: WAVE; Faction: CIAO SYNDICATE; Role: INFILTRATION SPECIALIST; Origin: UNKNOWN; Weapon: CUSTOM SMG. Add the quote “THE QUIETEST WAVE LEAVES THE DEEPEST MARK.” in pink below the dossier.
+
+Main subject: Center-dominant full-color illustration of a young female infiltration specialist kneeling in a tense crouch, one knee up and one knee down, holding a compact custom SMG pointed downward. She has {argument name="hair color" default="long silver-lavender hair with pink highlights"}, a high ponytail with loose strands, sharp intense eyes, and a patterned tactical respirator mask covering the lower half of her face. Outfit is a layered loose tactical kimono-style jacket over dark undersuit pieces, baggy cargo pants, black knee pads and shin guards, chunky combat sneakers, fingerless gloves, side straps, belts, dangling fabric ribbons, and magenta tactical accents. Lighting and painting style are energetic concept art with angular brush strokes, cel-shaded anime realism, magenta/cyan rim lighting, deep violet shadows, and crisp edges.
+
+Left-side detail panels: Include exactly 3 panels on the left below the identity block: 1) “FULL BODY” panel showing a small standing full-body version of the character holding the SMG at her side; 2) “COLORS” panel with exactly 5 vertical color swatches: pale lavender gray, hot magenta, dark purple, deep teal, and near-black charcoal; 3) “WEAPON” panel showing a side-view compact custom SMG with suppressor, optic, magazine, foregrip, collapsible stock, and a small magenta ribbon tag.
+
+Right-side detail panels: Include exactly 4 cropped head-detail views under the pink label “HEAD DETAILS”: 1) front view with mask and direct stare, 2) three-quarter side view showing high ponytail and mask profile, 3) rear head view showing ponytail and jacket collar, 4) a small additional head crop integrated in the upper cluster if needed for balance. Below them, include the label “TURNAROUND” and exactly 4 full-body turnaround figures: front, three-quarter/front-side, side profile, and back view.
+
+Visual style: Premium game-character concept sheet, inspired by modern tactical anime design and slick sci-fi identity boards, clean editorial layout, thin pink guide lines, subtle gray shadows under figures, no heavy background scenery. Use {argument name="accent color" default="hot magenta"} as the main graphic accent and rim-light color.
+
+Constraints: Keep all visible text in English except the small “海洋” next to the character name. Use exactly the counted panels and detail views listed above. Do not add extra characters, logos, UI windows, watermarks, or background environments.
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2070412310548738523) | 2026-06-26
+
+---
+
+### 🧍 例 2530：极端天气电视记者生成系统
+
+![极端天气电视记者生成系统](../../images/%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E7%94%B5%E8%A7%86%E8%AE%B0%E8%80%85%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F.jpg)
+
+**Prompt:**
+
+```text
+【入力項目】 参照画像：1枚 天候タイプ：猛暑 / 台風 / 猛吹雪 アスペクト比：必須（例1:1） 【推奨参照画像】 人物1人の顔立ち、髪型、髪色、年齢感、体型、衣装の雰囲気が分かる画像を使用してください。顔から上半身、または全身が写っている画像を推奨します。背景はシンプルなものが適しています。 【本文指示書】 添付した参照画像の人物を、架空のテレビ放送で極端な天候の現場から中継している屋外リポーターとして描写してください。 参照画像からは、顔立ち、髪型、髪色、目の印象、年齢感、体型、人物の雰囲気、表現形式を忠実に維持し、別人化させないでください。実写画像は高品質な実写として、アニメやイラストは元の絵柄、線、彩色、質感を保ったまま再構成してください。 参照画像の背景、照明、構図、元のポーズは継承しません。衣装は元の色や雰囲気を可能な範囲で残しながら、入力された天候に適した状態や装備へ自然に調整してください。 人物は放送用のハンドマイクを持ち、カメラに向かって状況を伝えている現地リポーターです。冷静に立っているだけではなく、極端な天候に翻弄され、慌てふためきながらも必死に中継を続けている瞬間を描写してください。 髪、衣服、表情、姿勢、身体の傾き、手の動き、持ち物を天候に自然に反応させ、人物が本当にその現場にいるように表現してください。表情は状況の厳しさが伝わる程度に大きくしますが、恐怖や苦痛だけの深刻な表現にはしないでください。SNSで映える印象的な現地中継にしてください。ただし、その映えはUIの装飾ではなく、人物のリアクションと異常気象の迫力で表現してください。 画面には、シンプルな架空のテレビ中継UIを重ねてください。UIは全天候で同じ形と配置に固定し、賑やかな装飾、天気図、複雑な数値、長い文章は入れません。 画面上部には、左右に対になる小さな固定UIを配置してください。 左上には、赤い横長の小型バナーの中に白文字で「LIVE」と表示してください。 右上には、左上と同じ上端位置、同じ高さ、同じデザイン系統の小型バナーUIとして、赤白の警告三角アイコンと白文字の「ALERT」を表示してください。左右のUIは、上端からの距離と左右端からの距離を揃え、横幅は内容に応じて自然に調整してください。 画面下部には横長のシンプルな放送帯を配置してください。下段の帯には、入力された天候タイプと完全に同じ文字だけを、大きく明確に表示してください。 入力が「猛暑」の場合は「猛暑」 入力が「台風」の場合は「台風」 入力が「猛吹雪」の場合は「猛吹雪」 文字は、上部UIの「LIVE」「ALERT」と、下段帯の天候タイプ表示だけに限定してください。指定された天候名以外の文章、地域名、放送局名、番組名、実在ロゴ、企業ロゴ、追加テロップは表示しないでください。背景内にも、読める看板、広告、案内板、道路標識の文字、説明文、英字、日本語、数字を表示しないでください。 【天候別表現】 ■ 猛暑 強烈な真夏の日差しに照らされた都市の街頭を背景にしてください。通常の晴天ではなく、危険な猛暑であることを一目で分かるようにしてください。 路面は、白っぽく日焼けした、乾いた、マットで光沢のないアスファルトにしてください。細かなひび割れ、乾いた砂ぼこり、輪郭の明確な強い影、遠景の路面上にわずかに見える陽炎によって、乾燥した極端な暑さを表現してください。濡れた路面、水たまり、冠水、鏡面反射、雨上がりのような質感、水しぶき、霧、水蒸気のような見え方は入れないでください。 人物は額や首元に大量の汗をかき、顔が少し火照り、暑さとまぶしさに耐えながら中継してください。片手にマイクを持ち、もう片方の手に持ったハンカチまたは小さなタオルで汗を拭ってください。暑さで少し髪が乱れ、焦りながらも報告を続けている様子にしてください。汗は主に肌に表現し、髪や衣服は雨に濡れたような状態にしないでください。衣服は基本的に乾いた状態を保ってください。 ■ 台風 暗い空、横殴りの豪雨、暴風、水しぶき、濡れた路面、強く揺れる木々が見える屋外現場を背景にしてください。風と雨が画面を横切り、台風の激しさが一目で分かるようにしてください。 人物は身体を斜めに傾け、足元を踏ん張りながら中継してください。髪は強風で激しく乱れ、衣服も大きくあおられ、雨で濡れています。片手でマイクを強く握り、もう片方の手で身体や衣服を支えるような仕草を入れてください。必要に応じて、元衣装の雰囲気を残した簡易レインウェアやフードを自然に追加してください。傘は使用しないでください。ポーズは大きくしすぎず、報道画面として顔、両手、マイクが見やすい範囲に収めてください。 ■ 猛吹雪 大量の雪と強風に包まれた冬の街路を背景にしてください。雪は横方向へ激しく吹きつけ、視界は白くかすみ、道路や周辺には厚い積雪があります。通常の降雪ではなく、立っていることも難しい猛吹雪であることを明確にしてください。 人物は厚手の防寒コート、マフラー、手袋、必要に応じてフードを着用し、寒さで身体を縮めながら前傾姿勢で踏ん張ってください。髪、肩、防寒具には雪が付着し、目を細めながら必死に中継を続けている様子にしてください。防寒具の色や印象は、参照画像の衣装と人物の雰囲気に自然に合わせてください。 【構図と仕上げ】 人物を画面の主役として、頭頂から膝上までが明確に見える中距離のテレビ中継構図にしてください。人物は画面中央に配置し、顔、両手、マイク、天候に反応する姿勢、背景の異常気象、上部UI、下段UIがすべて読み取りやすい構成にしてください。 人物の大きさは、上部UIと下部UIの間に無理なく収まり、テレビ中継画面として安定して見える範囲にしてください。極端な広角、極端なポスター風構図、人物が画面を占めすぎる構図は避けてください。 天候は強く大げさに表現しますが、人物の顔や身体を完全に隠さないでください。流血、負傷、倒壊、避難者、深刻な災害被害は描写せず、SNSで映える、コミカルさと臨場感のある誇張された現地中継として仕上げてください。 UIの帯や文字を人物、マイク、手、顔に重ねないでください。人物の身体、指、マイクを正しく描写し、人物の重複、別人化、余分な手足、余分なマイク、文字化け、意味不明な文字、実在ロゴを生成しないでください。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2070347937952211435) | 2026-06-26
+
+---
+

@@ -4534,3 +4534,270 @@ A deconstructed, mixed-media digital collage artwork. The subject is {argument n
 
 ---
 
+### 🖥️ 例 2463：日式禅意庭院
+
+![日式禅意庭院](../../images/%E6%97%A5%E5%BC%8F%E7%A6%85%E6%84%8F%E5%BA%AD%E9%99%A2.jpg)
+
+**Prompt:**
+
+```text
+美麗な写真を生成。{argument name="場所" default="京都"}をイメージとした架空の寺の庭 枯山水が綺麗にありその手前には{argument name="人物" default="僧侶"}が佇んでいるシーン。現代の日本でありながら幽玄な雰囲気を醸し出している
+```
+
+**来源：** [@陽仙堂](https://x.com/yosendou/status/2070540552790212924) | 2026-06-26
+
+---
+
+### 🖥️ 例 2467：未来感时尚杂志海报
+
+![未来感时尚杂志海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实未来感时尚杂志海报，展示了一位 {argument name="model description" default="时尚的东亚男性模特"}，置身于名为 VORTEX COLLECTION 003 的全息 UI 系统中，画面中绝对没有任何文字、词汇或字母。构图中心是一个巨大的悬浮 3D 玻璃立方体，内含模特佩戴 {argument name="clothing" default="黑色高领毛衣和深色皮大衣"} 的特写肖像，湿发造型，强烈的电影级灯光，面部细节清晰锐利。主立方体周围环绕着四个较小的悬浮全息面板，分别展示了同一模特的不同角度：在雨中城市街道行走并带有动态模糊、侧面电影级肖像、暗光摄影棚中的自然微笑瞬间，以及带有风动效果的动态时尚姿势。整个场景设定在黑暗的未来科幻环境中，配有发光的 {argument name="ui color" default="霓虹绿 HUD 元素"}、圆形数字网格、扫描线和科技界面叠加层。UI 细节包括抽象的全息相机设置线条、镜头图表和面板上的技术几何线条，玻璃立方体边缘带有发光的祖母绿光泽，辅以细微的粒子效果和数字失真波纹。风格：超写实、电影级灯光、8K 细节、高级时尚杂志美学、赛博朋克极简 UI 设计、高端奢华科技感、浅景深、体积光、面部焦点清晰、带有霓虹点缀的黑暗情绪化氛围。纵横比：1:1，方形构图，中心对称，简洁设计，无任何文字。
+
+[English]
+Hyper-realistic futuristic fashion editorial poster featuring a {argument name="model description" default="stylish East Asian male model"} presented inside a holographic UI system called VORTEX COLLECTION 003, with absolutely no text, no words, and no letters anywhere in the image. The composition shows a central large floating 3D glass cube containing a close-up portrait of the model wearing a {argument name="clothing" default="black turtleneck and dark leather coat"}, with wet hair, intense cinematic lighting, and sharp facial details. Surrounding the main cube are four additional smaller floating holographic panels, each showing different angles of the same model: walking in a rainy urban street with motion blur, a side profile cinematic portrait, a candid smiling moment in dark studio lighting, and a dynamic fashion pose with wind motion. The entire scene is set in a dark futuristic sci-fi environment with glowing {argument name="ui color" default="neon green HUD elements"}, circular digital grids, scanning lines, and tech interface overlays. UI details include abstract holographic camera settings lines, lens graphs, and technical geometry lines on panels, with glowing emerald green light edges around glass cubes, subtle particle effects, and digital distortion waves. Style: ultra-realistic, cinematic lighting, 8K detail, high-fashion magazine aesthetic, cyberpunk minimal UI design, premium luxury tech look, shallow depth of field, volumetric lighting, sharp focus on face, dark moody atmosphere with neon accents. Aspect ratio: 1:1, square composition, centered symmetry, clean design with zero text.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2070531839777992880) | 2026-06-26
+
+---
+
+### 🖥️ 例 2468：现代都市街头风人像
+
+![现代都市街头风人像](../../images/%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E9%A3%8E%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在不改变女性面部特征或整体外观的前提下，捕捉她迈步时的瞬间，背景设定为 {argument name="setting" default="一处轻松的都市环境，旁边是风化的石阶和线条简洁的现代金属栏杆"}，背景点缀着郁郁葱葱的绿植。她身穿 {argument name="outfit" default="一件修身的白色短款背心，下摆采用自然的非对称剪裁，隐约展现出她紧致的腰部线条"}。她的姿态自然随性，一只手臂自然下垂，另一只手臂微微弯曲，手部轻搭在髋部附近。肩上舒适地挎着一个 {argument name="handbag" default="时髦的黑色 GUESS 单肩包"}。她将上衣与宽松的高腰白色破洞牛仔裤搭配，宽腿设计和精心设计的破洞细节营造出当代街头时尚感。一只精致的不锈钢腕表在她的右腕上捕捉着柔和的阳光。她浓密的长发编成一条垂至腰间的粗辫子，搭在一侧肩头，并用一条宽大的浅色发带固定。大号时尚墨镜遮住部分面部，营造出一种低调而精致的氛围，而叠戴的细项链配以精致的小吊坠，增添了微妙的闪光感与高级感。柔和的午后阳光轻柔地照亮了整个场景，凸显出石材、牛仔、布料和拉丝金属的质感，平滑的阴影增强了画面的深度与维度。整体氛围轻松时髦、现代且充满夏日气息，将休闲优雅与一丝神秘感完美融合。超写实摄影，极其细腻的纹理，电影级自然光效，顶级时尚杂志画质，浅景深，8K 分辨率。
+
+[English]
+Without altering the woman’s facial features or overall appearance, capture her mid-step in a {argument name="setting" default="relaxed urban setting beside weathered stone stairs and a modern metal railing with clean vertical lines"}, framed by lush green foliage in the background. She wears a {argument name="outfit" default="fitted white cropped tank with an organically raw, asymmetrical hem that subtly reveals her toned waist"}. Her posture is effortless and natural, one arm hanging loosely while the other bends slightly with her hand resting near her hip. A {argument name="handbag" default="sleek black GUESS shoulder bag"} hangs comfortably from her right shoulder. She pairs the top with loose-fitting high-waisted white distressed denim featuring wide legs and carefully placed ripped details for a contemporary streetwear aesthetic. A polished stainless-steel wristwatch catches soft sunlight on her right wrist. Her long, voluminous hair is braided into a thick waist-length plait draped over one shoulder, secured with a broad light-colored headband. Large fashionable sunglasses partially shade her face, creating an understated, sophisticated mood, while delicate layered necklaces with tiny pendants add subtle sparkle and refinement. Soft afternoon daylight gently illuminates the scene, bringing out the textures of stone, denim, fabric, and brushed metal while smooth shadows enhance depth and dimension. The overall mood is effortlessly chic, modern, and summery, blending casual elegance with a hint of mystery. Ultra-photorealistic, exceptionally detailed textures, cinematic natural lighting, premium fashion editorial quality, shallow depth of field, 8K resolution.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2070528916788486415) | 2026-06-26
+
+---
+
+### 🖥️ 例 2494：星尘飞机咖啡馆
+
+![星尘飞机咖啡馆](../../images/%E6%98%9F%E5%B0%98%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度精细的竖版奇幻故事书插画，采用柔和的动漫水彩风格：在暮色下，一家魔法沙漠咖啡馆建在了一架坠毁的旧螺旋桨飞机侧面，头顶是璀璨的银河，温暖的灯笼光从咖啡柜台溢出。场景名称为 {argument name="cafe name" default="STARDUST CAFÉ"}；请将此名称绘制在飞机机身上以及一块黑板招牌上。飞机机头和巨大的螺旋桨占据左侧，右侧机翼在上方延伸，形成一个覆盖着常春藤、悬挂灯泡、星星装饰、玻璃灯笼的遮阳篷，机翼尖端垂下一条带有金星图案的浅色围巾。在机翼下方，写上手写体短语“Come for Coffee, Stay for Wonder”。咖啡柜台细节丰富：黄铜咖啡壶、玻璃罐、茶杯、烘焙饼干、玻璃罩、瓶子、配料架、复古时钟、咖啡滤杯、植物和魔法小饰品。包含四个主要角色：1) {argument name="girl character" default="爱丽丝"}，一位金发少女，身穿蓝色连衣裙，配白色围裙、黑色鞋子、白色长筒袜和蝴蝶结，站在左侧，好奇地望向咖啡馆；2) {argument name="rabbit character" default="白兔"}，一只焦急的白兔，身穿蓝色马甲和外套，手持怀表，神色匆忙；3) {argument name="cat character" default="橘猫服务员"}，一只站立的橘色虎斑猫，系着小领结，挡住兔子的去路并坚持做出手势；4) {argument name="barista character" default="一位温柔的棕发咖啡师女孩"}，柜台后一位面带微笑的咖啡师，留着波浪卷发，身穿米色衬衫，戴着星星耳环，系着星形图案围裙，正在提供现煮咖啡和糕点。让兔子看起来像是想说他没时间，而猫服务员显然拒绝让他离开，爱丽丝则被咖啡和甜点深深吸引。添加五个清晰可见的招牌区域：1) 飞机机身标志“STARDUST CAFÉ”，2) 机翼短语“Come for Coffee, Stay for Wonder”，3) 主菜单黑板，列出“Milky Way Latte”、“Starry Night Mocha”、“Desert Rose Tea”、“Moonlight Cocoa”、“Comet Caramel Macchiato”和“Wonderland Brew”，4) 木制路标，写着“TEA PARTY”、“DESSERT”和“THIS WAY”，以及 5) 前方黑板，写着“STARDUST CAFÉ / Coffee, Tea & Curious Adventures Await”。场景周围环绕着沙漠仙人掌、玫瑰、野花、旧手提箱、小木箱、欢迎牌、盆栽植物，以及兔子和猫脚下的蓝色星空地毯。使用温暖的金色粉色日落天际线，渐变为深紫蓝色的银河天空，远处有山脉，点缀着尘埃、闪光、柔和的边缘光，线条精细，营造出温馨的童话氛围，5k 分辨率，无现代物品，非写实风格，无额外角色，无水印。
+
+[English]
+Create a highly detailed vertical fantasy storybook illustration in a soft anime watercolor style: a magical desert café built into the side of an old crashed propeller airplane at twilight, with a glowing Milky Way sky overhead and warm lantern light spilling from the café counter. The setting is called {argument name="cafe name" default="STARDUST CAFÉ"}; show the name painted on the airplane fuselage and on a chalkboard sign. The airplane nose and large propeller dominate the left side, while the right wing extends overhead as a canopy covered with ivy, hanging bulbs, star ornaments, glass lanterns, and a pale scarf with gold stars draped from the wingtip. On the underside of the wing, write the small hand-lettered phrase “Come for Coffee, Stay for Wonder.” The café counter is packed with tiny details: brass coffee kettles, glass jars, teacups, baked cookies, cloches, bottles, shelves of ingredients, a vintage clock, coffee drippers, plants, and magical trinkets. Include exactly four main characters: 1) {argument name="girl character" default="Alice"}, a blonde young girl in a blue dress with a white apron, black shoes, white stockings, and a bow, standing at the left and looking curiously toward the café; 2) {argument name="rabbit character" default="the White Rabbit"}, an anxious white rabbit in a blue waistcoat and jacket, holding a pocket watch and looking hurried; 3) {argument name="cat character" default="orange cat waiter"}, a standing orange tabby cat in a small bow tie, blocking the rabbit’s path and gesturing insistently; 4) {argument name="barista character" default="a gentle brown-haired café girl"}, a smiling barista behind the counter with wavy hair, a cream blouse, star earrings, and a star-pattern apron, offering freshly brewed coffee and pastries. Make the rabbit look like he wants to say he has no time, while the cat waiter clearly refuses to let him leave, and Alice is enchanted by the coffee and baked sweets. Add exactly five readable sign areas: 1) airplane/fuselage logo “STARDUST CAFÉ,” 2) wing phrase “Come for Coffee, Stay for Wonder,” 3) main menu chalkboard listing “Milky Way Latte,” “Starry Night Mocha,” “Desert Rose Tea,” “Moonlight Cocoa,” “Comet Caramel Macchiato,” and “Wonderland Brew,” 4) wooden directional signposts reading “TEA PARTY,” “DESSERT,” and “THIS WAY,” and 5) front chalkboard reading “STARDUST CAFÉ / Coffee, Tea & Curious Adventures Await.” Surround the scene with desert cacti, roses, wildflowers, old suitcases, small crates, a welcome sign, potted plants, and a blue starry rug under the rabbit and cat. Use a warm golden-pink sunset horizon fading into deep violet-blue galaxy sky, with mountains in the distance, dust, sparkles, soft rim light, intricate linework, cozy fairy-tale atmosphere, 5k detail, no modern objects, no photorealism, no extra characters, and no watermark.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2070436859734626794) | 2026-06-26
+
+---
+
+### 🖥️ 例 2497：奇幻铁路世界重构
+
+![奇幻铁路世界重构](../../images/%E5%A5%87%E5%B9%BB%E9%93%81%E8%B7%AF%E4%B8%96%E7%95%8C%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅插图。仔细分析上传的插图，理解其艺术风格、色彩、角色设计、主题、氛围、情感基调、符号、建筑、奇幻元素和世界观构建。将其转化为一个完全原创的 {argument name="railway style" default="绘本风格奇幻铁路"}。视觉风格必须变得柔和、可爱、充满奇思妙想、温馨且具有魔法感，而非写实风格。
+
+火车不得类似于任何现实中的铁路、新干线或磁悬浮列车。相反，火车本身要成为从上传插图中诞生的巨大活体吉祥物。其整体轮廓、面部、耳朵、角、花瓣、叶子、翅膀、尾巴、花朵、丝带、窗户、车轮、悬浮机制、装饰以及每一节车厢，都必须自然地从原图的世界中生长出来。
+
+每一幅插图都应创造出一种完全不同的生物。一个 {argument name="world theme" default="巫女世界"} 可能会变成一个巨大的 {argument name="living creature" default="招财狐狸、兔子、守护灵、神圣锦鲤或漂浮的神社生物"}。花朵世界可能会变成巨大的花卉动物。皇室世界可能会变成微笑的皇冠野兽。太空世界可能会变成星座鲸鱼。这种生物必须让观众一眼就能联想到：“只有这个角色的世界才能创造出这样的火车。”
+
+创造一个属于同一宇宙的梦幻奇幻车站。车站本身应该充满生命力：花朵车站、糖果车站、巨树车站、漂浮云朵站台、蘑菇村、水晶森林、玩具小镇、月亮花园、精灵村或由魔法铁路线连接的浮岛。
+
+将原角色放置在火车旁，带着温暖的微笑快乐地介绍它。微小的吉祥物居民、精灵、兔子、鸟类、灵体、花朵、气球、星星和魔法生物充盈在车站中，使整个世界充满生机。
+
+采用儿童绘本的氛围，使用柔和的圆润形状、夸张可爱的比例、温和的柔和色调、发光的花朵、闪烁的灯光、蓬松的云朵、魔法粒子、奇幻建筑、愉悦的表情、舒适的灯光以及极具感染力的魅力。每一个场景都应感觉像是进入了一本人们梦想乘坐其铁路的奇幻故事书。
+
+杰作，超细节，奇思妙想的奇幻，绘本插图，柔和光影，柔和色调，可爱的吉祥物设计，魔法铁路世界，可爱的奇幻建筑，极具想象力，梦幻般，温馨，迷人，无写实工程，无现代交通工具，无新干线轮廓，无水印。
+
+[English]
+Make an illustration. Analyze the uploaded illustration carefully and understand its art style, colors, character design, motifs, atmosphere, emotional tone, symbols, architecture, fantasy elements, and worldbuilding. Transform everything into a completely original {argument name="railway style" default="storybook-style fantasy railway"}. The visual style must become soft, cute, whimsical, heartwarming, and magical rather than realistic.
+
+The train must not resemble any real railway, Shinkansen, or maglev. Instead, the train itself becomes an enormous living mascot born from the uploaded illustration. Its entire silhouette, face, ears, horns, petals, leaves, wings, tail, flowers, ribbons, windows, wheels, floating mechanism, decorations, and every carriage must naturally grow from the original artwork’s world.
+
+Each illustration should create a completely different creature. A {argument name="world theme" default="shrine maiden world"} may become a giant {argument name="living creature" default="lucky fox, rabbit, guardian spirit, sacred koi, or floating shrine creature"}. A flower world may become a giant blossom animal. A royal world may become a smiling crown beast. A space world may become a constellation whale. The creature must immediately make viewers think, “Only this character’s world could create this train.”
+
+Create a dreamy fantasy station belonging to the same universe. The station itself should feel alive: flower stations, candy stations, giant tree stations, floating cloud platforms, mushroom villages, crystal forests, toy towns, moon gardens, fairy villages, or floating islands connected by magical railway lines.
+
+Place the original character beside the train with a warm smile, happily introducing it. Tiny mascot residents, fairies, rabbits, birds, spirits, flowers, balloons, stars, and magical creatures fill the station, making the world feel alive.
+
+Use a children’s picture-book atmosphere with soft rounded shapes, oversized cute proportions, gentle pastel colors, glowing flowers, sparkling lights, fluffy clouds, magical particles, whimsical architecture, joyful expressions, cozy lighting, and overwhelming charm. Every scene should feel like entering a fantasy storybook where people would dream of riding the railway.
+
+masterpiece, ultra detailed, whimsical fantasy, storybook illustration, soft lighting, pastel colors, adorable mascot design, magical railway world, cute fantasy architecture, highly imaginative, dreamlike, heartwarming, charming, no realistic engineering, no modern transportation, no Shinkansen silhouette, no watermark.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2070425181487841722) | 2026-06-26
+
+---
+
+### 🖥️ 例 2515：Q 版空气吉他项目
+
+![Q 版空气吉他项目](../../images/Q%20%E7%89%88%E7%A9%BA%E6%B0%94%E5%90%89%E4%BB%96%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为动画序列创建一个色彩丰富的 8 格 storyboard 表，主角为 {argument name="character name" default="Souichirock"}，一个正在表演激烈空气吉他独奏并以戏剧性砸吉他姿势结尾的 Q 版朋克摇滚男孩。
+
+画布：宽幅横向 storyboard 图像，干净的白色背景，分为 2 行 4 列的网格，共 8 个等大的矩形面板。使用细浅灰色面板边框。每个面板左上角都有一个带圈的黑色数字，依次标记为 1 到 8。
+
+视觉风格：手绘数字插画，具有粗黑墨线轮廓、夸张的漫画/Q 版比例、动态漫画动作姿势、富有表现力的愤怒摇滚表演表情，以及高能量的油漆喷溅效果。在角色周围使用青色、洋红色、紫色、橙色、绿色、蓝色和黑色的生动喷溅和扫掠弧线，以可视化空气吉他的声音和动作。保持背景大部分为白色且简洁。
+
+角色细节：同一个 Q 版男性角色出现在所有 8 个面板中。他留着短尖刺状的 {argument name="hair color" default="black"} 头发，皮肤苍白，浓密的黑色眉毛，张开大喊的嘴（内部为红色），表情凶狠。服装：短袖米色衬衫，上面覆盖着彩色油漆状斑点，黑色裤子，黑色鞋子，黑色铆钉护腕，展现出小小的朋克摇滚态度。他手中没有实物吉他；双手模拟弹奏和砸空气吉他的动作。
+
+分格动作序列：包含 8 个编号面板。面板 1：双腿分开站立，左手低位仿佛握住空气吉他的琴颈，右手在身体附近抓挠，大喊，身后有明亮的油漆爆发，蓝紫色弧线向右扫过。面板 2：更深的弓步，双腿张开更大，双手积极地扫弦和按压空气吉他，巨大的蓝色和洋红色声波漩涡从他右侧喷涌而出。面板 3：居中的摇滚姿势，膝盖弯曲，左手伸出如吉他琴颈，右手靠近躯干，对着观众大喊，身后有密集的彩色喷溅。面板 4：向右大幅后仰，一只手呈爪状抬起，另一只手靠近腰部，双腿对角伸展，橙-蓝-洋红色螺旋在他周围扫过。面板 5：低蹲并向前倾，一只膝盖接近地面，双手处于激进的空气吉他位置，周围环绕着紫色、粉色、绿色和蓝色的油漆轨迹。面板 6：低位弓步姿势，身体向前倾斜，一只手向下伸，另一只手向外抓挠，身后放射出爆炸性的彩色油漆喷溅。面板 7：空中跳跃姿势，膝盖弯曲，一只拳头举过头顶，嘴巴大张着尖叫，带有垂直运动线条，彩虹色油漆弧线在他下方和身后弯曲。面板 8：最终砸吉他高潮，角色向前弯曲，双手向下猛击，仿佛将空气吉他砸向地面，黑色冲击线和巨大的彩色喷溅爆炸向外扩散。
+
+约束：使用 8 个面板，每个面板仅限一个角色。保留带圈的小面板数字 1、2、3、4、5、6、7 和 8。除面板数字外，不要添加任何说明文字。不要添加真实的吉他、舞台、观众、水印、Logo 或额外角色。
+
+[English]
+Goal: Create a colorful 8-panel storyboard sheet for an animated sequence featuring {argument name="character name" default="Souichirock"}, a chibi punk-rock boy performing an intense invisible air-guitar solo and ending with a dramatic guitar-smash pose.
+
+Canvas: Wide horizontal storyboard image, clean white background, divided into exactly 8 equal rectangular panels arranged in a 2-row by 4-column grid. Use thin light-gray panel borders. Each panel has a small circled black number in the upper-left corner, labeled exactly 1 through 8.
+
+Visual style: Hand-drawn digital illustration with bold black ink outlines, exaggerated manga/chibi proportions, dynamic comic action poses, expressive angry rock-performance face, and high-energy paint-splash effects. Use vivid splashes and sweeping arcs of cyan, magenta, purple, orange, green, blue, and black around the character to visualize the sound and motion of the invisible guitar. Keep the background mostly white and uncluttered.
+
+Character details: The same chibi male character appears in all 8 panels. He has short spiky {argument name="hair color" default="black"} hair, pale skin, thick black eyebrows, an open shouting mouth with red interior, and an intense scowling expression. Outfit: short-sleeve cream shirt covered in colorful paint-like marks, black pants, black shoes, black studded wristbands, and a small punk-rock attitude. He does not hold a visible guitar; his hands mime playing and smashing an air guitar.
+
+Panel-by-panel action sequence: Include exactly 8 numbered panels. Panel 1: wide-legged stance, left hand low as if gripping the neck of an invisible guitar, right hand clawing near the body, shouting, with bright paint bursts behind him and blue-magenta arcs sweeping to the right. Panel 2: deeper lunge, legs spread wider, both hands actively strumming and fretting an invisible guitar, a large blue and magenta sound-wave swirl blasting from his right side. Panel 3: centered rock stance, knees bent, left hand extended like a guitar neck, right hand near the torso, shouting toward the viewer, with dense multicolor splatter behind him. Panel 4: leaning far backward to the right, one hand raised in a claw shape and the other near his waist, legs stretched diagonally, with an orange-blue-magenta spiral sweeping around him. Panel 5: crouched low and leaning forward, one knee near the ground, hands in aggressive air-guitar position, surrounded by looping purple, pink, green, and blue paint trails. Panel 6: low lunging pose, body angled forward, one hand reaching down and the other clawed outward, with explosive colorful paint splashes radiating behind him. Panel 7: airborne jump pose, knees bent, one fist raised overhead, mouth wide open in a scream, with vertical motion lines and a rainbow paint arc curving underneath and behind him. Panel 8: final guitar-crash climax, character bent forward with both hands driving downward as if smashing the invisible guitar into the ground, black impact lines and a huge multicolor splatter explosion spreading outward.
+
+Constraints: Use exactly 8 panels and exactly one character per panel. Preserve the small circled panel numbers 1, 2, 3, 4, 5, 6, 7, and 8. No captions other than the panel numbers. Do not add a real guitar, stage, audience, watermark, logo, or extra characters.
+```
+
+**来源：** [@もんなつ SHOWSHOWMOM](https://x.com/poohnatsu725/status/2070393236024344817) | 2026-06-26
+
+---
+
+### 🖥️ 例 2522：吸睛的 AI 外貌咨询销售横幅
+
+![吸睛的 AI 外貌咨询销售横幅](../../images/%E5%90%B8%E7%9D%9B%E7%9A%84%20AI%20%E5%A4%96%E8%B2%8C%E5%92%A8%E8%AF%A2%E9%94%80%E5%94%AE%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一款吸睛的日式社交媒体销售横幅，用于推广 AI 外貌咨询提示词包，设计风格参考高转化率的 X/Twitter 促销缩略图。
+
+画布：宽屏 16:9 横幅，超高饱和度，光泽感，电影级广告设计。背景为爆炸式的金粉色金钱喷溅效果，伴有飞舞的日元硬币、纸币、火花轨迹、五彩纸屑和强烈的镜头光晕。
+
+布局：左侧三分之一处设有一个可爱的吉祥物角色，身穿白色连帽衫和白色长裤，向前奔跑或倾身，双手向观众伸出。该角色拥有圆形的白色头盔状头部、黑色的 X 型眼睛和一张大大的黑色笑脸，类似于友好的无脸吉祥物。吉祥物上方有一个白色对话气泡，写着「今日から」，旁边配有一对巨大的红色感叹号。左下角设有一个黑金色的月桂徽章，写着「累計 5億」。
+
+中心：视觉焦点是巨大的 3D 金属金色字体，带有戏剧性的斜面、阴影和发光高光。在顶部中心放置一个紫色丝带标签，写着「1件あたり」。下方展示主要价格堆叠：第一行「¥10,000〜」，第二行「¥20,000」，字体极大且呈金色。在价格下方，添加一条金色丝带，写着「今日から売れる」。
+
+产品元素：在中心周围包含 3 个盒装产品/包装模型：1) 左中位置的一个深红色盒子，标注为「提案資料 一式」，带有一个小型文档预览；2) 中心左下方的一个较小的深红色盒子，标注为「プロンプト集」，带有一个聊天气泡图标；3) 右侧的一个深红色盒子，标注为「Before/After 画像」，展示两张女性侧面照片，并带有小的英文标签“BEFORE”和“AFTER”。
+
+右侧：在右上角添加一个倾斜的红色橡胶印章图形，上面用英文写着“SOLD OUT”，带有透明的白色印章背景和做旧纹理。
+
+底部排版：在底部横贯巨大的红金渐变 3D 日文字体，带有白色高光和深色投影，写着「1〜2万円／今日から売れる」。在其上方，在一条白金相间的横幅上，放置紫色文字「AI 外見コンサル完全プロンプト」。
+
+视觉风格：极具冲击力的日本网络营销缩略图，奢华的金色、红色、紫色和洋红色调，高对比度，夸张的 3D 文字，发光轮廓，闪光效果，动态感，构图紧凑，营造出庆祝性的“金钱爆炸”氛围。
+
+文字自定义：除非另有说明，否则请使用指定的日文文案：{argument name="main price text" default="¥10,000〜 ¥20,000"}, {argument name="bottom headline" default="1〜2万円／今日から売れる"}, {argument name="product name" default="AI 外見コンサル完全プロンプト"}, {argument name="top ribbon text" default="1件あたり"}, {argument name="stamp text" default="SOLD OUT"}.
+
+限制：保持所有文字清晰易读，严格保留 3 个产品盒、1 个吉祥物、1 个对话气泡、1 个徽章和 1 个售罄印章。不要添加额外的徽标、水印或无关字符。
+
+[English]
+Goal: Create a flashy Japanese social-media sales banner advertising an AI appearance-consulting prompt package, designed like a high-converting X/Twitter promo thumbnail.
+
+Canvas: Wide horizontal 16:9 banner, ultra-saturated, glossy, cinematic ad design. Background is an explosive gold-and-magenta money burst with flying yen coins, banknotes, spark trails, confetti, and intense lens flares.
+
+Layout: Left third features a cute mascot character in a white hoodie and white pants, running or leaning forward with both hands extended toward the viewer. The character has a round white helmet-like head, black X-shaped eyes, and a big smiling black mouth, similar to a friendly faceless mascot. Above the mascot is one white speech bubble reading 「今日から」 and a large red exclamation mark pair nearby. Bottom-left has a black-and-gold laurel badge reading 「累計 5億」.
+
+Center: The main focal point is huge 3D metallic-gold typography with dramatic bevels, shadows, and glowing highlights. At the top center, place a purple ribbon label reading 「1件あたり」. Below it, show the main price stack: 「¥10,000〜」 on the first line and 「¥20,000」 on the second line, extremely large and gold. Under the price, add a gold ribbon reading 「今日から売れる」.
+
+Product elements: Include exactly 3 boxed product/package mockups around the center: 1) a dark red box near the left-center labeled 「提案資料 一式」 with a small document preview, 2) a smaller dark red box lower-left of center labeled 「プロンプト集」 with a chat bubble icon, and 3) a dark red box on the right labeled 「Before/After 画像」 showing two female profile photos side by side with small English labels “BEFORE” and “AFTER”.
+
+Right side: Add a tilted red rubber-stamp graphic in the upper-right that says “SOLD OUT” in English, with a transparent white stamp background and distressed texture.
+
+Bottom typography: Across the bottom, use enormous red-to-gold 3D Japanese lettering with white highlights and dark drop shadows reading 「1〜2万円／今日から売れる」. Just above that, on a white-and-gold banner, place purple text reading 「AI 外見コンサル完全プロンプト」.
+
+Visual style: Maximum-impact Japanese internet marketing thumbnail, luxury gold, red, purple, and magenta palette, high contrast, exaggerated 3D text, glowing outlines, sparkle effects, dynamic motion, dense composition, celebratory “money explosion” atmosphere.
+
+Text customization: Use the exact visible Japanese copy unless changed: {argument name="main price text" default="¥10,000〜 ¥20,000"}, {argument name="bottom headline" default="1〜2万円／今日から売れる"}, {argument name="product name" default="AI 外見コンサル完全プロンプト"}, {argument name="top ribbon text" default="1件あたり"}, {argument name="stamp text" default="SOLD OUT"}.
+
+Constraints: Keep all text crisp and readable, preserve the exact count of 3 product boxes, 1 mascot, 1 speech bubble, 1 badge, and 1 sold-out stamp. Do not add extra logos, watermarks, or unrelated characters.
+```
+
+**来源：** [@まるお｜AIエージェント×コンテンツマーケ｜AI特許取得｜慶應AI卒｜元日テレAI責任者｜1年で2億](https://x.com/Maruo_0314/status/2070361902182699210) | 2026-06-26
+
+---
+
+### 🖥️ 例 2527：深色聊天 UI 与失败的 4 图拼贴效果
+
+![深色聊天 UI 与失败的 4 图拼贴效果](../../images/%E6%B7%B1%E8%89%B2%E8%81%8A%E5%A4%A9%20UI%20%E4%B8%8E%E5%A4%B1%E8%B4%A5%E7%9A%84%204%20%E5%9B%BE%E6%8B%BC%E8%B4%B4%E6%95%88%E6%9E%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张深色模式的移动端聊天界面截图，展示 AI 图像生成结果未能生成四张独立图片，而是生成了一张 2×2 的拼贴图。
+
+画布：方形截图，约 768×768 像素，黑色背景，具有移动端 App UI 的裁剪感。在结果的右侧和下方留出大面积黑色空白。
+
+布局：在顶部居中位置，放置一个深灰色圆角提示气泡，内含中文指令文本“生成 4 张独立的图片”，下方带有粗红色下划线，再下方有一行较小的文字“收起 ^”。在左下方，显示一个中文状态标签“已停止思考 ›”。在其下方，放置一张生成的图片卡片，顶部圆角，包含 4 个排列成 2×2 网格的照片面板，由细白线分隔。在拼贴图的右下角重叠放置一个带有向下箭头的圆形下载按钮。在底部，显示一个横跨宽度的深色圆角输入栏：左侧为加号图标，占位符文本“有问题，尽管问”，右侧为模式文本“极速⌄”、麦克风图标以及一个白色圆形语音/均衡器按钮。
+
+生成图像内容：单张生成的图片卡片必须包含 4 个面板：左上、右上、左下、右下。每个面板展示同一位年轻女性在夜晚明亮的果汁店或饮料摊前摆姿势，背景有温暖的店面灯光、霓虹灯招牌、色彩鲜艳的饮品菜单“项目”，以及浅景深的手机摄影质感。她身穿粉色无袖露脐上衣和白色百褶短裙，扎着两个可爱的丸子头。为了隐私，她的脸部被柔和的矩形模糊处理。在每个面板中，她拿着不同的塑料饮料杯并插着吸管，姿势略有不同：1) 左上，双手捧着一杯红色饮料放在胸前；2) 右上，身体前倾，在霓虹灯“JUICE”招牌旁拿着一杯黄色/橙色饮料靠近脸部；3) 左下，在明亮的菜单“项目”前，将一杯大杯橙色饮料靠近嘴边；4) 右下，站在玻璃展示柜旁，拿着一杯淡粉色饮料。主体应为 {argument name="character description" default="一位扎着两个丸子头、身穿粉色无袖露脐上衣和白色百褶短裙、脸部模糊的年轻女性"}，拍摄地点为 {argument name="location" default="色彩鲜艳的夜间果汁店门前"}。
+
+视觉风格：使整体截图看起来像真实的手机截屏，而非精修的样机。使用略微压缩的截图画质、霓虹灯的柔和光晕、拼贴图中写实的色彩以及极简的深色 UI 元素。顶部气泡中的中文指令应为 {argument name="command text" default="生成 4 张独立的图片"}。状态标签应为 {argument name="status text" default="已停止思考 ›"}。底部输入占位符应为 {argument name="input placeholder" default="有问题，尽管问"}。
+
+约束：结果必须显示一张合并的 2×2 拼贴图，而不是四张独立的图片卡片。包含 4 个照片面板和 1 个下载图标。保留深色聊天界面、中文 UI 文本、红色下划线和底部输入栏。不要在生成的照片拼贴中添加额外的面板、额外的人员、水印或标题。
+
+[English]
+Goal: Create a dark-mode mobile chat screenshot showing an AI image generator response that incorrectly combines four requested images into one 2x2 collage.
+
+Canvas: Square screenshot, approximately 768×768 px, black background, cropped like a smartphone app interface in dark mode.
+
+Top prompt card: Near the top center, place a wide dark gray rounded rectangle message card. Inside it, show the Chinese prompt text {argument name="prompt text" default="生成4张独立的图片"} in white, with a thick red underline beneath it. Below that, show smaller gray text {argument name="collapse label" default="收起 ^"}. The card has a rounded lower-right corner and sits against empty black space.
+
+Status line: On the left below the prompt card, add a small gray status label {argument name="status text" default="已停止思考 ›"}.
+
+Main generated image area: Under the status line on the left, show exactly 1 rounded-corner generated image panel containing exactly 4 photo tiles arranged in a 2×2 grid, separated by thin white dividers. Each tile shows the same young woman in a bright beverage shop setting, but with slightly different pose and drink:
+1. Top-left tile: smiling young woman with double-bun hairstyle, pink sleeveless crop top and white pleated skirt, leaning forward and holding a red iced drink with a straw, menu board behind her.
+2. Top-right tile: same woman holding an amber bubble tea or juice drink, neon sign behind her, night street-shop lighting.
+3. Bottom-left tile: same woman holding a large orange drink with both hands, colorful drink menu and neon lights behind her.
+4. Bottom-right tile: same woman holding a pale pink drink, refrigerated display case behind her.
+The woman should have fair skin, soft glam makeup, brown hair in two messy buns with small hair accessories, a cheerful expression, and a cute influencer-style pose. The photo style is glossy, overexposed, saturated, and slightly unrealistic, like an AI-generated social media portrait collage.
+
+Overlay controls: Add one small circular download button with a downward arrow at the lower-right corner of the collage image.
+
+Bottom input bar: Across the bottom, draw a long dark gray rounded input bar. It contains exactly 5 visible elements: a plus icon on the far left, placeholder text {argument name="input placeholder" default="有问题，尽管问"}, a speed mode label {argument name="speed mode label" default="极速⌄"}, a microphone icon, and a white circular voice-wave button on the far right.
+
+Visual style: Preserve the look of a real mobile app screenshot: black empty negative space on the right, subtle gray UI text, rounded rectangles, clean sans-serif font, and slightly compressed screenshot quality. Do not create four separate files; the visual joke is that the four images are fused into one collage.
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2070349678248603872) | 2026-06-26
+
+---
+
+### 🖥️ 例 2532：哥特大教堂战斗少女
+
+![哥特大教堂战斗少女](../../images/%E5%93%A5%E7%89%B9%E5%A4%A7%E6%95%99%E5%A0%82%E6%88%98%E6%96%97%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的竖版动漫奇幻插画，描绘 {argument name="character name" default="一位苍白的银发战斗少女"} 身处破碎的哥特式大教堂废墟中。她以动态的低角度四分之三侧身动作呈现，穿过破碎的石块和烟雾向前冲刺，她长长的 {argument name="hair color" default="白银色"} 头发和许多半透明的丝带状面纱在风中狂乱飘动。她身穿华丽的深黑色与炭灰色战斗裙，带有层叠的褶边、蕾丝饰边、领口和头饰上的花卉装饰，以及贴身的铠甲细节，将哥特萝莉的优雅与饱经风霜的奇幻铠甲融为一体。她的表情冷静、专注，近乎面无表情，眼睛部分被刘海遮住。一只手臂伸向画面右侧巨大的透明椭圆形魔法盾牌；盾牌如玻璃般晶莹剔透、光芒四射，上面覆盖着同心圆符文、放射状机械图案、光裂纹和闪烁的碎片。她的另一只手臂握着或融合着一个巨大的圆柱形武器或护手炮，向下倾斜指向左下方，金属质感厚重，冒着烟，并发出微弱的橙色热光。背景是高耸的废墟大教堂内部，有破碎的拱门、参差不齐的墙壁、远处的尖塔、高大的拱窗、倒塌的砖石、尘埃云、飘落的灰烬和细小的余烬火花。使用以冷灰色、象牙白、炭灰色和柔和蓝灰色为主的单色调，并辅以来自余烬和魔法冲击光的暖橙色高光。风格应为高度细腻的日本动漫概念艺术，具有绘画般的水彩质感、墨水般的线条、电影级光影、体积感尘埃、丝带的动态模糊、复杂的织物褶皱，以及一种冲击感和神圣的荒凉感。构图：竖向构图，角色略微偏左居中，盾牌占据右侧边缘，武器从左下方切入，来自大教堂窗户和发光盾牌的明亮背光，无文字，无水印。
+
+[English]
+Create a vertical 2:3 high-detail anime fantasy illustration of {argument name="character name" default="a silver-haired battle maiden"} in a ruined gothic cathedral during combat. The character is centered in a dynamic low-angle three-quarter pose, leaning forward with one arm extended to the right holding a huge translucent circular shield or magical glass barrier, and the other arm lowered to the left with a heavy mechanical gauntlet cannon emitting smoke and orange heat. She has long flowing {argument name="hair color" default="silver-white"} hair, pale skin, a calm serious expression with half-lidded eyes, and delicate white floral head ornaments with ribbon-like streamers whipping through the air. Her outfit is a dark, ornate, tattered gothic dress with lace trim, layered white underskirt, black bodice, armored sleeves, and frayed cloth strips swirling around her. The environment is a vast collapsed stone cathedral with pointed arches, broken stained-glass windows, crumbling walls, distant ruined towers, dust, fog, rubble, and shafts of cold daylight. The shield is an oversized oval disk of clear glass-like energy with etched concentric circles and radial patterns, catching bright highlights on the right side of the image. Use a monochrome gray, ash, ivory, and charcoal palette with small warm ember sparks and glowing orange accents. Style should be painterly Japanese anime concept art, extremely detailed linework, dramatic motion, cinematic lighting, high contrast, watercolor-and-ink texture, atmospheric smoke, flying debris, no visible text, no watermark, no border.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2070343793736663187) | 2026-06-26
+
+---
+
