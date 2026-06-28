@@ -2208,3 +2208,21 @@ Constraints: Keep exactly 5 numbered main sections, exactly 2 comparison panels,
 
 ---
 
+### 📊 例 2562：皮克斯风格信息图故事板海报
+
+![皮克斯风格信息图故事板海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个清晰、简洁的信息图故事板海报，主题为 {argument name="subject" default="THE MILKSHAKE MAKER"}。宽屏 16:9 布局，白色背景，黑色边框，粗体黑色排版，高级皮克斯 3D 风格渲染，明亮生动的色彩 — {argument name="color scheme" default="奶油香草白，鲜艳红"}
+
+[English]
+Create a crisp, clean infographic storyboard poster for {argument name="subject" default="THE MILKSHAKE MAKER"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — {argument name="color scheme" default="creamy vanilla white, vivid red"}
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2070895951028298148) | 2026-06-27
+
+---
+

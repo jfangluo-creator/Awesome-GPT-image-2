@@ -3592,3 +3592,209 @@ Style: {argument name="toy material" default="translucent emerald green glossy v
 
 ---
 
+### 🧸 例 2558：皮克斯风格 3D 角色贴纸网格
+
+![皮克斯风格 3D 角色贴纸网格](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%203D%20%E8%A7%92%E8%89%B2%E8%B4%B4%E7%BA%B8%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张优质的皮克斯风格 3D 角色贴纸，主角为同一位具有辨识度的成年男性，设计参考高质量的即时通讯软件贴纸。
+
+画布：垂直 4:5 构图，超高分辨率，干净的暖奶油色背景，柔和的摄影棚灯光，无文字，无水印。
+
+布局：将 9 个独立的半身贴纸整齐地排列在 3×3 网格中，间距均匀。每个贴纸都有厚实的白色模切轮廓和细微的柔和投影，仿佛是贴在奶油色背景上的乙烯基贴纸。
+
+角色细节：角色为 {argument name="character identity" default="一位具有辨识度的类似 Elon Musk 的中年男子"}，肤色白皙，留着短而蓬松的后梳 {argument name="hair color" default="深棕色头发"}，圆脸，留有轻微胡茬，眉毛生动，呈现出友好的皮克斯风格 3D 卡通形象。在所有 9 个贴纸中保持相同的面部结构、发型、年龄和身份特征。
+
+贴纸数量与表情：包含 9 个贴纸，每个网格单元一个：
+1. 左上：放松的闭嘴微笑，身穿黑色皮夹克。
+2. 中上：张嘴大笑的表情，身穿黑色连帽衫。
+3. 右上：戴着黑色太阳镜的酷炫自信表情，身穿黑色外套。
+4. 左中：愤怒皱眉的表情，身穿深色衬衫。
+5. 正中：双眼圆睁、小嘴微张的惊讶表情，身穿深色夹克内搭浅色衬衫。
+6. 右中：向上侧方凝视的沉思姿态，一手托腮，身穿海军蓝毛衣。
+7. 左下：俏皮的眨眼并带有轻微坏笑，身穿橄榄绿夹克。
+8. 中下：充满爱意的表情，双眼为红色爱心，双手比出手指爱心手势，外加 2 个漂浮的小红心图标，两侧各一个。
+9. 右下：友好的点赞手势并带有温和微笑，身穿棕色夹克。
+
+视觉风格：优质精美的 3D 卡通渲染，皮克斯风格比例，平滑的皮肤阴影，写实但风格化的头发，明亮的眼睛，温暖的高光，清晰的贴纸边缘，柔和的阴影，迷人的表情包风格。
+
+约束条件：在整个网格中保持一致的头部大小和裁剪风格；仅使用半身像；保持背景简洁；不要添加标题、标签、徽标、额外角色或其他贴纸。
+
+[English]
+Goal: Create a premium Pixar-inspired 3D character sticker sheet of the same recognizable adult male character, designed like high-quality messaging app stickers.
+
+Canvas: Vertical 4:5 composition, ultra high resolution, clean warm cream background, soft studio lighting, no text, no watermark.
+
+Layout: Arrange exactly 9 separate bust-up stickers in a clean 3×3 grid with even spacing. Each sticker has a thick white die-cut outline and a subtle soft drop shadow, as if printed vinyl stickers placed on the cream background.
+
+Character details: The character is {argument name="character identity" default="a recognizable Elon Musk-like middle-aged man"}, with fair skin, short voluminous swept-back {argument name="hair color" default="dark brown hair"}, rounded face, light stubble, expressive eyebrows, and a friendly Pixar-style 3D caricature look. Keep the same facial structure, hairstyle, age, and identity consistent across all 9 stickers.
+
+Sticker count and expressions: Include exactly 9 stickers, one per grid cell:
+1. Top left: relaxed closed-mouth smile, wearing a black leather jacket.
+2. Top center: big open-mouth laughing expression, wearing a black hoodie.
+3. Top right: cool confident expression with black sunglasses, wearing a black coat.
+4. Middle left: angry frowning expression with furrowed brows, wearing a dark shirt.
+5. Middle center: surprised shocked face with wide eyes and small open mouth, wearing a dark jacket over a light shirt.
+6. Middle right: thoughtful pose looking upward to the side, one hand on chin, wearing a navy sweater.
+7. Bottom left: playful wink with slight smirk, wearing an olive-green jacket.
+8. Bottom center: love-struck expression with red heart eyes, both hands making finger-heart gestures, plus exactly 2 small floating red heart icons, one on each side.
+9. Bottom right: friendly thumbs-up gesture with a mild smile, wearing a brown jacket.
+
+Visual style: Premium polished 3D cartoon rendering, Pixar-like proportions, smooth skin shading, realistic but stylized hair, glossy eyes, warm highlights, crisp sticker edges, soft shadows, charming emoji-like personality.
+
+Constraints: Maintain a consistent head size and crop style across the grid; use bust portraits only; keep the background uncluttered; do not add captions, labels, logos, extra characters, or additional stickers.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2070908187268841958) | 2026-06-27
+
+---
+
+### 🧸 例 2580：3D AI Prompt Library 工作空间
+
+![3D AI Prompt Library 工作空间](../../images/3D%20AI%20Prompt%20Library%20%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的 3D 等轴测科技工作空间插画，展示一个可复用的 AI 设计 Prompt 库和数字内容规划工具。
+
+画布：超宽横向横幅，长宽比约为 2.5:1，深海军蓝至青色的渐变背景，电影级摄影棚灯光，左侧和顶部留有干净的空白区域，以便后续添加覆盖文字。
+
+主体与布局：在画布的中右侧排列一组层叠的悬浮及桌面生产力元素。使用 {argument name="primary color palette" default="深海军蓝、青色、蓝绿色、白色、紫色以及暖金色点缀"}。画面应呈现出高端 SaaS/生产力主图的质感，带有柔和的阴影、光泽斜角、细腻的反射以及圆角设计。
+
+具体可见元素：包含 13 个主要对象：1 个大型中央桌面浏览器窗口，带有深色顶部栏和线框布局块；1 个位于左后方的深色网格仪表盘面板，带有 9 个方形磁贴；1 个位于前方的白色小型分析/卡片面板，带有左侧列表点和底部迷你按钮；1 个位于右侧的青色 UI 卡片，带有 4 个主要内容块和 3 行窄侧行；1 个位于更右侧的紫色 UI 卡片，带有 5 个圆角模块；1 个平放在左前方前景的电子表格/日历平板电脑，带有绿松石色行标题和紫色顶部栏；1 个位于中央前景的打开的报告/文档平板电脑，带有 4 个彩色图表块；1 叠位于右前方前景的文件或文件夹，顶部是一张空白白纸；1 小叠位于前景的圆角方形应用磁贴；1 个位于底部中央的深色智能手机或细长矩形设备；1 大叠竖立在右后方的深色活页夹或文件夹，带有青色和金色边缘；1 个位于右上角的悬浮云图标，带有金色轮廓光；1 个位于最右侧的深色圆柱形笔筒，内含 3 支书写工具。
+
+背景点缀：在面板上方添加细长的金色轨道连接线，带有 3 个小型金色节点；在右上角附近添加一个小青色立方体；在主窗口后方添加半透明玻璃质感的面板轮廓。保持这些点缀精致且处于次要地位。
+
+风格：高端 3D 渲染，圆润的类黏土 UI 组件，玻璃拟态，柔和的环境光遮蔽，斜角边缘，金属金高光，现代创作者工具美学，无人物。使用 {argument name="lighting mood" default="带有明亮青色轮廓光的高冷电影感蓝色摄影棚灯光"} 以及 {argument name="render style" default="优质 3D 等轴测 SaaS 插画"}。
+
+文字限制：无可见文字，无 Logo，无水印。任何界面标记应仅为抽象线条、点、网格和空白卡片。
+
+构图限制：将主要元素群集中在偏右侧，保持从平面的前景平板电脑到悬浮的背景面板之间强烈的深度层次感，将云图标保持在右上角，并确保左侧背景大部分保持简洁。
+
+[English]
+Goal: Create a polished 3D isometric tech workspace illustration showing a reusable AI design prompt library and digital content planning tools.
+
+Canvas: Ultra-wide horizontal banner, approximately 2.5:1 aspect ratio, dark navy-to-teal gradient background, cinematic studio lighting, clean empty margins at the left and top for possible overlay text.
+
+Main subject and layout: Arrange a layered cluster of floating and tabletop productivity elements across the center-right of the canvas. Use {argument name="primary color palette" default="deep navy, teal, cyan, white, violet, and warm gold accents"}. The scene should feel like a premium SaaS/productivity hero image, with soft shadows, glossy bevels, subtle reflections, and rounded corners.
+
+Discrete visible elements: Include exactly 13 main objects: 1 large central desktop browser window with a dark top bar and wireframe layout blocks; 1 dark grid dashboard panel behind it on the left with nine square tiles; 1 small white analytics/card panel in front with left-side list dots and bottom mini buttons; 1 teal UI card on the right with four main content blocks and three narrow side rows; 1 purple UI card farther right with five rounded modules; 1 spreadsheet/calendar tablet lying flat in the foreground left with turquoise row header and purple top bar; 1 open report/document tablet in the foreground center with four colored chart blocks; 1 stacked pile of papers or folders in the foreground right topped by a blank white sheet; 1 small stack of rounded square app tiles in the foreground; 1 dark smartphone or slim rectangular device at the bottom center; 1 large stack of dark binders or file folders standing vertically in the back right with teal and gold edges; 1 floating cloud icon in the upper right outlined with gold rim lighting; 1 dark cylindrical pen cup on the far right containing three writing instruments.
+
+Background accents: Add thin golden orbital connector lines arcing above the panels with three small gold nodes, a tiny cyan cube near the upper right, and translucent glass-like panel outlines behind the main windows. Keep these accents delicate and secondary.
+
+Style: High-end 3D render, rounded clay-like UI components, glassmorphism, soft ambient occlusion, beveled edges, metallic gold highlights, modern creator-tool aesthetic, no people. Use {argument name="lighting mood" default="moody cinematic blue studio lighting with bright cyan rim highlights"} and {argument name="render style" default="premium 3D isometric SaaS illustration"}.
+
+Text constraints: No readable words, no logos, no watermark. Any interface marks should be abstract lines, dots, grids, and blank cards only.
+
+Composition constraints: Keep the main cluster centered slightly right, preserve strong depth layering from flat foreground tablets to floating background panels, keep the cloud in the upper-right corner, and leave the far-left background mostly uncluttered.
+```
+
+**来源：** [@张扬Zhang](https://x.com/oMnEMdSISVHGiLD/status/2070841817801933122) | 2026-06-27
+
+---
+
+### 🧸 例 2603：Rin Kaori 刺客机车身份项目
+
+![Rin Kaori 刺客机车身份项目](../../images/Rin%20Kaori%20%E5%88%BA%E5%AE%A2%E6%9C%BA%E8%BD%A6%E8%BA%AB%E4%BB%BD%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="RIN KAORI"} 创建一张暗黑未来感载具身份项目，这是 CIAO Syndicate 的次世代刺客机车，呈现效果如同高级概念艺术规格表。
+
+画布：宽屏 16:10 技术项目，哑光炭黑色背景，配有细金线网格和面板边框，电影级摄影棚灯光，高细节 3D 概念艺术与平面设计结合，采用黑/枪灰/金配色。
+
+主要布局：左上方和中心位置由一辆巨大的侧视赛博朋克超级机车占据，车头朝右。机车采用黑色装甲金属材质，配有棱角分明的钣金整流罩、外露机械部件、金色饰边、日式风格标记、超大宽胎、双前盘式制动器，侧整流罩上显眼地安装着一个长角恶魔般若面具。右上角包含一名全身女性刺客，站在机车旁，一手拿着长角般若面具，另一手持武士刀；她留着黑色长发，皮肤白皙，表情自信，身穿白色短款上衣、黑色敞开式夹克、黑色长裤，配有腰带和金色战术配件。
+
+标题与身份文本：左上方大标题文字为 {argument name="headline text" default="RIN KAORI"}。下方较小的金色文字写着“CIAO SYNDICATE”和“NEXT-GEN ASSASSIN BIKE”。在此下方，包含 6 行标注明确的身份信息：代号：Kaori；阵营：Ciao Syndicate；角色：特工 / 刺客；专长：渗透、破坏；武器：食人魔面具、短刀；状态：现役。
+
+技术标注：在机车顶部附近添加 2 个细线注释标注：“可调式车把 — CNC 铝合金，人体工学骑行姿势”和“钣金车身面板 — 航空级铝材，轻量化且耐用”。
+
+右侧边栏：包含 1 个垂直角色配色方案，带有 4 个矩形色块，标注为“CHARACTER COLOR PALETTE”：炭黑、柔和灰蓝、暖金和棕褐色肤色。下方包含一个“DETAIL MOODBOARD”面板，内含 4 个方形缩略图：般若面具特写、日文汉字风格金字、武士刀柄特写以及 CIAO Syndicate 标志/品牌标识。
+
+中间功能条：在下方中部，创建 5 张规格功能卡片，配有小标题和简短描述：1) 单摇臂，2) 性能轮胎，3) 钛合金排气系统，4) 可调悬挂，5) 双盘式制动器。
+
+视图面板：在主车下方，包含 4 个标注明确的正投影视图面板：前视图、顶视图、后视图和侧视图。每个面板以一致的黑金风格展示该机车的微缩渲染图。
+
+工程面板：在右下方，包含 3 个技术方框：“FRAME & CHASSIS”展示机车车架和轴距尺寸线的精细金色线框图；“SPECIFICATIONS”列出引擎类型 V4、998cc、最大功率 200 HP @ 12,500 RPM、最大扭矩 115 Nm @ 10,200 RPM、变速箱 6 速快速换挡、干重 189 kg、最高时速 320+ km/h、油箱容量 16 升；以及“DIMENSIONS”列出长度 2110 mm、宽度 790 mm、高度 1050 mm、轴距 1450 mm、离地间隙 130 mm。
+
+细节特写：在左下方，包含 5 个标注明确的小型缩略图面板：车把与仪表盘、车身面板与涂装、引擎与车架、排气口、后悬挂。
+
+配色方案：在右下方，包含 4 个小型机车配色变体缩略图，标注为：{argument name="primary edition label" default="RIN KAORI EDITION"}、隐形黑、钛银和血红。第一款保持黑金配色，第二款为哑光黑，第三款为银灰色，第四款为黑红配色。
+
+视觉风格：超高细节的高级科幻工业设计，锐利逼真的 3D 渲染，戏剧性的轮廓光，微妙的烟雾与反射，陈旧的黑色金属质感，金色排版，精细的技术图表线条，高端游戏概念艺术呈现。保持所有文字清晰易读。避免多余的角色、额外的机车、水印或不相关的标志。
+
+[English]
+Goal: Create a dark futuristic vehicle identity board for {argument name="character name" default="RIN KAORI"}, a CIAO Syndicate next-gen assassin motorcycle, presented like a premium concept art spec sheet.
+
+Canvas: Wide landscape 16:10 technical board, matte black charcoal background with thin gold grid lines and panel borders, cinematic studio lighting, high-detail 3D concept art mixed with graphic design, black/gunmetal/gold palette.
+
+Main layout: The upper-left and center are dominated by one huge side-view cyberpunk superbike facing right. The bike is black armored metal with angular sheet-metal fairings, exposed mechanical parts, gold trim, Japanese-style markings, oversized fat tires, dual front disc brakes, and a horned demon oni mask mounted prominently on the side fairing. The upper-right contains one full-body female assassin standing next to the bike, holding a horned oni mask in one hand and a katana in the other; she has long black hair, pale skin, confident expression, cropped white top, dark open jacket, black pants, belt and gold tactical accessories.
+
+Title and identity text: Top-left large title text reads {argument name="headline text" default="RIN KAORI"}. Under it, smaller gold text reads “CIAO SYNDICATE” and “NEXT-GEN ASSASSIN BIKE”. Below that, include exactly 6 labeled identity lines: Codename: Kaori; Faction: Ciao Syndicate; Role: Operative / Assassin; Specialty: Infiltration, Sabotage; Weapons: Mask of the Ogre, Tanto Blade; Status: Active.
+
+Technical callouts: Add exactly 2 thin-line annotation callouts near the top of the bike: “ADJUSTABLE HANDLEBAR — Aluminum CNC, ergonomic riding position” and “SHEET METAL BODY PANELS — Aerospace-grade aluminum, lightweight & durable”.
+
+Right sidebar: Include exactly 1 vertical character color palette with 4 rectangular swatches labeled “CHARACTER COLOR PALETTE”: dark charcoal, muted gray-blue, warm gold, and tan skin tone. Beneath it, include a “DETAIL MOODBOARD” panel with exactly 4 square thumbnails: oni mask close-up, Japanese kanji-style gold lettering, katana handle close-up, and CIAO Syndicate logo/branding.
+
+Middle feature strip: Across the lower middle, create exactly 5 specification feature cards with small headings and short descriptions: 1) Single-Sided Swingarm, 2) Performance Tires, 3) Titanium Exhaust System, 4) Adjustable Suspension, 5) Dual Disc Brakes.
+
+View panels: Below the main bike, include exactly 4 labeled orthographic view panels: Front View, Top View, Rear View, and Side View. Each panel shows the same bike from that angle, rendered in miniature with consistent black-and-gold styling.
+
+Engineering panels: On the lower-right, include exactly 3 technical boxes: “FRAME & CHASSIS” with a fine gold wireframe drawing of the motorcycle frame and wheelbase dimension lines; “SPECIFICATIONS” listing engine type V4, 998cc, max power 200 HP @ 12,500 RPM, max torque 115 Nm @ 10,200 RPM, transmission 6-speed quickshifter, dry weight 189 kg, top speed 320+ km/h, fuel capacity 16 liters; and “DIMENSIONS” listing length 2110 mm, width 790 mm, height 1050 mm, wheelbase 1450 mm, ground clearance 130 mm.
+
+Detail close-ups: Along the bottom-left, include exactly 5 small thumbnail panels labeled: Handlebar & Dash, Body Panel & Finish, Engine & Frame, Exhaust Outlet, Rear Suspension.
+
+Color options: Along the bottom-right, include exactly 4 small motorcycle color variant thumbnails labeled: {argument name="primary edition label" default="RIN KAORI EDITION"}, Stealth Black, Titanium Silver, and Blood Red. The first remains black and gold, second matte black, third silver-gray, fourth black and red.
+
+Visual style: Hyper-detailed premium sci-fi industrial design, sharp realistic 3D render, dramatic rim lighting, subtle smoke and reflections, aged black metal texture, gold typography, thin technical diagram lines, high-end game concept art presentation. Keep all text crisp and legible. Avoid extra characters, extra bikes, watermarks, or unrelated logos.
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2070735766360387833) | 2026-06-27
+
+---
+
+### 🧸 例 2629：Q 版角色花园咖啡馆场景
+
+![Q 版角色花园咖啡馆场景](../../images/Q%20%E7%89%88%E8%A7%92%E8%89%B2%E8%8A%B1%E5%9B%AD%E5%92%96%E5%95%A1%E9%A6%86%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用我的参考图片。保留其确切的面部、五官、笑容、肤色和身份特征。将主体转换为可爱的 3D 皮克斯/迪士尼风格 Q 版角色，体型为 {argument name="ethnicity" default="中等身材菲律宾裔"}，身穿她的标志性服装：{argument name="outfit top" default="棕色无袖上衣"}、{argument name="outfit bottom" default="带白色饰边的黑色短裤"} 以及白色运动鞋。
+
+在金色的日出时分，创建一个温馨舒适的户外花园咖啡馆场景。在质朴的木桌上放置一个巨大的优雅奶油色陶瓷咖啡杯，高度与角色大致相同。Main Ingrid 站在杯子旁边，一只手轻轻靠在杯柄上，另一只手开心地挥舞着，脸上带着温暖愉悦的笑容。
+
+咖啡冒着热气，旋转的魔法蒸汽优雅地升入空中，自然地形成了优雅的手写文字“GoodMorning”。保持“GoodMorning”文字悬浮在蒸汽上方并留有小间隙，使其保持清晰、易读且视觉效果突出。
+
+用黄油牛角面包、曲奇饼干、散落的烘焙咖啡豆和一把小木勺装饰桌面。添加微小的蝴蝶、漂浮的闪光、发光的尘埃颗粒、柔和的焦外成像效果，以及透过茂密绿色植物和花朵射入的温暖阳光，营造出宁静而神奇的早晨氛围。
+
+超精细 3D CGI，皮克斯动画风格，电影级构图，柔和的全局光照，温暖的金色光线，逼真的纹理，浅景深，鲜艳的色彩，高级渲染，8K，杰作，温馨，优雅，令人振奋，构图简洁，高视觉叙事性，标志性的 Mini Ingrid Universe HQ 美学。
+
+负面提示词：模糊，低质量，多余的肢体，畸形的解剖结构，重复的对象，扭曲的面部，头部过大，斗鸡眼，糟糕的手部，主体被裁剪，水印，标志，随机文字，杂乱的构图，暗光，阴郁的氛围，色彩过饱和。
+
+[English]
+Use my reference image. Preserve the exact face, facial features, smile, skin tone, and identity. Transform the subject into a cute 3D Pixar/Disney-inspired chibi character with a {argument name="ethnicity" default="medium Filipina"} body type, wearing her signature outfit: {argument name="outfit top" default="brown sleeveless top"}, {argument name="outfit bottom" default="black shorts with white trim"}, and white sneakers.
+
+Create a heartwarming cozy morning scene in a beautiful outdoor café garden during golden sunrise. Place a giant elegant cream-colored ceramic coffee mug on a rustic wooden table, approximately the same height as the character. Main Ingrid stands beside the mug, gently leaning on the handle with one hand while happily waving with the other, wearing a warm cheerful smile.
+
+The coffee is steaming, and the swirling magical steam gracefully rises into the air, naturally forming the elegant handwritten text "GoodMorning". Keep the "GoodMorning" text floating slightly above the steam with a small gap so it remains clean, readable, and visually striking.
+
+Decorate the table with buttery croissants, cookies, scattered roasted coffee beans, and a small wooden spoon. Add tiny butterflies, floating sparkles, glowing dust particles, soft bokeh, and warm sun rays filtering through lush green plants and flowers to create a peaceful magical morning atmosphere.
+
+Ultra-detailed 3D CGI, Pixar-quality animation style, cinematic composition, soft global illumination, warm golden lighting, realistic textures, shallow depth of field, vibrant colors, premium rendering, 8K, masterpiece, cozy, elegant, uplifting, clean composition, high visual storytelling, signature Mini Ingrid Universe HQ aesthetic.
+
+Negative prompt: blurry, low quality, extra limbs, deformed anatomy, duplicate objects, distorted face, oversized head, crossed eyes, bad hands, cropped subject, watermark, logo, random text, cluttered composition, dark lighting, gloomy atmosphere, oversaturated colors.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2070675155177894049) | 2026-06-27
+
+---
+

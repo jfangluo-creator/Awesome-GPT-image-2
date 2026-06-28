@@ -4120,3 +4120,207 @@ Constraints: Keep all visible text in English except the small “海洋” next
 
 ---
 
+### 🧍 例 2550：定制体育主题摇头公仔
+
+![定制体育主题摇头公仔](../../images/%E5%AE%9A%E5%88%B6%E4%BD%93%E8%82%B2%E4%B8%BB%E9%A2%98%E6%91%87%E5%A4%B4%E5%85%AC%E4%BB%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张逼真的摄影棚风格图像，制作一个以 {argument name="player name" default="球员姓名"} 为原型的定制摇头公仔收藏品，完全基于所附参考照片。参考图像是所有身体特征的绝对且唯一依据——请勿依赖任何关于 {argument name="player name" default="球员姓名"} 外貌的先验知识、训练数据或假设。每一个视觉决策都必须完全由所附照片中可见的内容决定。
+无一例外地遵循以下所有规则：
+相似度与身份
+• 在公仔下方双层底座的正前方，用清晰的白色字体刻上 ”{argument name="player name" default="球员姓名"}”。
+• 精确复刻参考照片中可见的每一个独特面部特征——骨骼结构、眼睛形状、鼻子、嘴唇、肤色和面部肤质。请勿对任何特征进行平滑、柔化、概括或理想化处理。
+• 发型必须与参考照片完全一致——保留自然的卷曲、波浪、螺旋、毛躁、发量、长度和走向。切勿拉直、压平或重新设计发型。
+• 以参考照片中显示的精确密度和纹理复刻面部毛发（胡须、八字胡、胡茬）。如果主体看起来是剃须后的状态，则绝对不要添加任何胡须。
+• 仅在参考照片中明显可见的情况下，才包含眼镜、耳环或帽子等配饰。如果照片中没有出现配饰，则绝对不要添加任何配饰。
+公仔设计与风格
+• 公仔必须遵循经典的运动摇头公仔美学——头部比例较大、身体紧凑，整体具有收藏级玩具的质感。这不是 Funko Pop，不是漫画形象，也不是过度风格化的乙烯基公仔。
+• 颈部比例必须短而粗，绝对不能露出弹簧、线圈或铰链结构。
+• 为公仔穿上与 {argument name="player name" default="球员姓名"} 所属国家相对应的 {argument name="national kit" default="官方国家足球队服"}——使用其国家队穿着的正确球衣颜色、短裤和球袜。请勿默认使用任何通用或错误的队服。
+姿势与底座
+• 公仔姿势为直立站立，一只脚随意地踩在一个标准的足球上，足球直接放置在底座上。
+• 底座必须为双层设计，顶面模拟哑光天然草地的质感——无光泽、无闪光、无任何反射。
+背景与灯光
+• 背景必须显示一个 {argument name="background location" default="足球场"}，并使用浅景深虚化效果进行柔化处理，使公仔始终保持为清晰的视觉焦点。
+• 体育场灯光必须营造出温暖的“黄金时刻”氛围——浓郁的琥珀色和柔和的橙色调，低角度阳光，具有电影般的温暖感。
+格式
+• 最终输出必须为 4:5 的纵向比例。
+
+[English]
+Generate a photorealistic studio image of a custom bobble-head collectible figure modeled after {argument name="player name" default="PLAYER NAME"}, based entirely on the attached reference photo. The reference image is the absolute and sole source of truth for all physical characteristics — do not rely on any prior knowledge, training data, or assumptions about how [PLAYER NAME] looks. Every visual decision must be driven exclusively by what is visible in the attached photo.
+Follow all of the rules below without exception:
+Likeness & Identity
+•Engrave the name ”[PLAYER NAME]” in clean white lettering on the front face of the two-tiered base beneath the figure.
+•Reproduce every distinctive facial feature — bone structure, eye shape, nose, lips, skin tone, and complexion — exactly as seen in the reference. Do not smooth, soften, generalize, or idealize any feature.
+•The hairstyle must match the reference with exact fidelity — preserve natural curl, wave, coil, frizz, volume, length, and direction. Never straighten, flatten, or restyle the hair.
+•Replicate facial hair (beard, mustache, stubble) at the precise density and pattern shown in the reference. If the subject appears clean-shaven, add absolutely no facial hair.
+•Include accessories such as glasses, earrings, or a hat only if they are visibly present in the reference photo. If no accessories appear, add none whatsoever.
+Figure Design & Style
+•The figure must follow a classic sporty bobble-head aesthetic — proportionally large head, compact body, and an overall collectible toy feel. This is not a Funko Pop, not a caricature, and not a hyper-stylized vinyl figure.
+•The neck must be short and thick in proportion, with absolutely no spring, coil, or hinge mechanism visible.
+•Dress the figure in the {argument name="national kit" default="official national football kit"} that corresponds to [PLAYER NAME]’s country — use the correct jersey color, shorts, and socks as worn by their national team. Do not default to any generic or incorrect kit.
+Pose & Base
+•Pose the figure standing upright with one foot casually resting on top of a standard soccer ball, which sits directly on the base.
+•The base must be two-tiered, with a top surface that mimics the texture of matte natural grass — no gloss, no shine, no reflection of any kind.
+Background & Lighting
+•The background must show a {argument name="background location" default="football stadium"} that is softly blurred using a shallow depth-of-field bokeh effect, so the figure remains the clear focal point.
+•The stadium lighting must evoke a warm golden hour — rich amber and soft orange tones, low sun angle, cinematic warmth.
+Format
+•Final output must be in 4:5 portrait orientation.
+```
+
+**来源：** [@SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ/status/2070943717238919211) | 2026-06-27
+
+---
+
+### 🧍 例 2570：基于姿势参考生成动漫角色
+
+![基于姿势参考生成动漫角色](../../images/%E5%9F%BA%E4%BA%8E%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为姿势和构图指南，重新生成一张精致的全身 2D 动漫插画。保持相同的害羞低头姿势：头部低垂，肩膀略微耸起，双手背在身后，双腿并拢，双脚朝前。保留参考图中的简约服装轮廓，并以精细的动漫风格进行渲染：一件带有抽绳和前袋的超大款 {argument name="hoodie color" default="白色"} 连帽衫、宽松的 {argument name="pants color" default="黑色"} 长裤以及厚底运动鞋。将块状的 3D 模型转化为精致的动漫少女，留着 {argument name="hair color" default="浅棕色"} 波波头，配以柔和的刘海、淡淡的腮红，以及向下注视的 {argument name="eye color" default="粉色"} 双眼。使用柔和的 {argument name="background color" default="淡粉色"} 背景，采用细腻的赛璐璐阴影、干净的线条、自然的布料褶皱以及淡淡的地面投影。保持摄像机视角略高于角色，使全身垂直居中。请勿添加文字、道具、额外角色或复杂的背景。
+
+[English]
+Using the provided reference image as a pose and composition guide, regenerate the character as a polished full-body 2D anime illustration. Keep the same shy downward-looking pose: head tilted down, shoulders slightly hunched, both hands held behind the back, legs close together, and feet pointed forward. Preserve the simple outfit silhouette from the reference, but render it with clean anime detail: an oversized {argument name="hoodie color" default="white"} hoodie with drawstrings and a front pouch pocket, loose {argument name="pants color" default="black"} pants, and chunky sneakers. Convert the blocky 3D model into a delicate anime girl with {argument name="hair color" default="light brown"} bobbed hair, soft bangs, subtle blush, and {argument name="eye color" default="pink"} eyes looking downward. Use a soft pastel {argument name="background color" default="pale pink"} background, gentle cel-shading, clean line art, natural fabric folds, and a faint floor shadow. Keep the camera angle slightly above the character, showing the full body vertically centered. Do not add text, props, extra characters, or a complex background.
+```
+
+**来源：** [@【公式】癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2070874870175637850) | 2026-06-27
+
+---
+
+### 🧍 例 2576：暗黑科幻指挥官角色设定图
+
+![暗黑科幻指挥官角色设定图](../../images/%E6%9A%97%E9%BB%91%E7%A7%91%E5%B9%BB%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="MERIDIAN 军官"} 创建一张暗黑近未来科幻角色设定图，角色为一名神情严峻、秃头的类人指挥官，身着黑色战术装甲，以电影级概念艺术排版呈现。
+
+画布：宽屏 16:9 角色设定图，背景为深炭灰色摄影棚背景，带有微妙的晕影灯光效果。采用写实且高细节的数字概念艺术风格，略带 GPT-image 的风格化质感，装甲细节锐利，材质为哑光，并使用戏剧性的柔和正面布光。
+
+布局：总共展示 6 个角色渲染图：左侧和中间为 3 个全身视图，右侧垂直排列 3 个头部特写。3 个全身视图分别为：最左侧的正面全身像、中左侧的背面全身像，以及中右侧的四分之三侧面全身像。右侧的 3 个头部特写分别为：顶部的正面半身特写、中间的四分之三左侧头部特写，以及底部的严格侧面头部特写。在左下角添加一个醒目的白色大标签，文字为 {argument name="bottom label" default="GPT-Image 2"}，覆盖在脚部区域上方。
+
+主体细节：角色为一名气势逼人的苍白皮肤秃头男性类人，眼窝深陷，颧骨突出，皮肤布满皱纹和伤疤，长有尖耳，表情严峻且冷漠。在他的额头正中放置一个红棕色的神秘几何纹章纹身或烙印。面部需呈现出苍老、异星、威权且令人畏惧的特征。
+
+服装：身穿一件黑色长款装甲军大衣，配有高硬领、分层肩甲、分段式胸甲、护臂、手套、重型靴子，以及长至脚踝附近的开叉式装甲裙摆。装甲主体为哑光黑和枪灰色，胸部、手臂、背部及大衣饰板上对称分布着细长的铜橙色电路状饰线。包含 2 种可见的徽章/补丁：胸部中央的铭牌，文字为 {argument name="chest patch text" default="MERIDIAN"}，下方配有红色标志；肩部配有一个小型盾牌状徽章。背面视图应强调沿脊柱和大衣饰板延伸的垂直发光/铜色线条。
+
+视觉风格：高分辨率 AAA 游戏角色设定图，电影级科幻反乌托邦军事设计，写实材质，带有细微划痕和磨损的皮革/金属表面，受控的摄影棚灯光，清晰的轮廓，深色单色调配色辅以铜红色点缀。构图需保持整洁专业，如同电影或游戏的前期制作角色三视图。
+
+约束：必须使用 3 个全身视图和 3 个头部特写。确保所有视图中的角色身份、服装、额头标记和装甲设计保持一致。除左下角标签和装甲徽章外，不得添加武器、头盔、额外角色、环境背景或其他文字。
+
+[English]
+Goal: Create a dark near-future sci-fi character design sheet for {argument name="character name" default="MERIDIAN officer"}, a severe bald humanoid commander in black tactical armor, presented as a cinematic concept-art lineup.
+
+Canvas: Wide 16:9 character sheet on a dark charcoal gray studio background with subtle vignette lighting. Use realistic high-detail digital concept art with a slightly stylized GPT-image look, sharp armor detailing, matte textures, and dramatic soft frontal lighting.
+
+Layout: Show exactly 6 character renderings total: 3 full-body views across the left and center, and 3 cropped head studies stacked vertically on the right. The 3 full-body views are: 1 front-facing full body on the far left, 1 rear full body in the center-left, and 1 three-quarter front full body in the center-right. The 3 head studies on the right are: 1 frontal bust close-up at the top, 1 three-quarter left-facing head close-up in the middle, and 1 strict side-profile head close-up at the bottom. Add a large bold white label reading {argument name="bottom label" default="GPT-Image 2"} in the bottom-left corner, overlapping the feet area.
+
+Subject details: The character is an imposing pale-skinned bald male humanoid with sunken dark eyes, gaunt cheekbones, wrinkled scarred skin, pointed ears, and a stern emotionless expression. Place a small red-brown occult geometric insignia tattoo or brand centered on his forehead. His face should look aged, alien, authoritarian, and intimidating.
+
+Costume: Dress him in a long black armored military coat with high rigid collar, layered shoulder plates, segmented chest armor, gauntlets, gloves, heavy boots, and a split skirt-like armored coat reaching near the ankles. The armor is mostly matte black and gunmetal with thin copper-orange circuit-like trim lines running symmetrically along the chest, arms, back, and coat panels. Include exactly 2 visible insignia/patch types: a central chest plaque labeled {argument name="chest patch text" default="MERIDIAN"} with a red emblem beneath it, and a shoulder patch with a small shield-like badge. The rear view should emphasize vertical glowing/copper linework down the spine and coat panels.
+
+Visual style: High-resolution AAA game character sheet, cinematic sci-fi dystopian military design, realistic materials, subtle scratches and worn leather/metal surfaces, controlled studio lighting, crisp silhouettes, dark monochrome palette with copper-red accents. Keep the composition clean and professional, like a film or game preproduction character turnaround.
+
+Constraints: Use exactly 3 full-body views and exactly 3 head close-ups. Keep the same character identity, costume, forehead mark, and armor design consistent across all views. Do not add weapons, helmets, extra characters, environment scenery, or additional text beyond the bottom-left label and armor insignia.
+```
+
+**来源：** [@God's Way Foundation](https://x.com/godswayfoundinc/status/2070851389106897138) | 2026-06-27
+
+---
+
+### 🧍 例 2602：提示词：
+
+使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
+
+画面主体是一位成年亚洲女性
+
+![提示词：
+
+使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
+
+画面主体是一位成年亚洲女性](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87%EF%BC%8C%E7%AB%96%E7%89%88%203%204%E3%80%82%20%E7%94%BB%E9%9D%A2%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%BD%8D%E6%88%90%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
+
+画面主体是一位成年亚洲女性模特，黑色微卷长发，精致淡妆，眼神清冷又有一点失神感，表情不僵硬，带轻微故事感。整体风格为高级 editorial fashion
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2070737851957051750) | 2026-06-27
+
+---
+
+### 🧍 例 2614：咖啡师角色三视图参考图
+
+![咖啡师角色三视图参考图](../../images/%E5%92%96%E5%95%A1%E5%B8%88%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实角色三视图，主角为 {argument name="subject" default="一位 40 岁出头的女性咖啡师"}，以专业角色参考/模型图的形式展示在干净的白色摄影棚背景上。布局包含水平排列的五个视图：面部特写、正面、背面、左侧面和右侧面。每个全身视图旁边均附有垂直身高测量标尺。
+
+该女性留着整洁的深棕色短发（精灵短发），肤色白皙，带有自然的细微皱纹，浅榛绿色双眼，未化妆，表情平静自然。她身材匀称，身高约 5 英尺 8 英寸（173 厘米），姿态放松。
+
+她身穿 {argument name="clothing" default="黑色长袖扣式工作衬衫，袖子卷至前臂，搭配深棕色做旧皮革/帆布围裙（带前袋和腰带），黑色修身工作裤以及黑色皮质工作鞋"}。服装呈现出逼真的织物纹理、轻微磨损、皱纹以及日常咖啡店工作中产生的自然褶皱。
+
+采用柔和的摄影棚灯光，均匀照亮每个角度，阴影极少。图像具有照片级的皮肤纹理、高度精细的服装材质、准确的解剖结构，且所有视图的比例保持一致。
+
+图表包含清晰的文字标签，例如：
+面部特写
+正面
+背面
+左侧面
+右侧面
+
+左下角信息面板内容：
+
+姓名：{argument name="character name" default="咖啡师"}
+年龄：40 岁出头
+身高：5'8" / 173 厘米
+体重：
+性别：
+
+风格：AAA 游戏角色参考图，生产级三视图，电影级写实，法医/模型图展示，中性白色背景，8K，超精细，各角度身份一致，专业概念艺术参考。
+
+[English]
+Ultra realistic character turnaround sheet of a {argument name="subject" default="female barista in her early 40s"}, displayed as a professional character reference/model sheet on a clean white studio background. The layout includes five views arranged horizontally: face close up, front view, back view, left profile, and right profile. A vertical height measurement scale appears beside each full body view.
+
+The woman has short dark brown hair in a neat pixie cut, light skin, subtle natural wrinkles, soft hazel-green eyes, no makeup, and a calm, neutral expression. She has an average build, standing approximately 5'8" (173 cm) with relaxed posture.
+
+She wears a {argument name="clothing" default="black long-sleeve button up work shirt with sleeves rolled to the forearms, a dark brown weathered leather/canvas apron with front pockets and waist ties, black slim fit work pants, and black leather work shoes"}. The clothing shows realistic fabric texture, light wear, wrinkles, and natural folds from everyday café work.
+
+The lighting is soft studio lighting, evenly illuminating every angle with minimal shadows. The image has photorealistic skin texture, highly detailed clothing materials, accurate anatomy, and consistent proportions across all views.
+
+The sheet includes clean typography with labels similar to:
+FACE CLOSE UP
+FRONT
+BACK
+LEFT PROFILE
+RIGHT PROFILE
+
+In the lower left information panel:
+
+NAME: {argument name="character name" default="The Barista"}
+AGE: 40s
+HEIGHT: 5'8" / 173
+WEIGHT: 
+GENDER: 
+
+Style: AAA game character reference sheet, production ready turnaround, cinematic realism, forensic/model sheet presentation, neutral white background, 8K, ultra detailed, consistent identity across every angle, professional concept art reference.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2070721784761254294) | 2026-06-27
+
+---
+

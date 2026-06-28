@@ -3924,3 +3924,35 @@ Constraints: No text inside the image. Keep the storyboard rough and monochrome.
 
 ---
 
+### 🎬 例 2560：可爱彩色铅笔分镜表
+
+![可爱彩色铅笔分镜表](../../images/%E5%8F%AF%E7%88%B1%E5%BD%A9%E8%89%B2%E9%93%85%E7%AC%94%E5%88%86%E9%95%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+白い紙の上に描かれた、{argument name="スタイル" default="実用的で可愛い"}ストーリーボードシートを作成してください。
+```
+
+**来源：** [@M7［mi7］AI](https://x.com/mi7_crypto/status/2070903967836712965) | 2026-06-27
+
+---
+
+### 🎬 例 2585：复古讽刺杂志漫画风格
+
+![复古讽刺杂志漫画风格](../../images/%E5%A4%8D%E5%8F%A4%E8%AE%BD%E5%88%BA%E6%9D%82%E5%BF%97%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古讽刺杂志漫画风格的 {argument name="character" default="[CHARACTER]"} 肖像，展示完整的头部和肩部以上画面，身着 {argument name="clothing" default="[CLOTHING]"}。面部表情夸张滑稽，带有宽大且不均匀的露齿笑、大耳朵、雀斑、圆润的脸颊、略微斜视的顽皮眼神、小而歪的鼻子、简单的牙齿、凌乱的头发以及橡胶质感的漫画比例。使用 {argument name="colors" default="[COLORS]"}，搭配平铺的复古杂志色块、粗犷的黑色墨水轮廓线、粗糙的交叉排线、半色调网点、清晰可见的报纸纹理、不完美的套色印刷以及手绘封面艺术质感。将角色置于 [BACKGROUND] 前，绘制成荒诞的社论场景背景，采用简单的图形形状、漫画透视、俏皮的视觉讽刺以及强烈的复古戏仿风格。构图居中且清晰，面部完整可见，无文字，无 Logo，长宽比 4:5。
+
+[English]
+Vintage satirical magazine caricature portrait of {argument name="character" default="[CHARACTER]"}, shown as a complete head and upper-shoulders portrait with {argument name="clothing" default="[CLOTHING]"}. Give the face an exaggerated goofy expression with a wide uneven grin, big ears, freckles, rounded cheeks, slightly crossed mischievous eyes, a small crooked nose, simple teeth, messy hair, and rubbery comic proportions. Use {argument name="colors" default="[COLORS]"} with flat retro magazine color blocks, bold black ink outlines, rough crosshatching, halftone dots, visible newsprint grain, imperfect screen registration, and hand-painted cover-art texture. Set the character against [BACKGROUND], drawn as an absurd editorial scenery backdrop with simple graphic shapes, comic perspective, playful visual irony, and loud vintage parody energy. Clean centered composition, full face visible, no text, no logos, aspect ratio 4:5.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2070808396828143682) | 2026-06-27
+
+---
+

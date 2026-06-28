@@ -5630,3 +5630,175 @@ Create a delicate vertical anime-style illustration of {argument name="character
 
 ---
 
+### 🎨 例 2556：动漫足球运动员编辑插画
+
+![动漫足球运动员编辑插画](../../images/%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细的现代动漫插画，主角为 ({argument name="subject" default="足球运动员"})
+
+以轻松时尚的姿势随意站立，双腿自然交叉，双肩放松，双手藏在超大袖口内，头部微微上扬看向左侧，表情冷静自信。
+
+身穿 ({argument name="clothing" default="国家队球衣套装"})，(aksessoris Players) 白色 Asics Tiger 运动鞋。
+
+背景：{argument name="background" default="纯深红色背景"}，角色身后带有深红色矩形面板，并配有强烈的硬投影。
+
+全身像，居中构图，编辑时尚插画，简洁线条，赛璐珞风格阴影，高级数字绘画，超精细，色彩鲜艳，高分辨率。
+
+[English]
+Ultra detailed contemporary anime illustration of ({argument name="subject" default="Soccer Players"})
+
+standing casually in a relaxed fashion pose with legs crossed naturally, shoulders relaxed, both hands hidden inside oversized sleeves, head tilted slightly upward looking to the left, calm confident expression.
+
+Wearing ({argument name="clothing" default="National Jersey kit"}), (aksessoris Players) white sneakers asics tiger.
+
+Background: {argument name="background" default="solid crimson red background"} with a darker red rectangular panel behind the character and dramatic hard shadow.
+
+Full body, centered composition, editorial fashion illustration, clean line art, cel shading, premium digital painting, ultra detailed, vibrant colors, high resolution.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2070926317357601084) | 2026-06-27
+
+---
+
+### 🎨 例 2561：魔法森林墓地之泉
+
+![魔法森林墓地之泉](../../images/%E9%AD%94%E6%B3%95%E6%A3%AE%E6%9E%97%E5%A2%93%E5%9C%B0%E4%B9%8B%E6%B3%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级的暗黑奇幻景观，描绘一座隐藏在茂密扭曲森林中的古老荒废墓地。场景中心为 {argument name="central subject" default="一座带有凸起石棺和雕刻墓碑的华丽石墓"}，坐落在一座长满苔藓的小岛上，清澈的绿松石色泉水在浅浅的河道中环绕流淌，闪烁着粼粼波光。画面中总共包含 7 座可见的墓碑：1 座大型中央陵墓、左侧 1 座圆形墓碑、其后方 1 座小型狭长纪念碑、背景中央 1 座远处的小墓碑、右侧 1 座高大华丽的纪念碑、其前方 1 座圆形墓碑，以及最右侧 1 座部分被遮挡的墓碑。墓地周围环绕着扭曲的古树、拱形的黑色枝干、悬垂的苔藓、蕨类植物、覆盖地衣的岩石、野生的蓝色和紫色花朵，以及贴近地面的薄雾。使用 {argument name="lighting" default="从上方中心穿透树冠的温暖金色阳光"}，营造出戏剧性的体积光、发光的雾气、高对比度的阴影以及神圣而忧郁的氛围。水流应给人以悦耳且充满生机的感觉，仿佛这眼泉水已经环绕墓地流淌了 {argument name="time span" default="144 年"}，水面泛起细小的涟漪，闪烁着光芒，并散发出柔和的蓝绿色光泽。风格：超细节的绘画写实主义、电影级奇幻概念艺术、浓郁的泥土绿与棕色与青色水体及琥珀色光线形成对比、宽幅横向构图、深邃的透视感，无人物，无现代物品，无可见文字，无水印。
+
+[English]
+Create a cinematic dark-fantasy landscape of an ancient overgrown cemetery hidden inside a dense, twisted forest. The scene centers on {argument name="central subject" default="an ornate stone tomb with a raised sarcophagus and carved upright headstone"}, placed on a small mossy island while a clear turquoise spring flows around it in shallow channels, sparkling with reflected light. Include exactly 7 visible grave monuments total: 1 large central tomb, 1 rounded headstone on the left, 1 small narrow monument behind it, 1 small distant headstone in the center background, 1 tall ornate monument on the right, 1 rounded headstone in front of that, and 1 partially obscured grave marker at the far right. Surround the graves with gnarled ancient trees, arching black branches, hanging moss, ferns, lichen-covered rocks, wild blue and purple flowers, and patches of mist hugging the ground. Use {argument name="lighting" default="warm golden sunbeams breaking through the canopy from the upper center"}, creating dramatic volumetric rays, glowing haze, high contrast shadows, and a sacred, melancholic atmosphere. The water should feel musical and alive, like a spring that has circled the grave for {argument name="time span" default="144 years"}, with tiny ripples, glittering highlights, and soft blue-green luminosity. Style: ultra-detailed painterly realism, cinematic fantasy concept art, rich earthy greens and browns contrasted with teal water and amber light, wide horizontal composition, deep perspective, no people, no modern objects, no readable text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2070902746991955997) | 2026-06-27
+
+---
+
+### 🎨 例 2578：夏日缘侧观萤的少女
+
+![夏日缘侧观萤的少女](../../images/%E5%A4%8F%E6%97%A5%E7%BC%98%E4%BE%A7%E8%A7%82%E8%90%A4%E7%9A%84%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+{argument name="人物" default="留学生の友達"}と並んで {argument name="季節" default="夏"}の縁側で蛍の籠を見つめる{argument name="主体" default="少女"}
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2070847354727731506) | 2026-06-27
+
+---
+
+### 🎨 例 2579：动漫风牛仔格纹少女
+
+![动漫风牛仔格纹少女](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E7%89%9B%E4%BB%94%E6%A0%BC%E7%BA%B9%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格全身时尚插画，描绘一位可爱的年轻女性站在温暖阳光下的米色瓷砖混凝土墙前。她留着 {argument name="hair color" default="亮黑色"} 的高双马尾，配有短刘海和微卷的发梢，每个马尾都系着明亮的蓝色蝴蝶结。她表情俏皮，略带淘气，有着柔和的红棕色双眸、浅浅的微笑和微微倾斜的头部。她戴着黑色铆钉项圈，身穿浅蓝色牛仔连体裤，配有结构感紧身胸衣、荷叶边肩带、心形领口、黑色前系带细节、腰带环，以及带有破洞磨损补丁的修身短裤。一侧叠搭着不对称的蓝白格纹裙摆，带有磨损的白色下摆、悬垂的丝带和多层织物。她还穿着白色中筒袜和厚底黑色系带马丁靴。让她摆出随意的姿势：一侧胯部微倾，一只膝盖向内弯曲，双臂自然垂在身体两侧，双脚分开，身体在墙上投下清晰的阴影。采用 2:3 纵向构图，全身居中，细节清晰的线条，平滑的赛璐珞动漫渲染，头发和靴子带有光泽高光，柔和的皮肤阴影，高细节的衣物褶皱，温暖的午后光线，带有细微的墙面污渍和缺口，无文字，无水印，无多余角色。
+
+[English]
+Create a polished anime-style full-body fashion illustration of a cute young woman standing against a beige tiled concrete wall in warm sunlight. She has {argument name="hair color" default="glossy black"} hair in high twin ponytails with short bangs and loose curled ends, each ponytail tied with a bright blue bow. Her expression is playful and slightly mischievous, with soft reddish-brown eyes, a small smile, and a gentle head tilt. She wears a black studded choker, a pale blue denim romper with structured bodice panels, ruffled shoulder straps, a sweetheart neckline, black lace-up front detail, belt loops, and short fitted shorts with one distressed ripped patch. Over one side is an asymmetrical blue-and-white gingham check skirt panel with frayed white hem, hanging ribbons, and layered fabric pieces. She also wears white mid-calf socks and chunky black lace-up platform combat boots. Pose her leaning casually with one hip cocked, one knee bent inward, arms relaxed at her sides, feet apart, and her body casting a crisp shadow on the wall. Use a vertical 2:3 composition, full body centered, detailed clean line art, smooth cel-shaded anime rendering, glossy highlights on hair and boots, soft skin shading, high-detail clothing folds, warm late-afternoon lighting, subtle wall stains and chips, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2070846695194374644) | 2026-06-27
+
+---
+
+### 🎨 例 2594：炸竹荚鱼动画烹饪项目
+
+![炸竹荚鱼动画烹饪项目](../../images/%E7%82%B8%E7%AB%B9%E8%8D%9A%E9%B1%BC%E5%8A%A8%E7%94%BB%E7%83%B9%E9%A5%AA%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部 15 秒的日式 2D 动画烹饪短片创建一个非常粗略的铅笔项目草图，主题为 {argument name="dish name" default="金黄炸竹荚鱼"}，展示从生鱼到炸猪排成品的全过程。
+
+画布：超宽 21:9 横向比例，白纸上的黑白铅笔素描，分为 3 行 4 列共 12 个矩形格子。使用细黑边框、手绘辅助线、松散的动画布局透视、充满活力的排线，不使用颜色。
+
+视觉风格：日式动画项目 / 粗略关键帧布局，写实的厨房道具，电影级特写，动态的手部动作，可见的素描笔触，轻微阴影，蒸汽、气泡、飞溅、面包屑和动态线。保持纯单色石墨风格，如同清理前的制作项目。
+
+格子数量与内容：包含 12 个独立的格子，从左到右、从上到下阅读。第 1 格：透视角度下的厨房准备台，砧板上有三片打开的竹荚鱼片，一只手从上方撒调料，背景有水槽和小瓶子。第 2 格：双手在托盘上按压或展平鱼片的俯视特写，强调裹粉前的准备工作。第 3 格：手将鱼片放入盛有面粉或面包糠的浅盘中，粉末和面包屑向上飞溅。第 4 格：筷子夹起裹好粉的鱼片放入盛有蛋液或湿面糊的浅盘中，旁边有另一个托盘，周围有液体涟漪。第 5 格：双手将鱼片埋入并按压进矩形托盘中粗面包糠堆里的特写。第 6 格：燃气灶上的大油锅，下方可见火焰，油面闪烁，背景是厨房架子和瓶子。第 7 格：长烹饪筷将裹好粉的鱼片放入沸腾的油中，可见锅柄，开始激烈的油炸过程。第 8 格：油炸表面的极度特写，鱼周围布满气泡和酥脆的面包屑纹理。第 9 格：筷子从锅中夹起炸好的酥脆鱼片，油滴回锅中，有强烈的蒸汽和沸腾的油。第 10 格：炸好的鱼放在托盘上方的金属架上，筷子将其放下，架子下方有油滴。第 11 格：刀在砧板上切开炸竹荚鱼，露出酥脆外壳下柔软的白色鱼肉，蒸汽升起。第 12 格：最终摆盘，圆盘上有两块酥脆的炸竹荚鱼、卷心菜丝、柠檬角、蒸汽，以及从上方淋在炸猪排上的深色酱汁。
+
+文字内容：不要添加标题、对话气泡、数字、标志或水印；项目应纯粹为视觉内容。
+
+约束条件：保持一致的厨房环境和连续的烹饪顺序。使格子看起来像是 {argument name="video length" default="15 秒"} 日式 2D 动画的粗略前期制作艺术。使用 {argument name="line style" default="松散的石墨铅笔项目线条"} 和 {argument name="detail level" default="高食物纹理细节"}。强调向 {argument name="final dish presentation" default="配有卷心菜、柠檬和酱汁的酥脆金黄炸竹荚鱼盘"} 的诱人转变，即使图像保持黑白状态。
+
+[English]
+Goal: Create a very rough pencil storyboard sheet for a 15-second Japanese 2D anime cooking short about {argument name="dish name" default="golden aji fry"}, showing the full cooking process from raw fish to plated fried cutlet.
+
+Canvas: Ultra-wide 21:9 horizontal aspect ratio, black-and-white pencil sketch on white paper, divided into exactly 12 rectangular panels in a 3-row by 4-column grid. Use thin black panel borders, hand-drawn construction lines, loose animation-layout perspective, energetic hatching, and no color.
+
+Visual style: Japanese anime storyboard / rough keyframe layout, realistic kitchen props, cinematic close-ups, dynamic hands-in-frame action, visible sketch strokes, light shading, steam, bubbles, splashes, crumbs, and motion lines. Keep everything monochrome graphite, like a production storyboard before cleanup.
+
+Panel count and contents: Include exactly 12 discrete storyboard panels, read left to right, top to bottom. Panel 1: kitchen prep counter in perspective with three opened horse mackerel fillets on a cutting board, a hand sprinkling seasoning from above, sink and small bottles in the background. Panel 2: top-down close-up of both hands pressing or flattening the opened fish fillets on a tray, emphasizing preparation before breading. Panel 3: hand dropping or coating a fish fillet in a shallow tray of flour or breadcrumbs, powder and crumbs flying upward. Panel 4: chopsticks lifting a breaded fish fillet in a shallow egg or wet batter tray, another tray nearby, liquid ripples around it. Panel 5: close-up of hands burying and pressing the fish into a mound of coarse panko breadcrumbs in a rectangular tray. Panel 6: large pot of hot oil on a gas stove, flames visible underneath, oil surface shimmering, kitchen shelves and bottles behind. Panel 7: long cooking chopsticks lowering a breaded fish fillet into the bubbling oil, the pot handles visible, intense frying action beginning. Panel 8: extreme close-up of the frying surface packed with bubbles and crispy crumb texture around the fish. Panel 9: chopsticks lifting the fully fried crispy fish from the pot, oil dripping back down, strong steam and bubbling oil. Panel 10: the fried fish resting on a wire rack over a tray, chopsticks releasing it, oil drips beneath the rack. Panel 11: a knife cutting through the fried aji fry on a cutting board, revealing the soft white fish interior under the crunchy crust, steam rising. Panel 12: final plated dish with two crispy aji fry pieces on a round plate, shredded cabbage, a lemon wedge, steam, and a stream of dark sauce pouring from above onto the cutlet.
+
+Text content: Do not add captions, speech bubbles, numbers, logos, or watermarks; the storyboard should be purely visual.
+
+Constraints: Maintain a consistent kitchen setting and continuous cooking sequence. Make the panels feel like rough pre-production art for {argument name="video length" default="15-second"} Japanese 2D animation. Use {argument name="line style" default="loose graphite pencil storyboard lines"} with {argument name="detail level" default="high food texture detail"}. Emphasize the appetizing transformation into {argument name="final dish presentation" default="a crispy golden aji fry plate with cabbage, lemon, and sauce"}, even though the image remains black and white.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2070762568013304244) | 2026-06-27
+
+---
+
+### 🎨 例 2595：震惊的龙打开了散寿司
+
+![震惊的龙打开了散寿司](../../images/%E9%9C%87%E6%83%8A%E7%9A%84%E9%BE%99%E6%89%93%E5%BC%80%E4%BA%86%E6%95%A3%E5%AF%BF%E5%8F%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级、高度细节化的奇幻写实图像，主角是 {argument name="character name" default="一位年迈的龙宫龙经理"}，场景设定在温馨的传统日式餐厅或龙宫午餐室，它在打开一个高级散寿司漆盒时感到震惊。主体是一条巨大的象牙白东方龙，拥有长长的蛇形身体、蓬松的白鬃、金色的角、金色的胡须、红色的腹部鳞片、锋利的爪子、惊恐突出的眼睛以及张开的焦虑嘴巴，正俯身在一张低矮的木桌上。龙用一只爪子举起黑红相间的漆器便当盖，因难以置信而僵住。方形漆盒内装满了丰富的散寿司：清晰可见 9 种主要的配料或食物元素，包括三文鱼片、白肉鱼、虾、红金枪鱼、黄瓜片、橙色鲑鱼籽、蛋丝、米饭，以及中心处一个蜷缩着的粉色小龙/章鱼状生物，作为意想不到的神秘物品。在盒子上方添加一个巨大的白色漫画标点符号，内容为 {argument name="reaction text" default="!?"}。背景应包括带有温暖夕阳余晖的障子窗、摆放陶瓷的木架、悬挂的日本书法卷轴和灯笼，桌上铺着蓝色花纹的桌旗，左侧放着瓷制清酒瓶和酒杯，右侧放着陶瓷茶壶和调味品托盘，以及包裹在花纹纸套中的筷子。使用浓郁的琥珀色光影、浅景深、逼真的质感、精细的鳞片、诱人光泽的食物、奇幻的惊喜感，以及 16:9 的宽画幅构图。在右下角添加一个蓝色的小型水印风格标题，内容为 {argument name="watermark text" default="Dragon's Heaven"}。避免出现多余的角色，避免现代物品，并将场景聚焦于龙对寿司盒中小生物的震惊反应。
+
+[English]
+Create a cinematic, highly detailed fantasy-realistic image of {argument name="character name" default="an elderly Ryugu dragon manager"} in a warm traditional Japanese restaurant or Dragon Palace lunch room, shocked while opening a premium chirashi sushi lacquer box. The main subject is a large ivory-white Eastern dragon with a long serpentine body, shaggy white mane, gold horns, gold whiskers, red underside scales, sharp claws, bulging startled eyes, and an open anxious mouth, leaning over a low wooden table. The dragon holds up the black-and-red lacquer bento lid with one claw, frozen in disbelief. Inside the square lacquer box is abundant chirashi-zushi: exactly 9 prominent toppings or food elements visible, including sliced salmon, white fish, shrimp, red tuna, cucumber slices, orange salmon roe, shredded yellow egg, rice, and a tiny curled pink baby dragon/octopus-like creature sitting in the center as the unexpected mystery item. Add one large white comic punctuation mark above the box reading {argument name="reaction text" default="!?"}. The setting should include shoji windows with warm sunset light, wooden shelves with ceramics, hanging Japanese calligraphy scrolls and lanterns in the background, a blue patterned table runner, a porcelain sake bottle and cup on the left, a ceramic teapot and condiment tray on the right, and chopsticks wrapped in a patterned sleeve. Use rich amber lighting, shallow depth of field, realistic textures, detailed scales, appetizing glossy food, whimsical surprise, and a wide 16:9 composition. Add a small blue watermark-style title at the bottom right reading {argument name="watermark text" default="Dragon's Heaven"}. Avoid extra characters, avoid modern objects, and keep the scene focused on the dragon's stunned reaction to the tiny creature in the sushi box.
+```
+
+**来源：** [@Muzzle命](https://x.com/DragonsxHeaven/status/2070760044422197688) | 2026-06-27
+
+---
+
+### 🎨 例 2608：海岸绣球花海漫步
+
+![海岸绣球花海漫步](../../images/%E6%B5%B7%E5%B2%B8%E7%BB%A3%E7%90%83%E8%8A%B1%E6%B5%B7%E6%BC%AB%E6%AD%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅明亮且细节丰富的动漫风格夏季风景插画，描绘一对母女在晴朗雨后的绣球花丛中漫步。场景设定在俯瞰大海的山坡小径上，背景是波光粼粼的蓝色海洋、远处的绿色岛屿或半岛、白色小帆船、耕地以及点缀着蓬松积雨云的湛蓝天空。前景中准确呈现 2 个人物：1 位留着棕色短发的年轻母亲，神情温柔，戴着系有蓝色丝带的草帽，身穿白色宽松衬衫、淡黄色长裙，背着棕色皮革斜挎包，佩戴耳环；1 位小女孩正开心地抬头看着母亲，戴着同款蓝色丝带草帽，身穿白色泡泡袖上衣、蓝色格子背带裙，背着一个小巧的柳条斜挎包。孩子轻轻伸手触碰一朵巨大的蓝色绣球花，母亲低头微笑着看向她。在左侧绿树下的立柱上添加 1 个乡村风格的木制指示牌，上面带有绣球花图标和文字 {argument name="garden sign text" default="あじさいの森"}。小径两侧种满茂盛的绣球花丛，包含 5 种主要花色：鲜艳的蓝色、薰衣草紫、粉色、白色和淡丁香色，叶片翠绿油亮，透着雨后的清新感。在右侧中景处添加 1 个木制观景台，上面有几位微小的游客，并与花园小径相连。运用透过树枝洒下的温暖金色阳光，在泥土小径上投下柔和的阴影，色彩饱和，呈现 5k 清晰细节、绘画感动漫写实风格，营造出欢快的季节性旅游海报氛围，且无水印。人物自定义参数为 {argument name="mother age" default="年轻成人"}、{argument name="child age" default="约五岁"}、{argument name="season" default="初夏"} 以及 {argument name="location mood" default="宁静的海岸绣球花园"}。
+
+[English]
+Create a bright, highly detailed anime-style summer landscape illustration of a mother and daughter walking through a hydrangea garden after rain on a sunny day. The scene is set on a hillside path overlooking the sea, with sparkling blue ocean, a distant green island or peninsula, small white sailboats, cultivated fields, and a vivid blue sky filled with fluffy cumulus clouds. In the foreground, show exactly 2 people: 1 young mother with short brown hair, warm expression, straw hat with a blue ribbon, white loose shirt, pale yellow long skirt, brown crossbody leather satchel, and earrings; and 1 little girl looking up happily at her mother, wearing a matching straw hat with blue ribbon, white puff-sleeve blouse, blue gingham pinafore dress, and a small wicker crossbody basket bag. The child gently reaches toward a large blue hydrangea bloom while the mother smiles down at her. Include exactly 1 rustic wooden sign on the left, mounted on posts under leafy trees, with a small hydrangea icon and the text {argument name="garden sign text" default="あじさいの森"}. Fill both sides of the path with abundant hydrangea bushes in exactly 5 main flower colors: vivid blue, lavender purple, pink, white, and pale lilac, with lush glossy green leaves and rain-fresh brightness. Include exactly 1 wooden observation deck in the midground on the right with tiny visitors standing on it, connected to the garden path. Use warm golden sunlight filtering through tree branches, soft shadows on the dirt path, saturated colors, crisp 5k detail, painterly anime realism, cheerful seasonal travel-poster atmosphere, and no watermark. Customize the characters as {argument name="mother age" default="young adult"}, {argument name="child age" default="about five years old"}, {argument name="season" default="early summer"}, and {argument name="location mood" default="peaceful coastal hydrangea garden"}.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2070731494411362448) | 2026-06-27
+
+---
+
+### 🎨 例 2628：在沙滩上拖着吉他行走
+
+![在沙滩上拖着吉他行走](../../images/%E5%9C%A8%E6%B2%99%E6%BB%A9%E4%B8%8A%E6%8B%96%E7%9D%80%E5%90%89%E4%BB%96%E8%A1%8C%E8%B5%B0.jpg)
+
+**Prompt:**
+
+```text
+手をだらーんと伸ばして1〜2フレット掴んで{argument name="場所" default="砂浜"}を{argument name="アイテム" default="ギター"}引きずって歩いている
+```
+
+**来源：** [@魅惑のパンの耳](https://x.com/OnigiriRiot/status/2070680587221057777) | 2026-06-27
+
+---
+

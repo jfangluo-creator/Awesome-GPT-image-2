@@ -4801,3 +4801,203 @@ Create a vertical 2:3 high-detail anime fantasy illustration of {argument name="
 
 ---
 
+### 🖥️ 例 2546：Q 版少女探头边框
+
+![Q 版少女探头边框](../../images/Q%20%E7%89%88%E5%B0%91%E5%A5%B3%E6%8E%A2%E5%A4%B4%E8%BE%B9%E6%A1%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的纯白背景上创作一张可爱的 Q 版动漫插画，中心留出大面积空白，仿佛角色正从页面边缘探出头来。使用 4 个相同的 Q 版少女形象，{argument name="character name" default="一只企鹅主题的银发 Q 版少女"}，每个角色都被画布边缘部分裁剪：1) 一个倒立的头部从左上方边缘探出，仅露出头部和一点衣领；2) 一个侧脸从左下象限边缘探出，一只小手比着剪刀手；3) 一个侧脸从右上象限边缘探出，发间可见一个小小的蓝黄配色企鹅配饰；4) 一个较大的正面 Q 版形象从底部中心探出，露出头部到举起的小手。少女拥有圆脸、巨大的蓝灰色亮眼、柔和的腮红、小巧的微笑嘴唇、短波波头 {argument name="hair color" default="银白色头发，发梢带有浅青蓝色"}、圆润顺滑的刘海以及精致的蓝色线条点缀。服装暗示应为深海军蓝和蓝色，带有水手服或企鹅风格，但大部分衣物被裁剪。风格：精致的日系动漫贴纸艺术、柔和的赛璐珞阴影、干净的细轮廓线、头发和眼睛上的光泽高光、淡蓝色点缀，营造出可爱俏皮的晨间问候氛围。构图应显得宽敞简约，无文字、无边框、无水印，除 4 个探头的 Q 版形象和小企鹅配饰外，不包含任何额外角色或物体。
+
+[English]
+Create a cute anime chibi illustration on a clean pure white background with a large empty blank space in the center, as if the characters are peeking in from the edges of a page. Use exactly 4 copies of the same chibi girl, {argument name="character name" default="a penguin-themed silver-haired chibi girl"}, each partially cropped by the canvas border: 1) one upside-down head peeking from the top edge near the upper left, showing only the head and a little collar; 2) one sideways head peeking from the left edge around the lower-left quadrant, with a small hand making a peace sign; 3) one sideways head peeking from the right edge around the upper-right quadrant, with a tiny blue-and-yellow penguin accessory visible near her hair; 4) one larger front-facing chibi peeking up from the bottom center, visible from the head to tiny raised hands. The girl has a round face, huge glossy blue-gray eyes, soft blush, a tiny smiling mouth, short bob-cut {argument name="hair color" default="silvery white hair with light cyan-blue tips"}, smooth rounded bangs, and delicate blue line accents. Outfit hints should be dark navy and blue, suggesting a sailor or penguin-inspired costume, but keep most clothing cropped. Style: polished Japanese anime sticker art, soft cel shading, clean thin outlines, glossy highlights in the hair and eyes, pastel blue accents, adorable playful morning-greeting mood. Composition should feel spacious and minimal, with no text, no border, no watermark, and no extra characters or objects beyond the 4 peeking chibi copies and the small penguin accessory.
+```
+
+**来源：** [@エル（Eru）](https://x.com/yourself_life/status/2070996489279770695) | 2026-06-27
+
+---
+
+### 🖥️ 例 2551：Anthropic 代币支票模型
+
+![Anthropic 代币支票模型](../../images/Anthropic%20%E4%BB%A3%E5%B8%81%E6%94%AF%E7%A5%A8%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的超大号银行支票，作为 AI 公司代币发放的高分辨率宣传模型，采用浅蓝色安全纸背景，正视图呈现。
+
+画布：宽幅横向支票，尺寸约为 1200×520 像素，带有细灰色边框，纸张为柔和的灰白色/浅蓝色，具有清晰的矢量打印质量和轻微的扫描质感。
+
+布局：左上角为付款人信息块；右上角为日期和支票编号条；中心为收款人和金额行；左下角为银行和备注信息；右下角为签名；底部为 MICR 银行代码。
+
+文本内容：使用 14 组可见文本：1) 左上角名称“DARIO AMODEI”，2) 地址块“Anthropic, PBC / 548 Market St, San Francisco, CA 94104”，3) 小标签“PAY TO THE ORDER OF”，4) 收款人“{argument name="payee" default="Global Developers"}”，5) 日期标签“DATE”，6) 日期“{argument name="date" default="June 28, 2026"}”，7) 框内数字金额“{argument name="numeric amount" default="T100,000,000,000.00"}”，8) 大写金额“{argument name="written amount" default="One Hundred Billion and 00/100"}”后接一排星号，9) 红色单位标签“TOKENS”，10) 银行名称“BANK OF ANTHROPIC”，11) 银行副标题“CONTEXT WINDOW DIVISION · N.A.”，12) 备注标签及文本“MEMO / {argument name="memo" default="Software development"}”，13) 草书签名“Dario Amodei”及说明“AUTHORIZED SIGNATURE”，14) 底部 MICR 行“:121000248:   4096 8192 0 ʺ 0480”。
+
+设计细节：在左上角付款人信息块旁添加锈红色的 Anthropic 星爆标志，并在“BANK OF ANTHROPIC”旁添加一个较小的海军蓝星形图标。大部分文本使用深海军蓝墨水，标签“TOKENS”和对角角条使用红色。收款人、大写金额、备注文本、日期和签名应使用斜体衬线字体或草书，而标签和数字则使用简洁的无衬线字体或等宽字体。数字金额位于右侧深海军蓝轮廓的矩形框内。在整张支票上使用重复且极低透明度的浅色对角水印图案，内容为“ANTHROPICTOKENCHECK”。在右上角放置一条锈红色的对角安全带，内含“NON-NEGOTIABLE”字样，附近有小号支票编号“0480”以及下方的微型路由代码。
+
+约束：保持支票整洁、居中且完全清晰可读；不要添加人物、手部、背景风景、额外的标志或上述列表之外的额外文本。
+
+[English]
+Goal: Create a realistic oversized bank check styled as a high-resolution promotional mockup for an AI company token grant, shown straight-on with a pale blue security-paper background.
+
+Canvas: Wide horizontal check, approximately 1200×520 px, thin gray border, soft off-white/light-blue check paper, clean vector-print quality with slight scan-like realism.
+
+Layout: Top-left payer identity block; top-right date and check number corner strip; center payee and amount lines; lower-left bank and memo information; lower-right signature; bottom MICR banking numbers.
+
+Text content: Use exactly 14 visible text groups: 1) top-left name “DARIO AMODEI”, 2) address block “Anthropic, PBC / 548 Market St, San Francisco, CA 94104”, 3) small label “PAY TO THE ORDER OF”, 4) payee “{argument name="payee" default="Global Developers"}”, 5) date label “DATE”, 6) date “{argument name="date" default="June 28, 2026"}”, 7) boxed numeric amount “{argument name="numeric amount" default="T100,000,000,000.00"}”, 8) written amount “{argument name="written amount" default="One Hundred Billion and 00/100"}” followed by a row of asterisks, 9) red unit label “TOKENS”, 10) bank name “BANK OF ANTHROPIC”, 11) bank subtitle “CONTEXT WINDOW DIVISION · N.A.”, 12) memo label and memo text “MEMO / {argument name="memo" default="Software development"}”, 13) cursive signature “Dario Amodei” with caption “AUTHORIZED SIGNATURE”, 14) bottom MICR line “:121000248:   4096 8192 0 ʺ 0480”.
+
+Design details: Add the Anthropic starburst logo in rust red at top left beside the payer block, and a smaller navy star icon beside “BANK OF ANTHROPIC.” Use dark navy ink for most text, red for the “TOKENS” label and the diagonal corner strip. The payee, written amount, memo text, date, and signature should be italic serif or cursive, while labels and numbers are clean sans serif or monospaced. The numeric amount sits in a dark navy outlined rectangle on the right. Use a repeated faint diagonal watermark pattern across the whole check reading “ANTHROPICTOKENCHECK,” very low opacity. In the top-right corner place a diagonal rust-red security ribbon containing “NON-NEGOTIABLE,” with small check number text “0480” nearby and tiny routing-like numbers beneath.
+
+Constraints: Keep the check uncluttered, centered, and fully legible; do not add people, hands, background scenery, extra logos, or extra text beyond the listed groups.
+```
+
+**来源：** [@Ayaka](https://x.com/Saturney_Erdong/status/2070940056152682669) | 2026-06-27
+
+---
+
+### 🖥️ 例 2563：极简水彩阅读场景
+
+![极简水彩阅读场景](../../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E9%98%85%E8%AF%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅极简主义水彩插画，描绘了一位 {argument name="subject" default="年轻女性"} 沉浸在安静的日常时刻，坐在舒适的桌旁阅读书籍并在打开的日记本上记录笔记。柔和的手绘动漫美学，带有精致的墨线和富有表现力的面部特征。她宽松的超大号衬衫自然垂坠，布料褶皱优雅流畅，几缕发丝温柔地散落在脸庞周围。附近放着一个陶瓷茶杯、几本堆叠的书籍和一个插着干花的小玻璃花瓶，增添了宁静的氛围。在纹理水彩纸上渲染，采用 {argument name="colors" default="暖米色、奶油色、柔灰色、灰蓝色和微妙的桃色调"} 的柔和粉彩配色方案。高度细腻的水彩阴影，边缘柔和，可见的颜料晕染、有机的颜料飞溅以及环绕主体的艺术笔触纹理。干净的留白使人物保持为视觉焦点，同时保持了轻盈、平衡的构图。{argument name="lighting" default="柔和的晨光"} 洒满场景，营造出微妙的阴影和宁静、沉思的氛围。素描本风格的艺术作品，笔触优雅，带有自然的瑕疵、精致的颜料飞溅点缀和梦幻般的手工质感。现代日式水彩艺术风格，生活方式时尚插画，居中构图，浅米色纸张纹理，情感叙事，高质量传统水彩画。
+
+[English]
+A minimalist watercolor illustration of a {argument name="subject" default="young woman"} immersed in a quiet everyday moment, seated at a cozy table while reading a book and writing notes in an open journal. Soft hand-painted anime aesthetic with delicate ink outlines and expressive facial features. Her loose oversized blouse drapes naturally with elegant flowing fabric folds, while wisps of hair fall gently around her face. A ceramic mug of tea, stacked books, and a small glass vase with dried flowers rest nearby, enhancing the peaceful atmosphere. Rendered on textured watercolor paper with a muted pastel color palette of {argument name="colors" default="warm beige, cream, soft gray, dusty blue, and subtle peach tones"}. Highly detailed watercolor shading with soft edges, visible pigment blooms, organic paint splashes, and artistic brush textures surrounding the subject. Clean negative space allows the figure to remain the focal point while maintaining an airy, balanced composition. {argument name="lighting" default="Gentle morning light"} filters across the scene, creating subtle shadows and a calm, contemplative mood. Sketchbook-style artwork with elegant brushwork, natural imperfections, delicate paint splatter accents, and a dreamy handcrafted quality. Modern Japanese watercolor art style, lifestyle fashion illustration, centered composition, light beige paper texture, emotional storytelling, high-quality traditional watercolor painting.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2070891839146914168) | 2026-06-27
+
+---
+
+### 🖥️ 例 2581：猫咪识别结果页面
+
+![猫咪识别结果页面](../../images/%E7%8C%AB%E5%92%AA%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为源猫咪和应用上下文，将摄像头识别屏幕转换为小程序中完整的宠物档案结果页面。将实时摄像头视图替换为简洁的卡片式分析页面：在白色预览区域显示一张可爱的贴纸风格卡通插图，内容为同一只黑白相间的猫咪坐着并翘起尾巴，配有一个标有“点击看原图”的小按钮和一个放大镜图标。保持移动端截图的长宽比和 iOS 风格的顶部状态栏，但将页面标题更改为 {argument name="pet name" default="汪汪"}。
+
+布局：在明亮的绿色图案背景上创建一个大的圆角矩形结果卡片。在插图下方，添加一个包含以下可见数据元素的档案部分：1) 带有狗表情符号和 {argument name="pet name" default="汪汪"} 的名称行，以及一个标有“幸运”的绿色徽章；2) 引语文本 {argument name="quote" default="尾巴有自己的想法"}；3) 两个标有“体型 大只”和“亲近度 观望”的小信息框；4) 标有“遇见时间”的灰色行，显示 {argument name="encounter time" default="2026.06.27 08:46"}；5) 标有“遇见地点”的灰色行，显示 {argument name="coordinates" default="30.516455620659723, 114.34392523871527"}；6) 两个标有“小狗”和“机灵的”胶囊标签；7) 识别置信度文本“识别置信 52%”。
+
+底部操作：在卡片下方添加两个底部按钮：一个带有图片图标和“生成分享海报”文字的黄色大圆角按钮，以及一个带有分享网络图标的较小黑色圆角方形分享按钮。
+
+风格：俏皮精致的中文小程序 UI，粗黑轮廓，圆角卡片，柔和阴影，黄色强调色，简洁的矢量风格插图。不要保留原始的摄像头扫描框、缩放控件、快门按钮或实时街道背景。
+
+[English]
+Using the provided reference image as the source cat and app context, transform the camera recognition screen into a completed pet-profile result screen for a mini app. Replace the live camera view with a clean card-style analysis page: show a cute sticker-like cartoon illustration of the same black-and-white cat sitting with its tail raised on a white preview area, with a small button labeled “点击看原图” and a magnifying-glass icon. Keep the mobile screenshot aspect ratio and iOS-style top chrome, but change the page title to {argument name="pet name" default="汪汪"}.
+
+Layout: Create one large rounded rectangular result card on a bright green patterned background. Under the illustration, add a profile section with exactly these visible data elements: 1) name row with a dog emoji and {argument name="pet name" default="汪汪"}, plus a green badge labeled “幸运”; 2) quote text {argument name="quote" default="尾巴有自己的想法"}; 3) two small info boxes labeled “体型 大只” and “亲近度 观望”; 4) a gray row labeled “遇见时间” with {argument name="encounter time" default="2026.06.27 08:46"}; 5) a gray row labeled “遇见地点” with {argument name="coordinates" default="30.516455620659723, 114.34392523871527"}; 6) two pill tags labeled “小狗” and “机灵的”; 7) confidence text “识别置信 52%”.
+
+Bottom actions: Add two bottom buttons below the card: a large yellow rounded button with an image icon and text “生成分享海报”, and a smaller black rounded square share button with a share-network icon.
+
+Style: playful polished Chinese mini-program UI, thick black outlines, rounded cards, soft shadows, yellow accent color, clean vector-like illustration. Do not keep the original camera scanning brackets, zoom controls, shutter button, or live street background.
+```
+
+**来源：** [@Bole Chen](https://x.com/avenger/status/2070837239907758187) | 2026-06-27
+
+---
+
+### 🖥️ 例 2586：奇幻游戏角色设计图
+
+![奇幻游戏角色设计图](../../images/%E5%A5%87%E5%B9%BB%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+奇幻角色设计图，AAA 级游戏概念艺术，专业画册页面排版，结构完美的编辑网格系统，简洁的对称式 UI 设计，高端制作角色图
+
+主要主体：
+{argument name="character name" default="Aurora"}, {argument name="character description" default="骑着魔法独角兽的星空公主"}
+
+[English]
+fantasy character design sheet, AAA game concept art, professional artbook page layout, perfectly structured editorial grid system, clean symmetrical UI design, high-end production character sheet
+
+MAIN SUBJECT:
+{argument name="character name" default="Aurora"}, {argument name="character description" default="celestial princess riding a magical unicorn"}
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2070807944439169152) | 2026-06-27
+
+---
+
+### 🖥️ 例 2604：动漫少女与哈密瓜苏打伞
+
+![动漫少女与哈密瓜苏打伞](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%93%88%E5%AF%86%E7%93%9C%E8%8B%8F%E6%89%93%E4%BC%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张白色背景的简洁动漫风格插画：一位可爱的少女蹲在画面下方中央，撑着一把形状像哈密瓜苏打漂浮饮品的透明薄荷绿雨伞。少女拥有 {argument name="hair color" default="蓝灰色齐肩发"}，大大的 {argument name="eye color" default="粉红色眼睛"}，脸颊泛着柔和的红晕，微笑着看向观众。她穿着一件超大号的浅蓝色短袖衬衫裙，脚蹬一双亮面翠绿色雨靴，画面中清晰可见 2 只靴子：一只在前方，另一只部分被遮挡在后方。她双手握住深海军蓝色的伞柄；雨伞配有黑色弯曲手柄、细灰色伞骨、深绿色伞尖、闪亮的白色高光、半透明绿色伞面，以及边缘带有不规则奶油融化滴落效果的伞盖。在伞顶放置 1 个樱桃装饰：一颗带有长弯曲果柄和红色叶片尖端的亮面红紫色樱桃，使雨伞看起来像一杯甜点饮品。在角色周围散布 170 个彩色糖针状碎屑，覆盖整个画布，顶部和底部边缘较密集，少女周围较稀疏；这些糖针是短圆胶囊状笔触，共有 6 种颜色：粉色、黄色、奶油色、橙色、绿色和巧克力棕色。使用细彩色线条、柔和的赛璐珞阴影、明亮的糖果色以及俏皮轻盈的构图。保持背景为纯白色，无场景、无文字、无水印、无边框。
+
+[English]
+Create a clean anime-style illustration on a white background: a cute young girl crouching in the lower center while holding a transparent mint-green umbrella shaped like a melon soda float. The girl has {argument name="hair color" default="bluish gray shoulder-length hair"}, large {argument name="eye color" default="pink-red eyes"}, soft blush, and a small gentle smile as she looks toward the viewer. She wears an oversized pale blue short-sleeve shirt dress and glossy bright green rain boots, with exactly 2 visible boots: one large front boot and one partially hidden rear boot. She grips a dark navy umbrella shaft with both hands; the umbrella has a black curved handle, thin gray ribs, dark green tips, sparkling white highlights, translucent green panels, and an irregular creamy melting-drip edge along the canopy. On top of the umbrella, place exactly 1 cherry decoration: a glossy red-and-purple cherry with a long curved stem and a red leaf-like tip, making the umbrella resemble a dessert drink. Surround the character with exactly 170 colorful confetti-like sprinkle dashes scattered across the whole canvas, denser near the top and bottom edges and lighter around the girl; the sprinkles are short rounded capsule strokes in exactly 6 colors: pink, yellow, cream, orange, green, and chocolate brown. Use thin colored line art, soft cel shading, bright candy colors, and a playful airy composition. Keep the background pure white with no scenery, no text, no watermark, and no border.
+```
+
+**来源：** [@たいら恋太](https://x.com/taira_renta/status/2070735488814809349) | 2026-06-27
+
+---
+
+### 🖥️ 例 2620：猫耳冒险者装备维护
+
+![猫耳冒险者装备维护](../../images/%E7%8C%AB%E8%80%B3%E5%86%92%E9%99%A9%E8%80%85%E8%A3%85%E5%A4%87%E7%BB%B4%E6%8A%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插图，描绘一名可爱的猫耳冒险者少女 {argument name="character name" default="Pleiades"} 在黄金时刻跪在废墟般的城市走廊中。她留着凌乱的短发，发色为 {argument name="hair color" default="暖浅棕色"}，拥有琥珀色的双眼、毛茸茸的猫耳和配套的猫尾，表情温柔，正张嘴打着招呼。她身穿粗犷的棕色军装风格探险服：长款束腰外套、带有护膝和绑带的深色长裤、露指手套、靴子，脖子上围着一条深红色围巾。她正在清洁或检查一把短剑/匕首，一只手用白布握住刀刃，另一只手握着装饰精美的剑柄。在她身旁和身后是一个装满装备的大型棕色探险背包；请准确绘制 4 件显眼的附加物品：一把长木制步枪、一件长柄武器/斧头类武器、一个卷起的背包/睡袋，以及两个挂在一起的圆形玻璃药水瓶，一个红色，一个绿色。在她周围破碎的石地板上，展示一个井然有序的冒险者维护场景，包含 8 组清晰可见的零散装备：一个装有小瓶子和布料的敞开式金属补给箱、一个放有工具和纸张的托盘、一把斜放在前景的长步枪、一个手枪状工具或枪械零件、刷子、带有草图的折叠地图纸、一个红色瓶盖的小油瓶，以及靠近包边缘的一个指南针。背景是风化的废弃建筑通道，墙面灰泥剥落，露出砖块，柱子坍塌，裂缝中长着杂草，左侧可以看到模糊的城市天际线，沐浴在温暖的阳光和长长的阴影中。在右侧墙壁上添加竖排手写日语问候语 {argument name="wall text" default="こんにちは"}，上方带有强调符号，白色字体需遵循墙壁透视。采用高度精细的动漫渲染，线条复杂，具有绘画感的写实光影，暖棕褐色调，电影级景深，石材、皮革、金属和布料质感丰富。构图保持方形，角色略微偏左居中，背包在她的左侧，敞开的补给箱在她的右侧，不要添加额外角色，不要有水印，不要有现代 UI 元素。
+
+[English]
+Create a detailed anime-style illustration of a cute cat-eared adventurer girl named {argument name="character name" default="Pleiades"} kneeling in a ruined urban corridor at golden hour. She has short tousled {argument name="hair color" default="warm light brown"} hair, amber eyes, fluffy cat ears, and a matching cat tail, with a gentle open-mouthed greeting expression. She wears a rugged brown military-style explorer outfit: long belted coat, dark pants with knee pads and straps, fingerless gloves, boots, and a deep red scarf wrapped around her neck. She is cleaning or inspecting a short sword/dagger, holding the blade with a white cloth in one hand and the decorated hilt in the other. Beside and behind her is a large brown expedition backpack loaded with gear; count exactly 4 prominent attached items: a long wooden rifle, a polearm/axe-like weapon, a rolled pack/bedroll, and two round glass potion bottles hanging together, one red and one green. Around her on the cracked stone floor, show an organized adventurer maintenance scene with exactly 8 visible loose equipment groups: an open metal supply box with small bottles and cloths, an open tray with tools and papers, a long rifle laid diagonally in the foreground, a pistol-like tool or firearm part, brushes, folded map papers with sketchy diagrams, a small oil bottle with a red cap, and a compass near a bag edge. The background is a weathered abandoned building passage with broken plaster, exposed brick, crumbling columns, weeds in the cracks, and a blurred city skyline outside on the left, lit by warm sunlight and long shadows. Add vertical handwritten Japanese greeting text on the right wall reading {argument name="wall text" default="こんにちは"}, with small emphasis marks above it, white lettering that follows the wall perspective. Use highly polished anime rendering, intricate linework, painterly realistic lighting, warm sepia and amber color palette, cinematic depth of field, rich texture on stone, leather, metal, and cloth. Keep the composition square, character centered slightly left, backpack on her left, open supply box on her right, no extra characters, no watermark, no modern UI elements.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2070709255251042602) | 2026-06-27
+
+---
+
+### 🖥️ 例 2621：青色发条战斗女仆
+
+![青色发条战斗女仆](../../images/%E9%9D%92%E8%89%B2%E5%8F%91%E6%9D%A1%E6%88%98%E6%96%97%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满戏剧感的暗黑奇幻动漫插画，描绘 {argument name="character name" default="一位银发战斗女仆"} 在破败的哥特式大教堂中向前突进。场景采用 2:3 竖构图，极低且动态的摄像机视角，强烈的透视缩短效果和动态模糊：角色正从左后方朝右下角前景冲锋，一只装甲拳头握着武器柄靠近观众，身体和破损的女仆裙向后飘动。她拥有飘逸的 {argument name="hair color" default="银灰色"} 长发、苍白的皮肤、小巧的荷叶边女仆头饰、黑白相间的维多利亚风格女仆装、层叠的破损裙摆、装甲护手和机械肢体细节，表情凶狠且带有阴影，双眼闪烁着微弱的青色光芒。在她身后上方，展示 1 把巨大的半透明青色能量刃或光束，从左边缘向中心对角线延伸，内部悬浮着清晰可见的发条齿轮、圆形机械结构和魔法电路。环境为损毁的大教堂内部，右上角有 1 扇破碎的巨大拱形彩色玻璃窗，高耸的裂纹立柱、破碎的石墙、瓦砾、灰尘和飞溅的碎片散落在地面。使用近乎单色的木炭色、板岩灰和黑色调，并辅以武器光芒、轮廓光、细小火花和魔法轨迹带来的强烈青色点缀。风格：高细节日本暗黑动漫概念艺术、绘画笔触、电影级光影、高对比度、复杂的褶皱、锐利的装甲边缘、粒子特效、速度线、戏剧性氛围，无文字，无水印，无边框。
+
+[English]
+Create a dramatic dark fantasy anime illustration of {argument name="character name" default="a silver-haired battle maid"} lunging forward in a ruined gothic cathedral. The scene is a vertical 2:3 composition with an extreme low, dynamic camera angle, strong foreshortening, and motion blur: the character is mid-charge from left rear toward the lower-right foreground, one armored fist gripping a weapon handle near the viewer while her body and torn maid dress sweep backward. She has long flowing {argument name="hair color" default="silver-gray"} hair, pale skin, a small frilled maid headpiece, a ruffled black-and-white Victorian maid outfit, layered torn skirt, armored gauntlets and mechanical limb details, and a fierce shadowed expression with faint cyan glowing eyes. Behind and above her, show exactly 1 enormous translucent cyan energy blade or beam extending diagonally from the left edge toward the center, containing visible clockwork gears, circular mechanisms, and magical circuitry suspended inside the glasslike light. The environment is a devastated cathedral interior with exactly 1 large broken arched stained-glass window in the upper right, tall cracked columns, shattered stone walls, rubble, dust, and flying debris on the floor. Use a nearly monochrome charcoal, slate gray, and black palette with intense cyan accents from the weapon glow, rim lighting, small sparks, and magical trails. Style: highly detailed Japanese dark anime concept art, painterly brushwork, cinematic lighting, high contrast, intricate fabric folds, sharp armor edges, particles, speed lines, dramatic atmosphere, no text, no watermark, no border.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2070708698348224999) | 2026-06-27
+
+---
+
+### 🖥️ 例 2630：赛博朋克恶魔头像 UI 概念设计
+
+![赛博朋克恶魔头像 UI 概念设计](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%81%B6%E9%AD%94%E5%A4%B4%E5%83%8F%20UI%20%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的科幻角色概念编辑图像，主体为一个悬浮在极简摄影棚背景中的赛博朋克恶魔幼体头像。主体为深色皮肤、光头的类人头像，呈四分之三侧面朝向右侧，悬浮在半空中，没有脖子或身体；表情冷静而严肃，双唇微抿，眼窝区域有大面积阴影，鼻部有小型鼻环或鼻中隔细节，皮肤光滑，带有细小毛孔和微小黑点。添加两个角状突起：左侧头骨处有一个大型弯曲的有机机械角向上卷曲，右后侧有一个较小的角向上指向。头部左侧覆盖着密集的赛博朋克硬件：圆形耳部模块、线缆、管道、圆环、小型关节、机械板以及缠绕在头骨和脸颊上的悬垂连接器。使用来自右上方的霓虹洋红色戏剧性灯光照射头皮和面部，左侧机械部分呈现深青黑色阴影，背景为淡薄荷白色。头部在后方和下方投射出柔和的模糊阴影，强调其悬浮感。叠加 3 个明亮的亮粉色圆角方形 UI 徽章：左上角徽章包含一个白色大数字“1”，右上角部分裁剪的徽章包含一个白色大五角星，左下角徽章包含一个白色大加号。构图时将头部置于中心偏右位置，高度适中以确保顶部徽章可见；高对比度，光泽感电影级 3D 渲染，浅景深，未来赛博朋克氛围，干净的负空间，无额外文字，无水印。可选自定义项：主体风格 {argument name="character style" default="cybernetic demon-child head"}，主灯光颜色 {argument name="lighting color" default="neon magenta"}，背景颜色 {argument name="background color" default="pale mint-white"}，左上角徽章文字 {argument name="badge number" default="1"}，徽章颜色 {argument name="badge color" default="hot pink"}。
+
+[English]
+Create a square editorial sci-fi character concept image with a floating cybernetic demon-child head in a minimalist studio setting. The subject is a dark-skinned, bald humanoid head in three-quarter view facing right, suspended in midair with no neck or body, expression calm and severe, lips slightly pursed, large shadowed eye socket area, small nose piercing or septum detail, and smooth skin marked by tiny pores and small dark speckles. Add two horn-like protrusions: 1 large curved organic-mechanical horn rising from the left side of the skull and curling upward, and 1 smaller horn on the right rear side pointing upward. The left side of the head is covered with dense cybernetic hardware: circular ear module, cables, tubes, rings, small joints, mechanical plates, and dangling connectors wrapping around the skull and cheek. Use dramatic neon magenta lighting from the upper right across the scalp and face, with deep teal-black shadows on the left mechanical side, against a pale mint-white background. The head casts a soft blurred shadow behind and below it, emphasizing that it floats. Overlay exactly 3 bright hot-pink rounded-square UI badges: top left badge contains a large white number “1”, top right partially cropped badge contains a large white five-point star, and bottom left badge contains a large white plus sign. Compose with the head centered slightly right and low enough that the top badges remain visible, high contrast, glossy cinematic 3D render, shallow depth of field, futuristic cyberpunk mood, clean negative space, no extra text, no watermark. Optional customizations: subject style {argument name="character style" default="cybernetic demon-child head"}, main lighting color {argument name="lighting color" default="neon magenta"}, background color {argument name="background color" default="pale mint-white"}, top left badge text {argument name="badge number" default="1"}, badge color {argument name="badge color" default="hot pink"}.
+```
+
+**来源：** [@sergio casciu](https://x.com/youseememiami/status/2070664659686863278) | 2026-06-27
+
+---
+

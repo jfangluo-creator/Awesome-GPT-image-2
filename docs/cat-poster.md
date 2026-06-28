@@ -11777,3 +11777,228 @@ Constraints: Keep the background uncluttered, maintain high-end editorial spacin
 
 ---
 
+### 🎴 例 2552：暗黑光环赛博哥特海报
+
+![暗黑光环赛博哥特海报](../../images/%E6%9A%97%E9%BB%91%E5%85%89%E7%8E%AF%E8%B5%9B%E5%8D%9A%E5%93%A5%E7%89%B9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑赛博哥特时尚编辑海报，画面主体为一位 {argument name="character description" default="留着黑色长波浪卷发、肤色苍白、妆容清冷易碎、神情梦幻而危险的亚洲成年女性"}，她赤脚坐在昏暗的监控实验室地板上。她身穿 {argument name="outfit" default="黑色哥特机能风迷你裙，搭配黑色皮质束腰上衣、蕾丝颈圈、链条装饰、吊袜带式链条绑带、黑色羽毛天使翅膀以及多层黑色短裙"}。姿势设定为坐姿，一条腿蜷缩，另一条腿伸展，手部触碰着一根从前景底部向上延伸至她举起的手部、形成如光环般弧线的发光白色霓虹线缆。环境为一个杂乱的暗黑监控室：墙上贴满了眼睛照片、瞳孔打印件、胶带粘住的旧照片、纸屑和监控证据；地板上散落着线缆、前景中半开的旧笔记本电脑、黑色键盘、零散的眼睛素描、CRT 显示器设备，伴有绿色光影和强烈的阴郁阴影。视觉风格：电影级写实与故障海报设计相结合，冷灰黑色调配以病态绿色高光，高对比度，胶片颗粒感，扫描线噪点，色差，模拟 VHS 失真，监控梦境氛围，暗黑天使/恶魔情绪。添加做旧的白色像素故障字体和细小的技术微型文字叠加。包含 5 个主要文字元素：左上角的大标题 {argument name="main title" default="ARC OF NOISE"}；中右侧标题 {argument name="side title" default="DARK HALO"}；右下角标题 {argument name="bottom title" default="FEED ME STATIC"}；右上角微型短语 "THE SIGNAL BENDS. I LISTEN."；左下角微型文字块，包含如 "FEED_004B// VISUAL UNKNOWN"、"NOISE IS NOT RANDOM. IT'S PRAYER. //23%" 以及 "EYES OPEN. TRUTH CORRUPTED. BEYOND THE NOISE." 等片段。保持垂直海报构图，女性略微偏右居中，发光弧线占据前景，画面中不包含其他角色。
+
+[English]
+Create a dark cyber-goth fashion editorial poster featuring an {argument name="character description" default="adult Asian woman with long black wavy hair, pale skin, cool fragile makeup, dreamy but dangerous expression"} sitting barefoot on the floor of a dim surveillance laboratory. She wears a {argument name="outfit" default="black gothic techwear mini dress with a black leather corset-like top, lace choker, chain decorations, garter-like chain straps, black feather angel wings, and layered black skirt"}. Pose her seated with one leg folded under and one leg extended, holding and touching a tall glowing white neon cable or light arc that curves from the bottom foreground up past her raised hand, creating a halo-like slash of light through the image. The environment is a cluttered dark monitoring room: walls covered with eye photographs, pupil printouts, taped old photos, paper scraps, and surveillance evidence; floor scattered with cables, a half-open old laptop in the foreground, black keyboard, loose eye sketches, CRT/monitor equipment, green light spill, and harsh moody shadows. Visual style: cinematic photorealism mixed with glitch poster design, cold gray-black palette with sickly green highlights, high contrast, film grain, scanline noise, chromatic aberration, analog VHS distortion, surveillance-dream atmosphere, dark angel/demon mood. Add distressed white pixel-glitch typography and small technical microtext overlays. Include exactly 5 main text elements: large title at upper left reading {argument name="main title" default="ARC OF NOISE"}; mid-right title reading {argument name="side title" default="DARK HALO"}; lower-right title reading {argument name="bottom title" default="FEED ME STATIC"}; tiny upper-right phrase reading "THE SIGNAL BENDS. I LISTEN."; lower-left microtext blocks with fragments such as "FEED_004B// VISUAL UNKNOWN", "NOISE IS NOT RANDOM. IT'S PRAYER. //23%", and "EYES OPEN. TRUTH CORRUPTED. BEYOND THE NOISE." Keep the composition vertical, poster-like, with the woman centered slightly right, the glowing arc dominating the foreground, and no extra characters.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2070935589059526831) | 2026-06-27
+
+---
+
+### 🎴 例 2565：极简风鸡肉卷广告
+
+![极简风鸡肉卷广告](../../images/%E6%9E%81%E7%AE%80%E9%A3%8E%E9%B8%A1%E8%82%89%E5%8D%B7%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简商业广告，展示 {argument name="subject" default="超大号优质鸡肉卷"}，超洁净设计。{argument name="character" default="一位身穿全白配绿色服装的年轻女性"} 随意地靠在巨大的鸡肉卷旁，姿态放松自信，闭着双眼，手中还拿着一块正常大小的鸡肉卷。背景为柔和的渐变鲜艳青绿色，后方有醒目的白色大号“Chicken Roll”文字。光泽感反射地面，柔和的摄影棚灯光，现代高端食品/产品摄影。右上角小字“Designed by shamus”。底部居中白色小字标语：“{argument name="tagline" default="每一口，尽享美味"}”
+
+[English]
+Minimalist commercial ad featuring {argument name="subject" default="oversized premium chicken rolls"}, ultra-clean design. {argument name="character" default="A young woman in all-white and green outfit"} leans casually against the giant chicken roll, relaxed confident pose, eyes closed, also holding a regular-sized chicken roll piece in her hand. Soft gradient vibrant teal-green background with large bold white “Chicken Roll” text behind. Glossy reflective floor, soft studio lighting, modern high-end food/product photography. Small top-right text “Designed by shamus”. Bottom center tagline in small white font: “{argument name="tagline" default="Feel the taste in, every bite"}"
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2070888648799600783) | 2026-06-27
+
+---
+
+### 🎴 例 2573：宽幅体育海报庆典
+
+![宽幅体育海报庆典](../../images/%E5%AE%BD%E5%B9%85%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅体育海报构图，虚构的 {argument name="athlete" default="足球运动员"} 举起双臂庆祝，画面左侧充满红、绿、金渐变色的色彩爆炸效果，足球 b…
+
+[English]
+Wide sports poster composition, fictional {argument name="athlete" default="soccer player"} celebrating with arms raised, full color-streak explosion effect filling the left side of frame in red, green and gold gradient, soccer b…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2070859534151680451) | 2026-06-27
+
+---
+
+### 🎴 例 2575：2026 年日本世界杯海报
+
+![2026 年日本世界杯海报](../../images/2026%20%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级体育海报，主题为 {argument name="event title" default="WORLD CUP 2026"}。采用 16:9 宽屏横向画布，呈现写实广告风格，营造极具张力的体育场氛围。主体为一名 20 岁出头的年轻日本男足球员，身材健硕，面部洁净，留着中等长度的凌乱黑发，皮肤质感自然，半身像，侧身向右，神情严肃。他身穿深蓝色日本国家队足球球衣，球衣带有细微的斜纹质感、白色肩带、领口红色镶边，胸前贴有日本国旗徽章、日本队队徽及白色运动品牌标志。背景：模糊的巨型足球场，座无虚席，笼罩在冷色调的蓝灰色薄雾中，漂浮着尘埃与光斑，左中背景处有一面巨大的日本国旗在飘扬，左上方透出明亮的漫射阳光，浅景深，充满史诗感与希望。文字排版包含 3 个元素：1) 左上方居中的日语标语 {argument name="Japanese slogan" default="その景色を、\nその先へ。"}，采用优雅的深蓝色衬线书法字体；2) 下方间距较大的英文大写副标题 {argument name="English subtitle" default="BEYOND THE LIMIT."}；3) 底部横跨的大号奢华金色衬线标题 {argument name="event title" default="WORLD CUP 2026"}，下方居中配有细横金线及小型菱形装饰。使用高级电影海报排版，金色渐变字体，写实光影，高对比度，画面中不得出现其他球员、额外标志、水印或多余文字。
+
+[English]
+Create a cinematic sports poster for {argument name="event title" default="WORLD CUP 2026"}. Wide 16:9 landscape canvas, photorealistic advertising style with dramatic stadium atmosphere. The main subject is one young Japanese male football player, early 20s, athletic build, clean-shaven, medium-length tousled black hair, natural skin texture, looking seriously off to the right in a three-quarter portrait from chest up. He wears a dark navy Japan national team soccer jersey with subtle diagonal line texture, white shoulder stripes, red trim at the collar, a small Japanese flag patch, a Japan crest on the chest, and a white sportswear logo. Background: a huge blurred football stadium full of spectators, cool blue-gray haze, floating dust and bokeh particles, a large Japanese flag waving in the left-middle background, bright diffused sunlight glowing from the upper left, shallow depth of field, epic hopeful mood. Text layout contains exactly 3 text elements: 1) Japanese slogan at upper-left center reading {argument name="Japanese slogan" default="その景色を、\nその先へ。"} in elegant dark blue serif calligraphy-like type; 2) small spaced uppercase subtitle below it reading {argument name="English subtitle" default="BEYOND THE LIMIT."}; 3) large luxury gold serif title across the bottom reading {argument name="event title" default="WORLD CUP 2026"}, with thin horizontal gold lines and a small diamond ornament centered beneath. Use premium movie-poster typography, gold gradient lettering, realistic lighting, high contrast, no extra players, no extra logos, no watermark, no additional text.
+```
+
+**来源：** [@*ナオのBiz戦略](https://x.com/HarmNao/status/2070853516051316979) | 2026-06-27
+
+---
+
+### 🎴 例 2584：Volt Kick 足球能量饮料海报
+
+![Volt Kick 足球能量饮料海报](../../images/Volt%20Kick%20%E8%B6%B3%E7%90%83%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="product name" default="VOLT KICK"} 的虚构足球能量饮料创作一张极具冲击力的电影感运动饮料广告海报，主题围绕球迷的支持转化为终极一击的电能。
+
+画布：宽屏 16:9 横向海报，深夜体育场环境，超戏剧化的商业主视觉，高对比度的黑色与电光蓝配色方案。
+
+布局：在前景正中央放置一个巨大的透明塑料运动饮料瓶，使其高耸于足球场之上。在顶部放置一行醒目的发光日文标题 {argument name="headline text" default="応援は、力になる。"}。在右上角添加白色的 “Pollo.ai” 标志。在底部放置巨大的金属质感斜体产品字标 “VOLT KICK”，下方配以较小的标语 {argument name="tagline" default="ENERGY FOR THE FINAL SHOT"}。
+
+主体细节：中央的瓶子带有银色罗纹瓶盖，瓶内装有带气泡和冷凝水珠的蓝色液体，黑色环绕标签上有锐利的蓝色闪电图形。标签文字以粗体白色斜体块状字母书写 “VOLT KICK”，包含一行小字 “ENERGY SPORTS DRINK”，并在标签右下角显示一个足球图标。瓶子后方应散发出强烈的青蓝色能量光芒。
+
+场景细节：瓶子周围是夜间座无虚席的足球场，充满了成千上万盏蓝白色的应援灯。场上包含 7 个深色足球运动员剪影：左侧前景 1 名奔跑的大型球员，左侧较远处 1 名较小球员，球门区附近 1 名微小的中央球员，明亮球门内 1 名守门员剪影，右侧前景 1 名奔跑的大型球员，右侧中心附近 1 名较小球员，以及边线附近 1 名最右侧球员。一个明亮的白色足球门直接位于瓶子后方。前景中潮湿的草皮和水坑反射着蓝色的灯光和产品标志。
+
+视觉风格：超写实日式运动商业海报，从瓶身向外辐射的爆炸性电光蓝闪电、水花、火花、速度线、发光的体育场泛光灯、镜头光晕、强烈的背光、动态感、光泽感产品摄影、瓶身焦点清晰、极具戏剧性的深度与比例。
+
+约束条件：仅使用虚构品牌和通用球员，不得使用真实球队或真实运动员。保持整体构图以瓶子为中心对称，最明亮的能量集中在瓶子后方。保留所有可见的文字元素：日文标题、Pollo.ai、VOLT KICK、ENERGY SPORTS DRINK 以及 ENERGY FOR THE FINAL SHOT。
+
+[English]
+Goal: Create a high-impact cinematic sports drink advertising poster for a fictional soccer energy drink named {argument name="product name" default="VOLT KICK"}, themed around fan support transforming into electric power for the final shot.
+
+Canvas: Wide 16:9 landscape poster, dark night stadium environment, ultra-dramatic commercial key visual, high contrast black and electric blue color palette.
+
+Layout: Place one large transparent plastic sports drink bottle perfectly centered in the foreground, towering over the soccer field. Put a bold glowing Japanese headline across the top reading {argument name="headline text" default="応援は、力になる。"}. Add a white “Pollo.ai” logo in the upper right. At the bottom, place a huge metallic italic product wordmark reading “VOLT KICK”, with the smaller tagline below reading {argument name="tagline" default="ENERGY FOR THE FINAL SHOT"}.
+
+Subject details: The central bottle has a silver ribbed cap, blue liquid with bubbles and condensation droplets, and a black wraparound label with sharp blue lightning graphics. The label text reads “VOLT KICK” in bold white italic block letters, includes the small line “ENERGY SPORTS DRINK”, and shows a soccer ball icon near the lower right of the label. The bottle should glow from behind with intense cyan-blue energy.
+
+Scene details: A packed soccer stadium at night surrounds the bottle, filled with thousands of blue-white cheering lights. Include exactly 7 dark soccer player silhouettes on the field: 1 large player sprinting on the left foreground, 1 smaller player farther left, 1 tiny central player near the goal area, 1 goalkeeper silhouette inside the bright goal, 1 large player sprinting on the right foreground, 1 smaller player near the right-center, and 1 far-right player near the sideline. A bright white soccer goal sits directly behind the bottle. The wet turf and puddles in the foreground reflect the blue lights and product logo.
+
+Visual style: Hyperrealistic Japanese sports commercial poster, explosive electric-blue lightning bolts radiating outward from the bottle, water splashes, sparks, speed streaks, glowing stadium floodlights, lens flares, intense backlighting, dynamic motion, glossy product photography, sharp focus on the bottle, dramatic depth and scale.
+
+Constraints: Use only fictional branding and generic players, no real teams or real athletes. Keep the overall composition symmetrical around the bottle, with the brightest energy concentrated behind it. Preserve the exact visible text elements: Japanese headline, Pollo.ai, VOLT KICK, ENERGY SPORTS DRINK, and ENERGY FOR THE FINAL SHOT.
+```
+
+**来源：** [@むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art/status/2070816911361794099) | 2026-06-27
+
+---
+
+### 🎴 例 2592：半色调极简艺术海报
+
+![半色调极简艺术海报](../../images/%E5%8D%8A%E8%89%B2%E8%B0%83%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简艺术海报。大面积纯白留白背景，呈现梦幻、柔和的彩虹渐变光影。蓝色、粉色、金色和青绿色调自然融合，营造出极其空灵、干净、纯粹且宁静的氛围。画面中央，一个透明玻璃球悬浮在半空中，展现出逼真的折射、反射和焦散效果。玻璃球内是一个新鲜诱人的 {argument name="subject" default="peach"}，看起来鲜美可口，轻盈悬浮，充满生机。整幅作品采用半色调点阵艺术手法，细腻密集的点阵均匀覆盖全图。通过点阵密度的变化形成柔和的渐变，将复古印刷质感与未来主义视觉风格融为一体。强烈的背光、柔焦、发光高光、梦幻光晕、彩虹折射、镜头光斑、朦胧散射光、大气透视感，以及极致的空气感。背景具有微妙的流动感，抽象的渐变色块缓慢交融。无复杂元素，强调精致的留白设计。现代品牌视觉风格，Apple 广告美学，MUJI 极简主义，高端化妆品主视觉，艺术博物馆海报，概念艺术。平静、治愈、安静且优雅。在画面底部中央，预留一个大写英文字母 Logo：“{argument name="logo text" default="YOUR LOGO"}”。使用现代的 {argument name="font style" default="sans-serif"} 字体，极细的字间距，浅金色文字，使其与整体色调自然融合。电影级布光，逼真的玻璃材质，超高细节，8K 分辨率，Octane Render，Redshift Render，CG 艺术，获奖海报，大师级调色，大师级排版，极致纹理质感。
+
+[English]
+Minimalist art poster. A large pure-white negative-space background with dreamy, soft rainbow gradient lighting. Blue, pink, gold, and cyan-green tones blend naturally, creating an extremely airy, clean, pure, and tranquil atmosphere. At the center of the image, a transparent glass sphere floats in midair, showing realistic refraction, reflection, and caustic effects. Inside the glass sphere is a fresh, tempting {argument name="subject" default="peach"}, delicious-looking, lightly suspended, and full of life. The entire artwork uses a halftone dot art technique, with fine, dense dots evenly covering the whole image. Soft gradients are formed through variations in dot density, blending retro print texture with a futuristic visual style. Strong backlighting, soft focus, glowing highlights, dreamy bloom, rainbow refraction, lens flare, misty scattered light, atmospheric perspective, and an extreme sense of airiness. The background has a subtle flowing quality, with abstract gradient color blocks slowly merging into one another. No complex elements, emphasizing a refined negative-space design. Modern brand visual style, Apple advertising aesthetics, MUJI minimalism, high-end cosmetics key visual, art museum poster, concept art. Calm, healing, quiet, and elegant. At the bottom center of the image, reserve an uppercase English logo: “{argument name="logo text" default="YOUR LOGO"}”. Use a modern {argument name="font style" default="sans-serif"} typeface, very fine letter spacing, light-gold text, and let it blend naturally with the overall color palette. Cinematic lighting, realistic glass material, ultra-high detail, 8K resolution, Octane Render, Redshift Render, CG art, award-winning poster, master-level color grading, master-level layout, ultimate texture quality.
+```
+
+**来源：** [@KANA｜東京AI映像](https://x.com/KanaWorks_AI/status/2070773089252892744) | 2026-06-27
+
+---
+
+### 🎴 例 2596：体育编辑海报设计
+
+![体育编辑海报设计](../../images/%E4%BD%93%E8%82%B2%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+体育海报设计，虚构的 {argument name="subject" default="男性足球运动员"}，留着深色短发，带有淡淡的胡茬，自信地单手指向镜头，另一只手臂向外伸展，身穿 {argument name="jersey" default="带有黑色饰边和赞助商标志的粉色足球球衣"}，前臂可见纹身，照片采用粉色双色调处理，巨大的粗体镂空字体拼写出虚构的姓氏 "{argument name="player name" default="RIVERA"}"，作为窗口显露出字母背后的照片，不对称的编辑布局，球员姓名以小号白色文字垂直排列在左侧边缘，角落散布着橙色和粉色的半透明圆点装饰，干净的白色留白背景，杂志级体育编辑海报设计，垂直 4:5 构图 --ar 4:5 --v 6
+
+[English]
+Sports poster design, fictional {argument name="subject" default="male soccer player"} with short dark hair, light stubble, confident gesture pointing toward camera with one hand near chin, other arm extended outward, wearing {argument name="jersey" default="pink soccer jersey with black trim and sponsor logo"}, tattoo visible on forearm, duotone pink color treatment over photograph, giant bold cutout typography spelling fictional surname "{argument name="player name" default="RIVERA"}" acting as a window revealing the photo behind the letters, asymmetric editorial layout with player name vertical along left edge in small white text, floating translucent color dot accents in orange and pink scattered in corners, clean white negative space background, magazine-quality sports editorial poster design, vertical 4:5 composition --ar 4:5 --v 6
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2070757619141337392) | 2026-06-27
+
+---
+
+### 🎴 例 2597：超写实街头时尚大片
+
+![超写实街头时尚大片](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实时尚杂志封面，极简街头时尚大片，一位年轻男性站在 {argument name="background" default="干净的白墙"} 前，身穿超大款 {argument name="shirt color" default="藏青色"} 短袖衬衫、黑色领带、宽松黑色长裤、黑色运动鞋、黑色鸭舌帽，佩戴太阳镜。前景两侧有多个同一人物的运动模糊克隆形象走过，营造出动态的移动效果。中心主体清晰且自信，双手插兜，电影级布光，柔和阴影，高端时尚摄影，杂志排版，奢华杂志美学，中性色调，浅景深，专业单反相机，85mm 镜头，Vogue 风格封面拍摄，照片级真实感，8K 细节。顶部印有大型杂志标题文字“{argument name="magazine title" default="VANTAGE"}”，现代排版，布局简洁。
+
+[English]
+Ultra-realistic fashion magazine cover, minimalist streetwear editorial, young man standing against a {argument name="background" default="clean white wall"} wearing an oversized {argument name="shirt color" default="navy-blue"} short-sleeve shirt, black tie, baggy black trousers, black sneakers, black cap, sunglasses. Multiple motion-blurred clones of the same person walking past in the foreground on both sides, creating a dynamic movement effect. Central subject perfectly sharp and confident, hands in pockets, cinematic lighting, soft shadows, high-end fashion photography, editorial composition, luxury magazine aesthetic, neutral color palette, shallow depth of field, professional DSLR, 85mm lens, Vogue-style cover shoot, photorealistic, 8K detail. Large magazine masthead text at the top reading “{argument name="magazine title" default="VANTAGE"}”, modern typography, clean layout.
+```
+
+**来源：** [@Orion](https://x.com/Prime_54/status/2070756370618437640) | 2026-06-27
+
+---
+
+### 🎴 例 2616：现代孔版印刷 (Risograph) 海报风格
+
+![现代孔版印刷 (Risograph) 海报风格](../../images/%E7%8E%B0%E4%BB%A3%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%20(Risograph)%20%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以所附照片为参考，创作一张现代孔版印刷风格的扁平化海报。使用照片中的颜色作为纯色色块，并以 {argument name="background" default="暖色米纸色"} 为背景。加入简约的手绘黑色轮廓、稚拙的比例、极简的面部特征、精细的排线纹理、可见的斑点颗粒，以及略带瑕疵的印刷效果，以呈现真实的孔版印刷质感。保持图形简洁明快，具有趣味性的民间海报美学和沉稳的居中构图。参考日本复古插画书海报，为作品添加圆角米色边框。宽高比：{argument name="aspect ratio" default="4:5"}。
+
+[English]
+Create a flat poster in the style of a modern risograph using the attached photo as the reference. Use the colors from the photo as solid, flat color blocks on a {argument name="background" default="warm cream paper"} background. Include simple hand-drawn black outlines, naïve proportions, minimal facial features, fine hatching textures, visible speckled grain, and slightly imperfect printing for an authentic risograph feel. Keep the shapes clean and graphic, with a playful folk-poster aesthetic and a calm, centered composition. Frame the artwork with a rounded cream border inspired by vintage Japanese illustrated book posters. Aspect ratio: {argument name="aspect ratio" default="4:5"}.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2070715474716057859) | 2026-06-27
+
+---
+
+### 🎴 例 2619：“现实与虚构”角色互换海报
+
+![“现实与虚构”角色互换海报](../../images/%E2%80%9C%E7%8E%B0%E5%AE%9E%E4%B8%8E%E8%99%9A%E6%9E%84%E2%80%9D%E8%A7%92%E8%89%B2%E4%BA%92%E6%8D%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张采用“角色互换（现实置换）”概念的高端编辑风格海报，旨在刻意交换现实与虚构的身份。将一个 {argument name="original subject" default="真人主体"} 转化为令人信服的卡通/动漫风格角色，同时保留可辨识的面部比例，并辅以干净的赛璐珞阴影、富有表现力的眼睛、风格化的线条以及精致的动画美学。与之相对，虚构或动漫角色则以惊人的照片级真实感进行渲染，呈现出栩栩如生的皮肤纹理、可见的毛孔、细微的面部瑕疵、真实的骨骼结构、自然的毛发丝缕以及电影级的布光。这种写实化的演绎应带有一种微妙的“恐怖谷”感，看起来既引人入胜又真实可信，同时带有一丝足以激发好奇心而非恐惧的诡异感。
+
+构图应采用现代电影编辑美学，结合戏剧性的布光、大气深度、柔和的体积光效果以及平衡的色彩分级。利用受“角色互换”主题启发的装饰性视觉元素来丰富版面，例如抽象图形叠加、未来感几何装饰、分层纹理、漂浮粒子、动态框架元素以及时尚的视觉点缀，在不喧宾夺主的情况下提升叙事感。
+
+主体不得复制参考图中的姿势。相反，应展现出富有表现力、自信且自然动态的肢体语言，使其看起来自发且鲜活，而非僵硬或平淡。他们的姿态应反映出国际时尚模特常见的优雅与自信，营造出高级的编辑风格外观。
+
+为两位主体穿上 {argument name="fashion style" default="当代休闲时尚"} 服装，打造时尚且引领潮流的造型。结合具有不同颜色、纹理、图案和面料材质的现代服饰，以避免重复或视觉单调。造型应显得时尚、年轻，适合奢侈生活方式杂志，而非日常休闲装扮。
+
+设计 {argument name="typography" default="具有大胆艺术导向的排版"}，使用与海报视觉标识相得益彰的高级且引人注目的字体组合。应用创意层级、比例变化、间距和布局放置，使每个文本元素都能为整体构图增色，而非显得平庸或常规。
+
+整张海报应呈现出精致、高级且现代的视觉标识，避免看起来普通、平庸或模板化。每一个元素都应感觉经过精心设计，具有视觉吸引力，并适用于国际水准的创意活动。最终作品应以超高清 8K 分辨率渲染，具备卓越的清晰度、精致的纹理、电影级的对比度以及专业级的后期处理。
+
+[English]
+Generate a high-end editorial poster in a Role Reversal (Reality 
+Swap) concept, where the identities of reality and fiction are intentionally exchanged. A {argument name="original subject" default="real human subject"} is transformed into a convincing cartoon/anime-inspired character while preserving recognizable facial proportions, enhanced with clean cel-shading, expressive eyes, stylized linework, and polished animated aesthetics. In contrast, the fictional or anime character is rendered with astonishing photorealism, featuring lifelike skin texture, visible pores, subtle facial imperfections, realistic bone structure, natural hair strands, and cinematic lighting. The realistic interpretation should evoke a subtle uncanny feeling, appearing intriguingly believable yet slightly eerie enough to spark curiosity rather than fear.
+
+The composition should embrace a modern cinematic editorial aesthetic with dramatic lighting, atmospheric depth, soft volumetric effects, and balanced color grading. Enrich the layout with decorative visual elements inspired by the Role Reversal theme, such as abstract graphic overlays, futuristic geometric accents, layered textures, floating particles, dynamic framing elements, and stylish visual embellishments that elevate the storytelling without overwhelming the main subjects.
+
+The subjects must not replicate the pose from the reference image. Instead, present them with expressive, confident, and naturally dynamic body language that feels spontaneous and alive rather than stiff or flat. Their posture should reflect the elegance and confidence commonly seen in international fashion models, creating a premium editorial appearance.
+
+Dress both subjects in {argument name="fashion style" default="contemporary casual fashion"} with a stylish, trend-driven look. Combine modern garments featuring varied colors, textures, patterns, and fabric materials to avoid repetition or visual monotony. The styling should feel fashionable, youthful, and suitable for a luxury lifestyle magazine rather than everyday casual wear.
+
+Design the {argument name="typography" default="typography with bold artistic direction"} using premium, eye-catching font combinations that complement the poster's visual identity. Apply creative hierarchy, scale variation, spacing, and layout placement so every text element contributes to the overall composition instead of appearing generic or conventional.
+
+The overall poster should deliver a polished, premium, and contemporary visual identity that avoids looking ordinary, mediocre, or template-based. Every element should feel intentionally crafted, visually engaging, and suitable for an international-quality creative campaign. Render the final artwork in ultra-high-definition 8K with exceptional sharpness, refined textures, cinematic contrast, and professional-grade finishing.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2070710903549608359) | 2026-06-27
+
+---
+

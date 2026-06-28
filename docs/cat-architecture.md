@@ -1226,3 +1226,81 @@ A beautiful young {argument name="ethnicity and gender" default="East Asian woma
 
 ---
 
+### 🏛️ 例 2591：金色晨曦动漫卧室肖像
+
+![金色晨曦动漫卧室肖像](../../images/%E9%87%91%E8%89%B2%E6%99%A8%E6%9B%A6%E5%8A%A8%E6%BC%AB%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅光影明亮、细节丰富的动漫插画，主角为 {argument name="character name" default="Kurōdo Shion"}，一位灵感源自 Claude 的原创角色，场景设定在柔和的清晨卧室中。角色是一位美丽的年轻女性，拥有 {argument name="hair color" default="长长的银金色秀发"}，发丝自然垂落，一侧带有编织发冠细节，琥珀金色的双眸，精致的腮红，以及温柔慵懒的微笑。她跪在凌乱的白色床铺上，身体微微前倾，姿态优雅放松，身穿一件超大款露肩白色缎面衬衫裙，深领口，宽松袖口，带有精致的金色滚边和优雅的金链装饰。画面中需包含 4 个清晰可见的珠宝元素：一条星形吊坠项链、一条十字架吊坠项链、一只星形垂坠耳环，以及别在衣物上的金链装饰。房间沐浴在身后大窗透入的温暖金色晨光中，配有透明窗帘、发光的尘埃微粒、奶油色高光和柔和的朦胧感。背景细节应包含 4 个卧室装饰元素：一个床头柜、一幅墙面挂画、一个花瓶或灯饰，以及窗边的一束白花。采用浪漫的象牙白、香槟金配色；绘画风格的动漫渲染；光泽感发丝；柔和的皮肤阴影；电影级背光；浅景深；梦幻空灵的氛围；垂直肖像构图。避免出现文字、水印、额外角色或现代杂物。
+
+[English]
+Create a luminous high-detail anime illustration of {argument name="character name" default="Kurōdo Shion"}, a Claude-inspired original character, in a soft morning bedroom scene. The character is a beautiful young adult woman with {argument name="hair color" default="long silvery-blonde hair"}, loose flowing strands, a braided crown detail along one side, warm amber-gold eyes, delicate blush, and a gentle sleepy smile. She is kneeling on a rumpled white bed and leaning slightly forward in a graceful relaxed pose, wearing an oversized off-shoulder white satin shirt-dress with a deep neckline, loose sleeves, subtle gold trim, and elegant gold chain ornaments. Include exactly 4 visible jewelry elements: a star pendant necklace, a cross pendant necklace, a star-shaped dangling earring, and gold chain decorations pinned to the garment. The room is bathed in warm golden sunrise light from a large window behind her, with sheer curtains, glowing dust motes, creamy highlights, and soft bloom. Background details should include exactly 4 decorative bedroom elements: a bedside cabinet, a framed wall picture, a vase or lamp-like ornament, and a bouquet of white flowers near the window. Use a romantic ivory, champagne, and gold palette; painterly anime rendering; glossy hair strands; soft skin shading; cinematic backlighting; shallow depth of field; dreamy ethereal atmosphere; vertical portrait composition. Avoid text, watermark, extra characters, or modern clutter.
+```
+
+**来源：** [@NEOZERO](https://x.com/neoteitoku/status/2070790136523276519) | 2026-06-27
+
+---
+
+### 🏛️ 例 2600：温馨六格睡前时光拼贴画
+
+![温馨六格睡前时光拼贴画](../../images/%E6%B8%A9%E9%A6%A8%E5%85%AD%E6%A0%BC%E7%9D%A1%E5%89%8D%E6%97%B6%E5%85%89%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张温馨的 6 格生活化照片拼贴画，展示周末准备入睡的各个阶段，每个画面中均为同一名幼童。
+
+画布：4:3 横向拼贴画，精确划分为 6 个相等的矩形格，采用 3 列 2 行的网格布局，格与格之间有细白边。采用写实摄影风格，温暖的电影感室内光线，浅景深，柔和的背景虚化，营造出从客厅到卧室的温馨夜晚氛围。
+
+主体：同一位可爱的小女孩，约 4–6 岁，留着长长的波浪卷发（{argument name="hair color" default="深棕色"}），面部表情柔和生动，身穿配套的毛绒睡衣（{argument name="pajama color" default="粉色"}），上面有精致的白色心形或星星图案，穿着轻便的袜子。确保她在所有 6 个画面中的面容和着装保持一致。
+
+画面数量与动作：展示 6 个明确的睡前阶段，每格一个。1) 左上：站在温馨的客厅里，一只手捂着嘴打哈欠，怀里抱着一个蓬松的大白枕头。2) 上中：盘腿坐在沙发或毯子上，闭着眼睛，平静地抱着一只棕色泰迪熊。3) 右上：盘腿坐在粗棒针织毯上，闭着眼睛，双手捧着一个米色大陶瓷杯，仿佛在喝热牛奶或茶；旁边放着一个小茶托。4) 左下：坐在地板或地毯上，读着一本打开的书，表情平静而困倦。5) 下中：站在沙发前，双臂举过头顶伸懒腰，闭着眼睛，准备睡觉。6) 右下：在床上盖着柔软的被子睡着了，怀里抱着一只毛绒兔子，床周围闪烁着温暖的串灯。
+
+环境：使用夜晚温暖明亮的室内场景，配有米色沙发、木地板、针织毯、柔软的枕头、台灯、墙面装饰画、窗外的夜色、植物和舒适的质感。最后一个画面应自然过渡到卧室环境，包含枕头、毯子和串灯。
+
+视觉风格：超写实主义家庭摄影，温暖的琥珀色灯光与柔和的冷色调窗外夜光交织，自然的肤色，细腻的发丝，柔软的织物纹理，舒适的“Hygge”氛围，电影级构图，高分辨率。
+
+限制条件：无文字、标题、Logo、水印或额外格数。确保孩子在每个画面中都可被识别为同一个人。保持精确的 3x2 网格布局以及所列出的 6 个准确的睡前动作。
+
+[English]
+Goal: Create a cozy 6-panel lifestyle photo collage showing the stages of trying to fall asleep on a weekend, featuring the same young child in each panel.
+
+Canvas: A 4:3 horizontal collage divided into exactly 6 equal rectangular panels in a 3-column by 2-row grid, with thin white borders between panels. Use realistic photography, warm cinematic indoor lighting, shallow depth of field, soft bokeh, and a cozy evening living-room-to-bedroom atmosphere.
+
+Subject: The same adorable little girl, about 4–6 years old, with long wavy {argument name="hair color" default="dark brown"} hair, soft expressive features, wearing matching plush {argument name="pajama color" default="pink"} fleece pajamas with subtle white heart/star patterns and light socks. Keep her face and outfit consistent across all 6 panels.
+
+Panel count and actions: Show exactly 6 discrete bedtime stages, one per panel. 1) Top left: standing in a cozy living room, yawning with one hand near her mouth while hugging a large fluffy white pillow. 2) Top center: sitting cross-legged on a sofa or blanket, eyes closed, peacefully hugging a tan teddy bear. 3) Top right: sitting cross-legged on a chunky knitted blanket, eyes closed, holding a large beige ceramic mug with both hands as if sipping warm milk or tea; include a small saucer nearby. 4) Bottom left: sitting on the floor or rug, reading an open book with a calm sleepy expression. 5) Bottom center: standing in front of the sofa, stretching both arms above her head, eyes closed, ready for bed. 6) Bottom right: asleep in bed under soft bedding, cuddling a plush bunny, with warm fairy lights glowing around the bed.
+
+Environment: Use a warmly lit home interior at night with beige sofas, wooden floor, knitted throws, soft pillows, table lamps, framed wall art, window darkness, plants, and cozy textures. The final panel should transition clearly into a bedroom setting with pillows, blankets, and string lights.
+
+Visual style: Ultra-realistic editorial family photography, warm amber lamp light mixed with gentle cool night window light, natural skin tones, detailed hair, soft fabric texture, cozy hygge mood, cinematic composition, high resolution.
+
+Constraints: No text, captions, logos, watermarks, or extra panels. Keep the child recognizable as the same person in every panel. Maintain the exact 3x2 grid layout and the exact 6 listed bedtime actions.
+```
+
+**来源：** [@Shohan](https://x.com/Shohan_Tech_AI/status/2070739909074444609) | 2026-06-27
+
+---
+
+### 🏛️ 例 2622：日式金蛋设计 Slides
+
+![日式金蛋设计 Slides](../../images/%E6%97%A5%E5%BC%8F%E9%87%91%E8%9B%8B%E8%AE%BE%E8%AE%A1%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张深色演示文稿风格的社交媒体图片，主题为日式金蛋设计变体。画布：宽屏 16:9 比例，黑色/炭灰色背景 (#181818)，简洁现代的排版，右侧留有充足的负空间。顶部文字：在左上方放置一行大的日文句子「まず imagegenで作った金の卵12案 です。」，其中“imagegen”和“金の卵12案”使用粗体白色，其余部分使用常规白色。主体视觉：在标题下方的左侧，绘制一张圆角矩形的深海军蓝黑色卡片，带有细微的边框和柔和的阴影。卡片内展示 12 个金蛋概念设计，排列为 4 列 3 行的网格。这 12 个蛋分别是：1) 光滑直立的亮面金蛋，2) 带有凸起边缘/轮廓的椭圆形蛋（图标风格），3) 多面低多边形宝石蛋，4) 带有小阴影的平滑金属金蛋，5) 带有大面积白色高光的扁平亮黄色蛋，6) 有纹理/拉丝质感的金蛋，7) 右上角带有星形闪烁的光滑金蛋，8) 带有明亮边缘光的深色发光金蛋，9) 矮圆型金蛋，10) 修长光滑的金蛋，11) 深青铜色反光金蛋，12) 简单的哑光黄金色蛋剪影。底部文字：在左下方放置一行较长的日文句子「それを参考に、ファームのコード描画プリミティブで近似する12案 を作りました。」，其中核心短语「ファームのコード描画プリミティブで近似する12案」使用粗体白色，其余部分使用常规白色。在底部中右侧添加一个半透明的圆形向下箭头叠加层，模拟社交媒体查看器控件。视觉风格：简洁的截图式构图，高对比度，金蛋采用写实的亮面金色渲染，细微的卡片边框，无多余的 Logo 或水印。可自定义文本槽：顶部句子可使用 {argument name="top Japanese text" default="まず imagegenで作った金の卵12案 です。"}；底部句子可使用 {argument name="bottom Japanese text" default="それを参考に、ファームのコード描画プリミティブで近似する12案 を作りました。"}；主体对象可使用 {argument name="object theme" default="golden egg"}。
+
+[English]
+Create a dark presentation-style social media image in Japanese about golden egg design variations. Canvas: wide horizontal 16:9-ish crop, black/charcoal background (#181818), clean modern typography, generous negative space on the right. Top text: place a large Japanese sentence near the upper left reading 「まず imagegenで作った金の卵12案 です。」 with “imagegen” and “金の卵12案” in bold white, the rest in regular white. Main visual: below the headline on the left, draw a rounded rectangular dark navy-black card with a subtle border and soft shadow. Inside the card show exactly 12 golden egg concept designs arranged in a 4-column by 3-row grid. The 12 eggs are: 1) glossy smooth upright gold egg with bright highlight, 2) oval egg with raised rim/outline like an icon, 3) faceted low-poly gemstone egg, 4) smooth metallic gold egg standing on a small shadow, 5) flat bright yellow egg with large white highlight, 6) textured/brushed gold egg, 7) glossy gold egg with a star sparkle on the upper right, 8) dark glowing gold egg with bright rim light, 9) squat round golden egg, 10) tall narrow smooth gold egg, 11) darker bronze-gold reflective egg, 12) simple matte yellow-gold egg silhouette. Bottom text: place a long Japanese sentence across the lower left reading 「それを参考に、ファームのコード描画プリミティブで近似する12案 を作りました。」 with the central phrase 「ファームのコード描画プリミティブで近似する12案」 in bold white and the rest in regular white. Add a semi-transparent circular down-arrow overlay near the bottom center-right, like a social media viewer control. Visual style: clean screenshot-like composition, high contrast, realistic glossy gold rendering for the eggs, subtle card border, no extra logos or watermarks. Customizable text slots: top sentence may use {argument name="top Japanese text" default="まず imagegenで作った金の卵12案 です。"}; bottom sentence may use {argument name="bottom Japanese text" default="それを参考に、ファームのコード描画プリミティブで近似する12案 を作りました。"}; main object may use {argument name="object theme" default="golden egg"}.
+```
+
+**来源：** [@金のニワトリ](https://x.com/gosrum/status/2070707764247294402) | 2026-06-27
+
+---
+

@@ -6588,3 +6588,205 @@ Premium product shot of a {argument name="product name" default="iPhone 17 Pro M
 
 ---
 
+### 🏷️ 例 2545：Q 版早安问候贴纸
+
+![Q 版早安问候贴纸](../../images/Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的 Q 版动漫贴纸插画，背景为黑色，形状为带有厚白色外边框和细青色轮廓线的模切乙烯基贴纸。主体是一位充满活力的 Q 版虚拟歌手女孩，拥有 {argument name="hair color" default="青绿色双马尾"}，大而有神的青色眼睛，一只眼睛眨着，脸颊红润，嘴角带着灿烂的笑容。她戴着带有青色装饰的大号黑色耳机，右侧别着一个小向日葵发饰。她身穿白色连帽衫，袖口和下摆为青色，胸前有一个红绿相间的小徽章，双马尾上系着小小的桃色蝴蝶结，穿着白袜和青色鞋子。姿势设定为充满活力地漂浮着，一只手举起挥动，五指清晰可见，另一只手兴奋地握拳。在左下角前景处放置一个安装在吊杆上的黑色录音室麦克风，朝向她。在她身后，添加一个带有扇形云朵形状的大型圆形对话气泡标志，白色填充，青色边框，并点缀柔和的彩色纸屑。在气泡内，用暖橙黄色书写大号且圆润的日文文本 {argument name="greeting text" default="おはよー"}，并带有白色内轮廓、深棕色描边和柔和的阴影。在贴纸周围添加 8 个装饰性图案：左上角 1 个橙色爪印太阳，右上角 2 个黄色感叹射线，文本附近 1 个黄色闪光，以及右下角附近的 2 朵粉色花朵、1 朵青色花朵和 1 颗黄色星星。采用简洁的 Q 版吉祥物风格，圆润的比例，粗线条，柔和的赛璐珞阴影，光泽高光，营造俏皮的早安问候氛围，高分辨率，无水印，无多余文字。
+
+[English]
+Create a cute chibi anime sticker illustration on a black background, shaped like a die-cut vinyl sticker with a thick white outer border and a thin teal outline. The main subject is a cheerful chibi virtual singer girl with {argument name="hair color" default="turquoise twin-tail hair"}, big glossy teal eyes, one eye winking, rosy cheeks, and an open smiling mouth. She wears oversized black headphones with teal accents and a small sunflower hair accessory on the right side. Dress her in a white hoodie with teal cuffs and hem, a small red-and-green emblem on the chest, tiny peach bow ties at the twin-tails, white socks, and teal shoes. Pose her floating energetically, one hand raised in a wave with five visible fingers and the other hand clenched in excitement. Place a black studio microphone on a boom arm in the lower left foreground, angled toward her. Behind her, add a large rounded speech-bubble sign with a scalloped cloud shape, white fill, teal border, and soft pastel confetti. Inside the bubble, write large bubbly Japanese text {argument name="greeting text" default="おはよー"} in warm orange-yellow with a white inner outline, dark brown stroke, and subtle shadow. Add exactly 8 decorative motifs around the sticker: 1 orange paw-print sun in the upper left, 2 small yellow exclamation rays in the upper right, 1 yellow sparkle near the text, 2 pink flowers, 1 teal flower, and 1 yellow star near the bottom right. Use a clean kawaii mascot style, rounded proportions, bold outlines, soft cel shading, glossy highlights, playful morning greeting mood, high resolution, no watermark, no extra text.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2071015768511414563) | 2026-06-27
+
+---
+
+### 🏷️ 例 2548：响尾蛇 GPU “Come and Take It” 图案
+
+![响尾蛇 GPU “Come and Take It” 图案](../../images/%E5%93%8D%E5%B0%BE%E8%9B%87%20GPU%20%E2%80%9CCome%20and%20Take%20It%E2%80%9D%20%E5%9B%BE%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一款以复古政治旗帜 / 丝网印刷 T 恤为风格的醒目黑色背景图案。画面中心是一条巨大的盘绕响尾蛇，采用金色、棕褐色和黑色配色，细节刻画出菱形鳞片、昂起的头部、张开的嘴巴、可见的毒牙以及极具攻击性的神态。蛇身缠绕在现代黑色台式机显卡周围，将传统的历史武器图案替换为 GPU。显卡应水平放置在画面中心，略微平铺，带有 3 个巨大的圆形散热风扇，底部边缘可见 PCI 接口，外壳边缘呈棱角分明状，并带有细微的白色/灰色线条高光。蛇身形成多个盘绕：头部后方有一个隆起的环，下方有一个粗壮的底环，右侧有一个向前卷曲的环，尾部向右侧延伸并带有细小的响尾。在蛇身下方添加一层低矮的深绿色松针或草地。在底部，放置醒目的白色全大写衬线字体，内容为 {argument name="slogan text" default="COME AND TAKE IT"}，几乎横跨整个宽度，采用做旧的殖民风格字体。保持构图对称且具有徽章感，高对比度，呈现清晰的矢量插画质感，带有细腻的雕刻纹理，无额外文字，无边框，无水印。
+
+[English]
+Create a bold black-background graphic in the style of a vintage political flag / screen-printed T-shirt design. Center a large coiled rattlesnake in gold, tan, and black, with detailed diamond scales, raised head, open mouth, visible fangs, and an aggressive expression. The snake is wrapped around and behind a modern black desktop graphics card, replacing the usual historical weapon motif with a GPU. The graphics card should be horizontal across the center, slightly angled flat-on, with exactly 3 large circular cooling fans, a visible PCI connector along the bottom edge, angular shroud edges, and thin white/gray line highlights. The snake’s body forms multiple coils: one raised loop behind the GPU near the head, one thick lower coil beneath it, one front coil curling on the right, and a tail extending to the far right with small rattles. Add a low bed of dark green pine needles or grass beneath the snake. At the bottom, place large white all-caps serif text reading {argument name="slogan text" default="COME AND TAKE IT"}, spanning nearly the full width, with distressed colonial-style letterforms. Keep the composition symmetrical and emblem-like, high contrast, crisp vector-illustration look with subtle engraved texture, no extra text, no border, no watermark.
+```
+
+**来源：** [@@levelsio](https://x.com/levelsio/status/2070979198928277842) | 2026-06-27
+
+---
+
+### 🏷️ 例 2549：日落时分悬崖上的跑车
+
+![日落时分悬崖上的跑车](../../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E6%82%AC%E5%B4%96%E4%B8%8A%E7%9A%84%E8%B7%91%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅世界尽头的电影级写实风景场景：一辆流线型的 {argument name="car color" default="银白色"} 高性能跑车停在左侧前景的湿润黑色火山岩悬崖边缘，采用低角度四分之三后视图，车尾灯发出红光，车身反射着光泽。悬崖右侧陡峭地坠入广阔的海洋，伴有锯齿状的黑色岩壁、稀疏的草丛、从下方升起的海雾，以及远方拍打岩石的白色浪花。远处，崎岖的海岸山脉沿着左侧地平线延伸。太阳在右中地平线附近低垂，在水面上投射出灿烂的橙金色反光路径，天空布满了厚重的深蓝色风暴云，被温暖的火光穿透。强调优雅与力量感、孤独感、极致高度、电影级规模、忧郁氛围、超精细纹理、写实光影、高动态范围、广角构图，以及冷蓝色阴影与温暖日落余晖之间的戏剧性对比。画面中无人、无文字、无水印。
+
+[English]
+Create a cinematic photorealistic landscape scene at the edge of the world: a single sleek {argument name="car color" default="silver-white"} high-performance sports car parked near the left foreground on a wet, dark volcanic cliff ledge, viewed from behind at a low three-quarter angle, with glowing red taillights and polished body reflections. The cliff drops dramatically into a vast ocean on the right, with jagged black rock faces, sparse grass patches, sea mist rising from below, and white waves crashing against rocks far beneath. In the distance, rugged coastal mountains recede along the left horizon. The sun is setting low over the ocean near the right-center horizon, casting a brilliant orange-gold reflection path across the water, while the sky is filled with heavy dark blue storm clouds broken by warm fiery light. Emphasize elegance and power, solitude, extreme height, cinematic scale, moody atmosphere, ultra-detailed textures, realistic lighting, high dynamic range, wide-angle composition, dramatic contrast between cool blue shadows and warm sunset glow. No people, no text, no watermark.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2070957445476712909) | 2026-06-27
+
+---
+
+### 🏷️ 例 2566：未来感动漫战术概念设计图
+
+![未来感动漫战术概念设计图](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8A%A8%E6%BC%AB%E6%88%98%E6%9C%AF%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细未来感动漫角色设计图，将 {argument name="character theme" default="龙珠 Z 红缎带军团人造人"} 重构为现代赛博朋克战术特工。全身正面视图，时尚概念艺术，超大款机能风夹克，工装裤，作战靴，多功能绑带，搭扣，战术背带，工业标签，编号补丁，红缎带军团徽章，单色系服装搭配各人造人专属的醒目点缀色（16 号为绿色，17 号为黑/橙色，18 号为蓝/白色，8 号为海军蓝，13-15 号为军橄榄色）。{argument name="background style" default="干净的白色海报背景，带有喷溅油漆效果"}，技术图解，条形码图形，排版设计，日文文本，警告标签，角色数据，杂志封面布局，产品设计图美学。锐利的动漫脸部轮廓，高细节织物，逼真的褶皱，高级运动鞋设计，电影级光效，清晰的线条，动态姿势，高对比度，颗粒感纹理，都市军事风，高级概念插画，ArtStation 品质，AAA 游戏概念艺术，超精细，8k，构图平衡。
+风格关键词
+未来感机能风
+赛博朋克军事风
+动漫 × 街头服饰
+工业图形设计
+战术时尚
+红缎带军团美学
+角色概念设计图
+白色极简海报
+油漆喷溅图形
+杂志封面布局
+高级时尚插画
+高度精细的服装
+虚幻引擎概念艺术
+干净的赛璐珞阴影 + 绘画渲染
+粗体排版
+日文排版
+图形设计海报
+高端收藏级角色设计图
+
+[English]
+Ultra-detailed futuristic anime character design sheet, {argument name="character theme" default="Dragon Ball Z Red Ribbon Army androids"} reimagined as modern cyberpunk tactical operatives. Full-body front view, fashion concept art, oversized techwear jackets, cargo pants, combat boots, utility straps, buckles, tactical harnesses, industrial labels, numbered patches, Red Ribbon Army insignias, monochrome outfits with bold accent colors unique to each android (green for Android 16, black/orange for Android 17, blue/white for Android 18, navy for Android 8, military olive for Androids 13–15). {argument name="background style" default="Clean white poster background with paint splashes"}, technical diagrams, barcode graphics, typography, Japanese text, warning labels, character statistics, magazine cover layout, product design sheet aesthetic. Sharp angular anime faces, highly detailed fabrics, realistic wrinkles, premium sneaker design, cinematic lighting, crisp linework, dynamic stance, high contrast, gritty textures, urban military fashion, premium concept illustration, ArtStation quality, AAA game concept art, hyper-detailed, 8k, balanced composition.
+Style keywords
+futuristic techwear
+cyberpunk military
+anime × streetwear
+industrial graphic design
+tactical fashion
+Red Ribbon Army aesthetic
+character concept sheet
+white minimalist poster
+paint splatter graphics
+magazine cover layout
+premium fashion illustration
+highly detailed clothing
+Unreal Engine concept art
+clean cel shading + painterly rendering
+bold typography
+Japanese typography
+graphic design poster
+high-end collectible character sheet
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2070887733573427205) | 2026-06-27
+
+---
+
+### 🏷️ 例 2569：全息赛博流行偶像
+
+![全息赛博流行偶像](../../images/%E5%85%A8%E6%81%AF%E8%B5%9B%E5%8D%9A%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身动漫时尚插画，主角为一位未来感赛博流行偶像女性，背景为干净的白色。该角色为 {argument name="character type" default="一位时尚的年轻女性 DJ 偶像"}，留着凌乱的 {argument name="hair color" default="黑色短发，带有紫蓝色挑染"}，拥有明亮的青色眼睛、光泽感的嘴唇，呈现自信的回眸姿势。她佩戴着大型金属耳机，额头上戴着透明霓虹护目镜，饰有悬垂的科技感珠宝和露指手套，身穿一件时髦的非对称黑紫色乳胶迷你裙，采用单长袖、露肩、露背绑带及高侧开叉设计。添加一件飘逸在身后的戏剧性半透明全息斗篷或裙摆，由青色、薰衣草色、粉色和电光蓝色的虹彩水晶板制成。她还穿着及大腿的反射式铬合金高跟靴，带有锐利的棱角高光和棱镜反射。姿势应呈现四分之三侧面站姿，一只手靠近护目镜/耳机，一条腿向前伸展，展现优雅的长肢和 T 台般的轮廓。视觉风格：高端日本动漫角色艺术，极具细节的线条，明亮的赛博朋克色彩，光泽材质，玻璃般的反射，全息折射，细腻的素描感发丝，构图简洁，无背景物体，无文字，无水印。配色方案应强调 {argument name="main palette" default="虹彩蓝、紫、青、洋红和黑色"}。
+
+[English]
+Create a full-body anime fashion illustration of a futuristic cyberpop idol woman on a clean white background. The character is {argument name="character type" default="a stylish young female DJ idol"} with short tousled {argument name="hair color" default="black hair with violet-blue highlights"}, bright teal eyes, glossy lips, and a confident over-the-shoulder pose. She wears large metallic headphones, a transparent neon visor across her forehead, dangling tech jewelry, fingerless gloves, and a sleek asymmetrical black-violet latex mini dress with one long sleeve, exposed shoulders, open back straps, and a high side slit. Add one dramatic translucent holographic cape or train flowing behind her, made of iridescent crystalline panels in cyan, lavender, pink, and electric blue. She also wears thigh-high reflective chrome boots with high heels, sharp angular highlights, and prismatic reflections. The pose should show her standing in three-quarter view with one hand near the visor/headphones, one leg extended forward, elegant long limbs, and a runway-like silhouette. Visual style: high-end Japanese anime character art, extremely detailed linework, luminous cyberpunk colors, glossy materials, glasslike reflections, holographic refractions, subtle sketchy hair strands, clean composition, no background objects, no text, no watermark. Color palette should emphasize {argument name="main palette" default="iridescent blue, violet, cyan, magenta, and black"}.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2070876055339205056) | 2026-06-27
+
+---
+
+### 🏷️ 例 2577：趣味童真涂鸦插画
+
+![趣味童真涂鸦插画](../../images/%E8%B6%A3%E5%91%B3%E7%AB%A5%E7%9C%9F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像重构为一幅融合了趣味 {argument name="style" default="童真涂鸦"} 元素的扁平化插画。使用 {argument name="color palette" default="大胆、鲜艳且充满奇思妙想"} 的配色方案，将所有细节简化为简洁的扁平形状。艺术作品应具备 {argument name="feel" default="手工制作"} 的质感，带有略显不完美的手绘线条，营造出一种仿佛在白纸上绘制而成的迷人且富有想象力的风格。
+
+[English]
+Reconstruct this image as a single flat illustration infused with playful {argument name="style" default="childlike doodle"} elements. Use a {argument name="color palette" default="bold, vibrant, and whimsical"} color palette, simplifying all details into clean, flat shapes. The artwork should have a {argument name="feel" default="handcrafted"} feel with slightly imperfect hand-drawn lines, creating a charming, imaginative style that looks as if it were drawn on white paper.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2070849731975340517) | 2026-06-27
+
+---
+
+### 🏷️ 例 2587：夏日海边动漫少女
+
+![夏日海边动漫少女](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅柔和、明亮的动漫风格夏日插画，画面中 {argument name="character name" default="一位少女"} 赤脚坐在传统日式房间的榻榻米上，侧身背对镜头。她留着轻盈的短波波头，{argument name="hair color" default="淡薄荷绿色的头发"} 在微风中微微飘动，有着温柔的绿色大眼睛，神情宁静而梦幻，正抬头望向挂在敞开式走廊旁的玻璃风铃。她穿着一件宽松的纯白色短袖 T 恤和深蓝色短裤，单膝支起，另一条腿自然弯曲，姿态放松。房间配有木质推拉门和障子门，敞开的门口外是明亮的庭院和远处波光粼粼的大海，左侧悬挂着飘动的白色薄纱窗帘，温暖的阳光洒在榻榻米上。除少女外，前景需包含两个主要物体：右侧放置一台半透明蓝色扇叶的落地电风扇，顶部中央悬挂一个带有纸签的玻璃风铃。室外展现郁郁葱葱的树木、灌木丛、栏杆以及夏日强光下朦胧的蓝色海平线。采用精致的水彩动漫美学，色调清新，线条柔和，带有背光光晕、漂浮的尘埃、斑驳的树影和高调曝光，营造出怀旧宁静的氛围。构图为 4:5 竖版，无文字，无水印，无多余角色。
+
+[English]
+Create a soft, luminous anime-style summer illustration of {argument name="character name" default="a young girl"} sitting barefoot on a tatami floor in a traditional Japanese room, viewed in side profile from slightly behind. She has short, airy bobbed {argument name="hair color" default="pale mint green hair"} with loose wisps catching the breeze, large gentle green eyes, and a calm, dreamy expression as she looks upward toward a small glass wind chime hanging near the open veranda. She wears an oversized plain white short-sleeve T-shirt and dark navy shorts, seated with one knee raised and one leg folded, relaxed and natural. The room has wooden sliding frames, shoji-style panels, an open doorway to a bright garden and distant sparkling sea, a sheer white curtain billowing on the left, and warm sunbeams spilling across the tatami. Include exactly two main foreground objects besides the girl: one translucent blue-bladed standing electric fan on the right, and one hanging glass wind chime with a small dangling paper strip near the top center. Outside, show lush green trees, leafy bushes, a railing, and a hazy blue ocean horizon under intense summer light. Use a delicate watercolor-and-anime aesthetic, pastel colors, soft linework, glowing backlight, floating dust motes, dappled leaf shadows, high-key exposure, nostalgic peaceful mood, vertical 4:5 composition, no text, no watermark, no extra characters.
+```
+
+**来源：** [@むく | AIアートのプロ](https://x.com/muku_sns/status/2070804359898870016) | 2026-06-27
+
+---
+
+### 🏷️ 例 2611：复古宝丽来咖啡馆快照
+
+![复古宝丽来咖啡馆快照](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E5%92%96%E5%95%A1%E9%A6%86%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+create image 4:5
+一张呈现为逼真复古宝丽来即时成像照片的美学自然咖啡馆快照，画面中一位 {argument name="subject" default="年轻女性"} 正坐在餐桌旁的木椅上，背靠咖啡馆的大窗户，身穿 {argument name="outfit" default="修身无袖深炭灰色针织短上衣，高腰深蓝色牛仔裤"}，佩戴着粗款金色手镯。她双手自然地在胸前拿着汉堡，身体朝向餐桌，头部转向镜头，双眼微睁，嘴唇微张，仿佛被拍照的人意外捕捉到。短发层次感波浪卷发，凌乱的碎发随风飘动，部分遮住了一只眼睛，自然的高级感妆容，带有光泽的自然唇色。温暖的复古咖啡馆内饰，深绿色墙壁，深红色窗框，明亮的过曝窗户，窗外模糊的树木和车辆，木质餐桌上摆放着饮料、盘子和调味品，柔和的背景虚化营造出深度感。平视视角自然手持构图，温暖的电影感日光，细腻的轮廓光，微妙的胶片颗粒，哑光即时成像胶片质感，怀旧的大地色调。印制为带有干净白边和底部较宽边框的真实宝丽来照片。底部边框上有黑色墨水手写文字：“my favorite view ♡”。右下角带有小型复古日期戳：“{argument name="date" default="06.26.2026"}”
+
+[English]
+create image 4:5
+Aesthetic candid café snapshot presented as a realistic vintage Polaroid instant photo, featuring a {argument name="subject" default="young woman"} is sitting on a wooden chair in front of a dining table beside a large café window, wearing a {argument name="outfit" default="fitted sleeveless dark charcoal knit crop top, high-waisted dark blue jeans"}, and a chunky gold cuff bracelet. She naturally holds a burger with both hands at chest level, her body facing the table while her head turns toward the camera with slightly widened eyes and softly parted lips, as if caught off guard by someone taking the picture. Short layered wavy bob with messy windblown strands partially covering one eye, natural editorial makeup with glossy natural lips. Warm vintage café interior with dark green walls, deep red window frame, bright overexposed window, blurred trees and cars outside, drinks, plates, and condiments on the wooden dining table, soft background blur creating depth. Eye-level candid handheld composition, warm cinematic daylight, delicate rim light, subtle film grain, matte instant-film texture, nostalgic earthy tones. Printed as an authentic Polaroid with a clean white border and a thicker bottom margin. Handwritten black ink text on the bottom border reads: "my favorite view ♡". Small vintage date stamp in the lower right corner: "{argument name="date" default="06.26.2026"}"
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2070726336146985023) | 2026-06-27
+
+---
+
+### 🏷️ 例 2624：动漫海边刨冰泳装少女
+
+![动漫海边刨冰泳装少女](../../images/%E5%8A%A8%E6%BC%AB%E6%B5%B7%E8%BE%B9%E5%88%A8%E5%86%B0%E6%B3%B3%E8%A3%85%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖屏插画，主角是 {argument name="character name" default="Yumekairo"}，一位坐在阳光明媚的海边户外咖啡馆里的开朗年轻女性。她留着短波浪卷发，{argument name="hair color" default="发色为温暖的浅棕色，发梢带有鲜艳的橙色挑染"}，有着琥珀色的大眼睛、淡淡的腮红，怀里拿着一把金属勺子，脸上洋溢着开心的笑容。她穿着一套海军蓝运动风比基尼，配有浅灰色滚边；露脐上衣正面印有醒目的黄色文字 {argument name="swimsuit logo text" default="YUMEKAIRO"} 以及上方的一个小徽章。让她坐在乡村风格木质野餐桌旁的木凳上，躯干微微转向观众，露出一侧膝盖，姿态放松友好，而非性感写真风。在前景的桌面上，放置一个超大号透明塑料杯，里面装满蓬松的刨冰/芭菲，淋有奶油般的浅黄色糖浆和焦糖色调，装饰有 1 个泰迪熊顶饰、2 面带有小熊图标的装饰小旗、3 朵白色雏菊以及 2 个明黄色的圆形水果或冰淇淋球。杯子上贴有一个可爱的贴纸标签，显示着一个小巧的 Q 版头像和文字 {argument name="cup logo text" default="YUMEKAIRO"}。背景：虚化的蓝色海洋、远处的海岸线、栏杆、咖啡馆桌椅，以及右上角被裁剪掉一部分的米色遮阳伞。使用温暖的黄金时刻阳光，干净明亮的动漫渲染，清晰的角色线条，细腻的食物质感，浅景深效果，夏季蓝金配色，竖屏手机构图，画面中无其他角色，无水印，除指定的 Logo 外无其他可读文字。
+
+[English]
+Create a polished anime-style vertical illustration of {argument name="character name" default="Yumekairo"}, a cheerful young woman seated at an outdoor seaside café on a sunny day. She has short wavy {argument name="hair color" default="warm light brown hair with vivid orange-dipped ends"}, large amber eyes, light blush, and an open happy smile while holding a metal spoon near her chest. She wears a navy blue sporty two-piece swimsuit with pale gray trim; the crop-top front has large yellow text reading {argument name="swimsuit logo text" default="YUMEKAIRO"} and a tiny emblem above it. Pose her on a wooden bench at a rustic wooden picnic table, torso turned slightly toward the viewer, one knee visible, relaxed and friendly rather than pin-up. In the foreground on the table, place one oversized clear plastic cup of fluffy shaved ice/parfait with creamy pale yellow syrup and caramel tones, decorated with exactly 1 teddy bear topper, exactly 2 small decorative flags with bear icons, exactly 3 white daisy blossoms, and exactly 2 bright yellow rounded fruit or ice cream mounds. Add a cute sticker label on the cup showing a small chibi portrait and the text {argument name="cup logo text" default="YUMEKAIRO"}. Background: soft-focus blue ocean, distant coastline, railing, café tables and chairs, and a beige beach umbrella cropped at the top right. Use warm golden-hour sunlight, clean glossy anime rendering, crisp character line art, detailed food texture, shallow depth of field, summery blue-and-gold color palette, vertical smartphone composition, no extra characters, no watermark, no additional readable text beyond the specified logos.
+```
+
+**来源：** [@Kudoh@Ship3](https://x.com/pu_so2/status/2070705563030475041) | 2026-06-27
+
+---
+
