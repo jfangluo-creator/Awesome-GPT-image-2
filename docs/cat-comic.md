@@ -3956,3 +3956,163 @@ Vintage satirical magazine caricature portrait of {argument name="character" def
 
 ---
 
+### 🎬 例 2634：Milly 陶瓷之旅漫画页面
+
+![Milly 陶瓷之旅漫画页面](../../images/Milly%20%E9%99%B6%E7%93%B7%E4%B9%8B%E6%97%85%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页温馨的漫画风格竖版漫画，讲述 {argument name="character name" default="Milly"} 的故事。她是一位金发动漫少女，在陶艺工作室制作她的第一个陶瓷杯，身边陪伴着一个小巧的立方体 AI 机器人。氛围温和、充满鼓励、具有手工感且略带怀旧气息。
+
+画布：高竖版漫画页面，比例约为 9:16，奶油色纸张背景，细黑色分镜边框，柔和的水彩动漫渲染与写实的陶艺工作室细节相结合。顶部使用手写标题：“Milly Ceramic Journey EP01 窯梨學徒”，副标题为“每一位藝術家，都有自己的第一件作品。”并配有一个小巧的爪印装饰。
+
+主体：女孩留着波浪长发，发色为 {argument name="hair color" default="金黄色"}，拥有明亮的蓝色眼睛、白皙的皮肤，身穿黑色衬衫，系着沾有棕色陶泥的围裙，戴着一条小项链。机器人是一个黑白相间的立方体 AI 伙伴，有着简单的像素脸，在多个分镜中坐在工作台或拉坯机旁。工作室里摆放着碗架、陶艺工具、拉坯机、木桌、窗光、窑炉以及成排的陶瓷作品。
+
+布局：在标题下方使用精确的 18 个漫画分镜。第 1 分镜是左上角的一个大开场分镜，展示女孩在陶艺工作室门口欢迎观众，桌上放着机器人和一块黑板招牌。第 2 和第 3 分镜堆叠在右上角：在桌上准备陶泥，随后是双手握住粗糙陶泥的特写。第 4、5 和 6 分镜组成一行，展示在拉坯机上的第一次尝试、陶泥坍塌，以及女孩在失败的团块状陶罐旁感到沮丧。第 7、8 和 9 分镜组成另一行，展示她重新开始、缓慢塑形，并自豪地捧着一个带有闪光效果的成品带盖杯子。第 10 到 14 分镜组成一行，包含五个小过程分镜：在架子上晾干、在窑中素烧、用刷子施釉、在发光的窑中釉烧，以及打开摆满成品陶瓷的架子。第 15 分镜是一个宽幅的情感分镜，展示女孩闭着眼睛，双手捧着成品杯子，机器人守在身旁，背景是模糊的工作室。第 16 到 18 分镜是底部一行：一段纯文字的结语，一个类似产品展示的带柄带盖杯子特写，以及杯底带有小爪印印章的特写。
+
+可见文本内容：包含繁体中文/日文风格的对话气泡和旁白。尽可能使用以下准确的文字：“這裡就是陶藝工作室呀…”, “第一次揉泥土…好柔軟，好神奇。”, “第一次煉土！”, “第一次拉坯！”, “呃…失敗了…”, “沒關係，重新開始！”, “慢慢理解泥土…”, “完成！我的第一個茶碗！”, “等待乾燥…”, “素燒完成！”, “上釉…”, “釉燒中…”, “開窯！”，以及在最后的文字分镜中：“每一位藝術家，都曾經完成過自己的第一件作品。”
+
+视觉风格：柔和细腻的动漫插画，舒适的纪录片式漫画节奏，微妙的纸张纹理，精致的墨线，柔和的暖棕色和奶油色调，手部和围裙上真实的陶泥质感，自然的窗光，大分镜中浅景深效果，表情生动但温和。成品陶瓷杯应为奶油色，略带瑕疵，具有手工感，配有小盖子和圆润的把手。
+
+约束：保持 18 个分镜加上标题栏。让机器人出现在多个分镜中，但不必出现在每一个分镜里。不要添加额外角色。避免照片写实主义；保持动漫漫画的美学风格。所有可见的排版文字均应手绘并融入分镜中。
+
+[English]
+Goal: Create a warm manga-style vertical comic page about {argument name="character name" default="Milly"}, a blonde anime girl making her first ceramic cup in a pottery studio, accompanied by a small cube-shaped AI robot. The mood is gentle, encouraging, handmade, and slightly nostalgic.
+
+Canvas: Tall vertical comic page, approximately 9:16, cream paper background, thin black panel borders, soft watercolor-anime rendering mixed with realistic pottery-studio details. Use a handwritten title at the top: “Milly Ceramic Journey EP01 窯梨學徒”, with the subtitle “每一位藝術家，都有自己的第一件作品。” and a tiny paw-print accent.
+
+Main subjects: The girl has long wavy {argument name="hair color" default="golden blonde"} hair, bright blue eyes, fair skin, a black blouse, a brown clay-stained apron, and a small necklace. The robot is a small black-and-white cube AI companion with a simple pixel face, sitting near the worktable or pottery wheel in multiple panels. The studio contains shelves of bowls, clay tools, pottery wheels, wood tables, window light, a kiln, and rows of ceramic pieces.
+
+Layout: Use exactly 18 comic panels after the header. Panel 1 is a large opening panel on the upper left showing the girl welcoming the viewer at the pottery studio entrance with the robot on the table and a chalkboard sign. Panels 2 and 3 are stacked on the upper right: preparing clay at the table, then a close-up of hands holding rough clay. Panels 4, 5, and 6 form a row showing the first attempt on the pottery wheel, the clay collapsing, and the girl discouraged beside a lumpy failed pot. Panels 7, 8, and 9 form another row showing her restarting, slowly shaping clay, and proudly holding a finished lidded cup with sparkles. Panels 10 through 14 form a row of five small process panels: drying on shelves, bisque firing in a kiln, glazing with a brush, final firing in a glowing kiln, and opening shelves full of finished ceramics. Panel 15 is a wide emotional panel showing the girl with eyes closed, holding the finished cup with both hands, robot beside her, studio blurred behind. Panels 16 through 18 are the bottom row: a text-only closing message, a product-like close-up of the finished lidded cup with handle, and a close-up of the cup bottom with a small paw-print stamp.
+
+Visible text content: Include speech bubbles and captions in Traditional Chinese/Japanese style. Use these exact readable lines where possible: “這裡就是陶藝工作室呀…”, “第一次揉泥土…好柔軟，好神奇。”, “第一次煉土！”, “第一次拉坯！”, “呃…失敗了…”, “沒關係，重新開始！”, “慢慢理解泥土…”, “完成！我的第一個茶碗！”, “等待乾燥…”, “素燒完成！”, “上釉…”, “釉燒中…”, “開窯！”, and in the final text panel: “每一位藝術家，都曾經完成過自己的第一件作品。”
+
+Visual style: Soft detailed anime illustration, cozy documentary comic pacing, subtle paper texture, delicate ink lines, muted warm browns and creams, realistic clay texture on hands and apron, natural window lighting, shallow depth of field in larger panels, expressive but gentle faces. The finished ceramic cup should be cream-colored, slightly imperfect, handmade, with a small lid and rounded handle.
+
+Constraints: Keep exactly 18 panels plus the title header. Keep the robot present in many panels but not every panel. Do not add extra characters. Avoid photorealism; maintain anime-manga comic aesthetics. Make all visible typography hand-drawn and integrated into the panels.
+```
+
+**来源：** [@vincentliao 大喵](https://x.com/vincentliao/status/2071325043154698449) | 2026-06-28
+
+---
+
+### 🎬 例 2699：奇幻绘本风旅行拼贴画
+
+![奇幻绘本风旅行拼贴画](../../images/%E5%A5%87%E5%B9%BB%E7%BB%98%E6%9C%AC%E9%A3%8E%E6%97%85%E8%A1%8C%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满奇幻色彩的手绘绘本风格插画，灵感源自三张垂直排列的旅行抓拍照片。请保留参考图中的构图、姿势和取景：一位年轻女性，留着 {argument name="hair style" default="深棕色长直发"}，身穿 {argument name="outfit" default="米白色廓形衬衫"}，佩戴黑色智能手表和圆形墨镜，站在郁郁葱葱的茶园中。第一幅画面中，她微微向左侧身，双手轻抚茶叶；第二幅画面捕捉了她背对镜头、双臂向外伸展，在茶丛中悠然漫步的姿态；第三幅画面中，她微微向右侧身，面带温柔微笑，指尖轻触叶片。
+
+将写实的茶园转化为梦幻且色彩丰富的插画景观，包含连绵起伏的丘陵、造型俏皮的树木、盛开的野花和生机勃勃的植被。使用 {argument name="color palette" default="柔和的粉彩色调、浓郁的绿色、温暖的黄色、腮红粉色以及青色点缀"}。在构图周围添加奇幻的涂鸦元素，如爱心、星星、云朵、阳光、闪光、小花，以及在暖色调奶油纸背景上绘制的手绘装饰线条。保持垂直三联画布局，留出充裕的间距，采用圆润的有机形状、富有质感的笔触，营造温馨的儿童绘本美学。插画应传达出快乐、宁静与魔法感，线条清晰，带有细腻的纸张纹理、高细节度以及迷人的水粉/水彩质感。无文字，无水印，高分辨率，竖屏构图。
+
+[English]
+Create a whimsical, hand-painted storybook-style illustration inspired by three candid travel photos arranged vertically in a collage. Preserve the exact composition, poses, and framing from the reference: a young woman with {argument name="hair style" default="long straight dark brown hair"} wearing an {argument name="outfit" default="oversized off-white button-up shirt"}, black smartwatch, and round sunglasses, standing waist-deep in lush green tea plantations. The first panel shows her facing slightly left while gently brushing the tea leaves with both hands. The second panel captures her from behind with both arms stretched outward, walking peacefully through the tea bushes. The third panel shows her turned slightly to the right, smiling softly while touching the leaves.
+
+Transform the realistic tea estate into a dreamy, colorful illustrated landscape with rolling hills, playful stylized trees, blooming wildflowers, and vibrant foliage. Use {argument name="color palette" default="soft pastel tones, rich greens, warm yellows, blush pinks, and teal accents"}. Add whimsical doodle elements around the composition such as hearts, stars, clouds, sunshine, sparkles, tiny flowers, and hand-drawn decorative marks on a warm cream paper background. Maintain the same vertical three-panel layout with generous spacing, rounded organic shapes, textured brush strokes, and a cozy children’s book aesthetic. The illustration should feel joyful, peaceful, and magical, with clean outlines, subtle paper texture, high detail, and a charming gouache/watercolor-inspired finish. No text, no watermark, high-resolution, portrait orientation.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2071076528532971692) | 2026-06-28
+
+---
+
+### 🎬 例 2710：跳舞吉娃娃 20 帧分镜表
+
+![跳舞吉娃娃 20 帧分镜表](../../images/%E8%B7%B3%E8%88%9E%E5%90%89%E5%A8%83%E5%A8%83%2020%20%E5%B8%A7%E5%88%86%E9%95%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个包含 20 个画面的分镜联系表，展示一只黑色和棕褐色相间的小吉娃娃在豪华大理石浴室里直立跳舞，如同短视频的连续动画帧。
+
+画布：正方形图像，排列为 5 列 4 行的整洁网格，画面之间留有细小的白色间隙。每个画面均为竖构图。在每个画面的左上角添加一个带有白色两位数帧编号的小黑框。
+
+主体：一只 {argument name="dog breed" default="黑色和棕褐色相间的吉娃娃"}，有着超大的尖耳朵、光亮的深色眼睛、棕褐色眉毛、棕褐色口鼻部、棕褐色爪子和闪亮的黑色皮毛。狗狗在每一帧中都用后腿站立，大部分时间面向镜头，表情可爱且自信。比例应显得真实但略带奇幻感，就像一只被捕捉到跳舞瞬间的真实狗狗。
+
+场景：所有画面中均为相同的高档浴室背景：浅灰色大理石墙壁和地板，背景中央为洗漱台区域，上方有长方形镜子，温暖的嵌入式天花板灯光，两侧叠放着米色毛巾，右侧台面上放着两个琥珀棕色的按压瓶。使用柔和的室内光线、浅景深和写实纹理。
+
+画面数量与姿势：使用 01 到 20 编号的 20 个画面。狗狗在每个画面中应做出不同的跳舞姿势：01 侧身直立，爪子收起；02 向左迈步，一只前爪伸出；03 居中，双腿交叉，一只爪子向前；04 跳跃中，一只爪子抬起；05 侧面停顿；06 向前弹跳，双爪卷曲；07 双臂张开，俏皮的笑容；08 一只爪子靠近耳朵，另一只收起；09 戏剧性的交叉双臂倚靠；10 一只爪子抬起，如同挥手；11 低姿态居中，爪子靠近腹部；12 欢快的小跳，双爪抬起；13 双爪向外弯曲，如同健美姿势；14 强有力的对称双臂向上姿势；15 正面直立，双爪在肩部附近握紧；16 侧向迈步，双爪向前；17 双腿分开站立，双爪向上；18 居中垂直姿势，双爪抬起；19 类似的双臂向上姿势，头部略微倾斜；20 侧身结束姿势，双爪交叉。
+
+视觉风格：写实、电影感且俏皮，高细节毛发，各帧之间自然的动作变化，一致的摄像机位置，一致的浴室背景，温暖的中性色调，清晰的联系表布局。
+
+约束：保持网格正好 20 个画面，编号 01–20。除帧编号外，不要添加任何说明文字。不要出现人类、其他动物、水印、标志或除数字标签以外的任何文字。在所有画面中保持狗狗和房间的一致性。
+
+[English]
+Goal: Create a 20-panel storyboard contact sheet showing a tiny black-and-tan Chihuahua dancing upright in a luxury marble bathroom, as if these are sequential animation frames for a short video.
+
+Canvas: Square image, arranged as a clean 5-column by 4-row grid with thin white gutters between panels. Each panel is a vertical photo frame. Add a small black label box with white two-digit frame numbers in the top-left corner of every panel.
+
+Subject: A small {argument name="dog breed" default="black-and-tan Chihuahua"} with oversized pointed ears, glossy dark eyes, tan eyebrows, tan muzzle, tan paws, and a shiny black coat. The dog stands on its hind legs in every frame, facing mostly toward camera, with a cute confident expression. The proportions should feel realistic but slightly whimsical, like a real dog caught mid-dance.
+
+Setting: Same upscale bathroom background in all panels: pale gray marble walls and floor, centered vanity or sink area in the back, rectangular mirror above it, warm recessed ceiling light, folded beige towels on both sides, and two amber-brown pump bottles on the right-side counter. Use soft indoor lighting, shallow depth of field, and photorealistic texture.
+
+Panel count and poses: Use exactly 20 numbered panels labeled 01 through 20. The dog should perform a different dance pose in each panel: 01 side-facing upright with paws tucked; 02 stepping left with one front paw extended; 03 centered with crossed legs and one paw forward; 04 mid-hop with one paw raised; 05 side profile pause; 06 forward bounce with both paws curled; 07 both arms wide, playful grin; 08 one paw high near ear and the other tucked; 09 dramatic crossed-arm lean; 10 one paw raised like waving; 11 low centered stance with paws near belly; 12 cheerful small hop with both paws lifted; 13 both paws flexed outward like tiny bodybuilder pose; 14 strong symmetrical arms-up pose; 15 frontal upright with both paws clenched near shoulders; 16 sideways step with paws held forward; 17 wide-legged stance with both paws up; 18 centered vertical pose with both paws raised; 19 similar arms-up pose with head slightly angled; 20 side-facing closing pose with paws crossed.
+
+Visual style: Photorealistic, cinematic yet playful, high-detail fur, natural motion variation across frames, consistent camera position, consistent bathroom background, warm neutral color palette, crisp contact-sheet layout.
+
+Constraints: Keep the grid exactly 20 panels, numbered 01–20. Do not add captions beyond the frame numbers. Do not show humans, extra animals, watermarks, logos, or text other than the numeric labels. Maintain the same dog and room across all frames.
+```
+
+**来源：** [@脱サラした医](https://x.com/dr__fire/status/2071041890125009288) | 2026-06-28
+
+---
+
+### 🎬 例 2712：漫画页面：睡眼惺忪的美男子与仓鼠
+
+![漫画页面：睡眼惺忪的美男子与仓鼠](../../images/%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2%EF%BC%9A%E7%9D%A1%E7%9C%BC%E6%83%BA%E5%BF%AA%E7%9A%84%E7%BE%8E%E7%94%B7%E5%AD%90%E4%B8%8E%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张黑白日本漫画页面，讲述一位穿着浴衣、睡眼惺忪的美貌青年与手中仓鼠对话的故事，采用优雅的少女漫风格线条和喜剧对话。
+
+画布：竖版漫画页面，比例约为 3:4，仅限灰度，具有干净的白色间隙和粗黑的边框。使用精细的网点纸阴影、细腻的发丝线条、柔和的卧室光影，并在情感特写格中使用高对比度的黑色背景。
+
+布局：使用从上到下排列的 5 个横向分格。
+
+第 1 格：夜晚日式卧室的宽幅全景。一位肤色苍白、中性美貌的青年，{argument name="character name" default="未命名的睡眼惺忪美男子"}，穿着宽松的白色浴衣坐在被褥上。他留着凌乱的长浅色头发，肩上有一条粗侧辫，眼神疲惫半眯，表情慵懒。他手掌托着一只圆滚滚的小仓鼠，并用一根手指轻轻戳它。仓鼠看起来既慌乱又生气，带有细小的动作线。背景细节：凌乱的被褥、障子拉门、显示着雨景和深色植被的圆窗，以及一个发光的长方形纸地灯。在右上角添加一个竖排叙述框，内容为「ハムスターを寝かしつけようとしている絵」。在仓鼠附近添加一个锯齿状的仓鼠对话气泡，内容为「この無自覚メロ男め！」。
+
+第 2 格：黑色背景特写。美男子将仓鼠托在掌心，睡眼惺忪地困惑注视着它；仓鼠主要以背影示人。使用两个白色对话气泡：右侧美男子说「メロ男……？」；左侧仓鼠说「えっ無自覚メロ男か」。
+
+第 3 格：回到卧室场景，侧面中景特写。美男子将一根手指放在唇边，若有所思且略显困惑地注视着掌心的仓鼠。背景包含灯笼、雨景圆窗、障子和被褥。在右侧添加一个竖排对话气泡，内容为「無自覚なのか……」。
+
+第 4 格：构图与第 3 格相似，但视角略低且更安静，强调尴尬的停顿。仓鼠在掌心面对着美男子。在左侧仓鼠旁添加一个小圆对话气泡，内容为「？」。在右侧添加一个竖排对话气泡，内容为「困ったな……」。
+
+第 5 格：黑色背景下的戏剧性大特写。美男子占据画面主体，直视前方，眼神疲惫而忧郁；他肩上的长辫清晰可见，浴衣领口显露。在右侧添加一个竖排对话气泡，内容为「直しようがない。」。在左侧添加一个巨大的尖角强调气泡，内容为「天然か？」。
+
+主体细节：青年应看起来空灵、优雅、略带忧郁且不经意间流露出撩人气质；皮肤苍白，身材修长，留着白色或极浅的银色长发，睫毛纤长，嘴唇柔软，拥有贵族气质的少女漫脸庞。仓鼠应体型微小、圆润、毛茸茸、表情丰富且可爱，带有豆豆眼和小爪子。
+
+视觉风格：高质量黑白漫画，线条精准纤细，华丽的少女漫美学，细腻的网点纸渐变，电影感分镜，日式竖排文字气泡，无色彩。保持所有日语文字清晰且与原文完全一致。不要添加额外的分格、角色、音效、签名、标志或水印。
+
+[English]
+Goal: Create a black-and-white Japanese manga page about a beautiful sleepy young man in a yukata talking to a hamster in his hand, with elegant shoujo-style line art and comedic dialogue.
+
+Canvas: Vertical manga page, about 3:4 aspect ratio, grayscale only, clean white gutters and thick black panel borders. Use detailed screentone shading, delicate hair lines, soft bedroom lighting, and high-contrast black backgrounds in emotional close-up panels.
+
+Layout: Use exactly 5 horizontal panels stacked from top to bottom.
+
+Panel 1: Wide establishing panel in a traditional Japanese bedroom at night. A pale, androgynous beautiful young man, {argument name="character name" default="unnamed beautiful sleepy man"}, sits on a futon wearing a loose white yukata. He has long messy light hair with one thick side braid over his shoulder, tired half-lidded eyes, and a languid expression. He holds a small round hamster on his open palm and gently pokes it with one finger. The hamster looks flustered and angry, with tiny motion marks. Background details: rumpled futon bedding, shoji sliding doors, a round window showing rain and dark foliage, and a glowing rectangular paper floor lantern. Add a vertical narration box at the upper right reading 「ハムスターを寝かしつけようとしている絵」. Add a jagged hamster speech bubble near the hamster reading 「この無自覚メロ男め！」.
+
+Panel 2: Dark black background close-up. The beautiful man holds the hamster up in his palm and looks at it with sleepy confusion; the hamster is seen mostly from behind. Use two white speech bubbles: on the right, the man says 「メロ男……？」; on the left, the hamster says 「えっ無自覚メロ男か」.
+
+Panel 3: Return to the bedroom setting, medium close-up from the side. The man rests one finger near his lips while gazing at the hamster sitting on his palm, thoughtful and slightly puzzled. Include the lantern, round rain window, shoji, and bedding in the background. Add one vertical speech bubble on the right reading 「無自覚なのか……」.
+
+Panel 4: Similar composition to panel 3 but slightly lower and quieter, emphasizing awkward pause. The hamster faces the man from his palm. Add a small round speech bubble with 「？」 near the hamster on the left. Add one vertical speech bubble on the right reading 「困ったな……」.
+
+Panel 5: Large dramatic close-up with a black background. The beautiful man fills the frame, looking directly forward with tired melancholy eyes; his long braid is prominent over his shoulder and his yukata collar is visible. Add a vertical speech bubble on the right reading 「直しようがない。」. Add a large spiky emphasis bubble on the left reading 「天然か？」.
+
+Subject details: The young man should look ethereal, elegant, slightly melancholic, and unintentionally flirtatious; pale skin, slim build, long white or very light silver hair, delicate lashes, soft lips, and an aristocratic shoujo manga face. The hamster should be tiny, round, fluffy, expressive, and cute, with dot eyes and tiny paws.
+
+Visual style: High-quality monochrome manga, thin precise ink lines, ornate shoujo aesthetics, subtle screentone gradients, cinematic paneling, Japanese vertical text bubbles, no color. Keep all Japanese text legible and exactly as written. Do not add extra panels, extra characters, sound effects, signatures, logos, or watermarks.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2071034242507985383) | 2026-06-28
+
+---
+

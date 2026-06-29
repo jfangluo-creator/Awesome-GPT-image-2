@@ -2260,3 +2260,95 @@ The right side will have @image1 wearing a superhero costume fitting to the chos
 
 ---
 
+### 🔧 例 2637：单色霓虹矢量插画
+
+![单色霓虹矢量插画](../../images/%E5%8D%95%E8%89%B2%E9%9C%93%E8%99%B9%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的照片作为精确的身份参考。在保持照片级真实感的同时，保留面部结构、发型、胡须、肤色、面部比例、眉毛、嘴唇、下颌线以及整体相似度。请勿更改人物身份。
+
+将肖像转换为具有干净漫画线条和锐利赛璐珞阴影的高级高对比度单色矢量插画。
+
+主体正对镜头，表情自信，下巴微抬。
+
+在头发、耳朵、肩膀和下颌线周围添加 {argument name="neon color" default="鲜红色"} 的霓虹边缘光。
+
+身着 {argument name="outfit" default="黑色廓形开衫，内搭纯白色圆领 T 恤"}，佩戴 {argument name="accessory" default="细银色方形吊坠项链"}、奢华腕表，头顶架着一副黑色太阳镜。
+
+纯黑色背景，带有细微的漂浮颗粒和戏剧性的阴影。
+
+超干净的矢量线条、高级海报构图、奢华编辑风格、清晰的面部细节、电影级对比度，仅使用黑色、白色和发光红色的极简配色方案。
+
+[English]
+Use the uploaded photo as the exact identity reference. Preserve the facial structure, hairstyle, beard, skin tone, facial proportions, eyebrows, lips, jawline, and overall likeness with photorealistic accuracy. Do not alter the identity.
+
+Convert the portrait into a premium high-contrast monochrome vector illustration with clean comic-book linework and sharp cel shading.
+
+The subject faces directly toward the camera with a confident expression and slight chin lift.
+
+Add {argument name="neon color" default="vivid red"} neon rim lighting around the hair, ears, shoulders, and jawline.
+
+Wear an {argument name="outfit" default="oversized black open shirt layered over a plain white crew-neck t-shirt"}, a {argument name="accessory" default="thin silver square pendant necklace"}, luxury watch, and black sunglasses resting on top of the head.
+
+Pure black background with subtle floating particles and dramatic shadows.
+
+Ultra-clean vector lines, premium poster composition, luxury editorial style, crisp facial details, cinematic contrast, minimal color palette using only black, white, and glowing red.
+```
+
+**来源：** [@Adigunn](https://x.com/Adigunn_xx/status/2071290493380542641) | 2026-06-28
+
+---
+
+### 🔧 例 2678：水下角色转换
+
+![水下角色转换](../../images/%E6%B0%B4%E4%B8%8B%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+画像1 をキャラクター参照として使用。静水面のすぐ下から上を見上げるカメラ位置で、水面越しに歪んだシルエットと屈折光を捉えたシーンに変換する。
+```
+
+**来源：** [@さきすた AI artist](https://x.com/sakisuta_/status/2071152542927753562) | 2026-06-28
+
+---
+
+### 🔧 例 2693：90 年代动漫风格照片转换
+
+![90 年代动漫风格照片转换](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将这张照片转换为 90 年代动漫风格的插画。捕捉那个时代的真实美学，重点参考 90 年代男性动漫主角的视觉风格。使用柔和、略微去饱和的色调，以呈现经典赛璐珞动画的质感。在保留原照片中人物关键面部特征和神态的同时，将其自然地融入 90 年代动漫风格中。赋予角色坚毅、自信且略带叛逆的个性。嘴里叼着香烟作为角色设计的一部分是可以接受的。
+
+[English]
+Take this photo and transform it into an illustration in the style of 1990s anime. Capture the authentic aesthetic of that era, with a particular focus on the visual style of male anime protagonists from the 90s. Use a muted, slightly desaturated color palette to evoke the look and feel of classic cel animation. Preserve the person's key facial features and likeness from the original photo, but adapt them naturally to the 90s anime style. Give the character a strong-willed, confident, and slightly rebellious personality. A cigarette in his mouth is acceptable as part of the character design.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2071084089084613037) | 2026-06-28
+
+---
+
+### 🔧 例 2705：照片转 Q 版马克笔手绘草图
+
+![照片转 Q 版马克笔手绘草图](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%89%8B%E7%BB%98%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为 {argument name="style" default="可爱的黑白手绘涂鸦插画"}，风格需与 {argument name="medium" default="极简马克笔草图"} 完全一致。保留原始构图、姿势、拍摄角度、面部表情、服装以及所有主体的位置。将人物转换为 {argument name="character style" default="可爱的 Q 版/卡通角色"}，特征包括简化的五官、大而生动的眼睛、圆润的脸型以及干净的轮廓线条。
+
+[English]
+Convert the uploaded photo into a {argument name="style" default="cute black-and-white hand-drawn doodle illustration"} in the exact style of a {argument name="medium" default="minimalist marker sketch"}. Preserve the original composition, pose, camera angle, facial expressions, clothing, and positioning of all subjects. Transform the people into {argument name="character style" default="adorable chibi/cartoon characters"} with simplified features, large expressive eyes, rounded faces, and clean outlines.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2071065798828073256) | 2026-06-28
+
+---
+

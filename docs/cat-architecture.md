@@ -1304,3 +1304,62 @@ Create a dark presentation-style social media image in Japanese about golden egg
 
 ---
 
+### 🏛️ 例 2657：动漫少女拼装虚构机甲模型
+
+![动漫少女拼装虚构机甲模型](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%8B%BC%E8%A3%85%E8%99%9A%E6%9E%84%E6%9C%BA%E7%94%B2%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 比例的写实竖版图像，主角是 {argument name="character name" default="Emilia"}，一位皮肤白皙、留着 {argument name="hair color" default="长款铂金色头发"} 并扎成两个高双马尾（系有黑色丝带）的动漫风格年轻女性。她盘腿坐在温馨的复古客厅地板上，正在拼装一个虚构的塑料机器人模型套件。她穿着一件超大号黑色 T 恤，胸前有一个简单的白色圆角方形点赞图标，双腿裸露，妆容自然有光泽，睫毛修长，神情专注，微张着嘴，低头看着右手拿着的深色塑料板件。她的左手握着一把黑色模型剪钳，姿势仿佛正要从板件上剪下零件；请确保剪钳看起来精致且未被挤压。前景的木桌上摆放着 7 件核心模型工具：1 个已拼装完成的蓝灰色重装机甲模型，1 张打开的、印满微小装配图的说明书，3 个带有深色和蓝灰色零件的塑料板件，1 个印有蓝色机器人图案的虚构模型盒（无真实品牌 Logo 或产品名称），以及 1 个散落的小型蓝灰色装甲零件。机甲应为通用的笨重带刺科幻机器人，不基于任何现实系列。背景：温馨的复古房间，配有带花纹的沙发靠垫、温暖的落地灯光、植物、置物架、装饰画、木质家具，并具有浅景深效果。光影为电影级的室内暖光，阴影柔和，皮肤纹理真实，发丝细节丰富，呈现高端相机质感，具备 50mm 镜头感，构图亲密自然。避免出现真实公司 Logo、受版权保护的机器人设计、可辨识的品牌名称、多余的手指、扭曲的手部以及过度油腻的 CGI 感。
+
+[English]
+Create a photorealistic vertical 2:3 image of {argument name="character name" default="Emilia"}, a young anime-inspired woman with pale skin and {argument name="hair color" default="long platinum-blonde hair"} worn in two high twin-tails tied with black ribbons, sitting cross-legged on the floor in a warmly lit vintage living room while building a fictional plastic robot model kit. She wears an oversized black T-shirt with a simple white rounded-square thumbs-up emblem on the chest, bare legs, natural glossy makeup, long lashes, and a focused slightly open-mouthed expression as she looks down at a dark plastic runner frame held in her right hand. Her left hand grips a pair of black model nippers, positioned as if about to cut a part from the runner; make the nippers look delicate and not crushed. In the foreground on a wooden table are exactly 7 main hobby items: 1 completed blue-gray armored mecha model standing upright, 1 open illustrated instruction sheet covered in tiny assembly diagrams, 3 plastic sprue frames with dark and blue-gray parts, 1 fictional model kit box showing blue robots with no real brand logos or product names, and 1 small loose blue-gray armor piece. The mecha should be a generic bulky spiked sci-fi robot, not based on any real franchise. Background: cozy old-fashioned room with patterned sofa cushions, warm floor lamp glow, plants, shelves, framed art, wood furniture, and shallow depth of field. Lighting is cinematic golden indoor light with soft shadows, realistic skin texture, detailed hair strands, high-end camera look, 50mm lens feel, intimate candid composition. Avoid real company logos, trademarked robot designs, readable brand names, extra fingers, distorted hands, and overly glossy CGI.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2071220746093986112) | 2026-06-28
+
+---
+
+### 🏛️ 例 2661：东方禅意极简插画
+
+![东方禅意极简插画](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简插画"}
+风格分支：高对比传播型
+主体内容：{argument name="主体" default="一座小亭静置在山水之间"}
+情绪母题：明快、清远、诗意
+场景与意象：橘红晚霞、青绿色远山、水面、小亭、松影
+构图与空间：小主体大环境构图，小亭位于中下部偏一侧，山水与天空形成大面积通透空间
+色彩控制：米白作为基底，青绿用于远山、水面 and 松影，橘红只用于云霞、天空过渡和局部水面反光，深墨用于小亭结构；避免全图橘红化或全图发绿
+光线与质感：明亮夕照，轻水墨纹理，宣纸颗粒，清爽通透
+画幅比例：9:16 
+补充要求：整体气氛要偏明艳高级，不要做成厚重秋景
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2071214411541524897) | 2026-06-28
+
+---
+
+### 🏛️ 例 2675：柔和粉色系害羞猫娘卧室
+
+![柔和粉色系害羞猫娘卧室](../../images/%E6%9F%94%E5%92%8C%E7%B2%89%E8%89%B2%E7%B3%BB%E5%AE%B3%E7%BE%9E%E7%8C%AB%E5%A8%98%E5%8D%A7%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和粉色系动漫插画，画面中 {argument name="character name" default="一位害羞的猫娘"} 跪在梦幻可爱风格卧室的蓬松粉色床上。她留着蓬松的浅粉色波波头，长长的刘海，大大的三角形猫耳，内侧带有白粉色绒毛，还有一条柔软卷曲的猫尾巴；她有着明亮的大眼睛，呈洋红色，脸颊泛红，表情羞涩，正抬起一件超大号毛衣的袖子遮住嘴巴。她穿着一件宽松的奶油色毛衣、一条灰色格子百褶短裙和白色过膝袜。在她胸前紧紧抱着一只装饰着亮粉色蝴蝶结的白色毛绒兔，床边还有一只戴着同款粉色蝴蝶结的小白猫。在床铺周围精确添加四个小玩具细节：一个蓝色鱼形玩具、一个带粉色尾巴的奶油色老鼠玩具、一个小白色球，以及背景中一个淡淡的粉色蝴蝶结图案。场景中充满了圆润的粉色枕头、柔软的毯子、浅色毛绒形状和精致的蝴蝶结装饰，整体采用高调的腮红粉和白色调。使用细腻的动漫线条、水彩风格的阴影、柔和的光晕、轻柔的高光、通透的灯光、浅景深，营造出甜美纯真的氛围。竖向肖像构图，角色居中，从耳朵到膝盖全身可见，无文字，无水印，无生硬阴影，非写实风格，无额外角色。
+
+[English]
+Create a soft pastel anime illustration of {argument name="character name" default="a shy catgirl"} kneeling on a fluffy pink bed in a dreamy kawaii bedroom. She has fluffy pale pink bobbed hair with long bangs, large triangular cat ears with white-pink inner fur, a soft curled cat tail, big glossy magenta-pink eyes, flushed cheeks, and a timid expression while raising one oversized sweater sleeve to her mouth. She wears a loose cream-colored sweater, a short gray plaid pleated skirt, and white thigh-high stockings. Add one white plush bunny held tightly against her chest, decorated with a bright pink bow, and one small white cat beside her on the bed wearing a matching pink bow. Include exactly four small toy details around the bedding: one blue fish toy, one cream mouse toy with a pink tail, one small white ball, and one faint pink bow motif in the background. The setting is filled with rounded pink pillows, soft blankets, pale plush shapes, and subtle bow decorations, all in a high-key blush pink and white palette. Use delicate anime line art, watercolor-like shading, gentle bloom, soft highlights, airy lighting, shallow depth of field, and a sweet innocent mood. Vertical portrait composition, centered character, full body visible from ears to knees, no text, no watermark, no harsh shadows, no realism, no extra characters.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2071157405245698281) | 2026-06-28
+
+---
+

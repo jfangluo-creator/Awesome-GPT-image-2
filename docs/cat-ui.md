@@ -5001,3 +5001,245 @@ Create a square editorial sci-fi character concept image with a floating cyberne
 
 ---
 
+### 🖥️ 例 2638：浮世绘风格神话武士肖像
+
+![浮世绘风格神话武士肖像](../../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%A5%9E%E8%AF%9D%E6%AD%A6%E5%A3%AB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅令人惊叹、细节极致的日本浮世绘 × 现代奇幻杰作，将 [SUBJECT] 转化为传奇武士大名，同时保留其准确的面部特征、发型、年龄、肤色、身体比例、表情以及极具辨识度的外观。人物身着受 [COUNTRY / TEAM / KINGDOM / FACTION] 启发的华丽定制武士铠甲，将地道的色彩、符号、图案、纹章、刺绣和文化元素无缝融入层叠的礼仪铠甲、飘逸长袍、战袍、腰带、绳结、流苏、雕刻甲片及手工配饰中。每一个细节都应兼具历史真实感与神圣的奇幻色彩。人物以自信的电影级姿态手持优雅的武士刀（或符合文化的传奇武器），散发出绝对的权威、纪律、荣誉与不可阻挡的决心。人物身后显现出巨大的神话守护灵，代表其个性、传承与国家。示例包括：• 白虎 • 白狮 • 龙 • 凤凰 • 九尾狐 • 麒麟 • 黑豹 • 狼 • 鹰 • 利维坦 • 神圣巨蛇 • 任何传奇守护神兽。守护灵从缭绕的云雾、神圣的烟雾、圣火、翻腾的波浪、流动的墨迹、灵气、樱花瓣和发光能量中浮现，显得庄严而非狰狞。环境宛如日本的天堂仙境，点缀着优雅的季节性花卉、樱花、菊花、牡丹、兰花、枫叶、竹林、神圣岩石、寺庙小径、飘落的花瓣、浮动的微粒和装饰性植被，自然地构成了画面的框架。艺术品中融入了奢华的金箔细节，灵感源自传统的日本屏风、高级水墨画和博物馆级插画。精细的笔触、细腻的墨迹纹理、微妙的水彩渐变、精美的线条艺术、装饰性图案、浮雕金饰和装饰花纹丰富了每一个表面。构图完美平衡，留白优雅，布料动态自然，武器摆放得体，环境特效流动，叙事感极强。加入雅致的竖排日本书法、传统艺术家印章、装饰性印记和优雅的边框，在不喧宾夺主的前提下衬托艺术品。可选的真实纹章可自然地出现在服装、铠甲、旗帜或配饰中，并保持艺术化的融合。光影神圣且具有电影感：柔和的神圣阳光、体积光、发光的氛围、空灵的轮廓光、微妙的柔光、浮动的尘埃微粒、发光的薄雾、高级 HDR 色调分级、柔和的全局光照和天界氛围。视觉风格：传统浮世绘 × 日本画 × 日本水墨插画 × 现代奇幻写实主义 × 高级概念艺术 × 收藏级奢华海报 × 博物馆展览品质 × Artstation 杰作。品质：超精细、极其复杂、焦点锐利、构图优雅、解剖结构完美、高级纹理、精美装饰细节、视觉平衡、获奖插画、杰作、最佳品质、16K、HDR、超高分辨率。氛围：神话、高贵、英勇、永恒、神圣、传奇。
+
+[English]
+Create an awe-inspiring, ultra-detailed Japanese Ukiyo-e × contemporary fantasy masterpiece featuring [SUBJECT] transformed into a legendary samurai warlord while preserving the subject's exact facial identity, hairstyle, age, skin tone, body proportions, expression, and instantly recognizable appearance. The subject wears magnificent custom samurai armor inspired by [COUNTRY / TEAM / KINGDOM / FACTION], seamlessly integrating authentic colors, symbols, patterns, crests, embroidery, and cultural motifs into layered ceremonial armor, flowing robes, battle cloak, belts, cords, tassels, engraved plates, and handcrafted accessories. Every detail should feel historically authentic yet divinely mythical. The subject holds an elegant katana (or culturally appropriate legendary weapon) in a confident cinematic pose that radiates absolute authority, discipline, honor, and unstoppable determination. Behind the subject manifests an enormous mythical guardian spirit representing their personality, legacy, and nation. Examples include: • White Tiger • White Lion • Dragon • Phoenix • Nine-Tailed Fox • Kirin • Black Panther • Wolf • Eagle • Leviathan • Sacred Serpent • Any legendary guardian beast The guardian emerges from swirling celestial clouds, divine mist, sacred flames, crashing waves, flowing ink, spiritual smoke, cherry blossom petals, and glowing energy, appearing majestic rather than monstrous. The environment resembles a heavenly Japanese paradise filled with elegant seasonal flowers, cherry blossoms, chrysanthemums, peonies, orchids, maple leaves, bamboo, sacred rocks, temple pathways, drifting petals, floating particles, and ornamental vegetation that naturally frame the composition. Luxury gold-leaf detailing appears throughout the artwork, inspired by traditional Japanese folding screens, premium ink paintings, and museum-quality illustrations. Intricate brushwork, delicate ink textures, subtle watercolor gradients, fine line art, ornamental patterns, embossed gold accents, and decorative flourishes enrich every surface. The composition is perfectly balanced with graceful negative space, flowing movement, dynamic cloth physics, elegant weapon placement, swirling environmental effects, and cinematic storytelling. Include tasteful vertical Japanese calligraphy, traditional artist seals, decorative stamps, and elegant ornamental borders that complement the artwork without overwhelming it. Optional authentic emblems may appear naturally within clothing, armor, banners, or accessories while remaining artistically integrated. Lighting is heavenly and cinematic: divine soft sunlight, volumetric rays, glowing atmosphere, ethereal rim lighting, subtle bloom, floating dust particles, luminous mist, premium HDR color grading, gentle global illumination, and celestial ambience. Visual Style: Traditional Ukiyo-e × Nihonga × Japanese ink illustration × modern fantasy realism × premium concept art × collectible luxury poster × museum exhibition quality × Artstation masterpiece. Quality: hyper-detailed, insanely intricate, razor-sharp focus, elegant composition, flawless anatomy, premium textures, exquisite ornamental detailing, visually balanced, award-winning illustration, masterpiece, best quality, 16K, HDR, ultra-high resolution. Mood: Mythical. Noble. Heroic. Timeless. Divine. Legendary.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2071287209362444624) | 2026-06-28
+
+---
+
+### 🖥️ 例 2668：东京街头夜间随拍风格
+
+![东京街头夜间随拍风格](../../images/%E4%B8%9C%E4%BA%AC%E8%A1%97%E5%A4%B4%E5%A4%9C%E9%97%B4%E9%9A%8F%E6%8B%8D%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅将附图作为主体发型、整体面部比例、自然美感及整体美学风格的视觉参考，
+同时确保生成的主体完全原创、不可识别，且非人脸复制。
+
+场景
+东京城市街道的夜晚，背景为一栋带有白色瓷砖墙面的建筑。
+主体正从镜头前走过，呈侧身姿态，捕捉其迈步时的自然瞬间。
+
+外观
+一位 {argument name="subject" default="年轻女性"}，留着长款 {argument name="hair color" default="栗棕色"} 层次感发型，搭配柔和的八字刘海，拥有白皙自然的肤色、榛绿色双眸、精致的自然妆容，以及受参考图启发但保持原创且不可识别的欧式面部特征。
+她身穿一件简约修身的 {argument name="outfit" default="白色 T 恤"}，短袖，无 Logo，无图案，无配饰或外套。
+
+姿势与表情
+主体在向前行走的同时，头部轻微转向镜头。
+她面带轻松、真诚、自然的微笑，表情温暖友好。
+身体保持半侧身姿态继续前行。
+构图略显随意，仿佛是路过时匆忙抓拍的。
+
+相机与动态
+使用现代智能手机手持拍摄，抓拍感强。伴有强烈的不可控相机抖动。头发、面部和身体呈现明显的定向动态模糊。面部特征因动态模糊而自然柔化，但并未变得无法辨认。移动的身体周围有部分重影。构图不完美，主体几乎要走出画面。
+
+光影
+运动中触发的闪光灯照明。面部和白色 T 恤上有强烈的闪光灯高光。周围环境深陷黑暗。曝光不均，高光过曝，呈现出匆忙的夜间手机摄影中常见的硬阴影。
+
+背景
+白色瓷砖墙因动态模糊而拉伸成条状光带。街道环境隐入黑暗，细节极少。
+
+氛围
+自然、随性、友好、放松、真实。感觉就像路过时随手拍下的真实手机快照。
+
+图像质量
+噪点极高。模糊感重。原始手机画质。非电影感。非杂志大片。非精修效果。
+
+负面提示词
+动漫，插画，绘画，风格化，
+影棚灯光，美颜灯光，柔光人像，
+焦点清晰，面部洁净，完美解剖结构，平滑皮肤，
+时尚杂志大片，摆拍人像，电影级调色，电影剧照，
+三脚架拍摄，专业摄影，
+连帽衫，夹克，外套，毛衣，衬衫，连衣裙，印花服装，Logo，配饰，
+身份匹配，人脸复制，真实人物复刻
+
+[English]
+Use the attached image only as a strong visual inspiration for the subject's hairstyle, overall facial proportions, natural beauty, and general aesthetic,
+while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
+
+Scene
+Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
+The subject is walking past the camera, partially side-on, captured mid-step in a natural, spontaneous moment.
+
+Appearance
+A {argument name="subject" default="young woman"} with long {argument name="hair color" default="chestnut-brown"} layered hair, soft curtain bangs, fair natural skin, hazel-green eyes, subtle natural makeup, and delicate European facial features inspired by the reference image while remaining an original, non-identifiable person.
+She is wearing a plain fitted {argument name="outfit" default="white T-shirt"} with short sleeves, no logos, no graphics, no accessories or outerwear.
+
+Pose & Expression
+The subject casually turns her head slightly toward the camera while continuing to walk forward.
+She wears a relaxed, genuine, natural smile with a warm and friendly expression.
+Her body remains angled in half-profile as she continues walking.
+The framing is slightly imperfect, as if captured quickly while passing by.
+
+Camera & Motion
+Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the hair, face, and body. Facial features appear naturally softened by motion blur without becoming unrecognizable. Partial ghosting around the moving body. Imperfect framing, subject nearly leaving the frame.
+
+Lighting
+Flash-only lighting fired mid-motion. Harsh flash highlights on the face and white T-shirt. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night smartphone photography.
+
+Background
+White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
+
+Mood
+Natural, candid, friendly, relaxed, authentic. Feels like a genuine spontaneous smartphone snapshot captured while passing by.
+
+Image Quality
+Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
+
+Negative Prompt
+anime, illustration, painting, stylized,
+studio lighting, beauty lighting, soft portrait,
+sharp focus, clean face, perfect anatomy, smooth skin,
+fashion editorial, posed portrait, cinematic grading, film still,
+tripod shot, professional photography,
+hoodie, jacket, coat, sweater, blouse, dress, printed clothing, logos, accessories,
+identity match, face copy, real person replication
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2071168240206922170) | 2026-06-28
+
+---
+
+### 🖥️ 例 2669：薄荷色动漫音乐播放器壁纸
+
+![薄荷色动漫音乐播放器壁纸](../../images/%E8%96%84%E8%8D%B7%E8%89%B2%E5%8A%A8%E6%BC%AB%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张 9:16 比例的竖屏手机壁纸，采用梦幻音乐播放器界面风格，配有动漫风格专辑封面和半透明青色音频 UI。
+
+画布：9:16 手机壁纸，柔和的水蓝色与薄荷色调，模糊的毛玻璃背景，顶部设有类似 iPhone 的状态栏，左侧显示 9:41，右侧显示信号、Wi-Fi 和 100% 电量，顶部中心附近有一个白色的小横条主页指示器。
+
+主专辑封面：上半部分居中放置一个圆角正方形专辑封面，边缘带有光泽感和微弱光晕。封面内绘制 {argument name="character name" default="Minty Serenade"}，形象为一位美丽的动漫猫耳人鱼偶像，坐在华丽的水晶海底宫殿中闪烁的浅水区。她拥有非常长且飘逸的 {argument name="hair color" default="薄荷绿松石色"} 双马尾，黑色猫耳，大大的水蓝色眼睛，精致的圆框眼镜，害羞的微张嘴表情，皮肤白皙。身着带有薄荷色格子装饰的白色与黑色哥特洛丽塔泳装裙，配有黑色束腰、蕾丝袖、丝带、花朵装饰、珍珠细节、过膝袜和小型青色蝴蝶结。左后方环绕着一条深色的鱼尾。周围点缀着气泡、悬挂的水晶链、心形水蓝色宝石、白色花朵、波光粼粼的水面反射、闪光和明亮的青色高光。插画需高度精细、浪漫、光泽感强且空灵。
+
+专辑封面下方的音乐播放器布局：在中心位置用优雅的大号白色日文字体显示歌名：{argument name="song title" default="ミントテール・セレナーデ"}。歌名行右侧放置一个轮廓心形收藏图标。下方用较小的薄荷色衬线字体显示带有装饰花纹的艺术家名称：{argument name="artist name" default="MINTY"}。再下方，包含两行居中的小型发光白色日文歌词：1) {argument name="lyric line one" default="きらめく波に恋を結んで"} 2) {argument name="lyric line two" default="ミントの夢でキミを泳いだ"}。歌词区域右侧放置一个水平的三点菜单图标。
+
+播放控制：在中心附近添加一条带有发光心形进度滑块的细进度条；左侧显示已播放时间 1:42，右侧显示总时长 4:06。下方横向排列 5 个播放图标：随机播放、上一曲、中心的大型圆形暂停按钮、下一曲、循环播放。中心暂停按钮应为一个带有薄荷色暂停条的发光白色圆圈。下方添加一个音量滑块，左侧为扬声器图标，右侧为大音量扬声器图标，并配有另一个心形旋钮。底部中心添加一颗带有对称花丝和微小星光闪烁的装饰性水蓝色心形宝石。
+
+视觉风格：柔和光晕，半透明磨砂玻璃 UI，清晰的动漫渲染，柔和的薄荷色/青色高光，白色排版，浪漫的海底奇幻氛围，无生硬阴影，无水印，无额外应用品牌标识。保持所有界面元素对齐且易读，呈现出精致的音乐播放界面效果。
+
+[English]
+Goal: Create a vertical 9:16 smartphone wallpaper styled like a dreamy music player screen, featuring an anime album-art illustration and a translucent teal audio UI.
+
+Canvas: 9:16 phone wallpaper, soft aqua and mint color palette, blurred glassmorphism background, iPhone-like status bar at the top showing 9:41 on the left and signal, Wi‑Fi, and 100% battery on the right, with a small white home-indicator pill near the top center.
+
+Main album art: A large rounded-square album cover centered in the upper half, with glossy glass edges and subtle glow. Inside the cover, illustrate {argument name="character name" default="Minty Serenade"} as a beautiful anime cat-girl mermaid-idol sitting in sparkling shallow water inside an ornate crystalline underwater palace. She has very long flowing {argument name="hair color" default="mint turquoise"} twin-tail hair, black cat ears, large aqua eyes, delicate round glasses, a shy open-mouth expression, and pale skin. Her outfit is a frilly white-and-black gothic lolita swimsuit dress with mint plaid accents, black corset waist, lace sleeves, ribbons, flower ornaments, pearl details, thigh-high stockings, and small teal bows. Include a dark mermaid tail curling behind her on the left. Surround her with bubbles, dangling crystal chains, heart-shaped aqua jewels, white flowers, shimmering water reflections, sparkles, and luminous cyan highlights. The illustration should be highly detailed, romantic, glossy, and ethereal.
+
+Music player layout below album art: Center the song title in large elegant white Japanese text: {argument name="song title" default="ミントテール・セレナーデ"}. To the right of the title line place one outlined heart favorite icon. Below it, show the artist name in smaller mint serif text with decorative flourishes: {argument name="artist name" default="MINTY"}. Under that, include exactly 2 centered Japanese lyric lines in small glowing white text: 1) {argument name="lyric line one" default="きらめく波に恋を結んで"} 2) {argument name="lyric line two" default="ミントの夢でキミを泳いだ"}. To the right of the lyric area place a horizontal three-dot menu icon.
+
+Playback controls: Add one thin progress bar with a glowing heart-shaped scrubber near the center; show elapsed time 1:42 on the left and total time 4:06 on the right. Beneath it, place exactly 5 playback icons in a row: shuffle, previous track, large circular pause button in the center, next track, repeat. The central pause button should be a glowing white circle with mint pause bars. Below that, add a volume slider with speaker icon on the left, louder speaker icon on the right, and another heart-shaped knob. At the bottom center, add a small decorative aqua heart gem with symmetrical filigree and tiny star sparkles.
+
+Visual style: Soft glow, translucent frosted glass UI, crisp anime rendering, pastel mint/cyan highlights, white typography, romantic underwater fantasy mood, no harsh shadows, no watermark, no extra app branding. Keep all interface elements aligned and readable like a polished music playback screen.
+```
+
+**来源：** [@あまり🖋️AI &フリー素材配布](https://x.com/amari_AI_art/status/2071167501782905165) | 2026-06-28
+
+---
+
+### 🖥️ 例 2682：韩系街头潮流时尚大片
+
+![韩系街头潮流时尚大片](../../images/%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影感街头时尚大片人像，一位时尚的年轻男子在明媚的午后，随意地站在安静的城市十字路口。他自然地倚靠在不锈钢交通信号灯杆上，头顶上方是醒目的黑白“ONE WAY”路牌，构图简洁且极具都市极简主义风格。他姿态松弛，一侧肩膀轻靠在灯杆上，一只手插在炭灰色工装裤的口袋里，双脚脚踝处自然交叉，另一只手随意地在身侧拿着智能手机。
+模特身穿 {argument name="sweatshirt" default="oversized 复古水洗棕色印花卫衣"}，胸前带有低调的做旧字体和褪色的米色印花图案，宽松的版型呈现出当代韩系街头潮流美学。下身搭配 {argument name="pants" default="宽松炭灰色工装裤"}，带有实用主义缝线和超大口袋。脚上穿着 {argument name="footwear" default="经典的红白配色 Nike 运动鞋"}，细节处呼应红色元素。颈间自然垂坠着一条细银链，单肩背着一个黑色皮质单肩包。他戴着超大款黑色长方形墨镜，直视镜头，展现出冷静自信的时尚态度。
+他的头发中长，发质浓密，略显凌乱，带有自然的波浪纹理和蓬松感，在直射阳光下显得格外柔和。他的面部表情保持中性且自然，流露出一种静谧的自信。
+环境呈现为写实的美式城市街道，拥有宽阔的混凝土人行道、斑马线、显示红色行人停止信号的交通灯、电线杆、架空电缆、停放的车辆、绿树、砖墙建筑，以及向远处延伸的单行道标志。街道干净、安静，自然活跃而不拥挤。
+强烈的午后阳光在路面上投下清晰的阴影，营造出逼真的对比度，同时保持了平衡的肤色。蓝天万里无云，增强了清新的白昼氛围。
+构图将主体置于醒目的路牌下方，略微偏离中心，利用人行道和道路作为自然的引导线，将视线引向主体。竖构图强调了环境与时尚造型的结合。
+使用全画幅相机拍摄，50mm 镜头，f/2.8，ISO 100，自然日光，浅景深，在保持街道环境清晰可辨的同时，实现了微妙的背景虚化效果。
+风格：高级时尚大片，韩系街头潮流，都市生活摄影，电影级写实，纪录片美学，自然抓拍，照片级真实，超细腻织物纹理，真实皮肤质感，锐利对焦，细腻胶片颗粒，丰富的自然色彩，HDR，8K，奢侈杂志品质，Instagram 编辑风格。
+长宽比：2:3 (竖构图)
+
+[English]
+A cinematic street fashion editorial portrait of a stylish young man standing casually at the corner of a quiet urban intersection on a bright sunny afternoon. He leans naturally against a stainless steel traffic signal pole beneath a large black and white "ONE WAY" street sign, creating a clean, minimalist city composition. His posture is relaxed with one shoulder lightly touching the pole, one hand tucked inside the pocket of his oversized charcoal gray cargo trousers, while his legs are loosely crossed at the ankles. The other hand casually holds a smartphone by his side.
+The subject wears an {argument name="sweatshirt" default="oversized vintage washed brown graphic sweatshirt"} with subtle distressed typography and faded cream printed artwork across the chest. The relaxed fit gives a contemporary Korean streetwear aesthetic. He pairs it with {argument name="pants" default="loose charcoal gray cargo pants"} featuring utility stitching and oversized pockets. On his feet are {argument name="footwear" default="classic white and deep red Nike sneakers"} with matching red details. A thin silver chain necklace rests naturally around his neck, and a black leather shoulder bag hangs from one shoulder. He wears oversized rectangular black sunglasses, adding a calm, confident editorial expression while looking directly toward the camera.
+His hair is medium length, thick, slightly messy, and naturally wavy with textured volume, softly illuminated by direct sunlight. His facial expression remains neutral and effortless, conveying quiet confidence.
+The environment features a realistic American style city street with wide concrete sidewalks, crosswalk markings, traffic lights displaying a red pedestrian stop signal, utility poles, overhead cables, parked cars, green trees, brick buildings, and additional one way signs receding into the distance. The street is clean, quiet, and naturally active without feeling crowded.
+Strong midday sunlight creates crisp shadows across the pavement, producing realistic contrast while maintaining balanced skin tones. The blue sky is completely clear, enhancing the fresh daytime atmosphere.
+The composition places the subject slightly off center beneath the prominent street sign, using the sidewalk and road as natural leading lines that draw attention toward him. Vertical framing emphasizes both the environment and the fashion styling.
+Photographed on a full frame camera with a 50mm lens, f/2.8, ISO 100, natural daylight, shallow depth of field with subtle background separation while keeping much of the street environment recognizable.
+Style: premium fashion editorial, Korean streetwear, urban lifestyle photography, cinematic realism, documentary aesthetic, natural candid pose, photorealistic, ultra detailed fabric textures, realistic skin texture, sharp focus, subtle film grain, rich natural colors, HDR, 8K, luxury magazine quality, Instagram editorial style.
+Aspect Ratio: 2:3 (Portrait)
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2071128892744888774) | 2026-06-28
+
+---
+
+### 🖥️ 例 2683：雨中的日式视觉小说标题界面
+
+![雨中的日式视觉小说标题界面](../../images/%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%97%A5%E5%BC%8F%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%E6%A0%87%E9%A2%98%E7%95%8C%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="game title" default="紫陽花連鎖"} 的暗黑奇幻策略游戏，创作一个充满意境的日式视觉小说标题界面。
+
+画布：4:3 横屏游戏菜单界面，尺寸约为 920×768，带有暗色电影感晕影和精致的古典边框。
+
+背景：雨中的午夜日式庭院场景。展示斜向的重雨线，覆盖在阴暗的石径和湿润的反射地面上。左侧放置一座传统的木质建筑，带有一个温暖发光的圆形窗户；右侧是一座类似宝塔的深色亭子，窗户透出微弱的暖光。在左下角和右下角的前景中，添加树木、栅栏、灌木、灯笼状结构和成簇的淡紫色绣球花剪影。保持场景的氛围感，低对比度，大部分被黑暗和薄雾笼罩。
+
+布局：将标题区域置于屏幕中上部。在标题上方，添加一条细长的金色水平分割线，中间由一个包含简单四角星/闪光符号的小圆形徽章隔开。大号日文标题使用优雅的金属金色字体。在标题下方，添加小号副标题文本 {argument name="subtitle text" default="六つの領域を、花で突破せよ。"}。在副标题下方，放置 3 个垂直堆叠并居中的水平菜单按钮。
+
+菜单按钮：使用 3 个带有细金色边框、微妙内发光以及左右边缘附近带有小金钻装饰的深紫色矩形按钮。从上到下，可见的按钮标签必须为：{argument name="first button label" default="対戦を始める"}、{argument name="second button label" default="遊び方"}、{argument name="third button label" default="設定"}。第一个按钮应比其他两个稍亮/更浅，呈现选中状态。
+
+边框与风格：在整个屏幕周围添加细双线金色边框，并在角落处进行装饰性断开，角落附近配有短装饰线段。采用精致的日式哥特美学，色调为柔和的靛蓝/黑/紫色，搭配古董金 UI 点缀，背景艺术具有绘画感，游戏 UI 字体清晰。避免使用现代图标、额外按钮、Logo、水印或角色。
+
+[English]
+Goal: Create a moody Japanese visual-novel title screen for a dark fantasy strategy game named {argument name="game title" default="紫陽花連鎖"}.
+
+Canvas: 4:3 landscape game menu screen, approximately 920×768, with a dark cinematic vignette and refined antique framing.
+
+Background: A rainy midnight Japanese garden scene. Show heavy diagonal rain streaks over a shadowy stone path and wet reflective ground. On the left, place a traditional wooden building with a warm glowing round window; on the right, a dark pagoda-like pavilion with faint warm window lights. Add silhouettes of trees, fences, shrubs, lantern-like structures, and clusters of pale purple hydrangeas in the lower left and lower right foreground. Keep the scenery atmospheric, low-contrast, and mostly obscured by darkness and mist.
+
+Layout: Center the title area in the upper-middle of the screen. Above the title, add a thin gold horizontal divider line split by a small circular emblem containing a simple four-point sparkle/star. Use elegant metallic gold typography for the large Japanese title. Beneath it, add the small subtitle text {argument name="subtitle text" default="六つの領域を、花で突破せよ。"}. Below the subtitle, place exactly 3 horizontal menu buttons stacked vertically and centered.
+
+Menu buttons: Use exactly 3 rectangular dark purple buttons with thin gold borders, subtle inner glow, and small gold diamond ornaments near both left and right edges. The visible button labels, from top to bottom, must be: {argument name="first button label" default="対戦を始める"}, {argument name="second button label" default="遊び方"}, {argument name="third button label" default="設定"}. The first button should be slightly lighter/brighter purple than the other two, as if selected.
+
+Frame and style: Add a thin double-line gold border around the entire screen with small decorative corner breaks and short accent line segments near the corners. Use a refined Japanese gothic aesthetic, muted indigo/black/purple palette, antique gold UI accents, painterly background art, and crisp game UI typography. Avoid modern icons, extra buttons, logos, watermarks, or characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2071118899882643861) | 2026-06-28
+
+---
+
+### 🖥️ 例 2687：绿松石色高山森林池塘
+
+![绿松石色高山森林池塘](../../images/%E7%BB%BF%E6%9D%BE%E7%9F%B3%E8%89%B2%E9%AB%98%E5%B1%B1%E6%A3%AE%E6%9E%97%E6%B1%A0%E5%A1%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的艺术旅行风景摄影作品，展现森林中清澈见底的绿松石色高山池塘，灵感源自日本“青池”景观。构图为 4:5 竖构图，拍摄视角位于略微升高的岸边，前景的灌木丛和小野花环绕底部和两侧，左上角悬挂着几片虚化的枫叶。池水呈生动的青色且透明，可见水面下的浅色岩石和沙质纹理，伴有柔和的涟漪和树木的倒影。池塘中央矗立着许多从水中直立而出的细长枯树干，与倒影交织在一起；背景是深绿色的针叶林和初秋的植被。地平线中央点缀着低矮的林木丘陵和远处的小山脊，天空清澈湛蓝。光线应为明亮的自然正午阳光，阴影清晰，画面高清晰度，色彩饱和但自然，氛围宁静。画面中不含文字，无人物作为主体，无建筑物，无船只，无奇幻元素。
+
+[English]
+Create a realistic fine-art travel landscape photograph of a crystal-clear turquoise alpine pond in a quiet forest, inspired by Japan’s Blue Pond scenery. The composition is vertical 4:5, shot from a slightly elevated shoreline viewpoint with foreground shrubs and small wildflowers framing the bottom and sides, plus a few out-of-focus maple leaves hanging in the upper left corner. The pond water is vivid cyan and transparent, showing pale stones and sandy textures beneath the surface, with soft ripples and mirror reflections of the trees. In the middle of the pond, include many thin dead tree trunks rising straight from the water, mixed with reflections; behind them stands a dense forest of dark green conifers and early autumn foliage. Add low wooded hills and a small distant mountain ridge centered on the horizon under a clean deep blue sky. Lighting should be bright natural midday sunlight with crisp shadows, high clarity, saturated but natural colors, serene atmosphere, no text, no people as the main subject, no buildings, no boats, no fantasy elements.
+```
+
+**来源：** [@むく | AIアートのプロ](https://x.com/muku_sns/status/2071102136650432691) | 2026-06-28
+
+---
+

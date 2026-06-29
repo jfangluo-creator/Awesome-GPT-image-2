@@ -3798,3 +3798,177 @@ Negative prompt: blurry, low quality, extra limbs, deformed anatomy, duplicate o
 
 ---
 
+### 🧸 例 2639：印度白色浅浮雕地图
+
+![印度白色浅浮雕地图](../../images/%E5%8D%B0%E5%BA%A6%E7%99%BD%E8%89%B2%E6%B5%85%E6%B5%AE%E9%9B%95%E5%9C%B0%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高细节的单色白色浅浮雕纸艺地图，主题为 {argument name="country or region" default="India"}，背景为温暖的米白色纹理纸。陆地部分应以清晰的白色石膏/纸质浮雕呈现，地理特征准确且易于辨认：印度大陆居中且比例较大，东北部各邦位于右上角，斯里兰卡位于南端下方，两组群岛以微小的凸起圆点显示在左下角和右下角。地图中填充了雕刻在同一白色材质上的复杂微缩地形和文化细节：北部横跨的喜马拉雅山脉隆起山脊、等高线和梯田地形、由微小点簇组成的森林、河流状的刻线、海岸纹理，以及半岛周围微妙的水平海洋波浪线。在地形中融入 5 个清晰可辨的主要文化/地标图案：印度中北部的泰姬陵、印度西部的大型拱门宫殿/堡垒立面、印度中南部的高耸阶梯式寺庙塔楼、西北部沙漠地区的骆驼，以及南部地区的大象。除白色和淡淡的灰色阴影外，不使用任何颜色；无标签、无边框、无图例、无文字。光线应从左上方柔和射入，投射出精致的阴影，以强调浮雕的深度和极其精细的细节。风格：博物馆级纸张压印、雕塑制图、极简优雅构图、照片级真实感微距产品摄影，居中置于留白充足的纯色背景上。
+
+[English]
+Create a high-detail monochrome white bas-relief paper sculpture map of {argument name="country or region" default="India"} on a warm off-white textured paper background. The landmass should be raised in crisp white plaster/paper relief with accurate recognizable geography: mainland India centered large, the northeastern states detached to the upper right, Sri Lanka below the southern tip, and two island chains shown as small raised dots to the lower left and lower right. Fill the map with intricate miniature topographic and cultural details carved into the same white material: raised Himalayan mountain ridges across the north, contour lines and terraced terrain, forests made of tiny dot clusters, river-like incised lines, coastal texture, and subtle horizontal ocean wave lines around the peninsula. Include exactly 5 major recognizable cultural/landmark motifs integrated into the terrain: the Taj Mahal near north-central India, a large arched palace/fort facade in western India, a tall stepped temple tower in south-central India, a camel in the northwest/desert area, and an elephant in the southern region. Use no color other than white and faint gray shadows; no labels, no borders, no legend, no text. Lighting should come softly from the upper left, casting delicate shadows to emphasize the relief depth and extremely fine detailing. Style: museum-quality paper embossing, sculptural cartography, minimal elegant composition, photorealistic macro product photography, centered on a plain background with generous negative space.
+```
+
+**来源：** [@madarbro](https://x.com/madarbro/status/2071284469429154254) | 2026-06-28
+
+---
+
+### 🧸 例 2650：写实人物与 Q 版迷你形象
+
+![写实人物与 Q 版迷你形象](../../images/%E5%86%99%E5%AE%9E%E4%BA%BA%E7%89%A9%E4%B8%8E%20Q%20%E7%89%88%E8%BF%B7%E4%BD%A0%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将照片转换为与参考图相同的视觉风格，而非 3D 渲染。创建一个真人大小的写实版人物自然地坐在中心，周围环绕着 6–8 个该人物的迷你卡通/Q 版形象。
+
+迷你角色必须具备：
+
+与原图完全相同的面部、发型、肤色和身份特征。
+
+可爱的 2D 卡通/插画 Q 版风格（非 3D，非皮克斯风格，非粘土质感）。
+
+大头小身，同时保持面部特征可辨识。
+
+各种俏皮的姿势和表情。
+
+迷你角色应与主体人物进行互动：
+
+一个亲吻脸颊。
+
+一个拥抱肩膀。
+
+一个坐在肩膀上。
+
+一个抱着泰迪熊。
+
+一个拉扯袖子。
+
+一个坐在膝盖上。
+
+一个开心地挥手。
+
+一个依偎在主体人物身旁。
+
+主体人物应穿着 {argument name="outfit" default="与上传照片中相同的服装"}。场景周围装饰着 {argument name="decorations" default="柔软的泰迪熊、小爱心、闪光点和俏皮的涂鸦元素"}。使用 {argument name="background" default="干净的白色背景搭配黄色点缀"} 以及柔和的自然光。
+
+请勿添加任何文字、标题、标志、水印、贴纸或排版设计。
+
+最终图像应与参考构图完全一致，中心为一名写实人类，周围环绕着多个该人物的可爱 2D 卡通迷你形象。确保所有角色的面部高度一致。超精细、优质插画质感、色彩鲜艳、构图简洁、高分辨率、杰作。
+
+[English]
+Transform the photo into the same visual style as the reference image, not a 3D render. Create one life-size realistic version of the person sitting naturally in the center, surrounded by 6–8 miniature cartoon/chibi versions of the same person.
+
+The miniature characters must have:
+
+The exact same face, hairstyle, skin tone, and identity as the original.
+
+A cute 2D cartoon / illustrated chibi style (not 3D, not Pixar, not clay).
+
+Oversized heads with small bodies while keeping the facial identity recognizable.
+
+Different playful poses and expressions.
+
+The mini characters should interact with the main person:
+
+One kissing the cheek.
+
+One hugging the shoulder.
+
+One sitting on the shoulder.
+
+One holding a teddy bear.
+
+One pulling the sleeve.
+
+One sitting on the lap.
+
+One waving happily.
+
+One cuddling next to the main person.
+
+The main person should wear the {argument name="outfit" default="same outfit as in the uploaded photo"}. Surround the scene with {argument name="decorations" default="soft teddy bears, tiny hearts, sparkles, and playful doodle elements"}. Use a {argument name="background" default="clean white background with yellow accents"} and soft natural lighting.
+
+Do not add any text, captions, logos, watermarks, stickers, or typography.
+
+The final image should look exactly like the reference composition, with one realistic human in the center and multiple cute 2D cartoon mini versions of the same person around them. Keep the face perfectly consistent across every character. Ultra-detailed, premium illustration quality, vibrant colors, clean composition, high resolution, masterpiece.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2071238220071801174) | 2026-06-28
+
+---
+
+### 🧸 例 2692：动漫转写实 3D CG 重制
+
+![动漫转写实 3D CG 重制](../../images/%E5%8A%A8%E6%BC%AB%E8%BD%AC%E5%86%99%E5%AE%9E%203D%20CG%20%E9%87%8D%E5%88%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为构图和角色基础，将该动漫插画重制为高质量的写实 3D CG 渲染图。保留相同的姿势、后方四分之三视角、艺术体操丝带轨迹、黑色背景、服装设计、发型、蝴蝶结以及整体构图。将画作转换为精致的半写实手办/写实角色风格，呈现逼真的皮肤质感、自然的身体结构、雕塑般的肌肉线条、光泽感面料、细腻的发丝、真实的灯光效果、柔和的阴影，以及白色丝带上的金属缎面高光。保持垂直构图和戏剧性效果，呈现出高级工作室渲染的质感，同时确保原始轮廓和动作保持不变。
+
+[English]
+Using REFERENCE_0 as the exact composition and character base, remake the anime illustration as a high-quality realistic 3D CG render. Preserve the same pose, rear three-quarter camera angle, rhythmic-gymnastics ribbon path, black background, outfit design, hair arrangement, bow, and overall framing. Convert the drawing into a polished semi-real figurine/realistic character style with lifelike skin shading, natural anatomy, sculpted muscle definition, glossy fabric, detailed hair strands, realistic lighting, soft shadows, and metallic-satin highlights on the white ribbon. Keep the image vertical and dramatic, like a premium studio render, while maintaining the original silhouette and action.
+```
+
+**来源：** [@真坂参志郎](https://x.com/SanShiroH_X/status/2071084142176223650) | 2026-06-28
+
+---
+
+### 🧸 例 2706：身穿牛仔背带裤的 Q 版女孩
+
+![身穿牛仔背带裤的 Q 版女孩](../../images/%E8%BA%AB%E7%A9%BF%E7%89%9B%E4%BB%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E7%9A%84%20Q%20%E7%89%88%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高质量、可爱的 Q 版 3D 角色插画，主角是一个名叫 {argument name="character name" default="Payal"} 的小女孩，她有着大大的脑袋、柔和的五官以及自信俏皮的神态。她留着 {argument name="hair color" default="深棕色"} 头发，中分并扎成两个松散的低马尾，发丝轻盈飘逸。她戴着一副大大的圆形 {argument name="sunglasses color" default="黑色"} 太阳镜，右手轻轻抬起镜框一侧，微微嘟起的小嘴流露出酷酷且自信的表情。她穿着一件简约的 {argument name="shirt color" default="白色"} 短袖 T 恤，外搭深蓝色牛仔背带裤，裤子上带有明显的缝线、金属纽扣、肩带、前胸口袋、侧袋以及卷起的裤脚。搭配白色短袜和干净的白色系带运动鞋。全身站姿，一只手叉腰，膝盖微屈，双脚分开，身体微微倾斜，尽显俏皮。背景为干净无缝的白色摄影棚，光线柔和均匀，鞋底下方有轻微的接触阴影，呈现出精致的玩具质感 3D 渲染效果，布料纹理细节丰富，比例可爱，焦点清晰，构图居中，无文字，无水印。
+
+[English]
+Create a high-quality cute chibi-style 3D character illustration of a little girl named {argument name="character name" default="Payal"} with an oversized head, big soft facial features, and a confident playful attitude. She has {argument name="hair color" default="dark brown"} hair parted near the center and tied into two loose low pigtails with wispy flyaway strands. She wears large round {argument name="sunglasses color" default="black"} sunglasses, slightly tilted as she lifts one side with her right hand, and she has a small pouty mouth with a cool, self-assured expression. Dress her in a plain {argument name="shirt color" default="white"} short-sleeve t-shirt under dark blue denim overalls with visible stitching, metal buttons, shoulder straps, a front bib pocket, side pockets, and rolled cuffs. Add white ankle socks and clean white lace-up sneakers. Pose her full body standing with one hand on her hip, one knee relaxed, feet apart, and a slight sassy lean. Use a clean seamless white studio background, soft even lighting, gentle contact shadow under the shoes, polished toy-like 3D rendering, highly detailed fabric texture, adorable proportions, sharp focus, centered composition, no text, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2071059499692294180) | 2026-06-28
+
+---
+
+### 🧸 例 2711：写实风格铁路制服人像
+
+![写实风格铁路制服人像](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E9%93%81%E8%B7%AF%E5%88%B6%E6%9C%8D%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 REFERENCE_0 作为姿势/构图指南，并以 REFERENCE_1 作为角色、面部、制服和帽子的准确参考，生成一张写实风格的全身真人照片。将 REFERENCE_0 中的 3D 模型外观转换为自然的真实照片，同时保持相同的低角度站姿：一只手臂向侧面伸展，另一只手臂自然下垂，从略低的角度拍摄，展现自信挺拔的站姿。保留 REFERENCE_1 中角色的制服设计和面部特征，包括海军蓝列车员风格服装、白色饰边、金色纽扣、黑色领带、裙子、透明连裤袜、黑色高跟靴以及带有 N 标志的制服帽。
+
+场景转换：将她置于铁轨旁隆起的泥土或混凝土路基上，背景为站台、铁轨、高架线路以及远处的城市/工业建筑。时间设定为黄金时刻的日落，太阳位于右侧地平线附近，呈现温暖的逆光、柔和的镜头光晕和真实的空气朦胧感。
+
+风格：写实 DSLR 时尚/编辑摄影，自然的皮肤纹理，逼真的布料和皮革材质，浅景深，电影感暖色调灯光，去除所有残留的 CG/3D 渲染感。
+
+构图：竖版全身人像，低机位拍摄，靴子位于画面底部边缘，主体略微偏左居中，背景经过柔化处理，但仍可辨认出是火车站区域。
+
+约束条件：不要创建角色设定图，不要包含标签或文字，不要添加额外人物，并确保制服细节忠实于参考图。使用 {argument name="time of day" default="golden-hour sunset"}、{argument name="location" default="railway tracks and station overlook"} 以及 {argument name="photo style" default="photorealistic cinematic DSLR fashion portrait"}。
+
+[English]
+Using REFERENCE_0 as the pose/composition guide and REFERENCE_1 as the accurate character, face, uniform, and hat reference, generate a photorealistic full-body live-action image. Convert the 3D-model look from REFERENCE_0 into a natural real photograph while keeping the same low-angle standing pose: one arm extended outward to the side, the other arm relaxed downward, body viewed from slightly below, confident upright stance. Preserve the character’s uniform design and facial identity from REFERENCE_1, including the navy conductor-style outfit, white trim, gold buttons, black tie, skirt, sheer tights, heeled black boots, and peaked cap with the N emblem.
+
+Scene change: place her outdoors on a raised dirt or concrete embankment beside railway tracks, with train platforms, rails, overhead lines, and distant city/industrial structures in the background. Set the time to golden-hour sunset with the sun low near the horizon on the right side, warm backlight, soft lens glow, and realistic atmospheric haze.
+
+Style: realistic DSLR fashion/editorial photography, natural skin texture, realistic fabric and leather materials, shallow depth of field, cinematic warm lighting, no remaining CG/3D-rendered appearance.
+
+Framing: vertical full-body portrait, low camera angle, boots visible near the bottom edge, subject centered slightly left, background softly blurred but recognizable as a railway station area.
+
+Constraints: do not create a character sheet, do not include labels or text, do not add extra people, and keep the uniform details faithful to the references. Use {argument name="time of day" default="golden-hour sunset"}, {argument name="location" default="railway tracks and station overlook"}, and {argument name="photo style" default="photorealistic cinematic DSLR fashion portrait"}.
+```
+
+**来源：** [@kuripon](https://x.com/malonpon/status/2071039922652545450) | 2026-06-28
+
+---
+

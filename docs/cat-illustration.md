@@ -5802,3 +5802,149 @@ Create a bright, highly detailed anime-style summer landscape illustration of a 
 
 ---
 
+### 🎨 例 2641：极简主义浮雕纸艺
+
+![极简主义浮雕纸艺](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B5%AE%E9%9B%95%E7%BA%B8%E8%89%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+"{argument name="subject" default="[SUBJECT]"} 呈现为浮雕纸艺作品，仅有微妙的凸起纹理，无墨水，单色白底构图，优雅的阴影，奢华文具美学，博物馆级极简主义。"
+
+[English]
+"{argument name="subject" default="[SUBJECT]"} rendered as a blind embossed paper artwork, subtle raised textures only, no ink, monochromatic white-on-white composition, elegant shadows, luxury stationery aesthetic, museum-quality minimalism."
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2071270249492865174) | 2026-06-28
+
+---
+
+### 🎨 例 2643：月下樱花神社幻想
+
+![月下樱花神社幻想](../../images/%E6%9C%88%E4%B8%8B%E6%A8%B1%E8%8A%B1%E7%A5%9E%E7%A4%BE%E5%B9%BB%E6%83%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超精细的方形幻想动漫风景插画，描绘梦幻般的夜间日本神社领域。画面中心是一座发光的传统神道教风格神社，拥有红色立柱和华丽的蓝色弧形屋顶，坐落在一座漂浮于月光海洋之上的樱花覆盖岛屿上。背景中，一轮巨大的明亮满月占据了天空的大部分，可见陨石坑和放射状光环；天空呈现深靛色和紫色，布满繁星、星云般的云彩以及闪烁的魔法粒子。场景周围环绕着丰富的 {argument name="flowering tree type" default="粉色樱花"} 枝条，装点在左上角、右边缘和下角，花瓣在空中飘落。包含整整八只可见的白鹤：左下角前景有一只大鹤，下部中心附近有一只向上飞的鹤，月光云层前左中位置有一只鹤，神社中心附近有一只横穿的鹤，右中云层附近有一只鹤，右上角有一只大鹤，以及月亮和高空附近有两只剪影状的远方小鹤。包含整整六座红色鸟居：右侧前景岛屿上有一座大鸟居，左侧雾气缭绕的山坡上有一座小鸟居，中心神社下方有一座小鸟居，右中远景处有两座渐行渐远的小鸟居，右下角最远处有一座小鸟居。在枝头和神社屋檐下添加温暖的灯笼，神社台阶上有柔和的金色灯光，底部中心闪烁的水面上有一艘载着单人坐姿的小船以体现比例。海洋应为深蓝色，带有闪烁的高光、泡沫波浪以及指向小船的明亮月影。采用高度精美的电影感幻想艺术风格，展现复杂的建筑细节、体积云、浪漫的灯光、柔和的粉紫色调、发光的蓝色、金色点缀、空灵的薄雾以及神圣的奇观感。主要氛围：{argument name="mood" default="魔幻、宁静且令人敬畏"}。主要设定：{argument name="setting" default="一座漂浮在云海之上、巨月之下的天界日本神社"}。避免出现文字、标志、边框、现代物品或写实风格的生硬感。
+
+[English]
+Create an ultra-detailed square fantasy anime landscape illustration of a dreamlike Japanese shrine realm at night, centered on a glowing traditional Shinto-style shrine with red pillars and ornate curved blue roofs, perched on a floating cherry-blossom-covered island above a moonlit ocean. Behind it, place an enormous luminous full moon filling much of the sky, with visible craters and a radiant halo; the sky is deep indigo and violet, full of stars, nebula-like clouds, and sparkling magical particles. Surround the scene with abundant {argument name="flowering tree type" default="pink cherry blossoms"} branches framing the upper left, right edge, and lower corners, with petals drifting through the air. Include exactly eight visible white cranes: one large crane in the lower left foreground, one crane flying upward near the lower center, one crane at mid-left in front of the moonlit clouds, one crane crossing the center near the shrine, one crane at mid-right near the clouds, one large crane in the upper right corner, and two smaller distant cranes silhouetted near the moon and upper sky. Include exactly six red torii gates: one large gate on the right foreground island, one small gate on the left misty hillside, one small gate below the shrine near the center, two small gates receding into the right-middle distance, and one small gate at the far lower right. Add warm glowing lanterns hanging from branches and shrine eaves, soft golden lights on the shrine stairs, and a tiny boat with a single seated figure on the shining water near the bottom center for scale. The ocean should be dark blue with sparkling highlights, foamy waves, and a bright moon reflection leading toward the boat. Use a highly polished cinematic fantasy art style with intricate architectural detail, volumetric clouds, romantic lighting, pastel pinks and purples, luminous blues, golden accents, ethereal mist, and a sense of sacred wonder. Main mood: {argument name="mood" default="magical, serene, and awe-inspiring"}. Main setting: {argument name="setting" default="a celestial Japanese shrine floating among clouds and sea under a giant moon"}. Avoid text, logos, borders, modern objects, or photorealistic harshness.
+```
+
+**来源：** [@りばーじゅ2015 @多発性硬化症入門書販売中](https://x.com/rivage2015/status/2071261797286563928) | 2026-06-28
+
+---
+
+### 🎨 例 2656：浮雕纸艺
+
+![浮雕纸艺](../../images/%E6%B5%AE%E9%9B%95%E7%BA%B8%E8%89%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="[SUBJECT]"} 呈现为浮雕纸艺作品，仅保留细腻的凸起纹理，无油墨，单色白底构图，优雅的阴影效果，奢华文具美学，博物馆级极简主义。
+
+[English]
+{argument name="subject" default="[SUBJECT]"} rendered as a blind embossed paper artwork, subtle raised textures only, no ink, monochromatic white-on-white composition, elegant shadows, luxury stationery aesthetic, museum-quality minimalism.
+```
+
+**来源：** [@AI XO](https://x.com/Airijinpei/status/2071223449079754808) | 2026-06-28
+
+---
+
+### 🎨 例 2662：大正浪漫风动漫头像
+
+![大正浪漫风动漫头像](../../images/%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%E9%A3%8E%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫封面插画，主角是 {argument name="character name" default="一位仓鼠风格的拟人化少女头像"}，背景设定在怀旧的大正浪漫风商业街。构图采用腰部以上的四分之三侧身近景，少女身体微侧，回眸看向观众。她拥有白瓷般的肌肤、明亮的大眼睛，颜色为 {argument name="eye color" default="淡紫色"}，嘴唇色泽自然柔和，神情宁静而略带怀旧。她的发色为 {argument name="hair color" default="灰米色"}，留着短卷波波头，配有厚实的直刘海，脸颊两侧有精致的松散卷发，脑后系着一个巨大的淡紫色蝴蝶结。她身穿一件淡紫白色的和服，带有微妙的紫色阴影、黑色领边、浅蓝色腰带装饰，以及背部一个巨大的深紫色蝴蝶结。她双手将一本闭合的复古书籍或账本垂直抱在胸前，书页和陈旧的封面清晰可见。背景设定在明亮的逆光下，呈现出欧式与大正风格融合的复古街道，街道两旁布满老式店铺建筑、遮阳篷、阳台、招牌和鹅卵石路面；画面中远景和近景处需包含恰好 7 个行人剪影，剪影处理得深邃柔和以增强空间感。采用高调阳光、白色雾气、柔和光晕、纤细精致的漫画线条、优雅的淡彩配色、精致闪亮的双眼、细腻的发丝纹理，营造出浪漫的专辑封面氛围。画面中可点缀少量散落的花瓣或花瓣状的光斑，但不能遮挡面部。画面中不得出现可辨认的文字、水印、现代物品，前景中不得有遮挡主体的多余角色。
+
+[English]
+Create a vertical anime jacket-cover illustration of {argument name="character name" default="a hamster-inspired anthropomorphic avatar girl"} standing in a nostalgic Taisho-romantic shopping street. The composition is a close three-quarter portrait from the waist up, with the girl turned slightly away but looking back over her shoulder toward the viewer. She has pale porcelain skin, large luminous {argument name="eye color" default="lavender purple"} eyes, soft neutral lips, and a calm, wistful expression. Her hair is {argument name="hair color" default="ash-blonde beige"}, cut in a short curly bob with thick straight bangs, delicate loose ringlets around her cheeks, and a large lavender ribbon bow tied at the back of her head. Dress her in a pale lavender-white kimono with subtle purple shading, black collar edging, a light blue obi accent, and a large dark violet bow at the back. She holds one closed vintage book or ledger vertically against her chest with both hands, its pages and aged cover visible. Set the background on a bright backlit European-meets-Taisho retro street lined with old shop buildings, awnings, balconies, signs, and cobblestone paving; include exactly 7 visible pedestrian silhouettes in the distance and foreground, rendered dark and soft to emphasize depth. Use high-key sunlight, white haze, gentle bloom, thin detailed manga linework, refined pastel coloring, elegant glossy eyes, intricate hair strands, and a romantic album-cover mood. Add a subtle suggestion of scattered flowers or petal-like light flecks without cluttering the face. No readable text, no watermark, no modern objects, no extra characters in the foreground blocking the subject.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2071212825423630384) | 2026-06-28
+
+---
+
+### 🎨 例 2684：Aya 动漫角色设计图
+
+![Aya 动漫角色设计图](../../images/Aya%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Aya"} 创建一张精致的动漫角色设计图。她是一位 21 岁的时尚日本自由式舞者兼街头表演者，拥有长波浪金发、绿眼睛、阳光般的肤色以及自信且崇尚自由的性格。
+
+画布：方形角色设计图，高分辨率，左侧为大型深炭灰色主展示区，右侧为米色参考项目，底部有一条窄米色带。使用整洁的排版间距、细分割线和小型大写无衬线标签。整体风格为细节丰富的现代动漫概念艺术，采用暖色调灯光、黑/米/橙配色方案、清晰的线条和绘画风格的阴影。
+
+左侧主面板：展示两个相同角色的全身大图：1. 正面姿势，高挑放松，一只手插在短裤口袋里，头发随风飘动；2. 背面视图，长发垂在背部。服装：黑色露肩高领长袖上衣，黑色磨边高腰牛仔短裤配黄铜纽扣，红橙色腰带配金色带扣和侧带，厚底松垮的焦橙色靴子配带扣和黑色鞋底，金色圆环耳环，红色吊坠耳环。在左上角放置巨大的米色文字“AYA”，下方配有金色的手写签名“Aya”。
+
+左侧个人简介文字：在小型的米色/金色栏中包含以下标注信息：全名 Aya；年龄 21 岁；身高 168 cm；生日 5 月 12 日；国籍 日本；职业 自由式舞者 / 街头表演者；性格 自信、崇尚自由、极其独立、对团队忠诚；喜好 音乐、时尚、阳光、辛辣食物、深夜屋顶聚会；厌恶 限制自由的规则、虚伪的人、被低估；签名：金色手写“Aya”并带有一颗小星星。
+
+右侧参考项目：精确排列 6 个标注部分。第 1 部分“FACIAL REFERENCES”包含 3 个头部肖像：正面视图、四分之三侧视图和侧面轮廓。第 2 部分“EXPRESSIONS”包含 8 个半身肖像，以 4x2 网格排列，标注为：中立 (Neutral)、自负 (Smug)、快乐 (Happy)、大笑 (Laughing)、严肃 (Serious)、恼火 (Annoyed)、惊讶 (Surprised)、坚定 (Determined)。第 3 部分“OUTFIT DETAILS”包含 3 张单品卡片：黑色露脐上衣、配橙色腰带的黑色牛仔短裤、橙色松垮靴子。第 4 部分“ACCESSORIES”包含 2 张特写卡片：金/红耳环和腰带/侧带细节。第 5 部分“COLOR PALETTE”包含 6 个圆形色块，标注十六进制颜色：#F2D988, #2E7032, #1E1E1E, #B4542C, #D99C24, #F1C79A。第 6 部分“KEY VISUALS / MOOD”包含 3 张 Aya 在城市夜晚或黄金时刻场景下的小型电影感图像。
+
+底部条带：添加一个“TURNAROUND”部分，包含 4 个小型全身视图：正面、四分之三正面、侧面和背面。添加一个“DETAILS & NOTES”部分，包含 5 个要点：长波浪金发，自然飘逸；耳洞配有金红色耳环；佩戴带有长带的腰带以增加时尚感；磨边牛仔短裤便于活动；标志性的松垮靴子打造街头造型。添加一个微小的页脚，内容为“CHARACTER DESIGN SHEET - AYA - 21 YEARS OLD - FREESTYLE DANCER”。
+
+视觉约束：保持所有文字清晰且拼写正确，保留 2 个全身大图、3 个面部参考、8 个表情、3 个服装细节卡片、2 个配饰卡片、6 个色块、3 张氛围图、4 个转向视图和 5 个备注的精确数量。无徽标，无水印，无多余字符。
+
+[English]
+Goal: Create a polished anime character design sheet for {argument name="character name" default="Aya"}, a stylish 21-year-old Japanese freestyle dancer and street performer with long wavy blonde hair, green eyes, sun-kissed skin, and a confident free-spirited attitude.
+
+Canvas: Square character sheet, high-resolution, split into a large dark charcoal main showcase panel on the left and a cream reference-board panel on the right, with a narrow cream strip along the bottom. Use clean editorial spacing, thin divider lines, and small uppercase sans-serif labels. Overall style is detailed modern anime concept art with warm lighting, black/cream/orange palette, crisp linework, and painterly shading.
+
+Left main panel: Show two large full-body views of the same character: 1 front-facing pose, tall and relaxed with one hand in her shorts pocket and wind-swept hair; 2 rear view, standing with long hair cascading down her back. Outfit: black cropped cold-shoulder turtleneck long-sleeve top, black frayed high-waisted denim shorts with brass buttons, red-orange belt with gold buckle and side strap, chunky slouchy burnt-orange boots with buckles and black soles, gold hoop earrings, red dangling earrings. Put huge cream text “AYA” at top left with a gold handwritten signature “Aya” below it.
+
+Left bio text: Include these labeled facts in a small cream/gold column: Full name Aya; Age 21; Height 168 cm; Birthday May 12; Nationality Japanese; Occupation Freestyle Dancer / Street Performer; Personality Confident, free-spirited, fiercely independent, loyal to her crew; Likes Music, fashion, sunlight, spicy food, late-night rooftop hangs; Dislikes Rules that limit freedom, fake people, being underestimated; Signature: gold handwritten “Aya” with a small star.
+
+Right reference panel: Arrange exactly 6 labeled sections. Section 1 “FACIAL REFERENCES” contains exactly 3 head portraits: front view, three-quarter view, and side profile. Section 2 “EXPRESSIONS” contains exactly 8 bust portraits in a 4-by-2 grid, labeled Neutral, Smug, Happy, Laughing, Serious, Annoyed, Surprised, Determined. Section 3 “OUTFIT DETAILS” contains exactly 3 item cards: cropped black top, black denim shorts with orange belt, and orange slouch boots. Section 4 “ACCESSORIES” contains exactly 2 close-up cards: gold/red earrings and belt/side strap detail. Section 5 “COLOR PALETTE” contains exactly 6 circular swatches labeled with hex colors: #F2D988, #2E7032, #1E1E1E, #B4542C, #D99C24, #F1C79A. Section 6 “KEY VISUALS / MOOD” contains exactly 3 small cinematic images of Aya in urban night or golden-hour settings.
+
+Bottom strip: Add a “TURNAROUND” section with exactly 4 small full-body views: front, three-quarter front, side, and back. Add a “DETAILS & NOTES” section with exactly 5 bullet points: Long wavy blonde hair with natural flow; Pierced ears with gold & red earrings; Wears a belt with a long strap for style; Frayed denim shorts for mobility; Signature slouchy boots for street look. Add a tiny footer reading “CHARACTER DESIGN SHEET - AYA - 21 YEARS OLD - FREESTYLE DANCER”.
+
+Visual constraints: Keep all text legible and spelled correctly, preserve the exact counts of 2 large full-body views, 3 facial references, 8 expressions, 3 outfit detail cards, 2 accessory cards, 6 color swatches, 3 mood images, 4 turnaround views, and 5 notes. No logos, no watermark, no extra characters.
+```
+
+**来源：** [@heydei](https://x.com/deikrea/status/2071114179986280913) | 2026-06-28
+
+---
+
+### 🎨 例 2691：动漫宇宙风格横幅
+
+![动漫宇宙风格横幅](../../images/%E5%8A%A8%E6%BC%AB%E5%AE%87%E5%AE%99%E9%A3%8E%E6%A0%BC%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级动漫风格的超宽社交媒体个人资料横幅，艺术作品上下方带有黑色遮幅。场景展示了两个角色在发光的太空高速公路上飞行：前景中，一名充满活力的 {argument name="main character" default="少年"} 低身蹲在未来感滑板/悬浮滑板上，身体前倾，单臂伸展以保持平衡，身穿浅色连帽衫、深色短裤、袜子和黑色运动鞋；在他身旁稍后方，漂浮着一名娇小的天使般 {argument name="companion character" default="白发女孩"}，她有着巨大的白色羽翼、白皙的皮肤、褶边白裙，表情柔和而闪耀。背景是深蓝紫色的银河，点缀着恒星、行星、卫星、带环行星、远处的未来感水晶塔、全息几何结构以及发光的轨道城市平台。一条宽阔的丝带状宇宙公路从左侧背景向中心前景延伸，并向远处弯曲，由闪烁的青色、紫色、粉色和白色光轨组成，营造出强烈的速度感与奇幻感。采用戏剧性的透视、细腻的动漫面部刻画、柔和的轮廓光、璀璨的粒子特效、高对比度、魔法科幻氛围以及精致的数字插画质量。画布比例应为特殊的超宽横幅格式，约为 {argument name="aspect ratio" default="3:1"}，角色位于画面中偏右位置，横幅两侧延伸出丰富的宇宙景观。画面中不包含任何文字、Logo、水印或 UI 元素。
+
+[English]
+Create an ultra-wide social media profile header banner in cinematic anime style, with black letterbox margins above and below the artwork. The scene shows two characters flying through a luminous outer-space highway: a dynamic {argument name="main character" default="teen boy"} crouches low on a futuristic skateboard/hoverboard in the foreground, leaning forward with one arm extended for balance, wearing a light hoodie, dark shorts, socks, and black sneakers; beside and slightly behind him floats a tiny angelic {argument name="companion character" default="white-haired girl"} with large white feathered wings, pale skin, a frilly white dress, and a soft glowing expression. The background is a deep blue-purple galaxy filled with stars, planets, moons, ringed planets, distant futuristic crystal towers, holographic geometric structures, and glowing orbital city platforms. A wide ribbon-like cosmic road sweeps from the left background toward the center foreground and curves into the distance, made of sparkling cyan, violet, pink, and white light trails, giving strong speed and wonder. Use dramatic perspective, detailed anime faces, soft rim lighting, radiant particle effects, high contrast, magical sci-fi atmosphere, and polished digital illustration quality. Canvas ratio should be an unusual very wide header format, approximately {argument name="aspect ratio" default="3:1"}, with the characters centered slightly right and plenty of cosmic scenery extending across the banner. No text, logos, watermarks, or UI elements.
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2071093579381096686) | 2026-06-28
+
+---
+
+### 🎨 例 2700：猫咪经理与企鹅店员
+
+![猫咪经理与企鹅店员](../../images/%E7%8C%AB%E5%92%AA%E7%BB%8F%E7%90%86%E4%B8%8E%E4%BC%81%E9%B9%85%E5%BA%97%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+{argument name="店長" default="猫"}店長と{argument name="店員" default="ペンギン"}店員
+```
+
+**来源：** [@てんしょんまる](https://x.com/881tension/status/2071073376605794374) | 2026-06-28
+
+---
+

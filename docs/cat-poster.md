@@ -12002,3 +12002,415 @@ The overall poster should deliver a polished, premium, and contemporary visual i
 
 ---
 
+### 🎴 例 2636：Nike 红色街头风运动鞋广告企划
+
+![Nike 红色街头风运动鞋广告企划](../../images/Nike%20%E7%BA%A2%E8%89%B2%E8%A1%97%E5%A4%B4%E9%A3%8E%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位年轻男性，拥有 {argument name="skin tone" default="浅中等肤色"}，留着短卷发渐变发型，棕色眼睛，修剪整齐的短胡须。他身穿亮面红色廓形羽绒服、红色阔腿裤，脚穿红白配色 Nike 运动鞋。姿势：低姿蹲伏，一膝抬起，另一条腿向前伸展，左臂随意搭在弯曲的膝盖上，右手自然垂在另一条腿旁，身体略微侧转，头部前倾，自信地注视着镜头。采用超广角低视角拍摄，使前方的运动鞋在前景中占据主导地位。场景：全红色的摄影棚环境，地面和背景平滑，饰有巨大的白色 {argument name="brand logo" default="Nike Swoosh"} 标志和飘逸的丝带状红色形状。超写实摄影，面料和运动鞋纹理极其清晰，戏剧性的摄影棚灯光，强光与柔和阴影交织，饱和的 {argument name="color palette" default="以白色为点缀的单色红色调"}，现代街头风广告美学。无模糊，无畸变，无多余肢体，无伪影。
+
+[English]
+A young man with {argument name="skin tone" default="light-medium skin"}, short dark curly hair in a fade cut, brown eyes and a neatly trimmed short beard. He's wearing a glossy oversized red puffer jacket, baggy red pants, and white-and-red Nike sneakers. Pose: crouching low, one knee raised and one leg extended forward, left arm draped casually over the bent knee, right hand relaxed near the other leg, body angled slightly to the side, head tilted forward staring confidently into the camera. Shot from an ultra-wide-angle low perspective so the front sneaker dominates the foreground. Setting: a fully red studio environment with a smooth floor and backdrop featuring oversized white {argument name="brand logo" default="Nike Swoosh"} logos and flowing ribbon-like red shapes. Hyper-realistic photography with razor-sharp fabric and sneaker texture, dramatic studio lighting with strong highlights and soft shadows, saturated {argument name="color palette" default="monochromatic red palette with white accents"}, modern streetwear campaign aesthetic. No blur, no distortion, no extra limbs, no artifacts.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2071293448242823498) | 2026-06-28
+
+---
+
+### 🎴 例 2647：抽象粒子日式海报
+
+![抽象粒子日式海报](../../images/%E6%8A%BD%E8%B1%A1%E7%B2%92%E5%AD%90%E6%97%A5%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+由数千个柔和黑色喷雾粒子构成的抽象 {argument name="subject" default="幽灵动物"}，逐渐淡入纯白色背景，面部呈现为平滑的黑色虚空，喷枪渐变过渡，轮廓消散，精致的气溶胶颗粒感，日本先锋海报设计，实验性极简主义，视觉静谧，极致的留白，微妙的模糊，墨云美学，当代画廊艺术品，单色，白色背景，仅使用黑色颜料，柔和扩散，边缘溶解，低细节，氛围抽象
+
+[English]
+Abstract {argument name="subject" default="ghost animal"} formed from thousands of soft black spray particles, fading into a pure white background, face rendered as a smooth black void, airbrush gradient transitions, disappearing silhouette, delicate aerosol grain, Japanese avant-garde poster design, experimental minimalism, visual silence, extreme negative space, subtle blur, ink cloud aesthetic, contemporary gallery artwork, monochrome, white background, black pigment only, soft diffusion, dissolving edges, low detail, atmospheric abstraction
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2071247317035069685) | 2026-06-28
+
+---
+
+### 🎴 例 2648：日本 SaaS AI 提示词管理广告
+
+![日本 SaaS AI 提示词管理广告](../../images/%E6%97%A5%E6%9C%AC%20SaaS%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%AE%A1%E7%90%86%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="product name" default="BananaNL"} 创建一张正方形的日本宣传横幅，该服务旨在跨多个 AI 工具管理和复用 AI 图像提示词。
+
+画布：1:1 正方形社交媒体广告，768×768 风格，柔和的淡紫色到白色渐变背景，大胆的现代 SaaS 广告外观，高对比度的海军蓝和紫色排版，圆角 UI 卡片，干净的阴影。
+
+布局：左上角放置一个可爱的白色幽灵吉祥物图标，带有两只黑眼睛和一张微笑的嘴。在其右侧放置产品名称 “BananaNL”（深海军蓝加粗），下方用紫色标注较小的标语 “プロンプトとAI画像を、ひとつに。”。右上角有一个圆角紫色药丸形徽章，包含三行白色文字：“ChatGPT / Gemini”、“Grok / NotebookLM”、“対応！”。左侧中心放置巨大的日语主标题，分为两行：“AI作業を、”（深海军蓝）和 “ひとつに。”（鲜艳的紫色）。添加一个弯曲的紫色箭头，从标题指向右下方支持的服务列表。
+
+主视觉：在下方中间，展示一个大型悬浮浏览器/应用窗口模型，具有圆角和浅色 UI。它应显示一个提示词收藏库，包含 6 张可见的缩略图卡片，排列为 2 行 3 列。可见的缩略图风格为：1) 平面企业插画，2) 涂鸦笔记本蓝色墨水草图，3) 黏土定格动画可爱场景，4) 黑色黑板布局，5) 色彩丰富的文字密集型标准设计，6) 单色漫画页面。顶部栏应包含小的类别标签/图标，如 “Collection”、“今日”、“プレミアム”、“ビジネス” 和 “人気300”，以及小的窗口控制图标。在缩略图下方添加小的日语 UI 文字，建议热门提示词，例如 “人気プロンプト 30件 + プロンプト300”，以及小的页脚链接，如 “FAQ | BananaX Prompt | BananaX Biz”。在模型左下角添加一个小的黄色圆角徽章，写着 “AI Chat連携が人気→”。
+
+右侧集成列表：放置 4 张堆叠的圆角白色服务卡片，通过一条淡淡的虚线垂直线与应用模型相连。四张卡片从上到下依次为：1) 带有绿色结状图标的 ChatGPT，2) 带有蓝色闪光图标的 Gemini，3) 带有黑色斜线圆形标志的 Grok，4) 带有黑色弧线/彩虹图标的 NotebookLM。使用加粗的黑色服务名称。
+
+功能条：在 CTA 上方的底部，创建一个半透明的白色圆角矩形，包含 4 个均等的功能块。每个功能块都有一个紫色圆角方形图标和日语标题/正文。4 个功能块为：1) 书签图标，标题 “保存”，正文 “お気に入りのプロンプトを保存”；2) 放大镜图标，标题 “検索”，正文 “必要なプロンプトをすぐに見つけられる”；3) 图像图标，标题 “画像管理”，正文 “AIで作った画像をまとめて管理”；4) 刷新/复用箭头图标，标题 “再利用”，正文 “複数のAIサービスでシームレスに活用”。
+
+底部 CTA 条：全宽深紫色页脚带。左侧包含相同的幽灵吉祥物和白色大字 “無料で始められます！”。右侧包含一个黄色圆角药丸形标注，带有深海军蓝文字：“1日3回まで無料” 和较小的行 “シェアでさらに5回追加！”，以及小的黄色强调光芒。
+
+视觉风格：友好的日本初创公司 SaaS 广告，精致的矢量 UI，柔和的阴影，圆角，极简风格，紫色渐变点缀，海军蓝标题，清晰易读的日语排版。保持所有日语文字清晰可读，并准确保留 AI 服务名称。不要添加额外的服务卡片、额外的功能块、水印或不相关的徽标。
+
+[English]
+Goal: Create a square Japanese promotional banner for {argument name="product name" default="BananaNL"}, a service that manages and reuses AI image prompts across multiple AI tools.
+
+Canvas: 1:1 square social media ad, 768×768 style, soft lavender-to-white gradient background, bold modern SaaS advertising look, high contrast navy and purple typography, rounded UI cards, clean shadows.
+
+Layout: Top left has a cute white ghost mascot icon with two black eyes and a smiling mouth. To its right place the product name “BananaNL” in bold dark navy, with the smaller tagline “プロンプトとAI画像を、ひとつに。” underneath in purple. Top right has one rounded purple pill badge containing three lines of white text: “ChatGPT / Gemini”, “Grok / NotebookLM”, “対応！”. Center-left contains the huge main headline in Japanese, split across two lines: “AI作業を、” in dark navy and “ひとつに。” in vivid purple. Add a curved purple arrow pointing from the headline down/right toward the supported-service list.
+
+Main visual: In the lower middle, show a large floating browser/app window mockup with rounded corners and a pale UI. It should display a prompt collection gallery with exactly 6 visible thumbnail cards arranged in 2 rows by 3 columns. The visible thumbnail styles are: 1) flat corporate illustration, 2) doodle notebook blue-ink sketch, 3) clay stop-motion cute scene, 4) black chalkboard layout, 5) colorful text-heavy standard design, 6) monochrome manga page. The top bar should include small category labels/icons such as “Collection”, “今日”, “プレミアム”, “ビジネス”, and “人気300”, plus small window control icons. Under the thumbnails add small Japanese UI text suggesting popular prompts, for example “人気プロンプト 30件 + プロンプト300”, and small footer links like “FAQ | BananaX Prompt | BananaX Biz”. Add a small yellow rounded badge on the lower left of the mockup reading “AI Chat連携が人気→”.
+
+Right side integration list: Place exactly 4 stacked rounded white service cards connected by a faint dotted vertical line from the app mockup. The four cards, from top to bottom, are: 1) ChatGPT with green knot-like icon, 2) Gemini with blue sparkle icon, 3) Grok with black slashed circular logo, 4) NotebookLM with black arc/rainbow icon. Use bold black service names.
+
+Feature strip: Along the bottom above the CTA, create exactly 4 equal feature blocks on a white translucent rounded rectangle. Each block has a purple rounded-square icon and Japanese heading/body text. The 4 blocks are: 1) bookmark icon, heading “保存”, body “お気に入りのプロンプトを保存”; 2) magnifying glass icon, heading “検索”, body “必要なプロンプトをすぐに見つけられる”; 3) image icon, heading “画像管理”, body “AIで作った画像をまとめて管理”; 4) refresh/reuse arrows icon, heading “再利用”, body “複数のAIサービスでシームレスに活用”.
+
+Bottom CTA bar: Full-width deep purple footer band. On the left include the same small ghost mascot and large white text “無料で始められます！”. On the right include a yellow rounded pill callout with dark navy text: “1日3回まで無料” and smaller line “シェアでさらに5回追加！”, plus small yellow accent rays.
+
+Visual style: Friendly Japanese startup SaaS ad, polished vector UI, soft shadows, rounded corners, minimal clutter, purple gradient accents, navy headline, crisp readable Japanese typography. Keep all Japanese text legible and preserve the AI service names exactly. Do not add extra service cards, extra feature blocks, watermarks, or unrelated logos.
+```
+
+**来源：** [@Mojofull](https://x.com/furoku/status/2071246928445329420) | 2026-06-28
+
+---
+
+### 🎴 例 2660：儿童艺术班招生海报
+
+![儿童艺术班招生海报](../../images/%E5%84%BF%E7%AB%A5%E8%89%BA%E6%9C%AF%E7%8F%AD%E6%8B%9B%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="art school name" default="星禾艺术"} 创作一张欢快、明亮且充满童趣的方形儿童艺术班招生海报，旨在吸引幼儿家长。
+
+画布：1:1 方形海报，采用温暖的米白色背景，留有充足的留白，搭配圆润的卡通形状、柔和的阴影以及多彩的涂鸦装饰。使用可爱的卡通手绘矢量插画风格，配合粗圆的中文艺术字、光泽感贴纸风格文字以及高饱和度的原色。
+
+布局：顶部中心设有小型 Logo 区域，上方为黄蓝抽象漩涡图案，下方为学校名称，包含中文“星禾艺术”及小字拼音“xingheyishu”。主标题位于中上方，采用醒目的大号蓝色粗体字“星禾艺术”，紧随其后的是超大号的多彩行动号召语“招生啦!”，其中“招”为红色/橙色，“生”为绿色，“啦”为蓝色，感叹号为黄色。下方放置一个粉色缝线丝带横幅，内容为“19.9元 2节试听课”，其中“19.9”为亮黄色，其余文字为白色。在丝带下方，添加一个带有蓝色胶囊标签“课程设置”的虚线圆角矩形面板。面板内包含 6 项课程，以 2 列 3 行的网格排列，由浅色虚线分隔：1) 黄色灯泡图标，“艺术启蒙”；2) 紫色奖牌图标，“艺术考级”；3) 蓝色铅笔图标，“线描”；4) 粉色树木图标，“户外美育”；5) 绿色画架图标，“素描”；6) 橙色亲子手工图标，“亲子手工”。
+
+人物与装饰元素：左侧绘制一名微笑着的小男孩，身穿黄色上衣配蓝色背带裤，一手举着画笔，另一手拿着带有六个颜料点的调色盘。右侧绘制一名微笑着的小女孩，留着棕色头发，戴着橙色蝴蝶结，正眨着眼睛，手里拿着一幅童趣十足的彩虹画。海报周围添加 12 个小型装饰涂鸦：左上角附近的黄色星星、右上角的紫色星星、顶部两侧的橙色强调符号、右上角的红色爱心、最右侧的小黄点、标题附近的黄色星星、横幅附近的黄色星星、左下角的蓝色星星、右下角的红色星星、左下角的橙色颜料溅射，以及从右下角伸出的一束画笔。
+
+文本内容：使用以下可见中文文本：{argument name="headline text" default="星禾艺术 招生啦!"}；{argument name="trial offer" default="19.9元 2节试听课"}；{argument name="course label" default="课程设置"}。所有课程名称必须严格按照上述中文列表书写。
+
+约束条件：海报需适合家庭观看、画面整洁、高分辨率且适合打印。字体需大而清晰，避免写实风格，不得增加额外的课程项目或段落，不得添加水印或二维码。
+
+[English]
+Goal: Create a cheerful square Chinese children's art class enrollment poster for {argument name="art school name" default="星禾艺术"}, bright and playful, aimed at parents of young children.
+
+Canvas: 1:1 square poster on a warm off-white background with lots of white space, rounded cartoon shapes, soft shadows, and colorful doodle decorations. Use a cute hand-drawn vector illustration style with thick rounded Chinese lettering, glossy sticker-like text, and saturated primary colors.
+
+Layout: Top center has a small logo area with a yellow-and-blue abstract swirl above the school name, the Chinese text “星禾艺术” and small pinyin “xingheyishu”. The main headline dominates the upper middle in large chunky blue characters “星禾艺术”, followed by an oversized multicolor call-to-action “招生啦!” with red/orange “招”, green “生”, blue “啦”, and a yellow exclamation mark. Below it place a pink stitched ribbon banner containing the offer “19.9元 2节试听课”, with “19.9” in bright yellow and the rest in white. Under the ribbon, add a dashed rounded rectangle course panel with a blue pill label “课程设置”. The panel contains exactly 6 course items in a 2-column by 3-row grid, separated by pale dashed lines: 1) yellow lightbulb icon, “艺术启蒙”; 2) purple medal icon, “艺术考级”; 3) blue pencil icon, “线描”; 4) pink tree icon, “户外美育”; 5) green easel icon, “素描”; 6) orange parent-and-child craft icon, “亲子手工”.
+
+Characters and decorative elements: On the left side, draw a smiling little boy in blue overalls over a yellow shirt, holding a paintbrush up in one hand and a painter’s palette with six paint blobs in the other. On the right side, draw a smiling little girl with brown hair and an orange bow, winking while holding a childlike rainbow drawing. Around the poster add exactly 12 small decorative doodles: yellow star near top left, purple star top right, orange emphasis marks near both top sides, a red heart at upper right, small yellow dot at far right, yellow star near the headline, yellow star near the banner, blue star at lower left, red star at lower right, orange paint splash at lower left, and a cluster of paintbrushes rising from the lower right corner.
+
+Text content: Use the exact visible Chinese text: {argument name="headline text" default="星禾艺术 招生啦!"}; {argument name="trial offer" default="19.9元 2节试听课"}; {argument name="course label" default="课程设置"}. Keep all course names in Chinese exactly as listed.
+
+Constraints: Make the poster family-friendly, clean, high-resolution, and print-ready. Keep the typography large and legible, avoid photorealism, avoid extra course items or extra paragraphs of text, no watermark, no QR code.
+```
+
+**来源：** [@LumioAI](https://x.com/McQueenCui/status/2071217750555684924) | 2026-06-28
+
+---
+
+### 🎴 例 2663：单色 AI 咖啡海报
+
+![单色 AI 咖啡海报](../../images/%E5%8D%95%E8%89%B2%20AI%20%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="LETZ.AI"} 创作一张极具戏剧张力的单色广告海报，将高端外带咖啡杯与富有远见的 AI 成长隐喻相结合。
+
+画布：竖版海报，比例约为 4:5，仅限黑白，高对比度，电影级布光，奢华科技品牌美学。使用深色纹理桌面背景，杯子后方上方设有明亮的聚光灯，并投下深邃的阴影。
+
+布局：左上方放置品牌标识“LETZ.AI”，采用纤细且字间距较宽的大写字母，并带有小型注册商标符号。右上方展示一个黑色外带咖啡杯，配有黑色塑料杯盖，采用背光照明；杯身正面印有巨大的白色块状字母“L”，下方附有小型文字“LETZ.AI”。咖啡杯在海报下半部分投下长长的三角形阴影。在阴影内部，呈现出如同投影在桌面上的超现实灰度景观：一个孤独的人站在岩石悬崖上，望向远处的未来城市天际线，城市中心有一枚火箭垂直发射升空，冲向多云的天空，地平线附近有明亮的太阳光晕。
+
+主标题：在左侧标志下方，设置三行堆叠的粗体压缩大写标题：“FUEL.”、“FOCUS.”、“FORWARD.”。使用高而窄的无衬线字体，颜色为白色或浅灰色。下方添加一行小型且字间距较宽的大写副标题：“AI THAT MOVES AS FAST AS YOU DO.”，并配有一条短而细的下划线作为点缀。
+
+底部功能栏：在底部边缘添加 3 个功能项，由 2 条细垂直分割线隔开。这 3 个功能项分别为：1) 闪电图标，标签为“REAL-TIME INTELLIGENCE”；2) 十字准星/目标图标，标签为“PRECISION AUTOMATION”；3) 向上的对角箭头图标，标签为“UNSTOPPABLE GROWTH”。图标需保持极简风格，采用白色线条艺术，搭配小型大写标签。
+
+主体细节：阴影中的场景必须包含 1 个人的剪影、1 枚火箭、1 个城市天际线、1 条蜿蜒的河流，以及环绕山谷的山脉剪影。咖啡杯必须是视觉焦点，质感需真实，呈现哑光黑色，边缘高光清晰，并带有细腻的颗粒感。
+
+视觉风格：高端黑白商业摄影与电影级哑光绘画超现实主义的融合，产品焦点锐利，带有大气雾感，强烈的明暗对比，戏剧性的三角形构图，充满灵感的初创企业/AI 广告氛围。
+
+约束条件：严格保留所有可见文字，避免添加额外的标语或多余物体，严禁色彩点缀，除品牌标识外不得有水印，保持画面整洁，具有编辑感。
+
+[English]
+Goal: Create a dramatic monochrome advertising poster for {argument name="brand name" default="LETZ.AI"}, combining a premium takeaway coffee cup with a visionary AI-growth metaphor.
+
+Canvas: Vertical poster, roughly 4:5 aspect ratio, black-and-white only, high contrast, cinematic lighting, luxury tech brand aesthetic. Use a dark textured tabletop background with a bright overhead spotlight behind the cup and deep shadows.
+
+Layout: Place the brand wordmark in the upper left as “LETZ.AI” in thin wide-spaced uppercase letters, with a small registered mark. On the upper right, show one black takeaway coffee cup with a black plastic lid, lit from behind; the cup front has a large white block letter “L” and small text “LETZ.AI” underneath. The cup casts a long triangular shadow downward into the lower half of the poster. Inside that shadow, reveal a surreal grayscale landscape scene as if projected onto the table: a lone person standing on a rocky cliff, looking toward a futuristic city skyline in the distance, with one rocket launching vertically from the center of the city into cloudy sky and bright sun glow near the horizon.
+
+Main text: On the left side beneath the logo, set a bold condensed uppercase headline in three stacked lines: “FUEL.”, “FOCUS.”, “FORWARD.” Use tall narrow sans-serif type, white or light gray. Below it, add a small spaced uppercase subheading: “AI THAT MOVES AS FAST AS YOU DO.” with a short thin underline accent.
+
+Bottom feature row: Add exactly 3 feature items along the bottom edge, separated by exactly 2 thin vertical divider lines. The 3 items are: 1) lightning-bolt icon with label “REAL-TIME INTELLIGENCE”, 2) crosshair/target icon with label “PRECISION AUTOMATION”, 3) upward diagonal arrow icon with label “UNSTOPPABLE GROWTH”. Keep icons minimal, white line art, small uppercase labels.
+
+Subject details: The scene in the shadow must contain exactly 1 human silhouette, exactly 1 rocket, exactly 1 city skyline, exactly 1 winding river, and mountain silhouettes framing the valley. The coffee cup must be the dominant object and should feel realistic, matte black, with crisp rim highlights and subtle grain.
+
+Visual style: Premium black-and-white commercial photography blended with cinematic matte-painting surrealism, sharp product focus, atmospheric haze, strong chiaroscuro, dramatic triangular composition, inspirational startup/AI advertising mood.
+
+Constraints: Preserve all visible text exactly as specified, avoid additional slogans or extra objects, no color accents, no watermark beyond the brand marks, no clutter, keep the poster clean and editorial.
+```
+
+**来源：** [@Indy AI Pro ⭐](https://x.com/IndyAIPro/status/2071201750896230615) | 2026-06-28
+
+---
+
+### 🎴 例 2665：构成主义经典汽车编辑网格
+
+![构成主义经典汽车编辑网格](../../images/%E6%9E%84%E6%88%90%E4%B8%BB%E4%B9%89%E7%BB%8F%E5%85%B8%E6%B1%BD%E8%BD%A6%E7%BC%96%E8%BE%91%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="series title" default="ROAD ICONS"} 创建一个构成主义编辑海报网格，以四辆虚构的经典跑车作为可收藏的杂志封面面板。
+
+画布：竖向海报，4:5 纵横比，温暖的米白色纸张背景，细腻的印刷颗粒感，清晰的高分辨率编辑设计。在整个构图周围使用细奶油色边距，面板之间留有窄间隙。
+
+布局：在 2×2 网格中排列 4 个相等的矩形面板。每个面板都是独立的封面设计，采用相同的排版系统，但具有不同的强调色和几何构图。在网格下方居中添加一个小页脚，文字为“VOL 01 / ROAD ICONS”，并带有向左右延伸的细水平线。
+
+共享排版：高大的压缩粗体无衬线标题，黑色大写字母。每个面板在左上角附近包含“VOL 01”，巨大的堆叠式“ROAD / ICONS”标题，一个简短的宣言块，内容为“FOUR MACHINES. FOUR MANIFESTOS. BUILT BY VISION. DRIVEN BY DESIGN.”，右上角有一个大的期号，期号附近有微小的垂直微型文字，以及与面板颜色匹配的短下划线强调。保持所有文字清晰、对齐，具有海报质感。
+
+面板 1，左上角：期号“01”。强调色为深红色。展示一辆光泽红色的 1960 年代大型旅行轿跑车，车头略微向左，低姿态，圆形大灯，椭圆形格栅，镀铬细节，逼真的摄影棚灯光。使用大胆的对角线构成主义形状：右侧有一个大的红色三角形区域，车后有一个深栗色圆圈，以及一个黑色对角线道路阴影。右下角标签：{argument name="car one label" default="VELOCITÀ GT"}，年份为“1962”。
+
+面板 2，右上角：期号“02”。强调色为深海军蓝。展示一辆银蓝色经典轿跑车，车头略微向左，圆形大灯，镀铬保险杠，钢丝轮毂，逼真的光泽反射。背景使用从右上角延伸的海军蓝对角楔形，车后有一个淡奶油色圆形太阳形状，并带有深蓝色底部阴影。右下角标签：{argument name="car two label" default="AURELIA COUPE"}，年份为“1964”。
+
+面板 3，左下角：期号“03”。强调色为柔和的森林绿。展示一辆哑光绿色复古跑车，车头向左，长引擎盖，低车顶，精致的镀铬轮毂，逼真的灯光。背景使用从顶部延伸的尖锐黑色三角形楔形，绿色对角平面，以及右上角的一组窄垂直黑绿条纹。底部中心标签：{argument name="car three label" default="LUCENTE GT"}，年份为“1967”。
+
+面板 4，右下角：期号“04”。强调色为芥末黄。展示一辆黄色的 1970 年代楔形跑车，车头向左，弹出式大灯轮廓，黑色玻璃顶棚，低矮的棱角车身，逼真的漆面光泽。背景使用一个大的黑色对角楔形，顶部有芥末黄色矩形区域，右上角有垂直条纹簇，右下角附近有一个芥末色圆圈。底部中心标签：{argument name="car four label" default="STRADALE HF"}，年份为“1971”。
+
+视觉风格：中世纪构成主义与豪华汽车编辑风格的结合，几何色块，戏剧性的对角线阴影，精确的瑞士网格对齐，将写实汽车融入扁平图形海报布局中。调色板：奶油色、黑色、红色、海军蓝、绿色、芥末黄，带有细腻的陈旧纸张纹理。
+
+约束：包含正好四辆车和四个编号面板。保持所有车辆为虚构但符合历史逻辑。不要添加人物、徽标、水印、二维码或额外的面板。保持清晰的间隙和强有力的海报构图。
+
+[English]
+Goal: Create a constructivist editorial poster grid for {argument name="series title" default="ROAD ICONS"}, featuring exactly four fictional classic sports cars as collectible magazine-cover panels.
+
+Canvas: Vertical poster, 4:5 aspect ratio, warm off-white paper background, subtle print grain, crisp high-resolution editorial design. Use a thin cream margin around the full composition and narrow gutters between panels.
+
+Layout: Arrange exactly 4 equal rectangular panels in a 2×2 grid. Each panel is a separate cover design with the same typography system but different accent color and geometric composition. Add a small footer centered below the grid reading “VOL 01 / ROAD ICONS” with thin horizontal rules extending left and right.
+
+Shared typography: Tall condensed bold sans-serif headline, black uppercase letters. Each panel includes “VOL 01” near the top left, a huge stacked “ROAD / ICONS” headline, a small manifesto block reading “FOUR MACHINES. FOUR MANIFESTOS. BUILT BY VISION. DRIVEN BY DESIGN.”, a large issue number in the upper right, tiny vertical microtext near the issue number, and a short underline accent matching the panel color. Keep all text sharp, aligned, and poster-like.
+
+Panel 1, top left: Issue “01”. Accent color deep red. Show a glossy red 1960s grand touring coupe facing slightly left-front, low stance, round headlights, oval grille, chrome details, realistic studio lighting. Use bold diagonal constructivist shapes: a large red triangular field on the right, a dark maroon circle behind the car, and a black diagonal road shadow. Bottom right label: {argument name="car one label" default="VELOCITÀ GT"} with year “1962”.
+
+Panel 2, top right: Issue “02”. Accent color dark navy blue. Show a silver-blue classic coupe facing slightly left-front, round headlamps, chrome bumper, wire wheels, realistic glossy reflections. Background uses a navy diagonal wedge from the top right and a pale cream circular sun shape behind the car, with a dark blue base shadow. Bottom right label: {argument name="car two label" default="AURELIA COUPE"} with year “1964”.
+
+Panel 3, bottom left: Issue “03”. Accent color muted forest green. Show a matte green vintage sports coupe facing left-front, elongated hood, low roof, subtle chrome wheels, realistic lighting. Background uses a sharp black triangular wedge from the top, green diagonal planes, and a set of narrow vertical black-and-green stripes at the upper right. Bottom center label: {argument name="car three label" default="LUCENTE GT"} with year “1967”.
+
+Panel 4, bottom right: Issue “04”. Accent color mustard yellow. Show a yellow wedge-shaped 1970s sports car facing left-front, pop-up-headlight silhouette, black glass canopy, low angular body, realistic paint shine. Background uses a large black diagonal wedge, mustard yellow rectangular field at the top, vertical stripe cluster at the upper right, and a mustard circle near the lower right. Bottom center label: {argument name="car four label" default="STRADALE HF"} with year “1971”.
+
+Visual style: Mid-century constructivist meets luxury automotive editorial, geometric color blocking, dramatic diagonal shadows, precise Swiss-grid alignment, photorealistic cars integrated into flat graphic poster layouts. Palette: cream, black, red, navy, green, mustard, with subtle aged paper texture.
+
+Constraints: Include exactly four cars and exactly four numbered panels. Keep all cars fictional but historically plausible. Do not add people, logos, watermarks, QR codes, or extra panels. Preserve clean gutters and strong poster composition.
+```
+
+**来源：** [@Eric Kang](https://x.com/Eric_Kangg/status/2071182238515921189) | 2026-06-28
+
+---
+
+### 🎴 例 2666：充满活力的体育广告海报
+
+![充满活力的体育广告海报](../../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E4%BD%93%E8%82%B2%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满活力的体育广告海报。一名充满活力的年轻男孩（年龄：{argument name="age" default="9"} 岁），身穿 {argument name="jersey color" default="亮黄色"} 足球衫，在空中戏剧性地踢向一个比他身高大 3 倍的巨型足球，并带有动态运动轨迹。足球面板上用醒目的黑白色写着 "{argument name="brand name" default="GOALMASTER"}"。背景为明亮的绿色足球场，配有体育场灯光和模糊的人群。背景填充着醒目的黄色和黑色运动风粗体字 "GOALMASTER"。底部标语："像冠军一样踢球。" 右上角小字写着 "Designed with GPT Image 2"，颜色为灰色。照片级真实感，儿童足球商业风格，明亮且富有戏剧性的体育场泛光灯照明。
+
+[English]
+A vibrant sports advertisement poster. An energetic young boy age {argument name="age" default="9"} in a {argument name="jersey color" default="bright yellow"} football jersey kicks dramatically beside a giant football 3x his height mid air with dynamic motion trails, "{argument name="brand name" default="GOALMASTER"}" written in bold black and white on the football panels. Bright green football pitch background with stadium lights and crowd blur. Bold sporty block typography "GOALMASTER" in yellow and black filling the background. Tagline bottom: "Kick like a champion." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, kids football commercial style, bright dramatic stadium floodlight lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2071179089969394061) | 2026-06-28
+
+---
+
+### 🎴 例 2671：Lucian Freud 风格运动肖像
+
+![Lucian Freud 风格运动肖像](../../images/Lucian%20Freud%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+Cristiano Ronaldo 高细节质感运动海报。
+
+**背景**
+
+原色亚麻画布。未装裱。未打底。比利时亚麻布的天然纹理，每厘米 12 根经纬线。在任何处理之前，未染色天然纤维特有的暖奶油色。一种在被绘制前就已具备自身存在感的表面质感。近距离可见单根纤维的经纬交织。手工织物的细微不规则感。背景作为材料，作为实体，作为事物本身，而非仅仅是承载事物的载体。
+
+**人物**
+
+亚麻布油画。人物是画出来的，而非拍摄的。具体采用 Lucian Freud 的技法应用于运动主题。厚涂法（Impasto）。同时使用调色刀和猪鬃刷。颜料在表面构建出物理质感。
+
+他的皮肤呈现出 Freud 的传统风格，即将人体肌肤作为绘画的核心主题。面部的每一个平面都是关于色彩、质感和颜料厚度的独立决策。眼窝处的阴影使用深生赭色，由调色刀厚重地堆叠而成。颧骨上的高光使用钛白混合黄赭石，以单笔触涂抹，使笔触痕迹在颜料表面清晰可见。画作的皮肤与主体的皮肤一样具有物理存在感。
+
+**姿态**
+
+坐姿。一把木椅。Lucian Freud 工作室中那把特有的木椅。磨损光滑。绿色油漆在边缘处褪色，露出底下的木头。
+
+他身体前倾。手肘抵在膝盖上。双手随意交握。直视画家。这是一种对抗性的凝视，属于那些同意坐下来当模特、并且此刻正在进行创作过程的人。不是在为画家表演。也不是在回避画家。就像 Freud 画作中的人物那样，仅仅是存在着。带着一个存在于三维空间中的身体的全部重量，此刻被要求存在于一个平面之上。
+
+**球衣**
+
+穿着葡萄牙队球衣，而非展示状态。球衣下摆未塞入。一只袜子比另一只略低。球衣作为衣物，而非制服。
+
+织物的渲染与皮肤一样，倾注了同样的物理关注。球衣面料的六边形网眼通过颜料呈现。每一个六边形都是独立的笔触。领口的缝线采用凸起的厚涂法。钛白色的数字 7 涂抹在干燥的底层之上。白色颜料浮在下方颜料的表面。数字的排版通过笔触方向而非清晰的边缘来体现。
+
+**色彩**
+
+Lucian Freud 的调色板。阴影中不混入任何黑色。阴影呈现深暖的大地色。生赭色。熟赭石色。普鲁士蓝用于最冷的阴影。高光使用钛白混合暖黄色。绝不使用冷白。绝不使用蓝白。暖光下皮肤的暖白色。北向工作室窗户光线特有的色温。那是 Freud 在 Holland Park 使用了三十年的光线。
+
+**眼睛**
+
+与 Freud 调色板唯一不同的一点。他的眼睛。以其真实色彩中特有的琥珀棕色绘制。Freud 传统中以执着的色彩准确度来渲染眼睛。
+
+虹膜分为三层独立罩染。底层为生赭色。罩染熟赭石色。最后在虹膜高光区罩染黄赭石。每只眼睛的眼神光。钛白色的单一标记。两笔。画作中最小的标记。也是最重要的标记。
+
+**红色点缀**
+
+信号红 Pantone 485C 仅出现在画作的一个区域。球衣。球衣的猩红色。
+
+在 Freud 的技法中，红色是混合而成的。镉红浅。茜素深红。阴影中带有一丝生赭色。钛白色混合其中，用于织物上捕捉六边形网眼光线的高光处。球衣的红色是画作中饱和度最高的颜色。Freud 痴迷于描绘皮肤。在这里，皮肤与球衣同样争夺着画家的注意力。
+
+**平面设计干预**
+
+极简。这幅画不需要平面设计。它只需要一样东西。尊重其邻近元素的排版。
+
+**排版**
+
+亚麻布底部。在绘制的人物下方。未绘制的亚麻布。没有底漆处理。可见支撑物的原始材料。
+
+在此区域。单一的排版元素。手绘，而非印刷。使用与人物最深阴影处相同的黑色颜料。宽画笔。单一动作。大写。不完美。字母具有手绘字体的质感，而非印刷字体。边缘略有不规则。颜料在笔触开始处稍厚，在末端稍薄。
+
+RONALDO。
+
+使用绘制他眼部阴影的同一支画笔在未处理的亚麻布上绘制。名字作为画作的一部分。画作作为一个完整的客体。画布。撑框。亚麻布。颜料。名字。
+
+**日语排版**
+
+使用同样的黑色颜料绘制。位于未绘制亚麻布区域的右上角。一个汉字。
+
+肉体
+
+发音为 *nikutai*，意为肉体或身体。使用更细的画笔绘制。更具控制力。日本书法绘画的笔触质感与上方西方油画传统进行对话。同一画布上的两种绘画传统。关于身体的概念，用两种最严肃对待它的艺术语言进行渲染。
+
+**物理客体**
+
+这是一幅画。不是模拟画作的海报。是一幅真正的亚麻布油画。122 × 182 厘米。
+
+海报是画作的复制品。使用 Phase One XT 相机搭配 Rodenstock 180mm 镜头拍摄。从左上方侧光照射，以显露厚涂质感。每一道颜料的隆起都投射出自己的微小阴影。画作的照片以 10K 分辨率捕捉了颜料表面的物理存在感。复制品保留了使画作真实存在的质感。
+
+**艺术指导**
+
+Lucian Freud 的工作室实践是唯一需要的参考。选择绘画而非拍摄这位时代最伟大的运动员，是对“关注”这一含义的声明。
+
+Freud 数十年来一直绘制相同的主题。回到同一张面孔前，因为他尚未完全理解他们。这幅画是第一次创作会话。
+
+打印尺寸 70 × 100 厘米，由 122 × 182 厘米的原作复制。复制品为原始比例的 58%。在打印尺寸下依然超越现实。画作填满打印区域。打印品包含画作。两者皆真实。两者皆为 Ronaldo。
+
+[English]
+Cristiano Ronaldo high detail textural sports poster.\n\n**Background**\n\nRaw linen canvas. Unstretched. Unprimed. The natural weave of Belgian linen at 12 threads per centimeter. The specific warm cream of undyed natural fiber before any preparation. The texture of a surface that has its own presence before anything is placed on it. The warp and weft of individual threads visible at close range. The slight irregularities of hand-woven textile. The background as material, as substance, as the thing itself rather than the thing that holds the thing.\n\n**The Figure**\n\nOil paint on linen. The figure painted, not photographed. Specifically in the technique of Lucian Freud applied to a sports subject. The thick impasto approach. Paint applied with a palette knife and hog bristle brush simultaneously. The paint building physical texture on the surface.\n\nHis skin rendered in the Freud tradition of treating human flesh as the primary subject of painting. Every plane of the face a separate decision about color and texture and thickness of paint. The shadows in his eye sockets in deep raw umber applied thickly with a palette knife. The highlights on his cheekbones in titanium white mixed with yellow ochre applied in single strokes that leave the bristle marks of the brush visible in the paint surface. The skin of the painting as physically present as the skin of the subject.\n\n**Pose**\n\nSitting. A wooden chair. The specific wooden chair of a Lucian Freud studio. Worn smooth. Green paint fading to bare wood at the edges.\n\nHe is sitting forward. Elbows on knees. Hands clasped loosely. Looking directly at the painter. The confrontational gaze of someone who agreed to sit for this portrait and is now in the process of sitting for it. Not performing for the painter. Not avoiding the painter. Simply present in the way that Freud's subjects are present. With the full weight of a body that exists in three dimensions and is now being asked to exist on a surface.\n\n**Kit**\n\nPortugal kit worn, not displayed. The jersey untucked. One sock slightly lower than the other. The kit as clothing, not as uniform.\n\nThe fabric rendered with the same physical attention as the skin. The hexagonal mesh of the jersey fabric in paint. Each hexagon a separate brushstroke. The stitching at the collar in raised impasto. The number 7 in titanium white applied over the dried base layer. The white paint sitting on the surface of the paint beneath it. The typography of the number visible in brushstroke direction, not in clean edges.\n\n**Color**\n\nLucian Freud palette. No black mixed into shadows. Shadows in deep warm earth colors. Raw umber. Burnt sienna. Prussian blue for the coolest shadows. Highlights in titanium white mixed with warm yellows. Never cool white. Never blue white. The warm white of flesh in warm light. The specific color temperature of a north-facing studio window light. The light that Freud used for thirty years in Holland Park.\n\n**Eyes**\n\nOne color departure from the Freud palette. His eyes. Painted in the specific amber-brown of their actual color. The Freud tradition of rendering eyes with obsessive chromatic accuracy.\n\nThe iris in three separate glazes. Base layer raw umber. Glaze of burnt sienna. Final glaze of yellow ochre at the highlight zone of the iris. The catchlight in each eye. A single mark of titanium white. Two strokes. The smallest marks in the painting. The most important.\n\n**Red Accent**\n\nSignal red Pantone 485C appearing in the painting in one zone only. The kit. The jersey scarlet.\n\nIn the Freud technique the red is mixed. Cadmium red light. Alizarin crimson. A touch of raw umber in the shadows. Titanium white mixed in for the highlights on the fabric where the light catches the hexagonal mesh. The red of the kit the most saturated color in the painting. Freud painted flesh obsessively. Here the flesh and the kit compete for the painter's attention equally.\n\n**Graphic Design Intervention**\n\nMinimal. The painting does not need graphic design. It needs one thing. Typography that respects what it is adjacent to.\n\n**Typography**\n\nBottom of the linen. Below the painted figure. The unpainted linen. No ground preparation. The raw material of the support visible.\n\nIn this zone. A single typographic element. Painted, not printed. In the same black paint used for the deepest shadows in the figure. A broad brush. Single gesture. Uppercase. Imperfect. The letters with the quality of painted type, not printed type. The edges slightly irregular. The paint slightly thicker at the beginning of each stroke and thinner at the end.\n\nRONALDO.\n\nPainted on the unpainted linen with the same brush that painted the shadows in his eyes. The name as part of the painting. The painting as a complete object. Canvas. Stretcher. Linen. Paint. Name.\n\n**Japanese Typography**\n\nPainted in the same black paint. Upper right corner of the unpainted linen zone. A single kanji.\n\n肉体\n\nPronounced *nikutai*, meaning flesh or physical body. Painted with a narrower brush. More controlled. The calligraphic quality of Japanese brush painting in conversation with the Western oil painting tradition above it. Two painting traditions on one canvas. The concept of the body rendered in the two artistic languages that have most seriously attended to it.\n\n**Physical Object**\n\nThis is a painting. Not a poster simulating a painting. An actual oil painting on linen. 122 × 182 cm.\n\nThe poster is a reproduction of the painting. Shot on a Phase One XT with Rodenstock 180mm. Raking light from upper left to reveal the impasto texture. Every ridge of paint casting its own micro-shadow. The photograph of the painting capturing the physical presence of the paint surface at 10K resolution. The reproduction preserving the texture that makes the painting real.\n\n**Art Direction**\n\nLucian Freud studio practice as the only reference needed. The decision to paint rather than photograph the greatest athlete of the era is a statement about what attention means.\n\nFreud painted the same subjects for decades. Returning to the same faces because he had not yet fully understood them. This painting is the first session.\n\nPrint format 70 × 100 cm reproduced from the 122 × 182 cm original. The reproduction at 58% of original scale. Still larger than life at print scale. The painting filling the print. The print containing the painting. Both real. Both Ronaldo.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2071162533524672557) | 2026-06-28
+
+---
+
+### 🎴 例 2676：新黑色电影风格日式时尚拼贴画
+
+![新黑色电影风格日式时尚拼贴画](../../images/%E6%96%B0%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%97%A5%E5%BC%8F%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的垂直混合媒介时尚拼贴海报，主体为 {argument name="main subject" default="一位年轻日本男性"}，他略微偏向画面中心右侧，侧身站立，姿态自信，头部微微上扬，佩戴一副黑色小圆墨镜，身穿黑色高领衫、黑色长裤，外搭一件超大款深色和服式羽织，上面绣有金色仙鹤和华丽的花卉图案。整体氛围具有电影感、神秘感、优雅且前卫。采用做旧的日式复古海报美学，呈现层叠的纸张纹理、墨迹飞溅、磨损的印刷颗粒、褪色的边缘、撕裂的拼贴缝隙，色调采用炭黑、奶油羊皮纸色、低饱和青色、牛血红和古金色。在人物身后构建密集的超现实拼贴：头部后方有一个巨大的红色太阳圆盘，上方中心附近有一个苍白的满月圆盘，躯干后方有一座层叠的日本宝塔，中背景处有现代城市天际线，并带有网格状的垂直和水平海报线条。背景中包含 3 张女性面孔肖像：左上方一张巨大的幽灵般面孔，左下方一张小型框内肖像，右下方一张苍白的玩偶般面孔。包含 2 条巨大的红色锦鲤：一条横跨右上角，另一条在右下角部分可见。包含 5 只蝴蝶或飞蛾：顶部左中位置一只大型飞蛾，主体左侧一只橙色蝴蝶，右上角附近一只小型飞蛾，主体胸部区域一只苍白飞蛾，右下角附近一只红色蝴蝶。左下方包含 1 个巨大的写实眼睛拼贴元素。添加几条狭长的日式纸质标签，上面印有类似汉字的字符，但保持装饰性且大部分不可辨认。构图应呈现出日式新黑色电影风格的波普超现实主义，融合浮世绘、赛博朋克时尚编辑、古董版画和当代海报设计。主体需渲染得清晰且具有照片级真实感，而背景保持绘画感和层次感。面部使用柔和的戏剧性光影，深邃的阴影，丰富的纹理，复杂的线条，且画面不留空白。最终图像应为垂直的 {argument name="aspect ratio" default="4:5"} 海报，无水印、无 Logo，且无任何可读的英文字符。
+
+[English]
+Create a highly detailed vertical mixed-media fashion collage poster featuring {argument name="main subject" default="a young Japanese man"} standing slightly right of center in a confident side-profile pose, head tilted upward, wearing small round black sunglasses, a black turtleneck, black trousers, and an oversized dark kimono-style haori embroidered with gold cranes and ornate floral patterns. The mood is cinematic, mysterious, elegant, and avant-garde. Use a distressed Japanese vintage poster aesthetic with layered paper textures, ink splatter, worn print grain, faded edges, torn collage seams, and muted colors of charcoal black, cream parchment, desaturated teal, oxblood red, and antique gold. Behind the figure, build a dense surreal collage: one large red sun disk behind his head, one pale full moon disk near the upper center, a layered Japanese pagoda behind his torso, a modern city skyline in the mid-background, and gridded vertical and horizontal poster lines. Include exactly 3 female face portraits in the background: one large ghostly face in the upper left, one small framed portrait in the lower left, and one pale doll-like face in the lower right. Include exactly 2 large red koi fish: one sweeping across the upper right and one partially visible along the lower right. Include exactly 5 butterflies or moths: one large moth near the top center-left, one orange butterfly near the left of the subject, one small flying moth near the upper right, one pale moth on the subject’s chest area, and one red butterfly near the bottom right. Include exactly 1 large realistic eye collage element in the lower left. Add several narrow vertical Japanese-style paper labels with printed kanji-like characters, but keep them decorative and mostly unreadable. The composition should feel like Japanese neo-noir pop surrealism, combining ukiyo-e, cyberpunk editorial fashion, antique printmaking, and contemporary poster design. Make the subject sharply rendered and photorealistic while the background remains painterly and layered. Use dramatic soft lighting on the face, deep shadows, rich texture, intricate linework, and no clean empty space. Final image should be a vertical {argument name="aspect ratio" default="4:5"} poster with no watermark, no logo, and no readable English text.
+```
+
+**来源：** [@ゆんゆん。。](https://x.com/manga0365/status/2071156660941324457) | 2026-06-28
+
+---
+
+### 🎴 例 2677：霓虹风格日语 AI IDE 落地页海报
+
+![霓虹风格日语 AI IDE 落地页海报](../../images/%E9%9C%93%E8%99%B9%E9%A3%8E%E6%A0%BC%E6%97%A5%E8%AF%AD%20AI%20IDE%20%E8%90%BD%E5%9C%B0%E9%A1%B5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="product name" default="1min.ai Client"} 创建一张精美的日语宣传落地页风格海报，推广一款帮助用户快速构建应用的 AI IDE。设计应呈现出面向开发者的未来感 SaaS 发布图形，采用高端深色霓虹美学。
+
+画布：竖向 4:5 海报，尺寸约为 720×1040 px，采用深海军蓝到黑色的渐变背景，点缀细微的星光、粒子、紫色光晕、蓝色高光以及柔和的径向光效。使用清晰的现代日语排版，搭配醒目的白色粗体标题和紫色霓虹装饰。
+
+顶部 Hero 区：在左上角添加日语标语「AIと、1分でつくる。未来の開発体験。」（用 AI，1 分钟构建。未来的开发体验。）。下方放置一个巨大的发光标题 “{argument name="headline text" default="1min.ai Client"}”，白色字体带有紫色光晕。在标题下方，添加两行日语： 「あなたの “作りたい” を、すぐにカタチに。」（将你的“想做之物”立即成形。）以及 「コード生成・編集・実行まで、すべてを1つのAI IDEで。」（从代码生成、编辑到执行，一切尽在一个 AI IDE 中。）在右上角，展示一个圆角方形的紫色应用图标，内含白色 “1m” 字样，标签为 “1min.ai Client”，下方附带较小的文字 “Monaco + Custom UI”。
+
+中央产品模型：在 Hero 文字下方居中放置一张大型深色玻璃拟态桌面应用截图。应用窗口具有圆角、细窄的紫蓝色边框和多个面板。包含 4 个核心应用区域：左侧垂直侧边栏（带有 1m 标志和导航按钮）、文件资源管理器面板（列出文件夹和文件）、中央代码编辑器（带有语法高亮显示和行号的 HTML/CSS 代码）以及右侧的 “AI Agent” 聊天/任务面板（包含日语辅助文本和紫色执行按钮）。应用 UI 应看起来像基于 Monaco 编辑器的 IDE，具有深色面板、微小的日语标签、文件夹图标、标签页和状态胶囊。
+
+中部标题与功能行：在模型下方，添加一个居中的大型日语标题：「コードもアイデアも、AIと一緒に、すぐ形に。」（代码与创意，与 AI 一起，立即成形。），并带有细窄的紫色霓虹下划线。下方水平排列 5 张功能卡片，每张卡片之间用细微的垂直线隔开，每张卡片配有发光的圆形图标、日语标题和简短的日语描述。5 个可见功能为：1) 代码括号图标，标题「AIコーディング」（AI 编码）；2) 文件夹图标，标题「直感的なUI」（直观的 UI）；3) 机器人图标，标题「高性能AIエージェント」（高性能 AI Agent）；4) 闪电图标，标题「すぐに試せる」（即刻尝试）；5) 锁图标，标题「安心・安全設計」（安心安全设计）。
+
+行动号召 (CTA) 面板：在下三分之一处，添加一个带有紫色边框光效的宽圆角矩形卡片。左侧包含一个巨大的发光秒表图标，内含 “1m”。右侧添加醒目的日语标题「開発時間を、1分に近づける。」（让开发时间，接近 1 分钟。），随后是文本「1min.ai Client が、あなたの創造を加速させます。」（1min.ai Client 将加速你的创造力。）。包含 3 个勾选符号列表项：「アイデアをすぐに試したい」（想立即尝试创意）、 「繰り返し作業を効率化したい」（想简化重复性工作）、 「もっと創造的な開発に集中したい」（想专注于更具创造性的开发）。添加辅助文本「そのすべてを、1つのAI IDEで。」（这一切，尽在一个 AI IDE 中。）以及一个圆角紫色到粉色的渐变按钮，标注为「今すぐはじめる →」（立即开始 →）。
+
+页脚：在底部使用较暗的页脚条。左侧放置一个可见的二维码块，旁边是产品文字 “1min.ai Client” 和 “Monaco + Custom UI”。在页脚横向展示 3 个带有图标的小型能力项：显示器图标「Windows 対応」（支持 Windows）、齿轮图标「カスタマイズ自在」（自由定制）、星星图标「進化し続ける」（持续进化）。在最底部中心，包含「詳細・ダウンロード・ドキュメントはこちら」（详情、下载、文档请点击此处）以及 URL “{argument name="website URL" default="https://1min.ai"}”。在右下角添加一行小字：「※画面は開発中のものです。」（※屏幕画面为开发中版本。）
+
+视觉风格：高端赛博朋克开发者工具广告，深色玻璃 UI，霓虹紫与电光蓝灯光，柔和光晕，锐利的界面细节，逼真的 SaaS 模型，整洁的间距，发光图标，日语科技初创公司品牌感。保持所有文字清晰且对齐。无人物，无额外标志，无水印。
+
+[English]
+Goal: Create a polished Japanese promotional landing-page style poster for {argument name="product name" default="1min.ai Client"}, advertising an AI IDE that helps users build quickly. The design should feel like a futuristic SaaS launch graphic for developers, with a premium dark neon aesthetic.
+
+Canvas: Vertical 4:5 poster, approximately 720×1040 px, dark navy-to-black gradient background with subtle stars, particles, purple glow, blue highlights, and soft radial light effects. Use crisp modern Japanese typography with large bold white headings and purple neon accents.
+
+Top hero section: At the top left, add the Japanese tagline 「AIと、1分でつくる。未来の開発体験。」. Below it, place a huge glowing title “{argument name="headline text" default="1min.ai Client"}” in white with a purple aura. Under the title, add two Japanese lines: 「あなたの “作りたい” を、すぐにカタチに。」 and 「コード生成・編集・実行まで、すべてを1つのAI IDEで。」. At the top right, show a rounded square purple app icon with “1m” in white, with the label “1min.ai Client” and smaller text “Monaco + Custom UI”.
+
+Central product mockup: Place a large dark glassmorphism desktop app screenshot centered beneath the hero text. The app window has rounded corners, a thin purple-blue border, and multiple panels. Include exactly 4 main app regions: a left vertical sidebar with the 1m logo and navigation buttons, a file explorer panel listing folders and files, a central code editor with syntax-highlighted HTML/CSS-like code and line numbers, and a right “AI Agent” chat/task panel with Japanese helper text and a purple execute button. The app UI should look like a Monaco-editor based IDE, with dark panels, tiny Japanese labels, folder icons, tabs, and status pills.
+
+Middle headline and feature row: Beneath the mockup, add a large centered Japanese headline: 「コードもアイデアも、AIと一緒に、すぐ形に。」 with a thin purple neon underline. Below it, create exactly 5 feature cards in a horizontal row, each separated by subtle vertical lines, each with a glowing circular icon, Japanese title, and short Japanese description. The 5 visible features are: 1) code brackets icon, title 「AIコーディング」; 2) folder icon, title 「直感的なUI」; 3) robot icon, title 「高性能AIエージェント」; 4) lightning bolt icon, title 「すぐに試せる」; 5) lock icon, title 「安心・安全設計」.
+
+Call-to-action panel: Near the lower third, add a wide rounded rectangle card with purple border glow. On the left, include a large glowing stopwatch icon containing “1m”. On the right, add the bold Japanese headline 「開発時間を、1分に近づける。」, followed by text saying 「1min.ai Client が、あなたの創造を加速させます。」. Include exactly 3 check-mark bullet points: 「アイデアをすぐに試したい」, 「繰り返し作業を効率化したい」, 「もっと創造的な開発に集中したい」. Add supporting text 「そのすべてを、1つのAI IDEで。」 and a rounded purple-to-pink gradient button labeled 「今すぐはじめる →」.
+
+Footer: At the bottom, use a darker footer strip. On the left place a visible QR code block, next to product text “1min.ai Client” and “Monaco + Custom UI”. Across the footer, show exactly 3 small capability items with icons: monitor icon 「Windows 対応」, gear icon 「カスタマイズ自在」, star icon 「進化し続ける」. Along the very bottom center, include 「詳細・ダウンロード・ドキュメントはこちら」 followed by the URL “{argument name="website URL" default="https://1min.ai"}”. Add a tiny note on the bottom right: 「※画面は開発中のものです。」
+
+Visual style: High-end cyberpunk developer-tool advertisement, dark glass UI, neon purple and electric blue lighting, soft bloom, sharp interface details, realistic SaaS mockup, clean spacing, luminous icons, Japanese tech startup branding. Keep all text legible and aligned. No people, no extra logos, no watermark.
+```
+
+**来源：** [@とぴ](https://x.com/TopiSan_1/status/2071154539445813523) | 2026-06-28
+
+---
+
+### 🎴 例 2695：涂鸦幻觉电影海报
+
+![涂鸦幻觉电影海报](../../images/%E6%B6%82%E9%B8%A6%E5%B9%BB%E8%A7%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张纵向电影海报，采用“涂鸦复活（视觉错觉）”风格，卡通角色并非作为站在真人旁边的独立 3D 人物呈现。相反，该角色以高度精细的涂鸦壁画形式存在于纹理砖墙上，其一只或两只手仿佛冲破墙壁活了过来，自然地环绕或与站在其前方的真人主体互动。这种错觉应显得天衣无缝、令人信服且视觉冲击力强，通过融合逼真的透视、阴影、光影和深度，营造出涂鸦已部分活过来的印象。整体构图应具备现代电影氛围，配以动态光影、丰富的色彩对比和精心平衡的深度。海报应加入时尚的涂鸦风格装饰元素，如喷漆飞溅、城市纹理、油漆滴落、模板图案、几何点缀、细微墙体裂纹、分层图形形状以及当代街头艺术细节，在不显拥挤的前提下强化视觉特征。主体的姿势必须与参考照片完全不同，表现得富有表现力、自信且自然动态，而非僵硬或平淡。肢体语言应类似于国际时尚模特，传达出优雅、自信和轻松的动作，并具备精致的编辑审美。面部表情应生动、引人入胜且充满个性，与观众建立更强的情感连接。服装应体现现代休闲时尚，展现时尚的当代外观。结合不同颜色、纹理、材质和细微图案的服装单品，避免重复或单调。造型应显得时尚、年轻且视觉平衡，同时保持真实感和自然的穿着感。海报内的所有排版元素应采用大胆、高级且引人注目的字体风格，以衬托涂鸦概念。使用创意的字体处理、分层文本构图、动态尺寸和现代图形布局，确保排版成为艺术作品不可或缺的一部分，而非显得平庸或普通。整体海报应提供高级、高端的视觉体验，并具备清新的当代审美。避免普通布局、重复构图、平庸的设计选择或通用的视觉处理。每一个元素都应为这幅充满活力、视觉丰富且受现代街头艺术启发的杰作做出贡献，并以超高清 8K 画质呈现，具备卓越的清晰度、逼真的纹理和专业的电影级后期效果。
+
+[English]
+A portrait-oriented cinematic poster in the Graffiti Come to Life (Optical Illusion) style, where the cartoon character is not portrayed as a separate 3D figure standing beside the real person. Instead, the character exists as a highly detailed graffiti mural painted on a textured brick wall, while one or both of its hands appear to break through the wall as if coming to life, naturally wrapping around or interacting with the real subject standing in front of it. The illusion should feel seamless, convincing, and visually striking, blending realistic perspective, shadows, lighting, and depth to create the impression that the graffiti has become partially alive. The overall composition should feature a modern cinematic atmosphere with dynamic lighting, rich color contrast, and carefully balanced depth. Enhance the poster with stylish graffiti-inspired decorative elements such as spray paint splashes, urban textures, paint drips, stencil patterns, geometric accents, subtle wall cracks, layered graphic shapes, and contemporary street-art details that strengthen the visual identity without making the design feel overcrowded. The subject's pose must be completely different from the reference photo, appearing expressive, confident, and naturally dynamic rather than stiff or flat. The body language should resemble that of an international fashion model, conveying elegance, confidence, and effortless movement with a refined editorial aesthetic. The facial expression should feel lively, engaging, and full of personality, creating a stronger emotional connection with the viewer. The outfit should reflect modern casual fashion with a stylish, contemporary look. Combine clothing pieces with varied colors, textures, materials, and subtle patterns to avoid a repetitive or monotonous appearance. The styling should feel fashionable, youthful, and visually balanced while remaining realistic and naturally wearable. Every typography element within the poster should feature bold, premium, and eye-catching font styles that complement the graffiti concept. Use creative font treatments, layered text compositions, dynamic sizing, and modern graphic placement to ensure the typography becomes an integral part of the artwork rather than looking plain or generic. The overall poster should deliver a premium, high-end visual experience with a fresh contemporary aesthetic. Avoid ordinary layouts, repetitive compositions, mediocre design choices, or generic visual treatments. Every element should contribute to a vibrant, visually rich, and modern street-art inspired masterpiece rendered in ultra-high-definition 8K quality with exceptional sharpness, realistic textures, and professional cinematic finishing.
+```
+
+**来源：** [@Duet | AI](https://x.com/Sheldon056/status/2071082708512465062) | 2026-06-28
+
+---
+

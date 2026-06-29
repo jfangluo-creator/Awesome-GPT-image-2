@@ -6790,3 +6790,285 @@ Create a polished anime-style vertical illustration of {argument name="character
 
 ---
 
+### 🏷️ 例 2633：“生命之火”蜡烛超现实肖像
+
+![“生命之火”蜡烛超现实肖像](../../images/%E2%80%9C%E7%94%9F%E5%91%BD%E4%B9%8B%E7%81%AB%E2%80%9D%E8%9C%A1%E7%83%9B%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的肖像转化为超现实的电影质感艺术作品，使人物无缝化身为巨型蜡烛中燃烧的生命之火。下半身自然地融入融化的蜡油中，并带有逼真的蜡油滴落效果。上半身被生动、动态的火焰所包围，同时保留人物原本的面部特征、身份、表情、发型、胡须、服装和姿势。营造出具有发光余烬、烟雾、体积光、温暖的橙色和金色调、逼真的反射以及电影级对比度的戏剧性火焰效果。蜡烛应显得宏大且奢华，具有高度细节的蜡质纹理，并配以柔和模糊的深色背景，以突出耀眼的火焰。超写实、超细节、照片级真实感、杰作质量、8K 分辨率、戏剧性构图、无文字、无水印。
+
+[English]
+Transform the uploaded portrait into a surreal cinematic artwork where the person seamlessly becomes the living flame of a giant candle. The lower body naturally merges into melted candle wax with realistic dripping wax flowing down the candle. The upper body is engulfed in vivid, dynamic flames while preserving the person’s exact facial features, identity, expression, hairstyle, beard, clothing, and pose. Create a dramatic fire effect with glowing embers, smoke, volumetric lighting, warm orange and golden tones, realistic reflections, and cinematic contrast. The candle should appear massive and luxurious, with highly detailed wax texture and a softly blurred dark background that emphasizes the glowing fire. Ultra-realistic, hyper-detailed, photorealistic, masterpiece quality, 8K, dramatic composition, no text, no watermark.
+```
+
+**来源：** [@‏تركي](https://x.com/ksa8Turky/status/2071340132381180338) | 2026-06-28
+
+---
+
+### 🏷️ 例 2644：浪漫蛋糕装饰人像
+
+![浪漫蛋糕装饰人像](../../images/%E6%B5%AA%E6%BC%AB%E8%9B%8B%E7%B3%95%E8%A3%85%E9%A5%B0%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版超写实编辑风格时尚照片，描绘一位年轻女性在浪漫的复古奶油色厨房中，俯身在大理石岛台前装饰蛋糕。画面中的女性为 {argument name="character description" default="一位优雅的东亚年轻女性，皮肤白皙，妆容自然柔和，棕色大眼睛，留着栗棕色长卷发"}；她身穿 {argument name="outfit" default="一件奶油色缎面碎花迷你裙，配有荷叶边肩带、心形领口、丝滑腰部蝴蝶结、精致耳环、小巧项链，以及带有花朵装饰的金色高跟凉鞋"}。让她站在柜台旁，露出修长的双腿，一只手撑在大理石台面上，另一只手拿着一把小型蛋糕抹刀或餐刀，悬在圆形糖霜蛋糕上方。蛋糕为 {argument name="cake style" default="一个放在白色底座上的圆形象牙色奶油蛋糕，装饰着挤花珍珠、玫瑰花和奶油花"}。在岛台上放置 6 个清晰可见的烘焙或厨房道具：底座上的装饰蛋糕、带有金属裱花嘴的裱花袋、一个小罐子、一块折叠的布、一个白色糖霜碗，以及一个放有奶油花的小盘子。场景设定在 {argument name="location style" default="一个华丽的欧式乡村厨房，配有奶油色橱柜、黄铜把手、蓝白相间的花纹瓷砖防溅墙、大理石台面、复古炉灶、蕾丝窗帘和花纹地毯"}。添加温暖的金色晨光从右侧的高窗射入，薄纱窗帘透出光芒，窗边摆放着一瓶淡色玫瑰，大理石上有柔和的倒影，浅景深，梦幻的暖米色调，细腻的高光，营造出奢华且受 noirmielrue 风格启发的浪漫氛围。使用照片级真实的皮肤纹理、优雅的比例、高级时尚构图以及柔和的电影镜头感。可选的半透明微弱水印文字可为 {argument name="watermark text" default="NaEun & Damien 2026"}，沿边缘及中心淡淡呈现，但需保持不显眼。避免出现多余人物、多余蛋糕、手部变形、刺眼光线、杂乱或卡通风格。
+
+[English]
+Create a vertical 9:16 ultra-realistic editorial fashion photo of a young woman in a romantic vintage cream kitchen, leaning over a marble island while decorating a cake. The woman is {argument name="character description" default="an elegant young East Asian woman with fair skin, soft natural makeup, large brown eyes, and long wavy chestnut-brown hair"}; she wears {argument name="outfit" default="a cream satin-and-floral mini dress with ruffled shoulder straps, a sweetheart neckline, a silky waist bow, delicate earrings, a small necklace, and gold high-heeled sandals with floral embellishments"}. Pose her standing beside the counter with long legs visible, one hand resting on the marble surface and the other holding a small cake spatula or knife above a round frosted cake. The cake is {argument name="cake style" default="a round ivory buttercream cake on a white pedestal stand, decorated with piped pearls, rosettes, and cream flowers"}. Include exactly 6 visible baking or kitchen-prop elements on the island: the decorated cake on its stand, a pastry piping bag with metal tip, a small jar, a folded cloth, a white bowl of frosting, and a small plate with cream flowers. Set the scene in {argument name="location style" default="an ornate European cottage kitchen with cream cabinetry, brass handles, blue-and-cream patterned tile backsplash, marble countertops, a vintage stove, lace curtains, and a patterned rug"}. Add warm golden morning sunlight streaming through tall windows on the right, sheer curtains glowing, a vase of pale roses near the window, soft reflections on marble, shallow depth of field, dreamy warm beige color grading, delicate highlights, and a luxurious noirmielrue-inspired romantic atmosphere. Use photorealistic skin texture, graceful proportions, high-fashion composition, and a soft cinematic lens look. Optional subtle semi-transparent watermark text may read {argument name="watermark text" default="NaEun & Damien 2026"} along the edges and faintly across the center, but keep it unobtrusive. Avoid extra people, extra cakes, distorted hands, harsh lighting, clutter, or cartoon styling.
+```
+
+**来源：** [@NaEun K](https://x.com/noirmielrue/status/2071257932629708990) | 2026-06-28
+
+---
+
+### 🏷️ 例 2653：抽象仿生混合媒介绘画
+
+![抽象仿生混合媒介绘画](../../images/%E6%8A%BD%E8%B1%A1%E4%BB%BF%E7%94%9F%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BB%98%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+抽象仿生混合媒介绘画，描绘 {argument name="human subject" default="人类"} 与 {argument name="animal companion" default="动物"}，捕捉它们在 {argument name="environment" default="场景"} 中动态且失去平衡的姿态。通过不规则的浮动细胞形状、轻微扭曲的解剖结构、超大且充满好奇的双眼、圆润的面具状脸庞、俏皮的扭曲比例，以及如同手工剪裁并重组的互锁有机碎片来构建人物。使用 [PALETTE] 配色，结合半透明的酒精墨水晕染、水性颜料渍、干枯的水彩边缘、乳状渐变、饱和的强调形状、柔软的纸张纹理、可见的笔触积墨、松散的石墨轮廓线以及大胆且不完美的勾边。保持构图的奇幻与不稳定感，让人类与动物通过卷曲的肢体、呼应的形状、共同的视线方向以及富有节奏感的抽象运动在视觉上产生联系。背景场景应保持暗示性而非写实，由漂浮的色块、弯曲的几何碎片、漂浮的日常符号以及通透的负空间构成。具有绘画感的抽象肖像张力，俏皮的情感张力，柔和的有机超现实主义，长宽比 4:5。
+
+[English]
+Abstract biomorphic mixed-media painting of {argument name="human subject" default="human"} with {argument name="animal companion" default="animal"}, caught in a dynamic off-balance pose inside {argument name="environment" default="scenery"}. Build the figures from irregular floating shape-cells, softly warped anatomy, oversized curious eyes, rounded mask-like faces, playful distorted proportions, and interlocking organic fragments that feel hand-cut and reassembled. Use [PALETTE] with translucent alcohol-ink blooms, watery pigment stains, dry watercolor edges, milky gradients, saturated accent shapes, soft paper texture, visible brush pooling, loose graphite contour marks, and bold imperfect outline moments. Keep the composition whimsical and unstable, with the human and animal visually connected by curling limbs, echoing shapes, shared eye direction, and rhythmic abstract movement. Background scenery should remain suggestive rather than literal, made from drifting color fields, bent geometric pieces, floating domestic symbols, and airy negative space. Painterly abstract portrait energy, playful emotional tension, softly organic surrealism, aspect ratio 4:5.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2071228817297863162) | 2026-06-28
+
+---
+
+### 🏷️ 例 2673：带有白鹅的城堡岛屿
+
+![带有白鹅的城堡岛屿](../../images/%E5%B8%A6%E6%9C%89%E7%99%BD%E9%B9%85%E7%9A%84%E5%9F%8E%E5%A0%A1%E5%B2%9B%E5%B1%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 4:5 垂直构图的奇幻写实风景插画，画面主体为 {argument name="castle name" default="一座古老的石砌城堡"}，坐落于平静蓝色湖泊边缘的岩石岛屿上，通过一座可见三个拱门的低矮石拱桥与陆地相连。城堡应呈现苏格兰中世纪要塞的风格：高耸的灰色石墙、多个烟囱、陡峭的板岩屋顶、小型塔楼、狭窄的窗户以及风化的砖石，矗立在长满苔藓的岩石上，基座周围点缀着灌木和几棵小树。前景展示覆盖着绿苔和青草的崎岖灰色巨石，右下角有一小片紫色野花；湖水应保持静止并具有倒影，伴有轻微涟漪。场景两侧环绕着远处的蓝绿色山脉，上方是明亮广阔的天空，布满了大片柔软的积云。在天空高处，包含正好 {argument name="bird count" default="13"} 只飞鸟，呈松散的弧形编队飞行：12 只深色小鹅，以及右侧略微偏离、比其他鸟类明显更亮的 1 只白鹅。采用明亮的日光照明，细节清晰，具有绘画般的写实感、丰富的自然色彩以及故事书般的旅游海报氛围，采用广角构图，无文字，无人物，无水印。
+
+[English]
+Create a vertical 4:5 fantasy-realistic landscape illustration of {argument name="castle name" default="an ancient stone castle"} standing on a rocky island at the edge of a calm blue loch, connected to the mainland by a low arched stone bridge with exactly three visible arches. The castle should feel like a Scottish medieval fortress: tall gray stone walls, multiple chimneys, steep slate roofs, small turrets, narrow windows, and weathered masonry, perched on mossy rocks with shrubs and a few small trees around its base. In the foreground, show rugged gray boulders covered with green moss and grasses, with a small patch of purple wildflowers in the lower right; the water should be still and reflective with gentle ripples. Surround the scene with distant blue-green mountains on both sides and a bright, expansive sky filled with large soft cumulus clouds. High in the sky, include exactly {argument name="bird count" default="13"} birds flying in a loose curved formation: 12 small dark geese and 1 distinct white goose slightly separated on the right, visibly brighter than the others. Use luminous daylight, crisp detail, painterly realism, rich natural colors, a storybook travel-poster atmosphere, wide-angle composition, no text, no people, no watermark.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2071159499105460408) | 2026-06-28
+
+---
+
+### 🏷️ 例 2680：Patchouli Yukkuri 宠物店展示
+
+![Patchouli Yukkuri 宠物店展示](../../images/Patchouli%20Yukkuri%20%E5%AE%A0%E7%89%A9%E5%BA%97%E5%B1%95%E7%A4%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张写实、暖色调的照片风格图像，展示一个宠物店展示柜，里面有一只微型的 yukkuri 风格 Patchouli 角色，像小型宠物吉祥物一样骄傲地坐在书本上。
+
+画布：横向 4:3 图像，透过透明亚克力宠物展示柜的平视视角，具有浅景深。背景显示在柔和的室内商店灯光下模糊的宠物店货架和相邻的展示柜。
+
+主体：在展示柜中央放置一个微型圆形 Q 版头部角色，{argument name="character name" default="Patchouli"}，有着半睁的睡眼、紫色头发、粉色荷叶边睡帽，帽子上有一个橙色的小月牙装饰。她直接坐在一本深绿色、看起来很古老且带有金色装饰线条和泛黄书页的大书上，表情显得自鸣得意。
+
+展示柜与道具：展示一个清晰的亚克力笼子隔间，可见透明面板、接缝、铰链和圆形的螺丝状连接点。地板铺着一块奶油色的毛绒垫子。包含六个清晰可见的散落笼内物品：1) 左侧一个揉皱的报纸窝，2) 左前方一个黄色编织球，3) 右侧一个揉皱的报纸窝，4) 右侧报纸上放着一把小草扫帚，5) 相邻右侧区域有一个米色格子甜甜圈宠物床，以及 6) 右边缘附近的一个蓝色编织球。保持展示柜整洁，呈现商店陈列感。
+
+文本元素：添加四个日文文本元素作为印刷或叠加文字。1) 角色上方的一个小型漫画拟声词，读作「むきゅっ」，使用带有白色描边的粗体圆润黑色字体。2) 笼子右上方的一个矩形警告标签，写着「叩いたら\nゆんやー！」。3) 笼子左下方的一个价格牌，写着「ぱちゅりーちゃん\n当ショップ生まれ\n¥1,980」，价格居中且字号较大。4) 最右侧一个带有黑色边框的垂直白色叙述框，写着「お兄さんは\nこのぱちゅりーに\n何かを感じた」。请完全按照所示内容使用日文文本。
+
+视觉风格：照片级真实的微缩模型，融合了微妙的动漫角色，具有真实的亚克力反光、略带深褐色的室内灯光、柔焦背景、柔和的暗角、细腻的报纸纹理，以及舒适但具有商业感的宠物店氛围。
+
+约束条件：仅使用一个角色、一本书、一个笼子隔间作为主要焦点，以及列出的六个可见散落物品。不要添加额外的动物、人类、手部、对话气泡、标志、水印或额外的可读文本。
+
+[English]
+Goal: Create a realistic, warm-toned photo-style image of a pet shop display cage containing a tiny yukkuri-style Patchouli character, posed proudly on a book like a small mascot pet.
+
+Canvas: Landscape 4:3 image, eye-level view through a transparent acrylic pet enclosure, with shallow depth of field. Background shows blurred pet shop shelves and adjacent enclosures under soft indoor store lighting.
+
+Main subject: In the center of the enclosure, place one tiny round chibi head character, {argument name="character name" default="Patchouli"}, with sleepy half-lidded eyes, purple hair, a pink frilly mob cap, and a small orange crescent ornament on the cap. She sits directly on top of one large dark green antique-looking book with gold decorative lines and aged cream pages, looking smug and self-important.
+
+Enclosure and props: Show exactly one clear acrylic cage compartment with visible transparent panels, seams, hinges, and rounded screw-like joints. The floor is covered with one cream-colored fluffy mat. Include exactly six visible loose cage items: 1) a crumpled newspaper nest on the left, 2) one yellow woven ball in front-left, 3) a crumpled newspaper nest on the right, 4) one small straw broom lying on the right newspaper, 5) one beige plaid donut pet bed in the neighboring right area, and 6) one blue woven ball near the right edge. Keep the enclosure clean and store-display-like.
+
+Text elements: Add exactly four Japanese text elements as printed or overlaid text. 1) A small comic sound effect above the character reading 「むきゅっ」 in bold rounded black letters with a white outline. 2) A rectangular warning label on the upper right front of the cage reading 「叩いたら\nゆんやー！」. 3) A price card at the lower left front of the cage reading 「ぱちゅりーちゃん\n当ショップ生まれ\n¥1,980」, with the price large and centered. 4) A vertical white narration box on the far right with black border reading 「お兄さんは\nこのぱちゅりーに\n何かを感じた」. Use the Japanese text exactly as shown.
+
+Visual style: Photorealistic miniature diorama with subtle anime character integration, realistic acrylic reflections, slightly sepia indoor lighting, soft focus background, gentle vignette, detailed newspaper textures, and a cozy but commercial pet-shop atmosphere.
+
+Constraints: Use only one character, one book, one cage compartment as the main focus, and the six listed visible loose items. Do not add extra animals, humans, hands, speech bubbles, logos, watermarks, or additional readable text.
+```
+
+**来源：** [@ゆぐじ](https://x.com/021BX3/status/2071141388117475464) | 2026-06-28
+
+---
+
+### 🏷️ 例 2681：女孩奔跑在魔法森林中
+
+![女孩奔跑在魔法森林中](../../images/%E5%A5%B3%E5%AD%A9%E5%A5%94%E8%B7%91%E5%9C%A8%E9%AD%94%E6%B3%95%E6%A3%AE%E6%9E%97%E4%B8%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个温暖的电影感动漫风格森林场景，采用 2:3 竖构图。一位大约 7 岁、神情愉悦的小女孩正沿着蜿蜒的鹅卵石小路向观众跑来，穿过郁郁葱葱的魔法森林。她留着 {argument name="hair color" default="深棕色"} 的头发，扎成两条系着红色小丝带的麻花辫，有着明亮生动的棕色眼睛、红润的脸颊和灿烂的笑容。她戴着一顶宽大的编织草帽，穿着一件圆领奶油色短袖衬衫，搭配一件 {argument name="dress color and pattern" default="带有白色大圆点的蓝色背带裙"}，穿着白色袜子和棕色玛丽珍鞋。她的身边正好有两只猫在奔跑：左边是一只橘色虎斑猫，尾巴高高竖起，张着嘴巴显得很开心；右边是一只黑白相间的燕尾服猫，有着白色的胸毛、白色的爪子、高竖的尾巴和明亮的眼睛。森林茂密而充满魔力，到处是高大的树木、茂盛的绿色灌木丛、长满苔藓的石头、野生雏菊、细小的粉色花朵，以及小路两侧成簇的红底白点蘑菇。金色的晨光斜射穿过树冠，形成可见的丁达尔效应、发光的尘埃、柔和的薄雾，并在石头和角色身上投下斑驳的光影。采用精致的吉卜力工作室风格手绘动画美学，柔和的绘画质感，丰富的绿色和温暖的黄色调，迷人的角色设计，动态的前进感，低机位视角，背景采用浅景深，营造出治愈的童话氛围。无文字，无水印，无现代物品，无多余人物，且必须正好有两只猫。
+
+[English]
+Create a warm cinematic anime-style forest scene in a vertical 2:3 composition. A cheerful young girl, about 7 years old, runs toward the viewer along a winding cobblestone path through a lush enchanted woodland. She has {argument name="hair color" default="dark brown"} hair in two braided pigtails tied with small red ribbons, bright expressive brown eyes, rosy cheeks, and a wide joyful smile. She wears a large woven straw sunhat, a cream short-sleeve blouse with a rounded collar, a {argument name="dress color and pattern" default="blue pinafore dress with large white polka dots"}, white socks, and brown Mary Jane shoes. Exactly two cats run beside her: one orange tabby cat on the left with a raised striped tail and happy open mouth, and one black-and-white tuxedo cat on the right with a white chest, white paws, raised tail, and bright eyes. The forest is dense and magical, filled with tall trees, leafy green undergrowth, mossy stones, wild daisies, tiny pink flowers, and clusters of red mushrooms with white spots along both sides of the path. Golden morning sunlight streams diagonally through the canopy, creating visible sunbeams, glowing dust motes, soft haze, and dappled light across the stones and characters. Use detailed Studio Ghibli-inspired hand-painted animation aesthetics, soft painterly textures, rich greens and warm yellows, charming character design, dynamic forward motion, low eye-level camera angle, shallow depth of field in the background, and a wholesome fairytale atmosphere. No text, no watermark, no modern objects, no extra people, and exactly two cats.
+```
+
+**来源：** [@Fatema](https://x.com/heyfatema/status/2071139112640545050) | 2026-06-28
+
+---
+
+### 🏷️ 例 2685：韩国嘻哈动漫 MV 截图
+
+![韩国嘻哈动漫 MV 截图](../../images/%E9%9F%A9%E5%9B%BD%E5%98%BB%E5%93%88%E5%8A%A8%E6%BC%AB%20MV%20%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的 YouTube 播放页面截图模型，用于展示韩国嘻哈音乐视频，上方为极具戏剧性的动漫风格 MV 画面，下方为 YouTube 界面。
+
+画布：875×638 横向截图，视频圆角，干净的白色 YouTube 页面背景，裁剪效果如同从桌面浏览器截取。
+
+视频画面：高质量电影感动漫场景，一位美丽的韩国年轻女性正在表演，位置略偏右。她身穿改良版韩服风格表演服，配有白色袖子、黑色马甲、紫色袖口、红色丝带系带和粉色裙摆装饰。她留着深蓝黑色侧分长发，佩戴长款珠饰发簪和耳环，表情自信而强烈。她的右臂向镜头伸展，呈现出强烈的透视感，粉色丝带在前景和背景中飘动。灯光华丽且具有戏剧性，带有霓虹粉色高光、深蓝色夜景背景、动态模糊，呈现出精致的音乐视频质感。在视频画面右上角添加一个小的圆形韩国嘻哈 Logo 水印。
+
+视频内文字与叠加层：在视频画面底部中央添加韩语字幕：“그냥 해 제발 해 그냥 제발 해”。在视频左下角内部，显示一个小的深色半透明键盘提示，文字为“재생 K”。在视频下方中央放置一个白色的圆角音乐发行横幅叠加层。该横幅包含 10 个可见项目：1 最左侧显示一个小专辑封面，标注“그냥 해”；2 YouTube Music 图标及标签“유튜브뮤직”；3 Spotify 图标及标签“스포티파이”；4 Apple Music 图标及标签“애플뮤직”；5 红色发布日期文字“6월 17일 00:00 발매”；6 Melon 图标及标签“멜론”；7 Bugs 图标及标签“벅스”；8 Genie 图标及标签“지니”；9 Flo 图标及标签“플로”；10 红色发布日期文字“6월 22일 12:00 발매”。保持平台横幅清晰可见，但作为次要元素。
+
+下方 YouTube 界面：在视频下方，显示加粗标题“{argument name="video title" default="조선힙합 '그냥 해' Official MV"}”。在标题左下方，包含一个灰色的小型“AI”徽章。显示频道行，包含使用相同韩国嘻哈 Logo 的圆形频道头像、带有验证勾选的频道名称“{argument name="channel name" default="조선힙합"}”、订阅者数量“구독자 5.81만명”以及标注为“구독”的黑色圆角订阅按钮。在右侧，显示 7 个操作控件：1 点赞按钮（带大拇指图标和“8.4천”）；2 点踩按钮（带大拇指向下图标）；3 标注为“공유”的分享按钮；4 带有闪烁图标并标注为“질문하기”的提问按钮；5 标注为“저장”的保存按钮；6 带有三个点的溢出菜单；7 订阅按钮位于频道行中，不计入右侧控件。
+
+视觉风格：结合清晰的浏览器截图美学与生动的动漫 MV 剧照。使用韩语 UI 字体、柔和阴影、圆角胶囊按钮、精确的间距和逼真的 YouTube 比例。截图应呈现出励志歌曲“{argument name="song title" default="그냥 해"}”（由“{argument name="artist name" default="조선힙합"}”演唱）的真实官方音乐视频页面感。
+
+限制：所有可见文字必须严格按照指定位置使用韩语。不要添加额外的 UI 面板、评论、推荐内容或浏览器边框。保持构图一致：动漫视频画面占据图像上方 77% 的区域，YouTube 元数据/操作占据下方区域。
+
+[English]
+Goal: Create a realistic YouTube watch-page screenshot mockup for an official Korean hip-hop music video, showing a dramatic anime-style music video frame at the top and the YouTube interface below.
+
+Canvas: 875×638 horizontal screenshot with rounded video corners, clean white YouTube page background, cropped as if captured from a desktop browser.
+
+Video frame: A high-quality cinematic anime scene of a beautiful young Korean woman in motion, centered slightly right, wearing a modernized hanbok-inspired performance outfit with white sleeves, black vest, purple cuffs, red ribbon tie, and pink skirt accents. She has dark blue-black hair swept to one side, a long ornamental hairpin with beads, earrings, and a confident intense expression. Her right arm reaches toward the camera in strong foreshortening while pink silk ribbons swirl across the foreground and background. The lighting is glossy and dramatic, with neon pink highlights, deep blue night background, motion blur, and a polished music-video look. Add a small circular Korean hip-hop logo watermark in the top-right of the video frame.
+
+On-video text and overlays: Add Korean subtitle text centered near the bottom of the video frame: “그냥 해 제발 해 그냥 제발 해”. At the lower-left inside the video, show a small dark translucent keyboard hint reading “재생 K”. Place a white rounded music-distribution banner overlay across the lower center of the video. This banner contains exactly 10 visible items: 1 small album cover at far left labeled “그냥 해”; 2 YouTube Music icon and label “유튜브뮤직”; 3 Spotify icon and label “스포티파이”; 4 Apple Music icon and label “애플뮤직”; 5 red release date text “6월 17일 00:00 발매”; 6 Melon icon and label “멜론”; 7 Bugs icon and label “벅스”; 8 Genie icon and label “지니”; 9 Flo icon and label “플로”; 10 red release date text “6월 22일 12:00 발매”. Keep the platform banner legible but secondary.
+
+YouTube interface below: Under the video, show the bold title “{argument name="video title" default="조선힙합 '그냥 해' Official MV"}”. Under the title at left, include a small gray “AI” badge. Show the channel row with a circular channel avatar using the same Korean hip-hop logo, channel name “{argument name="channel name" default="조선힙합"}” with a verification check, subscriber count “구독자 5.81만명”, and a black rounded subscribe button labeled “구독”. To the right, show exactly 7 action controls: 1 like button with thumbs-up and “8.4천”; 2 dislike button with thumbs-down; 3 share button labeled “공유”; 4 ask button labeled “질문하기” with sparkle icon; 5 save button labeled “저장”; 6 overflow menu with three dots; 7 the subscribe button is separate in the channel row, not counted among the right-side controls.
+
+Visual style: Combine a crisp browser screenshot aesthetic with a vivid anime MV still. Use Korean UI typography, soft shadows, rounded pills, accurate spacing, and realistic YouTube proportions. The screenshot should feel like a real official music video page for the motivational song “{argument name="song title" default="그냥 해"}” by “{argument name="artist name" default="조선힙합"}”.
+
+Constraints: Keep all visible text in Korean exactly where specified. Do not add extra UI panels, comments, recommendations, or browser chrome. Maintain the same composition: anime video frame occupying the upper 77% of the image and YouTube metadata/actions occupying the lower area.
+```
+
+**来源：** [@YSL](https://x.com/supalee1/status/2071107658258772174) | 2026-06-28
+
+---
+
+### 🏷️ 例 2694：足球传奇排版艺术作品
+
+![足球传奇排版艺术作品](../../images/%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%8E%92%E7%89%88%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅原创、高对比度的编辑排版艺术作品，主角是一位陷入沉思的年轻运动员，呈现四分之三侧面视角。肖像完全由密集的文字马赛克和词云构成。每一个可见表面——包括面部、头发、胡须、颈部、耳朵、衣物和阴影——均由分层排版形成，结合了粗体衬线字体、简洁无衬线字体、紧凑标题、手写体以及复杂的微型文字。大号字体勾勒出轮廓、下颌线、颈部、肩部和发量，而逐渐变小的文字则营造出逼真的皮肤纹理、面部轮廓、高光、皱纹、胡须质感以及平滑的色调过渡。在整幅作品中使用 {argument name="theme" default="足球灵感"} 的词汇和短语，例如：{argument name="keywords" default="SOCCER • FOOTBALL • PORTUGAL • RONALDO 07 • GOAT • WORLD CHAMPION • PLAYMAKER • LEGEND • PASSION • DEDICATION • SUCCESS • DISCIPLINE • DREAM • VICTORY • EXCELLENCE • CHAMPION"}。嘴唇由鲜艳的 {argument name="accent color" default="红色"} 字体组成，与单色设计形成强烈对比。头发、肩部和衣物的边缘自然地消融为破碎的字母、散落的字符、墨迹飞溅和漂浮的排版颗粒，营造出动态的混合媒介效果。背景为亮白色，带有淡淡的手写手稿层、做旧报纸纹理、复古印刷碎片和柔和的编辑纸张纹理，呈现出精致的拼贴美学。整体风格：奢华编辑海报、现代平面设计、混合媒介排版、超细节文字马赛克、高对比度黑白、清晰对焦、博物馆级数字艺术、复杂排版、优雅负空间、高级印刷设计、照片级真实光影、极其细腻的排版构图、8K 分辨率。长宽比：9:16
+
+[English]
+Create an original, high-contrast editorial typographic artwork featuring an athletic young man in a thoughtful three-quarter side profile. The portrait is entirely constructed from a dense text-mosaic and word-cloud composition. Every visible surface—including the face, hair, beard, neck, ears, clothing, and shadows—is formed from layered typography using a rich combination of bold serif fonts, clean sans-serif fonts, condensed headlines, handwritten script, and intricate micro-text. Large typography defines the silhouette, jawline, neck, shoulders, and hair volume, while progressively smaller text creates realistic skin texture, facial contours, highlights, wrinkles, beard texture, and smooth tonal transitions. Use {argument name="theme" default="football-inspired"} words and phrases throughout the artwork, such as: {argument name="keywords" default="SOCCER • FOOTBALL • PORTUGAL • RONALDO 07 • GOAT • WORLD CHAMPION • PLAYMAKER • LEGEND • PASSION • DEDICATION • SUCCESS • DISCIPLINE • DREAM • VICTORY • EXCELLENCE • CHAMPION"} The lips are composed of vivid {argument name="accent color" default="red"} typography, contrasting dramatically with the monochrome design. The outer edges of the hair, shoulders, and clothing dissolve naturally into fragmented letters, scattered characters, ink splatters, and floating typographic particles, creating a dynamic mixed-media effect. The background is bright white with subtle layers of faded handwritten manuscripts, distressed newspaper textures, vintage print fragments, and soft editorial paper grain, producing a sophisticated collage aesthetic. Overall style: Luxury editorial poster Modern graphic design Mixed-media typography Hyper-detailed text mosaic High contrast black and white Sharp focus Museum-quality digital artwork Intricate typography Elegant negative space Premium print design Photorealistic lighting Extremely detailed typography composition 8K resolution Aspect Ratio: 9:16
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2071082979514822668) | 2026-06-28
+
+---
+
+### 🏷️ 例 2696：异想天开的扁平涂鸦艺术重构
+
+![异想天开的扁平涂鸦艺术重构](../../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E9%87%8D%E6%9E%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像重构为一幅扁平化插画，融入俏皮的 {argument name="style" default="童趣涂鸦"} 元素。使用 {argument name="color palette" default="大胆、鲜艳且充满奇思妙想"} 的调色板，将所有细节简化为简洁的扁平形状。融入 {argument name="feel" default="手工制作"} 的质感，通过略显不完美的、手绘风格的轮廓，营造出一种迷人且富有想象力的美学效果，仿佛是在一张白纸上绘制而成。整体风格应可爱、生动且充满令人愉悦的奇思妙想。
+
+[English]
+Reconstruct this image as a single flat illustration infused with playful, childlike doodle elements. Use a bold, vibrant, and whimsical color palette, simplifying every detail into clean, flat shapes. Incorporate a handcrafted feel with slightly imperfect, hand-drawn outlines to create a charming, imaginative aesthetic, as if it were illustrated on a sheet of white paper. The overall style should be cute, expressive, and delightfully whimsical.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2071082104817885419) | 2026-06-28
+
+---
+
+### 🏷️ 例 2697：月光下的哥特式监狱长
+
+![月光下的哥特式监狱长](../../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%93%A5%E7%89%B9%E5%BC%8F%E7%9B%91%E7%8B%B1%E9%95%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑且精致的动漫插画，描绘一位严厉的年轻男性监狱长或哥特式军官，{argument name="character name" default="未命名的监狱长"}，自信地坐在月光石砌牢房内一张华丽的红色天鹅绒维多利亚式沙发上。他皮肤苍白，凌乱的 {argument name="hair color" default="黑色"} 头发垂在脸前，深色圆墨镜后露出锐利的琥珀金色双眼，表情冷峻严肃。为他穿上一套修身的黑色军装，并包含 8 个精确的制服细节：带有银色徽章的尖顶军官帽、银色帽带、黑色领带、白色衬衫领、肩章、胸章、两个翻盖胸袋以及带有银色扣环的黑色腰带。添加黑色手套和高筒亮面黑靴；让他摆出一条腿交叉的姿势，一只手举起拿着一把带有三叶草形柄的古董万能钥匙，另一只手放在靴子旁的一把大型黄铜钥匙上。沙发应带有雕刻的金色饰边、深红色簇绒软垫，以及散落着红色玫瑰花瓣的褶皱浅蓝白色床单；在床单和座位上展示多片独立的花瓣。背景：灰蓝色裂纹石墙，右上角有一扇高大的带栅栏拱窗，透过栅栏可以看到明亮的月牙和星星，清冷的蓝色月光倾泻而入，与沙发温暖的金色装饰形成对比。构图：竖向肖像，戏剧性的低调照明，从上方略微俯视的三分之二侧面视角，角色居中并占据画面大部分空间，电影级阴影，清晰的线条，细致的赛璐珞动漫渲染，忧郁的哥特氛围，高细节，无文字，无水印。
+
+[English]
+Create a dark, polished anime illustration of a stern young male prison warden or gothic officer, {argument name="character name" default="unnamed warden"}, seated confidently on an ornate red velvet Victorian sofa inside a moonlit stone prison cell. He has pale skin, messy {argument name="hair color" default="black"} hair falling over his face, sharp amber-gold eyes visible behind dark round sunglasses, and a cold, serious expression. Dress him in a fitted black military-style uniform with exactly 8 visible uniform details: peaked officer cap with silver badge, silver cap band, black tie, white shirt collar, shoulder epaulettes, chest badge, two flap chest pockets, and black belt with silver buckle. Add black gloves and tall glossy black boots; pose him with one leg crossed, one hand raised holding an antique skeleton key with a clover-shaped bow, and the other hand resting on a second large brass key near his boot. The sofa should have carved gold trim, deep red tufted upholstery, and a rumpled pale blue-white sheet scattered with red rose petals; show multiple individual petals across the sheet and seat. Background: cracked gray-blue stone wall, tall barred arched window on the upper right, bright crescent moon and small stars visible through the bars, cool blue moonlight streaming in and contrasting with warm gold sofa accents. Composition: vertical portrait, dramatic low-key lighting, three-quarter view from slightly above, character centered and filling most of the frame, cinematic shadows, crisp line art, detailed cel-shaded anime rendering, moody gothic atmosphere, high detail, no text, no watermark.
+```
+
+**来源：** [@ぽてあま うにゃる](https://x.com/poteamaunyaru/status/2071080443777348033) | 2026-06-28
+
+---
+
+### 🏷️ 例 2698：故事书奇幻芭菲制作器
+
+![故事书奇幻芭菲制作器](../../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E5%A5%87%E5%B9%BB%E8%8A%AD%E8%8F%B2%E5%88%B6%E4%BD%9C%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张插画。
+根据上传的插画，创作出一款奢华的故事书风格奇幻芭菲。芭菲杯、分层配料、奶油、冰淇淋、水果、果冻、饼干、巧克力、花卉、顶部装饰、饰品、装饰签、菜单卡、Logo、咖啡馆室内、店铺外观、家具、装饰品以及整体呈现效果，都必须根据上传艺术作品的氛围、色彩、光影、时尚感、符号、世界观、情感基调和角色设计自然生成。
+
+不要制作普通的芭菲或咖啡馆。将甜点和整个甜点店转化为一个自然属于上传插画的世界。{argument name="theme" default="日式奇幻或巫女主题"} 可能激发樱花慕斯、抹茶奶油、和果子装饰、漆器风格玻璃饰品、鸟居元素、竹子纹理、纸灯笼咖啡馆和优雅的传统甜点灵感。{argument name="alternative theme" default="未来主义或科幻插画"} 可能激发全息果冻、发光水晶层、悬浮水果、发光芭菲杯、金属质感甜点、霓虹咖啡馆、全息菜单和赛博奇幻甜点精品店的灵感。可爱的粉彩插画可能激发蓬松的鲜奶油、精灵水果、花瓣、魔法糖果、微型吉祥物饼干、闪亮糖晶、梦幻粉彩分层、异想天开的室内装饰和迷人的童话甜点店灵感。
+
+芭菲本身应感觉像是该世界的象征，每一层都表达出原始插画的个性、文化、魔法、建筑和主题元素。玻璃形状、勺子、盘子、餐巾和餐具也应从上传的插画中自然演变，而不是使用普通的咖啡馆设计。
+
+包含一个原创的芭菲名称，以及一块设计精美的说明牌，并使用与插画世界观相符、高度可读的 {argument name="language" default="日语"} 字体。如果上传的插画中包含角色，请将该角色自然地放置在芭菲旁边或开心地展示芭菲，同时保留其原始的面部、发型、服装风格、色彩、比例、个性和面部特征。
+
+超精细高级甜点插画，优雅的咖啡馆广告美学，杰作，高度精细的芭菲，魔法甜点店，电影级光影，奢华甜点呈现，精美食物造型，异想天开的奇幻氛围。
+
+[English]
+Make an illustration.
+Create a luxurious storybook-style fantasy parfait directly based on the uploaded illustration. The parfait glass, layered ingredients, cream, ice cream, fruits, jelly, cookies, chocolates, flowers, toppings, ornaments, decorative picks, menu card, logo, café interior, shop exterior, furniture, decorations, and overall presentation must all be naturally generated from the uploaded artwork’s atmosphere, colors, lighting, fashion, symbols, worldbuilding, emotional tone, and character design.
+
+Do not create a generic parfait or café. Transform the dessert and the entire dessert shop into a world that naturally belongs to the uploaded illustration. {argument name="theme" default="Japanese fantasy or shrine maiden themes"} may inspire sakura mousse, matcha cream, wagashi decorations, lacquer-inspired glass ornaments, torii motifs, bamboo textures, paper lantern cafés, and elegant traditional sweets. {argument name="alternative theme" default="Futuristic or sci-fi illustrations"} may inspire holographic jelly, glowing crystal layers, floating fruits, luminous parfait glasses, metallic desserts, neon cafés, holographic menus, and cyber-fantasy dessert boutiques. Cute pastel illustrations may inspire fluffy whipped cream, fairy fruits, flower petals, magical candy, tiny mascot cookies, sparkling sugar crystals, dreamy pastel layers, whimsical interiors, and enchanting fairy-tale pâtisseries.
+
+The parfait itself should feel like the symbol of that world, with every layer expressing the original illustration’s personality, culture, magic, architecture, and motifs. The glass shape, spoon, plate, napkin, and tableware should also evolve naturally from the uploaded illustration instead of using ordinary café designs.
+
+Include an original parfait name and a beautifully designed explanation plate with highly readable {argument name="language" default="Japanese"} typography matching the illustration’s universe. If the uploaded illustration contains a character, place the same character naturally beside or happily presenting the parfait while preserving the original face, hairstyle, outfit style, colors, proportions, personality, and facial features.
+
+Ultra detailed premium dessert illustration, elegant café advertisement aesthetic, masterpiece, highly detailed parfait, magical pâtisserie, cinematic lighting, luxurious dessert presentation, beautiful food styling, whimsical fantasy atmosphere.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2071079940934762894) | 2026-06-28
+
+---
+
+### 🏷️ 例 2707：动漫少女骑乘无人机飞越富士山
+
+![动漫少女骑乘无人机飞越富士山](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%AA%91%E4%B9%98%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E8%B6%8A%E5%AF%8C%E5%A3%AB%E5%B1%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅明亮的动漫风格插画，描绘一名开朗的女学生骑在一架大型四轴无人机上，高空俯瞰日本，下方可见富士山和蓝色海岸线。女孩是 {argument name="character age and style" default="一位可爱的动漫女学生"}，留着深棕色短波波头，有着灰棕色的大眼睛、红润的脸颊和灿烂友好的笑容。她身穿干练的白色长袖衬衫、黑色百褶裙、黑色短袜、黑色系带运动鞋（配白色鞋底），并背着一个黑色书包；她侧坐在无人机机身上，双手放在膝盖上，双腿自然垂在前方。无人机是一架白色的工业级四轴无人机，拥有四个机臂、四个可见的螺旋桨电机、带有黄色尖端的黑色螺旋桨叶片、红色装饰面板、起落架以及机身下方的前置云台相机。背景是广阔的航拍全景：左侧是白雪皑皑的 {argument name="landmark" default="富士山"}，远处是深蓝色的海洋和海岸线，下方是绿色的山谷和山脊，不同高度点缀着蓬松的白云，天空呈现清澈的淡蓝色。在左上角添加一只可爱的小黄鸡吉祥物，并标注标签 {argument name="corner label" default="BIRD"}。采用精致的日本动漫关键视觉渲染风格，线条清晰，柔和的赛璐珞阴影，色彩鲜艳，采用从上方和前方略微倾斜的动态广角视角，营造出奇幻冒险的氛围，拒绝单色，拒绝写实，不包含额外角色，无水印。
+
+[English]
+Create a bright anime-style illustration of a cheerful schoolgirl riding on top of a large quadcopter drone high above Japan, with Mount Fuji and a blue ocean coastline visible far below. The girl is {argument name="character age and style" default="a cute young anime schoolgirl"} with short dark brown bobbed hair, large gray-brown eyes, rosy cheeks, and a wide friendly smile. She wears a crisp white long-sleeve button-up shirt, a black pleated skirt, black socks, black lace-up sneakers with white soles, and a black backpack; she sits side-saddle on the drone body with both hands resting on her knees and her legs dangling forward. The drone is a white industrial quadcopter with exactly four arms, four visible propeller motors, black propeller blades with yellow tips, red accent panels, landing gear, and a front-mounted camera gimbal beneath the body. The background is an expansive aerial panorama: snow-capped {argument name="landmark" default="Mount Fuji"} on the left, deep blue ocean and coastline in the distance, green valleys and ridges below, fluffy white clouds at multiple heights, and a clear pale blue sky. Add a tiny cute yellow chick mascot in the upper-left corner with the label {argument name="corner label" default="BIRD"}. Use polished Japanese anime key visual rendering, clean line art, soft cel shading, vivid colors, dynamic wide-angle perspective from slightly above and in front, whimsical adventurous mood, no monochrome, no photorealism, no extra characters, no watermark.
+```
+
+**来源：** [@bird@こまちゃんのAI部屋](https://x.com/bdinfo1473691/status/2071051150267498641) | 2026-06-28
+
+---
+
