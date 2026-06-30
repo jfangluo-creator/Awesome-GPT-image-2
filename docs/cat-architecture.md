@@ -1363,3 +1363,43 @@ Create a soft pastel anime illustration of {argument name="character name" defau
 
 ---
 
+### 🏛️ 例 2739：CCTV 监控惊悚片风格地铁站
+
+![CCTV 监控惊悚片风格地铁站](../../images/CCTV%20%E7%9B%91%E6%8E%A7%E6%83%8A%E6%82%9A%E7%89%87%E9%A3%8E%E6%A0%BC%E5%9C%B0%E9%93%81%E7%AB%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级监控惊悚片风格的图像，场景位于 {argument name="location" default="巨大的多层地下地铁站"}。摄像机应模拟安装在天花板上的 CCTV，从约 40 度的高处俯瞰长长的工业风自动扶梯和复杂的车站建筑。构图采用 4:5 竖屏比例，自动扶梯以对角线贯穿画面，营造出强烈的深度感和规模感。车站内挤满了数百名双向行走的通勤者，形成混乱的人流，并带有轻微的动态模糊。画面中心，一名 {argument name="subject" default="与上传参考图一致的"} 角色正走下扶梯。该角色看起来移动迅速，身体微微前倾。一只手扶着自动扶梯扶手以保持平衡，另一只手提着一个带有逼真反光的小型亮黑色迷你包。在戏剧性的一刻，角色突然转头看向镜头，营造出一种强烈的打破第四面墙的瞬间，仿佛他们知道自己正在被监视。添加逼真的 CCTV 界面叠加层，包括：实时录制指示器、时间戳和摄像机 ID、锁定在角色脸部的面部追踪方框、角落处辅助的放大面部识别面板、极简的技术 HUD 元素和监控图形。灯光应为现代地铁站典型的冷色调荧光灯，金属扶梯表面和抛光扶手上有逼真的反光。保持周围人群略微模糊，同时使主体保持清晰对焦。整体氛围：高端纪录片式监控惊悚片，超写实摄影，电影级构图，逼真的皮肤纹理，自然的人群行为，细腻的环境反射，以及专业电影级的写实感。
+
+[English]
+Create a cinematic surveillance-thriller image set inside a {argument name="location" default="massive multi-level underground metro station"}. The camera should feel like a ceiling-mounted CCTV positioned high above at roughly a 40-degree angle, looking down over a long industrial escalator and the complex architecture of the station. The composition should use a 4:5 vertical frame, with the escalator cutting diagonally through the image to create strong depth and scale. The station is crowded with hundreds of commuters moving in both directions, forming a chaotic flow of people with subtle motion blur. At the center of the frame, a single person {argument name="subject" default="matching the uploaded reference image"} is descending the escalator. The subject appears to be moving quickly, slightly leaning forward. One hand holds the escalator handrail for balance, while the other carries a small glossy black mini bag with realistic reflections. At a dramatic moment, the subject suddenly turns their head over their shoulder and looks directly into the camera, creating an intense fourth-wall-breaking moment, as if they know they are being watched. Add a realistic CCTV interface overlay, including: Live recording indicators, Timestamp and camera ID, A facial-tracking square locked onto the subject, A secondary zoomed-in facial recognition panel in one corner, Minimal technical HUD elements and surveillance graphics. Lighting should be cold and fluorescent, typical of a modern subway station, with realistic reflections on the metallic escalator surfaces and polished handrails. Keep the surrounding crowd slightly blurred while the subject remains sharp and in focus. Overall mood: high-end documentary surveillance thriller, ultra-photorealistic, cinematic composition, realistic skin textures, natural crowd behavior, detailed environmental reflections, and professional movie-grade realism.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2071605430858756121) | 2026-06-29
+
+---
+
+### 🏛️ 例 2747：沉浸式 4DX 影院场景
+
+![沉浸式 4DX 影院场景](../../images/%E6%B2%89%E6%B5%B8%E5%BC%8F%204DX%20%E5%BD%B1%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级 {argument name="theater type" default="4DX 影院"} 场景，从 {argument name="lighting" default="昏暗"} 的影厅内部拍摄的广角镜头，观众坐在排椅上举着智能手机拍摄。
+
+巨大的 {argument name="screen type" default="IMAX / 4DX"} 曲面屏幕占据了整个空间。屏幕打破了边界
+
+[English]
+Ultra realistic cinematic {argument name="theater type" default="4DX theater"} scene, wide angle shot from inside a {argument name="lighting" default="dark"} cinema hall, audience seated in rows holding up smartphones filming.
+
+A massive {argument name="screen type" default="IMAX / 4DX"} curved screen dominates the room. The screen is breaking the boundary
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2071581992211366146) | 2026-06-29
+
+---
+

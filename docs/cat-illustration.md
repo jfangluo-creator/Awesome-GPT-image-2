@@ -5948,3 +5948,234 @@ Create an ultra-wide social media profile header banner in cinematic anime style
 
 ---
 
+### 🎨 例 2717：阳光湖畔的跳跃少女
+
+![阳光湖畔的跳跃少女](../../images/%E9%98%B3%E5%85%89%E6%B9%96%E7%95%94%E7%9A%84%E8%B7%B3%E8%B7%83%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="朝へ跳ぶ"}
+
+人物・表情：
+{argument name="人物" default="20代女性"}。少女のような軽やかさと、大人っぽい清潔感をあわせ持つ顔立ち。長い黒髪は朝の風でふわりと後方へ流れ、前髪と顔まわりの毛束が自然に揺れている。明るいアイボリーベージュ寄りの白肌で、ほんのりピンクの血色を含んだなめらかな質感。頬、鼻先、肩、鎖骨に柔らかなハイライト。淡いローズピンクのチーク、シャンパンベージュとピンクブラウンの目元、細く長いまつ毛、自然な涙袋、明るめブラウンの柔らかなアーチ眉。唇は透け感のあるピンクベージュのグロス。表情は朝空を見上げるような、開放感のある自然な笑顔。
+
+服装・ポーズ：
+白いシンプルなトップスに、淡いピンクとアイボリーが混ざる薄手のシアーシャツを羽織る。シャツは朝光を透かし、袖と裾が風で軽く広がる。黒のハイウエストミニスカート、細めの黒ベルト、黒のレースアップショートブーツ。水面のすぐ上で跳ね上がった瞬間。身体は少し画面右へ開き、人物自身の右腕を高く伸ばして指先を空へ向ける。人物自身の左腕は画面左下へ自然に広げ、指先は力を抜く。片脚は軽く曲げ、もう片脚は下へ伸び、足元に小さな水しぶきが立つ。
+
+背景・光：
+早朝の湖畔または浅い水辺。澄んだ青空に白い雲が広がり、大小のシャボン玉が上空へ浮かんでいる。遠景に低い山並みと緑の岸辺。主光源は画面下奥の朝日で、人物の脚、髪、肩、シアーシャツの縁を逆光気味に照らす。顔には水面と空からの柔らかな反射光が入り、影は薄く自然。水面には空、雲、人物の脚とブーツが淡く映り込む。
+
+構図・カメラ：
+縦長 2:3。ローアングルの全身ポートレート。人物は画面中央やや上に配置し、全身が入る。足元の水面と反射を下部に残し、上部には青空とシャボン玉の余白を大きく取る。カメラは水面近くの低い位置から見上げる。広角寄りだが歪みは控えめ。人物の顔と上半身にピントを合わせ、背景の山並みは少し柔らかくする。
+
+質感・スタイル：
+リアルな朝のファッション写真。自然な肌理、髪の細い毛束、シアー素材の透け感、スカートの布の重なり、ブーツの革の質感、水しぶきと反射を丁寧に描写。明るく透明感のある色調、白飛びしすぎない朝日、軽いレンズフレア。AIイラストではなく、実際に屋外で撮影したようなフォトリアル表現。
+
+ネガティブ：
+過度な美肌補正、プラスチックのような肌、白飛びした顔、不自然な笑顔、余分または欠けた指、手足の融合、関節の破綻、不自然な浮遊感、足元と水面の接触不良、反射のずれ、光源と矛盾する影、スカートやシャツの物理破綻、不要な人物、文字、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2071719106252853698) | 2026-06-29
+
+---
+
+### 🎨 例 2729：传统戏曲造型草图
+
+![传统戏曲造型草图](../../images/%E4%BC%A0%E7%BB%9F%E6%88%8F%E6%9B%B2%E9%80%A0%E5%9E%8B%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+生成一张《纸上成真 · 戏韵妆造稿》风格图片，4:5 竖版。
+
+主题为【{argument name="主题" default="京剧花旦"}】。画面是一张米白色戏曲妆造设定稿纸夹在木质画板上，置于温暖木色工作台。一位写实成年中国女性从纸上自然立起，形成“纸上成真”的视觉效果。
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2071624479516553613) | 2026-06-29
+
+---
+
+### 🎨 例 2731：提示词：
+
+使用一张人物照片作为主体身份参考，保留人物五官比例、脸型轮廓、眼神气质、长黑色微卷发、冷
+
+![提示词：
+
+使用一张人物照片作为主体身份参考，保留人物五官比例、脸型轮廓、眼神气质、长黑色微卷发、冷](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E9%95%BF%E9%BB%91%E8%89%B2%E5%BE%AE%E5%8D%B7%E5%8F%91%E3%80%81%E5%86%B7.jpg)
+
+**Prompt:**
+
+```text
+使用一张人物照片作为主体身份参考，保留人物五官比例、脸型轮廓、眼神气质、长黑色微卷发、冷淡柔和的表情与整体辨识度，不要生成陌生人脸，不要过度美颜，不要塑料感。
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2071621875017584702) | 2026-06-29
+
+---
+
+### 🎨 例 2734：日语提示词技巧 Slides
+
+![日语提示词技巧 Slides](../../images/%E6%97%A5%E8%AF%AD%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E5%B7%A7%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张简洁的日语教学 Slides，介绍提示词编写技巧 {argument name="tip number" default="コツ①"}，说明应优先明确留白和排除元素。
+
+画布：16:9 横向演示 Slides，暖米白色背景，宽裕的页边距，现代极简编辑排版。使用深海军蓝文字和青色点缀。
+
+布局：将 Slides 分为左右两栏。左栏占据约 48% 的宽度，包含课程文本和两张对比卡片。右栏占据约 47% 的宽度，展示一个大型示例横幅：一个纯海军蓝矩形，仅在中心放置一行白色标题。
+
+左栏细节：左上角放置一个圆角青色胶囊标签，文字为 {argument name="badge text" default="コツ①"}。下方使用深海军蓝的大号加粗日语标题：{argument name="main headline" default="余白と「入れないもの」を最初に明示する"}。仅在「入れないもの」短语下方添加一条细青色下划线。标题下方放置一个青色圆形勾选图标，后接加粗文字：「一番効きます。」，并在该句下方添加一条短青色下划线。
+
+对比部分：在课程文本下方，并排放置 2 张带有浅灰色边框的圆角矩形卡片。卡片 1 为反面教材，顶部贴有小型灰色胶囊标签「悪い例」，左上角附近有一个浅灰色 X 图标。内容包含引语「夏のセールのバナーを作って。おしゃれな感じで。」，下方是一个杂乱且色彩丰富的夏季促销横幅缩略图，包含棕榈叶、沙滩色调、装饰性徽章、英文单词、折扣圆圈、日期以及许多小装饰；可见文字包括“SPECIAL”、“SUMMER”、“夏のセール”、“今だけおトク！”、“最大50% OFF”以及“期間限定！7.1 TUE ▶ 7.31 THU”。卡片 2 为正面教材，顶部贴有青色胶囊标签「良い例」，右上角有一个青色勾选图标。内容包含一个日语短列表，描述约束条件：「夏のセールのバナー。」、「背景は単色のネイビー」、「上下左右に広い余白を残す」、「中央に『夏のセール』のみ大きく」、「他の文字・英語・装飾・バッジは一切入れない」。
+
+右栏示例：创建一个大型纯深海军蓝矩形，无边框、无装饰、留有大面积空白。在中心放置一个白色日语标题 {argument name="banner headline" default="夏のセール"}。文字应为大号、加粗、简洁的无衬线字体，水平和垂直居中。右侧横幅内不得添加任何其他文字、图标、徽章、图像、图案、渐变或装饰元素。
+
+视觉风格：日本科技/商业教育设计，排版清晰，高对比度，间距精准，圆角柔和，青色点缀，无水印。构图应接近截图式的演示 Slides。
+
+[English]
+Goal: Create a clean Japanese instructional slide about prompt-writing tip {argument name="tip number" default="コツ①"}, explaining that whitespace and excluded elements should be stated first.
+
+Canvas: 16:9 horizontal presentation slide, warm off-white background, generous margins, modern minimalist editorial layout. Use dark navy text and teal accents.
+
+Layout: Split the slide into two main columns. The left column takes about 48% width and contains the lesson text plus two comparison cards. The right column takes about 47% width and shows a large example banner: a solid navy rectangle with only one centered white headline.
+
+Left column details: At top left, place a rounded teal pill label reading {argument name="badge text" default="コツ①"}. Below it, use a large bold Japanese headline in dark navy: {argument name="main headline" default="余白と「入れないもの」を最初に明示する"}. Add a thin teal underline only under the phrase 「入れないもの」. Under the headline, place a teal circular check icon followed by bold text: 「一番効きます。」 with a short teal underline beneath the sentence.
+
+Comparison section: Below the lesson text, place exactly 2 rounded rectangular cards side by side with light gray borders. Card 1 is the bad example, labeled with a small gray pill 「悪い例」 at the top and a pale gray X icon near the upper-left corner. It contains the quote 「夏のセールのバナーを作って。おしゃれな感じで。」 and below it a busy colorful summer-sale banner thumbnail with palm leaves, beach colors, decorative badges, English words, discount circles, dates, and many small ornaments; visible text includes “SPECIAL”, “SUMMER”, 「夏のセール」, 「今だけおトク！」, 「最大50% OFF」, and 「期間限定！7.1 TUE ▶ 7.31 THU」. Card 2 is the good example, labeled with a teal pill 「良い例」 at the top and a teal check icon at the upper-right corner. It contains a short bullet list in Japanese describing the constraints: 「夏のセールのバナー。」, 「背景は単色のネイビー」, 「上下左右に広い余白を残す」, 「中央に『夏のセール』のみ大きく」, 「他の文字・英語・装飾・バッジは一切入れない」.
+
+Right column example: Create one large solid dark navy rectangle with no border, no decoration, and wide empty space. Center a single white Japanese headline reading {argument name="banner headline" default="夏のセール"}. The text should be large, bold, clean sans-serif, horizontally and vertically centered. Do not add any other text, icons, badges, images, patterns, gradients, or decorative elements inside this right banner.
+
+Visual style: Japanese tech/business education design, crisp typography, high contrast, precise spacing, subtle rounded corners, teal accent color, no watermark. Keep the composition close to a screenshot-like presentation slide.
+```
+
+**来源：** [@広告自動化マン｜Tasky](https://x.com/tasky_ai/status/2071615037173858700) | 2026-06-29
+
+---
+
+### 🎨 例 2754：粗线条几何风蓝发精灵少女
+
+![粗线条几何风蓝发精灵少女](../../images/%E7%B2%97%E7%BA%BF%E6%9D%A1%E5%87%A0%E4%BD%95%E9%A3%8E%E8%93%9D%E5%8F%91%E7%B2%BE%E7%81%B5%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简单的扁平化 2D 数字绘图，看起来像是用基础多边形和线条通过程序绘制而成，背景为纯浅灰色。画面中央为一位正面朝向的动漫风格少女半身像，拥有圆润的桃色脸庞、向左右两侧伸出的尖尖精灵耳，以及一个小巧的微笑嘴巴。她的头发由棱角分明的几何板块构成：两侧各有一缕长方形侧发，额前是带有尖锐三角形刘海的中分发型，脑后则是一个深蓝色的弧形发块。她的眼睛大而简洁，带有黑色轮廓、白色眼白、红色虹膜、深色瞳孔以及细细的灰色眉毛；鼻尖处点缀一个小小的淡粉色圆点。角色身穿一件简洁的超大号白色梯形衬衫，衬衫边缘有极细的灰色轮廓，颈部为短桃色，领口有两条淡淡的斜向灰色线条；衬衫后方隐约可见两个简单的圆形白色肩部或袖子形状。使用极简阴影、细黑/灰色轮廓、可见的多边形边缘，并呈现出一种刻意为之的粗糙手工/Pillow 风格。构图保持对称，头部位于上方中央，衬衫占据下半部分。该角色应类似于一位可爱的精灵耳动漫少女，名为 {argument name="character name" default="一位蓝发精灵少女"}，画面中不包含任何文字、水印或复杂的背景。
+
+[English]
+Create a simple flat 2D digital drawing that looks like it was drawn programmatically with basic polygon and line shapes on a plain light gray background. Center a front-facing anime-style girl bust with a large round peach face, pointed elf ears extending left and right, and a small smiling mouth. She has {argument name="hair color" default="light sky blue"} hair made of angular geometric panels: two long rectangular side locks hanging down on both sides, a central split fringe with sharp triangular bangs, and a dark blue curved back-hair shape behind the head. Her eyes are large but simply drawn, with black outlines, white sclera, red irises, dark pupils, and thin gray eyebrows; add a tiny pale pink dot nose. The character wears a plain oversized white trapezoid shirt with very thin gray outlines, a short peach neck, and two faint diagonal gray collar lines; include two simple circular white shoulder or sleeve shapes partially visible behind the shirt. Use minimal shading, thin black/gray outlines, visible polygon edges, and an intentionally crude handmade/Pillow-like aesthetic. Keep the composition symmetrical, with the head occupying the upper center and the shirt filling the lower half. The character should resemble a cute elf-eared anime girl named {argument name="character name" default="a blue-haired elf girl"}, with no text, no watermark, and no detailed background.
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2071567193624740243) | 2026-06-29
+
+---
+
+### 🎨 例 2774：害羞狐狸少年动漫贴纸
+
+![害羞狐狸少年动漫贴纸](../../images/%E5%AE%B3%E7%BE%9E%E7%8B%90%E7%8B%B8%E5%B0%91%E5%B9%B4%E5%8A%A8%E6%BC%AB%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 1:1 正方形的动漫风格贴纸插图，背景为纯白色。画面主体为一只快乐的拟人化狐狸少年，拥有橙色皮毛、奶油色口鼻部和脸颊、大而直立的狐耳、尖尖的金色橙色头发，以及一张毛茸茸的年轻脸庞。他正在大笑，双眼眯成月牙状，张开的嘴里露出一颗小尖牙；脸部上方有一道蓝紫色的阴影腮红，脸上恰好有 5 滴可见的汗珠，表现出略显尴尬的神情。采用半身构图，人物居中，左手放在脑后做出羞涩抓挠的动作，右手握拳置于胸前。在头部周围添加 4 个小巧的弧形动态/情绪符号，左侧 2 个，右侧 2 个。服装：黑色短袖夹克，配有亮青蓝色兜帽和拉链装饰；双肩背着带有银色扣环的黑色背包带；身穿白色 T 恤，印有简单的黑色涂鸦兔子脸图案；佩戴黑色露指手套，配有金属银色指节护板；双腕/前臂缠绕白色绷带。使用清晰的线条艺术、赛璐珞动漫渲染，头发和耳朵带有光泽高光，采用温暖的橙色和奶油色皮毛色调，点缀鲜艳的青色，呈现出可爱且富有表现力的吉祥物/兽人角色风格。保持背景为纯白色，无文字、无水印、无额外角色、无场景。角色可自定义：{argument name="character species" default="拟人化狐狸少年"}、{argument name="fur color" default="橙色配奶油色口鼻部和脸颊"}、{argument name="hood color" default="亮青蓝色"}、{argument name="shirt graphic" default="简单的黑色涂鸦兔子脸"} 以及 {argument name="expression" default="尴尬的欢笑表情"}。
+
+[English]
+Create a square 1:1 anime-style sticker illustration on a clean white background, featuring a single cheerful anthropomorphic fox boy with orange fur and cream muzzle/cheeks, large upright fox ears, spiky golden-orange hair, and a fluffy youthful face. He is laughing with closed crescent eyes, an open smiling mouth with one small fang visible, and a slightly embarrassed expression shown by a bluish-purple shaded blush band across the upper face and exactly 5 visible sweat drops on the face. Pose him from the waist up, centered, with his left hand behind his head in a sheepish scratch and his right fist held near his chest. Add exactly 4 small curved motion/emotion marks around the head, 2 on the left and 2 on the right. Outfit: black short-sleeve jacket with a bright cyan-blue hood and zipper trim, black backpack straps with silver buckles over both shoulders, white T-shirt with a simple black doodle bunny face graphic, black fingerless gloves with metallic silver knuckle plates, and white bandage wraps on both wrists/forearms. Use crisp clean line art, cel-shaded anime rendering, glossy highlights on hair and ears, warm orange and cream fur tones, vivid cyan accents, and a cute expressive mascot/furry character style. Keep the background plain white with no text, no watermark, no extra characters, and no scenery. The character can be customized as {argument name="character species" default="anthropomorphic fox boy"}, {argument name="fur color" default="orange with cream muzzle and cheeks"}, {argument name="hood color" default="bright cyan blue"}, {argument name="shirt graphic" default="simple black doodle bunny face"}, and {argument name="expression" default="embarrassed laughing smile"}.
+```
+
+**来源：** [@XuGiNo..](https://x.com/xugino_cn/status/2071501552662257973) | 2026-06-29
+
+---
+
+### 🎨 例 2791：黄铜杆展示架修改器
+
+![黄铜杆展示架修改器](../../images/%E9%BB%84%E9%93%9C%E6%9D%86%E5%B1%95%E7%A4%BA%E6%9E%B6%E4%BF%AE%E6%94%B9%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+底辺の左右に{argument name="素材" default="真鍮"}の棒を支えとして貫通させて傾斜させて、{argument name="アイテム" default="スタンド"}にして。
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2071436556049735942) | 2026-06-29
+
+---
+
+### 🎨 例 2796：奢华时尚服装概念插画
+
+![奢华时尚服装概念插画](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9C%8D%E8%A3%85%E6%A6%82%E5%BF%B5%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张奢华时尚服装设计插画，手绘高级定制概念艺术，采用光泽感的半写实数字时尚草图风格 —— 干净的线条艺术，搭配流畅的绘画式赛璐珞渲染，精致的配色，
+
+[English]
+A luxury fashion costume-design illustration sheet, hand-drawn couture concept art in a glossy semi-realistic digital fashion-sketch style — clean line art with smooth painterly cel-shaded rendering, refined coloring,
+```
+
+**来源：** [@Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk/status/2071429541847810421) | 2026-06-29
+
+---
+
+### 🎨 例 2797：手持望远镜的女性水彩插画
+
+![手持望远镜的女性水彩插画](../../images/%E6%89%8B%E6%8C%81%E6%9C%9B%E8%BF%9C%E9%95%9C%E7%9A%84%E5%A5%B3%E6%80%A7%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅精致的手绘水彩插画，绘制在纹理细腻的象牙白棉纸上。画面中，一位活泼的年轻女性留着 {argument name="hair style" default="棕色短波波头"}，蹲在一架安装在银色铝制三脚架上的经典折射望远镜旁。她正透过望远镜望向天空，脸上带着温暖的微笑，展现出对世界的好奇与惊叹。她身穿一件 {argument name="outfit" default="炭灰色廓形卫衣"}，上面印有低调的白色字母，下搭灰色长款格纹裙和黑色皮鞋。构图简约，留白充裕，色彩采用柔和的低饱和度大地色系，辅以细腻的墨线勾勒、微妙的水彩晕染、纸张纹理和轻盈的笔触，背景中散落着几点靛蓝色的颜料溅点。光线柔和自然，氛围宁静，充满日式绘本美学，手工水彩素描，营造出舒适的生活气息，构图优雅，水彩渲染细节丰富，插画品质卓越，4K 分辨率。
+
+[English]
+A delicate hand-painted watercolor illustration on textured ivory cotton paper, featuring a cheerful young woman with a {argument name="hair style" default="short brown bob haircut"} crouching beside a classic refractor telescope mounted on a silver aluminum tripod. She smiles warmly while looking through the telescope toward the sky, creating a sense of curiosity and wonder. She wears an {argument name="outfit" default="oversized charcoal-gray sweatshirt"} with subtle white lettering, a long gray plaid skirt, and black leather shoes. The composition is minimalist with generous negative space, soft muted earth tones, gentle ink outlines, subtle watercolor bleeding, paper grain, light brush textures, and a few scattered indigo paint splatters floating behind her. Soft natural lighting, calm atmosphere, Japanese storybook aesthetic, handmade watercolor sketch, cozy slice-of-life mood, elegant composition, high-detail watercolor rendering, premium illustration quality, 4K.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2071428584204538274) | 2026-06-29
+
+---
+
+### 🎨 例 2801：埃及英雄对决巨蛇
+
+![埃及英雄对决巨蛇](../../images/%E5%9F%83%E5%8F%8A%E8%8B%B1%E9%9B%84%E5%AF%B9%E5%86%B3%E5%B7%A8%E8%9B%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的奇幻网游主视觉图，背景设定在日落时分的古埃及神话城市。前景中，展示 1 位英雄战士：{argument name="foreground hero" default="一位类似古埃及法老的战士"}，从背后视角呈现，姿态强劲，身穿华丽的金蓝色盔甲，头戴条纹法老头饰，身披多层布袍，佩戴护腕，单臂持盾，手握一把弯曲的镰状剑（khopesh）。英雄站在废弃的石质露台上，俯瞰着尼罗河畔广阔的都市。背景中，展示 1 只巨型怪物：{argument name="background monster" default="一条巨大的世界之蛇 / 类似阿波菲斯（Apophis）的眼镜蛇"}，其巨大的鳞片躯体盘绕在城市中，环绕着高耸的神庙石柱；蛇头向前猛扑，张开大颚，露出獠牙，表情凶狠。包含 5 个显著的古建筑元素：远处朦胧城市中的 2 座高大方尖碑，右侧 2 根刻有象形文字的神庙石柱，以及最右侧边缘附近的 1 座埃及坐姿雕像。添加一条宽阔的河流，河上有 3 艘可见的帆船，远处有金字塔和神庙的剪影、烟雾、尘土、小火堆、微小的人影以及充满戏剧性的废墟。采用 16:9 宽画幅构图，英雄背后的低机位视角，展现人类与怪物之间史诗般的比例对比，金橙色的落日天空，左侧地平线附近有发光的太阳，体积云，大气雾霾，轮廓光，高度精细的石雕和蛇鳞纹理，黑暗奇幻冒险氛围，照片级 3D 概念艺术品质，无文字，无 UI，无水印。
+
+[English]
+Create a cinematic fantasy online-game key art scene set in an ancient Egyptian mythological city at sunset. In the foreground, show exactly 1 heroic warrior: {argument name="foreground hero" default="an ancient Egyptian pharaoh-like warrior"} seen from behind in a strong standing pose, wearing ornate gold-and-blue armor, a striped pharaonic headdress, layered cloth robes, bracers, and a shield on one arm, holding a curved khopesh sword. The hero stands on a ruined stone terrace overlooking a vast Nile-side metropolis. In the background, show exactly 1 colossal monster: {argument name="background monster" default="a gigantic world-serpent / Apophis-like cobra"} whose massive scaled body coils through the city and loops around towering temple columns; its head lunges forward with open jaws, fangs, and a threatening expression. Include exactly 5 prominent ancient architectural elements: 2 tall obelisks in the hazy city distance, 2 carved hieroglyphic temple columns on the right, and 1 seated Egyptian statue near the far-right edge. Add a broad river with exactly 3 visible sailboats, distant pyramids and temple silhouettes, smoke, dust, small fires, tiny human figures, and dramatic ruins. Use a wide 16:9 composition, low camera angle behind the hero, epic scale contrast between human and monster, golden-orange sunset sky, glowing sun near the left horizon, volumetric clouds, atmospheric haze, rim lighting, highly detailed stone carvings and serpent scales, dark fantasy adventure mood, photorealistic 3D concept art quality, no text, no UI, no watermark.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2071418291818811799) | 2026-06-29
+
+---
+
+### 🎨 例 2803：风暴龙战：勇士对决
+
+![风暴龙战：勇士对决](../../images/%E9%A3%8E%E6%9A%B4%E9%BE%99%E6%88%98%EF%BC%9A%E5%8B%87%E5%A3%AB%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个中国古代神话风格的电影级奇幻游戏主视觉场景，画面包含 2 个核心主体：1 个前景主体，{argument name="foreground subject" default="一位灵感源自哪吒的年轻英雄，站在黑色海岸岩石上"}，以及 1 个背景实体，{argument name="background entity" default="一条从风暴海浪中腾空而起的巨型蓝色中国海龙"}。英雄位于 16:9 宽画幅的左侧三分之一处，全身可见，面向右侧，姿态桀骜，高束的长黑发在风中飘扬，红色丝带在身后飞舞，身着红黑叠层战袍，佩戴护臂和华丽腰带，手持一杆两端燃火的火尖枪。巨龙占据右侧及背景，蛇形身躯在天空与海洋间盘旋，覆盖蓝色鳞片，长须飘动，鹿角峥嵘，鬃毛如刺，琥珀色的双眼闪烁光芒，张口咆哮，海水在其身周炸裂。场景设定在狂风暴雨中的锯齿状火山海岸，背景是深蓝灰色的风暴云、倾盆大雨、汹涌的海浪、飞溅的海沫，闪电在主体身后交织，远处可见朦胧的山峦剪影。采用戏剧性的低角度构图，展现史诗级的比例对比，呈现锐利的奇幻写实感、超精细的纹理、动态的张力，冷色调的风暴光影与暖橙色的火焰光芒形成对比，电影级体积光，高对比度，兼具绘画感与照片级真实感，无文字，无水印，无现代物品。
+
+[English]
+Create a cinematic fantasy game key art scene in an ancient Chinese mythological style, showing exactly 2 main subjects: 1 foreground subject, {argument name="foreground subject" default="a young warrior hero inspired by Nezha, standing on black coastal rocks"}, and 1 background entity, {argument name="background entity" default="a colossal blue Chinese sea dragon rising from storm waves"}. The hero stands on the left third of a wide 16:9 canvas, full body visible, facing right in a defiant stance, with long black hair tied high and blowing in the wind, red ribbons streaming behind, layered red-and-black battle robes, arm wraps, ornate belts, and a flaming spear held diagonally with fire burning at both ends. The dragon dominates the right side and background, serpentine body looping through the sky and ocean, blue scales, long whiskers, antler-like horns, spiny mane, glowing amber eyes, open roaring mouth, and water exploding around its body. Set the scene on a jagged volcanic shoreline during a violent thunderstorm with dark blue-gray storm clouds, heavy rain, turbulent ocean waves, sea spray, lightning branching behind the subjects, and misty mountain silhouettes in the distance. Use dramatic low-angle composition, epic scale contrast, sharp fantasy realism, ultra-detailed textures, dynamic motion, cold blue storm lighting contrasted with warm orange flame glow, cinematic volumetric lighting, high contrast, painterly yet photorealistic finish, no text, no watermark, no modern objects.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2071408461787938932) | 2026-06-29
+
+---
+

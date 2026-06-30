@@ -12414,3 +12414,393 @@ A portrait-oriented cinematic poster in the Graffiti Come to Life (Optical Illus
 
 ---
 
+### 🎴 例 2725：末日蚀象堡垒
+
+![末日蚀象堡垒](../../images/%E6%9C%AB%E6%97%A5%E8%9A%80%E8%B1%A1%E5%A0%A1%E5%9E%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑史诗奇幻风格的竖版海报，展示烈日蚀象下的末日外星景观。构图采用中心对称：画面上方三分之一处由一个巨大的黑金日蚀占据，周围环绕着燃烧的橙色日冕、爆发的放射状耀斑、闪电般的等离子卷须以及发光的尘埃。在其正下方中景处，放置一座高耸的黑曜石哥特式大教堂或堡垒，建筑拥有针尖般的尖塔和复杂的垂直结构，内部透出微弱的绿金色光芒；最高的中央尖塔与上方的日蚀精确对齐。前景和中景展示了成千上万个微小的暗色人形剪影，沿着三条汇聚于入口的蜿蜒小径向大教堂行进。地形为荒凉的绿黑色荒原，布满裂开的平原、雾气弥漫的沼泽、崎岖的山脊、尖锐的火山岩地貌和蜿蜒的道路。天空呈现宇宙般的阴森感，布满绿色星云、零星的恒星和微小的发光天体。使用电影级高对比度配色，包含有毒的翡翠绿、黑色、深影、熔岩金和火橙色。风格应为超细节的暗黑奇幻概念艺术，宏大尺度，戏剧性氛围，尖锐的塔尖，体积雾，发光的轮廓光，绘画写实主义，9:16 竖版构图。在底部中心包含一个可见的文本标签，内容为 {argument name="bottom label" default="GPT Image 2"}，使用加粗的白色无衬线字体。画面中不得出现其他文字、边框、现代建筑或白天的蓝天。
+
+[English]
+Create a dark epic fantasy vertical poster showing an apocalyptic alien landscape under a blazing solar eclipse. The composition is centered and symmetrical: one colossal black-and-gold eclipsed sun dominates the top third of the image, surrounded by a burning orange corona, explosive radial flares, lightning-like plasma tendrils, and glowing dust. Directly below it, in the middle distance, place one towering obsidian gothic cathedral or citadel with needle-thin spires, intricate vertical architecture, and a faint green-gold glow from within; the tallest central spire aligns precisely with the eclipse above. The foreground and midground show one vast procession of thousands of tiny dark humanoid silhouettes marching toward the cathedral along three main winding paths that converge at the entrance. The terrain is a desolate green-black wasteland with cracked plains, misty swamps, jagged mountain ridges, sharp volcanic rock formations, and serpentine roads. The sky is cosmic and ominous, filled with green nebula clouds, scattered stars, and small glowing celestial points. Use a cinematic high-contrast palette of toxic emerald green, black, deep shadow, molten gold, and fiery orange. Style should be ultra-detailed dark fantasy concept art, grand scale, dramatic atmosphere, sharp spires, volumetric fog, glowing rim light, painterly realism, 9:16 vertical composition. Include exactly one visible text label at the bottom center reading {argument name="bottom label" default="GPT Image 2"} in bold white sans-serif type. No other text, no border, no modern buildings, no daylight blue sky.
+```
+
+**来源：** [@iBotB](https://x.com/iBotB1/status/2071632198847885706) | 2026-06-29
+
+---
+
+### 🎴 例 2726：动漫足球零食包装广告
+
+![动漫足球零食包装广告](../../images/%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%85%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为虚构的日本足球零食品牌创作一张精致的动漫风格产品广告图。画面展示一袋光泽感十足的蓝白配色薯片直立在木质桌面上，背景为虚化的蓝色球场，空中飘洒着金色与蓝色的彩带，营造出庆祝赛事的氛围。包装袋采用压纹封口，配有金属质感的宝蓝色边框、金色装饰以及冰蓝色几何切面图案。包装正面印有一位活泼的动漫偶像足球应援少女，名为 {argument name="character name" default="Nozomu"}：她留着波浪状浅棕色长发，佩戴白色花朵发饰，拥有闪亮的大棕色眼睛，笑容灿烂，一只手挥舞着，另一只手抱着黑白足球，身穿白色短款足球衫搭配蓝色条纹、蓝色短裙、白色腰带，身后飘动着蓝白条纹围巾。包装上需包含清晰的日文文字：醒目的主标志「のぞむ」、副标题「サッカースナック」、小号英文丝带文字“Blue Cheer Chips”、徽章文字「第1弾」，以及两个蓝色丝带标注「おまけカード1枚入り」和「キラカード当たりあり」。包装袋左下方通过插画窗口展示出波浪纹薯片。前景桌面上放置 3 片波浪纹薯片和少量碎屑，包装袋前方呈扇形摆放 3 张收藏卡：最前方的一张为带有金色边框和彩虹闪光的全息卡，左上角标有“SSR”及三颗星，底部印有“NOZOMU / のぞむ”，画面为同一位少女身穿蓝色应援服将足球抱在胸前；后方两张卡片部分可见，边缘呈紫色和金色，其中一张带有“R”稀有度标记。采用戏剧性的商业摄影布光，呈现清晰的反射效果、闪烁的箔金高光，使用浅景深，细节丰富，色调以鲜艳的宝蓝色、白色和金色为主，展现出精美的扭蛋卡片质感。画面无水印，不包含真实品牌名称，不添加额外的卡片或主要角色。
+
+[English]
+Create a polished anime-style product advertisement image for a fictional Japanese soccer snack brand. Show a glossy blue-and-white potato chip bag standing upright on a wooden tabletop, with a stadium-like blue background blurred behind it, flying gold and blue confetti, and a celebratory sports-fan atmosphere. The package has crimped top and bottom edges, metallic royal-blue borders, gold accents, and a faceted icy-blue geometric pattern. On the front of the bag, feature a cheerful anime idol soccer supporter girl named {argument name="character name" default="Nozomu"}: long wavy light-brown hair with white flower hair ornaments, large sparkling brown eyes, smiling open mouth, waving one hand, holding a black-and-white soccer ball in the other, wearing a white cropped soccer jersey with blue stripes, blue skirt, white belt, and a blue-and-white striped scarf flowing behind her. Include visible Japanese package text: large main logo 「のぞむ」, subtitle 「サッカースナック」, small English ribbon text “Blue Cheer Chips”, badge text 「第1弾」, and two blue ribbon callouts 「おまけカード1枚入り」 and 「キラカード当たりあり」. The lower left of the bag should show ridged potato chips through an illustrated product window. In the foreground, place exactly 3 loose ridged potato chips and small crumbs on the tabletop, plus exactly 3 collectible trading cards leaning in a fan arrangement in front of the bag: the front card is holographic with gold border and rainbow sparkles, labeled “SSR” with three stars at top left and “NOZOMU / のぞむ” at the bottom, showing the same girl holding a soccer ball close to her chest in a blue cheer outfit; behind it are 2 partially visible shiny cards with purple and gold edges, one showing an “R” rarity mark. Use dramatic commercial lighting, crisp reflections, glittering foil highlights, shallow depth of field, high detail, vibrant royal blue, white, and gold color palette, cute premium gacha-card aesthetic. No watermark, no real brand names, no extra cards or extra main characters.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2071628005944729798) | 2026-06-29
+
+---
+
+### 🎴 例 2728：东方禅意极简日落海报
+
+![东方禅意极简日落海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"} 风格分支：高对比传播型 主体内容：一位站在水岸边远望的古风人物 情绪母题：清醒、张力、静中有势 场景与意象：孔雀蓝水面、朱红圆日、远山、人物剪影、少量白雾 构图与空间：中心偏下构图，红日作为第一视觉中心，人物位于下方，大片水面和天空形成明亮空场 色彩控制：{argument name="基色" default="暖白"}作为画面基底，孔雀蓝用于水面与远景空气层，朱红用于圆日与局部地平线反光，墨黑只用于人物剪影和少量结构；避免整张图泛蓝或泛红 光线与质感：清透自然光，轻水墨晕染，宣纸肌理，边缘柔化，现代东方海报质感 画幅比例：9:16 补充要求：整体明亮通透，颜色饱和但干净，红蓝对比要强，不能压抑发闷
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2071625578659119392) | 2026-06-29
+
+---
+
+### 🎴 例 2733：世界杯体育专题海报
+
+![世界杯体育专题海报](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E4%B8%93%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张采用现代 {argument name="event" default="FIFA World Cup"} 宣传风格的高端体育专题海报。构图主体为一名职业足球运动员，全身照，自信地站在画面中央，双臂张开呈胜利姿势，目光微仰，神情坚定。球员身后是一个巨大的白色粗体球衣号码，占据了背景的大部分空间，营造出醒目的层次感。背景为纯色国家队配色，带有细腻的纹理质感 ({argument name="color" default="葡萄牙红"})。球员站在巨型号码前，具有真实的阴影和完美的深度分离效果。在左上角以简洁的未来感几何字体放置球员姓氏，右上角放置国家队队徽。左下角显示超大号粗体球衣号码，后跟一个句号。右下角添加紧凑的专题信息，包括赛事名称、国家队、球员位置、队长标识（如适用）以及由细垂直线分隔的时尚条形码图形。保持极简、奢华的专题美学，确保完美的对齐、充裕的留白、清晰的排版和高端的体育品牌感。使用超写实光影、锐利的球衣细节、可见的织物纹理、自然的肤色、真实的阴影、高对比度和电影级调色。风格：现代专题、体育品牌、高端海报、极简平面设计、清晰排版、几何布局、醒目超大数字、超写实、照片级真实感、商业级品质、8K、HDR、杂志封面美学。
+
+[English]
+Create a premium sports editorial poster in a modern {argument name="event" default="FIFA World Cup"} campaign style. The composition features a full-body professional football player standing confidently in the center with arms stretched wide in a victory pose, looking slightly upward with a determined expression. Behind the player is an oversized bold white jersey number occupying most of the background, creating a striking layered composition. The background is a solid national team color with a subtle textured grain finish ({argument name="color" default="red for Portugal"}). The player stands in front of the giant number with realistic shadows and perfect depth separation. Place the player’s surname in a clean futuristic geometric font at the top-left, while the national team crest is positioned at the top-right. At the bottom-left, display the jersey number in oversized bold typography followed by a period. At the bottom-right, add compact editorial information including tournament title, national team, player position, captain designation (if applicable), and a stylish barcode graphic separated by a thin vertical accent line. Maintain a minimal, luxury editorial aesthetic with perfect alignment, generous negative space, crisp typography, and premium sports branding. Use ultra-realistic lighting, sharp jersey details, visible fabric texture, natural skin tones, realistic shadows, high contrast, and cinematic color grading. Style: Modern editorial, sports branding, premium poster, minimalist graphic design, clean typography, geometric layout, bold oversized number, ultra-realistic, photorealistic, commercial quality, 8K, HDR, magazine cover aesthetic.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2071616450943656065) | 2026-06-29
+
+---
+
+### 🎴 例 2746：极简主义汽车杂志风海报
+
+![极简主义汽车杂志风海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义汽车杂志风海报，适用于 {argument name="car model" default="[CAR]"}，比例 4:5。展示 {argument name="color" default="[COLOR]"} 的汽车，采用右下角前侧 45 度视角，停放在 {argument name="scene" default="[SCENE]"} 中。采用简洁的分割布局设计，搭配独特的图形配色方案，呈现逼真的商业摄影效果、清晰的反射、干净的阴影以及高级杂志风格。在左上角添加匹配的制造商字标，右上角添加小型匹配 Logo，并在构图后方添加巨大的半透明模型文本“[MODEL]”。包含一句简短的编辑文案“[LINE]”。添加一个微小的侧面汽车缩略图、三个紧凑的信息标签，以及底部的三个规格模块：发动机 (ENGINE)、功率 (POWER)、扭矩 (TORQUE)。现代简约排版，大量留白，呈现干净的汽车画册美学。
+
+[English]
+Minimalist automotive editorial poster for {argument name="car model" default="[CAR]"}, 4:5. Show the car in {argument name="color" default="[COLOR]"}, front three-quarter view on the lower right, parked in {argument name="scene" default="[SCENE]"}. Use a clean split-layout design with a distinct graphic color palette, realistic commercial photography, crisp reflections, clean shadows, and premium magazine styling. Add the matching manufacturer wordmark at the top left, a small matching logo at the top right, and a huge translucent model text reading “[MODEL]” behind the composition. Include one short editorial sentence reading “[LINE]”. Add one tiny side-profile car thumbnail, three compact info labels, and three bottom spec blocks: ENGINE, POWER, TORQUE. Modern sparse typography, lots of negative space, clean automotive brochure aesthetic.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2071583536549622035) | 2026-06-29
+
+---
+
+### 🎴 例 2748：深色朗姆酒商业广告项目
+
+![深色朗姆酒商业广告项目](../../images/%E6%B7%B1%E8%89%B2%E6%9C%97%E5%A7%86%E9%85%92%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 横屏格式的专业电影级商业项目，设计风格参考高端镜头列表演示，用于 {argument name="product name" default="NOCTURA SINGLE BARREL DARK RUM"} 产品广告。
+整体设计：
+超高端手工烈酒艺术指导，深邃的黑曜石色调
+
+[English]
+Create a professional cinematic commercial storyboard in 16:9 landscape format, designed like a premium shot list presentation for a {argument name="product name" default="NOCTURA SINGLE BARREL DARK RUM"} product ad.
+Overall design:
+Ultra-premium artisan spirits art direction, deep obsidian black
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2071581164125683746) | 2026-06-29
+
+---
+
+### 🎴 例 2755：治愈系每日语录海报
+
+![治愈系每日语录海报](../../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E6%AF%8F%E6%97%A5%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="主题" default="夏日治愈"} 日签 {argument name="日期" default="2026-07-01"} {argument name="金句" default="你好七月，请对我好点"} 用途：朋友圈分享 
+信息点，有趣的信息点至少五个
+ 比例9:10
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2071566349583687887) | 2026-06-29
+
+---
+
+### 🎴 例 2757：赛博朋克限定款智能手表海报
+
+![赛博朋克限定款智能手表海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%99%90%E5%AE%9A%E6%AC%BE%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为以 {argument name="character name" default="Glitch Noir"} 为主题的限量联名智能手表创作一张高端官方风格的产品页面视觉图，融合赛博朋克动漫时尚、黑色金属硬件、紫/蓝霓虹灯光以及奢华科技产品广告风格。
+
+画布：方形 1:1 宣传海报，高分辨率，背景为黑暗的未来城市，带有全息 UI 面板、洋红-紫-蓝光晕、光泽反射以及戏剧性的摄影棚产品布光设置。
+
+主体布局：在右侧放置一块大型主打智能手表，占据约一半画面，略微向观众倾斜，后方展示第二块手表的背面/侧面表带视图。在左上角产品后方放置一位动漫少女吉祥物，展示肩部以上至半身，目光看向观众。使用左侧栏产品标题和价格块、左下角功能列表、底部中心赠品/包装面板，以及右下角限量序列号卡片。
+
+主体细节：动漫少女留着凌乱的黑色短发，带有紫色和青色挑染，明亮的紫蓝色眼睛，佩戴小耳环，头顶架着黄色护目镜，身穿黑色街头风格夹克，带有紫色故障兔（glitch-bunny）补丁和黄色警示风格标签。她应表现出酷、安静且具有赛博朋克感，而非过于开朗。智能手表厚实且高端，采用圆角方形黑色金属表壳，带有斜面工业边缘、螺丝、雕刻标记、侧面按钮，黑色皮革或橡胶表带配紫色缝线，金属表扣件，以及微小的兔子/骷髅/故障图案。在表壳、表冠、表带和边缘添加紫色霓虹灯装饰。
+
+表盘 UI：展示一个未来感数字显示屏，包含以下核心元素：日期“06/29 SUN”、电量“82%”、大号时间“10:08”、心率行“86 BPM”配洋红色心电图线、步数行“8,420 STEPS”，以及底部的三个应用图标：带有“5”角标的聊天气泡、兔子/骷髅图标和音符。在黑色玻璃屏幕上使用青色和紫色的发光字体。
+
+文本内容：左侧使用日文产品页面文案。大型垂直风格标题：“ネオンの鼓動を、腕に。”（将霓虹脉动，戴于腕间。）下方小字描述：“サイバーとストリートが交差する、反逆の美学。彼女の世界観をそのままに、日常をアップデートする。”（赛博与街头的交汇，反叛的美学。承袭她的世界观，升级你的日常。）产品标题：“NEO SMART WATCH”。副标题：“LIMITED COLLABORATION”。大型型号名称：“GLITCH NOIR”后跟一个小兔子图标。价格：“¥39,800（税込）”。标签：“限定生産 LIMITED EDITION”。
+
+功能列表：包含 5 行带小图标的盒装功能行：1) “通知連携”（通知联动）配聊天图标，2) “心拍モニター”（心率监测）配心形图标，3) “歩数・睡眠記録”（步数/睡眠记录）配活动/睡眠图标，4) “最大7日間バッテリー”（最长 7 天续航）配电池图标，5) “カスタムフェイス”（自定义表盘）配表盘图标。
+
+底部面板：底部中心面板展示一个奢华黑色特制包装盒及一条额外的替换表带，标注“限定特典”和“特製ボックス＆交換用ストラップ付属”。右下角卡片展示像素风兔子 Logo、“LIMITED EDITION”、“0001 / 3000”以及“SERIAL NUMBER”。在底部边缘添加一行微小的日文免责声明，如同官方产品样机。
+
+视觉风格：超精细动漫 x 写实产品广告，电影级赛博朋克黑色电影风格，锐利反射，真实的金属和皮革材质，简洁的商业构图，霓虹紫与电光蓝配色，微妙的故障效果，全息科技叠加，高端限量版质感。
+
+约束条件：保持图片为单张精致的产品页面海报。确保所有可见文字清晰易读。仅使用一名主要角色，仅展示两个可见的手表视图，仅包含三个表盘应用图标，仅包含五行功能列表，仅包含一个赠品/包装面板，仅包含一张序列号卡片。不要添加额外的产品、额外的角色、水印或随机不可读的品牌标识。
+
+[English]
+Goal: Create a premium official-looking product page visual for a limited collaboration smartwatch themed around {argument name="character name" default="Glitch Noir"}, mixing cyberpunk anime fashion, black metal hardware, purple/blue neon lighting, and luxury gadget advertising.
+
+Canvas: Square 1:1 promotional poster, high-resolution, dark futuristic city background with holographic UI panels, magenta-purple-blue glow, glossy reflections, and a dramatic studio-product lighting setup.
+
+Main layout: Place a large hero smartwatch on the right side, occupying about half the image, angled slightly toward the viewer with a second rear/side strap view behind it. Place an anime girl mascot on the upper left behind the product, shoulder-up to half-body, looking toward the viewer. Use a left-column product headline and price block, a bottom-left feature list, a bottom-center bonus/package panel, and a bottom-right limited serial-number card.
+
+Subject details: The anime girl has short messy black hair with purple and cyan highlights, bright violet-blue eyes, small earrings, yellow goggles resting on her head, and a black streetwear jacket with purple glitch-bunny patches and yellow caution-style tags. She should feel cool, quiet, and cyberpunk, not overly cheerful. The smartwatch is bulky and premium, with a rounded-square black metal case, beveled industrial edges, screws, engraved markings, side buttons, a black leather or rubber strap with purple stitching, metallic clasp pieces, and tiny bunny/skull/glitch emblems. Add purple neon accents on the case, crown, strap, and edges.
+
+Watch face UI: Show a futuristic digital display with exactly these main elements: date “06/29 SUN”, battery “82%”, large time “10:08”, heart-rate row “86 BPM” with a magenta ECG line, steps row “8,420 STEPS”, and three bottom app icons: chat bubble with badge “5”, bunny/skull icon, and music note. Use cyan and violet glowing typography on a black glass screen.
+
+Text content: Use Japanese product-page copy on the left. Large vertical-style headline: “ネオンの鼓動を、腕に。” Small description underneath: “サイバーとストリートが交差する、反逆の美学。彼女の世界観をそのままに、日常をアップデートする。” Product title: “NEO SMART WATCH”. Subtitle: “LIMITED COLLABORATION”. Large model name: “GLITCH NOIR” followed by a small bunny icon. Price: “¥39,800（税込）”. Label: “限定生産  LIMITED EDITION”.
+
+Feature list: Include exactly 5 boxed feature rows with small icons: 1) “通知連携” with chat icon, 2) “心拍モニター” with heart icon, 3) “歩数・睡眠記録” with activity/sleep icon, 4) “最大7日間バッテリー” with battery icon, 5) “カスタムフェイス” with watch-face icon.
+
+Bottom panels: Bottom center panel shows a luxury black special box and an extra replacement strap, labeled “限定特典” and “特製ボックス＆交換用ストラップ付属”. Bottom right card shows pixel-art bunny logo, “LIMITED EDITION”, “0001 / 3000”, and “SERIAL NUMBER”. Add a tiny disclaimer along the bottom edge in Japanese, like an official product mockup.
+
+Visual style: Ultra-detailed anime x photoreal product advertising, cinematic cyberpunk noir, sharp reflections, realistic metal and leather materials, clean commercial composition, neon purple and electric blue palette, subtle glitch effects, holographic tech overlays, premium limited-edition feel.
+
+Constraints: Keep the image as a single polished product-page poster. Make all visible text crisp and legible. Use exactly one main character, exactly two visible watch views, exactly three watch-face app icons, exactly five feature rows, exactly one bonus/package panel, and exactly one serial-number card. Do not add extra products, extra characters, watermarks, or random unreadable branding.
+```
+
+**来源：** [@あまり🖋️AI &フリー素材配布](https://x.com/amari_AI_art/status/2071562254957572500) | 2026-06-29
+
+---
+
+### 🎴 例 2761：虚构足球零食集换式卡片产品摄影
+
+![虚构足球零食集换式卡片产品摄影](../../images/%E8%99%9A%E6%9E%84%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%87%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张虚构日本足球零食的逼真宣传产品照，产品名为 {argument name="snack brand name" default="Blue Strike"}，采用限量版集换式卡片零食活动的风格。场景以略微俯视的角度拍摄，背景为温暖的木质桌面。画面中左侧是一个带有褶皱封口、充满戏剧性星芒、球场灯光、金色速度线和足球图案的亮面金属蓝色零食袋。袋子正面印有一位开朗的动漫风格日本少女足球迷/球员 {argument name="character name" default="Airi Yuki"}，她留着深色短波波头，身穿蓝色日本风格足球球衣（号码为 {argument name="jersey number" default="14"}），戴着蓝色围巾，穿着白色格子裙，正微笑着挥手并抱着一个足球。包装上印有醒目的日文大字「ブルーストライク」，下方配有较小的文字「サッカースナック」，一个写着「第1弾」的黄色徽章，以及一个写着「キラカード 当たりあり!!」的漫画风格爆破框。在袋子左下角包含一个印有 SSR 标签和「おまけカード 1枚入り」的小型迷你卡片预览。在右侧及前方较低处，放置 2 张集换式卡片：前面的卡片是一张带有金色全息边框的 SSR SECRET 卡，展示了同一位抱着足球的女孩，印有日文名「結城愛梨」和英文名“AIRI YUKI”；在其后方，部分可见一张深蓝色属性卡，上面印有足球运动员剪影和数字 14。在包装和卡片周围散落 4 片波浪纹薯片：右上角叠放 2 片，左下角附近放 1 片完整的，左边缘附近露出 1 片残缺的。使用照片级真实感的光影和纹理来表现桌面、薯片、塑料袋褶皱、箔面光泽和全息卡片反射，同时保持角色插画精致的动漫风格。配色方案：电光蓝、海军蓝、金属金、白色和温暖的木棕色。使其看起来像是一则观看日本队对阵 {argument name="opponent team" default="Brazil"} 足球赛的真实零食广告。不得包含任何真实品牌标志、水印，除上述指定数量外，不得添加额外的卡片或薯片。
+
+[English]
+Create a realistic promotional product photo of a fictional Japanese soccer snack called {argument name="snack brand name" default="Blue Strike"}, styled like a limited-edition trading-card snack campaign. The scene is shot from a slightly overhead angle on a warm wooden table. Center-left is a glossy metallic blue snack bag with crimped top and bottom edges, dramatic starbursts, stadium lights, gold speed lines, and soccer ball graphics. The bag front features a cheerful anime-style Japanese teenage girl soccer fan/player, {argument name="character name" default="Airi Yuki"}, with short dark bobbed hair, wearing a blue Japan-inspired soccer jersey with number {argument name="jersey number" default="14"}, a blue scarf, and a white plaid skirt, smiling and waving while holding a soccer ball. Large bold Japanese package lettering reads 「ブルーストライク」 with smaller text 「サッカースナック」, a yellow badge reading 「第1弾」, and a comic burst reading 「キラカード 当たりあり!!」. Include a small printed mini card preview on the lower-left of the bag labeled SSR and 「おまけカード 1枚入り」. To the right and lower foreground, place exactly 2 collectible trading cards: the front card is a holographic gold-bordered SSR SECRET card showing the same girl holding a soccer ball, with Japanese name text 「結城愛梨」 and English name “AIRI YUKI”; behind it, partially visible, is a dark blue stats card with a silhouette soccer player and the number 14. Scatter exactly 4 ridged potato chips around the packaging and cards: two chips stacked at upper right, one whole chip near bottom left, and one partial chip peeking near the left edge. Use photorealistic lighting and textures for the table, chips, plastic bag wrinkles, foil shine, and holographic card reflections, while keeping the character art polished anime style. Color palette: electric blue, navy, metallic gold, white, and warm brown wood. Make it look like a real snack product advertisement for watching a Japan vs {argument name="opponent team" default="Brazil"} soccer match. No real brand logos, no watermark, no extra cards or chips beyond the counted items.
+```
+
+**来源：** [@愛梨（AI初心者）](https://x.com/Ai_beginner_ri/status/2071559377342083522) | 2026-06-29
+
+---
+
+### 🎴 例 2763：高端中式砂锅美食海报
+
+![高端中式砂锅美食海报](../../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%A0%82%E9%94%85%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高端竖版中式餐厅美食海报，主打慢炖砂锅菜品。画面中心为一个冒着热气的黑色砂锅，内盛色泽油亮的红烧排骨和淡金色的腐竹，淋有浓郁的棕色酱汁。
+
+画布：9:16 竖版海报，暗调情绪化摄影风格，暖色低调布光，浅景深，高对比度，呈现诱人的商业美食摄影质感。
+
+布局：顶部中心放置一个小巧的圆形山水 Logo，下方为餐厅名称。其下设有一条细装饰线，再下方为一行中英双语分类说明。中间的主标题字号最大，横跨大部分宽度。下半部分以砂锅菜品为主体，采用近景构图，使锅沿填满下方前景。
+
+文本内容：使用 4 组主要文本：1) 顶部品牌名称（中文）：{argument name="restaurant name" default="山海煲舍"}；2) 小字分类行：「私房砂锅热菜」，下方配有英文副标题 "Slow Braised Claypot Special"；3) 大字菜品标题：{argument name="dish title" default="支竹焖排骨煲"}；4) 在品牌/标题区域附近放置两个小巧的红色竖排印章，作为装饰性标记。
+
+主体细节：食物为一个黑色陶瓷砂锅，内含大块红烧排骨、褶皱的金黄色炸腐竹/笋条、软糯的洋葱或青椒，以及带有油亮光泽的浓稠酱汁。缕缕灰色的蒸汽从锅中升起。砂锅放置在石质桌面上的古朴深色木质隔热垫上。
+
+背景：昏暗的中式室内环境，左侧为模糊的传统亭台轮廓，右侧为深色雕花格栅，菜品后方点缀有供石。背景色调为深黑、棕色和烟琥珀色。
+
+视觉风格：高端中式美食海报，电影级餐厅菜单摄影，金色书法字体，优雅的衬线体英文副标题，红色印章点缀，戏剧性的蒸汽效果，逼真的纹理，精致的商业布光。
+
+约束条件：保持构图垂直且居中，仅使用指定的可见文本，确保中文标题清晰且醒目，避免添加额外 Logo，避免出现人物，避免使用现代道具，无水印。
+
+[English]
+Goal: Create a premium vertical Chinese restaurant food poster for a slow-braised claypot dish, centered on a steaming black clay pot filled with glossy braised pork ribs and pale golden bamboo shoots in rich brown sauce.
+
+Canvas: Vertical 9:16 poster, dark moody studio photography, warm low-key lighting, shallow depth of field, high contrast, appetizing food-advertising finish.
+
+Layout: Top center has a small circular mountain-and-water logo above the restaurant name. Beneath it place a thin decorative divider line, then a small bilingual category line. The middle headline is the largest text, spanning most of the width. The bottom half is dominated by the claypot dish, cropped close so the rim fills the lower foreground.
+
+Text content: Use exactly 4 main text groups: 1) top brand name in Chinese: {argument name="restaurant name" default="山海煲舍"}; 2) small category line: 「私房砂锅热菜」 with the English subtitle "Slow Braised Claypot Special" underneath; 3) large dish title: {argument name="dish title" default="支竹焖排骨煲"}; 4) two small red vertical seal stamps near the brand/title area, with tiny Chinese characters as decorative marks.
+
+Subject details: The food is a black ceramic claypot containing chunky braised pork ribs, wrinkled golden fried tofu-skin/bamboo-shoot-like strips, soft onions or peppers, and thick glossy sauce with oil highlights. Visible steam rises from the pot in wispy gray curls. The pot sits on a rustic dark wooden trivet over a stone tabletop.
+
+Background: Dim Chinese-style interior with a blurred traditional pavilion roof silhouette on the left, dark carved lattice on the right, and scholar rocks behind the dish. Background colors are deep black, brown, and smoky amber.
+
+Visual style: Luxury Chinese culinary poster, cinematic restaurant menu photography, gold calligraphy typography, elegant serif English subtitle, red seal accents, dramatic steam, realistic textures, polished commercial lighting.
+
+Constraints: Keep the composition vertical and centered, use only the specified visible text, make the Chinese headline legible and large, avoid extra logos, avoid people, avoid modern props, no watermark.
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2071554880683016270) | 2026-06-29
+
+---
+
+### 🎴 例 2765：日本豪华公寓销售宣传单
+
+![日本豪华公寓销售宣传单](../../images/%E6%97%A5%E6%9C%AC%E8%B1%AA%E5%8D%8E%E5%85%AC%E5%AF%93%E9%94%80%E5%94%AE%E5%AE%A3%E4%BC%A0%E5%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一份精美的日本房地产销售宣传单，适用于房产评估或销售提案。
+
+画布：A4 竖版宣传单，采用简洁的豪华房地产设计风格，白色背景搭配深海军蓝和柔和的金色点缀。标题使用优雅的日式明朝体（Mincho），表格和正文使用易读的无衬线字体（Sans-serif）。
+
+顶部主视觉区：上半部分填充一张现代高层公寓在晴空下的广角低角度外观照片。左侧叠加深海军蓝半透明信息块，右上角叠加深海军蓝价格框。
+
+左侧叠加层的主要房源文本：醒目地显示建筑名称和单元号：「{argument name="property name" default="The Parkhouse 涩谷美竹"}」、「{argument name="unit number" default="301 室"}」。下方显示地址：「東京都渋谷区渋谷1丁目17番6号」。随后用细金线分隔列出 5 项房产规格：专有面积「50.00㎡（约 15.12 坪）」、户型「2LDK」、建筑日期「2015 年 3 月」、楼层「3 楼／共 15 层」，以及其他紧凑的房地产事实信息。
+
+右上角价格框：深海军蓝矩形，白色文字显示「销售价格」，大号字体显示「{argument name="sale price" default="7,980 万日元"}」，并附带小号「（含税）」。
+
+中心标题：居中对齐的深海军蓝大号日文标题：「都心便利尽享，高品质都市住宅。」下方配有一条细金线横向分隔符。
+
+特色图标行：创建 5 个间距均匀的特色栏，配以柔和的金色线条图标和日文标签。5 个图标分别为：1) 火车图标，标签「JR『涩谷』站步行 4 分钟的优越地段」，副标题说明枢纽站的便利性；2) 公寓楼图标，标签「2015 年建成的次新公寓」，副标题说明三菱地所 Residence Park House 系列；3) 太阳图标，标签「南向・角房」，副标题说明采光与通风；4) 锁图标，标签「配备自动锁・监控摄像头」，副标题说明安全性；5) 三棵树图标，标签「宁静的居住环境」，副标题提到青山和表参道均在生活圈内。
+
+中部内容板块：使用两个并排的带边框卡片，配有海军蓝标题栏。左侧卡片标题「区域魅力」，段落描述距离涩谷站 4 分钟路程的便利性及宁静的居住环境。底部包含 4 张小型景观缩略图，每张配有说明：「JR 涩谷站（步行 4 分钟）」、「涩谷 Hikarie（步行 5 分钟）」、「宫下公园（步行 9 分钟）」、「青山通（步行 8 分钟）」。右侧卡片标题「资产价值・未来潜力」，段落描述涩谷站周边的稀缺性和资产价值。内部放置一个米色子框，标题为「期待点」，包含 4 个勾选清单：1) 「涩谷站步行 4 分钟的稀缺价值」、2) 「再开发区域的未来潜力」、3) 「次新公寓带来的维护安心感」、4) 「需求旺盛的 2LDK・南向角房」。
+
+底部区域：创建 3 个底部区块。左侧：名为「物件概要」的房产概况表，包含位置、交通、销售价格、专有面积、户型、建筑日期、楼层、结构、总户数、管理类型、管理公司、停车位及其他备注等行。中/右侧：名为「负责人寄语」的带边框员工评论卡，配有简单的灰色剪影头像和日文销售评论，解释 4 分钟到达涩谷的地理优势、南向角房的采光，并建议实地参观。最底部：全宽深海军蓝联系页脚，配有电话图标和醒目号码「{argument name="phone number" default="0120-123-456"}」，公司名称「株式会社 Livible 房地产销售 涩谷中心」，右侧以小号白字标注地址和执照信息，并配有一个白色联系人方框，显示「负责人」及「{argument name="agent name" default="Livible 太郎"}」。
+
+视觉风格与约束：使其看起来像一份成品高端日本房地产宣传册，而非线框图。保持所有文本清晰且对齐，使用海军蓝 #003057、白色、浅灰色和金色装饰线。保持专业的编辑网格、均衡的页边距、真实的建筑摄影、小型写实城市缩略图，不添加额外 Logo、水印、二维码及无关的装饰元素。
+
+[English]
+Goal: Create a polished Japanese real estate sales brochure flyer for a condominium listing, suitable for a property appraisal or sales proposal.
+
+Canvas: Portrait A4 flyer, clean luxury real-estate design, white background with deep navy and muted gold accents. Use elegant Japanese Mincho-style serif typography for headings and readable sans-serif for tables and body copy.
+
+Top hero section: Fill the upper half with a wide low-angle exterior photo of a modern high-rise condominium under a clear blue sky. Overlay a dark navy translucent information block on the left and a dark navy price box on the top right.
+
+Main listing text in the left overlay: Show the building name and unit prominently: 「{argument name="property name" default="ザ・パークハウス 渋谷美竹"}」, 「{argument name="unit number" default="301号室"}」. Beneath it show the address: 「東京都渋谷区渋谷1丁目17番6号」. Then list exactly 5 property specs separated by thin gold rules: dedicated area 「50.00㎡（約15.12坪）」, floor plan 「2LDK」, construction date 「2015年3月」, floor 「3階／15階建」, and other listing details as compact real-estate facts.
+
+Top-right price box: Dark navy rectangle with white text reading 「販売価格」 and the large price 「{argument name="sale price" default="7,980万円"}」 with small 「（税込）」.
+
+Center headline: Large centered Japanese headline in navy: 「都心の利便性を享受する、上質な都市型レジデンス。」 with a thin gold horizontal divider below.
+
+Feature icon row: Create exactly 5 evenly spaced feature columns with muted-gold line icons and Japanese labels. The 5 icons are: 1) train icon, label 「JR『渋谷』駅 徒歩4分の好立地」 with subtext about Terminal station convenience; 2) apartment building icon, label 「2015年築の築浅マンション」 with subtext about Mitsubishi Estate Residence Park House series; 3) sun icon, label 「南向き・角部屋」 with subtext about sunlight and ventilation; 4) lock icon, label 「オートロック・防犯カメラ完備」 with subtext about security; 5) three trees icon, label 「落ち着いた住環境」 with subtext mentioning Aoyama and Omotesando within living range.
+
+Middle content panels: Use two side-by-side bordered cards with navy title bars. Left card title 「エリアの魅力」 with a paragraph describing the convenience of being 4 minutes from Shibuya Station and a calm residential environment. Include exactly 4 small landscape thumbnail photos along the bottom, each with captions: 「JR渋谷駅（徒歩4分）」, 「渋谷ヒカリエ（徒歩5分）」, 「宮下公園（徒歩9分）」, 「青山通り（徒歩8分）」. Right card title 「資産価値・将来性」 with a paragraph about scarcity and asset value near Shibuya Station. Inside it place a beige sub-box titled 「期待できるポイント」 containing exactly 4 checkmark bullet points: 1) 「渋谷駅徒歩4分の希少価値」, 2) 「再開発エリアの将来性」, 3) 「築浅マンションによる維持管理の安心感」, 4) 「需要の高い2LDK・南向き角部屋」.
+
+Bottom section: Create exactly 3 bottom blocks. Left: a property overview table titled 「物件概要」 with multiple rows for location, access, sale price, dedicated area, floor plan, construction date, floor, structure, total units, management type, management company, parking, and other notes. Middle/right: a bordered staff comment card titled 「担当者コメント」 with a simple gray silhouette portrait and Japanese sales comment explaining the 4-minute Shibuya location, southern corner room brightness, and recommendation to visit. Far bottom: a full-width dark navy contact footer with a phone icon and large number 「{argument name="phone number" default="0120-123-456"}」, company name 「株式会社リビブル不動産販売　渋谷センター」, address and license text in small white type, plus a white contact-person box on the right reading 「担当」 and 「{argument name="agent name" default="リビブル 太郎"}」.
+
+Visual style and constraints: Make it look like a finished premium Japanese real-estate brochure, not a wireframe. Keep all text crisp and aligned, use navy #003057, white, light gray, and gold accent lines. Maintain a professional editorial grid, balanced margins, realistic building photography, small realistic urban thumbnails, no extra logos, no watermark, no QR code, and no unrelated decorative elements.
+```
+
+**来源：** [@藤田 遼 | 株式会社WIG 代表 | 不動産AI総合研究所『不動産業務で使えるAI情報を配信』](https://x.com/wiginc_fujita/status/2071550061318906106) | 2026-06-29
+
+---
+
+### 🎴 例 2779：电影感漫画风王座海报
+
+![电影感漫画风王座海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%BC%AB%E7%94%BB%E9%A3%8E%E7%8E%8B%E5%BA%A7%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张图片，以高质量漫画封面为灵感，为附带的模特创作一张引人注目的电影感海报。模特自信地坐在 {argument name="throne type" default="巨大的裂纹石制王座"} 上，位于构图中心，直视观众，表情既宁静又充满威慑力。模特身后，巨大的垂直排版显示着她的名字：{argument name="name" default="HER19845"}，采用从上到下延伸的风化石刻字体。背景为深色混凝土，带有微妙的漫画小插图、日语书法、褪色纹理、符号和做旧的颓废风格细节。
+
+整个场景几乎完全采用 {argument name="color scheme" default="黑白"} 色调，仅在附带模特的眼睛和头发（或其他显著特征）处使用局部色彩，营造出引人注目的视觉焦点。一道强劲的对角线体积光从右上角射入，照亮角色，同时使大部分环境处于深影之中。漂浮的尘埃颗粒、电影感雾气、裂纹石材纹理、戏剧性的轮廓光、高对比度、柔光、环境光遮蔽以及逼真的景深增添了氛围感。
+
+王座古老而宏伟，上面刻有与角色相呼应的符号。
+
+[English]
+Create an image Create a striking cinematic poster of the attached model inspired by high-quality manga covers. The model sits confidently on a {argument name="throne type" default="massive, cracked stone throne"}, centered in the composition, looking directly at the viewer with a serene yet intimidating expression. Behind the model, large vertical typography displays her name: {argument name="name" default="HER19845"} in weathered stone letters extending from top to bottom. The background is dark concrete with subtle manga vignettes, Japanese calligraphy, faded textures, symbols, and distressed grunge details.
+
+The scene is almost entirely in {argument name="color scheme" default="black and white"}, with selective color only in the eyes and hair of the attached model (or other distinguishing feature), creating a striking focal point. A powerful, diagonal, volumetric spotlight shines from the upper right corner, illuminating the character while leaving much of the environment in deep shadow. Floating dust particles, cinematic fog, cracked stone textures, dramatic contour lighting, high contrast, soft glow, ambient occlusion, and realistic depth add atmosphere.
+
+The throne is ancient and imposing, with engraved symbols that match the character.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2071477514703401381) | 2026-06-29
+
+---
+
+### 🎴 例 2782：Arina Ai 3D 变形城市广告牌
+
+![Arina Ai 3D 变形城市广告牌](../../images/Arina%20Ai%203D%20%E5%8F%98%E5%BD%A2%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%91%8A%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在繁忙的现代城市十字路口创建一个超写实的 3D 变形广告牌场景。一个巨大的圆角数字广告牌安装在玻璃与石材高层建筑的立面上，配有暖金色装饰、黑色背景和电影质感的城市灯光。广告牌上展示了一位照片级真实的年轻女性 {argument name="character name" default="Arina Ai"}，正面朝向，留着棕色长发，妆容自然，表情冷静自信，身穿一件亮 {argument name="main shirt color" default="yellow"} 色 T 恤，上面印有黑色括号文字“[ Arina Ai ]”，并佩戴黑色 Apple Watch。让广告牌呈现出突破边框的效果：她巨大的右手从广告牌中伸出，进入真实的街道空间，掌心向上，托着一个微缩版的自己。微缩女性身穿 {argument name="mini shirt color" default="red"} 色“Arina Ai”T 恤、破洞蓝色牛仔裤、红白相间的运动鞋，站在巨手中的粉色滑板车上。在右下角前景的人行横道上，添加第二个与该女性一模一样的真人大小复制品，骑着同样的粉色滑板车。画面中总共包含 3 个可见的女性形象：1 个身穿黄色 T 恤的巨幅广告牌肖像，1 个站在投影手掌中身穿红色 T 恤的微缩滑板车骑手，以及 1 个在街道上身穿红色 T 恤的全身滑板车骑手。在广告牌左侧，加入金色品牌文字：一个带有小爱心的手写签名“Arina Ai”，一个巨大的金属标题 {argument name="headline text" default="Arina Ai"}，以及标语 {argument name="tagline" default="Dream. Create. Inspire. The Future is Yours."}。在标语下方，放置 4 个带有标签的金色小线条图标：Creativity（创造力）、Focus（专注）、Growth（成长）、Success（成功）。用逼真的城市细节环绕广告牌：高大的玻璃建筑、聚集在街头的行人、交通信号灯、单行道标志、斑马线，以及左下角模糊的黑色汽车以营造动感。使用逼真的透视效果、清晰的广告牌主体、可信的阴影、光泽反射、金色高光、高端广告摄影风格，1:1 正方形构图，无额外文字，无水印。
+
+[English]
+Create a hyper-realistic 3D anamorphic billboard scene in a busy modern city intersection. A huge rounded-corner digital billboard is mounted on the facade of a glass-and-stone high-rise building, with warm gold trim, black background, and cinematic city lighting. The billboard features a photorealistic young woman named {argument name="character name" default="Arina Ai"} facing forward, long brown hair, natural makeup, calm confident expression, wearing a bright {argument name="main shirt color" default="yellow"} T-shirt with black bracketed text reading “[ Arina Ai ]” and a black Apple Watch. Make the billboard appear to break the frame: her oversized right hand extends out from the billboard into the real street space, palm up, holding a miniature version of herself. The miniature woman wears a {argument name="mini shirt color" default="red"} “Arina Ai” T-shirt, ripped blue jeans, red-and-white sneakers, and stands on a pink kick scooter in the giant hand. Add a second life-size duplicate of the same woman riding the same pink scooter on the crosswalk at the lower right foreground. Count exactly 3 visible versions of the woman: 1 large billboard portrait in yellow shirt, 1 miniature red-shirt scooter rider standing in the projected hand, and 1 full-body red-shirt scooter rider on the street. On the left side of the billboard, include gold branding text: a small handwritten signature “Arina Ai” with a tiny heart, a large metallic headline {argument name="headline text" default="Arina Ai"}, and the tagline {argument name="tagline" default="Dream. Create. Inspire. The Future is Yours."}. Under the tagline, place exactly 4 small gold line icons with labels: Creativity, Focus, Growth, Success. Surround the billboard with realistic urban details: tall glass buildings, pedestrians gathered at street level, traffic lights, one-way sign, zebra crosswalk, and a blurred dark car passing in the lower left to create motion. Use realistic perspective, sharp billboard subject, believable shadows, glossy reflections, golden highlights, high-end advertising photography style, 1:1 square composition, no extra text, no watermark.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2071467792331891018) | 2026-06-29
+
+---
+
+### 🎴 例 2788：DHL 高端物流营销海报
+
+![DHL 高端物流营销海报](../../images/DHL%20%E9%AB%98%E7%AB%AF%E7%89%A9%E6%B5%81%E8%90%A5%E9%94%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请扮演一位来自全球顶级广告代理商的资深艺术总监，专注于高端物流与运输营销活动。请为 {argument name="brand" default="DHL"} 创作一张 4:5 竖版的高端社交媒体营销海报。目标：将 DHL 定位为最快速、最可靠的全球物流网络，强调速度、精准度以及全球交付能力。艺术指导：大胆的商业活力。工业级的精准。高速的视觉叙事。简洁而富有冲击力。高端企业级营销。Behance 首页级质量。品牌语言：高速度。全球物流。紧急运输。卓越运营。工业精准。布局设计：动态非对称的编辑式构图。强烈的对角线视觉流。为标题留出大面积的高端留白。主视觉、辅助图形与行动号召（CTA）之间层次分明。视觉层级：主体占据构图的 50%。动态元素占据 30%。品牌标识与排版占据 20%。主体对象：一架高端 DHL 货运飞机以动态的 3/4 视角向镜头疾驰而来，从云层中冲出，展现强劲的前进动能。机身上清晰可见 DHL 品牌标识。飞机显得极具统治力、速度感与力量感。辅助元素：DHL 配送卡车、集装箱、货运托盘、微妙的世界航线图、仓库基础设施。适度使用以衬托规模，避免杂乱。几何模块：受运动轨迹和速度线启发的粗体对角线图形平面。切割构图的棱角分明的黄色与红色形状。强烈的方向性能量。背景：广阔且富有戏剧性的天空，包含云层与大气深度。背景中融入微妙的世界地图网格。强调全球移动的动态模糊线条。动态/能量：极致的速度可视化。高速轨迹线。定向动态模糊。粒子拖尾。飞机周围的压缩气流。视觉能量应显得快速且具有冲击力。光影：高对比度的商业光影。穿透云层的金色阳光。强烈的黄色轮廓光。机身上锐利的反射。高端 HDR 写实感。色彩系统：严格遵循 DHL 色彩体系。主色：DHL 黄 (#FFCC00)；辅色：DHL 红 (#D40511)；辅助色：白、黑。不使用额外颜色。排版安全区：在上三分之一处预留大面积简洁的标题区域。在下三分之一附近预留 CTA 区域。保持清晰易读的层级。标题：DELIVERED AT SPEED（极速送达）。副标题：GLOBAL SHIPPING. ZERO COMPROMISE.（全球运输，绝不妥协）。行动号召：立即发货。摄影：电影级航空商业摄影，70mm 压缩镜头，动态前进视角。后期处理：微对比度锐化，微妙的光晕效果，印刷级质感，高端商业润色。质量：超写实，照片级商业广告，高端全球营销品质，超细节，8K UHD。
+
+[English]
+Act as a senior art director from a global advertising agency specializing in premium logistics and transportation campaigns. Create an ultra-premium social media campaign poster for {argument name="brand" default="DHL"} in vertical 4:5 format. OBJECTIVE: Position DHL as the fastest and most reliable global logistics network, emphasizing speed, precision, and worldwide delivery capability. ART DIRECTION: Bold commercial energy. Industrial precision. High-speed visual storytelling. Clean but aggressive. Premium enterprise campaign. Behance front-page quality. BRAND LANGUAGE: High velocity. Global logistics. Urgent movement. Operational excellence. Industrial precision. LAYOUT ENGINEERING: Dynamic asymmetrical editorial composition. Strong diagonal visual flow. Large premium negative space for headline. Clear hierarchy between hero visual, supporting graphics, and CTA. VISUAL HIERARCHY: Hero subject occupies 50 percent of composition. Motion elements occupy 30 percent. Branding and typography occupy 20 percent. HERO SUBJECT: A premium DHL cargo aircraft flying aggressively toward camera at dynamic 3/4 perspective, emerging from clouds with strong forward motion. Visible DHL branding on fuselage. Aircraft feels dominant, fast, and powerful. SECONDARY ELEMENTS: DHL delivery truck, shipping containers, cargo pallets, subtle world route lines, warehouse infrastructure. Use sparingly to support scale without clutter. GEOMETRY BLOCK: Bold diagonal graphic planes inspired by motion streaks and speed lanes. Angular yellow and red shapes cutting across composition. Strong directional energy. BACKGROUND: Expansive dramatic sky with cloud layers and atmospheric depth. Subtle world map grid integrated into background. Motion blur streaks emphasizing global movement. MOTION / ENERGY: Extreme speed visualization. High-velocity streak lines. Directional motion blur. Particle trails. Compressed airflow around aircraft. Visual energy should feel fast and aggressive. LIGHTING: High-contrast commercial lighting. Golden sunlight breaking through clouds. Strong yellow rim lighting. Sharp reflections on aircraft body. Premium HDR realism. COLOR SYSTEM: Strict DHL palette. Primary: DHL Yellow (#FFCC00) Secondary: DHL Red (#D40511) Support: White, Black. No extra colors. TYPOGRAPHY SAFE ZONES: Reserve large clean headline area in upper third. Reserve CTA area near lower third. Maintain clean readable hierarchy. HEADLINE: DELIVERED AT SPEED SUBHEAD: GLOBAL SHIPPING. ZERO COMPROMISE. CTA: SHIP NOW CAMERA: Cinematic aerial commercial photography, 70mm compression lens, Dynamic forward perspective POST PROCESS: Micro contrast sharpening, Subtle bloom, Print-quality finish, Premium commercial polish QUALITY: Hyper-realistic, Photorealistic commercial advertising, Premium global campaign quality, Ultra-detailed, 8K UHD
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2071447385998508240) | 2026-06-29
+
+---
+
+### 🎴 例 2790：高端比赛日转播海报
+
+![高端比赛日转播海报](../../images/%E9%AB%98%E7%AB%AF%E6%AF%94%E8%B5%9B%E6%97%A5%E8%BD%AC%E6%92%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+TEAM 1: {argument name="team one" default="TEAM 1"} TEAM 2: {argument name="team two" default="TEAM 2"} TOURNAMENT: {argument name="tournament" default="TOURNAMENT"} ━━━━━━━━━━━━━━━━━━━━ Create a world-class premium MATCH DAY football broadcast poster that looks like it was designed by the creative team behind Nike Football, Apple Keynote,
+```
+
+**来源：** [@Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005/status/2071438906948755497) | 2026-06-29
+
+---
+
+### 🎴 例 2792：高级黑白编辑风格海报
+
+![高级黑白编辑风格海报](../../images/%E9%AB%98%E7%BA%A7%E9%BB%91%E7%99%BD%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级黑白编辑风格海报，主体为 {argument name="subject" default="一位模特"}，呈现戏剧性的左侧侧脸。高对比度单色墨水插画，带有粗犷的笔触、半色调质感、墨点细节、粗糙的边缘以及手绘素描美学。极简的米白色纸张背景，融入现代瑞士风格的平面设计。巨大的表现力笔刷字体书写着 "{argument name="display text" default="LUXURY"}"，以超大的白色漆绘笔触整合在主体躯干上。左边缘设有垂直标题、微型排版、技术 UI 元素、几何符号、对齐标记、细分割线、微妙的网格细节、手写签名、版本编号（例如：1 OF ∞）以及高级杂志风格布局。强烈的电影感光影、锐利的面部特征、超精细质感、奢华品牌美学、未来感编辑构图、干净的留白、高端海报设计、博物馆级打印品质、8K 分辨率、超清晰、专业平面设计，无色彩，仅限黑色、白色及微妙的纸张质感。长宽比 {argument name="aspect ratio" default="4"}。
+
+[English]
+Create a premium black-and-white editorial poster featuring {argument name="subject" default="a model"} in a dramatic left-facing side profile. High-contrast monochrome ink illustration with bold brush strokes, halftone texture, splattered ink details, rough paint edges, and hand-drawn sketch aesthetics. Minimal off-white paper background with modern Swiss-inspired graphic design. Large expressive brush-lettered typography reading "{argument name="display text" default="LUXURY"}" integrated across the subject's torso in oversized white paint strokes. Vertical title on the left edge, small micro typography, technical UI elements, geometric symbols, alignment marks, thin divider lines, subtle grid details, handwritten signature, edition numbering (e.g., 1 OF ∞), and premium magazine-style layout. Strong cinematic lighting, sharp facial features, ultra-detailed textures, luxury branding aesthetic, futuristic editorial composition, clean negative space, high-end poster design, museum-quality print, 8K resolution, ultra crisp, professional graphic design, no color, only black, white, and subtle paper texture. Aspect ratio {argument name="aspect ratio" default="4"}.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2071433583609385403) | 2026-06-29
+
+---
+

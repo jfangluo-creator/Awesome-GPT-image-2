@@ -2226,3 +2226,71 @@ Create a crisp, clean infographic storyboard poster for {argument name="subject"
 
 ---
 
+### 📊 例 2798：GPT Image 2 分层工作流信息图
+
+![GPT Image 2 分层工作流信息图](../../images/GPT%20Image%202%20%E5%88%86%E5%B1%82%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张精美的 16:9 中文科技信息图 Slides，解释使用 {argument name="AI image model name" default="GPT Image 2"} 制作复杂设计图的正确工作流：分层生成 + 合成，并以科幻运动鞋广告为例。
+
+画布：宽屏 16:9 深色界面风格演示文稿，约 1152×768，黑至深蓝背景，带有纤细的发光面板边框、圆角卡片、精致的网格和玻璃拟态效果。强调色为橙色、青蓝色、薄荷绿、紫色和白色。整体外观：高级 AI 设计教程、SaaS 仪表盘风格，高对比度，排版清晰。
+
+页眉：左上角为白色大标题“GPT Image 2”。下方是双色中文主标题：橙色文字“复杂设计图的正确打开方式：”后接白色文字“分层生成 + 合成”。下方是较小的灰色副标题：“把复杂设计拆成三层分别生成，最后合成，效果更可控、细节更精准。”
+
+主要布局：将幻灯片分为三列。左列对比错误与推荐方法。中列展示 3 张垂直堆叠的提示词分层示例卡片，中间用加号连接。右列展示最终合成的运动鞋海报。底行左侧包含 2 张对比结果卡片，右侧包含 3 张建议卡片。
+
+左列细节：创建 2 张大圆角卡片。
+1. 上方卡片，红色警告风格，带红色 X 图标。标题：“一次性生成（常见翻车原因）”。正文：“把所有元素塞进一个 Prompt”。简短说明：“结果：构图 OK，但细节容易混乱，元素可能缺失或变形。” 包含一张预览图：一只科幻跑鞋悬浮在科幻景观之上，配有大号中文“未来已来”和微小的英文“FUTURE IS NOW”。
+2. 下方卡片，绿色成功风格，带绿色勾选图标。标题：“分层生成（推荐做法）”。正文：“每层只聚焦一件事”。简短说明：“结果：每层精准可控，合成后整体效果更专业。” 在此卡片内，展示 3 行带有图标和标签的迷你分层行：蓝色图像图标行“背景层：场景 / 光线 / 氛围”，备注“只描述环境、光照、色调、氛围”；紫色立方体图标行“主体层：角色 / 产品 / 动作”，备注“只描述主体、材质、细节、姿态”；橙色 T 图标行“文字装饰层：文案 / 图形 / 装饰”，备注“只描述文字、排版、装饰视觉元素”。
+
+中列细节：展示 3 张堆叠的提示词示例卡片，由青色加号连接，并有一条青色箭头从堆叠处指向右侧的最终海报。
+1. 蓝色卡片，编号“1”，标题“背景层 Prompt 示例”。文字：“未来感科技场景，冷色调，日出光线，地面有反光，远处有星球”。图像：宽阔的空旷科幻景观，带反光水面、山脉、日出、巨大的发光环和行星，无鞋子。
+2. 紫色卡片，编号“2”，标题“主体层 Prompt 示例”。文字：“科技感运动鞋，悬浮，侧视角，高细节，产品摄影”。图像：一只孤立的灰色科幻运动鞋，背景为透明/棋盘格或浅色，无风景，无文字。
+3. 橙色卡片，编号“3”，标题“文字装饰层 Prompt 示例”。文字：“科技风标题排版，中文主标题，英文副标题，简洁装饰线条”。图像：排版条，包含中文标题“未来已来”、英文副标题“FUTURE IS NOW”、小字“轻盈 / 科技 / 突破”以及精细的橙色装饰线条。
+
+右列最终海报：大型垂直圆角面板，带有绿色页眉条。页眉标题：“合成后最终效果”。页眉副标题：“三层合成，整体精准，细节丰富，视觉统一”。下方创建电影级成品广告：一只精致的灰色科幻跑鞋悬浮在科幻外星景观的浅水面上，背景有山石、晨光、巨大的发光环形传送门，右上角有一颗巨大的月球/行星。海报底部包含加粗中文标题 {argument name="Chinese headline text" default="未来已来"}，英文副标题 {argument name="English subtitle text" default="FUTURE IS NOW"}，以及小字间距的特征词“轻盈 / 科技 / 突破”。
+
+底行：总共创建 5 张小卡片。
+左侧区域标题“实测对比”，副标题“同样的需求，不同的生成方式，结果差异明显。” 包含 2 张卡片：红色 X 卡片“一次出全部”，备注“构图 OK，但细节乱，文字可能出错，元素可能变形”及微缩预览；绿色勾选卡片“分三层合成”，备注“每层精准可控，合成后整体效果更专业”及微缩预览。
+右侧区域标题“使用建议”，包含 3 张带图标的建议卡片：蓝色闪电图标“先用 Instant 模式快速验证思路（成本低、速度快）”；紫色大脑图标“确认结构后切 Thinking 模式生成高质量最终图”；绿色堆叠层图标“分层结构 + 合成 = {argument name="AI image model name repeated" default="GPT Image 2"} 的真正用法”。
+
+视觉风格：现代中文信息图，深色玻璃面板，发光霓虹轮廓，逼真的 3D 产品渲染预览，清晰的白色中文排版，橙色强调核心概念，绿色表示推荐工作流，红色表示错误，青色箭头和连接线。保持所有文字清晰且对齐。保持科幻运动鞋主题一致；鞋子应为银灰色，符合空气动力学，高细节，带有雕刻鞋底孔和可见鞋带。
+
+约束：使用 3 张分层示例卡片，3 行迷你分层行，2 张方法对比卡片，3 张使用建议卡片，1 张大型最终海报，以及 1 条从分层堆叠指向最终海报的青色箭头。不要添加额外的 Logo、水印、二维码、人物或不相关的物体。
+
+[English]
+Goal: Create a polished 16:9 Chinese tech infographic slide explaining the correct workflow for making complex design images with {argument name="AI image model name" default="GPT Image 2"}: layered generation plus compositing, using a futuristic sneaker advertisement as the example.
+
+Canvas: Wide 16:9 dark interface-style presentation, approximately 1152×768, black-to-deep-navy background, thin glowing panel borders, rounded cards, subtle grid and glassmorphism. Accent colors are orange, cyan-blue, mint green, purple, and white. Overall look: premium AI design tutorial, SaaS dashboard, high contrast, crisp typography.
+
+Header: At top left, large white title “GPT Image 2”. Under it, a two-color Chinese headline: orange text “复杂设计图的正确打开方式:” followed by white text “分层生成 + 合成”. Below, a smaller gray subtitle: “把复杂设计拆成三层分别生成，最后合成，效果更可控、细节更精准。”
+
+Main layout: Split the slide into three columns. Left column compares wrong vs recommended method. Middle column shows exactly 3 separate prompt-layer example cards stacked vertically with plus signs between them. Right column shows the final composited sneaker poster. Bottom row contains exactly 2 comparison result cards on the left and exactly 3 recommendation cards on the right.
+
+Left column details: Create 2 large rounded cards.
+1. Top card, red warning style with red X icon. Title: “一次性生成（常见翻车原因）”. Body: “把所有元素塞进一个 Prompt”. Smaller explanation: “结果：构图 OK，但细节容易混乱，元素可能缺失或变形。” Include a small preview image of a futuristic running shoe floating over a sci-fi landscape with large Chinese text “未来已来” and tiny English “FUTURE IS NOW”.
+2. Bottom card, green success style with green check icon. Title: “分层生成（推荐做法）”. Body: “每层只聚焦一件事”. Smaller explanation: “结果：每层精准可控，合成后整体效果更专业。” Inside this card, show exactly 3 mini layer rows with icons and labels: blue image icon row “背景层：场景 / 光线 / 氛围” with note “只描述环境、光照、色调、氛围”; purple cube icon row “主体层：角色 / 产品 / 动作” with note “只描述主体、材质、细节、姿态”; orange T icon row “文字装饰层：文案 / 图形 / 装饰” with note “只描述文字、排版、装饰视觉元素”.
+
+Middle column details: Show exactly 3 stacked prompt example cards connected by cyan plus signs, and a cyan arrow pointing from the stack to the final poster on the right.
+1. Blue card numbered “1”, title “背景层 Prompt 示例”. Text: “未来感科技场景，冷色调，日出光线，地面有反光，远处有星球”. Image: a wide empty sci-fi landscape with reflective water, mountains, sunrise, a large glowing ring, and a planet, no shoe.
+2. Purple card numbered “2”, title “主体层 Prompt 示例”. Text: “科技感运动鞋，悬浮，侧视角，高细节，产品摄影”. Image: a single gray futuristic sneaker isolated on a transparent/checkered or pale background, no scenery, no text.
+3. Orange card numbered “3”, title “文字装饰层 Prompt 示例”. Text: “科技风标题排版，中文主标题，英文副标题，简洁装饰线条”. Image: typography strip with Chinese title “未来已来”, English subtitle “FUTURE IS NOW”, small text “轻盈 / 科技 / 突破”, and fine orange decorative lines.
+
+Right column final poster: Large vertical rounded panel with a green header strip. Header title: “合成后最终效果”. Header subtitle: “三层合成，整体精准，细节丰富，视觉统一”. Below it, create a cinematic finished advertisement: a detailed gray futuristic running shoe floating above reflective shallow water in a sci-fi alien landscape, with mountains and rocks, dawn light, a huge glowing circular portal/ring behind the shoe, and a large moon/planet in the upper right. At the bottom of the poster, include bold Chinese headline {argument name="Chinese headline text" default="未来已来"}, English subtitle {argument name="English subtitle text" default="FUTURE IS NOW"}, and small spaced feature words “轻盈 / 科技 / 突破”.
+
+Bottom row: Create exactly 5 small cards total.
+Left section titled “实测对比” with caption “同样的需求，不同的生成方式，结果差异明显。” It contains 2 cards: red X card “一次出全部” with notes “构图 OK，但细节乱，文字可能出错，元素可能变形” and a tiny preview; green check card “分三层合成” with notes “每层精准可控，合成后整体效果更专业” and a tiny preview.
+Right section titled “使用建议” contains exactly 3 recommendation cards with icons: blue lightning icon “先用 Instant 模式快速验证思路（成本低、速度快）”; purple brain icon “确认结构后切 Thinking 模式生成高质量最终图”; green stacked-layers icon “分层结构 + 合成 = {argument name="AI image model name repeated" default="GPT Image 2"} 的真正用法”.
+
+Visual style: Modern Chinese infographic, dark glass panels, glowing neon outlines, realistic 3D product render previews, crisp white Chinese typography, orange emphasis for the main concept, green for recommended workflow, red for mistakes, cyan arrows and connectors. Keep all text legible and aligned. Use the futuristic sneaker theme consistently; the shoe should be silver-gray, aerodynamic, high-detail, with sculpted sole holes and visible laces.
+
+Constraints: Use exactly 3 layer example cards, exactly 3 mini layer rows, exactly 2 method comparison cards, exactly 3 usage recommendation cards, exactly 1 large final poster, and exactly 1 cyan arrow from the layer stack to the final poster. Do not add extra logos, watermarks, QR codes, people, or unrelated objects.
+```
+
+**来源：** [@小海豚笔记 (AI & 副业探索)](https://x.com/gaoren7716/status/2071428446668959912) | 2026-06-29
+
+---
+

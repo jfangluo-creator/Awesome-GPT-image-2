@@ -3972,3 +3972,97 @@ Constraints: do not create a character sheet, do not include labels or text, do 
 
 ---
 
+### 🧸 例 2745：优雅日式旅馆夜间人像
+
+![优雅日式旅馆夜间人像](../../images/%E4%BC%98%E9%9B%85%E6%97%A5%E5%BC%8F%E6%97%85%E9%A6%86%E5%A4%9C%E9%97%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+夜灯り
+
+人物・表情：
+{argument name="年齢と性別" default="20代女性"}。明るいアイボリーベージュ寄りの白肌で、ほんのりピンクの血色を含んだなめらかな肌質。頬、鼻先、肩、鎖骨に柔らかなハイライトが入り、過度な美肌補正ではなく自然な肌理を残す。精密で上品なドールライク日系メイク。淡いローズピンクのチーク、シャンパンベージュとピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、明るめブラウンの柔らかい眉、透け感のあるピンクベージュのグロスリップ。瞳に小さく澄んだキャッチライト。視線は伏せ気味で、静かな夜にほどけるような穏やかな表情。
+
+服装・ポーズ：
+{argument name="衣装" default="アイボリーベージュのドレープワンピース"}。細いホルターストラップ、深めのVライン、胸元から腰へ流れるラップ風の布、腰横の小さなリング金具、控えめなサイドカット、長めのスカートと自然なスリット。黒の細いストラップヒール、華奢なネックレスと小ぶりのピアス。木の階段に腰掛け、脚を上品に重ねる。人物の右手は身体の横の段に軽く置き、左手も後ろ気味の段に添えて体を支える。肩の力を抜き、首を少し左下へ傾ける。
+
+背景・光：
+{argument name="背景" default="夜の高級感ある日本の旅館ホテル風インテリア"}。濃い木目の階段、左右の木製手すり、奥に障子を思わせる格子と小さな行灯、控えめな枝物の装飾。階段の蹴込み部分から暖かいアンバーの間接光が横に入り、脚、肩、鎖骨、ドレスの皺を柔らかく照らす。背景は暗めに落とし、木材の反射光で肌に温かい影を作る。
+
+構図・カメラ：
+縦長4:5、全身が入る日系ポートレート。人物は画面中央やや下、階段の奥行きが背後へ続く構図。カメラはやや低めの正面寄り、自然な圧縮感のある中望遠風。顔と上半身に焦点、背景は軽くぼける。足先まで入れ、階段の光のラインで視線を人物へ導く。
+
+質感・スタイル：
+高品質な日系写真風。夜の室内ポートレート、しっとりした木の質感、自然な肌理、柔らかな髪の束感、布の重みと落ち感を丁寧に描写。色調はアンバー、アイボリー、ダークブラウンで統一。過度なHDRや強すぎるシャープネスを避け、落ち着いた雑誌写真のような仕上がり。
+
+ネガティブ：
+未成年、幼態化、低俗な露出、透ける服、露点、過度な性暗示、不自然な顔や視線、余分または欠けた指、手足の融合、関節の破綻、足先の崩れ、道具や階段との接触不良、浮遊感、不自然な重力、光源と矛盾する影、プラスチックのような肌、過度な美肌補正、過度なHDR、文字化け、ロゴ、透かし、不要な人物や小物。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2071586990274105628) | 2026-06-29
+
+---
+
+### 🧸 例 2752：充气哆啦 A 梦气球盒
+
+![充气哆啦 A 梦气球盒](../../images/%E5%85%85%E6%B0%94%E5%93%86%E5%95%A6%20A%20%E6%A2%A6%E6%B0%94%E7%90%83%E7%9B%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个方形、紧密构图的超写实 3D 渲染图，将 {argument name="character name" default="哆啦 A 梦"} 转化为一个过度充气的亮面气球雕塑，挤压在一个浅白色的方形盒子中，使身体的每一部分都紧贴边缘凸起。该角色拥有闪亮的 {argument name="main body color" default="亮蓝色"} 头部和身体，配有白色的脸部和腹部，两只超大的白色凸起眼睛，带有黑色小瞳孔，一个圆润有光泽的红色鼻子，总共六条黑色细胡须线（每侧三条），一个红色项圈，以及脸部下方中央的一个金属金色铃铛。充气的乙烯基材质应呈现出强烈的镜面高光、柔软的褶皱、接缝、挤压的折痕以及气球状形态相互挤压产生的压力折痕。构图：正面特写，紧密裁剪，使头部占据上方三分之二，身体、爪子、腹部和铃铛占据下方三分之一；蓝色的耳朵/头部拐角和四肢被压缩成沿着框架边缘的圆润枕头状块。包含 2 只眼睛、1 个红色鼻子、6 条胡须线、1 个红色项圈、1 个金色铃铛、底部的 2 只白色脚、侧面的 2 只白色手/爪，以及包裹在形态周围的细白色方形边框。使用摄影棚灯光，超精细的亮面乳胶质感，趣味十足的超现实玩具美学，无文字，白色托盘框架外无背景。
+
+[English]
+Create a square, tightly framed hyperrealistic 3D render of {argument name="character name" default="Doraemon"} transformed into an overinflated glossy balloon sculpture, squeezed into a shallow white square box so every part bulges against the edges. The character has a shiny {argument name="main body color" default="bright blue"} head and body with a white face and belly, two oversized white bulging eyes with small black pupils, one round glossy red nose, six thin black whisker lines total, three on each cheek, a red collar, and one metallic gold bell centered below the face. The inflated vinyl material should show strong specular highlights, soft wrinkles, seams, pinched creases, and pressure folds where the balloon-like forms press together. Composition: front-facing close-up, cropped tightly so the head fills the top two-thirds and the body, paws, belly, and bell fill the lower third; the blue ears/head corners and limbs are compressed into rounded pillow-like blocks along the frame edges. Include exactly 2 eyes, 1 red nose, 6 whisker lines, 1 red collar, 1 gold bell, 2 white feet at the bottom, 2 white hands/paws at the sides, and a thin white square border around the packed form. Use studio lighting, ultra-detailed glossy latex texture, playful surreal toy aesthetic, no text, no background beyond the white tray frame.
+```
+
+**来源：** [@withgrdnrush](https://x.com/withgrdnrush/status/2071572443559534703) | 2026-06-29
+
+---
+
+### 🧸 例 2781：带有钻石牙套的 3D 风格化漫画形象
+
+![带有钻石牙套的 3D 风格化漫画形象](../../images/%E5%B8%A6%E6%9C%89%E9%92%BB%E7%9F%B3%E7%89%99%E5%A5%97%E7%9A%84%203D%20%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%BC%AB%E7%94%BB%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 [REFERENCE IMAGE] 中的人物创建一个超精细的全身 3D 风格化漫画形象，保留其准确的面部、肤色和种族特征。风格：巨大的头部搭配小巧紧凑的身体，经典的漫画式夸张。表情：顽皮的眨眼和灿烂的坏笑，露出闪闪发光的钻石牙套，并呈现出光线追踪反射和棱镜闪光效果。姿势：直立站立，一只手臂伸向镜头，展示厚重的满钻手表。每一颗宝石都能捕捉并折射出绚丽的光芒。服装：与 [REFERENCE IMAGE] 中的穿着完全一致。织物呈现出微细节缝合和逼真的褶皱。皮肤具有次表面散射效果，如摄影棚般洁净光滑。背景：干净的纯色鲜艳蓝色背景，柔和的正面柔光箱照明。无背光，无轮廓光。钻石是画面中最明亮的焦点。渲染：Octane Render 质量，电影级 8K，边缘锐利，大师级作品，无文字或水印，4:5 纵横比。
+
+[English]
+Create a hyper-detailed full-body 3D stylized caricature of the person in [REFERENCE IMAGE], preserving their exact face, skin tone, and ethnic features. Style: Massive oversized head on a tiny compact body, classic caricature exaggeration. Expression: mischievous wink and wide smirk showing sparkling diamond grillz rendered with ray-traced reflections and prismatic glints. Pose: Standing upright, one arm extended toward the camera to showcase a thick iced-out diamond watch. Every gem catches and refracts light brilliantly. Outfit: Match exactly what they wear in [REFERENCE IMAGE]. Fabrics rendered with micro-detail stitching, realistic folds. Skin with subsurface scattering, studio-clean and smooth. Setting: Clean solid vibrant blue backdrop, soft front-facing softbox lighting. No backlighting, no rim light. Diamonds are the brightest focal points in the frame. Render: Octane Render quality, cinematic 8K, sharp edges, masterpiece level, no text or watermarks, 4:5 aspect ratio.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2071470936973533271) | 2026-06-29
+
+---
+
+### 🧸 例 2794：科学动物运动分析 HUD
+
+![科学动物运动分析 HUD](../../images/%E7%A7%91%E5%AD%A6%E5%8A%A8%E7%89%A9%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%20HUD.jpg)
+
+**Prompt:**
+
+```text
+1:1スクエア構図。動画素材向け。真横からのハイスピード追尾撮影で、{argument name="動物の名前" default="チーター"}が自然な生息地で動く姿をフォトリアルに描写してください。
+カメラは十分に引いたミディアムロングショット。全身が完全にフレーム内に収まり、頭、胴体、脚、翼、ヒレ、尾などの主要部位が切れない構図。被写体は中央の安全領域に配置し、横幅の60〜70%以内、上下左右に余白を残す。左から右へ移動する真横のシルエット。背景は軽い水平モーションブラー、被写体は鮮明にフォーカス。
+透明な3D骨格または適切な解剖学的オーバーレイを体に正確に重ね、筋肉、関節、背骨や体幹の伸縮、脚・翼・ヒレ・尾などの推進部位を強調。半透明ブルー／ホワイト基調、重要部位のみ赤やオレンジでaccent。
+画面端に固定レイアウトの半透明HUDを表示。UIは被写体を隠さず、毎回同じ配置。
+左上：円形スピードメーター
+上中央：加速度・力・推進力パネル
+右上：ストライド／羽ばたき／泳動リズムグラフ
+左下：筋肉・骨格・関節の凡例
+下中央：モーションフェーズのタイムライン
+右下：エネルギー効率・バランスの小型チャート
+注釈は最大4つまで。短い英語ラベルのみ。白、シアン、薄いブルーのクリーンなSFドキュメンタリー風UI。数値は参考表示でよく、長文や過密UIは避ける。映画的な自然光、高精細、フォトリアル、整理された科学ドキュメンタリー風。
+避ける要素：クローズアップ、体の切れ、尾・脚・翼・ヒレのフレームアウト、複数の動物、余分な脚、歪んだ関節、人間風骨格、読めない文字、過密UI、巨大グラフ、UIが被写体を隠す、過剰な光エフェクト。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2071430957484093622) | 2026-06-29
+
+---
+

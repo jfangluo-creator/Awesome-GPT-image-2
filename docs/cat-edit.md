@@ -2352,3 +2352,57 @@ Convert the uploaded photo into a {argument name="style" default="cute black-and
 
 ---
 
+### 🔧 例 2737：Q 版马克笔涂鸦素描
+
+![Q 版马克笔涂鸦素描](../../images/Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片转换为 {argument name="style" default="可爱的黑白手绘涂鸦插画"}，并保持 {argument name="medium" default="极简马克笔素描"} 的特定风格。保留原始构图、姿势、拍摄角度、面部表情、服装以及所有主体的位置。将人物转换为可爱的 Q 版/卡通角色，特征简化，拥有大而生动的眼睛、圆润的脸庞和清晰的轮廓。
+
+[English]
+Convert the uploaded photo into a {argument name="style" default="cute black-and-white hand-drawn doodle illustration"} in the exact style of a {argument name="medium" default="minimalist marker sketch"}.Preserve the original composition, pose, camera angle, facial expressions, clothing, and positioning of all subjects. Transform the people into adorable chibi/cartoon characters with simplified features, large expressive eyes, rounded faces, and clean outlines.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2071610668521034222) | 2026-06-29
+
+---
+
+### 🔧 例 2787：高端像素拉伸艺术转换
+
+![高端像素拉伸艺术转换](../../images/%E9%AB%98%E7%AB%AF%E5%83%8F%E7%B4%A0%E6%8B%89%E4%BC%B8%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 {argument name="subject" default="上传的图像"} 转换为 {argument name="style" default="高端像素拉伸艺术品"}，同时精准保留原始主体。保持主体清晰、细节丰富且极具辨识度，完整呈现其特征、比例、纹理和整体外观。提取主体中的色彩、纹理和视觉细节，将其无缝延伸为优雅、流畅且富有动态美感的像素拉伸带。确保原始图像与拉伸区域之间的过渡完美无瑕，杜绝任何故障、畸变、生硬边缘或像素断层。拉伸的像素应呈现出 {argument name="motion style" default="丝滑、宽阔、灵动且自然"} 的质感，宛如色彩、光影、颜料或纯粹能量的流淌。在整个构图中保持真实的灯光、自然的景深、准确的阴影以及和谐的色彩平衡。运用电影级对比度、鲜艳的 HDR 级色彩、超清晰细节、现代极简构图、奢华数字艺术风格、标志性的 Adobe Photoshop 像素拉伸效果、画廊级后期处理以及超高清 8K 输出，打造出一件视觉震撼、高端且适合社交媒体分享的杰作。
+
+[English]
+Transform the {argument name="subject" default="uploaded image"} into a {argument name="style" default="premium pixel stretch artwork"} while preserving the original subject exactly. Keep the main subject perfectly sharp, highly detailed, and instantly recognizable, maintaining its identity, proportions, textures, and overall appearance. Extract the colors, textures, and visual details from the subject and seamlessly extend them into elegant, flowing pixel-stretch ribbons that follow graceful curves and dynamic motion. Create flawless transitions between the original image and the stretched areas, ensuring there are no glitches, distortions, harsh edges, or broken pixels. The stretched pixels should appear {argument name="motion style" default="silky, wide, fluid, and organic"}—resembling streams of color, light, paint, or pure energy. Preserve realistic lighting, natural depth, accurate shadows, and harmonious color balance throughout the composition. Use cinematic contrast, vibrant HDR-quality colors, ultra-sharp details, a modern minimalist composition, luxury digital art styling, the signature Adobe Photoshop pixel stretch effect, gallery-quality finishing, and ultra-high-resolution 8K output to create a visually captivating, premium, social-media-ready masterpiece.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2071453896242004275) | 2026-06-29
+
+---
+
+### 🔧 例 2804：奇幻民间艺术风格扁平插画
+
+![奇幻民间艺术风格扁平插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将参考照片转换为带有涂鸦元素的 {argument name="style" default="奇幻民间风格扁平插画"}。保留原始构图和人物，但将所有细节简化为干净、色彩丰富的扁平形状，并呈现出一种手工制作的童趣感。使用 {argument name="color scheme" default="柔和且鲜艳的色彩"}，添加红润的脸颊、俏皮的线条艺术、可爱的装饰符号、花朵、蝴蝶、鸟类、漩涡纹样以及温馨的城市背景细节。
+
+[English]
+Transform the reference photo into a {argument name="style" default="whimsical folk flat illustration"} with doodle elements. Preserve the original composition and characters, but simplify all details into clean colorful flat shapes with a handmade childlike feel. Use {argument name="color scheme" default="pastel and vibrant colors"}, rosy cheeks, playful line art, cute decorative symbols, flowers, butterflies,birds, swirls, and cozy urban background details.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2071400990784561336) | 2026-06-29
+
+---
+

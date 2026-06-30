@@ -7072,3 +7072,238 @@ Create a bright anime-style illustration of a cheerful schoolgirl riding on top 
 
 ---
 
+### 🏷️ 例 2722：漂浮在夏日云端的动漫少女
+
+![漂浮在夏日云端的动漫少女](../../images/%E6%BC%82%E6%B5%AE%E5%9C%A8%E5%A4%8F%E6%97%A5%E4%BA%91%E7%AB%AF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫风格的夏日插画，描绘 {argument name="character name" default="一位时尚的年轻女性"} 在湛蓝的天空中，于高耸的积云间失重漂浮或起舞。采用低角度仰拍全身视角，人物沿对角线居中，一只手臂高举过头顶并做出精致的手势，另一只手臂向外伸展，一条腿笔直向下，另一条腿俏皮地向后弯曲。她留着凌乱的 {argument name="hair color" default="黑色"} 波波头，皮肤白皙，表情平静而梦幻，明亮的双眼向上凝视，佩戴橙红色水滴状耳环和一条细珠手链。服装：一件浅蓝色与白色竖条纹超大款衬衫，在腰间打结，袖口随意卷起，内搭亮蓝色短款上衣，搭配高腰白色短裤和白色腰带，穿着白色堆堆袜和浅蓝色帆布鞋。背景布满了浓密且风格化的云朵，以细腻的墨线勾勒并带有浅蓝色阴影排线，留出大片浓郁的蓝天。画面中包含 2 架橙白相间的小型客机：一架位于右上角，留下一道蜿蜒的白色弧形航迹云；另一架位于左下角，穿过蓝色光束并留下一道细长的轨迹。采用干净的日式动漫线条、清晰的墨线轮廓、轻盈的构图、饱和的夏日蓝调、柔和的奶油色肤色、极简阴影、动态的海报式构图，以及 20 世纪 90 年代怀旧漫画的插画氛围。在右下角附近添加一个微小的手写签名和日期，内容为 {argument name="signature text" default="June 29, 2026 Oyagi"}。画面中不要出现额外角色、城市景观，除了签名和日期外不要包含任何文字。
+
+[English]
+Create a vertical anime-style summer illustration of {argument name="character name" default="a fashionable young woman"} floating or dancing weightlessly among towering white cumulus clouds in a vivid cobalt-blue sky. She is shown full body from a low upward angle, centered diagonally with one arm stretched high above her head making a delicate hand gesture, the other arm extended outward, one leg long and straight downward and the other bent back playfully. She has short tousled {argument name="hair color" default="black"} bob hair, pale skin, a calm dreamy expression, glossy eyes looking upward, orange-red drop earrings, and a small beaded bracelet. Outfit: an oversized light blue and white vertical striped button-up shirt tied in a knot at the waist, sleeves rolled loosely, a bright blue crop top underneath, high-waisted white shorts with a white belt, white scrunched socks, and light blue canvas sneakers. The background is filled with dense stylized clouds outlined in fine ink with pale blue shadow hatching, leaving patches of intense blue sky. Include exactly 2 small orange-and-white passenger jets: one in the upper right leaving a sweeping white curved contrail, and one in the lower left flying through blue streaks with a thin trail. Use clean Japanese anime line art, crisp ink outlines, airy composition, saturated summer blues, soft cream skin tones, minimal shading, dynamic poster-like framing, and a nostalgic 1990s manga illustration mood. Add a tiny handwritten signature and date near the bottom right reading {argument name="signature text" default="June 29, 2026 Oyagi"}. No extra characters, no cityscape, no text besides the signature/date.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2071672584752746572) | 2026-06-29
+
+---
+
+### 🏷️ 例 2724：柏林骄傲游行纪实街头摄影
+
+![柏林骄傲游行纪实街头摄影](../../images/%E6%9F%8F%E6%9E%97%E9%AA%84%E5%82%B2%E6%B8%B8%E8%A1%8C%E7%BA%AA%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张拍摄于 2026 年 7 月 26 日柏林库达姆大街 (Kurfürstendamm) Christopher Street Day (CSD) 期间的中景纪实照片。画面中充满了游行者——展现出独特的柏林美学：身穿贴满行动主义徽章的皮夹克、脚蹬战靴，手中举着政治标语牌。
+
+[English]
+A mid-shot documentary photograph on Kurfürstendamm, Berlin, during Christopher Street Day (CSD) Berlin on July 26, 2026. The frame is filled with marchers — the distinctly Berlin aesthetic: leather jackets covered in activist badges, combat boots, political placards alongside
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2071633570557263912) | 2026-06-29
+
+---
+
+### 🏷️ 例 2744：未来感森林山地自行车第一视角
+
+![未来感森林山地自行车第一视角](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%A3%AE%E6%9E%97%E5%B1%B1%E5%9C%B0%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超电影感第一人称 POV 镜头，拍摄骑着 {argument name="vehicle" default="山地自行车"} 在广阔的 {argument name="environment" default="未来生态赛博森林城市"} 中下坡疾驰。摄像机视角：前景为骑手双手紧握 {argument name="handlebars" default="磨损的自行车车把"}，带有自然的震动感，
+
+[English]
+Ultra cinematic first-person POV shot of riding a {argument name="vehicle" default="mountain bike"} downhill through a vast {argument name="environment" default="futuristic eco-cyber forest city"}. Camera perspective: rider’s hands gripping a {argument name="handlebars" default="worn bicycle handlebar"} in the foreground, natural vibration,
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2071588696718254223) | 2026-06-29
+
+---
+
+### 🏷️ 例 2751：巨型仓鼠烘焙店大追捕
+
+![巨型仓鼠烘焙店大追捕](../../images/%E5%B7%A8%E5%9E%8B%E4%BB%93%E9%BC%A0%E7%83%98%E7%84%99%E5%BA%97%E5%A4%A7%E8%BF%BD%E6%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个充满动感的电影感 AI 艺术场景，背景设在一家暖色调、金光闪烁的蛋糕店内部，视角位于地面，展现出夸张的速度感和运动感。前景中，展示 1 只巨大的圆滚滚金白色仓鼠正向观众方向飞奔，双颊塞满了鲜奶油和草莓蛋糕，嘴边飞溅着碎屑和奶油，有着亮晶晶的黑色眼睛、抬起的小爪子、蓬松的毛发，表情可爱又混乱。在它身后，展示 1 位人类糕点师，头戴高高的白色厨师帽，身穿白色厨师服、黑色围裙和深色长裤，正伸手向前追赶仓鼠，脸上带着愤怒且惊讶的叫喊表情。场景中包含 2 个长长的木质玻璃糕点展示柜，在左右两侧形成一条走廊，总共可见 8 个草莓奶油蛋糕，左右各 4 个。在展示柜外添加 3 个显眼的大草莓：左下角前景处有一个模糊的超大草莓，右中背景地板附近有一个小草莓，右下角前景处有一个超大草莓。在抛光木地板上添加飞溅的鲜奶油和蛋糕碎屑，运动轨迹向观众方向辐射，地板上有倒影，浅景深，烘焙店暖色调灯光。在左上角放置醒目且俏皮的日语问候语 {argument name="headline text" default="こんばんは"}，使用粗圆字体，白色填充，橙色描边并带有柔和阴影。整体风格：超细节可爱写实奇幻，戏剧性的广角透视，幽默动作场景，饱和的暖色调，高能量，无水印，无额外文字。主角可自定义为 {argument name="animal" default="巨型金丝熊仓鼠"}；烘焙店员工可自定义为 {argument name="chaser" default="愤怒的糕点师"}；甜点主题可自定义为 {argument name="dessert" default="草莓鲜奶油蛋糕"}；灯光可自定义为 {argument name="lighting style" default="暖色调烘焙店灯光"}。
+
+[English]
+Create a dynamic cinematic AI-art scene inside a warm, golden-lit cake shop at floor level, with an exaggerated sense of speed and motion. In the foreground, show 1 enormous round golden-and-white hamster sprinting directly toward the viewer, cheeks stuffed with whipped cream and strawberry cake, crumbs and cream flying from its mouth, glossy black eyes, tiny paws raised, fluffy fur, cute but chaotic expression. Behind it, show 1 human pastry chef in a tall white chef hat, white chef coat, black apron, and dark pants, running after the hamster with one hand reaching forward and an angry surprised shouting face. The setting contains exactly 2 long wooden-and-glass pastry display cases forming a corridor on the left and right, filled with exactly 8 visible strawberry cream cakes total, 4 on the left and 4 on the right. Add exactly 3 large loose strawberries visible outside the cases: 1 blurred oversized strawberry in the bottom-left foreground, 1 small strawberry on the floor near the right-center background, and 1 oversized strawberry in the bottom-right foreground. Add splashes of whipped cream and cake crumbs across the polished wooden floor, with motion streaks radiating toward the viewer, reflections on the floor, shallow depth of field, and warm bakery lighting. Place large playful Japanese greeting text in the upper left reading {argument name="headline text" default="こんばんは"}, thick rounded lettering, white fill with orange outline and soft shadow. Overall style: hyper-detailed cute photorealistic fantasy, dramatic wide-angle perspective, humorous action scene, saturated warm colors, high energy, no watermark, no extra text. Main character may be customized as {argument name="animal" default="giant golden hamster"}; bakery worker may be customized as {argument name="chaser" default="angry pastry chef"}; dessert theme may be customized as {argument name="dessert" default="strawberry shortcake with whipped cream"}; lighting may be customized as {argument name="lighting style" default="warm golden bakery lighting"}.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2071573591540502789) | 2026-06-29
+
+---
+
+### 🏷️ 例 2762：品牌化美食摄影转换
+
+![品牌化美食摄影转换](../../images/%E5%93%81%E7%89%8C%E5%8C%96%E7%BE%8E%E9%A3%9F%E6%91%84%E5%BD%B1%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+上传一张手机拍摄的菜品原图，基于原图进行高质量风格转换。
+
+【商家品牌名】：{argument name="品牌名" default="[商家名称]"}
+【菜品类型】：{argument name="菜品类型" default="[菜品分类]"}
+【菜品名称】：{argument name="菜品名称" default="[菜品名称]"}
+【副标题 / slogan】：
+【主色调】：
+【画幅比例】：9:16
+
+请保留原图菜品的核心食材结构、菜品类型识别度、主要摆盘关系和大致视角，不要改成另一道菜。
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2071555063865082205) | 2026-06-29
+
+---
+
+### 🏷️ 例 2780：角色冰棒包装设计
+
+![角色冰棒包装设计](../../images/%E8%A7%92%E8%89%B2%E5%86%B0%E6%A3%92%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张插画。
+根据上传的插画，创作一款完全原创的冰棒包装。
+
+仔细分析上传插画中的角色设计、色彩、面部特征、发型、服装、符号、装饰、奇幻元素、情感氛围以及世界观设定。将所有这些元素转化为令人兴奋的冰品和极具视觉冲击力的包装插画，使其自然地融入该世界观中。
+
+请勿重现任何现有的商业产品、吉祥物、包装布局、公司、标志或品牌。请构思一个完全原创的冰品品牌、产品名称、标志、排版、包装图形、口味概念和视觉识别系统。
+
+冰品应呈现为色彩鲜艳的脆皮冰棒，带有清晰可见的冰晶、多汁的水果层、闪亮的糖果碎片、风味糖浆纹理、脆糖粒、冷冻果冻块以及清爽的质感。横截面看起来应美味诱人、充满活力且风味十足。
+
+包装应具有爆发力、趣味性、色彩丰富且瞬间抓人眼球。填充巨大的动态排版、魔法能量爆发、飞溅的水果、水晶、星星、丝带、花朵、闪电、雪花飞溅、魔法粒子、漫画风格的冲击效果、速度线、彩色渐变以及令人兴奋的视觉动感。
+
+上传的角色必须保持不变。保留原始的面部、发型、发色、瞳色、比例、年龄、表情、服装风格和身份。角色应成为这款冰品的快乐代言人，而不是变成 Q 版、吉祥物化或过度变形的形象。
+
+包含一个原创的奇幻口味名称、一个原创的虚构冰品品牌标志、令人兴奋的日式包装排版、色彩鲜艳的促销图形、清爽的冷冻效果以及小型的口味插图。
+
+整体设计应呈现出一种畅销便利店冰品包装的感觉，让孩子们一眼就想购买，同时保持完全的原创性。
+
+色彩极其丰富，
+高冲击力，
+趣味性，
+清爽，
+夏日感，
+漫画风格能量，
+动漫插画，
+动态构图，
+大胆的包装设计，
+冰晶效果，
+明亮的灯光，
+鲜艳的色彩，
+商业插画，
+专业包装艺术，
+杰作。
+
+[English]
+Make an illustration.
+Create a completely original frozen ice bar package directly inspired by the uploaded illustration.
+
+Carefully analyze the uploaded illustration's character design, colors, facial features, hairstyle, clothing, symbols, ornaments, fantasy elements, emotional atmosphere, and worldbuilding. Transform every one of these elements into an exciting frozen ice treat and bold package illustration that naturally belongs to that universe.
+
+Do NOT recreate any existing commercial product, mascot, package layout, company, logo, or brand. Invent a completely original ice brand, product name, logo, typography, package graphics, flavor concept, and visual identity.
+
+The frozen treat should be a colorful crunchy ice bar with visible ice crystals, juicy fruit layers, sparkling candy pieces, flavored syrup veins, crunchy candy bits, frozen jelly chunks, and refreshing textures. The cross-section should look delicious, energetic, and bursting with flavor.
+
+The package should feel explosive, playful, colorful, and instantly eye-catching. Fill it with huge dynamic typography, magical energy bursts, flying fruits, crystals, stars, ribbons, flowers, lightning, snow splashes, magical particles, comic-style impact effects, speed lines, colorful gradients, and exciting visual motion.
+
+The uploaded character must remain the same person. Preserve the original face, hairstyle, hair color, eye color, proportions, age, expression, clothing style, and identity. The character should become the cheerful mascot and presenter of the frozen treat without becoming chibi, mascot-like, or super-deformed.
+
+Include an original fantasy flavor name, an original fictional ice brand logo, exciting Japanese package typography, colorful promotional graphics, refreshing frozen effects, and small flavor illustrations.
+
+The overall design should feel like a best-selling convenience store ice package that children immediately want to pick up, while remaining completely original.
+
+Ultra colorful,
+high impact,
+playful,
+refreshing,
+summer feeling,
+comic-style energy,
+anime illustration,
+dynamic composition,
+bold package design,
+ice crystal effects,
+bright lighting,
+vivid colors,
+commercial illustration,
+professional package artwork,
+masterpiece.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2071474370468332028) | 2026-06-29
+
+---
+
+### 🏷️ 例 2783：写实沙发人像与罗纹连衣裙
+
+![写实沙发人像与罗纹连衣裙](../../images/%E5%86%99%E5%AE%9E%E6%B2%99%E5%8F%91%E4%BA%BA%E5%83%8F%E4%B8%8E%E7%BD%97%E7%BA%B9%E8%BF%9E%E8%A1%A3%E8%A3%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位年轻女性坐在灰色布艺沙发上，背景是一面温暖的白色室内墙壁，左侧可见一个白色小方块灯光开关。她身穿 {argument name="clothing" default="深海军蓝无袖高领罗纹针织连衣裙"}。裙子修身但日常感十足，具有清晰的垂直罗纹质感，在躯干处自然拉伸，腰部和裙摆处有写实的褶皱。她戴着简单的金色圆环耳环，留着 {argument name="hair style" default="长款侧分冷棕色波浪卷发"}，柔和地垂落在脸部一侧和肩头，带有几缕真实的碎发。她微微后靠在沙发上，头部轻轻向上倾斜，双眼向下注视镜头。表情平静、冷淡、放松且没有笑容。相机位置较低，约在膝盖高度，以 9:16 的智能手机竖屏构图向上拍摄。一只大腿和膝盖靠近镜头，占据了下方的近景，营造出强烈的透视深度，而她的脸部位于画面上半部分，上方留有大面积的空白墙面。可见的皮肤区域包括脸部、小部分颈部、肩膀、上臂、前臂、手部边缘、膝盖、大腿前侧以及部分大腿内侧区域。胸部被高领针织连衣裙完全覆盖，而腰部、腹部、背部、臀部及臀部邻近区域被衣物和坐姿遮挡。她的皮肤白皙，带有中性粉色调，高光处呈奶油色，阴影处呈柔和的米灰色。质感应细腻、柔软、干净且呈轻微哑光感，如同涂抹了薄薄的粉底并加上了微妙的柔焦滤镜，同时在手臂和腿部保持自然的色调变化。光线为来自左前方的柔和室内漫射光或窗光，均匀地照亮脸部、肩膀、手臂和前景的腿部。浅色的墙壁反射出柔和的亮度，而灰色沙发和深海军蓝连衣裙增加了对比度。保持图像接近真实的智能手机社交媒体人像风格：轻微的美颜修饰、适度的锐化、清晰的针织纹理、沙发面料质感、碎发、低角度透视畸变以及简单的非完美裁切。避免服装过于暴露、改变高领设计、夸大身体曲线、塑料感皮肤、幼态比例、肢体扭曲、强烈的闪光灯或杂乱的背景。
+
+[English]
+A young adult woman sits on a gray fabric sofa against a warm white indoor wall, with a small white square light switch visible on the left. She wears a {argument name="clothing" default="deep navy sleeveless high-neck ribbed knit dress"}. The dress is fitted but everyday-looking, with clear vertical rib texture, natural stretching across the torso, and realistic folds around the waist and skirt hem. She has a simple gold hoop earring and {argument name="hair style" default="long side-parted cool-brown wavy hair"}, softly falling across one side of her face and shoulder, with a few real flyaway strands. She leans slightly back on the sofa, her head gently tilted upward while her eyes look downward into the camera. Her expression is calm, cool, relaxed, and unsmiling. The camera is placed low, around knee level, shooting upward in a vertical 9:16 smartphone frame. One thigh and knee sit close to the lens and dominate the lower foreground, creating strong perspective depth, while her face sits in the upper half of the frame with a large area of blank wall above. Visible skin includes the face, a small area of neck, shoulders, upper arms, forearms, hand edges, knees, front thighs, and part of the inner thigh area. The chest is fully covered by the high-neck knit dress, while the waist, abdomen, back, hips, and buttock-adjacent areas are hidden by the clothing and seated pose. Her skin is fair with a neutral pink undertone, creamy in the highlights and softly beige-gray in the shadows. It should feel fine, soft, clean, and lightly matte, like thin foundation plus a subtle soft-focus filter, while still keeping natural tonal variation on the arms and legs. Lighting is soft indoor diffused light or window light from the front-left, evenly illuminating the face, shoulders, arms, and foreground leg. The pale wall reflects gentle brightness, while the gray sofa and dark navy dress add contrast. Keep the image close to a real smartphone social-media portrait: slight beauty retouching, mild sharpening, visible knit texture, sofa fabric texture, flyaway hair, low-angle perspective distortion, and a simple imperfect crop. Avoid making the outfit revealing, changing the high neckline, exaggerating body curves, plastic skin, childlike proportions, distorted limbs, harsh flash, or a cluttered background.
+```
+
+**来源：** [@underwood](https://x.com/underwoodxie96/status/2071465429294624911) | 2026-06-29
+
+---
+
+### 🏷️ 例 2799：云雾品牌 Logo 场景
+
+![云雾品牌 Logo 场景](../../images/%E4%BA%91%E9%9B%BE%E5%93%81%E7%89%8C%20Logo%20%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个高度精细的电影级 3D 场景，特色是完全由厚重的体积云构成的 {argument name="brand logo" default="著名品牌 Logo"}。云层浓密、逼真且纹理丰富，在戏剧性的轮廓光和柔和的大气漫射下熠熠生辉。Logo 在广阔的暴风雨天空中清晰浮现，周围环绕着旋转的薄雾、深邃的云层和电影级的灯光效果。
+环境超现实且宏大，明暗对比强烈，采用超逼真的体积渲染和大气深度。Logo 形状定义完美，但完全由自然云层构成，赋予其强大而神圣的质感。
+灯光效果戏剧化，带有发光的边缘、微妙的辉光以及电影级的色彩分级。整体氛围宏大、具有未来感且视觉冲击力强，如同高预算奇幻电影的镜头。
+超精细、8K 画质、景深、柔和雾气漫射、HDR 灯光、高度逼真的云物理效果、电影级构图、居中取景。
+
+[English]
+A highly detailed cinematic 3D scene featuring a {argument name="brand logo" default="famous brand logo"} formed entirely from thick volumetric clouds. The clouds are dense, realistic, and richly textured, glowing with dramatic rim lighting and soft atmospheric diffusion. The logo emerges clearly in the center of a vast storm-filled sky, surrounded by swirling mist, depth-heavy cloud layers, and cinematic lighting effects.
+The environment is surreal and epic, with strong contrast between light and shadow, ultra-realistic volumetric rendering, and atmospheric depth. The logo shape is perfectly defined but made entirely of natural cloud formations, giving it a powerful and divine presence.
+Lighting is dramatic, with glowing edges, subtle bloom, and cinematic color grading. The mood is grand, futuristic, and visually striking, like a high-budget fantasy film shot.
+Ultra-detailed, 8K quality, depth of field, soft fog diffusion, HDR lighting, highly realistic cloud physics, cinematic composition, centered framing.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2071427662078456224) | 2026-06-29
+
+---
+
+### 🏷️ 例 2800：舞台上的三位全息动漫偶像
+
+![舞台上的三位全息动漫偶像](../../images/%E8%88%9E%E5%8F%B0%E4%B8%8A%E7%9A%84%E4%B8%89%E4%BD%8D%E5%85%A8%E6%81%AF%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的宽屏动漫偶像演唱会场景，背景为充满未来感的全息舞台。画面中共有三位年轻的虚拟女性流行偶像并排站立，正在表演同步的舞蹈动作，她们的一只手臂笔直向上举起，食指指向天空。中间的偶像为领舞，距离镜头稍近，拥有 {argument name="center idol hair color" default="长款柔和粉色双马尾"}、柔和的粉色双眼以及自信温柔的微笑。左侧偶像拥有 {argument name="left idol hair color" default="短款金色波波头"} 和温暖的笑容。右侧偶像拥有 {argument name="right idol hair color" default="带有亮蓝色挑染的黑色短发"}，一只眼睛被刘海半遮，表情冷酷。三人都身着配套的 {argument name="outfit style" default="深蓝色星空全息迷你裙"}：带有心形领口的亮面束腰上衣、黑色透明长袖、荷叶边短裙、闪烁的星座图案、胸前的小星星装饰、黑色颈圈、腕带以及带有星星细节的深色过膝袜。舞台背景为一个宏大的科幻音乐厅，配有发光的蓝色水晶拱门、圆形金属结构、成排的小灯、扫射的白色激光束、朦胧的青色全息图，以及她们身后隐约可见的旋转木马式马匹剪影或宇宙投影。使用明亮的蓝色和紫色灯光，营造高能量的 J-pop 现场表演氛围，具有光泽反射、电影级景深、柔和光晕、细腻的动漫渲染效果，呈现精致的 GPT-image 风格，画面中无可见文字，无水印，除这三位偶像外无其他表演者。
+
+[English]
+Create a wide 16:9 anime idol concert scene on a futuristic holographic stage, featuring exactly three young female virtual pop idols standing in a row and performing synchronized choreography with one arm raised straight upward and index finger pointing to the sky. The center idol is the lead, slightly closer to camera, with {argument name="center idol hair color" default="long pastel pink twin tails"}, soft pink eyes, and a gentle confident smile. The left idol has {argument name="left idol hair color" default="short blonde bob hair"} and a warm smile. The right idol has {argument name="right idol hair color" default="short black hair with vivid blue highlights"}, one eye partly hidden by bangs, and a cool expression. All three wear matching {argument name="outfit style" default="dark navy starry holographic mini dresses"}: glossy corset bodices with sweetheart necklines, sheer long black sleeves, ruffled short skirts, sparkling constellation-like star patterns, small star ornaments at the chest, black chokers, wrist cuffs, and thigh-high dark stockings with star details. The stage background is a grand sci-fi concert hall with glowing blue crystalline arches, circular metallic structures, rows of tiny lights, sweeping white laser beams, misty cyan holograms, and faint carousel-like horse silhouettes or cosmic projections behind them. Use luminous blue and violet lighting, high-energy J-pop live performance atmosphere, glossy reflections, cinematic depth of field, soft bloom, detailed anime rendering, polished GPT-image style, no visible text, no watermark, no extra performers beyond the three idols.
+```
+
+**来源：** [@五島 雅｜Goshima Production](https://x.com/miyabigoshima/status/2071427444297666619) | 2026-06-29
+
+---
+

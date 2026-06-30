@@ -4324,3 +4324,99 @@ Style: AAA game character reference sheet, production ready turnaround, cinemati
 
 ---
 
+### 🧍 例 2721：奇幻巷弄中的蒙面冬日点灯人
+
+![奇幻巷弄中的蒙面冬日点灯人](../../images/%E5%A5%87%E5%B9%BB%E5%B7%B7%E5%BC%84%E4%B8%AD%E7%9A%84%E8%92%99%E9%9D%A2%E5%86%AC%E6%97%A5%E7%82%B9%E7%81%AF%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感奇幻街道插画，采用细节丰富的手绘动漫概念艺术风格。一位高大的拟人化熊形流浪者，名为 {argument name="character name" default="蒙面冬日点灯人"}，全身像立于前景，身处夜晚潮湿的鹅卵石巷弄中，身体微向左侧，目光直视前方。角色身穿一件厚实且带有补丁的 {argument name="coat color" default="紫色"} 长款冬装大衣，配有白色毛领、深蓝色叠穿衣物、横跨躯干的皮带与束带、厚重手套、宽松长裤以及粗犷的靴子。头部为毛茸茸的白色熊头兜帽或面具，带有小巧圆润的耳朵、黑色眼睛、橙色小腮红，以及一个显眼的橙色圆形呼吸器状口鼻部；下方是一个机械式口部装置，胸部/面具区域精确排列着 6 个可见的蓝色玻璃圆形镜片或阀门。在大衣前襟上方两侧各添加 1 个圆形徽章补丁，并加上几处磨损的棕褐色修补痕迹和磨损的接缝。角色右手握着 1 根华丽的黑色手杖灯，顶部是一个发出温暖琥珀色光芒的宝塔形金属灯笼。背景是一个狭窄的欧洲奇幻风格集市街道，建筑由木材和石头交错而成，阴影呈现冷蓝色，商店灯光则为温暖的金色。在右侧，放置 1 个光芒强烈的面包店橱窗，展示着清晰可见的面包和糕点、悬挂的玻璃灯以及木制柜台；橱窗上方悬挂着一个带有风格化、不可辨认文字的松动店招。在左侧背景中，展示 2 位远去的连帽行人、1 个小型店招以及 2 扇透出暖光的上层窗户。运用冷色月光蓝与暖色琥珀光之间的戏剧性对比、潮湿且具反射感的鹅卵石路面、复杂的墨线风格、绘画质感、略微夸张的比例、高细节度，且不包含任何现代物品、可读文字或水印。
+
+[English]
+Create a cinematic fantasy street illustration in a richly detailed hand-painted anime concept-art style. A tall anthropomorphic bear-like wanderer named {argument name="character name" default="the masked winter lamplighter"} stands full-body in the foreground on a wet cobblestone alley at night, facing slightly left while looking forward. The character wears a bulky patched {argument name="coat color" default="purple"} long winter coat with a white fur collar, dark blue layered clothing, belts and straps across the torso, heavy gloves, baggy pants, and rugged boots. The head is a fluffy white bear hood or mask with small rounded ears, black eyes, tiny orange cheek dots, and a prominent orange circular respirator-like muzzle; below it is a mechanical mouthpiece with exactly 6 visible blue-glass circular lenses or valves arranged on the chest/mask area. Add exactly 2 round insignia patches on the upper front of the coat, one on each side, plus several worn tan repair patches and scuffed seams. The character holds exactly 1 ornate black staff-lantern in the right hand, topped with a pagoda-shaped metal lantern glowing warm amber. The setting is a narrow old European-fantasy market street with crooked timber-and-stone buildings, cool blue shadows, and warm golden shop lighting. On the right, place exactly 1 bakery display window glowing intensely, filled with visible bread and pastries, hanging glass lamps, and a wooden counter; include a loose shop sign with stylized unreadable lettering above the window. On the left background, show exactly 2 distant hooded pedestrians walking away, exactly 1 small storefront sign, and exactly 2 warmly lit upper windows. Use dramatic contrast between cold moonlit blues and warm amber light, wet reflective cobblestones, intricate ink-like linework, painterly textures, slightly exaggerated proportions, high detail, no modern objects, no readable text, no watermark.
+```
+
+**来源：** [@Aiden Vu](https://x.com/byaiden_vu/status/2071677871702372545) | 2026-06-29
+
+---
+
+### 🧍 例 2741：未来感侦察兵三视图设计稿
+
+![未来感侦察兵三视图设计稿](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E4%BE%A6%E5%AF%9F%E5%85%B5%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1%E7%A8%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的参考图作为主要角色设计依据，保留其整体轮廓、比例、未来感服装层次、头盔几何结构、面罩形状、类石质粗野主义装甲表面、黑色连帽外套以及独特的橙色发光点缀。在干净的 {argument name="background color" default="white"} 背景上生成一张高分辨率的全身角色三视图。展示该角色的三个角度：正面、45 度侧面和背面。该角色 ({argument name="character name" default="SF-01"}) 是一位 {argument name="character type" default="futuristic scout"}。请确保装甲的风化石质纹理以及面罩和装备的发光强度保持高度一致。
+
+[English]
+Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, and distinctive glowing orange accents. Generate a high-resolution, full-body character turnaround sheet on a clean {argument name="背景颜色" default="white"} background. Show the character from three angles: front, 45-degree side, and back. The character ({argument name="角色名" default="SF-01"}) is a {argument name="角色类型" default="futuristic scout"}. Maintain total consistency in the armor’s weathered stone texture and the glow intensity of the visor and equipment.
+```
+
+**来源：** [@Shams](https://x.com/ShamsAmin56/status/2071590431725670517) | 2026-06-29
+
+---
+
+### 🧍 例 2795：绿色 Q 版猫娘三视图
+
+![绿色 Q 版猫娘三视图](../../images/%E7%BB%BF%E8%89%B2%20Q%20%E7%89%88%E7%8C%AB%E5%A8%98%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="绿色 Q 版猫咪"} 的可爱 Q 版猫娘吉祥物创建一个简洁的三视图角色参考图。
+
+画布：横向 4:3 白色背景，无文字，无道具，无阴影，角色三视图排列均匀。
+
+布局：展示同一个角色的 3 个全身视图：左侧为正面视图，中间为左侧面视图，右侧为背面视图。保持三个角色的高度和比例一致，采用简单的站立姿势，双臂自然下垂。
+
+角色细节：该角色是一个小巧的毛绒感 Q 版形象，拥有大圆头、小身体、短腿以及白色的毛茸茸手脚。她留着 {argument name="hair color" default="叶绿色"} 的波波头，带有圆润的刘海、深绿色的发梢、光泽感高光，头顶有一根卷曲的呆毛，并配有大型尖尖的猫耳，内侧为浅色绒毛，并带有白色蓬松耳簇。正面视图中，她拥有超大的光泽绿色眼睛、长长的黑色睫毛、小巧的猫嘴、柔和的粉色脸颊腮红，表情温柔可爱。侧面视图展示了小巧突出的鼻子和圆润的口鼻部轮廓。背面视图展示了覆盖头部和颈部的圆润波波头、双猫耳以及呆毛。
+
+服装与身体：为角色穿上一件简单的超大号短袖 T 恤，颜色为 {argument name="shirt color" default="中绿色"}，像简单的束腰外衣一样垂在小身体上。无图案、无标志、无纽扣、无鞋子或配饰。面部、手臂、腿部、爪子和尾巴上可见的毛发均为纯白色，带有微妙的浅灰绿色阴影。
+
+尾巴：每个视图中均包含 1 条蓬松的白色猫尾，并符合透视关系：正面视图中尾巴在身体旁向上弯曲，侧面视图中尾巴在身体后方卷曲，背面视图中尾巴从下背部延伸并向右扫过。
+
+视觉风格：日式可爱角色设计图，柔和的数字插画，干净的黑色素描风格轮廓，柔和的赛璐珞阴影，头发带有水彩般的绿色渐变，圆润简化的解剖结构，具有精致的手绘 Clip Studio Paint 质感。
+
+约束条件：保持 3 个视图的设计一致，保留相同的服装和比例，避免背景元素，避免额外的姿势，避免标签，避免写实的解剖结构，且不要添加任何其他角色。
+
+[English]
+Goal: Create a clean three-view character reference sheet for a cute chibi cat-girl mascot named {argument name="character name" default="green cat chibi"}.
+
+Canvas: Landscape 4:3 white background, no text, no props, no shadows, evenly spaced character turnaround lineup.
+
+Layout: Show exactly 3 full-body views of the same character: 1 front view on the left, 1 left-facing side profile in the center, and 1 back view on the right. Keep all three figures the same height and scale, with simple standing poses and arms relaxed at the sides.
+
+Character details: The character is a small plush-like chibi with a large round head, tiny body, short legs, and white furry hands and feet. She has {argument name="hair color" default="leaf green"} bob-cut hair with rounded bangs, darker green tips, glossy highlights, one small curled ahoge strand on top, and large pointed cat ears with pale inner fur and white fluffy ear tufts. In the front view, she has oversized glossy green eyes, long black eyelashes, a tiny cat mouth, soft pink cheek blush, and a gentle cute expression. The side view shows the small protruding nose and rounded muzzle profile. The back view shows the rounded bob haircut covering the head and neck, both cat ears, and the ahoge.
+
+Outfit and body: Dress the character in a plain oversized short-sleeve T-shirt in {argument name="shirt color" default="medium green"}, hanging like a simple tunic over the small body. No patterns, logos, buttons, shoes, or accessories. The visible fur on face, arms, legs, paws, and tail is pure white with subtle pale gray-green shading.
+
+Tail: Include exactly 1 fluffy white cat tail on each view, matching the perspective: curved upward beside the body in the front view, curling behind the body in the side view, and extending from the lower back and sweeping to the right in the back view.
+
+Visual style: Japanese kawaii character-design sheet, soft digital illustration, clean black sketch-like outlines, gentle cel shading, watercolor-like green gradients in the hair, rounded simplified anatomy, polished but hand-drawn Clip Studio Paint feel.
+
+Constraints: Keep the design consistent across all 3 views, preserve the same outfit and proportions, avoid background elements, avoid extra poses, avoid labels, avoid realistic anatomy, and do not add any additional characters.
+```
+
+**来源：** [@とらの](https://x.com/TlanoAI/status/2071429899202760896) | 2026-06-29
+
+---
+
+### 🧍 例 2802：赛博朋克星云滑板场景
+
+![赛博朋克星云滑板场景](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%98%9F%E4%BA%91%E6%BB%91%E6%9D%BF%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+背景は{argument name="背景" default="SFチックなサイバー系の宇宙空間"}。参照画像の{argument name="人物" default="スケボー少年"}が宇宙の星雲で作られる道の上をスケボーで滑る。その近くを、{argument name="同伴者" default="ちび天使"}がスケボー少年に付いていくような形で飛んでいる。二人とも笑顔。ザラザラ・ガビガビとした描写ではなく自然でクリアな描写、滑らかな線と塗り、ソフトシェーディング。
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2071413346243379562) | 2026-06-29
+
+---
+

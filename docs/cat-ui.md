@@ -5243,3 +5243,111 @@ Create a realistic fine-art travel landscape photograph of a crystal-clear turqu
 
 ---
 
+### 🖥️ 例 2715：Neon 能量饮料产品拍摄
+
+![Neon 能量饮料产品拍摄](../../images/Neon%20%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E4%BA%A7%E5%93%81%E6%8B%8D%E6%91%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超电影感产品摄影，画面主体为一罐 {argument name="color" default="霓虹绿"} 能量饮料，罐身印有 "{argument name="brand name" default="VOLT RUSH"}" 标签，呈锐利对角线倾斜，冲破发光的 {argument name="fruit" default="柑橘切片"} 和电火花。冻结的青柠汁飞溅效果与冰屑悬浮在半空中，微小液滴清晰可见。高对比度影棚灯光，配以绿色霓虹轮廓光，深色背景，光泽铝制表面，浅景深，照片级真实感，8K 分辨率，高级广告风格。
+
+[English]
+Ultra-cinematic product photography of a {argument name="color" default="neon-green"} energy drink can labeled "{argument name="brand name" default="VOLT RUSH"}", tilted at a sharp diagonal, bursting through glowing {argument name="fruit" default="citrus slices"} and electric sparks. Frozen lime juice splashes and ice shards suspended mid-air, micro droplets clearly visible. High-contrast studio lighting with green neon rim lights, deep dark background, glossy aluminum surface, shallow depth of field, photorealistic, 8K, premium advertising style.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2071742565339320451) | 2026-06-29
+
+---
+
+### 🖥️ 例 2716：日本蓝月武士
+
+![日本蓝月武士](../../images/%E6%97%A5%E6%9C%AC%E8%93%9D%E6%9C%88%E6%AD%A6%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的电影级动漫奇幻插画，背景是浓郁的蓝宝石色月光。画面下方中央，一位年轻的武士背对镜头站在草坡上，手中握着一根长杆，杆上挂着一面巨大的深蓝色破旧战旗，正向右侧剧烈飘扬；旗帜上印有苍白的圆形徽章。他身着深蓝色武士风格服装，衣物随风飘动，呈现出英雄般的剪影。下方景观是一片广阔而明亮的峡谷，点缀着远山、河流或发光的能量线条、零星的城市灯光以及闪烁的蓝色粒子。在他上方，一轮巨大的满月占据了天空，几乎填满了画面的上半部分，月球表面隐约可见日本列岛的深蓝色轮廓。夜空中繁星点点，恰好有 9 道明亮的蓝色流星划过，呈对角线向下坠落。在地平线和月亮周围添加层叠的发光云层，前景的草地和岩石上要有电光蓝色的高光，营造出史诗般的民族神话感与希望感。采用超精细的动漫主视觉风格，高对比度，光芒晕染，体积云，清晰的月球陨石坑，动态风感，深海军蓝阴影，发光的青色点缀，9:16 竖构图，无文字，无水印。
+
+[English]
+Create a vertical cinematic anime fantasy illustration in intense sapphire-blue moonlight. A lone young samurai stands from behind on a grassy hilltop in the lower center, holding a tall pole with a large tattered deep-blue battle flag blowing dramatically to the right; the flag bears a pale circular crest emblem. He wears a dark blue samurai-inspired outfit with wind-swept cloth and a heroic silhouette. The landscape below is a vast luminous valley with distant mountains, rivers or glowing energy lines, scattered city-like lights, and sparkling blue particles. Above him, an enormous full moon dominates the sky, almost filling the upper half of the image, with the islands of Japan visibly formed as darker blue shapes across the moon’s surface. The night sky is packed with stars and exactly 9 bright blue shooting stars/meteor streaks crossing diagonally downward. Add layered glowing clouds around the horizon and moon, electric-blue highlights on grass and rocks in the foreground, and a sense of epic national myth and hope. Use ultra-detailed anime key visual style, high contrast, radiant bloom, volumetric clouds, crisp moon craters, dynamic wind, deep navy shadows, luminous cyan accents, vertical 9:16 composition, no text, no watermark.
+```
+
+**来源：** [@田中勇道 | AI画像・動画生成](https://x.com/yudotanaka/status/2071727159077482586) | 2026-06-29
+
+---
+
+### 🖥️ 例 2736：孤独的深夜铁路道口值守员
+
+![孤独的深夜铁路道口值守员](../../images/%E5%AD%A4%E7%8B%AC%E7%9A%84%E6%B7%B1%E5%A4%9C%E9%93%81%E8%B7%AF%E9%81%93%E5%8F%A3%E5%80%BC%E5%AE%88%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张情绪感十足的电影级夜景照片，画面中 {argument name="character name" default="一位安静的少女铁路道口值守员"} 独自坐在乡村铁路道口旁的一把简易木椅上。画面为方形构图，采用机顶闪光灯柔光拍摄，呈现深蓝紫色的黄昏色调，带有细腻的胶片颗粒感和轻微褪色的模拟质感。主体为一位留着短黑发的东亚少女，表情平静且未带笑容，身着 {argument name="outfit" default="白色短袖衬衫、深色百褶裙、白色短袜和黑色乐福鞋"}；她侧身坐着，身体略微朝向镜头，双手放在膝盖上，双腿并拢。画面中需包含 6 个显著且独立的道路元素：1 根高大的橙色立柱，上方装有圆形的凸面交通镜，倒映出黑暗的窄路和远处的车灯；1 根矮小的白色立柱，带有小型圆形标志或灯具；1 把木椅；1 根带有交叉路标的铁路道口信号杆；2 个圆形信号灯，其中一个发出红光；以及 1 根降下的黑黄相间条纹栏杆，横跨在画面右侧的道路上。将女孩置于画面中心偏右位置，交通镜位于左上方，铁路信号杆位于中景背景，右侧是一条通向黑暗的空旷湿润道路。背景应为稀疏的乡村环境，有低矮的草丛、杂草、护栏、远处的树木剪影以及深沉的夜空。采用写实的比例，营造安静且充满悬疑的氛围，色彩柔和，前景由闪光灯照亮，画面中无任何可见文字、水印或多余人物。
+
+[English]
+Create a moody cinematic night photograph of {argument name="character name" default="a quiet teenage railway crossing attendant"} sitting alone on a simple wooden chair beside a rural railroad crossing. The scene is square format, shot with soft on-camera flash and dark blue-purple dusk tones, with subtle film grain and a slightly faded analog look. The subject is one young East Asian girl with short dark hair, a calm unsmiling expression, wearing {argument name="outfit" default="a white short-sleeve blouse, dark pleated skirt, white socks, and black loafers"}; she sits in profile angled slightly toward the camera with her hands resting on her lap and legs together. Include exactly 6 prominent discrete roadside elements: 1 tall orange pole with a round convex traffic mirror reflecting a dark narrow road and distant headlights, 1 short white post with a small round sign or lamp, 1 wooden chair, 1 railroad crossing signal pole with a crossbuck, 2 circular signal lights with one glowing red, and 1 lowered black-and-yellow striped barrier stretching across the road at the right. Place the girl slightly right of center, the mirror high on the left, the crossing signal in the mid-background, and an empty wet-looking road receding into darkness on the right. The background should be rural and sparse, with low grass, weeds, guardrails, distant tree silhouettes, and a heavy night sky. Use realistic proportions, quiet suspenseful atmosphere, muted colors, shallow flash-lit foreground, and no visible text, watermark, or extra people.
+```
+
+**来源：** [@シオナイ](https://x.com/sion41754400/status/2071611490222969189) | 2026-06-29
+
+---
+
+### 🖥️ 例 2760：怀旧童年记忆网格
+
+![怀旧童年记忆网格](../../images/%E6%80%80%E6%97%A7%E7%AB%A5%E5%B9%B4%E8%AE%B0%E5%BF%86%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一个 {argument name="grid layout" default="4x3"} 的无缝网格布局，其中每个面板展示一个以 {argument name="subject" default="一位年轻女性"} 为主角的独立场景。确保所有面板中的主体外观、色彩和光影保持完美一致。主题：{argument name="theme" default="童年记忆"}，氛围：温暖、怀旧，风格：怀旧电影感写实。无文字，无间隙。
+
+[English]
+Generate a {argument name="grid layout" default="4x3"} seamless grid layout where every panel shows a separate scene featuring the {argument name="subject" default="a young woman"}. Keep subject appearance, colors, and lighting perfectly consistent across all panels. Theme: {argument name="theme" default="childhood memories"}, mood: warm, nostalgic, style: nostalgic cinematic realism. No text, no gaps.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2071561442013118600) | 2026-06-29
+
+---
+
+### 🖥️ 例 2767：狼少年夏日草地小憩
+
+![狼少年夏日草地小憩](../../images/%E7%8B%BC%E5%B0%91%E5%B9%B4%E5%A4%8F%E6%97%A5%E8%8D%89%E5%9C%B0%E5%B0%8F%E6%86%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的电影级动漫插画，采用柔和的浪漫奇幻风格，宽屏 16:9。画面展示 {argument name="character name" default="Wolf-kun"}，一位美丽的雌雄莫辨的狼耳少年，正慵懒地斜倚在树下阳光斑驳的野花草地上。他有着长长的 {argument name="hair color" default="深海军蓝"} 秀发铺散在草丛中，两只尖尖的大狼耳内侧毛色浅淡，身后蜷缩着一条蓬松的大号深蓝色狼尾。他双眼紧闭，表情困倦而放松，嘴唇微张，一只手臂抬起遮在额头上，仿佛在遮挡温暖的阳光。他穿着一件宽松的白色衬衫，胸口和腰部敞开，衣褶柔软且带有半透明的高光，搭配浅米色系带长裤和一条精致的银色项链。一只小白兔靠在他的肩头沉睡。周围环绕着薰衣草紫的花朵、细小的雏菊、绿草、漂浮的闪光微尘以及柔和的焦外成像。画面中需包含三个清晰可见的道具：1 只睡在他肩上的小白兔，1 顶躺在右侧草地上的草帽，以及 1 本放在草帽旁带有金色字样的深蓝色书籍。背景应呈现出宁静乡村花园的感觉，带有隐约的栅栏和晨曦光芒。采用绘画感的高端动漫渲染，线条细腻，皮肤具有光泽感，织物褶皱真实，浅景深，温暖的轮廓光，衬衫和皮肤上投射出叶影图案，带有空灵的闪光，营造出夏日午后宁静小憩的氛围。避免出现文字覆盖、水印、多余角色或夸张的面部表情。
+
+[English]
+Create a highly detailed cinematic anime illustration in a soft romantic fantasy style, widescreen 16:9. Show {argument name="character name" default="Wolf-kun"}, a beautiful androgynous young wolf-eared man reclining lazily in a sun-dappled wildflower meadow beneath a large tree. He has long flowing {argument name="hair color" default="deep navy blue"} hair spread across the grass, two large pointed wolf ears with pale inner fur, and one large fluffy dark blue wolf tail curling behind him. His eyes are closed, his expression is sleepy and relaxed with slightly parted lips, and one arm is raised across his forehead as if shielding his face from the warm sunlight. He wears a loose oversized white button-up shirt, open at the chest and waist, with soft folds and translucent highlights, plus light beige trousers with a lace-up waistband and a delicate silver necklace. A small white rabbit rests asleep against his shoulder. Surround him with lavender-purple flowers, tiny white daisies, green grass, drifting sparkling motes, and soft bokeh. Include exactly three visible nearby props: 1 white rabbit sleeping on his shoulder, 1 straw hat lying in the grass on the right, and 1 dark blue book with gold lettering beside the hat. The background should feel like a peaceful countryside garden with a faint fence and glowing morning light. Use painterly high-end anime rendering, delicate linework, luminous skin, realistic fabric folds, shallow depth of field, warm rim light, leaf-shadow patterns across the shirt and skin, ethereal sparkles, and a calm summer nap atmosphere. Avoid text overlays, watermark, extra characters, or exaggerated facial expression.
+```
+
+**来源：** [@WOLFWOLF2025](https://x.com/WOLFWOLF2075614/status/2071534925753536794) | 2026-06-29
+
+---
+
+### 🖥️ 例 2775：奢华条纹行李箱产品摄影
+
+![奢华条纹行李箱产品摄影](../../images/%E5%A5%A2%E5%8D%8E%E6%9D%A1%E7%BA%B9%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端摄影棚产品照片，主体为 {argument name="product type" default="高级硬壳拉杆箱"}，颜色为 {argument name="case color" default="亮面枪灰色"}，放置在宽幅横向构图的右侧，左侧留有充足的负空间。该行李箱为硬质铝合金风格登机箱，正面带有垂直条纹凹槽，配有圆润的黑色加固护角、两个可见的侧边锁扣、一个侧把手、一个伸出的伸缩拉杆，底部可见 4 个双排万向轮。展示其直立状态并略微向后倾斜，采用低角度四分之三正面拍摄，以便同时展现正面和右侧。使用戏剧性的奢华广告灯光：深炭灰色摄影棚背景，左侧有微妙的垂直墙面接缝，黑色反光地面映衬出轮子和箱体下部的柔和倒影，条纹边缘带有冷色调高光，受控的轮廓光，以及富有质感的渐变背景。保持图像照片级真实感、清晰、高端、极简且具有电影质感，画面中不含任何文字、Logo、人物或杂物。
+
+[English]
+Create a high-end studio product photograph of a {argument name="product type" default="premium hard-shell rolling suitcase"} in {argument name="case color" default="glossy gunmetal black"}, positioned on the right side of a wide horizontal frame with generous negative space on the left. The suitcase is a rigid aluminum-style carry-on with vertical ribbed grooves across the front, rounded reinforced black corner protectors, two visible side latches, a side handle, an extended telescoping pull handle, and exactly 4 double-spinner wheels visible near the base. Show it standing upright but slightly tilted back, photographed from a low three-quarter front angle so the front and right side are visible. Use dramatic luxury advertising lighting: dark charcoal-gray studio background, subtle vertical wall seam on the left, reflective black floor with soft reflections of the wheels and lower case, cool highlights along the ribs, controlled rim light, and a moody gradient backdrop. Keep the image photorealistic, sharp, premium, minimal, and cinematic, with no text, no logo, no people, and no clutter.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2071495339706667345) | 2026-06-29
+
+---
+
