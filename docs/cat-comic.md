@@ -4116,3 +4116,101 @@ Visual style: High-quality monochrome manga, thin precise ink lines, ornate shou
 
 ---
 
+### 🎬 例 2814：宇宙漫画肖像
+
+![宇宙漫画肖像](../../images/%E5%AE%87%E5%AE%99%E6%BC%AB%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形的漫画书 / 图形小说风格近景肖像，主角为 {argument name="character description" default="一位留着短寸黑发、拥有温暖棕色皮肤、深棕色眼睛、丰满嘴唇且表情平静中立的年轻黑人男性"}。构图采用头部和上肩部居中，正对观众，对称构图。在保持逼真的面部比例和特征细节的同时，将其渲染为醒目的超级英雄风格插画：粗黑墨水轮廓线，面部和颈部带有细致的交叉排线，富有表现力的雕刻阴影线，前额、鼻子、脸颊和嘴唇上的光泽高光，以及浓郁温暖的橙棕色皮肤阴影。添加一件简单的深色圆领衫，带有细微的墨水褶皱。使用充满活力的 {argument name="background color" default="蓝色"} 半色调漫画背景，带有密集的点状纹理，从边缘向脸部放射状射入的能量线，做旧的印刷颗粒感，以及厚实的黑色矩形漫画边框。光影应具有戏剧性但呈正面照射，高对比度，线条清晰，色彩饱和，呈现出精致的现代图形小说质感。无文字，无对话气泡，无标志，无水印。
+
+[English]
+Create a square close-up comic book / graphic novel portrait of {argument name="character description" default="a young Black man with short cropped black hair, warm brown skin, dark brown eyes, full lips, and a calm neutral expression"}. Frame the head and upper shoulders centered, facing straight toward the viewer with symmetrical composition. Preserve realistic facial proportions and identity-like detail, but render everything as bold superhero-style illustration: thick black ink outlines, detailed cross-hatching on the face and neck, expressive engraved shadow lines, glossy highlights on the forehead, nose, cheeks, and lips, and rich warm orange-brown skin shading. Add a simple dark crew-neck shirt with subtle ink folds. Use a vibrant {argument name="background color" default="blue"} halftone comic background with dense dot texture, radial burst energy lines shooting inward from the edges toward the face, distressed print grain, and a thick black rectangular comic panel border. Lighting should be dramatic but frontal, with high contrast, crisp linework, saturated colors, and a polished modern graphic novel finish. No text, no speech bubbles, no logos, no watermark.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2072063202045653119) | 2026-06-30
+
+---
+
+### 🎬 例 2851：网格照片拼贴日记风格
+
+![网格照片拼贴日记风格](../../images/%E7%BD%91%E6%A0%BC%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4%E6%97%A5%E8%AE%B0%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+九宫格照片拼贴，{argument name="人物描述" default="同一个人"}在不同时刻、不同角度、不同距离的样子。每张都像真实拍摄，自然光线、干净背景、明亮清爽的感觉。
+
+{argument name="线条颜色" default="白色"}手绘线条贯穿整个画面，围绕人物、描绘动作、画小爱心✨、闪闪、波浪和运动线。
+
+整体色调明亮饱和，柔和的自然色彩配合小点缀，没有沉闷阴影。最后看起来就像个生动的日记页面，九个时刻各自清晰，但视觉上连成一个有节奏感的故事。
+```
+
+**来源：** [@千寻｜AI 分享 🌸](https://x.com/Crypto_QianXun/status/2071853756484923525) | 2026-06-30
+
+---
+
+### 🎬 例 2858：抹茶提拉米苏动画分镜脚本
+
+![抹茶提拉米苏动画分镜脚本](../../images/%E6%8A%B9%E8%8C%B6%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F%E5%8A%A8%E7%94%BB%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="video duration" default="9 秒"} 的日式 2D 动画风格甜点烹饪短视频创作一份超粗略的铅笔分镜脚本，主题为制作 {argument name="dessert name" default="抹茶提拉米苏"}。
+
+画布：宽银幕 21:9 横向分镜纸，白色背景，细黑色边框，按 3 行 4 列的网格排列，共 12 个分镜格。使用松散的手绘石墨铅笔线条、草图式构图笔触、极简阴影，点缀少量柔和的淡绿色抹茶色调，无需精细上色。
+
+布局与分镜数量：展示 12 个独立的分镜格，从左至右，从上至下：
+1. 厨房台面上，水壶将热水倒入装有抹茶粉的小碗中；旁边放着茶筅，背景中有一个小罐子。
+2. 特写镜头：一只手在碗中搅拌抹茶，可见圆形的运动轨迹线。
+3. 两把勺子将奶油马斯卡彭奶酪加入大搅拌碗中。
+4. 刮刀在大碗中翻拌奶油混合物，可见平滑的扫动轨迹线。
+5. 场景全景：玻璃甜点杯居中，左侧是手指饼干托盘，右侧是抹茶小碗，背景是厨房工具。
+6. 手将一块长方形手指饼干浸入浅碗中的抹茶液里。
+7. 手将浸过抹茶的手指饼干放入透明圆柱形玻璃杯底部。
+8. 勺子将一团奶油放入杯中的饼干层上。
+9. 手在杯中的奶油层上再加一层浸过抹茶的饼干。
+10. 刮刀抹平杯中顶部的厚奶油层，透过透明杯壁可以看到饼干和奶油的分层。
+11. 网筛将抹茶粉均匀地撒在甜点顶部。
+12. 最终成品特写：完成的抹茶提拉米苏装在透明圆玻璃杯中，可见三层结构，顶部撒有抹茶粉，放在餐巾纸上，旁边放着小叶子和竹制茶筅。
+
+视觉风格：日式 2D 动画制作分镜，粗略铅笔动画草图感，单色线条艺术，带有微妙的绿灰色抹茶阴影，动态的手部和厨具，富有表现力的运动弧线，整洁的矩形构图，轻盈的桌面视角，柔和的食物准备氛围。
+
+文字内容：无字幕，无对白，无分镜编号，无水印。
+
+约束条件：保持绘图刻意粗略且具有分镜感，严格遵守 12 格网格布局，保持 21:9 的长宽比，聚焦于烹饪动作和食材分层，避免照片级写实。
+
+[English]
+Goal: Create an ultra-rough pencil storyboard for a {argument name="video duration" default="9-second"} Japanese 2D anime-style dessert cooking short video about making {argument name="dessert name" default="matcha tiramisu"}.
+
+Canvas: Wide cinematic 21:9 horizontal storyboard sheet, white background, thin black panel borders, arranged as exactly 12 panels in a 3-row by 4-column grid. Use loose hand-drawn graphite pencil lines, sketchy construction strokes, minimal shading, a few muted pale green matcha accents, and no polished coloring.
+
+Layout and panel count: Show exactly 12 discrete storyboard panels, left to right, top to bottom:
+1. A kettle pours hot water into a small bowl of matcha powder on a kitchen counter; a whisk lies nearby and a small jar sits in the background.
+2. Close-up of a hand whisking matcha in a bowl, circular motion lines visible.
+3. Two spoons add creamy mascarpone or cream into a large mixing bowl.
+4. A spatula folds the cream mixture in a large bowl, smooth sweeping motion lines.
+5. Mise-en-scène wide shot: glass dessert cup centered, tray of sponge fingers on the left, small bowl of matcha on the right, kitchen tools in the background.
+6. Hand dips one rectangular sponge finger into the matcha liquid inside a shallow bowl.
+7. Hand places matcha-soaked sponge fingers into the bottom of a clear cylindrical glass cup.
+8. A spoon drops a mound of cream onto the sponge layer inside the glass.
+9. Hand adds another soaked sponge finger layer on top of the cream in the glass.
+10. Spatula smooths a thick top layer of cream in the glass, showing layered sponge and cream through the transparent side.
+11. A mesh sieve dusts matcha powder evenly over the top of the dessert.
+12. Final beauty shot: completed matcha tiramisu in a clear round glass with three visible layers, green matcha dusted top, placed on a napkin with small leaves and a bamboo whisk nearby.
+
+Visual style: Japanese 2D anime production storyboard, rough pencil animatic look, monochrome line art with subtle green-gray matcha shading, dynamic hands and utensils, expressive motion arcs, clean rectangular framing, light tabletop perspective, soft food-prep atmosphere.
+
+Text content: No captions, no dialogue, no panel numbers, no watermarks.
+
+Constraints: Keep the drawing intentionally rough and storyboard-like, preserve the exact 12-panel grid, maintain the 21:9 aspect ratio, focus on cooking actions and ingredient layering, and avoid photorealism.
+```
+
+**来源：** [@オズ](https://x.com/ozuozuai99/status/2071841809756758453) | 2026-06-30
+
+---
+

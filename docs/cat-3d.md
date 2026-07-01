@@ -4066,3 +4066,21 @@ Create a hyper-detailed full-body 3D stylized caricature of the person in [REFER
 
 ---
 
+### 🧸 例 2833：动漫时尚数字插画
+
+![动漫时尚数字插画](../../images/%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{ "image_type": "超写实风格化角色海报，动漫风格 3D 数字插画", "aspect_ratio": "9:16 竖屏", "resolution": "8K，高细节，商业级品质", "style": { "genre": "电影感时尚角色主视觉", "rendering": "具有动漫面部美学的照片级 CGI", "mood": "自信、戏剧性、优雅、略带神秘", "color_palette": "灰粉色、白色、黑色、柔和肤色", "processing": "干净的渲染，高微观细节，柔和对比度，高级海报质感" }, "camera": { "angle": "平视侧面视角", "framing": "全身构图", "lens": "50mm 全画幅等效", "aperture": "f/4", "focus": "两位角色均清晰对焦", "depth_of_field": "中等景深" }, "lighting": { "type": "大型柔光摄影棚布光", "setup": "左前方主光，配合柔和补光和微妙轮廓光", "quality": "平滑阴影，面料和皮肤上有光泽的高光", "background": "纯色 {argument name="background color" default="灰粉色"} 无缝背景板" }, "environment": { "scene": "极简摄影棚", "graphics": "背景填充大型做旧白色竖排文字，顶部中心有小型 'VELORA STUDIO' 标志，右下角有风格化的 'SHUT OUT' 笔刷字体" }, "subjects": [ { "role": "{argument name="standing subject" default="站立女性"}", "appearance": "年轻东亚女性，苗条，白皙皮肤，深棕色长直发向后戏剧性飘动", "expression": "冷静，专注", "pose": "侧身向左站立，双臂完全伸展，双手持黑色半自动手枪，重心在右腿", "clothing": "白色缎面长袖衬衫，黑色高腰修身皮短裙，黑色透明连裤袜，黑色漆皮尖头细高跟鞋" }, { "role": "{argument name="crouching subject" default="蹲姿女性"}", "appearance": "年轻东亚女性，白皙皮肤，深色头发扎成凌乱丸子头并留有刘海", "expression": "闭眼，严肃", "pose": "在站立女性腿旁低蹲，双手捂耳，头部微低", "clothing": "黑色水手风短款夹克，配有白色滚边和深 V 领口，白色百褶短裙，黑色过膝袜，黑色漆皮乐福鞋" } ], "objects": { "weapon": "现代黑色半自动手枪", "floor": "与背景色一致的平滑哑光摄影棚地面" } }
+
+[English]
+{ "image_type": "ultra-realistic stylized character poster, anime-inspired 3D digital illustration", "aspect_ratio": "9:16 vertical", "resolution": "8K, highly detailed, commercial-quality", "style": { "genre": "cinematic fashion character key visual", "rendering": "photorealistic CGI with anime facial aesthetics", "mood": "confident, dramatic, elegant, slightly mysterious", "color_palette": "dusty rose, white, black, soft skin tones", "processing": "clean rendering, high micro-detail, soft contrast, premium poster finish" }, "camera": { "angle": "eye-level side perspective", "framing": "full-body composition", "lens": "50mm full-frame equivalent", "aperture": "f/4", "focus": "sharp across both characters", "depth_of_field": "moderately deep" }, "lighting": { "type": "large soft studio lighting", "setup": "front-left key light with soft fill and subtle rim light", "quality": "smooth shadows, glossy highlights on fabric and skin", "background": "solid {argument name="background color" default="dusty pink"} seamless backdrop" }, "environment": { "scene": "minimalist studio", "graphics": "large distressed white vertical typography filling the background, small 'VELORA STUDIO' logo centered near the top, stylized 'SHUT OUT' brush lettering at bottom-right" }, "subjects": [ { "role": "{argument name="standing subject" default="standing woman"}", "appearance": "young East Asian woman, slim, fair skin, long straight dark brown hair flowing dramatically backward", "expression": "calm, focused", "pose": "standing in profile facing left, arms fully extended, holding a black semi-automatic pistol with both hands, weight on right leg", "clothing": "white satin long-sleeve blouse, fitted black high-waisted leather mini skirt, sheer black pantyhose, glossy black pointed stiletto pumps" }, { "role": "{argument name="crouching subject" default="crouching woman"}", "appearance": "young East Asian woman, fair skin, dark hair in a messy bun with bangs", "expression": "eyes closed, serious", "pose": "low squat beside the standing woman's legs, both hands covering ears, head slightly lowered", "clothing": "black sailor-style cropped jacket with white piping and deep V neckline, white pleated mini skirt, black knee-high socks, black patent loafers" } ], "objects": { "weapon": "modern black semi-automatic handgun", "floor": "smooth matte studio floor matching the background" } }
+```
+
+**来源：** [@Owen Carter](https://x.com/owencarter_io/status/2071923378609385715) | 2026-06-30
+
+---
+

@@ -6179,3 +6179,71 @@ Create a cinematic fantasy game key art scene in an ancient Chinese mythological
 
 ---
 
+### 🎨 例 2808：霓虹植物图谱美学
+
+![霓虹植物图谱美学](../../images/%E9%9C%93%E8%99%B9%E6%A4%8D%E7%89%A9%E5%9B%BE%E8%B0%B1%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+图形繁盛但秩序清晰，文字、标注和植物线描共同构成一个可阅读的{argument name="生长系统" default="霓彩生长系统"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072107790529884565) | 2026-06-30
+
+---
+
+### 🎨 例 2813：人体姿态剪影速写页面
+
+![人体姿态剪影速写页面](../../images/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E5%89%AA%E5%BD%B1%E9%80%9F%E5%86%99%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张整洁的速写页面，背景为纯白色，上面绘有多个黑色墨水人体剪影姿态。各种不同姿势的匿名人物：{argument name="poses" default="站立、行走、坐姿、跪姿、倚靠以及富有表现力的手臂动作"}。粗犷的黑色马克笔线条，随性的手绘轮廓，涂鸦式的内部阴影，极简的面部细节，简单的服装形状，时尚人台缩略图研究，角色剪影探索，快速姿态写生练习，原始概念艺术草图风格，高对比度黑白效果，干净的纸张质感，艺术构图。
+
+[English]
+A clean sketchbook page filled with multiple black ink human silhouette gesture drawings on a plain white background. Various anonymous figures in different poses: {argument name="poses" default="standing, walking, sitting, kneeling, leaning, and expressive arm gestures"}. Rough black marker linework, loose hand-drawn outlines, scribbled interior shading, minimal facial detail, simple clothing shapes, fashion figure thumbnail study, character silhouette exploration, quick gesture drawing practice, raw concept art sketch style, high contrast black and white, clean paper texture, artistic composition.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2072073944505479306) | 2026-06-30
+
+---
+
+### 🎨 例 2822：民间时尚水粉插画
+
+![民间时尚水粉插画](../../images/%E6%B0%91%E9%97%B4%E6%97%B6%E5%B0%9A%E6%B0%B4%E7%B2%89%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+平涂手绘民间时尚插画，主角为 {argument name="subject" default="[HUMAN]"}，身穿 {argument name="clothing" default="[CLOTHING]"}，姿势为 [POSE]，旁边伴有 {argument name="animal" default="[ANIMAL]"}，背景设为 [BACKGROUND]。使用 [PALETTE]，粗犷不均匀的黑色轮廓线，平涂不透明水粉色块，可见纸张纹理，简化的杏仁眼，小红唇，修长的风格化颈部，极简的面部细节，装饰性纺织图案，大胆的植物图形，原生艺术比例，中景肖像构图，海报风格，无写实景深。干净且饱和的编辑风格，手工质感，宽高比 4:5。
+
+[English]
+Flat hand-painted folk fashion illustration of {argument name="subject" default="[HUMAN]"}, wearing {argument name="clothing" default="[CLOTHING]"}, posed [POSE] with {argument name="animal" default="[ANIMAL]"} beside them, set in [BACKGROUND]. Use [PALETTE], thick uneven black outlines, flat opaque gouache color blocks, visible paper grain, simplified almond eyes, small red lips, long stylized neck, minimal facial detail, decorative textile patterns, bold graphic foliage, naïve proportions, cropped medium portrait framing, and a poster-like composition with no realistic depth. Clean saturated editorial look, handmade texture, aspect ratio 4:5.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2071957286969393417) | 2026-06-30
+
+---
+
+### 🎨 例 2825：灯笼街上的精灵商人
+
+![灯笼街上的精灵商人](../../images/%E7%81%AF%E7%AC%BC%E8%A1%97%E4%B8%8A%E7%9A%84%E7%B2%BE%E7%81%B5%E5%95%86%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的动漫风格全身插画，描绘一位开朗的年轻精灵旅行商女孩，行走在夜晚灯火通明的东亚古风商业街上。角色为 {argument name="character name" default="翡翠旅行商人"}：一位身材苗条、外表十几岁的少女，有着尖尖的精灵耳朵、明亮的绿色眼睛、红润的脸颊，以及非常飘逸的 {argument name="hair color" default="蜜金色"} 长发，扎成两个高高的双马尾，并配有翡翠绿的装饰发夹。她正微笑着向观众走来，一只手扶着大号深色单肩包的肩带。她的装束是一套华丽的奇幻中国风商人服装，配色为 {argument name="outfit colors" default="淡翡翠色、深酒红色、象牙白、黑色和古金色"}：一件无袖淡翡翠色高领旗袍式上衣，带有金色盘扣，腰间系着宽大的深色束腰，下身是层叠的酒红色及踝长裙，裙上绣有金色的凤凰和云纹，内衬象牙白荷叶边裙摆，并配有两只随风飘动的半透明超大象牙白露肩袖。腰带上垂下两条长流苏饰品，腰间挂着多个翡翠钱币挂件和黄铜环，佩戴垂坠耳环，脚穿黑色踝带高跟鞋，背着一个装饰着小流苏的黑棕色商人挎包。裙摆和头发应呈现出被微风吹拂的动态感。背景：雨后电影质感的湿润石板路，路面映衬着温暖的倒影，两侧是密集的木质店面，挂着发光的红灯笼，以及带有中日风格书法的竖式招牌；包括左侧一个醒目的竖式招牌，文字为 {argument name="left shop sign text" default="横浜大飯店"}，右侧一个醒目的竖式招牌，文字为 {argument name="right shop sign text" default="景珍樓"}。狭窄街道上方是深邃的星空，温暖的橙色灯光与清冷的蓝色阴影交织，高细节，优雅的线条，柔和的绘画渲染，丰富的织物纹理，华丽的金色刺绣，浅景深，电影级构图，2:3 竖向画布，无水印，无现代物品，无额外角色。
+
+[English]
+Create a polished anime-style full-body illustration of a cheerful young elf travel merchant girl in a lantern-lit old East Asian shopping street at night. The character is {argument name="character name" default="Jade Traveling Merchant"}: a slim teenage-looking girl with pointed elf ears, bright green eyes, rosy cheeks, and very long flowing {argument name="hair color" default="honey-blonde"} hair tied into exactly two high twin ponytails with jade-green ornamental hair clasps. She smiles warmly while walking toward the viewer, one hand holding the strap of a large dark shoulder bag. Her outfit is an ornate fantasy Chinese-inspired merchant costume in {argument name="outfit colors" default="pale jade, deep burgundy, ivory, black, and antique gold"}: a sleeveless pale jade high-collar qipao-style top with gold frog closures, a wide dark corset belt, a layered burgundy ankle-length skirt with gold embroidered phoenix and cloud motifs, an ivory ruffled underskirt, and exactly two translucent oversized off-shoulder ivory sleeves with gold embroidery billowing in the wind. Add exactly two long tassel ornaments hanging from the belt, multiple jade coin charms and brass rings around the waist, dangling earrings, black ankle-strap heels, and a black-brown merchant satchel decorated with small tassels. The skirt and hair should swirl dynamically as if caught by a light breeze. Background: a cinematic wet stone-paved street after rain, warm reflections on the pavement, dense wooden storefronts on both sides, glowing red paper lanterns, and vertical shop signs with Chinese/Japanese-style calligraphy; include a prominent left vertical sign reading {argument name="left shop sign text" default="横浜大飯店"} and a prominent right vertical sign reading {argument name="right shop sign text" default="景珍樓"}. Use a deep starry night sky above the narrow street, warm orange lantern light mixed with cool blue shadows, high detail, elegant linework, soft painterly rendering, rich fabric texture, ornate gold embroidery, shallow depth of field, cinematic composition, 2:3 vertical canvas, no watermark, no modern objects, no extra characters.
+```
+
+**来源：** [@Toudaiji](https://x.com/ISoBZrpOBM85706/status/2071948354985357324) | 2026-06-30
+
+---
+

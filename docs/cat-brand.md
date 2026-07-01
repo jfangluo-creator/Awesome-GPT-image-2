@@ -7307,3 +7307,151 @@ Create a wide 16:9 anime idol concert scene on a futuristic holographic stage, f
 
 ---
 
+### 🏷️ 例 2809：动漫英雄跃过城市
+
+![动漫英雄跃过城市](../../images/%E5%8A%A8%E6%BC%AB%E8%8B%B1%E9%9B%84%E8%B7%83%E8%BF%87%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动态的动漫风格竖版插画，描绘 {argument name="character name" default="一位魅力十足的年轻人"} 在现代城市街道上方高高跃起，采用极端的低角度虫眼视角，仿佛摄像机位于他下方的地面附近。他正处于跳跃半空中，一只膝盖抬向观众，一只黑色皮鞋的鞋底占据前景，另一条腿向后弯曲，一只手臂向左上方伸展，另一只拳头紧握在身侧。他留着凌乱的 {argument name="hair color" default="深棕色"} 卷发，表情自信微笑，眼神锐利，充满英雄般的活力。为他穿上一件飘逸的 {argument name="coat color" default="亮红色"} 开襟长外套、深蓝色衬衫、蓝色长裤、黑色腰带、黑色皮鞋、腕部配饰，以及一条在风中飘动的 {argument name="tie color" default="金黄色"} 领带。周围环绕着两侧戏剧性向上汇聚的高耸玻璃钢结构摩天大楼，远处有一台建筑起重机，背景是鲜艳的深蓝色夏日天空、明亮的白色积云、闪烁的阳光、动态模糊线条，以及在他周围旋转的小片金叶或纸屑。采用电影级构图、夸张的透视、清晰的动漫渲染、鲜艳饱和的色彩、高对比度的阳光、细腻的衣物褶皱、建筑上的光泽反射，营造出强烈的速度感和自由感，无文字，无边框，无水印。
+
+[English]
+Create a dynamic anime-style vertical illustration of {argument name="character name" default="a charismatic young man"} leaping high above a modern city street, viewed from an extreme low-angle worm’s-eye perspective as if the camera is near the ground beneath him. He is mid-jump with one knee raised toward the viewer, the sole of one black leather dress shoe dominating the foreground, the other leg bent back, one arm stretched wide toward the upper left, and the other fist clenched near his side. He has tousled {argument name="hair color" default="dark brown"} curly hair, a confident smiling expression, sharp eyes, and a heroic energetic presence. Dress him in a flowing {argument name="coat color" default="bright red"} open long coat, dark navy shirt, blue trousers, black belt, black shoes, wrist accessories, and a {argument name="tie color" default="golden yellow"} tie whipping in the wind. Surround him with towering glass-and-steel skyscrapers on both sides converging dramatically upward, a construction crane in the distance, a vivid deep blue summer sky, bright white cumulus clouds, sparkling sunlight, motion streaks, and small golden leaves or paper-like fragments swirling around him. Use cinematic composition, exaggerated perspective, crisp anime rendering, vibrant saturated colors, high contrast sunlight, detailed clothing folds, glossy reflections on buildings, strong sense of speed and freedom, no text, no border, no watermark.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2072094926415016120) | 2026-06-30
+
+---
+
+### 🏷️ 例 2817：女性人物铅笔动态素描
+
+![女性人物铅笔动态素描](../../images/%E5%A5%B3%E6%80%A7%E4%BA%BA%E7%89%A9%E9%93%85%E7%AC%94%E5%8A%A8%E6%80%81%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张松散的铅笔动态素描，主体为 {argument name="subject" default="坐在地板上的年轻女性"}，背部视角。她留着 {argument name="hair style" default="短波波头"}，身材苗条，双腿向一侧折叠，呈现出放松的坐姿。一只手撑在地板上，背部自然弯曲，勾勒出柔和随意的身体线条。她穿着 {argument name="outfit" default="短袖露脐上衣"} 和宽松的阴影下装。粗犷的石墨铅笔线条，快速人物速写研究，富有表现力的手绘轮廓，涂鸦式阴影，未完成的解剖结构草图，极简的面部细节，原始的速写本风格，干净的白纸背景，艺术观察性绘画，宁静而亲密的氛围。
+
+负面提示词：文字，Logo，水印，签名，字母，数字，标题，彩色背景，写实照片，精细面部，过度润色的数字艺术，干净的矢量线条，多余的手臂，多余的腿，糟糕的解剖结构，扭曲的身体，凌乱的页面边框，浓重的墨水，低质量，模糊，重复的人物。
+
+长宽比：竖向速写本页面，3:4
+
+[English]
+A loose pencil gesture sketch of a {argument name="subject" default="young female figure sitting on the floor"}, viewed from behind. She has {argument name="hair style" default="short bob style hair"}, a slim body, and a relaxed seated pose with her legs folded to one side. One hand rests on the floor for support while her back curves naturally, creating a soft casual body line. She wears a {argument name="outfit" default="cropped blouse with short sleeves"} and a loose shaded lower garment. Rough graphite pencil linework, quick figure drawing study, expressive hand drawn outlines, scribbled shading, unfinished anatomy sketch, minimal facial detail, raw sketchbook style, clean white paper background, artistic observational drawing, calm and intimate mood.
+
+Negative Prompt: text, logo, watermark, signature, letters, numbers, captions, colorful background, realistic photo, detailed face, over polished digital art, clean vector lines, extra arms, extra legs, bad anatomy, distorted body, messy page border, heavy ink, low quality, blurry, duplicate figure.
+
+Aspect Ratio: Vertical sketchbook page, 3:4
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2071996433579069692) | 2026-06-30
+
+---
+
+### 🏷️ 例 2831：未来感霓虹线框运动员肖像
+
+![未来感霓虹线框运动员肖像](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E9%9C%93%E8%99%B9%E7%BA%BF%E6%A1%86%E8%BF%90%E5%8A%A8%E5%91%98%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的图像转换为 {argument name="visual style" default="未来感发光线框肖像"}，同时保留人物的准确身份、面部特征、发型、身体比例、姿势、服装和构图。将整个主体转换为由精细多边形线框和发光能量轮廓组成的 {argument name="mesh type" default="发光白色霓虹网格"}。在身体周围环绕电浆、闪烁粒子、光束和数字能量爆发，营造出强大的全息运动员效果。保持背景为 {argument name="background style" default="全黑且带有微妙漂浮粒子"}，并在主体下方设置光泽反射地面。使用高对比度的黑白调色板，搭配明亮的白色霓虹轮廓、超精细的网格拓扑、电影级体积光、逼真的辉光以及高级科幻赛博美学。在仅应用发光线框能量效果的同时，保留原始图像的每一个细节。8K 分辨率，超写实，杰作质量，戏剧性光影，无文字，无 Logo，无水印，无 UI 元素。
+
+[English]
+Transform the uploaded image into a {argument name="visual style" default="futuristic glowing wireframe portrait"} while preserving the person's exact identity, facial features, hairstyle, body proportions, pose, clothing, and composition. Convert the entire subject into a {argument name="mesh type" default="luminous white neon mesh"} made of fine polygonal wireframe lines and glowing energy contours. Surround the body with electric plasma, sparkling particles, light streaks, and digital energy bursts, creating the effect of a powerful holographic athlete. Keep the background {argument name="background style" default="completely black with subtle floating particles"} and a glossy reflective floor beneath the subject. Use a high-contrast black-and-white palette with brilliant white neon outlines, ultra-detailed mesh topology, cinematic volumetric lighting, realistic glow, and a premium sci-fi cyber aesthetic. Preserve every detail of the original image while applying only the glowing wireframe energy effect. 8K, ultra-realistic, masterpiece quality, dramatic lighting, no text, no logos, no watermarks, no UI elements.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2071925559140229502) | 2026-06-30
+
+---
+
+### 🏷️ 例 2849：黄金时刻网球俱乐部时尚摄影
+
+![黄金时刻网球俱乐部时尚摄影](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E7%BD%91%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的社论风格时尚摄影照片，画面表现两位时尚的年轻女性在黄金时刻通过一道深色金属门进出网球俱乐部。前方的女性留着深棕色头发，梳成随意的凌乱发髻，有修饰脸型的发丝，佩戴黑色细长椭圆形太阳镜和小型圆圈耳环，身穿修身黑色短袖 Polo 衫（胸前有微小的白色 Logo）和白色网球短裙，手里向下拿着一支粉色网球拍。第二位女性走在她身后，留着金色马尾辫，佩戴黑色猫眼太阳镜、小型金色圆圈耳环和精致项链，身穿米色麻花针织网球毛衣（V 领袖口和下摆带有粉色条纹）和白色网球短裙，肩上挎着一个大型米色托特包。画面中仅出现这两位女性，两人均处于迈步状态，自信且放松，温暖的阳光勾勒出她们头发和肩膀的轮廓。背景是高档网球俱乐部的入口，左侧可见部分深色项目，黑色门柱构成了画面的框架，背景是模糊的绿色网球场和树木，呈现出奢华的午后氛围。采用 3:4 竖构图，腰部至大腿的时尚取景，浅景深，自然的皮肤纹理，温暖的电影级调色，高端生活方式杂志摄影风格，无清晰可辨的文字，无其他人物，无水印。
+
+[English]
+Create a realistic editorial fashion photograph of two stylish young women entering or leaving a tennis club through a dark metal gate at golden hour. The foreground woman has dark brunette hair in a loose messy bun with face-framing strands, slim black oval sunglasses, small hoop earrings, a fitted black short-sleeve polo shirt with a tiny white chest logo, a white tennis mini skirt, and holds a pink tennis racket down at her side. The second woman walks just behind her, with blonde hair in a relaxed ponytail, black cat-eye sunglasses, small gold hoop earrings, a delicate necklace, a cream cable-knit tennis sweater with pink striped V-neck cuffs and hem, a white tennis skirt, and a large cream tote bag over one shoulder. Show exactly two women, both mid-stride, confident and relaxed, with warm sun rim-lighting their hair and shoulders. The setting is an upscale tennis club entrance with a partially visible dark signboard on the left, black gate posts framing the image, blurred green tennis court and trees in the background, and a luxurious late-afternoon atmosphere. Use a vertical 3:4 composition, waist-to-thigh fashion framing, shallow depth of field, natural skin texture, warm cinematic color grading, high-end lifestyle magazine photography, no readable text emphasis, no extra people, no watermark.
+```
+
+**来源：** [@The Best Designer](https://x.com/Chinwe_Owanta/status/2071860400648237452) | 2026-06-30
+
+---
+
+### 🏷️ 例 2850：外卖包装系统设计
+
+![外卖包装系统设计](../../images/%E5%A4%96%E5%8D%96%E5%8C%85%E8%A3%85%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+生成一张横版 4:3 高清写实品牌包装设计提案板，主题是【{argument name="产品品类" default="产品品类"}】外带包装系统。\n\n品牌名：【{argument name="品牌名" default="品牌名"}】\nslogan：【{argument name="品牌口号" default="品牌口号"}】\n系统标题：【TAKEAWAY PACKAGING SYSTEM】\n风格：【风格关键词】\n主色调：【主色调】
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2071855388790550839) | 2026-06-30
+
+---
+
+### 🏷️ 例 2857：哥特恶魔领主高定装
+
+![哥特恶魔领主高定装](../../images/%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E9%A2%86%E4%B8%BB%E9%AB%98%E5%AE%9A%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的全身暗黑奇幻动漫插画，主角是 {argument name="character name" default="Valt"}，一位雌雄同体的男性恶魔领主，站在夜晚广阔的哥特式大教堂中。采用低角度英雄视角，使他显得高大威严，居中站立并微微前倾，表情自信而冷峻。他拥有 {argument name="hair color" default="凌乱的银白色短发"}、小麦色皮肤、锐利的双眼、尖尖的精灵耳、轮廓分明的下颌线，以及既强壮又优雅的身材。在他身后展开一对巨大的黑色蝙蝠状恶魔之翼，衬托着背景中的彩色玻璃窗。为他穿上一套奢华的黑色哥特高定服装：带有许多搭扣的光面黑色皮革束腰胸衣、深 V 领口、尖刺高领、带蕾丝袖口的泡泡袖、层叠的黑色荷叶边裙摆和带有深酒红色蕾丝内衬的斗篷裙摆，以及大腿高的漆皮厚底细高跟靴，并配有系带、腰带、绑带、铆钉和金属扣。服装上装饰着无数悬垂的银链和 13 颗清晰可见的紫色宝石饰品：躯干和裙摆上方有 4 个心形吊坠，左侧链条上悬挂 3 个心形吊坠，右侧链条上有 3 个圆形宝石吊坠，下部链条附近有 3 个刻面水晶水滴。场景设定在华丽的大教堂内部，拥有高耸的尖拱、吊灯、发光的紫色彩色玻璃窗、紫色的烛光、反光的大理石地面、散落的玫瑰花瓣以及闪烁的魔法粒子。使用黑色、银色、紫色、洋红色和深酒红色的调色板。光影应具有电影质感且对比强烈，带有紫色轮廓光，呈现出光泽反射、复杂的织物纹理、高细节的蕾丝、金属链条、珠宝和抛光的靴子。构图采用竖版 {argument name="aspect ratio" default="2:3"}，超高细节，优雅、性感而尊贵，兼具威慑力与美感，画面中无文字且无水印。
+
+[English]
+Create a dramatic full-body dark fantasy anime illustration of {argument name="character name" default="Valt"}, an androgynous male demon lord standing in a vast gothic cathedral at night. Use a low-angle heroic perspective so he towers over the viewer, centered and slightly leaning forward with a confident, cool expression. He has {argument name="hair color" default="short tousled silver-white hair"}, tan skin, sharp eyes, pointed elf-like ears, a strong jaw, and a muscular yet elegant build. Add two enormous black batlike demon wings spread behind him, framing the stained-glass windows. Dress him in an extravagant black gothic couture outfit: glossy black leather corset bodice with many buckles, plunging neckline, spiked high collar, puffed sleeves with lace cuffs, layered ruffled black skirt and cape train with deep burgundy lace lining, thigh-high patent leather platform stiletto boots, lace-up panels, belts, straps, studs, and metal buckles. Cover the outfit with numerous dangling silver chains and exactly 13 visible purple gemstone ornaments: four heart-shaped pendants across the torso and upper skirt, three heart-shaped pendants hanging from the left side chains, three round jewel pendants on the right side chains, and three faceted crystal drops near the lower chains. The setting is an ornate cathedral interior with towering pointed arches, chandeliers, glowing purple stained-glass windows, violet candlelight, reflective black marble floor, scattered rose petals, and sparkling magical particles. Use a palette of black, silver, violet, magenta, and deep burgundy. Lighting should be cinematic and high contrast, with purple rim light, glossy reflections, intricate fabric texture, highly detailed lace, metal chains, jewels, and polished boots. Make the composition vertical {argument name="aspect ratio" default="2:3"}, ultra-detailed, elegant, sensual but regal, intimidating and beautiful, with no text and no watermark.
+```
+
+**来源：** [@ハスノ＠核心ぶち抜きヒーラー／天空図書館夫婦](https://x.com/00_hasu_00/status/2071844347545567649) | 2026-06-30
+
+---
+
+### 🏷️ 例 2871：可爱 Q 版早安问候贴纸
+
+![可爱 Q 版早安问候贴纸](../../images/%E5%8F%AF%E7%88%B1%20Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张黑色背景下的可爱 Q 版动漫贴纸插画，采用模切乙烯基贴纸造型，带有加粗的白色边框和青色轮廓。画面中心是一位活泼的小女孩吉祥物，拥有 {argument name="hair color" default="青绿色双马尾"}，佩戴带有青色点缀的超大号黑色耳机，右侧头饰为向日葵发夹。她正在眨眼，张嘴微笑，面带红晕，左手举起做出友好的挥手姿势（五指可见），右手兴奋地握拳。她身穿一件超大号白色连帽衫，配有青色袖口和下摆，胸前饰有红色与绿色的小徽章，双马尾根部系着粉色蝴蝶结，连帽衫下隐约可见短裙/短裤，脚穿白色短袜和青色鞋子。在左下方前景处放置一个带防震架和支架的黑色录音室麦克风，向上倾斜指向她，仿佛她正在直播或向观众问候。在她上方绘制一个带有扇形边缘的大型圆形对话气泡标志，白色填充，青色轮廓，内部为橙色气泡字体的日文文本 {argument name="greeting text" default="おはよー"}，文字周围带有深棕色阴影/轮廓。在贴纸内部及周围添加 12 个装饰元素：左上方 1 个橙色太阳/爪形图标，右上方 3 条橙色强调射线，2 朵粉色花朵，2 朵蓝色花朵，2 个黄色星星形状，1 个小闪光符号，以及 1 个青色对话尾部装饰。使用明亮的卡哇伊配色，柔和的赛璐珞阴影，光泽高光，圆润的造型，清晰的线条，贴纸风格构图，充满活力的早安氛围，高分辨率，无水印，除问候语外无其他文字。
+
+[English]
+Create a cute chibi anime sticker illustration on a black background, with a thick white die-cut sticker border and a teal outline. Center a tiny cheerful virtual idol girl, {argument name="character name" default="Hatsune Miku-inspired chibi mascot"}, with bright {argument name="hair color" default="turquoise twin-tail hair"}, one large teal-green eye open and the other eye winking, rosy cheeks, and an open smiling mouth. She wears oversized black headphones with teal accents and a yellow sunflower decoration on one side, a white hoodie with teal cuffs and hem, small peach bows tying the twin tails, short socks, and teal shoes; the hoodie has a simple red-and-green emblem on the chest. Pose her floating or bouncing forward, left hand raised in a friendly wave with five fingers visible, right hand clenched happily near her side. Place a large rounded speech-bubble sign above and behind her, filled white with teal trim, containing big playful Japanese text {argument name="greeting text" default="おはよー"} in thick rounded orange letters with cream highlights, dark brown shadow outline, and a white sticker-like stroke. Add a stylized orange sun paw-print icon in the upper left of the bubble, three yellow exclamation rays in the upper right, small pastel confetti dots, one yellow sparkle, and exactly 4 simple flowers around the sticker: two pink flowers with white centers and two teal flowers with white centers. Add exactly 3 yellow star-like accent shapes around the lower half. Include a black studio microphone on a boom/shock mount at the lower left, angled diagonally upward toward the character. Overall style: glossy kawaii anime art, clean bold outlines, soft cel shading, vibrant pastel palette, rounded sticker aesthetic, high detail but uncluttered, vertical composition.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2071756768976458172) | 2026-06-30
+
+---
+
+### 🏷️ 例 2872：史前沼泽景观
+
+![史前沼泽景观](../../images/%E5%8F%B2%E5%89%8D%E6%B2%BC%E6%B3%BD%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的电影级古生物艺术景观，展现早期陆生植物时代潮湿且带有异星感的史前沼泽，画面中不包含任何动物或人类。视角位于低地，俯瞰一片浅水淹没的湿地，布满了长满苔藓的绿色土丘、湿滑的泥地、水洼以及蜿蜒的小溪，倒映着阴冷的灰色天空。前景和中景点缀着原始植被：高而细的芦苇状茎秆，顶部带有深色的棒状尖端，稀疏的灌木丛，卷曲的蕨类叶片，尖刺状的低矮植物，以及湿润的珠状生长物；在右下角前景处，设置一簇显眼的半透明淡绿色椭圆形果冻状囊体或种子荚，内部隐约透出棕色脉络般的纹理。远处展示平顶的岩石平顶山和低矮的山丘，山体覆盖着零星积雪，在漂浮的雾气和沼泽上升腾的缕缕蒸汽中显得柔和。整体氛围应呈现出荒凉、寒冷、古老且多风暴的感觉，伴有厚重的层云、蓝灰色调的灯光、潮湿的表面，追求高写实度、丰富的纹理、科学纪录片级别的细节、广角构图以及深景深。画面中不包含文字、建筑物或任何现代物体。
+
+[English]
+Create a highly detailed cinematic paleoart landscape showing a wet, alien-looking prehistoric swamp from the early land-plant era, with no animals or humans. The view is from low ground level across a shallow flooded marsh full of mossy green hummocks, slick mud, puddles, and winding rivulets reflecting a cold gray sky. Populate the foreground and midground with primitive vegetation: tall thin reed-like stalks with dark club-shaped tips, sparse brushy thickets, curled fern-like fronds, spiky low plants, bead-like wet growths, and exactly one prominent cluster of translucent pale green oval jelly-like sacs or seed pods in the lower right foreground, glowing subtly with brown vein-like interiors. In the distance, show flat-topped rocky mesas and low hills dusted with patches of snow, softened by drifting mist and steam rising in multiple wisps across the marsh. The atmosphere should be bleak, cold, ancient, and stormy, with heavy layered clouds, blue-gray lighting, damp surfaces, high realism, rich texture, scientific-documentary detail, wide-angle composition, deep depth of field, no text, no buildings, no modern objects.
+```
+
+**来源：** [@Lari Island](https://x.com/Lari_island/status/2071749601909182632) | 2026-06-30
+
+---
+

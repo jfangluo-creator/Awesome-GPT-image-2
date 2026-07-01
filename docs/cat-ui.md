@@ -5351,3 +5351,57 @@ Create a high-end studio product photograph of a {argument name="product type" d
 
 ---
 
+### 🖥️ 例 2841：粉色赛博朋克幸存者动漫少女
+
+![粉色赛博朋克幸存者动漫少女](../../images/%E7%B2%89%E8%89%B2%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%B9%B8%E5%AD%98%E8%80%85%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁的全身动漫角色设计，背景为纯白色：一位充满自信的年轻女性，拥有辣妹风格的赛博朋克幸存者造型，正面站立，姿态放松，略带重心偏移，面带柔和微笑。她拥有 {argument name="hair color" default="发梢渐变为粉色的金发"}，长发披肩，粉色双眸，古铜色亮面肌肤，带有强烈的赛尔渲染高光，并佩戴一个亮粉色蝴蝶结发带。她身着一件闪亮的黑色无肩带乳胶抹胸，胸前有一个小型椭圆形镂空，一侧印有微小的白色科技标志；外搭一件透明粉色乙烯基短款夹克，短袖设计，双袖饰有小型绿色数字补丁；下身搭配亮面黑色超短裤，以及一条配有银色扣环和铆钉的鲜艳粉色腰带。包含 10 个清晰可见的服装/配饰元素：1 个粉色蝴蝶结发带，1 个带圆环吊坠的黑色颈圈，1 件透明粉色乙烯基短款夹克，1 件黑色乳胶抹胸，1 条粉色腰带，1 条亮面黑色短裤，1 双带腕扣的黑色长款歌剧手套，左腿穿 1 只长及大腿的亮面粉色赛博长袜（带有细微的白色几何标记和黑色大腿束带），右腿穿 1 只较短的粉色及膝袜（带有两条白色条纹），以及 1 双厚底黑色系带靴。采用清晰的日式动漫线条，精致的数字上色，乙烯基和乳胶材质呈现高光反射，身材苗条且富有曲线美，留白干净，无背景道具，除微小的不可读服装标志外无任何文字，整体采用时尚的粉黑赛博朋克配色。
+
+[English]
+Create a clean full-body anime character design on a plain white background: a confident young woman with a gyaru-inspired cyberpunk survivor look, standing front-facing with a relaxed slight contrapposto pose and a soft smile. She has {argument name="hair color" default="blonde hair fading into pink tips"}, long loose hair, pink eyes, tan glossy skin with strong cel-shaded highlights, and a bright pink bow headband. Dress her in a shiny black strapless latex bandeau crop top with a small oval chest cutout and a tiny white tech logo on one side, an open transparent pink vinyl cropped jacket with short sleeves and small green digital patch details on both sleeves, glossy black micro shorts, and a vivid pink belt with silver buckle and studs. Include exactly 10 visible outfit/accessory elements: 1 pink bow headband, 1 black choker with a ring charm, 1 transparent pink vinyl cropped jacket, 1 black latex bandeau top, 1 pink belt, 1 pair of glossy black shorts, 1 pair of long black opera gloves with wrist buckles, 1 single thigh-high glossy pink cyber stocking on her left leg with subtle white geometric markings and black thigh band, 1 shorter pink knee sock on her right leg with two white stripes, and 1 pair of chunky black lace-up platform boots. Use crisp Japanese anime line art, polished digital coloring, high-gloss reflections on vinyl and latex, slim athletic proportions with curvy hips, clean white negative space, no background props, no text except the tiny unreadable clothing logo, and a fashionable pink-and-black cyberpunk color palette.
+```
+
+**来源：** [@Kei🍤衣装本舗](https://x.com/AI_Kei75/status/2071891935669923949) | 2026-06-30
+
+---
+
+### 🖥️ 例 2848：银发战斗女仆
+
+![银发战斗女仆](../../images/%E9%93%B6%E5%8F%91%E6%88%98%E6%96%97%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的竖版动漫风格黑暗奇幻动作插画，画面主体为一位 {argument name="character type" default="银发战斗女仆"} 正穿过废墟哥特城市向观众冲锋。采用极端的低角度动态透视：她巨大的机械长枪/炮从左下角占据前景并向外延伸，展现出复杂的金属枪管、装甲板、通风口、发光的热缝、烟雾和火花。角色拥有随风飘动的 {argument name="hair color" default="银灰色"} 长发、白皙的皮肤、锐利的金色双眼、专注严肃的表情以及褶边女仆头饰。她身穿黑白维多利亚式女仆装与战斗装甲的融合体：泡泡袖、白色围裙、层叠的破损裙摆、束腰式上衣、装甲护手、大腿护甲、护膝和重型靴子。她的另一只手在画面右侧持有一面大型圆形金属盾牌。背景是满目疮痍的类大教堂城市战场，布满高耸的断壁残垣、参差不齐的尖塔、破碎的墙壁、飘散的灰烬、爆炸、蒸汽云、潮湿反光的鹅卵石路，以及在以单调灰色为主的色调中穿插的橙色余烬。强调动感、碎片、烟雾轨迹、飞溅的尘土和电影般的视觉冲击力。风格应类似于细节丰富的日本概念艺术，具有绘画笔触、复杂的机械设计、粗犷的纹理、柔和的炭灰色、明亮的白烟、细小的橙色火花高光，且无文字或水印。使用 {argument name="aspect ratio" default="竖版 2:3"} 的构图，高细节，戏剧性光影，大气深度，以及强烈的战场氛围。
+
+[English]
+Create a dramatic vertical anime-style dark fantasy action illustration of a {argument name="character type" default="silver-haired battle maid"} charging directly toward the viewer through a ruined gothic city. Use an extreme low-angle, dynamic foreshortened perspective: her enormous mechanical lance/cannon dominates the foreground from the lower left, pointing outward, with complex metal barrels, armor plating, vents, glowing heat seams, smoke, and sparks. The character has long wind-swept {argument name="hair color" default="silver-gray"} hair, pale skin, sharp golden eyes, a focused serious expression, and a frilled maid headdress. She wears a black-and-white Victorian maid dress fused with battle armor: puff sleeves, white apron, layered torn skirt, corset-like bodice, armored gauntlets, thigh armor, knee guards, and heavy boots. In her other hand she carries one large round metal shield on the right side of the composition. The background is a devastated cathedral-like urban battlefield with towering broken arches, jagged spires, shattered walls, drifting ash, explosions, steam clouds, wet reflective cobblestones, and orange embers cutting through a mostly monochrome gray palette. Emphasize motion, debris, smoke trails, splashing dust, and cinematic impact. Style should feel like highly detailed Japanese concept art with painterly brushwork, intricate mechanical design, gritty textures, muted charcoal grays, bright white smoke, small orange spark highlights, and no text or watermark. Use a {argument name="aspect ratio" default="vertical 2:3"} composition, high detail, dramatic lighting, atmospheric depth, and intense battlefield energy.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2071868843270742498) | 2026-06-30
+
+---
+
+### 🖥️ 例 2868：废墟大教堂中的兔耳女剑士
+
+![废墟大教堂中的兔耳女剑士](../../images/%E5%BA%9F%E5%A2%9F%E5%A4%A7%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E5%85%94%E8%80%B3%E5%A5%B3%E5%89%91%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的竖版动漫暗黑奇幻动作插画，描绘 {argument name="character name" default="一位历经战斗的兔耳女剑士"} 在废墟哥特式大教堂内向观众猛冲的画面。她拥有非常长且飘逸的 {argument name="hair color" default="银白色头发"}、高耸的兔耳、黑白相间且破损的荷叶边女仆风战斗服、缠着绷带并带有护甲的前臂，腰间配有机械护手和链条齿轮细节。她的表情冷峻且专注，部分被凌乱的刘海遮住。构图采用极具动态感的低角度近景：一只手臂向前伸出，握着一把巨大的弧形武士刀，从左下角向右下角对角线扫过，刀身占据了画面下半部分的大部分空间。剑刃闪烁着明亮的青蓝色能量，覆盖着发光的奥术裂纹图案和朦胧的光芒，周围漂浮着细小的蓝色火花。在她身后，展示高耸的大教堂拱门、破碎的石柱、高大的彩色玻璃窗、烟雾、灰尘以及穿透深灰色室内空间的苍白光束。使用炭黑、纯黑、纯白和柔和的紫色调，并与鲜艳的青色光芒形成对比。风格应为细节丰富的日本动漫概念艺术，具有绘画感但线条锐利，线条错综复杂，电影级光影，刀刃带有动态模糊，飘动的发带和布料，强烈的透视缩短，粗犷的战斗损伤，无文字，无水印。
+
+[English]
+Create a dramatic vertical anime dark-fantasy action illustration of {argument name="character name" default="a battle-worn rabbit-eared swordswoman"} lunging toward the viewer inside a ruined gothic cathedral. She has very long flowing {argument name="hair color" default="silver-white hair"}, tall rabbit ears, a frilled maid-like battle dress in torn black and white fabric, bandaged and armored forearms, a mechanical gauntlet and chained gear details at her waist. Her expression is cold and focused, partly shadowed by messy bangs. The composition is extremely dynamic from a low, close perspective: one arm thrusts forward holding a huge curved katana sweeping diagonally across the foreground from lower left to lower right, with the blade occupying much of the bottom half of the image. The sword edge glows with bright cyan-blue energy, covered in luminous arcane crackle patterns and misty light, with tiny blue sparks floating around it. Behind her, show high cathedral arches, broken stone columns, tall stained-glass-like windows, smoke, dust, and shafts of pale light cutting through a dark grey interior. Use a monochrome charcoal, black, white, and muted violet palette contrasted by vivid cyan glow. Style should be highly detailed Japanese anime concept art, painterly but sharp, intricate linework, cinematic lighting, motion blur on the blade, wind-blown hair ribbons and fabric, intense foreshortening, gritty battle damage, no text, no watermark.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2071793345207378242) | 2026-06-30
+
+---
+

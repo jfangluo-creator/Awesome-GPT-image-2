@@ -12804,3 +12804,254 @@ Create a premium black-and-white editorial poster featuring {argument name="subj
 
 ---
 
+### 🎴 例 2834：樱花神谕塔罗牌
+
+![樱花神谕塔罗牌](../../images/%E6%A8%B1%E8%8A%B1%E7%A5%9E%E8%B0%95%E5%A1%94%E7%BD%97%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="花結の神子"} 创建一张现代、高稀有度的数字神谕塔罗风格角色卡，而非陈旧的纸质塔罗牌。卡牌应呈现出华丽的收藏级游戏卡质感，融合发光的玻璃、金丝镶边、粉色宝石、樱花以及神圣的神社幻想氛围。
+
+画布：竖向肖像卡，比例为 2:3，全出血插画，圆角设计。使用以樱花粉、玫瑰金、柔白色、淡青色和半透明水晶高光为主的精致柔和色调。添加光泽全息效果、棱镜折射、细小闪光以及高细节的动漫插画渲染。
+
+主体：中心为一位年轻的巫女风动漫少女，拥有 {argument name="hair color" default="柔和玫瑰棕色"} 的长发和粉色大眼睛。她身穿优雅的红白粉色和服，配有红色绳结、花朵金饰、半透明层叠袖口以及多件樱花发饰。她手持装饰着金环、粉色宝石、流苏和樱花图案的仪式法杖。她的表情温柔、宁静且略显庄重，正视前方。
+
+伙伴与象征元素：左下方包含 1 只白色狐狸伙伴，正抬头仰望少女，佩戴着粉色樱花花环和红金绳结。包含 2 只飞行中的小型蓝粉色鸟儿，一只位于左侧法杖附近，另一只位于右侧边框附近。背景填充彩色玻璃拱门、金色格子装饰、悬挂的宝石挂饰、樱花花瓣以及角色身后放射状的圆形光环。
+
+卡牌边框与布局：使用华丽的玫瑰金幻想卡牌边框，配以层叠金丝、多面宝石、弧形边角装饰和半透明宝石面板。左上角：一个大型多面钻石形铭牌，包含日文标签和罗马数字，可见文字设置为 {argument name="card number text" default="カード番号: VIII"}。顶部中心：一个小巧的粉色花朵纹章。右上角：一个带有圆形青色点缀和粉色水晶切面的大型悬挂宝石装饰。底部区域：五个独立的文本面板，均集成在带有玻璃质感粉白色面板和金色镶边的卡牌边框中。
+
+文本内容：可见的日文文本需严格按照以下内容书写。底部中心主名称铭牌：标签 "カード名:" 以及大标题 {argument name="card title" default="『花結の神子』"}。左侧含义框："正位置の意味:" 后接 "『祝福・結縁・芽吹き・調和』"。右侧含义框："逆位置の意味:" 后接 "『停滞・絡まり・気迷い・空回り』"。底部预言框：标题 "占い結果の文章:" 后接 {argument name="prophecy text" default="『いま、あなたの想いは見えない縁に守られながら\n静かに形を結びます。急がず丁寧に紡いだものほど、\nやがて美しい実りとなって返ってくるでしょう。\n心をやわらかく保ち、巡る祝福を受け取ってください。』"}。
+
+约束条件：保持构图对称且奢华，角色占据中心位置，文字清晰易读。不要使用复古旧纸质感；使其呈现为精致的数字高级卡牌。避免出现额外的角色、动物、文本面板、水印、Logo 或卡牌之外的 UI 元素。
+
+[English]
+Goal: Create a modern high-rarity digital divinity tarot-style character card for {argument name="character name" default="花結の神子"}, not an old paper tarot card. The card should feel like an ornate collectible game card with luminous glass, gold filigree, pink gemstones, cherry blossoms, and a sacred shrine-fantasy atmosphere.
+
+Canvas: Vertical portrait card, 2:3 ratio, full-bleed illustration with rounded corners. Use a delicate pastel palette dominated by sakura pink, rose gold, soft white, pale teal, and translucent crystal highlights. Add glossy holographic shine, prismatic refractions, tiny sparkles, and high-detail anime illustration rendering.
+
+Main subject: Center a young shrine-maiden-like anime girl with {argument name="hair color" default="soft rose-brown"} long flowing hair and large pink eyes. She wears an elegant white and pink kimono with red cords, floral gold ornaments, translucent layered sleeves, and many sakura hairpieces. She holds a ceremonial wand or staff decorated with gold rings, pink gems, tassels, and cherry blossom motifs. Her expression is gentle, quiet, and slightly solemn, looking forward.
+
+Companion and symbolic elements: Include exactly 1 white fox companion at the lower left, looking up at the girl, wearing a pink sakura garland and red-gold cords. Include exactly 2 small blue-and-pink birds in flight, one on the left side near the wand and one on the right side near the border. Fill the background with stained-glass arches, golden latticework, suspended jewel charms, sakura petals, and a radiant circular halo behind the character.
+
+Card frame and layout: Use an ornate rose-gold fantasy card border with layered filigree, faceted gems, curved corner decorations, and translucent jewel panels. Top-left: a large faceted diamond-shaped plaque containing the Japanese label and roman numeral, with the visible text set as {argument name="card number text" default="カード番号: VIII"}. Top-center: a small pink floral crest. Top-right: a large hanging gemstone ornament with circular teal accents and pink crystal facets. Bottom area: five distinct text panels, all integrated into the card frame with glassy pink-white panels and gold trim.
+
+Text content: Use Japanese text exactly as follows where visible. Main name plaque at lower center: label "カード名:" and large title {argument name="card title" default="『花結の神子』"}. Left meaning box: "正位置の意味:" followed by "『祝福・結縁・芽吹き・調和』". Right meaning box: "逆位置の意味:" followed by "『停滞・絡まり・気迷い・空回り』". Bottom prophecy box: heading "占い結果の文章:" followed by {argument name="prophecy text" default="『いま、あなたの想いは見えない縁に守られながら\n静かに形を結びます。急がず丁寧に紡いだものほど、\nやがて美しい実りとなって返ってくるでしょう。\n心をやわらかく保ち、巡る祝福を受け取ってください。』"}.
+
+Constraints: Keep the composition symmetrical and luxurious, with the character occupying the center and the text clearly readable. Do not use a vintage aged-paper look; make it a polished digital premium card. Avoid extra characters, extra animals, extra text panels, watermarks, logos, or UI elements outside the card.
+```
+
+**来源：** [@あまり🖋️AI &フリー素材配布](https://x.com/amari_AI_art/status/2071917426825195582) | 2026-06-30
+
+---
+
+### 🎴 例 2840：极简主义体育社论风格足球海报
+
+![极简主义体育社论风格足球海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%BD%93%E8%82%B2%E7%A4%BE%E8%AE%BA%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级的 {argument name="event" default="FIFA World Cup"} 球员海报，呈现大胆的极简主义体育社论美学。
+
+主体：
+一位全身专业 {argument name="subject" default="足球运动员"} 自信地站在画面中央，双臂完全伸展，神情坚定地微微仰望。球员身穿 {argument name="apparel" default="国家队官方球衣"}、短裤、球袜、队长袖标（如适用）及足球鞋。高度逼真的解剖结构，清晰的面部细节，自然的站姿。
+
+背景：
+采用国家队主色调的纯色背景。球员身后是一个占据构图大部分空间的巨大粗体白色球衣号码，形成醒目的平面设计元素。柔和的摄影棚灯光，地面带有微妙的阴影。
+
+布局：
+• 4:5 竖版海报
+• 大号球员号码居中置于主体身后
+• 球员完美对齐在号码前方
+• 极简现代体育品牌风格
+• 高级杂志封面构图
+• 干净的留白
+
+左上角：
+采用未来感几何大写字体的球员姓名。
+
+右上角：
+官方风格的国家队队徽。
+
+左下角：
+大号球衣号码后接一个句号
+示例：
+7.
+10.
+9.
+
+右下角：
+极简社论文字：
+FIFA WORLD CUP 2026™
+[COUNTRY] NATIONAL TEAM
+FORWARD / CAPTAIN
+（或 Midfielder / Defender / Goalkeeper）
+
+下方添加一个小条形码。
+
+风格：
+奢华体育海报，Nike 广告美学，Adidas 社论设计，FIFA 媒体日摄影，超干净构图，鲜艳的国家代表色，清晰的排版，柔和阴影，逼真的布料质感，高级印刷品质，超高细节，8K，超清晰，摄影棚灯光，居中构图。
+
+配色方案：
+在背景、排版装饰和球衣中统一使用该国家的官方配色。
+
+[English]
+Create a premium {argument name="event" default="FIFA World Cup"} player poster with a bold minimalist sports editorial aesthetic.
+
+Subject:
+A full-body professional {argument name="subject" default="football player"} standing confidently in the center with arms fully extended, looking slightly upward with a determined expression. The player wears the {argument name="apparel" default="official national team jersey"}, shorts, socks, captain's armband (if applicable), and football boots. Highly realistic anatomy, sharp facial details, natural stance.
+
+Background:
+A clean solid background using the country's primary color. Behind the player is a gigantic bold white jersey number occupying most of the composition, creating a striking graphic design element. Soft studio lighting with subtle floor shadow.
+
+Layout:
+• Vertical 4:5 poster
+• Large player number centered behind subject
+• Player perfectly aligned in front of the number
+• Minimal modern sports branding
+• Premium magazine cover composition
+• Clean negative space
+
+Top Left:
+Player name in futuristic geometric uppercase typography.
+
+Top Right:
+Official-style national team crest.
+
+Bottom Left:
+Large jersey number followed by a period
+Example:
+7.
+10.
+9.
+
+Bottom Right:
+Minimal editorial text:
+FIFA WORLD CUP 2026™
+[COUNTRY] NATIONAL TEAM
+FORWARD / CAPTAIN
+(or Midfielder / Defender / Goalkeeper)
+
+Add a small barcode underneath.
+
+Style:
+Luxury sports poster, Nike campaign aesthetic, Adidas editorial design, FIFA media day photography, ultra-clean composition, vibrant national colors, crisp typography, soft shadows, realistic fabric textures, premium print-ready quality, hyper-detailed, 8K, ultra sharp, studio lighting, centered composition.
+
+Color Theme:
+Use the country's official colors consistently across the background, typography accents, and kit.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2071892829367062928) | 2026-06-30
+
+---
+
+### 🎴 例 2843：复古波普艺术蓝莓奶昔海报
+
+![复古波普艺术蓝莓奶昔海报](../../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%E8%93%9D%E8%8E%93%E5%A5%B6%E6%98%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张大胆的复古波普艺术海报，主题为 {argument name="dessert shake" default="蓝莓甜点奶昔"}。
+使用一杯装在透明玻璃杯中的浓郁蓝莓奶昔，杯壁带有滴落的糖浆，顶部有漩涡状鲜奶油、蓝莓、薄荷叶和彩色吸管。
+
+主题：{argument name="theme" default="90 年代复古餐厅海报"}
+颜色：亮洋红色、电光蓝、奶油色、紫色、荧光粉
+背景：半色调圆点、复古纸张纹理、大胆的几何形状、玻璃杯后方的贴纸风格剪裁
+排版：巨大的堆叠文字，写着 "{argument name="main title" default="BLUEBERRY BLAST"}"，下方配有较小的文字 "COLD. SWEET. CREAMY."
+文字应以有趣的餐厅风格设计环绕在奶昔周围。
+整体风格需大胆、俏皮、高对比度，在保持写实感的同时呈现复古印刷海报的纹理。
+添加光泽糖浆、逼真的鲜奶油、新鲜浆果细节以及强烈的商业照明效果。
+
+[English]
+Create a bold retro pop-art poster for a {argument name="dessert shake" default="Blueberry Dessert Shake"}.\nUse a thick blueberry shake in a transparent glass with dripping syrup, whipped cream swirl, blueberries, mint leaf, and a colorful straw.\n\nTheme: {argument name="theme" default="90s retro diner poster"}\nColors: bright magenta, electric blue, cream, purple, hot pink\nBackground: halftone dots, vintage paper texture, bold geometric shapes, sticker-style cutout behind the glass\nTypography: huge stacked text saying "{argument name="main title" default="BLUEBERRY BLAST"}", with smaller text "COLD. SWEET. CREAMY."\nThe text should wrap around the shake with a fun diner-style design.\nMake it bold, playful, high contrast, realistic but with retro printed poster texture.\nAdd glossy syrup, realistic whipped cream, fresh berry details, and strong commercial lighting.
+```
+
+**来源：** [@Zyro](https://x.com/Itswsm105f/status/2071881665434337530) | 2026-06-30
+
+---
+
+### 🎴 例 2847：复古迷幻风格沙漠海报
+
+![复古迷幻风格沙漠海报](../../images/%E5%A4%8D%E5%8F%A4%E8%BF%B7%E5%B9%BB%E9%A3%8E%E6%A0%BC%E6%B2%99%E6%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="PromptBase"} 创建一张宽幅的 1970 年代复古迷幻沙漠广告海报拼贴画，结合复古演唱会海报排版、超现实的美国西南部景观以及醒目的高级提示词营销文案。
+
+画布：横向 16:9 海报，温暖的陈旧印刷质感，粗圆黑边，橙色纸张纹理，做旧油墨，对称装饰性边框。使用由焦橙色、芥末黄、青绿色、褪色红、黑色油墨和奶油色组成的饱和色调。
+
+布局：将海报精确划分为 5 个主要视觉区域：1 个大型中央华丽品牌徽章、1 个左上角沙漠日落面板、1 个左下角沙漠房车面板、1 个右上角演唱会海报面板以及 1 个右下角宇宙公路面板。所有面板应具有圆角、厚重的黑色轮廓、手绘装饰性分隔线、花卉装饰、星星、圆点、卷轴装饰和丝网印刷的不完美感。
+
+中心主体：在中间创建一个带有奶油色和橙色轮廓的大型黑色装饰标签。在徽章顶部放置一条奶油色丝带，上面用红色西部衬线字体写着“ONLY ON”。在下方，将主品牌文本设置为 {argument name="brand name" default="PromptBase"}，使用巨大的奶油色复古板衬线字体，并带有橙色阴影。在下方添加两行堆叠的标语：{argument name="tagline line one" default="PREMIUM AI PROMPTS"}（青绿色块状字体）和 {argument name="tagline line two" default="FOR STUNNING IMAGES"}（奶油色字体）。添加小星星、微型太阳图标、弯曲的花饰，并在底部中心添加一个圆形日落奖章，内含黑色仙人掌剪影。
+
+面板细节：左上角面板展示了沙漠峡谷上方巨大的条纹橙色太阳、红色悬崖、平顶山、最左侧骑马的微型牛仔、青橙色烟雾缭绕的迷幻天空，以及一个写着“BEYOND THE SUN”的小型复古标志，下方有较小的文字“THERE IS + STILL TOMORROW”。左下角面板展示了一个超现实的沙漠露营地，天空中精确排列着 3 个垂直对齐的太阳，有 4 块漂浮的岩石、一辆银橙色复古拖车、高大的巨人柱仙人掌、仙人掌果植物、平顶山，以及一个弯曲的标题横幅，写着 {argument name="left panel title" default="TWIN SUNS"}；在其下方添加“DESERT DREAMS”以及微小的文字“MYSTERIES BEYOND • WONDERS WITHIN”。右上角面板是一张迷幻演出海报，标题为 {argument name="right panel title" default="DESERT DAWN"}（巨大的拱形绿色字母），带有小副标题“LIVE UNDER THE ENDLESS SUN”；包括一个巨大的仙人掌手岩层，前方是条纹太阳、蜿蜒的河流或道路、巨人柱剪影、两个圆形信息徽章（分别写着“SAT. JUNE 21 1974”和“RED ROCKS AMPHITHEATRE MORRISON COLORADO”），以及底部的横条，列出 4 个乐队名称：“THE SKYRIDERS”、“FAT TUESDAY”、“SLOW BURN”和“SONS OF ZUMA”。右下角面板展示了一条带有黄色中心线的笔直黑色公路，通向地平线上巨大的青色行星或月球，周围环绕着同心旋转的黄橙色云环、起伏的红橙色沙漠丘陵、远处的平顶山以及一辆正在驶离的微型汽车。
+
+视觉风格：手绘复古丝网印刷，迷幻西部海报艺术，轻微不均匀的套色，半色调颗粒，做旧边缘，粗犷的黑色轮廓线，华丽的 70 年代字体，高对比度，最大化但平衡的构图。
+
+约束：保持海报文字清晰且按所述排列，包含精确的 5 个主要视觉区域，左下角面板中包含精确的 3 个太阳和 4 块漂浮岩石，右上角条带中包含精确的 4 个乐队名称，禁止照片级真实感，禁止现代 UI，禁止水印。
+
+[English]
+Goal: Create a wide vintage 1970s psychedelic desert advertising poster collage for {argument name="brand name" default="PromptBase"}, combining retro concert-poster typography, surreal American Southwest landscapes, and bold premium-prompt marketing copy.
+
+Canvas: Horizontal 16:9 poster, warm aged print texture, thick rounded black border, orange paper grain, distressed ink, symmetrical decorative framing. Use a saturated palette of burnt orange, mustard yellow, teal green, faded red, black ink, and cream.
+
+Layout: Divide the poster into exactly 5 main visual areas: 1 large central ornate brand badge, 1 upper-left desert sunset panel, 1 lower-left desert caravan panel, 1 upper-right concert-poster panel, and 1 lower-right cosmic highway panel. All panels should have rounded corners, heavy black outlines, hand-drawn ornamental dividers, floral accents, stars, dots, scrollwork, and screen-printed imperfections.
+
+Central subject: In the middle, create a large black ornamental label with cream and orange outlines. At the top of the badge place a cream ribbon reading "ONLY ON" in red western serif letters. Below it, set the main brand text as {argument name="brand name" default="PromptBase"} in huge cream vintage slab-serif lettering with orange shadowing. Under that, add two stacked taglines: {argument name="tagline line one" default="PREMIUM AI PROMPTS"} in teal block letters and {argument name="tagline line two" default="FOR STUNNING IMAGES"} in cream letters. Add small stars, a tiny sun icon, curved flourishes, and a circular sunset medallion at the bottom center containing a black cactus silhouette.
+
+Panel details: Upper-left panel shows a huge striped orange sun over a desert canyon, red cliffs, mesas, a tiny cowboy on horseback at the far left, teal-and-orange smoky psychedelic sky, and a small retro sign reading "BEYOND THE SUN" with smaller text "THERE IS + STILL TOMORROW". Lower-left panel shows a surreal desert campsite with exactly 3 vertically aligned suns in the sky, exactly 4 floating rocks, a silver-and-orange vintage trailer, tall saguaro cactus, prickly pear plants, mesas, and a curved title banner reading {argument name="left panel title" default="TWIN SUNS"}; below it add "DESERT DREAMS" and tiny text "MYSTERIES BEYOND • WONDERS WITHIN". Upper-right panel is a psychedelic gig poster titled {argument name="right panel title" default="DESERT DAWN"} in big arched green letters, with small subtitle "LIVE UNDER THE ENDLESS SUN"; include a giant cactus-hand rock formation in front of a striped sun, winding river or road, saguaro silhouettes, two circular info badges reading "SAT. JUNE 21 1974" and "RED ROCKS AMPHITHEATRE MORRISON COLORADO", and a bottom band strip listing exactly 4 acts: "THE SKYRIDERS", "FAT TUESDAY", "SLOW BURN", and "SONS OF ZUMA". Lower-right panel shows a straight black highway with yellow center lines leading into a huge teal planet or moon on the horizon, surrounded by concentric swirling yellow-orange cloud rings, rolling red-and-orange desert hills, distant mesas, and a tiny car driving away.
+
+Visual style: Hand-illustrated retro screenprint, psychedelic western poster art, slightly uneven registration, halftone grain, distressed edges, bold black contour lines, ornate 70s lettering, high contrast, maximal but balanced composition.
+
+Constraints: Keep the poster text legible and arranged as described, include exactly 5 main visual areas, exactly 3 suns and 4 floating rocks in the lower-left panel, exactly 4 band names in the upper-right strip, no photorealism, no modern UI, no watermark.
+```
+
+**来源：** [@Easy A.I.](https://x.com/92digitalartArt/status/2071872981077299694) | 2026-06-30
+
+---
+
+### 🎴 例 2860：提示词：
+
+使用一张人物照片作为主体身份参考，保留人物的五官比例、脸型轮廓、眼神气质、柔软刘海、唇形
+
+![提示词：
+
+使用一张人物照片作为主体身份参考，保留人物的五官比例、脸型轮廓、眼神气质、柔软刘海、唇形](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E7%9A%84%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E6%9F%94%E8%BD%AF%E5%88%98%E6%B5%B7%E3%80%81%E5%94%87%E5%BD%A2.jpg)
+
+**Prompt:**
+
+```text
+使用一张人物照片作为主体身份参考，保留人物的五官比例、脸型轮廓、眼神气质、柔软刘海、唇形与整体辨识度，不要生成陌生人脸，不要过度美颜，不要塑料感。
+
+整体风格为 美式运动时尚写真 / American sporty editorial / magazine campaign。
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2071823681819680901) | 2026-06-30
+
+---
+
+### 🎴 例 2869：GQ Style 杂志封面美学
+
+![GQ Style 杂志封面美学](../../images/GQ%20Style%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影感 GQ Style 杂志封面 — {argument name="model description" default="留着深色胡须、凌乱卷曲深色头发的男性模特"}，倚靠在 {argument name="car type" default="1960 年代复古银色敞篷车"} 旁，背景是 {argument name="setting" default="雾气弥漫、阴沉的海滩"}。他表情冷峻、深邃，直视镜头。服装：超大款黑色皮质飞行员夹克，带有工装口袋，内搭白色罗纹背心，高腰黑色长裤配双扣腰带，颈间佩戴两条垂至胸前的细金项链。背景：浅景深，低饱和度的沙滩，苍白朦胧的天空，抛光的金属银色车身反射着平淡的漫射光。光影：电影级情绪化调色，柔和的大地色系、黑色与银色，整体呈现高端胶片颗粒感。排版叠加：顶部为粗体白色 "GQ Style" 衬线字体 Logo，左侧中部为较小的白色无衬线字体 "HEISENBERG"。
+
+[English]
+Cinematic GQ Style magazine cover — {argument name="model description" default="male model with a dark beard and messy curly dark hair"}, leaning against a {argument name="car type" default="vintage 1960s silver convertible"} on a {argument name="setting" default="misty, overcast beach"}. He stares directly into the camera with a cool, intense expression. Outfit: oversized black leather bomber jacket with utility pockets worn open over a white ribbed tank top, high-waisted black trousers with double-buckle belt, two thin gold necklaces with small pendants hanging mid-chest. Background: shallow depth of field, desaturated sandy shore, pale hazy sky, polished metallic silver car reflecting flat diffused light. Lighting: moody cinematic grade, muted earth tones, blacks, and silvers, high-end film grain throughout. Typography overlay: bold white "GQ Style" serif logo at the top, smaller white sans-serif "HEISENBERG" on the mid-left.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2071772854908326260) | 2026-06-30
+
+---
+

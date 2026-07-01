@@ -1403,3 +1403,95 @@ A massive {argument name="screen type" default="IMAX / 4DX"} curved screen domin
 
 ---
 
+### 🏛️ 例 2812：温馨的入职邀请庆祝场景
+
+![温馨的入职邀请庆祝场景](../../images/%E6%B8%A9%E9%A6%A8%E7%9A%84%E5%85%A5%E8%81%8C%E9%82%80%E8%AF%B7%E5%BA%86%E7%A5%9D%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个温馨、照片级逼真的生活化场景，地点设在黄金时刻的舒适公寓卧室：一位留着 {argument name="hair color" default="柔和棕色中长波浪卷发"}、戴着圆形细框眼镜的年轻女性趴在低矮的木桌上，闭着眼睛，面带宁静的微笑，脸颊贴着一只毛茸茸的白色长毛猫。她穿着 {argument name="pajama color" default="带有白色小圆点的浅蓝色睡衣"}。房间被大型阳台窗户透入的柔和背光照亮，背景是虚化的城市天际线、米色窗帘、铺着凌乱毯子的床、盆栽、搁板，温暖的阳光营造出平静而充满希望的氛围。桌面上摆满了求职资料：笔记本电脑上贴着 2 张便签，一张黄色便签写着“Don’t GIVE UP!”，一张粉色清单写着“RESUME, COVER LETTER, PORTFOLIO, LINKEDIN”；左侧是一台打开的笔记本电脑；前景中是一本打开的螺旋笔记本，标题为“INTERVIEW NOTES”，包含 4 个带编号的项目：Research, Answer “Tell me about yourself”, Strengths & weaknesses, Questions to ask；散落的打印申请页和一份可见的简历；笔记本上横放着一支笔；前方是一个米色信封，上面写着“EMPLOYMENT OFFER”和“Congratulations!”；一部竖立的智能手机，屏幕显示着入职邀请界面，上面写着“Congratulations!”、五彩纸屑表情符号、“We’re excited to offer you the Job Offer”以及一个“ACCEPT OFFER”按钮；右侧有一叠厚厚的文件；还有一个米色咖啡杯。采用电影级的浅景深、逼真的自然纹理、柔和的镜头光晕、温暖的琥珀色高光、柔和的阴影、高细节的毛发、简洁的构图以及令人振奋的情感基调。将手机标题自定义为 {argument name="phone headline" default="Congratulations!"}，信封标题自定义为 {argument name="envelope title" default="EMPLOYMENT OFFER"}，便签上的励志语自定义为 {argument name="motivational note" default="Don’t GIVE UP!"}。
+
+[English]
+Create a warm, photorealistic lifestyle scene in a cozy apartment bedroom during golden hour: a young woman with {argument name="hair color" default="soft brown shoulder-length wavy hair"} and round wire-frame glasses lies on her stomach at a low wooden table, eyes closed and smiling peacefully while resting her cheek against a fluffy white long-haired cat. She wears {argument name="pajama color" default="light blue pajamas with small white polka dots"}. The room is softly backlit by large balcony windows with an out-of-focus city skyline, beige curtains, a bed with rumpled blankets, a potted plant, shelves, and warm sunbeams creating a calm hopeful mood. The tabletop is covered with job-search materials: exactly 2 sticky notes on the laptop, one yellow note reading “Don’t GIVE UP!” and one pink checklist reading “RESUME, COVER LETTER, PORTFOLIO, LINKEDIN”; an open laptop on the left; an open spiral notebook in the foreground titled “INTERVIEW NOTES” with exactly 4 numbered items: Research, Answer “Tell me about yourself”, Strengths & weaknesses, Questions to ask; loose printed application pages and a visible resume; a pen across the notebook; a beige envelope in front labeled “EMPLOYMENT OFFER” and “Congratulations!”; a smartphone standing upright showing a job offer screen with “Congratulations!”, confetti emoji, “We’re excited to offer you the Job Offer”, and an “ACCEPT OFFER” button; one tall stack of documents on the right; and one beige coffee mug. Use cinematic shallow depth of field, realistic natural textures, soft lens flare, warm amber highlights, gentle shadows, high-detail fur, clean composition, and an uplifting emotional tone. Customize the phone headline as {argument name="phone headline" default="Congratulations!"}, the envelope title as {argument name="envelope title" default="EMPLOYMENT OFFER"}, and the sticky-note motivation as {argument name="motivational note" default="Don’t GIVE UP!"}.
+```
+
+**来源：** [@Snow＊つまずきを『次の一歩』に変える人](https://x.com/snow_cre8/status/2072077723019907283) | 2026-06-30
+
+---
+
+### 🏛️ 例 2824：静谧蓝夜卧室人像
+
+![静谧蓝夜卧室人像](../../images/%E9%9D%99%E8%B0%A7%E8%93%9D%E5%A4%9C%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="眠る前の青い部屋"}
+
+人物・表情：
+成人した{argument name="年齢" default="20代後半"}に見える女性。大人っぽく落ち着いた体型で、幼さのない上品な雰囲気。肌は明るいアイボリーベージュ寄りの白肌で、ほんのりピンクの血色を含んだなめらかな質感。過度に白飛びせず、頬、鼻先、肩、鎖骨に柔らかなハイライトが入り、毛穴感は控えめだがプラスチックのように不自然ではない。頬には淡いローズピンクのチーク、目元はシャンパンベージュとピンクブラウンのグラデーション。細く長いまつ毛、自然な涙袋、明るめブラウンの柔らかいアーチ眉。唇は透け感のあるピンクベージュのグロスで、中央に自然なツヤ。顔全体は上品で清潔感のある精密なドールライク日系メイク。髪は黒に近いダークブラウンのロングヘア、薄い前髪と顔まわりの後れ毛を残す。顔を少し左下へ傾け、視線は手元の少し先へ落とす。表情は静かで穏やか、眠る前の柔らかな余韻。
+
+服装・ポーズ：
+夏の夜に着る{argument name="衣装の色" default="アイボリー系"}の清涼感あるルームウェア。上は短め丈のキャミソール型トップスで、細い肩紐、繊細なレース縁、前ボタンの上部を数個外した深めのVライン。布は柔らかく自然に開くが、露出は上品に抑える。下は同色のフリル付きショートパンツ、ウエストは細いリボン紐。ベッドの上で原図に近い横座り。画面左側の脚は膝を曲げて前に流し、画面右側の脚は膝を大きく曲げて横に折る。上半身は少し前傾し、肩を内側へ寄せる。両腕は身体の前へ自然に下ろし、両手は膝の間のベッド上で軽く重ねる。左右の手はそれぞれ5本指が自然に見え、指先は力を抜いて揃える。肌、服、ベッドの接触部分に自然な沈み込みと接触影を入れる。
+
+背景・光：
+夜のマンション寝室。画面左に大きな窓と薄いカーテン、外は濃い青の夜景で、遠い街灯が小さなボケになる。画面右奥に暖色のベッドサイドランプと小さな観葉植物。ベッドは淡いグレーのシーツと白い枕で、部屋全体は清潔で落ち着いた雰囲気。窓側から冷たい青い夜光が髪と肩の輪郭に入り、右奥のランプから暖かい光が頬、鎖骨、腕、服の布地を柔らかく照らす。影はベッドの手前と画面左下へ淡く落ち、青と橙 facing the viewer.
+
+構図・カメラ：
+縦長4:5。頭から太もも、膝先まで入る近めの室内ポートレート。人物は画面中央やや右寄り、手元と上半身を主役にする。カメラはベッドより少し高い位置から軽い見下ろし、視線はほぼアイレベルに近い。中望遠に近い自然な圧縮感で、顔、鎖骨、手元、ルームウェアの質感にピントを合わせる。背景の窓、カーテン、ランプは柔らかくぼかし、夜の奥行きを残す。
+
+質感・スタイル：
+リアルな写真風AI画像。夜の室内ポートレート、日系ライフスタイル写真のような落ち着いた質感。肌はなめらかだが過度に加工せず、自然な肌理と血色を残す。服の薄いコットンリブ、レース、フリル、リボンの質感を細かく描写。色調はアイボリー、淡いベージュ、深いネイビーブルー、暖かなランプ色。低〜中コントラスト、柔らかな粒子感、清潔で親密な夜の雰囲気。
+
+ネガティブ：
+未成年に見える人物、過度な性的強調、下品な露出、過剰な胸の誇張、不自然な顔や視線、プラスチックのような肌、過度な美肌補正、左右の手が5本指に見えない、余分な指、欠けた指、融合した指、長すぎる指、関節の破綻、手首のねじれ、脚の不自然な接続、身体の浮遊、ベッドとの接触影不足、光源と矛盾する影、服のボタンや缝い目の破綻、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2071949376121970732) | 2026-06-30
+
+---
+
+### 🏛️ 例 2835：阳光明媚的河畔城市幻想
+
+![阳光明媚的河畔城市幻想](../../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E6%B2%B3%E7%95%94%E5%9F%8E%E5%B8%82%E5%B9%BB%E6%83%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满活力的 4k 动漫风格幻想旅行景观，从铺满鲜花的高处露台俯瞰阳光明媚的欧洲河畔城市。场景为竖构图，俯瞰一条明亮的绿松石色河流，蜿蜒穿过密集的历史建筑群，建筑拥有橙色陶土屋顶、奶油色石质外墙、绿树成荫的河堤、户外河畔咖啡馆，远处是布满房屋的青山。画面中需包含 5 座清晰可见的石桥，分布在不同景深处：1 座位于前景的大型行人桥、1 座华丽的中央拱桥、2 座位于上游的较小桥梁，以及 1 座地平线附近隐约可见的远桥。河面上需包含 7 艘清晰可见的船只，包括右下方 1 艘大型白色观光船、3 艘小型摩托艇、2 艘微型划艇以及 1 艘位于河道中央的小船。前景展示一个铺设浅色鹅卵石的弧形石露台，左侧有一盏黑色复古路灯，两侧由茂密的绿树环绕，栏杆旁摆放着大量红、白、粉、紫色的花卉盆栽。城市天际线应包括左侧一座带有绿色铜尖顶的高耸钟楼教堂、右上角一座拥有多个深色尖顶的大型哥特式大教堂、几座较小的教堂塔楼，以及一座带有绿色铜锈屋顶的圆顶建筑。使用 {argument name="season" default="夏季"} 氛围，深钴蓝色的天空点缀着明亮的积云，清脆的阳光，波光粼粼的水面反射，柔和的绘画细节，干净的线条，饱和的色彩，以及引人入胜的奇幻旅行海报风格。画面中无文字，无近景人物，无现代摩天大楼，无主导场景的汽车。风格应呈现出受吉卜力工作室启发的、高度细腻的欧洲城市插画，灵感源自 {argument name="city inspiration" default="类似布拉格的河畔城市"}，时间设定为 {argument name="time of day" default="晴朗的正午阳光"}，重点突出 {argument name="foreground flowers" default="红色天竺葵和紫色薰衣草"} 以及 {argument name="river color" default="明亮的绿松石蓝色"}。
+
+[English]
+Create a vibrant 4k anime-style fantasy travel landscape of a sunlit European riverside city viewed from a high flower-filled terrace. The scene is a vertical composition looking down over a brilliant turquoise river winding through dense historic architecture with orange terracotta roofs, cream stone facades, tree-lined embankments, outdoor riverside cafés, and green hills covered with houses in the distance. Include exactly 5 visible stone bridges crossing the river at different depths: 1 large foreground bridge with pedestrians, 1 ornate central arched bridge, 2 smaller bridges farther upstream, and 1 faint distant bridge near the horizon. Add exactly 7 visible boats on the river, including 1 larger white sightseeing boat near the lower right, 3 small motorboats, 2 tiny rowboats, and 1 small boat centered in the river. In the foreground, show a curved stone terrace paved with light cobblestones, a black vintage streetlamp on the left, leafy green trees framing both sides, and abundant flower planters with red, white, pink, and purple blossoms along the railing. The city skyline should include a tall clock-tower church with a green copper spire on the left, a large Gothic cathedral with multiple dark spires on the upper right, several smaller church towers, and one domed building with a green patina roof. Use {argument name="season" default="summer"} atmosphere, a deep cobalt-blue sky with bright cumulus clouds, crisp sunlight, sparkling water reflections, soft painterly detail, clean linework, saturated colors, and an inviting whimsical travel-poster mood. No text, no people close-up, no modern skyscrapers, no cars dominating the scene. Style should feel like a highly detailed Studio Ghibli-inspired European city illustration of {argument name="city inspiration" default="Prague-like river city"} under {argument name="time of day" default="clear midday sun"}, with emphasis on {argument name="foreground flowers" default="red geraniums and purple lavender"} and {argument name="river color" default="bright turquoise blue"}.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2071907182350843935) | 2026-06-30
+
+---
+
+### 🏛️ 例 2854：禅意极简荷叶插画
+
+![禅意极简荷叶插画](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E8%8D%B7%E5%8F%B6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简人物插画
+风格分支：高对比清润型
+主体内容：{argument name="主体内容" default="一位小人物站在巨大荷叶下听雨"}
+情绪母题：清润、夏日、静气、生机
+场景与意象：巨大松石青荷叶、橘红色水珠、人物剪影、米白背景、极简雨线
+构图与空间：小主体大意象构图，荷叶从画面上方覆盖下来，人物位于下方偏侧，水珠作为视觉点睛
+色彩控制：{argument name="背景底色" default="米白"}作为背景基底，松石青用于荷叶主体，橘红只用于一滴水珠和少量反光，人物用墨青小剪影；避免整图变成青绿色滤镜
+光线与质感：明亮雨后自然光，荷叶微纹理，水珠高光，轻紙感
+画幅比例：{argument name="画幅比例" default="9:16"}
+补充要求：人物要小，荷叶要大，画面要鲜活清亮，不要阴雨压抑感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2071848878899347731) | 2026-06-30
+
+---
+

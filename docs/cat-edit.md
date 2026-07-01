@@ -2406,3 +2406,49 @@ Transform the reference photo into a {argument name="style" default="whimsical f
 
 ---
 
+### 🔧 例 2819：活力涂鸦街头艺术风格转换
+
+![活力涂鸦街头艺术风格转换](../../images/%E6%B4%BB%E5%8A%9B%E6%B6%82%E9%B8%A6%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将 {argument name="subject" default="上传的主体"} 转换为充满活力的涂鸦街头艺术风格图像。使用粗犷的喷漆轮廓，配合充满能量的笔触，并利用分层油漆纹理进行极简阴影处理。采用强烈、饱和的色彩和戏剧性的城市灯光。该风格的特点是夸张、富有表现力的人物比例，具有俏皮的街头艺术风格面部特征，能够展现极大的情感范围，并结合充满活力的风格化解剖结构。将环境转换为色彩斑斓的壁画城市景观，包含简化的城市物体、扭曲的透视效果和动态的油漆喷溅。构图和基调应在一个完全风格化、非现实的世界中呈现出活力、生动和喜剧感。
+
+[English]
+Create a vibrant graffiti street art style image from the {argument name="subject" default="uploaded subject"}. Use bold spray-painted outlines with energetic strokes and minimal shading using layered paint textures. Use intense, saturated colors and dramatic urban lighting. The style is defined by exaggerated, expressive character proportions featuring playful street-art-inspired facial features that allow for immense emotional range, with energetic stylized anatomy. Transform the environment into a colorful mural-covered cityscape with simplified urban objects, warped perspective, and dynamic paint splashes. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2071983705493811319) | 2026-06-30
+
+---
+
+### 🔧 例 2832：90 年代动画道具设定集
+
+![90 年代动画道具设定集](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E7%94%BB%E9%81%93%E5%85%B7%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+あなたはアニメの小道具設定画を作るAIです。以下の小道具を、無地の背景に1点クリーンに描いてください。
+
+【小道具】{argument name="道具" default="ローラースケート付きの竹馬"}（主人公が生成ボタンで生み出した、間に合わせの乗り物）
+- 構成：節のある青竹を2本そろえた竹馬。足を乗せる横木のステップが各竹の中ほどに付く。上端は手で握れる長さまで伸びている
+- 改造点：各竹の下端（地面に着く側）に、4輪のローラースケート（クアッドスケート）が無理やり取り付けられている。素人が後付けしたような、ちぐはぐで間に合わせの工作感
+- 雰囲気：チープで安っぽいが愛嬌がある（しょぼかわ）。平成のおもちゃのような質感。乗ったら絶対フラフラして転びそうな不安定さが見た目から伝わる
+- 配色：竹はみずみずしいグリーンからベージュ。ローラーとビス留め金具はポップな原色（赤・黄・青）でアクセント
+
+【画風】{argument name="アートスタイル" default="1990年代の日本のテレビアニメのセル画"}（セルシェーディング、太めの主線、ベタ塗りの影とハイライト、ビビッドな発色）。明るくポップなトーン
+
+【構図】斜め前から見た全体像を主役として大きく1点。画面の隅に、側面から見た小さな図を1つ添える設定画レイアウト。背景は無地
+
+【文字】画面内に文字・ラベル・型番・ロゴは描かない
+
+【その他】実在ブランドのロゴや商品に似せない。オリジナルの意匠にする。明るい配色を保つ
+```
+
+**来源：** [@絵空事テレビ / AIカワウソ](https://x.com/boke_ai/status/2071924532374540289) | 2026-06-30
+
+---
+
