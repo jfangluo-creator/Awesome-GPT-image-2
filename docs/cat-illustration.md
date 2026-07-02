@@ -6247,3 +6247,91 @@ Create a polished anime-style full-body illustration of a cheerful young elf tra
 
 ---
 
+### 🎨 例 2876：黄金时刻高山步道景观
+
+![黄金时刻高山步道景观](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E9%AB%98%E5%B1%B1%E6%AD%A5%E9%81%93%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张黄金时刻的照片级超广角山地景观：一条崎岖的泥土徒步小径从右下角前景开始，蜿蜒穿过高山坡地，两侧环绕着苔藓草地、低矮灌木、野生植被和巨大的圆形灰色花岗岩巨石。两侧矗立着高大的深色常绿松树，茂密的针叶林填满了下方的山谷。在中景处，展示一个平静且具有反射效果的高山湖泊，连接着一个小入水口，坐落在森林覆盖的山脊之间。在背景中，描绘三座尖锐的岩石山峰，山体呈现条纹状的灰色岩面，并带有少量残雪，最高峰位于中心偏右侧。太阳位于左侧地平线附近，部分被远处的山脊遮挡，投射出强烈的暖橙色光芒，形成长长的阴影、镜头光晕，并使小径、岩石、树木和山体表面呈现出明亮的质感。天空中有富有戏剧性的柔和云层，呈现橙色、桃色和蓝色调。采用电影级 HDR 光效、高细节、逼真的景深、清晰的前景纹理、广角构图、自然色彩，画面中无人、无建筑、无文字、无水印。
+
+[English]
+Create a photorealistic ultra-wide mountain landscape at golden hour: a rugged dirt hiking trail begins in the lower right foreground and curves down through an alpine slope, bordered by mossy grass, low shrubs, wild vegetation, and large rounded gray granite boulders. Tall dark evergreen pine trees stand on both sides, with a dense conifer forest filling the valley below. In the middle distance, show a calm reflective mountain lake with a smaller connected inlet, nestled between forested ridges. In the background, depict three sharp rocky mountain peaks with striated gray stone faces and small patches of lingering snow, the tallest peak slightly right of center. The sun is low near the left horizon, partly above a distant ridge, casting strong warm orange light, long shadows, lens flare rays, and glowing highlights across the trail, rocks, trees, and mountain faces. The sky has dramatic soft clouds with orange, peach, and blue tones. Use cinematic HDR lighting, high detail, realistic depth, crisp foreground texture, wide-angle composition, natural colors, no people, no buildings, no text, no watermark.
+```
+
+**来源：** [@Ahmed Arat](https://x.com/ahmed_arat/status/2072399196418674971) | 2026-07-01
+
+---
+
+### 🎨 例 2912：动作战斗动画项目
+
+![动作战斗动画项目](../../images/%E5%8A%A8%E4%BD%9C%E6%88%98%E6%96%97%E5%8A%A8%E7%94%BB%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张 16:9 的加速 {argument name="scene type" default="双人近身格斗"} 项目表图像。
+
+[主体]
+一个 {argument name="board style" default="现代极简"} 制作项目
+
+[English]
+Create a 16:9 accelerated {argument name="scene type" default="two-character close-combat"} storyboard sheet image.
+
+[SUBJECT]
+A {argument name="board style" default="modern-minimal"} production board
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2072285872720843184) | 2026-07-01
+
+---
+
+### 🎨 例 2936：撑伞漂浮的动漫少女
+
+![撑伞漂浮的动漫少女](../../images/%E6%92%91%E4%BC%9E%E6%BC%82%E6%B5%AE%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫风格的时尚插画，描绘一位年轻女性漂浮在布满高积云的明亮夏日天空中。角色为 {argument name="character name" default="一位年轻日本女性"}，留着随风飘动的黑色短发，表情平静且略带忧郁，身穿单色 {argument name="outfit color" default="钴蓝色"} 长袖衬衫裙，腰间系带，裙摆飘逸，搭配同色系蓝色短袜和白蓝相间的厚底运动鞋。姿势要充满动感，仿佛被风托起：一条腿向观众方向伸展，另一条腿向右上方踢起，一只手臂向外伸展，另一只手在头顶撑着一把透明雨伞。雨伞应为深蓝色且呈半透明状，伞面印有或反射着蓝天白云，伞骨清晰可见，配有弯曲的黑色伞柄。背景采用简洁的海报式构图，布满细节丰富的蓝白云朵，并叠加了图形设计元素：包含 3 个蓝色圆圈（左上角一个大圆，左侧中部一个小圆，右下角一个小圆），3 个橙色装饰（右上角一条短横线，右下角一个大橙圆，右下角底部一个小竖矩形），以及细长的黑色竖条、半调网点纹理、蓝色矩形块、斜向蓝色条纹、精细的技术线条和抽象的拼贴式城市/网格碎片。采用利落的墨线勾勒、细腻的阴影处理、高细节的动漫插画风格，构图具有编辑海报感，主色调为白色、天蓝色、钴蓝色、黑色，并点缀少量橙色。在右下角添加日期和签名，内容为 {argument name="date text" default="2026 年 7 月 1 日"} 和 {argument name="signature text" default="Oyagi"}。画面需保持优雅、轻盈且超现实的质感，传达出天气变幻莫测、雨后初晴的意境，以及被雨伞带入云端的奇妙感受。
+
+[English]
+Create a vertical anime-style fashion illustration of a young woman floating through a bright summer sky filled with towering cumulus clouds. The character is {argument name="character name" default="a young Japanese woman"} with short windblown black hair and a calm, slightly wistful expression, wearing a monochrome {argument name="outfit color" default="cobalt blue"} shirt-dress with long sleeves, a belted waist, a flowing skirt, matching blue socks, and chunky white-and-blue sneakers. Pose her dynamically as if lifted by wind: one leg extended downward toward the viewer, the other leg kicked up to the right, one arm reaching outward, and the other hand holding a transparent umbrella above her. The umbrella should be deep blue and semi-transparent, printed or reflecting a blue sky with white clouds, with visible black ribs and a curved black handle. The background is a clean white poster-like composition packed with detailed blue-and-white clouds, layered with graphic design elements: exactly 3 blue circles (one large near the upper left, one small on the left middle, one small on the lower right), exactly 3 orange accents (one short horizontal bar near the upper right, one large orange circle near the lower right, one small vertical orange rectangle near the bottom right), plus thin black vertical bars, halftone dot textures, blue rectangular blocks, diagonal blue stripes, fine technical lines, and abstract collage-like city/grid fragments. Use crisp ink linework, delicate shading, high-detail anime illustration, editorial poster composition, dominant palette of white, sky blue, cobalt blue, black, and small orange highlights. Add a tiny date and signature at the bottom right reading {argument name="date text" default="July 1, 2026"} and {argument name="signature text" default="Oyagi"}. Keep the image elegant, airy, and surreal, suggesting unstable weather, sunshine after rain, and the feeling of being carried into the clouds by an umbrella.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2072172056373035428) | 2026-07-01
+
+---
+
+### 🎨 例 2949：香蕉谐音梗回复插图
+
+![香蕉谐音梗回复插图](../../images/%E9%A6%99%E8%95%89%E8%B0%90%E9%9F%B3%E6%A2%97%E5%9B%9E%E5%A4%8D%E6%8F%92%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+「{argument name="フレーズ" default="そんなバハマ"}」って返信する用のイラストを出して
+```
+
+**来源：** [@ナインバード亜郎](https://x.com/arrow_9bird/status/2072130755837481043) | 2026-07-01
+
+---
+
+### 🎨 例 2952：McQuarrie 风格绝地武士场景
+
+![McQuarrie 风格绝地武士场景](../../images/McQuarrie%20%E9%A3%8E%E6%A0%BC%E7%BB%9D%E5%9C%B0%E6%AD%A6%E5%A3%AB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="古代の惑星"}に立つ{argument name="スタイル" default="マクォーリ風"}のジェダイとAT-AT、シネマティックな大気。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2072123019930005504) | 2026-07-01
+
+---
+

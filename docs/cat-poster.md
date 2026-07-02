@@ -13055,3 +13055,434 @@ Cinematic GQ Style magazine cover — {argument name="model description" default
 
 ---
 
+### 🎴 例 2887：Cristiano Ronaldo 执着主题海报
+
+![Cristiano Ronaldo 执着主题海报](../../images/Cristiano%20Ronaldo%20%E6%89%A7%E7%9D%80%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张屡获殊荣的收藏版 {argument name="subject" default="Cristiano Ronaldo"} 海报，通过顶尖平面设计语言探索 {argument name="concept" default="执着"} 这一无形概念。构图不应呈现出完全完成的状态，而应类似于达到完美前夕的最终校样。处于 {argument name="team era" default="皇家马德里"} 时期的 Cristiano Ronaldo 安静地坐在前景中，身着剪裁考究的全白足球服，带有细腻的高级质感。他的姿态传达出的是全神贯注，而非攻击性。他标志性的马德里时期发型打理得一丝不苟，每一处面部特征都以非凡的中画幅写实感呈现。在他周围，展现着不断打磨的痕迹：多代编辑网格以微米级的精度重叠，早期的排版版本在新的结构下隐约可见。字体仿佛经过了无数次毫米级的微调。对齐参考线、套准系统、打印注释、透明描图覆盖层、校样修改、构造几何图形以及出版参考信息和谐共存，丝毫不显杂乱。这张海报旨在传达：伟大源于成千上万次无形的改进。采用高级棉纸、盲文压印、局部 UV 上光、精致烫金、胶印写实感、奢华的编辑排版间距、考究的视觉层级以及博物馆级的制作质量。配色方案：骨白色、石墨黑、克制的法拉利红、拉丝钛金属色。最终作品应呈现出如同获得 D&AD 黑铅笔奖的编辑海报质感，记录下追求完美的心理过程。
+
+[English]
+Create an award-winning collector-edition {argument name="subject" default="Cristiano Ronaldo"} poster exploring the invisible concept of {argument name="concept" default="obsession"} through the language of elite graphic design. The composition should never feel completely finished. Instead, it should resemble the final proof moments before perfection. Prime {argument name="team era" default="Real Madrid"} Cristiano Ronaldo sits quietly in the foreground wearing an immaculately tailored all-white football kit with subtle premium textures. His posture communicates total concentration rather than aggression. His Madrid-era hairstyle is perfectly styled, every facial feature rendered with extraordinary medium-format realism. Around him exists the evidence of endless refinement. Multiple generations of editorial grids overlap with microscopic precision. Earlier layout versions remain faintly visible beneath newer structures. Typography appears repeatedly adjusted by fractions of a millimeter. Alignment guides, registration systems, printer annotations, transparent tracing overlays, proof corrections, construction geometry, and publishing references coexist without clutter. The poster should communicate that greatness comes from thousands of invisible improvements. Use premium cotton paper, blind embossing, spot UV varnish, subtle foil stamping, offset-print realism, luxury editorial spacing, refined hierarchy, and museum-grade production quality. Colour palette: bone white, graphite black, restrained Ferrari red, brushed titanium. The final artwork should resemble a D&AD Black Pencil-winning editorial poster documenting the psychology of perfection.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2072343799544909982) | 2026-07-01
+
+---
+
+### 🎴 例 2890：优雅欧式咖啡馆生活方式肖像
+
+![优雅欧式咖啡馆生活方式肖像](../../images/%E4%BC%98%E9%9B%85%E6%AC%A7%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张优雅的咖啡馆生活方式肖像，主角是一位 {argument name="subject description" default="时尚年轻女性"}，正于现代都市环境的户外咖啡馆中放松。构图亲密、自然且奢华，灵感源自高端生活方式广告及欧洲咖啡馆文化。
+
+主角舒适地坐在咖啡馆的椅子上，身旁是一张圆形灰色大理石桌。她的双腿在桌下自然交叠。左肘靠在椅扶手上，左手轻轻托住下巴，姿态沉思。她优雅地将头转向左侧，目光看向镜头之外，表情平静而从容，流露出沉稳的自信与低调的优雅。
+
+她留着自然波浪感的深棕色及肩发，发型为柔和、略显凌乱的波波头，带有细腻的蓬松感，几缕发丝轻柔地修饰着脸庞。她佩戴着一副设计简约精致的黑色长方形太阳镜。
+
+她的着装为一件 {argument name="top" default="宽松黑色短袖开领亚麻衬衫"}，领口扣子随意解开，下身搭配 {argument name="trousers" default="高腰米色定制长裤"}，呈现现代阔腿廓形。她佩戴着不锈钢腕表、精致的银戒指和小型金质圈形耳环，营造出永恒的奢华美感。
+
+灰色大理石咖啡桌上放着一个带有精美拉花图案的黑色陶瓷卡布奇诺杯、一杯清水和一部现代智能手机。桌上装饰着一个小巧的琥珀色玻璃瓶和少许绿色植物，增添了温暖感，且不会喧宾夺主。
+
+背景是现代欧式风格的咖啡馆，配有黑色边框的玻璃窗、温暖的室内环境光、深色砖墙、优雅的木质家具，以及微微虚化的餐厅内景，营造出自然的景深感。氛围舒适、精致且充满电影感。
+
+光影采用柔和的自然日光，伴有轻柔的阴影和透过窗户洒入的温暖室内高光。使用 85mm 定焦镜头，f/2 光圈拍摄，浅景深，高端杂志摄影质感，真实的皮肤纹理，细腻的 Fuji 400H 胶片调色，奢华生活方式美学，清晰的织物细节，电影级写实感，柔和焦外成像，自然色调，高动态范围，超写实，8K。
+
+负面提示词：曝光过度、桌面杂乱、道具过多、文字、水印、Logo、解剖结构扭曲、AI 伪影、不真实的反射、卡通、插画、低分辨率、色彩过饱和、妆容夸张、面部模糊、多余的手指、多余的肢体、物体重复、塑料质感皮肤、姿势不自然。
+
+[English]
+Create an elegant café lifestyle portrait of a {argument name="subject description" default="fashionable young woman"} relaxing at an outdoor café in a modern urban setting. The composition feels intimate, relaxed, and luxurious, inspired by premium lifestyle campaigns and European café culture.\n\nThe subject sits comfortably in a café chair beside a round gray marble table. Her legs are crossed naturally beneath the table. Her left elbow rests on the chair arm while her left hand gently supports her chin in a thoughtful pose. Her head turns gracefully to the left as she looks away from the camera with a calm, effortless expression, conveying quiet confidence and understated elegance.\n\nShe has naturally wavy dark brown shoulder length hair styled in a soft, slightly tousled bob with subtle volume and loose strands framing her face. She wears sleek black rectangular sunglasses with a refined minimalist design.\n\nHer outfit consists of a {argument name="top" default="relaxed black short sleeve open collar linen shirt"} with the top buttons casually undone, tucked into {argument name="trousers" default="high waisted cream tailored trousers"} with a modern wide leg silhouette. She completes the look with a stainless steel wristwatch, a delicate silver ring, and small gold hoop earrings, creating a timeless luxury aesthetic.\n\nOn the gray marble café table sits a black ceramic cappuccino cup with detailed latte art, a clear glass of water, and a modern smartphone. A small amber glass bottle and subtle green foliage decorate the table, adding warmth without distracting from the composition.\n\nBehind her is a contemporary European style café featuring black framed glass windows, warm ambient interior lighting, dark brick walls, elegant wooden furniture, and a softly blurred restaurant interior that creates natural depth. The atmosphere feels cozy, refined, and cinematic.\n\nLighting is soft natural daylight with gentle shadows and warm interior highlights spilling through the windows. Captured with an 85mm prime lens at f/2, shallow depth of field, premium editorial photography, realistic skin texture, subtle Fuji 400H film color grading, luxury lifestyle aesthetic, crisp fabric details, cinematic realism, soft bokeh, natural tones, high dynamic range, ultra realistic, 8K.\n\nNegative Prompt: Overexposed lighting, cluttered table, excessive props, text, watermark, logo, distorted anatomy, AI artifacts, unrealistic reflections, cartoon, illustration, low resolution, oversaturated colors, exaggerated makeup, blurry face, extra fingers, extra limbs, duplicate objects, plastic skin, unnatural pose.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2072333208029704491) | 2026-07-01
+
+---
+
+### 🎴 例 2902：抽象几何火烈鸟海报
+
+![抽象几何火烈鸟海报](../../images/%E6%8A%BD%E8%B1%A1%E5%87%A0%E4%BD%95%E7%81%AB%E7%83%88%E9%B8%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简主义几何艺术海报，主体是一只完全由简单形状构成的抽象火烈鸟，采用柔和的中世纪现代风格。使用 3:4 的竖向画布，背景为柔和的鼠尾草绿，并带有细腻的纸张纹理。火烈鸟位于画面中心偏右，面向左侧，由珊瑚粉、鲑鱼粉、桃色、奶油色、橙色和黑色的半透明重叠圆形、半圆形、三角形、矩形和细线条构成。头部由弯曲的珊瑚色颈部形成 S 形，配有一个奶油色与桃色相间的圆形头部组件和一个黑色楔形喙；身体由大型分层圆形/半圆形组成，前方有一个淡奶油色圆形，配有珊瑚色翅膀形状和细长的几何腿部结构。火烈鸟可见的几何组件共计 12 个主要部分：1 个珊瑚色圆形太阳状头/颈弧线、1 个奶油色头部圆圈、1 个桃色头部象限、1 个黑色楔形喙、1 个大型珊瑚色颈部曲线、1 个红色下颈/身体曲线、1 个淡奶油色胸部圆圈、1 个大型桃色身体半圆、1 个珊瑚色三角形翅膀块、1 个半透明后尾半圆、1 条细长的垂直站立腿，以及 1 条弯曲的橙色与珊瑚色相间的抬起腿。在周围添加抽象景观，包含 9 个主要背景元素：左上方 1 个大型珊瑚红太阳圆圈，右上方 2 条淡色圆形水平云条，左侧 1 条短淡色圆形云条，左下方 1 个大型半透明奶油色金字塔/山脉，1 个重叠的珊瑚色山脉三角形，山脉上 1 个小型橙色对角矩形，下三分之一处 1 条水平红色水带，以及右下方 1 对重叠的珊瑚色/桃色圆圈，暗示落日倒影。加入几条极细的白色水平线穿过场景，如同水面或地平线，但不要包含排版、边框或水印。保持构图平整、简洁、优雅、具有柔和的半透明感，尽管高度抽象，但仍能一眼辨认出是火烈鸟。
+
+[English]
+Create a minimalist geometric art poster of an abstract flamingo made entirely from simple shapes, in a soft mid-century modern style. Use a vertical 3:4 canvas with a muted sage-green background and subtle paper grain texture. The flamingo stands slightly right of center, facing left, built from translucent overlapping circles, semicircles, triangles, rectangles, and thin lines in coral pink, salmon, peach, cream, orange, and black. The head is a curved coral neck forming an S shape, with a small cream-and-peach circular head segment and a black beak wedge; the body is a large layered circular/semicircular form, with a pale cream circle in front, coral wing shapes, and a long thin angular leg structure. Count the visible geometric flamingo components as 12 main pieces: 1 coral circular sun-like head/neck arc, 1 cream head circle, 1 peach head quadrant, 1 black beak wedge, 1 large coral neck curve, 1 red lower neck/body curve, 1 pale cream chest circle, 1 large peach body semicircle, 1 coral triangular wing block, 1 translucent rear tail semicircle, 1 thin vertical standing leg, and 1 bent orange-and-coral lifted leg. Add an abstract landscape around it with exactly 9 major background elements: 1 large coral-red sun circle in the upper left, 2 pale rounded horizontal cloud bars on the upper right, 1 short pale rounded cloud bar at left, 1 large translucent cream pyramid/mountain on the lower left, 1 overlapping coral mountain triangle, 1 small orange diagonal rectangle on the mountain, 1 horizontal red water band across the lower third, and 1 pair of overlapping coral/peach circles at the lower right suggesting a setting sun reflection. Include several very thin white horizontal lines crossing the scene like water or horizon lines, but no typography, no border, no watermark. Keep the composition flat, clean, elegant, softly translucent, and recognizable as a flamingo despite being highly abstracted.
+```
+
+**来源：** [@Kollab_AI](https://x.com/Kollab_Japan/status/2072314109799076270) | 2026-07-01
+
+---
+
+### 🎴 例 2903：几何风格丹顶鹤海报
+
+![几何风格丹顶鹤海报](../../images/%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E4%B8%B9%E9%A1%B6%E9%B9%A4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版海报插画，主体为 {argument name="animal" default="丹顶鹤"}，采用精致的几何艺术风格，居中站立在宁静的 {argument name="landscape theme" default="蓝绿色东亚山水"} 之中。使用 2:3 纵向画布。丹顶鹤全身像，身姿高挑优雅，面向左侧，长喙向上倾斜，头顶有红色冠羽，身体洁白，颈部有黑色条纹，尾羽呈黑色，细长的红黑色双腿在静水中映出淡淡倒影。鸟身由简洁的层叠曲线、纤细的轮廓线以及类似装饰艺术风格（Art Deco）的几何羽毛板块构成。背景为青色和玉色，点缀着云雾缭绕的山峦、平静的湖泊、风格化的圆形云朵、左下角的简化松树、两侧深色的圆形岛屿，以及鹤颈左侧的一轮扁平红色太阳。背景需包含 5 组主要元素：1 个红色太阳圆盘，1 组位于右上角的大型层叠山脉，1 组横跨中部的较小山水云雾，1 组位于左下角的风格化松树，以及底部左右两侧各 1 个深色岸边岛屿。视觉氛围宁静、高级且具有海报质感，融合了日式屏风画美学、现代矢量几何、细腻的纸张纹理、柔和的青绿色渐变、奶油色高光以及利落的黑色线条。无文字，无 Logo，无水印，无边框。
+
+[English]
+Create a vertical poster illustration of a {argument name="animal" default="red-crowned crane"} in a refined geometric art style, standing centered in a serene {argument name="landscape theme" default="blue-green East Asian mountain-and-water landscape"}. Use a 2:3 portrait canvas. The crane is full body, tall and elegant, facing left with its long beak angled upward, a red crown patch, white body, black neck stripe, black trailing wing feathers, and very long thin red-and-black legs reflected faintly in still water. Build the bird from clean layered curves, thin contour lines, and Art Deco-like geometric feather panels. The background is teal and jade with misty mountains, a calm lake, stylized rounded clouds, simplified pine trees on the lower left, dark rounded islands on both sides, and one flat red sun disk to the left of the crane’s neck. Include exactly 5 major background motif groups: 1 red sun disk, 1 large layered mountain range in the upper right, 1 smaller mountain-and-mist range across the middle, 1 cluster of stylized pine trees on the lower left, and 2 dark shoreline island masses at the bottom left and bottom right. The visual mood is tranquil, premium, and poster-like, combining Japanese screen-print aesthetics, modern vector geometry, subtle paper grain, muted turquoise gradients, cream highlights, and crisp black accents. No text, no logo, no watermark, no border.
+```
+
+**来源：** [@Kollab_AI](https://x.com/Kollab_Japan/status/2072313088595112275) | 2026-07-01
+
+---
+
+### 🎴 例 2910：日本足球应援蛋糕广告
+
+![日本足球应援蛋糕广告](../../images/%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E5%BA%94%E6%8F%B4%E8%9B%8B%E7%B3%95%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高端日本甜品店的足球应援庆典蛋糕广告视觉图，将写实的食品摄影与优雅的编辑排版相结合。
+
+画布：宽幅 16:9 横向构图，背景为温暖的米白色摄影棚背景，光线柔和自然，阴影极少，留白充足。
+
+布局：将蛋糕放置在画面右侧，置于白色陶瓷蛋糕架上。左侧放置深海军蓝色的衬线字体日本广告文案。产品名称和品牌置于底部居中位置。在右上角添加一个半透明的小型白色 “Pollo.ai” 水印。
+
+主体：一款设计灵感源自日本足球应援毛巾的圆形庆典蛋糕。顶部表面为抹茶粉，呈现出足球场的质感。用白色糖霜勾勒出细细的中圈和中线。在球场中心垂直放置 1 颗光泽饱满的红草莓，象征日本国旗的红圆点。蛋糕侧面装饰着蓬松的奶油裱花，外观如同毛巾的毛圈织物，采用海军蓝与白色交替的垂直条纹。正面可见 6 个侧面镶板：海军蓝、白色、海军蓝、白色、海军蓝，以及一个更深的海军蓝边缘镶板。在蓝白奶油和抹茶表面零星点缀少量可食用金箔。保持蓝色调的平衡，使蛋糕看起来精致而不显突兀。
+
+文本内容：左侧标题使用日语：{argument name="headline text" default="今日は、\n応援記念日。"} 下方添加三行较小的日语文案：{argument name="body copy" default="勝っても、負けても。\n心をひとつにした日は、\nきっと特別な記念日。"} 底部居中处放置大型英文产品标题：{argument name="product name" default="CHEER CAKE"}。下方添加小型大写字母文本：“PREMIUM CELEBRATION CAKE”。再下方添加一个小花卉徽标和品牌名称：{argument name="brand name" default="MAISON BLEUE"}，下方标注 “PATISSERIE”。
+
+视觉风格：超写实商业食品摄影，高端日式甜点宣传活动，干净的奢华美学，海军蓝排版，浅景深，清晰的蛋糕质感，诱人的草莓光泽，柔和的米白色背景，精致的间距。
+
+限制：仅限 1 个蛋糕、1 颗草莓、1 个蛋糕架、6 个可见侧面镶板以及 1 个顶部足球场设计。请勿添加人物、餐具、切片盘、额外水果、蜡烛、五彩纸屑或杂乱的背景元素。
+
+[English]
+Goal: Create a premium Japanese patisserie advertising visual for a soccer supporter celebration cake, combining realistic food photography with elegant editorial typography.
+
+Canvas: Wide horizontal 16:9 composition on a warm off-white studio background with soft natural light, minimal shadows, and lots of negative space.
+
+Layout: Place the cake on the right half of the image, sitting on a white ceramic pedestal cake stand. Place Japanese advertising copy on the left in dark navy serif type. Put the product name and brand centered near the bottom. Add a small semi-transparent white “Pollo.ai” watermark in the upper-right corner.
+
+Main subject: A round celebration cake designed like a Japanese soccer cheering towel. The top surface is green matcha powder, textured like a soccer field. Draw thin white icing lines for a center circle and midfield line. Place exactly 1 glossy red strawberry upright at the center of the field, representing the Japanese flag’s red circle. Decorate the outer side of the cake with fluffy piped cream that looks like terry-cloth towel fabric, alternating vertical navy blue and white panels. Use exactly 6 visible side panels around the front: navy blue, white, navy blue, white, navy blue, and a darker navy edge panel. Add small edible gold flakes scattered sparingly on the blue-and-white cream and on the matcha surface. Keep the blue accents balanced so the cake still feels refined and not overly blue.
+
+Text content: On the left, set the headline in Japanese: {argument name="headline text" default="今日は、\n応援記念日。"} Below it, add three smaller Japanese lines: {argument name="body copy" default="勝っても、負けても。\n心をひとつにした日は、\nきっと特別な記念日。"} At the bottom center, set the large English product title: {argument name="product name" default="CHEER CAKE"}. Under it, add small caps text: “PREMIUM CELEBRATION CAKE”. Below that, add a small floral emblem and the brand name: {argument name="brand name" default="MAISON BLEUE"}, with “PATISSERIE” beneath.
+
+Visual style: Hyper-realistic commercial food photography, high-end Japanese confectionery campaign, clean luxury aesthetic, navy typography, shallow depth of field, crisp cake texture, appetizing strawberry shine, soft off-white background, refined spacing.
+
+Constraints: Use exactly 1 cake, 1 strawberry, 1 pedestal stand, 6 visible side panels, and 1 top soccer-field design. Do not add people, utensils, plates of slices, extra fruit, candles, confetti, or busy background elements.
+```
+
+**来源：** [@田中勇道 | AI画像・動画生成](https://x.com/yudotanaka/status/2072295655138382254) | 2026-07-01
+
+---
+
+### 🎴 例 2914：夏日热浪时尚海报
+
+![夏日热浪时尚海报](../../images/%E5%A4%8F%E6%97%A5%E7%83%AD%E6%B5%AA%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅夏日时尚海报，{argument name="subject" default="留着赤褐色头发、戴着红色圆框墨镜的年轻女性"}，斑驳的棕榈树影投射在脸上，右下角有向上延伸的青色花朵，深邃的电影级琥珀色调，分割式构图，左侧为简洁的黑色面板，印有巨大的做旧金色垂直文字 "{argument name="text" default="SUMMER"}"，下方配有一句醒目的单行引语，留白充裕以保持清晰的层级感，4:5 垂直构图 --ar 4:5 --v 6
+
+[English]
+Wide summer editorial poster, {argument name="subject" default="young woman with auburn hair and round red-tinted sunglasses"}, dappled palm shadow across face, teal flowers bottom-right trailing upward, deep cinematic amber color grade, split composition with clean black left panel containing giant distressed gold "{argument name="text" default="SUMMER"}" vertical text, single bold one-line quote below, generous negative space for clean hierarchy, vertical 4:5 composition --ar 4:5 --v 6
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2072277760773648737) | 2026-07-01
+
+---
+
+### 🎴 例 2915：Almarai 牛奶悬浮飞溅广告
+
+![Almarai 牛奶悬浮飞溅广告](../../images/Almarai%20%E7%89%9B%E5%A5%B6%E6%82%AC%E6%B5%AE%E9%A3%9E%E6%BA%85%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的高端乳制品广告图像，画面中心为一个悬浮的 {argument name="product" default="Almarai 2 升全脂鲜牛奶塑料壶"}。产品为一个白色塑料牛奶桶，带有绿色螺旋盖，把手位于右上角，瓶身贴有绿色阿拉伯风格的 Almarai 标签，上面印有 Almarai 标志、醒目的阿拉伯语鲜牛奶字样、“全脂”以及“2 L”等细节。将奶壶垂直放置在画面正中央，对焦清晰，光影真实。在奶壶周围环绕一圈由天然乳制品和农场元素构成的爆炸式光环：包括 1 条缠绕在奶壶后方及周围的浓稠白色牛奶丝带、大量悬浮的牛奶液滴和飞溅效果、清澈的水滴状气泡、绿叶、草叶、麦秆、白色矿物质或盐块、深色土壤块、小种子和谷物，以及香草嫩枝，所有元素仿佛从农场景观中喷涌而出，定格在半空中。背景采用低角度拍摄的连绵绿丘，搭配温暖的日出或日落天空、柔和的云朵以及金色的氛围光。风格：超写实商业产品摄影、高速飞溅捕捉、戏剧性背光、浅景深、清晰的产品标签、液滴上的光泽高光、天然新鲜感、高端中东杂货广告美学。调色板：奶油白、清新绿、金色、大地棕、天空蓝。限制条件：无人像，无手部，无额外产品，无水印，保持品牌标签可读，保留悬浮居中的构图和动态的环形爆炸效果。
+
+[English]
+Create a cinematic premium dairy advertising image centered on a single floating {argument name="product" default="Almarai full cream fresh milk 2-liter plastic jug"}. The product is a white plastic milk gallon with a green screw cap, handle on the upper right, and a green Arabic Almarai-style label showing the Almarai logo, large Arabic lettering for fresh milk, “full cream,” and “2 L” details. Place the jug upright in the exact center, sharply focused and realistically lit. Surround it with an explosive circular halo of natural dairy-and-farm elements: exactly 1 thick swirling ribbon of white milk wrapping behind and around the jug, many suspended milk droplets and splashes, clear water-like bubbles, green leaves, grass blades, wheat stalks, white mineral or salt-like chunks, dark soil clumps, small seeds and grains, and herb sprigs, all frozen midair as if bursting from a farm landscape. Use a low-angle outdoor background of rolling green hills with a warm sunrise or sunset sky, soft clouds, and golden atmospheric light. Style: ultra-realistic commercial product photography, high-speed splash capture, dramatic backlighting, shallow depth of field, crisp product label, glossy highlights on droplets, natural freshness, premium Middle Eastern grocery advertisement aesthetic. Color palette: creamy white, fresh green, gold, earthy brown, sky blue. Constraints: no people, no hands, no extra products, no watermark, keep the brand label readable, preserve the floating centered composition and dynamic circular explosion.
+```
+
+**来源：** [@‏تركي](https://x.com/ksa8Turky/status/2072277283985891739) | 2026-07-01
+
+---
+
+### 🎴 例 2917：复古手绘广告海报
+
+![复古手绘广告海报](../../images/%E5%A4%8D%E5%8F%A4%E6%89%8B%E7%BB%98%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古手绘广告海报，展示 {argument name="product" default="[PRODUCT]"}，画面主体为 {argument name="subject" default="[HUMAN]"}，身穿 {argument name="clothing" default="[CLOTHING]"}，姿势为 [POSE]，背景前方是一个清晰易读的大标题“[TITLE]”以及较小的副标题“[SUBTITLE]”。标题需醒目且清晰地呈现在角色身后，并与招牌设计融为一体。在左下角或底部中央放置 [PRODUCT ITEMS] 作为前景产品展示，布局如同商业陈列。在背景中加入 [SCENERY]，作为衬托品牌故事的柔和场景。使用 [PALETTE]，采用写实的传统笔触、柔和融合的水彩与油画海报质感、细腻的面部建模、手绘招牌字体、略带磨损的复古金属招牌边缘、细微的风化效果，呈现迷人的怀旧商业插画风格，构图平衡且正面，层次清晰，具有极具收藏价值的复古包装广告美感，长宽比 4:5。
+
+[English]
+Vintage hand-painted advertising poster for {argument name="product" default="[PRODUCT]"}, featuring {argument name="subject" default="[HUMAN]"} wearing {argument name="clothing" default="[CLOTHING]"}, posed [POSE] and presented in front of a large readable title reading “[TITLE]” with a smaller subheading reading “[SUBTITLE]”. Show the title large and clearly legible behind the character, integrated into the sign design. Place a foreground product showcase at the bottom left or bottom center with [PRODUCT ITEMS], arranged like a commercial display. Add [SCENERY] in the background as a soft scenic setting that supports the brand story. Use [PALETTE], realistic traditional brushwork, softly blended watercolor-and-oil poster painting texture, gentle facial modeling, hand-painted sign lettering, slightly distressed vintage metal sign edges, subtle weathering, charming nostalgic commercial illustration, balanced front-facing composition, clear hierarchy, collectible retro packaging-ad aesthetic, aspect ratio 4:5.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2072266827154214948) | 2026-07-01
+
+---
+
+### 🎴 例 2919：日本儿科诊所更名传单
+
+![日本儿科诊所更名传单](../../images/%E6%97%A5%E6%9C%AC%E5%84%BF%E7%A7%91%E8%AF%8A%E6%89%80%E6%9B%B4%E5%90%8D%E4%BC%A0%E5%8D%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为日本一家儿科诊所制作一张欢快的更名公告海报/传单，采用柔和的儿童友好型医疗主题，并具有类似 Canva 的精致排版。
+
+画布：竖版 A4 海报，纵向布局，淡天蓝色背景，顶部有一个巨大的白色圆拱形设计，页边距整洁，圆角矩形框，友好的矢量插画风格，色彩明亮而柔和。
+
+页眉：在最顶部放置一条深蓝色丝带横幅，带有黄色装饰标记和白色文字「大切なお知らせ」（重要通知）。在其周围添加 5 个装饰元素：2 朵白云、右上角的 2 个气球以及 1 只蓝色小鸟。
+
+主要公告：居中放置醒目的日期行，橙色文字「{argument name="effective date" default="2026年8月1日"}」，后接深蓝色文字「より」（起），接着是标题「クリニック名が変わります」（诊所名称即将变更）。下方显示旧诊所名称「{argument name="old clinic name" default="平野こどもクリニック"}」、一个蓝色向下箭头，以及采用非常大且活泼字体的新诊所标识名称「{argument name="new clinic name" default="にんにんキッズクリニック"}」，混合使用蓝色、粉色和海军蓝，置于带有细蓝色轮廓和闪光装饰的圆角白色框内。
+
+连续性通知条：在诊所名称框下方添加一条淡黄色圆角水平条。其中包含 2 个由虚线垂直分隔符隔开的通知块：左侧块带有橙色电话/位置图标，文字为「場所・電話番号・予約方法は、これまでどおりです」（地点、电话号码及预约方式保持不变）；右侧块带有医疗剪贴板图标，文字为「診療は通常どおり行います」（诊疗照常进行）。
+
+中间内容布局：使用三栏布局。左侧和中间为圆角信息卡片；右侧为吉祥物区域。
+
+左侧卡片：蓝色标题的圆角卡片，标记为「変わること」（变更事项），配有一个小芽图标。包含 3 个日语要点：1) 「2026年8月から、クリニック名が『にんにんキッズクリニック』に変わります。」（自 2026 年 8 月起，诊所名称将变更为“Nin-Nin Kids Clinic”。） 2) 「看板、ホームページ、院内掲示、予約画面、診察券などの表記が、順次『にんにんキッズクリニック』へ変わります。」（招牌、官网、院内告示、预约界面、诊疗卡等标注将陆续变更为“Nin-Nin Kids Clinic”。） 3) 「4月からすでに始まっていますが、アレルギー診療、20時までの診療、日曜・祝日の診療を拡充しています。」（自 4 月起已开始扩充过敏诊疗、延长至 20 点的诊疗以及周日和节假日的诊疗服务。）在此卡片底部添加 4 个小图标：诊所网站显示器、智能手机、患者卡片以及写有「20:00まで」（至 20:00）的月亮徽章。
+
+中间卡片：绿色标题的圆角卡片，标记为「変わらないこと」（不变事项），配有一个爱心图标。包含 6 个日语要点：1) 「引き続き、医療法人成育会が運営します。」（将继续由医疗法人成育会运营。） 2) 「クリニックの場所と電話番号は変わりません。」（诊所地点和电话号码不变。） 3) 「これまでの診療記録や予約情報は、そのまま引き継がれます。」（既往诊疗记录和预约信息将完整保留。） 4) 「予約方法や受診方法も、基本的にはこれまで通りです」（预约方式和就诊方式基本保持不变。） 5) 「診療は通常通り行います。」（诊疗照常进行。） 6) 「現在お持ちの診察券はそのままご利用いただけます。※診察券は順次切り替え予定です」（目前持有的诊疗卡可继续使用。※诊疗卡将陆续更换。）添加一条简短备注：「診療体制や担当医に変更がある場合は、別途ご案内します。」（若诊疗体制或主治医生有变动，将另行通知。）
+
+右侧吉祥物区域：在吉祥物上方放置一个对话气泡，文字为「これからもよろしくお願いします！」（今后也请多多关照！）并配有一个粉色小爱心。下方绘制一只可爱的熊猫儿科医生吉祥物，戴着深色忍者风格头带，身穿白大褂，挂着听诊器，手里拿着一个小剪贴板；下方标注「{argument name="mascot name" default="リーリー先生"}」（李李医生）。在吉祥物周围添加 3 个小装饰元素：1 个粉色爱心，左侧 1 簇草，右侧 1 簇草。
+
+底部信息：添加一个带有橙色虚线边框和花卉装饰的大型圆角白色信息框。包含居中的日语信息：「名称は変わりますが、これからも変わらず、地域の皆様のかかりつけ医として、子どもたちとご家族に寄り添う診療を続けていきます。」（名称虽有变更，但我们将一如既往地作为社区居民的家庭医生，继续提供贴近孩子与家人的诊疗服务。）将「子どもたちとご家族に寄り添う診療」（贴近孩子与家人的诊疗）短语用粉色强调。在此框周围添加 4 个花卉/爱心装饰：左侧一朵粉色心形花，右侧两朵蓝色小花，以及绿色叶片。
+
+页脚：在最底部展示连绵的绿色山丘，点缀着小花，中间有一个微小的诊所标志，写着「にんにんキッズクリニック」并配有一个熊猫脸图案。
+
+视觉风格：友好的日本儿科诊所传单，干净的矢量艺术，圆润的字体，淡蓝、海军蓝、橙、粉、绿配色，日语文字清晰易读，无写实风格，无杂乱元素，无水印。保持所有文字清晰且拼写正确。
+
+[English]
+Goal: Create a cheerful pediatric clinic announcement poster/flyer in Japanese for a clinic name change, with a soft child-friendly medical theme and a polished Canva-like layout.
+
+Canvas: Vertical A4 poster, portrait orientation, pastel sky-blue background with a large white rounded arch at the top, clean margins, rounded boxes, friendly vector illustration style, bright but gentle colors.
+
+Header: At the very top place a dark blue ribbon banner with yellow accent marks and the white text 「大切なお知らせ」. Around it add exactly 5 small decorative elements: 2 white clouds, 2 balloons on the upper right, and 1 small blue bird.
+
+Main announcement: Large centered date line with orange text 「{argument name="effective date" default="2026年8月1日"}」 followed by dark blue 「より」, then the headline 「クリニック名が変わります」. Beneath it, show the old clinic name 「{argument name="old clinic name" default="平野こどもクリニック"}」, a blue downward arrow, and the new clinic logo-style name 「{argument name="new clinic name" default="にんにんキッズクリニック"}」 in very large playful lettering, mixing blue, pink, and navy, inside a rounded white box with a thin blue outline and sparkle accents.
+
+Continuity notice strip: Add one rounded pale-yellow horizontal strip below the clinic-name box. It contains exactly 2 notice blocks separated by a dotted vertical divider: left block has an orange phone/location icon and the text 「場所・電話番号・予約方法は、これまでどおりです」; right block has a medical clipboard icon and the text 「診療は通常どおり行います」.
+
+Middle content layout: Use three columns. Left and center are rounded information cards; right is a mascot area.
+
+Left card: Blue-titled rounded card labeled 「変わること」 with a small sprout icon. Include exactly 3 bullet points in Japanese: 1) 「2026年8月から、クリニック名が『にんにんキッズクリニック』に変わります。」 2) 「看板、ホームページ、院内掲示、予約画面、診察券などの表記が、順次『にんにんキッズクリニック』へ変わります。」 3) 「4月からすでに始まっていますが、アレルギー診療、20時までの診療、日曜・祝日の診療を拡充しています。」 At the bottom of this card add exactly 4 small icons: a clinic website monitor, a smartphone, a patient card, and a moon badge saying 「20:00まで」.
+
+Center card: Green-titled rounded card labeled 「変わらないこと」 with a heart icon. Include exactly 6 bullet points in Japanese: 1) 「引き続き、医療法人成育会が運営します。」 2) 「クリニックの場所と電話番号は変わりません。」 3) 「これまでの診療記録や予約情報は、そのまま引き継がれます。」 4) 「予約方法や受診方法も、基本的にはこれまで通りです」 5) 「診療は通常通り行います。」 6) 「現在お持ちの診察券はそのままご利用いただけます。※診察券は順次切り替え予定です」 Add a final smaller note: 「診療体制や担当医に変更がある場合は、別途ご案内します。」
+
+Right mascot area: Place a speech bubble above the mascot with the text 「これからもよろしくお願いします！」 and a small pink heart. Below it draw a cute panda pediatric doctor mascot wearing a dark ninja-style headband, white doctor coat, stethoscope, and holding a small clipboard; label underneath 「{argument name="mascot name" default="リーリー先生"}」. Add exactly 3 small decorative elements around the mascot: 1 pink heart, 1 grass tuft on the left, 1 grass tuft on the right.
+
+Bottom message: Add a large rounded white message box with a dotted orange border and decorative flowers. Include the centered Japanese message: 「名称は変わりますが、これからも変わらず、地域の皆様のかかりつけ医として、子どもたちとご家族に寄り添う診療を続けていきます。」 Emphasize the phrase 「子どもたちとご家族に寄り添う診療」 in pink. Around this box add exactly 4 floral/heart decorations: a pink heart flower on the left, two small blue flowers on the right, and green leaves.
+
+Footer: Along the very bottom show rolling green hills with small flowers and a tiny centered clinic logo reading 「にんにんキッズクリニック」 with a small panda face.
+
+Visual style: Friendly Japanese pediatric clinic flyer, clean vector art, rounded typography, pastel blue, navy, orange, pink, and green palette, highly legible Japanese text, no photorealism, no clutter, no watermark. Keep all text sharp and correctly spelled.
+```
+
+**来源：** [@シャック🦈｜AIショートMV](https://x.com/SHACK_SAME_SAME/status/2072264983279456610) | 2026-07-01
+
+---
+
+### 🎴 例 2922：日本创作者个人品牌海报
+
+![日本创作者个人品牌海报](../../images/%E6%97%A5%E6%9C%AC%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为网页创作者/开发者创作一张醒目的日本个人品牌海报，融合编辑风格摄影、创业公司风格排版以及亮蓝色图形点缀。
+
+画布：方形 1:1 海报，高分辨率，左上角为干净的白色背景，右侧及下方区域为城市屋顶户外照片。使用强对比度、清晰的日光效果以及现代科技广告风格。
+
+主体：一位时尚的日本年轻男性，名为 {argument name="character name" default="Rita"}，随意地坐在屋顶或城市露台上，主要位于图像右半部分。他留着凌乱的中长黑发，戴着黑色墨镜，露出自信且放松的微笑，身穿黑色飞行员夹克，内搭带有鲜艳蓝色图案的黑色 T 恤，下身穿黑色长裤，佩戴银色项链、戒指和手链。他的身体略微向左倾斜，一只膝盖抬起，一只手自然地放在前景附近。背景是明亮日光下的模糊城市建筑。
+
+布局：将超大号日文标题排版放在左上角，垂直堆叠为四行醒目的黑色文字。保持主体面部在右上角清晰可见。添加一条从左中向右上边缘延伸的细电光蓝对角线，以及另一条穿过左下/中间区域的蓝色对角线。在左下角名字区块后方添加一个大的蓝色半圆或色块。在右下角添加一个大的、随性的手写电光蓝签名，部分覆盖在主体的腿部。
+
+文本内容：使用 7 组可见文本：1) 左侧巨大的黑色日文主标题：{argument name="headline text" default="最短距離で、つくる。"}；2) 下方的小号黑色副标题：{argument name="subheadline text" default="完璧主義じゃなくて、完了主義。"}；3) 短日文行：“速く出して、磨いていく。”；4) 小号蓝色英文行：“FAST IDEAS, REAL BUILD.”；5) 左下角白色名字区块：“Rita” 及下方的 “/ リタ”；6) 白色职位行：{argument name="role text" default="Web制作者｜個人開発者"}；7) 小号白色联系方式：“@RitaStella1128” 和 “ritastella.com”。
+
+视觉风格：高端日本创作者个人资料广告，干净的粗体无衬线日文标题，大号名字采用优雅的衬线字体，蓝色签名采用手写体，天空区域带有微妙的半调/点状纹理叠加，采用锐利的黑-白-蓝配色方案，充满活力且简洁明快。
+
+约束：保持标题在左侧非常巨大且占据主导地位，不要用文字遮挡面部，严格保留列出的 7 组文本，避免添加额外的标志或水印，并确保所有排版清晰易读。
+
+[English]
+Goal: Create a bold Japanese personal-brand poster for a web creator/developer, mixing editorial photography with startup-style typography and bright blue graphic accents.
+
+Canvas: Square 1:1 poster, high-resolution, clean white background in the upper left and an outdoor city rooftop photo occupying the right and lower areas. Use strong contrast, crisp daylight, and a modern tech-advertising look.
+
+Main subject: A stylish young Japanese man named {argument name="character name" default="Rita"} sitting casually on a rooftop or urban terrace, positioned mostly on the right half of the image. He has messy medium-length black hair, black sunglasses, a relaxed confident smile, a black bomber jacket over a black T-shirt with a vivid blue graphic, black pants, silver necklace, rings, and a bracelet. His body is angled slightly left, one knee raised, one hand relaxed near the foreground. Behind him are blurred city buildings under bright daylight.
+
+Layout: Put oversized Japanese headline typography on the upper left, stacked vertically in four bold black lines. Keep the subject’s face clear on the upper right. Add a thin electric-blue diagonal line running from the left-middle toward the upper-right edge, plus another blue diagonal line crossing the lower-left/middle area. Add a large blue semicircle or blob in the lower-left corner behind the name block. Add a large loose handwritten electric-blue signature across the lower-right corner, partially overlapping the subject’s legs.
+
+Text content: Use exactly 7 visible text groups: 1) main headline in huge black Japanese text: {argument name="headline text" default="最短距離で、つくる。"}; 2) small black subheadline under it: {argument name="subheadline text" default="完璧主義じゃなくて、完了主義。"}; 3) short Japanese line: "速く出して、磨いていく。"; 4) small blue English line: "FAST IDEAS, REAL BUILD."; 5) lower-left name block in white: "Rita" and below it "/ リタ"; 6) role line in white: {argument name="role text" default="Web制作者｜個人開発者"}; 7) contact text in small white: "@RitaStella1128" and "ritastella.com".
+
+Visual style: High-end Japanese creator profile advertisement, clean sans-serif Japanese headline with heavy weight, elegant serif for the large name, handwritten script for the blue signature, subtle halftone/dotted texture overlay in the sky area, sharp black-white-blue color palette, energetic but uncluttered.
+
+Constraints: Keep the headline very large and dominant on the left, do not cover the face with text, preserve exactly the 7 text groups listed, avoid extra logos or watermarks, and make all typography legible.
+```
+
+**来源：** [@Rita/リタ｜個人開発](https://x.com/RitaStella1128/status/2072251081355411768) | 2026-07-01
+
+---
+
+### 🎴 例 2928：极简主义东京夜景旅行海报
+
+![极简主义东京夜景旅行海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="location" default="Tokyo"} 夜间小巷（灵感源自黄金街 / 思出横丁）
+主要构图：
+中心构图展现了一条充满氛围感的狭窄小巷，布满了小型居酒屋、拉面馆、灯笼点缀的店面、自行车、自动贩卖机、暖帘以及堆叠的“项目”。
+前景包含悠闲穿行于小巷中的上班族、情侣、独自用餐者、摄影师、学生和当地居民。
+人物穿着地道的当代街头服饰，动作自然，互动真实。
+背景展现了密集的建筑层次，包括电线杆、架空电缆、阳台、空调外机、灯笼、餐厅入口、手写菜单“项目”以及传统与现代交织的城市纹理。
+屋顶之间隐约可见远处的城市地标，且不会喧宾夺主。
+所有店面和招牌均使用地道的当地字体。
+顶部居中大标题：“{argument name="title" default="TOKYO"}”
+底部副标题：“{argument name="subtitle" default="東京"}”
+风格：
+超简洁矢量插画
+瑞士现代主义旅行海报
+日式编辑插画
+建筑线条画
+中世纪平面设计
+极简城市品牌设计
+单线精度
+印刷级矢量美学
+高端旅游宣传
+线条风格：
+超细单色线条
+密集的建筑细节
+简洁的几何透视
+招牌、灯笼、电缆、自行车和店面的节奏感重复
+出色的留白处理
+城市地图般的精准度
+色彩系统：
+仅使用单色墨水
+暖象牙色纸张背景
+深朱红色墨水
+丝网印刷美学
+无渐变
+无霓虹光效
+氛围：
+温暖的夜晚氛围
+静谧的城市活力
+地道的社区风情
+时尚的夜生活
+精致的设计
+永恒的旅行海报
+输出：
+竖版 4:5 海报
+超精细 8K 分辨率
+矢量级渲染
+可直接印刷
+
+[English]
+{argument name="location" default="Tokyo"} Night Alley (Golden Gai / Omoide Yokocho Inspired)
+MAIN COMPOSITION:
+Central composition features a narrow atmospheric alley filled with tiny izakayas, ramen bars, lantern-lit storefronts, bicycles, vending machines, noren curtains, and stacked signboards.
+Foreground includes office workers, couples, solo diners, photographers, students, and local residents casually walking through the alley.
+People wear authentic contemporary street fashion with subtle movement and natural interaction.
+Background reveals dense architectural layering with utility poles, overhead electrical cables, balconies, air-conditioning units, lanterns, restaurant entrances, handwritten menu boards, and traditional-modern urban textures.
+A distant glimpse of a city landmark subtly appears between rooftops without dominating the composition.
+Use authentic local typography throughout every storefront and sign.
+Large centered title at the top: "{argument name="title" default="TOKYO"}"
+Subtitle at the bottom: "{argument name="subtitle" default="東京"}"
+STYLE:
+Ultra-clean vector illustration
+Swiss modernist travel poster
+Japanese editorial illustration
+Architectural line drawing
+Mid-century graphic design
+Minimalist city branding
+Monoline precision
+Print-quality vector aesthetic
+Premium tourism campaign
+LINE STYLE:
+Ultra-thin monochrome linework
+Dense architectural detailing
+Clean geometric perspective
+Rhythmic repetition of signs, lanterns, cables, bicycles, and storefronts
+Exceptional negative space
+City-map precision
+COLOR SYSTEM:
+Single ink color only
+Warm ivory paper background
+Deep vermilion red ink
+Silkscreen print aesthetic
+No gradients
+No neon glow
+MOOD:
+Warm evening atmosphere
+Quiet urban energy
+Authentic local neighborhood
+Stylish nightlife
+Sophisticated design
+Timeless travel poster
+OUTPUT:
+Vertical 4:5 poster
+Ultra-detailed 8K
+Vector-quality rendering
+Print-ready
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2072218912377499710) | 2026-07-01
+
+---
+
+### 🎴 例 2943：东方禅意极简海报
+
+![东方禅意极简海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：高对比明亮型
+主体内容：{argument name="主体" default="一位撑着亮红油纸伞的人物剪影从白墙前经过"}
+情绪母题：雨后、含蓄、静中有故事
+场景与意象：暖白墙面、亮红油纸伞、钴蓝雨后地面反光、几道竹影
+构图与空间：一角留白构图，人物位于画面下方偏侧，白墙占据大面积空间，地面形成少量蓝色反光
+色彩控制：暖白用于墙面和留白，亮红只用于油纸伞，钴蓝用于雨后地面少量反光，墨绿用于极少竹影；避免全图泛红或蓝色过重
+光线与质感：雨后自然光，墙面轻肌理，地面微反光，边缘清晰
+画幅比例：{argument name="比例" default="9:16"}
+补充要求：人物只保留简洁剪影，伞是第一视觉点，画面明亮干净，有新中式封面感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2072153020544978977) | 2026-07-01
+
+---
+
+### 🎴 例 2948：电影感油画风格武术海报
+
+![电影感油画风格武术海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+電影質感繪畫風格海報 Cinematic Painterly Poster {argument name="主题" default="Muay Thai 泰拳"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2072138950702252334) | 2026-07-01
+
+---
+

@@ -2294,3 +2294,129 @@ Constraints: Use exactly 3 layer example cards, exactly 3 mini layer rows, exact
 
 ---
 
+### 📊 例 2895：七夕动漫 7 月日历
+
+![七夕动漫 7 月日历](../../images/%E4%B8%83%E5%A4%95%E5%8A%A8%E6%BC%AB%207%20%E6%9C%88%E6%97%A5%E5%8E%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版动漫风格的 7 月问候日历插画，主角为 {argument name="character name" default="Meru"}，一位原创少女角色，在夜晚的七夕竹枝下祈祷。
+
+画布：高比例智能手机壁纸格式，约为 9:16，细节丰富，电影级光影，无边框或水印。
+
+主体：一位美丽的动漫金发少女，留着长波浪卷发，拥有紫罗兰色的眼睛，以四分之三侧面朝向右上方，双手合十，姿态温柔地祈祷。她穿着华丽的 {argument name="dress color" default="玫瑰粉与黑色"} 哥特洛丽塔风格浴衣，配有蕾丝花边、露肩荷叶袖、层叠丝带、巨大的腰间蝴蝶结、黑色蕾丝装饰和宝石首饰。她的头发部分盘起，饰有巨大的黑色蕾丝蝴蝶结、粉色玫瑰发饰、小羽毛和装饰性丝带。表情柔和、充满希望且略带憧憬。
+
+背景：梦幻般的七夕夜景，背景是生动的银河星空。天空呈现深靛蓝色和紫色，繁星点点，发光的星云缭绕，明亮的星团从左上角向中心斜向延伸。下方展示柔和的虚化灯光，远处隐约可见水边祭典的氛围。
+
+竹枝与装饰：在右上角和左上角添加竹枝作为边框，长长的绿叶上带有蓝色和粉色的轮廓光。包含 6 条清晰可见的悬挂式许愿签：右上角枝条附近 2 条，右侧中部 1 条浅色签，右下角 1 条局部浅色签，左侧 1 条粉色签，顶部边缘附近 1 条部分可见的紫色签。许愿签上应包含细小的竖排手写日式文字，具有装饰性但无需完全清晰可辨。
+
+日历叠加层：在左下角放置一个精致的半透明日历设计，对应 {argument name="calendar month" default="2026 年 7 月"}。包含一个优雅的小标题“2026”，一个大号的“7”和“July”。下方包含 7 列工作日行，标签严格标注为“SUN MON TUE WED THU FRI SAT”，随后是 2026 年 7 月的 31 个日期数字：第一行从周三开始，依次为 1、2、3、4；随后是 5–11、12–18、19–25 和 26–31。使用纤细的白色衬线字体，周日略带粉色，周六略带蓝色。在日历上方和下方添加细小的装饰性花纹。
+
+光影与风格：超精细的日本动漫插画，光泽感绘画渲染，明亮的轮廓光，柔和的粉色和蓝色高光，柔和的景深，闪烁的粒子，浪漫的奇幻氛围，发丝、蕾丝、丝带、褶皱和星空的细节丰富。保持构图优雅且呈竖向，角色占据中心和下半部分，银河占据左上方，竹枝位于右侧，日历位于左下角且不突兀。
+
+限制：无额外角色，前景中无现代城市物体，无 Logo，无水印，除日历外无大号文字。保持梦幻般的七夕 7 月问候氛围，并包含可选的问候主题 {argument name="seasonal greeting" default="下半年充满希望的开始"}。
+
+[English]
+Goal: Create a vertical anime-style July greeting calendar illustration featuring {argument name="character name" default="Meru"}, an original young woman character, praying beneath Tanabata bamboo at night.
+
+Canvas: Tall smartphone wallpaper format, approximately 9:16, richly detailed, cinematic lighting, no border or watermark.
+
+Main subject: A beautiful blonde anime girl with long wavy hair and violet eyes stands in three-quarter profile facing upward to the right, hands clasped in a gentle prayer pose. She wears an ornate {argument name="dress color" default="rose pink and black"} gothic-lolita yukata-inspired dress with lace trim, off-shoulder ruffled sleeves, layered ribbons, a large waist bow, black lace accents, and gemstone jewelry. Her hair is partly tied back with a large black lace bow, pink rose hair ornament, small feathers, and decorative ribbons. Expression is soft, hopeful, and slightly wistful.
+
+Background: A magical Tanabata night scene under a vivid Milky Way sky. The sky is deep indigo and violet with countless stars, glowing nebula clouds, and a bright star cluster stretching diagonally from upper left toward center. Below, show soft bokeh lights and a reflective waterside festival atmosphere in the distance.
+
+Bamboo and decorations: Add bamboo branches framing the upper right and left edges, with long green leaves catching blue and pink rim light. Include exactly 6 visible hanging paper wish strips: 2 near the upper right branch, 1 mid-right pale strip, 1 lower-right partial pale strip, 1 left-side pink strip, and 1 partially visible purple strip near the top edge. The wish strips should contain small vertical handwritten Japanese-style writing, decorative but not fully legible.
+
+Calendar overlay: At the lower left, place a refined translucent calendar design for {argument name="calendar month" default="July 2026"}. Show a small elegant heading with “2026”, a large “7”, and “July”. Below it, include a 7-column weekday row labeled exactly “SUN MON TUE WED THU FRI SAT”, followed by exactly 31 date numbers laid out for July 2026: first row starts under Wednesday with 1, 2, 3, 4; then rows 5–11, 12–18, 19–25, and 26–31. Use thin white serif typography, with Sundays subtly pink and Saturdays subtly blue. Add tiny ornamental flourishes above and below the calendar.
+
+Lighting and style: Ultra-detailed Japanese anime illustration, glossy painterly rendering, luminous rim lighting, soft pink and blue highlights, gentle depth of field, sparkling particles, romantic fantasy mood, high detail in hair strands, lace, ribbons, fabric folds, and starry sky. Keep the composition elegant and vertical, with the character occupying the center and lower half, the galaxy dominant in the upper left, bamboo on the right, and the calendar unobtrusive at bottom left.
+
+Constraints: No extra characters, no modern city objects in the foreground, no logo, no watermark, no large text besides the calendar. Maintain a dreamy July Tanabata greeting atmosphere with the optional greeting theme {argument name="seasonal greeting" default="a hopeful start to the second half of the year"}.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2072325056634740820) | 2026-07-01
+
+---
+
+### 📊 例 2909：摩洛哥足球实力儿童信息图
+
+![摩洛哥足球实力儿童信息图](../../images/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%B6%B3%E7%90%83%E5%AE%9E%E5%8A%9B%E5%84%BF%E7%AB%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为儿童创作一张活泼的日本教育信息图，解释 {argument name="headline topic" default="为什么摩洛哥足球这么强？"}。使其看起来像是一份家长和孩子可以一起阅读的彩色学校讲义。
+
+画布：竖版肖像信息图，白色背景，粗圆角红/绿/蓝边框，俏皮的漫画风格插图，高可读性，明亮的基色，简洁的矢量风格绘图，2D 卡通风格，非写实。
+
+顶部标题：顶部横跨醒目的粗体日文标题：「どうしてモロッコはサッカーで強いの？」（为什么摩洛哥足球这么强？），其中「モロッコ」（摩洛哥）和「サッカーで強い」（足球强）用红绿色强调。下方是一个蓝色丝带副标题：「ヨーロッパとのつながりがポイント！」（与欧洲的联系是关键！）。左上角放置一面飘扬的摩洛哥国旗，右上角放置一名穿着摩洛哥红色足球服、怀抱足球的微笑男孩。
+
+布局：使用 5 个带编号的主板块和 4 张带字母的小型解释卡片。页面应内容丰富但组织有序，像儿童百科全书信息图一样。
+
+板块 1，左上角，红色编号徽章「①」：标题「どうしてモロッコ人はヨーロッパにいるの？」（为什么摩洛哥人会在欧洲？）。包含三个红色要点，解释摩洛哥与法国和西班牙的历史渊源，许多人在就业不足时前往欧洲学习或工作，家庭在那里定居，因此子女和孙辈在欧洲长大。展示一张简单的西欧和北非地图，标注「フランス」（法国）、「スペイン」（西班牙）、「オランダ」（荷兰）、「ジブラルタル海峡」（直布罗陀海峡）和「モロッコ」（摩洛哥），并用红色箭头标出从摩洛哥指向西班牙、法国和荷兰的方向。添加小标题：「モロッコはアフリカの北西にある国」（摩洛哥是位于非洲西北部的国家）。
+
+板块 2，右上角，绿色编号徽章「②」：标题「その子どもはモロッコ人になれるの？」（他们的孩子能成为摩洛哥人吗？）。包含两个绿色要点，解释如果父亲或母亲是摩洛哥人，孩子也拥有摩洛哥国籍，即使出生在西班牙也可能代表摩洛哥参赛。展示一个由 3 人组成的幸福家庭：父亲、母亲和幼子。添加 3 个身份物品：一本标注「ROYAUME DU MAROC PASSPORT」的摩洛哥护照、一面摩洛哥国旗和一面西班牙国旗。包含一个虚线框，标注「国籍＝どこの国の人か、というきまり」（国籍＝关于属于哪个国家的规定）。
+
+中心板块 3，大型，蓝色编号徽章「③」：标题「だから強い！」（所以才强大！）。展示 3 名穿着红色球衣、绿色短裤的摩洛哥足球运动员在超大足球前奋力奔跑。他们的球衣号码分别是 2、7 和 17。在他们周围添加黄色闪光标记。
+
+板块 3 周围的字母卡片：创建 4 张蓝色边框的卡片，分别标注 A、B、C 和 D。卡片 A 标题「ヨーロッパで育つ」（在欧洲成长），展示 2 名儿童在带有锥筒和教练氛围的欧洲足球场上训练；文字说明强大的俱乐部和训练使他们足球水平很高。卡片 B 标题「モロッコ代表をえらべる」（可以选择摩洛哥国家队），展示一件印有 10 号的红色摩洛哥球衣，以及一颗包含绿色摩洛哥五角星的红心；文字说明如果他们的根在摩洛哥，就有机会成为摩洛哥代表。卡片 C 标题「チームがまとまっている」（团队凝聚力强），展示 5 名穿着红色球衣的球员从背后围成一圈，可见号码包括 6 和 10；文字说明每个人在攻防中都通力合作。卡片 D 标题「国も育成に力を入れている」（国家也致力于青训），展示一所足球学校建筑和训练场；文字说明国家正在建设足球学校和训练基地。
+
+板块 4，左下角，红色编号徽章「④」：标题「どうしてスペイン代表じゃなくて、モロッコ代表？」（为什么是摩洛哥代表而不是西班牙代表？）。制作一张对比两种路径的插图：左侧标注「スペイン代表」（西班牙代表）配以忧虑的男孩和暗示竞争激烈的灰色剪影；右侧标注「モロッコ代表」（摩洛哥代表）配以穿着摩洛哥球衣、向上指的快乐男孩。包含要点文字，解释进入西班牙国家队很困难，代表摩洛哥可能提供更好的参加大型比赛的机会，且球员可能希望为自己家族根源的国家效力。
+
+板块 5，右下角，绿色编号徽章「⑤」：标题「まとめ」（总结）。使用三行图标：3 个小孩子、一次握手和一个奖杯。总结文字应说明摩洛哥有许多在欧洲长大的球员，这些球员团结成摩洛哥国家队，因此即使在世界杯上也表现强劲。用红色强调最后一行：「だからワールドカップでも強い！」（所以即使在世界杯上也依然强大！）。
+
+底部公式条：一个红色圆角标签「ひとことでいうと」（一言以蔽之），后跟粗体彩色等式：「ヨーロッパで育った力 ＋ モロッコ代表としての団結 ＝ 強さ！」（在欧洲成长的力量 ＋ 作为摩洛哥代表的团结 ＝ 强大！）。
+
+视觉风格：明亮的日本儿童信息图，粗轮廓，可爱的表情，简单的地理地图，圆角面板，醒目的手写风格日文字体，红/绿/蓝配色方案与摩洛哥和足球相呼应。保持所有文字清晰易读，避免添加无关事实或额外板块。
+
+[English]
+Goal: Create a cheerful Japanese educational infographic for children explaining {argument name="headline topic" default="どうしてモロッコはサッカーで強いの？"}. Make it look like a colorful school handout that a parent and child could read together.
+
+Canvas: Vertical portrait infographic, white background, thick rounded red/green/blue panel borders, playful manga-style illustrations, high readability, bright primary colors, clean vector-like drawing, 2D cartoon style, no photorealism.
+
+Top header: Large bold Japanese headline across the top: 「どうしてモロッコはサッカーで強いの？」 with 「モロッコ」 and 「サッカーで強い」 emphasized in red and green. Under it, a blue ribbon subtitle: 「ヨーロッパとのつながりがポイント！」. Place a waving Morocco flag on the top left and a smiling boy in a red Morocco soccer jersey holding a soccer ball on the top right.
+
+Layout: Use exactly 5 numbered main sections plus 4 smaller lettered explanation cards. The page should be dense but organized, like a kids’ encyclopedia infographic.
+
+Section 1, upper left, red numbered badge 「①」: Title 「どうしてモロッコ人はヨーロッパにいるの？」. Include three red bullet points explaining that Morocco has historic links with France and Spain, many people went to Europe for study or work when there were not enough jobs, and families settled there so children and grandchildren grew up in Europe. Show a simple map of western Europe and north Africa with labels for 「フランス」, 「スペイン」, 「オランダ」, 「ジブラルタル海峡」, and 「モロッコ」, with red arrows from Morocco toward Spain, France, and the Netherlands. Add a small caption: 「モロッコはアフリカの北西にある国」.
+
+Section 2, upper right, green numbered badge 「②」: Title 「その子どもはモロッコ人になれるの？」. Include two green bullet points explaining that if a father or mother is Moroccan, the child also has Moroccan nationality, and even if born in Spain they may represent Morocco. Show a smiling family of exactly 3 people: father, mother, and young boy. Add exactly 3 identity objects: a Moroccan passport labeled 「ROYAUME DU MAROC PASSPORT」, a Morocco flag, and a Spain flag. Include a dotted box labeled 「国籍＝どこの国の人か、というきまり」.
+
+Center section 3, large, blue numbered badge 「③」: Title 「だから強い！」. Show exactly 3 energetic Moroccan soccer players in red jerseys and green shorts running forward in front of an oversized soccer ball. Their jersey numbers are exactly 2, 7, and 17. Add small yellow sparkle marks around them.
+
+Lettered cards around section 3: Create exactly 4 blue-framed cards labeled A, B, C, and D. Card A title 「ヨーロッパで育つ」, showing exactly 2 children training on a European soccer field with cones and a coach-like atmosphere; text says strong clubs and training make them very good at soccer. Card B title 「モロッコ代表をえらべる」, showing a red Morocco jersey with number 10 and a red heart containing the green Moroccan star; text says if their roots are Moroccan, there is a path to become a Morocco representative. Card C title 「チームがまとまっている」, showing exactly 5 players in red jerseys huddling from behind, with visible numbers including 6 and 10; text says everyone cooperates in defending and attacking. Card D title 「国も育成に力を入れている」, showing a soccer school building and practice field; text says the country builds soccer schools and training grounds.
+
+Section 4, lower left, red numbered badge 「④」: Title 「どうしてスペイン代表じゃなくて、モロッコ代表？」. Make a split illustration comparing two routes: left label 「スペイン代表」 with a worried boy and gray silhouettes suggesting competition is hard; right label 「モロッコ代表」 with a happy boy pointing upward in a Morocco jersey. Include bullet text explaining that entering Spain’s national team is difficult, representing Morocco may offer a better chance to play in big tournaments, and the player may want to play for the country of their family roots.
+
+Section 5, lower right, green numbered badge 「⑤」: Title 「まとめ」. Use three rows with icons: exactly 3 small children, a handshake, and a trophy. Summary text should say Morocco has many players who grew up in Europe, those players unite as the Morocco national team, and therefore they are strong even at the World Cup. Emphasize the final line in red: 「だからワールドカップでも強い！」.
+
+Bottom formula strip: A red rounded label 「ひとことでいうと」 followed by the equation in bold colors: 「ヨーロッパで育った力 ＋ モロッコ代表としての団結 ＝ 強さ！」.
+
+Visual style: Bright Japanese children’s infographic, thick outlines, cute expressive faces, simple geography map, rounded panels, bold handwritten-style Japanese fonts, red/green/blue color coding matching Morocco and soccer. Keep all text legible and avoid adding unrelated facts or extra sections.
+```
+
+**来源：** [@ML_Bear](https://x.com/MLBear2/status/2072298411978903768) | 2026-07-01
+
+---
+
+### 📊 例 2926：韩式涂鸦编辑插画
+
+![韩式涂鸦编辑插画](../../images/%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简单可爱的韩式涂鸦编辑插画，主题为 {argument name="topic" default="一个温馨的日常生活瞬间"}。风格：手绘涂鸦卡通，极简编辑信息图插画，干净的黑色墨水轮廓，略带不完美的素描线条，扁平化 2D 构图，极简线条艺术，大面积留白，仅使用柔和温暖的淡彩作为点缀。场景：围绕 [TOPIC] 设计一个温馨的日常生活瞬间，主角为一位年轻韩国女性。使用简单的背景，仅包含与主题相关的必要物品和道具。人物：可爱简洁的比例，极简的面部特征，轻松的小微笑，自然的姿态，简单的休闲装，克制的涂鸦人物风格。构图：垂直 3:4 比例，平视视角，主体置于一侧或下方区域，另一侧留出大面积空白，布局稀疏通透。物品：极简涂鸦风格道具，如书籍、咖啡杯、植物、雨伞、标志、云朵、爱心、便签、窗户等。排版：在空白处添加少量英文手写文字。氛围：平静、温馨、温暖、宁静、可爱。避免：水彩画、动漫风格、写实光影、电影级渲染、复杂的透视、高细节、密集的构图、奢华海报感、绘画质感、过度渲染的人物。
+
+[English]
+Create a simple and cute Korean doodled editorial illustration based on {argument name="topic" default="a cozy everyday moment"}. Style: hand-drawn doodle cartoon, minimal editorial infographic illustration, clean black ink outlines, slightly imperfect sketchy lines, flat 2D composition, minimal line art, large clean white negative space, soft warm pastel accent colors only. Scene: design a cozy everyday moment around [TOPIC] featuring one young Korean woman. Use a simple background with only essential objects and props related to the topic. Character: cute simplified proportions, minimal facial features, small relaxed smile, natural pose, simple casual outfit, restrained doodle character style. Composition: vertical 3:4 ratio, eye-level view, main subject placed on one side or lower area, large empty space on the opposite side, sparse and airy layout. Objects: minimal doodle-style props such as books, coffee cups, plants, umbrellas, signs, clouds, hearts, notes, windows, etc. Typography: add small English handwritten text in the empty space. Mood: calm, cozy, warm, quiet, cute. Avoid: watercolor painting, anime style, realistic lighting, cinematic rendering, complex perspective, high detail, dense composition, luxury poster mood, painterly textures, over-rendered characters.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2072237844794585184) | 2026-07-01
+
+---
+

@@ -7455,3 +7455,369 @@ Create a highly detailed cinematic paleoart landscape showing a wet, alien-looki
 
 ---
 
+### 🏷️ 例 2875：日出时分的皇家动漫法师
+
+![日出时分的皇家动漫法师](../../images/%E6%97%A5%E5%87%BA%E6%97%B6%E5%88%86%E7%9A%84%E7%9A%87%E5%AE%B6%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版高细节动漫奇幻主视觉图，展现两位皇家法师在日出时分一座充满戏剧感的魔法城市中的场景。前景中，放置 {argument name="female character" default="一位年轻的紫发公主法师"}，她面向右前方，表情专注，拥有明亮的紫色双眼、一头飘逸的深紫色长发，并佩戴着镶嵌紫绿色宝石的华丽金丝头饰。她身穿奢华的黑白紫三色长袍，饰有厚重的金色刺绣、多层项链、垂坠耳环、宝石装饰和闪亮的饰边。她斜握着一根横跨画面下半部分的黑金长法杖；法杖顶端镶嵌着一颗巨大的多面祖母绿宝珠，并带有华丽的金色新月装饰，散发出明亮的霓虹绿色圆形法术环、螺旋状能量带和闪烁的粒子。在她左后方，展示 {argument name="male character" default="一位黑发王子术士"}，他以四分之三侧面示人，回首望去，眼神锐利，留着凌乱的黑发，身披饰有金色花卉刺绣和发光红色火星的高领深红色斗篷。他抬起的手施展出深红黑色的魔法卷须，像墨水与火焰般在左上方天空中盘旋。背景：一座广阔的奇幻王国，右侧是密集的屋顶和一座高耸且光芒四射的白金城堡，远处是群山，天空呈现出绚丽的蓝色，伴有温暖的日出云彩和镜头光晕。采用超精致的日本轻小说封面风格，电影级构图，色彩鲜艳饱和，珠宝与布料细节繁复，头发与长袍随风飘动，画面中充满闪烁的魔法粒子，边缘光效果强烈，对比度高，焦点清晰，营造出史诗般的浪漫奇幻氛围。画面中必须严格保持两位主角、一根华丽法杖、一座城堡，法杖周围环绕绿色魔法，男性术士周围环绕红黑色魔法。无文字，无 Logo，无水印。
+
+[English]
+Create a vertical 3:4 high-detail anime fantasy key visual featuring two royal mages in a dramatic magical city at sunrise. In the foreground, place {argument name="female character" default="a young violet-haired princess mage"} facing forward-right with an intense expression, luminous purple eyes, long flowing deep purple hair, and an ornate gold filigree tiara set with purple and green jewels. Dress her in a luxurious white, black, and violet robe with heavy gold embroidery, layered necklaces, dangling earrings, gemstone ornaments, and sparkling trim. She grips a long black-and-gold magic staff diagonally across the lower half of the image; the staff has a large faceted emerald orb and ornate golden crescent details, emitting bright neon-green circular spell rings, spiraling ribbons of energy, and glittering particles. Behind her on the left, show {argument name="male character" default="a black-haired prince sorcerer"} in three-quarter profile looking over his shoulder with sharp eyes, tousled black hair, and a high-collared crimson cloak covered in gold floral embroidery and glowing red sparks. His raised hand casts dark red-black magical tendrils that curl across the upper left sky like ink and fire. Background: a vast fantasy kingdom with dense rooftops and a tall radiant white-gold castle on the right, mountains in the distance, and a brilliant blue sky with warm sunrise clouds and lens-flare sunlight. Use an ultra-polished Japanese light novel cover style, cinematic composition, vivid saturated colors, intricate jewelry and fabric detail, dynamic wind-swept hair and robes, sparkling magical particles everywhere, dramatic rim lighting, high contrast, sharp focus, and epic romantic fantasy atmosphere. Keep exactly two main characters, one ornate staff, one castle, green magic around the staff, and red-black magic around the male sorcerer. No text, no logo, no watermark.
+```
+
+**来源：** [@M1-pic🌈](https://x.com/M1_pic/status/2072432558273638783) | 2026-07-01
+
+---
+
+### 🏷️ 例 2886：极简悬浮产品摄影
+
+![极简悬浮产品摄影](../../images/%E6%9E%81%E7%AE%80%E6%82%AC%E6%B5%AE%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高级产品摄影，{argument name="object" default="物体"}，悬浮在极简的 {argument name="environment color" default="颜色"} 环境中，柔和阴影，影棚灯光，表面反射，超写实纹理，商业广告风格，超简洁构图
+
+[English]
+Premium product shot of {argument name="object" default="object"}, floating in a minimal {argument name="environment color" default="colour "} environment, soft shadows, studio lighting, reflections on surface, hyper-realistic textures, commercial advertising style, ultra-clean composition
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2072344325501972768) | 2026-07-01
+
+---
+
+### 🏷️ 例 2888：动漫餐厅用餐场景
+
+![动漫餐厅用餐场景](../../images/%E5%8A%A8%E6%BC%AB%E9%A4%90%E5%8E%85%E7%94%A8%E9%A4%90%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的动漫风格插画，描绘 {argument name="character name" default="一位年轻人"} 在温馨的日本餐厅中用餐，采用木质吧台的中景特写。角色是一位身材苗条的年轻成年人，留着凌乱的波浪状 {argument name="hair color" default="黑色头发"}，皮肤白皙，戴着黑色长方形眼镜，有着柔和的棕色眼睛，脸颊微微鼓起，仿佛正在咀嚼。他身穿深海军蓝色的超大款冬装外套，内搭黑色毛衣。他的左手拿着叉子，从一大盘带有香肠片和绿色装饰的红酱意大利面上挑起一小卷面条，右手则翻开一本色彩鲜艳的杂志或漫画，上面印有抽象的城市图形和伪日文字体。在吧台上放置 5 种主要的食物和饮品：1 大盘意大利面、1 个蓝白相间的白米饭碗、1 个黑色味噌汤碗（内有橙色汤底和绿色装饰）、1 小碟黄色腌菜，以及 1 杯透明的冰水。在左侧放置 4 瓶调味瓶：一个黄色瓶盖的酱汁瓶、一个红色瓶盖的酱汁瓶、一个蓝色瓶盖的酱汁瓶，以及一个深色的酱油瓶。背景是一个热闹的小餐馆或便利店式餐厅内部，有着温暖的夕阳灯光，左侧的大窗户可以看到明亮的城市街道和一个写着“23-7”的蓝色招牌，右侧的架子和柜台上堆放着碗、瓶子、盒装商品和一个微笑着的招财猫摆件。在吧台上方加入色彩鲜艳的菜单牌，上面带有日式风格的竖排文字，其中一个招牌类似于“7-11”，并点缀着亮粉色、青色、橙色和深蓝色。采用电影感的漫画构图、细腻的线条、生动的表情、饱和的色彩、强烈的轮廓光、温馨的杂乱感、浅景深，以及可爱的“边吃边读”氛围。请勿添加额外角色、写实风格、水印或英文解释性文字。
+
+[English]
+Create a vibrant anime-style illustration of {argument name="character name" default="a young man"} eating in a cozy Japanese diner, shown in a medium close-up at a wooden counter. The character is a slim young adult with messy wavy {argument name="hair color" default="black hair"}, pale skin, rectangular black glasses, soft brown eyes, and a slightly puffed cheek expression as if chewing. He wears a dark navy oversized winter jacket over a black sweater. He holds a fork in his left hand, lifting a small coil of spaghetti from a large plate of red-sauce pasta with sausage slices and green garnish, while his right hand holds open a colorful magazine or manga with abstract city graphics and pseudo-Japanese typography. Place exactly 5 main food and drink items on the counter: 1 large plate of spaghetti, 1 blue-and-white bowl of white rice, 1 black bowl of orange miso soup with green garnish, 1 small plate of yellow pickles, and 1 clear glass of ice water. Add exactly 4 condiment bottles clustered on the left side: a yellow-capped sauce bottle, a red-capped sauce bottle, a blue-capped sauce bottle, and a dark soy-sauce-style bottle. The background is a lively small restaurant or convenience-diner interior with warm sunset lighting, large windows on the left showing a bright city street and a blue sign reading “23-7,” shelves and counters on the right with stacked bowls, bottles, boxed goods, and a smiling lucky cat figurine. Include colorful menu placards above the counter with Japanese-inspired vertical lettering, one sign resembling “7-11,” and bright pink, teal, orange, and deep blue accents. Use a cinematic manga composition, detailed line art, expressive face, saturated colors, strong rim lighting, cozy clutter, shallow depth of field, and a cute “munching while reading” mood. Do not add extra characters, photorealism, watermark, or English explanatory captions.
+```
+
+**来源：** [@角煮星丸](https://x.com/_3912657840/status/2072340862546346276) | 2026-07-01
+
+---
+
+### 🏷️ 例 2891：带有韩文的动漫狼吉祥物
+
+![带有韩文的动漫狼吉祥物](../../images/%E5%B8%A6%E6%9C%89%E9%9F%A9%E6%96%87%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%8B%BC%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在深海军蓝背景上创建一个方形动漫风格的吉祥物肖像。画面中心为一位自信的拟人化狼角色，半身像，面向前方并略带四分之三侧角，嘴角上扬，戴着手套的一只手正指向观众。这只狼拥有尖尖的灰色皮毛、白色的脸颊和口鼻部皮毛、高耸的尖耳朵、锐利的蓝色眼睛、黑色的鼻子，表情顽皮。头顶佩戴一副带有黑色绑带的红色镜片蒸汽朋克护目镜。角色身穿白色未来感赛车夹克，配有红色条纹和灰色镶板装饰，脖子上围着一条深红色围巾，围巾向右飘动，末端带有金色流苏。采用精致的数字动漫渲染，线条清晰，赛璐珞风格柔和阴影，高对比度高光，呈现出略带光泽的游戏头像质感。在底部中央，添加醒目的青色韩文大字 {argument name="bottom text" default="엘베스"}，采用粗体无衬线字体，并带有细微阴影。构图保持简洁：仅包含 1 个狼吉祥物、1 副护目镜、1 条红围巾、1 个指向手势和 1 行底部文字标签。无额外角色，无水印，无边框。
+
+[English]
+Create a square anime-style mascot portrait on a dark navy blue background. Center a confident anthropomorphic wolf character from the waist up, facing forward with a slight three-quarter angle, smirking and pointing directly at the viewer with one gloved hand. The wolf has spiky gray fur, white cheek and muzzle fur, tall pointed ears, sharp blue eyes, a black nose, and a mischievous expression. Put red-lensed steampunk goggles with a black strap on top of the head. Dress the character in a white futuristic racing jacket with red stripes and gray panel accents, plus a deep red scarf wrapped around the neck, trailing to the right with a small gold tassel fringe at the end. Use polished digital anime rendering with clean line art, soft cel shading, high contrast highlights, and a slightly glossy game-avatar look. At the bottom, add large bold Korean text reading {argument name="bottom text" default="엘베스"} in bright cyan, blocky sans-serif lettering with a subtle shadow, centered beneath the character. Keep the composition simple: exactly 1 wolf mascot, 1 pair of goggles, 1 red scarf, 1 pointing hand gesture, and 1 bottom text label. No extra characters, no watermark, no border.
+```
+
+**来源：** [@Hyun-woo Park](https://x.com/lqez/status/2072329613095911475) | 2026-07-01
+
+---
+
+### 🏷️ 例 2894：足球电影预告片视觉圣经
+
+![足球电影预告片视觉圣经](../../images/%E8%B6%B3%E7%90%83%E7%94%B5%E5%BD%B1%E9%A2%84%E5%91%8A%E7%89%87%E8%A7%86%E8%A7%89%E5%9C%A3%E7%BB%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个正方形的导演视觉圣经，用于英格兰风格的足球淘汰赛电影预告片。输出效果应呈现为视频生成前制作交接项目的样式。
+
+[English]
+Create a square director visual bible for an England-inspired cinematic football knockout trailer. The output should look like a production handoff board made before video generation
+```
+
+**来源：** [@insMind](https://x.com/insmind_com/status/2072326336748703913) | 2026-07-01
+
+---
+
+### 🏷️ 例 2896：Roast Rice 品牌设计提案项目
+
+![Roast Rice 品牌设计提案项目](../../images/Roast%20Rice%20%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E6%8F%90%E6%A1%88%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+生成一张 9:16 竖版高清商业设计提案板，主题是【{argument name="主题" default="烧腊饭"}】外卖店铺装修案例。整体不是单张海报，而是一张完整、真实、可落地的餐饮品牌外卖视觉提案板，像专业品牌设计师为中式烧腊快餐门店制作的外卖店铺装修案例展示图，具备完整品牌系统感、平台落地感、商业展示感和作品集质感。
+
+店铺品类：
+{argument name="品类" default="广式烧腊 / 中式快餐 / 烧味盖饭 / 熟食外卖"}
+
+品牌设定：
+品牌名：{argument name="品牌名" default="炉火烧腊饭"}
+英文名：FIRE WOK ROAST RICE
+
+主打产品：
+- 招牌烧腊双拼饭
+- 叉烧烧鸭饭
+- 烧鹅叉烧饭
+- 油鸡烧肉饭
+- 三拼豪华烧腊饭
+- 例汤套餐
+- 港式冻饮 / 卤蛋配菜
+
+核心卖点文案：
+“一份集齐脆皮、酱香、肉汁与锅气的广式满足感”
+
+风格方向：
+高级广式烧腊感、港风烧味档升级版、真实外卖高转化视觉、烟火气与精致商业感并存、适合平台装修落地的中式快餐品牌系统
+
+主色调：
+{argument name="主色调" default="炭火枣红、焦糖琥珀棕"}
+
+辅助色：
+米白、暖金、墨绿、深黑灰
+
+版式结构必须完整、专业、清晰，像真实品牌提案板：
+1. 顶部案例标题区
+2. 一张大幅主视觉 Banner
+3. 一张辅助横幅 Banner
+4. 左下角手机端外卖店铺 mockup
+5. 右侧 6-8 张产品卡片矩阵
+6. 底部 4 个 STANDARD COLOR 标准色块
+
+整体版式要求：
+- 整张图是高端、清晰、规整的外卖店铺装修案例提案板
+- 主视觉 Banner 最大，手机端页面次之，产品卡片矩阵再次之，底部色板最小
+- 信息层级明确，留白合理，像 Behance / 品牌作品集里的高端餐饮案例
+- 画面不是普通菜单排版，也不是电商详情页截图，而是完整品牌提案视觉
+- 所有中文标题与英文辅助字都必须艺术化排版，符合烧腊饭主题，具有粤式老字号升级版气质，不能使用粗糙大黑体
+
+主视觉 Banner 设计：
+主画面突出一碗极具冲击力的【烧腊饭】。主角是一份丰盛的广式烧腊拼饭，整碗食物居中放大，肉类切件层次丰富，包含叉烧、烧鸭、烧鹅、脆皮烧肉或油鸡中的 2-3 种经典搭配。重点强化每种烧腊的专属质感：
+- 叉烧：边缘焦糖化，蜜汁油亮，红棕发亮，切面湿润
+- 烧鸭 / 烧鹅：皮层琥珀红棕，薄脆油亮，肉质厚实多汁
+- 脆皮烧肉：金黄酥脆气泡皮，肥瘦层次分明，肉香浓郁
+- 油鸡：鸡皮光滑柔亮，肉质细嫩，带少量葱油反光
+米饭颗粒分明、热气腾腾，淋有少量烧味酱汁，搭配青菜、腌萝卜、卤蛋或酸梅酱等精致配菜。可加入轻微悬浮动态感，如切片烧腊微微腾起、酱汁高光、蒸汽、芝麻细粒、滴落的蜜汁或油亮反光，但必须克制高级，不要像工程拆解图。背景可加入极弱化的港式烧味档元素，如暖铜色挂炉反光、深色木格、金属案台、暖黄灯影、炭火烟气，但绝不能抢主体。
+
+主标题可设计为：
+“烧腊饭”
+副标题可设计为：
+“现切现装 · 油香四溢 · 一口下饭到心里”
+英文辅助字：
+“CANTONESE ROAST RICE”
+字体必须兼具中式匾额感、港风招牌感和现代品牌排版感，中文有力度与设计感，英文精致、克制、有品牌识别度。
+
+辅助横幅 Banner：
+辅助横幅更偏套餐与场景导向，可展示双拼饭、三拼饭、例汤、冻柠茶、卤蛋等组合，强调“明炉烧味”“脆皮爆香”“堂食级口感外卖化”“午晚餐高转化爆款”等卖点。构图简洁、横向舒展，但依然保持统一品牌色系统与高级商业摄影感。
+
+手机端外卖店铺 mockup：
+左下角放置一台真实感手机端外卖首页 mockup，展示完整门店页面：
+- 店铺头像 / 品牌名
+- 顶部 banner
+- 招牌标签与卖点标签
+- 商品分类导航
+- 爆款产品列表
+- 套餐推荐区
+- 商品缩略图与活动入口
+手机 UI 必须清晰、真实、符合主流外卖平台浏览逻辑，但不要出现真实平台 logo、二维码、水印、乱码，也不要手机边缘扭曲或内容失真。整体像真实可上线的烧腊饭外卖店铺首页。
+
+右侧产品卡片矩阵：
+排布 6-8 张统一风格的产品卡片，内容可包括：
+- 招牌烧腊双拼饭
+- 叉烧烧鸭饭
+- 烧鹅叉烧饭
+- 油鸡烧肉饭
+- 三拼豪华饭
+- 例汤套餐
+- 卤蛋小菜组合
+- 港式冻饮套餐
+每张卡片都要像真实外卖商品卡，食物高清写实、商业摄影感强、风格统一。卡片可带极简菜名与价格区，但文字必须适度，不要过密。卡片背景、边框、阴影、圆角和留白保持统一高级感。
+
+底部 STANDARD COLOR 标准色块：
+底部放置 4 个品牌标准色块，像真实 VI 提案页中的颜色规范：
+- Roast Red Brown
+- Caramel Amber
+- Rice Ivory
+- Deep Jade Green
+色块设计规整、专业、简洁，强化整套品牌系统感。
+
+整体视觉细节强化：
+- 所有烧腊必须高清写实，重点放大脆皮、焦糖化、油润、切面、肉汁和酱香
+- 不要做成普通便当，不要显得廉价快餐
+- 整体要体现“港式烧味老档口升级版 + 外卖高转化品牌设计”
+- 画面既有高食欲冲击，也有完整品牌展示逻辑
+- 可加入少量岭南装饰图形，如窗棂线条、金色分隔线、印章感小图标、挂炉轮廓、牌匾结构元素，但必须克制
+- 所有中英文字都要像真实餐饮品牌案例中的标题系统，精致、有节奏、有作品感
+- 最终效果像一套真正可以用于外卖店铺装修、招商展示、作品集发布、品牌提案的高端中式快餐视觉方案
+
+风格关键词：
+premium Cantonese roast rice branding board, Chinese takeaway storefront design case, roast meat rice brand system, realistic food photography, glossy crispy skin texture, Hong Kong roast meat aesthetic, mobile app mockup, product card matrix, editorial presentation board, 9:16 vertical branding proposal, high-conversion takeaway design, cinematic warm lighting, premium fast-casual Chinese restaurant design
+
+负面提示词：
+真实平台 logo，二维码，水印，乱码，过多小字，廉价模板感，促销海报拼贴感，手机界面扭曲，食物变形，烧腊像普通便当配菜，脆皮不明显，颜色发灰发黑，低清晰度，卡通食物，塑料食物质感，版式杂乱，粗糙大黑体，俗气红黄促销风，低端快餐感，商品卡失真，缺乏品牌系统感
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2072324918801539216) | 2026-07-01
+
+---
+
+### 🏷️ 例 2900：可爱的纸艺风格重现
+
+![可爱的纸艺风格重现](../../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%8E%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请以 {argument name="style" default="纸艺风格"} 重现此图像，简化细节以使其更适合纸艺艺术呈现。调整构图，使其看起来柔和、平衡且赏心悦目，并带有 {argument name="vibe" default="可爱的美学"}。你还可以添加 {argument name="decorations" default="鸟类、蝴蝶和花朵等迷人的装饰元素"}，在忠实于原始图像的同时，增强整体的可爱氛围。
+
+[English]
+Recreate this image in a {argument name="style" default="paper craft style"} by simplifying the details so they work well as papercraft artwork. Adjust the composition to feel soft, balanced, and visually pleasing, with a {argument name="vibe" default="cute aesthetic"}. You may also add {argument name="decorations" default="charming decorative elements such as birds, butterflies, and flowers"} to enhance the overall adorable atmosphere while still staying faithful to the original image.
+```
+
+**来源：** [@Nas](https://x.com/Nas_tech_AI/status/2072319408379433066) | 2026-07-01
+
+---
+
+### 🏷️ 例 2932：雨中动漫女学生问候
+
+![雨中动漫女学生问候](../../images/%E9%9B%A8%E4%B8%AD%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%97%AE%E5%80%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格肖像插画，描绘一位在雨中亲切问候的开朗女学生。主体为 {argument name="character name" default="一位原创动漫女孩"}，画面采用中景构图（大腿以上），略微偏右，她笑容温暖，嘴巴微张，左手挥动，右手撑着一把透明雨伞。她留着长长的 {argument name="hair color" default="深海军蓝发色，发梢带有明亮的青色"}，留着直刘海，有着大而闪烁的绿松石色眼睛，脸颊微红，右侧头发上别着一个小海星发夹。她身穿日本水手校服：深海军蓝长袖上衣，带有红蓝条纹的白色水手领，红色领巾结，金色纽扣，胸前饰有一个小金锚挂件。雨伞为大型圆顶透明塑料材质，可见金属伞骨和黑色伞柄，伞面布满雨滴。
+
+场景设定在黄昏或夜晚狭窄的雨中城市小巷，采用冷蓝色环境光，地面湿润，有垂直的雨丝和地面倒影，远处有模糊的电线杆和架空电线，以及来自商店和交通灯的柔和散景光效。左侧加入粉色霓虹灯点缀，包括一个发光的云朵状招牌，左上角有明亮的粉白色霓虹手写日文问候语 {argument name="greeting text" default="こんにちわ"}，下方带有扫尾线条并以一颗小爱心结尾。整体氛围友好、可爱且具有电影感，呈现出高质量的现代动漫主视觉效果。运用丰富的细节、光泽的雨滴效果、柔和的辉光、明亮的倒影、浅景深以及鲜艳的蓝粉色彩对比。竖向构图，3:4 宽高比。避免出现额外角色、水印及手部畸变，确保画面中仅包含一名女孩、一把雨伞、一只挥动的手、一个海星发夹、一个霓虹云朵招牌以及一行手写问候语。
+
+[English]
+Create a polished anime-style portrait illustration of a cheerful schoolgirl saying hello in the rain. The main subject is {argument name="character name" default="an original anime girl"}, shown from about mid-thigh up, centered slightly right, smiling warmly with her mouth open and waving with her left hand while holding a clear transparent umbrella in her right hand. She has long flowing {argument name="hair color" default="deep navy blue hair with bright cyan tips"}, straight bangs, large sparkling turquoise-blue eyes, soft blush, and a small starfish-shaped hair clip on the right side of her hair. She wears a Japanese sailor school uniform: dark navy long-sleeve top, white sailor collar with red and navy stripes, red neckerchief bow, gold buttons, and a small gold anchor charm at the chest. The umbrella is large, dome-shaped, transparent plastic with visible metal ribs, a black central shaft, and many raindrops beading across the surface.
+
+Set the scene in a narrow rainy city alley at dusk or night, with cool blue ambient lighting, wet pavement, vertical rain streaks, reflections on the ground, blurred utility poles and overhead wires in the distance, and soft bokeh lights from shops and traffic. Add pink neon accents on the left side, including a glowing cloud-shaped sign and handwritten Japanese greeting text in bright white-pink neon at the top left reading {argument name="greeting text" default="こんにちわ"}, with a sweeping underline ending in a small heart. The mood should be friendly, cute, and cinematic, like a high-quality modern anime key visual. Use rich detail, glossy rain effects, soft bloom, luminous reflections, shallow depth of field, and vibrant blue-and-pink color contrast. Vertical composition, 3:4 aspect ratio. Avoid extra characters, avoid watermark, avoid distorted hands, keep exactly one girl, one umbrella, one waving hand, one starfish hair clip, one neon cloud sign, and one handwritten greeting line.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2072190117222166537) | 2026-07-01
+
+---
+
+### 🏷️ 例 2942：巴黎时尚生活方式插画
+
+![巴黎时尚生活方式插画](../../images/%E5%B7%B4%E9%BB%8E%E6%97%B6%E5%B0%9A%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅浪漫的巴黎时尚生活方式插画，画面中心为全身站立的 {argument name="character name" default="一位时髦的巴黎年轻女性"}，周围环绕着鲜花、糕点、香水、书籍和一辆复古自行车。
+
+画布：16:9 宽幅横向构图，采用温暖的奶油米色背景，光影柔和，呈现水彩与精致时尚编辑插画结合的风格。优雅、轻盈、女性化，营造出精致的复古巴黎氛围，配以细腻的墨线勾勒，色调为柔和的腮红粉、象牙白、棕褐色、海军蓝和黑色。
+
+主体：一位身材苗条的年轻女性，留着 {argument name="hair color" default="深棕色"} 卷发，梳着随意的凌乱盘发，面容柔和，微微转向右侧。身穿米色廓形西装外套，内搭黑白条纹上衣，下着高腰深海军蓝阔腿裤，脚穿带有金色五金件的黑色乐福鞋，佩戴精致首饰，手提一个黑色小号菱格纹手袋。她手中拿着 2 件食物/饮品：左手拿一个羊角面包，右手拿一杯外带咖啡。
+
+布局与物体：将女性置于画面中心偏右位置。左侧放置一个奶油色金属花桶，里面插满郁金香和绿植，花桶下方垫着一摞书。在花桶后方，绘制一个精致的埃菲尔铁塔素描，并配有手写体文字 {argument name="handwritten text" default="Paris mon amour"} 以及两颗小爱心。右侧放置一辆奶油色复古自行车，配有棕褐色皮革车座和把手；前方的柳条车篮里溢出郁金香，并挂着一张写有“Paris”的小标签。在自行车底部周围，添加一个大型编织购物袋、法棍面包、一本杂志、香水和甜点。
+
+明确清点可见的独立物体：1 位女性，1 辆自行车，2 处主要花艺布置，1 个埃菲尔铁塔素描，1 个羊角面包，1 杯外带咖啡，1 个黑色手袋，1 个左侧大型花桶，1 个柳条自行车篮，1 个编织购物袋，3 根可见的法棍面包，2 瓶香水，1 个带托盘的茶杯，左侧 1 盘马卡龙，右侧 1 盒 Laduree 风格马卡龙，1 本标题为“CEREAL”的杂志，1 副黑色太阳镜，以及左侧花桶下方整齐堆放的 5 本书（书名尽可能体现巴黎主题）。
+
+文字细节：使用优雅的法式风格字体，包含清晰的标签，如花桶上的“MAISON FLEURS”、编织袋上的“RIVE GAUCHE SAINT GERMAIN PARIS”、杂志上的“CEREAL PARIS”，以及左侧大型花桶上的 {argument name="flower bucket label" default="MAISON FLEURS"}。避免添加额外无关文字。
+
+视觉风格：高细节时尚水彩插画，柔和阴影，柳条、皮革、织物、花瓣、纸张和糕点表皮质感细腻。背景保持简洁，地面散落着花瓣和小雏菊，无硬边，无水印，非写实照片风格。
+
+[English]
+Goal: Create a romantic Parisian fashion lifestyle illustration featuring {argument name="character name" default="a stylish young Parisian woman"} standing full body in the center, surrounded by flowers, pastries, perfume, books, and a vintage bicycle.
+
+Canvas: Wide horizontal 16:9 composition on a warm cream-beige background, softly lit like watercolor mixed with detailed fashion editorial illustration. Elegant, airy, feminine, vintage Paris mood with delicate ink linework and muted blush, ivory, tan, navy, and black tones.
+
+Main subject: A slim young woman with {argument name="hair color" default="dark brown"} curly hair in a loose messy updo, soft face turned slightly to the right, wearing a beige oversized blazer over a black-and-white striped top, high-waisted wide-leg dark navy trousers, black loafers with gold hardware, fine jewelry, and carrying a small quilted black handbag. She holds exactly 2 food/drink items: one croissant in her left hand and one takeaway coffee cup in her right hand.
+
+Layout and objects: Place the woman slightly right of center. On the left, create a large cream metal flower bucket filled with tulips and greenery, sitting on a stack of books. Behind it, draw a delicate sketched Eiffel Tower and handwritten script text reading {argument name="handwritten text" default="Paris mon amour"} with two small hearts. On the right, place a cream vintage bicycle with tan leather saddle and handle grips; its front wicker basket is overflowing with tulips and has a small label reading "Paris". Around the bicycle base, add a large woven market tote, baguettes, a magazine, perfume, and sweets.
+
+Count the visible discrete objects clearly: exactly 1 woman, 1 bicycle, 2 main flower arrangements, 1 Eiffel Tower sketch, 1 croissant, 1 takeaway coffee cup, 1 black handbag, 1 large left flower bucket, 1 wicker bicycle basket, 1 woven market tote, 3 visible baguettes, 2 perfume bottles, 1 teacup with saucer, 1 plate of macarons on the left, 1 Laduree-style macaron box on the right, 1 magazine titled "CEREAL", 1 pair of black sunglasses, and exactly 5 stacked books under the left flower bucket with legible Paris-themed titles where possible.
+
+Text details: Use elegant French-inspired typography and readable labels including "MAISON FLEURS" on the flower bucket, "RIVE GAUCHE SAINT GERMAIN PARIS" on the woven tote, "CEREAL PARIS" on the magazine, and {argument name="flower bucket label" default="MAISON FLEURS"} on the large left bucket. Avoid adding extra unrelated text.
+
+Visual style: High-detail fashion watercolor illustration, soft shadows, refined textures on wicker, leather, fabric, petals, paper, and pastry crust. Keep the background clean with scattered flower petals and tiny daisies near the floor, no hard borders, no watermark, no photorealism.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2072154782287225192) | 2026-07-01
+
+---
+
+### 🏷️ 例 2946：Seedance Viking Vlogger 项目海报
+
+![Seedance Viking Vlogger 项目海报](../../images/Seedance%20Viking%20Vlogger%20%E9%A1%B9%E7%9B%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="video series title" default="SEEDANCE 2.0 VIKING VLOGGER"} 创建一张电影级制作宣传海报，展示一个 AI 生成的历史维京旅行 Vlog 项目，呈现出 Netflix 质量的一镜到底序列感。
+
+画布：方形海报，暗色电影级调色，4 列拼贴布局，左侧为大型主视觉图，右侧为 3x3 分镜网格，底部为羊皮纸风格的角色/设计说明条。
+
+主标题与文案：左上角使用粗犷的块状字体：白色“SEEDANCE 2.0”，粗体黄色“VIKING VLOGGER”，下方为较小的白色大写副标题“ONE PROMPT. NO CAMERA. NO CREW. ONE CINEMATIC AI SHOT.”。
+
+主视觉图：一位写实的年轻维京女性 vlogger，{argument name="main character" default="一位深色长发、蓝色眼睛的年轻女性"}，在峡湾旁泥泞的维京村落中，以伸展手臂的自拍姿势持机拍摄。她身穿棕色皮革维京风格服装，带有毛皮装饰，编织的黑色长发饰有珠子，佩戴叠层项链、符文吊坠、臂环和风化的旅行装备。背景是木制长屋、停泊的长船、烟雾、山脉、多云的日落光影、村民和潮湿的反射地面。氛围粗砺、史诗感、亲密且具有纪录片电影质感。
+
+右侧分镜网格：包含 9 张编号的电影感分镜卡，每张卡片配有小幅剧照、黄色镜头编号、白色镜头标题和简短的摄像机运镜说明。9 张卡片如下：
+1. “01 ARRIVAL” — 广角自拍揭示，缓慢推近，背景为村庄和峡湾。
+2. “02 TALK TO CAMERA” — 近景手持自拍，轻微行走晃动，她向观众讲述。
+3. “03 FIRST CHECK” — 低角度蹲姿自拍，向下倾斜展示细节，检查粗糙地面或文物。
+4. “04 ICONIC FIGURE” — 侧向自拍平移，身旁有一位传奇的维京胡须战士，背景有英雄式动作。
+5. “05 TENSION RISES” — 手持后拉镜头，背景有人群移动，战士们手持盾牌聚集。
+6. “06 KEY DETAIL” — 微距检查倾斜，手指指向雕刻的符文石或吊坠细节。
+7. “07 MAIN EVENT” — 侧向跟拍镜头，一艘载满划手的战船穿过深色水域。
+8. “08 REFLECTION” — 缓慢的近景自拍，伴随轻微的侧向漂移，在村庄中进行情感停顿。
+9. “09 ICONIC SELFIE” — 英雄式自拍定格，背景缓慢揭示长船船头和日落港口。
+
+底部羊皮纸条：使用做旧的奶油色羊皮纸背景，带有细线边框和档案设计说明风格。分为 4 个部分。
+第 1 部分，左侧标题卡：“VIKING VLOGGER”，附带简短描述“ADVENTURER • TRAVELER • STORYTELLER”以及一段短文：“古代世界中的现代旅行者。她游历海岸与村庄，展示北方风貌，分享人们的生活，讲述古老的习俗。”下方包含一个简单的符文式字母组合。
+第 2 部分，角色三视图：展示 4 个 vlogger 服装的全全身视图：正面、侧面、背面和四分之三正面视图。保持皮革与毛皮服装的一致性。
+第 3 部分，细节与材质：在 2x3 网格中展示 6 个带标签的特写样本/物品：“HAIR BEADS & BRAIDS（发珠与编发）”、“RUNE PENDANTS（符文吊坠）”、“BELT HARDWARE（腰带五金）”、“FACE DETAIL（面部细节）”、“RUNE PENDANT（符文吊坠）”和“BELT EMBELLISHMENT（腰带装饰）”。
+第 4 部分，vlogger 必备品：在 2x2 网格中展示 4 个带标签的装备物品：“TRAVEL POUCH（旅行袋）”、“NOTEBOOK（笔记本）”、“CAMERA POUCH（相机包）”和“PHONE (UPGRADED)（升级版手机）”。
+
+视觉风格：超写实电影级历史剧，深青色与琥珀色调，烟雾缭绕的天空，高对比度，面部清晰，潮湿质感，粗犷字体，项目拼贴设计，史诗维京氛围与现代创作者/vlogger 构图相结合。使其呈现出专业 AI 视频工作流拆解海报的感觉。
+
+约束：所有可见文字保持英文，保留 9 张分镜卡和底部物品数量，避免现代建筑，避免奇幻盔甲，避免卡通风格，无水印，无额外 Logo。
+
+[English]
+Goal: Create a cinematic production-pitch poster for {argument name="video series title" default="SEEDANCE 2.0 VIKING VLOGGER"}, showing an AI-generated historical Viking travel vlog storyboard as if it were a Netflix-quality one-shot sequence.
+
+Canvas: Square poster, dark cinematic color grade, 4-column collage layout with a large hero image on the left, a 3-by-3 shot grid on the right, and a parchment-style character/design sheet strip along the bottom.
+
+Main headline and copy: At the top left, use large distressed block typography: “SEEDANCE 2.0” in off-white, “VIKING VLOGGER” in bold yellow, then the subtitle “ONE PROMPT. NO CAMERA. NO CREW. ONE CINEMATIC AI SHOT.” in smaller white uppercase text.
+
+Hero image: A realistic young female Viking vlogger, {argument name="main character" default="a young dark-haired woman with blue eyes"}, holds the camera in an extended-arm selfie pose while standing in a muddy living Viking village beside a fjord. She wears brown leather Viking-inspired clothing, fur trim, braided black hair with beads, layered necklaces, a rune pendant, arm bands, and weathered travel gear. Behind her are wooden longhouses, docked longships, smoke, mountains, cloudy sunset light, villagers, and wet reflective ground. The mood is gritty, epic, intimate, and documentary-cinematic.
+
+Right storyboard grid: Include exactly 9 numbered cinematic shot cards, each with a small still image, yellow shot number, white shot title, and a small camera-direction line. The 9 cards are:
+1. “01 ARRIVAL” — wide selfie reveal, slow push-in, village and fjord behind her.
+2. “02 TALK TO CAMERA” — close handheld selfie, slight walking shake, she addresses the viewer.
+3. “03 FIRST CHECK” — low crouch selfie, tilt down to detail, inspecting rough ground or artifacts.
+4. “04 ICONIC FIGURE” — side selfie pan with a legendary bearded Viking warrior beside her, heroic movement behind.
+5. “05 TENSION RISES” — handheld pull-back with crowd movement behind, warriors gathering with shields.
+6. “06 KEY DETAIL” — macro inspection tilt, fingers point to a carved rune stone or pendant detail.
+7. “07 MAIN EVENT” — side tracking shot of a war longship filled with rowers moving across dark water.
+8. “08 REFLECTION” — slow close selfie with soft drift sideways, emotional pause in the village.
+9. “09 ICONIC SELFIE” — hero selfie hold, background slow reveal with longship prow and sunset harbor.
+
+Bottom parchment strip: Use an aged cream parchment background with fine line borders and archival design-sheet styling. Divide it into 4 sections.
+Section 1, left title card: “VIKING VLOGGER” with small descriptors “ADVENTURER • TRAVELER • STORYTELLER” and a short paragraph: “A modern traveler in an ancient world. She travels the coast and villages to show the North, share the lives of the people, and tell old ways.” Include a simple rune-like monogram below.
+Section 2, character turnaround: Show exactly 4 full-body views of the vlogger outfit: front view, side view, back view, and three-quarter/front view. Keep her leather-and-fur costume consistent.
+Section 3, details and materials: Show exactly 6 labeled close-up swatches/items in a 2-by-3 grid: “HAIR BEADS & BRAIDS,” “RUNE PENDANTS,” “BELT HARDWARE,” “FACE DETAIL,” “RUNE PENDANT,” and “BELT EMBELLISHMENT.”
+Section 4, vlogger essentials: Show exactly 4 labeled gear items in a 2-by-2 grid: “TRAVEL POUCH,” “NOTEBOOK,” “CAMERA POUCH,” and “PHONE (UPGRADED).”
+
+Visual style: Ultra-realistic cinematic historical drama, dark teal-and-amber grading, smoky skies, high contrast, sharp faces, wet textures, distressed typography, production-board collage design, epic Viking atmosphere mixed with modern creator/vlogger framing. Make it feel like a professional AI video workflow breakdown poster.
+
+Constraints: Keep all visible text in English, preserve the exact 9 shot cards and the exact bottom item counts, avoid modern buildings, avoid fantasy armor, avoid cartoon style, no watermark, no extra logos.
+```
+
+**来源：** [@Cipgerx](https://x.com/cipgerx/status/2072144197130326391) | 2026-07-01
+
+---
+

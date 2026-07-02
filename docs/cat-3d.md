@@ -4084,3 +4084,117 @@ Create a hyper-detailed full-body 3D stylized caricature of the person in [REFER
 
 ---
 
+### 🧸 例 2874：动态动漫英雄手办渲染
+
+![动态动漫英雄手办渲染](../../images/%E5%8A%A8%E6%80%81%E5%8A%A8%E6%BC%AB%E8%8B%B1%E9%9B%84%E6%89%8B%E5%8A%9E%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端摄影级产品渲染图，展示一个动态的动漫风格收藏级手办，{argument name="character name" default="一位魅力十足的年轻男性动作英雄"} 摆出半空跃起的姿势，通过一根纤细的透明支撑杆悬浮在哑光黑色圆形展示底座上方。该角色拥有凌乱的深棕色波浪发型、锐利且富有表现力的双眼、自信的笑容以及健硕的体格。他身穿一件质感十足的酒红色敞开式夹克，夹克在身后戏剧性地飘动；内搭深蓝色衬衫，系着一条向侧面飘扬的宽松金黄色领带；下身穿着带有逼真褶皱的深蓝色长裤，配有黑色腰带、黑色皮鞋以及小巧的深色腕饰。姿势设计为：一只手臂向左上方大幅伸展，手指张开；另一只手臂弯曲握拳置于右侧；一条腿向前抬起，鞋底在前景中突出；另一条腿向后弯曲，营造出充满活力的英雄跃起姿态。采用低角度四分之三视角，使角色显得高大且富有戏剧性，置于纯黑色无缝背景的底座中心。光影效果应呈现高端收藏品摄影质感：面部、夹克纹理、鞋子及衣物褶皱处有柔和而清晰的高光，带有微妙的轮廓光，呈现逼真的树脂/塑料材质感，具备柔和的影棚对比度，且背景中无可见环境元素。包含 3 个支撑/展示组件：1 个圆形黑色底座，1 根垂直透明支撑杆，以及 1 个位于背部/腿部的微型夹扣连接件。在右下角添加一个微小且精致的白色闪光 Logo。超精细雕刻，逼真的动漫手办比例，精美的商业产品摄影，4:5 竖构图，无文字，无包装，无额外角色。
+
+[English]
+Create a high-end studio product render of a dynamic anime-style collectible figure of {argument name="character name" default="a charismatic young male action hero"} posed mid-leap on a thin transparent support rod above a matte black circular display base. The figure has tousled dark brown wavy hair, sharp expressive eyes, a confident grin, and an athletic build. He wears a textured burgundy-red open jacket flaring dramatically behind him, a dark navy button-up shirt, a loose golden-yellow necktie whipping to the side, matching dark navy trousers with realistic folds, a black belt, black dress shoes, and small dark wrist accessories. Pose him with one arm stretched high and wide toward the upper left with fingers spread, the other arm bent into a clenched fist on the right, one knee raised forward with the sole of the shoe prominent in the foreground, and the other leg bent back, creating an energetic heroic jump. Use a low-angle three-quarter view so the figure feels large and dramatic, centered on the base against a pure black seamless background. Lighting should be premium collectible photography: soft but crisp highlights on the face, jacket texture, shoes, and fabric folds, subtle rim light, realistic resin/plastic material finish, shallow studio contrast, and no visible environment. Include exactly 3 support/display elements: 1 round black base, 1 vertical clear support rod, and 1 small clamp connection at the back/leg. Add a small subtle white sparkle logo in the bottom-right corner. Ultra-detailed sculpting, realistic anime figure proportions, polished commercial product shot, 4:5 vertical composition, no text, no packaging, no extra characters.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2072439469689708849) | 2026-07-01
+
+---
+
+### 🧸 例 2906：超现实动漫与现实生活空间
+
+![超现实动漫与现实生活空间](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%8A%A8%E6%BC%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB%E7%A9%BA%E9%97%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一张高保真、广角室内摄影作品，捕捉了现代客厅中超现实的混合媒介构图。画面中，一名长相酷似参考照片（使用上传的人脸作为参考）的男子，身穿 {argument name="clothing" default="深绿色卫衣、运动裤和白色运动鞋"}，坐在 {argument name="furniture" default="毛绒浅灰色沙发"} 的中央。场景将写实风格的 3D 环境与赛璐珞风格的 2D 动漫角色无缝融合，让角色直接与物理空间互动。在沙发上男子的右侧，{argument name="character 1" default="大雄"} 随意地坐着并挥手，而左侧的哆啦A梦则悠闲地靠在枕头上。沙发后的白色墙壁上挂着两张海报，一张是孙悟空和贝吉塔，另一张是动态动漫风格的特兰克斯。前景中，蜡笔小新放松地躺在纹理感十足的灰色地毯上，旁边放着一盘铜锣烧；一个 Q 版孙悟空站在米色的针织坐墩上，神情得意。房间左侧，贝吉塔自信地站在带凹槽的木质边桌上，而一个微缩版的特兰克斯则在中央的木质咖啡桌旁，似乎正带着好奇的表情观察着这一切。柔和的自然光从左侧透过薄纱窗帘射入，营造出微妙的体积光，突显了毯子的质感、分层桌的木纹以及房间角落虎皮兰叶片的细节。整幅场景以 8K 分辨率呈现，焦点清晰，色彩鲜艳，展现出一种梦幻、电影感且充满趣味的审美，完美融合了现实世界与动漫世界，且没有任何 AI 生成的痕迹。
+
+[English]
+A high-fidelity, wide-angle interior shot captures a surreal, mixed-media composition within a modern living room. It features a man resembling the face in the reference photo—using an uploaded face as a reference—wearing a {argument name="clothing" default="dark green sweatshirt, sweatpant and white sneakers"}, sitting centrally on a {argument name="furniture" default="plush light gray sofa"}. The scene seamlessly blends photorealistic 3D environments with cel-shaded 2D anime and cartoon characters interacting directly with the physical space. On the right side of the subject on the sofa, {argument name="character 1" default="Nobita"} sits casually waving his hand, while on the left side, Doraemon leans casually on a pillow. Behind the sofa, two framed posters hang on the white wall—one featuring Son Goku and Vegeta, and the other featuring Trunks in a dynamic anime style. In the foreground, Shinchan lies relaxed on a textured gray carpet near a plate of dorayaki, while a chibi version of Son Goku stands triumphantly on a cream-colored knit pouf. On the left side of the room, Vegeta stands tall on a grooved wooden side table in a confident pose, while a miniature version of Trunks is near the wooden coffee table in the center, as if observing the scene with a curious expression. Soft natural light streams in from the left side through sheer curtains, creating subtle volumetric lighting that accentuates the texture of the blanket, the wood grain of the tiered table, and the leaves of the snake plant in the corner of the room. The entire scene is rendered in 8K resolution with sharp focus, vivid colors, and a dreamy, cinematic, and playful aesthetic blending between the real world and the anime world, with no AI visible.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2072304737949474960) | 2026-07-01
+
+---
+
+### 🧸 例 2913：角色玩具夜空壁纸
+
+![角色玩具夜空壁纸](../../images/%E8%A7%92%E8%89%B2%E7%8E%A9%E5%85%B7%E5%A4%9C%E7%A9%BA%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像为角色基础，将扁平的 LINE 贴纸风格角色转化为可爱的小型 3D 手办/玩具，同时保留其关键设计细节和颜色。将其放置在竖屏手机壁纸构图的底部中心附近，坐在深色草地山脊上，前景带有岩石。在角色后方添加广阔的写实夜景：地平线上层叠的山脉剪影、深蓝色的星空，以及在天空右侧升起的一条醒目的垂直银河。采用电影级低光摄影风格，运用微妙的景深、写实的地面纹理、柔和的月光/星光，营造出宁静而充满冒险的氛围。画布尺寸应为 {argument name="wallpaper size" default="9:16 竖屏手机壁纸"}。角色相对于风景应保持较小比例，确保清晰可见但不会占据画面主体。请勿添加任何文字、Logo、边框或额外角色。
+
+[English]
+Using the provided reference image as the character base, transform the flat LINE-sticker-style character into a small cute 3D figurine/toy while preserving its key design details and colors. Place it near the bottom center of a vertical smartphone wallpaper composition, sitting on a dark grassy mountain ridge with rocks in the foreground. Add a vast realistic night landscape behind it: layered mountain silhouettes on the horizon, a deep navy star-filled sky, and one prominent vertical Milky Way band rising through the right side of the sky. Use cinematic low-light photography, subtle depth of field, realistic ground texture, soft moon/starlight, and a calm adventurous mood. Canvas should be {argument name="wallpaper size" default="9:16 vertical smartphone wallpaper"}. Keep the character small relative to the landscape, readable but not dominating the scene. Do not add text, logos, borders, or extra characters.
+```
+
+**来源：** [@スイーパ](https://x.com/SuipaKz/status/2072283577333780506) | 2026-07-01
+
+---
+
+### 🧸 例 2944：传奇足球运动员手办工作室
+
+![传奇足球运动员手办工作室](../../images/%E4%BC%A0%E5%A5%87%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%89%8B%E5%8A%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考图作为面部和身份的精确参照，创作一幅超写实、电影级的 4:5 杰作。必须绝对准确地保留人物的面部特征、发型、肤色、体格、表情及整体神态。场景设定在一间豪华的博物馆级收藏家工作室中，这位足球传奇人物正使用精细的貂毛画笔，一丝不苟地为自己 1/7 比例的商业收藏级手办进行手工上色。手办必须完美复刻上传的参考图，具备极其精准的面部雕刻、逼真的比例、考究的定制西装、栩栩如生的皮肤纹理、细腻的织物缝线、抛光的皮鞋以及博物馆级的涂装质量。手办立于厚实的透明亚克力展示底座上，在光洁的黑色玻璃桌面上方呈现出微妙的悬浮感，并由下方柔和地照亮。工作台上摆满了高级雕刻工具、颜料瓶、数字卡尺、精密画笔、树脂原型，以及一台显示着手办 3D 旋转蓝图的超薄 OLED 显示器。在他身后，落地式豪华展示架上陈列着精美照明的收藏品，纪念他真实的足球生涯，包括准确的俱乐部和国家队球衣、官方赢得的奖杯、奖牌、金靴、签名足球、半身雕塑、生涯各时期手办、球场微缩模型、装裱纪念品及限量版收藏品——仅展示真实成就，不含虚构奖项。每个架子上都藏有彩蛋，奖励放大查看的观众。环境采用温暖的博物馆灯光、电影级体积光、柔和的轮廓光、漂浮的尘埃颗粒、逼真的反射、丰富的对比度以及优雅的奢华氛围。每一个指纹、毛孔、发丝、织物纤维、亚克力边缘、金属表面、画笔纤维、大理石倒影及尘埃颗粒都必须以令人惊叹的 16K 商业级写实度呈现。采用 50mm 电影级构图，手办置于前景中心，而真实的足球运动员在背景中专注工作，营造出一种高端奢华收藏品广告的错觉，画面极其真实且视觉震撼，让观众不由自主地放大查看，确信自己看到的是一张真实照片而非 CGI。
+
+[English]
+Create an ultra-photorealistic, cinematic 4:5 masterpiece using the uploaded reference image as the exact facial and identity reference. Preserve the person's face, hairstyle, skin tone, physique, expression, and overall likeness with absolute accuracy. The scene takes place inside a luxurious, museum-quality collector's studio where the football legend is meticulously hand-painting a premium 1/7 scale commercial collectible figurine of himself using a fine sable brush. The figurine must perfectly replicate the uploaded reference, featuring an incredibly accurate facial sculpt, realistic proportions, authentic tailored suit, lifelike skin texture, detailed fabric stitching, polished leather shoes, and museum-grade paint quality. It stands on a thick crystal-clear transparent acrylic display base with a subtle levitating effect above a glossy black glass desk, softly illuminated from below. The workspace is filled with premium sculpting tools, paint bottles, digital calipers, precision brushes, resin prototypes, and a large ultra-thin OLED monitor displaying a rotating 3D blueprint of the figurine. Behind him, floor-to-ceiling luxury display shelves showcase beautifully lit collectibles celebrating his real football career, including accurate club and national team jerseys, officially won trophies, medals, golden boots, signed footballs, bust sculptures, career-era figurines, stadium miniatures, framed memorabilia, and limited-edition collectibles—only featuring genuine achievements with no fictional awards. Every shelf contains hidden Easter eggs that reward viewers who zoom in. The environment features warm museum lighting, cinematic volumetric rays, soft rim light, floating dust particles, realistic reflections, rich contrast, and an elegant luxury atmosphere. Every fingerprint, skin pore, hair strand, fabric thread, acrylic edge, metallic surface, paintbrush fiber, marble reflection, and dust particle must be rendered with breathtaking 16K commercial-quality realism. Use a cinematic 50mm composition with the figurine dominating the foreground while the real footballer carefully works on it in the background, creating the illusion of a premium luxury collectible advertisement so realistic and visually stunning that viewers instinctively zoom in, convinced they are looking at a real photograph rather than CGI.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2072150566172774468) | 2026-07-01
+
+---
+
+### 🧸 例 2947：Aiko 3D 角色设计图
+
+![Aiko 3D 角色设计图](../../images/Aiko%203D%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="AIKO"} 的可爱风格化幼儿女孩创建一个简洁的 3D 角色设计图，呈现出专业玩具/动画参考项目（board）的效果。
+
+画布：宽幅横向角色设计图，背景为温暖的米白色，带有淡淡的灰色引导线、细线条分区以及微妙的手绘注释感。采用柔和的摄影棚灯光、高质量 3D 渲染风格、圆润的儿童比例、皮克斯（Pixar）风格的毛绒玩具质感以及柔和的马卡龙色调。
+
+页眉：左上角文字为“{argument name="character name" default="AIKO"} | 3D CHARACTER SHEET”。右上角包含 5 个圆角小色块，分别标注为：Cream（奶油色）、Blue（蓝色）、Red（红色）、Yellow（黄色）、Pink（粉色）。
+
+布局：在设计图上展示 5 个角色视图：最左侧为 1 个侧视图，左中为 1 个后视图，中间为 2 个全身正面视图（一个正脸姿势，一个 3/4 侧脸姿势），最右侧为 1 个面部特写视图。在全身视图列上方放置整齐的大写标签“SIDE VIEW”、“BACK VIEW”和“FRONT VIEW”。底部使用手写风格的说明文字：“SIDE VIEW”、“BACK VIEW”、“FRONT VIEW”、“3/4 VIEW”和“CLOSE-UP FACE”。
+
+主体细节：该角色是一位害羞、甜美的年轻女孩，拥有超大的金棕色眼睛、红润的脸颊、小小的微笑、小鼻子、圆脸，以及扎成凌乱高丸子头并带有侧刘海的黑色头发。发饰：粉色星星发夹。服装：米色罗纹长袖毛衣，外搭浅蓝色牛仔背带裙（带有小前袋和刺绣贴布细节），樱桃红连裤袜，黄色雨靴，以及粉色绗缝双肩包。最左侧的侧视图展示了她的侧面和双肩包肩带；后视图清晰展示了绗缝双肩包和丸子头后部；正面视图展示了她害羞地交握双手；3/4 视图展示了双肩包和服装的体积感；面部特写是一个在颈部截断的放大头部浮动视图。
+
+注释：添加细长的弯曲标注箭头和手写标签，指向 9 个细节：“Black Hair Bun”（黑色丸子头）、“Pink Star Clip”（粉色星星发夹）、“Quilted Backpack”（绗缝双肩包）、“Denim Pinafore”（牛仔背带裙）、“Cherry-Red Tights”（樱桃红连裤袜）、“Yellow Rain Boots”（黄色雨靴）、“Shy Posture”（害羞姿态）、“Oversized Golden Eyes”（超大金色眼睛）和“Rosy Cheeks”（红润脸颊）。标签需保持清晰，颜色为黑色或深棕色，围绕角色放置且不显杂乱。
+
+约束条件：无额外角色，无场景，无水印，无 Logo，无照片级写实的成人比例。保持整洁的概念设计图构图，确保全身视图之间的比例一致，并包含一个较大的面部特写。
+
+[English]
+Goal: Create a clean 3D character design sheet for a cute stylized toddler girl named {argument name="character name" default="AIKO"}, presented like a professional toy/animation reference board.
+
+Canvas: Wide horizontal character sheet on a warm off-white background with faint grey guide lines, thin section dividers, and a subtle hand-drawn annotation feel. Use soft studio lighting, high-quality 3D render style, rounded childlike proportions, plush toy/Pixar-inspired realism, and gentle pastel colors.
+
+Header: Top left text reads “{argument name="character name" default="AIKO"} | 3D CHARACTER SHEET”. Top right include exactly 5 small rounded color swatches labeled: Cream, Blue, Red, Yellow, Pink.
+
+Layout: Show exactly 5 character views across the sheet: 1 side view on the far left, 1 back view left-center, 2 front-area full-body views in the middle (one straight front pose and one 3/4 pose), and 1 close-up face view on the far right. Above the full-body columns place neat uppercase labels “SIDE VIEW”, “BACK VIEW”, and “FRONT VIEW”. Along the bottom, use handwritten-style captions: “SIDE VIEW”, “BACK VIEW”, “FRONT VIEW”, “3/4 VIEW”, and “CLOSE-UP FACE”.
+
+Subject details: The character is a shy, sweet young girl with oversized golden-brown eyes, rosy cheeks, tiny smile, small nose, rounded face, and black hair gathered into a messy high bun with side bangs. Hair accessories: pink star clips. Outfit: cream ribbed long-sleeve sweater under a light blue denim pinafore dress with a small front pocket and embroidered patch detail, cherry-red tights, yellow rain boots, and a quilted pink backpack. The far-left side view shows her profile and backpack straps; the back view clearly shows the quilted backpack and rear of the bun; the front view shows hands clasped shyly; the 3/4 view shows the backpack and outfit volume; the close-up face is a large floating head cropped at the neck.
+
+Annotations: Add thin curved callout arrows and handwritten labels pointing to exactly 9 details: “Black Hair Bun”, “Pink Star Clip”, “Quilted Backpack”, “Denim Pinafore”, “Cherry-Red Tights”, “Yellow Rain Boots”, “Shy Posture”, “Oversized Golden Eyes”, and “Rosy Cheeks”. Keep labels legible, black or dark brown, placed around the figures without clutter.
+
+Constraints: No extra characters, no scenery, no watermark, no logo, no photorealistic adult proportions. Maintain a tidy concept-art sheet composition with consistent scale between full-body views and a larger close-up face.
+```
+
+**来源：** [@ViralOps](https://x.com/ViralOps_/status/2072140417966174434) | 2026-07-01
+
+---
+

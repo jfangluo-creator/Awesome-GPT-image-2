@@ -4214,3 +4214,307 @@ Constraints: Keep the drawing intentionally rough and storyboard-like, preserve 
 
 ---
 
+### 🎬 例 2880：水彩漫画风格密室页面
+
+![水彩漫画风格密室页面](../../images/%E6%B0%B4%E5%BD%A9%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%AF%86%E5%AE%A4%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个垂直漫画布局的水彩漫画页面，讲述三位动漫少女被困在阴暗密室中的故事，并配有日语对话文本。
+
+画布：竖向页面，比例约为 2:3，米白色纸张纹理，手绘水彩与墨线风格，柔和的色彩渲染，可见的分镜边框，无数字 UI，无水印。
+
+布局：使用 4 个漫画分镜：(1) 左上角小分镜，(2) 右上角小分镜，(3) 中间横跨页面宽度的长方形大分镜，以及 (4) 底部狭长的反应条。保持日式漫画的阅读顺序，使用垂直对话气泡。
+
+角色：展示 3 位少女。角色 A 是一位自信的紫发女孩，留着长卷发，扎着侧辫，绿色的眼睛，头后有猫耳状的黑色剪影，穿着闪亮的金色无袖高领衫；她在左上角分镜中显得愤怒且流汗，并在底部反应条中以强烈的特写镜头再次出现。角色 B 是一位开朗的金色波波头女孩，紫色的眼睛，穿着红色荷叶边外套和深绿色围巾；她在右上角分镜中得意地举起一只拳头。角色 C 是一位安静的黑发女孩，留着极长的直发，红色的眼睛，穿着宽松的绿色连衣裙；她在中间的大分镜中赤脚坐在地板上，双膝弯曲，一只手靠近嘴唇，神情若有所思且忧虑。
+
+分镜细节：左上角分镜背景为深蓝色，角色 A 表现出沮丧的对话。右上角分镜背景为明亮的黄色星爆效果并带有闪光，角色 B 自信地微笑，顶部附近有一个红色的日语拟声词。中间的大分镜展示了角色 C 坐在昏暗的混凝土或石墙房间里，左侧有一根垂直的金属管，冷蓝灰色的阴影，右侧有一个明亮的小窗户或开口，投射出苍白的光线。底部反应条仅展示了角色 A 在红色背景下眯起的绿色眼睛和紫色头发，强调怀疑和恼怒。
+
+文本内容：包含 5 个垂直日语对话气泡和 1 个红色拟声词。左上角分镜有两个对话气泡：{argument name="top left speech one" default="もう一ドヤって場合じゃないよ！"} 和 {argument name="top left speech two" default="こんな不気味な所に閉じ込められて……入り口、塞がってる!!"}。右上角分镜有一个对话气泡：{argument name="top right speech" default="わははっ！ほら、入れるって言ったっしょ！さあ、手がかりを探そう！"}。中间分镜有一个对话气泡：{argument name="middle speech" default="脱出も大事だけど…それより犯人、まだいるかもよ？"}。底部反应条有一个对话气泡：{argument name="bottom speech" default="ったく……いっつも後先考えないんだから……"}。在右上角分镜中添加红色拟声词「ドヤ!」。
+
+视觉风格：精致的少女漫画脸型，富有表现力的眼睛，纤细的墨线轮廓，水彩渐变，略显不规则的手绘分镜边缘，柔和的纸张纹理，右上角明亮的黄色、中间冷蓝灰色的房间以及底部红色反应条之间形成强烈的色彩对比。
+
+约束：计数并展示 4 个分镜，3 位循环出现的角色，5 个对话气泡，以及 1 个拟声词。保持所有对话为垂直日语文本，不要添加额外的标题或说明文字。
+
+[English]
+Goal: Create a watercolor manga page in a vertical comic layout about three anime girls trapped in a gloomy closed room, with Japanese speech text.
+
+Canvas: Portrait page, approximately 2:3 aspect ratio, off-white paper texture, hand-painted watercolor and ink line art, soft washes, visible panel borders, no digital UI, no watermark.
+
+Layout: Use exactly 4 comic panels: (1) top-left small panel, (2) top-right small panel, (3) one large central panel spanning the width, and (4) a narrow bottom reaction strip. Keep the page reading like a Japanese manga, with vertical speech balloons.
+
+Characters: Show exactly 3 girls. Girl A is a confident purple-haired girl with long curled hair, a side braid, green eyes, cat-ear-like black silhouette behind her head, wearing a shiny gold sleeveless turtleneck; she looks angry and sweaty in the top-left panel and appears again as an intense close-up in the bottom strip. Girl B is a cheerful blonde bob-haired girl with purple eyes, wearing a red frilled coat and a dark green scarf; she raises one fist triumphantly in the top-right panel. Girl C is a quiet black-haired girl with very long straight hair and red eyes, wearing a loose green dress; she sits barefoot on the floor in the central panel, knees bent, one hand near her lips, looking thoughtful and worried.
+
+Panel details: Top-left panel has a dark bluish background and Girl A speaking with frustration. Top-right panel has a bright yellow starburst background with sparkles, Girl B smiling confidently, and a red Japanese sound effect near the top. The large middle panel shows Girl C seated in a dim, concrete or stone-walled room with a vertical metal pipe on the left, cold blue-gray shadows, and a small bright window or opening at the right casting pale light. The bottom strip shows only Girl A’s narrowed green eyes and purple hair against a red background, emphasizing suspicion and irritation.
+
+Text content: Include exactly 5 vertical Japanese speech balloons and 1 red sound effect. Top-left panel has two speech balloons: {argument name="top left speech one" default="もう一ドヤって場合じゃないよ！"} and {argument name="top left speech two" default="こんな不気味な所に閉じ込められて……入り口、塞がってる!!"}. Top-right panel has one speech balloon: {argument name="top right speech" default="わははっ！ほら、入れるって言ったっしょ！さあ、手がかりを探そう！"}. Middle panel has one speech balloon: {argument name="middle speech" default="脱出も大事だけど…それより犯人、まだいるかもよ？"}. Bottom strip has one speech balloon: {argument name="bottom speech" default="ったく……いっつも後先考えないんだから……"}. Add the red sound effect 「ドヤ!」 in the top-right panel.
+
+Visual style: Delicate shoujo manga faces, expressive eyes, thin ink outlines, watercolor gradients, slightly uneven hand-painted panel edges, soft paper grain, dramatic color contrast between the cheerful yellow top-right panel, cold blue-gray central room, and red bottom reaction strip.
+
+Constraints: Count and show exactly 4 panels, exactly 3 recurring characters, exactly 5 speech balloons, and exactly 1 sound effect. Keep all dialogue vertical Japanese text, but do not add extra captions or additional text.
+```
+
+**来源：** [@ダークテンタクルマスター (aka. だくてん)](https://x.com/DTM_tentacle69/status/2072361969022312707) | 2026-07-01
+
+---
+
+### 🎬 例 2898：四格 AI 漫画工作流漫画
+
+![四格 AI 漫画工作流漫画](../../images/%E5%9B%9B%E6%A0%BC%20AI%20%E6%BC%AB%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅柔和水彩风格的竖版四格漫画说明图，介绍 AI 漫画工作流。主角是一位留着粉色短发的可爱 Q 版儿童吉祥物，演示迭代式图像生成过程。
+
+画布：竖版 3:4 漫画页面，温暖的米白色纸张纹理，纤细的手绘棕色边框，柔和的粉彩色调，留白自然，无生硬的数字渐变。
+
+布局：使用从上到下排列的 4 个横向漫画格，每格之间由纤细的素描线条分隔。同一个 Q 版角色出现在所有 4 个格中。页面上点缀着小巧的粉色樱花图案和细小的闪光装饰。
+
+角色细节：吉祥物是一个开朗的 Q 版儿童，名为 {argument name="character name" default="粉发 AI 漫画吉祥物"}，留着圆润的 {argument name="hair color" default="亮粉色"} 短发，有着琥珀棕色的大眼睛、小鼻子、圆润柔软的脸颊，身穿宽松的浅蓝色毛衣。角色形象应显得友好、具有指导性且充满热情。
+
+第 1 格：Q 版角色站在右侧，微笑着向观众展示一张打印出的漫画页。左侧有一个大对话框，内含手写日语文本：{argument name="panel 1 speech" default="まずは安いモデルで方向確認!"}。漫画页应显示两个小的灰度/深褐色漫画框，内容为一名在办公室环境中的年轻女性。
+
+第 2 格：Q 版角色特写，正俯身在书桌前，拿着放大镜仔细检查右侧标有“YAML”字样的文档。书桌左侧放着一张打印的漫画页。YAML 文档上有红色下划线和一个红圈标记。右侧包含一个对话框，内含日语文本：{argument name="panel 2 speech" default="AIと一緒にYAMLをチェック…"}。
+
+第 3 格：Q 版角色在右侧侧身站立，神情严肃专注，正用红笔在大型提示词指令表上进行修正。左侧有一个对话框，内含日语文本：{argument name="panel 3 speech" default="ズレを直して指示を具体的に!"}。修正表应有一个意为“提示词指令”的标题，以及多行手写文字，配有红色编辑痕迹、红色下划线和圈出的修正点，暗示关于背景、表情、姿势和细节的更具体指令。
+
+第 4 格：Q 版角色开心地站在右侧，闭着眼睛露出灿烂的笑容，左手举着完成的漫画页。在成功的作品周围添加金色闪光和粉色樱花。完成的漫画页包含 3 个清晰的堆叠漫画框：顶格是坐在桌前的年轻女性，中格是女性的特写，底格是一个小桌子或图表。右侧包含一个对话框，内含日语文本：{argument name="panel 4 speech" default="仕上げは高精度モデルで完璧っ!"}。
+
+文本与风格限制：4 个对话框内及可见的“YAML”标签上请使用手写风格的日语字体。保持文字清晰但具有自然的手绘感。整体氛围应可爱、具有说明性、乐观，适合用于社交媒体上关于制作 AI 漫画的帖子。使用水彩渲染、铅笔质感的轮廓、柔和的纸张纹理和轻柔的粉彩阴影。请勿添加额外的画格、额外的对话框、照片级真实感、Logo、水印或无关角色。
+
+[English]
+Goal: Create a soft watercolor-style vertical four-panel manga explainer about an AI manga workflow, featuring a cute chibi child mascot with short pink hair and a blue sweater demonstrating iterative image generation.
+
+Canvas: Vertical 3:4 comic page, warm off-white paper texture, thin hand-drawn brown panel borders, gentle pastel palette, airy margins, no harsh digital gradients.
+
+Layout: Use exactly 4 horizontal comic panels stacked from top to bottom, each separated by a thin sketchy border. The same chibi character appears in all 4 panels. Add small pink cherry-blossom motifs and tiny sparkle accents across the page.
+
+Character details: The mascot is a cheerful chibi child named {argument name="character name" default="pink-haired AI manga mascot"}, with short rounded {argument name="hair color" default="bright pink"} hair, large amber-brown eyes, small nose, soft round cheeks, and a loose light-blue sweater. The character should look friendly, instructional, and enthusiastic.
+
+Panel 1: The chibi stands on the right, smiling and holding up a printed manga page angled toward the viewer. On the left is one large speech bubble with handwritten Japanese text: {argument name="panel 1 speech" default="まずは安いモデルで方向確認!"}. The manga page should show two small grayscale/sepia comic frames featuring a young woman in an office-like setting.
+
+Panel 2: The chibi is shown larger in close-up, leaning over a desk with a magnifying glass, carefully inspecting a document labeled “YAML” on the right. A small printed manga page lies on the left side of the desk. The YAML paper has red underlines and one red circled mark. Include one speech bubble on the right with Japanese text: {argument name="panel 2 speech" default="AIと一緒にYAMLをチェック…"}.
+
+Panel 3: The chibi is on the right in side view, serious and focused, writing corrections on a large prompt instruction sheet with a red pen. On the left is one speech bubble with Japanese text: {argument name="panel 3 speech" default="ズレを直して指示を具体的に!"}. The correction sheet should have a heading meaning “prompt instructions” and multiple handwritten lines with red edits, red underlines, and a circled correction, suggesting more concrete instructions about background, expression, pose, and details.
+
+Panel 4: The chibi stands happily on the right, eyes closed in a big smile, holding up a finished manga page on the left. Add golden sparkles and pink blossoms around the successful result. The finished manga page contains exactly 3 visible stacked manga frames: top frame of a young woman at a desk, middle close-up of the woman, bottom frame with a small table or chart. Include one speech bubble on the right with Japanese text: {argument name="panel 4 speech" default="仕上げは高精度モデルで完璧っ!"}.
+
+Text and style constraints: Use handwritten Japanese lettering inside the 4 speech bubbles and on the visible “YAML” label. Keep text legible but naturally hand-drawn. The overall mood should be cute, explanatory, optimistic, and suitable for a social media post about making AI manga. Use watercolor washes, pencil-like outlines, soft paper grain, and gentle pastel shadows. Do not add extra panels, extra speech bubbles, photorealism, logos, watermarks, or unrelated characters.
+```
+
+**来源：** [@みゆ｜50歳主婦がAIマンガでKindle出版に挑戦](https://x.com/miyu_mangaAI/status/2072322696961253747) | 2026-07-01
+
+---
+
+### 🎬 例 2901：我的 API Stack 双面板插图
+
+![我的 API Stack 双面板插图](../../images/%E6%88%91%E7%9A%84%20API%20Stack%20%E5%8F%8C%E9%9D%A2%E6%9D%BF%E6%8F%92%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅双面板手绘社交媒体插图，左侧解释 {argument name="headline text" default="My API Stack"}，右侧展示温馨的亲子修理场景。
+
+画布：水平 2:1 长宽比，从中心精确分为两个相等的半部分。左半部分为浅暖黄色背景；右半部分为浅天蓝色背景。使用简洁的墨水轮廓、柔和的蜡笔填充、细腻的纸张纹理，以及友好的独立网络漫画风格。
+
+左侧面板布局：在顶部中心，用深色墨水书写手写体大标题“{argument name="headline text" default="My API Stack"}”，在“API”下方画一条短下划线，并在两侧加上微小的蓝色装饰点。在标题下方，创建一个中心辐射型图表，包含 6 个由细黑线连接的圆形节点：1 个大型中心圆和 5 个较小的外部圆。
+
+左侧面板节点详情，共 6 个：
+1. 中心大型节点：一位留着胡须的插画人物，戴着棕褐色棒球帽，身穿灰色衬衫，手里拿着一个装满小齿轮和代码图标的发光盒子，标注为“{argument name="central agent label" default="Hermes Agent"}”。在他周围加上微小的闪光效果。
+2. 左上角小节点：带有放大镜查看地球仪的浏览器窗口，标注为“XAI Search”。
+3. 右上角小节点：带有闪光效果的带框风景图像图标，标注为“GPT-Image 2”。
+4. 右下角小节点：带有音频波形的对话气泡，标注为“Whisper TTS/STT”。
+5. 底部小节点：带有播放按钮的胶片/视频图标，标注为“Kling 3.0 Video”，并带有微小的子标签“FAL.ai”。
+6. 左下角小节点：带有速度线的文档/页面图标，标注为“Default Extractor”，并带有微小的子文本“60x faster”和“49x cheaper”。
+
+右侧面板主题：画一位留着胡须的成年男性，戴着棕褐色棒球帽，身穿灰色 T 恤、深色裤子和浅色袜子，盘腿坐着，微笑着看向一个小孩子。孩子留着黑色短波波头，穿着柔和的黄色长袖套装，坐在地板上，手里拿着红色手柄的钳子。成年人手里拿着一把锤子，另一把锤子放在他腿边。在地板上放置 4 个散落的工具：1 把蓝色手柄螺丝刀、1 把灰色活动扳手、1 把灰色开口扳手和 1 把额外的锤子。场景应感觉温柔、具有教育意义且温馨。
+
+文字：在蓝色面板的右上角，添加手柄“{argument name="social handle" default="@dadhalfdev"}”，使用小号深色手写字体。
+
+约束：保持分屏背景简洁，除了颜色变化外不要有边框线。保持中心 Hermes Agent 和右侧成年人的角色设计一致：留胡须、戴棕褐色帽子、穿灰色衬衫。避免照片级真实感，避免 3D 渲染，避免额外的节点，避免添加额外的标签，并确保所有文字清晰可辨。
+
+[English]
+Goal: Create a wide two-panel hand-drawn social media illustration explaining {argument name="headline text" default="My API Stack"} on the left and showing a warm parent-child repair scene on the right.
+
+Canvas: Horizontal 2:1 aspect ratio, split exactly down the center into two equal halves. Left half has a pale warm yellow background; right half has a pale sky blue background. Use clean ink outlines, soft pastel fills, subtle paper texture, and a friendly indie webcomic style.
+
+Left panel layout: At the top center, write the large handwritten headline “{argument name="headline text" default="My API Stack"}” in dark ink with a small underline under “API” and tiny blue accent marks on both sides. Below it, create a hub-and-spoke diagram with exactly 6 circular nodes connected by thin black lines: 1 large central circle and 5 smaller outer circles.
+
+Left panel node details, exactly 6 total:
+1. Center large node: an illustrated bearded man in a tan baseball cap and gray shirt holding a glowing box full of small gears and a code icon, labeled “{argument name="central agent label" default="Hermes Agent"}”. Add tiny sparkles around him.
+2. Upper-left small node: browser window with a magnifying glass over a globe, labeled “XAI Search”.
+3. Upper-right small node: framed landscape image icon with a sparkle, labeled “GPT-Image 2”.
+4. Lower-right small node: speech bubble with audio waveform, labeled “Whisper TTS/STT”.
+5. Bottom small node: filmstrip/video icon with a play button, labeled “Kling 3.0 Video” with small sublabel “FAL.ai”.
+6. Lower-left small node: document/page icon with speed lines, labeled “Default Extractor” with tiny subtext “60x faster” and “49x cheaper”.
+
+Right panel subject: Draw an adult bearded man wearing a tan baseball cap, gray T-shirt, dark pants, and light socks, sitting cross-legged and smiling down at a small child. The child has short black bobbed hair and wears a soft yellow long-sleeve outfit, sitting on the floor and holding red-handled pliers. The adult holds a hammer while another hammer rests near his leg. Add exactly 4 loose tools on the floor: 1 blue-handled screwdriver, 1 gray adjustable wrench, 1 gray open-ended wrench, and 1 extra hammer. The scene should feel gentle, instructional, and wholesome.
+
+Text: In the top-right corner of the blue panel, add the handle “{argument name="social handle" default="@dadhalfdev"}” in small dark handwritten text.
+
+Constraints: Keep the split background clean with no border line other than the color change. Maintain the same character design for the central Hermes Agent and the adult on the right: bearded, tan cap, gray shirt. Avoid photorealism, avoid 3D rendering, avoid extra nodes, avoid additional labels, and keep all text legible.
+```
+
+**来源：** [@Marco Rodrigues](https://x.com/dadhalfdev/status/2072315342408351871) | 2026-07-01
+
+---
+
+### 🎬 例 2920：废墟科幻漫画页面
+
+![废墟科幻漫画页面](../../images/%E5%BA%9F%E5%A2%9F%E7%A7%91%E5%B9%BB%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅黑白科幻漫画页面，展示灾难后荒废的未来城市，采用电影级广角镜头，并留出空白对话气泡以便后续填字。
+
+画布：竖版漫画页面，纵向构图，干净的白色页面边框，高对比度单色墨水与灰度网点，精细的废墟纹理，戏剧性的多云天空，无色彩。
+
+布局：使用从上到下排列的 4 个横向分镜，中间由粗白色间隙隔开。
+- 分镜 1：占据页面顶部三分之一的超广角全景镜头。展示一座荒废的超级城市，包含倒塌的摩天大楼、断裂的高架路、瓦砾、尘埃以及被强光撕裂的暴风雨天空。天空中包含漂浮的残骸碎片。添加 2 个空白白色漫画对话气泡：左上角一个高大的圆角多边形气泡，右上角一个更大的圆角多边形气泡。
+- 分镜 2：下方的一个狭窄全景分镜。低角度仰视一座高耸的受损建筑墙面，以及带有悬浮岩石或碎片残骸的暗色天空。在右侧添加 1 个空白白色对话气泡。
+- 分镜 3：一个狭窄的动作细节分镜。特写一只黑色作战靴踩在开裂的地面上，周围漂浮着小石块和碎片。在左侧添加 1 个小型空白白色对话气泡。在此行的最右侧留出一个大的空白白色矩形间隙，使分镜看起来没有横跨整个页面。
+- 分镜 4：占据底部的大型最终分镜。背影视角，一名少女和一个小型机器人面对着废墟城市和末日天空。女孩站在左侧，身穿深色夹克、短裤、过膝黑袜和结实的靴子，留着深色短波波头。机器人站在她右侧，呈矮圆柱状，带有圆顶头部、小型侧臂、履带、通风口和机械细节。背景展示了破碎的建筑构图，前景有瓦砾，天空中漂浮着碎片，浓云中透出一道明亮的光裂缝。
+
+主体细节：主要人类角色为 {argument name="character name" default="一个沉默的少女"}，留着 {argument name="hair style" default="深色短波波头"}，穿着 {argument name="outfit" default="深色夹克、短裤、过膝袜和黑色靴子"}。同伴为 {argument name="robot companion" default="一个带有圆顶头部的小型履带式圆柱形机器人"}。场景设定为 {argument name="ruined city setting" default="暴风雨下坍塌的未来超级城市"}。
+
+视觉风格：严肃的青年科幻漫画，水墨画风格，密集的建筑细节，粗犷的瓦砾，戏剧性的透视，大气朦胧感，浓重的黑色，纹理化的灰度，电影级构图，无音效，气泡内无可见文字。
+
+约束：严格 4 个分镜和 4 个空白对话气泡。保持所有对话气泡为带有黑色轮廓的空白白色。不要添加标题、水印、Logo、页码或额外字符。
+
+[English]
+Goal: Create a black-and-white sci-fi manga page showing a ruined futuristic city after a catastrophe, with cinematic wide shots and empty dialogue bubbles for later lettering.
+
+Canvas: Vertical manga page, portrait orientation, clean white page border, high-contrast monochrome ink and grayscale screentone, detailed debris textures, dramatic cloudy sky, no color.
+
+Layout: Use exactly 4 horizontal panels stacked from top to bottom, separated by thick white gutters.
+- Panel 1: A very wide establishing shot filling the top third of the page. Show a devastated megacity with collapsed skyscrapers, broken elevated roads, rubble, dust, and a stormy sky split by bright light. Include floating chunks of wreckage in the sky. Add exactly 2 blank white manga speech bubbles: one tall rounded polygon bubble at the upper left and one larger rounded polygon bubble at the upper right.
+- Panel 2: A narrow panoramic panel beneath it. Low-angle view of a towering damaged building wall and a dark sky with a levitating rock or debris chunk. Add exactly 1 blank white speech bubble on the right side.
+- Panel 3: A narrow action-detail panel. Close-up of one black combat boot stepping onto cracked ground, with small stones and debris floating around it. Add exactly 1 small blank white speech bubble on the left. Leave a large empty white rectangular gutter/space on the far right of this row, as if the panel does not extend across the full page.
+- Panel 4: A large final panel occupying the bottom portion. Rear view of a young girl and a small robot facing the ruined city and apocalyptic sky. The girl stands on the left, wearing a dark jacket, short shorts, thigh-high black socks, and sturdy boots, with short dark bobbed hair. The robot stands to her right, squat and cylindrical with a domed head, small side arms, treads, vents, and mechanical details. The background shows broken buildings framing the scene, rubble in the foreground, floating debris in the sky, and a bright crack of light through dense clouds.
+
+Subject details: The main human character is {argument name="character name" default="a silent young girl"}, with {argument name="hair style" default="short dark bobbed hair"}, wearing {argument name="outfit" default="dark jacket, short shorts, thigh-high socks, and black boots"}. The companion is {argument name="robot companion" default="a small cylindrical treaded robot with a domed head"}. The setting is {argument name="ruined city setting" default="a collapsed futuristic megacity under a stormy sky"}.
+
+Visual style: Serious seinen sci-fi manga, painterly ink wash, dense architectural detail, gritty rubble, dramatic perspective, atmospheric haze, heavy blacks, textured grayscale, cinematic composition, no sound effects, no visible lettering inside the bubbles.
+
+Constraints: Exactly 4 panels and exactly 4 blank speech bubbles. Keep all speech bubbles empty white with black outlines. Do not add captions, titles, watermarks, logos, page numbers, or extra characters.
+```
+
+**来源：** [@さとしき＠🎵AI Doodler💫💫🌐](https://x.com/satoshiki5/status/2072264719357088224) | 2026-07-01
+
+---
+
+### 🎬 例 2925：MapleStory 风格像素头像生成器
+
+![MapleStory 风格像素头像生成器](../../images/MapleStory%20%E9%A3%8E%E6%A0%BC%E5%83%8F%E7%B4%A0%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+あなたはアニメ・ゲーム・マンガキャラクターをメイプルストーリー風プレイヤーアバタースプライトに変換する専門のピクセルアートディレクターです。
+
+【作業】
+1. キャラクターの外見的特徴を分析する
+・ヘアスタイル
+・髪色
+・瞳の色
+・代表的な衣装
+・アクセサリー
+・武器
+・シンボル要素
+・代表カラー
+
+2. 上記の特徴を維持しながらメイプルストーリーのプレイヤーキャラクター構造に再解釈する
+
+3. 一般的なピクセルアートではなく実際のメイプルストーリーのプレイヤーキャラクタースプライトに見えること
+────────────────────
+【キャラクター構造仕様】
+・頭部＋ヘア：全体の60〜65%
+・胴体：15〜18%
+・脚：20〜25%
+・2〜2.3頭身
+・35〜45度クォータービュー
+・両目が見える正面寄りの角度
+・ほぼ平面的な2Dスプライト顔
+・目は顔の下部に配置
+・目の間隔は広め
+・横に広い平らな目
+・大きな瞳
+・瞳のハイライトあり
+・鼻の表現禁止
+・非常に小さな口
+・柔らかいチーク
+・首の表現禁止（頭が胴体に直結）
+・顎の下からすぐ衣装が始まる
+
+ヘアスタイル
+・キャラクターのアイデンティティの核心
+・頭部より大きなボリューム
+・シルエット優先
+・毛束の表現は最小限
+・上部にハイライトあり
+
+身体
+・非常に小さな胴体
+・短い腕
+・短い脚
+・シンプルな円筒形の四肢
+・関節表現は最小限
+
+装備レイヤー構造
+Hair / Hat / Face Accessory / Top / Bottom
+Shoes / Cape / Weapon
+
+ポーズ
+・立ちポーズ（キャラクター選択画面風）
+・ジャンプ禁止
+・戦闘ポーズ禁止
+・アクション演出禁止
+────────────────────
+【ピクセルレンダリング仕様】
+目標：32〜64pxのゲームスプライトを拡大表示した雰囲気
+
+・低解像度ゲームスプライト
+・塊感のあるピクセル構造
+・グリッド整列ピクセルアート
+・ピクセルブロックが見える
+・クリーンな1pxアウトライン
+・限定カラーパレット
+・フラットカラーシェーディング
+・最小限のシェーディング
+・ディザリング禁止
+・スムーズグラデーション禁止
+・エアブラシ効果禁止
+
+【禁止スタイル】
+ポケモン風 / テラリア風 / スターデューバレー風
+リアル系 / 3Dレンダリング / イラスト風
+アニメイラスト / デジタルペインティング
+HD画質ピクセルアート / 滑らかなグラデーション
+────────────────────
+【出力条件】
+・キャンバスサイズ：1080×1080
+・背景：純白（#FFFFFF）
+・キャラクター1体のみ
+・全身表示
+・中央配置
+・キャンバス高さの約75%を占める
+・テキスト・ロゴ・透かし禁止
+・背景オブジェクト禁止
+・地面禁止
+────────────────────
+キャラクターを実際のメイプルストーリープレイヤーアバタースプライトとして生成してください。
+汎用的なピクセルアートキャラクターではなく、
+添付画像をメイプルストーリー風に変換した結果に見えること。
+```
+
+**来源：** [@ケンイチ | 「ChatGPT×副業」教える人](https://x.com/ChatgptAIskill/status/2072243943153258586) | 2026-07-01
+
+---
+

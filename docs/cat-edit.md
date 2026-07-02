@@ -2452,3 +2452,21 @@ Create a vibrant graffiti street art style image from the {argument name="subjec
 
 ---
 
+### 🔧 例 2883：动漫女仆变身
+
+![动漫女仆变身](../../images/%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%BB%86%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为角色和服装基础，将照片转换为精美的全身动漫插画。保留原有的女仆偶像服装设计、金发、头饰、腕带、过膝袜以及欢快的双 V 手势，但将构图从裁剪的俯拍照片改为清晰的站立角色姿势：正面朝向，双眼闭合呈开心的微笑状，双手举起比 V，一条腿伸直，另一条腿俏皮地向后弯曲。将角色延伸至全身，并添加配套的亮金色鞋子。将真实的木质房间替换为简洁的淡紫色背景。在头部周围添加 3 个漂浮的粉色爱心图标：左侧 2 个，右侧 1 个。风格：充满活力的现代动漫主视觉图、清晰的线条、光泽高光、柔和腮红、可爱活泼的表情、干净的赛璐珞阴影、高细节、无写实感、无文字、无水印。可选自定义：设置背景为 {argument name="background color" default="pale lavender"}，设置氛围为 {argument name="character mood" default="joyful and cute"}，并将装饰效果保持为 {argument name="floating icons" default="3 pink hearts"}。
+
+[English]
+Using REFERENCE_0 as the character and costume base, transform the photo into a polished full-body anime illustration. Keep the same maid-idol outfit design, blonde hair, headpiece, wrist cuffs, thigh-high stockings, and cheerful double peace-sign gesture, but change the composition from a cropped overhead photo into a clean standing character pose: front-facing, eyes closed in a joyful smile, both hands raised with V signs, one leg straight down and the other bent backward playfully. Extend the character to full body and add matching shiny gold shoes. Replace the real wooden room with a simple pale lavender background. Add exactly 3 floating pink heart icons around the head: 2 on the left side and 1 on the right side. Style: vibrant modern anime key visual, crisp line art, glossy highlights, soft blush, cute energetic expression, clean cel shading, high detail, no photorealism, no text, no watermark. Optional customization: make the background {argument name="background color" default="pale lavender"}, set the mood to {argument name="character mood" default="joyful and cute"}, and keep the accent effects as {argument name="floating icons" default="3 pink hearts"}.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2072354291365609620) | 2026-07-01
+
+---
+

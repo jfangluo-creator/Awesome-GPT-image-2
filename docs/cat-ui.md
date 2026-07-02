@@ -5405,3 +5405,155 @@ Create a dramatic vertical anime dark-fantasy action illustration of {argument n
 
 ---
 
+### 🖥️ 例 2873：糖果雨街道与少女和小猫
+
+![糖果雨街道与少女和小猫](../../images/%E7%B3%96%E6%9E%9C%E9%9B%A8%E8%A1%97%E9%81%93%E4%B8%8E%E5%B0%91%E5%A5%B3%E5%92%8C%E5%B0%8F%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级照片写实场景，背景是夏日雨后金色的黄昏时分，一条安静的日本住宅街道。一位年轻的日本女性，{argument name="character age" default="20 岁出头"}，蹲在画面左中侧潮湿的柏油路上，单手撑着一把半透明的 {argument name="umbrella color" default="粉色"} 雨伞。她留着深棕色的齐肩直发，带有刘海，表情温柔而沉思，正低头看着右侧一只顽皮的虎斑小猫。她身穿白色无袖吊带衫、牛仔短裤、白色运动鞋，单肩背着一个深海军蓝色的背包。小猫体型娇小，呈棕灰色条纹状，尾巴高高翘起，小心翼翼地穿过浅水洼，仿佛在拍打地上的糖果。空气和街道上散落着无数色彩缤纷的包装糖果和圆形糖果，仿佛下的是糖果雨而非雨水；展示悬浮在半空、在湿润路面上弹跳以及散落在水洼中的糖果，呈现出明亮的红、黄、蓝、绿、粉色以及透明包装。雨伞表面应点缀着细小的糖果和雨滴。采用低机位视角，浅景深，水洼中呈现逼真的倒影，带有闪烁的焦外成像效果，街道尽头的夕阳提供温暖的背光，背景中隐约可见细节丰富的郊区房屋、围墙、电线杆和电线。氛围：温柔、奇幻、令人愉悦的雨后幻想，具备写实摄影质感。无文字，无水印，无额外人物，无车辆。
+
+[English]
+Create a cinematic photorealistic scene in a quiet Japanese residential street after summer rain at golden-hour sunset. A young Japanese woman, {argument name="character age" default="early 20s"}, crouches low on the wet asphalt near the left-center of the frame, holding a translucent {argument name="umbrella color" default="pink"} umbrella above her with one hand. She has straight dark brown shoulder-length hair with bangs, a soft thoughtful expression, and looks down toward a playful tabby kitten on the right. Dress her in a white sleeveless camisole, denim shorts, white sneakers, and a dark navy backpack slung over one shoulder. The kitten is small, striped brown-gray, tail raised, stepping carefully through shallow puddles as if batting at candy on the ground. Fill the air and street with countless colorful wrapped candies and round candy drops, as if candy is raining down instead of rain; show candies suspended in midair, bouncing on the wet road, and scattered across puddles, with bright reds, yellows, blues, greens, pinks, and transparent wrappers. The umbrella surface should be dotted with tiny candies and raindrops. Use a low eye-level perspective, shallow depth of field, realistic reflections in puddles, sparkling bokeh highlights, warm backlighting from the setting sun at the end of the street, and detailed suburban houses, walls, utility poles, and power lines fading into the background. Mood: gentle, whimsical, encouraging morning-rain fantasy with realistic photography quality. No text, no watermark, no extra people, no vehicles.
+```
+
+**来源：** [@ゆきっぺ3rd](https://x.com/taposko3rd/status/2072450857363546588) | 2026-07-01
+
+---
+
+### 🖥️ 例 2897：动漫角色设计图
+
+![动漫角色设计图](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细动漫插画，电影级角色设计图，柔和奇幻写实风格，高端游戏概念艺术，简洁 UI 布局，专业角色设定集，工作室设计项目，光影感
+
+[English]
+ultra-detailed anime illustration, cinematic character design sheet, soft fantasy realism, high-end game concept art, clean UI layout, professional character bible, studio design board, luminous
+```
+
+**来源：** [@Renoise](https://x.com/renoiseai/status/2072323713966788830) | 2026-07-01
+
+---
+
+### 🖥️ 例 2904：空间计算科技杂志封面
+
+![空间计算科技杂志封面](../../images/%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E7%A7%91%E6%8A%80%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实科技杂志封面，主角是一位身着极简 {argument name="clothing" default="鸽灰色罗纹高领毛衣"} 和炭灰色定制阔腿裤的 {argument name="nationality" default="韩国"} 女性，佩戴着 Apple Vision Pro 头显。她双手优雅地抬起，仿佛正在操控隐形的悬浮 UI 面板，手指轻盈地捏合着全息内容。柔和的界面光映照在细腻的瓷感肌肤上，发型顺滑利落，妆容清透。背景：无缝深石板色工作室，配有悬浮的半透明 visionOS 界面窗口，以及从头显中散发出的柔和体积光束。杂志刊头为 "{argument name="magazine" default="THE VERGE"}"，采用简洁现代的无衬线字体，副标题为 "SPATIAL COMPUTING ISSUE"（空间计算特刊）。85mm 镜头，超精细的头显铝合金质感及界面光在皮肤上的交互效果，8K 照片级画质。负面提示词：卡通、模糊、姿势笨拙、水印、手部畸形。
+
+[English]
+Ultra-realistic tech magazine cover featuring a sleek {argument name="nationality" default="Korean"} woman in a minimalist {argument name="clothing" default="dove-grey ribbed turtleneck"} and tailored charcoal wide-leg trousers, wearing an Apple Vision Pro headset with both hands gracefully raised mid-air as if manipulating invisible floating UI panels, fingers delicately pinching holographic content. Soft glowing porcelain skin illuminated by subtle interface glow, sleek straight hair, barely-there makeup. Background: seamless dark slate studio with floating translucent visionOS interface windows and soft volumetric light beams emanating from the headset. "{argument name="magazine" default="THE VERGE"}" masthead in clean modern sans-serif with "SPATIAL COMPUTING ISSUE" subheading. 85mm lens, ultra-detailed headset aluminium texture and UI glow interaction on skin, 8K photorealistic. Negative: cartoon, blurry, clunky pose, watermark, distorted hands.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2072309639828656143) | 2026-07-01
+
+---
+
+### 🖥️ 例 2930：等距工作流自动化插图
+
+![等距工作流自动化插图](../../images/%E7%AD%89%E8%B7%9D%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8F%92%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张白色背景下的简洁等距企业网站插图，中心展示一台风格化的笔记本电脑，屏幕上显示着工作流自动化图表。一名身穿红色毛衣、黑色裤子、白色鞋子的人物站在笔记本电脑右侧，向前伸手按下屏幕上一个红色的圆角方形节点。采用现代矢量/3D 混合风格，配以粗黑色轮廓、柔和的灰色阴影、白色表面，以及橙色、红色、黑色和浅灰色的有限配色方案。包含 7 个由带有小型橙色圆形连接点的黑色电路状线条连接的独特周边物体：笔记本电脑屏幕后左上方有 1 个大型橙色齿轮，右侧有 1 个小型红色齿轮，右上角有 1 个顶部带有橙色方块的白色圆角立方体，左下角有 1 个带有饼图图标的白/红色圆角立方体，底部中心有 1 个带有橙色勾选标记的小型白色圆角立方体，右下角有 1 个顶部为橙色且带有橙/红色小点的堆叠式白色服务器状立方体，以及 1 台带有可见键盘和触控板的中央笔记本电脑。在笔记本电脑屏幕上包含 5 个工作流 UI 元素：2 个带有白色圆形中心的红色圆角方形节点，中间 1 个橙色圆角矩形，1 个带有三个小色点的白色圆角矩形，以及 1 条通向右侧红色节点的黑色曲线连接线。保持构图通透、极简、友好，并适合作为 {argument name="business theme" default="自动化与数字工作流"} 的企业网站主视觉资产。无文字，无 Logo，非写实，无杂乱元素。
+
+[English]
+Create a clean isometric corporate website illustration on a white background, showing a stylized laptop at the center with a workflow automation diagram on its screen. A human figure in a red sweater, black pants, and white shoes stands to the right of the laptop, reaching forward and pressing a red rounded-square node on the screen. Use a modern vector/3D hybrid style with thick black outlines, soft gray shadows, white surfaces, and a limited palette of orange, red, black, and light gray. Include exactly 7 distinct surrounding objects connected by black circuit-like lines with small orange circular junctions: 1 large orange gear in the upper left behind the laptop screen, 1 small red gear on the right, 1 white rounded cube with an orange top tile in the upper right, 1 white/red rounded cube with a pie-chart icon in the lower left, 1 small white rounded cube with an orange check mark at the bottom center, 1 stacked white server-like cube with an orange top and small orange/red dots in the lower right, and 1 central laptop with a visible keyboard and trackpad. On the laptop screen include exactly 5 workflow UI elements: 2 red rounded-square nodes with white circular centers, 1 orange rounded rectangle in the middle, 1 white rounded rectangle with three small colored dots, and 1 black curved connector leading to the right red node. Keep the composition airy, minimal, friendly, and suitable as a corporate site hero asset for {argument name="business theme" default="automation and digital workflow"}. No text, no logos, no photorealism, no clutter.
+```
+
+**来源：** [@はすきー｜Midjourneyマニア🐺](https://x.com/husky__create/status/2072216489688781194) | 2026-07-01
+
+---
+
+### 🖥️ 例 2931：日本 NEWT 旅行 App 广告
+
+![日本 NEWT 旅行 App 广告](../../images/%E6%97%A5%E6%9C%AC%20NEWT%20%E6%97%85%E8%A1%8C%20App%20%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="NEWT"} 创建一个精致的日本旅行服务发布广告，将令人向往的机场摄影、热带度假胜地图像和 App UI 模型结合在明亮的编辑风格拼贴画中。
+
+画布：方形 4:5 比例社交广告，768×960 视觉感，纵向构图，顶部留有充足的留白，采用鲜艳的祖母绿品牌色，简洁的现代日语排版，高端初创旅行活动美学。
+
+布局：使用动态分层拼贴。主体是一位面带微笑的年轻东亚女性，位于中心前景，半身至膝盖处，左手拉着深绿色行李箱拉杆，右手拿着智能手机。她穿着绿色针织上衣、宽松白裤和透明淡薄荷色条纹衬衫，背着编织奶油色单肩包，配有绿色小饰品。她抬头看向右侧，充满愉悦的度假活力。在她左后方，放置另一位身穿橙色开衫、在机场航站楼手持饮料的年轻东亚女性，背景是机场的项目。标题横跨左上角和上方中心，醒目且充满活力。品牌板块置于右侧：一个圆角绿色矩形，内含白色海龟状 Logo、NEWT 字样以及一个小型行动呼吁按钮。在右中区域悬浮预订 UI 卡片，下方放置酒店卡片。
+
+文本内容：日语主标题应为 {argument name="headline text" default="次の旅が、もう始まってる。"}。在右上角添加简短的日语副标题 {argument name="subcopy text" default="航空券も、ホテルも、アプリひとつで軽やかに。"}。在右上角附近添加简短的英文文案“TRAVEL FEELS NEW.”。在左侧添加一个小型垂直分类列表，包含 5 个项目：AIRPORT、HOTEL、CITY、BEACH、FOOD。绿色品牌板块应显示白色 Logo、“NEWT”以及“NEWTで旅をみる”。
+
+可见拼贴元素：包含 7 个主要视觉模块：1 个手持手机和行李箱的中心旅客，1 个次要机场旅客，1 个机场项目区域，1 个左下角带海景的豪华酒店房间，1 个左下角虾和蔬菜的食物特写，1 个右侧绿松石色海滩航拍图，以及 1 个右下角粉彩度假城市街道。保持它们无缝重叠，边缘剪裁清晰，具有编辑深度。
+
+App UI 细节：在右侧包含 2 个悬浮 App 卡片。卡片 1 是搜索表单，带有航班、酒店和套餐标签；目的地为“ソウル”，下方标注“SEOUL, KOREA”；日期范围为“6月20日(金) - 6月23日(月)”；旅客/舱位行显示“大人1名、エコノミー”；以及一个亮绿色按钮“検索する”。卡片 2 是酒店推荐卡片，包含度假泳池缩略图、小爱心图标、酒店名称“NEWT SEOUL 明洞”、评分“4.8”（带黄色星星）以及轮播点。
+
+风格：高调日光，光泽感商业旅行摄影与简洁矢量 UI 相结合，饱和的祖母绿点缀，带有微妙蓝色渐变的通风白色背景，自然的肤色，乐观的夏季氛围，清晰的日语排版，第一句使用加粗填充的绿色字体，第二句使用绿色轮廓字体。在右上角附近添加俏皮的虚线飞行路径和微小的地图定位针。采用高端编辑布局，逼真的照片拼贴，焦点清晰，无污渍，无水印，除品牌外无额外 Logo。
+
+[English]
+Goal: Create a polished Japanese travel-service launch advertisement for {argument name="brand name" default="NEWT"}, combining aspirational airport photography, tropical resort imagery, and app UI mockups in a bright editorial collage.
+
+Canvas: Square 4:5-ish social ad, 768×960 feel, portrait-oriented composition with generous white space at the top, vivid emerald green brand color, clean modern Japanese typography, premium startup travel campaign aesthetic.
+
+Layout: Use a dynamic layered collage. The main subject is a smiling young East Asian woman in the center foreground, waist-up to knees, walking with a dark green rolling suitcase handle in her left hand and holding a smartphone in her right hand. She wears a green knit top, loose white pants, and a sheer pale mint striped overshirt, with a woven cream shoulder bag and small green accessory charm. She looks up and to the right with joyful vacation energy. Behind her left side, place a second smiling young East Asian woman in an orange cardigan at an airport terminal holding a drink, with a departure board behind her. Place the headline across the top-left and upper center, large and energetic. Put the brand block on the right: a rounded green rectangle with a white turtle-like logo, the word NEWT, and a small call-to-action. Add booking UI cards floating over the right-middle area and a hotel card below.
+
+Text content: The main Japanese headline should read {argument name="headline text" default="次の旅が、もう始まってる。"}. Add a small upper-right Japanese subcopy reading {argument name="subcopy text" default="航空券も、ホテルも、アプリひとつで軽やかに。"}. Add small English copy “TRAVEL FEELS NEW.” near the upper-right. Add a small vertical category list on the left with exactly 5 items: AIRPORT, HOTEL, CITY, BEACH, FOOD. The green brand block should show the white logo, “NEWT”, and “NEWTで旅をみる”.
+
+Visible collage elements: Include exactly 7 main visual modules: 1 central traveler holding phone and suitcase, 1 secondary airport traveler, 1 airport departure board area, 1 luxury hotel room with ocean view at lower left, 1 food close-up with shrimp and vegetables at bottom left, 1 turquoise beach aerial at right, and 1 pastel resort city street at bottom right. Keep them seamlessly overlapped with crisp cutout edges and editorial depth.
+
+App UI details: Include exactly 2 floating app cards on the right. Card 1 is a search form with tabs for flights, hotels, and package; destination “ソウル” with “SEOUL, KOREA”; date range “6月20日(金) - 6月23日(月)”; traveler/class line “大人1名、エコノミー”; and a bright green button “検索する”. Card 2 is a hotel recommendation card with a resort pool thumbnail, small heart icon, hotel name “NEWT SEOUL 明洞”, rating “4.8” with yellow stars, and carousel dots.
+
+Style: High-key daylight, glossy commercial travel photography mixed with clean vector UI, saturated emerald green accents, airy white background with subtle blue gradient, natural skin tones, optimistic summer mood, crisp Japanese typography with thick filled green characters for the first phrase and outlined green characters for the second phrase. Add playful dotted flight path and tiny map pin near the top-right. Use premium editorial layout, realistic photo collage, sharp focus, no grunge, no watermark, no extra logos beyond the brand.
+```
+
+**来源：** [@Takaya Shinozuka / CEO of Reiwa Travel](https://x.com/shinojapan/status/2072208937349492857) | 2026-07-01
+
+---
+
+### 🖥️ 例 2940：Farnsworth House LESS 海报
+
+![Farnsworth House LESS 海报](../../images/Farnsworth%20House%20LESS%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简主义现代主义建筑海报，主题为 {argument name="architect and building" default="密斯·凡·德·罗 — Farnsworth House"}，画面中心为一张干净的白纸，在暖白色的墙面上投下微妙的阴影。
+
+画布：竖版海报，比例约为 2:3，留有宽裕的边距，呈现精致的画廊印刷质感。使用柔和的鼠尾草绿、灰色、黑色和米白色调，采用清晰的矢量风格插画、轻微的纸张纹理以及包豪斯/瑞士风格排版。
+
+布局：在顶部中心位置，放置两行小字大写字母，内容分别为 "MIES VAN DER ROHE" 和 "THE FARNSWORTH HOUSE"。在其下方，用一个巨大的粗体黑色单词 {argument name="main headline" default="LESS"} 占据海报主体，采用压缩的无衬线大写字体，横跨大部分宽度。建筑插画与该单词的下半部分重叠。
+
+主体细节：将 Farnsworth House 表现为正立面视角下的长条形低矮透明玻璃展馆：白色的平屋顶板、由细长白色立柱支撑的白色底板、带有可见室内家具的透明玻璃墙，以及通向悬浮露台平台的中央楼梯。正面立面需精确绘制 6 根醒目的垂直白色结构柱，以及细长的窗棂。右侧包含浅浅的反射水面或地面，下方为棱角分明的绿色阴影，背景为平坦的现代景观。房屋周围需精确绘制 9 棵风格化的树木/灌木：2 棵深绿色高尖树、2 棵浅灰色垂直树、2 丛圆形浅绿色灌木、2 棵细长叶树，以及右侧 1 棵小型堆叠椭圆形树。
+
+文字内容：在插画下方，居中放置一段紧凑的窄版无衬线大写段落："A PROTOTYPE OF MODERNIST DOMESTIC ARCHITECTURE, DEFINED BY ABSOLUTE SIMPLICITY, TRANSPARENCY, AND A PROFOUND CONNECTION WITH NATURE. THE TRANSPARENT GLASS WALLS BLUR THE BOUNDARY BETWEEN INTERIOR AND EXTERIOR, REALIZING MIES VAN DER ROHE'S PRINCIPLE OF 'LESS IS MORE'." 在底部中心，添加地点/日期行 {argument name="location and year" default="美国伊利诺伊州普莱诺 | 1951 年"}。
+
+视觉风格：极简扁平矢量海报，建筑立面图，玻璃具有微妙的透明感，干净的几何构图，柔和的中世纪现代配色，强烈的排版层级，精准的对齐，无人物，无 Logo，无水印。
+
+[English]
+Goal: Create a minimalist modernist architecture poster for {argument name="architect and building" default="Mies van der Rohe — The Farnsworth House"}, centered on a clean white paper sheet with subtle shadow on a warm off-white wall.
+
+Canvas: Vertical poster, approximately 2:3 aspect ratio, with generous margins and a refined gallery-print look. Use muted sage green, gray, black, and off-white tones, crisp vector-like illustration, slight paper grain, and Bauhaus/Swiss typography.
+
+Layout: At the top center, place two small uppercase lines reading "MIES VAN DER ROHE" and "THE FARNSWORTH HOUSE". Below them, dominate the poster with one enormous bold black word, {argument name="main headline" default="LESS"}, in condensed sans-serif capitals, spanning most of the width. The architectural illustration overlaps the lower half of this word.
+
+Subject details: Show the Farnsworth House as a long, low, transparent glass pavilion in front elevation: a white flat roof slab, a white floor slab raised on thin white columns, transparent glass walls with visible interior furniture, and a central stair leading down to a floating terrace platform. Count exactly 6 prominent vertical white structural columns across the front facade, plus thin window mullions. Include a shallow reflective water or ground plane to the right, angular green shadows below, and a flat modern landscape behind it. Count exactly 9 stylized trees/shrubs around the house: 2 tall dark green pointed trees, 2 pale gray vertical trees, 2 rounded pale green shrub masses, 2 slender leafy trees, and 1 small stacked oval tree near the right side.
+
+Text content: Below the illustration, center a compact uppercase paragraph in narrow sans-serif: "A PROTOTYPE OF MODERNIST DOMESTIC ARCHITECTURE, DEFINED BY ABSOLUTE SIMPLICITY, TRANSPARENCY, AND A PROFOUND CONNECTION WITH NATURE. THE TRANSPARENT GLASS WALLS BLUR THE BOUNDARY BETWEEN INTERIOR AND EXTERIOR, REALIZING MIES VAN DER ROHE'S PRINCIPLE OF 'LESS IS MORE'." At the bottom center, add the location/date line {argument name="location and year" default="PLANO, ILLINOIS, USA | 1951"}.
+
+Visual style: Minimal flat vector poster, architectural elevation drawing, subtle transparency in glass, clean geometric composition, muted mid-century modern palette, strong typographic hierarchy, precise alignment, no people, no logos, no watermark.
+```
+
+**来源：** [@MarioTan](https://x.com/TanShilong/status/2072159514946867637) | 2026-07-01
+
+---
+
