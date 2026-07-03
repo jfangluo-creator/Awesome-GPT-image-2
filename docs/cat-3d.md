@@ -4198,3 +4198,93 @@ Constraints: No extra characters, no scenery, no watermark, no logo, no photorea
 
 ---
 
+### 🧸 例 2959：马卡龙色系花朵贴纸印章玩具
+
+![马卡龙色系花朵贴纸印章玩具](../../images/%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E8%8A%B1%E6%9C%B5%E8%B4%B4%E7%BA%B8%E5%8D%B0%E7%AB%A0%E7%8E%A9%E5%85%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的 3D 概念艺术产品渲染图，展示一款可爱的玩具贴纸印章打印机。打印机呈圆润的垂直胶囊状，置于柔和的淡紫色背景中心。玩具上半部分为奶油色，下半部分底座为明亮的青柠绿，采用光泽模塑塑料材质，边缘圆润，配以柔和的摄影棚灯光和细腻的接触阴影。顶部设有一个大型圆形粉色按钮，按钮上压印着一朵简单的五瓣花，中心有一个凸起的圆点。中间设有一个黄色扇形旋转拨盘，白色圆形盘面上显示着一个带有两片绿叶的紫色郁金香图标，上方配有一个小型橙色三角形指针。拨盘周围有四个小花图标：左上角为粉色花朵，右上角为蓝色花朵，左下角为发光的黄色花朵，右下角为紫色花朵，此外还有小型装饰性圆点指示器，底部角落附近配有两对绿色叶片按钮。正面底部设有一个水平贴纸槽，带有绿色脊状滚轮边缘，送出一张带有圆角的奶油色纸带。纸带上垂直排列着三张印制好的花朵贴纸：顶部是带黄色花心的粉色花朵，中间是带黄色花心的紫色花朵，底部是带黄色花心的蓝色花朵，每朵花都带有绿叶和茎。采用趣味十足的玩具研究美学风格，适用于 {argument name="product type" default="sticker-stamp toy"}，配色采用马卡龙色系，包含 {argument name="background color" default="lavender"} 背景、奶油色塑料机身、{argument name="base color" default="lime green"} 底座、{argument name="top button color" default="pink"} 顶部按钮以及 {argument name="dial icon" default="purple tulip"} 拨盘图标。无文字、无 Logo、无水印、无人手、无额外配件，正面视角，高细节平滑塑料渲染，适合作为游戏概念艺术素材。
+
+[English]
+Create a polished 3D concept-art product render of a cute toy sticker-stamp printer shaped like a rounded vertical capsule, centered on a soft pastel lavender background. The toy has a cream upper body and bright lime-green lower base, with glossy molded plastic, rounded bevels, soft studio lighting, and subtle contact shadow. At the top is one large circular pink push button embossed with a simple five-petal flower and a raised circular center. In the middle is one yellow scalloped rotary dial with a white circular face showing a purple tulip icon with two green leaves, and a small orange triangular pointer above it. Around the dial are exactly four small flower icons: pink flower at upper left, blue flower at upper right, glowing yellow flower at lower left, and purple flower at lower right, plus small decorative dot indicators and two pairs of green leaf buttons near the bottom corners. At the front bottom is a horizontal sticker slot with a green ridged roller edge, feeding out one cream paper strip with rounded corners. The strip shows exactly three printed flower stickers stacked vertically: pink flower with yellow center at top, purple flower with yellow center in the middle, and blue flower with yellow center at bottom, each with green leaves and stem. Use a playful toy-study aesthetic for {argument name="product type" default="sticker-stamp toy"}, pastel palette with {argument name="background color" default="lavender"}, cream plastic body, {argument name="base color" default="lime green"}, {argument name="top button color" default="pink"}, and {argument name="dial icon" default="purple tulip"}. No text, no logo, no watermark, no hands, no extra accessories, front-facing view, high-detail smooth plastic render suitable for game concept art.
+```
+
+**来源：** [@Pokitoy](https://x.com/oasiverse_stu/status/2072762484855808197) | 2026-07-02
+
+---
+
+### 🧸 例 2966：迷你天气伙伴手办
+
+![迷你天气伙伴手办](../../images/%E8%BF%B7%E4%BD%A0%E5%A4%A9%E6%B0%94%E4%BC%99%E4%BC%B4%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的收藏级玩具概念艺术图，画面中并排摆放着三个迷你天气伙伴，背景为无缝的淡紫色摄影棚背景。渲染效果为柔和的 3D 乙烯基手办，造型圆润，拥有光泽的珠状眼睛、柔和的腮红、珍珠般的塑料质感以及柔和的漫射光。左侧的伙伴是一个坐在蓬松云朵底座上的瞌睡夜云角色，闭着眼睛，嘴巴微撇，戴着一顶带有白色绒球和悬挂黄色星星吊坠的淡紫色睡帽，并穿着一件在结处系有黄色小星星蝴蝶结的配套淡紫色斗篷；它抱着或靠着一个装饰有一个黄色月牙和一个黄色星星的紫色月牙枕头。中间的伙伴是一个站在小云朵底座上的雨云宝宝，有着大而明亮的深色眼睛和惊讶的 O 型小嘴，穿着一件 {argument name="coat color" default="天蓝色"} 雨衣，雨衣上有两个黄色纽扣、配套的雨靴，下摆附近有两个白色小云朵补丁；它拿着一把边缘呈扇贝状的透明雨伞，伞顶为淡蓝色，伞柄为银色，手柄呈弯曲的蓝色，右侧悬挂着一个蓝色雨滴吊坠。右侧的伙伴是一个坐在蓬松云朵底座上的平静雾云，闭着眼睛微笑，脸颊粉红，穿着一件 {argument name="hood color" default="薄荷绿"} 连帽雨披，内衬为深绿色，一侧有一个蓝色小绒球吊坠，另一侧有一个蓝色雨滴吊坠；它拿着一个透明的花形物体，中心悬挂着一颗蓝色雨滴，脸颊上有一个带有蓝色小水滴的白色小云朵。保持构图居中，三个角色占据垂直 {argument name="aspect ratio" default="2:3"} 画布的下半部分，上方留出充足的淡紫色空白空间。采用奇幻的 kawaii 独立游戏概念艺术风格，高细节，雕塑感造型清晰，玩具下方有细微阴影，无文字，无水印，无多余角色。
+
+[English]
+Create a cute collectible toy concept art image of exactly three tiny weather companions arranged side by side on a seamless pastel lavender studio background, rendered as soft 3D vinyl figurines with rounded shapes, glossy bead eyes, gentle blush, pearly plastic translucency, and soft diffused lighting. The left companion is a sleepy night cloud character sitting on a puffy cloud base, with closed eyes and a tiny sad mouth, wearing a lavender sleeping cap with a white pom-pom and a dangling yellow star charm, plus a matching lavender cape tied in a bow with a small yellow star at the knot; it holds or rests beside a purple crescent-moon pillow decorated with one yellow crescent moon and one yellow star. The center companion is a rainy cloud child standing on a small cloud base, with wide shiny dark eyes and a small surprised O-shaped mouth, wearing a {argument name="coat color" default="sky blue"} raincoat with exactly two yellow buttons, matching rain boots, and two small white cloud patches near the hem; it holds a clear translucent umbrella with scalloped edges, a pale blue top knob, a silver shaft, and a curved blue handle, and has one dangling blue raindrop charm on its right side. The right companion is a calm misty rain cloud sitting on a puffy cloud base, with closed smiling eyes and pink cheeks, wearing a {argument name="hood color" default="mint green"} hooded rain cape with a deeper green inner hood, a small blue pom-pom charm on one side, and one dangling blue raindrop charm on the other side; it holds a translucent flower-shaped object with a single blue raindrop hanging in the center and has a tiny white cloud with blue droplets on its cheek. Keep the composition centered with the three figures occupying the lower half of a vertical {argument name="aspect ratio" default="2:3"} canvas, leaving generous empty lavender space above. Use a whimsical kawaii indie game concept-art style, high detail, clean sculptural forms, subtle shadows under the toys, no text, no watermark, no extra characters.
+```
+
+**来源：** [@Pokitoy](https://x.com/oasiverse_stu/status/2072716176153567658) | 2026-07-02
+
+---
+
+### 🧸 例 2969：微笑宝宝与五只小猫
+
+![微笑宝宝与五只小猫](../../images/%E5%BE%AE%E7%AC%91%E5%AE%9D%E5%AE%9D%E4%B8%8E%E4%BA%94%E5%8F%AA%E5%B0%8F%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版超萌写实风格宝宝与小猫壁纸。画面中心是一位全身可见、正在微笑的宝宝，坐在温馨的浅粉色育婴室里的毛绒粉色地毯上。宝宝穿着 {argument name="baby outfit color" default="柔粉色"} 抓绒睡衣，戴着配套的针织动物帽，帽子上有护耳、圆圆的熊耳朵、绒球、可爱的刺绣动物脸、超大的黑色卡通眼睛和红润的脸颊。宝宝有着明亮的大眼睛、红扑扑的脸蛋和开心的笑容，正对着镜头。在宝宝周围环绕 5 只小猫：左下方一只奶油色小猫，宝宝双腿之间正前方一只灰色虎斑小猫，宝宝左肩后方一只棕色虎斑小猫，宝宝右肩后方一只棕色虎斑小猫，右下方一只条纹虎斑小猫。所有小猫都要毛茸茸、体型娇小、眼睛圆睁，且大致面向镜头。使用温暖的金色窗光、柔和的桃粉色调、浅景深、奶油般虚化的背景，营造梦幻可爱的宠物壁纸美学。背景：柔焦处理的育婴室，有一扇巨大的发光窗户、花瓶里的粉色鲜花、温暖的仙女灯光点、带有粉色床品的浅色床铺以及毛绒装饰。构图应呈现对称与温馨感，以宝宝为中心主体，小猫簇拥在腿部和肩部周围。细节要求：宝宝的面部、帽子纹理、抓绒面料、小猫毛发以及宝宝脚底的爪印图案需高度清晰。无文字，无水印，无额外人物，无肢体扭曲，无惊悚表情。
+
+[English]
+Create a vertical 9:16 ultra-cute photorealistic baby-and-kittens wallpaper. Center a smiling baby with full body visible, sitting on a fluffy pink rug in a cozy pastel-pink nursery bedroom. The baby wears {argument name="baby outfit color" default="soft pink"} fleece pajamas and a matching knitted animal hat with ear flaps, round bear ears, pom-poms, a cute embroidered animal face, oversized black cartoon eyes, and blush cheeks. The baby has big bright eyes, rosy cheeks, and an open happy smile, looking directly at the camera. Surround the baby with exactly 5 kittens: one cream kitten at the lower left, one gray tabby kitten sitting in front center between the baby’s legs, one brown tabby kitten behind the baby’s left shoulder, one brown tabby kitten behind the baby’s right shoulder, and one striped tabby kitten at the lower right. Keep all kittens fluffy, tiny, wide-eyed, and facing generally toward the camera. Use warm golden window light, soft peach-pink color grading, shallow depth of field, creamy bokeh, and a dreamy cute pet wallpaper aesthetic. Background: softly blurred nursery with a large glowing window, pink flowers in vases, warm fairy-light dots, a pale bed with pink bedding, and plush decor. Composition should feel symmetrical and tender, with the baby as the central subject and kittens clustered around the legs and shoulders. High detail on the baby’s face, hat texture, fleece fabric, kitten fur, and paw-print soles on the baby’s feet. No text, no watermark, no extra people, no distorted limbs, no scary expressions.
+```
+
+**来源：** [@Mehedi Hasan Munna](https://x.com/MunnaAIBuilds/status/2072709528316190964) | 2026-07-02
+
+---
+
+### 🧸 例 2972：微缩化妆师的奇幻世界
+
+![微缩化妆师的奇幻世界](../../images/%E5%BE%AE%E7%BC%A9%E5%8C%96%E5%A6%86%E5%B8%88%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个梦幻般的童话美妆世界，微小的女性化妆师正在为一位年轻美女的巨型眼睛打造眼妆。这位女性拥有无瑕的瓷感肌肤、深邃传神的眼睛、涂满睫毛膏的长卷睫毛，以及柔和的自然光泽。中景构图，女性面部位于左侧，仅展示一只眼睛作为视觉中心。右侧是一张奢华的玫瑰金梳妆台，上面摆放着超大号的化妆品，几厘米高的微型化妆师们正在协同工作。两名身穿优雅玫瑰金专业化妆师长袍的微型美容师站在微型梯子上。其中一位正使用柔软的晕染刷，在巨大的眼睑上仔细晕染闪烁着金属光泽的 {argument name="eyeshadow color" default="pink"} 眼影。另一位正轻轻地从手中吹出散落的闪亮粉色亮粉，形成一团魔法般的亮粉云，缓缓落下并附着在眼睑上。亮粉在温暖的阳光下如同仙尘般闪烁。另一位微型艺术家正用软布仔细擦拭超大号的玫瑰金眼影罐。前景中醒目地摆放着三个装满闪亮粉色颜料的奢华圆形玫瑰金眼影罐，有的直立，有的侧放，体积远大于微型艺术家，以强调戏剧性的比例差异。闪烁的眼影反射着温暖的阳光，呈现出与亮粉完美呼应的绚丽金属高光。环境明亮、现代、优雅且极简，充满梦幻的奇幻氛围。柔和的自然日光，温暖的电影级布光，魔法光晕，浅景深，微距摄影，超写实皮肤纹理，超细节睫毛，高端奢华化妆品，奇幻微缩世界，迷人的童话意境，超现实比例对比，照片级真实感，HDR，8K，超清晰对焦，杰作，获奖级美妆摄影。
+
+[English]
+A fantastic fairy-tale beauty world where tiny female makeup artists create eye makeup on the giant eye of a beautiful young woman. The woman has flawless porcelain skin, a deep expressive eye, long curled eyelashes coated with mascara, and a soft natural glow. Mid-range composition with the woman's face positioned on the left side, showing only one eye as the central focus. On the right side, a luxurious rose-gold vanity table holds oversized cosmetic products where miniature makeup artists, only a few centimeters tall, work together. Two tiny beauticians wearing elegant rose-gold professional makeup artist robes stand on miniature step ladders. One carefully blends shimmering metallic {argument name="eyeshadow color" default="pink"} eyeshadow across the giant eyelid using a soft blending brush. Another gently blows loose sparkling pink glitter from her hand, creating a magical cloud of glitter that slowly falls and settles onto the eyelid. The glitter sparkles like fairy dust in warm sunlight. Another miniature artist carefully cleans the oversized rose-gold eyeshadow jars with a soft cloth. Three luxurious round rose-gold eyeshadow jars filled with shimmering pink pigment sit prominently in the foreground, both upright and lying on their sides, much larger than the tiny artists to emphasize the dramatic scale difference. The shimmering eyeshadow reflects warm sunlight with brilliant metallic highlights that perfectly match the glitter. The environment is bright, modern, elegant, and minimalistic with a dreamy fantasy atmosphere. Soft natural daylight, warm cinematic lighting, magical glow, shallow depth of field, macro photography, hyper-realistic skin texture, ultra-detailed eyelashes, premium luxury cosmetics, whimsical miniature world, enchanting fairy-tale mood, surreal scale contrast, photorealistic, HDR, 8K, ultra-sharp focus, masterpiece, award-winning beauty photography.
+```
+
+**来源：** [@Nas](https://x.com/Nas_tech_AI/status/2072707069157994957) | 2026-07-02
+
+---
+
+### 🧸 例 2985：炼油厂中的巨型武装机器人
+
+![炼油厂中的巨型武装机器人](../../images/%E7%82%BC%E6%B2%B9%E5%8E%82%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%9E%8B%E6%AD%A6%E8%A3%85%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实风格的竖构图图像，画面中心是一个巨大的女性人形战斗机器人，她站在阴暗多云天空下的工业炼油厂中央。机器人拥有苍白的瓷白色装甲躯体，分段式装甲板间露出黑色的机械关节、线缆、活塞、螺丝和复杂的内部机械结构；她拥有纤细的女性轮廓、宽阔的装甲胸部、修长的双腿、巨大的机械足，面部表情如玩偶般平静，皮肤苍白，双眼呈红色，肩部长度的 {argument name="hair color" default="银灰色"} 头发在风中微微飘动。她手中正好持有两件武器：左手握着或集成了一把长长的圆锥形矛状刃，指向潮湿的地面；右手握着一把长长的直剑状刃，向下向外倾斜。采用低角度透视以展现她高耸入云的姿态，强调其巨大的规模感。周围是广阔的炼油厂：背景中可见五座醒目的垂直蒸馏塔或烟囱，以及密集的脚手架、走道、管道、储罐、栏杆，地面上还有戴着头盔的小型人类工人以衬托比例。地面是潮湿的沥青路面，带有水坑和倒影，暗示刚下过雨。使用冷灰色调、高对比度的金属质感、写实光影、浅层大气雾霾，营造出戏剧性的科幻写实感。无文字，无 Logo，无水印。
+
+[English]
+Create a cinematic photorealistic vertical image of one gigantic humanoid female combat robot standing in the center of an industrial oil refinery under a dark overcast sky. The robot has a pale porcelain-white armored body with exposed black mechanical joints, cables, pistons, screws, and intricate inner machinery visible between segmented plates; she has a slim feminine silhouette, broad armored chest, long legs, large mechanical feet, a calm doll-like face, pale skin, red eyes, and shoulder-length {argument name="hair color" default="silver-gray"} hair blowing slightly in the wind. She is holding exactly two weapons: one long conical spear-like blade integrated into or gripped by her left hand, pointing downward to the wet ground, and one long straight sword-like blade in her right hand, angled down and outward. Show her from a low-angle perspective so she towers over the scene, emphasizing immense scale. Surround her with a sprawling refinery: exactly five prominent vertical distillation towers or chimneys visible in the background, plus dense scaffolding, catwalks, pipes, tanks, railings, and small human workers in helmets at ground level for scale. The ground is wet asphalt with puddles and reflections, suggesting recent rain. Use cool gray colors, high contrast metal textures, realistic lighting, shallow atmospheric haze, and dramatic sci-fi realism. No text, no logo, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2072685952406069665) | 2026-07-02
+
+---
+

@@ -7821,3 +7821,439 @@ Constraints: Keep all visible text in English, preserve the exact 9 shot cards a
 
 ---
 
+### 🏷️ 例 2958：Q 版动漫 DJ 现场演唱会
+
+![Q 版动漫 DJ 现场演唱会](../../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%20DJ%20%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的动漫 Q 版演唱会舞台插画，背景设定在充满未来感的 DJ 现场活动中。画布为 16:9 的宽幅横向场景，背景是拥挤的演唱会人群、发光的蓝、粉、紫、青色荧光棒，两侧有巨大的堆叠音箱，头顶是金属桁架索具、聚光灯、激光、星光般的闪烁效果，表演者身后有一个巨大的 LED 屏幕。在前景中，展示 3 位 Q 版动漫少女：中间的女孩是主 DJ，一位金发活力的 Q 版角色，头发被风吹起，闭着眼睛快乐地唱歌/呐喊，戴着黑色军装风格帽子，上面有金星，穿着黑色战术偶像服装，配有橙色点缀、露指手套和头戴式麦克风；她肩上扛着一台带有卷曲电缆的大型复古收音机，一只手放在右侧的唱盘上。左侧展示一位较小的棕发 Q 版女孩，穿着深红黑相间的军校制服，戴着配有红星的同款贝雷帽，表情惊讶，一只手向上举起。右侧展示一位戴圆眼镜、紫色头发的小巧 Q 版女孩，戴着白色水手帽，身着白蓝相间的服装，表情冷静，站在 DJ 台旁。前景的 DJ 设备必须包含 2 个唱盘、1 个带有许多旋钮和推杆的中央混音器、桌子左侧 1 台打开的笔记本电脑、可见的音频线，以及桌子下方和周围的航空箱。添加 2 个带有黑色轮廓的白色漫画对话气泡：左侧棕发女孩上方的气泡文字为 {argument name="left speech bubble" default="アイドルよね？"}；右侧紫发女孩上方的气泡文字为 {argument name="right speech bubble" default="元アイドルですね。"}。在 DJ 台正面放置一条深色横幅，上面用巨大的浅色字体写着 {argument name="event banner text" default="NIKKE DJ LIVE"}。采用精致的高细节日本动漫游戏插画风格，可爱的 Q 版比例，清晰的线条，光泽感的灯光，戏剧性的霓虹演唱会色彩，以及生动的偶像表演氛围。构图以金发 DJ 为中心，采用略微仰视的前景视角，使 DJ 台看起来宏大且富有动感。请勿在前景添加额外角色、额外的对话气泡、水印或无法辨认的随机文本。
+
+[English]
+Create a vibrant anime chibi concert-stage illustration set at a futuristic live DJ event. The canvas is a wide 16:9 horizontal scene with a packed concert crowd in the background, glowing blue, pink, purple, and cyan light sticks, large stacked speakers on both far sides, metal truss rigging overhead, spotlights, lasers, star-like sparkles, and a huge LED screen behind the performers. In the foreground, show exactly 3 chibi anime girls: the center girl is the main DJ, a blonde energetic chibi with wind-swept hair, eyes closed and singing/shouting happily, wearing a black military-style cap with a gold star, black tactical idol outfit with orange accents, fingerless gloves, and a headset mic; she carries a large retro boombox over one shoulder with a coiled cable and places one hand on the right turntable. On the left, show a smaller brown-haired chibi girl in a dark red-and-black military school uniform and matching beret with a red star, looking surprised and holding one hand up. On the right, show a small lavender-haired chibi girl with round glasses, a white sailor-style cap, white-and-blue outfit, and a calm expression, standing near the DJ table. The foreground DJ setup must include exactly 2 turntables, 1 central mixer with many knobs and sliders, 1 open laptop on the left side of the table, visible audio cables, and road cases beneath and around the table. Add exactly 2 white comic speech bubbles with black outlines: the left bubble above the brown-haired girl says {argument name="left speech bubble" default="アイドルよね？"}; the right bubble above the lavender-haired girl says {argument name="right speech bubble" default="元アイドルですね。"}. Put a dark banner on the front of the DJ booth reading {argument name="event banner text" default="NIKKE DJ LIVE"} in large pale lettering. Use a polished high-detail Japanese anime game illustration style, cute chibi proportions, crisp line art, glossy lighting, dramatic neon concert colors, and a lively idol-performance atmosphere. Keep the composition centered on the blonde DJ, with a slightly low front perspective that makes the DJ table feel large and dynamic. Do not add extra characters in the foreground, extra speech bubbles, watermarks, or unreadable random text.
+```
+
+**来源：** [@まるるん＠Nikke & 生成AI研究](https://x.com/TachMaru/status/2072763048490901508) | 2026-07-02
+
+---
+
+### 🏷️ 例 2962：沥青路面粉笔画肖像
+
+![沥青路面粉笔画肖像](../../images/%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%E7%B2%89%E7%AC%94%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅令人惊叹的超写实粉笔画杰作，绘制在纹理粗糙的深色沥青路面上，采用高角度拍摄。画面中是一位美丽的年轻 {argument name="subject ethnicity" default="东亚"} 女性，留着整齐时尚的刘海，正做出欢快挥手的姿势，手举在脸颊旁。她穿着一件粉笔绘制的露肩夏日连衣裙，上面有鲜艳的向日葵图案。她的头发扎成两个可爱低垂的双马尾，并别着粉笔画的雏菊发夹。她周围的沥青路面上散落着黄色、橙色和蓝色的粉笔，还有一只粉笔画的小蝴蝶和几颗粉笔爱心。尘土飞扬的粉笔笔触营造出逼真的肤色和柔软的发质感。柔和自然的黄金时刻阳光照亮了裙子，并投下淡淡的真实阴影。路面的粗糙纹理清晰可见。带有轻微的胶片颗粒感，边缘有细微的色差，白平衡明亮干净。右下角画着一条粉笔绘制的流浪狗尾巴，仿佛正在摇动。充满艺术感、奇趣且细节丰富的街头艺术美学。
+荷兰式倾斜角度，流浪狗尾巴 --ar 9:16
+
+[English]
+A stunning, hyper-realistic chalk art masterpiece on a textured dark asphalt street surface, captured from a high-angle shot. The same beautiful young {argument name="subject ethnicity" default="East Asian"} woman with neat, stylish bangs is drawn in a cheerful waving pose, her hand raised near her cheek. She wears a chalk-drawn, off-shoulder summer dress with a vibrant sunflower pattern. Her hair is styled in two low, cute pigtails with chalk-drawn daisy clips. Around her on the asphalt, pastel chalk sticks in yellow, orange, and blue are scattered, along with a small, chalk-drawn butterfly and a few chalk hearts. The dusty pastel strokes create realistic skin tones and soft hair texture. Soft, natural golden hour sunlight highlights the dress and casts faint, realistic shadows. The rough pavement grain is visible. Slight film grain, subtle chromatic aberration at the edges, bright and clean white balance. A stray dog tail is drawn in chalk, wagging from the bottom right corner. Artistic, whimsical, highly detailed street art aesthetic.
+dutch angle, stray dog tail --ar 9:16
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2072737652391153911) | 2026-07-02
+
+---
+
+### 🏷️ 例 2974：手工拼贴风格包装设计
+
+![手工拼贴风格包装设计](../../images/%E6%89%8B%E5%B7%A5%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+这是我的刀版图片，我的产品是：{argument name="产品名称" default="柠檬降火饮料"}
+
+我想你参考如下提示词风格，生成包装：
+
+围绕任意主题对象生成一张具有手工拼贴感的信息视觉：画面先读到一条强而安静的文字主轴，字形采用厚重、简洁、留白充足的块面排布，像被精确嵌入背景的白色结构；主题内容被转译为几组粗粝的黑白剪影与主题派生色块，剪影以触碰、托举、悬停、遮挡的关系分布在文字两侧，形成像在搬运、摆放、观察主题的视觉仪式。主体图形使用拓印、木刻、干刷、纸片裁切般的边缘，黑色结构承担重量 and 方向，白色结构制造呼吸 and 反差，少量带线纹或纹理的主题色块作为被托起的核心符号，大小错落，彼此留出清晰空隙。背景保持大面积明亮、清透、干净的高明度底场，色彩从主题自身的材质、情绪 and 语境中提取：{argument name="配色方案" default="底色负责轻快通风感，深色负责骨架和张力，中等饱和的主题色负责情绪"}，极少量小圆点或短线作为节拍与视线停顿；整体保留明亮清爽、克制但有生命力的色彩关系，避免浑浊、陈旧和灰暗。信息层级要像展览视觉系统一样清楚，主标题最大且最有秩序，日期、说明、署名等次级信息收窄成边缘竖排或小字号模块，形成图像与文字互相牵制的节奏；最终效果应像一张由剪影、纸片、拓印纹理和几何留白共同组织出来的现代艺术宣传视觉，既有手作痕迹，又保持干净、明确、可读。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072700281192915107) | 2026-07-02
+
+---
+
+### 🏷️ 例 2977：紫色机械女神三联画
+
+![紫色机械女神三联画](../../images/%E7%B4%AB%E8%89%B2%E6%9C%BA%E6%A2%B0%E5%A5%B3%E7%A5%9E%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅垂直奇幻科幻三联画，展示同一位银发神圣机械法师在古老机械核心完全激活瞬间的场景，呈现出绚丽的紫色奥术机械奇观。
+
+画布：9:16 垂直构图，精确划分为 3 个堆叠的水平电影感面板，无文字，无边框，所有面板间贯穿连续的紫罗兰色能量光效。
+
+面板 1，远景：展示 {argument name="character name" default="一位年轻的银发女神机械法师"} 站在宏伟的古老机械神殿中央。她身穿白色与银色相间的华丽科技法师外套、短裙、高筒靴及金属配饰，双手高举一根长法杖。神殿内充满了启动的钟表建筑、圆形齿轮、符文环和发光的机械装置。包含精确 11 个悬浮在天花板和两侧的机械立方体，每个立方体都闪烁着紫罗兰色的核心并刻有电路。在左右前景墙壁/地面上包含精确 2 个大型圆形魔法阵，以及一道从上方降下并汇入高举法杖的中央垂直能量束。地面为光亮的黑色石材，覆盖着发光的电路轨迹和倒影。氛围：能量爆发，神殿共鸣，宏大的规模。
+
+面板 2，特写：展示同一角色胸部以上，正面面对镜头，神情展现出平静的神圣自信。她的 {argument name="hair color" default="长长的银白色头发"} 在能量风暴中向外飘散，带有双马尾般的流动感和小型机械发饰。她的双眼闪烁着淡淡的紫罗兰色光芒，额头上印有一个微小的发光圆形印记。她穿着同样的白色机械法师服装，可见齿轮、紧固件、肩部细节和领口。在画面右侧，包含精确 1 个华丽的法杖头或机械光环装置，这是一个放射出紫色光芒的圆形钟表环。周围环绕着紫罗兰色闪电弧、透明魔法符文和旋转的能量丝。氛围：神圣觉醒，掌控古老核心。
+
+面板 3，超特写：画面填满精确 1 只人眼，展示苍白的睫毛和穿过画面的银色发丝。虹膜转化为复杂的发光紫色圆形机械结构：嵌套的钟表环、微小的符文标记、放射状电路纹路和明亮的中央核心。紫罗兰色闪电分支穿过虹膜和巩膜，带有晶莹的反射和湿润的眼部细节。氛围：法则刻印，神之瞳孔，微观奥术机械。
+
+视觉风格：超精细动漫写实奇幻插画，高端概念艺术，空灵的紫色调，发光的紫罗兰色电流，古老机械，神圣几何，钟表魔法，晶莹剔透的锐利细节，电影级光效，戏剧性深度，光亮反射，高对比度，体积光，宏伟而神秘的氛围。
+
+约束：使用精确 3 个堆叠场景，顺序为远景、特写、眼睛超特写。在所有面板中保持角色身份和服装一致。无标题，无标志，无水印，无额外角色。主色调为 {argument name="energy color" default="紫罗兰色"}；场景为 {argument name="setting" default="一座古老的机械神殿"}；核心概念为 {argument name="activation event" default="古老机械核心完全激活"}。
+
+[English]
+Goal: Create a vertical fantasy sci-fi triptych showing the same silver-haired divine mechanic mage at the moment an ancient mechanical core fully activates, in a brilliant purple arcane-mechanical spectacle.
+
+Canvas: Tall vertical 9:16 composition divided into exactly 3 stacked horizontal cinematic panels with no text, no borders, and continuous violet energy lighting across all panels.
+
+Panel 1, long shot: Show {argument name="character name" default="a young silver-haired goddess mechanic mage"} standing centered in a vast ancient cathedral-like mechanical temple. She wears a white-and-silver ornate techno-mage coat, short skirt, high boots, and metallic accessories, holding a tall staff raised upward. The temple is filled with activated clockwork architecture, circular gears, rune rings, and luminous machinery. Include exactly 11 floating mechanical cubes suspended in the air around the ceiling and sides, each glowing with violet cores and etched circuitry. Include exactly 2 large circular magic diagrams on the left and right foreground walls/floor, plus a central vertical beam of energy descending from above into the raised staff. The floor is glossy black stone covered in glowing circuit traces and reflections. Mood: energy explosion, temple resonance, overwhelming scale.
+
+Panel 2, close-up: Show the same character from chest up, facing forward with calm divine confidence. Her {argument name="hair color" default="long silver-white hair"} streams outward in the energy storm, with twin-tail-like flowing sections and small mechanical hair ornaments. Her eyes glow faint violet, and a small luminous circular sigil is marked on her forehead. She wears the same white mechanical mage outfit with visible gears, fasteners, shoulder details, and collar. On the right side of the frame, include exactly 1 ornate staff head or mechanical halo device, a circular clockwork ring radiating purple light. Surround her with violet lightning arcs, transparent magical runes, and swirling energy filaments. Mood: divine awakening, controlling the ancient core.
+
+Panel 3, extreme close-up: Fill the panel with exactly 1 human eye, showing pale lashes and silver hair strands crossing the frame. The iris is transformed into an intricate glowing purple circular mechanism: nested clockwork rings, tiny rune markings, radial circuit lines, and a bright central core. Violet lightning branches across the iris and sclera, with crystalline reflections and wet eye detail. Mood: law engraving, godlike pupil, microscopic arcane machinery.
+
+Visual style: Ultra-detailed anime-realistic fantasy illustration, high-end concept art, ethereal purple palette, luminous violet electricity, ancient machinery, sacred geometry, clockwork magic, crystal-clear sharp detail, cinematic lighting, dramatic depth, glossy reflections, high contrast, volumetric glow, majestic and mystical atmosphere.
+
+Constraints: Use exactly 3 stacked scenes in the order long shot, close-up, extreme eye close-up. Keep the same character identity and costume across all panels. No captions, no logos, no watermark, no extra characters. Dominant color is {argument name="energy color" default="violet purple"}; setting is {argument name="setting" default="an ancient mechanical temple"}; core concept is {argument name="activation event" default="the ancient mechanical core fully activating"}.
+```
+
+**来源：** [@Molly Mo](https://x.com/BloominOne/status/2072696479320621474) | 2026-07-02
+
+---
+
+### 🏷️ 例 2978：夜间足球锦标赛航拍图
+
+![夜间足球锦标赛航拍图](../../images/%E5%A4%9C%E9%97%B4%E8%B6%B3%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%E8%88%AA%E6%8B%8D%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片写实风格的航拍俯视广角图，展示黄昏或夜晚时分位于大城市中座无虚席的足球锦标赛现场。从近端高空俯瞰，使整个椭圆形球场和完整的绿色草坪尽收眼底。球场由泛光灯和顶棚灯照亮，呈现出鲜艳的条纹草坪、清晰的白色足球标线、两个球门、中圈、禁区和边线。看台上坐满了观众，分为两个主要阵营：左侧是挥舞旗帜和横幅的红色人群，右侧是深蓝色人群，成千上万的微小手机灯光在人群中闪烁。在右上角看台附近添加一簇金色纸屑或烟雾，呈现泛光灯的朦胧光晕、真实的观众密度、体育场建筑结构、远端两个角落的记分牌屏幕，以及逐渐融入黑暗背景的周边城市街道和建筑。采用电影级无人机摄影风格，极致细节写实，高动态范围，冷色调的夜色与明亮的球场绿色及温暖的城市灯光形成对比，16:9 横屏构图，无文字，无绘制路线覆盖，无水印。
+
+[English]
+Create a photorealistic aerial top-down wide shot of a packed championship-night soccer stadium in a large city at dusk/night, viewed from high above the near end so the entire oval bowl and full green pitch are visible. The stadium is brightly illuminated by floodlights and roof lighting, with a vivid striped grass field, crisp white soccer markings, two goals, center circle, penalty boxes, and touchlines. The stands are completely filled with fans split into two dominant color sections: a large red crowd on the left side with flags and banners, and a darker blue crowd on the right side, with thousands of tiny phone lights sparkling throughout. Add a burst of golden confetti or smoke near the upper-right stands, glowing floodlight haze, realistic crowd density, stadium architecture, scoreboard screens at both far corners, and surrounding city streets and buildings fading into the dark background. Use a cinematic drone-photography look, ultra-detailed realism, high dynamic range, cool blue night tones contrasted with bright stadium greens and warm city lights, 16:9 landscape composition, no text, no drawn route overlay, no watermark.
+```
+
+**来源：** [@Kiana Liang](https://x.com/Kiana_Liang0609/status/2072695334942498937) | 2026-07-02
+
+---
+
+### 🏷️ 例 2979：足球运动员三联角色卡
+
+![足球运动员三联角色卡](../../images/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%81%94%E8%A7%92%E8%89%B2%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Erling Braut Haaland"} 创建一张高分辨率足球角色参考卡，通过多角度展示同一位运动员身穿国家队球衣的形象，作为一致的视觉参考。
+
+画布：宽幅 16:9 水平摄影棚合成图，干净的浅灰色背景，逼真的专业体育摄影，焦点清晰，均匀的柔光箱照明，无水印。
+
+布局：将图像精确分为 3 个垂直面板，中间由细深灰色分隔线隔开。左侧面板 1 展示全身正面视图。中间面板 2 展示全身背面视图。右侧面板 3 展示紧凑的正面头部及肩部特写。
+
+主体细节：身材高大的金发男性足球运动员，肤色白皙，浅蓝色眼睛，下颌线条方正硬朗，表情中性严肃，金色长发向后梳起，扎成一个小低发髻/马尾。确保 3 个面板中的面部特征保持一致。
+
+球衣：受挪威队启发的足球球衣，主色调为 {argument name="main kit color" default="亮红色"}，胸前带有深海军蓝色的十字形垂直与水平图案，白色饰边，挪威队徽，白色 Nike 风格勾形标志，配套红色短裤，红色球袜，白色短袜，以及粉色足球鞋。球衣编号必须为 {argument name="shirt number" default="9"}，以白色印在正面、短裤及背部大号位置。背部姓名文字必须显示为 {argument name="back shirt name" default="BRAUT HAALAND"}，位于编号上方。
+
+面板细节：左侧面板：全身站立姿势，双臂自然垂于身体两侧，面向镜头，从头部到球鞋全身可见。中间面板：同一球员的背面视角，双臂放松，可见发髻，背部姓名和大型编号清晰可见。右侧面板：从上胸部向上的特写肖像，面部居中，可见红色衣领和部分海军蓝色图案肩部，呈现逼真的皮肤纹理和摄影棚灯光效果。
+
+限制条件：必须使用 3 个面板，且 3 个面板中重复出现同一名运动员；不得出现其他球员、动作姿势、足球、体育场、人群，除球衣品牌、队徽、背部姓名和编号外，不得添加任何额外文字。
+
+[English]
+Goal: Create a high-resolution football character reference card for {argument name="character name" default="Erling Braut Haaland"}, showing the same athlete in a national-team kit from multiple views for use as a consistent visual reference.
+
+Canvas: Wide horizontal 16:9 studio composite, clean light-gray background, realistic professional sports photography, sharp focus, even softbox lighting, no watermark.
+
+Layout: Split the image into exactly 3 vertical panels separated by thin dark-gray divider lines. Panel 1 on the left shows a full-body front view. Panel 2 in the center shows a full-body back view. Panel 3 on the right shows a tight front-facing head-and-shoulders portrait crop.
+
+Subject details: Tall athletic blond male footballer with pale skin, light blue eyes, strong square jaw, neutral serious expression, slicked-back blond hair tied into a small low bun/ponytail. Keep facial identity consistent across all 3 panels.
+
+Uniform: Norway-inspired football kit in {argument name="main kit color" default="bright red"} with a dark navy cross-like vertical-and-horizontal chest design, white trim, Norway crest, white Nike-style swoosh, matching red shorts, red socks, white ankle socks, and pink football boots. The shirt number must be {argument name="shirt number" default="9"} in white on the front, shorts, and large on the back. The back name text must read {argument name="back shirt name" default="BRAUT HAALAND"} above the number.
+
+Panel details: Left panel: full standing pose, arms relaxed at sides, facing camera, entire body visible from head to boots. Center panel: same player from behind, arms relaxed, hair bun visible, back name and large number clearly legible. Right panel: close-up portrait from upper chest upward, centered face, red collar and part of navy patterned shoulder visible, realistic skin texture and studio lighting.
+
+Constraints: Use exactly 3 panels and exactly 1 athlete repeated across them; no extra players, no action pose, no ball, no stadium, no crowd, no additional text besides kit branding, crest, back name, and number.
+```
+
+**来源：** [@Kiana Liang](https://x.com/Kiana_Liang0609/status/2072695329611493721) | 2026-07-02
+
+---
+
+### 🏷️ 例 2980：像素风战锤对决
+
+![像素风战锤对决](../../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E6%88%98%E9%94%A4%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个动态的 16 位像素风奇幻战斗场景，背景设在昏暗的岩石竞技场中，采用四分之三侧视图，中心呈现出戏剧性的爆炸效果。画面中包含两名战斗人员：左侧是 {argument name="hero character" default="一位自信的银发动漫女战士，扎着双马尾，系着蓝色丝带，身穿蓝白相间的冒险者服装，脚蹬棕色靴子，带有金色饰边和皮革护甲细节"}，双手紧握一把巨大的华丽战锤向前冲刺；战锤拥有一个巨大的金钢圆柱形锤头，镶嵌着发光的翡翠核心，并环绕着绿色能量。右侧是 {argument name="enemy character" default="一位深紫色头发、身穿黑金板甲的恶魔女骑士，长着黑色小角，披着飘逸的紫色斗篷，表情痛苦"}，手持一把巨大的锯齿状紫色巨剑向后退缩。画面需包含一把主战锤、一把主巨剑、左侧战士附近的一个小型漂浮绿色魔法球，以及撞击点周围散落的多个暗色岩石碎片。战锤与巨剑在中心碰撞，产生明亮的白黄色爆炸，左侧环绕着绿色魔法弧光，右侧伴随着橙色火花和紫色闪电。采用高细节的复古 JRPG 像素艺术，清晰的精灵图轮廓，饱和的色彩，戏剧性的动态线条，发光的法术效果，以及带有破裂透视线的低位石砖地面。背景应为烟雾缭绕的洞穴，带有对角线速度线和碎片，画面中不含任何文字、UI 或水印。强调左侧的战锤使用者在对决中占据上风，而右侧的女剑士正被击退。
+
+[English]
+Create a dynamic 16-bit pixel art fantasy battle scene in a dark rocky arena, shown in a three-quarter side view with a dramatic explosion at the center. The image contains exactly two combatants: on the left, {argument name="hero character" default="a confident silver-haired anime warrior girl with twin ponytails, blue ribbons, white-and-blue adventurer clothing, brown boots, gold trim, and leather armor accents"}, lunging forward while gripping an oversized ornate war hammer with both hands; the hammer has a large cylindrical gold-and-steel head with glowing emerald cores and swirling green energy. On the right, {argument name="enemy character" default="a dark purple-haired armored demon knight girl with small black horns, black-and-gold plate armor, a flowing purple cape, and a pained expression"}, recoiling backward while holding a massive jagged purple greatsword. Show one primary hammer, one primary greatsword, one small floating green magic orb near the left fighter, and multiple scattered dark rock fragments around the impact. The hammer strike collides with the sword at the center, producing a bright white-yellow blast surrounded by green magical arcs from the left and orange sparks plus purple lightning from the right. Use highly detailed retro JRPG pixel art, crisp sprite-like outlines, saturated colors, dramatic motion streaks, glowing spell effects, and a low stone-tile floor with cracked perspective lines. The background should be cavernous and smoky with diagonal speed lines, debris, and no text, no UI, no watermark. Emphasize the left hammer wielder winning the clash while the right swordswoman is being knocked back.
+```
+
+**来源：** [@勇者よっしー(yossiy7@geoguessr)](https://x.com/yossiy7/status/2072694273481576863) | 2026-07-02
+
+---
+
+### 🏷️ 例 2981：Vibe Coder Bootcamp 着陆页
+
+![Vibe Coder Bootcamp 着陆页](../../images/Vibe%20Coder%20Bootcamp%20%E7%9D%80%E9%99%86%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="bootcamp name" default="Vibe Coder Bootcamp"} 创建一个全页垂直的日本着陆页模型，展示一个 AI 编程 / AI Agent 训练营，风格高端、严谨、略带哲学感，同时具备清晰的实际收益。
+
+画布：高大的移动端网页着陆页截图，比例约为 9:16，白色页面主体，搭配深色电影质感的首屏和页面中部照片带。采用精致的初创公司/教育类着陆页风格，高保真，排版清晰，间距整洁。
+
+视觉风格：日本高端商务设计，结合橙色强调排版、深海军蓝/黑色背景、白色内容卡片、细灰色分割线、紫色高亮、简单的线条图标以及纪录片风格的人物肖像。使用类似衬线体的日文标题排版，混合现代无衬线 UI 文本。布局紧凑但易读，如同真实的 LP 设计稿。
+
+布局与部分：包含 7 个编号部分，标记为 No.01 到 No.07。
+
+首屏部分：顶部为深色电影质感横幅。左侧包含大号橙色英文标题“Vibe Coder Bootcamp”，日文副标题“AI を完全に味方につける、1.5 ヶ月。”以及较小的日文文案“1 回 2.5 時間×全 5 回＋Demo Day。アプリも資料も動画も、あらゆるアウトプットを AI で”。添加一个橙色圆角行动呼吁按钮，文字为“資料請求・お問い合わせ”。右侧展示一名身着黑色西装的日本男性，在昏暗的办公室/书房中沉思，背景有城市灯光、电脑显示器、书架和温暖的台灯照明。
+
+No.01 部分：白色背景，带有橙色“No.01”和小型标签“課題”。大号日文标题：“AI は、もう十分に賢い。足りないのは、あなたの入力。”辅助行：“入力の質＝出力の質。”右侧展示一张 BEFORE / AFTER 对比图：BEFORE 卡片写着“あいまいな入力”，指向“あいまいな出力”，配有凌乱的涂鸦图标；AFTER 卡片写着“構造化された入力”，指向“価値の高い出力”，配有紫色目标图标。两张卡片之间放置一个小箭头。
+
+No.02 部分：白色背景，带有橙色“No.02”和标签“解決＝コンテクストコントロール”。主标题：“コンテクストコントロール。AI エージェント時代の、基礎力。”添加一个大号渐变短语“まわせ Vibes Output Loop”。右侧展示 3 个由曲线箭头连接的循环步骤：STEP1“与える (GIVE)”，配有文档/人物图标，简要解释提供必要的背景、目的、约束和卡片信息；STEP2“蓄積する (ACCUMULATE)”，配有聊天气泡图标，解释通过日常聊天积累工作、想法和全公司范围的上下文；STEP3“循環させる (LOOP)”，配有橙色循环箭头，解释通过工具、文档、视频和应用反复循环上下文。
+
+No.03 部分：白色背景，带有橙色“No.03”和标签“カリキュラム”。标题：“SNS アプリ開発を“通じて”コンテクストコントロールを体得する。SNS を作るのが目的ではない。”包含 6 张带有紫色标题的水平课程卡片：WEEK01“企画・要件定義”、WEEK02“UI/UX・設計”、WEEK03“実装・DB 設計”、WEEK04“認証・セキュリティ”、WEEK05“デプロイ・運用”、DEMO DAY“成果発表・講評”。下方添加 4 张带有图标的功能卡片：“企画・UI/UX”（橙色线框图标）、“動くアプリ (DB・デプロイ)”（紫色数据库图标）、“セキュリティ”（深色盾牌图标）以及“API・エージェント基盤”（紫色连接节点图标）。
+
+No.04 部分：白色背景，带有橙色“No.04”和标签“卒業後にできること”。横向展示 4 张能力卡片，配有缩略图插画：“アプリ・サービス”（应用仪表盘截图）、“資料・ドキュメント”（图表/报告页面）、“画像・動画”（视频/图像编辑器缩略图及播放按钮）、“業務の自動化”（自动化流程图图标）。每张卡片标题下方有一行简短的日文解释。
+
+No.05 部分：全宽深色电影质感横幅。左侧包含橙色“No.05”和标签“相棒すなわち AI”。大号白色标题：“一人で、会社を回す。”辅助文案：“AI エージェントに仕事をさせ続ける人になる。”右侧展示同一位严谨的日本商务人士在办公桌前双手交叉，背景有多个透明的分析/UI 屏幕、图表、代码、城市夜景办公室氛围、温暖的台灯和地球仪细节。
+
+No.06 部分：深灰色人物肖像带。左侧包含橙色“No.06”和标签“講師”。标题：“教えるのは、日本でただ一人。泉水亮介”，下方附带关于文科、创业、大学教学和 Vibe Coding 的日文资历介绍。右侧展示 {argument name="instructor name" default="泉水亮介"} 的写实专业肖像，日本男性，黑色夹克，表情冷静，背景为混凝土墙。最右侧添加三个小型金色月桂徽章，带有日本奖项风格的声明。
+
+No.07 部分：白色背景上的最终 CTA 条。左侧标签为橙色“No.07”和“実績・CTA”。包含 3 张指标卡片：“開発アプリ 120+”、“満足度 98%”、“業務 9 割を AI で”，每张配有小图标。右侧放置一个大号橙色圆角按钮，带有信封图标，文字为“資料請求・お問い合わせ”，下方有较小文字“お気軽にご相談ください”。添加一条细页脚线，包含引用 Vibe Coder Bootcamp 和 AI Agent 时代技能的小号日文文本。
+
+约束：在指定位置保留所有可见的日文文本，保留 7 个编号部分、6 张课程卡片、4 张功能卡片、4 张能力卡片、3 个循环步骤和 3 个最终指标。不要添加额外的部分、水印、浏览器边框或不相关的 Logo。最终结果应看起来像一张连续的着陆页截图，而不是单独的 Slides。
+
+[English]
+Goal: Create a full-page vertical Japanese landing page mockup for {argument name="bootcamp name" default="Vibe Coder Bootcamp"}, presenting an AI coding / AI agent bootcamp with a premium, serious, slightly philosophical tone but clear practical benefits.
+
+Canvas: Tall mobile-web landing page screenshot, approximately 9:16 aspect ratio, white page body with dark cinematic hero and dark mid-page photo bands. Use a polished startup/education landing page style, high fidelity, crisp typography, and clean spacing.
+
+Visual style: Japanese premium business design combining orange accent typography, deep navy/black backgrounds, white content cards, thin gray dividers, purple highlights, simple line icons, and documentary-style portraits. Use serif-like Japanese headline typography mixed with modern sans-serif UI text. Make the layout dense but readable, like a real LP design comp.
+
+Layout and sections: Include exactly 7 numbered sections labeled No.01 through No.07.
+
+Hero section: At the top, dark cinematic banner. Left side contains a large orange English title “Vibe Coder Bootcamp,” Japanese subtitle “AIを完全に味方につける、1.5ヶ月。” and smaller Japanese copy “1回2.5時間×全5回＋Demo Day。アプリも資料も動画も、あらゆるアウトプットをAIで”. Add an orange rounded call-to-action button reading “資料請求・お問い合わせ”. Right side shows a realistic Japanese man in a black suit sitting thoughtfully in a dim office/library at night, with city lights, computer monitors, bookshelves, and warm desk lamp lighting.
+
+No.01 section: White background with orange “No.01” and small label “課題”. Large Japanese headline: “AIは、もう十分に賢い。足りないのは、あなたの入力。” Supporting line: “入力の質＝出力の質。” On the right, show a two-card BEFORE / AFTER diagram: BEFORE card says “あいまいな入力” leading to “あいまいな出力” with a messy scribble icon; AFTER card says “構造化された入力” leading to “価値の高い出力” with a purple target icon. Put a small arrow between the two cards.
+
+No.02 section: White background with orange “No.02” and label “解決＝コンテクストコントロール”. Main headline: “コンテクストコントロール。AIエージェント時代の、基礎力。” Add a large gradient phrase “まわせ Vibes Output Loop”. To the right, show exactly 3 circular loop steps connected by curved arrows: STEP1 “与える (GIVE)” with document/person icon and small explanation about giving necessary background, purpose, constraints, and card information; STEP2 “蓄積する (ACCUMULATE)” with chat bubble icon and explanation about accumulating work, ideas, and company-wide context through daily chat; STEP3 “循環させる (LOOP)” with orange loop arrows and explanation about repeatedly circulating context through tools, documents, videos, and apps.
+
+No.03 section: White background with orange “No.03” and label “カリキュラム”. Headline: “SNSアプリ開発を“通じて”コンテクストコントロールを体得する。SNSを作るのが目的ではない。” Include exactly 6 horizontal curriculum cards with purple headers: WEEK01 “企画・要件定義”, WEEK02 “UI/UX・設計”, WEEK03 “実装・DB設計”, WEEK04 “認証・セキュリティ”, WEEK05 “デプロイ・運用”, DEMO DAY “成果発表・講評”. Under them, add exactly 4 feature cards with icons: “企画・UI/UX” with an orange wireframe icon, “動くアプリ (DB・デプロイ)” with purple database icon, “セキュリティ” with dark shield icon, and “API・エージェント基盤” with purple connected-nodes icon.
+
+No.04 section: White background with orange “No.04” and label “卒業後にできること”. Show exactly 4 capability cards in a row with thumbnail illustrations: “アプリ・サービス” with app dashboard screenshot, “資料・ドキュメント” with chart/report pages, “画像・動画” with video/image editor thumbnail and play button, and “業務の自動化” with automation flowchart icon. Each card has a short Japanese explanatory line beneath the title.
+
+No.05 section: Full-width dark cinematic band. Left side contains orange “No.05” and label “相棒すなわちAI”. Large white headline: “一人で、会社を回す。” Supporting copy: “AIエージェントに仕事をさせ続ける人になる。” Right side shows the same serious Japanese businessman at a desk with clasped hands, multiple transparent analytics/UI screens, charts, code, city-night office mood, warm lamp and globe details.
+
+No.06 section: Dark gray portrait band. Left side contains orange “No.06” and label “講師”. Headline: “教えるのは、日本でただ一人。泉水亮介” with smaller Japanese credentials about liberal arts, entrepreneurship, university teaching, and Vibe Coding. Right side shows a realistic professional portrait of {argument name="instructor name" default="泉水亮介"}, Japanese male, black jacket, calm expression, concrete wall background. Add three small gold laurel badges on the far right with Japanese award-style claims.
+
+No.07 section: Final CTA strip on white background. Left label orange “No.07” and “実績・CTA”. Include exactly 3 metric cards: “開発アプリ 120+”, “満足度 98%”, and “業務 9割をAIで”, each with a small icon. On the right, place a large orange rounded button with envelope icon reading “資料請求・お問い合わせ” and smaller text “お気軽にご相談ください”. Add a thin footer line with small Japanese text referencing Vibe Coder Bootcamp and AI agent-era skills.
+
+Constraints: Keep all visible text in Japanese where specified, preserve the exact 7 numbered sections, 6 curriculum cards, 4 feature cards, 4 capability cards, 3 loop steps, and 3 final metrics. Do not add extra sections, watermarks, browser chrome, or unrelated logos. The final result should look like a single continuous landing page screenshot rather than separate slides.
+```
+
+**来源：** [@泉水亮介 │ 大学でVibe Codingを教えてます。](https://x.com/rsensui/status/2072692637703053449) | 2026-07-02
+
+---
+
+### 🏷️ 例 2982：品牌周边陈列室摄影
+
+![品牌周边陈列室摄影](../../images/%E5%93%81%E7%89%8C%E5%91%A8%E8%BE%B9%E9%99%88%E5%88%97%E5%AE%A4%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="brand name" default="[品牌名称]"}。请担任潮流时尚杂志的创意总监兼静物摄影师。
+
+任务：
+为 {argument name="brand name" default="[品牌名称]"} 的限量周边发布创作一张高级陈列室静物摄影作品。
+
+第一阶段：自主品牌策划
+分析 {argument name="brand name" default="[品牌名称]"} 并确定其所属行业、视觉识别系统以及最具辨识度的实体产品。例如，Spalding 代表篮球，McDonald's 代表汉堡盒，Visa 代表金属卡，Michelin 代表轮胎，Kappa 代表足球或服饰。
+
+根据品牌构建视觉色调：
+背景色：从品牌的辅助色板中选择一种深邃、丰富且具有质感的摄影棚颜色，例如海军蓝、酒红色、青色、森林绿、板岩灰或深蓝色。
+周边颜色：选择一种温暖或中性的对比色，例如奶油色、驼色、橙色、棕褐色或灰白色，使服装在背景中脱颖而出。
+周边单品：选择一件符合品牌文化的优质服装，例如棒球夹克、重磅连帽衫、羊毛围巾、帆布托特包或高级卫衣。
+
+第二阶段：场景设计，陈列架
+使用一个简约的现代白色粉末涂层金属架或置物架作为主要道具。它应在画面中整洁地呈现，并营造出一种精心策划的摄影棚陈列室氛围。
+
+场景布置如下：
+悬挂单品：将选定的周边单品挂在架子上，或随意地搭在衣架上。展示清晰的触感细节，如羊毛、毛毡、抓绒、皮革、刺绣、罗纹袖口或重磅棉布。
+堆叠产品：将品牌核心实体产品的多个单元放置在架子上或架子周围的地面上。根据产品类型，使用堆叠、金字塔形、行列或整洁的零售风格分组。
+背景：使用手绘帆布背景，颜色选用选定的深色调。使笔触纹理、细微的涂料不均匀感以及摄影棚表面的质感清晰可见。
+
+第三阶段：实体品牌化与质感
+在周边产品上，为 {argument name="brand name" default="[品牌名称]"} 添加高级的实体品牌标识。使用雪尼尔贴布、刺绣 Logo、袖口缝制字母、贴花图形或高质量丝网印刷。服装必须看起来像是一件来自限量发售的昂贵真品。
+
+在产品上，确保 {argument name="brand name" default="[品牌名称]"} 的 Logo 在堆叠的核心产品上清晰可见且融合自然。产品应看起来真实，而非通用的占位符。
+
+第四阶段：摄影与布光
+将其拍摄为一张高端编辑风格的静物摄影作品。
+布光：侧面柔和的定向窗光，在架子上投射出自然逼真的阴影，并在织物、包装和产品纹理上形成丰富的亮部。
+镜头：50mm 或 85mm 编辑级产品摄影效果。保持周边产品清晰，让背景略微虚化。
+构图：精致、极简、平衡，并在左侧留出足够的负空间，以便放置 Logo 和标语文字。
+
+[English]
+{argument name="brand name" default="[BRAND NAME]"}. Act as the creative director and still life photographer for a hypebeast fashion magazine.
+
+TASK:
+Create a premium showroom still life photograph for a limited merchandise drop by {argument name="brand name" default="[BRAND NAME]"}.
+
+PHASE 1: AUTONOMOUS BRAND CURATION
+Analyze {argument name="brand name" default="[BRAND NAME]"} and identify its industry, visual identity, and most recognizable physical product. For example, Spalding means basketballs, McDonald's means burger boxes, Visa means metal cards, Michelin means tires, Kappa means soccer balls or apparel.
+
+Build the visual palette from the brand:
+Background color: choose a deep, rich, textured studio color from the brand's secondary palette, such as navy, burgundy, teal, forest green, slate grey, or dark blue.
+Merch color: choose a warm or neutral contrasting tone, such as cream, camel, orange, tan, or off-white, so the apparel pops against the backdrop.
+Merch item: select a high-quality apparel piece that fits the brand's culture, such as a varsity letterman jacket, heavyweight hoodie, wool scarf, canvas tote, or premium sweatshirt.
+
+PHASE 2: SET DESIGN, THE DISPLAY RACK
+Use a simple modern white powder-coated metal rack or shelf unit as the main prop. It should stand cleanly in the frame and feel like a curated studio showroom display.
+
+Arrange the scene like this:
+Hanging item: place the chosen merch item on the rack or drape it casually over a hanger. Show clear tactile material detail, such as wool, felt, fleece, leather, embroidery, ribbed cuffs, or heavy cotton.
+Stacked products: place multiple units of the brand's core physical product on the shelves or floor around the rack. Use stacks, pyramids, rows, or clean retail-style groupings depending on the product type.
+Backdrop: use a hand-painted canvas backdrop in the selected deep background color. Make the brush texture, subtle uneven paint, and studio surface visible.
+
+PHASE 3: PHYSICAL BRANDING AND TEXTURE
+On the merch, add premium physical branding for {argument name="brand name" default="[BRAND NAME]"}. Use chenille patches, embroidered logos, stitched sleeve lettering, applique graphics, or high-quality screen print. The apparel must look like a real expensive garment from a limited drop.
+
+On the products, make the {argument name="brand name" default="[BRAND NAME]"} logo visible and correctly integrated on the stacked core items. The products should feel real, not like generic placeholders.
+
+PHASE 4: PHOTOGRAPHY AND LIGHTING
+Shoot it as a high-end editorial still life photograph.
+Lighting: soft directional window light from the side, with natural realistic shadows on the rack and rich highlights across fabric, packaging, and product textures.
+Lens: 50mm or 85mm editorial product photography look. Keep the merch sharp and let the background fall off slightly.
+Composition: refined, minimal, balanced, with enough negative space on the left for logo and slogan text.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072692051670601928) | 2026-07-02
+
+---
+
+### 🏷️ 例 2991：冰水中的抽象北极熊
+
+![冰水中的抽象北极熊](../../images/%E5%86%B0%E6%B0%B4%E4%B8%AD%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%8C%97%E6%9E%81%E7%86%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅风格化的半抽象数字绘画，描绘一只北极熊正穿过浅浅的冰水径直走向观众。北极熊位于画面中心，体型巨大且气势逼人，头部低垂，有着深色的鼻子和眼睛、圆润的耳朵，厚实的白色皮毛通过富有绘画感的几何笔触呈现，一只前爪正迈入水中。画面需展示前腿周围冰冷的水花，以及北极熊在水面上的清晰倒影。环境为北极冰原景观，两侧有平坦的雪堆和破碎的冰架，通过色彩和形状而非写实手法来表现寒冷与静谧。背景处创作高耸的抽象垂直冰川或冰崖剪影，如同冰封的城市天际线，采用深青色、蓝灰色和柔和的深蓝色调。画面仅包含一只北极熊，水花溅起处有许多细小的白色水滴和斑点，不包含其他动物或人类，无文字。使用冰白色、浅蓝灰色、低饱和青色和深蓝色阴影的有限调色板；柔和的漫射光；北极熊部分具有高对比度；采用宽大几何笔触的绘画感概念艺术风格，水花细节清晰，氛围宁静，构图呈近正方形的横向布局。
+
+[English]
+Create a stylized semi-abstract digital painting of a single polar bear walking directly toward the viewer through shallow icy water. The bear is centered, large, and imposing, with a lowered head, dark nose and eyes, rounded ears, thick white fur rendered with painterly angular brushstrokes, and one front paw stepping forward into the water. Show cold splashes around both front legs and a clear reflection of the bear on the water surface. The environment is an arctic ice landscape with flat snowbanks and broken ice shelves on both sides, using only color and shape to express coldness and silence rather than photorealism. In the background, create tall abstract vertical glacier or ice-cliff silhouettes like a frozen city skyline, in deep teal, blue-gray, and muted navy layers. Include exactly one polar bear, many small white droplets and specks around the splashing water, no other animals or humans, no text. Use a limited palette of icy whites, pale blue-gray, desaturated teal, and dark blue shadows; soft diffused lighting; high contrast on the bear; painterly concept-art style with broad geometric brush marks, crisp splash details, calm atmosphere, square-ish landscape composition.
+```
+
+**来源：** [@Kollab_AI](https://x.com/Kollab_Japan/status/2072665845214626302) | 2026-07-02
+
+---
+
+### 🏷️ 例 3034：动漫 VTuber 游戏视频封面
+
+![动漫 VTuber 游戏视频封面](../../images/%E5%8A%A8%E6%BC%AB%20VTuber%20%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的动漫风格 YouTube 视频封面，用于 16:9 比例的直播游戏广播。场景设定在一个 {argument name="room style" default="霓虹紫和粉色"} 的主播房间内。画面中央，展示一位可爱的 {argument name="character type" default="猫娘 VTuber"}，半身像，坐在桌前，身体前倾，动作充满活力，一只手放在电脑鼠标上，另一只手伸向观众。她留着浅橘金色波波头，带有柔和的刘海，长着毛茸茸的棕色和奶油色猫耳，并露出一截猫尾。用一个实心矩形遮挡块覆盖她脸部的中间位置，刻意隐藏她的面容。
+
+让她穿着黑白配色的女仆装：带有荷叶边的白色衬衫、黑色连衣裙身、泡泡袖、白色褶边、黑色丝带蝴蝶结以及金色的铃铛项圈。桌面上放置一个带有明亮 RGB 灯光的机械键盘、一个发光的电竞鼠标，以及最左侧一个带有粉紫色 LED 灯效的主播麦克风。在前景添加两个猫主题道具：左下角是一个猫脸毛绒玩具，右下角是一个黑猫形状的马克杯。在她身后，放置一把装饰有猫爪印细节的电竞椅。
+
+在封面的左侧，添加醒目的韩语大标题，使用粗体白色块状字体，带有黑色填充阴影和发光的紫色轮廓，分两行排列。文字内容应为：{argument name="korean text" default="방송중 대참사"}。在其下方，添加一个较小的黄色漫画风格爆炸气泡，带有黑色轮廓，文字为：> 크리퍼 실화냐。
+
+在右侧，放置一台向内倾斜的大型电脑显示器。屏幕上应显示一个类似 Minecraft 的场景，背景是明亮的蓝天、绿树、水面，以及一个巨大的绿色苦力怕（Creeper）向观众扑来。像贴纸剪影一样戏剧性地勾勒出苦力怕的轮廓。在显示器周围添加星爆效果和霓虹灯装饰，使画面呈现出混乱且爆炸性的氛围。
+
+全程使用夸张的“点击诱饵”封面美学：超高饱和度色彩、锐利的赛璐珞阴影、粗轮廓线、光泽高光、高对比度、动态视角，以及旨在瞬间抓住观众眼球的主播灾难现场氛围。
+
+[English]
+Create a vibrant anime-style YouTube thumbnail for a livestream gaming broadcast in a wide 16:9 layout. Set the scene inside a {argument name="room style" default="neon purple and pink"} streamer room. In the center, show a cute {argument name="character type" default="catgirl VTuber"} seated at a desk from the waist up, leaning forward with energetic body language, one hand on a computer mouse and the other hand reaching toward the viewer. Give her light orange-blonde bob-cut hair with soft bangs, fluffy brown-and-cream cat ears, and a visible cat tail. Cover the middle of her face with a solid rectangular censor block so her face is intentionally hidden.
+
+Dress her in a black-and-white maid-inspired outfit: a frilly white blouse, black dress bodice, puff sleeves, white ruffles, a black ribbon bow, and a gold bell choker. On the desk, include a mechanical keyboard with bright RGB lighting, a glowing gaming mouse, and a streamer microphone on the far left with pink-purple LED illumination. Add two cat-themed foreground props: a plush cat face at the bottom left and a black cat-shaped mug at the bottom right. Behind her, place a gaming chair decorated with paw-print details.
+
+On the left side of the thumbnail, add large bold Korean headline text in thick white block letters with black filled shadows and a glowing purple outline, stacked across two lines. The text should read: {argument name="korean text" default="방송중 대참사"}. Beneath it, add a smaller yellow comic-style burst caption with a black outline reading: > 크리퍼 실화냐.
+
+On the right side, place one large computer monitor angled inward. The screen should show a Minecraft-like scene with a bright blue sky, green trees, water, and a large green Creeper lunging outward toward the viewer. Outline the Creeper dramatically like a sticker cutout. Add starburst effects and neon accents around the monitor to make the moment feel chaotic and explosive.
+
+Use exaggerated clickworthy thumbnail aesthetics throughout: ultra-saturated colors, sharp cel shading, thick outlines, glossy highlights, high contrast, dynamic perspective, and a streamer-disaster mood designed to grab attention instantly.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072540845711163881) | 2026-07-02
+
+---
+
+### 🏷️ 例 3035：编辑风格品牌海报模板
+
+![编辑风格品牌海报模板](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 {argument name="aspect ratio" default="16:9"} 的全出血编辑风格动作海报，用于 [Brand Name]。该品牌的视觉识别系统需遵循以下可见特征：明亮的户外摄影，画面大部分区域为清澈的开阔天空；巨大的暖奶油色超紧凑块状字体，被画布裁剪并置于主体后方；一个超大的动作人物斜向穿过布局并突破文字层；低角度或近距离广角镜头，使前景具有强烈的视觉冲击力；沿底部和侧边放置的奶油色辅助文字、大号数字或堆叠词汇；紧凑的白色编辑风格微文案，以短小紧密的群组锚定在强网格位置；一种鲜艳的强调色集中在核心产品或服装上，而环境保持天蓝色和中性色调；正午强烈的阳光，带有清晰的阴影和高对比度边缘；在平面图形字体和真实摄影之间交替的分层结构；极简装饰 —— 仅使用小标记、线条或分隔符；密集、充满动感的布局，动作优先，字体次之，微文案排在第三。
+
+场景：{argument name="subject" default="a runner"} 正在 {argument name="action" default="sprinting"}，携带 {PRODUCT_OR_PROP}，位于 {LOCATION}，周围环绕着 {BACKGROUND_ELEMENTS}。
+
+摄影与构图：户外低角度或近距离广角，超大的前景比例，决定性的瞬间定格，强烈的对角线构图，主体至少被一个画布边缘裁剪。
+
+排版：在主体后方放置巨大的暖奶油色超紧凑块状无衬线字体，内容为 {MAIN_TEXT}，填充超过一半的画布，被画面裁剪并部分被动作遮挡。添加内容为 {SECONDARY_TEXT} 的紧凑白色微文案，以紧密的编辑块呈现。包含一个小型的通用 {ACCENT_SYMBOL} 标记以及底部的奶油色信息群组。
+
+服装：{WARDROBE_STYLE}。品牌色彩：以饱和的天蓝色或青色为主，搭配暖奶油色字体、清爽的白色微文案、深邃的阴影，并在核心道具或服装上使用一种鲜艳的强调色。
+
+光影与质感：正午强光，清晰的阴影，高对比度商业摄影写实感，轻微的印刷颗粒纹理。无插画、3D 渲染、真实 Logo 或水印。
+
+避免：{SOURCE_CONTENT_TO_AVOID}。同时排除：真实品牌 Logo、水印、二维码、漫画或半色调效果、3D 渲染、暗色摄影棚场景、柔和色调或微小遥远的主体。
+
+生成 4K 超高分辨率光栅图像。
+
+[English]
+Create a {argument name="aspect ratio" default="16:9"} full-bleed editorial action poster for [Brand Name]. The brand’s visual identity follows these must-visible traits: a bright outdoor photograph with a clear open sky dominating a large portion of the frame; enormous warm-cream extra-condensed block letters cropped by the canvas and sitting behind the main subject; one oversized action figure cutting diagonally across the layout and breaking through the text layer; a low or close wide-angle camera angle that makes the foreground feel physically imposing; secondary text, large numerals, or stacked words in cream placed along bottom and side edges; compact white editorial microcopy in short tight clusters anchored to strong grid positions; one vivid accent color concentrated on the hero product or outfit while the environment stays sky-blue and neutral; hard midday sunlight with crisp shadows and high-contrast edges; a layered structure alternating between flat graphic type and real photography; minimal ornament — only small marks, rules, or separators; a dense, kinetic layout with the action dominant, type second, and microcopy third.
+
+Scene: {argument name="subject" default="a runner"} is {argument name="action" default="sprinting"} with {PRODUCT_OR_PROP} in {LOCATION}, surrounded by {BACKGROUND_ELEMENTS}.
+
+Camera & Composition: Low or close wide-angle outdoors, oversized foreground scale, decisive frozen motion, one strong diagonal, subject cropped by at least one canvas edge.
+
+Typography: Place massive warm-cream ultra-condensed block sans lettering reading {MAIN_TEXT} behind the subject, filling over half the canvas, cropped by the frame and partially hidden by the action. Add compact white microcopy reading {SECONDARY_TEXT} in tight editorial blocks. Include a small generic {ACCENT_SYMBOL} mark and bottom information clusters in cream.
+
+Wardrobe: {WARDROBE_STYLE}. Brand colors: saturated sky-blue or cyan dominant, warm cream type, crisp white microcopy, deep shadows, one vivid accent on the hero prop or wardrobe.
+
+Lighting & Finish: Hard midday sun, crisp shadows, high-contrast commercial photo realism, slight print-grain texture. No illustration, 3D rendering, real logos, or watermarks.
+
+Avoid: {SOURCE_CONTENT_TO_AVOID}. Also exclude: real brand logos, watermarks, QR codes, comic or halftone effects, 3D renders, dark studio scenes, muted palettes, or a tiny distant subject.
+
+Generate as a 4K ultra-high-resolution raster image.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2072539640666681743) | 2026-07-02
+
+---
+
+### 🏷️ 例 3051：云朵形状涂鸦艺术叠加
+
+![云朵形状涂鸦艺术叠加](../../images/%E4%BA%91%E6%9C%B5%E5%BD%A2%E7%8A%B6%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E5%8F%A0%E5%8A%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以所提供图片中云朵的可见形态为引导，判断这些云朵形状最像什么物体、动物或人物。保持原始图片完整，不要改变底层的照片；直接在云朵上方以涂鸦艺术风格叠加识别出的形象，使其与云朵轮廓相契合，同时清晰地呈现出所构想的主题。
+
+[English]
+Using the visible form of the provided image's clouds as the guide, determine what object, animal, or person the cloud shapes most closely resemble. Keep the original image intact and do not alter the underlying photo; overlay the identified figure directly on top of the clouds in a doodle art style, matching the cloud contours while making the imagined subject clear.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072511304104050977) | 2026-07-02
+
+---
+

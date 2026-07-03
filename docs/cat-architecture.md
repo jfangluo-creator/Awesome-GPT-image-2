@@ -1495,3 +1495,53 @@ Create a vibrant 4k anime-style fantasy travel landscape of a sunlit European ri
 
 ---
 
+### 🏛️ 例 3019：色彩斑斓的皇家日出宫殿场景
+
+![色彩斑斓的皇家日出宫殿场景](../../images/%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E7%9A%87%E5%AE%B6%E6%97%A5%E5%87%BA%E5%AE%AB%E6%AE%BF%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+色彩斑斓的皇家场景 (8K)：一位威严的国王和王后并肩站在日出时分宏伟的金色宫殿前，身着绣有黄金和珍贵宝石的奢华皇室长袍，优雅的皇冠上闪烁着钻石的光芒，周围是色彩缤纷的花园、雄伟的白孔雀和发光的喷泉，电影级灯光，超精细面部细节，逼真纹理，色彩鲜艳，奇幻现实主义，体积光，大师级构图，HDR，8K，超写实，超清晰对焦。暗黑皇家场景 (8K)：一位强大的国王和王后在雷雨交加时站在黑暗哥特式城堡的阳台上，身穿黑色和深红色的皇室服装，佩戴古老的珠宝皇冠，披风飘逸，火把闪烁，闪电照亮天空，乌鸦在头顶飞过，戏剧性的阴影，神秘的氛围，电影级暗黑奇幻，超写实面部细节，体积雾，高对比度，HDR，大师之作，超精细，超清晰，8K 画质。
+
+[English]
+Colorful Royal Scene (8K) A majestic king and queen standing together in front of a magnificent golden palace at sunrise, wearing luxurious royal robes embroidered with gold and precious gemstones, elegant crowns sparkling with diamonds, colorful flower gardens, majestic white peacocks, glowing fountains, cinematic lighting, ultra-detailed faces, realistic textures, vibrant colors, fantasy realism, volumetric light, masterpiece composition, HDR, 8K, hyper-realistic, ultra-sharp focus. Dark Royal Scene (8K) A powerful king and queen standing on the balcony of a dark gothic castle during a thunderstorm, black and crimson royal outfits, ancient jeweled crowns, flowing capes, glowing torches, lightning illuminating the sky, ravens flying overhead, dramatic shadows, mysterious atmosphere, cinematic dark fantasy, ultra-realistic facial details, volumetric fog, high contrast, HDR, masterpiece, hyper-detailed, ultra-sharp, 8K quality.
+```
+
+**来源：** [@Zyra AI](https://x.com/Zyra_AI1/status/2072562865735897414) | 2026-07-02
+
+---
+
+### 🏛️ 例 3053：家庭桑巴足球庆典
+
+![家庭桑巴足球庆典](../../images/%E5%AE%B6%E5%BA%AD%E6%A1%91%E5%B7%B4%E8%B6%B3%E7%90%83%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+現代的で居心地の良いリビングルーム。{argument name="家族構成" default="父親、母親、姉、弟の4人家族"}が、大型テレビで{argument name="イベント" default="サッカーの試合"}を観戦している。家族全員がソファに座るのではなく、試合の盛り上がりに合わせて笑顔で{argument name="ダンス" default="サンバ"}を踊りながら応援している。両手を高く上げたり、リズムに合わせてステップを踏んだり、歓声を上げたりと、躍動感あふれるポーズ。全員が最高の笑顔で、試合を心から楽しんでいる。全員が本格的なブラジルのカーニバルを思わせる華やかなサンバ衣装を着用。スパンコールで輝く豪華な衣装、大きく美しい羽飾り、煌びやかなアクセサリー、鮮やかな黄色・緑・青・赤などのトロピカルカラー。衣装は上品で家族向けのデザイン。踊りの勢いで羽根やフリンジが大きく揺れ、スパンコールが光を反射している。テレビには白熱したサッカーの試合が映し出され、その光が家族の顔を照らしている。リビングには紙吹雪が舞い、コーヒーテーブルには飲み物やスナックが並び、サッカーボールや応援グッズ、小さな国旗やマフラーが飾られ、優勝決定戦を皆で観戦しているような熱気に包まれている。家族全員が踊りのピークの瞬間で切り取られ、手足や羽飾りに自然なモーションブラーが入り、躍動感と臨場感が強調されている。温かく幸せな家庭の雰囲気と、スポーツ観戦の興奮が同時に伝わる一枚。フォトリアル、超高精細、映画のワンシーンのようなシネマティック構図、自然な室内照明とテレビの光、リアルな肌の質感、精密な布地表現、羽飾りの細密描写、HDR、8K、高品質写真、浅い被写界深度、ダイナミックな構図、ドキュメンタリー写真風、決定的瞬間、臨場感、圧倒的なリアリティ、最高品質。
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2072510847637917972) | 2026-07-02
+
+---
+
+### 🏛️ 例 3061：赛博朋克建筑墙体纹理
+
+![赛博朋克建筑墙体纹理](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BB%BA%E7%AD%91%E5%A2%99%E4%BD%93%E7%BA%B9%E7%90%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为游戏开发创建一种无缝的正方形赛博朋克科幻建筑立面纹理。图像应为平面的正交前视图，设计为可平铺的墙体材质，无透视、无天空、无角色、无前景物体。使用炭灰色和黑色金属面板的暗黑工业色调，辅以风化的混凝土状板材、污垢、划痕、螺栓、接缝、锈迹和密集的细节装饰（greeble）。用水平和垂直接缝分隔的模块化矩形墙体部分填满整个画布。包含大量通风口、百叶窗格栅、检修舱口、小型服务箱、电缆导管、裸露管道、接线盒和嵌入式技术面板。添加洋红色和青色的赛博朋克霓虹灯点缀：发光的水平灯管、小型状态显示屏、微型 LED 灯带和警告面板。包含 8 个显著的霓虹发光元素：4 条洋红色水平灯条、2 条青色水平灯条、1 个显示“08”及下方微小日文的青色垂直数字面板，以及 1 个带有日文“未来都市”和“////.08”字样的洋红色招牌。在墙面上添加工业标记和标签，如“C-07”、“B-12”、“A-03”和“X-LINE”，并配有模板条纹和少量无法辨认的技术微型文字。在左右边缘附近放置四个狭窄的垂直洋红色警告面板，每个面板底部附近有对角危险条纹，顶部附近有一个小图标，有助于纹理实现逼真的平铺效果。使表面高度精细且清晰可辨，具有逼真的磨损边缘、接缝处的环境光遮蔽、金属上的细微反射以及柔和的霓虹光晕。使用正方形 {argument name="texture resolution" default="1024x1024"} 画布，居中构图，无缝重复纹理质量，暗黑粗粝的赛博朋克游戏资产风格，超精细硬表面科幻纹理，无水印，无 Logo，无人物。
+
+[English]
+Create a seamless square cyberpunk sci-fi building facade texture for game development. The image should be a flat orthographic front view, designed as a tileable wall material with no perspective, no sky, no characters, and no foreground objects. Use a dark industrial palette of charcoal gray and black metal panels, weathered concrete-like plating, grime, scratches, bolts, seams, rust stains, and dense greeble detail. Fill the entire canvas with modular rectangular wall sections divided by horizontal and vertical seams. Include many vents, louvered grilles, access hatches, small service boxes, cable conduits, exposed pipes, junction boxes, and inset technical panels. Add neon cyberpunk accents in magenta and cyan: glowing horizontal tube lights, small status displays, tiny LED strips, and warning panels. Include exactly 8 prominent neon glow elements: 4 magenta horizontal light bars, 2 cyan horizontal light bars, 1 cyan vertical digital panel reading “08” with small Japanese text beneath it, and 1 magenta sign with Japanese text reading “未来都市” plus “////.08”. Add industrial markings and labels on the wall such as “C-07”, “B-12”, “A-03”, and “X-LINE”, with stencil stripes and small unreadable technical microtext. Place four narrow vertical magenta warning panels near the left and right edges, each with diagonal hazard stripes near the bottom and a small icon near the top, helping the texture tile convincingly. Make the surface highly detailed but readable, with realistic worn edges, ambient occlusion in seams, subtle reflections on metal, and soft neon bloom. Use a square {argument name="texture resolution" default="1024x1024"} canvas, centered composition, seamless repeating texture quality, dark gritty cyberpunk game asset style, ultra-detailed hard-surface sci-fi texture, no watermark, no logo, no people.
+```
+
+**来源：** [@すいマグ](https://x.com/manbow_squat/status/2072476552449970369) | 2026-07-02
+
+---
+

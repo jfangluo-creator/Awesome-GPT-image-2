@@ -13486,3 +13486,693 @@ Print-ready
 
 ---
 
+### 🎴 例 2963：反设计风格长沙臭豆腐广告
+
+![反设计风格长沙臭豆腐广告](../../images/%E5%8F%8D%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC%E9%95%BF%E6%B2%99%E8%87%AD%E8%B1%86%E8%85%90%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+长沙臭豆腐创意合成街头美食广告，16:9 横向比例，刻意追求丑陋的“反设计”模因海报风格，混乱的低成本美食广告美学，构图故意杂乱且笨拙。背景看起来像是用油腻的夜市纹理、廉价的红黄色菜单碎片、沾满污渍的塑料桌布、不匹配的瓷砖墙碎片、手写项目、油渍以及丑陋的拼贴纸元素拼凑而成。强烈的非均匀闪光灯照明，局部轻微失焦，笨拙的阴影，糟糕的透视，以及刻意呈现出一种“5 分钟速成”的粗糙感。
+
+画面中右侧中心是正宗长沙臭豆腐的实拍照片，作为主角产品。臭豆腐盛放在廉价纸碗或一次性餐盒中，呈现出深黑色的酥脆方块，质地粗糙多孔，边缘金黄酥脆，淋有鲜红的辣椒油、碎香菜、蒜末、酸豆角，浓郁的酱汁渗入缝隙中。添加可见的热气、油亮的反光、酥脆的表面细节、辛辣的香气感以及浓郁的深夜街头美食真实感。尽管周围的设计刻意杂乱丑陋，但食物本身应看起来超写实、美味、热气腾腾且令人垂涎。
+
+与真实的臭豆腐笨拙互动的是一个粗糙的手绘黑色墨水卡通涂鸦角色，像是在笔记本上无聊时的随手涂鸦，四肢比例失调，线条歪歪扭扭，排线糟糕，表情滑稽。涂鸦角色一只手捏着鼻子，同时被夸张的香气波浪拖向长沙臭豆腐，眼睛变成了爱心状，口水直流，一只脚离地，仿佛被香气神奇地吸引过去。比例错误，透视错误，涂鸦的融合感故意做得非常糟糕。
+
+在食物周围添加额外的丑陋涂鸦元素：
+歪斜的香气波浪、
+杂乱的箭头、
+潦草的火焰、
+笨拙的小星星、
+汗滴、
+颤抖的兴奋符号、
+画得很难看的辣椒、
+微小的幽灵状香气云、
+潦草的手写侧注、
+全部采用粗糙的黑色笔记本涂鸦风格。
+
+在顶部，添加一句刻意丑陋但极其引人注目的中文标语，采用字距排版糟糕的反设计字体：
+
+“闻着像劝退”
+“吃着排长队”
+
+在附近添加一条较小的凌乱手写侧注：
+
+“这一口长沙”
+“臭得刚刚好”
+
+在底部中心，添加一个粗体扭曲的中文主标题：
+
+“长沙臭豆腐”
+
+以俗气的反设计风格添加一个虚构的街头小吃子品牌短语：
+
+“黑得有实力”
+“香得不可思议”
+
+可选的额外丑陋手写中文文案：
+“第一口：皱眉”
+“第二口：真香”
+“第三口：想打包带走”
+
+[English]
+Creative composite street-food advertisement for Changsha stinky tofu, 16:9 horizontal aspect ratio, intentionally ugly anti-design meme poster, chaotic low-budget food ad aesthetic, deliberately cluttered and awkward composition. The background looks badly assembled from greasy night-market textures, cheap red-yellow menu scraps, stained plastic table covers, mismatched tiled wall fragments, handwritten price boards, oil splatters, and ugly pasted paper elements. Harsh uneven flash lighting, slightly off focus in places, awkward shadows, bad perspective, and an intentionally unpolished “made in 5 minutes” look.
+
+At the center-right is a real-life photograph of authentic Changsha stinky tofu as the hero product. The tofu is served in a cheap paper bowl or disposable snack tray, featuring deep black crispy cubes with rough porous texture, golden crunchy edges, vivid red chili oil, chopped coriander, minced garlic, pickled long beans, and glossy sauce dripping into the cracks. Add visible steam, oily reflections, crunchy surface detail, spicy aroma feeling, and strong late-night street food realism. The food itself should look hyper-realistic, delicious, hot, and craveable, even though the surrounding design is intentionally messy and ugly.
+
+Awkwardly interacting with the real stinky tofu is a badly hand-drawn black ink cartoon doodle character, scribbly and crude like a bored notebook sketch, with disproportionate limbs, wobbly line art, bad crosshatching, and silly emotional expression. The doodle character is pinching its nose with one hand while being dragged toward the Changsha stinky tofu by exaggerated smell waves, eyes turning into hearts, drooling uncontrollably, one foot lifted off the ground as if the smell is magically pulling it in. The scale is wrong, the perspective is wrong, and the doodle is integrated terribly on purpose.
+
+Add extra ugly doodle elements around the food:
+crooked smell waves,
+messy arrows,
+scribbled flames,
+awkward little stars,
+sweat drops,
+shaky excitement marks,
+badly drawn chili peppers,
+tiny ghost-like aroma clouds,
+sloppy handwritten side notes,
+all in rough black notebook-doodle style.
+
+At the top, add a deliberately ugly but highly eye-catching Chinese slogan in badly kerned anti-design typography:
+
+“闻着劝退”
+“吃着排队”
+
+Add a smaller messy handwritten side note nearby:
+
+“长沙这口”
+“臭得很对”
+
+At the lower center, add a bold distorted main title in Chinese:
+
+“长沙臭豆腐”
+
+Add a fake street-snack sub-brand phrase in tacky anti-design style:
+
+“黑得带劲”
+“香得离谱”
+
+Optional additional ugly handwritten Chinese copy:
+“第一口皱眉”
+“第二口真香”
+“第三口想打包”
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2072731520809542079) | 2026-07-02
+
+---
+
+### 🎴 例 2965：复古中国诗词座右铭海报
+
+![复古中国诗词座右铭海报](../../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E5%9B%BD%E8%AF%97%E8%AF%8D%E5%BA%A7%E5%8F%B3%E9%93%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张横向的复古中国文学座右铭海报，营造出旧钞票、拓印和古籍书页的质感，以关于勇气与时机的古典诗词名句为核心。
+
+画布：宽幅 16:9 构图，陈旧的暖象牙色宣纸背景，带有细微纤维、黄斑、污渍、墨点和磨损边缘。在整张图像周围添加做旧的双线黑色边框，呈现出手工印刷墨迹般的不均匀感。
+
+布局：在顶部正中央，放置一行微小的目录文字“— 中国诗词座右铭 01 —”。左半部分包含主要书法标题和引文；右半部分包含蓝黑色木刻插画，描绘一艘帆船乘风破浪，配有风格化的云纹和风线。底部三分之一处是一个框架式信息条，精确分为 3 个矩形栏。
+
+文本内容：除非自定义，否则请使用以下指定的中文文本。大标题采用粗犷的黑色书法字体：{argument name="headline text" default="长风破浪"}。下方为两行毛笔书法引文：{argument name="quote text" default="长风破浪会有时，\n直挂云帆济沧海"}。左下栏标题：“· 作者出处 ·”，内容为“李白《行路难》”。中下栏标题：“· 关键词 ·”，内容为“志向 / 时机 / 出发”。右下栏标题：“· 金句逻辑 ·”，下方小字为“在低谷中先守住信念，\n等风来时也要主动扬帆。”底部中央页脚采用小型衬线英文字体：“MOTTO FROM CLASSICAL CHINESE POETRY / 01 OF 10”。
+
+视觉风格：中国古代印刷品、银票美学，单色黑墨配以柔和的藏青色波浪和朱砂红印章。字体应呈现出真实的手写毛笔书法感，粗糙、残缺、有颗粒感且带有盖章效果，而非干净的数字字体。船只、波浪、云朵和装饰图标使用精细的雕版线条。
+
+主体细节：包含 1 艘高桅杆、扬帆的帆船，船身周围有 3 个主要浪尖，右上角插画区域有 4 组风格化的云团或风云纹样，以及 5 个红色印章元素：右上角附近一个纵向椭圆章，左侧标题附近一个小方章，左下栏内一个方章，右下栏内一个圆章，以及左侧引文区域附近一个微小的印记。包含 3 个底部信息栏，每栏配有一个小图标：左侧为山形徽标，中间为圆形波浪徽标，右侧为红色圆章。
+
+构图与约束：中心留出充足的负空间，确保所有文字清晰可辨，保留手工套印不准和墨拓的质感，避免现代渐变、光泽效果、照片写实主义、霓虹色或多余的装饰性文字。图像应呈现出“拓印在纸上的思想标本”和“从古籍中唤醒的座右铭”之感。
+
+[English]
+Goal: Create a horizontal vintage Chinese literary motto poster with the feeling of an old banknote, rubbing print, and ancient book page, centered on a classical poetry quote about courage and timing.
+
+Canvas: Wide 16:9 composition, aged warm ivory rice-paper background with subtle fibers, foxing, stains, ink speckles, and worn edges. Add a distressed double-line black border around the full image, uneven like hand-printed ink.
+
+Layout: At the very top center, place a tiny catalog line reading “— 中国诗词座右铭 01 —”. The left half contains the main calligraphy headline and quote; the right half contains a blue-black woodblock illustration of a sailboat riding large waves with stylized clouds and wind lines. The bottom third is a framed information strip divided into exactly 3 rectangular columns.
+
+Text content: Use exactly these main Chinese texts unless customized. Large headline in rough black calligraphy: {argument name="headline text" default="长风破浪"}. Beneath it, two-line brush calligraphy quote: {argument name="quote text" default="长风破浪会有时，\n直挂云帆济沧海"}. Bottom left column title: “· 作者出处 ·” with text “李白《行路难》”. Bottom center column title: “· 关键词 ·” with text “志向 / 时机 / 出发”. Bottom right column title: “· 金句逻辑 ·” with smaller text “在低谷中先守住信念，\n等风来时也要主动扬帆。” Bottom center footer in small serif English: “MOTTO FROM CLASSICAL CHINESE POETRY / 01 OF 10”.
+
+Visual style: Ancient Chinese printed ephemera, silver-ticket aesthetic, monochrome black ink with muted navy blue waves and small cinnabar-red seals. The typography should look like authentic hand-brushed Chinese calligraphy, rough, broken, grainy, and stamped, not clean digital type. Use fine engraved linework for the boat, waves, clouds, and decorative icons.
+
+Subject details: Include exactly 1 sailboat with a tall mast and raised sail, exactly 3 major wave crests around it, exactly 4 stylized cloud clusters or wind-cloud motifs in the upper right illustration area, and exactly 5 red seal elements: one vertical oval seal near the upper right, one small square seal near the headline on the left, one square seal inside the bottom-left column, one round seal inside the bottom-right column, and one tiny seal-like mark near the left quote area. Include exactly 3 bottom information columns, each with a small icon: left a mountain-like emblem, center a circular wave emblem, right a red round stamp.
+
+Composition and constraints: Leave generous negative space in the center, keep all text legible, preserve the handmade misregistration and ink-rubbing texture, avoid modern gradients, glossy effects, photorealism, neon colors, or extra decorative text. The image should feel like “a thought specimen rubbed onto paper” and “a motto awakened from an old book.”
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072720696934117486) | 2026-07-02
+
+---
+
+### 🎴 例 2967：中式萤火夏夜海报
+
+![中式萤火夏夜海报](../../images/%E4%B8%AD%E5%BC%8F%E8%90%A4%E7%81%AB%E5%A4%8F%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宁静的中式节气海报，主题为 {argument name="solar term" default="小暑"}，营造半透明、仪式感的夏夜氛围，并采用精致的编辑排版。
+
+画布：宽幅 16:9 横向海报，1200 × 675 构图。使用带有细腻纤维和纹理的暖象牙色宣纸质感。背景分为两个平静的高调色块：上方是大面积的奶油米白色天空，下方是淡雅的雾霾蓝绿色地表，柔和过渡，简洁且富有呼吸感。
+
+布局：上半部分保留大量留白。将主标题 {argument name="main title text" default="小暑"} 放置在偏右中心位置，字号极大，采用深蓝黑色中式书法或衬线字体。在标题上方，添加一个朦胧的淡黄绿色圆形月光，内含 2 个天体标记：一个小巧的白色新月和下方一颗微小的白星。在标题周围，排列 4 列纤细的垂直信息文本：主标题左侧一列，左上角标题区域附近一列，主标题右侧两列。在主标题下方添加一枚小巧的橙红色印章。
+
+文本内容：左上角标题为 {argument name="headline text" default="流萤点夜"}，使用大号深色水墨中文字体。下方是一个较小的橙色副标题 {argument name="subtitle text" default="夏夜流萤 · 微光如许"}。副标题下方放置一条短橙色横线，随后是两行简短的深色中文正文：“萤火成诗”和“照见人间清凉”。右侧引用块使用超大号橙色引号，内容为 {argument name="quote" default="白昼的热退去后，夏夜会把微光一颗颗交给你。"}。右下角页脚为“小暑 | 初候温风至 |”，后跟一个橙色小圆点，下方是较小的日期文本：“07/07-07/22 | 农历六月初一至六月十七”。确保所有中文字符清晰且优雅。
+
+主体细节：下三分之一处包含一幅向上生长的手绘夏日田野：从左下角向中心斜向延伸的 1 处质朴竹篱笆，由多根垂直木桩和横梁组成；高耸的芦苇叶和草丛斜向扫过画面；精致的野花茎从左侧和中心升起。添加 10 只可见的萤火虫，腹部发出黄绿色光芒：左侧花茎周围 3 只，中央标题区域草丛上方 2 只，中右侧草丛中 2 只，底部区域附近 3 个微小的发光点。在最右侧，包含 1 个传统的深色木屋角落，配有黑瓦屋顶、竹卷帘和 1 扇透出暖光的窗户。窗内放置 1 个白色小瓷瓶，插有一根细植物枝条。木屋应占据右侧边缘和右下角，并进行部分裁剪。
+
+视觉风格：精致的水彩水墨插画，细腻的手绘植物细节，柔和的蓝绿色和深青色叶片，温暖的萤火虫光芒，柔和的大气薄雾，克制的编辑设计，古籍封面质感，高亮度，透气的纸张纹理，非写实风格。
+
+约束条件：构图不要过于拥挤。保持不对称平衡：上方是文字密集且通透的区域，下方是有机生长的插画。严格使用上述指定的数量，避免添加额外的动物或人物，无水印，无 Logo，无现代 UI 元素。
+
+[English]
+Goal: Create a serene Chinese seasonal poster about {argument name="solar term" default="小暑"}, with a translucent, ritual-like summer night atmosphere and refined editorial typography.
+
+Canvas: Wide horizontal 16:9 poster, 1200 × 675 style composition. Use a warm ivory rice-paper texture with subtle fibers and grain. The background is divided into two calm high-key color fields: a large creamy off-white upper sky and a pale misty blue-green lower field, softly blended, clean and breathable.
+
+Layout: Keep large negative space in the upper half. Place the main vertical title {argument name="main title text" default="小暑"} slightly right of center, very large, in dark blue-black Chinese calligraphy/serif type. Above it, add a hazy pale yellow-green circular moon glow containing exactly 2 celestial marks: one tiny white crescent moon and one tiny white star below it. Around the title, arrange exactly 4 slim vertical informational text columns: one to the left of the main title, one far left near the headline area, and two to the right of the main title. Add a small orange-red seal stamp below the main title.
+
+Text content: Top left headline reads {argument name="headline text" default="流萤点夜"} in large dark ink Chinese characters. Below it, a smaller orange subtitle reads {argument name="subtitle text" default="夏夜流萤 · 微光如许"}. Beneath the subtitle place a short orange horizontal dash, then two small dark lines of Chinese body text: “萤火成诗” and “照见人间清凉”. Right side quote block uses oversized orange quotation marks and the quote {argument name="quote" default="白昼的热退去后，夏夜会把微光一颗颗交给你。"}. Bottom right footer reads “小暑 | 初候温风至 |” followed by a small orange circular mark, with smaller date text underneath: “07/07-07/22 | 农历六月初一至六月十七”. Keep all Chinese text legible and elegant.
+
+Subject details: The lower third contains a hand-painted summer field growing upward into the layout: exactly 1 rustic bamboo fence running diagonally from lower left toward center, made of multiple vertical stakes and horizontal rails; tall reed leaves and grasses sweep diagonally across the scene; delicate wildflower stems rise from the left and center. Add exactly 10 visible fireflies with glowing yellow-green abdomens: 3 around the left flowering stems, 2 near the central title area above the grasses, 2 in the mid-right grasses, and 3 tiny glowing dots near the bottom field. On the far right, include exactly 1 traditional dark wooden house corner with a black tiled roof, a bamboo roll-up blind, and exactly 1 warmly lit window. Inside the window place exactly 1 small white ceramic vase with a thin plant branch. The house should occupy the right edge and bottom-right corner, partially cropped.
+
+Visual style: Delicate watercolor and ink wash illustration, fine hand-drawn botanical detail, muted blue-green and dark teal foliage, warm yellow firefly light, soft atmospheric mist, restrained editorial design, antique Chinese book-cover feeling, high brightness, airy paper texture, no photorealism.
+
+Constraints: Do not overcrowd the composition. Preserve the asymmetric balance: text-heavy airy upper area, organic illustrated growth along the bottom. Use exactly the counted objects specified above, avoid extra animals or people, no watermark, no logo, no modern UI elements.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072715065841873336) | 2026-07-02
+
+---
+
+### 🎴 例 2971：NEONVEIL 银发歌手海报
+
+![NEONVEIL 银发歌手海报](../../images/NEONVEIL%20%E9%93%B6%E5%8F%91%E6%AD%8C%E6%89%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为虚构音乐项目 {argument name="project name" default="NEONVEIL"} 创作一张奢华的编辑风格角色海报，主角是一位名为 {argument name="character name" default="NOA"} 的中性银发歌手，呈现出闪耀的水晶与月光美学。
+
+画布：竖版海报，比例约为 4:5，采用精致的杂志宣传排版。使用银色、珍珠白、半透明蓝灰色、炭灰色以及少量青色点缀的冷色调。整体氛围优雅、空灵、静谧且具有高级时尚感。
+
+布局：海报中需包含同一角色的两个形象：1) 左侧和中心为一张占据主导地位的大型半身肖像，从胸部以上截取，直视镜头，带着淡淡的微笑；2) 右侧为一个较小的全身时尚造型，单手插兜，周围环绕着半透明的水晶碎片和羽毛状翅膀。在右上方全身像后方放置一轮明亮的满月，顶部角落交织着银色链条。背景中加入冰冷的虚化效果、折射光、玻璃棱镜和水晶叠加层。设计需保持紧凑而精致，如同高端音乐宣传视觉图。
+
+角色细节：角色为一位美貌的年轻男性歌手，皮肤白皙，拥有柔和的蓝灰色双眼、精致的五官以及层次感十足的银灰色碎发和长刘海。服装：黑色光泽感叠穿衬衫与马甲、带环形吊坠的黑色皮质颈圈、多条带有水晶吊坠的银色项链、垂坠耳环、带有金属铆钉和丝带的半透明冰白色长外套、带有绑带和链条的白色修身长裤、白色高帮系带靴以及精致的水晶配饰。全身版本应清晰展示完整服装，而特写版本则强调发质、眼睛、珠宝和外套的半透明细节。
+
+排版与可见文字：左上方包含精致的衬线体标识 "NEONVEIL"，上方配有一个小型水晶叶片徽标，下方配有微小的日文副标题。下方是大号衬线体文字 "NOA" 以及较小的青色文字 "VOCAL"。添加小型编辑说明文字："EDITORIAL CAMPAIGN VISUAL" 和 "SILVER ASH / CRYSTAL TONE"。在左下至中心区域添加一行大型日文标题 {argument name="main Japanese headline" default="声は、光になる。"}，深海军蓝笔触中混合亮青色字符点缀。在标题下方以整洁的编辑风格添加较小的日文文案。在右侧添加竖排日文标语 {argument name="vertical Japanese tagline" default="その輝きは、孤独さえも、美しく変える。"}。右下角添加手写青色签名 "Noa"，下方附带微小的 "NEONVEIL" 字样。底边创建一条纤细的海报页脚，包含微型品牌标识、"NEONVEIL"、"NOA / VOCAL"、小型徽标、微缩文字以及类似条形码的图形。
+
+视觉风格：超精细的动漫写实数字插画，结合时尚杂志排版，具有发光的皮肤渲染、精致的发丝、玻璃质感反射、朦胧氛围、水晶折射、银箔质感以及微妙的青色高光。排版应清晰、优雅并融入海报整体，具有强烈的层级感，且面部周围留有充足的负空间。
+
+约束条件：必须使用两个角色形象，一个特写和一个全身。确保两个形象中的角色保持一致。不要添加额外角色。除了刻意设计的微型页脚文字外，避免出现杂乱或无法辨认的文字。无水印，无真实品牌标识。
+
+[English]
+Goal: Create a luxury editorial character poster for the fictional music project {argument name="project name" default="NEONVEIL"}, featuring an androgynous silver-haired vocalist named {argument name="character name" default="NOA"} in a glowing crystal-and-moonlight aesthetic.
+
+Canvas: Vertical poster, approximately 4:5 aspect ratio, polished magazine campaign layout. Use a pale icy palette of silver, pearl white, translucent blue-gray, charcoal, and small cyan accents. The overall mood is elegant, ethereal, quiet, and high-fashion.
+
+Layout: Compose the poster with exactly two depictions of the same character: 1) a large close-up bust portrait dominating the left and center, cropped from the chest upward, looking directly at the viewer with a calm faint smile; 2) a smaller full-body fashion pose on the right, standing with one hand in pocket, surrounded by translucent crystal shards and feather-like wings. Place a bright full moon behind the full-body figure near the upper right, with silver chain loops crossing the top corners. Add icy bokeh, refracted light, glass prisms, and crystalline overlays throughout the background. Keep the design dense but refined, like a premium music campaign visual.
+
+Character details: The character is a beautiful young male vocalist with very pale skin, soft blue-gray eyes, delicate features, and layered shaggy silver ash hair with long bangs. Outfit: black glossy layered shirt and vest, black leather choker with a ring pendant, multiple silver necklaces with crystal pendants, dangling earrings, translucent icy-white long coat with metallic studs and ribbons, white fitted pants with straps and chains, tall white lace-up boots, and subtle crystal accessories. The full-body version should show the complete outfit clearly, while the close-up emphasizes hair texture, eyes, jewelry, and translucent coat details.
+
+Typography and visible text: Include a refined serif logotype at the upper left reading "NEONVEIL" with a small crystal leaf emblem above it and a tiny Japanese subtitle beneath it. Beneath that, large serif text reads "NOA" and smaller cyan text reads "VOCAL". Add small editorial captions: "EDITORIAL CAMPAIGN VISUAL" and "SILVER ASH / CRYSTAL TONE". Add a large Japanese headline across the lower-left to center area reading {argument name="main Japanese headline" default="声は、光になる。"}, mixing dark navy strokes with a bright cyan character accent. Add smaller Japanese copy below the headline in a neat editorial style. Add a vertical Japanese tagline on the right side reading {argument name="vertical Japanese tagline" default="その輝きは、孤独さえも、美しく変える。"}. Add a handwritten cyan signature near the lower right reading "Noa" with small "NEONVEIL" underneath. Along the bottom edge, create a thin poster footer strip with tiny branding, "NEONVEIL", "NOA / VOCAL", a small emblem, microtext, and a barcode-like graphic.
+
+Visual style: Hyper-detailed anime-realistic digital illustration with fashion magazine typography, luminous skin rendering, delicate hair strands, glassy reflections, misty atmosphere, crystal refractions, silver foil feeling, and subtle cyan highlights. The typography should be crisp, elegant, and integrated into the poster, with strong hierarchy and generous negative space around the face.
+
+Constraints: Use exactly two character depictions, one close-up and one full-body. Keep the character consistent between both depictions. Do not add extra characters. Avoid messy or unreadable text except for intentionally tiny footer microtext. No watermark, no logo from real brands.
+```
+
+**来源：** [@sasakura｜AI愛好家🇯🇵宅ナレ占星術](https://x.com/saskr_13/status/2072707221356749261) | 2026-07-02
+
+---
+
+### 🎴 例 2975：奢华夏季宝丽来风格宣传拼贴画
+
+![奢华夏季宝丽来风格宣传拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E5%A4%8F%E5%AD%A3%E5%AE%9D%E4%B8%BD%E6%9D%A5%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一位年轻东亚女性"} 创作一张高级奢华生活方式社交媒体宣传拼贴画，展现连贯的夏日轻盈感与编辑级时尚叙事。
+
+画布：方形 1:1 构图，平铺视角，背景为带有柔和褶皱的暖香槟色缎面织物，呈现奶油米色高光、柔和阴影以及精致的奢华宣传质感。
+
+主体：同一位女性在 9 张独特的表现力生活方式照片中保持一致。她留着深棕色凌乱盘发，带有细碎刘海，佩戴精致耳环和叠戴项链，妆容自然柔和，表情甜美梦幻。服装保持一致：淡粉蓝色廓形毛衣、奶油色百褶短裙、白色短袜、白色运动鞋以及一个小巧的奶油色斜挎包。每张照片的背景均为明亮的夏季户外日光，包含蓝天、柔云、绿植、道路或栏杆细节，以及浅景深虚化效果。
+
+布局：将 9 张照片以宝丽来即影即有照片重叠、35mm 胶片条散落以及复古照相亭胶片条的形式进行艺术化排列，而非严格的网格布局。使用逼真的纸张厚度、卷曲的边角、阴影、胶带碎片、胶片齿孔、手写标题以及略微变化的旋转角度。整体布局应呈现出精心策划、编辑级且具有收藏价值的质感。
+
+照片元素，共 9 张独特造型：
+1. 左侧大尺寸宝丽来：女性在蓝天下举起小型相机对着脸部，标题为“Summer Breeze”。
+2. 顶部中央黑色 35mm 胶片条：四个微型画格，展示她俏皮的户外姿势，包括站立、坐着和仰望。
+3. 右上方宝丽来：特写肖像，下巴靠在被毛衣覆盖的手上，标题为“Blue days”。
+4. 右上方边缘黑色胶片画格：全身行走姿势，背景为蓝天，手写标题“Every moment”。
+5. 中央宝丽来：吹肥皂泡的近景肖像，标题为“Good things take time.”。
+6. 中右侧宝丽来：回眸肖像，佩戴花朵发夹，背景为柔和天空，标题为“You got this”。
+7. 下方中央宝丽来：在阳光明媚的道路上张开双臂的全身欢快行走姿势，标题为“Collect beautiful moments”。
+8. 右下方宝丽来：面带微笑的近景，脸颊靠在手上，标题为“Sunshine on my mind”。
+9. 右侧长条棕色胶片条：三张堆叠的画格，展示女性沿路行走和摆姿势，标题为“Make today amazing”。
+
+附加装饰元素：在拼贴画周围添加 3 朵白色雏菊状花朵，散落白色和淡粉色花瓣，少量半透明肥皂泡，微妙的镜头光斑，顶部边缘附近的小金币或饰品，以及固定部分照片的米色美纹纸胶带碎片。
+
+视觉风格：高端时尚宣传，柔和自然阳光，淡蓝色与奶油色调，逼真的摄影拼贴，温暖的缎面质感，精致的阴影，细腻的虚化效果，高级生活方式品牌感。所有手写标题需保持纤细、随性、优雅且清晰易读。
+
+文本自定义：使用所列出的可见标题，或将主要宣传氛围替换为 {argument name="campaign mood" default="夏日微风"}。保持整体色调以 {argument name="primary color" default="粉蓝色"} 为中心，场景感觉为 {argument name="location" default="蓝天下的阳光户外道路"}，品牌基调为 {argument name="brand tone" default="高级奢华生活方式"}。
+
+约束条件：无网格布局，无额外人物，无 Logo，无水印，无扭曲的手部或面部，无重复的不一致形象，除所列标题外无多余文字。
+
+[English]
+Goal: Create a premium luxury lifestyle social media campaign collage for {argument name="character name" default="a young East Asian woman"}, with a cohesive airy summer identity and editorial fashion storytelling.
+
+Canvas: Square 1:1 composition, flat-lay view on warm champagne satin fabric with soft folds, creamy beige highlights, gentle shadows, and a polished luxury campaign feel.
+
+Main subject: The same woman appears consistently across exactly 9 unique expressive lifestyle poses. She has dark brown messy updo hair with wispy bangs, delicate earrings and layered necklaces, soft natural makeup, and a sweet dreamy expression. Outfit is consistent: pale powder-blue oversized sweater, cream pleated mini skirt, white socks, white sneakers, and a small cream crossbody bag. Setting inside each photo is bright outdoor summer daylight with blue sky, soft clouds, greenery, road or railing details, and shallow-depth-of-field bokeh.
+
+Layout: Arrange the 9 poses as an artistic mix of overlapping instant Polaroid prints, scattered 35mm film strips, and vintage photo booth strips rather than a strict grid. Use realistic paper thickness, curled corners, shadows, tape pieces, film perforations, handwritten captions, and slightly varied rotations. The arrangement should feel curated, editorial, and collectible.
+
+Photo elements, exactly 9 unique poses:
+1. Large left Polaroid: woman holding a small camera up to her face under a blue sky, captioned “Summer Breeze”.
+2. Top-center black 35mm film strip: four tiny frames showing her in playful outdoor poses, including standing, sitting, and looking up.
+3. Upper-right Polaroid: close-up portrait with chin resting on a sweater-covered hand, captioned “Blue days”.
+4. Far upper-right black film frame: full-body walking pose against blue sky, handwritten caption “Every moment”.
+5. Center Polaroid: close portrait blowing soap bubbles, captioned “Good things take time.”
+6. Mid-right Polaroid: over-the-shoulder portrait with flower hair clip and soft sky background, captioned “You got this”.
+7. Lower-center Polaroid: full-body joyful walking pose with arms open on a sunny road, captioned “Collect beautiful moments”.
+8. Lower-right Polaroid: smiling close-up with cheek resting on hand, captioned “Sunshine on my mind”.
+9. Tall right brown film strip: three stacked frames of the woman walking and posing along a road, captioned “Make today amazing”.
+
+Additional decorative elements: Add exactly 3 white daisy-like flowers around the collage, scattered white and pale-pink petals, a few translucent soap bubbles, subtle lens sparkles, tiny gold coins or charms near the top edge, and small pieces of beige masking tape anchoring some prints.
+
+Visual style: High-end fashion campaign, soft natural sunlight, pastel blue and cream color palette, realistic photographic collage, warm satin texture, refined shadows, delicate bokeh, premium lifestyle branding. Make all handwritten captions thin, casual, elegant, and legible.
+
+Text customization: Use the visible captions as written, or replace the main campaign mood with {argument name="campaign mood" default="summer breeze"}. Keep the overall palette centered on {argument name="primary color" default="powder blue"}, the location feeling like {argument name="location" default="a sunny outdoor road under a blue sky"}, and the brand tone as {argument name="brand tone" default="premium luxury lifestyle"}.
+
+Constraints: No grid layout, no extra people, no logos, no watermark, no distorted hands or faces, no duplicated inconsistent identity, no excessive text beyond the listed captions.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2072697964464902613) | 2026-07-02
+
+---
+
+### 🎴 例 2983：SSR 奇幻抽卡角色卡牌
+
+![SSR 奇幻抽卡角色卡牌](../../images/SSR%20%E5%A5%87%E5%B9%BB%E6%8A%BD%E5%8D%A1%E8%A7%92%E8%89%B2%E5%8D%A1%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张竖版奇幻抽卡角色卡牌插图，用于 {argument name="rarity label" default="SSR"}。画面中心展示一位全身动漫风格的年轻女性，呈现强有力的英雄姿态，正对观众。她拥有飘逸的长棕发、紫罗兰色的双眸、自信的浅笑，并佩戴着带有黑色丝带装饰的白色荷叶边女仆头饰。她身着华丽的黑白金配色战斗女仆装：露肩白色荷叶边胸衣、带有金色系带和金丝装饰的黑色紧身胸衣、分离式黑色袖套配荷叶边袖口、多层短款黑裙、半透明白色围裙式罩裙、金链、大腿护甲吊带、黑色过膝长靴以及精致的金色护甲装饰。她右手握着一把高大的魔法长矛或法杖，矛头为锋利的金黑双色刀刃，核心镶嵌着发光的紫色水晶。背景设定在光芒四射的教堂式召唤大厅中，拥有高耸的深色立柱、金色光束、脚下发光的圆形魔法阵以及许多漂浮的棱镜水晶碎片。卡牌 UI 采用奢华的华丽金色边框，边角带有卷曲装饰，底部设有一个黑金配色的空白铭牌，右上角整齐排列着六颗金星。在左上角放置巨大的光泽虹彩文字 {argument name="rarity label" default="SSR"}，带有彩虹高光、斜面金属金边以及星芒闪烁效果。采用强烈的戏剧性光影、闪烁粒子、镜头光晕、彩虹折射、高对比度、超精细的动漫渲染效果，呈现高级手机 RPG 卡牌艺术，2:3 竖版构图。保持画面仅有一名角色、六颗星级、一个底部无文字的铭牌，且不包含任何额外的标志或水印。
+
+[English]
+Create a vertical fantasy gacha character card illustration for {argument name="rarity label" default="SSR"}. The image shows one full-body anime-style young adult woman centered in a powerful heroic pose, facing the viewer, with long flowing dark brown hair, violet eyes, a small confident smile, and a white frilled maid-like headdress with black ribbon accents. She wears an ornate black, white, and gold battle-maid outfit: a revealing white ruffled bustier, black corset bodice with gold lacing and filigree, detached black sleeves with frilled cuffs, layered short black skirt, translucent white apron-like overskirt, gold chains, thigh garter armor, black thigh-high boots, and elaborate gold armor ornaments. In her right hand she holds a tall magical spear or staff with a sharp gold-and-black blade and a glowing purple crystal core. Set her inside a radiant cathedral-like summoning hall with tall dark columns, golden beams of light, a circular magic sigil glowing under her feet, and many floating prismatic crystal shards. The card UI has a luxurious ornate gold frame with curled corner decorations, a black-and-gold empty nameplate at the bottom, and exactly six gold stars aligned across the upper right. Put the large glossy iridescent text {argument name="rarity label" default="SSR"} in the upper left, with rainbow highlights, beveled metallic gold edges, and starburst sparkles. Use intense dramatic lighting, glittering particles, lens flares, rainbow refractions, high contrast, ultra-detailed polished anime rendering, premium mobile RPG card art, 2:3 vertical composition. Keep exactly one character, exactly six stars, one bottom nameplate with no text, and no extra logos or watermarks.
+```
+
+**来源：** [@ジャム🍞](https://x.com/jampaint/status/2072691408620970264) | 2026-07-02
+
+---
+
+### 🎴 例 2993：Nike FIFA World Cup 体育海报
+
+![Nike FIFA World Cup 体育海报](../../images/Nike%20FIFA%20World%20Cup%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 Nike × FIFA World Cup 社论广告风格的高端体育海报。以一位传奇足球运动员为主角，呈现动态的全身动作姿态，并将其叠加在巨大的灰度特写肖像前方。使用 {argument name="national flag colors" default="国旗配色"} 在眼睛处横向覆盖一道醒目的色带，其余部分保持单色。在右侧放置一个巨大的手绘球衣号码，并带有质感笔触。
+
+使用干净的白色混凝土背景，融入微妙的体育场建筑、烟雾、灰尘、油漆飞溅、墨水纹理、半色调图案、旧纸张和垃圾风格叠加层。在左侧边缘添加垂直轮廓姓氏、小写大写名字、底部的亲笔签名、国家队队徽、极简主义排版、励志标语以及现代社论布局。
+
+配色方案应与球员的国家队保持一致 ({argument name="team colors" default="葡萄牙：红与绿，阿根廷：天蓝与白，法国：蓝、白、红，巴西：黄、绿、蓝"})。使用戏剧性的轮廓光、高对比度、逼真的皮肤纹理、清晰的球衣面料细节、电影级阴影、高级杂志封面构图、动态深度、分层拼贴设计、体育品牌美学、超写实、8K、HDR、屡获殊荣的平面设计。
+
+风格关键词：
+社论体育海报，FIFA World Cup，Nike 广告，双重曝光，分层拼贴，单色肖像，局部色彩，垃圾纹理，油漆飞溅，笔刷排版，体育场氛围，高级品牌设计，现代体育平面设计，照片级真实，超细节。
+
+[English]
+Create a premium sports poster in the style of a Nike × FIFA World Cup editorial campaign. Feature one legendary football player as the hero with a dynamic full-body action pose layered in front of a massive grayscale close-up portrait. Apply a bold horizontal color strip across the eyes using the {argument name="national flag colors" default="national flag colors"} while the rest of the portrait remains monochrome. Place a huge hand-painted jersey number on the right with textured brush strokes.
+
+Use a clean white concrete background with subtle stadium architecture, smoke, dust, paint splashes, ink textures, halftone patterns, distressed paper, and grunge overlays. Add a vertical outlined surname on the left edge, small uppercase first name, handwritten signature near the bottom, national team crest, minimalist typography, inspirational slogan, and modern editorial layout.
+
+Color palette should match the player's national team ({argument name="team colors" default="Portugal: red & green, Argentina: sky blue & white, France: blue, white & red, Brazil: yellow, green & blue"}). Use dramatic rim lighting, high contrast, realistic skin texture, sharp jersey fabric details, cinematic shadows, premium magazine cover composition, dynamic depth, layered collage design, sports branding aesthetic, ultra-realistic, 8K, HDR, award-winning graphic design.
+
+Style keywords:
+editorial sports poster, FIFA World Cup, Nike campaign, double exposure, layered collage, monochrome portrait, selective color, grunge textures, paint splashes, brush typography, stadium atmosphere, premium branding, modern sports graphic design, photorealistic, ultra detailed.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2072662601285390492) | 2026-07-02
+
+---
+
+### 🎴 例 2994：哥特式 Echo Chamber 时尚杂志封面
+
+![哥特式 Echo Chamber 时尚杂志封面](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Echo%20Chamber%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 竖版比例的暗黑哥特风时尚杂志大片海报。场景设定在一个昏暗奢华的浴室中，背景为深灰色大理石墙面、黑色石质洗手台、白色长方形水槽、镀铬水龙头，以及一面映照出模特背影和黑色羽毛翅膀的大镜子。主角为一名成年亚裔女性模特，{argument name="character name" default="unnamed model"}，拥有清冷甜美的面部特征，留着微乱的长款深棕色波浪卷发，皮肤白皙，带着克制的神秘微笑。她侧身坐在洗手台旁的黑色台面上：一只手撑在水槽边缘，一只膝盖弯曲踩在台面上，另一条腿自然下垂向地面，呈现出优雅的时尚姿态。服装：修身黑色短袖露脐上衣、黑色高腰迷你短裤或超短裙、半透明烟熏黑图案连裤袜、带有金属金色点缀的黑色细带高跟凉鞋、一条精致的银色项链配小吊坠，以及一块黑色腕表。在她的左侧添加一只清晰可见的黑色羽毛天使翅膀，部分倒映在镜子中。她右手举起，在脸庞旁拿着一个银色镜面马赛克化装舞会面具；面具应具有光泽感、拼贴感和反射效果，并带有镂空眼部。灯光采用低调的电影感布光，整体色调为忧郁的炭灰色和黑色，左前方有柔和的定向光源，呈现细腻的反射效果、光泽的大理石质感，营造出安静孤独的氛围，具备高级时尚摄影质感，皮肤与织物纹理真实，带有轻微的胶片颗粒感，无裸露，无其他人物。在图像中融入杂志风格的排版：左上方为大号做旧衬线字体标题，内容为 {argument name="headline text" default="ECHO CHAMBER"}；下方为小号副标题 {argument name="subtitle text" default="— SOME SILENCES STAY WITH YOU."}；左侧栏包含小号加号图标及文字“REFLECTIONS / DON’T LIE, / THEY JUST / REMEMBER.”；小号期号板块写着“009 / ALONE, BUT / NOT EMPTY.”；左下角引用文字为 {argument name="bottom quote" default="IN THE DARK, I FIND MY TRUTH."}，下方配有一条微小的音频波形线；右下角页脚文字为 {argument name="footer text" default="VOL.09 / ECHOES WITHIN"}。所有文字保持白色或浅灰色，风格优雅、间距适中、略带做旧感，并按照现代哥特式杂志封面的排版方式对齐。
+
+[English]
+Create a dark gothic fashion magazine editorial poster in a vertical 2:3 format. The scene is a dim, luxurious bathroom with dark gray marble walls, a black stone vanity, a white rectangular sink, a chrome faucet, and a large mirror reflecting the model’s back and black feather wing. Feature one adult Asian female model, {argument name="character name" default="unnamed model"}, with cool sweet facial features, long slightly messy dark brown wavy hair, pale skin, and a restrained mysterious smile. She is sitting sideways on the black vanity beside the sink: one hand rests on the sink edge, one knee bent up on the counter, the other leg extended downward toward the floor, creating an elegant fashion pose. Outfit: fitted black short-sleeve crop top, high-waisted black mini shorts or micro skirt, semi-transparent smoky black patterned tights with diagonal stripe details, black thin-strap high-heeled sandals with metallic gold accents, a delicate silver necklace with a tiny pendant, and a black wristwatch. Add one visible black feather angel wing behind her on the left side, partly reflected in the mirror. She holds one silver mirrored mosaic masquerade mask beside her face with her raised right hand; the mask should be shiny, tiled, and reflective with cutout eyes. Lighting is low-key cinematic, moody charcoal and black palette, soft directional light from the front-left, subtle reflections, glossy marble texture, quiet lonely atmosphere, high-fashion editorial photography, realistic skin and fabric textures, slight film grain, no nudity, no extra people. Add magazine-style typography integrated into the image: large distressed serif headline at upper left reading {argument name="headline text" default="ECHO CHAMBER"}; small subtitle beneath reading {argument name="subtitle text" default="— SOME SILENCES STAY WITH YOU."}; small plus signs and left-column text reading “REFLECTIONS / DON’T LIE, / THEY JUST / REMEMBER.”; small issue block reading “009 / ALONE, BUT / NOT EMPTY.”; bottom-left quote reading {argument name="bottom quote" default="IN THE DARK, I FIND MY TRUTH."} with a tiny audio waveform line below; bottom-right footer reading {argument name="footer text" default="VOL.09 / ECHOES WITHIN"}. Keep all text white or pale gray, elegant, spaced, slightly distressed, aligned like a modern gothic magazine cover.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2072661269472235799) | 2026-07-02
+
+---
+
+### 🎴 例 2995：电影级英雄海报
+
+![电影级英雄海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级大片海报，主角为 {argument name="character name" default="一位年轻的黑人男性英雄"}，采用紧凑的英雄肖像构图，正面对镜头，表情冷静而坚定。保留写实的面部特征，短寸黑发，自然的皮肤纹理，对称的正面布光，以及锐利的眼神接触。让他身穿深色未来主义战术铠甲，包含黑色金属胸甲、肩甲、绑带、接缝、划痕以及细微的战斗磨损。背景展示黄昏时分饱受摧残的现代城市天际线，天空笼罩在烟雾弥漫的暴风雨中，伴有燃烧的建筑、橙色的火球、飘散的余烬、浓厚的黑烟、探照灯以及天空中三架军用直升机。左下方添加一辆粗犷的装甲车，右下角远处点缀一些剪影状的人群或士兵以体现比例感。采用戏剧性的好莱坞动作海报布光：侧面和背景呈现温暖的橙色火光，铠甲上带有冷色调的深影，高对比度，体积烟雾，火花，镜头光晕，粗粝的写实感，超精细的 8k 摄影画质。在底部添加电影海报排版：一行小字标语 {argument name="tagline" default="ONE HERO. ONE CHOICE. ONE LEGACY."}，一个巨大的做旧石质金属风格标题 {argument name="movie title" default="LEGACY"}，以及一行较小的上映信息 {argument name="release line" default="2025 年夏季影院上映"}。保持方形构图，英雄位于中心垂直轴线上，标题文字覆盖在下半身区域，无需额外 Logo，无需演职员表，无水印。
+
+[English]
+Create a cinematic blockbuster movie poster starring {argument name="character name" default="a young Black male hero"} centered in a tight heroic portrait, facing directly forward with a calm, determined expression. Preserve a realistic face with short cropped black hair, natural skin texture, symmetrical frontal lighting, and sharp eye contact. Dress him in a dark futuristic tactical armored suit with black metal chest plates, shoulder armor, straps, seams, scratches, and subtle battle wear. Behind him, show a devastated modern city skyline at dusk under a smoky storm sky, with burning buildings, orange fireballs, drifting embers, thick black smoke, searchlights, and three military helicopters in the sky. Add a rugged armored vehicle on the lower left and small silhouetted people or soldiers in the distant lower right for scale. Use dramatic Hollywood action-poster lighting: warm orange fire glow from the sides and background, cool dark shadows on the armor, high contrast, volumetric smoke, sparks, lens flare, gritty realism, ultra-detailed 8k photographic finish. Add movie-poster typography at the bottom: a small tagline reading {argument name="tagline" default="ONE HERO. ONE CHOICE. ONE LEGACY."}, a huge distressed stone-metal title reading {argument name="movie title" default="LEGACY"}, and a smaller release line reading {argument name="release line" default="IN CINEMAS SUMMER 2025"}. Keep the composition square, with the hero occupying the central vertical axis, title text layered across the lower torso, no extra logos, no credits block, no watermark.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2072658334860063016) | 2026-07-02
+
+---
+
+### 🎴 例 3003：广州水墨书法海报
+
+![广州水墨书法海报](../../images/%E5%B9%BF%E5%B7%9E%E6%B0%B4%E5%A2%A8%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版海报，背景为纯粹的深黑色。让一条粗犷、有力的 {argument name="central curve" default="以黑色水墨书写出的 S 型曲线"} 从画面一端延伸至另一端，作为整个构图的视觉主干和叙事路径。在曲线之上，放置一只半透明的 {argument name="bird type" default="画眉鸟"}，其身体如玻璃般通透，内部倒映着层叠的传统建筑与流动的青蓝色光影。沿曲线散布 {argument name="city landmarks" default="广州地标"} 以及一系列中国古典建筑。在前景中，展示 {argument name="animals" default="白鹤"} 伫立在波光粼粼的湖面旁。在远景处，添加层叠的山峦剪影。采用非线性透视，运用冷色调为主、暖色点缀的配色方案，融合东方美学与现代符号意象，呈现超精细的 8K 渲染效果。
+
+[English]
+Create a vertical 9:16 poster on a pure, deep black background. Let a bold, powerful {argument name="central curve" default="S-shaped curve painted in black ink calligraphy"} wind from one end of the frame to the other, serving as the visual backbone and narrative path of the entire composition. Above the curve, place a translucent {argument name="bird type" default="Chinese thrush bird"} with a glasslike body, its interior reflecting layered traditional architecture and flowing blue-green light. Scatter {argument name="city landmarks" default="Guangzhou landmarks"} and a sequence of classical Chinese buildings along the curve. In the foreground, show {argument name="animals" default="white cranes"} beside a reflective lake surface. In the distance, add layered mountain silhouettes. Use a non-linear perspective, a cool-toned palette with subtle warm accents, a fusion of Eastern aesthetics and modern symbolic imagery, ultra-detailed 8K rendering.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072631247923511658) | 2026-07-02
+
+---
+
+### 🎴 例 3008：城市自然观察展览海报
+
+![城市自然观察展览海报](../../images/%E5%9F%8E%E5%B8%82%E8%87%AA%E7%84%B6%E8%A7%82%E5%AF%9F%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="exhibition title" default="城市自然观察室"} 创建一张具有手工剪影拼贴美感的竖版展览海报，融合岩石标本纹理、黑色剪纸手部元素、植物细节以及规整的博物馆信息系统。
+
+画布：竖向海报，3:4 比例，米白色纸张背景，带有细微颗粒感，丝网印刷质感，略带不完美的套色效果，配色采用柔和的蓝灰色、板岩色、苔藓绿、炭黑色和白色。
+
+布局：中央贯穿一条不规则的浅蓝灰色竖向撕纸形状。将主标题作为巨大的白色中文字体堆叠在中央条带内，从上至下排列，采用粗体压缩几何风格。周围均衡地排布标本和手部元素，留出充足的负空间。
+
+主要视觉元素：使用 4 只黑色剪影手：左上方手捏着一块小蓝石，左下方手捧着一块大绿石，右上方手捏着一块深色石头，右下方手拿着一个放大镜。使用 14 个可见的石头/拼贴碎片：左上方手附近有一块蓝色纹理石，下方有一块浅灰色三角形纸质石，左侧中部有一条蓝色弯曲条带，左下中部有一块大型绿色椭圆石，左下边缘有一块浅灰色撕裂碎片，左下角附近有一块深灰色小石，右上方有一块带有微小白色植物剪影的蓝色多边形石，右上方手下方有一块悬挂的深色石头，右侧中部有一块绿色石头，其右下方有一条窄蓝灰色条带，右侧中部有一块黑色椭圆石，一块水平的深灰色长方形标本条，右下角附近一块灰色岩石，以及右下角一块深蓝色撕裂块。添加 3 个精致的植物装饰：右上角蓝色石头内有一个白色植物剪影，大绿石旁有一枝精细的白/蓝色植物枝条，左下角附近有几根黑色蕨类植物茎。
+
+排版与文字：左上方添加小型竖向品牌标识，包含一个简单的山形 Logo 和中文名称 {argument name="venue name" default="新美馆探索基地"}，以及微小的英文文本 "XINMEI MUSEUM EXPLORATION BASE"。右上角添加竖向蓝色文字 "春季展览" 及小型英文 "SPRING EXHIBITION"。中右侧添加一个细长的竖向列表："石块 / 标本 / 观察 / 手作 / 记录"。左侧添加一行简短的竖向诗意文字："春天从一块石头开始，观察一座城市的呼吸。" 右侧添加一个小标签："策展 / 新美馆探索基地"。
+
+底部信息栏：创建一个干净的白色页脚，由细浅蓝色分割线隔开。左侧包含开放日标签，日期 {argument name="event date" default="05.17 — 05.18"} 使用大号衬线数字，并标注 SAT. 和 SUN.，时间 {argument name="event time" default="10:00 — 17:00"}，场地地址 {argument name="venue address" default="新美馆探索基地 深圳市南山区怡海大道128号"}，参与说明，以及最右侧的二维码。最底部添加一条蓝色条带，配以白色小字，注明公众开放、免费参与及预约入场。
+
+视觉风格：当代艺术博物馆海报，触感手工纸拼贴，剪影镂空，拓片纹理，标本观察主题，严谨的信息层级，优雅而不抽象。避免写实主义、渐变、光泽效果或多余的装饰杂乱。
+
+[English]
+Goal: Create a vertical exhibition poster with a handmade silhouette-collage aesthetic for {argument name="exhibition title" default="城市自然观察室"}, combining rock specimen textures, black cut-paper hands, botanical details, and an orderly museum information system.
+
+Canvas: Portrait poster, 3:4 ratio, off-white paper background with subtle grain, screen-print texture, slightly imperfect ink registration, muted blue-gray, slate, moss green, charcoal black, and white.
+
+Layout: A tall irregular pale blue-gray vertical torn-paper shape runs down the center. Place the main title as huge stacked white Chinese block characters inside this central strip, reading from top to bottom, with a bold condensed geometric style. Around it, arrange specimens and hands in a balanced collage, leaving generous negative space.
+
+Main visual elements: Use exactly 4 black silhouette hands: 1 left upper hand pinching a small blue stone, 1 left lower hand cupping a large green stone, 1 right upper hand pinching a dark stone, and 1 right lower hand holding a magnifying glass. Use exactly 14 visible stone/collage pieces: 1 blue textured stone near the upper left hand, 1 pale gray triangular paper-stone under it, 1 blue curved strip on the left middle, 1 large green oval stone in the lower left center, 1 light gray torn fragment at the lower left edge, 1 small dark gray stone near the bottom left, 1 blue polygon stone with a tiny white plant silhouette at upper right, 1 dark hanging stone below the upper right hand, 1 green stone at right middle, 1 narrow blue-gray strip to its lower right, 1 black oval stone at right middle, 1 horizontal dark gray rectangular specimen bar, 1 gray rock near the lower right, and 1 dark blue torn block at the bottom right. Add exactly 3 delicate botanical accents: a small white plant silhouette inside the upper-right blue stone, a fine white/blue plant sprig beside the large green stone, and small black fern stems near the bottom left.
+
+Typography and text: Add small vertical side branding on the upper left with a simple mountain-like logo and the Chinese name {argument name="venue name" default="新美馆探索基地"}, plus tiny English text "XINMEI MUSEUM EXPLORATION BASE". On the upper right, add vertical blue text "春季展览" with small English "SPRING EXHIBITION". Near the center-right, add a thin vertical list: "石块 / 标本 / 观察 / 手作 / 记录". Add a short vertical poetic line on the left: "春天从一块石头开始，观察一座城市的呼吸。" Add a small right-side label: "策展 / 新美馆探索基地".
+
+Bottom information band: Create a clean white footer separated by thin pale blue divider lines. Include an open day label on the left, the date {argument name="event date" default="05.17 — 05.18"} in large serif numerals with small SAT. and SUN. labels, the time {argument name="event time" default="10:00 — 17:00"}, the venue address {argument name="venue address" default="新美馆探索基地 深圳市南山区怡海大道128号"}, a participation note, and a QR code on the far right. Add a blue strip at the very bottom with small white Chinese text indicating public opening, free participation, and reservation entry.
+
+Visual style: Contemporary art museum poster, tactile handmade paper collage, silhouette cutouts, stone-rubbing textures, specimen observation theme, disciplined information hierarchy, elegant but not abstract. Avoid photorealism, gradients, glossy effects, or extra decorative clutter.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072598952407609442) | 2026-07-02
+
+---
+
+### 🎴 例 3010：小暑西瓜城市海报
+
+![小暑西瓜城市海报](../../images/%E5%B0%8F%E6%9A%91%E8%A5%BF%E7%93%9C%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="season title" default="小暑"} 创作一张宁静的竖版中国节气海报，呈现透明、静谧且具有微缩叙事感的美学：第一观感是富有韵律的垂直张力，第二观感是微小的城市生活，第三观感是时间、热度与开阔空间带来的意境。
+
+画布：9:16 竖版海报，柔和的高调日光，淡蓝白色调，大量留白，空气感薄雾，浅景深，极简且优雅。
+
+布局：画面分为三层。顶层：从顶部边缘垂下密集的细长垂直线条，长短不一，呈半透明蓝灰色，如同风铃、雨丝或悬挂的细绳。中/右侧排版层：垂直的中文编辑排版文字置于右上象限，留白充裕。底层：微缩城市广场场景占据下三分之一，微小的人群在明亮朦胧的城市清晨中穿行。
+
+文字内容：在右侧，将主标题 {argument name="main Chinese title" default="小暑"} 设置为精致的青色中式衬线体/书法风格，字号大且优雅。在标题字符旁或之间添加小号罗马字母 {argument name="romanized season name" default="XIAOSHU"}。在顶部附近添加一个小型垂直标签 {argument name="solar term label" default="二十四节气"}。以青色添加垂直排版的诗意文案，包括 {argument name="poetic copy" default="城市清晨 候忽温风至 因循小暑来"}。保持所有文字清晰、垂直、克制，并像高端文化海报一样对齐。
+
+主体细节：在垂直线条中包含 6 个可见的悬挂水果对象：左下中心附近悬挂着 1 个系着蝴蝶结的半块西瓜；右下中心附近悬挂着 1 个系着蝴蝶结的完整条纹西瓜；广场上方最左侧悬挂 1 片小西瓜；中景中心附近悬挂 1 片小西瓜；右侧高处悬挂 1 片小西瓜；文字区域右下方悬挂 1 片微小的红色西瓜状物体。水果应呈现出精致的微缩感，带有柔和的高光和逼真的果皮/籽细节。
+
+微缩叙事：广场上显示 10 个人物：前景左侧 1 名穿着白衬衫、提着深色公文包从左向右走的干练男子；中心附近 1 名穿着浅色连衣裙、拿着饮料或手机的干练女性；右下中心附近 1 名向右骑行的干练骑行者；最左侧蓝色标志旁站立 1 人；朦胧背景中散布 5 名微小的远景行人；以及左下角前景处 1 名模糊的骑行者局部。在右下角前景处添加一个被裁剪的模糊蓝色车辆或报刊亭形状。背景建筑应为淡化处理的现代城市天际线，带有玻璃塔楼和开阔的水岸或广场感。
+
+视觉风格：写实摄影与超现实微缩装置结合，干净的中国编辑海报设计，淡青色与白色，青色排版，西瓜红/绿色点缀，柔和的晨雾，明亮的反光地面，柔和的阴影，电影级景深，平静的夏季氛围，无杂乱元素。
+
+约束：保持强烈的留白，使垂直线条的韵律在三分之二的上方占据主导地位，保持所有人物微小且具有故事感，避免出现除指定的 6 个悬挂水果之外的多余水果，避免多余的标题文字，无水印，无 Logo，无边框。
+
+[English]
+Create a vertical 9:16 minimalist Chinese solar-term poster for {argument name="solar term" default="小暑"}. The image should feel translucent, quiet, airy, and poetic, with a micro-narrative city scene. Use three visual layers: the top two-thirds filled with a dense array of very thin vertical hanging lines like clear glass threads or rain strings, the lower third showing tiny people moving through a bright plaza, and a pale blue-white background with abundant clean negative space. Suspend exactly 7 fruit objects from the vertical lines: 1 large half watermelon near the lower left-center tied with a small bow, 1 round whole watermelon near the lower right-center tied with a bow, 1 small watermelon slice at far left, 1 tiny watermelon slice in the upper mid-right, 1 small watermelon slice near center-left background, 1 tiny red watermelon piece near the right text area, and 1 small blurred red fruit piece farther back. The ground scene contains exactly 8 visible tiny human figures: 1 foreground blurred cyclist cropped at bottom left, 1 walking office man with briefcase in the lower left, 1 standing person beside a blue sign at far left, 1 woman in a white dress walking near center, 1 bicyclist on the right, and 3 distant pedestrians scattered across the misty plaza. Add a softly blurred blue-green kiosk or bus-stop shape at the lower right foreground. Background architecture should be a hazy modern city skyline, barely visible through morning mist, with soft reflections on the pale plaza floor. Place the typography vertically on the upper right in deep teal: a small vertical line and the text “二十四节气” at the top, large Chinese characters “小暑”, small romanization “XIAOSHU” between the characters, then a small circled symbol, then vertical text “城市清晨”, and two short vertical poetic lines “倏忽温风至” and “因循小暑来”. Keep the composition calm and spacious, with shallow depth of field, delicate shadows, high-key lighting, cool cyan-white palette with watermelon red and green accents, editorial poster aesthetics, no border, no watermark, no extra text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072585405317443591) | 2026-07-02
+
+---
+
+### 🎴 例 3013：奢华动漫风化妆品海报
+
+![奢华动漫风化妆品海报](../../images/%E5%A5%A2%E5%8D%8E%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8C%96%E5%A6%86%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张优雅的动漫风格奢华百货商店化妆品专柜海报，以 {argument name="character name" default="NOZOMU"} 作为广告模特展示全新彩妆系列，强调大面积的发光面部、清澈的蓝色双眸、半透明肌肤，营造梦幻般的高端美妆宣传氛围，而非杂志封面。
+
+画布：垂直 4:5 海报，柔和轻盈的构图，淡白与冰蓝色调，光泽感化妆品广告布光，高调曝光，左侧留出大量负空间用于排版，模特占据右半部分及下方中心。
+
+布局：品牌 Logo 置于左上角，文字为“LUNÉCLAIR”，下方配以精致的金色衬线字体小字“BEAUTÉ”。其下添加小号大写文字“NEW MAKEUP COLLECTION”，随后是分两行显示的淡蓝色衬线字体宣传标题：{argument name="collection title" default="PURE LUMIÈRE"}。标题下方包含两行简短的日语文案：“澄みわたる光を、わたしに。” 和 “透明感をまとう、私の輝き。” 左下方添加“Model”及模特姓名 {argument name="character name" default="NOZOMU"}，并附上精致的连笔签名和小花涂鸦。
+
+主体细节：一位美丽的年轻动漫女性，拥有 {argument name="hair color" default="银白色"} 的长发，在微风中向右飘动，有着闪烁的 {argument name="eye color" default="水蓝色"} 大眼睛，柔和的腮红，光泽感的双唇，以及瓷器般半透明的肌肤。她优雅地坐在反光的化妆品柜台或展示面上，身体微向观众侧转，一只手放在台面上，一条腿向右下边缘延伸。身着淡蓝色与白色相间的透明荷叶边吊带裙，带有半透明雪纺层，胸部和袖口饰有花朵，裙摆轻盈透气。耳边装饰一簇大型白色与淡蓝色花朵，肩部、裙身及前景处点缀较小的花簇。
+
+化妆品与道具：在左下角前景处准确展示 3 款主要化妆品：1 支白金管身的玫瑰粉色口红，1 个打开的圆形粉饼盒（盖上有淡色压粉和花卉图案），以及 1 个打开的长方形眼影盘（内含 6 个粉彩眼影格及 2 支小刷子）。产品周围环绕着小白花、小蓝花及光泽反射。在柔焦背景中，暗示百货商店的化妆品展示区，包括玻璃货架、淡色瓶身、闪烁的高光，以及透过高窗射入的冷色调日光。
+
+视觉风格：精致的高端少女/动漫插画，奢华化妆品广告，透明水彩般的柔和感与精致数字渲染的结合，发光肌肤高光，飘逸的发丝，柔和的焦外成像，优雅的衬线字体，淡蓝-白-金的色彩和谐，空灵纯净的美学风格。
+
+约束：保持图像为单张精致的店面海报，而非杂志封面。不要添加额外人物。不要添加超过 3 款主要化妆品，也不要更改 6 格眼影盘的数量。保持所有可见文字优雅、简洁且易读，无水印或杂乱元素。
+
+[English]
+Goal: Create an elegant anime-style luxury department-store cosmetics counter poster featuring {argument name="character name" default="NOZOMU"} as the advertising model for a new makeup collection, emphasizing a large luminous face, clear blue eyes, translucent skin, and a dreamy high-end beauty campaign mood rather than a magazine cover.
+
+Canvas: Vertical 4:5 poster, soft airy composition, pale white and ice-blue palette, glossy cosmetic-ad lighting, high-key exposure, lots of negative space on the left for typography, model occupying the right half and lower center.
+
+Layout: Place the brand logo at upper left reading “LUNÉCLAIR” with smaller spaced text “BEAUTÉ” beneath it in refined gold serif lettering. Below it add small uppercase text “NEW MAKEUP COLLECTION,” then a large pale-blue serif campaign title split across two lines: {argument name="collection title" default="PURE LUMIÈRE"}. Under the title include two short Japanese copy lines: “澄みわたる光を、わたしに。” and “透明感をまとう、私の輝き。” Near lower left add “Model” and the model name {argument name="character name" default="NOZOMU"}, plus a delicate cursive signature and small flower doodle.
+
+Subject details: A beautiful young anime woman with {argument name="hair color" default="silvery white"} long flowing hair swept to the right by a gentle breeze, large sparkling {argument name="eye color" default="aqua blue"} eyes, soft blush, glossy lips, and porcelain translucent skin. She sits gracefully on a reflective cosmetic counter or display surface, turned slightly toward the viewer, one hand resting on the surface, one leg extending toward the lower right edge. Dress her in a sheer pale-blue and white ruffled slip dress with thin straps, translucent chiffon layers, floral accents along the bust and sleeves, and a light airy skirt. Add a large cluster of white and pale-blue flowers around one ear and smaller flower clusters near her shoulder, dress, and foreground.
+
+Cosmetics and props: Show exactly 3 main cosmetic products in the lower-left foreground: 1 rose-pink lipstick in a white-and-gold tube, 1 open round compact powder case with a pale pressed powder and floral pattern on the lid, and 1 open rectangular eyeshadow palette containing exactly 6 pastel pans plus exactly 2 small applicators. Surround the products with small white and blue flowers and glossy reflections. In the softly blurred background, suggest a department-store cosmetics display with glass shelves, pale bottles, sparkling highlights, and cool daylight through tall windows.
+
+Visual style: Delicate high-end shoujo/anime illustration, luxury cosmetics advertising, transparent watercolor-like softness mixed with polished digital rendering, luminous skin highlights, floating hair strands, soft bokeh, refined serif typography, pastel blue-white-gold color harmony, ethereal clean beauty aesthetic.
+
+Constraints: Keep the image as a single polished storefront poster, not a magazine cover. Do not add extra people. Do not add more than the 3 main cosmetic products or change the 6-pan palette count. Keep all visible text elegant, minimal, and readable, with no watermark or clutter.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2072578267232764231) | 2026-07-02
+
+---
+
+### 🎴 例 3017：高端体育杂志封面
+
+![高端体育杂志封面](../../images/%E9%AB%98%E7%AB%AF%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张引人注目的高端体育杂志封面，封面人物为 {argument name="athlete" default="一位精英运动员"}。通过醒目的标题、现代感的编辑排版以及时尚高端的设计，该封面旨在赞美 {argument name="theme" default="巅峰表现、决心以及通往伟大的旅程"}，捕捉职业体育的活力与声望。
+
+[English]
+An eye-catching premium sports magazine cover featuring {argument name="athlete" default="an elite athlete"} on the front page. With bold headlines, modern editorial typography, and a sleek, high-end design, the cover celebrates {argument name="theme" default="peak performance, determination, and the journey to greatness"}, capturing the energy and prestige of professional sports.
+```
+
+**来源：** [@Aaliyah | AI](https://x.com/The_Kremlinn/status/2072567980110549232) | 2026-07-02
+
+---
+
+### 🎴 例 3023：罗马帝国双重世界海报
+
+![罗马帝国双重世界海报](../../images/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E5%8F%8C%E9%87%8D%E4%B8%96%E7%95%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张关于 {argument name="historical subject" default="罗马帝国"} 的电影质感双重世界编辑海报。使用 16:9 的宽屏横向画布，营造出戏剧性的垂直氛围分割：左侧为混乱的战场，包含黑烟、灰烬、红色的破损旗帜、长矛剪影、火星以及深色的油画风墨迹纹理；右侧为蓝色湖泊旁清晰的帝国营地，背景是明亮天空下的远山，营地中布满了整齐的白色帐篷、行军队列、旗帜、补给箱、瞭望塔和纪律严明的罗马士兵。在前景中，放置 3 名罗马骑兵：居中的主指挥官骑着一匹强壮的斑点灰马面向观众，身穿华丽的板甲，披着红色斗篷，戴着带有红色冠饰的镶金头盔，右手高举长剑，左手持一面装饰精美的大型椭圆形盾牌；在他左后方下方，另有 2 名骑马的军团士兵，佩戴头盔、盾牌、长矛并带有红色装饰，部分被烟雾遮挡。在右下方前景处，放置 2 名背对观众、注视着营地的站立士兵。加入多面罗马旗帜，最右侧的一面大红旗上展示着金色鹰饰和伪拉丁文军团文字。排版：在右上角，设置一个宏伟的金属金色罗马衬线字体标题，内容为 {argument name="headline text" default="THE ROMAN EMPIRE"}，其中 “THE” 字样较小，置于 “ROMAN EMPIRE” 上方，小字周围配有细横金线，带有雕刻斜角、微妙阴影和古典纪念碑式的字间距。在标题下方，添加一行居中的白色小型编辑副标题，内容为 {argument name="subtitle text" default="从战场上骑兵的雷鸣到广阔营地的纪律严明，罗马以力量、秩序和永恒的野心铸就了一个帝国。"}。调色板：深红色、古金色、烟黑色、钢灰色、羊皮纸米色和深帝国蓝。风格：超精细史诗历史概念艺术，戏剧性光影，逼真的盔甲和马匹，战争混乱与帝国秩序之间的高对比度，前景细节清晰且具有大气深度，无现代物品，无水印，除标题、副标题和旗帜标记外无额外文字。
+
+[English]
+Create a cinematic dual-world editorial poster about {argument name="historical subject" default="the Roman Empire"}. Use a wide 16:9 landscape canvas with a dramatic vertical split in mood: the left half is chaotic battlefield action with black smoke, ash, red torn banners, spear silhouettes, fire sparks, and dark painterly ink splatter textures; the right half is a clear imperial encampment beside a blue lake and distant mountains under a bright sky, filled with orderly white tents, marching formations, standards, supply crates, watchtowers, and disciplined Roman soldiers. In the foreground, place exactly 3 mounted Roman cavalrymen: the central dominant commander rides a powerful dapple-gray horse toward the viewer, wearing ornate segmented armor, red cloak, gold-trimmed helmet with a red crest, holding a raised sword in his right hand and a large decorated oval shield on his left; behind him to the lower left are exactly 2 additional mounted legionaries with helmets, shields, spears, and red accents, partially obscured by smoke. Add exactly 2 prominent foreground standing soldiers on the lower right, seen from behind, watching the camp. Include multiple Roman standards, with one large red banner on the far right showing gold eagle decoration and pseudo-Latin legion text. Typography: on the upper right, set a monumental metallic gold Roman-serif title reading {argument name="headline text" default="THE ROMAN EMPIRE"}, with “THE” small above “ROMAN EMPIRE,” thin horizontal gold rules around the small word, engraved bevels, subtle shadow, and classical monumental spacing. Beneath it, add a small centered white editorial subtitle reading {argument name="subtitle text" default="From the thunder of cavalry on the battlefield to the disciplined might of its vast encampments, Rome forged an empire through power, order, and enduring ambition."}. Color palette: crimson red, antique gold, smoke black, steel gray, parchment beige, and deep imperial blue. Style: ultra-detailed epic historical concept art, dramatic lighting, realistic armor and horses, high contrast between war chaos and imperial order, sharp foreground detail with atmospheric depth, no modern objects, no watermark, no extra text beyond the title, subtitle, and banner markings.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2072550322090938413) | 2026-07-02
+
+---
+
+### 🎴 例 3031：高端儿童时尚广告
+
+![高端儿童时尚广告](../../images/%E9%AB%98%E7%AB%AF%E5%84%BF%E7%AB%A5%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实高端儿童时尚广告，主角是一位皮肤白皙透亮、留着时髦棕色短发的可爱小男孩，身穿 {argument name="jacket" default="米色灯芯绒夹克"}、{argument name="shirt" default="白色 T 恤"}，搭配卷边深蓝色牛仔裤和高端 {argument name="footwear" default="棕色皮革系带短靴"}。他自信地坐在现代混凝土台阶上，笑容灿烂，背景为简洁的极简主义都市风格，重点突出时髦鞋履，奢华时尚宣传大片，柔和自然日光，电影级布光，杂志编辑构图，单反摄影，超高细节，杰作，8K 分辨率。
+
+[English]
+Ultra-realistic premium kids fashion advertisement featuring an adorable little boy with fair glowing skin, stylish brown hair, wearing a {argument name="jacket" default="beige corduroy jacket"}, {argument name="shirt" default="white T-shirt"}, rolled-up dark blue jeans, and premium {argument name="footwear" default="brown leather lace-up ankle boots"}. Sitting confidently on modern concrete steps with a cheerful smile, clean minimal urban background, focus on stylish footwear, luxury fashion campaign, soft natural daylight, cinematic lighting, editorial composition, DSLR photography, ultra-detailed, masterpiece, 8K,
+```
+
+**来源：** [@Zyro](https://x.com/Itswsm105f/status/2072544301418988014) | 2026-07-02
+
+---
+
+### 🎴 例 3039：日式生活方式工作活动海报
+
+![日式生活方式工作活动海报](../../images/%E6%97%A5%E5%BC%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B7%A5%E4%BD%9C%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="OHANA WORK STYLE"} 制作一张明亮的日式生活方式活动海报，将温馨的房间照片与关于享受工作和心爱之物的杂志风格排版相结合。
+
+画布：1:1 正方形海报，柔和的粉彩色调，通透的自然光，生活方式广告风格。使用温暖的斯堪的纳维亚/日式极简室内设计，配有奶油色墙壁、右侧阳光明媚的窗户、木质搁板、装裱花卉艺术画、花瓶中的鲜花、靠垫、毛毯、低矮木桌、马克杯、玻璃杯、纸张、贴有可爱贴纸的笔记本电脑、地毯，以及右下角的薄荷绿包。
+
+主体：一位面带微笑的年轻日本女性，随意地坐在低矮桌子旁的地板上，单手托腮看向镜头。她留着柔软的短波波头，带有刘海，妆容自然，戴着黄色小耳环，表情轻松友好。着装：绿白格子超大衬衫裙，淡粉色宽松长裤，芥末黄袜子。氛围亲切、女性化、富有创意且适合居家办公。
+
+排版与文字：在左上方和中心放置超大的手写白色日文书法「好きから」，在左下/中心放置巨大的青柠黄色日文单词「仕事」，右侧放置小的白色「に」。在下中部添加优雅的白色连体英文副标题：“From my favorite to my work.” 在右上角附近添加 3 个细长的白色垂直纸带标签，每个标签上印有粉色垂直日文：1) 「マリメッコと北欧雑貨で、」 2) 「わたしらしい毎日を、」 3) 「わたしらしい仕事に。」 在右中部添加 1 个半透明的黄色圆形徽章，上面印有黑色垂直日文： 「“好き”が、いちばん強い、スキルになる。」 在底部附近添加 1 个带有黑色日文和小型花朵图标的白色倾斜横幅： 「マリメッコ ＆ 北欧雑貨のあるミニマル暮らしワーク 🌸」。
+
+底部活动区域：在右下角添加 1 个大的珊瑚粉色圆圈。圆圈内包含白色小字“EVENT”、“全国から参加OK”、大日期 {argument name="event date" default="7.24"}、小的“THU”，以及两个圆角轮廓标签，内容为「無料オンライン説明会」和「参加受付中！」。在左下角放置一个简单的花朵轮廓 Logo 和白色的品牌名称 {argument name="brand name" default="OHANA WORK STYLE"}。在底部中心，添加 4 个青柠黄色的圆角标签式话题标签，文字为黑色：1) 「# ミニマル暮らし」 2) 「# 北欧インテリア」 3) 「# 在宅ワーク」 4) 「# 好きなことで働く」。
+
+视觉风格：高端日本女性杂志封面与 Instagram 活动传单的结合，照片级真实的主体和房间，柔和的背景虚化，精致的白色涂鸦笔触和闪光点缀，干净的层叠编辑排版，采用粉绿、粉红、奶油色、青柠黄和珊瑚色。保持排版清晰、优雅，并刻意呈现出如同设计海报般的叠加效果。
+
+约束条件：使用 3 个垂直纸带标签，1 个黄色圆形徽章，1 个珊瑚色活动圆圈，1 个底部白色横幅，以及 4 个话题标签。避免出现多余的 Logo、水印、二维码或无关文字。
+
+[English]
+Goal: Create a bright Japanese lifestyle event poster for {argument name="brand name" default="OHANA WORK STYLE"}, combining a cozy room photo with magazine-style typography about enjoying work and favorite things.
+
+Canvas: Square 1:1 poster, soft pastel palette, airy natural sunlight, lifestyle-advertising look. Use a warm Scandinavian/Japanese minimal interior with cream walls, a sunny window at right, wooden shelves, framed flower art, flowers in a vase, cushions, blanket, low wooden table, mug, glass, papers, laptop with cute stickers, rug, and a mint-green bag in the lower right.
+
+Main subject: A smiling young Japanese woman seated casually on the floor beside the low table, leaning her cheek on one hand and looking at the camera. She has a short soft bob haircut with bangs, natural makeup, small yellow earrings, and a relaxed friendly expression. Outfit: green-and-white plaid oversized shirt dress, pale pink loose pants, and mustard yellow socks. The mood is approachable, feminine, creative, and work-from-home friendly.
+
+Layout and text: Place oversized handwritten white Japanese calligraphy across the upper left and center reading 「好きから」, with a huge lime-yellow Japanese word 「仕事」 across the lower left/center and small white 「に」 to the right. Add an elegant white cursive English subtitle across the lower middle: “From my favorite to my work.” Add exactly 3 tall white vertical paper-ribbon labels near the upper right, each with pink vertical Japanese text: 1) 「マリメッコと北欧雑貨で、」 2) 「わたしらしい毎日を、」 3) 「わたしらしい仕事に。」 Add exactly 1 translucent yellow circular badge on the right middle with black vertical Japanese text: 「“好き”が、いちばん強い、スキルになる。」 Add exactly 1 white slanted banner near the bottom with black Japanese text and a small flower icon: 「マリメッコ ＆ 北欧雑貨のあるミニマル暮らしワーク 🌸」.
+
+Bottom event area: Add exactly 1 large coral-pink circle in the lower right. Inside it, include small white text “EVENT”, “全国から参加OK”, a large date {argument name="event date" default="7.24"}, small “THU”, and two rounded outline labels reading 「無料オンライン説明会」 and 「参加受付中！」. In the lower left, place a simple flower outline logo and the brand name {argument name="brand name" default="OHANA WORK STYLE"} in white. Along the bottom center, add exactly 4 lime-yellow rounded hashtag pills with black text: 1) 「# ミニマル暮らし」 2) 「# 北欧インテリア」 3) 「# 在宅ワーク」 4) 「# 好きなことで働く」.
+
+Visual style: High-end Japanese women’s magazine cover meets Instagram event flyer, photorealistic subject and room, soft bokeh background, delicate white doodle strokes and sparkle accents, clean layered editorial composition, pastel green, pink, cream, lime yellow, and coral. Keep typography legible, elegant, and intentionally overlaid like a designed poster.
+
+Constraints: Use exactly 3 vertical paper-ribbon labels, exactly 1 yellow circular badge, exactly 1 coral event circle, exactly 1 bottom white banner, and exactly 4 hashtag pills. Avoid extra logos, watermarks, QR codes, or unrelated text.
+```
+
+**来源：** [@楽天ABテスト完全自動化サービス@イージークリエイティブ](https://x.com/EasyCreative_/status/2072536663247691990) | 2026-07-02
+
+---
+
+### 🎴 例 3041：Coffee Date Journal 编辑风格海报
+
+![Coffee Date Journal 编辑风格海报](../../images/Coffee%20Date%20Journal%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 Coffee Date Journal 为灵感的编辑风格海报，营造出温暖、亲密的咖啡馆叙事氛围，仿佛捕捉了现代咖啡馆日记中的个人瞬间。构图融合了真实的生活方式摄影与富有创意的日志式布局，并自然地融入了分层视觉元素，如咖啡收据、手写笔记、菜单碎片、淡淡的咖啡渍、抓拍照片、纸张纹理、撕边细节以及剪贴簿风格的装饰。
+
+主体应呈现出自然优雅且引人入胜的瞬间，而非简单复制参考图中的姿势。捕捉生动、富有表现力的动作，例如 {argument name="subject action" default="享受交谈、翻阅日志、整理袖口同时手持咖啡杯"}、透过咖啡馆窗户向外看，或对突发瞬间做出反应。面部表情应显得真诚、温暖、精致，并与环境产生情感共鸣。避免僵硬、静态或扁平的姿势。整体肢体语言应体现出国际时尚模特般的自信与精致感。
+
+服装造型应采用具有高级美感的现代休闲时尚风格。将时尚的现代单品与 {argument name="clothing textures" default="叠穿夹克、针织衫、休闲衬衫、剪裁利落的长裤、时尚牛仔"}、乐福鞋、围巾或极简配饰相结合。服装应显得毫不费力地时髦，适合现代咖啡馆生活方式的编辑内容。
+
+视觉基调应舒适、怀旧、具有电影感且情感丰富，通过戏剧性的自然光、柔和的阴影、温暖的高光、窗户光反射以及微妙的景深效果来增强氛围。加入装饰性的海报元素和设计点缀，在不喧宾夺主的前提下强化 Coffee Date Journal 的主题。每一个视觉元素都应为高级叙事体验加分。
+
+排版必须极具视觉冲击力且达到编辑级质量，采用现代杂志风格的字体组合、创意层级、动态布局和时尚的文字处理。避免使用平庸、过度使用或标准化的排版。海报应呈现出当代感、潮流感、视觉吸引力，并为现代社交媒体受众进行专业化设计。
+
+超精细、高品质视觉设计，电影级叙事构图，逼真纹理，专业时尚编辑美学，浓郁氛围，精致调色，高视觉深度，当代创意指导，以及震撼的 8K 分辨率。
+
+[English]
+Coffee Date Journal-inspired editorial poster with a warm, intimate coffee shop storytelling atmosphere, designed as if capturing personal moments from a modern café diary. The composition blends authentic lifestyle photography with creative journal-inspired layouts, featuring layered visual elements such as coffee receipts, handwritten notes, menu fragments, subtle coffee stains, candid snapshots, paper textures, torn-edge details, and scrapbook-style decorations naturally integrated into the design.
+
+The subject should be presented in a naturally elegant and engaging moment rather than replicating the pose from the reference image. Capture a lively, expressive action such as {argument name="subject action" default="enjoying a conversation, flipping through a journal, adjusting a sleeve while holding a coffee cup"}, glancing through a café window, or reacting to a spontaneous moment. Facial expressions should feel genuine, warm, sophisticated, and emotionally connected to the environment. Avoid stiff, static, or flat-looking poses. The overall body language should reflect the confidence and refinement of an international fashion model.
+
+Wardrobe styling should feature contemporary casual fashion with a premium aesthetic. Combine stylish modern pieces with {argument name="clothing textures" default="layered jackets, knitwear, relaxed shirts, tailored trousers, fashionable denim"}, loafers, scarves, or minimalist accessories. The outfit should feel effortlessly fashionable and suitable for a modern café lifestyle editorial.
+
+The visual mood should be cozy, nostalgic, cinematic, and emotionally rich, enhanced by dramatic natural lighting, soft shadows, warm highlights, window light reflections, and subtle depth effects. Include decorative poster ornaments and design accents that reinforce the Coffee Date Journal theme without overwhelming the composition. Every visual element should contribute to a premium storytelling experience.
+
+Typography must be highly eye-catching and editorial in quality, featuring modern magazine-inspired font combinations, creative hierarchy, dynamic layouts, and stylish text treatments. Avoid generic, overused, or standard-looking typography. The poster should feel contemporary, trendy, visually engaging, and professionally designed for modern social media audiences.
+
+Ultra-detailed, premium-quality visual design, cinematic storytelling composition, realistic textures, professional fashion editorial aesthetic, rich atmosphere, sophisticated color grading, high visual depth, contemporary creative direction, and stunning 8K resolution.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2072534263824793719) | 2026-07-02
+
+---
+
+### 🎴 例 3043：几何色块时尚插画
+
+![几何色块时尚插画](../../images/%E5%87%A0%E4%BD%95%E8%89%B2%E5%9D%97%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅时尚插画海报，身穿几何色块连衣裙的女性自信站立，背景为蓝色、橙色和黄色的醒目不对称几何面板，填满整个画面，右侧留有干净的负空间，适合放置醒目的无衬线品牌或季节性排版，拉长的图形阴影，奢侈时尚广告美学，扁平绘画插画风格，竖向 4:5 构图。
+
+时尚插画数字绘画，年轻女性迈步的动态姿势，一只手微微抬起，几何色块中长裙随动作剧烈飘动，结构化的海军蓝紧身胸衣和腰带，背景为醒目的电光蓝、橙色和黄色扁平几何图形，地面上有拉长的图形阴影，奢侈广告海报品质，扁平绘画风格，竖向 4:5。
+
+时尚插画数字绘画，腰部以上特写，深色低发髻女性，对着镜头自信微笑，结构化的海军蓝抹胸，腰部可见几何色块裙摆，醒目的黄色和橙色几何背景面板，扁平绘画奢侈时尚插画风格，竖向 4:5。
+
+[English]
+Wide fashion illustration poster, woman in geometric color-block dress standing confidently, bold asymmetric geometric background panels in blue, orange, and yellow filling the entire frame, clean negative space on right side for bold sans-serif brand or season typography, elongated graphic shadow, luxury fashion campaign aesthetic, flat painterly illustration style, vertical 4:5 composition.
+
+Fashion illustration digital painting, young woman in mid-stride dynamic walking pose, one hand raised slightly, geometric color-block midi skirt billowing dramatically with motion, structured navy blue bodice and belt, bold flat geometric background in electric blue, orange, and yellow, elongated graphic shadow on ground, luxury campaign poster quality, flat painterly style, vertical 4:5.
+
+Fashion illustration digital painting, waist-up crop, woman with dark low bun, confident smirk toward camera, structured navy blue strapless bodice, geometric color-block skirt panels visible at waist, bold yellow and orange geometric background panels, flat painterly luxury fashion illustration style, vertical 4:5.
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2072525760263508355) | 2026-07-02
+
+---
+
+### 🎴 例 3062：复古故障风螺旋海报
+
+![复古故障风螺旋海报](../../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E8%9E%BA%E6%97%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="poster style" default="故障风海报"} 风格的复古图形设计图像。将附件图片中的模特置于中心。背景为由 {argument name="first color" default="浅蓝色"} 和 {argument name="second color" default="白色"} 构成的动态同心螺旋漩涡。应用带有粗颗粒、边缘磨损及溅射效果的纹理印刷效果，并添加包裹整个场景的半色调线条图案。使用有限的调色板：亮浅蓝色、白色和深蓝色。整体效果呈现出高视觉能量、静态且充满张力的观感。
+
+[English]
+Create a graphic design image in a retro {argument name="poster style" default="grunge poster"} style. The model from the attached image is in the center. The background is a dynamic, concentric spiral vortex of {argument name="first color" default="light blue"} and {argument name="second color" default="white"}. Apply a textured print effect with coarse grain, distressed edges with splashes, and halftone line patterns that envelop the scene. Use a limited color palette: bright light blue, white, and dark blue. The overall effect is high visual energy, static, and powerful.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2072474332429959193) | 2026-07-02
+
+---
+

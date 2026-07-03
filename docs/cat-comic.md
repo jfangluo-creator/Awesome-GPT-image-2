@@ -4518,3 +4518,311 @@ HD画質ピクセルアート / 滑らかなグラデーション
 
 ---
 
+### 🎬 例 2986：单色丝带漫画封面
+
+![单色丝带漫画封面](../../images/%E5%8D%95%E8%89%B2%E4%B8%9D%E5%B8%A6%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张单色漫画风格的专辑封面插图，采用 9:16 的竖构图。一位精致的中性化青年，{argument name="character name" default="未命名的优雅金发男子"}，坐于深黑色背景前，以细腻的黑白墨水线条绘制，辅以柔和的灰色水洗阴影和高对比度暗部。他拥有极白的肤色，长浅色头发中分并遮住一只眼睛，扎成低马尾，发丝细碎凌乱，半眯着的狭长双眼流露出平静且略带傲慢的神情，视线向右上方望去。他身着黑色衬衫和深色正装，肩上披着一件白色外套。他的胸前捧着一束精致的小花束：包含 7 朵醒目的圆形花朵、叶片枝条和细小的填充花卉，并垂下一条长丝带。他周围环绕着 10 条长丝带，如同柔软的链条般在背景和前景中交织出优美的弧线；丝带呈半透明的白色和灰色，如缎带般扭转。画面中包含 3 只清晰可见的手：一只手捧着花束，另一只手抓着丝带，还有一只苍白无力的手从右上角垂下，被丝带缠绕或束缚。在靠近面部右侧的中心位置添加优雅的日文标题文本 {argument name="title text" default="手管"}，字体为白色，两侧配有细横线，下方饰有小型装饰花纹。运用复杂的线条，营造浪漫哥特氛围，利用戏剧性的留白，除灰度外不使用任何色彩，呈现干净专业的漫画封面质感，画面中无多余角色，无水印。
+
+[English]
+Create a monochrome manga-style album cover illustration in a tall vertical 9:16 composition. A refined androgynous young man, {argument name="character name" default="unnamed elegant blond man"}, sits against a deep black background, drawn in delicate black-and-white ink with soft gray wash shading and high-contrast shadows. He has very pale skin, long light hair parted over one eye and tied into a low ponytail, fine loose strands, narrow half-lidded eyes, and a calm, faintly arrogant expression as he looks upward to the right. Dress him in a black suit shirt and dark formal clothing with a white coat draped over one shoulder. He holds a small detailed bouquet at his chest: exactly 7 prominent round blossoms, leafy sprigs, and tiny filler flowers, with a long ribbon trailing down. Surround him with exactly 10 long silk ribbon streamers like soft chains, crossing the background and foreground in sweeping arcs; make them semi-translucent white and gray, twisting like satin bands. Include exactly 3 visible hands: his hand holding the bouquet, his other hand gripping a ribbon, and a pale limp hand descending from the upper right wrapped or tied by ribbon. Add elegant Japanese title text {argument name="title text" default="手管"} in white near the center-right beside his face, with thin horizontal dashes on both sides and a small ornamental flourish underneath. Use intricate linework, romantic gothic mood, dramatic negative space, no color except grayscale, clean professional manga cover finish, no extra characters, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2072681925442142493) | 2026-07-02
+
+---
+
+### 🎬 例 3006：电影感火焰厨师分镜脚本
+
+![电影感火焰厨师分镜脚本](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E7%81%AB%E7%84%B0%E5%8E%A8%E5%B8%88%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="film title" default="THE FLAME CHEF"} 创建一份电影感分镜接触表，这是一部 15 秒的高能烹饪短片，展示从原始热量和食材到最终摆盘的戏剧性过程。
+
+画布：宽屏 16:9 图像，格式为 10 面网格，精确排列为 2 行 5 列，每个画面之间由干净的细白线隔开。每个画面均为垂直电影帧，具有浅景深、浓郁的琥珀色高光、深邃的黑色阴影、蒸汽、火花和自然的胶片颗粒感。
+
+视觉风格：超写实美食摄影，模拟 ARRI Alexa 35 搭配 35mm 镜头拍摄，通过动态模糊、快速摇摄、变速定格体现快节奏感，采用戏剧性的厨房布光，呈现光泽感酱汁、火光、烟雾、焦外成像和高对比度。无文字覆盖、无 Logo、无水印。
+
+画面数量与顺序：精确使用 10 个独立场景。
+1. 左上：特写镜头，厨师的手握住平底锅柄，置于蓝色燃气火焰之上；空的黑色炒锅或平底锅在温暖的黑暗中冒着热气。
+2. 上排第二：俯拍特写，双手在木质项目上切新鲜食材：红辣椒、蒜片、绿色香草和散落的红色调味碎丁，画面极具张力。
+3. 上排第三：一块黄油悬浮在热锅上方，下方另一块黄油正在融化冒泡，可见液滴和金色的反光。
+4. 上排第四：在明火上颠锅，蔬菜和食材呈弧线向上飞起，橙色的火焰在锅底舔舐。
+5. 右上：大蒜瓣和干红辣椒在剧烈沸腾的油中爆香的极度微距镜头，伴有蒸汽和金色的油光。
+6. 左下：厨师的躯干和手在黑暗的烟雾光束中向下撒落粗盐或调味料。
+7. 下排第二：特写镜头，将 {argument name="sauce type" default="深红褐色辣椒酱"} 从勺子中淋在碗中堆叠的熟蔬菜或肉类上。
+8. 下排第三：装在深色碗中的成品炒菜，顶部撒满新鲜香菜叶；可见红辣椒、焦香的食材、光泽的酱汁和蒸汽。
+9. 下排第四：厨师的手用白布擦拭盘边，在烟雾缭绕的昏暗厨房中精修摆盘。
+10. 右下：在单一头顶聚光灯下的最终成品菜肴，在深色桌面上冒着热气，背景中厨师的剪影模糊可见。
+
+主体细节：厨师大部分时间保持匿名，仅通过手部、躯干或剪影可见；重点在于动态的烹饪艺术、火焰、蒸汽、新鲜香草、大蒜、辣椒、胡椒、黄油、油、酱汁和最终摆盘。成品菜肴看起来应为 {argument name="dish" default="香辣火焰炒菜"}，色调浓郁温暖，呈现餐厅级摆盘。
+
+约束条件：保持精确的 2x5 布局和 10 个画面。色调保持温暖、电影感和情绪化。保留真实的食物质感和动态。不要添加标题、字幕、界面元素或额外画面。
+
+[English]
+Goal: Create a cinematic storyboard contact sheet for {argument name="film title" default="THE FLAME CHEF"}, a high-energy 15-second cooking film showing a dramatic progression from raw heat and ingredients to a finished plated dish.
+
+Canvas: Wide 16:9 image formatted as a 10-panel grid, exactly 2 rows by 5 columns, with thin clean white gutters separating every panel. Each panel is a vertical cinematic frame with shallow depth of field, rich warm amber highlights, deep black shadows, steam, sparks, and natural film grain.
+
+Visual style: Hyper-realistic food cinematography shot as if on ARRI Alexa 35 with a 35mm lens, fast rhythmic pacing implied through motion blur, whip-pan energy, speed-ramp frozen moments, dramatic kitchen lighting, glossy sauces, firelight, smoke, bokeh, and high contrast. No text overlays, no logos, no watermark.
+
+Panel count and sequence: Use exactly 10 discrete scenes.
+1. Top-left: Close-up of a chef’s hand gripping a pan handle over a blue gas flame; the empty black wok or skillet steams in warm darkness.
+2. Top row second: Overhead close-up of hands chopping fresh ingredients on a wooden board: red peppers, sliced garlic, green herbs, and small diced red aromatics scattered dramatically.
+3. Top row third: A cube of butter suspended midair above a hot pan, with another cube melting and bubbling below, droplets and golden reflections visible.
+4. Top row fourth: A wok toss over open flames, vegetables and ingredients flying upward in an arc, orange fire licking beneath the pan.
+5. Top-right: Extreme macro of garlic cloves and dried red chilies sizzling in vigorously bubbling oil, with steam and golden oil highlights.
+6. Bottom-left: Chef’s torso and hand sprinkling a cascade of coarse salt or seasoning downward through a dark smoky beam of light.
+7. Bottom row second: Close-up of glossy {argument name="sauce type" default="dark red-brown chili glaze"} being poured from a spoon onto a mound of cooked vegetables or meat in a bowl.
+8. Bottom row third: Finished stir-fry in a dark bowl, topped with abundant fresh cilantro leaves; red peppers, seared pieces, glossy sauce, and steam are visible.
+9. Bottom row fourth: Chef’s hand wiping the rim of the plated dish with a white cloth, refining presentation in a smoky low-lit kitchen.
+10. Bottom-right: Hero final plate under a single overhead spotlight, steaming dramatically on a dark table, chef silhouette blurred in the background.
+
+Subject details: The chef is mostly anonymous, visible only through hands, torso, or silhouette; focus on kinetic cooking artistry, flames, steam, fresh herbs, garlic, chilies, peppers, butter, oil, sauce, and final plating. Make the finished dish look like {argument name="dish" default="spicy flame-seared stir-fry"} with rich warm colors and restaurant-level plating.
+
+Constraints: Maintain the exact 2x5 layout and exactly 10 panels. Keep the palette warm, cinematic, and moody. Preserve realistic food textures and motion. Do not add captions, subtitles, interface elements, or extra panels.
+```
+
+**来源：** [@Shara](https://x.com/itsshara_ai/status/2072601898872717739) | 2026-07-02
+
+---
+
+### 🎬 例 3012：雨夜城市漫画项目
+
+![雨夜城市漫画项目](../../images/%E9%9B%A8%E5%A4%9C%E5%9F%8E%E5%B8%82%E6%BC%AB%E7%94%BB%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张黑白漫画项目 / 动态分镜参考页，展示霓虹城市中宁静的雨夜追逐场景，以精致的铅笔概念草图形式呈现，而非成品漫画页。
+
+画布：2:3 比例的纵向页面，白色纸张背景，精确排列为 6 个矩形分镜，采用规整的 2 列 3 行网格布局，配有细黑边框和窄间距。
+
+视觉风格：单色石墨铅笔素描，带有浓重的交叉排线、柔和的涂抹阴影、写实的漫画比例、电影级构图、湿润的反光路面、模糊的人群，发光的矩形商店招牌仅以灰度呈现，无对话气泡，无标题，无音效，无印刷文字。
+
+场景：雨中或雨后深夜的日式密集商业街。路面湿滑如镜，倒映着垂直的霓虹灯牌和路灯。背景中的行人撑着伞，呈现为柔和的剪影。氛围紧张、安静且具有观察感。
+
+主要角色：一位年轻女性，{argument name="character name" default="未命名女孩"}，留着黑色长发，面色苍白且神情严肃。她戴着柔软的报童帽，身穿超大款卫衣、短款百褶裙、松垮的堆堆袜、厚底鞋，背着单肩帆布包，脖子上挂着头戴式耳机，戴着星星吊坠项链。她的情绪疏离、谨慎且略带忧郁。
+
+观察者角色：第二位年轻女性，留着黑色长发，戴着深色贝雷帽，穿着叠穿风格的夹克或外套，姿态羞涩隐蔽。她部分躲在墙壁、门廊或街头立柱后，从远处注视着主要角色，并未靠近。
+
+分镜布局及所需镜头，共 6 格：
+1. 左上分镜：从左侧前景躲藏的观察者身后拍摄的过肩视角。中景处，主要角色正沿着雨水反光的街道走远，位于发光招牌的中心下方。
+2. 右上分镜：更宽的街道视角。观察者靠在左侧墙壁的阴影中，主要角色正向观众走来，双手插在卫衣口袋里，耳机和星星项链清晰可见。
+3. 左中分镜：从左侧前景观察者身后拍摄的类似跟踪视角，更靠近她的肩膀和头发。主要角色在街道中心远方，穿过湿润的倒影和人群走远。
+4. 右中分镜：从观察者身后拍摄的近距离过肩视角，她深色的贝雷帽和头发占据了左侧前景。主要角色在发光的雨夜街道尽头显得很小，强调距离感。
+5. 左下分镜：主要角色向观众走来的中景肖像，占据了画面的大部分，从大腿以上构图。她的帽子、长发、耳机、超大卫衣、百褶裙、包带和星星吊坠清晰可见。身后的雨中人群模糊且富有氛围感。
+6. 右下分镜：观察者靠在墙边的近景肖像，侧头看着，表情警惕而沉思。展示她的贝雷帽、长发、叠穿外套、领口细节和精致首饰；背景为简单的垂直墙面纹理。
+
+构图限制：保持所有 6 个分镜均为静默且无文字。确保各分镜中的角色设计一致。强调电影级项目的可读性、监视距离感、湿润的反光效果以及铅笔线条质感。请勿使用色彩、对话气泡、标题、现代 UI 元素或水印。
+
+[English]
+Goal: Create a black-and-white manga storyboard / animatic reference sheet showing a quiet rainy-night pursuit scene in a neon city, drawn as polished pencil concept art rather than a finished comic page.
+
+Canvas: Vertical page in a 2:3 aspect ratio, white paper background, arranged as exactly 6 rectangular panels in a clean 2-column by 3-row grid with thin black panel borders and narrow gutters.
+
+Visual style: Monochrome graphite pencil sketch with heavy cross-hatching, soft smudged shading, realistic manga proportions, cinematic framing, wet reflective pavement, blurred crowds, glowing rectangular shop signs rendered only in grayscale, no dialogue balloons, no captions, no sound effects, no printed text.
+
+Setting: A dense Japanese-style shopping street at night during or just after rain. The pavement is slick and mirror-like, reflecting vertical neon signs and streetlights. Background pedestrians carry umbrellas and appear as soft silhouettes. The atmosphere is tense, quiet, and observational.
+
+Main subject: A young woman, {argument name="character name" default="unnamed girl"}, with long dark hair and a pale, serious face. She wears a soft newsboy cap, oversized sweatshirt, short pleated skirt, slouchy leg warmers, chunky shoes, a shoulder tote bag, over-ear headphones resting around her neck, and a star pendant necklace. Her mood is distant, cautious, and slightly melancholy.
+
+Observer character: A second young woman with long dark hair, a dark beret, layered jacket or coat, and a shy hidden posture. She stands partly behind walls, doorways, or street columns, watching the main subject from a distance without approaching.
+
+Panel layout and required shots, exactly 6 panels:
+1. Top-left panel: Over-the-shoulder view from behind the observer hiding at the edge of a wall on the left foreground. In the mid-distance, the main subject walks away down the rain-glossed street, centered under glowing signs.
+2. Top-right panel: Wider street view. The observer leans against a wall on the left side in partial shadow, while the main subject walks in the right foreground toward the viewer, hands in her sweatshirt pockets, headphones and star necklace clearly visible.
+3. Middle-left panel: Similar stalking perspective from behind the observer on the left foreground, closer to her shoulder and hair. The main subject is far ahead in the center of the street, walking away through the wet reflections and crowd.
+4. Middle-right panel: Close over-the-shoulder view of the observer from behind, her dark beret and hair dominating the left foreground. The main subject is small and centered far down the luminous rainy street, emphasizing distance.
+5. Bottom-left panel: Medium portrait of the main subject walking toward the viewer, filling most of the frame from thighs up. Her cap, long hair, headphones, oversized sweatshirt, pleated skirt, tote strap, and star pendant are clearly drawn. The rainy crowd behind her is blurred and atmospheric.
+6. Bottom-right panel: Close portrait of the observer leaning beside a wall, looking sideways with a guarded, pensive expression. Show her beret, long hair, layered jacket, collar detail, and subtle jewelry; background is simple vertical wall texture.
+
+Composition constraints: Keep all six panels silent and text-free. Use consistent character designs across panels. Emphasize cinematic storyboard readability, surveillance distance, wet reflections, and pencil line texture. Do not use color, speech bubbles, captions, modern UI elements, or watermarks.
+```
+
+**来源：** [@kuripon](https://x.com/malonpon/status/2072580135279325475) | 2026-07-02
+
+---
+
+### 🎬 例 3020：奇幻法师分镜网格
+
+![奇幻法师分镜网格](../../images/%E5%A5%87%E5%B9%BB%E6%B3%95%E5%B8%88%E5%88%86%E9%95%9C%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段视频序列创作一张电影感奇幻分镜联系表，主题围绕 {argument name="scene concept" default="一位学徒法师和一位老巫师在魔法冬日森林中对抗暗影力量"}。
+
+画布：16:9 宽屏图像，格式为 3 x 3 分镜网格，由 9 个被细白边框分隔的面板组成。每个面板顶部为电影画面，底部为带有小型白色制作文字的黑色标题条。整体色调为冷蓝色、银色、炭灰色和黑色，并带有发光的青色魔法。
+
+视觉风格：暗黑高魔电影剧照，照片级真实电影光效，雾气缭绕的雪林，树皮上刻有微弱蓝色符文的古老扭曲树木，远处崎岖的山脉，飘落的雪花，特写镜头中的浅景深，体积光月光，戏剧性氛围，无卡通风格。魔法呈现为发光的圆形符文、漂浮的符文、蓝色粒子和透明的防护屏障。
+
+主要角色：一位名叫 {argument name="apprentice name" default="Lyra"} 的年轻女性学徒法师，留着深色长发，皮肤白皙，表情坚定，身穿分层深色皮革与布料长袍，披着连帽斗篷，手持一根顶部镶嵌发光蓝色水晶的雕花木杖。一位名叫 {argument name="elder name" default="Eldrin"} 的年长巫师，留着长长的白发和浓密的白胡子，面容饱经风霜，蓝灰色眼睛，身穿厚重的棕灰色皮毛和旅行长袍，手持一根行走杖。威胁是 {argument name="shadow threat" default="黑色烟雾"}，在树木间如快速的暗影模糊或波浪般移动。
+
+布局与精确面板内容：使用 9 个编号的分镜面板。
+
+1. 远景定场镜头：雪山坡上令人叹为观止的魔法森林。刻有银蓝色魔法符文的古老发光树木弯曲着树干。Lyra 在一棵巨大的圣树下练习魔法，Eldrin 在远处注视。标题文字：“1. 远景定场镜头。雪山坡上令人叹为观止的魔法森林。古老发光树木的树干上刻有银蓝色魔法符文。Lyra 在一棵巨大的圣树下练习魔法，Eldrin 在远处注视。” 右下角时间标签：“时间：00:00-00:02”。
+
+2. 中景镜头：Lyra 优雅地挥动她的魔法杖，创造出一个美丽的漂浮蓝色魔法符号，环绕着她旋转。微小的发光叶片在空气中飘荡。森林感觉宁静而充满生机。标题文字：“2. 中景镜头。Lyra 优雅地挥动她的魔法杖，创造出美丽的漂浮蓝色魔法符号，环绕着她旋转。微小的发光叶片在空气中飘荡。森林感觉宁静而充满生机。” 时间标签：“时间：00:02-00:04”。
+
+3. Lyra 身后的中远景镜头：魔法变得更强，符文更亮，Lyra 进入了状态，全神贯注。Eldrin 冷静地观察，感到自豪且具有保护欲。标题文字：“3. 中远景镜头。魔法变得更强，符文更亮。Lyra 进入了状态，全神贯注。Eldrin 冷静地观察，感到自豪且具有保护欲。” 时间标签：“时间：00:04-00:06”。
+
+4. Eldrin 特写：他冷静的表情突然改变。当他感觉到一点黑色烟雾以超高速呼啸而过时，他的眼睛睁大了。标题文字：“4. Eldrin 特写。他冷静的表情突然改变。当他感觉到一点黑色烟雾以超高速呼啸而过时，他的眼睛睁大了。” 时间标签：“时间：00:06-00:08”。
+
+5. Eldrin 特写继续：黑色烟雾只是一团模糊，快到无法看清。Eldrin 的直觉在尖叫着危险。标题文字：“5. 特写继续。黑色烟雾只是一团模糊——快到无法看清。Eldrin 的直觉在尖叫着危险。” 时间标签：“时间：00:08-00:10”。
+
+6. Lyra 中景镜头：她感觉到了空气中的变化。她的表情从专注变为担忧和警觉。她转向源头。标题文字：“6. Lyra 中景镜头。她感觉到了空气中的变化。她的表情改变了——担忧、警觉。她转向源头。” 时间标签：“时间：00:10-00:11”。
+
+7. 远景镜头：黑色烟雾像暗影波浪一样席卷森林。魔法叶片四散。宁静的氛围被打破。标题文字：“7. 远景镜头。黑色烟雾像暗影波浪一样席卷森林。魔法叶片四散。宁静的氛围被打破。” 时间标签：“时间：00:11-00:13”。
+
+8. 中景镜头：Lyra 举起法杖，瞬间形成一个防护屏障。魔法与黑暗碰撞。展示她面前明亮的圆形蓝色护盾以及撞击它的黑烟。标题文字：“8. 中景镜头。Lyra 举起法杖，瞬间形成一个防护屏障。魔法与黑暗碰撞。” 时间标签：“时间：00:13-00:14”。
+
+9. 远景镜头：Eldrin 手持法杖向前迈步。师徒二人准备共同面对未知的威胁。Lyra 站在发光的蓝色防护罩内或身后，而 Eldrin 站在符文照亮的雪林一侧。标题文字：“9. 远景镜头。Eldrin 手持法杖向前迈步。师徒二人准备共同面对未知的威胁。” 时间标签：“时间：00:14-00:15”。
+
+文字与排版：黑色标题条上使用简洁的无衬线白色文字，面板编号和镜头描述左对齐，时间码右对齐。保持文字清晰但紧凑，如同制作分镜表一样。
+
+约束条件：3x3 网格中正好 9 个面板，正好 2 个主要角色，正好 1 个烟雾威胁，各面板角色设计保持一致，无额外面板，无 Logo，无水印，无现代物品。
+
+[English]
+Goal: Create a cinematic fantasy storyboard contact sheet for a short video sequence titled around {argument name="scene concept" default="an apprentice mage and an elder wizard confronting a shadow force in an enchanted winter forest"}.
+
+Canvas: Widescreen 16:9 image formatted as a 3 x 3 storyboard grid, exactly 9 panels separated by thin white borders. Each panel has a cinematic frame on top and a black caption strip along the bottom with small white production text. Overall palette is cold blue, silver, charcoal, and black, with glowing cyan magic.
+
+Visual style: Dark high-fantasy film stills, photoreal cinematic lighting, misty snowy forest, ancient twisted trees with faint blue runes carved into bark, distant jagged mountains, drifting snow, shallow depth of field in close-ups, volumetric moonlight, dramatic atmosphere, no cartoon styling. The magic appears as luminous circular sigils, floating runes, blue particles, and transparent protective barriers.
+
+Main characters: A young female apprentice mage named {argument name="apprentice name" default="Lyra"}, with long dark hair, pale skin, determined expression, wearing layered dark leather-and-cloth robes with a hooded cloak and holding a carved wooden staff topped with a glowing blue crystal. An elderly wizard named {argument name="elder name" default="Eldrin"}, with long white hair, full white beard, weathered face, blue-gray eyes, wearing heavy brown-gray fur and travel robes, holding a walking staff. The threat is {argument name="shadow threat" default="black smoke"}, moving like a fast dark blur or wave among the trees.
+
+Layout and exact panel content: Use exactly 9 numbered storyboard panels.
+
+1. Wide establishing shot: a breathtaking enchanted forest on a snowy mountainside. Ancient glowing trees with silver-blue magical runes curve into their trunks. Lyra practices magic beneath a massive sacred tree while Eldrin watches from a distance. Caption text: "1. Wide establishing shot. A breathtaking enchanted forest on a snowy mountainside. Ancient glowing trees with silver-blue magical runes carved into their trunks. Lyra practices magic beneath a massive sacred tree while Eldrin watches from a distance." Time label at lower right: "Time: 00:00-00:02".
+
+2. Medium shot: Lyra gracefully swings her enchanted staff, creating a beautiful floating blue magical symbol that spirals around her. Tiny glowing leaves drift through the air. The forest feels peaceful and alive. Caption text: "2. Medium shot. Lyra gracefully swings her enchanted staff, creating a beautiful floating blue magical symbols that spiral around her. Tiny glowing leaves drift through the air. The forest feels peaceful and alive." Time label: "Time: 00:02-00:04".
+
+3. Medium-wide shot from behind Lyra: the magic grows stronger, the runes brighten, Lyra is in her element, completely focused. Eldrin calmly observes, proud and protective. Caption text: "3. Medium-wide shot. The magic grows stronger, the runes brighter. Lyra is in her element, completely focused. Eldrin calmly observes, proud and protective." Time label: "Time: 00:04-00:06".
+
+4. Close-up on Eldrin: his calm expression suddenly changes. His eyes widen as he senses a little black smoke pass nearby with super speed and a whoosh. Caption text: "4. Close-up on Eldrin. His calm expression suddenly changes. His eyes widen as he senses a little black smoke pass near by with super speed with woosh." Time label: "Time: 00:06-00:08".
+
+5. Close-up continues on Eldrin: black smoke is just a blur, too fast to see clearly. Eldrin's instincts scream danger. Caption text: "5. Close-up continues. The black smoke is just a blur—too fast to see clearly. Eldrin’s instincts scream danger." Time label: "Time: 00:08-00:10".
+
+6. Medium shot on Lyra: she feels the shift in the air. Her expression changes from focused to concerned and alert. She turns toward the source. Caption text: "6. Medium shot on Lyra. She feels the shift in the air. Her expression changes—concerned, alert. She turns toward the source." Time label: "Time: 00:10-00:11".
+
+7. Wide shot: black smoke sweeps through the forest like a shadowy wave. Magical leaves scatter. The peaceful atmosphere is shattered. Caption text: "7. Wide shot. The black smoke sweeps through the forest like a shadowy wave. Magical leaves scatter. The peaceful atmosphere is shattered." Time label: "Time: 00:11-00:13".
+
+8. Medium shot: Lyra raises her staff, instantly forming a protective barrier. The magic clashes with the darkness. Show a bright circular blue shield in front of her and dark smoke striking it. Caption text: "8. Medium shot. Lyra raises her staff, instantly forming a protective barrier. The magic clashes with the darkness." Time label: "Time: 00:13-00:14".
+
+9. Wide shot: Eldrin steps forward, staff in hand. Together, master and apprentice prepare to face the unknown threat. Lyra stands inside or behind a glowing blue protective dome while Eldrin stands to the side in the snowy rune-lit forest. Caption text: "9. Wide shot. Eldrin steps forward, staff in hand. Together, master and apprentice prepare to face the unknown threat." Time label: "Time: 00:14-00:15".
+
+Text and typography: Small clean sans-serif white text on black caption bars, with the panel number and shot description aligned lower left, and the timecode aligned lower right. Keep text legible but compact, as in a production storyboard sheet.
+
+Constraints: Exactly 9 panels in a 3-by-3 grid, exactly 2 main characters, exactly 1 shadow-smoke threat, consistent character designs across panels, no extra panels, no logos, no watermark, no modern objects.
+```
+
+**来源：** [@AIARTGALLARY](https://x.com/AIARTGALLARY/status/2072555566359285782) | 2026-07-02
+
+---
+
+### 🎬 例 3022：暗黑奇幻女巫分镜脚本
+
+![暗黑奇幻女巫分镜脚本](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%A5%B3%E5%B7%AB%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个电影感暗黑奇幻分镜脚本联系表，展示女巫在风暴山谷中的战斗及其后续，包含 9 个以 3x3 网格排列、由细白边框分隔的宽屏画格。
+
+画布：16:9 横向联系表，写实真人电影剧照，去饱和蓝灰色调，高对比度，忧郁的阴天光影，雨水浸湿的质感，风、雾、飞扬的尘土和碎石。背景设定在远方山谷中世纪城镇上方崎岖的山坡上，四周是乌云笼罩下的黑暗山脉。
+
+主要角色：一位年轻的女巫，{argument name="sorceress appearance" default="20 多岁的东亚女性，长发在风中飘散，面色苍白疲惫，身穿深色叠层皮革与布料盔甲，深绿色斗篷，戴着护手，衣着破旧"}。她手持 {argument name="magic staff" default="一根扭曲的木杖，顶端镶嵌着一颗被荆棘状金属枝包裹的蓝色发光水晶"}。第二个角色是 {argument name="elder mage appearance" default="一位年长的白发白须男性法师，身穿厚重破旧的毛皮长袍，手持一根与之配套的蓝色水晶法杖"}。魔法视觉效果：{argument name="spell effect" default="一个由圆形符文、火花、粒子和噼啪作响的闪电组成的明亮蓝白色发光无限符号"}。
+
+布局与画格内容：使用 9 个独立的分镜画格。画格 1（左上）：中远景，年轻女巫独自站在山坡上，垂直握着发光的法杖，神情焦虑地看向画外，身后是遥远的山谷和层叠的山峦。画格 2（中上）：中近景，女巫将法杖向前推向镜头；蓝色水晶闪耀，一个发光的无限符号符文圆环浮现在法杖后方，她面带恐惧但神情坚定。画格 3（右上）：动态动作镜头，女巫双手横向挥动法杖；斗篷在风中狂舞，发光的无限咒语伴随着闪电向外爆发，碎片和黑色石块悬浮在她周围。画格 4（左中）：侧面动作镜头，女巫在蓝白色无限咒语从法杖中扩张时显得十分吃力，散落的岩石在烟雾缭绕的灰色背景中飞舞。画格 5（正中）：后续远景；年轻女巫精疲力竭地跪在泥泞的斜坡上，一只手撑地，年长的法师站在她身后，手持发光的法杖，俯瞰着山谷。画格 6（右中）：低角度特写，女巫倒在地上，脸颊贴近泥土，一只手向前伸展，法杖落在前景中，其蓝色水晶仍隐约发光，她表情痛苦且力竭。画格 7（左下）：年长法师的肖像特写，面朝前方，神情严峻庄重，长长的白胡须和毛皮斗篷细节清晰，蓝水晶法杖在他脸庞旁发出柔光，背景是模糊的山脉。画格 8（中下）：年长法师的后侧方视角，注视着远处跪下的女巫，两人都面向下方的山谷城镇，荒凉的山脉和乌云填满了背景。画格 9（右下）：极远景后方视角，年长法师站在前景，手持法杖，身披厚重斗篷，女巫渺小地跪在远处的山坡上，山谷城镇和山脉逐渐隐入黑暗。
+
+视觉风格：写实电影感奇幻电影，粗犷的中世纪服装设计，自然的人物面部，特写镜头中浅景深，远景中宏大的规模，各画格间角色保持一致，戏剧性的风效，无现代物品，无文字，无标题，无 Logo，无水印。
+
+[English]
+Goal: Create a cinematic dark-fantasy storyboard contact sheet showing a sorceress battle and aftermath in a stormy mountain valley, with exactly 9 widescreen panels arranged in a 3 by 3 grid separated by thin white borders.
+
+Canvas: 16:9 landscape contact sheet, realistic live-action film stills, desaturated blue-gray color grading, high contrast, moody overcast lighting, rain-wet textures, wind, mist, flying dust and stones. The setting is a rugged hillside above a distant medieval town in a valley surrounded by dark mountains under storm clouds.
+
+Main characters: A young female sorceress, {argument name="sorceress appearance" default="East Asian woman in her 20s with long windblown black hair, pale tired face, dark layered leather-and-cloth armor, deep green-black cloak, gauntlets, and travel-worn clothing"}. She carries {argument name="magic staff" default="a twisted wooden staff topped with a blue glowing crystal set in thorn-like metal branches"}. A second character is {argument name="elder mage appearance" default="an elderly white-haired and white-bearded male mage wearing heavy weathered fur robes and holding a matching blue-crystal staff"}. Magic visuals: {argument name="spell effect" default="a bright blue-white glowing infinity symbol made of circular runes, sparks, particles, and crackling lightning"}.
+
+Layout and panel contents: Use exactly 9 distinct storyboard frames. Panel 1, top left: wide medium shot of the young sorceress standing alone on the hillside, holding the glowing staff upright, looking anxious toward something off screen, distant valley and layered mountains behind her. Panel 2, top center: close medium shot of the sorceress thrusting the staff forward toward camera; the blue crystal shines and a luminous infinity-shaped rune circle floats behind the staff, her face frightened but determined. Panel 3, top right: dynamic action shot of the sorceress sweeping the staff horizontally in both hands; her cloak whips in the wind as the glowing infinity spell blasts outward with lightning, debris and black stones suspended around her. Panel 4, middle left: another action shot from the side, the sorceress straining as the blue-white infinity spell expands from the staff, scattered rocks flying across a smoky gray background. Panel 5, middle center: aftermath wide shot; the young sorceress kneels on the muddy slope exhausted, one hand on the ground, while the elderly mage stands behind her holding his glowing staff, overlooking the valley. Panel 6, middle right: close low-angle shot of the sorceress collapsed on the ground with her cheek near the dirt, one hand stretched forward, the staff lying in the foreground with its blue crystal still faintly glowing, her expression pained and spent. Panel 7, bottom left: close portrait of the elderly mage facing forward, stern and solemn, his long white beard and fur cloak detailed, blue crystal staff beside his face glowing softly, blurred mountains behind him. Panel 8, bottom center: rear three-quarter view of the elderly mage watching over the kneeling sorceress in the distance, both facing the valley town below, bleak mountains and storm clouds filling the background. Panel 9, bottom right: very wide rear shot of the elderly mage standing in the foreground with staff and heavy cloak, the sorceress small and kneeling far ahead on the hillside, the valley town and mountains receding into darkness.
+
+Visual style: Photorealistic cinematic fantasy film, gritty medieval costume design, naturalistic faces, shallow depth of field in close-ups, epic scale in wide shots, consistent characters across panels, dramatic wind, no modern objects, no text, no captions, no logos, no watermark.
+```
+
+**来源：** [@AIARTGALLARY](https://x.com/AIARTGALLARY/status/2072554498346856947) | 2026-07-02
+
+---
+
+### 🎬 例 3042：雨宿り絵本プロンプトシート
+
+![雨宿り絵本プロンプトシート](../../images/%E9%9B%A8%E5%AE%BF%E3%82%8A%E7%B5%B5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%B7%E3%83%BC%E3%83%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为绘本页面创建一个横向插画概念图，展示 6 种关于主题 {argument name="theme" default="雨宿り"}（雨中避雨）的提示词变体，并配有日式手写风格的标题和说明文字。
+
+画布：宽屏 16:9 米白色纸张背景，类似印刷的演示页面。使用柔和的水彩绘本风格，营造细雨氛围、宁静的发现感、温暖柔和的色调、精致的墨线轮廓、自然的纸张纹理，避免写实风格。
+
+主标题：在左上角用日语书写：「絵本の1ページ：テーマ『雨宿り』プロンプト6パターン」。使用随性的黑色手写字体。
+
+布局：将 6 个矩形水彩图像面板以 3 列 × 2 行的网格整齐排列。每个面板上方都有一个带编号的日语标题，下方有两行简短的日语说明。保持宽裕的留白、一致的间距，以及设计 board 或提示词对比表的感觉。
+
+面板 1：标题 「1. カエルの目線：葉っぱの下は、小さな世界のステージ」。图像：雨中大绿叶下的低角度青蛙视角；雨滴沿着叶缘滴落，一只绿青蛙坐在小蜗牛和微型蘑菇旁，柔和的森林背景和水面反射。说明：「大きな葉っぱの下は、ぼくの特等席。雨の音が、ステージの拍手みたいにきこえるよ。」
+
+面板 2：标题 「2. 傘の内側から見た世界」。图像：从透明雨伞内部向外看的视角，雨伞骨架呈现为清晰的黑色线条；伞外是模糊的人影和柔和色调的雨伞，右侧挂着一个小小的晴天娃娃。说明：「傘の内側は、ぼくだけの小さな部屋。雨の粒が、まるで窓の外の絵みたい。」
+
+面板 3：标题 「3. 建物のすきまから見える、雨の通り」。图像：狭窄的深色石质通道或小巷，框住远处的雨中街道；远处有一个撑着红伞的小孩或人物正在走远，城市建筑在雨中变得柔和，墙上有常春藤。说明：「ぼくは、このすきまがだいすき。だれかの物語が、雨というしおりを通りすぎていく。」
+
+面板 4：标题 「4. 水たまりの中に映る、もうひとつの世界」。图像：城市小路上的积水倒影，呈现出一个上下颠倒的雨中世界：建筑物、雨伞剪影、天空、叶子、花朵以及积水边缘的井盖细节。说明：「水たまりって、空への入り口かも。うつった世界は、少しだけ静かで、やさしい色をしてる。」
+
+面板 5：标题 「5. 雨粒になって見た、いつもの風景」。图像：悬挂雨滴的特写，中央一颗大水滴中倒映着微缩村庄；背景是模糊的屋顶和绿植，浅景深，闪烁的雨滴。说明：「ぼくは、空からの小さな旅人。みんなのところへ、そっと降りていくよ。」
+
+面板 6：标题 「6. 動物たちと一緒に雨宿り（屋根の下の小さな劇場）」。图像：在古老的瓦屋檐下，正好有 4 只动物一起避雨：一只虎斑猫、一只兔子、一只圆滚滚的小鸟和一只老鼠。温暖的吊灯光芒，侧面摆放着盆栽花卉，雨滴从屋檐落下，温馨的剧场式构图。说明：「雨の日は、みんなでひとやすみ。屋根の下は、やさしいおはなしがうまれる場所。」
+
+页脚注释：在左下角用日语书写：「※ どのページも、やさしい光・静けさ・発見を感じる雰囲気で。」
+
+约束条件：包含 6 个面板，且面板 6 中必须包含指定的 4 只动物。所有可见文字均按要求使用日语，保持手写且清晰易读。避免添加额外的徽标、水印、现代 UI 元素或额外的面板。整体氛围应柔和、诗意、多雨、宁静，适合作为儿童绘本的概念图。
+
+[English]
+Goal: Create a horizontal illustrated concept sheet for a picture book page, showing exactly 6 prompt variations for the theme {argument name="theme" default="rain lodging"}, with Japanese handwritten-style headings and captions.
+
+Canvas: Wide 16:9 off-white paper background, like a printed presentation page. Use a soft watercolor picture-book style, gentle rain atmosphere, quiet discovery, warm muted colors, delicate ink outlines, natural paper texture, no photorealism.
+
+Main title: At the top left, write in Japanese: 「絵本の1ページ：テーマ『雨宿り』プロンプト6パターン」. Use casual handwritten black text.
+
+Layout: Arrange exactly 6 rectangular watercolor image panels in a clean 3 columns × 2 rows grid. Each panel has a numbered Japanese title above it and a short two-line Japanese caption below it. Keep generous margins, consistent spacing, and the feel of a design board or prompt-comparison sheet.
+
+Panel 1: Title 「1. カエルの目線：葉っぱの下は、小さな世界のステージ」. Image: low frog-eye viewpoint under a large green leaf during rain; raindrops bead along the leaf edge, a green frog sits beside a small snail and tiny mushroom on wet ground, soft forest background and reflected water. Caption: 「大きな葉っぱの下は、ぼくの特等席。雨の音が、ステージの拍手みたいにきこえるよ。」
+
+Panel 2: Title 「2. 傘の内側から見た世界」. Image: view from inside a transparent umbrella, with umbrella ribs visible as strong black lines; blurred silhouettes of people and pastel umbrellas outside in the rain, and a small hanging teru teru bozu charm near the right side. Caption: 「傘の内側は、ぼくだけの小さな部屋。雨の粒が、まるで窓の外の絵みたい。」
+
+Panel 3: Title 「3. 建物のすきまから見える、雨の通り」. Image: narrow dark stone passage or alley framing a rainy street beyond; a small child or figure with a red umbrella walks away in the distance, city buildings softened by rain, ivy on the wall. Caption: 「ぼくは、このすきまがだいすき。だれかの物語が、雨というしおりを通りすぎていく。」
+
+Panel 4: Title 「4. 水たまりの中に映る、もうひとつの世界」. Image: reflective puddle on a city path showing an upside-down rainy world: buildings, umbrella silhouette, sky, leaves, flowers, and manhole details around the puddle edge. Caption: 「水たまりって、空への入り口かも。うつった世界は、少しだけ静かで、やさしい色をしてる。」
+
+Panel 5: Title 「5. 雨粒になって見た、いつもの風景」. Image: close-up of hanging raindrops, with one large central droplet containing an inverted miniature village reflection; blurred rooftops and greenery in the background, shallow depth of field, sparkling rain. Caption: 「ぼくは、空からの小さな旅人。みんなのところへ、そっと降りていくよ。」
+
+Panel 6: Title 「6. 動物たちと一緒に雨宿り（屋根の下の小さな劇場）」. Image: under an old tiled roof or eave, exactly 4 animals shelter together from the rain: a tabby cat, a rabbit, a small round bird, and a mouse. Warm hanging lantern light, potted flowers on the side, raindrops falling from the roof edge, cozy theatrical composition. Caption: 「雨の日は、みんなでひとやすみ。屋根の下は、やさしいおはなしがうまれる場所。」
+
+Footer note: Along the bottom left, write in Japanese: 「※ どのページも、やさしい光・静けさ・発見を感じる雰囲気で。」
+
+Constraints: Include exactly 6 panels and exactly the 4 animals listed in panel 6. Keep all visible text in Japanese as specified, handwritten and legible. Avoid extra logos, watermarks, modern UI elements, or additional panels. The overall mood should be gentle, poetic, rainy, quiet, and suitable for a children’s picture book concept sheet.
+```
+
+**来源：** [@砂葵saki☆AI](https://x.com/saki_778/status/2072528181383573782) | 2026-07-02
+
+---
+

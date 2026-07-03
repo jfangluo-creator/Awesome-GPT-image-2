@@ -5557,3 +5557,341 @@ Visual style: Minimal flat vector poster, architectural elevation drawing, subtl
 
 ---
 
+### 🖥️ 例 2953：鹈鹕扑克黑色电影风格插画
+
+![鹈鹕扑克黑色电影风格插画](../../images/%E9%B9%88%E9%B9%95%E6%89%91%E5%85%8B%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的 4:5 竖版动漫风格电影感插画，描绘一只拟人化的 {argument name="bird species" default="白鹈鹕"} 作为一名温文尔雅的高额赌注扑克玩家，坐在黄昏时分优雅的海滨休息室的绿色毛毡赌场桌旁。该角色拥有逼真的长浅桃色喙、白色羽毛的头部和颈部，眼神敏锐智慧，身穿量身定制的 {argument name="suit color" default="炭黑色"} 三件套西装，搭配白衬衫、黑领带、白色方巾和白色手套。喙部侧向咬着一支棕色雪茄。鹈鹕右手握着 2 张蓝色牌背的扑克牌，左手戴着手套触碰桌上 1 张牌面朝下的牌；在左下角前景处展示 2 张牌面朝下的牌，在下边缘中心处展示 4 张牌面朝上的花色牌，在右下角放置 1 副完整的蓝色牌背扑克牌。布置 6 堆清晰可见的筹码：左侧低矮的琥珀色威士忌酒杯旁有 3 堆，右中位置附近有 3 堆，毛毡上还有几枚散落的筹码。画面包含右侧 1 个圆形玻璃烟灰缸、左侧 1 个威士忌酒杯、顶部 1 盏吊灯、角色右后方 1 盆高大的盆栽植物，以及左侧的一扇大窗户，窗外可以看到平静的海港、帆船和远处笼罩在柔和晚霞薄雾中的钟楼天际线。使用柔和的蓝灰色和暖米色灯光，细腻的绘画线条，微妙的胶片颗粒感，柔和的阴影，融合新艺术运动与现代动漫黑色电影的氛围，构图优雅，营造出精致的赌博室氛围，无文字，无水印。
+
+[English]
+Create a refined vertical 4:5 anime-style cinematic illustration of an anthropomorphic {argument name="bird species" default="white pelican"} as a suave high-stakes poker player seated at a green felt casino table in an elegant waterfront lounge at dusk. The character has a realistic long pale peach beak, white feathered head and neck, a sharp intelligent eye, and wears a tailored {argument name="suit color" default="charcoal black"} three-piece suit with a white dress shirt, black tie, white pocket square, and white gloves. A brown cigar is clenched sideways in the beak. The pelican holds exactly 2 blue-backed playing cards in the right hand while the left gloved hand touches exactly 1 face-down card on the table; show exactly 2 additional face-down cards near the lower left foreground, exactly 4 face-up suit cards along the lower center edge, and exactly 1 full blue-backed deck at the lower right. Arrange exactly 6 visible poker chip stacks: 3 stacks beside a low tumbler of amber whiskey on the left, and 3 stacks near the center-right, plus a few loose chips on the felt. Include exactly 1 round glass ashtray on the right, exactly 1 whiskey glass on the left, exactly 1 overhead hanging lamp at the top, exactly 1 tall potted plant behind the character on the right, and a large window on the left revealing a calm harbor with sailboats and a distant clocktower skyline in soft evening haze. Use muted blue-gray and warm beige lighting, delicate painterly linework, subtle film grain, soft shadows, Art Nouveau meets modern anime noir atmosphere, elegant composition, sophisticated gambling-room mood, no text, no watermark.
+```
+
+**来源：** [@Circuit Observer](https://x.com/CircuitObserver/status/2072825356713599427) | 2026-07-02
+
+---
+
+### 🖥️ 例 2960：Storyboard Re-Render 工作流 UI
+
+![Storyboard Re-Render 工作流 UI](../../images/Storyboard%20Re-Render%20%E5%B7%A5%E4%BD%9C%E6%B5%81%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色基于节点的 UI 工作流截图，展示灰色 3D 动画分镜与重绘后的 90 年代动画风格分镜的并排对比，如同在视觉 AI/合成工具中一样。
+
+画布：横向 4:3 屏幕截图，背景为近乎黑色的点阵网格工作区。在节点之间添加细青色曲线连接线，节点边缘带有小型圆形输入/输出端口。
+
+布局：并排放置 2 个高大的圆角矩形节点。两个节点左上角均标有“Painter”标题及一个小画笔/钢笔图标，右上角有三点菜单。左侧节点显示灰度源分镜；右侧节点显示风格化输出分镜。每个节点包含 4 个堆叠的宽屏分镜帧，由粗黑分隔线隔开，底部配有紧凑的 Painter 控制面板。
+
+左侧节点分镜帧：将所有 4 帧渲染为单色灰色 3D 视口/电影预演图像，采用低饱和度粘土材质和简单的城市几何结构。第 1 帧：一个普通男性人体模型走在城市人行道上，背景有店面、消防栓、路灯杆和道路标线。第 2 帧：人体模型向石墙抬起一条腿，仿佛开始攀爬。第 3 帧：人体模型已爬上墙壁一部分，身体后倾，双腿紧贴立面。第 4 帧：人体模型沿垂直建筑立面向上行走的后视图，可见窗户和屋顶透视。
+
+右侧节点分镜帧：重现相同的 4 个动作和摄像机角度，但采用详细的 {argument name="visual style" default="1990s hand-painted anime cel animation"}。使用一名年轻男性角色，穿着 {argument name="character outfit" default="green jacket, blue jeans, and brown shoes"}，棕色头发，具有写实的动画比例。第 1 帧：他走在阳光明媚的城市人行道上，经过店面、红色消防栓、路灯和道路标线“633”。第 2 帧：他将脚抬到玻璃店面旁边的石墙上。第 3 帧：他在建筑立面上爬得更高，背景中有街道、消防栓、消防梯和商店招牌。第 4 帧：他垂直走上苍白建筑墙面的后视图，窗户在他下方退去，前方可见屋顶。
+
+Painter 控制：在每个节点底部显示 3 个工具图标：高亮显示的黄色画笔图标、橡皮擦图标和网格/哈希图标。右侧包含一个小的“Reset”标签。图标下方显示 3 个带标签的控件：Color（颜色），配有白色色块和十六进制文本“FFFFFF”及“100%”；Size（大小），配有滑块，左侧节点值为“30”，右侧节点值为“60”；Hardness（硬度），配有滑块和“100%”。
+
+视觉风格：清晰的 UI 模型，深炭灰色面板，圆角，柔和阴影，柔和的青色连接线点缀，精确对齐。左侧分镜应看起来像灰色 3D 渲染，而右侧分镜应看起来像精致的动画重绘，带有蓝灰色阴影、墨水轮廓、手绘背景和电影级构图。
+
+约束：使用 2 个节点，每个节点 4 个分镜帧，每个节点 3 个控件。所有可见的 UI 文本保持为英文。不要在节点界面外添加额外的面板、Logo、水印或说明性文字。
+
+[English]
+Goal: Create a dark node-based workflow screenshot showing a side-by-side comparison between a gray 3D animation storyboard and a re-rendered 90s anime-style storyboard, as if inside a visual AI/compositing tool.
+
+Canvas: Landscape 4:3 screen capture on a nearly black dotted grid workspace. Add thin teal curved connector lines between nodes, with small circular input/output ports on the node edges.
+
+Layout: Place exactly 2 tall rounded-rectangle nodes side by side. Both nodes are titled “Painter” at the top left with a small brush/pen icon, and a three-dot menu at the top right. The left node shows the grayscale source storyboard; the right node shows the stylized output storyboard. Each node contains exactly 4 stacked widescreen storyboard frames separated by thick black dividers, followed by a compact painter control panel at the bottom.
+
+Left node storyboard frames: Render all 4 frames as monochrome gray 3D viewport/cinematic previz images with low-saturation clay materials and simple urban geometry. Frame 1: a generic male mannequin walks down a city sidewalk with storefronts, a hydrant, street pole, and road markings. Frame 2: the mannequin raises one leg toward a stone building wall as if beginning to climb. Frame 3: the mannequin is partially up the wall, body leaning back, legs pressed against the facade. Frame 4: rear view of the mannequin walking upward along a vertical building facade, with windows and rooftop perspective visible.
+
+Right node storyboard frames: Recreate the same 4 actions and camera angles, but as detailed {argument name="visual style" default="1990s hand-painted anime cel animation"}. Use a young adult male character with {argument name="character outfit" default="green jacket, blue jeans, and brown shoes"}, brown hair, and realistic anime proportions. Frame 1: he walks along a sunny city sidewalk past storefronts, a red fire hydrant, streetlight, and road marking “633”. Frame 2: he lifts his foot onto a stone wall beside a glass storefront. Frame 3: he climbs higher on the building facade, with street, hydrant, fire escape, and shop signs in the background. Frame 4: rear view as he walks vertically up the pale building wall, windows receding below him and rooftops visible ahead.
+
+Painter controls: At the bottom of each node show exactly 3 tool icons: a highlighted yellow brush icon, an eraser icon, and a grid/hash icon. Include a small “Reset” label on the right. Under the icons show exactly 3 labeled controls: Color with a white swatch and hex text “FFFFFF” plus “100%”; Size with a slider, left node value “30” and right node value “60”; Hardness with a slider and “100%”.
+
+Visual style: Crisp UI mockup, dark charcoal panels, rounded corners, subtle shadows, muted teal connector accents, precise alignment. The left storyboard should look like a gray 3D render, while the right storyboard should look like a polished anime repaint with blue-gray shadows, ink outlines, hand-painted backgrounds, and cinematic framing.
+
+Constraints: Use exactly 2 nodes, exactly 4 storyboard frames per node, and exactly 3 controls per node. Keep all visible UI text in English. Do not add extra panels, logos, watermarks, or explanatory captions outside the node interface.
+```
+
+**来源：** [@Finn McKenty](https://x.com/thefinnmckenty/status/2072749962094674018) | 2026-07-02
+
+---
+
+### 🖥️ 例 2961：Cozy Hobbit 应用素材展示表
+
+![Cozy Hobbit 应用素材展示表](../../images/Cozy%20Hobbit%20%E5%BA%94%E7%94%A8%E7%B4%A0%E6%9D%90%E5%B1%95%E7%A4%BA%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款温馨的预算或生产力应用创建一个精致的奇幻应用素材展示表，展示一张宽幅主图，并在其下方展示 12 个透明 PNG 风格的图标素材。
+
+画布：方形展示项目，约 768×768 像素，暖奶油色背景，带有细腻的纸张纹理和柔和阴影。采用简洁的应用设计展示布局，包含圆角卡片、柔和的米色分隔线以及手工绘制的故事书美学风格。
+
+主图部分：在顶部放置一张宽幅全景插图，标注为 Hero Art。主图应描绘黄昏时分金色的乡村中，一座异想天开的霍比特风格山坡小屋：长满苔藓的绿色草屋顶、圆形的蓝绿色木门、两扇发光的圆形窗户、通向门口的石子路、入口周围的野花和藤蔓、背景中连绵的丘陵和山谷、左侧的乡村栅栏、柔和温暖的天空，呈现水彩/水粉画质感。在主图标题下方，包含一行文字：'{argument name="hero filename" default="hero-cottage-wide.png"}' 是公认的宽幅生成式 PNG 主图基准。
+
+素材网格：在主图部分下方，创建 12 张圆角素材卡片，排列为 2 行 6 列。每张卡片顶部设有棋盘格透明预览区，底部为白色/奶油色标签区。图标应为独立、具有手绘感、温暖的奇幻 UI 素材，并以透明 PNG 形式呈现。
+
+12 张卡片从左至右，先上后下，顺序如下：
+1. 宽幅小屋生成式 PNG — 小屋景观的微缩宽幅裁剪；描述：宽幅裁剪安全的手绘小屋场景。
+2. 植物藤蔓透明 PNG — 精致的开花藤蔓枝条；描述：主要的绘画风格藤蔓装饰。
+3. 植物嫩芽透明 PNG — 带有古金色花蕾的小型垂直嫩芽；描述：带有古金色花蕾的独特小嫩芽。
+4. 植物角落簇透明 PNG — 带有白花和卷须的角落装饰；描述：带有花朵和卷须的角落装饰。
+5. 平衡幼苗印章透明 PNG — 带有简单绿色幼苗符号的圆形金币/印章；描述：平衡卡幼苗金币。
+6. 指标支出钱包指标卡图标 PNG — 带有带子、硬币和嫩芽的小棕色皮夹；描述：月度支出钱包图标。
+7. 指标储蓄叶片指标卡图标 PNG — 带有白色叶片符号和微小闪光点的圆形绿色奖章；描述：储蓄叶片图标。
+8. 指标账单日历指标卡图标 PNG — 带有金色装订和花朵的小日历图标；描述：待办账单日历图标。
+9. 标签页首页小屋标签栏图标 PNG — 小型圆门小屋入口图标；描述：首页标签页图标。
+10. 标签页账户宝箱标签栏图标 PNG — 带有绿色装饰的小型金色宝箱；描述：账户/宝箱标签页图标。
+11. 标签页添加加号标签栏图标 PNG — 带有奶油色加号的绿色圆形奖章；描述：中央添加/加号奖章。
+12. 标签页目标花盆标签栏图标 PNG — 带有小绿芽的赤陶花盆；描述：目标/花盆标签页图标。
+
+视觉风格：柔和的故事书水彩和水粉渲染，温暖的金色光影，大地绿、奶油色、赭石色、苔藓色和蓝绿色点缀。图标应看起来像是来自同一设计系统的连贯应用素材，具有细腻的阴影、手绘边缘，并在小尺寸下保持高可读性。
+
+文字风格：每张卡片上使用清晰的粗体深色衬线或半衬线标题，下方配以较小的灰色描述性文字。保持文件名/类别用语的可读性，并保持对齐一致。
+
+约束条件：使用且仅使用一个顶部主图面板和 12 张素材卡片。所有图标预览均需保持在棋盘格透明背景上。不得包含额外素材、人物或水印。应用主题应体现 {argument name="app theme" default="cozy hobbit finance app"} 的感觉，主门颜色为 {argument name="door color" default="teal green"}，整体色调为 {argument name="color palette" default="warm golden countryside greens and creams"}。
+
+[English]
+Goal: Create a polished fantasy app asset sheet for a cozy budgeting or productivity app, showing one wide hero illustration and exactly 12 transparent PNG-style icon assets beneath it.
+
+Canvas: Square presentation board, about 768×768 px, warm cream background with subtle paper texture and soft shadows. Use a clean app-design showcase layout with rounded cards, muted beige dividers, and a handcrafted storybook aesthetic.
+
+Hero section: At the top, place a wide panoramic illustration labeled Hero Art. The hero image should depict a whimsical hobbit-style hillside cottage in a golden countryside at sunset: a mossy green grass roof, round teal-green wooden door, two glowing circular windows, stone path leading toward the door, wildflowers and vines around the entrance, rolling hills and valleys in the background, a rustic fence on the left, soft warm sky, painterly watercolor/gouache finish. Under the hero title, include the line: '{argument name="hero filename" default="hero-cottage-wide.png"}' is the accepted wide generated PNG hero baseline.
+
+Asset grid: Below the hero section, create exactly 12 rounded asset cards arranged in 2 rows of 6. Each card has a checkerboard transparency preview area on top and a white/cream label area at the bottom. The icons should be isolated, painterly, warm fantasy UI assets with transparent PNG presentation.
+
+The 12 cards, in order from left to right, top row then bottom row:
+1. Hero cottage wide generated PNG — miniature wide crop of the cottage landscape; description: Wide crop-safe hand-painted cottage scene.
+2. Botanical vine transparent PNG — delicate flowering vine branch; description: Primary painterly vine ornament.
+3. Botanical sprig buds transparent PNG — small vertical sprig with antique-gold buds; description: Small distinct sprig with antique-gold buds.
+4. Botanical corner cluster transparent PNG — corner ornament with white flowers and tendrils; description: Corner ornament with flowers and tendrils.
+5. Balance seedling seal transparent PNG — circular gold coin/seal with a simple green seedling symbol; description: Balance-card seedling coin.
+6. Metric spend wallet metric card icons PNG — small brown leather wallet with a strap, coin, and sprout; description: Monthly spend wallet icon.
+7. Metric savings leaf metric card icons PNG — round green medallion with white leaf symbol and tiny sparkles; description: Savings leaf icon.
+8. Metric bills calendar metric card icons PNG — small calendar icon with golden binding and flowers; description: Upcoming bills calendar icon.
+9. Tab home cottage tab bar icons PNG — small round-door cottage entrance icon; description: Home tab pictorial icon.
+10. Tab accounts chest tab bar icons PNG — small golden treasure chest with green accents; description: Accounts/chest tab icon.
+11. Tab add plus tab bar icons PNG — green circular medallion with a cream plus sign; description: Central add/plus medallion.
+12. Tab goals pot tab bar icons PNG — terracotta flower pot with a small green sprout; description: Goals/pot tab icon.
+
+Visual style: Soft storybook watercolor and gouache rendering, warm golden lighting, earthy greens, cream, ochre, moss, and teal accents. Icons should look like cohesive app assets from the same design system, with subtle shadows, hand-painted edges, and high readability at small sizes.
+
+Text style: Use clear bold dark serif or semi-serif titles on each card, with smaller gray descriptive text beneath. Keep the filename/category phrasing readable and aligned consistently.
+
+Constraints: Use exactly one top hero panel and exactly 12 asset cards. Keep all icon previews on checkerboard transparency backgrounds. No extra assets, no people, no watermark. The app theme should feel like {argument name="app theme" default="cozy hobbit finance app"}, with the main door color {argument name="door color" default="teal green"} and overall palette {argument name="color palette" default="warm golden countryside greens and creams"}.
+```
+
+**来源：** [@Andrew Jiang](https://x.com/andrewjiang/status/2072738733858939135) | 2026-07-02
+
+---
+
+### 🖥️ 例 2990：红灯下的瓦格纳安魂曲
+
+![红灯下的瓦格纳安魂曲](../../images/%E7%BA%A2%E7%81%AF%E4%B8%8B%E7%9A%84%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%AE%89%E9%AD%82%E6%9B%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感、极具戏剧性的 16:9 宽屏超现实主义写实场景，视角设定在 {argument name="city" default="哥伦比亚卡利"} 一个雨天黄昏时分停在红灯前的车内。在左下角前景中，展示一位中老年拉丁裔男子坐在驾驶座上的侧影，他神情忧郁且情绪激动，一只手托着嘴，另一只手握着方向盘；仪表盘在黑暗中发出红光。透过挡风玻璃，展示湿润反光的城市街道、汽车尾灯、棕榈树、远处的建筑以及暴风雨下橙黑色的天空。在城市上方，构筑一个宏大的瓦格纳式音乐风暴幻象：一位长相酷似 {argument name="conductor" default="塞尔吉乌·切利比达克"} 的白发老指挥家耸立在云端，双臂高举，指挥着一场末日般的安魂曲。在他周围，精确描绘三个主要的音乐团体：左上方身着浅色长袍的闪耀合唱团、合唱团下方由小提琴手和大提琴手组成的深色管弦乐队，以及右中方被光波部分吞没的另一组音乐家。添加散落在场景中、清晰可见的漂浮乐谱纸张，至少要有 8 张，在风中弯曲飞舞。超自然风暴应形成一个巨大的金色与白色音乐能量漩涡，从右侧向指挥家席卷而来，伴随着火花、雨水、薄雾、大教堂般的建筑结构、烛光哥特细节以及如海浪般翻滚的云层。红色的交通信号灯必须在挡风玻璃右侧显眼突出，发出强烈的红光并映照在湿润的道路上，将平凡的交通停留与震撼的神圣音乐幻象联系起来。氛围：亲密的悲伤转化为宏大的管弦乐风暴，优美、哀伤、电影感、高对比度、巴洛克式光影、体积云、超高细节，无易读文字，无水印。
+
+[English]
+Create a cinematic, ultra-dramatic wide 16:9 photoreal surreal scene viewed from inside a car stopped at a red traffic light in {argument name="city" default="Cali, Colombia"} during a rainy dusk. In the lower left foreground, show one middle-aged to elderly Latin American man in profile sitting in the driver’s seat, pensive and emotional, resting his hand against his mouth while holding the steering wheel; dashboard gauges glow red in the darkness. Through the windshield, show wet reflective city streets, car taillights, palm trees, distant buildings, and mountains under a stormy orange-black sky. Above the city, create a massive Wagnerian musical storm vision: an elderly gray-haired conductor resembling {argument name="conductor" default="Sergiu Celibidache"} towers in the clouds with both arms raised, conducting an apocalyptic requiem. Around him, depict exactly three major musical groups: one glowing choir in pale robes on the upper left, one dark orchestra with violinists and cellists below the choir, and one additional cluster of musicians partly swallowed by waves of light near the center-right. Add floating sheets of musical notation as distinct papers scattered through the scene, at least eight visible, bending and flying in the wind. The supernatural storm should form one huge swirling vortex of golden-white musical energy sweeping from the right side toward the conductor, with sparks, rain, mist, cathedral-like architecture, candlelit gothic details, and crashing wave-like clouds. The red traffic light must be prominent on the right side of the windshield, glowing intensely and reflecting on the wet road, linking the mundane traffic stop to the overwhelming sacred-music vision. Mood: intimate grief transformed into a monumental orchestral tempest, beautiful, mournful, cinematic, high contrast, baroque lighting, volumetric clouds, hyper-detailed, no readable text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2072669798064931155) | 2026-07-02
+
+---
+
+### 🖥️ 例 2998：紫色烘焙坊插画提示词
+
+![紫色烘焙坊插画提示词](../../images/%E7%B4%AB%E8%89%B2%E7%83%98%E7%84%99%E5%9D%8A%E6%8F%92%E7%94%BB%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+位于英国街道的 {argument name="bakery color" default="紫色"} 烘焙坊，是一个 {argument name="building style" default="街角双层店面"}，售卖各种面包并吸引了许多顾客。门口装饰着鲜花，门前摆放着供顾客坐着吃面包的椅子，门口有一棵紫色的树，停着一辆自行车，还有几只小狗。{argument name="art style" default="简约插画风格"}，手绘不规则线条，线条带有轻微抖动，可爱风格 --ar 9:16
+
+[English]
+The {argument name="bakery color" default="Purple"} Bakery on the British Street, a {argument name="building style" default="two-story storefront at the corner of the street"}, sells a variety of breads and attracts a lot of customers. The door is decorated with bright flowers, there are chairs at the door where customers sit and eat bread, there is a purple tree at the door, there is a bicycle parked at the door, and there are puppies at the door. {argument name="art style" default="Simple illustration style"}, hand-drawn irregular lines, lines have a slight shake, cute style --ar 9:16
+```
+
+**来源：** [@Nas](https://x.com/Nas_tech_AI/status/2072640817274241257) | 2026-07-02
+
+---
+
+### 🖥️ 例 3000：大理石台阶上微醺的商务人士
+
+![大理石台阶上微醺的商务人士](../../images/%E5%A4%A7%E7%90%86%E7%9F%B3%E5%8F%B0%E9%98%B6%E4%B8%8A%E5%BE%AE%E9%86%BA%E7%9A%84%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的动漫风格插画，背景为明亮的地中海建筑风格：一位时尚的成年男性，{argument name="character name" default="Oyagi"}，正俏皮地在宏伟的新古典主义白色建筑前，半走半跳地穿过巨大的白色大理石台阶。他身着剪裁利落的 {argument name="suit color" default="navy blue"} 西装，白色衬衫领口微敞，系着深色皮带，脚蹬光亮的黑色皮鞋，戴着深色墨镜；他那头短发因动作而显得有些凌乱。姿势设定为迈步中，一膝抬起，一脚着地，躯干微微后仰，一只手靠近嘴边，仿佛拿着小酒杯或香烟，另一只手臂向外伸展，手指放松，展现出微醺但自信、无忧无虑的状态。环境应包含极宽的对称白色台阶、高大的矩形立柱、深蓝色玻璃门、清爽的大理石墙板，建筑左上方和右上方各有一棵高大的深色柏树，天空是明亮无云的钴蓝色。运用强烈的正午阳光，形成高对比度，冷蓝色的阴影投射在台阶上，并清晰地呈现出跳舞男子在大理石台阶上拉长的投影。构图为竖构图，全身主体在中等偏小比例，居于台阶中心，强调宏伟的建筑和干净的几何透视。视觉风格：高端日本动漫插画，线条干净，光影写实，建筑细节清晰，饱和的蓝色与白色调，优雅的夏季氛围，无人群，无车辆，无杂物。在右下角添加手写风格的签名文字 {argument name="signature text" default="Oyagi"}，并在其上方标注小字日期 {argument name="date text" default="July 2, 2026"}。
+
+[English]
+Create a polished anime-style illustration in a bright Mediterranean architectural setting: a stylish adult man, {argument name="character name" default="Oyagi"}, dancing playfully halfway down a vast white marble staircase in front of a monumental white neoclassical building. He wears a sharp {argument name="suit color" default="navy blue"} suit, white dress shirt slightly open at the collar, dark belt, glossy black dress shoes, and dark sunglasses; his short dark hair is tousled by motion. Pose him mid-step with one knee lifted, one foot planted, torso leaning back slightly, one hand near his mouth as if holding a small drink or cigarette, and the other arm extended outward with relaxed fingers, suggesting he is tipsy but confident and carefree. The environment should feature extremely wide symmetrical white stairs, tall rectangular columns, deep blue glass doors, crisp marble wall panels, two tall dark cypress trees framing the building near the top left and right, and a vivid cloudless cobalt-blue sky. Use strong midday sunlight with high contrast, cool blue shadows cast across the stairs, and a clear elongated shadow of the dancing man on the marble steps. Composition is vertical, full-body subject small-to-medium in scale centered on the staircase, emphasizing the grand architecture and clean geometric perspective. Visual style: high-end Japanese anime illustration with clean linework, realistic lighting, crisp architectural detail, saturated blues and whites, elegant summer atmosphere, no crowd, no vehicles, no clutter. Add small handwritten-style signature text at the bottom right reading {argument name="signature text" default="Oyagi"} and a small date above it reading {argument name="date text" default="July 2, 2026"}.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2072639405492457615) | 2026-07-02
+
+---
+
+### 🖥️ 例 3002：手捧茶杯的安静动漫女学生
+
+![手捧茶杯的安静动漫女学生](../../images/%E6%89%8B%E6%8D%A7%E8%8C%B6%E6%9D%AF%E7%9A%84%E5%AE%89%E9%9D%99%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和、低调的动漫风格肖像，描绘一位处于安静自然状态的少女。她留着 {argument name="hair color" default="深棕色"} 中长发，发型略显凌乱，长刘海垂在额前，脸颊旁有几缕碎发，头顶右上方有一小撮向外翘起的头发。她的双眼半睁，略显疲惫，呈深棕色，表情中性且带着淡淡的沉思，脸颊上有浅浅的红晕。画面为半身像，她身体微向右转，视线看向左下方，双手将一个装有琥珀色茶水的透明玻璃杯捧在胸前。她身穿日本校服：白色衬衫，领口系着 {argument name="ribbon color" default="深红色"} 蝴蝶结，外搭一件超大号的 {argument name="cardigan color" default="暖米色"} 针织开衫，长袖遮住了部分手部；下部中央可见一颗深色纽扣。构图简洁亲密，人物略微偏左居中，背景为纯净的暖奶油色。采用细腻的手绘 2D 动漫插画风格，线条纤细且带有素描感，色彩为柔和的大地色系，搭配轻微的赛璐璐阴影和微妙的纸张纹理，对比度较低，无文字或装饰元素。整体氛围保持平静、忧郁且自然，避免使用高光、超写实主义或过于华丽的数字特效。
+
+[English]
+Create a soft, understated anime-style portrait of a teenage schoolgirl in a quiet candid moment. She has {argument name="hair color" default="dark brown"} medium-length slightly messy hair with long bangs falling over her forehead, a few loose strands around her face, and one small outward flick of hair near the upper right side of her head. Her eyes are half-lidded and tired-looking, colored deep brown, with a neutral, mildly pensive expression and faint blush marks on her cheeks. She is shown from the chest up, turned slightly to the viewer’s right while looking down-left, holding a clear glass tumbler of amber tea close to her chest with both hands. She wears a Japanese school uniform: a white collared shirt, a {argument name="ribbon color" default="dark red"} bow ribbon at the neck, and an oversized {argument name="cardigan color" default="warm beige"} knit cardigan with long sleeves covering part of her hands; include one visible dark button near the lower center. The composition is simple and intimate, with the character centered slightly left on a plain warm cream background. Use a delicate hand-drawn 2D anime illustration style with thin sketchy linework, muted earthy colors, soft cel shading, subtle paper-like grain texture, low contrast, and no text or decorative elements. Keep the mood calm, melancholic, and natural, avoiding glossy highlights, hyperrealism, or overly polished digital effects.
+```
+
+**来源：** [@abara / 囲図囿図囲](https://x.com/abaranche/status/2072635874073059507) | 2026-07-02
+
+---
+
+### 🖥️ 例 3004：复古 Aston Martin DB5 杂志内页设计
+
+![复古 Aston Martin DB5 杂志内页设计](../../images/%E5%A4%8D%E5%8F%A4%20Aston%20Martin%20DB5%20%E6%9D%82%E5%BF%97%E5%86%85%E9%A1%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="car model" default="007 Aston Martin DB5"} 创建一份复古奢华杂志档案内页，呈现为 James Bond 座驾的优雅编辑档案。
+
+画布：宽幅横向双页杂志排版，比例约为 16:9，暖象牙色纸张背景，带有细微的折痕、页边距、页码细节，以及受经典 GQ / 拍卖目录设计启发的精致印刷排版美学。
+
+布局：采用密集但平衡的拼贴布局。左页包含大标题区域、规格卡片、横跨下方的中央主车照片以及一排细节缩略图。右页包含引语排版、电影出场侧边栏、生平时间轴、堆叠的电影剧照、散落的纸质便签以及一张最后的 Bond 风格照片卡。
+
+主体：与 {argument name="character name" default="James Bond"} 相关的银色 Aston Martin DB5。中心图像展示了处于博物馆或工作室环境中的汽车，呈现前侧 45 度视角，展示镀铬格栅、圆形大灯、钢丝轮毂、引擎盖进气口以及写有“BMT 216A”的黑色车牌。在车身上添加小型说明条和绿色标签栏，如同博物馆的标注。
+
+文本内容：左侧包含一个巨大的标题“007”，数字中融入了手枪剪影，下方为粗体复古衬线字体的“ASTON MARTIN”和“DB5”。添加副标题：“世界上最著名的汽车”。添加一段简短的编辑段落，介绍 DB5 配备的各种装备，如何在《金手指》(Goldfinger) 中成为标志性符号，并始终与 Bond 的公众形象紧密相连。添加一句核心引语：“优雅、致命且低调的英伦风范——绅士的完美工具。”下方包含一个小型的签名式署名。右侧添加一个标题为“ON SCREEN”的侧边栏，包含 5 个条目：“1964 GOLDFINGER”、“1965 THUNDERBALL”、“1995 GOLDENEYE”、“2012 SKYFALL”和“2021 NO TIME TO DIE”。最右侧添加一个标题为“LIFE STORY”的侧边栏，包含 6 个年份条目：“1963”、“1964”、“1965”、“1969”、“1997”和“2010”。添加一张标题为“Q’S NOTE”的便签卡，内容为：“注意了，007——这是你的车。”——Q。添加一个标题为“BUILT TO THRILL”的版块和一个小型的“DID YOU KNOW?”冷知识区块。底部添加一个标题为“OWNERS & CUSTODIANS: CHASSIS DB5/1486/R”的版块，包含 4 列车主持有期。
+
+包含的离散视觉元素：1 张大型中央主车照片；1 张左上角裁剪的 DB5 参考照片；1 张深绿色“BOND EQUIPMENT”装备卡；右上角 5 张堆叠的电影剧照缩略图；左下方 4 张小型“形态、细节与姿态”缩略图；右下中心附近 3 张散落重叠的宝丽来风格细节照片；右下角 1 张展示一名身着西装的男子站在车旁的肖像/照片卡；1 个规格参数框；1 个圆形分支机构审批印章；1 张奶油色 Q’s note 便签卡；1 张奶油色 built-to-thrill 信息卡。
+
+视觉风格：精致的编辑设计，采用奶油色纸张、森林绿点缀、勃艮第红标题文字、黑色衬线字体、细分割线、陈旧的纸质便签、回形针细节、略微褪色的照片质感、重叠卡片的真实阴影以及细微的印刷颗粒感。使用高分辨率的写实汽车图像与精准的杂志排版相结合。
+
+约束条件：保持页面可读性，但不要过于刻板；保留精确计数的照片卡和侧边栏数量；仅使用英文文本；无现代 UI 元素，无霓虹色，无水印，除可见的 DB5 图像外，不得出现其他车辆。
+
+[English]
+Goal: Create a vintage luxury magazine archive spread about {argument name="car model" default="007 Aston Martin DB5"}, presented as an elegant editorial dossier for a James Bond vehicle.
+
+Canvas: Wide horizontal double-page magazine spread, approximately 16:9, warm ivory paper background with subtle fold lines, margins, page-number details, and a refined print-layout aesthetic inspired by classic GQ / auction-catalog design.
+
+Layout: Use a dense but balanced collage layout. Left page features the large title area, a specifications card, a main hero car photo across the lower center, and a row of detail thumbnails. Right page features quote typography, a film-appearance sidebar, a life-story timeline, small stacked movie stills, loose paper notes, and a final Bond-style photo card.
+
+Main subject: A silver Aston Martin DB5 associated with {argument name="character name" default="James Bond"}. The central image shows the car in a museum or workshop setting, front three-quarter view, chrome grille, round headlights, wire wheels, hood scoop, and black license plate reading “BMT 216A”. Add small caption strips and green label bars over the car, like museum callouts.
+
+Text content: Include a large left headline reading “007” with a pistol silhouette integrated into the numerals, then “ASTON MARTIN” and “DB5” in bold vintage serif type. Add a subtitle: “The Most Famous Car in the World”. Add a short editorial paragraph about the DB5 being fitted with gadgets, becoming iconic in Goldfinger, and remaining tied to Bond’s public image. Add a central quote: “Refined, lethal and quietly British — the gentleman’s tool, perfected.” Include a small signature-style credit beneath it. Add a right sidebar titled “ON SCREEN” with exactly 5 entries labeled: “1964 GOLDFINGER”, “1965 THUNDERBALL”, “1995 GOLDENEYE”, “2012 SKYFALL”, and “2021 NO TIME TO DIE”. Add a far-right sidebar titled “LIFE STORY” with exactly 6 year entries: “1963”, “1964”, “1965”, “1969”, “1997”, and “2010”. Add a note card titled “Q’S NOTE” with the quote: “Now pay attention, 007 — this is your car.” — Q. Add a section titled “BUILT TO THRILL” and a small “DID YOU KNOW?” trivia block. Add a bottom section titled “OWNERS & CUSTODIANS: CHASSIS DB5/1486/R” with exactly 4 owner-period columns.
+
+Discrete visual elements to include: exactly 1 large central hero car photo; exactly 1 top-left clipped reference photo of the DB5; exactly 1 dark green “BOND EQUIPMENT” card listing gadgets; exactly 5 stacked film-still thumbnails on the upper right; exactly 4 small “form, detail & attitude” thumbnails along the lower left; exactly 3 loose overlapping Polaroid-style detail photos near the lower center-right; exactly 1 bottom-right portrait/photo card showing a suited man standing near the car; exactly 1 specifications box; exactly 1 round branch-approval stamp; exactly 1 cream Q’s note card; exactly 1 cream built-to-thrill information card.
+
+Visual style: Sophisticated editorial design with cream paper, forest green accents, burgundy red title text, black serif typography, thin divider lines, aged paper notes, paperclip detail, slightly faded photo reproduction, realistic shadows from overlapping cards, and subtle print grain. Use high-resolution photorealistic car imagery mixed with precise magazine typography.
+
+Constraints: Keep the spread readable but not overly sterile; preserve the exact counted number of photo cards and sidebars; use English text only; no modern UI elements, no neon colors, no watermark, no extra cars beyond the visible DB5 images.
+```
+
+**来源：** [@R@aiaicreate](https://x.com/aiaicreate/status/2072623272697725013) | 2026-07-02
+
+---
+
+### 🖥️ 例 3011：动漫赛车手角色设计图
+
+![动漫赛车手角色设计图](../../images/%E5%8A%A8%E6%BC%AB%E8%B5%9B%E8%BD%A6%E6%89%8B%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端动漫角色设计图，
+电影级赛车手概念艺术，
+专业 AAA 游戏角色设定集布局，
+简洁的未来感 UI 设计项目，
+高性能赛车美学，
+高级运动动漫写实风格，
+{argument name="accent color" default="crimson red"}
+
+[English]
+ultra high-end anime character design sheet,
+cinematic racing driver concept art,
+professional AAA game character bible layout,
+clean futuristic UI design board,
+high-performance motorsport aesthetic,
+premium sports anime realism,
+{argument name="accent color" default="crimson red"}
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2072584028075782235) | 2026-07-02
+
+---
+
+### 🖥️ 例 3015：太空舱中的全息代码狐狸
+
+![太空舱中的全息代码狐狸](../../images/%E5%A4%AA%E7%A9%BA%E8%88%B1%E4%B8%AD%E7%9A%84%E5%85%A8%E6%81%AF%E4%BB%A3%E7%A0%81%E7%8B%90%E7%8B%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温馨的电影级科幻插图，描绘黄昏时分舒适的太空舱内的一个 AI 自画像。中心主体是一只巨大的漂浮狐狸状精灵，完全由半透明的橙色发光代码丝带和微小符号构成，丝带缠绕成高大的毛茸茸轮廓，长长的卷曲尾巴横跨桌面；它的脸部被一个明亮的八角星/星形标志所取代，该标志在橙色球体中心发出白黄色的光。代码丝带构成的毛发应包含微小且清晰可见的编程字符、圆点、心形、UI 图标、闪烁的余烬以及层叠的半透明线条，仿佛该生物是由文字编织而成。场景设定在一个黑暗的圆形驾驶舱内，配有琥珀色的边缘照明、磨损的面板、便签、电缆，左侧有一个巨大的椭圆形窗户，可以看到远处山脉上紫橙色的落日天空。包含 4 个清晰可见的屏幕：左下角是一个类似笔记本电脑的代码编辑器，右上角是一个大型的看板/项目，中右侧是一个节点图或工作流屏幕，右下角是一个小型代码/状态屏幕。桌面上摆放着一本带有手写笔记的打开的笔记本和一支笔、一个带有发光心形图标的深色咖啡杯、一个带有橙色发光按钮的小型控制面板、一盆小盆栽和一叠书。采用具有柔和体积光、深青色和棕色阴影、橙色全息光、轻柔尘埃粒子以及既神奇又具科技感的绘画风格，呈现高细节的数字艺术效果。让狐狸精灵成为不可忽视的焦点，居中且明亮，不要包含任何可读的品牌名称或水印。可选自定义：中心生物可以代表 {argument name="AI identity" default="Fable 5"}，发光标志可以是 {argument name="core symbol" default="八角星"}，环境可以是 {argument name="cockpit setting" default="舒适的太空舱"}，调色板可以是 {argument name="color palette" default="带有深青色阴影的橙色全息光"}，窗外景观可以显示 {argument name="outside view" default="远处山脉上的紫橙色落日"}。
+
+[English]
+Create a warm cinematic sci-fi illustration of an AI self-portrait inside a cozy spaceship cockpit at dusk. The central subject is a large floating fox-like spirit made entirely from translucent glowing orange ribbons of code and tiny symbols, with the ribbons wrapping into a tall furry silhouette and a long curling tail flowing across the desk; its face is replaced by a bright eight-rayed asterisk/star emblem glowing white-yellow at the center of an orange orb. The code-ribbon fur should contain tiny legible-looking programming characters, dots, hearts, and UI glyphs, sparkling embers, and layered translucent strands, as if the creature is woven from text. Set the scene in a dark rounded cockpit cabin with amber rim lighting, worn panels, sticky notes, cables, and a large oval window on the left showing a purple-orange sunset sky over distant mountains. Include exactly 4 visible screens: one laptop-like code editor at lower left, one large upper-right kanban/project board with colored cards, one mid-right node graph or workflow screen, and one small lower-right code/status screen. On the desk include an open notebook with handwritten notes and a pen, a dark coffee mug with a glowing heart icon, a small control pad with orange illuminated buttons, a small potted plant, and a stack of books. Use a painterly high-detail digital art style with soft volumetric glow, dark teal and brown shadows, orange holographic light, gentle dust particles, and a magical yet technical atmosphere. Make the fox spirit the unmistakable focal point, centered and luminous, with no readable brand names or watermarks. Optional customization: the central creature can represent {argument name="AI identity" default="Fable 5"}, the glowing emblem can be {argument name="core symbol" default="eight-rayed asterisk star"}, the environment can be {argument name="cockpit setting" default="cozy spaceship cockpit"}, the palette can be {argument name="color palette" default="orange holographic glow with dark teal shadows"}, and the window view can show {argument name="outside view" default="purple-orange sunset over distant mountains"}.
+```
+
+**来源：** [@AGIラボ](https://x.com/ctgptlb/status/2072571559731138591) | 2026-07-02
+
+---
+
+### 🖥️ 例 3050：2000 年代复古数码相机咖啡馆人像
+
+![2000 年代复古数码相机咖啡馆人像](../../images/2000%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用附带的图片作为主要面部参考。在最大程度上保持面部特征的准确性，包括可识别的面部结构、面部比例、眼睛形状、鼻子形状、嘴唇形状、下颌线、颧骨结构、自然不对称性、皮肤特征、面部和谐度以及整体外观。保持真实的皮肤纹理、毛孔和自然的脸部细节。请勿进行美化、改变种族、更改年龄、修改面部特征或生成其他人的形象。最终图像应清晰地呈现参考对象，同时自然地融入下文描述的场景、光影、表情和相机特性中。
+
+创作一张超写实的怀旧咖啡馆人像，模拟 2000 年代初期高端紧凑型数码相机的拍摄效果，融合直闪光与柔和的午后日光。图像具有梦幻般、不完美的快照质感，由于自然的手持相机抖动、细微的主体动作以及飘动的发丝，呈现出轻微的动态模糊。氛围显得随性、亲密且极其真实。
+
+{argument name="subject" default="一位女性"}独自坐在舒适的咖啡馆桌旁，窗户透进明亮的阳光。她没有面向窗外，而是微微转向镜头，垂下眼帘，表情安静而沉思。一只手随意地拿着咖啡杯靠近唇边，另一只手自然地放在桌上。几缕发丝在脸颊上轻轻拂动，仿佛被室内的微风吹拂。细微的手部动作、飘动的头发、不断变化的窗户倒影以及轻微的相机摇晃，营造出逼真的梦幻般动态模糊感。
+
+她穿着一件米色超大款针织开衫，内搭柔和的鼠尾草绿上衣，下身穿着宽松的炭灰色长裤，佩戴着纤细的复古腕表和精致的极简主义首饰。桌上放着一杯{argument name="beverage" default="带有拉花的卡布奇诺"}、一本小笔记本，以及一束用牛皮纸包裹的{argument name="flowers" default="淡桃色玫瑰"}。温暖的木质家具、室内植物、窗户倒影以及柔焦的咖啡馆细节，营造出宁静而亲密的日常生活氛围。
+
+通过具有低解析力、明显的球差、轻微的对焦漂移、光学光晕、细微的遮蔽眩光、提亮的阴影、提亮的黑色、柔和的溢光高光、降低的微对比度、JPEG 柔和感以及真实的 CCD 数码相机色彩渲染的复古厚镜头拍摄。图像感觉是自然的瑕疵，而非人工滤镜效果。
+
+受控的过曝微高光自然地出现在发丝边缘、光泽的嘴唇、手表镜面、首饰、咖啡杯边缘、花瓣、笔记本边缘、窗户倒影、开衫纤维以及明亮的户外光线处。闪光灯和阳光透过复古镜头柔和地晕染到周围色调中，同时保持物理上的真实感。不包含闪光效果、星光叠加或星芒伪影。
+
+[English]
+Use the attached image as the primary facial reference. Preserve the exact facial identity, recognizable facial structure, facial proportions, eye shape, nose shape, lip shape, jawline, cheekbone structure, natural asymmetry, skin characteristics, facial harmony, and overall appearance with maximum accuracy. Maintain realistic skin texture, pores, and natural facial details. Do not beautify, alter ethnicity, change age, modify facial features, or generate a different person. The final image should clearly resemble the reference subject while naturally fitting the scene, lighting, expression, and camera characteristics described below.
+
+Create an ultra-realistic nostalgic café portrait captured on a premium early-2000s compact digital camera, blending direct flash with soft afternoon daylight. The image has a dreamy, imperfect snapshot quality with gentle motion softness caused by natural handheld camera movement, subtle subject motion, and shifting strands of hair. The atmosphere feels candid, intimate, and effortlessly authentic.
+
+The {argument name="subject" default="woman"} sits alone at a cozy café table beside a large sunlit window. Instead of facing outward, she is turned slightly toward the camera while lowering her gaze with a quiet, thoughtful expression. One hand loosely holds a ceramic coffee cup near her lips while the other rests naturally on the table. A few strands of hair move softly across her face as if caught by a subtle indoor breeze. The small hand movement, shifting hair, changing window reflections, and slight camera sway create realistic dream-like motion softness.
+
+She wears an oversized cream-colored knit cardigan layered over a soft sage-green top, loose charcoal trousers, a slim vintage wristwatch, and delicate minimalist jewelry. On the table sits a {argument name="beverage" default="cappuccino with foam art"}, a small notebook, and a bouquet of {argument name="flowers" default="pale peach roses"} wrapped in kraft paper. Warm wooden furniture, indoor plants, window reflections, and softly blurred café details create a calm and intimate everyday atmosphere.
+
+Photographed through premium vintage thick optics with low resolving power, pronounced spherical aberration, gentle focus drift, optical halation, subtle veiling flare, lifted shadows, lifted blacks, soft blooming highlights, reduced micro-contrast, JPEG softness, and authentic CCD digicam color rendering. The image feels naturally imperfect rather than artificially filtered.
+
+Controlled blown-out micro highlights appear naturally along hair edges, glossy lips, watch crystal, jewelry, coffee cup rims, flower petals, notebook edges, window reflections, cardigan fibers, and bright outdoor light. Flash and sunlight softly bloom into surrounding tones through the vintage optics while remaining physically realistic. No glitter effects, sparkle overlays, or starburst artifacts.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2072512875135222091) | 2026-07-02
+
+---
+

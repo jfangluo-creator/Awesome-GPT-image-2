@@ -4420,3 +4420,199 @@ Constraints: Keep the design consistent across all 3 views, preserve the same ou
 
 ---
 
+### 🧍 例 2976：大理石大厅中的纹身动漫男子
+
+![大理石大厅中的纹身动漫男子](../../images/%E5%A4%A7%E7%90%86%E7%9F%B3%E5%A4%A7%E5%8E%85%E4%B8%AD%E7%9A%84%E7%BA%B9%E8%BA%AB%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的动漫风格肖像，主角是一位美丽的中性化年轻男子 {argument name="character name" default="Smar"}，画面展示从大腿上部到头部的全身像，背景为明亮的白色新古典主义大厅，配有高耸的大理石柱、华丽的拱门、柔和的阳光和淡雅的奢华氛围。他拥有 {argument name="hair color" default="凌乱的黑色短发，带有淡淡的灰调高光"}，长长的凌乱刘海遮住了一只眼睛，皮肤苍白，身材纤细但肌肉线条分明，锁骨清晰，腰身窄小，表情冷静而迷人，嘴唇微张，灰蓝色眼睛。让他身穿一件敞开的黑色无袖连帽拉链夹克，松垮地挂在肩上，拉链完全拉开，露出胸部和腹肌，搭配宽松的黑色抽绳运动裤；双手随意地插在裤兜里。将精致的黑色纹身作为主要的视觉特征：覆盖双臂和双手的全花卉蕾丝纹身袖，从下腹部和臀部向上延伸的装饰性黑色纹身，侧肋纹身，以及爬上脖子侧面的深色植物纹身。佩戴一条带有长十字吊坠的细银项链和小型垂坠耳环。采用精致的半写实日本插画风格，线条细腻，阴影柔和且富有光泽，采用戏剧性的时尚编辑姿势，对皮肤、布料褶皱、纹身、珠宝和发丝进行高细节刻画。构图为 3:4 竖幅，人物居中，建筑背景柔和模糊，采用白色和炭灰色调，柔和的背光，优雅而感性的氛围，无露骨内容，无额外角色。可选择在右上身区域附近添加一个小的白色手写签名 {argument name="signature text" default="Smar"}。
+
+[English]
+Create a highly detailed anime-style portrait of a beautiful androgynous young man named {argument name="character name" default="Smar"}, shown from upper thighs to head in a bright white neoclassical hall with tall marble columns, ornate arches, soft sunlight, and a pale luxury atmosphere. He has {argument name="hair color" default="messy black hair with subtle ash highlights"}, long tousled bangs partially covering one eye, pale skin, a slim but muscular defined torso, sharp collarbones, narrow waist, and a calm alluring expression with slightly parted lips and gray-blue eyes. Dress him in an open black sleeveless hooded zip jacket hanging loose off the shoulders and unzipped to fully reveal the chest and abs, paired with loose black drawstring athletic pants; his hands are tucked casually into the pants pockets. Add intricate black tattoo work as the main visual feature: full floral lace-like tattoo sleeves covering both arms and hands, ornamental black tattoos rising from the lower abdomen and hips, side-rib tattoos, and a dark botanical tattoo climbing the side of the neck. Include a thin silver chain necklace with a long cross pendant and small dangling earrings. Use a refined semi-realistic Japanese illustration style with delicate linework, glossy soft shading, dramatic fashion-editorial posing, high detail on skin, fabric folds, tattoos, jewelry, and hair strands. Composition should be vertical 3:4, centered figure, softly blurred architectural background, white and charcoal color palette, gentle backlighting, elegant sensual mood, no explicit nudity, no extra characters. Optionally place a small white handwritten signature reading {argument name="signature text" default="Smar"} near the right side of the upper torso area.
+```
+
+**来源：** [@しろまる](https://x.com/petitcococo/status/2072696511646093474) | 2026-07-02
+
+---
+
+### 🧍 例 2992：Ciao Nova 角色参考图
+
+![Ciao Nova 角色参考图](../../images/Ciao%20Nova%20%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="CIAO NOVA"} 创建一份详尽的角色参考图 / 模型图。这是一位拥有精致东亚面部特征、美艳动人的日本赛博朋克女性，专为动画/游戏制作而设计。
+
+画布：横向 4:3 角色参考图，背景为暖色调米白色旧纸张，带有细微的技术网格线和墨线边框，采用柔和的青色与青铜色调，高端概念艺术渲染，具有清晰细节的绘画式半写实风格。
+
+主要角色设计：一位年轻的日本女性，拥有凌厉的眉毛、杏仁眼、丰满的嘴唇、自信而严肃的表情，以及蓬松的波浪状 {argument name="hair color" default="深蓝色配青色发梢"} 头发，扎成凌乱的高马尾，带有松散的卷发。服装：青色长款赛博朋克风衣，配有高领、灰色短款背心、修身海军蓝战术裤、带有小包的宽大实用腰带、大腿绑带、露指手套、粗犷的黑色靴子、金耳环、发饰，以及一只戴在手臂上的厚重青铜与钢制机械护手，护手会发出明亮的蓝色闪电。风衣背面包含一个圆形金色闪电徽章，并作为一个独立的奖章呈现。整体氛围时尚、危险、敏捷、充满电能且叛逆。
+
+布局：将参考图排列成专业的角色设计项目。左侧放置大标题和档案文字，以及两幅大型半身肖像和特写细节图块。中心位置为占据主导地位的全身正面姿势（手部带有电能）、展示风衣徽章的全身背面视图，以及底部沿线排列的六个小型转向图。右侧包含标注清晰的研究面板，用于展示头发和面部、表情、调色板、装备与配饰、能力预览以及个人资料。
+
+文字内容：左上角大标题为 {argument name="headline text" default="CIAO NOVA"}。下方放置 4 行档案文字：“代号：NOVA”、“元素：静电”、“定位：突击者 - 破坏者”、“阵营：CIRCUIT LINE”。在顶部中心附近添加一个松散的圆形手写 Logo，写着“Ciao”并带有闪电标记。左下角微小的页脚文字为“CONFIDENTIAL // CIRCUIT LINE INTEL // FILE: NOVA_01”。右侧个人资料引言为 {argument name="quote" default="I don't break systems. I become the storm they can't control."}。右下角页脚为“CIAO NOVA // CIRCUIT LINE”以及一个小型的“CiaO”标记。
+
+需要包含的离散元素：左侧 2 幅大型半身肖像；1 个中央全身正面视图；1 个全身背面视图；底部中心沿线 6 个小型转向图；左下角 4 个标注为 DETAILS 的细节图块，展示眼睛特写、衣领/颈部细节、风衣拉链织物和机械手臂细节；1 个独立的圆形 EMBLEM 奖章面板；右上角面板中 3 个头发和面部研究头像；表情面板中 4 个表情头像，分别展示愤怒大喊、严肃正面、眯眼凝视和侧面轮廓；调色板面板中 6 个矩形色块：深青色、灰绿色、棕褐色、深棕色、柔和红棕色和海军蓝；3 个装备/配饰面板，展示机械护手、护手特写和腰带/臀部小包；2 个能力预览面板，展示电能球和角色发射闪电。
+
+视觉风格：高级科幻概念艺术图，动态笔触，写实的织物褶皱，细致的发丝，带有光晕的青色电能，青铜金属质感，细腻的纸张纹理，整洁的排版布局，小型大写技术标签，平衡的留白。
+
+约束条件：所有可见文字保持英文，严格遵守上述列出的数量要求，确保角色在所有姿势中保持一致，不添加额外角色，无水印，非照片级写实摄影，非动漫 Q 版风格。
+
+[English]
+Goal: Create a detailed character reference sheet / model sheet for {argument name="character name" default="CIAO NOVA"}, a stunningly beautiful Japanese cyberpunk woman with elegant East Asian facial features, designed for animation/game production.
+
+Canvas: Landscape 4:3 character sheet on warm off-white aged paper with thin technical grid lines, inked panel borders, muted teal and bronze palette, high-end concept art rendering, painterly semi-realistic style with crisp details.
+
+Main character design: A young Japanese woman with sharp brows, almond eyes, full lips, confident serious expression, and voluminous wavy {argument name="hair color" default="deep blue with teal tips"} hair tied in a messy high ponytail with loose curls. Outfit: teal long cyberpunk trench coat with high collar, grey cropped tank top, fitted navy tactical pants, wide utility belt with pouches, thigh straps, fingerless gloves, rugged black boots, gold earrings, hair ornaments, and a heavy bronze-and-steel mechanical gauntlet on one arm that emits bright blue lightning. Include a circular gold lightning emblem on the back of the coat and as a separate medallion. Mood is stylish, dangerous, agile, electric, and rebellious.
+
+Layout: Arrange the sheet like a professional character design board. Left side has the large title and dossier text, plus two large bust portraits and close-up detail tiles. Center has a dominant full-body front pose with electric energy in the hand, a full-body back view showing the coat emblem, and six small turnaround figures along the bottom. Right side contains labeled study panels for hair and face, expressions, palette, gear and accessories, ability preview, and profile.
+
+Text content: Large top-left title reads {argument name="headline text" default="CIAO NOVA"}. Under it place exactly 4 dossier lines: "CODE NAME: NOVA", "ELEMENT: STATIC", "ROLE: STRIKER - SABOTEUR", "FACTION: CIRCUIT LINE". Add a loose circular handwritten logo near the top center reading "Ciao" with a lightning mark. Bottom-left tiny footer reads "CONFIDENTIAL // CIRCUIT LINE INTEL // FILE: NOVA_01". Right profile quote reads {argument name="quote" default="I don't break systems. I become the storm they can't control."}. Bottom-right footer reads "CIAO NOVA // CIRCUIT LINE" and a small "CiaO" mark.
+
+Discrete elements to include exactly: 2 large bust portraits on the left; 1 central full-body front view; 1 full-body rear view; 6 small turnaround figures along the bottom center; 4 detail tiles in the lower-left labeled DETAILS showing an eye close-up, collar/neck detail, coat zipper fabric, and mechanical arm detail; 1 separate circular EMBLEM medallion panel; 3 hair and face study heads in the top-right panel; 4 expression heads in the expressions panel showing angry shouting, stern front view, narrowed intense gaze, and side profile; 6 rectangular color swatches in the palette panel: dark teal, grey-green, tan gold, dark brown, muted red-brown, and navy blue; 3 gear/accessory panels showing mechanical gauntlet, gauntlet close-up, and belt/hip pouch; 2 ability preview panels showing an electric energy sphere and the character firing lightning.
+
+Visual style: Premium sci-fi concept art sheet, dynamic brushwork, realistic fabric folds, detailed hair strands, glowing cyan electricity with bloom, bronze metallic accents, subtle paper grain, clean editorial layout, small uppercase technical labels, balanced negative space.
+
+Constraints: Keep all visible text in English, preserve the exact counts listed above, make the character consistent across all poses, no extra characters, no watermark, no photorealistic photography, no anime chibi style.
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2072664257267904852) | 2026-07-02
+
+---
+
+### 🧍 例 3024：赛博朋克忍者刺客角色设定图
+
+![赛博朋克忍者刺客角色设定图](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BF%8D%E8%80%85%E5%88%BA%E5%AE%A2%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="ZYRA"} 创建一份精致的动漫游戏角色参考设定图，副标题为 {argument name="subtitle" default="THE SHADOW PULSE"}，这是一位身着战术街头服饰的赛博朋克忍者刺客少女。
+
+画布：宽幅横向白色工作室角色设定图画布，边距整洁，带有深酒红色细分隔线，小型大写技术标签，高分辨率概念艺术展示。
+
+主体：一位身材苗条的年轻女性刺客，留着飘逸的长黑发，带有银白色挑染，眼神锐利，皮肤苍白，佩戴深酒红色面罩。服装配色以炭黑色、深海军蓝、酒红色、灰紫色和柔和灰色为主。她身穿露脐分层上衣、红黑配色飞行员夹克（袖口卷起）、宽松战术哈伦裤、绑带护胫、厚底红黑战斗靴、露指手套、腰包和腰带，并携带一把紧凑型黑色战术枪械。风格为半写实动漫/游戏概念艺术，线条清晰，具有绘画感阴影，带有微妙的赛璐珞高光，营造出时尚的未来派刺客氛围。
+
+布局：左侧放置一个大型全身英雄姿态，站姿放松，单侧胯部微沉，手持紧凑型枪械向下，长发和围巾状饰带呈对角线飘动。左上方添加大型酒红色徽标文字“ZYRA”，下方为副标题“THE SHADOW PULSE”以及一个锐利的三角形徽章。在英雄姿态下方添加一个小型档案块，包含可读文本：“NAME: ZYRA”、“TITLE: THE SHADOW PULSE”、“ROLE: SENTINEL / ASSASSIN”、“ORIGIN: UNKNOWN”、“AFFILIATION: NONE”、“BIO:”、“A ghost in the noise.”、“Zyra moves between shadows and signal.”、“She doesn't follow orders. She interrupts them.”、“Her pulse is silent. Her impact is not.”
+
+角色转向图：在上方中部展示 3 个较小的全身模型视图，分别标注为“FRONT VIEW”（正面）、“SIDE VIEW”（侧面）和“BACK VIEW”（背面）。正面视图持枪面向前方，侧面视图向左侧展示轮廓，背面视图展示长发、夹克背面设计、腰带、腰包和靴子。
+
+面部表情：在右上角创建一个标注为“FACIAL EXPRESSIONS”的区域，包含 6 个裁剪后的头部肖像，以 3x2 网格排列。展示微妙的变化：中性且专注的眼神、微眯的愤怒眼神、柔和严肃的凝视、侧视、略带惊讶的眼神以及自信专注的注视。所有 6 个肖像均佩戴酒红色面罩。
+
+面罩区域：在表情区域下方创建一个标注为“MASK ON / OFF”的区域，并排展示 2 个较大的头部肖像：左侧肖像佩戴酒红色面罩，右侧肖像摘下面罩，露出全脸及冷静的表情。
+
+细节条：在左下区域创建一个标注为“DETAILS”的区域，包含 5 个矩形特写面板：1. 露出的腰部和分层裁剪织物，2. 臀部腰包，3. 酒红色夹克背面徽章，4. 厚底战术靴，5. 露指手套和腕甲。
+
+武器与装备：底部中心创建一个标注为“WEAPONS & GEAR”的区域，包含 3 个独立物品：一把带有酒红色装饰的紧凑型黑色冲锋枪、一个圆柱形手榴弹或科技罐、以及一个棕色战术腰包。
+
+调色板：右下角创建一个标注为“COLOR PALETTE”的区域，包含 13 个方形色块，分为四行标注：Primary（主色）包含 5 个色块，分别为深海军蓝、炭黑、酒红色、灰紫色和浅灰色；Secondary（辅色）包含 3 个色块，分别为棕褐色、浅灰色和近黑色；Accent（点缀色）包含 2 个色块，分别为亮红色和浅蓝灰色；Skin & Hair（肤色与发色）包含 3 个色块，分别为桃色皮肤、蓝黑色头发和薰衣草灰挑染。
+
+符号：最右下角创建一个标注为“SYMBOL”的区域，放置一个与徽标相匹配的大型锐角酒红色三角形狐狸状徽章。
+
+约束：仅使用英文文本，所有标签保持小型大写酒红色字体，使用白色背景，无环境背景，无额外角色，无水印，保持设定图整洁且高度可读。
+
+[English]
+Goal: Create a polished anime game character reference sheet for {argument name="character name" default="ZYRA"}, subtitle {argument name="subtitle" default="THE SHADOW PULSE"}, a stealthy cyberpunk ninja assassin girl with a tactical streetwear silhouette.
+
+Canvas: Wide horizontal white studio character-sheet canvas, clean margins, thin burgundy divider lines, small uppercase technical labels, high-resolution concept art presentation.
+
+Main subject: A slim young female assassin with long flowing black hair with silver-white streaks, sharp eyes, pale skin, and a deep burgundy face mask. Outfit colors are dominated by charcoal black, dark navy, burgundy red, dusty mauve, and muted gray. She wears a cropped layered top exposing the midriff, a red-black bomber jacket with rolled sleeves, loose tactical harem pants, strapped shin wraps, chunky red-black combat boots, fingerless gloves, pouches and belts, and carries a compact black tactical firearm. Style is semi-realistic anime / game concept art with crisp linework, painterly shading, subtle cel-shaded highlights, and a stylish futuristic assassin mood.
+
+Layout: Place one large full-body hero pose on the left, standing relaxed with one hip dropped, holding a compact gun downward, long hair and scarf-like strands flowing diagonally. At the top-left add the large burgundy logo text "ZYRA" with the subtitle "THE SHADOW PULSE" beneath it and a sharp angular triangular emblem below. Under the hero pose add a small dossier block with readable text: "NAME: ZYRA", "TITLE: THE SHADOW PULSE", "ROLE: SENTINEL / ASSASSIN", "ORIGIN: UNKNOWN", "AFFILIATION: NONE", "BIO:", "A ghost in the noise.", "Zyra moves between shadows and signal.", "She doesn't follow orders. She interrupts them.", "Her pulse is silent. Her impact is not."
+
+Character turnaround: Across the upper middle show exactly 3 smaller full-body model views labeled "FRONT VIEW", "SIDE VIEW", and "BACK VIEW". The front view faces forward holding the gun, the side view faces left in profile, and the back view shows the long hair, jacket back design, belts, pouches, and boots.
+
+Facial expressions: On the upper-right create a section labeled "FACIAL EXPRESSIONS" containing exactly 6 cropped head portraits arranged in a 3 by 2 grid. Show subtle variations: neutral intense eyes, narrowed angry eyes, softened serious gaze, side glance, slightly surprised eyes, and confident focused stare. All 6 keep the burgundy mask on.
+
+Mask section: Below expressions create a section labeled "MASK ON / OFF" with exactly 2 larger head portraits side by side: left portrait with the burgundy mask on, right portrait with the mask off revealing full face and calm expression.
+
+Details strip: In the middle-lower area create a section labeled "DETAILS" with exactly 5 close-up rectangular panels: 1 exposed waist and layered cropped fabric, 2 belt pouch at hip, 3 burgundy jacket back emblem, 4 chunky tactical boot, 5 fingerless glove and wrist armor.
+
+Weapons and gear: Bottom-center create a section labeled "WEAPONS & GEAR" with exactly 3 isolated items: a compact black submachine gun with burgundy accents, a cylindrical grenade or tech canister, and a brown tactical pouch bag.
+
+Color palette: Bottom-right create a section labeled "COLOR PALETTE" with exactly 13 square swatches divided into four labeled rows: Primary has 5 swatches in dark navy, charcoal, burgundy, dusty mauve, and pale gray; Secondary has 3 swatches in tan, light gray, and near-black; Accent has 2 swatches in bright red and pale blue-gray; Skin & Hair has 3 swatches in peach skin, blue-black hair, and lavender-gray highlight.
+
+Symbol: Far bottom-right create a section labeled "SYMBOL" with one large angular burgundy triangular fox-like emblem matching the logo.
+
+Constraints: Use only English text, keep all labels small uppercase burgundy, use a white background, no environment, no extra characters, no watermark, and keep the sheet clean and highly readable.
+```
+
+**来源：** [@Cia0](https://x.com/Cia0_exe/status/2072550267791479059) | 2026-07-02
+
+---
+
+### 🧍 例 3037：角色参考图风格
+
+![角色参考图风格](../../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+与えた画像の人物を高精細コンセプトアートとして描き、鉛筆での設定資料（文字列は手書きの日本語。線などはフリーハンド）を作成してください。アスペクト比は[4:5]で描画
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2072537308222660697) | 2026-07-02
+
+---
+
+### 🧍 例 3048：角色一致性 9 宫格拼图
+
+![角色一致性 9 宫格拼图](../../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%209%20%E5%AE%AB%E6%A0%BC%E6%8B%BC%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+添付した参照画像の人物／キャラクターを主役にしてください。参照画像が実写・イラストのどちらであっても、指定した「{argument name="出力スタイル" default="実写写真風"}」に合わせて自然に変換してください。参照画像の顔立ち、髪型、髪色、目元、輪郭、年齢感、雰囲気、体型、衣装の主要な特徴を保ち、全コマで同じ人物／同じキャラクターに見えるようにしてください。出力は「{argument name="アスペクト比" default="1:1"}」の1枚画像にしてください。画面全体を均等な3列×3行に分け、必ず合計9コマのコラージュにしてください。フレーム数を増やしたり減らしたりせず、整理された見やすいレイアウトにしてください。各コマは、同じ人物／キャラクターの異なる瞬間を切り取ったようにしてください。アップ、バストアップ、少し引いた構図、横顔、振り向き、歩いている姿、目線を外した表情、自然な笑顔、リラックスしたポーズなど、角度・距離・表情・動きに変化をつけてください。背景は「{argument name="背景" default="明るい室内"}」をベースに、清潔感があり明るい雰囲気にしてください。全体の印象は「爽やか」で、軽やかで爽やかなビジュアルダイアリー風にしてください。全体に、細い白い手描き風のドローイングラインを重ねてください。白い線は9コマをまたいで流れるようにつながり、人物の周囲を囲んだり、動きを表現したりしてください。小さなハート、星形のきらめき、波線、モーションラインを入れてください。ただし、顔、目、表情を隠さないでください。避ける要素：文字、字幕、ロゴ、透かし、余分な人物、別人化、顔の崩れ、手足の破綻、背景のごちゃつき、過度に暗い影、顔を隠す落書き、9コマ以外のフレーム。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2072519823947669803) | 2026-07-02
+
+---
+
+### 🧍 例 3059：碎花裙时尚拼贴画
+
+![碎花裙时尚拼贴画](../../images/%E7%A2%8E%E8%8A%B1%E8%A3%99%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+这是一幅精美的多层照片拼贴画，主角是一位由 AI 生成的成年年轻女性。此人物并非真实存在。
+
+服装：{argument name="outfit" default="蓝白碎花修身收腰连衣裙，带有大朵深蓝色玫瑰、浅蓝色玫瑰、白色玫瑰及蓝色花卉图案，白色底色"}。短袖、圆领、大裙摆。与参考图中的裙子一致。
+
+布局：
+1. 中央：身着蓝色碎花裙的全身照，姿态优雅。
+2. 左上：她柔和微笑的唯美特写。
+3. 右上：她优雅侧首的肖像。
+4. 右下：艺术感侧面照。
+
+背景：{argument name="background" default="柔和的水彩蓝白花卉图案"}，与裙子相呼应，带有浅蓝色渐变雾气，营造梦幻美感。装饰性花卉元素，边缘柔和。
+
+美学风格：柔和、梦幻、艺术、空灵、女性化。背景带有浅蓝色渐变雾气。高分辨率，杂志拼贴风格。
+
+[English]
+A beautiful multi-layered photo collage featuring an ORIGINAL AI-GENERATED ADULT BEAUTIFUL YOUNG WOMAN. THIS IS NOT A REAL PERSON.
+
+Outfit: {argument name="outfit" default="EXACT BLUE AND WHITE FLORAL PRINT FIT & FLARE DRESS with LARGE NAVY BLUE ROSES, LIGHT BLUE ROSES, WHITE ROSES AND BLUE FLOWERS ON WHITE BASE"}. SHORT SLEEVES, ROUND NECKLINE, FLARE SKIRT. Same dress as reference.
+
+Layout: 
+1. Central FULL-LENGTH SHOT of her wearing the blue floral dress, standing gracefully.
+2. Top-left: Large ETHEREAL CLOSE-UP of her SMILING softly.
+3. Top-right: Portrait of her LOOKING AWAY GRACEFULLY. 
+4. Bottom-right: ARTISTIC SIDE PROFILE shot.
+
+Background: {argument name="background" default="Soft watercolor BLUE AND WHITE FLORAL PATTERNS"} to match her dress, light BLUE gradient mist, dreamy aesthetic. Decorative floral elements, no harsh edges.
+
+Aesthetic: Soft, dreamlike, artistic, ethereal, feminine. Light BLUE gradient mist at the background. High resolution, magazine collage style.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2072485275033551325) | 2026-07-02
+
+---
+

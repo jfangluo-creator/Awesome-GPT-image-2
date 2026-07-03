@@ -6335,3 +6335,150 @@ Create a vertical anime-style fashion illustration of a young woman floating thr
 
 ---
 
+### 🎨 例 2954：动漫风格 Durga Oni 虎女神
+
+![动漫风格 Durga Oni 虎女神](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%20Durga%20Oni%20%E8%99%8E%E5%A5%B3%E7%A5%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅华丽的竖构图动漫奇幻插画，主角是 {argument name="character name" default="Yamanba-chan"}，她化身为一位融合了 Durga 和 Kali 风格的凶猛女神，骑在一只咆哮的孟加拉虎背上。这位女神是一位皮肤黝黑的年轻 Oni 女孩，拥有飘逸的 {argument name="hair color" default="white"} 长发、两只高耸弯曲的角、金色的眼睛、小虎牙、额头上的红色吉祥痣，以及自信而调皮的微笑。她身穿深海军蓝色的舞者风格上衣和短裙，佩戴着奢华的金色寺庙珠宝：冠饰、耳环、多层项链、臂环、手镯、脚链、腰链以及华丽的中央腰带饰板。展示她身体周围对称放射出的八只手臂：左侧四只手分别握着一把直剑、一根三叉戟法杖、一把短矛或箭状武器，以及一把巨大的弯刀；右侧四只手分别握着一朵粉色莲花、一把金剑、一张弓，以及一只优雅伸出的手。在她右肩后方添加一个箭袋。老虎占据画面下方前景，正面向前，有着橙、黑、白相间的条纹，明亮的琥珀色眼睛，张开咆哮的嘴，露出牙齿，毛发细节丰富。在人物周围环绕七朵清晰可见的粉色莲花：左下角一朵大莲花，右下角一朵大莲花，右上角她手中一朵中型莲花，左中一朵中型莲花，右中一朵中型莲花，左下叶片附近一朵较小的莲花，以及右下角一朵较小的莲花。背景应呈现出古老印度寺庙壁画或泥金装饰手抄本的质感：深青色背景，她脑后有巨大的放射状金色太阳光环，华丽的拱门构图，红金相间的花卉边角装饰，卷曲的金色花丝，细小的星形点缀，陈旧的羊皮纸纹理，斑驳的墨迹和风化的颜料。使用 {argument name="primary palette" default="古金色、深青色、海军蓝、虎橙色和莲花粉色"} 的丰富调色板。风格为高度细腻的日本动漫与古典印度宗教艺术的结合，具有清晰的线条、对称的构图、庄严的圣像画风格以及复古海报的质感。禁止出现现代物品、文字或水印。
+
+[English]
+Create an ornate vertical anime fantasy illustration of {argument name="character name" default="Yamanba-chan"} transformed into a fierce Durga-and-Kali-inspired goddess, seated astride a roaring Bengal tiger. The goddess is a young tan-skinned oni girl with long flowing {argument name="hair color" default="white"} hair, two tall curved horns, golden eyes, small fangs, a red bindi on her forehead, and a confident mischievous smile. She wears a deep navy-blue dancer-style top and skirt with lavish gold temple jewelry: crown ornaments, earrings, layered necklaces, armlets, bracelets, anklets, waist chains, and an ornate central belt plate. Show exactly eight arms radiating symmetrically around her body: four on the viewer’s left holding a straight sword, a trident staff, a short spear or arrow-like weapon, and a large curved scimitar; four on the viewer’s right holding a pink lotus flower, a golden sword, a bow, and one extended graceful hand. Add a quiver of arrows behind her right shoulder. The tiger fills the lower foreground, facing forward with orange, black, and white stripes, bright amber eyes, open roaring mouth, visible teeth, and detailed fur. Surround the figure with exactly seven visible pink lotus blossoms: one large lotus at bottom left, one large lotus at bottom right, one medium lotus on the upper right in her hand, one medium lotus at mid-left, one medium lotus at mid-right, one smaller lotus at lower left near the leaves, and one smaller lotus at lower right. The background should resemble an antique Indian temple mural or illuminated manuscript: deep teal field, large radiant golden sun halo behind her head, ornate arch framing the composition, red-and-gold floral corner panels, curling gold filigree, small star accents, aged parchment texture, distressed ink, and weathered pigment. Use a rich palette of {argument name="primary palette" default="antique gold, deep teal, navy blue, tiger orange, and lotus pink"}. Style it as highly detailed Japanese anime meets classical Hindu devotional art, with crisp linework, symmetrical composition, dramatic sacred iconography, and a vintage poster texture. No modern objects, no text, no watermark.
+```
+
+**来源：** [@ネネ🍊](https://x.com/n_e_n_e_k_o/status/2072815997711790199) | 2026-07-02
+
+---
+
+### 🎨 例 2956：早晨上学路快照
+
+![早晨上学路快照](../../images/%E6%97%A9%E6%99%A8%E4%B8%8A%E5%AD%A6%E8%B7%AF%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+主題：朝の急ぎ足
+
+人物・表情：20代女性。明るいアイボリーベージュ寄りの白肌に、ほんのりピンクの血色を含んだ自然な肌理。淡いローズピンクのチーク、シャンパンベージュとピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、透け感のあるピンクベージュのリップ。瞳には小さなキャッチライト。トーストを口にくわえ、少し慌てながらも明るい表情で階段を駆け下りている。
+
+服装・ポーズ：{argument name="服装" default="白い半袖のセーラー風ブラウス"}、上品なネイビーの襟と袖ライン、大きめで形のきれいなネイビーリボン。高めのウエストで整ったネイビーのプリーツスカート、白いソックス、黒のローファー。人物の右足は下の段へ踏み出し、左足は後ろへ軽く跳ね上がる。人物の左手でバッグのストラップを握り、右手は髪の近くで小さく上がっている。スカートと髪が走る勢いで自然に揺れる。
+
+背景・光：駅前にある歩道橋の階段。金属の手すり、屋根のある通路、奥にぼけた駅案内や街の看板。朝の強い日差しが画面右上から入り、顔、ブラウス、脚、階段の端を明るく照らす。階段には手すりの影が斜めに落ち、明るい部分と影の部分のコントラストをはっきり出す。空気に少しだけ白い光のにじみを入れる。
+
+構図・カメラ：縦長2:3、全身が入る構図。人物を中央やや右に配置し、階段と手すりの線で奥行きを作る。カメラはやや低め、正面から少し見上げる角度。人物にピントを合わせ、背景は自然にぼかす。走っている一瞬を止めたようなスナップ写真。
+
+質感・スタイル：リアルな日系ストリートフォト。明るい夏の朝、柔らかなハイライト、自然な肌の質感、髪一本一本の流れが見える繊細な描写。髪は{argument name="髪色" default="明るいミルクティーアッシュブラウン"}、薄めのシースルーバング、顔まわりに沿うレイヤーカット、肩下のミディアムロング。毛先は内側にゆるくカールし、走る動きでふわっと広がる。バッグは濃いブラウンの日本風スクールバッグで、テディベア、小さな白いぬいぐるみ、リボン、ふわふわのキーホルダー、ビーズチャームを複数吊るす。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2072806270625857916) | 2026-07-02
+
+---
+
+### 🎨 例 2997：忧郁动漫少女手持茶杯
+
+![忧郁动漫少女手持茶杯](../../images/%E5%BF%A7%E9%83%81%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%89%8B%E6%8C%81%E8%8C%B6%E6%9D%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简约的正方形动漫风格插画，画面中一位忧郁的少女正双手捧着一个透明玻璃茶杯。角色拥有 {argument name="hair color" default="深炭黑色"} 的中长直发，刘海柔软凌乱，左侧有几缕发丝向外卷曲，长鬓角，带有淡淡的灰色高光，整体呈现出自然且略显随意的质感。她皮肤白皙，一双疲惫的大眼睛看向左下方，眉毛纤细，鼻梁小巧，嘴唇微抿向下，流露出安静内省的情绪。她身穿一件宽松的 {argument name="cardigan color" default="暖米色"} 开衫，袖子宽大，内搭一件简约的 {argument name="shirt color" default="白色"} 圆领衫。她的双手靠近胸前，手指环绕着一个透明的圆柱形玻璃杯，杯中盛着半杯 {argument name="drink" default="红茶"}。采用干净的现代日本动漫美学，线条柔和纤细，色彩柔和，带有轻微的赛璐珞阴影，纹理极简，画面无文字。构图为胸部以上的居中四分之三侧面视角，头部微微低垂，双肩放松。背景为纯净的浅灰白色，无任何物体或景物，以突出安静的情绪肖像。
+
+[English]
+Create a simple square anime-style illustration of a melancholic teenage girl holding a clear glass of tea with both hands. The character has {argument name="hair color" default="dark charcoal black"} medium-length straight hair with soft messy bangs, a few loose strands curling outward on the left, long side locks, subtle gray highlights, and a natural slightly unkempt shape. She has pale skin, large tired dark eyes looking down and to the left, thin eyebrows, a tiny nose, and a small neutral downturned mouth, giving a quiet introspective mood. She wears a loose {argument name="cardigan color" default="warm beige"} cardigan with oversized sleeves over a plain {argument name="shirt color" default="white"} crew-neck shirt. Her hands are close to her chest, fingers wrapped around one transparent cylindrical glass filled halfway with {argument name="drink" default="brown tea"}. Use a clean modern Japanese anime aesthetic with soft thin line art, muted colors, gentle cel shading, minimal texture, and no text. Frame her from the chest up in a centered three-quarter view, head tilted slightly downward, shoulders relaxed. The background is a plain very light gray-white with no objects or scenery, emphasizing the quiet emotional portrait.
+```
+
+**来源：** [@abara / 囲図囿図囲](https://x.com/abaranche/status/2072652439631925563) | 2026-07-02
+
+---
+
+### 🎨 例 3001：骑在后蹄直立白马上的牛仔女郎
+
+![骑在后蹄直立白马上的牛仔女郎](../../images/%E9%AA%91%E5%9C%A8%E5%90%8E%E8%B9%84%E7%9B%B4%E7%AB%8B%E7%99%BD%E9%A9%AC%E4%B8%8A%E7%9A%84%E7%89%9B%E4%BB%94%E5%A5%B3%E9%83%8E.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="砂漠を駆ける白馬のカウガール"}
+
+人物・表情：
+{argument name="人物" default="20代前女性。長めのブラウンヘアに薄い前髪、風で毛先が自然に流れている。透明感のある肌、ナチュラルな日系メイク、淡いローズ系の血色、澄んだ瞳。表情は少し挑むようで、視線は画面左前方へ向ける。甘さを残しつつ、強さのある西部カウガールの雰囲気。"}
+
+服装・ポーズ：
+{argument name="服装" default="ブラウンのカウボーイハット、白〜アイボリーのウエスタンシャツを胸元で軽く開き、裾をウエストで結ぶ。内側は黒のシンプルなビキニトップ。ブルーのダメージデニムショートパンツ、装飾入りのブラウンレザーベルト、ロング丈のブラウンカウボーイブーツ。白いサラブレッド風の美しい馬に騎乗し、馬は後ろ脚で力強く立ち上がっている。人物の左手は手綱付近で体を安定させ、右腕は画面左上へまっすぐ伸ばし、クラシックなリボルバーを構える。腰は鞍にしっかり乗せ、片脚は鐙にかけ、服と髪が風で軽く揺れている。"}
+
+背景・光：
+アメリカ西部風の乾いた砂漠。手前は砂と小石、低い草、舞い上がる薄い砂埃。中景に乾いた灌木が点在し、奥には赤茶色の岩山とメサが横に広がる。空は鮮やかな青で、白い雲が少しだけ流れている。昼の強い太陽光が画面右上から差し、白馬の首、人物の顔、肩、シャツ、デニムに明るいハイライトを作る。影は画面左下へ落ち、地面の砂埃には反射光が入る。
+
+構図・カメラ：
+縦長9:16。馬と人物を画面中央に大きく配置し、白馬の頭と前脚が上部に伸びるダイナミックな構図。人物は馬の左側に見える位置で、上半身と伸ばした腕が空に抜ける。ややローアングルの視点で、馬の迫力と空の広さを強調する。全身に近い構図で、馬の後ろ脚、尾、砂埃まで入れる。焦点は人物の顔、白馬の頭、革の馬具に合わせ、背景の岩山は少し柔らかくぼかす。
+
+質感・スタイル：
+リアルなファッションフォト風。高精細な肌の質感、白馬の毛並み、革の鞍と手綱、デニムの擦れ、シャツの薄い皺を自然に表現する。彩度は明るく、青空と白馬、赤茶色の砂漠が映えるクリアな色調。過度な加工ではなく、屋外ロケ写真のような自然な立体感と光沢。
+
+ネガティブ：
+不自然な顔や視線、余分な指、欠けた指、手足の融合、関節の破綻、馬の脚の本数の誤り、馬具との接触不良、人物が鞍から浮く、拳銃や手綱の形の崩れ、不自然な重力、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、背景の文字、ロゴ、透かし、UI、不要な人物。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2072636284238200996) | 2026-07-02
+
+---
+
+### 🎨 例 3047：雨中丛林布丁蛙
+
+![雨中丛林布丁蛙](../../images/%E9%9B%A8%E4%B8%AD%E4%B8%9B%E6%9E%97%E5%B8%83%E4%B8%81%E8%9B%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张异想天开的方形动漫风格插画，描绘一只可爱的布丁吉祥物生物，在倾盆大雨中平静地坐在热带丛林的一块平坦苔藓岩石上。主体是一个巨大的金黄色蛋奶布丁，形状像一只蹲着的青蛙，顶部覆盖着顺滑滴落的焦糖，闭着放松的双眼，有着小巧的嘟嘟嘴、柔软圆润的前肢、侧面的后腿以及细致的脚趾。布丁顶部有且仅有两个甜点配料：一圈鲜奶油和一颗带梗的鲜红樱桃。场景被雨水浸透：长长的斜向雨丝、焦糖顶部的雨水飞溅、顺着布丁身体流下的水滴、湿润反光的叶片，以及岩石周围浅橙褐色水面上的涟漪。背景：茂密的绿色雨林植被，带有巨大的香蕉叶、朦胧的景深、深邃湿润的阴影，以及左侧的一株小型红色热带植物。在右上角添加友好的日语问候文字 {argument name="greeting text" default="こんにちは"}，采用厚实圆润的平假名样式，填充温暖的棕橙色并带有白色描边，略微倾斜并悬浮在叶片上方。使用柔和的数字绘画风格，高细节，冷色调丛林背景衬托暖金色主体，可爱的角色设计，电影级的雨天氛围，方形构图，无水印，无额外字符，无额外文字。
+
+[English]
+Create a whimsical square anime-style illustration of a cute giant custard pudding creature sitting calmly on a flat mossy rock in the middle of a tropical rainforest stream during heavy rain. The character is a glossy golden flan shaped like a squat frog, with closed relaxed eyes, a tiny puckered mouth, small rounded front limbs and hind feet, and translucent caramel sauce dripping down from the top. On its head place exactly 2 dessert toppings: one swirl of whipped cream and one bright red cherry with a stem. The creature should look serene and friendly, like an original mascot character, with soft highlights, wet reflections, raindrops sliding down its body, and tiny splashes on the caramel surface. Surround it with dense jungle foliage, large wet green leaves, one cluster of red tropical leaves on the left, misty depth in the background, and an orange-brown rain-filled stream flowing around the rock. Add visible diagonal rain streaks throughout the scene and water droplets on leaves and stone. In the upper right, add the Japanese greeting text {argument name="greeting text" default="こんにちわ"} in rounded playful lettering, warm orange-brown fill with a thick white outline, slightly tilted. Use a highly polished digital painting style with soft cinematic lighting, saturated greens and warm custard yellows, shallow atmospheric depth, adorable fantasy creature design, no humans, no extra characters, no watermark.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2072520500149137854) | 2026-07-02
+
+---
+
+### 🎨 例 3054：配饰时尚插画
+
+![配饰时尚插画](../../images/%E9%85%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张时尚的全身插画，描绘一位穿着 {argument name="outfit" default="[OUTFIT]"} 的时髦年轻女性。她站姿自然，神态从容自信，手中拿着 {argument name="object" default="[OBJECT]"}。在她周围艺术性地布置 {argument name="flowers" default="[FLOWERS]"}、[PETS] 以及小型生活配饰。使用超大款时尚服饰，展现优美的褶皱和柔和的绘画质感。面部细节保持极简但富有表现力。背景为纯暖奶油色，仅带有细微的地面阴影。现代编辑类时尚插画，扁平矢量配色，奢华精品店品牌风格，Behance 精选品质，Instagram 美学，高端数字艺术作品，超精细，8K。
+
+[English]
+Create a stylish full-body illustration of a fashionable young woman wearing {argument name="outfit" default="[OUTFIT]"}. She stands naturally with relaxed confidence, holding {argument name="object" default="[OBJECT]"}. Surround her with {argument name="flowers" default="[FLOWERS]"}, [PETS], and small lifestyle accessories arranged artistically around her feet. Use oversized fashionable clothing with beautiful folds and soft painterly textures. Keep facial details minimal yet expressive. Background is solid warm cream with subtle ground shadow only. Modern editorial fashion illustration, flat vector colors, luxury boutique branding style, Behance feature quality, Instagram aesthetic, high-end digital artwork, ultra detailed, 8K.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2072509990628106267) | 2026-07-02
+
+---
+
+### 🎨 例 3057：黑白幻想贵族情侣
+
+![黑白幻想贵族情侣](../../images/%E9%BB%91%E7%99%BD%E5%B9%BB%E6%83%B3%E8%B4%B5%E6%97%8F%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的单色铅笔插画，采用优雅的少女幻想风格，展示一对浪漫的贵族情侣，半身近景。女性角色 {argument name="female character" default="一位温柔的年轻贵族女性"} 站在左侧，留着长而柔顺的深色头发，平刘海，明亮的大眼睛，带着平静而浅淡的微笑，佩戴着菱形垂坠耳环，身穿华丽的高领蕾丝裙，领口和腰部饰有刺绣花卉细节及珠宝胸针。男性角色 {argument name="male character" default="一位英俊的年轻贵族男性"} 站在她右侧稍后方，身材更高大，身体前倾，头部靠近她，眼神锐利，留着凌乱的中长深色头发，表情沉稳严肃，身穿装饰性的军装风格贵族外套，配有高领、纽扣、链条、肩章和宝石般的徽章。他们的肩膀相触，直视观众，营造出一种亲密、难得的宁静对视与贴近感。仅使用黑色、石墨灰和温暖的米白色纸张色调，线条极其细腻，采用柔和的交叉排线、微妙的涂抹阴影，刻画出细致的发丝、闪烁的眼睛和复杂的服装装饰。背景：左侧为淡淡的哥特式宫殿建筑草图，带有高大的拱形窗户，右侧为精致的攀缘藤蔓和花卉纹饰，背景色调极浅，以确保情侣始终是视觉焦点。构图：竖向肖像，情侣居中，氛围优雅梦幻，细节丰富，手绘漫画铅笔素描，无色彩，无文字，无水印。
+
+[English]
+Create a delicate monochrome pencil illustration in refined shoujo fantasy style showing a romantic aristocratic couple posed close together from the waist up. The woman, {argument name="female character" default="a gentle young noblewoman"}, stands on the left with long softly flowing dark hair, straight bangs, luminous large eyes, a calm faint smile, dangling diamond-shaped earrings, and an ornate high-neck lace dress with embroidered floral details and a jeweled brooch at the collar and waist. The man, {argument name="male character" default="a handsome young nobleman"}, stands on the right slightly behind her, taller, leaning close with his head near hers, sharp eyes, tousled medium-length dark hair, a composed serious expression, and a decorated military-inspired noble coat with a high collar, buttons, chains, shoulder ornaments, and gemstone-like insignia. Their shoulders touch and they look directly toward the viewer, creating an intimate rare moment of quiet eye contact and closeness. Use only black, graphite gray, and warm off-white paper tones, with extremely fine linework, soft cross-hatching, subtle smudged shading, detailed hair strands, sparkling eyes, and intricate costume ornamentation. Background: faint sketchy Gothic palace architecture with tall arched windows on the left and delicate climbing vines and floral tracery on the right, kept very pale so the couple remains the focus. Composition: vertical portrait, centered couple, elegant dreamy atmosphere, high detail, hand-drawn manga pencil sketch, no color, no text, no watermark.
+```
+
+**来源：** [@美和](https://x.com/tokikageyomikag/status/2072502101377462537) | 2026-07-02
+
+---
+
