@@ -4826,3 +4826,51 @@ Constraints: Include exactly 6 panels and exactly the 4 animals listed in panel 
 
 ---
 
+### 🎬 例 3139：慵懒的一天 Q 版漫画页
+
+![慵懒的一天 Q 版漫画页](../../images/%E6%85%B5%E6%87%92%E7%9A%84%E4%B8%80%E5%A4%A9%20Q%20%E7%89%88%E6%BC%AB%E7%94%BB%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张可爱的日本 5 格生活片段漫画页，主题为金发 Q 版女孩的慵懒休息日，采用温暖的手绘漫画风格。
+
+画布：竖版漫画页，4:5 长宽比，带有粗黑色外边框，奶油色纸张纹理，加粗黑色分镜线。使用恰好 5 个分镜：顶部一行两个等分分镜，中间一行一个宽横向分镜，底部一行两个等分分镜。
+
+主角：一位矮小的 Q 版金发女孩，留着直发波波头，齐刘海，长鬓角，半睁着睡眼惺忪的蓝色眼睛，小嘴，淡淡的腮红，穿着超大号深酒红色 T 恤、深色裤子和袜子。根据分镜不同，她表现出放松、自得或困倦的神态。
+
+分镜布局与内容：
+1. 左上分镜：女孩坐在木桌旁，手持高脚红酒杯。她左侧的桌上放着一瓶深绿色红酒，瓶身贴有奶油色标签和微小的皇冠图标。在酒杯旁添加一颗粉色小爱心。她表情微醺且满足。在左侧添加一个白色思想/对话气泡，内含竖排日语文本：{argument name="wine bubble text" default="ワインを飲んでのんびり〜"}。
+2. 右上分镜：女孩坐在木椅上弹奏三味线或类似二胡的日本弦乐器，横握琴弓/拨片。前方包含一个黑色乐谱架，身后挂着墙挂卷轴，右侧有一个放着书籍和盆栽的小书架。在乐器旁添加两个小型音效文字： 「スーッ」 和 「スーッ」。在右侧添加一个竖长白色对话气泡，内含竖排日语文本：{argument name="instrument bubble text" default="休みの日は二胡を弾いて"}。
+3. 中间宽分镜：女孩在绿色沙发上盖着米色毯子午睡，头枕在黄色枕头上，闭着眼睛，带着宁静的腮红。左侧是一盆叶片茂盛的室内植物，以及一扇窗户，窗外可见绿色窗帘、蓝天、白云和绿植。在她上方添加漂浮的困倦文字： 「ZZZZ…」。在右侧添加一个白色对话气泡，内含竖排日语文本：{argument name="nap bubble text" default="昼寝をたっぷりと…"}。
+4. 左下分镜：女孩双手握着红黑相间的游戏手柄，进行特写动态游戏射击。她眼中闪烁着火焰形状，嘴巴因兴奋而张开。背景带有棕褐色速度线。在顶部添加醒目的红色漫画音效文字： 「ピコーン!!」。在左侧添加一个竖排白色对话气泡，内含日语文本：{argument name="gaming shout" default="よっしゃー!"}。
+5. 右下分镜：女孩坐在地板上玩掌机，看起来放松且满足。左侧包含一个低矮电视柜上的电视，右侧架子上放着类似 Nintendo Switch 的红蓝手柄主机，架子上还有书籍/游戏盒，低矮桌上放着一杯带吸管的红色饮料和一个蓝色游戏盒。在她上方添加一个小型音符气泡，并在右侧添加一个白色思想气泡，内含竖排日语文本：{argument name="game bubble text" default="起きたらゲーム最高〜"}。
+
+视觉风格：可爱的 Q 版漫画插画，粗犷且富有表现力的黑色轮廓线，温暖的米色室内背景，柔和的水彩风格填充，简单的赛璐珞阴影，温馨休闲的氛围，略带不完美的手绘线条，白色对话气泡内清晰可读的竖排日语文字，无写实感。
+
+约束：使用恰好 5 个分镜，并严格遵循这些重复场景：饮酒、乐器练习、沙发午睡、激烈的游戏手柄特写、放松的游戏角落。请勿添加额外的分镜、额外角色、Logo、水印或漫画内的英文文本。
+
+[English]
+Goal: Create a cute Japanese 5-panel slice-of-life manga page about a lazy day off for a blonde chibi girl, in a warm hand-drawn comic style.
+
+Canvas: Vertical comic page, 4:5 aspect ratio, thick black outer border, cream paper texture, bold black gutters. Use exactly 5 panels: two equal panels across the top row, one wide horizontal panel across the middle row, and two equal panels across the bottom row.
+
+Main character: A short chibi-style blonde girl with straight bob-length hair, blunt bangs, long side locks, sleepy half-lidded blue eyes, small mouth, light blush, wearing an oversized dark burgundy T-shirt, dark pants, and socks. She appears relaxed, smug, or sleepy depending on the panel.
+
+Panel layout and contents:
+1. Top-left panel: The girl sits at a wooden table holding a stemmed glass of red wine. A dark green wine bottle with a cream label and tiny crown icon stands on the table to her left. Add a small pink heart near the glass. Her expression is tipsy and content. Use a white thought/speech bubble on the left with vertical Japanese text: {argument name="wine bubble text" default="ワインを飲んでのんびり〜"}.
+2. Top-right panel: The girl sits on a wooden chair playing a shamisen or erhu-like Japanese string instrument, holding the bow/stick across the strings. Include a black music stand with sheet music in front, a hanging wall scroll behind her, a small bookshelf with books and a potted plant at the right. Add two small sound-effect texts near the instrument: 「スーッ」 and 「スーッ」. Add a tall white speech bubble on the right with vertical Japanese text: {argument name="instrument bubble text" default="休みの日は二胡を弾いて"}.
+3. Middle wide panel: The girl naps on a green couch under a beige blanket, head on a yellow pillow, eyes closed with a peaceful blush. At left are a potted leafy houseplant and a window with green curtains, blue sky, a white cloud, and greenery outside. Add sleepy floating text above her: 「ZZZZ…」. Add a white speech bubble on the right with vertical Japanese text: {argument name="nap bubble text" default="昼寝をたっぷりと…"}.
+4. Bottom-left panel: Close-up dynamic gaming shot of the girl holding a black-and-red game controller with both hands. Her eyes glow with flame shapes, mouth open in excitement. Background has tan speed lines. Add large red comic sound-effect text at top: 「ピコーン!!」. Add a vertical white speech bubble on the left with Japanese text: {argument name="gaming shout" default="よっしゃー!"}.
+5. Bottom-right panel: The girl sits on the floor playing a handheld game controller, looking relaxed and satisfied. Include a TV on a low stand at left, a Nintendo Switch-like console with red and blue controllers on a shelf at right, books/game cases on shelves, a low table with a red drink cup and straw plus a blue game case. Add a small music-note bubble above her and a white thought bubble on the right with vertical Japanese text: {argument name="game bubble text" default="起きたらゲーム最高〜"}.
+
+Visual style: Cute chibi manga illustration, thick expressive black outlines, warm beige indoor backgrounds, soft watercolor-like fills, simple cel shading, cozy casual atmosphere, slightly imperfect hand-drawn linework, readable vertical Japanese lettering in white speech bubbles, no photorealism.
+
+Constraints: Use exactly 5 panels and exactly these main repeated settings: wine drinking, instrument practice, couch nap, intense controller close-up, relaxed gaming corner. Do not add extra panels, extra characters, logos, watermarks, or English text inside the comic.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2072867804802596974) | 2026-07-03
+
+---
+

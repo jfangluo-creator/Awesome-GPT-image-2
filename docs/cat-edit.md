@@ -2470,3 +2470,89 @@ Using REFERENCE_0 as the character and costume base, transform the photo into a 
 
 ---
 
+### 🔧 例 3096：混乱墨迹涂鸦肖像
+
+![混乱墨迹涂鸦肖像](../../images/%E6%B7%B7%E4%B9%B1%E5%A2%A8%E8%BF%B9%E6%B6%82%E9%B8%A6%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+# 从混乱的手写笔记与符号中浮现的角色面孔
+
+--- 风格
+- 在 {argument name="background" default="白色纸张背景"} 上创作图像，背景覆盖着密集的黑色墨水手写字、零散的公式、符号、标记和随机线条。
+- 让页面呈现出遍布整个表面的狂乱笔记涂鸦感。
+- 添加零星的 {argument name="accent color" default="红色墨水"} 强调，例如记号笔色块、下划线、填充区域和小面积高光。
+- 保留模拟纸张和墨水的质感，使其看起来像是手绘的笔记本页面，而非数字图案。
+
+--- 构图
+- 让随机的笔记、符号和标记填满整个画布。
+- 在 {argument name="character" default="角色面孔"} 应该出现的位置，增加黑色墨水、字母和线条碎片的密度。
+- 利用混乱标记的排列、聚类、间隙和色调对比，显现出该角色面孔的模糊轮廓和表情。
+- 不要绘制写实的脸部。面孔必须给人一种由周围混乱碎片拼凑而成的感觉。
+
+--- 色彩
+- 主要使用黑色墨水和白色纸张的单色调色板。
+- 仅将红色作为零星的强调色。
+- 保持饱和度克制，专注于真实纸张和墨水的触感。
+
+--- 表现细节
+- 包含看起来几乎可读但并不完全清晰的类文本字符串，混合使用日语字符、英文字母和数字。
+- 添加数学符号、箭头、点、斜线、十字、墨水滴、喷溅痕迹和粗糙的笔触。
+- 通过负空间、墨水密度以及笔记和符号的放置来塑造角色的眼睛、头发轮廓和面部结构。
+
+--- 避免
+- 不要直接绘制写实肖像或清晰地勾勒出脸部轮廓。
+- 不要制作整洁、有序的数字几何图案。
+- 不要使用色彩鲜艳或过度饱和的风格。
+- 不要包含徽标、水印或人工合成的 CG 感。
+
+--- 完成定义
+- 整体图像首先呈现为混乱的手写笔记、公式、符号和墨迹的集合。
+- 给定角色的面孔自然地从这种混乱的密度、间距和排列中浮现出来。
+- 配色方案保持黑白为主，仅带有红色点缀。
+- 最终图像保留手工纸张和墨水笔记本的质感。
+
+[English]
+# Character Face Emerging from Chaotic Handwritten Notes and Symbols
+
+--- Style
+- Create the image on a {argument name="background" default="white paper background"} covered with dense black-ink handwriting, loose formulas, symbols, marks, and random linework.
+- Make the page feel like frantic notebook scribbles spread across the entire surface.
+- Add occasional {argument name="accent color" default="red-ink"} emphasis, such as marker blocks, underline strokes, filled patches, and small highlighted areas.
+- Preserve an analog paper-and-ink texture, like a hand-drawn notebook page rather than a digital pattern.
+
+--- Composition
+- Let random notes, symbols, and marks fill the whole canvas.
+- Increase the density of black ink, letters, and line fragments around the area where the {argument name="character" default="character's face"} should appear.
+- Use the arrangement, clustering, gaps, and tonal contrast of the chaotic marks to reveal the faint silhouette and expression of the given character's face.
+- Do not draw a normal realistic face. The face must feel assembled from fragments of the surrounding chaos.
+
+--- Color
+- Use a mostly monochrome palette of black ink and white paper.
+- Use red only as a scattered accent color.
+- Keep saturation restrained and focus on the tactile feeling of real paper and ink.
+
+--- Expressive Details
+- Include text-like strings that seem almost readable but are not fully legible, mixing Japanese characters, English letters, and numbers.
+- Add math symbols, arrows, dots, slashes, crosses, ink drips, splatter marks, and rough strokes.
+- Shape the character's eyes, hair contour, and facial structure through negative space, ink density, and the placement of notes and symbols.
+
+--- Avoid
+- Do not directly paint a realistic portrait or clearly outline the face.
+- Do not make clean, orderly, digital geometric patterns.
+- Do not use colorful or oversaturated styling.
+- Do not include logos, watermarks, or an artificial CG look.
+
+--- Definition of Done
+- The overall image reads first as a chaotic mass of handwritten notes, formulas, symbols, and ink marks.
+- The given character's face naturally emerges from the density, spacing, and arrangement of that chaos.
+- The color scheme stays black and white with red accents only.
+- The final image keeps a handmade paper-and-ink notebook texture.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073023978910921185) | 2026-07-03
+
+---
+

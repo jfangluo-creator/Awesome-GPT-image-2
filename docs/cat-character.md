@@ -4616,3 +4616,119 @@ Aesthetic: Soft, dreamlike, artistic, ethereal, feminine. Light BLUE gradient mi
 
 ---
 
+### 🧍 例 3064：角色参考三视图
+
+![角色参考三视图](../../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个包含六个面板的角色参考三视图，背景为无缝的中性灰色摄影棚
+
+[English]
+Create a six-panel character reference turnaround sheet on a seamless neutral gray studio
+```
+
+**来源：** [@Hero Syndicate](https://x.com/KimAkiyama81/status/2073191075993272443) | 2026-07-03
+
+---
+
+### 🧍 例 3067：动画男孩角色设定图
+
+![动画男孩角色设定图](../../images/%E5%8A%A8%E7%94%BB%E7%94%B7%E5%AD%A9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在白色背景上为 {argument name="character name" default="一名小男孩"} 创建一张简洁的角色设定图，采用精致的迪士尼风格 2D 动画效果，具备富有表现力的圆润特征、清晰的墨线、柔和的赛璐珞阴影以及温暖讨喜的比例。
+
+画布：宽幅横向角色设定图，比例约为 16:9，留白充足，无任何文字、标签、Logo、水印、道具、场景或背景元素。
+
+角色细节：一名身材瘦削的少年，肤色白皙，大大的棕色眼睛，蓬松的卷曲 {argument name="hair color" default="深棕色"} 头发，柔和的眉毛，小巧的鼻子，面容友好且充满动画感。他佩戴着大型耳罩式 {argument name="headphone color" default="带有红色装饰的黑色耳机"}。服装：蓝色牛仔夹克内搭柔和的绿色条纹 T 恤，深蓝色工装裤，黑白运动鞋，以及带有黑色肩带和饰边的绿色背包。在所有姿势和表情中保持服装、发型、耳机和比例的一致性。
+
+布局：展示 3 个全身转面视图和 9 个独立的头部或半身表情研究，围绕全身视图排列。3 个全身视图分别为：1 中间站立、放松且轻微微笑的正视图；2 左侧展示背包细节的背视图；3 右侧展示背包侧影的右侧视图。9 个头部或半身表情研究分别为：1 开口大笑的快乐表情，2 疲惫的悲伤表情，3 闭眼打哈欠或大喊，4 惊讶的张嘴表情，5 向右的侧面中性表情，6 皱眉的愤怒表情，7 流泪的担忧表情，8 闭眼平静的满足微笑，9 闭眼害羞的低头微笑。
+
+视觉风格：长篇动画电影角色设定图，清晰的黑色轮廓线，细腻的绘画感阴影，柔和的肤色，富有表现力的卡通解剖结构，头部和手部略大，比例统一，专业的概念艺术呈现。
+
+约束：图像中不得出现任何文字。不要添加额外的姿势或表情。所有可见元素仅限于该儿童角色、他的服装、耳机、背包以及总共 12 个角色描绘。
+
+[English]
+Goal: Create a clean character design sheet on a white background for {argument name="character name" default="a young boy"} in a polished Disney-inspired 2D animation style, with expressive rounded features, clean ink lines, soft cel shading, and warm appealing proportions.
+
+Canvas: Wide horizontal character sheet, approximately 16:9, with generous white space and no text, labels, logo, watermark, props, scenery, or background elements.
+
+Character details: A slim preteen boy with light skin, large brown eyes, tousled curly {argument name="hair color" default="dark brown"} hair, soft eyebrows, a small nose, and a friendly animated face. He wears large over-ear {argument name="headphone color" default="black headphones with red accents"}. Outfit: blue denim jacket over a muted green striped T-shirt, dark blue cargo pants, black-and-white sneakers, and a green backpack with black straps and trim. Keep the same outfit, hairstyle, headphones, and proportions across every pose and expression.
+
+Layout: Show exactly 3 full-body turnaround views and exactly 9 separate head or bust expression studies arranged around them. The 3 full-body views are: 1 front view standing relaxed and smiling softly in the center, 2 rear view on the left showing the backpack clearly, 3 right-facing side view on the right showing the backpack profile. The 9 head or bust studies are: 1 happy open-mouth smile, 2 sad tired expression, 3 yawning or shouting with eyes squeezed shut, 4 surprised open-mouth expression, 5 neutral right-facing profile, 6 angry frown with furrowed brows, 7 crying worried face with tears, 8 peaceful content smile with eyes closed, 9 shy downward smile with eyes closed.
+
+Visual style: Feature-film animation character sheet, crisp black outlines, subtle painterly shading, soft skin tones, expressive cartoon anatomy, slightly oversized head and hands, consistent scale, professional concept art presentation.
+
+Constraints: No text anywhere in the image. Do not add extra poses or extra expressions. Keep all visible elements limited to the one child character, his clothing, headphones, backpack, and the 12 total character depictions.
+```
+
+**来源：** [@Kinovi.AI](https://x.com/kinovi_ai/status/2073186711870513290) | 2026-07-03
+
+---
+
+### 🧍 例 3079：五格时尚模特角色设定表
+
+![五格时尚模特角色设定表](../../images/%E4%BA%94%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一位写实的年轻时尚模特创建一张简洁的电影试镜风格角色设定表，优化角色一致性，而非强调多种表情变化。
+
+画布：宽横向画幅，比例约为 16:9，白色摄影棚背景，带有细灰色外边框，由细灰色分隔线精确划分为 5 个垂直面板。采用极简主义的编辑选角项目设计，面板标题位于顶部，使用大写字母。
+
+布局：从左至右包含 5 个带标签的面板：1) “FACE CLOSE UP”（面部特写），2) “FRONT”（正面），3) “BACK”（背面），4) “LEFT PROFILE”（左侧面），5) “RIGHT PROFILE”（右侧面）。第一个面板略宽，用于展示肖像和个人资料卡；其余四个面板展示全身站姿视图。所有人物均保持在同一白色无缝摄影棚背景下，光线柔和均匀，呈现写实摄影效果。
+
+主体细节：一位苗条的年轻韩国女性，{argument name="character name" default="노복 No Bok / ノ・ボク"}，年龄 {argument name="age" default="23"}，国家：韩国，职业：时尚模特，身高 {argument name="height" default="170cm"}。她拥有白皙的皮肤，长直的铂金色中分发型，五官精致，淡雅自然妆容，表情中性冷静，佩戴小巧的金质圆环耳环。服装：黑色露肩短款长袖上衣，边缘略带磨损/抽丝效果，配有细肩带；佩戴小巧银色吊坠项链；黑色朋克风迷你裙，带有腰带、孔眼、绑带和金属配件；黑色腿套或堆堆袜；以及厚底黑色搭扣靴。在所有视图中保持服装和发型一致。
+
+面板 1 细节：从胸部上方截取的面部特写肖像，模特略微转向镜头，一只手抬至嘴边，目光柔和直视前方。在肖像下方，包含一个简单的表格，设有 5 行内容：“NAME: 노복 No Bok / ノ・ボク”、“AGE: 23”、“COUNTRY: Korea”、“JOB: Fashion model”、“HEIGHT: 170cm”，每行之间带有细横线。
+
+面板 2–5 细节：展示 4 个全身参考视图：正面、背面、左侧面和右侧面。模特保持中性站姿，双臂自然下垂，双脚自然放置，无夸张表情或姿势变化。在每个全身面板的右侧添加一个细小的身高标尺，带有刻度标签：6'0" / 183, 5'6" / 168, 5'0" / 152, 4'0" / 122, 3'0" / 91。人物身高应与 170 cm 刻度对齐。
+
+视觉风格：高分辨率写实摄影棚时尚摄影，明亮的白色背景，柔和阴影，细节清晰，采用黑色服装与铂金色头发的低饱和度单色调风格，精致的灰色排版与线条，无额外道具，无其他姿势，无多种面部表情，无水印。
+
+[English]
+Goal: Create a clean film-audition-style character sheet for a realistic young fashion model, optimized for character consistency rather than many expression variations.
+
+Canvas: Wide horizontal sheet, approximately 16:9, white studio background, thin gray outer border, divided into exactly 5 vertical panels with fine gray separator lines. Use a minimalist editorial casting-board design with uppercase panel titles at the top.
+
+Layout: Include exactly 5 labeled panels from left to right: 1) “FACE CLOSE UP”, 2) “FRONT”, 3) “BACK”, 4) “LEFT PROFILE”, 5) “RIGHT PROFILE”. The first panel is slightly wider for a portrait and bio card; the other four panels show full-body standing views. Keep all figures on the same white seamless studio backdrop with soft, even lighting and realistic photography.
+
+Subject details: A slim young Korean woman, {argument name="character name" default="노복 No Bok / ノ・ボク"}, age {argument name="age" default="23"}, country Korea, job fashion model, height {argument name="height" default="170cm"}. She has pale skin, long straight platinum-blonde hair with a center part, delicate facial features, light natural makeup, neutral calm expression, and small gold hoop earrings. Outfit: black off-shoulder cropped long-sleeve top with slightly distressed/frayed edges and thin shoulder straps, small silver pendant necklace, black punk mini skirt with belts, eyelets, straps and metal hardware, black leg warmers or slouched sock layers, and chunky black platform buckle boots. Maintain the same outfit and hairstyle across all views.
+
+Panel 1 details: Close-up face portrait cropped from upper chest upward, the model turned slightly toward camera, one hand raised near her mouth, soft direct gaze. Beneath the portrait, include a simple form with exactly 5 filled rows: “NAME: 노복 No Bok / ノ・ボク”, “AGE: 23”, “COUNTRY: Korea”, “JOB: Fashion model”, “HEIGHT: 170cm”, each with thin horizontal rule lines.
+
+Panels 2–5 details: Show exactly 4 full-body reference views: front view, back view, left profile, and right profile. The model stands upright in a neutral pose with arms relaxed, feet naturally placed, no dramatic expression or pose changes. Add a thin height ruler on the right side of each full-body panel with small tick labels: 6'0" / 183, 5'6" / 168, 5'0" / 152, 4'0" / 122, 3'0" / 91. The figure should align around the 170 cm mark.
+
+Visual style: High-resolution realistic studio fashion photography, bright white background, soft shadows, crisp details, muted monochrome styling with black clothing and platinum hair, subtle gray typography and lines, no extra props, no additional poses, no multiple facial expressions, no watermark.
+```
+
+**来源：** [@Kyohei Fukuda](https://x.com/not_fukuda/status/2073084958231691634) | 2026-07-03
+
+---
+
+### 🧍 例 3122：暗黑奇幻游侠参考表
+
+![暗黑奇幻游侠参考表](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E6%B8%B8%E4%BE%A0%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="character name" default="Lyra Shadowmelt"} 创建一份角色表，角色设定为 {argument name="race and class" default="半精灵游侠"}。深色凌乱的头发，尖耳朵，饱经风霜的皮甲，连帽斗篷，弓箭。{argument name="art style" default="粗犷、写实的暗黑奇幻风格"}。
+
+[English]
+Create a character sheet for {argument name="character name" default="Lyra Shadowmelt"}, a {argument name="race and class" default="half-elf ranger"}. Dark tousled hair, pointed ears, weathered leather armor, hooded cloak, bow and arrows. {argument name="art style" default="Gritty, realistic dark fantasy style"}.
+```
+
+**来源：** [@Magnific](https://x.com/magnific/status/2072928418606563407) | 2026-07-03
+
+---
+

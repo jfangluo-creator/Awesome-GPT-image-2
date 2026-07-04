@@ -14176,3 +14176,419 @@ Create a graphic design image in a retro {argument name="poster style" default="
 
 ---
 
+### 🎴 例 3063：Soft Hours 周末杂志封面
+
+![Soft Hours 周末杂志封面](../../images/Soft%20Hours%20%E5%91%A8%E6%9C%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直的生活方式杂志封面/编辑海报，采用柔和米色的“周末宁静”美学。一位年轻女性，留着 {argument name="hair color" default="长波浪栗棕色头发"}，正慵懒地躺在超大灰褐色亚麻沙发前的一块纹理感奶油色地毯上。她侧身躺着，姿态放松且微微蜷缩，身穿 {argument name="outfit" default="白色罗纹吊带背心和宽松白色短裤"}；一只手拿着装有淡白葡萄酒的透明高脚杯，另一只手靠近头发，平静地注视着镜头。使用清晨的自然窗光、温暖柔和的阴影、浅景深的编辑写实风格、细腻的肤色以及舒适的公寓氛围。在地毯的前景中精确包含 6 件小型休闲物品：1 个放有吐司或糕点的盘子、1 个白色无线耳机盒、1 部顶部带有米色玫瑰状饰品的蓝色智能手机、1 盒透明蓝莓、1 个小酸奶杯和 2 个完整的橙子。叠加优雅且超大的奶油白色 Didot 风格衬线字体，呈现时尚杂志质感：左上方沙发处是大号文字“easy”，中右上方是大号文字“living”，底部覆盖地毯和物品处是巨大的文字“soft hours”。添加细长且间距宽的衬线字体作为小型编辑标题：左上角为“VOL. 04”和“WEEKEND EDIT”；右上角为“SUNDAY”和“CALM”；左侧中部为“soft hours / quiet moments / just me”；右下角为“gentle days / simple pleasures / stay with me”。保持字体呈半透明象牙色，轻盈且与照片融为一体。整体构图应体现 {argument name="mood" default="慵懒的周末自我关怀，微醺但平静"} 的感觉，风格极简、亲密且具有写实感，画面中不包含其他人，无水印，且除指定的杂志文字外无任何额外文本。
+
+[English]
+Create a vertical lifestyle magazine cover/editorial poster in a soft beige “weekend calm” aesthetic. A young woman with {argument name="hair color" default="long wavy chestnut-brown hair"} lounges on a textured cream rug in front of an oversized taupe linen sofa with large cushions. She is lying on her side, relaxed and slightly curled, wearing a {argument name="outfit" default="white ribbed camisole and loose white shorts"}; one hand holds a clear stemmed wine glass with pale white wine, and the other hand rests near her hair as she looks calmly toward the camera. Use natural early-morning window light, warm muted shadows, shallow editorial realism, delicate skin tones, and a cozy apartment mood. In the foreground on the rug include exactly 6 small leisure items: 1 plate with toast or pastry, 1 white wireless earbud case, 1 blue smartphone with a beige rose-like accessory on top, 1 clear box of blueberries, 1 small yogurt cup, and 2 whole oranges. Overlay elegant oversized cream-white Didot-style serif typography like a fashion magazine: large text “easy” across the upper left sofa, large text “living” across the upper middle/right, and huge text “soft hours” across the bottom overlapping the rug and objects. Add small editorial captions in thin spaced serif type: top left “VOL. 04” and “WEEKEND EDIT”; top right “SUNDAY” and “CALM”; left mid “soft hours / quiet moments / just me”; lower right “gentle days / simple pleasures / stay with me”. Keep the typography semi-transparent ivory, airy, and integrated into the photo. Overall composition should feel like {argument name="mood" default="lazy weekend self-care, slightly tipsy but calm"}, minimal, intimate, and photorealistic, with no extra people, no watermark, and no additional text beyond the specified magazine lettering.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2073191244956872883) | 2026-07-03
+
+---
+
+### 🎴 例 3069：超现实巴黎清晨洋葱海报
+
+![超现实巴黎清晨洋葱海报](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%B7%B4%E9%BB%8E%E6%B8%85%E6%99%A8%E6%B4%8B%E8%91%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="city" default="巴黎"} 日出时的电影感宽幅城市海报，将浪漫的咖啡馆场景与超现实的巨型物体美学相结合。构图为 16:9 横向海报：左侧三分之二处由一个巨大的半透明红洋葱主导，洋葱被切开，呈现出层层叠叠的紫粉色弧线，每一层都光泽透亮、半透明，并覆盖着闪烁的露珠；洋葱像一座宏伟的建筑外壳或凉亭一样矗立在河边。在左下方，放置一家小巧的巴黎咖啡馆，配有粉白相间的条纹遮阳篷、温暖的室内灯光、写着“Café de Paris”的招牌、盆栽花卉、黑色菜单项目、复古路灯、藤编椅子和圆形小咖啡桌。画面中需包含 8 个清晰可见的人物：前景主桌坐着 3 位用餐者，旁边站着 1 位身穿黑色马甲和白色围裙的服务员，洋葱拱门下的中景桌坐着 2 位客人，右侧靠近水域的远景桌坐着 2 位客人。右侧三分之一处展现柔焦的塞纳河畔景色，远处是朦胧的桥梁和埃菲尔铁塔。采用柔和的晨光、桃粉色天空、金色轮廓光、浅景深、湿润的反光路面、细腻的虚化效果，营造出梦幻般的奢华旅行广告氛围，将超写实 3D 质感与绘画般的电影柔光完美融合。在右下角添加优雅的排版：大号中文标题“{argument name="headline text" default="早安，巴黎"}”，下方配以较小的英文副标题“{argument name="subtitle text" default="Good Morning, Paris"}”，两者均使用精致的细衬线字体，采用柔和的李子色，并保持宽敞的字间距。避免出现现代汽车、杂乱物体、额外的地标、多余文字、标志或水印。
+
+[English]
+Create a cinematic wide city poster for {argument name="city" default="Paris"} at sunrise, combining a romantic café scene with a surreal giant-object aesthetic. The composition is a 16:9 horizontal poster: the left two thirds are dominated by an enormous translucent red onion sliced open into sweeping concentric purple-pink arcs, each layer glossy, semi-transparent, and covered with sparkling dew droplets; the onion functions like a monumental architectural shell or pavilion beside the river. At the lower left, place a tiny Parisian café with a pink-and-white striped awning, warm interior light, a sign reading “Café de Paris,” potted flowers, a black menu board, a vintage streetlamp, wicker chairs, and small round café tables. Include exactly 8 visible human figures: 3 seated diners at the main foreground table, 1 standing waiter beside them in black vest and white apron, 2 seated guests at a midground table under the onion arch, and 2 seated guests at a farther right table near the water. The right third opens to a soft-focus Seine riverside view with a bridge and the Eiffel Tower in the hazy distance. Use pastel dawn lighting, peach-pink sky, golden rim light, shallow depth of field, reflective wet pavement, delicate bokeh, dreamy luxury travel-advertising mood, hyperreal 3D realism blended with painterly cinematic softness. Add elegant bottom-right typography: large Chinese headline “{argument name="headline text" default="早安，巴黎"}” with smaller English subtitle “{argument name="subtitle text" default="Good Morning, Paris"}” beneath it, both in a refined thin serif font, muted plum color, spacious letter spacing. Avoid modern cars, clutter, extra landmarks, extra text, logos, or watermarks.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2073181278254612916) | 2026-07-03
+
+---
+
+### 🎴 例 3082：日语 AI 键盘应用海报
+
+![日语 AI 键盘应用海报](../../images/%E6%97%A5%E8%AF%AD%20AI%20%E9%94%AE%E7%9B%98%E5%BA%94%E7%94%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款 AI 键盘应用制作一张精美的日语 App Store 宣传海报。该应用可一键将随意的日语转换为礼貌的敬语，海报需结合时尚摄影、应用 UI 模型和醒目的排版。
+
+画布：1:1 方形海报，采用明亮的白色和淡紫色调，高调照明，柔和的背景虚化，轻盈的半透明渐变，呈现精致的移动应用广告风格。
+
+主视觉：右半部分展示一位时尚的年轻日本女性，手持银色智能手机，拍摄风格类似于美妆/时尚广告。她留着深棕色头发，扎着马尾，留有松散的刘海，头上戴着太阳镜，佩戴黄色圆环耳环，妆容精致，面带微笑，身穿闪亮的银色上衣，外搭半透明的虹彩淡紫色夹克。背景使用梦幻般的淡紫色，并带有柔和的光晕。
+
+标题与文字布局：左上角放置小号英文文本“ONE TAP. POLISHED JAPANESE.”，位于主文案上方。左侧主导位置应为最大的日语标题，采用粗体紫色字体：{argument name="headline text" default="送る前に、敬語に整える。"} 在标题后方添加一条荧光黄绿色的手绘下划线/扫尾效果。
+
+辅助文案：在标题下方，添加黑色日语正文：{argument name="supporting copy" default="キーボードから離れず、ワンタップで丁寧に。"} 添加手写紫色便签“All Apps!”以及日语文本 {argument name="all apps text" default="どのアプリでも、すぐ使える。"}
+
+应用兼容性展示行：展示 4 个可识别的圆角应用图标及省略号：Gmail、LINE、Slack、Instagram，然后是“...”。
+
+转换示例：在中心偏下区域，展示 2 个圆角白色消息卡片，中间由一个小型的紫色向下箭头连接。上方卡片用紫色手写体标注“Before”，内容为：{argument name="before message" default="昨日はありがとう！また連絡します！"} 下方卡片标注“After”，内容为：{argument name="after message" default="昨日はありがとうございました。またご連絡いたします！"} 在 After 卡片的右侧边缘添加一个紫色圆形发送箭头按钮。
+
+键盘 UI 模型：在右下方，展示一个倾斜的 iPhone 风格日语键盘面板，顶部有 4 个建议标签，分别标注为“自然に”、“メール”、“提案”，以及高亮显示的紫色“敬語”。包含白色 QWERTY 按键、标注为“空白”的空格键、标注为“改行”的回车键、地球仪、麦克风和数字键。在其附近，展示一个较小的设置卡片，包含 3 行内容：“キーボード設定…”、“日本語”以及高亮显示的紫色行“敬語ボタン”。
+
+应用标识区：左下方展示一个紫色圆角方形应用图标，内部有一个柔和的白色键帽状按钮。右侧写上日语应用名称：{argument name="app name" default="敬語ボタン"} 以及副标题“| AIキーボード”。
+
+功能声明：在底部中间，包含一个闪电图标和文本“0.5秒で即変換 / コピーも3倍速”。在右下方添加 2 个月桂叶徽章样式的声明：“0.5秒 即変換”和“3倍速 コピー*”。添加微小的脚注文本“※自社調べ”。
+
+底部行动号召：底部边缘横跨一条粗紫色弧形横幅，上面写有白色大字“App Store 配信中”，并有一条指向右侧的细箭头线。
+
+视觉风格：高端日本初创企业广告，简洁的编辑排版，醒目的紫色字体，柔和的阴影，半透明的玻璃拟态卡片，充满活力的青柠色记号笔点缀，清晰易读的 UI 文字，无水印，除指定的应用图标外无额外 Logo。
+
+[English]
+Goal: Create a glossy Japanese App Store promotional poster for an AI keyboard app that converts casual Japanese into polite keigo with one tap, combining fashion photography, app UI mockups, and bold typography.
+
+Canvas: Square 1:1 poster, bright white and lavender palette, high-key lighting, soft bokeh, airy translucent gradients, polished mobile-app advertising style.
+
+Main visual: On the right half, show a stylish young Japanese woman holding a silver smartphone, photographed like a beauty/fashion ad. She has dark brown hair tied back with loose bangs, sunglasses resting on her head, yellow hoop earrings, subtle makeup, a slight smile, and a translucent iridescent lavender jacket over a shiny silver top. Use a dreamy pale purple background with soft light flares.
+
+Headline and text layout: On the upper left, place small English text “ONE TAP. POLISHED JAPANESE.” Above the main copy. The largest Japanese headline should dominate the left side in bold purple type: {argument name="headline text" default="送る前に、敬語に整える。"} Add a neon yellow-green hand-drawn underline/swoosh crossing behind the headline.
+
+Supporting copy: Below the headline, add black Japanese body text: {argument name="supporting copy" default="キーボードから離れず、ワンタップで丁寧に。"} Add a handwritten purple note “All Apps!” and Japanese text {argument name="all apps text" default="どのアプリでも、すぐ使える。"}
+
+App compatibility row: Show exactly 4 recognizable rounded app icons plus an ellipsis: Gmail, LINE, Slack, Instagram, then “…”.
+
+Transformation example: In the center-lower area, show exactly 2 rounded white message cards connected by a small downward purple arrow. The top card is labeled “Before” in handwritten purple script and contains: {argument name="before message" default="昨日はありがとう！また連絡します！"} The bottom card is labeled “After” and contains: {argument name="after message" default="昨日はありがとうございました。またご連絡いたします！"} Add a small purple circular send arrow button at the right edge of the after card.
+
+Keyboard UI mockups: In the lower right, show a tilted iPhone-style Japanese keyboard panel with exactly 4 suggestion tabs at the top labeled “自然に”, “メール”, “提案”, and highlighted purple “敬語”. Include white QWERTY keys, space bar labeled “空白”, return key labeled “改行”, globe, microphone, and number key. Near it, show a smaller settings card with exactly 3 rows: “キーボード設定…”, “日本語”, and a purple highlighted row “敬語ボタン”.
+
+App identity block: In the lower left, display a purple rounded-square app icon with a soft white keycap-like button inside. To its right, write the app name in Japanese: {argument name="app name" default="敬語ボタン"} and the subtitle “| AIキーボード”.
+
+Feature claims: Along the bottom middle, include a lightning icon and the text “0.5秒で即変換 / コピーも3倍速”. Add exactly 2 laurel-badge claims on the lower right: “0.5秒 即変換” and “3倍速 コピー*”. Add tiny footnote text “※自社調べ”.
+
+Bottom call-to-action: A thick purple curved banner spans the bottom edge with large white text “App Store 配信中” and a thin arrow line pointing right.
+
+Visual style: Premium Japanese startup ad, clean editorial layout, bold purple typography, soft shadows, translucent glassmorphism cards, energetic lime marker accents, crisp readable UI text, no watermark, no extra logos beyond the specified app icons.
+```
+
+**来源：** [@いつき | 20歳AI起業家](https://x.com/Itsukiployee/status/2073081044459520091) | 2026-07-03
+
+---
+
+### 🎴 例 3093：动态短跑海报
+
+![动态短跑海报](../../images/%E5%8A%A8%E6%80%81%E7%9F%AD%E8%B7%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张动态竖版体育杂志海报，宣传精英短跑运动与无限的竞技能量，主角为 {argument name="athlete description" default="一位精瘦且肌肉发达的日本男性短跑运动员"}，呈现爆发性的奔跑姿态。
+
+画布：高竖版 9:16 海报，高分辨率，全出血设计。采用大胆的编辑广告构图，运用极端的透视效果和强烈的运动能量。
+
+布局：背景为户外跑道上方的鲜艳深蓝色天空，底部边缘为远处的城市滨水天际线。在运动员身后放置巨大的压缩块状字体，跨度几乎覆盖整个海报的高度和宽度。主标题为 {argument name="main headline" default="NO LIMIT ENERGY"}，采用巨大的米白色全大写字母，分三行堆叠，部分被奔跑者遮挡。将运动员置于右中前景，与标题形成戏剧性的重叠，一只红色的鞋子因透视效果在下方中心处被放大。添加三个小型文本区域：1）右上角微小的垂直标志，内容为“TOKYO SPEED DIVISION”；2）右侧的指标块，内容为“42 / 195 / KM”，下方配有小字“FULL POTENTIAL UNLEASHED”及一条短横线；3）左下角的励志文案块，标题为“BREAK THROUGH EVERY BOUNDARY”，后跟关于速度、专注、不懈信念的小字正文，以及“TOKYO SPEED DIVISION ENGINEERED FOR ATHLETES BUILT FOR VICTORY.”。
+
+主体细节：运动员身穿 {argument name="running outfit" default="黑色无袖运动上衣和带有红色侧边的黑色跑步短裤"}，脚蹬 {argument name="shoe color" default="带有黑色点缀和白色鞋底的亮红色跑鞋"}。他正处于冲刺阶段，腾空于跑道之上，躯干扭转，前膝高抬，后腿向后伸展，一只手臂向前摆动，另一只向后拉。强调清晰的腿部肌肉、手臂肌肉、汗水光泽、锐利的脸部焦点、被风吹乱的黑发以及看向右侧的坚定表情。
+
+视觉风格：写实体育广告摄影与杂志封面排版的结合。强烈的正午阳光，蓝色跑道上清晰的阴影，高对比度，饱和的色彩，广角低机位视角，前景鞋子处采用浅景深，四肢和跑道上有细微的运动模糊，呈现光泽感的编辑成品效果。字体应显得高挑、压缩、宏大且略带复古海报感，在蓝天背景下使用奶油白色字母。
+
+约束条件：仅限一名运动员，仅限一个巨大的主标题，且仅限三个小型辅助文本块。所有文本保持英文且在大字处清晰可辨；小型正文可以很小，但应看起来像真实的杂志印刷效果。禁止添加额外的标志、水印或边框。
+
+[English]
+Goal: Create a dynamic vertical sports magazine poster advertising elite sprinting and limitless athletic energy, featuring {argument name="athlete description" default="a lean muscular Japanese male sprinter"} in an explosive running pose.
+
+Canvas: Tall vertical 9:16 poster, high-resolution, full-bleed. Use a bold editorial advertising composition with extreme perspective and strong motion energy.
+
+Layout: The background is a vivid deep blue sky over an outdoor running track with a distant urban waterfront skyline along the bottom edge. Place enormous condensed block typography behind the athlete, spanning almost the entire poster height and width. The main headline reads {argument name="main headline" default="NO LIMIT ENERGY"} in huge off-white all-caps letters, stacked across three lines, partially hidden behind the runner. Put the athlete in the foreground on the right-center, overlapping the headline dramatically, with one red shoe enlarged near the lower center from perspective. Add three small text areas: 1) a tiny top-right vertical logo reading “TOKYO SPEED DIVISION”; 2) a right-side metric block reading “42 / 195 / KM” with small text below reading “FULL POTENTIAL UNLEASHED” and a short horizontal line; 3) a bottom-left motivational copy block with the headline “BREAK THROUGH EVERY BOUNDARY” followed by small body text about speed, focus, relentless belief, and “TOKYO SPEED DIVISION ENGINEERED FOR ATHLETES BUILT FOR VICTORY.”
+
+Subject details: The athlete wears {argument name="running outfit" default="a black sleeveless performance top and black running shorts with red side panels"} and {argument name="shoe color" default="bright red running shoes with black accents and white soles"}. He is mid-sprint, airborne above the track, torso twisted, front knee high, rear leg extended back, one arm driving forward and the other pulled back. Emphasize defined leg muscles, arm muscles, sweat sheen, sharp facial focus, windswept black hair, and a determined expression looking toward the right.
+
+Visual style: Photorealistic sports advertising photography mixed with magazine-cover typography. Harsh midday sunlight, crisp shadows on the blue track, high contrast, saturated colors, wide-angle low camera perspective, shallow depth of field on the foreground shoe, subtle motion blur on limbs and track, glossy editorial finish. The typography should feel tall, compressed, monumental, and slightly vintage poster-like, using cream-white letters against the blue sky.
+
+Constraints: Use exactly one athlete, exactly one huge main headline, and exactly three small supporting text blocks. Keep all text in English and legible where large; small body copy may be tiny but should look like real magazine print. No extra logos, no watermark, no border.
+```
+
+**来源：** [@Edimakor Japan](https://x.com/EdimakorJP/status/2073025787595489615) | 2026-07-03
+
+---
+
+### 🎴 例 3102：Pretzel Maker 分镜海报
+
+![Pretzel Maker 分镜海报](../../images/Pretzel%20Maker%20%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="story title" default="THE PRETZEL MAKER"} 创建一张清晰、整洁的信息图分镜海报，展示一段类似皮克斯（Pixar）风格的高品质 3D 动画美食制作过程，主角是一位开朗的巴伐利亚面包师和金黄的椒盐卷饼。
+
+画布：宽屏 16:9 海报，白色背景，带有粗黑色外边框、黑色网格线、醒目的黑色字体以及精致的分镜/制作项目布局。使用明亮生动的色彩、温暖的巴伐利亚日光、温馨的酒馆和面包店室内环境、深金棕色的卷饼外皮、光泽感高光、粗粒海盐、丰富的木质纹理、传统的皮裤（Lederhosen）、串灯以及浅景深的电影感效果。
+
+页眉：居中大标题“THE PRETZEL MAKER”。下方居中文字“TOTAL VIDEO TIME: 12 SECONDS”。再下方为较小的副标题：“8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA”。右上角图例包含 4 个黑色图标及标签：场记板“ACTION”、火焰“HEAT”、时钟“TIME HINT”、麦穗“INGREDIENT”。
+
+主体布局：使用 8 个分镜格，排列为 2 行 4 列的网格。每个分镜格左上角有一个黑色数字圆圈、大写镜头标题、相关小图标以及右上角的“~1.5s”。每个分镜格包含一个电影级 3D 渲染图及下方的简短说明文字。
+
+分镜格，共 8 个：
+1. “THE OPENER”，带场记板图标，~1.5s：一位留着胡子、穿着皮裤的快乐巴伐利亚面包师站在热闹的乡村集市或啤酒馆街道上，双臂张开，对着镜头微笑；旁边可见装满卷饼的篮子和一块写着“Fresh Pretzel!”的小黑板。说明： “Fresh Pretzel!”
+2. “THE ROPE”，带场记板图标，~1.5s：特写面包师的手在撒了面粉的木桌上将面团揉成长条，背景可见围裙和背带。说明： “Roll the dough into a long rope.”
+3. “THE TWIST”，带场记板图标，~1.5s：手部特写，拿着浅色面团，交叉并绕成经典的椒盐卷饼形状。说明： “Cross, loop, twist, and fold.”
+4. “THE BATH”，带火焰图标，~1.5s：成型的卷饼被浸入金属盘中沸腾的小苏打水中，蒸汽升腾。说明： “Dip in baking soda bath.”
+5. “THE SALT”，带麦穗/配料图标，~1.5s：极度特写，一个带有光泽的卷饼上，粗粒白盐晶体在空中落下。说明： “Salt it up!”
+6. “THE OVEN”，带火焰图标，~1.5s：面包师将一托盘卷饼滑入散发着橙色光芒的复古砖炉中。说明： “Into the oven. The wait begins.”
+7. “THE REVEAL”，带火焰图标，~1.5s：快乐的面包师在温暖的烤箱前展示一托盘刚出炉、色泽金黄的卷饼，蒸汽和光泽清晰可见。说明： “Golden, glossy, and perfect.”
+8. “THE TEAR”，带场记板图标，~1.5s：面包师开心地掰开一个热气腾腾的卷饼的英雄镜头特写，内部柔软的质感拉丝，闭眼享受。说明： “Warm, soft, and unforgettable.”
+
+底部信息栏：在分镜格下方添加一个横跨宽度的带边框备注区。左侧包含 4 行水平备注，配有黑色图标和加粗标签：
+1. 播放图标，“VIDEO FLOW:”后接“8 shots × ~1.5s = 12 seconds. Dough rope to the tear.”
+2. 摄像机图标，“CAMERA TIPS:”后接“wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, wide medium for the bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear”
+3. 太阳/光照图标，“LIGHT & STYLE:”后接“warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout”
+4. 卷饼图标，“BAKER NOTES:”后接“one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+
+Logo 区域：在备注栏右下角，创建一个装饰性的复古巴伐利亚风格 Logo，文字为“THE PRETZEL MAKER”，采用华丽的棕金配色衬线字体、花纹装饰、麦穗枝条，中心带有卷饼图标。
+
+约束条件：保持所有文字清晰易读，使用简洁的黑色分隔线，严格保持 8 个镜头，总时长保持为 {argument name="total video time" default="12 seconds"}，单镜头时长保持为 {argument name="shot duration" default="~1.5s"}，主角为 {argument name="main character" default="one cheerful mustached Bavarian baker in lederhosen"}，食物风格聚焦于 {argument name="featured food" default="golden glossy Bavarian pretzels"}。无需额外分镜，无水印，无写实风格的脏旧感；确保画面精致、高级、色彩丰富且符合制作标准。
+
+[English]
+Goal: Create a crisp, clean infographic storyboard poster for {argument name="story title" default="THE PRETZEL MAKER"}, showing a premium Pixar-like 3D animated food-making sequence with a cheerful Bavarian baker and golden pretzels.
+
+Canvas: Wide 16:9 poster on a white background with thick black outer border, black grid lines, bold black typography, and a polished storyboard/production-board layout. Use bright vivid colors, warm Bavarian daylight, cozy tavern and bakery interiors, deep golden-brown pretzel crust, glossy highlights, coarse white salt, rich wooden textures, traditional lederhosen, string lights, and shallow cinematic depth of field.
+
+Header: Large centered headline “THE PRETZEL MAKER”. Under it, centered text “TOTAL VIDEO TIME: 12 SECONDS”. Beneath that, smaller line: “8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA”. Top-right legend with 4 black icons and labels: clapperboard “ACTION”, flame “HEAT”, clock “TIME HINT”, wheat stalk “INGREDIENT”.
+
+Main layout: Use exactly 8 storyboard panels arranged in a 2-row by 4-column grid. Each panel has a black numbered circle at top-left, an uppercase shot title, a small relevant icon, and “~1.5s” at the top-right. Each panel contains a cinematic 3D render and a short caption below the image.
+
+Storyboard panels, exactly 8:
+1. “THE OPENER” with clapperboard icon, ~1.5s: a jolly mustached Bavarian baker in lederhosen stands in a festive village market or beer-hall street with arms wide open, smiling at the viewer; baskets of pretzels and a small chalkboard reading “Fresh Pretzel!” are visible. Caption: “Fresh Pretzel!”
+2. “THE ROPE” with clapperboard icon, ~1.5s: close-up of the baker’s hands rolling dough on a floured wooden table into a long rope, apron and suspenders visible in the background. Caption: “Roll the dough into a long rope.”
+3. “THE TWIST” with clapperboard icon, ~1.5s: close-up of hands holding pale dough, crossing and looping it into the classic pretzel shape. Caption: “Cross, loop, twist, and fold.”
+4. “THE BATH” with flame icon, ~1.5s: a shaped pretzel is dipped in a bubbling baking soda bath in a metal pan, steam rising dramatically. Caption: “Dip in baking soda bath.”
+5. “THE SALT” with wheat/ingredient icon, ~1.5s: extreme close-up of a glossy pretzel covered with coarse white salt crystals falling through the air. Caption: “Salt it up!”
+6. “THE OVEN” with flame icon, ~1.5s: the baker slides a tray of pretzels into a rustic brick oven glowing orange. Caption: “Into the oven. The wait begins.”
+7. “THE REVEAL” with flame icon, ~1.5s: the happy baker presents a tray full of freshly baked glossy golden pretzels in front of a warm oven, steam and shine visible. Caption: “Golden, glossy, and perfect.”
+8. “THE TEAR” with clapperboard icon, ~1.5s: close-up hero shot of the baker joyfully tearing open a warm pretzel, soft interior stretching, eyes closed in delight. Caption: “Warm, soft, and unforgettable.”
+
+Bottom information band: Add a bordered notes area spanning the width below the panels. Left side contains exactly 4 horizontal note rows with black icons and bold labels:
+1. Play icon, “VIDEO FLOW:” followed by “8 shots × ~1.5s = 12 seconds. Dough rope to the tear.”
+2. Camera icon, “CAMERA TIPS:” followed by “wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, wide medium for the bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear”
+3. Sun/light icon, “LIGHT & STYLE:” followed by “warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout”
+4. Pretzel icon, “BAKER NOTES:” followed by “one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+
+Logo area: In the lower-right of the notes band, create a decorative vintage Bavarian logo reading “THE PRETZEL MAKER” with ornate brown-and-gold serif lettering, flourishes, wheat branches, and a pretzel icon in the center.
+
+Constraints: Keep all text sharp and readable, use clean black dividers, maintain exact 8-shot count, keep the total time as {argument name="total video time" default="12 seconds"}, keep the per-shot duration as {argument name="shot duration" default="~1.5s"}, feature {argument name="main character" default="one cheerful mustached Bavarian baker in lederhosen"}, and keep the food style focused on {argument name="featured food" default="golden glossy Bavarian pretzels"}. No extra panels, no watermark, no photorealistic grunge; make it polished, premium, colorful, and production-ready.
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2072995570277384516) | 2026-07-03
+
+---
+
+### 🎴 例 3103：东方禅意庭院海报
+
+![东方禅意庭院海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E5%BA%AD%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简海报
+风格分支：高对比新中式型
+主体内容：{argument name="主体内容" default="一位小人物站在半开的朱红圆门前，正要走入庭院"}
+情绪母题：进入、含蓄、东方庭院、夏日明媚
+场景与意象：{argument name="场景" default="朱红圆门、米白墙面、翡翠绿竹影、门内明亮庭院、小人物剪影"}
+构图与空间：中心构图，圆门作为强符号主体，墙面大面积留白，人物位于门前小比例区域
+色彩控制：{argument name="色彩" default="米白作为墙面基底，朱红用于圆门主体，翡翠绿只用于竹影和门内少量植物，人物用墨青剪影；避免墙面也变成红绿同色"}
+光线与质感：白天自然光，墙面轻纸感，竹影清晰，边缘干净
+画幅比例：9:16 
+补充要求：圆门要简洁高级，人物要小而有故事感，整体像明亮的新中式品牌海报
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2072992670360957244) | 2026-07-03
+
+---
+
+### 🎴 例 3105：励志排版长廊
+
+![励志排版长廊](../../images/%E5%8A%B1%E5%BF%97%E6%8E%92%E7%89%88%E9%95%BF%E5%BB%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的竖排文字空间错觉海报/壁纸，主题为励志与自我改变，利用巨大的中文字体构建一个黑暗的未来感长廊。核心信息为 {argument name="main slogan" default="成长不是等待变化，而是主动改变"}。画面中包含一个微小的孤独人类剪影，背对观众向长廊尽头的强烈白光走去，通过巨大的尺度感与情感冲击，凸显人物的渺小。
+
+画布：宽屏电影级 16:9 画幅，超广角透视，深海军蓝/黑色环境，高对比度，戏剧性的消失点位于中心略偏左的位置。相机位置贴近地面，采用强烈的单点透视，仿佛置身于一个完全由巨大文字构成的隧道中。
+
+布局：场景由 5 个主要的排版面构成：1) 左墙，2) 右墙，3) 环绕明亮出口的远端后墙，4) 天花板，以及 5) 地面。左右墙面覆盖着巨大的挤压感中文字符、重复的小型励志短句以及细长的水平分隔线。地面包含巨大的、向观众延伸的透视中文字符，形成一条道路。天花板也包含密集的白色小字，向透视深处延伸。在墙壁下边缘添加霓虹青柠色引导线，以及强化隧道深度的微弱发光接缝。
+
+文字内容：主标语需显著出现两次：一次位于上方中心/后方区域，另一次巨大地展示在右墙上，其中“而是主动改变”短语需以鲜艳的霓虹青柠绿色强调。在墙壁和地面上分布 7 个重复的辅助短语：1) “主动出击”，2) “摆脱内耗”，3) “把目标落地”，4) “立刻去做”，5) “打破舒适区”，6) “从今天开始”，7) “成长不是等待变化”。使用基于这些短语的密集微小中文填充行来创造纹理，但需保持主要短语清晰且醒目。可选的自定义地面文字：{argument name="floor word" default="改变"}。
+
+视觉风格：粗野主义赛博朋克排版，纪念碑式的 3D 块状字符，白色/灰色字母上的粗糙混凝土/金属纹理，青柠绿强调文字，电影级光晕，体积光，深邃阴影，轻微的颗粒感，高细节纹理，锐利的几何字体，沉浸式空间排版，文字构成墙壁与地面的视觉错觉。在消失点处使用一个微小的黑色人类剪影来体现比例感。
+
+限制：无 Logo，无水印，无额外人物，除排版外无装饰性物体，保持场景的可读性与建筑感，保留极端的深度与透视，使排版在视觉上具有巨大的物理存在感，并环绕观众。
+
+[English]
+Goal: Create a cinematic vertical-text spatial illusion poster/wallpaper about motivation and self-change, using giant Chinese typography as the architecture of a dark futuristic corridor. The central message is {argument name="main slogan" default="成长不是等待变化，而是主动改变"}. Include a tiny lone human silhouette walking away from the viewer toward an intense white light at the end of the corridor, making the person feel small while the emotion and scale feel huge.
+
+Canvas: Wide cinematic 16:9 frame, ultra-wide perspective, dark navy/black environment, high contrast, dramatic vanishing point centered slightly left of middle. The camera is low to the ground with a strong one-point perspective, as if standing inside a tunnel made entirely from massive words.
+
+Layout: Build the scene from exactly 5 major typography surfaces: 1) left wall, 2) right wall, 3) far back wall around the bright exit, 4) ceiling, and 5) floor. The left and right walls are covered with huge extruded Chinese characters, smaller repeated motivational lines, and thin horizontal separators. The floor contains enormous foreshortened Chinese characters stretching toward the viewer, forming a road-like path. The ceiling also contains dense lines of small white Chinese text receding into perspective. Add neon lime guide lines along the lower wall edges and subtle glowing seams that reinforce the tunnel depth.
+
+Text content: Use the main slogan prominently twice: once large on the upper center/back area and once huge on the right wall, with the phrase “而是主动改变” emphasized in vivid neon lime green. Add exactly 7 repeated supporting phrases distributed across the walls and floor: 1) “主动出击”, 2) “摆脱内耗”, 3) “把目标落地”, 4) “立刻去做”, 5) “打破舒适区”, 6) “从今天开始”, 7) “成长不是等待变化”. Use dense tiny Chinese filler lines based on these phrases to create texture, but keep the main phrases legible and bold. Optional customizable floor word: {argument name="floor word" default="改变"}.
+
+Visual style: Brutalist cyberpunk typography, monumental 3D block characters, rough concrete/metal texture on white-gray letters, lime green accent text, cinematic bloom, volumetric light, deep shadows, slight grunge, high-detail texture, sharp angular letterforms, immersive spatial typography, optical illusion of words forming walls and floor. Use a tiny black human silhouette at the vanishing point for scale.
+
+Constraints: No logos, no watermark, no extra people, no decorative objects beyond typography, keep the scene readable and architectural, preserve extreme depth and perspective, make the typography feel physically massive and surrounding the viewer.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072982578064437687) | 2026-07-03
+
+---
+
+### 🎴 例 3115：电影级怪兽能量饮料海报
+
+![电影级怪兽能量饮料海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%80%AA%E5%85%BD%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+Positive prompt:
+为 {argument name="品牌" default="Monster Energy"} 饮料创作一张“高端原创品牌KV海报”，竖版 4:5，必须与前两组完全不同形式。本次以“野兽本体动作”作为绝对主角，做成国际级运动饮料广告 + 电影级动态凝固摄影：强动势、强雕塑感、强品牌识别，但画面干净克制、留白明确，像真正可投放的品牌高级宣传广告。
+
+核心画面（野兽为主角，非眼睛梗、非咬罐、非胸腔核心）：
+一只原创“{argument name="怪兽主角" default="能量猎豹/黑豹怪兽"}”占据画面主体，完整上半身与前爪压场，呈跃起扑击的瞬间（frozen motion）。野兽不是普通动物写实：它的皮肤由“哑光黑碳纤维 + 黑曜石镜面碎片 + 细密金属网格”混合构成，肌肉线条清晰，表面有微微鳞片般的几何纹理；在关节与脊背处出现毒绿能量裂纹（neon toxic green cracks），像电流在皮下流动。野兽张力强、速度感强，但不血腥、不恐怖、不口水獠牙特写，整体像当代机械生物装置艺术。
+
+动作与能量叙事（全新形式）：
+野兽的前爪在空中“抓裂”出三道巨大的绿色能量刮痕，这三道刮痕不是logo简单复制，而是像真实空间被撕开形成的“光刃裂隙”，裂隙边缘带玻璃化的绿光熔融质感、微粒飞散与电弧跳动；裂隙内透出冷雾与高速气流的流线型纹理，形成强烈动势与空间层次。能量刮痕横跨画面上半区，成为视觉主结构与品牌符号的高级再创造。
+
+产品呈现（产品存在但不抢主角）：
+Monster Energy 经典黑罐位于画面下三分之一处，置于极简玄武岩台面/黑石平台上，像“被野兽力量点燃的饮料”。罐体直立，覆盖密集冷凝水珠与轻霜，金属反射真实；绿色爪痕标志清晰、锐利，带极轻微背光轮廓（subtle rim glow），与上方三道能量裂隙形成呼应。罐体周围有少量被冲击掀起的冰晶碎片与水汽微滴（克制、干净，不要糊满雾）。
+
+场景与背景（高级且干净）：
+背景为深墨黑到深灰的渐变影棚空间，带非常轻的混凝土微纹理与摄影棚“顶光锥”痕迹；空气里有少量绿色微粒、金属尘与冷雾薄层，整体保持高端、清晰、可读，留白足够承载排版。
+
+灯光（品牌级商业布光）：
+主光为高位硬朗聚光灯（强调野兽的碳纤维与黑曜石材质高光切面），辅光为极弱冷白轮廓光勾边；毒绿能量裂隙提供内发光，照亮野兽爪部与台面边缘。整体对比强、层次清晰、质感昂贵、电影级。
+
+品牌Logo与文字（必须出现；中英文均需艺术化排版与构图排版，禁止粗糙大黑体/默认字体）：
+文字必须呈现“设计师级排版系统”：定制字形、精细字距、网格对齐、光学居中、层级明确；可通过压印、金属铭牌、喷漆做旧、局部UV、霓虹边缘光等材质表现，像真实品牌KV。
+排版结构建议（不遮挡主体关键细节）：
+1) 顶部品牌标识区（居中或左上，小而精致）：
+   三爪痕标志 + “MONSTER” + “ENERGY”
+   字形：高端撕裂定制字感 + 现代细体组合，冷白/冷灰白，微弱绿辉光
+2) 主标题（位于右侧留白，分行排版，节奏强）：
+   “{argument name="主标语" default="HUNT THE LIMIT"}”
+   “UNLEASH ENERGY”
+   字形：切割感无衬线，字距拉开，像金属铭牌压印
+3) 中文主标语（与英文形成双语层级，位置略下移）：
+   “释放怪兽级爆发”
+   “冷能量  即刻上场”
+   字形：现代高级中文（细字重+字距呼吸），可做半透明雾面压印或局部UV
+4) 底部信息区（极小、克制、广告落版）：
+   “ICE-COLD SERVE / STAY SHARP”
+   可加极小编号 “EDITION 01” （可选，必须克制）
+
+色彩体系：
+极黑 / 玄武岩黑 / 冷灰 + 毒绿能量光 + 少量冷白高光；品牌感强、锐利、昂贵。
+
+关键词：
+premium energy drink campaign, beast hero, cyber panther creature, carbon fiber obsidian skin, neon toxic green energy slashes, cinematic frozen motion, studio spotlight, clean negative space, art-directed bilingual typography, luxury poster layout, hyper-realistic, 8K, vertical 4:5.
+
+Negative prompt:
+同形式重复（居中罐体+背后眼睛+雾气）, 同形式重复（野兽胸腔核心悬浮罐）, 咬住罐子, 只做野兽眼睛特写, 血腥恐怖, 口水獠牙夸张, 卡通插画风, 廉价科幻, 乱糟糟烟雾糊满画面, 默认粗黑体, 粗糙大黑体, Comic Sans, Impact, 低级排版, 随机乱码文字, 拼写错误, 水印, UI界面, 网址, 社媒账号, 多个罐子, 罐体变形, logo错误, 标志不可读, 过曝霓虹, 低分辨率, 模糊, 噪点, 脏污, 塑料质感
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2072953796951728499) | 2026-07-03
+
+---
+
+### 🎴 例 3134：花艺师分镜海报
+
+![花艺师分镜海报](../../images/%E8%8A%B1%E8%89%BA%E5%B8%88%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="film title" default="THE FLORIST"} 创建一张清晰、简洁的信息图分镜海报，展示一个关于花艺师制作并赠送花束的高端 3D 动画视频概念。
+
+画布：白色背景上的宽幅 16:9 海报，带有黑色细外边框和黑色网格线。使用粗体黑色排版，简洁的编辑式分镜布局，每个画框内采用高端皮克斯风格的 3D 渲染。色彩鲜艳生动，温暖的金色晨光，柔和的粉色牡丹，深红色的玫瑰，鲜绿色的花茎，桉树叶，牛皮纸，以及温馨舒适的花店氛围。
+
+页眉布局：左上角为醒目的大标题：{argument name="film title" default="THE FLORIST"}。旁边添加一个简单的小型花卉线条图标。顶部中心位置用垂直黑色分割线隔开，包含：“总视频时长：12 秒”和“8 个镜头 · 清新 · 温柔 · 为赠礼而生”。右上角展示四个简单的黑色线条图标及其下方标签：手形图标标记为“动作”，火焰图标标记为“热度”，时钟图标标记为“时间提示”，花朵图标标记为“成分”。
+
+主要分镜布局：使用 8 张编号镜头卡片，排列成 4 列 2 行的网格。每张卡片左上角有一个黑色数字块，上方为粗体大写镜头标题，右上角有小型黑色线条图标，中间为电影感 3D 图像面板，下方为简短的说明条。保持所有边框为黑色且简洁。
+
+镜头 1：数字“1”，标题“开场”。图像：阳光明媚的花店中，一位开朗的年轻女花艺师的广角镜头，她手持花茎，周围是花桶。说明：“广角镜头。我们的花艺师，她的世界。”图标：手和时钟。
+
+镜头 2：数字“2”，标题“挑选”。图像：花艺师轻轻挑选一朵完美深红玫瑰的特写，背景是柔和的虚化花朵。说明：“挑选完美花朵。”图标：手和花朵。
+
+镜头 3：数字“3”，标题“修剪”。图像：修枝剪剪断绿色花茎的极近特写，切口处有一滴小水珠落下。说明：“精心修剪。”图标：手、火焰和时钟。
+
+镜头 4：数字“4”，标题“整理”。图像：花艺师在温暖花店的工作台上整理粉色牡丹、红玫瑰、绿植和白色小碎花。说明：“构建美感，一茎一叶。”图标：手和花朵。
+
+镜头 5：数字“5”，标题“色彩”。图像：木桌上花束材料的俯视美感镜头：粉色牡丹、深红玫瑰、桉树、白色小花、花瓣和温暖的高光。说明：“色彩与质感的和谐。”图标：花朵。
+
+镜头 6：数字“6”，标题“包装”。图像：双手在木质柜台上用温暖的棕色牛皮纸包装花束。说明：“带着温暖与心意包装。”图标：手和时钟。
+
+镜头 7：数字“7”，标题“系带”。图像：双手在牛皮纸包裹的花束上系上柔软缎带蝴蝶结的特写，粉色缎带为视觉焦点。说明：“点睛之笔。”图标：手和时钟。
+
+镜头 8：数字“8”，标题“赠予”。图像：花艺师将完成的花束递给花店里惊喜微笑的顾客，温暖动人的时刻。说明：“一份来自内心的喜悦之礼。”图标：手、心形和时钟。
+
+底部信息栏：在底部添加四个注释部分，用垂直黑色线条隔开，每个部分配有一个简单的黑色图标和粗体标签。第 1 部分（播放图标）：“视频流程：”然后是“8 个镜头 × ~1.5 秒 = 12 秒。从第一根花茎到第一个微笑。”第 2 部分（相机图标）：“拍摄建议：”然后是“开场使用广角，挑选和修剪使用特写，整理使用中景，全景展示使用俯视镜头，包装使用英雄特写，系带使用戏剧性特写，交接使用温暖广角”。第 3 部分（太阳图标）：“光影与风格：”然后是“温暖的金色晨光，柔和的粉色牡丹，深红玫瑰，鲜绿花茎，温暖牛皮纸，柔和缎带，全程皮克斯鲜艳暖色调”。第 4 部分（心形图标）：“花艺师笔记：”然后是“一位花艺师，一束花，一刻喜悦。清新、温柔，为赠礼而生。”在右下角添加一个简单的花卉线条画。
+
+约束：必须使用 8 张分镜卡片和 4 个底部注释部分。保持文字清晰，白底黑字，无水印，无额外 Logo，无额外面板。保持精致的分镜海报外观，边框简洁，3D 电影感画面生动。
+
+[English]
+Goal: Create a crisp, clean infographic storyboard poster for {argument name="film title" default="THE FLORIST"}, showing a short premium 3D animated video concept about a florist making and giving a bouquet.
+
+Canvas: Wide 16:9 poster on a white background with thin black outer border and black grid lines. Use bold black typography, a clean editorial storyboard layout, and premium Pixar-like 3D stylized rendering inside each frame. Bright vivid colors, warm golden morning light, soft pink peonies, deep red roses, vivid green stems, eucalyptus leaves, kraft paper, and a warm cozy flower-shop atmosphere.
+
+Header layout: Large bold title on the top left: {argument name="film title" default="THE FLORIST"}. Add a small simple floral line icon beside it. Across the top center, separated by vertical black divider lines, include: “TOTAL VIDEO TIME: 12 SECONDS” and “8 SHOTS · FRESH · GENTLE · MADE TO GIVE”. On the top right, show four simple black line icons with labels underneath: a hand labeled “ACTION”, a flame labeled “HEAT”, a clock labeled “TIME HINT”, and a flower labeled “INGREDIENT”.
+
+Main storyboard layout: Use exactly 8 numbered shot cards arranged in a 4-column by 2-row grid. Each card has a black number block at top left, a bold uppercase shot title, small black line icons at the top right, a cinematic 3D image panel, and a short caption strip below. Keep all borders black and clean.
+
+Shot 1: Number “1”, title “THE OPENER”. Image: wide shot of a cheerful young female florist in a sunlit flower shop, holding stems among buckets of flowers. Caption: “Wide shot. Our florist, her world.” Icons: hand and clock.
+
+Shot 2: Number “2”, title “THE SELECT”. Image: close-up of the florist gently choosing a perfect deep red rose, soft bokeh flowers behind her. Caption: “Selecting the perfect bloom.” Icons: hand and flower.
+
+Shot 3: Number “3”, title “THE TRIM”. Image: extreme close-up of pruning shears cutting a green flower stem, with a small water droplet falling from the cut. Caption: “A clean cut with care.” Icons: hand, flame, and clock.
+
+Shot 4: Number “4”, title “THE ARRANGE”. Image: the florist arranging pink peonies, red roses, greenery, and small white filler flowers on a worktable in the warm shop. Caption: “Building beauty, one stem at a time.” Icons: hand and flower.
+
+Shot 5: Number “5”, title “THE COLOR”. Image: overhead beauty shot of the bouquet ingredients spread on a wooden table: pink peonies, deep red roses, eucalyptus, tiny white flowers, petals, and warm highlights. Caption: “A harmony of colors and textures.” Icon: flower.
+
+Shot 6: Number “6”, title “THE WRAP”. Image: hands wrapping the bouquet in warm brown kraft paper on a wooden counter. Caption: “Wrapped with warmth and intention.” Icons: hand and clock.
+
+Shot 7: Number “7”, title “THE TIE”. Image: close-up of hands tying a soft satin ribbon bow around the kraft-wrapped bouquet, with a pink ribbon as the focal point. Caption: “The finishing touch.” Icons: hand and clock.
+
+Shot 8: Number “8”, title “THE GIVE”. Image: the florist handing the finished bouquet to a delighted smiling recipient in the flower shop, warm emotional moment. Caption: “A gift of joy, given from the heart.” Icons: hand, heart, and clock.
+
+Bottom information bar: Add four note sections across the bottom, separated by vertical black lines, each with a simple black icon and bold label. Section 1 with play icon: “VIDEO FLOW:” then “8 shots × ~1.5s = 12 seconds. First stem to first smile.” Section 2 with camera icon: “CAMERA TIPS:” then “wide on the shop opener, close-up for the selection and trim, wide medium for the arrange, overhead beauty for full color display, close-up hero for the wrap, close-up dramatic for the ribbon tie, wide warm for the handover”. Section 3 with sun icon: “LIGHT & STYLE:” then “warm golden morning light, soft pink peonies, deep red roses, vivid green stems, warm kraft paper, pastel ribbon, Pixar vivid warm colors throughout”. Section 4 with heart icon: “FLORIST NOTES:” then “one florist, one bouquet, one moment of joy. Fresh, gentle, and made to give.” Add a simple floral line drawing in the lower right corner.
+
+Constraints: Use exactly 8 storyboard cards and exactly the four bottom note sections. Keep text legible, black typography on white, no watermark, no extra logos, no extra panels. Maintain a polished storyboard poster look with clean borders and vivid cinematic 3D frames.
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2072883797679632882) | 2026-07-03
+
+---
+
+### 🎴 例 3138：游戏生活方式杂志封面
+
+![游戏生活方式杂志封面](../../images/%E6%B8%B8%E6%88%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的电子竞技生活方式杂志封面，主角为一位 {argument name="subject" default="酷炫的韩国女性"}，身穿 {argument name="outfit" default="超大号品牌游戏连帽衫和骑行短裤"}，自信地斜靠在时尚的游戏椅上，双手握着 PlayStation 5 Pro DualSense 手柄正在游戏中，神情专注且带着一丝微妙的坏笑。皮肤散发柔和光泽，精致的电竞少女妆容，霓虹眼线点缀，凌乱丸子头。背景：充满氛围感的暗色游戏空间——身后是闪烁着青色和紫色霓虹灯的多显示器 RGB 战斗台，带有 RGB 散景光效。"{argument name="magazine title" default="IGN"}" 刊头采用醒目的红色游戏衬线字体，并带有 "NEXT GEN ISSUE" 标题。35mm 镜头，超细节手柄纹理和 RGB 霓虹皮肤光泽，8K 电影级游戏编辑风格。
+
+负面提示词：卡通，动漫，模糊，水印，虚假手柄设计。
+
+[English]
+Ultra-realistic gaming lifestyle magazine cover featuring a {argument name="subject" default="cool Korean woman"} in an {argument name="outfit" default="oversized branded gaming hoodie and biker shorts"}, lounging confidently on a sleek gaming chair, holding a PlayStation 5 Pro DualSense controller with both hands mid-game, intense focused expression with a subtle smirk. Soft glowing skin, minimal gaming-girl makeup, neon eyeliner accent, hair in a messy bun. Background: moody dark gaming setup — multi-monitor RGB battlestation glowing in cyan and purple neon behind her, bokeh RGB light scatter. "{argument name="magazine title" default="IGN"}" masthead in bold red gaming serif with "NEXT GEN ISSUE" callout. 35mm lens, ultra-detailed controller texture and RGB neon skin glow, 8K cinematic gaming editorial.
+
+Negative: cartoon, anime, blurry, watermark, fake controller design.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2072870724356981038) | 2026-07-03
+
+---
+

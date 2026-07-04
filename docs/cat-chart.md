@@ -2420,3 +2420,271 @@ Create a simple and cute Korean doodled editorial illustration based on {argumen
 
 ---
 
+### 📊 例 3104：Excel VBA 社区推广横幅
+
+![Excel VBA 社区推广横幅](../../images/Excel%20VBA%20%E7%A4%BE%E5%8C%BA%E6%8E%A8%E5%B9%BF%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 Excel 和 VBA 在线社区创建一个方形推广信息图，采用友好且专业的绿白配色风格，并使用日文字体。
+
+画布：1:1 正方形社交媒体图片，768 x 768 px 视觉感，淡薄荷绿渐变背景，带有柔和的白色曲线、细微的闪光效果，底部角落有小叶子装饰，布局清晰且对比度高。
+
+布局：左上角为大标题区，右上角为插图区，中上部横跨一条深绿色横幅，中心为主要信息区，底部附近为行动号召按钮，最底部为 URL 页脚。
+
+文本内容：顶部标题显示“{argument name="main title" default="Excel Fun*"}”，使用超大加粗深绿色字体，配有厚实的白色描边和柔和的投影。中间丝带横幅显示“{argument name="community headline" default="Excel・VBA 総合コミュニティ"}”，使用加粗白色文本。下方添加副标题“{argument name="community description" default="Excelに関わる全ての人がつながるコミュニティ"}”，字体为深绿色。金色奖章徽章显示“{argument name="member badge text" default="参加者 2500名 突破"}”。底部鼓励语显示“どなたでもお気軽にご参加ください！”（绿色字体）。大型圆角 CTA 按钮显示“{argument name="button text" default="今すぐチェック"}”，加粗白色字体，右侧配有一个白色圆形播放图标。页脚 URL 显示“sites.google.com/view/excel-vba-fun”，并附带一个小地球图标。
+
+主体细节：右上角插图展示一个风格化的 Excel 电子表格窗口，标题栏带有“X-”标记，可见网格单元格和列字母，前方有三个简化的绿色用户剪影，一个圆形的“fx”公式图标，以及正好 2 个聊天气泡：一个带有三个绿点的白色气泡和一个带有三个白点的绿色气泡。中心左侧包含正好 1 枚带有锯齿边缘、月桂花环和三颗小星星的金色印章奖章，文字为加粗的黑褐色。中心右侧包含正好 1 台略微向右倾斜的笔记本电脑，显示一个包含正好 1 个饼图和正好 1 个绿色柱状图的电子表格仪表板；在笔记本电脑前方放置正好 1 个浮动的绿色 Excel 应用磁贴，上面有一个白色 X。
+
+福利列表：在中心垂直堆叠正好 4 张水平圆角白色胶囊卡片。每张卡片左侧有一个绿色圆形图标，右侧为加粗的深绿色日文文本。4 张卡片分别为：1) 聊天气泡图标，“質問・相談歓迎”；2) 扩音器图标，“最新情報を共有”；3) 日历图标，“イベント参加OK”；4) 眼睛图标，“見るだけでもOK”。在福利列表上方添加一条虚线绿色分隔线。
+
+视觉风格：明亮的矢量插图，光泽感的社交横幅设计，圆润的形状，粗轮廓，柔和的阴影，简洁的日文无衬线字体，主色调为翡翠绿、薄荷绿、白色和金色。保持整体清晰、欢快、易于亲近且具有社区感。
+
+约束条件：严格使用上述计数的元素；不要添加额外的福利卡片、额外徽章、额外聊天气泡、二维码、水印或不相关的徽标。按指定要求保留日文文本。
+
+[English]
+Goal: Create a square promotional infographic for an Excel and VBA online community, using a friendly green-and-white corporate style with Japanese typography.
+
+Canvas: 1:1 square social media image, 768 x 768 px feel, pale mint green gradient background with soft white curves, subtle sparkles, small leaf decorations in the lower corners, and a clean high-contrast layout.
+
+Layout: Large title block at the top left, illustration block at the top right, wide dark-green banner across the upper middle, main information area in the center, call-to-action button near the bottom, and URL footer at the very bottom.
+
+Text content: Top title reads “{argument name="main title" default="Excel Fun*"}” in oversized bold dark green letters with thick white outline and soft drop shadow. Middle ribbon banner reads “{argument name="community headline" default="Excel・VBA 総合コミュニティ"}” in bold white text. Under it, add the subtitle “{argument name="community description" default="Excelに関わる全ての人がつながるコミュニティ"}” in dark green. The gold medal badge says “{argument name="member badge text" default="参加者 2500名 突破"}”. Bottom encouragement line says “どなたでもお気軽にご参加ください！” in green. Large rounded CTA button says “{argument name="button text" default="今すぐチェック"}” in bold white, with a white circular play icon on the right. Footer URL reads “sites.google.com/view/excel-vba-fun” with a small globe icon.
+
+Subject details: Top-right illustration shows a stylized Excel spreadsheet window with an “X-” mark in the header, visible grid cells and column letters, three simplified green user silhouettes in front, a round “fx” formula icon, and exactly 2 chat bubbles: one white bubble with three green dots and one green bubble with three white dots. Center-left contains exactly 1 gold seal medal with serrated edge, laurel wreath, three small stars, and bold black-brown lettering. Center-right contains exactly 1 laptop angled slightly right, showing a spreadsheet dashboard with exactly 1 pie chart and exactly 1 green bar chart; place exactly 1 floating green Excel app tile with a white X in front of the laptop.
+
+Benefit list: Create exactly 4 horizontal rounded white pill cards stacked vertically in the center. Each card has a green circular icon on the left and bold dark green Japanese text on the right. The 4 cards are: 1) chat bubble icon, “質問・相談歓迎”; 2) megaphone icon, “最新情報を共有”; 3) calendar icon, “イベント参加OK”; 4) eye icon, “見るだけでもOK”. Add a dotted green divider line above the benefit list.
+
+Visual style: Bright vector illustration, glossy social-banner design, rounded shapes, thick outlines, soft shadows, clean Japanese sans-serif typography, mostly emerald green, mint green, white, and gold. Keep everything crisp, cheerful, accessible, and community-oriented.
+
+Constraints: Use exactly the counted elements described above; do not add extra benefit cards, extra badges, extra chat bubbles, QR codes, watermarks, or unrelated logos. Preserve the Japanese text exactly where specified.
+```
+
+**来源：** [@Excel Fun](https://x.com/ExcelFunFun/status/2072983729325351415) | 2026-07-03
+
+---
+
+### 📊 例 3108：进化分支树可视化
+
+![进化分支树可视化](../../images/%E8%BF%9B%E5%8C%96%E5%88%86%E6%94%AF%E6%A0%91%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个自上而下的分支树，其中 {argument name="theme" default="主题"} 对象沿着从单一根部延伸出的分叉枝干排列，底部为祖先形态，顶端为进化程度最高的形态，展开的树冠形成 {argument name="silhouette shape" default="形状"} 的轮廓 ::5 分支逻辑：AI_INFER 25–45 个主题对象按谱系排列——根部为一个起源，每个分叉代表一次分化，相关形态位于共享分支上——谱系从底部到最外侧顶端清晰可读 ::5 构图：整洁的树状分支，无交叉枝干，树冠分布均匀，轮廓边缘清晰，留白充裕 ::3 材质物理：真实的主题对象，准确的材质和各分支的年代感，一致的哑光质感，柔和阴影，淡淡的连接枝干 ::2 光照：平坦的顶部柔光箱，无眩光 ::2 排版：每个分支顶端带有微小的节点标签 ::2 渲染堆栈：系统发育平铺，家谱式排列，分支谱系集合，8k ::1 负面提示词：[纠缠交叉的枝干，破碎的层级，断开的节点，破碎的树冠轮廓，倾斜，3D 透视，手部] ::-1
+
+[English]
+A top-down branching tree where {argument name="theme" default="THEME"} objects are arranged along forking limbs spreading from a single root, ancestral at the base and most-evolved at the tips, the spreading canopy forming the silhouette of {argument name="silhouette shape" default="SHAPE"} ::5 Branching Logic: AI_INFER 25–45 themed objects placed as a genealogy — one origin at the root, each fork a divergence, related forms on shared branches — the lineage reading clearly from base to outermost tips ::5 Composition: Clean dendritic branching, non-crossing limbs, even canopy spread, clean silhouette edge, generous margin ::3 Material Physics: Real themed objects, accurate materials and age per branch, consistent matte finish, soft shadows, faint connecting limbs ::2 Illumination: Flat overhead softbox, no glare ::2 Typography: Tiny node labels at each branch tip ::2 Render Stack: Phylogenetic flat-lay, family-tree arrangement, branching-lineage collection, 8k ::1 Negative: [tangled crossing branches, broken hierarchy, disconnected nodes, broken canopy silhouette, tilt, 3d perspective, hands] ::-1
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2072972113087283692) | 2026-07-03
+
+---
+
+### 📊 例 3114：极简韩式涂鸦插画
+
+![极简韩式涂鸦插画](../../images/%E6%9E%81%E7%AE%80%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于 {argument name="topic" default="日常琐事"} 创建一幅简约可爱的韩式涂鸦编辑风格插画。
+
+风格：
+手绘涂鸦卡通，
+极简编辑信息图插画，
+干净的黑色墨水轮廓，
+略带不完美的素描线条，
+扁平化 2D 构图，
+极简线条艺术，
+大面积留白，
+仅使用柔和温暖的粉彩作为点缀色。
+
+场景：
+围绕 {argument name="topic" default="日常琐事"} 设计一个温馨的日常瞬间，并包含人物。
+使用简单的背景，仅保留与主题相关的必要物体和道具。
+
+角色：
+可爱简约的比例，
+极简的面部特征，
+淡淡的放松微笑，
+自然姿态，
+简单的休闲装束，
+克制的涂鸦角色风格。
+
+构图：
+垂直 3:4 比例，
+平视视角，
+主体放置在一侧或下方区域，
+另一侧留出大面积空白，
+布局稀疏且通透。
+
+物体：
+极简涂鸦风格道具，如书籍、咖啡杯、植物、雨伞、标志、云朵、爱心、便签、窗户等。
+
+排版：
+在空白处添加简短的英文手写文字。
+
+氛围：
+平静、温馨、温暖、宁静、可爱。
+
+避免：
+水彩画，
+动漫风格，
+写实光影，
+电影级渲染，
+复杂的透视，
+高细节，
+密集构图，
+奢华海报风格，
+油画质感，
+过度渲染的角色。
+
+[English]
+Create a simple and cute Korean doodled editorial illustration based on {argument name="topic" default="daily routine"}.
+
+Style:
+hand-drawn doodle cartoon,
+minimal editorial infographic illustration,
+clean black ink outlines,
+slightly imperfect sketchy lines,
+flat 2D composition,
+minimal line art,
+large clean white negative space,
+soft warm pastel accent colors only.
+
+Scene:
+design a cozy everyday moment around {argument name="topic" default="daily routine"} featuring me
+Use a simple background with only essential objects and props related to the topic.
+
+Character:
+cute simplified proportions,
+minimal facial features,
+small relaxed smile,
+natural pose,
+simple casual outfit,
+restrained doodle character style.
+
+Composition:
+vertical 3:4 ratio,
+eye-level view,
+main subject placed on one side or lower area,
+large empty space on the opposite side,
+sparse and airy layout.
+
+Objects:
+minimal doodle-style props such as books, coffee cups, plants, umbrellas, signs, clouds, hearts, notes, windows, etc.
+
+Typography:
+add small English handwritten text in the empty space.
+
+Mood:
+calm, cozy, warm, quiet, cute.
+
+Avoid:
+watercolor painting,
+anime style,
+realistic lighting,
+cinematic rendering,
+complex perspective,
+high detail,
+dense composition,
+luxury poster mood,
+painterly textures,
+over-rendered characters.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2072959738967703894) | 2026-07-03
+
+---
+
+### 📊 例 3120：复古瑜伽信息图海报
+
+![复古瑜伽信息图海报](../../images/%E5%A4%8D%E5%8F%A4%E7%91%9C%E4%BC%BD%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张关于 {argument name="infographic topic" default="瑜伽八步"} 的竖版复古风格信息图海报。画面中应包含一位 {argument name="model" default="印度男性"} 在布局中演示不同的瑜伽练习和体式，每个步骤展示在独立的插画区域内。加入优雅的瑜伽风格字体、{argument name="texture" default="暖色调羊皮纸"} 质感、装饰性边框、莲花、精致的曼陀罗细节，以及柔和的大地色系（米色和棕色），并配有清晰的教育性标签和简短说明。整体设计应呈现出精致灵性健康图表的感觉，布局平衡、易于阅读且具有装饰性，适合作为精美的瑜伽海报。
+
+[English]
+Create a vertical vintage-style infographic poster about the {argument name="infographic topic" default="eight steps of yoga"}. Feature an {argument name="model" default="Indian man"} demonstrating different yoga practices and poses across the layout, with each step shown in its own illustrated section. Include elegant yoga-inspired typography, {argument name="texture" default="warm parchment paper"} texture, ornamental borders, lotus flowers, subtle mandala details, soft earthy beige and brown tones, and clear educational labels with short descriptions. The overall design should feel like a refined spiritual wellness chart, balanced, readable, decorative, and suitable as a beautiful yoga poster.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072933024166207782) | 2026-07-03
+
+---
+
+### 📊 例 3142：笔记本电脑技术信息图插画
+
+![笔记本电脑技术信息图插画](../../images/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个方形的技术信息图，主体为 {argument name="subject" default="笔记本电脑"}，将逼真的产品照片或照片级渲染图与直接绘制在设备上的精确标注叠加层相结合。
+
+使用纯 {argument name="background color" default="白色"} 的摄影棚背景和 {argument name="ink color" default="黑色"} 的墨水技术线条，呈现出建筑草图或工程手册的风格。包含：
+- 关键组件标签
+- 内部剖面细节或爆炸视图轮廓
+- 测量值、尺寸和比例标记
+- 材质说明和数量注释
+- 显示功能、气流、功率流、声路、压力或其他相关系统行为的箭头
+- 必要时加入简单的示意图或剖面图
+
+将标题“LAPTOP”放置在角落的一个手绘技术标注框内。
+
+风格与布局规则：
+- 逼真的笔记本电脑必须在标注下方清晰可见
+- 标注应具有草图感、技术感和建筑感
+- 保持构图简洁，留白平衡
+- 营造教育感，如同博物馆展板或工程手册页面
+
+视觉风格：
+极简技术插画美学，真实影像上的黑色线条，精确但略带手绘感。
+
+调色板：
+白色背景，仅使用黑色标注线和黑色文字。无其他颜色。
+
+输出：
+1080 x 1080，超清晰，针对社交媒体信息流优化，无水印。
+
+[English]
+Create a square technical infographic of a {argument name="subject" default="laptop"}, combining a realistic product photograph or photorealistic render with precise annotation overlays drawn directly over the device.
+
+Use a pure {argument name="background color" default="white"} studio background and {argument name="ink color" default="black"} ink technical linework, like an architectural sketch or engineering manual. Include:
+- Key component labels
+- Internal cutaway details or exploded-view outlines
+- Measurements, dimensions, and scale markers
+- Material callouts and quantity notes
+- Arrows showing function, airflow, power flow, sound path, pressure, or other relevant system behavior
+- Simple schematic or sectional diagrams where useful
+
+Place the title "LAPTOP" inside a hand-drawn technical annotation box in one corner.
+
+Style and layout rules:
+- The realistic laptop must remain clearly visible beneath the annotations
+- The annotations should feel sketched, technical, and architectural
+- Keep the composition clean with balanced negative space
+- Make it feel educational, like a museum exhibit panel or engineering manual page
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn.
+
+Color palette:
+White background with black annotation lines and black text only. No colors.
+
+Output:
+1080 x 1080, ultra-crisp, optimized for a social feed, no watermark.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072842732922618310) | 2026-07-03
+
+---
+

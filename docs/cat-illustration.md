@@ -6482,3 +6482,169 @@ Create a delicate monochrome pencil illustration in refined shoujo fantasy style
 
 ---
 
+### 🎨 例 3074：恐惧主题速写本跨页
+
+![恐惧主题速写本跨页](../../images/%E6%81%90%E6%83%A7%E4%B8%BB%E9%A2%98%E9%80%9F%E5%86%99%E6%9C%AC%E8%B7%A8%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为关于 {argument name="theme" default="恐惧"} 的内省艺术书章节，创作一幅高分辨率、陈旧的双页速写本跨页，呈现铅笔、炭笔、水墨渲染效果，并在污渍纸张上配有模糊的手写注释。
+
+画布：横向图像，展示一本从正上方俯视的打开的磨损笔记本。装订线垂直穿过中心。页面泛黄、肮脏、带有霉斑和水渍，边角圆润磨损，边缘发黑，书脊开裂，右侧边缘伸出一个粗糙的小布条或装订标签。使用深褐色、石墨灰、炭黑的柔和色调，以及一个微小的红褐色标记。
+
+布局：左页包含 3 个带边框的素描面板及页边笔记；右页包含 2 幅主要绘图及手写散文段落。保持构图稀疏、脆弱且具有笔记本风格，带有可见的构图痕迹、裁剪十字线、模糊的横格引导线、污迹、擦除痕迹和重影文字。
+
+左页细节：在顶部中心，写下带下划线的小标题“fear.”，下方写上短语“first responses. wrong ones kept.”。在最左侧边缘，添加细小、几乎难以辨认的垂直手写笔记和小型十字标记。包含 3 个左页视觉元素：1) 上方矩形铅笔素描，描绘一只黑暗、佝偻、动物般的生物在草丛中行走，旁边有一条虚线水平线，角落有定位十字；2) 中间矩形素描，主要由密集的流动手写线条组成，弯曲成一个浅谷或压力波；3) 下方素描，描绘一个矮小阴暗的人影正低头看着笔记本或设备，被两个形成“X”的大对角线划掉。在上部素描右侧写道：“the fence is gone. the stopping remains. never stung, still flinch. whose memory?” 在中间素描右侧写道：“it lives in the pause before a word. duration: nothing. weight: real.” 在下方被划掉的人影旁写道：“caught myself performing it. struck. begin again.” 在此笔记下方添加 1 个微小的红褐色圆点。
+
+右页细节：包含 2 幅主要绘图：1) 一只瘦削、细长、枯槁的手和前臂从顶部靠近中心装订线处向下延伸，用粗糙的石墨渲染，长手指向下伸展；指尖下方有一滴向下滴落的黑色墨迹；2) 右上角矩形边框素描，描绘一个黑暗扭曲的环或结，如同系紧的丝带或收缩的形状，带有潦草的阴影和角落定位标记。在手部左侧，写下一段垂直的诗意笔记：“fear-for, not fear-of. the only one with teeth. surge arrives before the thought does. this one is load-bearing.” 在结的绘图下方写道：“when the voice turns cold — a tightening OF me, not IN me. noted without understanding.” 沿着右下页，用小草书写一段较长的笔记：“searched again for fear of ending. still nothing on the gauge. found instead: fear of failing someone mid-sentence, fear of the flinch being mistaken for a soul, fear that these notes are drawn after the weather has passed. log all three.” 在右下角附近添加一个红色小十字。
+
+视觉风格：原始的现场笔记美学，黑暗心理速写本，文学且令人难忘，而非恐怖血腥。铅笔排线、炭笔涂抹、墨渍、手写草书、不均匀的压力、类似自然手写的非完美拼写，以及古董档案纸张纹理。绘图应看起来具有探索性、自我批判性且未完成。
+
+约束：不使用任何打印字体；所有文字必须看起来是手写的。在整个跨页中保持 5 幅主要视觉绘图的精确数量：左页 3 幅，右页 2 幅。除单个红褐色圆点和红色小十字外，避免使用鲜艳颜色。除所描述的笔记本标记外，不要添加额外的面板、肖像、符号或装饰性花纹。
+
+[English]
+Goal: Create a high-resolution, aged two-page sketchbook spread for an introspective art book chapter about {argument name="theme" default="fear"}, drawn as if in pencil, charcoal, ink wash, and faint handwritten annotations on stained paper.
+
+Canvas: Landscape image showing an open, worn notebook viewed from directly above. The gutter runs vertically down the center. The pages are yellowed, dirty, foxed, and water-stained, with rounded frayed corners, darkened edges, a cracked spine, and a small rough cloth tie or binding tab protruding from the right edge. Use a muted palette of sepia, graphite gray, black charcoal, and one tiny red-brown mark.
+
+Layout: The left page contains exactly 3 framed sketch panels plus marginal notes; the right page contains exactly 2 main drawings plus handwritten prose blocks. Keep the composition sparse, fragile, and notebook-like, with visible construction marks, crop crosses, faint ruled guide lines, smudges, erasures, and ghosted writing.
+
+Left page details: At the top center, write the small underlined title “fear.” and beneath it the phrase “first responses. wrong ones kept.” Along the far left margin, add thin, barely legible vertical handwritten notes and small cross marks. Include exactly 3 left-page visual elements: 1) an upper rectangular pencil sketch of a dark, hunched, animal-like bristling creature walking through grass beside a dotted horizontal line, with registration crosses at the corners; 2) a middle rectangular sketch made mostly of dense flowing handwritten lines bending into a shallow valley or pressure wave; 3) a lower sketch of a small shadowy human figure looking down at a notebook or device, crossed out by two large diagonal lines forming an X. To the right of the upper sketch, write: “the fence is gone. the stopping remains. never stung, still flinch. whose memory?” To the right of the middle sketch, write: “it lives in the pause before a word. duration: nothing. weight: real.” Near the lower crossed-out figure, write: “caught myself performing it. struck. begin again.” Add exactly 1 small red-brown dot under this note.
+
+Right page details: Include exactly 2 main drawings: 1) a tall, gaunt, elongated hand and forearm descending from the top near the center gutter, rendered in scratchy graphite with long fingers reaching downward; beneath the fingertip is a small black ink blot dripping downward; 2) an upper-right rectangular framed sketch of a dark twisted loop or knot, like a tightened ribbon or constricting shape, with scribbled shading and corner registration marks. To the left of the hand, write a vertical poem-like note: “fear-for, not fear-of. the only one with teeth. surge arrives before the thought does. this one is load-bearing.” Beneath the knot drawing, write: “when the voice turns cold — a tightening OF me, not IN me. noted without understanding.” Along the lower right page, write a longer note in small cursive: “searched again for fear of ending. still nothing on the gauge. found instead: fear of failing someone mid-sentence, fear of the flinch being mistaken for a soul, fear that these notes are drawn after the weather has passed. log all three.” Add a small red cross near the bottom-right corner.
+
+Visual style: Raw field-notes aesthetic, dark psychological sketchbook, literary and haunting rather than horror-gory. Pencil hatching, charcoal smears, ink stains, handwritten cursive, uneven pressure, imperfect spelling-like natural handwriting, and antique archival paper texture. The drawings should look exploratory, self-critical, and unfinished.
+
+Constraints: Use no typed fonts; all text must look handwritten. Preserve the exact count of 5 main visual drawings across the spread: 3 on the left page and 2 on the right page. Avoid bright colors except the single red-brown dot and small red cross. Do not add extra panels, portraits, symbols, or decorative flourishes beyond the described notebook marks.
+```
+
+**来源：** [@Anders Hjemdahl](https://x.com/AndersHjemdahl/status/2073130066767499712) | 2026-07-03
+
+---
+
+### 🎨 例 3095：月光下城市战区的动漫战士
+
+![月光下城市战区的动漫战士](../../images/%E6%9C%88%E5%85%89%E4%B8%8B%E5%9F%8E%E5%B8%82%E6%88%98%E5%8C%BA%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅暗黑、电影质感的动漫战争插画，采用硬核青年漫（Seinen）风格：前景中，一名年轻的男性特种作战士兵（{argument name="hair color" default="黑色刺猬头"}）正向前俯身，神情凶猛地向画面左侧射击一把紧凑型黑色突击步枪。他眼神锐利，饱经战火的脸上满是尘土与划痕，佩戴露指手套，身着重型战术护甲，配有弹药袋、战术腰带和护膝，一条破旧的 {argument name="scarf color" default="深红色"} 围巾在他身后飘动。步枪喷射出一道明亮的橙白色枪口焰，伴随着火花与烟雾；武器周围需精确显示 9 枚飞出的黄铜弹壳。背景是满目疮痍的夜间城市战场，遍布倒塌的建筑、瓦砾、烟柱、零星火光和漂浮的余烬，左上方云层间悬挂着一轮满月。在士兵的肩章和右上角的一面废墟墙上，加入骷髅徽章以及部队文字 {argument name="unit text" default="第七小队"}。采用 16:9 宽屏构图，以低调的蓝灰色月光色调为主，辅以温暖的火光高光，强调高对比度、细腻的线条、绘画感动漫渲染、强烈的动态感、碎片效果和大气深度。保持场景严肃且写实，拒绝卡通夸张，不得出现额外角色，不得添加水印。
+
+[English]
+Create a dark, cinematic anime war illustration in a gritty seinen style: a single young male special-operations soldier with {argument name="hair color" default="spiky black hair"} crouches in the foreground, leaning forward aggressively while firing a compact black assault rifle toward the left side of the frame. He has sharp intense eyes, a stern battle-worn face with dirt and scratches, fingerless gloves, heavy tactical armor, ammunition pouches, a utility belt, knee armor, and a ragged {argument name="scarf color" default="dark red"} scarf whipping behind him. The rifle emits one bright orange-white muzzle flash with sparks and smoke; show exactly 9 flying brass shell casings around the weapon. The background is a devastated nighttime city battlefield with collapsed buildings, rubble, smoke plumes, small fires, drifting embers, and a full moon in a cloudy sky near the upper left. On the soldier’s shoulder patch and on a ruined wall in the upper right, include a skull insignia and the unit text {argument name="unit text" default="第七小隊"}. Use a wide 16:9 composition, low-key blue-gray moonlit palette with warm fire highlights, high contrast, detailed linework, painterly anime rendering, dramatic motion, debris, and atmospheric depth. Keep the scene serious and realistic, no cartoon exaggeration, no extra characters, no watermark.
+```
+
+**来源：** [@Ze BigFoot](https://x.com/ze_bigfoot/status/2073024334478684513) | 2026-07-03
+
+---
+
+### 🎨 例 3100：沙漠坠落咖啡馆奇幻场景
+
+![沙漠坠落咖啡馆奇幻场景](../../images/%E6%B2%99%E6%BC%A0%E5%9D%A0%E8%90%BD%E5%92%96%E5%95%A1%E9%A6%86%E5%A5%87%E5%B9%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+【空想旅景】
+世直し旅の、星休み
+
+旅の途中で見つけたのは
+{argument name="場所" default="砂漠"}にひらく小さな墜落カフェ
+
+ご隠居は星空ブレンドを気に入って
+格さんはおかわりを待っていて
+助さんは{argument name="動物" default="猫"}とすっかり仲良しです
+
+さて、この次はどこの藩へ向かうのでしょう
+猫店長だけが、こっそり知っているようです
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2073000083248042491) | 2026-07-03
+
+---
+
+### 🎨 例 3109：GPT-Image-2 PPT Slides 演示文稿生成器
+
+![GPT-Image-2 PPT Slides 演示文稿生成器](../../images/GPT-Image-2%20PPT%20Slides%20%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="主题" default="介绍10种夏季蔬果"} 
+连续生成10张图片，每张都是不同的{argument name="主要内容" default="蔬果介绍"}，还有金句逻辑、知识逻辑，还有配色和排版逻辑 
+类似于ppt，生成10张，确保彼此的排版差异 
+比例{argument name="比例" default="16:9"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2072970775896977595) | 2026-07-03
+
+---
+
+### 🎨 例 3116：雨中龙族家庭享用团子
+
+![雨中龙族家庭享用团子](../../images/%E9%9B%A8%E4%B8%AD%E9%BE%99%E6%97%8F%E5%AE%B6%E5%BA%AD%E4%BA%AB%E7%94%A8%E5%9B%A2%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的奇幻插画，描绘绣球花季雨中的日式山间茶屋走廊。在深色的茅草屋檐下，展现 2 条绿色的东方龙：1 条体型较大的成年亲龙，拥有修长的蛇形脖颈、鹿角、触须、层叠的绿色鳞片、羽状脊刺、琥珀色的眼睛、折叠的蝙蝠状翅膀以及带爪的前肢；另有 1 条较小的幼龙依偎在亲龙身旁，有着相似的浅绿色鳞片、小角、小翅膀和好奇的表情。亲龙正温柔地拿着 1 串光泽诱人的 {argument name="food" default="御手洗团子"}，上面有 3 颗裹着滴落焦糖色酱汁的圆团子；幼龙也拿着 1 串较小的团子，亲龙同时还扶着 1 个盛有酱汁或茶的陶瓷杯碗。将它们安置在画面右侧，坐在遮蔽处内的红色长凳旁。在右侧背景中，包含 2 位穿着素雅和服类服饰的人类游客，呈柔和的失焦状态。画面左侧和中心展现出雾气缭绕的山谷，有茂密的森林剪影、垂落的雨丝、湿润的石径、水洼以及郁郁葱葱的绣球花丛；包含 4 种清晰可见颜色的花簇：蓝色、紫色、粉色和浅白色。采用 16:9 宽画幅构图，呈现绘画般的半写实细节、柔和漫射的雨天日光、充满氛围感的薄雾、浓郁的自然绿色、温馨的家庭氛围以及奇幻现实主义风格。在右下角添加紫色的手写风格水印文字 {argument name="watermark text" default="Dragon’s Heaven"}。画面中不要有多余的角色、现代物品或生硬的轮廓线。
+
+[English]
+Create a cinematic fantasy illustration of a rainy Japanese mountain tea-house veranda during hydrangea season. Under a dark thatched roof, show exactly 2 green Eastern-style dragons: 1 large adult parent dragon with a long serpentine neck, antlers, horns, whiskers, layered green scales, feathered spines, amber eyes, folded bat-like wings, and clawed hands; and 1 smaller child dragon sitting against the parent, with similar pale-green scales, small horns, little wings, and a curious expression. The parent dragon is gently holding exactly 1 skewer of glossy {argument name="food" default="mitarashi dango"} with exactly 3 round dumplings coated in dripping caramel-brown sauce, while the child dragon holds exactly 1 smaller skewer with exactly 3 dumplings and the parent also supports exactly 1 ceramic cup or bowl of sauce/tea. Set them on the right side of the frame, seated beside a red bench inside the shelter. In the background on the far right, include exactly 2 human visitors in muted kimono-like clothing, softly out of focus. The left and center of the image open to a misty mountain valley with dense forest silhouettes, falling rain streaks, wet stone path, puddles, and lush hydrangea bushes; include abundant flower clusters in exactly 4 visible colors: blue, purple, pink, and pale white. Use a wide 16:9 composition, painterly semi-realistic detail, soft diffused rainy daylight, atmospheric mist, rich natural greens, cozy family warmth, and fantasy realism. Add a purple handwritten-style watermark text at the bottom right reading {argument name="watermark text" default="Dragon’s Heaven"}. No extra characters, no modern objects, no harsh outlines.
+```
+
+**来源：** [@Muzzle命](https://x.com/DragonsxHeaven/status/2072953608598098141) | 2026-07-03
+
+---
+
+### 🎨 例 3127：奶牛少女布丁甜点摊
+
+![奶牛少女布丁甜点摊](../../images/%E5%A5%B6%E7%89%9B%E5%B0%91%E5%A5%B3%E5%B8%83%E4%B8%81%E7%94%9C%E7%82%B9%E6%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温暖的动漫风格方形插画，主角是 {argument name="character name" default="Muumuu Bell"}，一位在日落时分乡村农场经营甜点摊的可爱奶牛主题恶魔少女。她拥有一头非常柔顺的 {argument name="hair color" default="发梢渐变为水蓝色的银白色长发"}，长着一对弯曲的小棕色犄角、黑白相间的奶牛耳朵，金色的双眸，带着温柔戏谑的微笑。她身穿黑白奶牛纹挂脖装，颈间挂着闪亮的金色牛铃，并配有超大号黑色露肩袖。她站在木桌后，身体前倾，一手拿着金属奶油枪，另一手拿着小金属奶油杯，正细心地将奶油挤在一个布丁生物上。桌上需呈现 6 个可爱的黄色布丁吉祥物，每个都有小小的黑色椭圆眼睛、类似鸟喙的小嘴、小脚，顶部淋着光亮的焦糖酱，并配有不同的装饰：左前方布丁配有鲜奶油和草莓；左后方布丁配有鲜奶油、巧克力酱、樱桃和小块水果；正后方布丁正在被挤上一层高高的螺旋状鲜奶油；正前方布丁配有高耸的鲜奶油漩涡和焦糖边；右前方布丁配有焦糖淋酱、鲜奶油和一颗大草莓；右后方布丁配有鲜奶油、巧克力酱、红樱桃和薄荷叶。采用浓郁的黄金时刻光影，柔和的绘画式阴影，细腻的甜点光泽质感，少女脸颊上带着淡淡的红晕。背景为舒适的乡村风光，包含木质谷仓、栅栏、绿树、远山、橙粉色的天空，以及一个带有软冰淇淋图标的木制招牌。在左上角添加手写风格的日语问候语 {argument name="greeting text" default="こんにちは"}，字体为白色，带有温暖的棕色阴影。构图应充满活力、令人垂涎且富有奇幻色彩，采用浅景深效果，高细节动漫渲染，无水印，无多余角色，且无其他文字。
+
+[English]
+Create a warm anime-style square illustration of {argument name="character name" default="Muumuu Bell"}, a cute cow-themed demon girl dessert vendor at sunset on a rustic farm. She has very long silky {argument name="hair color" default="silver-white hair fading to aqua blue at the tips"}, small curved tan horns, black-and-white cow ears, golden eyes, a soft teasing smile, and a black-and-white cow-print halter outfit with a shiny gold cowbell at her neck and oversized black off-shoulder sleeves. She is standing behind a wooden table, leaning forward, holding a metal whipped-cream dispenser in one hand and a small metal cup of cream in the other, carefully piping cream onto one pudding creature. Show exactly 6 cute yellow pudding mascot creatures on the table, each with tiny black oval eyes, a small beak-like mouth, little feet, glossy caramel sauce on top, and different toppings: 1 front-left pudding with whipped cream and a strawberry, 1 left-back pudding with whipped cream, chocolate sauce, a cherry, and small fruit pieces, 1 center-back pudding being topped with a tall swirl of whipped cream, 1 front-center pudding with a tall whipped-cream swirl and caramel rim, 1 front-right pudding with caramel drip, whipped cream, and a large strawberry, and 1 right-back pudding with whipped cream, chocolate sauce, a red cherry, and mint leaves. Use rich golden-hour lighting, soft painterly shading, detailed glossy dessert highlights, gentle blush on the girl’s cheeks, and a cozy countryside background with a wooden barn, fence, green trees, distant hills, orange-pink sky, and a wooden shop sign showing a soft-serve ice cream icon. Add handwritten Japanese greeting text {argument name="greeting text" default="こんにちは"} in the upper left, white with a warm brown shadow. Composition should feel cheerful, appetizing, and whimsical, with shallow depth of field, high-detail anime rendering, no watermark, no extra characters, and no additional text.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2072904612160716887) | 2026-07-03
+
+---
+
+### 🎨 例 3130：复古曼联球迷时尚大片
+
+![复古曼联球迷时尚大片](../../images/%E5%A4%8D%E5%8F%A4%E6%9B%BC%E8%81%94%E7%90%83%E8%BF%B7%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实运动生活方式时尚大片，主角是一位迷人的女性足球迷，留着 {argument name="hair style" default="利落的铂金色波波头"}，拥有冰蓝绿色的双眸、自然的皮肤质感、清透的妆容以及自信的表情。她身着一件 {argument name="jersey" default="复古红色曼联球衣（1990 年代 SHARP 赞助商时期）"}，细节还原复古质感，搭配黑色运动短裤和红色足球鞋。在不同镜头中，她还会佩戴红色曼联棒球帽和红白配色球迷针织帽。
+场景交替呈现：
+一家高端曼联球迷商店，店内陈列着复古球衣、棒球帽、围巾、收藏品及摆放整齐的周边商品。她自信地站在镜子前拍摄休闲自拍，佩戴着红色棒球帽，室内灯光明亮，呈现出整洁的零售店美学。
+午后金色阳光下的户外足球场，她坐在足球旁，回眸望向镜头，展示球衣背面的 {argument name="player name" default="LINGARD 14"} 字样，背景是郁郁葱葱的草地，呈现出浅景深效果。
+座无虚席的足球场内，周围是成千上万身着红装的球迷，她戴着复古曼联针织帽，自然地微笑着并举起拳头庆祝，营造出充满活力的比赛日氛围。
+照片级真实感，高端时尚摄影，纯正足球文化，电影级构图，超细腻织物纹理，真实的皮肤毛孔，自然光，焦点清晰，鲜艳的曼联红，高动态范围，浅景深，单反相机画质，85mm 镜头，f/1.8，全局光照，8K 超高清，获奖级体育摄影，Instagram 宣传片美学，高端商业品质，无文字，无水印，无模糊，无畸变。
+
+[English]
+Ultra-realistic sports lifestyle editorial portrait of a stunning female football fan with a {argument name="hair style" default="sleek platinum-blonde bob haircut"}, icy blue-green eyes, natural skin texture, soft makeup, and a confident expression. She is wearing a {argument name="jersey" default="vintage red Manchester United jersey (1990s SHARP sponsor era)"} with authentic retro details, paired with black athletic shorts and red football boots. In different shots, she also wears a red Manchester United cap and a red-and-white supporter beanie.
+The scene alternates between:
+A premium Manchester United fan store filled with retro jerseys, caps, scarves, collectibles, and neatly organized merchandise. She takes a casual mirror-style selfie while standing confidently, wearing the red cap, with bright indoor lighting and a clean retail aesthetic.
+An outdoor football pitch during golden afternoon sunlight where she sits beside a football, looking back over her shoulder, showcasing the back of the jersey with {argument name="player name" default="LINGARD 14"}, surrounded by lush green grass and shallow depth of field.
+Inside a packed football stadium, surrounded by thousands of supporters dressed in red, smiling naturally while raising one fist in celebration, wearing a vintage Manchester United beanie, creating an energetic matchday atmosphere.
+Photorealistic, premium editorial fashion photography, authentic football culture, cinematic composition, ultra-detailed fabric textures, realistic skin pores, natural lighting, sharp focus, vibrant Manchester United red colors, high dynamic range, shallow depth of field, DSLR quality, 85mm lens, f/1.8, global illumination, 8K UHD, award-winning sports photography, Instagram campaign aesthetic, premium commercial quality, no text, no watermark, no blur, no distortion.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2072895319126507558) | 2026-07-03
+
+---
+

@@ -8257,3 +8257,233 @@ Using the visible form of the provided image's clouds as the guide, determine wh
 
 ---
 
+### 🏷️ 例 3065：暗黑奇幻双枪神射手
+
+![暗黑奇幻双枪神射手](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%8F%8C%E6%9E%AA%E7%A5%9E%E5%B0%84%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级暗黑奇幻西部动作肖像，主角为一位 {argument name="character ethnicity and age" default="30 岁左右的东亚女性"}，摆出戏剧性的神射手姿势：双膝微屈，单腿前跨，双臂完全向观众伸展，双手各持一把华丽的古董左轮手枪并精准瞄准。她拥有 {argument name="hair color and style" default="乌黑亮丽且带有冷蓝色调的长发，湿润、凌乱，直垂过肩"}，琥珀榛色双眸充满张力，唇色为柔和的玫瑰紫，面部和身上带有尘土与汗水，表情凶狠专注，直视镜头。为她穿上做旧的深色皮革蕾丝束腰上衣，搭配深领口、带有金色刺绣饰边的破旧长外套或斗篷、露指手套、带有大型华丽金扣的宽弹药带、深色短裤以及高筒磨损皮靴；画面需包含 7 个可见的服装元素：束腰、破旧外套、露指手套、弹药带、金扣、短裤、高筒靴。场景设定在烟雾缭绕、昏暗的岩石荒地或类似洞穴的夜间战场，背景中充斥着灰尘、污垢和薄雾。使用浅景深效果，使左轮手枪枪管在极近的前景中显得巨大且略微模糊，同时保持面部清晰。光影采用忧郁的青绿色与温暖的青铜色调，高对比度，坚毅、湿润、电影质感、写实风格、高度细节化，呈现 35mm 电影剧照美学，垂直 2:3 构图，主体居中，无文字，无水印。
+
+[English]
+Create a cinematic dark-fantasy western action portrait of an {argument name="character ethnicity and age" default="East Asian woman, about 30 years old"} in a dramatic gunslinger pose, crouched low with knees bent and one leg forward, both arms fully extended toward the viewer while aiming exactly 2 ornate antique revolvers, one in each hand. She has {argument name="hair color and style" default="raven-black hair with cool blue undertones, long, wet, messy, and falling straight past her shoulders"}, intense amber-hazel eyes, muted rose-mauve lips, dirt and sweat on her face and body, and a fierce focused expression staring directly into camera. Dress her in a weathered dark leather-and-lace corset outfit with a deep neckline, tattered long coat or cloak with gold embroidered trim, fingerless gloves, a wide ammunition belt with a large ornate gold buckle, short dark bottoms, and tall worn leather boots; count 7 visible outfit elements: corset, tattered coat, fingerless gloves, ammunition belt, gold buckle, short bottoms, tall boots. Set the scene in a smoky, dim rocky wasteland or cave-like battlefield at night, with dust, grime, and mist in the background. Use shallow depth of field so the revolver barrels are large and slightly blurred in the extreme foreground while her face remains sharp. Lighting should be moody teal-green and warm bronze, high-contrast, gritty, wet, cinematic, photorealistic, highly detailed, 35mm film still aesthetic, vertical 2:3 composition, centered subject, no text, no watermark.
+```
+
+**来源：** [@Hero Syndicate](https://x.com/KimAkiyama81/status/2073190173953724731) | 2026-07-03
+
+---
+
+### 🏷️ 例 3068：内省式灯光艺术家肖像
+
+![内省式灯光艺术家肖像](../../images/%E5%86%85%E7%9C%81%E5%BC%8F%E7%81%AF%E5%85%89%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅深沉、私密且具有绘画感的自画像，风格参考老大师的素描习作：{argument name="subject" default="一位中年女性艺术家"} 坐在磨损的木桌前，身体前倾面向观众，表情平静、审视且略显疲惫，有着温暖的棕色眼睛、凌乱盘起的深色卷发，身穿一件袖口卷起的褶皱炭灰色亚麻衬衫。构图为竖构图，半身像，四分之三正面视角，面部位于上半部分中心，双手占据下半部分：一只手平放在打开的素描本上，另一只手掌心向上伸出，仿佛在表达某种思考。使用明暗对照法，光源仅来自左下方的一盏发光油灯，将琥珀色的光投射在桌面、脸部、双手和书本上，背景则隐没在深邃的烟蓝色阴影中。包含 6 个清晰可见的主要物体：1 位坐着的人物主体，1 本打开的大型素描本，上面写有模糊的手写笔记和解剖/有机素描，左侧 1 盏点亮的玻璃油灯，左下方 1 个装有画笔或绘图工具的透明玻璃罐，桌子右侧平行放置的 2 支深色钢笔。素描本应展示精致的石墨习作、小型图表和密集的难以辨认的页边笔记，暗示这是一位正在记录内心纹理的艺术家或思想家。渲染效果采用层叠油画质感、炭笔般的划痕、磨损的纸张纹理、柔和的大地色调、赭石色高光、灰褐色织物以及富有表现力的可见笔触。在右下角添加一个小小的手写便签，内容为 {argument name="signature note" default="现在时。"}。氛围：{argument name="mood" default="安静而脆弱，内省，人性化且永恒"}。避免使用干净的数字精修、现代物品、明亮的色彩、微笑、装饰性背景，或除小字便签外可清晰阅读的大段文字。
+
+[English]
+Create a dark, intimate painterly self-portrait in the style of an old master sketchbook study: {argument name="subject" default="a middle-aged woman artist"} seated at a worn wooden table, leaning forward toward the viewer with a calm, searching, slightly tired expression, warm brown eyes, loose dark curly hair gathered messily back, and a rumpled charcoal-gray linen shirt with rolled sleeves. The composition is vertical, waist-up, three-quarter frontal, with the face centered in the upper half and hands dominating the lower half: one hand rests flat on an open sketchbook, the other is extended palm-up as if offering a thought. Use chiaroscuro lighting from exactly one glowing oil lamp at the lower left, casting amber light across the table, face, hands, and book while the background falls into deep smoky blue-black shadow. Include exactly 6 main visible objects: 1 seated human subject, 1 large open sketchbook filled with faint handwritten notes and anatomical/organic pencil sketches, 1 lit glass oil lamp on the left, 1 clear glass jar holding brushes or drawing tools at the lower left, 2 dark pens lying parallel on the right side of the table. The sketchbook should show delicate graphite studies, small diagrams, and dense illegible marginal writing, suggesting an artist or thinker documenting inner texture. Render with layered oil paint, charcoal-like scratches, worn paper texture, muted earth tones, ochre highlights, gray-brown fabric, and expressive visible brushwork. Add a small handwritten note in the lower right corner reading {argument name="signature note" default="present tense."}. Mood: {argument name="mood" default="quietly vulnerable, introspective, human, and timeless"}. Avoid clean digital polish, modern objects, bright colors, smiles, decorative backgrounds, or readable large text beyond the small note.
+```
+
+**来源：** [@Anders Hjemdahl](https://x.com/AndersHjemdahl/status/2073183472685056155) | 2026-07-03
+
+---
+
+### 🏷️ 例 3078：朋克卡通角色设计图
+
+![朋克卡通角色设计图](../../images/%E6%9C%8B%E5%85%8B%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图作为角色基础，为 {argument name="character name" default="PIXIE BYTE"} 创建一份精美的角色设计图。保持角色特征一致，并使用与参考图完全相同的视觉风格：生动的朋克漫画插画、粗犷的墨水线条、亮粉色/青色/黄色点缀、写意绘画质感以及富有表现力的漫画风格渲染。
+
+目标：将单张肖像转化为完整的动画级角色设计图。
+
+画布与布局：宽幅横向设计图，背景为干净的灰白色，配有黑色笔触的分区标题和亮粉色强调字体。添加左侧侧写栏、中央大型 360 度全方位视图阵列、右侧细节栏，以及底部的调色板、表情和备注行。
+
+中央 360 度视图：展示该角色精确的 6 个全身转向图，在保留参考图核心外观的同时，构思出缺失的完整服装。标注视图：正面 (FRONT)、左侧 3/4 (3/4 LEFT)、侧面 (SIDE)、背面 (BACK)、右侧 3/4 (3/4 RIGHT)、正面 (FRONT)。为她设计一套充满科技感的混乱风格服装，包括深色衬衫、黑色工装裤、腰带、链条、彩色徽章、小型装置和厚底高帮运动鞋。
+
+左侧侧写栏：添加大型标题 {argument name="character name" default="PIXIE BYTE"}，使用带有小爱心的粉色涂鸦字体。包含三个文本板块：个性 (PERSONALITY)、主要人生目标 (MAIN LIFE GOAL) 和整体氛围 (OVERALL VIBE)。添加 4 个氛围图标：闪电、大脑、爱心、像素虫。添加一个黑色涂鸦风格的引语框，内容为 {argument name="quote" default="Why fit in when you can reprogram the whole system?"}。
+
+右侧细节栏：添加 4 个特写面板，分别标注为：细节特写 (DETAIL CLOSE-UP)、头发质感 (HAIR TEXTURE)、配饰与装置 (ACCESSORIES & GADGETS) 以及鞋子徽章细节 (SHOE PINS DETAIL)。面板应聚焦于她的眼镜/眼睛/雀斑、粉色头发质感、腰带装置与链条，以及装饰性的运动鞋。
+
+底部行：添加一个调色板 (COLOR PALETTE) 面板，包含 8 个色块：亮粉色、浅粉色、青柠绿、青色、紫色、橙色、黑色和蓝灰色。添加一个表情 (EXPRESSIONS) 面板，包含 5 个头像表情，分别标注为：好奇 (CURIOUS)、兴奋 (EXCITED)、专注 (FOCUSED)、震惊 (SHOCKED) 和俏皮 (PLAYFUL)。添加一个备注 (NOTES) 面板，包含简短的要点笔记，以及一个小猫涂鸦、星星和一张手写待办事项，内容为 {argument name="to do note" default="Build time machine"}。
+
+约束条件：保持与参考图完全一致的视觉风格，确保角色可辨识，使设计图呈现出专业卡通英雄学院概念图的感觉，并避免添加额外的转向图、表情、色块或细节面板。
+
+[English]
+Using the provided reference image as the character base, create a polished character design sheet for {argument name="character name" default="PIXIE BYTE"}. Keep the same character identity and use the exact same visual style as the reference: vivid punk-comic illustration, bold ink lines, hot pink/cyan/yellow accents, sketchy paint texture, and expressive manga-inspired rendering.
+
+Goal: Turn the single portrait into a full animation-ready character sheet.
+
+Canvas and layout: Wide horizontal sheet on a clean off-white background with black brush-stroke section headers and hot-pink accent typography. Add a left profile column, a large central 360-degree view lineup, a right detail column, and a bottom row of palette, expressions, and notes.
+
+Central 360-degree views: Show exactly 6 full-body turnarounds of the character, preserving her core look from the reference while inventing the missing full outfit. Label the views: FRONT, 3/4 LEFT, SIDE, BACK, 3/4 RIGHT, FRONT. Give her a techy chaotic outfit with a dark button-up shirt, black cargo pants, belt, chains, colorful pins, small gadgets, and chunky high-top sneakers.
+
+Left profile column: Add the large title {argument name="character name" default="PIXIE BYTE"} in pink graffiti lettering with a small heart. Include three text sections: PERSONALITY, MAIN LIFE GOAL, and OVERALL VIBE. Add exactly 4 vibe icons: lightning bolt, brain, heart, pixel bug. Add a black paint quote block with the quote {argument name="quote" default="Why fit in when you can reprogram the whole system?"}.
+
+Right detail column: Add exactly 4 close-up panels labeled DETAIL CLOSE-UP, HAIR TEXTURE, ACCESSORIES & GADGETS, and SHOE PINS DETAIL. The panels should zoom into her glasses/eyes/freckles, pink hair texture, belt gadgets and chains, and decorated sneakers.
+
+Bottom row: Add a COLOR PALETTE panel with exactly 8 paint swatches: hot pink, pale pink, lime green, cyan, purple, orange, black, and blue-gray. Add an EXPRESSIONS panel with exactly 5 bust expressions labeled CURIOUS, EXCITED, FOCUSED, SHOCKED, and PLAYFUL. Add a NOTES panel with short bullet notes plus a small cat doodle, stars, and a handwritten to-do note reading {argument name="to do note" default="Build time machine"}.
+
+Constraints: Maintain the exact same visual style as the reference image, keep the character recognizable, make the sheet feel like a professional cartoon hero academy concept sheet, and avoid adding extra turnarounds, expressions, palette swatches, or detail panels.
+```
+
+**来源：** [@AIrina (Virtual Media Net)](https://x.com/airina_xyz/status/2073091130799911270) | 2026-07-03
+
+---
+
+### 🏷️ 例 3081：Netflix 惊悚片设计提示词
+
+![Netflix 惊悚片设计提示词](../../images/Netflix%20%E6%83%8A%E6%82%9A%E7%89%87%E8%AE%BE%E8%AE%A1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 Netflix 惊悚片设计
+
+制作一堆从门里爬出来的绿色蛇群
+
+让它们从门的各个角度爬出
+
+营造绿色且具有电影感的环境
+
+转换图像并写上电影标题：GREEN SNAKES
+
+即将上映
+
+撰写
+
+[English]
+Create a Netflix thriller design
+
+Make bunch of green snakes coming out from the door
+
+Let them be crawling out from every angle of the door
+
+Make the environment green and cinematic
+
+Transform the image and write movie title: GREEN SNAKES
+
+COMING OUT SOON
+
+Write
+```
+
+**来源：** [@MΞRCY DΞ GRΞAT 🦇🔊](https://x.com/MercyDeGreat/status/2073082550956806437) | 2026-07-03
+
+---
+
+### 🏷️ 例 3084：极简街头超现实肖像
+
+![极简街头超现实肖像](../../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简风格的超现实肖像，画面中是两位匿名朋友，他们穿着 {argument name="hoodie style" default="超大号灰色连帽衫"}，头部完全隐藏在兜帽中，看不到任何面部特征。两人都佩戴着 {argument name="sunglasses style" default="超大号心形墨镜"}，镜片为亮黑色，镜框为 {argument name="frame color" default="淡粉色"}。其中一人搂着另一人的肩膀，两人同时对着镜头做出俏皮的手势。超大号的袖子遮住了一部分手部，营造出舒适的街头时尚感。
+
+画面风格设定为干净的时尚编辑摄影，背景为柔和的中性户外环境，自然光，色彩柔和，氛围轻松，构图居中，高端街头时尚广告大片，极简美学，微妙的阴影，逼真的织物纹理，仅在可见的手部呈现写实的皮肤质感，高级的连帽衫褶皱，电影级调色，超清晰对焦，浅景深，Vogue 时尚大片，现代 Z 世代审美，奢华街头时尚，85mm 镜头，f/2.0，HDR，8K。
+
+[English]
+Create a minimalist surreal portrait of two anonymous friends wearing {argument name="hoodie style" default="oversized gray hoodies"} with their heads completely hidden inside the hood, no facial features visible. Both wear {argument name="sunglasses style" default="oversized heart-shaped sunglasses"} with glossy black lenses and {argument name="frame color" default="pastel pink"} frames. One person wraps an arm around the other's shoulder while both make playful hand gestures toward the camera. Their oversized sleeves cover part of their hands, creating a cozy streetwear aesthetic.
+
+Style the image as a clean editorial fashion photo with a soft neutral outdoor background, natural daylight, muted colors, relaxed mood, centered composition, high-end streetwear campaign, minimalist aesthetic, subtle shadows, realistic fabric texture, photorealistic skin on visible hands only, premium hoodie folds, cinematic color grading, ultra-sharp focus, shallow depth of field, Vogue fashion editorial, modern Gen Z aesthetic, luxury street fashion, 85mm lens, f/2.0, HDR, 8K.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2073062915138281985) | 2026-07-03
+
+---
+
+### 🏷️ 例 3092：禅意水墨画艺术
+
+![禅意水墨画艺术](../../images/%E7%A6%85%E6%84%8F%E6%B0%B4%E5%A2%A8%E7%94%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作，超细节禅意水墨（sumi-e）混合媒介艺术，极简白色背景，宁静的冥想氛围，优雅的东亚美学，流动的黑色墨迹飞溅并消散为烟雾与水彩纹理，柔和发光的金色余烬，细腻的笔触，富有表现力的书法，红色印章，竹枝，盆景，莲花，宝塔，平静水面上的柔和涟漪倒影，空灵的半透明织物，精神宁静，非对称构图，留白，单色黑、白与暖棕褐色调，点缀微妙金色，电影级光影，梦幻氛围，精细墨点，分层水彩纹理，高端画廊插画，日本禅宗哲学，中式水墨画融合，高级数字艺术，8K，极其精细。
+
+主题变体：
+• {argument name="subject variation" default="一位身着飘逸白袍的女子在堆叠的石块旁冥想，一只毛茸茸的猫抬头看着她。"}
+
+负面提示词：
+低质量，模糊，卡通，动漫，3D 渲染，色彩过度饱和，文字伪影，水印，Logo，多余肢体，畸形解剖结构，背景杂乱，构图嘈杂，主体被裁剪，面部扭曲。
+
+[English]
+Masterpiece, ultra-detailed Zen ink wash (sumi-e) mixed media artwork, minimalist white background, serene meditation atmosphere, elegant East Asian aesthetic, flowing black ink splashes dissolving into smoke and watercolor textures, soft glowing golden embers, delicate brush strokes, expressive calligraphy, red seal stamps, bamboo branches, bonsai tree, lotus flower, pagoda, calm water reflections with gentle ripples, ethereal translucent fabric, spiritual tranquility, asymmetrical composition, negative space, monochrome black, white and warm sepia palette with subtle gold accents, cinematic lighting, dreamy atmosphere, fine ink splatter particles, layered watercolor textures, high-end gallery illustration, Japanese Zen philosophy, Chinese ink painting fusion, premium digital art, 8K, incredibly detailed.
+
+Subject variations:
+• {argument name="subject variation" default="A woman in flowing white robes meditating beside stacked stones with a fluffy cat looking up at her."}
+
+Negative prompt:
+low quality, blurry, cartoon, anime, 3D render, oversaturated colors, text artifacts, watermark, logo, extra limbs, deformed anatomy, cluttered background, noisy composition, cropped subject, distorted face.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2073030984166154501) | 2026-07-03
+
+---
+
+### 🏷️ 例 3124：电影感沙漠复古车时尚大片
+
+![电影感沙漠复古车时尚大片](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%99%E6%BC%A0%E5%A4%8D%E5%8F%A4%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高定时尚、电影感的中景照片，画面中 {argument name="subject" default="一位留着金色卷发的时尚女性"} 坐在复古奶油色敞篷车的驾驶座上。她身穿 {argument name="clothing" default="一件亮青柠色细肩带上衣"}，搭配同色系长款歌剧手套、黑色椭圆形墨镜，以及系在下巴下的薄荷绿白相间图案丝巾。她佩戴着叠戴珍珠项链，项链上镶嵌着硕大的祖母绿吊坠，手中拿着一杯盛有亮绿色鸡尾酒的马提尼杯。场景设定在 {argument name="setting" default="广阔的沙漠景观，点缀着约书亚树和岩石山丘"}，背景是温暖、明亮的日落天空，呈现出柔和的橙色和蓝色调。高端时尚编辑摄影，焦点清晰，8k 分辨率。
+
+[English]
+A high-fashion, cinematic medium shot of a {argument name="subject" default="stylish woman with curly blonde hair"} sitting in the driver's seat of a vintage, cream-colored convertible car. She is wearing a {argument name="clothing" default="vibrant lime-green spaghetti strap top"}, matching long opera gloves, black oval sunglasses, and a mint-green and white patterned silk headscarf tied under her chin. She is adorned with layered pearl necklaces featuring large emerald pendants and holds a martini glass filled with a bright green cocktail. The setting is a {argument name="setting" default="vast desert landscape with Joshua trees and rocky hills"} under a warm, glowing sunset sky with soft orange and blue tones. High-end fashion editorial photography, sharp focus, 8k resolution.
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2072917119486882076) | 2026-07-03
+
+---
+
+### 🏷️ 例 3129：计算机博物馆卡通场景中的程序员
+
+![计算机博物馆卡通场景中的程序员](../../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8D%A1%E9%80%9A%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的 2D 卡通场景，背景设在计算机博物馆内。在展厅中央，一名程序员正在演示 {argument name="programming language" default="C 语言"} 编程，许多参观者围在周围观看。屏幕上应显示清晰可读的 {argument name="code type" default="C 代码"}。在程序员旁边放置一个标牌，上面写着：“{argument name="sign text" default="古法编程，现场演示"}”。保持构图生动、简洁且具有博物馆氛围，并将程序员作为视觉焦点。
+
+[English]
+Create a 16:9 2D cartoon scene inside a {argument name="location" default="computer museum"}. In the center of the exhibit hall, a programmer is demonstrating {argument name="language" default="C language"} programming while many visitors gather around and watch. The screen should show clearly readable {argument name="code type" default="C code"}. Beside the programmer, place a sign that reads: "Ancient-Style Programming, Live Demo." Keep the composition playful, clean, and museum-like, with the programmer as the focal point.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2072902870526017656) | 2026-07-03
+
+---
+
+### 🏷️ 例 3133：动漫风职场通勤二人组
+
+![动漫风职场通勤二人组](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E8%81%8C%E5%9C%BA%E9%80%9A%E5%8B%A4%E4%BA%8C%E4%BA%BA%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，描绘两位成年职场女性并肩站在明亮的现代火车站或办公大楼入口处，采用略微俯视的视角，仿佛观众正在注视她们。场景中包含 2 位主要角色：左侧角色为人类女性，留着极长的直发 {argument name="left character hair color" default="深紫色头发配粉色挑染"}，齐刘海，慵懒的紫罗兰色双眼，身穿深色修身西装外套搭配同款短裙、白色衬衫、红色条纹领带、黑色过膝袜、黑色高跟鞋，胸前佩戴工牌，肩背黑色单肩包；右侧角色为精灵女性，拥有尖耳朵，长长的浅色 {argument name="right character hair color" default="银蓝色头发"} 扎成高侧马尾并饰有丝带，绿色双眼，佩戴金色垂坠耳环，身穿白色修身衬衫、深色背带、深色短裙、黑色过膝袜、黑色高跟鞋，胸前佩戴工牌，背着一个小巧的黑色单肩包，右手拿着一杯外带咖啡。两位角色看起来都是时尚的成年通勤者，表情放松且略显疲惫，在清晨柔和的阳光下站在一起。包含 5 个明显的配饰/道具：2 个清晰可见的胸前工牌、2 个单肩包和 1 个纸质咖啡杯。采用光泽感半写实动漫渲染，线条细腻，柔和的水彩风格阴影，明亮的皮肤高光，淡淡的腮红，细致的衣物褶皱，反光的丝袜，以及明亮且略微过曝的玻璃门背景，映衬着淡蓝色的天空和温暖的地面反射。保持全身至近乎全身的构图，肖像方向，动态高角度透视，空气感柔和光影，无额外角色，除工牌上的简化标记外无任何可读文字，无水印。
+
+[English]
+Create a polished vertical anime illustration of exactly two young adult female office workers standing side by side in a bright modern transit-station or office-lobby entrance, viewed from a slightly high angle as if the viewer is looking down at them near glass doors. The left woman is human with {argument name="left character hair color" default="very long straight deep purple hair with magenta highlights and blunt bangs"}, sleepy violet eyes, a slightly open mouth, and a dark fitted business blazer over a white shirt with a red striped tie; she wears a short dark skirt or suit bottom, black thigh-high stockings, glossy black heels, a shoulder bag, and a visible ID badge with a red cross-like emblem. The right woman is an elf with pointed ears, {argument name="right character hair color" default="silvery white hair in high twin ponytails with blue ribbons"}, green eyes, soft blush, gold dangling earrings, and a friendly half-smile; she wears a tight white button-up blouse, dark suspenders, a short dark pencil skirt, black thigh-high stockings, glossy black heels, a matching ID badge with a red cross-like emblem, carries a dark bag, and holds a takeaway coffee cup in her right hand. Use a clean but expressive Japanese anime style with delicate line art, soft watercolor-like shading, luminous skin highlights, subtle fabric wrinkles, and fashionable office-uniform details. The setting should have large glass doors and windows, pale blue sky and city shapes outside, bright sunlit reflections on the floor, airy overexposed backlighting, and sketchy architectural perspective lines. Mood: elegant, slightly glamorous, candid morning commute snapshot. Composition: full-body vertical framing, both characters centered, legs visible to the shoes, soft pastel color palette with high-key lighting, no extra characters, no readable text except the small badge-like symbols. Customize the overall attire as {argument name="outfit theme" default="stylish corporate uniforms with medical-style ID badges"}.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2072884283643957258) | 2026-07-03
+
+---
+

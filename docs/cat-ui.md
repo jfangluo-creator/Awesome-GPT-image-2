@@ -5895,3 +5895,301 @@ Controlled blown-out micro highlights appear naturally along hair edges, glossy 
 
 ---
 
+### 🖥️ 例 3073：奇幻 RPG 区域地图展示页
+
+![奇幻 RPG 区域地图展示页](../../images/%E5%A5%87%E5%B9%BB%20RPG%20%E5%8C%BA%E5%9F%9F%E5%9C%B0%E5%9B%BE%E5%B1%95%E7%A4%BA%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为开放世界 RPG 区域创建一个宽幅奇幻世界观展示页，结合左侧编辑说明面板和右侧大型俯视插画地图。
+
+画布：16:9 横向图像，纯净白色背景。左侧 20% 为白色侧边栏；右侧 80% 为边缘对齐的精细羊皮纸风格暗黑奇幻地图。
+
+左侧侧边栏：顶部放置 logo 文本 {argument name="project title" default="The Deals"}，使用中世纪衬线字体，下方配有一条写着 {argument name="motto text" default="FORTUNA NON DAT, SED PROBAT"} 的小丝带。下方添加一组手绘风格的奇幻角色：4 个身着破旧衣物的冒险者/精灵形象，采用棕褐色水彩风格，垂直排列。插画下方添加一行小字署名。随后在窄栏中添加两段西班牙语说明文字，使用现代无衬线字体，深灰色，内容类似于关于 AI 概念地图第三版、游戏事件、水晶、矿脉、狩猎区以及约 68 小时游戏时长的设计说明。
+
+主地图：一张等轴测/俯视的高细节奇幻区域地图，标题为 {argument name="region title" default="REGIÓN DE ELDORAN"}，副标题为 {argument name="subtitle" default="~68h DE JUEGO"}，位于右上角的华丽深色牌匾中。该区域顶部横跨雪山山脉，拥有茂密的绿色森林、蜿蜒的河流、绿松石色的湖泊、右侧的湿地与沼泽、岩石丘陵、右侧附近垂直贯穿的橙色发光地质断层，以及底部中央通向青色海洋的堡垒港口城市，海中有小岛和码头。在边缘处使用戏剧性的云雾效果，特别是左下角和右下角，营造出一种未探索地图的神秘感。
+
+图例：在地图左上角附近添加一个深色矩形华丽图例框，标题为“LEYENDA”。必须包含 15 行带有小图标的标注：1 Ciudad Portuaria Desarrollada（已开发港口城市）, 2 Asentamiento Sin Desarrollar（未开发定居点）, 3 Puerto Menor（小型港口）, 4 Yacimiento de Cristal de Maná（法力水晶矿床）, 5 Mina en Producción（在产矿井）, 6 Mina Abandonada（废弃矿井）, 7 Vetas de Hierro Expuestas（裸露铁矿脉）, 8 Río Principal（主河流）, 9 Río Menor（次要河流）, 10 Lago（湖泊）, 11 Humedales / Pantanos（湿地/沼泽）, 12 Bosque Frondoso（茂密森林）, 13 Sierras / Montañas（山脉）, 14 Falla Geológica（地质断层）, 15 Zona Sin Explorar（未探索区域）。
+
+地图标记：在底部城市放置 1 个已开发港口城市标记，沿河流/湖泊/海岸放置 4 个小型港口锚点标记，4 个定居点房屋标记，5 个发光的紫色法力水晶簇，1 个在产矿井标记，2 个废弃矿井标记，以及在右侧烟雾缭绕的未探索区域放置 4 个大问号。标记颜色需与图例保持一致：蓝色代表港口/水域，棕色代表定居点，紫色代表水晶，金色代表在产矿井，灰色代表废弃矿井，红色/橙色代表断层。
+
+额外地图细节：在右下角添加一个带有 N、E、S、W 字母的罗盘；在左下角添加一个标记为 0 到 5 公里的黑色比例尺；使用细线连接定居点、矿井、港口和主城。地图应呈现为精致的游戏设计概念项目，具备逼真的地形纹理、华丽的奇幻 UI 边框、暖金色字体，且不包含任何现代 UI 元素。
+
+约束：保留西班牙语标签和中世纪奇幻氛围。不要添加额外的图例类别、额外的人物形象或额外的重大标题牌匾。保持构图简洁，在展示尺寸下易于阅读。
+
+[English]
+Goal: Create a wide fantasy worldbuilding presentation sheet for an open-world RPG region, combining a left editorial note panel and a large illustrated top-down map.
+
+Canvas: 16:9 horizontal image, clean white background. The left 20% is a white sidebar; the right 80% is a detailed parchment-dark fantasy map framed edge-to-edge.
+
+Left sidebar: At the top, place the logo text {argument name="project title" default="The Deals"} in a medieval serif font, with a small ribbon beneath reading {argument name="motto text" default="FORTUNA NON DAT, SED PROBAT"}. Under it, add a painterly fantasy character cluster: exactly 4 ragged adventurer/elf-like figures in sepia watercolor, arranged vertically. Below the illustration add a small byline. Then add two Spanish explanatory paragraphs in a narrow column, modern sans-serif, dark gray, resembling a design note about a third version of early AI concept maps, gameplay events, crystals, ore veins, hunting zones, and needing about 68 hours of gameplay.
+
+Main map: An isometric/top-down high-detail fantasy region map titled {argument name="region title" default="REGIÓN DE ELDORAN"} with subtitle {argument name="subtitle" default="~68h DE JUEGO"} in an ornate dark plaque at the top right. The region has a snowy mountain range across the top, dense green forests, winding rivers, a turquoise lake, wetlands and marshes on the right, rocky hills, a glowing orange geological fault running vertically near the right side, and a fortified harbor city at the bottom center opening into a teal sea with small islands and docks. Use dramatic clouds and fog around the edges, especially the bottom left and right border, for an unexplored-map feeling.
+
+Legend: Add a dark rectangular ornate legend box near the upper left of the map titled “LEYENDA”. It must contain exactly 15 labeled rows with small icons: 1 Ciudad Portuaria Desarrollada, 2 Asentamiento Sin Desarrollar, 3 Puerto Menor, 4 Yacimiento de Cristal de Maná, 5 Mina en Producción, 6 Mina Abandonada, 7 Vetas de Hierro Expuestas, 8 Río Principal, 9 Río Menor, 10 Lago, 11 Humedales / Pantanos, 12 Bosque Frondoso, 13 Sierras / Montañas, 14 Falla Geológica, 15 Zona Sin Explorar.
+
+Map markers: Place exactly 1 developed port city marker at the bottom city, exactly 4 minor port anchor markers along rivers/lake/coast, exactly 4 settlement house markers, exactly 5 glowing purple mana crystal clusters, exactly 1 active mine marker, exactly 2 abandoned mine markers, and exactly 4 large question marks in smoky unexplored zones on the right side. Keep marker colors consistent with the legend: blue for ports/water, brown for settlements, purple for crystals, gold for active mine, gray for abandoned mine, red/orange for fault.
+
+Extra map details: Add a compass rose at the bottom right with N, E, S, W letters; add a small black scale bar at the bottom left marked from 0 to 5 km; use thin roads and trails connecting settlements, mines, ports, and the main city. The map should feel like a polished game-design concept board, with realistic terrain textures, ornate fantasy UI frames, warm gold typography, and no modern UI elements.
+
+Constraints: Preserve the Spanish labels and medieval-fantasy atmosphere. Do not add extra legend categories, extra character figures, or extra major title plaques. Keep the composition clean and readable at presentation size.
+```
+
+**来源：** [@Magali Saucedo](https://x.com/MagaliSaucedoOk/status/2073147718294188190) | 2026-07-03
+
+---
+
+### 🖥️ 例 3076：深色模式词典条目应用
+
+![深色模式词典条目应用](../../images/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E8%AF%8D%E5%85%B8%E6%9D%A1%E7%9B%AE%E5%BA%94%E7%94%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的 iPhone 截图，展示一个时尚的深色模式英语词典/词汇学习应用，显示 {argument name="word" default="achievement"} 的词条。
+
+画布：垂直智能手机屏幕，9:16 纵横比，黑色背景，顶部显示 iOS 风格状态栏（左侧显示 12:11，右侧显示蜂窝网络/Wi-Fi/电池图标）。使用圆角卡片、柔和阴影和现代极简 UI。
+
+布局：顶部导航栏包含 2 个元素：左上角带有白色左箭头的圆形深色返回按钮，以及居中的白色页面标题“achievement”。右侧边缘显示一条细长的垂直滚动条。
+
+部分：按顺序显示 4 个可见内容区域：1) 翻译，2) 插图，3) 发音，4) 底部部分可见的“含义”标题。区域标签为柔和的灰色、加粗且左对齐。
+
+文本内容：在“翻译”下方，放置一个圆角深色胶囊卡片，包含日语文本 {argument name="translation text" default="何かを成し遂げた結果や業績"}。在“发音”下方，创建一个大的圆角深色卡片，包含音标 {argument name="phonetic text" default="/əˈtʃiːvmənt/"}、可读发音“ə-CHEE-vmənt”、右侧的蓝色扬声器图标、一条细分割线，以及左下角的一个小型圆角“CEFR”标签。
+
+插图：在“插图”部分，放置一个大的圆角矩形图片卡片，背景为灰白色。卡片内绘制一名快乐的年轻女毕业生，身穿黑色学士服，头戴带有金色流苏的学士帽，闭眼微笑。她左手举着系有红色丝带的卷轴文凭，右手握拳庆祝。周围添加彩色矩形纸屑。使用扁平矢量插图风格，暖色调，边缘清晰，插图内无文字。
+
+底部导航：在底部覆盖一个悬浮的圆角黑色标签栏，包含 3 个标签：“Lessons”（带有蓝色学士帽图标和高亮灰色胶囊背景）、“Words”（带有白色打开的书本图标）和“Settings”（带有白色齿轮图标）。标签栏部分遮挡了发音卡片和模糊的“含义”标题。
+
+视觉风格：高保真移动应用模型，深色主题，iOS 比例，圆角，微妙的渐变，白色和灰色字体，蓝色强调色，精致的产品截图。避免多余的文字、图标、水印或浏览器边框。
+
+[English]
+Goal: Create a realistic iPhone screenshot of a sleek dark-mode English dictionary/vocabulary learning app showing the entry for {argument name="word" default="achievement"}.
+
+Canvas: Vertical smartphone screen, 9:16 aspect ratio, black background, iOS-style status bar at the top showing 12:11 on the left and cellular/Wi‑Fi/battery icons on the right. Use rounded cards, soft shadows, and a modern minimal UI.
+
+Layout: Top navigation has exactly 2 elements: a circular dark back button with a white left chevron on the upper left, and the centered page title “achievement” in white. A thin vertical scroll indicator appears along the right edge.
+
+Sections: Show exactly 4 visible content sections in this order: 1) Translation, 2) Illustration, 3) Pronunciation, 4) a partially visible Meanings header at the bottom. Section labels are muted gray, bold, and left aligned.
+
+Text content: Under “Translation,” place one rounded dark pill card containing the Japanese text {argument name="translation text" default="何かを成し遂げた結果や業績"}. Under “Pronunciation,” create one large rounded dark card with the phonetic spelling {argument name="phonetic text" default="/əˈtʃiːvmənt/"}, the readable pronunciation “ə-CHEE-vmənt,” a blue speaker icon on the right, a thin divider line, and a small rounded “CEFR” tag near the lower left.
+
+Illustration: In the Illustration section, place one large rounded rectangle image card with an off-white background. Inside it, draw a cheerful young graduate woman in a black graduation gown and mortarboard with a gold tassel, smiling with eyes closed. She raises a rolled diploma tied with a red ribbon in her left hand and clenches her right fist in celebration. Add colorful rectangular confetti around her. Use a flat vector illustration style, warm colors, clean edges, and no text inside the illustration.
+
+Bottom navigation: Overlay a floating rounded black tab bar at the bottom with exactly 3 tabs: “Lessons” with a blue graduation-cap icon and highlighted gray pill background, “Words” with a white open-book icon, and “Settings” with a white gear icon. The tab bar partially covers the pronunciation card and the faint “Meanings” header.
+
+Visual style: High-fidelity mobile app mockup, dark theme, iOS proportions, rounded corners, subtle gradients, white and gray typography, blue accent color, polished product screenshot. Avoid extra words, extra icons, watermarks, or browser chrome.
+```
+
+**来源：** [@Akira](https://x.com/akiraak/status/2073123315607310465) | 2026-07-03
+
+---
+
+### 🖥️ 例 3085：福雷安魂曲纪念拼贴画
+
+![福雷安魂曲纪念拼贴画](../../images/%E7%A6%8F%E9%9B%B7%E5%AE%89%E9%AD%82%E6%9B%B2%E7%BA%AA%E5%BF%B5%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于 {argument name="composer and work title" default="加布里埃尔·福雷安魂曲"} 的戏剧性宽银幕电影历史音乐拼贴海报，唤起哀悼、皇室悲剧、欧洲纪念和神圣合唱音乐的氛围。
+
+画布：16:9 横向海报，深海军蓝与黑色背景，点缀暖金色高光，高细节数字绘景，分层双重曝光构图，发光粒子，雨后湿润的倒影，管弦乐的宏大感，无现代 UI 或边框。
+
+布局：以夜色中的皇家阿尔伯特音乐厅（Royal Albert Hall）为中心建筑主体，内部透出琥珀色光芒，底部是湿润的反射广场和手持烛光的人群剪影。在音乐厅上方，放置优雅的衬线金色字体标题：小号间距文字“GABRIEL FAURÉ”和大号文字“REQUIEM”，下方配有小巧的月桂装饰。使用优美的弧形五线谱和手写乐谱贯穿整个画面，从左至右环绕音乐厅。
+
+包含的离散关键元素，共 8 个主要视觉母题：1) 左上方是 {argument name="royal figure" default="戴安娜王妃"} 的大型哀悼侧影，低头，佩戴珍珠头饰和珍珠耳环，以冷色调月光渲染；2) 左中前景处有一朵白玫瑰；3) 在玫瑰后方和巴黎天际线上方，有一道蓝、白、红三色的法国国旗笔触斜向扫过；4) 左下方是透过薄雾可见的埃菲尔铁塔和圣心大教堂的巴黎小景；5) 中心前景是灯火通明的皇家阿尔伯特音乐厅；6) 右上方中心处有一个拱形嵌入视图，展示指挥家和合唱团在宏伟音乐厅内的表演；7) 右侧是一个由金色城市灯光和闪烁粒子组成的欧洲发光点阵地图；8) 右上方是 {argument name="composer portrait" default="加布里埃尔·福雷"} 的正式肖像画，一位留着金灰色头发和胡须、身穿深色西装的老人。
+
+文字与乐谱细节：添加融入乐谱中的优雅手写拉丁文片段，包括“Pie Jesu”、“Dona eis requiem”、“dona eis requiem.”、“pp dolce”，以及靠近欧洲地图处的“In paradisum deducant te Angeli”。将这些作为微妙的装饰性书法，而非大号标题。主标题必须保持最清晰易读。
+
+视觉风格：庄重、肃穆、史诗感、博物馆级的编辑插画；深蓝黑色调搭配金色烛光、象牙色乐谱、银色高光以及柔和的法国红/蓝色调。使用细腻的雕刻质感、烟雾缭绕的氛围、闪烁的尘埃、柔和的体积光和电影般的对比度。整体氛围应如同雨夜中的一场欧洲纪念音乐会。
+
+约束：不要添加额外的标题、Logo、水印、说明文字或不相关的乐器。除皇室侧影和作曲家肖像外，其余人物均保持为剪影或绘画风格肖像。避免卡通风格；使其精致、写实且情感庄重。
+
+[English]
+Goal: Create a dramatic widescreen cinematic historical-music collage poster about {argument name="composer and work title" default="Gabriel Fauré Requiem"}, evoking mourning, royal tragedy, European remembrance, and sacred choral music.
+
+Canvas: 16:9 horizontal poster, dark navy and black background with warm gold highlights, high-detail digital matte painting, layered double-exposure composition, luminous particles, rain-wet reflections, orchestral grandeur, no modern UI or borders.
+
+Layout: Center the Royal Albert Hall at night as the main architectural subject, glowing amber from within, with a wet reflective plaza and a silhouetted crowd holding candle-like lights along the bottom edge. Above the hall, place the title text in elegant serif gold lettering: small spaced text “GABRIEL FAURÉ” and large text “REQUIEM”, with a small decorative laurel flourish beneath. Use sweeping curved musical staves and handwritten score notation to arc across the entire image from left to right, visually wrapping around the hall.
+
+Discrete key elements to include, exactly 8 major visual motifs: 1) a large mourning profile of {argument name="royal figure" default="Princess Diana"} on the upper left, head bowed, wearing a pearl tiara and pearl earring, rendered in cool moonlit tones; 2) a single white rose near the left-center foreground; 3) a tricolor French flag brushstroke in blue, white, and red sweeping diagonally behind the rose and above the Paris skyline; 4) a small Paris scene in the lower left with the Eiffel Tower and Sacré-Cœur visible through mist; 5) the illuminated Royal Albert Hall dominating the center foreground; 6) an arched inset view of a conductor and choir performing inside a grand concert hall in the upper center-right; 7) a glowing dotted map of Europe on the right, made of golden city lights and shimmering particles; 8) a formal painted portrait of {argument name="composer portrait" default="Gabriel Fauré"} in the upper right, elderly man with blond-gray hair and mustache in a dark suit.
+
+Text and score details: Add small elegant handwritten Latin fragments integrated into the sheet music, including “Pie Jesu”, “Dona eis requiem”, “dona eis requiem.”, “pp dolce”, and near the Europe map “In paradisum deducant te Angeli”. Keep these as subtle decorative calligraphy, not large captions. The main title must remain the most legible text.
+
+Visual style: Somber, reverent, epic, museum-quality editorial illustration; deep blue-black palette with gold candlelight, ivory sheet music, silver highlights, and muted French red/blue accents. Use fine engraving-like textures, smoky atmosphere, glittering dust, soft volumetric light, and cinematic contrast. The mood should feel like a European memorial concert on a rainy night.
+
+Constraints: Do not add extra titles, logos, watermarks, captions, or unrelated instruments. Keep all figures as silhouettes or painterly portraits except the royal profile and composer portrait. Avoid cartoon style; make it refined, realistic, and emotionally solemn.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2073060005012476210) | 2026-07-03
+
+---
+
+### 🖥️ 例 3087：超现实灯泡商务会议
+
+![超现实灯泡商务会议](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%81%AF%E6%B3%A1%E5%95%86%E5%8A%A1%E4%BC%9A%E8%AE%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个写实的超现实商务会议场景，背景设在昏暗的现代咖啡馆或办公室休息区。画面中展示 2 位坐在抛光木桌对面的人物：左侧人物身穿深色西装、白衬衫和黑色领带，头部为一个发光的透明白炽灯泡，可见钨丝和温暖的琥珀色光芒；右侧人物身穿深色西装，主要以侧面/背面示人，头部位置悬浮着一个巨大的透明玻璃问号，下方还有一个独立的小玻璃圆点。两人均拥有透明的玻璃质感双手，左侧人物正在交谈中做手势，右侧人物双手交叠放在桌上。在前景中央放置 1 个白色咖啡杯和 1 个白色托盘。背景模糊处可见 2 盏温暖的吊灯、玻璃墙和深色建筑线条，采用浅景深、电影级布光、桌面的写实反射、高细节玻璃折射，营造出深沉的企业氛围，构图为 4:5 竖版。在左下角添加一个红色的小方形印章式水印，内含一个简单的杯子图标和微小的不可读字符。自定义左侧人物为 {argument name="idea symbol" default="发光的白炽灯泡头部"}，右侧人物为 {argument name="question symbol" default="透明玻璃问号头部"}，场景为 {argument name="meeting location" default="昏暗的现代咖啡馆或办公室休息区"}，服装为 {argument name="business attire" default="深色西装配白衬衫"}，氛围为 {argument name="visual mood" default="电影感、深思熟虑、神秘的企业讨论"}。
+
+[English]
+Create a photorealistic surreal business meeting scene in a dim modern cafe or office lounge. Show exactly 2 human figures seated across a polished wooden table: on the left, a person in a dark suit, white shirt, and black tie with a glowing transparent incandescent light bulb for a head, including visible tungsten filament and warm amber light; on the right, a person in a dark suit shown mostly from the side/back with a large transparent glass question mark floating where the head should be, plus a separate small glass dot below it. Both figures have transparent glass-like hands, and the left figure is gesturing mid-conversation while the right figure clasps their hands on the table. Place exactly 1 white coffee cup on exactly 1 white saucer near the center foreground. Include exactly 2 warm pendant lamps visible in the blurred background, glass walls and dark architectural lines, shallow depth of field, cinematic lighting, realistic reflections on the table, high-detail glass refraction, moody corporate atmosphere, 4:5 vertical composition. Add a small red square stamp-like watermark in the lower-left corner with a simple cup icon and tiny unreadable characters. Customize the left figure as {argument name="idea symbol" default="glowing incandescent light bulb head"}, the right figure as {argument name="question symbol" default="transparent glass question mark head"}, the setting as {argument name="meeting location" default="dim modern cafe or office lounge"}, the clothing as {argument name="business attire" default="dark suits with white shirts"}, and the mood as {argument name="visual mood" default="cinematic, thoughtful, mysterious corporate discussion"}.
+```
+
+**来源：** [@雲だからフワフワしてるよwww](https://x.com/kumodakarafuwa/status/2073045566985232885) | 2026-07-03
+
+---
+
+### 🖥️ 例 3107：Arcane Siege 移动端卡组 UI
+
+![Arcane Siege 移动端卡组 UI](../../images/Arcane%20Siege%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%8D%A1%E7%BB%84%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款类似《皇室战争》的游戏创建一个精致的暗黑奇幻风格移动端游戏大厅/卡组构建界面，以竖屏智能手机 UI 截图形式呈现。
+
+画布：高竖屏移动端屏幕，约 768×1152，带有圆角黑色手机屏幕边缘。使用深色模糊的绿紫色魔法战场背景，带有微妙的暗角效果和发光的 UI 面板。
+
+顶部品牌：在顶部中心放置一个华丽的奇幻徽章，配有紫色旗帜、金色花丝、交叉武器、符文细节，以及一个巨大的金属金色中世纪风格标志，文字为“{argument name="game title" default="Arcane Siege"}”。
+
+玩家面板：在标志下方，添加一个圆角深紫色输入面板。面板包含小号大写标签“BATTLE NAME”以及显示“{argument name="battle name" default="Nameless Mage"}”的深色文本框。
+
+卡组面板：在名称栏下方，创建一个大型圆角深紫色卡牌选择面板。左侧标题文字为黄金色的“BATTLE DECK”，右侧显示洋红色的“avg 3.4”以及一个小型的洋红色圣水点。
+
+顶部卡组栏：在卡组标题正下方，水平排列显示 8 张选定的小型卡牌缩略图。每张卡牌左上角都有一个微小的紫色圆形圣水消耗徽章。从左到右的可见消耗为：3、3、2、5、4、4、4、2。卡牌描绘了粗犷的奇幻单位和法术。
+
+主卡牌网格：在卡组栏下方，显示 16 张可收集的战斗卡牌，排列为 4 列 4 行的网格。每张卡牌都有暗黑奇幻插图、黑色圆角边框、左上角紫色圆形圣水消耗徽章、底部白色名称标签；选定的卡牌带有细细的金色发光轮廓，右上角有一个小金钩。16 张卡牌按阅读顺序排列如下：
+1. 消耗 3，“Squire”（侍从），身穿蓝色斗篷的装甲年轻剑士，已选定。
+2. 消耗 3，“Twin Archers”（双子弓箭手），拉弓的带帽弓箭手，已选定。
+3. 消耗 2，“Bone Pack”（骸骨群），骷髅亡灵士兵，已选定。
+4. 消耗 5，“Colossus”（巨像），庞大的石巨人，已选定。
+5. 消耗 4，“Ember Drake”（余烬幼龙），红橙色巨龙，已选定。
+6. 消耗 3，“Gale Imps”（疾风小鬼），冰冷的带翼小鬼生物，未选定。
+7. 消耗 4，“Sharpshooter”（神枪手），手持长步枪的粗犷枪手，已选定。
+8. 消耗 5，“Pyromancer”（炎术士），手持火焰的火系法师，未选定。
+9. 消耗 4，“Berserker”（狂战士），肌肉发达的斧头战士，未选定。
+10. 消耗 4，“Stag Rider”（雄鹿骑士），带有深色长角雄鹿坐骑的骑士，未选定。
+11. 消耗 3，“Frost Adept”（寒冰学徒），蓝白色的冰系法师，未选定。
+12. 消耗 3，“Ballista”（弩炮），木制攻城弩，未选定。
+13. 消耗 4，“Storm Spire”（风暴尖塔），魔法风暴塔，未选定。
+14. 消耗 4，“Meteor”（陨石），从天而降的燃烧陨石，已选定。
+15. 消耗 3，“Arrow Volley”（箭雨），布满箭矢的战场天空，未选定。
+16. 消耗 2，“Thunderbolt”（雷击），明亮的蓝色闪电打击，已选定。
+
+底部控制：在卡组面板下方，显示 7 个可见的控制选项。第一个是标有“QUICK MATCH”的宽大圆角金色按钮。第二行有一个标有“VS BOT”的宽大紫色按钮，后面跟着两个较小的难度按钮：紫色高亮的“EASY”和深色的“HARD”。在最底边缘，部分可见三个矩形控制按钮：蓝色的“CREATE ROOM”、深色的“CODE”和蓝色的“JOIN”。
+
+视觉风格：高质量奇幻游戏 UI，电影级卡牌艺术，金紫色配色方案，光泽斜面按钮，发光轮廓，简洁的移动游戏排版，清晰易读的标签，戏剧性灯光，无现实世界品牌，无水印。保持布局居中并留有充足边距，使其看起来像一个成品移动游戏资源界面。
+
+[English]
+Goal: Create a polished dark fantasy mobile game lobby/deck-building screen for a Clash Royale-like game titled {argument name="game title" default="Arcane Siege"}, shown as a vertical smartphone UI screenshot.
+
+Canvas: Tall portrait mobile screen, about 768×1152, with rounded black phone-screen corners. Use a dark blurred green-and-purple magical battlefield background, subtle vignette, and glowing UI panels.
+
+Top branding: At the top center, place an ornate fantasy emblem with purple banners, gold filigree, crossed weapons, runic details, and a large metallic gold medieval logo reading “{argument name="game title" default="Arcane Siege"}”.
+
+Player panel: Below the logo, add a rounded dark purple input panel. It contains the small uppercase label “BATTLE NAME” and a dark text field showing “{argument name="battle name" default="Nameless Mage"}”.
+
+Deck panel: Under the name field, create one large rounded dark purple card-selection panel. Header text on the left reads “BATTLE DECK” in yellow-gold uppercase. On the right show “avg 3.4” in magenta with a small magenta elixir dot.
+
+Top deck strip: Directly below the deck header, show exactly 8 small selected-card thumbnails in one horizontal row. Each has a tiny purple circular elixir cost badge at the top-left. The visible costs from left to right are: 3, 3, 2, 5, 4, 4, 4, 2. The cards depict gritty fantasy units and spells.
+
+Main card grid: Below the strip, show exactly 16 collectible battle cards in a 4-column by 4-row grid. Each card has a dark fantasy illustration, rounded black frame, purple circular elixir cost badge at top-left, white name label at the bottom, and selected cards have a thin glowing gold outline plus a small gold check mark at top-right. The 16 cards, in reading order, are:
+1. cost 3, “Squire”, armored young swordsman with blue cloak, selected.
+2. cost 3, “Twin Archers”, hooded archer drawing a bow, selected.
+3. cost 2, “Bone Pack”, skeletal undead soldiers, selected.
+4. cost 5, “Colossus”, hulking stone giant, selected.
+5. cost 4, “Ember Drake”, red-orange dragon, selected.
+6. cost 3, “Gale Imps”, icy winged imp creature, unselected.
+7. cost 4, “Sharpshooter”, rugged gunner with long rifle, selected.
+8. cost 5, “Pyromancer”, fiery mage holding flame, unselected.
+9. cost 4, “Berserker”, muscular warrior with axe, unselected.
+10. cost 4, “Stag Rider”, dark horned stag mount and rider, unselected.
+11. cost 3, “Frost Adept”, blue-white ice mage, unselected.
+12. cost 3, “Ballista”, wooden siege crossbow, unselected.
+13. cost 4, “Storm Spire”, magical storm tower, unselected.
+14. cost 4, “Meteor”, flaming meteor falling from sky, selected.
+15. cost 3, “Arrow Volley”, battlefield sky filled with arrows, unselected.
+16. cost 2, “Thunderbolt”, bright blue lightning strike, selected.
+
+Bottom controls: Below the deck panel, show exactly 7 visible controls. First is a wide rounded gold button labeled “QUICK MATCH”. Second row has a wide purple button labeled “VS BOT”, followed by two smaller difficulty buttons: “EASY” highlighted in purple and “HARD” dark. At the very bottom edge, partially visible, include three rectangular controls: blue “CREATE ROOM”, dark “CODE”, and blue “JOIN”.
+
+Visual style: High-quality fantasy game UI, cinematic card art, gold and purple color palette, glossy beveled buttons, glowing outlines, clean mobile-game typography, crisp readable labels, dramatic lighting, no real-world branding, no watermark. Keep the layout centered with generous margins and make it look like a finished mobile game asset screen.
+```
+
+**来源：** [@anion](https://x.com/anion_ex/status/2072973528895549915) | 2026-07-03
+
+---
+
+### 🖥️ 例 3117：角色契合度结果 UI 生成器
+
+![角色契合度结果 UI 生成器](../../images/%E8%A7%92%E8%89%B2%E5%A5%91%E5%90%88%E5%BA%A6%E7%BB%93%E6%9E%9C%20UI%20%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+添付された2枚のキャラクター画像を参照し、2人の「キャラクター相性診断」をテーマにした16:9横長イラストを生成してください。文章で診断結果やプロンプトを返さず、必ず1枚の完成イラストとして描いてください。【入力欄】キャラクターAの名前：{argument name="キャラAの名前" default="キャラクターA"} キャラクターBの名前：{argument name="キャラBの名前" default="キャラクターB"} 2人の関係：{argument name="二人の関係" default="親友"} 自由メモ：※任意。性格や普段の関係など。未入力なら添付画像の表情・服装・色合い・雰囲気から判断。【内容】16:9のゲーム風UIイラスト。2人を左右に配置し、中央に大きな相性ゲージ／ハート型メーター／好感度リザルト風UIを置く。キャラAとBの髪型・髪色・瞳・服装・装飾・雰囲気を混ぜず、添付画像に忠実に再現。絵柄、色使い、背景、UIデザインは添付画像2枚の雰囲気に合わせる。【相性診断】関係性・自由メモ・画像から感じる性格をもとに相性を0〜120%で自動診断し、画像内に表示。100%超えは「限界突破」「奇跡的な相性」「運命的な相性」として、ゲージ突破・虹色オーラ・LIMIT BREAK風演出で表現。良好な関係は低すぎる数値にしない。目安：親友85〜120%、友達70〜105%、相棒80〜115%、幼なじみ75〜110%、先輩後輩55〜100%、ライバル45〜105%、犬猿の仲25〜85%、恋人未満70〜115%。重要：相性%は毎回固定にしない。同じ関係でも同じ数字にせず、キャラの雰囲気に応じて自然に変動させる。特に親友でも毎回112%にしない。【画面内の文字】文字は短く読みやすく。長文禁止。必ず入れる：Aの名前、Bの名前、関係、相性〇〇%、短い診断タイトル。できれば入れる：相性が良い理由3つ、もっと関係が良くなるアドバイス2つ。理由やアドバイスは「息ぴったり」「安心感◎」「ノリが合う」「もっと会話」「素直さUP」など、短いUIラベルやアイコン付きミニパネルで表示。【構図】キャラ同士は触れ合わない。手を繋がない、腕を組まない、抱きつかない、密着しない、身体を重ねない。2人の間に中央UIを挟み、適度な距離を空ける。仲の良さは接触ではなく、表情・視線・ポーズ・身体の向き・背景アイコン・UI演出で表現。【仕上げ】明るく見やすいSNS向けの完成度の高い1枚絵。2人の存在感は均等にする。【避けること】顔や髪型が混ざる、服装入れ替わり、瞳色変更、人物追加、片方が消える、接触、手繋ぎ、密着、身体の重なり、手足や指の破綻、腕が増える、長文、文字化け、読めない文字、UIのごちゃつき、背景過多、低解像度、ぼやけ、歪み、別キャラ化。
+```
+
+**来源：** [@ほーらい](https://x.com/houraindustry/status/2072953318880710889) | 2026-07-03
+
+---
+
+### 🖥️ 例 3119：阳光玫瑰葡萄精灵诊断
+
+![阳光玫瑰葡萄精灵诊断](../../images/%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E8%91%A1%E8%90%84%E7%B2%BE%E7%81%B5%E8%AF%8A%E6%96%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版华丽动漫奇幻风格的“水果精灵诊断”结果卡，主角为 {argument name="character name" default="のぞむ"}，化身为闪耀的阳光玫瑰葡萄精灵。
+
+画布：2:3 纵向构图，细节丰富，背景为柔和阳光下的温室或葡萄架，点缀绿叶、光斑、闪烁的露珠、悬挂的水晶水滴及成串的淡绿色葡萄。采用精致的水彩动漫风格，融合奢华奇幻插画质感，主色调为浅象牙色、薄荷绿、香槟金及半透明海蓝色。
+
+主体：右侧绘制一位年轻的精灵少女，留着浅棕灰金色侧边马尾，拥有大大的榛绿色眼睛、红润的脸颊和温柔的微笑。她手持一颗阳光玫瑰葡萄靠近脸庞。她的发饰为一个由小白花、绿葡萄、叶片、丝带和垂坠珠宝组成的精致花饰。身穿白色、淡绿色与水晶色调的半透明露肩精灵裙，装饰着珠链、小花、葡萄图案、褶皱透明袖和虹彩宝石。身后展开巨大的透明昆虫状精灵翅膀，带有金色脉络和露珠。在右下方及背景上方添加额外的阳光玫瑰葡萄串，底部放置切开的绿色水果。
+
+布局：使图像呈现出收藏级诊断/结果单的质感。使用华丽的金色花丝边框、植物边框、月桂叶图案和半透明羊皮纸面板。左侧放置一个高大的主信息面板，左下角放置一个小型的状态面板，右下角放置一个特征面板。主体与面板略有重叠，但仍保持视觉焦点。
+
+左侧主信息面板：顶部包含日文标题 {argument name="headline text" default="果物妖精診断"} 及小型英文副标题“FRUIT FAIRY DIAGNOSIS”。下方显示名称 {argument name="character name" default="のぞむ"} 及罗马音“Nozomu”。添加诊断水果部分，使用日文水果名称 {argument name="fruit name" default="シャインマスカット"} 和英文“Shine Muscat”，并配有一串淡绿色葡萄的插图。添加日文和英文的精灵类型文本：“Daylight Muscat Fairy”。添加带有皇冠和超大金色衬线字母 {argument name="fruit rank" default="SSR"} 的水果等级，周围环绕月桂枝。底部包含一行日式装饰风格的祝福语。
+
+左下角状态面板：包含 8 行状态栏，每行配有一个绿色宝石或葡萄图标、日文标签、细长的绿色水平进度条及右侧的数值。8 个可见数值为：透明度 97、闪耀度 94、治愈等级 98、甜度 92、香气 96、新鲜度 95、祝福等级 93、果汁魔法 97。在日文状态标题下方标注面板名称“STATUS”。
+
+右下角特征面板：包含 3 个带有绿色宝石图标的要点，描述水果特征：清爽甜美与优雅香气；多汁闪耀的果肉；带来治愈与幸福的温柔双手。装饰一个带有葡萄徽章的绿色火漆印章及两条丝带。
+
+视觉风格：超精细日式动漫插画，空灵、优雅、高调照明、闪烁高光、柔焦景深、金色装饰字体、半透明图层、水晶反射、精致植物奇幻感。整体氛围保持纯净、奢华、清新且充满魔法。
+
+约束：严格使用 1 个主要精灵角色、1 个左侧主信息面板、1 个左下角状态面板、1 个右下角特征面板、8 行状态栏及 3 个特征要点。避免使用现代 UI 样式、生硬阴影、深色调、多余角色或水印。
+
+[English]
+Goal: Create a vertical ornate anime fantasy “fruit fairy diagnosis” result card featuring {argument name="character name" default="のぞむ"} as a luminous Shine Muscat grape fairy.
+
+Canvas: Portrait 2:3 composition, highly detailed, soft sunlit greenhouse or grape arbor background with green leaves, bokeh, sparkling dew, hanging crystal droplets, and clusters of pale green grapes. Use a delicate watercolor-anime style with luxury fantasy illustration polish, pastel ivory, mint green, champagne gold, and translucent aquamarine.
+
+Main subject: On the right side, draw one young fairy girl with light brown ash-blonde hair in a loose side ponytail, large hazel-green eyes, rosy cheeks, and a gentle smile. She holds one single Shine Muscat grape near her face. Her hair is decorated with exactly one floral hairpiece made of small white blossoms, green grapes, leaves, ribbons, and dangling jewels. She wears a sheer off-shoulder fairy dress in white, pale green, and crystal tones, covered with bead chains, tiny flowers, grape motifs, ruffled transparent sleeves, and iridescent gems. Add large transparent insect-like fairy wings with gold vein lines and dew drops extending behind her. Place additional Shine Muscat grape clusters around the lower right and upper background, plus sliced green fruit at the bottom.
+
+Layout: Make the image feel like a collectible diagnosis/result sheet. Use ornate gold filigree frames, botanical borders, laurel motifs, and translucent parchment panels. Put one tall main information panel on the left, one smaller status panel at bottom left, and one feature panel at bottom right. The subject overlaps the panels slightly but remains the visual focus.
+
+Left main information panel: At the top, include the Japanese headline {argument name="headline text" default="果物妖精診断"} with the small English subtitle “FRUIT FAIRY DIAGNOSIS.” Below it show the name {argument name="character name" default="のぞむ"} with romanization “Nozomu.” Add a section for the diagnosed fruit using Japanese fruit name {argument name="fruit name" default="シャインマスカット"} and English “Shine Muscat,” with an illustration of exactly one bunch of pale green grapes. Add fairy type text in Japanese and English: “Daylight Muscat Fairy.” Add fruit rank with a crown and very large gold serif letters {argument name="fruit rank" default="SSR"}, surrounded by laurel branches. Include a short blessing line in Japanese-style decorative text at the bottom.
+
+Bottom-left status panel: Include exactly 8 status rows, each with a small green gem or grape icon, a Japanese label, a thin horizontal green progress bar, and a number at the right. The 8 visible values are: transparency 97, sparkle 94, healing level 98, sweetness 92, fragrance 96, freshness 95, blessing level 93, and fruit-juice magic 97. Title this panel “STATUS” beneath a Japanese status heading.
+
+Bottom-right feature panel: Include exactly 3 bullet points with green gem icons describing the fruit characteristics: refreshing sweetness and elegant fragrance; juicy, shining pulp; gentle hands that bring healing and happiness. Decorate with a green wax seal stamped with a grape emblem and two ribbon tails.
+
+Visual style: Ultra-detailed Japanese anime illustration, ethereal, elegant, high-key lighting, sparkling highlights, soft focus depth of field, gold ornamental typography, translucent layers, crystal reflections, delicate botanical fantasy. Keep the overall mood pure, luxurious, fresh, and magical.
+
+Constraints: Use exactly 1 main fairy character, 1 left main info panel, 1 bottom-left status panel, 1 bottom-right feature panel, 8 status rows, and 3 feature bullets. Avoid modern UI styling, harsh shadows, dark colors, extra characters, or watermarks.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2072941158335234433) | 2026-07-03
+
+---
+

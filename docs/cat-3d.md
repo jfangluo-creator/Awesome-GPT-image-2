@@ -4288,3 +4288,66 @@ Create a cinematic photorealistic vertical image of one gigantic humanoid female
 
 ---
 
+### 🧸 例 3070：晨光日式和室人像
+
+![晨光日式和室人像](../../images/%E6%99%A8%E5%85%89%E6%97%A5%E5%BC%8F%E5%92%8C%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="背景" default="朝光の和室"}
+
+人物・表情：
+{argument name="年齢" default="20代"}女性。明るいアイボリーベージュ寄りの白肌、ほんのりピンクの血色を含んだ自然な肌理。頬、鼻先、肩、鎖骨に柔らかなハイライト。精密で上品なドールライク日系メイク、淡いローズピンクのチーク、シャンパンベージュとピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、明るめブラウンの柔らかい眉、透け感のあるピンクベージュのグロスリップ。瞳に小さく澄んだキャッチライト。カメラをまっすぐ見つめ、唇を少し開いたやさしい微笑みで、朝の挨拶をしているような自然な互动感。
+
+服装・ポーズ：
+白いリブ素材の細い肩紐キャミソール。胸元からウエストにかけて自然な立体感があり、レースの縁取りが柔らかく肌に沿う。淡い水色のシアーな夏用羽織を肩からゆるく落とし、同系色の軽いショートパンツを合わせる。畳の上の青い座布団に正座を少し崩して座り、上半身をわずかに前へ傾ける。片手は膝の上、もう片方の手は羽織の布を軽く押さえる。肩、鎖骨、腕、布の接触部分に自然な重みとしわを出す。
+
+背景・光：
+夏の朝の和室。右側の障子と開いた縁側から庭の緑が見える。左側に低い木の机、小さな湯呑み、奥に白い花瓶と淡い花。朝日が画面右奥から斜めに入り、頬、肩、胸元、髪の表面を柔らかく照らす。影は左下へ落ち、畳には障子の格子影がうっすら入る。外の緑から淡い反射光が入り、背景は少し明るくぼける。
+
+構図・カメラ：
+縦長構図、上半身中心のリアルポートレート。人物は画面中央やや右、胸上から膝上までを収める。視線の高さに近い自然なアイレベル。50mm〜70mm相当の自然な圧縮感、顔と上半身にピント、背景は浅すぎない自然なボケ。朝の挨拶投稿に使いやすい、親密で落ち着いた距離感。
+
+質感・スタイル：
+超写真的なポートレート写真。肌は過度に磨かず、毛穴、産毛、薄い赤み、首筋の陰影を自然に残す。髪は明るいミルクティーアッシュブラウン、薄めのシースルーバング、顔まわりに沿うレイヤーカット、肩下までのミディアムロング。毛先は内側にゆるくカールし、一本一本の髪の流れ、細いハイライト、柔らかなツヤ、少量の後れ毛を丁寧に描写する。布は薄く透ける夏素材、畳と木目は自然な質感。柔らかな朝の色調、フィルム写真のような控えめな粒子感。
+
+ネガティブ：
+不自然な顔や視線、左右非対称な目、過度な美肌補正、プラスチックのような肌、作り物のような胸の形、余分または欠けた指、手の融合、関節の破綻、肩紐や羽織の接触不良、布の浮遊、不自然な重力、光源と矛盾する影、過度な露出、不要な人物、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2073179988921303258) | 2026-07-03
+
+---
+
+### 🧸 例 3137：超写实 3D 粉笔画杰作
+
+![超写实 3D 粉笔画杰作](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%203D%20%E7%B2%89%E7%AC%94%E7%94%BB%E6%9D%B0%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用随附的参考图作为主要面部参考。最大程度地精准保留面部特征，包括面部身份、可辨识的面部结构、面部比例、眼睛形状、鼻子形状、嘴唇形状、下颌线、颧骨结构、自然不对称性、皮肤特征以及整体外观。请勿更改身份、种族、年龄或面部特征。
+
+一幅令人惊叹的超写实 3D {argument name="art style" default="粉笔画"} 杰作，直接绘制在风化的深色沥青街道上，采用高角度视角，并带有微妙的荷兰式倾斜。参考图中的 {argument name="subject" default="女孩"} 被绘制成真人大小的粉笔画，盘腿坐着，带着明亮俏皮的微笑抬头看向镜头。一只手举起做出欢快的剪刀手姿势，另一只手拿着一朵粉笔画的向日葵。她穿着一件飘逸的 {argument name="clothing" default="淡蓝色露肩夏装"}，上面装饰着手绘的野花图案和精致的蕾丝细节。
+
+她的头发梳成两条松散的麻花辫，辫子里编入了用粉笔画的小雏菊和勿忘我花饰。她周围散落着柔和的粉色、淡紫色、天蓝色、薄荷绿和暖黄色的粉笔。艺术作品周围，异想天开的粉笔涂鸦包括漂浮的蝴蝶、小星星、花瓣、微笑的云朵和手写的励志涂鸦。一只粉笔画的小狗爪从画面下角伸入，营造出一种俏皮的交互式街头艺术错觉。
+
+粉笔渲染效果极其细腻，具有逼真的粉尘质感、柔和的混合肤色、精致的发丝、可见的粉笔粉末残留以及营造出逼真深度的分层阴影。黄金时刻的阳光洒在路面上，突显了粗糙的沥青纹理并产生了柔和逼真的阴影。带有轻微的胶片颗粒感，边缘处有细微的色差，自然的色彩分级，明亮干净的白平衡，逼真的智能手机摄影美学，超精细街头艺术，异想天开而优雅的氛围，照片级粉笔插画，杰作级品质，令人惊叹的深度与真实感，–ar vertical。
+
+[English]
+Use the attached reference image as the primary facial reference. Preserve the exact facial identity, recognizable facial structure, facial proportions, eye shape, nose shape, lip shape, jawline, cheekbone structure, natural asymmetry, skin characteristics, and overall appearance with maximum accuracy. Do not alter identity, ethnicity, age, or facial features.
+
+A breathtaking hyper-realistic 3D {argument name="art style" default="chalk art"} masterpiece drawn directly onto a weathered dark asphalt street, viewed from a high-angle perspective with a subtle Dutch angle. The same {argument name="subject" default="girl"} from the reference is illustrated as a life-sized chalk drawing sitting cross-legged and looking upward toward the camera with a bright, playful smile. One hand is raised in a cheerful peace sign while the other holds a chalk-drawn sunflower. She wears a flowing {argument name="clothing" default="pastel-blue off-shoulder summer dress"} decorated with hand-painted wildflower patterns and delicate lace details.
+
+Her hair is styled in two loose braided pigtails with tiny chalk-drawn daisy and forget-me-not flower accessories woven into the braids. Surrounding her are scattered pastel chalk sticks in soft pink, lavender, sky blue, mint green, and warm yellow. Around the artwork, whimsical chalk doodles include floating butterflies, tiny stars, flower petals, smiling clouds, and handwritten inspirational doodles. A chalk-drawn puppy paw reaches into the frame from the lower corner, creating a playful interactive street-art illusion.
+
+The chalk rendering is exceptionally detailed with realistic dusty pastel textures, soft blended skin tones, delicate hair strands, visible chalk powder residue, and layered shading that creates convincing depth. Golden-hour sunlight washes across the pavement, emphasizing the rough asphalt texture and producing soft realistic shadows. Slight film grain, subtle chromatic aberration near the edges, natural color grading, bright clean white balance, realistic smartphone photography aesthetics, ultra-detailed street art, whimsical yet elegant atmosphere, photorealistic chalk illustration, masterpiece quality, stunning depth and realism, –ar vertical.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2072871795343180024) | 2026-07-03
+
+---
+

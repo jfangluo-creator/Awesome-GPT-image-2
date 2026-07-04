@@ -1545,3 +1545,37 @@ Create a seamless square cyberpunk sci-fi building facade texture for game devel
 
 ---
 
+### 🏛️ 例 3077：粉色办公室 Q 版场景
+
+![粉色办公室 Q 版场景](../../images/%E7%B2%89%E8%89%B2%E5%8A%9E%E5%85%AC%E5%AE%A4%20Q%20%E7%89%88%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考照片，创建一个面部结构和五官一致的写实女性角色。保持人物尽可能逼真，面带柔和的微笑，表情俏皮自然。
+
+发型：与参考照片保持一致，包括相同的发型、自然的动感和健康的光泽。
+
+服装：为她穿上现代、时尚的休闲装。
+
+场景：将她置于一个可爱的 {argument name="color theme" default="粉色"} 办公室中，让她看起来充满创意和灵感。在她周围，添加 {argument name="characters" default="该女性的微型 Q 版形象"}，并让她们做出 {argument name="character actions" default="有趣的动作：喝咖啡、拉扯她的头发、做鬼脸"}，以及趴在桌子上在笔记本上涂鸦。在整个场景中添加可爱的涂鸦和表情符号，并配上一句符合俏皮办公室氛围的简短短语。
+
+光影与格式：自然光，写实细节，{argument name="aspect ratio" default="1080:1350"} 纵横比，4:5 竖构图。
+
+[English]
+Using the reference photo, create a realistic female character with the same facial structure and facial features. Keep the person as photorealistic as possible, with a soft smile and a playful, natural expression.
+
+Hair: Match the reference photo, including the same hairstyle, natural movement, and healthy shine.
+
+Outfit: Dress her in modern, stylish casual clothing.
+
+Scene: Place her in an adorable {argument name="color theme" default="pink"} office where she looks creative and inspired. Around her, add {argument name="characters" default="tiny chibi versions of the same woman"} doing {argument name="character actions" default="funny actions: drinking coffee from a cup, pulling her hair, making silly faces"}, and lying on her stomach on the desk while drawing in a notebook. Add cute doodles and emojis throughout the scene, plus a short matching phrase that fits the playful office mood.
+
+Lighting and format: Natural light, realistic detail, {argument name="aspect ratio" default="1080:1350"} aspect ratio, 4:5 vertical composition.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073114474131890358) | 2026-07-03
+
+---
+
