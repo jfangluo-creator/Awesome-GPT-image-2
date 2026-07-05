@@ -6193,3 +6193,135 @@ Constraints: Use exactly 1 main fairy character, 1 left main info panel, 1 botto
 
 ---
 
+### 🖥️ 例 3191：极简主义设计师作品集主页
+
+![极简主义设计师作品集主页](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%BB%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为设计师/开发者 {argument name="designer name" default="Ari Vale"} 创建一个精致的作品集主页首屏设计，采用编辑风格的瑞士设计布局和分层建筑拼贴画。
+
+画布：宽屏桌面网站截图，16:9 比例，米白色暖色纸张背景，大量留白，细腻的颗粒质感，高级极简主义美学。
+
+布局：顶部导航栏包含 6 个可见项：左侧为文字标识“Ari Vale”及一个小蓝点，居中导航链接为“Work”、“About”、“Studio”、“Notes”，最右侧为一个带有蓝点的圆形轮廓“Menu”胶囊按钮。主首屏内容位于中心偏左位置，配有小型眉标、超大字号排版、简短描述和两个行动号召按钮。在文字周围分层叠加抽象的单色建筑图像：左侧为拼贴画，右侧为较大的阶梯式建筑图像，下方配有一张小型静物图。底部页脚栏左侧为可用性状态文本，中间有一条细水平分割线，右侧为社交链接。
+
+文本内容：标题上方的眉标显示为“ARI VALE — DESIGNER & DEVELOPER”，并带有一个小蓝点。主标题内容必须为：“I design digital experiences, brands, and creative web.” 将“design”一词设为优雅的斜体衬线字体，其余标题使用大号现代无衬线字体。辅助文案为：“Strategy-led design and development for forward-thinking companies and cultural projects.” 主按钮文字：“View Selected Work” 并配有一个小箭头。次要文本链接：“About Ari” 并配有一个箭头。左侧黑色项目卡片显示“REFIX ANADOL”、“Machine Hallucinations” 和 “Immersive Exhibition”，右下角带有一个小箭头。右侧堆叠的小字为“VISION”、“MADE”、“DIGITAL”。左下角文本为“AVAILABLE FOR NEW PROJECTS”。右下角社交链接仅限 3 项：“LINKEDIN”、“DRIBBBLE”、“INSTAGRAM”，后跟一个箭头。在最右侧添加垂直坐标标签“40.7128° N, 74.0060° W”。
+
+视觉细节：使用克制的配色方案，包括暖象牙白、黑色、炭灰色、浅混凝土灰以及鲜艳的钴蓝色点缀。排版应结合简洁的无衬线字体与一个高对比度的斜体衬线词。使用细发丝线、带有宽大字间距的小型大写标签以及精确的对齐方式。添加 5 个蓝色点缀元素：文字标识点、眉标点、菜单点、左侧建筑照片上方的蓝色胶带状对角矩形，以及右侧文字附近的一个小型蓝色加号/十字。在右下角拼贴画附近添加一个模糊的圆形印章图形，内含微小的不可读大写文本和一个小箭头。
+
+图像元素数量：包含 5 个摄影/纹理块：左侧拼贴画后方有一个高大的米色混凝土矩形，左侧有一张浅色弯曲建筑照片，下方有一张小型岩石纹理照片，右侧有一张大型浅色建筑楼梯/肋状结构图像，右侧图像下方有一张带有白色球体和石头的静物小图。此外，左侧拼贴画上包含 1 个黑色叠加项目卡片。
+
+约束：使其看起来像高端的实时网站落地页，而非海报。保持所有文本清晰易读，避免浏览器边框，避免额外的导航项，避免多余的图像，避免彩色渐变，避免使用库存人物照片，并保持宽敞的非对称平衡。
+
+[English]
+Goal: Create a refined portfolio homepage hero design for {argument name="designer name" default="Ari Vale"}, a designer/developer, with an editorial Swiss-style layout and layered architectural collage.
+
+Canvas: Wide desktop website screenshot, 16:9 aspect ratio, off-white warm paper background, lots of negative space, subtle grain texture, premium minimalist aesthetic.
+
+Layout: Top navigation bar with 6 visible items: left wordmark “Ari Vale” followed by a small blue dot, centered navigation links “Work”, “About”, “Studio”, “Notes”, and a rounded outlined “Menu” pill on the far right with a blue dot. Main hero content sits slightly left of center with a small eyebrow label, oversized typography, short description, and two calls to action. Layer abstract monochrome architectural images around the text: a collage on the left and a larger stepped architectural image on the right, with a small still-life image below it. Bottom footer strip contains availability text on the left, a thin horizontal divider line through the center, and social links on the right.
+
+Text content: Eyebrow above headline reads “ARI VALE — DESIGNER & DEVELOPER” with a small blue dot. Main headline reads exactly: “I design digital experiences, brands, and creative web.” Make the word “design” italic, elegant serif, while the rest of the headline is large modern sans serif. Supporting copy reads: “Strategy-led design and development for forward-thinking companies and cultural projects.” Primary button text: “View Selected Work” with a small arrow. Secondary text link: “About Ari” with an arrow. Left black project card reads “REFIX ANADOL”, “Machine Hallucinations”, and “Immersive Exhibition”, with a small arrow in the bottom-right corner. Small right-side stacked words read “VISION”, “MADE”, “DIGITAL”. Bottom-left text reads “AVAILABLE FOR NEW PROJECTS”. Bottom-right social links are exactly 3 items: “LINKEDIN”, “DRIBBBLE”, “INSTAGRAM”, followed by an arrow. Add a vertical coordinate label on the far right reading “40.7128° N, 74.0060° W”.
+
+Visual details: Use a restrained palette of warm ivory, black, charcoal gray, pale concrete gray, and vivid cobalt blue accents. Typography should combine a clean grotesk sans serif with one high-contrast italic serif word. Use thin hairline rules, tiny uppercase labels with generous letter spacing, and precise alignment. Add exactly 5 blue accent elements: the wordmark dot, the eyebrow dot, the menu dot, a blue tape-like diagonal rectangle over the left architectural photo, and a small blue plus/cross near the right-side words. Add a faint circular stamp graphic near the lower-right collage with tiny unreadable uppercase text and a small arrow inside.
+
+Image elements count: Include exactly 5 photographic/texture blocks: 1 tall beige concrete rectangle behind the left collage, 1 pale curved building photo on the left, 1 small rocky texture photo below it, 1 large pale architectural staircase/ribbed structure image on the right, and 1 small still-life image with a white sphere and stone beneath the right image. Also include exactly 1 black overlay project card on the left collage.
+
+Constraints: Make it look like a high-end live website landing page, not a poster. Keep all text crisp and legible, avoid browser chrome, avoid extra navigation items, avoid extra images, avoid colorful gradients, avoid stock-photo people, and preserve spacious asymmetrical balance.
+```
+
+**来源：** [@Leon Lin](https://x.com/LexnLin/status/2073381692492976623) | 2026-07-04
+
+---
+
+### 🖥️ 例 3201：出租屋厨房里的浪漫滑倒瞬间
+
+![出租屋厨房里的浪漫滑倒瞬间](../../images/%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%BB%91%E5%80%92%E7%9E%AC%E9%97%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级竖屏写实场景，背景是夜晚狭窄陈旧的出租屋厨房，展现两人在拖地时发生亲密意外滑倒的瞬间。一位身材高大健壮的年轻男性 {argument name="male character appearance" default="凌乱黑发，温暖的小麦色皮肤，身穿白色罗纹背心和黑色短裤，赤脚"} 接住并支撑着一位娇小的年轻女性 {argument name="female character appearance" default="凌乱的红紫色丸子头，戴圆框眼镜，身穿宽松白色背心和浅灰色短裤，赤脚"}。她因湿滑的木地板向后滑倒，身体戏剧性地倾斜在他怀中；他一手托住她的后颈，一手揽住她的腰，低头看着她，眼神中充满关切与温柔，她抬头与他对视，目光中透着浪漫的惊讶。她手中还拿着一把拖把，灰色的拖把头散落在旁边闪着水光的木地板上，旁边放着一个蓝色塑料桶。场景是一个杂乱、温馨且略显破旧的厨房：贴着瓷砖的墙壁上有污渍，开放式架子上挤满了罐子和厨具，一个小炉灶，一台贴满彩色中文海报和贴纸的复古浅绿色冰箱，一个圆形挂钟，一盏悬挂的裸露灯泡，窗外可见城市公寓的夜景灯光，还有纸箱、清洁用品、瓶子，前景是一张铺着绿色格子桌布的小桌子，上面放着餐具。使用温暖的琥珀色实用照明与窗外清冷的蓝色夜光相结合，地板上有反光的水洼，浅景深，真实的皮肤和织物纹理，戏剧性的浪漫喜剧构图，35mm 电影摄影风格，高细节，无多余肢体或手部，无重复的拖把，无水印。
+
+[English]
+Create a cinematic vertical photorealistic scene in a cramped old rental apartment kitchen at night, showing an intimate accidental-slip moment while mopping. A tall athletic young man with {argument name="male character appearance" default="messy black hair, warm tan skin, wearing a white ribbed tank top and black shorts, barefoot"} catches and supports a petite young woman with {argument name="female character appearance" default="messy auburn-purple hair in a bun, round glasses, wearing a loose white tank top and light gray shorts, barefoot"}. She has slipped backward on the wet wooden floor and is leaning dramatically in his arms; he holds the back of her neck and her waist while looking down at her with intense concern and tenderness, and she looks up at him in surprised romantic eye contact. One visible mop is still in her hand, its gray string head lying on the shiny wet floor beside one blue plastic bucket. The setting is a cluttered, cozy, slightly run-down kitchen: tiled stained walls, open shelves crowded with jars and cookware, a small stove, a retro pale green refrigerator covered with colorful Chinese posters and stickers, a round wall clock, a dangling bare light bulb, a window showing dark city apartment lights, cardboard boxes, cleaning supplies, bottles, a small table with a green-checkered cloth and dishes in the foreground. Use warm amber practical lighting mixed with cool blue night light from the window, reflective puddles on the dark wood floor, shallow depth of field, realistic skin and fabric texture, dramatic romantic-comedy composition, 35mm cinematic photography, high detail, no extra limbs or hands, no duplicated mop, no watermark.
+```
+
+**来源：** [@xiaoyubb](https://x.com/xiaoyulovezhi/status/2073355926376222892) | 2026-07-04
+
+---
+
+### 🖥️ 例 3212：钞票雕刻风格的深海生物
+
+![钞票雕刻风格的深海生物](../../images/%E9%92%9E%E7%A5%A8%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%B7%B1%E6%B5%B7%E7%94%9F%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+钞票平行线雕刻风格，{argument name="creatures" default="4 种罕见的发光深海生物：深海鮟鱇鱼、黑巨口鱼、吸血乌贼、冠水母"}
+
+[English]
+Banknote Parallel-Hatching Engraving Style, {argument name="生物" default="4種能發光的稀奇深海生物：Deep-Sea Anglerfish 鰟鱇魚, 琵琶魚, 燈籠魚, Stoplight Loosejaw 紅光松顎魚, 黑柔骨魚, Vampire Squid 吸血鬼魷魚, Atolla Jellyfish 阿托拉水母, 環冠水母"}
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2073327507454197893) | 2026-07-04
+
+---
+
+### 🖥️ 例 3231：动漫梨园丰收
+
+![动漫梨园丰收](../../images/%E5%8A%A8%E6%BC%AB%E6%A2%A8%E5%9B%AD%E4%B8%B0%E6%94%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 4:3 横屏比例、明亮的动漫风格果园插画。场景设定在阳光明媚的摘梨日，拥有温暖的斑驳阳光、浅景深效果，以及上方郁郁葱葱的梨树枝叶。画面中需呈现 2 位可爱的动漫女孩：前景中的女孩是名为 {argument name="character name" default="Muumuu Bell"} 的奶牛主题原创角色，她拥有极长的丝滑白发，发梢渐变为淡水蓝色，长有小巧的弯角和牛耳，金色双眸，面带红晕，佩戴着系有大黄铜铃铛的黑色颈圈，身穿带有黑色斑点的白色奶牛纹无袖上衣，以及一件从肩头滑落的宽松深棕色棒球外套；她左手举起 1 个硕大的黄绿色梨子，右臂挎着 1 个装满梨子的编织篮。第二位女孩站在右后方，身形较小且神情愉悦，留着青蓝色编织短发，闭眼微笑，戴着带有小装饰的大型黑色耳机，身穿印有彩色像素风心形/动物图案的白色连帽衫；她右手举起 1 个梨子，左臂挎着 1 个较小的装梨编织篮。画面中需包含 2 个可见的篮子，均装满黄绿色梨子，右下角放置 2 个同样装满梨子的木制农产品板条箱。在左侧远景中，添加 2 只在乡村围栏后吃草的小黑白奶牛，以强化农场氛围。树冠间挂满梨子，并点缀着光亮的叶片、阳光束和柔和的虚化效果。在右上角放置醒目的圆体日文标题 {argument name="headline text" default="梨の日"}，采用带有白色描边的粗体绿色文字，并在旁边添加一个小梨子图标。在左下角放置一句友好的问候语 {argument name="greeting text" default="こんにちは🍐"}，使用风格匹配的圆体绿色文字及白色描边。采用精致的高质量动漫渲染、细腻的线条、生动的表情、柔和的粉彩光影，营造出温馨的季节性丰收氛围。避免出现水印、多余角色、手部畸变、无法辨认的文字或额外标志。
+
+[English]
+Create a bright anime-style orchard illustration in a 4:3 landscape frame, set on a sunny pear-picking day with warm dappled sunlight, shallow depth of field, and lush green pear trees arching overhead. Show exactly 2 cute anime girls among the trees: the foreground girl is a cow-themed original character named {argument name="character name" default="Muumuu Bell"}, with very long silky white hair fading faintly to pale aqua at the ends, small curved horns, cow ears, golden eyes, soft blush, a black choker with a large brass bell, a white cow-print sleeveless top with black spots, and a loose dark brown varsity-style jacket slipping off her shoulders; she holds 1 large yellow-green pear up in her left hand and carries 1 woven basket full of pears in her right arm. The second girl stands behind to the right, smaller and cheerful, with teal-blue bobbed hair in braids, closed smiling eyes, large black headphones with small decorations, and a white hoodie with a colorful pixel-like heart/animal graphic; she holds 1 pear up in her right hand and carries 1 smaller woven basket of pears in her left arm. Include exactly 2 visible baskets, both filled with yellow-green pears, and exactly 2 wooden produce crates at the lower right, also filled with pears. In the distant left background, include exactly 2 small black-and-white cows grazing behind a rustic fence to reinforce the farm setting. Add many pear fruits hanging from branches throughout the canopy, glossy leaves, sunbeams, and soft bokeh. Place large rounded Japanese headline text at the upper right reading {argument name="headline text" default="梨の日"}, in thick green letters with a white outline, plus a small pear icon beside it. Place a friendly greeting at the bottom left reading {argument name="greeting text" default="こんにちは🍐"}, in matching rounded green text with a white outline. Use polished high-quality anime rendering, delicate linework, expressive faces, soft pastel lighting, and a wholesome seasonal harvest mood. Avoid watermarks, extra characters, distorted hands, unreadable text, or additional logos.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2073259281819091436) | 2026-07-04
+
+---
+
+### 🖥️ 例 3245：动漫神社庭院对话
+
+![动漫神社庭院对话](../../images/%E5%8A%A8%E6%BC%AB%E7%A5%9E%E7%A4%BE%E5%BA%AD%E9%99%A2%E5%AF%B9%E8%AF%9D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个精致的动漫风格场景，背景为宁静的日本神社庭院，采用高位四分之三俯视镜头，向下俯瞰站在浅色石板路上的两名角色。左侧前景展示一名少女，主要呈现背影，留着 {argument name="hair color" default="棕色"} 的头发，扎成凌乱的发髻，身穿绿色连帽衫、黑色长裤和红色长围巾；她正大幅度地挥动手臂，一只手指向左上方，另一只手伸向对面的女孩。右侧中景展示第二名少女，侧身面向镜头，留着 {argument name="character hair color" default="红色"} 的短波波头，有着紫色双眸、粉色花朵发饰和黑色猫耳状配饰；她身穿饰有大朵粉色樱花的正式黑色和服，系着红金相间的花纹腰带，穿着白色足袋和红白相间的木屐。她的姿态沉稳且略带怀疑，一只手叉腰，另一只手自然垂在袖口附近，注视着正在比划的女孩。环境应包含 4 个显眼的神社庭院元素：左上方带有叶影的粗大树干、上方中央的石灯笼、右侧带有垂直立柱的木制鸟居或神社门结构，以及最右侧隐约可见的第二个石灯笼。使用柔和的日光、轻柔的阴影、干净的线条、细腻的动漫背景绘制、电影级宽屏构图，且画面中不含任何文字或水印。
+
+[English]
+Create a polished anime-style scene in a quiet Japanese shrine courtyard from a high three-quarter overhead camera angle, looking down at two characters on pale stone paving. On the left foreground, show a teenage girl seen mostly from behind, with {argument name="hair color" default="brown"} hair tied in a messy bun, wearing a green hoodie, black pants, and a long red scarf; she is gesturing dramatically with both arms spread wide, one hand raised toward the upper left and the other extended toward the girl opposite her. On the right midground, show a second teenage girl facing the camera at an angle, with short {argument name="character hair color" default="red"} bobbed hair, purple eyes, a pink flower hair ornament, and black cat-ear-like accessories; she wears a formal black kimono decorated with large pink cherry blossoms, a patterned red-and-gold obi, white tabi socks, and red-and-white sandals. Her stance is composed and slightly skeptical, one hand resting at her waist and the other relaxed near her sleeve, looking toward the gesturing girl. The environment should include exactly 4 prominent shrine courtyard elements: a large tree trunk with leafy shadow in the upper left, a stone lantern near the upper center, a wooden torii or shrine gate structure with vertical posts on the right, and a second stone lantern partially visible on the far right. Use soft daylight, gentle shadows, clean line art, detailed anime background painting, cinematic widescreen composition, and no text or watermark.
+```
+
+**来源：** [@またべえ＠AI副業アニメクリエイター](https://x.com/matabee_GTO/status/2073206401250586849) | 2026-07-04
+
+---
+
+### 🖥️ 例 3248：单色视觉系专辑封面
+
+![单色视觉系专辑封面](../../images/%E5%8D%95%E8%89%B2%E8%A7%86%E8%A7%89%E7%B3%BB%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张单色的垂直视觉系专辑封面插画，主角是一位名为 {argument name="character name" default="Eds"} 的中性化年轻男主唱，身着深色哥特式西装。画布为 2:3 的高长比例，采用纯黑背景和极具戏剧性的黑白漫画渲染风格。角色居中，画面从大腿上部至头部，身体略微后倾，表情慵懒忧郁，双唇微启，露出一只半闭的眼睛，长而凌乱的浅 {argument name="hair color" default="white-blond"} 色头发遮住一只眼睛，带有松散的编织发束和飞扬的发丝。他身穿光泽感的黑色定制西装、白色衬衫、花纹马甲、窄领带或丝带，配有华丽的领口细节，展现视觉系贵族风格。他的躯干、手臂和一只前臂被许多破损的白色绷带状丝带紧紧缠绕，额外的长条织物从上到下垂直悬挂并环绕在他周围，营造出一种被困的木偶或茧状效果。画面中需精确呈现 12 条显眼的丝带/织物条：5 条从顶部背景垂下，3 条横跨躯干，2 条缠绕手臂，2 条在前景中呈对角线扫过。添加高对比度的墨水阴影、细腻的头发线条、光泽感的黑色服装高光、划痕纹理、白色喷溅痕迹以及华丽的哥特式装饰。在胸部中央放置醒目的垂直日文标题文字 {argument name="title text" default="破エズ"}，采用粗体白色笔刷风格，由细虚线垂直引导线框定，上方和下方配有对称的小型装饰卷轴图案。整体氛围应呈现出黑暗视觉系 CD 封面的质感：优雅、偏执、脆弱、悲剧且略带超现实感。调色板严格保持灰度，避免使用色彩，避免出现额外角色，避免现代标志，背景除丝带和微妙的墨水纹理外保持留白。
+
+[English]
+Create a monochrome vertical visual-kei album cover illustration featuring an androgynous young male vocalist named {argument name="character name" default="Eds"} in a dark gothic suit. The canvas is a tall 2:3 portrait with a pure black background and dramatic black-and-white manga rendering. Center the character from upper thighs to head, slightly leaning back with a languid, melancholic expression, lips parted, one visible half-lidded eye, and long messy pale {argument name="hair color" default="white-blond"} hair falling over one eye, with loose braided strands and flyaway lines. Dress him in a glossy black tailored jacket, white dress shirt, patterned vest, narrow tie or ribbon, ornate collar details, and a visual-kei aristocratic styling. Wrap his torso, arms, and one forearm tightly in many torn white bandage-like ribbons, while additional long fabric strips hang and slash vertically around him from top to bottom, creating a trapped marionette or cocoon effect. Use exactly 12 prominent ribbon/fabric strips visible around the figure: 5 descending from the top background, 3 crossing the torso, 2 wrapping the arms, and 2 sweeping diagonally in the foreground. Add high-contrast ink shading, delicate hair linework, glossy black clothing highlights, scratchy texture, white splatter marks, and ornate gothic flourishes. Place large vertical Japanese title text {argument name="title text" default="破エズ"} in bold white brush-style characters over the center of the chest, framed by thin dotted vertical guide lines and small symmetrical ornamental scrollwork above and below. The overall mood should feel like a dark V-kei CD jacket: elegant, obsessive, fragile, tragic, and slightly surreal. Keep the palette strictly grayscale, avoid color, avoid extra characters, avoid modern logos, and keep the background empty except for ribbons and subtle ink texture.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073196164963610848) | 2026-07-04
+
+---
+

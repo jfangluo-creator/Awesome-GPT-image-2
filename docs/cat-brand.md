@@ -8487,3 +8487,169 @@ Create a polished vertical anime illustration of exactly two young adult female 
 
 ---
 
+### 🏷️ 例 3149：蓝色闪电动漫法师
+
+![蓝色闪电动漫法师](../../images/%E8%93%9D%E8%89%B2%E9%97%AA%E7%94%B5%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满戏剧性的竖版动漫奇幻插画，描绘一位年轻的男性雷电法师正在释放终极咒语。角色位于画面中心，采用动态的低角度特写，一只手伸向观众，另一只手臂向外延伸，周围环绕着强烈的电弧。他有着 {argument name="hair color" default="银蓝色"} 凌乱的层次感发型，发丝随风飘动，双眼闪烁着 {argument name="eye color" default="电光蓝"} 的光芒，皮肤白皙，表情严肃坚定，戴着一个小耳环。他的服装是未来感的高领法师长袍：内搭为光泽感的黑色服饰，外罩带有尖锐翻领的白色外套，配有深色链条和绑带，点缀着蓝色水晶般的发光装饰，并带有反光的湿润质感。在他身后是一个巨大的发光圆形魔法阵，由同心圆、符文标记、几何线条和放射状符号组成，散发着明亮的青白色光芒。画面中必须包含 1 个魔法阵、1 个核心角色，以及从他双手和魔法阵中放射出的众多分支闪电。背景是暴风雨的夜空，深蓝色的云层被一道垂直的、耀眼的蓝白色闪电柱劈开，闪电在他头后如同光环般降下。使用深海军蓝、钴蓝、青色和白色的冷色调，强调极致的对比度、光晕效果、轮廓光、闪烁粒子和电影级动漫渲染。画面需高度精细、充满神秘感、力量感和活力，且无文字、无水印、无额外角色。
+
+[English]
+Create a dramatic vertical anime fantasy illustration of a young male lightning mage unleashing an ultimate spell. The character is centered in a dynamic low-angle close-up, reaching one hand toward the viewer while the other arm extends outward, surrounded by intense electric arcs. He has {argument name="hair color" default="silvery blue"} messy layered hair with windblown strands, glowing {argument name="eye color" default="electric blue"} eyes, pale skin, a serious determined expression, and a small earring. His outfit is a futuristic high-collar mage coat: glossy black inner clothing, a white outer coat with sharp lapels, dark chains and straps, blue crystal-like glowing accents, and reflective wet-looking highlights. Behind him is one enormous luminous circular magic sigil, made of concentric rings, runic markings, geometric lines, and radial symbols, glowing bright cyan-white. Count exactly 1 magic circle, 1 central character, and many branching lightning bolts radiating from his hands and the circle. The background is a stormy night sky with dark blue clouds split open by a vertical column of blinding white-blue lightning descending behind his head like a halo. Use a cool palette of deep navy, cobalt, cyan, and white, with extreme contrast, bloom, rim lighting, sparkling particles, and cinematic anime rendering. Make the image highly detailed, mystical, powerful, and energetic, with no text, no watermark, and no extra characters.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2073522129254187136) | 2026-07-04
+
+---
+
+### 🏷️ 例 3163：植物主题展览海报模板
+
+![植物主题展览海报模板](../../images/%E6%A4%8D%E7%89%A9%E4%B8%BB%E9%A2%98%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+【主题】：【{argument name="主题" default="填写主题"}】
+【品牌名】：【{argument name="品牌英文名" default="填写英文品牌名"}】
+【中文名】：【{argument name="品牌中文名" default="填写中文品牌名"}】
+【主标题】：【{argument name="大标题" default="填写大标题"}】
+【英文副标题】：【填写英文副标题】
+【比例】：【3:4 / 4:5】
+【主色调】：【填写主色】
+【点缀色】：【填写点缀色】
+【主视觉食物】：【填写产品】
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2073435574787326389) | 2026-07-04
+
+---
+
+### 🏷️ 例 3177：动漫 AI 提示词评审会议
+
+![动漫 AI 提示词评审会议](../../images/%E5%8A%A8%E6%BC%AB%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AF%84%E5%AE%A1%E4%BC%9A%E8%AE%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张干净的白色背景动漫插图，描绘一场幽默的提示词评审会议，仿佛一个 AI 图像模型正在办公桌前接受三位奇幻/动漫少女的面试。
+
+画布：横向 4:3 构图，全身群像，明亮的白色摄影棚背景，清晰的赛璐珞动漫渲染，细节精致，家具下方带有柔和阴影。
+
+布局：在前景中心放置一张黑色长方形会议桌，透视略微倾斜。左侧放置一把办公椅，右侧放置两把办公椅。包含 4 个角色：左侧 1 位无面 AI 商务人士，中左侧 1 位站立的暗夜精灵女性，中右侧 1 位坐着的小女仆，以及最右侧 1 位坐着的红发女剑士。在右上角添加一个巨大的粉色日文标题 {argument name="headline text" default="NaraSAN 新規プロンプトみーてぃんぐ"}。在角色周围添加手绘风格的彩色日文反应评论，如同漫画注释，包括 AI 商务人士附近的蓝色文字、暗夜精灵周围的青色文字、女仆附近的紫色文字以及红发女剑士附近的红色文字。
+
+角色细节：左侧角色为男性上班族，身穿深蓝色西装、白衬衫、黑领带、白手套和黑色正装皮鞋，端坐在黑色转椅上。他的头部是一个圆角矩形的白色平板显示器或标牌，带有一个汗滴图标；屏幕文字显示 {argument name="AI screen label" default="GPT2"}。他双手戴着手套合在一起，做出紧张道歉的姿势。
+
+中间站立的角色是一位自信的暗夜精灵女性，拥有长长的 {argument name="elf hair color" default="黑紫色"} 头发、尖耳朵、紫罗兰色眼睛，身穿带有金色饰边的华丽深蓝黑色奇幻礼服，露肩设计，袖子飘逸，穿着过膝长靴，佩戴珠宝发饰。她身体前倾靠近桌面，一只手锐利地指向文件，另一只手抬起，握住或指向一个高大的透明亚克力隔板，表情显得有些恼火。
+
+中右侧坐着的角色是一位娇小的黑发女孩，身穿紫白相间的女仆装，戴着褶边女仆头饰，系着紫色丝带蝴蝶结，穿着白色围裙、黑色连裤袜和紫色玛丽珍鞋。她端庄地坐着，双手放在膝盖上，表情略显困惑或安静地感到好笑。
+
+最右侧坐着的角色是一位红发动漫女剑士，扎着高马尾，蓝色眼睛，身穿带有金色龙纹刺绣的红白和风武士装，黑色长裤，穿着盔甲靴，身侧配有一把绿色刀鞘的武士刀。她坐在黑色转椅上，带着一个小汗滴和困惑的表情，看向会议现场。
+
+桌面物品：包含 8 个可见的桌面物品：左边缘附近的一叠白纸，中心处一份盖有红色印章的打开或散落的文件，左前方的一叠蓝色文件夹，正前方的一个黑色活页夹，后方中心亚克力隔板旁的一台银色笔记本电脑或平板电脑，后右侧的一份散落文件，右前方的一张带有蓝色条形图的图表页，以及图表旁的一张额外白纸。文件仅需表现为简单的线条、印章和图表图形，无需显示可阅读的完整段落。
+
+视觉风格：高质量现代动漫插图，幽默的会议场景，干净的线条，柔和的渐变，生动的表情，精致的服装，锐利的办公家具，漫画风格的浮动对话评论。角色周围主要使用白色负空间，不包含背景房间细节。
+
+约束条件：使用 4 个角色和 8 个桌面物品。保留 AI 屏幕上的英文文本和粉色日文标题。不要添加额外的人员、Logo、水印或详细的办公室背景。
+
+[English]
+Goal: Create a clean white-background anime illustration of a humorous prompt review meeting, as if an AI image model is being interviewed by three fantasy/anime girls around an office table.
+
+Canvas: Landscape 4:3 composition, full-body group shot, bright white studio background, crisp cel-shaded anime rendering with polished details and soft shadows under furniture.
+
+Layout: Place a black rectangular meeting table in the center foreground, angled slightly in perspective. Put one office chair on the left and two office chairs on the right. Include exactly 4 characters: 1 faceless AI businessman on the left, 1 standing dark elf woman in the middle-left, 1 small maid girl seated middle-right, and 1 red-haired swordswoman seated far right. Add a large pink Japanese headline at the top right reading {argument name="headline text" default="NaraSAN 新規プロンプトみーてぃんぐ"}. Add hand-drawn colorful Japanese reaction comments around the characters, like manga annotations, including blue text near the AI businessman, teal text around the dark elf, purple text near the maid, and red text near the red-haired swordswoman.
+
+Character details: The left character is a male office worker in a navy suit, white shirt, black tie, white gloves, and black dress shoes, seated upright in a black rolling office chair. His head is a flat white rectangular monitor or signboard with rounded corners and a sweat-drop icon; the screen text reads {argument name="AI screen label" default="GPT2"}. He holds his gloved hands together in a nervous apologetic gesture.
+
+The central standing character is a confident dark elf woman with long {argument name="elf hair color" default="black-purple"} hair, pointed ears, violet eyes, and an ornate navy-and-black fantasy dress with gold trim, shoulder cutouts, flowing sleeves, thigh-high boots, and a jeweled hair ornament. She leans forward toward the table, one hand pointing sharply at documents, the other hand raised gripping or gesturing near a tall transparent acrylic divider panel, with an irritated speaking expression.
+
+The seated middle-right character is a petite black-haired girl in a purple-and-white maid outfit with a frilled maid headdress, purple ribbon bow, white apron, black tights, and purple Mary Jane shoes. She sits demurely with hands together on her lap, looking slightly confused or quietly amused.
+
+The seated far-right character is a red-haired anime swordswoman with a high ponytail, blue eyes, white-and-red kimono-style warrior outfit with gold dragon embroidery, black pants, armored boots, and a green-sheathed katana at her side. She sits in a black rolling chair with a small sweat drop and puzzled expression, looking toward the meeting.
+
+Table objects: Include exactly 8 visible tabletop items: 1 stack of white papers near the left edge, 1 open or loose document in the center with a red stamp mark, 1 blue folder stack at front-left, 1 black binder at front-center, 1 silver laptop or tablet stack near the rear-center beside the acrylic divider, 1 loose document at the rear-right, 1 chart page with blue bar graph at front-right, and 1 additional white sheet beside the chart. Keep the documents legible only as simple lines, stamps, and chart graphics, not full readable paragraphs.
+
+Visual style: High-quality modern anime illustration, humorous meeting scene, clean line art, soft gradients, expressive faces, detailed outfits, sharp office furniture, manga-style floating speech comments. Use mostly white negative space around the group, with no background room details.
+
+Constraints: Use exactly 4 characters and exactly 8 tabletop items. Preserve the visible English text on the AI screen and the pink Japanese headline. Do not add extra people, logos, watermarks, or a detailed office background.
+```
+
+**来源：** [@NaraSAN0919](https://x.com/0Narasan/status/2073406109470396698) | 2026-07-04
+
+---
+
+### 🏷️ 例 3179：女王与巨蛇的奇幻阳台
+
+![女王与巨蛇的奇幻阳台](../../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E5%B7%A8%E8%9B%87%E7%9A%84%E5%A5%87%E5%B9%BB%E9%98%B3%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的高奇幻风格竖构图肖像，标题为 {argument name="scene title" default="女王与巨蛇"}：一位高贵的年轻女王站在装饰华丽的白色大理石宫殿阳台上，一只手抬起挥动，另一只手扶在栏杆上。她拥有非常飘逸的 {argument name="hair color" default="银白色"} 长发、白皙发光的皮肤、冷静而威严的神情，以及一顶带有精致金丝花纹的皇冠。为她穿上一件奢华的深 {argument name="dress color" default="深红色"} 束腰礼服，礼服上饰有复杂的金线刺绣、珠宝镶边、露肩袖，以及在微风中飘动的半透明红色披风。在她身旁，加入一条巨大的苍白色巨蛇，垂直耸立在阳台后方，蛇头靠近她的肩膀，拥有细节丰富的象牙色鳞片、金色的眼睛、细长的舌头以及一个金色的装饰性项圈，看起来充满保护欲而非攻击性。场景设定在一座宏伟的哥特式大教堂宫殿前，建筑由雕刻的白石制成，带有高耸的拱门、精致的尖塔、镀金细节，以及恰好三面醒目的深红色纹章旗帜，旗帜上带有金色的狮子与皇冠图案：左侧外墙挂一面大旗，女王身后挂一面高旗，阳台前方垂下一面竖旗。在阳台左下角添加攀爬的红玫瑰，明亮的蓝天与柔软的白云间飘散着红玫瑰花瓣。采用低角度英雄式构图，前景为装饰性大理石柱和栏杆，浅景深，阳光高光，柔和光晕，超细节奇幻写实风格，优雅的皇家氛围，无现代物品，无文字，无水印。
+
+[English]
+Create a cinematic high-fantasy vertical portrait titled {argument name="scene title" default="The Queen and the Serpent"}: a regal young queen stands on an ornate white marble palace balcony, waving with one raised hand while her other hand rests on the balustrade. She has very long flowing {argument name="hair color" default="silver-white"} hair, pale luminous skin, a calm commanding expression, and a delicate gold crown with filigree points. Dress her in a luxurious deep {argument name="dress color" default="crimson red"} corset gown with intricate gold embroidery, jeweled trim, off-shoulder sleeves, and translucent red cape-like drapery flowing in the breeze. Beside her, include one enormous pale white serpent rising vertically behind the balcony, its head near her shoulder, with detailed ivory scales, golden eyes, a thin tongue, and a gold ornamental collar, appearing protective rather than aggressive. Set the scene before a grand Gothic cathedral-palace facade made of carved white stone, with tall arches, elaborate spires, gilded details, and exactly three prominent crimson heraldic banners bearing gold lion-and-crown motifs: one large banner on the left facade, one tall banner behind the queen, and one vertical banner hanging over the front balcony. Add climbing red roses along the lower left balcony and scattered red rose petals drifting through a bright blue sky with soft white clouds. Use a low-angle heroic composition, ornate marble columns and balusters in the foreground, shallow depth of field, sunlit highlights, soft bloom, ultra-detailed fantasy realism, elegant royal atmosphere, no modern objects, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2073404409963585984) | 2026-07-04
+
+---
+
+### 🏷️ 例 3182：云端之上的宏伟阶梯
+
+![云端之上的宏伟阶梯](../../images/%E4%BA%91%E7%AB%AF%E4%B9%8B%E4%B8%8A%E7%9A%84%E5%AE%8F%E4%BC%9F%E9%98%B6%E6%A2%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅具有电影质感的超现实建筑场景，画面中是一座巨大的 {argument name="staircase material" default="风化的浅色大理石"} 宏伟阶梯，从一座纪念碑式的宫殿陡峭地向下延伸至无尽的云海中。视角位于阶梯顶部附近，向下俯瞰，沿着台阶望向朦胧的地平线，两侧装饰着华丽的古典栏杆，左上方有巨大的石柱，方形基座柱顶端饰有雕刻的瓮状饰物，呈现出裂纹石材纹理和柔和的大气雾感。在下方前景的台阶上放置唯一一个物体：一把闭合的 {argument name="umbrella color" default="深红色"} 雨伞，斜放在大理石上，带有黑色弯曲手柄和尖头，作为画面中唯一的亮色点缀。阶梯之外，厚重翻滚的白灰色云层填满了整个山谷，右中方隐约可见一座从云层中探出的小型圆顶寺庙或凉亭，远方地平线上有淡淡的山脉轮廓。光影应为 {argument name="lighting mood" default="阴天透过云层的柔和晨光"}，带有柔和的金色和银色调，呈现出轻柔的体积光、写实的阴影以及忧郁的梦幻氛围。采用 4:5 竖构图，高细节写实奇幻哑光绘画风格，宏大的比例，优雅的忧郁感，画面中无人，无文字，无水印。
+
+[English]
+Create a cinematic surreal architectural scene of a vast {argument name="staircase material" default="weathered pale marble"} grand staircase descending steeply from a monumental palace into an endless sea of clouds. The viewpoint is from near the top of the stairs, looking downward along the steps toward the misty horizon, with ornate classical balustrades on both sides, massive stone pillars at the upper left, square pedestal posts topped with carved urn finials, cracked stone texture, and soft atmospheric haze. Place exactly one object on the lower foreground steps: a closed {argument name="umbrella color" default="deep red"} umbrella lying diagonally across the marble, with a black curved handle and pointed tip, acting as the only bright color accent. Beyond the staircase, show thick rolling white and gray clouds filling the entire valley, with a small distant domed temple or pavilion barely visible emerging from the clouds near the center-right, and faint mountains on the far horizon. Lighting should be {argument name="lighting mood" default="soft dawn light through overcast clouds"}, with muted gold and silver tones, gentle volumetric rays, realistic shadows, and a moody dreamlike atmosphere. Use a vertical 4:5 composition, high-detail photorealistic fantasy matte painting style, grand scale, elegant melancholy, no people, no text, no watermark.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2073401054083895495) | 2026-07-04
+
+---
+
+### 🏷️ 例 3219：皇家奇幻公主抱
+
+![皇家奇幻公主抱](../../images/%E7%9A%87%E5%AE%B6%E5%A5%87%E5%B9%BB%E5%85%AC%E4%B8%BB%E6%8A%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 竖版动漫奇幻浪漫插画，背景为夜晚：一位高大英俊的年轻王子或骑士，拥有 {argument name="male character hair color" default="深棕黑色头发"} 和冷静的蓝紫色眼睛，以公主抱的姿势抱着一位优雅的年轻公主。他位于画面右侧，呈四分之三侧面，微微低头看向观众，表情沉稳且充满保护欲。他身穿华丽的皇家盔甲和礼服：黑色手套，深海军蓝与黑色相间的束腰外衣，饰有鲜艳的钴蓝色图案，高耸的白色立体领口，锋利的白金肩甲，金色花丝饰边，以及蓝色宝石装饰。公主占据画面左侧和中心前景，躺在他的双臂上，双腿裸露在前方，姿态优雅且不露骨；她拥有 {argument name="female character hair color" default="深紫黑色长发"}、柔和的紫色眼睛、白皙的皮肤，表情略显清冷而梦幻。为她穿上一件飘逸的 {argument name="dress color" default="薰衣草色与皇家紫色"} 奇幻礼服，采用半透明层叠面料，白色内裙，金色花丝肩带，肩部和胸衣饰有华丽的星形金色配饰，佩戴悬垂的蓝色水晶耳环，精致的金色腿部装饰，以及一个金色的皇冠状头饰，头饰上有两个向上延伸的高耸羽毛或角状装饰。画面仅包含两个主要角色：一名男性皇家骑士抱着一名女性公主。场景设定在夜晚一座富丽堂皇的东亚风格宫殿城市中，背景是柔和发光的宝塔屋顶和灯火通明的建筑，深靛蓝色的天空，漂浮着淡淡的花瓣或魔法粒子，冷色调的月光紫蓝色与温暖的窗光交织。构图亲密且具有电影感，采用低角度特写，高度精细的抛光动漫艺术，细腻的线条，光泽感高光，精美的金色装饰，柔和的景深，戏剧性的轮廓光，奢华的奇幻氛围。在右下角包含一个优雅的小型白色草书签名 {argument name="signature text" default="playforge"}。避免出现额外角色，避免现代物品，除签名外不要包含任何文字，保持画面浪漫、高贵且富有品味。
+
+[English]
+Create a vertical 2:3 anime fantasy romance illustration at night: a tall, handsome young prince or knight with {argument name="male character hair color" default="dark brown-black hair"} and calm blue-violet eyes carries an elegant young princess in a bridal carry. He stands on the right side in three-quarter view, looking slightly downward at the viewer with a composed, protective expression. He wears ornate royal armor and formal clothing: black gloves, a dark navy-and-black tunic with vivid cobalt blue patterns, a high white sculptural collar, sharp white-and-gold shoulder armor, gold filigree trim, and blue gemstone ornaments. The princess fills the left and center foreground, reclining across his arms with her bare legs prominently in front but posed gracefully and non-explicitly; she has {argument name="female character hair color" default="long deep violet-black hair"}, soft purple eyes, pale skin, and a slightly aloof, dreamy expression. Dress her in a flowing {argument name="dress color" default="lavender and royal purple"} fantasy gown with translucent layered fabric, white inner skirt panels, gold filigree straps, ornate star-shaped gold accessories at the shoulders and bodice, dangling blue crystal earrings, delicate gold leg ornaments, and a gold crown-like headpiece with two tall feather or horn-shaped ornaments rising upward. Use exactly two main characters: one male royal knight carrying one female princess. Set the scene in an opulent East Asian-inspired palace city at night, with softly glowing pagoda rooftops and lantern-lit architecture in the background, a deep indigo sky, faint floating petals or magical particles, and cool moonlit purple-blue lighting mixed with warm window glow. Make the composition intimate and cinematic, low-angle close-up, highly detailed polished anime art, delicate linework, glossy highlights, elaborate gold ornamentation, soft depth of field, dramatic rim light, luxurious fantasy atmosphere. Include a small elegant white cursive signature reading {argument name="signature text" default="playforge"} in the bottom-right corner. Avoid extra characters, avoid modern objects, avoid text besides the signature, and keep the image romantic, regal, and tasteful.
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2073302557024547139) | 2026-07-04
+
+---
+
+### 🏷️ 例 3222：复古 CCD 闪光灯快照
+
+![复古 CCD 闪光灯快照](../../images/%E5%A4%8D%E5%8F%A4%20CCD%20%E9%97%AA%E5%85%89%E7%81%AF%E5%BF%AB%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+带有 {argument name="camera style" default="复古 CCD 卡片相机"} 质感的闪光灯手机快照：颗粒感十足的室内低光场景，杂乱昏暗的房间氛围，不经意的抓拍感，轻微的动态模糊，{argument name="subject" default="年轻韩国女偶像"} 带着柔和纯真的表情。
+
+[English]
+Flash-lit mobile phone snapshot with a {argument name="camera style" default="vintage CCD compact-camera"} feel: grainy low-light indoor scene, messy dim room ambience, candid off-guard energy, slight motion blur, {argument name="subject" default="young Korean female idol"} with a soft innocent expression.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073295800915185950) | 2026-07-04
+
+---
+

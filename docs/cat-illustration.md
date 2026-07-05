@@ -6648,3 +6648,122 @@ Photorealistic, premium editorial fashion photography, authentic football cultur
 
 ---
 
+### 🎨 例 3146：宇宙钟楼奇幻场景
+
+![宇宙钟楼奇幻场景](../../images/%E5%AE%87%E5%AE%99%E9%92%9F%E6%A5%BC%E5%A5%87%E5%B9%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个垂直的电影级奇幻场景，画面中心为 {argument name="traveler description" default="一位身着深色衣服、戴着兜帽的孤独旅行者"}，站在光滑且被雨水打湿的石路上，面对一座从发光云层中升起的巨大华丽天文钟楼。钟楼呈大教堂风格且对称，由深色陈旧金属和雕刻石材制成，带有复杂的金银丝细工、高大的侧柱、小尖塔、圆顶屋顶以及散发着温暖金光的宏伟拱门。钟面位于上方中心位置，巨大且呈耀眼的琥珀色，带有罗马数字、精致的雕刻天体图案、黑色华丽的指针，时间显示为 {argument name="clock time" default="11:55"} 左右。石路以强烈的单点透视指向拱门，地面上的积水倒映出金色的钟楼和夕阳的光芒。建筑两侧环绕着戏剧性的橙色积云，上方是深蓝黑色的星空，包括明亮的银河带、许多清晰的星星，以及正好 3 个可见的新月/行星：右侧一个较大的新月，其下方一个较小的新月，以及右上角附近一个极小的新月。使用 {argument name="lighting mood" default="冷色调宇宙夜空下的暖金色光芒"}，高对比度，史诗级规模，超细节奇幻写实风格，体积光，大气薄雾，电影级构图，中心对称，无文字，无水印。
+
+[English]
+Create a vertical cinematic fantasy scene of {argument name="traveler description" default="a lone hooded traveler in dark clothes"} standing centered on a glossy rain-wet stone causeway, facing an enormous ornate astronomical clock tower that rises out of glowing clouds. The tower is cathedral-like and symmetrical, made of dark aged metal and carved stone with intricate filigree, tall side columns, small spires, a domed roof, and a grand arched doorway glowing with warm golden light. The clock face dominates the upper center, huge and radiant amber, with Roman numerals, delicate engraved celestial patterns, black ornate clock hands, and the time near {argument name="clock time" default="11:55"}. The causeway leads in strong one-point perspective toward the doorway, with puddles and mirror-like reflections of the golden clock and sunset light. Surround the structure with dramatic orange-lit cumulus clouds at both sides and a deep blue-black starry sky above, including a bright Milky Way band, many sharp stars, and exactly 3 visible crescent moons/planets: one larger crescent on the right, one smaller crescent below it, and one tiny crescent near the upper right. Use {argument name="lighting mood" default="warm golden glow against cool cosmic night"}, high contrast, epic scale, ultra-detailed fantasy realism, volumetric light, atmospheric mist, cinematic composition, centered symmetry, no text, no watermark.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2073543093714919544) | 2026-07-04
+
+---
+
+### 🎨 例 3150：烛光下的古典大师风格创意三人组
+
+![烛光下的古典大师风格创意三人组](../../images/%E7%83%9B%E5%85%89%E4%B8%8B%E7%9A%84%E5%8F%A4%E5%85%B8%E5%A4%A7%E5%B8%88%E9%A3%8E%E6%A0%BC%E5%88%9B%E6%84%8F%E4%B8%89%E4%BA%BA%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅深色调、古典大师风格的群像油画，画面中正好有三位人类艺术家或思想家，在夜晚围坐在一张杂乱的木制工作台旁，由左下角的一盏暖色油灯照明。场景应呈现出 19 世纪浪漫主义油画的质感，具有厚涂法、烟雾缭绕的明暗对照法、柔和的赭石色、土黄色、炭灰色和深蓝色调，笔触清晰可见，边缘柔和，光影效果亲密且富有戏剧性。中心人物 {argument name="central figure" default="一位留着深色乱发、神情沉稳的中年女性"} 正面朝向观众，带着一丝心领神会的微笑，身穿一件宽松破旧的灰褐色衬衫，一只手放在一本打开的素描本上，另一只手抬起，仿佛正在阐述一个想法。左侧的 {argument name="left figure" default="一位沉思的卷发女性"} 侧身坐着，看向中心，手中拿着一叠手写纸稿。右侧的 {argument name="right figure" default="一位高大的卷发男性"} 从阴影中探出身子，看向观众，手中拿着一支细画笔或钢笔，靠近一个玻璃罐。桌上摆放着 8 件显眼的物品：左下角 1 盏发光的油灯，左侧人物附近 1 叠散乱的手写纸稿，中间 1 本画满草图和笔记的打开笔记本，左下角 1 张画有手部研究的大纸，底部中心附近 1 本贴有纸质标签的闭合深色书籍，右下角附近 1 张画有植物/叶片的小素描页，右手边 1 个装有琥珀色液体的玻璃罐，以及最右侧 1 个带有深蓝色、赭石色和红色颜料的调色板。在左侧人物身后的暗墙上添加模糊、难以辨认的手写笔记，但不要包含清晰的现代文字。构图：横向 4:3 画幅，半身像，面孔从黑暗中浮现，桌子横跨前景，营造出私密的画室氛围，无现代服装，无摄影感，无干净的数字质感，无水印。
+
+[English]
+Create a dark, painterly old-master group portrait of exactly three human artists or thinkers seated around a cluttered wooden worktable at night, lit by a single warm oil lamp on the lower left. The scene should feel like a 19th-century Romantic oil painting with heavy impasto, smoky chiaroscuro, muted umber, ochre, charcoal, and deep blue tones, visible brush texture, soft edges, and intimate dramatic lighting. The central figure, {argument name="central figure" default="a calm middle-aged woman with dark tousled hair"}, faces the viewer directly with a faint knowing smile, wearing a loose worn gray-brown shirt, one hand resting on an open sketchbook and the other lifted as if explaining an idea. On the left, {argument name="left figure" default="a thoughtful curly-haired woman"} sits in profile looking toward the center, holding a stack of handwritten pages. On the right, {argument name="right figure" default="a tall curly-haired man"} leans in from the shadows, looking toward the viewer while holding a thin paintbrush or pen near a glass jar. The table contains exactly 8 prominent objects: 1 glowing oil lamp at bottom left, 1 stack of loose handwritten papers near the left figure, 1 open central notebook filled with sketches and notes, 1 large sheet with a hand study at bottom left, 1 closed dark book with a paper label near the bottom center, 1 smaller sketch page with botanical/leaf drawings near the bottom right, 1 glass jar of amber liquid near the right hand, and 1 painter’s palette with dark blue, ochre, and red paint at the far right. Add faint, barely legible handwritten notes on the dark wall behind the left figure, but do not include clear modern text. Composition: horizontal 4:3 canvas, waist-up figures, faces emerging from darkness, table spanning the foreground, intimate studio atmosphere, no contemporary clothing, no photography look, no clean digital polish, no watermark.
+```
+
+**来源：** [@Anders Hjemdahl](https://x.com/AndersHjemdahl/status/2073508624568316274) | 2026-07-04
+
+---
+
+### 🎨 例 3157：随性手机相册照片拼贴
+
+![随性手机相册照片拼贴](../../images/%E9%9A%8F%E6%80%A7%E6%89%8B%E6%9C%BA%E7%9B%B8%E5%86%8C%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张随性的照片拼贴，旨在营造出 {argument name="person" default="[HUMAN]"} 在某个 {argument name="weather" default="阴雨午后"} 市中心奔波时的手机相册氛围。[HUMAN] 穿着一件潮湿的 {argument name="outfit" default="炭灰色廓形风衣，内搭米色罗纹高领毛衣"}，搭配水洗黑直筒牛仔裤和磨损的白色皮质运动鞋。该构图采用六宫格形式，如同 iPhone 相机胶卷般拼接而成，每张照片的镜头上都带有细微的水珠，柔和的闪光灯在湿润的地面上形成光斑。画面包括：一张在商店被雨雾笼罩的橱窗里的模糊镜面自拍，一张从上方拍摄的鞋子踩过人行横道水洼的镜头，一张从公交车站长椅低角度向上拍摄的开怀大笑瞬间，一张在雨伞下距离镜头仅几英寸的鱼眼自拍，一张倒映在咖啡杯盖上的随性抓拍，以及一张在自动扶梯上迈步时的动态模糊镜头。表情从雨中的眯眼大笑，到对商店橱窗投去的怀疑侧目，再到公交车上安静、自然的半微笑。整体色调为炭灰色、米色、水洗黑和湿润路面的银色。呈现高级的随性生活摄影质感，带有可见的颗粒感和不均匀的曝光，无光泽质感，长宽比 4:5。
+
+[English]
+A candid photo-dump collage designed to feel like {argument name="person" default="[HUMAN]"}'s phone gallery from one {argument name="weather" default="rainy afternoon"} running errands downtown. [HUMAN] wears a damp {argument name="outfit" default="charcoal-grey oversized trench coat layered over a cream ribbed turtleneck"}, faded black straight-leg jeans and worn white leather sneakers. The mechanic is a six-panel grid stitched together like an iPhone camera roll, each photo slightly water-speckled on the lens with soft flash hotspots bouncing off wet pavement. Panels: a blurry mirror shot in a shop's rain-fogged window, an overhead shot of shoes splashing through a puddle at a crosswalk, a low-angle shot from a bus shelter bench looking up mid-laugh, a fisheye selfie under an umbrella inches from the lens, a candid shot reflected in a coffee cup lid on a café table, and a motion-blurred shot taken mid-stride on an escalator. Expressions shift from a squinting laugh in the rain to a skeptical side-eye at a shop window to a quiet, unposed half-smile on the bus. Cohesive charcoal grey, cream, faded black and wet-pavement silver palette. Premium candid lifestyle photography, visible grain and uneven exposure, no glossy textures, aspect ratio 4:5.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2073447210457743835) | 2026-07-04
+
+---
+
+### 🎨 例 3173：巨型机器人深海探索
+
+![巨型机器人深海探索](../../images/%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E6%B5%B7%E6%8E%A2%E7%B4%A2.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="主体" default="巨大ロボット"}　{argument name="场景" default="海底探査"}』
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2073412303207448638) | 2026-07-04
+
+---
+
+### 🎨 例 3178：矮人巨斧冒险者
+
+![矮人巨斧冒险者](../../images/%E7%9F%AE%E4%BA%BA%E5%B7%A8%E6%96%A7%E5%86%92%E9%99%A9%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+{argument name="職業" default="ソロ冒険者"}
+{argument name="主体" default="大斧使いのドワーフ"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2073405611635847286) | 2026-07-04
+
+---
+
+### 🎨 例 3194：哥特风猫耳贵族少女
+
+![哥特风猫耳贵族少女](../../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E7%8C%AB%E8%80%B3%E8%B4%B5%E6%97%8F%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫奇幻插画，描绘 {argument name="character name" default="一位优雅的猫耳贵族少女"} 优雅地站在黑暗哥特式宅邸或大教堂内宏伟的弧形楼梯上。她是一位年轻的动漫少女，拥有非常飘逸的 {argument name="hair color" default="银白色"} 长发、白皙的皮肤、淡淡的腮红、明亮的红瞳和白色猫耳；在她的裙摆后方加上一条毛茸茸的白色猫尾。她的表情温柔、从容且高贵，正注视着观众。为她穿上一套华丽的 {argument name="dress colors" default="红黑配色"} 哥特洛丽塔服饰：红色泡泡袖上衣、黑色束腰、多层荷叶边裙摆、黑色蕾丝边、黑色丝带蝴蝶结、领口的玫瑰胸针，以及带有黑色丝带的红玫瑰发饰。搭配黑色吊带蕾丝过膝袜和亮面黑色玛丽珍鞋。背景为戏剧性的室内场景，配有铺着红地毯的弧形楼梯、深色雕花木扶手、闪烁着紫粉色光芒的高耸尖顶彩绘玻璃窗、拱形石质建筑，以及点缀着蜡烛的华丽金色吊灯。使用电影级光效，光线透过彩绘玻璃洒下柔和的阳光，伴随温暖的烛光、细微的尘埃颗粒、高对比度的阴影和浓郁的宝石色调。构图：竖向肖像，全身可见（从头到鞋），角色位于画面中心偏右，楼梯在她身后蜿蜒，优雅的奇幻动漫风格，高度精细的布料褶皱，光泽高光，细腻的线条，无文字，无水印。
+
+[English]
+Create a polished anime fantasy illustration of {argument name="character name" default="an elegant cat-eared noble girl"} standing gracefully on a grand curved staircase inside a dark Gothic mansion or cathedral. She is a young anime girl with very long flowing {argument name="hair color" default="silvery white"} hair, pale skin, soft blush, bright red eyes, and white cat ears; add a fluffy white cat tail visible behind her skirt. Her expression is gentle, poised, and aristocratic, looking toward the viewer. Dress her in an ornate {argument name="dress colors" default="red and black"} gothic lolita outfit: red puff-sleeve bodice, black corset waist, layered ruffled skirt, black lace trim, black ribbon bows, rose brooch at the collar, and a red rose hair accessory with black ribbons. Include thigh-high black stockings with garter lace and glossy black Mary Jane heels. The setting is a dramatic interior with a red-carpeted sweeping staircase, dark carved wooden railings, tall pointed stained-glass windows glowing purple and pink, arched stone architecture, and ornate gold chandeliers with lit candles. Use cinematic lighting with soft sunbeams through the stained glass, warm candle glow, subtle dust motes, high contrast shadows, and rich jewel tones. Composition: vertical portrait, full body visible from head to shoes, character centered slightly right, staircase curves behind her, elegant fantasy anime style, highly detailed fabric folds, glossy highlights, delicate linework, no text, no watermark.
+```
+
+**来源：** [@AI Bard Guild](https://x.com/IsekaiBardGuild/status/2073372500667355530) | 2026-07-04
+
+---
+
+### 🎨 例 3195：像素风战斗猫咪越野车
+
+![像素风战斗猫咪越野车](../../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E6%88%98%E6%96%97%E7%8C%AB%E5%92%AA%E8%B6%8A%E9%87%8E%E8%BD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的像素风插画，描绘一只凶猛且毛茸茸的 {argument name="character species" default="白色战斗猫"} 驾驶着一辆紧凑型装甲战车，背景为纯净的白色。猫咪位于画面中心，比例比车辆更大，拥有狂野的奶油白色尖刺毛发、竖起的粉色耳朵、高高翘起的蓬松尾巴、圆形的橙色护目镜、张开的咆哮嘴部（露出尖牙），以及抓在车辆上的白色爪子。车辆为矮胖的越野迷你坦克战车，配有 4 个大而厚实的轮子、红色轮毂装饰、布满灰尘的轮胎、米色装甲前车身、外露管道、螺栓、通风口、骷髅状前部细节以及沉重的机械部件。添加 3 种主要武器系统：安装在猫咪左肩上方、指向观众的巨型加农炮；安装在车辆前方、向左发射明亮橙色枪口火焰的小型炮塔；以及安装在猫咪右后方、灰色多管火箭发射器。加入蒸汽朋克/机甲细节，如绑带、黄铜配件、小型油箱、电缆、铆钉和磨损的金属板。展示战车向前疾驰的姿态，后轮留下一团团米色尘土和砂砾碎片，并带有细小的火花和排气效果。采用怀旧的 16 位/32 位游戏精灵图美学，呈现可见的像素抖动、清晰的锯齿边缘、有限的暖色调、高对比度以及精细的手绘像素纹理；无文字、无标志、无边框、无背景场景。
+
+[English]
+Create a highly detailed pixel-art style illustration of a ferocious fluffy {argument name="character species" default="white battle cat"} riding a compact armored combat buggy, isolated on a clean white background. The cat is centered and oversized compared with the vehicle, with wild spiky cream-white fur, upright pink ears, a raised fluffy tail, round orange-tinted goggles, an open snarling mouth with visible fangs, and white paws gripping the vehicle. The vehicle is a squat off-road mini tank buggy with exactly 4 large chunky wheels, red rim accents, dusty tires, a beige armored front body, exposed pipes, bolts, vents, skull-like front detailing, and heavy mechanical parts. Add exactly 3 main weapon systems: a huge cannon mounted over the cat’s left shoulder pointing toward the viewer, a smaller front turret on the vehicle firing a bright orange muzzle flash to the left, and a gray multi-barrel rocket pod mounted behind the cat on the right. Include additional steampunk/mecha details such as straps, brass fittings, small tanks, cables, rivets, and worn metal panels. Show the buggy speeding forward with beige dust clouds and gritty debris trailing behind the rear wheels, plus small sparks and exhaust effects. Use a nostalgic 16-bit/32-bit game sprite aesthetic with visible pixel dithering, crisp jagged edges, limited warm earthy colors, high contrast, and intricate hand-pixelled texture; no text, no logo, no frame, no background scenery.
+```
+
+**来源：** [@がびねこ](https://x.com/PawprintBit/status/2073371899678310510) | 2026-07-04
+
+---
+

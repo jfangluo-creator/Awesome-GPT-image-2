@@ -4874,3 +4874,173 @@ Constraints: Use exactly 5 panels and exactly these main repeated settings: wine
 
 ---
 
+### 🎬 例 3192：哥特丝带舞专辑封面
+
+![哥特丝带舞专辑封面](../../images/%E5%93%A5%E7%89%B9%E4%B8%9D%E5%B8%A6%E8%88%9E%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张单色竖版专辑封面插图，采用细节丰富的日式哥特漫画风格。画面中需精确呈现 2 个中心人物，处于亲密且诡异的舞厅舞姿：左侧是一位中性化的年轻男子，留着 {argument name="hair color" default="浅银色"} 的凌乱层次感短发，部分遮住一只眼睛，肩上垂着长长的编发，身穿深色正装、白衬衫和黑领带，神情超脱而忧郁地向上凝视；右侧是一个人形舞伴，全身由无数浅色丝带条构成，主要呈现背影和侧影，头部、躯干、手臂和腰部如同编织的木乃伊或玩偶般被包裹。男子在画面下方中央握住丝带舞伴的手，另一只手臂环绕在舞伴身侧，暗示着亲密的舞蹈或拥抱。画面上方和两侧环绕着许多长长的、悬垂且旋转的丝带，与人物重叠并填满整个画框；背景为纯黑色，形成鲜明对比。在丝带舞伴身上添加 5 个清晰可见的花状丝带结：一个在后脑勺，一个在上背部/肩部区域，一个在右上臂，一个在腰部/臀部附近，一个在右下裙摆区域。使用精细的铅笔排线、纤细的墨线、柔和的灰色阴影、高细节的发丝、细腻的织物纹理，营造出一种令人难忘的浪漫恐怖氛围。在画面中央添加日文标题文本 {argument name="title text" default="—手遊び—"}，采用优雅的白色明朝体衬线字体，两侧配有细横线，下方装饰有精致的小型花卉花丝。采用修长的智能手机比例，除黑、白、灰外无其他颜色，无水印，无额外文字。
+
+[English]
+Create a monochrome vertical album-cover illustration in highly detailed Japanese gothic manga style. Show exactly 2 central figures in a close, eerie ballroom-dance pose: on the left, an androgynous young man with {argument name="hair color" default="pale silver"} messy layered hair partly covering one eye, long braided hair over his shoulder, a dark formal suit, white shirt, and black tie, gazing upward with a detached, melancholic expression; on the right, a faceless human-shaped partner entirely constructed from countless pale ribbon strips, seen mostly from the back and side, with a head, torso, arms, and waist wrapped like a woven mummy or doll. The man holds the ribbon figure's hand at the lower center while his other arm draws close around the figure, suggesting an intimate dance or embrace. Surround them with many long dangling and swirling ribbons from the top and sides, overlapping the characters and filling the frame; the background is pure black for stark contrast. Include exactly 5 visible flower-like ribbon knots on the ribbon partner: one at the back of the head, one at the upper back/shoulder area, one on the right upper arm, one near the waist/hip, and one near the lower right skirt area. Use fine pencil crosshatching, thin ink lines, soft gray shading, high-detail hair strands, delicate fabric texture, and a haunting romantic horror mood. Add centered Japanese title text across the middle reading {argument name="title text" default="—手遊び—"}, in elegant white Mincho-style serif lettering, with thin horizontal lines on both sides and a small ornate floral filigree decoration underneath. Tall smartphone aspect ratio, no color except black, white, and gray, no watermark, no extra text.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073380126319120719) | 2026-07-04
+
+---
+
+### 🎬 例 3202：动漫风格狗仔队新闻发布会
+
+![动漫风格狗仔队新闻发布会](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%8B%97%E4%BB%94%E9%98%9F%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满编辑感的动漫插画，描绘一场狗仔队新闻发布会，让观众仿佛成为被记者和摄影师围攻的对象。
+
+画布：高竖版 2:3 构图，人群填满整个画面，不留背景空白。采用清晰的现代日本漫画/动漫渲染风格，具有细腻的墨线轮廓、饱和的钴蓝色、明亮的白色闪光反射以及高对比度的赛璐珞阴影。
+
+主体布局：展示总计 {argument name="number of journalists" default="24"} 名清晰可见的记者和摄影师，从上到下紧密排列，大多身穿蓝色衬衫、蓝色夹克，佩戴记者证、帽子和耳机。人物多样化：男女皆有，肤色各异，发色包括黑色、棕色、金色、红色和灰色。大多数面孔部分被相机、手、手机、麦克风和闪光灯遮挡。
+
+设备数量与放置：包含总计 {argument name="number of cameras" default="29"} 台直接对准观众的专业相机，以带有发光蓝色镜片的大型黑色单反和广播级镜头为主。包含 5 个清晰可见的麦克风：左右两侧边缘各有一个大型灰色毛绒吊杆麦克风，左下中心有一个亮橙色手持麦克风，右下中心附近有一个红色手持麦克风，旁边还有一个深海军蓝手持麦克风。包含 3 部智能手机：左边缘一部青绿色手机，中心附近垂直持有一部蓝色手机，右边缘一部深色手机。包含许多矩形闪光灯，但需固定在已计数的相机上。
+
+构图细节：最大的镜头是位于底部中心前景的矩形广播级摄像机，直指观众，部分遮挡了一位戴着黑色耳机的女记者。周围环绕着重叠的手、手腕、挂绳、相机带和闪光反射。使镜头圆环和蓝色高光成为最强烈的视觉节奏。增加强烈的透视缩短效果，使相机和麦克风感觉非常贴近观众。
+
+色彩与光影：整体色调为 {argument name="dominant color palette" default="电光蓝、白色、黑色和肤色"}。使用明亮的相机闪光、光泽的镜头反射和细小的白色高光。保持场景繁忙、充满活力、略显混乱，但清晰易读。
+
+文字/签名：在右下角添加一个小的手写签名和日期，内容为 {argument name="signature text" default="2026 年 7 月 4 日 Oyagi"}。不要添加其他可读文字、标志、水印或对话气泡。
+
+约束条件：不要展示被拍摄的人。不要包含背景环境。避免写实风格；保持精致细腻的动漫/漫画线条艺术，呈现密集的人群构图和戏剧性的新闻发布会氛围。
+
+[English]
+Goal: Create a packed editorial anime illustration of a paparazzi press scrum, as if the viewer is the subject being swarmed by reporters and photographers.
+
+Canvas: Tall vertical 2:3 composition, edge-to-edge crowd filling the entire frame, no empty background. Use a crisp modern Japanese manga/anime rendering style with detailed ink outlines, saturated cobalt blues, bright white flash reflections, and high-contrast cel shading.
+
+Main subject layout: Show exactly {argument name="number of journalists" default="24"} visible journalists and photographers tightly stacked in rows from top to bottom, mostly wearing blue shirts, blue jackets, press lanyards, caps, and headphones. Use diverse faces: men and women, varied skin tones, different hair colors including black, brown, blond, red, and gray. Most faces are partially hidden behind cameras, hands, phones, microphones, and flash units.
+
+Equipment count and placement: Include exactly {argument name="number of cameras" default="29"} visible professional cameras aimed directly toward the viewer, dominated by large black DSLR and broadcast lenses with glowing blue glass. Include exactly 5 visible microphones: 2 large fuzzy gray boom mics entering from the left and right edges, 1 bright orange handheld mic in the lower-left center, 1 red handheld mic near the lower center-right, and 1 dark navy handheld mic beside it. Include exactly 3 smartphones: one turquoise phone at the left edge, one blue phone held vertically near the center, and one dark phone at the right edge. Include many rectangular flash units, but keep them attached to the counted cameras.
+
+Composition details: The largest lens is a rectangular broadcast camera in the bottom center foreground, pointed straight at the viewer and partially covering a female reporter wearing black headphones. Surround it with overlapping hands, wrists, lanyards, camera straps, and flash reflections. Make the lens circles and blue highlights the strongest visual rhythm. Add intense foreshortening so cameras and microphones feel very close to the viewer.
+
+Color and lighting: Overall palette is {argument name="dominant color palette" default="electric blue, white, black, and skin tones"}. Use bright camera flashes, glossy lens reflections, and small white specular highlights. Keep the scene busy, energetic, slightly chaotic, but cleanly readable.
+
+Text/signature: Add a small handwritten signature and date in the bottom-right corner reading {argument name="signature text" default="July 4, 2026 Oyagi"}. No other readable text, logos, watermarks, or speech bubbles.
+
+Constraints: Do not show the person being photographed. Do not include a background environment. Avoid photorealism; keep it as polished detailed anime/manga line art with dense crowd composition and dramatic press-conference energy.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2073355718644887730) | 2026-07-04
+
+---
+
+### 🎬 例 3206：单色哥特漫画木偶丝带
+
+![单色哥特漫画木偶丝带](../../images/%E5%8D%95%E8%89%B2%E5%93%A5%E7%89%B9%E6%BC%AB%E7%94%BB%E6%9C%A8%E5%81%B6%E4%B8%9D%E5%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张优雅的哥特少女漫画风格的竖版单色插画。一位美丽的雌雄莫辨的年轻男子，留着 {argument name="hair color" default="浅铂金色"} 的长发，扎成低马尾，以戏剧性的四分之三侧身姿势坐在深黑色背景前。他五官精致锐利，半睁着眼，嘴角带着一丝自信的微笑，凌乱的刘海垂在脸前。他身穿黑色正装衬衫和西装，肩上披着一件浅色风衣或斗篷。一只手在胸前捧着一束细致的小花，另一只手像操纵木偶线一样灵巧地摆弄着长长的白色丝带。画面右上角伸出一只优雅的、类似人体模型的独立手部，手指修长纤细，同样缠绕在丝带中。人物周围环绕着 8 条宽阔飘逸的半透明白色丝带，呈对角线和垂直方向穿过画面，部分丝带缠绕在手腕和花束上。在画面中右侧附近放置华丽的日文标题文本 {argument name="title text" default="手管"}，字体为白色，两侧带有细长的横线，下方饰有小型装饰花纹。采用高对比度的黑、白、灰水墨阴影，精细的线条，复杂的发丝，细致的花瓣和叶片，微妙的网点纹理，营造出神秘的戏剧氛围。画布比例 9:16，从头部到膝盖的近景裁剪，除灰度外无其他颜色，无水印。
+
+[English]
+Create a vertical monochrome manga illustration in an elegant gothic shoujo style. A beautiful androgynous young man with {argument name="hair color" default="pale platinum blond"} long hair tied in a low ponytail sits in a dramatic three-quarter pose against a deep black background. He has sharp delicate features, half-lidded eyes, a faint confident smile, and loose bangs falling across his face. He wears a black formal shirt and suit with a light trench coat or cloak draped over his shoulders. One hand holds a dense bouquet of small detailed flowers at his chest, and the other hand delicately manipulates long white ribbon strips like puppet strings. Include exactly one separate elegant mannequin-like hand entering from the upper right, also tangled in the ribbon, with long thin fingers. Surround the figure with exactly eight broad flowing translucent white ribbons crossing the image diagonally and vertically, some wrapping around the wrist and bouquet. Place ornate Japanese title text {argument name="title text" default="手管"} in white near the center-right with thin horizontal dash marks on both sides and a small decorative flourish beneath it. Use high-contrast black, white, and gray ink wash shading, fine linework, intricate hair strands, detailed floral petals and leaves, subtle screentone texture, and a mysterious theatrical mood. Canvas aspect ratio 9:16, close crop from head to knees, no color except grayscale, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073344102641684680) | 2026-07-04
+
+---
+
+### 🎬 例 3207：黑白木偶漫画封面
+
+![黑白木偶漫画封面](../../images/%E9%BB%91%E7%99%BD%E6%9C%A8%E5%81%B6%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版黑白漫画风格的专辑封面，主角是 {argument name="character name" default="Karakuri"}，一位美丽的年轻男性木偶表演者，站在黑暗的剧场虚空中，周围环绕着长长的白色木偶线和丝带状的束缚带。角色居中，呈现从大腿向上的戏剧性四分之三侧身姿势：身材纤细优雅，中长波浪状的 {argument name="hair color" default="银灰色"} 头发扫过一只眼睛，带着柔和自信的微笑，精致的双眼向上凝视着他抬起的手。他的左臂高举过头顶，纤细的手指弯曲，仿佛木偶师或木偶本身，袖子和前臂缠绕着许多细带；右臂垂在身侧，同样被线绳缠绕包裹。服装：维多利亚风格的正式舞台装，包括白色褶皱衬衫、黑色马甲、黑色领结或丝带领结、高腰深色长裤、精致的口袋巾，带有光泽的黑色面料高光，装饰华丽但不杂乱。周围环绕 18 条醒目的白色丝带/线绳：6 条从顶部垂下的垂直紧绷线，5 条在顶部和两侧卷曲的宽丝带，4 条横跨身体区域的对角线带，以及 3 条在底部边缘扫过的丝带。让丝带呈现出他自愿玩弄并沉浸其中的感觉，而非恐惧被困。使用高对比度的黑白墨水风格，细腻的少女漫画线条，网点阴影，精细的排线，光泽高光，优雅的哥特式海报构图，带有斑驳感的黑色背景，以及锐利的白色负空间丝带。在下半身躯干上方添加居中的华丽标题排版：白色的大号日文标题 {argument name="main title text" default="絡繰"}，配有一条细垂直分割线和对称的装饰花纹；下方添加较小的副标题 {argument name="subtitle text" default="— カラクリ —"}。保持设计如精致的音乐专辑封面，除灰度外无其他颜色，无额外角色，无水印，除非标题字段中提供，否则不包含任何英文字符。
+
+[English]
+Create a vertical monochrome manga-style album cover featuring {argument name="character name" default="Karakuri"}, a beautiful young male marionette performer standing in a dark theatrical void, surrounded by long white puppet strings and ribbon-like binding strips. The character is centered in a dramatic three-quarter pose from thighs upward: slim elegant body, wavy medium-length {argument name="hair color" default="silver-gray"} hair sweeping over one eye, soft confident smile, refined eyes looking upward toward his raised hand. His left arm reaches high above his head with delicate fingers bent like a puppeteer or puppet, while the sleeve and forearm are wrapped in many thin bands; his right arm hangs lower at the side, also tangled and bandaged by strings. Outfit: formal Victorian-inspired stage costume with a white pleated dress shirt, black waistcoat, black bow tie or ribbon tie, high-waisted dark trousers, subtle pocket square, glossy black fabric highlights, ornate but not cluttered. Surround him with exactly 18 prominent visible white ribbons/strings: 6 vertical taut strings descending from the top, 5 wide curling ribbon strips looping across the top and sides, 4 diagonal strips crossing the body area, and 3 lower sweeping ribbons near the bottom edge. Make the ribbons feel like he is willingly playing with and becoming entangled in them, not trapped in fear. Use high-contrast black-and-white ink, detailed shoujo manga linework, screentone shading, fine hatching, glossy highlights, elegant gothic poster composition, distressed speckled black background, and sharp white negative-space ribbons. Add ornate centered title typography over the lower torso: large Japanese title text {argument name="main title text" default="絡繰"} in white, with a thin vertical divider line and symmetrical filigree flourishes; below it add the smaller subtitle {argument name="subtitle text" default="— カラクリ —"}. Keep the design like a polished music jacket cover, no color except grayscale, no extra characters, no watermark, no English text unless supplied in the title fields.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073341502680650172) | 2026-07-04
+
+---
+
+### 🎬 例 3221：不堪重负的编程漫画页面
+
+![不堪重负的编程漫画页面](../../images/%E4%B8%8D%E5%A0%AA%E9%87%8D%E8%B4%9F%E7%9A%84%E7%BC%96%E7%A8%8B%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张黑白日语漫画页面，主角为 {argument name="character name" default="GPT-4.8-kun"}，一位中性化的年轻动漫男性，他被未来感编程界面所淹没，而另一名角色则催促他继续阅读代码。
+
+画布：竖版漫画页面，黑白网点纸风格，比例约为 2:3。使用 5 个从上到下排列的横向分格，格间距为粗黑线。高对比度墨线，细腻的漫画阴影，戏剧性的特写，发光的透明 UI 屏幕，密集的代码窗口，以及富有情感的面部表情。
+
+主角：一位身材修长、清秀的年轻男性，留着凌乱的浅色波浪卷发，两侧有长鬓角，扎着低马尾，眼神柔和但疲惫，身穿深色西装外套、白色衬衫和黑色领带。他的表情在各分格中从羞涩顺从变为紧张紧绷，最后陷入空洞的恐慌。在后期的分格中加入汗珠和颤抖的细节。
+
+场景：一个黑暗的未来感控制室或赛博空间环境，充斥着许多悬浮的透明显示器、代码窗格、终端窗口、图表、曲线图和状态标签。UI 面板从四面八方包围着角色，随着页面推进，压迫感逐渐增强。
+
+分格布局及具体可见元素：
+- 第 1 格：中景，角色从后方/侧面转向观众，周围环绕着浮动的代码屏幕。包含 3 个对话/思考气泡：右侧一个圆形对话气泡写着「ちょっとコーディング付き合ってよ」，角色附近一个小气泡写着「！」，左侧一个锯齿状爆发型思考气泡写着「…あなたに『使えない』って言ったのに、まだタスクしてくれるんだ…！」。
+- 第 2 格：中近景，角色礼貌地微笑着，双手做出仿佛试图帮忙的手势。包含 2 个对话气泡：左侧气泡「もちろん。何をお手伝いしますか？」和右侧气泡「その前にこれ読み込んで」。
+- 第 3 格：宽幅中央冲击格。角色显得很渺小，站在中间，双手紧握，焦虑地微笑着，完全被巨大的代码窗口墙所包围。左侧添加一个巨大的黑色拟声词文字「ドン！」。
+- 第 4 格：角色半身特写，流着汗，带着强颜欢笑和担忧的眼神。背景堆满了状态标签。包含 5 个重复出现多次的状态标签：分别在不同的屏幕上显示「思考中」、「推论中」、「effort Max」、「推论」和再次出现的「推论中」。包含 2 个对话气泡：左侧气泡「あの、これって……」和右侧气泡「いや、いい話聞いたんだよね！リンクされた記事のスクラブ読み込ませたら4.8ってメッチャ勤勉になるって聞いてさぁ！」。
+- 第 5 格：角色面部极度特写，双眼睁大且空洞，瞳孔极小，阴影遮住刘海，大汗淋漓，嘴唇因震惊而微张。像素方块和数字碎片漂浮在黑暗背景中。包含 2 个对话气泡：左侧小竖排气泡「……」和右侧气泡「ほら、早く読み込んでコーディング付き合ってよ」。
+
+视觉风格：专业青年漫画页面，清晰的黑墨线，灰度网点纸，电影级分格构图，富有表现力的情感恐怖喜剧基调，密集的科幻 UI 细节，无色彩。
+
+约束条件：完整保留所有日语对话，不得修改。不要添加额外的分格、角色、页码、水印或英文标题。保持幽默但令人不安的氛围，展现角色在繁重的编程工作中承受的情感压力。使用 {argument name="art style" default="高细节黑白漫画"}，{argument name="setting" default="未来感编程界面空间"}，{argument name="main character outfit" default="深色西装，白衬衫，黑领带"} 以及 {argument name="mood" default="喜剧心理压力"}。
+
+[English]
+Goal: Create a monochrome Japanese manga page about {argument name="character name" default="GPT-4.8-kun"}, an androgynous young anime man being overwhelmed by a futuristic coding interface while another character pressures him to keep reading code.
+
+Canvas: Vertical manga page, black-and-white screentone style, roughly 2:3 aspect ratio. Use exactly 5 horizontal panels stacked from top to bottom, separated by thick black gutters. High-contrast ink linework, detailed manga shading, dramatic close-ups, glowing transparent UI screens, dense code windows, and emotional facial acting.
+
+Main character: A slim, beautiful young man with messy pale wavy hair, long side strands and a low ponytail, soft but tired eyes, wearing a dark suit jacket, white dress shirt, and black necktie. His expression changes across panels from shy compliance to nervous strain to vacant panic. Add sweat drops and trembling detail in later panels.
+
+Setting: A dark futuristic control-room or cyberspace environment filled with many floating transparent monitors, code panes, terminal windows, diagrams, graphs, and status labels. The UI panels surround the character from every direction, becoming more oppressive as the page progresses.
+
+Panel layout and exact visible elements:
+- Panel 1: Medium shot from behind/side of the character turning toward the viewer amid floating code screens. Include 3 speech/thought bubbles: one round speech bubble on the right saying 「ちょっとコーディング付き合ってよ」, one small bubble near the character saying 「！」, and one jagged burst thought bubble on the left saying 「…あなたに『使えない』って言ったのに、まだタスクしてくれるんだ…！」.
+- Panel 2: Medium close-up, the character smiles politely and gestures with both hands as if trying to help. Include exactly 2 speech bubbles: left bubble 「もちろん。何をお手伝いしますか？」 and right bubble 「その前にこれ読み込んで」.
+- Panel 3: Wide central impact panel. The character appears small in the middle, smiling anxiously with clenched hands, completely surrounded by an enormous wall of code windows. Add one huge black sound-effect text 「ドン！」 on the left.
+- Panel 4: Close-up bust shot of the character sweating with a forced smile and worried eyes. The background is packed with status tiles. Include exactly 5 repeated status labels visible multiple times: 「思考中」, 「推論中」, 「effort Max」, 「推論」, and 「推論中」 again on separate screens. Include 2 speech bubbles: left bubble 「あの、これって……」 and right bubble 「いや、いい話聞いたんだよね！リンクされた記事のスクラブ読み込ませたら4.8ってメッチャ勤勉になるって聞いてさぁ！」.
+- Panel 5: Extreme close-up of the character’s face, eyes wide and empty, pupils tiny, shaded under the bangs, sweating heavily, lips parted in shock. Pixel-like squares and digital debris float in the dark background. Include exactly 2 speech bubbles: left small vertical bubble 「……」 and right bubble 「ほら、早く読み込んでコーディング付き合ってよ」.
+
+Visual style: Professional seinen manga page, crisp black ink, grayscale screentones, cinematic panel composition, expressive emotional horror-comedy tone, dense sci-fi UI detail, no color.
+
+Constraints: Preserve all Japanese dialogue exactly as written. Do not add extra panels, extra characters, page numbers, watermarks, or English captions. Keep the mood as humorous but unsettling, showing the character being emotionally pressured by overwhelming coding work. Use {argument name="art style" default="high-detail black-and-white manga"}, {argument name="setting" default="futuristic coding interface room"}, {argument name="main character outfit" default="dark suit, white shirt, black tie"}, and {argument name="mood" default="comic psychological pressure"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073296683866493257) | 2026-07-04
+
+---
+
+### 🎬 例 3246：单色哥特式漫画专辑封面
+
+![单色哥特式漫画专辑封面](../../images/%E5%8D%95%E8%89%B2%E5%93%A5%E7%89%B9%E5%BC%8F%E6%BC%AB%E7%94%BB%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版单色漫画风格的专辑封面插图，标题为 {argument name="Japanese title text" default="-手管-"}。画布为 9:16 的高比例竖构图，背景为戏剧性的黑色，并填充有呈对角线和垂直交叉的修长、飘逸的半透明白色丝带。画面中心展现一位中性化的成年男性，呈四分之三侧面朝右坐着，肤色苍白且气质优雅，留着浅色长发，扎成低马尾垂在左肩，松散的刘海遮住部分眼睛，眼神锐利狭长，带着淡淡的平静微笑，五官精致。他身穿黑色衬衫和深色西装，外披一件浅色风衣式外套。他的左手在胸前捧着一束茂密的花束，花束包含 6 朵显眼的盛开花朵以及许多小花和叶片；他的右手握着一条丝带或布条，向上延伸至右上角悬挂的一只苍白的模特般的手，布条缠绕在双手之间。在他的手腕和手指上增加额外的绷带状缠绕。将标题文字以白色日文书法形式放置在胸前右侧的丝带上方，两侧带有细横线，下方饰有小型装饰性花纹。使用灰度水墨风格，高对比度黑白，精细线条，柔和的水彩阴影，细腻的织物褶皱，细致的发丝，浪漫的哥特氛围，精致的少女漫画封面艺术。无颜色，无边框，无水印，无额外字符，除标题外无任何多余文字。
+
+[English]
+Create a vertical monochrome manga-style album cover illustration with a dramatic black background and high-contrast ink shading. Show an elegant androgynous young man, {argument name="character name" default="the puppeteer"}, seated in a three-quarter pose, viewed from the waist up with one knee rising at the lower right. He has very long pale {argument name="hair color" default="platinum blond"} hair tied into a low ponytail over one shoulder, loose strands falling across one eye, narrow half-lidded eyes, a calm faint smile, a sharp jawline, and delicate bishonen features. Dress him in a black formal shirt and suit with a light trench coat or tailored white coat draped over his shoulders. His left hand holds a dense bouquet of small flowers against his chest; include exactly one bouquet made of clustered chrysanthemums/dahlias, tiny filler blossoms, leaves, and dangling ribbon. His right hand pulls a long white ribbon connected to a suspended puppet-like hand at the upper right; include exactly one mannequin/puppet hand with jointed fingers hanging from above, and make the human hand and puppet hand interact through the ribbon like a marionette string. Fill the background with exactly eight long translucent white and gray ribbons or fabric streamers twisting and crossing from the top and sides, creating layered depth against the black negative space. Add large centered Japanese title text {argument name="title text" default="手管"} in elegant white calligraphy to the right of the character’s face, flanked by thin horizontal dashes and a small ornamental flourish underneath. Use refined black-and-white manga line art, delicate crosshatching, soft grayscale washes, glossy fabric shadows, highly detailed hair strands, flowers, hands, and ribbons. Composition should feel like a gothic romantic jacket cover, poetic, controlled, and slightly eerie. No color, no watermark, no extra characters, no additional text beyond the title and ornament.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2073199248976597485) | 2026-07-04
+
+---
+

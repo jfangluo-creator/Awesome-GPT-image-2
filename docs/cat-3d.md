@@ -4351,3 +4351,61 @@ The chalk rendering is exceptionally detailed with realistic dusty pastel textur
 
 ---
 
+### 🧸 例 3167：巨型抓娃娃机里的模特
+
+![巨型抓娃娃机里的模特](../../images/%E5%B7%A8%E5%9E%8B%E6%8A%93%E5%A8%83%E5%A8%83%E6%9C%BA%E9%87%8C%E7%9A%84%E6%A8%A1%E7%89%B9.jpg)
+
+**Prompt:**
+
+```text
+主体人物：{argument name="主体人物" default="一位年轻漂亮的西方女性，长款金色波浪卷发，精致华丽妆容，饱满双唇，带有调皮、诱惑又可爱的表情"}
+服装：{argument name="服装" default="短款浅粉色飘逸夏日连衣裙，轻盈、有空气感，赤脚"}
+姿势：优雅地坐在娃娃机巨大的金属抓爪上，一只手抓住抓钩，双腿自然垂下，轻轻摆动，姿势俏皮又优雅
+场景：{argument name="场景" default="巨型透明玻璃娃娃机内部，四周充满巨大的粉色泰迪熊、粉色独角兽玩偶、彩虹鬃毛、闪闪发光的独角、各种马卡龙色毛绒玩具、毛绒玩具堆积成山，整体像被困在一个超大的抓娃娃机里面。"}
+环境氛围：整体氛围梦幻、少女心、可爱、童话、玩乐感、时尚大片，风格融合Kawaii（日系可爱）、Glamour Fashion（时尚大片）、Dreamy Surreal（梦幻超现实）
+灯光：柔和体积光，粉色霓虹灯光，Rim Light（轮廓光），梦幻柔焦，电影级布光
+摄影风格：写实摄影，时尚杂志封面，梦幻超现实主义，电影感，高级商业摄影
+画质要求：超高细节，HDR，Masterpiece（杰作级），Best Quality（最佳质量），Sharp Focus（锐利对焦），8K，High Resolution（高分辨率）
+画面比例：9:16
+```
+
+**来源：** [@LuckySheep](https://x.com/Lucky_Lambsy/status/2073422988284956681) | 2026-07-04
+
+---
+
+### 🧸 例 3175：反乌托邦 Casshern 风格英雄
+
+![反乌托邦 Casshern 风格英雄](../../images/%E5%8F%8D%E4%B9%8C%E6%89%98%E9%82%A6%20Casshern%20%E9%A3%8E%E6%A0%BC%E8%8B%B1%E9%9B%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张黑暗电影级真人科幻重制版剧照，灵感源自 Casshern：一位年轻的日本男性英雄，{argument name="character name" default="Casshern"}，站在雨水浸润的石板大道前景中，以英雄式的四分之三侧身姿态呈现（大腿以上），抬头望向左上方，表情紧张而坚定。他留着湿漉漉的凌乱黑发，皮肤苍白，身穿破损的白色生物机械装甲，装甲上有开裂的陶瓷板、黑色内衬缝隙、裸露的关节，并带有污垢、划痕、油渍和战斗损伤。身后的城市宏大而压抑：高耸的新哥特式工业建筑，包括圆顶、尖塔、桥梁、大教堂般的立面、烟囱，以及阴云密布的天空下浓重的灰色烟雾。在左侧背景中加入恰好 2 台被薄雾部分遮挡的巨型步行战争机器，并悬挂恰好 3 面带有白色圆形翼状徽章的醒目垂直红旗，旗帜从建筑物和桥梁上垂下。在右侧，放置一座巨大的装甲统治者石像，立于基座之上，俯瞰街道，占据天际线。地面因雨水而光亮，布满水坑和倒影，远处有零星温暖的街灯。使用钢灰色、脏象牙白、黑色、铁锈红和微弱琥珀色灯光的低饱和度调色板。风格：超细节写实大片电影帧，反乌托邦复古未来主义军事帝国，戏剧性体积雾，湿润质感，高对比度，坚毅现实主义，35mm 变形镜头摄影，低角度透视，英雄主体浅景深，史诗级规模。避免出现文字、标题、现代汽车、鲜艳色彩、卡通风格、干净的装甲或欢快的氛围。
+
+[English]
+Create a dark cinematic live-action science fiction remake still inspired by Casshern: a young Japanese male hero, {argument name="character name" default="Casshern"}, stands in the foreground on a rain-soaked stone boulevard, shown from mid-thigh up in a heroic three-quarter pose, looking upward and slightly left with a tense, determined expression. He has wet messy black hair, pale skin, and wears battered white bio-mechanical armor with cracked ceramic plates, black under-suit gaps, exposed joints, grime, scratches, oil stains, and battle damage. The city behind him is vast and oppressive: towering neo-gothic industrial architecture with domes, spires, bridges, cathedral-like facades, smokestacks, and dense gray smoke under a cloudy overcast sky. Include exactly 2 giant walking war machines in the background on the left side, partially obscured by mist, and exactly 3 prominent vertical red banners bearing a white circular winged emblem hanging from buildings and bridges. On the right, place an enormous stone statue of an armored ruler on a pedestal, dominating the skyline and facing over the street. The ground is glossy with rain puddles and reflections, with small warm streetlights receding into the distance. Use a desaturated palette of steel gray, dirty ivory, black, rust red, and faint amber lights. Style: ultra-detailed photorealistic blockbuster film frame, dystopian retro-futurist military empire, dramatic volumetric fog, wet textures, high contrast, gritty realism, 35mm anamorphic cinematography, low-angle perspective, shallow depth of field on the hero, epic scale. Avoid text, captions, modern cars, bright colors, cartoon styling, clean armor, or cheerful mood.
+```
+
+**来源：** [@梵梵婆伽梵婆伽梵梵](https://x.com/quimbannda/status/2073410369176183003) | 2026-07-04
+
+---
+
+### 🧸 例 3227：动态 3D 贴纸动作场景
+
+![动态 3D 贴纸动作场景](../../images/%E5%8A%A8%E6%80%81%203D%20%E8%B4%B4%E7%BA%B8%E5%8A%A8%E4%BD%9C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个充满活力、幽默的 3D 风格贴纸角色，无缝合成到 {argument name="location" default="LOCATION"} 的真实照片中。一位可爱的年轻人正向镜头全速奔跑，动作夸张，表情生动，头发被风吹乱，姿势极具动感。他们身穿 {argument name="outfit" default="OUTFIT"}，携带 {argument name="accessory" default="ACCESSORY"}。一场有趣的意外正在发生：{MAIN_EVENT}，同时 {SECONDARY_EVENT} 制造了更多混乱。诸如 {FLYING_OBJECTS} 之类的随机物体在空中以夸张的动作飞过。包含俏皮的漫画风格运动线、动作漩涡、汗滴、速度条、弹跳效果、漂浮的冲击符号，以及每个移动物体周围生动的贴纸涂鸦。添加一个漫画气泡或音效，例如“Woof!”、“Wait!”、“Oops!”、“Ahhh!”、“Nooo!”、“Catch!”或“Run!”，并使用粗体彩色字体。角色具有厚实的白色模切贴纸边框和微妙的投影，而背景保持完全逼真。强烈的透视感，一只脚伸向镜头，电影级广角镜头，浅景深，明亮的自然光，超精细纹理，欢乐的混乱，俏皮的叙事，可收藏的高级贴纸美学，鲜艳的色彩，皮克斯风格的表情，超写实摄影与高端 3D 插图的融合，8K 分辨率，竖构图。
+
+[English]
+A vibrant, humorous 3D-style sticker character seamlessly composited onto a real-life photograph of {argument name="location" default="LOCATION"}. A cute young adult is caught in a dynamic full-body sprint toward the camera with exaggerated running motion, expressive cartoon facial expression, windblown hair, and dramatic action pose. They wear {argument name="outfit" default="OUTFIT"} and carry {argument name="accessory" default="ACCESSORY"}. A funny mishap is unfolding: {MAIN_EVENT}, while {SECONDARY_EVENT} creates even more chaos. Random objects such as {FLYING_OBJECTS} fly through the air with exaggerated motion. Include playful comic-style motion lines, action swirls, sweat drops, speed streaks, bounce effects, floating impact symbols, and expressive sticker doodles around every moving object. Add one comic speech bubble or sound effect like "Woof!", "Wait!", "Oops!", "Ahhh!", "Nooo!", "Catch!", or "Run!" in bold colorful lettering. The character has a thick white die-cut sticker border with subtle drop shadow, while the background remains fully photorealistic. Strong perspective with one foot reaching toward the camera, cinematic wide-angle lens, shallow depth of field, bright natural lighting, ultra-detailed textures, joyful chaos, playful storytelling, collectible premium sticker aesthetic, vibrant colors, Pixar-inspired expressions, hyper-realistic photography blended with high-end 3D illustration, 8K, vertical composition.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2073272405892727017) | 2026-07-04
+
+---
+

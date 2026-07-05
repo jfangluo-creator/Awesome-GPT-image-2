@@ -1579,3 +1579,83 @@ Lighting and format: Natural light, realistic detail, {argument name="aspect rat
 
 ---
 
+### 🏛️ 例 3144：禅意观音早安问候
+
+![禅意观音早安问候](../../images/%E7%A6%85%E6%84%8F%E8%A7%82%E9%9F%B3%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张宁静的横版中式佛教早安问候插画，采用优雅的手绘线条艺术。使用宽幅 16:9 的白色画布，留出大量负空间，并点缀极淡的绿色水墨。在左侧三分之一处，绘制 1 个优雅的杨柳观音形象，坐于或悬浮于淡淡的水波之上，以纤细的黑色流畅轮廓线勾勒，衣袂和飘带轻盈灵动。她双目微闭，面容祥和，发髻高耸并戴有面纱，左手抬起持 1 枝纤细的柳条，另一只手持 1 个微微倾斜的小巧淡绿色净瓶，有 3 滴清晰可见的水珠滴入下方的水中。从最左侧延伸出精致的竹状柳叶，长长的波浪状衣纹线条横贯图像下半部分向右延伸。在右半部分，放置 3 个居中的文本元素：一个醒目的粗体书法标题 {argument name="headline text" default="早安"}，下方是一个小巧的副标题 {argument name="subtitle text" default="杨柳观音"}，两侧配有细横线，以及一行精致的祝福语 {argument name="blessing text" default="愿 你 晨 起 欢 喜， 一 日 丰 盛。"}。在标题后方添加一条纤细的装饰性绿线，末端在最右侧卷成一个小螺旋，并在中心附近添加一个极简的云纹符号。整体风格：极简禅意美学，构图空灵，手绘线条流畅，色调为柔和的墨灰与淡玉绿，无边框，无水印，无多余文字。
+
+[English]
+Create a serene horizontal Chinese Buddhist good-morning greeting illustration in elegant hand-drawn line art. Use a wide 16:9 white canvas with lots of negative space and very pale green ink-wash accents. On the left third, draw exactly 1 graceful Yangliu Guanyin figure seated or floating above faint water ripples, shown in thin black flowing contour lines with soft, drifting robes and ribbons. She has closed eyes, a peaceful face, an ornate high hair bun and veil, and holds exactly 1 slender willow branch in her raised left hand and exactly 1 small pale-green vase tilted downward in her other hand, with exactly 3 visible water drops falling into the water below. Add delicate bamboo-like willow leaves sweeping in from the far left and long wave-like robe lines extending across the lower half of the image toward the right. On the right half, place exactly 3 centered text elements: a large bold brush-calligraphy headline reading {argument name="headline text" default="早安"}, a small subtitle beneath it reading {argument name="subtitle text" default="杨柳观音"} with thin horizontal divider lines on both sides, and a refined smaller blessing line reading {argument name="blessing text" default="愿 你 晨 起 欢 喜， 一 日 丰 盛。"}. Add a single fine decorative green line curling behind the headline and ending in a small spiral at the far right, plus a tiny simple cloud mark near the center. Overall style: minimalist Zen aesthetics, airy composition, flowing hand-drawn lines, muted ink gray and pale jade green, no borders, no watermark, no extra text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2073552688781132218) | 2026-07-04
+
+---
+
+### 🏛️ 例 3153：哥特风星舰指挥官
+
+![哥特风星舰指挥官](../../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E6%98%9F%E8%88%B0%E6%8C%87%E6%8C%A5%E5%AE%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑电影级科幻肖像，描绘 {argument name="character name" default="一位优雅的女性星舰指挥官"} 在超空间航行期间坐在未来派飞船驾驶舱内的场景。她位于高垂直画幅的偏左侧，坐在黑色驾驶椅上，一条腿交叠，双手放在扶手和附近的控制面板上。她拥有苍白的蓝调皮肤、轮廓分明的贵族面容、夸张的深色眼妆、深李子色唇膏，表情严肃而自信，目光略微看向一侧。她的头发是 {argument name="hair color" default="铂金色"}，留着短款不对称铲青发型。她身着哥特式太空歌剧风格服装：深色高领裹身紧身胸衣，配有斜向绑带、长款修身袖子、深酒红色与黑色层叠裙摆，腰间饰有小型圆形金属装饰和链条，脚穿亮面黑色过膝长靴。驾驶舱周围布满厚重的黑色金属面板，并有四个主要的照明控制台区域：左上方带有红蓝指示灯的面板、左后方垂直的蓝色显示屏组、左下方带有红蓝按钮的扶手控制台，以及右侧布满发光蓝色屏幕、少量红色点缀和一个小型操纵杆的控制台。右侧的大型倾斜窗户展示着明亮的电蓝色超空间流光，将强烈的蓝色轮廓光投射在她的脸部、双手、服装和驾驶舱上。采用情绪化的低调照明、高对比度、深邃阴影、清晰逼真的纹理，营造赛博朋克太空幻想氛围，达到超精细数字绘画 / 电影概念艺术品质。垂直 2:3 构图，无文字，无水印，避免出现额外角色。
+
+[English]
+Create a dark cinematic sci-fi portrait of {argument name="character name" default="an elegant female starship commander"} seated in the cockpit of a futuristic spacecraft during hyperspace travel. She is centered slightly left in a tall vertical frame, sitting in a black pilot chair with one leg crossed and both hands resting on the armrests and nearby control panels. She has very pale bluish skin, sharp aristocratic facial features, dramatic dark eye makeup, deep plum lipstick, and a stern, confident expression while looking slightly off to the side. Her hair is {argument name="hair color" default="platinum blonde"}, styled in a short swept asymmetrical undercut. She wears a gothic space-opera outfit: a dark high-neck wrap bodice with diagonal straps, long fitted sleeves, a deep burgundy and black layered skirt, a small circular metallic ornament and chain at the waist, and glossy black thigh-high boots. The cockpit surrounds her with dense black metal panels and exactly four major illuminated console areas: one overhead-left panel with blue and red indicator lights, one rear-left vertical blue display bank, one lower-left armrest console with red and blue buttons, and one right-side control console covered in glowing blue screens with a few red accents and a small joystick. A large angled window on the right shows bright electric-blue hyperspace streaks rushing past, casting intense blue rim light across her face, hands, clothing, and the cockpit. Use moody low-key lighting, high contrast, deep shadows, crisp realistic textures, cyberpunk space fantasy atmosphere, ultra-detailed digital painting / cinematic concept art quality. Vertical 2:3 composition, no text, no watermark, avoid extra characters.
+```
+
+**来源：** [@Richard Pell (The Milwaukee Protocol)](https://x.com/RichardPell4/status/2073475673214091519) | 2026-07-04
+
+---
+
+### 🏛️ 例 3197：蕾丝花园装扮的动漫少女
+
+![蕾丝花园装扮的动漫少女](../../images/%E8%95%BE%E4%B8%9D%E8%8A%B1%E5%9B%AD%E8%A3%85%E6%89%AE%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和且高度细腻的动漫风格全身插画，描绘 {argument name="character name" default="一位开朗的年轻女性"} 侧坐在阳光明媚的花园里的乡村木长椅上。她留着长长的 {argument name="hair color" default="黑色"} 头发，扎着两条松散的辫子，有着明亮的蓝色眼睛、白皙的皮肤和温柔的微笑，正看向观众。她戴着一顶灰褐色的棒球帽，身穿象牙色蕾丝长袖衬衫，饰有精致的花卉刺绣、透明的荷叶边袖口、带有小蝴蝶结的蕾丝领口，以及许多飘逸的层叠褶皱。她的裙子是一条长款不对称的波西米亚风多层裙，颜色为 {argument name="skirt color" default="锈陶土红"}，带有华丽的佩斯利花纹、层叠的不规则下摆、半透明的奶油色衬裙层以及额外的飘逸褶边。搭配奶油色蕾丝短袜和米色系带厚底运动鞋。她背着一个小巧的米色斜挎包，包上有翻盖、流苏挂饰、缝线细节，细细的肩带横跨躯干。让她的一只手轻轻搭在包带附近，另一只手放在长椅上，双腿放松并拢，双脚朝前。背景是户外乡村花园小径，两侧种满了繁茂的野花：白色雏菊、粉色波斯菊、薰衣草和紫色花朵、黄色花卉以及柔嫩的绿色叶片，泥土小径向背景延伸，绿树掩映在淡蓝色的天空下。使用温暖的自然日光、轻盈的柔和色调、浅景深、绘画感动漫渲染、细腻的蕾丝质感、复杂的布料褶皱、精致的荷叶边、柔和的高光以及梦幻浪漫的氛围。前景的花朵应进行柔焦处理以增加景深。无文字，无水印，无额外角色。
+
+[English]
+Create a soft, highly detailed anime-style full-body illustration of {argument name="character name" default="a cheerful young woman"} sitting sideways on a rustic wooden bench in a sunlit flower garden. She has long {argument name="hair color" default="black"} hair in exactly two loose braids, bright blue eyes, fair skin, and a gentle smiling expression, looking toward the viewer. She wears a taupe baseball cap, an ivory lace long-sleeve blouse with delicate floral embroidery, sheer frilled cuffs, a lace-trimmed neckline with a small bow, and many fluttering layered ruffles. Her skirt is a long asymmetrical bohemian tiered skirt in {argument name="skirt color" default="rusty terracotta red"} with ornate paisley patterns, cascading uneven hems, translucent cream underskirt layers, and extra flowing frills. Add cream lace ankle socks and beige lace-up platform sneakers. She carries a small beige crossbody satchel with a flap, tassel charm, stitched details, and a thin strap crossing her torso. Pose her with one hand resting lightly near the bag strap and the other hand on the bench, legs relaxed together and feet forward. The setting is an outdoor countryside garden path lined with abundant wildflowers: white daisies, pink cosmos, lavender and purple blossoms, yellow flowers, and soft green foliage on both sides, with a dirt path receding into the background and leafy trees under a pale blue sky. Use warm natural daylight, airy pastel colors, shallow depth of field, painterly anime rendering, fine lace texture, intricate fabric folds, delicate ruffles, soft highlights, and a dreamy romantic atmosphere. Foreground flowers should be softly blurred for depth. No text, no watermark, no extra characters.
+```
+
+**来源：** [@ハスノ＠核心ぶち抜きヒーラー／天空図書館夫婦](https://x.com/00_hasu_00/status/2073367068943307205) | 2026-07-04
+
+---
+
+### 🏛️ 例 3203：浪漫花园玫瑰献礼
+
+![浪漫花园玫瑰献礼](../../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E7%8E%AB%E7%91%B0%E7%8C%AE%E7%A4%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+👇
+
+使用上传的人脸，100% 还原且真实。
+这是一幅超写实、高细节、浪漫的画面：一名英俊的年轻男子单膝跪地，向坐在白色华丽公园长椅上的美丽年轻女子献上一朵红玫瑰。男子留着深色时尚发型，身穿黑色衬衫，胸前印有白色字母“R.S”和一个小红心，搭配白色长裤和带有黑色标志的白色运动鞋。女子面带羞涩的甜美微笑，轻轻握住玫瑰花茎。她身穿一件鲜艳的宝蓝色透明纱丽，上面有精致的银色花卉刺绣，披在奶油色的飘逸长裙外，搭配银色细带高跟鞋和蓝色玻璃手镯。
+他们身处一个梦幻般郁郁葱葱的花园中。身后是一个覆盖着明亮粉色花朵的美丽拱门。在他们头顶正上方，悬浮着一个明亮发光的粉色霓虹灯牌，形状为带有皇冠的心形，中间写着字母“D.H”。发光的梦幻蓝色蝴蝶在场景周围飞舞。长椅旁放着一个白色装饰灯笼和一个装满红玫瑰的篮子。在柔和虚化的背景中，可以看到经典的喷泉和温暖的公园灯光。整体风格色彩高度饱和、具有电影质感、梦幻且浪漫，8k 分辨率。保持原始人脸和发型 100% 参考。
+
+[English]
+👇
+
+Using uploaded face 100 percent same & realistic.
+A hyper-realistic, highly detailed, romantic of a handsome young man kneeling on one knee offering a single red rose to a beautiful young woman sitting on a white ornate park bench. The man has dark, stylish hair and is wearing a black button-down shirt with the white initials "R.S" and a small red heart printed on the chest, along with white trousers and white sneakers with a black logo. The woman is blushing with a sweet smile, gently holding the rose stem. She is wearing a vibrant royal blue sheer saree with intricate silver floral embroidery, draped over a cream-colored flowing skirt, paired with silver strappy high heels and blue glass bangles.
+They are situated in a magical, lush garden. Behind them is a beautiful archway covered in bright pink flowers. Floating directly above them is a bright, glowing pink neon sign shaped like a heart with a crown on top, containing the letters "D.H". Glowing magical blue butterflies are fluttering around the scene. Next to the bench is a white decorative lantern and a basket filled with red roses. In the softly blurred background, there is a classic water fountain and warm park lighting. The overall style is highly saturated, cinematic, magical, and romantically stylized, 8k resolution. Keep original face and hairstyle 100% reference
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2073353560029594094) | 2026-07-04
+
+---
+

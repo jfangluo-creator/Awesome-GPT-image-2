@@ -2688,3 +2688,21 @@ Output:
 
 ---
 
+### 📊 例 3155：等距视角房间历史时间轴
+
+![等距视角房间历史时间轴](../../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E6%88%BF%E9%97%B4%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，AI 推理：一个单间房间（例如 {argument name="room type" default="书房或厨房"}）的等距剖面图，分为四个无缝象限。左下象限陈设着最早期的 {argument name="theme" default="[THEME]"} 物体，左上为中期，右上为后期，右下为最现代的时期。房间架构有细微演变但保持一致；物体体现时间变迁 ::5 时间逻辑：AI_INFER 在四个时间象限中分布 25–30 个物体，每个区域在历史上保持一致。象限按顺时针方向流动，如同时间循环 ::5 构图：等距视角（无透视畸变），象限过渡无缝，无杂乱，物体整齐排列在表面上 ::3 材质物理：真实材质，符合时代的陈旧感，柔和阴影，无发光物体 ::2 照明：所有区域光照均匀，无夸张阴影 ::2 排版：每个象限的地板上巧妙地放置小字体的年份范围 ::2 渲染堆栈：等距时间房间，演变立体模型，室内时间轴，8k ::1 负面提示词：[透视，破碎的房间几何结构，象限间时代错误混搭，挖掘，苔藓，生物发光] ::-1
+
+[English]
+2x2 grid, 16:9, AI infers: An isometric cutaway of a single room (like a {argument name="room type" default="study or kitchen"}) divided into four seamless quadrants. The bottom-left quadrant is furnished with the earliest era’s {argument name="theme" default="[THEME]"} objects, the top-left is a middle period, the top-right is late period, and the bottom-right is the most modern. The room’s architecture morphs subtly but stays consistent; the objects tell the time shift ::5 Time Logic: AI_INFER 25–30 objects distributed across the four time quadrants, each zone historically consistent. Quadrants flow clockwise like a time-loop ::5 Composition: Isometric view (no perspective distortion), seamless quadrant transitions, no clutter, objects neatly arranged on surfaces ::3 Material Physics: Real materials, period-appropriate aging, soft shadows, no glowing items ::2 Illumination: Neutral ambient light across all zones, no dramatic shadows ::2 Typography: Small year range subtly placed on the floor of each quadrant ::2 Render Stack: Isometric time-room, evolutionary diorama, interior timeline, 8k ::1 Negative: [perspective, broken room geometry, anachronistic mixing across quadrants, excavation, moss, bioluminescence] ::-1
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2073464356378198044) | 2026-07-04
+
+---
+

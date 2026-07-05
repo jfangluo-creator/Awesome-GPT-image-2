@@ -2556,3 +2556,21 @@ Using REFERENCE_0 as the character and costume base, transform the photo into a 
 
 ---
 
+### 🔧 例 3176：产品照片涂鸦叠加
+
+![产品照片涂鸦叠加](../../images/%E4%BA%A7%E5%93%81%E7%85%A7%E7%89%87%E6%B6%82%E9%B8%A6%E5%8F%A0%E5%8A%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+选取这张产品照片，并在其上方添加一个生动的手绘涂鸦角色——采用简约的黑色线条艺术风格，配以卡通手臂和腿部，以及表达 {argument name="emotion" default="joy"} 的表情。添加一个简短的手写风格对话气泡，内容为“{argument name="caption" default="Fresh & New"}”。保持产品照片原样且真实，背景需为干净的白色或浅灰色。
+
+[English]
+Take this product photo and add a playful hand-drawn doodle character on top of it — simple black line-art style, cartoon arms and legs, expressive face showing {argument name="emotion" default="joy"}. Add a short handwritten-style text bubble saying '{argument name="caption" default="Fresh & New"}'. Keep the product photo untouched and realistic, background clean white/light grey.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2073407209753788771) | 2026-07-04
+
+---
+

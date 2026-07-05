@@ -14592,3 +14592,547 @@ Negative: cartoon, anime, blurry, watermark, fake controller design.
 
 ---
 
+### 🎴 例 3151：合成波复古未来主义音乐海报
+
+![合成波复古未来主义音乐海报](../../images/%E5%90%88%E6%88%90%E6%B3%A2%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有精致合成波时尚美学的复古未来主义音乐海报。构图中心为一位女性的侧影，她留着利落的铂金短发，佩戴着超大号厚实不透明的粉色遮阳墨镜，身穿一件 {argument name="jacket" default="高领亮面泡泡糖粉色乙烯基夹克"}，夹克上有明显的银色拉链和强烈的镜面高光。在人物后方放置巨大的单词 "{argument name="title" default="HEIS"}"，采用深紫色压缩块状字体，字号大到足以填满海报，并被其头部和头发部分遮挡。使用简洁的竖版海报布局，背景为柔和的洋红色到深紫色的渐变，并带有细腻的胶片颗粒质感。灯光应呈现出高端摄影棚拍摄的效果，采用柔和的正面照明，乙烯基夹克上有明亮的亮面反射，头发边缘带有柔和的粉色轮廓光。色调以泡泡糖粉、深紫、薰衣草紫和霓虹洋红色点缀为主。添加细小的图形细节：左侧有一个条形码，左下角附近有一个极简主义星形标志，右下角有四行微小的堆叠式大写无衬线歌词风格文字，例如 "{argument name="lyrics" default="NEON NIGHTS"}"、"DREAM WAVE"、"AFTERGLOW" 和 "PURPLE HAZE"。最终图像应呈现出简洁、昂贵的电子舞曲封面或高级时尚编辑海报的质感，清晰、精致、具有电影感，且已达到海报印刷标准。
+
+[English]
+Create a stylized retro-futuristic music poster with a polished synthwave fashion aesthetic. Center the composition on a woman shown in side profile, with a sleek platinum blonde bob haircut, wearing oversized chunky opaque pink visor sunglasses and a {argument name="jacket" default="high-collar glossy bubblegum-pink vinyl jacket"} with a visible silver zipper and sharp specular highlights. Place the massive word "{argument name="title" default="HEIS"}" behind her in dark purple, condensed block typography, large enough to fill the poster and partially hidden by her head and hair. Use a clean vertical poster layout with a soft magenta-to-deep-purple gradient background and subtle film grain texture. Lighting should feel like a high-end studio shoot, with soft frontal illumination, bright glossy reflections on the vinyl jacket, and a gentle pink rim light along the hair. Keep the palette dominated by bubblegum pink, deep violet, lavender, and neon-magenta accents. Add small graphic details: a barcode on the left side, a minimalist star logo near the lower-left corner, and four tiny stacked uppercase sans-serif lyric-style lines in the lower-right, such as "{argument name="lyrics" default="NEON NIGHTS"}", "DREAM WAVE", "AFTERGLOW", and "PURPLE HAZE". The final image should feel like a clean, expensive electronic dance music cover or high-fashion editorial poster, crisp, polished, cinematic, and poster-ready.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073508046895296948) | 2026-07-04
+
+---
+
+### 🎴 例 3159：外星人眼睛伪纪录片海报
+
+![外星人眼睛伪纪录片海报](../../images/%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%BC%E7%9D%9B%E4%BC%AA%E7%BA%AA%E5%BD%95%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 横屏比例的电影质感伪纪录片海报。画面为灰色外星人面部的极度特写，右侧是一只巨大的黑色光泽眼睛，皮肤褶皱且呈皮革质感，带有毛孔、湿润的高光以及深邃的戏剧性阴影。在外星人的眼睛里，清晰地呈现出繁忙的土耳其老式城市街道的逼真倒影：行人向镜头走来或离去、两侧狭窄的店铺、古老的石砌建筑、阳光光晕，以及远处耸立的清真寺尖塔。海报左半部分为模糊的外星人面部暗部，用作文字排版区域。添加醒目的粗体做旧白色大写土耳其语标题文本 {argument name="headline text" default="UZAYLILAR ARAMIZDA"}，分为两行堆叠，左对齐。在其下方添加一个较小的、带有间距的副标题，两侧配有细横线，内容为 {argument name="subtitle text" default="ENTEGRASYON"}。在左下角添加一个小的盒装标签，内容为 {argument name="badge text" default="AI MOCKUMENTARY"}。采用粗粝的纪录片海报风格，高对比度，逼真的摄影纹理，去饱和的灰黑色调并在眼睛倒影中加入微妙的暖色高光，使用变形镜头电影光效，浅景深，不要添加额外 Logo，倒影之外不要出现其他人，并确保所有文字清晰易读。
+
+[English]
+Create a cinematic mockumentary poster in a 16:9 landscape format. The image is an extreme close-up of a gray alien face, dominated by one huge glossy black eye on the right side of the frame, with wrinkled leathery skin, pores, wet highlights, and dark dramatic shadows. Inside the alien eye, show a sharp realistic reflection of a busy old Turkish-style city street: pedestrians walking away and toward camera, narrow shops on both sides, aged stone buildings, sunlight flare, and a mosque minaret rising in the distance. The left half of the poster is a dark blurred portion of the alien face used as a typography area. Add large bold distressed white uppercase Turkish title text reading {argument name="headline text" default="UZAYLILAR ARAMIZDA"}, stacked on two lines, aligned left. Beneath it add a smaller spaced subtitle with thin horizontal lines on both sides reading {argument name="subtitle text" default="ENTEGRASYON"}. In the lower-left corner add a small boxed label reading {argument name="badge text" default="AI MOCKUMENTARY"}. Use gritty documentary film-poster styling, high contrast, realistic photographic texture, desaturated gray-black palette with subtle warm highlights in the eye reflection, anamorphic cinematic lighting, shallow depth of field, no extra logos, no people outside the reflection, and keep all text crisp and legible.
+```
+
+**来源：** [@Ozan Sihay](https://x.com/ozansihay/status/2073445808171561441) | 2026-07-04
+
+---
+
+### 🎴 例 3180：极简主义巨型芝士汉堡广告创意
+
+![极简主义巨型芝士汉堡广告创意](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%B7%A8%E5%9E%8B%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，展示了一个超大号的高级芝士汉堡，配有完美融化的芝士、多汁的牛肉饼、新鲜生菜、番茄和芝麻面包，设计极其简洁。一位身穿全白服装的年轻女性随意地倚靠在巨型芝士汉堡旁，姿态放松自信，闭着双眼，手中还拿着一个正常大小的芝士汉堡。背景为柔和的渐变活力暖色调 {argument name="background color" default="金橙色"}，身后有醒目的白色大号文字 “{argument name="headline" default="CHEESEBURGER"}”。光亮的反射地面，柔和的摄影棚灯光，现代高端美食/产品摄影风格。底部中心处为小号白色字体标语：“{argument name="tagline" default="每一口都是多汁的完美体验。"}”
+
+[English]
+Minimalist commercial ad featuring oversized premium cheeseburger with perfectly melted cheese, juicy beef patty, fresh lettuce, tomato, and sesame bun, ultra-clean design. A young woman in all-white outfit leans casually against the giant cheeseburger, relaxed confident pose, eyes closed, also holding a regular-sized cheeseburger in her hand. Soft gradient vibrant warm {argument name="background color" default="golden-orange"} background with large bold white “{argument name="headline" default="CHEESEBURGER"}” text behind. Glossy reflective floor, soft studio lighting, modern high-end food/product photography. Bottom center tagline in small white font: “{argument name="tagline" default="Juicy perfection in every bite."}”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2073402499751727469) | 2026-07-04
+
+---
+
+### 🎴 例 3186：现代动漫 Hikari 海报
+
+![现代动漫 Hikari 海报](../../images/%E7%8E%B0%E4%BB%A3%E5%8A%A8%E6%BC%AB%20Hikari%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张现代动漫海报插画，描绘一位时尚的戴眼镜女孩，呈现出高端日本杂志海报的质感。主体是一位年轻女性，拥有 {argument name="hair color" default="飘逸的长黑发"}、白皙的皮肤、蓝色的眼睛和圆形的细框眼镜，以四分之三侧面示人，向上并向左凝视，表情平静而充满希望。她身穿深海军蓝高领大衣或和风外套，带有光泽阴影、束腰设计、红色装饰标签、悬挂的钥匙扣吊牌，袖子上印有装饰性的白鹤和红花枝。使用奶油色、深海军蓝、黑色、鲜红色和少量白色高光组成的极简色调。将她置于一个巨大的扁平红色圆日之前，圆日位于她的头部和头发后方中心，圆日左下方有海军蓝城市天际线剪影、几只白鸟、黑色星芒形状、微小的闪光以及随风飘动的发丝。将图像设计为垂直海报，背景为干净的奶油色，边缘附近有细黑边框引导线。添加强烈的日式海报排版元素：右上角有一行醒目的垂直标题，内容为 {argument name="main Japanese title" default="光の向こうへ"}，旁边配有较小的垂直日文标语；左侧信息栏包含小段文本、红色蝴蝶图标、“MIRAI”、“KIBOU”、“YUME”标签、一个醒目的大数字 {argument name="poster number" default="02"}、一个小型的蓝红斜条纹方块、微小的垂直注释标记，以及底部附近的条形码装饰元素。包含 5 个显著的鸟类剪影或插图：左侧栏的一个红色蝴蝶状图标、红日附近的一只小白鸟、袖子印花上的一只白鹤、袖子上空飞翔的一只较大白鹤，以及右下袖子区域附近的一个局部白鸟图案。添加 3 个主要的星芒装饰：红日右上角附近的一个黑色星芒、附近的一个小黑闪光，以及右下角附近的一个红色指南针状闪光。底部区域应包含一个深海军蓝块，带有微小的未来感徽章图形、一个红色地球仪图标、条形码条纹、右下角的奶油色斜条纹，以及一个写有“HIKARI”的小标签。整体风格：清晰的动漫线条、电影级光影、海报化的扁平形状、优雅的平面设计、细腻的印刷质感、锐利的构图，无照片写实感，无水印。
+
+[English]
+Create a modern anime poster illustration of a stylish glasses girl, rendered like a high-end Japanese editorial poster. The main subject is a young woman with {argument name="hair color" default="long flowing black hair"}, pale skin, blue eyes, and round thin-frame eyeglasses, shown in a three-quarter side profile looking upward and to the left with a calm, hopeful expression. She wears a dark navy high-collared coat or kimono-inspired jacket with glossy shadows, a belted waist, red accent tags, a dangling keychain label, and decorative white cranes with red blossom branches printed on the sleeve. Use a dramatic limited palette of cream, deep navy, black, vivid red, and small white highlights. Place her in front of a huge flat red sun circle centered behind her head and hair, with a navy city skyline silhouette at the lower left inside the circle, a few white birds, black starburst shapes, tiny sparkles, and wind-swept hair strands crossing the composition. Design the image as a vertical poster with a clean cream background and thin black border guide lines near the edges. Add strong Japanese typographic poster elements: a large vertical title on the upper right reading {argument name="main Japanese title" default="光の向こうへ"}, smaller vertical Japanese tagline text beside it, and a left-side information column containing small text blocks, a red butterfly icon, the labels “MIRAI”, “KIBOU”, “YUME”, a large bold number {argument name="poster number" default="02"}, a small diagonal striped blue-and-red square, tiny vertical annotation marks, and barcode-like decorative elements near the bottom. Include exactly 5 prominent bird silhouettes or illustrations: one red butterfly-like icon in the left column, one small white bird near the red sun, one white crane on the sleeve print, one larger white crane flying over the sleeve, and one partial white bird motif near the lower right sleeve area. Add exactly 3 main starburst decorations: one black starburst near the upper right of the red sun, one small black sparkle nearby, and one red compass-like sparkle near the lower right. The bottom area should include a dark navy block with small futuristic emblem graphics, a red globe icon, barcode stripes, diagonal cream stripes at the lower right, and a small label reading “HIKARI”. Overall style: crisp anime line art, cinematic lighting, posterized flat shapes, elegant graphic design, subtle print texture, sharp composition, no photorealism, no watermark.
+```
+
+**来源：** [@Harf_Done](https://x.com/half_done_yet/status/2073391567793279466) | 2026-07-04
+
+---
+
+### 🎴 例 3196：欢乐游乐场海报人像
+
+![欢乐游乐场海报人像](../../images/%E6%AC%A2%E4%B9%90%E6%B8%B8%E4%B9%90%E5%9C%BA%E6%B5%B7%E6%8A%A5%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的游乐场时尚生活照，风格如同色彩斑斓的青春杂志海报。一位开朗的年轻女性，留着 {argument name="hair color" default="深棕色长发"}，坐在蓝色橡胶游乐场地面上，背景是绿色的管状 Slides 和明黄色的攀爬楼梯及栏杆。她对着镜头露出温暖的微笑，表情自然且令人难忘，一只手臂向上伸展握住绿色 Slides 的支撑杆，另一只手撑在身后的地面上。她身穿浅奶油色短袖衬衫，搭配飘逸的亮天蓝色中长裙、白色短袜、鲜红色运动鞋，并佩戴着彩色小发夹。采用略微俯视的广角构图，她的双腿向左下方对角线延伸，游乐场设施填满背景，画面包含饱和的青蓝色地面、绿色 Slides 和柠檬黄色的金属结构。在照片上添加手绘笔触字体和涂鸦，呈现出俏皮的剪贴簿/涂鸦风格，使用粗犷的白色和黄色油漆笔触。包含确切的八组可见文字/涂鸦：1) 左上角巨大的白色“WILD”；2) 其下方的黄色“JOY”，配有一个黄色心形涂鸦和三个白色勾号；3) 左侧白色的“LIVING IN”和巨大的黄色“COLOR”，下方带有白色下划线；4) 右上角白色的“FREE ENERGY”，配有一个小笑脸和黄色下划线；5) 右侧中心附近的白色星星涂鸦；6) 右侧白色的“PLAY”和黄色的“LOUD”，外加一个指向右下方的白色箭头；7) 左下角附近手写的小字短语“Sunshine on my mind, freedom in my soul.”，配有一个微小的黄色心形；8) 右下角附近的白色“NO RULES JUST PLAY.”，配有一颗黄色星星。保持图像真实明亮，如同随拍的户外摄影，肤色干净，发丝随风飘动，表情愉悦，细节清晰，画面中没有其他人，没有水印，除了指定的这些海报文字外，不包含任何额外文字。
+
+[English]
+Create a vibrant lifestyle fashion photo at a playground, styled like a colorful youthful magazine poster. A cheerful young woman with {argument name="hair color" default="long dark brown hair"} sits on a blue rubber playground floor beneath a green tube slide and bright yellow climbing stairs and railings. She is smiling warmly at the camera with a natural, unforgettable expression, one arm stretched upward holding the green slide support bar and the other hand resting behind her on the ground. She wears a pale cream short-sleeve blouse, a flowing bright sky-blue midi skirt, white crew socks, vivid red sneakers, and small colorful hair clips. Use a slightly high-angle wide composition with her legs extended diagonally toward the lower left, the playground equipment filling the background, saturated teal-blue flooring, green slide, and lemon-yellow metal structures. Add hand-painted brush typography and doodles over the photo in a playful scrapbook/graffiti style, using rough white and yellow paint strokes. Include exactly eight visible text/doodle groups: 1) huge white “WILD” at the upper left, 2) yellow “JOY” below it with a yellow heart doodle and three white tick marks, 3) white “LIVING IN” and large yellow “COLOR” on the left side with a white underline, 4) white “FREE ENERGY” at the upper right with a small smiley face and yellow underline, 5) white star doodle near the right center, 6) white “PLAY” with yellow “LOUD” at the right side plus a white arrow pointing lower right, 7) small handwritten white phrase “Sunshine on my mind, freedom in my soul.” near the bottom left with a tiny yellow heart, and 8) white “NO RULES JUST PLAY.” near the bottom right with a yellow star. Keep the image realistic and bright, like candid outdoor photography, with clean skin tones, wind-touched hair, joyful expression, crisp details, no extra people, no watermark, and no additional text beyond the specified poster lettering.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2073367738505113678) | 2026-07-04
+
+---
+
+### 🎴 例 3200：现代极简主义编辑海报
+
+![现代极简主义编辑海报](../../images/%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+设计一张现代极简主义编辑海报，主体为一位 {argument name="subject" default="亚洲男性"} 坐在简单的凳子上。他穿着 {argument name="clothing" default="米色连帽衫、宽松黑色长裤和米色运动鞋"}。姿势应显得随性且自信，身体微微前倾，双手放在膝盖上。场景设定在干净的摄影棚内，采用醒目的复古图形布局。上半部分使用 {argument name="background color" default="暖橙色"} 背景，与下方柔软的米色纹理地面形成对比。在主体后方放置一个巨大的象牙白“01”，进行部分裁剪，使其延伸至整个画布。包含以下排版细节：左侧使用粗体黑色无衬线字体标注“TRACK NUMBER”，上方配有小字标题“HARBORIS”，右上角配有小字标题“Anggadaras1908”。保持设计现代且具有编辑感，采用瑞士风格排版、清晰的留白和平衡的构图。使用柔和的摄影棚灯光，椅子下方带有微妙的阴影。图像应具有电影感但保持干净，避免强烈的对比。采用平视、中景、全身构图，居中对齐，焦点清晰，高分辨率。配色方案：橙色、奶油色、灰白色及黑色点缀。添加轻微的颗粒感、海报纸质感和复古印刷感。面部和身体需与上传的参考图完全一致。最终长宽比为 3:4。
+
+[English]
+Design a modern minimalist editorial poster centered on an {argument name="subject" default="Asian man"} seated on a simple stool. He wears a {argument name="clothing" default="beige hoodie, relaxed black trousers, and beige sneakers"}. His posture should feel casual and confident, with a slight forward lean and both hands resting on his knees. Set the scene in a clean studio with a bold retro graphic layout. Use a {argument name="background color" default="warm orange"} field across the upper area, contrasted with a soft textured beige floor. Place a large ivory white "01" behind the subject, partially cropped so it stretches across the canvas. Include these typography details: "TRACK NUMBER" in bold black sans serif on the left side, a small "HARBORIS" caption above it, and a small upper right caption reading "Anggadaras1908". Keep the design modern and editorial, with Swiss style typography, clear negative space, and balanced composition. Use soft studio lighting with subtle shadows beneath the chair. The image should feel cinematic but clean, with no harsh contrast. Frame it as an eye level, medium range, full body shot with centered composition, sharp focus, and high resolution. Color palette: orange, cream, off white, and black accents. Add slight grain, poster paper texture, and a vintage print feel. Keep the face and body exactly the same as the uploaded reference image. Final aspect ratio 3:4.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073356179619926213) | 2026-07-04
+
+---
+
+### 🎴 例 3204：高端编辑风体育拼贴海报
+
+![高端编辑风体育拼贴海报](../../images/%E9%AB%98%E7%AB%AF%E7%BC%96%E8%BE%91%E9%A3%8E%E4%BD%93%E8%82%B2%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的编辑风体育拼贴海报（比例 4:5），以 {argument name="player name" default="[PLAYER NAME]"} 作为绝对的核心主体。在保持极高真实感的前提下，精准还原球员极具辨识度的面部特征、自然的五官比例、发型、皮肤纹理、标志性表情及整体外貌。中央肖像应占据构图约 70% 的比例，并自信地突破拼贴边界，通过逼真的阴影和深度营造出分层的三维视觉效果。
+
+在中央肖像周围布置 6–8 个电影质感的编辑风画幅，每个画幅捕捉不同的真实足球瞬间，同时确保面部特征的高度一致性。内容应包含均衡的场景组合，例如：赛前走过球员通道、冷静的赛前专注状态、动态带球、庆祝进球、与球迷互动、举起奖杯（仅限球员历史真实成就）、自然训练状态、望向球场灯光以及球场背影行走。每个画幅都应展现独特的肢体语言、构图和情绪，避免姿势重复。
+
+整体布局应呈现出手工制作的高级质感，而非 AI 生成的痕迹。使用 {argument name="textures" default="重叠的印刷照片、撕裂的杂志纸边缘、美纹纸胶带、折叠纸张纹理"}、足球战术草图、手写笔记、油漆飞溅、细腻的墨迹纹理、半色调漫画细节、复古报纸碎片、高端编辑排版、逼真的纸张颗粒感、分层阴影以及杂志风格的剪纸效果。允许部分拼贴元素自然重叠以营造真实的深度，同时确保中央肖像始终是视觉焦点。
+
+采用精致的电影级布光，包含真实的球场照明、柔和的轮廓光、HDR 对比度、细腻的体积感氛围、自然的皮肤高光、逼真的反射以及高级的调色处理。整体色调应从球员所属的国家队配色中汲取灵感，同时保持优雅、平衡和编辑风格，避免过度饱和。
+
+避免使用奇幻元素或过度使用的 AI 陈词滥调，如行星、星系、浮岛、闪电、发光的魔法、皇冠、翅膀、豪华轿车、巨大的奖杯、超大文字、过度的金色特效、火焰、烟雾爆炸或不切实际的视觉效果。重点应完全聚焦于足球、个性、情感、运动感和叙事性。
+
+最终成品应类似于世界级 {argument name="brand" default="Nike 或 Adidas"} 的全球广告大片，并结合高端体育杂志的封面风格。它应当显得大胆、奢华、具有电影感且极具辨识度，同时在每个画幅中保持照片级的面部细节、卓越的面部一致性、超逼真的皮肤纹理、清晰的服装细节、高端的编辑构图以及博物馆级的数字艺术水准。
+
+风格：超写实编辑摄影 + 手工高端体育拼贴 + 细腻的漫画风格纹理。
+
+质量：超精细 8K，HDR。
+
+[English]
+Create an ultra-premium editorial sports collage poster (4:5) featuring {argument name="player name" default="[PLAYER NAME]"} as the unmistakable central subject. Preserve the player's instantly recognizable facial identity, natural facial proportions, hairstyle, skin texture, signature expression, and overall appearance with exceptional realism. The central portrait should dominate approximately 70% of the composition, confidently breaking beyond the collage borders to create a layered three-dimensional effect with realistic shadows and depth.
+
+Surround the central portrait with 6–8 cinematic editorial panels, each capturing a different authentic football moment while maintaining perfect facial consistency. Include a balanced mix of moments such as walking through a stadium tunnel before kickoff, calm pre-match focus, dynamic dribbling, celebrating an important goal, interacting with supporters, lifting a trophy only if it is historically accurate for the player, training naturally, looking toward the stadium lights, and a rear-view stadium walk. Every panel should have unique body language, composition, and emotion instead of repeating similar poses.
+
+The entire layout should feel handcrafted and premium rather than AI-generated. Use {argument name="textures" default="overlapping printed photographs, torn magazine paper edges, masking tape, folded paper textures"}, football tactical sketches, handwritten notes, paint splashes, subtle ink textures, halftone comic details, vintage newspaper fragments, premium editorial typography, realistic paper grain, layered shadows, and magazine-style cutouts. Allow some collage elements to overlap naturally to create convincing depth while keeping the central portrait as the clear focal point.
+
+Use sophisticated cinematic lighting with realistic stadium illumination, soft rim lighting, HDR contrast, subtle volumetric atmosphere, natural skin highlights, realistic reflections, and premium color grading. The overall color palette should be inspired by the player's national colors while remaining elegant, balanced, and editorial without excessive saturation.
+
+Avoid fantasy or overused AI clichés such as planets, galaxies, floating islands, lightning, glowing magic, crowns, wings, luxury cars, giant trophies, oversized text, excessive gold effects, fire, smoke explosions, or unrealistic visual effects. The focus should remain entirely on football, personality, emotion, movement, and storytelling.
+
+The final artwork should resemble a world-class {argument name="brand" default="Nike or Adidas"} global campaign combined with a premium sports magazine cover. It should feel bold, luxurious, cinematic, and instantly recognizable while maintaining photorealistic facial detail, exceptional facial consistency across every panel, ultra-realistic skin texture, crisp clothing details, premium editorial composition, and museum-quality digital artwork.
+
+Style: Hyper-realistic editorial photography + handcrafted premium sports collage + subtle comic-inspired textures.
+
+Quality: Ultra-detailed 8K, HDR,
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2073349659284959274) | 2026-07-04
+
+---
+
+### 🎴 例 3211：复古赛车主题海报
+
+![复古赛车主题海报](../../images/%E5%A4%8D%E5%8F%A4%E8%B5%9B%E8%BD%A6%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="car model" default="[CAR]"} 设计的复古赛车海报，4:5 竖版比例。展示 {argument name="car color" default="[COLOR]"} {argument name="car model" default="[CAR]"} 的正面低角度英雄视角，构图居中，背景为 {argument name="location" default="[SCENERY]"}。背景构建需具备极简的场景深度和分层图形设计元素：巨大的太阳形状、重叠的几何块、倾斜面板、柔和条纹、半透明形状以及简洁的留白，并将所有元素与场景融合。在顶部添加醒目的标题“[TITLE]”，放置一个小的 [BRAND] 标志，以及简短的标语“[SLOGAN]”。使用 [PALETTE] 配色，呈现复古印刷褪色、做旧纸张纹理、细微划痕、轻微日光漂白感、清晰的汽车细节、海报风格的对称性以及精致的赛车主题编辑风格。
+
+[English]
+Retro motorsport poster for {argument name="car model" default="[CAR]"}, 4:5 vertical. Show a front-facing low-angle hero view of the {argument name="car color" default="[COLOR]"} {argument name="car model" default="[CAR]"}, centered in the composition on {argument name="location" default="[SCENERY]"}. Build the background with minimalist scenic depth and layered graphic design elements: a large sun shape, overlapping geometric blocks, angled panels, soft stripes, translucent shapes, and clean negative space, all blended into the scenery. Add a bold title reading “[TITLE]” at the top, a small [BRAND] logo, and a short slogan reading “[SLOGAN]”. Use [PALETTE], vintage print fading, distressed paper texture, subtle scratches, slightly sun-bleached tones, crisp automotive detail, poster-style symmetry, and a refined race-inspired editorial finish.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2073329110059978822) | 2026-07-04
+
+---
+
+### 🎴 例 3214：建筑排版广告海报
+
+![建筑排版广告海报](../../images/%E5%BB%BA%E7%AD%91%E6%8E%92%E7%89%88%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的奢华广告海报，展示嵌入在平滑哑光黄色混凝土墙面中的巨型 3D 镂空“{argument name="text" default="karlos"}”排版。超大字母“{argument name="letter" default="k"}”被设计成一个极具戏剧性的建筑入口，参考照片中的主体仿佛正从字母内部自然浮现，如同穿过一扇现代数字门户。
+
+[English]
+Create an ultra-realistic luxury advertising poster featuring a giant 3D cut-out "{argument name="text" default="karlos"}" typography embedded into a smooth matte yellow concrete wall. The oversized letter "{argument name="letter" default="k"}" is designed as a dramatic architectural portal, with the subject from the reference photo naturally emerging from inside the letter as if stepping through a modern digital gateway.
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2073322730582327514) | 2026-07-04
+
+---
+
+### 🎴 例 3215：东方月影桥梁美学海报
+
+![东方月影桥梁美学海报](../../images/%E4%B8%9C%E6%96%B9%E6%9C%88%E5%BD%B1%E6%A1%A5%E6%A2%81%E7%BE%8E%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简海报
+风格分支：高对比传播型
+主体内容：{argument name="主体" default="一位提灯人站在桥中央"}
+情绪母题：{argument name="情绪" default="等待、故事感、夜色张力"}
+场景与意象：宝蓝夜空、橙金灯光、石桥、水面、圆月、轻雾
+构图与空间：中心对照构图，桥和人物位于中部，夜空和水面形成大面积空间，灯光成为强点睛
+色彩控制：{argument name="色彩控制" default="深宝蓝用于夜空和水面，橙金只用于灯笼、局部倒影和一点月边暖光，月白用于月亮和雾层，墨灰用于桥体结构"}；避免整图变成蓝橙商业摄影滤镜
+光线与质感：冷月光与暖灯光对比，水面轻纹理，数字东方海报质感
+画幅比例：9:16
+补充要求：蓝橙对比要明显，画面要高级、清晰、有传播感，不要压暗成纯夜景
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2073312945082392787) | 2026-07-04
+
+---
+
+### 🎴 例 3217：流行偶像排版封面艺术
+
+![流行偶像排版封面艺术](../../images/%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F%E6%8E%92%E7%89%88%E5%B0%81%E9%9D%A2%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+生成一张高端流行偶像字效封面海报。
+
+主题：{argument name="主题" default="music cover / idol visual / pop editorial / campaign concept"}
+方向：{argument name="风格方向" default="动态红色字效封面 / 红底聚焦人像封面 / 动感偶像舞台海报 / 耳机流行编辑封面"}
+主标题：{argument name="主标题" default="[填写主标题]"}
+副标题：[填写短副标题]
+版号小字：[填写期号 / edition / 少量小信息]
+主体：[不同国家的成年年轻女性偶像 / 成年年轻男性偶像 / 流行艺人 / 表演者]
+国家设定：[中国 / 韩国 / 日本 / 泰国 / 法国 / 美国 / 巴西 / 阿根廷 / 英国等]
+气质：[bold / stylish / emotional / kinetic / youthful / graphic / editorial]
+色彩系统：[红 / 白 / 黑 / 深红 / 柔白]
+
+整体效果要像高级流行音乐视觉封面或时尚杂志海报。
+
+使用超大字号排版，把文字作为画面结构的一部分，而不是单纯标题。
+
+让人物与文字发生明显互动，可通过：
+遮挡、穿插、裁切、透视、空间叠层、局部模糊、前后关系等方式实现。
+
+整体排版干净、有冲击力，只保留少量辅助文字。
+
+可选以下四种方向之一：
+
+1. 动态红色字效封面
+使用白色或米白背景，搭配超大红色粗体文字。
+画面中是一位成年年轻女性或男性流行偶像，全身动态姿势，与大字形成强互动。
+
+2. 红底聚焦人像封面
+使用浓郁红色背景，呈现成年年轻偶像的近景或半身肖像。
+加入优雅白色衬线文字，在眼睛位置加轻微聚焦框，氛围略梦幻，但眼神保持清晰。
+
+3. 动感偶像舞台海报
+使用强烈表演姿态和夸张透视，比如腿部、靴子或手臂更靠近镜头。
+大字被身体局部切开，形成舞台视觉 or 音乐演出海报感。
+
+4. 耳机流行编辑封面
+使用佩戴耳机的成年年轻女性或男性偶像，近景或半身。
+加入高挑竖排文字，与人物轮廓互动，再搭配1—2个小标签文字框，整体时尚但不拥挤。
+
+避免：
+廉价模板感、过多小字、杂乱构图、弱字体、假品牌Logo、畸形肢体、错误手指、塑料皮肤、贴纸元素堆砌。
+
+要求：
+大胆、干净、现代、具有设计感。
+
+最终只生成一张完成度很高的独立海报。
+```
+
+**来源：** [@Derek Wen｜德里克文](https://x.com/derek_wall90176/status/2073303641625391161) | 2026-07-04
+
+---
+
+### 🎴 例 3228：奢华活动品牌海报
+
+![奢华活动品牌海报](../../images/%E5%A5%A2%E5%8D%8E%E6%B4%BB%E5%8A%A8%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="event name" default="非官方 'Met Gala After Dark'"} 概念设计一张奢华活动海报，场景为受大都会艺术博物馆启发的优雅大阶梯，以 {argument name="celebrity style" default="Zendaya 风格"} 的高级时装剪影作为编辑人物，采用温暖的电影质感灯光，包含日期/时间/地点占位符区块，精致的排版，高端邀请函设计，色彩浓郁，并清晰标注“粉丝概念，非官方”。
+
+设计一张“Coachella Desert House Night”夜店传单，包含霓虹灯、DJ 台、活力四射的人群、棕榈树和沙漠尘埃，采用醒目的排版，包含 VIP 卡座行动号召（CTA），高对比度的夜生活海报风格，营造真实的 Coachella 音乐节氛围，非官方派对概念。
+
+生成一张“David & Victoria Beckham 誓词重温概念”的婚礼邀请函海报，地点设在 {argument name="location" default="浪漫的英国乡村庄园"}，点缀白玫瑰，采用优雅的衬线/手写字体，柔和的奶油色背景，呈现永恒的奢华文具质感，高雅的编辑处理，并清晰标注为虚构概念。
+
+为“Apple WWDC Design Futures”创作一张企业会议海报，采用受 Tim Cook 启发的主题演讲者肖像处理，现代 Apple Park 风格舞台，包含日程亮点，简洁的专业布局，高端商务活动品牌形象，极简的 Apple 风格排版，并清晰标注为非官方概念。
+
+[English]
+Create a luxury event poster for an {argument name="event name" default="unofficial 'Met Gala After Dark'"} concept, elegant Metropolitan Museum of Art-inspired grand staircase scene, {argument name="celebrity style" default="Zendaya-style"} high-fashion silhouette as an editorial figure, warm cinematic lighting, date/time/location placeholder block, refined typography, premium invitation design, rich colors, clearly labeled "fan concept, not official".
+
+Design a nightclub flyer for "Coachella Desert House Night", neon lights, DJ booth, energetic crowd, palm trees and desert dust, bold typography, VIP table CTA, high-contrast nightlife poster style, real Coachella-inspired festival atmosphere, unofficial party concept.
+
+Generate a wedding invitation poster for "David & Victoria Beckham vow renewal concept", {argument name="location" default="romantic English countryside estate"}, white roses, elegant serif/script typography, soft cream background, timeless luxury stationery look, tasteful editorial treatment, clearly marked as fictional concept.
+
+Create a corporate conference poster for "Apple WWDC Design Futures", keynote speaker portrait treatment inspired by Tim Cook, modern Apple Park-style stage, schedule highlights, clean professional layout, premium business event branding, minimal Apple-style typography, clearly labeled unofficial concept.
+```
+
+**来源：** [@Pan](https://x.com/sebatheepan/status/2073269346143445209) | 2026-07-04
+
+---
+
+### 🎴 例 3233：带有内部景观的排版旅行海报
+
+![带有内部景观的排版旅行海报](../../images/%E5%B8%A6%E6%9C%89%E5%86%85%E9%83%A8%E6%99%AF%E8%A7%82%E7%9A%84%E6%8E%92%E7%89%88%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+简洁、现代的 3:2 横向排版旅行海报。“NEW YORK” 这几个字——七个大号、粗体、大写几何无衬线字母排成一行（如果平衡感更好，也可以将“NEW”堆叠在“YORK”上方）——横跨整个宽度，构成了整个画面。每个插图元素都严格置于字母轮廓“内部”，仿佛每个字母都是从白纸上剪下的窗口，露出里面的场景；没有任何元素溢出字母轮廓。字母外部：纯净、空旷、平坦的白色背景——没有物体，没有投影，没有装饰。——每个字母内的填充内容（符合纽约实际，并剪裁至字母形状内）—— N：自由女神像——高举火炬，沿着 N 的一条竖线站立。E：堆叠的曼哈顿褐砂石建筑立面，消防梯嵌套在三个横杠中。W：布鲁克林大桥——其两座哥特式石拱门和悬索横跨 W 的锯齿形状，下方是东河上的一艘小船。Y：帝国大厦——装饰艺术风格的尖顶被 Y 的分叉处环抱。O：圆环框住时代广场——发光的广告牌、一辆黄色出租车、一群匆忙的行人。R：熨斗大厦独特的三角形楔形轮廓位于 R 内部。K：中央公园的绿地和世界贸易中心一号大楼的尖顶沿着 K 的对角线切割；底部有一辆地铁车厢。小型的城市细节（黄色出租车、带有淡淡蒸汽的热狗摊、鸽子、地铁标志、漂浮的云朵）仅出现在字母内部合适的位置。保持“NEW YORK”的完全可读性。—— 风格 —— 优雅的扁平矢量插图，清晰的几何形状，极简细节，干净的轮廓，微妙的阴影仅包含在字母内部。有限的调色板：深海军蓝、暖奶油色、柔和的红色、柔和的灰蓝色——仅在出租车/时代广场光芒处使用克制的暖黄色点缀。下方可选极简标语，采用宽间距小写大写字母：“THE CITY THAT NEVER SLEEPS”，纤细且低调。完美平衡的居中构图。高级扁平矢量，极简旅行海报，几何插图，编辑旅游品牌，干净的排版，高对比度，超清晰线条，博物馆级印刷，可缩放 SVG 美学，8K。
+
+[English]
+Clean, modern typographic travel poster in a 3:2 landscape format. The words "NEW YORK" — seven large, bold, uppercase geometric sans-serif letters set on a single line (or "NEW" stacked above "YORK" if better balanced) — span the full width and ARE the entire composition. Every illustrated element lives strictly INSIDE the letterforms, as if each letter is a window cut out of white paper revealing a scene; nothing spills outside the letter silhouettes. Outside the letters: pure, empty, flat white background — no objects, no cast shadows, no decoration. — WHAT FILLS EACH LETTER (NYC-accurate, clipped to the letter shape) — N : the Statue of Liberty — standing torch raised, following one vertical of the N. E : stacked Manhattan brownstone facades with fire escapes nested in the three horizontal bars. W : the Brooklyn Bridge — its two Gothic stone arches and suspension cables spanning the W's zig-zag, a small boat on the East River below. Y : the Empire State Building — the Art-Deco spire cradled in the fork of the Y. O : the ring frames Times Square — glowing billboards, a yellow taxi cab, a scramble of tiny pedestrians. R : the Flatiron Building's distinctive triangular wedge silhouette inside the R. K : Central Park greenery and the One World Trade Center spire slicing along the K's diagonals; a subway car along the base. Small city details (a yellow cab, a hot-dog cart with faint steam, a pigeon, a subway roundel, drifting clouds) appear ONLY where they fit within a letter's interior. Keep full legibility of "NEW YORK". — STYLE — Elegant flat vector illustration, crisp geometric shapes, minimal detail, clean outlines, subtle shadows contained inside the letters only. Limited palette: deep navy, warm cream, muted red, soft gray-blue — a restrained warm-yellow accent used ONLY on the taxis / Times Square glow. Optional minimal tagline beneath in wide-spaced small capitals: "THE CITY THAT NEVER SLEEPS", thin and understated. Perfectly balanced centered composition. premium flat vector, minimalist travel poster, geometric illustration, editorial tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, scalable SVG aesthetic, 8K.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2073255273654013966) | 2026-07-04
+
+---
+
+### 🎴 例 3238：Nike Vision 运动系列宣传海报
+
+![Nike Vision 运动系列宣传海报](../../images/Nike%20Vision%20%E8%BF%90%E5%8A%A8%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+担任一名资深商业体育艺术总监，专注于 {argument name="brand name" default="Nike Vision"}、Oakley 及各大顶级运动品牌的全球推广活动。
+
+为 {argument name="brand name" default="Nike Vision"} 高性能运动太阳镜创作一张超高端社交媒体宣传海报，画面中需包含佩戴该产品的运动员。
+
+图像意图：
+一张来自 Nike 全球宣传活动的旗舰级主视觉图。画面应呈现出为奥运级体育广告拍摄的顶级商业广告牌质感。
+
+格式：
+竖版 4:5
+体育产品社交媒体海报
+8K 超高清细节
+
+目标：
+将 Nike Vision 定位为专为速度、专注力、反应力及运动统治力而设计的顶级高性能眼镜。
+
+艺术指导：
+极具冲击力的顶级运动写实风格。超纯净的商业摄影质感。极简但极具张力。全球顶级宣传活动水准。Behance 首页级品质。
+
+宣传核心：
+速度、专注、精准、反应、统治力
+
+运动员原型（关键）：
+奥运级短跑运动员。爆发力十足的精瘦肌肉型身材。低体脂。颈部与下颌线条紧绷。充满运动表现力的面部轮廓。
+
+主体构图：
+运动员胸部以上的极度特写肖像。运动员占据画面 80% 的比例。太阳镜是面部的视觉焦点。
+
+核心产品：
+Nike Vision 环绕式高性能太阳镜。大尺寸空气动力学镜片，极具侵略性的棱角镜框，镜腿处有明显的 Nike Swoosh 标志，轻量化顶级运动员工程设计。
+
+面部状态：
+专注而强烈的表情。双唇微张，呈现受控的呼吸感。眼神高度集中。赛前的心理强度。
+
+皮肤微细节（关键）：
+超写实皮肤纹理。可见毛孔。细微的脸部绒毛。自然的皮肤瑕疵。逼真的次表面散射效果。真实的汗水质感：微小的汗珠、太阳穴处的湿润感、额头的汗水、冷凝高光、颈部的光泽。拒绝塑料感皮肤。
+
+产品微细节：
+碳纤维镜框纹理。橡胶防滑镜腿。镜面镀膜。锐利的边缘反射。超精细的镜框细节。
+
+镜片反射叙事（最重要）：
+镜片反射出体育场泛光灯下的短跑赛道。可见：赛道标线、光线拉伸压缩感、微妙的运动员剪影反射、运动能量线条。反射效果必须具备电影感且符合物理规律。
+
+环境：
+高端模糊的运动场背景。抽象的深色运动环境。深邃的大气压缩感。无杂乱元素。
+
+灯光：
+英雄式体育灯光。硬朗的白色主光。强烈的轮廓光勾勒面部边缘。{argument name="accent color" default="Volt"} 色调的强调光。锐利的镜片高光。深邃的高级对比度。
+
+色彩系统：
+主色：哑光黑 #111111
+辅助色：白色、金属银
+强调色：Nike Volt #D7FF00，电光蓝反射
+
+排版安全区：
+大面积简洁的标题区域。
+标题：{argument name="headline" default="SEE FASTER."}
+副标题：ENGINEERED FOR REACTION.（为反应而生。）
+
+后期处理：
+微对比度锐化、商业级修图、微妙的柔光效果、清晰的镜片增强、高端广告牌质感
+
+品质：
+超写实
+
+[English]
+Act as a senior commercial sports art director specializing in global performance campaigns for {argument name="brand name" default="Nike Vision"}, Oakley, and elite athletic brands.
+
+Create an ultra-premium social media campaign poster for {argument name="brand name" default="Nike Vision"} performance sport sunglasses with a human athlete wearing the product.
+
+IMAGE INTENT:
+A flagship hero frame from a global Nike campaign. The image should feel like a premium commercial billboard photographed for Olympic-level sports advertising.
+
+FORMAT:
+Vertical 4:5
+Sports product SMM poster
+8K ultra-detailed
+
+OBJECTIVE:
+Position Nike Vision as elite performance eyewear engineered for speed, focus, reaction, and athletic dominance.
+
+ART DIRECTION:
+Aggressive premium sports realism. Hyper-clean commercial photography. Minimal but extremely powerful. Global campaign quality. Behance front-page quality.
+
+CAMPAIGN DNA:
+Speed, Focus, Precision, Reaction, Dominance
+
+ATHLETE ARCHETYPE (CRITICAL):
+Elite Olympic sprinter. Explosive lean muscular build. Low body fat. Visible neck and jaw tension. Performance-driven facial anatomy.
+
+SUBJECT COMPOSITION:
+Extreme close-up athlete portrait from chest upward. Athlete occupies 80 percent of frame. Sunglasses dominate facial focal point.
+
+HERO PRODUCT:
+Nike Vision wraparound performance sunglasses. Large aerodynamic shield lens, aggressive angular frame, visible Nike swoosh on temple, lightweight elite athlete engineering
+
+FACIAL ENERGY:
+Intense focused expression. Slightly parted lips for controlled breathing. Locked visual concentration. Pre-race mental intensity.
+
+SKIN MICRODETAIL (CRITICAL):
+Hyper-real skin texture. Visible pores. Micro facial hair. Natural skin imperfections. Realistic subsurface scattering. Sweat realism: micro sweat beads, temple moisture, forehead perspiration, condensation highlights, neck sheen. No plastic skin.
+
+PRODUCT MICRODETAIL:
+Carbon fiber frame texture. Rubber grip temples. Mirror lens coating. Sharp edge reflections. Ultra-clean frame detailing.
+
+LENS REFLECTION NARRATIVE (MOST IMPORTANT):
+Lens reflections show sprint track lanes under stadium floodlights. Visible: track lane markings, light streak compression, subtle athlete silhouette reflection, motion energy lines. Reflections must feel cinematic and physically correct.
+
+ENVIRONMENT:
+Premium blurred performance stadium. Abstract dark sports environment. Deep atmospheric compression. No clutter.
+
+LIGHTING:
+Hero sports lighting. Hard white key light. Strong rim light tracing facial edges. {argument name="accent color" default="Volt"} accent glow. Sharp specular lens highlights. Deep premium contrast.
+
+COLOR SYSTEM:
+Primary: Matte Black #111111
+Support: White, Metallic Silver
+Accent: Nike Volt #D7FF00, Electric Blue reflections
+
+TYPOGRAPHY SAFE ZONES:
+Large clean headline zone.
+Headline: {argument name="headline" default="SEE FASTER."}
+Subheadline: ENGINEERED FOR REACTION.
+
+POST PROCESS:
+Micro contrast sharpening, Commercial retouching, Subtle bloom, Crisp lens enhancement, Premium billboard finish
+
+QUALITY:
+Hyper-realistic
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2073239220756627727) | 2026-07-04
+
+---
+
+### 🎴 例 3240：奢华时尚杂志封面
+
+![奢华时尚杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华的高级时尚杂志封面，由 {argument name="subject" default="[你的脸]"} 担任模特。采用受 Dior 启发的极简美学，搭配 {argument name="background color" default="暖炭灰色"} 的高级摄影棚背景。模特居中站立，头部微低，双手随意插在夹克口袋中，营造出冷静、神秘且优雅的氛围。浓密的深色质感头发，柔和的自然肤质，表情放松。身穿一件高级超大款深棕色麂皮飞行员夹克，内搭黑色圆领衫，下穿剪裁利落的黑色长裤。前景中突出展示一朵 {argument name="flower type" default="超大白色牡丹花"}，增添艺术奢华时尚元素。柔和的漫射摄影棚光线，细腻的电影感阴影，浅景深，柔和的大地色调，Vogue 级高级时尚摄影，超逼真皮肤纹理，清晰的织物细节，奢华编辑构图，居中取景，留白处理，85mm 镜头，f/1.8，照片级真实感，8K，HDR，杰作，杂志封面设计。模特身后配有大型优雅的白色衬线标题，呈现经典奢华时尚杂志风格，排版简洁，无额外文字，无水印。
+
+[English]
+Create a luxury high fashion editorial magazine cover featuring {argument name="subject" default="[YOUR FACE]"} as the model. Minimalist Dior-inspired aesthetic with a premium studio backdrop in {argument name="background color" default="warm charcoal gray"}. The subject stands centered with head slightly bowed, hands casually in jacket pockets, creating a calm, mysterious, and elegant mood. Thick textured dark hair, soft natural skin, relaxed expression. Wearing a premium oversized dark brown suede bomber jacket over a black crew neck shirt and tailored black trousers. A single {argument name="flower type" default="oversized white peony flower"} stands prominently in the foreground, adding an artistic luxury fashion element. Soft diffused studio lighting, subtle cinematic shadows, shallow depth of field, muted earthy color palette, premium Vogue-quality fashion photography, ultra realistic skin texture, crisp fabric details, luxury editorial composition, centered framing, negative space, 85mm lens, f/1.8, photorealistic, 8K, HDR, masterpiece, magazine cover design. Large elegant white serif title positioned behind the subject in classic luxury fashion magazine style, clean typography, no extra text, no watermark.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2073234519730294997) | 2026-07-04
+
+---
+
+### 🎴 例 3241：Last Minute Bar 足球广告海报
+
+![Last Minute Bar 足球广告海报](../../images/Last%20Minute%20Bar%20%E8%B6%B3%E7%90%83%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款名为 {argument name="product name" default="LAST MINUTE BAR"} 的虚构足球能量棒创作一张极具视觉冲击力的竖版电影感广告海报，主题围绕补时阶段、爆发速度以及最终的制胜一球。
+
+画布：竖版 3:4 海报，采用深色球场背景，色调为强烈的橙色、金色和黑色。使用戏剧性的商业灯光、镜头光晕、火花、发光的余烬和运动轨迹。整体氛围应呈现出高端体育商业主视觉的效果。
+
+布局：在顶部右上角放置一个小的白色 Logo，文字为 {argument name="brand logo" default="Pollo.ai"}。在上半部分，添加一行巨大的粗体日语标题，采用厚实的块状字体：{argument name="headline text" default="最後の一歩に、火をつけろ。"}。标题应为灰白色，带有金色纹理和阴影，并略微倾斜以体现能量感。在标题后方，展示一个发光的球场时钟图案，顶部为罗马数字 XII，数字记分牌显示为“0:0”，时钟指针指向最后时刻。
+
+核心产品：海报中心放置一个巨大的横向黑色能量棒包装，悬浮在前景中。包装应具有光泽感的褶皱塑料边缘、锯齿状密封端、火橙色和红色的速度线、像彗星一样燃烧的足球以及时钟表盘图形。在包装上，以非常大的斜体压缩运动字体显示产品名称 {argument name="product name" default="LAST MINUTE BAR"}，“LAST MINUTE”为白色，“BAR”为橙红色渐变。在包装上包含两个小的英文标注：“FINAL BOOST ENERGY”和“FOR THE LAST PLAY”。在包装右侧，展示能量棒被咬开一部分的样子：可见巧克力涂层和松脆的坚果焦糖内馅。画面中仅限一个能量棒包装和一个被咬开的切面。
+
+背景动作：在下半部分，描绘一个挤满观众的夜间足球场，充满了橙色的观众席灯光。球场上准确显示 8 名足球运动员：一名身穿黑色球衣、背号为 10 的核心球员背对镜头，以英雄姿态站在球前；左侧有 3 名球员处于奔跑或防守位置；右侧有 4 名球员呈分散的进攻/防守剪影。仅使用虚构的队服，不得使用真实的球队徽章或可辨认的球员。在核心球员脚下放置一个足球。
+
+底部文字：在底部，添加一个巨大的标题“LAST MINUTE BAR”，使用高大的橙金色压缩字体，下方配以较小的间距副标题 {argument name="tagline" default="FINAL BOOST ENERGY"}。在副标题周围添加细的装饰性水平线。
+
+视觉风格：照片级真实感的产品广告合成，具有电影感体育海报的能量，超清晰的产品焦点，戏剧性的景深，发光的橙色球场灯光，火热的颗粒感，高对比度，高端零食包装设计，背景带有动态运动模糊，但文字和包装保持清晰锐利。
+
+约束条件：仅使用虚构的品牌和虚构的体育意象。不得包含真实的球队 Logo、真实运动员、官方赛事标志或额外产品。确保所有可见文字清晰可读，且仅限于指定的标题、Logo、包装文案、记分牌以及底部的标题/副标题。
+
+[English]
+Goal: Create a high-impact vertical cinematic advertising poster for a fictional soccer energy bar called {argument name="product name" default="LAST MINUTE BAR"}, themed around stoppage time, explosive speed, and a final game-winning play.
+
+Canvas: Vertical 3:4 poster, dark stadium background with intense orange, gold, and black color grading. Use dramatic commercial lighting, lens flares, sparks, glowing embers, and motion streaks. The overall mood should feel like a premium sports commercial key visual.
+
+Layout: At the top, place a small white logo reading {argument name="brand logo" default="Pollo.ai"} in the upper right. Across the top half, add a huge bold Japanese headline in thick block lettering: {argument name="headline text" default="最後の一歩に、火をつけろ。"}. The headline should be off-white with gold texture and shadow, angled slightly for energy. Behind it, show a glowing stadium clock motif with Roman numeral XII at the top, a digital scoreboard reading exactly “0:0”, and a clock hand pointing near the final minute.
+
+Main product: Center the poster with one large horizontal black energy bar wrapper, floating in the foreground. The wrapper should have glossy crinkled plastic edges, serrated sealed ends, fiery orange and red speed lines, a soccer ball blazing like a comet, and clock-dial graphics. On the wrapper, display the product name {argument name="product name" default="LAST MINUTE BAR"} in very large italic condensed sports typography, white for “LAST MINUTE” and orange-red gradient for “BAR”. Include two small English callouts on the wrapper: “FINAL BOOST ENERGY” and “FOR THE LAST PLAY”. On the right side of the wrapper, show the bar partially bitten open: chocolate coating and a crunchy nut-and-caramel interior visible. Count exactly one energy bar package and exactly one exposed bitten bar end.
+
+Background action: In the lower half, depict a packed night soccer stadium filled with orange glowing crowd lights. Show exactly eight soccer players on the field: one central player in black kit with number 10, seen from behind, standing over the ball in a heroic pose; three players on the left side in mid-run or defensive positions; and four players on the right side in scattered attacking/defensive silhouettes. Use fictional uniforms only, no real team crests or recognizable players. Place one soccer ball at the central player’s feet.
+
+Bottom text: At the bottom, add a large title reading “LAST MINUTE BAR” in tall orange-gold condensed letters, with a smaller spaced subtitle underneath reading {argument name="tagline" default="FINAL BOOST ENERGY"}. Add thin decorative horizontal lines around the subtitle.
+
+Visual style: Photorealistic product-ad composite with cinematic sports-poster energy, ultra-sharp product focus, dramatic depth of field, glowing orange stadium lights, fiery particles, high contrast, premium snack packaging design, dynamic motion blur around the background but crisp typography and wrapper.
+
+Constraints: Use only fictional branding and fictional sports imagery. Do not include real team logos, real athletes, official tournament marks, or extra products. Keep all visible text legible and limited to the specified headline, logo, wrapper copy, scoreboard, and bottom title/subtitle.
+```
+
+**来源：** [@むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art/status/2073232754481959051) | 2026-07-04
+
+---
+
+### 🎴 例 3244：《算法迷雾之城》电影海报
+
+![《算法迷雾之城》电影海报](../../images/%E3%80%8A%E7%AE%97%E6%B3%95%E8%BF%B7%E9%9B%BE%E4%B9%8B%E5%9F%8E%E3%80%8B%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有国际水准的电影海报，片名为“{argument name="title" default="Algorithm Fog City"}”。使其看起来像是一张精心设计、达到电影节级别的科幻惊悚海报：画面呈现一座被浓雾淹没的超级城市，前景下方有一个孤独的身影，一个巨大的半透明人类侧脸与发光的数据流及预测界面图形相融合，{argument name="atmosphere" default="冷峻的蓝灰色调"}，并点缀着微妙的 {argument name="accent color" default="琥珀色 UI 元素"}，标题采用戏剧性的垂直排版，具备高级影院级的构图、逼真的光影、浓厚的氛围感以及精致的高端电影海报质感。
+
+[English]
+Create an international-quality cinematic movie poster for a film titled "{argument name="title" default="Algorithm Fog City"}." Make it look like a masterfully designed festival-grade sci-fi thriller poster: a fog-drowned megacity, a lone figure in the lower foreground, a giant translucent human profile merged with glowing data streams and prediction-interface graphics, {argument name="atmosphere" default="cold blue-gray atmosphere"} with subtle {argument name="accent color" default="amber UI accents"}, dramatic vertical typography for the title, premium theatrical composition, realistic lighting, dense atmospheric depth, and polished high-end film poster design.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073207584186941903) | 2026-07-04
+
+---
+
