@@ -1659,3 +1659,21 @@ They are situated in a magical, lush garden. Behind them is a beautiful archway 
 
 ---
 
+### 🏛️ 例 3253：动漫水族馆花园鳗日
+
+![动漫水族馆花园鳗日](../../images/%E5%8A%A8%E6%BC%AB%E6%B0%B4%E6%97%8F%E9%A6%86%E8%8A%B1%E5%9B%AD%E9%B3%97%E6%97%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，背景设定在现代公共水族馆内，时间为 {argument name="date text" default="11月11日"} 的早晨。画面中展示两名主角站在巨大的弧形玻璃水缸前，缸内充满蓝色的水、岩礁构造、明亮的焦散阳光、零星的小鱼剪影，以及 16 条清晰可见的斑点花园鳗从沙底探出。左侧是一位高挑温柔的奶牛娘角色，名为 {argument name="character name" default="Muumuu Bell"}：留着极长的淡薰衣草白发，发梢为青绿色，长有小巧的棕色牛角和牛耳，金棕色双眸，带着温柔好奇的微笑，一根手指轻触嘴边，颈部挂着巨大的金色牛铃，身穿无袖奶牛纹上衣，搭配蓝色滚边的浅色短裤或迷你裙，穿着白色奶牛纹过膝袜，肩上披着一件黑色大码外套，身后有一条末端带有黑色绒毛的细长牛尾。右侧是一位身材较矮、充满冒险精神的猫/狼耳少年：留着沙金色短发，琥珀色双眼，长有兽耳和毛茸茸的棕色尾巴，身穿深棕色探险外套，系着红围巾，戴着黑色手套，腰间配有工具腰带、小包、背包及小型工具，背上绑着一把长枪状的道具；他正兴奋地指向花园鳗。左上方包含一个温暖发光的圆角标牌，上面印有日文：大标题为 {argument name="sign title" default="穴子の日"}，上方有较小的日期，配有一个简单的鳗鱼图标，以及一行意为“重新发现花园鳗的魅力”的小字副标题。在右下角的水族馆地面或玻璃区域，添加手写的白色日文问候语 {argument name="greeting text" default="おはよう"}，旁边画有一个小太阳涂鸦。采用电影级构图，利用水缸的柔和轮廓光，细腻的动漫渲染，生动的表情，高细节的服装配饰，营造水族馆氛围，深蓝色背景，温暖的标牌光效，无水印，无多余角色。
+
+[English]
+Create a polished anime-style vertical illustration set inside a modern public aquarium on the morning of {argument name="date text" default="11月11日"}. Show exactly two main characters standing in front of a huge curved glass tank filled with blue water, rocky reef formations, bright caustic sunlight, scattered tiny fish silhouettes, and exactly 16 visible spotted garden eels rising from the sandy bottom. On the left is a tall gentle cow-girl character named {argument name="character name" default="Muumuu Bell"}: very long pale lavender-white hair with turquoise tips, small tan cow horns, cow ears, golden-brown eyes, a soft curious smile, one finger near her mouth, a large gold cowbell at her neck, a sleeveless white cow-print top, pale shorts or mini skirt with blue trim, white thigh-high cow-print stockings, a black oversized jacket slipping off her shoulders, and a thin cow tail with a black tuft. On the right is a shorter adventurous cat/wolf-eared boy: sandy blond hair, amber eyes, animal ears, fluffy brown tail, dark brown expedition coat, red scarf, black gloves, utility belts, pouches, backpack, small tools, and a long rifle-like prop strapped to his pack; he points excitedly toward the garden eels. Include a warm glowing sign in the upper left with rounded corners and Japanese text: large title {argument name="sign title" default="穴子の日"}, smaller top date, a simple eel icon, and a small subtitle meaning “rediscover the charm of garden eels.” Add handwritten white Japanese greeting text {argument name="greeting text" default="おはよう"} with a small sun doodle near the bottom right on the aquarium floor/glass area. Use cinematic composition, soft rim lighting from the tank, detailed anime rendering, expressive faces, high detail clothing accessories, aquarium ambience, deep blue background, warm sign light, no watermark, no extra characters.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2073591223454249366) | 2026-07-05
+
+---
+

@@ -1503,7 +1503,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (1254)
+## 📷 [Photography & Realistic](cat-photo.md) (1258)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -3937,6 +3937,14 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 3247: 日系清晨人像美学](cat-photo.md#-例-3247日系清晨人像美学)
 
 - [Case 3249: 知识分子的忧郁肖像](cat-photo.md#-例-3249知识分子的忧郁肖像)
+
+- [Case 3250: 午后暖阳休闲风人像](cat-photo.md#-例-3250午后暖阳休闲风人像)
+
+- [Case 3251: 单色轮廓光剪影肖像](cat-photo.md#-例-3251单色轮廓光剪影肖像)
+
+- [Case 3252: 海边咖啡馆日落人像](cat-photo.md#-例-3252海边咖啡馆日落人像)
+
+- [Case 3254: 明亮海滨夏日漫步肖像](cat-photo.md#-例-3254明亮海滨夏日漫步肖像)
 ---
 
 <a id="illustration"></a>
@@ -5085,7 +5093,7 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (79)
+## 🏛️ [Architecture & Space](cat-architecture.md) (80)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -5235,6 +5243,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 3197: 蕾丝花园装扮的动漫少女](cat-architecture.md#️-例-3197蕾丝花园装扮的动漫少女)
 
 - [Case 3203: 浪漫花园玫瑰献礼](cat-architecture.md#️-例-3203浪漫花园玫瑰献礼)
+
+- [Case 3253: 动漫水族馆花园鳗日](cat-architecture.md#️-例-3253动漫水族馆花园鳗日)
 ---
 
 <a id="comic"></a>
