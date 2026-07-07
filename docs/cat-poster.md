@@ -15136,3 +15136,390 @@ Create an international-quality cinematic movie poster for a film titled "{argum
 
 ---
 
+### 🎴 例 3265：朋克杂志风格 Grunge 海报
+
+![朋克杂志风格 Grunge 海报](../../images/%E6%9C%8B%E5%85%8B%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%20Grunge%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张粗犷的编辑类 Grunge 街头艺术海报，垂直 4:5 比例。艺术作品采用全出血设计，完全填满画面边缘：纹理背景、颗粒感以及 {argument name="accent color" default="red"} 元素延伸至所有四个外边缘，绝对没有白色边框、没有页边距、没有画框，也没有任何撕裂、磨损或毛边的纸张边缘——构图直接延伸至每一条边，没有任何内嵌。只有黑色的手写文字完全保留在画面内，完整且清晰可读，绝不被截断。画面主体为 {argument name="subject" default="a young person"} 的紧凑特写肖像，面部巨大且居中，占据了画面的大部分，展示了脸部和颈部直到颈部中段，底部边缘仅露出极小部分的肩部顶端，头部向后倾斜并略微向上，呈现出戏剧性的姿态，以高对比度的黑白灰度渲染，带有深邃的压碎阴影和过曝的高光。一条粗大、鲜艳的 {argument name="censor bar color" default="red"} 喷漆遮挡条横向扫过眼睛。一个原始的手绘 [COLOR] 笔触轮廓像粗糙的光环一样凌乱地勾勒出头部轮廓，颈部覆盖着松散的 [COLOR] 涂鸦和波浪线。整个背景和所有空白处都覆盖着粗犷的有机喷涂颗粒纹理——细小、粗糙、不规则的斑点，如同细微的喷漆雾、模拟胶片颗粒和粉笔点随机散布，均匀且密集地覆盖整个表面，没有平滑的空白间隙，但斑点本身是有机的、随机且粗糙的，不是圆形的机械半色调点，也不是整齐的规则图案——就像沉淀在粗糙纹理纸张上的颗粒状喷漆微粒，整体密度一致，但颗粒本身自然且不规则。纸张纹理和印刷瑕疵在图像内保持平整，没有可见的纸张边缘或边框。超大、扭曲的黑色手写笔触字体，总共约 7 到 8 个短词，混乱地散布在头部上方、左侧和右侧——文字以多种不同的角度排列，有的水平，有的垂直，有的旋转倾斜，以一种无序且充满活力的朋克杂志布局重叠并凌乱地环绕在头部周围，而不是整齐的行或对齐的列，颈部周围的下部区域保持无文字状态。左上角有一个源自主体姓名/首字母的小型标志或字母组合。单色肖像，配以单一鲜艳的 [COLOR] 强调色。氛围：野兽派、原始、触感、模拟、编辑感。
+
+[English]
+A gritty editorial grunge street-art poster, vertical 4:5 format. The artwork completely fills the frame edge-to-edge as a full-bleed design: the textured background, grain and {argument name="accent color" default="red"} elements extend all the way to all four outer edges with absolutely NO white border, NO margin, NO frame, and NO torn, ripped, deckled or distressed paper edge around the design — the composition runs straight off every edge with nothing inset. Only the black hand-lettered words stay fully inside the frame, complete and readable, never cut off. A single tight close-up portrait of {argument name="subject" default="a young person"}, the face large and centered filling most of the frame, showing the face and neck down to about mid-neck, with only a tiny sliver of the very top of the shoulders visible at the very bottom edge, head tilted back and slightly upward in a dramatic pose, rendered in high-contrast black-and-white grayscale with deep crushed shadows and blown-out highlights. A thick, vivid {argument name="censor bar color" default="red"} spray-painted censor bar is swiped horizontally across the eyes. A raw hand-painted [COLOR] brush outline traces messily around the silhouette of the head like a rough halo, with loose [COLOR] scribbles and squiggles overlaid across the neck. The entire background and all empty white space is covered in a gritty organic sprayed grain texture — fine rough irregular specks like fine spray-paint mist, analog film grain and chalky stipple scattered randomly, evenly dense across the whole surface with no smooth blank gaps, but the specks themselves are organic, random and rough, NOT round mechanical halftone dots and NOT a neat regular pattern — like grainy spray particles settled on rough textured paper, consistent in overall density but natural and irregular in the grain itself. The paper texture and print imperfections stay flat within the image with no visible paper edge or border. Oversized warped hand-lettered brush-stroke typography in black paint, only about 7 to 8 short words total, is scattered chaotically around the top, left and right of the head — words set at many different angles, some horizontal, some vertical, some rotated and tilted, overlapping and wrapping messily around the head in a disordered energetic punk zine layout rather than neat rows or aligned columns, while the lower area around the neck stays free of lettering. A single small logo mark or monogram in the top-left corner, derived from the subject's name/initial. Monochrome portrait with a single vivid [COLOR] accent color. Mood: brutalist, raw, tactile, analog, editorial.
+```
+
+**来源：** [@ΛRMIN](https://x.com/Arminn_Ai/status/2074179172109586923) | 2026-07-06
+
+---
+
+### 🎴 例 3270：熔岩巧克力甜点咖啡馆广告
+
+![熔岩巧克力甜点咖啡馆广告](../../images/%E7%86%94%E5%B2%A9%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%94%9C%E7%82%B9%E5%92%96%E5%95%A1%E9%A6%86%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand name" default="THE COCOA KITCHEN"} 创建一张方形的写实风格餐厅甜点广告。画面中，一位留着棕色齐肩短发、身穿暖色调铁锈棕色罗纹毛衣的年轻女性面带微笑，坐在温馨咖啡馆的乡村风木桌前，背景是模糊的食客、温暖的焦外成像灯光和绿植，并采用浅景深效果。她正开心地低头看着，手中拿着一把勺子悬在一份盛在罗纹烤盅里的巧克力舒芙蕾或熔岩蛋糕上方；浓稠光亮的巧克力酱正从勺子中滴落到甜点中心，并顺着甜点前侧溢出。甜点放置在一块长方形黑色石板项目上，上面撒有可可粉和糖粉。在甜点右侧放置三颗覆盆子和少量薄荷叶作为装饰，桌子左侧边缘可见折叠的餐巾纸和餐具。广告布局包含四个可见的文本元素：左上角堆叠的白色衬线字体 Logo，内容为 {argument name="brand name" default="THE COCOA KITCHEN"}；顶部横跨的大号加粗压缩全大写白色标题，内容为 {argument name="headline text" default="MELT FOR THIS."}；右上角带有细金边和金色文字的深色圆形徽章，内容为 {argument name="offer text" default="LIMITED TIME OFFER: 20% OFF!"}；底部居中的青色圆角行动呼吁按钮，带有白色文字 {argument name="button text" default="ORDER NOW"} 以及一个包含向右箭头图标的小型白色圆角正方形。使用高级美食摄影布光、温暖的电影级调色，人物和甜点焦点清晰，背景虚化柔和，巧克力质感诱人，手部细节真实，构图简洁专业。无额外文字，无水印，无变形排版。
+
+[English]
+Create a square photorealistic restaurant dessert advertisement for {argument name="brand name" default="THE COCOA KITCHEN"}. Show one smiling young woman with shoulder-length brown hair wearing a warm rust-brown ribbed sweater, seated at a rustic wooden table in a cozy café with blurred diners, warm bokeh lights, greenery, and shallow depth of field. She is looking down happily while holding one spoon above a single small chocolate soufflé or molten cake in a ribbed ramekin; thick glossy chocolate sauce is dripping from the spoon into the center and overflowing down the front of the dessert. The dessert sits on one rectangular black slate serving board dusted with cocoa powder and powdered sugar. Include exactly three raspberries and a small mint garnish to the right of the dessert, plus a folded napkin and cutlery partially visible on the left edge of the table. Layout the ad with four visible text elements: top-left stacked white serif logo text reading {argument name="brand name" default="THE COCOA KITCHEN"}; large bold condensed all-caps white headline across the top reading {argument name="headline text" default="MELT FOR THIS."}; upper-right dark circular badge with a thin gold outline and gold text reading {argument name="offer text" default="LIMITED TIME OFFER: 20% OFF!"}; bottom-center teal rounded call-to-action button with white text reading {argument name="button text" default="ORDER NOW"} and a small white rounded square containing a right arrow icon. Use premium food photography lighting, warm cinematic color grading, crisp focus on the woman and dessert, soft background blur, appetizing chocolate texture, realistic hands, and clean commercial composition. No extra text, no watermark, no distorted typography.
+```
+
+**来源：** [@TypingMind](https://x.com/TypingMindApp/status/2074147357482959081) | 2026-07-06
+
+---
+
+### 🎴 例 3274：复古故障风时尚海报
+
+![复古故障风时尚海报](../../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版时尚编辑海报，场景设定在氛围感十足的复古唱片店室内，展现两位魅力十足的年轻女性亲密合影，营造出微醺、柔和黑色电影感及故障美学的氛围。
+
+画布：竖版 3:4 人像构图，类似于杂志封面或社交媒体海报，采用温暖的低调照明，带有细腻的胶片颗粒感，色调为略微去饱和的棕色和柔和的灰色，呈现高细节的写实摄影效果，并叠加风格化的粉笔手写文字。
+
+主体：2 位年轻女性，皮肤白皙透亮，妆容精致，双眼大而有神，嘴唇红润柔软，留着凌乱的长波浪深棕色卷发。两人均身穿宽松的露肩灰色短款 T 恤，隐约可见黑色印花字母。左侧女性位置稍靠前且略低，身体前倾靠近镜头，双手在身前交叠；身穿酒红色亮面百褶短裙，佩戴黑色叠层手环，腰间有精致的链条装饰。右侧女性位置稍靠后且较高，单肩微露，头部自信地向观众倾斜；身穿灰色牛仔短裤，配有金属链条饰品，一只手插在腰间。她们的表情应显得亲密、迷离、迷人且具有电影感，仿佛是彻夜狂欢后在温暖的日光下被抓拍的瞬间。
+
+场景：舒适的复古音乐室或黑胶唱片店，配有深色木镶板、货架、装裱的专辑封面、墙上可见的黑胶唱片，以及低矮货架上的小罐子或物品。使用戏剧性的侧光，在左侧墙壁上投下强烈的阴影，并在皮肤和头发上形成温暖的高光。
+
+图形文字叠加：添加 4 组手绘粉笔/蜡笔风格的标语，采用做旧的大写字母，白色与芥末黄交替，带有粗糙的下划线和细小的故障条纹。4 组文字分别为：1) 左上角：白色的“DAYLIGHT”位于黄色的“STATIC”上方，带有白色/黄色水平划痕；2) 右上角：白色的“MELLOW”位于黄色的“GLOW”上方，带有白色下划线；3) 左下角：白色的“SOFT”位于黄色的“NOIR”上方，带有白色下划线及下方的一个黄色小爱心涂鸦；4) 右下角：白色的“GLITCH”位于黄色的“BLOOM”上方，带有黄色划痕、白色下划线及下方的一个黄色小星星涂鸦。文字需保持清晰但带有不完美的手写海报质感。
+
+可自定义细节：左侧标语应为 {argument name="top left slogan" default="DAYLIGHT STATIC"}；右上角标语应为 {argument name="upper right slogan" default="MELLOW GLOW"}；左下角标语应为 {argument name="lower left slogan" default="SOFT NOIR"}；右下角标语应为 {argument name="lower right slogan" default="GLITCH BLOOM"}；整体时尚氛围应为 {argument name="fashion mood" default="tipsy soft-noir glitch bloom"}。
+
+约束条件：保持恰好 2 位女性，恰好 4 组标语，总共恰好 2 个涂鸦（1 个爱心和 1 个星星），不得出现额外人物、水印、Logo 或整洁的数字 UI 元素。使其看起来像是一张高端写实时尚摄影作品与粗犷模拟海报标记的结合体。
+
+[English]
+Goal: Create a vertical editorial fashion poster in a moody retro record-shop interior, featuring two glamorous young women posing close together with a tipsy, soft-noir, glitch-aesthetic mood.
+
+Canvas: Vertical 3:4 portrait composition, like a magazine cover or social media poster, warm low-key lighting, subtle film grain, slightly desaturated browns and muted grays, high-detail realistic photography with stylized chalk handwriting overlays.
+
+Main subjects: Exactly 2 young women with pale luminous skin, glossy makeup, large expressive eyes, soft reddish lips, and long messy wavy dark-brown hair. Both wear loose off-shoulder cropped gray T-shirts with partially visible black printed lettering. The left woman stands slightly forward and lower, leaning toward the camera with hands clasped down in front; she wears a burgundy glossy pleated mini skirt, black stacked wrist cuffs, and a delicate chain detail at the waist. The right woman stands slightly behind and taller, leaning in with one shoulder exposed, head tilted confidently toward the viewer; she wears gray denim shorts with metal chain accessories and one hand tucked at her waist. Their expressions should feel intimate, dazed, alluring, and cinematic, as if caught in warm daylight after a night out.
+
+Setting: A cozy vintage music room or vinyl record store with dark wood paneling, shelves, framed album covers, visible vinyl records on the wall, and small cans or objects on a low shelf. Use dramatic side lighting that creates strong shadows on the left wall and warm highlights on skin and hair.
+
+Graphic text overlays: Add exactly 4 hand-drawn chalk/crayon slogan clusters in distressed uppercase lettering, alternating white and mustard yellow, with rough underline strokes and small glitch streaks. The 4 visible text clusters are: 1) top left: "DAYLIGHT" in white above "STATIC" in yellow, with white/yellow horizontal scratch marks; 2) upper right: "MELLOW" in white above "GLOW" in yellow, with a white underline; 3) lower left: "SOFT" in white above "NOIR" in yellow, with a white underline and one small yellow heart doodle below; 4) lower right: "GLITCH" in white above "BLOOM" in yellow, with yellow scratch strokes, a white underline, and one small yellow star doodle. Keep the text legible but imperfect, like hand-scrawled poster typography.
+
+Customizable details: The left slogan should read {argument name="top left slogan" default="DAYLIGHT STATIC"}; the upper-right slogan should read {argument name="upper right slogan" default="MELLOW GLOW"}; the lower-left slogan should read {argument name="lower left slogan" default="SOFT NOIR"}; the lower-right slogan should read {argument name="lower right slogan" default="GLITCH BLOOM"}; the overall fashion mood should be {argument name="fashion mood" default="tipsy soft-noir glitch bloom"}.
+
+Constraints: Keep exactly 2 women, exactly 4 slogan clusters, exactly 2 doodles total consisting of 1 heart and 1 star, no extra people, no watermark, no logo, no clean digital UI elements. Make it look like a high-end realistic fashion photograph combined with rough analog poster marks.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2074133268061098150) | 2026-07-06
+
+---
+
+### 🎴 例 3276：中国立春节气海报
+
+![中国立春节气海报](../../images/%E4%B8%AD%E5%9B%BD%E7%AB%8B%E6%98%A5%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="solar term" default="立春"} 创作一张优雅的中国节气海报，结合传统工笔画、水墨山水美学及精致的编辑日历排版。
+
+画布：宽幅横向海报，16:9 比例，暖象牙色手工宣纸背景，带有细微纤维、淡淡的折痕和极浅的米色纹理。整体色调克制：墨灰、柔和的橄榄绿、淡桃粉、柔棕色及朱砂印章红。
+
+布局：构图中心为顶部巨大的极简中式标题“立春”，采用纤细优雅的宋体书法笔触。标题下方添加一行小诗：“律回岁晚冰霜少，春到人间草木知”，并配以较小的居中标题“中国传统节气”。在此下方，放置一个占据海报下三分之二的大型拱形窗框，内含主要的工笔山水景观。在文字和插图周围保留充足的留白。
+
+拱形内的主要插图：以中国传统工笔画风格绘制细腻的早春消融景观。包含 6 个核心自然元素：1) 从左下角伸入的梅花枝，带有粉色花朵和大量花苞；2) 枝干后方笼罩在薄雾中的淡灰色远山；3) 浅溪边消融的冰雪；4) 中心处一小堆深色泥土，冒出两株嫩绿新芽；5) 右上角垂下的带有新叶的柳枝；6) 右上方附近飞翔的一只燕子。使用精细的笔触、半透明的水彩渲染及写实的工笔细节，而非卡通风格。
+
+左侧信息块：在左上角，以灰色墨迹设置小型的竖排中式信息文本。包含 5 项内容：“二十四节气”、“之立春”、“2025 / 02 / 03”、“农历正月初六”以及“斗指寅·太阳黄经 315°”。在日期下方，绘制一个小型水平标尺，标注 0、15、30、45、60。
+
+右侧信息块：在右上角，绘制一个纤细的朱砂圆形印章，内含四个堆叠字符“立春 / 节气”。下方添加一个标题为“生活提示”的板块，配有一个红色小印章，随后是两列排列的 4 个短语：“早睡早起”、“顺应自然”、“多食辛甘”、“助阳养肝”，最后一行文字为“适度舒展，心怀温暖”。在最右侧，添加一列垂直的季节注释，包含 4 项内容，并以短红线分隔：“东风解冻”、“蛰虫始振”、“鱼陟负冰”，并额外增加一条细分隔线以增强节奏感。
+
+印章与细节：在拱形左下方添加一枚小型方形朱砂艺术家印章。保持所有排版纤细、精致且平衡。使用地道的中式海报间距、微妙的对齐引导，除简单的标尺线外，不使用任何现代图标。最终图像应呈现出关于 {argument name="theme" default="立春节气"} 的高端文化海报或 PPT 封面质感，体现中国古典美学。
+
+约束：仅使用指定的标题和可见的中文字符；不要添加额外的超大文字、Logo、水印、人物、建筑或鲜艳色彩。保持平静、通透、诗意的氛围，并注重工笔花鸟的细节。
+
+[English]
+Goal: Create an elegant Chinese solar-term poster for {argument name="solar term" default="立春"}, combining traditional gongbi painting, ink-wash landscape aesthetics, and a refined editorial calendar layout.
+
+Canvas: Wide horizontal poster, 16:9 ratio, warm ivory handmade rice-paper background with subtle fibers, faint creases, and very light beige texture. Overall palette is restrained: ink gray, muted olive green, pale peach pink, soft brown, and vermilion seal red.
+
+Layout: Center the composition around a large minimalist Chinese title “立春” at the top, written in thin, elegant Song-style calligraphy strokes. Beneath the title, add a small poetic line: “律回岁晚冰霜少  春到人间草木知”, with a smaller centered caption “中国传统节气”. Below this, place a large arched window frame occupying the lower two-thirds of the poster, containing the main gongbi landscape scene. Keep generous negative space around the text and illustration.
+
+Main illustration inside the arch: Paint a delicate early-spring thawing landscape in traditional Chinese fine-line style. Include exactly 6 major natural elements: 1) a flowering plum branch entering from the lower left with pink blossoms and many buds, 2) pale gray distant mountains in mist behind the branch, 3) melting snow and ice along a shallow stream, 4) a small mound of dark earth in the center with two fresh green shoots emerging, 5) drooping willow branches with new leaves hanging from the upper right, and 6) one swallow flying near the upper center-right. Use fine brush lines, translucent watercolor washes, and realistic gongbi detail, not cartoon style.
+
+Left information block: In the upper left, set small vertical-style Chinese informational text in gray ink. Include exactly 5 text items: “二十四节气”, “之立春”, “2025 / 02 / 03”, “农历正月初六”, and “斗指寅·太阳黄经315°”. Under the date, draw a small horizontal ruler-like scale labeled 0, 15, 30, 45, 60.
+
+Right information block: In the upper right, draw a thin vermilion circle seal containing four stacked characters “立春 / 节气”. Below it, add a lifestyle tips block titled “生活提示” with a small red seal mark, followed by exactly 4 short phrases arranged in two columns: “早睡早起”, “顺应自然”, “多食辛甘”, “助阳养肝”, then a final line “适度舒展  心怀温暖”. Along the far right side, add a vertical seasonal notes column with exactly 4 items separated by short red divider lines: “东风解冻”, “蛰虫始振”, “鱼陟负冰”, and one additional thin divider line for rhythm.
+
+Seals and details: Add one small square vermilion artist seal near the lower left of the arch. Keep all typography thin, refined, and balanced. Use authentic Chinese poster spacing, subtle alignment guides, and no modern icons except the simple scale line. The final image should feel like a premium cultural poster or PPT cover about {argument name="theme" default="the Beginning of Spring solar term"} in Chinese classical aesthetics.
+
+Constraints: Use only the specified main title and visible Chinese labels; do not add extra large text, logos, watermark, people, buildings, or bright colors. Maintain a calm, airy, poetic mood with meticulous gongbi floral and bird details.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074132262547784020) | 2026-07-06
+
+---
+
+### 🎴 例 3278：惊蛰粉色浪潮节气海报
+
+![惊蛰粉色浪潮节气海报](../../images/%E6%83%8A%E8%9B%B0%E7%B2%89%E8%89%B2%E6%B5%AA%E6%BD%AE%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="solar term title" default="惊蛰"} 创建一张 16:9 的电影感中国节气海报，融合微距自然摄影、超现实微缩运动意象以及优雅的 PPT 风格排版。
+
+画布：宽幅横向海报，1200×675 或 16:9。营造柔和梦幻的春日氛围，采用珊瑚粉、桃色和暖白色调。使用浅景深、发光焦外成像、雾面高光、闪烁露珠，并呈现高端广告海报的质感。
+
+布局：在左上角放置醒目的白色中文标题 {argument name="solar term title" default="惊蛰"}。在其右侧添加一行手写白色书法字 {argument name="brush phrase" default="万物有声"}。在标题区域下方，左对齐放置三行精致的白色中文正文，内容为 {argument name="body copy" default="不是轰响提醒了春天，是沉睡太久的身体终于想动了。\n开窗换气、走一段路、少一点困乏，让心情跟着天气一起醒来。\n今日宜舒展、少熬夜、多喝水，把迟滞感轻轻抖落。"}。在底部中心，添加一条细水平分割线，并配以间距较大的小型白色文字 {argument name="bottom caption" default="二十四节气 · 唤醒身体的信号"}。
+
+主体图像：一个超写实的微距场景，表面是半透明的粉色花瓣或如粉色丝绸般的有机景观，上面覆盖着新鲜露水。花瓣在右侧卷起成浪，宛如由粉色花朵质感与水流构成的光泽海浪。在右中位置，一名身穿黄色衣服、戴着小头盔的微型冲浪者正踩着迷你冲浪板在粉色花瓣浪尖上冲浪，营造出趣味十足的比例感与动感。
+
+离散可见元素：在粉色表面上包含 4 株绿色嫩芽：左下角一株较大的嫩芽，左下中部一株较小的嫩芽，背景中部一株柔焦嫩芽，以及右下边缘一株模糊的嫩芽。包含 4 只昆虫：左下角一只红黑相间的瓢虫，右下中部附近一只小型深色甲虫，以及右侧飞行的两只小蜜蜂（一只在右上角附近，一只在中右位置）。添加许多独立的露珠和水滴，特别是在卷浪周围和前景处，并有几滴悬浮在空中的水滴定格在运动中。
+
+视觉风格：高端商业海报，微距镜头，梦幻春日觉醒氛围，光泽液体反射，柔和粉色薄雾，来自右上方的暖阳，空灵高光，精致的白色排版，优雅的中文编辑设计，超现实微缩比例，魔幻现实主义，左侧留出干净的负空间以供文字排版。
+
+约束条件：保持所有文字为白色且清晰易读。不要添加额外的 Logo、二维码、边框、水印或额外文字。保留上述精确计数的元素，并保持构图平衡，左侧文字密集，右侧动态浪潮活跃。
+
+[English]
+Goal: Create a cinematic 16:9 seasonal Chinese solar-term poster for {argument name="solar term title" default="惊蛰"}, blending macro nature photography, surreal miniature sports imagery, and elegant PPT-style editorial typography.
+
+Canvas: Wide landscape poster, 1200×675 or 16:9. Soft dreamy spring atmosphere with a coral-pink, peach, and warm white color palette. Use shallow depth of field, glowing bokeh, misty highlights, sparkling droplets, and premium advertising-poster polish.
+
+Layout: Place large white Chinese title text at the upper left reading {argument name="solar term title" default="惊蛰"}. To its right, add a handwritten white brush-script phrase reading {argument name="brush phrase" default="万物有声"}. Under the title area, place three lines of small refined white Chinese body copy, left aligned, reading {argument name="body copy" default="不是轰响提醒了春天，是沉睡太久的身体终于想动了。\n开窗换气、走一段路、少一点困乏，让心情跟着天气一起醒来。\n今日宜舒展、少熬夜、多喝水，把迟滞感轻轻抖落。"}. At the bottom center, add a thin horizontal divider line with small widely spaced white text reading {argument name="bottom caption" default="二十四节气 · 唤醒身体的信号"}.
+
+Main image: A hyperreal macro scene where the surface is a translucent pink flower petal or pink silk-like organic landscape covered in fresh dew. The petal rises into a curling wave on the right side, like a glossy ocean wave made of pink blossom flesh and water. In the center-right, a tiny human surfer in yellow clothing and a small helmet rides the curling pink water-petal wave on a miniature surfboard, giving a playful sense of scale and movement.
+
+Discrete visible elements: Include exactly 4 small green sprout plants emerging from the pink surface: one larger sprout in the lower left, one smaller sprout near the lower middle-left, one soft-focus sprout in the mid-background, and one blurred sprout at the lower right edge. Include exactly 4 insects: one red-and-black ladybug at the lower left, one small dark beetle near the lower right-center, and two small bees flying on the right side, one near the upper right and one at mid-right. Add many individual dew bubbles and droplets, especially around the curling wave and foreground, with a few airborne droplets frozen in motion.
+
+Visual style: High-end commercial poster, macro lens, dreamy spring awakening mood, glossy liquid reflections, soft pink haze, warm sunlight from the upper right, ethereal highlights, delicate white typography, elegant Chinese editorial design, surreal miniature scale, magical realism, clean negative space on the left for text.
+
+Constraints: Keep all typography white and legible. Do not add extra logos, QR codes, borders, watermarks, or additional text. Preserve the exact counted elements above and keep the composition balanced with text-heavy left side and dynamic wave action on the right.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074126766952862002) | 2026-07-06
+
+---
+
+### 🎴 例 3286：Mondrian 风格增长排版海报
+
+![Mondrian 风格增长排版海报](../../images/Mondrian%20%E9%A3%8E%E6%A0%BC%E5%A2%9E%E9%95%BF%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅 Mondrian 风格的排版海报，标题作为唯一的视觉核心：{argument name="headline text" default="增长/GROWTH"}。彩色几何色块必须融入字体周围或内部，而非覆盖在文字之上，以确保排版的主导地位和可读性。
+
+画布：超宽横向海报，长宽比约为 2.5:1，米白色纸张背景，带有微妙的油画画布纹理和轻微的乳白色调。添加厚实的黑色外边框，底部和左侧边缘尤为厚重。
+
+布局：采用严格的 Piet Mondrian 网格，由黑色水平和垂直线条构成不均匀的矩形空间。将标题放置在画布中下部，横跨大部分宽度。左侧为大号中文字符，后跟斜杠，右侧为粗体大写几何无衬线字体“GROWTH”。文字为黑色，线条锐利、扁平且具有建筑感，部分网格线与字母的笔画和字怀对齐。
+
+色块：在网格和排版中嵌入 17 个原色矩形：6 个红色块、6 个黄色块和 5 个蓝色块。红色块：斜杠上方一个小红色矩形，G 区域左侧一个中等红色块，R/O 区域上方一个水平红色块，右上方附近一个狭窄的垂直红色块，右上角附近一个垂直红色块，以及右上角网格中一个大型红色矩形。黄色块：中文字符下方左侧一个小黄色块，底部中心附近一个宽黄色块，G 旁边一个狭窄的垂直黄色块，上方文字区域内一个水平黄色块，W 内部/下部区域一个大型黄色块，以及 T/H 区域下方底部一个小黄色块。蓝色块：左下中心处一个宽蓝色矩形，G/R 区域内一个高垂直蓝色矩形，其上方一个水平蓝色矩形，右上中心处一个小蓝色正方形，以及 H 底部附近一个蓝色矩形。所有彩色矩形均为纯正的原色红、黄、蓝，并带有黑色网格轮廓。
+
+视觉风格：极简主义 De Stijl / Mondrian 构图，简洁的现代海报设计，高对比度黑色线条，原色配色，非对称网格，清晰的矢量感排版，轻微的模拟纸张纹理，无阴影，无渐变，无额外装饰。
+
+约束：标题必须保持视觉焦点，不得被随机色块遮挡。保持网格为直线且正交。不要添加额外的文字、徽标、人物、图标或水印。
+
+[English]
+Goal: Create a wide Mondrian-inspired typographic poster where the headline is the only main visual: {argument name="headline text" default="增长/GROWTH"}. The colored geometric blocks must be integrated into and around the letterforms, not tiled over the text, so the typography stays dominant and legible.
+
+Canvas: Extra-wide horizontal poster, about 2.5:1 aspect ratio, off-white paper background with a subtle painted canvas texture and slight cream tone. Add a thick black outer border, especially heavy along the bottom and left edges.
+
+Layout: Use a strict Piet Mondrian grid of black horizontal and vertical lines with uneven rectangular compartments. Place the headline across the lower middle of the canvas, spanning most of the width. The Chinese characters appear large on the left, followed by a forward slash, then the English word GROWTH in bold uppercase geometric sans-serif on the right. The text is black, sharp, flat, and architectural, with some grid lines aligning with strokes and counters of the letters.
+
+Colored blocks: Include exactly 17 primary-color rectangles embedded in the grid and typography: 6 red blocks, 6 yellow blocks, and 5 blue blocks. Red blocks: one small red rectangle above the slash, one medium red block around the left side of the G area, one red horizontal block above the R/O area, one narrow red vertical block near the upper center-right, one red vertical block near the upper right, and one large red rectangle in the upper-right grid. Yellow blocks: one small yellow block near the bottom-left under the Chinese text, one wide yellow block near the bottom center, one narrow yellow vertical block beside the G, one yellow horizontal block inside the upper word area, one large yellow block filling the inside/lower area of the W, and one small yellow block near the bottom under the T/H area. Blue blocks: one wide blue rectangle along the lower-left center, one tall blue vertical rectangle inside the G/R area, one blue horizontal rectangle above it, one small blue square in the upper center-right, and one blue rectangle near the bottom of the H. All colored rectangles are flat primary red, yellow, and blue with black grid outlines.
+
+Visual style: Minimalist De Stijl / Mondrian composition, clean modern poster design, high contrast black lines, primary colors, asymmetrical grid, crisp vector-like typography, slight analog paper texture, no shadows, no gradients, no extra decoration.
+
+Constraints: The title must remain the focal point and must not be obscured by random blocks. Keep the grid rectilinear and orthogonal. Do not add additional text, logos, people, icons, or watermarks.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2074101057052131366) | 2026-07-06
+
+---
+
+### 🎴 例 3294：超现实光纤吊床广告
+
+![超现实光纤吊床广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%85%89%E7%BA%A4%E5%90%8A%E5%BA%8A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅超现实的广告构图，主角为一位 {argument name="subject" default="神态放松的女性"}（使用上传的人脸作为参考），正躺在 {argument name="hammock style" default="由发光光纤电缆制成的吊床"} 上。她身穿 {argument name="outfit" default="浅蓝色亚麻衬衫"}、米色休闲短裤和编织乐福鞋，正用吸管啜饮椰子汁。吊床悬挂在两棵巨大的棕榈树之间，而这些棕榈树实际上是由堆叠的曲面智能手机构成，屏幕上显示着热带叶片的图案。下方地面是一个反光水池，池中游动着由光影构成的数字锦鲤。背景是一面无缝渐变墙，从底部的深海蓝过渡到顶部的明亮青色，并配有一轮风格化的数字太阳。光线柔和、温暖且呈金黄色，模拟了日落的效果，但带有数字光泽。超高保真度，超写实 3D 元素与摄影技术融合，8k 分辨率，构图简洁。
+
+[English]
+A surreal advertising composition featuring a {argument name="subject" default="relaxed woman"} with uploaded face as reference, lounging in a {argument name="hammock style" default="hammock made of glowing fiber optic cables"}. He wears a {argument name="outfit" default="light blue linen shirt"}, beige chino shorts, and woven loafers, sipping from a coconut with a straw. The hammock is suspended between two enormous palm trees that are actually constructed from stacked, curved smartphones displaying tropical leaf patterns. The ground below is a reflective pool of water where digital koi fish made of light swim. The background is a seamless gradient wall transitioning from deep ocean blue at the bottom to bright sunny cyan at the top, with a stylized digital sun. The lighting is soft, warm, and golden, mimicking a sunset but with a digital sheen. Ultra-high fidelity, hyper-realistic 3D elements blended with photography, 8k resolution, clean composition
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2074079653346886145) | 2026-07-06
+
+---
+
+### 🎴 例 3303：东方禅意极简壁纸
+
+![东方禅意极简壁纸](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：高对比传播型
+主体内容：{argument name="人物" default="一位站在檐下微微仰头听风铃的古风人物"}
+情绪母题：松弛、静听、夏日清气
+场景与意象：松石蓝檐角、琥珀橙风铃流苏、暖白墙面、少量光斑与竹影
+构图与空间：偏侧构图，人物位于下方一侧，檐角从上方切入，墙面留出大面积明亮空场
+色彩控制：暖白作为墙面和背景基底，松石蓝用于檐角和少量阴影结构，琥珀橙只用于风铃流苏和局部光感点睛，人物以墨青剪影呈现；避免整图偏蓝或偏橙
+光线与质感：白天自然光，边缘清晰，轻纸感，少量颗粒，明亮通透
+画幅比例：{argument name="画幅" default="9：16"}
+补充要求：人物姿态要安静克制，风铃不要太多，整体要有清爽的新东方封面感
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2074055241008648625) | 2026-07-06
+
+---
+
+### 🎴 例 3311：维多利亚风格像素艺术吸烟猫
+
+![维多利亚风格像素艺术吸烟猫](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E9%A3%8E%E6%A0%BC%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%90%B8%E7%83%9F%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 1:1 正方形的复古单色像素艺术插画，采用维多利亚时代报纸蚀刻风格。画面展示了一只巨大的黑猫，端坐在小巷或狭窄的城市街道中，通过密集的抖动、点画、交叉影线和粗犷的 1-bit 像素纹理进行渲染。猫佩戴两件配饰：一顶略微向后倾斜的黑色高礼帽，以及架在脸上的圆形金属框眼镜。猫嘴里叼着一根弯曲的烟斗，向右延伸，淡灰色的烟雾呈华丽的缕状向上缭绕。仅使用纯黑、纯白和柔和的灰色调，不含任何色彩。猫应占据构图的中左侧，面朝右上方，表情庄重而古怪，长胡须，毛发蓬松，卷曲的尾巴沿右下方延伸。背景是左侧由旧报纸、海报和建筑立面组成的密集垂直墙壁，由抽象的不可读文本块、网格线和半色调标记构成；右侧则是明亮的白色负空间，带有淡淡的建筑线条。添加一个带有轻微纹理的地面，散落着纸屑和影线。整体氛围：奇幻哥特蒸汽朋克，如同 8-bit/1-bit 复古游戏启动画面与古董雕刻的结合。保持所有文本不可读且具装饰性，避免出现现代物品，避免平滑的渐变，并保持清晰的像素化外观。可选自定义：将主体设为 {argument name="animal" default="黑猫"}，佩戴 {argument name="hat" default="黑色高礼帽"}，配有 {argument name="accessory" default="圆形金属框眼镜"}，叼着 {argument name="prop" default="弯曲烟斗"}，风格为 {argument name="art style" default="单色 1-bit 维多利亚像素艺术蚀刻"}。
+
+[English]
+Create a square 1:1 retro monochrome pixel-art illustration in a Victorian newspaper-etching style. The scene shows one oversized black cat sitting upright in an alley or narrow urban street, rendered with dense dithering, stippling, crosshatching, and chunky 1-bit pixel texture. The cat wears two accessories: a tall black top hat tilted slightly backward and round wire-rim spectacles perched on its face. The cat holds one curved smoking pipe in its mouth, extending to the right, with pale gray smoke curling upward in ornate wisps. Use a stark black, white, and muted gray palette only, with no color. The cat should dominate the center-left of the composition, facing up and to the right with a dignified, eccentric expression, long whiskers, shaggy fur, and a curled tail stretched along the lower right. The background is a dense vertical wall of old newspapers, posters, and building facades on the left, made from abstract unreadable text blocks, grid lines, and halftone marks; the right side opens into bright white negative space with faint architectural linework. Add a lightly textured ground plane with scattered paper scraps and hatch marks. Overall mood: whimsical gothic steampunk, like an 8-bit/1-bit retro game splash screen mixed with an antique engraving. Keep all text illegible and decorative, avoid modern objects, avoid smooth gradients, and preserve a crisp pixelated look. Optional customization: make the subject {argument name="animal" default="black cat"}, wearing {argument name="hat" default="tall black top hat"}, with {argument name="accessory" default="round wire-rim spectacles"}, holding {argument name="prop" default="curved smoking pipe"}, in a {argument name="art style" default="monochrome 1-bit Victorian pixel-art etching"}.
+```
+
+**来源：** [@がびねこ](https://x.com/PawprintBit/status/2074018798873784635) | 2026-07-06
+
+---
+
+### 🎴 例 3320：Y2K 复古剪贴簿拼贴海报
+
+![Y2K 复古剪贴簿拼贴海报](../../images/Y2K%20%E5%A4%8D%E5%8F%A4%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度详细的 {argument name="aesthetic" default="Y2K 风格剪贴簿拼贴海报"}，具有温暖的复古美学，以 {argument name="subject" default="时尚年轻女性"} 为中心主体。构图应呈现出一种手工制作的杂志 mood board 效果，由剪裁的照片、印刷纸张纹理、涂鸦、贴纸和复古图形元素拼贴而成。背景采用带有细微褶皱、污渍、撕裂边缘和褪色纹理的陈旧奶油色纸张，呈现出旧剪贴簿页面的外观。整体色调由 {argument name="color palette" default="米色、奶油色、橄榄绿、柔和棕色、暖灰色和柔和的深褐色"} 组成，低饱和度带来 21 世纪初的怀旧感。主体人物以两种不同的姿势出现两次：上方构图：年轻女性自信地站立，双手以俏皮的时尚姿势举在脸部附近。她戴着黑色镜片的白色猫眼太阳镜，穿着一件在腰间打结的宽松橄榄绿印花 T 恤，搭配带有黑色滚边的白色运动短裤、白色袜子和白色运动鞋。双颊装饰着小巧的涂鸦风格心形贴纸。她的表情自信、时尚且无忧无虑。下方构图：同一位女性随意地坐着，双腿向前伸展，身体微微后倾。她穿着同样的服装，表情放松，直视镜头。每个主体都像杂志剪报一样被剪下，带有粗糙的白色边框、手工剪裁的边缘和纸张阴影，并层叠在拼贴画上。在主体周围环绕多种复古美学元素，包括：复古 CRT 电脑显示器、米色机械键盘、旧电脑硬件、白色摩托车头盔、撕裂的笔记本纸、复古邮票、手写笔记、杂志剪报框、小幅生活照片、植物摄影、复古时尚图形、抽象纸艺、极简几何形状、指南针星形图形、闪耀星芒、涂鸦圆圈、手绘波浪线、花朵涂鸦、铅笔素描线条、装饰性漩涡、细轮廓字体、层叠的文本片段、编辑标签、数字块、小标题框、复古印刷文档。在整个设计中散布大型字体，使用细轮廓字母和部分隐藏在拼贴元素后的超大号小写文本。添加微妙的编辑风格标签、日期数字、标题、手写笔记和受杂志启发的排版图形，但不要使其成为焦点。拼贴画应具有强烈的层次感，包括重叠的纸片、胶带痕迹、撕裂的边缘、每个元素下方的阴影以及逼真的纸张深度。一切都应感觉像是手工制作而非数字合成。光线为柔和、平坦的编辑风格光线，带有温暖的自然色调和极小的对比度。图像应类似于扫描的剪贴簿页面与复古时尚杂志排版的混合体。风格：Y2K 美学、独立美学、Tumblr moodboard
+
+[English]
+Create a highly detailed {argument name="aesthetic" default="Y2K-inspired scrapbook collage poster"} with a warm vintage aesthetic, featuring a {argument name="subject" default="stylish young woman"} as the central subject. The composition should look like a handmade magazine mood board assembled from cut-out photographs, printed paper textures, doodles, stickers, and retro graphic elements. The background is made of aged cream-colored paper with subtle wrinkles, stains, torn edges, and faded textures, giving the appearance of an old scrapbook page. The overall color palette consists of {argument name="color palette" default="beige, cream, olive green, muted brown, warm gray, and soft sepia tones"} with low saturation for a nostalgic early 2000s feel. The main subject appears twice in different poses: Upper composition: The young woman stands confidently with both hands raised near her face in a playful fashion pose. She wears white cat-eye sunglasses with black lenses, a loose oversized olive green graphic T-shirt tied into a knot at the waist, white athletic shorts with black piping, white socks, and white sneakers. Small doodle-style heart stickers decorate both cheeks. Her expression is confident, stylish, and carefree. Lower composition: The same woman sits casually with her legs stretched forward while leaning slightly backward. She wears the same outfit and looks directly toward the camera with a relaxed expression. Each subject is cut out like a magazine clipping with rough white borders, hand-cut edges, paper shadows, and layered over the collage. Surround the subject with multiple retro aesthetic elements including: Vintage CRT computer monitor, beige mechanical keyboard, old computer hardware, white motorcycle helmet, torn notebook paper, vintage postal stamp, handwritten notes, magazine clipping boxes, small cropped lifestyle photo, botanical photograph, retro fashion graphics, abstract paper cutouts, minimal geometric shapes, compass star graphic, sparkle starbursts, scribbled circles, hand-drawn squiggles, flower doodles, pencil sketch lines, decorative swirls, thin outlined typography, layered text fragments, editorial labels, number blocks, small caption boxes, vintage printed documents. Scatter large typography throughout the design using thin outlined letters and oversized lowercase text that partially disappears behind collage elements. Add subtle editorial-style labels, date numbers, captions, handwritten notes, and magazine-inspired layout graphics without making them the main focus. The collage should have strong layering with overlapping paper pieces, tape marks, ripped edges, shadows beneath every element, and realistic paper depth. Everything should feel handcrafted rather than digitally assembled. Lighting is soft, flat editorial lighting with warm natural tones and minimal contrast. The image should resemble a scanned scrapbook page mixed with vintage fashion magazine layouts. Style: Y2K aesthetic, indie aesthetic, Tumblr moodboard
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2073988777379561821) | 2026-07-06
+
+---
+
+### 🎴 例 3334：低成本 AI 视频缩略图
+
+![低成本 AI 视频缩略图](../../images/%E4%BD%8E%E6%88%90%E6%9C%AC%20AI%20%E8%A7%86%E9%A2%91%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 21:9 的宽幅日式文章缩略图 / YouTube 风格横幅，用于宣传低成本 AI 视频创作策略，采用醒目且充满活力的排版以及未来感创作者工作站主题。
+
+画布：超宽横向横幅，1200×514 比例，明亮的蓝白科技背景，带有轻微暗角，光泽感照明，高对比度以确保可读性。
+
+布局：采用动态对角线构图。左侧三分之二由分层白色斜面板上的超大标题排版占据，并带有投影。右侧三分之一展示了一位年轻男性创作者的背影，他坐在笔记本电脑前，注视着悬浮的视频制作屏幕。左下角包含一个深海军蓝色的斜向标题栏，带有辅助的日语信息。右下边缘添加小图标圆圈。
+
+文本内容：主标题必须完全按照以下格式：顶部白色条带上写着「Low Costで」，下方蓝色大字写着「AI動画」，旁边较小的深色文字写着「をやるなら」，右侧带有白色描边的亮粉色大字写着「コレ!!」。底部标题栏必须完全按照以下格式：「12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く」，其中「12社」和「この戦略」用黄色强调，其余部分为白色。右下角添加一个小手写便签：「はじめてでも安心！」并带有黄色下划线。
+
+主体细节：展示 {argument name="main character" default="一位身穿海军蓝夹克的年轻日本创作者，背影，手托下巴，面向笔记本电脑"}。笔记本电脑屏幕应显示带有时间轴轨道和预览帧的视频编辑界面。在角色周围，包含 4 个悬浮媒体面板：1 个电影感科幻走廊场景、1 个日落时的未来城市天际线、1 个奇幻山脉景观和 1 个软件/仪表盘屏幕。在上方中心附近添加 1 个黑白电影场记板，在标题附近添加 1 个半透明播放按钮磁贴，并在右下角添加 3 个圆形图标：一个带有日元符号的粉色存钱罐、一个蓝色上升柱状图和一个清单剪贴板。
+
+视觉风格：精致的日式营销缩略图，清晰的矢量排版与半写实数字插画相结合，电光蓝渐变，白色光晕，背景中有微妙的电路板线条，点状半调装饰，充满活力的阴影，顶部标题后方有黄色笔触高光，文字周围有强烈的轮廓线，整体风格整洁专业。
+
+参数：主标题概念为 {argument name="headline concept" default="Low Costで AI動画をやるならコレ!!"}；底部文案主题为 {argument name="bottom message" default="12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く"}；标注词的强调色为 {argument name="accent color" default="亮粉色"}。
+
+约束：保持所有可见的日语文本完全按指定内容书写，避免拼写错误，避免添加额外的徽标或水印，保持 21:9 缩略图的可读性，并使标题占据左侧大部分区域。
+
+[English]
+Goal: Create a wide 21:9 Japanese article thumbnail / YouTube-style banner advertising a low-cost AI video creation strategy, with bold energetic typography and a futuristic creator-workstation theme.
+
+Canvas: Ultra-wide horizontal banner, 1200×514 style aspect ratio, bright blue-and-white tech background with slight vignette, glossy lighting, and high contrast for readability.
+
+Layout: Use a dynamic diagonal composition. The left two-thirds is dominated by oversized headline typography on layered white slanted panels with drop shadows. The right third shows a young male creator seen from behind at a laptop, looking at floating video-production screens. The bottom left contains a dark navy slanted caption bar with a secondary Japanese message. Add small icon circles along the lower right edge.
+
+Text content: Main headline must read exactly: 「Low Costで」 on the top white strip, 「AI動画」 in huge blue letters below it, 「をやるなら」 in smaller dark text beside it, and 「コレ!!」 in large hot pink letters with white outline on the right. Bottom caption bar must read exactly: 「12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く」 with 「12社」 and 「この戦略」 emphasized in yellow and the rest in white. Add a small handwritten note in the bottom right: 「はじめてでも安心！」 with a yellow underline.
+
+Subject details: Show {argument name="main character" default="a young Japanese male creator in a navy jacket, viewed from behind, hand on chin, facing a laptop"}. The laptop screen should show a video editing interface with timeline tracks and preview frames. Around the character, include exactly 4 floating media panels: 1 cinematic sci-fi hallway scene, 1 futuristic city skyline at sunset, 1 fantasy mountain landscape, and 1 software/dashboard screen. Add exactly 1 black-and-white movie clapperboard near the upper center, exactly 1 translucent play-button tile near the headline, and exactly 3 circular icons at the lower right: a pink piggy bank with yen symbol, a blue rising bar chart, and a checklist clipboard.
+
+Visual style: Polished Japanese marketing thumbnail, crisp vector typography mixed with semi-realistic digital illustration, electric blue gradients, white glow, subtle circuit-board lines in the background, dotted halftone accents, energetic shadows, yellow paint-stroke highlight behind the top headline, strong outlines around text, clean professional finish.
+
+Parameters: The main headline concept is {argument name="headline concept" default="Low Costで AI動画をやるならコレ!!"}; the bottom copy theme is {argument name="bottom message" default="12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く"}; the accent color for the callout word is {argument name="accent color" default="hot pink"}.
+
+Constraints: Keep all visible text in Japanese exactly as specified, avoid misspellings, avoid extra logos or watermarks, preserve the 21:9 thumbnail readability, and make the headline occupy most of the left side.
+```
+
+**来源：** [@なお](https://x.com/Naonekozamurai/status/2073957607702671816) | 2026-07-06
+
+---
+
+### 🎴 例 3340：日式设计杂志海报
+
+![日式设计杂志海报](../../images/%E6%97%A5%E5%BC%8F%E8%AE%BE%E8%AE%A1%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为日式设计智能服务创作一张简洁的杂志编辑海报。画布：浅灰色背景上的纵向海报，居中放置一张带有细微投影的白色页面，比例约为 4:5。视觉风格：极简现代瑞士/日式编辑排版，留白充足，锐利的黑色排版，细分割线，小型大写英文字体，高端设计杂志质感。主标题：右上角大型粗体黑色日文标题，内容为 {argument name="headline text" default="デザインの Scopeを、もっと広げよう。"}，其中“Scope”使用拉丁字母，分为 3 行堆叠排列，并略微覆盖在照片区域上方。副标题：标题下方较小的粗体日文行，内容为 {argument name="subheadline text" default="水面下から、少し先の景色をのぞく。"}。主图：占据中下方/右侧的大幅矩形照片，展示 {argument name="main subject" default="一位身穿深海军蓝西装、戴眼镜的日本商务男士侧身站在高窗旁，手持小笔记本或手机，眺望雨中现代城市街道，背景为模糊的建筑与车流"}；冷蓝灰色城市色调，浅景深，写实摄影风格。左侧边栏编辑专栏：左上角为小型大写文字“CURATED DESIGN INTELLIGENCE”，下方有一条细垂直线，接着是带有“01”的小型期刊行，一条长水平线，以及“ISSUE_05”。在左下边缘，创建 4 个堆叠的导航项，包含小型标签和描述：1) “PERSPECTIVE”，内容为“Stream / culture, urban, and new synthifications.”，编号“01”；2) “AI & DESIGN”，内容为“Designing conversational architectures and design-Agent landscape.”，编号“02”；3) “CULTURE”，内容为“Locomoting nation of Tokyo, extensionism, privileges.”，编号“03”；4) “RESEARCH”，内容为“Research unitile evolution in art and design professions.”。使用微型黑色字体，并在项目间使用细垂直分隔符。右下角行动号召：一个淡青柠色矩形覆盖在照片/页面的右下角，包含粗体大写文字 {argument name="call to action" default="READ / LEARN / THINK / MAKE"} 以及一个淡淡的白色向下三角形/箭头图标。约束：保持构图简洁且高级，仅使用黑、白、灰、冷色调照片及淡青柠色点缀；无 Logo，无额外文字，无装饰性杂乱元素。
+
+[English]
+Create a clean editorial magazine poster for a Japanese design-intelligence service. Canvas: portrait poster on a light gray background, with a white page centered and a subtle drop shadow, about 4:5 ratio. Visual style: minimalist modern Swiss/Japanese editorial layout, lots of white space, sharp black typography, thin divider lines, small uppercase English microcopy, high-end design magazine feel. Main headline: large bold black Japanese type in the upper right, reading {argument name="headline text" default="デザインの Scopeを、もっと広げよう。"}, with “Scope” in Latin letters, arranged across 3 stacked lines and overlapping slightly above the photo area. Subheadline: smaller bold Japanese line below the headline, reading {argument name="subheadline text" default="水面下から、少し先の景色をのぞく。"}. Hero image: large rectangular photo occupying the lower center/right, showing {argument name="main subject" default="a Japanese businessman in a dark navy blazer and glasses standing in profile by a tall window, holding a small notebook or phone, looking out over a rainy modern city street with blurred buildings and traffic"}; cool blue-gray city tones, shallow depth of field, realistic photography. Left margin editorial column: at top left, small uppercase text “CURATED DESIGN INTELLIGENCE”, a thin vertical line beneath, then a small issue row with “01”, a long horizontal rule, and “ISSUE_05”. Along the lower left margin, create exactly 4 stacked navigation items with small labels and descriptions: 1) “PERSPECTIVE” with “Stream / culture, urban, and new synthifications.” and number “01”; 2) “AI & DESIGN” with “Designing conversational architectures and design-agent landscape.” and number “02”; 3) “CULTURE” with “Locomoting nation of Tokyo, extensionism, privileges.” and number “03”; 4) “RESEARCH” with “Research unitile evolution in art and design professions.” Use tiny black type with thin vertical separators between items. Bottom right call-to-action: a pale lime rectangle overlaying the lower-right corner of the photo/page, containing bold uppercase text {argument name="call to action" default="READ / LEARN / THINK / MAKE"} and a faint white downward triangle/arrow icon. Constraints: keep the composition simple and premium, use only black, white, gray, cool photo colors, and pale lime accent; no logos, no extra text, no decorative clutter.
+```
+
+**来源：** [@こぎそ](https://x.com/kgsi/status/2073940465297301535) | 2026-07-06
+
+---
+
+### 🎴 例 3342：白色花卉夏日花园海报
+
+![白色花卉夏日花园海报](../../images/%E7%99%BD%E8%89%B2%E8%8A%B1%E5%8D%89%E5%A4%8F%E6%97%A5%E8%8A%B1%E5%9B%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张浪漫的高级时尚夏日花园杂志海报，主角为 {argument name="character description" default="一位年轻的亚裔女性，面容冷艳精致，五官清秀，妆容自然干净，眼神平静而有力"}，营造白色花卉花园的审美风格。
+
+画布：垂直 2:3 海报，编辑类杂志封面构图，明亮的自然阳光，梦幻的背光氛围，高分辨率写实时尚摄影。
+
+主体细节：女性蹲在或跪在翠绿的草地上，身旁是一簇盛开的向日葵。她身穿 {argument name="dress style" default="一件层叠的透明白色荷叶边夏日连衣裙，带有泡泡袖、蕾丝细节、丝带系带和轻盈的短裙摆"}。她的黑发用一个巨大的黑色蝴蝶结或花朵发饰盘起，几缕凌乱的发丝随风飘动，暗示着温暖的夏日微风。她带着柔和的微笑，目光微微向下看向花朵，一只手优雅地抬起靠近飘落的薄雾，另一只手伸向向日葵。在草地附近可见白色系带鞋或精致的白色鞋履。
+
+环境：郁郁葱葱的夏日花园，右侧前景有明黄色的向日葵，绿叶衬托，背景是柔和的树木虚化（bokeh），阳光透过叶片闪烁，画面上半部分有细小的水滴或花粉般的薄雾飘落。光线应感觉金黄、清新且充满活力，仿佛夏日藏在她的裙摆之中。
+
+文字内容：添加 4 个清晰可见的编辑排版块，使用优雅纤细的白色衬线字体：1) 左上角大标题“{argument name="main headline" default="WHITE BLOSSOM"}”，周围环绕着细小的装饰性线条；2) 其下方的小标题“Every petal holds a whisper of light”；3) 右侧标题“FEARLESSLY LIGHT”，下方配有小标题“She dances with sunlight and dares to bloom”；4) 左下角大标题“LIVING SUN”，下方配有小标题“You are the poetry of the season”。
+
+视觉风格：空灵的白色夏日花园时尚大片，柔和的女性化杂志排版，自然的镜头光晕，浅景深，温暖的高光，清晰的面部和裙装细节，轻盈的透明面料，优雅的动态，精致的排版，无强烈的对比度。
+
+约束条件：保持构图的写实感，而非插画风格。不要添加额外的人物、额外的文字块、标志、水印或边框。保持向日葵作为前景的主要花卉，整体色调保持白色、绿色、黄色和温暖的阳光色。
+
+[English]
+Goal: Create a romantic high-fashion summer garden magazine poster featuring {argument name="character description" default="a young adult Asian woman with a cool, delicate face, refined features, clean natural makeup, and a calm but powerful gaze"} in a white floral garden aesthetic.
+
+Canvas: Vertical 2:3 poster, editorial magazine cover composition, bright natural sunlight, dreamy backlit atmosphere, high-resolution photorealistic fashion photography.
+
+Subject details: The woman is crouching or kneeling in fresh green grass beside a cluster of blooming sunflowers. She wears {argument name="dress style" default="a layered sheer white ruffled summer dress with puff sleeves, lace details, ribbon ties, and a short airy skirt"}. Her black hair is pinned up with a large black bow or floral bow hair accessory, with slightly messy loose strands suggesting a warm summer breeze. She has a soft smile, looking slightly downward toward the flowers, one hand raised gracefully near falling mist and the other reaching toward the sunflowers. Include white lace-up shoes or delicate white footwear visible near the grass.
+
+Environment: A lush summer garden with bright yellow sunflowers in the foreground on the right, green leaves, soft bokeh trees in the background, sparkling sunlight filtering through foliage, and a gentle shower of tiny water droplets or pollen-like mist across the upper half of the image. The light should feel golden, fresh, and alive, as if summer is hidden in the hem of her dress.
+
+Text content: Add exactly 4 visible editorial typography blocks in elegant thin white serif type: 1) large top-left headline “{argument name="main headline" default="WHITE BLOSSOM"}” with a small decorative looping line around it; 2) small top-left caption below it reading “Every petal holds a whisper of light”; 3) right-side headline reading “FEARLESSLY LIGHT” with small caption below reading “She dances with sunlight and dares to bloom”; 4) large lower-left headline “LIVING SUN” with small caption below reading “You are the poetry of the season”.
+
+Visual style: Ethereal white summer garden fashion editorial, soft feminine magazine layout, natural lens flare, shallow depth of field, warm highlights, crisp face and dress details, airy transparent fabric, graceful motion, refined typography, no harsh contrast.
+
+Constraints: Keep the composition photo-realistic rather than illustrated. Do not add extra people, extra text blocks, logos, watermarks, or borders. Maintain the sunflowers as the main foreground flowers and keep the overall palette white, green, yellow, and warm sunlight.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2073934075757470203) | 2026-07-06
+
+---
+

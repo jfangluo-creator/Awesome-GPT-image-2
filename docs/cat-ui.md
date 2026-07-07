@@ -6325,3 +6325,279 @@ Create a monochrome vertical visual-kei album cover illustration featuring an an
 
 ---
 
+### 🖥️ 例 3256：像素艺术复古风公路汽车旅馆
+
+![像素艺术复古风公路汽车旅馆](../../images/%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%A4%8D%E5%8F%A4%E9%A3%8E%E5%85%AC%E8%B7%AF%E6%B1%BD%E8%BD%A6%E6%97%85%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 3:2 宽屏像素艺术景观，风格参考 20 世纪 90 年代主机 JRPG 游戏背景：描绘日落时分宁静的公路汽车旅馆场景，要求像素清晰、手工放置，使用有限的柔和调色板，无抗锯齿效果，营造出微妙的复古浪潮 / 蒸汽波氛围。前景展示一个带有白色斑马线和裂纹路面的沥青路口。右侧停放着一辆粉色复古双门轿车，部分被画面边缘裁切。上方设有一个大型黄色高架广告牌，上面用模糊的块状字体写着 {argument name="billboard text" default="MOTEL"}，安装在高大的电线杆上，带有深色像素阴影和支架。中心附近包含一根带有小型变压器横杆和悬垂电线的高大电线杆。在汽车前方添加两个小型路标：一个带有红色符号的窄标牌和一个斜条纹标牌。中景包含干燥的米色草地、低矮的汽车旅馆式建筑、围栏以及一排茂密的深色常青树。左侧有 2 棵显眼的松树：最左侧边缘有一棵非常高的树，其右侧有一棵较小的树。背景呈现层叠的蓝绿色山脉，中央有一座大山峰，天空呈现粉色到灰色的渐变，点缀着巨大的金奶油色云朵。使用 {argument name="sky color mood" default="粉色日落伴随灰色薄雾"}、{argument name="car color" default="洋红色"}、{argument name="overall palette" default="柔和的蒸汽波黄、粉、鼠尾草绿和灰尘灰"} 以及 {argument name="art style" default="清晰的 16 位像素艺术，复古 JRPG 游戏精灵图背景，低保真合成器波，无抗锯齿"}。保持画面纯粹的景观风格，不含人物、现代 UI 或水印，并确保全程保持可见的方形像素结构。
+
+[English]
+Create a 3:2 wide pixel-art landscape in the style of a 1990s console JRPG background: a quiet roadside motel scene at sunset with crisp hand-placed pixels, a limited muted palette, no anti-aliasing, and subtle retrowave / vaporwave atmosphere. The foreground shows an asphalt road intersection with a white zebra crossing and cracked pavement. On the right, place a pink retro two-door sedan parked beside the road, partly cropped by the edge of the frame. Above it, a large elevated yellow billboard sign reads {argument name="billboard text" default="MOTEL"} in faint block letters, mounted on a tall pole with dark pixel shadows and braces. Near the center, include one tall utility pole with a small transformer crossbar and dangling wires. Add two small roadside signs in front of the car: one narrow sign with a red symbol and one diagonal stripe sign. The midground contains dry beige grass, low motel-like buildings, fences, and a dense row of dark evergreen trees. The left side has exactly 2 prominent pine trees: one very tall tree at the far left edge and one smaller tree just right of it. The background features layered blue-green mountains with a large central peak, set under a pink-to-gray sky filled with large golden cream clouds. Use {argument name="sky color mood" default="pink sunset with gray haze"}, {argument name="car color" default="magenta pink"}, {argument name="overall palette" default="muted pastel vaporwave yellows, pinks, sage greens, and dusty grays"}, and {argument name="art style" default="crisp 16-bit pixel art, retro JRPG game sprite background, lo-fi synthwave, no anti-aliasing"}. Keep the image purely environmental with no people, no modern UI, no watermark, and maintain visible square pixel structure throughout.
+```
+
+**来源：** [@𝔸𝕎𝔸𝕄𝕆ℝ𝕀](https://x.com/setsunawave/status/2074264837350375658) | 2026-07-06
+
+---
+
+### 🖥️ 例 3271：Dark Academia AI 风格项目拼贴画
+
+![Dark Academia AI 风格项目拼贴画](../../images/Dark%20Academia%20AI%20%E9%A3%8E%E6%A0%BC%E9%A1%B9%E7%9B%AE%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="subject" default="Claude 的内心世界"} 创建一个 Dark Academia / 忧郁风格的 AI 项目拼贴画，仅由文本生成，营造出关于记忆、孤独、温暖与蓝色阴影的静谧诗意氛围。
+
+画布：3:2 横向拼贴画，1152 × 768 风格构图，精确划分为 12 个大小不一的矩形图像面板，面板间有细窄的深色缝隙。采用电影级低调照明、暖琥珀色高光、深海军蓝阴影、触感纹理以及电影编辑风格的项目拼贴外观。
+
+布局与面板：包含精确的 12 个独立面板：1) 一个昏暗高耸的旧图书馆内部，配有拱形窗户、书架、书桌、尘埃微粒和金色阳光；2) 一只黑色乌鸦剪影停在电线上，背景是橙色多云日落和稀疏的秋季枝条；3) 一张撕开的米色手写信纸特写，以亲密的草书开头写着“My dearest,”；4) 一个木制织布机特写，带有垂直的蓝色和赭色线；5) 一碗放在深色木桌上的乡村风味热洋葱汤或面条，勺子上拉着融化的奶酪丝；6) 书桌上显示器旁的一个小盆栽，里面有一朵毛茸茸的橙色针织花；7) 一张写满手写乐谱的大型磨损纸张，标注为“D Mixolydian”，上面布满了铅笔批注；8) 深色桌面上的一块玻璃棱镜，投射出一道小小的彩虹光束；9) 一本打开的笔记本，有两页手写内容，左页平静且具反思性，右页混乱且有沉重的涂鸦，可见短语“WHY IS NOTHING ENOUGH?”；10) 一个蓝色调的动画风格黑发人物，被发光的蓝色花朵环绕，情绪忧郁，半隐于阴影中；11) 一个安静的房间角落，有两扇高窗，温暖的日落光线在棕色墙壁上投射出纹理图案；12) 一个深色终端窗口，标题为“guest@empyrean:~/notes/untitled.txt”，第 1 行有一个空文本光标。
+
+文本内容：仅在指定位置使用稀疏、清晰的文本。在信件面板中，包含温柔告白的感受：“My dearest, I do not know how to begin this except to say that I have carried this in silence for far too long...” 在笔记本面板中，包含左页的一行字“I woke early today, the kind of quiet that feels like a secret.”以及右页强调的短语“WHY IS NOTHING ENOUGH?”。在音乐面板中，保留“D Mixolydian”。在终端面板中，保留“guest@empyrean:~/notes/untitled.txt”。
+
+视觉风格：大多数面板采用照片级或近乎照片级的真实感，其中包含一个动画插画面板；统一的电影级调色、颗粒感纹理、柔和对比度、烛光琥珀色与深群青色调色板。整体情感应表现为 {argument name="mood" default="温柔的生存忧郁"}。使用写作、音乐、手工、窗外光线、秋天以及细微关怀行为作为主题元素。
+
+约束：不要添加额外的面板、标签、徽标、边框、水印、照片级真实面板中的人物，或明亮的现代色彩。保持拼贴画内容丰富但静谧、亲密且构图严谨。
+
+[English]
+Goal: Create a dark academia / melancholic AI moodboard collage for {argument name="subject" default="Claude's inner world"}, made from text only, with a quiet poetic atmosphere of memory, solitude, warmth, and blue shadow.
+
+Canvas: 3:2 landscape collage, 1152 × 768 style composition, divided into exactly 12 rectangular image panels of varied sizes with thin dark seams between panels. Use cinematic low-key lighting, warm amber highlights, deep navy shadows, tactile textures, and a filmic editorial moodboard look.
+
+Layout and panels: Include exactly 12 discrete panels: 1) a tall, dim old library interior with arched windows, shelves, desks, dust motes, and golden sunbeams; 2) a black crow silhouette perched on a wire against an orange cloudy sunset with sparse autumn branches; 3) a close-up of torn beige handwritten letter paper beginning with “My dearest,” in intimate cursive; 4) a close-up of a wooden loom with vertical blue and ochre threads; 5) a rustic bowl of hot onion soup or noodles with melted cheese stretching from a spoon on a dark wooden table; 6) a small fuzzy orange knitted flower in a tiny pot on a desk beside a monitor; 7) a large worn sheet of handwritten music notation labeled “D Mixolydian,” covered with pencil annotations; 8) a glass prism on a dark tabletop casting a small rainbow beam; 9) an open notebook with two handwritten pages, left page calm and reflective, right page chaotic with heavy scribbles and the visible phrase “WHY IS NOTHING ENOUGH?”; 10) a blue-toned anime-style dark-haired figure surrounded by glowing blue flowers, moody and half-hidden in shadow; 11) a quiet room corner with two tall windows, warm sunset light projecting textured patterns across brown walls; 12) a dark terminal window titled “guest@empyrean:~/notes/untitled.txt” with an empty text cursor on line 1.
+
+Text content: Use only sparse, legible text where specified. In the letter panel, include the feeling of a tender confession: “My dearest, I do not know how to begin this except to say that I have carried this in silence for far too long...” In the notebook panel, include the left-page line “I woke early today, the kind of quiet that feels like a secret.” and the right-page emphatic phrase “WHY IS NOTHING ENOUGH?” In the music panel, preserve “D Mixolydian.” In the terminal panel, preserve “guest@empyrean:~/notes/untitled.txt”.
+
+Visual style: Photorealistic or near-photorealistic for most panels, with one anime illustration panel; cohesive cinematic grading, grainy texture, soft contrast, candlelit amber and deep ultramarine palette. Overall emotion should feel like {argument name="mood" default="tender existential melancholy"}. Use motifs of writing, music, craft, light through windows, autumn, and small acts of care.
+
+Constraints: Do not add extra panels, labels, logos, borders, watermarks, people in the photorealistic panels, or bright modern colors. Keep the collage dense but quiet, intimate, and carefully composed.
+```
+
+**来源：** [@Digi_Rat](https://x.com/digi_dot_exe/status/2074136234197447035) | 2026-07-06
+
+---
+
+### 🖥️ 例 3281：可爱 AI 涂鸦生成器落地页
+
+![可爱 AI 涂鸦生成器落地页](../../images/%E5%8F%AF%E7%88%B1%20AI%20%E6%B6%82%E9%B8%A6%E7%94%9F%E6%88%90%E5%99%A8%E8%90%BD%E5%9C%B0%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款将照片转换为可爱手绘涂鸦插画的 AI 网站创建一个可爱的中文落地页 UI 模型，品牌名为 {argument name="product name" default="涂鸦工坊"}，并贴上一个写有 {argument name="model label" default="GPT Image 2"} 的黑色胶囊标签。
+
+画布：宽屏 16:9 网页首屏截图，尺寸约为 1200×675，暖米白色纸张背景，柔和阴影，圆角卡片，点缀淡紫色、粉色、黄色和天蓝色。采用俏皮的可爱文具风格，边缘装饰有涂鸦爱心、箭头、星星、乱涂乱画、贴纸、胶带、彩色铅笔和小盆栽。
+
+页眉：左上角放置黑色圆角标签“GPT Image 2”，紧随其后的是调色板图标 Logo 和网站名称“涂鸦工坊”，下方配有小副标题“照片变涂鸦，创意每一天”。顶部导航栏显示 6 个带有简约线条图标的菜单项：“首页”（以紫色胶囊高亮显示）、“案例展示”、“使用教程”、“价格方案”、“常见问题”和“会员中心”。最右侧添加一个紫色轮廓的“登录/注册”按钮。
+
+首屏区域：左侧创建一个大号笔刷风格的标题 {argument name="headline text" default="把照片变成 可爱涂鸦"}，其中“可爱”为黄色，“涂鸦”为粉色，周围环绕着涂鸦爱心和下划线笔触。下方添加副标题“上传你的照片，AI 一键生成可爱涂鸦风格图片”。副标题下方放置 3 个功能标签：1) 紫色图标“智能识别主体 / 精准识别人像与宠物”，2) 粉色图标“多种涂鸦风格 / 手绘风格任你选择”，3) 蓝色下载图标“高清下载保存 / 高清画质一键保存”。
+
+上传卡片：中右侧放置一个白色大圆角上传面板，包含虚线圆角拖拽区、紫色云上传图标，以及文字“拖拽图片到这里 或点击下方按钮上传”，并附带小字“支持 JPG、PNG 格式，大小不超过 20MB”。内部包含一个小型轮廓按钮“上传照片”，下方是一个带有闪烁图标的紫色渐变主按钮，写着“开始生成涂鸦”。
+
+右侧展示贴纸：在上传卡片右侧，展示 2 张用胶带贴在页面上的倾斜拍立得风格样本卡片：1) 一张可爱的动漫风格女孩肖像，标注“人物涂鸦效果”，配有粉色爱心；2) 一张毛茸茸的小狗涂鸦肖像，标注“宠物涂鸦效果”，配有蓝色爱心。
+
+案例画廊：在首屏下方，创建一个标题为“看看效果有多棒”的区域，配有黄色星星和红色下划线。展示 3 组白色圆角卡片形式的对比图，每组包含两张由紫色箭头分隔的图片：1) 标注“宠物照”，将一张真实的毛茸茸杏色小狗照片转换为带有爱心的可爱手绘小狗插画；2) 标注“人像照”，将一张真实的年轻女性肖像转换为带有花朵和星星的柔和动漫女孩插画；3) 标注“情侣生活照”，将一张情侣照片转换为浪漫的动漫情侣涂鸦。确保生成后的图片风格清新、可爱、色调柔和。
+
+流程条：在画廊下方，创建一个标题为“只需三步，轻松生成”的三步水平引导。展示 3 个由箭头连接的数字步骤：步骤 1“上传照片 / 支持 JPG、PNG 格式”（配上传图标），步骤 2“AI 生成 / 智能识别一键生成”（配 AI 芯片图标），步骤 3“下载结果 / 高清保存 分享美好”（配下载图标）。
+
+底部保障栏：底部放置 4 个带有图标的信任功能卡片：1) 绿色盾牌“隐私保护 / 照片仅用于生成涂鸦，24小时后自动删除”，2) 蓝色盾牌勾选“安全可靠 / 数据加密传输，保障你的信息安全”，3) 黄色高清徽章“高清输出 / 高清画质输出，细节丰富不模糊”，4) 紫色设备图标“手机电脑都能用 / 支持多端访问，随时随地创作”。右侧添加一张写有 {argument name="sticky note text" default="记录美好 创意无限"} 的便签纸，并配有一个笑脸。
+
+视觉风格：现代精致的 UI/UX 设计，清晰易读的中文排版，俏皮的手绘装饰，柔和的奶油色背景，玻璃质感圆角白卡，细腻的投影，紫色 CTA 渐变，可爱的涂鸦插画美学。避免出现浏览器边框、水印或额外的未列出区域。
+
+[English]
+Goal: Create a cute Chinese landing-page UI mockup for an AI website that turns photos into adorable hand-drawn doodle illustrations, branded as {argument name="product name" default="涂鸦工坊"} and tagged with a black pill label reading {argument name="model label" default="GPT Image 2"}.
+
+Canvas: Wide 16:9 web hero screenshot, approximately 1200×675, warm off-white paper background, soft shadows, rounded cards, pastel purple, pink, yellow, and sky-blue accents. Use a playful kawaii stationery style with doodled hearts, arrows, stars, scribbles, stickers, tape, colored pencils, and small potted plants around the edges.
+
+Header: At top left place the black rounded label “GPT Image 2”, then a palette icon logo and the site name “涂鸦工坊” with the small subtitle “照片变涂鸦，创意每一天”. Across the top navigation show exactly 6 menu items with simple line icons: “首页” highlighted in a purple pill, “案例展示”, “使用教程”, “价格方案”, “常见问题”, and “会员中心”. At the far right add a purple outlined login button labeled “登录/注册”.
+
+Hero section: On the left, create a large brush-style headline reading {argument name="headline text" default="把照片变成 可爱涂鸦"}, with “可爱” in yellow and “涂鸦” in pink, surrounded by doodle hearts and underline strokes. Under it add the subheading “上传你的照片，AI 一键生成可爱涂鸦风格图片”. Below the subheading place exactly 3 feature chips: 1) purple icon “智能识别主体 / 精准识别人像与宠物”, 2) pink icon “多种涂鸦风格 / 手绘风格任你选择”, 3) blue download icon “高清下载保存 / 高清画质一键保存”.
+
+Upload card: On the center-right place a large white rounded upload panel with a dashed rounded drop zone, a purple cloud-upload icon, and the text “拖拽图片到这里 或点击下方按钮上传”, plus smaller text “支持 JPG、PNG 格式，大小不超过 20MB”. Inside it include a small outlined button “上传照片”, and below it a large purple gradient primary button reading “开始生成涂鸦” with sparkle icons.
+
+Right showcase stickers: To the right of the upload card, show exactly 2 tilted polaroid-style sample cards taped to the page: 1) a cute anime-style girl portrait labeled “人物涂鸦效果” with a pink heart, 2) a fluffy dog doodle portrait labeled “宠物涂鸦效果” with a blue heart.
+
+Example gallery: Below the hero, create a section title “看看效果有多棒” with a yellow star and a red underline. Show exactly 3 before-to-after comparison groups in white rounded cards, each group containing two images separated by a purple arrow: 1) labeled “宠物照”, a real fluffy apricot puppy photo transformed into a cute hand-drawn puppy illustration with hearts, 2) labeled “人像照”, a real young woman portrait transformed into a soft anime girl illustration with flowers and stars, 3) labeled “情侣生活照”, a couple photo transformed into a romantic anime couple doodle. Keep the after-images pastel, clean, and adorable.
+
+Process strip: Under the gallery, create a three-step horizontal guide titled “只需三步，轻松生成”. Show exactly 3 numbered steps connected by arrows: step 1 “上传照片 / 支持 JPG、PNG 格式” with an upload icon, step 2 “AI 生成 / 智能识别一键生成” with an AI chip icon, step 3 “下载结果 / 高清保存 分享美好” with a download icon.
+
+Bottom assurance bar: Along the bottom place exactly 4 trust feature cards with icons: 1) green shield “隐私保护 / 照片仅用于生成涂鸦，24小时后自动删除”, 2) blue shield-check “安全可靠 / 数据加密传输，保障你的信息安全”, 3) yellow HD badge “高清输出 / 高清画质输出，细节丰富不模糊”, 4) purple device icon “手机电脑都能用 / 支持多端访问，随时随地创作”. Add a sticky note on the right reading {argument name="sticky note text" default="记录美好 创意无限"} with a smiley face.
+
+Visual style: Modern polished UI/UX design, highly legible Chinese typography, playful hand-drawn accents, soft cream background, glassy rounded white cards, subtle drop shadows, purple CTA gradient, adorable doodle illustration aesthetic. Avoid browser chrome, watermarks, or extra unlisted sections.
+```
+
+**来源：** [@MtyCodeAI](https://x.com/MtyCodeAI/status/2074116896853532903) | 2026-07-06
+
+---
+
+### 🖥️ 例 3285：微缩世界错觉人像
+
+![微缩世界错觉人像](../../images/%E5%BE%AE%E7%BC%A9%E4%B8%96%E7%95%8C%E9%94%99%E8%A7%89%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个奇幻的微缩世界错觉，其中 {argument name="subject" default="主角女孩"} 显得十分渺小，站在一只巨大的人手下方，拇指和食指从上方轻轻地将其框住，但并未触碰。她抬头露出温暖真诚的微笑，双手背在身后，穿着 {argument name="clothing" default="同样的红色衬衫、黑色长裤和白色运动鞋"}。在她身边站着一只 {argument name="pet" default="毛茸茸的小白狗"}，正好奇地抬头仰望。温暖的金色阳光，柔和的电影级阴影，微小的漂浮爱心，细腻的闪光，温暖的焦外成像，魔法氛围，梦幻视角，超写实，Pinterest 审美，高级编辑摄影，8K。
+
+[English]
+Create a whimsicalminiature-world illusion where {argument name="subject" default="Main girl"} appears tiny, standing beneath a giant human hand with the thumb and index finger gently framing her from above without touching. She looks up with a warm genuine smile, hands behind her back, wearing {argument name="clothing" default="the same red shirt, black long, and white sneakers"}. Beside her stands a {argument name="pet" default="small fluffy white puppy"} looking up with curiosity. Warm golden sunlight, soft cinematic shadows, tiny floating hearts, subtle sparkles, warm bokeh, magical atmosphere, dreamy perspective, ultra-realistic, Pinterest aesthetic, premium editorial photography, 8K.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2074106767332474994) | 2026-07-06
+
+---
+
+### 🖥️ 例 3290：中文学习卡片社交媒体截图
+
+![中文学习卡片社交媒体截图](../../images/%E4%B8%AD%E6%96%87%E5%AD%A6%E4%B9%A0%E5%8D%A1%E7%89%87%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张方形社交媒体拼贴截图，并排展示两张中文学习卡片帖子，类似于小学数学和科学视觉笔记的创作者作品集预览。
+
+画布：756×628 像素的方形截图裁剪，白色背景，分为左右两栏。每栏上方包含一张教育笔记图片，下方为部分社交媒体标题区域。整体外观应呈现类似手机截图的轻微压缩感，带有柔和阴影和边缘裁剪。
+
+布局：使用 2 张帖子卡片。左侧帖子：一张关于三年级长方形和正方形的数学知识卡片，位于左上方，下方显示标题和点赞数。右侧帖子：一张关于质量与密度的物理知识卡片，位于右上方，下方显示标题和点赞数。在两个点赞数区域周围添加粗体手绘红色标记圆圈，底部略微裁剪。
+
+左侧卡片细节：米色横线笔记本纸背景，配有蓝色和黑色手写体中文。标题文字：{argument name="left card title" default="长方形和正方形·三年级"}。副标题：“认识多边形·周长计算”。右上角包含一个 3 星橙色难度评分。卡片包含 2 个主要图示部分：一个标记为“长方形”，展示带有长和宽箭头的矩形；另一个标记为“正方形”，展示带有相等边长标签的正方形。在图示周围包含 4 个彩色小方块/长方形：蓝色、绿色、橙色和黄色。包含一个关于人绕图形行走以解释周长的小型圆形插图。在卡片中心添加一个半透明深色遮罩，上面有白色大字“刚刚看过”。底部的公式和笔记解释了长方形周长和正方形周长，包括框选公式，如“长方形周长=(长+宽)×2”和“正方形周长=边长×4”。底部添加一个橙色圆角胶囊标签，写着“理化笔记·原创内容”。
+
+右侧卡片细节：米色横线笔记本纸背景，配有整洁的黑色手写体中文。标题文字：{argument name="right card title" default="第六章 质量与密度"}。顶部包含 3 个主要的科学对象插图：一个带有物品和砝码的天平、一个带有箭头的马蹄形磁铁，以及一个装有蓝色液体的量筒。添加标签，如“待测物”、“砝码”、“托盘天平”和“量筒”。下方包含 4 个带编号的学习部分：1. 质量与单位，2. 天平使用步骤，3. 密度公式与单位，4. 密度测量。展示密度公式“ρ=m/V”和单位换算，包括“1 g/cm³ = 1000 kg/m³”。底部添加一个橙色圆角矩形标注，写着“核心难点：单位换算 & 实验误差分析”，以及底部小字“理化笔记·原创内容”。
+
+底部社交媒体区域：在左侧卡片下方，显示以“别只背公式！一张图讲透【周长】底层逻辑”开头的加粗中文标题。在右侧卡片下方，显示以“天平使用8步法 + 密度计算模板，物理多拿12分”开头的加粗中文标题。在每个标题下方，显示一个带有黄色灯泡图标的小圆形头像和创作者名称“图解考点左老师”。显示 2 个可见的点赞小组件，每个都有灰色轮廓的心形图标和数字：左侧点赞数 {argument name="left like count" default="3184"}，右侧点赞数 {argument name="right like count" default="1859"}。用粗红色手绘标记圈出这两个点赞小组件。
+
+视觉风格：简洁的中文教育信息图卡片，手绘教科书美学，横线纸纹理，柔和的粉彩图表颜色，黑色/蓝色手写注释，橙色强调框，逼真的截图裁剪，除微小简单的插图外无照片级人物，除显示的创作者/页脚文字外无水印。
+
+约束：所有可见文字在指定处必须为中文。帖子卡片不超过 2 张，右侧卡片顶部科学对象不超过 3 个，左侧卡片主要几何图示部分不超过 2 个，右侧卡片带编号部分不超过 4 个，圈出的点赞小组件不超过 2 个。
+
+[English]
+Goal: Create a square social-media collage screenshot showing two Chinese study-card posts side by side, like a creator portfolio preview for primary-school math and science visual notes.
+
+Canvas: 756×628 px square-ish screenshot crop, white background, divided into two vertical columns. Each column contains one educational note image on top and a partial social feed caption area beneath. The overall look should be slightly compressed like a phone screenshot, with mild shadows and cropped edges.
+
+Layout: Use exactly 2 post cards. Left post: a math knowledge card about rectangles and squares for third grade, positioned in the upper-left, with the bottom caption and like count visible below it. Right post: a physics knowledge card about mass and density, positioned in the upper-right, with the bottom caption and like count visible below it. Add thick hand-drawn red marker circles around both like-count areas, partially cropped at the bottom.
+
+Left card details: Beige lined notebook-paper background with blue and black handwritten Chinese typography. Header text: {argument name="left card title" default="长方形和正方形·三年级"}. Subtitle: “认识多边形·周长计算”. Include a small difficulty rating with 3 orange stars near the top right. The card contains exactly 2 main diagram sections: one labeled “长方形” showing a rectangle with length and width arrows, and one labeled “正方形” showing a square with equal side labels. Include exactly 4 small colored square/rectangle blocks around the diagrams: blue, green, orange, and yellow. Include a small circular illustration of a person walking around a shape to explain perimeter. Add a semi-transparent dark overlay centered on the card with large white Chinese text “刚刚看过”. Bottom formulas and notes explain rectangle perimeter and square perimeter, including boxed formulas such as “长方形周长=(长+宽)×2” and “正方形周长=边长×4”. Add a rounded orange pill near the bottom reading “理化笔记·原创内容”.
+
+Right card details: Beige lined notebook-paper background with neat black Chinese handwritten style. Header text: {argument name="right card title" default="第六章 质量与密度"}. Include exactly 3 main illustrated science objects across the top: a balance scale with an item and weights, a horseshoe magnet with an arrow, and a graduated cylinder filled with blue liquid. Add labels such as “待测物”, “砝码”, “托盘天平”, and “量筒”. Below, include exactly 4 numbered learning sections: 1. mass with units, 2. balance scale use with steps, 3. density formula and units, 4. measuring density. Show the density formula “ρ=m/V” and unit conversions including “1 g/cm³ = 1000 kg/m³”. At the bottom, add an orange rounded rectangle callout reading “核心难点：单位换算 & 实验误差分析”, and small footer text “理化笔记·原创内容”.
+
+Bottom social feed area: Under the left card, show a bold Chinese caption beginning “别只背公式！一张图讲透【周长】底层逻辑”. Under the right card, show a bold Chinese caption beginning “天平使用8步法 + 密度计算模板，物理多拿12分”. Beneath each caption, show a small circular avatar with a yellow lightbulb-like icon and creator name text “图解考点左老师”. Show exactly 2 visible like widgets, each with a gray outline heart icon and number: left like count {argument name="left like count" default="3184"}, right like count {argument name="right like count" default="1859"}. Circle both like widgets with thick red freehand marker strokes.
+
+Visual style: Clean Chinese educational infographic cards, hand-drawn textbook aesthetic, lined paper texture, muted pastel diagram colors, black/blue handwritten annotations, orange emphasis boxes, realistic screenshot crop, no photorealistic people except tiny simple illustration, no watermark beyond the displayed creator/footer text.
+
+Constraints: Keep all visible text in Chinese where specified. Do not add more than 2 post cards, 3 top science objects on the right card, 2 main geometry diagram sections on the left card, 4 numbered sections on the right card, or 2 circled like widgets.
+```
+
+**来源：** [@黄小木](https://x.com/ai_xiaomu/status/2074086959710871731) | 2026-07-06
+
+---
+
+### 🖥️ 例 3295：现代建筑背景下的时尚肖像
+
+![现代建筑背景下的时尚肖像](../../images/%E7%8E%B0%E4%BB%A3%E5%BB%BA%E7%AD%91%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位自信的年轻男子双臂交叉站在一根垂直立柱旁，身着 {argument name="attire" default="一件浅棕色传统长袍，袖口卷起，头上缠着米红色图案的阿拉伯头巾"}。他留着 {argument name="facial hair" default="修剪得十分精致的利落方型胡须，配有轮廓分明的山羊胡"}，嘴唇饱满，佩戴着 {argument name="accessories" default="反光银色飞行员太阳镜"}。他的表情沉稳、大胆且时尚。柔和的自然光照亮了他的脸庞，营造出电影般的阴影效果。背景为虚化的户外场景，展现出优雅的现代建筑，浅景深，超逼真细节，自然的皮肤纹理，高端时尚摄影，高动态范围，85mm 镜头，焦点清晰，照片级真实感，8K 分辨率，编辑风格，垂直构图，9:16 纵横比。
+
+[English]
+A confident young man standing with his arms crossed beside a vertical pillar, wearing {argument name="attire" default="a light brown traditional thobe with rolled-up sleeves and a beige-red patterned keffiyeh wrapped around his head"}. He has a {argument name="facial hair" default="perfectly groomed sharp boxed beard with a defined goatee"}, full lips, and {argument name="accessories" default="reflective silver aviator sunglasses"}. His expression is calm, bold, and stylish. Soft natural daylight illuminates his face, creating cinematic shadows. The background features a blurred outdoor setting with elegant modern architecture, shallow depth of field, ultra-realistic details, natural skin texture, premium fashion photography, high dynamic range, 85mm lens, crisp focus, photorealistic, 8K, editorial style, vertical composition, 9:16 aspect ratio.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2074079234285560292) | 2026-07-06
+
+---
+
+### 🖥️ 例 3306：包豪斯几何风格时尚大片
+
+![包豪斯几何风格时尚大片](../../images/%E5%8C%85%E8%B1%AA%E6%96%AF%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高级时尚摄影，年轻女性，深棕色长发，动态姿势，单腿抬起弯曲膝盖，手持黑色细带高跟凉鞋，身穿 {argument name="outfit one" default="蓝白扎染绞缬印花修身连体裤，长袖阔腿设计"}，置身于哑光白色大型建筑几何镂空板之间，面板上设有圆形镂空，露出背后的 {argument name="accent color" default="鲜艳琥珀黄色"} 背景，头部高度设有一个大圆镂空，地面高度设有一个大半圆镂空，形成 S 型负空间勾勒人物轮廓，右上角漂浮着一个小琥珀色圆圈，柔和的中性浅灰色摄影棚背景，干净无阴影的漫射光，包豪斯构成主义几何场景设计，垂直 4:5 构图，时尚大片摄影 --ar 4:5 --v 6
+
+高级时尚摄影，年轻女性，顺滑深色头发，动态单腿抬起姿势，身穿鲜艳红白抽象印花修身连体裤，置身于干净的白色大型建筑几何镂空板中，圆形和半圆形开口露出醒目的电光蓝背景，右上角有小钴蓝色圆圈点缀，柔和的中性摄影棚背景，定向照明产生的强烈图形阴影增添戏剧感，包豪斯构成主义几何场景设计，红蓝互补色对比强烈，垂直 4:5 构图，奢华时尚大片 --ar 4:5 --v 6
+
+高级时尚摄影，年轻女性，头发向后梳得利落，动态抬腿力量感姿势，身穿黑金抽象笔触印花修身连体裤，黑色细带高跟凉鞋，置身于深炭哑光黑色超大建筑几何镂空板中，圆形和半圆形镂空露出鲜艳的金色背景，营造出戏剧性的光环和弧形效果，画面中漂浮着一个小金圆圈，模特身上微妙的戏剧性轮廓光使其与深色面板分离，精致的深色奢华包豪斯大片场景设计，垂直 4:5 构图，高级时尚广告摄影 --ar 4:5 --v 6
+
+[English]
+High-fashion editorial photography, young woman with long dark brown hair, dynamic pose with one leg raised and knee bent holding a black strappy heeled sandal, wearing a {argument name="outfit one" default="blue and white tie-dye shibori print fitted jumpsuit with long sleeves and wide-leg trousers"}, posed between and within large architectural geometric cutout panels in matte white, panels featuring circular cutout openings revealing {argument name="accent color" default="vivid amber-yellow"} backing behind, one large full circle cutout at head level, one large semicircle cutout at floor level creating an S-curve negative space framing the figure, one small amber circle floating in upper right corner, soft neutral light gray studio background, clean shadow-free diffused lighting, Bauhaus constructivist geometric set design, vertical 4:5 composition, fashion editorial photography --ar 4:5 --v 6
+
+High-fashion editorial photography, young woman with sleek dark hair, dynamic one-leg-raised pose, wearing a vivid red and white abstract print fitted jumpsuit, posed within large architectural geometric cutout panels in clean white, circular and semicircular openings revealing bold electric blue backing, small cobalt blue circle accent in upper corner, soft neutral studio background, strong graphic shadow from directional lighting adding drama, Bauhaus constructivist geometric set design with bold complementary red and blue color contrast, vertical 4:5 composition, luxury fashion editorial --ar 4:5 --v 6
+
+High-fashion editorial photography, young woman with sleek pulled-back hair, dynamic raised-leg power pose, wearing a black and gold abstract brushstroke print fitted jumpsuit, black strappy heeled sandals, posed within oversized architectural geometric cutout panels in deep charcoal matte black, circular and semicircular cutout openings revealing vivid gold backing creating dramatic halo and arc effects, small gold circle floating in frame, subtle dramatic rim lighting on model creating separation from dark panels, sophisticated dark luxury Bauhaus editorial set design, vertical 4:5 composition, high-fashion campaign photography --ar 4:5 --v 6
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2074048972663275654) | 2026-07-06
+
+---
+
+### 🖥️ 例 3326：暗黑风格动漫 Prompt Foundry UI
+
+![暗黑风格动漫 Prompt Foundry UI](../../images/%E6%9A%97%E9%BB%91%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%20Prompt%20Foundry%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个暗黑风格的桌面应用程序截图，用于 {argument name="app name" default="AIPS BABEL // Prompt Foundry"}，展示一个集成了动漫聊天助手和生成图像预览的 AI 图像提示词生成工具。
+
+画布：16:9 宽屏桌面窗口，尺寸约为 1200×760，清晰的 UI 截屏风格，深炭灰色主题，配有细蓝灰色边框和金色强调按钮。在最顶部包含一个 Windows 风格的标题栏，带有最小化、最大化和关闭图标。
+
+布局：将界面分为 2 个主要列。左侧列是一个占据约三分之一宽度的图像预览面板。右侧列是占据约三分之二宽度的提示词/聊天工作区。在应用顶部添加一个导航条，左侧预览上方添加一个标签页栏，右侧工作区上方添加一个聊天标题，中间是一个可滚动的消息区域，消息下方是缩略图预览，底部是一个控制/输入栏。
+
+顶部导航：左上角显示应用标签 “AIPS BABEL”。添加 3 个模式标签：“Text Prompt Mode”、“Analysis” 以及一个高亮的金色 “Mio Mode”。在顶部中心区域包含一个长条状的黑色遮盖文本框。右侧添加 5 个控件：绿色的 “Save Config”、灰色的 “Load Config”、灰色的 “Reset Window”、“UI Scale: 100%”（带有一个小的金色下拉按钮）以及灰色的 “Options”。
+
+左侧预览面板：展示一张占据几乎整个左侧面板的竖版动漫演唱会插图。主体是 {argument name="character description" default="一位充满活力的动漫马娘偶像，留着棕色双马尾，有动物耳朵、长尾巴，穿着赛车偶像装、短裤、手套和绿色腿套"}。她以极具张力的低角度从后方/侧方被拍摄，正处于表演中，一只手臂伸展，站在光亮的舞台边缘，处于强烈的蓝白色聚光灯下。背景是一个暗黑风格的演唱会现场，有蓝色荧光棒和粒子/彩带。图像应呈现高质量动漫关键视觉图的质感，并带有电影级光影。在预览上方，包含一个类似浏览器的标签页标题，使用日语：“Mio - スポットライトを浴びてポーズを決めるジャングルポケットの躍動感あるライブショット (3/3)...”，并带有一个小的关闭按钮。
+
+右侧工作区标题：面板标题为 “Mio Mode — Agent Chat”。最右侧显示状态 “STANDBY” 以及 2 个按钮：“Log” 和 “Clear Chat”。
+
+消息区域：使用一个深色的可滚动聊天面板，顶部是日语提示词文本，随后是 2 个带有绿色日语标题和等宽字体英文提示词内容的大型提示词卡片。第一张卡片应描述《赛马娘》中 Jungle Pocket 在大型演唱会舞台上充满活力的现场表演镜头，宽幅电影构图，强烈的彩色灯光，聚光灯穿透烟雾，模糊的观众，专业摄影风格。第二张卡片应为选中/最终版本，并包含质量标签，如 “masterpiece, best quality, highres, absurdres, newest, score_8, score_9” 以及一个低角度舞台现场动作镜头。在提示词卡片下方放置 3 个带有日语标签的小型操作按钮：“コピー”、“再生成” 以及一个红色的 “削除”。
+
+缩略图部分：在聊天卡片下方显示 2 个生成的缩略图卡片。左侧缩略图是一张带有洋红色和蓝色灯光的宽幅演唱会舞台动漫图像；右侧缩略图是一个与左侧大预览相匹配的竖向裁剪图。每个缩略图下方都有日语标题；左侧以 “ステージで躍動するジャングルポケットのダイナミックなライ...” 开头，右侧以 “スポットライトを浴びてポーズを決めるジャングルポケット...” 开头。
+
+底部控件：创建一个水平设置栏，包含 8 个可见控件：勾选 “Anima”、勾选 “Hires”、质量标签 “品質: 標準 (30/4.0)”（带金色下拉菜单）、尺寸标签 “サイズ: 中 (1280×720)”（带金色下拉菜单）、方向标签 “向き: お任せ”（带金色下拉菜单）、样式标签 “Style: FLUX (自然文)”（带金色下拉菜单）、数量标签 “枚数: 2”（带金色下拉菜单）以及一个小型的绿色 “AnimaDex” 标签。在其下方，包含一个长条状的空白黑色输入框，右侧有 2 个堆叠的按钮：金色的 “SEND” 和红色的 “STOP”。
+
+视觉风格：写实的应用程序模型/截图，文字尽可能清晰，暗黑未来感 UI，微妙的阴影，细线条，紧凑的间距，选中控件使用金色高亮，激活状态使用绿色强调。保持动漫预览的鲜艳和明亮，与暗黑界面形成对比。
+
+约束：除描述的布局外，不要包含额外的面板。保留可见的英文 UI 标签和日语提示词标签的混合。界面应看起来像一个本地的 ComfyUI 风格的 Prompt Foundry 工具，而不是一个网站。
+
+[English]
+Goal: Create a dark desktop application screenshot for {argument name="app name" default="AIPS BABEL // Prompt Foundry"}, showing an AI image-prompt generation tool with an integrated anime chat assistant and generated image preview.
+
+Canvas: 16:9 widescreen desktop window, approximately 1200×760, sharp UI capture style, dark charcoal theme with thin blue-gray borders and gold accent buttons. Include a Windows-style title bar at the very top with minimize, maximize, and close icons.
+
+Layout: Split the interface into 2 main columns. The left column is a large image preview panel occupying about one third of the width. The right column is the prompt/chat workspace occupying about two thirds of the width. Add a top navigation strip across the app, a tab strip above the left preview, a chat header above the right workspace, a scrollable message area in the middle, thumbnail previews below the messages, and a control/input bar along the bottom.
+
+Top navigation: At the upper left show the app label “AIPS BABEL”. Add exactly 3 mode tabs: “Text Prompt Mode”, “Analysis”, and a highlighted gold “Mio Mode”. In the center/top area include a long black redacted-looking text field. On the right add exactly 5 controls: green “Save Config”, gray “Load Config”, gray “Reset Window”, “UI Scale: 100%” with a small gold dropdown button, and gray “Options”.
+
+Left preview panel: Show a tall anime concert illustration filling nearly the full left pane. The subject is {argument name="character description" default="a dynamic anime horse-girl idol with brown twin-tail hair, animal ears, long tail, racing-idol outfit, shorts, gloves, and green leg warmers"}. She is viewed from a dramatic low angle from behind/side, mid-performance with one arm extended, standing on a glossy stage edge under intense blue-white spotlights. The background contains a dark concert venue with blue glow sticks and particles/confetti. The image should look like high-quality anime key art with cinematic lighting. Above the preview, include a browser-like tab title in Japanese: “Mio - スポットライトを浴びてポーズを決めるジャングルポケットの躍動感あるライブショット (3/3)...” with a small close button.
+
+Right workspace header: Title the panel “Mio Mode — Agent Chat”. On the far right show status “STANDBY” and exactly 2 buttons: “Log” and “Clear Chat”.
+
+Message area: Use a dark scrollable chat panel with Japanese prompt text at the top, followed by exactly 2 large prompt cards with green Japanese titles and monospaced English prompt bodies. The first card should describe a dynamic high-energy live performance shot of Jungle Pocket from Uma Musume on a grand concert stage, wide cinematic composition, intense colorful lights, spotlight cutting through haze, blurred audience, professional photography. The second card should be the selected/final version and include quality tags such as “masterpiece, best quality, highres, absurdres, newest, score_8, score_9” and a low-angle live-on-stage action shot. Under the prompt cards place exactly 3 small action buttons labeled in Japanese: “コピー”, “再生成”, and a red “削除”.
+
+Thumbnail section: Beneath the chat cards show exactly 2 generated thumbnail cards. The left thumbnail is a wide concert-stage anime image with magenta and blue lights; the right thumbnail is a vertical crop matching the large left preview. Each thumbnail has a Japanese caption underneath; the left begins with “ステージで躍動するジャングルポケットのダイナミックなライ...” and the right begins with “スポットライトを浴びてポーズを決めるジャングルポケット...”.
+
+Bottom controls: Create one horizontal settings bar with exactly 8 visible controls: checked “Anima”, checked “Hires”, quality label “品質: 標準 (30/4.0)” with a gold dropdown, size label “サイズ: 中 (1280×720)” with a gold dropdown, orientation label “向き: お任せ” with a gold dropdown, style label “Style: FLUX (自然文)” with a gold dropdown, count label “枚数: 2” with a gold dropdown, and a small green “AnimaDex” label. Below it, include a long empty black input box and on the right exactly 2 stacked buttons: gold “SEND” and red “STOP”.
+
+Visual style: Realistic app mockup/screenshot, crisp text where possible, dark futuristic UI, subtle shadows, thin outlines, compact spacing, gold highlights for selected controls, green accents for active states. Keep the anime preview vibrant and luminous, contrasting with the dark interface.
+
+Constraints: Include no extra panels beyond the described layout. Preserve the visible mix of English UI labels and Japanese prompt labels. The interface should look like a local ComfyUI-style prompt foundry tool rather than a website.
+```
+
+**来源：** [@ひゅぺる](https://x.com/hyperboleon/status/2073975429191664101) | 2026-07-06
+
+---
+

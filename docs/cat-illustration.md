@@ -6767,3 +6767,163 @@ Create a highly detailed pixel-art style illustration of a ferocious fluffy {arg
 
 ---
 
+### 🎨 例 3255：Monogram 大马士革纹样色板
+
+![Monogram 大马士革纹样色板](../../images/Monogram%20%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E7%BA%B9%E6%A0%B7%E8%89%B2%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+このモノグラムをベースに{argument name="模様" default="ダマスク模様"}のスウォッチを作ってください
+カラーリングはモノクロのままでお願いします
+必ず等間隔にモノグラムが配置されるようにお願いします
+```
+
+**来源：** [@杏之](https://x.com/un_none_know/status/2074271729527234845) | 2026-07-06
+
+---
+
+### 🎨 例 3269：简约动漫少女角色
+
+![简约动漫少女角色](../../images/%E7%AE%80%E7%BA%A6%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="数量" default="1"} {argument name="対象" default="girl"}
+```
+
+**来源：** [@nema](https://x.com/nema_na_cemu/status/2074156748894839252) | 2026-07-06
+
+---
+
+### 🎨 例 3272：巨型机器人拦截姿态
+
+![巨型机器人拦截姿态](../../images/%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%A6%E6%88%AA%E5%A7%BF%E6%80%81.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主役" default="巨大ロボット"}　{argument name="状態" default="迎撃態勢"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2074136122872213859) | 2026-07-06
+
+---
+
+### 🎨 例 3282：阁楼里的超现实海洋插画
+
+![阁楼里的超现实海洋插画](../../images/%E9%98%81%E6%A5%BC%E9%87%8C%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%B5%B7%E6%B4%8B%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="阁楼里的海洋"}
+
+[English]
+{argument name="subject" default="The ocean in the attic"}
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2074115287973032250) | 2026-07-06
+
+---
+
+### 🎨 例 3289：图形丝网印刷人兽插画
+
+![图形丝网印刷人兽插画](../../images/%E5%9B%BE%E5%BD%A2%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7%E4%BA%BA%E5%85%BD%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+大胆的图形丝网印刷插画，主体为 {argument name="subject" default="[HUMAN] 侧脸"}，与三种风格化的 {argument name="animal" default="[ANIMAL]"} 紧密交织，采用 {argument name="colors" default="[COLOR1]、[COLOR2] 和 [COLOR3]"} 的有限配色方案。粗犷的重叠线条贯穿始终，带有明显的半色调和粗糙的油墨纹理颗粒感，模拟手工孔版印刷或丝网印刷效果，并带有轻微的套色偏差。人脸与动物形态共用巨大的图形化眼睛，扁平大胆的形状，无渐变，高对比度的负空间，民间艺术 / 复古海报美学，人与动物特征之间超现实的构图重叠，{argument name="colors" default="[COLOR3]"} 纸张背景，带有细圆角边框，编辑插画风格。
+
+[English]
+Bold graphic screen-print illustration of {argument name="subject" default="[HUMAN] face in profile"}, tightly interwoven with three stylized {argument name="animal" default="[ANIMAL]"}, rendered in a limited palette of {argument name="colors" default="[COLOR1], [COLOR2], and [COLOR3]"}. Thick overlapping linework with visible halftone and rough ink-texture grain throughout, mimicking a hand-pulled riso or silkscreen print with slight color misregistration. Large graphic eyes shared between the face and the animal forms, flat bold shapes with no gradients, high contrast negative space, folk-art / vintage poster aesthetic, surreal compositional overlap between human and animal features, [COLOR3] paper background with a thin rounded-corner border, editorial illustration style.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2074087596746330464) | 2026-07-06
+
+---
+
+### 🎨 例 3316：可爱绿色豆豆拼贴艺术女孩
+
+![可爱绿色豆豆拼贴艺术女孩](../../images/%E5%8F%AF%E7%88%B1%E7%BB%BF%E8%89%B2%E8%B1%86%E8%B1%86%E6%8B%BC%E8%B4%B4%E8%89%BA%E6%9C%AF%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个由拼拼豆豆（fuse beads / Perler beads）制作的可爱手工豆豆艺术场景，拍摄效果如同真实的桌面手工艺品。主体是一个 Q 版动漫风格的 {argument name="character name" default="绿发女孩"}，她坐在一个圆形的绿米色拼豆地毯上，身穿一件深浅绿色渐变的超大号连帽衫，带有两条白色抽绳、宽大的圆袖，露出桃色的双脚，并穿着带有绿色条纹的白色短袜。她拥有非常长的卷曲/波浪状 {argument name="hair color" default="绿色"} 头发，由许多豆豆簇组成，有着大而闪亮的深绿色眼睛、红润的脸颊、微笑着的小嘴，一只手举起比出剪刀手姿势。她头上戴着一顶白色棒球帽，帽檐为绿色，上面印有醒目的红色字母 {argument name="cap text" default="AI"}。使整个角色和所有道具都清晰地呈现出由带有空心的小圆形塑料豆豆构成，以像素艺术渐变排列，并带有柔和的阴影和触感深度。
+
+画布与风格：1:1 正方形构图，温暖的浅黄色背景，柔和的摄影棚灯光，浅景深，温馨的手工可爱美学，高分辨率微距工艺摄影，除了豆豆本身的颜色外，没有硬轮廓线。
+
+场景元素：包含 1 个坐着的主角，主角下方有 1 个圆形地毯，右侧有 1 个由豆豆制成的橙色花盆盆栽，左下方有 1 朵带绿叶的白色雏菊状花朵，背景墙上有 7 个漂浮的小豆豆装饰：3 个黄色星形/花朵簇，3 个白色小闪光十字，以及左下方附近的 1 个绿黄色花朵簇。保持背景整洁且对称，以突出角色主体。
+
+色彩细节：头发和连帽衫阴影使用多种绿色，皮肤使用桃色和棕褐色豆豆，高光使用白色和奶油色豆豆，帽子字母使用红色豆豆，星星和花心使用黄色豆豆，花盆使用橙棕色豆豆。保留整个画面中可见的豆豆孔洞和网格状像素结构。避免出现写实布料、额外文字、水印或额外角色。
+
+[English]
+Create a cute handcrafted bead art scene made from fuse beads / Perler beads, photographed like a real tabletop craft. The main subject is a chibi anime-style {argument name="character name" default="green-haired girl"} sitting on a round green-and-cream beaded rug, wearing an oversized dark-to-light green hoodie with two white drawstrings, large rounded sleeves, bare peach-colored feet, and white socks with green stripes. She has very long curly/wavy {argument name="hair color" default="green"} hair made of many bead clusters, big sparkling dark green eyes, rosy cheeks, a small smiling mouth, and one raised hand in a peace-sign pose. On her head is a white baseball cap with a green brim and bold red letters reading {argument name="cap text" default="AI"}. Make the entire character and all props visibly constructed from small circular plastic beads with hollow centers, arranged in pixel-art gradients, with soft shadows and tactile depth.
+
+Canvas and style: square 1:1 composition, warm pastel yellow background, soft studio lighting, shallow depth of field, cozy handmade kawaii aesthetic, high-resolution macro craft photography, no hard outlines except the bead colors themselves.
+
+Scene elements: include exactly 1 main seated character, exactly 1 circular rug under her, exactly 1 potted plant on the right made from beads in an orange pot, exactly 1 white daisy-like flower on the lower left with green leaves, and exactly 7 small floating bead decorations on the wall/background: 3 yellow star/flower clusters, 3 small white sparkle crosses, and 1 green-yellow flower cluster near the lower left. Keep the background uncluttered and symmetrical enough to frame the character.
+
+Color details: use multiple greens for hair and hoodie shadows, peach and tan beads for skin, white and cream beads for highlights, red beads for the cap letters, yellow beads for stars and flower centers, and orange-brown beads for the plant pot. Preserve the visible bead holes and gridlike pixel construction throughout. Avoid realistic fabric, extra text, watermarks, or additional characters.
+```
+
+**来源：** [@シンナモ💡🫛AI情報まとめ@A型就労支援MSS](https://x.com/shinnamo_ai/status/2073991588368568809) | 2026-07-06
+
+---
+
+### 🎨 例 3317：色彩斑斓的和平主题战斗机涂装
+
+![色彩斑斓的和平主题战斗机涂装](../../images/%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E5%92%8C%E5%B9%B3%E4%B8%BB%E9%A2%98%E6%88%98%E6%96%97%E6%9C%BA%E6%B6%82%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+{argument name="雰囲気" default="平和な"}{argument name="機体" default="零戦"}ラッピングを作ろ♪
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2073990744030023852) | 2026-07-06
+
+---
+
+### 🎨 例 3333：城市混合媒介拼贴画
+
+![城市混合媒介拼贴画](../../images/%E5%9F%8E%E5%B8%82%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 {argument name="subject" default="酷炫年轻女性"} 在现代城市背景下的超写实混合媒介时尚拼贴画。采用低角度、正视或柔和的 3/4 身体构图。展现自信酷女孩形象，身穿宽松阔腿裤、修身短款背心和流线型运动鞋。全彩，自然肤色，深色头发，精致的时尚编辑风格。{argument name="background" default="色彩丰富的纽约风格背景"}：高楼大厦、繁忙的街道活力、层叠的建筑，充满活力且干净、具有编辑感。通篇采用混合媒介拼贴元素：撕纸纹理、编辑纸张图层、微妙的半色调细节、图形形状。{argument name="neon colors" default="鲜艳的霓虹色点缀，酸橙绿和亮粉色"}，高饱和度。人物周围有细微但清晰可见的霓虹轮廓，拼贴画中融入了微小的发光图形细节。大胆、现代，视觉冲击力强，但整体克制且美学干净。带有微妙的胶片颗粒感。高端 Instagram 网格美学：令人向往、现代、视觉统一。 --ar 4:5 --raw --profile f7ca75c --stylize 60 --weird 4 --hd --preview
+
+[English]
+Photorealistic mixed media fashion collage of a {argument name="subject" default="cool young woman"} in a modern urban setting. Shot slightly below, straight on or soft 3/4 body composition. Confident cool girl presence wearing relaxed wide leg trousers, fitted cropped tank, and sleek streamlined sneakers. Full color, natural skin tones, dark hair, polished fashion editorial look. {argument name="background" default="Colorful New York style background"}: tall buildings, busy street energy, layered architecture, vibrant yet clean and editorial. Mixed media collage elements throughout: torn paper textures, editorial paper layers, subtle halftone details, graphic shapes. {argument name="neon colors" default="Vivid neon accents acid lime green and hot pink"} with high saturation. Thin but clearly visible neon outline around the woman, small glowing graphic details integrated into the collage. Bold, modern, visually striking but controlled and aesthetically clean. Subtle film grain. High end Instagram grid aesthetic: aspirational, modern, visually cohesive. --ar 4:5 --raw --profile f7ca75c --stylize 60 --weird 4 --hd --preview
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2073958881186009553) | 2026-07-06
+
+---
+
+### 🎨 例 3339：月光玻璃桥奇幻场景
+
+![月光玻璃桥奇幻场景](../../images/%E6%9C%88%E5%85%89%E7%8E%BB%E7%92%83%E6%A1%A5%E5%A5%87%E5%B9%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="character" default="身穿黑色长风衣的孤独旅行者"} 走在云端之上无尽的发光玻璃桥上。一个 {argument name="background element" default="巨大的月亮"} 占据了地平线，星光在透明的地板下倒映。梦幻般的超现实氛围，{argument name="color palette" default="蓝银色"} 色调，电影级奇幻写实风格，超精细，大师级品质，8K。
+
+[English]
+A {argument name="character" default="solitary traveler in a long black coat"} crosses an endless glowing glass bridge high above the clouds. An {argument name="background element" default="enormous moon"} dominates the horizon, with stars mirrored beneath the transparent floor. Dreamlike surreal atmosphere, {argument name="color palette" default="blue and silver"} palette, cinematic fantasy realism, ultra-detailed, masterpiece quality, 8K.
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2073943546084921435) | 2026-07-06
+
+---
+

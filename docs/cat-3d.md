@@ -4409,3 +4409,93 @@ A vibrant, humorous 3D-style sticker character seamlessly composited onto a real
 
 ---
 
+### 🧸 例 3275：3D CG 东方奇幻美女插画
+
+![3D CG 东方奇幻美女插画](../../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E7%BE%8E%E5%A5%B3%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想古风贵女美人写真，oriental fantasy beauty portrait，semi-realistic anime 3D CG render，胸部以上近景构图，画面主体是一位明确成年的年轻东方女性，视觉年龄约 {argument name="视觉年龄" default="22–28 岁"}，整体气质华贵、清冷、柔美、梦幻、精致，带有东方神女与宫廷花灵般的高级感。\n\n人物拥有精致柔和的东方美人脸，小巧鹅蛋脸，面部轮廓流畅，下颌线干净，皮肤冷白细腻，带轻微通透感与柔和珠光质感。眼睛大而清澈，瞳色为浅灰蓝或冷棕灰调，眼神{argument name="眼神" default="安静、疏离、略带朦胧感"}，直视镜头。睫毛纤长卷翘，眼妆为粉紫、玫瑰棕与细闪珠光晕染，眼尾微微上扬，妆容精致但柔和。鼻梁秀气自然，嘴唇饱满水润，唇色为玫瑰豆沙红，唇面带玻璃唇光泽，嘴唇微微张开，神情柔美、克制、带一点高贵距离感。\n\n发型为浓黑色长发，高盘发与披发结合，发丝柔顺细腻，带高精度发丝建模与自然冷光高光。头戴极其华丽的东方幻想金色花丝头冠，头冠由鎏金花丝、珍珠链、粉紫宝石、蓝绿色宝石、透明水晶、花形金属结构共同组成，层次丰富，工艺极精。发侧装饰大量半透明幻彩花朵，花瓣为浅蓝、粉紫、珠光白与冰晶质感，带微弱虹彩反光。额前垂有精致宝石额饰，耳侧有珍珠链与水晶流苏自然垂落。\n\n耳饰为华丽东方宫廷长款流苏耳坠，金色金属底托搭配粉紫宝石、蓝色水晶、珍珠串与细密垂链，具有高级珠宝质感。颈部佩戴多层细致项链，包含珍珠、金色链条、粉紫水滴宝石和蓝绿色晶体吊坠，细节丰富但不杂乱。\n\n服装为东方幻想宫廷华服，上半身为粉紫、青蓝、珠白与浅金色交织的轻纱礼服，露肩结构，肩颈与锁骨线条优雅，衣料为半透明欧根纱、丝缎、珠光薄纱与精致刺绣结合，胸前有金线刺绣、宝石镶嵌、珍珠垂饰与立体花朵装饰。服装华丽、梦幻、轻盈，色彩清透，具有真实布料褶皱、薄纱透光和珠宝反射质感。\n\n人物姿态为轻微侧身仰头，肩颈自然舒展，脸部微微转向镜头，眼神安静迷离。构图突出人物脸部、头冠、耳饰、肩颈、锁骨、胸部轮廓与上半身华服细节，整体像一张高端东方幻想角色写真海报。 \n\n背景为深色夜景虚化背景，带蓝绿色、青紫色和冷白色散景光斑，像夜晚花园、宫廷露台或幻想水境中的梦幻氛围。背景不要过于清晰，保持高级虚化和空气感，突出人物主体。画面中可有少量微光粒子、珠光尘埃和柔和冷色光晕，增强梦幻感。\n\n光线采用电影级冷调柔光与侧逆光结合，面部有柔和主光，发丝、头冠、肩颈和珠宝边缘有蓝白色轮廓光。皮肤、发丝、金属、宝石、珍珠、薄纱和丝缎都具有真实清晰的 PBR 材质表现。整体色调以{argument name="色调" default="冷白、青蓝、粉紫、珠光金、深夜黑"}为主，画面精致、通透、华丽、唯美、梦幻。\n\nhigh detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, glossy lips, gemstone jewelry, pearl reflections, iridescent flowers, translucent chiffon fabric, ornate oriental fantasy crown, elegant Chinese fantasy beauty, cinematic depth of field, soft bloom, volumetric light, ultra detailed, polished anime realism, premium virtual character portrait, no text, no watermark, no logo
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2074132656103866465) | 2026-07-06
+
+---
+
+### 🧸 例 3292：极简等距数据物理立方体
+
+![极简等距数据物理立方体](../../images/%E6%9E%81%E7%AE%80%E7%AD%89%E8%B7%9D%E6%95%B0%E6%8D%AE%E7%89%A9%E7%90%86%E7%AB%8B%E6%96%B9%E4%BD%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个极简的 3D 等距渲染图，将所有与 {argument name="topic" default="电力消耗"} 相关的内容压缩进一个完美的立方体中。AI 应选择一个可以表现为体积、质量、面积、时间、金钱、数据、人口、浪费、排放或消耗的统计数据。立方体应由该统计数据所暗示的材质制成：{argument name="material" default="发光数据"}。它应放置在一个熟悉的对比对象旁边：{argument name="comparison object" default="一个人"}。风格：超洁净工作室渲染、哑光粘土或物理精确材质、中性混凝土灰色背景、柔和的环境光遮蔽、锐利的边缘、宽裕的留白。添加显示高度、宽度和深度的细微尺寸线。在上方或地面上包含一个巨大的悬浮数字。标题应说明被压缩的内容、指标、时间范围和来源年份。核心理念：通过将不可能的数量转化为一个静默的方块，使其变得可衡量。
+
+[English]
+Create a minimalist isometric 3D render that compresses everything related to {argument name="topic" default="electricity consumption"} into one perfect cube. The AI should choose one statistic that can be represented as volume, mass, area, time, money, data, population, waste, emissions, or consumption. The cube should be made from the material implied by the statistic: {argument name="material" default="glowing data"}. It should sit beside one familiar comparison object: {argument name="comparison object" default="a person"}. Style: ultra-clean studio render, matte clay or physically accurate material, neutral concrete-grey background, soft ambient occlusion, sharp edges, generous negative space. Add subtle dimension lines showing height, width, and depth. Include one huge numeral floating above or printed on the floor. Caption should state what was compressed, the metric, timeframe, and source year. The spirit: make an impossible quantity feel measurable by turning it into one silent block.
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2074079912592593115) | 2026-07-06
+
+---
+
+### 🧸 例 3310：手工立体童话故事书模型
+
+![手工立体童话故事书模型](../../images/%E6%89%8B%E5%B7%A5%E7%AB%8B%E4%BD%93%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E4%B9%A6%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真的垂直产品风格静物摄影，展示了一本设计精巧的手工立体故事书，置于整洁的 {argument name="surface" default="木质桌面"} 上，以 {argument name="camera angle" default="微俯视"} 的视角拍摄，清晰呈现 3D 纸艺结构。书本以约 110 度角完全展开，厚实的米色书页向外延伸，配有高耸的折叠纸墙、手风琴式支撑、V 型折叠结构、阶梯式平台、拉条层，可见折痕、支撑标签、模切边缘以及在书页上投下真实阴影的层叠纸质剪影。
+
+主要立体场景：一个熟悉的 {argument name="theme" default="小红帽童话世界"}，构建为深邃的多层纸艺剧场。前景中心：一个成人故事书风格的小女孩角色，身穿鲜红色连帽斗篷，走在凸起的蜿蜒纸质小径上，提着一个小篮子，作为独立的垂直剪纸层呈现。左侧：一间舒适的乡村小屋，配有花箱、木栅栏和写着“VILLAGE PATH”的标牌。背景中心：茂密的魔法森林，由许多错落有致的直立树木剪纸组成，层叠的绿色树冠、蘑菇、野花和阴影中的灌木丛。右侧：外婆的小屋矗立在凸起的纸质平台上，窗户透出温暖的黄色光芒，配有石砌烟囱和写着“GRANDMOTHER’S HOUSE”的标牌。右下角：一只友好的故事书狼剪影，部分隐藏在层叠的树木后，呈现非威胁性的童话风格。后景：淡蓝色天空、柔和的云朵、远处的山丘，以及从书脊升起的小月亮剪纸。
+
+强烈的 3D 立体感强调：明显的纸质铰链、插槽连接、折叠标签、卷曲的书页边缘、层叠的间隙阴影、卡纸厚度、手工切割边缘、水彩纸纤维、细微的胶水痕迹，以及从前到后的微缩舞台深度。整洁的桌面环境：清爽的暖色调木质桌面，侧面整齐地放着一支钢笔、一个米色小书签，以及一张写有“LITTLE RED RIDING HOOD”的简单折叠卡片，没有杂乱的物品，没有游戏卡带，没有凌乱的纸张。来自右侧柔和的自然窗光，轻柔的阴影，清晰的书本中心场景，浅景深，书内采用手工水彩和墨水插画风格，逼真的微距摄影，怀旧童话模型，9:16 垂直构图。
+
+[English]
+Photorealistic vertical product-style still life of a dramatically engineered handmade pop-up storybook on a clean {argument name="surface" default="wooden tabletop"}, viewed from a {argument name="camera angle" default="slightly overhead"} camera angle, clearly showing the 3D paper construction. The book is open wide at about 110 degrees, thick cream pages spread outward, with tall folded paper walls, accordion supports, V-fold mechanisms, stepped platforms, pull-tab layers, visible fold lines, support tabs, die-cut edges, and layered paper silhouettes casting real shadows across the pages.\n\nMain pop-up scene: a familiar {argument name="theme" default="Little Red Riding Hood fairytale world"} built as a deep multi-layer paper theater. Center foreground: a small adult-storybook-style girl character in a bright red hooded cloak walking on a raised winding paper path, holding a tiny basket, standing as a separate vertical cutout layer. Left side: a cozy village cottage with flower boxes, a wooden fence, and a sign reading “VILLAGE PATH”. Center background: a dense enchanted forest made of many upright tree cutouts in staggered depth planes, overlapping green canopies, mushrooms, wildflowers, and shadowed bushes. Right side: grandmother’s cottage standing on a raised paper platform, warm yellow window glow, stone chimney, and a sign reading “GRANDMOTHER’S HOUSE”. Lower right: a friendly storybook wolf silhouette partly hidden behind layered trees, non-threatening fairytale style. Rear background: pale blue sky, soft clouds, distant hills, and a small moon cutout rising from the book spine.\n\nStrong 3D pop-up emphasis: obvious paper hinges, slot joints, folded tabs, curled page edges, layered gap shadows, cardstock thickness, hand-cut edges, watercolor paper fibers, tiny glue marks, miniature stage depth from front to back. Clean desk environment: uncluttered warm wooden tabletop, one fountain pen placed neatly to the side, one small cream bookmark, one simple folded note card labeled “LITTLE RED RIDING HOOD”, no scattered clutter, no game cartridges, no messy papers. Soft natural window light from the right, gentle shadows, crisp central book scene, shallow depth of field, handcrafted watercolor-and-ink illustration style inside the book, realistic macro photography, nostalgic fairytale diorama, 9:16 vertical composition.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2074022061803225482) | 2026-07-06
+
+---
+
+### 🧸 例 3335：3D 智能手机视觉错觉概念
+
+![3D 智能手机视觉错觉概念](../../images/3D%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E8%A7%86%E8%A7%89%E9%94%99%E8%A7%89%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的图像作为主要面部参考，并保持极高的身份还原度。保持完全相同的面部特征，包括眼睛、眉毛、鼻子、嘴唇、下颌线、胡须风格、发型、肤色、面部比例以及表情。保持极高的面部相似度和身份一致性。不要改变人物的面部；仅重构场景。超写实电影级社交媒体概念。同一个 {argument name="subject" default="男人"} 正从一个巨大的 {argument name="device" default="现代智能手机"} 中走出，手机屏幕显示着直播界面。手机略微向后倾斜，带有发光的“LIVE”徽章、4.2K 观众、浮动的爱心反应以及滚动的直播评论。他穿着一件 {argument name="clothing" default="浅灰色连帽衫"}、黑色修身长裤、白色运动鞋和黑色智能手表。一只脚跨在手机外，营造出逼真的 3D “破屏而出”视觉错觉。紫色霓虹光效、柔和的摄影棚灯光、薰衣草色渐变背景、光泽反射、体积光、浅景深、85mm 镜头、照片级真实感、超精细、杰作、电影级构图、高端广告品质、8K。
+
+[English]
+Use the uploaded image as the primary face reference with extreme identity preservation. Keep the exact same facial identity, same eyes, same eyebrows, same nose, same lips, same jawline, same beard style, same hairstyle, same skin tone, same facial proportions, and same expression. Maintain very high facial resemblance and identity consistency. Do not change the person's face; only recreate the scene. Ultra-realistic cinematic social media concept. The same {argument name="subject" default="man"} is stepping out of a giant {argument name="device" default="modern smartphone"} displaying a live-stream interface. The phone is slightly tilted backward with a glowing LIVE badge, 4.2K viewers, floating heart reactions, and scrolling live comments. He wears a {argument name="clothing" default="light gray hoodie"}, black slim-fit pants, white sneakers, and a black smartwatch. One foot is outside the phone, creating a realistic 3D "breaking out of the screen" illusion. Purple neon glow, soft studio lighting, lavender gradient background, glossy reflections, volumetric lighting, shallow depth of field, 85mm lens, photorealistic, ultra-detailed, masterpiece, cinematic composition, premium advertising quality, 8K.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2073955089673269280) | 2026-07-06
+
+---
+
+### 🧸 例 3344：微缩森林茶会玩偶
+
+![微缩森林茶会玩偶](../../images/%E5%BE%AE%E7%BC%A9%E6%A3%AE%E6%9E%97%E8%8C%B6%E4%BC%9A%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度精细的写实 3D 微缩立体模型，描绘一场森林茶会，并以 {argument name="character name" default="一位精致的动漫风格玩偶女孩"} 为中心主体。场景采用方形特写构图，沐浴在温暖的自然晨光中，具有浅景深效果，背景是苔藓覆盖的林地，呈现柔和的焦外成像。女孩跪坐在浅色格子野餐垫上，神情羞涩而平静，手中拿着一个微小的白色茶杯靠近唇边。她拥有 {argument name="hair color" default="长长的香槟金色头发"}，发丝细腻，留着柔和的刘海，戴着细小的白色花朵发夹，有着大而晶莹的蓝色眼睛、红润的脸颊和瓷娃娃般的肌肤。为她穿上 {argument name="outfit" default="一件淡粉蓝色蕾丝连衣裙，配有半透明长袖、荷叶边袖口、蕾丝下摆、腰间丝带蝴蝶结以及小花装饰"}。在她周围，包含 10 个清晰可见的茶会元素：1 个装满点心和小盒子的柳条野餐篮、1 个透明牛奶瓶、1 只耳边别着小粉花的白兔、1 只手中拿着坚果且耳边有朵紫色小花的棕色松鼠、1 个茶壶、1 个带托盘的花卉茶杯、1 个盘子里放着顶部有红浆果的小蛋糕、1 个装草莓的小篮子、1 叠蛋糕下方的白色盘子，以及 1 条浅色野餐垫。在野餐垫周围布置苔藓、原木、雏菊、蓝色和白色的小野花，以及模糊的树干。让一切看起来像是手工制作的微缩人偶和微型道具，呈现出逼真的树脂、陶瓷、蕾丝、柳条、毛皮和苔藓质感。营造梦幻般的童话氛围，使用柔和的金色轮廓光、温润的高光、奶油般的深度模糊以及微距镜头视角。画面中不得包含任何文字、水印、现代物品，除兔子和松鼠外不得出现其他动物。
+
+[English]
+Create a highly detailed photorealistic 3D miniature diorama of a forest tea party featuring {argument name="character name" default="a delicate anime-style doll girl"} as the central subject. The scene is a square close-up composition in warm natural morning light, with shallow depth of field and soft bokeh from a mossy woodland background. The girl sits kneeling on a pale gingham picnic blanket, holding a tiny white teacup near her lips with a shy, calm expression. She has {argument name="hair color" default="long champagne-blonde hair"} with fine strands, soft bangs, tiny white flower hairpins, large glassy blue eyes, rosy cheeks, and porcelain doll skin. Dress her in {argument name="outfit" default="a pale powder-blue lace dress with translucent long sleeves, ruffled cuffs, lace hem, a ribbon waist bow, and small floral embellishments"}. Around her, include exactly 10 visible tea-party elements: 1 wicker picnic basket filled with treats and small boxes, 1 clear milk bottle, 1 white rabbit with a small pink flower by its ear, 1 brown squirrel holding a nut with a tiny purple flower near its ear, 1 teapot, 1 floral teacup on a saucer, 1 small cake topped with red berries on a plate, 1 small basket of strawberries, 1 white plate stack beneath the cake, and 1 pale picnic blanket. Surround the blanket with moss, logs, daisies, small blue and white wildflowers, and blurred tree trunks. Make everything look like handcrafted miniature figures and tiny props, with realistic resin, ceramic, lace, wicker, fur, and moss textures. Use a dreamy fairy-tale mood, soft golden rim light, gentle highlights, creamy depth blur, and a macro lens perspective. No text, no watermark, no modern objects, no extra animals beyond the rabbit and squirrel.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2073925393988333906) | 2026-07-06
+
+---
+

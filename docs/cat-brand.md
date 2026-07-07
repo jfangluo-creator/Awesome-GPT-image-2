@@ -8653,3 +8653,103 @@ Flash-lit mobile phone snapshot with a {argument name="camera style" default="vi
 
 ---
 
+### 🏷️ 例 3261：傲娇哥特女仆 404 肖像
+
+![傲娇哥特女仆 404 肖像](../../images/%E5%82%B2%E5%A8%87%E5%93%A5%E7%89%B9%E5%A5%B3%E4%BB%86%20404%20%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致水彩动漫风格的竖版肖像插画，描绘一位傲娇的哥特女仆站在苍白的闹鬼豪宅卧室中，采用略微仰视的视角，仿佛她正在俯视观众。角色为 {argument name="character name" default="一位年轻的哥特女仆"}，留着 {argument name="hair color" default="灰白色"} 的长双马尾，发束用黑色丝带系住，有着柔和的蓝灰色眼睛、一丝自信的微笑和淡淡的红晕。她穿着精致的黑色维多利亚式女仆装，带有泡泡袖、白色蕾丝花边、荷叶边围裙、颈部的黑色蝴蝶结、紫色椭圆形胸针、紧身胸衣式系带、蕾丝袖口以及腰间的一个大黑色蝴蝶结。她的双臂交叉，摆出一种盛气凌人、戏谑的姿势。场景氛围轻盈且色彩饱和度低：左侧是半透明的灰色窗帘和高大的拱形窗户，墙壁苍白且有裂纹，右上角悬挂着一个装饰性的黑色标牌，上面用粉笔般的白色数字写着 {argument name="sign text" default="404"}，墙上挂着椭圆形边框的骷髅肖像，右下角的梳妆台上放着一个小烛台，蜡烛正在燃烧。使用柔和的单色灰、象牙白、黑色以及微妙的薰衣草色点缀，配合松散的墨水轮廓、可见的水彩纸纹理、柔和的渲染、细腻的斑点以及窗户透出的梦幻般过曝感光线。构图应为从大腿到头部的特写，超大号的类 Q 版头部居中，女仆占据画面大部分空间，风格哥特但可爱而非恐怖，无额外角色，无水印。
+
+[English]
+Create a vertical portrait illustration in delicate watercolor anime style of a smug gothic maid girl standing in a pale haunted mansion bedroom, viewed from a slightly low angle as if she is looking down at the viewer. The character is {argument name="character name" default="a young gothic maid"} with {argument name="hair color" default="ash gray"} long twin-tail hair tied with black ribbons, soft blue-gray eyes, a tiny confident smile, and faint blush. She wears an elaborate black Victorian maid dress with puffed sleeves, white lace ruffles, a frilled apron, a black bow at the throat, a purple oval brooch, corset-style lacing on the bodice, lace cuffs, and a large black bow at the waist. Her arms are crossed in a bossy, teasing pose. The setting is airy and desaturated: sheer gray curtains and a tall arched window on the left, cracked pale walls, an ornate hanging black sign on the upper right with the text {argument name="sign text" default="404"} written in chalk-like white numerals, an oval framed skull portrait on the wall, and a small candelabra with lit candles on a dresser at the lower right. Use muted monochrome grays, ivory, black, and subtle lavender accents, with loose ink outlines, visible watercolor paper texture, soft washes, gentle speckling, and dreamy overexposed light from the window. Composition should be close-up from thighs to head, the oversized chibi-like head centered, the maid filling most of the frame, gothic but cute rather than scary, no extra characters, no watermark.
+```
+
+**来源：** [@404 notfound](https://x.com/404notf26312237/status/2074232005227889117) | 2026-07-06
+
+---
+
+### 🏷️ 例 3325：奢华日式幻想动漫和服
+
+![奢华日式幻想动漫和服](../../images/%E5%A5%A2%E5%8D%8E%E6%97%A5%E5%BC%8F%E5%B9%BB%E6%83%B3%E5%8A%A8%E6%BC%AB%E5%92%8C%E6%9C%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作，最佳质量，优质日式动漫主视觉图，电影级插画，奢华日式幻想和服插画，一位美丽的年轻日本女性，优雅的侧颜，优雅地跪在浅浅的倒影水面上，回眸，平静忧郁的表情，精致的心形脸，自然的眼睛比例，柔软的睫毛，优雅的尖鼻，小巧写实的嘴巴，细长的脖子，优美的身体比例，纤细的手指，黑色头发梳成优雅的低发髻，大而整洁的发束，轮廓分明的发量，柔软稀疏的刘海，自然的头发流向，极少且受控的碎发，奢华的蓝白樱花发饰，金色装饰发簪，精致的垂坠饰品，身穿奢华的黑色丝绸和服，深海军蓝与黑色调，高级丝绸质感，内敛的金色刺绣，蓝色樱花图案，细腻的花卉纹样，优雅的超大腰带，金线点缀，飘逸的层叠袖口，写实的布料褶皱，传统的日式优雅，奢华而不繁复，一把武士刀放在她身边，蓝色缠绕刀柄，金色刀镡，装饰性流苏，静谧的武士优雅，身后是一轮巨大的发光日式水墨笔触月亮，圆相风格的月亮，月亮完美地勾勒出角色剪影，周围环绕着精致的樱花枝，构图樱花枝，少量飘落的樱花瓣，极简的发光粒子，深海军蓝夜空，优雅的留白，浅浅的深色水面，美丽的镜像倒影，柔和的涟漪，漂浮的樱花瓣，电影级月光，强烈但受控的轮廓光，温暖的金色高光，柔和的光晕，体积光，环境光，高动态范围光照，美丽的高光，干净精致的动漫线条，带有柔和渐变的绘画渲染，受控的细节密度，选择性细节，大而清晰的形状，图形化剪影，清晰的视觉层级，平衡的构图，动态但干净的取景，背景衬托角色，清晰的景深，优质视觉小说封面质量，高端动漫电影质量，8k 插画质量，清晰的线条，情感丰富，优雅，神秘，略带忧郁，永恒的日式美学，具有大而清晰形状的视觉层级，目的明确的构图，受控的渲染，优雅的简化，不繁复，奢华动漫主视觉图。负面提示词：低质量，最差质量，模糊，糟糕的解剖结构，糟糕的比例，扭曲的身体，畸形的手，画得不好的手，多余的手指，缺失的手指，粘连的手指，断裂的手指，多余的手臂，多余的腿，重复的肢体，糟糕的脸，斗鸡眼，不自然的眼睛，塑料质感皮肤，过度锐化，色彩过饱和，杂乱的头发细节，纠结的头发，过多的碎发，杂乱的剪影，过度装饰的和服，过度装饰的背景，过多的粒子，视觉杂乱，伪造文字，字母，标志，水印，签名，裁剪，AI 伪影
+
+[English]
+masterpiece, best quality, premium Japanese anime key visual, cinematic illustration, luxury Japanese fantasy kimono illustration, a beautiful young Japanese woman in an elegant side profile, kneeling gracefully on a shallow reflective water surface, looking back over her shoulder, calm melancholic expression, delicate heart-shaped face, natural eye proportions, soft eyelashes, elegant sharp nose, small realistic mouth, thin neck, graceful body proportions, slender fingers, black hair arranged in an elegant low bun, large clean hair strand groups, well-defined hair volume, soft wispy bangs, natural strand flow, minimal controlled flyaway hairs, luxury blue and white sakura floral hair ornament, gold decorative hairpins, refined dangling ornaments, wearing a luxurious black silk kimono, deep navy and black color palette, premium silk texture, restrained gold embroidery, blue cherry blossom patterns, subtle floral motifs, elegant oversized obi, gold thread accents, flowing layered sleeves, realistic fabric folds, traditional Japanese elegance, luxury but not overdecorated, a katana resting beside her, blue wrapped handle, gold tsuba, decorative tassel, quiet samurai elegance, large glowing Japanese ink brushstroke moon behind her, enso-inspired moon, moon perfectly framing the character silhouette, delicate cherry blossom branches surrounding her, framing cherry blossom branches, small drifting sakura petals, minimal luminous particles, deep navy night sky, elegant negative space, shallow dark water surface, beautiful mirror reflection, soft ripples, floating cherry blossom petals, cinematic moonlight, strong but controlled rim light, warm gold highlights, soft bloom, volumetric light, ambient glow, high dynamic range lighting, beautiful highlights, clean refined anime line art, painterly rendering with soft gradients, controlled detail density, selective detailing, large readable shapes, graphic silhouette, clear visual hierarchy, balanced composition, dynamic but clean framing, background supports the character, clear depth, premium visual novel cover quality, high-end anime movie quality, 8k illustration quality, crisp linework, emotional, elegant, mysterious, slightly melancholic, timeless Japanese aesthetic, visual hierarchy with large readable shapes, purposeful composition, controlled rendering, elegant simplification, not overdecorated, luxury anime key visual. Negative Prompt: low quality, worst quality, blurry, bad anatomy, bad proportions, distorted body, deformed hands, poorly drawn hands, extra fingers, missing fingers, fused fingers, broken fingers, extra arms, extra legs, duplicate limbs, bad face, crossed eyes, unnatural eyes, plastic skin, oversharpened, oversaturated colors, noisy hair details, tangled hair, too many flyaway hairs, messy silhouette, overdecorated kimono, overdecorated background, excessive particles, visual clutter, fake text, letters, logo, watermark, signature, cropped, AI artif
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2073977832993374313) | 2026-07-06
+
+---
+
+### 🏷️ 例 3332：胶囊衣橱搭配项目
+
+![胶囊衣橱搭配项目](../../images/%E8%83%B6%E5%9B%8A%E8%A1%A3%E6%A9%B1%E6%90%AD%E9%85%8D%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个整洁的衣橱管理时尚目录项目，主题为 {argument name="season and theme" default="初夏基础单品穿搭轮换"}，顶部展示独立服装单品，底部展示搭配好的造型组合。
+
+画布：宽幅 4:3 编辑排版，暖米白色背景，极简日系杂志美学，柔和的自然阴影，高分辨率产品抠图，留白充足，细灰色分割线，优雅的衬线数字编号，小巧整洁的说明文字。
+
+顶部衣橱行：从左到右均匀排列 7 件独立的服装单品，每件均采用平铺或轻微悬挂拍摄，配有醒目的大号两位数编号、英文单品名称以及下方简短的小号日式风格描述段落。这 7 件单品为：01 黑色窄裙，02 灰米色中线长裤，03 萨克斯蓝牛仔裤，04 浅蓝色亚麻衬衫（袖口随意卷起），05 海军蓝 Polo 衫，06 白色 T 恤，07 黄色开领衬衫。保持单品名称为大写英文，数字大而精致。
+
+中间标题：在左侧添加标题“HOW TO STYLE”，后跟一个小号日文副标题 {argument name="styling subtitle" default="ベーシックアイテムの着まわし提案"}，并有一条横跨页面的细水平线。
+
+底部搭配区：创建 7 张由细浅灰色线条分隔的窄垂直穿搭卡片。每张卡片包含“STYLE 01”至“STYLE 07”的小标题、简短的日式风格副标题、使用顶部衣橱行单品组成的完整穿搭、小件配饰以及下方紧凑的说明文字。7 张穿搭卡片为：Style 01 简洁通勤风，浅蓝色亚麻衬衫束进黑色窄裙，配黑色手提包、金色首饰、黑色尖头高跟鞋；Style 02 休闲放松风，白色 T 恤搭配灰米色中线长裤，配棕色手提包、凉鞋、珍珠或金色配饰；Style 03 牛仔干练风，海军蓝 Polo 衫搭配萨克斯蓝牛仔裤，配白色手提包、白色运动鞋、精致首饰；Style 04 清新亚麻风，浅蓝色亚麻衬衫搭配灰米色中线长裤，配白色手提包、白色运动鞋、金色配饰；Style 05 明亮假日风，黄色开领衬衫搭配萨克斯蓝牛仔裤，配草编包、棕色凉鞋、圆环耳环；Style 06 成熟单色风，海军蓝 Polo 衫搭配黑色窄裙，配黑色手提包、黑色凉鞋、银色或珍珠配饰；Style 07 简洁休闲混搭风，黄色开领衬衫搭配灰米色中线长裤，配奶油色手提包、白色运动鞋、小巧金色配饰。
+
+视觉风格：高级极简时尚画册，真实的服装质感，柔和的摄影棚灯光，完美对齐的网格，柔和的中性色调点缀萨克斯蓝和淡黄色，清晰的排版结合经典的衬线数字与小号无衬线标签。使布局看起来像是一个整理好的衣橱 App 导出页面或为 {argument name="target wearer" default="拥有简约优雅衣橱的成年女性"} 提供的胶囊衣橱推荐表。
+
+约束：必须使用 7 件衣橱单品和 7 张穿搭卡片。不要添加模特或人脸；仅展示服装和配饰。避免使用 Logo、水印、多余的衣物、杂乱的元素或鲜艳的背景色。保持所有文字小巧且有品位，英文单品名称清晰易读。
+
+[English]
+Goal: Create a clean wardrobe-management fashion catalog board for {argument name="season and theme" default="basic item outfit rotation for early summer"}, showing individual clothing pieces at the top and styled outfit combinations at the bottom.
+
+Canvas: Wide horizontal 4:3 editorial layout on a warm off-white background, minimal Japanese magazine aesthetic, soft natural shadows, high-resolution product photography cutouts, lots of white space, thin gray divider lines, elegant serif numbering, small neat captions.
+
+Top wardrobe row: Show exactly 7 isolated clothing items evenly spaced from left to right, each photographed flat or lightly hanging, with a large two-digit number, an English item name, and a short small Japanese-style descriptive paragraph beneath it. The 7 items are: 01 black narrow skirt, 02 greige center press pants, 03 sax blue denim pants, 04 light blue linen shirt with sleeves casually rolled, 05 navy polo shirt, 06 white T-shirt, 07 yellow open-collar shirt. Keep the item names in uppercase English and the numbers large and refined.
+
+Middle heading: Add the heading "HOW TO STYLE" on the left, followed by a small Japanese subtitle using {argument name="styling subtitle" default="ベーシックアイテムの着まわし提案"}, with a thin horizontal rule extending across the page.
+
+Bottom styling section: Create exactly 7 narrow vertical outfit cards separated by thin light-gray lines. Each card has a small title "STYLE 01" through "STYLE 07", a short Japanese-style subtitle, a complete outfit arrangement using pieces from the top wardrobe row, small accessories, and a compact caption below. The 7 outfit cards are: Style 01 clean commuting outfit with light blue linen shirt tucked into black narrow skirt, black handbag, gold jewelry, black pointed heels; Style 02 relaxed casual outfit with white T-shirt, greige center press pants, brown handbag, sandals, pearl or gold accessories; Style 03 denim polished casual outfit with navy polo shirt, sax blue denim pants, white handbag, white sneakers, delicate jewelry; Style 04 fresh linen style with light blue linen shirt, greige center press pants, white handbag, white sneakers, gold accessories; Style 05 bright holiday outfit with yellow open-collar shirt, sax blue denim pants, straw basket bag, brown sandals, hoop earrings; Style 06 monochrome adult outfit with navy polo shirt, black narrow skirt, black handbag, black sandals, silver or pearl accessories; Style 07 clean casual mix with yellow open-collar shirt, greige center press pants, cream handbag, white sneakers, small gold accessories.
+
+Visual style: Premium minimalist fashion lookbook, realistic clothing texture, soft studio lighting, perfectly aligned grid, muted neutral palette with accents of sax blue and pale yellow, crisp typography combining classic serif numbers with small sans-serif labels. Make the layout feel like an organized wardrobe app export or capsule wardrobe recommendation sheet for {argument name="target wearer" default="an adult woman with a simple elegant wardrobe"}.
+
+Constraints: Use exactly 7 wardrobe items and exactly 7 styled outfit cards. Do not add models or faces; show only clothing and accessories. Avoid logos, watermarks, extra garments, clutter, or bright colored backgrounds. Keep all text small and tasteful, with English item names clearly readable.
+```
+
+**来源：** [@あき](https://x.com/ssmlv/status/2073961998904393911) | 2026-07-06
+
+---
+
+### 🏷️ 例 3343：时尚概念艺术角色设计图
+
+![时尚概念艺术角色设计图](../../images/%E6%97%B6%E5%B0%9A%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一个 16:9 宽屏布局的高端现代时尚角色概念艺术图，并遵循以下精确的结构化构图和视觉美学：
+
+[STYLE]: {argument name="art style" default="高对比度数字动漫插画"}
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic:
+
+[STYLE]: {argument name="art style" default="high-contrast digital anime illustration"}
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2073926821327098332) | 2026-07-06
+
+---
+

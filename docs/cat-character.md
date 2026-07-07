@@ -4732,3 +4732,79 @@ Create a character sheet for {argument name="character name" default="Lyra Shado
 
 ---
 
+### 🧍 例 3279：Lumière 灯笼女巫角色设计图
+
+![Lumière 灯笼女巫角色设计图](../../images/Lumi%C3%A8re%20%E7%81%AF%E7%AC%BC%E5%A5%B3%E5%B7%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超精细的 16:9 奇幻动漫角色设计图，主角是一位名为 {argument name="character name" default="Lumière"} 的魔法少女，副标题为“灯笼女巫”，呈现电影级的魔法氛围以及专业游戏角色设定集的排版风格。
+
+画布：宽幅横向角色设计图，背景为干净的奶油色羊皮纸，带有细金边装饰和精致的星形点缀。左侧三分之一为大型深蓝色圆形夜空小插图，包含主体插画；右侧三分之二为米白色背景上的有序编辑参考表。
+
+主体插画：展示女巫少女侧坐在树枝扫帚上，悬浮在昏暗的欧洲奇幻小镇上方，背景包含屋顶、塔楼、温暖的窗灯、云朵、星星和新月。她拥有白皙的皮肤、金色的眼睛、短波浪状的银紫色头发，表情平静而充满魔力。服装：超大黑色女巫帽，帽檐内侧为奶油色，带有星星挂饰和小型悬挂灯笼挂饰；黑色短款斗篷，饰有金色星座线条和星形图案；叠层奶油色衬衫和裙子；橙色锯齿状衬裙；棕色过膝袜；带有金色细节的黑色短靴。她手持或携带一盏悬挂在扫帚上的发光绿色玻璃灯笼。光影为柔和的月光加上温暖的灯笼光，采用绘画风格的动漫渲染，呈现优雅的高端奇幻概念艺术。
+
+文字内容：左上方显示大标题“{argument name="character name" default="Lumière"}”，副标题为“THE LANTERN WITCH”。在左侧添加一个小型的个人资料列表：角色：流浪者；元素：{argument name="element" default="光"}；武器：{argument name="weapon" default="扫帚与灯笼"}。添加章节标题：“TURNAROUND”（三视图）、“DETAILS”（细节）、“EXPRESSIONS”（表情）、“ITEMS”（物品）、“COLOR PALETTE”（配色方案）和“PROFILE”（简介）。简介段落：“一位温柔的女巫，骑着扫帚在夜空中穿行，提着一盏指引迷途灵魂回家的灯笼。她的光芒带来了温暖、希望和一点点魔法。”
+
+排版细节：在上方中部/右侧包含 3 个全身三视图，分别标注为 Front（正面）、Side（侧面）、Back（背面）。在右侧垂直列中包含 4 个细节卡片，分别标注为 Hat & Charm（帽子与挂饰）、Cape Pattern（斗篷图案）、Lantern（灯笼）、Broom Detail（扫帚细节）。在下方中部包含 3 个表情肖像框：中性温柔微笑、闭眼开心微笑和侧面沉思侧脸。在右下方物品区域包含 3 个物品绘图：发光的灯笼、扫帚和一个小星星挂饰。包含 11 个矩形配色色块：象牙色、桃色、橙色、深棕色、暖棕色、近黑色、板岩蓝、薰衣草灰、薄荷绿、金色和淡奶油色。
+
+视觉风格：高端奇幻动漫插画，柔和的绘画渲染，精致的线条，温暖的金色点缀，电影级的魔法光影，精致的 UI 间距，画册级角色设计图。使用 {argument name="accent color" default="金色"} 的装饰性排版和细线条。保持设计简洁、易读且优雅，无水印，无多余字符。
+
+[English]
+Goal: Create an ultra-detailed 16:9 fantasy anime character design sheet for a magical witch girl named {argument name="character name" default="Lumière"}, subtitled "The Lantern Witch," with a cinematic magical atmosphere and a polished professional game character bible layout.
+
+Canvas: Wide landscape character sheet, clean cream parchment background with thin gold ornamental border and delicate star accents. Left third is a large dark-blue circular night-sky vignette containing the main illustration; right two-thirds are an organized editorial reference sheet on an off-white background.
+
+Main illustration: Show the witch girl riding sidesaddle on a twig broom above a dusky European fantasy town with rooftops, towers, warm window lights, clouds, stars, and a crescent moon. She has pale skin, golden eyes, short wavy silver-lavender hair, and a calm magical expression. Outfit: oversized black witch hat with huge cream underside, star charm and small dangling lantern charm; black cropped cape with gold constellation lines and star motifs; layered cream blouse and skirt; orange jagged underskirt; brown thigh-high stockings; black ankle boots with gold details. She holds or carries a glowing green glass lantern hanging from the broom. Lighting is soft moonlight plus warm lantern glow, painterly anime rendering, elegant high-end fantasy concept art.
+
+Text content: Large title "{argument name="character name" default="Lumière"}" at top left, subtitle "THE LANTERN WITCH." Add a small profile list on the left: Role: Wanderer; Element: {argument name="element" default="Light"}; Weapon: {argument name="weapon" default="Broom & Lantern"}. Add section headers: "TURNAROUND," "DETAILS," "EXPRESSIONS," "ITEMS," "COLOR PALETTE," and "PROFILE." Profile paragraph: "A gentle witch who travels the night skies on her broom, carrying a lantern that guides lost souls home. Her light brings warmth, hope, and a little magic."
+
+Layout details: Include exactly 3 turnaround full-body views labeled Front, Side, Back across the upper middle/right. Include exactly 4 detail cards in a right vertical column labeled Hat & Charm, Cape Pattern, Lantern, Broom Detail. Include exactly 3 expression portrait boxes along the lower middle: neutral gentle smile, eyes-closed happy smile, and side-facing thoughtful profile. Include exactly 3 item drawings in the lower-right item area: the glowing lantern, the broom, and a small star charm. Include exactly 11 rectangular color palette swatches: ivory, peach, orange, dark brown, warm brown, near-black, slate blue, lavender gray, mint green, gold, and pale cream.
+
+Visual style: High-end fantasy anime illustration, soft painterly rendering, delicate linework, warm gold accents, cinematic magical lighting, refined UI spacing, artbook-quality character sheet. Use {argument name="accent color" default="gold"} decorative typography and fine rules. Keep the design clean, readable, and elegant, with no watermark and no extra characters.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2074124844090929534) | 2026-07-06
+
+---
+
+### 🧍 例 3313：猫耳女仆表情包贴纸合集
+
+![猫耳女仆表情包贴纸合集](../../images/%E7%8C%AB%E8%80%B3%E5%A5%B3%E4%BB%86%E8%A1%A8%E6%83%85%E5%8C%85%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张简洁的动漫贴纸/表情包合集，包含 {argument name="character name" default="一位猫耳女仆少女"} 的 16 个独立 Q 版头像贴纸，背景为纯白色。
+
+画布：正方形 1:1 图像，高分辨率，白色背景，排列成整齐的 4x4 网格，间距充裕。每张贴纸均为上半身或头部特写，无边框。
+
+角色设计：每张贴纸中的动漫少女形象保持一致。她拥有 {argument name="hair color" default="深紫色长发"} 和直刘海，大大的紫色眼睛，白皙的皮肤，黑色猫耳（内耳为粉色），佩戴带有侧边丝带的白色荷叶边女仆发带，身穿灰棕色女仆装，搭配白色围裙、领口黑色蝴蝶结，以及带有粉色肉垫的超大深棕色猫爪手套。采用可爱、柔和阴影的 VTuber/动漫风格，线条清晰，色彩渐变柔和，并使用俏皮的紫色作为小表情符号的强调色。
+
+布局与贴纸数量：包含 16 张独立贴纸，按从左到右、从上到下的顺序排列：1) 中性表情，双手举起猫爪手套贴在脸颊旁，左侧有三个紫色圆点；2) 冷静表情，一只猫爪伸向观众，带有紫色动态线条；3) 开心闭眼笑，双手猫爪手套捂住嘴巴，周围有紫色小星星；4) 害羞少女从右侧深灰色长方形后探出头，举起一只猫爪；5) 侧脸，表情略显不屑，带有一个紫色气泡标记；6) 睡觉姿势，头靠在棕色小桌面的双臂上，带有三个紫色 Z 字母；7) 困惑表情，双手猫爪手套向前伸，上方有一个巨大的紫色问号；8) 亲昵姿势，怀抱巨大的粉色心形抱枕，带有两个紫色小爱心；9) 不悦表情，手持写有深色 X 标记的白牌，带有紫色涂鸦云；10) 温柔正面姿势，一只猫爪肉垫靠近观众；11) 兴奋姿势，双臂高举，上方有紫色强调线；12) 优雅侧脸，回头看向后方，带有一个紫色闪光点；13) 惊讶表情，左侧有一个巨大的紫色感叹号；14) 尴尬或躲藏姿势，双手猫爪手套遮住脸，带有三条垂直紫色压力线；15) 专注姿势，双手猫爪手套拿着黑色智能手机，带有一个包含三个点的紫色对话气泡；16) 可爱姿势，坐在打开的纸箱里（纸箱正面有猫爪印），仅露出头部和猫爪，带有紫色动态标记。
+
+视觉风格：贴纸应呈现社交媒体表情包的质感，可爱且精致，角色比例统一，表情细腻，采用柔和的赛璐璐阴影，留白干净，仅在指定位置添加紫色装饰涂鸦。
+
+约束条件：请勿添加文字标签、标题、水印或额外角色。保持 4x4 的排列方式和 16 张贴纸的数量。在所有姿势中保持相同的服装、发型和猫耳女仆身份。
+
+[English]
+Goal: Create a clean anime sticker/emote sheet featuring {argument name="character name" default="a cat-eared maid girl"} in exactly 16 separate chibi-style portrait stickers on a plain white background.
+
+Canvas: Square 1:1 image, high resolution, white background, arranged as a neat 4 by 4 grid with generous spacing. Each sticker is cropped around the upper body or head-and-shoulders, with no panel borders.
+
+Character design: The same young anime girl appears in every sticker. She has {argument name="hair color" default="long deep purple hair"} with straight bangs, large purple eyes, pale skin, black cat ears with pink inner ears, a white frilly maid headband with side ribbons, a gray-brown maid dress, white apron, black bow at the collar, and oversized dark brown cat-paw mittens with pink paw pads. Use a cute soft-shaded VTuber/anime style, crisp line art, gentle gradients, and a playful purple accent color for small emotion marks.
+
+Layout and exact sticker count: Include exactly 16 discrete stickers, arranged left to right and top to bottom as follows: 1) neutral face holding both paw mittens up beside her cheeks, with three purple dots to the left; 2) calm expression reaching one paw forward toward the viewer, with small purple motion lines; 3) happy closed-eye smile with both paw mittens covering her mouth, surrounded by small purple stars; 4) shy girl peeking from behind a tall dark gray vertical rectangle on the right, one paw raised; 5) side-facing slightly unimpressed expression with a small purple puff mark; 6) sleeping pose with head resting on folded arms on a small brown tabletop, with three purple Z letters; 7) confused neutral pose holding both paw mittens forward, with a large purple question mark above; 8) affectionate pose hugging a large pink heart pillow, with two small purple hearts; 9) displeased pose holding a white sign with a dark X mark, with a purple scribble cloud; 10) gentle forward-facing pose raising one paw pad close to the viewer; 11) excited pose with both arms raised high and purple emphasis lines above; 12) elegant side portrait looking over her shoulder, with a purple sparkle; 13) surprised neutral portrait with a large purple exclamation mark to the left; 14) embarrassed or hiding pose with both mittens covering her face, with three vertical purple stress lines; 15) focused pose holding a small black smartphone with both paw mittens, with a purple speech bubble containing three dots; 16) cute pose sitting inside an open cardboard box with a paw-print symbol on the front, only her head and paws visible, with small purple motion marks.
+
+Visual style: Make the stickers feel like a social media emote pack, cute and polished, with consistent character proportions, expressive but subtle facial changes, soft cel shading, clean white negative space, and decorative purple doodles only where specified.
+
+Constraints: Do not add text labels, captions, watermarks, or extra characters. Keep the exact 4 by 4 arrangement and exactly 16 stickers. Maintain the same outfit, hairstyle, and cat-ear maid identity in every pose.
+```
+
+**来源：** [@Taremin/VRChat民💤](https://x.com/Taremin_VR/status/2074002447409070554) | 2026-07-06
+
+---
+

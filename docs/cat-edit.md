@@ -2574,3 +2574,21 @@ Take this product photo and add a playful hand-drawn doodle character on top of 
 
 ---
 
+### 🔧 例 3337：童趣风 MS Paint 咖啡馆重绘
+
+![童趣风 MS Paint 咖啡馆重绘](../../images/%E7%AB%A5%E8%B6%A3%E9%A3%8E%20MS%20Paint%20%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将其重绘为笨拙、涂鸦式的童趣插画。保持相同的构图、颜色、物体以及整体咖啡馆餐桌场景的可辨识度，但让一切看起来像是用鼠标在 MS Paint 中手绘的一样：生硬的轮廓、歪斜的比例、平铺的填充、粗糙的涂鸦纹理、低质量的像素边缘以及简单的阴影。保留可见的物品及其位置：圆形的铁锈红桌子、两个甜点盘、两把带有餐巾的叉子、一个咖啡杯、一个黑色碗、一个粉色瓶子、两个小玻璃杯、周围的金属咖啡椅、石板路面以及米色墙壁。不要添加新物体或追求精致的写实感；强调天真、凌乱且充满趣味的绘画质感。
+
+[English]
+Using the provided reference image, redraw it as a clumsy, scribbly, childlike illustration. Keep the same composition, colors, objects, and overall café-table scene recognizable, but make everything look hand-drawn in MS Paint with a mouse: awkward outlines, wobbly proportions, flat fills, rough scribble textures, low-quality pixel-by-pixel edges, and simple shading. Preserve the visible items and their placement: the round rust-red table, two dessert plates, two forks with napkins, one coffee cup, one black bowl, one pink bottle, two small glasses, surrounding metal café chairs, stone pavement, and beige wall. Do not add new objects or polished realism; emphasize naive, messy, playful drawing quality.
+```
+
+**来源：** [@Ivy Walker](https://x.com/ivyimff/status/2073949605554012636) | 2026-07-06
+
+---
+

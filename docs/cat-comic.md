@@ -5044,3 +5044,95 @@ Create a vertical monochrome manga-style album cover illustration with a dramati
 
 ---
 
+### 🎬 例 3298：“一切正常” 分镜表
+
+![“一切正常” 分镜表](../../images/%E2%80%9C%E4%B8%80%E5%88%87%E6%AD%A3%E5%B8%B8%E2%80%9D%20%E5%88%86%E9%95%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为标题为 {argument name="story title" default="EVERYTHING IS FINE, PART 1"} 的短视频概念创建一个电影感分镜表，呈现一种黑色幽默的职场讽刺：一名冷静的上班族对周围的彻底混乱视而不见，因为这“只是营销”。
+
+画布：宽屏 16:9 分镜项目，米白色纸张背景，带有细黑色网格线，具有手绘制作规划的美感，略带粗糙的印刷质感。关键标题和手写覆盖文字使用红黑记号笔风格。
+
+页眉：左上角为红色笔刷字体的大标题：“EVERYTHING IS FINE”，下方为黑色笔刷字体的“PART 1”。下方附带简短概念说明：“CONCEPT: Calm office worker ignores total chaos. It’s just marketing.”（概念：冷静的上班族无视彻底的混乱。这只是营销。）顶部中央和右上角的制作信息框：“TOTAL RUNTIME: 15 SECONDS”（总时长：15 秒）、“ASPECT RATIO: 16:9”（宽高比：16:9）以及“STYLE: CINEMATIC REALISTIC DARK COMEDY”（风格：电影感写实黑色幽默）。
+
+布局：画布上采用双页式分镜网格，分为 10 个编号镜头。镜头 1–5 位于左半部分，镜头 6–10 位于右半部分。每个镜头行包含五列：镜头时长、动作 / 对话 / 视觉画面面板、摄像机 / 运动备注、声音 / 设计备注以及转场 / 备注。使用加粗的黑色列标签和醒目的大镜头编号。
+
+主角与环境：主角为 {argument name="main character" default="a calm young woman office worker in a pale pink button-up blouse"}（一位身穿淡粉色衬衫的冷静年轻女职员），坐在或斜靠在杂乱的办公桌前，桌上有笔记本电脑、咖啡杯、文件、笔和办公用品。她在每个镜头中都保持面无表情，完全不受干扰。办公室位于城市天际线高处，有巨大的窗户，窗外是白昼，而她身后则是不断升级的火灾、烟雾、飞舞的纸张、破碎的办公用品和崩塌般的混乱。在整个过程中保持相同的人物特征、着装、发型和态度。
+
+分镜面板：包含 10 个图像面板，展示以下可见节奏：
+1. 1.0 秒，干净的城市天际线办公室全景镜头；一切看起来正常，混乱前的平静，尚未聚焦人物。
+2. 1.5 秒，展示女子在桌边闲适地喝着冰咖啡，笔记本电脑打开，在周围出现城市和办公室混乱迹象时保持完全冷静。
+3. 1.0 秒，背景开始出现第一簇小火苗，她依然毫不在意。
+4. 1.5 秒，她面无表情地再次喝了一口咖啡的特写；身后映照着温暖的火光。
+5. 1.5 秒，上方出现红色手写体文字：{argument name="first overlay text" default="everything is fine"}；短语覆盖在混乱的办公室场景之上。
+6. 1.5 秒，火势蔓延，烟雾升腾，纸张飞舞，混乱加剧，她依然在桌前保持冷静。
+7. 1.5 秒，插入她杂乱桌面上笔记本电脑的镜头；电脑屏幕显示扭曲的蓝色故障线条，桌面在震动，旁边有咖啡和文件。
+8. 1.5 秒，底部手写文字猛然出现：{argument name="second overlay text" default="it’s just marketing"}；点睛之笔的文字覆盖在火光和飞舞纸张的场景上。
+9. 2.0 秒，主角混乱时刻：破坏达到顶峰，火光冲天，纸张漫天飞舞，办公桌被杂物掩埋，她依然从容镇定。
+10. 2.0 秒，最终定格画面，两行文字清晰可见：红色的“everything is fine”和黑色的“it’s just marketing”，形成令人难忘且易于传播的结尾。
+
+单元格内的制作备注：添加简洁易读的备注，如“wide establishing shot”（全景建立镜头）、“slow push-in”（缓慢推入）、“straight cut”（直接剪辑）、“slow dolly in”（缓慢移动推入）、“cut in”（切入）、“static”（静止）、“match cut”（匹配剪辑）、“micro push-in”（微推入）、“graphic text reveal”（图形文字显现）、“handheld slight shake”（手持轻微晃动）、“quick push-in”（快速推入）、“typography impact”（排版冲击）、“slow rise / push”（缓慢上升/推入）、“freeze frame”（定格）和“end card freeze”（片尾定格）。在摄像机/声音列中包含简单的黑色箭头和小动作符号。
+
+页脚：添加底部备注栏。左侧备注：“NOTES: Maintain character identity, outfit, and attitude in every shot. Keep lighting cinematic with fire glow + daylight contrast.”（备注：在每个镜头中保持人物特征、着装和态度。保持电影感灯光，结合火光与日光对比。）右侧备注：“THEME: Corporate satire, calm in chaos, marketing irony.”（主题：职场讽刺，混乱中的冷静，营销反讽。）
+
+视觉风格：分镜面板内采用写实的电影感缩略图，高对比度的日光与橙色火光混合，黑色幽默基调，杂乱的办公室细节，烟雾、火星、散落的纸张。周围的分镜项目应具有专业提案表的感觉，配有手绘排版和清晰的网格结构。
+
+约束条件：使用 10 个镜头，正好两条手写覆盖短语，没有额外角色，没有 Logo，没有水印，没有原始 UI 样机外观。保持所有文字为英文，并使分镜备注清晰且紧凑。
+
+[English]
+Goal: Create a cinematic storyboard sheet for a short video concept titled {argument name="story title" default="EVERYTHING IS FINE, PART 1"}, presenting a darkly comic corporate satire where a calm office worker ignores total chaos because it is “just marketing.”
+
+Canvas: Wide 16:9 storyboard board, off-white paper background with thin black grid lines, hand-drawn production-planning aesthetic, slightly gritty print texture. Use a red-and-black marker style for key headings and handwritten overlay text.
+
+Header: Large top-left title in red brush lettering: “EVERYTHING IS FINE”, followed by “PART 1” in black brush lettering. Under it, small concept line: “CONCEPT: Calm office worker ignores total chaos. It’s just marketing.” Top-center and top-right production boxes: “TOTAL RUNTIME: 15 SECONDS”, “ASPECT RATIO: 16:9”, and “STYLE: CINEMATIC REALISTIC DARK COMEDY”.
+
+Layout: A two-page-style storyboard grid spanning the canvas, divided into 10 numbered shots. Shots 1–5 are on the left half and shots 6–10 on the right half. Each shot row contains exactly five columns: shot duration, action / dialogue / visual image panel, camera / movement notes, sound / design notes, and transition / notes. Use bold black column labels and large shot numbers.
+
+Main character and environment: The main character is {argument name="main character" default="a calm young woman office worker in a pale pink button-up blouse"}, seated or reclining at a cluttered office desk with a laptop, coffee cup, paperwork, pens, and office supplies. She remains deadpan and completely unbothered in every shot. The office is high above a city skyline with large windows, daylight outside, and escalating fire, smoke, flying papers, broken desk items, and collapse-like chaos behind her. Keep the same character identity, outfit, hairstyle, and attitude throughout.
+
+Storyboard panels: Include exactly 10 image panels with these visible beats:
+1. 1.0 sec, wide establishing shot of a clean city skyline office; everything looks normal, calm before chaos, no character focus yet.
+2. 1.5 sec, reveal the woman lounging at the desk, sipping iced coffee, laptop open, completely calm while city and office hints appear around her.
+3. 1.0 sec, first small flames start in the background while she still does not care.
+4. 1.5 sec, close-up of her deadpan face taking another sip; warm fire glow behind her.
+5. 1.5 sec, text appears overhead in red handwritten script: {argument name="first overlay text" default="everything is fine"}; the phrase sits over the chaotic office scene.
+6. 1.5 sec, fire grows, smoke rises, papers fly, chaos increases, she remains calm at the desk.
+7. 1.5 sec, insert shot of her laptop on the messy desk; the laptop display shows distorted blue glitch-like lines and the desk vibrates, with coffee and documents nearby.
+8. 1.5 sec, bottom handwritten text slams in: {argument name="second overlay text" default="it’s just marketing"}; punchline text over the scene with fire and flying papers.
+9. 2.0 sec, hero chaos moment: peak destruction, fire roaring, papers everywhere, desk buried in mess, she is still chill and composed.
+10. 2.0 sec, final freeze-frame composition with both text lines visible: “everything is fine” in red and “it’s just marketing” in black, memorable shareable ending.
+
+Production notes in cells: Add compact legible notes like “wide establishing shot,” “slow push-in,” “straight cut,” “slow dolly in,” “cut in,” “static,” “match cut,” “micro push-in,” “graphic text reveal,” “handheld slight shake,” “quick push-in,” “typography impact,” “slow rise / push,” “freeze frame,” and “end card freeze.” Include simple black arrows and small motion symbols in the camera/sound columns.
+
+Footer: Add a bottom notes strip. Left note: “NOTES: Maintain character identity, outfit, and attitude in every shot. Keep lighting cinematic with fire glow + daylight contrast.” Right note: “THEME: Corporate satire, calm in chaos, marketing irony.”
+
+Visual style: Realistic cinematic thumbnails inside the storyboard panels, high-contrast daylight mixed with orange fire glow, dark comedy tone, messy office detail, smoke, sparks, loose paper sheets. The surrounding storyboard board should feel like a professional pitch sheet with hand-rendered typography and crisp grid structure.
+
+Constraints: Use exactly 10 shots, exactly two main handwritten overlay phrases, no extra characters, no logos, no watermark, no raw UI mockup look. Keep all text in English and make the storyboard notes readable but compact.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2074068432279269649) | 2026-07-06
+
+---
+
+### 🎬 例 3321：温馨水彩生活切片插画
+
+![温馨水彩生活切片插画](../../images/%E6%B8%A9%E9%A6%A8%E6%B0%B4%E5%BD%A9%E7%94%9F%E6%B4%BB%E5%88%87%E7%89%87%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+可爱的温馨生活切片插画，采用 {argument name="art style" default="柔和水彩 + 彩色铅笔绘本风格"}。左侧坐着一位 {argument name="first character" default="留着长黑发、面带微笑的女孩"}，她穿着超大号的淡黄色睡衣，怀里抱着一只 {argument name="first pet" default="毛茸茸的柴犬"}，柴犬脸颊泛红。右侧是一位开朗的男孩，留着卷发，戴着圆框眼镜，穿着超大号的灰色卫衣，轻轻抱着一只橘白相间的猫。他们中间立着一棵小圣诞树，上面装饰着可爱的卡通动物挂件、淡色丝带、微型毛绒吊饰、星星、铃铛和柔和的仙女灯。温暖的木地板，干净的奶油色墙壁，宁静的居家氛围，柔和的晨光，轻柔的阴影，手绘草图轮廓，质感水彩渲染，淡雅色调，表情生动可爱，温馨的家庭时刻，儿童绘本插画，异想天开，暖心，高度细节，柔软的纸张纹理，吉卜力工作室风格的温暖感，韩漫插画美学，优质数字水彩，8K。
+
+[English]
+Cute cozy slice-of-life illustration in a {argument name="art style" default="soft watercolor + colored pencil storybook style"}. A {argument name="first character" default="smiling girl with long dark hair"} wearing oversized pastel yellow pajamas sits on the left, hugging a {argument name="first pet" default="fluffy Shiba Inu"} with rosy cheeks. On the right, a cheerful boy with curly hair, round glasses, and an oversized gray sweatshirt gently holds an orange-and-white cat. Between them stands a small Christmas tree decorated with adorable kawaii animal ornaments, pastel ribbons, tiny plush charms, stars, bells, and soft fairy lights. Warm wooden floor, clean cream-colored wall, peaceful home atmosphere, soft morning sunlight, gentle shadows, hand-drawn sketch outlines, textured watercolor washes, pastel palette, expressive cute faces, cozy family moment, children's book illustration, whimsical, heartwarming, highly detailed, soft paper texture, Studio Ghibli-inspired warmth, Korean webtoon illustration aesthetic, premium digital watercolor, 8K.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2073987524012519607) | 2026-07-06
+
+---
+
