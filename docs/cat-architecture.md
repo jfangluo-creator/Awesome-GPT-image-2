@@ -1710,3 +1710,21 @@ Create a polished anime-style vertical illustration set inside a modern public a
 
 ---
 
+### 🏛️ 例 3427：驾驶建筑机甲的悠闲飞行员
+
+![驾驶建筑机甲的悠闲飞行员](../../images/%E9%A9%BE%E9%A9%B6%E5%BB%BA%E7%AD%91%E6%9C%BA%E7%94%B2%E7%9A%84%E6%82%A0%E9%97%B2%E9%A3%9E%E8%A1%8C%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度精细的电影级科幻建筑场景，采用 3:4 竖构图。一台巨大的白蓝相间人形建筑机甲矗立在未来城市建筑工地高空的摩天大楼边缘，采用富有戏剧性的高空四分之三视角。机甲拥有 2 条长机械臂、2 条重型机械腿、带玻璃框架的开放式驾驶舱、外露的液压活塞、线缆、圆形关节、螺栓、警示条纹、天线、车顶灯以及带有风化感的工业涂装。每条手臂各抓取一捆深色钢制工字梁，总共可见 2 捆钢梁，像超大型建筑工具一样水平握持。驾驶舱内，一名留着深色波浪卷发、留着胡茬、戴着墨镜、身穿蓝色衬衫、白色长裤、系着棕色腰带、戴着手表并穿着休闲鞋的中年男子正悠闲地靠着，双脚翘起，像在休息一样平静地喝着小杯饮料；使用 {argument name="character mood" default="冷静、自信、略带自得"}。屋顶是浅色的混凝土板，上面散落着建筑杂物，包括右下角附近的 1 个橙色交通锥和脚手架管道。在遥远的下方，展示一座布满起重机、高层建筑骨架、平台和 1 个大型圆形挖掘坑的广阔城市，逐渐消失在云层和明亮的薄雾中。光线为清脆的日光，背景是蓝天白云，阴影强烈，具有高海拔大气感，采用精致的漫画/动画风格机械线条，逼真的工业纹理，以及宏大的规模感。在右下角添加一个小型胶片风格的日期/签名印章，包含 {argument name="date text" default="2026 年 7 月 7 日"} 以及类似草书签名的标记。无多余角色，无标志，无可见品牌名称。
+
+[English]
+Create a highly detailed cinematic sci-fi construction scene in a vertical 3:4 composition. A massive white-and-blue humanoid construction mech stands on the edge of a skyscraper rooftop high above a futuristic city construction site, viewed from a dramatic elevated three-quarter angle. The mech has exactly 2 long mechanical arms, 2 heavy mechanical legs, an open cockpit cabin with glass framing, exposed hydraulic pistons, cables, circular joints, bolts, warning stripes, antennae, roof lights, and weathered industrial paint. Each arm grips one bundle of dark steel I-beams, for exactly 2 visible steel beam bundles total, held horizontally like oversized construction tools. Inside the cockpit, a relaxed middle-aged man with wavy dark hair, stubble, sunglasses, a blue button-up shirt, white trousers, brown belt, wristwatch, and casual shoes reclines with both feet up, calmly drinking from a small cup as if on a break; use {argument name="character mood" default="calm, confident, slightly smug"}. The rooftop is a pale concrete slab with construction clutter, including exactly 1 orange traffic cone and scaffolding pipes near the lower right. Far below, show a vast city full of cranes, skeletal high-rise frames, platforms, and one large circular excavation pit, fading into clouds and bright haze. Lighting is crisp daylight with blue sky, white clouds, strong shadows, high altitude atmosphere, intricate manga/anime-inspired mechanical linework, realistic industrial textures, and epic scale. Add a small film-strip style date/signature stamp in the bottom-right corner containing {argument name="date text" default="July 7, 2026"} and a cursive signature-like mark. No extra characters, no logos, no readable brand names.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2074329574796837151) | 2026-07-07
+
+---
+

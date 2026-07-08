@@ -5136,3 +5136,205 @@ Cute cozy slice-of-life illustration in a {argument name="art style" default="so
 
 ---
 
+### 🎬 例 3362：《瓶装睡眠》漫画封面
+
+![《瓶装睡眠》漫画封面](../../images/%E3%80%8A%E7%93%B6%E8%A3%85%E7%9D%A1%E7%9C%A0%E3%80%8B%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版漫画封面海报，主题为暗黑奇幻剧，主标题为 {argument name="main title text" default="眠気屋の小瓶"}，副标题为 {argument name="subtitle text" default="眠気を売りすぎた漫画家"}。构图展示了一位疲惫的年轻男性漫画家 {argument name="character name" default="Ren Mashima"}，深夜坐在神秘古董店或工作室里杂乱的绘图桌前。他留着凌乱的黑发，皮肤苍白，眼神锐利而疲惫，身穿宽松的黑色衬衫。他的左肘撑在桌上，手扶太阳穴，右手向前伸向观众，握着一个小小的带软木塞的玻璃瓶，瓶身缠绕着细金属丝，并挂着一张印有新月符号的纸标签。瓶子里装满了发着蓝紫色光芒的魔法雾气，宛如困倦的星尘，伴随着微小的星星和新月，向上溢出淡淡的烟雾。桌上散落着漫画原稿纸、蘸水笔、笔尖、画笔、黑色墨水瓶、深色咖啡杯、揉皱的纸团和各种美术工具。他身后的架子上摆满了各种玻璃瓶罐，里面充盈着暗淡的蓝色、琥珀色和紫色光芒，暗示着这是一家售卖“瓶装睡意”的商店。左侧的大窗户显露出深蓝色的夜间城市景观，点缀着星光和远处的灯火。采用戏剧性的电影级光效：来自窗户的冷色月光、来自架子的暖色琥珀光，以及瓶子发出的明亮魔法蓝光，照亮了他的手指和脸庞。将巨大的华丽日文标题置于顶部，采用优雅的发光白色书法字体，配以纤细的装饰性笔触，并在最后一个字符附近添加一个小瓶子图标；将较小的副标题居中置于其下方，配以细横线和小型装饰花纹。风格：高度精细的现代青年漫画封面插画，油画质感的动漫写实风格，繁复的线条，忧郁的黑色电影氛围，光亮的魔法高光，聚焦于角色和瓶子，采用深靛蓝与金色的配色方案。画布：9:16 竖版封面，无边框，无水印，确保标题清晰且占据主导地位。
+
+[English]
+Create a vertical manga cover poster for a dark fantasy drama titled {argument name="main title text" default="眠気屋の小瓶"}, with the subtitle {argument name="subtitle text" default="眠気を売りすぎた漫画家"}. The composition shows a tired young male manga artist, {argument name="character name" default="Ren Mashima"}, seated at a cluttered drawing desk late at night inside a mysterious antique shop or studio. He has messy black hair, pale skin, sharp exhausted eyes, and wears a loose black button-up shirt. His left elbow rests on the desk with his hand against his temple, while his right hand reaches forward toward the viewer, holding a small corked glass bottle wrapped with thin metal wire and a paper tag bearing a crescent moon symbol. Inside the bottle is glowing blue-violet magical mist shaped like sleepy stardust, with tiny stars and a crescent moon, spilling faint smoke upward. The desk is covered with manga manuscript pages, ink pens, nibs, brushes, black ink bottles, a dark coffee mug, crumpled paper, and scattered art tools. Behind him, shelves hold many glass bottles and jars filled with dim blue, amber, and purple light, suggesting a shop that sells bottled sleepiness. A large window on the left reveals a deep blue night cityscape with stars and distant lit buildings. Use dramatic cinematic lighting: cool moonlight from the window, warm amber lamp highlights from the shelves, and bright magical blue glow from the bottle illuminating his fingers and face. Place the large ornate Japanese title across the top in elegant glowing white calligraphy with thin decorative swashes and a tiny bottle icon near the final character; place the smaller subtitle centered beneath it with thin horizontal divider lines and a small ornamental flourish. Style: highly detailed modern seinen manga cover illustration, painterly anime realism, intricate linework, moody noir atmosphere, glossy magical highlights, sharp focus on the character and bottle, dark indigo and gold palette. Canvas: vertical 9:16 cover, no border, no watermark, keep the title readable and dominant.
+```
+
+**来源：** [@マンモスⅡz｜AIアニメクリエーター](https://x.com/Mammoth02Z/status/2074513341985525937) | 2026-07-07
+
+---
+
+### 🎬 例 3363：七夕漫画的误会
+
+![七夕漫画的误会](../../images/%E4%B8%83%E5%A4%95%E6%BC%AB%E7%94%BB%E7%9A%84%E8%AF%AF%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖版日本漫画，以七夕为主题，呈现浪漫喜剧风格，展示两名时尚动漫角色在竹枝许愿签上产生的误会。
+
+画布：高竖版漫画页，比例约为 2:3，具有干净的白色分镜间隙和动态的对角线漫画分镜边框。场景为夜晚的室内/室外阳台，透过大窗户可以看到深蓝色的星空和银河。高品质现代动漫插画，光影细腻，阴影光泽，电影般的蓝色月光与温暖的室内灯光交织。
+
+角色：在所有分镜中保持两名固定角色的一致性。男主角为 {argument name="male character description" default="一名身材苗条的年轻男子，留着凌乱的蓝色短发，皮肤白皙，戴着多枚耳环，身穿黑色亮面连帽夹克和深色街头服饰，表情略显高冷但有些慌乱"}。女主角为 {argument name="female character description" default="一名娇小的年轻女子，留着长长的灰金色双马尾，红色双眸，身穿带有蕾丝的黑色哥特萝莉塔裙，佩戴黑色发带和丝带配饰，戴着粉色心形耳环，笑容调皮狡黠"}。
+
+布局：共 6 个分镜。第 1 格为横跨页面顶部的宽幅分镜。第 2 格和第 3 格位于下方并排，第 2 格在左侧较窄，第 3 格在右侧较大。第 4 格和第 5 格位于更下方，第 4 格在左侧展示少年独自一人，第 5 格在右侧较大，展示两名角色在竹子旁争论。第 6 格为底部全宽的 Q 版搞笑分镜，背景为柔和色调。
+
+分镜细节：
+1. 顶部宽幅分镜：蓝发少年站在挂满彩色七夕短册许愿签的竹枝旁，正在仔细系上或检查一条浅蓝色的许愿签。左侧背景为星空，右侧为竹叶和悬挂的许愿签。包含约 7 条可见的蓝色、黄色、粉色、紫色和棕褐色许愿签。
+2. 中左分镜：哥特少女从温暖明亮的房间里透过华丽的双开门探出头来，感到惊讶和好奇。添加一个竖排对话框，内容为 {argument name="girl surprised line" default="あれ？"}。
+3. 中右分镜：少女在竹叶和短册旁的特写，她红色的双眸闪亮，带着调侃的微笑，一只手靠近耳朵。添加一个竖排对话框，内容为 {argument name="girl teasing line" default="うちにもユタの笹ってあったんだ？"}。她周围悬挂着约 5 条彩色的许愿签。
+4. 下左分镜：少年尴尬地转过身，手里拿着一条棕褐色的许愿签藏在身后，头顶出现汗滴和受惊的漫画符号。无需大段对话。
+5. 下右分镜：少年和少女在阳台附近的室内面对面。少年一只手叉腰，神情防御，少女闭着眼睛微笑，调侃着他。添加两个对话框：少年说 {argument name="boy excuse line" default="物置にあったんだよ！掃除してただけだし！"}；少女说“そかそか”。
+6. 底部全宽 Q 版分镜：在淡紫色圆点背景上的简化可爱 Q 版形象。少年慌乱地脸红并鼓起脸颊，手里拿着几张矩形短册，短册从他手中飞出；少女闭着眼睛掩嘴偷笑。添加小卡通蒸汽、闪烁的星星和动作符号。此搞笑分镜中应可见 5 张散落的短册。
+
+文字与排版：使用日式漫画风格的竖排对话框，白色气泡内配以清晰的黑色文字。保持可见对话与指定内容完全一致。除装饰性的情绪符号外，不要添加额外的旁白框或音效字。
+
+视觉风格：高级光泽感动漫漫画渲染，细腻的发丝，精致的五官，高对比度的月光氛围，优雅的哥特时尚，浪漫的七夕装饰，富有表现力的喜剧节奏，清晰的白色分镜间隙，无水印，无 Logo。
+
+[English]
+Goal: Create a vertical Japanese manga page for Tanabata, romantic comedy tone, showing a misunderstanding about wish strips on a bamboo tree between two stylish anime characters.
+
+Canvas: Tall vertical comic page, approximately 2:3 aspect ratio, with clean white panel gutters and dynamic diagonal manga panel borders. Nighttime interior/exterior balcony setting with a deep blue starry sky and Milky Way visible through large windows. Highly polished modern anime illustration, detailed lighting, glossy shadows, cinematic blue moonlight mixed with warm indoor lamp light.
+
+Characters: Use two recurring characters consistently across all panels. The male lead is {argument name="male character description" default="a slim young man with messy short blue hair, pale skin, multiple earrings, a black glossy hooded jacket over dark streetwear, slightly cool but flustered expression"}. The female lead is {argument name="female character description" default="a petite young woman with long ash-blonde twin-tail hair, red eyes, black gothic lolita dress with lace, black headband, ribbon accessories, pink heart earrings, playful mischievous smile"}.
+
+Layout: Exactly 6 panels. Panel 1 is a wide top panel spanning the full page width. Panels 2 and 3 sit beneath it side by side, with panel 2 narrow on the left and panel 3 larger on the right. Panels 4 and 5 sit below, with panel 4 on the left showing the boy alone and panel 5 larger on the right showing both characters arguing near the bamboo. Panel 6 is a wide full-width chibi gag panel at the bottom with a pastel background.
+
+Panel details:
+1. Wide top panel: The blue-haired boy stands by a bamboo branch covered with colorful Tanabata tanzaku wish papers, carefully tying or checking a light-blue strip. Starry night sky fills the left background, bamboo leaves and hanging wish strips fill the right. Include about 7 visible hanging wish strips in blue, yellow, pink, purple, and tan.
+2. Middle-left panel: The gothic girl peeks through ornate double doors from a warmly lit room, surprised and curious. Add one vertical speech bubble saying {argument name="girl surprised line" default="あれ？"}.
+3. Middle-right panel: Close-up of the girl beside bamboo leaves and tanzaku, smiling teasingly with red eyes bright, one hand near her ear. Add one vertical speech bubble saying {argument name="girl teasing line" default="うちにもユタの笹ってあったんだ？"}. Show about 5 colorful wish strips hanging around her.
+4. Lower-left panel: The boy turns back in embarrassment, holding a tan wish strip partly hidden behind him, sweat drop and startled manga mark above his head. No large dialogue needed.
+5. Lower-right panel: The boy and girl face each other indoors near the balcony and bamboo. The boy looks defensive with one hand on his hip, the girl smiles with eyes closed, teasing him. Add two speech bubbles: boy says {argument name="boy excuse line" default="物置にあったんだよ！掃除してただけだし！"}; girl says "そかそか".
+6. Bottom full-width chibi panel: Simplified cute chibi versions on a pale lavender dotted background. The boy is flustered, blushing and puffing, holding several rectangular tanzaku papers that fly from his hands; the girl giggles with eyes closed and hand near mouth. Add small cartoon steam puffs, sparkle stars, and motion marks. Exactly 5 loose tanzaku papers should be visible in this gag panel.
+
+Text and lettering: Use Japanese manga-style vertical speech bubbles with clean black text on white bubbles. Keep the visible dialogue exactly as specified. Do not add extra narration boxes or sound effects beyond small decorative emotion marks.
+
+Visual style: Premium glossy anime manga rendering, detailed hair strands, delicate faces, high contrast moonlit atmosphere, elegant gothic fashion, romantic Tanabata decorations, expressive comedy beats, crisp white gutters, no watermark, no logo.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2074506964772745314) | 2026-07-07
+
+---
+
+### 🎬 例 3377：武士水墨漫画艺术
+
+![武士水墨漫画艺术](../../images/%E6%AD%A6%E5%A3%AB%E6%B0%B4%E5%A2%A8%E6%BC%AB%E7%94%BB%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="warrior type" default="孤独的武士"} 处于动态战斗姿势，{argument name="hair style" default="凌乱的黑色尖刺发型"} 半遮住双眼，神情坚毅冷峻，身着层次分明的黑灰色和服/盔甲，布料飘逸，腰间佩戴武士刀，戏剧性的水墨笔触插画，日本水墨画 + 漫画概念艺术风格，高对比度的黑、白、灰配色，点缀着 {argument name="accent color" default="鲜艳的红色血迹"}，粗犷的绘画笔触，飞溅的墨迹纹理，布料与头发带有动态模糊，电影级构图，粗犷的封建日本氛围，极简的米白色纸张背景，戏剧性的留白，面部与衣褶细节丰富，暗黑忧郁的灯光，暴力而优雅的能量，杰作，超精细，海报构图
+
+[English]
+A {argument name="warrior type" default="lone samurai warrior"} in dynamic battle pose, {argument name="hair style" default="messy spiky black hair"} partially covering the eyes, intense stoic expression, wearing layered black and grey kimono/armor with flowing fabric and katana at the waist, dramatic ink-wash brushstroke illustration, Japanese sumi-e + manga concept art style, high contrast black, white and grey palette with {argument name="accent color" default="vivid red blood splatter"} accents, rough painterly strokes, splattered ink textures, motion blur in fabric and hair, cinematic composition, gritty feudal Japan atmosphere, minimalist off-white paper background, dramatic negative space, highly detailed face and clothing folds, dark moody lighting, violent elegant energy, masterpiece, ultra detailed, poster composition
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2074475729421783346) | 2026-07-07
+
+---
+
+### 🎬 例 3402：挪威足球前锋卡通插画
+
+![挪威足球前锋卡通插画](../../images/%E6%8C%AA%E5%A8%81%E8%B6%B3%E7%90%83%E5%89%8D%E9%94%8B%E5%8D%A1%E9%80%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅大胆且充满活力的 2D {argument name="subject" default="卡通体育插画"}，采用简洁的欧洲漫画风格。一位强力的 {argument name="character description" default="扎着马尾辫的金发足球前锋"} 带着凶猛而夸张的笑容向前冲刺，身穿 {argument name="team jersey" default="挪威国家队红色球衣"}，球衣上有巨大的白蓝相间北欧十字图案、9 号数字、白色短裤、海军蓝球袜和粉色足球鞋。他一手举着传统的球迷鼓槌，向前景中一个巨大的红色维京风格球迷鼓跑去。在他身后，兴奋的卡通队友和球迷们在拥挤的足球场内欢呼，他们有着夸张的表情和灿烂的笑容。一名球迷戴着维京头盔，增添了挪威文化和球迷精神。明亮的蓝天配上蓬松的白云，充满活力的球场氛围，动态的动作线条，粗犷的黑色轮廓，流畅的赛璐珞阴影，饱和的色彩，俏皮的比例，生动的面部表情，清晰的矢量风格渲染，精致的数字漫画艺术，充满活力的体育海报构图，超干净的线条，高度细致的球衣褶皱，色彩缤纷的人群，有趣的夸张解剖结构，专业的编辑插画，居中构图，垂直海报格式，高对比度，优质吉祥物/卡通美学，无文字，无水印，4K 分辨率。
+
+[English]
+A bold, high-energy 2D {argument name="subject" default="cartoon sports illustration"} in a clean European comic style. A powerful {argument name="character description" default="blond football striker with long hair tied in a ponytail"} charges forward with a fierce, exaggerated grin, wearing {argument name="team jersey" default="Norway’s red national team jersey"} with a large white-and-blue Nordic cross, number 9, white shorts, navy socks, and pink football boots. He raises a traditional supporter drumstick in one hand while running toward a large red Viking-style supporter drum in the foreground. Behind him, excited cartoon teammates and fans cheer with oversized expressive eyes and wide smiles inside a packed football stadium. One supporter wears a Viking helmet, adding Norwegian culture and fan spirit. Bright blue sky with fluffy white clouds, vibrant stadium atmosphere, dynamic action lines, bold black outlines, smooth cel shading, saturated colors, playful proportions, expressive facial expressions, crisp vector-style rendering, polished digital comic art, energetic sports poster composition, ultra-clean linework, highly detailed jersey folds, colorful crowd, fun exaggerated anatomy, professional editorial illustration, centered composition, vertical poster format, high contrast, premium mascot/cartoon aesthetic, no text, no watermark, 4K resolution.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2074406132274352297) | 2026-07-07
+
+---
+
+### 🎬 例 3412：七夕重逢漫画页面
+
+![七夕重逢漫画页面](../../images/%E4%B8%83%E5%A4%95%E9%87%8D%E9%80%A2%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页竖向 5 格的日式七夕漫画，展示织女和牛郎时隔一年重逢，并伴随突如其来的搞笑情绪反转。
+
+画布：竖构图漫画页面，比例约为 3:4，带有粗黑色外边框，格与格之间有白色间隙，采用干净的数字动漫线条，配以柔和的色彩和戏剧性的漫画效果。
+
+布局：使用精确的 5 个编号格，每个格子的左上角带有白色小方块编号。第 1 格为右上角，第 2 格为左上角，第 3 格为横跨页面宽度的中间大格，第 4 格为右下角，第 5 格为左下角。
+
+角色：两个 Q 版/动漫风格的神话角色。织女是一位年轻女性，留着黑色长发，带有环状公主发饰，眼神半睁半闭，身披飘逸的淡蓝色丝带，穿着粉色和服配深粉色腰带。牛郎是一位年轻男性，留着凌乱的黑发，戴着黑色长方形眼镜，穿着蓝色和服配深蓝色腰带。在第 5 格中，他滑稽地变成了秃顶的中年形象，戴着眼镜，留着侧发，表情惊恐，但仍穿着蓝色衣服。
+
+分格细节：
+- 第 1 格：夜晚的银河场景，点缀着繁星，一座小拱桥横跨发光的河流，边缘有树叶剪影。织女和牛郎在离别后悲伤地面对面站立。在右侧添加一个竖向旁白框，内容为 {argument name="panel 1 narration" default="织女和牛郎带着遗憾分开了……"}。
+- 第 2 格：宁静的深蓝色夜空，只有零星的星星和柔和的云朵，没有角色。中央放置一个竖向白色旁白框，内容为 {argument name="panel 2 narration" default="一年后——"}。
+- 第 3 格：明亮的白天重逢场景，地点在同一座桥上，背景是蓝天、树木和闪光，两个角色面对面。织女看起来兴致缺缺，眼皮沉重；牛郎看起来有些迟疑。在右侧添加一个竖向旁白框，内容为 {argument name="panel 3 narration" default="织女和牛郎时隔一年再次相见"}。在他们周围添加几个金色的星星闪光。
+- 第 4 格：牛郎独自一人，双臂交叉，愤怒且失望，背景为灰色放射状速度线。在右上角添加一个白色对话气泡，内容为 {argument name="panel 4 speech" default="我对你很失望"}。在他附近添加一个小的黑色拟声词，暗示紧张的哼声。
+- 第 5 格：高能搞笑动作格，带有黑白速度线。织女怒不可遏，从背后/侧面重重地打了牛郎一拳，导致他那秃顶的滑稽形象向前踉跄，眼镜歪斜，张大嘴巴露出震惊的表情。在顶部添加一个紫色冲击拟声词 {argument name="impact sound effect" default="啪！"}，底部附近添加一个巨大的红色冲击拟声词，他头部旁边有一个黄色爆炸效果，织女旁边有一个白色对话气泡，写着“等一下！”
+
+视觉风格：可爱的 Q 版漫画角色，表情丰富，轮廓清晰大胆，精致的网漫配色，戏剧性的日式漫画分格，浪漫的星空七夕氛围与突如其来的暴力搞笑形成鲜明对比。
+
+约束条件：使用精确的 5 个分格，精确的 2 个主要角色，精确的 5 个分格编号标签，精确的 4 个白色旁白/对话框或气泡，以及描述的动作拟声词，无水印，无额外分格，无额外角色。
+
+[English]
+Goal: Create a vertical 5-panel Japanese manga page about Tanabata, showing Orihime and Hikoboshi meeting again after one year, with a sudden comedic emotional change.
+
+Canvas: Portrait manga page, roughly 3:4 aspect ratio, thick black outer border, white gutters between panels, clean digital anime line art with soft coloring and dramatic manga effects.
+
+Layout: Use exactly 5 numbered panels with small white square number boxes in the upper-left corner of each panel. Panel 1 is the top-right panel, Panel 2 is the top-left panel, Panel 3 is a wide middle panel spanning the page width, Panel 4 is the bottom-right panel, and Panel 5 is the bottom-left panel.
+
+Characters: Two chibi/anime-style mythological characters. Orihime is a young woman with long black hair, a looped princess hairstyle ornament, sleepy half-lidded eyes, and flowing pale blue ribbons, wearing a pink kimono with a darker pink obi. Hikoboshi is a young man with messy black hair, rectangular black glasses, and a blue kimono with a dark blue sash. In Panel 5 he appears comically transformed into a balding middle-aged version with glasses, side hair, and a startled expression while still wearing blue.
+
+Panel details:
+- Panel 1: Nighttime Milky Way scene with stars, a small arched bridge over a glowing river, leafy silhouettes at the edges. Orihime and Hikoboshi stand facing each other sadly after parting. Add one vertical narration box on the right reading {argument name="panel 1 narration" default="Orihime and Hikoboshi parted with regret..."}.
+- Panel 2: Quiet dark blue night sky with scattered stars and soft clouds only, no characters. Center a vertical white narration box reading {argument name="panel 2 narration" default="And then, one year later—"}.
+- Panel 3: Bright daytime reunion scene on the same bridge with blue sky, trees, sparkles, and both characters facing each other. Orihime looks unimpressed and heavy-lidded; Hikoboshi looks uncertain. Add one vertical narration box on the right reading {argument name="panel 3 narration" default="Orihime and Hikoboshi met for the first time in a year"}. Include several golden star sparkles around them.
+- Panel 4: Hikoboshi alone, arms crossed, angry and disappointed, on a gray radial speed-line background. Add a white speech balloon on the upper right reading {argument name="panel 4 speech" default="I’m disappointed in you"}. Add a small black sound effect near him suggesting a tense grunt.
+- Panel 5: High-energy slapstick action panel with black-and-white speed lines. Orihime, furious, punches Hikoboshi hard from behind/side, sending his balding comic version lurching forward with glasses askew and a shocked open mouth. Add a purple impact sound effect at the top reading {argument name="impact sound effect" default="PAKAAAN"}, a large red impact sound effect near the bottom, a yellow burst by his head, and a white speech balloon from Orihime reading “Wait a second!”
+
+Visual style: Cute chibi manga characters, expressive faces, bold clean outlines, polished webcomic coloring, dramatic Japanese manga paneling, high contrast between romantic starry Tanabata atmosphere and sudden slapstick violence.
+
+Constraints: Use exactly 5 panels, exactly 2 main characters, exactly 5 panel number labels, exactly 4 white narration/speech boxes or balloons plus the action sound effects described, no watermark, no extra panels, no extra characters.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2074359124390023318) | 2026-07-07
+
+---
+
+### 🎬 例 3415：极简水彩生活方式插画
+
+![极简水彩生活方式插画](../../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在 {argument name="paper type" default="纹理象牙色手工纸"} 上绘制的极简水彩插画，柔和的粉彩色调，精致的墨水轮廓，细腻的水彩晕染，舒适的绘本美学，留有大量干净的负空间。
+
+一位穿着现代休闲服饰的时尚年轻女性作为主体，捕捉其平静、感性的日常瞬间。她穿着 {argument name="clothing" default="叠穿在柔和中性色服装外的廓形风衣或开衫"}，搭配长裙或阔腿裤、皮质乐福鞋或短靴，以及一个简约的斜挎包。中长款的自然发型柔和地修饰着她的脸庞。
+
+构图刻意在画布中留出较小的比例，在人物周围留出充裕的空白。姿态柔和且富有表现力，流露出细腻的情感，周围环绕着细小的漂浮水彩溅点、精致的蝴蝶、花朵、叶片或根据场景而定的季节性元素。
+
+场景示例：
+• {argument name="scene" default="蹲在一束蓝色玫瑰旁，轻轻触碰其中一朵花"}。
+• 安静地站立，怀中抱着一束包装好的花束。
+• 在大树下闭目休憩。
+• 提着一篮刚采摘的苹果，伸手够向树枝上悬挂的一颗苹果。
+
+手绘水彩质感，柔和的阴影，优雅的笔触，低饱和度的大地色系，温暖的自然氛围，宁静的生活方式插画，日式文具艺术风格，极简编辑插画，奇幻而写实的比例，高级水彩画，超细节，8K。
+
+[English]
+Minimalist watercolor illustration on {argument name="paper type" default="textured ivory handmade paper"}, soft pastel palette, delicate ink outlines, subtle watercolor bleeding, cozy storybook aesthetic, lots of clean negative space.
+
+A stylish young woman in modern casual clothing is the main subject, captured in a calm, emotional everyday moment. She wears {argument name="clothing" default="an oversized trench coat or cardigan layered over soft neutral clothing"}, a long flowing skirt or wide-leg pants, leather loafers or ankle boots, and a simple crossbody bag. Medium-length natural hair gently frames her face.
+
+The composition is intentionally small within the canvas, leaving generous empty space around the character. Soft expressive pose with gentle emotions, surrounded by tiny floating watercolor splashes, subtle butterflies, flowers, leaves, or seasonal elements depending on the scene.
+
+Examples of scenes:
+• {argument name="scene" default="Squatting beside a bouquet of blue roses while gently touching one flower"}.
+• Standing quietly while holding a wrapped bouquet against her chest.
+• Resting peacefully beneath a large tree with eyes closed.
+• Reaching upward toward a single apple hanging from a tree branch while carrying a basket of freshly picked apples.
+
+Hand-painted watercolor textures, soft shadows, elegant brush strokes, muted earthy colors, warm natural atmosphere, peaceful lifestyle illustration, Japanese stationery art style, minimal editorial illustration, whimsical yet realistic proportions, premium watercolor painting, ultra-detailed, 8K.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2074351525405892838) | 2026-07-07
+
+---
+

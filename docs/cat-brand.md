@@ -8753,3 +8753,163 @@ Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 wide
 
 ---
 
+### 🏷️ 例 3346：北极战舰风格对比
+
+![北极战舰风格对比](../../images/%E5%8C%97%E6%9E%81%E6%88%98%E8%88%B0%E9%A3%8E%E6%A0%BC%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅双联画对比图，展示夜晚的北极战舰港口，中间由一条粗黑垂直线分隔，整体构图四周带有细微的黑色边框。
+
+画布：超宽横向画布，长宽比约为 3:1。将图像精确分为 2 个相等的矩形面板：左侧面板为深色、电影级、写实风格概念艺术；右侧面板为较明亮、风格化、简洁的动漫/卡通风格概念艺术。
+
+左侧面板：展示 1 艘停泊在冰冷工业港口的巨型未来主义战列舰，采用低位左前方视角。船体为深灰色，气势宏伟，拥有高耸的中央上层建筑、雷达桅杆、天线和大型前部海军炮。水面近乎结冰，前景有破碎的浮冰，并在黑蓝色水面上形成倒影。包含 3 个可见的港口起重机剪影：最左侧 1 个大型起重机，右边缘附近 1 个起重机，以及船后方 1 个较小的工业起重机。加入远处的码头结构、栈桥和微弱的城市/港口灯光。天空为深午夜蓝，点缀着繁星，一道壮观的蓝色极光在船后方纵横交错。氛围：寒冷、阴森、军事化、高细节科幻写实。
+
+右侧面板：展示 1 艘停泊在冰封港口的白色破冰巡逻战舰，采用高位四分之三左前方视角。以清晰的插画风格绘制，线条简洁，采用赛璐珞着色，并细致描绘船载设备。船体上的船名必须显示为 {argument name="ship name" default="NORTHERN GHOST"}。该船拥有高耸的舰桥，配有发光的青色窗户、雷达罩、天线、桅杆设备、侧面救生艇、甲板炮、导弹舱、栏杆、舱口以及温暖的黄色内部灯光。船只周围环绕着开裂的冰层和积雪的码头。背景左侧包含 3 个可见的港口起重机，以及小型仓库和码头灯。右上方的天空中有一轮满月，月光映照在冰封的海面上。氛围：冒险感、可爱且具有技术感、蓝色冬季色调、简洁的世界观插画。
+
+风格对比：左侧面板应呈现 {argument name="left panel style" default="深色写实电影级海军科幻概念艺术"} 的质感；右侧面板应呈现 {argument name="right panel style" default="明亮动漫风格北极舰船插画"} 的质感。两个面板需描绘相同的主题，即 {argument name="subject" default="冰封海军港口中的先进北极战舰"}，但渲染风格需有明显差异。
+
+色彩与光影：使用海军蓝、钢灰、冰蓝和白色的冷色调。左侧面板光影低调且具有戏剧性，以蓝色极光辉光为主。右侧面板光影更清晰易读，包含月光、青色舰桥灯光和温暖的黄色点缀。
+
+约束条件：不包含人物，除船体文字外无任何标题，无 Logo，无水印。保持精确的 2 个面板，且每个面板仅包含 1 艘主要舰船。强调冰封水面、破碎浮冰、工业港口机械和夜晚氛围。
+
+[English]
+Goal: Create a wide two-panel comparison image of an arctic warship harbor at night, separated by a thick vertical black divider, with subtle black margins around the whole composition.
+
+Canvas: Ultra-wide horizontal canvas, about 3:1 aspect ratio. Split the image into exactly 2 equal rectangular panels: the left panel is dark, cinematic, realistic concept art; the right panel is brighter, stylized, clean anime/cartoon concept art.
+
+Left panel: Show exactly 1 massive futuristic battleship moored in an icy industrial harbor, viewed from a low front-left angle. The ship is dark gray, imposing, with a tall central superstructure, radar masts, antennas, and large forward naval guns. The water is almost frozen, with broken ice floes in the foreground and reflections on the black-blue surface. Include exactly 3 visible harbor cranes as dark silhouettes: 1 large crane on the far left, 1 crane near the right edge, and 1 smaller industrial crane behind the ship. Add distant dock structures, piers, and faint city/port lights. The sky is deep midnight blue with stars and a dramatic blue aurora borealis sweeping vertically and horizontally behind the ship. Mood: cold, ominous, militaristic, high-detail sci-fi realism.
+
+Right panel: Show exactly 1 white icebreaking patrol warship in a frozen harbor, viewed from a high three-quarter front-left angle. Paint it in a crisp illustrated style with clean outlines, cel-shaded colors, and detailed ship equipment. The ship name on the hull must read {argument name="ship name" default="NORTHERN GHOST"}. The ship has a tall bridge with glowing cyan windows, radar domes, antennas, mast equipment, side lifeboats, deck guns, missile pods, railings, hatches, and warm yellow-lit interior openings. It is surrounded by cracked ice sheets and snow-covered docks. Include exactly 3 visible harbor cranes in the background on the left side, plus small warehouses and pier lights. Add a full moon in the upper-right sky with moonlight reflected on the icy sea. Mood: adventurous, cute but technical, blue winter palette, clean worldbuilding illustration.
+
+Style contrast: The left panel should feel like {argument name="left panel style" default="dark realistic cinematic naval sci-fi concept art"}; the right panel should feel like {argument name="right panel style" default="bright anime-style arctic ship illustration"}. Keep both panels depicting the same basic subject, {argument name="subject" default="an advanced arctic warship in a frozen naval port"}, but with clearly different rendering styles.
+
+Color and lighting: Use a cold palette of navy, steel gray, icy blue, and white. Left panel lighting is low-key and dramatic, dominated by blue aurora glow. Right panel lighting is clearer and more readable, with moonlight, cyan bridge lights, and warm yellow accents.
+
+Constraints: Include no people, no captions other than the hull text, no logos, no watermark. Maintain exactly 2 panels and exactly 1 primary ship per panel. Emphasize frozen water, broken ice floes, industrial harbor machinery, and night atmosphere.
+```
+
+**来源：** [@Rii2](https://x.com/rii2_4/status/2074641315040800833) | 2026-07-07
+
+---
+
+### 🏷️ 例 3348：幽灵灯塔风暴海景
+
+![幽灵灯塔风暴海景](../../images/%E5%B9%BD%E7%81%B5%E7%81%AF%E5%A1%94%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级暗黑奇幻超现实海景，背景设定在狂暴的夜晚风暴中。画面前景和中景展示了巨大的深色海浪拍打着锯齿状的黑色岩石，白色的海浪泡沫向上飞溅，雨水在画面中斜向划过。在远处，将一座高大的幽灵灯塔放置在一座小岩石岛上，灯塔呈半透明状，周围环绕着苍白的幽灵薄雾；其灯光发出明亮的冷蓝白色光束，向左扫过海洋。在灯塔上方，形成巨大的漩涡雷云，天空中呈现出戏剧性的漩涡状螺旋，并由月光下的青灰色高光照亮，左上方包含一道分叉的闪电。添加空灵的半透明丝带状波浪图案和幽灵般的螺旋形状，使其在云层中飘动，并反射在前景中心较平静的水池中，灯塔的倒影也出现在那里。使用宽幅景观构图，高细节数字概念艺术，忧郁的蓝灰色单色调，强对比度，体积雾，湿润岩石反射，湍急的水流，锐利的绘画写实风格，大气深度，无人像，无文字，无边框，无水印。
+
+[English]
+Create a cinematic dark fantasy surreal seascape during a violent night storm. The scene shows enormous dark ocean waves crashing against jagged black rocks in the foreground and midground, with white sea foam exploding upward and rain streaking diagonally across the image. In the distance, place a tall ghostly lighthouse on a small rocky island, partially translucent and surrounded by pale spectral mist; its lamp emits a bright cold blue-white beam sweeping left across the ocean. Above it, form massive swirling thunderclouds with a dramatic vortex-like spiral in the sky, illuminated by moonlit cyan-gray highlights, and include one branching lightning strike in the upper left. Add ethereal translucent ribbon-like wave patterns and ghostly spiral shapes drifting through the clouds and reflected on a calmer pool of water in the center foreground, where the lighthouse reflection appears. Use a wide landscape composition, high-detail digital concept art, moody blue-gray monochrome palette, strong contrast, volumetric fog, wet rock reflections, turbulent water, sharp painterly realism, atmospheric depth, no people, no text, no border, no watermark.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2074587772527001971) | 2026-07-07
+
+---
+
+### 🏷️ 例 3349：六款刺绣 Muse 补丁
+
+![六款刺绣 Muse 补丁](../../images/%E5%85%AD%E6%AC%BE%E5%88%BA%E7%BB%A3%20Muse%20%E8%A1%A5%E4%B8%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在米色褶皱亚麻布背景上，创建 6 款刺绣补丁的逼真产品平铺效果，展示 {argument name="brand name" default="Muse Image"} 和 {argument name="alternate brand name" default="Muse Video"} 的不同徽章设计。补丁应具有真实的触感和缝制效果，包括凸起的线迹、缝合边缘、轻微阴影及多样化的形状，并以 3 列 2 行的整齐网格排列。
+
+画布：宽幅横向图像，比例约为 16:9，采用正上方俯拍视角。使用柔和的自然光，展现米色编织布料纹理和清晰的刺绣细节，画面中不应出现手部或包装。
+
+布局：包含 6 款独立的补丁：
+1. 左上：圆形复古相机补丁，配有暖橙色放射状背景，厚实的金色刺绣边框，复古相机插图，顶部有大号弧形文字“MUSE IMAGE”，底部有小号文字丝带“ANALOG • EST. 1978”，并点缀有小星星和闪电图案。
+2. 上中：盾形国家公园主题补丁，包含山脉、松林和蜿蜒河流，青色与奶油色边框，顶部横幅文字“MUSE VIDEO”，底部弧形丝带文字“NATIONAL PARK • EXPLORE • DISCOVER”，以及底部的小横幅“EST. 2024”。
+3. 右上：方形像素艺术街机补丁，配有海军蓝、青色、粉色和紫色的粗像素边框，中心为像素化相机，顶部文字“MUSE IMAGE”，底部文字“LEVEL 01 • PIXEL MODE”。
+4. 左下：圆形水彩艺术补丁，带有白色缝合边缘，包含颜料飞溅、花朵、画笔和调色板，手写风格弧形顶部文字“MUSE VIDEO”，底部文字“CREATE • INSPIRE • PLAY”。
+5. 下中：华丽花卉椭圆形补丁，配有扇形奶油色边框，粉色花朵、绿色叶片，精致的园艺刺绣，中心衬线文字“MUSE IMAGE”，以及小号文字“BLOOM & CREATE”。
+6. 右下：黑色六边形霓虹合成波（Synthwave）补丁，配有发光的紫色边框、复古日落、线框网格、棕榈树、山峰和星星，顶部霓虹文字“MUSE VIDEO”，底部文字“SYNTHWAVE • RETRO”。
+
+视觉风格：超逼真的刺绣补丁样机，高分辨率线迹纹理，可见的缝合线，略微凸起的边缘，微妙的布料阴影，色彩饱和且富有品味。每款补丁应具有独特主题：复古模拟摄影、国家公园探索、像素街机相机、创意水彩艺术、花卉工艺和霓虹复古合成波。
+
+文字约束：将所有可见文字渲染为清晰的刺绣字体。保持 6 款补丁，不得添加额外的徽章、标签、水印或其他物品。使用 {argument name="primary patch text" default="MUSE IMAGE"}、{argument name="secondary patch text" default="MUSE VIDEO"} 自定义主要品牌词，并使用 {argument name="vintage year" default="1978"} 自定义复古年份。
+
+[English]
+Goal: Create a realistic product-style flat lay of exactly 6 embroidered patches on a neutral wrinkled linen fabric background, showcasing different badge designs for {argument name="brand name" default="Muse Image"} and {argument name="alternate brand name" default="Muse Video"}. The patches should look tactile and sewn, with raised thread, stitched borders, slight shadows, and varied shapes, arranged in a clean 3-column by 2-row grid.
+
+Canvas: Wide horizontal image, approximately 16:9, photographed from directly above. Use soft natural lighting, beige woven fabric texture, crisp embroidery detail, and no hands or packaging.
+
+Layout: Include exactly 6 discrete patches:
+1. Top left: round vintage camera patch with warm orange sunburst background, thick golden embroidered border, retro camera illustration, large curved text “MUSE IMAGE” at the top, small text ribbon “ANALOG • EST. 1978” at the bottom, small star and lightning accents.
+2. Top center: shield-shaped outdoor national park patch with mountains, pine forest, and winding river, teal and cream border, top banner text “MUSE VIDEO,” lower curved ribbon text “NATIONAL PARK • EXPLORE • DISCOVER,” and small bottom banner “EST. 2024.”
+3. Top right: square pixel-art arcade patch with chunky pixel border in navy, cyan, pink, and purple, a pixelated camera in the center, top text “MUSE IMAGE,” and bottom text “LEVEL 01 • PIXEL MODE.”
+4. Bottom left: circular watercolor art patch with white stitched edge, paint splashes, flower, brush, and painter palette, handwritten curved top text “MUSE VIDEO,” and bottom text “CREATE • INSPIRE • PLAY.”
+5. Bottom center: ornate floral oval patch with scalloped cream border, pink flowers, green leaves, delicate garden embroidery, central serif text “MUSE IMAGE,” and small text “BLOOM & CREATE.”
+6. Bottom right: black hexagonal neon synthwave patch with glowing purple border, retro sunset, wireframe grid, palm tree, mountain peaks, stars, top neon text “MUSE VIDEO,” and bottom text “SYNTHWAVE • RETRO.”
+
+Visual style: Hyper-realistic embroidered patch mockup, high-resolution thread texture, visible stitching, slightly raised edges, subtle fabric shadows, saturated but tasteful colors. Each patch should have a distinct theme: vintage analog photography, national park exploration, pixel arcade camera, creative watercolor art, floral craft, and neon retro synthwave.
+
+Text constraints: Render all visible text as clean embroidered lettering. Keep exactly 6 patches and no additional badges, labels, watermarks, or extra objects. Customize the main brand words using {argument name="primary patch text" default="MUSE IMAGE"}, {argument name="secondary patch text" default="MUSE VIDEO"}, and the vintage date using {argument name="vintage year" default="1978"}.
+```
+
+**来源：** [@Yousef Rol](https://x.com/yousefrol/status/2074561226839921127) | 2026-07-07
+
+---
+
+### 🏷️ 例 3355：饮料品牌视觉识别海报
+
+![饮料品牌视觉识别海报](../../images/%E9%A5%AE%E6%96%99%E5%93%81%E7%89%8C%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建“OZOUO”水果饮料统一品牌视觉系统的第二张图像，需保持与现有 OZOUO 视觉系统完全一致的品牌识别度、吉祥物插画语言、排版风格、包装基调及色彩基因，但赋予该图像不同的功能：这是一张品牌系列海报 / 口味阵容识别项目，而非包装结构图。图像应呈现出一种简洁、高水准设计的 OZOUO 快速消费品品牌世界概览，将标志、吉祥物家族、口味个性和产品阵容结构整合在一张连贯的海报中。它必须清晰地归属于与现有 225ml 荔枝罐装包装设计相同的 OZOUO 品牌宇宙，但不能重复正反面的技术性包装布局。核心作用：此图像为品牌识别扩展海报，旨在将 OZOUO 介绍为一个年轻化但面向成人的水果饮料品牌，拥有俏皮的吉祥物系统和清晰的多口味产品系列。它应适用于品牌演示文稿、社交媒体发布海报、产品系列概览或展厅墙面视觉。构图：使用简洁的柔和暖米色或奶油色中性背景，留出充足的呼吸空间。布局应垂直组织且极其简洁：顶部区域：醒目的 OZOUO 标志和简短的品牌宣言；中部区域：吉祥物家族或口味角色系统，以俏皮而平衡的间距排列；底部区域：三罐 225ml 紧凑型罐装产品，以简洁的系列形式呈现。海报应给人以冷静、图形化、友好、现代且具备货架陈列感的视觉体验。品牌一致性：保持与现有参考资料完全相同的 OZOUO 品牌系统：相同的“OZOUO”字标质感、相同的成人向卡通吉祥物风格、相同的 225ml 紧凑型罐装比例、相同的高端快速消费品真实感、以荔枝口味世界作为关键锚点、相同的排版气质，以及可爱与成熟之间的整体平衡。切勿转向幼稚的儿童饮料美学。口味系列：将 OZOUO 展示为一个口味阵容品牌。在同一系统下使用三种协调的口味，例如：荔枝、柚子、甜瓜，或荔枝、桃子、葡萄柚。这三种口味必须感觉像是一个家族，具有一致的布局逻辑和吉祥物插画风格，但每种口味应有其独特的强调色和水果特征。荔枝应保持为主要或核心口味，以维持与既定品牌系统的连续性。吉祥物方向：以相同的 OZOUO 插画语言创作一系列时尚的水果灵感成人卡通吉祥物：酷炫、俏皮、生活方式导向、略带反讽、时尚，而非幼稚。荔枝吉祥物应保持现有系统中可辨识的特征，佩戴太阳镜、耳机，穿着运动鞋，姿态自信。其他水果吉祥物应以匹配的风格重新设计，每个角色在保持清晰一致性的同时，具有微妙的个性差异。它们应以松散俏皮的排列方式出现在罐装产品上方，如同品牌的角色阵容。包装呈现：在海报底部，展示三罐写实的 OZOUO 225ml 罐装产品，并排摆放，间距均匀，正面朝向或角度略有变化。罐装产品应呈现出真实的产品系列发布阵容，简洁且具有商业质感。罐体比例必须保持紧凑，并正确适配 225ml 规格。排版：排版应是此海报中的重要品牌资产，但需保持简洁和图形化。避免杂乱的文案。使用醒目、时尚、圆润、经过艺术指导的字体，并具有清晰的层级。包含如下文字：“OZOUO”、“FRUIT JUICE DRINK”、“Adult-oriented fruit inspiration”、“PEEL THE MOOD”、“Pop a can, instant lychee rush”。可选的系列声明：“FLAVOR CREW”、“Fruit flavor characters debut”、“ONE BRAND, THREE MOODS”、“Same series, different fruit personalities”。如使用口味名称，请清晰且一致地展示：“LYCHEE”、“YUZU”、“MELON”或所选口味组合。视觉风格：整张海报应感觉简洁、略带俏皮、极具品牌感且非常适合展示，如同一个具有更好品味和更多成人质感的现代饮料初创公司识别单页。避免技术性杂乱、配料表、条形码或详细的法律区域，除非极小范围使用。此图像更多是关于品牌个性和家族凝聚力，而非技术性包装信息。调色板：使用既定的 OZOUO 中性奶油底色、深棕色或浓缩咖啡色排版，以及精致的水果强调色。让每种口味引入一种受控的强调色：荔枝：腮红粉 / 浆果玫瑰；柚子：柑橘黄 / 暖柠檬；甜瓜或桃子：柔和绿或珊瑚桃。保持所有色调柔和但饱和度适中，以确保具备货架陈列感和现代感。氛围：简洁、成人俏皮、品牌凝聚力、图形化、友好、时尚、快速消费品就绪、阵容聚焦、社交可分享、高端、令人难忘。渲染：超细节 225ml 罐装模型、清晰的吉祥物插画、简洁的工作室海报构图、高端品牌展示、柔和阴影、抛光铝质感、8k、商业可信度。负面提示：技术性包装图、条形码密集的布局、包装背面的细节占主导、幼稚的儿童饮料风格、不一致的吉祥物家族、不匹配的罐体高度、杂乱的构图、杂乱的背景、薄弱的品牌识别度、随机的水果混合、低细节、通用的超市设计。
+
+[English]
+Create the second image of a unified brand visual system for “OZOUO” fruit drinks, keeping exactly the same brand identity, mascot illustration language, typography style, packaging tone, and color DNA as the existing OZOUO visual system, but giving this image a different responsibility: this is a brand family poster / flavor lineup identity board, not a packaging construction sheet. The image should feel like a clean, highly designed FMCG brand world overview for OZOUO, showing the logo, mascot family, flavor personality, and lineup structure in one coherent poster. It must clearly belong to the same OZOUO brand universe as the existing 225ml lychee can packaging design, but it should not repeat the front-side-back technical packaging layout. Core role: This image is a brand identity expansion poster that introduces OZOUO as a youthful but adult-oriented fruit drink brand with a playful mascot system and a clear multi-flavor product family. It should feel suitable for brand deck presentation, social media launch poster, product family overview, or showroom wall visual. Composition: Use a clean soft warm-beige or creamy neutral background with lots of breathing space. The layout should be vertically organized and extremely clean: top area: bold OZOUO logo and short brand statement middle area: mascot family or flavor character system, arranged with playful but balanced spacing bottom area: three 225ml compact cans lined up in a clean family presentation The poster should feel calm, graphic, friendly, modern, and shelf-brand ready. Brand consistency: Keep exactly the same OZOUO brand system as the existing reference: same “OZOUO” wordmark feeling, same adult-oriented cartoon mascot style, same compact 225ml can proportion, same premium FMCG realism, same lychee flavor world as a key anchor, same typography temperament, same overall balance between cute and grown-up. Do not switch to childish kids-drink aesthetics. Flavor family: Present OZOUO as a flavor lineup brand. Use three coordinated flavors under one system, such as: Lychee, Yuzu, Melon or Lychee, Peach, Grapefruit All three must feel like one family, with consistent layout logic and mascot illustration style, but each flavor should have its own accent color and fruit cues. Lychee should remain the lead or hero flavor to preserve continuity with the established brand system. Mascot direction: Create a family of stylish fruit-inspired adult cartoon mascots in the same OZOUO illustration language: cool, cheeky, lifestyle-driven, slightly ironic, fashionable, not childish. The lychee mascot should remain recognizable from the existing system, with sunglasses, headphones, sneakers, and confident pose. The other fruit mascots should be redesigned in matching style, each with subtle personality variation but clear consistency. They should appear above the cans in a loose playful arrangement, like the brand’s character cast. Packaging presence: At the bottom of the poster, show three realistic OZOUO 225ml cans arranged side by side, evenly spaced, front-facing or slightly varied in angle. The cans should feel like a real product family launch lineup, clean and commercially polished. The can proportions must remain compact and correctly adapted to the 225ml format. Typography: Typography should be a major brand asset in this poster, but kept concise and graphic. No cluttered copy. Use bold, stylish, rounded, art-directed lettering with clean hierarchy. Include text such as: “OZOUO” “FRUIT JUICE DRINK” “成人向果味灵感” “PEEL THE MOOD” “轻启一罐，荔刻上头” Optional family-line statement: “FLAVOR CREW” “果味角色登场” “ONE BRAND, THREE MOODS” “同一罐系，不同果味性格” If using flavor names, show them clearly and consistently: “LYCHEE” “YUZU” “MELON” or chosen flavor set. Visual style: The whole poster should feel clean, slightly playful, highly brandable, and very presentational, like a modern beverage startup identity sheet with better taste and more adult polish. Avoid technical clutter, ingredients tables, barcodes, or detailed legal zones unless used minimally. This image is more about brand character and family cohesion than technical packaging information. Color palette: Use the established OZOUO neutral creamy base, deep brown or espresso typography, and refined fruit accent colors. Let each flavor introduce a controlled accent: Lychee: blush pink / berry rose Yuzu: citrus yellow / warm lemon Melon or Peach: soft green or coral peach Keep all tones soft-but-saturated enough to feel shelf-ready and modern. Mood: clean, adult playful, brand-cohesive, graphic, friendly, stylish, FMCG-ready, lineup-focused, socially shareable, premium, memorable. Rendering: hyper-detailed 225ml can mockups, crisp mascot illustration, clean studio poster composition, premium branding presentation, soft shadows, polished aluminum texture, 8k, commercially believable. Negative prompt: technical packaging board, barcode-heavy layout, back-of-pack details dominating, childish kids drink style, inconsistent mascot family, mismatched can heights, messy composition, cluttered background, weak brand identity, random fruit mix, low detail, generic supermarket design
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2074534804524282119) | 2026-07-07
+
+---
+
+### 🏷️ 例 3382：华丽“阿吽”和服专辑封面
+
+![华丽“阿吽”和服专辑封面](../../images/%E5%8D%8E%E4%B8%BD%E2%80%9C%E9%98%BF%E5%90%BD%E2%80%9D%E5%92%8C%E6%9C%8D%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版日本专辑封面插画，采用华丽的暗金色浮世绘奇幻风格。两位优雅的中性化年轻男子并肩站立，面向观众，表情冷静且略带狡黠。左侧人物拥有 {argument name="left character hair color" default="浅金白色"} 的凌乱齐肩发，随意地向后束起，眼神锐利苍白，身穿深紫色礼服和服，袖口层叠，饰有大型金色牡丹花纹；他胸前持有一把打开的折扇，扇面为奶油色，扇骨为黑色，并带有金色花卉装饰。右侧人物拥有 {argument name="right character hair color" default="银白色"} 的长发，发丝飘逸并编有发辫，配有发饰、红白绳结、发簪和链条；他身穿精致的象牙白礼服长袍，布满细腻的金色花纹，饰有红色丝带、垂坠饰物，腰间佩戴一枚大型圆形徽章，肩旁持有一把打开的奶油金色折扇。画面中需精确放置 2 把打开的折扇，每人一把。在两人之间居中放置巨大的毛笔书法 {argument name="central calligraphy" default="阿吽"}，采用质感金属金色。在他们身后，创作一个戏剧性的圆形金色太阳圆盘，并带有许多细长光芒的放射状光环，背景为黑色星空。在上方区域斜向添加一根粗壮的注连绳，右上角带有流苏，并点缀风格化的奶油色云朵、散落的白色花瓣形状、细小的金色斑点以及古旧纸张纹理。使用复杂的线条艺术，高细节，金箔效果，色调为柔和的奶油色、紫色、黑色、红色和金属金，采用对称的专辑封面构图，无现代物品，除中央书法外无额外文字。
+
+[English]
+Create a vertical Japanese album-cover illustration in an ornate dark-gold ukiyo-e fantasy style. Two elegant androgynous young men stand side by side, facing the viewer with calm, slightly sly expressions. The left figure has {argument name="left character hair color" default="pale blond-white"} messy shoulder-length hair tied loosely back, sharp pale eyes, and wears a deep purple ceremonial kimono with layered sleeves and large gold peony patterns; he holds one open folding fan with cream paper, black ribs, and gold floral decoration in front of his chest. The right figure has {argument name="right character hair color" default="silvery white"} very long flowing hair with braids, hair ornaments, red-and-white cords, pins, and chains; he wears an elaborate ivory-white ceremonial robe covered in fine gold patterns, red ribbons, dangling ornaments, and a large round medallion at the waist, holding one open cream-and-gold folding fan near his shoulder. Place exactly 2 open folding fans, one per character. Center large brushed Japanese calligraphy reading {argument name="central calligraphy" default="阿吽"} in textured metallic gold between the figures. Behind them, create a dramatic circular golden sun disk and radiating halo with many thin rays, set against a black starry night background. Add one thick sacred shimenawa rope crossing diagonally across the upper area with a tassel on the upper right, stylized cream clouds, scattered white petal shapes, tiny gold speckles, and antique paper texture. Use intricate line art, high detail, gold leaf effects, muted cream, purple, black, red, and metallic gold palette, symmetrical album-jacket composition, no modern objects, no extra text besides the central calligraphy.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2074462203059880013) | 2026-07-07
+
+---
+
+### 🏷️ 例 3384：狐妖工匠的七夕摊位
+
+![狐妖工匠的七夕摊位](../../images/%E7%8B%90%E5%A6%96%E5%B7%A5%E5%8C%A0%E7%9A%84%E4%B8%83%E5%A4%95%E6%91%8A%E4%BD%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度精细的 4:5 竖版动漫奇幻插画，主角是 {argument name="character name" default="Sayori"}，一位来自异世界的温柔白狐耳工匠，正在温暖的日本夏夜经营她的第一个七夕祭摊位。画面中需精确呈现 6 位可见人物：1 位位于中央的年轻白狐女店主，拥有金色的眼眸、淡金色的长发、巨大的狐耳和蓬松的尾巴；左下方是 1 位身穿浅蓝色花卉浴衣、手持紫色祈愿签的小女孩顾客；右下方是 1 位身穿深海军蓝浴衣的年轻男孩顾客；右侧是 1 位身穿淡紫色花卉浴衣的优雅成年女性；背景中还有 2 位在摊位附近闲聊的浴衣女性。Sayori 身穿精致的白底深靛色和服，饰有金色星星刺绣，搭配叠层袖口、深色腰带和小型天体发饰，她面带温暖亲切的微笑，正协助顾客悬挂祈愿签并挑选装饰品。摊位是一个温馨的木质露天小铺，在灯笼的映照下熠熠生辉，周围环绕着竹枝、五彩缤纷的祈愿签、星星饰品、玻璃质感的晶莹挂件、精致的编织祈愿袋、风幡以及悬挂的球形七夕装饰。画面前景需包含 5 个显著的展示区：1 个盛放彩虹色短册（tanzaku）纸签的长托盘、1 个盛放金色及多色星星饰品的浅托盘、1 个装有小圆祈愿袋的篮子、1 个装有蓝金配色天体挂件的托盘，以及 1 个带有花卉图案的木制灯笼。背景展示热闹的夜市街道，装饰着巨大的红白和蓝白相间的飘带、发光的摊位、竹叶、纸签、闪烁的星光以及深海军蓝色的夜空。视觉风格：超精细日本动漫插画、发光的魔幻现实主义、细腻的线条、浓郁的宝石色调、柔和的金色光影、半透明的高光、复杂的织物纹理、富有情感的叙事感、4k 画质构图。氛围：奇幻、友善、节日气息、怀旧，仿佛店主正悉心守护着每个人的心愿。避免出现现代标识、Logo、水印、文字说明或写实风格。
+
+[English]
+Create a highly detailed vertical 4:5 anime fantasy illustration of {argument name="character name" default="Sayori"}, a gentle white fox-eared artisan from another world, running her first Tanabata festival stall on a warm Japanese summer night. The scene shows exactly 6 visible figures: 1 central young white fox woman shopkeeper with golden eyes, long pale-blonde hair, large fox ears, and a fluffy tail; 1 little girl customer at the lower left in a light blue floral yukata holding up a purple wish strip; 1 young boy customer at the lower right in a dark navy yukata; 1 elegant adult woman at the right in a lavender floral yukata; and 2 background festival women in yukata chatting near the stall. Sayori wears a refined white-and-deep-indigo kimono with gold star embroidery, layered sleeves, a dark obi, small celestial hair ornaments, and a warm welcoming smile as she helps customers hang wishes and choose decorations. The stall is a cozy wooden open-air booth glowing with lantern light, surrounded by bamboo branches, colorful paper wish strips, star ornaments, glass-like crystal charms, small woven wish bags, wind streamers, and hanging spherical Tanabata decorations. Include exactly 5 prominent foreground display areas: 1 long tray of rainbow-colored tanzaku paper strips, 1 shallow tray of golden and multicolored star ornaments, 1 basket of small round wish bags, 1 tray of blue and gold celestial charms, and 1 wooden lantern with a flower motif. In the background, show a lively night festival street with large red-white and blue-white streamer decorations, glowing stalls, bamboo leaves, paper tags, sparkling stars, and a deep navy sky. Visual style: ultra-detailed Japanese anime illustration, luminous magical realism, delicate linework, rich jewel colors, soft golden lighting, translucent highlights, intricate fabric patterns, emotional storytelling, 4k-quality composition. Mood: wondrous, kind, festive, nostalgic, as if the shopkeeper carefully protects everyone’s wishes. Avoid modern signage, logos, watermarks, text captions, or photorealism.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2074461338760630402) | 2026-07-07
+
+---
+

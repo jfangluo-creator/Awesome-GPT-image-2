@@ -6601,3 +6601,191 @@ Constraints: Include no extra panels beyond the described layout. Preserve the v
 
 ---
 
+### 🖥️ 例 3356：困在水晶心中的女性超现实主义艺术
+
+![困在水晶心中的女性超现实主义艺术](../../images/%E5%9B%B0%E5%9C%A8%E6%B0%B4%E6%99%B6%E5%BF%83%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实超现实主义概念肖像，一位痛苦的 {argument name="subject" default="年轻女性"} 被困在一个巨大的 {argument name="object" default="水晶心"} 内部。这颗解剖结构逼真的心脏垂直居中，宛如一座完美无瑕的透明玻璃监狱，由清澈透明的玻璃制成，具有真实的厚度、锋利的边缘、细微的微小划痕、微小的气泡包裹体、光泽的反射，以及强大的光学折射，造成了戏剧性的透镜状畸变。在空心的心脏腔室内，她蜷缩着身体，膝盖弯曲，周围环绕着发光的深红色光芒、精致的结晶静脉、悬浮的闪烁微粒以及从内部照亮的柔和薄雾。她穿着一件 {argument name="clothing" default="修身的深炭灰色 T 恤和黑色长裤"}，衣服上有自然的褶皱，短发凌乱，表情焦虑疲惫，双眼因无声的恐慌而睁大。双手手掌向外按压在水晶内壁上，手指张开，她的脸和手透过弯曲的水晶表面产生畸变。来自右上方的冷色调电影级摄影棚灯光营造出明亮的高光、深邃的内部阴影、生动的红宝石色焦散反射，以及显现出漂浮灰尘和微小水晶碎片的体积光束。超精细的皮肤纹理，超写实的水晶光学效果，浅景深，超清晰对焦，深色忧郁的渐变背景，专业概念摄影风格，8K 画质，竖构图，象征着“爱即束缚”或“美丽的心掩盖了情感窒息”的主题。
+
+[English]
+Ultra-realistic surreal conceptual portrait of a distressed {argument name="subject" default="young woman"} trapped inside a gigantic {argument name="object" default="crystal heart"}, the anatomically shaped heart upright and centered like a flawless transparent glass prison, crafted from crystal-clear glass with realistic thickness, razor-sharp edges, subtle micro-scratches, tiny air inclusions, glossy reflections, and powerful optical refraction causing dramatic lens-like distortion. Inside the hollow heart chamber, she is tightly crouched with bent knees, surrounded by glowing crimson light, delicate crystalline veins, suspended shimmering particles, and soft mist illuminated from within. She wears a {argument name="clothing" default="fitted dark charcoal t-shirt and black pants"} with natural wrinkles, messy short hair, anxious exhausted expression, eyes wide with silent panic. Both palms press outward against the inner crystal wall, fingers splayed, her face and hands distorted through the curved crystal surface. Cold cinematic studio lighting from the upper right creates brilliant specular highlights, deep interior shadows, vivid ruby caustic reflections, and volumetric light beams revealing floating dust and tiny crystal fragments. Hyper-detailed skin texture, ultra-realistic crystal optics, shallow depth of field, ultra-sharp focus, dark moody gradient background, professional conceptual photography style, 8K quality, vertical composition, symbolic theme of love as confinement / a beautiful heart masking emotional suffocation.
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2074534806466265544) | 2026-07-07
+
+---
+
+### 🖥️ 例 3364：四格 AI 风景对比图
+
+![四格 AI 风景对比图](../../images/%E5%9B%9B%E6%A0%BC%20AI%20%E9%A3%8E%E6%99%AF%E5%AF%B9%E6%AF%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张宽幅社交媒体对比图，将四张 AI 生成的动漫风景壁纸并排展示，在保持构图和图像模型不变的前提下，对比不同提示词模型等级的效果。
+
+画布：宽幅 2:1 横向图片，尺寸约为 1200×620 像素，深炭灰色背景。顶部添加黑色标题栏，下方排列四个垂直的长方形图像面板，面板间以窄黑边分隔。
+
+标题文字：左上角使用大号日文标题：「同じ構図・同じ画像AI（GPT Image 2）。プロンプトを“書いたAI”だけが違う4枚」。下方配以较小的灰色副标题：「変えたのは『プロンプトを書くClaudeのモデル階層』だけ（左＝最も安い → 右＝最上位）」。
+
+布局：使用 4 个等宽的垂直面板，从左至右排列。每个面板顶部设有一个深色标签条，配以白色文字。四个标签分别为：1) 「haiku｜最も安い」、2) 「sonnet」、3) 「opus」、4) 「fable｜最上位」。
+
+面板图像：四个面板均描绘相同的动漫电影级构图：一个孤独的小人影站在长满草的山脊上，俯瞰广阔的山谷，远处是层叠的山峦、戏剧性的云层和金色的阳光。每个面板都要精美，但在艺术风格上略有不同。
+
+面板 1 (haiku)：温暖的日落奇幻景观，橙粉色天空，太阳接近地平线，紫蓝色山峦，山谷间有薄雾，前景有野花和草地，一个微小的深色人影位于下三分之一处居中，风格精致但较为常规。
+
+面板 2 (sonnet)：更克制的自然光影和大气透视，蓝金色的天空中漂浮着巨大的纹理云团，山谷中弥漫着柔和的光晕，一个微小的人影站在山脊小路的尽头，具有真实的深度感和柔和的暖光。
+
+面板 3 (opus)：更具电影感的构图，云层翻涌，低垂的太阳位于右侧地平线，山谷中有发光的湖泊或河流，一个微小的人影位于底部中心附近的山脊上，色彩平衡经过精炼，前景草地清晰，具有自然的空气透视感。
+
+面板 4 (fable)：更明亮的动漫电影剧照感，青蓝色天空，高耸的积雨云，阳光穿透云层，郁郁葱葱的绿色山谷和丘陵，一个穿着白色连衣裙、戴着遮阳帽的小人影在草坡上移动或转身，即使在小比例下，服装和姿态也清晰可见。
+
+视觉风格：高端动漫背景艺术，具有绘画感且细节丰富，新海诚风格的光影，电影般的氛围，柔和的辉光，优雅的色彩分级。保持对比图简洁易读，使用细边框和统一的面板尺寸。
+
+可自定义细节：标题中使用 {argument name="image model name" default="GPT Image 2"}，对比 {argument name="first model label" default="haiku｜最も安い"}、{argument name="second model label" default="sonnet"}、{argument name="third model label" default="opus"} 以及 {argument name="fourth model label" default="fable｜最上位"}。
+
+约束：包含 4 个面板，总共 4 个微小的人影，每个面板一个。除标题、副标题和四个面板标签外，不要添加任何徽标、水印、额外图表、图标或其他说明文字。
+
+[English]
+Goal: Create a wide social-media comparison graphic showing four AI-generated anime landscape wallpapers side by side, comparing prompt-writing model levels while keeping the same composition and image model.
+
+Canvas: Wide horizontal 2:1 image, approximately 1200×620 px, dark charcoal background. Add a black header band across the top and four tall vertical image panels beneath it, separated by narrow black gutters.
+
+Header text: Large Japanese title at the top left: 「同じ構図・同じ画像AI（GPT Image 2）。プロンプトを“書いたAI”だけが違う4枚」. Smaller gray subtitle underneath: 「変えたのは『プロンプトを書くClaudeのモデル階層』だけ（左＝最も安い → 右＝最上位）」.
+
+Layout: Use exactly 4 vertical panels, equal width, arranged left to right. Each panel has a dark label strip at the top with white text. The four labels are exactly: 1) 「haiku｜最も安い」, 2) 「sonnet」, 3) 「opus」, 4) 「fable｜最上位」.
+
+Panel imagery: All four panels depict the same basic anime cinematic composition: a tiny solitary human figure on a grassy mountain ridge, overlooking a vast valley, distant layered mountains, dramatic clouds, and golden sunlight. Make each panel beautiful but subtly different in art direction.
+
+Panel 1, haiku: Warm sunset fantasy landscape, orange and pink sky, sun near the horizon, purple-blue mountain layers, mist in the valleys, wildflowers and grass in the foreground, one tiny dark standing figure centered near the lower third, highly polished but conventional.
+
+Panel 2, sonnet: More restrained natural lighting and atmospheric perspective, huge textured cloud mass in a blue-and-gold sky, soft glowing valley haze, one tiny standing figure at the end of a ridge path, realistic depth and gentle warm light.
+
+Panel 3, opus: Stronger cinematic composition with a sweeping cloud formation, low sun at the right horizon, glowing lake or river in the valley, one tiny figure on a grassy ridge near the bottom center, refined color balance, crisp foreground grasses, natural aerial depth.
+
+Panel 4, fable: Brighter anime film still feeling, turquoise-blue sky, towering cumulus clouds, sunbeams breaking through, lush green valley and hills, one small but clearly animated person in a white dress and sunhat moving or turning on the grassy slope, clothing and pose readable despite small scale.
+
+Visual style: High-end anime background art, painterly but detailed, Makoto Shinkai-inspired light, cinematic atmosphere, soft bloom, elegant color grading. Keep the comparison graphic clean and readable, with thin gutters and consistent panel sizing.
+
+Customizable details: Use {argument name="image model name" default="GPT Image 2"} in the title, compare {argument name="first model label" default="haiku｜最も安い"}, {argument name="second model label" default="sonnet"}, {argument name="third model label" default="opus"}, and {argument name="fourth model label" default="fable｜最上位"}.
+
+Constraints: Include exactly 4 panels and exactly 4 tiny human figures total, one per panel. Do not add logos, watermarks, extra charts, extra icons, or additional captions beyond the header, subtitle, and four panel labels.
+```
+
+**来源：** [@AI Video Project](https://x.com/aivideo2026/status/2074505460858896842) | 2026-07-07
+
+---
+
+### 🖥️ 例 3366：渴望的彩色铅笔情侣
+
+![渴望的彩色铅笔情侣](../../images/%E6%B8%B4%E6%9C%9B%E7%9A%84%E5%BD%A9%E8%89%B2%E9%93%85%E7%AC%94%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在米白色纹理纸上创作一幅精致的彩色铅笔画，标题为 {argument name="artwork title" default="渴望"}。展现一对亲密的坐姿情侣，呈现出安静、忧郁的姿态：前景中，一位年轻女性侧身向左蜷缩而坐，双膝抱胸，双臂环绕在腿部下方，低头露出忧伤而内省的表情。她留着 {argument name="woman hair color" default="深棕色"} 的凌乱头发，扎成松散的发髻，脸颊旁有几缕碎发，肤色自然温暖，身穿浅灰色细肩带吊带裙。在她身后，一位年轻男性从背后拥抱她，脸部靠近她的肩颈，仿佛在安慰她或思念她；将他描绘成一个半透明的记忆或幽灵般的形象，仅使用浅蓝色铅笔线条和浅蓝色阴影，留着凌乱的短发，身穿宽松的 T 恤。他的双臂环绕着她的腰部和腿部，其中一只前臂在身体前方可见。构图为竖向肖像，人物居中偏下，上方留有大面积空白，无背景物体，无文字。风格应呈现出手工感、柔和、未完成且富有情感：可见的层叠铅笔笔触、草图般的构图线条、细腻的交叉排线、微妙的橡皮擦痕迹、脆弱的轮廓、柔和的色彩、符合解剖学但不追求照片级写实、细腻的纸张纹理、空灵的负空间、温柔而忧伤的氛围。仅使用两个人物：1 位全彩女性和 1 位蓝色线条艺术男性；避免出现额外人物、生硬的数字边缘、厚重的墨线、光泽感渲染或戏剧性的背景。
+
+[English]
+Create a delicate colored-pencil artwork on off-white textured paper titled {argument name="artwork title" default="Longing"}. Show an intimate seated couple in a quiet, melancholic pose: a young woman in the foreground sits curled up in profile facing left, knees drawn to her chest, arms wrapped low around her legs, head bowed with a sad introspective expression. She has {argument name="woman hair color" default="dark brown"} messy hair tied in a loose bun with wispy strands around her face, warm natural skin tones, and wears a pale gray spaghetti-strap slip dress or camisole dress. Behind her, a young man embraces her from the back, leaning his face close to her shoulder/neck as if comforting or missing her; render him as a translucent memory or ghost-like presence using only pale blue pencil lines and light blue shading, with short tousled hair and a loose T-shirt. His arms wrap around her waist and legs, one forearm visible across the lower front. Composition is vertical portrait, the figures centered slightly low with large empty white space above, no background objects, no text. Style should look handmade, soft, unfinished, and emotional: visible layered pencil strokes, sketchy construction lines, fine cross-hatching, subtle eraser marks, fragile outlines, muted colors, realistic anatomy but not photorealistic, gentle paper grain, airy negative space, tender sorrowful mood. Use exactly two human figures: 1 fully colored woman and 1 blue line-art man; avoid extra people, hard digital edges, heavy ink outlines, glossy rendering, or dramatic background.
+```
+
+**来源：** [@Snow](https://x.com/xrxsnow/status/2074503006213824820) | 2026-07-07
+
+---
+
+### 🖥️ 例 3375：福雷安魂曲神圣拼贴画
+
+![福雷安魂曲神圣拼贴画](../../images/%E7%A6%8F%E9%9B%B7%E5%AE%89%E9%AD%82%E6%9B%B2%E7%A5%9E%E5%9C%A3%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽屏电影质感的编辑拼贴画，主题关于 {argument name="composer name" default="Gabriel Fauré"} 以及“温柔的安魂曲”而非“神圣惩罚”的理念。使用 16:9 横向画布，采用戏剧性的分割构图：左侧三分之一为深色调，以黑色和深红色为主，展示一位 19 世纪法国老作曲家的写实棕褐色肖像，他身穿黑色西装、白色衬衫，留着卷曲的灰发和胡须，侧身向上看向中心。在他身后，展示一座破败的哥特式教堂拱门，配有发光的红色圆形彩色玻璃窗和一尊手持天平的阴影正义女神像，营造出审判与愤怒的氛围。画面中心是一座由苍白大理石和半透明乐谱构成的光辉纪念性丧葬大教堂或陵墓，拥有宏伟的拱形入口、向上延伸的台阶、内部发出的金色光芒、巨大的圆顶屋顶，以及周围像建筑一样耸立的许多垂直管风琴管。右侧三分之一转为柔和的象牙色和金色：上方包含一尊巨大的古典大理石天使或母亲形象，温柔地抱着一个孩子；下方是一个被白色织物和云朵包裹的宁静沉睡的年轻人，暗示死亡即安眠。添加流动的金色五线谱和音符，从中央纪念碑斜向扫过沉睡的人物，将整个构图串联起来。使用四个主要的象征区域：1) 作曲家肖像，2) 黑暗的天主教审判场景，3) 带有管风琴和乐谱的中央安魂曲纪念碑，4) 宁静的天使安眠场景。视觉风格应为高端历史照片蒙太奇、巴洛克神圣艺术、大理石雕塑、古旧纸张纹理，左侧采用戏剧性的明暗对照法，右侧采用柔和的天堂漫射光，点缀温暖的金色，并带有细微的灰尘、裂纹和分层的几何拼贴形状。无文字，无标题，无水印，无现代物品。
+
+[English]
+Create a wide cinematic editorial collage about {argument name="composer name" default="Gabriel Fauré"} and the concept of a gentle requiem rather than divine punishment. Use a 16:9 horizontal canvas with a dramatic split composition: the left third is dark, black and crimson, with a realistic sepia portrait of an older 19th-century French composer in a black suit, white shirt, curled gray hair and mustache, looking upward in profile toward the center. Behind him, show a ruined Gothic church arch with a glowing red circular stained-glass window and a shadowy statue of justice holding scales, creating an atmosphere of judgment and wrath. The center of the image is a luminous monumental funerary cathedral or mausoleum made of pale marble and translucent sheet music, with a grand arched entrance, stairs leading upward, a glowing golden light inside, a large domed roof, and many vertical organ pipes rising around it like architecture. The right third becomes soft ivory and gold: include a large classical marble angel or mother figure above, tenderly holding a child, and below it a peaceful sleeping young person wrapped in white fabric and clouds, suggesting death as sleep. Add flowing golden musical staff lines and notes sweeping diagonally from the central monument across the sleeping figure, tying the composition together. Use exactly four main symbolic zones: 1) composer portrait, 2) dark Catholic judgment scene, 3) central requiem monument with organ pipes and sheet music, 4) serene angelic sleep scene. Visual style should be high-end historical photomontage, baroque sacred art, marble sculpture, antique paper texture, dramatic chiaroscuro on the left, soft heavenly diffusion on the right, warm gold accents, subtle dust, cracks, and layered geometric collage shapes. No text, no captions, no watermark, no modern objects.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2074483837669618172) | 2026-07-07
+
+---
+
+### 🖥️ 例 3387：超现实月光犬输出窗口
+
+![超现实月光犬输出窗口](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%9C%88%E5%85%89%E7%8A%AC%E8%BE%93%E5%87%BA%E7%AA%97%E5%8F%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超现实的暗黑奇幻方形插画，采用类似图像生成应用输出窗口的框架，带有细深色边框，左上角有一个标注为“OUTPUT”的青色顶栏。主体场景是一个月光下的噩梦景观，由泥泞的陨石坑地面、水坑、骨头和发光的月球装饰组成。画面中左侧站着一只中等体型的斑点狗，有着下垂的耳朵、灰棕色的皮毛、富有表现力的湿润眼睛，以及担忧地向上凝视的神情；它的身体覆盖着不规则的深色月球陨石坑斑点。它的脖子上戴着 3 个发光的月牙形项圈，牵引绳形成一个松散的发光圆环向右延伸。狗爪上挂着 5 个清晰可见的发光星星挂饰，它面前放着 1 个浅浅的发光圆形碗或传送门，向上投射出光芒。在右侧天空中，展示 1 张巨大的幽灵般近景狗脸，半写实且布满陨石坑，双眼有光泽地直视前方，额头和脸颊上有深色的圆形月亮印记。在中央犬只上方的天空中，包含 4 个发光的小灯或类似光环的狗骨灯笼，呈弧形排列。背景应包含星光熠熠的黑色夜空、左上方像钟乳石或枯树般参差不齐的剪影、光秃秃的扭曲树木、低垂的云层以及远处荒凉的地平线。在右中方的天空中添加 4 个巨大的月球球体：一个最大的满月，附近两个较小的满月，以及地平线附近的一个微小远月。在场景中散布 9 个月牙字符或装饰：最左侧一个大的竖直月牙，左上方天空一个小月牙，狗左后方一个小月牙，右侧远方天空一个小月牙，左下地面附近一个小月牙，左下水坑中倒映的一个月牙，底部中心坑内的一个月牙，底部右侧坑内的一个月牙，以及最右侧边缘竖立的一个月牙。在左侧放置一个歪斜的木牌，上面用粗糙的手写体写着“THIS WAY UP IS DOWN DOWN IS WHERE?”。在极近的前景中，横跨右下角放置 1 根巨大的失焦骨头，超大且苍白，部分遮挡地面。使用单色木炭、银色和淡黄色发光色调，呈现高度细腻的纹理皮毛、湿润反光的陨石坑、诡异离奇的恐怖氛围、电影级光效，主体清晰且前景骨头具有浅景深效果，除了青色的“OUTPUT”标签和木牌外，不包含任何其他可读文字。
+
+[English]
+Create a surreal dark fantasy square illustration framed like an image-generation app output window, with a thin dark border and a cyan top bar labeled “OUTPUT” at the upper left. The main scene is a moonlit nightmare landscape made of muddy cratered ground, puddles, bones, and glowing lunar ornaments. Center-left stands a medium-sized spotted dog with floppy ears, gray-brown fur, expressive wet eyes, and a worried upward gaze; its body is covered with irregular dark moon-crater spots. Around its neck are exactly 3 glowing crescent-shaped collar bands, and its leash forms a loose glowing loop that extends to the right. The dog’s paws have exactly 5 visible glowing star charms attached, and in front of it sits 1 shallow glowing circular bowl or portal casting light upward. In the sky at right, show 1 enormous ghostly close-up dog face, semi-realistic and crater-pocked, staring forward with glossy eyes and dark circular moon marks on its forehead and cheeks. Include exactly 4 small glowing lamps or halo-like dog-bone lanterns arcing across the upper sky above the central dog. The background should contain a starry black night sky, ragged hanging silhouettes like stalactites or dead trees at the top left, bare twisted trees, low clouds, and a distant ruined horizon. Add exactly 4 large moon spheres in the middle-right sky: one largest full moon, two smaller full moons nearby, and one tiny distant moon near the horizon. Scatter exactly 9 crescent-moon characters or ornaments across the scene: one large upright crescent on the far left, one small crescent in the upper-left sky, one crescent beside the dog’s rear left, one small crescent near the far-right sky, one crescent near the bottom-left ground, one crescent reflected in a bottom-left puddle, one crescent inside a bottom-center pit, one crescent inside a bottom-right pit, and one crescent standing at the far-right edge. Place a crooked wooden sign on the left that reads “THIS WAY UP IS DOWN DOWN IS WHERE?” in rough hand lettering. In the extreme foreground, crossing the lower right corner, place 1 large out-of-focus bone, oversized and pale, partially obscuring the ground. Use a monochrome charcoal, silver, and pale yellow glow palette, highly detailed textured fur, wet reflective craters, eerie whimsical horror mood, cinematic lighting, sharp central subject with shallow depth of field on the foreground bone, no additional readable text besides the cyan “OUTPUT” label and the wooden sign.
+```
+
+**来源：** [@赤獅子屋 AI Generated Film](https://x.com/Akajishiya/status/2074453985608753309) | 2026-07-07
+
+---
+
+### 🖥️ 例 3397：奢华智能手机界面时尚大片
+
+![奢华智能手机界面时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%95%8C%E9%9D%A2%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+长宽比 1:1，超现代时尚大片，设计风格为 {argument name="interface style" default="奢华智能手机图库界面"}。多个浮动的 {argument name="element" default="图像卡片"} 以微妙的深度堆叠，每一张都展示了 {argument name="subject" default="同一位女性时尚模特在不同大片中的姿势"}。
+
+[English]
+Aspect ratio 1:1, ultra-modern fashion editorial designed like a {argument name="interface style" default="luxury smartphone gallery interface"}. Multiple floating {argument name="element" default="image cards"} stacked with subtle depth, each showing the {argument name="subject" default="same female fashion model in different editorial poses"}.
+```
+
+**来源：** [@henry nnorom](https://x.com/stormbiz4/status/2074434357951885618) | 2026-07-07
+
+---
+
+### 🖥️ 例 3404：电影级氛围感雾气与光影
+
+![电影级氛围感雾气与光影](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B0%9B%E5%9B%B4%E6%84%9F%E9%9B%BE%E6%B0%94%E4%B8%8E%E5%85%89%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级图像，展现 [subject] 在浓重的氛围感雾气中浮现，并被戏剧性的体积光束所笼罩。运用暖色调背光、柔和的雾霾层、发光的尘埃粒子，以及具有高对比度电影深度的神秘氛围构图。对 [subject] 进行电影级渲染，使其笼罩在体积光束中，浓雾将场景分割为多个层次。暖色调背光和发光粒子增强了画面的氛围感与神秘感。
+
+[English]
+Create a cinematic image of [subject] emerging inside dense atmospheric fog, wrapped in dramatic volumetric light rays. Use warm backlighting, soft haze layers, glowing dust particles, and a moody mysterious composition with high-contrast cinematic depth. cinematic rendering of the [subject] shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery
+```
+
+**来源：** [@PromptLab](https://x.com/iamaiistudio/status/2074385260570349827) | 2026-07-07
+
+---
+
+### 🖥️ 例 3433：“和平大和号”战列舰涂装
+
+![“和平大和号”战列舰涂装](../../images/%E2%80%9C%E5%92%8C%E5%B9%B3%E5%A4%A7%E5%92%8C%E5%8F%B7%E2%80%9D%E6%88%98%E5%88%97%E8%88%B0%E6%B6%82%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高细节的电影级概念艺术图，展示停泊在大型现代干船坞中的日本战列舰 {argument name="ship name" default="Yamato"}，将其改造为充满和平气息的动漫主题装饰性涂装设计。战列舰以极具张力的左前方低角度占据画面主体，巨大的华丽舰首近在咫尺，整艘战列舰向背景延伸。船体和上层建筑覆盖着亮黑色、白色、深红色和金属金色的装饰：飘逸的和服式缎带、樱花、金色花卉纹饰、宝石般的红色水晶以及漆面装甲板。舰首饰有精致的星芒徽章，中心为圆形金属件，配以锋利的红色角状鳍片、金色饰边和发光装饰亮点。前甲板炮塔上清晰可见四根主炮管，呈对角线向左指向。在船体上印有大型动漫巫女角色图案：一位留着长黑发、皮肤白皙、身穿红白和服配黑色袴、佩戴金色饰品的年轻女性，表情宁静，旁边印有“YAMATO”字样。在右下方的码头上放置同一角色的全身立像，身着同样的红白黑金配色服装，配有长款半透明袖子、华丽腰带、黑色过膝袜和装饰性鞋子。在她的脚边放置一个巨大的白金配色机械齿轮或船舵装饰，呈半透明发光状。战列舰的塔楼和雷达桅杆上装饰着密集的红色格栅栏杆、金色点缀、闪烁的水晶、天线、缆绳和脚手架细节。干船坞内设有起重机、工业平台、栏杆、管道、链条、水面反射和码头机械；远处可见山脉和港口城市，天空湛蓝，点缀着朵朵白云。风格：高分辨率动漫机甲插画与写实工业造船厂细节的融合，极其复杂、色彩鲜艳、光泽感强、充满庆典氛围，强调和平而非军事化，焦点清晰，视角宏大，无烟雾，无战斗，无损伤，无水印。
+
+[English]
+Create an ultra-detailed cinematic concept art image of the Japanese battleship {argument name="ship name" default="Yamato"} in a massive modern dry dock, transformed into a peaceful anime-themed decorative wrapping design. The ship dominates the frame from a dramatic low front-left angle, with an enormous ornate bow close to the viewer and the full battleship receding into the background. Cover the hull and superstructure with glossy black, white, crimson red, and metallic gold ornamentation: flowing kimono-like ribbons, cherry blossoms, gold floral filigree, jewel-like red crystals, and lacquered armor panels. The bow has an elaborate starburst crest with a circular metallic centerpiece, sharp red horn-like fins, gold trim, and glowing decorative highlights. Show exactly four main naval gun barrels visible on the forward turrets, pointing diagonally left. Add an anime shrine-maiden character motif printed large on the hull: a young woman with long black hair, pale skin, red-and-white kimono, black hakama, gold accessories, and a calm expression, with the text “YAMATO” near her. Also place the same character as a full-body standing figure on the dock at the lower right, wearing the same red-white-black-gold outfit, long translucent sleeves, ornate belt, thigh-high black stockings, and decorative shoes. Include exactly one oversized white-and-gold mechanical gear or ship-wheel ornament near her feet, partially transparent and glowing. The ship’s tower and radar masts are densely decorated with red lattice rails, gold accents, sparkling crystals, antennas, cables, and scaffold-like details. The dry dock contains cranes, industrial platforms, railings, pipes, chains, water reflections, and dock machinery; show mountains and a harbor city in the distance under a bright blue sky with scattered white clouds. Style: high-resolution anime-mecha illustration blended with photorealistic industrial shipyard detail, extremely intricate, vibrant, glossy, celebratory, peaceful rather than militaristic, sharp focus, dramatic perspective, no smoke, no battle, no damage, no watermark.
+```
+
+**来源：** [@2拠点リターンライダー (GROM/YZ250 in 🇯🇵, EC250 in 🇺🇸)](https://x.com/SuzukaBike/status/2074307394059063554) | 2026-07-07
+
+---
+

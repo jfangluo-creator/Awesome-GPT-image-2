@@ -2706,3 +2706,67 @@ Output:
 
 ---
 
+### 📊 例 3373：Jakub Pachocki AI 创新者信息图
+
+![Jakub Pachocki AI 创新者信息图](../../images/Jakub%20Pachocki%20AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一位 AI 创新者制作一张精美的正方形教育类信息图，包含水彩肖像和关于 {argument name="character name" default="Jakub Pachocki"} 的传记板块。
+
+画布：1:1 正方形布局，白色背景，配以钴蓝色和橙色点缀，简洁的科技编辑风格，高分辨率矢量信息图质感，带有微妙的水彩纹理。
+
+布局：分割式构图，左上角为大幅肖像，右上角为主要标题。使用带有细蓝色边框的圆角矩形内容卡片、虚线分隔符、简洁的线条图标以及电路/网络装饰。底部居中添加一个小型页脚标签。
+
+左上角肖像：半写实水彩风格的头部和肩部肖像，描绘了一位肤色白皙、留着极短棕色头发、蓝色眼睛、面带微笑的男性，身穿深海军蓝圆领毛衣。将他置于蓝色水彩泼墨、点状半色调装饰和弯曲的圆形轨道线背景前。
+
+标题：巨大的粗体大写深蓝色姓名文本，内容为 {argument name="headline name" default="JAKUB PACHOCKI"}。下方是一条纤细的橙色线条和一行资历说明：OpenAI • 首席科学家 • GPT-4, RL & Reasoning。在右上角添加一个小型的抽象分子/网络图标。
+
+内容卡片：使用 5 个信息面板：
+1. 右上角的“他是谁”卡片，配有蓝色圆形人物图标。正文：“Jakub Pachocki 是一位计算机科学家和 AI 研究员，现任 OpenAI 首席科学家。自 2017 年加入 OpenAI 以来，他领导了多项重大研究计划，并曾担任研究总监。他的工作涵盖大规模深度学习、强化学习、推理模型、优化以及前沿 AI 系统。”
+2. 左下角的“职业时间线”卡片，配有蓝色日历图标和垂直时间线。包含 6 条时间线记录：2009 年：国际信息学奥林匹克竞赛银牌得主；2010–2013 年：华沙大学计算机科学专业；2013–2016 年：卡内基梅隆大学计算机科学博士；2017 年：加入 OpenAI；2018–2020 年：协助领导大规模强化学习工作，包括 OpenAI Five；2021–2024 年：OpenAI 研究总监；2024 年至今：OpenAI 首席科学家。
+3. 右侧中央的“主要贡献”卡片，配有橙色灯泡图标。包含 5 行贡献内容，每行配有一个蓝色轮廓小图标：代表“大规模强化学习”的奖杯、代表“GPT-4 领导力”的 GPT-4 徽章、代表“深度学习扩展”的上升图表、代表“推理模型”的头脑/大脑网络，以及代表“理论与系统结合”的代码括号。在每个粗体蓝色贡献标签后使用简短的解释性文字，并以虚线水平线和橙色圆点分隔。
+4. 左下角的“为何重要”卡片，配有蓝色星形图标。包含 4 条勾选符号列表：将理论严谨性与现实世界的 AI 突破相结合；帮助将扩展定律转化为实际的前沿模型进展；影响 LLM、强化学习和推理研究；指导全球领先的 AI 实验室之一的科学方向。
+5. 右下角的“成就”卡片，配有蓝色古典柱式图标。添加段落文字，解释他如何成为现代 AI 领域关键的研究领导者，从强化学习的突破到 GPT-4 和下一代推理系统，作为 OpenAI 首席科学家，他将科学深度与工程执行力完美结合。
+
+右下角插图：添加一个巨大的蓝色等距微芯片，顶部带有 OpenAI 结状标志，连接到电路走线，旁边是一个由节点和三角形网格线组成的蓝色发光线框大脑。
+
+页脚：居中的小型间距大写文本，内容为 {argument name="footer text" default="AI 创新者系列"}，两侧配有微小的橙色圆点和纤细的蓝色电路装饰线。
+
+视觉风格：清晰的现代信息图，深钴蓝色排版，橙色高光，纤细的圆角卡片，点状半色调图案，网络节点主题，简洁的无衬线字体，平衡的留白，专业的杂志海报设计。
+
+约束条件：保持所有文字清晰且对齐；使用 5 个内容卡片、6 条时间线记录、5 行贡献内容和 4 条勾选符号列表；除芯片上的 OpenAI 风格结状标志外，不添加其他标志；无水印。
+
+[English]
+Goal: Create a polished square educational profile infographic for an AI innovator, featuring a watercolor portrait and biography panels about {argument name="character name" default="Jakub Pachocki"}.
+
+Canvas: 1:1 square layout, white background with cobalt-blue and orange accent colors, clean tech editorial style, high-resolution vector-infographic finish with subtle watercolor textures.
+
+Layout: Split composition with a large portrait on the upper left and the main name headline on the upper right. Use rounded rectangular content cards with thin blue borders, dotted dividers, simple line icons, and circuit/network decorations. Add a small footer label centered at the bottom.
+
+Top left portrait: Semi-realistic watercolor head-and-shoulders portrait of a light-skinned man with very short brown hair, blue eyes, slight smile, wearing a dark navy crewneck sweater. Place him in front of blue watercolor splashes, dotted halftone accents, and curved circular orbit lines.
+
+Header: Huge bold uppercase dark-blue name text reading {argument name="headline name" default="JAKUB PACHOCKI"}. Beneath it, a slim orange line and a credential row reading: OpenAI • Chief Scientist • GPT-4, RL & Reasoning. Add a small abstract molecule/network icon in the top-right corner.
+
+Content cards: Use exactly 5 information panels:
+1. “Who He Is” card at upper right with a blue circular person icon. Body text: “Jakub Pachocki is a computer scientist and AI researcher serving as Chief Scientist at OpenAI. Since joining OpenAI in 2017, he has led major research initiatives and previously served as Director of Research. His work spans large-scale deep learning, reinforcement learning, reasoning models, optimization, and frontier AI systems.”
+2. “Career Timeline” card at lower left with a blue calendar icon and a vertical timeline. Include exactly 6 timeline entries: 2009: Silver medalist, International Olympiad in Informatics; 2010–2013: Computer Science, University of Warsaw; 2013–2016: Ph.D. in Computer Science, Carnegie Mellon University; 2017: Joined OpenAI; 2018–2020: Helped lead large-scale reinforcement learning efforts, including OpenAI Five; 2021–2024: Director of Research, OpenAI; 2024–present: Chief Scientist, OpenAI.
+3. “Key Contributions” card at center right with an orange lightbulb icon. Include exactly 5 contribution rows, each with a small blue outline icon: trophy for “Large-Scale Reinforcement Learning,” GPT-4 badge for “GPT-4 Leadership,” rising chart for “Deep Learning Scaling,” head/brain network for “Reasoning Models,” and code brackets for “Theory Meets Systems.” Use short explanatory text after each bold blue contribution label, separated by dotted horizontal rules and orange bullet dots.
+4. “Why He Matters” card at bottom left with a blue star icon. Include exactly 4 checkmark bullets: Connects theoretical rigor with real-world AI breakthroughs; Helped translate scaling into practical frontier-model progress; Influences LLMs, reinforcement learning, and reasoning research; Guides the scientific direction of one of the world’s leading AI labs.
+5. “Legacy” card at bottom right with a blue classical-column icon. Add paragraph text explaining that he emerged as a key research leader in modern AI, from reinforcement-learning breakthroughs to GPT-4 and next-generation reasoning systems, combining scientific depth with engineering execution as Chief Scientist at OpenAI.
+
+Bottom right illustration: Add a large blue isometric microchip with the OpenAI knot logo on top, connected to circuit traces, next to a glowing blue wireframe brain made of nodes and triangular mesh lines.
+
+Footer: Centered small spaced uppercase text reading {argument name="footer text" default="AI INNOVATORS SERIES"}, flanked by tiny orange dots and thin blue circuit-line ornaments.
+
+Visual style: Crisp modern infographic, deep cobalt blue typography, orange highlights, thin rounded cards, dotted halftone patterns, network-node motifs, clean sans-serif fonts, balanced white space, professional magazine-poster design.
+
+Constraints: Keep all text legible and aligned; use exactly 5 content cards, exactly 6 timeline entries, exactly 5 contribution rows, and exactly 4 checkmark bullets; no extra logos except the OpenAI-style knot on the chip; no watermark.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2074491173880692843) | 2026-07-07
+
+---
+

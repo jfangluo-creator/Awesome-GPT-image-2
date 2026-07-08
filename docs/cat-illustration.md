@@ -6927,3 +6927,121 @@ A {argument name="character" default="solitary traveler in a long black coat"} c
 
 ---
 
+### 🎨 例 3374：七夕缘侧动漫场景
+
+![七夕缘侧动漫场景](../../images/%E4%B8%83%E5%A4%95%E7%BC%98%E4%BE%A7%E5%8A%A8%E6%BC%AB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的竖版动漫插画，主题为 {argument name="scene theme" default="两位年轻女性在传统日式缘侧庆祝七夕"}，时间设定在黄昏。场景是一座古老的木屋，左侧是发光的障子门，屋檐下挂着竹帘，地板是打磨得湿润光亮的木板，右侧是一个郁郁葱葱的日式庭院，种满了绣球花，铺设着踏脚石，配有石灯笼，背景是深蓝渐变至粉色的星空。画面中需包含 2 位身着浴衣的女性：左侧女性留着金色低发髻，佩戴紫色绣球花发饰，身穿蓝色花卉浴衣，系黄色腰带，手中拿着一条粉色许愿签；右侧女性留着优雅的深色盘发，佩戴蓝色花朵发饰，身穿淡紫色印有蓝色花纹的浴衣，系紫色腰带，正伸手将许愿签系在竹枝上。画面中需包含 1 盆放置在编织架上的七夕竹枝，装饰有 8 个清晰可见的挂饰：3 条蓝色、紫色和米色的长方形纸签，2 条靠近女性手中的粉色许愿签，2 个金色星星挂饰，以及 1 个垂下的几何形状纸花环。屋檐下悬挂 1 个绘有蓝色花纹、带白色纸签的玻璃风铃。缘侧前景需放置 5 件小物件：2 杯放在杯垫上的冰茶，1 把绘有绣球花的圆形团扇，1 个盛放粉色和果子的透明盘子，以及 1 个绘有蓝色花朵的白色陶瓷猪型蚊香炉。庭院边缘放置 1 双蓝色木屐。采用电影级光影效果：室内和灯笼发出的温暖琥珀色光线与凉爽的紫蓝色夜光形成对比，木地板上有细腻的倒影，面部和头发上有柔和的轮廓光，展现高度细致的衣褶、花纹和梦幻的星空氛围。整体基调应温柔、宁静、浪漫、怀旧且充满夏日气息。无标题，无水印，无现代物品，无额外人物。
+
+[English]
+Create a richly detailed vertical anime illustration of {argument name="scene theme" default="two young women celebrating Tanabata on a traditional Japanese veranda"} at twilight. The setting is an old wooden house with glowing shoji doors on the left, bamboo blinds under the eaves, polished wet-looking wooden floorboards, and a lush Japanese garden on the right filled with hydrangeas, stepping stones, a stone lantern, and a deep blue-to-pink sunset sky full of stars. Show exactly 2 seated women in yukata: the left woman has blonde hair in a low bun with purple hydrangea hair ornaments, a blue floral yukata, and a yellow obi, holding one pink wish strip; the right woman has dark hair in an elegant updo with blue flower ornaments, a pale lavender yukata with blue floral patterns, and a purple obi, reaching upward to tie a wish strip onto a bamboo branch. Include exactly 1 potted bamboo Tanabata branch in a small woven stand, decorated with exactly 8 visible ornaments: 3 hanging rectangular paper strips in blue, purple, and cream, 2 pink wish strips near the women’s hands, 2 gold star ornaments, and 1 dangling geometric paper garland. Include exactly 1 glass wind chime hanging from the eaves with a floral blue pattern and a white paper strip. On the veranda foreground include exactly 5 small objects: 2 glasses of iced tea on coasters, 1 round uchiwa fan painted with hydrangeas, 1 clear plate holding a pink wagashi sweet, and 1 white ceramic mosquito-repellent incense pig decorated with blue flowers. Near the garden edge include exactly 1 pair of blue geta sandals. Use luminous cinematic lighting: warm amber light from the interior and lanterns contrasting with cool violet-blue evening light, delicate reflections on the wooden floor, soft rim light on faces and hair, highly detailed fabric folds, floral patterns, and magical starry atmosphere. The mood should be tender, quiet, romantic, nostalgic, and summery. No captions, no watermark, no modern objects, no extra people.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2074488585773068541) | 2026-07-07
+
+---
+
+### 🎨 例 3376：女王与白蛇大教堂
+
+![女王与白蛇大教堂](../../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E7%99%BD%E8%9B%87%E5%A4%A7%E6%95%99%E5%A0%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个名为 {argument name="title theme" default="女王与蛇"} 的电影级暗黑奇幻皇家场景：一位面色苍白的年轻女王跪在富丽堂皇的哥特式大教堂内祈祷，双手合十，双眼轻闭，神情宁静而庄重。她拥有极长且蓬松的银白色卷发，垂落至地面，头戴精致的金冠或光环般的金丝头饰，皮肤如瓷器般细腻。她身着一件复杂的深红色长袍，饰有金色刺绣，袖口轻盈飘逸，高开叉处露出一侧弯曲的膝盖，长长的裙摆铺展在红金相间的地毯上。在她身旁稍后方是一条巨大的白蛇，盘踞在光洁的大理石地面上，上半身优雅地呈 S 型抬起，头部转向女王；蛇身覆盖着珍珠般的象牙色鳞片，金色的双眼，颈部佩戴着精致的金饰，展现出一种平静的守护者姿态。场景设定为宏伟的中世纪大教堂圣殿，拥有高耸的尖拱、透出温暖背光的彩色玻璃窗、华丽的镀金祭坛结构、雕刻精美的大理石柱、点燃蜡烛的烛台、饰有金冠和狮子纹章的红色皇家旗帜、花艺装饰以及反光的大理石地面。运用穿过彩色玻璃的温暖阳光、柔和的薄雾、勾勒女王发丝和蛇鳞的轮廓光，采用浓郁的红金配色，呈现超精细的纹理，浪漫的巴洛克哥特式优雅，写实奇幻插画风格，竖构图，全身视角，无现代物品，无文字，无水印。
+
+[English]
+Create a cinematic dark-fantasy royal scene titled {argument name="title theme" default="The Queen and the Serpent"}: a pale young queen kneels in prayer inside an opulent Gothic cathedral, hands pressed together, eyes gently closed, expression serene and solemn. She has extremely long, voluminous silver-white curly hair cascading to the floor, a delicate gold crown or halo-like filigree headpiece, porcelain skin, and wears an elaborate deep crimson gown with gold embroidery, sheer flowing sleeves, a high slit revealing one bent knee, and a long train spread across a red-and-gold carpet. Beside and slightly behind her is one enormous white serpent, coiled on the polished marble floor, its upper body raised in an elegant S-curve and its head turned toward the queen; the snake has pearlescent ivory scales, golden eyes, subtle gold jewelry around its neck, and a calm guardian-like presence. The setting is a grand medieval cathedral sanctuary with towering pointed arches, tall stained-glass windows glowing with warm backlight, ornate gilded altar structures, carved marble columns, candelabras with lit candles, red royal banners bearing gold crowns and lion-like heraldic emblems, floral arrangements, and reflective marble flooring. Use warm sunlight streaming through stained glass, soft haze, rim lighting around the queen’s hair and serpent scales, rich red and gold color palette, ultra-detailed textures, romantic baroque-gothic elegance, realistic fantasy illustration, vertical composition, full-body view, no modern objects, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2074481754141012149) | 2026-07-07
+
+---
+
+### 🎨 例 3381：双神动漫书法艺术
+
+![双神动漫书法艺术](../../images/%E5%8F%8C%E7%A5%9E%E5%8A%A8%E6%BC%AB%E4%B9%A6%E6%B3%95%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽幅横向的动漫风格日本神话插画，画面中两位优雅的白发男性神社神明形象向中心对视。左侧角色留着低扎的长浅金白色头发，有着锐利的紫色双眸，神情冷静而狡黠，身着奢华的深色 {argument name="left robe color" default="紫色"} 和服，饰有金色牡丹和云纹；他手持一把装饰着奶油色牡丹和深色扇骨的展开折扇。右侧角色留着极长的银白色长发，编有发辫，饰有挂坠、红色垂绳及光芒四射的冠状发饰，眼神深邃，身着华丽的象牙白礼服，叠搭着金链、红流苏、花卉图案和精致刺绣；他胸前持有一把展开的奶油金色折扇。将他们对称地放置在左右两侧，身体向内倾斜，占据画面的大部分空间。在中心位置，添加巨大的竖排日文书法 {argument name="central calligraphy" default="阿吽"}，采用粗犷的金属金笔触。在文字后方，描绘一个巨大的金色日轮，配以较小的暗金色圆盘及许多放射状的黑金光芒，如同神圣的光环。在背景上方，横跨一条粗壮的注连绳，两端垂下流苏。背景为深蓝黑色，带有古董金质感、红金漩涡云纹、散落的白色花瓣状图形以及密集的浮世绘装饰图案。采用华丽的江户时代奇幻美学，高细节线条艺术，金属金箔质感，华丽的和服面料图案，戏剧性的对称感，精致的美少年角色设计，电影级构图，无现代物品，无水印，并保持 16:9 的横向比例。
+
+[English]
+Create a wide horizontal anime-style Japanese mythological illustration featuring two elegant white-haired male shrine-deity figures facing inward toward the center. The left character has long pale blond-white hair tied low, sharp purple eyes, a calm sly smile, and wears a luxurious deep {argument name="left robe color" default="purple"} kimono with gold peony and cloud patterns; he holds an open folding fan decorated with cream peonies and dark ribs. The right character has very long silver-white hair with braids, ornaments, dangling red cords, a radiant crown-like hairpiece, pale intense eyes, and wears an ornate ivory-white ceremonial robe layered with gold chains, red tassels, floral motifs, and fine embroidery; he holds an open cream-and-gold folding fan across his chest. Place them symmetrically on the left and right sides with their bodies angled inward, occupying most of the frame. In the center, add large vertical Japanese calligraphy reading {argument name="central calligraphy" default="阿吽"} in rough metallic gold brush strokes. Behind the text, depict a huge golden sun disk with a smaller dark-gold circular disk and many radiating black and gold rays, like a sacred halo. Across the upper background, stretch one thick twisted shimenawa rope from left to right with tassels hanging at both far corners. The background is deep black-blue with antique gold texture, red and gold swirling clouds, scattered white petal-like shapes, and dense ukiyo-e decorative patterns. Use a lavish Edo-period fantasy aesthetic, highly detailed line art, metallic gold leaf texture, ornate kimono fabric patterns, dramatic symmetry, refined bishonen character design, cinematic composition, no modern objects, no watermark, and keep the image in a 16:9 landscape ratio.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2074462907191242877) | 2026-07-07
+
+---
+
+### 🎨 例 3385：水墨武士画
+
+![水墨武士画](../../images/%E6%B0%B4%E5%A2%A8%E6%AD%A6%E5%A3%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="warrior" default="孤独的武士 / 浪人武士"}，以 {argument name="style" default="传统的日本水墨画风格"} 呈现，全身动态姿势，面部大部分隐藏在阴影中，身着飘逸的长袍，头戴斗笠或梳着发髻，佩戴武士刀，呈现出仿佛迈步或拔刀瞬间的戏剧性动态。构图由大胆的黑色墨迹飞溅、水彩晕染、极具表现力的笔触以及散落的墨滴构成，背景为 {argument name="background" default="纯白纸张"}。极简的单色调，高对比度的黑灰色调，抽象的边缘融入飞溅效果，优雅的留白，原始的笔触力量，封建日本美学，底部带有红色书法印章签名，博物馆级水墨插画，极具艺术感，戏剧性，带有质感的宣纸触感。
+
+[English]
+A {argument name="warrior" default="lone samurai / ronin warrior"} rendered in {argument name="style" default="traditional Japanese sumi-e ink wash painting style"}, full-body dynamic pose, face mostly hidden in shadow, wearing flowing robes and straw hat / topknot hairstyle, carrying katana swords, dramatic motion as if mid-step or mid-draw. Composition built from bold black ink splashes, watercolor bleeds, expressive brush strokes, and scattered ink droplets on a {argument name="background" default="pure white paper background"}. Minimalist monochrome palette, high contrast black and gray tones, abstract edges dissolving into splatter, elegant negative space, raw gestural energy, feudal Japan aesthetic, calligraphy stamp signature in red at the bottom, museum-quality ink illustration, highly artistic, dramatic, textured rice paper feel.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2074458408112271637) | 2026-07-07
+
+---
+
+### 🎨 例 3413：20 世纪 80 年代新宿复古城市景观
+
+![20 世纪 80 年代新宿复古城市景观](../../images/20%20%E4%B8%96%E7%BA%AA%2080%20%E5%B9%B4%E4%BB%A3%E6%96%B0%E5%AE%BF%E5%A4%8D%E5%8F%A4%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+{argument name="年代" default="1980年代"}風の架空都市　{argument name="場所" default="新宿"}
+```
+
+**来源：** [@笑月堂](https://x.com/syougetudou_R18/status/2074354297878536552) | 2026-07-07
+
+---
+
+### 🎨 例 3429：七夕动漫角色插画
+
+![七夕动漫角色插画](../../images/%E4%B8%83%E5%A4%95%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+添付した立ち絵画像を参照し、キャラクターの顔立ち、髪型、髪色、瞳、体型、年齢感、雰囲気を維持したまま、七夕モチーフの高品質な一枚絵を作成してください。元の服装は使わず、キャラクターの個性に合った七夕らしい浴衣または和風アレンジ衣装にしてください。衣装は華やかすぎず、装飾はやや控えめにし、全体としてすっきり上品で可愛らしい印象にしてください。過度なフリル、アクセサリー、きらきらした装飾は避け、七夕らしい星や笹などのモチーフをさりげなく取り入れてください。また、セクシーにし過ぎず、露出は控えめで、健康的で年齢感に合った自然な可愛らしさを重視してください。 笹飾りの前で短冊を書いたり結んだりしている自然なシーンにし、背景は提灯、笹、星空、天の川のある夏の夜の七夕らしい雰囲気にしてください。短冊には、そのキャラクターらしい願い事を日本語で一文、はっきり読めるように書いてください。短冊の文言は「{argument name="願い事" default="［ここに願い事］"}」とし、表情や仕草にもその子らしさがにじむようにしてください。高品質な日本アニメ調で、季節感、きらめき、情緒、可愛さを大切にした一枚絵にしてください。
+```
+
+**来源：** [@だしのもと](https://x.com/dasi_ai_nomoto/status/2074320504111149089) | 2026-07-07
+
+---
+
+### 🎨 例 3432：现代混合媒介时尚拼贴画
+
+![现代混合媒介时尚拼贴画](../../images/%E7%8E%B0%E4%BB%A3%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅超写实的混合媒介时尚拼贴画，主角为 {argument name="subject" default="酷炫的年轻女性"}，背景设在 {argument name="setting" default="现代都市环境"} 中。采用低角度拍摄，正面或柔和的 3/4 全身构图。展现自信酷女孩形象，身穿宽松阔腿裤、修身短款背心和流线型运动鞋。全彩，自然肤色，深色头发，精致的时尚编辑风格。充满活力的纽约风格背景：高楼大厦、繁忙的街道活力、层叠的建筑，既鲜艳又整洁且具有编辑感。画面中贯穿混合媒介拼贴元素：撕纸纹理、编辑纸张层、细腻的半色调细节、图形形状。鲜艳的 {argument name="neon colors" default="酸橙绿和亮粉色的霓虹点缀"}，高饱和度。人物周围有纤细但清晰可见的霓虹轮廓，拼贴画中融入了微小的发光图形细节。大胆、现代，视觉冲击力强但整体克制且审美整洁。带有细微的胶片颗粒感。高端 Instagram 网格美学：令人向往、现代、视觉统一。 --ar 4:5 --raw --profile f7ca75c --stylize 60 --weird 4 --hd --preview
+
+[English]
+Photorealistic mixed media fashion collage of a {argument name="subject" default="cool young woman"} in a {argument name="setting" default="modern urban setting"}. Shot slightly below, straight on or soft 3/4 body composition. Confident cool girl presence wearing relaxed wide leg trousers, fitted cropped tank, and sleek streamlined sneakers. Full color, natural skin tones, dark hair, polished fashion editorial look. Colorful New York style background: tall buildings, busy street energy, layered architecture, vibrant yet clean and editorial. Mixed media collage elements throughout: torn paper textures, editorial paper layers, subtle halftone details, graphic shapes. Vivid {argument name="neon colors" default="neon accents acid lime green and hot pink"} with high saturation. Thin but clearly visible neon outline around the woman, small glowing graphic details integrated into the collage. Bold, modern, visually striking but controlled and aesthetically clean. Subtle film grain. High end Instagram grid aesthetic: aspirational, modern, visually cohesive. --ar 4:5 --raw --profile f7ca75c --stylize 60 --weird 4 --hd --preview
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2074310585366532512) | 2026-07-07
+
+---
+

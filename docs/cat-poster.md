@@ -15523,3 +15523,408 @@ Constraints: Keep the composition photo-realistic rather than illustrated. Do no
 
 ---
 
+### 🎴 例 3351：现代艺术杂志封面风格
+
+![现代艺术杂志封面风格](../../images/%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端现代艺术杂志封面风格插画。请仅使用上传的肖像作为参考。
+极简主义现代数字艺术风格。
+使用 {argument name="color palette" default="森林绿、鼠尾草绿、苔藓绿和奶油色"} 作为核心配色方案。
+大量运用负空间与留白设计。来自上方的柔和自然光营造出干净且独特的明暗块面。
+以简单的几何平面和流畅的轮廓塑造主体。高度概括细节，同时保持精准而优雅的形态。构图保持高度的统一与秩序感。
+背景干净纯粹，无复杂环境。
+整体风格融合了国际艺术杂志封面、北欧设计年鉴、高端生活方式品牌广告以及现代美术馆海报的精髓。
+冷静、克制、精致，且富有呼吸感。
+无文字，无 Logo，无水印。
+一流的审美。
+
+[English]
+High-end modern art magazine cover style illustration. Use the uploaded portrait as your sole reference.
+Minimalist modern digital art style.
+Use {argument name="color palette" default="forest green, sage green, moss green, and cream"} as the core color palette.
+Extensive use of negative space and white space design. Soft natural light from above creates clean and unique blocks of light and shadow.
+Shape the subject with simple geometric planes and smooth contours. Highly Summaried details, yet with accurate and elegant forms. The composition maintains a high degree of unity and order.
+The background is clean and pure, without complex environments.
+The overall style blends the essence of international art magazine covers, Nordic design annuals, premium lifestyle brand advertisements, and modern art museum posters.
+Calm, restrained, sophisticated, and full of breathing space.
+No text, no logos, no watermarks.
+First-class aesthetics.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2074543351379140865) | 2026-07-07
+
+---
+
+### 🎴 例 3357：唐风奇幻春日肖像
+
+![唐风奇幻春日肖像](../../images/%E5%94%90%E9%A3%8E%E5%A5%87%E5%B9%BB%E6%98%A5%E6%97%A5%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度古风仙侠春日女主写真，唐风幻想审美，华丽精修角色写真感，明亮通透、柔美梦幻、清甜灵动，具有古风春日女主角色海报级完成度。 画面主体是一位年轻成年东方女性，视觉年龄约 20–28 岁，具有自然明确的东方女性特征，不欧美化，不幼态化，不网红脸。她拥有精致东方淡颜，柔和杏眼，面中饱满，脸型线条流畅自然，五官精致耐看，眼神清甜温柔、灵动明亮，带一点春日女主的柔美与亲近感。肌肤白皙通透、细腻莹润，面部有明显但高级的水光质感。 妆容为桃粉水光妆，妆容浓度精致，重点强化水光底妆、桃粉腮红与卧蚕提亮。底妆瓷白通透、细腻水润，面中有柔和奶油光泽；眼妆为桃粉、玫瑰棕与浅暖棕渐层晕染，眼尾轻微加深，卧蚕自然提亮，睫毛纤长干净；腮红为桃粉或浅胭脂粉，分布在面中与脸颊，气色明显但高级；唇妆为柔润饱满的桃粉、花瓣粉或浅玫瑰粉，整体妆感清甜水润，不网红、不浓艳、不俗气。 发型为黑长直半披半挽，发尾柔顺，发丝顺滑细腻，带自然光泽，发顶蓬松精致，两侧少量碎发自然修饰脸型。头饰等级为华丽，佩戴浅金发冠、珍珠流苏、粉白宝石、细金花枝结构件与精致步摇，搭配细腻长耳坠与小型珍珠饰件，整体华丽但不杂乱。 服装为轻纱外袍 + 刺绣内层 + 华丽腰封，中高华丽度古风仙侠女主妆造。服装采用藕粉珍珠金系配色，以藕粉、浅桃粉、柔和樱粉为主色，奶白、珍珠白为辅色，浅金、珍珠与粉晶感宝石为点缀。外层为半透明藕粉轻纱，柔软飘逸，带细腻花卉刺绣与藤蔓纹样；内层为精致刺绣抹胸式内裙或古风内层礼裙，胸部线条饱满自然但端雅克制，不低俗不暴露；腰部为华丽浅金腰封，带珍珠垂饰、细金链条、粉晶宝石与精致花纹刺绣，突出纤细腰线与自然胸腰比例。 镜头为正面大半身近景，人物正面看向镜头，身体略微自然侧转，姿态柔和优雅。一只手轻抬至脸侧或发丝旁，像是在整理碎发或轻扶柳枝，另一只手自然放在腰封附近，手部动作简单柔美。人物身材纤细修长，胸部饱满自然，腰线清晰，整体表达高级、端雅、清甜，不低俗。 场景为柳岸溪桥、春溪水边、轻雾桃柳之间。人物站在春溪旁，背景虚化柳枝、溪流、木桥、桃花与春日散景。画面上方有浅绿色柳枝自然垂落，远处木桥与溪流在浅景深中柔和虚化，水面有明亮反光，桃花作为局部点缀，形成春日空气感与梦幻层次。注意不要把全画面都染成粉色，粉色主要集中在人物妆容与服装，背景保留柳枝的浅绿、溪水的清透反光、木桥的自然色与暖白晨光。 光线为晨间柔光，轻微逆光，空气感通透。面部受光柔和干净，发丝边缘、轻纱轮廓、头饰、耳饰、腰封与刺绣有细微高光，整体明亮、清新、柔和、梦幻。画面质感要求高精度、高完成度、发丝细腻、肌肤通透、妆面精致、刺绣清晰、首饰精致、浅景深背景虚化，具有古风仙侠、春日女主、唐风幻想与角色海报级完成度。 负面约束：未成年感，幼态脸，欧美脸，网红整容脸，夸张现代浓妆，廉价影楼风，廉价 cosplay 风，西式礼服感，现代服装元素，过度暴露，低俗化，胸部夸张低俗暴露，服装层次混乱，头饰杂乱，首饰塑料感，手部畸形，手指数量错误，五官失衡，背景喧宾夺主，整张图全画面泛粉，画面脏灰，色彩甜腻发俗，光线过暗，过曝严重，过度模糊，低清晰度，塑料皮肤，低级 AI 感。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2074522110115168308) | 2026-07-07
+
+---
+
+### 🎴 例 3360：“眠气屋的小瓶”动漫海报
+
+![“眠气屋的小瓶”动漫海报](../../images/%E2%80%9C%E7%9C%A0%E6%B0%94%E5%B1%8B%E7%9A%84%E5%B0%8F%E7%93%B6%E2%80%9D%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫轻小说/漫画海报封面，主题为 {argument name="story title" default="眠気屋の小瓶"}，营造深邃的午夜蓝奇幻氛围，并配以发光的金色字体。画布采用 2:3 的竖构图，画面紧凑且具电影感，呈现高精度的日式插画风格，运用戏剧性的轮廓光、发光粒子、漂浮的手稿页面、墨迹飞溅以及魔法星空效果。在海报最上方，放置巨大的华丽日文标题 {argument name="large title text" default="眠気屋の小瓶"}，采用明亮的象牙金书法字体，带有柔和的光晕、装饰性的新月、花丝漩涡、细小的星星，以及上方拱形的星体装饰。在标题正下方，添加较小的副标题 {argument name="subtitle text" default="眠気を売りすぎた漫画家"}，使用简洁的浅色字体。
+
+海报中心：一个透明的软木塞玻璃瓶垂直漂浮，瓶中装满了蓝白色的螺旋星系，闪烁着星尘并拥有一个发光的核心。瓶子散发出强烈的青白色魔法光芒，照亮了周围所有的角色和纸张。
+
+前景：一位疲惫的年轻男性漫画家，留着凌乱的黑发，皮肤苍白，有着蓝灰色的眼睛，身穿宽松的白色 T 恤，一只手向上伸向发光的小瓶；他的表情显得疲惫、敬畏且充满渴望。黑色的墨迹和漫画工具装饰着底部边缘。
+
+右前景：一位美丽的女性主角，留着飘逸的长黑发，有着大大的蓝色眼睛，表情温柔且充满希望，正穿过漂浮的页面伸出手。她穿着白色与银色相间的奇幻服装，带有精致的铠甲细节，胸前有发光的高光。
+
+右上角：一位优雅而神秘的店主，一名留着长棕发、眼神锐利而疲惫的成年男性，正从瓶子和纸张货架间的阴影中冷静地注视着这一切。
+
+左上角：展示一家奇异商店的入口，透出温暖的室内光线，招牌上写着 {argument name="shop sign text" default="眠気屋"}；在门口处，包含一个背对着商店、戴着兜帽的年轻男子的剪影。
+
+背景细节：在中央小瓶周围包含四组漫画/手稿意象：左下方是一组绘有多名小角色的漫画分镜，右中部是一组奇幻角色草图，上中部是一组斜向飞舞的散页，底部边缘是一组带墨迹的手稿纸。保持画面丰富但清晰，以发光的小瓶为视觉焦点。画面中不要出现任何英文字符、Logo 或水印，并严格保留指定的日文文本。
+
+[English]
+Create a vertical anime light-novel / manga poster cover for {argument name="story title" default="眠気屋の小瓶"}, with a dark midnight-blue fantasy atmosphere and luminous gold typography. Canvas is a tall 2:3 poster, dense cinematic composition, highly detailed Japanese illustration style, dramatic rim lighting, glowing particles, floating manuscript pages, ink splatters, and magical starry effects. At the very top, place the huge ornate Japanese title {argument name="large title text" default="眠気屋の小瓶"} in bright ivory-gold calligraphy with a soft glow, decorative crescent moon, filigree swirls, tiny stars, and an arched celestial ornament above it. Directly below the title, add the smaller subtitle {argument name="subtitle text" default="眠気を売りすぎた漫画家"} in clean pale lettering.
+
+Center of the poster: a transparent glass corked bottle floating upright, filled with a swirling spiral galaxy of blue-white starlight, sparkling dust, and a radiant core. The bottle emits a strong cyan-white magical glow that lights all surrounding characters and papers.
+
+Foreground: a tired young male manga artist with messy black hair, pale skin, blue-gray eyes, and a loose white T-shirt reaches upward toward the glowing bottle with one hand; his expression is exhausted, awed, and desperate. Black ink splashes and manga tools frame the bottom edge.
+
+Right foreground: a beautiful heroine with long flowing dark hair, large blue eyes, and a soft hopeful expression reaches out through drifting pages. She wears a white-and-silver fantasy outfit with delicate armor-like details and a glowing chest highlight.
+
+Upper right: an elegant mysterious shopkeeper, an adult man with long brown hair, sharp tired eyes, and dark clothing, watches calmly from the shadows among shelves of bottles and papers.
+
+Upper left: show the entrance of a strange shop with warm interior light and a sign reading {argument name="shop sign text" default="眠気屋"}; in the doorway, include a small back-view silhouette of a hooded young man facing into the shop.
+
+Background details: include exactly four clusters of manga/manuscript imagery around the central bottle: one lower-left cluster of illustrated manga panels with multiple small characters, one mid-right cluster of fantasy character sketches, one upper-middle cluster of loose pages flying diagonally, and one bottom-edge cluster of inked manuscript sheets. Keep the scene packed but readable, with the glowing bottle as the focal point. Use no English text, no logo, no watermark, and preserve the Japanese text exactly as specified.
+```
+
+**来源：** [@マンモスⅡz｜AIアニメクリエーター](https://x.com/Mammoth02Z/status/2074515920391999885) | 2026-07-07
+
+---
+
+### 🎴 例 3361：禅意极简书法海报
+
+![禅意极简书法海报](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：高对比传播型
+主体内容：一位站在长墙前挥笔书写的人物剪影
+情绪母题：表达、气势、清醒、文气张力
+场景与意象：米白长墙、钴蓝大面积留白空间、明橙落款印记、人物与笔势墨线
+构图与空间：偏侧构图，人物位于一侧，长墙形成大面积留白，书写动作带出纵向或斜向视觉动线
+色彩控制：米白作为墙面和主要留白基底，钴蓝用于局部背景块面或阴影层次，明橙只用于小面积印记、笔尾点睛或落款位置，人物用墨黑剪影；避免墙面整体染色过重
+光线与质感：自然光，纸墙肌理，墨线清晰，轻颗粒，现代文化海报感
+画幅比例：9:16 
+补充要求：动作要有力度但画面仍极简，适合做文化感、标题感很强的海报
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2074514733282284007) | 2026-07-07
+
+---
+
+### 🎴 例 3365：企业周年庆领导力海报
+
+![企业周年庆领导力海报](../../images/%E4%BC%81%E4%B8%9A%E5%91%A8%E5%B9%B4%E5%BA%86%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一家汽车公司制作一张精致的企业周年庆领导力海报，采用庄重的高管肖像和蓝色的科技商务美学风格。
+
+画布：16:9 横向海报，1366×768 构图风格，采用浅冰蓝色与深海军蓝配色，干净的企业级布光，呈现高端商业广告质感。
+
+布局：左侧包含主要的周年纪念排版及小型辅助文案；右侧为半身高管肖像，背景为一个巨大的半透明周年数字。底部区域为深海军蓝渐变带，包含一段简短的纪念文字和公司 Logo。
+
+主视觉：一位自信的中年中国男性高管，{argument name="character name" default="张运民"}，身着深海军蓝商务西装、白衬衫、花纹海军蓝领带，佩戴无框眼镜，留着整齐的灰白短发，双臂交叉，目光平静且自信地望向左上方。将其置于海报右侧三分之一处，布光清晰，呈现写实的商业肖像摄影风格。
+
+背景：明亮的未来感高速公路场景，地平线附近有柔和的城市天际线剪影，一辆流线型深色 SUV 在弯道上从左向右行驶，带有光轨和柔和的镜头光晕。在高管身后，添加一个巨大的半透明浅蓝色“10”作为背景中心偏右，右上角标注“TH”以构成周年纪念标识。使用分层玻璃拟态渐变和微妙的动感线条。
+
+文字内容：左上方小字为“2016-2026  |  十年同行  驭见未来”。左侧主标题为“2016-2026”，下方为大号中文字符“十年同行”。标题下方加入一行红蓝配色的小字：“某某汽车并购十周年纪念”。下方添加英文小字：“10TH ANNIVERSARY OF THE MERGER” 和 “A DECADE OF PARTNERSHIP, DRIVING THE FUTURE”。右侧肖像附近添加一个红色短横线装饰及高管标签：“张运民”、“董事长 & CEO”，以及一段两行的中文引言：“十年同行，感谢伙伴与用户 / 一路相伴，向新而行。” 底部白色中文段落：“2016年，我们携手开启新征程；2026年，我们并肩站在新起点。十年，是协同创新的进阶，是品牌向上的跨越，更是对未来的坚定承诺。感谢每一位员工、伙伴与用户的信任同行，未来，我们继续以卓越产品与服务，驱动美好出行。”
+
+Logo 区域：在右下方包含 2 组品牌 Logo，中间用“×”隔开：第一组 Logo 使用流线型椭圆车标及文字“某某汽车 / MOUMOU AUTO”；第二组 Logo 使用盾牌式徽标及相同的文字“某某汽车 / MOUMOU AUTO”。
+
+设计约束：使用清晰醒目的大号中文字体，强烈的层级感，充足的留白，优雅的海军蓝企业配色，写实的高管照片质感，高端年度活动海报风格。保持所有文字整洁对齐；避免杂乱、卡通效果、额外的人物、多余的车辆或额外的 Logo。
+
+[English]
+Goal: Create a polished corporate anniversary leadership poster for an automotive company, with a dignified executive portrait and a blue technology-business aesthetic.
+
+Canvas: 16:9 horizontal poster, 1366×768 style composition, pale icy blue and deep navy palette, clean corporate lighting, premium commercial advertising finish.
+
+Layout: Left side contains the main anniversary typography and small supporting copy; right side contains a half-body executive portrait in front of a huge translucent anniversary number. Bottom area contains a dark navy gradient band with a short commemorative paragraph and company logos.
+
+Main visual: A confident middle-aged Chinese male executive, {argument name="character name" default="Zhang Yunmin"}, wearing a dark navy business suit, white shirt, patterned navy tie, rimless glasses, short neatly combed salt-and-pepper hair, arms crossed, looking slightly upward to the left with calm leadership confidence. Place him on the right third of the poster, sharply lit, realistic commercial portrait photography style.
+
+Background: Bright futuristic highway scene with soft city skyline silhouettes near the horizon, a sleek dark SUV driving from left to right on a curved road, light trails and gentle lens flare streaks. Behind the executive, add an enormous translucent light-blue “10” occupying the center-right background, with “TH” in the upper-right corner to form the anniversary mark. Use layered glassmorphism gradients and subtle motion lines.
+
+Text content: At the top left, small text reads “2016-2026  |  十年同行  驭见未来”. Main headline on the left reads “2016-2026” and below it large Chinese characters “十年同行”. Beneath the headline, include a smaller red-and-navy line: “某某汽车并购十周年纪念”. Under that, add small English text: “10TH ANNIVERSARY OF THE MERGER” and “A DECADE OF PARTNERSHIP, DRIVING THE FUTURE”. Near the portrait on the right, add a small red dash accent and executive label: “张运民”, “董事长 & CEO”, plus a short two-line quotation in Chinese: “十年同行，感谢伙伴与用户 / 一路相伴，向新而行。” Bottom paragraph in white Chinese text: “2016年，我们携手开启新征程；2026年，我们并肩站在新起点。十年，是协同创新的进阶，是品牌向上的跨越，更是对未来的坚定承诺。感谢每一位员工、伙伴与用户的信任同行，未来，我们继续以卓越产品与服务，驱动美好出行。”
+
+Logo area: Include exactly 2 brand logo groups along the bottom right, separated by an “×”: first logo group uses a sleek oval car emblem and text “某某汽车 / MOUMOU AUTO”; second logo group uses a shield-style emblem and the same text “某某汽车 / MOUMOU AUTO”.
+
+Design constraints: Use large crisp Chinese typography, strong hierarchy, plenty of white space, elegant navy-blue corporate palette, realistic executive photo quality, premium annual-event poster style. Keep all text clean and aligned; avoid clutter, cartoon effects, extra people, extra cars, or additional logos.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074504401042239903) | 2026-07-07
+
+---
+
+### 🎴 例 3367：红色剪影团队活动海报
+
+![红色剪影团队活动海报](../../images/%E7%BA%A2%E8%89%B2%E5%89%AA%E5%BD%B1%E5%9B%A2%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张醒目的竖版活动/团队海报，营造深邃的电影级舞台氛围，配以红色背光窗户剪影，适用于多嘉宾活动海报或社交媒体封面。
+
+画布：高竖版海报，比例约为 9:16，黑色背景，带有极细的深红色边框和微妙的圆角/切角科技风格。下半部分使用光面黑色地板，并带有强烈的红色倒影。
+
+布局：左上角放置巨大的堆叠式标题，采用超粗压缩无衬线字体，白色/浅灰色，字间距紧凑。标题文本 {argument name="headline text" default="BUILT TO BREAK THROUGH."} 分四行排列：“BUILT”、“TO”、“BREAK”、“THROUGH.”。在右上角添加一个小标签，写着“OUR TEAM”，并配有一个微小的红色箭头。在标题下方，添加一行中文副标题：{argument name="subtitle text" default="突破边界 创造未来"}，并配有一条红色下划线。
+
+主视觉：构图中心为五个均匀分布的竖长发光红色面板/窗户。在面板前放置五个坐在简约办公椅上的黑色人物剪影，每人姿态各异：1) 最左侧的人侧身向后靠，2) 第二个人双腿交叉，一只手靠近脸部，3) 中间的人正对前方，肩膀宽阔，4) 第四个人戴着帽子或帽檐剪影，向后靠，5) 最右侧的人侧面剪影，留着长发。他们的身体和椅子在强烈的红光下应呈现为纯黑色剪影。将他们的剪影和五个红色面板在光面地板上呈现为拉长的倒影。
+
+侧边细节：在左侧添加细小的垂直微缩文本“INNOVATION / COLLABORATION / IMPACT”，上方配有一个红色加号。在左下角添加一个小段落块，写着“WE DON’T FOLLOW THE FUTURE. WE BUILD IT.”，下方添加红色装饰性斜线。
+
+底部信息栏：包含一个标有“CORE TEAM”的底部区域，配有一个红色轮廓的人物图标和副标题“The Minds Behind What’s Next.”。在底部展示五个团队成员条目，与上方的五个剪影对齐：1) {argument name="member one" default="KAI — PRODUCT STRATEGIST"}, 2) {argument name="member two" default="NOVA — DESIGN LEAD"}, 3) {argument name="member three" default="ERIC — TECHNICAL ARCHITECT"}, 4) {argument name="member four" default="MILO — GROWTH LEAD"}, 5) {argument name="member five" default="ZOE — OPERATIONS DIRECTOR"}。条目之间用红色斜线分隔。在左下角添加一个包含“2025”和“NEW PRODUCT LAUNCH”的小徽章。右下角添加文本“DIFFERENT MINDS. ONE VISION.”，并配以红色星形/十字装饰。
+
+视觉风格：高对比度编辑海报设计，黑红双色调灯光，戏剧性剪影，极简未来主义 UI 元素，清晰的瑞士/网格排版，电影级阴影，光面反射，高端科技活动美学。保持设计简洁、海报感强且文字易读。避免添加额外的人物、面板、Logo、水印或不相关的装饰元素。
+
+[English]
+Goal: Create a bold vertical event/team poster with a dark cinematic stage atmosphere and red backlit window silhouettes, designed for a multi-guest activity poster or social media cover.
+
+Canvas: Tall portrait poster, approximately 9:16 ratio, black background with a very thin dark-red border and subtle rounded/cut-corner tech styling. Use a glossy black floor with strong red reflections in the lower half.
+
+Layout: Huge stacked headline in the upper-left, set in an ultra-bold condensed block sans-serif font, white/light gray with tight spacing. The headline text is {argument name="headline text" default="BUILT TO BREAK THROUGH."} arranged across four lines: “BUILT”, “TO”, “BREAK”, “THROUGH.” Add a small top-right label reading “OUR TEAM” with a tiny red arrow. Under the headline, add a small Chinese subtitle: {argument name="subtitle text" default="突破边界 创造未来"} with a small red underline.
+
+Main visual: Center the composition around exactly five tall vertical glowing red panels/windows, evenly spaced across the middle. In front of the panels place exactly five black human silhouettes seated on simple office chairs, each with a distinct pose: 1) leftmost person sitting sideways leaning back, 2) second person with legs crossed and one hand near the face, 3) center person facing forward with broad shoulders, 4) fourth person wearing a cap or brimmed silhouette leaning back, 5) rightmost person in side profile with long hair. Their bodies and chairs should be pure black silhouettes against the intense red light. Mirror their silhouettes and the five red panels as elongated reflections on the glossy floor.
+
+Side details: Along the left side, add thin vertical microtext reading “INNOVATION / COLLABORATION / IMPACT” with a small red plus symbol above it. Add a small paragraph block in the lower-left reading “WE DON’T FOLLOW THE FUTURE. WE BUILD IT.” Add small red decorative hatch marks beneath it.
+
+Bottom information band: Include a lower section labeled “CORE TEAM” with a small red outline people icon and the subtitle “The Minds Behind What’s Next.” Display exactly five team member entries across the bottom, aligned below the five silhouettes: 1) {argument name="member one" default="KAI — PRODUCT STRATEGIST"}, 2) {argument name="member two" default="NOVA — DESIGN LEAD"}, 3) {argument name="member three" default="ERIC — TECHNICAL ARCHITECT"}, 4) {argument name="member four" default="MILO — GROWTH LEAD"}, 5) {argument name="member five" default="ZOE — OPERATIONS DIRECTOR"}. Separate entries with small red slash marks. Add a small bottom-left badge containing “2025” and “NEW PRODUCT LAUNCH.” Add bottom-right text reading “DIFFERENT MINDS. ONE VISION.” with a red starburst/cross accent.
+
+Visual style: High-contrast editorial poster design, black and red duotone lighting, dramatic silhouettes, minimal futuristic UI accents, crisp Swiss/grid typography, cinematic shadows, glossy reflections, premium tech-event aesthetic. Keep the design clean, poster-like, and text legible. Avoid adding extra people, extra panels, logos, watermarks, or unrelated decorative elements.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074502178954465546) | 2026-07-07
+
+---
+
+### 🎴 例 3369：世界杯开幕之夜海报
+
+![世界杯开幕之夜海报](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E4%B9%8B%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="event name" default="2026 年国际足联世界杯"} 创建一张绿白配色的战术蓝图风格高能足球海报，结合俯视足球场示意图、醒目的中文排版和动态足球轨迹。
+
+画布：16:9 横版体育海报，深草绿色背景，带有细微的纸张纹理、磨损的印刷质感和白色油墨的做旧效果。使用全出血的俯视足球场作为主体构图，包含细白色的技术线条、角旗、球门区、中圈弧线、体育场看台轮廓、测量标记、虚线规则、箭头、十字标记、微小的战术符号以及细白边框。
+
+布局：在中心放置一个巨大的做旧白色中文标题 {argument name="main headline" default="开幕之夜"}，占据海报宽度的大部分。在标题右下方添加一个写实的黑白红足球，从右向左斜向飞出，带有明亮的白色和红色运动轨迹、油漆飞溅和穿过球场的速度粒子。保持标题位于球场标记上方，但部分被足球轨迹穿插，以增加深度感。
+
+顶部信息栏：包含 3 个带标签的信息模块：左侧模块带有秒表图标和 {argument name="date and time" default="6 月 14 日 20:00"} 以及小型英文标签“KICK-OFF”；中央模块带有简化的世界杯奖杯图标和文字“WORLD CUP 2026”；右侧模块带有位置定位图标和 {argument name="venue" default="国家体育场"} 以及小型英文标签“NATIONAL STADIUM”。在最顶部边框沿线添加小型大写微缩文字：“FIFA WORLD CUP 2026”、“THE WORLD IS OURS” 和 “FOR THE GAME. FOR THE WORLD.”，并用虚线和加号分隔。
+
+底部信息栏：在标题下方包含 3 个主要标注：左侧标注带有剪贴板战术图标和文字“A 组首轮”以及小型英文“GROUP A · ROUND 1”；中央标注带有显示器/播放图标和文字 {argument name="booking text" default="直播预约已开启"} 以及小型英文“LIVE STREAM BOOKING OPEN”；底部中央设有“MATCH 01”记分牌徽章。添加小型页脚标签和图标，如“TEAM SPIRIT”、“TACTICS PLAN”、“CONTROL THE GAME” 和 “PASSION & GLORY”。
+
+视觉风格：醒目的现代中文粗体显示字，字重极高，带有粗糙的印章边缘、裂纹的 Grunge 质感和微偏白的油墨色。背景应呈现出战术项目与体育场蓝图融合的感觉。仅使用绿色、白色、黑色以及足球轨迹中的少量红色点缀。高对比度，清晰的矢量线条，充满活力的体育广告美学。
+
+约束：仅使用一个足球、一个中央超大中文标题、三个顶部模块、三个底部标注和一个比赛徽章。所有文字保持白色，避免出现额外的球员或人物，避免照片级的体育场观众，除通用的世界杯风格奖杯图标外不使用任何标志，无水印。
+
+[English]
+Goal: Create a high-energy football match poster in a green-and-white tactical blueprint style for {argument name="event name" default="FIFA World Cup 2026"}, combining a top-down soccer field diagram, bold Chinese typography, and dynamic ball motion.
+
+Canvas: Horizontal 16:9 sports poster, deep grass-green background with subtle paper grain, scuffed print texture, and white ink distressing. Use a full-bleed soccer pitch viewed from above as the main composition, with thin white technical linework, corner flags, goal boxes, center circle arcs, stadium seating outlines, measurement marks, dotted rules, arrows, crosses, tiny tactical symbols, and a thin white border.
+
+Layout: Put an enormous distressed white Chinese headline {argument name="main headline" default="开幕之夜"} across the center, occupying most of the poster width. Add a realistic black-white-red soccer ball on the lower-right side of the headline, flying diagonally from right to left with bright white and red motion streaks, paint splatter, and speed particles crossing the field. Keep the headline layered above the field markings but partly intersected by the ball trail for depth.
+
+Top information row: Include exactly 3 labeled information modules: left module with a stopwatch icon and {argument name="date and time" default="6月14日 20:00"} plus small English label “KICK-OFF”; center module with a simplified World Cup trophy icon and text “WORLD CUP 2026”; right module with a location pin icon and {argument name="venue" default="国家体育场"} plus small English label “NATIONAL STADIUM”. Along the very top border add small uppercase microtext: “FIFA WORLD CUP 2026”, “THE WORLD IS OURS”, and “FOR THE GAME. FOR THE WORLD.” separated by dotted lines and plus symbols.
+
+Bottom information row: Include exactly 3 main callouts below the headline: left callout with a clipboard tactics icon and text “A组首轮” with small English “GROUP A · ROUND 1”; center callout with a monitor/play icon and text {argument name="booking text" default="直播预约已开启"} with small English “LIVE STREAM BOOKING OPEN”; bottom-center scoreboard badge reading “MATCH 01”. Add small footer labels and icons such as “TEAM SPIRIT”, “TACTICS PLAN”, “CONTROL THE GAME”, and “PASSION & GLORY”.
+
+Visual style: Bold modern Chinese block display font, very heavy weight, rough stamped edges, cracked grunge texture, slight off-white ink. Background should feel like a tactical coaching board mixed with a stadium blueprint. Use only green, white, black, and small red accents from the soccer ball trail. High contrast, crisp vector linework, energetic sports advertising aesthetic.
+
+Constraints: Use exactly one soccer ball, one central oversized Chinese headline, three top modules, three bottom callouts, and one match badge. Keep all text white, avoid extra players or people, avoid photorealistic stadium crowds, no logos other than generic World Cup-style trophy iconography, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074501232736223258) | 2026-07-07
+
+---
+
+### 🎴 例 3370：中医艾灸海报
+
+![中医艾灸海报](../../images/%E4%B8%AD%E5%8C%BB%E8%89%BE%E7%81%B8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的中医养生主题海报，聚焦艾灸与经络激活，展现优雅的中国古典美学与温暖的米色药香氛围。
+
+画布：横版 16:9 海报，1366×768 构图风格，柔和的奶油色羊皮纸背景，点缀云雾、淡雅的水墨山峦及左下角的一株小松树，辅以细腻的金棕色渐变与纤细的装饰分割线。
+
+布局：左侧三分之一处放置大型竖排中文标题，包含 4 个超大书法字体，排列为两列：{argument name="main headline" default="温经活络"}。在字符旁添加微小的拼音标注，分别为“wēn”、“jīng”和“huó”。标题旁添加一列纤细的竖排中文说明，阐述温经通络、调和气血、散寒除湿及滋养身体的功效；并加盖一枚刻有“艾灸”字样的红色小印章。中右侧展示一张特写摄影，呈现背部/肩部理疗场景：人物背影，颈肩裸露，一根点燃的艾条斜向指向肩部上方，余烬闪烁，白烟袅袅升起。在肩背部准确标记 3 个穴位，用红色小圆点及标签标注：“大椎穴”、“肩胛穴”和“膏肓穴”。中下部横向放置一行中文副标题，由细线分隔：{argument name="subtitle" default="温经散寒 · 通络止痛 · 调和气血 · 提升体感"}。
+
+底部信息栏：添加 4 张圆角矩形服务卡片，配以橙色线条图标及中文标题。卡片 1 为火焰图标，标题 {argument name="card one heading" default="温经活络"}，描述“温通经络，改善寒凝”，并附带两个胶囊标签：“适合人群”及关于手脚冰凉、肩颈疲劳、寒湿体质、气血亏虚、免疫力低下、压力大等小字说明。卡片 2 为坐式理疗图标，标题“背部调理”，描述“疏通经络，缓解酸胀”，标签为“建议频次”及“每周 1–2 次，循序渐进，效果更佳”。卡片 3 为蒸汽/波纹图标，标题“艾烟闻气”，描述“艾草温润，放松身心”，标签为“调理时长”及“60 分钟/次，深度放松，温和舒适”。卡片 4 为剪贴板图标，标题 {argument name="card four heading" default="体质方案"}，描述“辨体定制，长期调养”，标签为“温馨提示”及“调理后多喝温水，忌食生冷，注意保暖”。
+
+视觉风格：高端中医产品海报，简约且留白充足，采用深褐色与橙色字体，传统书法与清爽的宋体正文相结合，半透明圆角卡片，柔和阴影，避免强烈的对比。理疗照片区域使用真实的皮肤纹理与烟雾效果，并与羊皮纸背景自然融合。
+
+约束条件：设计保持沉稳、高端且具教育意义；严格保留 4 张底部卡片、3 个穴位标签及 4 个主标题字符。避免添加额外的 Logo、二维码、水印、杂乱元素或现代霓虹色彩。
+
+[English]
+Goal: Create a refined Traditional Chinese Medicine wellness event poster about moxibustion and meridian activation, with an elegant classical Chinese aesthetic and warm beige medicinal atmosphere.
+
+Canvas: Horizontal 16:9 poster, 1366×768 style composition, soft cream parchment background with mist, pale ink-wash mountains and a tiny pine tree at the lower left, subtle golden-brown gradients and thin decorative divider lines.
+
+Layout: Left third contains a large vertical Chinese headline with exactly 4 oversized calligraphy characters, arranged in two stacked columns: {argument name="main headline" default="温经活络"}. Add tiny pinyin annotations near the characters, reading “wēn”, “jīng”, and “huó”. Beside the headline, add a slim vertical explanatory Chinese text column about warming meridians, regulating qi and blood, dispelling cold and dampness, and nourishing the body; include a small red seal reading “艾灸”. Center-right shows a close-up photographic back/shoulder therapy scene: a person seen from behind with neck and shoulder exposed, a lit moxa stick angled diagonally toward the upper shoulder, glowing ember and white smoke curling upward. Mark exactly 3 acupuncture points on the shoulder/back with small red dots and labels: “大椎穴”, “肩胛穴”, and “膏肓穴”. Across the lower middle, place a Chinese subtitle separated by thin lines: {argument name="subtitle" default="温经散寒 · 通络止痛 · 调和气血 · 提升体感"}.
+
+Bottom information band: Add exactly 4 rounded rectangular service cards with orange line icons and Chinese headings. Card 1 has a flame icon, heading {argument name="card one heading" default="温经活络"}, description “温通经络，改善寒凝”, and two pill tags: “适合人群” and small text about cold hands/feet, shoulder-neck fatigue, cold-damp constitution, qi-blood deficiency, low immunity, and high pressure. Card 2 has a seated therapy icon, heading “背部调理”, description “疏通经络，缓解酸胀”, and tags “建议频次” plus “每周1–2次，循序渐进，效果更佳”. Card 3 has a steam/waves icon, heading “艾烟闻气”, description “艾草温润，放松身心”, and tags “调理时长” plus “60分钟/次，深度放松，温和舒适”. Card 4 has a clipboard icon, heading {argument name="card four heading" default="体质方案"}, description “辨体定制，长期调养”, and tags “温馨提示” plus “调理后多喝温水，忌食生冷，注意保暖”.
+
+Visual style: High-end TCM product poster, minimal and spacious, sepia-orange typography, traditional calligraphy mixed with clean Song-style Chinese body text, translucent rounded cards, soft shadows, no harsh contrast. Use realistic skin texture and smoke for the therapy photo area, blended into the parchment background.
+
+Constraints: Keep the design calm, premium, and educational; preserve exactly 4 bottom cards, exactly 3 acupuncture-point labels, and exactly 4 main headline characters. Avoid extra logos, QR codes, watermarks, clutter, or modern neon colors.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074499692260643027) | 2026-07-07
+
+---
+
+### 🎴 例 3392：“Shadow Slash” 女剑士海报
+
+![“Shadow Slash” 女剑士海报](../../images/%E2%80%9CShadow%20Slash%E2%80%9D%20%E5%A5%B3%E5%89%91%E5%A3%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直电影感动作海报，主角为 {argument name="character description" default="一位成年亚洲女剑士，拥有冷艳美丽的五官、半透明的白皙皮肤、精致的淡妆，黑色长发呈现湿发感，凌乱的发丝在高速风中飘动，眼神冷静而锐利，直视观众"}。她以四分之三侧身的特写姿势站立，双手横握一把日本武士刀于胸口和嘴部位置，刀刃从左侧边缘延伸至右侧，横贯画面并在她脸前穿过。她的双手紧握左侧刀柄，可见精致的护手，抛光的刀身带有波浪状的刃纹。添加明亮的白色刀刃光环、烟雾状气流、细长的斩击痕迹、火花、玻璃质感颗粒以及剑身周围的动态畸变，营造出刀锋正在切开空气的质感。她身着 {argument name="outfit" default="一件略带褶皱的宽松白衬衫，袖口卷起，腰间系着一件灰色针织开衫，搭配深灰黑色格纹百褶裙、黑色过膝袜和黑色学院风皮鞋"}；背部交叉背负两把黑色日本长刀，黑色刀鞘和悬垂的绳结从肩部可见。使用浅灰色摄影棚背景，带有细微的磨损划痕、墨迹、风线和淡淡的碎片，采用高级时尚杂志的布光，呈现锐利的写实细节、光泽感的皮肤高光以及冷银白色的色调。构图需强烈且富有动态感，人脸位于上半部分中心，剑身占据画面中部。添加 4 个清晰可见的未来感排版元素：左上角的小标签“BLADE MODE”，其下方的小标签“CUT THROUGH”，下三分之一处巨大的黑色故障艺术风格标题“SHADOW SLASH”，以及左下角微小的标签“PHASE ATTACK”。主标题应加粗、拉伸、破碎，并带有部分透明效果和水平扫描线断层，而小标签则使用纤细的科幻技术字体。画面中不得包含额外字符、水印、Logo 或其他可读文本。
+
+[English]
+Create a vertical cinematic action poster featuring {argument name="character description" default="an adult Asian female swordswoman with cool beautiful features, translucent fair skin, subtle makeup, long black wet-looking hair with messy strands blown by high-speed wind, and calm sharp eyes looking directly at the viewer"}. She is posed in a close-up three-quarter stance, gripping a Japanese katana horizontally across the frame at chest and mouth level, the blade running from the left edge toward the right edge and passing directly in front of her face. Her hands are clenched around the hilt on the left, the ornate guard is visible, and the polished blade has a wavy hamon pattern. Add bright white blade aura, smoky air trails, thin slash streaks, sparks, glassy particles, and motion distortion around the sword so it feels like the cut is already slicing through the air. Dress her in {argument name="outfit" default="a loose slightly wrinkled white shirt with rolled sleeves, a gray knit cardigan tied at the waist, a dark gray-black plaid pleated skirt, black over-knee socks, and black academy-style leather shoes"}; show two black Japanese long swords crossed and strapped on her back, with black scabbards and dangling cords visible over her shoulder. Use a pale gray studio background with subtle grunge scratches, ink smears, wind lines, and faint debris, high-fashion editorial lighting, sharp photorealistic detail, glossy skin highlights, and a cold silver-white color palette. Make the composition intense and dynamic, with her face centered in the upper half and the sword dominating the middle. Add exactly 4 visible futuristic typography elements: small top-left label “BLADE MODE”, small left label beneath it “CUT THROUGH”, huge distressed black glitch title across the lower third “SHADOW SLASH”, and tiny bottom-left label “PHASE ATTACK”. The main title should be bold, stretched, fragmented, and partially transparent with horizontal scanline breaks, while the small labels use thin sci-fi technical lettering. No extra characters, no watermark, no logo, no additional readable text.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2074440823308161305) | 2026-07-07
+
+---
+
+### 🎴 例 3396：地下俱乐部风格海报
+
+![地下俱乐部风格海报](../../images/%E5%9C%B0%E4%B8%8B%E4%BF%B1%E4%B9%90%E9%83%A8%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张深色、高对比度的海报，展现忧郁的地下俱乐部美学。构图主体为 {argument name="subject" default="Elone Musk"} 的半身黑白肖像，采用略微仰拍的角度以突显态度与力量感。{argument name="pronoun" default="She"} 戴着大型头戴式耳机和圆形反光墨镜，镜片呈现出鲜明的 {argument name="lens color" default="琥珀金色"}，在黑白肖像中格外醒目。一只手举在头部附近，另一只手靠近下巴，营造出沉浸于音乐中的动态表现力姿势。头部后方是一个巨大的扁平金黄色圆形，如同聚光灯一般，形成强烈的视觉焦点与对比。背景为深黑色，带有细微的粗粝纹理、灰尘、划痕和海报磨损痕迹，呈现出原始的印刷传单质感。使用 4:5 的宽高比。
+
+[English]
+Create a dark, high‑contrast poster with a moody, underground club aesthetic. The composition features a monochrome portrait of {argument name="subject" default="Elone Musk"} from the chest up, shot from a slightly low angle for attitude and power. {argument name="pronoun" default="She"} wears large over‑ear headphones and reflective round sunglasses with warm {argument name="lens color" default="amber‑gold"} lenses that stand out vividly against the black‑and‑white portrait. One hand is raised near her head, the other near his chin, creating a dynamic, expressive pose associated with music immersion. Behind his head is a large flat golden‑yellow circular shape, like a spotlight, creating a strong focal point and visual contrast. The background is deep black with subtle grunge textures, dust, scratches, and poster‑wear imperfections, giving it a raw, printed‑flyer feel. Use 4:5 aspect ratio.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2074434565415084215) | 2026-07-07
+
+---
+
+### 🎴 例 3414：奢华 3D 雕刻风格生日海报
+
+![奢华 3D 雕刻风格生日海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+设计一张 3:4 比例的高端奢华生日海报。整个背景应覆盖优雅的 {argument name="background wall" default="米白色纹理纸墙"}，营造出精致、高端的视觉感。墙面上深深刻有一个巨大的数字“{argument name="number" default="2"}”，呈现出逼真的深度、雕刻边缘以及柔和的自然内部阴影。
+
+在雕刻的数字内部，布置一个精致的庆祝场景，包含柔粉色和腮红色的气球、精致的白色花卉点缀、优雅的花束造型以及极具品味的奢华装饰。
+
+放置一名快乐的 {argument name="child age" default="2 岁"} 儿童，准确保留参考面部特征，身穿乳白色 T 恤搭配粉色牛仔背带裤，自然地欢笑。孩子的脸部、一侧肩膀、一只手和一只脚应延伸至雕刻数字边缘之外，以营造出令人信服的 3D 立体跳出效果。
+
+用来自一侧的温暖电影感阳光照亮场景，辅以微妙的轮廓光、逼真的阴影和栩栩如生的皮肤纹理。以高端摄影棚风格捕捉一切，呈现超逼真的细节、清晰的对焦和自然的色彩分级。
+
+在墙面上添加优雅的排版文字：
+MUNONYE
+CHAPTER 2
+365 MORE DAYS OF WONDER
+
+保持简洁的极简主义构图，呈现出奢华杂志封面的质感、精良的艺术指导、真实的灯光、逼真的阴影效果和自然的色彩，避免出现树影、人工感强的照明或明显的 AI 生成痕迹。
+
+[English]
+Design a premium luxury birthday poster in a 3:4 portrait ratio. The entire background should be covered with an elegant {argument name="background wall" default="off-white textured paper wall"}, creating a refined, high-end appearance. A large number "{argument name="number" default="2"}" is deeply engraved into the wall, featuring realistic depth, carved edges, and soft natural inner shadows.
+
+Inside the carved number, arrange a sophisticated celebration scene with soft pink and blush balloons, delicate white floral accents, elegant bouquet styling, and tasteful luxury decorations.
+
+Position a joyful {argument name="child age" default="2-year-old"} child with the reference facial features accurately preserved, wearing a milky-white T-shirt paired with pink denim overalls, smiling and laughing naturally. The child's face, one shoulder, one hand, and one foot should extend beyond the edge of the carved number to create a convincing three-dimensional pop-out effect.
+
+Illuminate the scene with warm cinematic sunlight coming from one side, complemented by subtle rim lighting, realistic shadows, and lifelike skin texture. Capture everything in a premium studio photography style with ultra-realistic detail, crisp focus, and natural color grading.
+
+Add elegant typography directly on the wall featuring:
+MUNONYE
+CHAPTER 2
+365 MORE DAYS OF WONDER
+
+Maintain a clean minimalist composition with the feel of a luxury magazine cover, polished art direction, authentic lighting, realistic shadow behavior, natural colors, and avoid tree shadows, artificial-looking illumination, or visible AI-generated artifacts.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2074353209003724903) | 2026-07-07
+
+---
+
+### 🎴 例 3416：现代韩国戏剧海报设计
+
+![现代韩国戏剧海报设计](../../images/%E7%8E%B0%E4%BB%A3%E9%9F%A9%E5%9B%BD%E6%88%8F%E5%89%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="poster type" default="现代韩国戏剧海报"} 设计，参考图像中的角色。场景采用街头摄影风格，背景为首尔人行道，配有温暖的奶油黄色瓷砖墙和商店橱窗。
+视觉中心清晰锐利：一位扎着高丸子头的时髦韩国年轻女性正回眸侧身，锐利的目光直视镜头。她穿着一件优雅飘逸的 {argument name="dress color" default="钴蓝色"} 连衣裙，裙摆随动作起伏，搭配深灰色袜子和黑色短靴。
+在极近的前景中，一个大胆的超大字体框架覆盖了整张图像，由巨大的钴蓝色韩文文本组成，写着 "{argument name="text content" default="나는 본드다"}"（意为“我是邦德”）。这些大字体的颜色与她裙子的蓝色完美呼应。
+在右上角，以红白配色整齐排列的小型活动信息文本采用韩文书写。明亮自然的街头光线投射出逼真的阴影，整体采用丰富的高调色彩——这是一部融合了电影氛围与先锋平面设计的杰作。 --ar 9:16
+
+[English]
+A {argument name="poster type" default="modern Korean theater poster"} design, referencing the character in the image. The scene has a street photography style, set on a Seoul sidewalk background, featuring warm cream-yellow tiled walls and shop windows.
+The central focus is sharp and clear: a fashionable young Korean woman with her hair in a high bun is turning back to glance over her shoulder, her sharp gaze looking directly into the camera. She wears an elegant, flowing {argument name="dress color" default="cobalt-blue"} dress that billows with her movement, paired with dark gray socks and black ankle boots.
+In the extreme foreground, a bold oversized typographic frame overlays the entire image, made of giant cobalt-blue Korean text reading "{argument name="text content" default="나는 본드다"}" (meaning "I am Bond"). The color of this large text perfectly echoes the blue of her dress.
+In the upper right corner, small and neatly arranged event information text in red-and-white coloring is written in Korean. Bright, natural street lighting casts realistic shadows, with a rich high-key color palette overall — a masterpiece blending cinematic atmosphere with avant-garde graphic design. --ar 9:16
+```
+
+**来源：** [@WasifAI](https://x.com/doctorwasif/status/2074351353611358488) | 2026-07-07
+
+---
+
+### 🎴 例 3435：复古钢琴新娘杂志封面
+
+![复古钢琴新娘杂志封面](../../images/%E5%A4%8D%E5%8F%A4%E9%92%A2%E7%90%B4%E6%96%B0%E5%A8%98%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版复古浪漫婚礼杂志封面照片，画面中包含 {argument name="bride count and identity" default="两位成年亚裔女性新娘"} 坐在欧式老房间里的一架黑色古董立式钢琴前。两位新娘均身着蓬松的白色公主风婚纱，质感为透明欧根纱，配有层叠的薄纱裙摆、长款飘逸头纱、蕾丝手套、珍珠项链，妆容为柔和冷色调的甜美新娘妆，肤质细腻。左侧新娘坐姿较低且靠近镜头，回眸看向观众，双手靠近琴键，发型为优雅盘发，头纱垂落在巨大的蓬蓬裙上，钢琴上她头顶上方放着一束淡粉色玫瑰花束。右侧新娘坐在木制纺锤靠背椅上，面向钢琴，转头看向观众，留着深色长卷发，头纱下戴着巨大的白色蝴蝶结或头饰，一只手放在琴键上，眼神平静而浪漫。使用 {argument name="flower bouquet" default="淡粉色玫瑰"} 进行柔和布置。场景包含 9 个显眼的复古道具和装饰元素：一架黑色立式钢琴、钢琴上装满粉色玫瑰的白色瓮形花瓶、左侧新娘旁钢琴上的一束散落的粉色玫瑰、一个小金框相框、一个玻璃瓶、一个小金色椭圆形时钟或相框、一部黑色古董转盘电话、左侧的一叠旧书以及一把木椅。背景：褪色的花卉壁纸，色调为柔和的鼠尾草绿和桃色，昏暗的暖色闪光摄影，柔和的胶片颗粒感，轻微的暗角，高级时尚新娘专题氛围，怀旧且优雅。添加杂志封面排版，使用纤细的白色衬线字体和手写体：左上方为大标题 {argument name="main title" default="FOREVER"}，上方重叠手写体副标题 {argument name="subtitle" default="Wedding"}，左侧为小字“Vows in Bloom.”，右上角为“Two Hearts. One Promise.”下方配有一条短横线，左下角为“A Love, Chapter Eternal”，右下角为“Love WRITTEN in every glance.”。构图应亲密、梦幻、精致，呈现出高级婚礼杂志内页的质感，画面中无其他人物，也无任何现代物品。
+
+[English]
+Create a vertical vintage romantic wedding magazine cover photo featuring {argument name="bride count and identity" default="two adult Asian female brides"} seated at a black antique upright piano in an old European-style room. Both brides wear voluminous white princess wedding gowns with transparent organza texture, layered tulle skirts, long flowing veils, lace gloves, pearl chokers, and soft cool-toned sweet bridal makeup with delicate skin. The left bride sits lower and closer to the camera, turned back toward the viewer with hands near the piano keys, hair in an elegant updo, veil cascading over a huge puffy skirt, and a pale pink rose bouquet resting above her head on the piano. The right bride sits on a wooden spindle-back chair facing the piano, turned over her shoulder toward the viewer, with long dark wavy hair, a large white bow or headpiece under her veil, one hand on the keys, and a calm romantic gaze. Use {argument name="flower bouquet" default="pale pink roses"} in soft arrangements. The setting includes exactly 9 prominent vintage props and decor elements: a black upright piano, a white urn vase filled with pink roses on the piano, a loose pink rose bouquet on the piano near the left bride, a small gold picture frame, a glass bottle, a small gold oval clock or frame, a black antique rotary telephone, a stack of old books on the left, and a wooden chair. Background: faded floral wallpaper in muted sage and peach tones, dim warm flash photography, soft film grain, slight vignette, high-fashion bridal editorial mood, nostalgic and elegant. Add magazine-cover typography in thin white serif and cursive fonts: large title text {argument name="main title" default="FOREVER"} across the upper left, cursive subtitle {argument name="subtitle" default="Wedding"} overlapping it, small text “Vows in Bloom.” on the left, “Two Hearts. One Promise.” on the upper right with a short line beneath, “A Love, Chapter Eternal” at bottom left, and “Love WRITTEN in every glance.” at bottom right. Composition should be intimate, dreamy, polished, and like a premium wedding magazine spread, with no extra people and no modern objects.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2074294121813164485) | 2026-07-07
+
+---
+

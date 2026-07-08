@@ -4808,3 +4808,129 @@ Constraints: Do not add text labels, captions, watermarks, or extra characters. 
 
 ---
 
+### 🧍 例 3353：3D 立体弹出式社交媒体肖像
+
+![3D 立体弹出式社交媒体肖像](../../images/3D%20%E7%AB%8B%E4%BD%93%E5%BC%B9%E5%87%BA%E5%BC%8F%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+风格：3D Pop-out Social Media Portrait 海报风格；
+
+内容：主体为来自{argument name="作品" default="原神"}的{argument name="角色" default="芙宁娜"}cosplay 写实照片人物。请根据【角色】在原作中的设定，自动还原其最具辨识度的五官气质、发型发色、瞳色、妆容、服装轮廓、标志性配色、饰品、道具与角色氛围，确保人物一眼可被识别。若提供参考图，则脸部、发型、妆容与服装细节必须严格保持与参考图一致，不改变五官、发型、妆容与衣服设计。
+
+人物坐在一个巨大的智能手机屏幕中，整体构图像日系 ins 风社交媒体个人主页界面。人物采用强烈广角透视构图，从手机画面中“突破”出来，一只手朝镜头伸出，手部有明显近大远小效果，身材傲人，腿和脚跨出手机边框，营造强烈 3D pop-out、夸张景深与冲出屏幕的视觉冲击感。
+
+手机 UI 为原创的高级社交媒体界面设计，{argument name="平台" default="Instagram"}UI界面，风格类似真实社交平台但不要直接复制任何真实平台 UI。界面包含：用户名、头像、粉丝数、Follow 按钮、帖文缩略图、点赞、评论、分享等元素。整体 UI 设计需高级、时尚、干净、精致，具有日系社交媒体个人主页氛围。
+
+背景是一个与【作品】和【角色】气质相匹配的主题房间：房间内堆满与【作品】相关的玩偶、角色周边、海报、拍立得、cosplay 照片与收藏品；墙上贴满角色写真、同人风海报、胶片照片与装饰贴纸；加入大量符合【作品】世界观的装饰元素、主题道具、花枝、漂浮花瓣、灯串、亚克力立牌、收藏柜与日式 idol 房间氛围。背景需要体现强烈粉丝房间、二次元潮流空间、梦幻收藏屋的感觉。
+
+整体色调根据【角色】的标志性配色自动匹配，并以珍珠白作为高级底色，加入角色主色、少量粉色点缀与柔和高光。整体风格融合：日系时尚、Y2K aesthetic、idol aesthetic、和风、二次元潮流感、梦幻社交媒体视觉、时尚杂志封面设计。
+
+画面要求：高级商业摄影质感、时尚杂志封面感、电影级打光、超精细皮肤质感、五官清晰、高动态范围、超高解析度、超高细节、明显景深、光影层次丰富、水晶般闪耀高光、画面通透梦幻、真实摄影棚质感、精致后期调色、photorealistic cosplay poster、masterpiece quality。
+
+镜头语言：低角度广角镜头、强烈透视、近大远小、dynamic perspective、cinematic composition，强化人物冲出手机屏幕的震撼感。人物手部、腿部、脚部与手机边框产生明显前后空间关系，手机屏幕、UI 元素、人物身体与背景房间形成多层纵深，营造极强 3D pop-out 社交媒体海报效果。
+
+避免：不要出现真实社交平台 Logo，不要直接复制真实平台 UI，不要改变【角色】核心外貌特征，不要错误服装设计，不要多余手指，不要畸形手部，不要多余肢体，不要低清晰度，不要塑料感，不要过度 AI 感，不要文字乱码，不要水印，不要字幕。
+```
+
+**来源：** [@林风眠](https://x.com/Aring70652619/status/2074541003122553191) | 2026-07-07
+
+---
+
+### 🧍 例 3378：Lumina Stellar Witch 角色设计图
+
+![Lumina Stellar Witch 角色设计图](../../images/Lumina%20Stellar%20Witch%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张超详细的 16:9 奇幻角色设计图，主角为 {argument name="character name" default="Lumina"}，一位高级动漫魔法少女女巫，呈现效果如同 AAA 级游戏概念艺术和专业的角色设定集页面。
+
+画布：宽幅横向编辑布局，采用米白色羊皮纸背景，带有细双线边框、微妙的角落裁切标记、精致的虚线分隔符、海军蓝排版以及小星星符号装饰。构图简洁、优雅、通透，配以柔和的奇幻插画和精致的 UI 风格间距。
+
+左侧主面板：左上角显示大标题 {argument name="character name" default="LUMINA"}，下方副标题为“THE STELLAR WITCH”，并排有 5 个小星星图标。下方展示一张大型全彩英雄插画，角色侧坐在飞天扫帚上，背景为高耸的圆拱形深邃星空。她是一位年轻女巫，肤色白皙，明亮的蓝色眼睛，留着薄荷青色短波波头，戴着一顶巨大的海军蓝软塌女巫帽（帽檐内侧为青色，配有黑色丝带），身穿黑与午夜蓝叠层连衣裙，配有白色荷叶边衬裙、蓝色玫瑰状饰边、蕾丝细节、黑色手套、黑色过膝袜以及带有蓝色点缀的黑色系带高跟靴。她背着一个深棕色挎包，挂着一个发光的蓝色星星魔杖吊坠；扫帚斜跨整个面板。背景包括云朵、小星星以及天空中漂浮的遥远哥特式城堡剪影。左下角添加一个小型罗盘玫瑰。
+
+个人资料栏：在英雄插画下方，包含一个标记为“PROFILE”的部分，文字如下：“一位在天空中穿梭，寻找被遗忘之星的年轻女巫。她的魔法编织着星尘之光，为每一个夜晚带来希望。”
+
+中心面板：添加一个“TURNAROUND”部分，包含 3 个全身模型视图，上方分别标注：1) FRONT（正面），2) SIDE（侧面），3) BACK（背面）。视图应展示同一角色穿着该服装站立的样子，保持比例和服装细节的一致性。正面视图中她将扫帚竖立在身旁；侧面视图可见她的挎包；背面视图强调帽子轮廓、叠层斗篷/裙摆背面以及蓝色花卉饰边。
+
+武器与物品部分：在转向图下方，创建一个“WEAPONS & ITEMS”行，包含 3 个独立的物品，每个都有标签：1) BROOM，一把带有细枝刷毛的乡村风格木制扫帚；2) SATCHEL，一个带有搭扣和肩带的结构化深棕色皮革单肩包；3) STAR WAND，一根纤细的金色魔杖，顶端镶嵌着一颗发光的蓝色五角星。
+
+调色板：添加一个“COLOR PALETTE”条，包含 6 个圆形色块：1) 近黑色海军蓝，2) 深宝蓝色，3) 饱和钴蓝色，4) 明亮水青色，5) 暖米白色，6) 柔和棕褐色。
+
+右侧面板：添加一个“DETAILS”部分，包含 6 个装在方框内的特写标注，呈两列网格排列，分别标注：1) HAT & HAIR，宽大海军蓝帽子和青色头发特写；2) BROOCH，带有金色底座和黑色蝴蝶结的华丽蓝色宝石胸针；3) SLEEVE，带有蓝色玫瑰饰边和精致手部的黑色袖子；4) BAG，深色挎包特写；5) BOOTS，带有蓝色高光的黑色系带高跟靴；6) WAND，发光的蓝色星星魔杖头。
+
+页脚：在右下角添加小字间距文本：“LUMINA • THE STELLAR WITCH +++”。
+
+视觉风格：柔和的奇幻动漫渲染，清晰的墨线角色设计，发光的蓝色调，细腻的织物褶皱，优雅的哥特式魔法图案，微妙的纸张纹理，高端概念艺术图，平衡的留白，精致的衬线体和小写字母排版。
+
+约束条件：使用 1 张主英雄插画、3 个转向视图、3 个武器/物品、6 个色块和 6 个细节特写。保持所有文字清晰且为英文。不要添加额外的面板、额外角色、水印、标志或无关的道具。
+
+[English]
+Goal: Create an ultra-detailed 16:9 fantasy character design sheet for {argument name="character name" default="Lumina"}, a premium anime magical girl witch, presented like AAA game concept art and a professional character bible page.
+
+Canvas: Wide horizontal editorial layout on an off-white parchment background with thin double-line border, subtle corner crop marks, delicate dotted dividers, navy typography, and small star glyph decorations. Clean, elegant, airy composition with soft fantasy illustration and polished UI-like spacing.
+
+Main left panel: Large title at top left reading {argument name="character name" default="LUMINA"}, with subtitle “THE STELLAR WITCH” beneath it and a row of 5 small star icons. Below, show one large full-color hero illustration of the character seated side-saddle on a flying broom, framed by a tall rounded arch of deep starry blue sky. She is a young witch with pale skin, bright blue eyes, short mint-aqua bobbed hair, a huge floppy navy witch hat with cyan underside and black ribbons, a black-and-midnight-blue layered dress with frilled white underskirt, blue rose-like trim, lace details, black gloves, black knee socks, and black lace-up heeled boots with blue accents. She carries a dark brown satchel and a glowing blue star wand charm; the broom extends diagonally across the panel. Background includes clouds, small stars, and a distant gothic castle silhouette floating in the sky. Add a small compass rose near the bottom left.
+
+Profile block: Under the hero illustration, include a labeled section “PROFILE” with this short text: “A young witch who travels the skies in search of forgotten stars. Her magic weaves light from stardust, bringing hope to every night.”
+
+Center panel: Add a “TURNAROUND” section with exactly 3 full-body model views, each labeled above: 1) FRONT, 2) SIDE, 3) BACK. The views should show the same character standing in the outfit, with consistent proportions and costume details. In the front view she holds the broom upright beside her; in the side view her satchel is visible; in the back view emphasize the hat silhouette, layered cape/dress back, and blue floral trim.
+
+Weapons and items section: Below the turnaround, create a “WEAPONS & ITEMS” row with exactly 3 isolated objects, each with a label: 1) BROOM, a rustic wooden broom with twig bristles; 2) SATCHEL, a structured dark brown leather shoulder bag with buckles and straps; 3) STAR WAND, a slim gold wand topped with a luminous blue five-point star.
+
+Color palette: Add a “COLOR PALETTE” strip with exactly 6 circular swatches: 1) near-black navy, 2) deep royal navy, 3) saturated cobalt blue, 4) bright aqua cyan, 5) warm off-white, 6) muted tan gold.
+
+Right panel: Add a “DETAILS” section containing exactly 6 boxed close-up callouts in a two-column grid, each labeled: 1) HAT & HAIR, close-up of the wide navy hat and aqua hair; 2) BROOCH, ornate blue gemstone brooch with gold setting and black bow; 3) SLEEVE, black sleeve with blue rose trim and delicate hand; 4) BAG, dark satchel close-up; 5) BOOTS, black lace-up heeled boots with blue highlights; 6) WAND, glowing blue star wand head.
+
+Footer: At the bottom right, add small spaced text: “LUMINA • THE STELLAR WITCH +++”.
+
+Visual style: Soft fantasy anime rendering, crisp inked character design, luminous blues, detailed fabric folds, elegant gothic magical motifs, subtle paper texture, high-end concept art sheet, balanced whitespace, refined serif and small caps typography.
+
+Constraints: Use exactly 1 main hero illustration, 3 turnaround views, 3 weapons/items, 6 color swatches, and 6 detail callouts. Keep all text legible and in English. Do not add extra panels, extra characters, watermarks, logos, or unrelated props.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2074475384423506012) | 2026-07-07
+
+---
+
+### 🧍 例 3417：水彩与墨线巴黎插画
+
+![水彩与墨线巴黎插画](../../images/%E6%B0%B4%E5%BD%A9%E4%B8%8E%E5%A2%A8%E7%BA%BF%E5%B7%B4%E9%BB%8E%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅与参考图艺术风格完全一致的超细腻水彩与墨线插画。一位 {argument name="subject" default="年轻女性"} 正平静地坐在美丽的 {argument name="city" default="巴黎风格欧洲城市"} 的石砌运河边。她身穿 {argument name="outfit" default="一件超大款灰色亚麻衬衫，袖口卷起，搭配黑色飘逸中长裙、白色厚底运动鞋和黑色皮革斜挎包"}。她深色的头发扎成一个松散凌乱的低发髻，几缕柔和的发丝垂在脸颊旁。她右手托腮，抬头仰望，表情平静、梦幻且若有所思。背景是优雅的奥斯曼风格建筑、一座历史悠久的教堂塔楼、复古的维多利亚式路灯、郁郁葱葱的树木、挤满行人的石桥、迷人的咖啡馆以及充满永恒气息的欧洲城市氛围。运河水清澈见底，有着逼真的倒影、轻柔的涟漪，几条橙白相间的锦鲤在水面下游动。白色的海鸥自然地站在她身旁的石板路上。柔和的自然光，温暖的电影感光效，细腻的阴影，大气深度，逼真的倒影，复杂的建筑细节，高度细腻的树木，逼真的布料褶皱，美丽的皮肤质感，优雅的构图。艺术风格：超细腻水彩画结合精细墨线艺术、铅笔排线、建筑速写插画、旅行日记美学、编辑插画、博物馆级艺术品、柔和的大地色系、柔和的粉彩调色板、奢华旅行插画、电影级写实、杰作、获奖艺术品、HDR、体积光、景深、8K、超高分辨率、极其锐利的细节。
+
+[English]
+Create an ultra-detailed watercolor and ink illustration in the exact same artistic style as the reference. A {argument name="subject" default="young woman"} is sitting peacefully on the edge of a stone canal in a beautiful {argument name="city" default="Paris-inspired European city"}. She wears {argument name="outfit" default="an oversized gray linen button-up shirt with rolled sleeves, a flowing black midi skirt, white chunky sneakers, and a black leather crossbody bag"}. Her dark hair is tied into a loose messy low bun with soft wispy strands framing her face. She rests her chin on her right hand while looking upward with a calm, dreamy, thoughtful expression. Behind her are elegant Haussmann-style buildings, a historic cathedral tower, vintage Victorian street lamps, lush green trees, a stone bridge filled with pedestrians, charming cafés, and a timeless European city atmosphere. The canal water is crystal clear with realistic reflections, gentle ripples, and several orange-and-white koi fish swimming beneath the surface. White seagulls stand naturally on the stone pavement beside her. Soft natural daylight, warm cinematic lighting, delicate shadows, atmospheric depth, realistic reflections, intricate architectural details, highly detailed trees, realistic fabric folds, beautiful skin texture, elegant composition. Art style: ultra-detailed watercolor painting combined with fine ink line art, pencil cross-hatching, architectural sketchbook illustration, travel journal aesthetic, editorial illustration, museum-quality artwork, muted earthy colors, soft pastel palette, luxury travel illustration, cinematic realism, masterpiece, award-winning artwork, HDR, volumetric lighting, depth of field, 8K, ultra-high resolution, razor-sharp details.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2074347894455607536) | 2026-07-07
+
+---
+
+### 🧍 例 3421：低调时尚人像角色置换
+
+![低调时尚人像角色置换](../../images/%E4%BD%8E%E8%B0%83%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E8%A7%92%E8%89%B2%E7%BD%AE%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于上传的参考图，创作一张超写实的黑白低调时尚人像。保持与原图完全一致的构图、方形画幅、拍摄角度、主体位置、上半身裁剪、头部倾斜度、肩部姿态、身体角度、背景、光照方向、阴影位置、对比度、颗粒质感以及整体的暗黑编辑风格氛围。
+仅将原图中的人物替换为新上传的目标参考图中的角色。
+
+[English]
+Create a hyper-realistic black and white low-key fashion portrait based on the uploaded reference image. Keep the exact same composition, square framing, camera angle, subject placement, upper-body crop, head tilt, shoulder position, body angle, background, lighting direction, shadow placement, contrast, grain texture and overall dark editorial mood.
+Replace only the original person with the character from the newly uploaded target reference image.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2074340907063882082) | 2026-07-07
+
+---
+
