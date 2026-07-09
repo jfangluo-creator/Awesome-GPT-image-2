@@ -2770,3 +2770,67 @@ Constraints: Keep all text legible and aligned; use exactly 5 content cards, exa
 
 ---
 
+### 📊 例 3438：AI 编程搭档进化时间轴
+
+![AI 编程搭档进化时间轴](../../images/AI%20%E7%BC%96%E7%A8%8B%E6%90%AD%E6%A1%A3%E8%BF%9B%E5%8C%96%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张深色霓虹风格的中文时间轴信息图海报，展示 AI 编程搭档技术栈的演变历史，包含四个横向阶段卡片及对应的成对软件工具。
+
+画布：正方形 1:1 图像，约 768×768 像素，黑色至深海军蓝背景，带有微妙的辉光效果，细线条霓虹笔触，高对比度的现代科技美学。
+
+标题：顶部使用醒目的大号中文标题：{argument name="headline text" default="我的 AI 编程搭档进化史 🚀"}。在“AI”和“编程”字样上使用白-青-紫渐变强调。下方添加较小的灰色副标题：{argument name="subtitle text" default="不同阶段，不同选择，适合自己的才是最好的。"}，两侧配有细横线分割。
+
+布局：四个堆叠的圆角矩形时间轴卡片，垂直间距均匀。最左侧有一条细长的垂直时间轴线，上面有 4 个与 4 行对应的发光圆形节点：蓝色、绿色、黄色、紫色。每一行左侧为日期/阶段模块，右侧为较大的工具模块。右侧模块显示 2 个应用图标，中间由一个大号加号连接。
+
+行：共 4 行。第 1 行颜色为蓝色，标注为 {argument name="row one text" default="1-2 月份｜探索尝试阶段"}；工具为 Cursor + Claude。第 2 行颜色为绿色，标注为 {argument name="row two text" default="3-4 月份｜效率提升阶段"}；工具为 CodeBuddy + Claude。第 3 行颜色为黄色，标注为 {argument name="row three text" default="5-6 月份｜深度协作阶段"}；工具为 Pi + Codex。第 4 行颜色为紫色，标注为 {argument name="row four text" default="7 月份｜专注交付阶段｜Now!"}；工具为 Orca + Codex。
+
+应用磁贴与图标：总共创建 8 组应用图标/名称：1) Cursor，黑色圆角方形图标，带有白色多面钻石/光标标记，子标签“AI IDE”；2) Claude，橙色圆角方形图标，带有白色放射状星芒，子标签“AI Assistant”；3) CodeBuddy，亮绿色圆角方形图标，带有可爱的黑色机器人脸和白色眼睛，子标签“AI Coding Assistant”；4) Claude，同上；5) Pi，奶油色圆角方形图标，带有大号黄色“Pi”字样，子标签“AI Developer”；6) Codex，青色圆角方形 OpenAI 结状图标，子标签“by OpenAI”；7) Orca，紫色圆角方形图标，带有黑白虎鲸图案，子标签“AI IDE”；8) Codex，同上。工具名称为大号粗体白色文字；子标签为较小的浅灰色文字。加号为大号、居中且呈浅灰色。
+
+页脚：在底部中心，添加一行小巧的手写风格文字：“💗 工具在变，热爱不变，持续进化 🚀”。
+
+视觉风格：Cyber UI 仪表盘外观，带有半透明深色填充的圆角卡片，每行对应霓虹色边框，柔和的外发光，清晰的排版，整洁的对齐，无杂乱元素，无水印。
+
+[English]
+Goal: Create a dark neon Chinese timeline infographic poster showing the evolution history of an AI programming partner stack, with four horizontal stage cards and paired software tools.
+
+Canvas: Square 1:1 image, about 768×768 px, black-to-deep-navy background with subtle glow, thin neon strokes, high-contrast modern tech aesthetic.
+
+Header: Large bold Chinese headline at the top: {argument name="headline text" default="我的 AI 编程搭档进化史 🚀"}. Use a white-to-cyan-to-purple gradient emphasis across the AI/programming words. Under it, add a smaller gray subtitle: {argument name="subtitle text" default="不同阶段，不同选择，适合自己的才是最好的。"} with thin horizontal divider lines on both sides.
+
+Layout: Four stacked rounded rectangular timeline cards, evenly spaced vertically. A thin vertical timeline line runs down the far left with exactly 4 glowing circular nodes aligned to the 4 rows: blue, green, yellow, purple. Each row has a left date/stage block and a larger right tools block. The right block shows exactly 2 app tiles separated by a large plus sign.
+
+Rows: Use exactly 4 rows. Row 1 is blue and labeled {argument name="row one text" default="1-2 月份｜探索尝试阶段"}; tools are Cursor + Claude. Row 2 is green and labeled {argument name="row two text" default="3-4 月份｜效率提升阶段"}; tools are CodeBuddy + Claude. Row 3 is yellow and labeled {argument name="row three text" default="5-6 月份｜深度协作阶段"}; tools are Pi + Codex. Row 4 is purple and labeled {argument name="row four text" default="7 月份｜专注交付阶段｜Now!"}; tools are Orca + Codex.
+
+App tiles and icons: Create exactly 8 app icon/name groups total: 1) Cursor, black rounded-square icon with a white faceted diamond/cursor mark, sublabel “AI IDE”; 2) Claude, orange rounded-square icon with a white radial starburst, sublabel “AI Assistant”; 3) CodeBuddy, bright green rounded-square icon with a cute black robot face and white eyes, sublabel “AI Coding Assistant”; 4) Claude, same as above; 5) Pi, cream rounded-square icon with large yellow “Pi”, sublabel “AI Developer”; 6) Codex, teal rounded-square OpenAI knot style icon, sublabel “by OpenAI”; 7) Orca, purple rounded-square icon with a black-and-white orca whale, sublabel “AI IDE”; 8) Codex, same as above. Tool names are large bold white text; sublabels are smaller light gray text. Plus signs are large, centered, and light gray.
+
+Footer: At the bottom center, add a small colorful handwritten-style line: “💗 工具在变，热爱不变，持续进化 🚀”.
+
+Visual style: Cyber UI dashboard look, rounded cards with translucent dark fill, colored neon borders matching each row, soft outer glows, crisp typography, clean alignment, no clutter, no watermark.
+```
+
+**来源：** [@Indie Fox](https://x.com/indie_maker_fox/status/2075006022209753174) | 2026-07-08
+
+---
+
+### 📊 例 3440：超现实饮料信息图广告
+
+![超现实饮料信息图广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%A5%AE%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级信息图风格的广告，展示了一个超大的 {argument name="brand" default="Pepsi"} 饮料罐放置在一位 {argument name="subject" default="年轻女性"} 旁边。饮料罐的比例被放大到几乎与她整个坐姿身体一样大，营造出一种引人注目的超现实比例感。女性随意地靠在巨大的罐子上，一只手臂搭在上面，互动自然。Pepsi 罐身细节极其丰富，品牌标识清晰，带有冷凝水珠、逼真的反射效果和金属质感。Logo 清晰、锐利且比例协调。构图现代且极简，背景为干净的摄影棚，配有柔和的渐变色。微妙的信息图风格标注线突出了“清爽”、“气泡”、“冰凉质感”等特点。灯光为柔和的摄影棚光，带有受控的高光。模特穿着简约的现代服装，与罐身的 {argument name="colors" default="红、白、蓝"} 色调相得益彰。色彩分级清晰且略显鲜艳，具有商业广告美感。高端产品信息图，商业饮料广告，超高分辨率，4K，照片级真实感。
+
+[English]
+A premium infographic-style advertisement featuring an oversized {argument name="brand" default="Pepsi"} can placed beside a {argument name="subject" default="young woman"}. The can is scaled to be nearly the same size as her entire seated body, creating a striking surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally. The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned. Composition is modern and minimal, set in a clean studio with a soft gradient background. Subtle infographic-style annotation lines highlight features like 'refreshment', 'carbonation', 'chilled texture'. Lighting is soft studio with controlled highlights. The model wears minimal contemporary clothing that complements the {argument name="colors" default="red white and blue"} tones of the can. Color grading crisp and slightly vibrant, commercial ad aesthetic. High-end product infographic, commercial beverage advertisement, ultra high resolution, 4K, photorealistic.
+```
+
+**来源：** [@Emm | scenario.com](https://x.com/emmanuel_2m/status/2075000101362131350) | 2026-07-08
+
+---
+

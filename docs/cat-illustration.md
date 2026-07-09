@@ -7045,3 +7045,133 @@ Photorealistic mixed media fashion collage of a {argument name="subject" default
 
 ---
 
+### 🎨 例 3477：Q 版生气表情贴纸素材
+
+![Q 版生气表情贴纸素材](../../images/Q%20%E7%89%88%E7%94%9F%E6%B0%94%E8%A1%A8%E6%83%85%E8%B4%B4%E7%BA%B8%E7%B4%A0%E6%9D%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张干净的白色背景动漫贴纸插画，展示 16 个从矩形图案垫子中探出的 Q 版生气角色，精确排列为 4 列 4 行的网格。每个角色在垫子边缘处截断至躯干，拥有超大头部、红润脸颊、半眯的愤怒双眼、微小的皱眉嘴巴、富有表现力的凌乱发型、粗黑线条、柔和赛璐珞阴影，呈现出可爱但充满对抗性的氛围。几个角色以强烈的透视感向观众伸出超大的食指，仿佛在训斥或指着“你”；其他人则双臂交叉怒视或呈现出瘫软烦躁的姿势。不使用任何文字、对话气泡或水印，并在所有贴纸之间保留宽裕的白色间距。16 个独立角色分别为：1) 黑色短卷发，海军蓝连帽衫，指点动作，黑白千鸟格垫；2) 棕色双马尾，黄色毛衣，指点动作，蓝白条纹垫；3) 深棕色高马尾，橄榄绿连帽衫，指点动作，粉色波点垫；4) 灰金色短发，灰色猫咪印花衬衫，指点动作，青色圆点垫；5) 带发夹的深棕色波波头，棕褐色夹克，指点动作，灰色千鸟格垫；6) 黑色双麻花辫，薰衣草色卫衣，双臂交叉，蓝色双边框垫；7) 凌乱浅棕色丸子头，米色毛衣，双臂交叉，桃色波点垫；8) 带星星发夹的棕色波波头，条纹衬衫外搭米色开衫，指点动作，黄色圆点垫；9) 黑色波波头，深绿色连帽衫，双臂交叉，黑白千鸟格垫；10) 棕色马尾，粉色卫衣，指点动作，紫色边框垫；11) 带圆框眼镜的浅棕色波浪波波头，米色连帽衫，担忧且烦躁的表情，薄荷绿波点垫；12) 棕色双马尾，深绿色开衫，平淡且不耐烦的凝视，橙色圆点垫；13) 凌乱棕发，灰色连帽衫，指点动作，淡蓝色千鸟格垫；14) 深棕色马尾，橄榄绿连帽衫，指点动作，带细白边的红色垫；15) 凌乱棕色丸子头，淡黄色开衫，指点动作，粉色圆点垫；16) 黑色短发，炭灰色卫衣，脸红且怒视，海军蓝圆点垫。整体风格：日式卡哇伊漫画角色页，贴纸插画，清晰轮廓，纯白背景，柔和的马卡龙色系服装和垫子，所有 16 个角色保持一致的比例和透视。
+
+[English]
+Create a clean white-background anime sticker-sheet illustration showing exactly 16 chibi-style annoyed people popping up from rectangular patterned mats, arranged in a precise 4 columns by 4 rows grid. Each character is cropped at the torso behind the mat edge, with oversized heads, rosy cheeks, heavy-lidded angry eyes, small frowning mouths, expressive messy hair, thick black line art, soft cel shading, and a cute but confrontational mood. Several characters thrust an oversized index finger toward the viewer in strong foreshortened perspective as if scolding or saying “you”; others glare with folded arms or a slumped irritated posture. Use no text, no speech bubbles, no watermark, and keep generous white spacing between all stickers. The 16 discrete characters are: 1) black short wavy hair, navy hoodie, pointing, black-and-white houndstooth mat; 2) brown twin ponytails, yellow sweater, pointing, blue-and-white striped mat; 3) dark brown high ponytail, olive hoodie, pointing, pink polka-dot mat; 4) ash-blond short hair, gray cat-print shirt, pointing, teal dotted mat; 5) curly dark-brown bob with hair clips, tan jacket, pointing, gray houndstooth mat; 6) black hair in two braids, lavender sweatshirt, arms folded, blue double-border mat; 7) messy light-brown bun, cream sweater, arms crossed on peach polka-dot mat; 8) brown bob with star hair clips, cream cardigan over striped shirt, pointing, yellow dotted mat; 9) black bob, dark green hoodie, arms crossed, black-and-white houndstooth mat; 10) brown ponytail, pink sweatshirt, pointing, purple bordered mat; 11) light-brown wavy bob with round glasses, beige hoodie, worried-annoyed expression, mint polka-dot mat; 12) brown twin pigtails, dark green cardigan, flat unimpressed stare, orange dotted mat; 13) tousled brown hair, gray hoodie, pointing, pale blue houndstooth mat; 14) dark brown ponytail, olive hoodie, pointing, red mat with thin white border; 15) messy brown bun, pale yellow cardigan, pointing, pink dotted mat; 16) short black hair, charcoal sweatshirt, blushing scowl, navy dotted mat. Overall style: Japanese kawaii manga character sheet, sticker illustration, crisp outlines, flat white background, soft pastel clothing and mats, consistent scale and perspective across all 16 characters.
+```
+
+**来源：** [@小猫遊りょう（たかにゃし・りょう）](https://x.com/jaguring1/status/2074854871812161799) | 2026-07-08
+
+---
+
+### 🎨 例 3484：中国增长飞轮战略封面
+
+![中国增长飞轮战略封面](../../images/%E4%B8%AD%E5%9B%BD%E5%A2%9E%E9%95%BF%E9%A3%9E%E8%BD%AE%E6%88%98%E7%95%A5%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的麦肯锡风格战略封面 Slides，主题为 {argument name="topic" default="复利增长方法论"}，将中文字体排版与嵌入“增长”二字内部的工程化增长飞轮图相结合。
+
+画布：宽幅横向演示封面，比例约为 16:5，采用带有细微纹理的米白色纸张背景，顶部配有细黑线，并带有淡淡的灰色辅助网格线。
+
+顶部标题：左上角书写“复利时代的增长方法论 | METHODOLOGY FOR GROWTH IN THE AGE OF COMPOUND INTEREST”。右上角书写“STRATEGY COVER | GROWTH SYSTEM | EXECUTIVE INSIGHT”。使用小型大写紧凑型无衬线字体，黑色。
+
+中心布局：在中心位置放置巨大的深海军蓝中文字符“增长”，占据幻灯片大部分宽度。使字符呈现出建筑机械般的字形感：厚实的海军蓝笔画配以黑色轮廓、微妙的斜角以及嵌入的矩形模块。将一个圆形飞轮机制直接整合在两个字符之间及其后方。
+
+中心离散元素：包含 1 个由“增”和“长”组成的词。包含 1 个带有 3 个同心圆环的主圆形飞轮，配有浅灰色轮毂、蓝色弧形箭头以及外弧周围的多个小型齿轮状白色矩形块。包含 3 个位于飞轮上方并由细蓝色弧线连接的标注点：“INPUT”、“OUTPUT”和“REINVESTMENT”。包含 1 个位于飞轮下方的标签：“GROWTH ACCELERATION”。包含 2 个位于飞轮上的橙色强调节点，以及引导线上若干小型蓝色节点。包含 2 个连接在右侧字符上的对角线分段坡道，每个坡道由小型白色矩形阶梯组成。包含 1 个从构图中心右侧向右延伸的水平海军蓝箭头。在网格附近包含浅灰色的蓝图坐标标记，但保持其次要且纯装饰性的地位。
+
+底部标题：在图形下方居中书写加粗中文标题“构建可持续的螺旋增长飞轮”，下方用较小的英文大写字母书写“BUILDING A SUSTAINABLE SPIRAL GROWTH FLYWHEEL”。
+
+视觉风格：企业咨询演示文稿封面，精确的矢量插图，蓝图工程美学，深海军蓝、黑色、米白色、浅灰色，并带有少量橙色高光。使用清晰的线条、克制的色彩、大量的留白以及平衡的对称感。图表应显得严谨、专业且高端，而非俏皮。
+
+约束：保留所有可见的中文和英文文本。不要添加人物、照片、Logo、水印、阴影或额外部分。保持飞轮物理嵌入在“增长”二字中，而非单独悬浮。
+
+[English]
+Goal: Create a clean McKinsey-style strategy cover slide about {argument name="topic" default="compound-interest growth methodology"}, combining Chinese headline typography with an engineered growth flywheel diagram embedded inside the Chinese word “增长”.
+
+Canvas: Wide horizontal presentation cover, about 16:5 aspect ratio, off-white paper background with subtle grain, thin black top rule and faint gray construction grid lines.
+
+Top header: At top left, write “复利时代的增长方法论 | METHODOLOGY FOR GROWTH IN THE AGE OF COMPOUND INTEREST”. At top right, write “STRATEGY COVER | GROWTH SYSTEM | EXECUTIVE INSIGHT”. Use small uppercase condensed sans-serif text, black.
+
+Central layout: Place the huge dark navy Chinese characters “增长” across the center, occupying most of the slide width. Make the characters feel like architectural, mechanical letterforms: thick navy strokes with black outlines, subtle bevels, and embedded rectangular modules. Integrate a circular flywheel mechanism directly into and behind the characters, centered between the two characters.
+
+Discrete central elements: Include exactly 1 large word made of 2 Chinese characters: “增” and “长”. Include exactly 1 main circular flywheel with 3 concentric rings, a light gray hub, blue curved arrows, and many small gear-like white rectangular blocks around the outer arc. Include exactly 3 labeled points above the flywheel connected by a thin blue arc: “INPUT”, “OUTPUT”, and “REINVESTMENT”. Include exactly 1 label below the flywheel: “GROWTH ACCELERATION”. Include exactly 2 orange accent nodes on the flywheel and several small blue nodes on the guide lines. Include exactly 2 diagonal segmented ramps attached to the right character, each made of small white rectangular steps. Include exactly 1 horizontal navy arrow extending to the right from the center-right of the composition. Include small blueprint coordinate markings in pale gray near the grid, but keep them secondary and mostly decorative.
+
+Bottom title: Centered beneath the graphic, write the bold Chinese title “构建可持续的螺旋增长飞轮”, and below it in smaller uppercase English write “BUILDING A SUSTAINABLE SPIRAL GROWTH FLYWHEEL”.
+
+Visual style: Corporate consulting deck cover, precise vector illustration, blueprint engineering aesthetic, dark navy, black, off-white, pale gray, and small orange highlights. Use crisp linework, restrained colors, lots of white space, and balanced symmetry. The diagram should look disciplined, technical, and premium rather than playful.
+
+Constraints: Preserve the exact visible Chinese and English text. Do not add people, photos, logos, watermark, shadows, or extra sections. Keep the flywheel physically embedded into the word “增长”, not floating separately.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2074825836830876010) | 2026-07-08
+
+---
+
+### 🎨 例 3490：角色年龄一致性测试
+
+![角色年龄一致性测试](../../images/%E8%A7%92%E8%89%B2%E5%B9%B4%E9%BE%84%E4%B8%80%E8%87%B4%E6%80%A7%E6%B5%8B%E8%AF%95.jpg)
+
+**Prompt:**
+
+```text
+做一个{argument name="角色" default="女性角色"} {argument name="起始年龄" default="20岁"}到{argument name="结束年龄" default="45岁"} 六个年龄段的测试
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2074806964891373602) | 2026-07-08
+
+---
+
+### 🎨 例 3501：奇幻狐妖战士概念艺术
+
+![奇幻狐妖战士概念艺术](../../images/%E5%A5%87%E5%B9%BB%E7%8B%90%E5%A6%96%E6%88%98%E5%A3%AB%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作，超细节奇幻动漫角色概念艺术，全身拟人化 {argument name="animal type" default="狐妖战士"}，{argument name="hair style" default="银白色层次感发型，发梢带有淡淡的薰衣草色"}，巨大的毛茸茸狐耳，尖尖的精灵耳，多条巨大的毛茸茸狐尾，闪烁着 {argument name="eye color" default="琥珀金色"} 的双眼散发着柔和的光芒，表情冷静而威严。
+
+身穿华丽的白色与象牙色神社风格长袍，搭配层次感奇幻盔甲，超大和服袖口装饰着金色闪电刺绣，奢华的狼毛披肩与领口，皮革腰带，绳索，符咒，仪式铃铛，雕刻木质护身符，青铜饰品，雕花金属配件，做旧布料，精致的缝线，传统日式奇幻美学与中世纪冒险家装备的结合。
+
+手持带有雕花金属细节的华丽长矛或长柄武器，腰间配有副剑，古老的手工武器，逼真的皮革绑带与配件。
+
+蓝白色闪电能量在身体、尾巴和武器周围自然噼啪作响，微妙的魔法光环，发光的电荷粒子，柔和的体积光能量效果。
+
+自信地站在古老羊皮纸手稿背景前，背景布满天体导航图、天文图表、工程蓝图、褪色的手写笔记、几何线条、装饰性古董边框、文艺复兴时期的科学草图、复古地图纹理、陈旧纸张。
+
+柔和的象牙色、暖米色、金色与青铜色调，点缀冷蓝色电光，电影级柔光，绘画风格插画，高细节笔触，卓越的布料褶皱，逼真的毛发渲染，精致的装饰设计，奇幻 RPG 角色设定集美学，日式概念艺术，ArtStation 质量，超高分辨率，完美的人体结构，清晰的线条，优雅的构图，戏剧性的奇幻氛围，8k。
+
+[English]
+Masterpiece, ultra-detailed fantasy anime character concept art, full-body anthropomorphic {argument name="animal type" default="fox spirit warrior"}, {argument name="hair style" default="silver-white layered hair with subtle lavender tips"}, large fluffy fox ears, pointed elf ears, multiple enormous fluffy fox tails, glowing {argument name="eye color" default="amber-gold"} eyes emitting soft light, calm yet intimidating expression.
+
+Wearing ornate white and ivory shrine-inspired robes combined with layered fantasy armor, oversized kimono sleeves decorated with golden lightning bolt embroidery, luxurious wolf fur mantle and collar, leather belts, ropes, talismans, ceremonial bells, carved wooden charms, bronze ornaments, engraved metal fittings, weathered fabrics, intricate stitching, traditional Japanese fantasy aesthetic mixed with medieval adventurer equipment.
+
+Holding an ornate spear or polearm with engraved metallic details, secondary sword at the waist, ancient handcrafted weapons, realistic leather straps and accessories.
+
+Blue-white lightning energy crackling naturally around the body, tails and weapon, subtle magical aura, glowing electrical particles, soft volumetric energy effects.
+
+Standing confidently in front of an ancient parchment manuscript background filled with celestial navigation charts, astronomical diagrams, engineering blueprints, faded handwritten notes, geometric linework, decorative antique borders, Renaissance scientific sketches, vintage map textures, aged paper.
+
+Muted ivory, warm beige, gold and bronze color palette with cool blue electrical highlights, cinematic soft lighting, painterly illustration, highly detailed brushwork, exceptional fabric folds, realistic fur rendering, intricate ornamental design, fantasy RPG character sheet aesthetic, Japanese concept art, ArtStation quality, ultra high resolution, perfect anatomy, crisp linework, elegant composition, dramatic fantasy atmosphere, 8k.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2074760553017581684) | 2026-07-08
+
+---
+
+### 🎨 例 3508：汽车车牌去除与场景更换
+
+![汽车车牌去除与场景更换](../../images/%E6%B1%BD%E8%BD%A6%E8%BD%A6%E7%89%8C%E5%8E%BB%E9%99%A4%E4%B8%8E%E5%9C%BA%E6%99%AF%E6%9B%B4%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+ナンバープレートの文字・番号を消して、{argument name="走行シーン" default="山道を走っているシーン"}にしてください。
+```
+
+**来源：** [@yuuki_miyake @NARA](https://x.com/AD_CoFounder/status/2074746553366200669) | 2026-07-08
+
+---
+

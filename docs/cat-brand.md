@@ -8913,3 +8913,175 @@ Create a highly detailed vertical 4:5 anime fantasy illustration of {argument na
 
 ---
 
+### 🏷️ 例 3441：GTA VI 摩托车角色海报
+
+![GTA VI 摩托车角色海报](../../images/GTA%20VI%20%E6%91%A9%E6%89%98%E8%BD%A6%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，将摩托车上的人转换为受《Grand Theft Auto VI / Vice City》启发的手绘风格海报。保留骑手的辨识度、姿势、太阳镜、带有大号“P”补丁的白色夹克、牛仔裤、鞋子以及作为主体摩托车，但将整体风格处理为精致的游戏主视觉图，采用粗线条、光泽高光、饱和的霓虹色彩和戏剧性的赛璐珞渲染。
+
+将背景从森林路边更改为日落时的热带沿海城市：添加宽阔的林荫大道、棕榈树、柔和的装饰艺术风格建筑、海水、远处的城市天际线，以及带有柔和云层的粉橙色到蓝色的渐变天空。让摩托车看起来更具英雄气概且光洁如新，带有反光的铬合金和青色/粉色霓虹轮毂灯。使用低角度海报构图，骑手和摩托车位于前景，占据较大比例，略微朝向右侧。
+
+添加 2 个可见的文字/Logo 元素：1) 左下角的大号块状标题文字，内容为 {argument name="location title" default="LEONIDA STATE"}；2) 右上角的一个小型半透明徽章/Logo，内容为 {argument name="studio badge text" default="FICTIONAL LIFESTYLE STUDIO"}。保持整体氛围具有电影感、热带风情、时尚感，并呈现出官方开放世界犯罪游戏宣传图的质感。无需照片级真实感，不要添加额外人物，避免画面杂乱。
+
+[English]
+Using the provided reference image, transform the person on the motorcycle into a Grand Theft Auto VI / Vice City inspired illustrated poster. Preserve the rider’s recognizable identity, pose, sunglasses, white jacket with the large “P” patch, jeans, shoes, and the motorcycle as the main subject, but stylize everything as polished game key art with bold outlines, glossy highlights, saturated neon colors, and dramatic cel-shaded rendering.
+
+Change the setting from the forest roadside to a tropical coastal city at sunset: add a wide boulevard, palm trees, pastel art-deco buildings, ocean water, a distant skyline, and a warm pink-orange-to-blue gradient sky with soft clouds. Make the motorcycle look slightly more heroic and pristine with reflective chrome and teal/pink neon rim lighting. Use a low-angle poster composition with the rider and bike large in the foreground, facing slightly right.
+
+Add exactly 2 visible text/logo elements: 1) large block title text in the bottom-left reading {argument name="location title" default="LEONIDA STATE"}; 2) a small semi-transparent badge/logo in the top-right reading {argument name="studio badge text" default="FICTIONAL LIFESTYLE STUDIO"}. Keep the overall mood cinematic, tropical, stylish, and like official open-world crime game promotional artwork. No photorealism, no extra people, no clutter.
+```
+
+**来源：** [@AB](https://x.com/0xbokade/status/2074988477364768790) | 2026-07-08
+
+---
+
+### 🏷️ 例 3453：使用涂鸦进行商业产品广告设计
+
+![使用涂鸦进行商业产品广告设计](../../images/%E4%BD%BF%E7%94%A8%E6%B6%82%E9%B8%A6%E8%BF%9B%E8%A1%8C%E5%95%86%E4%B8%9A%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的产品图片作为主要参考。必须完整保留原始产品的外观，包括包装设计、Logo 位置、排版、品牌元素、颜色、比例、材质、纹理、反射、阴影、产品形状、食物外观、饮料外观、配料、标签细节以及整体品牌形象。严禁重新设计、简化、重新诠释、替换、裁剪、扭曲、重新着色或修改任何包装、Logo、品牌标识、结构细节或标签元素。产品必须保持 100% 的照片级真实感，且完全不做任何改动。在保持产品完全真实的前提下，将其打造为高端商业广告活动的主角。在生成场景之前，请智能分析产品的类别、用途、口味、配料、包装风格、品牌个性、配色方案及情感诉求。基于分析结果，自动构思一个既有趣、好玩又具有视觉吸引力，且与产品自然契合的概念。选择一个能真实强化产品属性、使用场景、生活方式、季节、口味或个性的活动——切勿选择随机或无关的内容。自动生成与所选活动相匹配的涂鸦道具，以增强视觉叙事效果。选择一个简洁的 {argument name="background" default="柔和的摄影棚背景"}，灵感应源自产品包装和品牌的主色调，在确保视觉和谐的同时，保持足够的对比度，使产品始终成为清晰的视觉焦点。将产品以动态的倾斜姿态放置，以传达动感、活力和个性。使用 {argument name="doodle style" default="随性的黑色记号笔线条"} 在产品周围绘制趣味十足的手绘涂鸦插画。仅限将以下内容绘制为涂鸦：手臂、手、腿、鞋子、面部表情（仅在合适时）、活动道具、运动线条、速度线、漩涡、冲击效果、装饰性涂鸦。产品本身必须保持完全的照片级真实感。所有涂鸦必须采用相同的黑色记号笔手绘风格，保持线条粗细一致、笔触略带瑕疵、充满表现力，并具有类似吉祥物的趣味个性。生成额外的装饰性涂鸦，以自然地补充所选概念，例如叶子、星星、气泡、闪光、五彩纸屑、飞溅效果、碎屑、花瓣、云朵、几何图形或其他相关元素。在产品下方添加真实、柔和的浮动阴影，以营造令人信服的深度感。使用高端商业产品摄影灯光，采用柔和的漫反射摄影棚照明、真实的反射、微妙的阴影、浅景深、高级修图以及奢华的广告级画质。预留充足的留白空间，以便后续添加营销标题、品牌信息或促销文案。
+
+[English]
+Use the uploaded product image as the primary reference. Preserve the original product exactly as shown, including its packaging design, logo placement, typography, branding elements, colors, proportions, materials, textures, reflections, shadows, product shape, food appearance, beverage appearance, ingredients, label details, and overall brand identity. DO NOT redesign, simplify, reinterpret, replace, crop, distort, recolor, or modify any packaging, logos, branding, structural details, or label elements. The product must remain 100% photorealistic and completely unchanged. Transform the product into the hero of a premium commercial advertising campaign while keeping the product itself entirely realistic. Before generating the scene, intelligently analyze the product's category, purpose, flavor, ingredients, packaging style, brand personality, color palette, and emotional appeal. Based on that analysis, automatically develop a fun, playful, visually engaging concept that feels naturally connected to the product. Choose an activity that authentically reinforces the product's identity, usage occasion, lifestyle, season, flavor, or personality—never something random or disconnected. Automatically generate matching doodle props that support the chosen activity and strengthen the visual storytelling. Select a clean {argument name="background" default="pastel studio background"} inspired by the dominant colors of the product packaging and branding, ensuring strong visual harmony while maintaining enough contrast for the product to remain the clear focal point. Position the product in a dynamic tilted pose that conveys movement, energy, and personality. Surround the product with playful hand-drawn doodle illustrations created using {argument name="doodle style" default="loose black marker lines"}. Illustrate ONLY the following as doodles: Arms, Hands, Legs, Shoes, Facial expression (only if appropriate), Activity props, Motion lines, Speed lines, Swirls, Impact effects, Decorative doodles. Keep the product itself completely photorealistic. All doodles must share the same hand-drawn black marker style with consistent line weight, slightly imperfect strokes, expressive energy, and a fun mascot-like personality. Generate additional decorative doodles that naturally complement the chosen concept, such as leaves, stars, bubbles, sparkles, confetti, splashes, crumbs, petals, clouds, geometric shapes, or other relevant elements. Add realistic, soft floating shadows beneath the product to create convincing depth. Use premium commercial product photography lighting with soft diffused studio illumination, realistic reflections, subtle shadows, shallow depth of field, premium retouching, and luxury advertising quality. Leave generous negative space suitable for marketing headlines, branding, or promotional copy.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2074892144339451997) | 2026-07-08
+
+---
+
+### 🏷️ 例 3469：未来感跑车蓝图
+
+![未来感跑车蓝图](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%B7%91%E8%BD%A6%E8%93%9D%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张蓝图风格的 {argument name="subject" default="未来感跑车"} 技术绘图。包含该跑车的前视图、侧视图和后视图线条图、零件爆炸草图、零件装配图以及拆解组件的结构图。使用丰富的线条和测量数值来标注每个部件的尺寸，并以灰度色调表现整体草图关系。除主体设计外，还需展示不同角度的散点缩略图。
+
+[English]
+A technical drawing of a {argument name="subject" default="futuristic sports car"} in blueprint style. Include line drawings of the sports car from the front, side, and rear views, exploded parts sketches, parts assembly diagrams, and structural diagrams of disassembled components. Use abundant lines and measurement values to indicate the dimensions of each part, with grayscale tones expressing the overall sketch relationship. In addition to the main design, also show scattered thumbnails from different angles.
+```
+
+**来源：** [@can](https://x.com/marmaduke091/status/2074866077499105416) | 2026-07-08
+
+---
+
+### 🏷️ 例 3470：动漫风格怪物猎人任务卡
+
+![动漫风格怪物猎人任务卡](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E4%BB%BB%E5%8A%A1%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的动漫奇幻游戏任务卡主视觉图，展现怪物狩猎场景，风格类似于高阶 RPG 狩猎公告。
+
+画布：宽屏电影级 16:9 插画，采用深蓝与紫色的夜色调，超精细动漫渲染，高对比度月光，发光的紫色魔法，画面叠加华丽的黑金奇幻 UI 边框。
+
+主体场景：左侧前景展示一名女性暗夜精灵猎人，名为 {argument name="character name" default="ニーナ＝ジェニュイン"}。她拥有飘逸的 {argument name="hair color" default="银紫色长发"}、尖尖的精灵耳朵、黑色小恶魔角、紫罗兰色的双眼，表情坚毅专注。她身穿黑色哥特式奇幻盔甲，肩部带有毛皮装饰，层叠的皮革与金属部件，大腿护甲，紫色披风丝带，以及发光的紫水晶点缀。她呈跪姿或战斗姿态，正拉开一把巨大的华丽黑弓，弓身带有锯齿状金属结构和发光的紫色水晶核心；箭矢瞄准右侧的怪物。
+
+怪物与环境：右侧中景/背景描绘一只从岩石湖泊中升起的巨大深渊月影龙或蛇形巨兽。它拥有修长的盘绕躯体、锯齿状的黑色鳞片、许多尖锐的棘刺、长角的头部、发光的紫色眼睛和嘴巴，紫色能量裂纹在其身体上蔓延。场景设定在暴风雨夜空下的明亮满月之下。背景为废墟般的黑曜石峡谷，有尖锐的岩石尖塔、反光的深色水面、散落的紫色水晶、魔法火花、薄雾和月光云层。
+
+UI 叠加：包含 4 个独立的华丽奇幻界面面板，内部为黑色，配有细金边、边角装饰和日文文本。面板 1 为左上角的任务等级徽章，标注为「クエストランク」，显示一个金星图标，后跟大号数字「7」。面板 2 位于顶部中央，标注为「クエスト名」，任务标题为 {argument name="quest title" default="深淵に嘯く月影"}。面板 3 为底部中央的长条形任务目标栏，标注为「クエスト内容」，内容为 {argument name="quest objective" default="深淵の月影獣を討伐し、周辺の脅威を鎮めよ。"}。面板 4 为右下角的猎人信息卡，左侧有一个小弓图标，上方标注「名前」对应角色名，上方标注「武器種」对应「弓」。
+
+风格限制：插画需精致、高细节，具备奇幻动漫概念艺术品质，线条锐利，光影富有戏剧性，深蓝色与紫色调，金色 UI 边框，无水印，无现代物品。确保弓箭手与巨龙在左右两侧清晰分离，并确保 UI 文字清晰易读，如同官方游戏任务界面一般自然融合。
+
+[English]
+Goal: Create a dramatic anime fantasy game quest-card key visual for a monster-hunting scene, styled like a high-rank RPG hunt announcement.
+
+Canvas: Wide cinematic 16:9 illustration, dark blue and violet night palette, ultra-detailed anime rendering, high contrast moonlight, glowing purple magic, ornate black-and-gold fantasy UI frames overlaid on the artwork.
+
+Main scene: On the left foreground, show one female dark-elf archer hunter named {argument name="character name" default="ニーナ＝ジェニュイン"}. She has long flowing {argument name="hair color" default="silver-lavender hair"}, pointed elf ears, small black-purple demon horns, violet eyes, and a fierce focused expression. She wears black gothic fantasy armor with fur around the shoulders, layered leather and metal pieces, thigh armor, purple cloak ribbons, and luminous amethyst accents. She is kneeling or bracing in an action pose, drawing a large ornate black bow with jagged metallic limbs and glowing violet crystal cores; the arrow is aimed toward the monster on the right.
+
+Monster and environment: On the right midground/background, depict exactly one colossal abyssal moon-shadow dragon or serpent beast rising from a rocky lake. It has a long coiling body, jagged black scales, many sharp spines, a horned head, glowing purple eyes and mouth, and violet energy cracks radiating through its body. Place it under a bright full moon in a stormy night sky. The setting is a ruined obsidian canyon with sharp rock spires, reflective dark water, scattered purple crystals, magical sparks, mist, and moonlit clouds.
+
+UI overlay: Include exactly 4 separate ornate fantasy interface panels with black interiors, thin gold borders, corner flourishes, and Japanese text. Panel 1 is the top-left quest rank badge, labeled 「クエストランク」 and showing one gold star icon followed by the large number 「7」. Panel 2 is centered near the top, labeled 「クエスト名」 with the quest title {argument name="quest title" default="深淵に嘯く月影"}. Panel 3 is a long bottom-center quest objective bar, labeled 「クエスト内容」 and containing {argument name="quest objective" default="深淵の月影獣を討伐し、周辺の脅威を鎮めよ。"}. Panel 4 is the bottom-right hunter info card with a small bow icon on the left, the label 「名前」 above the character name, and the label 「武器種」 above 「弓」.
+
+Style constraints: Make the illustration polished, high-detail, fantasy anime concept-art quality, with sharp linework, dramatic lighting, deep blues and purples, gold UI trim, no watermark, no modern objects. Keep the archer and dragon clearly separated left and right, and ensure the UI text is legible and integrated like an official game quest screen.
+```
+
+**来源：** [@ニーナ＝ジェニュイン＠AIイラスト娘](https://x.com/Nina_Genuine/status/2074864582724554875) | 2026-07-08
+
+---
+
+### 🏷️ 例 3503：赛博朋克动漫女英雄与超级都市
+
+![赛博朋克动漫女英雄与超级都市](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E8%8B%B1%E9%9B%84%E4%B8%8E%E8%B6%85%E7%BA%A7%E9%83%BD%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖屏电影级动漫科幻主视觉图，画面主体为 {argument name="character name" default="一位未来赛博朋克女英雄"}，她全身立于雨后湿润的夜间施工广场前景，采用极具张力的低角度仰拍视角。角色一致性为首要任务：一位年轻的动漫女性，拥有 {argument name="hair color" default="深紫色"} 的超长双马尾在身后飘动，紫色的双眸，自信地向上凝视，嘴角带着一丝英雄般的微笑。她身穿一件白、黑、金属色相间的未来感战斗夹克，上面带有发光的紫色电路，搭配黑色短裤、不对称的白色大腿高筒装甲袜、黑色露指手套、带有明亮紫色 Y 型灯光的厚底黑色赛博靴，以及腰带、绑带、小型科技包和半透明的深紫色燕尾服下摆或能量斗篷；在肩部增加一条飘动的小型橙红色围巾或丝带以形成对比。她的左臂向外伸展，仿佛正在操控全息影像，站姿宽大而有力。环境是一座正在建设中的高耸赛博朋克超级都市，充满了被强烈的霓虹紫和蓝色光线勾勒出的玻璃摩天大楼、全息线框建筑、透明发光立方体模块、起重机、脚手架、天线尖塔和星光点点的风暴云。天空中必须包含 2 架大型四轴货运无人机，左上方和右上方各一架，每架下方各携带 1 个发光的紫色线框立方体。在城市天际线周围包含 8 个大小和距离各异的悬浮全息立方体模块，以及许多连接建筑物的细长紫色激光引导线。包含 3 台可见的施工起重机、两侧深色的脚手架塔，以及底部 3 个微小的人类工人剪影以强调比例。潮湿的地面必须倒映出紫色的城市灯光和角色的靴子。使用 {argument name="primary neon color" default="电光紫"} 作为主导光色，辅以蓝色高光和少量的橙色施工灯光。风格：超精细日本动漫插画、光泽感赛博朋克渲染、锐利的线条、高对比度、体积光束、镜头光晕、反光的雨水坑、复杂的机械服装细节、史诗级海报构图，无文字，无水印，无 Logo。
+
+[English]
+Create a vertical 9:16 cinematic anime sci-fi key visual of {argument name="character name" default="a futuristic cyberpunk heroine"} standing full-body in the foreground of a rain-slick construction plaza at night, viewed from a dramatic low angle. Character consistency is the top priority: a young anime woman with {argument name="hair color" default="deep violet"} very long twin-tail hair flowing behind her, violet eyes, a confident upward gaze, and a slight heroic smile. She wears a white, black, and metallic futuristic combat jacket with glowing purple circuitry, black shorts, asymmetrical white thigh-high armored stockings, black fingerless gloves, chunky black cyber boots with bright purple Y-shaped lights, belts, straps, small tech pouches, and a translucent dark-purple coat tail or energy cape; add a small orange-red scarf or ribbon fluttering at her shoulder for contrast. Her left arm reaches outward as if controlling holograms, while her stance is wide and powerful. The environment is a towering cyberpunk megacity under construction, filled with glass skyscrapers outlined in intense neon purple and blue light, holographic wireframe architecture, transparent glowing cube modules, cranes, scaffolding, antenna spires, and starry storm clouds. Include exactly 2 large quadcopter cargo drones in the sky, one at the upper left and one at the upper right, each carrying 1 glowing purple wireframe cube beneath it. Include 8 distinct floating holographic cube modules around the city skyline, varying in size and distance, plus many thin purple laser guide lines connecting buildings. Include 3 visible construction cranes, dark scaffolding towers on both sides, and 3 tiny human worker silhouettes near the bottom to emphasize scale. The wet ground must mirror the purple city lights and the character’s boots. Use {argument name="primary neon color" default="electric violet"} as the dominant glow, with blue highlights and small orange construction lights. Style: ultra-detailed Japanese anime illustration, glossy cyberpunk rendering, sharp linework, high contrast, volumetric light beams, lens flares, reflective rain puddles, intricate mechanical costume details, epic poster composition, no text, no watermark, no logo.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2074755254886007288) | 2026-07-08
+
+---
+
+### 🏷️ 例 3506：酒吧里的动漫泡泡武士
+
+![酒吧里的动漫泡泡武士](../../images/%E9%85%92%E5%90%A7%E9%87%8C%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%B3%A1%E6%B3%A1%E6%AD%A6%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的动漫风格奇幻插画，描绘一位可爱的年轻女性站在一个超大的透明肥皂泡中，手持一把带鞘的武士刀。角色拥有 {argument name="hair color" default="带有紫色挑染的超长黑发"}、大大的紫罗兰色眼睛、温柔自信的微笑，以及一身甜美的洛丽塔风格装扮：淡粉色泡泡袖衬衫外搭灰粉色背带裙，配有一条宽大的棕褐色皮带、荷叶边袖口、褶皱裙摆，裙子上绣有白色樱花。在她的头部两侧各添加 1 个显眼的粉色花朵发饰，并带有丝带装饰。她斜持 1 把武士刀于腰间；刀鞘为黑色，装饰着粉色樱花、金色配件、紫色菱形缠绕刀柄，并挂有一个粉色的流苏挂饰。肥皂泡巨大、光亮、圆润且呈半透明状，像一个漂浮的球体包裹着她的下半身，表面带有强烈的虹彩反射和几个明亮的白色椭圆形高光。场景设定在 {argument name="setting" default="一个温馨、优雅的私人酒吧休息室"}：深色抛光木材、吧台、身后摆满酒瓶和玻璃器皿的架子、左侧花瓶中的樱花枝、一盏发光的圆形台灯、右侧的一盏壁灯、背景中的两把深色吧台椅，以及底部的红色花纹地毯。在右侧墙上加入一个带框的招牌，上面写着 {argument name="sign text" default="Owner's Bar Lounge"}。采用温暖的琥珀色灯光、丰富的阴影、电影级的景深效果、细腻的布料褶皱、肥皂泡和地板上的光泽反射，以及高质量的日式动漫渲染。竖构图，全身视角，角色居中，氛围奇幻而优雅，无水印，无多余角色。
+
+[English]
+Create a polished anime-style fantasy illustration of one cute young woman standing inside one oversized transparent soap bubble while holding one sheathed katana. The character has {argument name="hair color" default="very long black hair with purple highlights"}, large violet eyes, a soft confident smile, and a sweet lolita-inspired outfit: one dusty-pink pinafore dress over one pale-pink puff-sleeve blouse, one wide tan leather belt, frilled cuffs, a ruffled hem, and white cherry-blossom embroidery on the skirt. Add exactly 2 visible pink flower hair ornaments with ribbon accents, one on each side of her head. She holds exactly 1 katana diagonally across her waist; the sword has a black scabbard decorated with pink cherry blossoms, gold fittings, a purple diamond-wrapped handle, and one dangling pink tassel charm. The soap bubble is huge, glossy, perfectly round, and semi-transparent, enclosing her lower body like a floating sphere, with strong iridescent rainbow reflections and several bright white oval highlights on its surface. Set the scene in {argument name="setting" default="a warm, elegant private bar lounge"}: dark polished wood, a bar counter, shelves of liquor bottles and glassware behind her, cherry blossom branches in a vase on the left, one glowing round table lamp, one wall sconce on the right, two dark bar stools in the background, and a red patterned carpet at the bottom. Include one framed wall sign on the right reading {argument name="sign text" default="Owner's Bar Lounge"}. Use warm amber lighting, rich shadows, cinematic depth of field, detailed fabric folds, glossy reflections on the bubble and floor, and high-quality Japanese anime rendering. Vertical composition, full-body view, centered character, whimsical but elegant mood, no watermark, no extra characters.
+```
+
+**来源：** [@輝鳴紅葉🫧🌸シャボン玉のバーチャルビデオ屋](https://x.com/terunari/status/2074751777497612493) | 2026-07-08
+
+---
+
+### 🏷️ 例 3518：浪漫远洋客轮日落场景
+
+![浪漫远洋客轮日落场景](../../images/%E6%B5%AA%E6%BC%AB%E8%BF%9C%E6%B4%8B%E5%AE%A2%E8%BD%AE%E6%97%A5%E8%90%BD%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实剧照，展现一对浪漫情侣站在 20 世纪初远洋客轮船头欣赏日落的场景，营造出史诗般的历史浪漫氛围。一位留着 {argument name="hair color" default="被风吹乱的栗棕色头发"} 的年轻女性站在前方，双臂水平伸展，仿佛正在飞翔，神情宁静而充满希望地凝视着发光的地平线。一位留着深色短发、长着浅浅胡茬的年轻男性站在她身后，一只手臂环绕着她的腰部，另一只手轻轻放在她的腹部，深情地注视着她。为他们穿上复古风格的正式服装：女性身穿米色蕾丝连衣裙，腰间系着缎面腰带，外罩一件深海军蓝天鹅绒外套，袖口卷起露出米色内衬；男性身穿深色羊毛大衣，内搭浅色罗纹毛衣。将他们置于船甲板上，背景可见白色栏杆，左侧有黑色索具和金属硬件，并呈对角线穿过他们身后。背景是广阔的海洋，低垂的地平线与戏剧性的橙粉色日落交织，逐渐融入蓝紫色的云层中。在他们的面部和衣物上使用温暖的金色轮廓光，呈现真实的皮肤纹理、被风吹乱的头发、浅景深电影感、自然的胶片颗粒感、高细节、宽屏 3:2 构图、浪漫氛围，无文字，无水印。
+
+[English]
+Create a cinematic photorealistic movie still of a romantic couple standing on the bow of an early 20th-century ocean liner at sunset, evoking an epic historical romance. A young woman with {argument name="hair color" default="windblown chestnut brown hair"} stands in front with both arms stretched straight out horizontally like she is flying, gazing toward the glowing horizon with a serene, hopeful expression. A young man with short dark hair and light stubble stands close behind her, one arm wrapped around her waist and one hand resting gently on her midsection, looking at her with quiet affection. Dress them in period-inspired formal clothing: the woman wears a cream lace dress with a satin waist sash under a dark navy velvet coat with rolled beige sleeves, and the man wears a dark wool coat over a pale ribbed sweater. Place them on a ship deck with visible white railings, black rigging ropes and metal hardware framing the left side and crossing diagonally behind them. The ocean fills the background, with a low horizon and a dramatic orange-pink sunset fading into blue-purple clouds. Use warm golden rim light on their faces and clothing, realistic skin texture, wind-swept hair, shallow cinematic depth of field, natural film grain, high detail, widescreen 3:2 composition, romantic atmosphere, no text, no watermark.
+```
+
+**来源：** [@𝔸𝕝𝕖𝕛𝕒𝕟𝕕𝕣𝕠 𝔾.](https://x.com/a_galaktionov/status/2074720163551686738) | 2026-07-08
+
+---
+
+### 🏷️ 例 3528：蓝色 Decora 风格动漫少女海报
+
+![蓝色 Decora 风格动漫少女海报](../../images/%E8%93%9D%E8%89%B2%20Decora%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫时尚插画，主角是 {argument name="character name" default="Oyagi"}，一位身穿蓝、白、黑配色 Decora 街头服饰的可爱叛逆少女。采用戏剧性的高角度俯视视角，她向观众倾斜，背景为干净的白色。她留着光泽感的 {argument name="hair color" default="black"} 头发，扎着凌乱的双丸子头，带有长长的碎发和直刘海；拥有蓝色大眼睛，一只眼睛眨着，俏皮地吐着舌头，一只手拉下下眼睑，做出搞怪的表情。为她穿上叠穿的蓝白配色原宿/Decora 风格服装：条纹长袖、蓝白波点衬衫、带蕾丝边的蓝色格纹迷你裙、叠戴项链、星星耳环、发夹、毛绒挂件、手链、戒指、印花过膝袜、腿部吊带，以及布满星星、补丁、丝带和挂件的厚底蓝色运动鞋。使用鲜艳的钴蓝色、白色、黑色以及少量的亮粉色/黄色作为点缀色，线条极其细腻，带有光泽高光、半调网点、油漆飞溅、弧线、星星、闪电、涂鸦、棋盘格元素以及环绕在她周围的贴纸风格图形。在角色周围包含 8 个漂浮的吉祥物涂鸦：左上方 1 只带黄色光环的蓝色天使兔，右上方 1 只位于蓝色星爆中的白色幽灵生物，左侧中部 1 只深蓝色微笑水滴，右侧中部 1 只眼睛呈 X 型的蓝色章鱼，左下方 1 只位于黄色爆炸效果中的蓝色毛绒吉祥物，裙子附近附带 1 只粉色小毛绒生物，右下方 1 只粉色虫状脸，以及右下方 1 只白色兔状生物。在右下角添加一个小型的签名区域，显示 {argument name="date text" default="2026 年 7 月 8 日"} 和 {argument name="signature text" default="Oyagi"}。风格：超精细现代日本动漫，清晰的墨线，动态海报构图，俏皮混乱的卡哇伊朋克能量，干净的白色边距，无照片写实感，除签名和日期外不包含任何额外文字。
+
+[English]
+Create a high-energy vertical anime fashion illustration of {argument name="character name" default="Oyagi"}, a cute rebellious teenage girl in a blue, white, and black decora streetwear look, viewed from a dramatic high angle as she leans toward the viewer on a clean white background. She has glossy {argument name="hair color" default="black"} hair in messy twin buns with long loose strands and straight bangs, big blue eyes, one eye winking, her tongue playfully sticking out, and one hand pulling down her lower eyelid in a cheeky pose. Dress her in layered blue-and-white Harajuku/decora clothes: striped long sleeves, white shirt with blue polka dots, blue plaid mini skirt with lace trim, stacked necklaces, star earrings, hair clips, plush charms, bracelets, rings, patterned knee socks, leg garters, and chunky blue platform sneakers covered in stars, patches, ribbons, and charms. Use a vivid cobalt blue, white, black, and small hot-pink/yellow accent palette with extremely detailed linework, glossy highlights, halftone dots, paint splashes, swooshes, stars, lightning bolts, scribbles, checkerboard accents, and sticker-like graphics surrounding her. Include exactly 8 floating mascot doodles around the character: 1 blue angel bunny at the upper left with a yellow halo, 1 white ghost creature inside a blue starburst at the upper right, 1 dark blue smiling blob at the left middle, 1 blue octopus with X eyes at the right middle, 1 blue fluffy mascot in a yellow explosion at the lower left, 1 small pink plush creature attached near the skirt, 1 pink bug-like face at the lower right, and 1 white bunny-like creature at the lower right. Add a small handwritten signature area in the bottom right reading {argument name="date text" default="July 8, 2026"} and {argument name="signature text" default="Oyagi"}. Style: ultra-detailed modern Japanese anime, crisp ink, dynamic poster composition, playful chaotic kawaii-punk energy, clean white margins, no photo realism, no extra text beyond the signature and date.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2074703644835107263) | 2026-07-08
+
+---
+

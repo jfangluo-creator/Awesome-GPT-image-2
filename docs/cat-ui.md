@@ -6789,3 +6789,453 @@ Create an ultra-detailed cinematic concept art image of the Japanese battleship 
 
 ---
 
+### 🖥️ 例 3439：电影级 AI 模型对比网格
+
+![电影级 AI 模型对比网格](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%20AI%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 2x2 的电影级对比网格，展示由四个图像模型渲染的同一史诗奇幻场景，每个象限均使用优雅的白色斜体衬线字体进行标注。
+
+画布：宽屏 16:9 图像，尺寸约为 1200x675，精确划分为 4 个相等的面板，采用简洁的 2x2 布局，除面板间的自然缝隙外无边框。
+
+布局：四个面板排列如下：左上角标注“Midjourney v8.2”，右上角标注“Seedream 5.0 Pro”，左下角标注“Muse Image”，右下角标注“GPT Image 2”。将每个标签放置在各自面板的左上角附近，使用小号白色斜体衬线字体。
+
+主体与场景：在每个面板中，展示相同的构图概念：一位孤独的统治者或指挥官背对观众，站在高处的石制阳台或露台上，在一座宏伟的浅色石制堡垒城市中，向下方集结的庞大军队举手致意。人物身穿长款深灰色或柔和橄榄色斗篷/披风，内搭盔甲，可见后脑勺，背对观众面向军队。建筑宏伟、冷峻且古老：灰白色石墙、高塔、拱门、柱廊、庭院和仪式旗帜。军队由数千名排列整齐的士兵组成，庭院中可见部分骑兵或旗手。氛围庄重、宏大且具有电影感，如同奇幻战争电影。
+
+面板细节：精确包含 4 个面板。面板 1，“Midjourney v8.2”：阳台上身披斗篷的统治者，非常对称的宏伟庭院，堡垒外远处的山脉，成排的士兵和旗帜，冷色调的去饱和蓝灰色光影。面板 2，“Seedream 5.0 Pro”：更近的阳台视角，右侧有拱形柱廊，密集的士兵人群填满庭院，朦胧的浅色石质氛围，指挥官举起右手。面板 3，“Muse Image”：左下视角，指挥官形象稍大且色调更深，举起戴手套的手，高大的矩形石制护栏，下方是网格状排列的庞大军队，堡垒墙壁在阴天背景下向远处延伸。面板 4，“GPT Image 2”：更朦胧柔和的视角，指挥官居中，斗篷背部有刺绣，举起的手部分呈半透明或有动态模糊，军队呈长条汇聚排列，前景有白色石柱和旗帜。
+
+视觉风格：照片级真实感的电影剧照，高奇幻史诗尺度，去饱和冷色调分级，雾气弥漫的空气透视，柔和的阴天光线，浅色石质纹理，细腻的胶片颗粒，严肃的戏剧性基调，无现代物体。
+
+场景的可自定义核心提示词：描绘 {argument name="main character" default="一位身披斗篷的盔甲统治者"} 俯瞰 {argument name="army description" default="一支数千人组成的庞大仪式化队列军队"}，身处 {argument name="location" default="一座宏伟的白石奇幻堡垒城市"}，采用 {argument name="lighting" default="冷色调去饱和阴天电影光影"}，并标注对比 {argument name="model labels" default="Midjourney v8.2, Seedream 5.0 Pro, Muse Image, GPT Image 2"}。
+
+约束：在所有四个面板中保持相同的场景类型，保留精确的 2x2 对比布局和 4 个标签，避免额外的说明文字，避免 Logo，避免水印，避免明亮饱和的色彩，并保持图像的电影感而非插画感。
+
+[English]
+Goal: Create a cinematic 2x2 comparison grid showing the same epic fantasy scene rendered by four image models, with each quadrant labeled in elegant white italic serif text.
+
+Canvas: Wide 16:9 image, approximately 1200x675, divided into exactly 4 equal panels in a clean 2x2 layout with no borders beyond the natural panel seams.
+
+Layout: The four panels are arranged as follows: top-left labeled “Midjourney v8.2”, top-right labeled “Seedream 5.0 Pro”, bottom-left labeled “Muse Image”, bottom-right labeled “GPT Image 2”. Place each label near the upper-left corner of its panel in small white italic serif typography.
+
+Subject and scene: In every panel, show the same composition concept: a lone ruler or commander seen from behind, standing on a high stone balcony or terrace, raising one hand in salute over a vast assembled army in a monumental pale stone fortress city. The figure wears a long dark-gray or muted olive cloak/cape over armor, with the back of the head visible, facing away from the viewer toward the army. The architecture is massive, cold, and ancient: white-gray stone walls, tall towers, arches, colonnades, courtyards, and ceremonial banners. The army consists of thousands of small soldiers arranged in orderly ranks across the courtyard, with some mounted riders or standard bearers visible near the sides. The mood is solemn, imperial, and cinematic, like a fantasy war film.
+
+Panel-specific details: Count exactly 4 panels. Panel 1, “Midjourney v8.2”: central cloaked ruler on a balcony, very symmetrical grand courtyard, distant mountains beyond the fortress, rows of soldiers and banners, cool desaturated blue-gray lighting. Panel 2, “Seedream 5.0 Pro”: closer balcony view with arched colonnade on the right, dense crowd of soldiers filling the courtyard, misty pale stone atmosphere, commander raises the right hand. Panel 3, “Muse Image”: lower-left view with commander slightly larger and darker, raised gloved hand, high rectangular stone parapet, enormous army in grid formation below, fortress walls stretching into the distance under cloudy sky. Panel 4, “GPT Image 2”: hazier and softer view, commander centered with embroidered cape back, raised hand partly translucent or motion-blurred, army in long converging ranks, white stone pillars and banners in the foreground.
+
+Visual style: Photorealistic cinematic still, high fantasy epic scale, desaturated cold color grading, foggy atmospheric perspective, soft overcast light, pale stone textures, subtle film grain, serious dramatic tone, no modern objects.
+
+Customizable core prompt for the scene: depict {argument name="main character" default="a cloaked ruler in armor"} overlooking {argument name="army description" default="a vast army of thousands arranged in ceremonial ranks"} inside {argument name="location" default="a monumental white-stone fantasy fortress city"}, with {argument name="lighting" default="cold desaturated overcast cinematic lighting"} and labels comparing {argument name="model labels" default="Midjourney v8.2, Seedream 5.0 Pro, Muse Image, GPT Image 2"}.
+
+Constraints: Keep the same scene type in all four panels, preserve the exact 2x2 comparison layout and the exact 4 labels, avoid extra captions, avoid logos, avoid watermarks, avoid bright saturated colors, and keep the image cinematic rather than illustrative.
+```
+
+**来源：** [@V](https://x.com/VictorInFocus/status/2075003215347601734) | 2026-07-08
+
+---
+
+### 🖥️ 例 3442：动漫风格冰龙狩猎任务界面
+
+![动漫风格冰龙狩猎任务界面](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%86%B0%E9%BE%99%E7%8B%A9%E7%8C%8E%E4%BB%BB%E5%8A%A1%E7%95%8C%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影级动漫奇幻 RPG 任务界面，展示一位年轻的恶魔猎人少女在冰封山脉荒野中挑战巨型冰龙的场景。
+
+画布：16:9 宽屏游戏 UI 插画，高细节动漫主视觉图，戏剧性视角，清晰的奇幻渲染，紫色与冰蓝色调，明亮蓝天下的雪峰。
+
+主体：左侧前景展示 {argument name="character name" default="Nina Jenewine"}，一位凶猛娇小的动漫猎人少女，拥有极长的 {argument name="hair color" default="淡薰衣草色"} 飘逸长发、紫色双眸、尖尖的精灵耳、黑色与紫色相间的小恶魔角，以及自信且张口呐喊的战斗表情。她身穿深色哥特式猎人盔甲：黑色毛皮肩饰、紫黑色胸甲、黑色短裙、大腿高筒铠甲靴、护手、蝙蝠翼装饰、尖刺镶边、紫色宝石以及破损飘逸的紫色斗篷。姿势设定为低姿态且充满动感，仿佛正向前猛冲，双手紧握一把巨大的锯齿状巨剑。巨剑尺寸夸张，由黑钢与银制成，带有发光的紫色符文裂纹和荆棘状装饰，斜向延伸跨越画面下半部分。
+
+怪物与环境：右侧背景展示一条巨大的蛇形冰晶龙，体型远超猎人，盘旋于天空与群山之间。它拥有修长的躯体、翼状冰鳍、许多参差不齐的冰刺、深蓝色鳞片、发光的紫色晶体生长物，以及张开的咆哮巨口，口中散发着紫色光芒。周围环绕着飞雪、冰屑、破败的岩石悬崖、远处的雪山以及散落的紫色魔法粒子。强调比例：巨龙占据画面右上半部分，而猎人占据左侧前景。
+
+UI 布局：添加 4 个带有金色花丝边框的华丽暗黑奇幻游戏界面面板。面板 1：左上角任务等级徽章，盾牌形状，包含日文标签「クエストランク」以及带有数字「8」的大金星。面板 2：顶部中央标题牌，带有日文标签「クエスト名」以及任务标题 {argument name="quest title" default="氷裂の咆哮"}。面板 3：底部中央目标牌，带有日文标签「クエスト内容」以及目标文本 {argument name="objective text" default="極域を統べる氷晶獣を討伐せよ。"}。面板 4：右下角猎人信息卡，包含一个小型的矛与剑图标、日文标签「名前」和「武器種」、显示的名称 {argument name="displayed hunter name" default="ニーナ＝ジェニュイン"} 以及武器类型「大剣」。
+
+视觉风格：高品质日式手游 / 怪物狩猎任务启动界面，华丽的中世纪 UI，深金色边框，史诗级动作构图，高对比度光影，细腻的布料与盔甲质感，发光的紫色魔法，雪雾，油画质感的动漫风格。
+
+约束：保持图像文字清晰可辨，且仅放置在指定的四个 UI 面板内。不要添加额外的 UI 卡片、多余角色、水印、Logo 或现代物品。
+
+[English]
+Goal: Create a cinematic anime fantasy RPG quest screen showing a young demon-like hunter challenging a colossal ice dragon in a frozen mountain wilderness.
+
+Canvas: Wide 16:9 game UI illustration, high-detail anime key art, dramatic perspective, crisp fantasy rendering, violet and icy blue color palette, snowy peaks under a bright blue sky.
+
+Main subject: In the left foreground, show {argument name="character name" default="Nina Jenewine"}, a fierce petite anime hunter girl with very long flowing {argument name="hair color" default="pale lavender"} hair, purple eyes, pointed elf ears, small black-and-purple demon horns, and a confident open-mouthed battle expression. She wears dark gothic hunter armor: black fur shoulder mantle, purple-black chest armor, short black skirt, armored thigh-high boots, gauntlets, bat-wing accents, spiked trim, violet gemstones, and a tattered flowing purple cape. Pose her low and dynamic as if lunging forward, gripping an enormous jagged greatsword with both hands. The greatsword is oversized, black steel and silver with glowing purple runic cracks and thorn-like ornamentation, extending diagonally across the lower half of the image.
+
+Monster and environment: In the right background, show one gigantic serpentine ice crystal dragon, vastly larger than the hunter, coiled through the sky and mountains. It has a long body, wing-like icy fins, many jagged frozen spines, dark blue scales, luminous violet crystal growths, and a roaring open mouth glowing purple. Surround it with blowing snow, ice shards, ruined rocky cliffs, distant snowy mountains, and scattered purple magical particles. Emphasize scale: the dragon fills the upper-right half while the hunter dominates the left foreground.
+
+UI layout: Add exactly 4 ornate dark fantasy game interface panels with gold filigree borders. Panel 1: top-left quest rank badge, shield-shaped, containing the Japanese label 「クエストランク」 and a large gold star with the number 「8」. Panel 2: top-center title plaque with the Japanese label 「クエスト名」 and the quest title {argument name="quest title" default="氷裂の咆哮"}. Panel 3: bottom-center objective plaque with the Japanese label 「クエスト内容」 and objective text {argument name="objective text" default="極域を統べる氷晶獣を討伐せよ。"}. Panel 4: bottom-right hunter information card containing a small spear-and-sword icon, the Japanese labels 「名前」 and 「武器種」, the displayed name {argument name="displayed hunter name" default="ニーナ＝ジェニュイン"}, and weapon type 「大剣」.
+
+Visual style: Premium Japanese mobile RPG / monster hunting quest splash screen, ornate medieval UI, dark gold borders, epic action composition, high contrast lighting, detailed fabric and armor, glowing purple magic, snow mist, painterly anime finish.
+
+Constraints: Keep the image text legible and placed inside the four specified UI panels only. Do not add extra UI cards, extra characters, watermarks, logos, or modern objects.
+```
+
+**来源：** [@ニーナ＝ジェニュイン＠AIイラスト娘](https://x.com/Nina_Genuine/status/2074984372676309237) | 2026-07-08
+
+---
+
+### 🖥️ 例 3447：Z-Seven AI 产品矩阵 Slides
+
+![Z-Seven AI 产品矩阵 Slides](../../images/Z-Seven%20AI%20%E4%BA%A7%E5%93%81%E7%9F%A9%E9%98%B5%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="Z-Seven"} 创建一张简洁且具有未来感的中文科技产品矩阵 Slides，展示团队的核心 AI 原生产品阵容。
+
+画布：16:9 横向演示 Slides，白色至极浅蓝色背景，带有微妙的电路板纹理、微小的点阵科技图案、细连接线、柔和阴影，呈现出精致的 SaaS/AI 初创公司美学。
+
+标题：居中的大标题，采用深海军蓝和亮蓝色：{argument name="headline text" default="Z-Seven 团队核心产品矩阵"}。下方是一个较小的灰蓝色副标题：{argument name="subtitle text" default="围绕 AI 原生开发体验，构建设计、记忆、框架与终端工具链"}。
+
+布局：在中心圆形枢纽周围，以 2×2 网格排列 4 个圆角矩形产品卡片。卡片为带有微妙阴影、柔和边框的大型白色面板，左侧边缘或角落带有彩色强调线条。用淡淡的蓝色连接线和小节点将四张卡片与中心连接起来。在中心放置一个圆形徽章，内含风格化的蓝色 Z 标志和“ZSEVEN”字样。
+
+产品卡片：包含 4 张卡片，每张卡片包含一个 Logo、一个产品名称、一段两行描述以及 3 个胶囊状标签。
+1. 左上卡片：产品名称“OpenPencil”，采用亮青蓝色。左侧为大型棱角分明的蓝色铅笔/Z 型 Logo。描述：“AI 原生矢量设计工具，\n让 Prompt 直接连接实时画布。” 标签（共 3 个）：“Design-as-Code”、“开发 Agent Teams”、“实时画布”。
+2. 右上卡片：产品名称“Noema”，采用鲜艳蓝色。极简蓝色渐变 N 型 Logo，带有三条短水平动感线条。描述：“面向 Coding Agent 的\n本地优先记忆系统。” 标签（共 3 个）：“Local-first”、“词法召回”、“审核队列”。
+3. 左下卡片：产品名称“Jian”，采用绿色。Logo 类似于细绿色圆圈内的汉字“简”，带有一个类似竹子的垂直小标记。描述：“Rust 原生跨平台 UI 框架，\n.op 文件即应用。” 标签（共 3 个）：“Rust-native”、“Cross-platform”、“ .op App”。
+4. 右下卡片：产品名称“Zode”，采用紫蓝色渐变。Logo 是一个紫与海军蓝配色的粗体未来感 Z/终端符号。描述：“AI 原生终端编码 CLI，\n面向高效开发工作流。” 标签（共 3 个）：“CLI”、“插件架构”、“全屏 TUI”。
+
+页脚：添加一个圆角水平底部栏，带有细蓝线和圆点装饰。在中心显示 4 个由箭头分隔的工作流步骤：“Design → Memory → Framework → CLI”。下方添加中文小字说明：“从创作到编码，形成完整的 AI 工具协作闭环”。
+
+视觉风格：现代企业级 AI 产品 Slides，清晰的矢量风格排版，蓝色/青色/紫色/绿色点缀，柔和的渐变，高可读性，无照片纹理，无水印。使用平衡的页边距，确保所有文字清晰易读。
+
+[English]
+Goal: Create a clean futuristic Chinese tech product matrix slide for {argument name="brand name" default="Z-Seven"}, showing the team’s core AI-native product lineup.
+
+Canvas: 16:9 horizontal presentation slide, white to very pale blue background, subtle circuit-board traces, tiny dotted tech patterns, thin connector lines, soft shadows, glossy SaaS/AI startup aesthetic.
+
+Header: Large centered headline in dark navy and bright blue: {argument name="headline text" default="Z-Seven 团队核心产品矩阵"}. Under it, a smaller gray-blue subtitle: {argument name="subtitle text" default="围绕 AI 原生开发体验，构建设计、记忆、框架与终端工具链"}.
+
+Layout: Arrange exactly 4 rounded rectangular product cards in a 2×2 grid around a central circular hub. The cards are large white panels with subtle shadows, soft borders, and colored accent strokes on the left edge or corner. Connect all four cards to the center with faint blue connector lines and small node dots. In the center, place a circular badge containing a stylized blue Z logo and the text “ZSEVEN”.
+
+Product cards: Include exactly 4 cards, each with one logo, one product name, one two-line description, and exactly 3 pill-shaped tags.
+1. Top-left card: Product name “OpenPencil” in bright cyan-blue. Large angular blue pencil/Z style logo on the left. Description: “AI 原生矢量设计工具，\n让 Prompt 直接连接实时画布。” Tags, exactly 3: “Design-as-Code”, “开发 Agent Teams”, “实时画布”.
+2. Top-right card: Product name “Noema” in vivid blue. Minimal blue gradient N-like logo with three short horizontal motion lines. Description: “面向 Coding Agent 的\n本地优先记忆系统。” Tags, exactly 3: “Local-first”, “词法召回”, “审核队列”.
+3. Bottom-left card: Product name “Jian” in green. Logo resembles the Chinese character “简” inside a thin green circular outline with a small bamboo-like vertical mark. Description: “Rust 原生跨平台 UI 框架，\n.op 文件即应用。” Tags, exactly 3: “Rust-native”, “Cross-platform”, “.op App”.
+4. Bottom-right card: Product name “Zode” in purple-blue gradient. Logo is a bold futuristic Z/terminal symbol in purple and navy. Description: “AI 原生终端编码 CLI，\n面向高效开发工作流。” Tags, exactly 3: “CLI”, “插件架构”, “全屏 TUI”.
+
+Footer: Add a rounded horizontal bottom bar with a thin blue line and dot accents. In the center, show exactly 4 workflow steps separated by arrows: “Design → Memory → Framework → CLI”. Beneath it, add the small Chinese caption: “从创作到编码，形成完整的 AI 工具协作闭环”.
+
+Visual style: Modern enterprise AI product slide, crisp vector-like typography, blue/cyan/purple/green accents, soft gradients, high readability, no photo texture, no watermark. Use balanced margins and make all text sharp and legible.
+```
+
+**来源：** [@Fini.Yang](https://x.com/FiniYang/status/2074920874344591504) | 2026-07-08
+
+---
+
+### 🖥️ 例 3449：Bass Nun 模型对比
+
+![Bass Nun 模型对比](../../images/Bass%20Nun%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张方形并排对比图，展示同一概念的两种暗黑奇幻风格生成结果：一位身穿白衣的哥特修女在废弃大教堂内手持黑色贝斯吉他，顶部带有黑色标题栏。
+
+画布：方形 1:1 图像，精确拆分为 2 个相等的垂直面板，中间由一条细白线分隔。在顶部全宽处添加一个黑色标题带。
+
+顶部文字：在标题带中放置 2 个精确的白色无衬线标签：左侧标签“{argument name="left model label" default="GPT Image 2"}”居中于左侧面板上方，右侧标签“{argument name="right model label" default="Seedream 5.0 pro"}”居中于右侧面板上方。使用大号简洁的白色字体，不包含其他排版。
+
+左侧面板：简洁的电影级英雄镜头。画面中心为 1 位年轻苍白的哥特修女，留着长长的铂金色头发，戴着白色连帽面纱，表情严肃，身穿层叠的白色长袍，系着深色腰带，肩部有微妙的盔甲状装饰。她全身站立，面向前方，斜挎着 1 把光亮的黑色电贝斯吉他。她身后是 1 座巨大的黑色石十字架，悬挂或安装在废弃大教堂的高处。大教堂狭窄、灰暗、破败，布满藤蔓、断裂的拱门、灰尘、薄雾，以及从高窗射入的冷光。她周围有 6 个清晰可见的蹲伏外星人/恶魔剪影：左侧前/中景附近 2 个，右侧中景附近 2 个，底部前景边缘部分可见 2 个。氛围克制、平实、胶片扫描感、单色灰调、构图整洁、具有强烈的中心对称性。
+
+右侧面板：同一场景更具戏剧性的动作恐怖版本。画面中心为 1 位年轻苍白的哥特修女，留着长长的铂金色头发，戴着白色连帽面纱，身穿白色长袍，系着深色腰带，斜挎着 1 把黑色电贝斯吉他。她身后是 1 座巨大的黑色石十字架，被从破损大教堂窗户射入的强烈耶稣光逆光照亮。废弃的大教堂更宽阔、更深邃、更混乱，布满扭曲的有机藤蔓、拱形墙壁、瓦砾、烟雾，以及高对比度的青灰色灯光。包含 14 个清晰可见的恶魔/外星人形象：左侧 5 个，右侧 5 个，背景中心 2 个，底部角落 2 个局部前景生物。它们应呈现为逼近修女的威胁性群体。氛围充满恐惧、动态、电影感，具有更强的轮廓光和体积光束。
+
+视觉风格：暗黑奇幻哥特写实主义，超精细但不油腻，采用黑色、炭色、骨白色、银灰色和淡淡蓝绿色的冷色调调色板。修女的白色服装必须始终是两个面板中最亮的主体。运用宏大的大教堂比例、湿润的石地板纹理、尘埃颗粒和恐怖氛围。
+
+约束：保持图像为对比双联画，而非两个独立文件。包含精确的 2 个面板、2 个顶部标签、总计 2 位修女、总计 2 把贝斯吉他、总计 2 座大型十字架。无水印、无额外说明、无徽标、无其他文字。
+
+[English]
+Goal: Create a square side-by-side comparison image showing two dark fantasy generations of the same concept: a white-clad gothic nun holding a black bass guitar inside a ruined cathedral, with a black title bar across the top.
+
+Canvas: Square 1:1 image, split into exactly 2 equal vertical panels separated by a thin white divider line. Add a black header band across the full width at the top.
+
+Top text: Place exactly 2 white sans-serif labels in the header band: left label “{argument name="left model label" default="GPT Image 2"}” centered over the left panel, right label “{argument name="right model label" default="Seedream 5.0 pro"}” centered over the right panel. Use large clean white text, no other typography.
+
+Left panel: A clean cinematic hero shot. Center exactly 1 young pale gothic nun with long platinum-blonde hair under a white hooded veil, stern expression, wearing layered white robes with a dark belt and subtle armor-like shoulder pieces. She stands full body, facing forward, holding exactly 1 glossy black electric bass guitar diagonally across her waist. Behind her is exactly 1 enormous dark stone cross suspended or mounted high in the ruined cathedral. The cathedral is narrow, gray, decayed, filled with vines, broken arches, dust, mist, and cold shafts of light from tall windows. Around her are exactly 6 visible crouching alien/demon silhouettes: 2 near the left foreground/midground, 2 near the right midground, and 2 partially visible in the lower foreground edges. Mood is restrained, flat, scanned-film, monochrome gray, clean composition, strong centered symmetry.
+
+Right panel: A more dramatic action-horror version of the same scene. Center exactly 1 young pale gothic nun with long platinum-blonde hair under a white hooded veil, wearing white robes and a dark belt, holding exactly 1 black electric bass guitar across her waist. Behind her is exactly 1 enormous dark stone cross, backlit by intense god rays pouring through broken cathedral windows. The ruined cathedral is wider, deeper, more chaotic, with twisted organic vines, arched walls, rubble, smoky haze, and high-contrast teal-gray lighting. Include exactly 14 visible demon/alien figures: 5 on the left side, 5 on the right side, 2 in the center background, and 2 partial foreground creatures at the bottom corners. They should appear as a menacing swarm approaching the nun. Mood is dread-filled, dynamic, cinematic, with stronger rim light and volumetric beams.
+
+Visual style: Dark fantasy gothic realism, ultra-detailed but not glossy, cold desaturated palette of black, charcoal, bone white, silver gray, and faint blue-green. The nun’s white outfit must remain the brightest subject in both panels. Use dramatic cathedral scale, wet stone floor texture, dust particles, and horror atmosphere.
+
+Constraints: Keep the image as a comparison diptych, not two separate files. Include exactly 2 panels, exactly 2 top labels, exactly 2 nuns total, exactly 2 bass guitars total, and exactly 2 large crosses total. No watermark, no extra captions, no logos, no additional text.
+```
+
+**来源：** [@Mr.Iancu](https://x.com/Iancu_ai/status/2074903826050564294) | 2026-07-08
+
+---
+
+### 🖥️ 例 3464：LartAI 下载步骤教程
+
+![LartAI 下载步骤教程](../../images/LartAI%20%E4%B8%8B%E8%BD%BD%E6%AD%A5%E9%AA%A4%E6%95%99%E7%A8%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张宽幅教程风格的截图图形，展示 LartAI 图像生成 Web 应用界面，并附带下载生成图像的操作说明覆盖层。
+
+画布：1200×552 水平屏幕截图构图，明亮的白色 UI，简洁的 SaaS 仪表板外观，细灰色分隔线，小图标，以及大量的留白。
+
+布局：完整的浏览器应用界面。左侧边栏占据约 12% 的宽度，顶部导航栏横跨全宽，中央工作区包含一张大型生成的正方形图像，右侧示例栏包含小型缩略图。在左侧中心添加醒目的标注，文字为“Step 5: Download”，使用黑色打字机/等宽字体，并配有一个带黑色轮廓的巨大黄色弯曲箭头，指向生成图像上方顶部工具栏中的小型下载图标。
+
+顶部导航：左上角显示 LartAI 标志。顶部包含 7 个主要导航项：“Explore”、“Image Creation”（高亮并带有蓝色下划线）、“Video Creation”、“3D Creation”、“Smart Apps”、“Agent”、“Smart Canvas”以及“Cine Studio”；在 Agent 和 Smart Canvas 附近放置红色“New”小徽章。右侧显示“Credits: 120”、胶囊按钮“Pricing”和“History”、小型实用图标，以及一个带有字母“B”的紫色圆形头像，后跟用户名 {argument name="user name" default="Bubu"}。
+
+左侧边栏：在“AI Creation”标题下，显示 14 个可见工具条目：“Image Generate”（蓝色选中状态）、“Image Toolkit”、“Edit”（带“Nano”小标签）、“Combine”（带“Nano”小标签）、“Inpaint”、“Erase”、“Outpaint”、“Upscale”、“Restore”、“Remove BG”、“Remove Watermark”、“Video Generate”（带“Veo”小标签）、“Video Toolkit”以及“3D Generate”（带“New”小标签）。底部包含微小的页脚文本链接和社交图标，类似于服务条款/隐私政策/退款政策/关于我们及联系方式。
+
+中央生成图像：显示一张正方形时尚编辑照片，内容为 {argument name="main subject" default="一位戴着太阳镜、身穿黑色西装外套、黑色露脐上衣、黑色长裤和系带高跟鞋的时髦女性"} 倚靠在 {argument name="vehicle" default="一辆亮黑色福特野马"} 前方，背景为黄金时段的城市街道。主体坐在车盖/前角，一条腿弯曲，背景有棕榈树和现代建筑，温暖的电影感阳光，逼真的阴影，高端时尚和豪华汽车摄影风格。在这张生成图像的右下角添加一个深色的“LartAI”小水印。
+
+工具栏和控件：在正方形图像上方，显示一行小型方形操作图标，黄色箭头专门指向下载图标。在大型图像下方，横向显示 4 个小型方形结果缩略图，第一个缩略图用蓝色边框选中。
+
+右侧示例面板：显示标题“Examples ×”和 3 个堆叠的示例缩略图：一张深色汽车/时尚图像、一张黄色花卉图像和一张女性面部肖像。在它们下方显示 2 个小型文本控件：“Shuffle”和“More”。
+
+底部提示词区域：包含一个大型提示词输入框，左侧有一个加号按钮，可见的文本提示词以“sunlight creates cinematic rim lighting, soft shadows, and a premium editorial atmosphere...”开头，部分单词带有红色下划线拼写检查标记。在下方显示控件，包括“GPT Image 2”、“medium auto”、“More Settings”、“Deep Tune”、“4/2”指示器、“Reset”以及一个蓝色圆形发送按钮。
+
+文本覆盖：标注文本必须准确显示为 {argument name="step label" default="Step 5:\nDownload"}。使用非常大的黑色粗体打字机字体。箭头应为亮黄色，带有粗黑色轮廓，呈弯曲状，从文本区域指向顶部工具栏的下载按钮。
+
+约束：保持简洁的 Web 应用截图风格，所有 UI 文本保持为英文，使用清晰的小型界面字体，无浏览器边框，无额外弹窗，且不添加额外的操作步骤。
+
+[English]
+Goal: Create a wide tutorial-style screenshot graphic showing the LartAI image generation web app interface with an instructional overlay for downloading a generated image.
+
+Canvas: 1200×552 horizontal screen capture composition, bright white UI, clean SaaS dashboard look, thin gray dividers, small icons, and lots of empty white space.
+
+Layout: Full browser-app interface. A left sidebar occupies about 12% of the width, a top navigation bar spans the full width, the central workspace contains one large generated square image, and a right examples strip contains small thumbnails. Add a bold annotation on the left-center reading “Step 5: Download” in a black typewriter/monospace font, with a large curved yellow arrow outlined in black pointing upward toward the small download icon in the top toolbar above the generated image.
+
+Top navigation: Show the LartAI logo at top left. Include exactly 7 main navigation items across the top: “Explore”, “Image Creation” highlighted/underlined in blue, “Video Creation”, “3D Creation”, “Smart Apps”, “Agent”, “Smart Canvas”, and “Cine Studio”; place small red “New” badges near Agent and Smart Canvas. On the right, show “Credits: 120”, pill buttons “Pricing” and “History”, small utility icons, and a purple circular avatar with the letter “B” followed by the username {argument name="user name" default="Bubu"}.
+
+Left sidebar: Under the “AI Creation” heading, show exactly 14 visible tool entries: “Image Generate” selected in blue, “Image Toolkit”, “Edit” with a small “Nano” tag, “Combine” with a small “Nano” tag, “Inpaint”, “Erase”, “Outpaint”, “Upscale”, “Restore”, “Remove BG”, “Remove Watermark”, “Video Generate” with a small “Veo” tag, “Video Toolkit”, and “3D Generate” with a small “New” tag. At the bottom, include tiny footer text links and social icons, resembling Terms/Privacy/Refund Policy/About and contact details.
+
+Central generated image: Display a square fashion editorial photo of {argument name="main subject" default="a stylish woman wearing sunglasses, a black blazer, black crop top, black trousers, and strappy heels"} leaning against the front of {argument name="vehicle" default="a glossy black Ford Mustang"} on a city street at golden hour. The subject sits on the car hood/front corner with one leg bent, palm trees and modern buildings in the background, warm cinematic sunlight, realistic shadows, high-end fashion and luxury automotive photography. Add a small dark “LartAI” watermark in the lower-right corner of this generated image.
+
+Toolbar and controls: Above the square image, show a row of small square action icons, with the yellow arrow specifically pointing at the download icon. Beneath the large image, show exactly 4 small square result thumbnails in a row, with the first thumbnail selected using a blue border.
+
+Right examples panel: Show the heading “Examples ×” and exactly 3 stacked example thumbnails: a dark car/fashion image, a yellow floral image, and a woman’s face portrait. Below them show exactly 2 small text controls: “Shuffle” and “More”.
+
+Bottom prompt area: Include a large prompt input box with a plus button at its left and a visible text prompt beginning with “sunlight creates cinematic rim lighting, soft shadows, and a premium editorial atmosphere...” and containing underlined red spellcheck marks on some words. Below it, show controls including “GPT Image 2”, “medium auto”, “More Settings”, “Deep Tune”, a “4/2” indicator, “Reset”, and a blue circular send button.
+
+Text overlay: The annotation text must read exactly {argument name="step label" default="Step 5:\nDownload"}. Use very large black bold typewriter lettering. The arrow should be bright yellow with a thick black outline, curved, and point from the text region toward the top toolbar download button.
+
+Constraints: Preserve the clean web-app screenshot style, keep all UI text in English, use crisp small interface typography, no browser chrome, no extra popups, and no additional instructional steps.
+```
+
+**来源：** [@Bairan](https://x.com/OxBairan/status/2074875841918709818) | 2026-07-08
+
+---
+
+### 🖥️ 例 3485：深褐色动漫室内乐三重奏
+
+![深褐色动漫室内乐三重奏](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8A%A8%E6%BC%AB%E5%AE%A4%E5%86%85%E4%B9%90%E4%B8%89%E9%87%8D%E5%A5%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形动漫风格的专辑封面插画，描绘 {argument name="ensemble name" default="三位优雅的年轻古典音乐家"} 在装饰华丽的古董沙龙中演奏的场景。画面需包含 3 位坐着的音乐家：左侧为一位身穿黑色西装、棕色头发的大提琴手，正在演奏大提琴；中间为一位银灰色长辫发色的小提琴手，身体略微前倾演奏；右侧为一位白色乱发的小提琴手，以微斜的角度坐着。三人均身着正式的黑色西装，内搭白衬衫，系深色领带，身形修长，表情严肃专注，五官精致，具有美少年特征。房间应为装饰华丽的欧式复古室内风格，左侧有高大的明亮窗户、蕾丝窗帘、花纹壁纸、雕花木椅、壁炉架、烛台、花卉画框、花瓶、精致的装饰线条以及花纹地毯。采用深褐色单色调，包含暖米色、棕色、象牙白和黑色墨水色调，运用高细节的漫画线条、绘画感阴影、戏剧性的柔和窗光、优雅的阴影、细腻的乐器木纹，营造出忧郁的室内乐氛围。构图应紧凑且近距离拍摄，大提琴占据左下角前景，两把小提琴分别斜向横跨中心和右侧，琴弓形成强烈的对角线，画面无文字、无 Logo、无水印。
+
+[English]
+Create a square anime-style album-cover illustration of {argument name="ensemble name" default="three elegant young male classical musicians"} performing in an ornate antique salon. Show exactly 3 seated musicians: left, a brown-haired cellist in a black suit playing a large cello; center, a silver-gray-haired violinist with a long braid playing violin while seated slightly forward; right, a tousled white-haired violinist playing violin, seated at a slight diagonal angle. All three wear formal black suits with white shirts and dark ties, refined slim silhouettes, serious focused expressions, and delicate bishonen facial features. The room should be a richly decorated European vintage interior with tall bright windows on the left, lace curtains, patterned wallpaper, carved wooden chairs, a mantelpiece, candelabras, framed floral paintings, vases of flowers, ornate trim, and a patterned carpet. Use a sepia monochrome palette with warm beige, brown, ivory, and black ink tones, high-detail manga linework, painterly shading, dramatic soft window light, elegant shadows, intricate instrument wood grain, and a melancholic chamber-music mood. Composition should be intimate and cropped close, with the cello dominating the lower left foreground, the two violins angled across the center and right, bows forming strong diagonals, no visible text, no logo, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2074823942813196746) | 2026-07-08
+
+---
+
+### 🖥️ 例 3507：土耳其市场杂货商写实照片
+
+![土耳其市场杂货商写实照片](../../images/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B8%82%E5%9C%BA%E6%9D%82%E8%B4%A7%E5%95%86%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张来自 {argument name="country" default="土耳其"} 的照片。一位杂货商站在市场摊位上 {argument name="fruit" default="水果"} 的后面；摊位上有各种不同的水果，每种水果都标有名称和价格。请研究当前价格，并根据土耳其的平均价格进行标注。照片风格应为 {argument name="style" default="超写实新闻照片"}。
+
+[English]
+{argument name="ülke" default="Türkiye"}'den bir fotoğraf oluştur. Bir pazar'da tezgahta {argument name="meyveler" default="meyvelerin"} arkasında duran bir manavcı, tezgahta farklı meyveler var, herbirinin adı ve fiyatı yazıyor. Fiyatları güncel olarak arşatır ve Türkiye'ye göre ortalama fiyatlar yazmalısın. {argument name="stil" default="Ultra gerçekçi bir haber fotoğrafı"} olmalı.
+```
+
+**来源：** [@Ozan Sihay](https://x.com/ozansihay/status/2074751589714133153) | 2026-07-08
+
+---
+
+### 🖥️ 例 3515：日式鸡蛋烹饪流程图 UI
+
+![日式鸡蛋烹饪流程图 UI](../../images/%E6%97%A5%E5%BC%8F%E9%B8%A1%E8%9B%8B%E7%83%B9%E9%A5%AA%E6%B5%81%E7%A8%8B%E5%9B%BE%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的 Web 应用截图，展示生成的文档图像：一张简单的日式鸡蛋烹饪决策流程图。
+
+画布：762×596 像素的桌面浏览器/应用视图。浅灰色页面背景，顶部有一个横跨全宽的亮蓝色应用栏。应用栏最左侧有一个白色小图标，中间是白色的日文标题 {argument name="app title" default="資料画像生成"}，最右侧有一个白色网格/菜单图标。右侧边缘可见一个细微的滚动条。
+
+主卡片布局：在蓝色页眉下方居中放置一个带有淡淡投影的白色圆角矩形卡片，尺寸约为 718×468 像素。卡片内部是一个位于白色区域上的黑白流程图，留有充足的边距。在卡片右侧添加两个悬浮的蓝色圆形操作按钮：一个靠近右上角，带有白色下载箭头图标；另一个靠近右下角，带有白色铅笔/编辑图标。
+
+流程图元素：使用 6 个带有白色填充和黑色边框的矩形框，由 5 个粗黑色箭头连接。除非另有说明，所有文字均为加粗的黑色日文。
+1. 左侧框：「卵をどう調理する？」
+2. 顶部中间框：「殻のまま茹でる？」
+3. 顶部右侧框：主文本「ゆで卵」，下方有较小的副标题「お好みで半熟〜固茹で」
+4. 中间下方框：「黄身を崩す？」
+5. 中间右侧框：「スクランブルエッグ」
+6. 底部右侧框：「目玉焼き」
+
+流程图连接与标签：一个向右的箭头将框 1 连接到框 2。从框 2 出发，上方标注「YES」的向右箭头连接到框 3。从框 2 出发，右侧标注「NO」的向下箭头连接到框 4。从框 4 出发，上方标注「YES」的向右箭头连接到框 5。从框 4 出发，一条粗路径先向下再向右，转弯处附近标注「NO」，末端以一个向右的箭头指向框 6。
+
+页脚文本：在卡片内部左下角，添加一行灰色的小字日文 {argument name="cost note" default="概算 約7円"}。
+
+视觉风格：极简黑白流程图，简洁的无衬线日文 UI 字体，粗黑色箭头，清晰的矩形轮廓，留白充足，呈现真实的截图式 UI 渲染。避免添加多余的框、图标、图表内的装饰性颜色、水印或额外的说明文字。
+
+[English]
+Goal: Create a clean web-app screenshot showing a generated document image: a simple Japanese decision flowchart for how to cook eggs.
+
+Canvas: 762×596 px desktop browser/app view. Light gray page background with a bright blue top app bar spanning the full width. The app bar contains a small white image icon at far left, the Japanese title {argument name="app title" default="資料画像生成"} in white, and a small white grid/menu icon at the far right. A subtle scrollbar is visible on the right edge.
+
+Main card layout: Center a large white rounded rectangle card with a faint drop shadow, about 718×468 px, starting below the blue header. Inside the card is a black-and-white flowchart on a white field, leaving generous margins. Add two floating circular blue action buttons on the right side of the card: one near the upper-right with a white download arrow icon, and one near the lower-right with a white pencil/edit icon.
+
+Flowchart elements: Use exactly 6 rectangular outlined boxes with white fill and black borders, connected by exactly 5 thick black arrows. All text is Japanese and bold black unless noted.
+1. Left box: 「卵をどう調理する？」
+2. Top middle box: 「殻のまま茹でる？」
+3. Top right box: main text 「ゆで卵」 with smaller subtitle 「お好みで半熟〜固茹で」
+4. Middle lower box: 「黄身を崩す？」
+5. Middle right box: 「スクランブルエッグ」
+6. Bottom right box: 「目玉焼き」
+
+Flowchart connections and labels: A right-pointing arrow connects box 1 to box 2. From box 2, a right-pointing arrow labeled 「YES」 above it connects to box 3. From box 2, a downward arrow labeled 「NO」 to the right descends to box 4. From box 4, a right-pointing arrow labeled 「YES」 above it connects to box 5. From box 4, a thick path goes downward then right, labeled 「NO」 near the turn, ending with a right-pointing arrow into box 6.
+
+Footer text: At the lower-left inside the card, add small gray Japanese text {argument name="cost note" default="概算 約7円"}.
+
+Visual style: Minimal monochrome flowchart, clean sans-serif Japanese UI font, thick black arrows, crisp rectangular outlines, lots of white space, realistic screenshot-like UI rendering. Avoid extra boxes, extra icons, decorative colors inside the chart, watermarks, or additional explanatory text.
+```
+
+**来源：** [@Tanaka Seigo](https://x.com/1ft_seabass/status/2074727508449345745) | 2026-07-08
+
+---
+
+### 🖥️ 例 3520：从线框图到高保真设计
+
+![从线框图到高保真设计](../../images/%E4%BB%8E%E7%BA%BF%E6%A1%86%E5%9B%BE%E5%88%B0%E9%AB%98%E4%BF%9D%E7%9C%9F%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+以上传的线框图 / 原型图为参考，生成一张高保真设计稿。
+
+设计类型：【{argument name="设计类型" default="运营活动页 / App界面 / H5页面 / 电商详情页 / 官网页面 / 信息图"}】
+
+要求：
+1. 保留原始页面的布局结构、信息层级和模块划分
+2. 将线框图中的占位符替换为真实内容
+3. 自动补充配色、图片、图标和排版细节
+4. 强化页面的视觉层级、留白、对齐和模块关系
+5. 整体输出为高完成度的高保真设计稿
+
+视觉风格：【{argument name="视觉风格" default="简约现代 / 科技感 / 轻拟物 / 清新 / 品牌感 / 高级感"}】
+主色调：【{argument name="主色调" default="蓝色"}】
+辅色：【填写颜色】
+画幅比例：【如 9:16 / 4:3 / 16:9】
+
+注意：
+保留原始结构，不要随意打乱模块顺序。
+重点优化视觉表现和真实内容呈现，使其像一张可用于提案展示的完整设计稿。
+
+保持线框图原有的信息架构不变，只提升视觉完成度与真实感。
+```
+
+**来源：** [@Derek Wen｜德里克文](https://x.com/derek_wall90176/status/2074716166908772675) | 2026-07-08
+
+---
+
+### 🖥️ 例 3530：日语人格设置 UI
+
+![日语人格设置 UI](../../images/%E6%97%A5%E8%AF%AD%E4%BA%BA%E6%A0%BC%E8%AE%BE%E7%BD%AE%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的日语 Web 应用入门/设置界面（步骤 2），展示对所选沟通人格或关系类型的微调。
+
+画布：16:9 桌面截图，白色至极浅灰色背景，居中内容列宽约 720 px，留白充裕，柔和阴影，圆角卡片，极简 SaaS UI 风格。
+
+页眉：在顶部居中位置，显示一个蓝色小圆徽标，内含数字“2”，后接标签「相手タイプの微调整」。下方放置加粗的日语标题：「选んだ人格を、あなたらしく整えましょう」。标题下方添加较小的灰色副标题：「おすすめ设定が用意されています。こだわりたいところだけ调整しても、そのまま进んでも大丈夫です。」
+
+主要布局：垂直堆叠 4 个手风琴卡片。每个卡片左侧带有图标、加粗的日语标题、较小的灰色描述，右侧带有箭头。4 个卡片分别为：1) 折叠状态，人物图标，标题「友だち・家族」，描述「気心の知れた相手とのカジュアルなやり取り」，向下箭头；2) 折叠状态，建筑图标，标题「社内（メンバー）」，描述「チームメンバーや同僚とのやり取り」，向下箭头；3) 展开状态（选中），蓝色高亮用户图标，标题「社内（上司・别チーム）」，描述「上司や他部署のメンバーとのやり取り」，向上箭头；4) 折叠状态，公文包图标，标题「社外・取引先」，描述「取引先やビジネスパートナーとのやり取り」，向下箭头。
+
+展开卡片详情：在第三个卡片内，创建 6 行设置项，左侧为日语标签，右侧为分段式胶囊控件。第 1 行标签「敬体」，包含 4 个选项：「タメ口」、「砕けた敬语」、选中「丁寧敬语」、「ビジネス敬语」。第 2 行标签「相手の呼び方」，包含 4 个选项：选中「〜さん」、「〜様」、「あだ名・呼び捨て」、「宛名なし」。第 3 行标签「絵文字」，包含 4 个选项：「なし」、选中「たまに」、「よく」、「相手に合わせる」。第 4 行标签「！？の量」，包含 4 个选项：「使わない」、选中「たまに」、「よく」、「相手に合わせる」。第 5 行标签「書き出し＆缔め」，包含 4 个选项：「なし」、「定型」、选中「名乗る」、「相手に合わせる」。第 6 行标签「よく使う絵文字の手札」，显示 9 个小方形表情符号按钮，后接一个加号：选中笑脸、点赞、闪光、汗滴、双心、眼睛、举手、礼花、思考表情，最后是“+”。
+
+页脚：在手风琴堆叠下方，居中放置一个醒目的圆角蓝色渐变主按钮，文字为白色「これで作る」。
+
+视觉风格：清爽的现代日语产品 UI，细浅灰色边框，微妙的卡片阴影，选中控件和激活图标背景使用蓝色强调色，黑色/深蓝色标题，灰色辅助文本。保持构图对称且宽敞。无浏览器边框，无水印，无额外文字。使用 {argument name="accent color" default="bright blue"} 作为激活选中颜色，并确保所有可见 UI 文本均为日语。
+
+[English]
+Goal: Create a clean Japanese web app onboarding/settings screen for step 2, showing fine-tuning of a selected communication personality or relationship type.
+
+Canvas: 16:9 desktop screenshot, white to very pale gray background, centered content column about 720 px wide with generous margins, soft shadows, rounded cards, minimal SaaS UI style.
+
+Header: At the top center, show a small blue circular badge with “2” followed by the label 「相手タイプの微調整」. Under it place a bold Japanese headline: 「選んだ人格を、あなたらしく整えましょう」. Under the headline add a smaller gray subtitle: 「おすすめ設定が用意されています。こだわりたいところだけ調整しても、そのまま進んでも大丈夫です。」
+
+Main layout: Stack exactly 4 accordion cards vertically. Each card has a left line icon, a bold Japanese title, a smaller gray description, and a chevron on the right. The 4 cards are: 1) closed card with people icon, title 「友だち・家族」, description 「気心の知れた相手とのカジュアルなやり取り」, downward chevron; 2) closed card with building icon, title 「社内（メンバー）」, description 「チームメンバーや同僚とのやり取り」, downward chevron; 3) expanded selected card with blue-highlighted user icon, title 「社内（上司・別チーム）」, description 「上司や他部署のメンバーとのやり取り」, upward chevron; 4) closed card with briefcase icon, title 「社外・取引先」, description 「取引先やビジネスパートナーとのやり取り」, downward chevron.
+
+Expanded card details: Inside the third card, create exactly 6 setting rows with Japanese labels on the left and segmented pill controls on the right. Row 1 label 「敬体」 has 4 options: 「タメ口」, 「砕けた敬語」, selected 「丁寧敬語」, 「ビジネス敬語」. Row 2 label 「相手の呼び方」 has 4 options: selected 「〜さん」, 「〜様」, 「あだ名・呼び捨て」, 「宛名なし」. Row 3 label 「絵文字」 has 4 options: 「なし」, selected 「たまに」, 「よく」, 「相手に合わせる」. Row 4 label 「！？の量」 has 4 options: 「使わない」, selected 「たまに」, 「よく」, 「相手に合わせる」. Row 5 label 「書き出し＆締め」 has 4 options: 「なし」, 「定型」, selected 「名乗る」, 「相手に合わせる」. Row 6 label 「よく使う絵文字の手札」 shows exactly 9 small square emoji buttons followed by a plus sign: selected smiling face emoji, thumbs up, sparkles, sweat droplets, two hearts, eyes, raised hands, party popper, thinking face, then “+”.
+
+Footer: Beneath the accordion stack, center a prominent rounded blue gradient primary button with white text 「これで作る」.
+
+Visual style: Crisp modern Japanese product UI, thin light gray borders, subtle card shadows, blue accent color for selected controls and active icon backgrounds, black/dark navy headings, gray secondary text. Keep the composition symmetrical and spacious. No browser chrome, no watermark, no extra text. Use {argument name="accent color" default="bright blue"} as the active selection color and keep all visible UI text in Japanese.
+```
+
+**来源：** [@yossy🐾](https://x.com/yossy_appelier/status/2074700501971599583) | 2026-07-08
+
+---
+
+### 🖥️ 例 3538：四格 AI 风景对比图
+
+![四格 AI 风景对比图](../../images/%E5%9B%9B%E6%A0%BC%20AI%20%E9%A3%8E%E6%99%AF%E5%AF%B9%E6%AF%94%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅对比图，展示四个提示词编写 AI 模型层级如何在 GPT Image 2 中生成相同的风景场景，并配有深色编辑 UI 框架和日语标题文本。
+
+画布：超宽横向横幅，比例约为 2:1，黑色/深炭灰色背景，简洁的社交媒体对比布局。在图像列之间使用细黑色分隔线，并设置紧凑的顶部标题区域。
+
+顶部文本：大号白色日语标题：{argument name="headline text" default="同じ構図・同じ画像AI（GPT Image 2）。プロンプトを“書いたAI”だけが違う4枚"}。下方添加较小的灰色副标题：{argument name="subtitle text" default="変えたのは「プロンプトを書くClaudeのモデル階層」だけ（左＝最も安い → 右＝最上位）"}。
+
+布局：四个等宽的垂直风景面板并排排列，每个面板顶部都有一个深色小标签栏。使用 4 个面板，从左到右顺序如下：
+1. 标签：“haiku ｜ 最も安い” — 充满戏剧性的半写实动漫风景，金色日落，远处高耸的山脉，层叠的雾气山谷，长满野花的岩石前景，山脊上站着一个微小的孤独身影，温暖的橙紫色云层，略显华丽的电影感氛围。
+2. 标签：“sonnet” — 更简洁优雅的日落山谷，广阔的天空伴有柔和发光的积云，金色的光芒洒在连绵起伏的丘陵上，山脊小径上有一个孤独的小身影，构图平衡，精致的动漫背景风格。
+3. 标签：“opus” — 高质量但内敛的日落远景，深蓝色天空向地平线渐变为橙色，巨大的发光云层，草地前景，远处有湖泊或反光水面，底部中心附近有一个微小的人物，高级但传统的风景构图。
+4. 标签：“fable ｜ 最上位” — 情感导向的明亮清晨或傍晚风景，青蓝色天空，高耸的发光白云，阳光洒在广阔的绿色山谷上，右下角草地上站着一个身穿白裙戴帽子的微小人物，更具叙事性和诗意氛围。
+
+视觉风格：精致的日本动漫背景艺术与绘画般的电影光影相结合，高度细致的天空和大气透视。保持四个面板的构图和主题相似，以确保对比的严谨性，但根据标签改变情绪和艺术方向。使用清晰的白色文本，深色标签栏，无 Logo，无水印。
+
+约束：保留 4 个图像面板和这 4 个可见面板标签。确保标题和副标题清晰易读。使整体图像看起来像是一张发布的对比图表，而不是独立的风景拼贴画。
+
+[English]
+Goal: Create a wide comparison graphic showing how four prompt-writing AI model tiers produce the same landscape scene in GPT Image 2, with a dark editorial UI frame and Japanese headline text.
+
+Canvas: Extra-wide horizontal banner, approximately 2:1 aspect ratio, black/dark charcoal background, clean social-media comparison layout. Use thin black dividers between image columns and a compact top title area.
+
+Top text: Large white Japanese headline: {argument name="headline text" default="同じ構図・同じ画像AI（GPT Image 2）。プロンプトを“書いたAI”だけが違う4枚"}. Under it, add a smaller gray subtitle: {argument name="subtitle text" default="変えたのは「プロンプトを書くClaudeのモデル階層」だけ（左＝最も安い → 右＝最上位）"}.
+
+Layout: Four equal vertical landscape panels placed side by side, each with a small dark label bar at the top. Use exactly 4 panels, ordered left to right:
+1. Label: “haiku ｜ 最も安い” — a dramatic semi-realistic anime landscape at golden sunset, high mountain range in the distance, layered misty valleys, wildflower-covered rocky foreground, a tiny solitary person standing on a ridge, warm orange-purple clouds, slightly over-embellished cinematic atmosphere.
+2. Label: “sonnet” — cleaner and more elegant sunset mountain valley, broad sky with soft glowing cumulus clouds, golden light spilling across rolling hills, a small lone figure on a ridge path, balanced composition, polished anime background style.
+3. Label: “opus” — high-quality but restrained sunset vista, deep blue sky fading to orange near the horizon, large illuminated cloud formations, grassy hillside foreground, distant lake or reflective water, tiny figure near the bottom center, premium but conventional scenic framing.
+4. Label: “fable ｜ 最上位” — emotionally directed bright morning or late-afternoon landscape, turquoise-blue sky, towering luminous white clouds, sunbeams over a vast green valley, a small person in a white dress and hat standing in meadow grass at lower right, more narrative and poetic mood.
+
+Visual style: Refined Japanese anime background art blended with painterly cinematic lighting, highly detailed skies and atmospheric perspective. Keep all four panels similar in composition and subject matter so the comparison feels controlled, but vary mood and art direction per label. Use crisp white text, dark label bars, no logos, no watermark.
+
+Constraints: Preserve exactly 4 image panels and exactly these 4 visible panel labels. Make the title and subtitle legible. Keep the overall image looking like a posted comparison chart rather than a standalone landscape collage.
+```
+
+**来源：** [@AI Video Project](https://x.com/aivideo2026/status/2074676227496198294) | 2026-07-08
+
+---
+

@@ -15928,3 +15928,717 @@ Create a vertical vintage romantic wedding magazine cover photo featuring {argum
 
 ---
 
+### 🎴 例 3456：复古家庭公路旅行报纸海报
+
+![复古家庭公路旅行报纸海报](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E6%8A%A5%E7%BA%B8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张复古插画风格的报纸头版旅行海报，庆祝 {argument name="character name" default="Alex"} 的 40 岁生日公路旅行，主题为大胆的家庭冒险。
+
+画布：3:4 比例的竖版海报，奶油色旧纸背景带有细微斑点，黑色墨水边框线条，丝网印刷漫画/报纸质感，温暖的复古色调。
+
+顶部报头：巨大的黑色压缩衬线字体报纸标题，写着“THE VOLKOV EXPEDITION TIMES”。下方是一条桃色丝带横幅，带有斜体衬线文字，写着“{argument name="edition text" default="Alex’s 40th Birthday Edition"}”。丝带下方是居中的小号报纸行：“2026 年 7 月 15 日，星期三 · Volkov Family Press · 印刷版第 1 期”。
+
+主插图：一幅带边框的漫画风格加州公路旅行场景。一辆奶油色复古房车在蜿蜒的柏油公路上驶向观众，背景是国家公园景观。房车带有橙色和蓝色水平条纹、车顶标记灯、大挡风玻璃、侧窗和侧门。房车内准确显示 4 名探险者：1 名卷发孩子从后侧窗探出头挥手，1 名金发女性从侧门/窗探出头挥手，1 名深色头发女性坐在副驾驶座拿着一张展开的地图，以及 1 名戴着眼镜、面带微笑的秃顶男子正在驾驶，头上戴着一顶标有“40”的小蓝色派对帽。在红杉树附近的房车旁添加一个巨大的橙色“40”气球/标志。
+
+风景细节：包括山后带有放射状光芒的绚丽日落、松树林、蓝色湖泊、灰色花岗岩悬崖、瀑布、右侧巨大的红杉树，以及左侧远处的红色金门大桥。道路从左后方蜿蜒至右前方，带有黄色中心线。在左下角前景中，加入一道海浪，海浪中有一只戴着小派对帽并举起一只爪子的快乐海獭。在右下角前景中，在路肩上加入 1 架小型白色玩具飞机。
+
+底部排版：在插图下方，添加一个巨大的粗体黑色标题，写着“{argument name="destination headline" default="CALIFORNIA OR BUST!"}”。在其下方，添加一个粗体副标题，写着“{argument name="trip stats" default="9 DAYS · 4 EXPLORERS · 1,000 MILES · 40 CANDLES"}”。在最底部，在一个细长的桃色页脚框内，添加小号衬线文字，写着“{argument name="footer text" default="July 15–23, 2026 · Volkov Family Press · Print Edition No. 1"}”。
+
+视觉风格：手绘编辑插画，具有清晰的黑色轮廓、半色调阴影、略显不完美的印刷套色、复古旅行海报配色，基调欢快且适合家庭。保持构图居中、对称且高度清晰。不要添加额外的人员、动物、水印、标志或无关文字。
+
+[English]
+Goal: Create a vintage illustrated newspaper-front-page travel poster celebrating {argument name="character name" default="Alex"}'s 40th birthday road trip, with a bold family adventure theme.
+
+Canvas: Portrait poster in a 3:4 ratio, cream aged-paper background with subtle speckles, black ink border lines, screen-printed comic/newspaper texture, warm retro colors.
+
+Top masthead: Huge black condensed serif newspaper title reading “THE VOLKOV EXPEDITION TIMES”. Beneath it, a peach ribbon banner with italic serif text reading “{argument name="edition text" default="Alex’s 40th Birthday Edition"}”. Below the ribbon, small centered newspaper line: “Wednesday, July 15, 2026 · Volkov Family Press · Print Edition No. 1”.
+
+Main illustration: A framed comic-style California road-trip scene. A cream vintage RV drives toward the viewer on a winding blacktop highway through a national-park landscape. The RV has orange and blue horizontal stripes, roof marker lights, large windshield, side windows, and a side door. Show exactly 4 explorers in the RV: 1 curly-haired child leaning out the rear side window waving, 1 blonde woman leaning out the side doorway/window waving, 1 dark-haired woman in the passenger seat holding an unfolded map, and 1 smiling bald man with glasses driving while wearing a tiny blue party hat marked “40”. Add a large orange “40” balloon/sign floating beside the RV near the redwood tree.
+
+Scenery details: Include a glowing sunset with radiating sunbeams behind mountains, pine forest, a blue lake, grey granite cliffs, a waterfall, giant redwood trees on the right, and a distant red Golden Gate Bridge on the left. The road curves from the left background to the right foreground with yellow center lines. In the lower left foreground, include an ocean wave with exactly 1 cheerful sea otter wearing a tiny party hat and raising one paw. In the lower right foreground, include exactly 1 small white toy-like airplane on the road shoulder.
+
+Bottom typography: Under the illustration, add a huge bold black headline reading “{argument name="destination headline" default="CALIFORNIA OR BUST!"}”. Beneath it, add a bold subheadline reading “{argument name="trip stats" default="9 DAYS · 4 EXPLORERS · 1,000 MILES · 40 CANDLES"}”. At the very bottom, inside a thin peach footer box, add small serif text reading “{argument name="footer text" default="July 15–23, 2026 · Volkov Family Press · Print Edition No. 1"}”.
+
+Visual style: Hand-drawn editorial illustration with clean black outlines, halftone shading, slightly imperfect print registration, retro travel-poster colors, cheerful family-friendly tone. Keep the composition centered, symmetrical, and highly legible. Do not add extra people, extra animals, watermarks, logos, or unrelated text.
+```
+
+**来源：** [@Alex Volkov @ AI Engineer](https://x.com/altryne/status/2074885742296526964) | 2026-07-08
+
+---
+
+### 🎴 例 3457：复古家庭远征报纸
+
+![复古家庭远征报纸](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E8%BF%9C%E5%BE%81%E6%8A%A5%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为家庭生日冒险之旅创作一张复古插画风格的旅行报纸头版，采用 20 世纪 40 年代趣味远征漫画/报纸的样式。
+
+画布：垂直肖像页面，4:5 纵横比，带有轻微污渍的陈旧奶油色纸张，半色调纹理，粗黑墨水轮廓，柔和的复古色彩，丝网印刷阴影，手写字体。
+
+页眉布局：在最上方放置 2 个堆叠的丝带横幅：一个大的绿色卷曲横幅，上面写着“THE VOLKOV EXPEDITION TIMES”，下方是一个较小的橙色横幅，写着“Alex’s 40th Birthday Edition”。在丝带下方添加期号行：“Wednesday, July 15, 2026 • Vol. 40, No. 1”。然后是一个巨大的橙色全大写标题，带有黑色阴影：“EXPLORERS LEAVE DENVER AT DAWN!”
+
+主插图：一个大型矩形漫画框展示了飞机机舱内部。左侧，正好 2 名儿童从机舱内兴奋地将脸和手贴在飞机窗户上：一个是穿着红白条纹衬衫的金发女孩，一个是穿着蓝色衬衫的卷发男孩。右侧，正好 2 名成年人坐在飞机座位上：一位留着棕色短发、胡须、戴眼镜、穿海军蓝衬衫的微笑父亲正指向窗外，一位留着深色低发髻、穿白色夹克、拿着报纸的微笑母亲。包含正好 2 个可见的飞机窗户：左侧窗户包含两个孩子和远处的山脉；中间窗户显示日出时的旧金山湾，包括金门大桥、帆船、城市和山脉。让家庭成员看起来开朗、健康且卡通化，孩子们显然是在飞机内部，而不是外部。
+
+下方信息栏：在主插图下方，并排创建正好 2 个带边框的方框。左侧方框标题：绿色的“TODAY’S MISSION:”。文本：“Spot 3 sea lions napping at Pier 39. Bark once (quietly) in their honor.” 方框内的插图必须显示正好 3 只海狮在水上的木码头上睡觉。右侧方框标题：“MY WEATHER/LOG box (kid fills in)”，采用儿童活动工作表样式。包含可见文本“MY WEATHER REPORT —”、“Denver this morning: _____ °”、“San Francisco: _____ °”、“Fog: YES / NO (circle one!)”，以及两个标有“YES”和“NO”的空白复选框，外加一个小太阳和云朵图标。
+
+底部事实与页脚：添加一条横跨宽度的橙色“DID YOU KNOW?”条带，文字为：“DID YOU KNOW? Jets cruise about 35,000 feet up — that’s 6 miles above your house! And San Francisco’s famous sourdough bread comes from a ‘mother dough’ that bakers have kept alive since 1849.” 在其下方添加一个绿色页脚栏，左侧写着“Day 1 • Page 1”，右侧有一个微小的卡通巴士图标。
+
+可自定义文本：使用 {argument name="newspaper title" default="THE VOLKOV EXPEDITION TIMES"}，{argument name="edition subtitle" default="Alex’s 40th Birthday Edition"}，{argument name="main headline" default="EXPLORERS LEAVE DENVER AT DAWN!"}，{argument name="date and issue line" default="Wednesday, July 15, 2026 • Vol. 40, No. 1"}，以及 {argument name="mission text" default="Spot 3 sea lions napping at Pier 39. Bark once (quietly) in their honor."}。
+
+约束：保持所有文字清晰易读，保持统一的复古报纸漫画外观，不使用照片写实风格，不使用现代 UI 元素，无水印，无额外面板，且不要添加额外的儿童、成人、海狮、窗户或横幅。
+
+[English]
+Goal: Create a vintage illustrated travel newspaper front page for a family birthday adventure, styled like a playful 1940s expedition comic/newspaper.
+
+Canvas: Vertical portrait page, 4:5 aspect ratio, aged cream paper with light stains, halftone texture, thick black ink outlines, muted retro colors, screen-print shading, hand-lettered typography.
+
+Header layout: At the very top place 2 stacked ribbon banners: a large green curled banner reading “THE VOLKOV EXPEDITION TIMES” and a smaller orange ribbon below reading “Alex’s 40th Birthday Edition”. Under the ribbons add the issue line: “Wednesday, July 15, 2026 • Vol. 40, No. 1”. Then a huge orange all-caps headline with black shadow: “EXPLORERS LEAVE DENVER AT DAWN!”
+
+Main illustration: A large rectangular comic panel shows the inside of an airplane cabin. On the left, exactly 2 children press their faces and hands excitedly to an airplane window from inside the plane: one blonde girl in a red-and-white striped shirt and one curly-haired boy in a blue shirt. On the right, exactly 2 adults sit in airplane seats: a smiling dad with short brown hair, beard, glasses, navy shirt, pointing out the window, and a smiling mom with dark hair in a low bun, white jacket, holding a newspaper. Include exactly 2 visible airplane windows: the left window contains the two children and distant mountains; the middle window shows San Francisco Bay with the Golden Gate Bridge, sailboats, city, and mountains at sunrise. Make the family cheerful, wholesome, and cartoonish, with the kids clearly inside the airplane, not outside.
+
+Lower information panels: Beneath the main illustration, create exactly 2 bordered boxes side by side. Left box title: “TODAY’S MISSION:” in green. Text: “Spot 3 sea lions napping at Pier 39. Bark once (quietly) in their honor.” Illustration inside the box must show exactly 3 sea lions sleeping on a wooden pier over water. Right box title: “MY WEATHER/LOG box (kid fills in)” with kid activity worksheet styling. Include the visible text “MY WEATHER REPORT —”, “Denver this morning: _____ °”, “San Francisco: _____ °”, “Fog: YES / NO (circle one!)”, and two empty checkboxes labeled “YES” and “NO”, plus a small sun-and-cloud icon.
+
+Bottom facts and footer: Add an orange “DID YOU KNOW?” strip spanning the width with the text: “DID YOU KNOW? Jets cruise about 35,000 feet up — that’s 6 miles above your house! And San Francisco’s famous sourdough bread comes from a ‘mother dough’ that bakers have kept alive since 1849.” Below it add a green footer bar reading “Day 1 • Page 1” on the left and a tiny cartoon bus icon on the right.
+
+Customizable text: Use {argument name="newspaper title" default="THE VOLKOV EXPEDITION TIMES"}, {argument name="edition subtitle" default="Alex’s 40th Birthday Edition"}, {argument name="main headline" default="EXPLORERS LEAVE DENVER AT DAWN!"}, {argument name="date and issue line" default="Wednesday, July 15, 2026 • Vol. 40, No. 1"}, and {argument name="mission text" default="Spot 3 sea lions napping at Pier 39. Bark once (quietly) in their honor."}.
+
+Constraints: Keep all lettering legible, maintain a cohesive retro newspaper-comic look, use no photorealism, no modern UI elements, no watermark, no extra panels, and do not add extra children, adults, sea lions, windows, or banners.
+```
+
+**来源：** [@Alex Volkov @ AI Engineer](https://x.com/altryne/status/2074885739335336417) | 2026-07-08
+
+---
+
+### 🎴 例 3458：复古家庭探险报纸
+
+![复古家庭探险报纸](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E6%8E%A2%E9%99%A9%E6%8A%A5%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为家庭飞机冒险之旅创作一张异想天开的复古插画风格旅行报纸头版，标题为 {argument name="newspaper title" default="THE VOLKOV EXPEDITION TIMES"}，旨在庆祝 {argument name="edition banner text" default="Alex’s 40th Birthday Edition"}。
+
+画布：垂直 3:4 海报，陈旧的奶油色新闻纸质感，细黑色边框，复古 1930 年代探险报纸排版，配有手绘插图、半色调阴影、温暖的日落色调、青色和橙色点缀，以及略显不完美的印刷字体。
+
+页眉布局：最上方是一个深青色的报头面板，印有醒目的黄色衬线大字“THE VOLKOV EXPEDITION TIMES”。下方放置一个橙色丝带横幅，写着“Alex’s 40th Birthday Edition”，左侧配有一架飞过柔和天空的小型客机插图。在丝带下方，添加副标题“Day 1 Fruth Page — LIFTOFF!”以及一行小字日期栏“Wednesday, July 15, 2026 • Vol. 40, No. 1”。
+
+主标题：横跨页面的巨大粗体黑色报纸标题：{argument name="main headline" default="EXPLORERS LEAVE DENVER AT DAWN!"}
+
+主插图：页面中央是一个占据大面积的漫画风格边框场景，展示了商用飞机机舱内部。画面中共有 4 名家庭成员：1 名身穿红白条纹衬衫、牛仔短裤、粉色木屐鞋的金发小女孩，正站在窗边举起一只手；1 名身穿海军蓝衬衫、浅色短裤、绿色木屐鞋的卷发小男孩，正兴奋地向外看；1 名留着棕色短发、修剪整齐的胡须、戴眼镜、身穿海军蓝 T 恤、卡其色短裤、人字拖的微笑成年男子，正指着窗外并拿着一份小报纸；以及 1 名留着黑色长发、身穿牛仔短袖连体裤、系着棕色腰带、穿着棕色牛仔靴的微笑成年女子，坐在他旁边拿着同样的报纸。展示 3 个清晰可见的飞机窗户：左侧中央是一个大型全景窗，窗外是壮观的雪山、蓝色海湾和金门大桥；成年人身后是一个中型窗户；最右侧是一个小型窗户。使用蓝色飞机座椅和弧形灰色机舱墙壁。
+
+底部信息框：包含 3 个下部内容块。左下角的第 1 块是一个深绿色方框，标题为“TODAY’S MISSION”，内容关于在 39 号码头寻找打盹的海狮并为它们安静地吠叫，配有小海狮插图。右下角的第 2 块是一个橙色边框方框，标题为“MY WEATHER/LOG”，带有太阳笑脸图标，包含丹佛和旧金山的天气填写行，以及雾天“是/否”选项。第 3 块是底部的一条深绿色冷知识栏，由垂直分隔线分为两部分：左侧有一个圆形的“DID YOU KNOW?”徽章、一个小机翼/飞机图标，以及关于喷气式飞机在 35,000 英尺高空巡航的事实；右侧是关于旧金山酸种面包的事实以及一个小面包插图。
+
+页脚：在最底部居中位置，添加一个小巴士图标，后跟“Day 1 • Page 1”。
+
+文本限制：保持所有可见文本清晰可辨，但允许保留迷人的手工印刷瑕疵。使用精确的 3 个底部内容块、4 个人物、3 个飞机窗户，且不得添加额外的徽标或水印。
+
+[English]
+Goal: Create a whimsical vintage illustrated travel newspaper front page for a family airplane adventure, titled {argument name="newspaper title" default="THE VOLKOV EXPEDITION TIMES"}, celebrating {argument name="edition banner text" default="Alex’s 40th Birthday Edition"}.
+
+Canvas: Vertical 3:4 poster, aged cream newsprint paper texture, thin black border, retro 1930s expedition-newspaper composition with hand-inked illustration, halftone shading, warm sunset colors, teal and orange accents, and slightly imperfect printed typography.
+
+Header layout: At the very top, a dark teal masthead panel with large yellow serif letters reading “THE VOLKOV EXPEDITION TIMES.” Beneath it, place an orange ribbon banner reading “Alex’s 40th Birthday Edition,” with a small passenger airplane illustration on the left flying through a pastel sky. Under the ribbon, add the subheadline “Day 1 Fruth Page — LIFTOFF!” and a small dateline line reading “Wednesday, July 15, 2026 • Vol. 40, No. 1.”
+
+Main headline: Huge bold black newspaper headline across the page: {argument name="main headline" default="EXPLORERS LEAVE DENVER AT DAWN!"}
+
+Main illustration: A large framed comic-style scene filling the center of the page, showing the interior of a commercial airplane cabin. There are exactly 4 family members: 1 blonde young girl in a red-and-white striped shirt, denim shorts, and pink clogs standing at the window with one hand raised; 1 curly-haired young boy in a navy shirt, pale shorts, and green clogs excitedly looking outside; 1 smiling adult man with short brown hair, trimmed beard, glasses, navy T-shirt, tan shorts, and flip-flops pointing out the window while holding a small newspaper; and 1 smiling adult woman with long black hair, denim short-sleeve romper, brown belt, and brown cowboy boots sitting beside him, holding the same newspaper. Show exactly 3 visible airplane windows: one large panoramic window in the center-left with dramatic snowy mountains, blue bay water, and the Golden Gate Bridge outside; one medium window behind the adults; and one small window far right. Use blue airplane seats and curved gray cabin walls.
+
+Bottom information boxes: Include exactly 3 lower content blocks. Block 1 on the lower left is a dark green box titled “TODAY’S MISSION,” with text about spotting sea lions napping at Pier 39 and barking quietly in their honor, plus a small sea lion illustration. Block 2 on the lower right is an orange-bordered box titled “MY WEATHER/LOG,” with a sunny face icon and fill-in weather lines for Denver and San Francisco, plus fog yes/no options. Block 3 is a dark green trivia strip across the bottom with two trivia facts separated by a vertical divider: left side has a circular “DID YOU KNOW?” badge, a small wing/plane icon, and a fact about jets cruising 35,000 feet up; right side has a fact about San Francisco sourdough bread and a small loaf illustration.
+
+Footer: Centered at the very bottom, add a tiny bus icon followed by “Day 1 • Page 1.”
+
+Text constraints: Keep all visible text legible but allow charming hand-printed imperfections. Use the exact three bottom block count, exactly four people, exactly three airplane windows, and no extra logos or watermarks.
+```
+
+**来源：** [@Alex Volkov @ AI Engineer](https://x.com/altryne/status/2074885735904326128) | 2026-07-08
+
+---
+
+### 🎴 例 3459：复古加州公路旅行生日海报
+
+![复古加州公路旅行生日海报](../../images/%E5%A4%8D%E5%8F%A4%E5%8A%A0%E5%B7%9E%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张复古插画风格的旅行报纸头版海报，庆祝 {argument name="character name" default="Alex"} 的 40 岁生日及家庭加州公路旅行。
+
+画布：3:4 比例的竖版海报，陈旧的奶油色纸张背景，深绿色与暖赭色墨水配色，丝网印刷质感，手绘编辑插画风格，清晰易读的排版，细黑线报纸边框。
+
+顶部报头：在最上方绘制一个弯曲的复古报纸横幅，背景包含山脉、松树和一轮升起的橙色太阳。大号文字显示“THE VOLKOV”，下方是超大标题“EXPEDITION TIMES”。在标题下方放置一条金色丝带，上面写着“{argument name="edition text" default="Alex's 40th Birthday Edition"}”。丝带下方添加一行小型日期栏：“2026 年 7 月 15 日，星期三 • 第 40 卷，第 1 期”。
+
+主体插画：中心是一幅大型带框风景旅行插画。画面展示一辆带有橙色和青色条纹的奶油色复古房车，正行驶在加州蜿蜒的海岸/山路线上。背景包括优胜美地花岗岩悬崖和瀑布、高大的红杉树、远处的蓝色山脉、左侧的金门大桥和旧金山天际线，天空中有一架客机、云朵、野花以及一个绿色的加州 1 号公路路牌。
+
+人物与计数主体：房车内包含正好 4 名探险者：1 名微笑着的成年男性驾驶员，戴着眼镜和蓝色派对帽，留着棕色短发和胡须；1 名微笑着的成年女性坐在副驾驶座，拿着一张展开的公路地图，留着黑色长发；1 名金发女孩从后窗探出身子挥手；1 名卷发男孩从另一个后窗探出身子微笑。在驾驶员车窗附近添加正好 1 个金色气球，上面印有黑色大号数字“40”。在右下角前景的蓝色水域中添加正好 1 只顽皮的海獭。在右侧添加正好 1 个木制路牌，上面写着“YOSEMITE NATIONAL PARK”。
+
+底部标题与页脚：在插画下方，放置一个巨大的深绿色粗体标题：“{argument name="main headline" default="CALIFORNIA OR BUST!"}”。下方是一行红色与深绿色相间的旅行总结，包含由圆点分隔的 4 个项目：“9 天 • 4 名探险者 • 1,000 英里 • 40 支蜡烛”。在最底部添加一行页脚，两端带有绿色星形图标：“2026 年 7 月 15 日至 23 日 • Volkov 家庭出版社 • 印刷版第 1 期”。
+
+视觉风格：复古国家公园旅行海报与复古报纸封面相结合，雕刻版画风格的漫画线条，温暖怀旧的色调，略带磨损的纸张纹理，高细节，欢快冒险的氛围，清晰易读的文字。
+
+约束条件：保持所有可见文字拼写与指定内容完全一致，保留正好 4 名探险者、1 个气球、1 只海獭、1 个优胜美地路牌、1 架飞机、1 座金门大桥和 1 个加州 1 号公路路牌的计数。禁止添加额外人物、现代 UI 元素或水印。
+
+[English]
+Goal: Create a vintage illustrated travel-newspaper front page poster celebrating {argument name="character name" default="Alex"}'s 40th birthday and a family road trip to California.
+
+Canvas: Vertical poster in a 3:4 ratio, aged cream paper background, dark green and warm ochre ink palette, screen-printed texture, hand-drawn editorial illustration style, crisp readable typography, thin black newspaper borders.
+
+Top masthead: At the very top, draw a curved old-fashioned newspaper banner with mountains, pine trees, and a rising orange sun behind it. Large text reads “THE VOLKOV” above an oversized title “EXPEDITION TIMES.” Under it, place a golden ribbon reading “{argument name="edition text" default="Alex's 40th Birthday Edition"}.” Below the ribbon, add a small dateline row: “Wednesday, July 15, 2026 • Vol. 40, No. 1.”
+
+Main illustration: A large framed scenic travel illustration fills the center. Show a cream-colored vintage RV with orange and teal stripes driving along a winding coastal/mountain road in California. The background includes Yosemite granite cliffs and waterfall, tall redwood trees, distant blue mountains, the Golden Gate Bridge and San Francisco skyline to the left, a flying passenger airplane in the sky, clouds, wildflowers, and a green California Highway 1 road sign.
+
+Characters and counted subjects: Include exactly 4 explorers in the RV: 1 smiling adult man driving, wearing glasses and a blue party hat, with short brown hair and beard; 1 smiling adult woman in the passenger seat holding an unfolded road map, with long black hair; 1 blonde girl leaning out of the rear window waving; 1 curly-haired boy leaning out of another rear window smiling. Add exactly 1 gold balloon attached near the driver’s window with the number “40” printed large in black. Add exactly 1 playful sea otter splashing in blue water at the lower right foreground. Add exactly 1 wooden sign on the right reading “YOSEMITE NATIONAL PARK.”
+
+Bottom headline and footer: Beneath the illustration, place a huge bold dark-green headline: “{argument name="main headline" default="CALIFORNIA OR BUST!"}” Under it, a red and dark-green trip summary line with exactly 4 items separated by dots: “9 DAYS • 4 EXPLORERS • 1,000 MILES • 40 CANDLES.” At the very bottom, add a footer line with green star icons at both ends: “July 15–23, 2026 • Volkov Family Press • Print Edition No. 1.”
+
+Visual style: Retro National Parks travel poster mixed with vintage newspaper cover, engraved comic-book linework, warm nostalgic colors, slightly distressed paper grain, high detail, cheerful adventurous mood, clean readable text.
+
+Constraints: Keep all visible text spelled exactly as specified, preserve the exact count of 4 explorers, 1 balloon, 1 otter, 1 Yosemite sign, 1 airplane, 1 Golden Gate Bridge, and 1 California Highway 1 sign. No extra people, no modern UI elements, no watermark.
+```
+
+**来源：** [@Alex Volkov @ AI Engineer](https://x.com/altryne/status/2074885731978535352) | 2026-07-08
+
+---
+
+### 🎴 例 3466：复古风“名字之龙”故事书海报
+
+![复古风“名字之龙”故事书海报](../../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E2%80%9C%E5%90%8D%E5%AD%97%E4%B9%8B%E9%BE%99%E2%80%9D%E6%95%85%E4%BA%8B%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="title text" default="The Name Dragon"} 的奇幻儿童故事创作一张插画风格浓郁的复古故事书海报封面，呈现温馨的魔法图书馆场景和华丽的手绘艺术字体。
+
+画布：竖版人像海报，3:4 比例，呈现出陈旧插画书封面的质感。使用深青黑色背景，带有做旧的羊皮纸纹理，搭配铜橙色的装饰边框、角落花纹、星星、月亮以及细小的魔法微光。
+
+顶部排版：上半部分以醒目的华丽衬线字体为主，写着 {argument name="title text" default="The Name Dragon"}。字体呈温暖的古董金色，带有雕刻线条纹理、微妙的阴影、卷曲的装饰笔画，呈现出手工印刷的复古感。标题上方及周围环绕着小星星、一弯新月、顶部中央的一个小火焰图标以及对称的藤蔓状花纹。标题下方是一个带有火焰徽章的小盾牌，随后是奶油金色的衬线字体副标题 {argument name="subtitle text" default="Every roar remembers home"}。
+
+主体场景：下半部分展示了一个舒适的魔法图书馆，位于拱形壁龛内，闪烁着夕阳的光芒。书架、灯笼、卷轴、装裱艺术品、植物和温暖的琥珀色光线充盈着背景。地板上散落着羊皮纸名片和金色微光。
+
+角色：包含 4 个主要角色。1) 一只坐在中央的小橙色幼龙，可爱且表情生动，有着圆圆的绿眼睛、灰色小角、红橙色鳞片、小翅膀、卷曲的尾巴和爪子；它手里拿着一张写有 {argument name="dragon parchment text" default="Who am I?"} 的羊皮纸。2) 左侧坐着一个小女孩，棕色头发扎成凌乱的发髻，系着红色丝带，穿着青色刺绣斗篷和红色围巾，托着腮温柔地微笑。3) 右侧是一只睿智的猫头鹰，戴着圆眼镜，穿着深色长袍，正在阅读一本标有 {argument name="book title" default="The Book of Names"} 的棕色书籍。4) 右下角是一只戴着绿色围巾的小橙色狐狸，好奇地看向幼龙。
+
+可见文字与可数物品：地板上包含 6 张散落的名片，分别标注为：“Scorch”、“Spark”、“Ember”、“Puff”、“Home” 和 “Blazy”。在左侧书架上增加一条悬挂的红色横幅，文字为 {argument name="banner text" default="NAMES LIVE IN MEMORIES AND HEARTS"}。确保标题、副标题、龙手中的羊皮纸、猫头鹰的书名、横幅以及六张名片清晰可读。
+
+视觉风格：奇思妙想的手绘儿童书插画，复古奇幻封面，温暖的橙色和金色灯光，深青色阴影，纹理纸张颗粒感，略带不完美的墨水线条，华丽的装饰边框，温馨的情感氛围。避免照片级真实感、现代 UI 元素或额外角色。
+
+[English]
+Goal: Create a richly illustrated vintage storybook poster cover for a fantasy children's tale titled {argument name="title text" default="The Name Dragon"}, with a warm, magical library scene and ornate hand-lettered typography.
+
+Canvas: Vertical portrait poster, 3:4 aspect ratio, like an aged illustrated book cover. Use a dark teal-black background with distressed parchment texture, copper-orange decorative border, corner flourishes, stars, moons, and tiny magical sparkles.
+
+Top typography: The upper half is dominated by large ornate serif lettering reading {argument name="title text" default="The Name Dragon"}. The letters are warm antique gold with engraved line texture, subtle shadowing, curled swashes, and a hand-printed vintage look. Above and around the title are small stars, a crescent moon, a small flame icon at the top center, and symmetrical vine-like flourishes. Beneath the title is a small shield crest with a flame emblem, then the subtitle {argument name="subtitle text" default="Every roar remembers home"} in cream-gold serif type.
+
+Main scene: The lower half shows a cozy magical library inside an arched alcove glowing with sunset light. Bookshelves, lanterns, scrolls, framed art, plants, and warm amber light fill the background. The floor is covered with scattered parchment name cards and golden sparkles.
+
+Characters: Include exactly 4 main characters. 1) A small orange baby dragon seated at center, cute and expressive, with round green eyes, little gray horns, red-orange scales, tiny wings, a curled tail, and clawed feet; it holds a parchment reading {argument name="dragon parchment text" default="Who am I?"}. 2) A young girl sitting on the left, brown hair tied in a messy bun with a red ribbon, wearing a teal embroidered cloak and red scarf, smiling gently with her chin in her hand. 3) A wise owl on the right wearing round spectacles and a dark robe, reading a brown book labeled {argument name="book title" default="The Book of Names"}. 4) A small orange fox at the lower right wearing a green scarf, looking toward the dragon with curiosity.
+
+Visible text and countable items: Include exactly 6 loose name cards on the floor labeled: “Scorch”, “Spark”, “Ember”, “Puff”, “Home”, and “Blazy”. Add one hanging red banner on the left bookshelf with the text {argument name="banner text" default="NAMES LIVE IN MEMORIES AND HEARTS"}. Keep the title, subtitle, dragon parchment, owl book label, banner, and six name cards readable.
+
+Visual style: Whimsical hand-painted children's book illustration, vintage fantasy cover, warm orange and gold lighting, deep teal shadows, textured paper grain, slightly imperfect ink lines, ornate decorative framing, cozy emotional atmosphere. Avoid photorealism, modern UI elements, or extra characters.
+```
+
+**来源：** [@cole](https://x.com/YUFANCHEN423652/status/2074874196027662603) | 2026-07-08
+
+---
+
+### 🎴 例 3471：“我思故我在” 中文排版海报
+
+![“我思故我在” 中文排版海报](../../images/%E2%80%9C%E6%88%91%E6%80%9D%E6%95%85%E6%88%91%E5%9C%A8%E2%80%9D%20%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽屏哲学排版海报，采用大胆的中文大字报风格，字体本身构成上升的阶梯状构图，并融入一个人形剪影。
+
+画布：16:9 横向海报，深海军蓝黑色纹理纸背景，带有细微的划痕、颗粒感、褪色的折痕和复古印刷磨损。所有主要文字使用灰白色油墨，略带做旧和粗糙感，如同丝网印刷纸张。
+
+主要排版：用 5 个巨大的块状中文字填满大部分画布，文字内容为 {argument name="main phrase" default="我思故我在"}。字符应采用定制的几何板式字体，极其厚重、棱角分明、具有建筑感，并从左到右以逐渐上升的阶梯节奏排列：第一个字符较低且宽，第二个更高，中间字符位置更高，最后一个字符在最右侧高耸。让字符看起来像巨大的混凝土结构或楼梯，带有直线切割和负空间。布局应显得智能且刻意，而非标准的字体渲染。
+
+人物融入：在第三个和第四个大字符之间的负空间内，放置 1 个深色的坐姿思考者剪影，位置大致在右下方。人物向前蜷缩，一只手肘放在膝盖上，手靠近下巴，唤起罗丹“思考者”的姿态。剪影应与背景颜色相同，看起来像是从白色字体中雕刻出来的。
+
+小型文字元素：在海报周围添加 9 组小型排版文字：左上角 1 句中文引语，内容为 {argument name="quote text" default="思想不是被肯定明的方式，而是使我们得以存在的理由。——笛卡尔"}；左下角 1 个英文标题 “COGITO ERGO SUM”；左下角 1 组小型中文翻译 “我 思 故 我 在” 和 “RENE DESCARTES”；底部 1 个标签 “PHILOSOPHY EXHIBITION”；底部 1 个标签 “EXISTENCE IS NOT GIVEN. IT IS REALIZED.”；底部 1 个标签 “THINK. QUESTION. THEREFORE. BE.”；右下角 1 个罗马数字代码 {argument name="roman code" default="MMXXIV"}；右下角 1 行版权声明 “© ALL RIGHTS RESERVED”；以及最右下角 1 个极简的 phi 状圆形符号。所有小字保持紧凑的大写无衬线字体，字间距宽，笔画纤细，基线对齐严谨。
+
+视觉风格：极简野兽派平面设计，东亚海报美学，受包豪斯启发的网格准则，高对比度，电影般的负空间，深蓝黑色背景上的灰白色油墨，细腻的纸张纹理，做旧边缘，除自然纹理外无渐变。海报应呈现出关于勒内 · 笛卡尔及其名言“我思故我在”的艺术展览公告感。
+
+约束条件：必须使用 5 个大中文字符和 1 个坐姿剪影。除 9 组小字外，不得添加额外的人物、图标、插图或装饰性物体。保持鲜明的海报构图、纪念碑式的排版以及上升的阶梯结构。
+
+[English]
+Goal: Create a widescreen philosophical typography poster in a bold Chinese big-character-poster style, where the typography itself forms an ascending staircase-like composition and integrates a human silhouette.
+
+Canvas: 16:9 horizontal poster, dark navy-black textured paper background with subtle scratches, grain, faded fold lines, and vintage print wear. Use an off-white ink color for all main type, slightly distressed and roughened like screen-printed paper.
+
+Main typography: Fill most of the canvas with exactly 5 enormous blocky Chinese characters reading {argument name="main phrase" default="我思故我在"}. The characters should be custom geometric slab forms, extremely heavy, angular, architectural, and arranged from left to right with a gradual rising step rhythm: the first character lower and wide, the second taller, the middle characters higher, and the final character towering at the far right. Make the characters look like massive concrete structures or stairs, with rectilinear cutouts and negative spaces. The layout should feel intelligent and intentional, not standard font rendering.
+
+Figure integration: Place exactly 1 dark silhouette of a seated thinker inside the negative space between the third and fourth large characters, roughly lower center-right. The person sits hunched forward with one elbow on a knee and hand near the chin, evoking Rodin’s thinker pose. The silhouette should be the same dark color as the background, appearing carved out of the white typography.
+
+Small text elements: Add exactly 9 small typographic text groups around the poster: 1 small Chinese quote in the upper left reading {argument name="quote text" default="思想不是被肯定明的方式，而是使我们得以存在的理由。——笛卡尔"}; 1 bottom-left English title reading “COGITO ERGO SUM”; 1 small bottom Chinese translation group reading “我 思 故 我 在” and “RENE DESCARTES”; 1 bottom label reading “PHILOSOPHY EXHIBITION”; 1 bottom label reading “EXISTENCE IS NOT GIVEN. IT IS REALIZED.”; 1 bottom label reading “THINK. QUESTION. THEREFORE. BE.”; 1 bottom-right roman code reading {argument name="roman code" default="MMXXIV"}; 1 bottom-right copyright line reading “© ALL RIGHTS RESERVED”; and 1 minimalist phi-like circular symbol at the far bottom right. Keep all small text in condensed uppercase sans serif with wide tracking, thin strokes, and careful baseline alignment.
+
+Visual style: Minimalist brutalist graphic design, East Asian poster aesthetics, Bauhaus-inspired grid discipline, high contrast, cinematic negative space, off-white ink on deep blue-black, subtle paper texture, aged edges, no gradients except natural texture. The poster should feel like an art exhibition announcement about René Descartes and the phrase “I think, therefore I am.”
+
+Constraints: Use exactly the 5 large Chinese characters and exactly 1 seated silhouette. Do not add extra figures, icons, illustrations, or decorative objects beyond the 9 small text groups. Preserve the stark poster composition, monumental typography, and ascending stair-step structure.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074862006767923402) | 2026-07-08
+
+---
+
+### 🎴 例 3475：极简中文语录海报
+
+![极简中文语录海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E6%96%87%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个极简风格的系列语录海报，背景采用米白色暖色纸张，带有细腻的胶片颗粒感，并留有大量负空间。使用 16:9 的宽幅横向画布。在顶部正中央，放置一行极小的黑色字间距文本，内容为“金句 01 | QUOTE SERIES”。在画面中心，放置一对巨大的粗体红色开引号，采用几何块状设计，置于语录上方。下方居中放置两行粗体红色中文语录，使用厚重的无衬线字体：{argument name="quote" default="人要有翻篇的能力，不依不饶就是画地为牢。"} 若使用默认文本，第一行为“人要有翻篇的能力，”，第二行为“不依不饶就是画地为牢。”。添加两个超大的装饰性引号轮廓，使用细红色线条：共 2 个轮廓引号装饰，一个在左上角部分裁切，另一个在右下角部分裁切。保持构图极其简洁、具有编辑感、现代且注重排版，不要使用照片、人物、图标、阴影或水印。使用红橙色作为主要强调色 {argument name="accent color" default="#ff3b2f"}，并使用奶油色纸张作为背景 {argument name="background color" default="#f5f1e6"}。
+
+[English]
+Create a minimalist quote-series poster with an off-white warm paper background, subtle film grain, and lots of negative space. Use a wide horizontal 16:9 canvas. At the very top center, place tiny black tracking text reading “金句 01 | QUOTE SERIES”. In the center, place a huge pair of bold red opening quotation marks, geometric and blocky, positioned above the quote. Below it, center a two-line bold red Chinese quote in a heavy sans-serif typeface: {argument name="quote" default="人要有翻篇的能力，不依不饶就是画地为牢。"} The first line should read “人要有翻篇的能力,” and the second line should read “不依不饶就是画地为牢。” if using the default. Add two oversized decorative quotation-mark outlines in a thin red stroke: 2 total outline quote decorations, one partially cropped in the upper-left corner and one partially cropped in the lower-right corner. Keep the composition extremely clean, editorial, modern, and typographic, with no photos, no characters, no icons, no shadows, and no watermark. Use red-orange as the main accent color {argument name="accent color" default="#ff3b2f"} and a cream paper background {argument name="background color" default="#f5f1e6"}.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074858702675628436) | 2026-07-08
+
+---
+
+### 🎴 例 3476：热带金刚鹦鹉杂志封面
+
+![热带金刚鹦鹉杂志封面](../../images/%E7%83%AD%E5%B8%A6%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版热带野生动物杂志封面，以雨林中生动的绯红金刚鹦鹉为主角，采用醒目的编辑排版和高端探险与自然美学风格。
+
+画布：竖版杂志封面，2:3 比例。背景为深邃茂密的丛林，布满浓密的绿叶、棕榈叶、长满苔藓的树枝、大气薄雾，以及从右上角斜射而下的温暖阳光。高对比度电影级光效，写实摄影风格，鸟类细节清晰，背景具有柔和的景深效果。
+
+主体：一只大型绯红金刚鹦鹉栖息在从右下角延伸至中心的覆苔树枝上。鹦鹉呈四分之三侧面朝向右方，拥有淡色弯曲喙部、细致的眼环、红色的头部和胸部羽毛、橙黄色的翼部过渡、绿色点缀、深蓝色翼羽以及向下延伸的长红色尾羽。鸟类占据画面中心及中下部，略微遮挡标题。
+
+刊头与期号文字：在上方三分之一处放置一个巨大的优雅衬线体刊头，文字为 {argument name="magazine title" default="Seedream"}，采用暖金色，几乎横跨整个宽度。左上角为小型白色大写标语：“EXPLORE THE WILD, INSPIRE THE SOUL.”，下方配有一条细黄色横线。右上角为紧凑的期号块：“VOL.”位于大号黄色“01”上方，下方为白色的“SUMMER 2026”。
+
+封面标题：包含 5 组编辑封面标题、1 个圆形徽章和 1 个加号功能标记。使用压缩粗体大写无衬线字体，以白色为主，关键词采用金色。
+
+1. 左中封面标题：“WILD”为白色，“BEAUTY”为黄色，配有短黄色下划线，随后是小型白色文字：“DISCOVER NATURE’S MOST VIBRANT COLORS AND HIDDEN WONDERS.”
+2. 右中封面标题：“FLY BEYOND”为白色，“LIMITS”为黄色，配有短黄色下划线，随后是小型白色文字：“THE FREEDOM TO SOAR, THE COURAGE TO EXPLORE.”
+3. 右下封面标题：“TROPICAL”为白色，“SPLENDOR”为黄色，配有短黄色下划线，随后是小型白色文字：“A CELEBRATION OF LIFE, COLOR, AND BIODIVERSITY.”
+4. 左下角黄色加号下方的专题行：“PHOTO STORY”为白色，“RAINFOREST ADVENTURES”为黄色，随后是小型白色文字：“JOURNEYS INTO THE HEART OF THE WILD.”
+5. 左中下方的圆形徽章：细双线黄色圆圈内含一个小叶子图标，“NATURE”为白色，“INSIDE”为黄色，并配有微小的弧形辅助白色文字：“STORIES THAT CONNECT US ALL.”
+
+视觉风格：编辑类野生动物杂志封面，写实奢华旅行摄影，深森林绿，金黄色排版，清晰的印刷设计，平衡的非对称布局，戏剧性的背光，微妙的镜头光晕，薄雾，以及羽毛和叶片的高细节表现。
+
+约束：保持所有文字清晰且拼写正确。不要添加条形码、价格、二维码、水印、额外的鸟类、人物或额外的封面标题。保持精致专业的杂志封面构图。
+
+[English]
+Goal: Create a vertical tropical wildlife magazine cover featuring a vivid scarlet macaw in a rainforest, with bold editorial typography and a premium adventure-nature aesthetic.
+
+Canvas: Portrait magazine cover, 2:3 aspect ratio. Dark lush jungle background with dense green leaves, palm fronds, mossy branches, atmospheric haze, and warm sunbeams streaming diagonally from the upper right. High-contrast cinematic lighting, realistic photography style, sharp bird detail, soft depth of field in the background.
+
+Main subject: One large scarlet macaw perched on a moss-covered branch angled from lower right toward center. The parrot faces right in three-quarter profile, with a pale curved beak, detailed eye rings, red head and chest feathers, orange-yellow wing transitions, green accents, deep blue wing feathers, and long red tail feathers extending downward. The bird occupies the center and lower center, overlapping the title slightly.
+
+Masthead and issue text: Place a huge elegant serif masthead reading {argument name="magazine title" default="Seedream"} across the upper third in warm golden yellow, spanning nearly the full width. In the top left, small white uppercase tagline: “EXPLORE THE WILD, INSPIRE THE SOUL.” with a thin yellow horizontal line beneath. In the top right, compact issue block: “VOL.” above large yellow “01”, with “SUMMER 2026” below in white.
+
+Cover lines: Include exactly 5 editorial cover-line groups plus 1 circular badge and 1 plus sign feature marker. Use condensed bold uppercase sans-serif typography, mostly white with key words in golden yellow.
+
+1. Left middle cover line: “WILD” in white, “BEAUTY” in yellow, short yellow underline, then small white text: “DISCOVER NATURE’S MOST VIBRANT COLORS AND HIDDEN WONDERS.”
+2. Right middle cover line: “FLY BEYOND” in white, “LIMITS” in yellow, short yellow underline, then small white text: “THE FREEDOM TO SOAR, THE COURAGE TO EXPLORE.”
+3. Lower right cover line: “TROPICAL” in white, “SPLENDOR” in yellow, short yellow underline, then small white text: “A CELEBRATION OF LIFE, COLOR, AND BIODIVERSITY.”
+4. Lower left feature line beneath a yellow plus sign: “PHOTO STORY” in white, “RAINFOREST ADVENTURES” in yellow, then small white text: “JOURNEYS INTO THE HEART OF THE WILD.”
+5. Circular badge on left lower-middle: thin double-line yellow circle containing a small leaf icon, “NATURE” in white, “INSIDE” in yellow, and tiny curved/supporting white text: “STORIES THAT CONNECT US ALL.”
+
+Visual style: Editorial wildlife magazine cover, realistic luxury travel photography, deep forest greens, golden-yellow typography, crisp print design, balanced asymmetrical layout, dramatic backlight, subtle lens glow, mist, and high detail in feathers and leaves.
+
+Constraints: Keep all text legible and correctly spelled. Do not add barcodes, pricing, QR codes, watermarks, extra birds, people, or additional cover lines. Maintain a polished professional magazine-cover composition.
+```
+
+**来源：** [@小互](https://x.com/xiaohu/status/2074855970359181521) | 2026-07-08
+
+---
+
+### 🎴 例 3482：赛博朋克黑胶人偶召唤之门
+
+![赛博朋克黑胶人偶召唤之门](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%BB%91%E8%83%B6%E4%BA%BA%E5%81%B6%E5%8F%AC%E5%94%A4%E4%B9%8B%E9%97%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直电影感的赛博朋克全身角色海报，背景为夜晚雨中的未来城市。画面中心为单一的人形街头服饰角色，采用低角度英雄姿态，站在湿润且带有紫色倒影的地面上；角色一只机械/戴手套的手向上举起，在头顶召唤出一个发光的紫色能量漩涡。角色拥有一个巨大的球形头盔/头部，上面绘有绿色、黄色、青色、粉色和橙色的涂鸦式漩涡，右侧有一个巨大的圆形靶心状眼睛，正面环绕着锯齿状的紫色怪物嘴部图案。服装：一件带有霓虹油漆溅射效果的黑色仿皮夹克（{argument name="paint colors" default="酸橙色、亮粉色和紫色"}），毛绒衣领，黑色衬衫上印有醒目的圆形 C 标志，宽松的黑色工装裤上贴有白色的“VLNS”补丁，悬挂着霓虹骷髅挂饰，链条上挂着一个小巧的白色骷髅钥匙扣，以及带有 C 标志的虹彩高帮运动鞋。画面仅展示一个角色，一只举起的手，手上方仅有一个巨大的紫色能量之门，一个球形头盔，一个白色骷髅钥匙扣，以及摩天大楼间漂浮或安装的五个清晰可见的圆形全息靶心标志。背景：高耸的深色摩天大楼，带有洋红色、紫色和青色的霓虹窗户，地面附近有雾气，乌云密布，雨水湿润的倒影，散落的紫色光点，以及充满情绪的科幻氛围。灯光应具有戏剧性，高对比度，以 {argument name="primary neon color" default="电光紫"} 为主色调，轮廓光勾勒出人物线条，能量之门发出明亮的光芒。风格：超细节 3D 渲染，时尚玩具/设计师黑胶人偶美学，角色焦点清晰，电影级景深，逼真的潮湿表面，鲜艳饱和的色彩，无多余角色，无水印，无边框。
+
+[English]
+Create a vertical cinematic cyberpunk full-body character poster in a rainy futuristic city at night. Center a single humanoid streetwear figure, low-angle hero pose, standing on a glossy wet pavement with purple reflections; the character raises one robotic/gloved hand straight upward, summoning a glowing violet energy vortex overhead. The character has a large spherical helmet/head with colorful graffiti-like swirls in green, yellow, cyan, pink, and orange, one big circular target-like eye on the right side, and a jagged purple monster-mouth graphic wrapping the front. Outfit: a black leather-like jacket with neon paint splatters in {argument name="paint colors" default="acid green, hot pink, and purple"}, furry collar trim, black shirt with a bold circular C emblem, loose black cargo pants with a white “VLNS” patch, dangling neon skull charms, a small white skull keychain on a chain, and iridescent high-top sneakers with C logos. Show exactly one character, exactly one raised hand, exactly one large purple energy portal above the hand, exactly one spherical helmet, exactly one white skull keychain, and exactly five visible circular holographic target signs floating or mounted among the skyscrapers. Background: towering dark skyscrapers with magenta, violet, and cyan neon windows, fog near the ground, stormy clouds, rain-slick reflections, scattered purple light particles, and a moody sci-fi atmosphere. Lighting should be dramatic, high contrast, dominated by {argument name="primary neon color" default="electric purple"}, with rim light outlining the figure and bright glow from the portal. Style: ultra-detailed 3D render, fashion toy/designer vinyl character aesthetic, sharp focus on the character, cinematic depth of field, realistic wet surfaces, vibrant saturated colors, no extra characters, no watermark, no border.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2074829087336759764) | 2026-07-08
+
+---
+
+### 🎴 例 3494：宏大中国风海洋封面
+
+![宏大中国风海洋封面](../../images/%E5%AE%8F%E5%A4%A7%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%B5%B7%E6%B4%8B%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宏大编辑风格的宽屏中国风自媒体封面海报，将主题转化为清晰的象征性主体，置于超大裁剪排版之间。
+
+画布：16:9 横向海报，米白色纸张背景，带有细腻纹理，采用海军蓝与灰度配色，高对比度，电影感且简洁。采用精准的杂志封面布局，上部天空留有大量负空间，底部三分之一处为汹涌的深色海洋。
+
+主体构图：在中心位置，放置一座从风暴海浪中垂直升起的巍峨锯齿状灰色岩石岛或山峰，底部伴有薄雾和海浪飞沫。山峰为写实黑白风格，细节锐利，略带背光，居中对齐。在标题后方中空高度的天空中，添加约 9 只微小的黑色飞鸟。前景水域粗犷、深邃、纹理丰富且带有泡沫。
+
+排版与象征图形：使用 2 个巨大的深海军蓝中文字符作为抽象背景形状，左右各一，代表“沉浮”的概念。左侧巨型字符大部分位于山峰后方并从左边缘裁剪，笔画厚重且几何感强；右侧巨型字符从右边缘及上下边缘裁剪，同样采用粗体几何海军蓝笔画。让这些字符作为巨大的建筑形状存在，而非普通的易读文本。
+
+中央标题：在山峰和天空中间放置一行醒目的粗体中文标题：{argument name="headline text" default="谁主沉浮"}。使用深海军蓝、厚重的现代宋体/黑体混合字形，字间距宽，清晰且具权威感。在标题右侧紧邻处添加一个小红方印。在标题下方，添加一条细横线，中间夹着较小的中文副标题：{argument name="subtitle text" default="潮起潮落终有时　唯有初心立不移"}。
+
+顶部元数据行：在顶部边缘对齐添加 5 组小型的元数据，采用极简技术编辑风格：1) 左侧组标记为“ISSUE NO.”，值为 {argument name="issue number" default="047"} 并附带一条短横线，2) 标记为“DATE”的组，值为 {argument name="date" default="2024 / 05 / 20"}，3) 标记为“COORDINATES”的组，值为“30.5728°N, 114.3065°E”，4) 标记为“THEME”的组，包含两个中文短语“时代浪潮”和“人心为舵”，5) 右侧组标记为“DESIGN”，值为 {argument name="studio name" default="XINCHAO STUDIO"}，并在最右侧附近添加一个小海军蓝圆点。
+
+侧边注释：添加 2 列垂直注释栏。左侧栏位于左下边缘附近，包含“观沧海之变”和“思天下之局”，中间由细垂直线分隔，下方带有一个小型圆形目标图标。右侧栏位于右下边缘附近，包含“大势如潮”和“顺势者昌　逆势者亡”，下方带有一个小型波浪图标。保持这些侧边文字微小、深海军蓝且垂直排列。
+
+图形细节：在巨型字符后方添加淡淡的细圆弧和精细的引导线，如同微妙的布局构造标记。保持红色印章作为唯一的暖色调点缀。整体氛围：宏大、严肃、战略性、力量感且略带复古印刷感。无人物，无额外 Logo，无水印，除指定的元数据、标题、副标题和侧边注释外，不包含任何额外文本。
+
+[English]
+Goal: Create a dramatic widescreen Chinese self-media cover poster in a monumental editorial style, where the theme is translated into a clear symbolic main form placed between oversized cropped typography.
+
+Canvas: 16:9 horizontal poster, off-white paper background with subtle grain, navy blue and grayscale palette, high contrast, cinematic but clean. Use a precise magazine-cover layout with lots of negative space in the upper sky and a turbulent dark ocean filling the bottom third.
+
+Main composition: In the center, place a towering jagged gray rock island or mountain rising vertically from stormy ocean waves, with mist and sea spray at its base. The mountain is photorealistic black-and-white, sharply detailed, slightly backlit, and centered. Add a small flock of about 9 tiny black birds around the mid-height sky behind the headline. The foreground water is rough, dark, textured, and foamy.
+
+Typography and symbolic forms: Use exactly 2 enormous cropped dark navy Chinese characters as abstract background shapes, one on the left and one on the right, representing the concept of “sinking and floating.” The left giant character should be mostly behind the mountain and cropped off the left edge, with thick geometric strokes; the right giant character should be cropped off the right edge and top/bottom edges, also in bold geometric navy strokes. Let these characters function as massive architectural shapes rather than ordinary readable text.
+
+Central headline: Place a large bold Chinese headline across the middle of the mountain and sky: {argument name="headline text" default="谁主沉浮"}. Use dark navy, heavy modern Songti/Heiti hybrid lettering, widely spaced, crisp and authoritative. Add a small red square seal stamp immediately to the right of the headline. Under the headline, add a thin horizontal line on both sides of a smaller Chinese subtitle: {argument name="subtitle text" default="潮起潮落终有时　唯有初心立不移"}.
+
+Top metadata row: Add exactly 5 small metadata groups aligned along the top margin in a minimalist technical editorial style: 1) left group labeled “ISSUE NO.” with value {argument name="issue number" default="047"} and a short horizontal rule, 2) group labeled “DATE” with value {argument name="date" default="2024 / 05 / 20"}, 3) group labeled “COORDINATES” with value “30.5728°N, 114.3065°E”, 4) group labeled “THEME” with two small Chinese phrases “时代浪潮” and “人心为舵”, 5) right group labeled “DESIGN” with value {argument name="studio name" default="XINCHAO STUDIO"} plus one small navy dot near the far right.
+
+Side annotations: Add exactly 2 vertical annotation columns. Left side column, near the lower left margin, contains “观沧海之变” and “思天下之局” separated by a thin vertical divider, with a small circular target-like icon below. Right side column, near the lower right margin, contains “大势如潮” and “顺势者昌　逆势者亡” with a small wave icon below. Keep these side texts tiny, dark navy, and vertical.
+
+Graphic details: Add faint thin circular arcs and fine guide lines behind the giant characters, like subtle layout construction marks. Keep the red seal as the only warm accent. Overall mood: grand, serious, strategic, powerful, and slightly vintage print. No people, no extra logos, no watermark, no additional text beyond the specified metadata, headline, subtitle, and side annotations.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074790830871900567) | 2026-07-08
+
+---
+
+### 🎴 例 3498：未来感 Crocs 时尚广告海报
+
+![未来感 Crocs 时尚广告海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Crocs%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张为 {argument name="brand" default="Crocs"} 设计的未来感高端时尚广告海报，融合了奢华时尚与趣味超现实主义。场景设置在一个宽敞、充满未来感的白色与 {argument name="color accent" default="柔和薰衣草紫"} 工作室内，拥有弧形建筑墙面、光亮的地板以及极简的编辑氛围。
+
+核心元素是一只巨大的淡紫色 Crocs 洞洞鞋，像未来主义的休闲雕塑一样悬浮在地面上方。这双鞋被转化为一件时尚宣言单品，带有发光点缀和细腻的纹理细节。一位留着利落深色长发的时尚模特自信地坐在巨大的 Crocs 边缘，身穿现代单色薰衣草紫套装，包括超大廓形外套、剪裁利落的长裤以及高级白色 Crocs。她的姿态放松而有力，神情平静且自信地注视前方。
+
+在巨型鞋履周围，几只微型 Crocs 像未来感配饰一样悬浮在空中，营造出想象力与创新的氛围。背景中，巨大的 3D 文字“CROCS”以优雅的粗体排版呈现，与环境深度和阴影融为一体。
+
+底部中央的标语采用简洁的现代无衬线字体：
+“舒适进化为生活方式。超越平凡。”
+
+灯光采用柔和的电影级摄影棚布光，抛光地面上有细腻的倒影，写实的阴影，高端时尚广告摄影风格，超逼真细节，奢华编辑美学，高端品牌广告，8K 画质。
+
+长宽比：3:4
+
+[English]
+A futuristic high-fashion advertising poster for {argument name="brand" default="Crocs"}, blending luxury fashion with playful surrealism. The scene takes place inside a vast futuristic white and {argument name="color accent" default="soft lavender"} studio with curved architectural walls, glossy floors, and a minimal editorial atmosphere.
+
+The hero element is a gigantic oversized pastel lavender Croc clog floating slightly above the ground like a futuristic lounge sculpture. The shoe is transformed into a stylish statement piece, with glowing accents and subtle texture details. A fashion model with sleek dark hair sits confidently on the edge of the giant Croc, wearing a modern monochrome lavender outfit consisting of an oversized structured jacket, tailored pants, and premium white Crocs. Her pose is relaxed and powerful, looking forward with a calm, confident expression.
+
+Around the giant shoe, several miniature Crocs float in the air like futuristic accessories, creating a sense of imagination and innovation. In the background, massive 3D text reads "CROCS" in elegant bold typography, integrated into the environment with depth and shadows.
+
+Bottom center tagline in clean modern sans-serif typography:
+"Comfort evolved into a lifestyle. Step beyond ordinary."
+
+Lighting is soft cinematic studio lighting with subtle reflections on the polished floor, realistic shadows, premium fashion campaign photography style, ultra-realistic details, luxury editorial aesthetic, high-end brand advertisement, 8K quality.
+
+Aspect ratio: 3:4
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2074777444649927050) | 2026-07-08
+
+---
+
+### 🎴 例 3517：极简电影感排版海报
+
+![极简电影感排版海报](../../images/%E6%9E%81%E7%AE%80%E7%94%B5%E5%BD%B1%E6%84%9F%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款引人注目的极简电影感海报，配有纯色 {argument name="background color" default="背景颜色"} 纹理背景。巨大的做旧排版文字“{argument name="main word" default="主标题"}”以超大号粗体压缩字体占据构图中心，上方或文字内部配有一行小字标语“{argument name="tagline" default="标语"}”。[FAMOUS PERSON] 的小型全身剪影自信地站在或走在排版文字前，身穿 [OUTFIT DESCRIPTION]，手持 [PROP OR SYMBOLIC OBJECT]。人物投射出超长的阴影，戏剧性地延伸到巨大的字母上，成为叙事的核心元素。高对比度光影，细腻的颗粒质感，高级编辑设计，大胆的留白，现代极简构图，电影氛围，超精细，照片级真实感，8K 分辨率，可直接打印。
+
+[English]
+A striking minimalist cinematic poster with a solid {argument name="background color" default="BACKGROUND COLOR"} textured backdrop. Massive distressed typography reading “{argument name="main word" default="MAIN WORD"}” dominates the composition in oversized bold condensed letters, with a small tagline “{argument name="tagline" default="TAGLINE"}” positioned above or within the text. A small full-body silhouette of [FAMOUS PERSON] stands or walks confidently in front of the typography, wearing [OUTFIT DESCRIPTION] and holding [PROP OR SYMBOLIC OBJECT]. The figure casts an oversized elongated shadow that stretches dramatically across the giant letters, becoming a central storytelling element. High-contrast lighting, subtle grunge texture, premium editorial design, bold negative space, modern minimalist composition, cinematic atmosphere, ultra-detailed, photorealistic, 8K, print-ready.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2074722554682732580) | 2026-07-08
+
+---
+
+### 🎴 例 3523：四层级动漫海报对比
+
+![四层级动漫海报对比](../../images/%E5%9B%9B%E5%B1%82%E7%BA%A7%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张宽幅社交媒体对比图，并排展示四张为同一虚构电影生成的动漫海报，在保持电影标题和上映日期一致的前提下，对比不同 Prompt 编写者的层级。
+
+画布：1200×675 的横向图像，采用深炭灰色背景，呈现简洁的 X/Twitter 风格。顶部设有细长的说明标题区，下方从左至右排列 4 张带有窄间距的竖向海报面板。
+
+顶部文本：左上角的大号日语标题：「文字入りポスター × gpt-image-2固定 × プロンプトを書くClaudeの階層」。下方是较小的日语副标题：「タイトル/日付の文字は全員完璧に出た。差は“絵のアートディレクション”＝アニメ調に留まれるか（左＝最安→右＝最上位）」。
+
+布局：使用 4 个竖向海报列。每列顶部有一个带有白色文字的小型深色标签条。从左至右的 4 个标签分别为：1) “haiku｜最も安い”, 2) “sonnet”, 3) “opus”, 4) “fable｜最上位”。标签下方的每张海报均为同一部动漫电影的电影级主视觉图，且均使用相同的标题和日期文本。
+
+所有 4 张海报上的共享电影文本：醒目的日语标题：{argument name="movie title" default="サヨナラの向こうがわ"}。标题下方的小号英文副标题：{argument name="English subtitle" default="BEYOND GOODBYE"}。底部附近的上映文本：{argument name="release date" default="2027年 7月16日"}，后接「全国ロードショー」。请确保这些文本元素清晰、易读，且每张海报仅出现一次。
+
+海报 1，haiku：半写实风格，类似真人电影海报，偏离了动漫风格。一名年轻女性侧身向上看，深色头发扎起，皮肤白皙，穿着素雅的白色衬衫。夜蓝色海岸天空，伴有粉色樱花和海平线上发光的橙色日落。底部水边站着一个微小的人物。标题置于左上角，上映日期居中于底部。
+
+海报 2，sonnet：更具动漫风格的女孩，位置略偏下，长长的深色头发随风飘动，表情忧郁，向上仰望。海滨小镇上空是橙色云彩的温暖日落，远处有飞鸟和波光粼粼的海洋。绘画感动漫电影海报风格。标题置于中下部，下方为英文副标题，上映日期位于底部。
+
+海报 3，opus：高质量的戏剧性动漫主视觉图。年轻女性侧脸特写，看向右侧，发丝随风飘动，面部有温暖的轮廓光。下方是细节丰富的沿海城市和日落时的绿松石色海湾，有船只、灯光、悬崖和发光的橙紫色云彩。标题横跨中下部，下方为英文副标题，上映日期沿底部排列。
+
+海报 4，fable：最具电影感和艺术性的动漫海报，采用双重曝光构图。年轻女性巨大的空灵面孔与日落天空和港口小镇融为一体，头发消融在云层和光影中。下部展示了发光的沿海城市、海洋、日落倒影、船只和山坡灯光。采用浓郁的橙色、紫色和深蓝色调，展现高度精炼的动漫电影艺术指导。标题居中于中下部，下方为英文副标题，上映日期位于底部。
+
+视觉风格：日本动漫电影主视觉对比，电影级日落光影，感伤的告别氛围，海洋港口背景，樱花与随风飘动的发丝主题，深色 UI 背景与色彩鲜艳的海报形成高对比度。从左至右，右侧的海报应呈现出越来越精细的艺术指导和动漫感。
+
+约束条件：包含 4 个海报面板和 4 个顶部标签。不要添加额外的面板、Logo、水印或无关文本。在每张海报中准确且清晰地保留日语电影标题和上映信息。
+
+[English]
+Goal: Create a wide social-media comparison graphic showing four side-by-side generated anime movie posters for the same fictional film, comparing prompt-writer tiers while keeping the movie title and release date identical.
+
+Canvas: 1200×675 horizontal image with a dark charcoal background and a clean X/Twitter-style presentation. The top has a slim explanatory header area, and below it are exactly 4 tall poster panels arranged left to right with narrow gutters.
+
+Top text: Large Japanese headline at the upper left: 「文字入りポスター × gpt-image-2固定 × プロンプトを書くClaudeの階層」. Below it, smaller Japanese subtitle: 「タイトル/日付の文字は全員完璧に出た。差は“絵のアートディレクション”＝アニメ調に留まれるか（左＝最安→右＝最上位）」.
+
+Layout: Use exactly 4 vertical poster columns. Each column has a small dark label strip at the top with white text. The 4 labels, left to right, are: 1) “haiku｜最も安い”, 2) “sonnet”, 3) “opus”, 4) “fable｜最上位”. Each poster beneath the label is a cinematic key visual for the same anime film, all using the same title and date text.
+
+Shared movie text on all 4 posters: Prominent Japanese title: {argument name="movie title" default="サヨナラの向こうがわ"}. Small English subtitle below the title: {argument name="English subtitle" default="BEYOND GOODBYE"}. Release text near the bottom: {argument name="release date" default="2027年 7月16日"} followed by 「全国ロードショー」. Keep these text elements crisp, legible, and appearing once per poster.
+
+Poster 1, haiku: Semi-realistic live-action-like poster drifting away from anime style. A young woman in profile looks up toward the right, dark hair tied back, pale skin, subtle white blouse. Night-blue coastal sky with pink cherry blossoms and a glowing orange sunset near the sea horizon. A tiny figure stands by the waterfront at the bottom. Title placed large in the upper left; release date centered at the bottom.
+
+Poster 2, sonnet: More anime-styled girl centered slightly low, long dark windblown hair, soft melancholy expression, looking upward. Warm sunset over a seaside town with orange clouds, distant birds, and glowing ocean. Painterly anime film-poster style. Title large across the lower middle; English subtitle beneath; release date at the bottom.
+
+Poster 3, opus: High-quality dramatic anime key visual. Close-up side profile of a young woman looking right, wind-swept hair, warm rim light on her face. Below her is a detailed coastal city and turquoise bay at sunset, with boats, lights, cliffs, and luminous orange-purple clouds. Title large across the center-lower area; English subtitle below; release date along the bottom.
+
+Poster 4, fable: Most cinematic and artistic anime poster with double-exposure composition. A large ethereal face of the young woman blends into the sunset sky and harbor town, hair dissolving into clouds and light. The lower area shows a glowing coastal city, sea, sunset reflection, boats, and hillside lights. Rich orange, purple, and deep blue palette, highly polished anime film art direction. Title centered in the lower-middle; English subtitle below; release date at the bottom.
+
+Visual style: Japanese anime film key visual comparison, cinematic sunset lighting, emotional farewell mood, ocean harbor setting, cherry blossoms and windblown hair motifs, high contrast between dark UI background and colorful posters. Make the rightmost posters feel increasingly art-directed and anime-like from left to right.
+
+Constraints: Include exactly 4 poster panels and exactly 4 top labels. Do not add extra panels, logos, watermarks, or unrelated text. Preserve the Japanese movie title and release information accurately and legibly in each poster.
+```
+
+**来源：** [@AI Video Project](https://x.com/aivideo2026/status/2074709092783038641) | 2026-07-08
+
+---
+
+### 🎴 例 3525：蓝莓柠檬水广告海报
+
+![蓝莓柠檬水广告海报](../../images/%E8%93%9D%E8%8E%93%E6%9F%A0%E6%AA%AC%E6%B0%B4%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端、超写实的饮料广告海报，画面中心是一个装满鲜艳 {argument name="drink type" default="蓝莓柠檬水"} 的大型透明塑料杯。饮料呈现出浓郁的紫蓝色渐变，杯中和杯周漂浮着晶莹剔透的冰块、新鲜完整的 {argument name="fruit" default="蓝莓"}，以及浸没其中的薄柠檬片。杯身覆盖着逼真的冷凝水珠，营造出清爽冰凉的质感。杯顶插有一根黑色吸管。
+在饮料周围布置漂浮的新鲜蓝莓、半个柠檬、柠檬片、薄荷叶、水珠和晶莹剔透的冰块，形成动态构图。使用戏剧性的影棚灯光，配合光泽反射和柔和阴影，打造奢华的商业广告质感。背景采用现代分割设计，左侧为深海军蓝，右侧为柔和的薰衣草紫，并包含微妙的渐变和圆润的几何形状。将饮料置于画面中心作为核心产品。在左侧添加醒目的白色竖排文字，使用大型现代无衬线字体书写“BLUEBERRY”。在右上角包含简洁的促销文案布局：
+THE BEST IS HERE
+AT {argument name="brand name" default="HEIS DRINKS"}
+
+采用极简奢华的品牌风格，具备出色的排版层级和宽裕的留白。超写实食品摄影、商业产品广告、高端饮料宣传、鲜艳色彩、照片级水果纹理、晶莹剔透的冰块、超细节冷凝水珠、电影级灯光、柔和景深、8K 分辨率、Adobe Photoshop 广告样机、现代 Instagram 食品海报、高端饮品推广。
+
+[English]
+Create a premium, ultra-realistic beverage advertisement poster featuring a large transparent plastic cup filled with vibrant {argument name="drink type" default="blueberry lemonade"}. The drink has a rich purple-blue gradient, sparkling ice cubes, fresh whole {argument name="fruit" default="blueberries"} floating inside and around the cup, and thin lemon slices submerged throughout. The cup is covered with realistic condensation droplets, creating a refreshing, chilled appearance. A black drinking straw extends from the top.
+Surround the drink with floating fresh blueberries, lemon halves, lemon slices, mint leaves, water droplets, and crystal-clear ice cubes for a dynamic composition. Use dramatic studio lighting with glossy reflections and soft shadows to create a luxury commercial look. Background consists of a modern split design with deep navy blue on the left and soft lavender-purple on the right, including subtle gradients and rounded geometric shapes. Place the beverage in the center as the hero product. Add bold vertical white typography on the left reading "BLUEBERRY" in a large modern sans-serif font. On the upper right, include a clean promotional text layout:
+THE BEST IS HERE
+AT {argument name="brand name" default="HEIS DRINKS"}
+
+Use a minimal luxury branding style with excellent typography hierarchy and generous spacing. Hyper-realistic food photography, commercial product advertising, premium beverage campaign, vibrant colors, photorealistic fruit textures, crystal-clear ice, ultra-detailed condensation, cinematic lighting, soft depth of field, 8K resolution, Adobe Photoshop advertising mockup, modern Instagram food poster, high-end drink promotion.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2074707807925059871) | 2026-07-08
+
+---
+
+### 🎴 例 3527：Roblox 积木塔缩略图
+
+![Roblox 积木塔缩略图](../../images/Roblox%20%E7%A7%AF%E6%9C%A8%E5%A1%94%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="game title" default="巨大アスレチック ブロックタワーを駆け上がれ！"} 创建一张明亮的方形 Roblox 风格游戏宣传缩略图。这是一款激动人心的积木塔障碍跑酷游戏，玩家需要攀爬巨大的玩具积木塔，并收集宝箱来抽取扭蛋。
+
+画布：方形 1:1 缩略图，768x768 或更大，超饱和色彩，高对比度手游广告构图，所有角色和文字元素周围均带有粗白黑贴纸轮廓。
+
+布局：将红白相间的 ROBLOX 标志放在左上角。背景填充一座巨大的垂直塔，由色彩缤纷的类乐高塑料颗粒和积木平台组成，向上延伸至蓝天白云中。将主要的日文标题放在中上方，采用巨大的分层文字：上方是一个写有「巨大アスレチック」的小型黑色圆角标签，下方是巨大的彩虹色积木字体「ブロックタワー」，紧随其后的是带有黑色轮廓的白色粗体文字「を駆け上がれ！」，两侧配有黄色星星图标。在标题下方，添加一个带有白色文字的蓝色横幅：「宝箱を集めてガチャを回そう！」。在右上角添加两个游戏 HUD 计数器：2 个圆角黑色面板，一个显示金币图标和「1,234」，另一个显示宝箱图标和「宝箱 7/10」。
+
+角色与物体：包含 8 个主要可见角色：前景中一名穿着黄色武术服、橙色头发的开朗 Q 版女孩；左下角一只微笑的熊猫伙伴；左侧一名戴着皇冠、穿着绿色衣服的绿发 Q 版女孩；中心附近一名穿着红色和服的 Q 版女孩；中心一名穿着绿色衣服、扎着马尾辫的黑发 Q 版冒险家；中心右侧一名戴着小型圆形头盔的灰色头盔 Q 版女孩；右侧一名紫色狼耳 Q 版男孩；以及右上角一名抱着小黑猫飞行的深色忍者男孩。在右侧群体附近包含 3 只小型宠物/吉祥物：与忍者在一起的小黑猫、一只黄色小鸡状吉祥物和一只粉色兔子状吉祥物。在下方中心前景处添加 1 个金色宝箱，在右下角添加 1 台红金相间的胶囊扭蛋机，里面装满彩色球，顶部有一个金星。在场景周围散布一些闪闪发光的金币和星星特效。
+
+标注与 UI：在扭蛋机附近添加一个锯齿状红黄色爆炸式标注，写着「宝箱の数だけ ガチャが回せる！」。沿底部边缘添加 4 张带有橙色轮廓和图标的黑色圆角说明卡片：1 张带有宝箱图标的卡片，写着「宝箱を集めて ガチャを回そう！」；1 张带有秒表图标的卡片，写着「タイムアタックで ランキング上位を目指そう！」；1 张带有徽章图标的卡片，写着「バッジを集めて 図鑑をコンプリート！」；以及 1 张带有检查点旗帜图标的卡片，写着「セーブポイントで どこでも復帰！」。
+
+视觉风格：Roblox 风格的玩具积木世界，光泽感 3D 塑料积木，拥有超大头部、大而富有表现力的眼睛、快乐冒险表情的 Q 版动漫角色，动态奔跑姿势，卡通光效，闪光特效，强烈的投影，粗轮廓，鲜艳的红、黄、绿、蓝、紫调色板，繁忙但清晰易读的 YouTube 缩略图构图。
+
+约束：保持所有可见日文文本与指定内容完全一致，使标题成为主要焦点，使用 8 个主要角色、3 只小型宠物吉祥物、2 个右上角 HUD 计数器和 4 张底部说明卡片。禁止写实风格，禁止添加水印，除 ROBLOX 外禁止添加额外标志。
+
+[English]
+Goal: Create a bright square Roblox-style promotional game thumbnail for {argument name="game title" default="巨大アスレチック ブロックタワーを駆け上がれ！"}, an exciting block-tower obby where players climb a giant toy-brick tower and collect treasure chests to spin a gacha.
+
+Canvas: Square 1:1 thumbnail, 768x768 or larger, ultra-saturated colors, high-contrast mobile-game advertising composition, thick white and black sticker outlines around every character and text element.
+
+Layout: Put the red-and-white ROBLOX logo at the top left. Fill the background with a huge vertical tower made from colorful LEGO-like plastic studs and brick platforms, receding upward into a blue sky with clouds. Place the main Japanese headline across the upper-middle in giant layered text: a small black rounded label reading 「巨大アスレチック」 above enormous rainbow block letters reading 「ブロックタワー」, followed by bold white text with black outline reading 「を駆け上がれ！」 with yellow star icons on both sides. Under the title, add a blue banner with white text: 「宝箱を集めてガチャを回そう！」. Add two game HUD counters at the top right: exactly 2 rounded black panels, one showing a gold coin icon and 「1,234」, the other showing a treasure chest icon and 「宝箱 7/10」.
+
+Characters and objects: Include exactly 8 main visible characters: 1 cheerful orange-haired chibi girl in a yellow martial-arts outfit running in the foreground, 1 smiling panda companion at bottom left, 1 green-haired crowned chibi girl in a green outfit on the left, 1 red-kimono chibi girl near center, 1 black-haired ponytail chibi adventurer in green at center, 1 gray-helmet chibi girl with a small round helmet to the right of center, 1 purple wolf-eared chibi boy on the right, and 1 dark ninja boy flying at the upper right holding a small black cat. Include exactly 3 small pet/mascot creatures near the right group: a tiny black cat with the ninja, a yellow chick-like mascot, and a pink bunny-like mascot. Add exactly 1 golden treasure chest in the lower center foreground and exactly 1 red-and-gold capsule gacha machine at the lower right filled with multicolored balls and topped with a gold star. Scatter a few sparkling gold coins and star effects around the scene.
+
+Callouts and UI: Add a jagged red-yellow burst callout near the gacha machine reading 「宝箱の数だけ ガチャが回せる！」. Along the bottom edge, add exactly 4 black rounded instruction cards with orange outlines and icons: 1 chest icon card reading 「宝箱を集めて ガチャを回そう！」, 1 stopwatch icon card reading 「タイムアタックで ランキング上位を目指そう！」, 1 badge icon card reading 「バッジを集めて 図鑑をコンプリート！」, and 1 checkpoint flag icon card reading 「セーブポイントで どこでも復帰！」.
+
+Visual style: Roblox-inspired toy-block world, glossy 3D plastic bricks, chibi anime characters with oversized heads, big expressive eyes, joyful adventurous expressions, dynamic running poses, cartoon lighting, sparkle effects, strong drop shadows, thick outlines, vivid red yellow green blue purple palette, busy but readable YouTube thumbnail composition.
+
+Constraints: Keep all visible text in Japanese exactly as specified, make the headline the dominant focal point, use exactly 8 main characters, exactly 3 small pet mascots, exactly 2 top-right HUD counters, and exactly 4 bottom instruction cards. No photorealism, no watermark, no extra logos beyond ROBLOX.
+```
+
+**来源：** [@さっかん｜2026年Robloxの夏☀️🎮](https://x.com/output09141/status/2074705906659655719) | 2026-07-08
+
+---
+
+### 🎴 例 3529：漩涡鸣人重粒子模式海报
+
+![漩涡鸣人重粒子模式海报](../../images/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA%E9%87%8D%E7%B2%92%E5%AD%90%E6%A8%A1%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细深色动漫海报，主角为 {argument name="character" default="漩涡鸣人"}，处于 {argument name="form" default="重粒子模式"}，闪烁着 {argument name="eye color" default="琥珀色/橙色"} 的双眼，强烈的电影级光影，炽热的查克拉外衣消散为火花和液态火焰，黑色胡须纹路和重粒子模式面部条纹，锐利的金色刺猬头，戏剧性的阴影，带有黑色水墨漩涡笔触的颗粒感炭灰色背景，身后垂直排列着巨大的白色压缩字体“NARUTO”，高对比度构图，海报设计，居中人物，忧郁氛围，写实动漫绘画风格，杰作，极致细节，发光的余烬，纹理笔刷飞溅效果，史诗级主视觉图，竖屏壁纸，9:16
+Negative prompt
+低质量，模糊，多余的手指，糟糕的解剖结构，面部畸形，特征重复，头部被裁剪，杂乱的文字，错误的服装颜色，皮肤饱和度过高，平淡的光照，细节不足，水印，Logo，JPEG 压缩伪影
+
+[English]
+Ultra-detailed dark anime poster of {argument name="character" default="Naruto Uzumaki"} in {argument name="form" default="Baryon Mode"}, glowing {argument name="eye color" default="amber/orange"} eyes, intense cinematic lighting, fiery chakra cloak dissolving into sparks and liquid flame, black whisker markings and Baryon Mode facial stripes, sharp spiky blond hair, dramatic shadows, gritty textured charcoal-gray background with black ink swirl brush strokes, giant tall condensed white typography spelling “NARUTO” vertically behind him, high-contrast composition, poster design, centered character, moody atmosphere, painterly anime realism, masterpiece, insane detail, glowing embers, textured brush splash effects, epic key visual, vertical wallpaper, 9:16
+Negative prompt
+low quality, blurry, extra fingers, bad anatomy, deformed face, duplicate features, cropped head, messy text, wrong outfit colors, oversaturated skin, flat lighting, low detail, watermark, logo, jpeg artifacts
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2074702935137857976) | 2026-07-08
+
+---
+
+### 🎴 例 3533：四款模型动漫海报对比
+
+![四款模型动漫海报对比](../../images/%E5%9B%9B%E6%AC%BE%E6%A8%A1%E5%9E%8B%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张宽幅社交媒体对比图，将四张由 AI 生成的虚构动漫电影海报并排展示，以评估其日语标题和上映日期的渲染准确性。
+
+画布：1200 × 625 px 横向图像，采用深炭灰色背景。顶部预留约 45 px 高的标题栏，下方分为四个等宽的垂直海报面板，面板间由窄深色间隙隔开。
+
+标题文本：在左上角设置大型日语标题 {argument name="headline text" default="画像モデル対決：同じキービジュアル・プロンプトを4モデルで生成（架空映画ポスター）"}。在其下方使用较小的灰色日语文本添加 {argument name="subtitle text" default="評価軸＝日本語タイトル/公開日の描画精度。全モデル同一プロンプト・9:16"}。
+
+布局：使用 4 个海报列，每列顶部设有一个细长的深色标签栏。从左到右，四个标签依次为：1) “gpt-image-2｜文字の完璧”, 2) “Nano Banana Pro｜字◎/日付2重”, 3) “Nano Banana 2｜字○/題2重”, 4) “Seedream 5.0｜誤字&改行”。每张海报均为 9:16 的垂直动漫电影主视觉图。
+
+海报主题与风格：四张海报均描绘同一部虚构的日本动漫爱情/剧情片，场景设定在海边的日落时分。采用明亮、富有情感的动漫电影海报风格，柔和的绘画光影，温暖的橙粉色晚霞，闪烁的萤火虫般光点，沿海山丘，远处的滨海小镇，海平线，天空中的飞鸟，以及一位留着被风吹乱的深棕色长发、拥有明亮大眼睛的忧郁少女。保持每张海报视觉上的相似性，但在裁剪和构图上略有不同，以体现不同图像模型的输出差异。
+
+面板细节：面板 1 展示少女左上角特写，转头看向观众，下方为大海与小镇；排版严谨，标题位于中间，下方配有英文副标题，底部为上映日期。面板 2 展示少女在山坡小镇与大海背景下的近景肖像；刻意将底部的上映日期行重复两次，标题保持一次。面板 3 展示少女居中，背景为模糊的滨海小镇；刻意将日语标题重复两次，分别位于中部和海报下方，底部保留一行上映日期。面板 4 展示少女右侧面部特写，下方为大海与小镇；日语标题呈现出尴尬的断行和错误感，上映日期行居中于下方偏中位置。
+
+海报文本内容：虚构电影标题为 {argument name="movie title" default="サヨナラの向こうがわ"}。英文副标题为 {argument name="english subtitle" default="BEYOND GOODBYE"}。上映日期文本为 {argument name="release date text" default="2027年7月16日 全国ロードショー"}。标题使用优雅的日语明朝体，英文副标题使用小号间距衬线大写字母。确保第一个面板排版最整洁、最准确。
+
+限制条件：保持 4 个面板和指定的标签栏。不要添加任何 Logo、水印、额外面板、其他模型名称或无关文本。最终图像应看起来像是一张推文附带的基准测试图，用于对比四种图像模型的排版规范性。
+
+[English]
+Goal: Create a wide social-media comparison graphic showing four AI-generated fictional anime movie posters side by side, evaluating Japanese title and release-date rendering accuracy.
+
+Canvas: 1200 × 625 px horizontal image with a dark charcoal background. Add a top header area about 45 px tall, then four equal vertical poster panels beneath it separated by narrow dark gutters.
+
+Header text: At the top left, set the large Japanese headline {argument name="headline text" default="画像モデル対決：同じキービジュアル・プロンプトを4モデルで生成（架空映画ポスター）"}. Below it in smaller gray Japanese text, add {argument name="subtitle text" default="評価軸＝日本語タイトル/公開日の描画精度。全モデル同一プロンプト・9:16"}.
+
+Layout: Use exactly 4 poster columns, each with a thin dark label bar at the top. The four labels, from left to right, must read: 1) “gpt-image-2｜文字の完璧”, 2) “Nano Banana Pro｜字◎/日付2重”, 3) “Nano Banana 2｜字○/題2重”, 4) “Seedream 5.0｜誤字&改行”. Each poster is a vertical 9:16 anime film key visual.
+
+Poster subject and style: All four posters depict the same fictional Japanese anime romance/drama film set at sunset by the sea. Use a luminous, emotional anime movie-poster style, soft painterly lighting, warm orange and pink sunset clouds, sparkling firefly-like light particles, coastal hills, a distant seaside town, ocean horizon, birds in the sky, and a melancholic young woman with windblown dark brown hair and large reflective eyes. Keep each poster visually similar but slightly different in crop and composition to suggest outputs from different image models.
+
+Panel details: Panel 1 shows the girl in upper-left close-up turning toward the viewer, with the sea and town below; it has disciplined typography with the title once near the middle, English subtitle below, and release date once at the bottom. Panel 2 shows a closer portrait of the girl over a hillside town and sea; intentionally duplicate the release-date line at the bottom twice while keeping the title once. Panel 3 shows the girl centered above a blurry seaside town; intentionally duplicate the Japanese title twice, one near the middle and one lower on the poster, while keeping one release-date line at the bottom. Panel 4 shows a close-up face on the right with ocean and town below; make the Japanese title appear awkwardly broken across lines and slightly wrong-looking, with the release date line centered near the lower middle.
+
+Poster text content: The fictional film title is {argument name="movie title" default="サヨナラの向こうがわ"}. The English subtitle is {argument name="english subtitle" default="BEYOND GOODBYE"}. The release text is {argument name="release date text" default="2027年7月16日 全国ロードショー"}. Use elegant Japanese Mincho-style title lettering and small spaced serif caps for the English subtitle. Make the first panel the cleanest and most typographically correct.
+
+Constraints: Maintain exactly four panels and exactly the specified label bars. Do not add logos, watermarks, extra panels, extra model names, or unrelated text. The final image should look like a tweet-attached benchmark image comparing layout discipline across four image models.
+```
+
+**来源：** [@AI Video Project](https://x.com/aivideo2026/status/2074696282707501450) | 2026-07-08
+
+---
+
+### 🎴 例 3534：动漫宝石首饰缪斯广告
+
+![动漫宝石首饰缪斯广告](../../images/%E5%8A%A8%E6%BC%AB%E5%AE%9D%E7%9F%B3%E9%A6%96%E9%A5%B0%E7%BC%AA%E6%96%AF%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一则奢华的动漫风格宝石首饰品牌广告，由 {argument name="character name" default="Nozomu"} 担任品牌缪斯。采用竖版方形画布，呈现柔和的高端时尚杂志构图，色调为发光的奶油色、香槟金、冰蓝色和白色。主体为一位精致的年轻动漫少女，半身像，略微偏左，留着 {argument name="hair color" default="暖蜂蜜金色"} 的长双马尾，系着半透明的淡蓝色丝带，空气刘海，闪烁的蓝色双眸，一只眼睛眨眼，脸颊微红，做出害羞的“嘘”姿势，一根手指垂直放在唇边。让她身着露肩淡蓝色高级定制礼服，搭配透明薄纱袖、蕾丝、珠绣和水晶花卉细节。让首饰成为共同主角：展示 6 件佩戴的首饰——1 条华丽的蓝色宝石项链，带有巨大的水滴形吊坠，2 只配套的蓝色宝石吊坠耳环，1 枚戴在竖起手指上的蓝色宝石戒指，1 只闪亮的手链，以及 1 组蓝色水晶发饰。在右侧增加额外的产品展示：共 3 个首饰展示元素——1 个白色项链展示架，展示配套的蓝色宝石项链；1 个小型展示架，展示配套耳环；以及 1 个小型首饰盒或底座。背景营造出梦幻般的宝石展厅氛围，带有刻面水晶光效、焦外成像、闪光粒子、镜头光晕、柔和的花卉装饰，左下角前景点缀着白玫瑰。在右侧加入精致的金色与白色排版：顶部是一个写有“CL”的小型字母组合徽章，品牌名称 {argument name="brand name" default="CELESTIA LUMIERE"}，副标题“FINE GEMSTONE JEWELRY”，大型日文缪斯名字 {argument name="Japanese name text" default="のぞむ"}，罗马拼音名“NOZOMU”，标签“BRAND MUSE”，以及大型活动标题 {argument name="campaign title" default="LUMIERE D’ÉTOILE"}。在标题下方添加一行小的日文注音副标题，以及标语“LIKE A STAR, YOU SHINE WITHOUT A WORD. PURE. RARE. UNFORGETTABLE.”。保持角色和首饰细节清晰，背景保持柔和发光，整体风格优雅、浪漫、高端且具有杂志广告的质感。避免杂乱、深色、生硬的阴影、多余的角色或现代街头服饰。
+
+[English]
+Create a luxurious anime-style gemstone jewelry brand advertisement featuring {argument name="character name" default="Nozomu"} as the brand muse. Portrait-oriented square canvas, soft high-end fashion editorial composition, luminous cream, champagne gold, icy blue, and white palette. The main subject is a delicate young anime girl shown from the chest up, centered slightly left, with {argument name="hair color" default="warm honey blonde"} long twin-tail hair tied with translucent pale-blue ribbons, airy bangs, sparkling blue eyes, one eye winking, flushed cheeks, and a shy “shh” pose with one finger held vertically to her lips. Dress her in an off-shoulder pale blue couture gown with sheer tulle sleeves, lace, bead embroidery, and crystalline floral details. Make the jewelry the co-star: exactly 6 visible worn jewelry pieces — 1 ornate blue gemstone necklace with a large dangling teardrop pendant, 2 matching dangling blue gemstone earrings, 1 blue gemstone ring on the raised finger, 1 sparkling bracelet, and 1 blue crystal hair ornament cluster. Add extra product display on the right side: exactly 3 jewelry display elements — 1 white necklace bust showing a matching blue gemstone necklace, 1 small stand with matching earrings, and 1 small jewelry box or pedestal. Background should feel like a dreamy gemstone showroom with faceted crystal light, bokeh, glitter particles, lens flares, soft floral accents, and white roses in the lower left foreground. Include refined gold and white typography on the right: a small monogram crest reading “CL” at the top, brand name {argument name="brand name" default="CELESTIA LUMIERE"}, subline “FINE GEMSTONE JEWELRY”, large Japanese muse name {argument name="Japanese name text" default="のぞむ"}, romanized name “NOZOMU”, label “BRAND MUSE”, and a large campaign title {argument name="campaign title" default="LUMIERE D’ÉTOILE"}. Add a small Japanese phonetic subtitle below the title and the tagline “LIKE A STAR, YOU SHINE WITHOUT A WORD. PURE. RARE. UNFORGETTABLE.” Keep the character and jewelry sharply detailed while the background remains softly glowing, elegant, romantic, premium, and magazine-ad polished. Avoid clutter, dark colors, harsh shadows, extra characters, or modern streetwear.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2074691190424064482) | 2026-07-08
+
+---
+
+### 🎴 例 3540：马拉喀什清晨旅行海报
+
+![马拉喀什清晨旅行海报](../../images/%E9%A9%AC%E6%8B%89%E5%96%80%E4%BB%80%E6%B8%85%E6%99%A8%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="destination" default="马拉喀什"} 创作一张精致的旅行海报风格早安问候图，融合摩洛哥美学、强烈的几何阴影、散落的微缩物件以及编辑排版。
+
+画布：宽幅 16:9 构图，温暖的赤陶粉色灰泥地面与墙面，柔和的胶片颗粒感，柔和的桃色与陶土色调，点缀青绿色、赭黄色、焦橙色和黑色。光线为左上角低角度晨光，产生向右下方斜向延伸的超长戏剧性阴影。
+
+布局：左侧三分之二为大面积留白的赤陶空间，带有建筑阴影图案。左上角边缘展示深色垂直墙面，墙上有 4 个镂空窗/格栅开口，将清晰的摩洛哥几何阴影投射在地面上。中心及中下部包含散落的微缩旅行物件及其长影。右侧三分之一包含一个仅由排版、细线、图标和小标签组成的垂直信息面板。
+
+散落物件：地面上包含 6 个独立的物件，每个物件都孤立并投射出长影：1) 一个带有桃色墙壁和绿色瓦顶的小型摩洛哥拱门或大门，2) 一盏深色金属摩洛哥灯笼，3) 一棵高大的棕榈树，4) 一块平铺的带图案方形地毯，5) 一杯带有薄荷叶的透明薄荷茶，6) 一个装饰性的陶土塔吉锅。保持微缩、整洁、略带写实感，并以充裕的负空间进行排列。
+
+右侧文字内容：右上角设置一个大型粗体做旧黑色中文标题 {argument name="Chinese title" default="马拉喀什"}。下方添加间距宽阔的大写拉丁文“MARRAKECH”。再下方添加日期 {argument name="date" default="2026-07-08"}。添加一条带有居中菱形标记的细水平线。添加带引号的中文引言：{argument name="quote" default="早安，把生活过成有香料的诗。"}。引言下方添加两个小型胶囊标签：位于柔和鼠尾草绿条上的“收藏推荐 COLLECTIBLE”，以及位于柔和赭色条上的“美学档案 AESTHETIC ARCHIVE”。
+
+信息列表：标签下方包含 5 行由虚线水平线分隔的图标加文字内容：1) 指南针图标配“31.6295°N / 7.9811°W”，2) 拱门图标配“地标 / 麦地那古城”，3) 太阳或花朵图标配“气质 / 香料 · 庭院 · 晨热”，4) 茶杯图标配“城市切片 / 茶杯与拱门”，5) 档案盒图标配“编号 / GA-09”。使用赤陶色、青绿色和赭色的小图标，搭配黑色中文字体。
+
+视觉风格：极简编辑旅行档案，现代中式海报设计，以清晰阴影作为主要视觉记忆点，质感灰泥纹理，带有微妙等距视角的写实微缩道具，平衡的负空间，高级收藏明信片美学。无人物，无多余物件，无水印，无边框。
+
+[English]
+Goal: Create a refined travel-poster style morning greeting graphic for {argument name="destination" default="Marrakech"}, combining Moroccan aesthetics, strong geometric shadows, scattered miniature objects, and editorial typography.
+
+Canvas: Wide horizontal 16:9 composition, warm terracotta-pink plaster floor and wall surface, soft film grain, muted peach and clay palette with accents of teal green, ochre yellow, burnt orange, and black. Lighting is low-angle morning sunlight from the upper left, producing very long dramatic shadows stretching diagonally down and right.
+
+Layout: Left two-thirds are mostly open terracotta space with an architectural shadow pattern. At the far upper left, show a dark vertical wall edge with 4 cutout window/lattice openings casting crisp Moroccan geometric shadows across the floor. Center and lower center contain scattered miniature travel objects with long shadows. Right third contains a vertical information panel made only of typography, thin rules, icons, and small labels.
+
+Scattered objects: Include exactly 6 discrete objects on the floor, each isolated and casting a long shadow: 1) a small Moroccan arched doorway or gate with peach walls and a green tiled roof, 2) a dark metal Moroccan lantern, 3) a tall palm tree, 4) a small patterned square rug lying flat, 5) a clear glass of mint tea with mint leaves, 6) a decorated clay tagine pot. Keep them miniature, clean, slightly realistic, and arranged with generous negative space.
+
+Right-side text content: At the top right, set a large bold distressed black Chinese title reading {argument name="Chinese title" default="马拉喀什"}. Under it, add spaced uppercase Latin text “MARRAKECH”. Below that, add the date {argument name="date" default="2026-07-08"}. Add a thin horizontal line with a centered diamond mark. Add a Chinese quote with quotation marks: {argument name="quote" default="早安，把生活过成有香料的诗。"}. Below the quote, add two small capsule labels: “收藏推荐  COLLECTIBLE” on a muted sage-green strip, and “美学档案  AESTHETIC ARCHIVE” on a muted ochre strip.
+
+Information list: Under the labels, include exactly 5 icon-and-text rows separated by dotted horizontal rules: 1) compass icon with “31.6295°N / 7.9811°W”, 2) arch doorway icon with “地标 / 麦地那古城”, 3) sun or flower icon with “气质 / 香料 · 庭院 · 晨热”, 4) tea glass icon with “城市切片 / 茶杯与拱门”, 5) archive box icon with “编号 / GA-09”. Use small terracotta, teal, and ochre icons with black Chinese text.
+
+Visual style: Minimal editorial travel archive, modern Chinese poster design, crisp shadows as the main graphic memory point, tactile plaster texture, realistic miniature props with subtle isometric feel, balanced negative space, premium collectible postcard aesthetic. No people, no extra objects, no watermark, no border.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2074652685958307870) | 2026-07-08
+
+---
+

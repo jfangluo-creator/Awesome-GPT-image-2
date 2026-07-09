@@ -2592,3 +2592,21 @@ Using the provided reference image, redraw it as a clumsy, scribbly, childlike i
 
 ---
 
+### 🔧 例 3445：照片修复与清晰度增强
+
+![照片修复与清晰度增强](../../images/%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E6%B8%85%E6%99%B0%E5%BA%A6%E5%A2%9E%E5%BC%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+修复这张 {argument name="item" default="照片"}。减少并校正过曝区域，恢复高光和阴影细节，自然地锐化 {argument name="subject" default="人脸"}，平衡色彩和肤色，增强整体清晰度，并还原精细细节，同时确保图像看起来自然，不会过度处理。
+
+[English]
+Restore this {argument name="item" default="photo"}. Reduce and correct the overexposed areas, recover highlight and shadow details, sharpen the {argument name="subject" default="faces"} naturally, balance the colors and skin tones, enhance overall clarity, and restore fine details without making the image look artificial or overprocessed.
+```
+
+**来源：** [@Patrick](https://x.com/patrickassale/status/2074936593220018430) | 2026-07-08
+
+---
+

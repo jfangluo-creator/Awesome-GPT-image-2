@@ -4934,3 +4934,103 @@ Replace only the original person with the character from the newly uploaded targ
 
 ---
 
+### 🧍 例 3462：动漫灯笼少女角色设定集
+
+![动漫灯笼少女角色设定集](../../images/%E5%8A%A8%E6%BC%AB%E7%81%AF%E7%AC%BC%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="YOI"} 设计一张优雅的动漫角色设定图，这是一位具有精致暮光奇幻美感的年轻魔法灯笼少女。
+
+画布：宽幅横向角色设定集，比例约为 16:9，采用柔和的奶油色羊皮纸背景，带有淡紫色和桃色的渐变，点缀细微的散景光点、淡淡的闪光，左上角配有精致的金色装饰名牌。
+
+主体插画：在左半部分，展示一张角色的大型四分之三肖像或上半身全身像，她手持一盏悬挂在纤细金杖上的发光灯笼。她拥有 {argument name="hair color" default="深海军蓝黑色头发，发梢带有温暖的金色光芒"}，长发飘逸，留着齐刘海，金琥珀色的眼睛，佩戴着小巧的丝带铃铛发饰。她的表情平静而温柔。灯笼散发出温暖的橙黄色光芒，柔和地照亮了她的脸庞、手部和服装。
+
+角色服装：设计一套层叠的深海军蓝魔法校服风格服装，配有金色镶边、黄铜纽扣、渐变为星光效果的短斗篷/披肩、结构感外套、层叠荷花边裙、酒红色丝带装饰、酒红色与奶油色条纹长筒袜，以及带有金色细节的黑色短靴。整体主题应呈现出天体感、灯火感、复古感，并带有轻微的维多利亚风格。
+
+顶部表情集：在右上角横向排列 6 个小型头像框，每个头像框都有奶油色方形背景，下方配有小标签。6 种表情分别为：1. 平静，2. 温柔微笑，3. 惊讶，4. 悲伤，5. 坚定，6. 心领神会。确保每个表情中的角色、发饰、刘海和光影风格保持一致。
+
+配色方案：在右中位置放置一个垂直的配色方案，标注为“Color Palette”。包含 6 个矩形色块：1. 深海军蓝，2. 柔和酒红，3. 古董金，4. 暖橙色，5. 淡奶油黄，6. 玫瑰粉。
+
+标志性道具：在右上角添加一个标注为“Signature Items”的区域，包含 2 个物品：1. 悬挂在纤细金杖上的发光椭圆形纸灯笼，2. 一个带有星形徽章和连接绳的小型古董矩形护身符/书本状装置。将它们作为整洁的物品插画呈现在浅色面板上。
+
+底部模型图：在底部，包含 4 个全身转向视图，放置在干净的奶油色矩形框中，下方分别标注：1. 正视图，2. 侧视图，3. 背视图，4. 3/4 视图。正视图展示向外持握的灯笼杖；侧视图强调斗篷的轮廓；背视图展示长发的渐变和星空斗篷；3/4 视图展示手持灯笼的动态行走姿势。
+
+视觉风格：精致的日本动漫概念艺术，柔和的绘画渲染，细腻的线条，发光的高光，金色点缀，温暖的魔法光影，细节丰富但构图通透，呈现出高级的角色设定集质感。
+
+约束条件：仅使用上述描述中可见的英文标签，保持布局整洁平衡，避免多余字符，避免添加徽标或水印，并严格遵守 6 个表情、6 个色块、2 个标志性道具和 4 个全身视图的数量要求。
+
+[English]
+Goal: Create an elegant anime character design sheet for {argument name="character name" default="YOI"}, a young magical lantern-bearer girl with a refined twilight fantasy aesthetic.
+
+Canvas: Wide horizontal character sheet, about 16:9, soft cream parchment background with pale lavender and peach gradients, subtle bokeh lights, faint sparkles, and a delicate gold ornamental nameplate in the upper left.
+
+Main illustration: On the left half, show a large three-quarter portrait/full upper-body illustration of the character holding a glowing hanging lantern from a thin golden wand. She has {argument name="hair color" default="very dark navy-black hair with warm blonde glowing tips"}, long flowing hair, straight bangs, golden amber eyes, and small ribbon-and-bell hair ornaments. Her expression is calm and gentle. The lantern emits warm yellow-orange light that softly illuminates her face, hand, and outfit.
+
+Character outfit: Design a layered dark navy magical school-uniform-inspired outfit with gold trim, brass buttons, a short capelet/cloak that fades into starry sparkles, a structured jacket, layered ruffled skirt, burgundy ribbon accents, striped burgundy-and-cream stockings, and black ankle boots with gold details. The overall motif should feel celestial, lantern-lit, antique, and slightly Victorian.
+
+Top row expression sheet: Include exactly 6 small headshot panels arranged horizontally across the upper right, each with a cream square background and a small label underneath. The 6 expressions are: 1. Calm, 2. Gentle Smile, 3. Surprised, 4. Sad, 5. Determined, 6. Knowing Glance. Keep the same character, hair ornaments, bangs, and lighting style consistent in every expression.
+
+Color palette: Place a vertical color palette near the center-right labeled “Color Palette.” Include exactly 6 rectangular swatches: 1. deep navy, 2. muted burgundy, 3. antique gold, 4. warm orange, 5. pale cream-yellow, 6. rose pink.
+
+Signature items: Add a labeled section “Signature Items” on the upper right with exactly 2 objects: 1. the glowing oval paper lantern hanging from a slim gold wand, 2. a small antique rectangular charm/book-like device with a star emblem and attached cord. Render them as neat item illustrations on a pale panel.
+
+Bottom model sheet: Along the bottom, include exactly 4 full-body turnaround panels on clean cream rectangles, each labeled underneath: 1. Front View, 2. Side View, 3. Back View, 4. 3/4 View. The front view shows the lantern wand held outward; the side view emphasizes the cape silhouette; the back view shows the long hair gradient and starry cloak; the 3/4 view shows a dynamic walking pose with the lantern.
+
+Visual style: Polished Japanese anime concept art, soft painterly rendering, delicate linework, glowing highlights, gold accents, warm magical lighting, high detail but airy composition, premium character reference sheet presentation.
+
+Constraints: Use only the visible English labels described above, keep the layout clean and balanced, avoid extra characters, avoid logos or watermarks, and preserve the exact counts of 6 expressions, 6 color swatches, 2 signature items, and 4 full-body views.
+```
+
+**来源：** [@A.I.Warper](https://x.com/AIWarper/status/2074878538122236202) | 2026-07-08
+
+---
+
+### 🧍 例 3513：BIWA 动漫角色设定集
+
+![BIWA 动漫角色设定集](../../images/BIWA%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="BIWA"} 创建一份精致的动漫时尚角色参考设定集。她是一位安静的流浪者，标志性特征是黑曜石般的发辫，气质冷静疏离，轮廓简约但极具视觉冲击力。
+
+画布：16:9 宽幅横向角色设定集，采用暖米白色纸张背景，优雅的编辑排版，留有大量负空间，配以纤细的灰色分割线，手写注释标签与精致的衬线字体交织。
+
+主体：左侧中心为一位身着深色先锋服装的纤细年轻女性全身主图。她拥有 {argument name="hair color" default="纯黑"} 的超长发，齐刘海遮住双眼，一根粗壮的发辫垂在胸前，皮肤苍白，刘海下隐约可见微小的红色双眸，佩戴精致的垂坠耳环。表情冷漠且难以捉摸。服装：黑色短款挂脖上衣，极宽的黑色高腰袴式长裤，配有层叠的腰带和绑带，长长的黑色布料裁片，深色鞋子大部分被遮盖，肩上披着一件超大号的米白色外套，袖子宽大且具有雕塑感。采用柔和的电影级光影，干净的阴影，绘画风格的半写实动漫渲染，呈现时尚概念艺术质感。
+
+左上角身份文字：大型衬线标题 “{argument name="character name" default="BIWA"}”。下方包含三行简短的个人资料：“角色：流浪者”；“核心气质：冷静 · 疏离 · 坚定”；“视觉特征：黑曜石发辫，遮掩的目光，极简的存在感 — 极大的视觉冲击”。
+
+左侧研究：包含 3 个标注为“剪影研究”的黑色剪影，展示同一款长裙式服装和宽大袖子的正面、四分之三正面以及侧面/背面的变化。下方包含 4 个标注为“表情研究”的头像特写：中性、警觉、冷漠、柔和。每个头像的遮眼效果几乎一致，嘴部有细微变化，且均可见胸前发辫。
+
+右侧姿势页：在主图周围安排 8 个较小的全身或姿势视图。标注如下：1 正面站立，2 背面展示脊柱上的长发辫和超大外套，3 侧面视图，4 坐在地上，布料堆叠在周围，5 向前倾/低头，6 低姿蹲伏，双手靠近地面，7 从上方俯视头发和肩膀，8 低角度站立，强调外套和宽大长裤。
+
+底部细节条：包含 5 个标注为细节的特写面板：遮掩的目光、黑曜石发辫、外套面料、腰带与层次、耳环。面板应展示刘海下的眼睛、黑色发辫纹理、褶皱的米白色袖子、层叠的黑色腰带/腰部结构以及精致的垂坠耳环的裁剪特写。
+
+视觉风格：高端角色设计项目，受日本/动漫启发的时尚概念艺术，黑、炭灰、象牙白、苍白肤色以及微小红色点缀的柔和单色调；精准而柔和的绘画渲染；优雅的手写标签；无杂乱，无水印。
+
+约束：保持所有文字清晰可读，并像专业的下载版角色设定集一样进行排版。严格使用 1 个主图、3 个剪影研究、4 个表情头像、8 个姿势视图和 5 个细节特写。在每个视图中保持角色标志性的长黑发辫、遮掩的双眼、超大号米白色外套、黑色短款上衣和黑色宽长裤。
+
+[English]
+Goal: Create a polished fashion character sheet for {argument name="character name" default="BIWA"}, a quiet wandering anime-inspired female character with a restrained high-fashion silhouette.
+
+Canvas: Wide horizontal character design sheet, 16:9 aspect ratio, warm off-white paper background, clean editorial spacing, thin hand-drawn divider lines, elegant black serif title typography and small handwritten annotation labels.
+
+Character concept: A slim young woman with very pale skin, long straight {argument name="hair color" default="black"} hair, heavy bangs covering the eyes, and one very long thick side braid falling over the front of her body. Her visible expression is calm, distant, and unreadable. She wears a black cropped halter top, very wide black layered hakama-like trousers with belts and dangling straps, soft black shoes hidden under the fabric, long earrings, and an oversized off-white crumpled outer coat worn off the shoulders with sculptural sleeves. Overall mood: {argument name="core mood" default="calm, distant, unshakable"}. Visual signature: obsidian braid, veiled gaze, minimal presence, maximum impact.
+
+Layout: Place one large full-body hero figure slightly left of center, facing forward, occupying most of the height. In the upper left, show the character name in large serif letters, with three small metadata lines: Role: Wanderer; Core Mood: calm, distant, unshakable; Visual Signature: obsidian braid, veiled gaze, minimal presence, maximum impact. Around the hero figure, arrange multiple smaller studies and poses like a professional character sheet.
+
+Required visible elements and exact counts: Include 1 large central full-body hero pose. Include 3 black silhouette studies on the left labeled silhouette study, showing front, alternate front, and side/back massing. Include 4 bust expression studies along the lower left labeled expression study, with captions: Neutral, Watchful, Cold, Soft. Include 4 full-body turnaround views across the upper right labeled: neutral, back, profile, plus one additional front-facing standing view if needed to complete the turnaround row. Include 5 pose studies on the right and middle-right: seated, leaning, crouching, top view, and low angle. Include 5 detail-study panels along the bottom center/right labeled: veiled gaze, obsidian braid, coat fabric, belt and layers, earrings.
+
+Style: High-end 2D/3D hybrid concept art, soft cinematic lighting, delicate painterly rendering, realistic fabric folds, subtle shadows under each figure, monochrome black-and-cream wardrobe, refined Japanese street-fashion and dark fantasy influence. Keep the linework clean and the sheet uncluttered, with small handwritten labels in black ink.
+
+Constraints: Use only the character sheet content described above, no extra characters, no props beyond clothing and accessories, no watermark, no logo, no decorative border. Make all labels legible and in English. Preserve the quiet minimalist mood and emphasize the contrast between black clothing, pale skin, and the off-white oversized coat.
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2074730193533485122) | 2026-07-08
+
+---
+

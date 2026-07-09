@@ -4513,3 +4513,55 @@ Create a highly detailed photorealistic 3D miniature diorama of a forest tea par
 
 ---
 
+### 🧸 例 3472：幽默仓鼠导演场景
+
+![幽默仓鼠导演场景](../../images/%E5%B9%BD%E9%BB%98%E4%BB%93%E9%BC%A0%E5%AF%BC%E6%BC%94%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张极其荒诞、明亮且幽默的混合媒介照片，将真实的人像摄影与精致的 3D 卡通元素相结合。一只圆滚滚的微型 {argument name="animal" default="仓鼠"} 坐在专业电影摄像机上方，它的小爪子抓着一个光泽感十足的 3D 渲染迷你扩音器。仓鼠戴着一副复古圆眼镜，系着一条红色头巾。仓鼠上方有一个醒目的 3D 对话气泡，用华丽的紫色漩涡字体写着：**「MORE DRAMA!」**。在摄像机前方，一位 {argument name="subject" default="年轻东亚男性"} 正跪在小舞台上，他的面部 100% 写实——表情呈现出夸张的戏剧性绝望，一只手紧抓胸口，另一只手伸向天空，嘴巴张开，发出无声的戏剧性哀嚎。他身穿一件 {argument name="outfit" default="酒红色天鹅绒长袍"}，内搭一件简单的黑色 T 恤。背景是一个略显杂乱的家庭工作室，绿幕已经掉落，吊杆麦克风歪斜地挂着，散落着服装道具，凳子上还有一个吃了一半的甜甜圈。明亮的摄影棚灯光，天鹅绒长袍上的高光略微过曝。真实的皮肤纹理，可见毛孔，无美颜滤镜。重颗粒感，轻微的色差。左下角掉落的绿幕后露出一截流浪猫的尾巴。
+荷兰角镜头，流浪猫尾巴 --ar 9:16
+
+[English]
+A completely absurd, bright, and humorous mixed-media photograph combining real human photography with a glossy 3D cartoon element. A tiny, chubby {argument name="animal" default="hamster"} sits on top of a professional film camera, its tiny paws gripping a glossy 3D-rendered mini megafon. The hamster wears a tiny pair of retro round glasses and a red bandana. A bold 3D speech bubble above the hamster reads: **「MORE DRAMA!」** in flamboyant, swirling purple font. In front of the camera, a {argument name="subject" default="young East Asian man"} is on his knees on a small stage, his face 100% photorealistic—a look of over-the-top, theatrical despair, one hand clutching his chest, the other reaching toward the sky, mouth open in a dramatic, silent wail. He wears a {argument name="outfit" default="velvet burgundy robe"} over a simple black t-shirt. The background is a slightly cluttered home studio with a green screen that has fallen down, a boom mic hanging crookedly, scattered costume pieces, and a half-eaten donut on a stool. Bright studio light, slightly clipped highlights on the velvet robe. Realistic skin texture, visible pores, no beauty filter. Heavy grain, slight chromatic aberration. A stray cat tail peeks from behind the fallen green screen at the bottom left corner.
+dutch angle, stray cat tail --ar 9:16
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2074861790853554314) | 2026-07-08
+
+---
+
+### 🧸 例 3499：抓娃娃机前的动漫少女
+
+![抓娃娃机前的动漫少女](../../images/%E6%8A%93%E5%A8%83%E5%A8%83%E6%9C%BA%E5%89%8D%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版动漫风格插画，场景设定在色彩缤纷的日本游戏厅内。画面中，一位开朗的年轻女性 {argument name="character name" default="未命名的动漫少女"} 站在粉色抓娃娃机旁，兴奋地指向玻璃柜里巨大的柴犬毛绒奖品。她留着凌乱的短发，发色为 {argument name="hair color" default="香槟金"}，配有柔和的层次感刘海；拥有明亮的金绿色双眸、白皙的皮肤、红润的脸颊和开心的笑容。她身穿优雅的现代和服：半透明的白色外袖上饰有精致的白色花卉图案，搭配橄榄绿镶边、黑色花卉裙摆、金链、珍珠装饰、流苏、深色腰封、垂坠的珍珠耳环，以及耳边的一枚小型植物发饰。抓娃娃机应为亮面粉色，配有玻璃面板、LED 灯带，控制面板上设有操纵杆和发光的蓝色按钮，金属抓手悬挂在毛绒玩具上方。毛绒玩具应为超大号、圆润的棕白配色，面带微笑，有腮红、肉垫和绿色花纹头巾。采用中景构图，少女位于左侧，毛绒玩具位于右侧，她的指尖几乎触碰到玻璃。背景：柔和虚化的霓虹游戏厅，带有粉色、紫色和蓝色的光斑，以及游戏机、倒影和温暖的顶光。视觉风格：精致的高细节动漫主视觉图，电影级光影，柔和的景深，亮面反射，细腻的发丝，复杂的布料刺绣，充满活力但柔和的糖果色调，可爱且引人入胜的氛围。无文字，无水印，无额外角色。
+
+[English]
+Create a vertical 9:16 anime-style illustration set inside a colorful Japanese arcade. Show a cheerful young woman, {argument name="character name" default="unnamed anime girl"}, standing close to a pink claw machine and pointing excitedly at a giant plush shiba inu prize inside the glass cabinet. She has short tousled {argument name="hair color" default="champagne blonde"} hair with soft layered bangs, bright golden-green eyes, fair skin, rosy cheeks, and an open joyful smile. Dress her in an elegant modern kimono outfit: translucent white outer sleeves with detailed white floral patterns, olive-green trim, a black floral skirt layer, gold chains, pearl accents, tassels, a dark obi belt, dangling pearl earrings, and a small botanical hair ornament near one ear. The claw machine should be glossy pink with glass panels, LED strip lighting, a joystick and glowing blue button on the control panel, and a metal claw hanging above the plush. The plush should be oversized, round, tan-and-cream, smiling, with blush cheeks, paw pads, and a green patterned bandana. Use a close medium composition with the girl on the left and the plush on the right, her fingertip nearly touching the glass. Background: softly blurred neon arcade with pink, purple, and blue bokeh lights, prize machines, reflections, and warm overhead glow. Visual style: polished high-detail anime key visual, cinematic lighting, soft depth of field, glossy reflections, delicate hair strands, intricate fabric embroidery, vibrant but pastel arcade colors, cute and inviting mood. No text, no watermark, no extra characters.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2074767449262793198) | 2026-07-08
+
+---
+
+### 🧸 例 3536：微缩蘑菇邮局场景
+
+![微缩蘑菇邮局场景](../../images/%E5%BE%AE%E7%BC%A9%E8%98%91%E8%8F%87%E9%82%AE%E5%B1%80%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="艺术风格" default="儿童绘本风格"} × {argument name="摄影质感" default="微缩模型摄影"} × {argument name="建筑设计" default="奇幻植物建筑设计"}。一座建在巨大蓝紫色发光蘑菇里的{argument name="主体" default="迷你邮局"}，蘑菇伞盖像半透明彩色玻璃，内部透出温暖金色灯光。小木门半开，门口堆着 tiny envelopes、小包裹和湿漉漉的邮袋，石子小路被雨水打湿，反射蘑菇蓝光。周围是低矮苔藓、露珠、细小野花和柔软雾气，背景森林虚化。低机位近景，邮局位于画面中心，浅景深。画面使用柔和手绘边缘、微缩模型般的真实材质、湿润苔藓纹理、半透明蘑菇伞盖、暖金与蓝紫互补色光，整体童话、安静、温暖、微微神秘。
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2074686197159563369) | 2026-07-08
+
+---
+

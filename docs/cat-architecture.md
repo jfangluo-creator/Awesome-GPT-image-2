@@ -1728,3 +1728,63 @@ Create a highly detailed cinematic sci-fi construction scene in a vertical 3:4 c
 
 ---
 
+### 🏛️ 例 3500：夏日天空下追逐蝴蝶的男孩
+
+![夏日天空下追逐蝴蝶的男孩](../../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E8%BF%BD%E9%80%90%E8%9D%B4%E8%9D%B6%E7%9A%84%E7%94%B7%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+ぼくの夏休みが走っていく
+
+{argument name="雲" default="入道雲"}がこんなに大きい日は
+
+{argument name="道具" default="虫取り網"}も
+{argument name="花" default="ひまわり"}も
+{argument name="生き物" default="ちょうちょ"}も
+ぜんぶ今日の友だちになる
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2074764959167479943) | 2026-07-08
+
+---
+
+### 🏛️ 例 3522：孩子们在动漫花园中发现花朵
+
+![孩子们在动漫花园中发现花朵](../../images/%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%8A%B1%E6%9C%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版高级动漫风格插画，背景设定在明亮的夏日午后，位于现代电车或公交车站旁郁郁葱葱的城市花海中。画面主角是两个面部线条圆润、简洁的快乐卡通儿童：{argument name="boy character name" default="Masaharu"}，一位不戴眼镜的金发男孩，身穿纯白色长袖衬衫、蓝色长裤和白色运动鞋，正蹲在花丛中，一只手托着下巴，低头微笑；以及 {argument name="girl character name" default="Momoka"}，一位戴着粉色与米色棒球帽、圆框眼镜，身穿白色长袖衬衫、粉色背带裤和白色鞋子的金发女孩，站在他身边兴奋地指向一朵花。保持他们设计的一致性和可爱感，如同官方角色设定图中的卡通儿童，拥有大头、简单的眼睛、柔和的轮廓和富有表现力的快乐表情。前景布满了丰富多彩的花朵，包括以下明确的花卉组合：左下角 1 朵大向日葵、粉色绣球花簇、紫色雏菊、白色雏菊、红橙色百日草、黄橙色花朵、蓝色小花，以及底部边缘模糊的粉色/紫色花朵以增加景深。在右下角前景中，包含 5 件艺术与野餐物品：1 个放在支架上且倾斜的数字绘图板（显示着彩色动漫女孩插画）、1 支放在旁边的黑色触控笔、1 本摊开的螺旋素描本（上面画有可爱的花朵和角色涂鸦）、1 支横放在素描本上的铅笔，以及 1 个放在绿色篮子旁边的黄色背包（篮子里装有水瓶）。背景展示一个整洁的城市候车亭，部分可见电车或公交车、蓝色交通标志、绿叶繁茂的树木、远处的摩天大楼、高大的路灯，右上角有阳光倾泻而下，并带有柔和的虚化效果。使用饱和的色彩、清晰的角色线条、具有绘画感的细节环境、电影级的景深、温暖的高光，营造 TikTok 预告片般的活力和治愈的探索氛围，采用 720p 竖构图。避免文字覆盖，避免标志，避免出现额外角色，并确保 Masaharu 绝对不戴眼镜。
+
+[English]
+Create a vertical 9:16 premium anime-style illustration in bright summer daylight, set in a lush urban flower garden beside a modern tram or bus stop. Two cheerful cartoon children with rounded, simple line-art faces are the main subjects: {argument name="boy character name" default="Masaharu"}, a blond boy with no glasses, wearing a plain white long-sleeve shirt, blue pants, and white sneakers, crouching among the flowers with one hand near his chin and smiling as he looks down; and {argument name="girl character name" default="Momoka"}, a blond girl wearing a pink-and-cream baseball cap, round glasses, a white long-sleeve shirt, pink overalls, and white shoes, standing beside him and pointing excitedly toward a flower. Keep their designs consistent and cute, like official character-sheet cartoon children, with oversized heads, simple eyes, soft outlines, and expressive happy faces. The foreground is packed with abundant colorful flowers, including exactly these prominent flower groups: 1 large sunflower at lower left, pink hydrangea clusters, purple daisies, white daisies, red-orange zinnias, yellow-orange blossoms, blue small flowers, and blurred pink/purple flowers at the bottom edge for depth. In the lower right foreground, include exactly 5 art-and-picnic objects: 1 tilted digital drawing tablet on a stand showing a colorful anime girl illustration, 1 black stylus resting beside it, 1 open spiral sketchbook showing cute flower and character doodles, 1 pencil laid across the sketchbook, and 1 yellow backpack next to a green basket containing water bottles. In the background, show a clean city transit shelter with a tram or bus partially visible, a blue transit sign, leafy green trees, distant high-rise buildings, a tall streetlamp, sunbeams streaming from the upper right, and soft bokeh. Use saturated colors, crisp character lines, painterly detailed environment, cinematic depth of field, warm highlights, TikTok trailer energy, wholesome discovery mood, 720p vertical composition. Avoid text overlays, avoid logos, avoid extra characters, and ensure Masaharu never wears glasses.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2074711844812730687) | 2026-07-08
+
+---
+
+### 🏛️ 例 3539：晨光室内肖像
+
+![晨光室内肖像](../../images/%E6%99%A8%E5%85%89%E5%AE%A4%E5%86%85%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：朝光の白
+主体：{argument name="主体" default="木枠の大きなガラス戸の前で、庭から差し込む朝日を受けながら外を眺める成人女性の後ろ姿を中心にした、静かな縦長ポートレート"}。
+人物・表情：自然で現実感のある成人女性。髪は{argument name="髪型" default="低めのラフなシニヨン"}にまとめ、首元と耳の横に細い後れ毛が落ちている。顔はほとんど見せず、少しだけ右側へ向けた横顔の気配を残す。視線は開いたガラス戸の外、庭の明るい方へ向ける。肩の力を抜き、朝の空気を吸い込む直前のような静かな佇まい。
+服装・ポーズ：{argument name="服装" default="淡いアイボリーのロングワンピース"}に、透け感のある薄いガーゼ素材の羽織を重ねる。背中は大きく開いたデザインだが、内側には肌色に近い自然なインナーを合わせ、上品で生活感のある見え方にする。細い肩紐が背中でゆるく交差し、羽織の袖はふんわり広がる。人物自身の右手は開いた木枠にそっと添え、指先は軽く曲げる。左腕は身体の横に下ろし、薄い布を少しだけ引き寄せる。重心は右足に置き、左足を半歩だけ後ろへ引いて、身体をわずかに斜めへひねる。裾は木の床にやわらかく広がり、朝の風で布の端が少し揺れる。
+背景・光：古い日本家屋を思わせる落ち着いた室内。木の床、細い木枠のガラス戸、右側に薄い白いカーテン、画面奥には小さな庭と低い塀、鉢植え、淡い緑の庭木が見える。光は画面左上の屋外から差し込む柔らかな朝日。背中、肩、羽織の縁を明るく透かし、布の繊維を浮かび上がらせる。室内側は少し暗めで、外の庭は明るいが白飛びしすぎない。床には木枠とカーテンの影が斜めに落ち、ガラスにはごく淡い反射が残る。
+構図・カメラ：縦長構図。人物は中央より少し右寄りに立ち、頭から裾まで全身が入る。ガラス戸の縦線と横線で画面を自然に分割し、人物の背中と開いた戸に視線が集まる構図。カメラは腰より少し高い位置から平視に近く撮影する。人物の上半身と透ける布に焦点を合わせ、庭の木々と塀は柔らかくぼかす。室内の暗さと屋外の朝光の差を活かし、静かな逆光感を保つ。
+質感・スタイル：写真風。肌は自然な質感で、過度な美肌補正をしない。薄いガーゼの繊維、木床のわずかな反射、カーテンの柔らかい影、ガラスの曇りと反射を丁寧に描写する。色はアイボリー、淡いベージュ、木の茶色、庭のやさしい緑を中心にまとめる。全体は落ち着いた朝の空気感で、雑誌写真のように余白のある仕上がり。
+ネガティブ：裸、露骨な性的表現、過度な透け感、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、道具との接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2074663255927316488) | 2026-07-08
+
+---
+

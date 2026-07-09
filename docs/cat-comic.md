@@ -5338,3 +5338,153 @@ Hand-painted watercolor textures, soft shadows, elegant brush strokes, muted ear
 
 ---
 
+### 🎬 例 3486：深褐色仓鼠小提琴家沙龙
+
+![深褐色仓鼠小提琴家沙龙](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E4%BB%93%E9%BC%A0%E5%B0%8F%E6%8F%90%E7%90%B4%E5%AE%B6%E6%B2%99%E9%BE%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅方形的深褐色调绘本插画，画面中心是 {argument name="main character" default="一只毛茸茸的奶油色仓鼠"}，它站在优雅的欧式古典音乐沙龙中央，双眼微闭，低头沉思，仿佛刚刚结束一场演奏。仓鼠圆润柔软，细节丰富，带有细腻的墨线排线，有着小巧的爪子、耳朵和沉静庄重的表情；它将一把精致的琴弓横在胸前，怀中抱着一把小巧的深色小提琴或乐器。背景是一个装饰华丽的古典房间，铺着光亮如镜的木地板，高大的镶板墙上布满了繁复的洛可可风格雕刻，左侧有一扇挂着轻薄窗帘的明亮窗户，并摆放着古董家具。画面中必须包含 3 个醒目的背景物体：左侧一把华丽的软垫椅，右侧一把竖立的大提琴，以及大提琴后方一张雕花小桌上摆放的一瓶浅色花卉。采用温暖的单色调，如米色、棕色和奶油色，呈现出复古铅笔水墨画的质感，带有柔和的逆光、细腻的地板倒影、复杂的线条感和怀旧氛围，画面中不得出现任何文字或现代物品。
+
+[English]
+Create a square sepia-toned storybook illustration of {argument name="main character" default="a fluffy cream-colored hamster"} standing in the center of an elegant old European music salon, eyes gently closed and head bowed as if finishing a performance. The hamster is round, soft, and very detailed with fine ink hatching, tiny paws, small ears, and a calm solemn expression, holding a delicate violin bow across its chest with a tiny dark violin or instrument tucked near its paws. The setting is a richly decorated classical room with polished reflective wooden floors, tall paneled walls covered in ornate rococo carvings, a bright window with sheer curtains on the left, and antique furniture. Include exactly 3 prominent background objects: an ornate upholstered chair on the left, a large cello leaning upright on the right, and a vase of pale flowers on a small carved table behind the cello. Use warm monochrome beige, brown, and cream tones, like an antique pencil-and-ink wash drawing with soft backlighting, subtle floor reflections, intricate linework, nostalgic atmosphere, and no visible text or modern objects.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2074821895942541458) | 2026-07-08
+
+---
+
+### 🎬 例 3497：日式漫画 A/B 测试四格漫画
+
+![日式漫画 A/B 测试四格漫画](../../images/%E6%97%A5%E5%BC%8F%E6%BC%AB%E7%94%BB%20A%20B%20%E6%B5%8B%E8%AF%95%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅 2x2 正方形日式漫画风格的宣传漫画，解释落地页的自动化 A/B 测试功能。以 {argument name="feature topic" default="A/B 测试自动化"} 作为产品主题，营造出亲切的小型企业 SaaS 氛围。
+
+画布：正方形图像，四个相等的漫画分镜，由粗黑线条分隔，按阅读顺序排列，并带有白色小方格标注序号：1 在右上角，2 在左上角，3 在右下角，4 在左下角。手绘墨水轮廓，温暖的水彩阴影，米白色纸张质感，细腻的网点效果，对话框和 UI 卡片中使用清晰易读的日语文字。
+
+主角：一位 20 多岁到 30 岁出头的日本年轻男性设计师，黑色短发略显凌乱，表情丰富，身穿浅蓝色衬衫和深蓝色围裙。在所有分镜中保持形象一致。在第 2 格中加入一个可爱的小型机器人助手：圆形的黑色屏幕脸，发光的眼睛，白色身体，蓝色耳朵状侧翼，小天线，摆出友好的吉祥物姿势。
+
+第 1 格（右上角）：深夜办公室场景。设计师坐在桌前使用笔记本电脑，看起来焦虑且疲惫，一只手抓着头发。窗外是深色的城市天际线，有新月和星星。墙上的时钟显示午夜。桌上有白色马克杯、笔记本、笔和纸张。对话框文字：「デザインAとB… どっちが売れるんだ…」。
+
+第 2 格（左上角）：明亮的决策/设置场景。机器人站在桌旁，指向笔记本电脑。设计师倾身向前，露出感兴趣的微笑，手托下巴。笔记本电脑屏幕显示一个 A/B 设置界面，包含两个分别标记为「デザインA」和「デザインB」的设计卡片，一个测试周期进度条「4/20～4/26」，一个显示 50% 和 50% 的流量分配滑块，以及一个标有「テストを開始する」的大蓝色按钮。对话框文字：「両方試して、お客さんに決めてもらいましょう」。
+
+第 3 格（右下角）：深夜的自动化场景。设计师在办公椅上安详地睡着，双臂交叉，身边有“Z”字符号，前景中的笔记本/平板电脑屏幕显示每日展示模式。包含一个午夜的时钟和三张悬挂的日历页，分别标记为「4/20(日)」、「4/21(月)」、「4/22(火)」，中间有箭头连接。屏幕标题：「本日の表示パターン」。屏幕上依次显示三个产品展示卡片，标记为デザインA、デザインB、デザインA，然后是省略号。顶部说明框文字：「毎日0時に自動で切り替え。あなたは何もしなくてOK」。
+
+第 4 格（左下角）：结果/获胜场景。设计师很兴奋，微笑着举起拳头。笔记本电脑屏幕显示一张标题为「テスト結果（クリック率）」的结果图表，有两个垂直柱状图，分别标记为 A 和 B。A 为灰色，1.2%；B 为蓝色，1.68%，带有一个红色向上箭头和写着「1.4倍!」的徽章。包含一个写着「勝者B」的金色丝带徽章，屏幕侧边注释写着「自動で本採用」。对话框文字：「Bがクリック率1.4倍！ 勝者は自動で本採用」。底部小反应气泡：「勘、いらなかった…」。
+
+视觉风格：日式网络漫画 / 教育类 SaaS 漫画，友好且精致，分镜构图清晰，表情生动，柔和的水彩配色，米色纸张背景，细节丰富但整洁的办公室道具，笔记本电脑屏幕上清晰的 UI 模型。
+
+约束条件：使用 4 个分镜，并严格按照描述的编号顺序排列。保留所有指定的日语文字。不要添加额外的分镜，不要添加除设计师和机器人吉祥物以外的角色，不要添加水印、Logo 或无关的说明文字。
+
+[English]
+Goal: Create a square 2x2 Japanese manga-style promotional comic explaining an automated A/B testing feature for a landing page. Use {argument name="feature topic" default="A/B testing automation"} as the product theme, with an approachable small-business SaaS feeling.
+
+Canvas: Square image, four equal comic panels separated by thick black gutters, arranged in reading order with small white panel-number boxes: 1 at top right, 2 at top left, 3 at bottom right, 4 at bottom left. Hand-drawn ink outlines, warm watercolor shading, off-white paper texture, subtle screen-tone dots, clean readable Japanese lettering in speech bubbles and UI cards.
+
+Main character: A young Japanese male designer, about late 20s to early 30s, short messy black hair, expressive face, wearing a light blue button-up shirt and a dark navy apron. Keep him consistent in all panels. Include a cute small robot assistant in panel 2: round black screen face with glowing eyes, white body, blue ear-like side parts, small antenna, friendly mascot pose.
+
+Panel 1, top right: Nighttime office scene. The designer sits at a desk using a laptop, looking worried and tired, one hand in his hair. Outside the window is a dark city skyline with a crescent moon and stars. Wall clock shows midnight. Desk includes a white mug, notebook, pen, and papers. Speech bubble text: 「デザインAとB… どっちが売れるんだ…」.
+
+Panel 2, top left: Bright decision/setup scene. The robot stands beside the desk and gestures toward the laptop. The designer leans in, smiling with interest and touching his chin. Laptop screen shows an A/B settings interface with exactly two design cards labeled 「デザインA」 and 「デザインB」, a test period line 「4/20～4/26」, a traffic split slider showing 50% and 50%, and a large blue button labeled 「テストを開始する」. Speech bubble text: 「両方試して、お客さんに決めてもらいましょう」.
+
+Panel 3, bottom right: Automation scene at night. The designer sleeps peacefully in an office chair with arms folded, “Z” marks near him, while the laptop/tablet screen in the foreground shows the daily display pattern. Include a clock at midnight and three hanging calendar pages labeled exactly: 「4/20(日)」, 「4/21(月)」, 「4/22(火)」 with arrows between them. Screen title: 「本日の表示パターン」. The screen shows exactly three product-display cards in sequence labeled デザインA, デザインB, デザインA, then an ellipsis. Top caption box text: 「毎日0時に自動で切り替え。あなたは何もしなくてOK」.
+
+Panel 4, bottom left: Results/winner scene. The designer is excited, smiling, and raising a fist. Laptop screen displays a results chart titled 「テスト結果（クリック率）」 with exactly two vertical bars labeled A and B. A is gray at 1.2%, B is blue at 1.68%, with a red upward arrow and badge reading 「1.4倍!」. Include a gold ribbon badge reading 「勝者B」 and a side note on the screen reading 「自動で本採用」. Speech bubble text: 「Bがクリック率1.4倍！ 勝者は自動で本採用」. Small bottom reaction bubble: 「勘、いらなかった…」.
+
+Visual style: Japanese web manga / educational SaaS comic, friendly and polished, clear panel composition, expressive faces, soft watercolor colors, cream paper background, detailed but uncluttered office props, legible UI mockups on laptop screens.
+
+Constraints: Use exactly 4 panels and exactly the numbered panel order described. Preserve all Japanese text exactly as specified. Do not add extra panels, extra characters besides the designer and the one robot mascot, watermarks, logos, or unrelated captions.
+```
+
+**来源：** [@楽天ABテスト完全自動化サービス@イージークリエイティブ](https://x.com/EasyCreative_/status/2074778573131641335) | 2026-07-08
+
+---
+
+### 🎬 例 3510：睡眼惺忪的金发卡通女孩
+
+![睡眼惺忪的金发卡通女孩](../../images/%E7%9D%A1%E7%9C%BC%E6%83%BA%E5%BF%AA%E7%9A%84%E9%87%91%E5%8F%91%E5%8D%A1%E9%80%9A%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创作一幅简单的全身卡通角色插画：一个风格化的少女，表情慵懒、睡眼惺忪，采用粗线条 2D 矢量漫画风格绘制，具有极粗的黑色轮廓和纯色填充。她留着非常长的直发 {argument name="hair color" default="金黄色"}，长发修饰脸型并垂过肩部，发梢呈尖角状，厚重的齐刘海带有分离的垂直发束，皮肤白皙，半睁着大大的蓝色眼睛，鼻子小巧，嘴巴扁平，双颊带有柔和的粉色腮红。她的姿势略显慵懒且不对称，正面站立，头部相对于身体较大，双臂向下弯曲垂在身体两侧，手部娇小，双腿纤细，穿着超大号鞋子。为她穿上一件超大号短袖 {argument name="shirt color" default="深酒红色"} T 恤、深炭灰色紧身裤，以及带有白色鞋头、白色鞋底、黑色轮廓和酒红色侧板的厚底低帮运动鞋。采用刻意粗犷的手绘卡通风格，简化解剖结构，夸张比例，极简阴影，保持干净的白色负空间，无文字，无道具，无背景景观，无水印。
+
+[English]
+Create a simple full-body cartoon character illustration on a plain white background: a stylized teenage girl with an unimpressed, sleepy expression, drawn in a bold 2D vector-like comic style with very thick black outlines and flat colors. She has very long straight {argument name="hair color" default="golden blonde"} hair that frames her face and extends past her shoulders with angular pointed ends, heavy straight bangs with separated vertical strands, pale skin, half-lidded large blue eyes, tiny nose, small flat mouth, and soft pink blush circles on both cheeks. Her pose is slightly slouched and asymmetrical, standing front-facing with her head large compared to her body, arms bent down at her sides, small hands, narrow legs, and oversized shoes. Dress her in an oversized short-sleeve {argument name="shirt color" default="dark burgundy"} T-shirt, dark charcoal skinny pants, and chunky low-top sneakers with white toe caps, white soles, black outlines, and burgundy side panels. Use a deliberately rough, hand-drawn cartoon look with simplified anatomy, exaggerated proportions, minimal shading, clean white negative space, no text, no props, no background scenery, and no watermark.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2074742615082455206) | 2026-07-08
+
+---
+
+### 🎬 例 3511：GPT5.6 漫画风格分级说明
+
+![GPT5.6 漫画风格分级说明](../../images/GPT5.6%20%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%88%86%E7%BA%A7%E8%AF%B4%E6%98%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张色彩鲜艳的竖版日式漫画说明页，宣布 {argument name="model name" default="GPT5.6"} 并解释其三个层级。采用充满活力的少年漫画杂志构图、动漫角色反应以及密集的信息图面板。
+
+画布：竖向 3:4 海报，全出血，高分辨率数字动漫插画。使用亮青色、天蓝色、白色、海军蓝、洋红色、黄色和金色，搭配爆炸性的速度线、对角线漫画边框、闪电碎片、星爆效果，并在部分面板中加入带有棕榈树的未来主义热带城市背景。
+
+布局：将页面精确划分为 6 个漫画/信息图区域：1 个顶部大标题横幅，1 个左上角小型反应肖像面板，1 个中左侧层级图示面板，1 个中右侧侧面对话面板，1 个覆盖层级卡片的大型中央动作角色面板，以及 1 个底部对比预告条。使用粗漫画边框和倾斜的分隔线。
+
+主角：同一个动漫少女在页面中出现 5 次。她拥有飘逸的长款水蓝色双马尾、青色眼睛、白皙皮肤，身穿鲜艳的皇家蓝中式幻想风格连衣裙，配有金色镶边、金色花结装饰、分离式袖子细节、黑色过膝袜以及华丽的黑金靴子。她的五次出场分别为：1) 左上角惊讶的胸像，嘴巴微张，一只手抬起；2) 中左侧思考状胸像，手放在下巴附近；3) 中右侧冷静的侧面胸像，看向右方；4) 中央大型动态全身动作姿势，向观众冲刺，一只手伸出，另一只手握拳；5) 左下角微小的微笑侧面肖像。
+
+文本内容：使用日式漫画排版，并将最突出的文字设为 {argument name="main headline text" default="GPT5.6が今週木曜日に登場！3つのティアを解説ッッ！"}。在左上角添加一个尖刺状对话气泡，内容为 {argument name="surprised speech text" default="待ってッ!! GPT5.6は3つのティアだと!?"}。添加一个中间说明气泡，解释 Sol、Terra 和 Luna 是三个层级，且名称未来可能会延续。添加一个右侧对话气泡，表示角色似乎有所不同。添加一行底部预告，对比 {argument name="comparison model" default="Fable5"} 与 GPT5.6。在右下角添加一个大型黑色星爆，内容为 {argument name="closing slogan" default="進化は止まらない！未来は選べるぜ！"}。
+
+层级信息图：在左侧包含 3 张堆叠的层级卡片，编号并标注：1) Sol，旗舰层级，皇冠图标，深海军蓝标题，描述为最先进的推理和长 Agent 工作模型，带有三个圆形图标，分别标注为编码、网络安全和生命科学，并附有粉色备注，说明性能提升尤为显著；2) Terra，平衡层级，天平图标，青色标题，描述为继承了 GPT-5.5 级别平衡能力的日常默认模型，带有高性能徽章和显示半价的价格备注；3) Luna，高速/低价层级，火箭图标，紫色标题，描述为速度最快且成本最低，适合大批量和频繁的任务，带有秒表和硬币图标，代表最快速度和低廉价格。
+
+视觉风格：精致的 GPT 生成动漫漫画海报，清晰的线条，光泽感的赛璐珞阴影，戏剧性的透视，生动的表情，密集但易读的布局，手写笔刷风格的日文标题，简洁的信息图图标，充满活力的科技新闻宣传基调。
+
+约束条件：统计并展示 3 个名为 Sol、Terra 和 Luna 的层级；同一个角色精确出现 5 次；Sol 卡片中包含 3 个图标；无额外角色；无徽标或水印；保持干净的杂志页面构图，并使用清晰易读的日文文本。
+
+[English]
+Goal: Create a colorful vertical Japanese manga explainer page announcing {argument name="model name" default="GPT5.6"} and explaining its three tiers, with energetic shonen magazine composition, anime character reactions, and dense infographic panels.
+
+Canvas: Portrait 3:4 poster, full bleed, high-resolution digital anime illustration. Use bright cyan, sky blue, white, navy, magenta, yellow, and gold with explosive speed lines, diagonal comic borders, lightning shards, starbursts, and a futuristic tropical city background with palm trees in some panels.
+
+Layout: Divide the page into exactly 6 comic/infographic areas: 1 large top headline banner, 1 small upper-left reaction portrait panel, 1 middle-left tier diagram panel, 1 middle-right side-profile dialogue panel, 1 large central action character panel overlapping the tier cards, and 1 bottom comparison teaser strip. Use thick manga panel borders and angled separations.
+
+Main character: A single recurring anime girl appears exactly 5 times across the page. She has long flowing aqua-turquoise twin-tail hair, teal eyes, pale skin, and a vivid royal-blue Chinese-inspired fantasy dress with gold trim, gold flower-knot ornaments, detached sleeve details, black thigh-high stockings, and ornate black-and-gold boots. Her five appearances are: 1) upper-left surprised bust portrait, mouth open, one hand raised; 2) left-middle thoughtful bust portrait with hand near chin; 3) middle-right calm side-profile bust looking right; 4) large central dynamic full-body action pose lunging toward the viewer with one hand extended and one fist clenched; 5) bottom-left small smiling profile portrait.
+
+Text content: Use Japanese manga typography and keep the most prominent text as {argument name="main headline text" default="GPT5.6が今週木曜日に登場！3つのティアを解説ッッ！"}. Add a spiky upper-left speech bubble with {argument name="surprised speech text" default="待ってッ!! GPT5.6は3つのティアだと!?"}. Add a middle explanatory bubble about Sol, Terra, and Luna being three tiers and names possibly continuing in the future. Add a right speech bubble saying the roles seem different. Add a bottom teaser line comparing {argument name="comparison model" default="Fable5"} with GPT5.6. Add a large black starburst at bottom right with {argument name="closing slogan" default="進化は止まらない！未来は選べるぜ！"}.
+
+Tier infographic: Include exactly 3 stacked tier cards on the left, numbered and labeled: 1) Sol, flagship tier, crown icon, dark navy header, described as the most advanced inference and long-agent-work model, with three circular icons labeled coding, cyber security, and life sciences, plus a pink note that performance improvements are especially noticeable; 2) Terra, balanced tier, scale icon, teal header, described as the everyday default model inheriting GPT-5.5-level balanced ability, with a high-performance badge and a price note showing half price; 3) Luna, high-speed/low-price tier, rocket icon, purple header, described as fastest and lowest cost, suited to high-volume and frequent tasks, with stopwatch and coin icons for fastest and low price.
+
+Visual style: Polished GPT-image anime manga poster, crisp line art, glossy cel shading, dramatic foreshortening, expressive faces, dense but readable layout, handwritten brush-style Japanese headline, clean infographic icons, energetic promotional tech-news tone.
+
+Constraints: Count and show exactly 3 tiers named Sol, Terra, and Luna; exactly 5 depictions of the same character; exactly 3 icons in the Sol card; no extra characters; no logos or watermarks; preserve a clean magazine-page composition with readable Japanese text.
+```
+
+**来源：** [@チビクロ🧩AI錬金術士](https://x.com/CHIBIKURO_QnQ/status/2074738335751557279) | 2026-07-08
+
+---
+
+### 🎬 例 3542：生物朋克恐怖漫画技术档案
+
+![生物朋克恐怖漫画技术档案](../../images/%E7%94%9F%E7%89%A9%E6%9C%8B%E5%85%8B%E6%81%90%E6%80%96%E6%BC%AB%E7%94%BB%E6%8A%80%E6%9C%AF%E6%A1%A3%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张图片：一份科学与医学档案页面，采用 {argument name="style" default="生物朋克恐怖漫画风格"}，具有复杂且精细的动漫风格技术界面设计。画面中央，所附模型身着 {argument name="role" default="科学家"} 服装。严格的三色调色板：仅限白色、黑色和鲜血红色。水墨漫画艺术风格，使用网点（screentones）进行阴影处理，具有细腻的手绘线条纹理。背景为带有颓废美学的陈旧技术文档，填满了英文警告文本和日文汉字区块、条形码、生物数据框、植物图解以及红色印章。旧纸张纹理、复印颗粒感、高对比度、黑暗且充满悬疑的氛围——这是一部概念图形艺术的杰作。
+
+[English]
+Create an image: A page of a scientific and medical dossier in a {argument name="style" default="biopunk horror manga style"}, with a detailed and complex anime-style technical interface design. In the center, the attached model is dressed as a {argument name="role" default="scientist"}. Strict trichromatic color palette: only white, black, and bright blood red. Inked manga art style, shaded with dot patterns (screentones), with detailed hand-drawn line drawing textures. The background is a worn technical document with a grunge aesthetic, filled with English warning texts and Japanese kanji in blocks, barcodes, biological data boxes, plant diagrams, and a red seal. Old paper texture, photocopy grain, high contrast, dark and suspenseful atmosphere—a masterpiece of conceptual graphic art.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2074649918443041109) | 2026-07-08
+
+---
+
