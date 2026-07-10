@@ -5488,3 +5488,45 @@ Create an image: A page of a scientific and medical dossier in a {argument name=
 
 ---
 
+### 🎬 例 3559：六格篮球浪漫漫画
+
+![六格篮球浪漫漫画](../../images/%E5%85%AD%E6%A0%BC%E7%AF%AE%E7%90%83%E6%B5%AA%E6%BC%AB%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页干净的黑白日式漫画，讲述一名害羞的高中篮球少年与一名支持他的女孩之间的故事。使用细腻的网点纸阴影、手工墨线、电影感分镜以及易读的竖排日文对话气泡。
+
+画布：单页竖版漫画，米白色纸张，带有圆角浅灰色边框。采用 2 列 3 行的网格布局，共 6 个矩形分镜，由粗白边线分隔。除灰度墨水、网点纸和柔和高光外，不使用任何颜色。
+
+角色：男主角为 {argument name="male lead" default="一名身材瘦削的日本高中篮球运动员，留着凌乱的黑色短发，身穿 7 号球衣、运动短裤和运动鞋，表情害羞而真诚"}。女主角为 {argument name="female lead" default="一名日本高中女生，留着齐肩直发和刘海，身穿水手服风格校服，笑容温暖，有时拿着书本或毛巾"}。
+
+分镜布局与内容：分镜 1（左上）：室内学校体育馆，篮球架靠近镜头，地板有光泽反射，身穿 7 号球衣的少年跳起上篮或投篮，球靠近篮筐，动作具有动态向上感，包含一个竖排对话气泡。分镜 2（右上）：学校铁丝网围栏外，少年背着书包面对女孩，女孩将书抱在胸前，氛围平静且充满鼓励，女孩附近有一个竖排对话气泡。分镜 3（中左）：篮球架下的戏剧性特写，球向篮网飞去，背景充满旋转的速度线，少年神情紧张而专注地抬头仰望，包含一个竖排对话气泡。分镜 4（中右）：明亮的学校走廊或体育馆通道，窗户宽大，面带微笑的女孩递给少年一条毛巾，少年拿着饮料瓶显得有些慌乱，包含两个竖排对话气泡。分镜 5（下左）：体育馆内，少年独自蹲下系鞋带或调整鞋子，神情坚定而羞涩，背景是看台，他身后上方浮现出女孩柔和发光的意象肖像，包含一个竖排对话气泡。分镜 6（下右）：春天的学校庭院，樱花飘落，背景是教学楼，身穿篮球服的少年与身穿校服的女孩面对面，露出害羞的微笑，包含两个竖排对话气泡。
+
+文字内容：在 8 个对话气泡中使用以下日文对话，按分镜顺序排列：{argument name="Japanese dialogue" default="絶対もっと上手くなる！ / いっしょに頑張ってるね。 / やばい…なんかすごい意識しすぎ… / おつかれさま。 / あ、ありがとう…？ / もっと強くなって、ちゃんと想いを伝えたい。 / 好きです。付き合ってください。 / うん、よろしくね"}。字体应采用印刷体漫画风格，适当竖排，清晰易读。
+
+视觉风格：正宗少年浪漫漫画，黑白墨水，细致的排线，网点纸阴影，富有表现力的眼睛，柔和的浪漫光影，细致的体育馆建筑，铁丝网纹理，窗户反射，樱花花瓣，动作分镜中的动态速度线，舒缓的情感节奏。
+
+限制条件：严格 6 个分镜，严格 2 个主要角色，少年球衣号码必须为 {argument name="jersey number" default="7"}，所有对话气泡必须保持在分镜边框内，无额外标题，无 Logo，无水印，无颜色。
+
+[English]
+Goal: Create a clean black-and-white Japanese manga page about a shy high-school basketball boy and a supportive girl, using delicate screentone shading, hand-inked linework, cinematic paneling, and readable vertical Japanese speech bubbles.
+
+Canvas: A single portrait manga page on off-white paper with a rounded light-gray page border. Use a 2-column by 3-row grid with exactly 6 rectangular panels separated by thick white gutters. No color except grayscale ink, screentones, and soft highlights.
+
+Characters: The main boy is {argument name="male lead" default="a slim teenage Japanese basketball player with messy short black hair, jersey number 7, athletic shorts, sneakers, and a shy earnest expression"}. The main girl is {argument name="female lead" default="a teenage Japanese schoolgirl with straight shoulder-length black hair and bangs, sailor-style school uniform, warm smile, sometimes holding a book or towel"}.
+
+Panel layout and content: Panel 1, top left: indoor school gym, basketball hoop close to camera, polished floor reflections, the boy in jersey number 7 jumps for a layup or shot, ball near the rim, dynamic upward motion, one vertical speech bubble. Panel 2, top right: outdoors by a chain-link fence at school, the boy stands with a backpack facing the girl, she holds books against her chest, calm encouraging mood, one vertical speech bubble near the girl. Panel 3, middle left: dramatic close-up under the basketball hoop, ball arcing toward the net, swirling speed lines fill the background, boy looks up intensely and nervously, one vertical speech bubble. Panel 4, middle right: bright school corridor or gym hallway with large windows, the smiling girl hands the boy a towel while he holds a drink bottle and looks flustered, exactly two vertical speech bubbles. Panel 5, bottom left: inside the gym, boy crouches alone tying or adjusting his shoe, looking determined and embarrassed, bleachers behind him, a soft glowing thought-image portrait of the girl appears above and behind him, one vertical speech bubble. Panel 6, bottom right: school courtyard in spring with cherry blossoms and petals falling, school building in the background, boy in basketball uniform and girl in school uniform face each other with shy smiles, exactly two vertical speech bubbles.
+
+Text content: Use the following Japanese dialogue in the 8 speech bubbles, arranged by panel order: {argument name="Japanese dialogue" default="絶対もっと上手くなる！ / いっしょに頑張ってるね。 / やばい…なんかすごい意識しすぎ… / おつかれさま。 / あ、ありがとう…？ / もっと強くなって、ちゃんと想いを伝えたい。 / 好きです。付き合ってください。 / うん、よろしくね"}. The lettering should be printed manga-style, vertical where appropriate, crisp and legible.
+
+Visual style: Authentic shonen romance manga, monochrome ink, fine hatching, screentone shadows, expressive eyes, soft romantic lighting, detailed gym architecture, chain-link fence texture, window reflections, cherry blossom petals, dynamic speed lines in action panels, gentle emotional pacing.
+
+Constraints: Exactly 6 panels, exactly 2 main characters, boy jersey number must be {argument name="jersey number" default="7"}, keep all speech bubbles inside panel borders, no extra captions, no logos, no watermark, no color.
+```
+
+**来源：** [@モンジ](https://x.com/monjifight/status/2075253119257338013) | 2026-07-09
+
+---
+

@@ -2610,3 +2610,21 @@ Restore this {argument name="item" default="photo"}. Reduce and correct the over
 
 ---
 
+### 🔧 例 3643：Crane Park 全幅关键视觉图
+
+![Crane Park 全幅关键视觉图](../../images/Crane%20Park%20%E5%85%A8%E5%B9%85%E5%85%B3%E9%94%AE%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图，提取并重新生成中央公园插画，使其成为全幅宽屏电影级艺术作品。移除所有项目元素、排版、色板、地图、缩略图、标签、页边距和纸张背景。将中央场景扩展以填充 {argument name="aspect ratio" default="16:9 横屏"} 画布，同时保留原有的绘画概念艺术风格、暮色蓝金光影、Crane Park 环境、儿童形象、秋千/起重机地标、花卉、树木以及大气城市天际线。在不追求照片级写实的前提下提高清晰度和细节；保留水粉/粉彩的纹理笔触和手绘颗粒感。使其成为一张简洁、无文字或 UI 元素的环境关键视觉图。
+
+[English]
+Using the provided reference image, isolate and regenerate only the central park illustration as a full-bleed wide cinematic artwork. Remove all presentation-board elements, typography, swatches, maps, thumbnails, labels, margins, and paper background. Expand the central scene to fill a {argument name="aspect ratio" default="16:9 landscape"} canvas while preserving the same painterly concept-art style, dusk blue-and-gold lighting, crane-park environment, child figure, swing/crane landmark, flowers, trees, and atmospheric urban skyline. Increase clarity and detail without making it look photorealistic; keep the textured gouache/pastel brushwork and hand-painted grain. Make it suitable as a clean environment key art image with no text or UI elements.
+```
+
+**来源：** [@ヤノ](https://x.com/Ryuki_Yano/status/2075010689165578389) | 2026-07-09
+
+---
+

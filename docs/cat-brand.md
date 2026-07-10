@@ -9085,3 +9085,315 @@ Create a high-energy vertical anime fashion illustration of {argument name="char
 
 ---
 
+### 🏷️ 例 3546：日系可爱风 Logo 模型对比
+
+![日系可爱风 Logo 模型对比](../../images/%E6%97%A5%E7%B3%BB%E5%8F%AF%E7%88%B1%E9%A3%8E%20Logo%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在纯白背景上创建一张简洁的并排对比图，展示同一个日系可爱风 Logo 提示词在两个 AI 图像模型下的输出效果。
+
+画布：宽屏 3:2 横向画布，尺寸约为 1152 × 768 像素，留有大量空白，无边框或水印。
+
+布局：放置两个醒目的黑色模型标签和两个彩色 Logo 样本。在左上角区域，添加大号粗体无衬线黑色文本标签“GPT Image 2”。在其下方，放置一个较小的光泽感日系气泡字体 Logo，内容为 {argument name="logo text" default="100人キラキラ"}，主要呈水平一行排列。在左侧中间区域，添加粗体黑色无衬线文本标签 {argument name="second model label" default="Seedream 5.0 Pro"}。在该标签的右下方，放置一个更大、类似贴纸版本的相同 Logo，占据画布右下半部分。
+
+文本与对象数量：包含 2 个黑色模型标签：“GPT Image 2”和“Seedream 5.0 Pro”。包含 2 个彩色日系 Logo 渲染图。上方 Logo 应包含 6 个主要文本/符号部分：粉色“100”、蓝色“人”、黄色星星符号、蓝色“ラ”、粉色浊点状标记以及小闪光装饰。下方 Logo 应包含 7 个主要文本/符号部分：渐变色“100”、蓝粉色“人”、金色星星符号、粉色“キ”、黄色“ラ”、蓝色“キ”以及粉色“ラ”。
+
+视觉风格：可爱的日系偶像周边美学，光泽感充气气泡字体，圆润粗线条，糖果色调，白色高光，细腻的内部渐变，细彩色描边，以及柔和的灰/白色贴纸边框。使用 {argument name="color palette" default="粉色、青蓝色、柠檬黄、金色和白色"}。下方 Logo 应看起来更精致、更大、更有层次感，呈现出类似模切亚克力贴纸的半透明质感，并带有柔和的灰色阴影。上方 Logo 应看起来更扁平、精致度稍低，星星周围带有更多小闪光。
+
+约束条件：保持背景纯白，保留对比构图，使用清晰易读的黑色标签，避免添加额外说明文字，避免出现写实物体，且不要添加任何人物或风景。
+
+[English]
+Goal: Create a clean side-by-side comparison graphic on a plain white background showing two AI image model outputs of the same Japanese kawaii logo prompt.
+
+Canvas: Wide 3:2 landscape canvas, approximately 1152 × 768 px, with lots of empty white space and no border or watermark.
+
+Layout: Place two bold black model labels and two colorful logo samples. In the upper-left area, add the label “GPT Image 2” in large bold sans-serif black text. Below it, place a smaller glossy Japanese bubble-letter logo reading {argument name="logo text" default="100人キラキラ"}, arranged mostly in one horizontal line. In the middle-left area, add the label {argument name="second model label" default="Seedream 5.0 Pro"} in bold black sans-serif text. Below and to the right of that label, place a larger, sticker-like version of the same logo, occupying the lower-right half of the canvas.
+
+Text and objects count: Include exactly 2 black model labels: “GPT Image 2” and “Seedream 5.0 Pro”. Include exactly 2 colorful Japanese logo renderings. The upper logo should have 6 main text/symbol parts: pink “100”, blue “人”, yellow star symbol, blue “ラ”, pink dakuten-like mark, and small sparkle decorations. The lower logo should have 7 main text/symbol parts: gradient “100”, blue-pink “人”, gold star symbol, pink “キ”, yellow “ラ”, blue “キ”, and pink “ラ”.
+
+Visual style: Cute Japanese idol merchandise aesthetic, glossy inflated bubble lettering, rounded thick strokes, pastel candy colors, white highlights, subtle inner gradients, thin colored outlines, and soft gray/white sticker borders. Use {argument name="color palette" default="pink, cyan blue, lemon yellow, gold, and white"}. The lower logo should look more polished, larger, layered, and semi-translucent like a die-cut acrylic sticker with a soft gray shadow. The upper logo should look flatter and slightly less refined, with more small sparkles around the star.
+
+Constraints: Keep the background completely white, preserve the comparison composition, use crisp readable black labels, avoid extra captions, avoid photorealistic objects, and do not add any people or scenery.
+```
+
+**来源：** [@ねこ社長 | AI動画クリエイター・ディレクター](https://x.com/neko_shacho0808/status/2075354947202449835) | 2026-07-09
+
+---
+
+### 🏷️ 例 3557：赛博朋克霓虹街头赛车手
+
+![赛博朋克霓虹街头赛车手](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9C%93%E8%99%B9%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位孤独的 {argument name="character type" default="赛博朋克街头赛车手"} 站在一辆炫酷的 {argument name="vehicle description" default="黑色悬浮摩托车"} 旁，身处 {argument name="environment" default="雨水浸湿的超级城市小巷"} 中，周围环绕着高耸的全息广告牌、发光的汉字招牌、错综复杂的电缆和蒸汽排气口。潮湿的柏油路面映照出电光紫红、青色、紫罗兰色和酸绿色的霓虹灯光。低角度电影级构图，戏剧性的轮廓光，浓重的环境雾气，铬合金反射，未来主义街头时尚，高对比度，鲜艳的色彩光晕，粗犷的城市质感，清晰的焦点主体，极具视觉冲击力的夜生活能量。长宽比 9:16
+
+[English]
+A lone {argument name="character type" default="cyberpunk street racer"} standing beside a sleek {argument name="vehicle description" default="black hoverbike"} in a {argument name="environment" default="rain-soaked megacity alley"}, surrounded by towering holographic billboards, glowing kanji signs, tangled cables, and steam vents. Wet asphalt mirrors electric magenta, cyan, violet, and acid-green neon light. Low-angle cinematic composition, dramatic rim lighting, dense atmospheric haze, chrome reflections, futuristic street fashion, high contrast, vibrant color bloom, gritty urban texture, sharp focal subject, visually explosive nightlife energy. Aspect ratio 9:16
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2075261216751005805) | 2026-07-09
+
+---
+
+### 🏷️ 例 3558：骑士面对大教堂巨人
+
+![骑士面对大教堂巨人](../../images/%E9%AA%91%E5%A3%AB%E9%9D%A2%E5%AF%B9%E5%A4%A7%E6%95%99%E5%A0%82%E5%B7%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 超宽画幅的黑暗奇幻电影级关键艺术场景。在左侧前景中，展示一名孤独的披甲骑士，背对观众，身穿破损的黑色板甲，披着一件带有金色磨损边缘的深色 {argument name="cape color" default="蓝色"} 斗篷，手中紧握一把剑尖朝下插在潮湿石地上的长直剑。在中景和中右侧，展示一个巨大的亡灵大教堂式巨人，高耸于骑士之上，拥有头盔般的垂直裂缝发光面孔、暴露的肋骨装甲、巨大的驼背、长长的垂臂、粗壮的双腿，以及从身体上垂下的厚重苔藓、树根、锁链和失去光泽的金色花丝。场景中仅包含两个类人形象：小巧的骑士和巨大的巨人。周围环绕着三个显著的哥特式废墟建筑：最左侧边缘高耸倾斜的尖塔、骑士后方中左侧背景中破碎的拱桥，以及最右侧黑暗且破败的大教堂拱塔。环境设定在暴风雨夜下的中世纪废墟城市或大教堂庭院中，伴有低垂的雾气、灰烬颗粒、零星的微小火把火焰、潮湿且具有反射感的石地，以及左侧向右侧冷蓝色月光过渡的红黑色风暴光晕。使用 {argument name="visual style" default="黑暗写实奇幻概念艺术"}，极具细节的盔甲，宏大的比例，高对比度的明暗对照照明，戏剧性的低机位视角，大气朦胧感，骑士和巨人处具有清晰的焦点细节，无文字，无标志，无现代物体。
+
+[English]
+Create a dark fantasy cinematic key art scene in an ultra-wide 16:9 frame. In the foreground left, show one lone armored knight, back turned toward the viewer, wearing battered blackened plate armor and a torn deep {argument name="cape color" default="blue"} cloak with gold frayed trim, gripping a long straight sword planted point-down in the wet stone ground. In the midground and center-right, show one colossal undead cathedral-like giant towering over the knight, with a helmet-like vertical slitted glowing face, exposed ribcage armor, massive hunched shoulders, long dangling arms, thick legs, and heavy strands of moss, roots, chains, and tarnished gold filigree hanging from its body. The scene contains exactly two humanoid figures: the small knight and the enormous giant. Surround them with exactly three prominent ruined gothic structures: a tall tilted spire on the far left edge, a broken arched bridge behind the knight in the middle-left background, and a dark ruined cathedral arch tower on the far right. Set the environment in a ruined medieval city or cathedral courtyard under a stormy night sky, with low fog, ash particles, scattered tiny torch flames, wet reflective stone, and a red-black storm glow on the left fading into cold blue moonlight on the right. Use {argument name="visual style" default="grimdark photorealistic fantasy concept art"}, extremely detailed armor, monumental scale, high contrast chiaroscuro lighting, dramatic low camera angle, atmospheric haze, sharp focal detail on the knight and giant, no text, no logos, no modern objects.
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2075253685194760655) | 2026-07-09
+
+---
+
+### 🏷️ 例 3564：霓虹日落和服少女
+
+![霓虹日落和服少女](../../images/%E9%9C%93%E8%99%B9%E6%97%A5%E8%90%BD%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感动漫插画，主角是 {argument name="character name" default="一位年轻的日本女性"}，场景设定在日落时分的露天传统走廊。她回眸望向镜头，带着温柔而困倦的微笑，仿佛在道晚安。她身穿一件优雅的深藏青色和服，内衬为鲜艳的橙色，饰有风格化的云纹，腰间系着巨大的腰带结。她那飘逸的长发颜色为 {argument name="hair color" default="黑色"}，被风剧烈地吹起，发间装饰着几朵蓝紫色的小花。画面融合了传统日式建筑与霓虹赛博朋克灯光：木质柱子和栏杆框出了广阔的视野，巨大的橙色太阳正落入层叠的山峦、云层和倒映着光影的河流或海湾之后，走廊上方悬挂着发着青蓝色的长方形灯笼招牌。采用 16:9 的宽画幅构图，运用动态对角线透视，人物位于画面中心偏右，和服袖子和丝带在前景中舒展开来。空气中需包含三种清晰可见的随风飘散的装饰元素：粉色花瓣、红橙色叶片状碎片以及长长的紫色丝带。光影效果需极具戏剧性，左侧为温暖的日落橙光，上方和右侧为冷色调的电光蓝与洋红色霓虹光，营造出光泽感的高光、深邃的阴影、发丝边缘光以及饱和的色彩对比。风格：超精细日本动漫主视觉图，绘画感数字艺术，锐利的线条与大气笔触纹理相结合，高对比度，发光质感，浪漫的夜曲氛围，无文字，无水印，无现代招牌文字。
+
+[English]
+Create a cinematic anime illustration of {argument name="character name" default="a young Japanese woman"} in an open-air traditional corridor at sunset, turning back over her shoulder with a gentle sleepy smile as if saying good night. She wears an elegant dark navy-black kimono with vivid orange lining and stylized cloud patterns, tied with a large obi bow, with long flowing {argument name="hair color" default="black"} hair swept dramatically by the wind and decorated with small blue-purple flowers. The scene is a fusion of traditional Japanese architecture and neon cyberpunk lighting: wooden pillars and railings frame a wide view of a huge orange sun setting behind layered mountains, clouds, and a reflective river or bay, while glowing cyan-blue rectangular lantern signs hang overhead along the corridor. Use a wide 16:9 composition, dynamic diagonal perspective, the character positioned slightly right of center, her kimono sleeves and ribbons spreading across the foreground. Fill the air with exactly three visible types of windblown decorative elements: pink flower petals, red-orange leaf-like fragments, and long purple ribbon streamers. Lighting should be highly dramatic with warm sunset orange from the left and cool electric blue-magenta neon from above and right, creating glossy highlights, deep shadows, rim light on hair strands, and saturated color contrast. Style: ultra-detailed Japanese anime key visual, painterly digital art, sharp linework mixed with atmospheric brush texture, high contrast, luminous glow, romantic nocturne mood, no text, no watermark, no modern signage lettering.
+```
+
+**来源：** [@空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo/status/2075248355723378795) | 2026-07-09
+
+---
+
+### 🏷️ 例 3565：复古美式流行餐馆时尚大片
+
+![复古美式流行餐馆时尚大片](../../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B5%81%E8%A1%8C%E9%A4%90%E9%A6%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+背景设定：一个虚构的复古美式流行餐馆外观，置于明亮的日光下，配有巨大的复古路边广告牌、醒目的 {argument name="colors" default="红-粉-绿松石-奶油色"} 招牌、镀铬装饰、条纹遮阳篷、棋盘格路缘装饰、光泽感十足的阳光路面、棕榈树、宽大的前窗、柔和色调的路缘石以及风格化的苏打喷泉插图。仅使用通用的复古餐馆招牌，不得包含任何真实品牌标志或可辨认的品牌名称。背景应呈现出色彩丰富、图形化、怀旧且极具美式复古风情，但必须作为结构化的时尚背景，而非旅游景点。
+
+构图锁定：紧凑的 4:5 竖构图时尚大片，采用 {argument name="angle" default="大腿至腰部高度的近距离低角度"}，而非全身商品目录照或游客快照。主体占据画面约 75%–85%。主要的视觉张力来自抬起的手臂线条、肩部倾斜、胸腔、腰部曲线、臀部位移、交叉的腿部线条、手部及面部。允许在小腿、抬起的手部或侧边缘处进行裁剪。确保巨大的餐馆招牌、镀铬立柱、遮阳篷条纹、棋盘格装饰以及醒目的色块在主体身后可见，形成压缩的复古流行几何感。
+
+姿势锁定：主体不得处于坐姿、蹲姿、前膝姿势、行走或平直站立状态。她处于 {argument name="pose" default="高定时尚镀铬立柱 S 型曲线倚靠"} 姿势，位于餐馆入口或遮阳篷支撑旁。一侧臀部轻靠镀铬立柱，躯干向外拱起，在腰部和胸腔处形成一条修长的曲线。靠近立柱的手臂向上伸展并弯曲过头顶，手部轻触上方的镀铬立柱或遮阳篷框架，形成强烈的垂直线条。另一只手臂低垂横跨腰部或沿外侧臀部放置，保持服装轮廓简洁。双腿交叉，前膝轻微弯曲并向内倾斜，后腿伸展较长，可进行部分裁剪。臀部侧移，肩部与臀部形成反向旋转，颈部保持修长，胸部舒展但不夸张。身体必须呈现出刻意的时尚大片 S 型曲线，而非随意的倚靠。
+
+表情与视线锁定：身体略微背向镜头，但头部沿肩线转回看向镜头。下巴微收，双眼直视镜头，展现出受控的复古时尚自信。视线必须由身体的扭转自然产生，而非生硬拼贴。眉间带有细微张力，双唇放松，表情从容、犀利且沉稳，而非可爱或呆滞。
+
+编辑意图：镀铬立柱、遮阳篷条纹和餐馆招牌在主体周围营造出垂直与水平的图形线条。姿势应将这些笔直的建筑线条与弯曲的人体轮廓形成对比。
+
+[English]
+Background identity: a fictional retro American pop diner exterior under bright daylight, with a giant vintage roadside billboard, bold {argument name="colors" default="red-pink-turquoise-cream"} signage, chrome trim, striped awnings, checkerboard curb accents, glossy sunlit pavement, palm trees, wide front windows, pastel-painted curb blocks, and stylized soda-fountain illustrations. Use generalized vintage diner signage only, with no real brand logos or readable brand names. The background should feel colorful, graphic, nostalgic, and unmistakably retro Americana, but it must function as a structured fashion backdrop rather than a travel location.
+
+Composition lock: tight vertical 4:5 fashion editorial composition from a {argument name="angle" default="close low angle around thigh-to-waist height"}, not a full-body catalog shot and not a tourist snapshot. The subject fills about 75–85% of the frame. The main visual pressure comes from the raised arm line, shoulder slope, ribcage, waist curve, hip shift, crossed leg line, hands, and face. Cropping at the lower legs, raised hand, or side edge is allowed. Keep the giant diner sign, chrome pole, awning stripes, checkerboard accents, and bold color blocks visible behind her as compressed retro-pop geometry.
+
+Pose lock: the subject must not be seated, crouching, doing a foreground-knee pose, walking, or standing flat. She is in a {argument name="pose" default="high-fashion chrome-pole S-curve lean"} beside the diner entrance or awning support. One hip lightly presses toward the chrome pole while the torso arches away from it, creating a long curved line through waist and ribcage. The arm closest to the pole reaches upward and bends over the head, with the hand lightly touching the chrome pole or awning frame above, creating a strong vertical line. The opposite arm crosses low across the waist or rests along the outer hip, keeping the outfit silhouette clean. One leg crosses in front of the other with the front knee softly bent and angled inward, while the back leg extends longer and may be partially cropped. Hips shift sideways, shoulders counter-rotate against the hips, neck stays long, chest open but not exaggerated. The body must read as an intentional fashion editorial S-curve, not a casual lean.
+
+Expression and gaze lock: the body is angled slightly away from the camera, but the head turns back across the shoulder line toward the lens. Chin slightly lowered, eyes locked directly into the camera with controlled retro-editorial confidence. The gaze must feel created by the twist of the body, not simply pasted on. Brows have subtle tension, lips relaxed, expression composed, sharp, and self-possessed rather than cute or blank.
+
+Editorial intent: the chrome pole, awning stripes, and diner signage create vertical and horizontal graphic lines around the body. The pose should contrast those straight architectural lines with a curved human sil
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075247342287196600) | 2026-07-09
+
+---
+
+### 🏷️ 例 3587：Y2K 休闲夏季街头风
+
+![Y2K 休闲夏季街头风](../../images/Y2K%20%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E8%A1%97%E5%A4%B4%E9%A3%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：一套明亮的夏季 Y2K 休闲街头风造型，包含一件超大款 {argument name="shirt color" default="鲜黄色"} 棉质针织短袖 T 恤，带有绿色圆形文字风格的图案印花，采用前打结或收褶短款下摆设计；搭配黑色轻质梭织面料迷你短裤，裤身满印白色小型通用图案；穿着黑白拼色厚底运动鞋，配有黑色鞋带、斑点或拼接黑色细节，采用合成皮革或帆布材质，搭配厚橡胶鞋底；呈现高级面料质感，真实的服装结构，整洁的缝线，自然的接缝张力，逼真的面料重量，细微的褶皱，真实的垂坠感，精致的边缘处理，可见的接缝，真实的折痕，做工精良的服装细节，高品质的材质触感，细腻的服装真实感，非演出服质感，无廉价感；随机添加一些俏皮的 Y2K {argument name="accessory material" default="银色"} 配饰，如手镯、戒指和小耳环，使其与整体穿搭自然融合，无需指定具体款式。
+
+[English]
+Outfit: a bright summer Y2K casual street outfit with an oversized {argument name="shirt color" default="vivid yellow"} cotton jersey short-sleeve T-shirt featuring a green generalized circular text-style graphic print, styled with a front twisted knot or gathered cropped hem, paired with black mini shorts in lightweight woven fabric with an all-over small white generalized graphic print, white and black chunky sneakers with black laces, spotted or paneled black details, layered synthetic leather or canvas upper, and thick rubber soles; premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable fabric weight, subtle wrinkles, realistic drape, refined edge finishing, visible seams, real folds, well-made clothing details, high-quality material feel, detailed garment realism, not costume-like, not cheap-looking; add a random mix of playful Y2K {argument name="accessory material" default="silver-tone"} accessories such as bangles, rings, and small earrings that naturally match the outfit without fixing exact pieces.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075190579928142276) | 2026-07-09
+
+---
+
+### 🏷️ 例 3593：深褐色古典小提琴专辑封面
+
+![深褐色古典小提琴专辑封面](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8F%A4%E5%85%B8%E5%B0%8F%E6%8F%90%E7%90%B4%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形古典音乐专辑封面插画，采用精致的深褐色单色调。主体是一位名为 {argument name="character name" default="Claude"} 的中性化年轻贵族小提琴手，以四分之三侧面近景呈现，面向右侧，坐在一间华丽的维多利亚式音乐室中。他们留着长而略显凌乱的 {argument name="hair color" default="银灰色"} 头发，几缕发丝散落在脸庞，一根粗辫子垂在肩上，皮肤苍白，五官精致，眼神平静而忧郁，表情优雅且严肃。为他们穿上黑色正式燕尾服或礼服，搭配白衬衫和深色领带，通过细腻的褶皱和古风水墨阴影进行渲染。角色下巴处夹着一把抛光木质小提琴，琴弓斜跨在琴身上，双手姿态优雅：一只手靠近琴弓，另一只手支撑着琴颈。背景：一间富丽堂皇的欧洲老式沙龙，配有带软垫的雕花椅、左侧挂着厚重窗帘的高窗、花纹壁纸、装裱好的画作、烛台和一束鲜花，所有背景元素均经过柔化处理，但纹理丰富。在图像中下部居中添加专辑标题排版：大号衬线字体书写 {argument name="opus text" default="Op. 4, No. 6"}，下方配以较小的日期文字 {argument name="date text" default="05.11.2026"}。文字上下方环绕精致的对称装饰花纹线条。风格：高度细腻的动漫/漫画插画与古典蚀刻画相结合，复古专辑封面，浪漫的室内乐氛围，精细的线条，柔和的棕色和奶油色调，细腻的纸张纹理，戏剧性的柔和窗光，优雅而忧郁。约束条件：方形 1:1 构图，无额外文字，无水印，无现代物品，保持小提琴解剖结构可辨识，排版清晰。
+
+[English]
+Create a square classical album cover illustration in a refined sepia monochrome palette. The subject is an androgynous young noble violinist named {argument name="character name" default="Claude"}, shown in close-up three-quarter side profile facing right, seated in an ornate Victorian music room. They have long, slightly messy {argument name="hair color" default="silver-gray"} hair with loose strands over the face and a thick braid falling over the shoulder, pale skin, delicate features, calm melancholic eyes, and an elegant serious expression. Dress them in a black formal tailcoat or tuxedo with a white shirt and dark tie, rendered with detailed fabric folds and antique ink-wash shading. The character holds a polished wooden violin under the chin, bow angled diagonally across the instrument, with graceful hands visible: one hand near the bow and one supporting the violin neck. Background: an opulent old European salon with an upholstered carved chair, tall window with heavy curtains on the left, patterned wallpaper, framed painting, candleholders, and a bouquet of flowers, all softly blurred but richly textured. Add centered album-title typography over the lower middle of the image: large serif text reading {argument name="opus text" default="Op. 4, No. 6"} with smaller date text below reading {argument name="date text" default="05.11.2026"}. Surround the text with delicate symmetrical ornamental filigree lines above and below. Style: highly detailed anime/manga illustration mixed with classical etching, vintage album cover, romantic chamber-music atmosphere, fine linework, muted brown and cream tones, subtle paper grain, dramatic soft window light, elegant and melancholic. Constraints: square 1:1 composition, no extra text, no watermark, no modern objects, keep the violin anatomically recognizable and the typography crisp.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075178549775044710) | 2026-07-09
+
+---
+
+### 🏷️ 例 3597：清凉猫咪三联画
+
+![清凉猫咪三联画](../../images/%E6%B8%85%E5%87%89%E7%8C%AB%E5%92%AA%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组照片级真实感的垂直三联画，展示同一只名为 {argument name="character name" default="Lolo"} 的蓬松重点色猫咪，在热浪中采取三种幽默的降温策略。
+
+画布：宽幅横向图像，比例为 16:9，由 3 个等宽的垂直面板组成，面板间以细白边分隔。采用电影级、高细节、写实的灯光效果，并使用冷蓝色调。
+
+主体细节：猫咪在所有 3 个面板中保持一致，为长毛布偶/暹罗风格猫，拥有奶油色皮毛、深褐色面罩、深色耳朵和爪子、明亮的大蓝眼睛、蓬松的尾巴、柔软的胡须，以及一个刻有 {argument name="character name" default="Lolo"} 的圆形银色项圈吊牌。
+
+面板 1（左）：在打开的冰箱内，猫咪正对着前方坐在玻璃搁板中央，嘴里叼着一条小鱼。冰箱内部散发着冷蓝白色的光。展示 8 个可见的食物：左侧门架上的 1 盒牛奶、牛奶盒旁的 1 个番茄、左上搁板上的 1 个小型塑料容器、左上搁板上的 1 个白色碗、右上搁板上的 1 个圆形奶酪或带盖餐具、右侧搁板上的 1 簇西兰花、右侧搁板上的 1 个红甜椒，以及右侧搁板上的 1 个蓝色瓶盖的白色瓶子。添加淡淡的霜冻、玻璃反射和冷凝水珠。
+
+面板 2（中）：同一只猫在北极景观中的自拍视角特写，睁着蓝色大眼睛直视镜头。猫咪头上顶着一块巨大的半透明冰块。背景展示冰冷的水和覆盖着积雪的冰川，天空明亮寒冷。猫咪的两只前爪出现在下方前景，仿佛正在拿着相机。可见刻有 {argument name="character name" default="Lolo"} 的银色吊牌。
+
+面板 3（右）：同一只猫蜷缩在深绿色天鹅绒沙发上睡觉，旁边是一扇布满雨滴的高窗。猫咪身上半盖着一条米色、棕色和橙色调的格子毯子。窗外展示模糊的雨中城市或绿植景观。在该面板右上角附近添加白色文字水印 {argument name="watermark text" default="Pollo.ai"}。舒适的室内灯光与凉爽的雨天室外形成对比。
+
+文本内容：包含 2 处可读文本：可见的项圈吊牌名称 {argument name="character name" default="Lolo"}，以及水印 {argument name="watermark text" default="Pollo.ai"}。除冰箱包装上的附带文字外，避免出现任何其他清晰可辨的标签。
+
+约束条件：确保 3 个面板中猫咪的身份一致，保持真实的皮毛细节和生动的蓝眼睛，禁止使用卡通风格，禁止增加面板或动物，禁止出现人手或人类，禁止出现解剖结构畸变。
+
+[English]
+Goal: Create a photorealistic vertical triptych showing the same fluffy colorpoint cat named {argument name="character name" default="Lolo"} using three humorous cooling strategies during a heatwave.
+
+Canvas: Wide horizontal image in a 16:9 ratio, divided into exactly 3 equal vertical panels separated by thin white borders. Use cinematic, high-detail, realistic lighting with a cool blue color grade.
+
+Subject details: The cat appears in all 3 panels as the same long-haired ragdoll/Siamese-style cat with cream fur, dark brown face mask, dark ears and paws, large bright blue eyes, fluffy tail, soft whiskers, and a round silver collar tag engraved with {argument name="character name" default="Lolo"}.
+
+Panel 1, left: Inside an open refrigerator, the cat sits centered on a glass shelf facing forward, holding a small fish in its mouth. The fridge interior glows with cold blue-white light. Show exactly 8 visible food items: 1 milk carton on the left door shelf, 1 tomato near the milk carton, 1 small plastic container on an upper left shelf, 1 white bowl on the top left shelf, 1 round cheese or covered dish on the top right shelf, 1 cluster of broccoli on the right shelf, 1 red bell pepper on the right shelf, and 1 white bottle with a blue cap on the right shelf. Add faint frost, glass reflections, and chilled condensation.
+
+Panel 2, center: A close-up selfie-like view of the same cat in an Arctic landscape, looking directly at the viewer with wide blue eyes. A large translucent ice cube sits balanced on the cat's head. Show icy water and snow-covered glaciers in the background under a bright cold sky. The cat’s two front paws appear near the lower foreground as if holding the camera. The silver tag engraved with {argument name="character name" default="Lolo"} is visible.
+
+Panel 3, right: The same cat sleeps curled on a deep green velvet sofa beside a tall window covered in raindrops. The cat is partly covered by a plaid blanket in muted beige, brown, and orange tones. Outside the window, show a soft blurry rainy city or greenery scene. Add white text watermark {argument name="watermark text" default="Pollo.ai"} near the upper right of this panel. Cozy indoor lighting contrasts with the cool rainy exterior.
+
+Text content: Include exactly 2 pieces of readable text: the collar tag name {argument name="character name" default="Lolo"} where visible, and the watermark {argument name="watermark text" default="Pollo.ai"}. Avoid any other legible labels except incidental fridge packaging.
+
+Constraints: Keep the same cat identity across all 3 panels, maintain realistic fur detail and expressive blue eyes, use no cartoon styling, no extra panels, no extra animals, no hands or humans, and no distorted anatomy.
+```
+
+**来源：** [@Pollo AI France](https://x.com/PolloAIFR/status/2075159790771142750) | 2026-07-09
+
+---
+
+### 🏷️ 例 3606：90 年代动漫动作女仆
+
+![90 年代动漫动作女仆](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E5%8A%A8%E4%BD%9C%E5%A5%B3%E4%BB%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的参考角色作为主要角色。
+保留角色的身份、轮廓、服装、配饰、发型和性格印象。
+
+{argument name="character role" default="一位女仆角色"} 正在执行一个高难度的动态斟茶动作。
+她手持银托盘，穿梭在 {argument name="location" default="宏伟的宅邸大厅"} 中。
+瓷杯、茶壶、勺子、方糖、花瓣和肥皂泡在空中盘旋。
+茶水从茶壶中倾泻而出，精准落入悬浮的杯中，且滴水不漏。
+她的表情专注、愉悦且带有一丝英雄气概。
+
+保持构图、姿势、物体位置和动作不变。
+仅根据 STYLE 指令更改视觉风格。
+不要包含任何文字。
+
+STYLE:
+{argument name="art style" default="1990 年代日本赛璐珞动画风格"}。
+手绘背景、明显的赛璐珞阴影、柔和的胶片颗粒感、模拟色彩、略显不完美的线条，营造怀旧的电视动画氛围。
+动态作画（sakuga）姿势、戏剧性的速度线、富有表现力的衣物动态。
+
+[English]
+Use the uploaded reference character as the only main character.
+Preserve the character’s identity, silhouette, outfit, accessories, hairstyle, and personality impression.
+
+{argument name="character role" default="A maid character"} is performing an impossible dynamic tea-serving action.
+She jumps through a {argument name="location" default="grand mansion hall"} while holding a silver tray.
+Porcelain cups, a teapot, spoons, sugar cubes, flower petals, and soap bubbles swirl around her in the air.
+Tea pours from the teapot into a floating cup without spilling.
+Her expression is focused, cheerful, and slightly heroic.
+
+Keep the same composition, pose, object placement, and action.
+Change only the visual style according to the STYLE instruction.
+No text.
+
+STYLE:
+{argument name="art style" default="1990s Japanese cel animation style"}.
+Hand-painted background, visible cel shading, soft film grain, analog colors, slightly imperfect linework, nostalgic TV anime atmosphere.
+Dynamic sakuga pose, dramatic speed lines, expressive cloth movement.
+```
+
+**来源：** [@めい / 桜草メイ @北の大地](https://x.com/mei_999_/status/2075132531641651403) | 2026-07-09
+
+---
+
+### 🏷️ 例 3629：蒸汽朋克城市铁路高角度景观
+
+![蒸汽朋克城市铁路高角度景观](../../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%9F%8E%E5%B8%82%E9%93%81%E8%B7%AF%E9%AB%98%E8%A7%92%E5%BA%A6%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为基础图像，重新生成同一场景，同时保留其蒸汽朋克哥特式城市氛围、电影级光影、调色板、建筑密度、高架铁路、火车、飞艇、雾气、烟雾以及整体的绘画写实感。仅改变摄像机角度：将摄像机移至更高且稍远的位置，创造出更广阔的鸟瞰/高角度视野，展现出下方更多的城市景观、更多的高架桥结构以及更多周围如大教堂般的塔楼。保持火车位于右下角前景的高架轨道上，但由于视角升高，使其在画面中显得更小。保持相同的忧郁黄昏雾霾、温暖的窗户灯光和宏大的规模；避免出现现代元素、简洁的科幻风格或平面的俯视视角。
+
+[English]
+Using REFERENCE_0 as the base image, regenerate the same scene while preserving its steampunk gothic city atmosphere, cinematic lighting, color palette, architectural density, elevated railway, train, airships, fog, smoke, and overall painterly realism. Change only the camera angle: move the camera much higher and slightly farther back, creating a wider bird’s-eye / high-angle view that reveals more of the city below, more of the viaduct structure, and more surrounding cathedral-like towers. Keep the train on the elevated track in the lower-right foreground, but make it smaller in frame due to the raised viewpoint. Maintain the same moody dusk haze, warm window lights, and epic scale; avoid modern elements, clean sci-fi styling, or a flat top-down view.
+```
+
+**来源：** [@はさまるスタジオ (Hasamaru Studio)](https://x.com/hasamaru_studio/status/2075052934409375918) | 2026-07-09
+
+---
+
+### 🏷️ 例 3638：淡桃荔枝玫瑰芭菲
+
+![淡桃荔枝玫瑰芭菲](../../images/%E6%B7%A1%E6%A1%83%E8%8D%94%E6%9E%9D%E7%8E%AB%E7%91%B0%E8%8A%AD%E8%8F%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和、优雅的美食摄影图片，主体为 {argument name="dessert type" default="桃子荔枝玫瑰芭菲"}，盛放在高挑透明的细长芭菲杯中，置于带有细腻灰色纹理的浅白色大理石桌面上。芭菲从下到上共有 5 层清晰可见的纹理：半透明的珊瑚粉果冻、浓郁的象牙白奶油、大块的粉色桃子果酱、又一层浓郁的象牙白奶油，以及杯口下方的一层覆盆子红酱。顶部需包含 7 种主要装饰：一个点缀着精致金箔的大型桃色玫瑰状雪酪或慕斯漩涡、三颗带有橙色果核的亮面去皮荔枝、一堆深粉色酥粒，以及两朵小型粉色食用花卉。采用淡雅的粉色、桃色、象牙白和珊瑚色调。杯子周围营造出梦幻般的浅景深效果：左上方为模糊的粉色花束，左侧边缘有一颗桃粉色玫瑰状甜点或花朵，右侧有 2 颗圆润的粉色糖果球，前景和右侧桌面上散落着 3 片花瓣。光线应自然、柔和且明亮，杯身和荔枝上带有柔和的高光，呈现奢华的春季甜点风格，质感真实，画面中无人、无文字、无 Logo、无餐具，且无生硬阴影。使用 {argument name="camera angle" default="略微抬高的四分之三视角"}、{argument name="color palette" default="淡粉色与象牙白配色"} 以及 {argument name="background style" default="柔焦花卉大理石桌面"}。
+
+[English]
+Create a soft, elegant food photography image of a {argument name="dessert type" default="peach and lychee rose parfait"} in a tall clear fluted parfait glass, centered on a pale white marble tabletop with subtle gray veining. The parfait has exactly 5 visible layered bands from bottom to top: translucent coral-pink jelly, thick ivory cream, chunky pink peach compote, another thick ivory cream band, and a raspberry-red sauce band just below the rim. On top, include exactly 7 main toppings: one large peach-colored rose-shaped sorbet or mousse swirl with delicate gold flakes, three glossy peeled lychees with small orange centers, one mound of dark pink crumble, and two small pink edible blossoms. Use a refined pastel palette of blush pink, peach, ivory, and coral. Surround the glass with a dreamy shallow-depth-of-field setting: a blurred bouquet of pink flowers in the upper left, one peach-pink rose-like dessert or flower at the left edge, exactly 2 round pink confection balls on the right, and exactly 3 loose petals on the tabletop in the foreground and right side. Lighting should be natural, diffused, and high-key, with gentle highlights on the glass and lychees, a luxurious spring dessert styling, realistic textures, no people, no text, no logo, no utensils, and no harsh shadows. Use {argument name="camera angle" default="slightly elevated three-quarter view"}, {argument name="color palette" default="pastel blush pink and ivory"}, and {argument name="background style" default="softly blurred floral marble tabletop"}.
+```
+
+**来源：** [@菜々花](https://x.com/NanakatoAi/status/2075037099296972884) | 2026-07-09
+
+---
+
+### 🏷️ 例 3644：赛博朋克超级城市黑客场景
+
+![赛博朋克超级城市黑客场景](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82%E9%BB%91%E5%AE%A2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的赛博朋克主视觉图，用于社交媒体横幅或概念艺术海报。画面显示 {argument name="character name" default="一名年轻的城市黑客"} 站在左侧前景，露出背影和侧脸，手中拿着一部发光的智能手机，屏幕清晰可见，暗示其正在运行一款未来派的城市控制应用程序。角色留着凌乱的深色头发，身穿带有霓虹文字贴片和蓝紫色发光装饰的亮面黑色科技夹克，正眺望着夜晚广阔且多雨的超级城市。背景应充满高耸的超薄摩天大楼、密集的窗户、高架桥、飞行载具、悬浮无人机和巨大的全息广告牌；天空中需包含恰好 3 架显眼的飞行载具，左上方需有恰好 1 个巨大的圆形悬浮结构，并设置恰好 2 个大型全息女性面部显示屏：一个巨大的半透明面部投射在中央摩天大楼上，另一个较小的面部广告牌位于右侧塔楼上。采用戏剧性的广角构图、低矮的屋顶视角、潮湿的反射表面、深蓝色和紫色的氛围、霓虹青色和洋红色的高光、薄雾、雨水浸润的倒影、体积光束，以及带有淡淡紫色黎明微光的忧郁风暴云天空。右侧和上方中央的天际线应保持视觉丰富，但不要被标题遮挡，画面中不含水印、标志，除了细小的未来派界面细节外，不包含任何额外的可读文字。风格：高细节科幻概念艺术、照片级真实光影、锐利的建筑细节、沉浸式比例，16:9 横向画布。
+
+[English]
+Create a cinematic cyberpunk key visual for a social media banner or concept-art poster, showing {argument name="character name" default="a young urban hacker"} standing in the left foreground with their back and side profile visible, holding a glowing smartphone whose screen is clear and readable enough to suggest a futuristic city-control app. The character has messy dark hair, wears a glossy black tech jacket with small neon text patches and luminous blue-magenta accents, and looks out over a vast rainy megacity at night. The city should fill the background with towering ultra-thin skyscrapers, dense windows, elevated bridges, flying vehicles, hovering drones, and huge holographic billboards; include exactly 3 prominent aerial vehicles in the sky, exactly 1 large circular suspended structure in the upper left, and exactly 2 large holographic female-face displays: one giant translucent face projected across the central skyscraper and one smaller face billboard on a right-side tower. Use a dramatic wide-angle composition, low rooftop viewpoint, wet reflective surfaces, deep blue and violet atmosphere, neon cyan and magenta highlights, mist, rain-slick reflections, volumetric light beams, and a moody storm-cloud sky with a faint purple dawn glow on the horizon. Leave the right and upper central skyline visually rich but not covered by captions, with no watermark, no logo, and no extra readable text beyond small futuristic interface details. Style: high-detail sci-fi concept art, photorealistic lighting, sharp architectural detail, immersive scale, 16:9 horizontal canvas.
+```
+
+**来源：** [@小海豚笔记 (AI & 副业探索)](https://x.com/gaoren7716/status/2075008279491883377) | 2026-07-09
+
+---
+

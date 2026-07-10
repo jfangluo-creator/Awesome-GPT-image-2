@@ -7239,3 +7239,145 @@ Constraints: Preserve exactly 4 image panels and exactly these 4 visible panel l
 
 ---
 
+### 🖥️ 例 3595：动漫角色生成工作流
+
+![动漫角色生成工作流](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90%E5%B7%A5%E4%BD%9C%E6%B5%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色 UI 风格的对比画布，展示三个生成的动漫图像结果，并以工作流图表的形式连接，如同在图像生成工具中查看一样。
+
+画布：16:9 的宽屏截图构图，背景为近乎黑色的点阵网格。使用细微的蓝色连接线和面板间的小型圆形图像节点图标。布局包含 3 个圆角矩形面板：左下角为 1 个大型角色设定面板，右上角和右下角各为 1 个电影感面板。
+
+布局：将左下角面板作为源参考节点，上方用小号白色日语文本标注：「画像生成ツール #2」。从其右侧引出一条分支蓝色连接线，连接至右侧的两个面板。将右上角面板标注为「画像生成ツール #10」，右下角面板标注为「画像生成ツール #1」。在右侧面板的右上角附近添加微小的黄色圆形刷新图标。所有面板均保持细灰色边框、圆角和淡淡的投影效果。
+
+左侧面板内容：展示 {argument name="character name" default="Aban"} 的详细动漫角色设定图，他是一位肤色黝黑的年轻男性冒险家，留着中等长度的棕色脏辫，体格健壮，表情自信，身穿无袖深色束腰外衣，搭配带绑带的棕色皮背心、露指手套、深色长裤、靴子、吊坠项链和飘逸的红色围巾。设定图中心包含 3 个全身转向视图：正面、侧面和背面。右侧包含 6 个表情肖像框，按 2 列 3 行排列：正常微笑、开怀大笑、严肃、惊讶、愤怒和悲伤。在设定图左侧，包含一个较大的半身肖像，下方有大号日语名称标题「アバン」，以及下方的日语个人资料文本块和类似属性的标签。使用米色羊皮纸质感、干净的黑色漫画风格线条以及柔和的水彩动漫配色。
+
+右上角面板内容：展示同一角色在日落时分沙漠场景中的电影感画面，采用腰部以上的广角镜头构图。他自信地微笑着，一只手伸向镜头，手指透视缩短，手掌附近形成闪烁的橙色火魔法火花。他的红色围巾在身后飘扬。背景为龟裂的沙漠地面、远处的帐篷、低矮的山脉、温暖的橙色云彩和金色的阳光。在图像下边缘添加白色日语字幕：「このキャラ　火花魔術を使うカットを生成して、広角レンズ　hand to camera な構図」。
+
+右下角面板内容：展示同一场景更具动态感的动漫动作版本，镜头更近，画面更激烈。角色将一只巨大的透视缩短的手直接伸向观众，手掌处有明亮的圆形火魔法爆发，橙色火花飞溅整个画面，身后是蓝天，远处是沙漠悬崖，红色围巾剧烈飘动。使用高能透视、强烈的动感、生动的光影和锐利的动漫渲染。在底部重复相同的白色日语字幕：「このキャラ　火花魔術を使うカットを生成して、広角レンズ　hand to camera な構図」。
+
+视觉风格：时髦的 AI 工具截图美学，深色界面，清晰的面板边缘，小型 UI 标签，每个面板内均为动漫奇幻插画。角色在所有 3 个面板中应保持一致：{argument name="hair color" default="棕色脏辫"}、黝黑皮肤、红色围巾、皮质冒险家服装、友好而英勇的个性。使用魔法效果颜色 {argument name="magic color" default="橙色火焰"} 以及环境 {argument name="setting" default="日落时的沙漠"}。
+
+约束：包含 3 个主要图像面板，3 个全身转向视图，6 个表情肖像，2 个右侧电影感动作图像，以及 1 条从左侧面板到右侧两个面板的分支连接线。保持日语文本在指定位置清晰可读，但不要在 UI 标签之外添加额外的大标题。
+
+[English]
+Goal: Create a dark UI-style comparison canvas showing three generated anime-image results connected in a workflow graph, as if viewed inside an image generation tool.
+
+Canvas: Wide 16:9 screenshot composition with a nearly black dotted-grid background. Use subtle blue connector lines and small circular image-node icons between panels. The layout contains exactly 3 rounded rectangular panels: 1 large character sheet panel on the lower left, 1 cinematic panel on the upper right, and 1 cinematic panel on the lower right.
+
+Layout: Place the lower-left panel as the source reference node, labeled in small white Japanese text above it: 「画像生成ツール #2」. From its right side, draw a branching blue connector line to the two right panels. Label the upper-right panel 「画像生成ツール #10」 and the lower-right panel 「画像生成ツール #1」. Add tiny yellow circular refresh-style icons near the top-right corner of the right-side panels. Keep all panels with thin gray borders, rounded corners, and faint drop shadows.
+
+Left panel content: Show a detailed anime character design sheet for {argument name="character name" default="Aban"}, a tan-skinned young male adventurer with medium-length brown dreadlocks, athletic build, confident expression, sleeveless dark tunic, brown leather vest with straps, fingerless gloves, dark pants, boots, pendant necklace, and a flowing red scarf. The sheet contains exactly 3 full-body turnaround views in the center: front view, side view, and back view. It also contains exactly 6 expression portrait boxes on the right arranged in a 2-column by 3-row grid: normal smile, broad grin, serious, surprised, angry, and sad. On the left side of the sheet, include a larger bust portrait under a large Japanese name title 「アバン」, with small Japanese profile text blocks and stat-like labels beneath. Use beige parchment paper, clean black manga-style line art, and muted watercolor anime coloring.
+
+Upper-right panel content: Show the same character in a cinematic desert scene at sunset, framed from waist up with a dramatic wide-angle lens. He smiles confidently while reaching one hand toward the camera, fingers foreshortened, with a glowing orange fire-magic spark forming near his palm. His red scarf blows behind him. The background has cracked desert ground, distant tents, low mountains, warm orange clouds, and golden sunlight. Add a white Japanese caption along the lower edge of the image: 「このキャラ　火花魔術を使うカットを生成して、広角レンズ　hand to camera な構図」.
+
+Lower-right panel content: Show a more dynamic anime action version of the same scene, closer to the camera and more intense. The character reaches one large foreshortened hand directly toward the viewer, with a bright circular burst of fiery magic at the palm, orange sparks flying across the frame, blue sky behind him, desert cliffs in the distance, and his red scarf whipping dramatically. Use high-energy perspective, strong motion, vivid lighting, and sharp anime rendering. Repeat the same white Japanese caption along the bottom: 「このキャラ　火花魔術を使うカットを生成して、広角レンズ　hand to camera な構図」.
+
+Visual style: Sleek AI-tool screenshot aesthetic, dark interface, crisp panel edges, small UI labels, anime fantasy illustration inside each panel. The character should remain consistent across all 3 panels: {argument name="hair color" default="brown dreadlocks"}, tan skin, red scarf, leather adventurer outfit, friendly but heroic personality. Use the magic effect color {argument name="magic color" default="orange fire"} and the environment {argument name="setting" default="desert at sunset"}.
+
+Constraints: Include exactly 3 main image panels, exactly 3 full-body turnaround views, exactly 6 expression portraits, exactly 2 right-side cinematic action images, and exactly 1 branching connector from the left panel to the two right panels. Keep the Japanese text legible enough to read where specified, but do not add extra large titles outside the UI labels.
+```
+
+**来源：** [@ジジはAI漫画部族](https://x.com/G8k9jrh5T580304/status/2075177707357581662) | 2026-07-09
+
+---
+
+### 🖥️ 例 3611：日文 NEWT 旅行 App 海报
+
+![日文 NEWT 旅行 App 海报](../../images/%E6%97%A5%E6%96%87%20NEWT%20%E6%97%85%E8%A1%8C%20App%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="NEWT"} 创作一张充满活力的日文旅行 App 广告，将东京城市旅行拼贴画与 App 推广及乐观的度假氛围相结合。
+
+画布：1:1 正方形海报，干净的米白色背景搭配醒目的祖母绿品牌色，高分辨率商业广告质感。
+
+布局：使用由大型有机波浪形剪影构成的动态拼贴画。左上方以醒目的亮绿色大号日文标题为主导：{argument name="headline text" default="次の旅が、もう始まってる。"}。下方添加较小的绿色日文副标题：{argument name="subheadline text" default="航空券も、ホテルも、アプリひとつで軽やかに。"}。右上角配有小型大写英文字体：“TRAVEL FEELS NEW.”，并附带一个小巧的绿色飞机图标和虚线飞行轨迹。
+
+主体图像：画面中心展示一位面带微笑的年轻日本女性游客，身穿干练的白色衬衫和绿色裙子，手持智能手机，兴奋地抬头仰望。在她身后，在一个宽大的剪影中，展示明亮的东京海岸航拍场景，包含蓝色海洋、天际线和东京塔。右侧包含两个圆角照片剪影：精确展示 1 张带有床铺和城市景观的豪华酒店房间照片，以及 1 张寿司/海鲜特写美食照片。左下方包含 1 张机场场景，展示两名年轻游客拖着行李走在出发指示牌下。底部中心展示一个银色行李箱，部分遮挡住主体游客。
+
+App 与品牌元素：右下方放置一个倾斜的智能手机模型，展示绿色与白色配色的 NEWT 旅行预订 App 界面。App 屏幕应显示带有白色小鸟 Logo 和“NEWT”字样的绿色页眉、搜索栏、分类图标、目的地卡片、酒店卡片以及日文 UI 文字。旁边添加一张白色登机牌风格的票据，上面写着“NEXT DESTINATION”和“YOUR NEW JOURNEY AWAITS.”，并配有条形码和绿色小鸟图标。左下方放置一个大型绿色波浪块，内含一个简单的白色小鸟/奇异鸟类 Logo 以及加粗的白色大写品牌名称 {argument name="brand name" default="NEWT"}。右下方添加一个圆角绿色行动呼吁（CTA）按钮，文字为 {argument name="button text" default="NEWTで旅をみる"}，并配有一个白色箭头。
+
+可见元素计数：精确 1 位主体女性游客，精确 2 位机场剪影中的游客，精确 1 个智能手机模型，精确 1 个前景行李箱，精确 1 张登机牌，精确 1 张酒店房间照片，精确 1 张美食照片，精确 1 张东京城市航拍照片，精确 1 张机场照片，精确 2 个白色小鸟 Logo，精确 1 个微型飞机图标，以及精确 1 个位置标记图标。
+
+视觉风格：明亮现代的日本初创企业广告风格，光面照片拼贴写实感与简洁矢量图形相结合，圆角有机遮罩，清新的祖母绿字体，通透的留白，虚线旅行路线，微妙的等高线图案，乐观的夏日日光，清晰的阴影，高端 App Store 推广美学。
+
+约束：清晰保留日文标题和 CTA 文字，保持所有文字易读，避免超出指定元素之外的杂乱，不添加额外 Logo，无水印，无社交媒体 UI。
+
+[English]
+Goal: Create a vibrant Japanese travel app advertisement for {argument name="brand name" default="NEWT"}, combining a Tokyo city travel collage with app promotion and optimistic vacation energy.
+
+Canvas: Square 1:1 poster, clean off-white background with bold emerald green brand color, high-resolution commercial advertising finish.
+
+Layout: Use a dynamic collage built from large organic wave-shaped cutouts. Top-left is dominated by a huge bold Japanese headline in bright green: {argument name="headline text" default="次の旅が、もう始まってる。"}. Beneath it, add smaller green Japanese subcopy: {argument name="subheadline text" default="航空券も、ホテルも、アプリひとつで軽やかに。"}. Top-right has small uppercase English text: “TRAVEL FEELS NEW.” with a tiny green airplane and dotted flight path.
+
+Main imagery: In the center, show a smiling young Japanese woman traveler in a crisp white blouse and green skirt, holding a smartphone and looking upward with excitement. Behind her, inside a sweeping cutout, show a bright aerial coastal Tokyo scene with blue ocean, skyline, and Tokyo Tower. On the right, include two rounded photo cutouts: exactly 1 luxury hotel room with a bed and city view, and exactly 1 close-up gourmet meal scene with sushi/seafood. Bottom-left includes exactly 1 airport scene with two young travelers walking with luggage under a departures sign. Bottom-center shows a silver rolling suitcase partially overlapping the main traveler.
+
+App and brand elements: On the lower-right, place a large tilted smartphone mockup displaying the NEWT travel booking app interface in green and white. The app screen should show a green header with the white bird logo and “NEWT,” a search bar, category icons, destination cards, hotel cards, and Japanese UI text. Next to it, add a white boarding-pass style ticket reading “NEXT DESTINATION” and “YOUR NEW JOURNEY AWAITS.” with a barcode and green bird icon. Bottom-left place a large green wave block containing a white simple bird/kiwi-like logo and the brand name {argument name="brand name" default="NEWT"} in bold white uppercase letters. Bottom-right add a rounded green call-to-action button reading {argument name="button text" default="NEWTで旅をみる"} with a white arrow.
+
+Counted visible elements: exactly 1 main woman traveler, exactly 2 travelers in the airport cutout, exactly 1 smartphone mockup, exactly 1 suitcase in the foreground, exactly 1 boarding-pass ticket, exactly 1 hotel-room photo, exactly 1 food photo, exactly 1 Tokyo aerial city photo, exactly 1 airport photo, exactly 2 white bird logos, exactly 1 tiny airplane icon, and exactly 1 location pin icon.
+
+Visual style: Bright modern Japanese startup advertising, glossy photo-collage realism mixed with clean vector graphics, rounded organic masks, fresh emerald green typography, airy white space, dotted travel routes, subtle contour-line patterns, optimistic summer daylight, crisp shadows, premium app-store campaign aesthetic.
+
+Constraints: Preserve the Japanese headline and CTA text clearly, keep all text legible, avoid clutter beyond the specified elements, no extra logos, no watermark, no social media UI.
+```
+
+**来源：** [@Takaya Shinozuka / CEO of Reiwa Travel](https://x.com/shinojapan/status/2075104171641225257) | 2026-07-09
+
+---
+
+### 🖥️ 例 3619：传统服饰主播直播间界面
+
+![传统服饰主播直播间界面](../../images/%E4%BC%A0%E7%BB%9F%E6%9C%8D%E9%A5%B0%E4%B8%BB%E6%92%AD%E7%9B%B4%E6%92%AD%E9%97%B4%E7%95%8C%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+生成抖音直播间界面，内容是{argument name="直播内容" default="一个古风汉服美女在直播"}
+```
+
+**来源：** [@DeepBlue深藍](https://x.com/DeepBlueAIX/status/2075067396935885059) | 2026-07-09
+
+---
+
+### 🖥️ 例 3620：高山草甸羊群
+
+![高山草甸羊群](../../images/%E9%AB%98%E5%B1%B1%E8%8D%89%E7%94%B8%E7%BE%8A%E7%BE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个照片级逼真的广角景观场景，背景为明亮的高山草甸：前景和中景布满了 85 只毛茸茸的白羊，它们散布在茂密的绿草地上，许多羊朝向不同方向并自然重叠。在羊群背景的中心，站着一个孤独的小孩，穿着 {argument name="hoodie color" default="红色"} 连帽衫和 {argument name="pants color" default="蓝绿色"} 裤子，平静地面对镜头，周围被动物部分环绕。牧场两侧各有一道长长的乡村木质围栏，向远处汇聚，营造出强烈的纵深感。左侧山坡上有一座带红色屋顶的小石制农舍，草甸两侧排列着成排成熟的绿叶树木，远景是晴朗淡蓝色天空下壮观的雪山，点缀着几朵柔和的云彩。使用 {argument name="time of day" default="阳光明媚的上午"} 自然光，清晰的阴影，山峦上柔和的大气雾气，高度细腻的草地和羊毛纹理，逼真的比例，电影级构图，16:9 纵横比，无文字，无水印，无风格化处理。
+
+[English]
+Create a photorealistic wide-angle landscape scene in a bright Alpine meadow: a large flock of exactly 85 fluffy white sheep fills the foreground and middle ground, spread across lush green grass, with many sheep facing different directions and overlapping naturally. In the center background of the flock stands a small lone child wearing a {argument name="hoodie color" default="red"} hoodie and {argument name="pants color" default="teal blue"} pants, facing the camera calmly, partially surrounded by the animals. The pasture is bordered by two long rustic wooden rail fences, one on the left and one on the right, converging toward the distance to create strong depth. Include a small stone farmhouse with a reddish roof on the left hillside, rows of mature leafy green trees lining both sides of the meadow, and dramatic snow-capped mountains in the far background under a clear pale blue sky with a few soft clouds. Use {argument name="time of day" default="sunny late morning"} natural light, crisp shadows, soft atmospheric haze over the mountains, highly detailed grass and wool texture, realistic proportions, cinematic composition, 16:9 aspect ratio, no text, no watermark, no stylization.
+```
+
+**来源：** [@田代大地 | AI Creative Director](https://x.com/daichitashiro41/status/2075065587823452428) | 2026-07-09
+
+---
+
+### 🖥️ 例 3632：将火柴人组合转化为时尚照片
+
+![将火柴人组合转化为时尚照片](../../images/%E5%B0%86%E7%81%AB%E6%9F%B4%E4%BA%BA%E7%BB%84%E5%90%88%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%97%B6%E5%B0%9A%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为姿势和构图的参考指南，将手绘的火柴人草图转化为清晰、写实的时尚照片。将五个火柴人替换为五位年轻女性，她们需保持相同的堆叠式合影队形，并与绘制的手臂/腿部动作相匹配：1 位位于前方的女性低蹲，双臂向外伸展；1 位位于左后方的女性向前倾斜，单臂伸展；1 位位于右后方的女性身着深色服装，侧身倾斜，单臂伸展；1 位位于左上方的金发女性举起一只弯曲的手臂；1 位位于顶部的女性高坐于群体之上，单臂向上指。场景设定在繁忙的东京风格城市人行横道，背景为明亮的蓝天、高大的商业建筑、广告牌、远处的行人以及斑马线。将其制作成一张清晰、高分辨率、自然光下的街头时尚大片，而非绘画作品。保持全身竖版构图以及参考图中充满活力的金字塔式排列。添加各种时尚的柔美风格服装，包括 {argument name="front outfit" default="一件淡粉色露肩针织衫搭配黑色短裤"}、{argument name="kimono outfit" default="一件粉色花卉和服式连衣裙"}、{argument name="dark outfit" default="一件带有大白色蝴蝶结的黑色服装"}、{argument name="blonde outfit" default="一件白色无袖上衣"} 以及 {argument name="top outfit" default="一件白色荷叶边衬衫搭配黑色短裤"}。避免保留参考图中的平板边框、黑色背景、青色草图线条、垃圾桶图标或拍摄到的手部痕迹。
+
+[English]
+Using REFERENCE_0 as a rough pose-and-composition guide, transform the hand-drawn stick figure sketch into a clear, realistic fashion photo. Replace the five stick figures with exactly five young women arranged in the same stacked group formation and matching the drawn arm/leg gestures: 1 front woman crouching low with both arms extended outward, 1 woman behind-left leaning forward with one arm extended, 1 woman behind-right in a dark outfit leaning sideways with one arm extended, 1 upper-left blonde woman raising one bent arm, and 1 top woman sitting high on the group with one arm pointing upward. Set the scene at a busy Tokyo-style city crosswalk under a bright blue sky, with tall commercial buildings, billboards, pedestrians in the distance, and zebra-crossing stripes. Make it a crisp, high-resolution, natural daylight editorial street-fashion photograph, not a drawing. Keep the full-body vertical composition and the energetic pyramid-like arrangement from the reference. Add varied stylish outfits in soft feminine fashion, including {argument name="front outfit" default="a pale pink off-shoulder knit sweater with black shorts"}, {argument name="kimono outfit" default="a pink floral kimono-style dress"}, {argument name="dark outfit" default="a black outfit with a large white bow"}, {argument name="blonde outfit" default="a white sleeveless top"}, and {argument name="top outfit" default="a white ruffled blouse with black shorts"}. Avoid retaining the tablet frame, black background, cyan sketch lines, trash icon, or photographed-hand artifacts from the reference.
+```
+
+**来源：** [@Kyohei Fukuda](https://x.com/not_fukuda/status/2075048163493511294) | 2026-07-09
+
+---
+

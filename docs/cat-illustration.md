@@ -7175,3 +7175,131 @@ Muted ivory, warm beige, gold and bronze color palette with cool blue electrical
 
 ---
 
+### 🎨 例 3545：部落巫毒诅咒场景
+
+![部落巫毒诅咒场景](../../images/%E9%83%A8%E8%90%BD%E5%B7%AB%E6%AF%92%E8%AF%85%E5%92%92%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黑魔法
+{argument name="subject" default="部落首领"} 在呻吟
+痛苦万分
+{argument name="character" default="女祭司"} 施加于我
+强大的 {argument name="curse type" default="巫毒诅咒"}
+
+[English]
+black magic
+the {argument name="subject" default="tribal chieftain"} moans
+in agony
+the {argument name="character" default="priestess"} has afflicted me
+with a powerful {argument name="curse type" default="voodoo curse"}
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2075355260626026607) | 2026-07-09
+
+---
+
+### 🎨 例 3550：Y2K 街头风罗纹背心穿搭
+
+![Y2K 街头风罗纹背心穿搭](../../images/Y2K%20%E8%A1%97%E5%A4%B4%E9%A3%8E%E7%BD%97%E7%BA%B9%E8%83%8C%E5%BF%83%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：一套休闲 Y2K 街头风造型，包含一件修身的 {argument name="top color" default="灰色"} 罗纹针织背心或吊带上衣，采用圆领设计，剪裁紧凑，面料质感高级，服装结构真实，缝线整洁，接缝张力自然，面料垂坠感真实，带有细微褶皱，边缘处理精致；搭配黑色至炭灰色的竖条纹灯笼迷你短裤/灯笼裙裤，采用轻盈梭织面料，呈现圆润的蓬松感，缝线可见，褶皱真实，服装细节逼真；搭配白色罗纹过膝袜，以及一顶 {argument name="hat color" default="酒红色"} 棉质斜纹棒球帽，配有金属五金件，不含包袋；材质质感高级，服装细节做工精良，非演出服质感，无廉价感；随机添加一些精致的 Y2K 风格银色配饰，如戒指、手链和叠戴项链，与整体穿搭自然融合，无需指定具体款式。
+
+[English]
+Outfit: a casual Y2K street outfit with a fitted {argument name="top color" default="gray"} ribbed knit tank top or camisole-style top featuring a scoop neckline, compact silhouette, premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable fabric weight, subtle wrinkles, realistic drape, and refined edge finishing, paired with black to charcoal vertical pinstripe balloon mini shorts / bloomer-style mini skort in lightweight woven fabric with rounded gathered volume, visible seams, real folds, and detailed garment realism, white ribbed knee-high socks, and a {argument name="hat color" default="burgundy"} cotton twill baseball cap with metal hardware, no bag; high-quality material feel, well-made clothing details, not costume-like, not cheap-looking; add a random mix of delicate casual Y2K silver-tone accessories such as rings, bracelets, and layered necklaces that naturally match the outfit without fixing exact pieces.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075311882643403144) | 2026-07-09
+
+---
+
+### 🎨 例 3555：城市楼梯上的超写实时尚大片
+
+![城市楼梯上的超写实时尚大片](../../images/%E5%9F%8E%E5%B8%82%E6%A5%BC%E6%A2%AF%E4%B8%8A%E7%9A%84%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+姿态优先的超写实时尚大片：一位明显的成年 {argument name="subject age" default="二十多岁的女性"} 停留在 {argument name="location" default="狭窄的户外楼梯平台"} 上，仿佛有人叫她名字般回过头来。姿态基于中断的动作，而非静态模特姿势。
+
+姿态锁定：一只脚踩在较低的台阶上，另一只脚留在较高的台阶上，形成自然的错落站姿。臀部保持朝向楼梯的角度，躯干向相机方向扭转。一只手轻轻搭在楼梯扶手或墙壁上以保持平衡，另一只手靠近腰部、侧缝或包带，以保持服装线条的利落。肩膀与臀部形成反向旋转，颈部修长，脊柱挺拔。身体应呈现出真实的楼梯半转身状态，而非普通的站立姿势，也不是可爱的坐姿。
+
+为姿态构建背景：位于 {argument name="shop type" default="小型动漫周边店"} 或二楼漫画咖啡馆旁狭窄的城市楼梯，带有磨损的混凝土台阶、金属扶手、褪色的虚构动漫海报、漫画活动传单、扭蛋广告、层叠的贴纸、撕裂的胶带、手写通知、发光的小店招牌，以及斜射在楼梯上的午后光线。背景应具有独特的城市感、色彩丰富、略显拥挤，并充满动漫文化的质感，但不能变成动漫插画。
+
+构图锁定：垂直 4:5 的超写实时尚大片剪裁，相机高度约在腰部至胸部之间或略低，非极端低角度。如有需要，可从大腿中部或膝盖处向上剪裁至头部。楼梯的对角线、扭转的躯干、扶手上的手、海报墙以及直视镜头的目光构成了画面主体。
+
+目光锁定：越过肩膀的直接眼神接触。下巴微收，双眼聚焦于镜头，仿佛在回应呼唤。表情冷静、警觉且自然，不呆滞也不过分可爱。
+
+避免：动漫风格、插画风格、CGI 感、真实的动漫角色、真实的品牌 Logo、可辨认的文字、全身游客照、平淡的站姿、坐在台阶上、双脚在同一水平面上、随机的视线偏移、僵硬的目录姿势、遮挡身体的海报。
+
+[English]
+Pose-first photorealistic fashion editorial photo: a clearly adult {argument name="subject age" default="woman in her twenties"} paused on a {argument name="location" default="narrow outdoor stair landing"}, turning back as if someone just called her name. The pose is based on interrupted movement, not a static model pose.
+
+Pose lock: one foot is planted on a lower step, the other foot stays on a higher step, creating a natural staggered stance. Her hips remain angled toward the stairs, while her torso twists back toward the camera. One hand rests lightly on the stair railing or wall for balance, the other hand stays near the waist, side seam, or bag strap to keep the outfit line clean. Shoulders counter-rotate against the hips, neck long, spine lifted. The body should read as a real half-turn on stairs, not a normal standing pose and not a cute stair-sitting pose.
+
+Background built for the pose: a narrow city stairway beside a {argument name="shop type" default="small anime goods shop"} or second-floor manga café, with worn concrete steps, metal railings, faded fictional anime posters, manga event flyers, capsule toy ads, sticker layers, torn tape, hand-written notices, a small glowing shop sign, and late afternoon light cutting across the stairs. The background should feel specific, urban, colorful, slightly cramped, and full of anime-culture texture without becoming an anime illustration.
+
+Composition lock: vertical 4:5 photorealistic fashion editorial crop, camera around waist-to-chest height or slightly lower, not extreme low angle. Crop from mid-thigh or knee to head if needed. The stair diagonals, twisting torso, hand on rail, poster wall, and direct gaze carry the image.
+
+Gaze lock: direct eye contact over the shoulder. Chin slightly lowered, eyes focused into the lens as if responding to being called. Expression calm, alert, and natural, not blank or overly cute.
+
+Avoid: anime style, illustration style, CGI look, real anime characters, real brand logos, readable text, full-body tourist stair photo, plain standing, sitting on steps, both feet on the same level, random off-camera gaze, stiff catalog pose, posters covering the body.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075278411652903089) | 2026-07-09
+
+---
+
+### 🎨 例 3574：巨型机器人拦截场景
+
+![巨型机器人拦截场景](../../images/%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%A6%E6%88%AA%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体" default="巨大ロボット"}　{argument name="アクション" default="迎撃"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2075230184480129069) | 2026-07-09
+
+---
+
+### 🎨 例 3579：单人冒险家牧师插画
+
+![单人冒险家牧师插画](../../images/%E5%8D%95%E4%BA%BA%E5%86%92%E9%99%A9%E5%AE%B6%E7%89%A7%E5%B8%88%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="character" default="ソロ冒険者"}　{argument name="role" default="僧侶"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2075221913631355030) | 2026-07-09
+
+---
+
+### 🎨 例 3586：先锋机能风设计图
+
+![先锋机能风设计图](../../images/%E5%85%88%E9%94%8B%E6%9C%BA%E8%83%BD%E9%A3%8E%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+角色设计图，全身转面图，{argument name="character" default="男性创作者"}，引人注目的先锋街头服饰。身着 {argument name="clothing style" default="哑光黑不对称机能夹克"}，配有精致的荧光绿滚边，深炭灰色高领毛衣，带有金属扣带的战术工装裤，厚底未来感运动鞋。佩戴几何形状的有色智能眼镜。背景为 {argument name="background" default="极简灰白色摄影棚背景"}。高对比度，电影级布光，利落美学，超精细，8k，Unreal Engine 5 渲染风格 --ar 16:9
+
+[English]
+Character design sheet, full body turnaround, {argument name="character" default="male creator"}, striking avant-garde streetwear. Wearing an {argument name="clothing style" default="matte-black asymmetrical techwear jacket"} with subtle neon green piping, dark charcoal turtleneck, tactical cargo trousers with hardware straps, chunky futuristic sneakers. Wearing geometric tinted smart-glasses. Set against a {argument name="background" default="minimalist ash-grey studio background"}. High contrast, cinematic lighting, sleek aesthetic, ultra-detailed, 8k, Unreal Engine 5 render style --ar 16:9
+```
+
+**来源：** [@C G B E A S T 💎](https://x.com/Boluwatifeolad7/status/2075191098184442310) | 2026-07-09
+
+---
+

@@ -16642,3 +16642,656 @@ Visual style: Minimal editorial travel archive, modern Chinese poster design, cr
 
 ---
 
+### 🎴 例 3544：极简主义东京晨曦海报
+
+![极简主义东京晨曦海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E6%99%A8%E6%9B%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的极简主义旅行海报，主题为 {argument name="city name" default="东京"}，背景使用宏大的深海军蓝建筑立面，底部点缀一个微小的孤独行人以体现比例感。构图应呈现出宏伟、冷峻、干净、静谧且具有仪式感的氛围，包含纪念碑式的墙面、锐利的垂直接缝、中心附近狭窄的城市玻璃反射缝隙，以及底部的浅色混凝土路面。采用深蓝色单色调色，高对比度的光影，优雅的编辑海报美学，精致的白色字体，充裕的留白，以及宁静的清晨氛围。
+
+布局：16:9 横版海报。左侧三分之一区域包含小型结构化引导文字和覆盖在建筑墙面上的编号项目；右侧三分之一区域包含主要目的地标题。左上角以宽间距的小号衬线大写字母书写“G O O D   M O R N I N G”。在左侧，展示 3 个编号信息块：圆角矩形内的“01”，后接“地标｜东京塔与山手线”；细横线分隔符上的“02”，后接“气息｜站台广播、夏祭薄风、清晨街角”；细双线圆圈内的“03”，后接“色彩｜藏蓝 / 提灯红 / 和纸白”。左下角显示 2 个小型图标徽章：标记为“收藏价值 / COLLECTIBLE VALUE”的菱形图标，以及标记为“美学价值 / AESTHETIC VALUE”的古典柱式图标。
+
+右侧排版：放置巨大的垂直白色汉字“东京”作为主标题，旁边垂直排列间距宽阔的衬线字母“T O K Y O”。在标题下方，添加一条细横线，中心处放置一个小红印章，随后是小字“东京”和“とうきょう”。下方添加日期“{argument name="date" default="2026-07-10"}”以及句子“早安，愿你在秩序与霓光之间，保持清醒与温柔。”在最右侧边缘，包含一个标记为“04”的华丽垂直标签框，文字为“漫游｜先去便利店买一瓶冰水”。在右下角附近，包含一个标记为“05 记忆｜收藏日常里的 精准与留白”的矩形轮廓框。
+
+主体细节：画面中唯一的角色是位于左下中心附近浅色广场上行走的一个微小深色身影，投下长而微妙的阴影。无车辆，无人群，无杂物。
+
+风格限制：超干净的 PPT 式网格逻辑，精致的日式编辑设计，写实的建筑背景，清爽的白色叠加层，一个小的红色点缀印章，无水印，除指定的排版元素外无额外文字。使用 {argument name="main color palette" default="深海军蓝、纸张白、少量朱红色点缀"}，并保持氛围为 {argument name="mood" default="静谧、宏伟、冷峻、干净、仪式感"}。
+
+[English]
+Create a cinematic minimalist travel poster for {argument name="city name" default="Tokyo"}, using a vast dark navy-blue architectural facade as the background and a tiny solitary pedestrian at the bottom for scale. The composition should feel grand, cold, clean, quiet, and ritualistic, with a monumental wall, sharp vertical seams, a narrow slit of reflected city glass near the center, and pale concrete pavement along the bottom. Use a deep blue monochrome color grade, high contrast sunlight and shadow, elegant editorial poster aesthetics, fine white typography, generous negative space, and a calm early-morning atmosphere.
+
+Layout: horizontal 16:9 poster. Left third contains small structured guide text and numbered items over the building wall; right third contains the main destination title. Top left reads “G O O D   M O R N I N G” in widely spaced small serif capitals. On the left, show exactly 3 numbered information blocks: “01” in a rounded rectangle followed by “地标｜东京塔与山手线”; “02” on a thin horizontal divider followed by “气息｜站台广播、夏祭薄风、清晨街角”; “03” inside a thin double-line circle followed by “色彩｜藏蓝 / 提灯红 / 和纸白”. Bottom left shows exactly 2 small icon badges: a diamond icon labeled “收藏价值 / COLLECTIBLE VALUE” and a classical column icon labeled “美学价值 / AESTHETIC VALUE”.
+
+Right side typography: place huge vertical white Japanese characters “东京” as the dominant title, with “T O K Y O” set vertically beside it in spaced serif letters. Under the title, add a thin horizontal line with a small red seal emblem at center, then small text “东京” and “とうきょう”. Below that add the date “{argument name="date" default="2026-07-10"}” and the sentence “早安，愿你在秩序与霓光之间，保持清醒与温柔。” On the far right edge, include one ornate vertical label frame marked “04” with the text “漫游｜先去便利店买一瓶冰水”. Near the lower right, include one rectangular outlined box marked “05 记忆｜收藏日常里的 精准与留白”.
+
+Subject details: the only person is a tiny figure in dark clothing walking across the pale plaza near the lower center-left, casting a long subtle shadow. No cars, no crowds, no clutter.
+
+Style constraints: ultra-clean PPT-like grid logic, refined Japanese editorial design, photorealistic architectural background, crisp white overlays, one small red accent seal, no watermark, no extra text beyond the specified poster elements. Use {argument name="main color palette" default="deep navy blue, paper white, small vermilion red accent"} and keep the mood {argument name="mood" default="quiet, majestic, cool, clean, ceremonial"}.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2075366689638891622) | 2026-07-09
+
+---
+
+### 🎴 例 3549：登山靴山峰景观海报
+
+![登山靴山峰景观海报](../../images/%E7%99%BB%E5%B1%B1%E9%9D%B4%E5%B1%B1%E5%B3%B0%E6%99%AF%E8%A7%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的 Salomon X Ultra Mid GTX 电影级广告海报，设计理念为基于超写实主义的宏大巨型视角山峰幻想。鞋子必须是绝对的主角，将其转化为一座从冰封高山景观中升起的巨大雪峰，而真实的登山者则像攀登真实山峰一样攀登它。登山者与鞋子之间的比例对比必须具有戏剧性且清晰可见：鞋子应显得巨大、具有建筑感和地形感，而人物则显得微小、脆弱且坚定。最终图像应传达出专业登山性能、防水耐用性、高山韧性以及令人惊叹的视觉尺度。
+
+主要构图：
+采用强烈的垂直海报构图，将 Salomon X Ultra Mid GTX 置于中心，像一座巨大的山峰一样耸立。鞋子应占据几乎整个画面，从略微仰视的角度拍摄，使其感觉宏伟且具有英雄气概。鞋底应像山基一样嵌入雪和冰中，而鞋领、鞋舌、鞋带和鞋面结构则像悬崖、山脊和冰封的岩架一样升起。几名微小的登山者应分布在鞋子上，用绳索、冰镐和登山姿势积极攀登，营造出明显的危险感、真实感和冒险感。
+
+核心视觉概念：
+鞋子必须感觉像是一座伪装成登山靴的真实高山：
+鞋头变成积雪的山脊，
+鞋带系统变成攀登横移路线，
+脚踝鞋领像峰顶岩壁一样升起，
+外底和中底变成层叠的冰岩地层，
+积雪和霜冻自然地堆积在岩架和边缘上，
+微小的登山者像探险队一样在结构上移动。
+这种错觉必须强大且可信，同时鞋子仍能清晰地辨认为 Salomon X Ultra Mid GTX。
+
+产品真实感：
+以极高的保真度渲染 Salomon X Ultra Mid GTX：
+准确的形状和比例，
+正确的专业鞋面结构，
+真实的鞋带系统，
+坚固的中帮鞋领，
+精确的外底几何形状，
+逼真的网眼、覆盖层和支撑结构，
+高端户外工程细节。
+即使被放大成山峰般的纪念碑，鞋子也必须明确无误地是该产品，并感觉在机械结构上是正确的。
+
+人类攀登的真实感：
+登山者必须非常逼真，且相对于鞋子而言比例微小：
+真实的登山姿势，
+绳索张力，
+冰镐放置，
+雪地装备，
+登山服装，
+小组经过深思熟虑地分布在鞋子上。
+他们必须感觉像是一支真正的探险队，而不是装饰性的人偶。他们的存在是为了强调比例、危险和登山靴的山峰属性。
+
+环境：
+将巨大的鞋子置于真实的冰封高山环境中：
+雪原，
+冰冷的风，
+远处的山影，
+寒冷的氛围，
+细微的飘雪，
+淡淡的薄雾或飞雪。
+周围的环境应支持这种错觉，即鞋子是更大山脉中的一座山。保持画面简洁且史诗感，不要杂乱。
+
+雪与表面的融合：
+鞋子应与雪和冰自然融合：
+粉雪附着在鞋面上，
+边缘有冰壳，
+岩架上有风吹形成的积雪，
+细微的霜冻堆积，
+适当的小冰柱结构，
+雪柔和地沉入接缝和结构中。
+雪必须感觉真实，并对鞋子的形态有物理上的响应。
+
+光影：
+使用极其细腻柔和的高山光影：
+寒冷的高海拔日光，
+微妙的蓝白色大气柔和感，
+雪地边缘的柔和高光，
+专业表面上干净的材质反射，
+柔和的阴影过渡，
+高端电影级的清晰度。
+光影必须感觉宏伟、寒冷且精致，绝不刺眼或人工化。
+
+背景：
+保持背景史诗感但极简：
+清澈的高山天空或柔和的雪雾，
+远处的山峰，
+为品牌排版留出宽广的负空间。
+不要让场景过于拥挤。鞋子山峰和登山者必须始终是焦点。
+
+排版与品牌：
+包含精致的官方 Salomon 标志和优雅的标题，例如 X ULTRA MID GTX。如果需要，添加高端冒险标语，例如：
+“攀登不可能”
+或
+“为每一次登顶而生”
+排版应具有现代感、专业感和艺术指导感，干净地融入海报中。
+
+调色板：
+寒冷的高山白，
+冰蓝色，
+钢灰色，
+板岩黑，
+来自鞋子的柔和专业点缀色，
+柔和的雪光高光。
+调色板应感觉高端、寒冷且为探险做好准备。
+
+氛围：
+史诗、高山、专业、宏伟、冒险、令人敬畏、高端户外运动、征服山峰、极端的比例对比。
+
+渲染：
+超写实电影级户外产品摄影，巨型鞋子即山峰概念，逼真的登山者，冰雪高山融合，超细节登山靴材质，柔和高端冷光，8k，世界级广告活动质量
+
+负面提示词：
+卡通比例效果，玩具登山者，虚假的幻想山峰，低细节鞋子，杂乱的构图，廉价的冒险海报，夸张的科幻风格，塑料感的雪，微弱的比例对比，电商产品图，平淡的光影
+
+[English]
+Create an ultra-premium cinematic advertising poster for Salomon X Ultra Mid GTX, designed as a monumental giant-perspective mountain fantasy grounded in hyper-real realism. The shoe must be the absolute hero object, transformed into a colossal snow-covered summit rising from a frozen alpine landscape, while real human climbers ascend it as if it were an actual mountain. The scale contrast between the climbers and the shoe must be dramatic and unmistakable: the shoe should feel enormous, architectural, and terrain-like, while the people appear tiny, vulnerable, and determined. The final image should communicate technical mountain performance, waterproof endurance, alpine toughness, and awe-inspiring visual scale.\n\nMain composition:\nUse a strong vertical poster composition with the Salomon X Ultra Mid GTX centered and towering upward like a giant mountain peak. The shoe should dominate nearly the entire frame, viewed from a slightly low angle so it feels monumental and heroic. The outsole base should sit embedded in snow and ice like a mountain foundation, while the collar, tongue, laces, and upper structure rise like cliffs, ridges, and frozen ledges. Several tiny climbers should be distributed across the shoe, actively scaling it with ropes, ice axes, and mountaineering posture, creating a clear sense of peril, realism, and adventure.\n\nCore visual concept:\nThe shoe must feel like a real alpine mountain disguised as a hiking boot:\nthe toe becomes a snow-covered ridge,\nthe lace system becomes climbing traverse lines,\nthe ankle collar rises like a summit wall,\nthe outsole and midsole become layered ice-rock strata,\nsnow drifts and frost accumulate naturally on ledges and edges,\nsmall climbers move across the structure like an expedition team.\nThe illusion must be powerful but believable, with the shoe still clearly recognizable as the Salomon X Ultra Mid GTX.\n\nProduct realism:\nRender the Salomon X Ultra Mid GTX with extreme fidelity:\naccurate shape and proportions,\ncorrect technical upper construction,\nauthentic lace system,\nrugged mid-cut collar,\nprecise outsole geometry,\nrealistic mesh, overlays, and support structures,\npremium outdoor engineering detail.\nEven when scaled into a mountain-like monument, the shoe must remain unmistakably the product and feel mechanically correct.\n\nHuman climbing realism:\nThe climbers must be highly realistic and tiny in scale relative to the shoe:\nreal alpine climbing posture,\nrope tension,\nice axe placement,\nsnow gear,\nmountaineering clothing,\nsmall groups distributed thoughtfully across the shoe.\nThey must feel like a genuine expedition rather than decorative figures. Their presence exists to emphasize scale, danger, and the boot’s mountain identity.\n\nEnvironment:\nPlace the giant shoe in a real frozen alpine environment:\nsnowfields,\nicy wind,\ndistant mountain silhouettes,\ncold atmosphere,\nsubtle drifting snow,\nfaint mist or spindrift.\nThe surrounding environment should support the illusion that the shoe is a mountain within a larger mountain range. Keep it clean and epic, not cluttered.\n\nSnow and surface integration:\nThe shoe should be naturally integrated with snow and ice:\npowder snow clinging to the upper,\nice crust along edges,\nwind-packed snow on ledges,\nsubtle frost accumulation,\nsmall icicle-like formations if appropriate,\nsnow softly settling into seams and structure.\nThe snow must feel real and physically responsive to the shoe’s form.\n\nLighting:\nUse extremely delicate soft alpine lighting:\ncold high-altitude daylight,\nsubtle blue-white atmospheric softness,\ngentle highlights on snowy edges,\nclean material reflections on technical surfaces,\nsoft shadow transitions,\npremium cinematic clarity.\nThe lighting must feel majestic, cold, and refined, never harsh or artificial.\n\nBackground:\nKeep the background epic but minimal:\nclear alpine sky or soft snow haze,\ndistant mountain peaks,\nbroad negative space for brand layout.\nDo not overcrowd the scene. The shoe-mountain and climbers must remain the focus.\n\nTypography and branding:\nInclude a refined official Salomon logo and elegant title such as X ULTRA MID GTX. Add a premium adventure tagline if needed, such as:\n“CLIMB THE IMPOSSIBLE”\nor\n“BUILT FOR EVERY ASCENT”\nTypography should feel modern, technical, and art-directed, integrated cleanly into the poster.\n\nColor palette:\ncold alpine white,\nice blue,\nsteel gray,\nslate black,\nmuted technical accents from the shoe,\nsoft snow-light highlights.\nThe palette should feel premium, cold, and expedition-ready.\n\nMood:\nepic, alpine, technical, monumental, adventurous, awe-inspiring, premium outdoor campaign, mountain conquest, extreme scale contrast.\n\nRendering:\nhyper-realistic cinematic outdoor product photography, giant shoe-as-mountain concept, realistic climbers, snowy alpine integration, ultra-detailed hiking shoe materials, soft premium cold lighting, 8k, world-class advertising campaign quality\n\nNegative prompt:\ncartoon scale effect, toy climbers, fake fantasy mountain, low-detail shoe, cluttered composition, cheap adventure poster, exaggerated sci-fi styling, plastic-looking snow, weak scale contrast, e-commerce product image, flat lighting
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2075322266079183221) | 2026-07-09
+
+---
+
+### 🎴 例 3566：极简奢华生日海报
+
+![极简奢华生日海报](../../images/%E6%9E%81%E7%AE%80%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简且奢华的里程碑生日海报，画面中心是一个巨大的 3D 数字“{argument name="age" default="[AGE]"}”，雕刻在高端象牙白墙面上。一位气质优雅的人坐在数字上、倚靠着数字或自然地悬挂在数字旁，摆出自信的姿势。画面由白玫瑰、满天星、绣球花和淡蓝色气球组成的优雅花艺装饰环绕。柔和的自然光，高端编辑摄影风格，现代庆典美学，干净的奢华设计，细腻的阴影，精致的排版。在顶部，以优雅的衬线字体显示名字“{argument name="name" default="[NAME]"}”，随后是“CHAPTER {argument name="chapter" default="[AGE]"}”以及引言“365 More Days of Miracles”。中性米色与白色调，高端活动风格，梦幻氛围，照片级真实感，杂志级人像，超精细纹理，奢华生日摄影，Instagram 风格，浅景深，柔光，8K 杰作，专业时尚摄影。
+
+[English]
+Créez une affiche minimaliste et luxueuse pour un anniversaire marquant, mettant en scène un chiffre 3D géant « {argument name="âge" default="[ÂGE]"} » sculpté dans un mur haut de gamme blanc ivoire. Une personne élégante est assise, appuyée ou suspendue naturellement au chiffre, prenant une pose confiante. Des arrangements floraux élégants composés de roses blanches, de gypsophile, d'hortensias et de ballons bleu pastel encadrent la composition. Douce lumière naturelle du soleil, photographie éditoriale haut de gamme, esthétique de célébration moderne, design de luxe épuré, ombres subtiles, typographie sophistiquée. En haut, affichez le nom « {argument name="nom" default="[NOM]"} » dans une élégante police avec empattement (serif), suivi de « CHAPITRE {argument name="chapitre" default="[ÂGE]"} » et de la citation « 365 Jours de Miracles en Plus ». Palette de couleurs beige et blanc neutres, style événementiel haut de gamme, atmosphère de rêve, photoréaliste, portrait de qualité magazine, textures ultra-détaillées, séance photo d'anniversaire de luxe, digne d'Instagram, faible profondeur de champ, éclairage doux, chef-d'œuvre 8K, photographie de mode professionnelle.
+```
+
+**来源：** [@Mr Francklin](https://x.com/FRANKLINFKK/status/2075240606188663022) | 2026-07-09
+
+---
+
+### 🎴 例 3567：中国武侠大师海报
+
+![中国武侠大师海报](../../images/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E4%BE%A0%E5%A4%A7%E5%B8%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+中国古代武侠大师海报，灵感源自金庸 / 武侠传奇美学，一位 {argument name="subject" default="年长的道家功夫宗师"}，留着飘逸的白胡须，面容饱经风霜，身穿层叠破损的僧袍，采用 {argument name="color palette" default="米色、灰色和黑色水墨"} 质感，以强劲的武术姿态站立，单掌向观众伸出，戏剧性的旋转气流在他周围形成巨大的阴阳漩涡，漩涡中隐现幽灵般的掌印，烟雾与墨迹融入他的长袍中，背景为 {argument name="background scenery" default="中国山水"} 和远处的寺庙建筑，超精细的中国传统水墨画与电影概念艺术相结合，棕褐色羊皮纸背景，醒目的竖排黑色中国书法标题，红色印章，武侠小说封面 / 武术秘籍海报排版，全身英雄构图，动态笔触，飘逸的织物，古老传奇氛围，高对比度墨迹纹理，优雅的留白，杰作，高度细节，收藏级海报设计，竖构图 --ar 2:3
+
+[English]
+Ancient Chinese wuxia master poster, inspired by Jin Yong / martial arts legend aesthetic, an {argument name="subject" default="elderly Taoist kung fu grandmaster"} with long flowing white beard and weathered face, wearing layered torn monk robes in {argument name="color palette" default="beige, gray and black ink-wash"} textures, standing in a powerful martial arts stance with one palm extended toward the viewer, dramatic swirling qi energy forming a large yin-yang vortex around him, ghostly palm imprints inside the vortex, smoke and ink splashes blending into his robes, {argument name="background scenery" default="Chinese shanshui mountains"} and distant temple architecture in the background, ultra-detailed traditional Chinese ink painting mixed with cinematic concept art, sepia parchment background, bold vertical black Chinese calligraphy title, red seal stamps, wuxia novel cover / martial arts manual poster layout, full-body heroic composition, dynamic brush strokes, flowing fabric, ancient legend atmosphere, high contrast ink textures, elegant negative space, masterpiece, highly detailed, collectible poster design, vertical composition --ar 2:3
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2075239972341194969) | 2026-07-09
+
+---
+
+### 🎴 例 3568：清爽青柠椰云冰饮海报
+
+![清爽青柠椰云冰饮海报](../../images/%E6%B8%85%E7%88%BD%E9%9D%92%E6%9F%A0%E6%A4%B0%E4%BA%91%E5%86%B0%E9%A5%AE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="drink name" default="青柠椰云冰饮"} 创作一张清爽的竖版夏日饮品海报，采用透明冰感美学、淡青色调以及高级感的极简中式排版。
+
+画布：9:16 竖版海报，明亮的高调光效，柔和的天蓝色与白色背景，带有淡淡的云朵、闪烁的雾气、碎冰，底部有光泽的水面反射。在右上角添加柔和的棕榈叶阴影，营造热带夏日阳光的氛围。
+
+主体：将一个大型透明塑料杯放置在海报中下部偏右的位置。杯中盛有半透明的浅青色冰饮，可见气泡、冷凝水珠、顶部的碎冰，杯沿上斜靠着 1 片圆形青柠切片。杯口和杯壁需呈现透明、光泽且逼真的质感，带有清凉的高光和折射效果。
+
+杯身标签：在杯子上添加一个带有青色印刷文字的圆形白色标签。标签应包含 1 个主要中文饮品名称、英文副标题“CITRUS COCONUT CLOUD ICE”、1 条细分割线，以及 3 个小型线条图标：青柠切片、椰子配棕榈树和冰块。在底部添加小型配料文字“青柠 | 椰子 | 冰爽”。
+
+排版与海报文字：在左侧，使用纤细的青色中文字体创建一行非常高的竖排标题，内容为 {argument name="vertical headline" default="青柠椰云冰饮"}。在左上角附近，添加一行小型竖排标语 {argument name="slogan" default="清爽椰云 冰凉入心"}，上方配有 1 个小型青柠切片图标及短小的悬挂点线装饰。在左下角附近，添加 3 个堆叠的英文单词：“Citrus”、“Coconut”、“Cloud Ice”。
+
+印章细节：在杯子右上方，添加 1 枚圆形青色印章，中心带有雪花图标，环绕的细小中文文字暗示夏日推荐与冰爽体验。
+
+视觉风格：写实的产品广告渲染与简洁的平面设计相结合，优雅的细线条青色排版，超透明的玻璃质感冰块，柔和的光晕，水面反射，低对比度，充足的留白，清新的椰子青柠夏日氛围，无人物，无杂乱元素，无额外产品，无水印。
+
+[English]
+Goal: Create a refreshing vertical summer beverage poster for {argument name="drink name" default="青柠椰云冰饮"}, with a transparent icy aesthetic, pale cyan palette, and premium minimalist Chinese typography.
+
+Canvas: Tall 9:16 poster, airy high-key lighting, soft sky-blue and white background, faint clouds, sparkling mist, crushed ice, and a glossy water surface reflection at the bottom. Add a soft palm-leaf shadow in the upper right to suggest tropical summer light.
+
+Main subject: Place one large clear plastic cup slightly right of center in the lower-middle of the poster. The cup contains a translucent light-aqua iced drink with visible bubbles, condensation droplets, crushed ice at the top, and exactly 1 round lime slice garnish leaning on the rim. Make the cup rim and walls transparent, glossy, and realistic, with cool highlights and refractions.
+
+Cup label: Add a rounded white label on the cup with teal printing. The label should contain exactly 1 main Chinese drink name, the English subtitle “CITRUS COCONUT CLOUD ICE,” 1 thin divider line, and exactly 3 small line icons: a citrus slice, a coconut with palm tree, and ice cubes. Add small ingredient text at the bottom reading “青柠 | 椰子 | 冰爽”.
+
+Typography and poster text: On the left side, create a very tall vertical headline in thin teal Chinese characters reading {argument name="vertical headline" default="青柠椰云冰饮"}. Near the top-left, add a small vertical slogan reading {argument name="slogan" default="清爽椰云 冰凉入心"} with exactly 1 small lime-slice icon above it and a short hanging dot-line ornament. Near the lower-left, add exactly 3 stacked English words: “Citrus”, “Coconut”, “Cloud Ice”.
+
+Stamp detail: On the right side above the cup, add exactly 1 circular teal seal stamp with a snowflake icon in the center and small Chinese text around the ring suggesting summer recommendation and ice-cool refreshment.
+
+Visual style: Photorealistic product-ad rendering mixed with clean graphic design, elegant thin-line teal typography, ultra-translucent glassy ice, soft bloom, watery reflections, low contrast, generous negative space, fresh coconut-lime summer mood, no people, no clutter, no extra products, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2075236593900920914) | 2026-07-09
+
+---
+
+### 🎴 例 3569：Red Circle 高端护肤时尚广告
+
+![Red Circle 高端护肤时尚广告](../../images/Red%20Circle%20%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在方形摄影棚画布上创作一则高端奢华护肤品商业广告。一位身材苗条、留着飘逸黑发的年轻亚洲女性模特，正自信地从身后一个巨大的极简主义红色圆形框架中走出，该框架居中呈现，宛如一个醒目的图形光环。她保持着动态的走秀姿态，一腿前伸，一腿后撤，勾勒出优雅而有力的剪影。她身穿一件鲜艳飘逸的红色单肩雪纺裙，裙摆高开叉，紧身胸衣带有褶皱设计，半透明的面料层叠，裙摆随风向左剧烈飘动，脚踩红色踝带细高跟凉鞋。她的右手向镜头方向伸出，握着一瓶红色圆柱形高端护肤品，瓶身标签为 {argument name="product label" default="SK-II"}，使产品在前景中格外突出；左臂自然向后摆动。采用干净的浅灰色摄影棚背景，地面带有光泽的接触阴影，清晰的商业布光，圆形框架投下微妙的阴影，呈现高级美妆广告风格，红灰极简色调，照片级写实的时尚编辑摄影，焦点锐利，优雅自信，无额外文字，除瓶身标签外无任何 Logo。
+
+[English]
+Create a high-fashion luxury skincare commercial advertisement on a square studio canvas. A slim young Asian female model with long flowing black hair walks confidently out of a giant minimalist red circular frame positioned behind her, centered like a bold graphic halo. She is frozen in a dynamic runway stride with one leg extended forward and the other behind, creating a strong elegant silhouette. She wears a vibrant flowing red one-shoulder chiffon dress with a high slit, ruched bodice, translucent fabric layers, and wind-swept skirt billowing dramatically to the left, paired with red ankle-strap stiletto sandals. Her right arm reaches toward the viewer holding a red cylindrical luxury skincare bottle labeled {argument name="product label" default="SK-II"}, making the bottle prominent in the foreground; her left arm trails naturally behind. Use a clean light gray studio background, glossy floor contact shadows, crisp commercial lighting, subtle shadows from the circular frame, premium beauty-ad styling, red-on-gray minimalist palette, photorealistic editorial fashion photography, sharp focus, elegant confidence, no extra text, no logo except the bottle label.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2075234740291199218) | 2026-07-09
+
+---
+
+### 🎴 例 3570：对称式 Roland Garros 巴黎海报
+
+![对称式 Roland Garros 巴黎海报](../../images/%E5%AF%B9%E7%A7%B0%E5%BC%8F%20Roland%20Garros%20%E5%B7%B4%E9%BB%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为巴黎的 {argument name="tournament name" default="Roland Garros"} 创作一张竖版电影质感的体育赛事海报，采用完全居中的轴对称构图。下半部分为红土网球场，线条清晰洁白，一名身穿白衣的网球选手独自站在中线上，背对镜头望向地平线。两侧为左右镜像的看台，坐满观众，配有深色赞助商“项目”和法国国旗。远处，埃菲尔铁塔位于球场正后方，耸立在淡蓝色的晨空下，云层柔和，氛围明亮通透。在天空中央透视轴线上，添加超现实的对称排列的黄色网球：总计 12 个球，左上和右上前景处各有两个巨大的网球，上面标注“ROLAND GARROS PARIS”，下方各有两个中型网球，其余 8 个网球由大到小向埃菲尔铁塔方向延伸，两侧保持平衡。采用精致的奢华旅行海报美学，逼真的照片合成光影，优雅的极简排版，红土橙与天空蓝及网球黄形成对比。顶部文字布局：顶部居中放置间距较小的“2025”；下方为字间距极宽的“ROLAND GARROS”；更下方居中放置“PARIS”，两侧配有细横线；日期行“MAY 19 - JUNE 8”；橙色大写标语“THE CLAY. THE LEGEND.”；更大的橙色大写标题“THE MOMENT.”；底部一行白色小号大写字母“TICKETS ON SALE NOW.”。底部中心：红土上有一个白色的 Roland Garros 圆形标志，下方为口号 {argument name="bottom slogan" default="ONE COURT. COUNTLESS STORIES."}。保持所有排版简洁、大写、宽字间距、高级感且居中。除单名选手外，画面中不应出现其他人，除网球上的标签和底部圆形标志外，不应出现其他标志，且无水印。
+
+[English]
+Create a vertical cinematic sports event poster for {argument name="tournament name" default="Roland Garros"} in Paris, using a perfectly centered axial symmetry composition. A red clay tennis court fills the lower half, with crisp white court lines and a tiny lone tennis player in white standing exactly on the center line facing away toward the horizon. On both sides are packed stadium stands with small crowds, dark sponsor boards, and French flags, mirrored left and right. In the distance, place the Eiffel Tower centered behind the court, rising into a pale blue morning sky with soft clouds and a bright airy atmosphere. Add a surreal symmetrical procession of yellow tennis balls floating in the sky along the central perspective axis: exactly 12 balls total, with 2 very large balls near the upper left and upper right foreground labeled “ROLAND GARROS PARIS,” 2 medium balls below them, and 8 progressively smaller balls receding toward the Eiffel Tower, evenly balanced on both sides. Use refined luxury travel-poster aesthetics, realistic photo-composite lighting, elegant minimal typography, warm clay orange contrasted with sky blue and tennis-ball yellow. Top text layout: small spaced “2025” centered at the very top; huge wide-letterspaced “ROLAND GARROS”; smaller centered “PARIS” with thin horizontal lines on both sides; date line “MAY 19 - JUNE 8”; orange uppercase tagline “THE CLAY. THE LEGEND.”; larger orange uppercase headline “THE MOMENT.”; small white uppercase line “TICKETS ON SALE NOW.” Bottom center: a white Roland Garros circular logo on the clay, and beneath it the slogan {argument name="bottom slogan" default="ONE COURT. COUNTLESS STORIES."}. Keep all typography clean, uppercase, widely tracked, premium, and centered. No extra people besides the single player, no extra logos except the tennis-ball labels and bottom circular logo, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2075233721188487669) | 2026-07-09
+
+---
+
+### 🎴 例 3571：极简主义时尚编辑海报
+
+![极简主义时尚编辑海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+趣味十足的扁平矢量海报插画，主角为 {argument name="subject" default="参考女性"}，呈现优雅的正面肖像姿势，身穿 {argument name="clothing" default="精致的白色泡泡袖连衣裙"} 并佩戴极简首饰，背景为明亮通风的室内空间，带有柔和的抽象窗户形状和优雅的装饰元素。使用清晰、粗犷的黑色轮廓，简单的圆形几何形状，扁平纯色填充，极简的面部细节，小巧的中性眼睛，冷静的扑克脸表情，简化的身体比例，柔和的色块拼接，稀疏的花卉涂鸦，微小的抽象闪光，干净的留白，利落的图形海报布局，以及受控的 {argument name="color palette" default="奶油色、暖米色、柔棕色和哑光金色"} 色调。在海报设计中自然融入粗体现代排版的“AURORA”字样。风格：可爱的极简扁平矢量，时尚编辑海报美学，高对比度轮廓，流畅的几何结构，精致而俏皮的构图，高级平面设计，无渐变，无写实纹理，无阴影，仅限扁平色彩，优雅的女性化品牌感，宽高比 4:5。
+
+[English]
+Playful flat-vector poster illustration of the {argument name="subject" default="reference woman"} in a graceful front-facing portrait pose, wearing a {argument name="clothing" default="delicate white puff-sleeve dress"} and minimalist jewelry, set in a bright airy interior with soft abstract window shapes and elegant decorative elements. Use clean, thick black outlines, simple rounded geometric shapes, flat solid color fills, minimal facial details, small neutral eyes, a calm deadpan expression, simplified body proportions, pastel color blocking, sparse floral doodles, tiny abstract sparkles, clean negative space, crisp graphic poster layout, and a controlled {argument name="color palette" default="cream, warm beige, soft brown, and muted gold"} color palette. Add the name "AURORA" in bold, modern typography integrated naturally into the poster design. Style: Cute minimalist flat vector, editorial fashion poster aesthetic, high-contrast outlines, smooth geometric construction, sophisticated yet playful composition, premium graphic design, no gradients, no realistic textures, no shadows, flat colors only, elegant feminine branding, aspect ratio 4:5.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2075232967232745877) | 2026-07-09
+
+---
+
+### 🎴 例 3572：70 年代夏季电影海报风格
+
+![70 年代夏季电影海报风格](../../images/70%20%E5%B9%B4%E4%BB%A3%E5%A4%8F%E5%AD%A3%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="city" default="Sevilla"} 呈现为 70 年代夏季电影海报风格，展现傍晚八点石墙上那温暖的金色光影
+
+[English]
+{argument name="ciudad" default="sevilla"} como el póster de una peli de verano de los 70, esa luz dorada de las ocho de la tarde sobre la piedra
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2075232518929027545) | 2026-07-09
+
+---
+
+### 🎴 例 3588：NESCAFÉ 咖啡地图海报
+
+![NESCAFÉ 咖啡地图海报](../../images/NESCAF%C3%89%20%E5%92%96%E5%95%A1%E5%9C%B0%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高端 NESCAFÉ 咖啡宣传海报，将写实的咖啡杯主体与复古手绘咖啡地图插画完美融合。
+
+画布：垂直 4:5 海报，采用暖象牙色羊皮纸质感，居中构图，具有高端杂志广告质感，无边框。
+
+主体：正中心为一个俯视视角的写实浓缩咖啡杯，配有光亮的鲜红色杯托，红色杯柄朝右。杯口有厚实的白色内圈，杯中盛有深色咖啡，表面覆盖着浓郁的金棕色油脂、细小气泡和泡沫斑点，并带有柔和的反射高光。咖啡杯下方带有圆形的咖啡渍印记和淡淡的水彩晕染。
+
+品牌与文字：顶部中心放置大型 NESCAFÉ 标志，采用深咖啡色，末尾字母上方带有标志性的小红点，使用品牌标准字体。在其正下方，以间距较大的大写衬线字体书写 {argument name="tagline text" default="THE ART OF COFFEE"}。在标语下方添加一个小型横向装饰分隔符，中心点缀一颗咖啡豆。底部中心添加小型署名文字 {argument name="signature text" default="@sara4a"}，两侧配以纤细的装饰性横线。
+
+地图插画元素：以咖啡杯为中心，周围环绕深褐色墨水线条画和浅色咖啡水彩泼溅，共安排 8 组独特的插画元素：1) 左上方为带有叶片和咖啡樱桃的高大咖啡树枝；2) 左侧中部为一个小型透明玻璃咖啡杯；3) 右上方为带有旭日和三只飞鸟的山脉；4) 右侧中部为一个小型乡村农舍；5) 右侧为带有浆果的茂密咖啡枝叶；6) 右下方为一个复古木制手动咖啡研磨机；7) 底部为带有行间距、丘陵和微型房屋的咖啡种植园；8) 左下方为一簇大型咖啡花和枝干。在这些插画周围零星散布少量咖啡豆。
+
+视觉风格：将清晰的写实产品摄影（红色咖啡杯）与精致的深褐色植物雕版画、复古旅行地图线条艺术、咖啡渍、米色水彩泼溅以及暖棕色单色插画相结合。使用高级咖啡色调：奶油色、棕褐色、焦糖色、浓缩咖啡棕色以及鲜艳的光泽红色。
+
+约束条件：保持构图对称且居中，确保咖啡杯为绝对视觉焦点，所有插画细节均置于咖啡杯后方及周围，品牌标识清晰易读，避免添加多余的标语或无关物体，保持精致的奢华广告质感。
+
+[English]
+Goal: Create a premium NESCAFÉ coffee campaign poster with a realistic hero coffee cup integrated into an antique hand-drawn coffee-map illustration.
+
+Canvas: Vertical 4:5 poster on warm ivory parchment paper, centered composition, high-end editorial advertising feel, no border.
+
+Main subject: A top-down photorealistic espresso cup in the exact center, with a glossy bright red saucer and matching red handle facing right. The cup has a thick white inner rim and dark coffee with rich golden-brown crema, tiny bubbles, foam speckles, and a soft reflective highlight. The cup sits over a circular coffee-stain ring and pale watercolor wash.
+
+Branding and text: At the top center place the large NESCAFÉ logo, dark coffee-brown with the small red accent over the final letter, using the recognizable brand style. Directly below it write {argument name="tagline text" default="THE ART OF COFFEE"} in spaced uppercase serif letters. Under the tagline add a small horizontal ornamental divider with a single coffee bean at the center. At the bottom center add the small credit text {argument name="signature text" default="@sara4a"} with thin decorative horizontal lines on both sides.
+
+Illustrated map elements: Surround the cup with sepia ink drawings and light coffee-watercolor splashes, arranged as exactly 8 distinct illustrated feature groups: 1) a tall coffee plant branch with leaves and coffee cherries on the upper left, 2) a small transparent glass coffee mug on the left middle, 3) a mountain range with rising sun and three flying birds on the upper right, 4) a small rustic farmhouse on the right middle, 5) leafy coffee branches with berries on the right side, 6) a vintage wooden manual coffee grinder on the lower right, 7) a coffee plantation field with rows, hills, and tiny houses along the bottom, 8) a large coffee blossom and branch cluster on the lower left. Scatter a small number of loose coffee beans around these drawings.
+
+Visual style: Mix crisp photorealistic product photography for the red cup with delicate sepia botanical engraving, vintage travel-map line art, coffee stains, beige watercolor splatters, and warm brown monochrome illustration. Use premium coffee tones: cream, tan, caramel, espresso brown, and vivid glossy red.
+
+Constraints: Keep the composition symmetrical and centered, make the cup the dominant focal point, keep all illustration details behind and around the cup, use clean readable branding, avoid extra slogans or unrelated objects, and maintain a polished luxury advertising look.
+```
+
+**来源：** [@Sara | 사라 Al ✦ 🎥✍️](https://x.com/sara4ai/status/2075189566332371020) | 2026-07-09
+
+---
+
+### 🎴 例 3613：现代时尚编辑拼贴海报
+
+![现代时尚编辑拼贴海报](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+现代时尚编辑拼贴海报设计，背景包含四个堆叠的圆角面板，其中填充了 {argument name="background style" default="黑白电影感肖像"}，展示了一位时尚年轻男性在不同时尚姿势下的形象。前景叠加了一张高质量的 {argument name="foreground style" default="全彩剪影"}，主体人物身着 {argument name="clothing" default="红色廓形衬衫搭配黑色长裤和墨镜"}，摆出自信的时尚姿势。简洁极简设计，无文字，无排版，无字母，柔和阴影，深度分层，高对比度光影，高级杂志风格，超写实，8k，专业海报构图。
+
+[English]
+Modern Editorial Collage Poster Design, The Background Features Four Stacked Rounded Panels Filled With {argument name="background style" default="Black And White Cinematic Portraits"} Of A Stylish Young Man In Different Fashion Poses. Overlayed In The Foreground Is A High-quality {argument name="foreground style" default="Full-color Cutout"} Of The Same Man Wearing A {argument name="clothing" default="Red Oversized Shirt With Black Pants And Sunglasses"}, Striking A Confident Fashion Pose. Clean Minimal Design, No Text, No Typography, No Letters, Soft Shadows, Depth Layering, High Contrast Lighting, Premium Magazine Style, Ultra Realistic, 8k, Professional Poster Composition.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2075084550192103712) | 2026-07-09
+
+---
+
+### 🎴 例 3614：高级 Limca SMM 广告海报
+
+![高级 Limca SMM 广告海报](../../images/%E9%AB%98%E7%BA%A7%20Limca%20SMM%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand" default="Limca"} 创建一张高级、超写实的 Instagram SMM 海报，使其呈现出官方 {argument name="campaign style" default="Coca-Cola India × Ogilvy"} 广告活动的质感。避免使用平庸的饮料广告风格、悬浮瓶身、库存健身图片、过度的水花、AI 伪影、杂乱的构图或卡通元素。
+
+概念：捕捉运动后真实的清爽瞬间。一位 {argument name="subject" default="年轻的印度成年人"} 刚刚结束跑步、骑行、板球、篮球运动，或是在炎炎夏日中行走。他们拧开一瓶冰镇 Limca，瓶身上的冷凝水、碳酸气泡和细微的雾气突显出瞬间的解渴与活力。
+
+场景：温暖的印度城市环境，例如塑胶跑道、板球场、篮球场、屋顶或夏季黄金时段的城市街道。将炎热的周边环境与饮品的冰爽感形成对比。
+
+构图 (4:5 | 1080×1350)：
+• 40% 人物动作
+• 35% Limca 产品主体
+• 15% 环境背景
+• 10% 排版与 CTA
+
+展示 Limca 瓶身，要求品牌标识清晰、冷凝水逼真、玻璃质感冰凉、微小气泡可见，并采用高级饮料摄影布光。包含细微的青柠元素、简洁的编辑级动态图形以及极简的清爽感叠加效果。
+
+调色板：青柠绿、柠檬黄、清爽白，搭配冷薄荷色与柔和银色点缀。
+
+标题：**FEEL THE ZING** (大号粗体编辑级无衬线字体)
+CTA：**Refresh Now**
+
+布光：奢华商业饮料布光，融合温暖阳光、明亮背光、干净的轮廓光、冷色调高光以及自然阴影。
+
+风格：Behance 精选品质、Coca-Cola India 商业广告、高级编辑级广告、超写实摄影、地道的印度生活方式、充满活力、清爽、现代、极简、超高细节。
+
+[English]
+Create a premium, hyper-realistic Instagram SMM poster for {argument name="brand" default="Limca"} that feels like an official Coca-Cola India × Ogilvy campaign. Avoid generic beverage ads, floating bottles, stock fitness imagery, excessive splashes, AI artifacts, clutter, or cartoonish elements.
+
+Concept: Capture the authentic moment of refreshment after effort. A young Indian adult has just finished {argument name="activity" default="running, cycling, playing cricket, basketball, or walking"} through intense summer heat. They twist open an ice-cold Limca bottle, with condensation, carbonation, and subtle mist emphasizing the instant feeling of relief and revitalization.
+
+Setting: A warm Indian urban environment such as a running track, cricket ground, basketball court, rooftop, or city street during golden summer light. Contrast the hot surroundings with the icy freshness of the drink.
+
+Composition (4:5 | 1080×1350):
+• 40% human action
+• 35% Limca product hero
+• 15% environment
+• 10% typography & CTA
+
+Show the Limca bottle with crystal-clear branding, realistic condensation, chilled glass, micro bubbles, and premium beverage photography lighting. Include subtle lime accents, clean editorial motion graphics, and minimal freshness overlays.
+
+Color palette: Lime Green, Lemon Yellow, Crisp White with Cool Mint and Soft Silver accents.
+
+Headline: **{argument name="headline" default="FEEL THE ZING"}** (large bold editorial sans-serif)
+CTA: **Refresh Now**
+
+Lighting: Luxury commercial beverage lighting with warm sunlight, bright backlight, clean rim light, cold specular highlights, and natural shadows.
+
+Style: Behance-featured quality, Coca-Cola India commercial, premium editorial advertising, hyper-realistic photography, authentic Indian lifestyle, energetic, refreshing, modern, minimal, ultra-detailed.
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2075083065127571574) | 2026-07-09
+
+---
+
+### 🎴 例 3626：未来感编辑海报设计
+
+![未来感编辑海报设计](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+概念性未来感编辑海报设计，主体为 {argument name="subject" default="[HUMAN]"} 的大型侧面肖像，身着 {argument name="outfit" default="[CLOTHING]"}，采用时髦的现代时尚造型，干净的摄影棚灯光，白色背景搭配醒目的 {argument name="primary color" default="[COLOR1]"} 图形形状，精致的 [COLOR2] 电路状线条图，以及微妙的 [COLOR3] 界面点缀。顶部显著位置放置大写标题 "[TITLE]"，下方有一段简短的编辑文本 "[TEXT]"，现代实验性排版，非对称杂志布局，锐利的高对比度构图，高级平面设计美学，4:5 纵横比。
+
+[English]
+Conceptual futuristic editorial poster design featuring {argument name="subject" default="[HUMAN]"} in a large side-profile portrait, wearing {argument name="outfit" default="[CLOTHING]"}, sleek contemporary fashion styling, clean studio lighting, white background with bold {argument name="primary color" default="[COLOR1]"} graphic shapes, fine [COLOR2] circuit-like line diagrams, and subtle [COLOR3] interface accents. Large uppercase title "[TITLE]" placed prominently at the top, a short block of small editorial text reading "[TEXT]", modern experimental typography, asymmetrical magazine layout, sharp high-contrast composition, premium graphic design aesthetic, 4:5 aspect ratio.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2075055474861555843) | 2026-07-09
+
+---
+
+### 🎴 例 3628：史诗级曹操剪影海报
+
+![史诗级曹操剪影海报](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9B%B9%E6%93%8D%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="曹操"} 创作一张史诗叙事类收藏海报，风格设定为宏大的历史概念肖像。主体构图为一位中年中国军阀向左的巨大侧脸剪影，拥有挺拔的鼻梁、胡须、短须、束起的深色长发，以及庄重且充满战略家气质的神情。在剪影内部，构建一个受三国启发的完整世界，以视觉化方式讲述他的传奇。
+
+画布：暖象牙色羊皮纸上的 3:4 竖版海报，留有柔和的空白边缘，博物馆级奇幻写实风格，电影感黄金时刻光影，云雾与水墨氛围，无现代物品。
+
+布局：将巨大的侧脸头部与肩部置于画布右侧三分之二处，面向左侧。在左侧边缘，添加巨大的竖排金色书法，内容为 {argument name="main title text" default="曹操"}。在其下方，添加 4 行较小的黑色竖排中文字符：1) {argument name="line one text" default="乌"}，2) {argument name="line two text" default="鹊南飞"}，3) {argument name="line three text" default="月明星稀"}，4) 一行延续风格的竖排小字诗句。在左下角，添加一个小型黑色书法印章式字符，内容为 {argument name="seal text" default="魏"}。
+
+剪影内部的世界元素，精确的数量与位置：1) 头部上方附近有一个金色的太阳或月亮光晕；2) 旁边有三只黑色小鸟飞过；3) 头骨顶部有一座宏伟的中国古代宫殿建筑群，带有层叠的塔楼屋檐；4) 头部上方有一团烟雾状的深色块，形成类似头盔的阴影；5) 头部中左侧有一道巨大的青绿色海浪正在翻涌；6) 右上方内部有一个燃烧的江边村落，伴有橙色火焰、黑色枯树、烟雾及水面反射；7) 中间有一面破损的黄色战旗，上面写着大字 {argument name="banner character" default="魏"}；8) 战旗下方站立着 7 位身着汉代深色服饰、头戴官帽的男性历史人物，排列成议事团；9) 右中背景处有一座云雾缭绕的山脉；10) 山坡上有一座木制瞭望塔；11) 瞭望塔附近的河面上漂浮着两艘小型木制战船；12) 右下肩部斜放着一把装饰华丽的刻花宝剑，带有清晰的中国风格纹饰；13) 剑柄附近有一个小型方盒或印章盒；14) 盒子上坐着一个龟形青铜饰品；15) 肩部下方区域有 7 个大小不一的金色青铜齿轮；16) 浓郁的白蓝灰色雾气包裹着肖像底部，并逐渐淡入羊皮纸背景中。
+
+视觉风格：史诗级中国历史海报，写实数字绘画融合水彩与水墨，优雅的笔触质感，青金配色点缀橙色火焰，高细节面部刻画，大气深度，柔和的轮廓光，戏剧性且精致。剪影边界需保持清晰可辨，同时内部场景需与头发、头骨、颈部及长袍无缝融合。
+
+约束：保持图像为单张竖版海报，非漫画或信息图表。除指定的书法和象征性字符外，不得添加额外的可读文本。避免卡通风格，避免塑料感 3D 渲染，避免现代排版，避免水印或 Logo。
+
+[English]
+Goal: Create a collectible epic narrative poster for {argument name="character name" default="曹操"}, styled as a grand historical concept portrait. The main composition is a huge left-facing side-profile silhouette of a middle-aged Chinese warlord with a strong nose, mustache, short beard, tied-back dark hair, and a solemn strategic expression. Inside the silhouette, grow an entire Three Kingdoms-inspired world that visually tells his legend.
+
+Canvas: Vertical 3:4 poster on warm ivory parchment, soft empty margins, museum-quality fantasy realism, cinematic golden hour lighting, mist and ink-wash atmosphere, no modern objects.
+
+Layout: Place the giant profile head and shoulders on the right two-thirds of the canvas, facing left. On the left margin, add large vertical gold calligraphy reading {argument name="main title text" default="曹操"}. Beneath it, add exactly 4 smaller black vertical Chinese text items: 1) {argument name="line one text" default="乌"}, 2) {argument name="line two text" default="鹊南飞"}, 3) {argument name="line three text" default="月明星稀"}, 4) a continuation-style small poetic line aligned vertically. In the lower-left corner, add one small black calligraphy seal-like character reading {argument name="seal text" default="魏"}.
+
+Inner-world elements inside the silhouette, exact count and placement: 1) one golden sun or moon glow near the upper head; 2) three small black birds flying beside it; 3) one grand ancient Chinese palace complex with layered pagoda roofs across the top of the skull; 4) one smoky dark upper head mass forming a helmet-like shadow; 5) one large turquoise ocean wave breaking through the center-left of the head; 6) one burning riverside village with orange flames, black leafless trees, smoke, and reflections on water in the upper-right interior; 7) one torn yellow war banner in the middle with the large character {argument name="banner character" default="魏"}; 8) exactly seven robed historical male figures standing below the banner in dark Han-era clothing and official hats, arranged as a council group; 9) one misty mountain range in the right-center background; 10) one wooden watchtower on the mountain slope; 11) two small wooden war boats on the river near the watchtower; 12) one ornate engraved sword diagonally across the lower-right shoulder with visible Chinese-style markings; 13) one small square box or seal case near the sword hilt; 14) one turtle-like bronze ornament sitting on the box; 15) exactly seven golden bronze gears around the lower shoulder area, varying in size; 16) dense white and blue-gray fog wrapping the bottom of the portrait and fading into the parchment.
+
+Visual style: Epic historical Chinese poster, realistic digital painting blended with watercolor and ink, elegant brush textures, teal-and-gold palette with orange fire accents, high-detail face rendering, atmospheric depth, soft rim light, dramatic but refined. The silhouette boundary should remain readable while the inner scenes blend seamlessly into hair, skull, neck, and robe.
+
+Constraints: Keep the image as a single vertical poster, not a comic or infographic. Do not add extra readable text beyond the specified calligraphy and symbolic characters. Avoid cartoon style, avoid plastic 3D rendering, avoid modern typography, avoid watermark or logo.
+```
+
+**来源：** [@Coolbat](https://x.com/coolbat1999/status/2075053094791172405) | 2026-07-09
+
+---
+
+### 🎴 例 3633：蓝色史莱姆冒险者动漫海报
+
+![蓝色史莱姆冒险者动漫海报](../../images/%E8%93%9D%E8%89%B2%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%86%92%E9%99%A9%E8%80%85%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满活力的竖版动漫奇幻插画，主角为 {argument name="character name" default="一位开朗的蓝发史莱姆主题冒险少女"}，周围环绕着可爱的怪物吉祥物和爆发性的水系魔法特效。
+
+画布：竖构图，全彩高细节插画，背景以白色为主，呈现出精致的日本游戏/动漫海报质感。构图紧凑、充满活力且具有庆典氛围，使用深钴蓝色、青绿色、白色、金色以及少量的黄橙色作为点缀。
+
+主体：角色居中，从大腿以上入画，身体略微侧向左侧，脸部转向观众。她拥有蓬松卷曲的 {argument name="hair color" default="青蓝色"} 卷发，大而明亮的蓝色眼睛，长睫毛，戴着蓝色小耳环，表情俏皮：一只手拉下眼睑，舌头微微吐出。额头佩戴金色额饰，中心镶嵌一颗大蓝色宝石。她身穿白色束腰外衣，外搭层叠的宝蓝色冒险者服装，配有蓝色围巾/披风，抬起的手上戴着蓝色露指手套或护腕，带有金色饰边的蓝色臂甲，皮带和背带，以及细节丰富的奇幻冒险者装束，包含缝线、搭扣和金属装饰。
+
+武器：背部斜挎 1 把超大号长剑，从左下向左上方延伸。长剑应配有银色长刃、华丽的机械感护手、皮革包裹的握把、蓝色剑柄、金色饰边、铆钉，以及剑柄末端的一颗大蓝色宝石。
+
+吉祥物与生物：周围包含 8 个可爱的怪物吉祥物，均采用类似《勇者斗恶龙》风格的史莱姆与魔法造型：左上方 1 个戴着黄色王冠的蓝色水母状史莱姆，上方中心附近 1 个深蓝色新月/鲸鱼状生物，顶部中心附近 1 个带有圆眼睛和蓝色舌头的黑色墨迹状生物，右上角 1 个从尖锐蓝色星芒中迸发出的圆形深蓝色蝙蝠翼史莱姆，中右侧 1 个带有小闪电的蓬松蓝色云朵生物，左下角 1 个面带微笑的淡蓝色经典水滴状史莱姆，左下角 1 个小型黑色墨迹状生物，以及右下角 1 个正在眨眼并吐舌头的橙黄色尖刺太阳生物。
+
+特效与背景：周围环绕着动态的蓝色水花、卷曲的波浪、油漆飞溅、圆点半调纹理、旋转的丝带、海军蓝与青色星形图案、细小气泡、新月形状以及散落的黄色星星。在右上角的史莱姆后方使用锐利的漫画式爆发形状，并在下半部分使用宽阔的流动水弧。背景保持以白色为主，使蓝色特效看起来清爽且具有图形感。
+
+风格：高细节现代动漫插画，干净的墨线，水彩与马克笔纹理混合数字精修，饱和的蓝色调，光泽高光，富有表现力的角色设计，充满活力的海报构图，精致的服装与武器渲染，奇幻游戏般的梦幻氛围。
+
+文字/签名：在右下角添加日期文本 {argument name="date text" default="2026 年 7 月 9 日"}，并在其下方添加优雅的草书艺术家签名 {argument name="signature text" default="Oyagi"}。
+
+约束：仅限 1 个主角，1 把长剑，8 个吉祥物。除日期和签名外，不要添加额外的角色、UI 面板、对话气泡、标志或其他可读文本。保持明亮、阳光、庆典般的氛围。
+
+[English]
+Goal: Create a vibrant vertical anime fantasy illustration of {argument name="character name" default="a cheerful blue-haired slime-themed adventurer girl"} surrounded by cute monster mascots and explosive water-magic effects.
+
+Canvas: Portrait orientation, full-color high-detail illustration on a mostly white background, like a polished Japanese game/anime poster. The composition is dense, energetic, and celebratory, using deep cobalt blue, turquoise, white, gold, and small yellow-orange accents.
+
+Main subject: Center the character from thighs up, turned slightly sideways with her body facing left and her face turned toward the viewer. She has voluminous curly {argument name="hair color" default="teal-blue"} hair with many ringlets, large bright blue eyes, long eyelashes, small blue earrings, and a playful expression: one finger pulls down the lower eyelid while her tongue sticks out slightly. Put a gold forehead circlet with a large blue gemstone at the center. She wears a white tunic under layered royal-blue adventurer clothing, a blue scarf/cape, blue fingerless glove or wrist wrap on the raised hand, gold-trimmed blue arm armor, leather belts and harness straps, and a fantasy adventurer outfit with detailed seams, buckles, and metal accents.
+
+Weapon: Place exactly 1 oversized sword strapped diagonally behind her back, running from the lower center toward the upper left. The sword should have a long silver blade, ornate mechanical-looking guard, leather-wrapped grip, blue handle, gold trim, rivets, and a large blue gem in the pommel.
+
+Mascots and creatures: Include exactly 8 cute monster mascots around her, all in a playful Dragon Quest-inspired slime-and-magic style: 1 blue jellyfish-like slime with a yellow crown at the upper left, 1 dark blue crescent moon/whale-like creature near the upper center, 1 black ink-splat creature near the top center with round eyes and a blue tongue, 1 round dark-blue bat-winged slime bursting from a sharp blue starburst at the upper right, 1 fluffy blue cloud creature at the mid-right with a small lightning bolt, 1 pale blue classic teardrop slime at the lower left with a smiling face, 1 small black ink-splat creature at the lower left, and 1 orange-yellow spiky sun creature at the lower right, winking and sticking out its tongue.
+
+Effects and background: Surround everything with dynamic blue water splashes, curling waves, paint splatters, dotted halftone textures, swirling ribbons, navy and cyan star shapes, tiny bubbles, crescent shapes, and scattered yellow stars. Use sharp comic-like burst shapes behind the upper-right slime and broad flowing water arcs across the lower half. Keep the background mostly white so the blue effects feel crisp and graphic.
+
+Style: High-detail modern anime illustration, clean ink linework, watercolor and marker texture mixed with digital polish, saturated blues, glossy highlights, expressive character design, energetic poster composition, intricate costume and weapon rendering, whimsical fantasy-game mood.
+
+Text/signature: Add small date text in the bottom right reading {argument name="date text" default="July 9, 2026"} and an elegant cursive artist signature beneath it reading {argument name="signature text" default="Oyagi"}.
+
+Constraints: Use exactly 1 main character, exactly 1 sword, and exactly 8 mascots. Do not add extra characters, UI panels, speech bubbles, logos, or additional readable text beyond the date and signature. Maintain a bright sunny celebratory mood.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2075047967019745528) | 2026-07-09
+
+---
+
+### 🎴 例 3635：奢华时尚海报拼贴
+
+![奢华时尚海报拼贴](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的人脸，实现 100% 逼真效果。
+创作一张高端电影感时尚海报拼贴，主角为参考照片中的 {argument name="subject" default="年轻南亚男性"}，确保其面部在所有肖像中高度精准、自然且一致。垂直 9:16 构图，{argument name="editorial style" default="奢华黑金编辑风格"}。
+
+为同一位男性创作三个版本：
+
+1. 左侧：一张大型戏剧性侧面特写肖像，佩戴时尚黑色长方形太阳镜，看向右侧。发型整洁的浓密黑发，修剪整齐的胡须，表情自信。
+
+2. 右侧：一张大型正面特写肖像，未佩戴太阳镜，直视镜头，带着微妙而自信的微笑。一只手放在下巴附近，展示一款高端黑色腕表。
+
+3. 中心前景：在发光的木质小径上行走的全身姿势，自信地走向镜头。他身穿带有缎面翻领的奢华黑色礼服西装外套、黑色高领衫、黑色修身长裤、黑色正装鞋、黑色太阳镜，并佩戴时尚腕表。一只手插在裤兜里，另一只手正在整理西装外套。
+
+背景：白色和浅灰色摄影棚背景，带有戏剧性的黑色墨迹飞溅、画笔笔触、烟雾纹理、白色油漆喷溅，中心人物后方有金色光芒，电影级轮廓光，奢华杂志封面风格。底部添加微妙的金色火花和发光的小径透视效果。
+
+超逼真面部，真实的皮肤纹理，利落的发型，专业单反摄影，高对比度，{argument name="color palette" default="黑、白、金配色方案"}，戏剧性灯光，时尚编辑海报，8K，HDR，高细节，无文字，无标志，无水印。
+
+[English]
+Using uploaded face 100% realistic. Create a high-end cinematic fashion poster collage featuring the same {argument name="subject" default="young South Asian man"} from the reference photo, keeping his face highly accurate, natural, and consistent across all portraits. Vertical 9:16 composition, {argument name="style" default="luxury black-and-gold editorial style"}. Create three versions of the same man: 1. Left side: a large dramatic close-up side-profile portrait wearing stylish black rectangular sunglasses, looking toward the right. Neatly styled thick black hair, trimmed beard and mustache, confident expression. 2. Right side: a large close-up front-facing portrait without sunglasses, looking directly at the camera with a subtle confident smile. One hand resting near the chin, showing a premium black wristwatch. 3. Center foreground: full-body walking pose on a glowing wooden pathway, walking confidently toward the camera. He is wearing a luxury black tuxedo blazer with satin lapels, black turtleneck shirt, black fitted trousers, black formal shoes, black sunglasses, and a stylish wristwatch. One hand in trouser pocket and the other hand adjusting the blazer. Background: {argument name="background" default="white and light gray studio backdrop"} with dramatic black ink splashes, paint brush strokes, smoky textures, white paint splatters, golden glowing light behind the center figure, cinematic rim light, luxury magazine cover style. Add subtle golden sparks and a glowing pathway perspective at the bottom. Ultra-realistic face, realistic skin texture, sharp hairstyle, professional DSLR photography, high contrast, black, white and gold color palette, dramatic lighting, fashion editorial poster, 8K, HDR, highly detailed, no text, no logo, no watermark.
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2075045041287168048) | 2026-07-09
+
+---
+
+### 🎴 例 3641：怪兽过山车海报
+
+![怪兽过山车海报](../../images/%E6%80%AA%E5%85%BD%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的日本主题乐园广告海报，宣传一款名为 {argument name="ride name" default="G-スプラッシュ"} 的怪兽对战过山车。副标题为「〜大地を揺るがす、3大怪獣の咆哮〜」，顶部小标语为「絶叫！怪獣激突コースター」。
+
+画布：16:9 宽屏电影海报，深色高对比度奇幻灾难光效，暴风雨般的紫黑色天空伴有闪电，下方为炽热熔岩，橙色与青色光效，构图紧凑且充满动感。
+
+主场景：一座巨大的过山车穿梭于火山怪兽岛屿之间。画面中心展示 2 只占据主导地位的巨型怪兽：1) 左侧是一只岩石般的哥斯拉式熔岩怪兽，身体布满发光的橙色裂纹，双眼燃烧，头部有角且覆盖装甲，张开大嘴咆哮，体内透出熔岩光芒；2) 右侧是一只黑色生物机械海蛇/龙形怪兽，身上有明亮的青色发光电路条纹，张开巨口露出白色獠牙，双眼闪烁蓝光，长有卷曲的角状触手。过山车轨道在两只怪兽之间及周围穿梭，多列过山车上坐满了尖叫的乘客。添加锯齿状废墟、钢结构支撑、中央堡垒中发光的蓝色能量核心入口、熔岩河、烟雾、火花和闪电。
+
+布局：采用信息密集型主题乐园宣传册布局。左上角放置巨大的日文毛笔字标题，米白色字体配红色阴影和黑色喷溅笔触。边缘处添加 6 个带编号的功能亮点面板，每个面板带有橙色边框、圆形金色数字徽章、日文标题、1–2 行简短的日文描述以及一张小插图。面板编号及内容如下：1 「怪獣激突ゾーン」展示过山车在两只怪兽之间疾驰；2 「頭部トンネル」展示列车冲入熔岩怪兽张开的大嘴；3 「背中ライド」展示列车沿火怪兽背部攀升；4 「エネルギーコア突入」展示列车进入明亮的蓝色圆形能量隧道；5 「尻尾スラローム」展示列车绕过巨大的摆动怪兽尾巴；6 「最終決戦ダイブ」展示在怪兽激战间隙的最终俯冲。
+
+底部信息栏：底部居中放置一块红棕色金属铭牌，标题为「3大怪獣が支配する、最恐ライド！」。下方包含 4 个数据框：「ライドタイプ」对应「スリルコースター」，「最高速度」对应「約120km/h」，「コース全長」对应「約1,500m」，以及「乗車時間」对应「約2分30秒」。右下角放置一个火红色的乐园标志，文字为 {argument name="park logo text" default="怪獣パニックアイランド"}，下方附带小型英文文本「KAIJU PANIC ISLAND」。
+
+视觉风格：超精细 AI 概念艺术，电影级主视觉图，日本游乐园海报，写实怪兽，动态视角，戏剧性轮廓光，过山车列车带有动态模糊，火花与余烬，清晰易读的排版，金橙色面板边框，深色奇幻灾难色调，点缀熔岩橙与电光青。
+
+约束条件：必须包含 6 个带编号的亮点面板和 4 个底部数据框。所有日文文本需确保清晰可读。严禁添加额外的标志、水印、二维码或无关字符。
+
+[English]
+Goal: Create a dramatic Japanese theme-park attraction poster for a kaiju roller coaster named {argument name="ride name" default="G-Rush"}, showing a high-speed steel coaster weaving through a volcanic monster battlefield dominated by three giant beasts.
+
+Canvas: Wide 16:9 promotional key visual, cinematic dark fantasy theme-park advertising style, ultra-detailed digital painting, high contrast, stormy purple-black sky, lightning, lava glow, metallic rails, crowded coaster trains, dramatic perspective, no empty space.
+
+Main visual: In the center, a sprawling black roller coaster twists through jagged ruins and lava rivers. Show exactly 3 huge kaiju controlling the scene: 1) a charcoal-gray rocky Godzilla-like beast on the left with glowing orange lava cracks, fiery eyes, horns, open roaring mouth, and claws gripping near the track; 2) a towering biomechanical serpent/dragon on the right with segmented black armor, cyan glowing energy lines, blue eyes, curled horns, and a circular glowing energy core in its body; 3) another horned monster implied in the lower-right finale panel. Multiple coaster trains packed with tiny riders race along the rails, diving into monster mouths, spiraling around bodies, climbing over burning backs, and plunging through tunnels.
+
+Typography: Large aggressive Japanese title at top left with brush-stroke texture and red slash accents: 「絶叫！怪獣激突コースター」 above the huge logo 「{argument name="main logo text" default="G-ラッシュ"}」. Add subtitle beneath: 「〜大地を揺るがす、3大怪獣の咆哮〜」. Use distressed cream, orange, and red lettering with black shadows, like a Japanese amusement-park thrill ride advertisement.
+
+Layout: Build an information-dense attraction poster with a central hero illustration and exactly 6 numbered feature panels around the edges, each with a gold number badge, Japanese heading, two short Japanese description lines, and a small inset action image framed by thin orange-gold borders. Place panels 1–3 stacked vertically on the left and panels 4–6 stacked vertically on the right.
+
+Six feature panels, exact count and labels:
+1. 「怪獣激突ゾーン」 — inset shows the coaster rushing between the orange lava monster and blue cyber serpent during lightning.
+2. 「頭部トンネル」 — inset shows riders diving into a monster’s open mouth tunnel with teeth around the track.
+3. 「背中ライド」 — inset shows the coaster climbing along the burning rocky back of the lava kaiju.
+4. 「エネルギーコア突入」 — inset shows the train entering a bright cyan circular energy core tunnel.
+5. 「尻尾スラローム」 — inset shows the coaster weaving left and right around the serpent’s huge tail.
+6. 「最終決戦ダイブ」 — inset shows the final dive between battling monsters over lava.
+
+Bottom information bar: Across the bottom center, add a dark metallic plaque with glowing orange edges. Large Japanese headline: 「3大怪獣が支配する、最恐ライド！」. Beneath it include exactly 4 stats columns: 「ライドタイプ」 with 「スリルコースター」, 「最高速度」 with 「約{argument name="top speed" default="120km/h"}」, 「コース全長」 with 「約{argument name="track length" default="1,500m"}」, and 「乗車時間」 with 「約{argument name="ride duration" default="2分30秒"}」.
+
+Branding: Bottom right corner includes a smaller attraction logo reading 「怪獣パニックアイランド」 with English subtext “KAIJU PANIC ISLAND,” styled in yellow-orange Japanese lettering with a black outline.
+
+Visual constraints: Keep the image as a polished fictional amusement-park poster, not a real photograph. Make the Japanese text bold and legible where possible. Use orange lava lighting on the left and cyan energy lighting on the right. Include no watermark, no QR code, no real company logos, and no extra feature panels beyond the exact six listed.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2075014067388117260) | 2026-07-09
+
+---
+
+### 🎴 例 3642：治愈系“早安杭州”海报
+
+![治愈系“早安杭州”海报](../../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E2%80%9C%E6%97%A9%E5%AE%89%E6%9D%AD%E5%B7%9E%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="杭州"} 创作一张平静、治愈的扁平化风格早安海报，采用超大中文字体标题和精致可爱的风景插画，在简洁有序与柔和情感之间取得平衡。
+
+画布：16:9 宽屏横向海报，暖象牙色背景，配色采用荷花粉、玉石绿、薄荷色、奶油色及柔和的湖蓝色。使用简洁的现代编辑排版，留白充裕，避免写实摄影风格。
+
+布局：在顶部放置超大中文标题，内容为 {argument name="headline text" default="早安 杭州"}；左侧前两个字使用明亮的荷花粉色，右侧后两个字使用深玉石绿色。标题应占据画面主体，采用块状几何中文字体，边缘清晰且略带柔和感。构图中心为一个巨大的淡白色太阳或月亮圆盘，圆盘前方是西湖中升起的一座微型可爱地标插画。
+
+左侧信息块：在粉色标题下方，添加绿色的小号间距英文文本：第一行“GOOD MORNING”，下方“HANGZHOU”。添加一条细横线，右端带有一个小巧的粉色荷花图标。下方添加一个圆角绿色日期胶囊，内容为 {argument name="date text" default="2026.07.09 THU"}。日期下方显示一行天气信息，包含一个小粉色太阳图标和中文文本“天气：晴热， 24–38°C”。
+
+右侧信息块：在绿色标题下方，创建 3 行堆叠的每日便签，右对齐于中央圆盘。第 1 行包含一个粉色圆形引用图标和文本“金句： 心里有风景，赶路也会变温柔。”第 2 行包含一个绿色圆形对勾图标和文本“今日宜： 慢慢生活｜记得防暑”。第 3 行包含一个粉色圆形 X 图标和文本“今日忌： 心急上火｜忘记休息”。行间使用细淡绿色分割线，右上角附近添加一个小巧的装饰性粉色线条花纹。
+
+中央插画：在底部中心，绘制一个漂浮在湖面上的微型可爱宝塔状杭州地标角色，带有笑脸、红晕、奶油色身体、绿色多层屋顶、小窗户和一个小桃子尖顶。将其放置在巨大的白色圆盘前方，使其显得小巧且充满温情。
+
+景观细节：底部展示扁平化柔和色调的西湖，包括柔和的绿色连绵山丘、远处隐约的宝塔剪影、右侧地平线上的小桥、平缓的横向水面反射以及睡莲。包含 2 组大型荷花/荷叶簇：左下角为一大簇粉色荷花与荷叶，右下角为一大簇绿色荷叶与一个小粉色花苞。湖面上散布着睡莲，中右下方湖面点缀一朵小粉色荷花。
+
+视觉风格：扁平矢量插画，中国治愈系美学海报，简洁有序，可爱而不幼稚，柔和渐变，圆润形状，空气感间距，极简阴影，高可读性，大字号搭配小插画。避免杂乱，避免写实，避免多余的 Logo 或水印。
+
+[English]
+Goal: Create a calm, healing flat-design morning poster for {argument name="city name" default="Hangzhou"} with huge Chinese headline typography and a small cute scenic illustration, balancing clean order with soft emotion.
+
+Canvas: Wide 16:9 horizontal poster, warm ivory background, pastel palette of lotus pink, jade green, mint, cream, and soft lake blue. Use a clean modern editorial layout with generous negative space and no photo realism.
+
+Layout: Place an oversized Chinese headline across the top, reading {argument name="headline text" default="早安 杭州"}; make the first two characters in bright lotus pink on the left and the last two characters in deep jade green on the right. The headline should dominate the image, with blocky geometric Chinese characters, crisp edges, and slight softness. Center the composition around a large pale white sun or moon disk behind a tiny cute landmark illustration rising from West Lake.
+
+Left information block: Under the pink headline, add small spaced English text in green: “GOOD MORNING” on one line and “HANGZHOU” beneath it. Add a thin horizontal divider with a small pink lotus icon at the right end. Below it, add a rounded green date pill reading {argument name="date text" default="2026.07.09 THU"}. Below the date, show one weather row with a small pink sun icon and the Chinese text “天气：晴热， 24–38°C”.
+
+Right information block: Under the green headline, create exactly 3 stacked daily-note rows, aligned right of the central sun disk. Row 1 has a pink circular quote icon and text “金句： 心里有风景，赶路也会变温柔。” Row 2 has a green circular checkmark icon and text “今日宜： 慢慢生活｜记得防暑”. Row 3 has a pink circular X icon and text “今日忌： 心急上火｜忘记休息”. Use thin pale green divider lines between rows and a small decorative pink line flourish near the upper right.
+
+Central illustration: In the lower center, draw a tiny adorable pagoda-like Hangzhou landmark character floating on the lake, with a smiling face, rosy cheeks, cream body, green tiered roof, tiny windows, and a small peach finial. Place it in front of the large white disk so it feels small and emotionally tender.
+
+Landscape details: Along the bottom, show West Lake in flat pastel layers with soft green rolling hills, faint distant pagoda silhouette, a small bridge on the right horizon, gentle horizontal water reflections, and lily pads. Include exactly 2 large lotus/leaf clusters: one large pink lotus flower cluster at bottom left with lotus leaves and one large green lotus leaf cluster at bottom right with a small pink bud. Add scattered lily pads and one small pink lotus blossom on the lake near the lower middle-right.
+
+Visual style: Flat vector illustration, Chinese healing-aesthetic poster, clean and orderly, cute but not childish, soft gradients, rounded shapes, airy spacing, minimal shadows, high legibility, large type with small illustration. Avoid clutter, avoid photorealism, avoid extra logos or watermarks.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2075012310209622039) | 2026-07-09
+
+---
+

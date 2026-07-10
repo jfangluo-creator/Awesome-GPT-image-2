@@ -2834,3 +2834,121 @@ A premium infographic-style advertisement featuring an oversized {argument name=
 
 ---
 
+### 📊 例 3589：九款模型稻草人妖怪对比
+
+![九款模型稻草人妖怪对比](../../images/%E4%B9%9D%E6%AC%BE%E6%A8%A1%E5%9E%8B%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%A6%96%E6%80%AA%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 3x3 对比图表，展示九种不同的 AI 图像模型针对同一角色概念的输出结果：一个全身日本稻草人妖怪战士，佩戴狐狸或鬼怪风格面具，正面站立，双臂水平伸展在木横梁上，呈现稻草人姿态。
+
+画布：竖向海报，768 x 1152 宽高比，温暖的米白色羊皮纸背景，面板间有细窄的间隙，每个面板包含一个居中的全身角色插画，背景为浅色纸张。使用柔和的米色、稻草色、炭灰色、海军蓝和红色调。
+
+布局：排列 9 个矩形面板，组成 3 列 3 行的网格。每个面板底部边缘设有一个深色标签栏，带有加粗的白色无衬线文字；第一个标签栏为红色，以突出显示首选模型。确保所有标签清晰且左对齐。
+
+文本内容：使用以下 9 个面板标签，按从左上到右下的顺序排列：1) {argument name="highlighted model label" default="Seedream 5.0 Pro *"}, 2) Seedream V4.5, 3) Krea v2 Large (NEW), 4) Flux 2 Max, 5) Hunyuan V3, 6) Kling O3 (4K), 7) {argument name="bottom left model label" default="GPT Image 2"}, 8) Nano Banana 2, 9) Grok Imagine。
+
+主体细节：在每个面板中，描绘同一个核心主体，但渲染风格有所不同：一个由干稻草、破布和木头制成的日本丰收之灵稻草人，佩戴带有红色标记的浅色狐狸面具或鬼怪面具，身披稻草斗篷或茅草披肩，穿着深靛蓝色农民裤、绳索绑带、草鞋，配有红色绳结装饰，腰部或胸前挂着一个小黄铜铃铛。在多个变体中加入弯曲的镰刀或钩状刀片。角色应看起来像民间传说概念艺术：诡异而迷人，手工感强，饱经风霜且具有仪式感。在大多数面板中，手臂应系在或搁在水平木梁上。在脚部附近添加细微的稻草碎片、松散的纤维和淡淡的素描阴影。
+
+面板逐一变体：左上：精致的水彩概念艺术，更圆润的稻草斗篷，颜色较深的面具，腰部附近有小铃铛，腿部后方有朦胧的灰色水洗效果。中上：更干净的动漫概念渲染，橙色狐狸面具，红围巾，蓝黑色服装，稻草肩披，头部后方有木柱，右臀部挂着镰刀。右上：简化的可爱面具，宽大的稻草披风，高耸的稻草发羽，颈部有红色蝴蝶结绳，肩部可见木梁。左中：高瘦的稻草人，浅色面具，头部后方有巨大的圆形光环状稻草框，左侧有黄铜铃铛，长长的红色流苏垂下。正中：体型较粗壮，佩戴白色鬼怪面具，层叠的稻草裙，双手抓着横梁，两条弯曲的镰刀挂在红绳上。右中：更具动感的粗犷绘画版本，锐利的狐狸面具，稻草帽式兜帽，腰部有大铃铛，侧面有红色小恶魔面具挂饰，黑色灯笼裤。左下：最粗犷、质感最强的版本，深色泥泞服装，厚重的破烂稻草斗篷，阴影遮盖的面具，前方有黄铜铃铛，左下方有镰刀状刀片。中下：优雅精致的人物，带有放射状圆形稻草光环，窄狐狸面具，对称的稻草斗篷，红色颈绳，腰部有铃铛和钩子。右下：友好的玩具风格狐狸面具稻草人，紧凑的身体，整洁的稻草斗篷，头部后方有木柱，靛蓝色和服式服装和稻草护腿。
+
+视觉风格：手绘奇幻角色表对比图，日本民间传说设计，水彩和水粉质感，墨水素描点缀，高细节，温暖的羊皮纸，略带粗糙的 AI 模型对比美学。使插画密集且富有质感，可见纤维、干笔触和细微的纸张纹理。
+
+约束：不要添加额外的面板、标签、徽标、水印、标题或背景风景。保持每个角色全身且居中。确保 9 个带标签的模型面板数量准确且清晰。
+
+[English]
+Goal: Create a 3 by 3 comparison chart showing nine different AI image model outputs for the same character concept: a full-body Japanese straw scarecrow yokai warrior wearing a fox or oni-style mask, posed front-facing with arms stretched horizontally on a wooden crossbeam like a scarecrow.
+
+Canvas: Vertical poster, 768 x 1152 aspect ratio, warm off-white parchment background, thin gutters between panels, each panel containing one full-body character illustration centered on a pale paper backdrop. Use a muted beige, straw, charcoal, navy, and red color palette.
+
+Layout: Arrange exactly 9 rectangular panels in a 3-column by 3-row grid. Each panel has a dark label bar along the bottom edge with bold white sans-serif text; the first label bar is red to highlight the preferred model. Keep all labels readable and aligned left.
+
+Text content: Use exactly these 9 panel labels, in this order from top-left to bottom-right: 1) {argument name="highlighted model label" default="Seedream 5.0 Pro *"}, 2) Seedream V4.5, 3) Krea v2 Large (NEW), 4) Flux 2 Max, 5) Hunyuan V3, 6) Kling O3 (4K), 7) {argument name="bottom left model label" default="GPT Image 2"}, 8) Nano Banana 2, 9) Grok Imagine.
+
+Subject details: In every panel, depict the same core subject with variation in rendering style: a Japanese harvest-spirit scarecrow figure made of dry straw, ragged cloth, and wood, wearing a pale fox mask or demon mask with red markings, a straw cape or thatched mantle, dark indigo peasant trousers, rope bindings, sandals, a red cord accent, and a small brass bell hanging from the waist or chest. Include a curved sickle or hook-shaped blade at the side in several variations. The character should look like folklore concept art: eerie but charming, handmade, weathered, and ritualistic. The arms should be tied or resting along a horizontal wooden beam in most panels. Add subtle straw fragments, loose fibers, and small sketchy shadows near the feet.
+
+Panel-by-panel variation: Top-left: delicate watercolor concept art, rounder straw cloak, darker face mask, small bell near the waist, misty gray wash behind the legs. Top-middle: cleaner anime-concept rendering with an orange fox mask, red scarf, blue-black outfit, straw shoulder cape, wooden post behind the head, sickle at the right hip. Top-right: simplified cute mask, broad straw poncho, tall straw hair plume, red bow cord at the neck, wooden beam visible across the shoulders. Middle-left: tall thin scarecrow with a pale mask, large circular halo-like straw frame behind the head, brass bell on the left side, long dangling red tassel. Middle-center: stockier figure with a white oni mask, layered straw skirt, both hands gripping the crossbeam, two curved sickles hanging from red cords. Middle-right: more dynamic rough painted version with sharp fox mask, straw hat-like hood, large bell on the waist, red small demon mask charm at the side, black balloon trousers. Bottom-left: grittiest and most textured version, dark muddy clothing, heavy ragged straw cloak, shadowy face mask, brass bell in front, scythe-like blade at the lower left. Bottom-middle: elegant refined figure with radiant circular straw halo, narrow fox mask, symmetrical straw cape, red neck cord, bell and hook at the waist. Bottom-right: friendly toy-like fox-masked scarecrow, compact body, neat straw cloak, wooden post behind head, indigo kimono-like clothing and straw shin guards.
+
+Visual style: Hand-painted fantasy character-sheet comparison, Japanese folklore design, watercolor and gouache texture, ink sketch accents, high detail, warm parchment paper, slightly rough AI-model-comparison aesthetic. Make the illustration dense and textured, with visible fibers, dry brush marks, and subtle paper grain.
+
+Constraints: Do not add extra panels, extra labels, logos, watermarks, captions, or background scenery. Keep every character full-body and centered. Ensure the exact count of 9 labeled model panels is clear.
+```
+
+**来源：** [@Ryo@AI動画×AIツール紹介](https://x.com/ryo05m/status/2075189442206462273) | 2026-07-09
+
+---
+
+### 📊 例 3596：手绘风西红柿炒鸡蛋食谱信息图
+
+![手绘风西红柿炒鸡蛋食谱信息图](../../images/%E6%89%8B%E7%BB%98%E9%A3%8E%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B%E9%A3%9F%E8%B0%B1%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张可爱的打开式笔记本风格手绘中文食谱信息图，教授如何制作 {argument name="dish name" default="西红柿鸡蛋"}。
+
+画布：16:9 宽屏横向构图，呈现为米色网格笔记本的双页展开效果，页面边角圆润，带有淡淡的米色网格线、柔和的铅笔轮廓以及温暖的水彩质感。
+
+布局：左上角书写醒目的手写中文标题“如何制作西红柿鸡蛋”，下方配有淡黄色荧光笔划线。上方中部横向排列 6 张贴有胶带的配料便签，从左至右依次为：1) 红色便签，标注“西红柿”并绘有西红柿；2) 黄色便签，标注“鸡蛋”并绘有两个鸡蛋及回形针；3) 绿色便签，标注“葱”并绘有小葱；4) 蓝色便签，标注“油”并绘有小油瓶；5) 紫色便签，标注“盐”并绘有盐罐；6) 粉色便签，标注“糖”并绘有糖罐。右上角展示放置在木托盘上白色餐盘里的成品西红柿炒鸡蛋，配有一小碗葱花、一把勺子、闪光点、一颗红心，以及手写文字“酸甜可口！”。
+
+食谱步骤：下半部分放置 5 张由蓝色箭头连接的撕纸风格食谱卡片。卡片 1 带有红色边框，标注“1. 切”，展示砧板上的西红柿切片、菜刀及一小碗葱花。卡片 2 带有黄色边框，标注“2. 炒鸡蛋”，展示黑色平底锅中橙色小火烹饪的炒蛋。卡片 3 带有绿色边框，标注“3. 炒西红柿”，展示平底锅中烹饪的西红柿切片。卡片 4 带有蓝色边框，标注“4. 混合”，展示锅中混合在一起的西红柿与鸡蛋。卡片 5 带有粉色边框，标注“5. 调味”，展示锅中成品，上方有两把小勺，并配有一个带有绿色对勾的圆形标签，写着“完成！”。
+
+装饰细节：左侧第一张步骤卡片旁添加一个拿着教鞭、探出头来的可爱卡通女孩。左侧边缘放置盆栽，散落的葱花、小爱心、闪光点，右下角放置一把木勺，左下角放置一个小碗和勺子。底部中心书写手写标语“美味家常菜，简单又健康！”，并配以红心和叶片装饰。
+
+视觉风格：柔和的淡彩水彩风、彩色铅笔素描线条、卡哇伊烹饪插画、剪贴簿拼贴美学、便签上的美纹纸胶带、轻微阴影、温馨的家常感、清晰易读的中文手写字体。
+
+约束条件：必须包含 6 张配料便签和 5 张步骤卡片；所有中文文本需清晰可辨且位于指定位置；禁止写实风格，禁止增加额外食谱步骤，禁止添加水印或 Logo。
+
+[English]
+Goal: Create a cute hand-drawn Chinese recipe infographic in an open notebook, teaching how to make {argument name="dish name" default="西红柿鸡蛋"}.
+
+Canvas: Wide 16:9 horizontal composition, like a two-page spread of a cream-colored grid-paper notebook with rounded page corners, faint beige graph lines, soft pencil outlines, and a warm watercolor texture.
+
+Layout: At the top left, write the large handwritten Chinese title “如何制作西红柿鸡蛋” with a pale yellow highlighter stroke underneath. Across the upper middle are exactly 6 taped ingredient sticky notes, left to right: 1) red note labeled “西红柿” with a tomato drawing, 2) yellow note labeled “鸡蛋” with two eggs and a paperclip, 3) green note labeled “葱” with green onions, 4) blue note labeled “油” with a small oil bottle, 5) purple note labeled “盐” with a salt shaker, 6) pink note labeled “糖” with a sugar jar. In the upper right, show the finished tomato-and-egg dish on a white plate on a wooden tray, with a small bowl of chopped scallions, a spoon, sparkles, a red heart, and handwritten text “酸甜可口！”.
+
+Recipe steps: Along the lower half, place exactly 5 torn-paper recipe cards connected by blue arrow lines. Card 1 has a red border and label “1. 切”, showing sliced tomatoes on a cutting board, a cleaver, and a small bowl of chopped scallions. Card 2 has a yellow border and label “2. 炒鸡蛋”, showing scrambled eggs in a black frying pan over small orange flames. Card 3 has a green border and label “3. 炒西红柿”, showing tomato slices cooking in a frying pan. Card 4 has a blue border and label “4. 混合”, showing tomatoes and eggs mixed together in the pan. Card 5 has a pink border and label “5. 调味”, showing the finished mixture in the pan, two small spoons above it, and a rounded label with a green check mark reading “完成!”.
+
+Decorative details: Add a small smiling cartoon girl peeking from the left side near the first step card, holding a pointer. Add potted plants on the far left margin, scattered chopped scallions, tiny hearts, sparkles, a wooden spoon on the lower right, and a small bowl with spoon on the lower left. At the bottom center, write the handwritten slogan “美味家常菜，简单又健康！” with red hearts and leafy flourishes.
+
+Visual style: Soft pastel watercolor, colored pencil sketch lines, kawaii cooking illustration, scrapbook collage aesthetic, masking tape on the notes, light shadows, cozy homemade feel, neat legible Chinese handwriting.
+
+Constraints: Use exactly 6 ingredient notes and exactly 5 step cards; keep all Chinese text legible and in the positions described; no photorealism, no extra recipe steps, no watermark, no logo.
+```
+
+**来源：** [@Gorden Sun](https://x.com/Gorden_Sun/status/2075170266318320065) | 2026-07-09
+
+---
+
+### 📊 例 3627：X 时间线突破数字艺术
+
+![X 时间线突破数字艺术](../../images/X%20%E6%97%B6%E9%97%B4%E7%BA%BF%E7%AA%81%E7%A0%B4%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+{argument name="参照アバター" default="[人物像]"} = [参照アバター]
+[入力項目]
+{argument name="画像比率" default="1:1"} = 1:1 / 4:5 / 9:16
+{XユーザーID} = @your_account
+{argument name="メイン文字" default="BREAK THE TIMELINE"} = BREAK THE TIMELINE
+
+[本文]
+{参照アバター}を同一キャラクターとして使用する。顔立ち、髪型、髪色、体型、衣装、色、雰囲気を維持し、別人化させない。表情は笑顔ではなく、口角を上げず、唇を固く結び、眉をわずかに寄せた、鋭く反抗的で覚悟のある表情にする。
+{画像比率}のシネマティックなデジタルアート。背景は明るい白を基調としたXのライトモード風タイムラインUI。スマホ本体ではなく、UI画面そのものがキャンバス全面にフルブリードで広がっている。外側のスマホ枠、黒いベゼル、端末の縁は表示しない。
+上部には白いヘッダー、中央の黒いXマーク、2タブ構成のナビゲーション。背景には投稿カード、プロフィール丸アイコン、返信・リポスト・いいね・表示数・共有アイコンが並び、洗練されたミニマルなXタイムラインとして見える。投稿文は薄いグレーのダミーテキストラインで処理し、目立つ投稿カードまたはプロフィール行に「{XユーザーID}」だけを鮮明に表示する。
+{参照アバター}がXのタイムライン画面を内側から物理的に殴り破り、割れた透明スクリーンとUIレイヤーを突き破って前方へ飛び出してくる。片拳をカメラ方向へ強く突き出し、もう片方の腕を後ろに引き、上半身をひねった躍動感のある破壊ポーズ。拳, 肩, 髪, 衣装に強い動きを出し、突破する瞬間の緊張感と迫力を強調する。
+タイムラインそのものが破壊されている。投稿カードは亀裂で分断され、各UIアイコンは割れ目に沿って歪み、白いUIパネルが薄いレイヤーとして剥がれて奥行き方向に飛散している。透明なガラス破片、白いUI破片、細い光の亀裂、衝撃波がカメラに向かって飛び散る。ただしアバターの顔は明瞭に見える。
+画面前面の中央から下部寄りに「{メイン文字}」を大きく配置する。単なる文字ではなく、高級広告ポスターのメインタイトルロゴとしてデザインする。極太のコンデンスドサンセリフ、Druk、Bebas Neue、Anton、DIN Condensedのような縦長で力強い広告フォント風。白〜シルバーの立体的なベベル、黒いインナーシャドウ、薄いグレーのドロップシャドウ、シャープなエッジ、ガラス状の亀裂、透明破片、リムライト、わずかな衝撃波の歪みを加える。文字は正確につづられ、鮮明で読みやすく、UIや破片に埋もれない。
+全体は明るくクリーンなライティング。白、黒、ライトグレー、シルバーを基調に、控えめなブルーまたはシアンのアクセントを加える。高級感のあるシネマティック広告ビジュアル、シャープなディテール、奥行きのあるダイナミック構図。参照アバターのデザイン性を保ちながら、立体感と迫力のあるハイクオリティな仕上げにする。
+
+[禁止事項]
+笑顔、楽しそうな表情、かわいいアイドル風、別人化、衣装変更、複数キャラクター、人体・手指破綻、顔が隠れる、X以外のSNS UI、Instagram風、TikTok風、YouTube風、Facebook風、青いTwitter鳥ロゴ、スマホ端末本体、黒ベゼル、黒枠、暗い背景、安っぽい文字、丸文字、ポップ文字、エフェクトなしの文字、文字化け、スペルミス、余計な文字、指定ID以外のアカウント名、破壊感不足、ガラス破片なし、UI破壊なし、平面的、低品質、ぼやけ、血、傷、ホラー表現
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2075053578738131137) | 2026-07-09
+
+---
+

@@ -1788,3 +1788,115 @@ Create a vertical 9:16 premium anime-style illustration in bright summer dayligh
 
 ---
 
+### 🏛️ 例 3580：日落时分的程序员卧室工作室
+
+![日落时分的程序员卧室工作室](../../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%A7%E5%AE%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的水彩墨水插画，描绘日落时分凌乱的程序员卧室工作室，视角从室内望向巨大的落地窗。画面外是温暖的橙色城市天际线和高速公路车流，太阳低垂在高楼大厦之间，投下长长的光影。室内空间显得局促、充满生活气息且杂乱：左侧是一张未整理的床，铺着褶皱的蓝灰色条纹床品，床头柜上放着书和台灯，墙上挂着装饰画，架子上摆满了书籍和杂物，悬挂着绿植，木地板上散落着报纸。前景中央放置一把黑色网面办公椅，正对着一张大木桌。在桌子右侧放置 2 台显示器，屏幕上显示着密集的编程代码，较大的显示器位于最右侧，较小的显示器位于其后方靠近窗户的位置。添加 2 个大型黑色录音室音箱，一个靠近显示器，另一个在最右侧非常显眼，此外还有一盏照亮工作区的暖色调可调节台灯。桌面上摆满开发者的杂物：机械键盘、线缆、笔筒、笔记本、外卖盒、揉皱的纸团、咖啡杯、小型电子设备、工具和耳机。右上方的墙壁上挤满了书架。采用电影般的黄金时刻光影，深邃的阴影，琥珀色的高光，流露出都市忧郁感，笔触生动，纸张边缘粗糙，水彩晕染清晰可见，墨线细腻，高细节，画面中无人，无清晰可见的品牌名称，无水印。
+
+[English]
+Create a highly detailed watercolor-and-ink illustration of a messy programmer’s bedroom studio at sunset, viewed from inside the room toward a huge floor-to-ceiling window. The scene shows a warm orange city skyline and highway traffic outside, with the sun low between high-rise buildings and long glowing reflections. Inside, make the room cramped, lived-in, and cluttered: an unmade bed on the left with rumpled blue-gray striped bedding, a small bedside table with books and a lamp, framed wall art, shelves with books and storage, hanging plants, and scattered newspapers on the wooden floor. In the center foreground place a black mesh office chair facing a large wooden desk. On the right side of the desk include exactly 2 computer monitors showing dense programming code, with the larger monitor angled on the far right and the smaller monitor behind it near the window. Add exactly 2 large black studio speakers, one near the monitors and one prominent at the far right, plus a warm articulated desk lamp shining on the workspace. Cover the desk with developer clutter: a mechanical keyboard, cables, pens in a cup, notebooks, takeaway food containers, crumpled paper, a coffee mug, small electronics, tools, and headphones. Fill the upper right wall with crowded bookshelves. Use cinematic golden-hour lighting, deep shadows, amber highlights, urban melancholy, expressive brush texture, rough paper edges, visible watercolor washes, fine ink linework, high detail, no people, no readable brand names, no watermark.
+```
+
+**来源：** [@老范讲故事🎙️](https://x.com/lukfan/status/2075219606617346357) | 2026-07-09
+
+---
+
+### 🏛️ 例 3590：沙漠星光飞机咖啡馆
+
+![沙漠星光飞机咖啡馆](../../images/%E6%B2%99%E6%BC%A0%E6%98%9F%E5%85%89%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅细节丰富的奇幻动漫插画，描绘在《西游记》风格旅途中的沙漠星光咖啡馆，在浩瀚银河天空下营造出温馨的魔法氛围。
+
+画布：竖构图 4:5 插画，高分辨率，超精细，温暖的灯笼光与深蓝紫色的夜空形成对比。场景设定在黄昏至夜晚的沙漠绿洲式路边咖啡馆。
+
+主要场景：一架复古螺旋桨飞机被改造成了一个小型露天咖啡馆。机身在左侧构成店面主体，长长的机翼向右上角延伸，像遮阳棚一样覆盖。飞机是带有铆钉的奶油色金属材质，上面爬满了藤蔓、花朵和小型植物。在机翼下悬挂发光的灯笼和串灯。增加一块从机翼垂下的半透明金色绸缎，在风中轻轻飘动。背景展示平顶山、仙人掌、沙漠灌木、地平线上温暖的夕阳余晖，以及布满繁星的巨大天空，伴有明亮的银河带和一颗流星。
+
+角色及精确数量：包含 6 个角色人物和 1 只猫。1) {argument name="monk character" default="一位美丽的唐僧"}：优雅地坐在咖啡吧台的高木凳上，身穿华丽的红金白相间佛教风格长袍，头戴珠宝冠冕，长发披肩，表情平静，在星空下拿着咖啡杯。2) {argument name="monkey warrior" default="孙悟空"}：蹲在左下角前景，身穿黄红色战士服装，头戴金箍，表情调皮兴奋，伸手去够一颗发光的星星。3) 一位温柔的灰发咖啡馆女服务员在吧台后，身穿白衬衫和带有星星图案的米色围裙，手持咖啡壶，动漫脸庞柔和，发间点缀着花朵。4) 右后方有一位昏昏欲睡的猪形伙伴，躺在遮阳棚下的垫子上。5) 他旁边是一位留着胡子的沙僧伙伴，也在睡觉。6) 一匹白龙马在最右侧靠近他们的地方休息。7) 一只白橙相间的猫在中心前景，用后腿站立，举起一颗明亮发光的黄色星星，吸引了孙悟空的注意。
+
+咖啡馆物品及精确数量：展示 3 个可见的咖啡馆招牌/项目：右侧挂着一个木制招牌，上面写着 {argument name="hanging sign text" default="星空咖啡 / Starry Desert COFFEE"}，吧台后方有一个黑板菜单，上面写着“Starlight Blend”以及手冲咖啡、拿铁、月亮拿铁、星星饼干和银河苏打等饮品名称，左下角有一个独立的黑板立牌，上面写着“Starlight Blend”并画有一个小咖啡杯。吧台上包含许多咖啡工具：玻璃滤杯、水壶、瓶子、杯子、罐子、茶托、小糕点和星形糖果。右下角前景包含 5 个醒目的蓝色玻璃瓶，其中一些装有微小的发光星星。
+
+前景细节：石板铺就的咖啡馆露台，散落着微小的星光灯、花朵、盆栽植物、沙漠花卉、带有星星标志的木箱、左下角发光的灯笼以及手写的小标签。使用大量微小的装饰细节：藤蔓、黄色和蓝色花朵、光之罐、吊灯、咖啡配件和星星图案。
+
+视觉风格：绘画感日本动漫奇幻风格，极其复杂的背景艺术，发光的魔幻现实主义，柔和的角色渲染，电影级构图，鲜艳饱和的色彩，温暖的金色高光，冷调靛蓝天空，温馨奇幻的旅行氛围，高细节 5k 插画质量。
+
+约束：保持沙漠星光咖啡馆的主题，保持飞机咖啡馆清晰可辨，保持构图拥挤但清晰，避免现代城市元素，避免照片写实主义，除 6 个角色和 1 只猫外，避免增加额外角色。
+
+[English]
+Goal: Create a richly detailed fantasy anime illustration of a desert starlight cafe during a Journey to the West-inspired stopover, with a cozy magical atmosphere under a vast Milky Way sky.
+
+Canvas: Vertical 4:5 illustration, high resolution, ultra-detailed, warm lantern light contrasted with deep blue and violet night sky. The scene is set at twilight-night in a desert oasis-like roadside cafe.
+
+Main setting: A vintage propeller airplane has been converted into a small open-air cafe. The fuselage forms the shop body on the left, with the long wing extending across the upper right like an awning. The airplane is weathered cream metal with rivets, vines, flowers, and small plants growing over it. Hang glowing lanterns and string lights beneath the wing. Add a flowing translucent golden cloth draped from the wing and blowing gently in the wind. In the background show mesas, cacti, desert shrubs, warm sunset glow at the horizon, and an immense star-filled sky with a bright Milky Way band and one shooting star.
+
+Characters and exact count: Include 6 character figures plus 1 cat. 1) {argument name="monk character" default="a beautiful Sanzo monk"}: seated elegantly on a tall wooden stool at the cafe counter, wearing ornate white and red-gold Buddhist-inspired robes and a jeweled crown, long pale hair, calm expression, holding a coffee cup under the stars. 2) {argument name="monkey warrior" default="Sun Wukong"}: crouching in the lower left foreground in yellow and red warrior clothing, golden circlet, mischievous excited expression, reaching toward a glowing star. 3) A gentle gray-haired cafe attendant girl behind the counter, wearing a white blouse and beige apron with star motifs, holding a coffee pot, soft anime face, flowers in her hair. 4) A sleepy pig-like companion in the rear right, reclining on cushions under a small shade structure. 5) A bearded river-sand monk companion beside him, also asleep. 6) A white dragon horse resting at the far right near them. 7) A white-and-orange cat in the center foreground standing on hind legs, holding up a bright glowing yellow star that fascinates the monkey warrior.
+
+Cafe objects and exact counts: Show 3 visible cafe sign/menu boards: one hanging wooden sign on the right reading {argument name="hanging sign text" default="星空咖啡 / Starry Desert COFFEE"}, one blackboard menu behind the counter reading “Starlight Blend” with drink names such as drip coffee, latte, moon latte, star cookie, and galaxy soda, and one freestanding chalkboard sign in the lower left reading “Starlight Blend” with a small coffee cup drawing. Include many coffee tools on the counter: glass dripper, kettle, bottles, cups, jars, saucers, small pastries, and star-shaped sweets. Include exactly 5 prominent blue glass bottles in the lower right foreground, some containing tiny glowing stars.
+
+Foreground details: Stone-paved cafe terrace with scattered tiny star lights, flowers, potted plants, desert blossoms, wooden crates with a star emblem, a lantern glowing near the lower left, and small handwritten tags. Use abundant tiny decorative details: vines, yellow and blue flowers, jars of light, hanging lamps, coffee accessories, and star motifs.
+
+Visual style: Painterly Japanese anime fantasy, extremely intricate background art, luminous magical realism, soft character rendering, cinematic composition, vibrant saturated colors, warm gold highlights, cool indigo sky, cozy whimsical travel mood, highly detailed 5k illustration quality.
+
+Constraints: Preserve the desert starlight cafe theme, keep the airplane cafe clearly recognizable, keep the composition crowded but readable, avoid modern city elements, avoid photorealism, avoid extra characters beyond the 6 figures and 1 cat.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2075189237302128945) | 2026-07-09
+
+---
+
+### 🏛️ 例 3617：复古波普风巷道时尚大片
+
+![复古波普风巷道时尚大片](../../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E9%A3%8E%E5%B7%B7%E9%81%93%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+背景设定：{argument name="alley style" default="一条狭窄的复古波普风后巷"}，带有生锈的卷帘门、剥落的油漆、褪色的淡彩墙面、贴满贴纸的金属板、色彩鲜艳的塑料板条箱、老式自动售货机的微光、霓虹灯碎片、手绘招牌、积水以及裸露的管道和磨损的混凝土。空间应呈现出粗粝感，但在城市衰败的背景下，视觉上要充满活力，并叠加强烈的波普色彩点缀。
+
+构图锁定：紧凑的 4:5 竖构图时尚大片剪裁，采用从胫骨到膝盖高度的低角度近摄，而非全身目录照。主体占据画面的 80%–90%。前景中的一只膝盖、躯干、肩膀、双手和面部占据画面主体。小腿、脚部或画面边缘可进行刻意裁剪。保持生锈的卷帘门、贴纸、色块和巷道纹理在主体后方可见，作为压缩的视觉标识。
+
+姿势锁定：主体不得站立、行走或随意倚靠。她栖息在 {argument name="seat object" default="堆叠的彩色塑料板条箱"} 的最边缘，旁边是生锈的卷帘门。她的臀部靠近板条箱边缘，而非深陷在座位上。一只膝盖在画面中下部的前景处高高隆起，急剧弯曲以勾勒出躯干轮廓。另一条腿沿板条箱线条或路面垂下，可部分裁剪。她的躯干从臀部开始略微前倾，同时保持脊柱挺直。双肩不对称且略微倾斜。一只前臂自然地横放在抬起的膝盖上，另一只手放在腰部或大腿上部，以保持服装线条的利落。下巴微收，眼神看向画外，展现出 {argument name="expression" default="冷静的时尚自信"}。
+
+避免：站立姿势、全身构图、游客照姿势、随意坐姿、可爱的双手合十姿势、遮挡身体的杂物、低角度导致的身体比例畸变。
+
+[English]
+Background identity: {argument name="alley style" default="a narrow retro-pop back alley"} with rusty rolling shutters, peeling paint, faded pastel wall sections, sticker-covered metal panels, colorful plastic crates, old vending-machine glow, neon fragments, hand-painted signs, puddles, exposed pipes, and worn concrete. The space should feel gritty but visually lively, with strong pop color accents layered over urban decay.
+
+Composition lock: tight vertical 4:5 fashion editorial crop, close low-angle camera from shin-to-knee height, not a full-body catalog shot. The subject fills 80–90% of the frame. One foreground knee, torso, shoulders, hands, and face dominate the image. Lower legs, feet, or side edges may be intentionally cropped. Keep the rusty shutter, stickers, color blocks, and alley texture visible behind the subject as compressed visual identity.
+
+Pose lock: the subject must not be standing, walking, or casually leaning. She is perched on the very edge of {argument name="seat object" default="stacked colorful plastic plastic crates"} placed beside a rusty shutter. Her hips stay close to the crate edge, not deep on the seat. One knee rises large in the foreground near the center-lower frame, bent sharply to frame the torso. The other leg drops lower along the crate line or pavement and may be partially cropped. Her torso leans slightly forward from the hips while keeping a long spine. Shoulders are asymmetrical and slightly angled. One forearm rests cleanly across the raised knee, while the other hand is placed at the waist or upper thigh to keep the outfit line clean. Chin slightly lowered, gaze off-camera with {argument name="expression" default="calm editorial confidence"}.
+
+Avoid: standing pose, full-body framing, tourist-photo posture, casual sitting, cute hand-clasp pose, clutter covering the body, distorted low-angle anatomy.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075070517921644651) | 2026-07-09
+
+---
+
+### 🏛️ 例 3636：沙漠加油站公路电影剧照
+
+![沙漠加油站公路电影剧照](../../images/%E6%B2%99%E6%BC%A0%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%85%AC%E8%B7%AF%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感宽银幕剧照，场景设定在傍晚黄金时刻，位于荒凉的乡村沙漠加油站。画面左侧是一座米色的老式路边建筑，墙上高处绘有巨大的风化字母 {argument name="store sign text" default="MEADOW"}，配有玻璃店面橱窗，底部有一条褪色的蓝色条纹，以及一个写有红色竖排字母“ICE”的白色户外冰柜。画面中心前景处，停放着一辆从后方视角拍摄的尘土飞扬的蓝色皮卡车；一名身穿素色 {argument name="man shirt color" default="white"} T 恤和牛仔裤的年轻男子正靠在皮卡车尾门上喝着饮料，另一名身穿深色背心和牛仔裤的年轻女子在店面附近走动，同样拿着饮料，正面对着他，仿佛正在交谈。画面中需包含 2 个人、1 辆皮卡车、1 个冰柜和 1 台复古加油泵。右侧设有一台位于小型混凝土岛上的风化老式加油泵，挂着软管，上方立着一根高高的标志杆；远处是空旷多尘的空地，延伸至远方的公路，隐约可见几辆模糊的小车、电线杆、稀疏的沙漠植被和低矮的地平线。采用来自右侧的温暖琥珀色阳光，营造出长长的戏剧性阴影，空气中弥漫着尘埃，色调为柔和的米色和青色，具有真实的胶片颗粒感、柔和的镜头光晕、浅景深的电影对比度，以及 20 世纪 70 年代的美式风情。构图采用 2.39:1 的宽银幕变形镜头比例，平视视角，自然光照明，无现代品牌标识，无多余人物，除店面招牌和“ICE”字母外，不添加任何额外文字。
+
+[English]
+Create a cinematic widescreen still from an indie road movie set at a lonely rural desert gas station in the late afternoon golden hour. The scene shows an old beige roadside building on the left with large weathered letters reading {argument name="store sign text" default="MEADOW"} painted high on the wall, glass storefront windows, a faded blue stripe along the bottom, and a white outdoor ice chest with red vertical letters spelling ICE. In the center foreground, place an old dusty blue pickup truck seen from the rear, parked beside the building; one young man in a plain {argument name="man shirt color" default="white"} T-shirt and jeans leans casually against the truck tailgate holding a drink, while one young woman in a dark tank top and jeans walks near the storefront also holding a drink, facing him as if mid-conversation. Count exactly 2 people, 1 pickup truck, 1 ice chest, and 1 vintage gas pump. On the right side, include a single weathered old gas pump on a small concrete island with hoses hanging down, a tall sign pole rising above it, and an empty dusty lot stretching to a distant highway with a few tiny blurred cars, utility poles, scrubby desert vegetation, and a low horizon. Use warm amber sunlight from the right, long dramatic shadows, dusty air, muted beige and teal colors, realistic film grain, soft lens flare, shallow cinematic contrast, and a 1970s Americana atmosphere. Compose as a wide 2.39:1 anamorphic frame, camera at eye level, naturalistic lighting, no modern branding, no extra people, no added text except the storefront sign and ICE letters.
+```
+
+**来源：** [@@alexgnewmedia](https://x.com/alexgnewmedia/status/2075040758344630773) | 2026-07-09
+
+---
+

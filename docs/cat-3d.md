@@ -4565,3 +4565,91 @@ Create a vertical 9:16 anime-style illustration set inside a colorful Japanese a
 
 ---
 
+### 🧸 例 3591：巨人错位视角街拍
+
+![巨人错位视角街拍](../../images/%E5%B7%A8%E4%BA%BA%E9%94%99%E4%BD%8D%E8%A7%86%E8%A7%92%E8%A1%97%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超现实的错位视角超写实照片，画面为现代市中心街道，同一位年轻女性在“黄金时刻”以两种不同比例同时出现。巨型版本的 {argument name="character name" default="这位女性"} 蹲在空旷马路右侧的高耸玻璃摩天大楼之间，面带温柔微笑，低头伸手探向站在街道左侧的微缩全身版自己。微缩版本身穿同款服装，举起一只手臂，触碰或即将触碰巨型女性的指尖，营造出一种趣味十足的“微缩遇上巨人”错觉。她留着 {argument name="hair color" default="深棕色头发"}，扎成高马尾并留有几缕碎发，妆容自然，戴着圆环耳饰，表情柔和友善。服装：宽松的 {argument name="shirt color" default="黑色"} 大码 T 恤，米色工装裤（带侧袋），厚底白色运动鞋，巨型人像手腕上戴着浅色手表。两种比例均需使用写实的解剖结构和比例，仅包含一个蹲着的巨型人像和一个站立的微缩人像。场景设定在宽阔的沥青大道上，温暖的阳光直射进摩天大楼形成的峡谷，长长的阴影，反射光线的玻璃建筑，远景中有少量模糊的车辆和行人，交通信号灯，具有电影感的景深。相机位于路面低处，垂直人像构图，戏剧性的黄金时刻逆光，路面上有温暖的高光，两个人物均清晰对焦，照片级纹理，超细节的衣物褶皱，自然的皮肤质感，无文字，无水印，无额外重复人物。
+
+[English]
+Create a surreal forced-perspective ultra-realistic photograph of the same young woman appearing at two different scales in the middle of a modern downtown city street during golden hour. The giant version of {argument name="character name" default="the woman"} is crouching low on the right side of the empty roadway between tall glass skyscrapers, smiling gently and looking down as she reaches one hand toward a tiny full-body version of herself standing on the left side of the street. The tiny version wears the same outfit and raises one arm upward, touching or almost touching the giant woman’s fingertip, creating a playful miniature-meets-giant illusion. She has {argument name="hair color" default="dark brown hair"} tied in a high ponytail with loose strands, natural makeup, hoop earrings, and a soft friendly expression. Outfit: loose {argument name="shirt color" default="black"} oversized t-shirt, beige cargo pants with side pockets, chunky white sneakers, and a light-colored watch on the giant figure’s wrist. Use realistic anatomy and proportions at both scales, one giant crouching figure and one miniature standing figure only. Set the scene on a wide asphalt avenue with warm sunlight glowing directly down the canyon of skyscrapers, long shadows, reflective glass buildings, a few blurred cars and pedestrians far in the background, traffic lights, and cinematic depth of field. Camera is low to the road at street level, vertical portrait composition, dramatic golden-hour backlight, warm highlights on the pavement, sharp focus on both figures, photorealistic texture, ultra-detailed clothing folds, natural skin, no text, no watermark, no extra duplicate people.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2075188427193298977) | 2026-07-09
+
+---
+
+### 🧸 例 3607：少女从手机屏幕中破屏而出
+
+![少女从手机屏幕中破屏而出](../../images/%E5%B0%91%E5%A5%B3%E4%BB%8E%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E4%B8%AD%E7%A0%B4%E5%B1%8F%E8%80%8C%E5%87%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个竖屏电影级 3D 奇幻场景，画面中一位时尚少女正从一个显示着“小红书”风格社交媒体帖子的透明玻璃智能手机屏幕中破屏而出。手机呈竖直放置，透视略微倾斜，带有黑色圆角金属边框、玻璃反光、灵动岛刘海、时间 18:38、信号/Wi‑Fi/电池图标、返回箭头、圆形头像、账户名称 {argument name="account name" default="小夏穿搭日记"}、红色边框的关注按钮 {argument name="follow button text" default="关注"} 以及分享图标。帖子顶部的文案显示为 {argument name="post caption" default="今日份温柔穿搭✨\n出门捕捉夕阳啦～"}。在帖子图片内，展示 {argument name="character description" default="一位美丽、甜美、时尚的年轻女孩，留着棕色长卷发，拥有明亮的大眼睛、精致的淡妆和优雅温柔的气质"} 正迈步穿过破碎的玻璃进入现实世界。她的姿势必须极具动感：一条腿以夸张的 3D 透视效果向观众方向大幅延伸，运动鞋鞋底显得非常大且最靠近镜头；另一条腿留在手机画面内，双臂自然张开以保持平衡。服装：米色轻薄外套、浅粉色罗纹上衣、蓝色牛仔裙、白色短袜、白色运动鞋，搭配精致的项链和耳环。手机屏幕在她身体周围破碎，可见放射状裂纹和飞溅的透明玻璃碎片。手机周围环绕着粉色纸屑、闪烁的粒子、微小的爱心、发光的尘埃、镜头光晕和梦幻的虚化效果。底部的社交栏必须准确显示 3 个互动项：心形图标配 2.3万，星形图标配 1.1万，评论气泡图标配 856。采用温暖的夕阳灯光，色调为桃粉金色，背景呈现梦幻柔焦，具备高细节的质感反光、景深效果、戏剧性的低角度镜头，采用超写实 3D 插画风格，融合精致的动漫人偶面部魅力，无水印，除社交媒体 UI 外无任何额外文字。
+
+[English]
+Create a vertical cinematic 3D fantasy scene of a stylish young woman bursting out of a transparent glass smartphone screen that displays a Xiaohongshu-style social media post. The phone is upright in portrait orientation, slightly tilted in perspective, with a black rounded metal frame, glass reflections, a dynamic island notch, time 18:38, signal/Wi‑Fi/battery icons, a back arrow, a circular profile avatar, the account name {argument name="account name" default="小夏穿搭日记"}, a red outlined follow button reading {argument name="follow button text" default="关注"}, and a share icon. The post caption at the top reads {argument name="post caption" default="今日份温柔穿搭✨\n出门捕捉夕阳啦～"}. Inside the post image, show {argument name="character description" default="a beautiful, sweet, fashionable young girl with long wavy brown hair, big bright eyes, soft makeup, and an elegant gentle aura"} stepping through the cracked glass into the real world. Her pose must be highly dynamic: one leg extends dramatically toward the viewer in exaggerated foreshortened 3D perspective, with the sneaker sole very large and closest to the camera; her other leg remains inside the phone image, and her arms are naturally spread for balance. Outfit: cream beige lightweight jacket, pastel pink ribbed top, blue denim skirt, white socks, white sneakers, delicate necklace and earrings. The phone screen is shattered around her body with visible radial cracks and broken transparent glass shards flying outward. Surround the phone with pink confetti, sparkling particles, tiny hearts, glowing dust, lens flares, and magical bokeh. Bottom social bar must show exactly 3 visible engagement items: heart icon with 2.3万, star icon with 1.1万, and comment bubble icon with 856. Use warm sunset lighting, peach-pink-gold color palette, dreamy soft background blur, high-detail glossy reflections, depth of field, dramatic low-angle camera, ultra-realistic 3D illustration mixed with polished anime-doll facial charm, no watermark, no extra text beyond the social media UI.
+```
+
+**来源：** [@Coolbat](https://x.com/coolbat1999/status/2075120614390767793) | 2026-07-09
+
+---
+
+### 🧸 例 3608：柔和色调卧室中的 3D 女性肖像
+
+![柔和色调卧室中的 3D 女性肖像](../../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E5%8D%A7%E5%AE%A4%E4%B8%AD%E7%9A%84%203D%20%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高分辨率的 3D CG 半写实插图，采用 9:16 竖构图。画面中是一位具有奇幻风格的东亚成年女性，她散发着甜美、温柔、梦幻的气息，面部特征和比例成熟自然，而非幼态。她位于画面中心，展示从上半身到膝盖以下的部位，端坐在浅色木床边缘，肩颈放松，双手自然交叠放在膝盖上。她留着 {argument name="hair color" default="深棕色长发"}，发型为半扎发，带有柔软松散的发丝，肤色白皙透亮，妆容精致自然，棕色双眸温暖，面带平静柔和的微笑注视着观众。她身穿 {argument name="dress color" default="淡粉色"} 长袖飘逸连衣裙，领口为简洁的圆领，面料柔软半透明，腰部微收，裙摆在膝盖上形成自然的褶皱。背景是一间明亮浪漫的卧室，配有白色镶板墙壁、木床、白色床品、奶油色枕头、米色针织盖毯、浅色木质床头柜、小型梳妆镜、茶壶、一瓶粉色花卉、另一个放有书籍和台灯的床头柜、墙上挂着一幅小型花卉画框，大窗户配有白色透明窗纱和淡粉色窗帘，温暖的晨光从左侧射入。使用柔和的粉彩色调、梦幻的自然逆光、体积感窗光、细腻的阴影、逼真的布料纹理、精细的发丝、精致的皮肤阴影、电影级的景深，并采用精致的 gpt-image-2 风格。保持画面优雅、健康、无不雅内容、无文字、无水印、无多余人物、无扭曲的手部、无夸张的身体比例。
+
+[English]
+Create a high-resolution 3D CG semi-realistic illustration in a vertical 9:16 composition. Show an adult East Asian fantasy-inspired woman with a sweet, gentle, dreamy aura, but with a naturally mature face and proportions, not childlike. She is centered in the frame, shown from upper body to below the knees, sitting upright on the edge of a light wooden bed with relaxed shoulders and neck, hands naturally resting together on her lap. She has {argument name="hair color" default="long dark brown hair"} styled half-up with soft loose strands, fair luminous skin, delicate natural makeup, warm brown eyes, and a calm soft smile looking toward the viewer. She wears {argument name="dress color" default="pale blush pink"} long-sleeved flowing dress with a modest round neckline, soft translucent fabric, a gently cinched waist, and realistic folds draping over her knees. The setting is a bright romantic bedroom with white paneled walls, a wooden bed, white bedding, cream pillows, a knitted beige throw blanket, a light wood bedside table, a small vanity mirror, a teapot, a vase of pink flowers, another bedside table with books and a lamp, a small framed floral picture on the wall, large windows with sheer white curtains and blush pink drapes, and warm morning sunlight streaming in from the left. Use soft pastel tones, dreamy natural backlight, volumetric window glow, delicate shadows, realistic fabric texture, detailed hair strands, refined skin shading, cinematic depth of field, and polished gpt-image-2 style. Keep the image elegant, wholesome, non-explicit, no text, no watermark, no extra people, no distorted hands, no exaggerated body proportions.
+```
+
+**来源：** [@Coolbat](https://x.com/coolbat1999/status/2075119912658575828) | 2026-07-09
+
+---
+
+### 🧸 例 3645：等距视角生产力桌面场景
+
+![等距视角生产力桌面场景](../../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%A1%8C%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:1 宽幅电影级 3D 等距桌面场景，主题为数字规划与生产力。左侧留出大面积空白深海军蓝工作区以便放置文案，物体集中在右侧。采用高级哑光粘土渲染风格，带有柔和的倒角、逼真的环境光遮蔽、微妙的景深效果以及戏剧性的蓝金双色强调光。桌面为深海军蓝，背景为从深蓝到炭灰色的平滑渐变。
+
+主体与布局：在画布右半部分精确布置 10 组主要物体：1) 一叠分层的文档和文件夹，颜色为白色、海军蓝、宝蓝色和柔和的金色，透视上略微旋转；2) 中心处一份打开的文档或仪表盘页面，显示浅色矩形 UI 线框和蓝色标题块；3) 上方一张小型悬浮网页卡片，带有一个蓝色标题矩形和三个下方内容块；4) 前方一个较小的分析磁贴，带有六个蓝灰色圆角正方形；5) 一张深色水平图表卡片，带有蓝色折线面积图；6) 一个紧凑的圆环图盘，带有蓝色和金色扇区；7) 一个垂直深色清单面板，带有六个圆形状态点和六条短水平列表线，其中包含一个金色高亮圆点；8) 右上角一个螺旋桌面日历，带有小方格网格和一个金色高亮日期；9) 一个圆形鼠标按钮图标，带有一个金色光标箭头；10) 最右侧一个蓝白相间的文件整理盒，内装文件夹。
+
+桌面细节补充：底部中心附近斜放 1 支带金色饰边的黑色钢笔，纸堆上贴 1 张小型金色便签，右下角附近排列 9 个微小的圆角正方形色块（海军蓝、蓝色、灰色、白色和金色），右侧整理盒内可见 3 个文件夹。所有文字保持为抽象线条和色块，无具体可读文字。
+
+视觉风格：极简企业设计，优雅的规划仪表盘概念，单色海军蓝调配以 {argument name="accent color" default="暖金色"} 高亮，简洁的几何形状，平滑的塑料纸质感，柔和阴影，高端产品模型美学。使用 {argument name="canvas ratio" default="2:1 超宽横屏"}，{argument name="background color" default="深海军蓝渐变"}，营造适合科技或生产力主图的沉稳专业氛围。
+
+约束条件：无人物，无 Logo，无水印，无杂乱写实元素，无可读文字，左侧 45% 的区域保持大面积留白和深色，以便放置标题。
+
+[English]
+Create a wide 2:1 cinematic 3D isometric desktop scene about digital planning and productivity, with a large empty dark navy workspace on the left for copy space and the objects clustered on the right. Use a premium matte clay-render style with soft bevels, realistic ambient occlusion, subtle depth of field, and dramatic blue-and-gold accent lighting. The surface is a dark navy desk with a smooth gradient background fading from deep blue to charcoal.
+
+Subject and layout: Arrange exactly 10 main object groups on the right half of the canvas: 1) a layered stack of documents and folders in white, navy, royal blue, and muted gold, slightly rotated in perspective; 2) a central open document or dashboard sheet showing pale rectangular UI wireframes and blue header blocks; 3) a small raised web page card on top with one blue title rectangle and three lower content blocks; 4) a smaller analytics tile in front with six blue-gray rounded squares; 5) a dark horizontal chart card with a blue folded area graph; 6) a compact donut chart disk with blue and gold segments; 7) a vertical dark checklist panel with six circular status dots and six short horizontal list lines, including one gold highlighted dot; 8) a spiral desk calendar in the upper right with a grid of small dark squares and one gold highlighted date; 9) a circular mouse-button icon with a gold cursor arrow; 10) a blue-and-white file organizer box on the far right holding folders.
+
+Additional desk details: Include exactly 1 black fountain pen with gold trim lying diagonally near the bottom center, exactly 1 small gold sticky note on the paper stack, exactly 9 small color swatches near the bottom right arranged as tiny rounded squares in navy, blue, gray, white, and gold, and exactly 3 visible file folders inside the right organizer. Keep all text as abstract lines and blocks, no readable words.
+
+Visual style: Minimal corporate design, elegant planning-dashboard concept, monochrome navy palette with {argument name="accent color" default="warm gold"} highlights, clean geometric shapes, smooth plastic-paper materials, soft shadows, high-end product mockup aesthetic. Use {argument name="canvas ratio" default="2:1 ultra-wide landscape"}, {argument name="background color" default="deep navy gradient"}, and a quiet professional mood suitable for a technology or productivity hero banner.
+
+Constraints: No people, no logos, no watermark, no realistic clutter, no readable text, leave the left 45% of the image mostly empty and dark for headline placement.
+```
+
+**来源：** [@张扬Zhang](https://x.com/oMnEMdSISVHGiLD/status/2075008235954921795) | 2026-07-09
+
+---
+

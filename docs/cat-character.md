@@ -5034,3 +5034,125 @@ Constraints: Use only the character sheet content described above, no extra char
 
 ---
 
+### 🧍 例 3599：超现实镜像克隆时尚大片
+
+![超现实镜像克隆时尚大片](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%95%9C%E5%83%8F%E5%85%8B%E9%9A%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的参考图像作为绝对身份参考。必须保持完全一致的面部、面部结构、发型、发际线、眉毛、眼型、鼻子、嘴唇、下颌线、肤色、胡须（如有）、身体比例、年龄、表情及整体身份，不得有任何偏差。面部一致性是最高优先级。每一个克隆体、每一次反射以及每一个镜像版本都必须与上传的参考图像保持完全一致的身份。严禁进行任何美化、风格化、衰老、年轻化或改变面部特征的操作。
+
+创作一张超高端电影质感的超现实主义时尚大片，采用高空俯拍视角（约 45 度鸟瞰视角）。主体在正中心保持完全静止，双手自然插在口袋中，周围数十个相同的克隆体向不同方向自然移动，并带有逼真的长曝光动态模糊效果，营造出令人着迷的时间循环感。
+
+环境周围环绕着巨大的落地式超清无框玻璃镜面板，并以不同角度放置。每一面镜子都反射出完全相同的人物，确保完美的身份一致性。添加悬浮的水晶棱镜、细小的折射玻璃碎片、微妙的电影级光束、闪烁的尘埃颗粒、逼真的光学反射、优雅的镜头折射以及高端的 HDR 灯光效果。
+
+在中心主体下方创作一个环形能量涟漪，使用逼真的类玻璃同心反射，而非发光的奇幻特效。周围的克隆体保持动态模糊，而中心主体则保持绝对清晰，且眼部焦点锐利。
+
+服装：
+{argument name="outfit" default="奢华廓形白色连帽衫，搭配宽松黑色工装裤和高端白色运动鞋。"}
+
+环境：
+大型高端石材广场，配有抛光反射地面、奢华建筑环境、微妙的湿润反射、柔和的大气雾感、优雅的景深，无视觉杂乱。
+
+灯光：
+温暖的黄金时刻阳光、电影级体积光、柔和的轮廓光、逼真的全局光照、高端 HDR 动态范围、微妙的变形镜头光晕、平衡的高光、丰富的阴影，呈现奢华时尚广告的灯光效果。
+
+调色：
+高端 Vogue 杂志风格，奢华香水广告美学，深邃的黑色，丰富的对比度，自然的肤色，柔和的金色高光，电影级的青金色平衡，逼真的色彩分离，高端电影质感。
+
+相机：
+Sony A7R V
+85mm GM 镜头
+f/1.8
+ISO 100
+Ultra HDR
+移轴景深效果
+超写实
+照片级真实
+超细节
+8K
+专业商业时尚摄影
+奢华编辑杰作
+比例 4:5
+
+[English]
+Use the uploaded reference image as the ABSOLUTE IDENTITY REFERENCE. Preserve the exact same face, facial structure, hairstyle, hairline, eyebrows, eye shape, nose, lips, jawline, skin tone, beard (if present), body proportions, age, expression, and overall identity with zero deviation. Face consistency is the highest priority. Every clone, every reflection, and every mirrored version must have the exact same identity as the uploaded reference. Do not beautify, stylize, age, de-age, or alter facial features in any way.
+
+Create an ultra-premium cinematic surreal editorial photograph from a high aerial angle (approximately 45° bird's-eye perspective). The subject stands perfectly still in the exact center with hands naturally inside pockets while dozens of identical clones move naturally around in different directions with realistic long-exposure motion blur, creating a mesmerizing time-loop effect.
+
+Surround the environment with massive floor-to-ceiling ultra-clear frameless glass mirror panels positioned at different angles. Every mirror reflects the exact same person with perfect identity consistency. Add floating crystal prisms, tiny refractive glass fragments, subtle cinematic light streaks, shimmering dust particles, realistic optical reflections, elegant lens refractions, and premium HDR lighting.
+
+Create a circular energy ripple beneath the central subject using realistic glass-like concentric reflections rather than glowing fantasy effects. The surrounding clones remain motion blurred while the central subject is perfectly sharp with razor-sharp eye focus.
+
+Outfit:
+{argument name="outfit" default="Luxury oversized white hoodie with relaxed black cargo pants and premium white sneakers."}
+
+Environment:
+Large premium stone plaza with polished reflective flooring, luxury architectural surroundings, subtle wet reflections, soft atmospheric haze, elegant depth, no visual clutter.
+
+Lighting:
+Warm golden hour sunlight, cinematic volumetric lighting, soft rim light, realistic global illumination, premium HDR dynamic range, subtle anamorphic lens flare, balanced highlights, rich shadows, luxury fashion campaign lighting.
+
+Color Grading:
+High-end Vogue editorial, luxury perfume advertisement aesthetics, deep blacks, rich contrast, natural skin tones, soft golden highlights, cinematic teal-and-gold balance, realistic color separation, premium filmic look.
+
+Camera:
+Sony A7R V
+85mm GM Lens
+f/1.8
+ISO 100
+Ultra HDR
+Tilt-shift depth effect
+Hyper-realistic
+Photorealistic
+Ultra-detailed
+8K
+Professional commercial fashion photography
+Luxury editorial masterpiece
+Ratio 4:5
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2075154387362541896) | 2026-07-09
+
+---
+
+### 🧍 例 3600：中国水墨山水画风动漫猫娘
+
+![中国水墨山水画风动漫猫娘](../../images/%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E5%B1%B1%E6%B0%B4%E7%94%BB%E9%A3%8E%E5%8A%A8%E6%BC%AB%E7%8C%AB%E5%A8%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为角色基础，将其转化为精致的中国水墨奇幻插画。保留猫耳动漫少女的身份、浅色长发、粉色眼眸以及优雅的蓝色主题，但需更换场景与服饰。
+
+目标：将其重塑为全身像，置身于云雾缭绕的中国传统山水景观中，呈现出柔和的宣纸水彩质感与细腻的动漫渲染效果。
+
+角色改造：将原有的浅蓝色连衣裙替换为深海军蓝色的中式旗袍风格迷你裙，配以透明叠层裙摆、泡泡袖、银白色花卉刺绣、盘扣装饰、流苏及蕾丝花边。添加华丽的蓝、白、红花卉发饰，同时保留猫耳与小巧的深色头饰。姿态优雅，一手轻抬靠近发际，另一手向外伸展；展示双腿与尾巴，尾端饰有小流苏。
+
+背景添加：移除室内的窗户与茶室背景。添加中国山水景观，包括云雾缭绕的险峻山峰、松树、瀑布、宁静的湖泊、岩石前景、远处的亭台与小舟，采用柔和的蓝灰色水墨色调绘制。
+
+文字与印章：在左上角添加竖排黑色书法，内容为 {argument name="calligraphy text" default="江山如画\n雲深不知處"}。包含 3 枚红色印章：左上角书法下方两枚小印章，右下角一枚较大的方形印章。
+
+风格：高细节动漫角色与中国古典山水画相结合，柔和的明亮光影，优雅的笔触，淡淡的云雾，和谐的海军蓝配色，无现代物品，无水印。
+
+[English]
+Using REFERENCE_0 as the character base, transform the image into a refined Chinese ink-wash fantasy illustration. Keep the same cat-eared anime girl identity, pale long hair, pink eyes, and elegant blue theme, but change the setting and outfit.
+
+Goal: Recreate her as a full-body figure standing outdoors in a misty traditional Chinese mountain-and-water landscape, with a soft xuan-paper watercolor texture and delicate anime rendering.
+
+Character transformation: Replace the original pale blue dress with a dark navy Chinese-inspired qipao-style mini dress with sheer layered skirt, puff sleeves, silver-white floral embroidery, frog-button ornaments, tassels, and lace trim. Add ornate blue, white, and red flower hair accessories while keeping the cat ears and small dark headpiece. Pose her gracefully with one hand raised near her hair and the other extended outward; show her legs and tail, with the tail ending in a small tassel ornament.
+
+Background additions: Remove the indoor window and tea-room setting. Add a scenic Chinese landscape with misty steep mountains, pine trees, waterfalls, a calm lake, rocky foreground, distant pavilions, and small boats, painted in soft blue-gray ink tones.
+
+Text and seals: Add vertical black calligraphy in the upper left reading {argument name="calligraphy text" default="江山如畫\n雲深不知處"}. Include exactly 3 red seal stamps: two small seals beneath the upper-left calligraphy and one larger square seal in the lower-right corner.
+
+Style: High-detail anime character blended with classical Chinese shanshui painting, luminous soft lighting, elegant brushwork, pale mist, harmonious navy-blue palette, no modern objects, no watermark.
+```
+
+**来源：** [@AI Bard Guild](https://x.com/IsekaiBardGuild/status/2075154241040335345) | 2026-07-09
+
+---
+
