@@ -1900,3 +1900,144 @@ Create a cinematic widescreen still from an indie road movie set at a lonely rur
 
 ---
 
+### 🏛️ 例 3651：宁静清晨卧室生活方式肖像
+
+![宁静清晨卧室生活方式肖像](../../images/%E5%AE%81%E9%9D%99%E6%B8%85%E6%99%A8%E5%8D%A7%E5%AE%A4%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="光にほどける朝"}
+
+主体：
+横長4:3の写真。暖かな寝室のベッドに、成人女性がうつ伏せでゆったり横たわる。身体は画面左下から右中央へ斜めに伸び、全身が画面の約75％を占める。ダークブラウンの髪を低い位置で柔らかなシニヨンにまとめ、白い小花のヘアピンを添える。頬を腕に寄せ、顔を画面右へ向けた穏やかな横顔。
+
+服装・ポーズ：
+{argument name="服装" default="細かなシワ感のあるアイボリーホワイトの長袖ルームローブ"}。内側には透けない白いキャミソールと短めのルームパンツ。腰の細いリボンは緩く結び、端がベッドへ自然に垂れる。両腕を重ねて枕代わりにし、両膝を曲げ、ふくらはぎを斜め上へ持ち上げる。衣服のシワとベッドの沈み込みに自然な重力を出す。
+
+背景・光：
+生成り色の壁と淡い小花柄のキルトに包まれた、生活感を抑えた寝室。左上の窓から低い角度の暖色光が差し込み、脚、腰、背中、髪の縁に細長いハイライトを作る。影は画面右下へ柔らかく落ちる。
+
+構図・カメラ：
+ベッドとほぼ同じ高さの平視、わずかに斜め前方から撮影。50mm相当、F2前後の浅い被写界深度。顔と背中の布地に焦点を置き、背景は穏やかにぼかす。
+
+質感・スタイル：
+自然光を生かした日系ライフスタイル写真。低彩度のアイボリー、蜂蜜色、淡いベージュを中心にした暖かな配色。繊細なフィルム粒子、柔らかなコントラスト、布の織り目と肌の自然な質感。
+
+ネガティブ：
+未成年に見える人物、過度な露出、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、左右の脚の混同、光源と矛盾する影、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2075719717231468609) | 2026-07-10
+
+---
+
+### 🏛️ 例 3684：奢华蓝宝石色时尚大片
+
+![奢华蓝宝石色时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E8%93%9D%E5%AE%9D%E7%9F%B3%E8%89%B2%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位令人惊叹的 {argument name="subject" default="年轻韩国女性"} 出现在奢华时尚大片拍摄现场，置身于一个完全围绕浓郁 {argument name="color palette" default="蓝宝石色调"} 设计的优雅单色摄影棚内。摄影棚采用无缝弧形墙面、光泽感反射地板、层叠的半透明亚克力面板，以及柔和的建筑造型，在不分散模特注意力的情况下营造出空间深度感。环境氛围现代、高级且富有艺术气息，宛如一场高端奢华时尚广告大片。
+她身着精致的设计师服装，包括一件 {argument name="outfit" default="修身钴蓝色缎面西装裙"}，剪裁利落，带有微妙的不对称细节和精致的银色点缀。服装时尚、优雅且前卫，突显自信与干练，而非暴露的造型。搭配时髦的金属感高跟鞋、极简主义首饰和完美的造型，展现出当代奢华感。
+她长而丝滑的秀发自然垂落，带有柔和的动感，完美地修饰了脸型。自然妆容，肌肤透亮，唇部带有淡淡光泽，眼妆轮廓分明，表情自信，极具大片感。她单腿微向前站立，一只手叉腰，另一只手轻轻触碰西装翻领，呈现出极具张力的时尚杂志姿势。
+摄影棚灯光由上方及前方略微倾斜的大型柔光箱提供，在她的脸部和服装上营造出平滑的高光。额外的柔和轮廓光将她的剪影与深蓝色背景分离开来，产生丰富的立体感和优雅的对比度。地面上的柔和反射增强了高级的氛围感。
+超写实 DSLR 摄影，奢华时尚广告，Vogue 大片质感，高端美妆与风格摄影，85mm 镜头，f/1.8，浅景深，焦点清晰聚焦于模特，真实的皮肤纹理，卓越的织物细节，电影级布光，丰富的色调深度，蓝宝石色调，奢华广告美学，照片级真实感，RAW 照片质量，大师级构图，高端时尚杂志封面质量，8K 分辨率，高度细节化，完全聚焦于模特。
+
+[English]
+A breathtaking {argument name="subject" default="young Korean woman"} in a luxury fashion editorial photoshoot, standing inside an elegant monochromatic studio designed entirely around rich {argument name="color palette" default="sapphire-blue tones"}. The studio features seamless curved walls, glossy reflective flooring, layered translucent acrylic panels, and soft architectural shapes that create depth without distracting from the model. The environment feels modern, premium, and artistic, resembling a high-end luxury fashion campaign.
+She wears a sophisticated designer outfit featuring a {argument name="outfit" default="fitted cobalt-blue satin blazer dress"} with a tailored silhouette, subtle asymmetrical detailing, and refined silver accents. The outfit is stylish, elegant, and fashion-forward, highlighting confidence and sophistication rather than revealing styling. Paired with sleek metallic heels, minimalist jewelry, and impeccable styling, she embodies contemporary luxury.
+Her long silky hair flows naturally with soft movement, framing her face beautifully. Natural makeup with luminous skin, subtle glossy lips, defined eyes, and a confident editorial expression. She stands with one leg slightly forward, one hand resting at her waist while the other gently touches the lapel of the blazer, creating a powerful fashion-magazine pose.
+The studio lighting consists of a massive diffused softbox positioned above and slightly in front, creating smooth highlights across her face and outfit. Additional soft rim lights separate her silhouette from the deep blue background, producing rich dimensionality and elegant contrast. Soft reflections on the floor enhance the premium atmosphere.
+Ultra-realistic DSLR photography, luxury fashion campaign, Vogue editorial quality, premium beauty and style photography, 85mm lens, f/1.8, shallow depth of field, tack-sharp focus on the model, realistic skin texture, exceptional fabric detail, cinematic lighting, rich tonal depth, sapphire-blue color palette, luxury advertising aesthetic, photorealistic, RAW photo quality, masterpiece composition, high-end fashion magazine cover quality, 8K resolution, highly detailed, focused entirely on the model.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2075569490159710300) | 2026-07-10
+
+---
+
+### 🏛️ 例 3704：古老火炬照亮的石砌前厅
+
+![古老火炬照亮的石砌前厅](../../images/%E5%8F%A4%E8%80%81%E7%81%AB%E7%82%AC%E7%85%A7%E4%BA%AE%E7%9A%84%E7%9F%B3%E7%A0%8C%E5%89%8D%E5%8E%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级的广角场景，展示夜晚古老的石砌内庭或寺庙前厅，采用写实的史诗电影风格。空间由粗糙的灰泥墙和磨损的大块石板地面构成，呈现出冷青色环境光与暖色火光的对比。以低平视视角构图，正对一面平整的墙壁，墙壁中央设有一个狭窄的矩形门洞；透过门洞，可见一段通往黑暗的陡峭石阶。包含 2 把点燃的壁挂火炬：一把安装在左侧墙壁，另一把安装在中央墙壁的右侧，两者均投射出橙色的光晕和柔和的阴影。包含 2 根显眼的圆形石柱：一根作为远左侧边缘的深色垂直立柱部分可见，另一根大型立柱位于右侧前景。在左侧墙壁旁添加一张长条状的简约石凳。在右侧添加 3 件陶器：中央墙壁附近的一个小双耳瓶，右侧前景附近的一个大水罐，以及旁边的一个浅碗或低矮容器。在远右侧背景中，展示一个带有简单石块或座位的微凸平台，在暖光下显得昏暗。使用 {argument name="architectural setting" default="古老石砌寺庙前厅"}、{argument name="lighting mood" default="冷青色阴影与暖色火光"}、{argument name="camera angle" default="广角电影级低平视视角"}、{argument name="time of day" default="夜晚"} 以及 {argument name="visual style" default="写实史诗电影剧照"}。强调纹理丰富的灰泥、风化的石材、细微的烟雾或薄雾、真实的全局光照、深邃的阴影、安静神秘的氛围，画面中无人、无文字、无现代物品。
+
+[English]
+Create a cinematic wide-angle scene of an ancient stone interior courtyard or temple antechamber at night, in a realistic historical film style. The space is made of rough plaster walls and large worn stone floor slabs with cool teal-blue ambient light and warm firelight contrast. Compose the shot from a low eye-level perspective facing a plain wall with one narrow rectangular doorway in the center; through the doorway, show one steep stone staircase rising into darkness. Include exactly 2 lit wall torches: one mounted on the left wall and one mounted on the right side of the central wall, both casting orange halos and soft shadows. Include exactly 2 prominent round stone columns: one partially visible as a dark vertical column at the far left edge and one large column in the right foreground. Add one long simple stone bench along the left wall. Add exactly 3 clay objects on the right side: one small amphora near the central wall, one larger jug near the right foreground, and one shallow bowl or low vessel beside it. In the far right background, show a small raised platform with simple stone blocks or seating, dimly lit by warm light. Use {argument name="architectural setting" default="ancient stone temple antechamber"}, {argument name="lighting mood" default="cool teal shadows with warm torchlight"}, {argument name="camera angle" default="wide cinematic low eye-level view"}, {argument name="time of day" default="night"}, and {argument name="visual style" default="photorealistic historical film still"}. Emphasize textured plaster, weathered stone, subtle smoke or haze, realistic global illumination, deep shadows, quiet mysterious atmosphere, no people, no text, no modern objects.
+```
+
+**来源：** [@Forety](https://x.com/foretyyt/status/2075523028025254240) | 2026-07-10
+
+---
+
+### 🏛️ 例 3735：舒适家居服卧室交谈
+
+![舒适家居服卧室交谈](../../images/%E8%88%92%E9%80%82%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%8D%A7%E5%AE%A4%E4%BA%A4%E8%B0%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的生活方式时尚摄影照片，描绘两位年轻东亚女性在夜晚舒适的现代卧室里坐在未整理的床上，风格类似于亲密的优质家居服广告大片。左侧女性穿着 {argument name="left outfit" default="深炭灰色纽扣睡衣套装，配有白色滚边"}，留着长深色头发，扎成低马尾并留有轻盈的刘海，身体微微转向另一位女性，双手放在膝盖附近，眼神若有所思地侧视。右侧女性穿着 {argument name="right outfit" default="柔软的奶油色罗纹针织家居套装，配有抽绳腰带"}，留着齐肩深棕色头发，带有空气感刘海，盘腿或蜷缩在床上，一只手臂交叉，另一只手轻轻触碰下巴，回望对方，仿佛正在进行安静的交谈。卧室氛围应温暖、宁静且具有生活气息：凌乱的白色和米色床上用品，左侧有一个木质床头柜，上面放着发光的圆形台灯和一张小相框，墙上挂着两幅装裱的印刷画，背景中有一个黑色的金属木质置物架，上面摆放着书籍、蜡烛、植物和装饰品，右侧有灰色落地窗帘。使用柔和的室内暖光，浅景深，自然的皮肤纹理，写实的织物褶皱，柔和的米色和炭灰色调，4:3 横向构图，平视视角，35mm 编辑摄影质感，无可见标志，无文字，无水印，无其他人物。
+
+[English]
+Create a realistic lifestyle fashion photograph of two young East Asian women sitting on an unmade bed in a cozy modern bedroom at night, styled like an intimate premium loungewear campaign. The woman on the left wears {argument name="left outfit" default="dark charcoal button-up pajama set with white piping"}, has long dark hair tied back in a low ponytail with wispy bangs, sits turned slightly toward the other woman with hands resting near her lap, and gives a thoughtful, serious side glance. The woman on the right wears {argument name="right outfit" default="soft cream ribbed knit lounge set with drawstring waist"}, has shoulder-length dark brown hair with airy bangs, sits cross-legged or curled on the bed, one arm folded and the other hand lightly touching her chin, looking back as if in quiet conversation. The bedroom should feel warm, calm, and lived-in: rumpled white and beige bedding, a wooden nightstand with a glowing round lamp and small framed photo on the left, two framed prints on the wall, a black metal-and-wood shelving unit in the background with books, candles, plants, and decor, and gray floor-length curtains on the right. Use soft warm indoor lighting, shallow depth of field, natural skin texture, realistic fabric folds, muted beige and charcoal color palette, 4:3 horizontal composition, eye-level camera, 35mm editorial photography look, no visible logos, no text, no watermark, no extra people.
+```
+
+**来源：** [@kuripon](https://x.com/malonpon/status/2075459239410311182) | 2026-07-10
+
+---
+
+### 🏛️ 例 3761：阳光明媚的卡通早餐休息时光
+
+![阳光明媚的卡通早餐休息时光](../../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E5%8D%A1%E9%80%9A%E6%97%A9%E9%A4%90%E4%BC%91%E6%81%AF%E6%97%B6%E5%85%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅明亮的垂直动漫/卡通跨界插画，展现办公室或教室休息室里愉快的夏日清晨，使用 {argument name="character style blend" default="日式动漫背景搭配欧美报纸漫画风格前景角色"}。画面应呈现出动画参考帧的感觉，色彩丰富、线条简洁且适合全家观看。
+
+画布：高垂直 9:16 构图，全彩数字插画，具有清晰的墨线轮廓、柔和的赛璐珞阴影、温暖的阳光和温馨的室内环境。
+
+主要角色：展示 4 个人物。前景是 2 位金发卡通儿童，特征简化圆润，线条粗黑：左侧 1 位金发男孩穿着纯白 T 恤和蓝色牛仔裤，半眯着顽皮的眼睛，嘴角上扬，单手叉腰；右侧 1 位金发女孩戴着白粉相间的棒球帽，身穿白色衬衫和粉色背带裤，闭着一只眼微笑，右手食指向上指。背景是 2 位动漫风格的成年人或青少年：1 位睡眼惺忪的黑发男性，穿着白色衬衫和蓝色领带，打着哈欠，揉着一只眼睛，手里拿着一个深蓝色马克杯；1 位微笑着的棕发女性，穿着粉色上衣，戴着挂绳，用手掩口轻笑，手里拿着一个奶油色马克杯。
+
+房间与背景：将他们置于一个阳光充足的房间内，左侧有一扇大窗户，可以看到蓝天、蓬松的白云和绿树。后墙上挂着一张七月日历，顶部有海滩插图，并标有巨大的红色数字 7；显示 1 到 31 日的日期网格。此外，放置一张带有太阳、云朵、雨和雨伞的小型天气海报，以及一个放有活页夹、植物和红色双铃闹钟的架子。
+
+前景桌面物品：包含 7 件可见的桌面物品：1 个盛有纳豆和葱花的白米饭碗；1 个长方形纳豆小碟；1 个印有戴帽可爱熊脸的奶油色咖啡杯；1 本名为 {argument name="comic title" default="Fables"} 的彩色漫画书/杂志；1 份名为 {argument name="newspaper title" default="SPORTS"} 的体育报纸，上面印有棒球运动员；1 本螺旋笔记本，上面放着一张黄纸和一支蓝色圆珠笔；右下角边缘有一部黑色智能手机。
+
+氛围与动作：场景应体现悠闲的早餐或工作间隙。前景的儿童看起来顽皮且健谈，背景的男性显得困倦，背景的女性则感到愉悦。使用富有表现力的姿势和夸张的卡通表情。
+
+文本内容：仅保留可见的英文标题 {argument name="calendar month number" default="7"}、{argument name="comic title" default="Fables"} 和 {argument name="newspaper title" default="SPORTS"}。保持其他文字最少，且不干扰画面。
+
+约束：如果使用已知角色参考，请保持官方的角色比例和服装细节一致。不使用照片写实风格，无水印，无额外角色，除指定的 7 件物品外，不得添加额外的桌面物品。
+
+[English]
+Goal: Create a bright vertical anime/cartoon crossover illustration of a cheerful summer morning in an office or classroom break room, using {argument name="character style blend" default="Japanese anime background with Western newspaper-comic foreground characters"}. The image should feel like an animation reference frame, colorful, clean, and family friendly.
+
+Canvas: Tall vertical 9:16 composition, full-color digital illustration with crisp inked outlines, soft cel shading, warm sunlight, and a cozy indoor setting.
+
+Main characters: Show exactly 4 people. In the foreground are 2 blond cartoon children with simplified rounded features and thick black outlines: 1 blond boy on the left wearing a plain white T-shirt and blue jeans, half-lidded mischievous eyes, smirking, one hand on his hip; 1 blond girl on the right wearing a white-and-pink baseball cap, white shirt, pink overalls, smiling with one eye closed and pointing upward with her right index finger. In the background are 2 anime-style adults or teens: 1 sleepy dark-haired male in a white dress shirt and blue tie yawning while rubbing one eye and holding a dark blue mug; 1 smiling brown-haired female in a pink top with a lanyard, laughing with one hand near her mouth and holding a cream mug.
+
+Room and background: Place them in a sunlit room with a large window on the left showing blue sky, fluffy white clouds, and green trees. On the back wall place a hanging July calendar with a beach illustration at the top and a large red number 7; show a grid of dates 1 through 31. Also place a small weather poster with sun, clouds, rain, and an umbrella, plus a shelf with binders, plants, and a red twin-bell alarm clock.
+
+Foreground table objects: Include exactly 7 visible tabletop items: 1 white bowl of rice topped with brown natto and chopped green onion; 1 small rectangular dish of natto; 1 cream coffee mug with a cute bear face wearing a cap; 1 colorful comic book/magazine titled {argument name="comic title" default="Fables"}; 1 sports newspaper titled {argument name="newspaper title" default="SPORTS"} showing a baseball player; 1 spiral notebook with a yellow page and blue pen on top; 1 black smartphone at the lower right edge.
+
+Mood and action: The scene should suggest a casual breakfast or work break. The foreground children look playful and talkative, while the background male is sleepy and the background female is amused. Use expressive poses and exaggerated cartoon faces.
+
+Text content: Preserve only the visible English titles {argument name="calendar month number" default="7"}, {argument name="comic title" default="Fables"}, and {argument name="newspaper title" default="SPORTS"}. Keep other text minimal and not distracting.
+
+Constraints: Keep the official character proportions and outfit details consistent if using a known character reference. Use no photorealism, no watermark, no extra characters, and no extra tabletop items beyond the counted 7.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2075402297195249873) | 2026-07-10
+
+---
+

@@ -2952,3 +2952,225 @@ Constraints: Use exactly 6 ingredient notes and exactly 5 step cards; keep all C
 
 ---
 
+### 📊 例 3647：日本 AI 员工信息图
+
+![日本 AI 员工信息图](../../images/%E6%97%A5%E6%9C%AC%20AI%20%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的日本商业信息图 Slides，解释向 AI 分配角色的转变，核心概念为“AI 员工”。使用 {argument name="main headline" default="AIに役割を持たせる時代へ。"} 作为顶部大标题。
+
+画布：垂直肖像型信息图，比例约为 3:4，白色背景，细浅灰色边框，海军蓝强调色，黑色正文，圆角矩形内容块，极简线条图标。设计风格应类似于精致的 LinkedIn/X 商业 Slides 或提案讲义。
+
+布局：从上到下分为 6 个堆叠部分。
+
+第 1 部分 — 标题与循环图：顶部放置大号粗体标题。左侧包含三行简短的日语说明，关于花费一周时间开发个人 AI 总编辑，反复编写角色、分配工作、检查输出并重写角色的过程。右侧展示一个包含海军蓝箭头和简单图标的 4 步循环工作流。工作流步骤必须准确为 4 个：1) 铅笔图标，标注「役割を書き直す」；2) 文档图标，标注「役割を書く」；3) 办公桌前的人图标，标注「仕事を任せる」；4) 放大镜图标，标注「アウトプットを確認」。
+
+第 2 部分 — 三家公司公告卡片：一个圆角框，标题为 {argument name="announcement heading" default="そうしたら今週、3社が「仕事をするAI」を発表しました。"}。在框内创建 3 张水平排列的公司卡片。卡片 1：类似 OpenAI 标志的结状图标，标题「OpenAI」，产品「ChatGPT Work」，简短的日语描述，关于宣布一种能自主处理复杂任务的新型 AI 工作结构。卡片 2：Anthropic 风格的 AI 图标，标题「Anthropic」，产品「Claude Cowork」，简短的日语描述，关于扩展 Claude Cowork，让 AI 作为团队成员工作。卡片 3：xAI 标志，标题「xAI」，产品 {argument name="xAI product name" default="Grok 4.5"}，简短的日语描述，关于推出在编码和 Agent 任务方面表现强劲的新旗舰产品。卡片下方放置一个深海军蓝横幅，内含白色文字：「3社とも、「答えるAI」ではなく「仕事をするAI」を出してきました。」。
+
+第 3 部分 — 关键信息块：分为两栏。左栏为大号粗体文字：「AIを使う時代から、AIに役割を持たせる時代へ。」 右栏为一段解释，说明整个行业正朝着这个方向发展，ChatGPT Work、AI 员工和 AI 公司已不再是罕见概念。最后以一个粗体海军蓝问题结尾：{argument name="closing question" default="皆さんはもう、AI社員導入していますか？"}。
+
+第 4 部分 — AI 员工定义：以海军蓝胶囊标题开头：「AI社員って何？」。用日语解释，简单来说，就是拥有角色的 AI。在「例えば自分なら、」下方包含 3 张小型角色卡片：1) 人物图标，标注「編集長（SNS・ブランド）」；2) 笔记本电脑/代码图标，标注「開発（コード）」；3) 文档/搜索图标，标注「秘書（調査・整理）」。添加注释说明每个角色都被赋予了独立职责。右侧写道，通过像赋予人类职位一样为 AI 分配角色，输出结果会变得更加稳定。
+
+第 5 部分 — 如何制作：添加海军蓝胶囊标题「どうやって作るの？」并解释方法出奇简单：创建 Claude Code 公司提示词并运行它。展示 4 个水平排列的编号步骤。步骤 1：「Claude Codeで company/フォルダを作る」，配以深色终端风格的文件树，显示 7 个文件：company/, mission.md, vision.md, values.md, role_editor.md, role_developer.md, role_secretary.md, rules.md。步骤 2：「各役割のルールや基準を Markdownで書く」，配以要点：「ミッション」, 「ビジョン」, 「判断基準」, 「話し方」, 「役割の詳細など」。步骤 3：「Claude Codeにプロンプトを渡す」，配以黑色对话气泡，内含日语文本，要求其读取公司文件夹并担任 SNS 总编辑。步骤 4：「仕事を任せて、改善を繰り返す」，配以微型循环图，显示办公桌前的人、放大镜和铅笔图标，分别标注工作、检查、修正。
+
+第 6 部分 — 底部要点：一个圆角页脚条，左侧带有海军蓝灯泡图标，以及粗体日语要点文字：{argument name="footer takeaway" default="大事なのはプロンプトの上手さではなく、「役割の設計」です。"}。右侧添加一个小人物/团队图标，并附上一句话解释：如果你将 AI 视为像人类一样需要培养的对象，它就会成为你可以信赖的员工。
+
+视觉风格：日本企业信息图，清晰的排版，宽裕的间距，微妙的灰色分隔线，海军蓝高光，扁平单色线条图标，无照片，无渐变，无杂乱。保持所有日语文本清晰且对齐。除指定数量外，请勿添加额外的公司、步骤、卡片或装饰元素。
+
+[English]
+Goal: Create a clean Japanese business infographic slide explaining the shift to assigning roles to AI, centered on the concept of an “AI employee.” Use {argument name="main headline" default="AIに役割を持たせる時代へ。"} as the large top headline.
+
+Canvas: Vertical portrait infographic, approximately 3:4 aspect ratio, white background, thin light-gray border, navy blue accent color, black body text, rounded rectangular content blocks, minimalist line icons. The design should look like a polished LinkedIn/X business slide or proposal handout.
+
+Layout: Use 6 stacked sections from top to bottom.
+
+Section 1 — Header and cycle diagram: At the top, place the large bold headline. On the left, include three short Japanese explanatory lines about spending one week developing a personal AI editor-in-chief, repeatedly writing roles, assigning work, checking output, and rewriting roles. On the right, show a circular 4-step workflow with navy arrows and simple icons. Count exactly 4 workflow steps: 1) pencil icon labeled 「役割を書き直す」, 2) document icon labeled 「役割を書く」, 3) person-at-desk icon labeled 「仕事を任せる」, 4) magnifying glass icon labeled 「アウトプットを確認」.
+
+Section 2 — Three company announcement cards: A rounded box with the heading {argument name="announcement heading" default="そうしたら今週、3社が「仕事をするAI」を発表しました。"}. Inside it, create exactly 3 horizontal company cards. Card 1: OpenAI logo-like knot icon, title 「OpenAI」, product 「ChatGPT Work」, short Japanese description about announcing a new AI work structure that autonomously handles complex tasks. Card 2: Anthropic stylized AI logo, title 「Anthropic」, product 「Claude Cowork」, short Japanese description about expanding Claude Cowork, where AI works as a member of the team. Card 3: xAI logo, title 「xAI」, product {argument name="xAI product name" default="Grok 4.5"}, short Japanese description about launching a new flagship strong in coding and agent tasks. Below the cards, place a dark navy banner with white text: 「3社とも、「答えるAI」ではなく「仕事をするAI」を出してきました。」.
+
+Section 3 — Key message block: Split into two columns. Left column has large bold text: 「AIを使う時代から、AIに役割を持たせる時代へ。」 Right column has a paragraph explaining that the whole industry is moving in this direction, and that ChatGPT Work, AI employees, and AI Company are no longer unusual concepts. End with a bold navy question: {argument name="closing question" default="皆さんはもう、AI社員導入していますか？"}.
+
+Section 4 — Definition of AI employee: Start with a navy pill heading: 「AI社員って何？」. Explain in Japanese that, simply put, it is an AI with a role. Include exactly 3 small role cards under 「例えば自分なら、」: 1) person icon labeled 「編集長（SNS・ブランド）」, 2) laptop/code icon labeled 「開発（コード）」, 3) document/search icon labeled 「秘書（調査・整理）」. Add a note that each is given a separate role. On the right, write that by giving AI roles like people have job roles, output becomes more stable.
+
+Section 5 — How to make it: Add a navy pill heading 「どうやって作るの？」 and explain that the method is surprisingly simple: create a Claude Code company prompt and operate it. Show exactly 4 numbered steps in a horizontal process. Step 1: 「Claude Codeで company/フォルダを作る」 with a dark terminal-style file tree showing exactly 7 files: company/, mission.md, vision.md, values.md, role_editor.md, role_developer.md, role_secretary.md, rules.md. Step 2: 「各役割のルールや基準を Markdownで書く」 with bullets: 「ミッション」, 「ビジョン」, 「判断基準」, 「話し方」, 「役割の詳細など」. Step 3: 「Claude Codeにプロンプトを渡す」 with a black speech bubble containing Japanese text asking it to read the company folder and act as the SNS editor-in-chief. Step 4: 「仕事を任せて、改善を繰り返す」 with a mini circular loop showing person-at-desk, magnifying glass, and pencil icons labeled work, check, fix.
+
+Section 6 — Bottom takeaway: A rounded footer strip with a navy lightbulb icon on the left and bold Japanese takeaway text: {argument name="footer takeaway" default="大事なのはプロンプトの上手さではなく、「役割の設計」です。"}. On the right, add a small people/team icon and a sentence explaining that if you assume AI is something to train like a human, it becomes an employee you can rely on.
+
+Visual style: Japanese corporate infographic, crisp typography, generous spacing, subtle gray dividers, navy highlights, flat monochrome line icons, no photos, no gradients, no clutter. Keep all Japanese text legible and aligned. Do not add extra companies, extra steps, extra cards, or decorative elements beyond the specified counts.
+```
+
+**来源：** [@坂本健太｜IdeaReal 🪼](https://x.com/ksakamoto7/status/2075726645705773360) | 2026-07-10
+
+---
+
+### 📊 例 3659：AI 创新者个人资料信息图
+
+![AI 创新者个人资料信息图](../../images/AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张精致的正方形 AI 创新者个人资料信息图，介绍 {argument name="character name" default="Thibault Sottiaux"}，采用现代科技杂志封面卡片的风格。
+
+画布：正方形 1:1 布局，白色背景，深钴蓝色与亮橙色配色方案，带有细圆角蓝色边框，底部边缘饰有微妙的电路轨迹，角落处点缀着装饰性圆点和抽象的网络节点。采用清晰的矢量布局与柔和的水彩肖像相结合。
+
+布局：双栏构图。左侧上方为大幅水彩风格的半身肖像，下方为职业生涯时间轴卡片。右侧上方为超大的姓名标题，下方为简短的所属机构行，随后是三张以平衡网格排列的圆角信息卡片。底部居中添加页脚标签。
+
+英雄肖像：左上方展示一位面带微笑的成年男性，留着棕色短侧分发型，肤色浅，带有轻微胡茬，身穿黑色连帽衫，呈现为半写实水彩插画，背景有蓝色墨水溅射效果，肖像周围环绕着细细的轨道弧线。
+
+标题与顶部文本：深蓝色大号加粗大写标题，内容为 {argument name="headline text" default="THIBAULT SOTTIAUX"}。下方放置一条细橙色横线，以及所属机构行：“OpenAI • Core Products Lead • Codex”，并使用橙色圆点作为分隔符。
+
+卡片与内容：使用 5 张圆角内容卡片，每张卡片均带有蓝色轮廓、清晰的图标徽章和深蓝色章节标题。
+
+1. “个人简介”卡片：蓝色圆圈内的用户剪影图标。正文：“Thibault ‘Tibo’ Sottiaux 是一位比利时软件工程师，也是 OpenAI 的 AI 产品负责人。他领导 Codex 项目，并致力于推动专注于辅助实际软件工程的 AI 系统核心产品工作。在加入 OpenAI 之前，他曾在 Google DeepMind 工作，构建了 AI/ML 工作流基础设施，并随后领导了 Gemini 的人类数据工作。”
+
+2. “职业时间轴”卡片：日历图标。包含 6 条带有连接蓝色圆圈的时间轴条目：“2009–2012 年：UCLouvain 计算与应用数学学士学位”；“2012–2014 年：UCLouvain 计算与应用数学硕士学位”；“2015–2018 年：Google — 软件工程职位”；“2018–2024 年：Google DeepMind — 机器学习工作流与研究基础设施”；“2023–2024 年：Gemini 人类数据负责人”；“2024 年至今：OpenAI — Codex 领导力与核心产品工作”。
+
+3. “核心贡献”卡片：橙色灯泡图标。包含 5 行贡献条目，每行左侧配有一个小型方形线条图标，并在加粗的蓝色标签文字前添加橙色圆点：“Codex 领导力：领导 OpenAI 的软件工程 Agent 及其产品方向。”；“Agentic 工程：协助构建能够理解代码库、规划任务、编写代码并审查变更的系统。”；“Gemini 体验：在 DeepMind 工作期间，为 Gemini 背后的基础设施和人类数据系统做出了贡献。”；“产品与平台集成：在各类 AI 工具之间架起研究、产品与平台执行的桥梁。”；“实际应用价值：专注于帮助人们完成有意义工作的实用 Agent 工作流。” 5 个左侧图标依次为：代码括号、大脑、闪光、拼图块和带代码的用户。
+
+4. “重要意义”卡片：星形图标。包含 4 条勾选符号列表：“将前沿 AI 与日常开发者生产力相结合。”；“助力将 Agentic AI 转化为能够执行实际工作的实用工具。”；“结合了工程深度与产品执行力。”；“影响 AI 编码系统如何演变为更广泛的工作 Agent。”
+
+5. “成就与影响”卡片：古典柱式图标。包含一段简短描述：“Thibault Sottiaux 代表了新一代将研究、工程与产品思维融为一体的 AI 领袖。通过 Codex 以及在 OpenAI 的核心产品领导工作，他正在塑造 Agentic 软件开发和实用 AI 系统的未来。” 在此卡片右下角添加一个装饰性的蓝色 3D 微芯片插画，芯片上带有 OpenAI 的结型符号，发光的电路向外辐射，上方悬浮着一个蓝色线框大脑/云朵。
+
+页脚：居中且带有字间距的页脚文本，内容为“AI INNOVATORS SERIES”，两侧各有两个小橙色圆点。
+
+视觉风格：简洁的编辑类信息图，高端 SaaS/AI 品牌感，强烈的层级结构，圆角卡片，细蓝色分隔线，深海军蓝排版，橙色高光，极简阴影，高分辨率印刷级成品。
+
+约束：保持所有文字清晰且拼写正确。使用 5 张卡片、6 条时间轴条目、5 行核心贡献条目以及 4 条重要意义列表。不要添加额外人物、除芯片上 OpenAI 结型符号以外的徽标、水印或社交媒体 UI。
+
+[English]
+Goal: Create a polished square AI innovator profile infographic about {argument name="character name" default="Thibault Sottiaux"}, styled like a modern tech magazine hero card.
+
+Canvas: Square 1:1 layout, white background, deep cobalt blue and bright orange accent color palette, thin rounded blue border, subtle circuit traces along the bottom edge, dotted decoration and abstract network nodes in the corners. Use crisp vector layout combined with a soft watercolor portrait.
+
+Layout: Two-column composition. The left side contains a large watercolor-style head-and-shoulders portrait at the top and a career timeline card below it. The right side contains the oversized name headline at the top, followed by a short affiliation line, then three rounded information cards stacked in a balanced grid. Add a footer label centered at the bottom.
+
+Hero portrait: On the upper left, show a friendly smiling adult man with short brown side-parted hair, light skin, light stubble, and a black hoodie, rendered as a semi-realistic watercolor illustration with blue ink splashes behind him and thin orbital arc lines around the portrait.
+
+Headline and top text: Large bold uppercase title in dark blue reading {argument name="headline text" default="THIBAULT SOTTIAUX"}. Under it, place a thin orange rule and the affiliation line: “OpenAI • Core Products Lead • Codex”, with orange dot separators.
+
+Cards and content: Use exactly 5 rounded content cards, each with a blue outline, clear icon badge, and dark-blue section heading.
+
+1. “Who He Is” card: icon of a user silhouette in a blue circle. Body text: “Thibault ‘Tibo’ Sottiaux is a Belgian software engineer and AI product leader at OpenAI. He leads Codex and helps drive core product work focused on AI systems that assist real software engineering. Before OpenAI, he worked at Google DeepMind, where he built AI/ML workflow infrastructure and later led human data work for Gemini.”
+
+2. “Career Timeline” card: calendar icon. Include exactly 6 timeline entries with connected blue circles: “2009–2012: B.Sc., Computational & Applied Mathematics, UCLouvain”; “2012–2014: M.Sc., Computational & Applied Mathematics, UCLouvain”; “2015–2018: Google — software engineering roles”; “2018–2024: Google DeepMind — ML workflows and research infrastructure”; “2023–2024: Gemini Human Data Lead”; “2024–present: OpenAI — Codex leadership and core product work”.
+
+3. “Key Contributions” card: orange lightbulb icon. Include exactly 5 contribution rows, each with a small square line icon on the left and an orange bullet before bold blue label text: “Codex Leadership: Leads OpenAI’s software engineering agent and its product direction.”; “Agentic Engineering: Helps build systems that understand codebases, plan tasks, write code, and review changes.”; “Gemini Experience: At DeepMind, contributed to the infrastructure and human-data systems behind Gemini.”; “Product + Platform Integration: Bridges research, product, and platform execution across AI tools.”; “Real-World Utility: Focuses on practical agentic workflows that help people do meaningful work.” The 5 left-side icons are, in order: code brackets, brain, sparkle, puzzle piece, and user-with-code.
+
+4. “Why He Matters” card: star icon. Include exactly 4 checkmark bullets: “Connects frontier AI to everyday developer productivity.”; “Helps turn agentic AI into useful tools that do real work.”; “Combines engineering depth with product execution.”; “Influences how AI coding systems evolve into broader work agents.”
+
+5. “Legacy” card: classical column icon. Include a short paragraph: “Thibault Sottiaux represents a new generation of AI leaders who unite research, engineering, and product thinking. Through Codex and broader core-product leadership at OpenAI, he is helping shape the future of agentic software development and practical AI systems.” Add a decorative blue 3D microchip illustration to the lower right of this card, with the OpenAI knot symbol on the chip, glowing circuit lines radiating outward, and a blue wireframe brain/cloud above it.
+
+Footer: Centered letter-spaced footer text reading “AI INNOVATORS SERIES”, with two small orange dots on each side.
+
+Visual style: Clean editorial infographic, premium SaaS/AI branding, strong hierarchy, rounded cards, thin blue dividers, dark navy typography, orange highlights, minimal shadows, high-resolution print-ready finish.
+
+Constraints: Keep all text legible and spelled correctly. Use exactly 5 cards, exactly 6 timeline entries, exactly 5 key contribution rows, and exactly 4 why-it-matters bullets. Do not add extra people, logos besides the OpenAI knot on the chip, watermarks, or social media UI.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2075648010181062826) | 2026-07-10
+
+---
+
+### 📊 例 3671：日本企业物价指数 Slides
+
+![日本企业物价指数 Slides](../../images/%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E7%89%A9%E4%BB%B7%E6%8C%87%E6%95%B0%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的日本经济信息图表 Slides，总结 {argument name="report month" default="2026年6月"} 的企业商品物价指数速报。
+
+画布：16:9 横向演示幻灯片，白色背景，带有极浅的蓝色点缀，留白充足，采用精美的企业报告设计。主文本颜色使用深蓝色，数值百分比使用明亮的中蓝色。在右下角添加一个灰色的小页码“01”。
+
+布局：左上角放置大标题“企业物价指数，{argument name="report month" default="2026年6月"}速报”。其正下方放置蓝色副标题“国内物价は前年比+7.1%、输入物价は円ベースで+29.7%”。主要内容居中，横向排列 3 张圆角矩形统计卡片，每张卡片带有浅蓝色边框、细微阴影、淡蓝色渐变填充，左上角设有圆形图标区域，包含粗体日文类别标题、细分割线以及两行指标数据。底部左侧放置一个友好的白蓝配色机器人吉祥物，指向右上方，底部居中位置放置一句总结性语句。
+
+统计卡片：使用 3 张卡片。卡片 1：工厂图标，标题“国内企业物价”，指标行“前月比 +0.4%”和“前年比 +7.1%”。卡片 2：货船图标，标题“输出物价（円ベース）”，指标行“前月比 +0.4%”和“前年比 +20.7%”。卡片 3：地球与集装箱/仓库图标，标题“输入物价（円ベース）”，指标行“前月比 +1.3%”和“前年比 +29.7%”。百分比数值需放大并显示为明亮的蓝色，与每行标签右侧对齐。
+
+底部文本：底部居中处使用粗体深蓝色日文：“6月の企业物价は、国内・输出・输入で上昇が続いた”。
+
+视觉风格：现代日本商务演示风格，清晰的矢量图标，圆角设计，柔和阴影，平衡的留白，一致的对齐方式。除 3 张卡片、机器人吉祥物和页码外，无需图表或其他额外装饰。保持所有日文文本清晰易读，并严格按照指定内容呈现。
+
+[English]
+Goal: Create a clean Japanese economic infographic slide summarizing the corporate goods price index速報 for {argument name="report month" default="2026年6月"}.
+
+Canvas: 16:9 horizontal presentation slide, white background with very pale blue accents, ample margins, polished corporate report design. Use navy as the main text color and bright medium blue for numerical percentages. Add a small gray page number “01” at the bottom right.
+
+Layout: Large headline at the top left reading “企業物価指数、{argument name="report month" default="2026年6月"}速報”. Directly below it, a blue subtitle reading “国内物価は前年比+7.1%、輸入物価は円ベースで+29.7%”. Center the main content as exactly 3 rounded rectangular statistic cards in one horizontal row, each with a light blue border, subtle shadow, faint blue gradient fill, a circular icon area at top left, a bold Japanese category title, a thin divider line, and two metric rows. At the bottom, place a small friendly white-and-blue robot mascot on the lower left, pointing upward, and a centered conclusion sentence.
+
+Statistic cards: Use exactly 3 cards. Card 1: factory icon, title “国内企業物価”, metric rows “前月比 +0.4%” and “前年比 +7.1%”. Card 2: cargo ship icon, title “輸出物価（円ベース）”, metric rows “前月比 +0.4%” and “前年比 +20.7%”. Card 3: globe and container/warehouse icon, title “輸入物価（円ベース）”, metric rows “前月比 +1.3%” and “前年比 +29.7%”. Make the percentages large and bright blue, aligned to the right of each row label.
+
+Bottom text: Centered near the bottom in bold navy Japanese: “6月の企業物価は、国内・輸出・輸入で上昇が続いた”.
+
+Visual style: Modern Japanese business presentation, crisp vector icons, rounded corners, soft shadows, balanced whitespace, consistent alignment. No charts or extra decorations beyond the 3 cards, the robot mascot, and page number. Keep all Japanese text legible and exactly as specified.
+```
+
+**来源：** [@ちょこ雑](https://x.com/ChocottoZ63313/status/2075597887875248574) | 2026-07-10
+
+---
+
+### 📊 例 3752：Muse 日语信息图
+
+![Muse 日语信息图](../../images/Muse%20%E6%97%A5%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版手绘风格的日语信息图，背景为点阵笔记本纸，解释 {argument name="AI model name" default="Muse"} 如何改变插图式信息图的创作，并将其定位为日语图像生成的第三种选择。
+
+画布：4:5 竖向布局，采用温暖的米白色纸张背景，带有细微的点阵网格。使用可爱的文具剪贴簿风格，配以深蓝色手绘墨水轮廓、粉色美纹纸胶带、米色胶带、微小星光、叶子、回形针涂鸦、箭头和手绘边框线。配色方案：深蓝色、灰粉色、米色、柔灰色以及少量红/蓝色图表点缀。
+
+顶部标题：顶部横跨一条宽大的浅粉色丝带横幅，上面印有醒目的深蓝色日语标题文字：「{argument name="headline text" default="Muse で図解制作が変わる？"}」。下方居中放置红色副标题：「{argument name="subtitle text" default="日本語の画像生成、第3の選択肢"}」。
+
+主要布局：左侧和中心放置三张带有白色手绘轮廓的内容卡片，右侧放置一个插画风格的演示角色。使用虚线粉色箭头连接卡片，以展示工作流程。
+
+卡片数量：共 3 张卡片。
+1. 左上角卡片：粉色胶带标签，印有深蓝色粗体文字「従来 AI」。下方两行文字：「文字が弱い」以及一个气泡框「日本語も崩れる」。插图：一堆凌乱的废纸团，带有混乱的涂鸦、感叹号以及一张带有警告图标的小图表。
+2. 中心卡片：粉色胶带标签「正確さ」。下方两行文字：「図表を作る」以及「コードと検索」。插图：一个类似二维码的方块、一个放大镜、一个带有红蓝柱状的条形图、一个扳手图标和一个齿轮图标。
+3. 左下角卡片：粉色胶带标签「自己修正」。下方两行文字：「描き直せる」以及「手間が軽くなる」。插图：循环刷新箭头、一个小橡皮擦以及一张带有勾选标记的小图表。
+
+右侧细节：添加一个包含 3 个已勾选项目的清单，使用英文书写：“Nano Banana Pro”、“GPT Image 2” 和 “Muse Image”。在右下角边缘附近添加一个垂直侧注，写着 “Nano Banana Pro”，旁边有两个小的空复选框。
+
+演示角色：在右侧绘制一位友好的日本职场女性，采用简单的动漫/Q 版信息图风格，高度约为图像的三分之一。她留着 {argument name="character hair" default="肩部长度的深棕色波波头"}，戴着黑色圆框眼镜，身穿白色衬衫（袖子卷起）、深蓝色铅笔裙和深蓝色平底鞋。她微笑着，指向左侧的中心卡片。
+
+装饰元素数量：顶部角落包含 2 条胶带，右上角附近 1 个回形针，左下角附近 1 条蓝色胶带，边缘周围有若干小星光和涂鸦卷曲，顶部和底部有细细的手绘边框线。
+
+视觉风格：简洁但具有手工感，日本社交媒体说明图风格，手写文字清晰易读，粗马克笔风格的深蓝色轮廓，带有轻微的不完美感，柔和的粉彩色填充，无照片写实感。
+
+约束：保持所有日语文本准确且易读，避免添加额外的标题或卡片，维持 3 张卡片的结构和 3 项清单，无水印，无写实摄影。
+
+[English]
+Goal: Create a vertical hand-drawn Japanese infographic on dotted notebook paper explaining that {argument name="AI model name" default="Muse"} changes illustrated infographic creation, positioning it as a third option for Japanese image generation.
+
+Canvas: Portrait 4:5 layout, warm off-white cream paper background with a subtle dotted grid. Use a cute stationery scrapbook style with sketchy navy ink outlines, pink masking tape, beige tape, tiny sparkles, leaves, paperclip doodles, arrows, and hand-drawn border lines. Color palette: navy blue, dusty pink, cream, soft gray, and small red/blue chart accents.
+
+Top header: A wide pale pink ribbon banner across the top with bold dark navy Japanese headline text: 「{argument name="headline text" default="Museで図解制作が変わる？"}」. Under it, centered red subtitle: 「{argument name="subtitle text" default="日本語の画像生成、第3の選択肢"}」.
+
+Main layout: Three white sketch-outlined content cards on the left and center, plus an illustrated presenter character on the right. Use dashed pink arrows to connect the cards and suggest a workflow.
+
+Card count: Exactly 3 cards.
+1. Upper-left card: Pink tape label with bold navy text 「従来AI」. Below, two lines: 「文字が弱い」 and a speech bubble 「日本語も崩れる」. Illustration: a messy pile of crumpled papers with chaotic scribbles, exclamation marks, and a small chart sheet with an alert icon.
+2. Center card: Pink tape label 「正確さ」. Below, two lines: 「図表を作る」 and 「コードと検索」. Illustration: a QR-code-like square, a magnifying glass, a bar chart with red and blue bars, a wrench icon, and a gear icon.
+3. Lower-left card: Pink tape label 「自己修正」. Below, two lines: 「描き直せる」 and 「手間が軽くなる」. Illustration: circular refresh arrows, a small eraser, and a mini chart sheet with check marks.
+
+Right side details: Add a checklist with exactly 3 checked items, written in English: “Nano Banana Pro”, “GPT Image 2”, and “Muse Image”. Add a vertical side note near the lower right reading “Nano Banana Pro” with two small empty checkboxes beside the margin.
+
+Presenter character: On the right, draw a friendly Japanese businesswoman in simple anime/chibi infographic style, about one-third of the image height. She has {argument name="character hair" default="shoulder-length dark brown bob hair"}, black round glasses, a white button-up blouse with sleeves rolled up, a navy pencil skirt, and navy flats. She smiles and points left toward the central card.
+
+Decorative element count: Include exactly 2 pieces of tape at the top corners, exactly 1 paperclip near the upper right, exactly 1 blue tape strip near the lower left, several small sparkles and doodle curls around the edges, and thin hand-drawn border strokes at the top and bottom.
+
+Visual style: Clean but handmade, Japanese social-media explainer graphic, legible hand-lettered text, thick marker-like navy outlines, slight imperfections, soft pastel fills, no photorealism.
+
+Constraints: Keep all Japanese text accurate and readable, avoid extra headings or extra cards, maintain the exact three-card structure and the exact three-item checklist, no watermark, no realistic photography.
+```
+
+**来源：** [@永野ヨウ](https://x.com/nagano_yoh/status/2075419556982468979) | 2026-07-10
+
+---
+

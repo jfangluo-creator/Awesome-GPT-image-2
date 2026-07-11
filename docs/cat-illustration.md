@@ -7303,3 +7303,111 @@ Character design sheet, full body turnaround, {argument name="character" default
 
 ---
 
+### 🎨 例 3652：未来实验室中的动漫黑客
+
+![未来实验室中的动漫黑客](../../images/%E6%9C%AA%E6%9D%A5%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%BC%AB%E9%BB%91%E5%AE%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫插画，主角是一位中性风格的年轻天才科学家或黑客，留着 {argument name="hair color" default="铂金色"} 的波波头短发，长长的侧刘海半遮住一只眼睛，皮肤如瓷器般苍白，五官精致，拥有一双迷人的 {argument name="eye color" default="冰蓝色"} 眼睛。角色身穿干练的 {argument name="outfit" default="白色剪裁实验服风格套装，内搭白色衬衫并系有黑色丝带领结"}，以四分之三侧身视角展示腰部以上，身体前倾，神情冷静、忧郁且专注，正在敲击发光的未来感蓝色键盘。双手可见，手指修长优雅。背景设定为一个黑暗的高科技实验室或网络控制室，画面中精确分布着三个悬浮的半透明全息 UI 面板：左上方是一个带有圆形界面图形的大型青蓝色面板，中心右侧是一个小型矩形面板，右侧是一个较大的矩形数据面板。使用发光的青色和紫色界面光效、光泽高光、柔和的轮廓光，并以模糊的深色背景作为对比。风格：精致的日本动漫主视觉图，超干净的线条，细腻的睫毛，精细的发丝，优雅的衣褶，高细节度，电影级光效，冷色调，竖构图，无可见文字，无水印。
+
+[English]
+Create a polished vertical anime illustration of an androgynous young genius scientist or hacker with {argument name="hair color" default="platinum-blonde"} short bob-cut hair, long side bangs partly covering one eye, pale porcelain skin, delicate features, and striking {argument name="eye color" default="ice-blue"} eyes. The character wears a crisp {argument name="outfit" default="white tailored lab-coat style suit over a white shirt with a black ribbon tie"}, shown from the waist up in a three-quarter view, leaning forward with a calm, melancholy, focused expression while typing on a glowing futuristic blue keyboard. Both hands are visible on the keyboard, fingers long and elegant. The setting is a dark high-tech laboratory or cyber control room with exactly three floating translucent holographic UI panels: one large cyan-blue panel in the upper left with circular interface graphics, one small rectangular panel near the center-right, and one larger rectangular data panel on the right. Use luminous cyan and violet interface light, glossy highlights, soft rim lighting, and a dark blurred background for contrast. Style: refined Japanese anime key visual, ultra-clean line art, delicate eyelashes, detailed hair strands, elegant clothing folds, high detail, cinematic lighting, cool color palette, vertical composition, no readable text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075719274329763892) | 2026-07-10
+
+---
+
+### 🎨 例 3665：咖啡馆里的随性女性与冰拿铁
+
+![咖啡馆里的随性女性与冰拿铁](../../images/%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8C%E7%9A%84%E9%9A%8F%E6%80%A7%E5%A5%B3%E6%80%A7%E4%B8%8E%E5%86%B0%E6%8B%BF%E9%93%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张在温馨且繁忙的咖啡馆内拍摄的随性全身生活照。主体是一位年轻的 {argument name="woman description" default="20 岁出头的东亚女性，妆容清透自然，皮肤白皙，深色中长发扎成松散的低马尾，留着空气刘海"}，她站在咖啡馆柜台旁，身体微微侧向，若有所思地向上凝望，仿佛在耐心地等待。她一只手拿着装有冰拿铁的透明塑料杯和吸管，另一只手随意地插在宽松的高腰奶油色长裤口袋里。她穿着一件超大款的 {argument name="shirt color and fabric" default="鼠尾草绿亚麻"} 衬衫，袖子随意卷至肘部，搭配阔腿奶油色长裤、干净的白色运动鞋，肩上挎着一个极简风格的大号黑色皮革托特包。咖啡馆内部应呈现出温暖且真实的质感：左侧是深色木质柜台和橱柜、玻璃糕点展示柜、柜台上方写着模糊文字的黑板“项目”、摆放着杯子和咖啡用品的架子、温暖的吊灯、裸露的深色天花板横梁、水泥地面，右侧则是木椅和小圆桌，后方有一扇明亮的窗户。背景中需包含 7 位清晰可见的顾客：左侧柜台旁有一位穿黑色衬衫配蓝色牛仔裤的女性，主体后方有一位半遮挡的咖啡馆员工或顾客，柜台附近有一位背对镜头的白衬衫人士，中间有一位穿黑衣的女性，服务区旁站着一位穿白色 T 恤的女性，后窗附近还有两位顾客。采用自然纪实摄影风格，比例真实，光线为柔和的咖啡馆环境光，色彩呈现微妙的胶片质感，景深适中，采用 3:4 竖构图，平视视角，避免摆拍感，无可见品牌标识，无水印，无额外文字。氛围：{argument name="mood" default="宁静、舒适且不经意间的日常之美"}。
+
+[English]
+Create a candid full-body lifestyle photograph inside a cozy, busy coffee shop. The main subject is a young {argument name="woman description" default="East Asian woman in her early 20s with soft natural makeup, fair skin, and dark shoulder-length hair in a loose low ponytail with airy bangs"} standing near the café counter, slightly turned in profile and gazing upward thoughtfully as if waiting patiently. She holds a clear plastic cup of iced latte with a straw in one hand, while her other hand is tucked casually into the pocket of her relaxed-fit high-waisted cream trousers. She wears an oversized {argument name="shirt color and fabric" default="sage green linen"} button-up shirt with sleeves loosely rolled to the elbows, wide-leg cream trousers, clean white sneakers, and a large minimalist black leather shoulder tote hanging from one shoulder. The café interior should feel warm and authentic: dark wooden counter and cabinetry on the left, glass pastry display, chalkboard menu boards with small unreadable writing above the counter, shelves with cups and coffee items, warm pendant lights, exposed dark ceiling beams, concrete floor, wooden chairs and small round tables on the right, and a bright window toward the back. Include exactly 7 visible background customers: one woman in a black shirt and blue jeans at the counter on the left, one partially hidden café worker or customer behind the subject, one person in a white shirt facing away near the counter, one woman in black near the middle, one woman in a white T-shirt standing by the service area, and two people near the back window. Use natural documentary photography, realistic proportions, soft ambient café lighting, subtle film-like colors, shallow-to-moderate depth of field, vertical 3:4 composition, eye-level camera, no posed fashion-shoot feeling, no readable branding, no watermark, and no extra text. Mood: {argument name="mood" default="quiet calm, comfort, and unplanned everyday beauty"}.
+```
+
+**来源：** [@Cherry 2.O](https://x.com/Mind_Boticni/status/2075619692799287771) | 2026-07-10
+
+---
+
+### 🎨 例 3689：日落沼泽厚涂油画
+
+![日落沼泽厚涂油画](../../images/%E6%97%A5%E8%90%BD%E6%B2%BC%E6%B3%BD%E5%8E%9A%E6%B6%82%E6%B2%B9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+厚涂油画，描绘了 {argument name="landscape" default="日落时分的沼泽"}，左侧前景以 {argument name="foreground elements" default="高大的芦苇和香蒲"} 为主，下半部分为平静且具有倒影的池塘，地平线附近有一轮低垂的暖阳，天空中飞过三只深色的鸟。 {argument name="composition" default="竖构图"}
+
+[English]
+Impasto oil painting of a {argument name="landscape" default="marsh at sunset"}, with {argument name="foreground elements" default="tall reeds and cattails"} dominating the left foreground, a calm reflective pond in the lower half, a low glowing sun near the horizon, and three dark birds flying across the upper sky. {argument name="composition" default="Vertical composition"}
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2075544981872234812) | 2026-07-10
+
+---
+
+### 🎨 例 3716：大峡谷场景中的角色
+
+![大峡谷场景中的角色](../../images/%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+この子が、{argument name="場所" default="アメリカのグランドキャニオン"}を歩いてるシーンの画像を出力してください。
+```
+
+**来源：** [@みのるＴＶ](https://x.com/minoru_SB99/status/2075514055742439558) | 2026-07-10
+
+---
+
+### 🎨 例 3739：山间溪流边的动漫少女
+
+![山间溪流边的动漫少女](../../images/%E5%B1%B1%E9%97%B4%E6%BA%AA%E6%B5%81%E8%BE%B9%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高分辨率的动漫插画，主角是 {argument name="character name" default="Atri"}，一位精致的年轻动漫少女，她坐在一块长满青苔的大河石上，赤脚浸在清澈的浅水中。她拥有及腰的超长 {argument name="hair color" default="银白色"} 秀发，留着柔顺的刘海，头部两侧各系着一个小巧的黑色蝴蝶结发饰，有着粉红色的双眸、白皙的皮肤，正微笑着看向观众，神情温柔。她身穿荷叶边白色夏季吊带背心和配套的褶边短裤，胸前和短裤侧面饰有深海军蓝色的蝴蝶结。姿态放松而优雅：侧身四分之三视角，一只手撑在身后的岩石上，另一只手放在大腿附近，双腿斜向伸入波光粼粼的溪流中。
+
+场景设定在 {argument name="season and weather" default="阳光明媚的夏日午后"} 的山间溪畔：透明的蓝绿色溪水映出水底圆润的鹅卵石，阳光在她的脚边泛起粼粼波光，岩石岸边长满了青草和野花，茂密的树木投下斑驳的树影，远处是连绵的森林山脉，背景深处隐约可见一座小桥或乡村建筑，天空湛蓝，漂浮着柔软的白云。采用精致的日式视觉小说或现代动漫视觉图风格，呈现高细节的发丝、通透的皮肤高光、清晰的线条、饱和的自然色彩、柔和的景深以及电影级的构图，达到 4K 级别细节。强调水面的波光反射、穿过叶片的温暖阳光、宁静的乡村气息以及治愈祥和的氛围。画面中不含文字、水印、额外角色、破损伪影或扭曲的身体结构。
+
+[English]
+Create a high-resolution anime illustration of {argument name="character name" default="Atri"}, a delicate young anime girl sitting on a large mossy river rock with her bare feet dipped in clear shallow water. She has very long {argument name="hair color" default="silvery white"} hair flowing past her waist, soft bangs, two small black ribbon hair bows near the sides of her head, large pink-red eyes, fair skin, and a gentle open-mouth smile while looking toward the viewer. She wears a frilly white summer camisole and matching ruffled shorts, with small dark navy bow accents on the chest and at the side of the shorts. The pose is relaxed and graceful: seated three-quarter view, one hand resting behind her on the rock for support, the other near her thigh, both legs extended diagonally into the sparkling stream.
+
+Set the scene in a bright idyllic mountain riverside during {argument name="season and weather" default="a sunny summer afternoon"}: transparent green-blue water revealing rounded pebbles beneath, sunlight glittering on ripples around her feet, a rocky bank lined with grass and wild greenery, dense leafy trees casting dappled shade, distant forested mountains, a small bridge or rural building far in the background, and a vivid blue sky with soft white clouds. Use a polished Japanese visual novel / modern anime key visual style with highly detailed hair strands, luminous skin highlights, crisp linework, saturated natural colors, soft atmospheric depth, cinematic composition, and 4K-level detail. Emphasize sparkling water reflections, warm sunbeams through leaves, peaceful rural freshness, and a wholesome serene mood. No text, no watermark, no extra characters, no damaged artifacts, no distorted anatomy.
+```
+
+**来源：** [@一号突破手亚托莉](https://x.com/Atri997/status/2075452152131301424) | 2026-07-10
+
+---
+
+### 🎨 例 3756：女性休闲夏日穿搭
+
+![女性休闲夏日穿搭](../../images/%E5%A5%B3%E6%80%A7%E4%BC%91%E9%97%B2%E5%A4%8F%E6%97%A5%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：一套女性休闲夏日穿搭，包含一件 {argument name="top" default="黄白格纹吊带上衣"}，采用轻盈棉质面料，配有细肩带、柔和的胸部褶皱、轻微的帝国腰线过渡以及喇叭状的娃娃衫下摆，具有高级面料质感、逼真的服装结构、整洁的缝线、自然的接缝张力、真实的布料重量、细微的褶皱、写实的垂坠感、精致的边缘处理、清晰的缝隙、真实的折痕、精良的服装细节以及高品质的材质触感，细节真实；搭配一条 {argument name="bottoms" default="浅蓝色水洗牛仔短裤"}，具有清晰的缝线、自然的褪色效果、整洁的收边、真实的牛仔质感、细微的褶皱以及写实的服装结构；最后搭配一双 {argument name="shoes" default="象牙白至浅米色厚底运动凉鞋"}，带有黑色饰边、宽大的织物或帆布质感绑带、圆形金属五金件以及黑色橡胶鞋底；随机添加一些精致的女性化极简配饰，色调为柔和的金色或珍珠色，与整体穿搭自然融合；拒绝廉价感，拒绝演出服风格。
+
+[English]
+Outfit: a feminine casual summer outfit featuring a {argument name="top" default="yellow-and-white gingham camisole top"} in lightweight cotton fabric with thin spaghetti straps, a softly gathered bust, a lightly structured empire-to-waist transition, and a flared peplum-like babydoll hem, with premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable fabric weight, subtle wrinkles, realistic drape, refined edge finishing, visible seams, real folds, well-made clothing details, high-quality material feel, and detailed garment realism; paired with {argument name="bottoms" default="light-blue washed denim short shorts"} with visible seams, natural fading, clean finishing, believable denim weight, subtle wrinkles, and realistic garment construction; finished with {argument name="shoes" default="ivory-to-light-beige chunky platform sport sandals"} with black trim, broad fabric or canvas-like straps, round metal hardware details, and a black rubber sole; add a random mix of delicate feminine minimal accessories in soft gold-tone or pearl-tone that naturally match the outfit; not costume-like, not cheap-looking.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075417968524349940) | 2026-07-10
+
+---
+

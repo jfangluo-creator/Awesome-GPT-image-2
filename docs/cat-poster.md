@@ -17295,3 +17295,360 @@ Visual style: Flat vector illustration, Chinese healing-aesthetic poster, clean 
 
 ---
 
+### 🎴 例 3662：《驯龙高手》立体书海报
+
+![《驯龙高手》立体书海报](../../images/%E3%80%8A%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%E3%80%8B%E7%AB%8B%E4%BD%93%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端、梦幻般的剪纸风格《驯龙高手》故事书海报，融合治愈系亲子绘本的温柔与奢华立体书的手工奇迹。画面必须充满魔力、温暖、柔和、情感慰藉，且具有优美的立体感，如同专为亲密阅读和终身珍藏而设计的收藏级儿童读物。整体构图应柔和、优雅且温馨，以打开的书本作为绝对的视觉锚点。采用竖构图，将一本精美的故事书置于中心。书本必须呈现出奢华与质感：厚实的纹理纸张、高品质精装结构、柔软的毛边页缘、细腻的纸张纹理、优雅的装帧以及精致的印刷工艺。打开的书页向上绽放，呈现出一个层叠的纸艺雕塑世界，仿佛故事正从书页中静静展开。核心概念是：《驯龙高手》的世界从梦幻的层叠纸艺书中浮现，童心未泯的维京英雄与龙在信任、好奇与温柔陪伴的瞬间相遇。基调应更偏向友谊、奇迹与情感安全，而非战斗。在立体场景中心，创作一个风格化的维京孩童，采用高端手绘纸偶美学：大而传神的眼睛、柔和的面部特征、娇小且充满冒险感的身体比例、层叠的北欧服饰、小巧的靴子、温柔的斗篷细节，以及勇敢而细腻的情感表现。角色应如同精美插画绘本中的人物化身为立体的纸艺雕塑。在孩童对面，创作一条从书中升起的龙，呈现出柔和、魔幻的立体形态。龙应显得可爱、具有保护欲且令人惊叹：优雅的翅膀结构、圆润且富有表情的面部、深邃的午夜蓝或柔和的蓝黑色调、手绘纸张质感、温柔的动作弧度以及温暖的情感存在。龙必须融合手绘插画、剪纸雕塑和故事书魔力，而非恐怖生物或塑料玩具。情感互动是海报的核心：孩童与龙面对面，处于安静、温柔的初次结缘瞬间，两者之间有一点微弱的亮光、余烬或魔法火花。这一焦点应传达出信任诞生的感觉。这种关系必须治愈、安全且充满奇迹，适合高端亲子绘本。周围的世界完全由层叠的纸艺工程构建：堆叠的纸山、柔和的悬崖轮廓、北欧村庄屋顶、云朵剪影、细小的波浪、飞舞的书页层、纸艺森林以及过渡到立体结构的细腻素描线条。世界应显得手工制作且具有沉浸感，具有可见的纸张深度和优雅的层次分离。部分区域保持书页上的平面插画，部分升起为折叠的立体元素，部分成为完全的立体剪纸景观。视觉风格必须结合：奢华立体书设计、柔和的剪纸分层、立体手绘插画以及温暖治愈的绘本氛围。一切都必须显得匠心独运、充满魔力且情感高端。背景必须保持极简且柔和发光：温暖的象牙白、浅羊皮纸色、淡奶油色或柔和的暖米色，带有轻微的大气模糊，无杂乱感。无房间布置，无书架，无多余道具。焦点必须完全集中在故事书以及从中展开的世界。光影必须极其柔和且精致：温暖的故事书光芒、柔和的金米色照明、层叠纸缘投下的细腻阴影、孩童脸上的柔和高光、龙翼上微妙的发光轮廓，以及书本上平静的魔幻衰减。光影必须舒适、梦幻且高端，绝不生硬或人工化。排版应极简、官方且完美融合。使用：主英文标题：“HOW TO TRAIN YOUR DRAGON”，小型中文副标题：“驯龙高手”，可选的小型辅助英文行：“A DREAMY POP-UP TALE OF FRIENDSHIP”。排版应温柔、具有故事书感且高端，保持优雅的间距和清晰的层级。仅包含极简的官方风格 Logo 处理。避免杂乱的海报文字、廉价的家庭电影字体或过度的装饰效果。色彩策略：暖羊皮纸色、柔和象牙白、奶油米色、雾蓝色、深邃的龙蓝黑色、柔和的森林绿、灰蒙蒙的北欧灰蓝色，以及情感焦点处的一点温暖余烬光芒。色调必须干净、柔和、魔幻且舒缓。整体氛围：梦幻、治愈、温暖、立体、手工、魔幻、温柔、高端、故事书感、令人难忘。渲染风格：超细节奢华立体绘本设计、层叠剪纸故事世界、立体手绘卡通插画、打开的收藏版故事书、风格化的维京孩童与龙互动、温暖魔幻光影、柔和编辑级照明、极简高端背景、治愈系奇幻绘本海报、8k、世界级视觉质量。负面提示：仅平面插画、塑料玩具感、杂乱背景、凌乱拼贴、低细节纸张折痕、普通龙、恐怖怪物、生硬的电影式黑暗、过度写实的人类、廉价儿童书设计、喧闹的排版、混乱的构图、霓虹色彩、低端卡通渲染、随机道具、脆弱的立体结构
+
+[English]
+Create an ultra-premium dreamy papercut storybook poster for “How to Train Your Dragon”, blending the tenderness of a healing parent-child picture book with the handcrafted wonder of a luxury pop-up book. The image must feel magical, warm, gentle, emotionally comforting, and beautifully dimensional, like a collector’s edition children’s book designed for intimate reading and lifelong keeping. The overall composition should be soft, elegant, and heartwarming, with the open book as the absolute visual anchor. Use a vertical composition with a beautifully opened premium storybook placed at the center. The book must feel luxurious and tactile: thick textured paper, high-quality hardcover structure, soft deckled page edges, subtle paper grain, elegant binding, and refined print finish. The open spread must bloom upward into a layered paper-sculpture world, as if the story is quietly unfolding from the pages. The core concept is: the world of “How to Train Your Dragon” emerging from a dreamy layered paper book, where a childlike Viking hero and a dragon meet in a moment of trust, curiosity, and gentle companionship. The tone must feel less like battle and more like friendship, wonder, and emotional safety. At the center of the pop-up scene, create a stylized young Viking child in a premium hand-drawn paper-doll aesthetic: large expressive eyes, soft facial features, small adventurous body proportions, layered Nordic clothing, tiny boots, gentle cape details, and a brave but tender emotional presence. The character should feel like a beautifully illustrated children’s book figure turned into a dimensional papercraft sculpture. Opposite the child, create a dragon rising from the book in a soft, magical pop-up form. The dragon should feel lovable, protective, and wondrous: elegant wing structure, rounded expressive face, deep midnight blue or soft blue-black body tone, painted paper texture, gentle motion arc, and warm emotional presence. The dragon must feel like a fusion of hand-drawn illustration, papercut sculpture, and storybook magic, not like a horror creature and not like a plastic toy. The emotional interaction is the heart of the poster: the child and dragon face each other in a quiet, tender first-bond moment, with a tiny glowing light, ember, or magical spark between them. This focal point should feel like trust being born. The relationship must feel healing, safe, and full of wonder, suitable for a premium parent-child picture book. Build the surrounding world entirely from layered paper engineering: stacked paper mountains, soft cliff contours, Nordic village rooftops, cloud cutouts, small waves, flying page layers, paper forests, and delicate sketch lines transitioning into dimensional structures. The world should feel handcrafted and immersive, with visible paper depth and elegant layer separation. Some areas remain flat illustration on the page, some rise as folded pop-up elements, and some become fully sculptural papercut scenery. The visual style must combine: luxury pop-up book design, soft papercut layering, dimensional hand-drawn illustration, and a warm healing picture-book atmosphere. Everything must feel artisanal, magical, and emotionally premium. Background must remain minimal and softly luminous: warm ivory, light parchment, pale cream, or soft warm beige, with gentle atmospheric blur and no clutter. No room setting, no shelves, no unnecessary props. The focus must remain entirely on the storybook and the world unfolding from it. Lighting must be extremely soft and refined: warm storybook glow, gentle golden-beige illumination, delicate shadows cast by layered paper edges, soft highlight on the child’s face, subtle luminous contour on the dragon wings, and a calm magical falloff across the book. The lighting must feel comforting, dreamy, and premium, never harsh or synthetic. Typography should be minimal, official, and beautifully integrated. Use: main English title: “HOW TO TRAIN YOUR DRAGON” small Chinese subtitle: “驯龙高手” Optional small supporting English line: “A DREAMY POP-UP TALE OF FRIENDSHIP” Typography should feel gentle, storybook-like, and premium, with elegant spacing and clean hierarchy. Include a minimal official-style logo treatment only. Avoid cluttered poster text, cheap family-film fonts, or excessive decorative effects. Color strategy: warm parchment, soft ivory, creamy beige, misty blue, deep dragon blue-black, muted forest green, dusty Nordic gray-blue, and a tiny warm ember glow at the emotional focal point. The palette must feel clean, soft, magical, and soothing. Overall mood: dreamy, healing, warm, dimensional, handcrafted, magical, tender, premium, storybook-like, unforgettable. Rendering style: ultra-detailed luxury pop-up picture book design, layered papercut story world, dimensional hand-drawn cartoon illustration, open collector’s edition storybook, stylized Viking child and dragon interaction, warm magical light, soft editorial lighting, minimalist premium background, healing fantasy picture-book poster, 8k, world-class visual quality. Negative prompt: flat illustration only, plastic toy look, cluttered background, messy collage, low-detail paper folds, generic dragon, horror monster, harsh cinematic darkness, overly realistic human, cheap children’s book design, loud typography, chaotic composition, neon colors, low-end cartoon rendering, random props, weak pop-up structure
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2075629673497948593) | 2026-07-10
+
+---
+
+### 🎴 例 3669：极简风 Oreo 商业广告
+
+![极简风 Oreo 商业广告](../../images/%E6%9E%81%E7%AE%80%E9%A3%8E%20Oreo%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简风格商业广告，包含一个 {argument name="product" default="超大号 Oreo 饼干"}，设计极其简洁。一位身穿 {argument name="clothing" default="全白套装"} 的年轻女性靠在巨大的饼干旁，单腿交叉，手持 Oreo 饼干微笑。背景为柔和的渐变蓝色，后方有醒目的白色大号“OREO”文字。光亮的反光地板，柔和的摄影棚灯光，奢华商业摄影风格。右上角小字“Designed by Mr Das”。底部居中为白色小字标语：“{argument name="tagline" default="扭一扭，舔一舔，泡一泡。"}”
+
+[English]
+Minimalist commercial ad featuring an {argument name="product" default="oversized Oreo cookie"}, ultra clean design. A young woman in {argument name="clothing" default="an all white outfit"} sits against the giant cookie with one leg crossed, smiling while holding an Oreo biscuit. Soft gradient blue background with large bold white “OREO” text behind. Glossy reflective floor, soft studio lighting, luxury commercial photography. Small top right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name="tagline" default="Twist, lick, dunk."}"
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2075605100765343747) | 2026-07-10
+
+---
+
+### 🎴 例 3672：复古 Patagonia 旅行海报
+
+![复古 Patagonia 旅行海报](../../images/%E5%A4%8D%E5%8F%A4%20Patagonia%20%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古旅行海报风格：采用强烈的模拟胶片处理和陈旧印刷纹理的超写实摄影，呈现出如同 60 年代褪色旅行照片重新印制在旧海报纸上的质感。非插画，非绘画。图像带有奶油色羊皮纸边框，边缘略微泛黄且变暗，仿佛纸张已历经岁月。整张图像带有细腻的模拟胶片颗粒感。字体呈现出细微的油墨溢出和印刷纹理。整体色调以温暖的琥珀色、焦橙色、深金色和深棕褐色为主，仅以冰川水深邃寒冷的蓝色作为对比点缀，类似于塞维利亚（Sevilla）海报中使用的近乎单色的琥珀色调。场景为黄金时刻开阔的 Patagonia 山谷地面。一条平坦的碎石路和干草地从画面底部中心向远处的群山延伸，构成了强烈的中心消失点构图。菲茨罗伊峰（Fitz Roy）占据了背景中心上方；锯齿状的花岗岩尖峰被位于山峰后方右侧的低角度太阳戏剧性地照亮，强烈的星芒状镜头光晕穿过两座花岗岩尖峰之间的缝隙，将温暖的琥珀色光芒洒满画面。一条冰川蓝绿色的河流或湖泊沿构图右侧流淌，其深邃寒冷的蓝色与景观中温暖的琥珀色调形成鲜明对比；山峰的倒影在水面上闪烁。画面左右两侧：被风吹拂的 Patagonia 假山毛榉（lengas）呈现出秋季色彩（焦橙色和琥珀色叶片），因常年的西风而倾斜，长长的戏剧性阴影投射在前景的碎石路上。一名孤独的高乔人（gaucho）骑马站在画面下三分之一处的中心道路上，背对镜头，正缓慢地向远处的群山骑行。在广阔的景观衬托下，马匹和骑手显得十分渺小。高乔人穿着传统服饰：轻便的斗篷和宽檐帽。他长长的影子向镜头方向延伸。远处的山脉和假山毛榉因大气深度而略显模糊。天空：地平线上是深邃的金色琥珀色，向上过渡为熟赭色，没有可见的蓝天；整个天空均以暖色调呈现。画面顶部有醒目的大号衬线字体，印有“PATAGONIA”字样：带有油墨纹理，略显褪色和磨损，呈深赤褐色，作为海报设计的一部分融入图像中，横跨整个宽度。纵横比 2:3。整张图像带有陈旧纸张纹理和泛黄边缘。无其他文字，无标志，无水印。
+
+[English]
+Vintage travel poster style — photorealistic photography treated with heavy analog film processing and aged print texture, exactly like a faded 1960s travel photograph reprinted on aged poster stock. NOT an illustration, NOT painted. The image has an aged parchment-cream border with slightly yellowed and darkened edges as if the paper has aged. Fine analog film grain throughout. Subtle ink-bleed and print texture on the typography. The entire palette is dominated by warm amber, burnt orange, deep gold and dark sepia-brown, with the cold deep blue of the glacial water as the single contrasting accent — similar to how the Sevilla poster uses near-monochromatic amber. Wide open Patagonian valley floor at golden hour. A flat gravel and dried grass path runs from the bottom-center of the frame straight toward the distant mountains, creating a strong central vanishing-point composition. The Fitz Roy massif fills the upper-center background — the jagged granite spires dramatically lit by a low sun positioned just behind and to the right of the peaks, with a strong sun-star lens flare bursting through a gap between two of the granite spires, sending warm amber rays across the frame. A glacial turquoise-blue river or lake runs along the right side of the composition, its cool deep blue contrasting with the warm amber tones of the landscape — reflections of the mountains shimmering on its surface. Left and right flanks of the frame: windswept Patagonian lenga beech trees in autumn colors — burnt orange and amber foliage, bent by the perpetual westerly wind, their long dramatic shadows cast across the gravel path in the foreground. A lone gaucho on horseback is positioned on the path in the center-lower-third of the frame, seen entirely from behind, riding slowly away from the camera toward the mountains. Horse and rider are small against the vast landscape. The gaucho wears traditional clothing — a light poncho and wide-brimmed hat. His long shadow stretches back toward the camera. The mountains and lenga trees in the far distance are slightly hazed in atmospheric depth. Sky: deep amber-gold at the horizon transitioning to burnt sienna higher up, no blue sky visible — the entire sky rendered in warm tones. Large bold distressed condensed serif title text at the very top of the frame reading 'PATAGONIA' — ink-textured, slightly faded and worn, in deep terracotta-brown, integrated into the image as part of the poster design, full width. 2:3 portrait aspect ratio. Aged paper texture and yellowed border edges throughout. No other text, no logos, no watermarks.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2075596166570664367) | 2026-07-10
+
+---
+
+### 🎴 例 3673：私密世俗安魂曲场景
+
+![私密世俗安魂曲场景](../../images/%E7%A7%81%E5%AF%86%E4%B8%96%E4%BF%97%E5%AE%89%E9%AD%82%E6%9B%B2%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影感超现实的纪念场景，展现家中私密且世俗的安魂曲氛围。昏暗优雅的客厅与大教堂广阔的中殿融为一体，仿佛墙壁消融，远方显现出葬礼的行列。在前景中，深色石桌上放着一杯黑咖啡，旁边是一本打开的乐谱；附近有一个低矮木质控制台上的唱片机、两个高大的立体声扬声器、一叠整齐的黑胶唱片以及一个插着白花的花瓶。左侧放置一把黑色皮质躺椅、一张带有碗和细长蜡烛的小边桌、一盆树木、高大的透明窗帘，温暖的阳光透过高窗倾泻而下，在地板上投射出条纹状的阴影。在中景处，展示一个坐着的人的背影剪影，{argument name="central figure" default="一位穿着深色夹克、留着卷发的孤独哀悼者"}，部分身体消融在漂浮的尘埃和黑色叶片状颗粒中。从唱片机和坐着的人物身上，发光的金色五线谱和音符以优雅的弧线向大教堂空间盘旋，形成画面的视觉中心。在背景中，展示一场长长的葬礼聚会：一排身着深色服装的哀悼者和神职人员站在高耸的哥特式拱门下的教堂过道中，在柔和的烛光和薄雾映衬下，庄严肃穆而不显浮夸。使用 {argument name="mood" default="安静、沉思、半无神论的安魂曲忧郁感"}，丰富的明暗对比照明，深炭色阴影下的温暖金色高光，体积光尘埃，电影级景深，绘画般的写实主义，超精细纹理，16:9 宽屏构图，无可见文字，无水印。
+
+[English]
+Create a cinematic surreal memorial scene about an intimate, secular requiem at home. A dim, elegant living room blends into the vast nave of a cathedral, as if the wall has dissolved into a funeral procession in the distance. In the foreground, place a ceramic cup of black coffee on a dark stone table beside an open book of sheet music; nearby are a turntable on a low wooden console, two tall stereo speakers, a neat stack of vinyl records, and a glass vase of white flowers. On the left, include a black leather lounge chair, a small side table with a bowl and slender candles, a potted tree, tall sheer curtains, and warm sunlight pouring through a high window, casting striped shadows across the floor. In the middle distance, show the back silhouette of one seated person, {argument name="central figure" default="a solitary mourner with curly hair in a dark jacket"}, partially dissolving into drifting dust and black leaf-like particles. From the turntable and the seated figure, glowing golden musical staff lines and notes should swirl in a graceful arc toward the cathedral space, forming the visual center of the image. In the background, show exactly one long funeral gathering: a line of many dark-clad mourners and clergy standing in the cathedral aisle under tall Gothic arches, lit by soft candles and haze, solemn but not theatrical. Use {argument name="mood" default="quiet, contemplative, half-atheist requiem melancholy"}, rich chiaroscuro lighting, warm gold highlights against deep charcoal shadows, volumetric dust, cinematic depth of field, painterly photorealism, ultra-detailed textures, 16:9 widescreen composition, no visible text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2075594424013464039) | 2026-07-10
+
+---
+
+### 🎴 例 3683：海岸线高定时尚杂志封面
+
+![海岸线高定时尚杂志封面](../../images/%E6%B5%B7%E5%B2%B8%E7%BA%BF%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张令人惊叹的高定时尚杂志封面，画面中一位年轻的 {argument name="ethnicity" default="亚洲"} 女性拥有精致的五官，一头乌黑的长发在海风中飘逸。她自信地站在崎岖的海岸岩石上，身着优雅的 {argument name="dress style" default="露肩白色蕾丝婚纱"}，礼服上饰有精美的蕾丝刺绣，配以透视袖子，飘逸的薄纱和雪纺裙摆在风中剧烈舞动。她身后是广阔的 {argument name="background" default="阴暗汹涌的海洋"}，海浪在厚重而充满戏剧性的云层下猛烈拍打。无数海鸥在空中盘旋翱翔，几只海鸥在前景中靠近镜头，通过微妙的动态模糊营造出景深感，而女性主体则保持清晰对焦。构图采用中远景，比例为 3:4 的竖构图，以略微低角度拍摄，运用三分法构图来突显她的优雅、力量与气场。场景由柔和的漫射阴天自然光照亮，带有冷色调的低调氛围，在明亮的白色礼服与深暗的海天之间形成了鲜明的明暗对比。每一个细节都高度写实，包括粗糙的海岸岩石纹理、泡沫翻涌的海浪、精致的蕾丝面料、飘动的裙摆、细腻的鸟类羽毛以及电影般的氛围云层。整体氛围忧郁、神秘、充满力量且极具戏剧性，唤起了一种暴风雨前的宁静感。风格定位为奢华现代的 VOGUE 杂志封面，顶部配有优雅的大型标题排版，超写实，编辑类时尚摄影，电影质感，高端奢华美学，大师级作品，获奖构图，超高细节，8K HDR。
+
+[English]
+A breathtaking high-fashion magazine cover featuring a young {argument name="ethnicity" default="Asian"} woman with delicate facial features and long flowing dark hair blowing in the ocean wind. She stands confidently on a rugged coastal rock, wearing an elegant {argument name="dress style" default="off-the-shoulder white lace wedding gown"} with intricate lace embroidery, sheer sleeves, and a flowing tulle and chiffon skirt that billows dramatically in the wind. Behind her stretches a vast {argument name="background" default="dark stormy ocean"} with powerful crashing waves beneath a sky filled with heavy, dramatic clouds. Numerous seagulls circle around her and soar across the sky, with several flying close to the camera in the foreground, creating depth through subtle motion blur while the woman remains perfectly sharp in focus. The composition is a medium-full shot in a vertical 3:4 aspect ratio, captured from a slightly low angle using the rule of thirds to emphasize her elegance, strength, and commanding presence. The scene is illuminated by soft diffuse overcast natural light with cool, moody low-key tones, creating a striking chiaroscuro contrast between the luminous white dress and the dark sea and sky. Every detail is highly realistic, including the rough texture of the coastal rocks, foamy ocean waves, intricate lace fabric, flowing dress movement, detailed bird feathers, and cinematic atmospheric clouds. The overall mood is melancholic, mysterious, powerful, dramatic, and evokes the calm before the storm. Styled as a luxurious modern VOGUE magazine cover with large elegant masthead typography at the top, ultra-realistic, editorial fashion photography, cinematic film look, premium luxury aesthetic, masterpiece, award-winning composition, ultra-detailed, 8K HDR.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2075572913525461036) | 2026-07-10
+
+---
+
+### 🎴 例 3701：Here Be Monsters 伦敦海报
+
+![Here Be Monsters 伦敦海报](../../images/Here%20Be%20Monsters%20%E4%BC%A6%E6%95%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="title text" default="HERE BE MONSTERS"} 创建一张黑暗动画风格的图像小说电影海报，展现一个被怪兽占领、处于暴风雨夜空下的伦敦废墟。
+
+画布：竖版海报构图，3:4 纵横比，高细节 2K 电影级插画，粗犷的手绘漫画墨水风格，带有绘画感的阴影，柔和的炭绿色和棕色，强烈的金色高光，厚重的纹理，戏剧性的对比。
+
+布局：在顶部三分之一处放置一个巨大的锯齿状笔刷字体黄色标题，略微倾斜并与身后的生物重叠。在标题后方，上半部分填满一只巨大的克苏鲁风格带翼怪兽，笼罩在伦敦上空：巨大的蝙蝠状翅膀从边缘延伸到另一端，深色鳞片状身体覆盖着许多簇状眼睛，章鱼般的触手脸，长长的卷曲附属肢，部分被烟雾和云层遮挡。将满月放置在生物后方右侧，发出光芒。在下半部分，展示一条军事化封锁的伦敦街道，背景为哥特式建筑，右侧是大本钟，左侧是尖塔和废墟建筑，伴有烟雾、瓦砾、士兵、车辆和路灯。
+
+前景角色：底部中央站着 3 名人类幸存者，表情严肃地走向观众。中间的角色是 {argument name="main character" default="一名秃头肌肉发达的中年男子"}，身穿黑色服装外搭深色战术连帽夹克，面容严峻，肩膀宽阔，处于中央英雄姿态。左侧角色是 {argument name="left character" default="一名留着凌乱短黑发的年轻人"}，身穿深色夹克和衬衫，身材苗条，目光深沉向下。右侧角色是 {argument name="right character" default="一名留着侧边辫子的金发年轻女性"}，身穿深色叠穿服装，眼神锐利，头发微微飘动。
+
+背景细节和文字：包含 5 个清晰可辨的文字元素：顶部 1 个大标题文字“HERE BE MONSTERS”；1 个中央检查站横幅，写着“WELCOME TO LONDON CITY”；大门两侧各 1 个垂直宣传海报，写着“KEEP CALM AND CARRY ON”；1 个小的重复标志或海报碎片可以部分可见，但不应引入新的文字。增加一个加固大门、沙袋、脚手架、武装士兵和右侧的一辆军用车辆。在左下角包含 3 盏华丽的维多利亚时代路灯。
+
+视觉风格：黑暗奇幻恐怖与后启示录伦敦的结合，成人动画概念艺术，富有表现力的墨水轮廓，密集的线条，忧郁的雾气，烟雾缭绕的氛围，有限的调色板，以黄色标题作为最强烈的点缀。图像应具有传说之书封面或动画系列海报的质感。
+
+约束条件：保持标题清晰且占据主导地位，不要使用照片写实风格，不要增加额外的主要角色，避免使用整洁的现代字体（除了做旧的手绘标题外），无水印，无 Logo。
+
+[English]
+Goal: Create a dark animated graphic-novel movie poster for {argument name="title text" default="HERE BE MONSTERS"}, showing a ruined monster-occupied London under a stormy night sky.
+
+Canvas: Vertical poster composition, 3:4 aspect ratio, high-detail 2K cinematic illustration, gritty hand-drawn comic ink style with painterly shading, muted charcoal greens and browns, harsh golden highlights, heavy texture, dramatic contrast.
+
+Layout: Place a huge jagged brush-lettered yellow title across the top third, slightly tilted and overlapping the creature behind it. Behind the title, fill the upper half with one colossal eldritch winged monster looming over London: massive bat-like wings spread edge to edge, dark scaly body covered with many clustered eyes, tentacled octopus-like face, long curled appendages, partially hidden by smoke and clouds. Put the full moon glowing near the right side behind the creature. In the lower half, show a militarized barricaded London street with gothic architecture, Big Ben on the right, spires and ruined buildings on the left, smoke, rubble, soldiers, vehicles, and street lamps.
+
+Foreground characters: Exactly 3 human survivors stand across the bottom center, walking toward the viewer with serious expressions. Center character is {argument name="main character" default="a bald muscular middle-aged man"} wearing a dark tactical hooded jacket over black clothing, stern face, broad shoulders, central heroic stance. Left character is {argument name="left character" default="a young man with short messy black hair"} wearing a dark jacket and shirt, slim build, intense downward gaze. Right character is {argument name="right character" default="a blonde young woman with a side braid"} wearing dark layered clothes, sharp glare, hair blowing slightly.
+
+Background details and text: Include exactly 5 readable text elements: 1 large title text “HERE BE MONSTERS” at the top; 1 central checkpoint banner reading “WELCOME TO LONDON CITY”; 2 vertical propaganda posters on either side of the gate reading “KEEP CALM AND CARRY ON”; 1 small repeated sign or poster fragment may be partially visible but should not introduce new wording. Add a fortified gate, sandbags, scaffolding, armed soldiers, and a military vehicle on the right. Include exactly 3 ornate Victorian street lamps clustered at the lower left.
+
+Visual style: Dark fantasy horror meets post-apocalyptic London, adult animation concept art, expressive ink outlines, dense linework, moody fog, smoky atmosphere, limited palette with yellow title as the strongest accent. The image should feel like a lore-book cover or animated series poster.
+
+Constraints: Keep the title legible and dominant, do not use photorealism, do not add extra main characters, avoid clean modern typography except for the distressed hand-painted title, no watermark, no logos.
+```
+
+**来源：** [@Uncanny Harry AI](https://x.com/Uncanny_Harry/status/2075526226698031308) | 2026-07-10
+
+---
+
+### 🎴 例 3702：高端餐厅活动海报
+
+![高端餐厅活动海报](../../images/%E9%AB%98%E7%AB%AF%E9%A4%90%E5%8E%85%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 LAKERO 创建一张超高端餐厅活动海报，作为巴黎左岸米其林灵感主厨品鉴菜单系列的一部分，但重构为精致的多菜品菜单海报构图。完全保留现有的 LAKERO 品牌世界：当代法国精细餐饮、巴黎左岸的精致感、主厨驱动的品鉴菜单身份、静谧的奢华、社论式的克制和高端烹饪现实主义。图像必须感觉像是一张高级餐厅菜单海报，而不是随意的食物拼贴，具有强大的空间秩序、优雅的黑色信息块和奢侈的菜单项目氛围。采用受高端多菜品菜单布局启发的垂直海报构图。在海报上以精心平衡的交错构图安排多道 LAKERO 菜肴，从略微抬高的正面顶部角度观看。餐盘应有目的地分布在页面上，留有呼吸空间、非对称和谐和强大的编辑层次结构。整体结构应包括：放置在上方和中间构图中的多个英雄菜肴，每个特色菜盘附近的几个黑色矩形信息面板，以及包含排成一行的附加菜单项的宽底部信息带。布局必须感觉干净、图形化、高度受控且毫无疑问地高端。背景应为奢华的深色石头或烟熏大理石表面，具有微妙的有机纹理、柔软的哑光质感和精致的色调变化。它必须感觉具有建筑感、昂贵且安静的戏剧性，作为摆放菜肴和排版的完美基础。没有随意的餐厅环境，没有餐桌杂乱，没有用餐者，没有与烹饪无关的装饰道具。以三到五道招牌 LAKERO 菜肴作为主要视觉主体，每道菜都盛放在优雅的哑光黑或深木炭陶瓷盘中。这些菜肴必须属于同一个米其林灵感的法国品鉴菜单世界：精致的组合沙拉、精致的海鲜课程、现代法国蔬菜安排、主厨驱动的拼盘开胃菜或优雅的轻主菜组合。摆盘必须感觉非常有针对性、现代、克制且由主厨创作。每道菜都必须以卓越的真实感呈现：绿色蔬菜上的微小水分、海鲜或蛋白质上的自然光泽、精细的蔬菜质地、丝般柔滑的酱汁细节、精致的装饰摆放、干净的盘缘以及米其林级别的烹饪精度。食物必须看起来昂贵、新鲜、平衡且极具食欲，绝不是乡村或随意的。特色菜盘的建议菜肴语言：精致的三文鱼和牛油果组合，点缀鱼子酱和脆嫩绿叶菜；切割精确、装饰优雅的金枪鱼或烤鱼沙拉；带有贻贝、虾和精致奶油酱元素的温热海鲜沙拉；以及其他与 LAKERO 品牌风格统一的当代法国沙拉或品鉴菜单菜盘。所有菜肴都应保持现代、优雅和巴黎式的感性。排版和信息架构至关重要。在餐盘旁边或重叠处放置优雅的黑色信息卡，每张卡片包含菜名、简短的英文描述和价格线。卡片必须感觉像是平面设计系统的一部分，而不是廉价的菜单标签。使用具有清晰层次结构、冷静间距和奢华印刷规范的精美编辑排版。在顶部或中上部区域，包含餐厅标识：主要英文标题：“LAKERO”；小型中文副标题：“巴黎左岸主厨品鉴菜单”；可选的小型配套英文行：“Chef’s Tasting Menu”。标题处理应感觉低调、优雅，并与现有的 LAKERO 系列保持一致，而不是大声或过大。创建一个与该系列一致的定制 LAKERO 标志：简约、建筑感、永恒、巴黎风情、编辑感且国际高端。标志可以出现在标题区域附近或微妙地集成到菜单信息区之一。对于每个黑色信息卡，使用英文菜名和英文描述文本作为主要系统。示例方向：“Salmon & Avocado”、“Seared Tuna Salad”、“Warm Seafood Composition”、“Seasonal Green Selection”。描述应读起来像简洁的高档菜单文案，例如：“Salmon, avocado, roe, crisp greens, herb dressing”、“Seared tuna, olives, cherry tomato, soft egg, seasonal leaves”、“Shrimp, mussels, calamari, parmesan veil, warm cream sauce”。包括高端菜单风格的优雅价格符号。在海报底部，创建一个全宽的黑色菜单带，分为几个部分，每个部分在干净的编辑布局中列出额外的菜名、简短的英文描述和价格。这个底部条带必须感觉具有图形感、奢华且在结构上很重要。光线应柔和、电影感且高端：柔和的顶光、安静的侧影、盘缘的微妙高光、食材的自然光泽、酱汁的柔和反射以及整个石头背景的精细色调衰减。氛围必须感觉亲密、昂贵且具有编辑感，就像为奢华烹饪杂志拍摄的米其林餐厅广告。色调应保持在原始 LAKERO 系列世界内：暖黑、深木炭、石灰、柔和象牙色、鼠尾草绿、橄榄色、黄油奶油色、海鲜珊瑚色调、微妙的烘烤色调和克制的香槟色高光。色调必须保持老练和食欲驱动，没有过度的饱和度，也没有明亮的商业风格。整体基调必须是：巴黎风情、主厨驱动、菜单编辑、米其林灵感、精致、美食、安静、建筑感、奢华且高度策划。渲染风格：超写实美食摄影，巴黎左岸餐厅菜单海报，多个黑色陶瓷摆盘菜肴，深色大理石背景，优雅的黑色编辑信息卡，定制 LAKERO 标志，精致的菜单排版，柔和的电影感奢华照明，米其林级食物造型，高端活动质量，8k，世界级商业品质。负向提示词：廉价菜单项目、随意的咖啡馆氛围、乡村小酒馆的杂乱、以酒精为中心的英雄物体、酒瓶占主导地位、明亮的商业食物广告、拥挤的餐具、凌乱的摆盘、卡通食物、快餐造型、通用的标志、响亮的排版、平淡的光线、嘈杂的构图、低端小册子设计、过多的道具、看起来像塑料的食材、薄弱的品牌身份。
+
+[English]
+Create an ultra-premium restaurant campaign poster for LAKERO, designed as part of the same Paris Left Bank Michelin-inspired chef’s tasting menu series, but restructured into a refined multi-dish menu-poster composition. Preserve the existing LAKERO brand world completely: contemporary French fine dining, Paris Left Bank sophistication, chef-driven tasting menu identity, quiet luxury, editorial restraint, and premium culinary realism. The image must feel like an elevated restaurant menu poster rather than a casual food collage, with strong spatial order, elegant black information blocks, and a luxury menu-board atmosphere. Use a vertical poster composition inspired by a premium multi-dish menu layout. Arrange several plated LAKERO dishes across the poster in a carefully balanced staggered composition, viewed from a slightly elevated frontal-top angle. The plates should feel intentionally distributed across the page with breathing room, asymmetrical harmony, and strong editorial hierarchy. The overall structure should include: multiple hero dishes placed across the upper and middle composition, several black rectangular information panels near each featured plate, and a wide bottom information band containing additional menu items in a structured row. The layout must feel clean, graphic, highly controlled, and unmistakably premium. The background should be a luxurious dark stone or smoky marble surface with subtle organic veining, soft matte texture, and refined tonal variation. It must feel architectural, expensive, and quietly dramatic, serving as the perfect base for the plated dishes and typography. No casual restaurant environment, no table clutter, no diners, no decorative props unrelated to the cuisine. Feature three to five signature LAKERO dishes as the main visual subjects, each presented on elegant matte-black or deep charcoal ceramic plates. The dishes must belong to the same Michelin-inspired French tasting-menu world: refined composed salads, delicate seafood courses, modern French vegetable arrangements, chef-driven plated starters, or elegant light main-course compositions. The plating must feel highly intentional, contemporary, restrained, and chef-authored. Each dish must be rendered with exceptional realism: micro moisture on greens, natural gloss on seafood or proteins, fine vegetable textures, silky sauce detail, delicate garnish placement, clean plate rims, and Michelin-level culinary precision. The food must look expensive, fresh, balanced, and deeply appetizing, never rustic or casual. Suggested dish language for the featured plates: a refined salmon and avocado composition with roe accents and crisp greens, a tuna or roasted fish salad with precise cuts and elegant garnish, a warm seafood salad with mussels, shrimp, and refined creamy sauce elements, and additional contemporary French salad or tasting-menu plates that feel coherent with the LAKERO brand. All dishes should remain modern, elegant, and Parisian in sensibility. Typography and information architecture are critical. Place elegant black information cards beside or overlapping near the plates, each containing dish title, a short English description, and a price line. The cards must feel like part of the graphic design system, not like cheap menu labels. Use refined editorial typography with clear hierarchy, calm spacing, and luxury print discipline. At the top or upper-middle area, include the restaurant identity: main English title: “LAKERO” small Chinese subtitle: “巴黎左岸主厨品鉴菜单” Optional small supporting English line: “Chef’s Tasting Menu” The title treatment should feel understated, elegant, and aligned with the existing LAKERO series, not loud or oversized. Create a bespoke LAKERO logo consistent with the series: minimal, architectural, timeless, Parisian, editorial, and internationally premium. The logo may appear near the title area or integrated subtly into one of the menu information zones. For each black information card, use English dish naming and English description text as the main system. Example directions: “Salmon & Avocado” “Seared Tuna Salad” “Warm Seafood Composition” “Seasonal Green Selection” Descriptions should read like concise upscale menu copy, such as: “Salmon, avocado, roe, crisp greens, herb dressing” “Seared tuna, olives, cherry tomato, soft egg, seasonal leaves” “Shrimp, mussels, calamari, parmesan veil, warm cream sauce” Include elegant price notation in a premium menu style. At the bottom of the poster, create a full-width black menu band divided into several sections, each listing additional dish names, brief English descriptions, and prices in a clean editorial layout. This bottom strip must feel graphic, luxurious, and structurally important. Lighting should be soft, cinematic, and premium: gentle top lighting, quiet side shading, subtle highlights on plate edges, natural gloss on ingredients, soft reflections on sauces, and refined tonal falloff across the stone background. The atmosphere must feel intimate, expensive, and editorial, like a Michelin restaurant campaign photographed for a luxury culinary magazine. Color palette should remain within the original LAKERO series world: warm black, deep charcoal, stone gray, soft ivory, sage green, olive, butter cream, seafood coral accents, subtle roast tones, and restrained champagne highlights. The palette must stay sophisticated and appetite-driven, with no excessive saturation and no bright commercial styling. The overall mood must be: Parisian, chef-driven, menu-editorial, Michelin-inspired, refined, gastronomic, quiet, architectural, luxurious, and highly curated. Rendering style: hyper-realistic fine-dining food photography, Paris Left Bank restaurant menu poster, multiple black ceramic plated dishes, dark marble background, elegant black editorial information cards, bespoke LAKERO logo, refined menu typography, soft cinematic luxury lighting, Michelin-level food styling, premium campaign quality, 8k, world-class commercial quality. Negative prompt: cheap menu board, casual cafe vibe, rustic bistro clutter, alcohol-centered hero object, bottle dominance, bright commercial food ad, crowded tableware, messy plating, cartoon food, fast food styling, generic logo, loud typography, flat lighting, noisy composition, low-end brochure design, excessive props, plastic-looking ingredients, weak brand identity
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2075523780181701100) | 2026-07-10
+
+---
+
+### 🎴 例 3717：日系 300 粉丝感谢海报
+
+![日系 300 粉丝感谢海报](../../images/%E6%97%A5%E7%B3%BB%20300%20%E7%B2%89%E4%B8%9D%E6%84%9F%E8%B0%A2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版社交媒体庆典海报，画面中一位写实的年轻日本女性坐在温暖的米色摄影棚地板上，对着镜头温柔微笑。她留着深棕色短波波头，带有空气刘海，妆容自然，眼神明亮，佩戴精致耳环。服装：略显宽松的白色衬衫，领口敞开，露出黑色蕾丝吊带，随意系着一条绿松石色领带，佩戴黑色颈圈和吊坠项链，腰间系着棕色格子衬衫，穿着格子短裙、白色堆堆袜和白色高帮运动鞋；手腕上佩戴绿松石色珠串手链。姿势：随意坐着，双膝弯曲朝向前方，双手靠近鞋子，身体略微向右倾斜，头部位于画面右上三分之一处。使用温暖的金色光影、浅景深人像写实风格、奶油米色背景、柔和的焦外成像、闪烁的星光、漂浮的金色和绿松石色纸屑丝带，以及手绘白色爱心涂鸦，营造出感恩的里程碑氛围。在左侧添加醒目的日文感谢装饰排版：顶部为绿松石色手写体“Thank you!”，配有小爱心和下划线；下方为黑色日文“フォロワー”；中间是巨大的闪亮金色数字“300”，旁边配有小号黑色“人”字；下方为粗体黑色毛笔风格日文“ありがとうございます!”；添加一个精致的金色月桂叶边框，内含绿松石色日文“感謝の気持ちを込めて”。确保文字清晰易读，数字 300 在左中位置最为突出。整体构图应呈现出精致的网红粉丝里程碑官宣海报质感。使用 {argument name="follower count" default="300"}、{argument name="main thank you text" default="ありがとうございます!"}、{argument name="top script text" default="Thank you!"}、{argument name="portrait subject" default="young Japanese woman"} 和 {argument name="accent color" default="teal"}。
+
+[English]
+Create a vertical celebratory social media poster featuring a realistic young Japanese woman sitting on a warm beige studio floor, smiling softly at the camera. She has a short dark brown bob with wispy bangs, natural makeup, glossy eyes, and delicate earrings. Outfit: slightly oversized white button-up shirt worn open at the collar with a visible black lace camisole, turquoise necktie loosely draped, black choker, pendant necklace, brown plaid shirt tied around the waist, short plaid skirt, white slouch socks, and white high-top sneakers; add turquoise bead bracelets on one wrist. Pose her seated casually with knees bent toward the foreground, hands near her shoes, body angled slightly right, head near the upper-right third. Use warm golden lighting, shallow-depth portrait realism, creamy beige background, soft bokeh, sparkling star glints, floating gold and teal confetti ribbons, and hand-drawn white heart doodles for a grateful milestone mood. Add large decorative Japanese thank-you typography on the left side: teal handwritten script at the top reading “Thank you!” with a small heart and underline; below it black Japanese text “フォロワー”; huge glittering gold number “300” with small black “人”; below in bold black brush-style Japanese “ありがとうございます!”; add a small ornate gold laurel frame containing teal Japanese text “感謝の気持ちを込めて”. Make the text crisp and legible, with the number 300 dominating the left-center. Overall composition should feel like a polished influencer follower milestone announcement poster. Use {argument name="follower count" default="300"}, {argument name="main thank you text" default="ありがとうございます!"}, {argument name="top script text" default="Thank you!"}, {argument name="portrait subject" default="young Japanese woman"}, and {argument name="accent color" default="teal"}.
+```
+
+**来源：** [@周防義経](https://x.com/y_suou/status/2075507668719112503) | 2026-07-10
+
+---
+
+### 🎴 例 3731：月下战国谍影海报
+
+![月下战国谍影海报](../../images/%E6%9C%88%E4%B8%8B%E6%88%98%E5%9B%BD%E8%B0%8D%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张细节丰富、方形的动漫奇幻角色海报，讲述一个中国战国时代的转生故事，以一名在月光古城中的年轻女间谍为核心。
+
+画布：1:1 正方形插画，华丽的深海军蓝与古董金海报边框，高细节，电影级光影，无现代物体，无水印。
+
+主体：一名可爱的动漫少女，约十几岁，蹲在瓦片屋顶上，带着平静而顽皮的微笑注视着观众。她拥有 {argument name="hair color" default="短而凌乱的银金色头发"}、明亮的蓝色眼睛、白皙的皮肤、红润的脸颊和精致的五官。她身穿优雅的兜帽刺客间谍装：带有淡蓝色内衬的白色兜帽斗篷、黑白叠层服饰、蓝色点缀、金色刺绣、悬挂的链条、符咒、小挂饰、珠宝、护臂、露指手套、腰带、小袋和隐藏工具。一只手握着一把发出蓝色微光的短匕首，另一只手放在屋顶边缘，展现出潜行与敏捷感。
+
+场景：从高处俯瞰夜间中国风古堡城市，层叠的屋顶、宫殿塔楼、灯火通明的窗户、薄雾、远处的城墙、旗帜，以及左侧天空中一轮巨大的明亮满月。使用深蓝色调，辅以银色月光和温暖的橙色窗灯。在斗篷、丝带和悬挂的装饰物上加入戏剧性的风动效果。
+
+布局：海报构图，角色占据右侧和中心，满月和城市位于左侧，身后有装饰性旗帜。添加带有角饰和细内线的精致古董金边框。在标题下方垂直堆叠 4 个信息铭牌，每个铭牌左侧带有一个小图标，并配有金色边框的深蓝色面板。
+
+可见文字：使用日文排版，标题采用毛笔书法字体，标签文字使用小型衬线体。顶部装饰性铭牌中的小型副标题：{argument name="series subtitle" default="中華戦国転生録"}。中下部的大标题：{argument name="main title" default="影渡りの密偵"}。四个铭牌，严格包含以下 4 行文字：1) {argument name="birthplace line" default="転生先：月隠国・夜燕城"}；2) {argument name="alias line" default="異名：蒼月の潜影姫"}；3) 特技：潜入・索敵・奇襲；4) 運命：乱世の闇を駆け、勝利への道を切り開く。请清晰保留日文文本，避免添加额外的正文。
+
+风格：高级动漫主视觉图，复杂的线条艺术，光泽感双眼，柔和腮红，绘画感背景，金箔点缀，华丽的中国奇幻元素，月光蓝影，清晰易读的排版，戏剧性的海报设计。
+
+[English]
+Goal: Create a richly detailed square anime fantasy character poster for a Chinese Warring States reincarnation story, centered on a young female spy in a moonlit ancient city.
+
+Canvas: Square 1:1 illustration, ornate dark navy and antique gold poster frame, high detail, cinematic lighting, no modern objects, no watermark.
+
+Main subject: A cute anime girl, around teen age, crouching on a tiled rooftop and looking at the viewer with a calm mischievous smile. She has {argument name="hair color" default="short tousled silver-blonde hair"}, bright blue eyes, pale skin, rosy cheeks, and delicate facial features. She wears an elegant hooded assassin-spy outfit: white hooded cloak with pale blue lining, black and white layered garments, blue accents, gold embroidery, dangling chains, talismans, small charms, jewelry, arm wraps, fingerless gloves, belts, pouches, and concealed tools. One hand grips a short glowing blue dagger while the other rests on the rooftop edge, suggesting stealth and agility.
+
+Setting: Nighttime ancient Chinese-inspired fortress city viewed from above, layered rooftops, palace towers, lantern-lit windows, mist, distant walls, banners, and a huge luminous full moon in the left sky. Use a deep blue palette with silver moonlight and warm orange window lights. Add dramatic wind movement in the cloak, ribbons, and hanging ornaments.
+
+Layout: Poster composition with the character occupying the right and center, full moon and city on the left, decorative banners behind her. Add a refined antique-gold border with corner ornaments and thin inner lines. Include exactly 4 information plaques beneath the title, stacked vertically, each with a small icon on the left and gold-outlined dark-blue panels.
+
+Visible text: Use Japanese typography with brush-calligraphy title lettering and small serif label text. Top small subtitle in a decorative plaque: {argument name="series subtitle" default="中華戦国転生録"}. Main large title across the lower middle: {argument name="main title" default="影渡りの密偵"}. Four plaques, exactly these 4 lines: 1) {argument name="birthplace line" default="転生先：月隠国・夜燕城"}; 2) {argument name="alias line" default="異名：蒼月の潜影姫"}; 3) 特技：潜入・索敵・奇襲; 4) 運命：乱世の闇を駆け、勝利への道を切り開く. Preserve the Japanese text clearly and avoid adding extra body text.
+
+Style: Premium anime key visual, intricate line art, glossy eyes, soft blush, painterly background, gold foil accents, ornate Chinese fantasy motifs, moonlit blue shadows, crisp readable typography, dramatic poster design.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2075462522371756054) | 2026-07-10
+
+---
+
+### 🎴 例 3736：禅意极简秋日阶梯海报
+
+![禅意极简秋日阶梯海报](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E7%A7%8B%E6%97%A5%E9%98%B6%E6%A2%AF%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：高对比节气型
+主体内容：{argument name="人物动作" default="一位沿长阶缓慢向上走的人物"}
+情绪母题：秋日清朗、向上、静中有生机
+场景与意象：柠檬黄银杏叶、青黛蓝阶梯阴影、冷白墙面、人物剪影
+构图与空间：纵深构图，长阶向上延伸，人物位于中下部，银杏叶点缀在台阶与留白区域
+色彩控制：{argument name="色彩控制" default="冷白作为墙面与背景基底，青黛蓝用于台阶阴影和空间层次，柠檬黄用于银杏叶点睛，墨灰用于人物轮廓"}；避免整图泛黄
+光线与质感：明亮自然光，轻纸感，边缘清晰，少量颗粒
+画幅比例：9:16 
+补充要求：台阶要极简，银杏叶数量少但醒目，整体轻盈通透
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2075456342589096113) | 2026-07-10
+
+---
+
+### 🎴 例 3748：Sepia Gothic Quintet Thank You Poster
+
+![Sepia Gothic Quintet Thank You Poster](../../images/Sepia%20Gothic%20Quintet%20Thank%20You%20Poster.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张华丽的深褐色哥特动漫风格庆祝海报，用于 {argument name="follower milestone" default="130 位粉丝"}，展示在暮色宫殿沙龙中优雅的室内乐团，以及一位小仓鼠指挥家。
+
+画布：方形竖版海报，细节丰富，采用温暖的单色深褐色和深棕色调，具有古旧纸张质感，高对比度的水墨漫画插画，来自高大窗户和吊灯的电影级光影。
+
+场景：黄昏时分豪华的维多利亚/巴洛克风格音乐室，配有花纹壁纸、蕾丝窗帘、柔和发光的高大拱形窗户、水晶吊灯、烛台、花艺装饰、雕花家具、背景中的三角钢琴以及铺满地面的华丽地毯。
+
+主体：包含 6 位清晰可见的表演者/角色：5 位身着黑色正装的优雅年轻男性音乐家，以及 1 位小仓鼠指挥家。请按以下方式计数并布置：1 位坐在左侧三角钢琴前的长发金发钢琴家，侧身弹奏；1 位站在钢琴前方的黑发小提琴手，神情专注严肃；1 位坐在右侧或靠在右侧的金发小提琴手，神情从容；1 位坐在左下角深棕色头发的大提琴手，低头拉琴；1 位坐在右下角华丽椅子上的蓝灰色长辫小提琴手，正在演奏；1 位位于底部中央的可爱仓鼠，身穿迷你黑色燕尾服和领结，举起指挥棒仿佛正在指挥乐团。
+
+中央排版：在前景中央放置一块带有金色花丝边框和对称卷轴装饰的深色华丽维多利亚风格牌匾。牌匾必须包含清晰易读的奶油色衬线字体：最大的一行写着“Thank You”，下方写着“for {argument name="follower milestone" default="130 位粉丝"}”，较小的副标题写着“Piano Quintet in Twilight, Op. 130 — ‘Five Voices Return’”。
+
+风格：高度精细的浪漫漫画/动漫角色设计，细腻的线条艺术，戏剧性的阴影，精致的正装，忧郁而欢庆的氛围，优雅的古典音乐气息，错综复杂的花丝装饰，油画般的深褐色质感。
+
+约束：保持五位人类音乐家清晰可辨，拥有各自的乐器或角色；展示 3 位小提琴手、1 位大提琴手、1 位钢琴家和 1 位仓鼠指挥家。不要添加额外的人或动物。确保中央的感谢文字清晰且突出。
+
+[English]
+Goal: Create an ornate sepia gothic-anime celebration poster for {argument name="follower milestone" default="130 Followers"}, showing an elegant chamber ensemble in a twilight palace salon with a small hamster conductor.
+
+Canvas: Square vertical poster, richly detailed, warm monochrome sepia and dark brown palette, antique paper texture, high contrast ink-and-wash manga illustration, cinematic lighting from tall windows and chandeliers.
+
+Setting: A luxurious Victorian/Baroque music room at dusk with patterned wallpaper, lace curtains, tall arched windows glowing softly, crystal chandeliers, candelabras, floral arrangements, carved furniture, a grand piano in the back, and an ornate carpet covering the floor.
+
+Subjects: Include exactly 6 visible performers/characters: 5 elegant young male musicians in black formal suits plus 1 small hamster conductor. Count and place them as follows: 1 pale long-haired blond pianist seated at the grand piano on the left, looking sideways while playing; 1 black-haired violinist standing near the center in front of the piano, focused and serious; 1 pale blond violinist seated or leaning on the right, playing with a calm expression; 1 brown-haired cellist seated in the lower left, head bowed while bowing a cello; 1 blue-gray long-braided violinist seated in the lower right on an ornate chair, playing violin; 1 cute hamster at the bottom center wearing a tiny black tuxedo and bow tie, raising a conductor baton as if leading the ensemble.
+
+Central typography: Place a dark ornate Victorian plaque in the center foreground with gold filigree borders and symmetrical scrollwork. The plaque must contain readable cream-colored serif text: “Thank You” on the largest line, “for {argument name="follower milestone" default="130 Followers"}” beneath it, and smaller subtitle text “Piano Quintet in Twilight, Op. 130 — ‘Five Voices Return’”.
+
+Style: Highly detailed romantic manga/anime character design, delicate line art, dramatic shadows, polished formalwear, melancholic but celebratory mood, elegant classical music atmosphere, intricate filigree ornamentation, painterly sepia finish.
+
+Constraints: Keep all five human musicians visibly distinct with separate instruments or roles; show exactly 3 violinists, 1 cellist, 1 pianist, and 1 hamster conductor. Do not add extra people or animals. Keep the central thank-you text legible and dominant.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075424589950378049) | 2026-07-10
+
+---
+
+### 🎴 例 3749：日式极简主义时尚杂志海报
+
+![日式极简主义时尚杂志海报](../../images/%E6%97%A5%E5%BC%8F%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实极简主义时尚杂志海报，灵感源自高端日式杂志排版与现代平面设计。纯净无缝的纯白摄影棚背景，呈现奢华的高级时尚美感与强烈的留白效果。构图特色在于同一位 {argument name="subject" default="年轻女性"} 在一个垂直布局中出现两次。前景主体：女性自然地坐在简单的黑色金属椅上，身体微微前倾，双手交叠于膝盖之间。她身穿一件超大号的 {argument name="shirt color" default="炭灰色"} 衬衫、宽松黑色长裤和米白色运动鞋。她留着黑色短波波头，配有柔和的刘海，妆容自然，神情冷静而自信，直视镜头。柔和的漫射摄影棚光线营造出平滑的阴影和真实的肤色。背景主体：坐姿人物后方是一个巨大的半透明灰度全身动态肖像，同样是该女性在舞蹈中的瞬间，一只手臂向前伸展，另一只手臂自然弯曲。灰度人物的不透明度调至约 25% 至 35%，在排版后方营造出深度感。一个巨大的粗体 {argument name="typography color" default="深红色"} 衬线字体占据了构图中心，从顶部垂直延伸到底部。超大号字体与两个人物重叠，部分遮挡身体，营造出高级杂志封面的效果。部分字母为实心，部分使用细轮廓线条，创造出分层的视觉深度。布局包含现代日式平面设计元素：构图两侧放置带有圆形端点的细垂直红线。左侧垂直排列显示人物姓名的黑色大写字母。右下角垂直放置小型日文片假名。顶部中心位置有小型手写涂鸦风格标题，带有微妙的红色阴影效果。左上角放置微小的红色期号。整个布局中平衡分布着极简的装饰性编辑标记。整体设计遵循当代时尚杂志美学，类似于奢华编辑海报，使用克制的调色板：纯白背景、深绯红色字体与点缀、黑色字体、灰度辅助肖像。构图简洁、优雅、现代且极具艺术感，具备完美的对齐、高级的间距、杂志级的排版层级、清晰的边缘以及适合打印的海报设计。风格关键词：超写实，时尚杂志海报，瑞士平面设计，日式排版，奢华杂志封面，极简布局，粗野主义编辑设计，高端品牌化，简洁构图，分层排版，留白，电影级摄影棚摄影，高端印刷设计，8K 超精细，锐利对焦，专业调色。纵横比：9:16 垂直。
+
+[English]
+Ultra realistic minimalist editorial fashion poster inspired by premium Japanese magazine typography and modern graphic design. Clean seamless pure white studio background with a luxury high fashion aesthetic and strong negative space. The composition features the same {argument name="subject" default="young woman"} appearing twice in one vertical layout. Foreground subject: The woman sits naturally on a simple black metal chair, leaning slightly forward with both hands resting between her knees. She wears an oversized {argument name="shirt color" default="charcoal gray"} button-up shirt, loose black trousers, and beige-white sneakers. She has a short black bob haircut with soft bangs, natural makeup, and a calm, confident expression while looking directly at the camera. Soft diffused studio lighting creates smooth shadows and realistic skin tones. Background subject: Behind the seated figure is a large semi-transparent grayscale full-body action portrait of the same woman captured mid dance, with one arm extended forward and the other bent naturally. The grayscale figure is faded to around 25 to 35% opacity, creating depth while remaining visible behind the typography. A massive bold {argument name="typography color" default="deep red"} serif letterform dominates the center of the composition, running vertically from top to bottom. The oversized typography overlaps both figures, partially masking the body to create a premium editorial magazine cover effect. Some letters are solid while others use thin outlined versions, creating layered visual depth. The layout includes modern Japanese-inspired graphic elements: Thin vertical red lines with circular dot terminals placed on both sides of the composition. Black vertical uppercase text displaying the person's name along the left side of the typography. Small Japanese katakana characters placed vertically near the lower right. Small handwritten graffiti-style title positioned at the top center in black with a subtle red shadow effect. Tiny red issue number placed in the upper left corner. Minimal decorative editorial marks balanced throughout the layout. The overall design follows contemporary fashion magazine aesthetics similar to luxury editorial posters, using a restrained color palette consisting only of: Pure white background, Deep crimson red typography and accents, Black typography, Grayscale secondary portrait. The composition feels clean, elegant, modern, and highly artistic with perfect alignment, premium spacing, magazine-quality typography hierarchy, crisp edges, and print-ready poster design. Style keywords: ultra realistic, editorial fashion poster, Swiss graphic design, Japanese typography, luxury magazine cover, minimalist layout, brutalist editorial design, premium branding, clean composition, layered typography, negative space, cinematic studio photography, high-end print design, 8K ultra detailed, razor sharp focus, professional color grading. Aspect Ratio: 9:16 vertical.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2075424378703970588) | 2026-07-10
+
+---
+
+### 🎴 例 3766：复古动漫周五海报
+
+![复古动漫周五海报](../../images/%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E5%91%A8%E4%BA%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的 1980 年代复古动漫海报，特写一位可爱的年轻动漫少女，她回眸看向观众，微张着小嘴，神情惊讶。她拥有 {argument name="hair color" default="电光钴蓝色配粉色挑染"} 的短发，蓬松的波波头带有飘逸的刘海和极具动感的蓬松感，巨大的亮蓝色眼睛配有长睫毛，肤色呈浅桃色，可见的一侧耳朵上戴着巨大的亮粉色星形耳环。她穿着一件青色与深蓝色相间的未来感圆领夹克或肩饰，带有粉色小纽扣细节，右下角饰有白色三波纹徽章。在顶部叠加 {argument name="headline text" default="Friday"} 字样，使用巨大的亮黄色干笔书法字体，呈对角线倾斜，部分遮盖住她的头发。使用干净的白色背景，并点缀 1980 年代的孟菲斯设计元素：共 7 个可见的装饰元素，包括右上角的蓝色点状正方形、右上角附近的亮粉色圆形、顶部边缘附近的蓝色斜条纹、顶部边缘附近的粉色斜条纹、左侧带有粉色斜线的青色矩形、左下中心附近带有黑点的粉色三角形，以及左下角被裁剪的大蓝色圆形，叠加在浅蓝色网格之上。在左下区域添加黄色小星星和精细的几何线条装饰。在右下角包含小号白色日期文本 {argument name="date text" default="2026 年 7 月 10 日"} 以及精致的草书签名 {argument name="signature" default="Oyagi"}。风格应为清晰的赛璐珞风格日本动漫，具有光泽感的高光、粗犷的黑色线条、饱和的青色/蓝色/洋红色/黄色调色板、海报式垂直构图、高能量的波普平面设计，拒绝写实风格，不添加额外角色，除签名外无任何水印。
+
+[English]
+Create a vibrant 1980s retro anime poster of a cute young anime girl in close-up, turned over her shoulder and looking toward the viewer with a surprised small open mouth. She has {argument name="hair color" default="electric cobalt blue with pink highlights"}, a short fluffy bob with sweeping bangs and dramatic windblown volume, huge glossy blue eyes with long lashes, pale peach skin, and a large hot-pink star earring on one visible ear. She wears a futuristic rounded jacket or shoulder piece in cyan and deep blue with a small pink button detail, and a white three-wave emblem on the lower right. Across the top, overlay the word {argument name="headline text" default="Friday"} in enormous bright yellow dry-brush script, tilted diagonally and partially covering her hair. Use a clean white background filled with 1980s Memphis design accents: exactly 7 visible decorative elements including a blue dotted square in the upper right, a hot-pink circle near the top right, a diagonal blue stripe near the top edge, a diagonal pink stripe near the top edge, a teal rectangle with a diagonal pink line on the left, a pink triangle with black dots near the lower left center, and a large blue circle cropped at the bottom left over a pale blue grid. Add small yellow stars and fine geometric line accents around the lower-left area. In the bottom right, include small white date text {argument name="date text" default="July 10, 2026"} and a delicate cursive signature {argument name="signature" default="Oyagi"}. Style should be crisp cel-shaded Japanese anime, glossy highlights, bold black linework, saturated cyan/blue/magenta/yellow palette, poster-like vertical composition, high-energy pop graphic design, no photorealism, no extra characters, no watermark beyond the signature.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2075391640127291535) | 2026-07-10
+
+---
+
+### 🎴 例 3769：赛博朋克动漫复仇电影海报
+
+![赛博朋克动漫复仇电影海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A4%8D%E4%BB%87%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张暗黑电影感竖版电影海报，风格为日本赛博朋克复仇惊悚片，画面主体为两名背靠背站在雨中霓虹小巷里的动漫/VR 风格 3D 角色。
+
+画布：竖版电影海报，2:3 比例，高分辨率，深沉的黑蓝色调，点缀红色，大雨，湿润的沥青路面反射，雾气，体积光路灯，粗粝的电影海报质感。
+
+主体：仅限两名角色。角色 1 位于左前方，面朝观众方向，表情紧张，皮肤苍白，短层叠银灰色头发，深色眼睛，佩戴小耳环，身穿黑色拉链夹克，袖口有白色条纹，内搭米白色衬衫。角色 2 位于右侧中景，背对观众，背影和侧脸隐藏，黑色层叠发型，低马尾，身穿深灰色外套或夹克。角色 2 的肩膀处挂着一个白色幽灵状吉祥物挂件，通过紫色带子连接。一把大型黑色武器或步枪状物体在右侧角色 2 的身后呈对角线交叉。
+
+背景：雨中狭窄的夜间城市小巷，昏暗的摩天大楼和建筑立面延伸至深处，发光的街灯，薄雾，水坑反射着红白灯光。在左侧添加一个红色的竖排霓虹灯牌，文字为「闇市」。氛围应呈现出危险、静谧且具有电影感。
+
+布局与排版：在上方中心附近放置竖排日文标语「選んだのは、光ではなく、真実。」，其中「真実」为红色高亮，其余为白色。在下方中心附近放置小型红色文字：“VR CINEMA PRESENTS”。主标题占据底部三分之一：大号做旧衬线体大写字母“CHOSEN”，白色风化质感，其中的“O”为深红色。下方添加日文片假名“チョーズン”。再下方添加英文标语“REVENGE IS A CHOICE. TRUTH IS A BURDEN.”及其日文翻译「復讐は選択。真実は代償。」。在下方添加一小块紧凑的电影演职员表，随后是红色的上映日期“2025.06.13”，下方标注“ONLY IN VR CINEMAS”。在左下角添加一个小的“NR NOT RATED”分级框，右下角添加极简的三角形 VR CINEMA 标志。
+
+可见文字计数：包含 11 个文本元素：1 个左侧红色霓虹灯牌「闇市」，1 个竖排日文标语，1 行“VR CINEMA PRESENTS”，1 个主标题“CHOSEN”，1 个片假名副标题“チョーズン”，1 个英文标语，1 个日文标语翻译，1 个小型演职员表块，1 个上映日期，1 行“ONLY IN VR CINEMAS”，以及 2 个底部小标志（分级框和 VR 标志合并计算）。请勿添加额外的可读文字。
+
+可自定义值：使用标题 {argument name="movie title" default="CHOSEN"}，主竖排标语 {argument name="Japanese vertical tagline" default="選んだのは、光ではなく、真実。"}，上映日期 {argument name="release date" default="2025.06.13"}，左侧角色发色 {argument name="left character hair color" default="silver-gray"}，以及霓虹灯牌文字 {argument name="neon sign text" default="闇市"}。
+
+约束：保持严肃的电影海报构图，确保两名角色呈现为写实动漫/VR 虚拟形象而非真人，使用做旧排版，强烈的雨雾效果，禁止使用明快色彩，禁止喜剧元素，禁止添加额外角色，禁止添加水印。
+
+[English]
+Goal: Create a dark cinematic vertical movie poster in the style of a Japanese cyberpunk revenge thriller, featuring two anime/VR-style 3D characters standing back-to-back in a rainy neon alley.
+
+Canvas: Vertical theatrical poster, 2:3 aspect ratio, high-resolution, moody black-blue color grading with red accents, heavy rain, wet asphalt reflections, fog, volumetric street light, gritty film-poster texture.
+
+Main subjects: Two characters only. Character 1 is in the left foreground, facing slightly toward the viewer with a tense expression, pale skin, short layered silver-gray hair, dark eyes, small earrings, wearing a black zip jacket with white sleeve stripes over an off-white shirt. Character 2 is in the right midground, turned away from the viewer with their back and profile hidden, black layered hair tied low, wearing a dark gray coat or jacket. A small white ghost-like mascot charm with a simple face is attached near Character 2's shoulder by a purple strap. A large black weapon or rifle-like object crosses diagonally behind Character 2 on the right side.
+
+Background: A narrow nighttime city alley in the rain, dim skyscrapers and building facades receding into depth, glowing streetlights, mist, puddles reflecting red and white lights. Add one red vertical neon sign on the left that reads 「闇市」. The atmosphere should feel dangerous, quiet, and cinematic.
+
+Layout and typography: Place a vertical Japanese tagline near the upper center reading 「選んだのは、光ではなく、真実。」 with 「真実」 highlighted in red and the rest in white. Near the lower center place small red text: “VR CINEMA PRESENTS”. The main title dominates the bottom third: “CHOSEN” in large distressed serif capitals, white weathered texture, with the “O” in deep red. Under it, add Japanese katakana “チョーズン”. Below that add the English tagline “REVENGE IS A CHOICE. TRUTH IS A BURDEN.” and Japanese translation 「復讐は選択。真実は代償。」. Add a compact block of tiny film credits beneath, then the release date “2025.06.13” in red, with “ONLY IN VR CINEMAS” below. Add a small “NR NOT RATED” rating box in the bottom left and a minimalist triangular VR CINEMA logo in the bottom right.
+
+Visible text count: Include exactly 11 text elements: 1 red left neon sign 「闇市」, 1 vertical Japanese tagline, 1 “VR CINEMA PRESENTS” line, 1 main title “CHOSEN”, 1 katakana subtitle “チョーズン”, 1 English tagline, 1 Japanese tagline translation, 1 small credits block, 1 release date, 1 “ONLY IN VR CINEMAS” line, and 2 small bottom marks counted together as rating box plus VR logo. Do not add extra readable text.
+
+Customizable values: Use the title {argument name="movie title" default="CHOSEN"}, main vertical tagline {argument name="Japanese vertical tagline" default="選んだのは、光ではなく、真実。"}, release date {argument name="release date" default="2025.06.13"}, left character hair color {argument name="left character hair color" default="silver-gray"}, and neon sign text {argument name="neon sign text" default="闇市"}.
+
+Constraints: Preserve the serious cinematic poster composition, keep both characters stylized as realistic anime/VR avatars rather than live-action humans, use distressed typography, strong rain and fog, no cheerful colors, no comedy elements, no additional characters, no watermark.
+```
+
+**来源：** [@Inugitune](https://x.com/Inugi_hakurou/status/2075386101943226782) | 2026-07-10
+
+---
+

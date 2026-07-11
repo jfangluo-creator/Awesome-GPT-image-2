@@ -7381,3 +7381,455 @@ Using REFERENCE_0 as a rough pose-and-composition guide, transform the hand-draw
 
 ---
 
+### 🖥️ 例 3649：Celestial Archive Trio
+
+![Celestial Archive Trio](../../images/Celestial%20Archive%20Trio.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高度精细的动漫风格天体角色设计插画，展示 3 位优雅的年轻男性档案馆守护者并肩站在宇宙观测台界面中：{argument name="left character name" default="SOL"}、{argument name="center character name" default="TERRA"} 以及 {argument name="right character name" default="LUNA"}。
+
+画布：宽幅 4:3 横向构图，电影级剪裁（从大腿上方到头部），深邃的星空背景中布满了发光的全息天文 UI 面板、星座、精致的金色与蓝色数据线以及闪烁的粒子。采用极致精美的奇幻科幻艺术风格，华丽的“美少年”角色设计，戏剧性的轮廓光，复杂的织物渲染以及发光的天体特效。
+
+布局：在前景放置 3 位角色。左侧角色：黑发男子，身穿黑色正装和长款深色外套，自信地站立，一只手插在口袋里，周围环绕着温暖的金色太阳光。中间角色：白色卷发男子，身穿深绿色与金色相间的正装，左手托着一个小巧发光的地球仪，背景为绿金色的行星分析图形。右侧角色：浅金发男子，身穿全白正装并披着半透明斗篷，在冷色调的月光下，双手插兜，周围环绕着蓝色星图和新月图形。
+
+主体细节：左侧角色拥有凌乱的黑发、琥珀金色的眼睛、冷静自信的微笑，身穿黑色衬衫和领带，佩戴金链、星形胸针，胸前饰有华丽的圆形太阳徽章。中间角色拥有蓬松的白色卷发、小麦色皮肤、放松自信的表情，身穿深绿色长外套、白色长裤，配有金色马甲细节、多层链条、几何胸针，掌心上方漂浮着一个发光的微型地球仪。右侧角色拥有浅金色短发、淡蓝色眼睛、精致忧郁的表情，身穿白色西装配黑色丝带领带，饰有银色星形装饰、蓝色宝石胸针，披着一件闪烁着蓝白色光点的透明星座图案斗篷。
+
+背景与可见界面元素：包含 3 个主要名称标签，每位角色附近各一个：“SOL”并配有类似“sol portrait ver. 1.0”的小字，“TERRA”并配有类似“geologic archive ver. 1.0”的小字，以及“LUNA”并配有类似“astral archive ver. 1.0”的小字。包含 6 个显眼的全息面板：左侧角色身后有一个巨大的金色太阳圆盘，左下角有一个圆形地图面板，中间上方有一个垂直的“STRATA ANALYSIS”面板，中间身后有一个透明的地球仪/行星显示器，右侧上方有一个蓝色的新月形“LUNAR PHASE ANALYSIS”面板，最右侧有一个密集的数据面板。其余空间填充精细的星座网格、轨道环、微小的星尘和技术注释，但避免添加额外的命名角色。
+
+视觉风格：奢华的暗黑学术风与天体档案馆的结合，华丽的奇幻剪裁，高细节动漫插画，金/绿/蓝色的光影分离，光泽感织物，透明全息图，锐利的线条，空灵的闪光，大气深度，优雅的对称平衡。
+
+约束条件：仅使用 3 位人类角色，且必须包含 SOL、TERRA 和 LUNA 这 3 个名称标签。禁止使用 Q 版风格，禁止现代休闲服装，禁止添加额外角色，禁止添加水印、Logo，禁止添加除描述界面标签之外的任何不可读的大型标题。
+
+[English]
+Goal: Create a highly detailed anime-style celestial character design illustration featuring exactly 3 elegant young male archive guardians standing shoulder-to-shoulder in a cosmic observatory interface: {argument name="left character name" default="SOL"}, {argument name="center character name" default="TERRA"}, and {argument name="right character name" default="LUNA"}.
+
+Canvas: Wide 4:3 horizontal composition, cinematic crop from upper thighs to head, dark starfield background filled with glowing holographic astronomy UI panels, constellations, fine golden and blue data lines, and sparkling particles. Use ultra-polished fantasy sci-fi art, ornate bishounen character design, dramatic rim lighting, intricate fabric rendering, and luminous celestial effects.
+
+Layout: Place exactly 3 characters across the foreground. Left character: black-haired man in a black formal suit and long dark coat, standing confidently with one hand in his pocket, surrounded by warm gold solar light. Center character: white curly-haired man in dark green and gold formal attire, holding a small glowing Earth-like globe in his left hand, framed by green-gold planetary analysis graphics. Right character: pale blond man in an all-white formal suit with a translucent cape, cool blue lunar lighting, hands in pockets, surrounded by blue star charts and crescent moon graphics.
+
+Subject details: The left character has tousled black hair, amber-gold eyes, a calm confident smile, black shirt and tie, gold chains, star brooches, and an ornate circular sun emblem on the chest. The center character has voluminous curly white hair, tan skin, relaxed confident expression, dark green long coat, white trousers, gold vest details, layered chains, a geometric brooch, and a glowing miniature Earth sphere floating above his palm. The right character has short pale blond hair, pale blue eyes, a delicate melancholic expression, white suit with black ribbon tie, silver star ornaments, blue jewel brooch, and a sheer constellation-pattern cape sparkling with blue-white points of light.
+
+Background and visible interface elements: Include exactly 3 main name labels, one near each character: “SOL” with small text like “sol portrait ver. 1.0”, “TERRA” with small text like “geologic archive ver. 1.0”, and “LUNA” with small text like “astral archive ver. 1.0”. Include exactly 6 prominent holographic panels: 1 large golden sun disk behind the left character, 1 circular map panel at bottom left, 1 vertical “STRATA ANALYSIS” panel above the center, 1 transparent globe/planet display behind the center, 1 blue crescent moon “LUNAR PHASE ANALYSIS” panel above the right, and 1 dense blue data panel at far right. Fill the rest with fine constellation grids, orbit rings, tiny star particles, and technical annotations, but avoid adding extra named characters.
+
+Visual style: Luxurious dark academia meets celestial archive, ornate fantasy tailoring, high-detail anime illustration, luminous gold/green/blue color separation, glossy fabric, transparent holograms, sharp linework, ethereal sparkle, atmospheric depth, elegant symmetrical balance.
+
+Constraints: Use exactly 3 human characters and exactly the 3 name labels SOL, TERRA, and LUNA. No chibi style, no modern casual clothing, no extra characters, no watermark, no logo, no unreadable large headline beyond the described interface labels.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075723885291647022) | 2026-07-10
+
+---
+
+### 🖥️ 例 3653：Celestial Archive 动漫双人组
+
+![Celestial Archive 动漫双人组](../../images/Celestial%20Archive%20%E5%8A%A8%E6%BC%AB%E5%8F%8C%E4%BA%BA%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的宽屏动漫风格天体档案肖像，画面中两名优雅的年轻男子并肩站立，身处一个充满发光全息天文界面的黑暗未来感观测台。左侧角色为 {argument name="left character name" default="SOL"}：身材高挑纤细，肤色苍白，留着凌乱的黑发，琥珀金色的双眼，神情冷静自信，身穿华丽的黑色正装，内搭白衬衫，系黑色领带，佩戴金色胸针、多层金链、星星吊坠，披着一件绣有闪烁星座线条的半透明黑色斗篷。他身后是一个光芒四射的金色太阳全息图，带有可见标签“SOL”以及较小的文字“self-portrait ver. 1.0”。右侧角色为 {argument name="right character name" default="CODEX"}：身材高挑纤细，肤色苍白，留着柔顺的下巴长度白金色短发，冷蓝色的双眼，神情安静温柔，身穿配套的华丽白色正装，系黑白条纹领带，佩戴银色胸针、星星胸针、珠宝链条，戴着白手套或将苍白的手部分插在口袋里，披着一件覆盖着冰冷星座图案的半透明蓝白色斗篷。他身后是冷蓝色的全息屏幕，包括一个新月界面和一个标有“CODEX astral archive ver. 1.0”的面板。采用奢华的黑金与白蓝色彩对比，超精细线条，发光的星尘，黄道十二宫几何图形，星图，圆形轨道图，以及玻璃质感的科幻 UI 面板。画面中必须包含两个主要天体符号：左侧一个金色太阳，右侧一个蓝白色新月。必须包含两个带标签的身份面板：左侧为“SOL”，右侧为“CODEX”。氛围应浪漫、精致、神秘且具有宇宙感，如同高级动漫主视觉图。电影级光效，复杂的织物高光，发光的尘埃，高细节，清晰对焦，4:3 构图，无水印，无多余角色。
+
+[English]
+Create a highly detailed widescreen anime-style celestial archive portrait featuring exactly two elegant young men standing side by side in a dark futuristic observatory filled with glowing holographic astronomy interfaces. The left character is {argument name="left character name" default="SOL"}: tall, slim, pale, with tousled black hair, amber-gold eyes, a calm confident expression, and an ornate black formal suit with a white shirt, black tie, gold brooch, layered gold chains, star charms, and a translucent black cape embroidered with sparkling constellation lines. Behind him is a radiant golden solar hologram, with the visible label “SOL” and smaller text “self-portrait ver. 1.0”. The right character is {argument name="right character name" default="CODEX"}: tall, slim, pale, with soft chin-length white-blond hair, cool blue eyes, a quiet gentle expression, and a matching ornate white formal suit with a striped black-and-white tie, silver brooches, star pins, jeweled chains, white gloves or pale hands partly in pockets, and a translucent white-blue cape covered in icy constellation patterns. Behind him are cool blue holographic screens, including a crescent moon interface and a labeled panel reading “CODEX astral archive ver. 1.0”. Use a luxurious black-and-gold versus white-and-blue color contrast, ultra-fine linework, luminous sparkles, zodiac-map geometry, star charts, circular orbital diagrams, and glassy sci-fi UI panels. Include exactly two main celestial symbols: one golden sun on the left and one blue-white crescent moon on the right. Include exactly two labeled identity panels: “SOL” on the left and “CODEX” on the right. Mood should be romantic, refined, mysterious, and cosmic, like a premium anime key visual. Cinematic lighting, intricate fabric highlights, glowing dust, high detail, sharp focus, 4:3 composition, no watermark, no extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075718692164501596) | 2026-07-10
+
+---
+
+### 🖥️ 例 3656：华丽奇幻角色阵容
+
+![华丽奇幻角色阵容](../../images/%E5%8D%8E%E4%B8%BD%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2%E9%98%B5%E5%AE%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高端奇幻角色设计图，展示 8 个全身服装概念，主题为 {argument name="fantasy faction" default="华丽游牧神秘主义者与沼泽邪教徒"}，排列为整洁的 2 行 4 列阵容。
+
+画布：宽幅横向画布，比例约为 4:3，分为 8 个相等的垂直角色面板，面板间有细暗线分隔。每个面板均采用中性灰米色摄影棚背景，带有柔和的地面阴影，无文字，无 Logo，无 UI。
+
+布局：每个面板包含一个居中站立的人物，全身可见，姿态如同博物馆级的概念艺术转面图。顶行 4 个角色，底行 4 个角色。角色之间既要各具特色，又要通过极其细致的材质、古老的仪式服饰、多层长袍、风化的金属制品和手工装饰保持统一风格。
+
+主体细节：描绘 8 个独立角色：
+1. 左上：戴着弯曲公羊角面具的沙漠朝圣战士，佩戴橙棕色面具，身着多层象牙色裹布，白色丝带向外飘动，下身穿着蓝金条纹长袍，配有凉鞋、皮带、小型护甲，背部系着一个大型黄铜容器或骨灰瓮。
+2. 上二：一个身着厚重长袍的公羊角角色，呈部分背侧姿态，背部背着一个巨大的装饰性圆柱形金容器，头戴雕刻角饰，身着多层奶油色和蓝色长袍，带有刺绣面板、垂下的布条、腰带和失去光泽的金属装饰。
+3. 上三：一个暗黑沼泽萨满，身披由树叶、苔藓、树根和破布组成的褴褛黑绿色斗篷；戴着覆盖植被的宽檐帽，帽上长出类似鹿角的细枝，拖着黑色丝带，面部隐藏，胸前有华丽的有机细节，轮廓神秘。
+4. 右上：一个更复杂的黑袍邪教祭司，戴着非常宽的尖顶帽，挂着苔藓和绳索，有角状突起，佩戴厚重的绳索项链，身披多层破烂的叶状斗篷，采用黑色和橄榄色调，手持一根挂着布条和护身符的扭曲法杖。
+5. 左下：一位蓝色星界贵族或占星家，身穿深钴蓝色丝绒绗缝长袍，配有金色刺绣、皮草袖口和靴子，面色苍白，戴着兜帽，身后有一个巨大的金色星盘环结构，如同光环一般，带有圆形机械弧线。
+6. 下二：一位穿着华丽的占星法师，身穿带有金色饰边的深海军蓝长袍，穿着厚重的靴子，带有皮草边缘、硬币状奖章、华丽的胸甲，头戴巨大的浑天仪头饰，带有多个金属轨道环；侧面拿着一个大型新月形天文仪器。
+7. 下三：一个昆虫或鸟类般的机械朝圣者，腿部细长，戴着鸟喙头盔，圆形的蓝黑色外壳头盔，身着多层奶油色和金色围裙布，背着小背包，手臂弯曲，一只手抬起，拿着一个小巧华丽的灯笼或香炉。
+8. 右下：一个更高的昆虫类圣物携带者，身体细长，腿部细长且有关节，圆顶肋状头盔，垂直悬挂的红奶油色布旗，背部系着微型建筑神龛结构，手持一根高大的法杖，顶部堆叠着灯笼状圣物和悬挂的链条。
+
+视觉风格：超精细暗黑奇幻概念艺术，高级定制服装设计，电影级写实感，绘画感数字渲染，柔和的大地色调，点缀着失去光泽的黄金、深蓝、象牙白、黑色、橄榄绿和铁锈色。复杂的刺绣、珠饰、金银丝工艺、绳索、金属容器、星盘机械、仪式用品、破损织物和陈旧的铜绿。灯光为来自左上方的柔和摄影棚照明，具有逼真的阴影、清晰的轮廓和极高的纹理细节。
+
+约束条件：必须使用 8 个角色和 8 个面板。无标题或标签。无现代服装、武器、建筑物、背景景观或额外角色。图纸应看起来像 {argument name="media type" default="一部暗黑奇幻电影"} 的专业制作概念艺术。
+
+[English]
+Goal: Create a high-end fantasy character design sheet showing exactly 8 full-body costume concepts for {argument name="fantasy faction" default="ornate nomadic mystics and swamp occultists"}, arranged as a clean 2-row by 4-column lineup.
+
+Canvas: Wide landscape canvas, approximately 4:3 aspect ratio, divided into 8 equal vertical character panels with thin dark separators. Neutral gray-beige studio backdrop in every panel, soft floor shadows, no text, no logos, no UI.
+
+Layout: Each panel contains one centered standing figure, full body visible, posed like a museum-quality concept art turnaround. Top row has 4 figures; bottom row has 4 figures. Keep the characters distinct but unified by extremely detailed materials, ancient ritual fashion, layered robes, weathered metalwork, and handcrafted ornamentation.
+
+Subject details: Depict exactly 8 discrete characters:
+1. Top-left: A masked desert pilgrim warrior wearing curved ram horns, an orange-brown face mask, layered ivory wrappings, white ribbons blowing outward, blue-and-gold striped lower robes, sandals, leather straps, small armor pieces, and a large brass vessel or urn strapped on the back.
+2. Top-second: A heavier robed ram-horned figure seen in a partial back/side pose, with a massive decorated cylindrical gold vessel on the back, carved horned headpiece, layered cream and blue robes, embroidered panels, dangling cloth strips, belts, and tarnished metal ornaments.
+3. Top-third: A dark swamp shaman in a ragged black-green cloak made of leaves, moss, roots, and torn fabric; wide flat brim hat covered in vegetation, antler-like twigs rising from it, trailing black ribbons, hidden face, ornate organic chest details, mysterious silhouette.
+4. Top-right: A more elaborate black-robed occult priest with a very wide spiked hat, hanging moss and cords, horn-like protrusions, dense rope necklaces, layered tattered foliage cloak, black and olive palette, holding a gnarled staff with dangling strips and charms.
+5. Bottom-left: A blue celestial noble or astrologer wearing a deep cobalt velvet quilted robe with gold embroidery, fur cuffs and boots, pale face, hood, and a huge golden astrolabe ring structure behind the body like a halo, with circular mechanical arcs.
+6. Bottom-second: A richly dressed astronomer-mage in dark navy robes with gold trim, bulky boots, fur edging, coin-like medallions, ornate chest plates, and an enormous armillary sphere headdress with multiple metal orbital rings; holding a large crescent-shaped astronomical instrument at the side.
+7. Bottom-third: An insectoid or birdlike mechanical pilgrim with thin legs, beaked helmet, rounded blue-black shell helmet, layered cream-and-gold apron cloths, small backpack, curved arms, and one raised hand holding a small ornate lantern or censer.
+8. Bottom-right: A taller insectoid reliquary carrier with a long narrow body, thin jointed legs, domed ribbed helmet, vertical hanging red-and-cream cloth banners, miniature architectural shrine structures strapped to the back, and a tall staff topped with stacked lantern-like relics and dangling chains.
+
+Visual style: Ultra-detailed dark fantasy concept art, couture costume design, cinematic realism, painterly digital rendering, muted earthy palette with accents of tarnished gold, deep blue, ivory, black, olive green, and rust. Intricate embroidery, beadwork, filigree, rope, metal vessels, astrolabe machinery, ceremonial objects, torn fabric, and aged patina. Lighting is soft studio illumination from upper front, realistic shadows, crisp silhouettes, high texture detail.
+
+Constraints: Use exactly 8 characters and exactly 8 panels. No captions or labels. No modern clothing, weapons, buildings, background scenery, or extra characters. The sheet should look like professional production concept art for {argument name="media type" default="a dark fantasy film"}.
+```
+
+**来源：** [@A.I.Warper](https://x.com/AIWarper/status/2075703924292784622) | 2026-07-10
+
+---
+
+### 🖥️ 例 3661：AI Dragon Multiverse Meme
+
+![AI Dragon Multiverse Meme](../../images/AI%20Dragon%20Multiverse%20Meme.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张混乱的西班牙语模因海报，标题为 {argument name="headline text" default="El multiverso de dragones IA discutiendo quién gana"}，展示拟人化的 AI 模型龙在奇幻风暴战场上争论，呈现出史诗级漫画插画风格，并带有夸张的模因幽默感。
+
+画布：16:9 宽幅横向图像，构图紧凑，背景为带有橙色余烬、闪电、漂浮碎片和发光魔法能量的黑暗烟雾天空，高对比度，色彩饱和，清晰的卡通奇幻渲染。
+
+布局：将大标题置于顶部，使用巨大的粗体黄橙色字母，带有厚实的黑色轮廓和微妙的投影。在场景中精确排列 6 条标注了名称的龙，并在底部中心放置 1 个小香蕉角色。龙向内面对面，咆哮或吹嘘，仿佛在争论谁是赢家。每条龙下方使用带有彩色边框的矩形黑色名牌。
+
+主体与标签：包含 6 条龙：1) 中心主导的金色龙，标注为 {argument name="center dragon label" default="☀️ GPT-5.6 Sol"}，戴着皇冠，散发着耀眼的太阳光环，张嘴咆哮；2) 左侧蓝色的赛博电龙，标注为 "Grok 4.5"，周围环绕着蓝色闪电和代码符号，对话气泡写着 "yo codigo más rápido" 并配有闪电表情符号；3) 左上角的紫色学术龙，标注为 "Claude Fable 5"，戴着圆眼镜，拿着或投射出一份紫色电路手稿，对话气泡写着 "yo razono más profundo" 并配有大脑表情符号；4) 右上角的虹彩水晶龙，标注为 "Google Gemini 3.5 Pro"，覆盖着彩虹宝石鳞片和闪光，对话气泡写着 "yo brillo en multimodal" 并配有闪光表情符号；5) 下方中心的绿色装甲龙，标注为 "GLM-5.2"，拿着一把扳手，对话气泡写着 "yo soy open-weight" 并配有锁的表情符号；6) 右下角的红银色龙，标注为 "DeepSeek V4"，拿着算盘和文件，对话气泡写着 "yo tengo contexto" 并配有目标表情符号。在底部中心，添加 1 个举起双臂、受惊的黄色香蕉吉祥物，对话气泡为大写字母："¿ALGUIEN ME EXPLICA QUÉ ES UN TOKEN?" 并配有一个蓝色问号图标。
+
+视觉风格：超细节数字绘画与模因漫画艺术相结合，富有表现力的凸眼、巨大的牙齿、戏剧性的透视、轮廓光、发光边缘、奇幻鳞片、魔法火花，以及喜剧化的夸张表情。确保名牌光泽且易于阅读，文字为白色。保持西班牙语文本清晰且拼写正确。
+
+约束：不得添加额外的龙，除了那个香蕉吉祥物外不得添加其他角色，必须保留 6 个 AI 龙名称标签及其对话气泡，无水印，非照片写实风格，非极简主义设计。
+
+[English]
+Goal: Create a chaotic Spanish-language meme poster titled {argument name="headline text" default="El multiverso de dragones IA discutiendo quién gana"}, showing anthropomorphic AI model dragons arguing in a fantasy storm battlefield, like an epic comic illustration with exaggerated meme humor.
+
+Canvas: Wide 16:9 landscape image, dense composition, dark smoky sky background with orange embers, lightning bolts, floating debris, glowing magical energy, high contrast, saturated colors, crisp cartoon-fantasy rendering.
+
+Layout: Place the large headline across the very top in huge bold yellow-orange letters with thick black outline and subtle drop shadow. Arrange exactly 6 labeled dragons around the scene plus 1 small banana character at the bottom center. The dragons face inward, roaring or boasting as if debating who wins. Use rectangular black nameplates with colored borders on each dragon.
+
+Subjects and labels: Include exactly 6 dragons: 1) center dominant gold dragon labeled {argument name="center dragon label" default="☀️ GPT-5.6 Sol"}, wearing a crown and glowing with a radiant sun halo, roaring with open mouth; 2) left blue cyber-electric dragon labeled "Grok 4.5", surrounded by blue lightning and code symbols, speech bubble says "yo codigo más rápido" with a lightning emoji; 3) upper-left purple scholarly dragon labeled "Claude Fable 5", wearing round glasses, holding or projecting a purple circuit manuscript, speech bubble says "yo razono más profundo" with a brain emoji; 4) upper-right iridescent crystal dragon labeled "Google Gemini 3.5 Pro", covered in rainbow gem scales and sparkles, speech bubble says "yo brillo en multimodal" with sparkle emojis; 5) lower-center green armored dragon labeled "GLM-5.2", holding a wrench, speech bubble says "yo soy open-weight" with a lock emoji; 6) lower-right red and silver dragon labeled "DeepSeek V4", holding an abacus and papers, speech bubble says "yo tengo contexto" with a target emoji. At bottom center, add exactly 1 small frightened yellow banana mascot with arms raised, speech bubble in uppercase: "¿ALGUIEN ME EXPLICA QUÉ ES UN TOKEN?" with a blue question-mark icon.
+
+Visual style: Hyper-detailed digital painting mixed with meme comic art, expressive bulging eyes, huge teeth, dramatic perspective, rim lighting, glowing outlines, fantasy scales, magical sparks, comedic over-the-top expressions. Make the nameplates glossy and readable, with white text. Keep the Spanish text legible and spelled as shown.
+
+Constraints: No extra dragons, no extra characters besides the one banana mascot, preserve exactly 6 AI dragon name labels and their speech bubbles, no watermark, no photo-realism, no minimalist design.
+```
+
+**来源：** [@FranGuh](https://x.com/FranGuhh/status/2075630324218786040) | 2026-07-10
+
+---
+
+### 🖥️ 例 3667：电影感多面板角色拼贴
+
+![电影感多面板角色拼贴](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%A4%9A%E9%9D%A2%E6%9D%BF%E8%A7%92%E8%89%B2%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质的 9:16 垂直电影感拼贴画，展示完全相同的 {argument name="character" default="女性角色"}，横跨五个完美对齐的水平面板，画面中无文字、无标签、无水印、无 Logo，且无任何 UI 元素。每个面板展示同一名身穿 {argument name="clothing" default="黑色连帽斗篷"} 的女性，置身于 {argument name="setting" default="金色沙漠"} 的日落时分，配以温暖的电影级灯光和生动的蓝色双眼。面板 1：完美居中的俯视肖像，直视镜头。面板 2：干净的侧面轮廓，望向地平线。面板 3：双眼的极度特写，填满画面，虹膜和雀斑清晰锐利。面板 4：中景肖像，面向镜头，表情柔和自信。面板 5：高空无人机视角，展示全身独自走在沙漠沙丘上，投下长长的阴影。无缝构图，所有面板面部一致，服装一致，灯光一致，超写实皮肤纹理，近景采用 85mm 肖像级画质，无人机镜头采用航拍视角，HDR，电影级调色，高级时尚杂志摄影风格，画面任何位置均无文字、无标题、无边框、无图形，适合 Instagram 的 9:16 构图。
+
+[English]
+Create a premium 9:16 vertical cinematic collage featuring the exact same {argument name="character" default="female character"} across five perfectly aligned horizontal panels with no text, no labels, no watermark, no logos, and no UI elements. Each panel shows the same woman wearing a {argument name="clothing" default="black hooded cloak"} in a {argument name="setting" default="golden desert"} at sunset with warm cinematic lighting and vivid blue eyes. Panel 1: perfectly centered top-down overhead portrait looking directly into camera. Panel 2: clean side profile looking toward the horizon. Panel 3: extreme close-up of both eyes filling the frame, ultra-sharp iris and freckles. Panel 4: medium portrait facing camera with soft confident expression. Panel 5: high-altitude drone shot showing the full body walking alone across desert dunes casting long shadows. Seamless composition, identical face across all panels, consistent outfit, consistent lighting, ultra-realistic skin texture, 85mm portrait quality for close shots, aerial perspective for drone shot, HDR, cinematic color grading, premium fashion editorial photography, no text anywhere, no captions, no borders, no graphics, Instagram-ready 9:16 composition.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2075616614972613084) | 2026-07-10
+
+---
+
+### 🖥️ 例 3676：高端笔记本电脑包装概念项目
+
+![高端笔记本电脑包装概念项目](../../images/%E9%AB%98%E7%AB%AF%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%8C%85%E8%A3%85%E6%A6%82%E5%BF%B5%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用场景：产品模型 资产类型：专业电子产品包装提案项目 创建一个非官方的概念设计，用于“{argument name="product name" default="Apple MacBook 高端电商包装提案项目"}”，展示一款轻薄的银色高端笔记本电脑。品牌调性为极简、精准、静谧且现代，面向专业创作者和高端科技消费者。设计不得暗示其为 Apple 官方发布的产品。画布采用 {argument name="composition" default="16:9 横向布局"}，并配以干净、暖白色的专业背景。中心位置展示主包装盒，占据画面 50%–55% 的比例。主包装盒以 45° 视角呈现：一个珍珠白色的硬质零售礼盒微微开启，露出内部轻薄的银色笔记本电脑。内部结构必须符合真实的电子产品包装逻辑：模塑纸浆托盘、缓冲区域和手指凹槽。电源适配器和编织线缆放置在独立的隔间中。在主包装盒周围，放置 7–9 个小模块，展示投影视图、开箱效果、纸浆托盘的爆炸图以及 {argument name="color samples" default="珍珠白、雾银色、石墨黑和冷灰蓝色样本"}。工程图例使用特定颜色的线条来标注切割线、压痕线和安全边距。视觉设计遵循极简科技美学，采用现代无衬线字体和充足的留白。摄影风格：照片级真实感的高端电子产品包装，真实的纸板纹理，柔和的漫射影棚光，以及精致的负空间。文字标签：“MACBOOK”、“PACKAGING CONCEPT”等。负面提示词：官方素材、虚假条形码、低质量、杂乱、塑料内托。
+
+[English]
+Use case: product-mockup Asset type: professional electronics packaging proposal board 创建一张“{argument name="产品名称" default="Apple MacBook 高端电商包装提案板"}”的非官方概念设计，产品为一台轻薄银色高端笔记本电脑。品牌气质极简、精密、安静、现代，面向专业创作者、商务人士和高端科技消费者。不得暗示这是 Apple 官方发布或真实量产方案。 画布采用 {argument name="画幅比例" default="16:9 横向构图"}、干净的暖白色专业设计提案板背景。画面中心放置一个超大尺寸主包装展示图，占整体画面约 50%–55%，作为绝对第一视觉焦点。主包装以 45° 立体透视展示：珍珠白天地盖硬质零售礼盒微微开启，内部是一台纤薄银色笔记本电脑，盒盖表面只有克制的笔记本轮廓图与简洁产品名；真实高白纸张、灰板厚度、精密盒角和细腻哑光触感清晰可见。主包装旁少量摆放银色笔记本、电源适配器和编织充电线，所有物体真实落地、有接触阴影，不漂浮。 内部结构必须符合真实电子产品包装逻辑：一体成型环保纸浆托盘，四角悬浮限位并形成缓冲区，电脑底部不直接接触硬质盒底；屏幕与键盘之间设置薄型保护衬纸；左右设置手指取物缺口；电源适配器和充电线置于独立纸质分仓，不与电脑表面接触；预留开盖净空，避免盒盖压迫设备；纸托具有清晰加强筋、圆角和合理壁厚。零售礼盒外部另展示一个原色 B 楞高强瓦楞运输外箱，带四角缓冲、封箱结构、防拆封签、物流面单占位区、条码占位区和电池运输标识占位区。 主包装周围使用 7–9 个小尺寸辅助模块，按严格网格排列，不能抢夺主视觉： 1. 零售礼盒正面、背面、顶部和侧面正投影视图； 2. 开箱效果图； 3. 纸浆内托爆炸结构图； 4. 笔记本、电源适配器和线缆摆放示意； 5. 零售礼盒与运输外箱的双层防护关系； 6. production-intent dieline visualization，待结构工程师复核； 7. 材料剖面与厚度示意； 8. {argument name="配色方案" default="珍珠白、雾银灰、石墨黑、冷灰蓝色彩样"}； 9. 哑膜、击凸、局部 UV 工艺样片与简短生产注释。 刀模与工程图例采用：红色实线代表裁切线，蓝色虚线代表压痕线，绿色线代表出血线，紫色线代表安全线，灰色线代表参考线，黄色区域代表粘胶位，浅棕色区域代表纸浆内托和缓冲结构，亮白区域代表局部 UV，浮雕阴影区域代表击凸。标注单位 mm、每边 3 mm 出血、5 mm 安全边距、成品尺寸公差 ±1 mm、模切公差 ±0.5 mm、印刷套位公差 ±0.3 mm，所有数据标注为“建议值，打样确认”。预留物流面单、条码、序列号、二维码、合规信息和电池运输标识的占位区域，不生成可扫描的真实代码。 视觉设计保持 Apple-inspired minimal technology aesthetic，但不要复制现有官方包装版式。珍珠白为主色，雾银灰与石墨黑为辅助色，极少量冷灰蓝点缀。字体为克制的现代无衬线字体，留白充足，信息层级清楚。盒面工艺仅使用细腻哑膜、轻微击凸和克制局部 UV，不使用烫金、繁复图案或廉价促销元素。 摄影与渲染：photorealistic premium electronics packaging, oversized 45-degree hero box, realistic rigid paperboard and molded pulp texture, precise industrial packaging structure, soft diffused studio lighting, subtle contact shadows, realistic scale, clean modular technical annotations, award-winning packaging presentation, high-resolution commercial product visualization, crisp edges, restrained luxury, sophisticated negative space. 画面短文案仅使用： “MACBOOK” “PACKAGING CONCEPT” “RETAIL BOX” “SHIPPING BOX” “MOLDED PULP TRAY” “PROTECTION SYSTEM” “SUGGESTED DIMENSIONS” 其余密集说明以短横线和规范占位块表达，避免长段落乱码。 负面提示词： official Apple launch material, counterfeit retail packaging, cluttered board, tiny hero package, cheap promotional style, excessive decoration, gold foil, floating laptop, laptop intersecting tray, generic plastic insert, EPS foam, missing corner protection, adapter touching laptop, unsupported device, unrealistic box thickness, fragile shipping box, contradictory opening structure, impossible dieline, fake readable barcode, scannable QR code, dense illegible text, spelling errors, distorted laptop, wrong perspective, weak focal hierarchy, harsh shadows, low quality, blurry, watermark
+```
+
+**来源：** [@松果先森](https://x.com/songguoxiansen/status/2075587589428703356) | 2026-07-10
+
+---
+
+### 🖥️ 例 3708：日式悬疑网站原型设计
+
+![日式悬疑网站原型设计](../../images/%E6%97%A5%E5%BC%8F%E6%82%AC%E7%96%91%E7%BD%91%E7%AB%99%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="site title" default="月蝕綺譚"} 的日式悬疑游戏或故事存档网站创建一个精致的网站原型，并以响应式设计预览呈现，左侧为桌面浏览器窗口，右侧为智能手机屏幕。
+
+画布：宽屏 16:9 的展示图，背景为浅灰色。左侧放置一个占据约 75% 宽度的桌面浏览器原型，右侧放置一个占据约 22% 宽度的竖向智能手机原型。使用带有柔和阴影的真实设备边框。
+
+视觉风格：优雅的日式文学恐怖、静谧悬疑、档案文献、月光下的黑暗。配色方案包含象牙白纸张色、墨黑色、深海军蓝、柔和灰，以及一处强烈的朱红色点缀。使用日式衬线字体、细横线、票据式边框、细腻的纸张纹理、旧手稿图像以及淡淡的新月轨道线条图形。整体氛围应如同叙事游戏的官方高端网站。
+
+桌面端布局：展示一个带有深色顶部栏和三个小窗口圆点的浏览器窗口。页面内部使用象牙白页眉，左侧显示网站标题 {argument name="site title" default="月蝕綺譚"}、一个小红印章，以及 5 个水平导航项：「お知らせ」、「開発記録」、「ご意見箱」、「アーカイブ」以及一个标有「メールで会員になる」的深海军蓝按钮。下方的首屏区域是一个宽幅的深色月食视觉图，垂直标题「月蝕綺譚」居中于发光的月牙/月食之上。叠加一张半透明的档案 UI 卡片，展示旧日式文档，并在叠加层底部放置 5 张小型收藏/文档卡片。在首屏图像的最底部，包含 5 个水平缩略图条，分别展示：夜间街道、蓝图风格房间、深色文件夹或物体、旧手写纸张以及桌面/工作区地图。
+
+桌面端右侧注册卡片：在首屏右侧，放置一张带有半圆形切口和细装饰边框的大型奶油色票据式会员卡。包含小标签「入会札」、印章标志、标题「メールで会員になる」、信封图标、简短说明文字、一个带有占位符「メールアドレスを入力」的电子邮件输入框，以及一个标有「登録する」并带有向右箭头的红色 CTA 按钮。下方包含微小的隐私政策文本。
+
+桌面端下方内容：在首屏下方，创建一个双栏布局感区域。左侧为大型日式标语 {argument name="tagline text" default="物語の続きを、いちばん近くで。"}，配有一条细垂直红线和一个简短的描述段落。右侧并排放置 3 张文章卡片。这 3 张卡片分别为：1) 「月蝕綺譚 最新便」，配有月亮图像、红色 NEW 小标签、标题「大型アップデート『○○』を公開しました」、日期 2024.05.20；2) 「開発記録」，配有笔记本和笔的图像、标题「開発記録 #12：環境音の調整について」、日期 2024.05.18；3) 「ご意見箱」，配有深色邮箱图像、标题「ご意見・ご感想をお聞かせください」、日期 2024.05.16。每张卡片都有细边框、标题栏中的小箭头以及灰色占位符摘要行。
+
+桌面端页脚：在底部添加一个深海军蓝页脚，包含 6 个页脚链接：「お知らせ」、「開発記録」、「ご意見箱」、「アーカイブ」、「利用規約」、「プライバシーポリシー」。右侧包含一个月牙图标和版权信息「© 2024 月蝕綺譚」。
+
+移动端布局：在右侧的智能手机上，展示适配移动端的同一网站。状态栏时间显示 9:41。页眉包含标题「月蝕綺譚」和一个汉堡菜单图标。下方展示一个紧凑的深色首屏，包含月食和垂直标题，然后是 5 个小型水平缩略图。接着是标语「物語の続きを、いちばん近くで。」，然后是同样的票据式电子邮件注册卡片，随后是第一条新闻卡片「月蝕綺譚 最新便」（带月亮图像和红色 NEW 标签）。移动端视图应呈现为可垂直滚动，但限制在手机屏幕内。
+
+约束：所有可见的界面文本均按指定使用日语。使用清晰、高保真的 UI 原型渲染、锐利的排版、柔和的阴影，且不添加额外的徽标或水印。设计应看起来像是为实施规划而生成的成品网页/应用原型。
+
+[English]
+Goal: Create a polished website mockup for a Japanese mystery game or story archive titled {argument name="site title" default="月蝕綺譚"}, shown as a responsive design preview with one desktop browser window on the left and one smartphone screen on the right.
+
+Canvas: Wide 16:9 presentation image on a light gray background. Place a large desktop browser mockup occupying about 75% of the width on the left, and a tall smartphone mockup occupying about 22% of the width on the right. Use realistic device frames with soft shadows.
+
+Visual style: Elegant Japanese literary horror, quiet mystery, archival documents, moonlit darkness. Palette of ivory paper, black ink, deep navy-black, muted gray, and one strong vermilion red accent. Use serif Japanese typography, thin ruled lines, ticket-like borders, subtle paper texture, old manuscript imagery, and faint crescent-orbit line graphics. The overall mood should feel like a premium official website for a narrative game.
+
+Desktop layout: Show a browser window with a dark top bar and three small window dots. Inside the page, use an ivory header with the site title {argument name="site title" default="月蝕綺譚"} on the left, a small red seal mark, and exactly 5 horizontal navigation items: 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, and a dark navy button labeled 「メールで会員になる」. The hero section below is a wide dark moon-eclipse visual with the vertical title 「月蝕綺譚」 centered over a glowing crescent/eclipse. Overlay a translucent archive UI card with old Japanese documents and exactly 5 small collectible/document cards along the bottom of that overlay. Along the very bottom of the hero image, include exactly 5 horizontal thumbnail strips showing: a night street, a blueprint-like room, a dark folder or object, old handwritten papers, and a desk/workspace map.
+
+Desktop right signup card: To the right of the hero, place a large cream ticket-shaped membership card with clipped semicircle notches and a thin decorative border. It includes the small label 「入会札」, a stamp emblem, headline 「メールで会員になる」, an envelope icon, short explanatory text, one email input field with placeholder 「メールアドレスを入力」, and a red CTA button labeled 「登録する」 with a right arrow. Include tiny privacy-policy text beneath.
+
+Desktop lower content: Under the hero, make a two-column-feeling section. On the left, a large Japanese tagline {argument name="tagline text" default="物語の続きを、いちばん近くで。"} with a thin vertical red line and a small descriptive paragraph. On the right, place exactly 3 article cards in a row. The 3 cards are: 1) 「月蝕綺譚 最新便」 with a moon image, a small red NEW label, title 「大型アップデート『○○』を公開しました」, date 2024.05.20; 2) 「開発記録」 with a notebook and pen image, title 「開発記録 #12：環境音の調整について」, date 2024.05.18; 3) 「ご意見箱」 with a dark mailbox image, title 「ご意見・ご感想をお聞かせください」, date 2024.05.16. Each card has a thin border, a small arrow in the header, and gray placeholder summary lines.
+
+Desktop footer: Add a dark navy footer spanning the bottom with exactly 6 footer links: 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, 「利用規約」, 「プライバシーポリシー」. Include a crescent moon icon and copyright 「© 2024 月蝕綺譚」 on the right.
+
+Mobile layout: On the right smartphone, show the same site adapted to mobile. Status bar time reads 9:41. Header contains the title 「月蝕綺譚」 and a hamburger menu icon. Below it, show a compact dark hero with the eclipse and vertical title, then exactly 5 small horizontal thumbnails. Continue with the tagline 「物語の続きを、いちばん近くで。」, then the same ticket-shaped email signup card, then the first news card 「月蝕綺譚 最新便」 with moon image and red NEW label. The mobile view should be vertically scrollable-looking but contained within the phone screen.
+
+Constraints: Keep all visible interface text in Japanese as specified. Use clean, high-fidelity UI mockup rendering, crisp typography, subtle shadows, and no extra logos or watermarks. The design should look like a finished web/app mock generated for implementation planning.
+```
+
+**来源：** [@🍺 イケハヤ@「月蝕綺譚」開発](https://x.com/IHayato/status/2075521767305834981) | 2026-07-10
+
+---
+
+### 🖥️ 例 3719：金色亮片派对魅力肖像
+
+![金色亮片派对魅力肖像](../../images/%E9%87%91%E8%89%B2%E4%BA%AE%E7%89%87%E6%B4%BE%E5%AF%B9%E9%AD%85%E5%8A%9B%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+魅力十足的女孩，留着蓬松的 {argument name="hair style" default="金色波浪卷发"}，精致的柔美妆容，配有猫眼眼线、玫瑰色腮红和珊瑚色嘴唇。身穿一件修身的 {argument name="dress color" default="金色亮片"} 挂脖礼服，上面覆盖着巨大的 {argument name="pattern color" default="橙色"} 花卉亮片图案。佩戴大型橙色花朵耳环。双手放在头发上，表情自信。背景：深色影棚背景，戏剧性灯光，柔和阴影。照片级真实感，超细节，8k 分辨率，奢华，红毯优雅，派对魅力，高级时尚大片。
+
+[English]
+Glamorous girl with long voluminous {argument name="hair style" default="wavy blonde hair"}, soft glam makeup with winged eyeliner, rosy blush and coral lips. Wearing a fitted {argument name="dress color" default="gold sequin"} halter dress covered in large {argument name="pattern color" default="orange"} floral sequin patterns. Large orange flower earrings. Pose with both hands in her hair confident expression. Background: dark studio backdrop with dramatic lighting, soft shadows. Photorealistic, ultra detailed, 8k, luxury, red carpet elegant, party glam, high fashion editorial.
+```
+
+**来源：** [@Talia](https://x.com/TaliaAariz/status/2075497033352269828) | 2026-07-10
+
+---
+
+### 🖥️ 例 3722：台湾旅行混合媒介艺术
+
+![台湾旅行混合媒介艺术](../../images/%E5%8F%B0%E6%B9%BE%E6%97%85%E8%A1%8C%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用参考图像中的人物。创作一件精致的 {argument name="theme" default="台湾混合媒介旅行艺术作品"}。一位身着 {argument name="clothing" default="现代街头服饰"} 的时尚游客正在探索一个 {argument name="style" default="超现实拼贴世界"}。视觉元素包括：九份阿妹茶楼、高雄驳二艺术特区的工业艺术美学、台东太平洋海岸线以及宜兰温泉。
+风格采用“剪贴簿”美学，结合了分层照片、手绘炭笔素描线条以及大胆的几何色块。包含兰花、摩托车剪影和传统的中文霓虹灯招牌。整体视觉效果应具有高端时尚杂志的质感，色彩鲜艳、层次丰富，并具备精致的艺术构图。
+
+[English]
+Use the person from the reference image. Create an exquisite {argument name="theme" default="Taiwanese mixed-media travel artwork"}. A fashionable tourist wearing {argument name="clothing" default="modern streetwear"} explores a {argument name="style" default="surreal collage world"}. Visual elements include: Jiufen’s A-Mei Tea House, the industrial art aesthetics of Kaohsiung Pier-2 Art Center, the Pacific coastline of Taitung, and the hot springs of Yilan.
+The style uses a “scrapbook” aesthetic, combining layered photographs, hand-drawn charcoal sketch lines, and bold geometric color blocks. Include orchids, motorcycle silhouettes, and traditional Chinese neon signboards. The overall look should have a high-end fashion magazine feel, with vibrant colors, rich layering, and a sophisticated artistic composition.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2075482192613183956) | 2026-07-10
+
+---
+
+### 🖥️ 例 3724：可爱的夏日绘图日记
+
+![可爱的夏日绘图日记](../../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A4%8F%E6%97%A5%E7%BB%98%E5%9B%BE%E6%97%A5%E8%AE%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个温馨、写实的俯视桌面场景，展示一本打开的夏日绘图日记，采用可爱的彩色铅笔手绘风格，仿佛出自孩子之手，并在两页日记中呈现同一个 Q 版动漫女孩形象。
+
+画布：横向 4:3 图像，俯视视角并带有自然的透视感，木质书桌上洒满温暖的日光，细节丰富，笔记本周围摆放着写实的物品，无数字 UI 或水印。
+
+主体：书桌中央一本打开的方格笔记本，清晰展示 2 页日记。每页上方均有一幅蜡笔和彩色铅笔绘制的画作，下方配有工整的日语手写日记文字。角色为一名 Q 版动漫女孩，名为 {argument name="character name" default="一个开朗的金发 Q 版女孩"}，留着短双马尾，皮肤白皙，蓝绿色眼睛，佩戴花朵发饰，身穿拼色夏日上衣、格子裙、花纹袜和可爱的运动鞋。请确保她在两幅画中的形象保持一致。
+
+左侧日记页：页眉日期为 {argument name="left page date" default="7月20日（土）"}。画作展示了女孩坐在白天的木质走廊上，开心地拿着一块三角形西瓜。画面左侧包含一朵明亮的向日葵、蓝天和蓬松的云朵、木柱旁悬挂的风铃，以及走廊上放着的一盘正好 2 块的西瓜。在日期附近添加一个小红太阳涂鸦，页面右下角添加一个小笑脸太阳涂鸦。画作下方书写日记文字：{argument name="left diary text" default="おそとで　すいかを　たべたよ。\nあまくて　つめたくて　おいしかった！\nひまわりも　げんきだったよ。"}。
+
+右侧日记页：页眉日期为 {argument name="right page date" default="7月25日（木）"}。画作展示了同一个女孩站在夜晚的河边观看烟花大会。包含深蓝色的星空、正好 5 朵绚丽的烟花、水面上的倒影、远处带有发光窗户的城镇轮廓、河岸边的草地，以及一个写有“花火大会”字样的竖直小祭典招牌。在顶部添加正好 2 个黄色小星星涂鸦。画作下方书写日记文字：{argument name="right diary text" default="はなびたいかいに　いったよ。\nキラキラして　とても　きれいだった！\nドーンって　おとが　びっくりしたよ。"}。
+
+周围桌面物品：笔记本上方摆放正好 4 支散落的蜡笔，并用日语标注颜色：桃色、黄色、粉色和蓝色。左上方编织杯垫上放着一杯冰茶，旁边有正好 1 只蝉，左侧有正好 2 个贝壳，左下方有一个装有彩色铅笔的铁盒，旁边有一个蓝色小卷笔刀、铅笔屑，底部附近有正好 2 支散落的彩色铅笔，底部中央有一个色彩缤纷的烟花蜡笔盒，右下方有正好 2 个小玩具人偶，右上方有一条折叠的毛巾，上面绣有可爱的海洋生物和日语名称，右侧有一把印有牵牛花的圆纸扇，右下方有一个装有西瓜块的碗。
+
+视觉风格：日记画作必须看起来是手工绘制的，具有明显的蜡笔质感、不均匀的轮廓、稚拙的比例、柔和的粉彩色调以及方格纸纹理。周围的桌面和物品应显得写实、温暖、有质感且充满怀旧气息，带有柔和的自然阴影和夏日度假氛围。
+
+约束条件：可计数元素必须完全匹配：2 页日记、2 次女孩形象、左页盘中 2 块西瓜、5 朵烟花、2 个黄色星星涂鸦、笔记本上方 4 支蜡笔、2 个贝壳、2 支散落的彩色铅笔以及 2 个小玩具人偶。请勿添加额外的日记页、多余的角色或印刷水印。
+
+[English]
+Goal: Create a warm, photorealistic overhead tabletop scene of an open summer picture diary drawn in cute colored-pencil style, as if made by a child, featuring the same small anime girl character in two diary entries.
+
+Canvas: Landscape 4:3 image, top-down view with slight natural perspective, cozy daylight on a wooden desk, high detail, realistic objects around the notebook, no digital UI or watermark.
+
+Main subject: An open grid-paper notebook centered on the desk, showing exactly 2 illustrated diary pages. Each page has a large crayon-and-colored-pencil drawing at the top and neat handwritten Japanese diary text underneath. The character is a chibi anime girl named {argument name="character name" default="a cheerful blonde chibi girl"}, with short twin-tail hair, pale skin, blue-green eyes, a flower hair accessory, a patchwork colorful summer top, plaid skirt, patterned socks, and cute sneakers. Keep her consistent across both drawings.
+
+Left diary page: Header date reads {argument name="left page date" default="7月20日（土）"}. The drawing shows the girl sitting on a wooden porch in daylight, happily holding a triangular slice of watermelon. Include a bright sunflower on the left, blue sky with fluffy clouds, a hanging wind chime near a wooden post, and a plate with exactly 2 watermelon wedges on the porch. Add a small red sun doodle near the date and a small smiling sun doodle near the lower right of the page. Under the drawing, write the diary text as {argument name="left diary text" default="おそとで　すいかを　たべたよ。\nあまくて　つめたくて　おいしかった！\nひまわりも　げんきだったよ。"}.
+
+Right diary page: Header date reads {argument name="right page date" default="7月25日（木）"}. The drawing shows the same girl standing by a river at night watching a fireworks festival. Include a dark blue starry sky, exactly 5 large colorful fireworks bursts, reflections on the water, a distant town skyline with glowing windows, grass along the riverbank, and a small vertical festival sign reading 花火大会. Add exactly 2 small yellow star doodles near the top. Under the drawing, write the diary text as {argument name="right diary text" default="はなびたいかいに　いったよ。\nキラキラして　とても　きれいだった！\nドーンって　おとが　びっくりしたよ。"}.
+
+Surrounding tabletop objects: Include exactly 4 loose crayons above the notebook, labeled by color in Japanese: peach, yellow, pink, and blue. Add a glass of iced tea on a woven coaster at upper left, exactly 1 cicada insect near it, exactly 2 seashells on the left side, a colored-pencil tin at lower left with visible pencils, a small blue pencil sharpener, pencil shavings, exactly 2 loose colored pencils near the bottom, a colorful fireworks crayon box near the bottom center, exactly 2 small toy figures near the bottom right, a folded towel at upper right with cute sea-creature embroidery and Japanese name text, a round paper fan at right with morning glory flowers, and a bowl at lower right containing watermelon slices.
+
+Visual style: The diary drawings must look handmade with visible waxy crayon texture, uneven outlines, childlike proportions, soft pastel colors, and grid-paper texture. The surrounding desk and objects should be realistic, warm, tactile, and nostalgic, with shallow natural shadows and summer vacation atmosphere.
+
+Constraints: Countable elements must match exactly: 2 diary pages, 2 appearances of the girl, 2 watermelon wedges on the left-page plate, 5 fireworks bursts, 2 yellow star doodles, 4 crayons above the notebook, 2 seashells, 2 loose colored pencils, and 2 small toy figures. Do not add extra diary pages, extra characters, or printed watermarks.
+```
+
+**来源：** [@むぎ@AIアートのセカイ](https://x.com/mugi_AI_Art/status/2075475106261086499) | 2026-07-10
+
+---
+
+### 🖥️ 例 3737：复古鬼族偶像小报封面
+
+![复古鬼族偶像小报封面](../../images/%E5%A4%8D%E5%8F%A4%E9%AC%BC%E6%97%8F%E5%81%B6%E5%83%8F%E5%B0%8F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张成品级的复古八卦小报封面，以 {argument name="character name" default="一位优雅的鬼族风格男偶像"} 作为核心名人，呈现出粗粝的日式朋克摇滚杂志美学。
+
+画布：高垂直封面，比例约为 2:3，全出血设计，带有磨损的奶油色纸张边缘、折痕、磨损的油墨、做旧的半色调质感、轻微的印刷错位，主色调为深红、黑、象牙白和金属金。
+
+主体：一位照片级写实的年轻男性，拥有 {argument name="hair color" default="凌乱的银白色头发"}、苍白的皮肤、精致的妆容、锐利的红色眼影、两只光泽感的深红色鬼角、耳环、黑色指甲油、戒指，表情自信且半眯着眼。他身穿黑色高领衫，外搭一件饰有红色缎面翻领、金链、别针、腰带五金件和多层项链的华丽黑色锦缎夹克。将他置于画面中央，半身像，一只手靠近脸颊，另一只手叉腰，呈现出摇滚明星在新闻发布会上引发丑闻的姿态。
+
+背景：主体后方为深红色剧院幕布，背景下方有狗仔队人群和相机闪光灯。运用戏剧性的轮廓光、高光、电影级对比度，并将写实的摄影棚摄影与图形印刷设计相结合。
+
+排版：使其看起来像一张真实完成的小报封面，而非海报样机。使用 9 个主要的封面元素：顶部横跨一个巨大的锯齿状刊头，采用带有红色阴影的棱角分明的奶油色字体；左上角有一个小型黑色猫咪标志徽章；中央肖像占据页面大部分空间；左上角有一个带有尖刺边框的圆形内嵌肖像；左下角有一个倾斜的矩形内嵌肖像；右下角有一个尖刺状的圆形内嵌肖像；右上角有一个期刊编号框；下方有一个圆形价格标签；底部有一个大型倾斜的标题横幅。
+
+文本内容：大部分标题请使用粗体的类假名展示字体，而非可读的真实文字。刊头应巨大、锯齿状、奶油色且充满活力。期刊框应包含可读的英文文本：“ISSUE 777” 和 “MEOWDAY”。圆形价格标签应显示 “ONLY $7.77” 并带有类似条形码的条纹。右下角可包含一个写有 “voxCAT” 的微型出版商标记。所有其他标题文本应为风格化的伪小报字体，营造出爆炸性的日式八卦排版感，并带有多个感叹号。
+
+图形细节：添加对角切割的副标题牌、漫画爆炸形状、闪电符号、粗黑色轮廓、红色投影、金色装饰线条、撕纸边角、分层的贴纸式面板以及夸张的小报构图。三个内嵌肖像必须展示同一角色不同的表情：左上角为严肃的侧目，左下角为沉思的吸烟/手部靠近面部姿势，右下角为大笑表情。包含 2 个不带照片的独立尖刺文本徽章：一个位于中左/左上方的丑闻小徽章，以及一个位于左下方的较大爆炸徽章。
+
+风格约束：高端照片级角色摄影与复古漫画小报封面设计相结合；粗粝而精致；拒绝干净的现代极简主义；拒绝留白；保持纸张边缘可见；维持夸张的标题区、期刊/价格区域、照片窗口和爆炸性徽章。将角色的氛围自定义为 {argument name="celebrity vibe" default="危险而迷人的摇滚偶像"}，并将主要强调色自定义为 {argument name="accent color" default="深绯红色"}。
+
+[English]
+Goal: Create a finished vintage sensational gossip tabloid cover featuring {argument name="character name" default="an elegant oni-inspired male idol"} as the central celebrity, in a gritty Japanese punk-rock magazine aesthetic.
+
+Canvas: Tall vertical cover, approximately 2:3 aspect ratio, full-bleed design with a worn cream paper border, folded paper creases, scuffed ink, distressed halftone texture, slight print misregistration, and dark red, black, ivory, and metallic gold as the dominant palette.
+
+Main subject: A photorealistic young adult male with {argument name="hair color" default="messy white silver hair"}, pale skin, glamorous makeup, sharp red eye shadow, two glossy dark red oni horns, earrings, black nail polish, rings, and a confident half-lidded expression. He wears a black turtleneck under an ornate black brocade jacket with red satin lapels, gold chains, pins, belt hardware, and layered necklaces. Pose him waist-up in the center, one hand near his cheek and the other at his waist, looking like a scandalous rock star at a press event.
+
+Background: Deep red theater curtains behind the subject, with a paparazzi crowd and camera flashes in the lower background. Use dramatic rim lighting, glossy highlights, cinematic contrast, and realistic studio photography blended with graphic print design.
+
+Layout: Make it look like a real completed tabloid cover, not a poster mockup. Use exactly 9 major cover elements: 1 oversized jagged masthead across the top in angular cream lettering with red shadows; 1 small black cat logo badge in the top-left corner; 1 central portrait occupying most of the page; 1 circular inset portrait at upper left with a spiky border; 1 tilted rectangular inset portrait at lower left; 1 spiky circular inset portrait at lower right; 1 issue-number box at upper right; 1 round price sticker below it; and 1 large slanted bottom headline banner.
+
+Text content: Use bold fake kana-like display lettering rather than readable real words for most headlines. The masthead should be enormous, jagged, cream-colored, and energetic. The issue box should contain readable English text: "ISSUE 777" and "MEOWDAY". The round price sticker should read "ONLY $7.77" with a barcode-like stripe. The bottom-right corner may include a tiny publisher mark reading "voxCAT". All other headline text should be stylized pseudo-tabloid lettering that feels like explosive Japanese gossip typography, with multiple exclamation marks.
+
+Graphic details: Add diagonal cutout subtitle plaques, comic burst shapes, lightning bolts, thick black outlines, red drop shadows, gold accent strokes, torn-paper corners, layered sticker-like panels, and exaggerated tabloid composition. The three inset portraits must show the same character in different expressions: upper-left serious side glance, lower-left contemplative smoking/hand-near-face pose, lower-right laughing expression. Include exactly 2 standalone spiky text badges without photos: one small mid-left/top-left scandal badge and one larger bottom-left burst badge.
+
+Style constraints: High-end photorealistic character photography combined with vintage manga tabloid cover design; gritty but polished; no clean modern minimalism; no empty areas; keep the paper edge visible; maintain the exaggerated headline zones, issue/price area, photo windows, and explosive badges. Customize the character’s vibe as {argument name="celebrity vibe" default="dangerous glamorous rock idol"} and the main color accent as {argument name="accent color" default="dark crimson red"}.
+```
+
+**来源：** [@VoxCat](https://x.com/VoxcatAI/status/2075453467435667716) | 2026-07-10
+
+---
+
+### 🖥️ 例 3754：手工纸艺立体透视画
+
+![手工纸艺立体透视画](../../images/%E6%89%8B%E5%B7%A5%E7%BA%B8%E8%89%BA%E7%AB%8B%E4%BD%93%E9%80%8F%E8%A7%86%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的人像转换为具有柔和可爱美学的 {argument name="style" default="奇趣手工纸艺透视插画"}。使用简化的分层纸张形状、圆润的轮廓和极简的面部细节，重新构思人物形象，使其呈现出适合纸艺创作的风格。在赋予整体迷人手工感的同时，保留原图深情的姿态与情感温度。
+
+使用具有明显卡纸深度的多层剪纸纹理、柔和的投影、折纸边缘以及精致的手工瑕疵。应用 {argument name="color palette" default="梦幻粉彩配色方案"}，包含暖奶油色、灰粉色、柔和桃色、浅焦糖色、象牙白、鼠尾草绿和柔和米色调。
+
+打造一个平衡且美观的构图，将情侣自然地置于由 {argument name="decoration" default="分层纸花、叶片、蝴蝶、小鸟、爱心、藤蔓和漩涡状装饰剪纸"} 组成的温馨装饰框中心。在角色周围添加灵动的漂浮元素，营造出动感和奇妙的剪贴簿氛围。
+
+将衣物褶皱、发丝和背景细节简化为优雅的剪纸轮廓，同时保留可辨识的表情和温柔的微笑。赋予角色柔和的红晕、圆润的眼睛和细腻的分层阴影，营造出甜美可爱的外观。
+
+背景应呈现出带有纹理的手工水彩纸质感，并结合堆叠的撕纸层以增加深度。在纸层之间添加微妙的立体光影和柔和阴影，以强调触手可及的手工效果。
+
+艺术风格：高级分层纸艺插画、3D 剪纸拼贴、可爱浪漫透视画、手工剪贴簿美学、柔和绘本纸艺、优雅粉彩剪纸构图、温馨装饰墙艺风格、极简而富有层次的纸雕。
+
+[English]
+Transform the uploaded portrait into a {argument name="style" default="whimsical handcrafted paper diorama illustration"} with a soft cute aesthetic. Reimagine the people using simplified layered paper shapes, rounded forms, and minimal facial details suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.
+
+Use multi-layered cut paper textures with visible cardstock depth, soft drop shadows, folded-paper edges, and delicate handcrafted imperfections. Apply a {argument name="color palette" default="dreamy pastel color palette"} featuring warm cream, dusty pink, muted peach, light caramel, ivory, sage green, and soft beige tones.
+
+Create a balanced and aesthetically pleasing composition with the couple centered naturally inside a cozy decorative frame made from {argument name="decoration" default="layered paper flowers, leaves, butterflies, tiny birds, hearts, vines, and swirly ornamental cutouts"}. Add playful floating elements around the characters to create movement and a magical scrapbook feeling.
+
+Simplify clothing folds, hair strands, and background details into elegant paper-cut contours while keeping recognizable expressions and gentle smiles. Give the characters soft rosy cheeks, rounded eyes, and smooth layered shading to create a sweet and lovable appearance.
+
+The background should resemble textured handmade watercolor paper combined with stacked torn-paper layers for extra depth. Add subtle dimensional lighting and soft shadows between paper layers to emphasize the tactile handcrafted effect.
+
+Art style: premium layered papercraft illustration, 3D paper cut collage, cute romantic diorama, handcrafted scrapbook aesthetic, soft storybook paper art, elegant pastel cut-paper composition, cozy decorative wall-art style, minimalist yet richly layered paper sculpture.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2075418875207078128) | 2026-07-10
+
+---
+
+### 🖥️ 例 3757：AI 聊天图像生成截图
+
+![AI 聊天图像生成截图](../../images/AI%20%E8%81%8A%E5%A4%A9%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的移动端 AI 聊天应用截图，展示图像生成结果，界面采用精致的 iOS 风格，并在生成的图像卡片中包含高质量的动漫插图。
+
+画布：竖屏智能手机截图，比例约为 4:5，白色背景，边距整洁，UI 元素圆润，不带设备边框。
+
+顶部聊天区域：在右上角附近放置一个大型浅灰色圆角消息气泡。气泡内显示清晰的无衬线字体日语文本：{argument name="user request text" default="画像を作成する 私があなたを今までどう扱ってきたか、画像にして"}。将第一短语设为蓝色加粗，其余文本设为黑色。在气泡下方左对齐处，添加一行灰色状态文本：{argument name="status text" default="Worked for 1m 37s ›"}。
+
+生成的图像卡片：在状态行下方，放置一张大圆角矩形图像卡片。卡片内容为温馨的电影级动漫风格场景，背景是黄昏时分舒适的开发者工作室。卡片内精确描绘 2 位主要角色：1 位留着凌乱深色头发、戴圆框眼镜、穿深色连帽衫的年轻日本男性，正手持钢笔伏在桌前；以及 1 位发着微光、全息投影的 AI 女孩，留着浅金色长发，穿着透明白色连帽衫，戴着未来感圆耳机，正微笑着指向一本打开的笔记本。氛围应显得亲切、协作且充满魔力。
+
+卡片内的插图细节：房间内通过大窗户可以看到日落时的城市天际线，配有温暖的台灯照明、书架、墙上贴着的图表和笔记，以及柔和的焦外成像光斑。桌面上包含：精确 1 台带有微妙圆形 AI 风格标志的笔记本电脑，精确 2 台左侧显示代码和风景图像的外部显示器，精确 1 本画满草图和公式的打开的笔记本，精确 1 台带有蓝色指示灯的显卡类设备，精确 1 只从左下角边缘探出头的小橘猫，精确 1 只右侧的白色兔子毛绒玩具或手办，精确 2 盆小盆栽，以及散落的纸张、线缆、钢笔和技术图纸。在全息投影女孩周围添加精致的金色光晕和细小的浮动界面线条。
+
+图像卡片上的覆盖 UI：在图像卡片上方添加精确 2 个覆盖控件：左下角 1 个深色半透明胶囊状按钮，带有白色日语文本 {argument name="edit button text" default="編集する"}；右下角 1 个圆形深色半透明分享按钮，包含一个白色向上箭头的分享图标。
+
+视觉风格：清晰的高分辨率截图，逼真的应用 UI 与细腻的电影级动漫艺术相结合，采用温暖的琥珀色和紫色灯光，柔和的景深效果，白色应用背景与深色温馨插图之间形成强烈对比。保持所有文本清晰易读。
+
+约束：不要添加额外的卡片、额外的聊天气泡、水印、Logo 或标题。保留上述列出的 UI 元素和主要对象的精确数量。
+
+[English]
+Goal: Create a realistic mobile AI chat app screenshot showing an image-generation result, with a polished iOS-like interface and a high-quality anime illustration inside the generated image card.
+
+Canvas: Vertical smartphone screenshot, approximately 4:5 aspect ratio, white background, clean margins, rounded UI elements, no device frame.
+
+Top chat area: Place one large light-gray rounded message bubble near the top right. Inside it, show Japanese text in a clean sans-serif font: {argument name="user request text" default="画像を作成する 私があなたを今までどう扱ってきたか、画像にして"}. Make the first phrase blue and bold, and the remaining text black. Below the bubble, aligned left, add one status line in gray reading {argument name="status text" default="Worked for 1m 37s ›"}.
+
+Generated image card: Below the status line, place one large rounded-rectangle image card with very rounded corners. The card contains a warm cinematic anime-style scene set in a cozy developer studio at dusk. Inside the card, depict exactly 2 main characters: 1 young Japanese man with tousled dark hair, round glasses, and a dark hoodie, leaning over a desk with a pen in hand; and 1 small glowing holographic AI girl with pale blond hair, a transparent white hoodie, and round futuristic headphones, smiling and pointing at an open notebook. The mood should feel affectionate, collaborative, and magical.
+
+Illustration details inside the card: The room has a sunset city skyline through a large window, warm desk-lamp lighting, shelves with books, pinned diagrams and notes on the wall, and soft bokeh lights. On the desk, include exactly 1 open laptop with a subtle circular AI-like logo, exactly 2 external computer monitors on the left showing code and a landscape image, exactly 1 open notebook filled with sketches and formulas, exactly 1 graphics-card-like device with blue indicator lights, exactly 1 small orange cat peeking from the lower-left edge, exactly 1 white rabbit plush or figurine on the right, exactly 2 small potted plants, and scattered papers, cables, pens, and technical drawings. Add a delicate golden glow and small floating interface lines around the holographic girl.
+
+Overlay UI on image card: Add exactly 2 overlay controls on top of the image card: 1 dark translucent pill-shaped button at bottom left with white Japanese text {argument name="edit button text" default="編集する"}, and 1 circular dark translucent share button at bottom right containing a white upward arrow share icon.
+
+Visual style: Crisp high-resolution screenshot, realistic app UI combined with detailed cinematic anime art, warm amber and violet lighting, soft depth of field, strong contrast between the white app background and the dark cozy illustration. Keep all text sharp and legible.
+
+Constraints: Do not add extra cards, extra chat bubbles, watermarks, logos, or captions. Preserve the exact count of UI elements and main objects listed above.
+```
+
+**来源：** [@omoikane tech](https://x.com/omoikanetech123/status/2075410760306729248) | 2026-07-10
+
+---
+

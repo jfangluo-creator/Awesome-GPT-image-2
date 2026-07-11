@@ -9397,3 +9397,399 @@ Create a cinematic cyberpunk key visual for a social media banner or concept-art
 
 ---
 
+### 🏷️ 例 3658：空灵星光精灵油画
+
+![空灵星光精灵油画](../../images/%E7%A9%BA%E7%81%B5%E6%98%9F%E5%85%89%E7%B2%BE%E7%81%B5%E6%B2%B9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+由 {argument name="material" default="星光与柔和粉色花瓣"} 交织而成的空灵半透明精灵，在阳光明媚的禅意花园中伴随着飘落的樱花起舞。印象派油画，鲜艳的柔和色调，闪烁的光点，营造出 {argument name="mood" default="重生与宁静喜悦"} 的氛围。
+
+[English]
+Ethereal translucent spirit woven from {argument name="material" default="starlight and soft pink petals"}, dancing amidst falling cherry blossoms in a sunny Zen garden. Impressionist oil painting, vibrant pastel hues, shimmering light particles, atmosphere of {argument name="mood" default="rebirth and serene joy"}.
+```
+
+**来源：** [@Zubnet](https://x.com/Zubnet/status/2075680374206648830) | 2026-07-10
+
+---
+
+### 🏷️ 例 3670：GPT-5.6 日本发布会 Slides
+
+![GPT-5.6 日本发布会 Slides](../../images/GPT-5.6%20%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E4%BC%9A%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="product name" default="GPT-5.6"} 创建一张简洁的日本产品发布会演示 Slides，采用具有未来感的 AI/模型家族视觉系统。
+
+画布：16:9 宽屏 Slides，白色背景，留白充足，采用海军蓝与浅蓝色的极简企业科技风格。使用清晰的矢量图形、微妙的虚线轨道线，不使用照片纹理。
+
+布局：左侧为排版区域；右侧为包含 3 个模型圆圈的连接轨道图。保持构图通透，大部分内容位于中上部，右下角标注页码。
+
+文本内容：主标题使用超大号加粗海军蓝日文文本：“{argument name="headline text" default="GPT-5.6、ついに登場"}”。下方为较小的加粗黑色日文副标题：“{argument name="subtitle text" default="答えるAIから、仕事を完成させるAIへ"}”。在副标题左下方，添加一个小型圆角矩形日期徽章，带有细蓝色边框和蓝色文字：“{argument name="date text" default="2026.07"}”。右下角页码：“01”。
+
+图表细节：展示 3 个相互连接的圆形模型节点，从左至右由大到小排列：1) 靠近中右侧的一个大型深海军蓝“Sol”圆圈，标签上方带有白色放射状圆点/星爆图标，周围环绕多条细同心轨道环、虚线弧线和小型蓝/青色节点；2) 其右侧是一个中等蓝色“Terra”圆圈，通过带有小型实心蓝色连接点的虚线相连，标签上方带有白色地球图标，周围环绕少量细轨道环；3) 最右侧是一个小型浅蓝色“Luna”圆圈，以同样方式连接，标签上方带有白色新月和星星图标，周围环绕细轨道环。
+
+视觉风格：标题和 Sol 节点使用深海军蓝，Terra 使用中钴蓝色，Luna 使用浅天蓝色，并点缀微小的青色圆点。字体应呈现现代日文无衬线演示文稿风格，标题加粗，标签简洁且具有几何感。轨道图应保持精准、平衡且具技术感，线条纤细，节点圆润。
+
+约束：仅使用 Sol、Terra 和 Luna 这三个可见的模型标签；包含且仅包含一个日期徽章和一个页码；不要添加额外的段落、Logo、水印、描述图表之外的图标或装饰性背景图案。
+
+[English]
+Goal: Create a clean Japanese product announcement presentation slide for {argument name="product name" default="GPT-5.6"}, with a futuristic AI/model-family visual system.
+
+Canvas: 16:9 widescreen slide, white background, ample negative space, minimalist corporate tech style in navy blue and light blue. Use crisp vector graphics, subtle dotted orbital lines, and no photo texture.
+
+Layout: Left side contains the typography block; right side contains a connected orbital diagram of exactly 3 model circles. Keep the composition airy, with most content in the upper and middle portions and a small page number at bottom right.
+
+Text content: Main headline in very large bold navy Japanese text: “{argument name="headline text" default="GPT-5.6、ついに登場"}”. Under it, smaller bold black Japanese subtitle: “{argument name="subtitle text" default="答えるAIから、仕事を完成させるAIへ"}”. Below the subtitle on the left, add one small rounded rectangle date badge with thin blue outline and blue text: “{argument name="date text" default="2026.07"}”. Bottom-right page number: “01”.
+
+Diagram details: Show exactly 3 connected circular model nodes, arranged horizontally from largest to smallest: 1) a large dark navy “Sol” circle near center-right with a white radial dot/starburst icon above the label “Sol”, surrounded by multiple thin concentric orbit rings, dotted arcs, and small blue/teal nodes; 2) a medium blue “Terra” circle to its right, connected by a dotted line with small solid blue connector dots, containing a white globe icon above the label “Terra”, also surrounded by a few thin orbital rings; 3) a small pale blue “Luna” circle further right, connected the same way, containing a white crescent moon and small star icon above the label “Luna”, with thin rings around it.
+
+Visual style: Use deep navy for the headline and Sol node, medium cobalt for Terra, pale sky blue for Luna, and tiny teal accent dots. Typography should look like a modern Japanese sans-serif presentation deck, bold for the headline, clean and geometric for labels. Keep the orbital diagram precise, balanced, and technical, with thin strokes and small circular nodes.
+
+Constraints: Use exactly the three visible model labels Sol, Terra, and Luna; include exactly one date badge and one page number; do not add extra paragraphs, logos, watermarks, icons outside the described diagram, or decorative background patterns.
+```
+
+**来源：** [@ちょこ雑](https://x.com/ChocottoZ63313/status/2075602675249692791) | 2026-07-10
+
+---
+
+### 🏷️ 例 3677：广州日落天际线
+
+![广州日落天际线](../../images/%E5%B9%BF%E5%B7%9E%E6%97%A5%E8%90%BD%E5%A4%A9%E9%99%85%E7%BA%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的 {argument name="city" default="中国广州"} 城市景观航拍照片，视角为黄金时刻的日落，通过高空无人机俯瞰珠江。构图需精确包含 6 个核心视觉元素：1) 远方朦胧处矗立在中心附近的广州塔，2) 左侧一座高大的深色玻璃办公大楼，低垂的太阳光穿过其高层建筑产生耀斑，3) 中下方一座白色的弧形屋顶体育场或会展中心，4) 横贯场景的珠江，水面呈现明亮的金色倒影，5) 右侧一座横跨珠江的大型拱形悬索桥，以及 6) 右下方前景中蜿蜒的城市高架公路和匝道，伴有小型车辆和车流光轨。周围环绕密集的现代摩天大楼、江畔绿植、多车道公路，以及逐渐融入朦胧感的温暖大气天际线。使用 {argument name="lighting" default="戏剧性的暖色日落逆光"}，橙色与金色的云层，玻璃建筑与水面的写实反射，电影级 HDR 细节，锐利的建筑写实感，16:9 广角构图，高分辨率，自然色彩分级，并在右下角添加一个写有“豆包AI生成”的小型中文水印。
+
+[English]
+Create an ultra-realistic aerial cityscape photograph of {argument name="city" default="Guangzhou, China"} at golden-hour sunset, viewed from a high drone perspective over the Pearl River. The composition shows exactly 6 major focal elements: 1) the Canton Tower standing near the center in the hazy distance, 2) a tall dark glass office tower on the left with the low sun flaring through its upper floors, 3) a white curved-roof stadium or convention center in the lower middle, 4) the Pearl River running horizontally through the scene with bright gold reflections, 5) a large arched suspension bridge on the right crossing the river, and 6) sweeping elevated highways and ramps curving through the lower-right foreground with small cars and light trails. Surround these with dense modern skyscrapers, riverside greenery, multilane roads, and a warm atmospheric skyline fading into haze. Use {argument name="lighting" default="dramatic warm sunset backlight"}, orange and gold clouds, realistic reflections on glass buildings and water, cinematic HDR detail, sharp architectural realism, wide-angle 16:9 framing, high resolution, natural color grading, and a small Chinese watermark reading “豆包AI生成” in the bottom-right corner.
+```
+
+**来源：** [@小龙先生](https://x.com/Dragonhau66/status/2075584928301936849) | 2026-07-10
+
+---
+
+### 🏷️ 例 3679：赫拉克勒斯大理石雕像
+
+![赫拉克勒斯大理石雕像](../../images/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF%E5%A4%A7%E7%90%86%E7%9F%B3%E9%9B%95%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个宏伟的博物馆级大理石雕像场景，主角是 {argument name="character name" default="赫拉克勒斯"}，这位希腊神话中的神力英雄，正英勇地站在昏暗古典画廊中雕刻精美的大理石底座上。中心人物是一位肌肉极其发达的成年男性，有着严肃的胡须面孔、卷曲的头发和深邃的肌肉线条，身披尼米亚狮皮作为兜帽和斗篷，狮头覆盖在他的头顶，狮爪垂在胸前。他右手将一根巨大的粗糙木棒高举过头顶，左手握着一张弯弓；身侧挂着箭袋。他穿着粗糙的褶皱缠腰布、凉鞋，并带有兽皮细节，一只脚踩在嶙峋的岩石上。画面两侧需包含 2 只伴随生物：左侧是一只坐姿威严、鬃毛浓密且神情警觉的狮子；右侧是一只盘绕的多头九头蛇，可见 5 个蛇头，张着嘴，身体覆盖鳞片，颈部相互缠绕。所有人物和底座均采用带有纹理的苍白大理石，呈现逼真的凿刻细节、裂纹、抛光高光和雕塑阴影。场景设定在一个光线昏暗的古老神庙或博物馆壁龛中，背景有 2 根高大的黑色大理石柱，带有华丽的柱头，黑色凹陷背景，微妙的头顶聚光灯，以及反光石地板。构图为居中的全身垂直图像，采用低角度的纪念碑式视角，对称且富有戏剧性，高对比度的明暗对照法照明，超细节的写实古典雕塑，无现代物品，无文字，无水印。
+
+[English]
+Create a grand museum-quality marble statue scene of {argument name="character name" default="Heracles"}, the divine strongman of Greek mythology, standing heroically on a carved marble pedestal in a dark classical gallery. The central figure is an extremely muscular adult male with a stern bearded face, curly hair, and deeply carved anatomy, wearing the Nemean lion skin as a hood and cloak with the lion head resting over his head and the paws draped across his chest. He raises a massive rugged wooden club high above his head in his right hand, while his left hand holds a curved bow; a quiver of arrows hangs at his side. He wears a rough draped loincloth, sandals, and animal-hide details, with one foot planted forward on jagged rock. Include exactly 2 companion creatures flanking him: on the left, a seated majestic lion with a thick mane and alert expression; on the right, a coiled multi-headed hydra with exactly 5 visible serpent heads, open mouths, scaled bodies, and intertwined necks. Use pale veined marble for all figures and the base, with realistic chisel detail, cracks, polished highlights, and sculptural shadows. The setting is a dimly lit ancient temple or museum alcove with exactly 2 tall black marble columns in the background, ornate capitals, a black recessed backdrop, subtle overhead spotlights, and a reflective stone floor. Compose as a centered full-body vertical image, low-angle monumental perspective, symmetrical and dramatic, high contrast chiaroscuro lighting, ultra-detailed photorealistic classical sculpture, no modern objects, no text, no watermark.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2075577153010405698) | 2026-07-10
+
+---
+
+### 🏷️ 例 3686：Yamaha 越野摩托车专辑封面
+
+![Yamaha 越野摩托车专辑封面](../../images/Yamaha%20%E8%B6%8A%E9%87%8E%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形嘻哈专辑封面，背景为鲜艳的芥末黄色，带有陈旧的复古印刷纹理、细微的颗粒感以及如同旧唱片封套般的褪色边缘。画面中心为一名骑着红、黑、白三色 Yamaha 越野摩托车的车手，正在画面下半部分进行急转弯，车身略微朝向观众，后轮向左下方飞溅起泥土。车手身穿全黑越野装备，佩戴黑色手套、黑色靴子，以及一个超现实的亮蓝色长鼻圆眼卡通面具，赋予画面一种类似迷因（meme）的诡异街头潮流感。排版要求：在车手上方放置 2 个主要标题文本元素：顶部居中放置较小的黑色哥特体文本 {argument name="artist name" default="toka"}，并在车手后方放置跨越几乎整个宽度的巨大黑色粗体压缩字样 {argument name="album title" default="YAMAHA"}。在右下角添加 1 个醒目的“PARENTAL ADVISORY EXPLICIT CONTENT”标签，采用小型黑黄贴纸风格。包含清晰的摩托车品牌细节：车身上需有 3 处 Yamaha 标志或标签，分别位于前车牌、前叉/侧面区域以及后摇臂附近。整体构图应呈现出粗犷的说唱混音带封面与越野动作摄影相结合的质感，高对比度，主体剪影清晰，背景简洁，不得包含额外角色、车辆或其他大型文字。
+
+[English]
+Create a square hip-hop album cover on a vivid mustard-yellow background with a worn vintage print texture, subtle grunge speckles, and distressed pale edges like an old record sleeve. Center the design around a motocross rider on a red, black, and white Yamaha dirt bike doing a hard turn in the lower half of the image, angled slightly toward the viewer, with dirt and mud spraying from the rear tire to the lower left. The rider wears all-black motocross gear, black gloves, black boots, and a surreal glossy blue mask with a long nose and round cartoonish eyes, giving the image a meme-like, uncanny streetwear energy. Typography: place exactly 2 main title text elements above the rider: small black gothic blackletter text reading {argument name="artist name" default="toka"} centered near the top, and huge bold black condensed block letters reading {argument name="album title" default="YAMAHA"} spanning nearly the full width behind the rider. Add exactly 1 explicit-content label in the bottom-right corner reading "PARENTAL ADVISORY EXPLICIT CONTENT" in a small black-and-yellow sticker style. Include visible motorcycle branding details: exactly 3 small Yamaha marks or labels on the bike, including one on the front number plate, one on the front fork/side area, and one near the rear swingarm. Composition should feel like a gritty rap mixtape cover combined with motocross action photography, high contrast, sharp subject cutout, minimal background, no extra characters, no extra vehicles, no additional large text.
+```
+
+**来源：** [@Tokabu](https://x.com/Tokabu777/status/2075559411741762008) | 2026-07-10
+
+---
+
+### 🏷️ 例 3688：超现实主义肖像：深红之手
+
+![超现实主义肖像：深红之手](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E8%82%96%E5%83%8F%EF%BC%9A%E6%B7%B1%E7%BA%A2%E4%B9%8B%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实超现实主义概念肖像，画面中心是一张完美无瑕的 {argument name="skin color" default="哑光瓷白色"} 女性面孔，双眼紧闭，嘴唇苍白，构图完全对称。多只生动的 {argument name="hand color" default="深红色"} 人手从头部后方及周围伸出，轻柔而坚定地覆盖在眼睛、前额、脸颊、下颌线和颈部，营造出被双手环绕的艺术错觉。双手呈现出超精细的皮肤纹理、逼真的指甲、柔和的皱纹以及栩栩如生的解剖结构。面部轮廓如雕塑般平滑，皮肤完美无瑕，表情极简，无可见毛发。柔和的漫射电影级摄影棚灯光，白色面孔与深红色双手形成强烈对比，微妙的环境阴影，高端编辑艺术摄影，单色灰色渐变背景，奢华画廊美学，超现实主义象征意义，超写实 3D 渲染，极致细节，超清晰对焦，完美对称，景深效果，体积光，Octane Render，Unreal Engine，8K，HDR，杰作，博物馆级当代超现实主义。
+
+[English]
+Ultra-realistic surreal conceptual portrait of a flawless {argument name="skin color" default="matte porcelain-white"} female face with closed eyes and pale white lips, centered in a perfectly symmetrical composition. Multiple vivid {argument name="hand color" default="crimson red"} human hands emerge from behind and around the head, gently yet firmly covering the eyes, forehead, cheeks, jawline, and neck, creating an artistic illusion of being surrounded by hands. The hands feature ultra-detailed skin texture, realistic fingernails, soft wrinkles, and lifelike anatomy. Smooth sculptural facial features with flawless skin, minimalistic expression, and no visible hair. Soft diffused cinematic studio lighting, high contrast between the white face and deep red hands, subtle ambient shadows, premium editorial fine art photography, monochromatic gray gradient background, luxury gallery aesthetic, surreal symbolism, hyper-realistic 3D rendering, extreme detail, ultra sharp focus, perfect symmetry, depth of field, volumetric lighting, Octane Render, Unreal Engine, 8K, HDR, masterpiece, museum-quality contemporary surrealism.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2075548997117432275) | 2026-07-10
+
+---
+
+### 🏷️ 例 3706：古代神殿内部联络表
+
+![古代神殿内部联络表](../../images/%E5%8F%A4%E4%BB%A3%E7%A5%9E%E6%AE%BF%E5%86%85%E9%83%A8%E8%81%94%E7%BB%9C%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为精确的建筑白模和场景布局，将环境进行纹理化和重新布光，使其呈现为电影级的 {argument name="visual style" default="古罗马神殿内部 / 奇幻中世纪大厅"}，同时保留主要的空间结构：高耸的立柱、中央墙面开口、楼梯/平台区域、侧边长凳区以及宽敞的室内空间比例。
+
+创建一张宽幅图像，排列为 2x2 的联络表，展示同一转换后环境的 4 个不同摄像机视角：1) 展示中央圆形火坑和餐桌的广角定场镜头，2) 朝向抬高的楼梯/平台区域的视角，3) 长桌和壁挂火炬的侧面特写视角，以及 4) 以立柱框住火坑和楼梯的戏剧性广角视角。
+
+转换细节：将 Blender 中平淡的粘土/灰色表面替换为老旧的石质地板、粗糙的灰泥墙、磨损的石柱、阶梯式石台以及深色木梁天花板。添加来自壁挂火炬、火盆和中央大型圆形火坑的温暖实用火光，并引入从顶部圆形天窗射入的冷蓝色日光。添加大气烟雾/薄雾，并营造橙色火焰与青蓝色天窗光线之间的强烈电影感对比。
+
+场景布置：包括一张带有长凳的长木餐桌、陶罐和餐具、壁挂火炬、圆盾或金属墙面装饰、小型火盆，以及在参考图楼梯/平台区域设置一个简单的抬高石祭坛/类似宝座的平台。构图需保持在参考几何结构的基础上，而非重新设计一个房间。
+
+风格约束：照片级 3D 渲染外观、戏剧性的体积光、高细节材质，无人物、无文字、无现代物品、无卡通风格、无水印。
+
+[English]
+Using REFERENCE_0 as the exact architectural blockout and scene layout, texture and relight the environment into a cinematic {argument name="visual style" default="ancient Roman temple interior / fantasy medieval hall"} while preserving the main spatial structure: tall columns, central wall opening, stairs/platform area, side bench zone, and large interior room proportions.
+
+Create a single wide image arranged as a 2x2 contact sheet with exactly 4 distinct camera views of the same transformed environment: 1) a wide establishing view showing the central circular fire pit and dining table, 2) a view toward the raised stair/platform area, 3) a closer side view of the long table and wall torches, and 4) a dramatic wide view with columns framing the fire pit and stairs.
+
+Transformation details: replace the plain clay/grey Blender surfaces with aged stone floors, rough plaster walls, worn stone columns, stepped stone platforms, and a dark wooden beam ceiling. Add warm practical fire lighting from wall-mounted torches, brazier bowls, and a large circular central fire pit, with cool blue daylight entering from an overhead round skylight. Add atmospheric smoke/haze and strong cinematic contrast between orange flames and teal-blue skylight.
+
+New set dressing: include a long wooden dining table with benches, clay jugs and tableware, wall-mounted torches, round shields or metal wall decor, small braziers, and a simple raised stone altar/throne-like platform where the reference stairs/platform area is. Keep the composition grounded in the reference geometry rather than inventing a different room.
+
+Style constraints: photorealistic 3D render look, dramatic volumetric lighting, high-detail materials, no people, no text, no modern objects, no cartoon style, no watermark.
+```
+
+**来源：** [@Forety](https://x.com/foretyyt/status/2075523016860016840) | 2026-07-10
+
+---
+
+### 🏷️ 例 3707：月兔药铺
+
+![月兔药铺](../../images/%E6%9C%88%E5%85%94%E8%8D%AF%E9%93%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅高度详尽的奇幻插画，主题为 {argument name="character name" default="月兔药铺"}，这是一个坐落在月球表面、由石拱门雕凿而成的温馨月球药铺。
+
+画布：横向 4:3 电影感构图，视角从药铺外略微向内，同时兼顾内外景观。左侧三分之二为温暖的药铺内部；右侧三分之一则通向星空下寒冷的月球地表。
+
+主体：一只写实风格的白兔药剂师，拥有柔软的皮毛、高耸的直立耳朵、黑色的眼睛和精致的爪子，正站在饱经风霜的木质柜台后。兔子身着层叠的淡青绿色与米色长袍，带有精致的花卉刺绣，宛如一位儒雅的东亚草药师。它正神情专注且平静地用雕花绿色陶瓷研钵研磨药材。
+
+场景与布局：药铺建在粗糙的灰色月球石拱门中，墙面有裂纹，配有陈旧的木架，拱形开口框住了月球表面。在兔子身后，墙上摆满了陈旧的架子，上面放着玻璃瓶、软木塞罐、小药瓶、书籍、草药和散发柔光的粉末。右侧展示一片布满陨石坑的月球平原，一条蜿蜒的折纸鹤小径延伸向远方。小径上方悬挂着一颗发光的完整地球，宛如蓝白色的月球装饰品，由带有珠子和流苏的链条悬挂。
+
+需包含的重复元素：精确展示 1 只白兔药剂师、1 个研钵和研杵、1 个悬挂的地球装饰品、1 个带有东亚书法字样的垂直店招、1 个柜台上的发光球形灯、1 个插有小白花的绿色花瓶、1 个小型玻璃药水罩，以及月球小径上的 8 只折纸鹤。包含精确 19 个带有清晰手写英文标签的显著罐子，标签文字为：“A Quiet Heart”、“Courage to Begin”、“Dreams That Bloom”、“Patience of the Moon”、“Words That Heal”、“A Path Unfolding”、“Kindness Returned”、“Joy in Little Things”、“Clarity of Spirit”、“Love That Stays”、“Starry Inspiration”、“Peace in Small Moments”、“Wisdom in Stillness”、“Good Fortune”、“Loss of Stars”、“Gentle Strength”、“Memories that Warm”、“For Always” 以及 “Hope”。
+
+风格：魔幻现实主义、故事书奇幻、超细节绘画写实风格、柔和的月光氛围，温暖的烛光室内与冷色调的银色月光形成对比。使用陈旧的青色、象牙白、灰石色、柔金色和月银色。材质需具有触感：尘封的玻璃、软木塞、旧纸标签、雕花陶瓷、刺绣织物、粗糙的月尘和风化的木材。
+
+光影：药水瓶和柜台灯发出的暖光照亮了兔子和货架；悬挂的地球和月球表面发出的冷蓝白色轮廓光照亮了右侧。添加细小的星星、柔和的光晕、尘埃微粒，营造宁静梦幻的氛围。
+
+约束：无现代物品，无人类，无卡通风格，无刺眼的霓虹色，无额外动物，无水印。保持构图宁静、复杂且迷人，并在指定位置确保标签文字清晰可读。
+
+[English]
+Goal: Create a highly detailed fantasy illustration of {argument name="character name" default="The Moon Rabbit's Apothecary"}, a cozy lunar medicine shop carved into a stone arch on the surface of the moon.
+
+Canvas: Horizontal 4:3 cinematic composition, viewed from slightly outside the shop looking inward and outward at the same time. The left two-thirds are a warm apothecary interior; the right third opens onto a cold moon landscape under a starry black sky.
+
+Main subject: A realistic white rabbit apothecary with soft fur, tall upright ears, black eyes, and delicate paws, standing behind a weathered wooden counter. The rabbit wears layered pale teal-green and cream robes with subtle floral embroidery, like a refined East Asian herbalist. It is grinding medicine in a carved green ceramic mortar with a pestle, calm and focused.
+
+Setting and layout: The shop is built into a rough gray stone moon-arch, with cracked plaster, aged wood shelves, and an arched opening framing the lunar surface. Behind the rabbit, fill the wall with old shelves of glass bottles, corked jars, tiny vials, books, herbs, and softly glowing powders. On the right, show a cratered moon plain with a winding path of folded paper cranes leading into the distance. Above the path hangs a glowing full Earth like a blue-white moon ornament, suspended from a chain with beads and a tassel.
+
+Visible repeated elements to include: Show exactly 1 white rabbit apothecary, 1 mortar and pestle, 1 hanging Earth ornament, 1 vertical shop sign with East Asian calligraphy, 1 luminous globe lamp on the counter, 1 green vase of small white flowers, 1 small glass terrarium-like potion dome, and 8 folded paper cranes on the moon path. Include exactly 19 prominent labeled jars or tags with readable hand-lettered English text: “A Quiet Heart,” “Courage to Begin,” “Dreams That Bloom,” “Patience of the Moon,” “Words That Heal,” “A Path Unfolding,” “Kindness Returned,” “Joy in Little Things,” “Clarity of Spirit,” “Love That Stays,” “Starry Inspiration,” “Peace in Small Moments,” “Wisdom in Stillness,” “Good Fortune,” “Loss of Stars,” “Gentle Strength,” “Memories that Warm,” “For Always,” and “Hope.”
+
+Style: Magical realism, storybook fantasy, ultra-detailed painterly realism, soft moonlit atmosphere, warm candlelit interior contrasted with cool silver lunar light outside. Use aged teal, ivory, gray stone, soft gold, and moon-silver colors. Materials should feel tactile: dusty glass, cork stoppers, old paper labels, carved ceramic, embroidered fabric, rough moon dust, and weathered wood.
+
+Lighting: Warm glows from potion bottles and the counter lamp illuminate the rabbit and shelves; cold blue-white rim light from the hanging Earth and moon surface lights the right side. Add tiny stars, gentle bloom, dust motes, and a quiet dreamy mood.
+
+Constraints: No modern objects, no humans, no cartoon style, no harsh neon colors, no extra animals, no watermark. Keep the composition serene, intricate, and enchanting, with readable labels where specified.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2075522747640205483) | 2026-07-10
+
+---
+
+### 🏷️ 例 3711：咖啡馆里的涂鸦球头外星人
+
+![咖啡馆里的涂鸦球头外星人](../../images/%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8C%E7%9A%84%E6%B6%82%E9%B8%A6%E7%90%83%E5%A4%B4%E5%A4%96%E6%98%9F%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图、照片级逼真的电影感肖像，主角是 {argument name="character name" default="VLNS"}。这是一个外星人，其真实的生物头部是一个巨大的光亮球形头盔状球体，而非人类面孔。球体头部超大、无缝且具有反射性，表面覆盖着生动的涂鸦风格抽象图形，颜色包括荧光绿、青色、橙色、紫色、蓝色、黄色、黑色和洋红色；球体两侧带有圆形耳盘模块，右下方有一个类似靶心的巨大圆形细节。角色坐在阳光明媚的城市露台上的户外木制咖啡桌旁，身穿一件溅满亮色油漆的黑色亮面皮夹克，配有蓬松的黑白毛领、带有彩色油漆痕迹的黑色手套、金属链条，以及一个带有醒目白色字母 C 的圆形吊坠。外星人的一只戴手套的手正伸向观众，指向金属托盘上透明玻璃杯里的冰镇桃橙色饮料，杯顶有奶油或泡沫及水果块，插着一根直立的黑色吸管。右侧前景增加一盆绿色小盆栽，背景为木制长椅和咖啡馆家具，呈现温暖的阳光、头部和夹克上强烈的自然反射、浅景深，以及背景中模糊的现代城市天际线建筑。保持角色特征一致：没有可见的人脸，除了球体上的图形标记外没有眼睛或嘴巴，球形头部即为生物头部。使用逼真的光影、高细节、鲜艳的色彩对比、9:16 智能手机构图、近距离坐姿视角，营造充满活力的街头时尚氛围。
+
+[English]
+Create a vertical photorealistic cinematic portrait of {argument name="character name" default="VLNS"}, an alien whose real biological head is a large glossy spherical helmet-like orb instead of a human face. The orb head is oversized, seamless, reflective, and covered in vivid graffiti-style abstract graphics in neon green, cyan, orange, purple, blue, yellow, black, and magenta, with circular ear-disc modules on both sides and a large circular target-like detail on the lower right side of the sphere. The character sits at an outdoor wooden café table on a sunny urban terrace, wearing a black shiny leather jacket splattered with bright paint, a fluffy black-and-white fur collar, black gloves with multicolor paint marks, metal chains, and a round pendant with a bold white letter C. The alien is reaching one gloved hand toward the viewer and pointing at a cold peach-orange drink in a clear glass on a metal saucer, topped with whipped cream or foam and fruit chunks, with one black straw standing upright. Add a small potted green plant in the right foreground, wooden benches and café furniture behind, warm sunlight, strong natural reflections on the head and jacket, shallow depth of field, and a modern city skyline with tall buildings blurred in the background. Keep the character identity consistent: no visible human face, no eyes or mouth except graphic markings on the sphere, the spherical head is the biological head. Use realistic lighting, high detail, vibrant color contrast, 9:16 smartphone composition, close-up seated perspective, energetic street-fashion mood.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2075519299960340602) | 2026-07-10
+
+---
+
+### 🏷️ 例 3713：吉萨金字塔上空的落日与大雁
+
+![吉萨金字塔上空的落日与大雁](../../images/%E5%90%89%E8%90%A8%E9%87%91%E5%AD%97%E5%A1%94%E4%B8%8A%E7%A9%BA%E7%9A%84%E8%90%BD%E6%97%A5%E4%B8%8E%E5%A4%A7%E9%9B%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感高分辨率的 {argument name="location" default="埃及沙漠中的吉萨金字塔群"} 航拍景观图，视角从岩石嶙峋的高处前景望向广袤的金色沙丘。画面中需准确呈现四座金字塔：一座巨大的中央大金字塔占据中景，右侧一座高大的深色金字塔，左侧远处一座较小的金字塔，以及地平线附近一座极小的金字塔。将低垂的太阳置于远左侧地平线附近，将温暖的橙色光芒投射在波纹状的沙漠小径、散落的废墟、小型石质建筑以及左下中景处的一小片棕榈绿洲上。画面上方超过一半的区域应为极具戏剧性的广阔天空，顶部呈现饱和的深钴蓝色，向地平线过渡为生动的粉色、紫色、橙色和金色，布满捕捉落日余晖的写意碎云。在金字塔上方高处添加正好十七只白色大雁，组成一个小型的 V 字形迁徙雁阵，呈现为背部和翅膀泛白的微小剪影。采用超精细的写实主义旅行海报美学，鲜艳的 HDR 色彩，大气霾感，清晰的石质金字塔纹理，宏大的比例，无人物，无文字，无水印，竖构图，4:5 比例，5K 画质。
+
+[English]
+Create a cinematic high-resolution aerial landscape of {argument name="location" default="the Giza pyramid complex in the Egyptian desert"} at sunset, viewed from a rocky elevated foreground looking out over vast golden sand dunes. Show exactly four pyramids: one enormous central Great Pyramid dominating the midground, one tall darker pyramid to its right, one smaller pyramid to the left in the distance, and one tiny far pyramid near the horizon. Place the low sun near the far-left horizon, casting long warm orange light across rippled desert paths, scattered ruins, small stone buildings, and a small palm grove oasis in the lower-left midground. Include a dramatic expansive sky filling over half the image, with saturated deep cobalt blue at the top blending into vivid pink, purple, orange, and gold near the horizon, full of painterly broken clouds catching sunset light. Add exactly seventeen white geese flying high above the pyramids in a small V-shaped migrating flock, visible as tiny silhouettes with pale backs and wings. Use ultra-detailed photorealistic fantasy travel-poster aesthetics, vibrant HDR colors, atmospheric haze, crisp pyramid stone texture, sweeping scale, no people, no text, no watermark, vertical composition, 4:5 aspect ratio, 5K quality.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2075514731595706471) | 2026-07-10
+
+---
+
+### 🏷️ 例 3723：奇幻凤凰山国
+
+![奇幻凤凰山国](../../images/%E5%A5%87%E5%B9%BB%E5%87%A4%E5%87%B0%E5%B1%B1%E5%9B%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽幅电影级奇幻风景画，采用明亮、绘本风格的吉卜力工作室（Studio Ghibli）艺术风格。展现一个魔法东亚山谷，背景是湛蓝的天空，点缀着柔和的桃白色云朵、阳光下的薄雾以及远处参差不齐的雪峰。在中景处，安置一个宁静的村庄，由红白相间的日式建筑和灰色瓦顶组成，中心附近有一座高耸的红色宝塔，周围环绕着金色的稻田、秋色的树木、溪流和小瀑布。一条清澈的绿松石色河流从远山流向画面前方，中心前景处有一座小石拱桥，桥上站着一个小女孩。在山谷上方，包含 3 只彩羽凤凰：1 只巨大的凤凰位于高空中心，双翼完全展开，拖着长长的尾羽；1 只较小的凤凰位于左上方；1 只模糊的小凤凰位于右上方。在右侧中远景处，展示一座漂浮的岩石岛屿，上方坐落着宏伟的红色层叠寺庙群，瀑布从岛屿倾泻而下，没入薄雾中。前景细节应充满奇幻感且丰富：左侧是茂密的开花绿灌木丛，一只大橙色狐狸坐在一块岩石上，旁边是一个微小的棕色生物；附近的小路上有 1 个男孩、1 只小灰狗和 1 只微小的彩色鸟。桥上正好有 1 个女孩。右侧小路上有 2 位人类旅人，一位是拿着手杖的高个子成年人，另一位是背着行囊的矮个子长者。他们附近有 4 只奇幻动物：1 只长着鹿角的大型山羊状野兽、1 只小白兔、1 只小型鹿状动物，以及 1 只巨大的奶油色螺旋壳蜗牛，壳上有蓝色和金色的漩涡纹路。在最右侧添加一棵枝叶繁茂的大树，叶片呈现黄色、绿色和紫色。运用发光的水彩和水粉质感，细节精致而柔和，带有温暖的金色高光、大气深度和奇幻感。无文字，无 Logo，无水印。场景应呈现为 {argument name="fantasy kingdom style" default="宁静的日式魔法山国"}，搭配 {argument name="sky mood" default="清澈的蓝色晨空与发光的云朵"}、{argument name="main creature" default="彩虹凤凰"}、{argument name="village architecture" default="红白相间的日式寺庙村落"} 以及 {argument name="overall art style" default="绘本风奇幻动漫概念艺术"}。
+
+[English]
+Create a wide cinematic fantasy landscape in a bright, painterly Studio Ghibli-inspired storybook style. Show a magical East Asian mountain valley under a vivid blue sky with soft peach-white clouds, sunlit mist, and distant jagged snowy peaks. In the middle ground, place a peaceful village of red-and-white Japanese-style buildings with gray tiled roofs, including one tall red pagoda near the center, surrounded by golden rice fields, autumn-colored trees, streams, and small waterfalls. A clear turquoise river runs from the distant mountains toward the viewer, crossed by a small arched stone bridge in the center foreground with one small girl standing on it. Above the valley, include exactly 3 rainbow-feathered phoenix birds: 1 large phoenix centered high in the sky with wings fully spread and long trailing tail feathers, 1 smaller phoenix at upper left, and 1 faint smaller phoenix at upper right. On the right middle distance, show a floating rocky island with a grand red tiered temple complex perched on top, waterfalls pouring down from the island into the mist. Foreground details should feel whimsical and richly populated: on the left, dense flowering green bushes and a large orange fox sitting on a rock beside a tiny brown creature; nearby on the path are exactly 1 boy, 1 small gray dog, and 1 tiny colorful bird. On the bridge is exactly 1 girl. On the right path are exactly 2 human travelers, one taller adult with a walking staff and one shorter elderly-looking companion carrying a pack. Near them are exactly 4 fantasy animals: 1 large antlered goat-like beast, 1 small white rabbit, 1 small deer-like animal, and 1 enormous cream-colored spiral-shelled snail with blue and gold swirls. Add a large leafy tree on the far right with yellow, green, and violet foliage. Use luminous watercolor-and-gouache textures, intricate but soft detail, warm golden highlights, atmospheric depth, and a sense of wonder. No text, no logo, no watermark. The setting should feel like {argument name="fantasy kingdom style" default="a serene Japanese-inspired magical mountain kingdom"}, with {argument name="sky mood" default="clear blue morning sky with glowing clouds"}, {argument name="main creature" default="rainbow phoenix birds"}, {argument name="village architecture" default="red-and-white Japanese temple village"}, and {argument name="overall art style" default="painterly whimsical anime fantasy concept art"}.
+```
+
+**来源：** [@Ryan H.](https://x.com/AIBVOTE/status/2075476076114157695) | 2026-07-10
+
+---
+
+### 🏷️ 例 3727：海神波塞冬战士
+
+![海神波塞冬战士](../../images/%E6%B5%B7%E7%A5%9E%E6%B3%A2%E5%A1%9E%E5%86%AC%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有戏剧张力的竖版奇幻动漫插画，主角为 {argument name="deity character" default="海神波塞冬"}，形象设定为一位年轻英俊的海神战士，伫立在发光的海水风暴中。他拥有 {argument name="hair color" default="鲜艳的青蓝色"} 被风吹动的波浪卷发，锐利的蓝色双眸，神情冷静严肃，头戴精致的小型金冠或角状头饰。他身穿发光的晶莹水色铠甲，饰有金色花丝镶边，配有层叠的肩甲、护腕，以及一件如同海沫般飘逸的半透明蓝白披风。他前侧的手紧握着一把高大的抛光金色三叉戟，三叉戟拥有三根长矛尖，每一根都呈现出优雅的火焰状刀刃，并散发着神圣的光芒。在他身后，一条由半透明蓝色波浪构成的巨大蛇形水龙盘旋在背景上方，拥有棱角分明的龙头、冰晶般的鳍以及飞溅的晶莹鳞片。构图充满动感与英雄气概，采用低角度四分之三侧视图，三叉戟沿左侧垂直升起，角色略微偏右居中，翻涌的波浪在他周围形成一个圆形漩涡。背景使用深邃的夜海色，搭配青色生物发光高光、白色浪花飞溅、金色轮廓光、闪烁的水滴，高对比度，超精细数字绘画，精致的抽卡游戏主视觉风格，电影级布光，锐利的线条，璀璨的魔法特效，无文字，无 Logo，无水印。
+
+[English]
+Create a dramatic vertical fantasy anime illustration of {argument name="deity character" default="Poseidon, god of the sea"} as a young, handsome sea god warrior standing in a storm of glowing ocean water. He has {argument name="hair color" default="vivid turquoise-blue"} windswept wavy hair, sharp blue eyes, a calm serious expression, and a small ornate gold crown or horn-like diadem. He wears luminous crystalline aqua armor with gold filigree trim, layered shoulder plates, bracers, and a flowing translucent white-and-blue cape that looks like sea foam. In his foreground hand he grips a tall polished golden trident with exactly three long spear prongs, each prong shaped like elegant flame-like blades and glowing with divine light. Behind him, a massive serpentine water dragon made of translucent blue waves coils across the upper background, with an angular dragon head, icy fins, and splashing crystalline scales. The composition is dynamic and heroic, low-angle three-quarter view, the trident rising vertically along the left side, the character centered slightly right, swirling waves forming a circular vortex around him. Use deep navy night-ocean background, cyan bioluminescent highlights, white foam splashes, gold rim lighting, sparkling water droplets, high contrast, ultra-detailed digital painting, polished gacha-game key visual style, cinematic lighting, sharp linework, radiant magical effects, no text, no logo, no watermark.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2075472496439222518) | 2026-07-10
+
+---
+
+### 🏷️ 例 3740：霓虹雨中的赛博朋克动漫女主角
+
+![霓虹雨中的赛博朋克动漫女主角](../../images/%E9%9C%93%E8%99%B9%E9%9B%A8%E4%B8%AD%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%B8%BB%E8%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖构图的全身动漫赛博朋克角色插画。主体为 {argument name="character name" default="一位年轻的未来派女主角"}，在雨夜湿滑的城市街道上自信地向观众走来，画面居中，采用略微仰视的电影感视角。她面容精致，有着紫色的双眼，长长的 {argument name="hair color" default="深紫色"} 秀发扎成高马尾，发丝飘逸，带有发光的紫色发饰，面带淡淡的微笑。她的装束是利落的科技风战斗服：黑色短款上衣，胸前带有明亮的紫色发光 Y 型标志，黑色高腰短裤，白色与半透明紫色拼接的未来感长外套，黑色露指手套，黑色大腿绑带，浅色过膝袜，以及带有发光紫色 Y 型灯饰的厚底黑色赛博靴。添加一条鲜艳的橙红色围巾或丝带在身后飘动，以形成色彩对比。环境是一座密集的霓虹大都市，背景有高耸的玻璃摩天大楼、全息 UI 广告牌、漂浮的透明数据面板、紫色六边形图形、发光的蓝紫色标牌、路灯、栏杆以及远处类似樱花树的紫色灯光树。湿润的地面必须清晰地反射出她脚下紫、蓝、粉色的霓虹灯光。使用强烈的轮廓光、发光的体积雨雾、锐利细腻的动漫渲染、光泽材质、复杂的赛博朋克服装细节、饱和的紫蓝色调、电影级景深以及高质感的主视觉风格。在整个过程中保持角色设计一致：不要改变脸部、眼睛、发型、轮廓、服装结构或发光的 Y 型图案。无文字，无水印，无额外角色。
+
+[English]
+Create a full-body anime cyberpunk character illustration in a vertical 9:16 composition. The subject is {argument name="character name" default="a young futuristic heroine"}, walking confidently toward the viewer on a rain-slick city street at night, centered in frame with a low slightly upward cinematic perspective. She has a delicate face, violet eyes, long flowing {argument name="hair color" default="deep purple"} hair tied in a high ponytail with loose strands and glowing purple hair accents, and a calm faint smile. Her outfit is a sleek techwear battle-fashion ensemble: cropped black top with a bright glowing purple Y-shaped chest emblem, short black high-waisted shorts, white and translucent purple futuristic long coat with glossy panels, black fingerless gloves, black thigh straps, pale thigh-high stockings, and chunky black cyber boots with glowing purple Y-shaped lights. Add one vivid orange-red scarf or ribbon streaming behind her for contrast. The environment is a dense neon megacity with tall glass skyscrapers, holographic UI billboards, floating transparent data panels, purple hexagonal graphics, glowing blue and violet signage, street lamps, railings, and distant cherry-blossom-like purple-lit trees. The wet pavement must create strong mirror reflections of purple, blue, and pink neon lights beneath her feet. Use dramatic rim lighting, luminous volumetric rain haze, sharp detailed anime rendering, glossy materials, intricate cyberpunk costume details, saturated violet-blue color grading, cinematic depth of field, and a high-polish key visual style. Keep the same character design throughout: do not change the face, eyes, hairstyle, silhouette, outfit structure, or glowing Y motifs. No text, no watermark, no extra characters.
+```
+
+**来源：** [@essan | AIクリエイター](https://x.com/essan_x/status/2075452011970211877) | 2026-07-10
+
+---
+
+### 🏷️ 例 3745：日式 BI 战略 Slides
+
+![日式 BI 战略 Slides](../../images/%E6%97%A5%E5%BC%8F%20BI%20%E6%88%98%E7%95%A5%20Slides.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张精美的日式企业战略 Slides，利用保险安全网络中积累的数据和 BI 工具，阐述项目的目的与未来愿景。
+
+画布：16:9 横向演示 Slides，白色背景，海军蓝与浅蓝色企业配色，细蓝色边框，整洁的网格对齐，密集但易读的日式商务 Slides 排版。
+
+标题：左上角大号海军蓝标题：「1.1. 本事业の目的と将来像」。
+
+顶部概览框：在标题正下方，添加一个带有细海军蓝边框的白色矩形框。左侧包含一个深海军蓝胶囊标签「概要」。右侧填写：「本事业では、保安ネットに蓄積されたデータをBIツール等で統計分析し、産業保安・製品安全行政における許認可・規制の確実な履行および蓄積データ毀損予防を実現するための調査を行う。」
+
+整体信息栏：在概览下方，添加一个淡蓝色横向长条。左侧为一个深蓝色箭头标签「全体メッセージ」。主要信息文字为加粗海军蓝：「保安ネット×BIツール活用により、現状4課題は予兆検知と2大自動化の3将来像へ集約される。」
+
+主要布局：三列布局，从左至右标题分别为：「目的」、「現状課題」、「将来像」。使用两条由虚线分隔的水平行。使用箭头从当前问题指向未来愿景卡片。
+
+左列，包含 2 张深海军蓝目的卡片：
+1. 卡片标签「目的1」，位于白色小圆角胶囊内，正文：「産業保安・製品安全行政における許認可・規制の確実な履行」。
+2. 卡片标签「目的2」，位于白色小圆角胶囊内，正文：「蓄積データの毀損の恐れに係る予防」。
+
+中列，包含 4 个当前问题项，分为两个淡灰色圆角容器，每项带有一个海军蓝圆形数字徽章：
+1. 「画一的な規制の実施」，附带较小的解释：「認定事業者制度を除き、事業者の保安レベルに関わらず、一律の個別規制・許可届出・検査義務を課している。」
+2. 「外部機関による統計分析業務の実施」，附带较小的解释：「関係課室の多くで委託事業者が事故情報の統計分析を実施しており、報告頻度は年1回に限定されている。」
+3. 「データ集計に誤りが発生」，附带较小的解释：「第208回通常国会の高圧ガス保安法改正法案審議資料に、集計上の誤りが発生した。」
+4. 「情報連携漏れのリスクがある」，附带较小的解释：「組織間連携をメール等で運用しているため、連携漏れや転記ミスによってDB不備が発生する恐れがある。」
+
+右列，包含 3 张未来愿景卡片，带有蓝色边框和简单的线条图标：
+1. 顶部大卡片，由第一组问题通过粗海军蓝箭头连接，图标为带有上升柱状图和警告三角形的放大镜，文字：「事故・法令違反の予兆検知の実現」。
+2. 中间卡片，由第二组问题通过分支箭头连接，图标为带有上传或传输箭头的电脑显示器/文档，文字：「データ入力の自動化」。
+3. 底部卡片，由同一分支箭头连接，图标为带有齿轮的数据库圆柱体，文字：「データ集計の自動化」。
+
+底部信息条：全宽白色长条，带有细蓝色边框。左侧为一个圆形目标图标。加粗海军蓝文字：「保安ネットの蓄積データをBIツールで可視化・分析することで、規制運用の高度化とデータ品質向上を同時に実現」。
+
+视觉风格：日式咨询公司 Slides 美学，清晰的矢量图标，统一的海军蓝 #003b8f / 深蓝 #001f5b 点缀，淡蓝色高亮条，圆角卡片，细微的灰色分隔线，无照片，除轻微的卡片深度外无阴影。保持所有文字清晰易读，严格遵守 2 张目的卡片、4 个问题项和 3 张未来愿景卡片的数量要求。使用 {argument name="project data source" default="保安ネット"}, {argument name="analysis tool" default="BIツール"}, {argument name="slide title" default="1.1. 本事業の目的と将来像"}, {argument name="overall message" default="保安ネット×BIツール活用により、現状4課題は予兆検知と2大自動化の3将来像へ集約される。"}, 以及 {argument name="bottom message" default="保安ネットの蓄積データをBIツールで可視化・分析することで、規制運用の高度化とデータ品質向上を同時に実現"}。
+
+[English]
+Goal: Create a polished Japanese corporate strategy slide about the purpose and future vision of a project using accumulated data from an insurance-safety network and BI tools.
+
+Canvas: 16:9 horizontal presentation slide, white background, navy and light-blue corporate palette, thin blue outlines, clean grid alignment, dense but readable Japanese business-slide typography.
+
+Title: Large navy heading at top left: 「1.1. 本事業の目的と将来像」.
+
+Top overview box: Directly under the title, add a white rectangular box with a thin navy border. On the left, include a dark navy pill label 「概要」. To the right, write: 「本事業では、保安ネットに蓄積されたデータをBIツール等で統計分析し、産業保安・製品安全行政における許認可・規制の確実な履行および蓄積データ毀損予防を実現するための調査を行う。」
+
+Overall message band: Below the overview, add a pale blue horizontal band. On the left, a dark-blue arrow label 「全体メッセージ」. Main message text in bold navy: 「保安ネット×BIツール活用により、現状4課題は予兆検知と2大自動化の3将来像へ集約される。」
+
+Main layout: Three columns with headings from left to right: 「目的」, 「現状課題」, 「将来像」. Use two horizontal rows separated by a dotted divider. Use arrows from current issues toward future vision cards.
+
+Left column, exactly 2 dark navy purpose cards:
+1. Card label 「目的1」 in a small white rounded pill, main text: 「産業保安・製品安全行政における許認可・規制の確実な履行」.
+2. Card label 「目的2」 in a small white rounded pill, main text: 「蓄積データの毀損の恐れに係る予防」.
+
+Center column, exactly 4 current issue items grouped into two pale-gray rounded containers, each item with a navy circular number badge:
+1. 「画一的な規制の実施」 with smaller explanation 「認定事業者制度を除き、事業者の保安レベルに関わらず、一律の個別規制・許可届出・検査義務を課している。」
+2. 「外部機関による統計分析業務の実施」 with smaller explanation 「関係課室の多くで委託事業者が事故情報の統計分析を実施しており、報告頻度は年1回に限定されている。」
+3. 「データ集計に誤りが発生」 with smaller explanation 「第208回通常国会の高圧ガス保安法改正法案審議資料に、集計上の誤りが発生した。」
+4. 「情報連携漏れのリスクがある」 with smaller explanation 「組織間連携をメール等で運用しているため、連携漏れや転記ミスによってDB不備が発生する恐れがある。」
+
+Right column, exactly 3 future vision cards with blue outline and simple line icons:
+1. Top large card connected from the first issue group by a thick navy arrow, icon of a magnifying glass with rising bar chart and warning triangle, text: 「事故・法令違反の予兆検知の実現」.
+2. Middle card connected from the second issue group by a branching arrow, icon of a computer monitor/document with upload or transfer arrows, text: 「データ入力の自動化」.
+3. Bottom card connected by the same branching arrow, icon of a database cylinder with gear, text: 「データ集計の自動化」.
+
+Bottom message strip: Full-width white strip with thin blue border. On the left, a circular target icon. Text in bold navy: 「保安ネットの蓄積データをBIツールで可視化・分析することで、規制運用の高度化とデータ品質向上を同時に実現」.
+
+Visual style: Japanese consulting deck aesthetic, crisp vector icons, consistent navy #003b8f / deep blue #001f5b accents, pale blue highlight bands, rounded cards, subtle gray dividers, no photos, no shadows beyond very light card depth. Keep all text sharp and legible, with the exact count of 2 purpose cards, 4 issue items, and 3 future vision cards. Use {argument name="project data source" default="保安ネット"}, {argument name="analysis tool" default="BIツール"}, {argument name="slide title" default="1.1. 本事業の目的と将来像"}, {argument name="overall message" default="保安ネット×BIツール活用により、現状4課題は予兆検知と2大自動化の3将来像へ集約される。"}, and {argument name="bottom message" default="保安ネットの蓄積データをBIツールで可視化・分析することで、規制運用の高度化とデータ品質向上を同時に実現"}.
+```
+
+**来源：** [@うちた](https://x.com/uchita_success/status/2075427884794278218) | 2026-07-10
+
+---
+
+### 🏷️ 例 3758：运动风女性休闲夏季穿搭
+
+![运动风女性休闲夏季穿搭](../../images/%E8%BF%90%E5%8A%A8%E9%A3%8E%E5%A5%B3%E6%80%A7%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E7%A9%BF%E6%90%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+穿搭：一套运动风女性休闲夏季穿搭，包含一件 {argument name="top" default="修身白色短袖纯棉平纹针织 baby tee"}，具有简洁的圆领设计、领口处精致的撞色滚边、胸前微小的通用 Logo 细节、高级面料质感、逼真的服装结构、整洁的缝线、自然的接缝张力、真实的纯棉针织重量感、细微的褶皱、精致的边缘处理、可见的接缝以及细腻的服装真实感；搭配一条 {argument name="skirt" default="高腰浅长春花蓝伞状迷你裙"}，采用轻质棉混纺斜纹面料，带有柔和的褶皱腰头、利落的百褶感廓形、逼真的垂坠感、真实的褶皱、整洁的下摆处理、真实的织物重量感、高品质的材质触感以及做工精良的服装细节；配以带有黑色横条纹细节和小型通用文字印花的白色中筒袜，以及 {argument name="shoes" default="厚底白灰配色运动鞋"}，具有网眼拼接、仿皮覆面、精细缝线、分层橡胶鞋底结构以及逼真的鞋履材质；添加一些白色系、银色系或极简运动风女性配饰的随机组合，使其与整体穿搭自然融合；拒绝演出服质感，拒绝廉价感。
+
+[English]
+Outfit: a sporty feminine casual summer outfit featuring a {argument name="top" default="fitted white short-sleeve cotton jersey baby tee"} with a clean crew neckline, subtle contrast piping around the collar, a tiny generalized logo-like chest detail, premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable cotton jersey weight, subtle wrinkles, refined edge finishing, visible seams, and detailed garment realism; paired with a {argument name="skirt" default="high-waisted light periwinkle-blue flared mini skirt"} in lightweight cotton-blend twill with a softly gathered waistband, crisp pleat-like volume, realistic drape, real folds, clean hem finishing, believable fabric weight, high-quality material feel, and well-made clothing details; finished with white crew socks featuring black horizontal stripe details and a small generalized text-style print, plus {argument name="shoes" default="chunky white-and-gray athletic sneakers"} with mesh panels, leather-like overlays, detailed stitching, layered rubber sole construction, and realistic footwear materials; add a random mix of delicate clean casual accessories in white-tone, silver-tone, or minimal sporty feminine style that naturally match the outfit; not costume-like, not cheap-looking.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075410008284832040) | 2026-07-10
+
+---
+

@@ -4653,3 +4653,165 @@ Constraints: No people, no logos, no watermark, no realistic clutter, no readabl
 
 ---
 
+### 🧸 例 3693：玩具设计师收藏级人偶工作室
+
+![玩具设计师收藏级人偶工作室](../../images/%E7%8E%A9%E5%85%B7%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%94%B6%E8%97%8F%E7%BA%A7%E4%BA%BA%E5%81%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个写实的精品玩具设计工作室场景，其中 {argument name="character name" default="VANI"}，一位年轻的女性玩具设计师，正在定制一个以她自己为原型的收藏级可动人偶。
+
+画布：垂直 3:4 编辑类产品摄影构图，平视视角，浅景深，清脆的摄影棚灯光，现代黑白风格设计师工作区。
+
+主体：一位留着 {argument name="hair color" default="长波浪深棕色头发"} 的年轻女性，位于木质工作台左侧中央，身穿高领白色衬衫，袖口带有纽扣。她坐在黑色网眼办公椅上，神情专注地低头看着，一手拿着一个小人偶头部，另一手用精细的画笔进行绘制。微缩头部应与她的面容和发型相似。
+
+环境：精品玩具设计工作室，左侧有白色置物架，后墙上有一个大型设计项目。置物架上需展示 8 个背景收藏级人偶：上层架子 5 个站立人偶，中层架子 2 个武装人偶，下层架子 1 个微型 Q 版人偶。后墙上包含钉在墙上的角色概念图，展示服装的正反面视图、头部研究、姿势草图和夹克设计。添加白色活页夹、台灯和一些虚化的原型人偶以增加深度。
+
+桌面布局及物品计数：在桌面上摆放 32 个清晰可见的玩具设计散件：1 个绿色背包、1 个黑色小包、1 个棕色小袋、1 个白色衬衫躯干部件、1 条带腿部的橄榄色裤子、1 件蓝色夹克、1 件棕色夹克、1 条带腿部的黑色裤子、3 个已涂装的人类头部、3 个未涂装的光头头部、小袋附近的 2 只微型散手、裤子前方的 4 只微型散手、1 把长步枪、1 把紧凑型步枪、4 把小手枪和 6 个黑色小配件。此外，在底部角落处放置两张部分可见的打印角色参考图。
+
+包装：在桌子右侧，放置一个精品盒装可动人偶，配有透明展示窗，包装为白色并带有金色饰边。盒内包含身穿白色衬衫、黑色裤子和棕色鞋子的完整人偶，以及可见的肖像/头部配件。包装盒上的印刷文字应在顶部显示“ARTIST SERIES”，名称上方显示“ARTIST SERIES”，大引号内显示“{argument name="figure name" default="VANI"}”，下方显示“COLLECTIBLE FIGURE”。在包装盒右上角附近添加一个小型极简三角形工作室 Logo。
+
+视觉风格：照片级真实感，高端收藏级玩具摄影，真实的皮肤纹理，柔和的阴影，符合 1/12 可动人偶配件的精确比例，干净的奢华产品设计美学，采用白色、木色、黑色、橄榄绿、棕色和柔和蓝色的中性色调。
+
+约束：保持所有文字清晰可辨，避免额外的 Logo 或水印，不要添加超出计数范围的额外桌面配件，保持设计师专注而宁静的表情，并确保盒装人偶与设计师形象明确匹配。
+
+[English]
+Goal: Create a realistic premium toy design studio scene where {argument name="character name" default="VANI"}, a young woman toy designer, is customizing a collectible action figure based on herself.
+
+Canvas: Vertical 3:4 editorial product-photography composition, eye-level camera, shallow depth of field, crisp studio lighting, modern white-and-black designer workspace.
+
+Main subject: A young woman with {argument name="hair color" default="long wavy dark brown hair"}, center-left at a wooden worktable, wearing a high-neck white blouse with buttoned cuffs. She sits in a black mesh office chair, looking down with calm concentration while holding a small action-figure head in one hand and painting it with a fine detail brush in the other. The miniature head should resemble her face and hairstyle.
+
+Environment: Premium toy design studio with white shelving on the left and a large design board on the back wall. On the shelves, show exactly 8 background collectible figures: 5 standing figures on the upper shelf, 2 armed figures on the middle shelf, and 1 tiny chibi-style figure on the lower shelf. On the rear wall, include pinned character concept sheets showing front/back outfit views, head studies, pose sketches, and a jacket design. Add white binders, a desk lamp, and a few blurred prototype figures for depth.
+
+Table layout and counted objects: Arrange exactly 32 visible loose toy-design components on the table: 1 green backpack, 1 small black bag, 1 brown pouch, 1 white shirt torso piece, 1 pair of olive pants with attached legs, 1 blue jacket, 1 brown jacket, 1 pair of black pants with attached legs, 3 separate painted human heads, 3 separate unpainted bald heads, 2 tiny loose hands near the pouch, 4 tiny loose hands in front of the pants, 1 long rifle, 1 compact rifle, 4 small pistols, and 6 small black accessory parts. Also include two printed character reference sheets partially visible at the bottom corners.
+
+Packaging: On the right side of the table, place a premium boxed action figure with a clear display window and white packaging trimmed in gold. The box contains the full figure wearing a white blouse, black pants, and brown shoes, plus visible portrait/head accessories inside. Printed text on the box should read “ARTIST SERIES” at the top, “ARTIST SERIES” above the name, “{argument name="figure name" default="VANI"}” in large quotation marks, and “COLLECTIBLE FIGURE” below. Add a small minimalist triangular studio logo near the top-right of the box.
+
+Visual style: Photorealistic, high-end collectible toy photography, realistic skin texture, soft shadows, accurate scale for 1/12 action-figure accessories, clean luxury product design aesthetic, neutral palette of whites, wood, black, olive green, brown, and muted blue.
+
+Constraints: Keep all text legible, avoid extra logos or watermarks, do not add extra table accessories beyond the counted objects, keep the designer’s expression focused and serene, and make the boxed figure clearly match the designer.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2075536824597111197) | 2026-07-10
+
+---
+
+### 🧸 例 3694：Master Sculptor 微缩模型工作室
+
+![Master Sculptor 微缩模型工作室](../../images/Master%20Sculptor%20%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张逼真的竖版照片，画面中一位年轻的 {argument name="artist identity" default="南亚男性艺术家"} 坐在温馨舒适的收藏级人偶工作室的现代书桌前，正在专注地手绘一个以他自己为原型的微缩人偶。他身穿干净的白色库尔塔（kurta）风格衬衫和配套的浅色长裤，留着浓密的黑色波浪卷发，肤色呈中等棕色，留着修剪整齐的短胡须，侧脸表情专注而平静。他的右手握着一支精细的黑色画笔，正在触碰微缩人偶的面部或头发，左手则在桌面上稳住一个透明的亚克力展示盒。微缩人偶直立在透明矩形展示盒上方，穿着同样的白色服装，营造出“雕塑大师绘制自己的微缩模型”的效果。在透明盒子的正面添加一个雕刻的深色铭牌，上面用优雅的草书或衬线字体写着 {argument name="nameplate text" default="Name Mevoros"}。桌面上包含 4 个清晰可见的桌面物品：带有微缩模型的透明展示盒、其后方的一个黑色键盘、显示器底座附近的两个微型玩具人偶，以及左侧的一台大显示器。显示器上显示着深色的数字艺术或 3D 建模界面，白色画布上有一个浅色的全身角色参考图，侧面带有 UI 面板，暗示着专业的设计工作。背景中展示了白色浮动搁板，上面整齐排列着 9 个清晰可见的收藏级艺术玩具和人偶作为装饰，搁板上方还有一张带框海报和一个黄色的雕塑面具或头盔。艺术家身后放置着一台带有柔和紫/橙色内部 RGB 灯光的黑色 PC 机箱，右侧是一把黑色办公椅。灯光采用搁板灯发出的温暖琥珀色光与显示器发出的柔和光线混合，浅景深，高端单反相机质感，自然的皮肤纹理，细致的织物褶皱，逼真的手部细节，准确的比例，电影级构图，3:4 竖版画幅，主体位于右侧，显示器位于左侧。避免出现多余人物，避免手指畸形，避免杂乱无章的视觉干扰，除自然的类 Apple 显示器轮廓外避免出现其他 Logo，并保持场景为照片级写实风格，而非插画风格。
+
+[English]
+Create a realistic vertical photo of a young {argument name="artist identity" default="South Asian male artist"} seated at a modern desk in a warm, cozy collectible-figure studio, carefully hand-painting a miniature figurine modeled after himself. He wears a clean white kurta-style shirt and matching light trousers, has thick black wavy hair, medium brown skin, a short trimmed beard, and a focused calm expression in side profile. His right hand holds a fine black paintbrush touching the tiny figure’s face or hair, while his left hand steadies a clear acrylic display box on the desk. The miniature figure stands upright on top of the transparent rectangular display case and wears the same white outfit, creating a “master sculptor painting his own miniature” effect. Add an engraved dark nameplate on the front of the clear box reading {argument name="nameplate text" default="Name Mevoros"} in elegant cursive or serif lettering. The desk contains exactly 4 visible desktop items: the clear display box with the miniature, a black keyboard behind it, two tiny toy figures near the monitor base, and a large monitor at left. On the monitor, show a dark digital art or 3D modeling interface with a pale full-body character reference on a white canvas and UI panels along the side, suggesting professional design work. In the background, show white floating shelves with exactly 9 visible collectible art toys and figurines arranged as display decor, plus one framed poster and one yellow sculptural mask or helmet on the upper shelf. Include a black PC tower with soft purple/orange internal RGB glow behind the artist and a black office chair at right. Lighting should be warm amber from shelf lights mixed with soft monitor glow, shallow depth of field, high-end DSLR realism, natural skin texture, detailed fabric folds, realistic hands, accurate proportions, cinematic composition, 3:4 vertical framing, subject on the right and monitor on the left. Avoid extra people, avoid distorted fingers, avoid unreadable clutter, avoid logos except the small Apple-like monitor silhouette if natural, and keep the scene photorealistic rather than illustration.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2075536805064232984) | 2026-07-10
+
+---
+
+### 🧸 例 3695：微缩模型绘画工作室
+
+![微缩模型绘画工作室](../../images/%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级真实感的竖构图图像，展示一个微缩模型绘画工作室场景。场景中，{argument name="character name" default="一位年轻的女艺术家"} 坐在阳光明媚的大窗户旁一张温暖的木质书桌前。她留着栗棕色的长波浪卷发，肤色中等偏白，五官精致，身穿干练的白色衬衫和黑色长裤。画面呈现她的左侧侧脸，她神情专注平静，手持一支极细的画笔，正在为人偶绘制面部细节，该人偶是一个与她本人外貌相似的全身微缩模型。人偶直立在一个透明亚克力展示底座上，底座前方的小标签上写着 {argument name="base label" default="MINIATURE SELF"}；人偶身穿白色上衣和深色长裤。桌面应细节丰富，清晰可见 5 组绘画工具和用品：1) 前景处水平放置的几支精细画笔，2) 右侧杯中直立的画笔，3) 键盘附近的小型颜料瓶和滴管瓶，4) 带有混合颜色的白色调色板，以及 5) 一盏为微缩模型投射出暖光的深色台灯。背景中，在桌上或桌边包含 3 个收藏级玩具人偶：1) 一个棕褐色的熊形艺术玩具，2) 一个黑色的熊形艺术玩具，以及 3) 一个带有 X 型眼睛的灰色小人偶。右侧放置一台大型桌面显示器，屏幕上显示着一个数字参考项目，上面有该女子身穿白衬衫的多张肖像和全身照片，显示器下方配有键盘。在她身后，添加柔焦的木质书架，架上摆放着书籍、装裱好的艺术品和相机。使用浅景深、电影感的午后暖光、柔和的背景虚化、真实的皮肤纹理、自然的姿态、高端杂志摄影风格、85mm 镜头质感、温馨的创意工作室氛围、精准的微缩模型绘画细节，不包含任何奇幻元素，除底座标签外不出现任何额外文字。
+
+[English]
+Create a photorealistic vertical image of a miniature painter studio scene featuring {argument name="character name" default="a young woman artist"} seated at a warm wooden desk beside a large sunlit window. She has long wavy chestnut-brown hair, light-to-medium skin, delicate features, and wears a crisp white button-up blouse with black trousers. Show her in left-side profile, calmly focused, holding a very fine paintbrush as she paints the face of a tiny full-body figurine that resembles herself. The figurine stands upright on a clear acrylic display base with a small front label reading {argument name="base label" default="MINIATURE SELF"}; it wears a white top and dark pants. The desktop should be richly detailed with exactly 5 visible painting tools and supply groups: 1) several fine brushes laid horizontally in the foreground, 2) a cup of upright paintbrushes on the right, 3) small paint bottles and dropper bottles near the keyboard, 4) a white paint palette with mixed colors, and 5) a dark desk lamp casting warm light over the miniature. In the background, include exactly 3 collectible toy figures on or near the desk: 1) a tan bear-like art toy, 2) a black bear-like art toy, and 3) a gray small character figure with X eyes. Place a large desktop monitor on the right showing a digital reference board with multiple portrait and full-body photos of the same woman in a white blouse, plus a keyboard beneath it. Behind her, add softly blurred wooden shelves with books, framed artwork, and cameras. Use shallow depth of field, cinematic warm afternoon light, soft bokeh, realistic skin texture, natural posture, high-end editorial photography, 85mm lens look, cozy creative studio atmosphere, precise miniature-painting detail, no fantasy elements, no extra text except the label on the base.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2075536783396503671) | 2026-07-10
+
+---
+
+### 🧸 例 3696：未来感 3D 打印实验室肖像
+
+![未来感 3D 打印实验室肖像](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%203D%20%E6%89%93%E5%8D%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级写实肖像，主角为 {argument name="character name" default="一位年轻女性 3D 艺术家"}，场景设定在未来感十足的创意 3D 打印实验室。采用中景特写，展示她坐在发光的工作台前，身穿深色拉链夹克，佩戴海军蓝宽发带，留着棕色长发，佩戴精致首饰，神情专注地向下注视。她正在使用 2 件手工工具仔细处理刚打印出的灰色树脂人偶：一只手拿着蓝色手柄的斜口钳，另一只手拿着精细的金属镊子或雕刻针。桌上的模型是一个全身女性雕像，腿部和背部带有明显的网格支撑结构。在右侧，放置一台高端黑色树脂 3D 打印机，配有垂直龙门架和打印头，正在打印 1 个悬挂的半身像：一个带有长发的灰色女性头部，通过细支撑柱倒挂在打印平台上。在发光的白色工作面上，放置 1 个与该女性形象相同的全彩微缩模型，位于左下角前景的矩形底座上。背景中展示 2 台大型电脑显示器，屏幕上显示着蓝灰色 3D 雕刻软件：一台显示发光的蓝色女性头部模型和界面面板，另一台显示浅色半身像模型。环境采用时尚的创客工作室风格，配有货架、虚化的工具以及青色和洋红色的霓虹 LED 灯光，具备浅景深效果、逼真的皮肤纹理、光泽的树脂表面、精细的机械打印机部件，营造出高级科幻工作室的氛围。构图应强调左侧艺术家的面部和双手、右侧的 3D 打印机以及底部的发光打印平台。避免出现文字、Logo、水印、额外人物、额外打印机或额外微缩模型。
+
+[English]
+Create a photorealistic cinematic portrait of {argument name="character name" default="a young female 3D artist"} working in a futuristic creative 3D printing lab. Show her in a medium close-up at a glowing workbench, wearing a dark zip-up jacket and a wide navy headband, with long brown hair, subtle jewelry, and a focused downward expression. She is carefully post-processing a freshly printed gray resin figurine using exactly 2 hand tools: a small blue-handled flush cutter in one hand and a fine metal tweezer or sculpting pick in the other. The figurine on the table is a full-body female statue with visible lattice support structures around the legs and back. To the right, place a high-end black resin 3D printer with a vertical gantry and print head actively printing exactly 1 suspended bust: a gray female head with long hair, hanging upside down from the build plate with thin support columns. On the glowing white work surface, include exactly 1 small finished full-color miniature of the same woman, seated on a rectangular base near the lower left foreground. In the background, show exactly 2 large computer monitors displaying blue-gray 3D sculpting software: one monitor with a glowing blue female head model and interface panels, and one monitor with a pale bust model. Use a sleek maker-studio environment with shelves, blurred tools, and neon cyan and magenta LED lighting, shallow depth of field, realistic skin texture, glossy resin surfaces, detailed mechanical printer parts, and a premium sci-fi workshop mood. Composition should emphasize the artist’s face and hands on the left, the 3D printer on the right, and the glowing build plate across the bottom. Avoid text, logos, watermarks, extra people, extra printers, or extra miniatures.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2075536763024822640) | 2026-07-10
+
+---
+
+### 🧸 例 3697：微缩模型画家工作室肖像
+
+![微缩模型画家工作室肖像](../../images/%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E7%94%BB%E5%AE%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实电影质感的肖像，主角是 {argument name="character name" default="一位年轻的女性微缩模型艺术家"}，她正在温馨的高级微缩模型工作室中工作。她坐在阳光明媚的窗边木桌旁，呈四分之三侧面，正用细头画笔小心翼翼地绘制一个她自己的小型写实人偶。请保留人物特征，如同基于人脸参考：{argument name="hair color and style" default="侧分长波浪栗棕色头发"}，柔和的自然五官，平静专注的表情，温暖的肤色，以及精致简约的妆容。她穿着一件干练的 {argument name="outfit" default="白色衬衫搭配黑色长裤"}。微缩模型立在一个透明亚克力展示底座上，底座上清晰地标注着“MINIATURE SELF”，模型穿着与艺术家相匹配的白色上衣和深色长裤。工作台包含 14 个可见的创意道具：1 台显示着包含 6 张同一女性肖像/全身参考图的项目（board）的电脑显示器、1 个键盘、1 盏开启的黑色关节台灯、1 个装满画笔的透明杯子、1 个带有颜料槽的白色调色盘、4 瓶颜料/罐子、3 支散落在桌上的细节画笔，以及显示器附近背景中的 2 个设计师乙烯基玩具人偶。背景中增加一个温暖的木质书架，上面摆放着书籍、装裱的素描、一台相机和一个小型收藏人偶，背景进行柔焦处理。光线应为黄金时段的窗光与台灯光混合，浅景深，真实的皮肤质感，亚克力底座的亮面反射，细节丰富的艺术用品，高端创意工作室氛围，35mm 杂志摄影风格，高分辨率。避免除底座标签外的额外文字，避免手部畸形，避免微缩模型变形，避免出现除列出道具之外的杂乱物品。
+
+[English]
+Create a photorealistic cinematic portrait of {argument name="character name" default="a young woman miniature artist"} working in a cozy premium miniature painter studio. She sits at a wooden desk beside a sunlit window, in three-quarter side profile, carefully painting a small realistic figurine of herself with a fine detail brush. Preserve the person’s identity as if based on a face reference: {argument name="hair color and style" default="long wavy chestnut-brown hair parted to the side"}, soft natural features, calm focused expression, warm skin tone, and elegant minimal makeup. She wears a crisp {argument name="outfit" default="white button-up blouse with black trousers"}. The miniature stands on a clear acrylic display base labeled exactly “MINIATURE SELF,” wearing a white top and dark pants to match the artist. The workspace includes exactly 14 visible creative props: 1 computer monitor showing a character reference board with 6 portrait/body reference images of the same woman, 1 keyboard, 1 black articulated desk lamp switched on, 1 clear cup of paintbrushes, 1 white paint palette with color wells, 4 paint bottles/jars, 3 loose detail brushes lying on the desk, and 2 designer vinyl toy figures in the background near the monitor. Add a warm wooden bookshelf in the background with books, framed sketches, a camera, and a small collectible figure, softly blurred. Lighting should be golden-hour window light mixed with the desk lamp glow, shallow depth of field, realistic skin texture, glossy acrylic base reflections, detailed art supplies, premium creative-studio atmosphere, 35mm editorial photography, high resolution. Avoid extra text except the base label, avoid distorted hands, avoid malformed miniatures, avoid clutter beyond the listed props.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2075536745580658786) | 2026-07-10
+
+---
+
+### 🧸 例 3747：将白模转换为写实风格的用餐照片
+
+![将白模转换为写实风格的用餐照片](../../images/%E5%B0%86%E7%99%BD%E6%A8%A1%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%94%A8%E9%A4%90%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像作为构图和姿势指南，将 3D 白模转换为一幅温馨、写实的用餐场景：一位 {argument name="character name" default="年轻东亚男性"} 以同样的坐姿坐在桌前，使用餐具用餐。将抽象的立方体桌子和人体模型替换为写实的家具和真人主体，并保留参考图中侧向的用餐姿势和桌面布局。
+
+场景：夜晚温馨的居家餐厅，采用温暖的电影质感灯光、浅景深以及舒适自然的色调。在人物之外，明确添加 7 个主要的场景元素：1 张木质餐桌、1 把木椅、1 个盛有均衡膳食的白色餐盘、1 个透明水杯、桌上 1 个点亮的小型蜡烛灯笼、1 个插有绿植茎的玻璃花瓶，以及背景中 1 盏温暖的台灯。包含简单的背景家具，如木质餐边柜和搁板，并进行柔和的虚化处理。
+
+风格：写实生活摄影、中近景构图、温暖的琥珀色室内光、柔和的阴影、自然的皮肤纹理、高端美食摄影氛围。让主体穿着 {argument name="outfit" default="纯黑色毛衣"}。餐点应呈现为 {argument name="meal type" default="白盘中的米饭、蔬菜和肉类"}。避免卡通、CGI、标签、文字覆盖或可见的 UI 元素；仅输出最终的写实图像。
+
+[English]
+Using the provided reference image as the composition and pose guide, transform the white 3D blockout into a warm, photorealistic dining scene: a {argument name="character name" default="young East Asian man"} sits at the table in the same seated position, eating dinner with utensils. Replace the abstract cube table and mannequin with realistic furniture and a real human subject, keeping the side-facing dining posture and tabletop placement from the reference.
+
+Scene: an intimate home dining room at night with warm cinematic lighting, shallow depth of field, and a cozy natural color palette. Add exactly 7 main visible scene elements beyond the man: 1 wooden dining table, 1 wooden chair, 1 white dinner plate with a balanced meal, 1 clear drinking glass, 1 small lit candle lantern on the table, 1 glass vase with green plant stems, and 1 warm table lamp in the background. Include simple background furniture such as a wooden sideboard and shelves, softly blurred.
+
+Style: realistic lifestyle photography, medium-close framing, warm amber indoor light, soft shadows, natural skin texture, high-end editorial food photography mood. Make the subject wear a {argument name="outfit" default="plain black sweater"}. The meal should look like {argument name="meal type" default="rice, vegetables, and meat on a white plate"}. Avoid cartoon, CGI, labels, text overlays, or visible UI; produce only the final realistic image.
+```
+
+**来源：** [@神奇小喷菇AIGC](https://x.com/xpg0970/status/2075424918766866465) | 2026-07-10
+
+---
+
+### 🧸 例 3755：可爱积木月亮 Q 版立体模型
+
+![可爱积木月亮 Q 版立体模型](../../images/%E5%8F%AF%E7%88%B1%E7%A7%AF%E6%9C%A8%E6%9C%88%E4%BA%AE%20Q%20%E7%89%88%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个充满奇趣的日式可爱风格玩具积木立体模型：一个名为 {argument name="character name" default="Nozomu"} 的 Q 版女孩正微笑着坐在由互锁塑料积木拼搭而成的奶油金配色大新月下端。她留着光泽感的 {argument name="hair color" default="black"} 短波波头，配有柔和的刘海，有着闪亮的大棕色眼睛、红润的双颊、小巧的微笑，佩戴着银色星星吊坠耳环，身穿精致的白色荷叶边连衣裙，裙子带有蕾丝般的褶皱、露肩袖、层叠的裙摆细节以及装饰着小花的白色鞋子。场景是一个由玩具积木搭建的梦幻夜空育儿花园：背景中包含 1 个巨大的新月拱门，1 个 Q 版人偶角色，左前方有一个奶油色牌子，上面写着 {argument name="sign text" default="のぞむ"} 以及较小的罗马字母 {argument name="romanized sign text" default="NOZOMU"}，右前方有 1 个发光的白色灯笼，左右边缘各放置 2 簇盆栽花卉，背景中悬挂着 7 个清晰可见的星星挂饰。添加半透明的马卡龙色花朵饰钉、珍珠般的泡泡、小云朵、微小的星星装饰、架子、拱门以及蓝色瓷砖积木地板。背景应呈现深蓝色与马卡龙色调的柔和虚化效果，并带有温暖的仙女灯光斑，营造出神奇的天体睡前氛围。渲染为一张高度精细的收藏级积木场景微距产品摄影图，具有光泽的塑料质感、柔和的影棚灯光、浅景深，女孩和新月处于清晰对焦状态，方形构图，无水印，除牌子外无额外文字。
+
+[English]
+Create a whimsical toy-brick diorama in a cute Japanese kawaii style: a single chibi girl named {argument name="character name" default="Nozomu"} sits smiling on the lower tip of a large cream-and-gold crescent moon made entirely from interlocking plastic building blocks. She has glossy {argument name="hair color" default="black"} short bob hair with soft bangs, large sparkling brown eyes, rosy cheeks, a small open smile, silver star dangling earrings, and a delicate white frilly dress with lace-like ruffles, off-shoulder sleeves, layered skirt details, and white shoes decorated with tiny flowers. The scene is a dreamy night-sky nursery garden built from toy bricks: use exactly 1 large crescent moon arch behind her, 1 chibi doll character, 1 cream plaque sign in the front left reading {argument name="sign text" default="のぞむ"} with smaller roman letters {argument name="romanized sign text" default="NOZOMU"}, 1 glowing white lantern at the front right, 2 potted flower clusters on the left and right edges, and 7 visible hanging star ornaments suspended from strings in the background. Add translucent pastel flower studs, pearl-like bubbles, small clouds, tiny star accents, shelves, arches, and a blue tiled brick floor. The background should be softly blurred in deep blue and pastel tones with warm fairy-light bokeh, giving a magical celestial bedtime atmosphere. Render as a highly detailed macro product photograph of a collectible block-built scene, glossy plastic texture, soft studio lighting, shallow depth of field, crisp focus on the girl and crescent moon, square composition, no watermark, no extra text beyond the plaque.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2075418230609617285) | 2026-07-10
+
+---
+

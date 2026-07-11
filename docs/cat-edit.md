@@ -2628,3 +2628,21 @@ Using the provided reference image, isolate and regenerate only the central park
 
 ---
 
+### 🔧 例 3681：Canal Street 从白天到夜晚的场景转换
+
+![Canal Street 从白天到夜晚的场景转换](../../images/Canal%20Street%20%E4%BB%8E%E7%99%BD%E5%A4%A9%E5%88%B0%E5%A4%9C%E6%99%9A%E7%9A%84%E5%9C%BA%E6%99%AF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为基础图像，将场景从白天转换为 {argument name="time of day" default="night"}，同时保留相同的摄像机角度、取景、街道布局、运河、建筑物、自行车、船只、电车以及整体逼真的摄影细节。将明亮的蓝色日间天空替换为带有微弱星光和淡淡云层的深蓝色夜空。添加温暖的人造照明：发光的街灯、点亮的咖啡馆和公寓窗户、电车内部灯光和前大灯，以及在运河水面上闪烁的柔和金色倒影。自然地调暗外墙、路面、树木和运河，保持足够的细节可见，并呈现电影级的高动态范围照明和干净逼真的镜头感。请勿更改构图或添加/移除主要物体。
+
+[English]
+Using REFERENCE_0 as the base image, transform the scene from daytime into {argument name="time of day" default="night"} while preserving the same camera angle, framing, street layout, canal, buildings, bicycle, boats, tram, and overall realistic photographic detail. Replace the bright blue daytime sky with a deep dark blue night sky with faint stars and subtle clouds. Add warm artificial illumination: glowing streetlamps, lit café and apartment windows, the tram interior lights and headlight, and soft golden reflections shimmering across the canal water. Darken the façades, pavement, trees, and canal naturally, keeping enough detail visible, with cinematic high dynamic range lighting and a clean realistic lens look. Do not change the composition or add/remove major objects.
+```
+
+**来源：** [@サーナ](https://x.com/Sally__37/status/2075574938405343723) | 2026-07-10
+
+---
+

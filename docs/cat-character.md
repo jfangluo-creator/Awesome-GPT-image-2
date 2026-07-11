@@ -5156,3 +5156,111 @@ Style: High-detail anime character blended with classical Chinese shanshui paint
 
 ---
 
+### 🧍 例 3691：未来医疗实验室场景
+
+![未来医疗实验室场景](../../images/%E6%9C%AA%E6%9D%A5%E5%8C%BB%E7%96%97%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+以参考图中的成年女性作为人物一致性参考，保留她精致清冷的五官、深邃眼神、纤细脸型和长黑发特征。将人物置于一间充满未来感的诡异医疗实验室中：青蓝色冷光、白色软包墙面、多个悬挂的黑色显示器、检查床、金属器械架、输液瓶、滚轮座椅、电线与工业金属设备，空间干净却带有轻微失控感。
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2075538827167572075) | 2026-07-10
+
+---
+
+### 🧍 例 3725：都市浪漫电影剧照
+
+![都市浪漫电影剧照](../../images/%E9%83%BD%E5%B8%82%E6%B5%AA%E6%BC%AB%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张都市浪漫剧的电影剧照。画面中心，参考图中留着一头乌黑亮丽直发的女性在 {argument name="location" default="拥挤的城市街道"} 上显得格外突出。她身穿一件简约的 {argument name="clothing" default="米白色针织毛衣"}，回眸看向镜头，表情柔和、深情且充满探寻。周围的人群（无论是前景还是背景）都带有强烈的动态模糊，在凸显她清晰对焦的同时，营造出强烈的动感。长焦镜头效果，浅景深，柔和的自然日光，低对比度，以及包含青色、灰色和柔和白色的 {argument name="color palette" default="莫兰迪低饱和色调"}。氛围忧郁、怀旧且浪漫，宛如电影海报场景。无文字，无字母，无标志。
+
+[English]
+A cinematic still from an urban romance drama. In the center of the frame, the woman from the reference image with long, glossy straight black hair stands out clearly on a {argument name="location" default="crowded city street"}. She wears a simple {argument name="clothing" default="off-white knit sweater"} and looks back toward the camera with a soft, emotional, and searching expression. The people around her, both foreground and background, are heavily motion-blurred, creating a strong sense of movement while she remains in sharp focus. Telephoto lens effect, shallow depth of field, soft natural daylight, low contrast, and a {argument name="color palette" default="muted Morandi color palette"} with teal, gray, and soft white tones. The atmosphere is melancholic, nostalgic, and romantic, like a cinematic movie poster scene. No text, no letters, no logo.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2075474665829711919) | 2026-07-10
+
+---
+
+### 🧍 例 3741：LiSa 滑水角色设定表
+
+![LiSa 滑水角色设定表](../../images/LiSa%20%E6%BB%91%E6%B0%B4%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精美的运动角色参考表 / 杂志风格信息图，主角为名为 {argument name="character name" default="LiSa"} 的女性水上运动角色，主题围绕滑水运动与海洋自由。
+
+画布：1:1 正方形角色设定表布局，采用干净的白色与浅冰蓝色背景，配有细蓝色边框、微妙的纸张纹理、淡雅的波浪图形，以及专业的游戏角色档案美学。使用蓝色笔触作为点缀，并采用中英文双语标题。
+
+主布局：左侧三分之二区域展示一张大型全身时尚摄影风格的角色渲染图，角色斜靠在潮湿的混凝土防波堤上，赤脚站立，单腿交叉，手持或靠着一块垂直的白蓝相间滑水板，板上带有黑色固定器。她拥有冷白肤色、明亮的黑眼睛、长直黑发、苗条的运动型身材，身穿 {argument name="swimsuit color and style" default="白蓝相间深 V 两件式运动泳衣"}。在身后添加海浪喷雾和电影感的阳光反射。
+
+左上角身份面板：包含一个深蓝色标题栏，写着“WATER SPORTS”。在蓝色笔触上方放置大号白色标题 “{argument name="character name" default="LiSa"}”。下方添加中文口号：“乘风破浪，自由无畏。” 在两列中包含六项档案事实：姓名: LiSa, 年龄: 24, 身高: 168cm, 体重: 50kg, 职业: 滑水运动员 / 自由教练, 国籍: 中国.
+
+左侧信息块：在身份面板下方添加三个文本/属性部分。第 1 部分标题：“角色简介”，用一段简短的中文描述她是一位热爱海洋、充满活力的滑水运动员，在波浪中成长，享受与自然的每一次对话。第 2 部分标题：“技能特长”，包含四个项目符号：滑水 / 冲浪 / 尾波滑行，体能训练 / 核心力量，运动摄影 / 短视频创作，以及户外救援或水上运动安全技能。旁边放置一个蓝色五边形雷达图，带有五个标注轴：力量, 速度, 耐力, 技巧, 平衡。第 3 部分标题：“性格特点”，包含四个水平属性条，标注为：热情 90%, 坚韧 85%, 冒险精神 95%, 亲和力 80%.
+
+右侧栏顶部面板：标题 “三视图 / TURNAROUND”。在白色背景上展示三个全身正交角色视图：正面、侧面和背面。相同的泳衣、身体比例、长黑发和赤脚姿势必须保持一致。
+
+右侧栏中间面板：标题 “表情 / EXPRESSIONS”。以 3x2 网格展示六个特写肖像表情缩略图。用中文标注为：自信, 微笑, 专注, 沉思, 兴奋, 坚定。保持相同的面部特征、黑眼睛、长直黑发和可见的泳衣肩带。
+
+左下角装备面板：标题 “装备 / EQUIPMENT”。以 3x2 网格展示六张装备卡片，每张卡片配有干净的产品抠图和中文标签：滑水板, 救生衣, 手套, 胶靴, 头盔, 绳索。装备应符合蓝白黑配色主题。
+
+底部中间动作面板：标题 “滑水姿势 / ACTION POSES”。以 3x2 网格展示六个小型动作缩略图，展示角色在泡沫波浪上、手持拖绳在船后滑水的姿态。标注为：站立, 腾空, 转体, 滑行, 回旋, 冲刺.
+
+右下角角色信息面板：标题 “角色信息 / CHARACTER INFO”。包含以下中文详情：ID: WS-LS-24-07, 生日: 2000.07.24, 星座: 狮子座, 血型: O型, 语言: 中文 / 英语, 爱好: 滑水、健身、摄影、旅行, 喜欢的颜色: 蓝色、白色, 座右铭: 乘风破浪，自由无畏。在右下角添加一个淡波浪图标水印和一个醒目的蓝色斜体标志 “RIDE WAVE”。
+
+视觉风格：超写实时尚/运动摄影与简洁的 UI 信息图设计相结合，产品表清晰度高，带有光泽的蓝色点缀，细节丰富，所有面板中的角色形象保持一致，柔和的阴影，高端运动品牌质感。
+
+约束条件：使用 3 个三视图，6 个表情，6 个装备项目，6 个动作姿势缩略图，4 个性格属性条，以及 5 个雷达图轴。保持所有文字清晰易读，避免多余字符，避免杂乱，除设计的 “RIDE WAVE” 标志外，不得有其他水印。
+
+[English]
+Goal: Create a polished sports character reference sheet / magazine-style infographic for a female water-sports character named {argument name="character name" default="LiSa"}, themed around wakeboarding and freedom on the ocean.
+
+Canvas: Square 1:1 character-sheet layout, clean white and pale ice-blue background with thin blue panel borders, subtle paper texture, faint wave graphics, and a professional game-character profile aesthetic. Use blue brush-stroke accents and bilingual Chinese/English section headers.
+
+Main layout: The left two-thirds is dominated by a large full-body glamour photo-style render of the character leaning against a wet concrete seawall, standing barefoot with one leg crossed, holding or resting beside a vertical white-and-blue wakeboard with black bindings. She has cold fair skin, bright black eyes, long straight black hair, a slim athletic build, and wears a {argument name="swimsuit color and style" default="white-and-blue deep V two-piece sporty swimsuit"}. Add ocean spray and cinematic sunlight reflections behind her.
+
+Top-left identity panel: Include a dark-blue header ribbon reading “WATER SPORTS.” Place a large white title “{argument name="character name" default="LiSa"}” over a blue paint-brush stroke. Under it, add the slogan in Chinese: “乘风破浪，自由无畏。” Include six profile facts in two columns: 姓名: LiSa, 年龄: 24, 身高: 168cm, 体重: 50kg, 职业: 滑水运动员 / 自由教练, 国籍: 中国.
+
+Left information blocks: Add exactly three text/stat sections beneath the identity panel. Section 1 header: “角色简介” with a short Chinese paragraph describing her as a spirited ocean-loving wakeboarding athlete who grows through waves and enjoys every dialogue with nature. Section 2 header: “技能特长” with exactly four bullet points: 滑水 / 冲浪 / 尾波滑行, 体能训练 / 核心力量, 运动摄影 / 短视频创作, and outdoor rescue or water-sports safety skills. Beside it place a blue pentagon radar chart with five labeled axes: 力量, 速度, 耐力, 技巧, 平衡. Section 3 header: “性格特点” with exactly four horizontal stat bars labeled 热情 90%, 坚韧 85%, 冒险精神 95%, 亲和力 80%.
+
+Right column top panel: Header “三视图 / TURNAROUND.” Show exactly three full-body orthographic character views on a white background: front view, side view, and back view. The same swimsuit, body proportions, long black hair, and barefoot pose must be consistent.
+
+Right column middle panel: Header “表情 / EXPRESSIONS.” Show exactly six close-up portrait expression thumbnails in a 3 by 2 grid. Label them in Chinese as: 自信, 微笑, 专注, 沉思, 兴奋, 坚定. Keep the same face, black eyes, long straight black hair, and swimsuit straps visible.
+
+Bottom-left equipment panel: Header “装备 / EQUIPMENT.” Show exactly six equipment cards in a 3 by 2 grid, each with a clean product cutout and Chinese label: 滑水板, 救生衣, 手套, 胶靴, 头盔, 绳索. The equipment should match the blue-white-black color theme.
+
+Bottom-middle action panel: Header “滑水姿势 / ACTION POSES.” Show exactly six small action thumbnails in a 3 by 2 grid of the character wakeboarding behind a boat on foamy waves, holding a tow rope. Label them: 站立, 腾空, 转体, 滑行, 回旋, 冲刺.
+
+Bottom-right character info panel: Header “角色信息 / CHARACTER INFO.” Include these Chinese details: ID: WS-LS-24-07, 生日: 2000.07.24, 星座: 狮子座, 血型: O型, 语言: 中文 / 英语, 爱好: 滑水、健身、摄影、旅行, 喜欢的颜色: 蓝色、白色, 座右铭: 乘风破浪，自由无畏。 Add a faint wave icon watermark and a bold blue angled logo reading “RIDE WAVE” in the lower-right corner.
+
+Visual style: Hyper-realistic fashion/sports photography mixed with clean UI infographic design, sharp product-sheet clarity, glossy blue accents, high detail, consistent character identity across all panels, soft shadows, premium athletic branding.
+
+Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 equipment items, exactly 6 action-pose thumbnails, exactly 4 personality bars, and exactly 5 radar-chart axes. Keep all text legible, avoid extra characters, avoid clutter, no watermark beyond the designed “RIDE WAVE” logo.
+```
+
+**来源：** [@PixelAIGC](https://x.com/PixelAigc/status/2075435762019967140) | 2026-07-10
+
+---
+
+### 🧍 例 3767：写实角色三视图
+
+![写实角色三视图](../../images/%E5%86%99%E5%AE%9E%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色描述" default="标准人设"}出图，人物全身的{argument name="视图" default="正侧背三视图"}，背景纯白，左侧近景胸像，右侧全身三视图：正视图、侧视图、背视图。{argument name="风格" default="完全真人写实风格"}
+```
+
+**来源：** [@探路AI](https://x.com/TanLuAI/status/2075390946121019660) | 2026-07-10
+
+---
+

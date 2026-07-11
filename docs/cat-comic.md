@@ -5530,3 +5530,65 @@ Constraints: Exactly 6 panels, exactly 2 main characters, boy jersey number must
 
 ---
 
+### 🎬 例 3657：Q 版动漫钓鱼恶作剧撞击
+
+![Q 版动漫钓鱼恶作剧撞击](../../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%E9%92%93%E9%B1%BC%E6%81%B6%E4%BD%9C%E5%89%A7%E6%92%9E%E5%87%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个 16:9 的宽幅动漫风格搞笑漫画场景，背景为明亮的现代日本城市人行道。构图被建筑拐角一分为二：左侧，两个 Q 版动漫女孩躲在灰色混凝土墙的阴影中；右侧，第三个 Q 版动漫女孩正高速撞向一根金属电线杆。采用干净的赛璐珞插画风格、清晰的线条艺术、鲜艳的色彩、夸张的漫画动态效果以及俏皮的闹剧基调。
+
+场景细节：背景是城市商业街，有玻璃店面、办公楼、垂直的商店招牌、蓝天以及向远处延伸的人行道。在右侧前景放置一根高大的圆柱形电线杆。受害者应为一个娇小的 Q 版军事风女孩，留着长长的波浪卷 {argument name="hair color" default="粉金色"} 头发，戴着黑红相间的军帽，穿着带有红色点缀的黑色战术服装，眼睛呈螺旋状眩晕，嘴巴张大露出震惊的表情，双臂向前伸展，脸部/身体撞在电线杆上。在撞击处附近添加两个巨大的橙黑色漫画撞击音效「ドン!」，一个在上方撞击点，另一个在右下方，并在撞击爆发处旁边添加一个粉色的音效「キュン」。在受害者身后加入橙色星爆状撞击图形，并添加从左向右延伸的强烈水平速度线。
+
+左侧恶作剧设置：展示正好 2 个隐藏的 Q 版女孩。女孩 1 站在最左侧，是一个留着淡紫色短发、戴眼镜、戴白色海军风帽子、身穿蓝白制服、脚穿白靴的女孩，表情冷静淡定，双臂交叉。女孩 2 站在中左侧，是一个开朗的金色短发女孩，身穿带有金色饰边的黑色战术服装，戴着黑色小帽子，手持钓鱼竿。鱼线向斜上方延伸，然后向下垂向街道，悬挂着 1 张展示深色肖像照片/卡片的诱饵。给金发女孩一个调皮的微笑，仿佛正在诱导受害者。
+
+对话气泡：在左侧添加正好 2 个垂直的日文对话气泡。紫发女孩说「スペックオーバーですね」。金发钓鱼女孩说「オーバースペックじゃね？」。保持文字清晰易读，黑色文字置于带有细黑边框的白色气泡中。
+
+约束条件：保持画面幽默且富有动态感，除卡通式的眩晕外不要出现血腥或受伤画面，前景中不要出现额外角色。保持 3 个角色数量、2 个对话气泡、1 个悬挂的照片诱饵以及 3 处可见的音效文字。
+
+[English]
+Create a wide 16:9 anime-style gag comic scene on a bright modern Japanese city sidewalk. The composition is split by a building corner: on the left, two chibi anime girls hide in the shadow of a gray concrete wall, and on the right, a third chibi anime girl has just slammed into a metal utility pole at high speed. Use clean cel-shaded illustration, crisp line art, vivid colors, exaggerated manga motion effects, and a playful slapstick tone.
+
+Scene details: The background is an urban shopping street with glass storefronts, office buildings, vertical shop signs, a blue sky, and a long sidewalk receding in perspective. Place a tall cylindrical utility pole near the right foreground. The impact victim should be a petite chibi military girl with long wavy {argument name="hair color" default="pink-blonde"} hair, a black-and-red military cap, black tactical outfit with red accents, spiral dizzy eyes, open shocked mouth, and arms stretched forward as her face/body hits the pole. Add two large orange-and-black manga impact sound effects reading 「ドン!」, one near the upper impact and one near the lower right, plus a pink sound effect 「キュン」 beside the impact burst. Include orange starburst impact shapes behind her and strong horizontal speed lines trailing from left to right.
+
+Left-side prank setup: Show exactly 2 hidden chibi girls. Girl 1, standing far left, is a short lavender-haired girl with glasses, a white naval-style cap, white-and-blue uniform, white boots, and a calm deadpan expression with crossed arms. Girl 2, standing center-left, is a cheerful short blonde girl in a black tactical outfit with gold trim and a small black cap, holding a fishing rod. The fishing line extends diagonally upward and then down toward the street, suspending exactly 1 small rectangular photo/card bait showing a dark portrait image. Give the blonde girl a mischievous smile as if luring the victim.
+
+Speech bubbles: Add exactly 2 vertical Japanese speech bubbles on the left. The lavender-haired girl says 「スペックオーバーですね」. The blonde fishing girl says 「オーバースペックじゃね？」. Keep the text readable, black on white bubbles with thin black outlines.
+
+Constraints: Keep the image comedic and dynamic, no gore or injuries beyond cartoon dizziness, no extra characters in the foreground. Maintain the 3-character count, the 2 speech bubbles, the 1 dangling photo bait, and the 3 visible sound-effect texts.
+```
+
+**来源：** [@まるるん＠Nikke好き](https://x.com/TachMaru/status/2075690653259006119) | 2026-07-10
+
+---
+
+### 🎬 例 3720：写实风格漫画书店时尚大片
+
+![写实风格漫画书店时尚大片](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%E4%B9%A6%E5%BA%97%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+姿势优先的写实时尚大片摄影：{argument name="subject" default="一位二十出头的成年女性"} 正在 {argument name="location" default="一家狭窄的流行文化书店"} 内从高处书架拿取一本漫画或画册。姿势由拿取动作自然形成，而非刻意摆拍。
+
+姿势锁定：一只手臂向上伸向高处书架，手肘自然弯曲，手指触碰书脊边缘。另一只手自然垂放在腰部附近、侧缝处或下层书架上以保持平衡。重心主要落在一条腿上，另一侧膝盖微微弯曲并向内侧倾斜。臀部轻微向远离书架的方向偏移，同时胸腔向上延伸，形成自然的修长体态。躯干呈柔和的三分之四侧面角度，双肩高低错落但保持放松。抬起的手臂必须看起来像是真实的拿取动作，而非刻意的模特摆拍。
+
+为姿势构建的背景：{argument name="background" default="一条拥挤的日本流行文化书店过道，配有高大的漫画书架、虚构的动漫海报、色彩鲜艳的新书宣传单、手写推荐卡、贴纸标签、狭窄的荧光灯照明、堆叠的画册以及书架边缘的小型扭蛋广告"}。背景应呈现出具体的、拥挤的且视觉丰富的写实感。
+
+构图锁定：竖构图 4:5 时尚大片裁剪，腰部以上或大腿以上至头部的构图。抬起的手臂、书架线条、腰部曲线、手部动作以及面部是画面的核心。海报和漫画书架在不遮挡人物面部或躯干的前提下对主体进行构图。
+
+视线锁定：如果她在拿取过程中转头看向镜头，则允许直接眼神交流。或者，她的视线可以清晰地聚焦在正在拿取的书籍上，而不是漫无目的地看向镜头外。
+
+避免：动漫风格、插画风格、CGI 感、真实的动漫角色、可辨认的品牌文字、随意的抱头姿势、呆板站立、游客视角的书店快照、僵硬的目录式姿势、遮挡面部的背景杂物。
+
+[English]
+Pose-first photorealistic fashion editorial photo: {argument name="subject" default="a clearly adult woman in her twenties"} reaching for a manga volume or art book from a high shelf inside {argument name="location" default="a narrow pop-culture bookstore"}. The pose is created by the reach, not by posing.\n\nPose lock: one arm reaches upward toward a high shelf, elbow softly bent, fingers touching the edge of a book. The other hand rests near the waist, side seam, or lower shelf for balance. Her weight stays mostly on one leg, with the opposite knee softly bent and angled inward. Hips shift slightly away from the shelf while the ribcage lengthens upward, creating a natural long body line. Torso turns in a soft three-quarter angle, shoulders uneven but relaxed. The raised arm must look like a real reach, not a glamour pose.\n\nBackground built for the pose: {argument name="background" default="a cramped Japanese pop-culture bookstore aisle with tall manga shelves, fictional anime posters, colorful release flyers, handwritten recommendation cards, sticker labels, narrow fluorescent lighting, stacked art books, and small capsule-toy ads near the shelf edges"}. The background should feel specific, crowded, and visually lively, but still photorealistic.\n\nComposition lock: vertical 4:5 fashion editorial crop, waist-to-head or upper-thigh-to-head. The raised arm, shelf line, waist curve, hand on book, and face carry the image. The posters and manga shelves frame the subject without covering her face or torso.\n\nGaze lock: direct eye contact is allowed if her head turns back toward the camera mid-reach. Alternatively, her eyes may focus clearly on the book she is pulling, but not vaguely off-camera.\n\nAvoid: anime style, illustration style, CGI look, real anime characters, readable brand text, random arm-over-head pose, plain standing, tourist bookstore snapshot, stiff catalog posture, background clutter covering the face.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2075491045769441440) | 2026-07-10
+
+---
+
