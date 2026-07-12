@@ -17652,3 +17652,334 @@ Constraints: Preserve the serious cinematic poster composition, keep both charac
 
 ---
 
+### 🎴 例 3784：极简主义 Coca Cola 广告
+
+![极简主义 Coca Cola 广告](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Coca%20Cola%20%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，包含一个 {argument name="product" default="超大号 Coca Cola 易拉罐"}，设计极其简洁。一位 {argument name="model description" default="身着全白套装的年轻女性"} 以自信放松的姿态斜靠在巨大的易拉罐旁，闭着双眼，手中拿着一瓶玻璃瓶装的 Coca Cola。{argument name="background" default="柔和的红色渐变背景"}，背后有醒目的白色大号 "Coca Cola" 字样。光亮的反射地面，柔和的摄影棚灯光，现代高端时尚与产品摄影风格。右上角有小字 "Designed by Mr Das"。底部中心有白色小号标语："Open happiness."
+
+[English]
+Minimalist commercial ad featuring an {argument name="product" default="oversized Coca Cola can"}, ultra clean design. A {argument name="model description" default="young woman in an all white outfit"} leans casually against the giant can in a relaxed confident pose, eyes closed, holding a glass bottle of Coca Cola. {argument name="background" default="Soft gradient red background"} with large bold white "Coca Cola" text behind. Glossy reflective floor, soft studio lighting, modern high end fashion and product photography. Small top right text "Designed by Mr Das". Bottom center tagline in small white font: "Open happiness."
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2075985198488170964) | 2026-07-11
+
+---
+
+### 🎴 例 3797：20 世纪 60 年代美国广告海报
+
+![20 世纪 60 年代美国广告海报](../../images/20%20%E4%B8%96%E7%BA%AA%2060%20%E5%B9%B4%E4%BB%A3%E7%BE%8E%E5%9B%BD%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+地道的 20 世纪 60 年代美国广告海报，品牌为 {argument name="brand" default="[COCA COLA]"}，复古 20 世纪中期商业插画，{argument name="subject" default="[woman]"} 手持一瓶冰镇 [COCA COLA] 玻璃瓶，明亮乐观的生活方式场景，怀旧的美国风情，大胆的 {argument name="colors" default="[COLOR 1] and [COLOR 2]"} 色调，优雅的复古字体，文字“[COCA COLA]”显著地融入海报设计中，真实的丝网印刷质感，细腻的纸张纹理，手绘插画风格，复古麦迪逊大道广告美学，构图简洁，细节丰富，温暖的电影感光效，高级海报设计，真实的 60 年代印刷瑕疵，绘画写实主义，柔和的笔触，垂直构图 4:5
+
+[English]
+Authentic 1960s American advertising poster for {argument name="brand" default="[COCA COLA]"}, vintage mid-century commercial illustration, {argument name="subject" default="[woman]"} holding a frosty glass bottle of [COCA COLA], bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold {argument name="colors" default="[COLOR 1] and [COLOR 2]"} color palette, elegant retro typography, the text “[COCA COLA]” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2075944807898263926) | 2026-07-11
+
+---
+
+### 🎴 例 3799：奢华家庭聚会海报
+
+![奢华家庭聚会海报](../../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%BA%AD%E8%81%9A%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张超高端竖版家庭聚会海报，采用庄重的非洲裔家庭肖像蒙太奇、优雅的金色排版，并呈现温暖的奢华活动海报质感。
+
+画布：4:5 竖版海报，适合打印，高分辨率，居中构图。背景为发光的香槟金与深棕色渐变，带有柔和的散景效果、细微的尘埃闪光、从右上角射入的斜向阳光，以及深色的暗角边缘。
+
+主体：展示 6 位家庭成员，以正式的影棚合成层级排列。后排 2 人：左上角为一名神情严肃的成年男性，身穿海军蓝西装、白衬衫、深色领带，戴圆框眼镜，双手交叠；右上角为一名长者，身穿白色传统刺绣服装，头戴黑帽，视线微侧。中排 3 人：左侧为一名年轻男性，身穿海军蓝双排扣西装，戴眼镜，双臂交叉；中间为一名成熟女性，佩戴大型金属质感金色头巾，身穿棕金色花纹连衣裙，面带温和微笑；右侧为一名成年男性，身穿米色西装，内搭白衬衫，系米色领带，双臂交叉。前排中心 1 人：一名年轻女性，佩戴米色头巾，身穿黑色服装，单手置于脸颊旁，直视前方。使用写实的摄影布光、细腻的肤色、清晰的面部细节以及戏剧性的编辑级修图。
+
+装饰元素：添加 4 簇清晰可见的金色叶片：左上角一簇，右上角一簇，左下角标题旁一小枝，右下角前景处一簇模糊的叶片。在海报下方添加一道扫过的金色光弧，并在标题花体字右端添加一个微小的发光心形轮廓。
+
+文本内容：顶部设置小号间距的大写引语：{argument name="top quote" default="TOGETHER IS OUR FAVORITE PLACE TO BE"}。中下部主标题：巨大的金属质感衬线字体 {argument name="main title" default="FAMILY"}，下方叠加优雅的白金色手写体 {argument name="script subtitle" default="Reunion"}。标题下方包含标语：“Celebrating Our Roots. Cherishing Our Bond. Building Our Legacy.”（庆祝我们的根源。珍视我们的纽带。建立我们的传承。）底部的活动信息行必须包含由细金色竖线分隔的 3 个信息块：左侧块包含日历图标及文本“SATURDAY”、“20TH”、“SEPTEMBER, 2025”；中间块包含位置定位图标及文本“HAPPY HOME”、“EVENT CENTER”、“123 Family Lane,”、“Unity Town, ST 12345”；右侧块包含时钟图标及文本“TIME”、“12:00PM”、“PROMPT”。下方添加间距文本：“ONE FAMILY. ONE HEART. ENDLESS MEMORIES.”（一个家庭。一颗心。无尽的回忆。）最底部放置一个圆角金色 RSVP 药丸形按钮，包含 {argument name="RSVP phone numbers" default="RSVP: 0800 123 4567 | 0700 987 6543"}。
+
+视觉风格：奢华的非洲中心主义家庭聚会海报，电影级合成摄影，金属金色衬线排版，优雅书法，柔和的轮廓光，温暖的高光，黑金高级配色，杂志广告级光泽质感。
+
+约束条件：保持构图对称且具有海报感，不得增加额外人物，严格保持 6 位家庭成员和 3 个活动信息块，确保所有文字清晰可读，避免使用徽标、水印或无关装饰。
+
+[English]
+Goal: Create an ultra-premium vertical Family Reunion poster with a regal African family portrait montage, elegant gold typography, and a warm luxury event-poster finish.
+
+Canvas: 4:5 portrait poster, print-ready, high resolution, centered composition. Background is a glowing champagne-gold and dark brown gradient with soft bokeh, subtle dust sparkles, diagonal sunbeams from the upper right, and dark vignette edges.
+
+Main subjects: Show exactly 6 family members arranged in a formal studio-composite hierarchy. Back row has 2 people: at upper left, a serious adult man in a navy suit, white shirt, dark tie, round glasses, hands clasped; at upper right, an elderly man in a white traditional embroidered outfit and black cap, looking slightly to the side. Middle row has 3 people: left, a young man in a navy double-breasted suit with glasses, arms crossed; center, a mature woman in a large metallic gold headwrap and patterned brown-gold dress, smiling gently; right, an adult man in a beige suit with white shirt and beige tie, arms crossed. Front center has 1 person: a young woman wearing a beige hijab and black outfit, one hand posed near her face, looking directly forward. Use realistic photographic lighting, polished skin tones, crisp facial detail, and dramatic editorial retouching.
+
+Decorative elements: Add exactly 4 visible clusters of golden leaves: one in the upper left corner, one in the upper right corner, one small branch beside the lower-left title, and one blurred cluster in the lower right foreground. Add a sweeping gold light arc across the lower poster and a small glowing heart outline at the right end of the title flourish.
+
+Text content: At the top, set the small spaced uppercase quote: {argument name="top quote" default="TOGETHER IS OUR FAVORITE PLACE TO BE"}. Main title across the lower middle: enormous metallic serif word {argument name="main title" default="FAMILY"}, with elegant white-gold script word {argument name="script subtitle" default="Reunion"} overlapping beneath it. Under the title, include the tagline: "Celebrating Our Roots. Cherishing Our Bond. Building Our Legacy." Event information row at the bottom must contain exactly 3 info blocks separated by thin vertical gold lines: left block with calendar icon and text "SATURDAY", "20TH", "SEPTEMBER, 2025"; center block with location pin icon and text "HAPPY HOME", "EVENT CENTER", "123 Family Lane,", "Unity Town, ST 12345"; right block with clock icon and text "TIME", "12:00PM", "PROMPT". Below that, add spaced text: "ONE FAMILY. ONE HEART. ENDLESS MEMORIES." At the very bottom, place a rounded gold RSVP pill containing {argument name="RSVP phone numbers" default="RSVP: 0800 123 4567 | 0700 987 6543"}.
+
+Visual style: Luxurious Afrocentric family reunion poster, cinematic composite photography, metallic gold serif typography, elegant calligraphy, soft rim lighting, warm highlights, black-and-gold premium palette, glossy magazine-ad finish.
+
+Constraints: Keep the composition symmetrical and poster-like, do not add extra people, keep exactly 6 family members and exactly 3 event info blocks, make all text legible, avoid logos, watermarks, or unrelated decorations.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2075937686838210952) | 2026-07-11
+
+---
+
+### 🎴 例 3807：神奇德芙巧克力记忆飞溅
+
+![神奇德芙巧克力记忆飞溅](../../images/%E7%A5%9E%E5%A5%87%E5%BE%B7%E8%8A%99%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%AE%B0%E5%BF%86%E9%A3%9E%E6%BA%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为德芙巧克力棒创作一张超高端广告海报，设计为一个神奇的怀旧构图。一根超现实的德芙巧克力棒立于高速牛奶奶油喷溅结构的中心，该结构恰好形成五个独特的记忆窗口。每个牛奶奶油窗口必须包含一个美丽的动画童年记忆场景，营造出甜蜜记忆正通过液态牛奶门户展现出来的感觉。最终画面必须具有情感、电影感、温柔、奇幻且极具高端感，德芙巧克力产品依然是绝对的主角。使用清爽的纵向构图，一根正宗的德芙巧克力棒精确地置于画面中心，稍微靠前且在视觉上占主导地位。巧克力棒应呈现部分拆封状态，露出光滑有泽的巧克力，边缘锋利，光影优雅，可可质感丰盈，具有不可抵挡的高端写实感。包装必须感觉真实。核心视觉概念是一个冻结在运动中的雕塑式牛奶奶油喷溅，在产品周围形成恰好五个记忆窗口。牛奶必须向外喷涌，形成五个定义明确的液体框架开口，具有柔和圆润的牛奶边缘。五个窗口应在中心巧克力棒周围呈平衡、悦目的排列。在五个牛奶奶油窗口内，以精致的迪士尼风格动画放置五个不同的怀旧场景。场景可包括：1. 孩子在金色落日中放风筝；2. 盖着毯子在温暖的床头灯下阅读；3. 带着天真的喜悦从学校跑回家；4. 在舒适的房间里用旧电视看动画片；5. 漂流纸船或在雨窗边分享宁静的时光。德芙巧克力棒必须以绝对的产品忠实度进行渲染。背景极其清洁简约，使用柔和的奶白色或温暖的象牙白渐变。配色以奶油白为主。情绪：甜蜜怀旧、感性温暖。输出风格：超现实产品摄影、8k、世界级糖果广告质感。负面提示词：假德芙品牌、混乱的喷溅、窗口少于五个、模糊的阴影、粗糙的排版。
+
+[English]
+Create an ultra-premium advertising poster for Dove Chocolate Bars, designed as a magical nostalgic composition where a hyper-real Dove chocolate bar stands at the center of a high-speed milk-cream splash structure that forms exactly five distinct memory windows. Each milk-cream window must contain a beautiful animated childhood memory scene, creating the feeling that sweet memories are being revealed through liquid milk portals. The final image must feel emotional, cinematic, tender, whimsical, and highly premium, with the Dove chocolate product remaining the absolute hero object. Use a clean vertical composition with one authentic Dove Chocolate Bar placed exactly at the center of the frame, slightly forward and visually dominant. The chocolate bar should appear partially unwrapped, revealing smooth glossy chocolate segments with crisp edges, elegant highlights, rich cocoa texture, and irresistible premium realism. The wrapper must feel authentic, clean, luxurious, and unmistakably Dove. The key visual concept is a sculptural milk-cream splash frozen in motion, forming exactly five memory windows around the product. This is not a random splash and not a loose fluid ring. The milk must erupt outward with believable fluid dynamics and then stabilize into five clearly defined liquid-framed openings, each with soft rounded milk edges, elegant thickness variation, silky surface tension, suspended droplets, and clean dimensional depth. The five windows should be arranged in a balanced, visually pleasing composition around the central chocolate bar: top left, top right, middle left, middle right, and bottom center or lower-middle. The Dove product must remain the strongest focal point in the center, with the five milk memory windows surrounding it like a sweet emotional constellation. Inside the five milk-cream windows, place five different nostalgic childhood scenes in a polished Disney-like animated spirit. These scenes should feel soft, magical, luminous, and emotionally universal, not realistic photography. The five memory windows may include: 1. children flying a kite in golden sunset light, 2. reading under a blanket with a warm bedside lamp, 3. running home from school with innocent joy, 4. watching cartoons on an old television in a cozy room, 5. floating a paper boat or sharing a quiet evening moment by water or by a rainy window. Each scene must feel self-contained, emotionally clear, and visually readable inside its own milk-framed window. The milk splash must be the architectural structure of the composition. The five liquid windows should feel naturally formed by the milk itself, not inserted afterward. The milk edges should wrap around each memory scene like creamy portals, with dynamic splashing bridges, curved arcs, soft splash crowns, and suspended droplets linking the five windows into one coherent sculptural event. The viewer should immediately read: real Dove Chocolate Bar at the center, five milk memory windows around it, and sweet nostalgic scenes glowing inside the milk structure. The Dove Chocolate Bar must be rendered with absolute product fidelity: authentic Dove bar proportions, correct premium wrapper design, smooth luxurious chocolate surface, subtle embossed detail if appropriate, refined partially opened packaging, and rich appetizing cocoa realism. The product must feel silky, indulgent, collectible, and unmistakably real. The memory scenes must feel polished and emotionally warm: gentle animated realism, clean silhouettes, soft cinematic lighting, subtle depth, tender storytelling, and premium illustration-like finish. No harsh outlines, no chaotic cartoon exaggeration, no clutter. Background: extremely clean and minimal, soft creamy beige, warm ivory, or milk-toned gradient backdrop, with generous negative space. No busy scenery, no extra props, no clutter. The central milk splash with five memory windows and the Dove product must dominate the entire poster. Lighting: use soft premium studio lighting on the Dove bar, elegant highlights on the chocolate surface, luminous sheen and translucency on the milk-cream splash, gentle warm glow inside each of the five memory windows, and clean dimensional shadow layering. All shadows must remain breathable and refined, with no muddy blacks, dirty blotches, or noisy shadow contamination. Color palette: milk cream white, warm ivory, soft cocoa brown, caramel beige, golden nostalgic light, gentle honey glow, and subtle pastel warmth inside the animated memory scenes. The palette should feel sweet, tender, premium, and cinematic. Typography must follow a minimalist official luxury-commercial layout. Place a refined title: ‐DOVE‑ Below it, in smaller elegant uppercase text: ‐CHOCOLATE BARS‑ Optionally add a short emotional line such as: ‐FIVE SWEET MEMORIES IN MILK‑ or ‐WHERE EVERY MOMENT MELTS SOFTLY‑ Typography must feel soft, premium, and brand-appropriate, never loud or childish. Mood: sweet nostalgia, magical tenderness, creamy wonder, emotional warmth, premium comfort, storybook memory, cinematic softness, luxurious indulgence. Rendering style: hyper-real product photography, luxury chocolate advertising, high-speed milk-cream splash forming exactly five memory windows, premium animated nostalgic scenes, clean minimal background, elegant editorial typography, 8k, world-class confectionery campaign quality. Negative prompt: cheap candy ad, fake Dove branding, low-detail wrapper, plastic chocolate texture, messy splash, dirty cream, random liquid chaos, fewer than five windows, too many windows, unclear window structure, cluttered background, harsh cartoon outlines, low-quality animation look, muddy shadows, black blotches, noisy dark areas, weak product focus, rough typography, childish collage, generic supermarket ad
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2075915971387375649) | 2026-07-11
+
+---
+
+### 🎴 例 3813：极简艺术电影海报模板
+
+![极简艺术电影海报模板](../../images/%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简艺术电影海报，展示 {argument name="subject" default="人物"} 的特写肖像，身着 {argument name="clothing" default="服饰"}，以侧面轮廓呈现并部分隐没于阴影中，几缕发丝飘落在脸庞。使用 [PALETTE]，结合抽象的光影块面、哑光磨砂渐变背景，并将 [SCENERY] 简化为左下角微小的远景。强调诗意张力、干净的留白、电影质感颗粒、柔和的动态模糊、层次深度以及精致的排版；电影标题 “{argument name="movie title" default="标题"}” 位于下方中心附近，下方包含小字 “[TEXT]” 及月桂叶徽章，比例为 4:5 竖版。
+
+[English]
+Minimalist art-house movie poster featuring a close-up portrait of {argument name="subject" default="HUMAN"} wearing {argument name="clothing" default="CLOTHING"}, shown in side profile and partially swallowed by shadow, with loose hair strands drifting across the face. Use [PALETTE], abstract blocks of light and darkness, a matte frosted gradient background, and [SCENERY] reduced to a tiny distant scene in the lower left. Emphasize poetic tension, clean negative space, cinematic grain, soft motion haze, layered depth, and refined typography, with the title “{argument name="movie title" default="TITLE"}” near the lower center and the small text “[TEXT]” include a laurel emblem beneath it, vertical 4:5.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2075898789634711940) | 2026-07-11
+
+---
+
+### 🎴 例 3823：东方禅意金鱼海报
+
+![东方禅意金鱼海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E9%87%91%E9%B1%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简海报
+风格分支：高对比传播型
+主体内容：{argument name="主体内容" default="一位站在池边观赏金鱼灯的古风人物"}
+情绪母题：{argument name="情绪" default="灵动、节庆感、轻松、观赏感"}
+场景与意象：亮橙红金鱼灯、青碧蓝水面、暖白留白空间、少量倒影、人物剪影
+构图与空间：中心偏下构图，金鱼灯作为主视觉位于中部，人物位于下方偏侧，周围保留大面积明亮留白
+色彩控制：{argument name="色彩" default="暖白作为画面基底，青碧蓝用于水面与空气层，亮橙红用于金鱼灯主体和局部倒影，墨青用于人物轮廓"}；避免整图橙蓝互相污染
+光线与质感：清透柔光，轻纸感，水面微反光，边缘清晰
+画幅比例：9:16
+补充要求：金鱼灯必须鲜明醒目，人物比例小，画面整体明快、不压暗
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2075873741855445167) | 2026-07-11
+
+---
+
+### 🎴 例 3828：未来感双色光影时尚海报
+
+![未来感双色光影时尚海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8F%8C%E8%89%B2%E5%85%89%E5%BD%B1%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+宽幅数字艺术海报构图，{argument name="subject" default="身穿蓝色全息夹克、佩戴粉色墨镜的女性"}，戏剧性的冷暖分色面部灯光，橙色、黄色、青色和奶油色的几何不对称色块背景，横跨背景面板的大号粗体半透明排版，微妙的故障/色差效果，为标题或 Logo 留出简洁的负空间，未来感时尚海报设计，垂直 4:5 构图 --ar 4:5 --v 6
+
+相同的分色滤镜时尚肖像概念，采用备选配色方案，面部左侧为电光青柠绿暖光，右侧为深紫罗兰冷光，匹配绿色、紫色、黑色和白色的几何背景面板，粉色墨镜替换为透明虹彩镜框，蓝色全息夹克替换为银色金属质感衣领，相同的 RGB 色差细节，相同的利落湿发和直视镜头，未来感时尚艺术海报，垂直 4:5 --ar 4:5 --v 6
+
+高级时尚数字艺术肖像，年轻女性，利落的湿发后梳造型，眼神锐利直视镜头，双唇微张，佩戴大号透明粉色方形墨镜，融合了冷暖两种光调，底部可见蓝色全息 PVC 夹克领口，面部通过重叠的彩色滤镜灯光被戏剧性地分为两种色温，面部左侧沐浴在深洋红-红-橙色暖光中，右侧为电光青色冷光，几何色块背景面板以橙色、金黄色、青色和奶油色大胆地不对称排列在主体后方，面部边缘带有微妙的 RGB 色差分离效果，左上方黄色面板区域有大号粗体半透明白色排版文字“VIVID”，简洁的图形海报美学，皮肤和墨镜纹理具有超高细节，垂直 4:5 构图，未来感时尚艺术海报 --ar 4:5 --v 6
+
+[English]
+Wide digital art poster composition, {argument name="subject" default="woman in blue holographic jacket with pink sunglasses"}, dramatic warm-cool split face lighting, geometric asymmetric color-block background in orange, yellow, teal and cream, large bold semi-transparent typography spanning the background panels, subtle glitch/chromatic aberration accent, clean negative space for caption or logo, futuristic editorial poster design, vertical 4:5 composition --ar 4:5 --v 6
+
+Same split color-gel editorial portrait concept with alternate color palette, left half of face in electric lime-green warm light, right half in deep violet-purple cool light, geometric background panels in matching green, purple, black and white, pink sunglasses replaced with clear iridescent frames, blue holographic jacket replaced with silver metallic collar, same RGB chromatic aberration detail, same sleek wet hair and direct eye contact, futuristic editorial art poster, vertical 4:5 --ar 4:5 --v 6
+
+High-fashion digital art portrait, young woman with sleek wet-slicked back dark hair, sharp direct eye contact with camera, soft parted lips, wearing large transparent pink square sunglasses blending both warm and cool light tones, blue holographic PVC jacket collar visible at bottom, face dramatically split into two color temperatures using overlapping color gel lighting, left half of face bathed in deep magenta-red-orange warm light, right half in electric cyan-blue cool light, geometric color-block background panels in bold orange, golden yellow, teal, and cream arranged asymmetrically behind subject, subtle chromatic aberration RGB split effect on face edges, large bold semi-transparent white typographic word "VIVID" in upper left yellow panel area, clean graphic poster aesthetic, ultra high detail on skin and sunglasses texture, vertical 4:5 composition, futuristic editorial art poster --ar 4:5 --v 6
+```
+
+**来源：** [@Shahid Wani](https://x.com/meng_dagg695/status/2075840640483823652) | 2026-07-11
+
+---
+
+### 🎴 例 3831：高端电影级广告海报
+
+![高端电影级广告海报](../../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand" default="[BRAND]"} 的 {argument name="product" default="[PRODUCT]"} 创建一张超高端电影级广告海报。产品是构图的核心，具备超写实材质、电影级布光、逼真的反射效果、高级纹理、大气深度、漂浮粒子以及奢华的编辑摄影风格。展现微距级的极致细节、物理精确的材质、优雅的品牌呈现、浅景深、极简的高级背景以及世界级的商业摄影水准。包含 {argument name="brand name" default="[BRAND]"}、[PRODUCT] 以及可选的标语："{argument name="tagline" default="[TAGLINE]"}"。8K 分辨率，照片级真实感，屡获殊荣的奢华广告大片。
+
+负面提示词：卡通、模糊、塑料感、低细节、材质虚假、布光不佳、廉价广告风格、水印、噪点、比例失调。
+
+[English]
+Create an ultra-premium cinematic advertising poster for {argument name="product" default="[PRODUCT]"} by {argument name="brand" default="[BRAND]"}. The product is the hero of the composition, featuring hyper-realistic materials, cinematic lighting, realistic reflections, premium textures, atmospheric depth, floating particles, and luxury editorial styling. Showcase extreme detail with macro-quality realism, physically accurate materials, elegant branding, shallow depth of field, minimal premium background, and world-class commercial photography. Include {argument name="brand name" default="[BRAND]"}, [PRODUCT], and an optional tagline: "{argument name="tagline" default="[TAGLINE]"}". 8K, photorealistic, award-winning luxury advertising campaign.
+
+Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor lighting, cheap advertising style, watermark, noise, distorted proportions.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2075819502940610858) | 2026-07-11
+
+---
+
+### 🎴 例 3841：After Light 情绪化时尚海报
+
+![After Light 情绪化时尚海报](../../images/After%20Light%20%E6%83%85%E7%BB%AA%E5%8C%96%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直电影质感的时尚海报肖像，主体为 {argument name="character description" default="一位留着黑色短波波头的雌雄同体东亚女性"}，采用暗黑、情绪化的高级时尚编辑风格。主体呈现胸部以上视角，略微转向观众右侧，仅右侧脸部清晰可见，其余部分融入烟雾模糊和阴影中。使用苍白的皮肤、严肃的中性表情、深色嘴唇，并在可见的一只眼睛周围涂抹浓郁的红色眼影。在脸部上方添加一个细长的半透明椭圆形/叶片状玻璃轮廓，如同从额头延伸至脸颊的折射镜片切片，微妙地扭曲其中的肖像。服装为黑色高领外套或西装，右下角隐约露出深红色面料。光线柔和且具有方向性，在灰白色背景上营造出幽灵般的光晕，并带有浓重的胶片颗粒、薄雾、动态模糊、暗角和模拟印刷纹理。构图参考前卫杂志封面：主体略微偏上居中，头部周围留有负空间，底部三分之一处留给排版。包含 5 个可见的文字元素：右上角小字“FRAME 05:56”；左下角分两行的大标题，第一行为奶油色衬线大写字母“{argument name="main title first line" default="AFTER"}”，第二行为深红色衬线大写字母“{argument name="main title second line" default="LIGHT"}”；标题下方极小的间距文字“VISIBLE FOR A SECOND      MEMORY HOLDS THE EDGE”；左下角极小的标记“1.9”；以及底部标题“{argument name="bottom caption" default="WHAT THE SHADOW COULD NOT KEEP"}”。标题使用优雅的 Didot/Bodoni 风格衬线字体，说明文字使用小号等宽字体。色调限制在黑色、炭灰色、雾灰色、象牙白、柔和肤色和血红色。避免添加多余文字、Logo、笑容、鲜艳色彩或过于干净的数字锐度。
+
+[English]
+Create a vertical cinematic fashion poster portrait of {argument name="character description" default="an androgynous East Asian woman with a short black bob haircut"} in a dark, moody, high-fashion editorial style. The subject is shown from the chest up, turned slightly to the viewer's right, with only the right side of the face sharply visible while the rest dissolves into smoky blur and shadow. Use pale skin, a severe neutral expression, dark lips, and intense red eyeshadow around one visible eye. Add a thin translucent curved oval/leaf-shaped glass outline over the face, like a refracted lens slice cutting from the forehead down past the cheek, subtly distorting the portrait inside it. The outfit is a black high-collared coat or blazer with a hint of deep red fabric near the lower right. Lighting is soft and directional, creating a ghostly halo on a gray-white background, with heavy film grain, mist, motion blur, vignette, and analog print texture. Compose like an avant-garde magazine cover: subject centered slightly high, negative space around the head, dark lower third for typography. Include exactly 5 visible text elements: small top-right text “FRAME 05:56”; large bottom-left title split over two lines with “{argument name="main title first line" default="AFTER"}” in cream serif capitals and “{argument name="main title second line" default="LIGHT"}” in dark red serif capitals; tiny spaced text under the title reading “VISIBLE FOR A SECOND      MEMORY HOLDS THE EDGE”; tiny lower-left mark “1.9”; and a bottom caption reading “{argument name="bottom caption" default="WHAT THE SHADOW COULD NOT KEEP"}”. Use elegant Didot/Bodoni-like serif typography for the title and small monospaced tracking for captions. Keep the palette limited to black, charcoal, fog gray, ivory, muted skin tones, and blood red. Avoid extra text, logos, smiles, bright colors, or clean digital sharpness.
+```
+
+**来源：** [@HiAPI](https://x.com/hiapi_ai/status/2075796165816394170) | 2026-07-11
+
+---
+
+### 🎴 例 3844：波光粼粼的蓝色鱼群
+
+![波光粼粼的蓝色鱼群](../../images/%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC%E7%9A%84%E8%93%9D%E8%89%B2%E9%B1%BC%E7%BE%A4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅高度精细的纵向海洋插画，描绘拥挤的鱼群，呈现出如洁白背景上闪烁的水彩与水墨海报般的效果。
+
+画布：纵向构图，2:3 比例，满版设计，无边框。在鱼群之间留出细小的白色间隙，并在右下角添加微小的日期和艺术家签名。
+
+主体细节：总共展示 55 条鱼：5 条大型特征鱼和 50 条小型饵鱼。5 条大型鱼包括：1 条位于顶部、背鳍高耸且拥有金色大眼的巨大蓝色金枪鱼状鱼，右侧边缘略有裁剪；1 条位于中左侧、吻部尖锐且牙齿可见的银蓝色梭鱼状掠食者；1 条位于中右侧、拥有金色眼睛和粉红色鳍的粉红色鲷鱼状鱼；1 条位于中下部、拥有黑色圆眼和浅色腹部的深蓝色金枪鱼状鱼；1 条位于下部、下颚锋利且牙齿可见的银蓝色梭鱼状掠食者。50 条小型鱼为细长的沙丁鱼或鲭鱼形状，大多水平向左或向右游动，密集分布在大型鱼之间及周围，部分在边缘处略有裁剪。
+
+视觉风格：精致的水彩插画与细腻的钢笔水墨线条相结合，明亮的反光鳞片呈现为数百个圆形亮片状圆点，带有金属光泽，鱼类解剖轮廓清晰，鱼鳍透明，眼睛细节丰富，并带有层叠的蓝色阴影。使用以 {argument name="main color palette" default="钴蓝色、群青色、冰白色、银色和浅青色"} 为主的明亮海洋色调，并配有一条 {argument name="accent fish color" default="粉红色、珊瑚红和暖金色"} 的对比色鱼。整体感觉应清新、夏日、湿润且明亮，如同装饰性的 AI 艺术画作。
+
+文字内容：在右下角，添加微小的印刷日期 {argument name="date text" default="2026 年 7 月 11 日"} 和精致的手写签名 {argument name="signature" default="Oyagi"}。保持文字微小且不突兀。
+
+约束条件：无人物，无风景，无水面，无气泡，无边框，无额外排版。保持鱼群的密集层叠，但确保每条鱼在白色负空间中都有清晰的轮廓。
+
+[English]
+Goal: Create a highly detailed vertical marine illustration of a crowded school of fish, like a shimmering watercolor-and-ink poster on a clean white background.
+
+Canvas: Portrait orientation, 2:3 ratio, edge-to-edge composition with no frame. Leave small white gaps between fish, and add a tiny date and artist signature in the bottom-right corner.
+
+Subject details: Show exactly 55 fish total: 5 large feature fish and 50 smaller baitfish. The 5 large fish are: 1 huge blue tuna-like fish across the top with a tall dorsal fin and large golden eye, partially cropped at the right edge; 1 long silver-and-blue barracuda-like predator across the middle-left with pointed snout and visible teeth; 1 pink-red snapper-like fish on the right-center with golden eye and rosy fins; 1 large deep-blue tuna-like fish across the lower middle with round black eye and pale belly; 1 long silver-blue barracuda-like predator along the lower section with sharp jaw and teeth. The 50 smaller fish are slim sardine or mackerel shapes, mostly swimming horizontally left-to-right or right-to-left, distributed densely between and around the larger fish, with a few partially cropped at the edges.
+
+Visual style: Intricate watercolor illustration mixed with fine pen-and-ink linework, bright reflective scales rendered as hundreds of circular sequin-like dots, metallic sparkle, crisp anatomical fish outlines, transparent fins, detailed eyes, and layered blue shadows. Use a luminous ocean palette dominated by {argument name="main color palette" default="cobalt blue, ultramarine, icy white, silver, and pale cyan"}, with one contrasting fish in {argument name="accent fish color" default="pink, coral red, and warm gold"}. The overall feeling should be refreshing, summery, humid, and bright, like a decorative AI art print.
+
+Text content: In the bottom-right corner, add the small printed date {argument name="date text" default="July 11, 2026"} and a delicate handwritten signature {argument name="signature" default="Oyagi"}. Keep the text tiny and unobtrusive.
+
+Constraints: No humans, no scenery, no water surface, no bubbles, no border, no extra typography. Maintain dense fish layering but keep every fish clearly outlined against white negative space.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2075789542150619174) | 2026-07-11
+
+---
+
+### 🎴 例 3860：混乱的日式嘉宾官宣海报
+
+![混乱的日式嘉宾官宣海报](../../images/%E6%B7%B7%E4%B9%B1%E7%9A%84%E6%97%A5%E5%BC%8F%E5%98%89%E5%AE%BE%E5%AE%98%E5%AE%A3%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张喧闹、刻意夸张的日式综艺风格官宣海报，带有廉价的 AI 生成感，类似于由 {argument name="presenter name" default="佐久间宣行"} 呈现的舞台、美食与旅行主题现场活动的宣传横幅。
+
+画布：1:1 正方形海报，饱和的蓝色背景，密集的漫画书质感，半调网点，油漆飞溅，星星纸屑，粗犷的笔触，撕纸风格的奶油色中心面板，高对比度的黑色横幅，以及亮粉色和黄色的点缀。
+
+布局：顶部三分之一为混乱的标题区。在左上方放置一个白色锯齿状对话气泡，包含来自 {argument name="left speech bubble text" default="舞台？ 食？ 旅？"} 的竖排彩色文字。在顶部中心附近添加一张严肃的中年日本西装男士摘帽致意的小型抠图肖像。在顶部的黑色毛笔横幅上，展示官宣文案 {argument name="announcement text" default="第二弾ゲスト発表　佐久间宣行 PRESENTS"}。主标题以巨大的手绘毛笔字占据中心位置，先蓝后洋红色，文字为 {argument name="main headline" default="五感爆発！"}。在其下方，添加一行较小的口号，使用黑色、橙色和蓝色混合文字，内容为 {argument name="subheadline" default="食もライブ！舞台もライブ！"}。在右上角，放置一个黑色墨迹爆炸气泡，配以醒目的黄色和白色文字，宣称石川县是最棒的，并带有感叹号。
+
+中间带：添加两条黑色毛笔分类丝带。左侧丝带上有两个戏剧面具（一个粉色，一个蓝色）以及戏剧标签。右侧丝带上有一个白色叉勺圆形图标以及美食标签。包含两张小型全身/半身抠图照片：一张是左下角边缘站立的休闲男士手提行李箱，另一张是右上角正在进食并手持透明饮料杯的微笑男士。
+
+嘉宾网格：在下半部分使用 5 个嘉宾位。四个垂直矩形肖像卡片在蓝色区域从左到右排列，最右侧还有一个较大的肖像卡片。5 位可见嘉宾为：1) 身穿黑色西装手持橙色螃蟹的年轻日本男性，配有洋红色名牌；2) 留着黑色直发波波头的年轻日本女性，身穿白色服装，配有洋红色名牌；3) 匿名的黑色剪影头像，带有巨大的白色问号，洋红色名牌上写着“敬请期待”；4) 身穿西装领带的年轻日本男性，配有黄色名牌；5) 较大的中年日本男性，黑发，戴红色圆框眼镜，身穿黑色夹克、白衬衫和带红点的黑色围巾，配有黄色名牌。在第四和第五张嘉宾卡片之间添加一个明亮的锯齿状粉黄相间“NEW!”爆炸贴纸。
+
+底部区域：在底部添加一个宽大的黑色毛笔横幅，配有醒目的白色日式文案，并用黄色强调部分词汇。在此横幅的左下角放置一个小型的西装男士持帽形象。在右下角，添加一个亮粉色的漫画爆炸效果，配以黄色日式文字，呼吁关注美食环节。
+
+视觉风格：极繁主义日式综艺海报设计，刻意俗气且杂乱，字体粗细不一，夸张的毛笔字体，强烈的投影，粗糙的抠图拼贴，漫画半调，墨迹飞溅，霓虹色调，以及不均匀的间距。使其看起来像是初次生成的 AI 宣传图，而非精致的专业设计。
+
+约束条件：必须使用 5 张嘉宾肖像卡片，2 条分类丝带，分类丝带上必须有 2 个美食/戏剧图标，1 个左侧对话气泡，1 个右侧墨迹爆炸气泡，1 个 NEW 爆炸贴纸，以及 1 个大型主标题。避免极简主义设计，避免干净的留白，避免仅使用英文字体，且不要添加水印。
+
+[English]
+Goal: Create a loud, deliberately over-the-top Japanese entertainment announcement poster with a cheap generated-AI feeling, like a promotional banner for a stage, food, and travel themed live event presented by {argument name="presenter name" default="佐久間宣行"}.
+
+Canvas: Square 1:1 poster, saturated blue background, dense comic-book texture, halftone dots, paint splatters, star confetti, rough brush strokes, torn-paper cream center panel, high-contrast black banners, hot pink and yellow accents.
+
+Layout: Top third is a chaotic headline area. Place a white jagged speech bubble on the upper left containing vertical colorful text from {argument name="left speech bubble text" default="舞台？ 食？ 旅？"}. Near the top center add a small cutout portrait of a serious middle-aged Japanese man in a suit tipping his hat. Across the top black brush banner, show the announcement line {argument name="announcement text" default="第二弾ゲスト発表　佐久間宣行 PRESENTS"}. The main headline dominates the center in huge hand-painted brush lettering, blue then magenta, reading {argument name="main headline" default="五感爆発！"}. Under it, add a smaller slogan in mixed black, orange, and blue text reading {argument name="subheadline" default="食もライブ！舞台もライブ！"}. On the upper right, place a black ink-burst speech bubble with bold yellow and white lettering saying that Ishikawa is the best, with exclamation marks.
+
+Middle band: Add two black brush category ribbons. Left ribbon has two theater masks, one pink and one blue, and the label for theater. Right ribbon has a white fork-and-spoon circle icon and the label for gourmet food. Include two small cutout full-body/half-body photos: one casual man standing near the lower left edge holding a suitcase, and one smiling man at upper right eating while holding a clear drink cup.
+
+Guest grid: Use exactly 5 guest slots in the lower half. Four are vertical rectangular portrait cards aligned left-to-right on a blue field, plus one larger portrait card on the far right. The 5 visible guests are: 1) young Japanese man in a black suit holding an orange crab, with a magenta nameplate; 2) young Japanese woman with straight black bob hair in a white outfit, with a magenta nameplate; 3) anonymous black silhouette head with a large white question mark and a magenta nameplate saying it will be announced soon; 4) young Japanese man in a suit and tie, with a yellow nameplate; 5) larger middle-aged Japanese man with black hair, red round glasses, black jacket, white shirt, and black scarf with red dots, with a yellow nameplate. Add a bright jagged pink-and-yellow “NEW!” burst overlapping between the fourth and fifth guest cards.
+
+Bottom section: Add a wide black brush-stroke banner across the bottom with large white Japanese-style copy, emphasizing a few words in yellow. Put a small suited man holding a hat at the lower left of this banner. On the bottom right, add a hot-pink comic burst with yellow Japanese-style text calling out the gourmet segment.
+
+Visual style: Maximalist Japanese variety-show poster design, intentionally gaudy and cluttered, inconsistent font weights, exaggerated brush typography, strong drop shadows, rough cutout photo collage, comic halftones, ink splashes, neon accents, and uneven spacing. Make it look like a first-pass AI-generated promo graphic rather than polished professional design.
+
+Constraints: Use exactly 5 guest portrait cards, exactly 2 category ribbons, exactly 2 food/theater icons on the category ribbons, exactly 1 left speech bubble, exactly 1 right ink-burst bubble, exactly 1 NEW burst, and exactly 1 large main headline. Avoid minimalist design, avoid clean empty space, avoid English-only typography, and do not add a watermark.
+```
+
+**来源：** [@Tamago](https://x.com/tamagoindoor/status/2075755582070665402) | 2026-07-11
+
+---
+
+### 🎴 例 3861：上海白玉兰早安海报
+
+![上海白玉兰早安海报](../../images/%E4%B8%8A%E6%B5%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="上海"} 创作一张精致的横版城市早安海报，将宏大的微距花卉摄影与细腻的编辑排版及中文字体设计相结合。
+
+画布：16:9 宽画幅海报，采用纯净的白色与雾灰色调，高调照明，通透的留白，柔和的晨雾，呈现高级的档案海报质感。
+
+主体视觉：使用 2 朵巨大的白玉兰花，呈现真实的微距物理质感。花朵 1 从右上角大幅裁切，展示半透明的白色花瓣、绿色花托及暖米色雄蕊。花朵 2 从左下角裁切，展示硕大的白色花瓣及部分花心。一根修长的绿色玉兰花茎从右上方的花朵斜向延伸至左下方的花朵，形成悬浮的连接感与柔和的视觉张力。花朵比例巨大，近乎纪念碑式，清晰可见花瓣纹理及柔和的背光通透感。
+
+背景：上海天际线隐约浮现在底部三分之一处的淡雾中，东方明珠塔位于中右侧，其他摩天大楼若隐若现。在天际线下方加入平静的水面倒影。背景需保持低饱和度与朦胧感，以突出花卉与文字排版。
+
+布局与文字元素：包含 7 个明确的信息元素：1) 左上角的一个小型圆角胶囊标签，文字为“城市 / 上海”，右侧带有一个紫色小圆点；2) 左侧的一行细横线关键词，文字为“关键词 / 海风 外滩 露光 玉兰”，末端带有一个小圆点；3) 中央巨大的竖排黑色中文标题，上方为“上海”，下方为“早安”；4) 一个紫色的手写体单词“Shanghai”，斜向穿过中央标题；5) 右侧一个带有折角轮廓的白色引用框，包含紫色引号、引言“早安，让风把灵感吹亮。”、一条紫色短分割线以及日期“2026-07-11”；6) 最右侧一个纤细的垂直坐标标签，文字为“坐标 / SH-0711”，配有垂直分割线及底部的小地球图标；7) 底部居中的版权行，文字为“© 版权 / CITY POSTER ARCHIVE 2026”。
+
+字体与风格：中文标题使用粗体高对比度黑体，小标签使用优雅的宋体，英文城市名使用富有表现力的紫色连笔手写体。强调色为鲜艳的紫罗兰色，仅用于小圆点、手写体、引号、分割线及右侧的小圆点。保持所有间距精准、极简且具有编辑美感。
+
+约束：不得添加额外的花朵、卡片、人物、车辆、鸟类、Logo 或水印。严格保持两朵花的构图，即顶部与底部的边缘裁切、斜向花茎连接、柔和的上海天际线以及清新的早安海报氛围。
+
+[English]
+Goal: Create a refined horizontal city morning poster for {argument name="city name" default="Shanghai"}, combining macro botanical photography with a quiet editorial information layer and a misty urban skyline.
+
+Canvas: Wide 16:9 poster, clean off-white and pale gray background, airy negative space, soft morning light, premium magazine layout.
+
+Main subject: Use exactly 2 oversized white magnolia blossoms with realistic macro texture: 1 large cropped blossom entering from the upper-right corner with translucent ivory petals and visible beige-green stamens, and 1 large cropped blossom entering from the lower-left corner. A slender green magnolia stem runs diagonally from the upper-right flower down toward the lower-left flower, lightly crossing the center and creating suspended tension.
+
+Background: Faint low-contrast Shanghai skyline along the lower third, softened by haze and sea mist, with the Oriental Pearl Tower visible near the center-right. Add a calm reflective waterfront at the bottom, extremely subtle and desaturated.
+
+Central typography: Place large black vertical Chinese title text “上海” above “早安” in the center, bold high-contrast serif style. Overlay a purple handwritten italic script reading “Shanghai” diagonally across the title, as if drawn with a marker. Keep the typography sharp and balanced against the soft flowers.
+
+Information layer: Include exactly 5 small editorial UI/text elements: 1 rounded pill at top-left reading “城市 / 上海” with a small purple dot; 1 keyword line at left reading “关键词 / 海风 外滩 霞光 玉兰” followed by a thin horizontal rule and small endpoint circle; 1 quote card at right with a purple quotation mark, the text “早安，让风把灵感吹亮。” and date “2026-07-11”; 1 vertical coordinate tag at far right reading “坐标 / SH-0711” with a small globe icon and purple dot below; 1 bottom-center copyright line reading “© 版权 / CITY POSTER ARCHIVE 2026”.
+
+Visual style: Minimal Chinese editorial poster, macro physical texture, elegant high-key lighting, shallow depth of field, soft fog, crisp black typography, small purple accent color, abundant breathing room, precise alignment, no clutter.
+
+Constraints: Keep all visible text exactly as specified, use exactly 2 magnolia blossoms and exactly 5 information elements, avoid extra logos or watermarks, avoid saturated colors, maintain a calm premium morning aesthetic.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2075748628153675845) | 2026-07-11
+
+---
+

@@ -2041,3 +2041,60 @@ Constraints: Keep the official character proportions and outfit details consiste
 
 ---
 
+### 🏛️ 例 3779：搞笑动漫风拉面店大乱斗
+
+![搞笑动漫风拉面店大乱斗](../../images/%E6%90%9E%E7%AC%91%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%8B%89%E9%9D%A2%E5%BA%97%E5%A4%A7%E4%B9%B1%E6%96%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 宽幅动漫风格的搞笑插画，场景设定在忙乱的日式拉面店厨房中。画面正前方：一位充满活力的橘发双马尾女孩，拥有闪亮的琥珀色眼睛，身穿印有白色大号日文「糖质」字样的黑色 T 恤、牛仔裤和破旧的棕色腰围裙，正用力挥动金属漏勺进行沥面动作；漏勺里装的不是面条，而是草莓奶油蛋糕等甜点，水花呈弧线状飞溅，极具动感。她表情热血、专注且在大声呼喊，带有汗珠和动态线条。左侧：一位紫发戴眼镜的女孩，表情疲惫呆滞，身穿黑色衬衫、牛仔裤、运动鞋和棕色围裙，正无奈地端着一摞高得离谱的拉面碗；在她上方添加一个对话气泡，内容为 {argument name="left speech bubble" default="元アイドルです。"}。右侧吧台处：一位戴着黑色贝雷帽、身穿黑色衬衫的娇小金发女孩，手里端着一碗放有草莓蛋糕和布丁甜点的拉面，表情惊讶；在她上方添加一个对话气泡，内容为 {argument name="right speech bubble" default="アイドルよね?"}。画面中必须包含 3 个可见角色：中间充满活力的橘发厨师、左侧无奈的紫发助手以及右侧惊讶的金发顾客。必须包含 2 个对话气泡，分别位于左侧助手和右侧顾客上方。必须包含 2 碗甜点拉面：一碗在金属漏勺中，另一碗由金发顾客端着。环境细节：前景为不锈钢台面和水槽，左侧有巨大的沸腾拉面锅，架子上堆放着碗，挂着纸灯笼，蓝色的暖帘上印有部分日文假名，右侧吧台上有筷子和调味瓶，暖色调的餐厅灯光，紧凑的透视感，富有深度。风格：精致的日本动漫主视觉图，清晰的线条，鲜艳的色彩，生动的表情，夸张的喜剧效果，定格的水滴，动态的低至中机位视角，背景细节丰富但构图清晰。使用 {argument name="main character hair color" default="orange"} 作为中心厨师的发色，{argument name="shop setting" default="小型日式拉面店厨房"} 作为场景，以及 {argument name="central shirt text" default="糖质"} 作为中心人物的衬衫文字。避免照片写实风格，避免增加额外角色，避免改变拉面碗、对话气泡或主要人物的数量。
+
+[English]
+Create a wide 16:9 anime-style comedic illustration set inside a cramped Japanese ramen shop kitchen during a frantic shift. Center foreground: an energetic orange-haired girl with twin ponytails and glowing amber eyes, wearing a black T-shirt with large white Japanese lettering 「糖質」, jeans, and a worn brown waist apron, aggressively performing noodle draining with a wire noodle strainer; instead of noodles, the strainer contains dessert-like sweets including a slice of strawberry shortcake, and water splashes dramatically in an arc. Her expression is hot-blooded, intense, and shouting, with sweat drops and dynamic motion lines. Left side: a lavender-haired girl with glasses, tired blank expression, black shirt, jeans, sneakers, and a brown apron, reluctantly carrying an absurdly tall stack of ramen bowls; add a speech bubble above her with {argument name="left speech bubble" default="元アイドルです。"}. Right side at the customer counter: a petite blonde girl in a black beret and black shirt holds a ramen bowl topped with strawberry shortcake and pudding-like desserts, looking surprised; add a speech bubble above her with {argument name="right speech bubble" default="アイドルよね?"}. Include exactly 3 visible characters: the energetic orange-haired cook in the center, the reluctant lavender-haired helper on the left, and the surprised blonde customer on the right. Include exactly 2 speech bubbles, one above the left helper and one above the right customer. Include exactly 2 dessert ramen bowls: one in the wire strainer and one held by the blonde customer. Environment details: stainless steel counter and sinks in the foreground, huge boiling ramen pots on the left, shelves with stacked bowls, hanging paper lanterns, blue noren curtains with partial Japanese kana, chopsticks and condiment bottles on the right counter, warm restaurant lighting, compact perspective with depth. Style: polished Japanese anime key visual, crisp line art, vibrant colors, expressive faces, exaggerated comedy, water droplets frozen in motion, dynamic low-to-mid camera angle, highly detailed background but readable composition. Use {argument name="main character hair color" default="orange"} for the central cook, {argument name="shop setting" default="small Japanese ramen shop kitchen"}, and {argument name="central shirt text" default="糖質"}. Avoid photorealism, avoid extra characters, avoid changing the count of bowls, speech bubbles, or main subjects.
+```
+
+**来源：** [@まるるん＠Nikke好き](https://x.com/TachMaru/status/2076023315039436839) | 2026-07-11
+
+---
+
+### 🏛️ 例 3829：夏日海滩侧影
+
+![夏日海滩侧影](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E4%BE%A7%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+主題：
+海辺の午後
+
+主体：
+縦長3:4の写真。南国の海辺にある藁葺きの小さなビーチカバナの下で、{argument name="年齢層" default="20代前半の成人女性"}が黒い編み込みのハンモックベンチに腰かけている。人物は画面中央やや右寄り、膝上から頭上までが大きく入り、全身の上半身と脚が画面の約7割を占める。背景には明るい青い海、白い波、遠くの水平線が広がる。
+
+人物・表情：
+明るいアイボリーベージュ寄りのなめらかな肌。頬、鼻先、肩、鎖骨に自然なハイライトが入り、過度な美肌補正ではなく肌理を残した繊細な質感。顔立ちは自然で現実感のある日系ポートレート。淡いローズピンクのチーク、ピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、柔らかいブラウン眉、透け感のあるピンクベージュのリップ。
+髪はダークブラウンのゆるいアップスタイル。薄めの前髪と顔まわりの後れ毛が潮風で少し乱れ、額と頬に細い毛束がかかる。頭を少し下げ、視線は斜め下。口元は静かに閉じ、穏やかで少し物思いに沈む表情。
+
+服装・ポーズ：
+上半身は{argument name="トップス" default="アイボリーのフリル付きホルターネック風ビーチトップ"}。胸元と裾に柔らかなフリル、中央に細いリボン紐、軽いコットンの凹凸と波打つ布の陰影。下は{argument name="ボトムス" default="濃いインディゴのデニムショートパンツ"}で、裾に自然なほつれ、腰まわりに白いサイドリボンが垂れている。
+身体は正面を向きつつ、重心は少し画面右へ。人物自身の右手は額の前髪に軽く触れ、指先は力を入れず自然に曲がる。人物自身の左手は画面右側の黒い編み込みベンチに置き、手のひらで体重を支える。脚は画面中央へまっすぐ下り、膝と太ももが近く寄る。座面の沈み込み、手首の接地、衣服の紐とフリルの重なりを正確に描く。
+
+背景・光：
+前景は藁葺き屋根の影、太い木の柱、黒い編み込みベンチ、砂浜のロープ状の模様。中景に薄いベージュのクッションと白い砂浜。後景には淡いターコイズブルーの海、白く光る波、右奥の遠い船影、柔らかくぼけた水平線。上部には藁葺きの屋根が画面幅いっぱいに入り、小さな吊り下げランプが左右に見える。
+光は左奥の海側から差し込む強めの午後の自然光。水面の反射が左側で白くきらめき、人物の肩、鎖骨、頬、腕に暖かいハイライトを作る。カバナの屋根とベンチには濃い影が落ち、砂浜には木の柱と編み込みの影が斜めに伸びる。海からの青い反射光が肌と白い服にほんのり入る。
+
+構図・カメラ：
+縦構図、85mm前後のポートレートレンズ、目線より少し高い位置からの自然な撮影。人物は中央やや右、頭上には藁葺き屋根の余白、足元は砂浜まで入る。左右の木の柱が画面を額縁のように囲み、上部の藁、中央の人物、奥の海で三層構成を作る。背景は浅い被写界深度でややぼかし、人物の顔、上半身、手元に焦点を合わせる。水平線は画面上半分に入り、海の明るさとカバナ内の影で明暗差を作る。
+
+質感・スタイル：
+リアルなプロカメラ撮影風。自然な肌の質感、布の編み目、デニムの厚み、黒い編み込みベンチの硬い繊維、藁屋根の乾いた質感を細かく描写する。色調は暖かいベージュ、アイボリー、濃いデニムブルー、澄んだ海の青。ハイライトは柔らかく、影はやや深め。雑誌の夏ポートレートのような上品で落ち着いた仕上がり。
+
+ネガティブ：
+未成年に見える表現、過度な性的強調、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、衣服の破綻、紐やフリルの崩れ、座面との接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2075828434023100743) | 2026-07-11
+
+---
+

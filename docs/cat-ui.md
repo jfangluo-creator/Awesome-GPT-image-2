@@ -7833,3 +7833,225 @@ Constraints: Do not add extra cards, extra chat bubbles, watermarks, logos, or c
 
 ---
 
+### 🖥️ 例 3795：Fauré 安魂曲光影海报
+
+![Fauré 安魂曲光影海报](../../images/Faur%C3%A9%20%E5%AE%89%E9%AD%82%E6%9B%B2%E5%85%89%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="musical work" default="D 小调安魂曲，作品 48 号"}（作者：{argument name="composer" default="Gabriel Fauré"}）创作一张精致的方形社交媒体编辑海报，展现安魂曲平静、明亮的一面，而非沉重阴郁的风格。
+
+画布：1:1 方形比例，768 x 768 px。将构图垂直分为两个板块：左侧为深海军蓝文字板块，占据约 59% 的宽度；右侧为氛围感抽象画板块，占据约 41% 的宽度。
+
+布局：左侧板块采用宽裕的页边距和优雅的编辑排版。左上角有一个金色小方块，后跟一个小型大写字母版块标签。主标题位于中上方，醒目且占据主导地位，分为 4 行堆叠。下方是一条简短的水平金色分割线。分割线下方是 2 行副标题。左下角附近是 2 行金色的作品/作曲家署名。最底部是极小的页脚标签。整个海报的右下角有一个极小的页码。
+
+文字内容：包含 7 个文字元素：1) 顶部标签：“UNA ESCUCHA INESPERADA”；2) 西班牙语主标题，全大写，带有倒问号：“¿UNA MISA / DE DIFUNTOS / QUE SUENA / A LUZ?”；3) 副标题：“40 minutos para descubrir / una feliz liberación.”；4) 作品署名：“Réquiem en re menor, Op. 48”；5) 作曲家署名：“Gabriel Fauré”；6) 页脚：“FAURÉ · RÉQUIEM OP. 48”；7) 页码：“01”。允许将标题自定义为 {argument name="headline text" default="¿UNA MISA DE DIFUNTOS QUE SUENA A LUZ?"}，将副标题自定义为 {argument name="subtitle text" default="40 minutos para descubrir una feliz liberación."}，同时保持相同的换行节奏。
+
+排版：主标题采用粗体高对比度古典衬线字体，白色，全大写，具有戏剧性的粗细笔画对比。辅助文字采用简洁的现代无衬线字体，主要为白色；作品/作曲家署名使用柔和的金色。运用强烈的排版层级和精确的对齐方式。
+
+视觉风格：极简、博物馆级质感，以文学和圣乐为主题。左侧背景为深午夜蓝，近乎黑色。强调色为温暖的古董金。右侧板块为柔和的抽象光影景观或教堂般的通道：奶油米色、淡金色、薄雾、细腻的笔触，底部有一条发光的弯曲光路，通向明亮朦胧的垂直空间。不包含人物、乐器或写实的教堂内部；保持空灵与宁静。
+
+约束条件：严格保持 2 板块构图和列出的 7 个文字元素。除单个金色小方块和一条金色分割线外，不得添加额外的 Logo、水印、图标或装饰性元素。确保西班牙语标题清晰易读。
+
+[English]
+Goal: Create a refined square social-media editorial poster about {argument name="musical work" default="Requiem in D minor, Op. 48"} by {argument name="composer" default="Gabriel Fauré"}, presenting a calm, luminous interpretation of a requiem rather than a dark one.
+
+Canvas: 1:1 square format, 768 x 768 px. Divide the composition vertically into 2 panels: a dark navy text panel on the left occupying about 59% of the width, and an atmospheric abstract painting panel on the right occupying about 41%.
+
+Layout: Left panel uses generous margins and elegant editorial spacing. Top-left has 1 small gold square bullet followed by a small uppercase section label. The main headline sits in the upper-middle, large and dominant, broken into 4 stacked lines. Below it is 1 short horizontal gold divider line. Under the divider is a 2-line subtitle. Near the lower-left is a small gold work/composer credit in 2 lines. At the very bottom-left is a tiny footer label. Bottom-right of the whole poster has a tiny page number.
+
+Text content: Include exactly 7 text elements: 1) top label: “UNA ESCUCHA INESPERADA”; 2) main headline in Spanish, all caps with inverted question mark: “¿UNA MISA / DE DIFUNTOS / QUE SUENA / A LUZ?”; 3) subtitle: “40 minutos para descubrir / una feliz liberación.”; 4) credit line: “Réquiem en re menor, Op. 48”; 5) composer line: “Gabriel Fauré”; 6) footer: “FAURÉ · RÉQUIEM OP. 48”; 7) page number: “01”. Allow the headline to be customized as {argument name="headline text" default="¿UNA MISA DE DIFUNTOS QUE SUENA A LUZ?"} and the subtitle as {argument name="subtitle text" default="40 minutos para descubrir una feliz liberación."} while preserving the same line-break rhythm.
+
+Typography: Main headline in a bold high-contrast classical serif, white, all caps, with dramatic thick-thin strokes. Supporting text in a clean modern sans serif, mostly white; the work/composer credit is muted gold. Use strong typographic hierarchy and precise alignment.
+
+Visual style: Minimal, museum-quality, literary and sacred-music themed. Left background is deep midnight navy, almost black. Accent color is warm antique gold. Right panel is a soft abstract luminous landscape or chapel-like passage: creamy beige, pale gold, mist, subtle brush texture, a glowing curved path of light near the bottom leading into a bright hazy vertical space. No figures, no instruments, no literal church interior; keep it ethereal and serene.
+
+Constraints: Keep exactly the 2-panel composition and exactly the 7 text elements listed. No extra logos, watermarks, icons, or decorative ornaments beyond the single gold square bullet and one gold divider line. Ensure the Spanish headline is crisp and legible.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2075950159578468394) | 2026-07-11
+
+---
+
+### 🖥️ 例 3805：手持蓝色苹果的动漫少女
+
+![手持蓝色苹果的动漫少女](../../images/%E6%89%8B%E6%8C%81%E8%93%9D%E8%89%B2%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插画，描绘一位可爱的少女坐在古朴欧洲鹅卵石街道的矮石墙上，双手捧着一个超大的光泽感 {argument name="apple color" default="深亮蓝色"} 苹果。她留着齐肩的 {argument name="hair color" default="柔棕色"} 齐刘海短发，有着明亮的大 {argument name="eye color" default="蓝色"} 眼睛，面带温柔的微笑，表情纯真。她身穿白色长袖圆领衬衫，外搭一件青蓝色灯芯绒背带裙，双膝并拢坐在画面前景。苹果的大小几乎与她的躯干相当，圆润且富有光泽，表面点缀着星光般的细小高光，带有棕色果柄和一片绿叶，清晰呈现出蓝色苹果的质感，而非绿色苹果。背景是阳光明媚的如画乡村小巷，有砖砌建筑、石墙、盆栽花卉、绿树、黑色路灯、栏杆旁的自行车，以及远处的屋顶和教堂尖塔；背景中需包含 2 个小人物：一名行人和一只小狗。采用左上方温暖的午后阳光，柔和的阴影，高细节，色彩鲜艳，线条清晰，细腻的绘画式阴影，以及以少女和苹果为视觉中心的微广角构图。无文字，无水印，无 Logo。
+
+[English]
+Create a polished anime-style illustration of a cute young girl sitting on a low stone wall in a charming old European cobblestone street, holding an oversized glossy {argument name="apple color" default="deep vivid blue"} apple in both hands. She has shoulder-length {argument name="hair color" default="soft brown"} hair with bangs, large bright {argument name="eye color" default="blue"} eyes, a gentle smile, and a wholesome expression. Her outfit is a white long-sleeve blouse with a rounded collar under a teal-blue corduroy pinafore dress with straps and buttons, seated with knees together in the foreground. The apple should be nearly as large as her torso, perfectly round, shiny, speckled with tiny star-like highlights, with a brown stem and one green leaf, clearly reading as a blue-colored apple rather than a green apple. The background is a picturesque sunlit village lane with brick buildings, stone walls, potted flowers, leafy trees, a black streetlamp, a bicycle near a railing, distant rooftops and a church spire; include exactly 2 small background figures: one walking person and one small dog. Use warm late-afternoon sunlight from the upper left, soft shadows, high detail, vibrant colors, clean line art, delicate painterly shading, and a slightly wide-angle composition with the girl and apple dominating the frame. No text, no watermark, no logo.
+```
+
+**来源：** [@r_AI_mel](https://x.com/r_AI_mel/status/2075923278779372016) | 2026-07-11
+
+---
+
+### 🖥️ 例 3811：精选 App 推广封面
+
+![精选 App 推广封面](../../images/%E7%B2%BE%E9%80%89%20App%20%E6%8E%A8%E5%B9%BF%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="app name" default="Highlighted"} 创建一张精致的方形推广封面图，展示一部现代 iPhone 以微倾角度直立在明亮的白色桌面上，呈现出简洁的生产力与阅读美学。在手机屏幕上，显示一个极简的画廊网格，包含 12 张保存的高亮卡片，排列为 3 列 4 行，每张卡片下方均有一行小的灰色标签；卡片展示了丰富的书籍类视觉元素，如古典肖像、黄色笔记本、相框照片、带绳的白纸条、红黄抽象封面、铅笔插画、深色雕像面孔、蓝色夜景封面、米色点阵页面、淡色帆船、海水以及气球景观。在手机 UI 底部，包含一个大的圆形蓝色添加按钮，中间带有白色加号。在手机周围环绕半透明的悬浮功能小组件：左侧为一个药丸状工具栏，包含 5 个元素——一个纸飞机/过滤器图标和 4 个白色、浅灰色、黑色及深蓝色的圆形色块；右上角为一个毛玻璃质感的音频卡片，带有播放按钮和 5 行水平转录文本，其中包含 2 行黄色高亮文本；右侧中间为一个磨砂质感的音频波形卡片，带有发光的圆形球体和蓝色波形；右下角为一个磨砂质感的动作工具栏，包含 5 个图标——文档、V 型箭头、分享、云端上传和信封。桌面道具包括左侧一个装有文件夹的白色托盘（带有一个绿色电子表格文档图标）、前景中一叠淡色便签、右下角一本带有黄色高亮文本的打开的书籍、带有高亮段落的散页纸张，以及右侧一叠精装书。采用柔和的自然窗光、浅景深、逼真的高端产品摄影风格，色调以奶油白和暖中性色为主，配以细腻的阴影、玻璃质感的半透明 UI 叠加层，手机细节清晰，除类 App 界面外无可见品牌 Logo，无水印，除简单的 UI 标记外无额外文字。采用适合应用内活动封面的高级发布推广构图，{argument name="image aspect ratio" default="1:1 正方形"}。
+
+[English]
+Create a polished square promotional cover image for {argument name="app name" default="Highlighted"}, showing a modern iPhone standing upright at a slight angle on a bright white desk, with a clean productivity-and-reading aesthetic. On the phone screen, display a minimalist gallery grid of exactly 12 saved highlight cards arranged in 3 columns by 4 rows, each with a small gray label line beneath it; the cards show varied bookish visuals such as a classical portrait, yellow notebook, framed photo, white note with cord, red-and-yellow abstract cover, pencil illustration, dark statue face, blue night cover, beige dotted page, pale sails, ocean water, and a balloon landscape. At the bottom of the phone UI, include a large rounded blue add button with a white plus sign. Surround the phone with translucent floating feature widgets: on the left, one pill-shaped toolbar with exactly 5 elements—a paper-plane/filter icon and 4 circular color swatches in white, light gray, black, and navy; on the upper right, one glassmorphism audio card with a play button and 5 horizontal transcript lines including 2 yellow highlight lines; in the middle right, one frosted audio waveform card with a glowing circular orb and blue waveform; on the lower right, one frosted action toolbar with exactly 5 icons—a document, chevron arrow, share, cloud upload, and envelope. Desk props include a white tray of folders with a green spreadsheet document icon on the left, a small stack of pastel sticky notes in the foreground, an open book with yellow highlighted text at bottom right, loose papers with highlighted passages, and a stack of hardcover books on the right. Use soft natural window light, shallow depth of field, realistic high-end product photography, creamy whites and warm neutrals, subtle shadows, glassy translucent UI overlays, crisp phone details, no visible brand logos except the app-like interface, no watermark, no extra text beyond simple UI marks. Use a premium launch-promo composition suitable for an in-app event cover, {argument name="image aspect ratio" default="1:1 square"}.
+```
+
+**来源：** [@Damir Stuhec](https://x.com/stuhecdamir/status/2075903698161541623) | 2026-07-11
+
+---
+
+### 🖥️ 例 3815：优雅的紫色和服男子
+
+![优雅的紫色和服男子](../../images/%E4%BC%98%E9%9B%85%E7%9A%84%E7%B4%AB%E8%89%B2%E5%92%8C%E6%9C%8D%E7%94%B7%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直全身的动漫风格插画，主角是 {argument name="character name" default="一位优雅的年轻男子"}，呈现出精致的日式幻想美学。他拥有 {argument name="hair color" default="飘逸的银白色长发"}、白皙的皮肤、纤细优雅的身材、柔和的紫灰色双眸，以及一抹平静而略带调皮的微笑；他的头发在耳后松散地束起，长长的发丝向左侧飘动。为他穿上一套层次分明的正式和服：深 {argument name="kimono color" default="皇家紫"} 内袍，黑色腰带配有细金链装饰，黑白木屐，以及一件半透明的淡紫色外羽织，羽织带有长长的丝带状衣摆，随风剧烈飘动。服装上装饰着精致的白色牡丹和金色植物刺绣，配以半透明的褶皱和写意的高光。他右手抬起，在脸部附近精确地持有一把打开的折扇；折扇为奶油色和深棕色，带有白色花卉装饰。画面中仅展示 1 个站立角色、1 把折扇、他上半身背后 1 个巨大的柔和金色圆月盘、背景中 3 个紫色云纹丝带图案，以及服装外 7 朵显眼的白色牡丹花：扇子右侧 1 簇，右肩及躯干附近 3 朵，左下侧 2 朵，袍子左下中心后方 1 朵。在他周围添加散落的白色花瓣和细小的金色斑点，并在脚下和袍子后方添加优雅的圆形水墨涟漪。使用带有细微纹理的柔和象牙色羊皮纸背景，点缀柔和的金色，构图流畅，线条细腻，采用水彩和水墨渲染，细节丰富，氛围空灵，画面中不含任何文字或水印。最终图像应为 {argument name="aspect ratio" default="2:3 垂直比例"}，居中构图，从头部到木屐完整呈现全身。
+
+[English]
+Create a vertical full-body anime-style illustration of {argument name="character name" default="an elegant young man"} in a refined Japanese fantasy aesthetic. He has {argument name="hair color" default="long silvery-white hair"}, pale skin, a slim graceful build, soft violet-gray eyes, and a calm slightly mischievous smile; his hair is tied loosely behind one ear with long flowing strands drifting left. Dress him in a layered formal kimono: a deep {argument name="kimono color" default="royal purple"} inner robe, black obi belt with thin gold chain details, black-and-white geta sandals, and a translucent lavender outer haori that billows dramatically with long ribbon-like panels. The clothing is decorated with delicate white peony and gold botanical embroidery, with semi-transparent fabric folds and painterly highlights. He holds exactly 1 open folding fan near his face in his raised right hand; the fan is cream and dark brown with white floral decoration. Show exactly 1 standing character, exactly 1 fan, exactly 1 large muted gold circular moon disk behind his upper body, exactly 3 purple cloud-ribbon motifs in the background, and exactly 7 prominent white peony blossoms outside the clothing: 1 cluster to the right of his fan, 3 blossoms on the right side near his shoulder and torso, 2 blossoms on the lower left side, and 1 blossom near the lower center-left behind the robe. Add scattered white petals and small gold flecks around him, plus elegant circular ink-like water ripples around his feet and behind the robe. Use a soft ivory parchment background with subtle texture, muted gold accents, flowing composition, delicate line art, watercolor and ink wash rendering, high detail, ethereal atmosphere, and no text or watermark. The final image should be {argument name="aspect ratio" default="2:3 vertical"}, centered, with the full figure visible from head to sandals.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075892858499055773) | 2026-07-11
+
+---
+
+### 🖥️ 例 3821：13enBus iPhone 发布横幅
+
+![13enBus iPhone 发布横幅](../../images/13enBus%20iPhone%20%E5%8F%91%E5%B8%83%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为公共交通应用 {argument name="app name" default="13enBus"} 创建一张高分辨率的法语社交媒体宣传横幅，以精美的广告风格宣布其 iPhone 版本上线。
+
+画布：宽屏 16:9 横幅，尺寸约为 1200×675 像素。使用明亮的地中海户外场景，背景采用浅景深效果：蓝天、模糊的绿色山谷、远处的岩石山脉，以及右侧带有公交候车亭的阳光明媚的道路。
+
+布局：在左侧放置醒目的法语大标题，对比强烈：“13enBus —”采用亮蓝色，后接大号白色文字“Enfin sur iPhone !”，旁边配有一个绿色苹果表情符号。下方添加白色副标题“Vos bus en temps réel à Trets et dans la vallée”。在中心前景处，展示一只手拿着一部现代黑色 iPhone 的写实画面。手机屏幕上显示简洁的应用引导界面，包含一张小型交通卡、标题“Vos prochains bus, en un coup d'œil.”、一个蓝色“Suivant”按钮以及细致的应用界面细节。从右侧指向手机小型交通卡处有一个红色箭头，突出显示一个被圈出的等待时间。
+
+主体细节：手机屏幕应包含 1 张小型交通卡，显示 3 行可见的公交信息：15 路“Château-Gombert”及红色圆圈强调的“2 min”，15 路“Auriol”及“7 min”，以及 85 路“Les Caillols”及“8 min”。在手机右后方，放置 1 辆写实的白蓝相间城市公交车，正行驶在道路上，车头略微朝向观众，车头显示牌上可见 13 路编号。
+
+功能标注：在右侧，堆叠 3 个圆角白色胶囊状功能框，左侧配有蓝色圆形图标，右侧为加粗的黑色法语文字。这 3 个功能框分别是：1) 黄色铃铛图标，“Alarmes de station anti-retard”；2) 黄色警告三角图标，“Suivi des déviations et travaux”；3) Instagram 风格渐变相机图标，“Infos trafic sur Insta : {argument name="instagram handle" default="@13enbus"}”。
+
+底部横幅：在底部添加一条全宽红色长条，最左侧带有小型的“100% GRATUIT”徽章，中间为白色大号大写文字：“100% GRATUIT & SANS INSCRIPTION | DISPONIBLE SUR APP STORE & GOOGLE PLAY”。
+
+视觉风格：写实的高清广告合成图，排版清晰，色彩饱和，阳光强烈，专业的应用发布活动设计。采用简洁的法国交通应用品牌风格，搭配蓝、白、红、绿配色。保持手机和文字清晰，同时背景保持柔和模糊。
+
+限制：必须使用文中描述的 3 个功能标注、1 部手机、1 只手、1 辆公交车、1 条底部红色横幅和 1 个绿色苹果表情符号。不得包含额外标志、水印或任何其他无关文字。
+
+[English]
+Goal: Create a high-resolution French promotional social media banner for the public transport app {argument name="app name" default="13enBus"}, announcing its iPhone availability in a polished advertising style.
+
+Canvas: Wide horizontal 16:9 banner, approximately 1200×675 px. Use a bright Mediterranean outdoor setting with a shallow-depth-of-field background: blue sky, blurred green valley, distant rocky mountain, and a sunny road with a bus stop shelter on the right.
+
+Layout: On the left, place a large bold headline in French with strong contrast: “13enBus —” in bright blue followed by “Enfin sur iPhone !” in large white text, with a green apple emoji beside it. Under it, add the subtitle “Vos bus en temps réel à Trets et dans la vallée” in white. In the center foreground, show a realistic hand holding a modern black iPhone vertically. On the phone screen, display a clean app onboarding screen with a small transit card, the heading “Vos prochains bus, en un coup d'œil.”, a blue “Suivant” button, and tiny app interface details. A red arrow points from the right toward the phone’s small transit card, highlighting a circled waiting time.
+
+Main subject details: The phone screen should include exactly 1 small transit card with exactly 3 visible bus rows: line 15 “Château-Gombert” with “2 min” emphasized in a red circle, line 15 “Auriol” with “7 min”, and line 85 “Les Caillols” with “8 min”. Behind the phone on the right, place exactly 1 realistic white-and-blue city bus driving on the road, front facing slightly toward the viewer, with route number 13 visible on its sign.
+
+Feature callouts: On the right side, stack exactly 3 rounded white pill-shaped feature boxes with blue circular icons on the left and bold black French text. The 3 boxes are: 1) yellow bell icon, “Alarmes de station anti-retard”; 2) yellow warning triangle icon, “Suivi des déviations et travaux”; 3) Instagram-style gradient camera icon, “Infos trafic sur Insta : {argument name="instagram handle" default="@13enbus"}”.
+
+Bottom banner: Add a full-width red strip along the bottom with a small “100% GRATUIT” badge at the far left and large white uppercase text: “100% GRATUIT & SANS INSCRIPTION | DISPONIBLE SUR APP STORE & GOOGLE PLAY”.
+
+Visual style: Realistic HD advertising composite, crisp typography, saturated colors, strong sunlight, professional app launch campaign design. Use clean French transit-app branding with blue, white, red, and green accents. Keep the phone and text sharp while the background remains softly blurred.
+
+Constraints: Use exactly the described 3 feature callouts, exactly 1 phone, exactly 1 hand, exactly 1 bus, exactly 1 bottom red banner, and exactly 1 green apple emoji. No extra logos, no watermark, no additional unrelated text.
+```
+
+**来源：** [@Gregory Janssens](https://x.com/himselfprod/status/2075875434713985480) | 2026-07-11
+
+---
+
+### 🖥️ 例 3827：日式悬疑游戏网站模型
+
+![日式悬疑游戏网站模型](../../images/%E6%97%A5%E5%BC%8F%E6%82%AC%E7%96%91%E6%B8%B8%E6%88%8F%E7%BD%91%E7%AB%99%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="site title" default="月蝕綺譚"} 的日式悬疑/恐怖游戏社区创建一个精致的响应式网站模型，并排展示桌面浏览器窗口和智能手机屏幕。
+
+画布：浅灰色背景上的 16:9 展示图。左侧放置一个占据约 75% 宽度的桌面浏览器模型，右侧放置一个纵向的智能手机模型。使用柔和阴影、圆角设备边框和逼真的 UI 框架。
+
+视觉风格：优雅的日式哥特悬疑美学，米白色和纸纹理背景，深藏青色面板，细灰色边框，柔和的红色点缀，精致的日文衬线字体，细腻的墨迹线条，新月图案，档案文件，古地图，暗黑森林/夜景意象，以及克制的优质网页设计间距。
+
+桌面布局：浏览器窗口顶部带有深色工具栏和三个小型圆形窗口按钮。页眉左侧包含网站标题 Logo 「月蝕綺譚」，带有细长的新月弧线和红色印章标记；中间包含 4 个导航链接，分别为 「お知らせ」、「開発記録」、「ご意見箱」、「アーカイブ」；右侧为一个深藏青色的行动号召按钮，标注为 「メールで会員になる」。下方创建一个首屏区域，左侧为大型深色图像区，右侧为注册卡片。首屏图像展示了阴云密布的夜空，带有发光的新月蚀和垂直标题文字 「月蝕綺譚」，并配有精细的圆形轨道线和小型垂直注释。叠加一个半透明的档案风格面板，包含旧日式文件和 5 张小型缩略图卡片；在首屏图像底部包含 5 张水平排列的缩略图：深夜的古建筑、蓝图风格的房间绘图、深色象征性细节、手写文档以及带有地图/屏幕的桌面。
+
+注册卡片：在桌面端首屏右侧，创建一个带有缺口的奶油色票据形卡片，配有细边框、小型红色标签 「入会札」、标题 「メールで会員になる」、信封图标、简短说明文案、一个带有占位符 「メールアドレスを入力」 的电子邮件输入框，以及一个标注为 「登録する」 并带有向右箭头的红色按钮。下方添加小型隐私政策风格文本。
+
+桌面端下方内容：在首屏下方，左侧放置一段大型介绍信息，配有垂直红线和标题 {argument name="intro headline" default="物語の続きを、いちばん近くで。"}，以及小型灰色正文。右侧并排放置 3 张文章卡片。卡片 1 标题区为 「月蝕綺譚 最新便」，配有月亮图像、红色 NEW 标签、标题 「大型アップデート『〇〇』を公開しました」、日期 2024.05.20。卡片 2 标题区为 「開発記録」，配有笔记本和笔的图像、标题 「開発記録 #12：環境演出の調整について」、日期 2024.05.18。卡片 3 标题区为 「ご意見箱」，配有深色邮箱图像、标题 「ご意見・ご感想をお聞かせください」、日期 2024.05.16。每张卡片标题栏均有一个向右的小箭头和灰色摘要行。
+
+页脚：深藏青色页脚横跨桌面宽度，包含 6 个链接： 「お知らせ」、「開発記録」、「ご意見箱」、「アーカイブ」、「利用規約」、「プライバシーポリシー」。在右侧附近添加一个新月图标，并标注版权文字 「© 2024 月蝕綺譚」。
+
+移动端布局：展示同一网站的智能手机预览。顶部状态栏显示 9:41，随后是包含 「月蝕綺譚」 Logo 和汉堡菜单图标的紧凑型页眉。移动端页面垂直堆叠：首屏月亮图像及标题、水平排列的 5 张小型缩略图、介绍标题 「物語の続きを、いちばん近くで。」、与桌面端相同的票据式电子邮件注册卡片，随后是第一条新闻卡片 「月蝕綺譚 最新便」（含月亮图像和 NEW 标签）。确保所有元素均呈现为桌面端布局的移动响应版本。
+
+约束：仅在指定位置使用日文文本，保持排版清晰易读，避免添加描述之外的额外部分，严格保留 4 个桌面端导航链接、5 张首屏缩略图、3 张桌面端文章卡片、6 个页脚链接以及 1 个移动端汉堡菜单的准确数量。
+
+[English]
+Goal: Create a polished responsive website mockup for a Japanese mystery / horror game community called {argument name="site title" default="月蝕綺譚"}, shown as both a desktop browser window and a smartphone screen side by side.
+
+Canvas: 16:9 presentation image on a light gray background. Place a large desktop browser mockup on the left, occupying about 75% of the width, and a tall smartphone mockup on the right. Use soft shadows, rounded device corners, and realistic UI framing.
+
+Visual style: Elegant Japanese gothic mystery aesthetic, off-white washi-paper texture backgrounds, deep navy-black panels, thin gray borders, muted red accents, refined serif Japanese typography, subtle ink-like lines, crescent moon motifs, archival documents, old maps, dark forest/night imagery, and restrained premium web-design spacing.
+
+Desktop layout: A browser window with a dark top chrome bar and three small circular window buttons. Header contains the site title logo 「月蝕綺譚」 on the left with a thin crescent arc and red seal mark, 4 centered navigation links labeled 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, and a dark navy call-to-action button on the right labeled 「メールで会員になる」. Below, create a hero section split into a large dark image area on the left and a signup card on the right. The hero image shows a cloudy night sky with a glowing eclipsed crescent moon and vertical title text 「月蝕綺譚」, with fine circular orbit lines and small vertical annotations. Overlay a translucent archive-style panel containing old Japanese documents and 5 small thumbnail cards; along the bottom of the hero image include exactly 5 horizontal thumbnail images: an old building at night, a blueprint-like room drawing, a dark symbolic detail, handwritten documents, and a desk with maps/screens.
+
+Signup card: On the right of the desktop hero, create a cream ticket-shaped card with notched edges, thin border, small red label 「入会札」, headline 「メールで会員になる」, an envelope icon, short explanatory copy, one email input field with placeholder 「メールアドレスを入力」, and a red button labeled 「登録する」 with a right arrow. Add small privacy-policy style text beneath.
+
+Desktop lower content: Under the hero, place a large intro message on the left with a vertical red line and headline {argument name="intro headline" default="物語の続きを、いちばん近くで。"}, plus small gray body copy. To the right, place exactly 3 article cards in a row. Card 1 title section 「月蝕綺譚 最新便」 with a moon image, red NEW tag, headline 「大型アップデート『〇〇』を公開しました」, date 2024.05.20. Card 2 title section 「開発記録」 with a notebook and pen image, headline 「開発記録 #12：環境演出の調整について」, date 2024.05.18. Card 3 title section 「ご意見箱」 with a dark mailbox image, headline 「ご意見・ご感想をお聞かせください」, date 2024.05.16. Each card has a small right arrow in the header and gray teaser lines.
+
+Footer: Dark navy footer spanning the desktop width with exactly 6 links: 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, 「利用規約」, 「プライバシーポリシー」. Add a crescent moon icon near the right and copyright text 「© 2024 月蝕綺譚」.
+
+Mobile layout: Show a smartphone preview of the same site. Top status bar reads 9:41, followed by a compact header with 「月蝕綺譚」 logo and a hamburger menu icon. The mobile page stacks vertically: hero moon image with title, exactly 5 small thumbnails in a horizontal strip, intro headline 「物語の続きを、いちばん近くで。」, the same ticket-style email signup card, then the first news card 「月蝕綺譚 最新便」 with the moon image and NEW tag. Ensure all elements feel like the mobile-responsive version of the desktop layout.
+
+Constraints: Use only Japanese text where specified, keep typography crisp and legible, avoid extra sections beyond those described, preserve the exact counts of 4 desktop nav links, 5 hero thumbnails, 3 desktop article cards, 6 footer links, and 1 mobile hamburger menu.
+```
+
+**来源：** [@Masa/マーケティング×生成AIの「株式会社ユーダイモニア」代表](https://x.com/psychonurseblog/status/2075852642203697207) | 2026-07-11
+
+---
+
+### 🖥️ 例 3850：豪华冰箱里的微型人像
+
+![豪华冰箱里的微型人像](../../images/%E8%B1%AA%E5%8D%8E%E5%86%B0%E7%AE%B1%E9%87%8C%E7%9A%84%E5%BE%AE%E5%9E%8B%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超精细、超现实且写实风格的竖版图片，展示一台高端透明豪华冰箱的内部，冰箱内塞满了色彩鲜艳的新鲜水果、蔬菜、甜点、蛋糕、冰淇淋、软饮、牛奶瓶、巧克力棒和清爽的夏季零食。主体是 {argument name="character description" default="一位留着时尚黑发的帅气亚洲年轻男子"}，身穿 {argument name="outfit" default="一件宽松的浅灰色 T 恤、深炭灰色短裤、白色运动鞋，并戴着黑色太阳镜"}，正悠闲地坐在冰箱中央的玻璃搁板上，微笑着吃着香草巧克力碎冰淇淋甜筒。采用冷色调的蓝色冰箱灯光、冷雾、凝结的水珠、透明玻璃搁板、明亮的顶部冰箱灯、电影质感的反射、超写实的纹理、清晰的产品摄影细节，以及俏皮的微型世界奇幻比例。
+
+展示该男子的 12 个不同比例和姿态的实例：1 个大型中心人物坐在中间吃冰淇淋甜筒；2 个微型人像在左上方的冰雾中踩着黄色冲浪板冲浪；3 个微型人像站在顶层搁板上，在右上方的冰淇淋桶和蛋糕旁手持红色水果；4 个微型人像站在左侧中间搁板的青葡萄丛中；5 个微型人像在右侧中间搁板的一颗大草莓和生菜旁攀爬；6 个微型人像从左侧中心的一个牛奶瓶后探出头来；7 个微型人像坐在左下方的巨大草莓上；8 个微型人像坐在右侧果汁瓶旁弯曲的香蕉串上；9 个微型人像在左下方的中心附近推着装满水果的小购物车；10 个微型人像斜靠在右下方的生菜叶上；11 个微型人像在右下方攀爬堆叠的黑巧克力块；12 个微型人像在底部前景处搬运或与大型水果互动。
+
+食物和产品内容应包含以下主要可见组别：顶层搁板上的两个冰淇淋桶、一个糖霜纸杯蛋糕、一个带有樱桃的长方形分层巧克力蛋糕、成串的青葡萄、一颗大草莓、绿叶生菜、牛奶瓶、橙汁瓶、冰箱门上的汽水罐、香蕉、巨大的草莓、装有混合水果的微型购物车、带有高级标签的堆叠黑巧克力块、黄瓜、甜椒、苹果、橙子、葡萄柚、西瓜片、红葡萄，以及一个巨大的青苹果或梨。包含可辨识的产品风格标签，例如 {argument name="milk label" default="Fresh Milk"}、{argument name="ice cream label" default="Premium ICE CREAM"} 和 {argument name="chocolate label" default="70% COCOA"}，但要使其呈现为自然的包装文字，而非图形排版。
+
+构图：2:3 竖版画布，从冰箱内部向外看的正面视角，大型中心人物占据中间位置，周围环绕着微型复制版本和超大号食物。比例要充满奇趣但保持写实，所有复制人物的相貌需保持一致，具备逼真的阴影和接触点，无拼贴痕迹，无额外人物，无扭曲的肢体，无难以辨认的杂乱，无水印。
+
+[English]
+Create an ultra-detailed surreal photorealistic vertical image of a premium transparent luxury refrigerator interior filled edge-to-edge with colorful fresh fruits, vegetables, desserts, cakes, ice cream, soft drinks, milk bottles, chocolate bars, and refreshing summer treats. The main subject is {argument name="character description" default="a handsome young Asian man with stylish black hair"}, wearing {argument name="outfit" default="a loose light gray T-shirt, dark charcoal shorts, white sneakers, and black sunglasses"}, sitting casually in the center of the refrigerator on a glass shelf, smiling while eating a vanilla chocolate-chip ice cream cone. Use glossy blue refrigerator lighting, cold mist, condensation, transparent glass shelves, bright overhead fridge lamps, cinematic reflections, hyperreal texture, crisp product-photography detail, and a playful miniature-world fantasy scale.
+
+Show exactly 12 instances of the same man at different scales and poses: 1 large central man sitting and eating an ice cream cone; 2 tiny man surfing on a yellow surfboard through icy splashing mist at the upper left; 3 tiny man standing on the top shelf holding a red fruit beside ice cream tubs and cake at the upper right; 4 tiny man standing among green grapes on the left middle shelf; 5 tiny man climbing beside a large strawberry and lettuce on the right middle shelf; 6 tiny man peeking from behind a milk bottle on the left center; 7 tiny man sitting on giant strawberries at the lower left; 8 tiny man sitting on a curved bunch of bananas beside juice bottles on the right; 9 tiny man pushing a small shopping cart full of fruit near the lower center-left; 10 tiny man reclining on lettuce leaves on the lower right shelf; 11 tiny man climbing stacked dark chocolate bars near the lower right; 12 tiny man carrying or interacting with large fruit pieces near the bottom foreground.
+
+Food and product contents should include exactly these major visible groups: two ice cream tubs on the top shelf, one frosted cupcake, one rectangular layered chocolate cake with cherries, clusters of green grapes, a large strawberry, leafy green lettuce, milk bottles, orange juice bottles, soda cans on the refrigerator door, bananas, giant strawberries, a miniature shopping cart with mixed fruit, stacked dark chocolate bars with premium labels, cucumbers, bell peppers, apples, oranges, grapefruit, watermelon slices, red grapes, and a large green apple or pear. Include readable product-style labels such as {argument name="milk label" default="Fresh Milk"}, {argument name="ice cream label" default="Premium ICE CREAM"}, and {argument name="chocolate label" default="70% COCOA"}, but keep them natural as packaging text rather than graphic typography.
+
+Composition: vertical 2:3 canvas, front-facing view from inside the refrigerator, the large central figure dominates the middle, surrounded by miniature duplicate versions and oversized food items. Make the scale whimsical but photorealistic, with consistent likeness across all duplicate figures, realistic shadows and contact points, no collage seams, no extra people, no warped limbs, no unreadable clutter, no watermark.
+```
+
+**来源：** [@Mehwish kiran](https://x.com/mehwishkiran07/status/2075771839457140810) | 2026-07-11
+
+---
+

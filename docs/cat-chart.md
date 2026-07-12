@@ -3174,3 +3174,149 @@ Constraints: Keep all Japanese text accurate and readable, avoid extra headings 
 
 ---
 
+### 📊 例 3772：日式鲜花碳酸饮料保鲜信息图
+
+![日式鲜花碳酸饮料保鲜信息图](../../images/%E6%97%A5%E5%BC%8F%E9%B2%9C%E8%8A%B1%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E4%BF%9D%E9%B2%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版日式教育信息图，总结 {argument name="headline text" default="切り花に炭酸飲料を入れる方法とメリット・デメリットまとめ"}，解释如何在花瓶水中添加碳酸饮料，并涵盖其益处、弊端、推荐稀释比例、操作步骤及更基础的护理方法。
+
+画布：竖版 4:5 信息图，采用暖米色背景，搭配清爽的杂志风排版、柔和的马卡龙色边框、圆角信息卡片、细腻的阴影效果，营造亲切的家庭园艺氛围。平衡使用扁平化矢量图标与小型写实照片。主色调：珊瑚粉、巧克力棕、薄荷绿、淡黄、天蓝及浅灰。
+
+顶部标题：使用醒目的日式大标题，其中关于碳酸饮料的短语用珊瑚粉色强调，其余部分为深棕色。下方添加绿色小副标题：{argument name="subtitle text" default="海外で話題の「花を長持ちさせる裏技」を正しく知って、きれいなお花を長く楽しみましょう。"}。右上角放置一张写实风格的插花照片，花瓶为透明玻璃材质，放置在木桌上，花束包含粉色非洲菊、奶油色玫瑰、白色填充花及绿植。旁边放置 2 瓶饮料：一罐红色可乐，标签为“COLA”；一瓶蓝色汽水，标签为“CIDER”。下方展示 2 张竖向的小型水质对比照片：一张为清澈的水，另一张为棕色/浑浊的水。
+
+主要内容区：使用 2 张并排的圆角卡片。
+卡片 1（左侧，淡黄色标题栏）：标题 {argument name="benefits section title" default="なぜ炭酸飲料で花が長持ちする言われるの？"}。包含 2 个带粉色圆形数字标签的益处点：1) “糖分が栄養になる”（糖分转化为能量），配方糖堆叠图标，文字说明汽水中的糖分可作为鲜花能量来源；2) “酸性成分が働く”（酸性成分的作用），配水滴图标，文字说明酸性有助于水分吸收。
+卡片 2（右侧，淡粉色标题栏，带黄色警告三角图标）：标题“知っておきたいデメリット・注意点”。包含 4 个带红色 X 图标的警告点：1) 糖分易滋生细菌导致茎部腐烂；2) 水质易浑浊，影响美观；3) 深色饮料（如可乐）会改变水色，降低观赏性；4) 过量使用适得其反，高浓度可能阻碍水分吸收并导致枯萎。文字保持简洁，使用日语。
+
+中部蓝色操作区：创建一个带蓝色边框和淡蓝色填充的宽圆角矩形，分为两列。
+左列标题：“炭酸飲料の入れ方（おすすめの割合）”。包含蓝色圆形标签“おすすめの割合”及公式：“炭酸飲料：水 = 1：10 ～ 1：20程度”，附带小字示例“例：水1リットルに炭酸飲料50〜100ml”。添加“ポイント”小节，包含 2 个勾选符号：尽可能使用无色素的透明汽水；深色饮料即使少量也会染色。
+右列标题：“手順”。包含 4 个带蓝色圆圈的步骤：1) 在花瓶中倒入清水；2) 按上述比例加入碳酸饮料；3) 轻微搅拌；4) 插入鲜花。添加淡黄色备注框：“水はこまめに交換しましょう（できれば毎日）”。最右侧添加一个简单的等式插图：水滴图标（“水”）加装有黄色气泡液体的玻璃杯（“炭酸飲料”）。
+
+底部绿色护理区：一个带绿色标题的宽圆角矩形：{argument name="care section title" default="切り花を長持ちさせる基本のお手入れ（炭酸飲料より効果的！）"}。内部并排 4 张等大的护理卡片，每张包含绿色数字圆圈、简短日语标题、写实缩略图、说明文字及绿色“ポイント”标签。4 张卡片内容为：1) “茎を斜めに切り戻す”，配手持刀具斜切茎部的照片，说明有助于吸水保鲜，要点：在水中剪切以防空气进入；2) “こまめに水替え”，配向玻璃花瓶注水的照片，说明每天或隔天换水，要点：换水时修剪茎部；3) “葉が水に浸からないようにする”，配茎叶浸入花瓶的照片，说明浸水叶片腐烂会滋生细菌，要点：去除水位以下的叶片并保持通风；4) “市販の延命剤を使う”，配花瓶旁鲜花保鲜剂的照片，说明其含有营养和抗菌成分，要点：遵循产品说明。
+
+底部总结栏：使用两个圆角框。左侧较大的淡粉色框标注“まとめ”，配小花图标，文字说明碳酸饮料在适当浓度下可辅助保鲜，但彻底的基础护理才是最重要的秘诀。右侧较小的淡粉色建议框标注“一言アドバイス”，配花瓶小图标，建议避开直射阳光和空调风，将花放置在阴凉处。
+
+风格限制：日语排版需清晰、亲切，标题加粗；使用整齐的网格对齐和充足的留白。除指定数量外，不得添加额外部分或重复项。避免使用水印、二维码、人物或除“COLA”和“CIDER”标签外的品牌 Logo。
+
+[English]
+Goal: Create a vertical Japanese educational infographic summarizing {argument name="headline text" default="切り花に炭酸飲料を入れる方法とメリット・デメリットまとめ"}, explaining how to add carbonated soft drinks to cut flower vase water, with benefits, drawbacks, recommended dilution, procedure, and better basic care methods.
+
+Canvas: Portrait 4:5 infographic, clean magazine-style layout on a warm off-white background, soft pastel borders, rounded information cards, subtle shadows, friendly household gardening aesthetic. Use a balanced mix of flat vector icons and small realistic photo panels. Main colors: coral pink, chocolate brown, mint green, pale yellow, sky blue, and light gray.
+
+Top header: Large bold Japanese headline in two colors, with the phrase about carbonated drinks emphasized in coral pink and the rest in dark brown. Under it, add a smaller green subtitle: {argument name="subtitle text" default="海外で話題の「花を長持ちさせる裏技」を正しく知って、きれいなお花を長く楽しみましょう。"}. On the upper right, place a realistic photo-style bouquet in a clear glass vase on a wooden table, with pink gerbera daisies, cream roses, small white filler flowers, and greenery. Beside it show exactly 2 drink bottles/cans: one red cola can labeled “COLA” and one blue cider bottle labeled “CIDER”. Below them show exactly 2 small vertical photo panels of vase water: one clear water close-up and one brown/tinted water close-up.
+
+Main upper content area: Use exactly 2 side-by-side rounded cards.
+Card 1, left, pale yellow title bar: title text {argument name="benefits section title" default="なぜ炭酸飲料で花が長持ちする言われるの？"}. Include exactly 2 numbered benefit rows with pink circular number badges: 1) “糖分が栄養になる” with a simple icon of stacked sugar cubes, and explanatory small text saying sugar in soda may be used as flower energy; 2) “酸性成分が働く” with a blue water drop icon, and small text saying acidity may help water uptake.
+Card 2, right, pale pink title bar with a yellow warning triangle icon: title “知っておきたいデメリット・注意点”. Include exactly 4 warning rows, each with a red X icon: 1) sugar can encourage miscellaneous bacteria and make stems rot; 2) water becomes cloudy easily and looks bad; 3) dark-colored drinks such as cola can color the water and reduce visual beauty; 4) too much can have the opposite effect because excessive concentration may worsen water uptake and cause wilting. Keep text concise and Japanese.
+
+Middle blue instruction band: Create one wide rounded rectangle with a blue outline and pale blue fill. Divide into two columns.
+Left column title: “炭酸飲料の入れ方（おすすめの割合）”. Include a blue circular label “おすすめの割合” and a large formula: “炭酸飲料：水 = 1：10 ～ 1：20程度”, with small example text “例：水1リットルに炭酸飲料50〜100ml”. Add a “ポイント” subsection with exactly 2 checkmark bullet points: use clear cider/soda without artificial color when possible; dark drinks such as cola can color the water even in small amounts.
+Right column title: “手順”. Include exactly 4 numbered steps in blue circles: 1) put clean water in the vase; 2) add carbonated drink at the above ratio; 3) mix lightly; 4) arrange cut flowers. Add a pale yellow note box: “水はこまめに交換しましょう（できれば毎日）”. On the far right add a large simple equation illustration: water drop icon labeled “水” plus a glass with bubbly yellow liquid labeled “炭酸飲料”.
+
+Lower green care section: A wide rounded rectangle with a green header title: {argument name="care section title" default="切り花を長持ちさせる基本のお手入れ（炭酸飲料より効果的！）"}. Inside, show exactly 4 equal care cards in a row, each with a green numbered circle, a short Japanese title, a realistic photo thumbnail, explanatory text, and a green “ポイント” label. The 4 cards must be: 1) “茎を斜めに切り戻す”, photo of a hand cutting a green stem diagonally with a knife, explain better water absorption and freshness, point: cut underwater to prevent air entry; 2) “こまめに水替え”, photo of water being poured into a glass vase, explain changing water daily or every 1–2 days, point: recut stems when changing water; 3) “葉が水に浸からないようにする”, photo of stems and leaves inside a vase, explain submerged leaves rot and cause bacteria, point: remove leaves below the waterline and improve ventilation; 4) “市販の延命剤を使う”, photo of a blue flower food packet near a vase, explain it contains nutrients and antibacterial ingredients, point: follow product instructions.
+
+Bottom summary strip: Use two rounded boxes. Left larger pale pink box with label “まとめ”, a small flower icon, and text explaining that carbonated drinks may support flower longevity when used at the proper concentration, but thorough basic care is the most important secret. Right smaller pale pink advice box with label “一言アドバイス”, small vase-and-flower icon, and text advising to avoid direct sunlight and air-conditioner wind, and keep flowers in a cool place.
+
+Style constraints: Japanese typography must be legible, friendly, and bold for headings; use clean grid alignment and generous spacing. Do not add extra sections or extra repeated items beyond the specified counts. Avoid watermark, QR code, people, or brand logos other than the simple “COLA” and “CIDER” labels.
+```
+
+**来源：** [@yuna｜AI×デザイン](https://x.com/good_blue_/status/2076093672932946368) | 2026-07-11
+
+---
+
+### 📊 例 3843：2026 年 AI 图像工具梯队排行榜
+
+![2026 年 AI 图像工具梯队排行榜](../../images/2026%20%E5%B9%B4%20AI%20%E5%9B%BE%E5%83%8F%E5%B7%A5%E5%85%B7%E6%A2%AF%E9%98%9F%E6%8E%92%E8%A1%8C%E6%A6%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张信息密度高的日式信息图，将 {argument name="topic" default="AI 图像生成工具"} 排列为 2026 年梯队排行榜，采用高级黑、海军蓝和金色的科技美学，专为社交媒体分享而设计。
+
+画布：正方形 1:1 海报，高分辨率，深黑色背景，带有微妙的蓝色网格线和发光的青色/金色装饰。使用醒目的日文排版、锐利的表格边框、星级评分、皇冠、徽章和应用图标风格的图标。整体外观应呈现出经过大量测试后制作的专业对比图表感。
+
+页眉：顶部大标题：「AI 图像生成工具 Tier 表」，其中“AI”和日文为白色，“Tier 表”为金色。左上角添加一个金色徽章，写着「2026 年 最新版」。在标题上方，添加一行小字：「保存必看！迷茫时看这一张就够了」。在标题下方，添加一个蓝色轮廓的副标题栏：「用途别最强一览，完全指南」。在标题附近添加一个小金冠。
+
+右上角选择框：添加一个带边框的面板，标题为「选择要点」，包含 4 个复选框要点：「根据想要制作的内容选择」、「了解擅长与不擅长领域」、「根据目的灵活使用」、「迷茫时从上位工具开始尝试」。
+
+主要布局：一个大型对比表格占据图像大部分空间。左侧为梯队带，中间为工具排名行，右侧为星级评分列和价格说明。使用确定的梯队分组：SSS「压倒性最强」、SS「非常优秀」、S「优秀」、A「特化型且强大」、B「视用途而定」。梯队字母分别使用金色、青色、绿色、紫色和浅蓝色。
+
+主表格行：包含 8 个排名工具，每个工具配有一个圆形排名奖章、方形徽标图标、工具名称、简短的日文描述和几个彩色功能标签。行内容如下：
+1. {argument name="top ranked tool" default="GPT Image 2"} — 描述「综合实力 No.1 的最强模型」，徽标类似 OpenAI 的结形标志，排名奖章为带有“NEW”标签的金色。
+2. Seedream 5.0 Pro — 描述「广告与商业创意最强」，蓝色螺旋徽标。
+3. Nano Banana — 描述「写实照片、人物、商品最强」，黄色香蕉徽标。
+4. Muse — 描述「电影般的世界观与概念艺术」，紫色 M 徽标。
+5. Ideogram — 描述「文字设计与排版最强」，黑色抽象大脑/排版徽标。
+6. Flux — 描述「擅长插画、艺术与 CG 表现」，蓝色三角形 Flux 徽标。
+7. Recraft — 描述「Logo、图标与矢量图最强」，黑白 R 形徽标。
+8. Imagen 2 — 描述「擅长自然风景与照片还原」，彩色 Google G 徽标。
+
+评分列：使用 8 个对比列，标签为：「综合实力」、「写实/人物」、「插画/艺术」、「文字/设计」、「编辑/加工」、「商业用途」、「易用性」、「价格参考(月费)」。每行填充金色星级评分，适当包含半星/空星，最后一列为简洁的月费说明。保持表格清晰且信息密集。
+
+底部区域：添加一个横向的“按用途分类最强”指南，标题为「用途别最强速查表」。包含 7 张带皇冠的卡片，每张包含编号、类别、徽标、工具名称和简短评价：
+1. 「写实人物」 — Nano Banana — 「压倒性的真实感」。
+2. 「广告・商业」 — Seedream 5.0 Pro — 「商业品质 No.1」。
+3. 「综合实力」 — GPT Image 2 — 「各项指标均高水准」。
+4. 「电影・世界观」 — Muse — 「电影级表现」。
+5. 「文字・设计」 — Ideogram — 「文字效果精美」。
+6. 「插画・艺术」 — Flux — 「擅长艺术表现」。
+7. 「Logo・图标」 — Recraft — 「矢量图最强」。
+
+右下角推荐框：添加一个发光面板，标题为「迷茫时选这些！」，配有灯泡图标和信息：「先尝试前 3 名，几乎可以覆盖所有需求！」。
+
+页脚：添加两个深色边框的备注框。左侧框带有目标图标和两个要点：「不拘泥于单一工具，根据目的灵活切换才是最强策略！」以及「专业人士往往会组合使用多个工具，以实现质量最大化」。右侧框带有书签图标和文字：「保存起来，随时回顾！」以及「更新后会发布最新版本！」。包含一行关于价格和评分仅为 2026 年估算值的小字免责声明。
+
+视觉风格：时尚的赛博仪表盘，黑色玻璃面板，纤细的霓虹蓝分割线，金色高光，布局紧凑有序，日文文字清晰，应用图标为白色圆角正方形，星级评分为金属质感金色，无摄影背景，无人像。
+
+约束：保留 8 个排名工具、5 个梯队带、8 个评分列、4 个选择要点和 7 张底部用途卡片的精确数量。确保所有文字清晰易读。不要添加额外的工具、额外的卡片、水印或随机的英文标签。
+
+[English]
+Goal: Create a dense Japanese infographic ranking {argument name="topic" default="AI image generation tools"} as a 2026 tier list, with a premium black, navy, and gold tech aesthetic, designed for social media sharing.
+
+Canvas: Square 1:1 poster, high resolution, dark black background with subtle blue grid lines and glowing cyan/gold accents. Use bold Japanese typography, sharp table borders, star ratings, crowns, badges, and app-logo style icons. Overall look should feel like a professional comparison chart made after extensive testing.
+
+Header: Large title at top: 「AI画像生成ツール Tier表」 with “AI” and Japanese text in white, “Tier表” in gold. Add a gold badge on the upper left reading 「2026年 最新版」. Above the title, add the small line 「保存必須！迷ったらこれを見ればOK」. Under the title, add a blue outlined subtitle bar: 「用途別に最強が一目でわかる 完全ガイド」. Add a small gold crown near the title.
+
+Top-right selection box: Add a bordered panel titled 「選び方のポイント」 with exactly 4 checkbox bullet items: 「何を作りたいかで選ぶ」, 「得意・不得意を理解する」, 「目的に合わせて使い分ける」, 「迷ったら上位から試す」.
+
+Main layout: A large comparison table fills most of the image. Left side has tier bands, middle has ranked tool rows, right side has star-rating columns and price notes. Use exact tier groups: SSS 「圧倒的最強」, SS 「非常に優秀」, S 「優秀」, A 「特化型で強力」, B 「用途次第で活躍」. Use large tier letters in gold, cyan, green, purple, and pale blue respectively.
+
+Main table rows: Include exactly 8 ranked tools, each with a circular rank medal, a square logo icon, a tool name, a short Japanese description, and several small colored feature tags. The rows are:
+1. {argument name="top ranked tool" default="GPT Image 2"} — description 「総合力No.1の最強モデル」, logo resembling the OpenAI knot mark, rank medal gold with “NEW” label.
+2. Seedream 5.0 Pro — description 「広告・商用クリエイティブ最強」, blue spiral logo.
+3. Nano Banana — description 「リアル写真・人物・商品に最強」, yellow banana logo.
+4. Muse — description 「映画のような世界観・コンセプトアート」, purple M logo.
+5. Ideogram — description 「文字デザイン・タイポグラフィ最強」, black abstract brain/typography logo.
+6. Flux — description 「イラスト・アート・CG表現が得意」, blue triangular Flux logo.
+7. Recraft — description 「ロゴ・アイコン・ベクターに最強」, black-and-white R-like logo.
+8. Imagen 2 — description 「自然風景・写真の再現に強い」, multicolor Google G logo.
+
+Rating columns: Use exactly 8 comparison columns with Japanese labels: 「総合力」, 「リアル/人物」, 「イラスト/アート」, 「文字/デザイン」, 「編集/加工」, 「商用利用」, 「使いやすさ」, 「料金目安(月額)」. Fill each row with gold star ratings, including half/empty stars where appropriate, and compact monthly pricing notes in the final column. Keep the table legible but information-dense.
+
+Bottom section: Add a horizontal “best by use case” guide titled 「用途別 最強早見表」. Include exactly 7 crowned cards, each with a number, category, logo, tool name, and short verdict:
+1. 「リアル人物」 — Nano Banana — 「圧倒的リアル」.
+2. 「広告・商用」 — Seedream 5.0 Pro — 「商用品質No.1」.
+3. 「総合力」 — GPT Image 2 — 「なんでも高水準」.
+4. 「シネマ・世界観」 — Muse — 「映画レベル」.
+5. 「文字・デザイン」 — Ideogram — 「文字が綺麗」.
+6. 「イラスト・アート」 — Flux — 「アート表現が得意」.
+7. 「ロゴ・アイコン」 — Recraft — 「ベクター最強」.
+
+Bottom-right recommendation box: Add a glowing panel titled 「迷ったらこれ！」 with a lightbulb icon and the message 「まずは上位から 3つ使えば ほぼ全てカバーできる！」.
+
+Footer: Add two dark bordered note boxes. Left box with target icon and two bullet notes: 「1つのツールにこだわらず、目的に合わせて使い分けるのが最強の戦略！」 and 「プロほど複数のツールを組み合わせて、クオリティを最大化しています。」 Right box with bookmark icon and text: 「保存して、いつでも見返せるようにしよう！」 and 「アップデートされたらまた最新版に更新します！」 Include a tiny disclaimer line about pricing and ratings being estimates as of 2026.
+
+Visual style: Sleek cyber dashboard, black glass panels, thin neon blue dividers, gold highlights, dense but organized layout, crisp Japanese text, app icons in white rounded squares, star ratings in metallic gold, no photographic background, no people.
+
+Constraints: Preserve the exact count of 8 ranked tools, 5 tier bands, 8 rating columns, 4 selection tips, and 7 bottom use-case cards. Make all text sharp and readable. Do not add extra tools, extra cards, watermarks, or random English labels.
+```
+
+**来源：** [@CREATOR'ZZ【公式】](https://x.com/_creatorzz_/status/2075790458610204741) | 2026-07-11
+
+---
+

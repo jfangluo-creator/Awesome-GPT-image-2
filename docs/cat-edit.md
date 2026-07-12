@@ -2646,3 +2646,39 @@ Using REFERENCE_0 as the base image, transform the scene from daytime into {argu
 
 ---
 
+### 🔧 例 3782：90 年代复古动漫风格重绘
+
+![90 年代复古动漫风格重绘](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像重绘为 {argument name="style" default="anime-style"} 风格的赛璐珞插画，灵感源自 {argument name="inspiration" default="1980s–1990s Nippon Animation"}，特点包括粗犷清晰的轮廓线、温暖柔和的调色板、强烈的明暗对比、细节极简的柔和渐变背景、对服装和环境的细腻渲染、富有表现力的线条、具有手绘美感的扁平分层构图，以及电影级的 {argument name="aspect ratio" default="3:4"} 画幅。
+
+[English]
+Restyle this image into a cel-shaded {argument name="style" default="anime-style"} illustration inspired by {argument name="inspiration" default="1980s–1990s Nippon Animation"}, featuring bold clean outlines, warm muted color palette, strong contrast between light and shadow, soft gradient backgrounds with minimal detail, detailed rendering of clothing and environment, expressive linework, flat layered composition with a hand-drawn aesthetic, and cinematic {argument name="aspect ratio" default="3:4"} framing.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2075986406913331541) | 2026-07-11
+
+---
+
+### 🔧 例 3842：镜面自拍艺术转换
+
+![镜面自拍艺术转换](../../images/%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将原始的镜面自拍转换为 {argument name="art style" default="极简照片叠加插画艺术"}。保持人物完全写实，同时将周围环境替换为醒目的手绘 {argument name="line color" default="红色"} 马克笔线条艺术。使用随性写意的红色墨水线条，在干净的白色背景上勾勒出华丽的复古镜框、走廊、电梯、植物、托盘、瓶子、柳条筐和前景物体。保留原始姿势、服装 ({argument name="clothing" default="黑色棒球帽、米色外套、白色 T 恤"})、面部表情、光影和构图。创造一种高对比度的混合媒体效果，使画面中仅主体保持写实，其余部分呈现为富有表现力的单色红色线条画。现代编辑美学，干净的负空间，极简主义，艺术感，高细节。
+
+[English]
+Transform the original mirror selfie into a {argument name="art style" default="minimalist illustration-over-photo artwork"}. Keep the person completely photorealistic while replacing the surrounding environment with bold hand-drawn {argument name="line color" default="red"} marker line art. Outline the ornate vintage mirror frame, hallway, elevator, plants, tray, bottle, wicker basket, and foreground objects using loose sketchy red ink lines on a clean white background. Preserve the original pose, outfit ({argument name="clothing" default="black baseball cap, beige overshirt, white T-shirt"}), facial expression, lighting, and composition. Create a high-contrast mixed-media effect where only the subject remains realistic and everything else appears as an expressive monochrome red line drawing. Modern editorial aesthetic, clean negative space, minimalist, artistic, high detail.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2075791794688675870) | 2026-07-11
+
+---
+

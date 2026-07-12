@@ -4815,3 +4815,192 @@ Create a whimsical toy-brick diorama in a cute Japanese kawaii style: a single c
 
 ---
 
+### 🧸 例 3775：迈阿密夜生活场景风格化
+
+![迈阿密夜生活场景风格化](../../images/%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%9C%E7%94%9F%E6%B4%BB%E5%9C%BA%E6%99%AF%E9%A3%8E%E6%A0%BC%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此 3D 原始场景转换为精致的 "{argument name="scene style" default="迈阿密夜生活"}" 场景
+
+[English]
+make this primitive 3d scene into a polished "{argument name="scene style" default="Miami nightlife"}" scene
+```
+
+**来源：** [@Roope Rainisto](https://x.com/rainisto/status/2076062634986594327) | 2026-07-11
+
+---
+
+### 🧸 例 3798：甜品店里的诡异可爱吉祥物
+
+![甜品店里的诡异可爱吉祥物](../../images/%E7%94%9C%E5%93%81%E5%BA%97%E9%87%8C%E7%9A%84%E8%AF%A1%E5%BC%82%E5%8F%AF%E7%88%B1%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 垂直电影感 3D 玩具角色街景，背景为明亮的午后阳光。画面中心是一个可爱又诡异的设计师乙烯基吉祥物，站在甜品店外的砖砌人行道上，身后是浅景深的店面。该角色拥有一个巨大的光泽球形头部，分为黑色和浅灰色区域，有一只带有白色小灯的圆形红色机械眼，以及一张布满锋利三角形牙齿的锯齿状怪物嘴，挂着骰子饰品，头顶有一个带有白色涂鸦的小黑帽。头顶上坐着一个微小的红色尖刺怪物，长着许多凸出的眼睛和牙齿，旁边立着一块黑色牌子，上面用白色涂鸦风格字体写着 {argument name="sign text" default="Fate"}。吉祥物身穿黑色街头风运动服，上面覆盖着重复的金色比特币补丁、白色钻石图标、抽象符号、链条配饰和厚重的黑白运动鞋。它的左手拿着 1 个薄荷巧克力碎冰淇淋甜筒。在它背部右侧添加 2 个明亮的绿色机械蜘蛛状附属肢体，每个肢体都有圆形的关节细节。背景中展示一个温暖的砖砌咖啡馆外墙，带有紫白相间的遮阳篷，上方悬挂着写有 {argument name="café name" default="Châterraise"} 的招牌；透过玻璃门可以看到室内柔和的灯光。在左侧远处的背景中，包含 1 个巨大的模糊黑色幽灵/怪物剪影，隐约出现在建筑物后方，长着 X 形眼睛和宽大的白色锯齿状笑容。使用逼真的玩具材质、光泽塑料反射、细腻的织物纹理、戏剧性的低角度构图、焦外成像、柔和的镜头模糊、温暖的高光，角色焦点清晰，营造出异想天开的恐怖可爱氛围，采用超精细的 3D 渲染风格。除咖啡馆招牌和手持牌子外，请勿添加额外的角色、额外的冰淇淋或可读文本。
+
+[English]
+Create a vertical 9:16 cinematic 3D toy-character street scene in bright afternoon sunlight. Center a cute but creepy designer vinyl mascot standing on a brick sidewalk outside a dessert café, with a shallow-depth-of-field storefront behind it. The character has an oversized glossy sphere head split into black and pale gray panels, one circular red mechanical eye with small white lights, a jagged monster mouth full of sharp triangular teeth, dangling dice charms, and a small black cap-like top with white doodles. Perched on top is a tiny red spiky monster figure with many bulging eyes and teeth, sitting beside a black paddle/sign that reads {argument name="sign text" default="Fate"} in white graffiti-style lettering. The mascot wears a black streetwear tracksuit covered with repeating gold Bitcoin coin patches, white diamond icons, abstract symbols, chain accessories, and chunky black-and-white sneakers. It holds exactly 1 mint chocolate chip ice cream cone in its left hand. Add exactly 2 bright green mechanical spider-like appendages extending from its back on the right side, each with circular joint details. In the background, show a warm brick café façade with purple-and-white striped awnings and a raised sign reading {argument name="café name" default="Châterraise"}; keep the interior softly glowing through glass doors. Far in the background on the left, include exactly 1 enormous blurred black ghost/monster silhouette looming behind the buildings, with X-shaped eyes and a wide white zigzag grin. Use realistic toy materials, glossy plastic reflections, detailed fabric texture, dramatic low-angle composition, bokeh, soft lens blur, warm highlights, crisp focus on the character, whimsical horror-cute atmosphere, ultra-detailed 3D render style. Do not add extra characters, extra ice creams, or readable text beyond the café sign and the paddle sign.
+```
+
+**来源：** [@essan | AIクリエイター │ TRONGlobalFriends](https://x.com/essan_x/status/2075937810146853191) | 2026-07-11
+
+---
+
+### 🧸 例 3819：3D 拉花杂志教程排版
+
+![3D 拉花杂志教程排版](../../images/3D%20%E6%8B%89%E8%8A%B1%E6%9D%82%E5%BF%97%E6%95%99%E7%A8%8B%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+添付キャラクターを基に、日本の上質なカフェ・料理雑誌風「3Dラテアートの作り方」特集ページを生成する。
+【形式】
+
+・3:4縦長、単ページ
+・見開き、2ページ分割、中央綴じ目は禁止
+・余白は少なめ
+・アイボリー、ミルクホワイト、淡いブラウン基調
+・上品で読みやすいエディトリアルデザイン
+・文字量は少なく、画像を主役にする
+【最重要：画像構成】
+
+誌面内の画像は、以下の4点だけで構成する。
+1. 小さな添付キャラクター参考画像
+
+2. 小さな白い泡の造形途中画像
+3. 小さな大まかな着色途中画像
+4. 1枚だけの大きな完成画像
+完成した3Dラテアートを描く画像は、ページ内に必ず1枚だけ。
+
+完成画像の小型版、完成サムネイル、完成工程の追加画像、完成品の再掲載、同じカップの複製は禁止。
+小画像3枚の中に完成状態を描かない。
+完成した顔、目、口、細部まで整った着色は、大きな完成画像の中にだけ描く。
+【キャラクター】
+
+添付画像を最優先で参照。
+顔、瞳、髪型、髪色、表情、装飾、特徴色、雰囲気を維持し、ひと目で同じキャラクターと分かるようにする。
+人物、フィギュア、粘土、人形ではなく、ミルクフォーム製の可愛いデフォルメ3Dラテアートとして表現する。
+【固定工程】
+
+工程の内容と順番は変えない。
+STEP 1：
+
+添付キャラクターの参考画像。
+顔、髪、瞳、配色、装飾を確認するための画像。
+ラテアートやカップは描かない。
+STEP 2：
+
+コーヒーカップ上に白いミルクフォームを盛り、頭、髪、顔、体の大まかな立体形状だけを作った途中画像。
+白一色、細部なし、目・口・色なし。
+丸い泡を重ねた、少し不揃いな制作途中の状態。
+STEP 3：
+
+STEP 2の泡に、ココア、抹茶、コーヒー、ミルク、食用色素などで髪、瞳、装飾の色を大雑把につけた途中画像。
+着色は淡く粗く、未完成。
+目と口は描かない、またはごく一部だけで、完成した表情にはしない。
+仕上げ前であることが明確に分かる状態。
+【工程画像の配置】
+
+STEP 1、STEP 2、STEP 3の3枚だけを、小さな連続画像として配置する。
+横一列、縦一列、L字、階段状など、配置は自然に変えてよい。
+3枚には必ず「1」「2」「3」の番号を付ける。
+矢印や罫線は、
+
+STEP 1からSTEP 2、
+STEP 2からSTEP 3、
+STEP 3から大きな完成画像の外枠または完成画像内のラテアートへ直接つなげる。
+STEP 3の次に新しい小枠を作らない。
+
+矢印の終点として、小さな完成画像や第4工程画像を生成しない。
+STEP 3から伸びる最後の矢印は、ページ内にすでに存在する大きな完成画像へ直接到達させる。
+【大きな完成画像】
+
+完成画像はページ内に1枚だけ。
+誌面の50～70％程度を占める最大画像として配置する。
+他のどの画像よりも圧倒的に大きくする。
+完成画像は独立した小枠にせず、ページの主役となる大きなヒーロー写真として扱う。
+大きなカップが画面を占め、完成した3Dラテアートの顔と立体感が明確に見える。
+
+カメラはラテと同じ高さ、軽い俯瞰、斜め構図、接写などから自然に選ぶ。
+木製テーブル、暖かなカフェ照明、浅い被写界深度、柔らかくぼけた背景。
+人物や不要物は入れない。
+Fine white milk foam sculpted into a cute chibi character.
+
+Soft rounded foam with slight handmade imperfections.
+Preserve the attached character’s recognizable face, hairstyle, eyes, expression, decorations and signature colors.
+Use only subtle cocoa, matcha, coffee, milk and edible coloring.
+Soft color bleeding, not solid paint.
+Eyes and mouth drawn with cocoa or chocolate syrup.
+Detailed foam texture, milk gloss and coffee reflections.
+Realistic latte texture, refined high-quality illustration, warm natural light.
+No text inside the completed latte photo.
+【タイトル】
+
+以下と同じ意味の短い見出しを生成する。
+「{argument name="タイトル" default="ふわふわ泡で、3Dラテアート"}」
+
+「泡からつくる、3Dラテアート」
+「いつものラテを、立体アートに」
+小見出し例：
+
+「のせて、整えて、色をつけるだけ。」
+「泡を盛って、色を添えれば完成。」
+【導入文】
+
+2～3行以内。
+内容は「ラテに泡を盛る→軽く整える→色と顔を加えて完成」。
+難しそうに見せず、簡単に作れそうな表現にする。
+例：
+
+「ラテに泡をふんわり重ねます。
+形を整えて色を添えたら完成です。」
+【工程説明】
+
+各1～2行以内。同じ意味で自然に言い換えてよい。
+STEP 1：
+
+「まずはイメージを確認。」
+「髪と目の特徴を軽くチェック。」
+STEP 2：
+
+「泡をのせて、ざっくり形づくり。」
+「丸い泡を重ねて、大まかな形に。」
+STEP 3：
+
+「色をのせて、少し整える。」
+「髪と目に、ふんわり色を足します。」
+【完成付近の短文】
+
+以下から1～2個を配置する。
+「最後に顔を描けば完成。」
+
+「目と口を添えて、できあがり。」
+「少し整えたら、もう完成です。」
+「細かい違いは、泡の個性です。」
+【補足文】
+
+以下から重複しない2～4個を小さく配置する。
+「{argument name="補足文" default="ふわっと盛る"}」
+
+「ざっくりでOK」
+「色は少しずつ」
+「丸くのせれば大丈夫」
+「細かいところは泡におまかせ」
+「似ていれば成功」
+「思ったより、かんたん。」
+【ランダム化】
+
+記事の意味、工程順、画像内容、完成作品は変えない。
+画像の位置、サイズ、トリミング、枠、矢印、見出し位置、短い説明文のみ自然に変化させる。
+完成画像は常に1枚だけとし、複製しない。
+```
+
+**来源：** [@すずゆき](https://x.com/suzuyukix/status/2075882848750645286) | 2026-07-11
+
+---
+

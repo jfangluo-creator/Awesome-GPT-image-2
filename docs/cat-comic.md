@@ -5592,3 +5592,157 @@ Pose-first photorealistic fashion editorial photo: {argument name="subject" defa
 
 ---
 
+### 🎬 例 3778：鸭子一家旅行漫画
+
+![鸭子一家旅行漫画](../../images/%E9%B8%AD%E5%AD%90%E4%B8%80%E5%AE%B6%E6%97%85%E8%A1%8C%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组温馨的儿童绘本风格四格漫画，讲述一家可爱的鸭子进行国际旅行并与亲人团聚的故事，采用做旧奶油色纸张上的水彩和彩色铅笔质感。
+
+画布：1:1 正方形图像，排列为 2×2 的漫画网格，带有粗手绘黑色边框。在左右外边缘添加彩色铅笔笔触，营造艺术桌面的边框效果。采用舒适的插画旅行日记风格，细节丰富但柔和，具有明显的纸张纹理、墨水轮廓、柔和的色彩和富有表现力的卡通表情。
+
+主要角色：整个故事中始终展示 4 名鸭子家庭成员：1 只较大的鸭爸爸/鸭妈妈，穿着黑色皮夹克、白色衬衫、戴着金项链，携带或站在棕色行李箱旁；1 只戴着红色围巾的小鸭子，带着一个小蓝色拉杆箱，箱子上露出泰迪熊；1 只戴着粉色蝴蝶结、穿着粉色连衣裙的小鸭子，手里拿着毛绒玩具；以及在最后一格团聚画面中出现的第 2 只较大的鸭子。所有鸭子都是毛茸茸的白色/黄色，有着橙色的喙和脚、红润的脸颊以及儿童般圆润的比例。
+
+第 1 格，左上角：粗体手写大写标题文本：“{argument name="first panel title" default="SHANGHAI TO TOKYO"}”。下方有两个标签条：“{argument name="first departure label" default="EARLY DEPARTURE"}”和“4:30 AM”。上海的夜间机场场景，有深蓝色的星空、跑道、航站楼窗户、飞机以及包括一座高塔在内的上海天际线背景。添加一个带有飞机图标的深色机场指示牌，上面写着“SHANGHAI PVG → TOKYO NRT”。穿皮夹克的鸭子带着两只小鸭子和行李走着。包含 3 个中文对话气泡：“出发啦，去东京!”、“好困啊...”和“软萌萌”。
+
+第 2 格，右上角：标题文本：“{argument name="second panel title" default="TOKYO, JAPAN"}”。下方有两个标签条：“(4-HOUR LAYOVER)”和“4 HOURS”。机场候机区内部，有大窗户、外面的跑道和飞机、蓝色座椅、背景中的乘客，右侧有一家免税店，招牌上写着“DUTY FREE”以及日文/中文风格的字符。添加一个带有飞机图标的深色机场指示牌，上面写着“TOKYO NRT”。穿皮夹克的鸭子坐着喝咖啡，戴红围巾的小鸭子在蓝色星星图案的毯子下睡觉，戴粉色蝴蝶结的小鸭子在旁边拿着毛绒玩具。包含 2 个对话气泡：“Zzz...”和“软萌萌”。
+
+第 3 格，左下角：标题文本：“{argument name="third panel title" default="CALGARY, CANADA"}”。下方有两个标签条：“(5-HOUR LAYOVER)”和“5 HOURS WAIT”。机场休息室，大窗户可以看到白雪皑皑的落基山脉、松树林、跑道上的飞机和加拿大国旗。添加一个带有飞机图标的深色机场指示牌，上面写着“CALGARY YYC”。鸭子站在橙色拉杆箱旁，两只小鸭子在蓝色行李箱和毛绒玩具旁显得筋疲力尽或正在哭泣。包含 1 个中文对话气泡：“旅程太长，好累呀...”。
+
+第 4 格，右下角：标题文本：“{argument name="final panel title" default="REUNION IN HOUSTON!"}”。添加一个标签条：“ARRIVALS”。明亮的休斯顿机场到达区，透过大窗户可以看到棕榈树和城市天际线。添加一个带有飞机图标和两行文字的深色机场指示牌：“HOUSTON IAH”和“ARRIVALS”。展示感人的家庭团聚：穿皮夹克的鸭子拥抱第 2 只较大的鸭子，两人都带着幸福的泪水微笑，两只小鸭子带着行李和毛绒玩具围在他们身边。右侧的小桌子上放着一张装裱好的全家福照片。包含 2 个中文对话气泡：“你们终于到了！想死你们了！”和“终于可以去睡觉了...”。
+
+文本和风格限制：保持所有可见的英文标题和机场标签清晰易读，完全保留中文对话气泡文本，使用手写漫画字体，禁止照片级真实感，禁止增加格数，禁止增加主要角色，禁止添加水印。
+
+[English]
+Goal: Create a warm children’s picture-book style 4-panel comic about a family of cute ducklings traveling internationally to reunite with their parent, using watercolor-and-colored-pencil textures on aged cream paper.
+
+Canvas: Square 1:1 image, arranged as a 2×2 comic grid with thick hand-drawn black panel borders. Add colored pencil tips around the outer left and right edges like an art-table border. Use a cozy illustrated travel-journal look, detailed but soft, with visible paper grain, ink outlines, pastel colors, and expressive cartoon faces.
+
+Main characters: Show exactly 4 duck family members throughout the story: 1 larger parent duck wearing a black leather jacket, white shirt, gold necklace, and carrying or standing near brown luggage; 1 young duckling with a red scarf and a small blue rolling suitcase with a teddy bear visible; 1 young duckling with a pink bow and pink dress holding a plush toy; and 1 second larger parent duck appearing in the final reunion panel. All ducks are fluffy white/yellow, with orange beaks and feet, rosy cheeks, and childlike rounded proportions.
+
+Panel 1, top left: Title text in bold hand-lettered uppercase: “{argument name="first panel title" default="SHANGHAI TO TOKYO"}”. Under it, two label strips: “{argument name="first departure label" default="EARLY DEPARTURE"}” and “4:30 AM”. Night airport scene in Shanghai with a dark blue starry sky, runway, terminal windows, a plane, and the Shanghai skyline including a tall tower in the background. Add a dark airport sign with an airplane icon reading “SHANGHAI PVG → TOKYO NRT”. The leather-jacket parent walks with the two ducklings and luggage. Include exactly 3 speech bubbles in Chinese text: “出发啦，去东京!”, “好困啊...”, and “软萌萌”.
+
+Panel 2, top right: Title text: “{argument name="second panel title" default="TOKYO, JAPAN"}”. Under it, two label strips: “(4-HOUR LAYOVER)” and “4 HOURS”. Interior airport waiting area with large windows, runway and airplane outside, blue seats, passengers in the background, and a duty-free shop on the right with a sign containing Japanese/Chinese-style characters above “DUTY FREE”. Add a dark airport sign with airplane icon reading “TOKYO NRT”. The leather-jacket parent sits with a coffee while the red-scarf duckling sleeps under a blue star-patterned blanket, with the pink-bow duckling nearby holding plush toys. Include exactly 2 speech bubbles: “Zzz...” and “软萌萌”.
+
+Panel 3, bottom left: Title text: “{argument name="third panel title" default="CALGARY, CANADA"}”. Under it, two label strips: “(5-HOUR LAYOVER)” and “5 HOURS WAIT”. Airport lounge with large window view of snowy Rocky Mountains, pine forest, a plane on the runway, and a Canadian flag. Add a dark airport sign with airplane icon reading “CALGARY YYC”. The parent stands with orange rolling suitcase while both ducklings look exhausted or crying beside their blue suitcase and plush toys. Include exactly 1 speech bubble in Chinese: “旅程太长，好累呀...”.
+
+Panel 4, bottom right: Title text: “{argument name="final panel title" default="REUNION IN HOUSTON!"}”. Add a label strip: “ARRIVALS”. Bright airport arrivals area in Houston with palm trees and city skyline visible through large windows. Add a dark airport sign with airplane icon and two lines: “HOUSTON IAH” and “ARRIVALS”. Show an emotional family reunion: the leather-jacket parent hugs the second larger parent duck, both smiling with happy tears, while the two ducklings gather around them with luggage and plush toys. Include a framed family photo on a small table at the right. Include exactly 2 speech bubbles in Chinese: “你们终于到了！想死你们了！” and “终于可以去睡觉了...”.
+
+Text and style constraints: Keep all visible English titles and airport labels crisp and legible, preserve the Chinese speech bubble text exactly as written, use hand-lettered comic typography, no photorealism, no extra panels, no extra main characters, no watermark.
+```
+
+**来源：** [@walksing](https://x.com/walksing/status/2076039111077446053) | 2026-07-11
+
+---
+
+### 🎬 例 3783：漫画角色设计三联画
+
+![漫画角色设计三联画](../../images/%E6%BC%AB%E7%94%BB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张三联图形海报，在垂直画布上分为三个水平面板，每个面板中展示同一个 {argument name="style" default="日式漫画风格"} 角色。保持脸部、眼睛、鼻子、嘴巴、脸型、年龄和发色完全一致，仅改变 {argument name="variables" default="发型、刘海、表情、头部角度、眼镜和配饰"}，如同专业的角色设计表。每个面板应为肩部以上的肖像，采用大胆的图形海报美学、粗犷清晰的线条艺术、极简细节和大面积平涂色块。根据聊天记录选择三种不同的情绪，每种情绪通过单一的 {argument name="color scheme" default="主色调"} 表达，仅添加黑色和白色。不要使用传统背景，让角色沉浸在氛围本身中，使环境光自然地反射在皮肤、头发和衣物上，营造出角色仿佛存在于该世界光影与空气中的感觉。无文字、无标志、无 UI 元素或对话气泡。每个面板既可作为独立艺术品，又能共同构成一个连贯的系列。
+
+[English]
+Create a triptych graphic poster on a vertical canvas divided into three horizontal panels, featuring the same {argument name="style" default="Japanese manga-style"} character in every panel. Keep the face, eyes, nose, mouth, face shape, age, and hair color identical, changing only the {argument name="variables" default="hairstyle, bangs, expression, head angle, glasses, and accessories"} like a professional character design sheet. Each panel should be a shoulder-up portrait with bold graphic poster aesthetics, thick clean line art, minimal detail, and large flat color shapes. Choose three distinct moods inspired by the chat history, expressing each through a single {argument name="color scheme" default="dominant color"} with only black and white added. Instead of a traditional background, immerse the character within the atmosphere itself so the ambient color naturally reflects onto the skin, hair, and clothing, creating the feeling that the character exists inside the light and air of that world. No text, logos, UI elements, or speech bubbles. Each panel should work as a standalone artwork while forming a cohesive series together.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2075985976208626071) | 2026-07-11
+
+---
+
+### 🎬 例 3787：暗黑漫画风奶油苏打封面
+
+![暗黑漫画风奶油苏打封面](../../images/%E6%9A%97%E9%BB%91%E6%BC%AB%E7%94%BB%E9%A3%8E%E5%A5%B6%E6%B2%B9%E8%8B%8F%E6%89%93%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图作为奶油苏打的素材，提取并重新设计该饮品，使其呈现为极具戏剧性的插画风格专辑封面构图。保留哈密瓜奶油苏打的辨识度，包括高脚杯、鲜艳的绿色气泡、冰块、香草冰淇淋球和红樱桃，但将其渲染为精致的漫画风格插画，而非明亮的咖啡馆照片。
+
+添加新的背景和主体：将苏打水置于前景的黑色亮面桌面上，后方放置一位单色调漫画风格的中性化年轻男子，他身体前倾，单手托腮，拥有细腻的浅色线条发丝、疲惫而富有表现力的双眼，身着深色西装。采用黑色、高对比度、阴郁的氛围，运用粗犷的墨水排线和银灰色高光，并将饮品作为主要的色彩点缀。
+
+构图：垂直封面艺术，玻璃杯居于前方正中，角色填充上方背景，深邃的黑色负空间，底部为反光桌面。在玻璃杯上添加一行垂直的日语标题 {argument name="vertical glass text" default="クリームソーダ"}，要求包含 7 个从上至下排列的可见字符。整体风格设定为 {argument name="art style" default="暗黑单色漫画插画，局部点缀鲜艳绿色"}。可选自定义：背景角色应呈现出 {argument name="character mood" default="忧郁且优雅"} 的感觉。避免出现原图中的咖啡馆环境、花卉、包装以及明亮的自然光背景。
+
+[English]
+Using the provided reference image as the source for the cream soda, extract and restyle the drink into a dramatic illustrated album-cover composition. Keep the melon cream soda identifiable with its tall glass, vivid green fizz, ice, vanilla ice cream scoop, and red cherry, but render it as polished manga-style illustration rather than a bright café photo.
+
+Add a new background and subject: place the soda large in the foreground on a glossy black tabletop, with a monochrome manga-style androgynous young man behind it, leaning forward with one hand against his cheek, pale detailed line-art hair, tired expressive eyes, and a dark suit. Use a black, high-contrast, moody atmosphere with scratchy ink hatching, silver-gray highlights, and the drink as the main color accent.
+
+Composition: vertical cover art, centered glass in front, character filling the upper background, deep black negative space, reflective table surface at the bottom. Add exactly one vertical Japanese title on the glass reading {argument name="vertical glass text" default="クリームソーダ"}, with exactly 7 visible characters arranged top-to-bottom. Make the overall style {argument name="art style" default="dark monochrome manga illustration with selective vivid green color"}. Optional customization: the background character should feel like {argument name="character mood" default="melancholic and elegant"}. Avoid the original café setting, flowers, package, and bright natural-light background.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075964280462364955) | 2026-07-11
+
+---
+
+### 🎬 例 3856：哥特宫廷动漫三人组
+
+![哥特宫廷动漫三人组](../../images/%E5%93%A5%E7%89%B9%E5%AE%AB%E5%BB%B7%E5%8A%A8%E6%BC%AB%E4%B8%89%E4%BA%BA%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高纵向的哥特浪漫风动漫插画，背景设在华丽的欧洲宫殿音乐厅内。采用精致的棕褐色单色调，辅以温暖的烛光，强调深色墨水般的轮廓线、复杂的线条细节，以及一种略微简化但极具优雅感的漫画渲染风格。画面中需包含 3 位俊美的年轻男性音乐家：中心人物为 {argument name="central musician" default="一位高挑的黑发小提琴手"}，以略微俯视的视角全身立于前景，身穿黑色长款礼服燕尾服，内搭叠层马甲、领带、链条、珠宝胸针，下着修身长裤和抛光靴子，斜持琴弓演奏小提琴；左下方为 {argument name="left musician" default="一位脸色苍白的卷发吉他手"}，坐在华丽的椅子上怀抱一把原声吉他；右侧为 {argument name="right musician" default="一位脸色苍白的波浪卷发钢琴家"}，坐在光亮的三角钢琴前，双手置于琴键上，身着浅色正装。场景布置于奢华的巴洛克房间内，左侧有高耸的拱形窗户、厚重的垂帘、雕花墙板、镀金框内的花卉壁画、头顶的水晶吊灯、点燃蜡烛的烛台、花瓶、华丽的椅子、反光的花纹大理石地面，以及底端边缘处模糊的前景花卉。强调戏剧性的明暗对比、珠宝与乐器上细腻的闪光、柔和的尘埃微粒、优雅忧郁的表情、贵族气息，以及密集的装饰细节，画面中不应出现现代物品、文字、标志或鲜艳色彩。使用 {argument name="aspect ratio" default="9:16 纵向"} 构图，呈现电影般的景深和海报级的细节。
+
+[English]
+Create a tall vertical gothic-romantic anime illustration in an ornate European palace music room, using a refined sepia monochrome palette with warm candlelight, strong dark ink-like outlines, intricate linework, and a slightly simplified but highly elegant manga rendering style. Show exactly 3 beautiful young male musicians: the central figure is {argument name="central musician" default="a tall black-haired violinist"}, standing full body in the foreground from a slightly high camera angle, wearing a long black formal tailcoat with layered vest, tie, chains, jeweled brooches, fitted trousers, and polished boots, playing a violin with bow held diagonally across his body; at lower left is {argument name="left musician" default="a pale curly-haired guitarist"} seated on an ornate chair, holding an acoustic guitar; at right is {argument name="right musician" default="a pale wavy-haired pianist"} seated at a glossy grand piano, hands on the keys, wearing a light formal suit. Set them inside a lavish baroque room with towering arched windows on the left, heavy draped curtains, carved wall panels, floral wall art in a gilded frame, crystal chandelier overhead, candelabras with lit candles, vases of flowers, ornate chairs, reflective patterned marble floor, and blurred foreground flowers near the bottom edge. Emphasize dramatic chiaroscuro, delicate sparkles on jewelry and instruments, soft dust motes, elegant melancholic expressions, aristocratic atmosphere, and dense decorative detail without modern objects, text, logos, or bright colors. Use {argument name="aspect ratio" default="9:16 vertical"} composition, cinematic depth, and poster-quality detail.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075764233988694304) | 2026-07-11
+
+---
+
+### 🎬 例 3862：彩色少年漫画战斗跨页
+
+![彩色少年漫画战斗跨页](../../images/%E5%BD%A9%E8%89%B2%E5%B0%91%E5%B9%B4%E6%BC%AB%E7%94%BB%E6%88%98%E6%96%97%E8%B7%A8%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅全彩漫画双页跨页，风格为戏剧性的少年漫画战斗场景，类似于法语版 One Piece 章节页面，具有厚重的黑色分镜边框、动态动作、富有表现力的手写音效，以及饱和的蓝红电影色彩。
+
+画布：横向 4:3 漫画页面拼贴，约 1024×768，带有分隔分镜的白色间隙网格。图像应看起来像修复并上色的漫画扫描件：墨线稿、绘画感数字色彩、高对比度阴影以及略带粗糙的纸张纹理。
+
+布局：使用精确的 14 个可见漫画分镜，排列成紧凑的双页跨页。左侧包含 8 个分镜：顶部 3 个小分镜，下方 4 个狭窄动作分镜，底部 1 个大型戏剧性分镜。右侧包含 6 个分镜：右上角 1 个巨大的蓝色森林分镜，右下角 5 个较小的分镜，包括左侧两个堆叠的细长分镜、一个垂直中心分镜、一个大型右侧分镜，以及集成在右侧分镜中的小型对话气泡区域。
+
+主体细节：展示 {argument name="hero character" default="一位白发橡胶战士，拥有火焰般的头发、圆眼睛、巨大的露齿笑和卡通化的 Gear Five 能量"} 与 {argument name="villain character" default="一位巨大的长角龙形皇帝，留着长白发，身穿黑色阴影铠甲，手持巨大的带刺木棒"} 战斗。场景在英雄狂笑的特写、爆炸性攻击和广阔的蓝色森林战场之间切换。英雄看起来发光且富有弹性，皮肤苍白，头发呈漩涡状，表情夸张。反派身材高大，充满威胁感，以深紫色和黑色为主，长角，头发飘逸，轮廓粗犷。
+
+分镜内容计数：分镜 1（左上小）：咧嘴笑的火焰发英雄特写，说着“HEIN ?!”，配有橙色火焰光效。分镜 2（顶行中间）：白色对话气泡，写着“…QUE TU N’ES PAS JOY BOY !”，背景为淡蓝色运动能量。分镜 3（顶行右侧）：发光的蓝白色冲击球，带有速度线和对话气泡，写着“MU SAIT PARFAI-TEMENT…”。分镜 4（第二行最左）：红棕色运动分镜，带有扭曲的地面或身体以及巨大的垂直音效。分镜 5（第二行狭窄）：红色光束状动作分镜，带有一个写着“ALLONS-Y !”的小对话气泡。分镜 6（第二行中心）：英雄狂野笑容的特写，周围环绕着巨大的黑色日式音效文字。分镜 7（第二行右侧）：紫色阴影中单只锐利眼睛的深色特写。分镜 8（左下大型）：英雄在手持木棒的高大长角反派面前显得受伤或无力，背景是红色烟雾缭绕的天空，带有两个巨大的对话气泡，写着“…N’ÉTAIT PAS AUSSI FAIBLE…!” 和 “JOY BOY, LUI…”，以及一个写着“LE ROI DU MONDE DANS TOUTE SA SPLENDEUR…!!”的小型黑色标题框。分镜 9（右上巨大）：巨大的蓝色魔法森林漩涡、扭曲的树木、旋转的叶子和风，右边缘有一个黑色剪影战士手持武器，并带有粗体黑色日式音效；在此大型分镜左下角附近添加水印 {argument name="watermark text" default="@stein_lr"}。分镜 10（右下左上小）：英雄向下旋转或冲刺的特写，对话气泡“PAREIL POUR MOI !”。分镜 11（右下左下小）：狭窄的垂直冲击分镜，带有坠落的人物、蓝色爆炸和一个小的空白或点状对话气泡。分镜 12（右下中心垂直）：蓝天和枯树，带有斜向划过的火焰弹，对话气泡写着“MU Y VOIT PLUS CLAIR DÉSORMAIS !”。分镜 13（右下大型）：英雄像苍白的龙卷风一样在干枯的森林上方旋转，蓝色螺旋能量和坠落的碎片，对话气泡写着“LA FORÊT S’EST DES-SÉCHÉE !”、“HEIN ??” 和 “!!?”。分镜 14（右边缘附近嵌入的小型对话区域）：保留作为大型动作分镜组成部分的带有“!!?”的清晰白色气泡。
+
+文字风格：在带有黑色轮廓的白色对话气泡内使用法语大写漫画字体，字体粗且不规则。使用多个超大的黑色日式音效，特别是在冲击和运动周围。保持所有可见文字清晰但具有手绘感。
+
+色彩与氛围：左页以炽热的橙色、红色、烟熏棕色和黑色阴影为主。右页以冰蓝色、海军蓝、青色高光、苍白的月光白和黑色剪影为主。温暖的反派对峙与寒冷的超自然森林漩涡之间形成强烈对比。
+
+约束：保留精确的 14 个分镜计数和描述的分镜排列。除英雄、反派、剪影和分镜中暗示的小型动作人物外，不要添加额外角色。保持厚实的漫画分镜间隙、戏剧性的透视、密集的速度线、绘画感上色，且不要包含任何现代 UI 元素。
+
+[English]
+Goal: Create a full-color manga double-page spread in the style of a dramatic shonen battle scene, resembling a French-translated One Piece chapter page, with heavy black panel borders, dynamic action, expressive hand-lettered sound effects, and saturated blue-red cinematic coloring.
+
+Canvas: Landscape 4:3 comic page collage, approximately 1024×768, with a white gutter grid separating panels. The image should look like a restored and colorized manga scan: inked line art, painterly digital color, high contrast shadows, and slightly gritty paper texture.
+
+Layout: Use exactly 14 visible comic panels arranged as a dense two-page spread. Left side contains 8 panels: 3 small panels across the top, 4 narrow action panels beneath them, and 1 large dramatic panel at the bottom. Right side contains 6 panels: 1 huge blue forest panel at the top right and 5 smaller panels along the bottom right, including two thin stacked panels on the left, one vertical center panel, one large right panel, and small speech-bubble areas integrated into the right panel.
+
+Subject details: Show {argument name="hero character" default="a white-haired rubbery warrior with flame-like hair, round eyes, a huge grin, and cartoonish Gear Five energy"} fighting {argument name="villain character" default="a massive horned dragon-like emperor with long white hair, black shadowed armor, and an enormous spiked club"}. The scene alternates between close-ups of the hero’s manic smiling face, explosive attacks, and a vast blue forest battlefield. The hero appears glowing and elastic, with pale skin, swirling white hair, and exaggerated anime expressions. The villain is towering, menacing, mostly dark purple and black, with horns, flowing hair, and a brutal silhouette.
+
+Panel-by-panel content count: Panel 1, top-left small: close-up of the grinning flame-haired hero saying “HEIN ?!” with orange fire lighting. Panel 2, top row middle: white speech bubble reading “…QUE TU N’ES PAS JOY BOY !” against pale blue motion energy. Panel 3, top row right: glowing blue-white impact sphere with speed lines and a speech bubble reading “MU SAIT PARFAI-TEMENT…”. Panel 4, second row far left: red-brown motion panel with distorted ground or body and large vertical sound effects. Panel 5, second row narrow: red beam-like action panel with a tiny speech bubble reading “ALLONS-Y !”. Panel 6, second row center: close-up of the hero’s wild grin framed by huge black Japanese sound effect lettering. Panel 7, second row right: dark close-up of a single intense eye in purple shadow. Panel 8, bottom-left large: the hero hangs injured or limp in front of the towering horned villain holding a club, red smoky sky behind them, with two large speech bubbles reading “…N’ÉTAIT PAS AUSSI FAIBLE…!” and “JOY BOY, LUI…”, plus a small black caption box reading “LE ROI DU MONDE DANS TOUTE SA SPLENDEUR…!!”. Panel 9, top-right huge: immense blue enchanted forest vortex, twisted trees, swirling leaves and wind, a black silhouetted warrior at the right edge holding a weapon, and bold black Japanese sound effects; add the watermark {argument name="watermark text" default="@stein_lr"} near the lower-left of this large panel. Panel 10, bottom-right upper-left small: close-up of the hero spinning or rushing downward, speech bubble “PAREIL POUR MOI !”. Panel 11, bottom-right lower-left small: narrow vertical impact panel with a falling figure, blue explosion, and a small empty or dotted speech bubble. Panel 12, bottom-right center vertical: blue sky and dead trees with a flaming projectile streaking diagonally, speech bubble reading “MU Y VOIT PLUS CLAIR DÉSORMAIS !”. Panel 13, bottom-right large: the hero spinning like a pale tornado above a dried forest, blue spiral energy and falling debris, speech bubbles reading “LA FORÊT S’EST DES-SÉCHÉE !”, “HEIN ??”, and “!!?”. Panel 14, embedded small speech region near the right edge: preserve the sharp white bubble with “!!?” as part of the large action panel composition.
+
+Text style: Use French uppercase manga lettering in thick irregular black font inside white speech bubbles with black outlines. Use multiple oversized black Japanese-style sound effects, especially around impacts and motion. Keep all visible text legible but hand-drawn.
+
+Color and mood: Left page should be dominated by fiery oranges, reds, smoky browns, and black shadows. Right page should be dominated by icy blues, navy, cyan highlights, pale moonlit whites, and black silhouettes. Strong contrast between warm villain confrontation and cold supernatural forest vortex.
+
+Constraints: Preserve the exact 14-panel count and the described panel arrangement. Do not add extra characters beyond the hero, villain, silhouettes, and tiny action figures implied by the panels. Keep thick manga panel gutters, dramatic perspective, dense speed lines, painterly colorization, and no modern UI elements.
+```
+
+**来源：** [@STEIN (bin)](https://x.com/stein_lr/status/2075742371954733516) | 2026-07-11
+
+---
+

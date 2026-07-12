@@ -9793,3 +9793,149 @@ Outfit: a sporty feminine casual summer outfit featuring a {argument name="top" 
 
 ---
 
+### 🏷️ 例 3774：Kaeldrax 动漫时尚角色概念图
+
+![Kaeldrax 动漫时尚角色概念图](../../images/Kaeldrax%20%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级、现代的高定时尚 {argument name="subject" default="角色概念艺术图"}，采用 16:9 宽屏布局，背景为纯白色，并遵循以下精确的结构化构图和视觉美学：\n\n[风格]：{argument name="art style" default="高对比度数字动漫"}
+
+[English]
+Create a premium, modern high-fashion {argument name="subject" default="CHARACTER CONCEPT ART SHEET"} in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic:\n\n[STYLE]: {argument name="art style" default="high-contrast digital anime"}
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2076082573173006439) | 2026-07-11
+
+---
+
+### 🏷️ 例 3780：深夜街角杂货店
+
+![深夜街角杂货店](../../images/%E6%B7%B1%E5%A4%9C%E8%A1%97%E8%A7%92%E6%9D%82%E8%B4%A7%E5%BA%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的深夜街头摄影作品，拍摄对象为老旧城区的一家小型街角杂货店，视角从人行道对面略微仰拍。商店位于深色砖墙的街角，上方悬挂着两个巨大的复古红白发光招牌，上面用经典字体写着 {argument name="store sign text" default="Coca-Cola"}，两个招牌分别朝向左右两侧，位于遮阳棚上方。采用充满情绪的写实黑色电影风格，强调深邃的阴影、洒在开裂水泥地上的温暖荧光灯光、高对比度、细腻的颗粒感以及略微去饱和的色调。店面有两个玻璃橱窗和一扇玻璃门，里面陈列着琳琅满目的商品：请精确呈现店内外 8 组主要可见商品：货架上的罐头、瓶装饮料、零食袋、麦片或盒装杂货、悬挂的香蕉、板条箱里的橙子和苹果、大桶瓶装水以及纸板箱装的农产品。在招牌下方的街角处添加一个黄棕色条纹遮阳棚。在敞开的玻璃门外放置 {argument name="main subject" default="一个穿着深色大衣的孤独男人"}，以剪影形式呈现，正面向明亮的店内，仿佛在犹豫买什么。在左侧关闭的墙边靠着一辆自行车，深色的转角立柱上有涂鸦和小贴纸，人行道上散落着干枯的落叶，右侧窗外堆放着饮料和农产品的板条箱。整个场景应营造出安静、深夜、怀旧且具有纪录片般的写实感，建筑细节清晰，招牌散发着柔和的光芒；不要包含其他人物，不要有现代奢华元素，也不要出现整洁的商业化店面。
+
+[English]
+Create a cinematic nighttime street photograph of a small corner bodega in an old urban neighborhood, viewed from across the sidewalk at a slight low angle. The store sits on a dark brick corner with two large illuminated vintage red-and-white signs reading {argument name="store sign text" default="Coca-Cola"} in classic script, one sign facing left and one facing right above the awning. Use a moody, realistic film-noir look with deep shadows, warm fluorescent shop lighting spilling onto cracked concrete, high contrast, subtle grain, and a slightly desaturated color palette. The storefront has two glass display windows and one glass door, all packed with visible goods: count exactly 8 main visible product groups inside and outside the shop: canned goods on shelves, bottled drinks, snack bags, cereal or boxed groceries, hanging bananas, oranges and apples in crates, large bottled water jugs, and cardboard boxes of produce. Add a striped yellow-and-brown awning wrapping around the corner beneath the signs. Place {argument name="main subject" default="a lone man in a dark coat"} standing in silhouette just outside the open glass door, facing into the bright shop interior as if deciding what to buy. Include a bicycle leaning against the left shuttered wall, graffiti and small stickers on the dark corner column, scattered dry leaves on the sidewalk, and crates of drinks and produce stacked outside the right window. The scene should feel quiet, late-night, nostalgic, and documentary-realistic, with sharp architectural detail and soft glow from the signage; no extra people, no modern luxury elements, no clean corporate storefront.
+```
+
+**来源：** [@Jonathan Fischoff](https://x.com/jfischoff/status/2076007301484593361) | 2026-07-11
+
+---
+
+### 🏷️ 例 3781：复古宝丽来人像
+
+![复古宝丽来人像](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张复古宝丽来即影即现照片，带有经典的厚白边，边缘微微卷曲。照片看起来经过粗糙处理——光亮的表面上隐约可见一枚指纹，顶部有一道细小的划痕。一位 {argument name="subject" default="年轻日本女性"} 留着 {argument name="hair style" default="黑色长发，略显凌乱"}，直视镜头。她的表情并非刻意摆拍——带着一种安静、疲惫的沉静，下巴微抬，嘴唇平直，仿佛正处于思绪游离之间。她穿着一件简单的 {argument name="outfit" default="黑色 V 领上衣"}，肩部有些许褶皱。光线平淡而温暖，像是廉价客厅台灯发出的光。背景是一面斑驳的棕灰色墙壁，光照不均，顶部有一道小裂缝。右上角有一道明显的红橙色漏光，画面中还有一道淡淡的垂直镜头光晕——这是闪光灯老化造成的意外效果。柔和的胶片颗粒，略微去饱和的暖棕褐色调，阴影柔和。这张照片感觉像是从鞋盒里翻出来的，被遗忘了二十年。白边左下角露出一截流浪猫的尾巴。
+荷兰角镜头，流浪猫尾巴 --ar 9:16
+
+[English]
+A vintage Polaroid instant photograph with a classic thick white border, slightly curled at the edges. The image has been handled roughly—a faint fingerprint visible on the glossy surface, a tiny scratch near the top. A {argument name="subject" default="young Japanese woman"} with {argument name="hair style" default="long, dark, slightly messy hair"} stares directly into the camera. Her expression is not posed—a quiet, tired stillness, her chin slightly raised, her mouth a flat line, as if she was caught between thoughts. She wears a simple {argument name="outfit" default="black V-neck top"}, slightly wrinkled at the shoulder. The lighting is flat and warm, the kind from a cheap living room lamp. The background is a mottled brown-grey wall, unevenly lit, with a small crack near the top. A distinct, reddish-orange light leak bleeds across the upper right corner, and a faint vertical lens flare streaks down the frame—accidents of a dying flash. Soft film grain, slightly desaturated warm sepia tones, muted shadows. The photo feels like it was found in a shoebox, forgotten for twenty years. A stray cat tail peeks from the bottom left corner of the white border.
+dutch angle, stray cat tail --ar 9:16
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2075991287623532942) | 2026-07-11
+
+---
+
+### 🏷️ 例 3803：低角度冬季围巾自拍
+
+![低角度冬季围巾自拍](../../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%86%AC%E5%AD%A3%E5%9B%B4%E5%B7%BE%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实的智能手机自拍，主角是一位美丽的 {argument name="subject" default="年轻东亚女性"}，采用极具张力的低角度视角，背景为 {argument name="background" default="带有柔和白云的湛蓝天空"}。她留着一头乌黑的长直发，在风中自然飘动，拥有白皙如瓷的肌肤、柔和的棕色杏眼、精致的猫眼眼线、自然的粉色双唇，表情俏皮，双唇轻抿。她对着镜头做出可爱的加油姿势，单手握拳举在空中。她身穿 {argument name="outfit" default="超大款黑色连帽外套，内搭黑白条纹针织围巾"}，颈部缠绕着围巾，佩戴小巧的银色耳钉，妆容为简约的韩式风格。明亮的自然光，柔和的阳光，真实的皮肤质感，地道的 iPhone 前置摄像头视觉效果，轻微的广角镜头畸变，抓拍的户外快照，鲜艳的蓝天，构图简洁，浅景深，照片级真实感，超高细节，4K，纪实生活摄影。
+
+[English]
+Ultra-realistic smartphone selfie of a beautiful {argument name="subject" default="young East Asian woman"} taken from a dramatic low-angle perspective against a {argument name="background" default="vivid blue sky with soft white clouds"}. She has long straight jet-black hair flowing naturally in the wind, fair porcelain skin, soft almond-shaped brown eyes, subtle winged eyeliner, natural pink lips, and a playful expression with her lips gently pressed together. She raises one fist in the air in a cute cheering pose while looking directly into the camera. She wears an {argument name="outfit" default="oversized black hooded coat layered with a black-and-white striped knitted scarf"} wrapped around her neck, small silver stud earrings, and minimal Korean makeup. Bright natural daylight, soft sunlight, realistic skin texture, authentic iPhone front-camera look, slight wide-angle lens distortion, candid outdoor snapshot, vibrant blue sky, clean composition, shallow depth of field, photorealistic, ultra-detailed, 4K, documentary lifestyle photography.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2075928428688318595) | 2026-07-11
+
+---
+
+### 🏷️ 例 3810：日本音乐人专辑封面
+
+![日本音乐人专辑封面](../../images/%E6%97%A5%E6%9C%AC%E9%9F%B3%E4%B9%90%E4%BA%BA%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的日本专辑封面风格插画，采用 16:9 宽幅横向构图。画面中展示两名美型动漫风格的年轻男性传统音乐人，由贯穿构图的 S 型黑金波浪线分隔。左上方描绘一名肤色苍白、身形修长的男子，留着低扎的白色长发，拥有锐利的紫色双眼，神情冷静而专注，身穿层叠的紫、薰衣草色花卉和服；他双手横持一支红金相间的竹笛，正吹奏乐曲。右下方描绘一名肤色苍白、身形修长的男子，留着凌乱的黑发，眼神深邃，身穿宽松的黑色和服，露出白色裹胸，肩部饰有红色山茶花图案；他斜持一把三味线，左手按住琴颈，右手靠近琴身，表情严肃且专注。在画面中心放置一块垂直的羊皮纸标题牌，上面用黑色日本书法书写 {argument name="title text" default="新訳・鹤越"}。使用深紫、黑、森林绿、米色和金属金构成的奢华暗色调，并加入华丽的日本屏风画细节、金粉溅射、水墨质感、云纹、新月弧线及装饰性花卉图案。在左上方和顶部中心区域布置三簇显眼的白色菊花，右下方布置三朵显眼的红色山茶花。背景最左侧和最右侧加入微妙的棋盘格纹，呈现陈旧纸张质感，线条精细，采用优雅的美少年角色设计，配合电影级光影，打造精致的奇幻专辑封面效果。画面中不得出现现代物品，不得添加额外角色，不得有水印，所有文字仅限中央的垂直标题牌。
+
+[English]
+Create a dramatic Japanese album-cover style illustration in a wide 16:9 landscape format. Show exactly two beautiful anime-style young men as traditional musicians, divided by a sweeping gold-and-black S-shaped wave across the composition. On the left upper side, depict a pale, slim man with long white hair tied low over one shoulder, sharp violet eyes, and a calm intense expression, wearing a layered purple and lavender floral kimono; he holds and plays a red-and-gold transverse bamboo flute horizontally near his mouth with both hands. On the right lower side, depict a pale, slim man with tousled black hair and dark eyes, wearing a loose black kimono slipped open over white chest wrappings, with red camellia floral patterns on one shoulder; he holds a shamisen diagonally, left hand on the neck and right hand near the body, looking serious and focused. Place a vertical parchment title plaque in the center with black Japanese calligraphy reading {argument name="title text" default="新訳・鶴越"}. Use a luxurious dark palette of deep purple, black, forest green, cream, and metallic gold, with ornate Japanese screen-painting details, gold splatter, ink texture, cloud bands, sweeping crescent arcs, and decorative floral motifs. Include exactly three prominent white chrysanthemum clusters around the upper left and top center areas, and exactly three prominent red camellia blossoms on the lower right. Add subtle checkerboard patterns in the far left and far right background, aged paper texture, high-detail line art, elegant bishounen character design, cinematic lighting, and a polished fantasy-jacket-cover finish. No modern objects, no extra characters, no watermark, keep all text limited to the central vertical plaque.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2075904032238100813) | 2026-07-11
+
+---
+
+### 🏷️ 例 3835：红色马克笔背景下的写实人像
+
+![红色马克笔背景下的写实人像](../../images/%E7%BA%A2%E8%89%B2%E9%A9%AC%E5%85%8B%E7%AC%94%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E5%86%99%E5%AE%9E%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用上传的图像作为参考。保持人物完全不变，保留其面部、姿势、服装、发型、光影、色彩和比例。移除原始背景，并将相同的环境重新创建为 {argument name="sketch style" default="仅使用深绯红色马克笔线条绘制的随性手绘草图"}，背景设为 {argument name="background color" default="纯白色背景"}。草图应呈现出快速、灵动、不完美且自信的手绘感，线条中等粗细，带有轻微抖动、压力变化、细小间隙和马克笔晕染效果——而非矢量图或技术线条。保持人物 100% 照片级真实，不对其应用任何草图效果或轮廓线。将主体自然地置于插画背景前方，确保所有 {argument name="marker color" default="红色"} 草图线条均位于人物后方。在右下角添加一个圆角小插图，展示转换前原始上传的照片，以便进行清晰的对比。风格简洁利落，高分辨率，写实主体与醒目红色草图之间形成强烈对比，无额外色彩，无渐变，无纸张纹理。
+
+[English]
+Use the uploaded image as the only reference. Keep the person exactly the same, preserving their face, pose, clothing, hairstyle, lighting, colors, and proportions. Remove the original background and recreate the same environment as a {argument name="sketch style" default="loose hand-drawn sketch using only deep crimson red felt-tip marker lines"} on a {argument name="background color" default="pure white background"}. The sketch should be quick, playful, imperfect, and confidently hand-drawn with medium-thick strokes, slight wobble, pressure variation, tiny gaps, and marker bleed—not vector art or technical line work. Keep the person 100% photorealistic with no sketch effect or outline applied to them. Place the subject naturally in front of the illustrated background, ensuring all {argument name="marker color" default="red"} sketch lines remain behind the person. Add a small rounded-corner inset in the bottom-right corner showing the original uploaded photo of the exact same person and scene before the transformation for a clear before-and-after comparison. Ultra-clean editorial style, high resolution, strong contrast between the realistic subject and the bold red sketch, no extra colors, no gradients, and no paper texture.
+```
+
+**来源：** [@Synthia](https://x.com/AIwithSynthia/status/2075806836347883940) | 2026-07-11
+
+---
+
+### 🏷️ 例 3837：布格罗风格的粉发林中仙女
+
+![布格罗风格的粉发林中仙女](../../images/%E5%B8%83%E6%A0%BC%E7%BD%97%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%B2%89%E5%8F%91%E6%9E%97%E4%B8%AD%E4%BB%99%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 3:4 竖构图的浪漫主义学院派油画，风格参考威廉·阿道夫·布格罗（William-Adolphe Bouguereau）：一位年轻女子，留着 {argument name="hair color" default="长长的淡粉色头发"}，侧身坐在森林浅溪边长满青苔的岩石上，回眸看向观者，神情宁静而忧郁。她戴着 {argument name="eyewear" default="黑色长方形眼镜"}，头戴一顶由淡色花朵和绿叶编织而成的精致花环，上背部/肩部有一个粉色小花纹身或贴纸，身穿一件半透明的象牙白与淡粉色交织的希腊式垂褶长裙，裙边带有金色编织装饰，布料在臀部周围褶皱并向后拖曳。她赤着双脚，靠近并浸在水中；左手轻触湿润的岩石，姿态优雅且略带扭曲。画面左侧有一棵巨大的深色树干，前景是一条静谧的倒影溪流，她下方是长满青苔的石台，右侧是茂密的林木和点缀其间的小白花。运用透过叶片洒下的温暖金色斑驳阳光，柔和的晕涂法（sfumato）边缘，通透的肤色，写实的解剖结构，油画笔触，柔和的绿色与棕色调，珍珠奶油色的布料，营造出梦幻般的神话仙女氛围。保持构图亲密且居中，画面中不含文字、水印，除眼镜外不出现任何现代物品。
+
+[English]
+Create a vertical 3:4 romantic academic oil painting in the style of William-Adolphe Bouguereau: one young woman with {argument name="hair color" default="long pastel pink hair"} sits sideways on a mossy rock at the edge of a shallow forest stream, looking back over her shoulder toward the viewer with a calm, wistful expression. She wears {argument name="eyewear" default="black rectangular glasses"}, one delicate flower crown of pale blossoms and green leaves, one small pink flower tattoo or sticker on her upper back/shoulder, and one translucent ivory-and-blush Grecian draped gown with gold braided trim, the fabric gathered around her hips and trailing behind her. Her two bare feet rest near and in the water; her left hand touches the wet rock while her posture is elegant and slightly twisted. The setting contains one dark massive tree trunk on the left, one quiet reflective stream in the foreground, one moss-covered stone ledge beneath her, and dense woodland foliage with small pale flowers on the right. Use warm golden dappled sunlight filtering through leaves, soft sfumato edges, luminous skin, realistic anatomy, painterly brush texture, muted greens and browns, pearly cream fabric, and a dreamy mythological nymph atmosphere. Keep the composition intimate and centered, with no text, no watermark, and no modern objects besides the glasses.
+```
+
+**来源：** [@Flutterwhat](https://x.com/flutterwhat/status/2075805529989914744) | 2026-07-11
+
+---
+
+### 🏷️ 例 3852：复古火车石墨肖像
+
+![复古火车石墨肖像](../../images/%E5%A4%8D%E5%8F%A4%E7%81%AB%E8%BD%A6%E7%9F%B3%E5%A2%A8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超写实的石墨铅笔素描，描绘 {argument name="character description" default="一位美丽的南亚年轻女性"} 坐在豪华复古火车车厢内的大窗户旁，采用竖构图，展示腰部以上的部分。她表情平静柔和，面带微笑，望向画面左侧的窗外，而非注视观众。她留着一头长发，中分的发丝被开着的窗户吹进的风轻轻向右拂动，铅笔勾勒出许多细腻的发丝。她身着优雅的南亚传统刺绣服饰，肩上和膝上披着飘逸的纱巾（dupatta），佩戴着小巧的耳环（jhumka）、手镯，织物上布满了精致的花卉图案。她的双手放在膝上，拿着 {argument name="held object" default="一本封面带有椭圆形装饰的小型闭合书籍或日记本"}。背景是装饰华丽的复古豪华火车内饰，配有抛光的深色木镶板、雕花装饰、带有装饰性字母组合标志的软垫座椅靠背、框架墙壁细节以及背景中的小型古典壁灯。透过窗户，展示出细致的 {argument name="outside landscape" default="带有雪山顶、松树覆盖的山坡、蜿蜒河流、树木和远方田野的山谷"}。仅使用单色石墨铅笔色调，绘制在有纹理的米白色纸张上，强调高度逼真的面部阴影、柔和的高光、细腻的交叉排线、分层的铅笔渐变、复杂的纺织品刺绣以及窗外的大气深度。整体氛围应充满浪漫、怀旧、宁静和电影感。无色彩，无现代物品，无文字，无水印，无其他人物。
+
+[English]
+Create an ultra-realistic graphite pencil sketch of {argument name="character description" default="a beautiful young South Asian woman"} sitting beside a large window inside a luxurious vintage train carriage, shown from the waist up in a vertical portrait composition. She has a calm, soft expression, slightly smiling, looking out through the window toward the left side of the image rather than at the viewer. Her long, flowing hair is parted near the center and blown gently to the right by wind from the open window, with many fine individual strands rendered in pencil. She wears an elegant embroidered traditional South Asian outfit, a flowing dupatta draped over one shoulder and across her lap, small jhumka earrings, bangles, and delicate floral patterns throughout the fabric. Her hands rest in her lap holding {argument name="held object" default="a small closed book or diary with an oval ornament on the cover"}. The setting is an ornate vintage luxury train interior with polished dark wood paneling, carved trim, a cushioned seat back bearing a decorative monogram emblem, framed wall details, and a small classic wall lamp in the background. Through the window, show a detailed {argument name="outside landscape" default="mountain valley with snow-capped peaks, pine-covered slopes, a winding river, trees, and distant fields"}. Use only monochrome graphite pencil tones on textured off-white paper, with highly realistic facial shading, soft highlights, fine crosshatching, layered pencil gradients, intricate textile embroidery, and atmospheric depth outside the window. The mood should feel romantic, nostalgic, serene, and cinematic. No color, no modern objects, no text, no watermark, no extra people.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2075764514017161586) | 2026-07-11
+
+---
+

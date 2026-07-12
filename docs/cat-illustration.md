@@ -7411,3 +7411,200 @@ Outfit: a feminine casual summer outfit featuring a {argument name="top" default
 
 ---
 
+### 🎨 例 3773：未来感白色连帽动漫少女
+
+![未来感白色连帽动漫少女](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E7%99%BD%E8%89%B2%E8%BF%9E%E5%B8%BD%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的全身动漫角色概念插画，背景为纯浅灰白色。主体是一位年轻的未来感少女，拥有 {argument name="hair color" default="白银色"} 的长层叠发型、直刘海、柔和的红棕色双眼、白皙的皮肤，神情平静，嘴角微扬，正面站立，姿势放松，双臂下垂。她身穿一件超大号长款白色连帽科技斗篷/外套，长度及膝以下，下摆、袖口和前襟垂直开口处饰有干练的黑色镶边。兜帽宽大且带有动物耳朵特征，两侧有两个深色下垂的耳状侧板，顶部安装有圆形赛博装置；装置为黑色，带有发光的青色圆环和小型机械支架。兜帽内可见黑色高领。胸前增加战术背带：两条带有矩形扣的黑色肩带，两条垂直垂下的黑色前带，以及一个中央矩形胸部模块，上面显示一个小兔子图标和数字 {argument name="chest number" default="96"}。右侧上袖处绑有一个黑色矩形臂袋。服装包括脚踝处可见的白色短裤或紧身裤，以及厚底白色未来感靴子，配有黑色鞋底、黑色绑带和灰色面板线条。采用清晰精致的日式动漫线条，细腻的赛璐珞阴影，干净的白色衣物褶皱，青色点缀光，修长的比例，高细节的角色设计图质量，无背景场景，无额外角色，除胸部模块的数字和图标外无任何文字。
+
+[English]
+Create a clean full-body anime character concept illustration on a plain light gray-white background. The subject is a young futuristic girl with {argument name="hair color" default="white-silver"} long layered hair, straight bangs, soft reddish-brown eyes, pale skin, and a calm slight smile, standing front-facing in a relaxed pose with arms down. She wears an oversized long white hooded tech poncho/coat reaching below the knees, with crisp black trim along the hem, sleeve edges, and vertical front opening. The hood is large and animal-ear-like, with two dark floppy ear-shaped side panels and circular cybernetic devices mounted on top; the devices are black with glowing cyan rings and small mechanical brackets. Under the hood, include a black high collar. Add a tactical harness over the chest: exactly two black shoulder straps with rectangular buckles, two vertical hanging black straps down the front, and a central rectangular chest module displaying a small bunny icon and the number {argument name="chest number" default="96"}. Add one black rectangular arm pouch strapped to the upper right sleeve. The outfit includes white cropped pants or leggings visible at the ankles and chunky white futuristic boots with black soles, black straps, and gray panel lines. Use sharp polished Japanese anime line art, subtle cel shading, clean white clothing folds, cyan accent lights, slim proportions, high-detail character design sheet quality, no background scenery, no extra characters, no text except the chest module number and icon.
+```
+
+**来源：** [@くらくろ](https://x.com/cla_kuro37459/status/2076084224164266149) | 2026-07-11
+
+---
+
+### 🎨 例 3777：赛博朋克龙族战士角色
+
+![赛博朋克龙族战士角色](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%BE%99%E6%97%8F%E6%88%98%E5%A3%AB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身动漫风格的角色概念插画，主角为拟人化的赛博朋克龙/蜥蜴战士，置于干净的白色背景中心。角色是一位高大、肌肉发达的雄性爬行动物类人生物，拥有青蓝色鳞片、深色斑点鳞片，以及奶油色的下颚、喉咙、胸部装饰、内臂甲和沿着粗壮弯曲尾巴的节状腹鳞。赋予他自信的坏笑、锋利的牙齿、棱角分明的红色眼睛，以及向后延伸的多根长而深青色的头部棘刺。他戴着反光的橙红色护目镜式太阳镜，右手正以酷炫的姿势抬起护目镜的一侧。服装：黑色无袖运动背心、黑色露指科技手套、带有长方形狗牌的细项链、腰间系着带有红色饰边的黑色夹克、宽松的黑色赛博朋克工装裤（带有发光的青色和红色霓虹线条）、膝部护甲、绑带、搭扣以及带有青色发光装饰的未来感高帮运动鞋。手臂上增加高科技装备：一只上臂带配有发光的青色模块，左前臂配有一个带有小屏幕细节的大型腕戴式装置，以及装甲手套板。尾巴从他身后伸出，粗壮且分节，带有深色的背棘和带状饰带。风格应为精致的日本动漫/游戏角色主视觉图，具有清晰的黑色线条、赛璐珞渲染、微妙的渐变、强烈的轮廓感和细节丰富的未来感街头服饰，画面中不包含任何文字、标志、水印或背景场景。
+
+[English]
+Create a full-body anime character concept illustration of an anthropomorphic cyberpunk dragon/lizard warrior, centered on a clean white background. The character is a tall, muscular male reptilian humanoid with teal-blue scales, darker mottled scale patches, a cream-colored lower jaw, throat, chest accents, inner arm plates, and segmented belly scales along a thick curving tail. Give him a confident smirk with sharp teeth, angular red eyes, and multiple long dark teal head spines sweeping backward. He wears reflective orange-red visor sunglasses and is lifting one side of the visor with his right hand in a cool pose. Outfit: black sleeveless athletic tank top, black fingerless tech gloves, a thin necklace with a rectangular dog tag, a black jacket tied around the waist with red trim, loose black cyberpunk cargo pants with glowing cyan and red neon panel lines, knee armor, straps, buckles, and futuristic high-top sneakers with cyan glowing accents. Add high-tech gear on his arms: one upper-arm band with a glowing cyan module, one large wrist-mounted device on the left forearm with small screen details, and armored glove plates. The tail emerges behind him, thick and segmented, with dark dorsal spikes and strap-like bands. Style should be polished Japanese anime / game character key art with crisp black linework, cel-shaded rendering, subtle gradients, strong silhouette, detailed futuristic streetwear, and no text, logo, watermark, or background scenery.
+```
+
+**来源：** [@蒼津岐 閃](https://x.com/aotuki_sen/status/2076055695120847016) | 2026-07-11
+
+---
+
+### 🎨 例 3790：企业家超跑石墨素描
+
+![企业家超跑石墨素描](../../images/%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%B6%85%E8%B7%91%E7%9F%B3%E5%A2%A8%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的图片作为身份参考。极其精准地保留人物身份，确保面部 100% 可辨认。不得更改发型、胡须、面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、肤色、年龄或面部比例。创作一幅高品质的超写实 {argument name="medium" default="石墨铅笔素描"}，采用 9:16 竖屏格式。一位成功的 {argument name="subject" default="年轻南亚 AI 企业家"} 自豪地站在一辆全新的 {argument name="vehicle" default="哑光黑兰博基尼"} 旁，背景是黄金时刻的超豪华超跑车行。车行代表正在向他递交豪华车钥匙，他面带自信的微笑接过。身后的展厅展示着异国情调的超跑，配有落地玻璃墙和优雅的建筑设计。温暖的阳光在车身上反射出迷人的光泽，营造出电影般的奢华氛围。他身穿剪裁考究的炭灰色双排扣西装，内搭修身黑色高领毛衣，脚穿抛光皮革切尔西靴，佩戴豪华不锈钢腕表和极简主义手链。博物馆级石墨铅笔渲染，具有超细腻的交叉排线、逼真的反射效果、奶油色纹理素描纸、可见的辅助线条、未完成的艺术素描边缘，编辑级奢华肖像，杰作，超写实，超细节，16K。负面提示词：低质量，模糊，卡通，动漫，CGI，水彩，油画，面部扭曲，多余肢体，水印，Logo，文字。
+
+[English]
+Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, age, or facial proportions.
+
+Create a premium ultra-realistic graphite pencil sketch in 9:16 vertical format.
+
+A successful young {argument name="subject" default="South Asian AI entrepreneur"} standing proudly beside a brand-new {argument name="car" default="matte black Lamborghini"} outside an ultra-luxury supercar dealership during golden hour. A dealership representative is handing him the luxury car key while he accepts it with a confident smile. The showroom behind him features exotic supercars, floor-to-ceiling glass walls, and elegant architecture. Warm sunlight reflects beautifully across the car, creating a cinematic luxury atmosphere.
+
+He wears a {argument name="outfit" default="tailored charcoal double-breasted suit"} over a fitted black turtleneck, polished leather Chelsea boots, a luxury stainless-steel wristwatch, and a minimalist bracelet.
+
+Museum-quality graphite pencil rendering with ultra-fine cross-hatching, realistic reflections, cream textured sketchbook paper, visible construction lines, unfinished artistic sketch edges, editorial luxury portrait, masterpiece, hyper realistic, ultra detailed, 16K.
+
+Negative Prompt:
+low quality, blurry, cartoon, anime, CGI, watercolor, oil painting, distorted face, extra limbs, watermark, logo, text.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2075959603452596419) | 2026-07-11
+
+---
+
+### 🎨 例 3791：奇幻学院骑士 Cosplay
+
+![奇幻学院骑士 Cosplay](../../images/%E5%A5%87%E5%B9%BB%E5%AD%A6%E9%99%A2%E9%AA%91%E5%A3%AB%20Cosplay.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的高质量 Cosplay 照片，场景设定在受奇幻动漫启发的宏伟中世纪学院大厅。画面中必须正好有两位身着配套贵族骑士制服的年轻女性：前景角色是 {argument name="foreground character" default="Angelica"}，一位皮肤白皙、身材苗条的年轻女性，留着浅蓝色高马尾，脸颊两侧有长刘海，蓝色双眸，表情冷静而严肃；她摆出英勇的击剑姿势，身体向左侧转四分之三，右手伸向镜头，握着一把抛光的细剑斜跨过画面，左手戴着手套垂下。她的服装是一件海军蓝长款军装风格连衣裙，配有金色滚边、黑色手套、棕色皮带和侧带，肩上披着一件金棕色斗篷，胸前佩戴着带有华丽花纹的闪亮银色胸甲。在她身后站着正好一位第二角色，{argument name="background character" default="Rozemyne"}，略微失焦，是一位留着深蓝色长发的娇小年轻女性，穿着类似的带有金色饰边的海军蓝连衣裙和金棕色斗篷，双手合十放在胸前，神情温柔而关切。场景是一个明亮的石砌大教堂式图书馆或学院走廊，有高大的圆柱、柔和的大窗光，背景中悬挂着一面深蓝色旗帜，上面绘有被月桂叶环绕的金色打开书本的徽章。采用电影级的浅景深、自然的皮肤纹理、写实的织物和金属反光、柔和的日光、优雅的构图、竖版 4:5 画幅，无文字叠加，无水印，无多余角色，且无多余武器。
+
+[English]
+Create a realistic high-quality cosplay photograph in a grand medieval academy hall inspired by fantasy anime. Show exactly two young women in matching noble knight uniforms: the foreground character is {argument name="foreground character" default="Angelica"}, a slim young woman with pale skin, light blue hair in a high ponytail with long face-framing bangs, blue eyes, and a calm serious expression; she stands in a heroic fencing pose, body turned three-quarters left, right arm extended toward the camera holding one polished rapier diagonally across the frame, left gloved hand lowered. Her costume is a navy blue long military-style dress with gold piping, black gloves, brown leather belt and side straps, a gold-brown cloak flowing over her shoulders, and a shiny silver chest breastplate with ornate filigree. Behind her stands exactly one second character, {argument name="background character" default="Rozemyne"}, slightly out of focus, a petite young woman with long deep blue hair, wearing a similar navy dress with gold trim and a gold-brown cloak, hands clasped at her chest, watching with a gentle concerned expression. The setting is a bright stone cathedral-like library or academy corridor with tall columns, large soft window light, and one dark blue hanging banner in the background showing a gold open-book emblem surrounded by laurel leaves. Use cinematic shallow depth of field, natural skin texture, realistic fabric and metal reflections, soft daylight, elegant composition, vertical 4:5 framing, no text overlay, no watermark, no extra characters, and no extra weapons.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2075957187508338949) | 2026-07-11
+
+---
+
+### 🎨 例 3793：可爱的旅行 Vlog 缩略图
+
+![可爱的旅行 Vlog 缩略图](../../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E6%97%85%E8%A1%8C%20Vlog%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的竖版旅行 Vlog 缩略图/拼贴画，画面主体为一名在阳光明媚的户外小巷中微笑的年轻女性旅行者，周围环绕着可爱的剪贴簿贴纸和手绘涂鸦。
+
+画布：竖版 3:4 社交媒体图片，高分辨率，温暖的日光，浅景深。背景为迷人的步行街或咖啡馆小巷，带有植物、赤陶色遮阳伞、柔和的焦外成像以及远处的一个小黑板招牌。
+
+主体：一位开朗的 {argument name="character description" default="留着齐肩黑发和刘海的年轻东亚女性"} 站在画面中心偏右侧，身体四分之三转向镜头，笑容温暖。她身穿一件宽松的白色 T 恤，胸前印有小型自然图案，搭配浅蓝色牛仔裤，单肩背着一个米色大背包。在背包上挂一个可爱的毛绒钥匙扣。为人物添加一圈厚实的白色剪纸轮廓，使其看起来像一张贴纸。
+
+布局与文字贴纸：使用 6 个主要的文字贴纸：1) 左上角的大标题，文字为 {argument name="main title" default="Travel Vlog"}，采用超大圆润的柔和泡泡字体，并带有厚实的白色边框；2) 右上角的堆叠贴纸，文字为 {argument name="top right phrase" default="Good Vibes Only"}，配有一个黄色爱心和一个黄色笑脸；3) 左侧的小粉色丝带横幅，文字为 {argument name="banner text" default="let's go!"}；4) 右侧的深色云朵对话框，文字为 "explore more"，配有一个小粉色爱心；5) 左下角的贴纸，文字为 "on the way"，采用俏皮的蓝粉色泡泡字体，并配有一朵小白花；6) 右下角的便签贴纸，文字为 {argument name="note text" default="Collect moments not things"}，配有一条粉色胶带和一个小爱心。
+
+装饰元素：包含 3 个旅行插画图标：左侧是一个镜头上有爱心的可爱线条画相机，右下角是一张带有粉色定位针的折叠地图，以及背包上的毛绒挂件。在主体周围散布多个白色手绘小火花、箭头、爱心、波浪线和涂鸦标记，保持画面轻盈通透。
+
+视觉风格：写实生活风肖像与可爱贴纸图形的融合，柔和的色彩，光泽感的剪贴簿美学，柔和的白色轮廓，俏皮的 Vlog 缩略图设计，温暖的金色阳光，愉悦的度假氛围。
+
+约束条件：保持所有文字清晰可辨且为英文，保留 6 个主要的文字贴纸和 3 个旅行插画图标，避免使用过大的文字，避免出现水印或 Logo，并确保人物是清晰的视觉焦点。
+
+[English]
+Goal: Create a bright vertical travel vlog thumbnail/collage featuring a smiling young woman traveler in a sunny outdoor alley, surrounded by cute scrapbook stickers and hand-drawn doodles.
+
+Canvas: Vertical 3:4 social media image, high-resolution, warm daylight, shallow depth of field. Background is a charming pedestrian street or café alley with plants, terracotta umbrellas, soft bokeh, and a small chalkboard sign in the distance.
+
+Main subject: A cheerful {argument name="character description" default="young East Asian woman with shoulder-length black hair and bangs"} stands slightly right of center, turned three-quarters toward the camera, smiling warmly. She wears a loose white T-shirt with a small nature print on the chest, light blue jeans, and a large beige backpack over one shoulder. Add a cute plush keychain hanging from the backpack. Put a thick white cutout outline around the subject, like a sticker.
+
+Layout and text stickers: Use exactly 6 main text stickers: 1) large top-left title reading {argument name="main title" default="Travel Vlog"} in oversized rounded pastel bubble letters with a thick white border; 2) top-right stacked sticker reading {argument name="top right phrase" default="Good Vibes Only"} with a yellow heart and yellow smiley face; 3) small pink ribbon banner on the left reading {argument name="banner text" default="let's go!"}; 4) dark cloud speech bubble on the right reading "explore more" with a small pink heart; 5) bottom-left sticker reading "on the way" in playful blue and pink bubble letters with a small white flower; 6) bottom-right sticky note reading {argument name="note text" default="Collect moments not things"} with a pink tape strip and a small heart.
+
+Decorative elements: Include exactly 3 illustrated travel icons: a cute line-art camera with a heart on the lens on the left, a folded map with a pink location pin on the lower right, and the backpack plush charm. Add multiple small white hand-drawn sparkles, arrows, hearts, squiggles, and doodle marks scattered around the subject, keeping them light and airy.
+
+Visual style: Photorealistic lifestyle portrait blended with kawaii sticker graphics, pastel colors, glossy scrapbook aesthetic, soft white outlines, playful vlog thumbnail design, warm golden sunlight, cheerful vacation mood.
+
+Constraints: Keep all text legible and in English, preserve the exact 6 main text stickers and 3 illustrated travel icons, avoid extra large words, avoid watermarks or logos, and make the subject the clear focal point.
+```
+
+**来源：** [@Haybrook](https://x.com/BrookHayppuo/status/2075954765939487171) | 2026-07-11
+
+---
+
+### 🎨 例 3796：GPT Image 2 递归图像嵌套
+
+![GPT Image 2 递归图像嵌套](../../images/GPT%20Image%202%20%E9%80%92%E5%BD%92%E5%9B%BE%E5%83%8F%E5%B5%8C%E5%A5%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温暖的手绘风格数字插画，展现递归图像生成的嵌套效果，画面中一只可爱的拟人化浣熊创作者正坐在木质书桌前，通过笔记本电脑使用 GPT Image 2。场景设定在一个舒适的工作室中，背景为米色纸张纹理，采用墨线勾勒、柔和阴影、柔和的大地色调以及橙色点缀。在前景中，放置 1 只穿着黑色连帽衫的浣熊角色，连帽衫背面印有橙色的山峰与旗帜标志，它正坐在笔记本电脑前，张着嘴微笑着兴奋地指向屏幕。在浣熊上方添加一个对话气泡，其中黑色文字写着“IMAGE GENERATION”，橙色文字写着“INCEPTION”，下方带有一个小橙色闪光点。在笔记本电脑屏幕上，展示 GPT Image 2 的界面，标题为“GPT Image 2”，并呈现出同一场景的无限嵌套递归：准确显示 6 层向内延伸的屏幕/笔记本电脑框架，每一层都更小且透视对齐，营造出隧道效果。在主显示屏幕内，包含 6 个并排坐在书桌前的动物角色：1 只穿黑色连帽衫的浣熊、1 只穿绿色连帽衫的熊猫、1 只穿蓝色连帽衫的橙色狐狸、1 只穿黄色连帽衫的刺猬、1 只紫色小动物，以及最深处屏幕内的一只微型嵌套动物。在递归房间的背景中添加激励海报，文字简短，如“FOCUS BUILD SHIP”、“KEEP IT SIMPLE”、“MAKE COOL THINGS”和“CREATE EVERY DAY”。在笔记本电脑界面底部，包含一个提示词输入框，写着“What do you want to create?”，以及一个标有“Generate”的橙色按钮，外加两个小的轮廓操作图标。在书桌上，放置 3 个显眼的配件：右侧有一个印有白色 X 标志的黑色马克杯、一本写着“ENDLESS CREATIVITY”并带有橙色爱心的螺旋笔记本，以及两支带有橙色装饰的黑色钢笔。在最左侧边缘添加一株绿叶植物，并在递归屏幕内的房间里也放置一株植物。采用略宽的 4:3 构图，从浣熊肩后观察的动态视角，营造俏皮的创作者社区氛围，文字清晰易读，非写实风格，无水印。请使用 {argument name="app name" default="GPT Image 2"}、{argument name="speech bubble text" default="IMAGE GENERATION INCEPTION"}、{argument name="button label" default="Generate"}、{argument name="notebook text" default="ENDLESS CREATIVITY"} 和 {argument name="main character" default="拟人化浣熊创作者"}。
+
+[English]
+Create a warm hand-drawn digital illustration of recursive image generation inception, showing a cute anthropomorphic raccoon creator at a wooden desk using GPT Image 2 on a laptop. The scene is in a cozy studio with beige paper-textured background, inked outlines, soft shading, muted earth tones, and orange accent highlights. In the foreground, place 1 large raccoon character wearing a black hoodie with an orange mountain-and-flag logo on the back, sitting at the laptop and pointing excitedly at the screen with an open-mouthed smile. Add a speech bubble above the raccoon that reads “IMAGE GENERATION” in black and “INCEPTION” in orange, with a small orange sparkle beneath. On the laptop screen, show the GPT Image 2 interface with the header “GPT Image 2” and an infinite nested recursion of the same scene: exactly 6 visible screen/laptop frames receding inward, each smaller and perspective-aligned, creating a tunnel effect. Inside the main visible screen, include exactly 6 main animal characters seated side by side at desks: 1 raccoon in a black hoodie, 1 panda in a green hoodie, 1 orange fox in a blue hoodie, 1 hedgehog in a yellow hoodie, 1 small purple animal, and 1 tiny nested animal inside the deepest screen. Add motivational posters in the recursive room backgrounds with short text such as “FOCUS BUILD SHIP,” “KEEP IT SIMPLE,” “MAKE COOL THINGS,” and “CREATE EVERY DAY.” At the bottom of the laptop interface, include a prompt input field reading “What do you want to create?” and an orange button labeled “Generate,” plus two small outline action icons. On the desk, include exactly 3 prominent accessories: a black mug with a white X logo on the right, a spiral notebook reading “ENDLESS CREATIVITY” with an orange heart below it, and two black pens with orange accents. Add a leafy green plant at the far left edge and another plant visible inside the recursive screen room. Use a slightly wide 4:3 composition, dynamic perspective looking over the raccoon’s shoulder, playful creator-community mood, crisp readable text, no photorealism, no watermark. Use {argument name="app name" default="GPT Image 2"}, {argument name="speech bubble text" default="IMAGE GENERATION INCEPTION"}, {argument name="button label" default="Generate"}, {argument name="notebook text" default="ENDLESS CREATIVITY"}, and {argument name="main character" default="anthropomorphic raccoon creator"}.
+```
+
+**来源：** [@Daniel Smidstrup](https://x.com/DanielSmidstrup/status/2075947145203532069) | 2026-07-11
+
+---
+
+### 🎨 例 3809：草地上的铬合金机器人
+
+![草地上的铬合金机器人](../../images/%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E9%93%AC%E5%90%88%E9%87%91%E6%9C%BA%E5%99%A8%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个以“机器人沉思之地”为主题的电影级科幻田园场景：在黄金时刻的野花草地上，一个具有高度反射效果的铬合金人形机器人盘腿坐着，位于前景偏左的位置。机器人拥有光滑的镜面球形头部，没有面部，身体覆盖着抛光的银色解剖装甲，颈部露出机械细节，姿态平静且沉思。一只手放在膝盖上，另一只手轻轻抬起，食指伸出，指尖停着一只 {argument name="insect" default="瓢虫"}。其镜面表面反射着草地、天空和远处的山丘。在右侧中景处，展示 1 个大型废弃且粗犷的机器人或机甲残骸，部分向后倾斜，长满了草和野花，暗示自然正在重塑机械。场景为郁郁葱葱的起伏乡村，画面中包含 1 个坐着的铬合金人形机器人，指尖上有 1 只小昆虫，背景中有 1 个废弃机甲，前景布满了雏菊和紫色野花。使用 {argument name="lighting" default="温暖的黄金时刻阳光"}，柔和的云层，远处的蓝绿色山脉，浅景深效果（靠近相机的花朵模糊），逼真的高细节 3D 渲染，电影级构图，宁静的奇观，无文字，无 Logo，无人类，无城市天际线，无武器开火。
+
+[English]
+Create a cinematic sci-fi pastoral scene titled by mood, “Where the Robots Came to Wonder”: a highly reflective chrome humanoid robot sits cross-legged in a wildflower meadow at golden hour, positioned left of center in the foreground. The robot has a smooth mirror-sphere head with no face, polished silver anatomical plating, exposed mechanical neck details, and a calm meditative posture. One hand rests on its lap while the other is raised delicately, index finger extended, holding or greeting a tiny {argument name="insect" default="ladybug"} perched on the fingertip. Its mirror surfaces reflect the meadow, sky, and distant hills. In the right midground, show exactly 1 large abandoned rugged robot or mech wreck, partially reclined and overgrown with grass and wildflowers, suggesting nature reclaiming machinery. The setting is a lush rolling countryside with exactly 1 seated chrome humanoid robot, exactly 1 tiny insect on its finger, exactly 1 derelict mech in the background, and abundant daisies and purple wildflowers in the foreground. Use {argument name="lighting" default="warm golden-hour sunlight"}, soft clouds, distant blue-green mountains, shallow depth of field with blurred flowers near the camera, realistic high-detail 3D rendering, cinematic composition, peaceful wonder, no text, no logos, no humans, no city skyline, no weapons firing.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2075908497468723394) | 2026-07-11
+
+---
+
+### 🎨 例 3836：粉发布格罗风格森林仙女
+
+![粉发布格罗风格森林仙女](../../images/%E7%B2%89%E5%8F%91%E5%B8%83%E6%A0%BC%E7%BD%97%E9%A3%8E%E6%A0%BC%E6%A3%AE%E6%9E%97%E4%BB%99%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 19 世纪法国浪漫主义学院派油画，风格致敬威廉·阿道夫·布格罗（William-Adolphe Bouguereau），描绘一位优雅的年轻仙女坐在森林浅溪旁的苔藓岩石上。主体为 {argument name="character description" default="一位留着飘逸淡粉色长发的精致年轻女性"}，身体侧转四分之三，回眸看向观众，表情宁静而忧郁。她戴着现代黑色长方形眼镜，发间戴着由细小浅色花朵和绿叶编织的花环，身穿半透明象牙白古典垂褶长裙，手臂和岩石上缠绕着柔和的淡粉色薄纱。她赤脚浸在水中，一只手撑在身后的岩石上，另一只手自然地放在膝盖附近。在她的上肩部添加三个小型装饰性花朵纹身或饰品。背景为一片充满魔力的林地，有高大的深色树木、茂密的叶片、野花、柔软的苔藓以及一条倒映着睡莲的狭窄溪流；温暖的金色阳光从左上方透过叶片洒下，营造出朦胧的大气深度。使用 {argument name="painting style" default="高度抛光的古典写实主义，带有柔和的晕涂法（sfumato）、明亮的肤色、细腻的笔触以及古典大师的油画光泽质感"}。调色板：柔和的绿色、暖棕色、奶油色、玫瑰粉色和金色光影。构图为 3:4 竖构图，全身坐姿人物略微偏右，营造宁静的神话氛围，无可见文字，无水印，无多余人物。
+
+[English]
+Create a romantic 19th-century French academic oil painting in the style of William-Adolphe Bouguereau, depicting a graceful young nymph seated on a mossy rock beside a shallow forest stream. The subject is {argument name="character description" default="a delicate young woman with long flowing pastel pink hair"}, turned three-quarters away but looking back over her shoulder toward the viewer with a calm, wistful expression. She wears modern black rectangular eyeglasses, a floral wreath of tiny pale blossoms and greenery in her hair, and a translucent ivory-white classical draped gown with soft blush-pink gauze wrapping around her arms and trailing across the rock. Her bare feet dip into the water, one hand resting on the rock behind her and the other relaxed near her knee. Add three small decorative flower-like tattoos or ornaments on her upper shoulder. The setting is an enchanted woodland with tall dark trees, dense foliage, wildflowers, soft moss, and a narrow reflective stream with lily pads; warm golden sunlight filters through leaves from the upper left, creating hazy atmospheric depth. Use {argument name="painting style" default="highly polished classical realism with soft sfumato, luminous skin, delicate brushwork, and old-master varnish texture"}. Color palette: muted greens, warm browns, cream, rose pink, and golden light. Composition is vertical 3:4, full-body seated figure centered slightly right, serene mythological mood, no visible text, no watermark, no extra figures.
+```
+
+**来源：** [@Flutterwhat](https://x.com/flutterwhat/status/2075805703021723675) | 2026-07-11
+
+---
+
+### 🎨 例 3851：水彩汉服天宫公主
+
+![水彩汉服天宫公主](../../images/%E6%B0%B4%E5%BD%A9%E6%B1%89%E6%9C%8D%E5%A4%A9%E5%AE%AB%E5%85%AC%E4%B8%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身精致的水彩动漫插画，描绘一位漂浮在空中的年轻天宫公主，身着传统汉服，背景为干净的 {argument name="background color" default="白色"}，无其他景物。她拥有甜美的童颜、大而柔和的棕色眼睛、白皙的皮肤，以及极长的飘逸 {argument name="hair color" default="黑色"} 头发，部分发丝梳成高双丸子头，松散的波浪向左侧飘动。她佩戴华丽的金色发冠和发饰，包括 2 簇醒目的粉色花朵、小珍珠般的珠子、垂下的金色流苏和花朵发卡。为她穿上一套空灵且富有层次感的 {argument name="outfit color palette" default="白色、淡粉色、薰衣草紫和柔金色"} 汉服，配有半透明的超大袖子、紫色腰带、刺绣花卉细节、垂下的金链、腰间的粉色流苏挂饰，以及仿佛在半空中起舞般飘动的薄纱层。添加 4 条环绕她身体的长款半透明丝带：一条粉色丝带在她脑后向左弯曲，一条粉色丝带环绕在右侧，一条薰衣草紫丝带在右侧飘动，以及一条粉紫混合色的丝带缠绕在裙摆下方。让她摆出优雅的姿势，一只手臂举过头顶，另一只手臂向外伸展，裙摆下露出一只赤足，另一只脚微微抬起；添加精致的脚踝饰品。使用柔和的墨线勾勒、淡彩渲染、轻盈的织物透明感、细腻的金色点缀、柔和的腮红，以及高细节的奇幻服饰渲染，同时保持构图轻盈、优雅且整洁。
+
+[English]
+Create a full-body delicate watercolor anime illustration of a floating young celestial princess in traditional Chinese hanfu, centered on a clean {argument name="background color" default="white"} background with no scenery. She has a sweet childlike face, large soft brown eyes, pale skin, and very long flowing {argument name="hair color" default="black"} hair styled partly in high twin buns with loose waves streaming leftward. Her ornate gold crown and hair ornaments include exactly 2 prominent pink blossom clusters, small pearl-like beads, dangling gold tassels, and floral pins. Dress her in an ethereal layered {argument name="outfit color palette" default="white, blush pink, lavender, and soft gold"} hanfu with translucent oversized sleeves, a purple waist sash, embroidered floral details, dangling gold chains, a pink tassel pendant at the waist, and gauzy fabric layers that billow as if she is dancing in midair. Add exactly 4 long translucent ribbon streamers curling around her body: one pink ribbon arcing behind her head to the left, one pink ribbon looping around the right side, one lavender ribbon flowing down the right side, and one mixed pink-lavender ribbon wrapping across the lower dress. Pose her gracefully with one arm raised above her head, the other extended outward, one bare foot visible below the hem and the other slightly lifted; add delicate ankle jewelry. Use soft ink outlines, pastel washes, airy fabric transparency, subtle gold accents, gentle blush, and high-detail fantasy costume rendering while keeping the composition light, elegant, and uncluttered.
+```
+
+**来源：** [@STUDIO-GENNAI](https://x.com/studio_gennai/status/2075769732817719387) | 2026-07-11
+
+---
+
