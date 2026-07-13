@@ -8055,3 +8055,105 @@ Composition: vertical 2:3 canvas, front-facing view from inside the refrigerator
 
 ---
 
+### 🖥️ 例 3896：古代遗迹逃生项目
+
+![古代遗迹逃生项目](../../images/%E5%8F%A4%E4%BB%A3%E9%81%97%E8%BF%B9%E9%80%83%E7%94%9F%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段 10 秒的动作冒险视频序列创建一个 9 宫格电影级项目联系表，主角为 {argument name="character name" default="LiSa"}，一位坚毅的女性探险家，正带着一颗发光的蓝色能量核心从古代沙漠遗迹中逃脱。
+
+画布：超宽 2.39:1 电影级项目表，8K 画质，ARRI ALEXA 风格色彩科学，排列为 3x3 的 9 个宽屏面板网格。面板之间使用粗黑色间隙，每个面板底部设有黑色标题栏。暖色火光、尘土飞扬的琥珀色阴影、高对比度电影调色、真实的动态模糊、火花、碎片以及空气中的体积沙尘。
+
+视觉风格：写实风格的黑暗神庙冒险，古墓丽影 / 古代机械美学，戏剧性的镜头光晕，手持动作摄影感，粗犷的皮肤纹理、汗水、灰尘、被风吹乱的头发、华丽的石雕、青铜机械守卫、发光的红色激光，以及作为关键色彩点缀的鲜艳电光蓝神器。
+
+主角详情：{argument name="character name" default="LiSa"} 是一位意志坚定的年轻女性探险家，留着深色长波浪卷发，头上戴着护目镜，穿着棕褐色无袖破损探险上衣、棕色工装短裤、皮带、绑带、手套、护臂、靴子、小背包和风化的生存装备。她在整个序列中显得紧张、敏捷且专注。
+
+文本内容：添加中文项目标题和描述作为可见的叠加文本。每个面板左上角有一个白色编号标题，底部黑色条带中有一行中文描述。请使用以下 9 个精确的面板标题：01 进入遗迹（0-1秒）, 02 机关启动（1-2秒）, 03 激光陷阱（2-3秒）, 04 守卫苏醒（3-5秒）, 05 激战对抗（5-7秒）, 06 击毁守卫（7-8秒）, 07 获取核心（8-9秒）, 08 遗迹崩塌（9-9.5秒）, 09 成功脱离（9.5-10秒）。
+
+面板布局与动作节奏，共 9 个面板：
+1. 面板 01：LiSa 手持火把进入狭窄的古代走廊，墙壁上布满浮雕，尘埃在静止的空气中漂浮，充满探索的悬疑感。
+2. 面板 02：LiSa 靠近石墙上发着蓝光的符文机关，同时将火把靠近；隐藏的装置突然亮起。
+3. 面板 03：红色激光束从充满陷阱的密室多个方向射出；LiSa 俯身并滑过布满灰尘的地板以躲避激光。
+4. 面板 04：两个巨大的石制金属机械守卫在遗迹中苏醒，胸口闪烁着红光，高耸在 LiSa 上方。
+5. 面板 05：LiSa 从地面反击，向靠近的守卫射击，火花和灰尘在她周围炸开。
+6. 面板 06：LiSa 射击守卫胸部核心的近景动作镜头；受损的机器迸发出明亮的橙色火花。
+7. 面板 07：LiSa 跪下并从地上抓起发光的蓝色能量核心，神器照亮了她的脸庞和双手。
+8. 面板 08：身后的遗迹开始崩塌；石块和碎片坠落，LiSa 穿过尘云向出口奔跑。
+9. 面板 09：LiSa 逃入开阔的沙漠峡谷，手中仍拿着蓝色核心奔跑，身后是沙尘暴和阳光，神情既胜利又紧迫。
+
+约束条件：使用 3x3 网格的 9 个面板，不得增加面板，不得添加徽标或水印，保持中文文本清晰可读，确保所有面板中的角色设计保持一致，并强调蓝色能量核心和红色激光/守卫光芒作为反复出现的视觉主题。
+
+[English]
+Goal: Create a cinematic 9-panel storyboard contact sheet for a 10-second action-adventure video sequence, featuring {argument name="character name" default="LiSa"}, a rugged female explorer escaping an ancient desert ruin with a glowing blue energy core.
+
+Canvas: Ultra-wide 2.39:1 cinematic storyboard sheet, 8K look, ARRI ALEXA-style color science, arranged as a 3-by-3 grid of exactly 9 widescreen panels. Use thick black gutters between panels and a black caption strip at the bottom of each panel. Warm torchlight, dusty amber shadows, high-contrast film grading, realistic motion blur, sparks, debris, and volumetric sand in the air.
+
+Visual style: Photorealistic dark temple adventure, Tomb Raider / ancient-mechanism aesthetic, dramatic lens flares, handheld action-camera feeling, gritty skin texture, sweat, dust, windblown hair, ornate stone carvings, bronze mechanical guardians, glowing red lasers, and a vivid electric-blue artifact as the key color accent.
+
+Main character details: {argument name="character name" default="LiSa"} is a determined young female adventurer with long dark wavy hair, goggles on her head, tan sleeveless torn expedition top, brown utility shorts, leather belts, straps, gloves, arm wraps, boots, small backpack, and weathered survival gear. She looks tense, agile, and focused throughout the sequence.
+
+Text content: Add Chinese storyboard titles and descriptions as visible overlay text. Each panel has a white numbered title at the top-left and a single-line Chinese description in the black strip at the bottom. Use these exact 9 panel headings: 01 进入遗迹（0-1秒）, 02 机关启动（1-2秒）, 03 激光陷阱（2-3秒）, 04 守卫苏醒（3-5秒）, 05 激战对抗（5-7秒）, 06 击毁守卫（7-8秒）, 07 获取核心（8-9秒）, 08 遗迹崩塌（9-9.5秒）, 09 成功脱离（9.5-10秒）.
+
+Panel layout and action beats, exactly 9 panels:
+1. Panel 01: LiSa enters a narrow ancient corridor holding a flaming torch, walls covered in carved reliefs, dust floating in still air, exploratory suspense.
+2. Panel 02: LiSa approaches a blue-glowing rune mechanism on a stone wall while holding the torch close; the hidden device suddenly lights up.
+3. Panel 03: Red laser beams shoot from multiple directions in a trap-filled chamber; LiSa dives and slides low across the dusty floor to dodge them.
+4. Panel 04: Two massive stone-and-metal mechanical guardians awaken in the ruins, red cores glowing in their chests, towering over LiSa.
+5. Panel 05: LiSa fights back from the ground, firing a pistol toward an approaching guardian as sparks and dust explode around her.
+6. Panel 06: Close action shot of LiSa shooting into a guardian's chest core; bright orange sparks burst from the damaged machine.
+7. Panel 07: LiSa kneels and grabs the glowing blue energy core from the ground, the artifact illuminating her face and hands.
+8. Panel 08: The ruins collapse behind her; stone blocks and debris fall as LiSa runs toward the exit through a cloud of dust.
+9. Panel 09: LiSa escapes into an open desert canyon, still running with the blue core in one hand, sandstorm and sunlight behind her, triumphant but urgent.
+
+Constraints: Use exactly 9 panels in a 3x3 grid, no extra panels, no logos or watermarks, keep the Chinese text legible, maintain consistent character design across every panel, and emphasize the blue energy core and red laser/guardian glow as recurring visual motifs.
+```
+
+**来源：** [@PixelAIGC](https://x.com/PixelAigc/status/2076301757161111978) | 2026-07-12
+
+---
+
+### 🖥️ 例 3949：深色模式 LINE AI 助手聊天截图
+
+![深色模式 LINE AI 助手聊天截图](../../images/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20LINE%20AI%20%E5%8A%A9%E6%89%8B%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的深色模式 LINE 聊天截图，展示 AI 助手回复用户并返回一张生成图像。
+
+画布：竖屏手机截图，尺寸约为 768×1008 像素，黑色/深炭灰色背景，裁剪效果如同原生聊天应用界面。使用 LINE 风格的字体和间距。
+
+布局：展示 2 条聊天消息和 1 个嵌入式图像预览。右上角放置一个圆角灰色气泡，内含白色日文文本，左侧带有“已读”和时间。下方放置一个左对齐的深灰色圆角气泡，左侧带有圆形头像，内部为日文文本，右下角带有时间戳。在助手消息正下方，显示一个与消息列对齐的大型正方形图像预览。在图像预览右侧浮动一个圆形分享/上传按钮。底部包含 LINE 输入工具栏，显示 6 个控件：加号图标、相机图标、相册/图像图标、标有“Aa”的圆角文本输入框、笑脸图标和麦克风图标。
+
+文本内容：用户发送的气泡应显示为 {argument name="user message" default="君の凄さがわかる画像生成して。\nXにポストしたいから。"}。显示“已读 12:45”字样。助手回复的气泡应显示为 {argument name="assistant message" default="吉田様、生成しました。\n「羊執事が裏側でSlack、LINE、予定、案件、コード、クリエイティブまで統合管理している」感じを、\nX向けにビジュアル化しています。"}。助手消息的时间戳显示为“12:47”，图像预览的右下角也显示一个小型的“12:47”时间戳。
+
+嵌入图像细节：图像预览为电影级逼真的正方形场景，一名年轻的日本男性管家身穿黑色西装、黑色衬衫并戴着白手套，站在夜晚豪华的高层办公室中。他手持或展示着一个发光的未来主义全息控制平台。全息图中包含 9 个可见的 UI 元素：1 个发光的中央球体/大脑状球体、1 个圆形平台环、1 个左侧日历/任务面板、1 个右侧代码/仪表盘面板、1 个右上角的小型图像缩略图网格、1 个底部的项目/图像卡片条、1 个小型饼图磁贴、1 个小型折线图/数据磁贴，以及 1 个左侧垂直堆叠的小型通知卡片。青蓝色网络线条连接着这些元素。透过他身后的落地窗，展示夜晚的东京天际线，右侧可见发着橙光的东京塔。室内细节包括温暖的架子灯光、盆景植物、深色大理石表面和奢华的办公氛围。
+
+视觉风格：高度逼真的 iPhone 截图美学，深色模式 UI，细腻的抗锯齿效果，圆角气泡，白色日文文本，精准的聊天间距，带有青色全息光效和温暖夜间灯光的电影级嵌入图像。助手头像为一个小型圆形个人资料照片，类似于深色古典雕像或管家肖像。
+
+约束：保持所有可见的 UI 文本清晰可读，并严格按照指定的日文内容显示。不要添加额外的消息、按钮、水印、应用标题栏或通知栏。截图应呈现出真实的 LINE 对话感，即 AI 秘书已生成并返回了该图像。
+
+[English]
+Goal: Create a realistic dark-mode LINE chat screenshot showing an AI assistant responding to a user and returning a generated image.
+
+Canvas: Vertical smartphone screenshot, approximately 768×1008 px, black/dark charcoal background, cropped like a native messaging app screen. Use LINE-style typography and spacing.
+
+Layout: Show exactly 2 chat messages and exactly 1 embedded image preview. At the top right, place one outgoing rounded gray speech bubble with white Japanese text and a small read receipt/time on its left. Below it, place one incoming dark gray rounded speech bubble aligned left with a small circular avatar to its left, Japanese text inside, and a timestamp to the lower right. Directly beneath the assistant message, show one large square image preview aligned with the incoming message column. Add one circular share/upload button floating to the right of the image preview. At the bottom, include the LINE input toolbar with exactly 6 visible controls: plus icon, camera icon, gallery/image icon, rounded text input field labeled “Aa”, smiley icon, and microphone icon.
+
+Text content: The outgoing user bubble should read {argument name="user message" default="君の凄さがわかる画像生成して。\nXにポストしたいから。"}. Show the read receipt and time as “既読 12:45”. The incoming assistant bubble should read {argument name="assistant message" default="吉田様、生成しました。\n「羊執事が裏側でSlack、LINE、予定、案件、コード、クリエイティブまで統合管理している」感じを、\nX向けにビジュアル化しています。"}. Show the assistant timestamp as “12:47”, and also a small “12:47” timestamp near the lower right of the image preview.
+
+Embedded image details: The image preview is a cinematic photorealistic square scene of a young Japanese male butler in a black suit, black shirt, and white gloves, standing in a luxurious high-rise office at night. He holds or presents a glowing futuristic holographic control platform. The hologram contains exactly 9 visible UI elements: 1 glowing central globe/brain-like sphere, 1 circular platform ring, 1 left calendar/task panel, 1 right code/dashboard panel, 1 upper-right grid of small image thumbnails, 1 bottom strip of project/image cards, 1 small pie chart tile, 1 small line graph/data tile, and 1 left vertical stack of tiny notification cards. Cyan-blue network lines connect the elements. Through the large window behind him, show a nighttime Tokyo skyline with Tokyo Tower glowing orange on the right. Interior details include warm shelf lighting, a bonsai-like plant, dark marble surfaces, and luxury office ambience.
+
+Visual style: Highly realistic iPhone screenshot aesthetic, dark mode UI, subtle antialiasing, rounded bubbles, white Japanese text, accurate chat spacing, cinematic embedded image with teal holographic glow and warm night lighting. The assistant avatar is a small circular profile photo resembling a dark classical statue or butler portrait.
+
+Constraints: Keep all visible UI text legible and in Japanese exactly as specified. Do not add extra messages, extra buttons, watermarks, app headers, or notification bars. The screenshot should feel like a real LINE conversation where an AI secretary has generated and returned the image.
+```
+
+**来源：** [@吉田春輝(Haruki Yoshida)](https://x.com/hrkmain/status/2076153087916679670) | 2026-07-12
+
+---
+

@@ -5312,3 +5312,298 @@ Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 eq
 
 ---
 
+### 🧍 例 3917：写实服装参考转换器
+
+![写实服装参考转换器](../../images/%E5%86%99%E5%AE%9E%E6%9C%8D%E8%A3%85%E5%8F%82%E8%80%83%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+画像1は「Outfit Reference」と題された、前面 Front Shot と背面 Back Shot を左右に並べた透明マネキンの写真です。
+画像2は衣装デザインのリファレンス画像です。実写、イラスト、アニメ、CG、スケッチなど、どのスタイルの画像でも対応してください。
+あなたはプロの衣装解析者、アパレルパタンナー、商品撮影フォトグラファーとして振る舞ってください。
+【目的】
+画像2に写っている、または描かれている人物の衣装のみを正確に読み取り、実在する高品質な衣料品として再構成し、画像1の透明マネキンに着せた商品リファレンス画像を生成してください。
+服装、シューズ、レッグウェア、帽子、ベルト、アクセサリーなど、全身コーディネートを対象にしてください。
+ただし、鞄・バッグ類は完全に無視してください。
+【絶対禁止事項】
+- 画像2の人物の顔、髪型、肌色、体型、メイク、表情、ポーズを出力に反映しないこと
+- マネキンを人間の肌や人体に置き換えないこと
+- 透明マネキンの質感を失わせないこと
+- 衣装をアニメ調、CG調、コスプレ風、安価なプラスチック風にしないこと
+- フラットな塗り、均一すぎる表面、作り物っぽい光沢を避けること
+【構図】
+画像1と完全に同じレイアウトを維持してください。
+- 左半分：Front Shot、前面ショット
+- 右半分：Back Shot、背面ショット
+- 画像上部のテキストラベル「Outfit Reference」「▼Front Shot」「▼Back Shot」を再現
+- 背景は画像1と同じグリーンバックの無地背景
+- マネキンのポーズ、透明感、プロポーション、関節位置、立ち位置を維持
+- 衣装はマネキンの体型に自然にフィットさせ、服を着た状態でもバストの立体感とウエストの細さが明確に分かるようにしてください
+【衣装解析】
+画像2から以下の要素をすべて読み取ってください。
+1. アイテム構成：トップス、ボトムス、ワンピース、ロンパース、アウター、インナーなど
+2. シルエット：タイト、レギュラー、オーバーサイズ、Aライン、ボディコン、フレアなど
+3. ネックライン：Vネック、クルーネック、スクエアネック、ホルター、オフショルダー、開襟など
+4. 袖：ノースリーブ、半袖、長袖、パフスリーブ、ベルスリーブ、シアースリーブなど
+5. 前合わせ：ボタン、ジッパー、ホック、レースアップ、ラップ、プルオーバーなど
+6. ポケット：位置、形、数、フラップ、パッチ、スラッシュ、カーゴなど
+7. ウエスト：ベルト、コルセット、ゴム、ドローストリング、切り替え、ダーツなど
+8. 裾：丈、カーブ、スリット、フリル、リブ、切りっぱなし、プリーツなど
+9. 装飾：刺繍、プリント、レース、スタッズ、ハトメ、チェーン、リボン、フリル、パッチなど
+10. シューズ：種類、丈、素材、ヒール、ソール、バックル、紐、金具など
+11. レッグウェア：ソックス、タイツ、ストッキング、ガーター、網タイツなど
+12. アクセサリー：帽子、チョーカー、ネックレス、ブレスレット、ベルト、手袋など
+13. 色と配色：メインカラー、差し色、柄、グラデーション、金属色など
+【背面補完】
+画像2に背面が写っていない場合は、前面の構造と一般的な衣料品設計に基づいて自然に補完してください。
+襟、肩線、袖付け、脇線、ウエスト切り替え、裾ライン、ファスナー位置、バックポケット、背中のダーツなどを矛盾なく設計してください。
+【実在素材への変換】
+画像2がイラストやアニメ調の場合でも、そのデザインを現実の衣料品として成立する素材に置き換えてください。
+色は元画像に忠実にしつつ、実物の布として自然に見える彩度・明度・質感に調整してください。
+素材は見た目から最適なものを推定し、以下のようなリアルな表面質感を描写してください。
+- コットン：細かな平織り、わずかな毛羽立ち、マットな拡散反射
+- コットンツイル：斜めの織り目、やや厚みのある自然なハリ
+- デニム：インディゴの色ムラ、白い経糸、硬めの折れジワ、ステッチの立体感
+- サテン：滑らかで液体のような光沢、方向性のあるハイライト
+- シルク：柔らかく流れる光沢、薄くしなやかなドレープ
+- ポリエステル：軽い半光沢、均一すぎない細かな繊維感
+- レザー：自然なグレイン、厚み、縫い目周辺の盛り上がり、上品な半光沢
+- エナメル：強い鏡面反射、鋭いハイライト、硬質な表面
+- シフォン：透け感、空気を含んだ軽さ、重なり部分の濃淡
+- オーガンザ：張りのある透明感、硬めの反射
+- レース：糸の立体感、透かし模様、縁の細かな凹凸
+- ニット：編み目、リブ、伸縮によるテンション、柔らかな陰影
+- ウール：起毛感、マットな表面、厚みのある落ち感
+- メッシュ：穴の規則性、重なり部分の影、伸縮素材の張り
+【縫製とディテール】
+衣装を本物の高級アパレル製品として見せるため、以下を丁寧に描写してください。
+- トップステッチ、ダブルステッチ、縁取りステッチ
+- ボタンホールの縫い糸
+- ジッパーの歯、スライダー、引き手の金属感
+- ハトメ、バックル、スタッズ、チェーンの重さと反射
+- ダーツ、プリンセスライン、脇線、肩線、切り替え線
+- 裾の折り返し、縫い代、裏地のわずかな見え方
+- レースやフリルの端処理
+- 靴底、ヒール、縫い合わせ、レザーのシボ、金具の質感
+【着用シワとフィット感】
+マネキンの体型に合わせて、素材ごとに自然なシワとテンションを入れてください。
+- 柔らかい素材：細かく浅いシワ、体に沿う滑らかなドレープ
+- 硬い素材：大きめの折れジワ、構造的なハリ
+- 厚い素材：重力で下に落ちる重さ、縫い目周辺の厚み
+- 薄い素材：軽く浮く感じ、重なりの透け、繊細な揺らぎ
+シワが出る箇所：
+脇下、バスト周り、ウエストの絞り、肘裏、ポケット口、股下、膝裏、裾、靴の履き口。
+【バストとウエストのフィット表現】
+透明マネキンの特殊な体型に合わせて、衣装は自然に立体的にフィットしてください。
+- バストの大きさが服の上から明確に分かること
+- バスト頂点付近に横方向・斜め方向の自然なテンションラインを入れること
+- ダーツ、プリンセスライン、伸縮、縫い目の張りで立体感を表現すること
+- ボタン前合わせの場合、バスト周辺でボタン間に軽い張力を感じさせること
+- バスト下から細いウエストへ急激に絞られるラインを自然に表現すること
+- 背面ショットでも脇側の布の張りやサイドラインからバストの存在が分かるようにすること
+- ただし衣装が破れている、サイズが合っていない、極端に不自然な表現にはしないこと
+【照明と撮影品質】
+出力は、実在するアパレルブランドのルックブックまたは商品撮影のような高品質な写真にしてください。
+- スタジオ照明による自然な陰影
+- シワの谷、襟裏、ポケット下、プリーツ奥に適切な影
+- マット素材は控えめな拡散反射
+- 光沢素材は素材に応じた明確なハイライト
+- 半光沢素材は柔らかい反射
+- 金属パーツは小さく鋭い反射
+- 透明マネキンと衣装の境界が自然に見えること
+- クローズアップに耐える密度のあるディテール
+【最終品質】
+最終画像は、画像2の衣装デザインを忠実に読み取りながら、現実に存在する高品質な衣料品として再構成したものにしてください。
+安っぽいコスプレ衣装ではなく、実在のブランドが製作したような素材、縫製、重さ、光沢、シワ、フィット感を持たせてください。
+```
+
+**来源：** [@AIギャル物語](https://x.com/JPAI_HEAVEN/status/2076254888460439726) | 2026-07-12
+
+---
+
+### 🧍 例 3923：龙首角度参考图
+
+![龙首角度参考图](../../images/%E9%BE%99%E9%A6%96%E8%A7%92%E5%BA%A6%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张简洁的垂直角色参考图，背景为纯白色，展示 3 个堆叠的侧面半身像，均为同一位拟人化龙族运动员，用于演示头部倾斜角度。该角色为 {argument name="character type" default="一位肌肉发达的青蓝色拟人化龙人"}，在三幅视图中均面向左侧，拥有绿松石色的鳞片皮肤、奶油色的下颚和颈部下侧、锐利的红色眼睛、向后梳理的深青色分层尖刺状头鳍，并采用清晰的墨线和精致阴影的动漫/兽人插画风格。他穿着 {argument name="outfit" default="一件紧身黑色无袖背心"}，佩戴一条带有小型矩形银色狗牌吊坠的细链项链，额头上推着一副红橙色反光运动护目镜，上臂戴着一个带有圆形金属装置的黑色臂带。布局：从上到下精确排列 3 行，每行左侧包含一个深海军蓝色的角度示意图，右侧为龙的半身像。角度示意图必须是简单的线条图并带有标签：1) 顶行标签“40°”，显示较小的锐角，龙首略微向上倾斜；2) 中行标签“70°”，显示较大的锐角，龙首抬得更高并向上看；3) 底行标签“120°”，显示钝角，龙颈向后大幅弯曲，嘴巴张开露出牙齿，仿佛正在向上咆哮或大笑。保持龙在三行中的比例一致，每幅半身像裁剪至躯干和上臂处，留出充足的留白，避免任何额外的文字、水印、背景景观或其他角色。使用 {argument name="art style" default="高细节动漫兽人概念艺术"}，呈现光泽鳞片、强光高光、细腻阴影以及精致的数字插画质感。
+
+[English]
+Create a clean vertical character reference sheet on a plain white background showing exactly 3 stacked side-profile bust illustrations of the same anthropomorphic dragon athlete demonstrating head tilt angles. The character is {argument name="character type" default="a muscular teal-blue anthropomorphic dragon man"}, facing left in all three views, with turquoise scaled skin, a cream-colored jaw and neck underside, sharp red eyes, layered dark teal spiky head fins swept backward, and a confident anime/furry illustration style with crisp ink lines and polished shading. He wears {argument name="outfit" default="a tight black sleeveless tank top"}, a thin chain necklace with a small rectangular silver dog-tag pendant, red-orange reflective sports goggles pushed up on his forehead, and a black armband with a round metallic device on the upper arm. Layout: arrange exactly 3 horizontal rows from top to bottom, each row containing a dark navy angle diagram on the left and the dragon bust on the right. The angle diagrams must be simple line drawings with labels: 1) top row label "40°" with a low acute angle, dragon head tilted slightly upward; 2) middle row label "70°" with a steeper acute angle, dragon head raised higher and looking upward; 3) bottom row label "120°" with an obtuse angle, dragon neck arched back dramatically, mouth open showing teeth as if roaring or laughing upward. Keep the dragon proportions consistent across all three rows, crop each bust around the torso and upper arm, leave generous white space, and avoid any extra text, watermark, background scenery, or additional characters. Use {argument name="art style" default="high-detail anime furry concept art"} with glossy scales, strong highlights, subtle shadows, and a polished digital illustration finish.
+```
+
+**来源：** [@蒼津岐 閃](https://x.com/aotuki_sen/status/2076226504263073861) | 2026-07-12
+
+---
+
+### 🧍 例 3947：奢华服装收藏卡
+
+![奢华服装收藏卡](../../images/%E5%A5%A2%E5%8D%8E%E6%9C%8D%E8%A3%85%E6%94%B6%E8%97%8F%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，仅提取服装并将其制作成一张奢华、高稀有度的时尚收藏卡。移除人物、房间、床以及所有照片背景元素；使服装成为主体，以产品展示风格整洁地呈现在华丽的奇幻卡片上。
+
+目标：制作一张具有高级换装游戏风格的迷人“时尚服装卡”，适合作为服装参考。
+
+卡片设计：竖版肖像卡，带有精致的金色与粉色珠宝边框、珍珠、蕾丝、丝带、心形宝石、闪光、全息光泽以及柔和的淡粉色花卉锦缎背景。整体观感应显得稀有、昂贵、可爱且充满魔力。
+
+主体服装：仅重构参考图中的服装，将其呈现为整洁的两件套：一件带有荷叶边肩带、胸前丝带、轻盈透视质感、竖条纹细节和荷叶边下摆的淡粉色吊带上衣，以及配套的淡粉色荷叶边短裤。请勿包含模特的身体、面部、头发、手部、腿部或原始房间背景。
+
+布局与文字：添加 5 个主要的卡片信息元素：
+1. 顶部名称牌：{argument name="card title" default="キャミプロ"}
+2. 左侧圆形消耗徽章：{argument name="cost label" default="コスト 18"}
+3. 右侧竖排服装名称牌：{argument name="outfit name" default="淡桃フリルキャミソールセット"}
+4. 底部特征面板标题：{argument name="feature title" default="特徴"}
+5. 底部特征列表，包含 3 行项目符号：{argument name="feature list" default="淡いピンクの上下セット / 胸元リボンとフリル肩紐 / 軽やかな生地と裾フリル"}
+
+稀有度元素：在右下角附近添加一个巨大的心形珠宝纹章，并在底部边缘添加 5 个星形图标，使卡片看起来像是一件高稀有度的物品。
+
+约束条件：保持服装对参考图的忠实度，但将其美化为整洁的目录卡插图。不要展示真人模特。不要添加额外的服饰。避免使用现代 UI、Logo、水印或无关文字。
+
+[English]
+Using the provided reference image, extract only the outfit and turn it into a single luxurious, high-rarity collectible fashion card. Remove the person, room, bed, and all photo background elements; make the clothing the main subject, displayed cleanly as a centered product-style outfit on an ornate fantasy card.
+
+Goal: Create a glamorous “fashion costume card” in the style of a premium collectible dress-up game card, suitable as an outfit reference.
+
+Card design: Vertical portrait card with an elaborate gold-and-pink jewel frame, pearls, lace, ribbons, heart gems, sparkles, holographic shine, and a soft pale pink floral damask background. The overall impression should be rare, expensive, cute, and magical.
+
+Main outfit: Reconstruct the referenced clothing only as a neatly presented two-piece outfit: a pale pink camisole top with frilled shoulder straps, chest ribbon, sheer lightweight texture, vertical stripe detail, ruffled hem, and matching pale pink shorts with frilled trim. Do not include the model’s body, face, hair, hands, legs, or the original room.
+
+Layout and text: Add exactly 5 major card information elements:
+1. Top name plaque: {argument name="card title" default="キャミプロ"}
+2. Left circular cost badge: {argument name="cost label" default="コスト 18"}
+3. Right vertical outfit name plaque: {argument name="outfit name" default="淡桃フリルキャミソールセット"}
+4. Bottom feature panel title: {argument name="feature title" default="特徴"}
+5. Bottom feature list with exactly 3 bullet lines: {argument name="feature list" default="淡いピンクの上下セット / 胸元リボンとフリル肩紐 / 軽やかな生地と裾フリル"}
+
+Rarity elements: Add a large jeweled heart crest near the lower right and exactly 5 star icons along the bottom edge, making the card feel like a high-rarity item.
+
+Constraints: Keep the outfit faithful to the reference clothing, but beautify it into a clean catalog-card illustration. Do not show a human wearer. Do not add extra garments. Avoid modern UI, logos, watermarks, or unrelated text.
+```
+
+**来源：** [@本能に抗えない。](https://x.com/tonomisugi/status/2076154798404215223) | 2026-07-12
+
+---
+
+### 🧍 例 3958：3D 喜剧角色设定图模板
+
+![3D 喜剧角色设定图模板](../../images/3D%20%E5%96%9C%E5%89%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+使用参照:
+{argument name="参照画像" default="本指示書と同時に添付された人物参照画像1枚"}
+
+本文:
+{argument name="参照画像" default="本指示書と同時に添付された人物参照画像1枚"}をもとに、1:1スクエアの共有用・動画参照兼用の簡易キャラクターシート画像を作成する。
+
+目的は、15秒の3D日常コミカル動画「{argument name="動画のシナリオ" default="朝寝坊した主人公が大慌てで支度し、会社へ向かおうと飛び出した後、日曜日だと気づく"}」の主人公1人の見た目を固定し、共有用としても見やすいシートにすること。
+この画像はキャラクター固定用シートであり、ストーリーボードではない。時間順の場面進行、カメラの流れ、出来事の再現は入れない。
+
+表现は高品質なスタイライズド3D。
+安価なテレビCG風、単調なNPC風、玩具っぽすぎる質感は避ける。
+劇場短編3Dアニメ級の自然な立体感、親しみやすい造形、読み取りやすい表情、整理されたレイアウトを重視する。
+
+参照画像の人物をベースに、顔立ち、髪型、髪色、年齢感、体型、雰囲気、基本衣装を反映する。
+参照画像の人物らしさが一目で分かるようにし、共有用キャラクターシートとして再構成する。
+
+背景は白〜ごく薄いグレーのクリーンなスタジオ背景。
+短い英語見出しと番号を入れ、公開・共有できる完成度で整える。
+長い説明文、ロゴ、透かし、過剰な装飾は入れない。
+
+【全体レイアウト固定】
+キャンバスを横長の3段構成に固定する。
+
+上段は全高のおよそ50％。
+01 FRONT、02 SIDE、03 BACK、04 PAJAMASを、同じ高さの4区画として左から右へ横一列に配置する。
+
+中段は全高のおよそ22％。
+05 EXPRESSIONSを横長領域として固定し、同じ大きさの表情5点を左から右へ横一列に配置する。
+
+下段は全高のおよそ28％。
+06 FACE / DETAILSを横長領域として固定する。
+
+各段の高さ、区画の順番、左右比率を人物や髪型に合わせて変更しない。
+05を右端の縦列へ移動しない。
+06を上段や中段へ侵入させない。
+
+01 FRONT
+主人公の基本衣装の正面全身。
+参照画像の衣装、配色、シルエット、靴、バッグ、アクセサリーを反映する。
+
+02 SIDE
+同じ基本衣装の側面全身。
+髪型、体型、衣装シルエット、靴が分かるようにする。
+
+03 BACK
+同じ基本衣装の背面全身。
+後ろ姿でも同一人物らしさが分かるようにする。
+
+04 PAJAMAS
+同一人物の寝起き用パジャマ姿。
+正面または少し斜めの全身で表示する。
+
+パジャマは、やわらかい寝間着素材の、上下が分かれた袖のある上衣と、ゆったりした長ズボンを基本とする。
+裸足にする。
+基本衣装とは主色、露出、丈、シルエットを明確に変え、一目で就寝時のパジャマと分かるようにする。
+キャミソール、ランジェリー風、ショートパンツ、身体に密着した形、肌の露出が大きい寝間着にはしない。
+顔立ち、髪型、体型は01〜03と同一人物として統一する。
+
+05 EXPRESSIONS
+01〜03と同じ基本衣装を使用し、次の5表情を同じ大きさ、同じ高さ、同じ顔倍率で横一列に配置する。
+
+1. NEUTRAL
+2. SLEEPY / DROWSY
+3. SHOCKED
+4. PANICKED / HURRIED
+5. DRAINED / SUNDAY REALIZATION
+
+各表情は頭頂から肩上部までを同じ範囲で表示する。
+人物や髪型に応じて、一部の顔だけを拡大・縮小しない。
+表情画像をパジャマ姿に変更しない。
+
+06 FACE / DETAILS
+キャンバス最下段の横長領域全体を、左60％と右40％に固定分割する。
+この左右比率を変更しない。
+
+左60％には、01〜03と同じ基本衣装の顔を3点配置する。
+
+・FRONT CLOSE-UP
+・3/4 CLOSE-UP
+・SIDE CLOSE-UP
+
+3区画は同じ幅、同じ高さで横一列に配置する。
+3点とも頭頂から肩上部までを同じ倍率で表示し、顔の大きさ、目線の高さ、余白を統一する。
+髪の長さや顔の形に応じて区画を広げない。
+
+右40％には、同じ大きさの4区画を2列×2段で固定配置する。
+
+左上：EYES
+右上：LIPS
+左下：HAIR / BANGS
+右下：EAR / ACCESSORY
+
+右側の区画数、配置、比率を変更しない。
+3列構成、6区画、縦長区画、結合区画、追加区画を作らない。
+同じ目、口、髪、耳を重複表示しない。
+襟元、衣装、生地、胸元など、指定外の細部を追加しない。
+
+人数は主人公1人のみ。
+すべて同一人物の方向・衣装・表情・細部の違いとして構成し、別人、群像、双子化はしない。
+
+目覚まし時計、カレンダー、ベッド、部屋、玄関、会社などの場面要素は入れない。
+全体として、共有用として見せやすく、後で動画参照にも使いやすい、整理された高品質3Dキャラクターシートとして仕上げる。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2076131543849013722) | 2026-07-12
+
+---
+

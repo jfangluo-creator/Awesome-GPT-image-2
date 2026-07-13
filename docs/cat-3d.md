@@ -5004,3 +5004,125 @@ STEP 3：
 
 ---
 
+### 🧸 例 3898：城市街头的动漫时尚少女
+
+![城市街头的动漫时尚少女](../../images/%E5%9F%8E%E5%B8%82%E8%A1%97%E5%A4%B4%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格时尚街拍场景，画面中包含两位并肩走在现代城市购物区的年轻女性，时间设定在黄金时刻。左侧角色是一位酷炫的金发女孩，留着超长披肩发，拥有蓝色双眼，头戴深灰色 New York Yankees 棒球帽，身穿敞开的深色 NY 标志超大款拉链夹克，内搭黑色露脐背心，下身穿着宽松的橄榄色工装慢跑裤，腰部有抽绳设计并带有侧袋，脖子上挂着大型金属质感头戴式耳机，背着一个毛绒绒的黑色单肩包；她一只手插在口袋里，侧头看向一旁，表情冷静且略带疏离。右侧角色是一位魅力十足的女孩，留着超长波浪卷 {argument name="hair color" default="粉色"} 头发，拥有粉色双眼，身穿一件浪漫的露肩白色透明荷叶边衬衫，采用波点透视面料，带有层叠的褶皱袖子、修身胸衣和心形领口，下身搭配深棕色亮面高腰皮短裤；她温柔地微笑着，看向左侧的金发女孩。将她们设置为前景中的全身至大腿/四分之三构图，背景为写实的城市建筑、玻璃店面、招牌、行人、树木、路灯以及温暖的傍晚光线。采用高细节的半写实动漫插画风格，柔和的电影级布光，浅景深，细腻的线条，时尚的街头风格对比，柔和的城市色调，自然的头发动态，以及微妙的暖色高光。避免前景出现多余角色，避免文字覆盖，避免水印，并保持场景优雅，而非露骨。
+
+[English]
+Create a polished anime-style fashion street scene featuring exactly two young women walking side by side in a modern city shopping district at golden hour. The left character is a cool blonde girl with very long loose hair and blue eyes, wearing a dark gray New York Yankees baseball cap, oversized dark NY logo zip jacket left open, black cropped tank top exposing her midriff, loose olive cargo jogger pants with drawstring waist and side pockets, large metallic over-ear headphones resting around her neck, and a fluffy black shoulder bag; one hand is in her pocket and she looks sideways with a calm, slightly aloof expression. The right character is a glamorous girl with very long wavy {argument name="hair color" default="pink"} hair and pink eyes, wearing a romantic off-shoulder white sheer ruffled blouse with dotted translucent fabric, layered frill sleeves, fitted bodice and sweetheart neckline, paired with glossy dark brown high-waisted leather shorts; she smiles softly and looks toward the blonde girl. Set them full body to upper-thigh/three-quarter crop in the foreground, with realistic urban buildings, glass storefronts, signs, pedestrians, trees, streetlamps, and warm evening light in the background. Use a high-detail semi-realistic anime illustration style, soft cinematic lighting, shallow depth of field, delicate linework, fashionable streetwear contrast, muted city colors, natural hair movement, and subtle warm highlights. Avoid extra characters in the foreground, avoid text overlays, avoid watermarks, and keep the scene elegant rather than explicit.
+```
+
+**来源：** [@全射程レンジ](https://x.com/FullAllrange/status/2076301689636941879) | 2026-07-12
+
+---
+
+### 🧸 例 3911：Shark Plush Tavern Waltz 封面
+
+![Shark Plush Tavern Waltz 封面](../../images/Shark%20Plush%20Tavern%20Waltz%20%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="song title" default="Shark Plush Tavern Waltz"} 创作一张细节丰富的正方形奇幻专辑封面插画，场景设定在飞艇上一间舒适的蒸汽朋克酒馆，猫咪和鲨鱼玩偶吉祥物正在共舞。
+
+画布：正方形 1:1 封面艺术，温暖的电影级光效，带有装饰性边角的精致细金边，极具细节的绘画写实风格，充满奇幻故事书的魅力。
+
+布局：在上方中心处放置一块带有金色饰边和华丽花纹的大型深青色复古招牌。招牌第一行文字为“Shark Plush”，第二行文字为巨大的“Tavern Waltz”，周围环绕着小音符，下方有一个小型指南针/船舵装饰。在招牌下方的丝带状弧线上添加副标题“3/4 time Instrumental”。在底部中心，添加一块小型华丽铭牌，上方写着“Crystal Dragon Lancer”，下方为 {argument name="artist name" default="Elle"}，并配有微型船锚装饰。
+
+场景：飞艇酒馆内部，由深色抛光木材、黄铜管道、绳索、悬挂的灯笼、瓶子、木桶、圆桌、窗帘和航海蒸汽朋克装饰构成。右侧的大圆窗展示出明亮的蓝天、云朵和部分飞艇外观。氛围节日感十足、金碧辉煌、温馨且拥挤，宛如云端温暖的酒馆舞厅。
+
+主体及精确可见角色数量：包含 7 个可见的鲨鱼玩偶角色：左下方 1 个戴着高礼帽跳舞的大型前景鲨鱼玩偶，右前景 1 个穿着背心与橙色猫咪跳舞的鲨鱼玩偶，右下角 1 个仅露出部分背部的鲨鱼玩偶头部，中央舞者后方 1 个蓝色鲨鱼玩偶，背景中间 1 个鲨鱼玩偶舞伴，右侧窗户附近 1 个戴帽的小型鲨鱼玩偶，以及背景舞者中 1 个远处的鲨鱼玩偶。包含 6 只可见的猫咪：左侧 1 只戴着黑色高礼帽和蒸汽朋克背心的大型灰色虎斑猫吉他手，吉他手后方 1 只灰色立式低音提琴手，中央 1 只穿着青色维多利亚风格长裙与前景鲨鱼共舞的快乐蓬松猫咪，右侧 1 只戴着护目镜与鲨鱼共舞的橙色猫咪，背景中央 1 只小型猫咪舞者，以及酒馆后方 1 只猫咪音乐家或舞者。
+
+角色细节：为鲨鱼玩偶穿上维多利亚风格的酒馆服饰：马甲、领结、微型高礼帽、黄铜纽扣和柔软的织物接缝。赋予它们圆润友好的玩偶身体、纽扣般的眼睛、带着柔软三角形牙齿的微笑开口，以及可爱的玩具比例。为猫咪穿上蒸汽朋克维多利亚风格的服装，包括束腰、蕾丝袖口、护目镜、背心、腰带、怀表和微型帽子。让中央的猫咪在跳华尔兹时闭眼欢笑。
+
+音乐与道具：左侧猫咪弹奏红棕色电吉他，后方猫咪演奏立式低音提琴，左下角前景放置康加鼓。添加马克杯、瓶子、蜡烛灯笼、黄铜乐器、绳索、齿轮、墙上的画框，以及左侧墙上写有“SKY TAVERN”和“GOOD ALE”手写小字的黑板招牌。
+
+风格：超细节的奇幻插画，温暖的琥珀色酒馆灯光与透过窗户的冷蓝色日光交织，浅景深电影感，华丽的航海花纹，绘画质感，高分辨率封面艺术质感，生动的华尔兹动感，欢快的表情。
+
+约束：保持所有文字清晰且拼写正确。不要添加现代标志或水印。保留正方形专辑封面构图和华丽的金边。
+
+[English]
+Goal: Create a richly detailed square fantasy album-cover illustration for {argument name="song title" default="Shark Plush Tavern Waltz"}, set in a cozy steampunk tavern aboard an airship where cats and shark plush mascots waltz together.
+
+Canvas: Square 1:1 cover art, warm cinematic lighting, ornate thin gold border with decorative corner filigree, highly detailed painterly realism with whimsical storybook charm.
+
+Layout: Place a large dark teal vintage signboard across the upper center with gold trim and ornate flourishes. The sign text reads “Shark Plush” on the first line and “Tavern Waltz” very large on the second line, with small musical notes around it and a small compass/ship-wheel ornament below. Add the subtitle “3/4 time Instrumental” on a ribbon-like lower curve of the sign. At the bottom center, add a small ornate plaque reading “Crystal Dragon Lancer” above {argument name="artist name" default="Elle"}, with tiny anchor decorations.
+
+Setting: Interior of an airship tavern made of dark polished wood, brass pipes, ropes, hanging lanterns, bottles, barrels, round tables, curtains, and nautical-steampunk ornaments. Large round windows on the right reveal bright blue sky, clouds, and parts of the airship exterior. The atmosphere is festive, golden, cozy, and crowded, like a warm pub dance hall in the clouds.
+
+Subjects and exact visible character count: Include exactly 7 visible shark plush characters: 1 large foreground shark plush in a top hat dancing at lower left, 1 shark plush in a vest dancing with an orange cat at right foreground, 1 partial shark plush head seen from behind at bottom right, 1 blue shark plush behind the central dancers, 1 shark plush couple-partner in the middle background, 1 small shark plush near the right window wearing a hat, and 1 distant shark plush among the background dancers. Include exactly 6 visible cats: 1 large gray tabby cat guitarist at left wearing a black top hat and steampunk vest, 1 gray cat upright bass player behind the guitarist, 1 joyful central fluffy cat in a teal Victorian dress dancing with the foreground shark, 1 orange cat in goggles dancing with the right shark, 1 small cat dancer in the central background, and 1 cat musician or dancer near the back of the tavern.
+
+Character details: Dress the shark plushies in Victorian tavern attire: waistcoats, bow ties, tiny top hats, brass buttons, and soft fabric seams. Give them friendly rounded plush bodies, button-like eyes, smiling open mouths with soft triangular teeth, and cute toy-like proportions. Dress the cats in steampunk-Victorian clothing with corsets, lace cuffs, goggles, vests, belts, pocket watches, and tiny hats. Make the central cat laugh with closed smiling eyes while waltzing.
+
+Music and props: The left cat plays a red-brown electric guitar, the rear cat plays an upright bass, and conga drums sit in the lower left foreground. Add mugs, bottles, candle lanterns, brass instruments, ropes, gears, framed wall pictures, and a chalkboard sign on the left wall that says “SKY TAVERN” and “GOOD ALE” in small hand-lettered text.
+
+Style: Ultra-detailed whimsical fantasy illustration, warm amber tavern lighting mixed with cool blue daylight through windows, shallow cinematic depth, ornate nautical filigree, painterly texture, high-resolution cover-art polish, lively waltz motion, joyful expressions.
+
+Constraints: Keep all text legible and spelled correctly. Do not add modern logos or watermarks. Preserve the square album-cover composition and the ornate gold border.
+```
+
+**来源：** [@エル💙way](https://x.com/ellewayAI/status/2076271855254618363) | 2026-07-12
+
+---
+
+### 🧸 例 3925：日式 Nendoroid 风格微缩手办
+
+![日式 Nendoroid 风格微缩手办](../../images/%E6%97%A5%E5%BC%8F%20Nendoroid%20%E9%A3%8E%E6%A0%BC%E5%BE%AE%E7%BC%A9%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+“将照片中的 {argument name="people" default="宝宝兄弟姐妹"} 转换为日式微缩手办（{argument name="figure style" default="Nendoroid 风格"}，SD 比例）。- 可爱的 Q 版比例，大头小身 - 光滑的 PVC/乙烯基质感，带有细腻的光泽 - 大眼睛和柔和可爱的表情，同时保留原始的面部特征和发型 - 站立在透明亚克力底座上 - 产品摄影构图，旁边放置着手办包装盒 - 影棚灯光，柔和阴影，浅景深 - 简洁的白色或浅色渐变背景 - 逼真的质感和细节，如同真实的手办摄影”
+
+[English]
+“사진 속 {argument name="인물" default="아기 남매"}를 일본식 미니어처 피규어({argument name="피규어 스타일" default="Nendoroid 스타일"}, SD 비율)로 변환해줘. - 큰 머리와 작은 몸의 귀여운 chibi 비율 - 매끈한 PVC/비닐 재질 질감, 은은한 광택 - 큰 눈과 부드럽고 사랑스러운 표정, 원본 얼굴 특징과 헤어스타일 유지 - 투명 아크릴 받침대 위에 서 있는 모습 - 피규어 박스 패키지가 옆에 함께 놓인 상품 사진 연출 - 스튜디오 조명, 부드러운 그림자, 얕은 피사계 심도 - 배경은 심플한 흰색 또는 연한 그라데이션 - 실제 피규어 사진처럼 사실적인 질감과 디테일”
+```
+
+**来源：** [@텍스택스](https://x.com/Bidemyturn/status/2076217528473526451) | 2026-07-12
+
+---
+
+### 🧸 例 3944：餐具店里的奶牛少女
+
+![餐具店里的奶牛少女](../../images/%E9%A4%90%E5%85%B7%E5%BA%97%E9%87%8C%E7%9A%84%E5%A5%B6%E7%89%9B%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插画，主角是 {argument name="character name" default="Muumuu Bell"}，一位可爱的奶牛主题少女，正在温馨的日本餐具店里购物。她站在画面右侧的前景中，左手拿着一个花卉陶瓷盘，右手将一个小金铃放在嘴边，双唇微张，琥珀棕色的眼睛里流露出惊讶与好奇。她留着一头极长的 {argument name="hair color" default="银白色渐变至浅水蓝发梢"} 的秀发，配有柔和的刘海、小巧的棕色牛角、黑白相间的牛耳，以及一条在右下角卷曲、末端带有黑色毛簇的细长牛尾。她身穿白色奶牛纹无袖短款上衣，搭配浅色百褶裙，肩上披着一件超大号黑色棒球外套，袖口有条纹装饰，袖子上印有金色的装饰性文字。商店背景经过柔焦处理但细节丰富：木质货架上整齐地陈列着陶瓷盘、碗、马克杯和堆叠的餐具，所有餐具都带有精致的淡雅花卉图案；画面中清晰可见三个醒目的商店招牌，包括左上方写有日文和粉色花朵图案的深色黑板，上面写着 {argument name="chalkboard text" default="毎日の食卓を もっと素敵に。"}，一个小货架招牌写着 {argument name="small sign text" default="洋食器の日 7月12日"}，以及后方的一条大横幅，上面写着 {argument name="banner text" default="洋食器フェア 特別価格でご提供"}。在左下角添加一张白色手写问候卡片，上面写着 {argument name="greeting text" default="おはよう"}。采用温暖的室内灯光，浅景深效果，柔和的吊灯光斑，奶油米色和桃色调，细腻的线条，高细节的动漫渲染，明亮的眼睛，淡淡的腮红，营造出温馨的购物氛围。保持画面为单人场景，没有额外人物，无水印，非写实风格。
+
+[English]
+Create a polished anime-style illustration of {argument name="character name" default="Muumuu Bell"}, a cute cow-themed demon girl shopping in a warm, softly lit tableware store. She stands slightly right of center in front of wooden shelves filled with ceramic dishes, holding one round floral dinner plate in her left hand and a small golden handbell near her mouth in her right hand, looking surprised and shy with parted lips, amber-brown eyes, blush, and two small blue sweat-drop marks near her head. She has very long silver-white hair with pale aqua tips flowing down past her waist, two small tan horns, black-and-white cow ears, and a thin cow tail with a black tuft visible at the lower right. Her outfit is a white cropped cow-print top, high-waisted white pleated skirt, and an oversized black varsity jacket slipping off her shoulders with striped cuffs and gold script embroidery on the sleeve. The store background should show exactly 4 visible display areas: a left upper shelf with pastel floral mugs and cups, a left middle shelf with decorative plates standing upright, a left lower shelf with stacked plates and a mug, and a blurred rear wall shelf full of boxed cups and dishes. Include exactly 5 prominent text signs: a blackboard on the upper left reading 「毎日の食卓を もっと素敵に。」 with small pink flower drawings, a small shelf sign reading 「洋食器の日 7月12日」, a large rear banner reading 「洋食器フェア 特別価格でご提供」, a small dark sign on the right reading 「新商品 New!」, and a bottom-left card reading 「おはよう」. Use warm beige and honey-brown lighting, shallow depth of field, detailed porcelain patterns, soft bloom, delicate linework, high-quality Japanese anime rendering, 16:9 landscape composition, no watermark, no extra characters.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2076159036920402201) | 2026-07-12
+
+---
+
+### 🧸 例 3950：生日小狗派对场景
+
+![生日小狗派对场景](../../images/%E7%94%9F%E6%97%A5%E5%B0%8F%E7%8B%97%E6%B4%BE%E5%AF%B9%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个欢快的竖版 9:16 3D 动画生日场景，背景设定在阳光明媚的温馨客厅中。画面中仅有两只可爱的风格化小狗作为主角：左侧为 {argument name="left dog character" default="一只奶油色法国斗牛犬幼犬，左眼上方有一块大大的深褐色斑点，额头有一个小黑点，一只耳朵是深色，另一只耳朵是奶油色，拥有超大且有光泽的黑色眼睛、粉色的耳内侧、细小的雀斑，以及吐着舌头的开心笑容"}；右侧为 {argument name="right dog character" default="一只毛茸茸的白色北京犬幼犬，脸型圆润，长而柔软的下垂耳朵，大而有光泽的黑眼睛，小黑鼻子，短腿，张着嘴开心地吐着舌头"}。左侧的小狗站立着，胸前捧着一个盘子，上面放着一个圆形生日蛋糕；右侧的小狗站在旁边，神情愉悦。蛋糕呈奶油色，带有奶油漩涡装饰、彩色糖针、侧面有一圈粉色波浪形糖霜，中心插着 1 根点燃的粉色条纹蜡烛。用充满节日气氛的生日派对房间装饰它们：抛光木地板上散落着彩色五彩纸屑，背景和前景摆放着系有丝带的马卡龙色礼盒，周围漂浮着许多气球和卷曲的丝带。画面中需展示 10 个显眼的气球：左上角一个粉色波点气球，左上边缘一个绿色气球局部，左侧一个紫色气球，顶部中心附近一个蓝色气球，顶部中右侧附近一个黄色气球，右上角一个大型粉色波点气球，右侧中部一个紫色气球，右侧一个粉色波点气球，左下角前景一个黄色波点气球局部，以及左下角前景一个蓝色气球局部。使用来自右侧温暖的金色窗光，背景中温馨的木质家具呈现柔和的模糊效果，浅景深，毛发具有玩具般的质感，皮克斯 (Pixar) 级 3D 渲染，造型圆润柔和，色彩鲜艳明快，表情欢快，细节丰富，无文字，无水印，画面中不包含其他动物或人物。
+
+[English]
+Create a cheerful vertical 9:16 3D animated birthday scene in a warm sunlit living room. Two cute stylized dogs are the only main characters: on the left, {argument name="left dog character" default="a cream French bulldog puppy with one large dark brown patch over the left eye, a smaller dark spot on the forehead, one dark ear and one cream ear, oversized glossy black eyes, pink inner ears, tiny freckles, and a happy smile with tongue out"}; on the right, {argument name="right dog character" default="a fluffy white Pekingese puppy with rounded face, long soft floppy ears, big glossy dark eyes, small black nose, short legs, and an open happy mouth with tongue out"}. The left dog stands upright holding a round birthday cake on a plate at chest height; the right dog stands beside it, looking delighted. The cake is cream-colored with frosting swirls, colorful sprinkles, a pink wavy icing band around the side, and exactly 1 lit pink-striped candle in the center. Surround them with a festive birthday party room: polished wooden floor scattered with colorful confetti, pastel wrapped gift boxes with ribbons in the background and foreground, and many floating balloons and curling ribbons. Show exactly 10 prominent balloons: pink polka-dot balloon at upper left, green partial balloon at far upper left edge, purple balloon at left, blue balloon near top center, yellow balloon near top center-right, large pink polka-dot balloon at upper right, purple balloon mid-right, pink polka-dot balloon at right, partial yellow polka-dot balloon at bottom left foreground, and partial blue balloon at bottom left foreground. Use warm golden window light from the right, cozy wooden furniture softly blurred in the background, shallow depth of field, glossy toy-like fur, Pixar-quality 3D rendering, soft rounded forms, vibrant pastel colors, joyful expression, high detail, no text, no watermark, no extra animals or people.
+```
+
+**来源：** [@essan | AIクリエイター │ TRONGlobalFriends](https://x.com/essan_x/status/2076152558264238571) | 2026-07-12
+
+---
+

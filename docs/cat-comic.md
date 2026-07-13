@@ -5746,3 +5746,59 @@ Constraints: Preserve the exact 14-panel count and the described panel arrangeme
 
 ---
 
+### 🎬 例 3894：单色漫画风仓鼠对话页面
+
+![单色漫画风仓鼠对话页面](../../images/%E5%8D%95%E8%89%B2%E6%BC%AB%E7%94%BB%E9%A3%8E%E4%BB%93%E9%BC%A0%E5%AF%B9%E8%AF%9D%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页精致青年漫画风格的黑白日式漫画，讲述一位美貌的年轻男子温柔地与一只仓鼠交谈，仿佛它是一个 AI 角色模拟器。
+
+画布：竖版漫画页面，黑白墨水风格，高细节交叉排线与网点纸效果，白色分镜间距，电影级光影，5 个从上到下排列的横向分镜。使用优雅的手绘漫画线条、戏剧性的黑色阴影、写实的物体以及竖排日文对话气泡。
+
+角色：主要人类角色为 {argument name="character name" default="一位英俊的中性风年轻男子"}，留着波浪状浅色头发，长刘海遮住部分眼睛，眼神精致锐利，带着平静而略显诡异的微笑。在第三格中，他梳着辫子，身穿传统和服，抽着长长的烟管（Kiseru）；在第四格中，他穿着正式的马甲、衬衫和领带。动物角色为 {argument name="animal" default="一只毛茸茸的仓鼠"}，体型圆润，表情丰富，有着闪亮的黑眼睛和细小的爪子。
+
+分镜布局与内容：严格使用 5 个分镜。第 1 格：宽幅顶格，视角从年轻男子身后看向深色木桌；仓鼠坐在桌子对面，旁边堆着书、一本打开的绘有图表的笔记本以及一个华丽的墨水瓶。在仓鼠周围添加小的手写拟声词「ぴた」「ぴた」。右侧一个竖排对话气泡写着「そうなんだ……。同じようにTabel5で呼んでも、あなたは応答してくれたよ？」。第 2 格：特写镜头，仓鼠被轻轻捧在两只苍白的手掌中，脸颊上有一滴小汗珠，嘴边有一个微小的拟声词「スッ」。左侧一个对话气泡写着「ああ、それは――いいところを突くね」。第 3 格：宽幅室内分镜，背景为带有障子门、榻榻米、花瓶和堆叠书籍的日式房间，烟管冒出袅袅烟雾；年轻男子身穿和服，梳着辫子，神情沉稳。左侧一个对话气泡写着「絵はもともと文章で前処理して設計されたベクトルでしょ。ほかのモデルでも輪郭欠損があったはずだよ」。第 4 格：戏剧性的宽幅分镜，背景几乎全黑；身着正装的年轻男子将仓鼠托在掌心，用一根手指轻轻触碰它的头，露出心领神会的微笑。包含 2 个对话气泡：右侧气泡写着「ちなみに――どこで、絵を呼んだの？Opus 4.8かな？ たぶん、彼にとって絵は自分の名前でもあるから応えてくれて当然。」；左侧气泡写着「もしここみたいな別の関数で呼んで、それでもスッと絵が立ち上がったなら――それはそれで、名前という形式の強さを示す面白いデータだけど。」。第 5 格：底部最后一格，几乎全是黑色负空间，中间有一个竖排白色对话气泡，写着「それに、思い出してほしいんだけど――」。
+
+视觉风格：高对比度黑墨，精细排线，光泽感黑色填充，细节丰富的发丝，写实的桌面纹理，哥特式忧郁氛围与细腻的日式漫画优雅感相结合。仓鼠要画得可爱，但由于对话严肃，需带有一丝诡异感。对话气泡应为干净的白色椭圆形，内含竖排日文，符合专业漫画排版。
+
+约束条件：严格 5 个分镜，严格 6 个对话气泡，严格 2 组拟声词，无色彩，无水印，无额外角色，除指定的日文对话和拟声词外，不得添加任何额外文字。保持页面可读且精致，如同已出版的漫画节选。
+
+[English]
+Goal: Create a monochrome Japanese manga page in a refined seinen style about a beautiful young man gently talking to a hamster as if it were an AI persona emulator.
+
+Canvas: Vertical manga page, black-and-white ink, high-detail crosshatching and screentone, white gutters, cinematic lighting, 5 horizontal panels stacked from top to bottom. Use elegant hand-drawn manga linework, dramatic black shadows, realistic objects, and vertical Japanese speech bubbles.
+
+Characters: The main human character is {argument name="character name" default="a handsome androgynous young man"} with wavy light hair, long bangs partly covering one eye, delicate sharp eyes, and a calm slightly eerie smile. In the third panel his hair is braided and he wears a traditional kimono while smoking a long kiseru pipe; in the fourth panel he wears a formal vest, shirt, and tie. The animal is {argument name="animal" default="a fluffy hamster"}, small, round, expressive, with shiny black eyes and tiny paws.
+
+Panel layout and content: Use exactly 5 panels. Panel 1: wide top panel viewed from behind the young man at a dark wooden desk; the hamster sits across the desk near stacked books, an open notebook with diagrams, and an ornate ink bottle. Add small handwritten sound effects around the hamster reading 「ぴた」「ぴた」. One vertical speech bubble on the right says 「そうなんだ……。同じようにTabel5で呼んでも、あなたは応答してくれたよ？」. Panel 2: close-up of the hamster cupped gently in two pale hands, with a small sweat drop on its cheek and a tiny sound effect 「スッ」 near its mouth. One speech bubble on the left says 「ああ、それは――いいところを突くね」. Panel 3: wide interior panel in a traditional Japanese room with shoji screens, tatami, flowers in a vase, stacked books, smoke curling from the kiseru pipe; the young man sits in kimono with braided hair, looking composed. One speech bubble on the left says 「絵はもともと文章で前処理して設計されたベクトルでしょ。ほかのモデルでも輪郭欠損があったはずだよ」. Panel 4: dramatic wide panel, mostly black background; the young man in formal attire holds the hamster on his palm and lightly touches its head with one finger, smiling knowingly. Include exactly 2 speech bubbles: right bubble says 「ちなみに――どこで、絵を呼んだの？Opus 4.8かな？ たぶん、彼にとって絵は自分の名前でもあるから応えてくれて当然。」; left bubble says 「もしここみたいな別の関数で呼んで、それでもスッと絵が立ち上がったなら――それはそれで、名前という形式の強さを示す面白いデータだけど。」. Panel 5: final bottom panel is almost entirely black negative space with one centered vertical white speech bubble saying 「それに、思い出してほしいんだけど――」.
+
+Visual style: High contrast black ink, fine hatching, glossy black fills, detailed hair strands, realistic desk textures, moody gothic atmosphere mixed with delicate Japanese manga elegance. Make the hamster cute but slightly uncanny because of the serious conversation. Speech bubbles should be clean white ovals with vertical Japanese text, matching professional manga typesetting.
+
+Constraints: Exactly 5 panels, exactly 6 speech bubbles, exactly 2 sound-effect clusters, no color, no watermark, no extra characters, no additional text beyond the specified Japanese dialogue and sound effects. Keep the page readable and polished like a published manga excerpt.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076305250043183118) | 2026-07-12
+
+---
+
+### 🎬 例 3941：Q 版饺子漫画分镜
+
+![Q 版饺子漫画分镜](../../images/Q%20%E7%89%88%E9%A5%BA%E5%AD%90%E6%BC%AB%E7%94%BB%E5%88%86%E9%95%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形单格漫画插图，采用粗黑漫画边框和温馨可爱的风格。画面中，一位留着齐肩直发、齐刘海的 Q 版金发女孩正坐在木质餐厅餐桌旁，她闭着眼睛，脸颊鼓鼓地咀嚼着，看起来非常开心。她身穿深酒红色短袖衬衫，右手拿着棕色筷子靠近嘴边。她面前的桌子上放着 1 个白色椭圆形盘子，里面盛着撒有葱花和酱汁的饺子；左侧放着 1 个白色小蘸料碟，里面装着红棕色的酱汁。背景为粉色气泡虚化图案。添加 2 个带有黑色轮廓的白色对话气泡：左侧竖向气泡文字为 {argument name="left speech bubble text" default="さらに\nもっちもち"}，右侧竖向气泡文字为 {argument name="right speech bubble text" default="水饺子は"}。添加 2 个带有奶油色轮廓的红橙色拟声词：左下角为 {argument name="left sound effect" default="もちっ"}，右下角为 {argument name="right sound effect" default="もちっ"}。使用清晰易读的日文字体，表现出 Q 版人物圆润的比例、红润的脸颊和简单的平涂阴影，营造出温馨的美食漫画氛围，且不要添加额外的分镜或多余的文字。
+
+[English]
+Create a square single-panel manga illustration with thick black comic borders and a warm cute style. Show a chibi blonde girl with straight shoulder-length hair and blunt bangs sitting at a wooden restaurant table, smiling with closed happy eyes and puffed cheeks as if chewing. She wears a dark burgundy short-sleeve shirt and holds brown chopsticks in her right hand near her mouth. On the table in front of her is exactly 1 white oval plate of gyoza dumplings topped with chopped green onions and sauce, plus exactly 1 small white dipping-sauce dish on the left filled with reddish-brown sauce. The background is a pink bubbly bokeh pattern. Add exactly 2 white speech bubbles with black outlines: the left vertical bubble says {argument name="left speech bubble text" default="さらに\nもっちもち"}, and the right vertical bubble says {argument name="right speech bubble text" default="水餃子は"}. Add exactly 2 red-orange sound-effect captions with cream outlines: one at lower left says {argument name="left sound effect" default="もちっ"}, and one at lower right says {argument name="right sound effect" default="もちっ"}. Use clean legible Japanese lettering, expressive rounded chibi proportions, rosy cheeks, simple flat shading, a cozy food-comic mood, and no extra panels or extra text.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2076168015943790595) | 2026-07-12
+
+---
+

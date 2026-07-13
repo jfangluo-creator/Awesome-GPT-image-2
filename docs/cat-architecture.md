@@ -2098,3 +2098,49 @@ Create a wide 16:9 anime-style comedic illustration set inside a cramped Japanes
 
 ---
 
+### 🏛️ 例 3913：蓝色幻想图书馆中庭
+
+![蓝色幻想图书馆中庭](../../images/%E8%93%9D%E8%89%B2%E5%B9%BB%E6%83%B3%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD%E5%BA%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 竖构图的动漫幻想插画，描绘一个高耸入云、光芒四射的图书馆中庭，主色调为 {argument name="color palette" default="钴蓝色和纯白色，点缀少量暖橙色叶片"}。场景两侧布满了高耸的书架、多个阳台、梯子、楼梯、拱形窗户，中心处有一个明亮的白色开口，将整个空间照得通透。画面中需清晰呈现 14 个人物，均为身着浅白或蓝色服装的精致蓝发学者少年：左下方一名在巨型开卷中阅读，一名蹲在左侧书架上，一名站在左侧窗龛内，一名在左上方悬浮并手持长方形盒，一名在远处的中央阳台上，一名在中央下层书架附近，一名站在右上方阳台上阅读，一名坐在右侧栏杆上，一名站在右侧书架旁，一名在右下边缘阅读，一名坐在右下方翻阅书籍，一名背对观众位于中央前景，一名在中央楼梯附近，还有一名在背景中部的阳台上。空气中充斥着数百片飞舞的书页、纸屑、白鸟、花瓣、水晶碎片以及几本悬浮在空中的书籍；前景包含两本巨大的开卷，一本位于左下方，另一本横跨右下方。在右上角放置一个巨大的发光圆形星盘或魔法时钟，由同心圆、符号和钟表刻度组成。构图应呈现出知识与书页向上盘旋的漩涡感，具备极强的纵深感、复杂的线条、高调照明、闪烁的粒子效果以及优雅的漫画风格渲染。在右下角添加一个小的手写签名和日期，内容为 {argument name="date text" default="2026 年 7 月 12 日"} 和 {argument name="signature" default="Oyagi"}。画面中不得出现其他可读文字、水印或边框。
+
+[English]
+Create a vertical 2:3 anime fantasy illustration of an impossibly tall, luminous library atrium, dominated by {argument name="color palette" default="cobalt blue and pure white with tiny warm orange leaf accents"}. The scene is packed with towering bookshelves on both sides, multiple balconies, ladders, stairs, arched windows, and a radiant white opening in the center that floods the whole space with light. Show exactly 14 visible human figures, all delicate blue-haired scholar boys in pale white or blue clothing: one reading at the lower left among giant open books, one crouched on a left shelf, one standing in a left window alcove, one floating near the upper left holding a rectangular case, one tiny figure on a distant central balcony, one tiny figure near the center lower shelves, one standing on the upper right balcony reading, one seated on a right-side railing, one standing by the right bookshelves, one reading at the lower right edge, one seated at the lower right with an open book, one back-facing figure in the lower center foreground, one tiny figure near the central stairs, and one tiny figure on a mid-background balcony. Fill the air with hundreds of fluttering book pages, paper shards, white birds, petals, crystalline fragments, and several open books suspended in motion; include two huge open books in the foreground, one at lower left and one sweeping across the lower right. At the upper right, place a large glowing circular astrolabe or magical clock made of concentric rings, symbols, and clockwork markings. The composition should feel like a vortex of knowledge and pages swirling upward, with extreme depth, intricate linework, high-key lighting, sparkling particles, and elegant manga-style rendering. Add a small handwritten signature and date in the bottom right reading {argument name="date text" default="July 12, 2026"} and {argument name="signature" default="Oyagi"}. No other readable text, no watermark, no frame.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2076261352730161482) | 2026-07-12
+
+---
+
+### 🏛️ 例 3956：极简主义日式建筑时尚摄影
+
+![极简主义日式建筑时尚摄影](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%A5%E5%BC%8F%E5%BB%BA%E7%AD%91%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位令人惊艳的 {argument name="subject" default="年轻日本女性"} 在高端时尚工作室拍摄大片，优雅地伫立在由 {argument name="studio style" default="当代建筑工作室"} 设计的空间中，背景为大型弧形混凝土墙、富有质感的炭灰色表面以及柔和的几何阴影。她身着 {argument name="outfit colors" default="深象牙白与黑色调"} 的奢华设计师服装，将现代日式极简主义与高级时尚的精致感完美融合。修身的剪裁、考究的配饰、精致的珠宝以及无可挑剔的造型，营造出永恒的杂志大片质感。
+
+工作室呈现出极具雕塑感的环境，层叠的弧形墙面、光滑的抛光混凝土底板以及微妙的氛围感薄雾。没有多余的杂乱道具。整个构图聚焦于她的人物存在感、美感、姿态与神情。
+
+电影级布光设置，顶部大型柔光箱营造出柔和的定向照明，辅以微妙的侧面轮廓光勾勒出她的身形。深邃的阴影、丰富的对比度与受控的高光，营造出奢华的时尚杂志氛围。自然的皮肤纹理、无瑕但真实的肤色、带有柔和动感的优雅发型、自信的眼神以及优雅的姿态。
+
+超写实 DSLR 摄影，女性奢华时尚大片，Vogue 级广告审美，浅景深，85mm 镜头，f/1.8，焦点精准锁定在模特身上，卓越的织物细节，真实的灯光衰减，高级电影级调色，丰富的色调深度，建筑时尚摄影，奢华广告大片品质，大师级构图，照片级真实感，RAW 照片质量，8K 分辨率，高度细节，专业时尚工作室大片，完全聚焦于模特本身。
+
+姿势变化：站立，一只手轻轻触碰弧形混凝土墙，身体略微背向镜头，下巴微微抬起，双眼平静而自信地直视镜头，展现出强大且优雅的奢华时尚气场。
+
+[English]
+A stunning {argument name="subject" default="young Japanese woman"} in a high-end fashion studio photoshoot, standing gracefully in a {argument name="studio style" default="contemporary architectural studio"建设设计 with large curved concrete walls, textured charcoal surfaces, and soft geometric shadows. She wears an elegant luxury designer outfit in {argument name="outfit colors" default="deep ivory and black tones"}, combining modern Japanese minimalism with high-fashion sophistication. Tailored silhouette, refined accessories, subtle jewelry, and impeccable styling create a timeless editorial look.The studio features a dramatic sculptural environment with layered curved walls, smooth polished concrete flooring, and subtle atmospheric haze. No distracting props. The entire composition is focused on her presence, beauty, posture, and expression.
+Cinematic lighting setup with a large overhead softbox creating soft directional illumination, complemented by subtle side rim lights that sculpt her silhouette.Deep shadows, rich contrast, and controlled highlights create a luxurious fashion-magazine atmosphere. Natural skin texture, flawless yet realistic complexion, elegant hairstyle with soft movement, confident gaze, and graceful posture.
+Ultra-realistic DSLR photography, luxury women's fashion editorial, Vogue-level campaign aesthetic, shallow depth of field, 85mm lens, f/1.8, tack-sharp focus on the model, exceptional fabric detail,realistic lighting falloff, premium cinematic color grading, rich tonal depth, architectural fashion photography, luxury advertising campaign quality, masterpiece composition, photorealistic, RAW photo quality, 8K resolution, highly detailed, professional fashion studio campaign, focused entirely on the model.Pose Variation: Standing with one hand lightly touching the curved concrete wall, body angled slightly away from the camera, chin raised subtly, eyes looking directly into the lens with calm confidence, creating a powerful yet elegant luxury-fashion presence.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2076138056378458388) | 2026-07-12
+
+---
+

@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (264)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (266)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -521,11 +521,15 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 3827: 日式悬疑游戏网站模型](cat-ui.md#️-例-3827日式悬疑游戏网站模型)
 
 - [Case 3850: 豪华冰箱里的微型人像](cat-ui.md#️-例-3850豪华冰箱里的微型人像)
+
+- [Case 3896: 古代遗迹逃生项目](cat-ui.md#️-例-3896古代遗迹逃生项目)
+
+- [Case 3949: 深色模式 LINE AI 助手聊天截图](cat-ui.md#️-例-3949深色模式-line-ai-助手聊天截图)
 ---
 
 <a id="chart"></a>
 
-## 📊 [Charts & Infographics](cat-chart.md) (81)
+## 📊 [Charts & Infographics](cat-chart.md) (85)
 
 Infographics, flowcharts, knowledge graphs, technical diagrams, data visualization, exploded views, annotated diagrams.
 
@@ -675,11 +679,19 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 - [Case 3772: 日式鲜花碳酸饮料保鲜信息图](cat-chart.md#-例-3772日式鲜花碳酸饮料保鲜信息图)
 
 - [Case 3843: 2026 年 AI 图像工具梯队排行榜](cat-chart.md#-例-38432026-年-ai-图像工具梯队排行榜)
+
+- [Case 3864: 推理上下文与 Prompt Cache 演示幻灯片](cat-chart.md#-例-3864推理上下文与-prompt-cache-演示幻灯片)
+
+- [Case 3882: 带有蓝图叠加层的技术产品信息图](cat-chart.md#-例-3882带有蓝图叠加层的技术产品信息图)
+
+- [Case 3900: Pachinko 物理调试布局](cat-chart.md#-例-3900pachinko-物理调试布局)
+
+- [Case 3929: ASMR 开箱分镜信息图](cat-chart.md#-例-3929asmr-开箱分镜信息图)
 ---
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (581)
+## 🎴 [Posters & Cards](cat-poster.md) (598)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -1805,11 +1817,45 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 3860: 混乱的日式嘉宾官宣海报](cat-poster.md#-例-3860混乱的日式嘉宾官宣海报)
 
 - [Case 3861: 上海白玉兰早安海报](cat-poster.md#-例-3861上海白玉兰早安海报)
+
+- [Case 3867: 奢华 Noir 香水海报](cat-poster.md#-例-3867奢华-noir-香水海报)
+
+- [Case 3870: Ford F-150 Raptor 沙漠沙尘暴](cat-poster.md#-例-3870ford-f-150-raptor-沙漠沙尘暴)
+
+- [Case 3875: “逆转损伤”产品广告拼图](cat-poster.md#-例-3875逆转损伤产品广告拼图)
+
+- [Case 3876: 超奢华剪影香水海报](cat-poster.md#-例-3876超奢华剪影香水海报)
+
+- [Case 3880: Mental Peace 乐谱海报](cat-poster.md#-例-3880mental-peace-乐谱海报)
+
+- [Case 3881: 未来感智能手机产品广告](cat-poster.md#-例-3881未来感智能手机产品广告)
+
+- [Case 3884: Skippy Peanut Butter 编辑项目](cat-poster.md#-例-3884skippy-peanut-butter-编辑项目)
+
+- [Case 3885: 复古做旧风格便利店招聘海报](cat-poster.md#-例-3885复古做旧风格便利店招聘海报)
+
+- [Case 3886: 五联版饮料营销活动](cat-poster.md#-例-3886五联版饮料营销活动)
+
+- [Case 3887: 奢侈品营销广告海报](cat-poster.md#-例-3887奢侈品营销广告海报)
+
+- [Case 3907: 漫画角色设计三联画海报](cat-poster.md#-例-3907漫画角色设计三联画海报)
+
+- [Case 3908: 奢华香水俯拍海报](cat-poster.md#-例-3908奢华香水俯拍海报)
+
+- [Case 3909: 日式集换式卡牌 (TCG) 策略信息图](cat-poster.md#-例-3909日式集换式卡牌-tcg-策略信息图)
+
+- [Case 3910: 高端护肤品广告，配巨型产品罐](cat-poster.md#-例-3910高端护肤品广告配巨型产品罐)
+
+- [Case 3927: 东方禅意极简剪影海报](cat-poster.md#-例-3927东方禅意极简剪影海报)
+
+- [Case 3933: 赛博朋克门户吉祥物海报](cat-poster.md#-例-3933赛博朋克门户吉祥物海报)
+
+- [Case 3946: 奢华家居服套装卡牌](cat-poster.md#-例-3946奢华家居服套装卡牌)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (1537)
+## 📷 [Photography & Realistic](cat-photo.md) (1587)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -4813,11 +4859,113 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 3858: 露背晚礼服酒店人像](cat-photo.md#-例-3858露背晚礼服酒店人像)
 
 - [Case 3859: 梦幻云端奔跑者肖像](cat-photo.md#-例-3859梦幻云端奔跑者肖像)
+
+- [Case 3865: 自然晨光室内人像](cat-photo.md#-例-3865自然晨光室内人像)
+
+- [Case 3868: 复古奢华宅邸时尚肖像](cat-photo.md#-例-3868复古奢华宅邸时尚肖像)
+
+- [Case 3869: 梦幻余晖时尚肖像](cat-photo.md#-例-3869梦幻余晖时尚肖像)
+
+- [Case 3873: 彩虹光影投射漫画肖像](cat-photo.md#-例-3873彩虹光影投射漫画肖像)
+
+- [Case 3874: 身穿紫裙触碰镜面的女子](cat-photo.md#-例-3874身穿紫裙触碰镜面的女子)
+
+- [Case 3877: 奢华时尚杂志人像](cat-photo.md#-例-3877奢华时尚杂志人像)
+
+- [Case 3879: 复古踏板摩托车手机抓拍照片](cat-photo.md#-例-3879复古踏板摩托车手机抓拍照片)
+
+- [Case 3883: 梦幻春日公路旅行人像](cat-photo.md#-例-3883梦幻春日公路旅行人像)
+
+- [Case 3888: 涩谷站夜间时尚人像](cat-photo.md#-例-3888涩谷站夜间时尚人像)
+
+- [Case 3890: 豪华公寓镜面自拍肖像](cat-photo.md#-例-3890豪华公寓镜面自拍肖像)
+
+- [Case 3891: 俯拍纪实风格少女肖像](cat-photo.md#-例-3891俯拍纪实风格少女肖像)
+
+- [Case 3892: 中国古籍图书馆纪实摄影](cat-photo.md#-例-3892中国古籍图书馆纪实摄影)
+
+- [Case 3893: 中东男性奢华肖像](cat-photo.md#-例-3893中东男性奢华肖像)
+
+- [Case 3899: 泰迪熊野餐主题生日横幅](cat-photo.md#-例-3899泰迪熊野餐主题生日横幅)
+
+- [Case 3902: 前卫高定时尚编辑人像](cat-photo.md#-例-3902前卫高定时尚编辑人像)
+
+- [Case 3903: 极简肖像与涂鸦拥抱](cat-photo.md#-例-3903极简肖像与涂鸦拥抱)
+
+- [Case 3904: 电影感乡村公路停靠站剧照网格](cat-photo.md#-例-3904电影感乡村公路停靠站剧照网格)
+
+- [Case 3905: 日本女性传统缘侧肖像](cat-photo.md#-例-3905日本女性传统缘侧肖像)
+
+- [Case 3906: 野花草甸中的传统韩服肖像](cat-photo.md#-例-3906野花草甸中的传统韩服肖像)
+
+- [Case 3912: 日式咖啡馆阅读肖像](cat-photo.md#-例-3912日式咖啡馆阅读肖像)
+
+- [Case 3914: 动漫战术士兵服装设计](cat-photo.md#-例-3914动漫战术士兵服装设计)
+
+- [Case 3916: 永恒之花赛博朋克肖像](cat-photo.md#-例-3916永恒之花赛博朋克肖像)
+
+- [Case 3918: T 台高定肖像](cat-photo.md#-例-3918t-台高定肖像)
+
+- [Case 3919: 电影感 35mm 胶片摄影系列](cat-photo.md#-例-3919电影感-35mm-胶片摄影系列)
+
+- [Case 3920: 夏日铁路道口抓拍](cat-photo.md#-例-3920夏日铁路道口抓拍)
+
+- [Case 3921: 高端摄影棚产品拍摄](cat-photo.md#-例-3921高端摄影棚产品拍摄)
+
+- [Case 3922: 夏季铁路鱼眼人像](cat-photo.md#-例-3922夏季铁路鱼眼人像)
+
+- [Case 3926: 电影感公寓夜间肖像](cat-photo.md#-例-3926电影感公寓夜间肖像)
+
+- [Case 3928: 明治浪漫主义时尚肖像](cat-photo.md#-例-3928明治浪漫主义时尚肖像)
+
+- [Case 3930: 海岸时尚人像摄影](cat-photo.md#-例-3930海岸时尚人像摄影)
+
+- [Case 3931: 阳光洒满的复古工作室室内肖像](cat-photo.md#-例-3931阳光洒满的复古工作室室内肖像)
+
+- [Case 3932: 公寓夜间情感肖像](cat-photo.md#-例-3932公寓夜间情感肖像)
+
+- [Case 3935: 水墨汉服角色肖像](cat-photo.md#-例-3935水墨汉服角色肖像)
+
+- [Case 3936: 电影感武侠奇幻封面](cat-photo.md#-例-3936电影感武侠奇幻封面)
+
+- [Case 3937: 赛博朋克金融区肖像](cat-photo.md#-例-3937赛博朋克金融区肖像)
+
+- [Case 3939: 炽热背光剪影人像](cat-photo.md#-例-3939炽热背光剪影人像)
+
+- [Case 3942: 黄金时刻东亚女性肖像](cat-photo.md#-例-3942黄金时刻东亚女性肖像)
+
+- [Case 3943: 提示词：
+
+上传一张人像作为人物参考，将参考人物自然替换进原图场景。保留原图的构图、机位、动作、姿势](cat-photo.md#-例-3943提示词上传一张人像作为人物参考将参考人物自然替换进原图场景保留原图的构图机位动作姿势)
+
+- [Case 3948: 午后氛围感窗边人像](cat-photo.md#-例-3948午后氛围感窗边人像)
+
+- [Case 3951: 戏剧性低调窗光人像](cat-photo.md#-例-3951戏剧性低调窗光人像)
+
+- [Case 3952: 深夜城市漫步手机自拍](cat-photo.md#-例-3952深夜城市漫步手机自拍)
+
+- [Case 3953: K-Pop 偶像杂志编辑风壁纸](cat-photo.md#-例-3953k-pop-偶像杂志编辑风壁纸)
+
+- [Case 3954: 阳光泳池畔休闲肖像](cat-photo.md#-例-3954阳光泳池畔休闲肖像)
+
+- [Case 3955: 黄金时刻豪华汽车自拍](cat-photo.md#-例-3955黄金时刻豪华汽车自拍)
+
+- [Case 3959: 迷幻光影投影人像](cat-photo.md#-例-3959迷幻光影投影人像)
+
+- [Case 3961: 夏日斑驳光影街拍人像](cat-photo.md#-例-3961夏日斑驳光影街拍人像)
+
+- [Case 3962: 彩色铅笔足球运动员插画](cat-photo.md#-例-3962彩色铅笔足球运动员插画)
+
+- [Case 3963: 异色瞳贵族动漫肖像](cat-photo.md#-例-3963异色瞳贵族动漫肖像)
+
+- [Case 3965: 超写实年轻女性自画像](cat-photo.md#-例-3965超写实年轻女性自画像)
+
+- [Case 3966: 深沉红丝绒时尚肖像](cat-photo.md#-例-3966深沉红丝绒时尚肖像)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (332)
+## 🎨 [Illustration & Art](cat-illustration.md) (341)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -5467,11 +5615,29 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 3836: 粉发布格罗风格森林仙女](cat-illustration.md#-例-3836粉发布格罗风格森林仙女)
 
 - [Case 3851: 水彩汉服天宫公主](cat-illustration.md#-例-3851水彩汉服天宫公主)
+
+- [Case 3863: 恶魔职场少女晨间饮酒](cat-illustration.md#-例-3863恶魔职场少女晨间饮酒)
+
+- [Case 3872: Y2K 短发女孩](cat-illustration.md#-例-3872y2k-短发女孩)
+
+- [Case 3878: 公主大头艺术形象](cat-illustration.md#-例-3878公主大头艺术形象)
+
+- [Case 3889: Sol 为仓鼠读书](cat-illustration.md#-例-3889sol-为仓鼠读书)
+
+- [Case 3895: 沙漠无人机追逐项目](cat-illustration.md#-例-3895沙漠无人机追逐项目)
+
+- [Case 3915: 身着粉色连衣裙的动漫女性坐姿插画](cat-illustration.md#-例-3915身着粉色连衣裙的动漫女性坐姿插画)
+
+- [Case 3938: 魔法少女甜品咖啡馆场景](cat-illustration.md#-例-3938魔法少女甜品咖啡馆场景)
+
+- [Case 3940: 动漫刀具日摊位](cat-illustration.md#-例-3940动漫刀具日摊位)
+
+- [Case 3960: 复古少女动漫风格女孩与猫](cat-illustration.md#-例-3960复古少女动漫风格女孩与猫)
 ---
 
 <a id="character"></a>
 
-## 🧍 [Character Design](cat-character.md) (135)
+## 🧍 [Character Design](cat-character.md) (139)
 
 Turnarounds, multi-pose sheets, emoji packs, character breakdowns, evolution charts, relationship charts.
 
@@ -5727,11 +5893,19 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [Case 3767: 写实角色三视图](cat-character.md#-例-3767写实角色三视图)
 
 - [Case 3857: 日式奇幻结界师角色设定集](cat-character.md#-例-3857日式奇幻结界师角色设定集)
+
+- [Case 3917: 写实服装参考转换器](cat-character.md#-例-3917写实服装参考转换器)
+
+- [Case 3923: 龙首角度参考图](cat-character.md#-例-3923龙首角度参考图)
+
+- [Case 3947: 奢华服装收藏卡](cat-character.md#-例-3947奢华服装收藏卡)
+
+- [Case 3958: 3D 喜剧角色设定图模板](cat-character.md#-例-39583d-喜剧角色设定图模板)
 ---
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (199)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (204)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -6117,11 +6291,21 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 3798: 甜品店里的诡异可爱吉祥物](cat-3d.md#-例-3798甜品店里的诡异可爱吉祥物)
 
 - [Case 3819: 3D 拉花杂志教程排版](cat-3d.md#-例-38193d-拉花杂志教程排版)
+
+- [Case 3898: 城市街头的动漫时尚少女](cat-3d.md#-例-3898城市街头的动漫时尚少女)
+
+- [Case 3911: Shark Plush Tavern Waltz 封面](cat-3d.md#-例-3911shark-plush-tavern-waltz-封面)
+
+- [Case 3925: 日式 Nendoroid 风格微缩手办](cat-3d.md#-例-3925日式-nendoroid-风格微缩手办)
+
+- [Case 3944: 餐具店里的奶牛少女](cat-3d.md#-例-3944餐具店里的奶牛少女)
+
+- [Case 3950: 生日小狗派对场景](cat-3d.md#-例-3950生日小狗派对场景)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (96)
+## 🏛️ [Architecture & Space](cat-architecture.md) (98)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -6305,11 +6489,15 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 3779: 搞笑动漫风拉面店大乱斗](cat-architecture.md#️-例-3779搞笑动漫风拉面店大乱斗)
 
 - [Case 3829: 夏日海滩侧影](cat-architecture.md#️-例-3829夏日海滩侧影)
+
+- [Case 3913: 蓝色幻想图书馆中庭](cat-architecture.md#️-例-3913蓝色幻想图书馆中庭)
+
+- [Case 3956: 极简主义日式建筑时尚摄影](cat-architecture.md#️-例-3956极简主义日式建筑时尚摄影)
 ---
 
 <a id="comic"></a>
 
-## 🎬 [Comics & Storyboards](cat-comic.md) (154)
+## 🎬 [Comics & Storyboards](cat-comic.md) (156)
 
 Multi-panel comics, manga style conversion, film storyboards, storyboards, narrative scenes, character interactions.
 
@@ -6601,11 +6789,15 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 - [Case 3856: 哥特宫廷动漫三人组](cat-comic.md#-例-3856哥特宫廷动漫三人组)
 
 - [Case 3862: 彩色少年漫画战斗跨页](cat-comic.md#-例-3862彩色少年漫画战斗跨页)
+
+- [Case 3894: 单色漫画风仓鼠对话页面](cat-comic.md#-例-3894单色漫画风仓鼠对话页面)
+
+- [Case 3941: Q 版饺子漫画分镜](cat-comic.md#-例-3941q-版饺子漫画分镜)
 ---
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (359)
+## 🏷️ [Brand & Packaging](cat-brand.md) (367)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -7315,11 +7507,27 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 3837: 布格罗风格的粉发林中仙女](cat-brand.md#️-例-3837布格罗风格的粉发林中仙女)
 
 - [Case 3852: 复古火车石墨肖像](cat-brand.md#️-例-3852复古火车石墨肖像)
+
+- [Case 3866: 动漫风“Nice Day”海报](cat-brand.md#️-例-3866动漫风nice-day海报)
+
+- [Case 3871: 波西米亚风夏季摩天轮人像](cat-brand.md#️-例-3871波西米亚风夏季摩天轮人像)
+
+- [Case 3897: 沙漠科幻动作项目](cat-brand.md#️-例-3897沙漠科幻动作项目)
+
+- [Case 3901: 女王与白化巨蛇](cat-brand.md#️-例-3901女王与白化巨蛇)
+
+- [Case 3934: 奢华海滩编织吊椅人像](cat-brand.md#️-例-3934奢华海滩编织吊椅人像)
+
+- [Case 3945: 将女性转化为石像](cat-brand.md#️-例-3945将女性转化为石像)
+
+- [Case 3957: 天使云端终端图标](cat-brand.md#️-例-3957天使云端终端图标)
+
+- [Case 3964: 夏日天空下的动漫少女](cat-brand.md#️-例-3964夏日天空下的动漫少女)
 ---
 
 <a id="edit"></a>
 
-## 🔧 [Image Editing & Transforms](cat-edit.md) (106)
+## 🔧 [Image Editing & Transforms](cat-edit.md) (107)
 
 Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo restoration, transparent background extraction, image outpainting.
 
@@ -7530,6 +7738,8 @@ Style transfer (Ghibli/pixel art etc.), object removal/addition, old photo resto
 - [Case 3782: 90 年代复古动漫风格重绘](cat-edit.md#-例-378290-年代复古动漫风格重绘)
 
 - [Case 3842: 镜面自拍艺术转换](cat-edit.md#-例-3842镜面自拍艺术转换)
+
+- [Case 3924: 老照片修复与上色](cat-edit.md#-例-3924老照片修复与上色)
 ---
 
 <a id="fun"></a>

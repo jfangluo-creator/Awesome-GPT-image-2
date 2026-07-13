@@ -9939,3 +9939,231 @@ Create an ultra-realistic graphite pencil sketch of {argument name="character de
 
 ---
 
+### 🏷️ 例 3866：动漫风“Nice Day”海报
+
+![动漫风“Nice Day”海报](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E2%80%9CNice%20Day%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="event name" default="Nice Day"} 创建一张明亮的动漫风格社交媒体纪念海报，画面中一位开朗的女学生鼓励观众去发现美好事物并创造回忆。
+
+画布：竖版 3:4 插画，高精细度日式动漫主视觉图，鲜艳的夏季色彩，闪耀的高光，柔和的镜头光晕，海滨长廊上方是晴朗的蓝天和蓬松的云朵。
+
+主体：前景中有一位可爱的动漫少女，半身像，以充满活力的视角向观众倾斜。她留着长长的深蓝色飘逸长发，发梢为青蓝色，拥有大大的青蓝色眼睛、红润的脸颊和开心的笑容。她身穿深蓝色水手校服，配有白色领子、红色领结、金色纽扣，刘海右侧有一个小星星和蓝色宝石的发饰。她的左手在极近的前景中指向观众，右手拿着一个小螺旋笔记本。
+
+布局：左上方放置大型俏皮的日式标题文字，采用气泡感的白蓝配色，搭配橙色日期文本、爱心、星星和涂鸦。将少女置于中右侧，与标题重叠。在左侧靠近她指向的手部位置添加一个对话气泡。右上角添加一个木制项目。中右侧她手中的笔记本上添加清单。底部添加直播风格的叠加层和标题，右下角添加一个小照片拼贴面板。
+
+文本内容：使用日文作为可见的图形元素。顶部大字：{argument name="date text" default="7月13日"} 和 {argument name="headline text" default="ナイスの日！"}。下方两条丝带副标题：「素敵なことを探そう♪」和「いい思い出を作る日」。对话气泡文字：「ナイス〜！ 今日も最高の 思い出つくろっ！」。木制项目文字：「ナイス！って言葉は、自分も相手もハッピーになれる魔法なんだよ♪」。笔记本标题：「今日のナイス探し！」。笔记本清单包含 6 个已勾选的项目：1) 「青空がナイス！」 2) 「アイスがナイス！」 3) 「友達の笑顔がナイス！」 4) 「ひまわりがナイス！」 5) 「きみがいるのがナイス！」 6) 「ぜーんぶ、ナイス！」。笔记本页脚：「ミナミのナイス100点満点〜！」。底部直播徽章：红色矩形写着「LIVE」，旁边是带有眼睛图标的黑色观看人数计数器「7,131」。底部主标题：{argument name="bottom caption" default="いいこといっぱい見つけて、今日を宝物にしようね！♡"}。右下角的拼贴画标题应看起来是手写的且呈半透明状。
+
+需包含的独立元素：1 位动漫少女，1 只处于极近前景的指向手，1 本手持螺旋笔记本，1 个木制项目，1 个对话气泡，1 组顶部标题，2 条副标题丝带，1 个直播徽章，1 个观看人数计数器，1 个底部标题，以及 1 个右下角照片拼贴。照片拼贴包含 4 张可见快照：1 杯蓝色奶油苏打水，1 片向日葵花田，1 张三位女孩的集体自拍，以及 1 张手写留言卡。
+
+背景细节：带有栏杆的海滨木栈道、海洋地平线、明亮的天空、阳光、热带植物、左侧的向日葵，以及左下角边缘附近的一杯透明饮料。使用许多小巧的装饰性爱心、星星、闪光和柔和的涂鸦轮廓，但要保持它们作为角色的点缀。
+
+视觉风格：超可爱的光泽感动漫插画，饱和的青色和粉色调，干净的线条，柔和的腮红，透明贴纸般的文字元素，生动的杂志封面构图，欢快的夏季偶像活力，高细节，清晰的排版，无水印，除拼贴快照中的三个小女孩外，无其他额外人物。
+
+[English]
+Goal: Create a bright anime-style commemorative social media poster for {argument name="event name" default="Nice Day"}, featuring a cheerful schoolgirl encouraging the viewer to find nice things and make memories.
+
+Canvas: Vertical 3:4 illustration, highly polished Japanese anime key visual, vivid summer colors, sparkling highlights, soft lens flare, sunny blue sky with fluffy clouds over a seaside promenade.
+
+Main subject: One cute teenage anime girl in the foreground, waist-up, leaning toward the viewer with energetic perspective. She has long flowing navy-blue hair with turquoise-blue tips, large turquoise eyes, rosy cheeks, and an open happy smile. She wears a navy sailor school uniform with a white collar, red neck ribbon, gold buttons, and a small star-and-blue-gem hair accessory on the right side of her bangs. Her left hand points directly at the viewer in extreme foreground, and her right hand holds a small spiral notebook.
+
+Layout: Put large playful Japanese headline lettering in the upper left with bubbly white-and-blue typography, orange date text, hearts, stars, and doodles. Place the girl centered-right, overlapping the title. Add a speech bubble on the left near her pointing hand. Add a wooden signboard on the upper right. Add a checklist notebook in her right hand on the mid-right. Add a livestream-style overlay and caption at the bottom, plus a small photo-collage panel in the bottom-right corner.
+
+Text content: Use Japanese text as visible graphic elements. Large top text: {argument name="date text" default="7月13日"} and {argument name="headline text" default="ナイスの日！"}. Two ribbon subtitles below it: 「素敵なことを探そう♪」 and 「いい思い出を作る日」. Speech bubble text: 「ナイス〜！ 今日も最高の 思い出つくろっ！」. Wooden signboard text: 「ナイス！って言葉は、自分も相手もハッピーになれる魔法なんだよ♪」. Notebook title: 「今日のナイス探し！」. Notebook checklist contains exactly 6 checked items: 1) 「青空がナイス！」 2) 「アイスがナイス！」 3) 「友達の笑顔がナイス！」 4) 「ひまわりがナイス！」 5) 「きみがいるのがナイス！」 6) 「ぜーんぶ、ナイス！」. Notebook footer: 「ミナミのナイス100点満点〜！」. Bottom livestream badge: red rectangle reading 「LIVE」 beside a black viewer counter reading 「7,131」 with an eye icon. Bottom main caption: {argument name="bottom caption" default="いいこといっぱい見つけて、今日を宝物にしようね！♡"}. Bottom-right collage header should look handwritten and semi-transparent.
+
+Discrete elements to include: exactly 1 main anime girl, 1 pointing hand in extreme foreground, 1 held spiral notebook, 1 wooden signboard, 1 speech bubble, 1 top headline cluster, 2 subtitle ribbon strips, 1 livestream badge, 1 viewer counter, 1 bottom caption, and 1 bottom-right photo collage. The photo collage contains exactly 4 visible snapshots: 1 blue cream soda drink, 1 sunflower field, 1 group selfie of three girls, and 1 handwritten message card.
+
+Background details: Seaside boardwalk with railings, ocean horizon, bright sky, sunbeams, tropical plants, sunflowers on the left, and a clear glass drink near the lower-left edge. Use many small decorative hearts, stars, sparkles, and pastel doodle outlines, but keep them secondary to the character.
+
+Visual style: Ultra-cute glossy anime illustration, saturated cyan and pink palette, clean line art, soft blush, transparent sticker-like text elements, lively magazine-cover composition, cheerful summer idol energy, high detail, crisp typography, no watermark, no extra characters beyond the three tiny girls only inside the collage snapshot.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2076428048501735818) | 2026-07-12
+
+---
+
+### 🏷️ 例 3871：波西米亚风夏季摩天轮人像
+
+![波西米亚风夏季摩天轮人像](../../images/%E6%B3%A2%E8%A5%BF%E7%B1%B3%E4%BA%9A%E9%A3%8E%E5%A4%8F%E5%AD%A3%E6%91%A9%E5%A4%A9%E8%BD%AE%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+保持原照片中人物的面部、五官、外貌、年龄、身份和个性不变，不做任何改动。
+
+低角度拍摄。{argument name="subject" default="这位女性"}身着{argument name="outfit style" default="波西米亚风服饰"}，站在巨大的彩色摩天轮前，背景是晴朗的蓝天。
+
+她穿着浅色上衣和绒球短裤，叠穿一件流苏牛仔夹克，系着宽皮带，戴着{argument name="hat style" default="白色宽檐帽"}和圆形深色墨镜。她留着一头披肩长卷发。
+
+姿势动感：一只手扶着帽子，另一只手向侧面伸展。
+
+周围环境包括摩天轮的金属辐条和框架，背景中充满了彩色的座舱。
+
+一张炎炎夏日的写实手机摄影作品，明亮的直射阳光，暖色调处理，高光略微过曝，自然的阴影，强烈的热浪感，自然的皮肤质感，细腻的胶片颗粒，略带阳光褪色的色彩，营造出一种抓拍的、随性的瞬间感。
+
+必须完整保留原照片中人物的面部、身份、外貌、年龄及所有独特特征。人物未看向镜头。
+
+[English]
+The person from the provided photo, with no changes to their face, facial features, appearance, age, identity, or individuality.
+
+Low-angle shot. {argument name="subject" default="The woman"}, dressed in a {argument name="outfit style" default="boho-chic outfit"}, stands in front of a giant Ferris wheel with colorful gondolas against a clear blue sky.
+
+She is wearing a light-colored top and pom-pom shorts, layered with a fringed denim jacket and a wide leather belt, along with a {argument name="hat style" default="white wide-brim hat"} and round dark sunglasses. Her long wavy hair is loose.
+
+Her pose is dynamic: one hand is holding her hat while the other is extended to the side.
+
+The surroundings feature the Ferris wheel’s metal spokes and framework, with the colorful gondolas filling the background.
+
+A realistic smartphone photo on a hot summer day, with bright direct sunlight, warm color grading, slightly overexposed highlights, natural shadows, a sense of intense heat, natural-looking skin, subtle film grain, slightly sun-faded colors, and the feeling of a candid, spontaneous moment.
+
+The face, identity, appearance, age, and all unique characteristics of the person from the original photo must be preserved exactly. The person is not looking at the camera.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2076349646549717391) | 2026-07-12
+
+---
+
+### 🏷️ 例 3897：沙漠科幻动作项目
+
+![沙漠科幻动作项目](../../images/%E6%B2%99%E6%BC%A0%E7%A7%91%E5%B9%BB%E5%8A%A8%E4%BD%9C%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个电影感 9 宫格 storyboard 联系表，用于沙漠科幻动作序列，设计风格类似于 {argument name="character name" default="LiSa"} 的视频提示项目。
+
+画布：宽屏 16:9 图像，黑色背景和粗黑色间距，排列为 3x3 网格的 9 个矩形宽屏画框。每个面板左上角有一个白色粗体小面板编号和中文场景标题，底部带有黑色字幕条，内含白色中文字幕。整体外观：8K 超细节，每个面板内 2.39:1 电影级构图，ARRI ALEXA 风格，暖橙色沙漠调色，高对比度，灰尘、火花、动态模糊，史诗感。
+
+角色细节：主角是一位凶猛的年轻沙漠女性 LiSa，肤色黝黑，身材健美，留着随风飘动的长黑发，眼神犀利，脸上带有灰尘和划痕，身穿破旧的米色末日风格裹身装，配有皮带、臂带、露指手套、护膝、靴子，头上推着青铜护目镜。她踩着一个未来感悬浮滑板/沙板在沙地上低空飞行。氛围为生存、速度、危险、决心。
+
+面板数量与内容：使用 9 个独立的面板。面板 01 展示一个发出蓝色光芒的外星陨石或能量球撞击沙漠，产生巨大的爆炸、冲击波、飞沙和碎片。面板 02 展示 LiSa 踩着悬浮滑板从爆炸云中冲出，身体前倾，灰尘环绕着她。面板 03 展示几架四轴攻击无人机在沙漠中追赶她，发射红色激光束，而她正在闪避。面板 04 展示 LiSa 踩着悬浮滑板飞越巨大的峡谷缺口，双臂伸展以保持平衡，下方是无尽的沙漠悬崖。面板 05 展示她在半空中扭转身体，向身后的无人机开枪射击；爆炸在她身后绽放，金属碎片四散。面板 06 展示她重重地落在沙地上，一只手触碰地面，滑板在沙地上划出一道尘埃轨迹，随后稳住身形。面板 07 展示远方地平线的沙丘中出现了一座古老的沙漠城市或堡垒，纪念碑式的塔楼和废墟沐浴在夕阳下。面板 08 展示一道神秘的垂直蓝色能量光束从城市中心升入天空，在金色的风暴云中闪耀。面板 09 是 LiSa 的特写，她回头望去，眼神坚定；在她身后可以看到远处的城市和蓝色光束。
+
+文本内容：添加以下确切的可见中文 storyboard 文本作为面板标题和底部字幕：{argument name="storyboard text" default="01 爆炸突袭（0-1秒） / 外星能量炮袭来，沙丘瞬间爆炸，漫天黄沙冲天而起。 | 02 高速冲出（1-2秒） / LiSa踩着滑板从爆炸沙浪中冲出，极速向前，全身被黄沙包围。 | 03 无人机追击（2-3秒） / 身后十几架无人机追来，激光扫射掠过沙柱，LiSa极限闪避。 | 04 飞跃峡谷（3-5秒） / 前方出现巨大的峡谷，LiSa加速冲上沙丘顶点，腾空飞跃！ | 05 空中反击（5-7秒） / 空中回身，举枪射击，精准命中无人机，爆炸在身后炸开。 | 06 成功落地（7-8秒） / LiSa稳稳落地，继续高速滑行，用开道击敌人。 | 07 远途初现（8-9秒） / 远方沙漠中，埋藏千年的古老遗迹逐渐显现。 | 08 能量光柱（9-9.5秒） / 遗迹中央，一道神秘蓝色能量光柱冲天而起。 | 09 决心前行（9.5-10秒） / LiSa望向光柱，眼神坚定，新的冒险即将开始…"}
+
+视觉风格：超写实电影概念艺术，黄金时段的戏剧性沙漠光影，体积感灰尘，飞扬的颗粒，发光的蓝色能量特效，橙色爆炸，红色无人机激光，锐利的动作姿态，逼真的动态模糊，粗犷的末日科幻氛围。
+
+约束条件：保持 3x3 的 storyboard 布局清晰易读。使用 9 个面板，不要增加额外面板。确保角色身份和服装在所有面板中保持一致。确保中文标题和底部字幕清晰可辨，黑色条带上的白色文字，且无水印或 Logo。
+
+[English]
+Goal: Create a cinematic 9-panel storyboard contact sheet for a desert sci-fi action sequence, designed like a video prompt board for {argument name="character name" default="LiSa"}.
+
+Canvas: Wide 16:9 image, black background and thick black gutters, arranged as exactly 9 rectangular widescreen frames in a 3-by-3 grid. Each panel has a small white bold panel number and Chinese scene title at the top left, plus a black subtitle strip along the bottom with white Chinese narration. Overall look: 8K ultra-detailed, 2.39:1 cinematic framing inside each panel, ARRI ALEXA style, warm orange desert grading, high contrast, dust, sparks, motion blur, epic scale.
+
+Subject details: The main hero is a fierce young desert woman named LiSa with tan skin, athletic build, long windblown black hair, intense eyes, dust and scratches on her face, wearing a ragged beige post-apocalyptic wrap outfit, leather straps, arm bands, fingerless gloves, knee pads, boots, and bronze goggles pushed on her head. She rides a futuristic hoverboard/sandboard low over the sand. Mood is survival, speed, danger, determination.
+
+Panel count and content: Use exactly 9 discrete panels. Panel 01 shows a blue-glowing alien meteor or energy sphere slamming into a desert, creating a huge explosion, shockwave, flying sand, and debris. Panel 02 shows LiSa bursting out of the explosion cloud on a hoverboard, crouched forward, dust wrapping around her body. Panel 03 shows several quadcopter attack drones chasing behind her through the desert, firing red laser beams while she dodges. Panel 04 shows LiSa launching over a vast canyon gap on the hoverboard, arms extended for balance, endless desert cliffs below. Panel 05 shows her twisting midair and firing a handgun/pistol back at the drones; explosions bloom behind her and metal fragments scatter. Panel 06 shows her landing hard on sand, one hand touching the ground, board carving a dust plume as she stabilizes. Panel 07 shows a distant ancient desert city or fortress emerging on the horizon among dunes, monumental towers and ruins bathed in sunset light. Panel 08 shows a mysterious vertical blue energy beam rising from the center of the city into the sky, glowing against stormy golden clouds. Panel 09 is a close-up of LiSa looking back over her shoulder with determined eyes; behind her the distant city and blue beam are visible.
+
+Text content: Add this exact visible Chinese storyboard text as the panel headings and bottom captions: {argument name="storyboard text" default="01 爆炸突袭（0-1秒） / 外星能量炮袭来，沙丘瞬间爆炸，漫天黄沙冲天而起。 | 02 高速冲出（1-2秒） / LiSa踩着滑板从爆炸沙浪中冲出，极速向前，全身被黄沙包围。 | 03 无人机追击（2-3秒） / 身后十几架无人机追来，激光扫射掠过沙柱，LiSa极限闪避。 | 04 飞跃峡谷（3-5秒） / 前方出现巨大的峡谷，LiSa加速冲上沙丘顶点，腾空飞跃！ | 05 空中反击（5-7秒） / 空中回身，举枪射击，精准命中无人机，爆炸在身后炸开。 | 06 成功落地（7-8秒） / LiSa稳稳落地，继续高速滑行，用开道击敌人。 | 07 远途初现（8-9秒） / 远方沙漠中，埋藏千年的古老遗迹逐渐显现。 | 08 能量光柱（9-9.5秒） / 遗迹中央，一道神秘蓝色能量光柱冲天而起。 | 09 决心前行（9.5-10秒） / LiSa望向光柱，眼神坚定，新的冒险即将开始…"}
+
+Visual style: Hyper-real cinematic concept art, dramatic desert lighting at golden hour, volumetric dust, flying particles, glowing blue energy effects, orange explosions, red drone lasers, sharp action poses, realistic motion blur, gritty post-apocalyptic sci-fi atmosphere.
+
+Constraints: Keep the 3x3 storyboard layout clear and readable. Use exactly nine panels, no extra panels. Maintain consistent character identity and costume across panels. Ensure the Chinese headings and bottom captions are legible, white on black strips, with no watermark or logo.
+```
+
+**来源：** [@PixelAIGC](https://x.com/PixelAigc/status/2076301751746269614) | 2026-07-12
+
+---
+
+### 🏷️ 例 3901：女王与白化巨蛇
+
+![女王与白化巨蛇](../../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E7%99%BD%E5%8C%96%E5%B7%A8%E8%9B%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超精细的奇幻油画风格肖像，标题为 {argument name="artwork theme" default="女王与蛇"}：一位肤色苍白、气质高贵的女王，留着一头飘逸的 {argument name="hair color" default="银白色"} 长发，端坐在奢华沙漠凉亭内雕刻精美的宝座上。她头戴精致的金冠，身着考究的 {argument name="dress color" default="深红色"} 长裙，袖口采用轻薄的垂坠设计，饰有金色链条网格刺绣、珠宝胸衣细节，并佩戴多层项链、手镯、脚链、戒指和系带金色凉鞋；她的一条腿通过高开叉向前交叉，姿态从容而威严。在她右侧是一条巨大的白化巨蛇，蛇身粗壮、盘绕而起，高度与肩齐平，面容平静且充满灵性，覆盖着珍珠白色的鳞片，拥有金色的双眼，颈部佩戴着镶嵌红宝石的黄金饰品。场景设定为一座奢华的游牧皇家帐篷，配有勃艮第红与象牙白色的半透明窗帘、流苏、金丝刺绣挂饰、雕花木质家具、波斯花纹地毯，前景中还有一张摆放着水果和金属杯的小圆桌、一个宝箱以及一张羊皮纸地图。透过敞开的帐篷，展现阳光明媚的沙漠营地，可见浅色帐篷、旗帜、柔和的尘埃以及远处的尖塔。运用温暖的电影感午后光线穿透织物，呈现逼真的皮肤与鳞片质感、精细的黄金花丝工艺、浅景深效果，高奇幻写实风格，浪漫主义拉斐尔前派构图，柔和的红金色调，4:5 竖构图，无文字，无水印。
+
+[English]
+Create an ultra-detailed fantasy oil-painting style portrait titled {argument name="artwork theme" default="The Queen and the Serpent"}: a pale, regal queen with long flowing {argument name="hair color" default="silver-white"} hair sits on an ornate carved throne inside a luxurious desert pavilion. She wears a delicate gold crown and an elaborate deep {argument name="dress color" default="crimson red"} gown with sheer draped sleeves, gold chain lattice embroidery, jeweled bodice details, layered necklaces, bracelets, anklets, rings, and lace-up golden sandals; one leg is crossed forward through a high slit, giving a poised, commanding pose. Beside her on the right is one enormous albino serpent, thick-bodied and coiled, rising to shoulder height with a calm intelligent face, pearl-white scales, golden eyes, and gold jewelry with red gemstones around its neck. The setting is a lavish nomadic royal tent with burgundy and ivory translucent curtains, tassels, gold embroidered hanging fabrics, carved wooden furniture, patterned Persian rugs, a small round table with fruit and metal cups, a treasure chest, and a parchment map in the foreground. Through the open tent, show a sunlit desert encampment with pale tents, flags, soft dust, and distant spires. Use warm cinematic afternoon light streaming through fabric, realistic skin and scale textures, intricate gold filigree, shallow depth of field, high fantasy realism, romantic pre-Raphaelite composition, muted reds and golds, vertical 4:5 framing, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2076295664972226672) | 2026-07-12
+
+---
+
+### 🏷️ 例 3934：奢华海滩编织吊椅人像
+
+![奢华海滩编织吊椅人像](../../images/%E5%A5%A2%E5%8D%8E%E6%B5%B7%E6%BB%A9%E7%BC%96%E7%BB%87%E5%90%8A%E6%A4%85%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位迷人的年轻女性侧影，左侧面向观众，皮肤呈现健康的小麦色，正惬意地躺在悬挂于湛蓝海面之上的白色绳编吊椅中。
+她身穿一件轻盈的白色沙滩衬衫，衣摆随风飘动，自然地垂落在肩头。
+女孩姿态放松，一条腿伸展，另一条腿膝盖弯曲，手扶着吊椅的绳索。她带着淡淡的微笑，享受着当下的美好，佩戴着时尚的银框圆形太阳镜。
+背景是平静的大海与一座酷似熊山（Ayudag）的宏伟山峦全景。
+晴朗的夏日，自然光照，水面与织物纹理真实细腻，营造出奢华的度假氛围，超高清写实风格。9:16
+
+[English]
+A striking young woman in profile, left side facing the viewer, with tanned skin, relaxing in a hanging macrame chair made of white rope, hanging directly above the blue sea surface.
+She is wearing a light white beach blouse that flows and drapes off her shoulders.
+The girl is sitting in a relaxed pose, one leg extended, the other bent at the knee, her hand holding onto the rope of the swing. A slight half-smile, enjoying the moment, wearing stylish round sunglasses in a silver frame.
+In the background, a panoramic view of the calm sea and a large mountain that resembles Bear Mountain (Ayudag).
+Clear summer day, natural sunlight, realistic textures of water and fabric, atmosphere of luxurious summer vacation, high resolution hyperrealism. 9:16
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2076177848948478196) | 2026-07-12
+
+---
+
+### 🏷️ 例 3945：将女性转化为石像
+
+![将女性转化为石像](../../images/%E5%B0%86%E5%A5%B3%E6%80%A7%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9F%B3%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，保持纸箱视角构图、仓库背景、姿势、取景、服装形状和光照不变，仅将女性转化为逼真的灰色石像。将其可见的皮肤、头发、眼睛、嘴唇、双手、毛衣和牛仔裤转换为带有精细雕刻纹理、细微裂纹、灰尘和哑光混凝土灰色调的单色雕刻石材。使眼睛呈现出雕像般的空白雕刻瞳孔，同时保留相同的温柔微笑和身体姿势。保持纸箱和背景为原始的自然色彩和摄影质感，使石像人物看起来置身于原始场景中。避免改变摄像机角度、添加物体或更改纸箱开口。
+
+[English]
+Using the provided reference image, keep the cardboard-box point-of-view composition, warehouse background, pose, framing, clothing shape, and lighting intact, but transform only the woman into a realistic gray stone statue. Convert her visible skin, hair, eyes, lips, hands, sweater, and jeans into monochrome carved stone with fine chiseled texture, subtle cracks, dust, and matte concrete-gray shading. Make the eyes statue-like with blank carved pupils, while preserving the same gentle smile and body position. Leave the cardboard box and background mostly natural color and photographic, so the statue figure appears inside the original scene. Avoid changing the camera angle, adding objects, or altering the box opening.
+```
+
+**来源：** [@ある面](https://x.com/aruomoteomote/status/2076157337132515347) | 2026-07-12
+
+---
+
+### 🏷️ 例 3957：天使云端终端图标
+
+![天使云端终端图标](../../images/%E5%A4%A9%E4%BD%BF%E4%BA%91%E7%AB%AF%E7%BB%88%E7%AB%AF%E5%9B%BE%E6%A0%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个梦幻般的星空科技图标场景：中心漂浮着一个巨大的圆角云形 Logo，内部填充着从底部的深钴蓝色到顶部的紫罗兰色和淡薰衣草色的平滑渐变。在云朵内部，放置 2 个白色的终端符号：左侧为一个粗体大于号，右侧为一个短横线，两者均呈圆角且带有柔和的光晕。在云朵后方对称地添加 2 个巨大的白色天使翅膀，羽毛层叠柔软，左翼向左上方延伸，右翼向右上方延伸。在云朵上方，添加 1 个发光光环：一个散发着暖粉白色光芒的纤细椭圆环。场景设定在天堂般的天空中，下半部分及两侧边缘充盈着蓬松的柔和色调云朵，使用蓝色、薰衣草色、粉色和桃色调。从上方添加柔和的耶稣光、细微的闪光、大气雾气，并在中心图标后方添加明亮的背光效果。采用精致的 3D 柔和渲染风格，超洁净、奇幻、空灵，高对比度但柔和，无文字，无水印。16:9 宽屏构图，主体居中，电影级灯光，图标边缘清晰，高光处带有柔和的泛光效果。
+
+[English]
+Create a dreamy celestial tech icon scene: a large rounded cloud-shaped logo floats in the center, filled with a smooth gradient from deep cobalt blue at the bottom to violet and pale lavender at the top. Inside the cloud, place exactly 2 white terminal symbols: a thick greater-than chevron on the left and a short horizontal underscore on the right, both rounded and softly glowing. Add exactly 2 large white angel wings attached symmetrically behind the cloud, with layered soft feathers, the left wing extending to the upper-left and the right wing to the upper-right. Above the cloud, add exactly 1 luminous halo: a thin glowing oval ring in warm pink-white light. Set the scene in a heavenly sky with voluminous pastel clouds filling the lower half and both side edges, using blue, lavender, pink, and peach tones. Add soft god rays from above, subtle sparkles, atmospheric haze, and a bright backlit glow behind the central icon. Use a polished 3D soft-rendered style, ultra-clean, whimsical, ethereal, high contrast but gentle, no text, no watermark. Wide 16:9 composition, centered subject, cinematic lighting, crisp edges on the icon with soft bloom around highlights.
+```
+
+**来源：** [@maria](https://x.com/maria_rcks/status/2076136844106793227) | 2026-07-12
+
+---
+
+### 🏷️ 例 3964：夏日天空下的动漫少女
+
+![夏日天空下的动漫少女](../../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高清、简洁的动漫插画，描绘一位少女站在户外明亮的夏日天空下。采用低角度后方视角，她转头回望观众。她留着 {argument name="hair color" default="深棕色"} 的头发，扎成高侧马尾，系着 {argument name="hair ribbon color" default="藏青色"} 的发带，留有长长的碎刘海，拥有一双柔和的紫褐色大眼睛、小巧自然的嘴唇和微红的脸颊。她穿着一件超大号的纯色 {argument name="shirt color" default="白色"} 短袖 T 恤，衣服松垮地垂在身上，长度过臀，带有细腻的褶皱和阴影，内搭深色运动短裤。她的姿态随意而略显羞涩，一只手轻触 T 恤下摆或口袋区域，身体背对镜头，脸部回望。背景为明亮的蓝天，点缀着蓬松的积云，光线充足，采用清晰的赛璐璐动漫渲染风格，色彩过渡柔和，线条细腻，营造出治愈的日常番氛围。构图：1:1 正方形画布，角色居中并占据画面主体，低机位视角强调天空，无文字，无水印，无多余角色。
+
+[English]
+Create a clean high-resolution anime illustration of a teenage girl standing outdoors under a vivid summer sky, viewed from a low angle behind her as she turns her head over her shoulder to look at the viewer. She has {argument name="hair color" default="dark brown"} hair in a high side ponytail tied with a {argument name="hair ribbon color" default="navy blue"} ribbon, long loose bangs, large soft purple-brown eyes, a small neutral mouth, and lightly blushing cheeks. She wears an oversized plain {argument name="shirt color" default="white"} short-sleeve T-shirt that drapes loosely over her body and reaches past the hips, with subtle folds and shaded fabric, plus short dark athletic shorts visible underneath. Her posture is casual and slightly shy, one hand tucked near the shirt hem or pocket area, shoulders turned away while her face looks back. Use a bright blue sky background with scattered fluffy white cumulus clouds, strong daylight, crisp cel-shaded anime rendering, soft gradients, delicate line art, and a wholesome slice-of-life mood. Composition: square 1:1 canvas, character centered and occupying most of the frame, low camera angle emphasizing sky, no text, no watermark, no extra characters.
+```
+
+**来源：** [@よった~公儀介錯人やぶにらみ黙示録~子貸し腕貸し仕る/天の裁きは待ってはおれぬ/必殺必中万屋稼業](https://x.com/9YGMEQ63135ka5O/status/2076099391958687823) | 2026-07-12
+
+---
+

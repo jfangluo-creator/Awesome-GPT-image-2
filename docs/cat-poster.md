@@ -17983,3 +17983,542 @@ Constraints: Keep all visible text exactly as specified, use exactly 2 magnolia 
 
 ---
 
+### 🎴 例 3867：奢华 Noir 香水海报
+
+![奢华 Noir 香水海报](../../images/%E5%A5%A2%E5%8D%8E%20Noir%20%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="brand name" default="ELYSIAN NOIR"} 创作一张奢华香水广告海报，以单个香水瓶为核心主体。使用 3:4 的竖向画布，将产品置于中心偏下方位置。背景应为深炭色至黑色的柔和渐变，带有细腻的丝绸质感和淡淡的金属光泽。顶部留出充足的留白，以便排版精致的字体。标题 “{argument name="headline text" default="ELYSIAN NOIR"}” 使用间距宽阔、优雅的大写字母，采用暖香槟金色，并选用现代无衬线奢华字体。下方添加小字标语 “{argument name="tagline" default="A SCENT OF TIMELESS CRAFTSMANSHIP"}”，接着是一条居中的细分割线，然后是产品文字 “PARFUM” 和 “100 ML / 3.4 FL.OZ”。仅展示 1 个香水瓶：多面几何玻璃瓶身，呈烟熏琥珀黑色透明质感，边缘棱角分明，光泽感强，配有带金色装饰的黑色长方形瓶盖，正面标签印有小号金色字体的 “ELYSIAN / NOIR / PARFUM”。灯光采用电影级商业摄影风格：低调、高对比度，暖金色轮廓光，玻璃边缘有锐利的高光，抛光深色表面上有逼真的倒影，前景下方有柔和的光束扫过。整体色调为沉稳的黑色、烟熏琥珀色和香槟金色。构图需简洁、高端、极简且优雅，适合国际奢华香水宣传活动；要求玻璃细节极致丰富，折射效果逼真，画面中无人像、无额外产品、无水印、无 UI 元素。
+
+[English]
+Create a luxury perfume advertisement poster for {argument name="brand name" default="ELYSIAN NOIR"}, featuring one single perfume bottle as the main subject. Use a vertical 3:4 canvas with the product centered slightly below the middle. The background should be a deep charcoal-to-black soft gradient with a subtle silk-like fabric texture and faint metallic sheen. Leave generous negative space at the top for refined typography. Place the headline “{argument name="headline text" default="ELYSIAN NOIR"}” in widely spaced elegant uppercase letters, warm champagne-gold color, with a modern sans-serif luxury typeface. Under it, add the small tagline “{argument name="tagline" default="A SCENT OF TIMELESS CRAFTSMANSHIP"}”, then a tiny centered divider line, then the product text “PARFUM” and “100 ML / 3.4 FL.OZ”. Show exactly 1 perfume bottle: a faceted geometric glass bottle with a smoky amber-black transparent body, crisp beveled edges, glossy reflections, a black rectangular cap with gold accents, and the front label reading “ELYSIAN / NOIR / PARFUM” in small gold lettering. Lighting should be cinematic commercial studio photography: low-key, high contrast, warm gold rim lights, sharp highlights along the glass edges, realistic reflections on a polished dark surface, and soft streaks of light sweeping across the lower foreground. Overall color palette is muted black, smoky amber, and champagne gold. Make the composition clean, premium, minimalist, elegant, and suitable for an international luxury fragrance campaign, with ultra-detailed glass, realistic refraction, no people, no extra products, no watermark, no UI elements.
+```
+
+**来源：** [@小易API](https://x.com/wangme6526/status/2076381893751406877) | 2026-07-12
+
+---
+
+### 🎴 例 3870：Ford F-150 Raptor 沙漠沙尘暴
+
+![Ford F-150 Raptor 沙漠沙尘暴](../../images/Ford%20F-150%20Raptor%20%E6%B2%99%E6%BC%A0%E6%B2%99%E5%B0%98%E6%9A%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Ford F-150 Raptor 创作一张超高端的电影级沙漠宣传海报，将超写实的皮卡摄影与隐藏在狂暴沙尘暴中巨大的猛禽幽灵形象相结合。画面必须呈现出野性、宏伟、原始且极具电影感的氛围，以皮卡作为绝对的核心主体，而巨大的鸟类形象则作为一种神话般的环境力量，而非单独的生物展示。
+
+构图：
+使用竖版海报构图。将 Ford F-150 Raptor 置于前景下方，以极具侵略性的姿态斜向冲过沙丘。皮卡应以动态的三分之四前侧视角呈现，悬挂系统处于工作状态，轮胎切入沙地，车身随着越野重量转移自然倾斜。车辆必须占据画面的下半部分。
+
+车辆写实度：
+以极高的写实度和完整的品牌保真度渲染 Ford F-150 Raptor：
+真实的车辆比例，
+标志性的 Raptor 前脸，
+真实的格栅结构，
+准确的头灯特征，
+高性能越野轮胎，
+宽大的车身姿态，
+细致的悬挂质感，
+逼真的车漆涂装，
+覆盖尘土的下护板，
+微妙的反射效果，
+高端金属表面，
+以及强悍的沙漠越野气场。
+皮卡必须看起来像一辆真实的量产英雄车型，而非概念车或普通皮卡。
+
+沙漠动作：
+皮卡正疾驰穿过狂暴的沙漠环境，产生高度逼真的沙尘飞溅、尘埃羽流、颗粒湍流和风吹碎屑。沙尘暴必须在物理上真实可信且细节丰富：层叠的沙粒、空气中的尘幕、翻滚的沙丘雾气、柔和的密度变化，以及由速度和风向塑造的定向运动。沙漠应呈现出炎热、恶劣且宏大的感觉。
+
+巨大的猛禽存在：
+在背景上方和沙尘暴内部，揭示一个巨大猛禽头部的轮廓，仅部分穿过风暴显露。不要展示完整的动物。仅通过模糊但强有力的形态暗示其巨大的掠食者头部：
+发光的眼睛，
+钩状喙的阴影曲线，
+微妙的羽毛结构，
+骨骼般的鸟类面部轮廓，
+以及嵌入尘埃中若隐若现的掠食者剪影。
+这种鸟类应给人一种古老、巨大且恐怖而冷静的感觉，仿佛风暴本身承载了沙漠猛禽的灵魂。
+它的存在必须保持半隐藏、大气感，并与沙尘暴融为一体，绝不能看起来像是后期贴上去的怪物。
+
+非常重要：
+巨大的鸟类绝不能表现为龙、爬行动物、奇幻怪物或完全可见的生物。
+它必须清晰地解读为一种巨大的猛禽存在，隐藏在尘埃和热浪中。
+没有完整的翅膀，没有完整的身体展示，没有站在沙漠里的生物。
+只有部分可见的巨大头部和眼睛，从风暴中显现。
+
+视觉关系：
+Ford F-150 Raptor 应给人一种穿行于更高级掠食者领地的感觉，呼应皮卡的名称和越野侵略性。巨大的猛禽形象应增强皮卡的个性，而非与其竞争。皮卡必须保持焦点，清晰且易于辨识，而巨大的鸟类则保持大气感、压迫感和神话感。
+
+光影：
+使用戏剧性的金色沙漠光影，核心为温暖的琥珀色，透过尘埃和风暴雾霾进行漫反射。皮卡应在引擎盖、格栅、车顶线和翼子板上捕捉到清晰的高光，而风暴则在周围散发出深橙金色的颗粒光芒。隐藏的鸟眼应在沙霾中隐约燃烧，不要过亮，只需足以营造威胁感和规模感。
+整体光影必须具有电影感、昂贵且精致，在风暴中具有受控的对比度和柔和的过渡。
+
+背景：
+保持环境简洁而有力：
+翻滚的沙丘，
+裹挟沙尘的风，
+风暴密度，
+以及融入大气的巨大鸟类形象。
+没有额外的风景，没有建筑，没有其他车辆，没有杂乱的道具。
+场景必须显得广阔、空旷且神话般。
+
+排版：
+仅使用极简的英文排版，采用精致的粗体编辑风格。
+可选文字：
+“FORD”
+“F-150 RAPTOR”
+“BORN OF THE STORM”
+或
+“PREDATOR OF THE DESERT”
+保持品牌标识优雅、克制，并以高端的间距融入构图。
+如有需要，可包含极简的官方风格 Ford 字标。
+
+氛围：
+野性、强悍、电影感、神话感、掠食性、尘土飞扬、原始、侵略性、高端、英雄气概、风暴驱动、沙漠权威。
+
+渲染风格：
+超写实越野皮卡摄影、电影级沙漠风暴、沙中隐藏的巨大猛禽头部、高端 Ford 宣传海报、极致沙尘写实、神话环境生物融合、豪华动作广告、8k、世界级宣传品质。
+
+负面提示词：
+完整的鸟类身体、龙、爬行动物怪物、奇幻野兽、贴图生物、卡通沙尘暴、虚假尘埃、低细节皮卡、错误的 Ford 设计、普通皮卡、杂乱的背景、多辆车、过曝的天空、廉价动作海报、混乱的火焰效果、不真实的轮胎运动、模糊的格栅、泥泞的构图、肮脏的黑色斑点、嘈杂的阴影
+
+[English]
+Create an ultra-premium cinematic desert campaign poster for the Ford F-150 Raptor, combining hyper-real truck photography with the ghostly presence of a colossal raptor hidden inside a violent sandstorm. The image must feel savage, majestic, elemental, and powerfully cinematic, with the truck as the absolute hero object and the giant bird presence acting as a mythic environmental force rather than a separate creature showcase.\n\nComposition:\nUse a vertical poster composition. Place the Ford F-150 Raptor in the lower foreground, charging diagonally across a desert dune with aggressive momentum and total visual authority. The truck should be captured in a dynamic three-quarter front angle, suspension working hard, tires cutting into sand, body leaning naturally with believable off-road weight transfer. The vehicle must dominate the lower half of the frame.\n\nTruck realism:\nRender the Ford F-150 Raptor with extreme realism and full brand fidelity:\nauthentic body proportions,\ntrue Raptor front fascia,\nreal grille structure,\ncorrect headlight signature,\nhigh-performance off-road tires,\nwide stance,\ndetailed suspension feel,\nrealistic paint finish,\ndust-covered lower panels,\nsubtle reflections,\npremium metallic surfaces,\nand powerful desert-ready presence.\nThe truck must feel like a real production hero vehicle, not a concept car and not a generic pickup.\n\nDesert action:\nThe truck is tearing through a violent desert environment, creating highly realistic sand displacement, dust plumes, granular turbulence, and wind-swept debris. The sandstorm must feel physically believable and extremely detailed: layered grains, airborne dust curtains, rolling dune mist, soft density changes, and directional motion shaped by speed and wind. The desert should feel hot, hostile, and monumental.\n\nGiant raptor presence:\nIn the upper background and within the sandstorm itself, reveal the hidden head of a colossal raptor bird, emerging only partially through the storm. Do not show the full animal. Only suggest the massive predatory head through faint but powerful forms:\nglowing eyes,\nthe shadowed curve of a hooked beak,\nsubtle feathered structure,\nbone-like avian facial planes,\nand a looming predatory silhouette embedded in the dust.\nThe bird should feel ancient, enormous, and terrifyingly calm, as if the storm itself has taken on the spirit of a desert raptor.\nIts presence must remain semi-hidden, atmospheric, and fused into the sandstorm, never looking like a separate pasted-in monster.\n\nVery important:\nThe giant bird must not appear as a dragon, reptile, fantasy monster, or fully visible creature.\nIt must clearly read as a colossal raptor-like bird of prey presence, hidden in dust and heat.\nNo full wings, no full body reveal, no creature standing in the desert.\nOnly a partially visible giant head and eyes, emerging through the storm.\n\nVisual relationship:\nThe Ford F-150 Raptor should feel like it is moving through the domain of a greater predator spirit, echoing the truck’s name and off-road aggression. The giant raptor presence should amplify the truck’s character, not compete with it. The truck must remain the focal point, sharp and readable, while the giant bird remains atmospheric, looming, and mythic.\n\nLighting:\nUse dramatic golden desert lighting with a warm amber core, diffused through dust and storm haze. The truck should catch crisp highlights along the hood, grille, roofline, and fenders, while the storm glows around it with deep orange-gold particulate light. The hidden bird eyes should burn subtly through the sand haze, not overly bright, just enough to create menace and scale.\nThe overall light must feel cinematic, expensive, and refined, with controlled contrast and soft transitions in the storm.\n\nBackground:\nKeep the environment minimal and powerful:\nrolling dunes,\nsand-laden wind,\nstorm density,\nand the giant avian presence fused into the atmosphere.\nNo extra scenery, no buildings, no other vehicles, no random props.\nThe scene must feel vast, empty, and mythic.\n\nTypography:\nUse minimal English typography only, in a refined bold editorial style.\nPossible text:\n“FORD”\n“F-150 RAPTOR”\n“BORN OF THE STORM”\nor\n“PREDATOR OF THE DESERT”\nKeep branding elegant, restrained, and integrated into the composition with premium spacing.\nInclude a minimal official-style Ford wordmark if needed.\n\nMood:\nferal, powerful, cinematic, mythic, predatory, dust-charged, elemental, aggressive, premium, heroic, storm-driven, desert-authority.\n\nRendering style:\nhyper-real off-road truck photography, cinematic desert storm, hidden colossal raptor head in sand, premium Ford campaign poster, extreme sand realism, mythic environmental creature fusion, luxury action advertising, 8k, world-class campaign quality.\n\nNegative prompt:\nfull bird body, dragon, reptile monster, fantasy beast, pasted creature, cartoon sandstorm, fake dust, low-detail truck, wrong Ford design, generic pickup, cluttered background, multiple vehicles, overexposed sky, cheap action poster, chaotic fire effects, unrealistic tire motion, blurry grille, muddy composition, dirty black blotches, noisy shadows
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2076362978165965078) | 2026-07-12
+
+---
+
+### 🎴 例 3875：“逆转损伤”产品广告拼图
+
+![“逆转损伤”产品广告拼图](../../images/%E2%80%9C%E9%80%86%E8%BD%AC%E6%8D%9F%E4%BC%A4%E2%80%9D%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%8B%BC%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个 16:9 的高端商业广告拼图，采用“逆转损伤”视觉系统，展示四种不同的产品广告，画面中损伤正从核心产品周围明显地向后回溯。
+
+画布：水平 16:9 图像，通过粗而整洁的白色间隙精确划分为 2x2 网格的 4 个等分面板。使用电影级摄影棚灯光、高对比度、照片级产品渲染、光泽反射、浅景深和戏剧性的运动轨迹。每件产品必须保持完全静止、尺寸大、对焦清晰、居中或接近居中，且易于识别，作为画面核心。
+
+整体概念：在每个面板中，受损的材料或碎屑仿佛时间倒流般被向后拉离产品。使用扫过的白色气流带、条纹、粒子轨迹和定向运动模糊，使逆转效果显而易见。产品保持洁净、未受损且高端；损伤看起来是在离开现场，而不是正在靠近。
+
+面板数量及内容：使用精确的 4 个面板。
+1. 左上角面板：{argument name="laundry detergent product" default="一瓶带有蓝色瓶盖的橙色 Tide Ultra Oxi 洗衣液"} 直立在白色织物前的反光深色表面上。棕色的泥渍和污垢颗粒正从左侧的白色衬衫上被向后拉离，转化为洁净明亮的织物，向瓶身右后方流动。深色摄影棚背景，清晰的产品标签，强烈的白色运动条纹。
+2. 右上角面板：{argument name="vacuum product" default="一台带有紫色和金属质感装饰的 Dyson 无线吸尘器"} 直立在现代昏暗客厅的木地板上。一股灰尘、泥土、碎石和杂物正从左向右向后飞入吸尘器后方已清扫干净的路径中，伴有弯曲的白色气流轨迹。背景包含右侧模糊的植物和小型家具。
+3. 左下角面板：{argument name="haircare product" default="一瓶黑金配色的 Kérastase Chronologiste 护发精油"} 居中放置在深色光亮表面上。断裂的干枯分叉发丝和棕色木刺状损伤从左侧迸发，随后重新连接成顺滑光泽的发丝，向瓶身右后方扫去。黑色奢华背景，金色高光，优雅的沙龙美学氛围。
+4. 右下角面板：{argument name="skincare product" default="一罐带有蓝色标签的白色 CeraVe Moisturizing Cream 面霜"} 放置在洁净明亮的表面上。左侧干裂的土地、皮屑和灰尘般的皮肤质感正被向后拉离，并被右侧顺滑丝滑、水润的皮肤质感波浪所取代。柔和的米色背景，明亮的临床护肤灯光，纯净的医学美容美学。
+
+视觉风格：高端商业广告，照片级真实感，超细节产品摄影，电影级轮廓光，体积光，动态粒子，清晰的核心包装，高端修图，无真人模特，包装标签之外无额外文字叠加。
+
+约束条件：保持精确的四个面板，且仅包含所描述的四款核心产品。不要添加标题、标语、水印、包装外的标志、手、人物或额外的面板。确保每个面板中的逆转动作清晰：左侧为损伤，右侧为流动的洁净修复材料，核心产品在中心保持固定且完美无瑕。
+
+[English]
+Goal: Create a premium 16:9 commercial advertising collage using the visual system “Reverse The Damage,” showing four different product ads where damage is visibly rewinding away from the hero product.
+
+Canvas: Horizontal 16:9 image divided into exactly 4 equal panels in a 2-by-2 grid, separated by thick clean white gutters. Use cinematic studio lighting, high contrast, photorealistic product rendering, glossy reflections, shallow depth of field, and dramatic motion trails. Each product must remain perfectly still, large, sharply focused, centered or near-centered, instantly recognizable, and treated as the hero.
+
+Overall concept: In every panel, the damaged material or debris is pulled backward and away from the product as if time is reversing. Use sweeping white airflow ribbons, streaks, particle trails, and directional motion blur to make the reversal obvious. The products are clean, untouched, and premium; the damage appears to be leaving the scene rather than arriving.
+
+Panel count and contents: Use exactly 4 panels.
+1. Top-left panel: {argument name="laundry detergent product" default="an orange Tide Ultra Oxi laundry detergent bottle with blue cap"} standing upright on a reflective dark surface in front of white fabric. Brown mud stains and dirt particles are being pulled backward off a white shirt on the left, transforming into clean bright fabric flowing to the right behind the bottle. Dark studio background, crisp product label, strong white motion streaks.
+2. Top-right panel: {argument name="vacuum product" default="a Dyson cordless stick vacuum with purple and metallic accents"} standing upright on a wooden floor in a modern dim living room. A wave of dust, soil, pebbles, and debris is flying backward from left to right into a clean swept path behind the vacuum, with curved white air trails. Background includes a blurred plant and small furniture on the right.
+3. Bottom-left panel: {argument name="haircare product" default="a black and gold Kérastase Chronologiste hair oil bottle"} centered on a dark glossy surface. Broken dry split hair fibers and brown splinter-like damage burst from the left, then reconnect into a smooth glossy flowing hair strand sweeping to the right behind the bottle. Black luxury background, gold highlights, elegant salon-beauty mood.
+4. Bottom-right panel: {argument name="skincare product" default="a white CeraVe Moisturizing Cream jar with blue label"} sitting on a clean light surface. Dry cracked earth, flakes, and dusty skin-like texture on the left are being pulled backward and replaced by smooth silky white hydrated skin-like waves on the right. Soft beige background, bright clinical skincare lighting, clean medical beauty aesthetic.
+
+Visual style: Premium commercial advertising, photorealistic, ultra-detailed product photography, cinematic rim light, volumetric glow, dynamic particles, sharp hero packaging, high-end retouching, no human models, no extra text overlays beyond product labels visible on packaging.
+
+Constraints: Keep exactly four panels and exactly the four hero products described. Do not add captions, slogans, watermarks, logos outside the product packaging, hands, people, or extra panels. Make the reversal motion clear in each panel: damage on the left, clean restored material flowing on the right, with the hero product fixed and pristine in the center.
+```
+
+**来源：** [@AZIZ | AI 🇸🇦](https://x.com/aziz4ai/status/2076339538620776517) | 2026-07-12
+
+---
+
+### 🎴 例 3876：超奢华剪影香水海报
+
+![超奢华剪影香水海报](../../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E5%89%AA%E5%BD%B1%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 CHANEL N°5 创作一张顶级奢华的社论式香水海报，严格采用受电影逆光香水摄影启发的剪影女性呈现方式。女性必须呈现为真实的剪影，而不是光线充足的美女肖像。她的身份应通过轮廓、姿态、轮廓光和氛围来表达，而不是面部细节。图像必须具有感官享受、疏离感、神秘感且极其精致，具有超真实的香水颗粒、优雅的空间深度和高端的低调照明。构图：采用垂直海报布局。将 CHANEL N°5 瓶子放在左下角的前景，在女人手中清晰可见。保持手持喷洒动作不变：优雅的手腕、自然的指尖张力、写实的握法，喷嘴指向颈部和下颚区域。瓶子必须保持清晰和高端，作为构图的锚点。剪影规则：女性必须主要渲染为黑暗的剪影。不要露出完整的面部特征、明亮的正面皮肤或详细的肖像照明。她的脸应该只看到部分侧面轮廓，额头、鼻梁、嘴唇、下巴、脖子和肩膀由背景中的薄暖轮廓光勾勒。身体大部分应留在阴影中，保留神秘感和图形美感。整体效果必须感觉像是包裹在光线中的生动剪影，而不是标准的时尚肖像。角色存在感：使用健康、高级时尚的西方女性模特，具有优雅的姿态和精致的比例，但仅通过剪影语言呈现。她应该在空间中稍微靠后，让香水雾在空气中传播更长的距离。仅显示部分上半身，而非全身。画面应集中在头部、颈部、肩膀、锁骨区域和握瓶手臂的剪影上。关键解剖学规则：即使人物以剪影形式呈现，解剖结构也必须完全正确。颈部比例必须自然，不能拉长或像天鹅一样。从下颚线到喉咙再到锁骨的过渡必须在解剖学上令人信服。肩部坡度、锁骨高度、斜方肌线条和手臂角度必须保持真实且优雅。没有扭曲的颈部长度，没有破碎的肩膀结构，没有不自然的时尚夸张。香水喷雾：关键的视觉故事是长而轻盈的香水雾从前景的瓶子飘向中景的剪影人物。喷雾必须感觉重量轻、发光且极其精细，就像悬浮在空气中的照明香氛尘埃。它应该从喷嘴喷出细腻的喷雾开始，然后扩大成由微小金色颗粒和半透明薄雾组成的柔软、舞动的丝带，在掠过剪影的脖子、下颚线和下脸颊轮廓之前优雅地穿过黑暗空间。喷雾必须感觉：轻盈、漂浮、如丝般顺滑、受控、优雅且物理上可信。它应该通过距离和氛围创造奢华感。保持其长、透气并悬浮在空气中，具有精细的扩散和微妙的湍流，绝不是浓烟，绝不是混乱的粉末，绝不是爆炸性的喷雾。灯光：使用强烈的电影逆光和精致的边缘照明。人物必须保持大部分为黑色，仅由精选的金色轮廓高亮描绘脸部、喉咙、肩膀、手臂和上胸线的剪影边缘。瓶子应捕捉温暖的反光并显露内部的琥珀色香水。喷雾在穿过光束的地方应柔和发光，在瓶子和剪影之间形成一层漂浮的面纱。背景必须保持深色、极简且干净。瓶子真实感：以绝对的真实感渲染 CHANEL N°5 瓶子：正确的瓶子几何形状、透明的奢华玻璃、浓郁的金色液体、清晰的白色标签、优雅的黑色字体、写实的金属喷嘴、高端的反光和锐利的品牌清晰度。字体：在左侧负空间使用极简的社论字体。仅包括：“CHANEL”、“N°5” 以及可选的一行简短文字，例如：“THE SCENT OF A SILHOUETTE”。字体必须感觉安静、奢华且具有时尚大牌的权威感。氛围：神秘、奢华、疏离、感性、逆光、电影感、剪影驱动、优雅、永恒、夜间、精致、社论、高级时尚。渲染风格：超真实奢华香水摄影，女性剪影，电影轮廓光，长距离香水雾，解剖学正确的颈部和肩膀，优雅的手持喷洒姿势，深琥珀黑色调，发光的空中颗粒，高端玻璃真实感，极简背景，8k，世界级广告大片质量。负向提示词：光线充足的面部，可见的面部细节，美容肖像照明，前光照明的皮肤，曝光过度的身体，非剪影女性，拉长的脖子，解剖错误，扭曲的肩膀，笨拙的手势，杂乱的烟雾，厚重的喷雾云，粉末爆炸，模糊的瓶子，假标签，凌乱的背景，肮脏的阴影，黑色斑块，嘈杂的黑暗区域，变形的手指，不真实的身体比例。
+
+[English]
+Create an ultra-luxury editorial fragrance poster for CHANEL N°5, strictly using a silhouette-based female presentation inspired by cinematic backlit perfume photography. The woman must appear as a true silhouette, not a fully illuminated beauty portrait. Her identity should be expressed through contour, posture, rim light, and atmosphere rather than facial detail. The image must feel sensual, distant, mysterious, and extremely refined, with hyper-real perfume particles, elegant spatial depth, and premium low-key lighting. Composition: Use a vertical poster layout. Place the CHANEL N°5 bottle in the lower-left foreground, clearly visible in the woman’s hand. Keep the hand-held spraying action unchanged: elegant wrist, natural finger tension, realistic grip, nozzle directed toward the neck and lower jaw area. The bottle must remain sharp and premium, acting as the anchor of the composition. Silhouette rule: The woman must be rendered primarily as a dark silhouette. Do not reveal full facial features, bright frontal skin, or detailed portrait lighting. Her face should be seen only in partial side-profile contour, with the forehead, nose bridge, lips, chin, neck, and shoulder defined by a thin warm rim light against darkness. The body should remain largely in shadow, preserving mystery and graphic elegance. The overall effect must feel like a living silhouette wrapped in light, not a standard fashion portrait. Character presence: Use a healthy, high-fashion Western female model with elegant posture and refined proportions, but present her only through silhouette language. She should appear slightly farther back in space, allowing the perfume mist to travel a longer distance through the air. Show only a partial upper body, not the full figure. The frame should focus on the silhouette of the head, neck, shoulder, collarbone zone, and the arm holding the bottle. Critical anatomy rule: Even though the figure is presented as a silhouette, the anatomy must remain completely correct. The neck must be naturally proportioned, not stretched or swan-like. The transition from jawline to throat to clavicle must feel anatomically believable. The shoulder slope, collarbone height, trapezius line, and arm angle must all remain realistic and elegant. No distorted neck length, no broken shoulder structure, no unnatural fashion exaggeration. Perfume mist: The key visual story is the long, airy perfume mist drifting from the bottle in the foreground toward the silhouette figure in the mid-background. The mist must feel weightless, luminous, and extremely fine, like illuminated fragrance dust suspended in air. It should begin as a delicate spray from the nozzle, then expand into a soft, dancing ribbon of microscopic golden particles and translucent haze, traveling gracefully across the dark space before brushing the neck, jawline, and lower cheek contour of the silhouette. The mist must feel: light, floating, silky, controlled, elegant, and physically believable. It should create luxury through distance and atmosphere. Keep it long, breathable, and suspended in the air, with fine diffusion and subtle turbulence, never dense smoke, never chaotic powder, never explosive spray. Lighting: Use strong cinematic backlight and refined edge lighting. The figure must remain mostly black, with only selective golden rim highlights tracing the silhouette edges of the face, throat, shoulder, arm, and upper chest line. The bottle should catch warm reflections and reveal the amber perfume inside. The mist should glow softly where it crosses the light beam, creating a floating veil between bottle and silhouette. Background must stay dark, minimal, and clean. Bottle realism: Render the CHANEL N°5 bottle with absolute realism: correct bottle geometry, transparent luxury glass, rich golden liquid, crisp white label, elegant black typography, realistic metal nozzle, premium reflections, and sharp branding clarity. Typography: Use minimal editorial typography in the left-side negative space. Include only: “CHANEL” “N°5” and optionally one short line such as: “THE SCENT OF A SILHOUETTE” Typography must feel quiet, luxurious, and fashion-house authoritative. Mood: mysterious, luxurious, distant, sensual, backlit, cinematic, silhouette-driven, elegant, timeless, nocturnal, refined, editorial, high-fashion. Rendering style: hyper-real luxury fragrance photography, silhouette female figure, cinematic rim light, long-distance perfume mist, anatomically correct neck and shoulders, elegant hand-held spray pose, dark amber-black palette, glowing airborne particles, premium glass realism, minimal background, 8k, world-class campaign quality. Negative prompt: fully lit face, visible facial details, beauty portrait lighting, front-lit skin, overexposed body, non-silhouette woman, stretched neck, anatomy errors, distorted shoulders, awkward hand pose, messy smoke, thick spray cloud, powder explosion, blurry bottle, fake label, cluttered background, dirty shadows, black blotches, noisy dark areas, deformed fingers, unrealistic body proportions
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2076339109426291069) | 2026-07-12
+
+---
+
+### 🎴 例 3880：Mental Peace 乐谱海报
+
+![Mental Peace 乐谱海报](../../images/Mental%20Peace%20%E4%B9%90%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的横版社论海报，强调通过古典乐谱而非大众流媒体播放列表来寻找内心平静，采用高对比度的朋克拼贴风格。
+
+画布：宽屏 16:9 横向构图，左侧为黑色背景，向右侧过渡为电钴蓝色故障拼贴，带有做旧的墨水纹理、撕裂的纸张边缘、半色调网点、划痕、喷溅效果以及粗糙的印刷海报质感。
+
+布局：分割构图。左侧 40% 的区域由三行堆叠的超大号西班牙语文本占据，使用高瘦的无衬线大写字体。右侧 60% 展示了一部倾斜的现代智能手机，被爆发出的古董乐谱和音符暴力撕裂。手机略微向左倾斜，位于中右侧，爆发出的碎片向右上角和最右侧边缘扩散。
+
+文本内容：左侧使用 3 个大文本块：顶行使用灰白色，内容为“{argument name="headline text" default="¿PAZ MENTAL?"}”；中间行使用荧光青柠绿，内容为“{argument name="middle text" default="IGNORE LA PLAYLIST."}”；底行使用亮洋红色，内容为“{argument name="bottom text" default="BUSQUE LA PARTITURA."}”。保持字体非常高、字间距紧凑且左对齐，并带有粗糙的海报纹理。
+
+主体细节：智能手机屏幕为深绿黑色，显示音乐流媒体应用界面。展示 6 行可见的播放列表，每行配有一个小型荧光绿圆形播放图标和波形线条图形，底部附近有一个较大的圆形播放按钮和一个类似无穷大的小图标。手机玻璃在右边缘破裂撕裂，仿佛纸张和声音正从中冲出。
+
+音乐拼贴：从手机中喷涌出混乱的奶油色古董乐谱碎片和覆盖着黑色音符的长条卷曲五线谱带。包含约 8 条显眼的卷曲五线谱带、几张撕裂的乐谱页、黑色墨水喷溅、散落的音符符号以及少量荧光装饰。添加 5 个明亮的装饰形状：2 个亮粉色矩形纸屑、2 个荧光青柠色音符/矩形装饰，以及 1 条横跨中心的厚钴蓝色胶带。乐谱应呈现出 19 世纪古典手稿纸的质感，带有陈旧的米色、手写笔记和印刷五线谱。
+
+视觉风格：大胆的现代杂志封面/社交媒体缩略图设计，爆炸性动态，最大化对比度，西班牙语排版宣传海报能量，故障拼贴，孔版印刷风格墨水，做旧丝网印刷纹理，深黑色，电蓝色，荧光青柠色，亮洋红色，陈旧纸张米色。
+
+约束条件：无人像，无 Logo，无水印，除手机 UI 标记和三个主要西班牙语文本块外，不包含任何额外文字。保持电影感、锐利、高冲击力的构图，适合病毒式传播的文章卡片或推文配图。
+
+[English]
+Goal: Create a dramatic horizontal editorial poster about finding mental peace through classical sheet music instead of generic streaming playlists, in a high-contrast punk collage style.
+
+Canvas: Wide 16:9 landscape composition, black background on the left fading into an electric cobalt-blue grunge collage on the right, with distressed ink textures, torn paper edges, halftone dots, scratches, splatters, and a rough printed-poster finish.
+
+Layout: Split composition. The left 40% is dominated by three stacked oversized Spanish text lines in tall condensed uppercase sans-serif type. The right 60% shows a tilted modern smartphone being violently split open by an explosion of antique sheet music and musical notation. The phone leans slightly left, positioned near the center-right, with the burst expanding outward to the upper-right and far-right edge.
+
+Text content: Use exactly 3 large text blocks on the left: top line in off-white reading “{argument name="headline text" default="¿PAZ MENTAL?"}”; middle line in neon lime green reading “{argument name="middle text" default="IGNORE LA PLAYLIST."}”; bottom line in hot magenta reading “{argument name="bottom text" default="BUSQUE LA PARTITURA."}”. Keep the words very tall, tightly kerned, and aligned flush-left, with a gritty poster texture.
+
+Subject details: The smartphone screen is dark green-black with a music streaming app interface. Show exactly 6 visible playlist rows, each with a small neon-green circular play icon and waveform-like line graphics, plus 1 larger circular play button near the bottom and a small infinity-like icon. The phone glass is cracked and torn at the right edge, as if paper and sound are breaking through it.
+
+Musical collage: From the phone erupts a chaotic burst of antique cream-colored sheet music fragments and long curling staff ribbons covered in black notes. Include approximately 8 prominent curling music staff ribbons, several torn score pages, black ink splatters, scattered note symbols, and small neon accents. Add exactly 5 bright accent shapes: 2 hot-pink rectangular confetti pieces, 2 neon-lime music-note/rectangle accents, and 1 thick cobalt-blue tape strip across the center. The sheet music should feel like nineteenth-century classical manuscript paper, aged beige with handwritten notes and printed staves.
+
+Visual style: Bold contemporary magazine cover / social media thumbnail design, explosive motion, maximal contrast, Spanish typographic propaganda-poster energy, grunge collage, risograph-inspired ink, distressed screen-print texture, deep blacks, electric blue, neon lime, hot magenta, aged paper cream.
+
+Constraints: No people, no logos, no watermark, no extra text beyond the phone UI markings and the three main Spanish text blocks. Preserve a cinematic, sharp, high-impact composition suitable for a viral article card or tweet image.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2076329041607487789) | 2026-07-12
+
+---
+
+### 🎴 例 3881：未来感智能手机产品广告
+
+![未来感智能手机产品广告](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实高端智能手机广告，主角是一位 20 出头、肤色白皙、五官立体的自信年轻女性，佩戴着时髦的黑色猫眼太阳镜。她留着长而浓密的编发，造型为夸张的超长麻花辫，发色采用与产品主题相呼应的 {argument name="color theme" default="柔和薰衣草紫/紫色"} 色调。
+她以动态的低角度电影感姿态出镜，身体微微扭转，将一部 {argument name="smartphone model" default="Xiaomi 17 Pro"} 智能手机朝向镜头，呈现出强烈的透视感，手机占据画面前景的视觉中心。
+该智能手机采用哑光金属薰衣草紫配色，机身极简，边角圆润，配有大型矩形摄像头模组。模组左侧包含两个大尺寸摄像头镜头，右侧为一个圆形副屏，显示着极简的紫色渐变时钟 UI，摄像头旁印有 Leica 品牌标识，配有简洁的闪光灯条，底部带有精致的 Xiaomi 品牌标识。
+服装：{argument name="outfit" default="柔和薰衣草紫/紫色修身长袖露脐上衣"}，搭配高腰哑光灰/橄榄绿工装裤，展现现代科技时尚美学。
+背景：从浅灰色过渡到柔和薰衣草紫/紫色的纯净极简渐变背景，带有模糊的大型字体以增加深度感。
+光影：柔和的影棚布光，色调中性偏冷，皮肤光泽细腻，手机边缘有受控的高光，镜头和显示屏上有光泽反射，阴影极少，呈现高端产品摄影风格。
+构图：低角度拍摄以展现强大气场，主体位于画面左侧，手机占据右侧前景，留有干净的负空间用于品牌展示。
+未来感 UI 叠加层：纤细的极简白色/紫色线条和节点指向产品功能，并带有浮动标签：“Leica Camera System”（徕卡影像系统）、“Secondary Display Integration”（副屏集成）、“Ultra-Slim Premium Design”（超薄高端设计）。
+毛玻璃效果面板（左下角，柔和紫色调）列出：“Flagship Performance”（旗舰性能）、“Advanced AI Imaging”（先进 AI 影像）、“Fast Charging”（快速充电）、“Next-Gen Xiaomi AI”（下一代 Xiaomi AI）。
+顶部角落文字：“Xiaomi 17 Pro”，采用简洁现代的无衬线字体。
+风格：高端旗舰智能手机广告，未来感，极简，优雅。
+质量：8K，超精细，焦点清晰，HDR，电影级商业摄影，逼真质感。
+
+[English]
+Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in {argument name="color theme" default="soft lavender/purple"} tones matching the product theme.
+She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a {argument name="smartphone model" default="Xiaomi 17 Pro"} smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground.
+The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom.
+Outfit: {argument name="outfit" default="fitted long-sleeve crop top in soft lavender/purple"}, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic.
+Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth.
+Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style.
+Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding.
+Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: “Leica Camera System” “Secondary Display Integration” “Ultra-Slim Premium Design”
+Glassmorphism panel (bottom-left, soft purple tint) listing: “Flagship Performance” “Advanced AI Imaging” “Fast Charging” “Next-Gen Xiaomi AI”
+Top corner text: “Xiaomi 17 Pro” in clean modern sans-serif typography.
+Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant.
+Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2076326474026790918) | 2026-07-12
+
+---
+
+### 🎴 例 3884：Skippy Peanut Butter 编辑项目
+
+![Skippy Peanut Butter 编辑项目](../../images/Skippy%20Peanut%20Butter%20%E7%BC%96%E8%BE%91%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超高端的对称式 4 宫格编辑广告宣传项目，用于 Skippy Peanut Butter，将其重新构想为一场“早餐能量”奢华食品宣传活动，并呈现四种截然不同的早餐环境。最终效果必须呈现出世界级商业品牌系统的质感：温馨、诱人、精致且极具策略性，每个面板代表一种独特的早晨环境和生活方式氛围，同时确保 Skippy Peanut Butter 在每一帧中都是核心产品。整体布局：使用简洁的 2x2 对称网格，包含四个平衡的正方形面板。每个面板都必须作为独立的优质广告呈现，同时通过统一的品牌形象、灯光质量、排版和色彩和谐，使四个面板在视觉上融为一体。网格必须显得优雅、具备商业智慧且视觉上令人愉悦。所有 Skippy Peanut Butter 产品必须以绝对的真实感进行渲染：真实的 Skippy 瓶身比例、正确的瓶盖和标签设计、清晰可辨的 Skippy 品牌标识、逼真的瓶身材质表现、可见的细腻或颗粒状花生酱质感、高级的反光效果以及清晰的产品轮廓。瓶身必须看起来新鲜、高端、诱人且具有极高的辨识度。核心视觉概念是四种不同的早餐环境。每个面板必须代表不同的早餐世界氛围和场景，场景逻辑不得重复。不要仅仅是对同一设置进行重新着色。这四个面板应清晰地呈现出四个不同的早晨、四张不同的餐桌和四种不同的早餐仪式。面板 1：明亮的家庭厨房早餐。创建一个阳光明媚的家庭厨房早餐场景，配以柔和的晨光、吐司、香蕉片、牛奶和温馨的家庭餐桌氛围。Skippy 瓶身必须保持核心地位，辅助元素排列整洁优雅。氛围应显得温馨、营养丰富，充满积极的早晨能量。面板 2：都市快节奏早餐。创建一个现代城市公寓早餐场景，配以时尚的桌面、燕麦、酸奶、水果片、咖啡，以及更高效、时尚的快节奏能量感。Skippy 瓶身必须保持居中且占据产品主导地位。氛围应显得现代、干练、活跃且高端。面板 3：惬意周末慢生活早餐。创建一个更柔和、更令人沉浸的周末早晨环境，配以煎饼、温热的吐司、花生酱涂抹质感、柔软的亚麻布，或许还有一些糕点细节，以及平静的金色光线。Skippy 瓶身必须保持高度可见。氛围应显得舒适、浓郁且奢华，如同缓慢的早餐仪式。面板 4：健身动力早餐设置。创建一个以蛋白质为核心的运动型早餐场景，配以香蕉、燕麦、坚果、冰沙或蛋白质补充剂，以及暗示运动营养的简洁活力环境。Skippy 瓶身必须保持核心地位，场景风格旨在传达力量、能量和积极的早晨自律。氛围应显得清爽、充满活力且现代。每个面板在以下方面必须具备不同的早餐环境：餐桌造型、灯光方向、辅助食物、表面材质和情感基调。四个早餐世界应解读为：家庭早晨、都市现代、惬意沉浸和健身动力。辅助造型：仅在支持 Skippy 瓶身和早餐故事的情况下使用优雅的早餐道具：吐司、香蕉、燕麦、浆果、牛奶、咖啡、煎饼、坚果、亚麻布、木材、陶瓷碗或冰沙杯。所有道具必须保持为产品的次要元素。不要使画面杂乱。不要将宣传活动变成食谱拼贴画。灯光：在所有四个面板中使用高级商业摄影棚灯光，并带有精致的温暖晨光质感。每个面板应包括：瓶身上的干净高光、美丽的花生酱光泽、精致的纹理可见度、受控的反光以及优雅的阴影塑造。光线应感觉像是提升后的早餐时段阳光，在每个面板中有所不同，但在整个宣传活动中保持统一。所有阴影必须保持通透且干净，没有浑浊的黑色、脏污斑点或杂乱的暗部污染。背景和表面：允许每个早餐面板拥有独特的造型，同时保持在同一个高端系列中。可能的材质方向：阳光照射下的木材、浅色石材、柔和的白色厨房表面、中性亚麻布、陶瓷餐具、燕麦米色桌面和温暖的现代家居纹理。完整的 4 宫格布局必须感觉和谐且品牌一致。调色板：花生金、暖米色、奶油象牙白、烤棕色、燕麦米色、香蕉黄、柔和的浆果点缀、乳白色，以及包装上微妙的 Skippy 品牌蓝红色点缀。整体宣传活动应感觉温暖、新鲜、充满活力且在商业上具有高级感。排版：仅使用精致的英文品牌名称和宣传文案。主要重复文本：“SKIPPY”“PEANUT BUTTER”。各面板可能的辅助文案：“START BRIGHT”“FUEL THE CITY”“SAVOR THE MORNING”“POWER YOUR BREAKFAST”。或一个整体宣传语：“FOUR MORNINGS. ONE ENERGY.” 排版必须感觉大胆、简洁且具有商业高端感，绝不浮夸或廉价。氛围：高端早餐能量、现代生活方式的温暖、营养舒适、早晨仪式感的优雅、食欲吸引力、商业精致度。渲染风格：超写实食品摄影、奢华 4 宫格宣传项目、真实的 Skippy Peanut Butter 产品渲染、四个不同的早餐环境场景、精致的商业排版、8k、世界级宣传品质。负面提示词：普通花生酱广告、伪造的 Skippy 标签、低细节瓶身、重复的早餐场景、重复的道具、杂乱的食物造型、弱化的产品层级、廉价超市传单外观、浑浊的阴影、黑色斑点、杂乱的灯光、混乱的食谱拼贴、粗糙的排版。
+
+[English]
+Create an ultra-premium symmetrical 4-panel editorial campaign board for Skippy Peanut Butter, reimagined as a “Breakfast Energy” luxury food campaign with four clearly different breakfast environments. The final result must feel like a world-class commercial brand system: warm, appetizing, polished, and highly strategic, with each panel representing a unique morning setting and lifestyle mood while keeping Skippy Peanut Butter as the hero product in every frame. Overall layout: use a clean symmetrical 2x2 grid with four balanced square panels. Each panel must function as a standalone premium advertisement, yet all four must feel unified as one campaign through consistent branding, lighting quality, typography, and color harmony. The grid must feel elegant, commercially intelligent, and visually satisfying. All Skippy Peanut Butter products must be rendered with absolute realism: authentic Skippy jar proportions, correct lid and label design, legible Skippy branding, realistic jar material behavior, visible creamy or chunky peanut butter texture, premium reflections, and clean product clarity. The jars must feel fresh, premium, appetizing, and instantly recognizable. The key visual concept is four distinct breakfast environments. Each panel must represent a different breakfast-world mood and setting, with no repetition in scene logic. Do not simply recolor the same setup. The four panels should clearly feel like four different mornings, four different tables, and four different breakfast rituals. Panel 1: Bright Family Kitchen Breakfast Create a warm sunlit home-kitchen breakfast setting with soft morning light, toast, sliced banana, milk, and a wholesome family-table atmosphere. The Skippy jar must remain the hero, with supporting elements arranged cleanly and elegantly. The mood should feel welcoming, nourishing, and full of positive morning energy. Panel 2: Urban Fast Morning Breakfast Create a modern city-apartment breakfast scene with a sleek tabletop, oats, yogurt, fruit slices, coffee, and a more efficient stylish on-the-go energy. The Skippy jar must remain central and product-dominant. The mood should feel contemporary, smart, active, and premium. Panel 3: Cozy Weekend Slow Breakfast Create a softer, more indulgent weekend morning environment with pancakes, warm toast, peanut butter spread texture, soft linen, perhaps a pastry detail, and calm golden light. The Skippy jar must remain highly visible. The mood should feel comforting, rich, and luxurious, like a slow breakfast ritual. Panel 4: Fitness Fuel Breakfast Setup Create a protein-forward athletic breakfast scene with bananas, oats, nuts, smoothie or protein pairing cues, and a clean energetic environment suggesting performance nutrition. The Skippy jar must remain the hero, with the scene styled to communicate strength, fuel, and active morning discipline. The mood should feel crisp, energizing, and modern. Each panel must have a different breakfast environment in terms of: table styling, lighting direction, supporting food, surface material, and emotional tone. The four breakfast worlds should read as: family morning, urban modern, cozy indulgent, and fitness-fuel energy. Supporting styling: use elegant breakfast props only where they support the Skippy jar and the breakfast story: toast, bananas, oats, berries, milk, coffee, pancakes, nuts, linen, wood, ceramic bowls, or smoothie glasses. All props must remain secondary to the product. Do not clutter the frame. Do not turn the campaign into a recipe collage. Lighting: use premium studio-commercial lighting with refined warm morning polish across all four panels. Each panel should include: clean highlights on the jar, beautiful peanut-butter sheen, refined texture visibility, controlled reflections, and elegant shadow shaping. The light should feel like elevated breakfast-hour sunlight, different in each panel but still unified across the campaign. All shadows must remain breathable and clean, with no muddy blacks, dirty blotches, or noisy dark contamination. Backgrounds and surfaces: allow each breakfast panel to have distinct styling while remaining in one premium family. Possible material directions: sunlit wood, light stone, soft white kitchen surfaces, neutral linen, ceramic breakfastware, oat-beige tabletops, and warm modern home textures. The full 4-panel layout must feel harmonious and brand-consistent. Color palette: peanut gold, warm beige, creamy ivory, toasted brown, oat beige, banana yellow, soft berry accents, milk white, and subtle Skippy brand blue-red accents from the packaging. The overall campaign should feel warm, fresh, energetic, and commercially elevated. Typography: use refined English branding and promotional copy only. Main recurring text: “SKIPPY” “PEANUT BUTTER” Possible supporting lines by panel: “START BRIGHT” “FUEL THE CITY” “SAVOR THE MORNING” “POWER YOUR BREAKFAST” Or one overall campaign line: “FOUR MORNINGS. ONE ENERGY.” Typography must feel bold, clean, and commercially premium, never loud or cheap. Mood: premium breakfast energy, modern lifestyle warmth, nourishing comfort, morning ritual elegance, appetite appeal, commercial sophistication. Rendering style: hyper-real food photography, luxury 4-panel campaign board, authentic Skippy Peanut Butter product rendering, four distinct breakfast environment scenes, refined commercial typography, 8k, world-class campaign quality. Negative prompt: generic peanut butter ad, fake Skippy label, low-detail jar, repeated breakfast scene, repetitive props, cluttered food styling, weak product hierarchy, cheap supermarket flyer look, muddy shadows, black blotches, noisy lighting, chaotic recipe collage, rough typography
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2076322794502332507) | 2026-07-12
+
+---
+
+### 🎴 例 3885：复古做旧风格便利店招聘海报
+
+![复古做旧风格便利店招聘海报](../../images/%E5%A4%8D%E5%8F%A4%E5%81%9A%E6%97%A7%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E6%8B%9B%E8%81%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为便利店合作伙伴招聘活动创作一张极简主义企业招聘海报，采用醒目的东亚排版美学。
+
+画布：竖向海报，2:3 比例，暖米色纸张背景，右侧留有大量负空间。
+
+布局：海报左侧 75% 的区域填充巨大的深蓝色裁剪中文字符，呈现为醒目的招聘标题 {argument name="main headline" default="招聘"}；字符尺寸极大，笔画延伸至海报边缘之外。在右侧边缘附近垂直居中放置一个狭窄的信息栏。右下角添加一个小型便利店线条图标及英文标语。
+
+视觉风格：粗糙的孔版印刷 / 丝网印刷质感，米色纸张上的深海军蓝油墨，带有颗粒感的做旧边缘、斑驳的掉墨效果以及略显不均匀的盖章式排版。采用冷静的企业海报构图，现代且具有触感，无照片，无渐变，无额外色彩。
+
+文本内容：海报包含 1 个巨大的裁剪标题区、1 行垂直标题、7 个小型信息板块以及 1 个底部 Logo/标语块。垂直标题行应为 {argument name="vertical title" default="便利店伙伴招募中"}。右侧栏的 7 个小板块为：1) 职位：店员，全职或兼职；2) 工作内容：收银操作、商品陈列、门店清洁；3) 时间：轮班制，每周 3–5 天，每天 4–8 小时；4) 福利：时薪 18–25 元，员工折扣，节假日福利；5) 要求：年龄 18 岁及以上，有责任心，勤奋踏实；6) 地点：就近分配；7) 联系方式：扫描下方二维码或到店咨询。正文请保持字号极小、紧凑，并使用海军蓝色。
+
+底部板块：绘制 1 个简单的便利店轮廓图标，雨棚上标有“24”，下方放置两行简短的英文：{argument name="english slogan line one" default="WE NEED YOU"} 和 {argument name="english slogan line two" default="JOIN US"}。
+
+约束：保持巨大的裁剪蓝色标题与微小的右侧栏细节之间的极端比例对比。所有排版和插图均使用相同的海军蓝油墨。避免使用写实人物、照片、除单个门店图标外的装饰性图标、二维码细节、阴影或光泽效果。
+
+[English]
+Goal: Create a minimalist corporate recruitment poster for a convenience store partner hiring campaign, using a bold East Asian typographic aesthetic.
+
+Canvas: Vertical poster, 2:3 aspect ratio, warm off-white paper background with lots of negative space on the right.
+
+Layout: Fill the left 75% of the poster with enormous cropped dark-blue Chinese characters, reading like a giant recruitment headline {argument name="main headline" default="招聘"}; the characters are so large that their strokes extend beyond the poster edges. Place a narrow right-side information column centered vertically, aligned near the right margin. Add a small convenience-store line icon and English slogan at the lower right.
+
+Visual style: Rough risograph / screen-print texture, dark navy blue ink on cream paper, gritty distressed edges, speckled ink loss, slightly uneven stamped typography. Use a calm corporate poster composition, modern but tactile, no photos, no gradients, no extra colors.
+
+Text content: The poster contains exactly 1 giant cropped headline area, 1 vertical title line, 7 small information sections, and 1 bottom logo/slogan block. The vertical title line should read {argument name="vertical title" default="便利店伙伴招募中"}. The 7 small sections in the right column are: 1) position: store staff, full-time or part-time; 2) work content: cashier operation, product display, store cleaning; 3) schedule: shift system, 3–5 days per week, 4–8 hours per day; 4) benefits: hourly wage 18–25 yuan, employee discount, holiday benefits; 5) requirements: age 18 or above, responsible, hardworking; 6) location: assigned nearby; 7) contact: scan the QR code below or visit the store to ask. Keep this body text very small, compact, and navy blue.
+
+Bottom block: Draw exactly 1 simple outlined convenience-store icon with an awning marked “24”, and below it place two short English lines: {argument name="english slogan line one" default="WE NEED YOU"} and {argument name="english slogan line two" default="JOIN US"}.
+
+Constraints: Preserve the extreme scale contrast between the huge cropped blue headline and the tiny right-column details. Keep all typography and illustration in the same navy ink. Avoid realistic people, photos, decorative icons beyond the single store icon, QR code detail, shadows, or glossy effects.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2076320415912181957) | 2026-07-12
+
+---
+
+### 🎴 例 3886：五联版饮料营销活动
+
+![五联版饮料营销活动](../../images/%E4%BA%94%E8%81%94%E7%89%88%E9%A5%AE%E6%96%99%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Fanta 水果味汽水创建一个超高端的横向 5 联版营销活动系统，将其重新构想为一系列充满活力、具有年轻视觉冲击力和高端商业质感的时尚节日促销海报。最终效果必须呈现出世界级的大型节日或青年庆典品牌活动感，包含五张独特的宽幅营销横幅，它们既属于同一个 Fanta 宇宙，又各自传达出独特的创意卖点。整体布局：创建 5 张横向横幅式面板，组成一个统一的活动系列。每个面板必须作为独立的广告视觉呈现，具备强大的产品层级、高可读性的品牌标识、精致的排版以及独特的节日概念场景。所有五张横幅必须通过统一的 Fanta 高端活动语言保持视觉连贯：明亮的色彩能量、纯净的产品写实感、大胆的商业构图、年轻的兴奋感以及精致的灯光。所有产品必须以绝对的写实感呈现：正宗的 Fanta 水果味汽水包装、准确的 Fanta 标志、逼真的瓶身或罐体比例、真实的液体颜色、干净的反射、高级的冷凝水珠、清晰的标签印刷以及鲜明的品牌特征。产品必须给人以冰凉、生动、清爽且高度写实的感觉。核心概念是五个独特的节日促销世界。不要在不同颜色中重复相同的设置。每个面板必须呈现出明显不同的节日或促销氛围，同时仍感觉属于同一个活动系列。面板 1：霓虹节日启动。一个大胆的启动面板，将多种 Fanta 口味以生动的构图排列在充满活力的现代庆典背景中。使用发光的渐变、五彩纸屑般的能量点缀、潮流图形形状和年轻的节日兴奋感。这应作为整个活动的首发主视觉。面板 2：街头嘉年华口味发布。一个更具都市感的节日场景，具有动态感、漂浮的水果、多彩的横幅、俏皮的阴影和街头派对的商业氛围。产品必须保持焦点，周围的世界暗示着当代青年庆典。面板 3：流行庆典爆发。一个明亮、图形化、适合社交媒体传播的促销图块，具有爆炸性但受控的色彩、以水果为主的装饰、大胆的节日排版和极具吸引力的产品展示。此面板应具有高度的促销感，并能瞬间抓住眼球。面板 4：日落派对口味场景。一个更温暖、更时尚的庆典面板，使用节日灯光、发光的氛围、粉橙色天空渐变和高昂的派对能量。产品应感觉清爽、令人向往，并专为时尚的节日活动而设计。面板 5：盛大终章促销横幅。一个标志性的最终面板，感觉像是活动的最高潮：将所有核心口味的能量提炼为一个干净但充满节日气氛的商业场景，具有最强的品牌存在感、最强的促销钩子和最令人难忘的季节性标识。在所有五个面板中，使用多种 Fanta 口味变体，例如：橙子、葡萄、草莓、菠萝、桃子、苹果或热带混合水果。产品应表现为一个协调的口味家族，但每个横幅可以根据创意概念强调不同的子集。辅助场景造型：使用节日和年轻的促销元素，例如：彩带、五彩纸屑形状、发光的灯光、水果切片、漂浮的冰块、节日丝带、图形爆发、日落渐变、都市庆典元素或派对般的动态点缀。然而，保持一切在商业控制范围内且高端。不要使构图杂乱。不要让道具喧宾夺主。灯光：在所有五个横幅中使用高端明亮的商业灯光。每个面板应包括：包装上的干净高光、美丽的液体光泽、微妙的水果质感、受控的冷凝水细节以及优雅的阴影塑造。灯光必须感觉令人兴奋、多彩、年轻且昂贵。所有阴影必须保持通透和干净，没有浑浊的黑色、脏斑或嘈杂的暗部污染。背景：每个横幅必须具有明显不同的节日环境和色彩氛围，同时作为同一个活动保持协调。可能的方向：电光橙与青柠、紫色夜派对光、节日红与黄、日落珊瑚与粉色、以及蓝紫色庆典对比。每个面板都应感觉独特，但整个系列必须被解读为一个协调的 Fanta 促销系统。排版：仅使用精致的英文品牌和促销文案。主要重复文本：“FANTA”“FRUIT FLAVORED SODA”。每个横幅还应带有不同的活动标语，例如：“OPEN THE FESTIVAL”“FLAVOR GOES LIVE”“POP THE PARTY”“TASTE THE CELEBRATION”“FIVE FLAVORS. ONE BIG VIBE.”排版必须感觉大胆、年轻、潮流且具有商业高端感，绝不廉价或过度拥挤。氛围：节日能量、年轻潮流文化、高端汽水营销、大胆的清爽感、社交媒体就绪的活动影响力、时尚庆典、生动的商业兴奋感。渲染风格：超写实饮料摄影、奢华商业横幅系统、五个独特的横向活动场景、正宗的多口味 Fanta 产品渲染、潮流节日世界构建、精致的促销排版、8k、世界级活动质量。负面提示：普通汽水广告、假 Fanta 标志、低细节产品、重复的横幅、在不同颜色中重复使用的相同场景、杂乱的道具、薄弱的产品层级、廉价超市传单美学、浑浊的阴影、黑色斑点、嘈杂的灯光、幼稚的低端设计、混乱的排版
+
+[English]
+Create an ultra-premium horizontal 5-panel campaign system for Fanta Fruit Flavored Soda, reimagined as a trendy festive promotional series with bold energy, youthful visual impact, and premium commercial polish. The final result must feel like a world-class seasonal brand campaign for a major holiday or youth celebration, with five unique wide-format marketing banners that all belong to the same Fanta universe while each panel delivers a distinct creative selling point. Overall layout: create 5 horizontal banner-style panels arranged as a unified campaign series. Each panel must function as a complete advertising visual on its own, with strong product hierarchy, highly readable branding, refined typography, and a unique festive-concept scene. All five banners must remain visually connected through one premium Fanta campaign language: bright color energy, clean product realism, bold commercial composition, youthful excitement, and polished lighting. All products must be rendered with absolute realism: authentic Fanta Fruit Flavored Soda packaging, correct Fanta logo, realistic bottle or can proportions, true liquid color, clean reflections, premium condensation, sharp label printing, and unmistakable brand identity. The products must feel cold, vivid, refreshing, and highly photoreal. The key concept is five unique festive-promo worlds. Do not repeat the same setup in different colors. Each panel must present a clearly different festive or promotional mood, while still feeling part of the same campaign family. Panel 1: Neon Festival Kickoff A bold launch panel with multiple Fanta flavors arranged in a lively composition against a vibrant modern celebration backdrop. Use glowing gradients, confetti-like energy accents, trendy graphic shapes, and youthful festival excitement. This should feel like the opening hero of the full campaign. Panel 2: Street Carnival Flavor Drop A more urban festive scene with dynamic movement, floating fruit, colorful banners, playful shadows, and a street-party commercial vibe. The products must remain the focus, with the world around them suggesting contemporary youth celebration. Panel 3: Pop Celebration Burst A bright, graphic, social-media-friendly promotional tile with explosive but controlled color, fruit-led accents, bold festive typography, and irresistible product visibility. This panel should feel highly promotional and instantly eye-catching. Panel 4: Sunset Party Flavor Scene A warmer, more stylish celebration panel using festival lights, glowing atmosphere, pink-orange sky gradients, and elevated party energy. The products should feel refreshing, aspirational, and made for a trendy holiday event. Panel 5: Grand Finale Promo Banner A final signature panel that feels like the climax of the campaign: all key flavor energy distilled into one clean but festive commercial scene with strongest brand presence, strongest promotional hook, and most memorable seasonal identity. Across all five panels, use multiple Fanta flavor variants such as: orange, grape, strawberry, pineapple, peach, apple, or tropical mixed fruit. The products should appear as a coordinated flavor family, but each banner may emphasize different subsets depending on the creative concept. Supporting scene styling: use festive and youthful promotional elements such as: streamers, confetti-inspired shapes, glowing lights, fruit slices, floating ice, festival ribbons, graphic bursts, sunset gradients, urban celebration cues, or party-like motion accents. However, keep everything commercially controlled and premium. Do not clutter the composition. Do not let props overpower the products. Lighting: use premium bright commercial lighting across all five banners. Each panel should include: clean highlights on the packaging, beautiful liquid glow, subtle fruit sheen, controlled condensation detail, and elegant shadow shaping. The lighting must feel exciting, colorful, youthful, and expensive. All shadows must remain breathable and clean, with no muddy blacks, dirty blotches, or noisy dark contamination. Backgrounds: each banner must have a clearly different festive environment and color mood, while remaining cohesive as one campaign. Possible directions: electric orange and lime, purple night-party glow, festival red and yellow, sunset coral and pink, and blue-violet celebration contrast. Each panel should feel unique, but the full series must read as one coordinated Fanta promo system. Typography: use refined English branding and promotional copy only. Main recurring text: “FANTA” “FRUIT FLAVORED SODA” Each banner should also carry a different campaign line, such as: “OPEN THE FESTIVAL” “FLAVOR GOES LIVE” “POP THE PARTY” “TASTE THE CELEBRATION” “FIVE FLAVORS. ONE BIG VIBE.” Typography must feel bold, youthful, trendy, and commercially premium, never cheap or overcrowded. Mood: festival energy, youthful trend culture, premium soda marketing, bold refreshment, social-media-ready campaign impact, stylish celebration, vivid commercial excitement. Rendering style: hyper-real beverage photography, luxury commercial banner system, five unique horizontal campaign scenes, authentic multi-flavor Fanta product rendering, trendy festive worldbuilding, polished promotional typography, 8k, world-class campaign quality. Negative prompt: generic soda ad, fake Fanta logo, low-detail product, repetitive banners, same scene reused in different colors, cluttered props, weak product hierarchy, cheap supermarket flyer aesthetic, muddy shadows, black blotches, noisy lighting, childish low-end design, chaotic typography
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2076318658599764101) | 2026-07-12
+
+---
+
+### 🎴 例 3887：奢侈品营销广告海报
+
+![奢侈品营销广告海报](../../images/%E5%A5%A2%E4%BE%88%E5%93%81%E8%90%A5%E9%94%80%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的产品照片作为精确参考。保留产品包装的精确形状、比例、材质、颜色、盖子、标签、文字位置、Logo、设计细节以及整体可辨识的外观。请勿更改包装，请勿虚构不同的设计，请勿替换品牌，也请勿扭曲产品。创作一张超高端的广告海报，采用超写实产品营销的格式。主体对象即为参考照片中的产品。它必须是绝对的核心主体，并占据构图的主导地位。图像应看起来昂贵、简洁、美观、现代且具有广告感，如同世界级的奢侈品商业广告。使用垂直构图。将产品放置在正中心或略高于中心的位置。产品必须以极致的写实感呈现：准确的包装、逼真的材质、清晰的标签、清晰可辨的品牌标识、高级的反射、干净的高光、立体感以及精致的呈现。如果合适，可在产品周围添加与产品质地、配方或精髓相关的克制视觉点缀：如飘动的丝带、柔和的包裹动态、细腻的颗粒、水滴、奶油质感、玻璃光泽、芳香雾气或其他简洁的雕塑元素。一切都应看起来受控、优雅且高级，避免混乱或过载。背景应极简、干净、显贵，并带有柔和的深度渐变。背景颜色应与产品协调，并提升其高级感。不要添加多余物体，不要有拥挤的环境，不要有视觉杂质。灯光应采用高级影棚灯光，柔和且具有电影感。包装上有干净的高光、柔和的轮廓光、整洁的阴影、优美的立体感以及向背景过渡的优雅光影。图像应看起来诱人、干净、奢华且专业。图像必须包含俄语文字，不得有误，并完美融入设计中。使用极简的高级排版：简洁的现代字体，优雅的布局，无杂乱感。添加：品牌名称：“[BRAND NAME]”、产品名称：“[PRODUCT NAME]”、简短标语：“[SHORT SLOGAN]”、如有需要可添加短语：“[ADDITIONAL PHRASE]”。文字应看起来像是昂贵广告活动的一部分：简洁、时尚、高级且易读。整体氛围：奢华、高端商业、纯净美妆 / 奢华食品 / 高端生活方式 / 高端产品营销，具体取决于产品类型。最终风格：超写实产品摄影、高端广告美学、世界级广告品质、8k、简洁的奢华设计。负面提示词：扭曲的包装、错误的标签、薄弱的品牌标识、混乱的效果、杂乱的背景、廉价的广告风格、脏乱的阴影、噪点、不可读的文字、俄语文字错误、塑料质感、劣质材料、多余物体、草率的排版。
+
+[English]
+Use the uploaded product photo as the exact reference. Preserve the exact packaging shape, proportions, material, color, lid, label, text placement, logo, design details, and overall recognizable appearance of the product. Do not alter the packaging, do not invent a different design, do not replace the brand, and do not distort the product. Create an ultra-premium advertising poster in the format of a hyper-real product campaign. The main object is the product from the reference photo. It must be the absolute hero object and dominate the composition. The image should look expensive, clean, aesthetic, modern, and advertising-driven, like a world-class luxury commercial campaign. Use a vertical composition. Place one product exactly in the center or slightly above center. The product must be rendered with maximum photorealism: accurate packaging, realistic materials, a crisp label, clearly legible branding, premium reflections, clean highlights, dimensionality, and a polished presentation. If appropriate, add a restrained visual accent around the product related to its texture, formula, or essence: a flowing ribbon, soft enveloping motion, delicate particles, droplets, creamy texture, glassy shine, aromatic mist, or another аккуратный sculptural element. Everything should look controlled, elegant, and premium, without chaos or overload. The background should be minimal, clean, expensive-looking, with a soft depth gradient. The background color should harmonize with the product and enhance its premium look. No extra objects, no crowded environment, no visual noise. Lighting should be premium studio lighting, soft and cinematic. Clean highlights on the packaging, soft rim light, neat shadows, beautiful dimensionality, and elegant falloff into the background. The image should look appetizing, clean, luxurious, and professional. The image must include text in Russian, with no mistakes, beautifully integrated into the design. Use minimal premium typography: a clean modern font, elegant layout, no clutter. Add: brand name: “[BRAND NAME]” product name: “[PRODUCT NAME]” short slogan: “[SHORT SLOGAN]” additional phrase if needed: “[ADDITIONAL PHRASE]” The text should look like part of an expensive advertising campaign: concise, stylish, premium, and readable. Overall mood: luxury, premium commercial, clean beauty / luxury food / premium lifestyle / high-end product campaign, depending on the product type. Final style: hyper-real product photography, premium advertising aesthetic, world-class campaign quality, 8k, clean luxury design. Negative prompt: distorted packaging, incorrect label, weak branding, chaotic effects, cluttered background, cheap advertising style, dirty shadows, noise, unreadable text, mistakes in Russian text, plastic texture, poor-quality materials, extra objects, sloppy typography.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2076317546588844374) | 2026-07-12
+
+---
+
+### 🎴 例 3907：漫画角色设计三联画海报
+
+![漫画角色设计三联画海报](../../images/%E6%BC%AB%E7%94%BB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E4%B8%89%E8%81%94%E7%94%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个三联画风格的图形海报，画布垂直分布为 {argument name="layout" default="三个横向面板"}，每个面板中均包含相同的 {argument name="character style" default="日式漫画风格角色"}。保持脸型、眼睛、鼻子、嘴巴、年龄和发色完全一致，仅改变发型、刘海、表情、头部角度、眼镜以及配饰，呈现出专业角色设计表的效果。每个面板应为肩部以上的肖像，采用大胆的图形海报美学、粗犷简洁的线条、极简的细节以及大面积的平铺色块。根据聊天记录选择 {argument name="mood" default="三种截然不同的情绪"}，每种情绪通过一种主色调来表达，仅辅以黑白色。不要使用传统的背景，而是让角色沉浸在氛围本身中，使环境光自然地反射在皮肤、头发和衣物上，营造出角色置身于该世界光影与空气中的感觉。画面中不包含任何文字、Logo、UI 元素或对话气泡。每个面板既可以作为独立的艺术作品，又能共同组成一个连贯的系列。
+
+[English]
+Create a triptych graphic poster on a vertical canvas divided into {argument name="layout" default="three horizontal panels"}, featuring the same {argument name="character style" default="Japanese manga-style character"} in every panel. Keep the face, eyes, nose, mouth, face shape, age, and hair color identical, changing only the hairstyle, bangs, expression, head angle, glasses, and accessories like a professional character design sheet. Each panel should be a shoulder-up portrait with bold graphic poster aesthetics, thick clean line art, minimal detail, and large flat color shapes. Choose {argument name="mood" default="three distinct moods"} inspired by the chat history, expressing each through a single dominant color with only black and white added. Instead of a traditional background, immerse the character within the atmosphere itself so the ambient color naturally reflects onto the skin, hair, and clothing, creating the feeling that the character exists inside the light and air of that world. No text, logos, UI elements, or speech bubbles. Each panel should work as a standalone artwork while forming a cohesive series together.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2076279757059330256) | 2026-07-12
+
+---
+
+### 🎴 例 3908：奢华香水俯拍海报
+
+![奢华香水俯拍海报](../../images/%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E4%BF%AF%E6%8B%8D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端香水海报，品牌为 {argument name="brand" default="Hermès Terre d’Hermès"}，采用完美的俯拍平铺构图，具备极致的写实感、材质对比以及 {argument name="background" default="深色黑琥珀雪松"} 的权威氛围。画面必须呈现出深邃、烟熏、木质、高贵且极度奢华的质感，如同围绕矿物玻璃、黑化木材、柔和芳香植物及发光琥珀深度构建的世界级香水广告。产品必须是绝对的主角，周围的所有元素都要服务于其香氛特质。使用严格的垂直俯拍视角。将一瓶正品 Terre d’Hermès 香水放置在画面正中心作为视觉锚点。瓶身必须真实可辨：准确的 Terre d’Hermès 轮廓、{argument name="fragrance tint" default="正宗琥珀橙色"} 的香水色调、清晰的 Hermès 品牌标识、精确的瓶盖结构、干净的金属质感以及无瑕的玻璃真实感。强调瓶身的硬质材料属性：致密的透明玻璃、锐利的边缘、扎实的重量感、干净的反射平面、矿物般的硬度、精确的镜面高光……
+
+[English]
+Create an ultra-premium fragrance poster for {argument name="brand" default="Hermès Terre d’Hermès"}, designed in a perfectly top-down flat-lay composition with extreme realism, material contrast, and a {argument name="background" default="dark black-amber-cedar"} authority mood. The image must feel deep, smoky, woody, noble, and intensely luxurious, like a world-class perfume campaign built around mineral glass, blackened woods, soft aromatic botanicals, and glowing amber depth. The product must remain the absolute hero, with every surrounding element serving its scent identity. Use a strict overhead top-view camera angle. Place one authentic Terre d’Hermès bottle exactly at the center of the frame as the main visual anchor. The bottle must be unmistakably real: accurate Terre d’Hermès silhouette, {argument name="fragrance tint" default="authentic amber-orange"} fragrance tint, crisp Hermès branding, precise cap structure, clean metallic accents, and flawless glass realism. Emphasize the bottle’s hard material identity: dense transparent glass, sharp edges, solid weight, clean reflective planes, mineral-like hardness, precise specular highlights,…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2076279503425606006) | 2026-07-12
+
+---
+
+### 🎴 例 3909：日式集换式卡牌 (TCG) 策略信息图
+
+![日式集换式卡牌 (TCG) 策略信息图](../../images/%E6%97%A5%E5%BC%8F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%20(TCG)%20%E7%AD%96%E7%95%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张精致的竖版日式集换式卡牌策略信息图，阐述将特定卡牌加入卡组的利弊。
+
+画布：2:3 纵向布局，深海军蓝/黑色奇幻 UI 背景，配有纤细的金色装饰边框、斜面面板、微光效果以及高级卡牌游戏分析美学。标题使用金色字体，正文使用白色日文。
+
+主标题区：在右上角放置一个醒目的华丽金色标题 {argument name="headline text" default="道化の一座 ハット"}。在标题下方添加副标题 {argument name="subtitle text" default="デッキに加えた際のメリット・デメリット"}。在副标题下方，放置一个深色边框的说明框，包含 3 行简短的日文，描述该卡牌可以检索/部署灵摆怪兽，支持非本家怪兽，支持抗干扰的次要路线，并提高连招稳定性。
+
+卡牌展示：在左上角展示 1 张逼真的游戏王风格怪兽卡模型，命名为 {argument name="card name" default="道化の一座 ハット"}。卡牌应具有橙色怪兽卡边框、星级图标、小型光属性图标、密集的日文效果文本、攻击力/守备力数值，以及身着蓝色服装、手持法杖、周围环绕金色魔法的弄臣风格盗贼的奇幻插画。请勿使用官方标志或完全照搬受版权保护的卡牌布局；制作一个接近虚构 TCG 风格的致敬设计。
+
+中部对比区：添加一个居中的金色标签，文字为“Trigger resilience comparison”。在其下方创建 2 行水平对比行，每行分为左侧“原始卡组行为”列、中间“采用后结果”列和右侧“小型变化图示”列。第 1 行为抽卡型触发器：蓝色图标，左侧框内有一个大蓝色圆圈表示抗性良好；箭头指向右侧的红色 X，表示抗性变差；右侧迷你图显示蓝色人物图标指向卡牌/盒子并带有禁止符号，暗示连招在抽卡阶段停止。第 2 行为干扰型触发器：红/橙色图标，左侧框内有一个大红色 X 表示抗性较差；箭头指向右侧的蓝色圆圈，表示抗性改善；右侧迷你图显示红色人物图标指向卡牌/盒子并带有蓝色盾牌勾选，暗示避开了干扰并继续部署。
+
+下方利弊分析：创建 6 张矩形卡片，分为两列，左侧 3 个优点，右侧 3 个缺点。左列标题：“メリット”（蓝色面板）。右列标题：“デメリット”（红色面板）。优点卡 1 使用盾牌图标，说明对干扰型触发器的抗性增强。优点卡 2 使用分支路线图标，说明部署的次要路线数量增加。优点卡 3 使用勾选图标，说明连招稳定性提高。缺点卡 1 使用堆叠卡牌图标，说明对抽卡型触发器的抗性变弱。缺点卡 2 使用重物/袋子图标，说明卡组负担加重。缺点卡 3 使用警告三角形图标，说明可能需要采用不必要的卡牌。每张卡片均需包含加粗的彩色标题以及两行较小的日文说明。
+
+底部总结：添加一个宽大的深色边框框，配有一个小型金色标签标题“まとめ”。在框内撰写一段简洁的日文总结，解释权衡之处：对干扰的抗性和部署灵活性提高，但对抽卡型触发器的弱点和卡组构筑限制增加。最后以一行较大的金色行动号召语结尾 {argument name="closing line" default="環境や構築方針に応じて、採用を検討しよう！"}。
+
+风格限制：使用清晰的矢量风格 UI 面板与逼真的卡牌艺术相结合，高对比度，整齐对齐，纤细的金色边框，蓝色代表正面元素，红色代表负面元素，对比框之间使用箭头，无水印，无额外部分，确保所有文字在信息图中清晰易读。
+
+[English]
+Goal: Create a polished vertical Japanese trading-card-game strategy infographic explaining the pros and cons of adding a specific card to a deck.
+
+Canvas: Portrait 2:3 layout, dark navy-black fantasy UI background with thin gold ornamental borders, beveled panels, subtle glow, and a premium card-game analysis aesthetic. Use gold title typography and white Japanese body text.
+
+Main title area: At top right, place a large ornate gold headline reading {argument name="headline text" default="道化の一座 ハット"}. Beneath it, add the subtitle {argument name="subtitle text" default="デッキに加えた際のメリット・デメリット"}. Under the subtitle, place a dark framed explanation box containing 3 short Japanese lines describing that the card can search/deploy Pendulum monsters, also enables non-theme monsters, supports interruption-resistant subroutes, and improves combo stability.
+
+Card display: At top left, show exactly 1 realistic Yu-Gi-Oh-style monster card mockup, named {argument name="card name" default="道化の一座 ハット"}. The card should have an orange monster-card frame, star icons, a small LIGHT attribute icon, dense Japanese effect text, ATK/DEF line, and fantasy artwork of a jester-like rogue in blue clothing holding a staff amid swirling golden magic. Do not use official logos or exact copyrighted card layout details; make it a close fictional TCG-style homage.
+
+Middle comparison section: Add a centered gold label tab reading “Trigger resilience comparison”. Create exactly 2 horizontal comparison rows under it, each split into a left original-deck behavior column, a middle after-adoption result column, and a right small change-image column. Row 1 is draw-type trigger: blue icon, left box has a large blue circle meaning good resilience; arrow points right to a red X meaning resilience becomes worse; right mini diagram shows a blue person icon leading to a card/box and a prohibition symbol, implying the combo stops at the draw stage. Row 2 is interruption-type trigger: red/orange icon, left box has a large red X meaning poor resilience; arrow points right to a blue circle meaning resilience improves; right mini diagram shows a red person icon leading to a card/box and a blue shield check, implying interruption is avoided and deployment continues.
+
+Lower benefits and drawbacks: Create exactly 6 rectangular cards in two columns, 3 benefits on the left and 3 drawbacks on the right. Left column header: “メリット” in a blue panel. Right column header: “デメリット” in a red panel. Benefit card 1 uses a shield icon and says it becomes stronger against interruption-type triggers. Benefit card 2 uses a branching route icon and says the number of deployment subroutes increases. Benefit card 3 uses a checkmark icon and says combo stability improves. Drawback card 1 uses stacked card icons and says it becomes weaker against draw-type triggers. Drawback card 2 uses a weight/bag icon and says deck burden becomes larger. Drawback card 3 uses a warning triangle icon and says unnecessary cards may need to be adopted. Each of the 6 cards must include a bold colored heading plus two smaller Japanese explanatory lines.
+
+Bottom summary: Add a wide dark framed box with a small gold tab header reading “まとめ”. Inside, write a concise Japanese summary explaining the trade-off: resistance to interruption and flexible deployment improve, but weakness to draw-type triggers and deck-building constraints increase. End with a larger gold call-to-action line reading {argument name="closing line" default="環境や構築方針に応じて、採用を検討しよう！"}.
+
+Style constraints: Use crisp vector-like UI panels mixed with realistic card art, high contrast, clean alignment, thin gold borders, blue for positive elements, red for negative elements, arrows between comparison boxes, no watermark, no extra sections, and keep all text legible as an infographic.
+```
+
+**来源：** [@やぐち+](https://x.com/ya_g_g_g/status/2076276506846994635) | 2026-07-12
+
+---
+
+### 🎴 例 3910：高端护肤品广告，配巨型产品罐
+
+![高端护肤品广告，配巨型产品罐](../../images/%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E5%93%81%E5%B9%BF%E5%91%8A%EF%BC%8C%E9%85%8D%E5%B7%A8%E5%9E%8B%E4%BA%A7%E5%93%81%E7%BD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张柔和的高端护肤品广告海报。一位皮肤水润透亮、年轻动人的女性身穿白色丝绸吊带裙，轻抚脸颊，身旁是一个比她高 3 倍的磨砂玻璃保湿霜罐，罐身正面以简约的玫瑰金字体书写着 "{argument name="brand name" default="DEWDROP"}"。背景为柔和的淡粉色与象牙白渐变，伴有漂浮的水滴和柔和的焦外光斑。背景中以玫瑰金色的精致简约字体填充着 "{argument name="background text" default="DEWDROP"}"，效果柔和。底部标语："{argument name="tagline" default="Drink in the glow."}"。右上角小字显示 "Designed with GPT Image 2"（灰色）。照片级真实感，高端护肤生活方式社论风格，柔和水润的自然玫瑰色光影。
+
+[English]
+A soft premium skincare advertisement poster. A radiant young woman with dewy glowing skin in a white silk slip dress gently touches her cheek beside a giant frosted glass moisturizer jar 3x her height with a gold lid, "{argument name="brand name" default="DEWDROP"}" written in minimal rose gold script on the jar front. Soft blush pink and ivory gradient background with floating water droplets and soft bokeh light orbs. Delicate minimal typography "{argument name="background text" default="DEWDROP"}" in rose gold filling the background softly. Tagline bottom: "{argument name="tagline" default="Drink in the glow."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, premium skincare lifestyle editorial, soft dewy natural rose lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2076274982733365639) | 2026-07-12
+
+---
+
+### 🎴 例 3927：东方禅意极简剪影海报
+
+![东方禅意极简剪影海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：东方禅意极简海报
+风格分支：高对比轻奢型
+主体内容：{argument name="主体内容" default="一位站在纱帘后的古风婀娜多姿，身体曲线明显的人物剪影"}
+情绪母题：朦胧、优雅、静中有戏
+场景与意象：赤橘色窗纱、水青色窗外树影、暖白墙面、人物剪影
+构图与空间：偏中构图，纱帘形成半透明主视觉，人物位于纱后中部，墙面与窗影提供留白
+色彩控制：{argument name="色彩控制" default="暖白作为墙面与留白基底，水青用于窗外树影和空气感，赤橘只用于纱帘主体和局部暖光，深灰用于人物剪影；避免整图橘化"}
+光线与质感：柔和透光，纱帘轻纹理，轻纸感，边缘柔化
+画幅比例：{argument name="比例" default="9:16"}
+补充要求：画面要有女性审美封面感，但依然保持极极简，不要复杂室内陈设
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2076213533206106597) | 2026-07-12
+
+---
+
+### 🎴 例 3933：赛博朋克门户吉祥物海报
+
+![赛博朋克门户吉祥物海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%97%A8%E6%88%B7%E5%90%89%E7%A5%A5%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版电影级赛博朋克宣传海报，画面中心展示一个全身吉祥物角色，正站在夜晚霓虹闪烁的未来城市街道上，仿佛刚从一个发光的门户步入数字品牌世界。该角色是一个玩具般的反派化身，拥有一个超大的圆形头盔，头盔上覆盖着绿色、红色、黄色、青色和粉色的明亮涂鸦迷彩图案，佩戴着亮面黑色耳机/耳罩，眼睛处戴着紫色棱角分明的护目镜，没有可见的人类面部。服装：带有仿皮草领的黑色街头夹克，饰有霓虹油漆溅射、补丁、链条、骷髅挂饰，黑色连帽衫胸前印有巨大的圆形 {argument name="emblem letter" default="C"} 标志，宽松的黑色工装裤，其中一条大腿上印有 {argument name="brand text" default="VLNS"} 字样，配有彩色朋克补丁和带有 {argument name="emblem letter" default="C"} 标志的虹彩高帮运动鞋。姿势：自信的正面站姿，一只手插在口袋里，另一只手向观众伸出，做出召唤门户的手势。在角色身后，创建一个巨大的竖向椭圆形能量门户，伴随着电光青色、蓝色、紫罗兰色和洋红色的光芒旋转，带有粒子和圆形运动轨迹。门户周围漂浮着四个半透明的全息网站 UI 面板，带有青色发光边框：左上角面板显示角色资料页，右上角面板显示角色/画廊页，左下角面板显示服装和图标卡片，右下角面板显示产品/资产详情卡片。面板应包含相同吉祥物的小缩略图、深紫色浏览器风格标题栏、微小且不可读的界面文字以及未来感网页布局元素，除服装上的品牌文字外，不包含任何可读的额外文案。环境：密集的未来派摩天大楼、霓虹灯招牌、雨后反光的路面、紫蓝色城市雾气、体积光、潮湿地面的倒影、火花、数字粒子以及景深效果。视觉风格：超精细 3D 渲染、高对比度赛博朋克灯光、光泽材质、鲜艳的洋红/青色调色板、电影级构图、角色焦点清晰、戏剧性的轮廓光、高级官方网站发布主视觉。使用 9:16 竖版海报比例。请自定义角色身份为 {argument name="character name" default="Villain"}，门户色彩强调为 {argument name="portal color" default="电光青色和紫罗兰色"}，城市氛围为 {argument name="city mood" default="雨中霓虹之夜"}，以及徽章字母为 {argument name="emblem letter" default="C"}。
+
+[English]
+Create a vertical cinematic cyberpunk promotional poster showing a single full-body mascot character standing in the center of a neon futuristic city street at night, as if stepping out of a glowing portal into a digital brand world. The character is a toy-like villain avatar with an oversized round helmet head covered in bright graffiti camouflage patterns in green, red, yellow, cyan, and pink, wearing glossy black headphones/ear discs, a purple angular visor across the eyes, and no visible human face. Outfit: black streetwear jacket with faux-fur collar, neon paint splatter, patches, chains, skull charms, a black hoodie with a large circular C emblem on the chest, baggy black cargo pants with the word {argument name="brand text" default="VLNS"} printed on one thigh, colorful punk patches, and iridescent high-top sneakers with C logos. Pose: confident front-facing stance, one hand in pocket and the other hand extended toward the viewer in a beckoning portal gesture. Behind the character, create one large vertical oval energy portal, swirling with electric cyan, blue, violet, and magenta light, with particles and circular motion trails. Around the portal float exactly four translucent holographic website UI panels with cyan glowing borders: one upper left panel showing a character profile page, one upper right panel showing a character/gallery page, one lower left panel showing outfit and icon cards, and one lower right panel showing product/asset detail cards. The panels should contain small thumbnails of the same mascot, dark purple browser-style headers, tiny unreadable interface text, and futuristic web layout elements, but no legible extra copy besides the brand text on clothing. Environment: dense futuristic skyscrapers, neon signs, rainy reflective pavement, purple-blue city haze, volumetric light, wet ground reflections, sparks, digital particles, and depth-of-field. Visual style: ultra-detailed 3D render, high-contrast cyberpunk lighting, glossy materials, vibrant magenta/cyan palette, cinematic composition, sharp focus on the character, dramatic rim light, premium official-site launch key visual. Use a 9:16 vertical poster aspect ratio. Customize the character identity as {argument name="character name" default="Villain"}, the portal color emphasis as {argument name="portal color" default="electric cyan and violet"}, the city mood as {argument name="city mood" default="rainy neon night"}, and the emblem letter as {argument name="emblem letter" default="C"}.
+```
+
+**来源：** [@essan | AIクリエイター │ TRONGlobalFriends](https://x.com/essan_x/status/2076181445685710977) | 2026-07-12
+
+---
+
+### 🎴 例 3946：奢华家居服套装卡牌
+
+![奢华家居服套装卡牌](../../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%A5%97%E8%A3%85%E5%8D%A1%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张奢华的高稀有度收藏级服装卡牌，主体仅为一套柔软的家居服，不包含模特、人体模型、面部，呈现出高级奇幻游戏服装卡牌的质感。
+
+画布：竖向肖像卡牌，3:4 比例，华丽的金色与象牙白边框填满整个画面。使用温暖的清晨卧室作为背景，包含透光窗帘、阳光束、柔和的散景光斑、淡色花卉、床头柜、玻璃装饰品和奶油色床铺，所有背景元素在服装后方进行柔焦处理。
+
+主体：将服装居中放置，呈现出仿佛隐形人穿着或整齐展示的人形轮廓。服装包含 2 件单品：1 件象牙白/白色长袖亨利领上衣，带有深圆领和小前扣，腰部有轻微褶皱；1 条浅灰色抽绳长款家居裤，裤腿宽松笔直，布料褶皱自然。布料需呈现出毛绒、舒适且带有轻微罗纹/针织的质感，并具备逼真的阴影和高光。
+
+卡牌布局：添加 4 个主要信息区域：1 个顶部中央标题牌、1 个左侧费用徽章、1 个右侧垂直名称牌以及 1 个左下角特征框。边框应精美华丽，包含金色花丝、水晶宝石、珍珠般的高光、羽翼状装饰以及对称的装饰角。右下角添加一个大型稀有度宝石徽章，中心镶嵌一颗多面虹彩钻石，下方/周围环绕 6 个星形稀有度标志。
+
+文字内容：顶部中央标题显示 {argument name="card title" default="キャミプロ"}。左侧徽章显示小标签 {argument name="cost label" default="コスト"}，上方为大数字 {argument name="cost number" default="17"}。右侧垂直名称牌显示 {argument name="outfit name" default="朝光やわらかヘンリールームセット"}。左下角特征框标题为「特徴」，包含 3 个要点：「白系の長袖ヘンリーネックトップス」、「深めの丸首と前ボタンの細身シルエット」、「グレーのドローストリングロングパンツ」。
+
+视觉风格：超精致的收藏卡牌设计，优雅的奇幻奢华感，温暖的象牙白与香槟金配色，写实的服装质感与插画风格的华丽 UI 元素相结合，高细节，光芒四射，柔和光晕，具备高级稀有卡牌的质感。
+
+约束条件：保持服装作为清晰的视觉中心，不要添加人物或面部，不要添加额外的服装单品，保持 3 个特征要点和 6 个稀有度星标，保留指定的日文文本，避免出现任何 Logo 或水印。
+
+[English]
+Goal: Create a luxurious high-rarity collectible outfit card featuring only a soft loungewear outfit as the main subject, no model, no mannequin head, no face, presented like a premium fantasy game costume card.
+
+Canvas: Vertical portrait card, 3:4 ratio, ornate gold-and-ivory frame filling the full image. Use a warm morning bedroom background with sheer curtains, sunlight beams, soft bokeh sparkles, pale flowers, a bedside table, glass decor, and a cream bed, all softly blurred behind the outfit.
+
+Main subject: Center the outfit front-facing as if invisibly worn or neatly displayed in human shape. The outfit has exactly 2 clothing pieces: 1 ivory/white long-sleeve henley neck top with a deep rounded neckline and small front buttons, gently ruched at the waist; 1 light gray drawstring long lounge pant with relaxed straight legs and soft fabric folds. Make the fabric look plush, comfortable, and slightly ribbed/knit, with realistic shadows and highlights.
+
+Card layout: Add exactly 4 main information areas: 1 top-center title plaque, 1 left cost medallion, 1 right vertical name plaque, and 1 bottom-left feature box. The frame should be elaborate with gold filigree, crystal gems, pearl-like highlights, wing-like flourishes, and symmetrical decorative corners. Add a large jewel rarity crest at the bottom right with a faceted iridescent diamond in the center and exactly 6 star-shaped rarity emblems beneath/around it.
+
+Text content: Top-center title reads {argument name="card title" default="キャミプロ"}. Left medallion reads small label {argument name="cost label" default="コスト"} above a large number {argument name="cost number" default="17"}. Right vertical plaque reads {argument name="outfit name" default="朝光やわらかヘンリールームセット"}. Bottom-left feature box title reads 「特徴」 and contains exactly 3 bullet points: 「白系の長袖ヘンリーネックトップス」, 「深めの丸首と前ボタンの細身シルエット」, 「グレーのドローストリングロングパンツ」.
+
+Visual style: Ultra-polished collectible card design, elegant fantasy luxury, warm ivory and champagne gold palette, photorealistic clothing with illustrated ornate UI elements, high detail, radiant highlights, soft glow, premium rare-card feel.
+
+Constraints: Keep the outfit as the clear central focus, do not add a person or face, do not add extra clothing pieces, keep exactly 3 feature bullets and exactly 6 rarity stars, preserve the Japanese text where specified, avoid logos or watermarks.
+```
+
+**来源：** [@本能に抗えない。](https://x.com/tonomisugi/status/2076154803357696033) | 2026-07-12
+
+---
+

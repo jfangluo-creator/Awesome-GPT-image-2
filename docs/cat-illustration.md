@@ -7608,3 +7608,241 @@ Create a full-body delicate watercolor anime illustration of a floating young ce
 
 ---
 
+### 🎨 例 3863：恶魔职场少女晨间饮酒
+
+![恶魔职场少女晨间饮酒](../../images/%E6%81%B6%E9%AD%94%E8%81%8C%E5%9C%BA%E5%B0%91%E5%A5%B3%E6%99%A8%E9%97%B4%E9%A5%AE%E9%85%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影质感的动漫插画，描绘 {argument name="character name" default="一位疲惫的恶魔上班族少女"} 在温暖的晨光中，于一间小型日式公寓内放松的场景。她盘腿坐在矮木桌旁的坐垫上，身穿白色衬衫、深色开衫、修身黑色职业短裙、黑色丝袜、黑色高跟鞋，并佩戴着蓝色挂绳工牌。她留着长长的浅金色刘海，有着精灵般的尖耳，系着深蓝色蝴蝶结，头顶两只巨大的弯曲黑角，皮肤呈炭灰色，一只红色的眼睛睁开，另一只眼睛俏皮地闭着，身后展开着巨大的黑色蝙蝠翅膀；画面中还要包含一条缠绕在坐垫周围的长长恶魔尾巴。她微微仰头，正从银色啤酒罐中饮酒，嘴里隐约可见灰色的口腔，神情微醺且放松。房间杂乱但温馨：左侧是一扇开着的窗户，挂着薄纱窗帘，窗外可见蓝天和城市建筑，室内有盆栽、木地板，背景中有电视和架子，右侧墙上贴着一张书法海报，上面写着关于早、中、晚饮酒的日文及涂鸦。在矮桌和地板上，请准确展示 7 种不同的饮品/零食：1 本打开的螺旋笔记本，上面写着“工作日但要喝晨间清酒！！”并配有涂鸦笑脸；1 瓶带有日文标签的高大棕色清酒；1 罐标有“STRONG 9% lemon”的柠檬强力罐装饮料；她手中拿着的 1 罐啤酒；1 盘绿色毛豆；1 罐标有恶魔世界晨间饮品字样的深色罐装饮料；以及 1 瓶带有红色恶魔主题日文的高大深色酒瓶。采用高细节的现代动漫渲染风格，左侧呈现柔和的体积光，展现逼真的布料和皮革质感的翅膀，浅景深效果，营造出富有情绪的室内暖色阴影，16:9 横向构图，无水印，无多余角色。
+
+[English]
+Create a cinematic anime illustration of {argument name="character name" default="a tired office-worker demon girl"} relaxing in a small Japanese apartment in warm morning sunlight. She sits on a floor cushion beside a low wooden table, legs crossed, wearing a white blouse, dark cardigan, fitted black office skirt, black stockings, black heels, and a blue lanyard ID badge. She has long pale blonde hair with bangs, pointed elf-like ears, a navy ribbon bow, two large curved black horns, grey charcoal skin, one glowing red eye open while the other eye is winked shut, and huge dark bat wings spread wide behind her; include a long demon tail curling around the cushion. Her mouth is visibly grey inside as she tilts back and drinks from a silver beer can, looking tipsy and relaxed. The room is cluttered but cozy: an open window on the left with sheer curtains, blue sky and city buildings outside, a potted plant, wooden floor, TV and shelves in the background, and a wall calligraphy poster on the right with Japanese writing about drinking morning, noon, and night plus a small doodle. On the low table and floor, show exactly 7 distinct drinking/snack items: 1 open spiral notebook sign reading “weekday but morning sake!!” with a doodled face, 1 tall brown sake bottle with Japanese label, 1 lemon strong canned drink labeled “STRONG 9% lemon,” 1 beer can in her hand, 1 tray of green edamame, 1 dark can labeled like a demon-world morning drink, and 1 tall dark bottle with red demon-themed Japanese lettering. Use highly detailed modern anime rendering, soft volumetric sunlight from the left, realistic fabric and leathery wing texture, shallow depth of field, moody warm interior shadows, 16:9 horizontal composition, no watermark, no extra characters.
+```
+
+**来源：** [@宇宙塵散](https://x.com/ty106834/status/2076453929022591195) | 2026-07-12
+
+---
+
+### 🎨 例 3872：Y2K 短发女孩
+
+![Y2K 短发女孩](../../images/Y2K%20%E7%9F%AD%E5%8F%91%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位可爱的女孩，留着 {argument name="hair style" default="短发"}，身着 {argument name="aesthetic" default="Y2K 风格"}，名字叫 {argument name="name" default="Miss ANRI"}
+
+[English]
+{argument name="スタイル" default="Y2Kスタイル"}の{argument name="髪型" default="ショートヘア"}の可愛い女の子、{argument name="名前" default="ANRI小姐"}
+```
+
+**来源：** [@vevrier90333](https://x.com/vevrier9033833/status/2076347438248722847) | 2026-07-12
+
+---
+
+### 🎨 例 3878：公主大头艺术形象
+
+![公主大头艺术形象](../../images/%E5%85%AC%E4%B8%BB%E5%A4%A7%E5%A4%B4%E8%89%BA%E6%9C%AF%E5%BD%A2%E8%B1%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="art style" default="QT 大头艺术风格"} {argument name="subject" default="公主面部"}
+
+[English]
+{argument name="art style" default="QT Big Head Art"} {argument name="subject" default="Princess Face"}
+```
+
+**来源：** [@Cosmic Cowboy](https://x.com/CosmicCowboyCDN/status/2076335782797672821) | 2026-07-12
+
+---
+
+### 🎨 例 3889：Sol 为仓鼠读书
+
+![Sol 为仓鼠读书](../../images/Sol%20%E4%B8%BA%E4%BB%93%E9%BC%A0%E8%AF%BB%E4%B9%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="character" default="Sol"} 正在为 {argument name="target" default="仓鼠"} 读书
+
+[English]
+{argument name="キャラクター" default="ソル"}が{argument name="対象" default="ハムスター"}に本を読みきかせる
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076314110078357528) | 2026-07-12
+
+---
+
+### 🎨 例 3895：沙漠无人机追逐项目
+
+![沙漠无人机追逐项目](../../images/%E6%B2%99%E6%BC%A0%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%BD%E9%80%90%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为第 3 集 {argument name="episode title" default="沙漠之海反击战"} 创建一个电影级的 9 格科幻动作项目联系表，展示名为 {argument name="character name" default="LiSa"} 的女主角使用滑板在沙漠中躲避外星无人机追击的场景。
+
+画布：宽屏 16:9 的黑色背景项目，排列为 3 列 3 行的网格，共 9 个矩形画格。每个画格都有细黑边框，左上角标有加粗的白色画格编号和时间范围，底部有一行白色小字说明。在右下角添加一个覆盖最终画格区域的大号白色“TO BE CONTINUED...”字样。
+
+视觉风格：超电影级写实概念艺术，暖橙色沙漠色调，尘土飞扬的氛围，强烈的低角度阳光，高对比度，动态模糊，沙粒感，戏剧性的镜头光晕，电影剧照质感，史诗般的科幻追逐能量。女主角是一位粗犷的沙漠冒险家：穿着风化的棕褐色战术装备，配有腰带和绑带，戴着露指手套，头上戴着护目镜，长发在风中飘扬，皮肤沾满尘土，表情坚定。场景是一个广阔的外星沙漠，有破败的石制建筑、岩石峡谷、沙丘、散落的残骸和日落的地平线。外星无人机是深色的机械四轴飞行器，带有红色激光炮火。
+
+布局与画格内容：使用 9 个画格。画格 01 展示女主角从沙漠废墟后冲出，许多外星无人机在尘土飞扬的山谷中追击，红色激光束在天空中交错。画格 02 是一个低角度的近景动作镜头，她蹲在滑板上，全速冲刺，头发飞扬，背景中是无人机。画格 03 展示她踩着滑板爬上巨大的陡峭沙丘，激光从身边掠过，沙子飞溅。画格 04 展示她腾空跃过峡谷，滑板向上倾斜，阳光在侧面显得格外明亮。画格 05 展示她在半空中回身向无人机开火，一架无人机爆炸成火球和碎片。画格 06 主要表现崩塌的沙丘雪崩，巨大的沙墙吞没了追击的无人机，激光在尘土中隐约可见。画格 07 展示她蹲在地上，手中拿着一个发光的蓝色晶体能量装置，表现出任务完成后的氛围。画格 08 展示她从背后看向远方日落下的沙漠废墟城市或塔楼，战斗后的宁静。画格 09 是她的近景肖像，滑板背在肩后，表情严肃地望向远方，伴随着尘土和夕阳的余晖。
+
+文本内容：包含可见的中文项目文本作为一组紧凑的内容，使用此确切的画格文本集：{argument name="panel text set" default="01 敌军追击（0-1秒）|外星无人机群从四面八方追击而来，红色激光在沙漠上空交错。||02 极速冲刺（1-2.5秒）|LiSa踩着滑板全速冲刺，贴地飞行，灵活穿梭躲避激光攻击。||03 冲上沙丘（2.5-4秒）|前方出现巨型沙丘，LiSa加速冲上陡坡，准备一跃而起。||04 高空飞跃（4-5.5秒）|滑板腾空而起，飞跃沙谷，身后无人机紧追不舍，局势危急。||05 空中反击（5.5-7秒）|LiSa在空中回身开火，精准击中无人机，爆炸接连发生。||06 沙崩歼敌（7-8秒）|她引爆沙丘顶部的能量装置，整片沙丘崩塌，掩埋敌人。||07 完成任务（8-9秒）|LiSa取得核心能量装置，任务完成，危机解除。||08 夕阳归途（9-9.5秒）|夕阳西下，LiSa踏上归途，远方的遗迹在余晖中静静矗立。||09 使命继续（9.5-10秒）|LiSa望向远方，新的冒险即将开始……"}。保留最终的英文文本：{argument name="ending text" default="TO BE CONTINUED..."}
+
+约束条件：保持简洁的项目表设计，不要增加额外的画格，除了 LiSa 外不要有其他角色，不要有现代城市元素，不要有水印，不要有 Logo，黑色项目网格之外不要有任何 UI 界面元素。
+
+[English]
+Goal: Create a cinematic 9-panel sci-fi action storyboard contact sheet for episode 3, {argument name="episode title" default="Desert Sea Counterattack"}, showing a heroine named {argument name="character name" default="LiSa"} escaping alien drones across a desert using a sandboard.
+
+Canvas: Wide 16:9 black-background storyboard board, arranged as exactly 9 rectangular frames in a 3-column by 3-row grid. Each panel has a thin black border, a bold white panel number and time range at the top left, and a small white caption line along the bottom. Add a large white “TO BE CONTINUED...” in the bottom-right corner overlapping the final panel area.
+
+Visual style: Ultra-cinematic photorealistic concept art, warm orange desert color grading, dusty atmosphere, harsh low sun, high contrast, motion blur, sand particles, dramatic lens flare, film still quality, epic sci-fi chase energy. The heroine is a rugged desert adventurer: tan weathered tactical outfit, belts and straps, fingerless gloves, goggles on her head, long windblown dark hair, dusty skin, intense determined expression. The setting is a vast alien desert with ruined stone structures, rocky canyons, dunes, scattered wreckage, and a sunset horizon. Alien drones are dark mechanical quadcopter-like machines with red laser fire.
+
+Layout and panel content: Use exactly 9 panels. Panel 01 shows the heroine bursting out of desert ruins from behind, many alien drones pursuing across a dusty valley, red laser beams crisscrossing the sky. Panel 02 is a low close action shot of her crouched on a sandboard, accelerating fast, hair whipping, drones in the background. Panel 03 shows her climbing a huge steep dune on the sandboard as lasers streak past and sand sprays heavily. Panel 04 shows her launching high into the air over a canyon, board angled upward, sun bright at the side. Panel 05 shows her midair firing a pistol back at drones, one drone exploding into fire and debris. Panel 06 is mostly the collapsing sand dune avalanche, massive sand wall swallowing pursuing drones, lasers barely visible through dust. Panel 07 shows her crouched on the ground handling a glowing blue crystalline energy device, mission accomplished mood. Panel 08 shows her from behind looking toward a distant desert ruin city or tower at sunset, calm after the battle. Panel 09 is a close-up portrait of her with the sandboard slung behind her shoulder, serious face looking off into the distance, dust and sunset glow.
+
+Text content: Include the visible Chinese storyboard text as one compact set, using this exact panel text set: {argument name="panel text set" default="01 敌军追击（0-1秒）|外星无人机群从四面八方追击而来，红色激光在沙漠上空交错。||02 极速冲刺（1-2.5秒）|LiSa踩着滑板全速冲刺，贴地飞行，灵活穿梭躲避激光攻击。||03 冲上沙丘（2.5-4秒）|前方出现巨型沙丘，LiSa加速冲上陡坡，准备一跃而起。||04 高空飞跃（4-5.5秒）|滑板腾空而起，飞跃沙谷，身后无人机紧追不舍，局势危急。||05 空中反击（5.5-7秒）|LiSa在空中回身开火，精准击中无人机，爆炸接连发生。||06 沙崩歼敌（7-8秒）|她引爆沙丘顶部的能量装置，整片沙丘崩塌，掩埋敌人。||07 完成任务（8-9秒）|LiSa取得核心能量装置，任务完成，危机解除。||08 夕阳归途（9-9.5秒）|夕阳西下，LiSa踏上归途，远方的遗迹在余晖中静静矗立。||09 使命继续（9.5-10秒）|LiSa望向远方，新的冒险即将开始……"}. Keep the final English text exactly: {argument name="ending text" default="TO BE CONTINUED..."}
+
+Constraints: Maintain a clean storyboard-sheet design, no extra panels, no extra characters besides LiSa, no modern city elements, no watermark, no logos, no UI chrome outside the black storyboard grid.
+```
+
+**来源：** [@PixelAIGC](https://x.com/PixelAigc/status/2076301762160689232) | 2026-07-12
+
+---
+
+### 🎨 例 3915：身着粉色连衣裙的动漫女性坐姿插画
+
+![身着粉色连衣裙的动漫女性坐姿插画](../../images/%E8%BA%AB%E7%9D%80%E7%B2%89%E8%89%B2%E8%BF%9E%E8%A1%A3%E8%A3%99%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E6%80%A7%E5%9D%90%E5%A7%BF%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张动漫风格的全身插画，描绘一位年轻女性在纯白背景的空白处优雅地坐着。她留着 {argument name="hair color" default="柔和深棕色"} 的短波波头，带有侧分刘海，有着温暖的棕色眼睛、白皙的皮肤、温柔羞涩的微笑和淡淡的红晕。她身穿一件 {argument name="dress color" default="灰粉色"} 的优雅吊带裙，领口饰有黑色蕾丝边，佩戴黑色蕾丝颈圈，腰部为紧身黑色束腰设计并带有交叉系带，双臂上佩戴配套的粉色蕾丝臂环，裙摆为及膝飘逸长裙，边缘带有蕾丝装饰。请确保画面中包含 6 个可见的服装/配饰元素：1 件吊带裙、1 个黑色蕾丝颈圈、1 个黑色束腰、2 个粉色蕾丝臂环以及 1 双粉色高跟鞋。让她保持坐姿，双膝并拢，双腿向下倾斜，脚踝靠拢，双手整齐地叠放在膝盖上，肩膀放松，身体略微朝左，面部朝向观众。采用柔和简洁的动漫渲染风格，线条细腻，使用微妙的赛璐珞阴影、平滑的渐变和柔和的色彩，皮肤和织物上有适度的光泽感，构图轻盈通透，留有充足的空白。画面中无文字、无道具、无家具、无背景场景、无水印。
+
+[English]
+Create a full-body anime-style illustration of a single young adult woman seated gracefully in empty space on a plain white background. She has {argument name="hair color" default="soft dark brown"} short wavy bob hair with side-swept bangs, warm brown eyes, fair skin, a gentle shy smile, and a slight blush. She is wearing a {argument name="dress color" default="dusty rose pink"} elegant slip dress with thin shoulder straps, black lace trim around the neckline, a black lace choker, a fitted black corset-style waist panel with crisscross lacing, matching pink lace arm bands on both upper arms, and a knee-length flowing skirt with lace edging. Count exactly 6 visible outfit/accessory elements: 1 slip dress, 1 black lace choker, 1 black corset waist panel, 2 pink lace upper-arm bands, and 1 pair of pink high heels. Pose her sitting with knees together and legs angled downward, ankles close, hands folded neatly on her lap, shoulders relaxed, body facing slightly left while her face looks toward the viewer. Use soft clean anime rendering, delicate line art, subtle cel shading, smooth gradients, pastel colors, modest highlights on the skin and fabric, and a light airy composition with ample blank white space. No text, no props, no furniture, no background scenery, no watermark.
+```
+
+**来源：** [@Hide@独り身はAIと共に](https://x.com/grokrookie/status/2076258790983471120) | 2026-07-12
+
+---
+
+### 🎨 例 3938：魔法少女甜品咖啡馆场景
+
+![魔法少女甜品咖啡馆场景](../../images/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%94%9C%E5%93%81%E5%92%96%E5%95%A1%E9%A6%86%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮、精致的动漫咖啡馆插画，主角为来自 {argument name="series" default="Smile Precure!"} 的五位魔法少女英雄，她们正聚在一起享用甜点。画面采用动态的近景群像构图，部分肢体和头发被画面边缘轻微裁剪。
+
+画布：宽幅 16:9 横向图像，高分辨率动漫主视觉图，色彩鲜艳，线条清晰，带有光泽感的高光，温暖的日光。
+
+场景：舒适的现代甜品咖啡馆，铺设木地板，配有木椅，前景设有一张圆形木桌，背景为大型阳光充足的窗户，窗外可见绿树，悬挂着吊灯，带有柔和的虚化效果和温暖的环境光。
+
+布局：五位角色围绕一张圆桌排列，全部面向观众并露出欢快的表情。画面中必须包含 5 位清晰可见的魔法少女：最左侧前景为 1 位绿色系少女，左中桌后为 1 位蓝色系少女，中央为 1 位粉色系少女，右中站立着 1 位手持托盘的橙色系少女，最右侧坐着 1 位向镜头伸手的黄色系少女。保持镜头近距离且生动，营造出广角感和充满活力的重叠姿态。
+
+角色细节：绿色系英雄拥有非常浓密的长绿发、绿眼睛、白色翅膀发饰、绿色荷叶边魔法少女裙、白手套、金色胸针，她正眨眼并比出剪刀手。蓝色系英雄拥有长蓝发、蓝眼睛、蓝白相间的服装和翅膀头饰，双手捧着茶杯。粉色系英雄拥有明亮的粉色双马尾、粉色眼睛、粉色荷叶边服装，双手托腮，露出兴奋的笑容。橙色系英雄拥有高丸子头配散落卷发的橙色头发、橙色眼睛、橙色魔法少女裙，手持托盘，上面放着一杯高大的芭菲。黄色系英雄拥有巨大的飘逸金黄色长发、金色眼睛、黄色荷叶边服装，一只手伸向观众，露出开朗的笑容。
+
+桌面物品：桌上或托盘上必须包含 8 件清晰可见的甜点和饮品：1 杯高玻璃杯装的绿色哈密瓜苏打浮冰、1 块草莓奶油蛋糕、1 块配有浆果的巧克力蛋糕、1 杯带吸管的橙色饮品、1 块配有水果装饰的瑞士卷、1 个白色茶壶、1 套白色茶杯与茶托，以及橙色系角色托盘上的 1 杯高大水果芭菲。
+
+视觉风格：清爽的日本电视动画插画，多彩的魔法少女美学，表情丰富，大而闪烁的眼睛，精致的荷叶边和蝴蝶结，柔和的赛璐珞阴影，富有光泽的甜点渲染，温暖的午后咖啡馆光影，欢乐的友谊氛围。
+
+约束条件：无文字，无标题，无水印，无 Logo。确保五位角色通过各自的颜色主题和服装清晰可辨。使用 {argument name="art style" default="高质量现代动漫主视觉图"}。营造 {argument name="mood" default="欢快且充满活力"} 的氛围，并采用 {argument name="lighting" default="温暖的阳光咖啡馆光影"}。
+
+[English]
+Goal: Create a bright, polished anime café illustration featuring five magical-girl heroines from {argument name="series" default="Smile Precure!"} enjoying desserts together, in a dynamic close-up group composition with some limbs and hair slightly cropped by the frame.
+
+Canvas: Wide horizontal 16:9 image, high-resolution anime key visual, vibrant colors, clean line art, glossy highlights, warm daylight.
+
+Setting: Cozy modern dessert café with wooden floor and wooden chairs, round wooden table in the foreground, large sunlit windows behind the group, leafy trees visible outside, hanging pendant lamps, soft bokeh and warm ambient light.
+
+Layout: Five characters arranged around one round table, all facing the viewer with cheerful expressions. Use exactly 5 visible magical girls: 1 green girl on the far left in the foreground, 1 blue girl left-center behind the table, 1 pink girl in the center, 1 orange girl standing right-center holding a tray, and 1 yellow girl seated far right reaching toward the camera. Keep the camera close and lively, with a wide-angle feeling and energetic overlapping poses.
+
+Character details: The green heroine has very long voluminous green hair, green eyes, a white winged hair ornament, a green frilled magical-girl dress, white gloves, a gold chest brooch, and she winks while making a peace sign. The blue heroine has long blue hair, blue eyes, a blue-and-white outfit with winged head ornaments, and holds a teacup with both hands. The pink heroine has bright pink twin-tail hair, pink eyes, a pink frilly outfit, and rests her cheeks in her hands with an excited smile. The orange heroine has orange hair in a high bun with loose curled strands, orange eyes, an orange magical-girl dress, and holds a serving tray with a tall parfait. The yellow heroine has huge flowing blonde-yellow hair, golden eyes, a yellow frilly outfit, and extends one hand toward the viewer with a big open smile.
+
+Table items: Include exactly 8 visible dessert and drink items on the table or tray: 1 green melon soda float in a tall glass, 1 strawberry shortcake slice, 1 chocolate cake slice with berries, 1 orange drink with straw, 1 Swiss roll cake slice with fruit garnish, 1 white teapot, 1 white teacup and saucer, and 1 tall fruit parfait on the orange character’s tray.
+
+Visual style: Crisp Japanese TV-anime illustration, colorful magical-girl aesthetic, expressive faces, large sparkling eyes, detailed frills and bows, soft cel shading, glossy dessert rendering, warm afternoon café lighting, joyful friendship atmosphere.
+
+Constraints: No text, no captions, no watermark, no logos. Keep all five characters clearly identifiable by their color themes and costumes. Use {argument name="art style" default="high-quality modern anime key visual"}. Make the mood {argument name="mood" default="cheerful and energetic"} with {argument name="lighting" default="warm sunlit café lighting"}.
+```
+
+**来源：** [@ひゅぺる](https://x.com/hyperboleon/status/2076170587991683331) | 2026-07-12
+
+---
+
+### 🎨 例 3940：动漫刀具日摊位
+
+![动漫刀具日摊位](../../images/%E5%8A%A8%E6%BC%AB%E5%88%80%E5%85%B7%E6%97%A5%E6%91%8A%E4%BD%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="holiday headline" default="7 月 12 日，刀具日"} 创作一幅细节丰富的动漫奇幻市场插画，展示阳光明媚的旅行者集市中的刀具摊位。
+
+画布：16:9 宽屏电影构图，温暖的棕褐色午后光影，高细节的绘画风动漫风格，浅景深，木质市场帐篷，悬挂的帆布遮阳棚，空气中的尘埃和金色背光。
+
+主体：画面中心是一位名为 {argument name="character name" default="Jeannette"} 的娇小猫耳女商人。她留着蓬松的灰金色短发，琥珀色双眼，长着猫耳，表情冷静严肃，身穿实用的冒险者服装：深棕色束腰外套、黑色手套、红色围巾、皮革绑带、小袋，以及一个装满工具、瓶子、睡袋的大背包，身后背着一把巨大的带鞘长刀。她右手竖直拿着一把小刀，左手做出手势，仿佛正在为顾客提供建议。
+
+顾客：在摊位周围展示 3 位顾客：左侧是一位背对着观众、身披绿色斗篷且背负长剑的棕发男性冒险者；右侧是一位戴着深色头带和肩甲的红发男性冒险者；右下角边缘处可见一位金发顾客的局部。
+
+刀具陈列：前台柜台上整齐排列着 18 把刀具和小刃，放置在木板和皮革上，包括实用刀、生存刀、古风刀刃、折叠刀和短匕首。此外，展示 3 把非柜台上的显眼刀刃：左上角标题附近有一把悬浮的刀，商人手中拿着一把小刀，以及她身后背着的一把超大刀刃。可见刀具/刃具总数：正好 21 把。
+
+布局与标识：在左上角放置大型书法风格的日文活动文本，使用以下确切措辞：{argument name="Japanese event text" default="7月12日\nナイフの日\n切れ味は、信頼の証。"}。在商人旁边添加一个对话气泡，内容为日文：{argument name="speech bubble text" default="用途と予算を言ってくれれば、合うものを選ぶ。"}。在柜台上放置一个木制铭牌，用日文标明商人的身份：{argument name="merchant placard text" default="旅商人「ジャム」こと\nジェネット\n道具と情報の専門家。\nハイエナ族の旅商人。"}。在柜台沿线放置 3 个小型木制分类牌：左侧牌为实用刀具，中间牌为生存刀具，右侧牌为古代文明刀刃。在右后方放置一块竖向木制项目，用日文列出服务内容：收购遗物、材料、信息；出售工具、药品、地图等；咨询免费。
+
+视觉风格：高质量日本轻小说关键视觉图，精细的线条，柔和的绘画风阴影，刀刃上逼真的金属反射，磨损的皮革质感，背景中有木箱和市场杂物，温暖的高光与冷色调阴影，沉浸式的奇幻 RPG 贸易站氛围。
+
+约束：所有文字保持手写或毛笔书法风格，清晰易读但自然地融入插画中。不要添加额外的角色、额外的分类标志、现代物品、徽标或水印。
+
+[English]
+Goal: Create a richly detailed anime fantasy marketplace scene celebrating {argument name="headline text" default="Knife Day"} with Japanese poster-style typography and a knife merchant stall.
+
+Canvas: Wide 16:9 illustration, warm cinematic lighting, high-detail painterly anime style, dusty outdoor bazaar under beige cloth awnings, sunbeams and haze in the background, earthy browns, ochres, leather, wood, and muted metal highlights.
+
+Layout: The central focus is a young cat-eared female merchant standing behind a wooden counter full of knives. Place large Japanese event text in the upper left, a speech bubble near the merchant’s head, a wooden shop sign on the right wall, a nameplate sign on the front of the stall, and three small product-description placards along the counter. Two customers are seen from behind in the foreground left and right, with a partial third blond head at the bottom right edge.
+
+Subject details: The merchant is {argument name="character name" default="Jeannette"}, a small serious-looking beastkin/anime girl with fluffy tan cat ears, short messy ash-blond hair, amber eyes, and a calm businesslike expression. She wears a dark brown adventurer coat with belts and straps, black gloves, and a deep red scarf. She holds a small knife upright in her right hand and gestures with her left palm open. Behind her is an oversized traveler’s backpack packed with tools, sheathed blades, rolled gear, red and green glass flasks, and a large sword or blade rising over her shoulder.
+
+Foreground customers: Include exactly 3 visible customers: 1 dark-haired male adventurer on the left with a green cloak, backpack, and sword hilt over his shoulder; 1 red-haired male adventurer on the right with a dark headband and armor visible from behind; 1 partial blond-haired person at the lower right edge, only the head and shoulder visible.
+
+Knife display: Show exactly 18 distinct knives/blades laid out across the front counter, varying in size and type: practical utility knives, hunting knives, survival knives, daggers, folding knives, a cleaver-like blade, and several ancient-style blades. They should rest on leather rolls and wooden boards, with realistic metal reflections and worn handles.
+
+Text content: Use visible Japanese calligraphy/handwritten signage. Upper left main text should read “7月12日” and “ナイフの日”, with the subtitle “切れ味は、信頼の証。” A speech bubble near the merchant should read “用途と予算を言ってくれれば、合うものを選ぶ。” The central nameplate should introduce the merchant, reading “旅商人「ジャム」こと ジェメット 道具と情報の専門家。ハイエナ族の旅商人。” On the right wooden shop board, include two sections: “買います” with “遺跡の品・素材・情報”, and “売ります” with “道具・薬・地図・その他いろいろ”, ending with “相談は無料だ。気軽にどうぞ。” Product placards on the counter must be exactly 3: left “実用ナイフ 日用品から戦闘用まで 各種取り揃え。” center “サバイバルナイフ 過酷な環境を生き抜く 冒険者の必需品。” right “古代文明の刃 切れ味は現代を超える。が、売れにくい。”
+
+Visual style: Detailed Japanese light-novel/anime illustration, semi-realistic props, sharp linework with painterly shading, warm backlight, soft atmospheric depth, believable clutter, parchment signage, no modern objects. Keep the composition readable like an event poster while preserving the lively market-stall narrative.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2076169304417141092) | 2026-07-12
+
+---
+
+### 🎨 例 3960：复古少女动漫风格女孩与猫
+
+![复古少女动漫风格女孩与猫](../../images/%E5%A4%8D%E5%8F%A4%E5%B0%91%E5%A5%B3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A5%B3%E5%AD%A9%E4%B8%8E%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超精细的复古日本动漫插画，灵感源自 20 世纪 80 年代末至 90 年代初真实的少女赛璐珞动画。描绘一位 {argument name="subject" default="美丽的年轻女性"}，她拥有瓷器般的肌肤、迷人的水晶蓝双眸、柔顺的黑色长发与轻盈的八字刘海，神情从容自信。她身着一件 {argument name="clothing" default="象牙色复古大码衬衫"}，搭配叠戴的氧化银项链、黑色皮质颈圈、圆环耳环及精致手链。她温柔地怀抱着一只 {argument name="animal" default="毛茸茸的长毛棕色虎斑猫"}，猫咪带有奶油色与白色的斑纹，两人均看向镜头。背景设为简约的柔灰色，带有细腻的纸张纹理，以突出人物主体。使用柔和的漫射摄影棚灯光进行照明，营造出优雅的赛璐珞阴影效果与柔和的明暗对比。采用真实的手绘赛璐珞动画风格渲染，呈现干净的复古墨线、细腻的胶片颗粒感、怀旧的色彩分级、绘画质感以及超高分辨率的重制版动漫品质。
+
+[English]
+Create an ultra-detailed retro Japanese anime illustration inspired by authentic late-1980s and early-1990s shoujo cel animation. Depict a {argument name="subject" default="beautiful young woman"} with porcelain skin, striking crystal-blue eyes, long flowing raven-black hair with soft curtain bangs, and calm confident expression. She wears an {argument name="clothing" default="oversized ivory vintage blouse"} accessorized with layered oxidized silver necklaces, a black leather choker, hoop earrings, and delicate bracelets. She gently cradles a {argument name="animal" default="fluffy long-haired brown tabby cat"} with cream and white markings, both looking toward the viewer. Place them against a simple soft grey background with subtle paper texture to emphasize the characters. Illuminate the portrait using soft diffused studio lighting that produces elegant cel-shaded highlights and gentle shadows. Render with authentic hand-painted cel animation, clean vintage ink linework, delicate film grain, nostalgic color grading, painterly textures, and ultra-high-resolution remastered anime quality.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2076125026273972480) | 2026-07-12
+
+---
+

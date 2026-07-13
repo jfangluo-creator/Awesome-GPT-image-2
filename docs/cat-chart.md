@@ -3320,3 +3320,146 @@ Constraints: Preserve the exact count of 8 ranked tools, 5 tier bands, 8 rating 
 
 ---
 
+### 📊 例 3864：推理上下文与 Prompt Cache 演示幻灯片
+
+![推理上下文与 Prompt Cache 演示幻灯片](../../images/%E6%8E%A8%E7%90%86%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%8E%20Prompt%20Cache%20%E6%BC%94%E7%A4%BA%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张 16:9 的日文商务/技术信息图幻灯片，展示连续推理上下文和显式 Prompt Cache 如何提高长周期任务的效率。采用精致的 PowerPoint 原生信息图风格，包含密集但易读的说明文字。
+
+画布：16:9 横向幻灯片，暖米白色背景，深蓝色文字，青色和橄榄绿强调色，细圆角边框，柔和阴影，宽裕的页边距。不使用照片级真实元素；使用扁平化矢量图标和清晰的排版。
+
+顶部文本区域：在左上角放置一个醒目的大号日文标题：{argument name="headline text" default="持续推理与显式缓存提升长周期任务效率"}。下方添加一句较小的半粗体引导句：{argument name="lead text" default="通过选择性保留过往轮次的推理和可重用的 Prompt，可以提升一致性和效率，但需要根据前提变更和使用频率来设计保存范围。"}
+
+主要布局：引导句下方并排放置两个大型圆角矩形面板。左侧面板为青色，标题为“reasoning.context”；右侧面板为橄榄绿，标题为“显式 Prompt Cache”。用细线和一个位于底部中心的小圆形链条图标连接两个面板，暗示推理上下文与缓存之间的协调。右侧面板附近有一个指向它的小型绿色向上箭头。
+
+左侧面板细节：最左侧包含 3 个垂直堆叠的轮次标记，由带向下箭头的垂直线连接。标记分别标注为“1 轮次”、“2 轮次”和“3 轮次”。每个标记旁边显示一个小人图标和对话气泡。右侧包含 3 个水平圆角卡片，带有青色图标块和日文说明文字：1) 齿轮图标，“auto｜利用模型的默认行为”；2) 清单图标，“all_turns｜在多个轮次中重用稳定的目标、前提和优先级”；3) 时钟图标，“current_turn｜在不再需要之前推理的场景下，仅限于当前轮次”。
+
+右侧面板细节：包含 3 个水平圆角卡片，带有橄榄色图标块和日文说明文字：1) 文档图标，“开发者指定要重用的公共前缀”；2) 数据库圆柱图标，“缓存写入成本通常为输入单价的 1.25 倍”；3) 百分比标签图标，“读取会有折扣，因此重复利用的次数决定了效果”。
+
+底部结论栏：在底部创建一个带有细黄色边框的宽圆角矩形标注框。在标注框左侧放置一个带箭头的金色目标图标。右侧放置一句醒目的日文结论：{argument name="conclusion text" default="在提升长周期任务一致性和效率的同时，当前提发生变更时，需要设计切断过往推理或不必要缓存的机制"}。
+
+视觉风格：日式企业幻灯片设计，清晰的矢量线条图标，圆角矩形，浅米色背景，青色左侧区域，橄榄色右侧区域，黄色结论强调，强烈的层级感，高度可读的日文无衬线字体，无装饰性杂乱元素。
+
+约束：保留元素的精确数量：2 个主面板，3 个左侧轮次标记，3 个左侧选项卡，3 个右侧缓存卡，1 个中央链条连接器，1 个底部结论标注框，以及 1 个目标图标。不要添加额外的面板、卡片、水印、Logo 或装饰性字符。保持幻灯片内所有文字清晰易读。
+
+[English]
+Goal: Create a clean 16:9 Japanese business/technical infographic slide about how continuous reasoning context and explicit prompt caching improve long-running task efficiency. Use a polished PowerPoint-native infographic look with dense but readable explanatory text.
+
+Canvas: 16:9 landscape slide, warm off-white background, dark navy text, teal and olive green accent colors, thin rounded borders, subtle shadows, generous margins. Leave no photo-realistic elements; use flat vector icons and crisp typography.
+
+Top text area: Place a large bold Japanese headline at the top left: {argument name="headline text" default="継続推論と明示的キャッシュが長期タスクを効率化"}. Under it, add a smaller semibold lead sentence: {argument name="lead text" default="過去ターンの推論と再利用可能なプロンプトを選択的に保持することで一貫性と効率を高められるが、前提変更や利用回数を踏まえて保存範囲を設計する必要がある。"}
+
+Main layout: Two large rounded rectangular panels sit side by side beneath the lead sentence. The left panel is teal and titled “reasoning.context”; the right panel is olive green and titled “明示的プロンプトキャッシュ”. Connect the panels with a thin line and a small circular chain-link icon centered between them near the bottom, suggesting coordination between reasoning context and cache. A small upward green arrow near the right panel points back toward it.
+
+Left panel details: Include exactly 3 vertically stacked turn markers on the far left, connected by a vertical line with a downward arrow. The markers are labeled “1ターン”, “2ターン”, and “3ターン”. Next to each marker, show a small person icon and speech bubble. To the right, include exactly 3 horizontal rounded cards with teal icon blocks and Japanese explanatory text: 1) gear icon, “auto｜モデルの既定動作を利用”; 2) checklist icon, “all_turns｜安定した目標、前提、優先順位を複数ターンで再利用”; 3) clock icon, “current_turn｜以前の推論が不要になった場面で現在ターンに限定”.
+
+Right panel details: Include exactly 3 horizontal rounded cards with olive icon blocks and Japanese explanatory text: 1) document icon, “再利用する共通プレフィックスを開発者が指定”; 2) database cylinder icon, “キャッシュ書き込みは通常入力単価の1.25倍”; 3) percent tag icon, “読み出しは割引されるため、反復利用の回数が効果を左右する”.
+
+Bottom conclusion band: Across the bottom, create one wide rounded rectangle callout with a thin yellow border. On the left of the band place a gold target icon with an arrow. To the right, place a bold Japanese conclusion: {argument name="conclusion text" default="長期タスクの一貫性と効率を高める一方、前提変更時には過去の推論や不要なキャッシュを切り離す設計が必要"}.
+
+Visual style: Japanese corporate slide design, crisp vector line icons, rounded rectangles, light cream background, teal left section, olive right section, yellow conclusion accent, strong hierarchy, highly legible Japanese sans-serif typography, no decorative clutter.
+
+Constraints: Preserve the exact count of elements: 2 main panels, 3 left turn markers, 3 left option cards, 3 right cache cards, 1 central chain-link connector, 1 bottom conclusion callout, and 1 target icon. Do not add extra panels, extra cards, watermarks, logos, or decorative characters. Keep all slide text inside the infographic sharp and readable.
+```
+
+**来源：** [@炎鎮🔥 - ₿onochin -](https://x.com/super_bonochin/status/2076449091765375357) | 2026-07-12
+
+---
+
+### 📊 例 3882：带有蓝图叠加层的技术产品信息图
+
+![带有蓝图叠加层的技术产品信息图](../../images/%E5%B8%A6%E6%9C%89%E8%93%9D%E5%9B%BE%E5%8F%A0%E5%8A%A0%E5%B1%82%E7%9A%84%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+关于 {argument name="product name" default="[产品名称]"} 的高级技术信息图。
+仅参考图像以了解物体的形状和结构，请勿复制相同的照片、角度、构图或背景。以全新的专业写实风格重新诠释主体，要求画面整洁、光线充足，并配以合适且更具美感的背景。物体应保持真实照片质感，而非插画。添加技术蓝图风格的叠加层，包含白色线条、箭头、尺寸标注、标签以及关于零件、材质、测量数据和功能的小型图示。
+构图清晰、优雅且信息丰富。
+在左上角包含一个草图框，标题为“{argument name="title" default="[名称]"}”。
+
+[English]
+Premium technical infographic of {argument name="product name" default="[product name ]"}.
+Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an
+illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.
+Clear, elegant, and informative composition.
+Include a sketch box in the upper left corner with the title "{argument name="title" default="[name]"} ".
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2076325223490888066) | 2026-07-12
+
+---
+
+### 📊 例 3900：Pachinko 物理调试布局
+
+![Pachinko 物理调试布局](../../images/Pachinko%20%E7%89%A9%E7%90%86%E8%B0%83%E8%AF%95%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色调的 Pachinko 机器项目布局技术调试可视化图，展示球体通道、碰撞轨道、钉子、命名的游戏区域以及模拟的球体轨迹。
+
+画布：4:5 比例的方形技术图表，背景为近乎黑色的酒红色，具有透明工程叠加层的质感。在布局后方使用深栗色的块状矩形障碍物轮廓网格。
+
+主要布局：绘制一个占据几乎整个画布的大型 Pachinko 项目。项目由粗壮的角状金棕色轨道构成：外围有一个大的椭圆形/八边形环，中央空心区域周围有一个大的多边形内环，底部和右下角有几个短轨道段。保持轨道厚实、带有斜角且略微半透明，看起来像调试用的碰撞几何体。
+
+轨迹路径：在轨道和通道上添加 5 条细长的霓虹灯球体路径轨迹：1 条青色路径紧贴最左侧的发射通道，1 条亮粉色路径在左边缘和底部出口附近穿梭，1 条柠檬绿路径从左上角弯曲穿过左中区域并向下延伸至底部，1 条红色路径急剧穿过左中和左上区域，以及 1 条黄色路径沿着左侧外弧线移动。路径应相互重叠，看起来像模拟的 Pachinko 球体运动，带有急转弯和曲线段。
+
+调试区域：绘制青色虚线矩形区域框，并带有小型青色标签。包含 7 个标记区域：“region:JACKPOT_1”位于左中，“region:STATIC”位于左下/中部附近，“region:START”位于中下部，“region:LUCKY”位于右下中部，“region:LAUNCHER”位于右下角，“region:OUT”位于左下出口区域，以及沿左侧的一条长虚线发射/通道区域。
+
+钉子与标签：添加 15 个小型绿色方形钉子标记，并配有绿色调试标签。将它们放置在中央项目周围：2 个靠近左上角，标记为“peg-left-top-1”和“peg-left-top-2”；3 个靠近顶部中心，标记为“peg-center-top-1”、“peg-center-top-2”和“peg-1”；3 个在右上角，标记为“peg-right-top-1”、“peg-right-top-2”和“peg-right-path-2”；3 个在右下/右中，标记为“peg-right-path-1”、“peg-lucky-guide”和“peg-right-pocket-1”；4 个在左下/左中，标记为“peg-left-path-1”、“peg-left-pocket-1”、“peg-start-left”和“peg-start-right”。标签应保持小巧、纤细且为绿色，如同游戏引擎编辑器的叠加层。
+
+其他细节：在左中部的 Jackpot 区域附近包含一个微小的青色数字框，显示“19”。在左上通道附近添加一些红色引导三角形和线条碎片。该图表应看起来像 GPT 生成的游戏布局审查截图，而非精美的 UI 艺术作品。
+
+视觉风格：低光调试渲染，深栗色和黑色调色板，金色碰撞轨道，青色虚线 UI 叠加层，绿色钉子注释，霓虹轨迹线。无写实感，无角色，无真实的 Pachinko 机器机柜，无装饰性动漫艺术。
+
+可自定义概念：将布局构建为 {argument name="machine type" default="pachinko"} 物理调试地图，标题隐含 {argument name="gameplay focus" default="ball trajectory and lane review"}。使用轨道颜色 {argument name="rail color" default="muted golden brown"}，背景颜色 {argument name="background color" default="near-black burgundy"}，以及轨迹颜色 {argument name="trajectory colors" default="cyan, hot pink, lime green, red, yellow"}。
+
+[English]
+Goal: Create a dark technical debug visualization of a pachinko machine playfield layout, showing ball lanes, collision rails, pegs, named gameplay regions, and simulated ball trajectories.
+
+Canvas: Square-ish 4:5 technical diagram on a nearly black burgundy background, with a transparent-engineering-overlay feel. Use a dark maroon grid of blocky rectangular obstacle silhouettes behind the layout.
+
+Main layout: Draw a large pachinko board occupying almost the full canvas. The board is formed by thick angular golden-brown rails: one large outer oval/octagonal loop around the perimeter, one large inner polygonal ring around an empty central dark void, and several short rail segments near the bottom and lower-right. Keep the rails chunky, beveled, and slightly translucent, like debug collision geometry.
+
+Trajectory paths: Add exactly 5 thin neon ball-path traces over the rails and lanes: 1 cyan path hugging the far-left launch lane, 1 hot pink path weaving near the left edge and bottom exit, 1 lime green path that curves from the upper-left across the mid-left and down to the bottom, 1 red path that crosses sharply through the left-middle and upper-left, and 1 yellow path following the outer left arc. The paths should overlap and look like simulated pachinko ball travel, with sharp turns and curved segments.
+
+Debug regions: Draw dashed cyan rectangular region boxes with small cyan labels. Include exactly 7 labeled regions: "region:JACKPOT_1" at left-middle, "region:STATIC" near the lower-left/middle, "region:START" centered lower-middle, "region:LUCKY" right-lower-middle, "region:LAUNCHER" bottom-right, "region:OUT" lower-left exit area, and one tall dashed launch/channel region along the left side.
+
+Pegs and labels: Add exactly 15 small green square peg markers with green debug labels. Place them around the central playfield: 2 near the upper-left labeled "peg-left-top-1" and "peg-left-top-2"; 3 near the top center labeled "peg-center-top-1", "peg-center-top-2", and "peg-1"; 3 on the upper-right labeled "peg-right-top-1", "peg-right-top-2", and "peg-right-path-2"; 3 on the lower-right/lower-middle labeled "peg-right-path-1", "peg-lucky-guide", and "peg-right-pocket-1"; 4 in the lower-left/lower-middle labeled "peg-left-path-1", "peg-left-pocket-1", "peg-start-left", and "peg-start-right". Make labels small, thin, and green, as if from a game-engine editor overlay.
+
+Additional details: Include one tiny cyan number box reading "19" near the left-middle jackpot area. Add a few small red guide triangles and line fragments near the top-left lane. The diagram should look like a GPT-generated game-layout review screenshot rather than polished UI art.
+
+Visual style: Low-light debug render, dark maroon and black palette, golden collision rails, cyan dashed UI overlays, green peg annotations, neon trajectory lines. No photorealism, no characters, no real pachinko machine cabinet, no decorative anime art.
+
+Customizable concept: Build the layout as a {argument name="machine type" default="pachinko"} physics debug map titled by implication around {argument name="gameplay focus" default="ball trajectory and lane review"}. Use rail color {argument name="rail color" default="muted golden brown"}, background color {argument name="background color" default="near-black burgundy"}, and trajectory colors {argument name="trajectory colors" default="cyan, hot pink, lime green, red, yellow"}.
+```
+
+**来源：** [@Maoku](https://x.com/Maoku/status/2076296169307967967) | 2026-07-12
+
+---
+
+### 📊 例 3929：ASMR 开箱分镜信息图
+
+![ASMR 开箱分镜信息图](../../images/ASMR%20%E5%BC%80%E7%AE%B1%E5%88%86%E9%95%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁、高级的产品 ASMR 开箱视频分镜信息图。设计规范：白色背景，现代极简布局。顶部标题：STORYBOARD。产品名称以绿色粗体显示（替换为：{argument name="product name" default="[产品名称]"}）。副标题：ASMR UNBOXING。在标题下方包含四个信息框：时长：30 秒，风格：第一人称视角 (POV) 手部特写、ASMR，受众：{argument name="audience" default="18–35 岁"}，音频建议：柔和 ASMR • 揉捏声 • 轻敲声 • 倾倒声。创建 {argument name="number of panels" default="12"} 个分镜面板，按 3 列 × 4 行网格排列。每个面板应包含：一个绿色数字徽章 (1–12)、时间戳 (0–2.5s, 2.5–5s 等)、展示场景的逼真电影感图像、手写风格的白色涂鸦文字，如：TA-DA! POP! WOW! PICK! CRINKLE~ TEAR! POUR~ HOT WATER STIR~ SMOOTH! BEST! 每张图像下方有三个文本部分：视觉 (VISUAL)：动作 (ACTION)：对话 (DIALOGUE)：使用逼真的产品摄影、暖色调木桌、柔和自然光、浅景深、仅限第一人称视角 (POV) 手部（不露脸）、高端商业广告风格。分镜序列：1 (0–2.5s) 视觉：木桌上的产品盒。动作：手进入画面并指向盒子。对话：“你试过这个吗？” 2 (2.5–5s) 视觉：打开盒子。动作：缓慢掀开顶盖。对话：“让我们一起开箱吧。” 3 (5–7.5s) 视觉：整齐排列的多个独立小袋。动作：完全展示内部。对话：“哇，看这里有多少！” 4 (7.5–10s) 视觉：拿起一个小袋。动作：取出一个条状包装。对话：“我们先从一个开始。” 5 (10–12.5s) 视觉：小袋特写。动作：握住并轻轻揉捏。对话：“这个揉捏声真治愈。” 6 (12.5–15s) 视觉：撕开顶部。动作：缓慢的 ASMR 撕开动作。对话：“轻轻撕开一小口。” 7 (15–17.5s) 视觉：可见内部粉末。动作：展示粉末特写。对话：“看起来很美味。” 8 (17.5–20s) 视觉：将粉末倒入杯中。动作：缓慢倾倒。对话：“全部倒进去。” 9 (20–22.5s) 视觉：倒入热水。动作：可见蒸汽。对话：“加入热水。” 10 (22.5–25s) 视觉：搅拌饮料。动作：缓慢画圈搅拌。对话：“搅拌均匀。” 11 (25–27.5s) 视觉：成品饮料。动作：从上方展示奶油质感。对话：“看起来顺滑又浓郁。” 12 (27.5–30s) 视觉：产品盒放在成品饮料旁，并竖起大拇指。动作：手部竖起大拇指。对话：“简单、美味，搞定！” 页脚：总时长：30 秒，格式：竖屏 (9:16)，风格：第一人称视角 (POV) 手部特写、ASMR 开箱。排版应类似于专业创意代理公司的分镜稿，具有整洁的间距、绿色点缀、圆角面板边框，以及适合客户提案的高端呈现效果。
+
+[English]
+Create a clean, premium storyboard infographic for a product ASMR unboxing video. Design specifications: White background with a modern, minimalist layout. Title at the top: STORYBOARD. Product name in bold green (replace with: {argument name="product name" default="[PRODUCT NAME]"}). Subtitle: ASMR UNBOXING. Include four information boxes below the title: Duration: 30 Seconds, Style: POV Hands, ASMR, Audience: {argument name="audience" default="18–35 years old"}, Audio Suggestion: Soft ASMR • Crinkles • Tapping • Pouring. Create {argument name="number of panels" default="12"} storyboard panels arranged in a 3-column × 4-row grid. Each panel should contain: A numbered green badge (1–12), Timestamp (0–2.5s, 2.5–5s, etc.), A realistic cinematic image showing the scene, Handwritten white doodle text like: TA-DA! POP! WOW! PICK! CRINKLE~ TEAR! POUR~ HOT WATER STIR~ SMOOTH! BEST! Three text sections below every image: VISUAL: ACTION: DIALOGUE: Use realistic product photography, warm wooden table, soft natural lighting, shallow depth of field, POV hands only (no face visible), premium commercial advertising style. Storyboard sequence: 1 (0–2.5s) Visual: Product box on wooden table. Action: Hands enter frame and point to the box. Dialogue: "Have you tried this before?" 2 (2.5–5s) Visual: Opening the box. Action: Lift the top flap slowly. Dialogue: "Let's unbox it together." 3 (5–7.5s) Visual: Multiple individual sachets neatly arranged. Action: Fully reveal the inside. Dialogue: "Wow, look how many!" 4 (7.5–10s) Visual: Pick up one sachet. Action: Remove a single stick pack. Dialogue: "Let's start with one." 5 (10–12.5s) Visual: Close-up of sachet. Action: Hold and gently crinkle it. Dialogue: "That crinkle sound is satisfying." 6 (12.5–15s) Visual: Tear open the top. Action: Slow ASMR tearing. Dialogue: "Just a small tear." 7 (15–17.5s) Visual: Powder visible inside. Action: Show the powder close-up. Dialogue: "Looks delicious." 8 (17.5–20s) Visual: Pour powder into mug. Action: Slow pouring. Dialogue: "Pour everything in." 9 (20–22.5s) Visual: Hot water being poured. Action: Steam visible. Dialogue: "Add hot water." 10 (22.5–25s) Visual: Stir drink. Action: Slow circular stirring. Dialogue: "Mix it well." 11 (25–27.5s) Visual: Finished drink. Action: Show creamy texture from above. Dialogue: "Looks smooth and creamy." 12 (27.5–30s) Visual: Product box beside finished drink with thumbs up. Action: Hand gives thumbs up. Dialogue: "Easy, delicious, and ready!" Footer: Total Duration: 30 Seconds, Format: Vertical (9:16), Style: POV Hands, ASMR Unboxing. Typography should resemble a professional creative agency storyboard, with clean spacing, green accents, rounded panel borders, and high-end presentation suitable for client pitches.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2076202198888022135) | 2026-07-12
+
+---
+

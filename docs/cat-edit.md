@@ -2682,3 +2682,21 @@ Transform the original mirror selfie into a {argument name="art style" default="
 
 ---
 
+### 🔧 例 3924：老照片修复与上色
+
+![老照片修复与上色](../../images/%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E4%B8%8A%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在不失真前提下，提升整体清晰度、锐度以及 {argument name="resolution" default="达到高质量照片标准的解析度"}。如果图像是黑白照片，请将其转换为 {argument name="skin tone" default="基于典型印度肤色的逼真自然色彩"}，并还原自然的头发和眼睛颜色，以及 {argument name="clothing style" default="传统服饰"}。确保背景和光影平滑且自然，与原始摄影棚风格保持一致。最终效果应呈现为完美保存的真实照片，而非 AI 生成或风格化图像，且必须忠实于原始图像，做到：不改变面部特征、不柔化表情、不进行美颜修饰。
+
+[English]
+Enhance overall clarity, sharpness, and {argument name="resolution" default="resolution to high-quality photo standards"} without losing authenticity. If the image is black and white, convert it to {argument name="skin tone" default="realistic natural color based on typical Indian skin tones"}, natural hair and eye colors, and {argument name="clothing style" default="traditional clothing"}. Ensure the background and lighting are smooth and neutral, matching the original studio look. The final result should look like a perfectly preserved real photograph, not AI-generated or stylized, and must reflect the original image with: No facial change No softening of expressions No cosmetic enhancement.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2076225553791922380) | 2026-07-12
+
+---
+
