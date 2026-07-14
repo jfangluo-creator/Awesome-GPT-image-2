@@ -8157,3 +8157,133 @@ Constraints: Keep all visible UI text legible and in Japanese exactly as specifi
 
 ---
 
+### 🖥️ 例 3973：英格兰足球英雄概念艺术
+
+![英格兰足球英雄概念艺术](../../images/%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%B6%B3%E7%90%83%E8%8B%B1%E9%9B%84%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身英雄角色概念插画，主角为 {argument name="footballer name" default="Jude Bellingham"}，展现其作为英格兰精英足球运动员的风采。他以自信的对立式平衡姿势站立，一只脚踩在足球上。他是一位年轻健壮的黑人男性，留着短而有质感的黑色头发，面部轮廓分明，四肢修长且肌肉发达，眼神坚定地向上望去。为他穿上整洁的英格兰国家队队服：带有蓝色饰边的白色短袖球衣，胸前印有英格兰队徽和 Nike 对勾标志，球衣和短裤上印有红色的 {argument name="kit number" default="10"} 号，搭配白色短裤、带有红蓝细条纹的长筒白袜以及白色足球鞋。在他前方的脚下放置一个写实的图案足球。在人物周围环绕着 {argument name="paint colors" default="red and blue"} 的戏剧性漩涡状笔触，在他身后和身体周围形成动态的垂直螺旋，如同流动的国家色彩，并带有飞溅效果和粗犷的笔触边缘。采用精致的动漫漫画运动概念艺术风格，运用棱角分明的墨线、绘画感阴影、夸张的解剖结构、强壮的小腿和手臂线条、清晰的织物褶皱以及英雄般的时尚插画剪影。背景应为带有极简纹理的暖白色纸张，无体育场，无观众，无文字，构图居中，垂直海报格式，从头部到靴子全身可见，高细节，干净的留白，戏剧性且优雅。
+
+[English]
+Create a full-body heroic character concept illustration of {argument name="footballer name" default="Jude Bellingham"} as an elite England footballer, standing tall in a confident contrapposto pose with one foot resting on a football. He is a young athletic Black male with short textured black hair, sharp facial features, long muscular limbs, and an intense upward-looking expression. Dress him in a clean white England national team kit: white short-sleeve jersey with blue trim, England crest on the chest, Nike swoosh, red number {argument name="kit number" default="10"} on the jersey and shorts, white shorts, long white socks with subtle red and blue stripes, and white football boots. Place a realistic patterned football under his forward foot. Surround the figure with dramatic swirling paint strokes in {argument name="paint colors" default="red and blue"}, forming a dynamic vertical spiral behind and around his body like national colors in motion, with splatters and rough brush edges. Use a polished anime-comic sports concept art style with angular ink lines, painterly shading, exaggerated anatomy, strong calf and arm definition, crisp fabric folds, and a heroic fashion-illustration silhouette. The background should be warm off-white paper with minimal texture, no stadium, no crowd, no text, centered composition, vertical poster format, full figure visible from head to boots, high detail, clean negative space, dramatic but elegant.
+```
+
+**来源：** [@nonformula](https://x.com/nonformula/status/2076783556349571274) | 2026-07-13
+
+---
+
+### 🖥️ 例 3984：Voxel AI 网站搭建信息图
+
+![Voxel AI 网站搭建信息图](../../images/Voxel%20AI%20%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张方形的 Voxel 艺术风格日式信息图海报，展示如何使用极简工具搭建大量 AI 网站，采用温暖的米色 Minecraft 风格方块美学。
+
+画布：1:1 正方形构图，768x768 风格，柔和的摄影棚灯光，棕褐色纸张与木质背景，角落处有微妙的 Voxel 方块，清晰的等距像素/Voxel 边缘，浅阴影，非写实风格。
+
+主标题区域：在顶部放置一个大型奶油色斜面标牌，上面带有块状日文文本 {argument name="headline text" default="300超 AIサイト構築"}。将“300超”设为亮橙红色，“AIサイト構築”设为黑色。在标题下方，附加一个居中的小型米色标签，文字为 {argument name="subtitle text" default="実績"}。使用厚实的挤压式 Voxel 字体。
+
+中心布局：在标题下方，创建一个带有装饰性阶梯边框的大型奶油色框架面板。在面板内部，将内容分为三个垂直区域：左侧清单、中心工作流程插图、右侧清单。区域之间使用虚线垂直分隔线。
+
+左侧清单：标题标签为 {argument name="left section title" default="不要"}。展示 4 个弃用项，每个项左侧带有大型黑色 Voxel X 图标，右侧带有小型奶油色标签。4 个标签从上到下依次为：「フィグマ」、「フレーマー」、「ウェブフロー」、「コード」。
+
+中心工作流程插图：垂直堆叠展示 3 个主要元素：1) 一个黑色电脑显示器，显示带有橙色和米色线条的简单代码/编辑器窗口；2) 一张奶油色文档，上面有几行文字和一个橙色方块；3) 底部有一个指向右侧的橙色箭头。保持所有元素为块状和 Voxel 构建风格。
+
+右侧清单：标题标签为 {argument name="right section title" default="使うもの"}。展示 3 个批准项，每个项在奶油色方块上带有绿色 Voxel 对勾图标，右侧带有小型奶油色标签。3 个标签从上到下依次为：「クロード」、「動画生成」、「プロンプトだけ」。
+
+底部行：在主面板底部放置 3 张独立的奶油色斜面卡片。卡片 1 带有橙色聊天气泡图标和文字「相談風 デザイン」。卡片 2 带有橙色立方体图标和文字「AIで 構築」。卡片 3 带有橙色铅笔图标和文字「最小入力」。
+
+角色与装饰物：添加 2 个 Voxel 角色/吉祥物：左下角是一个穿着黑色连帽衫的黑发小人，指向面板上方；右下角是一只坐在面板旁边的橙白色 Voxel 猫。在左上角的架子上添加一盆块状盆栽，右上角添加一个放着竖立书籍的小架子。散落一些微小的米色和橙色立方体作为装饰，但保持海报整洁易读。
+
+视觉风格：高质量 3D Voxel 立体模型，块状挤压式日文字体，温暖的奶油色、棕褐色、橙色、黑色和绿色调色板，柔和的环境光遮蔽，正交前视图，友好的教育科技信息图，标签排列整齐，日文文本清晰易读。
+
+约束：使用 4 个 X 标记的弃用项，3 个对勾标记的批准项，3 张底部功能卡片，以及 2 个吉祥物形象。不要添加额外的部分、额外的清单、Logo、水印或英文字符。
+
+[English]
+Goal: Create a square voxel-art Japanese infographic poster about building many AI websites with minimal tools, using a warm beige Minecraft-like block aesthetic.
+
+Canvas: 1:1 square composition, 768x768 style, soft studio lighting, tan paper-and-wood background, subtle voxel blocks in the corners, crisp isometric pixel/voxel edges, shallow shadows, no photorealism.
+
+Main headline area: At the top, place a large cream beveled signboard with blocky Japanese text reading {argument name="headline text" default="300超 AIサイト構築"}. Make “300超” bright orange-red and “AIサイト構築” black. Under the headline, attach a small centered beige tab label reading {argument name="subtitle text" default="実績"}. Use thick extruded voxel lettering.
+
+Central layout: Below the headline, create one large cream framed panel with a decorative stepped border. Inside it, divide the content into three vertical zones: left checklist, center workflow illustration, right checklist. Use dotted vertical divider lines between the zones.
+
+Left checklist: Title label reads {argument name="left section title" default="不要"}. Show exactly 4 rejected items, each with a large black voxel X icon on the left and a small cream label on the right. The 4 labels, top to bottom, are: 「フィグマ」, 「フレーマー」, 「ウェブフロー」, 「コード」.
+
+Center workflow illustration: Show exactly 3 main elements stacked vertically: 1) a black computer monitor with a simple code/editor window using orange and beige lines, 2) a cream document sheet with a few text lines and one orange square, 3) an orange right-pointing arrow along the bottom. Keep everything blocky and voxel-built.
+
+Right checklist: Title label reads {argument name="right section title" default="使うもの"}. Show exactly 3 approved items, each with a green voxel checkmark icon on a cream square and a small cream label to the right. The 3 labels, top to bottom, are: 「クロード」, 「動画生成」, 「プロンプトだけ」.
+
+Bottom row: Place exactly 3 separate cream beveled cards across the bottom of the main panel. Card 1 has an orange chat bubble icon and text 「相談風 デザイン」. Card 2 has an orange cube icon and text 「AIで 構築」. Card 3 has an orange pencil icon and text 「最小入力」.
+
+Characters and decorative objects: Add exactly 2 voxel characters/mascots: on the lower left, a small black-haired person in a black hoodie pointing upward toward the panel; on the lower right, an orange-and-white voxel cat sitting beside the panel. Add a small potted blocky plant on a shelf at upper left and a small shelf with upright books at upper right. Include scattered tiny beige and orange cubes for decoration, but keep the poster clean and readable.
+
+Visual style: High-quality 3D voxel diorama, blocky extruded Japanese typography, warm cream, tan, orange, black, and green palette, soft ambient occlusion, orthographic front view, friendly educational tech infographic, neatly aligned labels, crisp readable Japanese text.
+
+Constraints: Use exactly 4 X-mark rejected items, exactly 3 checkmark approved items, exactly 3 bottom feature cards, and exactly 2 mascot figures. Do not add extra sections, extra checklists, logos, watermarks, or English text.
+```
+
+**来源：** [@クロニキ｜Claude Code専門家](https://x.com/chroniki_ai/status/2076676401500229733) | 2026-07-13
+
+---
+
+### 🖥️ 例 3997：超现实液态金属足球肖像
+
+![超现实液态金属足球肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%B6%B2%E6%80%81%E9%87%91%E5%B1%9E%E8%B6%B3%E7%90%83%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义超现实足球肖像，专业球员置于纯色 {argument name="background color" default="深酒红色"} 背景中，居中构图，身穿 {argument name="apparel" default="正版国家队球衣"}，直视镜头，表情中性。一条光泽的液态金属丝带在眼睛高度水平切过面部，以平滑的流体运动向头部两侧延伸，产生扭曲效果，显露出全彩色的双眼，而肖像其余部分保持黑白单色。超逼真的皮肤纹理，戏剧性的摄影棚灯光，高对比度，电影级阴影，对称构图，时尚杂志摄影风格，抽象视觉错觉，干净的留白，超清晰对焦，高级杂志封面美学，照片级真实感，{argument name="lens" default="85mm"} 镜头，f/2，HDR，8K，无文字，无水印。
+
+[English]
+Ultra-minimalist surreal football portrait of a professional player against a solid {argument name="background color" default="deep burgundy"} background, centered composition, wearing an {argument name="apparel" default="authentic national team jersey"}, direct eye contact, neutral expression. A glossy liquid-metal ribbon slices horizontally through the face at eye level, stretching far beyond the head with smooth fluid motion, creating a warped distortion effect that reveals the eyes in full natural color while the rest of the portrait remains monochrome black and white. Hyper-realistic skin texture, dramatic studio lighting, high contrast, cinematic shadows, symmetrical framing, editorial fashion photography, abstract optical illusion, clean negative space, ultra-sharp focus, premium magazine cover aesthetic, photorealistic, {argument name="lens" default="85mm"} lens, f/2, HDR, 8K, no text, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2076649287841386704) | 2026-07-13
+
+---
+
+### 🖥️ 例 4016：写实风格制图师角色设计图
+
+![写实风格制图师角色设计图](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E5%88%B6%E5%9B%BE%E5%B8%88%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一份高度详细的写实风格角色设计图，主角是“{argument name="character name" default="WREN"}”——在这个所有数字地图都被摧毁的世界里，她是最后一位已知的制图师。包含正面、侧面和背面视图。年龄 {argument name="age" default="26"}，身材略显单薄但坚韧，手指上永久留有颜料和墨水的痕迹。
+
+[English]
+A highly detailed realistic character design sheet for "{argument name="character name" default="WREN"}" — the last known cartographer in a world where all digital maps were destroyed. Front, side, back view. Age {argument name="age" default="26"}, slight build but enduring, paint and ink permanently stained fingers.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2076583717137719707) | 2026-07-13
+
+---
+
+### 🖥️ 例 4026：扁平化卡通人物动物帽
+
+![扁平化卡通人物动物帽](../../images/%E6%89%81%E5%B9%B3%E5%8C%96%E5%8D%A1%E9%80%9A%E4%BA%BA%E7%89%A9%E5%8A%A8%E7%89%A9%E5%B8%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直风格的古怪扁平化卡通肖像，主角是 {argument name="human" default="[HUMAN]"}，拥有高耸的几何头部、细长的脖子、超大的圆形眼睛、小巧的嘴巴和面无表情的 {argument name="expression" default="[EXPRESSION]"}，身穿 {argument name="clothing" default="[CLOTHING]"}，头顶上栖息着 [ANIMAL]，就像一顶活生生的帽子。清晰的黑色轮廓线条，扁平化色彩填充，简洁的面部形状，动物毛发或皮肤上有稀疏的素描痕迹，俏皮的超现实角色设计，大胆的 [PALETTE] 色调。背景场景：[SCENERY]，用简化形状绘制，具有清晰的深度感、小型环境道具和干净的卡通透视。清爽的数字插画，海报式的垂直构图，无写实感，无 3D 渲染，无绘画式阴影，长宽比 4:5。
+
+[English]
+Vertical quirky flat cartoon portrait of {argument name="human" default="[HUMAN]"} with a tall geometric head, long narrow neck, oversized circular eyes, tiny mouth and deadpan {argument name="expression" default="[EXPRESSION]"}, wearing {argument name="clothing" default="[CLOTHING]"}, with [ANIMAL] perched on top of the hair like a living hat. Clean black outline drawing, flat color fills, simple facial shapes, sparse sketch marks on the animal fur or skin, playful surreal character design, bold graphic [PALETTE] palette. Background scenery: [SCENERY], drawn with simplified shapes, clear depth, small environmental props and clean cartoon perspective. Crisp digital illustration, poster-like vertical framing, no realism, no 3D render, no painterly shading, aspect ratio 4:5.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2076564350920454273) | 2026-07-13
+
+---
+

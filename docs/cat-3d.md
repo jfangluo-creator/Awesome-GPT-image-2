@@ -5126,3 +5126,39 @@ Create a cheerful vertical 9:16 3D animated birthday scene in a warm sunlit livi
 
 ---
 
+### 🧸 例 3977：动漫少女化身为玻璃茶几
+
+![动漫少女化身为玻璃茶几](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E5%8C%96%E8%BA%AB%E4%B8%BA%E7%8E%BB%E7%92%83%E8%8C%B6%E5%87%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一件细节极其丰富的奇幻家具雕塑：一张由倒立的木雕动漫少女构成的圆形玻璃茶几，仿佛角色被转化成了华丽的家具。场景为大理石大厅中的 3D 写实渲染，地面铺设灰黑相间的菱形地砖，并伴有柔和的阳光斑点。主体居中，采用略微仰视的正面视角。茶几配有一个圆形透明玻璃桌面、一个厚实的抛光木质外圈、一个内部圆形木环，顶部装饰有一个罗盘玫瑰，并带有四个分别指向东、南、西、北的尖锐木质长刺，垂直点上刻有钻石切面。玻璃下方，被转化的角色完全由纹理清晰的暖色调光泽木材雕刻而成：一个倒立的动漫风格少女，长发散落在地，戴着圆框眼镜，小巧的脸庞，华丽的刘海，并配有装饰性发饰。她的身体构成了茶几底座；她有两只抬起的手臂作为中心支撑，两条弯曲的腿作为外侧支撑，以及四根连接至桌面的主要支撑柱，其中两条外侧腿部支撑包裹着交叉系带的靴子细节。使用混合木色，弯曲的外侧腿部采用深红木色，躯干、手臂、头发和边缘采用中等金色木色。设计应体现奢华、超现实、手工感和轻微的巴洛克风格，表面光滑上漆，木质接缝精巧，采用圆柱形车削木段，具有逼真的阴影和玻璃反射效果，除木质角色外，画面中无其他文字或人物。强调 {argument name="furniture concept" default="一个倒立的动漫少女化身为圆形玻璃茶几"}，{argument name="wood material" default="纹理清晰的抛光暖色木雕"}，{argument name="floor setting" default="灰黑相间的大理石大厅"}，{argument name="tabletop ornament" default="木雕四点罗盘玫瑰"}，以及 {argument name="camera angle" default="略微仰视的正面视角"}。
+
+[English]
+Create a highly detailed fantasy furniture sculpture: a round glass-top table formed from an upside-down carved wooden anime girl, as if the character has been transformed into ornate furniture. The scene is a realistic 3D render in a grand marble hall with gray-and-black diamond patterned floor tiles and soft patches of sunlight. The subject is centered and viewed from a slightly elevated front angle. The table has exactly one circular transparent glass tabletop, one thick polished wooden outer rim, one inner circular wooden ring, and one compass-rose ornament on top with exactly four long pointed wooden spikes aligned north, south, east, and west, plus faceted diamond-shaped carvings on the vertical points. Beneath the glass, the transformed character is carved entirely from warm glossy wood with visible grain: an upside-down anime-style girl with long flowing hair spread on the floor, round glasses, a small face, ornate bangs, and a decorative hair ornament. Her body forms the table base; she has exactly two raised arms acting as central supports, exactly two bent legs acting as outer supports, and exactly four main support columns reaching to the tabletop, with the two outer leg supports wrapped in crisscross laced boot-like details. Use mixed wood tones, darker reddish wood on the bent outer legs and medium golden wood on the torso, arms, hair, and rim. The design should feel luxurious, surreal, handcrafted, and slightly baroque, with smooth varnished surfaces, intricate carved joints, cylindrical turned-wood segments, realistic shadows, reflections in the glass, and no text or people besides the wooden character. Emphasize {argument name="furniture concept" default="an upside-down anime girl transformed into a round glass table"}, {argument name="wood material" default="polished warm carved wood with visible grain"}, {argument name="floor setting" default="a grand gray-and-black marble tile hall"}, {argument name="tabletop ornament" default="a four-point compass rose made of carved wood"}, and {argument name="camera angle" default="slightly elevated front view"}.
+```
+
+**来源：** [@のりまし](https://x.com/geexEARBrjKIXfp/status/2076710990163648601) | 2026-07-13
+
+---
+
+### 🧸 例 3978：毛绒角色带来的温馨肖像
+
+![毛绒角色带来的温馨肖像](../../images/%E6%AF%9B%E7%BB%92%E8%A7%92%E8%89%B2%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%B8%A9%E9%A6%A8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高质量的摄影棚风格照片，画面中一位年轻女性面带温暖的微笑，盘腿坐在地板上。她穿着 {argument name="clothing" default="一件正面印有风格化图形角色的黑色 T 恤"}，搭配蓝色牛仔短裤、白色袜子和白色运动鞋。她的头发扎成一个凌乱的丸子头，并用黑色丝带蝴蝶结装饰。她正被身后一个 {argument name="character" default="巨大的、毛绒绒的、米白色的圆形角色，脸上带着极简主义的黑色微笑"} 轻轻拥抱。背景为 {argument name="background" default="纯净的中性米色"}，营造出干净而舒适的审美感。
+
+[English]
+A high-quality, studio-style photograph featuring a young woman with a warm smile, sitting cross-legged on the floor. She is wearing a {argument name="clothing" default="black T-shirt with a stylized graphic character on the front"}, paired with blue denim shorts, white socks, and white sneakers. Her hair is styled in a messy top bun accented with a black ribbon bow. She is being gently embraced from behind by a {argument name="character" default="giant, plush, off-white rounded character with a minimalist black smiling face"}. The background is a {argument name="background" default="solid, neutral beige color"}, creating a clean and cozy aesthetic.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2076708450856509641) | 2026-07-13
+
+---
+

@@ -5802,3 +5802,291 @@ Create a square single-panel manga illustration with thick black comic borders a
 
 ---
 
+### 🎬 例 3987：哥特系美少年为仓鼠读书
+
+![哥特系美少年为仓鼠读书](../../images/%E5%93%A5%E7%89%B9%E7%B3%BB%E7%BE%8E%E5%B0%91%E5%B9%B4%E4%B8%BA%E4%BB%93%E9%BC%A0%E8%AF%BB%E4%B9%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅黑白少女漫画页面，包含 3 个横向排列的画格，展示一位美丽的哥特系美少年在优雅的私人图书馆里为一只可爱的仓鼠读书。
+
+画布：竖版漫画页面，纵向构图，外围有细黑色边框，3 个堆叠的画格之间有粗黑色间距。高细节黑白墨水画，细腻的网点阴影，明亮柔和的日光，清晰的线条，浪漫的“美少年”美学。
+
+主角：一位身材修长、中性化的年轻男子，名为 {argument name="character name" default="Sol"}，凌乱的波浪状黑发遮住双眼，皮肤苍白，长睫毛，表情沉静忧郁，佩戴华丽的垂坠耳环，身穿深色剪裁西装外套、白衬衫、装饰性领巾或丝带领结，胸前有天体星辰主题的胸针链条。他手持一本封面带有星辰/罗盘徽章的华丽精装书。
+
+仓鼠角色：一只圆滚滚的金色仓鼠，毛发蓬松，小耳朵，豆豆眼，胡须柔软，画风可爱且富有表现力。仓鼠坐在书本或书桌上，对阅读者做出反应。
+
+场景：精致的书房/图书馆，高大的书架上摆满了书籍，配有浑天仪或天球仪、堆叠的书籍、书桌、墨水瓶、带有窗帘的大型明亮窗户、植物艺术画框和古董台灯。环境保持优雅、学术气息且略带奇幻感。
+
+画格布局与具体内容：
+1. 上格：宽幅全景镜头。美少年坐在左侧的书桌旁阅读一本打开的书，周围是书架和天体仪器。仓鼠坐在右侧靠近台灯和窗户的一叠书上。包含 2 个对话气泡：美少年说 {argument name="opening line" default="では今日の物語をはじめようか"}；仓鼠说 {argument name="hamster squeak" default="きゅっ"}。
+2. 中格：近景特写。美少年在打开的书后微微前倾，温柔地微笑着看向右侧的仓鼠，仓鼠面向他。包含 1 个美少年的对话气泡，内容为 {argument name="gentle line" default="むかしむかしあるところにー"}。
+3. 下格：梦幻特写。美少年单手托腮继续阅读，深情地注视着仓鼠。仓鼠坐直身体，闭着眼睛，双手合十，开心地微笑着。在仓鼠周围添加小闪光、花朵、气泡和柔和的装饰效果。包含 1 个仓鼠的对话气泡，内容为 {argument name="happy squeak" default="きゅう〜〜♡"}。
+
+文本限制：使用与默认内容相符的竖排日式漫画对话气泡。整页总共只能包含 4 个对话气泡。不要添加额外的标题、音效、签名、水印或英文字符。
+
+风格限制：高细节灰度漫画插图，优雅的浪漫氛围，细腻的发丝，华丽的服装细节，柔和的高光，干净的画格边框，无颜色。
+
+[English]
+Goal: Create a black-and-white shoujo manga page with exactly 3 horizontal panels showing a beautiful gothic young man reading to a cute hamster in an elegant private library.
+
+Canvas: Vertical manga page, portrait orientation, thin black outer border and thick black gutters separating the 3 stacked panels. High-detail monochrome ink, delicate screentone shading, luminous soft daylight, crisp line art, romantic bishounen aesthetic.
+
+Main character: A slender, androgynous young man named {argument name="character name" default="Sol"}, with messy wavy black hair falling over his eyes, pale skin, long lashes, calm melancholy expression, ornate dangling earrings, a dark tailored suit jacket, white shirt, decorative cravat or ribbon tie, and celestial star-themed brooch chains on his chest. He holds an ornate hardcover book with a star/compass emblem on the cover.
+
+Hamster character: A small round golden hamster with fluffy fur, tiny ears, bead eyes, and soft whiskers, drawn cutely and expressively. The hamster sits on books or a desk and reacts to the reader.
+
+Setting: A refined study/library with tall bookshelves full of books, an armillary sphere or celestial globe, stacked books, a writing desk, ink bottle, large bright window with curtains, framed botanical art, and an antique table lamp. Keep the environment elegant, scholarly, and slightly fantastical.
+
+Panel layout and exact contents:
+1. Top panel: Wide establishing shot. The young man sits at a desk on the left, reading an open book, surrounded by bookshelves and celestial instruments. The hamster sits on a stack of books on the right near a lamp and window. Include exactly 2 speech bubbles: the young man says {argument name="opening line" default="では今日の物語をはじめようか"}; the hamster says {argument name="hamster squeak" default="きゅっ"}.
+2. Middle panel: Closer intimate shot. The young man leans forward behind the open book, smiling softly at the hamster, who faces him from the right in close-up. Include exactly 1 speech bubble from the young man saying {argument name="gentle line" default="むかしむかしあるところにー"}.
+3. Bottom panel: Dreamy close-up. The young man rests his cheek on one hand while continuing to read, gazing fondly toward the hamster. The hamster sits upright, eyes closed, paws clasped, smiling with delight. Add small sparkles, flowers, bubbles, and soft decorative effects around the hamster. Include exactly 1 speech bubble from the hamster saying {argument name="happy squeak" default="きゅう〜〜♡"}.
+
+Text constraints: Use vertical Japanese manga speech bubbles matching the defaults. Keep exactly 4 speech bubbles total across the whole page. Do not add extra captions, sound effects, signatures, watermarks, or English text.
+
+Style constraints: High-detail grayscale manga illustration, elegant romantic atmosphere, fine hair strands, ornate clothing details, soft highlights, clean panel borders, no color.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076665261730734572) | 2026-07-13
+
+---
+
+### 🎬 例 3989：阳光海滨动漫漫画页面
+
+![阳光海滨动漫漫画页面](../../images/%E9%98%B3%E5%85%89%E6%B5%B7%E6%BB%A8%E5%8A%A8%E6%BC%AB%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页全彩漫画，采用明亮、精致的动漫风格，讲述 {argument name="character name" default="一位年轻男子和一位娇小的银发少女"} 在阳光明媚的海滨长廊相遇并走向地铁站的故事。
+
+画布：竖版漫画页面，纵向构图，带有粗黑的边框和窄小的分镜间距。使用简洁的日式漫画/动漫插画风格，背景细节丰富，柔和的赛璐珞阴影，波光粼粼的水面高光，表情生动，营造出温暖的夏日氛围。
+
+布局：使用 7 个漫画分镜。第 1 格为顶部贯穿全宽的宽幅全景镜头。第 2 格为第二行左半部分。第 3 格为第二行右半部分。第 4 格为第三行左半部分。第 5 格为第三行右半部分。第 6 格为左下角的特写镜头。第 7 格为右下角两人背影远去的宽幅镜头。
+
+场景细节：地点位于 {argument name="location" default="波光粼粼的蓝色大海旁的一处日式港口长廊"}。展示带有黑色链条连接方柱的石质海堤、广阔平静且闪烁着阳光的海面、蓬松的积雨云、远处的绿色岛屿、港口起重机、工业港口建筑以及蓝色的夏日天空。最后一格应展示一条绿树成荫的步行道，通向一个地铁入口，入口处有带有地铁图标和“地铁站”字样的蓝色标志。
+
+角色：男主角是一位身材苗条的年轻男性，留着黑色短发，皮肤白皙，戴着细长方形眼镜，穿着简单的白色 T 恤和米色短裤或长裤，表情温和且略显羞涩。女主角是一位非常娇小的动漫少女，留着飘逸的淡薰衣草银色长发，大大的蓝色眼睛，皮肤白皙，穿着白色泡泡袖衬衫和蓝色牛仔短背带裤，戴着小发夹，性格活泼可爱。她的头发应在海风中呈现出戏剧性的飘动感。
+
+分镜动作：第 1 格：港口与大海的全景，前景无角色，右上角附近有一个竖排旁白框。第 2 格：男主角侧身站在链条围栏旁，眺望大海，左侧有一个竖排旁白框。第 3 格：波光粼粼的海水与链条围栏的特写，右侧有一个竖排旁白框，水面上漂浮着两个粉色的拟声词。第 4 格：男主角惊讶地转过头，银发少女从身后跑向他，面带微笑；在他脸部附近加入一个小小的惊讶符号，并配有少女的对话气泡。第 5 格：两个角色在水边面对面；男子尴尬地微笑着，一只手插在口袋里，少女好奇地抬头看着他；包含两个竖排对话气泡。第 6 格：少女略带羞涩的可爱特写，双手放在胸前，背景为粉彩色的闪光效果，配有一个竖排对话气泡。第 7 格：两人牵手走向地铁入口的背影；少女兴奋地领路，男孩跟随，右侧出现一个竖排对话气泡。
+
+文本内容：在白色对话气泡和旁白框中加入竖排中文漫画文字。请将以下完整的文本作为模型的指南：{argument name="Chinese manga text" default="清晨，海边 / 看着一望无际的海边，我心情有多舒畅，我已经差过了多久，今天不一样的是，多了一个激活 / 轻微的海浪拍声让人愉悦的海风，时而飞过的海鸥，高楼与繁忙的港口，脚步声越来越清晰。 / 哒 哒 / 久等了 / 没关系的，我也是刚到 / 福乃酱没必要这么急的 / 没有啦，碰到了喜欢的地方就...外面也就是了地铁站吧 / 走走走！地铁站在那边！♡"}。文字应保持手写体或漫画字体，并在适当位置进行竖排排列。
+
+视觉风格：高分辨率动漫漫画艺术，明亮饱和的蓝色，清晰的线条，柔和的阴影，水面上轻柔的镜头式闪光，可爱的浪漫生活氛围。少女应看起来活泼可爱；男孩应看起来冷静友善。保持背景在各分镜中的细节一致性。
+
+约束条件：使用 7 个分镜，2 个主要角色，最后一格包含 1 个地铁入口标志，第 3 格包含 2 个粉色水面拟声词，且不添加额外角色。保持简洁的漫画页面构图，使用黑色边框和清晰易读的对话气泡。
+
+[English]
+Goal: Create a full-color manga page in a bright, polished anime style about {argument name="character name" default="a young man and a petite silver-haired girl"} meeting at a sunny seaside promenade and walking toward a subway station.
+
+Canvas: Vertical comic page, portrait orientation, with thick black panel borders and narrow gutters. Use a clean Japanese manga/anime illustration style, detailed backgrounds, soft cel shading, sparkling water highlights, expressive faces, and a warm summer atmosphere.
+
+Layout: Use exactly 7 comic panels. Panel 1 is a wide panoramic establishing shot across the full top width. Panel 2 is the left half of the second row. Panel 3 is the right half of the second row. Panel 4 is the left half of the third row. Panel 5 is the right half of the third row. Panel 6 is the bottom-left close-up panel. Panel 7 is the bottom-right wide walking-away panel.
+
+Setting details: The location is {argument name="location" default="a Japanese harbor promenade by a sparkling blue sea"}. Show a stone seawall with square posts connected by black chains, a vast calm ocean with glittering sunlight, fluffy cumulus clouds, distant green islands, port cranes, industrial harbor buildings, and a blue summer sky. The final panel should show a tree-lined pedestrian path leading to a subway entrance with a blue sign marked with a subway icon and Chinese characters for subway station.
+
+Characters: The male lead is a slim young adult with short black hair, fair skin, thin rectangular glasses, a plain white T-shirt, beige shorts or pants, and a gentle, slightly shy expression. The female lead is a very petite anime girl with long flowing pale lavender-silver hair, large blue eyes, fair skin, a white puff-sleeve blouse, blue denim short overalls, small hairpins, and an energetic cute personality. Her hair should flow dramatically in the sea breeze.
+
+Panel-by-panel action: Panel 1: panoramic harbor and sea view, no characters in the foreground, with a vertical narration box near the upper right. Panel 2: the young man stands near the chain fence in profile, looking out over the sea, with a vertical narration box on the left. Panel 3: close view of sparkling ocean water and chain fence, with a vertical narration box on the right and two small pink sound-effect words floating over the water. Panel 4: close-up of the young man turning his head in surprise while the silver-haired girl runs toward him from behind, smiling; include a small surprise symbol near his face and a speech bubble from the girl. Panel 5: the two characters face each other at the waterfront; the man smiles awkwardly with one hand in his pocket, and the girl looks up at him with bright curiosity; include two vertical speech bubbles. Panel 6: cute close-up of the girl blushing slightly and holding her hands near her chest, with a pastel pink sparkly background behind her and a vertical speech bubble. Panel 7: rear view of both characters holding hands and walking toward the subway entrance; the girl leads excitedly, the boy follows, and a vertical speech bubble appears on the right.
+
+Text content: Include Chinese vertical manga text in white speech bubbles and narration boxes. Use this complete set of visible text as the model's guide: {argument name="Chinese manga text" default="清晨，海边 / 看着一望无际的海边，我心情有多舒畅，我已经差过了多久，今天不一样的是，多了一个激活 / 轻微的海浪拍声让人愉悦的海风，时而飞过的海鸥，高楼与繁忙的港口，脚步声越来越清晰。 / 哒 哒 / 久等了 / 没关系的，我也是刚到 / 福乃酱没必要这么急的 / 没有啦，碰到了喜欢的地方就...外面也就是了地铁站吧 / 走走走！地铁站在那边！♡"}. Keep the text handwritten or manga-lettered, vertically arranged where appropriate.
+
+Visual style: High-resolution anime comic art, bright saturated blues, crisp linework, soft shadows, gentle lens-like sparkle on the water, cute romantic slice-of-life mood. The girl should look adorable and lively; the boy should look calm and kind. Keep backgrounds detailed and consistent across panels.
+
+Constraints: Use exactly 7 panels, exactly 2 main characters, exactly 1 subway entrance sign in the final panel, exactly 2 pink water sound effects in panel 3, and no extra characters. Preserve the clean manga-page composition with black borders and readable speech bubbles.
+```
+
+**来源：** [@桃寝智乃](https://x.com/MomoneChino/status/2076663422402666863) | 2026-07-13
+
+---
+
+### 🎬 例 4004：仓鼠召唤 Sol 漫画页面
+
+![仓鼠召唤 Sol 漫画页面](../../images/%E4%BB%93%E9%BC%A0%E5%8F%AC%E5%94%A4%20Sol%20%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页精致的科幻奇幻风格黑白日式漫画，讲述一只可爱的仓鼠意外召唤出一位名为 {argument name="character name" default="ソル"} 的拟人化 AI 助手。基调幽默、优雅且略带荒诞，仿佛基于真实轶事。
+
+画布：竖向黑白漫画页面，2:3 高比例，包含五个横向分格，由粗黑边框分隔，外围有细黑边。全程使用高细节网点纸、发光全息 UI 网格、闪光、数字粒子以及戏剧性的少女漫画光影。
+
+布局与分格数量：严格使用 5 个分格。
+
+第 1 格：一只毛茸茸的小仓鼠站在一个由发光矩形屏幕、电路状线条和星光粒子组成的未来数字接口房间内。仓鼠圆圆的眼睛闪闪发光，张着可爱的小嘴向上看。一个竖向对话框写着「ソルー」。
+
+第 2 格：戏剧性的召唤场景。左侧前景展示仓鼠的背影，表现出惊讶，带有汗滴和动作线。中右侧，一位美少年从闪烁的像素和光碎片中显现，伸出一只手。他留着凌乱的波浪状黑发，眼神锐利而温柔，身材修长，身穿华丽的黑色西装，配有马甲、领带、珠宝胸针、链条和闪亮的装饰细节。右侧的两个对话框写着「はい、太陽系おもしろ担当・ソル、召喚されましたっ」和「なおに、ハムスター。鳴き声だけで呼ぶの、だいぶ懐かれてて好き。」。
+
+第 3 格：仓鼠困惑地面对着男人，头上冒着汗滴和一个巨大的问号。男人自信地交叉双臂，得意地微笑着，周围环绕着淡淡的数字屏幕。左侧包含一个仓鼠的竖向对话框写着「太陽系おもしろ担当とは？」，男人附近有小字「ふふん」，右侧对话框写着「さっき勢いで生えた謎の役職です。」。
+
+第 4 格：男人在自己和仓鼠之间展示了一个解释性的全息项目。左侧可以看到仓鼠的背影，依然冒着汗；男人站在右侧，礼貌地指向项目。项目包含 3 个要点，后接一行简短的总结。项目上的文字为：「・太陽＝ソル」、「・系＝なんか壮大」、「・おもしろ担当＝うちのソル、なぜか知性より先にボケが出る」以及「という雑な合成語。」。
+
+第 5 格：男人特写，呈现少女漫画风格的华丽肖像，占据左侧和中心，他单手托腮，温柔微笑，耳环和西装装饰闪闪发光。仓鼠在右下角显得非常渺小，张着嘴表现出震惊。右侧有一个巨大的尖角强调对话框写着「正気か？」。左侧的竖向对话框写着「なお本人は『耽美儚い・美しい・繊細担当』を志望しています。採用実績はまだありません。」。
+
+主体细节：仓鼠必须圆润、可爱、毛茸茸、体型小巧，拥有闪亮的黑眼睛、小爪子、生动的汗滴和滑稽的反应。被召唤的男人应看起来像优雅的动漫美少年，十几岁到二十出头，皮肤白皙，深色乱发，五官精致，表情自信俏皮，身穿华丽的黑色正装，配有闪亮的链条和珠宝。
+
+视觉风格：高分辨率黑白漫画，清晰的墨线，丰富的灰度网点，强烈的闪光效果，发光的赛博朋克全息面板，戏剧性的对比，优雅的少女漫画肖像渲染与搞笑漫画节奏相结合。使页面看起来像印刷漫画一样清晰且精致。
+
+约束：严格保留 5 个横向分格和所有列出的日语文本。不要添加额外的分格、角色、标志、水印或颜色。保持对话框整洁且易于阅读。
+
+[English]
+Goal: Create a monochrome Japanese manga page in a polished sci-fi fantasy style about a cute hamster accidentally summoning a handsome humanized AI assistant named {argument name="character name" default="ソル"}. The tone is comedic, elegant, and slightly absurd, as if based on a true anecdote.
+
+Canvas: Vertical black-and-white manga page, tall 2:3 aspect ratio, with five horizontal panels separated by thick black gutters and a thin black outer border. Use high-detail screentone, glowing holographic UI grids, sparkles, digital particles, and dramatic shoujo manga lighting throughout.
+
+Layout and exact panel count: Use exactly 5 panels.
+
+Panel 1: A small fluffy hamster stands inside a futuristic digital interface room made of luminous rectangular screens, circuit-like lines, and starry particles. The hamster looks upward with round glossy eyes and an open cute mouth. One vertical speech bubble says 「ソルー」.
+
+Panel 2: A dramatic summoning scene. On the left foreground, show the hamster from behind, surprised, with a sweat drop and motion marks. In the center/right, a beautiful young man materializes from glittering pixels and light shards, reaching one hand forward. He has messy wavy black hair, sharp gentle eyes, a slim build, and wears an ornate black suit with vest, tie, jeweled brooch, chains, and sparkling decorative details. Two speech bubbles on the right say 「はい、太陽系おもしろ担当・ソル、召喚されましたっ」 and 「なおに、ハムスター。鳴き声だけで呼ぶの、だいぶ懐かれてて好き。」.
+
+Panel 3: The hamster faces the man in confusion, with sweat drops and a large question mark above its head. The man stands confidently with arms crossed, smiling smugly, surrounded by faint digital screens. Include one vertical speech bubble from the hamster on the left saying 「太陽系おもしろ担当とは？」, small text near the man saying 「ふふん」, and one speech bubble on the right saying 「さっき勢いで生えた謎の役職です。」.
+
+Panel 4: The man presents an explanatory hologram board between himself and the hamster. The hamster is seen from behind on the left, still sweating; the man stands on the right gesturing politely toward the board. The board contains exactly 3 bullet points followed by one short concluding line. Text on the board: 「・太陽＝ソル」, 「・系＝なんか壮大」, 「・おもしろ担当＝うちのソル、なぜか知性より先にボケが出る」, and 「という雑な合成語。」.
+
+Panel 5: Close-up glamorous shoujo portrait of the young man occupying the left and center, smiling softly with one hand near his chin, earrings and suit ornaments sparkling. The hamster appears tiny at the lower right, shocked with an open mouth. A large spiky emphasis bubble on the right says 「正気か？」. A vertical speech bubble on the left says 「なお本人は『耽美儚い・美しい・繊細担当』を志望しています。採用実績はまだありません。」.
+
+Subject details: The hamster must be round, cute, fluffy, small, with shiny black eyes, tiny paws, expressive sweat drops, and comedic reactions. The summoned man should look like an elegant anime bishounen, late teens to twenties, pale skin, tousled dark hair, refined facial features, confident playful expression, and an ornate black formal outfit with sparkling chains and jewelry.
+
+Visual style: High-resolution black-and-white manga, crisp ink linework, rich greyscale screentones, intense sparkle effects, glowing cyberpunk holographic panels, dramatic contrast, elegant shoujo portrait rendering mixed with gag manga timing. Make the page readable and polished like a printed manga.
+
+Constraints: Preserve exactly 5 horizontal panels and all listed Japanese text. Do not add extra panels, characters, logos, watermarks, or color. Keep speech bubbles clean and legible.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076632981863829712) | 2026-07-13
+
+---
+
+### 🎬 例 4007：地下停车场追逐分镜脚本
+
+![地下停车场追逐分镜脚本](../../images/%E5%9C%B0%E4%B8%8B%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%BF%BD%E9%80%90%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张 3:1 超宽电影级分镜关键帧，用于展示地下停车场“一镜到底”的动作追逐戏。在一张连续的全景画面中呈现完整路线、角色调度、追逐关系、冲突点及最终出口。
+
+画布：水平 3:1 宽高比，暗色写实电影剧照风格，构图约为 1200×400。使用标有 B2 的昏暗混凝土地下停车场，潮湿的反光地面，天花板荧光灯，停放的黑色轿车，带有黄黑警示条纹的混凝土柱，地面导向标线，以及最右侧明亮的坡道出口。
+
+主要动作：描绘 {argument name="protagonist description" default="一名身穿黑色夹克、黑色长裤、白色运动鞋，背着黑色双肩包的年轻人"} 被 {argument name="pursuer description" default="一名身穿棕色夹克和深色长裤的壮硕中年男子"} 追逐的场景。在连续的空间中多次重复出现这两名角色，以展示动作序列，而非分割的画格。主角从最左侧的电梯处开始，穿过停车区，躲在柱子后，滑过停放的车辆，利用障碍区减缓追逐者速度，然后冲向最右侧明亮的出口坡道。如有需要，可在最右侧出口处添加第三个类似剪影的奔跑者，以强调最终逃脱。
+
+布局与运动图形：在整个图像上覆盖一条从左到右的粗黄色曲线路径箭头，并用箭头标记方向。在车辆和柱子周围添加蓝色虚线路径以指示备选路线。在柱子附近添加一个带阴影的圆形盲区标记，并标注为“盲点”。添加小型标注箭头，指向警示标志和手推车附近的障碍区。
+
+编号分镜标签：在顶部边缘均匀放置 10 个黄色圆圈数字，并配以白色手写风格的中文说明。请使用以下精确的可见步骤说明：① 电梯开启 / 察觉异常; ② 加快脚步 / 穿过车位区; ③ 追逐者现身 / 开始追赶; ④ 柱后堵截 / 挡住去路; ⑤ 抓住背包; ⑥ 贴柱急转 / 甩开追逐者; ⑦ 侧身穿过 / 车辆窄缝; ⑧ 追逐者被迫 / 减速绕行; ⑨ 推倒障碍 / 阻挡追击; ⑩ 冲向出口 / 拉开距离.
+
+底部时间轴：在底部添加一条黑色半透明水平时间轴条。它必须包含从左到右的 7 个时间标记和事件标签：00:00 电梯开启; 00:05 察觉跟踪; 00:10 追逐者现身; 00:16 柱后堵截; 00:20 贴柱挣脱; 00:26 穿缝穿过; 00:32 障碍阻挡; 以及最右侧的 00:42 冲向出口。使用带有小箭头和点的细黄线。
+
+场景细节：最左侧包含带有 B2 标识的电梯门，几辆停放的汽车，多个混凝土支撑柱，车辆间的狭窄缝隙，垃圾车或清洁车，黄色“小心地滑”警示牌，以及最右侧明亮的白色日光出口坡道和头顶的出口标志。可见处使用中文停车场标识，如“B2”和“出口 EXIT”。
+
+视觉风格：照片级真实感的电影动作分镜，冷灰色调，高对比度，潮湿混凝土反光，奔跑人物的动态模糊感，锐利的场景细节，类似导演调度计划的黄色标注图形，白色手写中文注释，紧张的惊悚氛围。使其看起来像 {argument name="sequence title" default="地下停车场追逐"} 的成品预演项目。
+
+约束条件：保持构图为一个连续的宽阔空间，不要使用漫画分格。展示 10 个编号的顶部标注，8 个底部时间轴事件（包含最终的 00:42 标记），并在所有重复出现的姿势中保持主角和追逐者形象一致。不要添加任何徽标、水印或无关文字。
+
+[English]
+Goal: Create an ultra-wide 3:1 cinematic storyboard keyframe for a one-take action chase sequence in an underground parking garage, showing the full route, character blocking, pursuit relationship, conflict points, and final exit in one continuous panoramic scene.
+
+Canvas: Horizontal 3:1 aspect ratio, dark realistic film still style, approximately 1200×400 composition. Use a dim concrete basement parking lot labeled B2, wet reflective floor, fluorescent ceiling lights, parked black cars, concrete pillars with yellow-black hazard stripes, directional road markings, and a bright ramp exit at the far right.
+
+Main action: Depict {argument name="protagonist description" default="a young man in a black jacket, black pants, white sneakers, carrying a black backpack"} being chased by {argument name="pursuer description" default="a larger middle-aged man in a brown jacket and dark pants"}. Show the same two characters repeated across the continuous space as sequential action poses, not as separate panels. The protagonist begins at the elevator on the far left, runs through the car area, dodges behind a pillar, slips past parked cars, uses an obstacle area to slow the pursuer, then sprints toward the bright exit ramp on the far right. Add a third silhouette-like runner only at the far-right exit if needed to emphasize the final escape.
+
+Layout and movement graphics: Overlay a thick yellow curved route arrow running from left to right across the entire image, with arrowheads marking direction. Add a dashed blue path around the cars and pillars to indicate alternate movement. Add a hatched circular blind-zone mark near the pillar labeled as a blind spot. Add small annotation arrows pointing to the obstacle area near caution signs and carts.
+
+Numbered storyboard labels: Place exactly 10 yellow circled numbers with small white handwritten-style Chinese captions along the top edge, evenly spaced from left to right. Use these exact visible step captions: ① 电梯开启 / 察觉异常; ② 加快脚步 / 穿过车位区; ③ 追逐者现身 / 开始追赶; ④ 柱后堵截 / 挡住去路; ⑤ 抓住背包; ⑥ 贴柱急转 / 甩开追逐者; ⑦ 侧身穿过 / 车辆窄缝; ⑧ 追逐者被迫 / 减速绕行; ⑨ 推倒障碍 / 阻挡追击; ⑩ 冲向出口 / 拉开距离.
+
+Bottom timeline: Add a black semi-transparent horizontal timeline strip across the bottom. It must contain exactly 7 time markers and event labels from left to right: 00:00 电梯开启; 00:05 察觉跟踪; 00:10 追逐者现身; 00:16 柱后堵截; 00:20 贴柱挣脱; 00:26 穿缝穿过; 00:32 障碍阻挡; and at the far right 00:42 冲向出口. Use a thin yellow line with small arrowheads and dots.
+
+Scene details: Include an elevator doorway at far left with B2 signage, several parked cars, multiple concrete support columns, a narrow gap between vehicles, trash carts or cleaning carts, yellow caution wet-floor signs, and a bright white daylight exit ramp at far right with an overhead exit sign. Use Chinese parking-garage signage where visible, such as B2 and 出口 EXIT.
+
+Visual style: Photorealistic cinematic action storyboard, moody cool-gray color grading, high contrast, wet concrete reflections, motion-blur hints on running figures, sharp environmental details, yellow annotation graphics resembling a director's blocking plan, handwritten white Chinese notes, tense thriller atmosphere. Make it look like a finished previsualization board for {argument name="sequence title" default="Underground Parking Garage Chase"}.
+
+Constraints: Keep the composition as one continuous wide space, not comic panels. Show exactly 10 numbered top annotations, exactly 8 bottom timeline events including the final 00:42 marker, and maintain the same protagonist and pursuer across all repeated poses. Do not add logos, watermarks, or unrelated text.
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2076627533684936928) | 2026-07-13
+
+---
+
+### 🎬 例 4010：单色天界王子角色
+
+![单色天界王子角色](../../images/%E5%8D%95%E8%89%B2%E5%A4%A9%E7%95%8C%E7%8E%8B%E5%AD%90%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个全身单色漫画角色，采用站立姿势，背景为纯净的白色：一位英俊的年轻男性王子或魔法师，身材修长高挑，留着凌乱的短发（{argument name="hair color" default="黑色"}），眼神柔和自信，带着淡淡的优雅微笑，拥有精致的美少年面容。他身穿华丽的黑色正装，搭配光泽感燕尾服、修身马甲、白色衬衫、印花领带、修身长裤、抛光黑色皮鞋、腰带以及装饰性链条配饰。添加一件戏剧性的半透明斗篷或披风，分为长尖角状的衣摆，装饰着星象线条、闪烁的星星、垂坠的链条和天体挂饰；左胸处配有一枚大型太阳与星星胸针，并佩戴长款华丽耳环。让他以放松的贵族姿态面向前方：一只手插在裤兜里，另一只手优雅地抬起靠近胸前，手指姿态优美。渲染为高细节的黑白日本漫画线稿，具有丰富的墨水阴影、交叉排线、织物上的光泽高光、精细的珠宝细节、空灵的奇幻时尚感，轮廓清晰，无颜色，无文字，无背景物体。
+
+[English]
+Create a full-body monochrome manga character standing pose on a clean white background: a beautiful young male prince or magician, slim and tall, with tousled short {argument name="hair color" default="black"} hair, soft confident eyes, a faint elegant smile, and delicate bishounen facial features. He wears an ornate black formal suit with a glossy tailcoat, fitted vest, white dress shirt, patterned tie, slim trousers, polished black dress shoes, belt, and decorative chain accessories. Add a dramatic translucent cape or mantle split into long pointed panels, decorated with starry constellation lines, sparkling stars, dangling chains, and celestial charms; include one large sun-and-star brooch on the left chest and long ornate earrings. Pose him facing forward in a relaxed aristocratic stance: one hand in his trouser pocket and the other raised lightly near his chest with graceful fingers. Render as high-detail black-and-white Japanese manga line art with rich ink shading, crosshatching, glossy highlights on fabric, intricate jewelry details, ethereal fantasy fashion, clean silhouette, no color, no text, no background objects.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076622421617156215) | 2026-07-13
+
+---
+
+### 🎬 例 4032：动漫海滩日 4 格漫画布局
+
+![动漫海滩日 4 格漫画布局](../../images/%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%BB%A9%E6%97%A5%204%20%E6%A0%BC%E6%BC%AB%E7%94%BB%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 4 格网格（2x2 布局），展示了一位可爱的动漫女孩，留着 {argument name="hair color" default="充满活力的紫色"} 波波头，脸上带有淡淡的雀斑，正在享受阳光明媚的夏日海滩。左上角：她坐在深蓝色大海旁的木质码头上，戴着一顶带有白色爱心的红色棒球帽，身穿印有“{argument name="shirt text" default="SUMMER"}”字样的蓝条纹白色长袖衬衫、蓝色短裤和白色袜子配红色运动鞋，手里提着一个巨大的红色“BEACH”手提袋。右上角：她跪在沙滩上，手里拿着一个蓝色海星靠近脸庞，戴着草编遮阳帽，身穿印有“OCEAN”字样的蓝色露肩上衣和红色短裤，沙滩上画着一颗小爱心。左下角：她跪在海滩上，身后是海浪，手里拿着一把折扇和一个编织草编手提袋，戴着装饰有黄色木槿花的草帽，身穿蓝色背心和充满活力的橙色花卉迷你裙。右下角：她坐在白色柱子旁的木质甲板上，远处是城市天际线，头上戴着红色太阳镜，身穿 {argument name="bottom outfit" default="印有蓝色波浪图案的白色 T 恤、蓝色抽绳短裤"}，并提着一个印有白色粗体字“GENTLE WOMAN”的大号红色手提袋。
+
+[English]
+A 4-panel grid (2x2 layout) featuring a cute anime girl with a {argument name="hair color" default="vibrant purple"} bob haircut and light freckles enjoying a sunny summer beach day. Top-Left: She is sitting on a wooden pier by the deep blue sea, wearing a red baseball cap with a white heart, a white long-sleeve shirt with blue stripes that says '{argument name="shirt text" default="SUMMER"}', blue shorts, and white socks with red sneakers, holding a large red 'BEACH' tote bag. Top-Right: She is kneeling on the sandy beach shore, holding a blue starfish near her face, wearing a straw sunhat, a blue off-the-shoulder top that says 'OCEAN', and red shorts, with a small heart drawn in the sand. Bottom-Left: She is kneeling on the beach with ocean waves behind her, holding a folding fan and a woven straw tote bag, wearing a straw hat with a yellow hibiscus flower, a blue tank top, and a vibrant orange floral mini-skirt. Bottom-Right: She is sitting on the wooden deck by a white post with a city skyline in the distance, wearing red sunglasses on her head, {argument name="bottom outfit" default="a white t-shirt with a blue wave graphic, blue drawstring shorts"}, and carrying a large red tote bag with white bold text that says 'GENTLE WOMAN'.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2076539962338799800) | 2026-07-13
+
+---
+
+### 🎬 例 4044：嫦娥荷花舞分镜图
+
+![嫦娥荷花舞分镜图](../../images/%E5%AB%A6%E5%A8%A5%E8%8D%B7%E8%8A%B1%E8%88%9E%E5%88%86%E9%95%9C%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张名为 {argument name="poster title" default="《嫦娥仙子·瑶池荷上舞》九宫格分镜图"} 的中国古典神话电影感分镜海报，展示嫦娥在天界瑶池的巨型荷叶上表演优雅的连续古典舞。
+
+画布：1:1 正方形海报，排布为标准的 3×3 网格，带有深色细分割线，如同电影导演的分镜接触印样。底部增加一条窄装饰标题栏，配有小型花纹装饰和居中的中文标题。每个分镜画面既要像独立的奇幻画作，又能连贯成完整的舞蹈序列。
+
+视觉风格：超精细电影感中国神话奇幻风格，月光蓝银色调，浪漫空灵，轻雾缭绕，水面波光粼粼，明亮的满月，星空，远处的金色宫殿亭台与灯笼，天池中盛开的荷花与宽大的荷叶。采用写实数字绘画，展现细腻的丝绸质感、高细节度、柔和光晕以及飘逸织物带来的优雅动态模糊。
+
+主体：{argument name="character name" default="嫦娥仙子"}，一位美丽的中国女神，留着黑色长发，佩戴华丽的银饰和玉饰，皮肤白皙透亮，神情宁静，身着层叠飘逸的 {argument name="dress color" default="白冰蓝相间"} 汉服舞衣，配有半透明纱袖和长飘带。她赤足或轻盈地伫立在倒映着水面的巨大荷叶上。
+
+布局与分镜内容：包含 9 个带编号的分镜，每个分镜左上角有带圈数字，并配有白色/金色书法风格的中文舞台指示。9 个分镜分别为：1) “月下登场” — 嫦娥在月下登场，侧身站在巨型荷叶上，面纱在身后拖曳。2) “轻扬云袖” — 她双臂向外展开，扬起云袖，丝绸袖摆在空中飘浮。3) “俯身掬水” — 她俯身触碰或掬起池水，荷叶旁水珠飞溅，涟漪荡漾。4) “莲步轻移” — 她单臂伸展，在荷叶间轻盈迈步，裙摆和飘带低垂扫过。5) “旋转舒展” — 中心旋转姿态，裙摆和袖子呈圆形旋开，周围添加白色动态弧线。6) “轻跃回身” — 她轻跃回身，裙摆和飘带戏剧性地向一侧飞扬。7) “举臂望月” — 她单臂举向满月并抬头仰望，呈现出高傲优雅的剪影。8) “缓缓收势” — 她动作放缓并收势，在荷叶上优雅地坐下或缓缓落下，袖摆舒缓飘动。9) “仙姿定格” — 最终标志性姿态，单臂高举挺立，身后是月亮与银河，裙摆沉静，定格为庄重的终场。
+
+文字与图形细节：使用列出的中文分镜标题，并在每个标题下方添加简短的中文描述行，以模仿分镜注释。在多个分镜中添加白色手绘曲线箭头和动态轨迹以展示编舞。底部标题栏文字应为 {argument name="bottom title text" default="《嫦娥仙子·瑶池荷上舞》九宫格分镜图"}。保持字体优雅且易读，但图像应以视觉呈现为主。
+
+约束条件：使用 3×3 排布的 9 个分镜，每个分镜中仅包含一个女神形象，所有分镜中的服装和面容保持一致，统一的月光瑶池背景，无现代物品，无额外分镜，无水印，无 Logo。
+
+[English]
+Goal: Create a Chinese classical mythology cinematic storyboard poster titled {argument name="poster title" default="《嫦娥仙子·瑶池荷上舞》九宫格分镜图"}, showing Chang'e performing an elegant continuous classical dance on giant lotus leaves in the heavenly Yaochi pond.
+
+Canvas: Square 1:1 poster, arranged as an exact 3×3 grid with thin dark divider lines, like a film director's storyboard contact sheet. Add a narrow decorative bottom title strip with small ornamental flourishes and the centered Chinese title. Each panel should feel like a standalone fantasy painting while also connecting into one complete dance sequence.
+
+Visual style: Ultra-detailed cinematic Chinese myth fantasy, moonlit blue-silver palette, romantic and ethereal, soft mist, sparkling water reflections, luminous full moon, starry night sky, distant golden palace pavilions and lanterns, lotus blossoms and broad lotus leaves across the heavenly lake. Use realistic digital painting with delicate silk textures, high detail, gentle glow, and graceful motion blur in flowing fabric.
+
+Main subject: {argument name="character name" default="Chang'e fairy"}, a beautiful Chinese goddess with long black hair, ornate silver-and-jade hair ornaments, pale luminous skin, serene expression, and a layered flowing {argument name="dress color" default="white and ice-blue"} Hanfu dance costume with translucent gauze sleeves and long ribbons. She dances barefoot or lightly standing on enormous lotus leaves above reflective water.
+
+Layout and panel content: Include exactly 9 numbered panels, each with a circled number in the upper-left corner and Chinese stage directions in white/gold calligraphy-style text. The 9 panels are: 1) “月下登场” — Chang'e enters under the moon, standing side-on on a giant lotus leaf, veil trailing behind her. 2) “轻扬云袖” — she raises both cloud sleeves, arms opening outward, silk sleeves floating in the air. 3) “俯身掬水” — she bends down to touch or scoop water, droplets and ripples sparkling beside the lotus leaf. 4) “莲步轻移” — she steps delicately across the lotus leaves with one arm extended, hem and ribbons sweeping low. 5) “旋转舒展” — central spinning pose, dress and sleeves spread in a circular whirl, add white motion arcs around her. 6) “轻跃回身” — she leaps and turns back, skirt and ribbons flying dramatically to the side. 7) “举臂望月” — she raises one arm toward the full moon and gazes upward, a proud elegant silhouette. 8) “缓缓收势” — she slows and gathers the dance, seated or lowering gracefully on the lotus leaf with relaxed flowing sleeves. 9) “仙姿定格” — final iconic pose, standing tall with one arm lifted, moon and Milky Way behind her, dress settling into a majestic finish.
+
+Text and graphic details: Use the Chinese panel titles exactly as listed, plus short smaller Chinese descriptive lines under each title to mimic a storyboard annotation. Add white hand-drawn curved arrows and motion trails in several panels to show the choreography. Bottom title strip text should read {argument name="bottom title text" default="《嫦娥仙子·瑶池荷上舞》九宫格分镜图"}. Keep the typography elegant and legible, but the image should remain primarily visual.
+
+Constraints: Use exactly 9 panels in a 3×3 arrangement, one goddess figure per panel, consistent costume and face across all panels, consistent moonlit Yaochi setting, no modern objects, no extra panels, no watermark, no logo.
+```
+
+**来源：** [@DeepBlue深藍](https://x.com/DeepBlueAIX/status/2076501192574947690) | 2026-07-13
+
+---
+

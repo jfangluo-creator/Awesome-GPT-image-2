@@ -18522,3 +18522,350 @@ Constraints: Keep the outfit as the clear central focus, do not add a person or 
 
 ---
 
+### 🎴 例 3967：电影级仙侠提示词海报
+
+![电影级仙侠提示词海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E4%BB%99%E4%BE%A0%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版中文社交媒体信息图海报，用于教授 {argument name="model name" default="GPT Image-2"} 的电影级东方仙侠人像提示词，采用高级暗色电影海报美学，并配以大尺寸圆角白色内容卡片。
+
+画布：3:4 竖版海报，深炭黑色背景，带有细腻的暖色光斑和淡淡的花瓣薄雾。中心放置一个大尺寸灰白色圆角矩形面板，带有柔和阴影和细边框，周围留出窄窄的深色边距。
+
+标题：在顶部（白色卡片外或上方），放置一个醒目的粉白色中文大标题：{argument name="headline text" default="电影级东方仙侠写真提示词"}。下方添加较小的白色副标题：{argument name="subtitle text" default="适配 GPT Image-2 完整版"}。在下方添加一行居中的微型标签：“盛唐宫廷 / 梦幻云海 / 柔焦光影 / 超现实漂浮 / 电影质感”。
+
+布局：白色面板内采用双栏布局。左侧栏为文字密集区，宽度约 48%。右侧栏为竖向画廊，宽度约 52%，包含 3 张电影级示例图片，图片采用圆角和细边框设计。每张示例上方均有一个粉色中文小标签：1) “版本一：云海软榻”，2) “版本二：仙鹤宫殿”，3) “版本三：花瓣云端”。
+
+左侧栏内容：使用带有圆形小图标的粉色章节标题。第一部分标题：“核心提示词（复制使用）”。下方设置密集的黑色中文正文，描述一位唐风仙侠造型的成年中国古代宫廷女性电影级写实人像，包括：白皙皮肤、精致五官、华丽发髻、金钗、珍珠流苏、青蓝色薄纱外袍、深红色宫廷抹胸、刺绣丝绸、珠宝、云海、仙鹤、花瓣、宝石、梦幻光影、花卉、柔光、85mm 镜头、浅景深、电影级调色、超写实、8K、HDR、RAW 照片、Kodak Portra 400、Unreal 电影质感、体积光、杰作、最高画质。在中文文本中混入部分英文技术词汇，保持提示词文档的专业感。
+
+负面提示词区块：在主提示词下方，添加一个粉色 X 图标和标题“负面提示词（避免出现）”。添加一段简洁的英文段落：“low quality, blurry, CGI, anime, cartoon, 3D render, doll face, wax skin, modern clothes, text, watermark, bad anatomy, extra fingers, deformed hands, oversaturated, bad proportions, ugly face, jpeg artifacts”。
+
+关键词区块：添加一条分割线，随后是标题“风格关键词”。展示 10 个圆角米色胶囊标签，分两行排列：1) 盛唐宫廷，2) 东方仙侠，3) 梦幻云海，4) 漂浮饰品，5) 仙鹤，6) 柔焦胶片，7) 逆光体积光，8) 华丽珠宝，9) 青绿×暗红，10) 超浅景深。
+
+使用建议区块：添加标题“使用建议”及 3 条中文要点：1) “直接复制【核心提示词】到 GPT Image-2 使用”，2) “根据需要选择版本一/二/三的描述进行微调”，3) “可添加 ‘9:16 竖版’ 或 ‘3:4 竖版’ 来控制画面比例”。
+
+右侧画廊图片细节：3 张图片均呈现同一角色：{argument name="character description" default="年轻的中国仙侠宫廷美女，配有华丽黑色发髻、金凤冠、珍珠流苏、白皙皮肤、深红色刺绣抹胸、青色半透明丝绸长袍、精致珠宝"}。图片 1 展示她斜倚在昏暗宫殿的粉色云朵间，伴有漂浮花朵、温暖窗光和超现实梦幻薄雾。图片 2 展示她坐在宫殿窗边或露台上，俯瞰湖泊，可见 3 只仙鹤，暖色日落薄雾，深色室内框架，以及柔和的电影级侧光。图片 3 展示她站在或倚靠在云海之上的阳台上，花瓣飞舞，仙鹤在天空中盘旋，金色逆光，青红交织的飘逸长袍，史诗般的浪漫氛围。
+
+视觉风格：优雅的中国式编辑排版，淡腮红粉色字体，简洁的无衬线中文字体，电影级柔和对比度，暖色高光，细腻噪点，高级小红书风格提示词卡片。保持海报信息密集但易于阅读。
+
+页脚：在左下方的深色边距处，添加一行微小的灰色版权风格文字：“© 提示词创作分享｜用 AI 复制电影级东方美学”。
+
+约束：使用 3 张画廊图片和 10 个关键词标签。保持所有中文文本清晰易读。避免使用 Logo、水印、UI 界面元素、随机额外板块或额外的示例图片。
+
+[English]
+Goal: Create a vertical Chinese social-media infographic poster teaching a cinematic Eastern xianxia portrait prompt for {argument name="model name" default="GPT Image-2"}, with a premium dark movie-poster aesthetic and a large rounded white content card.
+
+Canvas: 3:4 vertical poster, dark charcoal-black background with subtle warm bokeh and faint floral haze. Center a large off-white rounded rectangle panel with soft shadow and thin border, leaving a narrow dark margin around it.
+
+Header: At the top, outside or slightly above the white card, place a large pink-white Chinese headline: {argument name="headline text" default="电影级东方仙侠写真提示词"}. Under it, add a smaller white subtitle: {argument name="subtitle text" default="适配 GPT Image-2 完整版"}. Add a tiny centered tagline row beneath: “盛唐宫廷 / 梦幻云海 / 柔焦光影 / 超现实漂浮 / 电影质感”.
+
+Layout: Inside the white panel use a two-column layout. The left column is text-heavy, about 48% width. The right column is a vertical gallery, about 52% width, containing exactly 3 cinematic sample images stacked with rounded corners and thin borders. Each sample has a small pink Chinese label above it: 1) “版本一：云海软榻”, 2) “版本二：仙鹤宫殿”, 3) “版本三：花瓣云端”.
+
+Left column content: Use pink section headings with small circular icons. First section title: “核心提示词（复制使用）”. Under it, set dense black Chinese body text describing a cinematic realistic portrait of an adult ancient Chinese court woman in Tang-style xianxia fashion, including fair skin, delicate features, ornate updo, gold hairpins, pearl tassels, turquoise-blue gauze outer robe, crimson palace bodice, embroidered silk, jewelry, cloud sea, cranes, petals, gemstones, dreamy lighting, bloom, soft glow, 85mm lens, shallow depth of field, cinematic grading, ultra realistic, 8K, HDR, RAW photo, Kodak Portra 400, Unreal cinematic, volumetric light, masterpiece, best quality. Include some English technical phrases mixed into the Chinese text exactly like a prompt sheet.
+
+Negative prompt block: Below the main prompt, add a pink X icon and the heading “负面提示词（避免出现）”. Add a compact paragraph in English: “low quality, blurry, CGI, anime, cartoon, 3D render, doll face, wax skin, modern clothes, text, watermark, bad anatomy, extra fingers, deformed hands, oversaturated, bad proportions, ugly face, jpeg artifacts”.
+
+Keyword block: Add a divider line, then the heading “风格关键词”. Show exactly 10 rounded beige pill tags in two rows: 1) 盛唐宫廷, 2) 东方仙侠, 3) 梦幻云海, 4) 漂浮饰品, 5) 仙鹤, 6) 柔焦胶片, 7) 逆光体积光, 8) 华丽珠宝, 9) 青绿×暗红, 10) 超浅景深.
+
+Usage advice block: Add the heading “使用建议” and exactly 3 bullet points in Chinese: 1) “直接复制【核心提示词】到 GPT Image-2 使用”, 2) “根据需要选择版本一/二/三的描述进行微调”, 3) “可添加 ‘9:16 竖版’ 或 ‘3:4 竖版’ 来控制画面比例”.
+
+Right gallery image details: All 3 images feature the same {argument name="character description" default="young adult Chinese xianxia court beauty with ornate black updo, gold phoenix crown, pearl tassels, fair skin, crimson embroidered bodice, teal translucent silk robe, elaborate jewelry"}. Image 1 shows her reclining among pink clouds inside a dim palace, with floating flowers, warm window light, and surreal dreamy haze. Image 2 shows her seated by a palace window or terrace overlooking a lake with exactly 3 visible cranes, warm sunset mist, dark interior frame, and soft cinematic side light. Image 3 shows her standing or leaning on a balcony above a glowing sea of clouds, petals flying, cranes in the sky, golden backlight, teal and crimson flowing robes, epic romantic atmosphere.
+
+Visual style: Elegant Chinese editorial layout, pale blush-pink typography, clean sans-serif Chinese fonts, cinematic soft contrast, warm highlights, subtle grain, premium Xiaohongshu-style prompt card. Keep the poster information-dense but readable.
+
+Footer: At the bottom left on the dark margin, add a tiny gray copyright-style line: “© 提示词创作分享｜用 AI 复制电影级东方美学”.
+
+Constraints: Use exactly 3 gallery images and exactly 10 keyword tags. Keep all Chinese text crisp and legible. Avoid logos, watermarks, UI chrome, random extra sections, or additional sample images.
+```
+
+**来源：** [@暗号](https://x.com/panxi110/status/2076816046036828557) | 2026-07-13
+
+---
+
+### 🎴 例 3968：大唐奇幻三联画
+
+![大唐奇幻三联画](../../images/%E5%A4%A7%E5%94%90%E5%A5%87%E5%B9%BB%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅垂直电影级东方奇幻时尚摄影三联画，主角为 {argument name="character name" default="一位年轻的唐代贵族女子"}，身着奢华宫廷服饰，置身于梦幻般的云海、仙鹤、漂浮珠宝和飘落花瓣之中。
+
+画布：高垂直 9:16 海报布局，包含 3 个电影剧照面板：顶部一半为一个大面板，底部一半为两个并排的等大面板，面板间以细白边分隔。使用超精细的 gpt-image-2 写实风格、柔光效果、浅景深、温暖的金色与粉色高光、细腻的薄雾以及高端电影级调色。
+
+面板 1（顶部大场景）：贵族女子斜倚在深色木质唐代宫殿大厅内浓厚的淡粉色云层中。她身后的格子窗透出柔和的阳光，背景中隐约可见装饰性的剪影。她梳着精致的高耸黑色发髻，佩戴金簪、垂坠链条、花卉饰品和额饰。她神情梦幻且略带忧郁，望向侧方。她周围漂浮着 7 件华丽物品：头顶上方 1 把金梳，左上方 1 支树枝状金簪，右上方 1 件花卉链条饰品，右侧 1 件长垂坠耳饰状饰品，最左侧 1 串珍珠气泡，左下方 1 个珠宝球，以及靠近左下中心的 1 簇小型花卉珠宝。添加淡粉色云朵、细小花瓣、柔和闪光以及精细的刺绣面料。
+
+面板 2（左下场景）：同一女子站在高大的宫殿窗户和华丽的雕花屏风旁，身着同样的唐风服饰和珠宝。她面朝前方，神情平静而怀旧，一只手轻触头发，另一只手从画外伸出调整她的衣袖，暗示有侍从在场。背景展现出云雾缭绕的云海和花团锦簇的庭院。包含 4 只仙鹤：左上方 1 只飞翔的大仙鹤，右上方附近 1 只飞翔的仙鹤，左下方 1 只站立的仙鹤，以及中下方远处 1 只较暗的仙鹤剪影。保持光线温暖、逆光且朦胧。
+
+面板 3（右下场景）：贵族女子站在湖畔露台户外，远处是群山和明亮的蓝天。她微微仰头，神态宁静优雅。她身着深青色刺绣长袍，内搭红金锦缎裙，系红色腰带，佩戴珍珠链、叠戴项链，发间插着一朵红花。此面板包含 3 只仙鹤：左上方附近 1 只飞鹤，最右侧 1 只白鹤，中间附近 1 只远处的仙鹤。包含 4 件漂浮的珠宝物品：2 个半透明水晶球，1 个华丽的玉质吊坠，以及 1 颗小红宝石。添加飘落的粉色花瓣和柔和的镜头光晕。
+
+主体细节：女子拥有白皙如瓷的皮肤、精致的东亚面部特征、梳成高耸唐代发髻的乌黑亮发、精致的妆容、额间饰品和优雅的姿态。服装颜色为 {argument name="robe colors" default="深青色、绯红色、古金色和柔粉色"}；面料应展现出密集的刺绣花纹、金属线、珠饰、珍珠和层叠的半透明袖口。
+
+视觉风格：{argument name="visual style" default="电影级中国奇幻写实风格"}，高度精细的纹理，空灵的云海，宫殿窗户的轮廓光，体积雾，柔和的粉金色氛围，奢华历史服装摄影，浪漫且超凡脱俗的意境。
+
+约束条件：无文字，无水印，无现代物品，无额外面板。必须保留 3 个面板，顶部面板包含 7 件漂浮的华丽物品，左下面板包含 4 只仙鹤，右下面板包含 3 只仙鹤和 4 件漂浮的珠宝物品。
+
+[English]
+Goal: Create a vertical cinematic Oriental fantasy fashion-photography triptych featuring {argument name="character name" default="a young Tang Dynasty noblewoman"} in luxurious palace attire, surrounded by dreamlike clouds, cranes, floating jewelry, and falling petals.
+
+Canvas: Tall vertical 9:16 poster layout with exactly 3 movie-still panels: 1 large panel across the entire top half, and 2 equal smaller panels side-by-side on the bottom half, separated by thin white borders. Use ultra-detailed gpt-image-2 realism, soft bloom, shallow depth of field, warm golden-pink highlights, delicate haze, and high-end cinematic color grading.
+
+Panel 1, top large scene: The noblewoman reclines among thick pastel pink cloud banks inside a dark wooden Tang Dynasty palace hall. Latticed windows glow behind her with diffused sunlight, and a shadowy ornamental silhouette stands in the background. She wears an elaborate high black updo with gold hairpins, dangling chains, floral ornaments, and forehead jewelry. Her expression is dreamy and slightly melancholic, looking off to the side. Around her float exactly 7 ornate objects: 1 golden comb above her head, 1 branch-like gold hairpin to the upper left, 1 flower-and-chain ornament above right, 1 long dangling earring-like ornament to the right, 1 pearl bubble strand at far left, 1 jeweled sphere at lower left, and 1 small floral jewel cluster near the lower center. Add pale pink clouds, tiny petals, soft sparkles, and detailed embroidered fabric.
+
+Panel 2, bottom left scene: The same woman stands near tall palace windows and ornate carved screens, wearing the same Tang-inspired outfit and jewelry. She faces forward with a calm, wistful expression while one hand touches her hair and another hand from off-frame adjusts her sleeve, suggesting attendants. The background opens to a misty cloud sea and a flower-filled garden. Include exactly 4 cranes: 1 large crane flying at upper left, 1 crane flying near upper right, 1 standing crane at lower left, and 1 darker crane shape near the lower middle distance. Keep lighting warm, backlit, and hazy.
+
+Panel 3, bottom right scene: The noblewoman stands outdoors near a lakeside terrace with distant hills and a bright blue sky. She tilts her head slightly upward, serene and elegant. She wears a deep teal embroidered robe over a red-and-gold brocade dress with a structured red waist sash, pearl chains, layered necklaces, and a red flower in her hair. Include exactly 3 cranes in this panel: 1 flying crane near the upper left, 1 white crane at the far right, and 1 small distant crane near the middle. Include exactly 4 floating jeweled objects: 2 translucent crystal spheres, 1 ornate jade-like pendant, and 1 small red gem. Add falling pink petals and soft lens bloom.
+
+Subject details: The woman has pale porcelain skin, delicate East Asian facial features, glossy black hair in a towering Tang Dynasty coiffure, refined makeup, a small forehead adornment, and a graceful posture. Her outfit colors are {argument name="robe colors" default="deep teal, crimson red, antique gold, and soft rose"}; fabrics should show dense floral embroidery, metallic thread, beadwork, pearls, and layered translucent sleeves.
+
+Visual style: {argument name="visual style" default="cinematic Chinese fantasy realism"}, highly detailed textures, ethereal cloud sea, palace-window rim light, volumetric haze, soft pink-gold atmosphere, luxury historical costume photography, romantic and otherworldly mood.
+
+Constraints: No text, no watermark, no modern objects, no extra panels. Preserve exactly 3 panels, exactly 7 floating ornate objects in the top panel, exactly 4 cranes in the bottom-left panel, and exactly 3 cranes plus 4 floating jeweled objects in the bottom-right panel.
+```
+
+**来源：** [@暗号](https://x.com/panxi110/status/2076814797337964776) | 2026-07-13
+
+---
+
+### 🎴 例 3981：迪拜 Risography 风格旅行海报
+
+![迪拜 Risography 风格旅行海报](../../images/%E8%BF%AA%E6%8B%9C%20Risography%20%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受 Risography 启发、风格时尚现代的 {argument name="location" default="DUBAI"} 旅行海报。使用简约的城市插画元素：广安大桥、海浪、海鸥、沙滩伞、市场里的鱼篓、霓虹灯路牌以及小型抽象装饰图形。创作一张大胆、多层叠印的 Risography 海报，展现不完美的油墨设计、半透明的叠印色彩、半色调颗粒感、粗糙的纸张纹理、扁平图形、趣味几何形状以及充满活力的编辑排版。在白色纸张背景上使用 {argument name="color palette" default="荧光粉、亮蓝、暖黄、橙红、叶绿和浓郁钴蓝"}。添加醒目的英文标题：主标题：“{argument name="title" default="DUBAI"}”，以及一段描述该城市的副标题。页脚文字：“ARTISTIC PRINTING · COASTAL STORIES · 2026”。设计风格应明快、具有文化气息、现代、有趣且具有收藏价值，如同为当地创意节设计的独立 Risography 海报。避免复制任何现有的海报、艺术家风格、企业标识、Logo、吉祥物、受版权保护的角色、确切布局或可识别的商业设计。仅受 Risography 印刷技术和现代独立海报设计的启发，创作原创构图。
+
+[English]
+Create a stylish modern travel poster inspired by risography about {argument name="location" default="DUBAI"}. Use simplified illustrated images of the city: the Gwanganje Bridge, ocean waves, seagulls, beach umbrellas, fish baskets at the market, neon street signs and small abstract decorative figures. Create a bold, multi-layered risographic poster with imperfect ink design, translucent colors printed on top, graininess in semitones, rough paper texture, flat graphic shapes, playful geometric shapes, and energetic editorial composition. Use {argument name="color palette" default="fluorescent pink, bright blue, warm yellow, orange-red, leafy green, and rich cobalt blue"} on a white paper background. Add bold font in English: Main title: “{argument name="title" default="DUBAI"}” A subtitle describing the city.The text in the footer: ”ARTISTIC PRINTING · COASTAL STORIES · 2026“ The design should be bright, cultural, modern, playful and collectable, like the original independent risographic poster for a local creative festival. Avoid copying any existing poster, artist's style, corporate identity, logo, mascot, copyrighted character, exact layout, or recognizable commercial design. Create an original composition inspired only by risographic printing technologies and modern independent poster design.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2076696471169315280) | 2026-07-13
+
+---
+
+### 🎴 例 3983：80 年代惊悚风格城市海报
+
+![80 年代惊悚风格城市海报](../../images/80%20%E5%B9%B4%E4%BB%A3%E6%83%8A%E6%82%9A%E9%A3%8E%E6%A0%BC%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="city" default="波哥大"} 风格的 {argument name="decade" default="80"} 年代惊悚电影海报，包含雨水、山丘和砖砌建筑元素
+
+[English]
+{argument name="ciudad" default="bogotá"} como el cartel de un thriller de los {argument name="década" default="80"}, la lluvia, los cerros y el ladrillo
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2076683829751034058) | 2026-07-13
+
+---
+
+### 🎴 例 3991：极简主义 Pepsi 商业广告
+
+![极简主义 Pepsi 商业广告](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Pepsi%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，以超大号 {argument name="brand drink" default="Pepsi"} 罐为特色，设计极其简洁。一位身着利落全黑服装的 {argument name="subject" default="年轻女性"} 姿态从容自信地倚靠在巨型罐装饮料旁，双眼微闭，手中拿着一瓶玻璃瓶装的 Pepsi。背景为柔和的蓝色渐变，后方印有醒目的白色大号 “Pepsi” 字样。地面具有光泽感和反射效果，采用柔和的摄影棚灯光，呈现出现代高端时尚与产品摄影风格。右上角有小字 “Designed by Mr Das”。底部中央为白色小字体标语：“{argument name="tagline" default="Live for now."}”
+
+[English]
+Minimalist commercial ad featuring an oversized {argument name="brand drink" default="Pepsi"} can, ultra clean design. A {argument name="subject" default="young woman"} in a sleek all-black outfit leans casually against the giant can in a relaxed confident pose, eyes closed, holding a glass bottle of Pepsi. Soft gradient blue background with large bold white “Pepsi” text behind. Glossy reflective floor, soft studio lighting, modern high end fashion and product photography. Small top right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name="tagline" default="Live for now."}”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2076658344652353917) | 2026-07-13
+
+---
+
+### 🎴 例 3992：Risography 风格迪拜旅行海报
+
+![Risography 风格迪拜旅行海报](../../images/Risography%20%E9%A3%8E%E6%A0%BC%E8%BF%AA%E6%8B%9C%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受 Risography 风格启发、时尚现代的 {argument name="city" default="迪拜"} 旅行海报。使用该城市的简化插图：{argument name="landmarks" default="广安里大桥、海浪、海鸥、沙滩伞、市场里的鱼篓、霓虹灯路牌以及小型抽象装饰图形"}。创作一张大胆的、多层叠加的 Risography 海报，呈现出不完美的油墨设计、半透明的叠印色彩、半色调颗粒感、粗糙的纸张纹理、扁平的图形形状、俏皮的几何图形以及充满活力的编辑排版。在白色纸张背景上使用 {argument name="color palette" default="荧光粉、亮蓝、暖黄、橘红、叶绿和浓郁的钴蓝色"}。添加粗体英文文字：主标题：“DUBAI”，以及描述该城市的副标题。页脚文字：“ARTISTIC PRINTING · COASTAL STORIES · 2026”。设计应明亮、具有文化气息、现代、俏皮且具有收藏价值，如同当地创意节上原创的独立 Risography 海报。避免复制任何现有的海报、艺术家风格、企业形象、标志、吉祥物、受版权保护的角色、确切布局或可识别的商业设计。仅受 Risography 印刷技术和现代独立海报设计的启发，创作原创构图。
+
+[English]
+Create a stylish modern travel poster inspired by risography about {argument name="city" default="DUBAI"}. Use simplified illustrated images of the city: {argument name="landmarks" default="the Gwanganje Bridge, ocean waves, seagulls, beach umbrellas, fish baskets at the market, neon street signs and small abstract decorative figures"}. Create a bold, multi-layered risographic poster with imperfect ink design, translucent colors printed on top, graininess in semitones, rough paper texture, flat graphic shapes, playful geometric shapes, and energetic editorial composition. Use {argument name="color palette" default="fluorescent pink, bright blue, warm yellow, orange-red, leafy green, and rich cobalt blue"} on a white paper background. Add bold font in English: Main title: “DUBAI” A subtitle describing the city. The text in the footer: ”ARTISTIC PRINTING · COASTAL STORIES · 2026“ The design should be bright, cultural, modern, playful and collectable, like the original independent risographic poster for a local creative festival. Avoid copying any existing poster, artist's style, corporate identity, logo, mascot, copyrighted character, exact layout, or recognizable commercial design. Create an original composition inspired only by risographic printing technologies and modern independent poster design.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2076658289572773985) | 2026-07-13
+
+---
+
+### 🎴 例 4011：高端办公家具商业项目
+
+![高端办公家具商业项目](../../images/%E9%AB%98%E7%AB%AF%E5%8A%9E%E5%85%AC%E5%AE%B6%E5%85%B7%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 横屏格式的专业电影级商业项目，设计风格参考高端拍摄列表演示，用于 {argument name="collection name" default="KAIRO OBSIDIAN DESK"} 高端办公系列产品广告。整体设计：超高端工作空间设计艺术
+
+[English]
+Create a professional cinematic commercial storyboard in 16:9 landscape format, designed like a premium shot list presentation for a {argument name="collection name" default="KAIRO OBSIDIAN DESK"} premium office collection product ad. Overall design: Ultra-premium workspace design art
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2076621381161398688) | 2026-07-13
+
+---
+
+### 🎴 例 4020：“爱是……”加油站日出海报
+
+![“爱是……”加油站日出海报](../../images/%E2%80%9C%E7%88%B1%E6%98%AF%E2%80%A6%E2%80%A6%E2%80%9D%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%97%A5%E5%87%BA%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张浪漫且幽默的海报/电子贺卡，采用温暖的半写实数字插画风格，展示一对情侣在俄罗斯 Rosneft 加油站观看日出，并配有讽刺意味的“Love is...”排版。
+
+画布：竖版肖像海报，比例约为 3:4，米色纸张背景，带有细黑色矩形边框。中央插画采用柔和的粗糙边缘晕影/绘画边框，在顶部和底部留出白色页边距用于放置文字。
+
+文字内容：在左上角放置粗体俄语标题 {argument name="top headline text" default="Любовь это..."}。在其正下方，添加斜体衬线英文文本 {argument name="subtitle text" default="Love is ..."}。在底部中央，添加粗体俄语说明文字 {argument name="bottom caption text" default="...встречать рассвет на заправке"}。所有文字均保持黑色。在右上角添加 2 个带有黑色轮廓的粉色卡通爱心。
+
+主体场景：Rosneft 加油站的金橙色日出。太阳位于地平线低处，天空中布满戏剧性的粉色、橙色和紫色云彩，湿润的地面反射着温暖的光线，路边环境宁静。右侧是黄橙色的 Rosneft 加油站顶棚，顶棚边缘带有黑色 Rosneft 标志和“РОСНЕФТЬ”字样。在顶棚下，展示 4 个清晰可见的加油位，并标有红色/黄色的小数字牌，背景中有一座标有“МАГАЗИН”的小型便利店建筑。
+
+前景人物：在下方中央，从背后绘制 2 个人物：一名年轻女性和一名年轻男性紧紧相拥，腰部相贴，望向日出和加油站。女性留着 {argument name="woman hair color" default="长深棕色头发"}，身穿修身白色短袖上衣、高腰浅蓝色阔腿牛仔裤和白色运动鞋。男性留着短黑发和修剪整齐的胡须，身穿纯白色 T 恤、米色长裤和深色运动鞋。他们的姿势应显得温柔而安静。
+
+车辆：在右侧前景，展示 1 辆停放的银灰色 Haval SUV 的后部，带有红色尾灯，后挡板上有“HAVAL”字样，以及“Jolion”和“4WD”标识，车牌为俄罗斯风格的“K-595-KK 123 RUS”。
+
+左侧价格牌：在左侧前景，包含 1 个高大的黄色 Rosneft 价格牌，带有红色侧边装饰，顶部有 Rosneft 标志、“РОСНЕФТЬ”字样，以及 4 行燃油价格：“92 67.00”、“95 67.00”、“98 67.00”和“ДТ 67.00”。在价格行下方，添加“МАГАЗИН”字样和小型服务/支付图标。在价格牌后方的杆子上添加 1 面黄色 Rosneft 旗帜。
+
+视觉风格：精致的数字绘画插画，局部带有清晰的黑色轮廓，温暖的日落光影，略带怀旧明信片感，写实的透视，丰富的反射效果，以及柔和的晕影边缘。保留浪漫爱情卡片排版与平凡加油站场景之间的幽默对比。
+
+约束：不要添加额外的人、车或爱心。保持布局清晰，顶部文字、中央插画和底部说明文字需明确分开。避免照片级写实，采用精致的插画海报艺术风格。
+
+[English]
+Goal: Create a romantic humorous poster/ecard in the style of a warm semi-realistic digital illustration, showing a couple watching sunrise at a Russian Rosneft gas station, with ironic “Love is...” typography.
+
+Canvas: Vertical portrait poster, approximately 3:4 aspect ratio, cream paper background with a thin black rectangular border. The central illustration has a soft rough-edged vignette/painted frame, leaving white margin for text at the top and bottom.
+
+Text content: At the top left, place a bold Russian headline {argument name="top headline text" default="Любовь это..."}. Directly below it, add italic serif English text {argument name="subtitle text" default="Love is ..."}. At the bottom center, add bold Russian caption {argument name="bottom caption text" default="...встречать рассвет на заправке"}. Keep all text black. Add exactly 2 pink cartoon hearts with black outlines in the upper right corner.
+
+Main scene: A golden-orange sunrise at a Rosneft gas station. The sun is low on the horizon, with dramatic pink, orange, and purple clouds across the sky, wet-looking pavement reflecting the warm light, and a calm roadside setting. On the right is a Rosneft gas station canopy in yellow and orange with the black Rosneft logo and the word “РОСНЕФТЬ” on the fascia. Under the canopy, show exactly 4 visible fuel pump positions marked with small red/yellow number signs, plus a small convenience store building in the background labeled “МАГАЗИН”.
+
+Foreground subjects: In the lower center, draw exactly 2 people from behind: a young woman and a young man standing close together, embracing at the waist, looking toward the sunrise and gas station. The woman has {argument name="woman hair color" default="long dark brown hair"}, a fitted white short-sleeve top, high-waisted light blue wide-leg jeans, and white sneakers. The man has short dark hair and a trimmed beard, wearing a plain white T-shirt, beige pants, and dark sneakers. Their pose should feel tender and quiet.
+
+Vehicle: On the right foreground, show exactly 1 parked silver-gray Haval SUV from the rear, with red tail lights, “HAVAL” lettering across the tailgate, “Jolion” and “4WD” markings, and a Russian-style license plate reading “K-595-KK 123 RUS”.
+
+Left price sign: On the left foreground, include exactly 1 tall yellow Rosneft price sign with red side trim, Rosneft logo at top, word “РОСНЕФТЬ”, and exactly 4 fuel price rows: “92 67.00”, “95 67.00”, “98 67.00”, and “ДТ 67.00”. Below the rows, add the word “МАГАЗИН” and small service/payment icons. Add exactly 1 yellow Rosneft flag on a pole behind the sign.
+
+Visual style: Detailed painterly digital illustration with crisp black outlines in places, warm sunset lighting, slight nostalgic postcard feeling, realistic perspective, rich reflections, and soft vignette edges. Preserve the humorous contrast between romantic love-card typography and the mundane gas station setting.
+
+Constraints: Do not add extra people, extra cars, or extra hearts. Keep the layout readable with the top text, central illustration, and bottom caption clearly separated. Avoid photorealism; use polished illustrated poster art.
+```
+
+**来源：** [@𝔸𝕝𝕖𝕛𝕒𝕟𝕕𝕣𝕠 𝔾.](https://x.com/a_galaktionov/status/2076573222523310419) | 2026-07-13
+
+---
+
+### 🎴 例 4021：健身服饰网格系列宣传海报
+
+![健身服饰网格系列宣传海报](../../images/%E5%81%A5%E8%BA%AB%E6%9C%8D%E9%A5%B0%E7%BD%91%E6%A0%BC%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Lululemon Athletica 创作系列宣传海报中的第七张海报，设计为醒目的四格编辑风格运动海报，包含四位不同的运动员角色、四个独特的主题动作、极简背景、大型图形化排版，以及与每个人物进行叙事互动的精致手绘插画元素。图像必须具有超写实感、视觉冲击力、时尚前卫感和高级感，同时保持整洁的 2x2 网格结构。整体布局：使用垂直 4 格网格布局，分为四个相等的象限。每个板块必须展示不同的运动员、不同的运动姿势和不同的情感主题，但四者必须明确属于同一个 Lululemon 宣传系列。整张海报应呈现出一种当代时尚运动杂志封面系统与前卫品牌广告相结合的感觉。系列关键规则：所有四个板块必须共享相同的视觉 DNA：极简背景、醒目的编辑风格排版、写实的 Lululemon 服饰、强烈的人物与文字互动、精致的手绘图案、整洁的留白以及高级的宣传质感。每个板块应各具特色，但整页必须感觉连贯且经过精心艺术指导。色彩系统：将主宣传色调调整为：钴蓝色、鲜艳橙色、象牙白、石墨黑，并点缀少许淡天蓝色或柔和的暖灰色。色调应感觉清新、年轻、充满活力且现代。保持比之前版本更简洁、更具图形感，色彩系统需策略性地分布在四个板块中。避免随机添加额外颜色。板块 1：一位强壮的女性运动员，处于动态的延伸动作中，如长跨步、扭转或伸展，具有强烈的对角线构图和清晰的身体拉伸感。背景极简明亮，配有超大排版和精致的手绘运动轨迹或方向标记，与肢体和身体线条互动。板块 2：一位酷炫且具有统治力的低角度人物，可能站姿宽大或正向观众走来，具有夸张的透视感和强烈的街头时尚运动自信。大型粗体文字应环绕人物并与身体轮廓部分重叠。添加微妙的插画符号或图形标记，以强化冲击力、力量或平衡感。板块 3：捕捉能量、起跳、落地或过渡中的动作，体现节奏感。使用通透的构图、大型现代文字块以及与运动员运动路径相呼应的精致手绘线条或图形碎片。氛围应感觉振奋且极具视觉感。板块 4：一个雕塑般的英雄式姿势，采用低角度或仰角，配以强有力的手臂、躯干或腿部动作，作为最终的高潮板块。排版在此处应更具沉浸感，大字母与运动员进行更激进的互动，同时精致的插画点缀增加了力量、呼吸或动力的叙事感。运动员：使用多种健康的西方男女运动员模特，具有写实的解剖结构、雕塑般但真实的身材以及高级时尚运动气质。每个人物都必须感觉真实、现代、健美且富有表现力。拒绝网红脸。拒绝尴尬的姿势。拒绝解剖结构扭曲。手部、脚部、颈部、肩部、膝盖和比例必须保持准确自然。服装与产品：在每个板块中展示正宗的 Lululemon Athletica 专业运动服，以极致的写实感和高级面料质感呈现。使用多种高级运动服单品，例如：专业背心、运动内衣、轻量化专业夹克、训练上衣、修身慢跑裤、紧身裤、短裤和高级运动鞋。服装必须体现专业性、奢华感和运动驱动力，呈现真实的褶皱、拉伸张力、接缝结构、哑光运动质感和极强的产品辨识度。将新的钴蓝色和鲜艳橙色调分布在造型中，并与黑色、象牙白和石墨色平衡。排版：排版是整张海报的主要视觉力量。在每个板块中深度整合超大的英文编辑词汇和短语，字母部分置于运动员身后、身侧或周围。可能的文字方向：“LULULEMON”、“ATHLETICA”、“MOVE LOUD”、“FORM IN MOTION”、“POWER TAKES SPACE”、“STRETCH THE FRAME”。排版应醒目、现代、艺术且高级，具有强烈的层级感和动态布局。拒绝粗糙的字体。拒绝通用的运动广告文案。插画与叙事互动：在每个板块中添加精致的手绘图形元素，并与运动主题仔细匹配。这些元素可以包括：运动弧线、能量条纹、风线、象征性的波浪形式、抽象花瓣、图形火花、弯曲的书法漩涡或微妙的叙事图案。这些手绘元素必须与人物和文字互动，帮助每个板块讲述一个关于运动、力量、呼吸、节奏或控制的小故事。保持精致和整合，不要为了装饰而装饰。背景：每个板块应具有极简背景，带有轻微的色调变化、干净的天空感或工作室般的开阔感，或轻微纹理的平铺区域。不要制造杂乱的环境。重点必须放在运动员、服装、字体和手绘图形叙事上。灯光：使用明亮的高级编辑风格灯光，对运动员和服装具有极强的清晰度。光线应雕刻出肌肉、姿势、面料细节和鞋履，同时保持干净的图形阅读感。每个板块可以有略微不同的光影氛围，但所有板块必须保持在同一个高级宣传系统内。氛围：爆发力、运动感、年轻、前卫、编辑风格、高级、现代、图形化、高能量、设计感强、时尚前沿。渲染风格：超写实 Lululemon Athletica 四格宣传海报，四位不同的运动员，独特的动作主题，极简背景，巨型编辑排版，精致的手绘叙事图形，钴蓝色和鲜艳橙色调，高级运动服写实感，前卫时尚运动杂志能量，8k，世界级宣传品质。负面提示词：杂乱的拼贴画、不一致的板块风格、杂乱的背景、廉价的健身广告、薄弱的排版、扭曲的解剖结构、断肢、糟糕的手部、多余的手指、扭曲的关节、网红感、通用运动服、低细节面料、卡通涂鸦、混乱的布局、浑浊的颜色、低端海报设计、模糊的鞋子、脏乱的阴影、黑色斑点
+
+[English]
+Create the seventh poster in a unified campaign series for Lululemon Athletica, designed as a bold four-panel editorial sports poster with four different athlete characters, four distinct movement themes, minimalist backgrounds, large graphic typography, and refined hand-drawn illustrated motifs that interact narratively with each figure. The image must feel hyper-real, visually explosive, fashion-forward, and premium, while maintaining a clean structured 2x2 grid composition. Overall layout: Use a vertical 4-panel grid layout, divided into four equal quadrants. Each panel must feature a different athlete, a different movement posture, and a different emotional theme, but all four panels must clearly belong to the same Lululemon campaign family. The full poster should feel like a contemporary fashion-sport magazine cover system merged with avant-garde brand advertising. Critical series rule: All four panels must share the same visual DNA: minimal background, bold editorial typography, realistic Lululemon apparel, strong figure-to-text interaction, fine hand-drawn motifs, clean negative space, and premium campaign polish. Each panel should be unique, but the entire page must feel coherent and intentionally art-directed. Color system: Shift the main campaign palette to: cobalt blue, vivid orange, ivory white, graphite black, and small accents of pale sky blue or muted warm gray. The palette should feel fresh, youthful, energetic, and modern. Keep it cleaner and more graphic than previous versions, with the color system distributed strategically across the four panels. Avoid random extra colors. Panel 1: A powerful athletic female figure in a dynamic extended motion pose, such as a long stride, twist, or reach, with strong diagonals and clear body elongation. The background is minimal and bright, with oversized typography and refined hand-drawn motion streaks or directional marks interacting with the limbs and body line. Panel 2: A cool dominant low-angle figure, possibly standing wide or stepping toward the viewer, with exaggerated perspective and strong street-fashion athletic confidence. Large bold text should wrap around the figure and partially intersect with the body silhouette. Add subtle illustrated symbols or graphic marks that reinforce the mood of impact, strength, or balance. Panel 3: A jumping, landing, or mid-transition pose that captures energy, lift, and rhythm. Use airy composition, large modern text blocks, and delicate hand-drawn linework or graphic fragments that echo the athlete’s movement path. The mood should feel uplifting and highly visual. Panel 4: A sculptural heroic pose from a low or upward angle, with a strong arm, torso, or leg gesture, creating a final climax panel. Typography should become more immersive here, with large letters interacting with the athlete more aggressively, while fine illustrated accents add a narrative feeling of force, breath, or momentum. Athletes: Use a mix of healthy Western male and female athletic models with realistic anatomy, sculpted but believable physiques, and high-fashion sports presence. Every figure must feel real, modern, fit, and expressive. No influencer look. No awkward posing. No anatomy distortion. Hands, feet, neck, shoulders, knees, and proportions must all remain accurate and natural. Wardrobe and product: Show authentic Lululemon Athletica performance apparel in every panel, rendered with extreme realism and premium fabric fidelity. Use a mix of premium activewear pieces such as: technical tanks, sports bras, lightweight performance jackets, training tops, tailored joggers, leggings, shorts, and premium sneakers. The garments must feel technical, luxurious, and movement-driven, with realistic folds, stretch tension, seam construction, matte performance surfaces, and strong product readability. Distribute the new cobalt-blue and vivid-orange palette across the styling, balanced with black, ivory, and graphite. Typography: Typography is a major visual force across the entire poster. Use oversized English editorial words and phrases integrated deeply into each panel, with letters partially behind, beside, or around the athletes. Possible text directions: “LULULEMON” “ATHLETICA” “MOVE LOUD” “FORM IN MOTION” “POWER TAKES SPACE” “STRETCH THE FRAME” Typography should be bold, modern, artistic, and premium, with strong hierarchy and dynamic placement. No crude fonts. No generic sports-ad copy. Illustration and narrative interaction: Add fine hand-drawn graphic elements in each panel, carefully matched to the movement theme. These can include: motion arcs, energy streaks, wind lines, symbolic wave forms, abstract petals, graphic sparks, curved calligraphic swirls, or subtle narrative motifs. These drawn elements must interact with the figures and text, helping each panel tell a mini story of motion, power, breath, rhythm, or control. Keep them refined and integrated, not cartoonish or decorative for decoration’s sake. Background: Each panel should have a minimal background with slight tonal variation, clean sky-like or studio-like openness, or lightly textured flat fields. Do not create cluttered environments. The emphasis must stay on the athlete, the apparel, the type, and the hand-drawn graphic storytelling. Lighting: Use bright premium editorial lighting with strong clarity on the athletes and garments. The light should sculpt muscles, posture, fabric detail, and footwear while preserving a clean graphic read. Each panel can have slightly different light mood, but all must remain within the same premium campaign system. Mood: explosive, athletic, youthful, avant-garde, editorial, premium, modern, graphic, high-energy, sharply designed, fashion-forward. Rendering style: hyper-real Lululemon Athletica 4-panel campaign poster, four different athletes, distinct action themes, minimalist backgrounds, giant editorial typography, fine hand-drawn narrative graphics, cobalt blue and vivid orange palette, premium sportswear realism, avant-garde fashion-sport magazine energy, 8k, world-class campaign quality. Negative prompt: messy collage, inconsistent panel style, cluttered backgrounds, cheap fitness ad, weak typography, distorted anatomy, broken limbs, bad hands, extra fingers, twisted joints, influencer look, generic sportswear, low-detail fabric, cartoon doodles, chaotic layout, muddy colors, low-end poster design, blurry shoes, dirty shadows, black blotches
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2076572106565767628) | 2026-07-13
+
+---
+
+### 🎴 例 4022：禅意夏日风铃壁纸
+
+![禅意夏日风铃壁纸](../../images/%E7%A6%85%E6%84%8F%E5%A4%8F%E6%97%A5%E9%A3%8E%E9%93%83%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：高对比明快型
+主体内容：一位行走在长廊中的人物经过{argument name="核心元素" default="一串明黄色风铃"}
+情绪母题：{argument name="氛围" default="轻快、通透、夏日风感"}
+场景与意象：明黄色风铃、宝蓝天空、玉白廊柱、人物小剪影、少量风线
+构图与空间：对角线构图，风铃从上方垂下形成视觉节奏，人物位于下方行进方向上
+色彩控制：玉白用于廊柱和基底留白，宝蓝用于天空和远景空气感，明黄色用于风铃主体和少量高光，深灰用于人物轮廓；避免整图黄蓝僵硬对冲
+光线与质感：清朗日光，边缘干净，轻颗粒，纸面肌理
+画幅比例：9:16
+补充要求：风铃必须成为画面记忆点，画面要清爽明亮，不要复杂建筑细节
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2076570539184058403) | 2026-07-13
+
+---
+
+### 🎴 例 4024：极简黑白时尚拼贴画
+
+![极简黑白时尚拼贴画](../../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级极简黑白编辑风格时尚拼贴画，展示了同一位年轻男性在 {argument name="number of poses" default="九个"} 不同的自然姿势，排列成一个完美对齐的 {argument name="grid layout" default="3×3"} 网格联系表，每帧之间带有细边框。斯堪的纳维亚奢华时尚广告大片美学，简洁的视觉叙事，真实的生活瞬间，永恒的单色摄影。主体：短乱深色头发的年轻男性，面部轮廓柔和，自然的皮肤纹理，穿着 {argument name="clothing item" default="一件超大号奶油色麻花针织渔夫毛衣，配有高罗纹领口"}，宽松黑色阔腿裤，以及带有厚白底的黑色运动鞋。表情放松，微笑含蓄，情绪沉思且内省。环境：极简无缝白色圆弧摄影棚，柔和阴影，充足的留白，仅可见一把简单的椅子和黑色 V 型反光板。光影：柔和漫射的自然窗光，电影级灰度，温和对比度，细腻高光，平滑的色调过渡，精致的胶片颗粒感，编辑级摄影棚布光。相机：特写、中景和全身构图的结合，低角度视角，浅景深，50mm 和 85mm 定焦镜头质感，自然取景，时尚广告摄影。风格：奢华针织品广告，斯堪的纳维亚极简主义，《Vogue》编辑风格，Acne Studios、COS、Lemaire、Jil Sander 美学，真实的自然瞬间，舒适的冬季氛围，超写实，高分辨率，高级杂志摄影，哈苏中画幅，徕卡黑白质感，清晰的针织面料纹理，柔和的电影级质感。
+
+[English]
+A premium minimalist black and white editorial fashion collage featuring the same young man in {argument name="number of poses" default="nine"} different candid poses, arranged in a perfectly aligned {argument name="grid layout" default="3×3"} grid contact sheet with thin borders between each frame. Scandinavian luxury fashion campaign aesthetic, clean visual storytelling, authentic lifestyle moments, timeless monochrome photography. Subject: Young man with short messy dark hair, soft facial features, natural skin texture, wearing an {argument name="clothing item" default="oversized cream cable knit fisherman sweater with a high ribbed turtleneck"}, loose black wide-leg trousers, and black sneakers with thick white soles. Relaxed expressions, subtle smiles, thoughtful and introspective mood. Environment: Minimal seamless white cyclorama studio, soft shadows, abundant negative space, only a simple chair and black V-flat panel visible. Lighting: Soft diffused natural window light, cinematic grayscale, gentle contrast, subtle highlights, smooth tonal transitions, delicate film grain, editorial studio lighting. Camera: Combination of close-up, medium, and full-body compositions, low-angle perspective, shallow depth of field, 50mm and 85mm prime lens look, natural framing, fashion campaign photography. Style: Luxury knitwear campaign, Scandinavian minimalism, Vogue editorial, Acne Studios, COS, Lemaire, Jil Sander aesthetic, authentic candid moments, cozy winter mood, ultra realistic, high resolution, premium magazine photography, Hasselblad medium format, Leica monochrome look, crisp knit fabric texture, soft cinematic finish.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2076567814517956876) | 2026-07-13
+
+---
+
+### 🎴 例 4025：韩系街头潮流杂志封面设计
+
+![韩系街头潮流杂志封面设计](../../images/%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实街头潮流联名杂志封面，主角为一位身着 {argument name="brand" default="New Balance"} 配色造型的 {argument name="subject" default="韩国女性"} —— 穿着与鞋款配色呼应的运动风棒球夹克和配套直筒慢跑裤，单手在肩部高度以收藏家自豪的姿态展示着一双 {argument name="shoe model" default="New Balance 1906R"}。利落的直发搭配微刘海，大胆的编辑风格妆容，金属感眼线。背景：简洁纯净的白色影棚，墙面设有大型 New Balance 图形装置，产品阴影在地面投射出几何美感。“HIGHSNOBIETY” 刊头采用编辑风格的黑色粗体字，并标注联名 Logo。50mm 镜头，超细节的 ABZORB 中底和网面材质细节，8K 照片级画质。
+
+负面提示词：卡通、模糊、鞋子错误、水印、畸变。
+
+[English]
+Ultra-realistic streetwear collab magazine cover featuring a stylish {argument name="subject" default="Korean woman"} in a {argument name="brand" default="New Balance"} colour-coded look — a sport-prep bomber jacket and matching straight-leg joggers in the shoe's colourway — holding a {argument name="shoe model" default="New Balance 1906R"} up in one hand at shoulder height with a proud collector's grip. Sleek straight hair with micro-fringe, bold editorial makeup, metallic liner. Background: clean stark white studio with a single large New Balance graphic wall installation, product shadow casting graphically on the floor. "HIGHSNOBIETY" masthead in editorial black bold with collab logo callout. 50mm lens, ultra-detailed ABZORB midsole and mesh upper detail, 8K photorealistic. 
+
+Negative: cartoon, blurry, incorrect shoe, watermark, distorted.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2076567098738848248) | 2026-07-13
+
+---
+
+### 🎴 例 4033：高级时尚眼镜广告
+
+![高级时尚眼镜广告](../../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E7%9C%BC%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像，在保持面部不变的前提下，创作一张超写实的高级时尚光学广告。画面中，一个 {argument name="accessory" default="超大号黑色圆形眼镜镜片"} 完美对齐在主体面部上方，营造出自然的放大效果。从戏剧性的俯视超广角视角进行拍摄，主体向镜头伸出一只手，形成强烈的强制透视感。造型搭配 {argument name="hair style" default="利落的黑色波波头"}、叠戴银色项链、极简黑白服装，背景为 {argument name="background" default="暖陶土色"} 无缝背景，采用大胆的图形布局、精致的编辑排版、清晰的几何阴影，呈现高端眼镜广告美学、超锐利对焦、逼真的皮肤纹理、完美的镜片反射、摄影棚灯光、简洁现代的构图、奢华品牌质感，8K 照片级真实感，HDR，杰作。
+
+[English]
+Using the uploaded image and without changing face, create a hyper-realistic high-fashion optical advertisement featuring an {argument name="accessory" default="oversized black round eyeglass lens"} perfectly aligned over the subject's face, creating a natural magnification effect. Capture the scene from a dramatic top-down ultra-wide perspective with the subject reaching an open hand toward the camera, creating strong forced perspective. Style with a {argument name="hair style" default="sleek black bob haircut"}, layered silver necklaces, minimalist black-and-white outfit, {argument name="background" default="warm terracotta"} seamless background, bold graphic layout, subtle editorial typography, crisp geometric shadows, premium eyewear campaign aesthetic, ultra-sharp focus, realistic skin texture, flawless lens reflections, studio lighting, clean modern composition, luxury branding feel, 8K photorealism, HDR, masterpiece.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2076532371504148565) | 2026-07-13
+
+---
+

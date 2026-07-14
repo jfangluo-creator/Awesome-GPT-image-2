@@ -10167,3 +10167,165 @@ Create a clean high-resolution anime illustration of a teenage girl standing out
 
 ---
 
+### 🏷️ 例 3969：身穿西装、手持扩音器的动漫角色
+
+![身穿西装、手持扩音器的动漫角色](../../images/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%85%E3%80%81%E6%89%8B%E6%8C%81%E6%89%A9%E9%9F%B3%E5%99%A8%E7%9A%84%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直动漫风格的肖像插画，主角是 {argument name="character name" default="Sol"}，一位自信的中性化年轻人，皮肤白皙，有着锐利的琥珀金色双眼，嘴角带着一丝了然的微笑。画面采用腰部以上的四分之三侧身视角，面向右侧。角色留着层次分明、凌乱的 {argument name="hair color" default="黑色短发，高光处隐约可见金色反光"}，蓬松的侧刘海遮住了一部分眼睛，颈部周围的发梢呈羽毛状向外散开，头顶有一撮向上卷曲的呆毛。他们身穿一件修身的亮面黑色西装外套，内搭干练的白色衬衫并系着黑色领带，衣物上有极具张力的墨线褶皱和反光高光。右手拿着一个大型的白灰色扩音器靠近嘴边，扩音器朝向画面右边缘，左手自信地叉在腰间。背景使用纯平且鲜艳的 {argument name="background color" default="亮黄色"}，不包含任何场景或文字。图像风格参考现代高对比度漫画封面：干净的黑色线条、富有表现力的发丝、鲜明的赛璐珞阴影、冷灰色调的阴影、亮面高光、精致的五官、动态的裁剪构图，以及精致的插画质感。
+
+[English]
+Create a vertical anime-style portrait illustration of {argument name="character name" default="Sol"}, a confident androgynous young adult with pale skin, sharp amber-gold eyes, and a faint knowing smile, shown from the waist up in a three-quarter view facing right. The character has layered, tousled {argument name="hair color" default="black hair with subtle gold-like reflections visible in the highlights"}, with shaggy side bangs partially covering one eye, feathered outward ends around the neck, and a small ahoge strand curling upward from the crown. They wear a glossy black fitted suit jacket over a crisp white dress shirt and a black tie, with dramatic inked folds and reflective highlights on the fabric. Their right hand holds a large white-and-gray megaphone close to their mouth, angled toward the right edge of the frame, while the left arm rests assertively at the hip. Use a flat vivid {argument name="background color" default="bright yellow"} background with no scenery or text. Style the image like a high-contrast modern manga cover: clean black line art, expressive hair strands, stark cel shading, cool gray shadows, glossy highlights, elegant facial features, dynamic cropped composition, and a polished illustration finish.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2076799092177735846) | 2026-07-13
+
+---
+
+### 🏷️ 例 4005：Strike Sport 拳击手主题海报
+
+![Strike Sport 拳击手主题海报](../../images/Strike%20Sport%20%E6%8B%B3%E5%87%BB%E6%89%8B%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 4:5 全出血编辑动作海报，用于 {argument name="brand name" default="STRIKE SPORT"}。该品牌的视觉识别需遵循以下必须呈现的特征：明亮的户外摄影，清晰的开阔天空占据画面的大部分；巨大的暖奶油色超紧凑块状字母被画布裁剪，并位于主体后方；一个超大的动作人物斜向穿过布局并突破文字层；低位或近距离广角镜头，使前景具有强烈的视觉冲击力；沿底部和侧边放置的奶油色辅助文字、大数字或堆叠词；锚定在强网格位置的紧凑白色编辑微文案；一种鲜艳的 {argument name="accent color" default="red"} 强调色，集中在核心产品或服装上，而环境保持天蓝色和中性色；强烈的正午阳光，带有清晰的阴影和高对比度边缘；在平面图形字体和真实摄影之间交替的层级结构；极简装饰——仅使用小标记、标尺或分隔符；密集、充满动感的布局，动作优先，字体次之，微文案再次之。场景：{argument name="subject" default="一名职业拳击手在现代城市的户外屋顶拳击台上挥出强力勾拳"}，周围环绕着拳击绳、细微的训练器材、漂浮的尘埃颗粒以及晴空下遥远的天际线。摄影与构图：户外低位近距离广角，超大的前景比例，决定性的瞬间定格，从左下到右上的强烈对角线运动，主体至少被一个画布边缘裁剪。排版：在主体后方放置巨大的暖奶油色超紧凑块状无衬线字体，书写 STRIKE SPORT，占据超过一半的画布，被框架裁剪并部分被动作遮挡。添加紧凑的白色微文案，内容为 ROUND 01 / FIGHT HARD / POWER IN MOTION，采用紧凑的编辑块排版。包含一个小型的通用手套标记符号和底部的奶油色信息群。服装：现代运动拳击装备，黑色底色配鲜明的红色点缀，紧身性能剪裁，汗水质感真实。品牌色彩：饱和的天蓝色或青色为主导，暖奶油色字体，清爽的白色微文案，深邃的阴影，手套和高光处有一抹鲜艳的红色。灯光与后期：强烈的正午阳光，清晰的阴影，高对比度商业摄影写实感，轻微的印刷颗粒纹理。无插画、3D 渲染、真实 Logo 或水印。避免：真实品牌 Logo、水印、二维码、漫画或半调效果、暗色调摄影棚场景、柔和色调或微小的远景主体。生成 4K 超高分辨率光栅图像。
+
+[English]
+Create a 4:5 full-bleed editorial action poster for {argument name="brand name" default="STRIKE SPORT"}. The brand’s visual identity follows these must-visible traits: a bright outdoor photograph with a clear open sky dominating a large portion of the frame; enormous warm-cream extra-condensed block letters cropped by the canvas and sitting behind the main subject; one oversized action figure cutting diagonally across the layout and breaking through the text layer; a low or close wide-angle camera angle that makes the foreground feel physically imposing; secondary text, large numerals, or stacked words in cream placed along bottom and side edges; compact white editorial microcopy in short tight clusters anchored to strong grid positions; one vivid {argument name="accent color" default="red"} accent color concentrated on the hero product or outfit while the environment stays sky-blue and neutral; hard midday sunlight with crisp shadows and high-contrast edges; a layered structure alternating between flat graphic type and real photography; minimal ornament — only small marks, rules, or separators; a dense, kinetic layout with the action dominant, type second, and microcopy third. Scene: {argument name="subject" default="A professional boxer is throwing a powerful hook with boxing gloves in an outdoor rooftop boxing ring in a modern city"}, surrounded by ropes, subtle training equipment, drifting dust particles, and a distant skyline under a clear sky. Camera & Composition: Low close wide-angle outdoors, oversized foreground scale, decisive frozen motion, one strong diagonal movement from lower left to upper right, subject cropped by at least one canvas edge. Typography: Place massive warm-cream ultra-condensed block sans lettering reading STRIKE SPORT behind the subject, filling over half the canvas, cropped by the frame and partially hidden by the action. Add compact white microcopy reading ROUND 01 / FIGHT HARD / POWER IN MOTION in tight editorial blocks. Include a small generic glove mark symbol and bottom information clusters in cream. Wardrobe: Modern athletic boxing gear, black base with sharp red accent details, tight performance fit, sweat-textured realism. Brand colors: saturated sky-blue or cyan dominant, warm cream type, crisp white microcopy, deep shadows, one vivid red accent on the gloves and highlights. Lighting & Finish: Hard midday sun, crisp shadows, high-contrast commercial photo realism, slight print-grain texture. No illustration, 3D rendering, real logos, or watermarks. Avoid: real brand logos, watermarks, QR codes, comic or halftone effects, dark studio scenes, muted palettes, or a tiny distant subject. Generate as a 4K ultra-high-resolution raster image.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2076631409238946223) | 2026-07-13
+
+---
+
+### 🏷️ 例 4006：复古苏联汽车的电影级无人机摄影
+
+![复古苏联汽车的电影级无人机摄影](../../images/%E5%A4%8D%E5%8F%A4%E8%8B%8F%E8%81%94%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级无人机摄影，一位美丽的年轻女性（面部参考所给图像）自信地站在一辆复古芥末黄色苏联时代轿车（Lada 2101 款式）前，车停在茂密松树林中一条狭窄的土路上，正值黄金时刻。她身穿一件海军蓝、红、白、青色拼接的复古大廓形防风夹克，内搭白色 T 恤，下穿黑色膝上短裤、白色中筒袜和黑色高帮 Converse 运动鞋。她那栗棕色的长波浪卷发自然垂落，带有柔和的蓬松感，佩戴着精致的圆环耳环和极简首饰。双手随意插在夹克口袋里，平静而自信地直视上方的无人机镜头。相机位于地面上方约 8–10 米处，以 45 度俯角拍摄，将女性和整辆复古汽车尽收眼底。温暖的阳光穿过高大的松树，在森林地面上投下富有戏剧性的长影，伴随着电影般的光束和自然的对比度。芥末黄色的汽车配有镀铬保险杠、车顶行李架、复古后视镜，引擎盖上有细腻的倒影。丰富的泥土色调，高度细腻的纹理，写实的皮肤质感，柔和的景深，HDR 摄影，体积光，高级调色，国家地理与 Vogue 编辑风格的结合，超写实，8K，单反相机画质，85mm 等效视角，焦点清晰，无文字，无水印。超写实电影级时尚人像，一位美丽的女性（面部参考所给图像）随意地坐在复古芥末黄色苏联时代轿车（Lada 2101 款式）的引擎盖上，车停在宁静的松树林中，正值黄金时刻。她身穿一件海军蓝、红、白、青色拼接的复古大廓形防风夹克，内搭白色 T 恤，下穿黑色短裤、白色中筒袜和磨损的黑色 Converse 高帮运动鞋。她那栗棕色的长波浪卷发自然地垂在肩上，带有柔和的动感，搭配小巧的金质圆环耳环、叠戴项链、黑色指甲油和透出光泽感的淡妆。她舒适地坐在引擎盖上，一条腿弯曲，另一条腿放松，双手自然地放在膝盖附近，平静地注视着镜头，表情带有柔和的编辑感。复古芥末黄色汽车配有镀铬保险杠、圆形大灯、车顶行李架和写实的倒影。高大的松树填满了柔和模糊的背景，温暖的阳光穿过森林，营造出电影般的焦外成像、柔和的轮廓光和自然的深度。采用 85mm 镜头，f/1.8 光圈，浅景深，从略低的正面四分之三角度拍摄。丰富的泥土色调，奢华的编辑时尚摄影风格，写实的皮肤纹理，HDR，体积光，超细节，Vogue 户外广告风格，8K 分辨率，无文字，无水印。
+
+[English]
+Ultra realistic cinematic drone photograph of a beautiful young woman ( FACE GIVEN IN REFRANCE IMAGE ) standing confidently in front of a vintage mustard yellow Soviet-era sedan (Lada 2101 style) parked on a narrow dirt road in the middle of a dense pine forest during golden hour. She wears an oversized retro color-block windbreaker jacket in navy blue, red, white and turquoise over a white T-shirt, black above-knee shorts, white crew socks, and black high-top Converse sneakers. Her long wavy chestnut brown hair flows naturally with soft volume, wearing delicate hoop earrings and minimal jewelry. Hands casually inside jacket pockets while looking directly up at the drone camera with a calm, confident expression. The camera is positioned approximately 8–10 meters above the ground at a 45-degree downward angle, capturing both the woman and the full vintage car from above. Warm sunlight filters through tall pine trees, creating dramatic long shadows across the forest floor with cinematic light rays and natural contrast. The mustard yellow car features chrome bumpers, roof rack, vintage mirrors, and subtle reflections on the hood. Rich earthy tones, highly detailed textures, realistic skin, soft depth of field, HDR photography, volumetric lighting, premium color grading, National Geographic meets Vogue editorial aesthetic, ultra photorealistic, 8K, DSLR quality, 85mm equivalent 高校生失明 perspective, crisp focus, no text, no watermark. Ultra realistic cinematic fashion portrait of a beautiful woman ( FACE GIVEN IN REFRANCE IMAGE) sitting casually on the hood of a vintage mustard yellow Soviet-era sedan (Lada 2101 style) parked inside a peaceful pine forest during golden hour. She wears an oversized retro color-block windbreaker jacket in navy blue, red, white and turquoise layered over a white T-shirt, black shorts, white crew socks, and worn black Converse high-top sneakers. Her long wavy chestnut brown hair falls naturally over her shoulders with soft movement, complemented by small gold hoop earrings, layered necklaces, black nail polish, and subtle makeup with glowing skin. She sits comfortably on the hood with one leg bent and the other relaxed, hands resting naturally near her knees,トニセン gazing calmly toward the camera with a soft editorial expression. The vintage mustard yellow car has chrome bumpers, circular headlights, roof rack, and realistic reflections. Tall pine trees fill the softly blurred background while warm sunlight streams through the forest, producing cinematic bokeh, soft rim lighting, and natural depth. Shot from a slightly low front three-quarter angle using an 85mm lens at f/1.8 with shallow depth of field. Rich earthy color palette, luxury editorial fashion乃木坂ちゃん photography, photorealistic skin texture, HDR, volumetric lighting, ultra detailed, Vogue outdoor campaign style, 8K resolution, no text, no watermark.
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2076631342293623042) | 2026-07-13
+
+---
+
+### 🏷️ 例 4008：电影感日本稻田景观
+
+![电影感日本稻田景观](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%A5%E6%9C%AC%E7%A8%BB%E7%94%B0%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影剧照，{argument name="landscape type" default="日本乡村稻田"} 夏季景观，从狭窄农路向下俯瞰的三分之四侧角视角，阴天苍白天空下的翠绿稻田，电线杆向远处延伸，低饱和度微冷色调，柔和对比度，非中心三分法构图，带有细微颗粒感的 35mm 胶片质感，柔和的漫射自然光，忧郁宁静的氛围，无人，岩井俊二风格审美
+
+[English]
+Cinematic film still, {argument name="landscape type" default="rural Japanese rice paddy"} landscape in summer, three-quarter angle view down a narrow farm road, vivid green rice fields under an overcast pale sky, utility poles receding into the distance, desaturated slightly cool color grading, subdued contrast, off-center rule-of-thirds composition, 35mm film texture with fine grain, soft diffused natural light, melancholic quiet atmosphere, no people, Shunji Iwai inspired aesthetic
+```
+
+**来源：** [@TSUBAKI](https://x.com/AI__TSUBAKI/status/2076624942553330149) | 2026-07-13
+
+---
+
+### 🏷️ 例 4028：蓝大理石漩涡中的俯视豹子
+
+![蓝大理石漩涡中的俯视豹子](../../images/%E8%93%9D%E5%A4%A7%E7%90%86%E7%9F%B3%E6%BC%A9%E6%B6%A1%E4%B8%AD%E7%9A%84%E4%BF%AF%E8%A7%86%E8%B1%B9%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版艺术插画，画面中仅有一只豹子，从正上方俯视视角，稳步向下穿行在明亮的抽象大理石纹表面。豹子应位于画布中心，全身可见，从尾巴到前爪完整呈现，头部靠近画面中下部，长尾巴向上卷曲至顶部；豹子拥有写实的金色皮毛和浓密的黑色玫瑰斑纹、肌肉发达的背部、小巧圆润的耳朵、向下专注的目光，以及一只向前迈出的前爪。动物周围环绕着类似白色大理石的背景，其中充满了淡天蓝色、鲜艳的 {argument name="accent color" default="钴蓝色"} 流体墨水漩涡和涡流，并点缀着少量细小的暖金色斑点，仿佛豹子正穿行在旋转的水流、颜料或云雾般的电流中。采用干净的高调色板、细腻的线条、优雅的留白，豹子细节清晰，大理石纹呈现柔和的绘画感，整体氛围宁静且富有灵感。在右下角添加不显眼的小字 {argument name="date text" default="2026 年 7 月 13 日"}，下方附带一个微小的草书签名 {argument name="signature" default="Oyogi"}。主体为 {argument name="animal" default="豹子"}；大理石纹流体的主要强调色为 {argument name="accent color" default="钴蓝色"}。无边框，无画框，无额外动物，无大号字体，无照片级真实环境。
+
+[English]
+Create a vertical fine-art illustration of exactly 1 leopard viewed from directly overhead, walking steadily downward through a luminous abstract marbled surface. The leopard should be centered on the canvas, full body visible from tail to front paws, with its head near the lower middle and its long tail curling upward toward the top; realistic golden fur with dense black rosettes, muscular back, small rounded ears, focused downward gaze, and one front paw stepping forward. Surround the animal with a white marble-like background filled with fluid ink swirls and eddies in pale sky blue, vivid cobalt blue, and a few tiny warm gold speckles, as if the leopard is moving through swirling water, paint, or cloudlike currents. Use a clean high-key palette, delicate linework, elegant negative space, crisp detail on the leopard, soft painterly motion in the marbling, and a serene inspirational mood. Add small unobtrusive text in the bottom-right corner reading {argument name="date text" default="July 13, 2026"} with a tiny cursive signature beneath it reading {argument name="signature" default="Oyogi"}. The subject is {argument name="animal" default="leopard"}; the main accent color in the marbled currents is {argument name="accent color" default="cobalt blue"}. No border, no frame, no extra animals, no large typography, no photorealistic environment.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2076556253837619560) | 2026-07-13
+
+---
+
+### 🏷️ 例 4030：蓝黑配色猫娘 Q 版
+
+![蓝黑配色猫娘 Q 版](../../images/%E8%93%9D%E9%BB%91%E9%85%8D%E8%89%B2%E7%8C%AB%E5%A8%98%20Q%20%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张方形动漫风格插画，主角是一位可爱的 Q 版猫娘，拥有 {argument name="hair color" default="凌乱的长黑发，带有鲜艳的钴蓝色挑染和发梢"}。她蜷缩着身体，双膝抱胸，靠在画面右侧一个巨大的柔软蓝色抱枕上。她戴着超大号黑色圆框眼镜，有着巨大的亮蓝色双眸，嘴唇微嘟，肤色白皙，黑色的猫耳内侧是亮蓝色绒毛。她的头发蓬松且随风飘动，头顶有一根呆毛，多缕长发垂落在左侧。她穿着超大号露肩黑色毛衣或连帽衫，戴着黑色颈圈和黑色过膝袜，脖子上挂着一副大号黑蓝配色耳机。姿势应显得害羞、慵懒且安静可爱，角色直视镜头。背景使用干净的白色，带有淡淡的浅蓝色笔记本网格图案。在左侧/背景区域添加 4 个简单的装饰图标：左上方有一个包含小型蓝色鸟类剪影的对话气泡，左中部有一对蓝色小爪印，左下方有一个大型蓝色猫爪印，右下方抱枕上有一簇浅色小花。采用柔和的赛璐珞阴影、精致的线条、光泽高光、冷蓝色调以及精致的现代萌系插画风格。构图采用特写，角色填充大部分画面，无文字，无水印，无其他角色。
+
+[English]
+Create a square anime-style illustration of a cute chibi cat-girl with {argument name="hair color" default="long messy black hair with vivid cobalt-blue streaks and tips"}, sitting curled up with her knees drawn to her chest and leaning against a large soft blue pillow on the right side of the frame. She has oversized round black glasses, huge glossy blue eyes, a tiny neutral pout, pale skin, and black cat ears with bright blue inner fur. Her hair is voluminous and windswept, with one ahoge curl on top and many long strands flowing down the left side. She wears an oversized off-shoulder black sweater or hoodie, a black choker, black knee socks, and large black-and-blue headphones resting around her neck. The pose should feel shy, sleepy, and quietly adorable, with the character looking directly at the viewer. Use a clean white background with a faint light-blue grid pattern like notebook paper. Add exactly 4 simple decorative icons on the left/background area: 1 speech bubble near the upper left containing a small blue bird-like silhouette, 1 pair of small blue paw-print dots in the mid-left area, 1 large blue cat paw print in the lower left, and 1 cluster of tiny pale flower shapes on the pillow near the lower right. Use soft cel shading, delicate line art, glossy highlights, cool blue accents, and a polished modern moe illustration style. Keep the composition close-up, with the character filling most of the frame, no text, no watermark, and no extra characters.
+```
+
+**来源：** [@for_the_zero](https://x.com/for_the_zero/status/2076550963117400521) | 2026-07-13
+
+---
+
+### 🏷️ 例 4034：快乐天狗武士概念艺术
+
+![快乐天狗武士概念艺术](../../images/%E5%BF%AB%E4%B9%90%E5%A4%A9%E7%8B%97%E6%AD%A6%E5%A3%AB%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身角色概念插画，角色为 {argument name="character name" default="快乐武士"}：一位身材高挑、精瘦、赤裸上身的浪人武士，在温暖的灰白色纯色背景前放松站立。他戴着一个鲜红色的天狗/鬼怪风格面具，面具长着极长的尖鼻子和两只高耸的角，深邃而富有表现力的眼眶，以及一张开怀大笑的嘴，流露出顽皮快乐的神情。面具和发间点缀着几朵紫色小花。让他摆出随意的对立式站姿，一只手臂懒散地搭在横跨双肩的长柄黑色武士刀或法杖上，武器向身体两侧延伸；右端是黑金配色的菱形缠柄和悬挂的流苏，左端是带有精致配件的深色刀鞘。他穿着破旧的层叠武士服：一件从一侧肩头滑落的宽松浅灰蓝色羽织，深绿色内袍边缘破烂，超大号深蓝色袴裤裤脚在脚踝上方，腰间系着一个粗大的棕褐色绳结，赤脚穿着草绳凉鞋。采用棱角分明的绘画笔触、高级时尚的角色设计比例、锐利的赛璐珞阴影面、粗犷的墨迹边缘、清晰可见的布料撕裂与褶皱、大地色调与强烈的黑色点缀，地面阴影极小，并留有大量负空间。无文字，无边框，无水印。
+
+[English]
+Create a full-body character concept illustration of a {argument name="character name" default="Happy Samurai"}: a tall, lean, shirtless wandering samurai standing relaxed against a plain warm off-white background. He wears a vivid red tengu/oni-style mask with an extremely long pointed nose, two tall horns, dark expressive eye openings, and a wide laughing open mouth, giving him a mischievous happy expression. Small purple flowers are tucked near the mask and hair. Pose him in a casual contrapposto stance, one arm draped lazily over a long black sheathed katana or staff balanced horizontally across his shoulders, the weapon stretching far beyond both sides of his body; the right end has a black-and-gold diamond-wrapped handle and dangling tassel, the left end is a dark scabbard with subtle fittings. Dress him in tattered layered samurai clothing: a loose pale gray-blue haori slipping off one shoulder, dark green inner robe panels hanging raggedly, oversized dark blue hakama pants cropped above the ankles, a thick tan rope belt tied in a large knot at the waist, and straw rope sandals on bare feet. Use angular painterly brushwork, high-fashion character design proportions, sharp cel-shaded planes, rough ink-like edges, visible fabric tears and folds, earthy muted colors with strong black accents, minimal ground shadow, and lots of negative space. No text, no border, no watermark.
+```
+
+**来源：** [@INK](https://x.com/0xInk_/status/2076528960880750664) | 2026-07-13
+
+---
+
+### 🏷️ 例 4043：霓虹狐狸巫女
+
+![霓虹狐狸巫女](../../images/%E9%9C%93%E8%99%B9%E7%8B%90%E7%8B%B8%E5%B7%AB%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满活力的 Niji 风格动漫插画，采用 9:16 竖版画布，描绘 {argument name="character name" default="一位神秘的巫女"} 站在夜晚梦幻般的日本墓地中。她是一位年轻女孩，留着短直波波头，发色为 {argument name="hair color" default="深黑色带紫罗兰色挑染"}，皮肤白皙，有着慵懒的洋红色双眼，表情平静且略带忧郁。她穿着极其华丽的多色和服，配色为 {argument name="kimono palette" default="霓虹青色、亮粉色、紫罗兰色、黄色和白色"}，上面布满了花卉印花、棋盘格纹、丝带、流苏和层叠的飘逸袖子；添加花朵发饰和悬挂的饰品。她的左手拿着一个白色的狐狸面具，上面绘有彩色的眼部花纹，半遮住脸庞，右手手指纤细，向下伸展。在前景展示她穿着传统木屐的双脚，采用戏剧性的低角度透视，使木屐和和服下摆看起来离观众很近。在她周围环绕着 7 团发光的鬼火灵焰：左上方 1 团大火焰，顶部中心附近 1 团小火焰，头顶上方 1 团小青色火焰，右上角天空 1 团小火焰，右侧中部 1 团中等火焰，左下袖子附近 1 团小火焰，以及右下角 1 团非常大的火焰。背景是充满魔力的墓地神社场景，有石制墓碑、鸟居、左侧发光的石灯笼、随处生长的花朵，以及深靛蓝色的星空，点缀着新月形状、微小的十字架、圆点、纸屑般的花瓣和彩色的闪光。使用高饱和度的霓虹色彩、明亮的青色和粉色轮廓光、绘画感动漫渲染、清晰的线条、精致的装饰细节、梦幻般的超自然氛围、高对比度、动态构图，且画面中不含任何文字或水印。
+
+[English]
+Create a vibrant niji-style anime illustration in a vertical 9:16 canvas of {argument name="character name" default="a mysterious shrine maiden"} standing in a fantastical Japanese graveyard at night. She is a young girl with a short blunt bob haircut in {argument name="hair color" default="deep black with violet highlights"}, pale skin, sleepy magenta eyes, and a calm, slightly melancholic expression. She wears an extremely ornate multicolored kimono in {argument name="kimono palette" default="neon cyan, hot pink, violet, yellow, and white"}, covered with floral prints, checker patterns, ribbons, tassels, and layered flowing sleeves; add flower hair ornaments and dangling charms. Her left hand holds a white kitsune mask with colorful painted eye markings partly in front of her face, while her right hand reaches downward with delicate fingers. Show her feet in traditional geta sandals in the foreground, using a dramatic low-angle perspective so the sandals and hem of the kimono feel close to the viewer. Surround her with exactly 7 glowing will-o'-wisp spirit flames: 1 large flame at upper left, 1 small flame near the top center, 1 small cyan flame above her head, 1 small flame in the upper right sky, 1 medium flame at mid-right, 1 small flame near her lower left sleeve, and 1 very large flame at bottom right. The background is a magical cemetery-shrine setting with stone grave markers, a torii gate, a glowing stone lantern on the left, flowers growing everywhere, and a deep indigo starry sky with crescent moon shapes, tiny crosses, dots, confetti-like petals, and colorful sparkles. Use intense saturated neon colors, luminous cyan and pink rim lighting, painterly anime rendering, crisp linework, elaborate decorative detail, dreamy supernatural atmosphere, high contrast, dynamic composition, and no text or watermark.
+```
+
+**来源：** [@404 notfound](https://x.com/404notf26312237/status/2076504110346743810) | 2026-07-13
+
+---
+
+### 🏷️ 例 4049：被猫咪包围的动漫少女
+
+![被猫咪包围的动漫少女](../../images/%E8%A2%AB%E7%8C%AB%E5%92%AA%E5%8C%85%E5%9B%B4%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 3:4 竖构图的动漫风格插画，画面中心是一位坐在地板上的 {argument name="character name" default="面带微笑的年轻女性"}，她被整整 49 只清晰可见的猫咪完全包围。她留着 {argument name="hair color" default="凌乱的黑色短发"}，有着温暖的棕色眼睛、红润的脸颊和开怀的笑容，身穿一件略带褶皱的宽松 {argument name="shirt color" default="白色衬衫"} 和深色长裤。她的姿态放松而亲昵：怀里抱着一只白猫，右肩上趴着一只橘猫，膝盖上卧着一只黑猫，整个人沉浸在猫群中。这 49 只猫咪应清晰可辨且种类多样：12 只橘猫、9 只白色或奶油色猫、8 只黑猫、7 只灰猫、6 只黑白燕尾服猫、4 只三花猫和 3 只棕色虎斑猫；它们有的坐着、站着、探头探脑、蹭人、攀爬或抬头注视着少女。前景、中景和背景都要密集地填满猫咪，许多猫咪在画面边缘处被裁切，以营造出猫咪簇拥的震撼感，但要确保少女的面部不受遮挡，作为视觉焦点。运用来自背后高大明亮窗户的戏剧性暖色逆光，猫耳和毛发上带有金色轮廓光，空气中漂浮着柔和的尘埃微粒，光影明亮，阴影呈深琥珀色。风格应为细节丰富的日式动漫绘画风，表情生动，毛发质感柔软，构图具有电影感，氛围温馨舒适，无文字，无水印，无边框，无其他人类。
+
+[English]
+Create a vertical 3:4 anime-style illustration of {argument name="character name" default="a smiling young woman"} sitting on the floor in the center of a sunlit room, completely surrounded by exactly 49 visible cats. She has {argument name="hair color" default="short tousled black hair"}, warm brown eyes, flushed cheeks, and a joyful open-mouth smile, wearing an oversized slightly wrinkled {argument name="shirt color" default="white button-up shirt"} and dark pants. Her pose is relaxed and affectionate: one white cat is held upright against her chest, one orange tabby lies across her right shoulder, and a black cat rests in her lap while she is nestled into the crowd. The 49 cats should be clearly varied and countable: 12 orange tabbies, 9 white or cream cats, 8 black cats, 7 gray cats, 6 black-and-white tuxedo cats, 4 calico cats, and 3 brown tabbies; include a mix of sitting, standing, peeking, nuzzling, climbing, and looking up toward the girl. Fill the foreground, middle ground, and background densely with cats, with many cropped at the frame edges to create the feeling of an overwhelming cat gathering, but keep the girl’s face unobstructed as the focal point. Use dramatic warm backlighting from tall bright windows behind the crowd, golden rim light on ears and fur, soft dust motes, glowing highlights, and deep amber shadows. The style should be highly detailed painterly Japanese anime, expressive faces, soft fur texture, cinematic composition, cozy emotional atmosphere, no text, no watermark, no borders, no extra humans.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2076467650944004346) | 2026-07-13
+
+---
+

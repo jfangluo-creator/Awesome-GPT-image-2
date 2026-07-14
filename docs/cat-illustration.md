@@ -7846,3 +7846,89 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 ---
 
+### 🎨 例 3970：奶牛少女浇灌向日葵
+
+![奶牛少女浇灌向日葵](../../images/%E5%A5%B6%E7%89%9B%E5%B0%91%E5%A5%B3%E6%B5%87%E7%81%8C%E5%90%91%E6%97%A5%E8%91%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨且高细节的动漫插画，主角是 {argument name="character name" default="Muumuu Bell"}，一位温柔的奶牛主题少女，正在阳光明媚的农场清晨浇灌向日葵。她拥有非常飘逸的 {argument name="hair color" default="银白色长发，发梢带有淡水蓝色"}、柔和的琥珀色双眼、小巧的奶油色牛角、黑白相间的牛耳，以及甜美羞涩的微笑。她的服装由 4 件显眼的单品组成：一件无袖白底黑斑奶牛纹露脐上衣、一个带有金色牛铃的小黑颈圈、一条带有浅蓝色细边的白色短百褶裙，以及一双带有黑色奶牛斑点的白色过膝袜。她双手握着一个灰色金属洒水壶并向左倾斜，闪烁的水花正洒向前景中一簇盛开的向日葵。画面中需包含 7 朵显眼的向日葵花头：左侧最前景一朵大向日葵，左下中心附近一朵正在被浇灌的超大向日葵，中心附近一朵中型向日葵，下中心一朵中型向日葵，右中心一朵中型向日葵，以及两朵半掩在叶片中的较小向日葵。场景设定在舒适的乡村农场花园中，背景有茂密的绿叶、紫色小花、木质小径，右下角放置一个水桶或花盆，右侧边缘靠着一把铲子或园艺工具。背景中展示一座带有敞开大门的木制谷仓，左上方洒下温暖的阳光，还有茂密的树木、围栏牧场，以及除主角外 3 只清晰可见的动物：右侧谷仓门口探出头的一头黑白奶牛、谷仓木质招牌上方安装的牛头标志，以及左侧牧场中站着的一只淡色小山羊或小牛。添加日文问候图形：左上方用醒目且俏皮的橙色文字（带有粗白边）写着 {argument name="headline text" default="おはよう"}，并装饰一个简单的太阳涂鸦；左侧添加一个奶油色对话气泡，内容为 {argument name="speech bubble text" default="大きくなるんだよ〜\nいっぱいお日さま\n浴びてね〜♪"}。在谷仓招牌上，包含日文文字 {argument name="barn sign text" default="ムウムウ牧場\nみんなの家"}。采用柔和的黄金时刻色调、绘画风格的动漫渲染、明亮的轮廓光、细腻的发丝、精致的水滴、欢快治愈的氛围、方形构图，无水印，无多余角色，并确保所有文字清晰可辨。
+
+[English]
+Create a warm, high-detail anime illustration of {argument name="character name" default="Muumuu Bell"}, a gentle cow-themed young woman watering sunflowers on a sunny farm morning. She has very long flowing {argument name="hair color" default="silver-white hair with pale aqua tips"}, soft amber eyes, small cream-colored cow horns, black-and-white cow ears, and a sweet shy smile. Her outfit has exactly 4 visible pieces: a sleeveless white cow-print crop top with large black patches, a small black choker with a gold cowbell, a short white pleated skirt with thin light-blue trim, and white thigh-high stockings with black cow patches. She holds a gray metal watering can with both hands, tilted left, with a sparkling shower of water falling onto a cluster of blooming sunflowers in the foreground. Include exactly 7 prominent sunflower heads: one large sunflower at the far left foreground, one very large sunflower near the lower left center being watered, one medium sunflower near the center, one medium sunflower lower center, one medium sunflower right-center, and two smaller sunflower heads partly hidden among leaves. Set the scene in a cozy rustic farm garden with dense green leaves, small purple flowers, wooden paths, a bucket or planter at lower right, and a shovel or garden tool leaning near the right edge. In the background, show a wooden barn with an open doorway, warm sunlight from the upper left, leafy trees, fenced pasture, and exactly 3 visible animals besides the character: one black-and-white cow peeking from the barn doorway on the right, one cow-head sign mounted on the barn above a wooden signboard, and one small pale goat or calf standing in the left pasture. Add Japanese greeting graphics: large playful orange text with thick white outline reading {argument name="headline text" default="おはよう"} across the upper left, decorated with a simple sun doodle, plus a cream speech bubble on the left containing {argument name="speech bubble text" default="大きくなるんだよ〜\nいっぱいお日さま\n浴びてね〜♪"}. On the barn sign, include Japanese text reading {argument name="barn sign text" default="ムウムウ牧場\nみんなの家"}. Use a soft golden-hour palette, painterly anime rendering, luminous rim light, detailed hair strands, delicate water droplets, cheerful wholesome mood, square composition, no watermark, no extra characters, and keep all text legible.
+```
+
+**来源：** [@アマドウマ](https://x.com/amadouma_s/status/2076796844588581256) | 2026-07-13
+
+---
+
+### 🎨 例 3975：单色超现实鸟兽邂逅
+
+![单色超现实鸟兽邂逅](../../images/%E5%8D%95%E8%89%B2%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%B8%9F%E5%85%BD%E9%82%82%E9%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个令人难忘的单色超现实恐怖场景，采用 16:9 宽银幕电影画幅：一个孤独的小孩 {argument name="central figure" default="身穿深色及膝外套的孩子"} 一动不动地站在迷雾缭绕的荒野中央，背影呈现为黑色剪影。在人物周围环绕 6 只怪异的黑色动物剪影，外形如同消瘦的羚羊与长喙鸟类的结合体：1 只巨大的生物占据画面右上方，它弯曲着长颈和尖喙朝向孩子，可见两条细长的腿，头部伸出两根扭曲的角状触须；背景中从左至右站立着 5 只较小的生物，因景深效果而显得模糊，每只生物都有细长的腿、圆润的深色躯干、尖喙和发光的白色眼睛。让每只生物都拥有一只明亮的白色发光眼睛，其中巨大生物的眼睛最为硕大且强烈。使用 {argument name="palette" default="黑色、白色和烟灰色"}，加入重颗粒感、柔和的雾气、低对比度的灰色天空、深色纹理地面，以及梦幻般的模拟胶片质感。构图应营造出不祥、寂静且神话般的氛围，强调强烈的剪影效果，画面中不含文字、建筑物、额外角色，且除发光的眼睛外不含任何色彩点缀。
+
+[English]
+Create a haunting monochrome surreal horror scene in a wide cinematic 16:9 frame: a small lone {argument name="central figure" default="child in a dark knee-length coat"} stands motionless at the center of a misty barren field, seen from behind as a black silhouette. Surround the figure with exactly 6 strange black animal silhouettes shaped like emaciated antelope mixed with long-beaked birds: 1 enormous foreground creature dominates the upper right half of the image, bending its long neck and pointed beak toward the child, with two thin legs visible and two twisted horn-like antennae rising from its head; exactly 5 smaller creatures stand in the foggy background from left to right, blurred by depth of field, each with thin legs, rounded dark body, pointed beak, and glowing white eye. Give every creature a single bright white luminous eye, with the giant creature’s eye the largest and most intense. Use {argument name="palette" default="black, white, and smoky gray"}, heavy grain, soft fog, low contrast gray sky, dark textured ground, and a dreamlike analog-film look. The composition should feel ominous, quiet, and mythic, with strong silhouettes, no text, no buildings, no extra characters, and no color accents beyond the glowing eyes.
+```
+
+**来源：** [@Minuit](https://x.com/minuitIA/status/2076769521243722038) | 2026-07-13
+
+---
+
+### 🎨 例 3990：奇幻 Cosplay 酒馆聚会
+
+![奇幻 Cosplay 酒馆聚会](../../images/%E5%A5%87%E5%B9%BB%20Cosplay%20%E9%85%92%E9%A6%86%E8%81%9A%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张受奇幻轻小说封面启发的写实高质量 Cosplay 合影，展示四位年轻的 Cosplayer 在温馨的中世纪旅店里围坐在一张小型圆形木桌旁。场景自然且欢快，背景中高大的铅条玻璃窗透进柔和的日光，墙壁为米色灰泥，配有木椅，营造出舒适的乡村氛围。四位角色分别为：1) 一位绿发兽人，长有毛茸茸的大兽耳，主要从左后方视角呈现，身穿带有深绿色滚边和腰带的白色结构感斗篷或外套；2) 一位面带微笑的红发女性，扎着双侧马尾，系有红白条纹大丝带，身穿带有金色纽扣的白色制服，手持木制马克杯；3) 一位位于中心位置的银发暗夜精灵女性，留着笔直的长银白发，长耳，肤色白皙，神情沉稳，红眼，身穿红色高领衬衫外搭黑色斗篷式服装，佩戴黑色手套，手持木制马克杯并看向镜头；4) 一位位于右侧大笑的棕发男性，留着凌乱的尖刺发型，身穿无袖奇幻冒险者盔甲，配有皮革绑带、护臂，手持木制马克杯。桌上放置 4 个清晰可见的木制马克杯和 4 道食物：一碗红葡萄、一盘烤圆土豆或肉丸配蔬菜、一碗烤蘑菇或坚果，以及一盘面包和奶酪。使用自然的皮肤纹理、逼真的假发和织物，采用浅景深、暖色调调色，呈现生动友好的姿态，构图为方形至竖构图。避免出现文字、Logo、水印、现代物品或多余人物。如有需要，可使用可自定义的选角细节：{argument name="central character" default="银发暗夜精灵女性"}, {argument name="setting" default="温馨的中世纪旅店"}, {argument name="group mood" default="欢快的酒馆聚会"}, {argument name="table food" default="葡萄、烤圆食、蘑菇或坚果、面包和奶酪"}, {argument name="lighting" default="铅条玻璃窗透进的柔和日光"}。
+
+[English]
+Create a realistic high-quality cosplay group photo inspired by a fantasy light novel cover, showing exactly four young adult cosplayers gathered closely around a small round wooden tavern table in a warm medieval inn. The scene is candid and cheerful, lit by soft daylight from tall leaded-glass windows behind them, with beige plaster walls, wooden chairs, and a cozy rustic atmosphere. The four characters are: 1) a green-haired beast-person with large furry animal ears, seen mostly from the back-left, wearing a structured white cloak or coat with dark green trim and belts; 2) a smiling red-haired woman with twin side ponytails tied with large red-and-white striped ribbons, wearing a white uniform with gold buttons and holding a wooden mug; 3) a centered silver-haired dark elf woman with long straight white-silver hair, pointed ears, pale skin, calm expression, red eyes, black cape-like outfit over a red high-collar shirt with gold buttons, black gloves, holding a wooden mug and looking toward the camera; 4) a laughing brown-haired man on the right with tousled spiky hair, sleeveless fantasy adventurer armor, leather straps, arm wraps, and a wooden mug. On the table place exactly four visible wooden mugs and exactly four food dishes: a bowl of red grapes, a platter of small roasted round potatoes or meatballs with greens, a bowl of roasted mushrooms or nuts, and a plate with bread and cheese. Use natural skin texture, realistic wigs and fabric, shallow depth of field, warm color grading, expressive friendly poses, and a square-to-portrait composition. Avoid text, logos, watermarks, modern objects, or extra people. Use customizable casting details if needed: {argument name="central character" default="silver-haired dark elf woman"}, {argument name="setting" default="warm medieval inn"}, {argument name="group mood" default="cheerful tavern gathering"}, {argument name="table food" default="grapes, roasted round bites, mushrooms or nuts, bread and cheese"}, {argument name="lighting" default="soft daylight from leaded-glass windows"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2076662634242601164) | 2026-07-13
+
+---
+
+### 🎨 例 3999：Photobooth 表情网格 JSON 提示词
+
+![Photobooth 表情网格 JSON 提示词](../../images/Photobooth%20%E8%A1%A8%E6%83%85%E7%BD%91%E6%A0%BC%20JSON%20%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+{ "generation_request": { "meta_data": { "task_type": "{argument name="task type" default="black_and_white_photobooth_expression_grid_4x4"}", "language": "en", "priority": "highest", "version": "v1.0_BW_PHOTOBOOTH_EXPRESSIONS_4X4" }, "input": { "mode": "image_to_image", "reference_image_usage": "very_high", "preserve_identity": true, "preserve_facial_features": true, "preserve_hairstyle": true, "notes": "Use the reference as the primary anchor. Create a black-and-white photobooth-style expression grid. Keep the same adult woman identity and hair. Each panel should show a different facial expression. Minimal background, direct photobooth flash look, natural skin texture." }, "output": { "aspect_ratio": "1:1", "resolution": "ultra_high", "num_images": 1, "layout": { "type": "grid", "rows": 4, "cols": 4, "gutter": "thin", "panel_consistency": "high" }, "sharpness": "crisp_photobooth", "grain": "subtle_analog_bw" }, "scene": { "concept": "classic photobooth contact sheet with expressive faces", "environment": "plain neutral backdrop, no props", "lighting": { "style": "direct photobooth flash", "key_light": "front flash, slightly hard but flattering", "shadows": "soft short shadows behind subject", "avoid": "cinematic side light, dramatic backgrounds" }, "camera": { "lens": "50mm", "distance": "tight head-and-shoulders framing", "focus": "eyes sharp in every panel" } }, "subject": { "type": "adult woman", "wardrobe": "simple strapless or bare-shoulder photobooth look (no logos)", "hair": "keep same hairstyle across all panels", "makeup": "minimal, natural", "anatomy_rules": "correct facial proportions, no warped eyes/mouth" }, "expression_set": { "panel_01": "scrunched smile, eyes squeezed slightly", "panel_02": "intense stare with fingers framing eyes", "panel_03": "big laugh, mouth open, joyful", "panel_04": "bored / unimpressed face, chin in hands", "panel_05": "sad pout, watery eyes look", "panel_06": "goofy face with both hands making small horns above head", "panel_07": "playful tongue out, cheeky grin", "panel_08": "angry glare, eyebrows down", "panel_09": "flirty look, hand touching cheek", "panel_10": "surprised wide eyes, mouth slightly open", "panel_11": "fake scream / excited shout, hands near face", "panel_12": "mischievous grin with claw-like hand pose", "panel_13": "confused frown, lips pressed", "panel_14": "crying face, hands on head, dramatic", "panel_15": "tongue out with eyes closed, playful", "panel_16": "duck face with small devil horns gesture" }, "style": { "color"
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2076641129403978212) | 2026-07-13
+
+---
+
+### 🎨 例 4035：浪漫时光守护者情侣
+
+![浪漫时光守护者情侣](../../images/%E6%B5%AA%E6%BC%AB%E6%97%B6%E5%85%89%E5%AE%88%E6%8A%A4%E8%80%85%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅暗黑浪漫奇幻风格的动漫插画，标题为 {argument name="artwork title" default="时光守护者"}：画面包含两个角色，即 1 位高大的男性守护者和 1 位精致的女性缪斯，两人在巨大的发光古董钟面前深情相拥。男性角色拥有 {argument name="male hair color" default="凌乱的黑发"}、苍白的皮肤、轮廓分明且优雅的面容、佩戴吊坠耳环，他低头看向女性，神情庄重而充满保护欲；他身穿华丽的黑色哥特式长外套，配有高领、层叠的盔甲式肩部设计、金色花丝、发条齿轮、链条、挂饰以及机械钟表装饰。女性角色拥有 {argument name="female hair color" default="长波浪蜂蜜金发"}、柔软苍白的皮肤、梦幻般忧郁的双眼以及微张的双唇；她身穿半透明的象牙白飘逸长裙，裙摆有高开叉设计，搭配轻薄面纱、金链装饰、星芒状钟表指针珠宝、紫色水晶坠饰以及精致的手镯。他戴着黑色手套的手臂保护性地横在她的胸前，而她轻轻抓着他的衣袖，营造出一种苦涩而凄美的爱情氛围。他们身后是 1 扇巨大的圆形彩色玻璃钟面窗，带有罗马数字、璀璨的金色背光、复杂的同心圆环、可见的齿轮、摆钟、星盘形状、悬垂的链条以及温暖的尘埃微粒。采用 2:3 竖构图，近景全身构图，细节华丽，呈现电影般的黄金时刻光影、明暗对比强烈的阴影、琥珀色与青铜色的高光、飘逸的织物动态、华丽的蒸汽朋克哥特式大教堂氛围、高度精炼的奇幻角色艺术、超精细的线条、柔和的绘画质感以及浪漫的忧郁感。在两侧边缘垂直重复添加淡淡的装饰性水印文字 {argument name="watermark text" default="♥ NaEun & Damien 2026"}，并在画面中心进行微妙点缀，且不遮挡主体场景。
+
+[English]
+Create a dark romantic fantasy anime illustration titled {argument name="artwork title" default="Time Guardian"}: two characters, exactly 1 tall male guardian and exactly 1 delicate female muse, standing in an intimate embrace before a huge glowing antique clock face. The male character has {argument name="male hair color" default="messy black hair"}, pale skin, a sharp elegant face, dangling earrings, and a solemn protective expression as he bends his head toward the woman; he wears an ornate black gothic long coat with a high collar, layered armor-like shoulders, gold filigree, clockwork gears, chains, pendants, and mechanical timepiece ornaments. The female character has {argument name="female hair color" default="long wavy honey-blonde hair"}, soft pale skin, dreamy sorrowful eyes, and parted lips; she wears a translucent ivory-white flowing gown with a high thigh slit, sheer veils, gold chain drapery, starburst clock-hand jewelry, purple crystal drops, and delicate bracelets. His black-gloved arm crosses protectively in front of her chest while she lightly holds his sleeve, creating a bittersweet, tragic-love mood. Behind them is exactly 1 enormous circular stained-glass clock window with Roman numerals, radiant golden backlight, intricate concentric rings, visible gears, pendulums, astrolabe shapes, dangling chains, and warm dust motes. Use a vertical 2:3 composition, close full-body framing, lavish detail, cinematic golden hour glow, chiaroscuro shadows, amber and bronze highlights, ethereal fabric motion, ornate steampunk-gothic cathedral atmosphere, highly polished fantasy character art, ultra-detailed linework, soft painterly rendering, romantic melancholy. Add faint decorative watermark text reading {argument name="watermark text" default="♥ NaEun & Damien 2026"} repeated vertically along both side borders and subtly across the center, without overpowering the scene.
+```
+
+**来源：** [@NaEun K](https://x.com/noirmielrue/status/2076526112122048740) | 2026-07-13
+
+---
+
