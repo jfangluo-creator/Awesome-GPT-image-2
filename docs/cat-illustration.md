@@ -7932,3 +7932,337 @@ Create a dark romantic fantasy anime illustration titled {argument name="artwork
 
 ---
 
+### 🎨 例 4061：照片级真实感的 4DX 电影院放映厅
+
+![照片级真实感的 4DX 电影院放映厅](../../images/%E7%85%A7%E7%89%87%E7%BA%A7%E7%9C%9F%E5%AE%9E%E6%84%9F%E7%9A%84%204DX%20%E7%94%B5%E5%BD%B1%E9%99%A2%E6%94%BE%E6%98%A0%E5%8E%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高度逼真的空电影院放映厅，灵感非常接近真实的 {argument name="theater type" default="4DX"}，带有 {argument name="screen style" default="ScreenX"} 厅，外观与现代商业影院相匹配，具有 {argument name="focus" default="居中前屏幕"}，且投影延伸至高大的左右两侧
+
+[English]
+Create a highly photorealistic empty cinema auditorium very closely inspired by a real {argument name="theater type" default="4DX"} with {argument name="screen style" default="ScreenX"} room, matching the look of a modern commercial theater with a {argument name="focus" default="centered front screen"} and projection continuing across the tall left and right side
+```
+
+**来源：** [@MayorkingAI](https://x.com/MayorKingAI/status/2077060754981937298) | 2026-07-14
+
+---
+
+### 🎨 例 4063：被遗忘星辰的洗衣妇
+
+![被遗忘星辰的洗衣妇](../../images/%E8%A2%AB%E9%81%97%E5%BF%98%E6%98%9F%E8%BE%B0%E7%9A%84%E6%B4%97%E8%A1%A3%E5%A6%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅诗意般的奇幻夜间海景画，标题为 {argument name="artwork title" default="被遗忘星辰的洗衣妇"}：一位银发挽成松散发髻的年迈洗衣妇，身穿朴素的浅色亚麻连衣裙，坐在一艘深色海面上破旧的小木船里，正轻轻地将发光的星辰衣物晾挂在两轮巨大的发光新月之间拉起的晾衣绳上。画面中包含 2 轮新月，一轮位于最左侧，一轮位于最右侧，均为温暖的象牙金色，如同绳索的锚点。晾衣绳上从左至右挂着 10 件半透明的发光衣物和布料：1 件长长的破旧面纱、1 条大方床单、1 件长睡袍、1 件较小的中央连衣裙、1 件轻柔飘动的连衣裙、1 件微小的蕾丝紧身胸衣或玩偶般的衣物、1 件微小的蕾丝紧身胸衣或玩偶般的衣物、1 件向下垂坠的长款婚纱、1 条大块垂挂的床单，以及最右侧 1 件窄小的破旧衬衫或围巾。织物看起来应如同由星光、薄丝、蕾丝和月尘编织而成，布满了细小的闪烁星座。画面包含 1 艘木船、1 位坐着的洗衣妇、1 个装满发光布料的柳条洗衣篮，以及 2 支可见的船桨。海洋呈深海军蓝，在月亮和衣物下方有银色的涟漪倒影；天空广阔，繁星点点，呈现深蓝黑色，地平线附近有淡淡的云彩。采用梦幻般的绘画风格，电影级宽幅构图，笔触细腻，细节丰富，魔幻现实主义，柔和的金色白光，宁静忧郁的氛围，无文字，无水印。
+
+[English]
+Create a poetic fantasy night seascape titled {argument name="artwork title" default="The Washerwoman of Forgotten Stars"}: an elderly washerwoman with silver hair in a loose bun sits in a small weathered wooden rowboat on a dark ocean, wearing a simple pale linen dress, gently pinning luminous star-washed laundry to a clothesline stretched between two enormous glowing crescent moons. The scene contains exactly 2 crescent moons, one at the far left and one at the far right, both warm ivory-gold and acting like anchors for the rope. On the clothesline hang exactly 10 translucent glowing garments and cloths from left to right: 1 long ragged veil, 1 large square sheet, 1 long nightgown, 1 smaller central dress, 1 softly billowing dress, 1 tiny lace bodice or doll-like garment, 1 tiny lace bodice or doll-like garment, 1 long flowing bridal gown trailing downward, 1 large draped sheet, and 1 narrow tattered blouse or scarf at the far right. The fabrics should look like they are woven from starlight, sheer silk, lace, and moon dust, filled with tiny sparkling constellations. Include exactly 1 wooden boat, 1 seated washerwoman, 1 wicker laundry basket filled with glowing cloth, and 2 visible oars. The ocean is deep navy with rippling silver reflections beneath the moons and garments; the sky is vast, star-filled, and dark blue-black with faint clouds near the horizon. Use a dreamlike painterly style, cinematic wide composition, delicate brushwork, high detail, magical realism, soft golden-white glow, serene melancholy mood, no text, no watermark.
+```
+
+**来源：** [@Derya Unutmaz, MD](https://x.com/DeryaTR_/status/2077049358516707450) | 2026-07-14
+
+---
+
+### 🎨 例 4070：大堂里的动漫风酒店服务员
+
+![大堂里的动漫风酒店服务员](../../images/%E5%A4%A7%E5%A0%82%E9%87%8C%E7%9A%84%E5%8A%A8%E6%BC%AB%E9%A3%8E%E9%85%92%E5%BA%97%E6%9C%8D%E5%8A%A1%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格插图，描绘一位年轻的酒店服务员站在奢华的酒店大堂中。角色是一位开朗的年轻女性，留着齐肩的 {argument name="hair color" default="暖栗棕色"} 头发，配有柔软的刘海，拥有一双明亮的 {argument name="eye color" default="亮蓝色"} 大眼睛，面带温柔的微笑，以放松的四分之三正面姿势面向观众。她穿着一件优雅的白色制服裙，配有长泡泡袖、修身袖口、高领，颈部系着一个巨大的宝蓝色蝴蝶结，中间饰有一枚椭圆形蓝色宝石胸针，腰部配有结构感十足的蓝色腰封，上面有 4 枚银色纽扣，两侧为蓝色拼接，肩部有类似肩章的细节，裙摆和袖口附近有精致的灰色星芒刺绣。她的左手提着一个结构感十足的蓝白相间手提包。场景设定在富丽堂皇的经典酒店大堂，地面铺设光亮的大理石，立着高大的奶油色大理石柱，悬挂着温暖的金色吊灯，右侧设有深色木质接待台，台上有两盏发光的台灯，后墙上清晰可见金色的 {argument name="hotel sign text" default="GRAND HOTEL"} 字样。左侧放置一张圆形木桌，桌上摆放着一个插满白色百合花和绿植的大型深色花瓶，背景中可见休闲椅和温暖的壁灯。采用精致的日式动漫渲染，线条清晰，赛璐珞阴影柔和，布料褶皱细节丰富，环境光温暖，大理石地面反射优雅，营造出高级的酒店服务氛围。构图为 16:9 横向图像，采用从头部到膝盖以下的全身中景，角色略微偏右居中，背景细节丰富且氛围感柔和。避免出现多余角色、多余包袋、手部畸变、文字杂乱或现代休闲服装。
+
+[English]
+Create a polished anime-style illustration of a young hotel attendant standing in the luxurious lobby of a grand hotel. The character is a cheerful young woman with shoulder-length {argument name="hair color" default="warm chestnut brown"} hair, soft bangs, large {argument name="eye color" default="bright blue"} eyes, and a gentle smile, facing the viewer in a relaxed three-quarter front pose. She wears an elegant white uniform dress with long puff sleeves, fitted cuffs, a high collar, a large royal-blue bow at the neck with an oval blue gemstone brooch, a structured blue waist panel with exactly four silver buttons, blue side panels, epaulet-like shoulder details, and subtle gray starburst embroidery near the lower skirt and sleeve areas. She holds exactly one structured blue-and-white handbag by its handles in her left hand. Set her in an opulent classic hotel lobby with glossy marble floors, tall cream marble columns, warm golden chandeliers, dark wood reception desk on the right, two glowing table lamps on the desk, and visible gold lettering reading {argument name="hotel sign text" default="GRAND HOTEL"} on the back wall. On the left, include one round wooden table topped with one large dark vase containing a bouquet of white lilies and greenery, with lounge chairs and warm wall sconces in the background. Use refined Japanese anime rendering with clean line art, soft cel shading, detailed fabric folds, warm ambient lighting, elegant reflections on the marble floor, and a sophisticated hospitality atmosphere. Composition should be a horizontal 16:9 image, medium-full body framing from head to below the knees, character centered slightly right, background detailed but softly atmospheric. Avoid extra characters, extra bags, distorted hands, messy text, or modern casual clothing.
+```
+
+**来源：** [@よった~公儀介錯人やぶにらみ黙示録~子貸し腕貸し仕る/天の裁きは待ってはおれぬ/必殺必中万屋稼業](https://x.com/9YGMEQ63135ka5O/status/2077035561341313026) | 2026-07-14
+
+---
+
+### 🎨 例 4082：黑猫忍者冒险者
+
+![黑猫忍者冒险者](../../images/%E9%BB%91%E7%8C%AB%E5%BF%8D%E8%80%85%E5%86%92%E9%99%A9%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+{argument name="職業" default="ソロ冒険者"}　{argument name="属性" default="くノ一"}{argument name="種族" default="黒猫獣人"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2077019661573755212) | 2026-07-14
+
+---
+
+### 🎨 例 4083：巨型机器人拦截
+
+![巨型机器人拦截](../../images/%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%A6%E6%88%AA.jpg)
+
+**Prompt:**
+
+```text
+{argument name="ロボット" default="巨大ロボット"}　{argument name="状況" default="迎撃完了"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2077019476030320896) | 2026-07-14
+
+---
+
+### 🎨 例 4085：动漫风格夏季天台页眉
+
+![动漫风格夏季天台页眉](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%8F%E5%AD%A3%E5%A4%A9%E5%8F%B0%E9%A1%B5%E7%9C%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张宽幅动漫风格的夏季页眉插图，画面中一位可爱的年轻女性正坐在阳光明媚的城市屋顶露台的木长椅上。角色拥有飘逸的 {argument name="hair color" default="银白色"} 长发，明亮的 {argument name="eye color" default="蓝色"} 双眼，面带淡淡红晕和温柔羞涩的微笑，耳畔别着深蓝色花朵发饰。她穿着俏皮的深蓝白配色夏季服装：带有白色饰边和细小荷叶边的无袖深蓝色吊带衫，腰间系着丝带，穿着白色多层裙，半透明的罩裙下隐约可见双腿，裙摆带有淡蓝色褶边，手腕戴着白色发圈手环，身侧放着一个小巧的深蓝色单肩包。她双手捧着 1 个纸包的可丽饼，上面点缀着清晰可见的草莓、奶油和小块水果。场景设定在明亮的屋顶露台，背景包含 1 张木长椅、玻璃护栏、盆栽绿植、花卉以及现代高层建筑。使用明亮清澈的蓝天，点缀蓬松的白云、闪烁的阳光、镜头光晕以及细微飘落的花瓣或光点。构图为横向社交媒体页眉，采用 16:9 电影级画幅，角色位于中心偏左位置，低角度拍摄，裙摆和双腿向右下方延伸，头发在微风中飘动。视觉风格：精致的日系动漫主视觉图，细腻的线条，明亮的双眼，透亮的高光，夏季柔和色调，清新而炎热的午后氛围，高细节，背景干净，无文字，无水印。
+
+[English]
+Create a wide anime-style summer header illustration of a cute young woman sitting on a wooden bench on a sunny urban rooftop terrace. The character has long flowing {argument name="hair color" default="silver-white"} hair, bright {argument name="eye color" default="blue"} eyes, soft blush, and a gentle shy smile, with a dark blue flower hair accessory near one ear. She wears a playful navy-and-white summer outfit: sleeveless navy camisole top with white trim and small frills, ribbon belt at the waist, white layered skirt with a semi-transparent sheer overlay revealing the legs underneath, pale blue ruffled hem, white scrunchie bracelets, and a small dark navy shoulder bag resting by her hip. She holds exactly 1 dessert crepe in both hands, wrapped in paper and topped with visible strawberries, cream, and small fruit pieces. Set the scene on a bright rooftop deck with exactly 1 wooden bench, glass railing, planter greenery, flowers, and modern high-rise buildings in the background. Use a vivid clear blue sky with fluffy white clouds, sparkling sunlight, lens flares, and tiny drifting petals or light particles. Compose as a horizontal social media header, cinematic 16:9 crop, character placed slightly left of center, low seated angle with her skirt and legs extending toward the lower right, hair blowing in the breeze. Visual style: polished Japanese anime key visual, delicate line art, glossy eyes, luminous highlights, pastel summer colors, refreshing but hot midday atmosphere, high detail, clean background, no text, no watermark.
+```
+
+**来源：** [@Licha](https://x.com/lrmyaiai/status/2077016784448979274) | 2026-07-14
+
+---
+
+### 🎨 例 4107：角色大脑会议场景生成器
+
+![角色大脑会议场景生成器](../../images/%E8%A7%92%E8%89%B2%E5%A4%A7%E8%84%91%E4%BC%9A%E8%AE%AE%E5%9C%BA%E6%99%AF%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+【情報記入欄】
+
+キャラクター名：{argument name="キャラクター名" default="名前"} ←必須
+
+追加アイデア（議題）：{argument name="議題" default="今日の晩ごはん"}←必須
+
+補足事項：{argument name="補足事項" default="任意入力"}
+※口調、性格、設定、避けたい表現などがあれば記入する。
+
+──────────────
+
+【最重要指示】
+
+これは画像生成用の文章を出力する依頼ではない。
+添付されたオリジナルキャラクター画像を直接参照し、以下の条件を満たした完成画像そのものを生成すること。
+
+最終出力は画像のみとし、説明文、確認文、プロンプト、注意書きは出力しない。
+
+──────────────
+
+【キャラクターの完全維持】
+
+添付されたオリジナルキャラクターを基準として、同じ人物から分かれた12人の思考担当者を描く。
+
+12人全員を、必ず同一人物と認識できる完全に統一されたデザインにする。
+
+以下の特徴を添付画像どおりに維持する。
+
+・顔立ち
+・髪型、髪色、前髪、髪の長さ
+・目の形、瞳の色と模様
+・肌色
+・衣装、配色、模様、装飾品
+・耳、角、尻尾、牙などの固有特徴
+・口の形
+・歯の種類、形、並び方
+・キャラクター固有のモチーフ
+
+特に歯は重要な識別要素として扱う。
+
+元画像がギザ歯なら、口を開けている12人全員に同じ形状のギザ歯を描く。
+元画像が普通の歯なら、ギザ歯や牙を追加しない。
+
+感情や役割を理由に、歯の形、本数、口の構造、瞳、髪型、衣装を変えてはならない。
+
+12人の違いは、表情、視線、ポーズ、感情、持ち物、吹き出しの内容だけで表現する。
+
+──────────────
+
+【頭身と人数】
+
+登場する12人全員を、必ず約2頭身の可愛らしいチビキャラクターとして描く。
+
+・人数は12人ちょうど
+・中央の議長役も12人に含める
+・全員を同じ頭身、同じ体格にする
+・背景、写真、モニター、ポスターなどに余分な人物を描かない
+・12人全員の顔と特徴が確認できるようにする
+
+──────────────
+
+【生成する場面】
+
+添付キャラクターの頭の中で、12人の思考担当者が一つの議題について騒がしく議論している、面白おかしい「脳内会議」の一枚絵を生成する。
+
+「この子、頭の中で毎回こんな会議をしているのか」と感じられる、コミカルで親しみやすい内容にする。
+
+単なる集合写真や、無関係な独り言の寄せ集めにはしない。
+12人の発言が賛成、反対、反論、脱線、妥協、解決策としてつながる、ひとつの会議として成立させる。
+
+追加アイデアが記入されている場合は、それを今回の議題にする。
+
+追加アイデアが空欄の場合は、キャラクターの性格や雰囲気から、その人物が日常で本当に悩みそうな議題を一つ設定する。
+
+──────────────
+
+【12人の思考担当】
+
+1. 議長・本体意識
+全員の意見を整理し、今回決めるべきことを提示する。
+
+2. 冷静・論理担当
+時間、費用、成功率、条件などを比較して現実的な案を出す。
+
+3. 楽観担当
+失敗しても立て直せる具体的な前向き案を出す。
+
+4. 不安・心配担当
+起こり得る失敗を具体的に示し、その対策を求める。
+
+5. 強気・決断担当
+何を優先し、何を捨て、いつ行動するかを強く主張する。
+
+6. 本能・欲望担当
+食事、睡眠、遊び、本音などを、議題に絡めて主張する。
+
+7. 怠惰・省エネ担当
+既存素材の再利用や作業の簡略化など、楽をする具体策を出す。
+
+8. 妄想・ロマン担当
+現実離れしていても魅力的な、壮大で面白い案を語る。
+
+9. 常識・ツッコミ担当
+他の担当者の暴走を止め、実行可能な規模へ修正する。
+
+10. 好奇心・実験担当
+普段と違う方法を、一部分だけ試す具体的な実験案を出す。
+
+11. 過去・経験担当
+以前の成功や失敗を具体的に振り返り、今回の改善策を示す。
+
+12. ひらめき担当
+複数の意見を組み合わせ、意外だが実行可能な解決案を提示する。
+
+──────────────
+
+【各担当者の発言】
+
+12人それぞれに、日本語の吹き出しを一つずつ付ける。
+
+発言は、単純な感情や安直な一言にしない。
+
+各担当者は、議題に対して具体的な主張を述べる。
+
+発言には、以下のうち最低二つを含める。
+
+・何をするか
+・なぜそうするか
+・いつ行うか
+・どの案を選ぶか
+・何が危険か
+・どう対策するか
+・どこを妥協するか
+・過去の事例
+・他担当者への反論
+・代替案
+
+一つの発言は、読みやすい二～三行程度に収める。
+
+例文をそのまま使用せず、今回の議題に合わせて12人分の異なる発言を作る。
+
+吹き出しの尻尾は発言者へ正しくつなげ、顔や髪を隠さない。
+
+──────────────
+
+【構図】
+
+アスペクト比は16:9の横長で固定する。
+
+画面中央に大きな会議机を置き、中央奥の議長席に議長・本体意識担当を配置する。
+
+残り11人を左右、前景、中景、後景へバランスよく配置し、全員が同じ会議空間で議論しているように描く。
+
+画面上部中央に、以下の看板を配置する。
+
+「{argument name="キャラクター名" default="名前"}の脳内会議」
+「本日の議題：{argument name="議題" default="今日の晩ごはん"}」
+
+会議室には、資料、メモ、飲み物、菓子、ホワイトボード、議題に関係する小物、汗、怒りマーク、ひらめきなどを加えてよい。
+
+──────────────
+
+【画風と品質】
+
+・高品質な2Dアニメイラスト
+・フルカラー
+・約2頭身の可愛いチビキャラクター
+・元画像の絵柄と雰囲気を維持
+・12人全員のデザインを完全に統一
+・表情とポーズは豊かに変化
+・コミカルで賑やか
+```
+
+**来源：** [@muda22_Sora](https://x.com/Sora_muda22/status/2076924642301014077) | 2026-07-14
+
+---
+
+### 🎨 例 4122：古典大师风格缝纫场景
+
+![古典大师风格缝纫场景](../../images/%E5%8F%A4%E5%85%B8%E5%A4%A7%E5%B8%88%E9%A3%8E%E6%A0%BC%E7%BC%9D%E7%BA%AB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+古典大师风格写实油画艺术作品，一位优雅的女士，留着 {argument name="hair color" default="波浪形棕色长发"}，垂眸专注地缝制布料，使用着一台 {argument name="machine style" default="带有黄铜细节的复古青色华丽金属缝纫机"}，放置在磨损的木质柜台上，木桌上散落着 {argument name="table details" default="多个米色线轴"}，呈现出陈旧且富有质感的油画画布纹理，采用柔和的古董鼠尾草绿与深褐色调，光线柔和自然，带有细微的裂纹漆质感，营造出宁静的复古手工氛围。
+
+[English]
+Old master style realistic oil artwork, delicate lady with {argument name="hair color" default="wavy brown hair"}, soft downcast eyes as she sews fabric, {argument name="machine style" default="retro teal ornate metal sewing machine"} with brass details on worn wooden cabinet, {argument name="table details" default="multiple beige thread rolls"} spread across the wooden table, aged distressed painterly canvas texture, muted antique sage and sepia color palette, soft gentle ambient light, subtle crackle paint texture, peaceful vintage craft atmosphere.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2076890504294531302) | 2026-07-14
+
+---
+
+### 🎨 例 4136：彩虹公主湖泊奇幻
+
+![彩虹公主湖泊奇幻](../../images/%E5%BD%A9%E8%99%B9%E5%85%AC%E4%B8%BB%E6%B9%96%E6%B3%8A%E5%A5%87%E5%B9%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版奇幻动漫插画，描绘一位美丽的彩虹公主赤脚走在波光粼粼的湖面上，全身居中，从头到脚完整呈现。她拥有一头飘逸的长发，{argument name="hair color" default="栗棕色"} 的发丝在风中戏剧性地飞舞，有着大而传神的眼睛、柔和的粉色妆容，以及一顶镶嵌着彩虹宝石的金色珠宝皇冠。她的服装是一件华丽的魔法公主紧身胸衣和由半透明丝绸、花瓣及水晶刺绣制成的短款飘逸裙摆，胸部和腰部呈现出鲜艳的彩虹渐变色，粉色雪纺裙摆在周围飘动，配有精致的金饰、吊坠耳环、珠宝项圈、臂饰和脚链。强调优雅迷人的奇幻美学，展现虹彩宝石、闪亮面料、发光的皮肤以及动态的风吹丝带。她迈步走在水面上，脚下激起明亮的水花，并映照出倒影。背景是一个梦幻般的童话山谷湖泊，两岸有遥远的白色村屋和教堂尖塔、绿色山丘、发光的花朵以及飘落的粉色花瓣。在她上方，一道巨大的完整彩虹横跨在充满蓬松云朵、阳光雾气、闪烁粒子、镜头光晕和魔法般雨滴光芒的湛蓝天空中。采用戏剧性的低角度构图、电影级光效、超精细数字绘画、鲜艳的粉彩彩虹色调，高细节，面部和服装细节清晰，氛围空灵，无文字，无水印。
+
+[English]
+Create a highly detailed vertical fantasy anime illustration of a beautiful rainbow princess walking barefoot across a sparkling lake, centered full body from head to toe. She has long flowing {argument name="hair color" default="chestnut brown"} hair whipping dramatically in the wind, large expressive eyes, soft rosy makeup, and a jeweled golden crown with rainbow gemstones. Her outfit is an ornate magical princess bodice and short flowing skirt made of translucent silk, petals, and crystal embroidery, with vivid rainbow gradients across the bust and waist, a pink chiffon train streaming around her, delicate gold jewelry, dangling earrings, jeweled choker, arm ornaments, and ankle jewelry. Emphasize an elegant glamorous fantasy aesthetic with iridescent gems, glittering fabric, luminous skin, and dynamic windblown ribbons. She steps forward on the surface of the water, creating bright splashes around her feet and mirrored reflections below. The setting is a dreamy fairytale valley lake with distant white village houses and church spires on both shores, green hills, glowing flowers, and drifting pink petals. Above her, a huge complete rainbow arcs across a vivid blue sky filled with fluffy clouds, sunlit mist, sparkling particles, lens flare, and magical rain-like glints. Use a dramatic low-angle composition, cinematic lighting, ultra-polished digital painting, vibrant pastel rainbow palette, high detail, sharp face and costume details, ethereal atmosphere, no text, no watermark.
+```
+
+**来源：** [@jee chen](https://x.com/AIjee_tpe/status/2076862810429284555) | 2026-07-14
+
+---
+
+### 🎨 例 4149：史诗级银河探索
+
+![史诗级银河探索](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E9%93%B6%E6%B2%B3%E6%8E%A2%E7%B4%A2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主役" default="宇宙探査船"}が{argument name="背景" default="巨大星雲と惑星"}を背景に銀河を航行する壮大な光景。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2076822737700479302) | 2026-07-14
+
+---
+

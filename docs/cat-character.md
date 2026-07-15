@@ -5677,3 +5677,39 @@ Reference @image1 手持ち人物画像
 
 ---
 
+### 🧍 例 4079：奢华黑巧克力主题时尚大片
+
+![奢华黑巧克力主题时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%BB%E9%A2%98%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的参考图作为模型面部、服装、发型、妆容、灯光及奢华时尚造型的主要参考。保持精准的黑巧克力单色视觉风格，包括缎面不对称挂脖上衣、剪裁利落的阔腿裤、黑色尖头高跟鞋、结构感黑色皮质手提包、金色首饰以及柔顺的长波浪卷发。姿势：{argument name="pose" default="随意坐姿"}。拍摄角度：{argument name="angle" default="平视"}。构图：{argument name="composition" default="全身照"}。镜头：85mm。温暖的琥珀色电影级背光，搭配柔和的轮廓光，深棕色无缝摄影棚背景，光泽感反射地面，Vogue 时尚大片风格，高端商业摄影，照片级真实皮肤质感，高细节织物纹理，自然身体比例，浅景深，电影级调色，超写实，8K 分辨率，大师级品质。
+
+[English]
+Use the uploaded reference image as the primary reference for the model's face, outfit, hairstyle, makeup, lighting, and luxury editorial styling. Maintain the exact dark chocolate monochrome look with a satin asymmetrical halter top, tailored wide-leg trousers, black pointed heels, structured black leather handbag, gold jewelry, and long soft wavy hair. Pose: {argument name="pose" default="sitting casually"}. Camera Angle: {argument name="angle" default="eye level"}. Composition: {argument name="composition" default="Full body"}. Lens: 85mm. Warm amber cinematic backlight with soft rim lighting, dark brown seamless studio backdrop, glossy reflective floor, Vogue fashion editorial, premium commercial photography, photorealistic skin, highly detailed fabric, natural body proportions, shallow depth of field, cinematic color grading, ultra-realistic, 8K, masterpiece quality.
+```
+
+**来源：** [@AI leverage](https://x.com/aileveraage/status/2077026309830754670) | 2026-07-14
+
+---
+
+### 🧍 例 4093：逼真街头时尚大片
+
+![逼真街头时尚大片](../../images/%E9%80%BC%E7%9C%9F%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的服装参考图，将插画或人体模型上的服装转换为由真人模特穿着的逼真时尚大片场景，模特描述为：{argument name="model description" default="留着长铂金色头发的年轻女性"}。保持服装设计忠实于参考图：黑色花卉透视长袖网纱上衣、亮面黑色抹胸短款上衣、半透明白色亮面阔腿裤、带有链条细节的白色腰带以及黑色厚底高跟鞋。将展示方式从正反面目录参考改为单张电影感四分之三全身照：模特倚靠在狭窄夜间小巷的砖墙上，单膝弯曲，脚抵在墙上，看向镜头。添加充满氛围感的城市背景，包括砖墙、涂鸦、湿润的地面、温暖的头顶路灯、雾气以及强烈的景深/虚化效果。风格设定为高端写实摄影，具有戏剧性的暖色调灯光、亮面材质反射、自然的皮肤质感、逼真的面料透明度以及浅景深。画面中不得包含文字、分屏、人体模型或绿色背景。
+
+[English]
+Using the provided outfit reference image, convert the illustrated/mannequin outfit into a photorealistic fashion editorial scene worn by a real {argument name="model description" default="young woman with long platinum-blonde hair"}. Keep the outfit design faithful to the reference: black floral sheer long-sleeve mesh top, glossy black bandeau crop top, translucent white glossy wide-leg pants, white belt with chain details, and black platform heels. Change the presentation from front/back catalog reference to a single cinematic three-quarter full-body photo: the model leans against a brick wall in a narrow nighttime alley, one knee bent with the foot resting against the wall, looking toward the camera. Add a moody urban background with brick walls, graffiti, wet pavement, warm overhead streetlights, haze, and strong depth of field/bokeh. Style it as high-end realistic photography with dramatic warm lighting, glossy material reflections, natural skin, realistic fabric transparency, and shallow depth of field. No text, no split-screen, no mannequin, no green background.
+```
+
+**来源：** [@AIギャル物語](https://x.com/JPAI_HEAVEN/status/2076971011338363290) | 2026-07-14
+
+---
+

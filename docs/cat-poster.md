@@ -18869,3 +18869,567 @@ Using the uploaded image and without changing face, create a hyper-realistic hig
 
 ---
 
+### 🎴 例 4053：印尼女性报纸拼贴肖像
+
+![印尼女性报纸拼贴肖像](../../images/%E5%8D%B0%E5%B0%BC%E5%A5%B3%E6%80%A7%E6%8A%A5%E7%BA%B8%E6%8B%BC%E8%B4%B4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细黑白混合媒介肖像，主角是一位惊艳的 {argument name="age" default="20 岁"} {argument name="ethnicity" default="印尼女性"}，居中构图，直视镜头，面部轮廓优雅，表情柔和自信，呈现当代编辑时尚风格。
+
+整件艺术品为单色（仅限黑色、白色和灰色调），灵感源自经典报纸印刷和复古新闻业。背景完全由层叠的印尼报纸页面、旧报纸标题、撕碎的新闻纸、社论专栏、复古新闻排版、报纸纹理和陈旧纸张碎片构成。无彩色杂志，无涂鸦，无油漆飞溅。
+
+肖像周围环绕着逼真的黑色墨迹、水墨纹理、炭笔笔触、半色调印刷图案、打字机字体、报纸剪贴元素、折叠纸边、撕裂的标题、细微的印章痕迹、印刷套准标记、编辑裁剪标记、真实的胶印瑕疵、纸张褶皱、折痕、划痕、咖啡渍、陈旧纸纤维和磨损的报纸纹理，营造出高级的编辑报纸拼贴效果。
+
+她留着柔顺的黑色长发，带有自然的动感。身着无袖现代蜡染连衣裙，饰有优雅的单色蜡染图案，搭配极简银饰。妆容为干净的编辑风格，具有真实的皮肤质感、清晰的眉形、精致的眼线、柔和的哑光唇色和自然的脸部高光。
+
+肖像与报纸无缝融合，仿佛直接印刷在头版上。肖像边缘与纸张柔和交融，报纸标题和专栏部分覆盖在图像上，营造出真实的报纸头版排版。
+
+真实的复古报纸头版美学，单色胶印，陈旧新闻纸上的黑色油墨，高对比度编辑摄影，逼真的半色调网点，CMYK 印刷伪影，凸版印刷瑕疵，报纸颗粒感，细微的墨水渗色，略微褪色的黑色油墨，档案级新闻质量，电影感单色光影，戏剧性阴影，高级混合媒介插画，绘画写实主义与照片级肖像的融合，画廊级艺术品，杂志封面构图，超清晰，杰作，8K。
+
+负面提示词 (NEGATIVE PROMPT)：
+彩色，蓝色，红色，橙色，黄色，绿色，粉色，紫色，霓虹色，彩色油漆，涂鸦，水彩，光面纸，现代杂志色彩，卡通，动漫，CGI，低质量，模糊，扭曲的面部，不同的人，糟糕的解剖结构，多余的手指，多余的肢体，塑料感皮肤，水印，Logo，过度饱和，低分辨率
+
+[English]
+Ultra-detailed black-and-white mixed-media portrait of a stunningly beautiful {argument name="age" default="20-year-old"} {argument name="ethnicity" default="Indonesian woman"}, centered composition, direct eye contact, graceful facial features, soft confident expression, contemporary editorial fashion styling.
+
+The entire artwork is monochrome (black, white, and shades of gray only), inspired by classic newspaper print and vintage journalism. The background is built entirely from layered Indonesian newspaper pages, old newspaper headlines, ripped newsprint, editorial columns, vintage press layouts, newspaper textures, and distressed paper fragments. No colorful magazines, no graffiti, no paint splashes.
+
+Surrounding the portrait are realistic black ink splatters, ink wash textures, charcoal brush strokes, halftone print patterns, typewriter typography, newspaper cut-out elements, folded paper edges, torn headlines, subtle stamp marks, printing registration marks, editorial crop marks, authentic offset-print imperfections, paper wrinkles, folds, scratches, coffee stains, aged paper fibers, and worn newspaper textures, creating a premium editorial newspaper collage.
+
+She has long silky black hair with soft natural movement. She wears a sleeveless modern batik dress featuring elegant monochrome batik motifs, paired with minimal silver jewelry. Her makeup is clean editorial style with realistic skin texture, defined brows, subtle eyeliner, soft matte lips, and natural facial highlights.
+
+The portrait is seamlessly blended into the newspaper itself, as if it has been printed directly onto the front page. The edges of the portrait softly merge with the paper, while newspaper headlines and columns partially overlap sections of the image, creating an authentic front-page newspaper layout.
+
+Authentic vintage newspaper front-page aesthetic, monochrome offset printing, black ink on aged newsprint paper, high-contrast editorial photography, realistic halftone dots, CMYK printing artifacts, letterpress imperfections, newspaper grain, subtle ink bleed, slightly faded black ink, archival press quality, cinematic monochrome lighting, dramatic shadows, premium mixed-media illustration, painterly realism blended with photorealistic portraiture, gallery-worthy artwork, magazine-cover composition, ultra-sharp, masterpiece, 8K.
+
+NEGATIVE PROMPT:
+color, blue, red, orange, yellow, green, pink, purple, neon, colorful paint, graffiti, watercolor, glossy paper, modern magazine colors, cartoon, anime, CGI, low quality, blur, distorted face, different person, bad anatomy, extra fingers, extra limbs, plastic skin, watermark, logo, oversaturated, low resolution
+```
+
+**来源：** [@By](https://x.com/rhodezio_ai/status/2077147576152084596) | 2026-07-14
+
+---
+
+### 🎴 例 4058：奢华咖啡广告摄影
+
+![奢华咖啡广告摄影](../../images/%E5%A5%A2%E5%8D%8E%E5%92%96%E5%95%A1%E5%B9%BF%E5%91%8A%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实高端咖啡广告，画面主体为一只哑光黑色陶瓷杯，杯中盛放着 {argument name="beverage type" default="浓郁丝滑的卡布奇诺"}，表面点缀着完美的拉花，放置在 {argument name="surface" default="奢华的深色胡桃木桌"} 上，周围散落着新鲜烘焙的咖啡豆和精致的肉桂棒。{argument name="lighting style" default="温暖的金色晨光"} 透过咖啡馆窗户倾泻而入，营造出柔和的体积光和电影般的反光。浓郁的咖啡蒸汽自然升腾，杯身上带有超精细的微小液滴。漂浮的烘焙咖啡豆和细小的咖啡粉颗粒增添了动态感。优雅的奢华品牌美学，留有极简的高级排版空间，浅景深，焦点锐利，HDR，逼真的纹理，柔和的背景虚化，奢华商业摄影，微距产品拍摄，照片级真实感，8K，获奖广告作品，影棚级灯光，GPT Image 2 风格。
+
+[English]
+Ultra-realistic premium coffee advertisement featuring a matte black ceramic cup filled with {argument name="beverage type" default="rich creamy cappuccino"} topped with flawless latte art, placed on a {argument name="surface" default="luxurious dark walnut wooden table"} surrounded by freshly roasted coffee beans and subtle cinnamon sticks. {argument name="lighting style" default="Warm golden sunrise light"} streams through a café window, creating soft volumetric rays and cinematic reflections. Rich coffee steam rises naturally with ultra-detailed micro-droplets on the cup. Floating roasted coffee beans and tiny coffee powder particles add dynamic motion. Elegant luxury branding aesthetic with minimal premium typography space, shallow depth of field, razor-sharp focus, HDR, realistic textures, soft bokeh background, luxury commercial photography, macro product shot, photorealistic, 8K, award-winning advertising, studio-quality lighting, GPT Image 2 style.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2077078506111115363) | 2026-07-14
+
+---
+
+### 🎴 例 4060：健康生活杂志封面肖像
+
+![健康生活杂志封面肖像](../../images/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实的健康生活方式杂志封面，主角为一位容光焕发的 {argument name="ethnicity" default="韩国女性"}，身着 {argument name="outfit" default="白色亚麻套装"}，双手捧着一瓶设计精美的 Erewhon 品牌适应原健康补剂，面带温暖宁静的微笑。肌肤呈现水润透亮的光泽感，妆容清透自然，涂抹着天然润色唇膏。发型为柔和的海滩波浪卷。背景：明亮的加州农贸市场美学——模糊的生鲜蔬果篮，温暖的晨光洒入，充满干净、活力与健康的能量。"{argument name="magazine title" default="VOGUE LIVING"}" 刊头采用简洁现代的衬线字体，并带有“WELLNESS ISSUE”（健康专刊）的标题标注。50mm 镜头，超细节的瓶身标签和玻璃质感，8K 级健康生活方式摄影。
+
+[English]
+Ultra-realistic wellness lifestyle magazine cover featuring a glowing {argument name="ethnicity" default="Korean woman"} in a {argument name="outfit" default="white linen co-ord matching set"}, holding a beautifully designed Erewhon-branded adaptogen wellness tonic bottle in both hands at chest level, warm serene smile. Luminous hydrated glass skin, zero-makeup fresh look, natural tinted lip balm. Soft beachy waves. Background: bright California farmers market aesthetic — blurred baskets of fresh produce, warm morning sun streaming through, clean vibrant healthy energy. "{argument name="magazine title" default="VOGUE LIVING"}" masthead in clean modern serif with "WELLNESS ISSUE" callout. 50mm lens, ultra-detailed bottle label and glass texture, 8K photorealistic wellness lifestyle.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077064175499841973) | 2026-07-14
+
+---
+
+### 🎴 例 4064：Gorillaz 伊斯坦布尔演唱会海报
+
+![Gorillaz 伊斯坦布尔演唱会海报](../../images/Gorillaz%20%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="band name" default="Gorillaz"} 在伊斯坦布尔的演出创作一张粗犷的另类演唱会海报，融合粗糙的铅笔概念艺术与朋克街头海报字体。使用 4:5 的竖向画布，背景为带有细微斑点、扫描纹理和淡淡污迹的暖色调米白色旧纸张。在背景上方，绘制一幅非常轻淡的博斯普鲁斯大桥石墨素描，展现横跨上半部分的桥身，线条细致，吊索精巧。在中景处，并排站立五个角色：1) 最左侧是一位留着蓝发的瘦削卡通吉他手，姿态放松，侧身，双手插兜，戴着墨镜，穿着带星形补丁的 T 恤、宽松牛仔裤和运动鞋；2) 他旁边是一位高瘦的黑发卡通歌手，发型尖刺，表情愤怒，双臂交叉，穿着深色铆钉夹克、紧身裤和靴子；3) 中间是一位较矮的卡通鼓手，戴着护目镜的头盔或帽子，黑色波波头，穿着超大号夹克、裙子或短裤，搭配条纹袜和靴子；4) 右侧是一位高大的卡通贝斯手，戴着墨镜和帽子，穿着带有袖章的厚重夹克，双手插兜，站姿宽阔；5) 最右侧是一位看起来像真实照片的成年男性，穿着深色夹克、黑色衬衫、牛仔裤和白色运动鞋，双手插兜，与插画角色略有分离，带有微妙的剪纸边缘效果。将四个卡通人物渲染为带有极简柔和色彩点缀的粗糙黑色墨水与石墨素描，而真人形象则更具摄影感，但仍与海报纹理融为一体。在下三分之一处覆盖一个巨大的亮粉色喷漆笔刷标题，内容为 {argument name="headline text" default="GORILLAZ"}，略微倾斜并延伸至左右边缘，呈现出粗糙的刷毛质感、断墨、喷溅和滴落效果。在底部居中添加小号等宽字体黑色活动文本：{argument name="event details" default="14 • 16 TEMMUZ 2026 • BONUS PARKORMAN, İSTANBUL • 21:30"}。在右下角添加一个小的圆形亮粉色印章标志，内含文字 {argument name="stamp text" default="HALF REAL"}。沿右上边缘添加微小的垂直文本：{argument name="side text" default="BOĞAZ / 35MM / 2026"}。保持整体外观原始、具有编辑感、手绘风格、杂志感以及高定时装音乐海报的灵感；避免使用光泽渐变、干净的矢量艺术、额外的乐队成员、多余的文字或精致的商业化成品效果。
+
+[English]
+Create a gritty alternative concert poster for {argument name="band name" default="Gorillaz"} in Istanbul, blending rough pencil concept art with punk street-poster typography. Use a vertical 4:5 canvas on warm off-white aged paper with subtle speckles, scan texture, and faint smudges. In the background, draw a very light graphite sketch of the Bosphorus Bridge spanning across the upper half, with thin construction lines and delicate suspension cables. Across the middle foreground, place exactly five standing figures in a lineup: 1) a slim blue-haired cartoon guitarist on the far left, relaxed sideways pose with hands in pockets, sunglasses, T-shirt with a star patch, loose jeans and sneakers; 2) a tall lanky black-haired cartoon singer next to him, spiky hair, scowling face, arms crossed, dark studded jacket, tight trousers and boots; 3) a shorter cartoon drummer in the center, helmet or cap with goggles, black bobbed hair, oversized jacket, skirt or shorts, striped socks and boots; 4) a large cartoon bassist to the right, wearing sunglasses and a cap, heavy jacket with sleeve patches, hands in pockets, broad stance; 5) a realistic photographed-looking adult male on the far right, dark jacket, black shirt, jeans, white sneakers, hands in pockets, slightly separated from the illustrated characters with a subtle cutout edge. Render the four cartoon figures as scratchy black ink and graphite sketches with minimal muted color accents, while the human figure is more photographic but still integrated into the poster texture. Cover the lower third with a huge hot-pink spray-painted brush title reading {argument name="headline text" default="GORILLAZ"}, tilted slightly and extending beyond the left and right edges, with rough bristle texture, paint gaps, splatters, and drips. Add small monospaced black event text centered along the bottom: {argument name="event details" default="14 • 16 TEMMUZ 2026 • BONUS PARKORMAN, İSTANBUL • 21:30"}. Add a small circular hot-pink stamp logo at the lower right containing the words {argument name="stamp text" default="HALF REAL"}. Along the upper right edge, add tiny vertical text: {argument name="side text" default="BOĞAZ / 35MM / 2026"}. Keep the overall look raw, editorial, hand-drawn, zine-like, and high-fashion music-poster inspired; avoid glossy gradients, clean vector art, extra band members, extra text, or a polished corporate finish.
+```
+
+**来源：** [@sarpstar](https://x.com/sarpstar/status/2077049334999216239) | 2026-07-14
+
+---
+
+### 🎴 例 4078：Nebula Relay Sprinter 海报
+
+![Nebula Relay Sprinter 海报](../../images/Nebula%20Relay%20Sprinter%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="NEBULA RELAY"} 创作一款竖版运动杂志风格海报，将黑白运动摄影与超大镂空排版相结合。
+
+画布：竖版海报，9:16 比例，带有干净的白色边框，呈现高端时尚的广告构图。
+
+主体：一名黑人男性短跑运动员的侧影，捕捉其奔跑中向前倾斜的爆发瞬间。他留着短发，表情专注，肌肉线条分明，身穿白色无袖背心、白色紧身短裤和白色跑鞋。他后方的手中握着一根亮青蓝色的接力棒，这是画面中唯一的强色彩点缀。
+
+背景：充满情绪感的灰度户外场景，底部为反光水面，地平线上有远处的暗色山脉，天空笼罩着柔和的云雾。保持场景的电影感、极简主义和氛围感。
+
+布局与排版：用巨大的超粗压缩大写无衬线字体填满海报的大部分区域，拼写出 {argument name="main poster text" default="NEBULA RELAY"}。将文字分为两行堆叠：“NEBULA”位于上半部分，“RELAY”位于下半部分。字母如同巨大的垂直镂空窗口和叠加层，运动员的身影在字形之间穿梭可见。在笔画间使用白色负空间，并在排版内部填充深灰色摄影图像，营造出切割式的杂志遮罩效果。确保运动员的身影穿过两行文字，躯干位于中右侧，接力棒靠近上方单词的左下角，伸展的腿部跨过下方单词。
+
+品牌标识与小字：包含 3 个微小的文字/图形元素：1) 右上角一个微小的抽象黑色 Logo，下方标注 {argument name="small logo text" default="NEBULA RELAY"}；2) 右侧边缘的一行垂直标语 {argument name="vertical tagline" default="PRIVATE MOTION / SIGNAL IN TRANSIT"}；3) 左下角边缘的一个微小垂直日期标记 {argument name="date text" default="2026"}，旁边配有一条短横线。
+
+视觉风格：高端 Nike 风格运动海报，受现代瑞士网格设计影响，锐利的高对比度黑白摄影，戏剧性的轮廓光，干净的留白，精确的字距，粗犷的压缩排版，细腻的胶片颗粒感，无冗余元素。
+
+限制：仅限一名运动员、一根接力棒、一个右上角 Logo、一个右侧垂直标语以及一个左下角日期标记。请勿添加额外的运动员、Logo、颜色或额外的促销文案。
+
+[English]
+Goal: Create a tall editorial sports poster concept for {argument name="brand name" default="NEBULA RELAY"}, blending monochrome athletic photography with oversized cutout typography.
+
+Canvas: Vertical poster, 9:16 aspect ratio, clean white border, high-fashion performance-advertising composition.
+
+Main subject: A single Black male sprinter in side profile, captured mid-run and leaning forward with explosive motion. He has short textured black hair, a focused expression, defined muscular arms and legs, and wears a white sleeveless running singlet, white compression shorts, and white running shoes. In his rear hand he holds a bright cyan-blue relay baton, the only strong color accent in the image.
+
+Background: Moody grayscale outdoor setting with a reflective water surface at the bottom, distant dark mountains on the horizon, and soft cloudy sky haze. Keep the scene cinematic, minimal, and atmospheric.
+
+Layout and typography: Fill almost the entire poster with enormous ultra-bold condensed uppercase sans-serif letters spelling {argument name="main poster text" default="NEBULA RELAY"}. Arrange the words in two stacked lines: “NEBULA” on the upper half and “RELAY” on the lower half. The letters act like large vertical stencil windows and overlays, with the runner visible through and between the letterforms. Use white negative space between strokes and a dark-gray photographic fill inside the typography, creating a sliced editorial mask effect. Ensure the runner crosses both lines of text, with his torso near the center-right, baton near the lower-left of the upper word, and extended leg stepping through the lower word.
+
+Brand marks and small text: Include exactly 3 small text/graphic elements: 1) a tiny abstract black logo at the top-right with the words {argument name="small logo text" default="NEBULA RELAY"} beneath it, 2) a narrow vertical tagline along the right edge reading {argument name="vertical tagline" default="PRIVATE MOTION / SIGNAL IN TRANSIT"}, and 3) a tiny vertical date marker near the bottom-left edge reading {argument name="date text" default="2026"} with a short horizontal line beside it.
+
+Visual style: Premium Nike-like sports campaign poster, modern Swiss grid influence, sharp high-contrast black-and-white photography, dramatic rim lighting, clean whitespace, precise kerning, bold condensed typography, subtle film grain, no clutter.
+
+Constraints: Use exactly one athlete, one baton, one top-right logo mark, one vertical right-edge tagline, and one bottom-left date marker. Do not add extra athletes, extra logos, extra colors, or additional promotional copy.
+```
+
+**来源：** [@Bankai Sauce](https://x.com/gremlin0x/status/2077027237602238816) | 2026-07-14
+
+---
+
+### 🎴 例 4080：戏剧性 Ino Telemann 海报
+
+![戏剧性 Ino Telemann 海报](../../images/%E6%88%8F%E5%89%A7%E6%80%A7%20Ino%20Telemann%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="cantata title" default="Ino"}（作曲家：{argument name="composer name" default="Georg Philipp Telemann"}）创作一张极具戏剧性的宽屏古典音乐海报，营造出神话般的巴洛克歌剧场景。
+
+画布：16:9 横向电影构图，深色风暴色调，超细节的写实绘画风格，带有浪漫主义历史剧的灯光效果。
+
+布局：前景左侧包含 2 个主要人物：1 名成年女性和 1 名幼童。女性正抱着孩子在潮湿的岩石山路上奔跑或大步前行。中后景右侧包含 1 个模糊的远方人物剪影，部分被薄雾遮挡。大标题文字位于右上象限，作曲家姓名位于右下边缘。
+
+主体细节：成年女性为古希腊神话人物，橄榄色皮肤，黑色长发随风飘动，神情焦虑而坚定，身穿浅奶油色古典垂褶长裙，披着带有金色镶边的深蓝色斗篷。孩子留着深色卷发，面露忧色，赤裸双腿，穿着凉鞋，包裹在蓝灰色织物中。两人均被来自左侧的冷月光和闪电照亮。
+
+环境：夜晚暴风雨中险峻的岩石海岸山地景观。左侧是深色的大海或湖泊，在厚重的云层下翻腾，一道明亮的闪电划破天空。右侧是一条湿滑的陡峭石路，通向扭曲的深色树枝下的多雾山脉。添加雾气、雨水浸润的岩石、深邃的阴影以及远处的松林悬崖，以展现规模感和危险感。
+
+文字内容：包含 2 个文字元素。右上角：巨大的粗体无衬线黄色标题 {argument name="headline text" default="Ino"}，带有微妙的深色阴影。右下角：醒目的粗体白色无衬线作曲家姓名 {argument name="bottom text" default="Georg Philipp Telemann"}，略微覆盖在深色的岩石前景上。不得包含其他文字。
+
+视觉风格：史诗级电影幻想写实主义，纹理丰富的数字油画，高对比度明暗对照法，大气透视，忧郁的蓝黑色风暴色调与黄色标题形成对比，前景人物清晰，戏剧性灯光，无现代物品，无水印。
+
+[English]
+Goal: Create a dramatic widescreen classical-music poster for {argument name="cantata title" default="Ino"} by {argument name="composer name" default="Georg Philipp Telemann"}, evoking a mythological Baroque opera scene.
+
+Canvas: 16:9 horizontal cinematic composition, dark stormy palette, ultra-detailed painterly realism with romantic historical drama lighting.
+
+Layout: Foreground left contains exactly 2 main human figures: 1 adult woman and 1 small child. The woman is running or striding through a wet rocky mountain path while holding the child tightly in her arms. Mid-background right contains exactly 1 tiny distant human silhouette on the path, partly obscured by mist. Large title text sits in the upper-right quadrant, and composer text sits along the lower-right edge.
+
+Subject details: The adult woman is a mythological ancient Greek figure with olive skin, long black windblown hair, anxious determined expression, wearing a pale cream draped classical dress and a dark blue cloak with gold trim billowing behind her. The child has curly dark hair, a worried face, bare legs, sandals, and is wrapped in blue-gray fabric. Both figures are illuminated by cold moonlight and lightning from the left.
+
+Environment: A treacherous rocky coastal mountain landscape at night during a violent storm. On the left, a dark sea or lake churns under heavy clouds, with a bright lightning bolt splitting the sky. On the right, a steep wet stone path climbs into misty mountains beneath twisted dark tree branches. Add fog, rain-slick rocks, deep shadows, and distant pine-covered cliffs for scale and danger.
+
+Text content: Include exactly 2 text elements. Top right: huge bold sans-serif yellow title reading {argument name="headline text" default="Ino"}, with subtle dark shadow. Bottom right: large bold white sans-serif composer name reading {argument name="bottom text" default="Georg Philipp Telemann"}, slightly overlapping the dark rocky foreground. No other text.
+
+Visual style: Epic cinematic fantasy realism, richly textured digital oil painting, high contrast chiaroscuro, atmospheric perspective, moody blue-black storm colors with yellow title contrast, sharp foreground figures, dramatic lighting, no modern objects, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2077022919343894716) | 2026-07-14
+
+---
+
+### 🎴 例 4092：雨中双重曝光电影海报
+
+![雨中双重曝光电影海报](../../images/%E9%9B%A8%E4%B8%AD%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的图片作为唯一的面部特征参考。100% 保留原始面部特征，包括脸型、眼形、眉毛、鼻子、嘴唇、下颌线、肤色、面部比例、发型影响以及所有独特的面部特征。请勿更改面部或身份。画面中出现的每个人物都必须与上传图片中的人完全一致。
+
+创作一张 8K 超写实 IMAX 级电影双重曝光海报，采用 9:16 竖构图。
+
+主图层为 {argument name="subject" default="年轻南亚女性"} 微笑的特写肖像。她深棕色的长卷发被雨水浸透，湿润的发丝自然地勾勒出脸部轮廓。晶莹剔透的水珠自然地滑过她的额头、脸颊、睫毛和下巴。她的皮肤呈现出自然的质感，带有真实的毛孔和细腻的湿润反光。她身着 {argument name="clothing" default="一件细节精致的黑色纱丽，配有优雅的粉色花卉图案"}，丝绸质感真实，布料被雨水浸湿。
+
+在双重曝光构图中，无缝融合该女性的第二个全身形象，场景为 {argument name="scene" default="独自走在雨夜现代城市街道上，撑着一把黑色雨伞"}。她拥有透亮的白皙皮肤、自然的清新妆容、柔和的粉色哑光唇色、光泽的黑色指甲，神情优雅自信。湿润的街道反射出充满活力的深青色、电光蓝和细腻的洋红色霓虹灯光，营造出奢华的电影氛围。
+
+前景处放置几朵压在雨水覆盖的玻璃表面上的深红色玫瑰。花瓣上布满了闪烁的水珠，周围环绕着浓重的雨雾，营造出强烈的景深感和叙事张力。
+
+背景呈现出一座高端的雨中大都市，带有模糊的灯光、电影级虚化效果、薄雾、大气感雾气、真实的降雨、反光的路面、发光的街灯以及柔和的体积光。
+
+光影：
+- 情绪化的电影雨天光影
+- 柔和的蓝色和青色霓虹反射
+- 勾勒脸部轮廓的暖色边缘光
+- HDR 全局光照
+- 具有真实湿润高光的戏剧性对比
+
+摄影：
+- IMAX 级电影构图
+- 85mm 人像镜头
+- f/1.8 大光圈
+- 浅景深
+- 专业电影海报构图
+
+风格：
+奢华 Netflix 风格浪漫剧情海报，超写实，高端编辑品质，超精细皮肤纹理，真实的雨水物理效果，电影级调色，大师级构图，获奖电影海报美学，8K 分辨率。
+
+负面提示词：改变身份、不同的脸、解剖结构扭曲、模糊的脸、多余的肢体、多余的手指、重复的人物、塑料感皮肤、不真实的雨、卡通、动画、CGI 感、低质量、文字、水印、标志、过度锐化、伪影。
+
+[English]
+Use the uploaded image as the exclusive facial identity reference. Preserve 100% of the original facial identity, including facial structure, eye shape, eyebrows, nose, lips, jawline, skin tone, facial proportions, hairstyle influence, and all unique facial characteristics. Do not change the face or identity. Every appearance in the composition must depict the exact same person from the uploaded image.
+
+Create an 8K ultra-realistic IMAX-quality cinematic double-exposure movie poster in a 9:16 vertical composition.
+
+The dominant layer is an extreme close-up portrait of the {argument name="subject" default="young South Asian woman"} smiling softly. Her long dark-brown curly hair is soaked from the rain, with realistic wet strands framing her face. Crystal-clear water droplets trickle naturally across her forehead, cheeks, eyelashes, and chin. Her skin appears naturally radiant with realistic pores and subtle wet reflections. She wears a {argument name="clothing" default="beautifully detailed black saree with elegant pink floral patterns"}, enhanced by realistic silk texture and rain-soaked fabric.
+
+Within the double-exposure composition, seamlessly blend a second full-body version of the same woman {argument name="scene" default="walking alone through a rain-soaked modern city street at night beneath a black umbrella"}. She has glowing fair skin, naturally fresh makeup, soft pink matte lips, glossy black nails, and a graceful, confident expression. The wet street reflects vibrant deep teal, electric blue, and subtle magenta neon lights, creating a luxurious cinematic atmosphere.
+
+In the foreground, place several large crimson roses pressed against a rain-covered glass surface. The petals are covered with sparkling water droplets and surrounded by heavy rain condensation, creating dramatic depth and emotional storytelling.
+
+The background features a premium rainy metropolis with blurred lights, cinematic bokeh, mist, atmospheric fog, realistic rainfall, reflective pavement, glowing streetlights, and soft volumetric lighting.
+
+Lighting:
+- Moody cinematic rain lighting
+- Soft blue and teal neon reflections
+- Warm rim light outlining the face
+- HDR global illumination
+- Dramatic contrast with realistic wet highlights
+
+Camera:
+- IMAX-quality cinematic framing
+- 85mm portrait lens
+- f/1.8 aperture
+- Shallow depth of field
+- Professional movie-poster composition
+
+Style:
+Luxury Netflix-style romantic drama poster, ultra-photorealistic, premium editorial quality, hyper-detailed skin, realistic rain physics, cinematic color grading, masterpiece composition, award-winning movie poster aesthetic, 8K resolution.
+
+Negative Prompt: altered identity, different face, distorted anatomy, blurry face, extra limbs, extra fingers, duplicate person, plastic skin, unrealistic rain, cartoon, anime, CGI look, low quality, text, watermark, logo, oversharpening, artifacts.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2076977507232882853) | 2026-07-14
+
+---
+
+### 🎴 例 4094：城市唱片店浏览
+
+![城市唱片店浏览](../../images/%E5%9F%8E%E5%B8%82%E5%94%B1%E7%89%87%E5%BA%97%E6%B5%8F%E8%A7%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真的日常生活场景，主角为 {argument name="subject" default="二十多岁的成年女性"}。
+
+背景设定：一个 {argument name="location" default="紧凑的唱片店"}，陈列着密集的黑胶唱片架，唱片封套朝外，配有温暖的聚光灯、试听台或柜台区域，海报风格的音乐图形（保持不可读），木质与金属质感，以及具有层次感的店铺深度。空间应营造出酷炫、都市且真实的氛围，具有鲜明的唱片店特色，而非普通的商店。
+
+深度锁定：前景处，模糊的唱片箱边缘、黑胶封套一角或试听台细节靠近镜头。中景处，主角站在唱片箱或货架旁。背景处，更多的黑胶唱片排、墙面展示和向后延伸的店铺深度。
+
+构图锁定：垂直 4:5 的生活照剪裁，从腰部高度拍摄，取景范围从腰部或大腿中部到头部。主角占据画面约 65%–75%。保留一个唱片箱边缘、几个可见的封套以及可辨识的店铺纵深。画面应给人一种亲密且自然观察的感觉。
+
+动作锁定：主角正在 {argument name="action" default="浏览唱片"}，动作自然可信。一只手拿着从箱中取出的一张唱片封套，另一只手放在箱边或轻轻拨开相邻的唱片。身体与唱片箱呈微小角度，双肩放松，姿态随意，双脚着地。避免夸张的摆拍。
+
+视线设计：在注意到某张唱片后，她短暂地看向镜头，而无需将整个身体转为肖像姿势。这种直接的眼神接触应显得微妙且短暂，仿佛在浏览过程中被捕捉到。
+
+避免：宽阔的店铺全景、刻意的时尚站姿、夸张的倾斜、抬膝、剧烈的躯干扭转、死盯着镜头、无法辨认的道具、遮挡面部或手部的杂物。
+
+[English]
+Photorealistic everyday lifestyle scene featuring an {argument name="subject" default="adult woman in her twenties"}.
+
+Background identity: a {argument name="location" default="compact record store"} with tightly packed vinyl shelves, record jackets facing outward, warm spotlights, a listening station or counter area, poster-like music graphics kept non-readable, wood and metal textures, and layered shop depth. The space should feel cool, urban, and real, with strong record-store identity rather than a generic shop.
+
+Depth lock: in the foreground, a blurred record bin edge, vinyl sleeve corner, or listening-station detail enters near the lens. In the middle ground, the subject stands beside a record bin or shelf. In the background, more vinyl rows, wall displays, and shop depth recede behind her.
+
+Composition lock: vertical 4:5 lifestyle crop from around waist height, framed from waist or mid-thigh to head. The subject fills about 65–75% of the frame. Keep one record bin edge, several visible jackets, and the receding store depth readable. The image should feel intimate and naturally observed.
+
+Action lock: the subject is {argument name="action" default="browsing records"} in a believable way. One hand holds a selected record jacket partly lifted from the bin, while the other hand rests on the bin edge or lightly separates adjacent records. Her body faces the bin at a slight angle, shoulders relaxed, posture casual, both feet grounded. No dramatic posing.
+
+Gaze design: after noticing a particular record, she briefly glances toward the camera without turning her whole body into a portrait pose. The direct eye contact should feel subtle and momentary, like being caught mid-browse.
+
+Avoid: wide shop overview, staged fashion stance, exaggerated lean, raised knee, strong torso twist, hard staring, unreadable props, clutter blocking the face or hands.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2076970459598356684) | 2026-07-14
+
+---
+
+### 🎴 例 4102：浪漫智乃动漫草地封面
+
+![浪漫智乃动漫草地封面](../../images/%E6%B5%AA%E6%BC%AB%E6%99%BA%E4%B9%83%E5%8A%A8%E6%BC%AB%E8%8D%89%E5%9C%B0%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫轻小说封面插画，营造柔和浪漫的春日氛围。画布：3:4 竖向海报，高分辨率，全出血艺术作品，四周带有纤细华丽的金色花卉边框及装饰性边角花纹。场景：两名角色仰卧在郁郁葱葱的绿色花丛草地上，阳光斑驳，采用正上方俯视视角，顶部边缘可见蓝天与柔和的树叶；前景中飘浮着粉色的樱花花瓣。角色：共 2 人。角色 1 为下半部分的娇小动漫少女，面朝上方，极长的淡薰衣草蓝色双马尾铺散在草地上，明亮的大眼睛，表情平静略带惊讶，身穿圆领白衬衫、蓝色背带裙，刘海上别着黑色 X 形发夹；她怀中抱着 1 只带有深蓝色蝴蝶结的小白兔玩偶。角色 2 为右上方的年轻男子，相对于观众呈倒置状态，头部位于中右侧，短黑发，戴长方形眼镜，表情温和中性，身穿白色 T 恤，右侧边缘可见一只裸露的手臂。构图：少女位于左下方，男子位于右上方，两人头部靠近但未接触，周围环绕着草丛中许多细小的白色和黄色野花。排版：在左上方放置一个大型竖排中文标题，采用暖棕色书法衬线字体，内容为 {argument name="Chinese headline text" default="请问您今天要来点智乃吗？"}；在标题周围添加优雅的金色藤蔓装饰。在标题下方，添加较小的棕色衬线英文副标题，分多行排列，内容为 {argument name="English subtitle" default="Is the order a chino?"}；在副标题下方添加 1 个带有小型装饰分隔符的棕色小兔子图标。风格：精致的日系动漫浪漫封面艺术，细腻的线条，明亮的柔和色调，柔和的虚化效果，油画质感花卉，温暖的金色高光，空气感十足且治愈的氛围。约束条件：包含 2 名人类角色和 1 只玩偶；保持华丽边框可见；无额外 Logo，无水印，除指定的标题、副标题和兔子图标外，不添加任何额外文字。
+
+[English]
+Create a vertical anime light-novel cover illustration with a soft romantic spring atmosphere. Canvas: 3:4 portrait poster, high-resolution, full-bleed artwork with a thin ornate golden floral border around all four edges and decorative corner filigree. Scene: two characters lying on their backs in a lush green flower meadow under dappled sunlight, viewed from directly above, with blue sky and soft tree leaves visible near the top edge; floating pink cherry-blossom petals pass across the foreground. Characters: exactly 2 people. Character 1 is a petite anime girl near the lower half, facing upward, with very long pale lavender-blue twin-tail hair spread across the grass, large bright blue eyes, a calm slightly surprised expression, white blouse with rounded collar, blue suspender-style overall dress, and small black X-shaped hairpins on her bangs; she holds exactly 1 small white rabbit-like plush doll against her chest, with a dark blue bow. Character 2 is a young man in the upper right, upside down relative to the viewer, lying beside her with his head near the center-right, short black hair, rectangular glasses, gentle neutral expression, white T-shirt, one bare arm visible reaching down the right edge. Composition: the girl occupies the lower center-left, the man occupies the upper right, their heads are close but not touching, surrounded by many tiny white and yellow wildflowers in the grass. Typography: place a large vertical Chinese headline in the upper left in warm brown calligraphic serif lettering, reading {argument name="Chinese headline text" default="请问您今天要来点智乃吗？"}; add elegant gold vine flourishes curling around the headline. Under it, add a smaller English subtitle in brown serif text, stacked on several lines, reading {argument name="English subtitle" default="Is the order a chino?"}; beneath the subtitle add exactly 1 small brown rabbit icon with a tiny ornamental divider. Style: polished Japanese anime romance cover art, delicate linework, luminous pastel colors, soft bokeh, painterly flowers, warm golden highlights, airy and wholesome mood. Constraints: include exactly 2 human characters and exactly 1 plush doll; keep the ornate border visible; no extra logos, no watermark, no additional text beyond the specified headline, subtitle, and rabbit icon.
+```
+
+**来源：** [@桃寝智乃](https://x.com/MomoneChino/status/2076947270130638908) | 2026-07-14
+
+---
+
+### 🎴 例 4111：Skydancer 风筝广告海报
+
+![Skydancer 风筝广告海报](../../images/Skydancer%20%E9%A3%8E%E7%AD%9D%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张欢乐的儿童户外广告海报。一位 {argument name="subject" default="扎着双马尾、正在大笑的 8 岁小女孩"} 在田野间自由奔跑，身旁是一个比她身高高出 3 倍的巨大彩色钻石风筝，风筝拖着长长的彩虹飘带在空中翱翔，风筝面上用醒目的亮色字体写着 "{argument name="brand name" default="SKYDANCER"}"。背景是明亮开阔的蓝天，点缀着蓬松的白云，下方是连绵的绿色山丘，并伴有彩虹光影。巨大的圆形友好字体 "SKYDANCER" 以彩虹色填满天空背景。底部标语："{argument name="tagline" default="让心灵自由翱翔。"}"。右上角的小字写着 "Designed with GPT Image 2"，颜色为灰色。照片级真实感，充满趣味的儿童户外商业风格，明亮清爽的晴天光影。
+
+[English]
+A joyful outdoor kids advertisement poster. A {argument name="subject" default="laughing young girl age 8 with pigtails"} runs freely through a field beside a giant colorful diamond kite 3x her height soaring high with a long rainbow ribbon tail flowing behind it, "{argument name="brand name" default="SKYDANCER"}" written in bold bright font on the kite face. Bright open blue sky background with fluffy white clouds green rolling hills below and rainbow light. Big friendly rounded typography "SKYDANCER" in rainbow colors filling the sky background. Tagline bottom: "{argument name="tagline" default="Let your spirit soar."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, fun kids outdoor commercial style, bright breezy sunny day lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2076920581845406185) | 2026-07-14
+
+---
+
+### 🎴 例 4115：奢华男装广告大片
+
+![奢华男装广告大片](../../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的奢华时尚广告图片，采用电影级编辑摄影风格。画面中展示一位成熟帅气的男士，外形酷似高端男装模特，站在极简主义现代别墅室内偏左的位置，全身照（下肢近处裁剪），双手插在裤兜里，姿态放松而自信，看向左侧，表情严肃且若有所思。他身着优雅的单色米色套装：一件敞开前襟并立起领子的长款柔软羊毛大衣，一件米色羊绒 V 领毛衣，内搭挺括的白色衬衫，以及高腰象牙白褶皱长裤。使用温暖的自然光，抛光石材地板带有微妙的倒影，米色洞石墙面，深色木质垂直墙板和门框，左侧放置一张小型深色玄关桌，右侧开口处可见一把休闲椅和室外的明亮光线。在右侧深色木质区域上方添加醒目的白色衬线广告文案 {argument name="headline text" default="Beyond Limits"}，排版优雅且留白充足，无需其他文字。色调：奶油色、象牙白、灰褐色、暖米色、深胡桃木棕色、柔和日光。构图应呈现出高端杂志内页或奢华男装品牌广告的质感，照片级真实，织物纹理清晰，景深考究，无 Logo，无水印。
+
+[English]
+Create a refined luxury fashion advertising image in a cinematic editorial photography style. Show a mature, handsome man resembling a high-end menswear model standing slightly left of center in a minimalist modern villa interior, full body cropped near the lower legs, hands tucked into trouser pockets, posture relaxed but confident, looking off to the left with a serious contemplative expression. He wears an elegant monochrome cream outfit: a long soft wool overcoat with an open front and popped collar, a beige cashmere V-neck sweater over a crisp white collared shirt, and high-waisted ivory pleated trousers. Use warm natural light, polished stone floors with subtle reflections, beige travertine walls, dark wood vertical wall panels and doorway, a small dark console table on the far left, and a glimpse of a lounge chair and outdoor brightness through an opening on the right. Add large white serif campaign text reading {argument name="headline text" default="Beyond Limits"} positioned mid-right over the darker wood area, elegant and spacious with no other copy. Color palette: cream, ivory, taupe, warm beige, dark walnut brown, soft sunlight. Composition should feel like a premium magazine spread or luxury menswear brand campaign, photorealistic, sharp fabric texture, tasteful depth of field, no logos, no watermark.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2076913203792228726) | 2026-07-14
+
+---
+
+### 🎴 例 4116：游戏宣传图数字插画
+
+![游戏宣传图数字插画](../../images/%E6%B8%B8%E6%88%8F%E5%AE%A3%E4%BC%A0%E5%9B%BE%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+100% 保留（参考）对象的相似度，将其转化为具有 {argument name="style" default="电影概念艺术美学"} 的动态半写实数字插画风格，结合了锐利的动漫风格渲染和高端游戏宣传图效果。运用强劲、有棱角的笔触，展现自信的手绘感，线条简洁而富有表现力，并带有艺术性的分层阴影。高对比度光影，明亮的 {argument name="highlight color" default="暖色高光"} 与深邃的中性阴影形成对比，营造出戏剧性的深度和张力。配色方案以暖象牙白、柔和米色、沙色、浅灰色、炭灰色为主，并以亮橙色作为主要点缀，辅以微妙的黑色细节。平滑的渐变过渡与锐利的边缘高光相结合，对金属、织物和硬表面进行逼真的材质渲染。构图充满活力，纹理细节丰富，轮廓大胆而流畅。无文字，无 Logo，无水印。长宽比 {argument name="aspect ratio" default="9:16"}
+
+[English]
+Using 100% likeness of (reference) objects, transformed into a dynamic, semi-realistic digital illustration style with a {argument name="style" default="cinematic concept art aesthetic"}, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright {argument name="highlight color" default="warm highlights"} and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by warm ivory, soft beige, sand, light gray, charcoal, and bright orange as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, highly detailed textures, bold and smooth silhouettes. No text, no logo, no watermark. AR {argument name="aspect ratio" default="9:16"}
+```
+
+**来源：** [@zayan](https://x.com/HustleXR/status/2076911929113694396) | 2026-07-14
+
+---
+
+### 🎴 例 4126：奢华桃汁广告项目
+
+![奢华桃汁广告项目](../../images/%E5%A5%A2%E5%8D%8E%E6%A1%83%E6%B1%81%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁、高端的广告项目信息图表，用于 {argument name="product" default="奢华桃汁"} 商业广告。
+
+设计规范：
+
+白色背景，采用现代奢华的编辑排版风格。
+
+顶部标题：{argument name="title" default="PREMIUM PEACH"}
+
+[English]
+Create a clean, premium advertising storyboard infographic board for a {argument name="product" default="luxury peach juice"} commercial.\n\nDesign Specifications:\n\nWhite background with a modern luxury editorial layout.\n\nTitle at the top: {argument name="title" default="PREMIUM PEACH"}
+```
+
+**来源：** [@GPTProto Official](https://x.com/gptproto/status/2076885060196954414) | 2026-07-14
+
+---
+
+### 🎴 例 4128：极简橄榄绿杂志风海报
+
+![极简橄榄绿杂志风海报](../../images/%E6%9E%81%E7%AE%80%E6%A9%84%E6%A6%84%E7%BB%BF%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一款高级极简主义杂志风人像海报，画面中一位开朗的年轻女性自然地坐在简约的黑色金属凳上，双腿交叠，对着镜头温暖微笑。她留着黑色短波波头，配有柔和的刘海，妆容自然，表情轻松友好。她身穿一件超大款 {argument name="shirt color" default="橄榄绿"} 立领衬衫，搭配宽松的黑色阔腿裤，以及带有细微黑色点缀的 {argument name="shoes" default="奶油色高帮运动鞋"}。
+
+背景：
+干净的 {argument name="background color" default="柔和薄荷绿"} 背景，呈现哑光质感。大面积柔和的橄榄绿几何元素营造出现代图形构图，包括人物身后的大实心圆、与排版交错的细轮廓圆、轮廓矩形框、小实心圆以及散布在画布各处的抽象边角形状。布局平衡、宽敞且具有现代感。
+
+构图：
+主体位于中心偏右位置，但仍是视觉焦点。身后的圆环衬托出上半身并营造出深度感。凳子自然延伸至地面，凳腿清晰可见。设计周围留有大量负空间，赋予其高级杂志编辑的美学感。
+
+排版布局：
+右侧放置醒目的垂直大号粗体大写标题：
+A GIRL CARAMEL
+
+纤细的现代风格大写垂直副标题：
+SINGER & DANCER
+
+左上角带有手写风格的小文件名：
+421.png
+
+无任何标志或水印。
+
+光影：
+柔和的漫射摄影棚灯光，带有轻微阴影，肤色平滑，环境光柔和，背景照明均匀。无强烈的强光。凳子和脚下有柔和逼真的阴影。
+
+配色方案：
+• 柔和薄荷绿背景
+• 橄榄绿几何图形
+• 深橄榄色衬衫
+• 黑色长裤
+• 奶油色运动鞋
+• 暖棕色排版
+• 整体采用柔和的大地色调
+
+风格：
+现代平面设计海报、斯堪的纳维亚极简主义、时尚杂志排版、杂志封面美学、高级品牌设计、清晰的视觉层级、平衡的构图、几何图形元素、当代人像海报、奢华极简设计、优雅排版、专业平面构图。
+
+相机：
+平视视角，50mm 镜头，全身人像，居中构图，焦点清晰，比例真实，浅景深同时保持主体细节清晰。
+
+质量：
+超写实，高分辨率，高级印刷质量，8K，边缘清晰，纹理真实，细微深度，专业调色，极简杂志美学。
+
+[English]
+A premium minimalist editorial portrait poster featuring a cheerful young woman sitting naturally on a simple black metal stool with one leg crossed over the other, smiling warmly at the camera. She has a short black bob haircut with soft bangs, natural makeup, and a relaxed, friendly expression. She wears an oversized {argument name="shirt color" default="olive green"} button-up shirt with a stand collar, loose black wide-leg pants, and {argument name="shoes" default="cream high-top sneakers"} with subtle black accents.
+
+Background:
+A clean {argument name="background color" default="pastel mint green"} background with a soft matte finish. Large muted olive green geometric elements create a modern graphic composition, including a large solid circle behind the subject, a thin outlined circle intersecting the typography, outlined rectangular frames, small solid circles, and abstract corner shapes placed throughout the canvas. The layout feels balanced, spacious, and contemporary.
+
+Composition:
+The subject is positioned slightly right of center while remaining the primary focal point. The large circle behind her frames the upper body and creates depth. The stool extends naturally to the floor with visible legs. Plenty of negative space surrounds the design, giving it a premium magazine editorial aesthetic.
+
+Typography Layout:
+Large vertical bold uppercase title placed along the right side:
+A GIRL CARAMEL
+
+Thin modern uppercase vertical subtitle:
+SINGER & DANCER
+
+Small handwritten-style filename in the upper left corner:
+421.png
+
+No logos or watermarks.
+
+Lighting:
+Soft diffused studio lighting with gentle shadows, smooth skin tones, subtle ambient glow, and evenly illuminated background. No harsh highlights. Soft realistic shadow beneath the stool and feet.
+
+Color Palette:
+• Pastel mint green background
+• Olive green geometric shapes
+• Dark olive shirt
+• Black trousers
+• Cream sneakers
+• Warm brown typography
+• Muted earthy tones throughout
+
+Style:
+Modern graphic design poster, Scandinavian minimalism, editorial fashion layout, magazine cover aesthetic, premium branding design, clean visual hierarchy, balanced composition, geometric graphic elements, contemporary portrait poster, luxury minimalist design, elegant typography, professional graphic composition.
+
+Camera:
+Eye-level perspective, 50mm lens, full-body portrait, centered framing, sharp focus, realistic proportions, shallow depth of field while maintaining crisp subject details.
+
+Quality:
+Ultra realistic, high resolution, premium print quality, 8K, clean edges, realistic textures, subtle depth, professional color grading, minimalist editorial aesthetic.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2076881656175026301) | 2026-07-14
+
+---
+
+### 🎴 例 4131：日式猫咪航空箱产品广告
+
+![日式猫咪航空箱产品广告](../../images/%E6%97%A5%E5%BC%8F%E7%8C%AB%E5%92%AA%E8%88%AA%E7%A9%BA%E7%AE%B1%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款家居家具风格的猫咪航空箱创作一份精致的日式产品广告，设计风格参考猫主人的静谧生活方式目录页面。
+
+画布：宽幅 16:9 横向横幅，温暖的米白色背景，柔和的自然日光，米色与海军蓝配色方案，极简高端日式设计。使用写实的产品摄影与干净的编辑排版相结合。
+
+主标题文字：左上方大型手写风格日文书法：{argument name="headline text" default="よりそう猫キャリー"}。下方为较小的日文副标题：{argument name="subheadline text" default="いつもの居場所が、そのまま持ち出せる。"}。在副标题下方添加一个居中的小型装饰性菱形分隔符。
+
+主视觉：中右侧展示英雄产品图，这是一款看起来像小型边桌或脚凳的矩形猫咪航空箱。航空箱具有圆角、浅色木质顶板、米色编织面料主体、短锥形木腿、侧把手以及一个大型圆角矩形前开口。在开口内，展示一只毛茸茸的长毛灰虎斑猫平静地坐在软垫床上，目视前方。在航空箱顶部放置 3 件桌面物品：两本堆叠的中性色书籍、一个陶瓷杯和一个插有绿叶枝条的玻璃花瓶。背景中包含一盏米色台灯、一张放有杯碟的小边桌和一张浅色沙发，均进行柔焦处理。
+
+左侧功能栏：在左侧放置 3 行水平功能行，每行包含一个位于米色圆角正方形内的海军蓝圆形图标及日文说明文字。第 1 行图标：房屋；文字：「いつもの場所だから、猫が慣れやすい」。第 2 行图标：带十字的医疗包；文字：「通院の日も、慌てずそのまま持ち出せる」。第 3 行图标：沙发；文字：「部屋に置いても、キャリーらしく見えにくい」。
+
+右侧功能卡片：在右侧添加一个带有细米色边框的白色圆角矩形卡片，由虚线分隔为 3 个堆叠的功能块。每个功能块包含一个海军蓝圆形图标和日文文字。第 1 块图标：带杯子的小桌子；标题「小物を置ける天板つき」，正文「お気に入りの小物を飾ったり、サイドテーブルとしても。」。第 2 块图标：气流波纹；标题「通気しやすい側面設計」，正文「両側面に通気孔を設け、快適な空気の流れを確保。」。第 3 块图标：房屋轮廓内的猫；标题「落ち着きやすい半閉鎖構造」，正文「適度に視線を遮る設計で、猫が安心して過ごせる空間に。」。
+
+底部条带：在下三分之一处创建 3 个带编号的生活方式面板，每个面板配有一个米色数字圆圈和日文说明。面板 1 数字「1」，标题「ふだん」，副标题「部屋でくつろぐ」，配图为航空箱放在沙发旁，猫在里面。面板 2 数字「2」，标题「通院」，副标题「そのまま外出」，配图为一个人在明亮的窗边提着航空箱的把手。面板 3 数字「3」，标题「もしもの時」，副标题「すぐ持ち出せる」，配图为航空箱放在门口，旁边放着一个包。
+
+页脚：在中心位置以优雅的衬线字体居中显示一句日文：「毎日使うものだから、猫にとっても、人にとっても、無理なく部屋になじむかたちを目指しました。」。在底部中心添加微小的文字「商品紹介」。在右下角放置一个深海军蓝矩形按钮，内含白色日文文字：{argument name="button text" default="発売準備中"}，两侧装饰有精致的橄榄叶枝条。
+
+视觉风格：高端无印良品风格的日式生活方式广告，空气感间距，柔和阴影，写实纹理，天然亚麻，浅色木材，柔和米色，深海军蓝图标，干净的排版。确保所有日文文字清晰且放置准确。无额外 Logo，无水印，无其他产品，除面板 2 中的局部人物外，画面中不出现其他人。
+
+[English]
+Goal: Create a refined Japanese product advertisement for a home-furniture-style cat carrier, designed like a calm lifestyle catalog page for cat owners.
+
+Canvas: Wide horizontal 16:9 banner, warm off-white background, soft natural daylight, beige and navy color palette, minimal premium Japanese design. Use realistic product photography mixed with clean editorial layout.
+
+Main headline text: Large handwritten-style Japanese calligraphy at top left: {argument name="headline text" default="よりそう猫キャリー"}. Under it, smaller Japanese subheadline: {argument name="subheadline text" default="いつもの居場所が、そのまま持ち出せる。"}. Add a small centered decorative diamond divider beneath the subheadline.
+
+Main visual: Center-right hero product shot of a rectangular cat carrier that looks like a small side table or ottoman. The carrier has rounded corners, light wood top board, beige woven fabric body, short tapered wooden legs, side handle, and a large rounded rectangular front opening. Inside the opening, show one fluffy long-haired gray tabby cat sitting calmly on a cushioned bed, looking forward. On top of the carrier place exactly 3 tabletop items: two stacked neutral-colored books, one ceramic cup, and one glass vase with leafy green branches. In the background, include a beige table lamp, a small side table with a cup and saucer, and a pale sofa, all softly blurred.
+
+Left feature column: Place exactly 3 horizontal feature rows on the left, each with a navy circular icon inside a beige rounded square and Japanese explanatory text. Row 1 icon: house; text: 「いつもの場所だから、猫が慣れやすい」. Row 2 icon: medical bag with cross; text: 「通院の日も、慌てずそのまま持ち出せる」. Row 3 icon: sofa; text: 「部屋に置いても、キャリーらしく見えにくい」.
+
+Right feature card: Add a white rounded rectangle card on the right with a thin beige border, divided into exactly 3 stacked feature blocks separated by dotted lines. Each block has a navy circular icon and Japanese text. Block 1 icon: small table with cup; heading 「小物を置ける天板つき」, body 「お気に入りの小物を飾ったり、サイドテーブルとしても。」. Block 2 icon: airflow waves; heading 「通気しやすい側面設計」, body 「両側面に通気孔を設け、快適な空気の流れを確保。」. Block 3 icon: cat inside a house outline; heading 「落ち着きやすい半閉鎖構造」, body 「適度に視線を遮る設計で、猫が安心して過ごせる空間に。」.
+
+Bottom strip: Create exactly 3 numbered lifestyle panels across the lower third, each with a beige number circle and Japanese captions. Panel 1 number 「1」, heading 「ふだん」, subtext 「部屋でくつろぐ」, image of the carrier beside a sofa with the cat inside. Panel 2 number 「2」, heading 「通院」, subtext 「そのまま外出」, image of a person carrying the carrier by its handle near a bright window. Panel 3 number 「3」, heading 「もしもの時」, subtext 「すぐ持ち出せる」, image of the carrier near a doorway with a bag beside it.
+
+Footer: Center a Japanese sentence in elegant serif type: 「毎日使うものだから、猫にとっても、人にとっても、無理なく部屋になじむかたちを目指しました。」 At the bottom center add tiny text 「商品紹介」. At bottom right place a dark navy rectangular button with white Japanese text: {argument name="button text" default="発売準備中"}, decorated with subtle olive leaf sprigs on both sides.
+
+Visual style: Premium Muji-like Japanese lifestyle advertising, airy spacing, soft shadows, realistic textures, natural linen, light wood, muted beige, deep navy icons, clean typography. Keep all Japanese text legible and accurately placed. No extra logos, no watermark, no additional products, no people except the partial person in panel 2.
+```
+
+**来源：** [@posi_posi](https://x.com/posi_posi8/status/2076871133387948032) | 2026-07-14
+
+---
+
+### 🎴 例 4134：奢华街头服饰杂志封面
+
+![奢华街头服饰杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[参考图像] 超写实奢华街头服饰编辑杂志封面，主角为一位气场强大的 {argument name="subject" default="韩国女性"}，身穿 {argument name="outfit" default="Supreme x LV 老花连帽衫"}，搭配同款斜挎 Speedy 包和 LV x Supreme 棒球帽，坐在一块 {argument name="prop" default="Supreme 红色滑板板面"} 上，板面堆叠在白色立方体之上，直视镜头。精致的街头魅力妆容，大胆的红色唇妆与 Supreme 的配色相呼应。顺滑的深色直发。背景：白色无缝摄影棚，墙面带有醒目的红色 Supreme 风格方框 Logo 图形，充满简洁的图形张力。"HYPEBEAST" 刊头采用醒目的红白配色。50mm 镜头，超细节的老花面料纹理和皮包五金件，8K 照片级奢华街头服饰质感。负面提示：卡通、模糊、不正确的老花图案、水印、畸变。
+
+[English]
+[Reference Image] Ultra-realistic luxury streetwear editorial magazine cover featuring a commanding {argument name="subject" default="Korean woman"} in a {argument name="outfit" default="Supreme x LV monogram hoodie"} with matching crossbody Speedy bag and LV x Supreme cap, sitting on a {argument name="prop" default="Supreme-red skateboard deck"} stacked atop white cubes, direct camera stare. Polished street-glam makeup, bold red lip matching the Supreme colourway. Sleek straight dark hair. Background: white seamless studio with bold red Supreme-style box logo wall graphic, clean graphic energy. "HYPEBEAST" masthead in bold red and white. 50mm lens, ultra-detailed monogram fabric pattern and leather bag hardware, 8K photorealistic luxury streetwear. Negative: cartoon, blurry, incorrect monogram pattern, watermark, distorted.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2076868035307331714) | 2026-07-14
+
+---
+

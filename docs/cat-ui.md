@@ -8287,3 +8287,161 @@ Vertical quirky flat cartoon portrait of {argument name="human" default="[HUMAN]
 
 ---
 
+### 🖥️ 例 4051：阳光下阅读的猫耳少女
+
+![阳光下阅读的猫耳少女](../../images/%E9%98%B3%E5%85%89%E4%B8%8B%E9%98%85%E8%AF%BB%E7%9A%84%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和、明亮的动漫插画，主角是 {argument name="character name" default="Xuelian"}，一位可爱的猫耳少女，正坐在阳光充足的卧室或书房的桌前安静地看书。她有着非常飘逸的 {argument name="hair color" default="银白色长发，带有淡青色挑染"}，一对毛茸茸的大猫耳，明亮的蓝色眼睛里闪烁着星光，表情羞涩而平静，脸颊红润，五官精致如童。在她的两侧各加上一个蓝色丝带发结，每个发结上都装饰着金色的小铃铛。她穿着一件带有细致褶边、领口系着小青色蝴蝶结的白色无袖衬衫，肩头滑落着一件半透明的宽松白色开衫，搭配蓝色格纹裙和白色过膝袜。让她坐在木质书桌旁的圆凳上，双手捧着一本打开的淡蓝色精装书，低头专注地阅读。在书桌左侧叠放 4 本书：最上面是一本青色书，下面依次是米色书、深绿色书和蓝色书。背景是一个温馨的房间，左侧有一扇高大的窗户和半透明的蓝色窗帘，温暖的晨光倾泻而入；右侧是一个白色书架，上面摆放着模糊的彩色书籍和小物件。采用梦幻般的高调照明，画面中充满镜头光晕、漂浮的尘埃和彩虹般的虚化光斑，发丝带有半透明光泽，色调柔和，具有浅景深效果，发丝细节丰富，线条干净，呈现出空灵的 NovelAI 风格。竖版 2:3 构图，角色略微居右，书桌位于前景，营造宁静的阅读氛围。避免出现文字、水印、多余角色、手部畸变、书本结构错误或多余耳朵。
+
+[English]
+Create a soft, luminous anime illustration of {argument name="character name" default="Xuelian"}, a cute cat-eared girl quietly reading a book at a desk in a sunlit bedroom or study. She has very long flowing {argument name="hair color" default="silvery white hair with pale cyan streaks"}, large fluffy cat ears, bright blue eyes with starry highlights, a shy calm expression, rosy cheeks, and delicate childlike features. Add two blue ribbon hair bows, one on each side, each decorated with small golden bell ornaments. She wears a white sleeveless blouse with subtle frills and a small cyan bow at the collar, a translucent loose white cardigan slipping off her shoulders, a blue plaid skirt, and white thigh-high socks. Pose her seated on a round stool beside a simple wooden desk, holding an open pale blue hardcover book with both hands and looking down at it as if seriously studying. On the left side of the desk place exactly 4 stacked books: one teal book on top, one pale cream book, one dark green book, and one blue book at the bottom. The background is a cozy room with a tall window and sheer blue curtains on the left, strong warm morning sunlight streaming in, and a white bookshelf on the right with softly blurred colorful books and small objects. Use dreamy high-key lighting, lens flare, floating dust motes and rainbow bokeh sparkles throughout the air, translucent glow around the hair, gentle pastel colors, soft depth of field, detailed hair strands, clean anime linework, and an ethereal NovelAI-style finish. Vertical 2:3 composition, character centered slightly right, desk in the foreground, peaceful reading atmosphere. Avoid text, watermark, extra characters, distorted hands, malformed book structure, or extra ears.
+```
+
+**来源：** [@雨沐子](https://x.com/yu_mu_zi/status/2077168071517905231) | 2026-07-14
+
+---
+
+### 🖥️ 例 4074：夏季住宅区街道女性肖像
+
+![夏季住宅区街道女性肖像](../../images/%E5%A4%8F%E5%AD%A3%E4%BD%8F%E5%AE%85%E5%8C%BA%E8%A1%97%E9%81%93%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+主体：
+在夏季住宅区附近一条宁静的林荫道上，一位女性正轻轻地将手伸向头顶的树梢。人物位于画面中心偏左位置，采用竖构图，拍摄范围从上半身至大腿中部。人物占据画面约 65%，留有充足的负空间，背景呈现柔和的绿色虚化效果。
+
+人物与表情：
+一位散发着自然成熟气息的女性。脸型呈柔和的椭圆形，鼻梁精致，皮肤通透，大眼睛给人以沉稳的印象。她的目光投向右上方的树叶，嘴角挂着淡淡的微笑。发型为随意的低发髻，几缕细碎的发丝垂在脸颊和颈后。妆容为自然的棕色调，涂有淡珊瑚粉色唇膏，眼中带有细小的眼神光。
+
+服装与姿势：
+上身穿着 {argument name="top outfit" default="白色罗纹吊带背心"}，外搭一件轻薄的白色半透明夏季衬衫，松散地披在肩上。下身穿着 {argument name="bottom outfit" default="浅米色亚麻短裤"}。她的右臂抬起触碰枝头，左手自然地垂在腰间。肩上挎着一个藤编包。整体造型呈现出轻盈、清爽的夏日度假风。
+
+背景与光影：
+位于 {argument name="location" default="日本住宅区"} 的狭窄林荫小道。背景可见低矮的混凝土墙、远处的房屋和柔和的绿色植被。盛夏的正午阳光透过树叶洒下斑驳的光影，落在地面、肩膀和手臂上。光线从左上方射入，在她的脸颊、锁骨和手臂上形成温暖的高光。背景经过深度虚化，整体色调以绿色和白色为主，清新自然。
+
+构图与相机：
+竖向肖像构图，等效 85mm 焦距，使用中长焦镜头拍摄。相机位置略低于胸部，采用低角度拍摄。背景虚化柔和，景深较浅，焦点精准对准人物的眼睛和面部。右上方的树叶与左下方的包形成对角线构图。
+
+质感与风格：
+高质量摄影渲染。自然的皮肤质感，柔和的对比度，呈现出夏日阳光特有的通透感。色调过渡柔和，带有胶片摄影般的空气感。写实风格，避免过度锐化或 HDR 处理。
+
+负面提示词：
+面部不自然、眼神不自然、多余的手指、手指缺失、肢体粘连、关节断裂、悬浮元素、重力不自然、透视错误、乱码文字、标志、水印、过度磨皮、塑料感皮肤。
+
+[English]
+Subject:  
+In a quiet tree-lined street near a summer residential neighborhood, a single woman gently reaches her hand toward the treetop overhead. The figure is positioned slightly to the left of center in the frame, captured in a vertical composition from the upper body down to mid-thigh. The person occupies about 65% of the frame, with ample negative space and a soft green bokeh in the background.
+
+Figure and Expression:  
+A woman with a natural adult aura. A soft oval face shape, a delicate nose bridge, translucent skin, and large eyes that give a calm impression. Her gaze is directed toward the leaves in the upper right, with a subtle smile playing on her lips. Her hairstyle is a loosely gathered low bun, with fine wisps of hair falling along her cheeks and nape. Natural brown-toned makeup, pale coral pink lipstick, and small catchlights in her eyes.
+
+Clothing and Pose:  
+A {argument name="top outfit" default="white ribbed camisole top"}, layered with a lightweight, semi-sheer white summer shirt draped loosely over the shoulders. The bottom is {argument name="bottom outfit" default="pale beige linen short pants"}. Her right arm is raised to touch the branch tips, while her left hand rests naturally near her waist. A rattan-woven bag hangs from her shoulder. The overall look is a light, breezy summer holiday outfit.
+
+Background and Lighting:  
+A narrow tree-lined path in a {argument name="location" default="Japanese residential area"}. Low concrete walls, distant houses, and soft green plantings. The midday midsummer sunlight filters through as dappled rays, falling on the ground, shoulders, and arms. The light streams from the upper left, creating warm highlights on her cheeks, collarbone, and arms. The background is heavily blurred, with a refreshing color palette based on greens and whites.
+
+Composition and Camera:  
+Vertical portrait composition, equivalent to 85mm, rendered with a medium telephoto lens. The camera position is a slight low angle from about chest height. The background is softly out of focus with shallow depth of field, with precise focus on the figure’s eyes and face. A diagonal composition is formed by the leaves in the upper right and the bag in the lower left.
+
+Texture and Style:  
+High-quality photographic rendering. Natural skin texture, soft contrast, and the characteristic transparency of summer sunlight. A gentle tonal gradation and sense of air reminiscent of film photography. Realistic depiction avoiding excessive sharpness or HDR processing.
+
+Negative:  
+Unnatural face, unnatural gaze, extra fingers, missing fingers, fused limbs, broken joints, floating elements, unnatural gravity, incorrect perspective, garbled text, logos, watermarks, excessive skin smoothing, plastic-like skin.
+```
+
+**来源：** [@sada](https://x.com/sada_ai/status/2077031670893724105) | 2026-07-14
+
+---
+
+### 🖥️ 例 4086：动漫风格夜市购物场景
+
+![动漫风格夜市购物场景](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%9C%E5%B8%82%E8%B4%AD%E7%89%A9%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨的手绘动漫风格夜景，画面中 {argument name="character name" default="一位开朗的日本中年女性"} 站在购物后的宁静社区街道上。她留着齐肩深棕色短发，面容圆润亲切，眼神柔和，带着温柔的微笑，微微向左上方看去。她穿着奶油色长袖衬衫，外搭一件灰粉色围裙，腰间系着蝴蝶结。左手拿着一个香草冰淇淋甜筒靠近脸庞；右手提着两个巨大的米白色环保购物袋，袋中清晰可见新鲜农产品，包括大葱、绿叶蔬菜、番茄和包装好的蔬菜。背景是夜晚的当地市场街道，深蓝色的夜空点缀着繁星，左侧是温暖的店铺灯光，右侧是一盏发光的复古路灯，铺设好的步道旁点缀着树木和盆栽，远处是窗户透出灯光的房屋。左侧需包含两个清晰可见的店铺招牌：一个写着 {argument name="shop banner text" default="地元のおいしい野菜"} 的蓝色竖幅旗帜，以及一个写着 {argument name="chalkboard text" default="本日特売"} 的小型黑板。采用吉卜力工作室风格的怀旧构图，线条柔和，笔触细腻，冷色调的夜色与温暖的琥珀色灯光相得益彰，肤色自然，避免过度的黄色色调。采用 4:5 竖构图，中远景全身剪裁，氛围宁静治愈，杂货和街道背景细节丰富，无水印，无额外文字。
+
+[English]
+Create a warm, hand-painted anime-style night scene of {argument name="character name" default="a cheerful middle-aged Japanese woman"} standing on a quiet neighborhood shopping street after buying groceries. She has shoulder-length dark brown hair, a round friendly face, soft eyes, and a gentle smile as she looks slightly upward to the left. She wears a cream long-sleeve shirt under a muted dusty-pink apron tied in a bow at the waist. In her left hand she holds a vanilla soft-serve ice cream cone near her face; in her right hand she carries exactly two large off-white reusable grocery bags, visibly filled with fresh produce including green onions, leafy greens, tomatoes, and packaged vegetables. The setting is an evening local market street with deep navy sky and small stars, warm shop lights on the left, a glowing vintage streetlamp on the right, trees and potted plants along a paved walkway, and distant houses with lit windows. Include exactly two visible shop signs on the left: a vertical blue banner reading {argument name="shop banner text" default="地元のおいしい野菜"} and a small chalkboard sign reading {argument name="chalkboard text" default="本日特売"}. Use a nostalgic Studio Ghibli-inspired composition, soft linework, painterly shading, cozy amber lighting balanced with cool blue night tones, natural skin tones, and avoid an overly yellow color cast. Vertical 4:5 framing, medium-full body crop, calm wholesome atmosphere, high detail in the groceries and street background, no watermark, no extra text.
+```
+
+**来源：** [@小泉勝志郎](https://x.com/koi_zoom1/status/2077010751311794429) | 2026-07-14
+
+---
+
+### 🖥️ 例 4087：逼真的足球迷模型一致性
+
+![逼真的足球迷模型一致性](../../images/%E9%80%BC%E7%9C%9F%E7%9A%84%E8%B6%B3%E7%90%83%E8%BF%B7%E6%A8%A1%E5%9E%8B%E4%B8%80%E8%87%B4%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为精确的模型参考。保持 1:1 的外观：面部、特征、比例、头发、皮肤和整体形象。请勿更改身份。皮肤必须尽可能自然：呈现真实的毛孔、皮肤纹理和自然色调，拒绝塑料感的修图和美颜。
+指令：
+为该模型在球队比赛期间的足球场看台上创作一张超写实的近景肖像。所有服装、足球装备、颜色、徽章、旗帜以及脸颊上的油彩必须自动对应 {argument name="team" default="所选球队"}。如果是国家队，请使用国旗颜色、国家队足球装备和球队象征；如果是足球俱乐部，请使用官方颜色、装备风格和俱乐部象征。
+模型坐在球迷中间，微笑着看向镜头。背景是身着该球队颜色服装的模糊人群、球场灯光、柔和的焦外成像以及生动的比赛氛围。
+光线温暖、高级且自然：柔和的电影级球场光、皮肤上美丽的微光、眼睛中精致的高光，背景虚化效果优美。面部焦点清晰。
+风格：超写实电影级体育肖像，单反摄影，{argument name="focal length" default="85mm"} 镜头，{argument name="aperture" default="f/1.8"} 光圈，HDR，8K，高级调色，竖屏 9:16。
+避免：面部改变、塑料感皮肤、错误的球队象征、歪曲的球队标志、卡通化、CGI、照片上出现多余文字、水印。
+
+[English]
+Use the uploaded photo as an exact model reference. Preserve appearance 1:1: face, features, proportions, hair, skin, and overall look. Do not change identity. Skin must be maximally natural: real pores, living texture, natural tone, without plastic retouching and beautify.
+Command: 
+Create an ultra-realistic close-up portrait of the model in the stands of a football stadium during a match of this team. All clothing, football kit, colors, emblem, flag, and face paint on the cheeks must automatically correspond to the {argument name="team" default="selected team"}. If this is a national team — use the country flag colors, national football kit, and team symbolism. If this is a football club — use the official colors, kit style, and club symbolism.
+The model sits among fans, smiling and looking at the camera. In the background, a blurred crowd of fans in the colors of this team, stadium lights, soft bokeh, and a lively match atmosphere.
+Lighting is warm, expensive, and natural: soft cinematic stadium light, beautiful glow on the skin, delicate highlights in the eyes, background beautifully blurred. Face in sharp focus.
+Style: ultra-realistic cinematic sports portrait, DSLR photo, {argument name="focal length" default="85mm"} lens, {argument name="aperture" default="f/1.8"}, HDR, 8K, premium color grading, vertical 9:16.
+Avoid: face changes, plastic skin, incorrect team symbolism, crooked team logo, cartoonishness, CGI, extra text on photo, watermarks.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2077003566959538491) | 2026-07-14
+
+---
+
+### 🖥️ 例 4089：东京天际线下的两位晚礼服女性
+
+![东京天际线下的两位晚礼服女性](../../images/%E4%B8%9C%E4%BA%AC%E5%A4%A9%E9%99%85%E7%BA%BF%E4%B8%8B%E7%9A%84%E4%B8%A4%E4%BD%8D%E6%99%9A%E7%A4%BC%E6%9C%8D%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的全身时尚编辑风格图像，展示两位迷人的东亚年轻女性在夜间奢华酒店套房内合影。她们站在高大的落地窗前，背景是模糊的东京城市天际线，远处可见发光的橙色东京塔。两位女性并肩站立，身体微微向对方倾斜，优雅且自信，均注视着镜头。左侧女性拥有 {argument name="left woman hair color" default="深棕色柔和盘发配空气刘海"}，妆容自然温暖，佩戴精致的耳环和手链，身穿一件引人注目的黑色缎面晚礼服，采用不对称单肩领口、腰部镂空、高开叉设计，搭配黑色透明丝袜和黑色绑带高跟鞋；她的左手靠在窗框上，一条腿向前摆姿势。右侧女性拥有 {argument name="right woman hair color" default="黑色长卷发配柔和刘海"}，妆容精致，佩戴小巧的耳环和手链，身穿一件飘逸的白色缎面晚礼服，采用深 V 垂坠领口、腰部镂空、高开叉设计，搭配黑色透明丝袜和黑色绑带高跟鞋；她的右手触碰窗框，一条腿向前伸展。使用 {argument name="dress color pairing" default="左侧黑色礼服，右侧白色礼服"}。室内环境应呈现高端且富有氛围感的基调：带有倒影的深色大理石地面、深色墙板、金属窗框、左侧的一盏暖色台灯以及柔和的电影感酒店灯光。风格应为超写实，2:3 纵向构图，主体细节清晰，浅景深，丝滑面料质感，优雅时尚摄影，高雅性感，无文字，无水印，无多余人物，仅限两位女性。
+
+[English]
+Create a photorealistic full-body fashion editorial image of two glamorous young adult East Asian women posing together in a luxury high-rise hotel suite at night, standing in front of tall floor-to-ceiling windows with a blurred Tokyo city skyline behind them, including a glowing orange Tokyo Tower in the distance. The women are side by side and leaning slightly toward each other, elegant and confident, both looking at the camera. The left woman has {argument name="left woman hair color" default="dark brown hair in a soft updo with wispy bangs"}, warm natural makeup, delicate earrings and bracelet, and wears a dramatic black satin evening gown with an asymmetrical one-shoulder neckline, cutout waist, high slit, sheer black stockings, and black strappy high heels; her left hand rests against the window frame and one leg is posed forward. The right woman has {argument name="right woman hair color" default="long black wavy hair with soft bangs"}, refined makeup, small earrings and bracelet, and wears a flowing white satin evening gown with a plunging draped neckline, waist cutouts, high slit, sheer black stockings, and black strappy high heels; her right hand touches the window frame and one leg is extended forward. Use {argument name="dress color pairing" default="black dress on the left and white dress on the right"}. The interior should feel upscale and moody: dark marble floor with reflections, dark wall panels, metal window frames, a warm table lamp on the left, and soft cinematic hotel lighting. Style should be ultra-realistic, vertical 2:3 composition, sharp subject detail, shallow depth of field, glossy fabric texture, elegant fashion photography, tasteful sensuality, no text, no watermark, no extra people, exactly two women.
+```
+
+**来源：** [@周防義経](https://x.com/y_suou/status/2076989015472120182) | 2026-07-14
+
+---
+
+### 🖥️ 例 4139：忧郁动漫风生日渡轮场景
+
+![忧郁动漫风生日渡轮场景](../../images/%E5%BF%A7%E9%83%81%E5%8A%A8%E6%BC%AB%E9%A3%8E%E7%94%9F%E6%97%A5%E6%B8%A1%E8%BD%AE%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅柔和的动漫风格生日插画，画面中一位安静的少女（{argument name="hair color" default="长黑发"}）坐在昏暗温馨房间里的木桌旁，单手托腮，若有所思地凝视着一个插着一支蜡烛的圆形草莓奶油蛋糕。她有着棕色的大眼睛，皮肤白皙，表情平静，身穿黑色背带裙，内搭白色 T 恤，右耳旁别着一个小巧的心形发卡。在前景中，放置一个可爱的“HeartLand Ferry”玩具模型，船体为白色，甲板为绿色，下部有橙红色条纹，烟囱为橙色和海军蓝配色，摆放在蛋糕前方。清晰呈现以下庆祝元素：1 个生日蛋糕（带 1 支点燃的蜡烛和 6 颗大草莓）、1 个渡轮模型、2 个包装好的礼盒、1 只戴着红色蝴蝶结的垂耳泰迪熊、1 个花瓶以及 1 个漂浮在右侧的红色气球。房间背景应为柔和的紫色墙面，装饰着类似海报或照片的柔和矩形，左侧有温暖的窗户轮廓，并带有淡淡的心形装饰。采用梦幻般的日式绘画风格，笔触柔和，烛光温暖，低对比度的柔和色调，阴影细腻，营造出一种私密而忧郁的生日氛围。图片比例为 2:3 竖版，构图居中，除渡轮标签 {argument name="ferry label" default="HeartLand Ferry"} 外不包含任何额外文字，无水印，非写实风格。
+
+[English]
+Create a soft anime-style birthday illustration of a quiet young girl with {argument name="hair color" default="long black hair"} sitting at a wooden table in a dim, cozy room, resting her cheek on one hand and gazing thoughtfully at a round strawberry shortcake with one lit candle. She has large brown eyes, pale skin, a small neutral expression, and wears a white T-shirt under a black pinafore dress with a tiny heart hairpin near her right ear. In the foreground, place a cute toy model ferry labeled “HeartLand Ferry,” with a white hull, green deck, orange-red lower stripe, and orange-and-navy funnels, positioned in front of the cake. Count the visible celebration items clearly: 1 birthday cake with 1 lit candle and 6 large strawberries on top, 1 model ferry, 2 wrapped gift boxes, 1 teddy bear with floppy ears and a red bow, 1 vase of flowers, and 1 red balloon floating on the right. The room background should have muted purple walls, soft pasted rectangles like posters or photos, a warm window shape on the left, and faint heart decorations. Use a dreamy painterly Japanese illustration style with gentle brush texture, warm candle glow, low-contrast pastel colors, soft shadows, and an intimate melancholic birthday mood. Make the image vertical 2:3, centered composition, no extra text except the ferry label {argument name="ferry label" default="HeartLand Ferry"}, no watermark, no photorealism.
+```
+
+**来源：** [@Matsubon](https://x.com/Matsubon_Q7/status/2076847031600152757) | 2026-07-14
+
+---
+

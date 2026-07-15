@@ -6090,3 +6090,295 @@ Constraints: Use exactly 9 panels in a 3×3 arrangement, one goddess figure per 
 
 ---
 
+### 🎬 例 4056：西班牙对阵法国世界杯漫画
+
+![西班牙对阵法国世界杯漫画](../../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AF%B9%E9%98%B5%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅色彩鲜艳的六格漫画，预测 2026 年世界杯足球半决赛，对阵双方为 {argument name="team one" default="西班牙"} 和 {argument name="team two" default="法国"}，采用充满活力的儿童友好型体育漫画风格。
+
+画布：1:1 正方形图像，精确划分为 6 个矩形面板，采用 2 列 3 行的网格布局，带有粗黑的漫画边框和略带纹理的印刷漫画阴影。
+
+视觉风格：明亮饱和的色彩、粗犷的墨线轮廓、动态的运动线条、夸张的喜悦表情、拥挤的体育场背景、挥舞的红黄西班牙国旗和蓝白红法国国旗、绿色足球场、戏剧性的透视效果、对话气泡、记分牌横幅以及热闹的观众席彩带。角色为风格化的年轻男足球员，拥有大而生动的眼睛和运动型卡通比例。
+
+面板布局及内容要求：
+1. 左上角面板：大型体育场内的比赛开场画面。巨大的记分牌上写着“WORLD CUP 2026 SEMI-FINAL”，配有西班牙和法国国旗以及对阵文字“SPAIN VS FRANCE”。展示两名主要球员对峙：一名身穿 9 号红色球衣的西班牙球员和一名身穿 10 号蓝色球衣的法国球员。在他们身后的中场附近增加两名较小的球员和一个足球。
+2. 右上角面板：西班牙进球动作。西班牙 9 号球员将球踢向球门，一名身穿绿色球衣的守门员扑救不及。在射手上方添加一个写着“GOAL!”的对话气泡。
+3. 左中面板：法国队扳平比分庆祝。记分牌显示“1 - 1”。一个巨大的对话气泡写着“GOOOAL!”。展示 5 名清晰可见的庆祝球员：左侧边缘是一名神情失望或惊讶的西班牙 9 号球员，以及四名身穿蓝色球衣庆祝的法国球员，包括中央举起双臂的 10 号和右侧的一名法国 9 号球员。
+4. 右中面板：激烈的对抗。顶部横幅写着“TENSE ACTION!”。展示西班牙 9 号和法国 10 号肩并肩奔跑，目光竞争激烈，争抢两人之间的足球。
+5. 左下面板：最后一分钟的机会。横幅写着“LAST MINUTE CHANCE!”。展示西班牙 9 号球员强力射门，身穿 4 号球衣的绿色守门员飞身扑向球门。足球带着白色的速度线戏剧性地飞向球网。
+6. 右下面板：在背景可见埃菲尔铁塔的体育场前进行最终结果庆祝。记分牌横幅写着“FULL TIME”，配有两国国旗和最终比分“SPAIN 1 - 2 FRANCE”。添加一个写着“WE’RE IN THE FINAL!”的对话气泡。展示 6 名聚在一起庆祝的球员：中间是一名神情兴奋的西班牙 9 号红衣球员，周围是五名挥拳微笑的法国蓝衣球员。
+
+需包含的文字内容（完全照写）：“WORLD CUP 2026 SEMI-FINAL”、“SPAIN VS FRANCE”、“GOAL!”、“GOOOAL!”、“1 - 1”、“TENSE ACTION!”、“LAST MINUTE CHANCE!”、“FULL TIME”、“SPAIN 1 - 2 FRANCE”以及“WE’RE IN THE FINAL!”
+
+限制条件：使用精确的 6 个面板，保持所有足球球衣颜色编码清晰（西班牙为红色，法国为蓝色），最终比分设为 {argument name="final score" default="SPAIN 1 - 2 FRANCE"}，避免照片写实风格，避免额外面板，避免水印，并确保所有文字大而清晰，符合漫画书风格。
+
+[English]
+Goal: Create a colorful six-panel comic strip predicting a World Cup 2026 semi-final football match between {argument name="team one" default="Spain"} and {argument name="team two" default="France"}, in an energetic kid-friendly sports-cartoon style.
+
+Canvas: Square 1:1 image divided into exactly 6 rectangular panels arranged in a 2-column by 3-row grid, with thick black comic borders and slightly textured print-comic shading.
+
+Visual style: Bright saturated colors, bold ink outlines, dynamic motion lines, exaggerated joyful expressions, packed stadium backgrounds, waving red-yellow Spanish flags and blue-white-red French flags, green football pitch, dramatic perspective, speech bubbles, scoreboard banners, and lively crowd confetti. Characters are stylized young male footballers with large expressive eyes and athletic cartoon proportions.
+
+Panel layout and required content:
+1. Top-left panel: Establishing match panel inside a huge stadium. A large scoreboard reads “WORLD CUP 2026 SEMI-FINAL” with Spanish and French flags and the matchup text “SPAIN VS FRANCE.” Show two main players facing off: a Spain player in a red jersey with number 9 and a France player in a blue jersey with number 10. Add two smaller players and a ball near midfield behind them.
+2. Top-right panel: Goal action for Spain. The Spain number 9 player kicks the ball toward the net while a goalkeeper in a green kit dives and misses. Add a speech bubble reading “GOAL!” above the striker.
+3. Middle-left panel: France equalizer celebration. Scoreboard reads “1 - 1.” A large speech bubble says “GOOOAL!” Show exactly 5 visible players celebrating: one Spain number 9 at the left edge looking disappointed or surprised, and four France players in blue celebrating, including the central number 10 with both arms raised and one France number 9 at right.
+4. Middle-right panel: Intense duel. A banner at the top reads “TENSE ACTION!” Show the Spain number 9 and France number 10 running shoulder-to-shoulder, glaring competitively and chasing a football between them.
+5. Bottom-left panel: Last-minute chance. A banner reads “LAST MINUTE CHANCE!” Show the Spain number 9 taking a powerful shot at goal while the green goalkeeper with number 4 leaps across the goalmouth. The ball flies dramatically toward the net with white speed streaks.
+6. Bottom-right panel: Final result celebration in front of a stadium with the Eiffel Tower visible in the background. A scoreboard banner reads “FULL TIME” with both national flags and the final score line “SPAIN 1 - 2 FRANCE.” Add a speech bubble reading “WE’RE IN THE FINAL!” Show exactly 6 celebrating players grouped together: one Spain player in red number 9 in the center looking excited, surrounded by five France players in blue with raised fists and smiling faces.
+
+Text content to include exactly as visible: “WORLD CUP 2026 SEMI-FINAL”, “SPAIN VS FRANCE”, “GOAL!”, “GOOOAL!”, “1 - 1”, “TENSE ACTION!”, “LAST MINUTE CHANCE!”, “FULL TIME”, “SPAIN 1 - 2 FRANCE”, and “WE’RE IN THE FINAL!”
+
+Constraints: Use exactly 6 panels, keep all football jerseys clearly color-coded red for Spain and blue for France, make the final score {argument name="final score" default="SPAIN 1 - 2 FRANCE"}, avoid photorealism, avoid extra panels, avoid watermarks, and keep all text large, legible, and comic-book styled.
+```
+
+**来源：** [@László "Laci" Kiszely](https://x.com/lacikiszely/status/2077084417894330803) | 2026-07-14
+
+---
+
+### 🎬 例 4057：单色屋顶分镜草图
+
+![单色屋顶分镜草图](../../images/%E5%8D%95%E8%89%B2%E5%B1%8B%E9%A1%B6%E5%88%86%E9%95%9C%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的简洁单色 2D 分镜线条草图页，主题为 {argument name="subject" default="屋顶结印"}；请省略括号内的标签。
+
+[HEADER]
+清晰的标题
+
+[English]
+Create a 16:9 clean monochrome 2D storyboard line-sketch sheet for {argument name="subject" default="rooftop hand seals"}; omit bracketed labels.
+
+[HEADER]
+Crisp header
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2077082600800166249) | 2026-07-14
+
+---
+
+### 🎬 例 4075：动漫夏夜烟花拼贴画
+
+![动漫夏夜烟花拼贴画](../../images/%E5%8A%A8%E6%BC%AB%E5%A4%8F%E5%A4%9C%E7%83%9F%E8%8A%B1%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张柔和的动漫漫画风格夏夜拼贴画，主角是 {argument name="character name" default="一位开朗的粉发女孩"}，她在舒适的卧室窗前欣赏烟花。
+
+画布：竖版肖像插画，比例约为 3:4，设计成装饰性漫画记忆页，包含多个重叠的圆角画格，并以奶油白色剪贴簿边框分隔。使用柔和色调、梦幻光影、星光闪烁以及浪漫的夏夜氛围。
+
+角色细节：同一位女孩在拼贴画中总共出现 5 次。她拥有蓬松的 {argument name="hair color" default="粉色"} 头发（侧马尾或凌乱波波头变体）、温暖的琥珀棕色眼睛、白皙的皮肤以及甜美青春的动漫表情。她穿着浅 {argument name="pajama color" default="粉蓝色"} 的吊带短裤睡衣套装，带有蕾丝边、荷叶边、小碎花图案，全身可见时穿着柔软的紫色居家拖鞋。确保她在所有画格中的形象保持一致。
+
+布局与角色出现次数：1) 左侧大型全身画格：女孩站在卧室里，双手捧着一个粉色马克杯，笑容灿烂，穿着全套睡衣和拖鞋。2) 右上画格：在开着的窗前侧身半身像，手持冒着热气的粉色马克杯靠近嘴边，凝视着夜空。3) 中左侧小画格：从下方仰视的特写，她露出惊讶的表情，带有一个包含日语文字「わぁ…」的小对话气泡。4) 中右侧大型画格：背影/侧影，她倚靠在窗台上，托着腮，凝视着海滨小镇上空的烟花；窗台上放着一个粉色马克杯。5) 左下画格：特写肖像，她双手交叠托着下巴，温柔地对着观众微笑。
+
+卧室与场景：一个舒适的柔和色调卧室，有凌乱的床铺、枕头、毯子、床头灯、架子、相框、盆栽花卉、书籍和环绕高大开窗的窗帘。窗外是深蓝色的 {argument name="season and time" default="夏夜"} 天空，下方是带有发光房屋、远山、水面反射、新月、星星和绚丽烟花的海滨小镇。
+
+装饰元素（计数）：站立姿势中包含 1 个粉色马克杯，右上侧影姿势中包含 1 个冒热气的粉色马克杯，中右画格窗台上包含 1 个粉色马克杯，右侧边框包含 1 个插画风格的白色马克杯贴纸。左下边框包含 1 个标有“MILK”的插画风格牛奶瓶贴纸。在边框周围添加手绘剪贴簿涂鸦：爱心、星星、花朵、丝带、虚线轨迹、微小闪光和柔软的贴纸式图标。
+
+视觉风格：高质量日本动漫插画，柔和的漫画拼贴构图，明亮的柔和色调，细腻的线条，柔和的阴影，闪亮的眼睛，梦幻的焦外成像，温暖的室内灯光与清冷的蓝色月光户外形成对比。强调可爱感、宁静感以及魔法夏夜的氛围。
+
+约束条件：无现代 UI，无水印，无额外角色，无写实风格。保持拼贴画整洁易读，画格边缘圆润自然，并留有装饰性的白色边框空间。
+
+[English]
+Goal: Create a soft anime manga-style summer night collage featuring {argument name="character name" default="a cheerful pink-haired girl"} enjoying fireworks from her cozy bedroom window.
+
+Canvas: Vertical portrait illustration, approximately 3:4 aspect ratio, designed like a decorative manga memory page with multiple overlapping rounded panels separated by creamy white scrapbook borders. Use pastel colors, dreamy lighting, star sparkles, and a romantic summer-night atmosphere.
+
+Character details: The same girl appears exactly 5 times across the collage. She has fluffy {argument name="hair color" default="pink"} hair in a loose side ponytail or tousled bob variations, warm amber-brown eyes, fair skin, and a sweet youthful anime expression. She wears a pale {argument name="pajama color" default="powder blue"} camisole-and-shorts pajama set with lace trim, ruffles, tiny floral patterns, and soft purple house slippers when full body is visible. Keep her design consistent in all panels.
+
+Layout and counted character appearances: 1) Left large full-body panel: the girl stands in her bedroom holding a pink mug with both hands, smiling brightly, wearing the full pajama set and slippers. 2) Upper-right panel: side-profile bust view at an open window, holding a steaming pink mug near her lips while looking out at the night sky. 3) Small center-left panel: close-up from below of her surprised face looking upward, with a small speech bubble containing the Japanese text 「わぁ…」. 4) Large middle-right panel: back/side view of her leaning on the windowsill, chin resting on her hand, gazing at fireworks over a seaside town; a pink mug sits on the sill. 5) Bottom-left panel: close-up portrait of her resting her chin on folded arms, smiling softly toward the viewer.
+
+Bedroom and setting: A cozy pastel bedroom with a rumpled bed, pillows, blanket, bedside lamp, shelves, framed items, potted flowers, books, and curtains around a tall open window. Outside is a deep navy {argument name="season and time" default="summer night"} sky over a small coastal town with glowing houses, distant hills, water reflections, a crescent moon, stars, and colorful fireworks.
+
+Decorative elements, counted: Include exactly 1 pink mug held in the standing pose, exactly 1 steaming pink mug in the upper-right profile pose, exactly 1 pink mug on the windowsill in the middle-right panel, and exactly 1 illustrated white mug sticker on the right border. Include exactly 1 illustrated milk bottle sticker labeled “MILK” on the lower-left border. Add hand-drawn scrapbook doodles around the borders: hearts, stars, flowers, ribbons, dotted trails, tiny sparkles, and soft sticker-like icons.
+
+Visual style: High-quality Japanese anime illustration, gentle manga collage composition, luminous pastel palette, delicate linework, soft shading, glossy eyes, dreamy bokeh, warm indoor lamplight contrasting with cool blue moonlit outdoors. Emphasize cuteness, serenity, and the feeling of a magical summer night.
+
+Constraints: No modern UI, no watermark, no extra characters, no photorealism. Keep the collage clean and readable, with rounded organic panel edges and decorative white border space.
+```
+
+**来源：** [@あけび](https://x.com/akebi_mh/status/2077030954682777662) | 2026-07-14
+
+---
+
+### 🎬 例 4104：高端产品分镜信息图
+
+![高端产品分镜信息图](../../images/%E9%AB%98%E7%AB%AF%E4%BA%A7%E5%93%81%E5%88%86%E9%95%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁、高端的分镜信息图，用于产品 ASMR 开箱视频。
+
+背景：
+白色背景，采用现代极简布局。
+
+标题：
+STORYBOARD
+
+产品：
+{argument name="product name" default="HAN RIVER WET & DRY 2 IN 1 STEAM IRON"}
+
+副标题：
+ASMR UNBOXING (POV HAND)
+
+创建一个 12 面板的分镜，以 4×3 网格排列，分为：
+
+第一部分 (0–10 秒)
+第二部分 (10–20 秒)
+第三部分 (20–30 秒)
+
+每个面板应包含：
+• 编号与时间戳
+• 逼真的电影感图像
+• 手写涂鸦文字
+• 视觉画面
+• 动作描述
+• 涂鸦
+• 音频
+
+使用高端商业摄影风格，配备温暖的摄影棚灯光、浅景深，且仅展示 POV 手部视角。
+
+信息图结尾需包含：
+
+• 包装清单
+• 核心功能
+• 保修信息
+• 适用人群
+• 元数据部分
+
+排版应呈现出高端创意代理机构的分镜风格，保持整洁的间距，使用深蓝色点缀和细灰色网格线。
+
+（随后包含所有 12 个场景的详细拍摄清单。）
+
+[English]
+Create a clean, premium storyboard infographic for a product ASMR unboxing video.
+
+Background:
+White background with a modern minimalist layout.
+
+Title:
+STORYBOARD
+
+Product:
+{argument name="product name" default="HAN RIVER WET & DRY 2 IN 1 STEAM IRON"}
+
+Subtitle:
+ASMR UNBOXING (POV HAND)
+
+Create a 12-panel storyboard arranged in a 4×3 grid divided into:
+
+PART 1 (0–10s)
+PART 2 (10–20s)
+PART 3 (20–30s)
+
+Each panel should include:
+• Number & timestamp
+• Realistic cinematic image
+• Handwritten doodle text
+• Visual
+• Action
+• Doodle
+• Audio
+
+Use premium commercial photography with warm studio lighting, shallow depth of field and POV hands only.
+
+Finish the infographic with:
+
+• What's in the Box
+• Key Features
+• Warranty
+• Ideal For
+• Metadata section
+
+Typography should resemble a premium creative agency storyboard with clean spacing, dark blue accents and thin gray grid lines.
+
+(Then include the detailed shot list for all 12 scenes.)
+```
+
+**来源：** [@Harris](https://x.com/HarrisDecodes/status/2076942151959588906) | 2026-07-14
+
+---
+
+### 🎬 例 4113：黑板风猫咪鱼宴
+
+![黑板风猫咪鱼宴](../../images/%E9%BB%91%E6%9D%BF%E9%A3%8E%E7%8C%AB%E5%92%AA%E9%B1%BC%E5%AE%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版黑板风格插画，描绘一只淘气的可爱小猫正在享受一场凌乱的鱼宴。采用类似 niji 的动漫绘本风格，在深色黑板背景上呈现粗糙的粉笔、蜡笔、彩色粉笔和刮痕漆面质感。主体为 {argument name="character name" default="一只三花小猫"}，拥有大大的三角形耳朵、半眯着的慵懒金色眼睛、小巧的粉色鼻子、伸出的舌头，以及一只向观众抬起、露出粉色肉垫的前爪。小猫佩戴着 {argument name="neck accessory" default="一条带有金色小铃铛的彩色三角方巾"}。前景桌面上杂乱地摆放着 5 样食物：右侧有一条巨大的蓝灰色全鱼，左侧有一个装满鱼肉碎的深色碗，底部中央有一副白色鱼骨架，左下角有一个三角形鱼头骨，右下角有一管红蓝相间的挤压式鱼酱，酱料从喷嘴中溢出。黑板背景包含 12 个粉笔涂鸦：左上角有一个爪印，一个红色卷曲箭头，右上角有一个大火箭，右上角附近有一个小鱼骨，右侧有一个站立的小猫剪影，左上角有一颗黄色星星，顶部中央附近有一颗爆炸星，火箭附近有一颗粉色星星，以及 2 个微型花朵涂鸦和 2 个小月牙。画面采用密集的手绘构图，带有充满活力的刮痕、可见的粉笔灰、涂抹的颜料、不均匀的轮廓、半色调斑点，以及层叠的米色、鲑鱼粉、海军蓝、紫色、橙色和白色笔触。保持小猫居中且占据主导地位，场景俏皮且略显混乱，画面中不包含可读文字、水印，且避免干净的数字矢量感。
+
+[English]
+Create a vertical chalkboard-style illustration of a mischievous cute cat enjoying a messy fish feast, in a niji-like anime storybook style with rough chalk, pastel, crayon, and scratched paint textures on a dark blackboard background. The main subject is {argument name="character name" default="a calico kitten"} with large triangular ears, sleepy half-lidded golden eyes, a tiny pink nose, tongue sticking out, and one front paw raised toward the viewer showing pink toe beans. The cat wears {argument name="neck accessory" default="a colorful triangular bandana with a small gold bell"}. The tabletop foreground is cluttered with exactly 5 food items: 1 large blue-gray whole fish on the right, 1 dark bowl of flaked fish on the left, 1 white fish skeleton across the bottom center, 1 triangular fish head bone at bottom left, and 1 red-and-blue squeeze tube of paste lying at bottom right with cream spilling from the nozzle. The blackboard background contains exactly 12 chalk doodles: 1 paw print near the upper left, 1 red curled arrow, 1 large rocket in the upper right, 1 small fishbone near the upper right, 1 small standing cat silhouette on the right, 1 yellow star at upper left, 1 burst star near the top center, 1 pink star near the rocket, 2 tiny flower doodles, and 2 small crescent moons. Use a dense hand-drawn composition with energetic scratch marks, visible chalk dust, smeared pigment, uneven outlines, halftone speckles, and layered beige, salmon, navy, purple, orange, and white strokes. Keep the cat centered and dominant, the scene playful and slightly chaotic, with no readable text, no watermark, and no clean digital vector look.
+```
+
+**来源：** [@404 notfound](https://x.com/404notf26312237/status/2076914901742940292) | 2026-07-14
+
+---
+
+### 🎬 例 4124：漫画时尚线稿少女
+
+![漫画时尚线稿少女](../../images/%E6%BC%AB%E7%94%BB%E6%97%B6%E5%B0%9A%E7%BA%BF%E7%A8%BF%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅全身黑白漫画时尚线稿，主角为 {argument name="character description" default="一位留着长直黑发、带有稀疏刘海的苗条年轻女性"}，背景为干净的纯白色。她以放松的四分之三侧身姿态站立，头部微微转向观众，表情冷静而疏离；一只手插在口袋里，另一只手臂被超大号袖子遮住，双腿修长并微微交叉。使用细腻的手绘墨水线条，带有可见的构图笔触、精细的排线和随性的轮廓线，无颜色，除线条纹理外无阴影，并留出大量空白。服装包含 5 件清晰可见的单品：1 件落肩大袖口的超大号竖条纹衬衫、1 条高腰格子迷你裙、1 双带有竖向罗纹的堆堆中筒袜、1 双低跟乐福鞋以及领口处细致的领部细节。通过密集的笔触强调面料纹理：衬衫上的竖条纹、裙子上的交叉排线格子、袜子的罗纹以及轻描的鞋缝。人物垂直居中，留有充裕的边距，呈现优雅的日式插画风格，背景极简，无文字，无道具，无色块填充。
+
+[English]
+Create a full-body black-and-white manga fashion line drawing of {argument name="character description" default="a slim young woman with long straight dark hair and wispy bangs"} standing alone on a clean white background. She is posed in a relaxed three-quarter view, head turned slightly toward the viewer with a calm, distant expression, one hand tucked into a pocket and the other arm hidden by the oversized sleeve, legs long and slightly crossed. Use delicate hand-drawn ink sketch lines with visible construction-like strokes, fine hatching, loose contour lines, no color, no shading except line texture, and lots of empty white space. The outfit has exactly 5 visible clothing pieces: 1 oversized vertically striped button-up shirt with dropped shoulders and large sleeves, 1 high-waisted plaid mini skirt, 1 pair of scrunched mid-calf socks with vertical ribbing, 1 pair of low heeled loafers, and 1 subtle collar detail at the neckline. Emphasize fabric patterns with dense pen lines: vertical stripes on the shirt, crosshatched plaid on the skirt, ribbed socks, and lightly sketched shoe seams. Keep the figure centered vertically, cropped with generous margins, elegant Japanese illustration style, minimal background, no text, no props, no color fills.
+```
+
+**来源：** [@Edimakor Japan](https://x.com/EdimakorJP/status/2076887016911094140) | 2026-07-14
+
+---
+
+### 🎬 例 4141：蜘蛛侠：平行宇宙风格漫画项目
+
+![蜘蛛侠：平行宇宙风格漫画项目](../../images/%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="grid size" default="16 格"} 漫画项目网格，{argument name="art style" default="蜘蛛侠：平行宇宙风格动画插画"}，粗犷的墨水线条，带有半色调阴影，在温暖的城市街道色调上点缀着鲜艳的霓虹粉紫和电光蓝运动轨迹。故事：{argument name="main subjects" default="三名青少年"}（其中一名男孩穿着紫色
+
+[English]
+A {argument name="grid size" default="16-panel"} comic book storyboard grid, {argument name="art style" default="Spider-Verse-style animated illustration"}, bold ink linework with halftone shading, vivid neon pink-magenta and electric blue motion streak accents on a warm city-street palette. Story: {argument name="main subjects" default="three teenagers"} (one boy in a purple
+```
+
+**来源：** [@Shara I Ai Video Creator](https://x.com/itsshara_ai/status/2076845468622160178) | 2026-07-14
+
+---
+
+### 🎬 例 4145：独角仙少年时尚草图
+
+![独角仙少年时尚草图](../../images/%E7%8B%AC%E8%A7%92%E4%BB%99%E5%B0%91%E5%B9%B4%E6%97%B6%E5%B0%9A%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张纯白背景下的黑白漫画时尚插画，画面包含 2 名全身修长的少年，他们拥有精致的中性面容、大长腿、凌乱的深色短发，并佩戴着如同面具或皇冠般的独角仙灵感头饰。风格应类似于时尚速写本中的精细钢笔线条画：轮廓线清晰、富有表现力的交叉排线、稀疏的阴影，无颜色、无背景物体、无文字、无边框。左侧主体 1：一名神情冷静严肃的少年，身体略微朝向左前方，一只手插在口袋里，头上戴着巨大的独角仙角面具，有一只高耸的分叉角向上延伸，带有细小的昆虫腿/触角细节，身穿宽松的竖条纹衬衫并卷起袖子，颈部系着深色围巾或丝带，穿着高腰格纹短裤，系着带有长挂带的窄腰带，穿着堆堆袜和系带短靴。右侧主体 2：一名姿态时尚的少年，身体朝向右侧，一只手插在口袋里，戴着带有两只弯曲角和光泽甲壳细节的独角仙面具，身穿格纹西装外套、深色无袖针织背心或衬衫、小领结，穿着高腰竖条纹短裤，系着腰带，穿着堆堆袜和系带短靴。保持两个人物优雅、年轻且略带贵族气质，并将独角仙头饰作为视觉焦点。使用 {argument name="character type" default="独角仙少年"}，{argument name="art style" default="黑白漫画墨水时尚草图"}，{argument name="left outfit pattern" default="竖条纹衬衫和格纹短裤"}，{argument name="right outfit pattern" default="格纹西装外套和竖条纹短裤"}，以及 {argument name="background" default="纯白背景"}。
+
+[English]
+Create a black-and-white manga fashion illustration on a clean white background featuring exactly 2 full-body slim teenage boys with delicate androgynous faces, long legs, tousled short dark hair, and rhinoceros beetle-inspired headpieces worn like masks or crowns. The style should look like fine ink pen line art from a fashion sketchbook: crisp contour lines, expressive cross-hatching, sparse shading, no color, no background objects, no text, no border. Subject 1 on the left: a relaxed boy facing slightly forward-left with one hand in his pocket, calm serious expression, wearing a large beetle horn mask on his head with one tall forked horn rising upward, small insect legs/antennae details, a loose vertically striped button-up shirt with rolled sleeves, a dark scarf or ribbon tied at the neck, high-waisted plaid shorts, a narrow belt with a long hanging strap, slouchy socks, and lace-up ankle boots. Subject 2 on the right: a similar boy standing in a fashion pose facing to the right with one hand in his pocket, wearing a beetle mask with two curved horns and glossy shell detail, a checkered blazer, a dark sleeveless knit vest or shirt, a small bow tie, high-waisted vertically striped shorts, a belt, slouchy socks, and lace-up ankle boots. Keep both figures elegant, youthful, and slightly aristocratic, with the beetle headpieces as the focal point. Use {argument name="character type" default="rhinoceros beetle boy"}, {argument name="art style" default="black-and-white manga ink fashion sketch"}, {argument name="left outfit pattern" default="vertical striped shirt and plaid shorts"}, {argument name="right outfit pattern" default="checkered blazer and vertical striped shorts"}, and {argument name="background" default="plain white background"}.
+```
+
+**来源：** [@chi Okey](https://x.com/chiOkey/status/2076835742941376522) | 2026-07-14
+
+---
+

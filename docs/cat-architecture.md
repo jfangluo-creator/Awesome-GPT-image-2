@@ -2162,3 +2162,93 @@ Create an ultra-realistic cinematic 8K fashion portrait of a {argument name="sub
 
 ---
 
+### 🏛️ 例 4071：昏暗卧室睡前人像
+
+![昏暗卧室睡前人像](../../images/%E6%98%8F%E6%9A%97%E5%8D%A7%E5%AE%A4%E7%9D%A1%E5%89%8D%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张逼真的私密卧室照片，画面主体为 {argument name="subject" default="一位 20 出头的东亚年轻女性"} 在夜间躺在床上，采用近距离、略带广角的 4:3 横向构图。她侧卧在枕头上，头部位于画面左侧，深棕色齐肩短发略显凌乱，带有柔和的刘海，自然素颜，明亮且富有反光的双眼直视镜头，表情平静而困倦，双唇微张。她穿着 {argument name="shirt color" default="一件麻灰色 T 恤"}，蜷缩在 {argument name="bedding color" default="一条白色被子"} 下，一只手露在外面抓着被子。房间光线非常昏暗，由柔和的正面手机闪光灯或床头摄像机灯光照明，照亮了她的脸庞和白色被褥，同时使背景处于深沉的阴影中。背景细节：一个简约的现代卧室，左侧有浅色的床头板或床架，凌乱的白色床单，深色的墙角，一个小床头柜或架子，上面摆放着模糊的圆柱形物体和瓶子，右侧有窗帘。使用自然的皮肤纹理、逼真的织物褶皱、柔和的低光色彩、浅景深，营造出随意的抓拍氛围，无文字，无水印，无夸张的修饰风格。
+
+[English]
+Create a realistic intimate bedroom photograph of {argument name="subject" default="a young East Asian woman in her early 20s"} lying in bed at night, viewed from close range in a slightly wide-angle horizontal 4:3 composition. She is resting on her side with her head on a white pillow at the left of the frame, dark brown slightly messy shoulder-length hair with soft bangs, natural bare face, large reflective eyes looking directly at the camera, calm sleepy expression, slightly parted lips. She wears {argument name="shirt color" default="a heather gray T-shirt"} and is tucked under {argument name="bedding color" default="a white comforter"}, holding the blanket near her chest with one hand visible. The room is very dim, lit by a soft frontal phone-flash or bedside-camera light that brightens her face and the white bedding while leaving the background in deep shadow. Background details: a simple modern bedroom with a pale headboard or bed frame on the left, rumpled white sheets, a dark wall corner, a small nightstand or shelf with indistinct cylindrical objects and a bottle, and a curtain on the right. Use natural skin texture, realistic fabric folds, muted low-light colors, shallow depth of field, candid casual snapshot mood, no text, no watermark, no exaggerated glamour styling.
+```
+
+**来源：** [@周防義経](https://x.com/y_suou/status/2077033161536766408) | 2026-07-14
+
+---
+
+### 🏛️ 例 4097：日式厨房里的杯面时光
+
+![日式厨房里的杯面时光](../../images/%E6%97%A5%E5%BC%8F%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%9D%AF%E9%9D%A2%E6%97%B6%E5%85%89.jpg)
+
+**Prompt:**
+
+```text
+主題：
+湯気の向こう
+
+主体：
+縦長2:3。小さな日本のキッチンで、{argument name="人物" default="若い女性"}が窓際の丸い木製{argument name="家具" default="スツール"}に座り、{argument name="食べ物" default="カップ麺"}を食べている。人物は画面中央やや右を占め、頭から太ももまでを大きく写す。曲げた両膝が下半分の前景をつくり、カップ麺は胸元の中央、箸と垂れた麺が顔へ視線を導く。
+
+人物・表情：
+自然で若々しい雰囲気の女性。明るいアイボリーベージュの肌に、頬と鼻先へ淡い血色を残し、毛穴や細かな肌理が見える現実的な質感。ローズピンクのチーク、ピンクブラウンのアイメイク、細く長いまつ毛、自然な涙袋、柔らかなブラウン眉、透け感のあるピンクベージュの唇。麺を少し口に含んだ瞬間に動きを止め、大きな瞳で静かにカメラを見る。
+
+服装・ポーズ：
+明るいミルクティーアッシュブラウンのミディアムロング。薄いシースルーバングと顔まわりのレイヤー、毛先はゆるい内巻きと自然な波を混ぜ、耳の後ろへ一部だけ流す。細い髪の束、柔らかなツヤ、窓光を受けた金色のハイライトを描く。服はアイボリーの細い肩紐のリブキャミソールと、軽いコットン素材のショートパンツ。本人の右手で木の箸を持ち、左手でカップを包む。両膝を胸元へ寄せ、狭い椅子の上で身体を小さくまとめる。
+
+背景・光：
+昭和の面影を少し残した、生活感のある日本の小さなキッチン。画面左にステンレスのガスコンロと白いケトル、木製カウンター。右奥に大きな窓、鉢植え、花瓶、布巾. 棚や瓶は適度にぼかし、文字は読めない程度にする。主光は画面右上の窓から入る夏の自然光。髪、頬、肩、膝の右側に柔らかなハイライトをつくり、左側には青緑を含む穏やかな影を落とす。
+
+構図・カメラ：
+35mm相当、人物との距離が近い日常スナップ. 目線よりわずかに高い位置から軽く見下ろす。顔とカップ麺に焦点を合わせ、背景は浅く自然にぼかす。窓の白飛びは完全には消さず、フィルムらしい柔らかなハレーションを残す。上部は窓と髪のための小さな余白、左右はキッチンの狭さが伝わる程度に詰める。
+
+質感・スタイル：
+富士フイルムのカメラで撮影した35mmカラーネガ写真のような質感。クラシックネガに近い落ち着いた発色、少し褪せたクリーム色、青緑を含む影、温かい肌色。細かなフィルム粒子、わずかな色むら、ハイライトのにじみ、低めのデジタルシャープネス。作り込まれた広告写真ではなく、夏の日常を偶然切り取った自然な写真。
+
+ネガティブ：
+過度な美肌補正、プラスチックのような肌、CG感、アニメ調、不自然な顔、不自然な視線、余分な指、欠けた指、箸の変形、麺と口の接触不良、浮いたカップ、関節の破綻、極端な脚の変形、光源と矛盾する影、強すぎるHDR、過剰なボケ、読める商品名、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2076958379264876578) | 2026-07-14
+
+---
+
+### 🏛️ 例 4110：梦幻云端城堡之旅
+
+![梦幻云端城堡之旅](../../images/%E6%A2%A6%E5%B9%BB%E4%BA%91%E7%AB%AF%E5%9F%8E%E5%A0%A1%E4%B9%8B%E6%97%85.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="雲城への一歩"}
+
+主体：
+縦長4:5。青い海を望む防波堤の上で、{argument name="鞄" default="クリーム色のキャリーケース"}を引きながら片脚を前へ伸ばす女性を、画面下部中央やや左に配置する。人物とスーツケースを合わせて画面高の約35％。上部約65％は空と巨大な雲の城に使い、開放感を強く残す。
+
+人物・表情：
+自然で現実感のある女性。やわらかなブラウンの髪を低めのポニーテールにまとめ、前髪と後れ毛が海風で右方向へなびく。顔はやや画面側へ向け、穏やかで控えめな微笑み。視線は遠くの空と海の間に向ける。
+
+服装・ポーズ：
+{argument name="服装" default="生成り色の半袖セーラーカラーワンピース"}。襟と裾に細い濃紺のパイピング、ウエストはすっきり絞り、膝丈のフレアスカートが風で軽く広がる。白いクルーソックスと白いローカットスニーカー。人物自身の左手でクリーム色の小型キャリーケースの伸縮ハンドルを後方へ引き、ケースは斜めに傾いて二輪が浮く。右脚で防波堤に立ち、左脚を前方へ水平気味に伸ばす。右腕は自然に後ろへ流し、身体の重心は右脚の真上に置く。
+
+背景・光：
+水平線の低い穏やかな青い海。遠景には小さな船影を数隻だけ置く。空には巨大な積乱雲が広がり、その上部が独創的な空中城の形へ自然につながる。城は細長い塔、丸い塔、雲の回廊、橋、半透明の尖塔が混ざる非対称構成。童話的だが特定作品を想起させないオリジナルデザイン。建築物そのものではなく、白い雲の密度と陰影で城の輪郭が浮かび上がる。昼の強い太陽光が画面左上から差し、人物の左肩、頬、スカート、ケース上面を明るく照らす。影は右下へ短く落ち、海面から淡い青い反射光が人物の下半身を補う。
+
+構図・カメラ：
+低めの目線からの全身写真。85mm相当の軽い圧縮感。人物は画面下1/3、雲城は中央上部に大きく配置。人物の頭上から城まで十分な空間を保ち、城の最上部は画面上端から少し余白を残す。防波堤は最下部を横切る水平線として描き、海面と空の境界は人物の腰より少し下。人物とスーツケースに明確に合焦し、遠景の船のみ軽くぼかす。
+
+質感・スタイル：
+透明感のある夏の写真表現。澄んだシアンブルーの空、純白に近い雲、生成り色の服とケースで統一。肌は自然な質感を残し、過度な美肌補正を避ける。雲城は柔らかな立体感と光の透過を持ち、写真の中に偶然現れたような現実感を保つ。爽やかで明るいハイキー調、繊細な風の動き、軽いフィルム粒子。
+
+ネガティブ：
+不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、脚の長さの不一致、スーツケースとの接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、城の左右対称化、実在作品に酷似した城、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2076920882552086697) | 2026-07-14
+
+---
+

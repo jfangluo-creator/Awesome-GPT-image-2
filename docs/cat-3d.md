@@ -5162,3 +5162,141 @@ A high-quality, studio-style photograph featuring a young woman with a warm smil
 
 ---
 
+### 🧸 例 4059：微缩女性强制透视肖像
+
+![微缩女性强制透视肖像](../../images/%E5%BE%AE%E7%BC%A9%E5%A5%B3%E6%80%A7%E5%BC%BA%E5%88%B6%E9%80%8F%E8%A7%86%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="subject" default="站在人手掌上的微缩女性"}，强制透视错觉，全身照，自信微笑，{argument name="hair style" default="留着长款灰棕色波浪卷发，配有柔和刘海"}，身穿 {argument name="jersey" default="最新的阿根廷国家队足球球衣"}，带有正宗的天蓝色和白色垂直条纹，蓝色牛仔裤，干净的白色运动鞋，休闲运动风格，优雅放松的姿势，双手插在前面的口袋里，柔和的自然妆容，照片级真实皮肤，超逼真的面部细节，浅景深，背景中有一个相同女性的巨大模糊版本，穿着同样的阿根廷球衣和牛仔裤，奶油般虚化的背景，柔和的日光，电影级布光，HDR，超细节的织物纹理，逼真的牛仔布褶皱，逼真的皮肤毛孔，超写实，85mm 镜头，f/1.4，杰作，8K，极高真实感，专业摄影，体积光，自然色彩分级，微缩人物焦点清晰，背景柔和模糊，梦幻氛围，顶级画质。
+
+负面提示词：
+低质量，低分辨率，模糊，卡通，动漫，CGI，3D 渲染，塑料皮肤，身体畸形，多余手指，多余肢体，人体结构错误，人物重复，裁剪，画面外，水印，Logo，文字，噪点，色彩过饱和，曝光不足，曝光过度，面部扭曲，比例不真实，伪影，运动模糊，手部绘制拙劣，透视错误，像素化，压缩伪影。
+
+[English]
+A {argument name="subject" default="tiny miniature woman standing on the palm of a human hand"}, forced perspective illusion, full-body shot, smiling confidently, {argument name="hair style" default="long ash-brown wavy hair with soft bangs"}, wearing the {argument name="jersey" default="latest Argentina national football jersey"} with authentic sky-blue and white vertical stripes, blue denim jeans, clean white sneakers, casual sporty style, elegant relaxed pose with hands in her front pockets, soft natural makeup, photorealistic skin, ultra-realistic facial details, shallow depth of field, giant blurred version of the same woman in the background wearing the same Argentina jersey and jeans, creamy bokeh, soft daylight, cinematic lighting, HDR, ultra-detailed fabric texture, realistic denim folds, realistic skin pores, hyperrealistic, 85mm lens, f/1.4, masterpiece, 8K, extremely high realism, professional photography, volumetric lighting, natural color grading, crisp focus on the miniature figure, soft blurred background, dreamy atmosphere, premium quality.
+
+Negative Prompt:
+low quality, low resolution, blurry, cartoon, anime, CGI, 3D render, plastic skin, deformed body, extra fingers, extra limbs, bad anatomy, duplicated person, cropped, out of frame, watermark, logo, text, noise, oversaturated, underexposed, overexposed, distorted face, unrealistic proportions, artifacts, motion blur, poorly drawn hands, bad perspective, pixelated, compression artifacts.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2077074536521183505) | 2026-07-14
+
+---
+
+### 🧸 例 4077：漂浮在太空中的芝士汉堡
+
+![漂浮在太空中的芝士汉堡](../../images/%E6%BC%82%E6%B5%AE%E5%9C%A8%E5%A4%AA%E7%A9%BA%E4%B8%AD%E7%9A%84%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的超现实 3D 渲染图，主体为一个巨大的漂浮 {argument name="food subject" default="双层芝士汉堡"}，悬浮在深邃的外太空中，位置略微偏向画面左侧。汉堡需清晰呈现 5 层食材：顶部是一个圆润光滑、带有细小芝麻状气孔的面包，接着是一片垂在边缘的融化切达芝士，中间是一块厚实的深色牛肉饼，下方是第二片融化的切达芝士，最底部是圆润的面包；芝士呈现出带有柔和褶皱的亮橙黄色，肉饼则具有粗糙的质感。背景为深蓝色和紫色的星空，布满无数细小的恒星，汉堡下方靠近中心偏下的位置有一颗明亮的金色小星，右上角有一道斜向掠过的发光螺旋星系/星云。光影效果应具备戏剧性和真实感，左前方投射出温暖的高光照亮面包和芝士，背景空间则提供冷蓝色的轮廓光。构图采用 16:9 宽屏比例，风格极简且具有标志性，无文字、无人物、无盘子、无包装、无水印，具备浅景深的电影感和高细节的写实 CGI 效果。
+
+[English]
+Create a cinematic surreal 3D render of a giant floating {argument name="food subject" default="double cheeseburger"} suspended in deep outer space, centered slightly left of frame. The burger has exactly 5 visible food layers: a smooth rounded top bun with tiny sesame-like pores, an upper melted cheddar cheese slice drooping over the edge, a thick dark beef patty, a second melted cheddar cheese slice, and a rounded bottom bun; make the cheese glossy orange-yellow with soft folds and the patties rough and textured. Use a dark blue and violet starfield background with countless tiny stars, one small bright golden star below the burger near the lower center, and a luminous spiral galaxy/nebula sweeping diagonally behind it in the upper right. Lighting should be dramatic and realistic, with warm highlights on the bun and cheese from the front-left and cool blue rim light from the space background. The composition is widescreen 16:9, minimal and iconic, no text, no people, no plate, no packaging, no watermark, with shallow cinematic depth and high-detail photorealistic CGI.
+```
+
+**来源：** [@Apple🌏🍏👑](https://x.com/makoto_so/status/2077027285354623215) | 2026-07-14
+
+---
+
+### 🧸 例 4088：深夜自动贩卖机小巷
+
+![深夜自动贩卖机小巷](../../images/%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E8%B4%A9%E5%8D%96%E6%9C%BA%E5%B0%8F%E5%B7%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+写实风格的日常背景与姿势设定，主角为一名成年 {argument name="subject" default="女性"}，时间设定在夜晚。
+
+背景特征：深夜中拥挤的 {argument name="location" default="日本自动贩卖机小巷"}，配有多个发光的饮料机、冷白色和蓝色的灯箱、色彩斑斓的产品窗光影、光亮的侧面板、狭窄的混凝土巷道墙壁、裸露的管道、几台扭蛋机、湿润路面的倒影，以及向黑暗中延伸的深邃巷道。场景应具有鲜明的城市感、氛围感，并由人工夜间照明驱动。仅使用虚构且不可辨认的产品视觉效果，不得出现真实商标或可读文字。
+
+景深锁定：构建强有力的前景、中景和背景层次。前景处，模糊的机器边缘、发光的按钮面板或湿润的路面反射应靠近镜头。中景处，主角站在一台自动贩卖机旁。背景处，额外的发光机器、管道和远处的巷道灯光营造出深度感。利用机器边缘和反射引导视线向后延伸。
+
+构图锁定：采用 4:5 竖构图生活照比例，从机器按钮高度附近取景，画面范围从大腿中部或腰部到头部。主角占据画面约 65%–75%。保留选定的机器面板、相邻机器的光影、狭窄的巷道深度和湿润地面的倒影。画面应呈现出真实的深夜城市瞬间，而非刻意的宣传照。
+
+动作与姿势锁定：主角自然地站在机器旁，双脚着地。一只手抬起靠近自动贩卖机的选择按钮，正在按下或悬停在按钮上方。另一只手拿着 {argument name="item" default="硬币或手机"}，或自然地垂在身体一侧。身体朝向机器，因查看选择而略微前倾。肩膀保持放松，手肘自然，姿势应符合选择饮料时的真实动作。
+
+相机与视线锁定：头部保持朝向机器和选择区域。相机位置略微偏向机器窗口，接近她眼睛与产品展示区之间的自然连线。无需完全转头看向镜头，仅眼神短暂转向镜头，保持侧向四分之三角度，同时维持正在选择的动作。
+
+避免：远离机器站立、手离开选择区域、完全正脸看向镜头、夸张的身体扭转、抬膝、死盯着镜头、宽阔的巷道全景、真实品牌 Logo、可读的产品标签。
+
+[English]
+Photorealistic everyday background-and-pose set featuring an adult {argument name="subject" default="woman"} at night.
+
+Background identity: a dense {argument name="location" default="Japanese vending-machine alley"} at night, with multiple glowing drink machines, cool white and blue light boxes, colorful product-window glow, glossy side panels, narrow concrete passage walls, exposed pipes, a few capsule machines, wet pavement reflections, and layered alley depth disappearing into darkness. The setting should feel unmistakably urban, atmospheric, and driven by artificial night lighting. Use fictional non-readable product visuals only, with no real logos and no readable text.
+
+Depth lock: build strong foreground, middle-ground, and background planes. In the foreground, a softly blurred machine edge, illuminated button panel, or wet pavement reflection enters close to the lens. In the middle ground, the subject stands close to one vending machine. In the background, additional glowing machines, pipework, and receding alley lights create depth. Use the machine edges and reflections to pull the eye backward.
+
+Composition lock: vertical 4:5 lifestyle crop from around machine-button height, framed from mid-thigh or waist to head. The subject fills about 65–75% of the frame. Keep the selected machine panel, neighboring machine glow, narrow alley depth, and wet ground reflections visible. The image should feel like a real late-night city moment, not a posed promo shot.
+
+Action and pose lock: the subject stands naturally close to the machine with both feet grounded. One hand is raised toward the vending-machine selection buttons, either pressing a button or hovering just before pressing it. The other hand holds {argument name="item" default="coins, a phone"}, or rests naturally near the body. Her body angles toward the machine, with a slight forward lean caused by checking the selection. Shoulders stay relaxed, elbows natural, and the pose should remain grounded in the real action of choosing a drink.
+
+Camera and gaze lock: her head remains directed toward the machine and selection area. The camera is positioned slightly beside the machine window, near the natural line between her eyes and the product display. Without turning her face fully toward the camera, only her eyes shift briefly toward the lens, preserving the side-facing three-quarter angle and the ongoing selecting action.
+
+Avoid: standing away from the machine, hands leaving the selection area, full face turn toward the camera, dramatic body twist, raised knee, hard stare, wide alley overview, real brand logos, readable product labels.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2077000910752915624) | 2026-07-14
+
+---
+
+### 🧸 例 4100：小狗与机器狗吃冰淇淋场景
+
+![小狗与机器狗吃冰淇淋场景](../../images/%E5%B0%8F%E7%8B%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E7%8B%97%E5%90%83%E5%86%B0%E6%B7%87%E6%B7%8B%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个迷人的 3D 动画玩具风格客厅场景。一个可爱的拟人化小狗男孩，有着棕色和奶油色的毛发，坐在木制咖啡桌旁，身穿带有黑色条纹的亮黄色连帽衫，头戴反向佩戴的黄色棒球帽。他开心地笑着，手里拿着一勺香草冰淇淋；桌上放着一个白色的冰淇淋杯，杯上用蓝色字样标有“ICE CREAM”并配有一个小爪印图标；冰淇淋上淋着巧克力酱并撒着彩色糖针。在他旁边站着一只小型犬形伴侣机器人，有着垂耳、奶油色身体、棕褐色斑点、小爪子，以及一个圆角方形的 CRT 风格屏幕脸，显示着发光的绿色像素眼睛和微小的狗鼻子/嘴部表情。机器人双手合十，渴望地看着甜点，头顶上方有一个白色的气泡，里面正好包含 1 个与实物相同的冰淇淋杯。桌上需包含 3 个可见物品：冰淇淋杯、小狗手中的勺子，以及一个带有爪印的小型圆形浅蓝色杯垫或盖子。背景设定为温馨、柔和的家居室内：米色沙发配有绿色和黄色靠垫，左侧有透进日光的大窗户，沙发后方有发光的落地灯，右侧有书架，书架上摆放着书籍、植物、相框（包括一张可爱的狗肖像）以及一个编织植物篮。采用高质量的皮克斯风格 3D 渲染，柔和的景深，圆润的形状，毛绒玩具质感，温暖的金色光影，富有表现力的大眼睛，营造出治愈且俏皮的氛围。构图保持 16:9 横屏，平视视角，小狗在左，机器狗在右，无额外角色，无水印。
+
+[English]
+Create a charming 3D animated toy-style scene in a cozy living room. A cute anthropomorphic puppy boy with brown-and-cream fur sits at a wooden coffee table, wearing a bright yellow hoodie with black sleeve stripes and a backward yellow baseball cap. He smiles happily while holding a spoonful of vanilla ice cream, with a white ice cream cup on the table labeled “ICE CREAM” in blue with a small paw-print icon; the ice cream has chocolate syrup and colorful sprinkles. Beside him stands a small dog-shaped companion robot with floppy ears, cream body, tan patches, little paws, and a rounded square CRT-style screen face showing glowing green pixel eyes and a tiny dog nose/mouth expression. The robot clasps its paws and looks longingly at the dessert, with a white thought bubble above it containing exactly 1 ice cream cup matching the real one. Include exactly 3 visible table items: the ice cream cup, the spoon held by the puppy, and a small round light-blue coaster or lid with a paw print. Set the background as a warm, softly lit home interior: beige sofa with green and yellow pillows, large window with daylight on the left, floor lamp glowing behind the sofa, bookshelf on the right with books, plants, framed pictures including a cute dog portrait, and a woven plant basket. Use high-quality Pixar-like 3D rendering, soft depth of field, rounded shapes, plush toy textures, warm golden lighting, expressive oversized eyes, and a wholesome playful mood. Keep the composition horizontal 16:9, eye-level, with the puppy on the left and robot dog on the right, no extra characters, no watermark.
+```
+
+**来源：** [@mic](https://x.com/333mic999/status/2076950436683375026) | 2026-07-14
+
+---
+
+### 🧸 例 4106：3D 皮克斯风格女孩与全家福肖像
+
+![3D 皮克斯风格女孩与全家福肖像](../../images/3D%20%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E5%A5%B3%E5%AD%A9%E4%B8%8E%E5%85%A8%E5%AE%B6%E7%A6%8F%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+逼真的 3D 皮克斯风格卡通插画，主角是一位可爱的小女孩，有着巨大的、富有表现力的棕色眼睛，红润的脸颊，黑色头发扎成侧马尾，戴着一个 {argument name="hair clip" default="小黄鸭发夹"}，穿着一件 {argument name="outfit" default="装饰有兔子、爱心和花朵图案的淡薄荷绿配粉色连衣裙"}，搭配粉色凉鞋和花朵形状的单肩包。她开心地站在一幅巨大的木框全家福肖像旁，面带灿烂笑容指着照片。肖像中展示了一个幸福的四口之家（父亲、母亲、哥哥和小妹妹），他们在温暖的金色阳光下站在户外，背景是郁郁葱葱的绿植。干净的白色摄影棚背景，柔和的自然光，超精细纹理，电影级构图，鲜艳的柔和色彩，光泽感 3D 渲染，迪士尼/皮克斯风格人物设计，浅景深，优质画质，8K 分辨率。顶部有一个简洁的对话气泡，仅包含文本："{argument name="speech bubble text" default="Ye meri family hai..."}" 后跟 🥹❤️。无 Instagram 界面，无水印，无用户名，无 UI 元素，无额外文字，无 Logo，干净简约的构图。
+
+[English]
+realistic 3D Pixar-style cartoon illustration of an adorable little girl with huge expressive brown eyes, rosy cheeks, black hair tied in a side ponytail with a {argument name="hair clip" default="small yellow duck hair clip"}, wearing a {argument name="outfit" default="pastel mint-and-pink dress decorated with bunny, heart, and flower patterns"}, matching pink sandals, and a flower-shaped shoulder bag. She is happily standing beside a large wooden-framed family portrait, pointing at it with a cheerful smile. The portrait shows a loving family of four (father, mother, older brother, and little sister) standing together outdoors in warm golden sunlight with lush greenery in the background. A clean white studio background, soft natural lighting, ultra-detailed textures, cinematic composition, vibrant pastel colors, glossy 3D rendering, Disney/Pixar-inspired character design, shallow depth of field, premium quality, 8K resolution. At the top, a clean speech bubble contains only the text: "{argument name="speech bubble text" default="Ye meri family hai..."}" followed by 🥹❤️. No Instagram interface, no watermark, no username, no UI elements, no extra text, no logos, clean minimal composition.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2076928297561432115) | 2026-07-14
+
+---
+
+### 🧸 例 4133：奇幻 3D 幼儿浴室插画
+
+![奇幻 3D 幼儿浴室插画](../../images/%E5%A5%87%E5%B9%BB%203D%20%E5%B9%BC%E5%84%BF%E6%B5%B4%E5%AE%A4%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅奇幻且细节极其丰富的 3D 插画，画中是一个可爱的幼儿女孩，有着大大的头和富有表现力的大眼睛，赤脚站在 {argument name="location" default="白色浴室洗手池"} 里。她正平衡地站在一个 {argument name="prop" default="巨大的牙膏管"} 上，用一把 {argument name="toothbrush color" default="蓝色牙刷"} 刷牙。水花四溅，凝固在半空中，形成闪闪发光的水滴。孩子留着深棕色的头发，扎成凌乱的丸子头，别着彩色发夹，身穿宽松的灰色 T 恤和印花短裤。柔和的自然晨光透过窗户射入，营造出干净、舒适的浴室氛围。皮克斯风格角色设计，Q 版比例，超写实纹理，浅景深，明亮的柔和色调，俏皮欢快的氛围，超高分辨率，电影级布光。
+
+[English]
+A whimsical, ultra-detailed 3D illustration of a cute toddler girl with an oversized head and big expressive eyes, standing barefoot inside a {argument name="location" default="white bathroom sink"}. She is balancing on a {argument name="prop" default="giant toothpaste tube"} while brushing her teeth with a {argument name="toothbrush color" default="blue toothbrush"}. Water splashes everywhere, frozen mid-air in sparkling droplets. The child has dark brown hair tied in a messy bun with colorful hair clips, wearing a loose gray t-shirt and patterned shorts. Soft natural morning light streams through a window, creating a clean, cozy bathroom atmosphere. Pixar-style character design, chibi proportions, hyper-realistic textures, shallow depth of field, bright pastel colors, playful and joyful mood, ultra-high resolution, cinematic lighting.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2076868242807886163) | 2026-07-14
+
+---
+

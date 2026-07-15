@@ -10329,3 +10329,226 @@ Create a vertical 3:4 anime-style illustration of {argument name="character name
 
 ---
 
+### 🏷️ 例 4062：90 年代复古纱丽电影感美学
+
+![90 年代复古纱丽电影感美学](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E7%BA%B1%E4%B8%BD%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BE%8E%E5%AD%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+基于参考图，创作一张复古、带有颗粒感但明亮的图像，主体身着完美的 {argument name="color" default="白色"} 纱丽。
+具有 Pinterest 风格的 {argument name="garment" default="复古纱丽"} 和红色手镯。画面需呈现 90 年代电影质感，直发微卷，手持一束 {argument name="flowers" default="红玫瑰"}，营造出浪漫且带有微风的环境。女孩低头站立在纯色墙面前，深邃的阴影与高对比度光影交织，营造出神秘而艺术的氛围。
+
+[English]
+Create a retro vintage grainy but bright image of the reference picture but draped in a perfect {argument name="color" default="white colour"}.
+Pinteresty aesthetic {argument name="garment" default="retro saree"} and red bangles. It must feel like a 90s movie straight wavy hair with a bouquet of {argument name="flowers" default="red roses"} and romanticising windy environment. The girl is looking down standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic.
+```
+
+**来源：** [@Talia](https://x.com/TaliaAariz/status/2077059403518247403) | 2026-07-14
+
+---
+
+### 🏷️ 例 4066：巴黎柔和纸艺拼贴画
+
+![巴黎柔和纸艺拼贴画](../../images/%E5%B7%B4%E9%BB%8E%E6%9F%94%E5%92%8C%E7%BA%B8%E8%89%BA%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的 2:3 竖版插画，描绘 {argument name="city" default="PARIS"}，采用极简柔和的纸艺拼贴风格，并融入强烈的多视角当代数字绘画质感。展现明亮柔和的日光。以 {argument name="landmark" default="Eiffel Tower"} 作为清晰的核心地标。周围环绕简化的巴黎场景：一小段 {argument name="river" default="Seine"}、一座桥梁、几栋奥斯曼风格建筑、一条林荫步道、一辆自行车或一个咖啡馆露台，以及几位漫步的行人。构图保持优雅、开阔且极简，留出充足的呼吸空间。运用巧妙的多视角空间处理：屋顶采用微俯视视角，河岸采用柔和的侧角，咖啡馆或自行车区域则采用行人视平线视角。将建筑简化为大块的干净形状，减少阳台、窗户、道具和装饰细节。风格：哑光纸质剪贴画、分层的柔和色块、细腻的纸张纹理、柔和的阴影、克制的半透明叠加层以及少量精致的数字轮廓线。色调：暖奶油色、浅米色、柔和天蓝色、朦胧蓝灰色、柔和鼠尾草绿、灰珊瑚色、浅石色、灰白色，并点缀少量赤陶色、钴蓝色和柔和绿色。阴影采用柔和的薰衣草色或冷灰蓝色。左上角文字：“PARIS” “파리 · Paris” “Eiffel Tower & Seine”。避免照片级真实感、拥挤的游客场景、过多的咖啡馆物品、密集的建筑细节、可读的标识、徽标以及杂乱的拼贴碎片。
+
+[English]
+Create a refined vertical 2:3 illustration of {argument name="city" default="PARIS"} in a minimal pastel paper-collage style with a strong multi-viewpoint contemporary digital-painting sensibility. Show bright soft daylight. Use the {argument name="landmark" default="Eiffel Tower"} as the clear main focal landmark. Surround it with a simplified Paris scene: a small stretch of the {argument name="river" default="Seine"}, one bridge, a few Haussmann-style building blocks, a tree-lined walkway, one bicycle or one café terrace, and a few strolling pedestrians. Keep the composition elegant, open, and minimal with generous breathing space. Use gentle multi-viewpoint space: rooftops slightly from above, riverside from a soft side angle, and the café or bicycle area from pedestrian eye level. Simplify architecture into larger clean shapes and reduce balconies, windows, props, and decorative detail. Style: matte paper cutout collage, layered pastel planes, subtle paper grain, soft shadows, restrained translucent overlays, and a few fine digital contour lines. Palette: warm cream, pale beige, soft sky blue, hazy blue-gray, muted sage, dusty coral, pale stone, off-white, with selective accents of terracotta, cobalt blue, and muted green. Soft lavender or cool gray-blue shadows. Typography upper-left: “PARIS” “파リ · Paris” “Eiffel Tower & Seine” Avoid photorealism, crowded tourist scenes, too many café objects, dense architectural detail, readable signage, logos, and busy collage fragments.
+```
+
+**来源：** [@Duet | AI](https://x.com/Sheldon056/status/2077038089936236555) | 2026-07-14
+
+---
+
+### 🏷️ 例 4076：动漫摇滚双人组与吉他及乐谱
+
+![动漫摇滚双人组与吉他及乐谱](../../images/%E5%8A%A8%E6%BC%AB%E6%91%87%E6%BB%9A%E5%8F%8C%E4%BA%BA%E7%BB%84%E4%B8%8E%E5%90%89%E4%BB%96%E5%8F%8A%E4%B9%90%E8%B0%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版高能动漫插画，画面中包含两名年轻男性音乐家，他们身着配套的亮面黑色正装、白色衬衫和黑色领带，以极具张力的摇滚双人组姿态紧密靠在一起，背景为鲜艳的血红色，并带有黑色墨迹飞溅和对角线笔触。左侧角色为 {argument name="left character" default="一位开朗的黑发吉他手"}：留着凌乱蓬松的黑发，带有明亮的高光，琥珀金色的眼睛，皮肤白皙，张嘴露出兴奋的笑容，身体前倾面向观众，怀抱一把红白相间的电吉他；展示他放在指板上的左手，吉他琴颈在画面下半部分呈对角线延伸。右侧角色为 {argument name="right character" default="一位严肃的白发乐谱阅读者"}：留着凌乱的白/银色头发，松散地扎在脑后，有几缕碎发，琥珀金色的眼睛，皮肤白皙，表情严肃且略带烦躁，戴着白色手套，一只手抬起靠近耳朵，仿佛在进行严苛的聆听，另一只手在右下方拿着一张印有乐谱的纸。采用精致的漫画/动漫风格，线条锐利，黑色阴影浓重，西装反光细腻，发丝细节丰富，眼神生动，构图动态且经过裁剪，带有轻微的荷兰式倾斜视角，采用高对比度的红、黑、白配色。画面除乐谱上不可辨认的五线谱和音符外，保持无文字状态；无 Logo，无水印，无额外角色，无额外乐器。
+
+[English]
+Create a vertical 9:16 high-energy anime illustration of exactly two young male musicians in matching glossy black formal suits, white dress shirts, and black ties, posed tightly together like a dramatic rock duo against a vivid blood-red background with black ink splatters and diagonal brush strokes. The left character is {argument name="left character" default="a cheerful black-haired guitarist"}: messy fluffy black hair with bright highlights, amber-gold eyes, pale skin, an open-mouthed excited smile, leaning forward toward the viewer while playing exactly one red-and-white electric guitar strapped across his body; show his left hand on the fretboard in the foreground and the guitar neck cutting diagonally across the lower half of the image. The right character is {argument name="right character" default="a stern white-haired sheet-music reader"}: tousled white/silver hair tied loosely back with stray strands, amber-gold eyes, pale skin, a serious annoyed expression, wearing white gloves, raising one gloved finger near his ear as if listening critically, and holding exactly one sheet of printed music notation in his other hand at the lower right. Use a polished manga/anime style with sharp line art, dramatic black shadows, glossy suit reflections, detailed hair strands, expressive eyes, dynamic cropped composition, slight Dutch-angle energy, and high contrast red-black-white color design. Keep the image text-free except for the unreadable staff lines and musical notes on the sheet music; no logos, no watermark, no extra characters, no extra instruments.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077030129331777552) | 2026-07-14
+
+---
+
+### 🏷️ 例 4081：樱花房中粉发和服少女
+
+![樱花房中粉发和服少女](../../images/%E6%A8%B1%E8%8A%B1%E6%88%BF%E4%B8%AD%E7%B2%89%E5%8F%91%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫视觉小说风格插图，描绘一位名叫 {argument name="character name" default="Sakura"} 的害羞少女，她正站在春日的日式榻榻米房间内。她留着 {argument name="hair color" default="柔和淡粉色"} 的短圆波波头，有着明亮的大蓝眼睛，戴着细框圆眼镜，皮肤白皙，表情若有所思且略带惊讶，一只手轻抬至唇边。为她穿上一件 {argument name="kimono color" default="淡粉色"} 和服，和服上带有精致的白色樱花图案，袖口宽大，系着深海军蓝色的腰带，腰带上有金色交叉纹理、黄色镶边以及一个小红绳装饰。房间应包含榻榻米、深色木梁，以及向阳光明媚的庭院敞开的障子推拉门，温暖的自然光投下柔和的阴影。室外展示一个宁静的日式传统庭院，庭院中要有 2 棵显眼的盛开樱花树、一条石径、绿植以及远处的木质建筑。在房间右侧放置 1 张矮木茶几，茶几上摆放 3 件物品：一个绿茶杯、一个插有树枝或小花的小圆花瓶，以及一份包装好的甜点或零食。添加室内外飘落的樱花花瓣，营造电影般的景深效果，线条清晰，高光亮丽，布料褶皱细节丰富，色调温暖且略带金色，构图高分辨率，无文字，无水印。
+
+[English]
+Create a polished anime visual-novel style illustration of a shy young woman named {argument name="character name" default="Sakura"} standing indoors in a traditional Japanese tatami room during spring. She has a short rounded bob haircut in {argument name="hair color" default="soft pastel pink"}, large bright blue eyes, round thin-rimmed glasses, fair skin, and a thoughtful slightly surprised expression with one hand raised near her lips. Dress her in a {argument name="kimono color" default="pale pink"} kimono with subtle white cherry blossom motifs, wide sleeves, a dark navy obi with gold crisscross patterning, yellow trim, and a small red cord accent. The room should have tatami mats, dark wooden beams, shoji sliding doors opened wide to a sunlit garden, and warm natural light casting soft shadows. Outside, show a serene traditional Japanese garden with exactly 2 prominent blooming cherry blossom trees, a stone path, greenery, and distant wooden architecture. On the right side of the room include exactly 1 low wooden tea table holding exactly 3 items: a green tea cup, a small round vase with a twig or tiny blossoms, and a wrapped sweet or snack. Add drifting cherry blossom petals both inside and outside, cinematic depth of field, clean line art, glossy highlights, detailed fabric folds, warm slightly golden color grading, high-resolution composition, no text, no watermark.
+```
+
+**来源：** [@とのち｜AI漫画](https://x.com/ai_tonoch/status/2077021942042030531) | 2026-07-14
+
+---
+
+### 🏷️ 例 4091：海滨敞篷车与柠檬苏打
+
+![海滨敞篷车与柠檬苏打](../../images/%E6%B5%B7%E6%BB%A8%E6%95%9E%E7%AF%B7%E8%BD%A6%E4%B8%8E%E6%9F%A0%E6%AA%AC%E8%8B%8F%E6%89%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅生动的夏季海滨场景，采用精致的动漫写实插画风格，构图比例为 2:3 竖屏。在左下角的前景中，放置一张圆形的白色咖啡桌，桌上放着 1 杯高透明玻璃杯装的冰镇柠檬苏打，杯中可见气泡、冷凝水珠和 1 片柠檬；阳光在桌面上投下清晰的棕榈叶阴影。在右侧，展示一辆光泽亮丽的 {argument name="car color" default="亮红色"} 复古敞篷跑车，停在白色海滨建筑旁，驾驶座车门敞开，可见黑色仪表盘、棕褐色真皮座椅、方向盘和镀铬轮毂，车身上映出棕榈叶的强烈倒影。建筑拥有白色灰泥墙、深屋檐、绿松石色窗框、大面积反光玻璃窗以及锐利的热带阴影。上方从顶部边缘延伸出棕榈叶，在墙面和车身上投下长长的阴影。背景是一条安静的海滨公路，沿着湛蓝的大海向远处延伸，配有白色护栏、鹅卵石路面、低矮的浪花、远处的海岸线，以及布满高耸白色积云的深蓝色天空。采用强烈的正午阳光，高对比度，饱和的青色海洋与天空，营造干净的度假氛围，线条清晰，倒影细节丰富，画面中无人、无 Logo、无可见文字、无水印。强调在炎热的海滨咖啡馆度过一天后，享用一杯冰镇 {argument name="drink" default="柠檬苏打"} 的清凉感。
+
+[English]
+Create a vivid summer coastal scene in polished anime-realistic illustration style, vertical 2:3 composition. In the foreground at the lower left, place a round white café table holding exactly 1 tall clear glass of sparkling lemon soda with ice, visible bubbles, condensation, and exactly 1 lemon wedge inside; sunlight casts crisp palm-leaf shadows across the table. On the right side, show a glossy {argument name="car color" default="bright red"} vintage convertible sports car parked beside a white seaside building, with the driver-side door open, black dashboard, tan leather seats, steering wheel visible, chrome wheels, and strong reflections of palm fronds on the car body. The building has white stucco walls, a deep roof eave, turquoise-blue window frames, large reflective glass panes, and sharp tropical shadows. Overhead, include palm leaves entering from the top edge, casting long shadows on the wall and car. The background opens to a quiet oceanfront road running into the distance along a bright blue sea, with white railings, cobblestone pavement, low waves, a distant shoreline, and a dramatic deep blue sky filled with towering white cumulus clouds. Use intense midday sunlight, high contrast, saturated cyan ocean and sky, clean resort atmosphere, crisp linework, detailed reflections, and no people, no logos, no readable text, no watermark. Emphasize the feeling of drinking an ice-cold {argument name="drink" default="lemon soda"} after a hot day at a seaside café.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2076981378374332860) | 2026-07-14
+
+---
+
+### 🏷️ 例 4096：比出 OK 手势的动漫女性
+
+![比出 OK 手势的动漫女性](../../images/%E6%AF%94%E5%87%BA%20OK%20%E6%89%8B%E5%8A%BF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精美的动漫风格插画，从上方俯视视角描绘一位躺在柔软白色床品上的开朗年轻女性，采用竖版肖像构图。她有着 {argument name="hair color" default="深棕色"} 的头发，扎成高高的松散马尾，向右上方散开，额前有细碎的刘海和散落的发丝；她有着温暖的棕色眼睛、细长的黑色椭圆眼镜、白皙的皮肤，以及温柔的微张笑脸。她身穿一件无袖白色半透明百褶衬衫，配有高领立领和细腻的褶皱，下身搭配浅蓝色修身铅笔裙。她的左手举在脸庞旁边做出 OK 手势，另一只手臂轻柔地交叉在躯干附近。强调优雅、友好且略带俏皮的表情，柔和的腮红，细腻的线条，光泽感的发丝高光，以及柔和的水彩风格阴影。背景是干净的白色床单，带有淡淡的褶皱和浅蓝灰色的阴影，采用高调照明，柔和的漫射阴影，明亮通透的氛围，无文字，无水印，无多余角色，无脸部或手部裁剪。
+
+[English]
+Create a polished anime-style illustration of a cheerful young woman viewed from above as she lies on soft white bedding, centered in a vertical portrait composition. She has {argument name="hair color" default="dark brown"} hair tied in a high loose ponytail fanning to the upper right, with wispy bangs and stray strands around her face, warm brown eyes, thin oval black glasses, fair skin, and a gentle open-mouth smile. She wears a sleeveless white semi-sheer pleated blouse with a high mandarin collar and subtle fabric folds, paired with a pale blue fitted pencil skirt. Her left hand is raised beside her face making an OK sign, while her other arm crosses softly under it near her torso. Emphasize an elegant, friendly, slightly playful expression, soft blush, delicate linework, glossy hair highlights, and pastel watercolor-like shading. The background is a clean white bed sheet with faint wrinkles and pale blue-gray shadows, high-key lighting, soft diffuse shadows, bright airy atmosphere, no text, no watermark, no extra characters, no cropped face or hands.
+```
+
+**来源：** [@えんたんぐるず](https://x.com/entanglez4/status/2076965785222910156) | 2026-07-14
+
+---
+
+### 🏷️ 例 4101：提示词：
+
+{
+  "task": "portrait_replacement_editorial_
+
+![提示词：
+
+{
+  "task": "portrait_replacement_editorial_](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%7B%20task%20portrait_replacement_editorial_.jpg)
+
+**Prompt:**
+
+```text
+{
+  "task": "portrait_replacement_editorial_series",
+  "goal": "将原图中的人物替换为用户上传的人像参考，保留原图构图、姿势、表情、光影和极简杂志感，同时移除所有logo、水印、商标、署名与版权相关元素，并加入原创故障风英文排版。",
+  "reference_usage": {
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2076949098008330255) | 2026-07-14
+
+---
+
+### 🏷️ 例 4103：水彩儿童绘本插画
+
+![水彩儿童绘本插画](../../images/%E6%B0%B4%E5%BD%A9%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+充满奇趣的手绘水彩与彩色铅笔插画，描绘宁静的日常生活场景，灵感源自温馨的复古儿童绘本。创作一个细节丰富、充满故事感的环境，展现迷人的普通人 {argument name="activities" default="在温暖的厨房烹饪、照料郁郁葱葱的花园、在木桌旁共享下午茶、在安静的社区工作，或在乡间小路上相遇"}。采用随性且不完美的黑色墨水轮廓、稚拙的手绘比例、可见的铅笔笔触、柔和的水彩渲染、略显不均匀的着色以及温暖的纸张质感，{argument name="color palette" default="柔和的红、绿、蓝、黄及大地色系的橙色"}。在构图中填充细小的叙事细节：{argument name="objects" default="花朵、枝叶繁茂的树木、盆栽、猫或小狗、鸟儿、杯子、厨房用具、水果碗、旧家具、散落的秋叶以及温馨的家居用品"}。宽幅绘本构图，趣味视角，平静怀旧的氛围，温暖的人文情感，传统的模拟插画风格，扫描后的复古纸张质感，无写实感，无 3D 效果，无光泽的数字艺术感，无文字，高度细致的编辑类儿童绘本艺术作品。
+
+[English]
+Whimsical hand-drawn watercolor and colored-pencil illustration of a peaceful everyday life scene, inspired by a cozy vintage children's picture book. Create a richly detailed, story-filled environment with charming ordinary people {argument name="activities" default="cooking in a warm kitchen, tending a lush garden, sharing tea at a wooden table, working in a quiet neighborhood, or meeting on a countryside path"}. Loose imperfect black ink outlines, naive hand-drawn proportions, visible pencil marks, soft watercolor washes, slightly uneven coloring, warm paper texture, {argument name="color palette" default="gentle muted reds, greens, blues, yellows and earthy oranges"}. Fill the composition with tiny narrative details: {argument name="objects" default="flowers, leafy trees, potted plants, cats or small dogs, birds, cups, kitchen utensils, fruit bowls, old furniture, scattered autumn leaves and cozy household objects"}. Wide storybook composition, playful perspective, calm nostalgic atmosphere, warm human emotion, traditional analog illustration, scanned vintage paper feel, no photorealism, no 3D, no glossy digital art, no text, highly detailed editorial children's book artwork.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2076946416598143070) | 2026-07-14
+
+---
+
+### 🏷️ 例 4105：液态铬金属 T 台模特
+
+![液态铬金属 T 台模特](../../images/%E6%B6%B2%E6%80%81%E9%93%AC%E9%87%91%E5%B1%9E%20T%20%E5%8F%B0%E6%A8%A1%E7%89%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的竖版动漫时尚 T 台插画，描绘一位未来感女性模特正径直走向观众，行走在光亮的黑色 T 台上。她留着 {argument name="hair color" default="银白色短波波头"}，皮肤苍白，眼神深邃湛蓝，表情冷静自信。采用低角度正面视角，以展现其强大且英气的轮廓。为她穿上一件 {argument name="dress color and material" default="黑色液态铬金属高定礼服"}，设计包含不对称露肩上衣、高领细节、雕塑感流线型荷叶边、高开叉裙摆，以及如同流体般环绕身体并延伸至地面的湿润熔融金属边缘。画面中需包含三个核心铬金属时尚元素：两只镜面抛光的液态金属手臂袖套/手套，以及前腿上的一只显眼的镜面抛光大腿高筒铠甲靴，所有金属表面均反射出电光蓝、紫、白和洋红色的高光。T 台环境昏暗且具有镜面质感，模特脚下有液态铬金属形成的涟漪水洼，并伴有清晰的倒影。背景：一个昏暗的奢华时装秀场，两侧是模糊的观众席，配有高大的黑色垂直面板，以及四盏清晰可见的亮蓝色舞台灯（左右各两盏），光束穿过薄雾呈对角线投射。灯光需强调极致的对比度：深邃的黑色阴影、发丝和肩部周围的轮廓光、霓虹蓝紫色的反射、闪烁的铬金属高光，以及来自上方的电影级聚光灯。风格：高细节日本动漫插画、优雅高定、液态金属铬效果、光亮湿润的表面、动态的织物褶皱、锐利的线条、浓郁饱和的蓝色与紫色调，无文字、无 Logo、无水印。
+
+[English]
+Create a dramatic vertical anime fashion runway illustration of one futuristic female model walking directly toward the viewer on a glossy black catwalk. She has {argument name="hair color" default="short silvery-white bob hair"}, pale skin, intense blue eyes, and a calm confident expression, viewed from a low front angle for a powerful heroic silhouette. Dress her in a {argument name="dress color and material" default="black liquid-chrome high-fashion gown"} with an asymmetrical off-shoulder bodice, high neck detail, sculptural flowing ruffles, a high thigh slit, and wet molten-metal edges that splash and curl like fluid around her body and onto the floor. Include exactly three major chrome body-fashion elements: two mirror-polished liquid-metal arm sleeves/gloves and one prominent mirror-polished thigh-high armored boot/leg on the front leg, all reflecting electric blue, violet, white, and magenta highlights. The runway is dark, reflective, and mirror-like, with rippling puddles of liquid chrome around her feet and a clear reflection beneath her. Background: a dim luxury fashion show venue with blurred seated audiences on both sides, tall black vertical panels, and exactly four visible bright blue stage lights, two on the left and two on the right, casting diagonal beams through haze. Lighting should emphasize extreme contrast: deep black shadows, radiant rim light around the hair and shoulders, neon blue and purple reflections, sparkling chrome specular highlights, and a cinematic spotlight from above. Style: highly detailed Japanese anime illustration, elegant couture, liquid metal chrome effect, glossy wet surfaces, dynamic fabric motion, sharp linework, rich saturated blues and purples, no text, no logo, no watermark.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2076932197324656640) | 2026-07-14
+
+---
+
+### 🏷️ 例 4108：全身青色双马尾动漫偶像
+
+![全身青色双马尾动漫偶像](../../images/%E5%85%A8%E8%BA%AB%E9%9D%92%E8%89%B2%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="character name" default="初音未来"} 的全身动漫偶像插画，背景为干净的纯白色，人物居中，周围留有充足的空白。她是一位开朗的青少年虚拟歌手，拥有非常长且飘逸的 {argument name="hair color" default="青绿色"} 双马尾、光泽感的青色双眼，以及充满活力的张嘴微笑。让她摆出舞台表演时的动态姿势：一条腿抬起并弯曲，身体微微转动，右手拿着黑色手持麦克风靠近嘴边，左臂向外伸展，手掌朝向观众。服装：无袖白灰色未来感上衣配青色饰边，青色领带，黑色短百褶裙配鲜艳的青色边缘，分离式光泽感黑色袖套配青色袖口，黑色过膝长靴配青色点缀，以及黑红色耳机发饰。在上臂处包含小小的红色“01”标记。采用精致的日系动漫主视觉风格，线条清晰，明亮的赛璐璐阴影混合柔和的水彩感高光，细致的亮泽发丝，双马尾充满动感，对比度高且干净，无背景道具，无文字，无水印。
+
+[English]
+Create a full-body anime idol illustration of {argument name="character name" default="Hatsune Miku"} on a clean plain white background, centered with generous empty space around the figure. She is a cheerful teenage virtual singer with very long flowing twin-tails in bright {argument name="hair color" default="turquoise teal"}, glossy teal eyes, and an energetic open-mouth smile. Pose her dynamically as if performing on stage: one leg lifted and bent, body turned slightly, right hand holding a black handheld microphone near her mouth, left arm extended outward with an open palm toward the viewer. Outfit: sleeveless white-gray futuristic blouse with teal trim, teal necktie, short black pleated skirt with vivid teal edging, detached glossy black arm sleeves with teal cuffs, black thigh-high boots with teal accents, and black-and-red headset hairpieces. Include the small red “01” marking on her upper arm. Use polished Japanese anime key visual style with crisp line art, bright cel shading mixed with soft watercolor-like highlights, detailed shiny hair strands, lively motion in the twin-tails, clean high contrast, no background props, no text, no watermark.
+```
+
+**来源：** [@RAINBOW佐崎 / rainbows](https://x.com/rainbowsazaki/status/2076924490249105720) | 2026-07-14
+
+---
+
+### 🏷️ 例 4129：身着海军蓝蕾丝礼服的优雅模特
+
+![身着海军蓝蕾丝礼服的优雅模特](../../images/%E8%BA%AB%E7%9D%80%E6%B5%B7%E5%86%9B%E8%93%9D%E8%95%BE%E4%B8%9D%E7%A4%BC%E6%9C%8D%E7%9A%84%E4%BC%98%E9%9B%85%E6%A8%A1%E7%89%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级逼真，8k，高分辨率摄影，一位 {argument name="age" default="22 岁"} 美丽的 {argument name="ethnicity" default="斯堪的纳维亚裔"} 模特，拥有纤细腰身、修长双腿和金色长发，身材高挑健美，身处公寓客厅中，身着 {argument name="outfit" default="深海军蓝无袖蕾丝礼服"} 回眸凝视。她佩戴着多条银色项链，并点缀着闪耀的水晶吊坠耳环。光线柔和且富有氛围感，衬托出她如瓷器般细腻的肌肤，背景为梦幻般的客厅。
+
+[English]
+Photorealistic, 8k, HIGH-RESOLUTION PHOTOGRAPH, A {argument name="age" default="22 year old"} beautiful {argument name="ethnicity" default="Scandinavian"} model with a slim waist, long legs , long blonde hair, tall athletic, in a living room apartment, looking over her shoulder in a {argument name="outfit" default="dark navy blue sleeveless lace gown"}. Her accessories include multiple silver necklaces. She is further embellished with sparkling crystal drop earrings. The lighting is soft and atmospheric, highlighting her porcelain skin against a dreamy, living room background
+```
+
+**来源：** [@David](https://x.com/tealdog2/status/2076881249457799506) | 2026-07-14
+
+---
+
+### 🏷️ 例 4140：专业角色设计图
+
+![专业角色设计图](../../images/%E4%B8%93%E4%B8%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+角色设计图：根据上传的参考图像，为 {argument name="character role" default="主角"} 创建一份专业角色设计图：包含正面视图、侧面视图、背面视图，三种面部表情：{argument name="expressions" default="专注、怀疑、释然"}，装备/配饰特写，{argument name="background" default="中性简洁背景"}，确保所有视图中的角色设计保持一致，采用专业概念艺术风格，而非卡通风格。
+
+[English]
+Character Sheet: Create a professional character design sheet from the uploaded reference image for a {argument name="character role" default="main character"}: Front view, Side view, Back view, Three facial expressions: {argument name="expressions" default="focused, skeptical, relieved"}, Close-up of gear/accessories, {argument name="background" default="Neutral clean background"}, Consistent character design across all views, Professional concept art style, not cartoonish
+```
+
+**来源：** [@Curious Refuge](https://x.com/CuriousRefuge/status/2076845686138802235) | 2026-07-14
+
+---
+

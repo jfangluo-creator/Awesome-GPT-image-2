@@ -3463,3 +3463,59 @@ Create a clean, premium storyboard infographic for a product ASMR unboxing video
 
 ---
 
+### 📊 例 4054：90 年代游戏攻略指南页面
+
+![90 年代游戏攻略指南页面](../../images/90%20%E5%B9%B4%E4%BB%A3%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%E6%8C%87%E5%8D%97%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+架空のゲームの攻略本のページの画像を作成。{argument name="発売年" default="1995年"}発売のゲーム
+```
+
+**来源：** [@SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN/status/2077142696666571167) | 2026-07-14
+
+---
+
+### 📊 例 4084：韩语信息图表工作表批处理
+
+![韩语信息图表工作表批处理](../../images/%E9%9F%A9%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%89%B9%E5%A4%84%E7%90%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅联络表预览，展示由英语考试文章生成的 12 份韩语课堂信息图表工作表，以缩略图形式排列，便于对比和批量审阅。
+
+画布：浅灰色背景上的 16:9 宽幅横向图像，留有充足的页边距。将 12 个纵向 A4 风格的页面缩略图放置在整洁的网格中：顶部一行 6 页，底部一行 6 页。每个页面都有白色纸张边框、细微的投影，下方居中处有一个从 1 到 12 的黑色小数字。
+
+布局：每个缩略图都是一张色彩丰富、密集的韩语教育信息图表页面，专为高中英语阅读理解设计。使用统一的工作表风格：顶部标题横幅、左上角的小型来源标签、带有编号步骤的分区模块、卡通学生/教师、简单的图标、迷你图表、示意图、箭头、标注框以及底部附近的简短摘要框。页面在放大时应呈现为可阅读的韩语教育海报，但在联络表中保持缩略图大小。
+
+页面：包含 12 个不同的信息图表页面，编号和标题如下：1. “사회사의 핵심 구성”（社会史的核心构成）；2. “낯선 숲에서 커지는 불안”（在陌生的森林中增长的焦虑）；3. “좋은 글은 많은 해석을 낳는다”（好文章产生多种解读）；4. “진화와 생태계의 조화”（进化与生态系统的和谐）；5. “공정 중간 정보와 전략 변화”（过程中的信息与策略变化）；6. “빛의 만남: 그림 물자의 에너지 영향”（光的相遇：光物质的能量影响）；7. “미디어 변화와 맞춤형 광고”（媒体变化与个性化广告）；8. “나라별 삶의 만족도 차이”（各国生活满意度差异）；9. “시련을 넘어 다시 도전한 선수”（克服磨难再次挑战的运动员）；10. “작은 돌이 행성으로 모이는 과정”（小石块聚集成行星的过程）；11. “서비스 가격은 왜 자주 바뀌는가”（为什么服务价格经常变动）；12. “단순 노출 효과”（单纯曝光效应）。
+
+视觉风格：明亮的韩语教科书信息图表设计，柔和的粉彩背景，海军蓝和青色的标题栏，圆角内容卡片，友好的卡通人物，小型装饰性学术图标，简洁的矢量插图，以及细彩色的分隔线。采用精致的课堂讲义美学，而非照片写实风格。在保持整体批次视觉一致性的同时，使页面在颜色和图表类型上有所变化。
+
+文本内容：工作表缩略图中全程使用韩语文本。主标题应清晰易读；较小的正文内容可以密集，但应类似于真实的韩语教育材料。使用可自定义的整体主题集 {argument name="topic set" default="Korean English exam passage infographic worksheets"}，并保持页面标题风格基于 {argument name="language" default="Korean"}。
+
+约束：不要展示人物手持页面的画面。不要创建单个放大的工作表；图像必须是包含 12 个纵向缩略图且下方带有 12 个数字的批处理联络表。避免出现水印、应用 UI、浏览器界面或页码之外的额外说明文字。
+
+[English]
+Goal: Create a wide contact-sheet preview showing exactly 12 Korean classroom infographic worksheets generated from English exam passages, arranged as miniature pages for comparison and batch review.
+
+Canvas: Wide horizontal 16:9 image on a light gray background, with generous margins. Place 12 portrait-oriented A4-style page thumbnails in a clean grid: 6 pages across the top row and 6 pages across the bottom row. Each page has a white paper border, subtle drop shadow, and a small black number centered underneath from 1 to 12.
+
+Layout: Each thumbnail is a dense, colorful educational infographic page in Korean, designed for high school English reading comprehension. Use a consistent worksheet style: top title banner, small source label at the upper left, section blocks with numbered steps, cartoon students/teachers, simple icons, mini charts, diagrams, arrows, callout boxes, and a short summary box near the bottom. The pages should look readable as Korean educational posters when zoomed in but remain thumbnail-sized in the contact sheet.
+
+Pages: Include exactly 12 distinct infographic pages, numbered and titled as follows: 1. “사회사의 핵심 구성” about the core components of society; 2. “낯선 숲에서 커지는 불안” about anxiety growing in an unfamiliar forest; 3. “좋은 글은 많은 해석을 낳는다” about good writing producing many interpretations; 4. “진화와 생태계의 조화” about evolution and ecological balance; 5. “공정 중간 정보와 전략 변화” about mid-process information and changing strategies; 6. “빛의 만남: 그림 물자의 에너지 영향” about light interactions and energy effects; 7. “미디어 변화와 맞춤형 광고” about media change and personalized advertising; 8. “나라별 삶의 만족도 차이” about differences in life satisfaction by country; 9. “시련을 넘어 다시 도전한 선수” about an athlete overcoming trials and trying again; 10. “작은 돌이 행성으로 모이는 과정” about small rocks forming planets; 11. “서비스 가격은 왜 자주 바뀌는가” about why service prices change often; 12. “단순 노출 효과” about the mere exposure effect.
+
+Visual style: Bright Korean textbook infographic design, soft pastel backgrounds, navy and teal title headers, rounded content cards, friendly cartoon characters, small decorative academic icons, clean vector illustrations, and thin colored dividers. Use a polished classroom handout aesthetic, not photorealistic. Make the pages varied in color and diagram type while keeping them visually consistent as one batch.
+
+Text content: Use Korean text throughout the worksheet thumbnails. The main titles should be legible; smaller body text may be dense but should resemble authentic Korean educational material. Use the customizable overall topic set as {argument name="topic set" default="Korean English exam passage infographic worksheets"}, and keep the page title style based on {argument name="language" default="Korean"}.
+
+Constraints: Do not show people holding the pages. Do not create a single enlarged worksheet; the image must be a batch contact sheet with exactly 12 portrait thumbnails and exactly 12 numbers beneath them. Avoid watermarks, app UI, browser chrome, or extra captions outside the page numbers.
+```
+
+**来源：** [@flowedu](https://x.com/flow_edu_/status/2077017066453024908) | 2026-07-14
+
+---
+

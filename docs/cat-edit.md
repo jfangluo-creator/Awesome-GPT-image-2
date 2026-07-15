@@ -2700,3 +2700,21 @@ Enhance overall clarity, sharpness, and {argument name="resolution" default="res
 
 ---
 
+### 🔧 例 4123：蜡笔画风格儿童画重绘
+
+![蜡笔画风格儿童画重绘](../../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%84%BF%E7%AB%A5%E7%94%BB%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将给定的图像重绘为 {argument name="style" default="蜡笔风格插画"}，将整个场景转化为仿佛由 {argument name="age" default="10 岁儿童"} 手绘的作品。保持形态简洁且略带不完美感，如同儿童的画作。避免使用原始配色方案，将其替换为在干净白纸背景上的明亮、活泼的蜡笔色彩。追求柔和、可爱且纯真的美学效果。融入充满童趣的细节，例如 {argument name="details" default="城堡或塔楼、糖果、星星、云朵"} 以及其他奇思妙想的装饰，以增强趣味氛围。最终效果应充满魅力、色彩丰富且富有童心想象力。
+
+[English]
+Rework the given image into a {argument name="style" default="crayon-style illustration"}, transforming the entire scene into something that feels hand-drawn by a {argument name="age" default="10-year-old"}. Keep the forms simple and slightly imperfect, like a child’s drawing. Avoid using the original color palette—replace it with bright, playful crayon colors on a clean white paper background. Aim for a soft, cute, and innocent aesthetic. Incorporate fun, childlike details such as {argument name="details" default="castles or towers, candy, stars, clouds"}, and other whimsical decorations to amplify the playful vibe. The final result should feel charming, colorful, and full of childlike imagination.
+```
+
+**来源：** [@푸롬프트](https://x.com/poohromptzip/status/2076889787030704509) | 2026-07-14
+
+---
+
