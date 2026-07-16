@@ -4,10 +4,12 @@ import Gallery from '../components/Gallery';
 import ThemeToggle from '../components/ThemeToggle';
 import caseData from '../data/cases.json';
 
-const { totalCases, categories, tagGroups, cases } = caseData;
+const { totalCases, categories, tagGroups } = caseData;
 
 // cases.json 里 image 字段已包含 "images/" 前缀，这里只给 BASE_URL
-const imageBase = import.meta.env.BASE_URL;
+const imageBase = import.meta.env.BASE_URL.replace(/\/$/, '');
+// 案例列表通过 fetch 加载，绝不塞进 island props（否则数 MB 水合失败、案例空白）
+const listUrl = `${imageBase}/data/cases-list.json`;
 ---
 
 <BaseLayout>
@@ -31,7 +33,7 @@ const imageBase = import.meta.env.BASE_URL;
           class="p-2 rounded-lg hover:bg-black/5 dark:hover:bg-white/10 transition-colors"
           title="XSearch 多媒体创作平台"
         >
-          <img src={`${imageBase}/xsearch-icon.svg`} alt="XSearch" class="w-5 h-5" />
+          <img src={`${imageBase}/xsearch-icon.svg`} alt="XSearch" class="w-5 h-5" width="20" height="20" />
         </a>
         <a
           href="https://github.com/jfangluo-creator/Awesome-GPT-image-2"
@@ -53,10 +55,11 @@ const imageBase = import.meta.env.BASE_URL;
   <main class="max-w-7xl mx-auto px-4 pb-12">
     <Gallery
       client:load
-      cases={cases}
       categories={categories}
       tagGroups={tagGroups}
       imageBase={imageBase}
+      listUrl={listUrl}
+      totalCases={totalCases}
     />
   </main>
 

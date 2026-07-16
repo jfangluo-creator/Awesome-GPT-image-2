@@ -1,9 +1,17 @@
-import { useEffect, useCallback } from 'react';
+import { useEffect, useCallback, useState } from 'react';
 import CopyButton from './CopyButton';
+
+function normalizeImagePath(path: string): string {
+  const cleaned = path.replace(/^(\.\.\/)+/, '').replace(/^\.\//, '');
+  if (!cleaned) return cleaned;
+  return cleaned.startsWith('images/') || cleaned.startsWith('thumbs/') || cleaned.startsWith('display/')
+    ? cleaned
+    : `images/${cleaned.replace(/^\/+/, '')}`;
+}
 
 /** URL-encode each path segment (preserve / separators) */
 function encodeImagePath(path: string): string {
-  return path.split('/').map(segment => encodeURIComponent(segment)).join('/');
+  return normalizeImagePath(path).split('/').map(segment => encodeURIComponent(segment)).join('/');
 }
 
 interface Tag {
@@ -33,6 +41,12 @@ interface CaseData {
   date: string;
 }
 
+interface PromptPayload {
+  prompt: string;
+  promptZh: string;
+  promptEn: string;
+}
+
 interface Props {
   caseData: CaseData | null;
   onClose: () => void;
@@ -40,6 +54,9 @@ interface Props {
 }
 
 export default function CaseModal({ caseData, onClose, imageBase }: Props) {
+  const [fullPrompt, setFullPrompt] = useState<PromptPayload | null>(null);
+  const [promptLoading, setPromptLoading] = useState(false);
+
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
@@ -58,9 +75,49 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
     };
   }, [caseData, handleKeyDown]);
 
+  useEffect(() => {
+    if (!caseData) {
+      setFullPrompt(null);
+      return;
+    }
+
+    let cancelled = false;
+    setPromptLoading(true);
+    setFullPrompt(null);
+
+    const base = imageBase.replace(/\/$/, '');
+    fetch(`${base}/data/prompts/${caseData.id}.json`)
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status));
+        return r.json();
+      })
+      .then((data: PromptPayload) => {
+        if (!cancelled) setFullPrompt(data);
+      })
+      .catch(() => {
+        if (!cancelled) {
+          setFullPrompt({
+            prompt: caseData.prompt || '',
+            promptZh: caseData.promptZh || '',
+            promptEn: caseData.promptEn || '',
+          });
+        }
+      })
+      .finally(() => {
+        if (!cancelled) setPromptLoading(false);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [caseData, imageBase]);
+
   if (!caseData) return null;
 
   const imageUrl = `${imageBase}/${encodeImagePath(caseData.display || caseData.image)}`;
+  const prompt = fullPrompt?.prompt || caseData.prompt || '';
+  const promptZh = fullPrompt?.promptZh || '';
+  const promptEn = fullPrompt?.promptEn || '';
 
   return (
     <div className="modal-backdrop" onClick={onClose}>
@@ -107,28 +164,28 @@ export default function CaseModal({ caseData, onClose, imageBase }: Props) {
           <div>
             <div className="flex items-center justify-between mb-2">
               <h3 className="text-sm font-semibold text-[var(--color-text-secondary)] uppercase tracking-wide">Prompt</h3>
-              <CopyButton text={caseData.prompt} />
+              <CopyButton text={prompt} />
             </div>
             <pre className="p-4 rounded-xl bg-black/5 dark:bg-white/5 text-sm leading-relaxed whitespace-pre-wrap break-words max-h-64 overflow-y-auto">
-              {caseData.prompt}
+              {promptLoading && !fullPrompt ? '加载中…' : prompt}
             </pre>
           </div>
 
-          {(caseData.promptZh || caseData.promptEn) && (
+          {(promptZh || promptEn) && (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {caseData.promptZh && (
+              {promptZh && (
                 <div>
                   <h4 className="text-xs font-semibold text-[var(--color-text-secondary)] mb-1">🇨🇳 中文</h4>
                   <p className="text-sm leading-relaxed p-3 rounded-lg bg-black/5 dark:bg-white/5 max-h-40 overflow-y-auto">
-                    {caseData.promptZh}
+                    {promptZh}
                   </p>
                 </div>
               )}
-              {caseData.promptEn && (
+              {promptEn && (
                 <div>
                   <h4 className="text-xs font-semibold text-[var(--color-text-secondary)] mb-1">🇬🇧 English</h4>
                   <p className="text-sm leading-relaxed p-3 rounded-lg bg-black/5 dark:bg-white/5 max-h-40 overflow-y-auto">
-                    {caseData.promptEn}
+                    {promptEn}
                   </p>
                 </div>
               )}

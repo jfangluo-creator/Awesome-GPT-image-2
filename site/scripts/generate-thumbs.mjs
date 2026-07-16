@@ -11,17 +11,23 @@ import sharp from 'sharp';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { writeCasesList } from './write-cases-list.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE_ROOT = path.resolve(__dirname, '..');
+const REPO_ROOT = path.resolve(SITE_ROOT, '..');
 const DATA_FILE = path.join(SITE_ROOT, 'src/data/cases.json');
 const THUMB_DIR = path.join(SITE_ROOT, 'public/thumbs');
 const DISPLAY_DIR = path.join(SITE_ROOT, 'public/display');
 
-// 从 cases.json 的 image 路径解析到实际文件位置
-// image 格式: "images/xxx.jpg" → 实际在 site/public/images/xxx.jpg
+// image 格式: "images/xxx.jpg"
+// 优先 site/public/images（本地 junction / CI symlink），否则回退仓库根 images/
 function resolveImagePath(imagePath) {
-  return path.join(SITE_ROOT, 'public', imagePath);
+  const inPublic = path.join(SITE_ROOT, 'public', imagePath);
+  if (fs.existsSync(inPublic)) return inPublic;
+  const inRoot = path.join(REPO_ROOT, imagePath);
+  if (fs.existsSync(inRoot)) return inRoot;
+  return inPublic;
 }
 
 async function main() {
@@ -112,8 +118,9 @@ async function main() {
     }
   }
 
-  // 写回 cases.json
+  // 写回 cases.json，并同步轻量列表（含 thumb/blur 尺寸）
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  writeCasesList(SITE_ROOT, data.cases);
 
   // 统计
   const thumbSize = fs.readdirSync(THUMB_DIR).length;

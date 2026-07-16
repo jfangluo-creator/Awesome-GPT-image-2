@@ -5,10 +5,12 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { writeCasesList } from './write-cases-list.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = path.resolve(__dirname, '../..');
-const OUT_DIR = path.resolve(__dirname, '../src/data');
+const SITE_ROOT = path.resolve(__dirname, '..');
+const ROOT = path.resolve(SITE_ROOT, '..');
+const OUT_DIR = path.join(SITE_ROOT, 'src/data');
 
 // Emoji codepoint → category mapping
 const emojiMap = {
@@ -211,11 +213,17 @@ function parseAllCases() {
       }
 
       const imgMatch = block.match(/!\[[^\]]*\]\((.+?\.(?:jpg|jpeg|webp|png))\)/i);
-      const imageRaw = imgMatch ? imgMatch[1].replace('../', '') : '';
+      // docs/cases 用 ../../images/，只 strip 一次 ../ 会留下 ../images/ → 线上白屏
+      const imageRaw = imgMatch
+        ? imgMatch[1].replace(/^(\.\.\/)+/, '').replace(/^\.\//, '')
+        : '';
 
       let image = decodeURIComponent(imageRaw);
+      if (image && !image.startsWith('images/')) {
+        image = 'images/' + image.replace(/^\/+/, '');
+      }
 
-      const strippedImage = image.replace('images/', '');
+      const strippedImage = image.replace(/^images\//, '');
       if (imageRaw && !fs.existsSync(path.join(ROOT, 'images', strippedImage))) {
         const normalize = s => s.replace(/[""]/g, '"').replace(/['']/g, "'");
         const normalizedImage = normalize(strippedImage);
@@ -312,7 +320,8 @@ function main() {
     totalCases: cases.length,
     categories,
     tagGroups,
-    cases: cases.sort((a, b) => a.id - b.id),
+    // 最新案例优先（ID 越大越新）
+    cases: cases.sort((a, b) => b.id - a.id),
   };
 
   if (!fs.existsSync(OUT_DIR)) {
@@ -322,10 +331,27 @@ function main() {
   const outPath = path.join(OUT_DIR, 'cases.json');
   fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf-8');
 
+  // 弹窗按需加载完整 prompt；列表走独立 JSON fetch（禁止塞进 HTML props）
+  const promptsDir = path.join(SITE_ROOT, 'public/data/prompts');
+  fs.mkdirSync(promptsDir, { recursive: true });
+  for (const c of result.cases) {
+    fs.writeFileSync(
+      path.join(promptsDir, `${c.id}.json`),
+      JSON.stringify({
+        prompt: c.prompt || '',
+        promptZh: c.promptZh || '',
+        promptEn: c.promptEn || '',
+      }),
+      'utf-8'
+    );
+  }
+  writeCasesList(SITE_ROOT, result.cases);
+
   console.log(`  ✅ Parsed ${cases.length} cases`);
   console.log(`  ✅ ${taggedCount}/${cases.length} cases have tags (${Math.round(taggedCount/cases.length*100)}%)`);
   console.log(`  ✅ ${categories.length} categories, ${totalTagTypes} tags in ${tagGroups.length} groups`);
-  console.log(`  ✅ Written to ${path.relative(ROOT, outPath)}\n`);
+  console.log(`  ✅ Written to ${path.relative(ROOT, outPath)}`);
+  console.log(`  ✅ Prompt files → ${path.relative(ROOT, promptsDir)} (${cases.length} files)\n`);
 
   for (const cat of categories) {
     console.log(`     ${cat.emoji} ${cat.name}: ${cat.count}`);

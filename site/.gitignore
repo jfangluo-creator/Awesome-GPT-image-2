@@ -6,3 +6,4 @@ dist/
 _screenshot_*.png
 public/thumbs/
 public/display/
+public/data/prompts/

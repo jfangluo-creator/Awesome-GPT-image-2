@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import type { Dispatch, SetStateAction } from 'react';
 
 interface Category {
   slug: string;
@@ -12,12 +11,13 @@ interface Category {
 interface Props {
   categories: Category[];
   active: string;
-  onChange: Dispatch<SetStateAction<string>>;
+  onChange: (slug: string) => void;
+  totalCount?: number;
 }
 
-export default function CategoryFilter({ categories, active, onChange }: Props) {
+export default function CategoryFilter({ categories, active, onChange, totalCount = 0 }: Props) {
   const [expanded, setExpanded] = useState(false);
-  const allItem = { slug: 'all', name: '全部', nameEn: 'All', emoji: '✨', count: 0 };
+  const allItem = { slug: 'all', name: '全部', nameEn: 'All', emoji: '✨', count: totalCount };
 
   const renderButton = (cat: { slug: string; name: string; emoji: string; count: number }) => {
     const isActive = active === cat.slug;

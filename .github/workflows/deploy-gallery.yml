@@ -37,6 +37,15 @@ jobs:
       - name: Install dependencies
         run: cd site && npm ci
 
+      # 根目录 images/ 为唯一原图源；CI 上重建 symlink（本地是 junction）
+      # 否则 site/public/images 只有早期提交的副本，新案例缩略图会全部失败
+      - name: Link repo images into site/public
+        run: |
+          rm -rf site/public/images
+          ln -s ../../images site/public/images
+          test -e site/public/images
+          echo "linked images: $(find site/public/images -type f | wc -l) files"
+
       - name: Parse cases
         run: cd site && npm run parse
 

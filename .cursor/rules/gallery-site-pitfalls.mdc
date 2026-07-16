@@ -8,9 +8,16 @@ alwaysApply: false
 
 - 构建：`parse-cases` → `generate-thumbs` → `astro build`；`base: '/Awesome-GPT-image-2'`
 - 图片三级：原图 `images/`、display 1200、thumb 400、blur 内嵌；thumbs/display 不提交，CI 生成
-- `site/public/images` 为指向根 `images/` 的链接；CI 需重建 symlink
-- **禁止**给 masonry 加 `content-visibility: auto`（会弄丢最后一列）
-- 每列前 3 张 `eager` + `fetchPriority=high`，其余 lazy（CSS columns 按 DOM 顺序填列）
+- **原图唯一源是仓库根 `images/`**；`site/public/images` 本地为 junction，CI 在 thumbs 前必须 `rm -rf` 后 `ln -s ../../images`
+- `generate-thumbs` 解析路径：先 `site/public/images`，再回退根 `images/`
+- 画廊默认 **最新 ID 优先**；首屏每批 60，接近底部 IntersectionObserver 自动加载
+- 案例列表必须 `fetch(public/data/cases-list.json)`，禁止把 cases 数组塞进 Astro island props（数 MB 会水合失败、案例区空白）
+- 完整 prompt 在 `public/data/prompts/{id}.json`，弹窗按需 fetch；`parse` / `thumbs` 会写 cases-list.json
+- 瀑布流用 **JS 轮询分列**（`.masonry-cols`），不要用 CSS `columns`（懒加载会整页重排、越滚越抖）
+- 卡片图片容器必须预留 `aspect-ratio`，img 用 `absolute + object-cover`，禁止靠图片加载再撑开高度
+- parse 时必须去掉全部 `../` 前缀，统一成 `images/...`；只 strip 一次会留下 `../images/`，拼 BASE_URL 后变成站点外 `/images/` 白屏
+- 每列前 3 张 `eager` + `fetchPriority=high`，其余 `loading="lazy"`；裂图时保留 blur 占位
 - 标签只从标题匹配，勿用整段 prompt（否定词会误标）
 - collect 触发 deploy 需要 `actions: write`；curl 必须检查 HTTP 状态码
 - `cases.json` 不必由 collect 提交，CI 会从 markdown 重生成
+- collect `--ci` 跳过拷贝到 `site/public/images`（靠 deploy symlink），勿再改回双份提交原图
