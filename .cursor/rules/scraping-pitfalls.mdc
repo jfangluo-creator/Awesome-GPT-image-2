@@ -18,6 +18,7 @@ alwaysApply: false
 - 批量后跑 `node _fix_anchors.mjs`（或 `--fix`）校验锚点
 - 加案例通常改 4 处：`docs/cases/cases-*.md`、`docs/cat-*.md`、`categories.md`、`categories_en.md`
 - 图片相对路径：`docs/cases/` 用 `../../images/`，`docs/cat-*.md` 用 `../images/`（勿混用）
+- 标题必须先 `normalizeTitle` 压成单行再写 MD；禁止把含换行/「提示词：」+JSON 的原始标题塞进 `![]()`
 - 导航链接：扫描目录排序后重建整行，勿正则追加
 
 ## 去重顺序

@@ -237,13 +237,25 @@ function sanitizeFilename(name) {
   return name.replace(/[\r\n]+/g, ' ').replace(/[:*"<>?|\\/]/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+/** 展示/落盘用标题：压成单行，去掉「提示词：」前缀与 JSON 脏标题 */
+function normalizeTitle(raw) {
+  let t = sanitizeFilename(raw);
+  t = t.replace(/^提示词\s*/i, '').trim();
+  if (!t || t.startsWith('{') || t.startsWith('[') || t.length < 2) {
+    t = sanitizeFilename(String(raw || '')).replace(/^提示词\s*/i, '').trim();
+  }
+  if (!t || t.startsWith('{') || t.startsWith('[')) t = 'untitled-case';
+  if (t.length > 80) t = t.slice(0, 80).trim();
+  return t;
+}
+
 async function downloadImages(cases, ci) {
   const downloadOne = ci ? downloadOneDirect : downloadOneProxy;
   console.log(`\n📥 下载图片（${ci ? '直连' : '代理'}模式）...`);
   for (const c of cases) {
     const imgUrl = c.images[0];
     if (!imgUrl) { c._imgStatus = 'skip'; console.log(`  SKIP: ${c.title} (无图片)`); continue; }
-    const safeTitle = sanitizeFilename(c.title);
+    const safeTitle = sanitizeFilename(normalizeTitle(c.title));
     const filename = safeTitle + '.jpg';
     try {
       const bytes = await downloadOne(imgUrl, `images/${filename}`);
@@ -279,9 +291,11 @@ function buildEntries(cases, maxNum) {
   const entries = [];
   for (const c of cases) {
     const catInfo = c._cat;
-    const heading = `${catInfo.emoji} 例 ${num}：${c.title}`;
+    const title = normalizeTitle(c.title);
+    c.title = title; // 与下载文件名、Markdown 保持一致
+    const heading = `${catInfo.emoji} 例 ${num}：${title}`;
     const anchor = slug(heading);
-    const encodedImg = encodeURIComponent(sanitizeFilename(c.title) + '.jpg');
+    const encodedImg = encodeURIComponent(sanitizeFilename(title) + '.jpg');
     const date = (c.sourcePublishedAt || '').split('T')[0];
     const authorName = c.author || 'Unknown';
     const sourceLink = c.sourceLink ? c.sourceLink.split('#')[0] : '';
@@ -300,7 +314,7 @@ function buildEntries(cases, maxNum) {
 
     const md = `### ${heading}
 
-![${c.title}](../../images/${encodedImg})
+![${title}](../../images/${encodedImg})
 
 **Prompt:**
 
@@ -569,6 +583,8 @@ async function main() {
   const selected = newCases.slice(0, opts.count);
 
   // Step 6: 自动分类
+  // 先规范化标题，避免换行/JSON 标题写坏 Markdown、文件名
+  for (const c of selected) c.title = normalizeTitle(c.title);
   categorizeEach(selected);
 
   if (opts.dryRun) {

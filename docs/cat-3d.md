@@ -1692,9 +1692,7 @@ Create a highly detailed photorealistic product-display scene of an adult anime-
 
 一个高度精细的 3D 
 
-![1️⃣ 角色设定提示词：
-
-一个高度精细的 3D ](../images/1%EF%B8%8F%E2%83%A3%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%80%E4%B8%AA%E9%AB%98%E5%BA%A6%E7%B2%BE%E7%BB%86%E7%9A%84%203D.jpg)
+![1️⃣ 角色设定提示词： 一个高度精细的 3D](../images/1%EF%B8%8F%E2%83%A3%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%80%E4%B8%AA%E9%AB%98%E5%BA%A6%E7%B2%BE%E7%BB%86%E7%9A%84%203D.jpg)
 
 **Prompt:**
 

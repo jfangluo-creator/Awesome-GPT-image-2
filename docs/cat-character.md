@@ -1585,11 +1585,7 @@ text, watermark, signature, logo, username, artist name, copyright mark, frame, 
 
 ### 🧍 例 471：Dragon Ball Z 提示词：
 
-FACIAL REFERENCE：参考图
-
-![Dragon Ball Z 提示词：
-
-FACIAL REFERENCE：参考图](../images/Dragon%20Ball%20Z%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20FACIAL%20REFERENCE%EF%BC%9A%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+![Dragon Ball Z 提示词： FACIAL REFERENCE：参考图](../images/Dragon%20Ball%20Z%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20FACIAL%20REFERENCE%EF%BC%9A%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4236,17 +4232,9 @@ Constraints: Use exactly 3 full-body views and exactly 3 head close-ups. Keep th
 
 ---
 
-### 🧍 例 2602：提示词：
+### 🧍 例 2602：提示词： 使用参考图风格生成一组高级时尚杂志人像大片，竖版 3 4。 画面主体是一位成年亚洲女性
 
-使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
-
-画面主体是一位成年亚洲女性
-
-![提示词：
-
-使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
-
-画面主体是一位成年亚洲女性](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87%EF%BC%8C%E7%AB%96%E7%89%88%203%204%E3%80%82%20%E7%94%BB%E9%9D%A2%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%BD%8D%E6%88%90%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7.jpg)
+![提示词： 使用参考图风格生成一组高级时尚杂志人像大片，竖版 3 4。 画面主体是一位成年亚洲女性](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87%EF%BC%8C%E7%AB%96%E7%89%88%203%204%E3%80%82%20%E7%94%BB%E9%9D%A2%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%BD%8D%E6%88%90%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7.jpg)
 
 **Prompt:**
 

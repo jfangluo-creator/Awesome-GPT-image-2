@@ -261,8 +261,7 @@ Using REFERENCE_0 as a rough composition and camera-position guide, turn the ske
 ### 🔧 例 408：提示词：
 将参考照片转换为真实风格
 
-![提示词：
-将参考照片转换为真实风格](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E5%B0%86%E5%8F%82%E8%80%83%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%9C%9F%E5%AE%9E%E9%A3%8E%E6%A0%BC.jpg)
+![提示词： 将参考照片转换为真实风格](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E5%B0%86%E5%8F%82%E8%80%83%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%9C%9F%E5%AE%9E%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 

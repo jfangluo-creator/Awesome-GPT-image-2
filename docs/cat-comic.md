@@ -1406,8 +1406,7 @@ Constraints: Keep exactly 4 panels, exactly 5 speech balloons total, exactly 1 h
 ### 🎬 例 947：第 3 张分镜图提示词：
 请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16 宫格分镜图」
 
-![第 3 张分镜图提示词：
-请创作一张高完成度、高清晰度的「汉唐宫廷舞 / 霓裳羽衣舞 · 16 宫格分镜图」](../images/%E7%AC%AC%203%20%E5%BC%A0%E5%88%86%E9%95%9C%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E8%AF%B7%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E9%AB%98%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%81%E9%AB%98%E6%B8%85%E6%99%B0%E5%BA%A6%E7%9A%84%E3%80%8C%E6%B1%89%E5%94%90%E5%AE%AB%E5%BB%B7%E8%88%9E%20%E9%9C%93%E8%A3%B3%E7%BE%BD%E8%A1%A3%E8%88%9E%20%C2%B7%2016%20%E5%AE%AB%E6%A0%BC%E5%88%86%E9%95%9C%E5%9B%BE%E3%80%8D.jpg)
+![第 3 张分镜图提示词： 请创作一张高完成度、高清晰度的「汉唐宫廷舞 霓裳羽衣舞 · 16 宫格分镜图」](../images/%E7%AC%AC%203%20%E5%BC%A0%E5%88%86%E9%95%9C%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E8%AF%B7%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E9%AB%98%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%81%E9%AB%98%E6%B8%85%E6%99%B0%E5%BA%A6%E7%9A%84%E3%80%8C%E6%B1%89%E5%94%90%E5%AE%AB%E5%BB%B7%E8%88%9E%20%E9%9C%93%E8%A3%B3%E7%BE%BD%E8%A1%A3%E8%88%9E%20%C2%B7%2016%20%E5%AE%AB%E6%A0%BC%E5%88%86%E9%95%9C%E5%9B%BE%E3%80%8D.jpg)
 
 **Prompt:**
 

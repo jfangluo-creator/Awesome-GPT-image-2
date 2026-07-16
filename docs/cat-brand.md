@@ -1445,9 +1445,7 @@ Turn this photo into a {argument name="style" default="Vogue-style fashion illus
 
 面部参考：使用专业
 
-![Tom & Jerry 提示词：
-
-面部参考：使用专业](../images/Tom%20%26%20Jerry%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E9%9D%A2%E9%83%A8%E5%8F%82%E8%80%83%EF%BC%9A%E4%BD%BF%E7%94%A8%E4%B8%93%E4%B8%9A.jpg)
+![Tom & Jerry 提示词： 面部参考：使用专业](../images/Tom%20%26%20Jerry%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E9%9D%A2%E9%83%A8%E5%8F%82%E8%80%83%EF%BC%9A%E4%BD%BF%E7%94%A8%E4%B8%93%E4%B8%9A.jpg)
 
 **Prompt:**
 
@@ -10439,15 +10437,9 @@ Create a polished anime-style illustration of a cheerful young woman viewed from
 
 ---
 
-### 🏷️ 例 4101：提示词：
+### 🏷️ 例 4101：提示词： { task portrait_replacement_editorial_
 
-{
-  "task": "portrait_replacement_editorial_
-
-![提示词：
-
-{
-  "task": "portrait_replacement_editorial_](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%7B%20task%20portrait_replacement_editorial_.jpg)
+![提示词： { task portrait_replacement_editorial_](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%7B%20task%20portrait_replacement_editorial_.jpg)
 
 **Prompt:**
 

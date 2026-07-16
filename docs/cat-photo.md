@@ -20875,9 +20875,7 @@ Create a vertical full-body anime streetwear identity portrait of {argument name
 
 使用最后一张人物照片作为身份参考，保留人物五官、脸型、眼神、发型和整体辨识度，不要生成陌生人脸。
 
-![提示词：
-
-使用最后一张人物照片作为身份参考，保留人物五官、脸型、眼神、发型和整体辨识度，不要生成陌生人脸。](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E3%80%81%E8%84%B8%E5%9E%8B%E3%80%81%E7%9C%BC%E7%A5%9E%E3%80%81%E5%8F%91%E5%9E%8B%E5%92%8C%E6%95%B4%E4%BD%93%E8%BE%A8%E8%AF%86%E5%BA%A6%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%94%9F%E6%88%90%E9%99%8C%E7%94%9F%E4%BA%BA%E8%84%B8%E3%80%82.jpg)
+![提示词： 使用最后一张人物照片作为身份参考，保留人物五官、脸型、眼神、发型和整体辨识度，不要生成陌生人脸。](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E3%80%81%E8%84%B8%E5%9E%8B%E3%80%81%E7%9C%BC%E7%A5%9E%E3%80%81%E5%8F%91%E5%9E%8B%E5%92%8C%E6%95%B4%E4%BD%93%E8%BE%A8%E8%AF%86%E5%BA%A6%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%94%9F%E6%88%90%E9%99%8C%E7%94%9F%E4%BA%BA%E8%84%B8%E3%80%82.jpg)
 
 **Prompt:**
 
@@ -32660,9 +32658,7 @@ Photography style: luxury fashion editorial, GQ magazine, Vogue Homme, Zara camp
 
 以参考人物为唯一人像身份，保持五官、脸型、眼神和长黑发高度一致。生成一组 9:16 竖版
 
-![提示词：
-
-以参考人物为唯一人像身份，保持五官、脸型、眼神和长黑发高度一致。生成一组 9:16 竖版](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BB%A5%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E4%B8%BA%E5%94%AF%E4%B8%80%E4%BA%BA%E5%83%8F%E8%BA%AB%E4%BB%BD%EF%BC%8C%E4%BF%9D%E6%8C%81%E4%BA%94%E5%AE%98%E3%80%81%E8%84%B8%E5%9E%8B%E3%80%81%E7%9C%BC%E7%A5%9E%E5%92%8C%E9%95%BF%E9%BB%91%E5%8F%91%E9%AB%98%E5%BA%A6%E4%B8%80%E8%87%B4%E3%80%82%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%209%2016%20%E7%AB%96%E7%89%88.jpg)
+![提示词： 以参考人物为唯一人像身份，保持五官、脸型、眼神和长黑发高度一致。生成一组 9 16 竖版](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BB%A5%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E4%B8%BA%E5%94%AF%E4%B8%80%E4%BA%BA%E5%83%8F%E8%BA%AB%E4%BB%BD%EF%BC%8C%E4%BF%9D%E6%8C%81%E4%BA%94%E5%AE%98%E3%80%81%E8%84%B8%E5%9E%8B%E3%80%81%E7%9C%BC%E7%A5%9E%E5%92%8C%E9%95%BF%E9%BB%91%E5%8F%91%E9%AB%98%E5%BA%A6%E4%B8%80%E8%87%B4%E3%80%82%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%209%2016%20%E7%AB%96%E7%89%88.jpg)
 
 **Prompt:**
 
@@ -35777,9 +35773,7 @@ Create a photorealistic lifestyle portrait of an adult {argument name="subject d
 
 以上传人像作为唯一人物参考，生成一组 5 张独立的美式西部牛仔风时尚大片，不拼图。保持人物五
 
-![提示词：
-
-以上传人像作为唯一人物参考，生成一组 5 张独立的美式西部牛仔风时尚大片，不拼图。保持人物五](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BB%A5%E4%B8%8A%E4%BC%A0%E4%BA%BA%E5%83%8F%E4%BD%9C%E4%B8%BA%E5%94%AF%E4%B8%80%E4%BA%BA%E7%89%A9%E5%8F%82%E8%80%83%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%205%20%E5%BC%A0%E7%8B%AC%E7%AB%8B%E7%9A%84%E7%BE%8E%E5%BC%8F%E8%A5%BF%E9%83%A8%E7%89%9B%E4%BB%94%E9%A3%8E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%EF%BC%8C%E4%B8%8D%E6%8B%BC%E5%9B%BE%E3%80%82%E4%BF%9D%E6%8C%81%E4%BA%BA%E7%89%A9%E4%BA%94.jpg)
+![提示词： 以上传人像作为唯一人物参考，生成一组 5 张独立的美式西部牛仔风时尚大片，不拼图。保持人物五](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BB%A5%E4%B8%8A%E4%BC%A0%E4%BA%BA%E5%83%8F%E4%BD%9C%E4%B8%BA%E5%94%AF%E4%B8%80%E4%BA%BA%E7%89%A9%E5%8F%82%E8%80%83%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%205%20%E5%BC%A0%E7%8B%AC%E7%AB%8B%E7%9A%84%E7%BE%8E%E5%BC%8F%E8%A5%BF%E9%83%A8%E7%89%9B%E4%BB%94%E9%A3%8E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%EF%BC%8C%E4%B8%8D%E6%8B%BC%E5%9B%BE%E3%80%82%E4%BF%9D%E6%8C%81%E4%BA%BA%E7%89%A9%E4%BA%94.jpg)
 
 **Prompt:**
 
@@ -37431,9 +37425,7 @@ Ultra-realistic DSLR portrait of a beautiful young East Asian woman sitting outd
 
 上传一张人像作为人物参考，将参考人物自然替换进原图场景。保留原图的构图、机位、动作、姿势
 
-![提示词：
-
-上传一张人像作为人物参考，将参考人物自然替换进原图场景。保留原图的构图、机位、动作、姿势](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%8A%E4%BC%A0%E4%B8%80%E5%BC%A0%E4%BA%BA%E5%83%8F%E4%BD%9C%E4%B8%BA%E4%BA%BA%E7%89%A9%E5%8F%82%E8%80%83%EF%BC%8C%E5%B0%86%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E8%87%AA%E7%84%B6%E6%9B%BF%E6%8D%A2%E8%BF%9B%E5%8E%9F%E5%9B%BE%E5%9C%BA%E6%99%AF%E3%80%82%E4%BF%9D%E7%95%99%E5%8E%9F%E5%9B%BE%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E6%9C%BA%E4%BD%8D%E3%80%81%E5%8A%A8%E4%BD%9C%E3%80%81%E5%A7%BF%E5%8A%BF.jpg)
+![提示词： 上传一张人像作为人物参考，将参考人物自然替换进原图场景。保留原图的构图、机位、动作、姿势](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%8A%E4%BC%A0%E4%B8%80%E5%BC%A0%E4%BA%BA%E5%83%8F%E4%BD%9C%E4%B8%BA%E4%BA%BA%E7%89%A9%E5%8F%82%E8%80%83%EF%BC%8C%E5%B0%86%E5%8F%82%E8%80%83%E4%BA%BA%E7%89%A9%E8%87%AA%E7%84%B6%E6%9B%BF%E6%8D%A2%E8%BF%9B%E5%8E%9F%E5%9B%BE%E5%9C%BA%E6%99%AF%E3%80%82%E4%BF%9D%E7%95%99%E5%8E%9F%E5%9B%BE%E7%9A%84%E6%9E%84%E5%9B%BE%E3%80%81%E6%9C%BA%E4%BD%8D%E3%80%81%E5%8A%A8%E4%BD%9C%E3%80%81%E5%A7%BF%E5%8A%BF.jpg)
 
 **Prompt:**
 
@@ -38586,13 +38578,9 @@ blurry, low quality, low resolution, overprocessed skin, cartoon, anime, CGI, pa
 
 ---
 
-### 📷 例 4041：提示词：
+### 📷 例 4041：提示词： 上传参考人像，将人物替换为参考图中的女生，保留原图的魔法少女姿势、构图、镜头角度和白色棚拍背景
 
-上传参考人像，将人物替换为参考图中的女生，保留原图的魔法少女姿势、构图、镜头角度和白色棚拍背景
-
-![提示词：
-
-上传参考人像，将人物替换为参考图中的女生，保留原图的魔法少女姿势、构图、镜头角度和白色棚拍背景](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%8A%E4%BC%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%83%8F%EF%BC%8C%E5%B0%86%E4%BA%BA%E7%89%A9%E6%9B%BF%E6%8D%A2%E4%B8%BA%E5%8F%82%E8%80%83%E5%9B%BE%E4%B8%AD%E7%9A%84%E5%A5%B3%E7%94%9F%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8E%9F%E5%9B%BE%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%A7%BF%E5%8A%BF%E3%80%81%E6%9E%84%E5%9B%BE%E3%80%81%E9%95%9C%E5%A4%B4%E8%A7%92%E5%BA%A6%E5%92%8C%E7%99%BD%E8%89%B2%E6%A3%9A%E6%8B%8D%E8%83%8C%E6%99%AF.jpg)
+![提示词： 上传参考人像，将人物替换为参考图中的女生，保留原图的魔法少女姿势、构图、镜头角度和白色棚拍背景](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%B8%8A%E4%BC%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%83%8F%EF%BC%8C%E5%B0%86%E4%BA%BA%E7%89%A9%E6%9B%BF%E6%8D%A2%E4%B8%BA%E5%8F%82%E8%80%83%E5%9B%BE%E4%B8%AD%E7%9A%84%E5%A5%B3%E7%94%9F%EF%BC%8C%E4%BF%9D%E7%95%99%E5%8E%9F%E5%9B%BE%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%A7%BF%E5%8A%BF%E3%80%81%E6%9E%84%E5%9B%BE%E3%80%81%E9%95%9C%E5%A4%B4%E8%A7%92%E5%BA%A6%E5%92%8C%E7%99%BD%E8%89%B2%E6%A3%9A%E6%8B%8D%E8%83%8C%E6%99%AF.jpg)
 
 **Prompt:**
 
