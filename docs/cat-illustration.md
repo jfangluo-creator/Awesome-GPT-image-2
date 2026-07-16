@@ -8262,3 +8262,151 @@ Create a highly detailed vertical fantasy anime illustration of a beautiful rain
 
 ---
 
+### 🎨 例 4155：复古橡胶管风格猫咪杂耍表演
+
+![复古橡胶管风格猫咪杂耍表演](../images/%E5%A4%8D%E5%8F%A4%E6%A9%A1%E8%83%B6%E7%AE%A1%E9%A3%8E%E6%A0%BC%E7%8C%AB%E5%92%AA%E6%9D%82%E8%80%8D%E8%A1%A8%E6%BC%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个 1:1 正方形的 1930 年代橡胶管风格黑白卡通场景，带有褪色的棕褐色调和老电影质感。画面中心是一位名叫 {argument name="character name" default="Milo"} 的欢快拟人化燕尾服猫咪，它正在夜晚的一个小型木制剧院舞台上表演。采用粗线条手绘轮廓，圆润的四肢、白色手套、超大的椭圆形眼睛、大大的露齿笑容、尖耳朵、胡须以及白色的腹部和爪子。猫咪呈现出夸张的“挤压与拉伸”舞蹈姿势：一条腿向前交叉，尾巴在身后翘起，左手高举着一顶带有深色饰带的草编平顶帽，右手向外伸展做出欢迎的姿态。背景是一个古老的杂耍街头舞台角落：木质地板在前景中弯曲，舞台前缘排列着四盏发光的脚灯，厚重的剧院幕布和装饰性的镜框式舞台柱子勾勒出右侧轮廓，右侧斜靠着的一张海报上用醒目的复古衬线字体写着“{argument name="poster text" default="MILO IN ONE NIGHT ONLY!"}”。左侧背景展示了一条鹅卵石铺成的小巷，配有柔焦的老建筑、一盏高大的华丽路灯、一个小消防栓，以及一个挂着的招牌，上面写着“{argument name="alley sign text" default="PUDDLE ALLEY"}”并带有一个小爪印。使用炭黑、暖灰、奶油色高光和棕褐色污渍组成的单色调色板；添加有机胶片颗粒、灰尘斑点、细微划痕、深色圆角晕影、不均匀的赛璐珞阴影以及受控的线条抖动效果。保持构图迷人、具有戏剧性、手绘感且真实复古；避免使用现代 CGI、光泽感 3D 渲染、鲜艳色彩、干净的矢量边缘或现代字体。
+
+[English]
+Create a square 1:1 black-and-white 1930s rubber-hose cartoon scene with faded sepia toning and aged film texture. Center a cheerful anthropomorphic tuxedo cat named {argument name="character name" default="Milo"} performing on a small wooden theater stage at night, drawn with thick hand-inked outlines, rounded limbs, white gloves, oversized oval eyes, a big open smile, pointed ears, whiskers, and a white belly and paws. The cat is in an exaggerated squash-and-stretch dance pose: one leg crossed forward, tail lifted behind, left arm raised high holding a straw boater hat with a dark band, right arm stretched outward in a welcoming gesture. The setting is an old vaudeville street-stage corner: wooden floorboards curve across the foreground, four glowing footlights line the front edge, heavy theater curtains and a decorative proscenium column frame the right side, and a framed poster leaning on the right reads “{argument name="poster text" default="MILO IN ONE NIGHT ONLY!"}” in large vintage serif lettering. In the background on the left, show a cobblestone alley with soft-focus old buildings, a tall ornate streetlamp, a small fire hydrant, and a hanging sign that reads “{argument name="alley sign text" default="PUDDLE ALLEY"}” with a small paw print. Use a monochrome palette of charcoal black, warm gray, cream highlights, and sepia stains; add organic film grain, dust flecks, subtle scratches, dark rounded-corner vignette, uneven cel-paint shading, and controlled line boil. Keep the composition charming, theatrical, hand-drawn, and authentically vintage; avoid modern CGI, glossy 3D rendering, bright color, clean vector edges, or contemporary typography.
+```
+
+**来源：** [@Okan Can](https://x.com/0kncn/status/2077463973222310003) | 2026-07-15
+
+---
+
+### 🎨 例 4156：背负风暴云的寄居蟹
+
+![背负风暴云的寄居蟹](../images/%E8%83%8C%E8%B4%9F%E9%A3%8E%E6%9A%B4%E4%BA%91%E7%9A%84%E5%AF%84%E5%B1%85%E8%9F%B9.jpg)
+
+**Prompt:**
+
+```text
+一群背著{argument name="天气" default="暴風雲"}的{argument name="动物" default="寄居蟹"}，在風雨前緩緩穿過{argument name="场景" default="草原"}。
+```
+
+**来源：** [@suisui](https://x.com/shu2891_/status/2077463708616265892) | 2026-07-15
+
+---
+
+### 🎨 例 4160：经典动画风格埃及艳后宫殿剧照
+
+![经典动画风格埃及艳后宫殿剧照](../images/%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%9F%83%E5%8F%8A%E8%89%B3%E5%90%8E%E5%AE%AB%E6%AE%BF%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 20 世纪 90 年代经典传统手绘动画风格的高端 2D 动画插画，呈现出官方动画剧照的质感。画面展示 {argument name="character name" default="Cleopatra"} 作为一位优雅的埃及女王，在宫殿内斜倚，采用半身四分之三侧面视角。她拥有温暖的棕褐色皮肤，柔顺笔直的 {argument name="hair color" default="乌黑色"} 及肩波波头，配有整齐的刘海；杏仁状的双眼画着夸张的蓝色眼影和长长的黑色眼线，眉毛高挑，神情从容且略带疏离，目光向上看向左侧。她身穿白色亚麻垂褶长裙，系着金色腰带，配有椭圆形蓝色宝石扣；佩戴由黄金、绿松石和蓝色宝石组成的宽大埃及领饰，大号圆形金质圆环耳环，下垂着金属条装饰；手臂上戴着金质袖口手镯和金质蛇形上臂环，头上戴着饰有小型眼镜蛇装饰的金质发带。她的右臂倚靠在带有金色饰边和流苏的青蓝色软垫躺椅或宝座上，一条半透明的浅蓝色披肩垂落在她的手臂和身体上。宫殿背景采用柔和的笔触绘制，墙壁呈温暖的砂岩色，带有淡淡的埃及象形文字浮雕和人物图案，一侧挂着由金色流苏系住的紫色窗帘，并有一根装饰着彩色莲花状几何图案的柱子。运用柔和的赛璐珞阴影、清晰的墨线轮廓、手绘水彩背景、温暖的金色光影、细腻的胶片颗粒质感，呈现出复古动画长片的精致观感。构图需保持电影感、优雅且庄重，画面中不得出现任何现代物品、文字或水印。
+
+[English]
+Create a high-end 2D animated illustration in a classic 1990s traditional hand-drawn animation style, resembling an official production still. Show {argument name="character name" default="Cleopatra"} as an elegant Egyptian queen lounging in a palace interior, shown from the waist up in a three-quarter view. She has warm tan skin, sleek straight {argument name="hair color" default="jet-black"} shoulder-length bob hair with blunt bangs, almond eyes with dramatic blue eye shadow and long black eyeliner, arched brows, and a poised, slightly aloof expression as she gazes upward to the left. She wears a white draped linen dress with a gold belt and oval blue gemstone clasp, a wide Egyptian collar necklace in gold, turquoise, and blue, large round gold hoop earrings with dangling bars, a gold cuff bracelet, a gold upper-arm snake bracelet, and a gold headband topped with a small cobra ornament. Her right arm rests along a teal-blue cushioned chaise or throne with gold trim and tassels, while a translucent pale blue shawl drapes across her arm and body. The palace background is softly painted with warm sandstone walls, faint Egyptian hieroglyphic reliefs and figures, a purple curtain tied with a gold tassel, and a decorative column with colorful lotus-like geometric patterns. Use soft cel shading, clean ink outlines, hand-painted watercolor backgrounds, warm golden lighting, subtle film-grain texture, and the polished look of a vintage animated feature. Keep the composition cinematic, elegant, and regal, with no modern objects, no text, and no watermark.
+```
+
+**来源：** [@Kinovi.AI](https://x.com/kinovi_ai/status/2077434676529271191) | 2026-07-15
+
+---
+
+### 🎨 例 4165：垂死作曲家的最后杰作
+
+![垂死作曲家的最后杰作](../images/%E5%9E%82%E6%AD%BB%E4%BD%9C%E6%9B%B2%E5%AE%B6%E7%9A%84%E6%9C%80%E5%90%8E%E6%9D%B0%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅暗黑电影质感的历史照片蒙太奇，主题为 {argument name="composer name" default="一位 84 岁的垂死作曲家"} 在病榻上创作他最后的杰作。采用 16:9 宽画幅，呈现绘画般的写实风格、明暗对照法光影、做旧纹理，以及悲剧性的浪漫古典音乐氛围。画面中心是一位身穿深色长袍、满头白发的老人，他坐在或靠在床上，弓着身子在发光的羊皮纸乐谱上用笔书写音符；他布满皱纹的脸上写满了悲伤与专注，上方/前方投射下一束温暖的聚光灯。在他周围布置 2 个次要人物：左侧是一位身穿黑色西装、头发凌乱的疯狂男子，他痛苦地抱着头，部分被红黑色的烟雾和撕碎的乐谱遮挡；右侧是一位侧身站立、正在哀悼的中年母亲，她双手合十靠近嘴边，低头看向一条裂开的、通往深渊般的石径，石径逐渐隐没在迷雾中。添加 4 个显著的视觉主题：前景中散落的乐谱页、横跨整个画面的金色流动五线谱和音符、左侧及背景上方溅射的血红色墨迹/烟雾，以及右侧地面上一道深深的锯齿状裂缝。背景应暗示一个带有褶皱白床单和斑驳墙壁的旧卧室，并逐渐融入抽象的黑暗中。色调：近乎黑色的阴影、深褐色羊皮纸、温暖的烛光金、脏灰色石材以及戏剧性的深红色。画面中不得出现可辨认的现代文字、标题、Logo 或干净的数字 UI；保持粗粝、感性、歌剧般的质感，并具备如同戏剧性专辑封面或杂志专题插画般的高细节度。
+
+[English]
+Create a dark cinematic historical photomontage about {argument name="composer name" default="an 84-year-old dying composer"} writing his final masterpiece from a sickbed. Use a wide 16:9 canvas with painterly realism, chiaroscuro lighting, distressed textures, and a tragic romantic-classical music mood. Center the scene on an elderly white-haired man in a dark robe, seated or propped in bed, hunched over illuminated parchment sheet music, writing notes with a pen; his wrinkled face is sorrowful and focused, lit by a warm spotlight from above/front. Surround him with exactly 2 secondary figures: on the left, a shadowy insane husband-like man in a black suit with wild curly hair, clutching his head in anguish, partially obscured by red-black smoke and torn musical manuscript; on the right, a grieving middle-aged mother in profile, hands clasped near her mouth, looking down toward a cracked abyss-like stone path fading into mist. Add exactly 4 prominent visual motifs: scattered manuscript pages in the foreground, flowing golden musical staves and notes sweeping across the composition, blood-red ink/smoke splashes on the left and upper background, and a deep jagged crack splitting the ground on the right. The background should suggest an old bedroom with rumpled white sheets and worn walls, blending into abstract darkness. Color palette: near-black shadows, sepia parchment, warm candlelit gold, dirty gray stone, and dramatic crimson red. No readable modern text, no captions, no logos, no clean digital UI; keep it gritty, emotional, operatic, and high-detail like a dramatic album-cover or magazine feature illustration.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2077409250070982844) | 2026-07-15
+
+---
+
+### 🎨 例 4176：夏日河畔与红气球
+
+![夏日河畔与红气球](../images/%E5%A4%8F%E6%97%A5%E6%B2%B3%E7%95%94%E4%B8%8E%E7%BA%A2%E6%B0%94%E7%90%83.jpg)
+
+**Prompt:**
+
+```text
+主題：
+赤い風船の行方
+
+主体：
+縦構図。夏の河川敷の遊歩道脇にある低い石段に、一人の女性が腰掛けている。人物は画面右寄りに配置され、全身が画面の約75％を占める。左上には大きな赤い風船が浮かび、細い白い糸が人物の右手へと繋がっている。青空と風船が広い余白を作り、夏らしい開放感を演出する。
+
+人物・表情：
+自然な日系の美しさを持つ成人女性。長めのダークブラウンの髪が風に流れ、軽やかな動きを見せる。透明感のある上品な日系メイク。柔らかなアイボリー寄りの肌、繊細なまつ毛、ほんのり血色を感じる頬と唇。視線は左上の赤い風船へ向けられ、少し口を開いた穏やかな表情。首筋から鎖骨にかけて自然な陰影が入り、大人らしい落ち着いた雰囲気を持つ。
+
+服装・ポーズ：
+身体のラインを美しく見せるモデル体型。長くまっすぐ伸びた脚、引き締まったウエスト、自然なボリューム感のあるシルエット。{argument name="トップス" default="アイボリーカラーのリブ素材Vネックトップス"}を着用し、胸元には控えめなボタンディテール。{argument name="ボトムス" default="淡い花柄の軽やかなミニスカート"}が風でわずかに揺れる。右手で風船の糸を持ち、左手は身体の後ろで石段を支える。右脚は自然に伸ばし、左脚は軽く曲げて立体感のあるポーズを作る。細いストラップのサンダルを着用。
+
+背景・光：
+夏の日本の河川敷遊歩道。左側には穏やかな川面、その奥には橋と遠景の街並みがぼんやり見える。右側には大きな並木が続き、木漏れ日が地面に落ちている。空には夏特有の大きな積乱雲が浮かぶ。太陽光は画面左上から差し込み、人物の頬、肩、脚に柔らかなハイライトを作る。木々からの反射光が陰影を和らげ、爽やかな夏の空気感を表現する。
+
+構図・カメラ：
+低めのローアングルによる広角気味の撮影。人物の脚を前景に大きく配置し、奥へ向かって視線が抜ける構図。赤い風船を画面左上に置くことで、人物と対角線構図を形成する。背景は浅めの被写界深度で柔らかくぼかし、人物と風船を主役として際立たせる。雑誌グラビアのような洗練されたバランス。
+
+質感・スタイル：
+高級ファッション誌のロケ撮影のようなリアルフォトスタイル。肌は自然な質感を残しつつ透明感を持たせる。髪の一本一本や衣服の繊維感、石段の粗い表面、葉の透過光まで丁寧に描写。彩度はやや高めながらもフィルム写真のような柔らかな階調を持つ。夏の青空と赤い風船の色対比を印象的に表現する。
+
+ネガティブ：
+不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077351218192748980) | 2026-07-15
+
+---
+
+### 🎨 例 4190：70 年代欧洲浪漫剧情片项目
+
+![70 年代欧洲浪漫剧情片项目](../images/70%20%E5%B9%B4%E4%BB%A3%E6%AC%A7%E6%B4%B2%E6%B5%AA%E6%BC%AB%E5%89%A7%E6%83%85%E7%89%87%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+写实风格的真人电影画面，地道的电影质感，拍摄效果如同在 {argument name="year range" default="1976 年至 1978 年"} 之间上映的一部被遗忘的 {argument name="genre" default="欧洲浪漫剧情片"}。
+
+灵感来源：
+
+{argument name="inspiration" default="《特殊的一天》(1977)”}
+
+[English]
+Grounded live-action cinema frame, authentic motion picture realism, photographed as a forgotten {argument name="genre" default="European romantic drama"} released between {argument name="year range" default="1976 and 1978"}.
+
+Inspired by:
+
+{argument name="inspiration" default="A Special Day (1977)"}
+```
+
+**来源：** [@Bobby bangsawan](https://x.com/Bou_bee/status/2077291998349013011) | 2026-07-15
+
+---
+
+### 🎨 例 4216：雨中地铁背叛场景
+
+![雨中地铁背叛场景](../images/%E9%9B%A8%E4%B8%AD%E5%9C%B0%E9%93%81%E8%83%8C%E5%8F%9B%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级、照片写实风格的从动漫到真人化的场景，背景为深夜大雨中的韩国地铁出口楼梯。画面中恰好有三个人物：前景中一对年轻男女正在楼梯半腰处接吻，背景上方平台处站着一名撑着黑伞的孤独青年。前景中的男子留着凌乱的深色短发，两侧剃短，穿着宽松褶皱的米色衬衫，袖子卷起，搭配深海军蓝阔腿裤和白色运动鞋；他一只手插在口袋里，俯身亲吻。前景中的女子留着黑色长发，穿着修身黑色上衣或夹克、红色格子百褶裙、黑色透明连裤袜和亮面黑色高跟鞋；她一只手按在男子的胸口，向上仰头。背景中的观察者留着苍白的银发，穿着深色大码连帽衫、深色短裤和运动鞋，撑着伞站在上方，面朝情侣，表情安静而孤独。场景设定在宽阔的灰色石阶上，两侧有金属扶手，墙壁为米色瓷砖，台阶旁有暖色壁灯，楼梯踏板湿润且带有反光。在顶部出口处，展示雨中霓虹闪烁的城市街道，带有蓝色和粉色的模糊招牌，可见明显的雨水。添加韩国地铁标识：左侧黑色标牌写着“Exit”和巨大的数字“2”，下方有较小的韩文目的地文字，右侧墙上挂着蓝色车站信息项目。采用戏剧性的对称构图，沿楼梯向上仰拍，接吻的情侣位于中心偏左，观察者位于顶部中心。灯光融合了隧道暖光与雨中城市的冷光，营造出关于背叛、被忽视和心碎的阴郁浪漫黑色电影氛围。超高细节，电影级景深，逼真质感，湿润反光，16:9 横屏比例。可根据需要使用以下参数自定义：{argument name="foreground man outfit" default="宽松褶皱米色衬衫，深海军蓝阔腿裤，白色运动鞋"}，{argument name="foreground woman outfit" default="黑色上衣，红色格子百褶裙，黑色透明连裤袜，亮面黑色高跟鞋"}，{argument name="observer appearance" default="银发青年，身穿深色大码连帽衫和短裤，手持黑伞"}，{argument name="subway exit number" default="2"} 以及 {argument name="mood" default="雨中孤独浪漫的背叛"}。
+
+[English]
+Create a cinematic photorealistic anime-to-live-action scene in a Korean subway exit stairwell at night during heavy rain. The image shows exactly three characters: a young man and young woman kissing halfway down the stairs in the foreground, and a solitary young man standing at the top landing under a black umbrella in the background. The foreground man has short dark tousled hair with shaved sides, a loose wrinkled beige button-up shirt with sleeves rolled, oversized dark navy pants, and white sneakers; one hand is in his pocket as he leans down into the kiss. The foreground woman has long black hair, a fitted black top or jacket, a red plaid pleated skirt, sheer black tights, and glossy black high heels; she presses one hand to his chest while leaning upward. The background observer has pale silver hair, a dark oversized hoodie, dark shorts, and sneakers, holding the umbrella above him while facing the couple with a quiet, lonely expression. Set the scene on a wide gray stone staircase with metal handrails on both sides, beige tiled subway walls, warm wall lights along the steps, and wet reflective stair treads. At the top opening, show a rainy neon-lit city street with blue and pink blurred signs and visible rainfall. Add Korean subway signage: a black sign on the left reading “Exit” and a large “2”, with smaller Korean destination text, plus blue station information boards on the right wall. Use a dramatic symmetrical composition looking upward along the stairs, with the kissing couple slightly left of center and the observer centered at the top. Lighting should mix warm tunnel lamps with cool rainy city glow, creating a moody romantic noir atmosphere about betrayal, invisibility, and heartbreak. Ultra-detailed, cinematic depth of field, realistic textures, wet reflections, 16:9 horizontal frame. Customize as needed with {argument name="foreground man outfit" default="loose wrinkled beige button-up shirt, oversized dark navy pants, white sneakers"}, {argument name="foreground woman outfit" default="black top, red plaid pleated skirt, sheer black tights, glossy black high heels"}, {argument name="observer appearance" default="pale silver-haired young man in a dark oversized hoodie and shorts holding a black umbrella"}, {argument name="subway exit number" default="2"}, and {argument name="mood" default="lonely romantic betrayal in the rain"}.
+```
+
+**来源：** [@CheryleCioppa](https://x.com/makerush12yk/status/2077209195137708422) | 2026-07-15
+
+---
+

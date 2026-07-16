@@ -6381,3 +6381,21 @@ Create a black-and-white manga fashion illustration on a clean white background 
 
 ---
 
+### 🎬 例 4192：1990 年代漫画风格新复古街景
+
+![1990 年代漫画风格新复古街景](../images/1990%20%E5%B9%B4%E4%BB%A3%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%96%B0%E5%A4%8D%E5%8F%A4%E8%A1%97%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+灵感源自 1990 年代漫画与复古动漫美学的电影质感新复古日本街景。一位 {argument name="character" default="留着黑色背头并扎成小发髻的自信青年"} 随意地倚靠在 {argument name="car" default="亮红色 Honda NSX (NA1)"} 的车尾，一只手插在口袋里，另一只手拿着一根 {argument name="prop" default="点燃的香烟"}。他微微仰头，向傍晚的天空缓缓吐出一缕充满戏剧性的烟雾，散发出冷静而叛逆的气质。身穿宽松的黑色大码 T 恤、黑色阔腿裤，脚蹬擦得锃亮的黑色皮质乐福鞋。狭窄的鹅卵石街道两旁排列着传统的日本江户风格木质建筑，窗户透出温暖的灯光，映衬着深邃的氛围阴影。采用柔和的大地色调，辅以浓郁的红色、炭黑色和暖棕色。极具细节的建筑纹理、电影级构图、忧郁的黄昏光影、细腻的胶片颗粒感、复古海报美学、融合了现代漫画写实主义的浮世绘风格透视、强烈的景深效果、怀旧的 1990 年代日本街头文化氛围，杰作，超高细节，无水印，无文字，无 Logo。
+
+[English]
+Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage anime aesthetics. A {argument name="character" default="confident young man with slicked-back black hair tied into a small bun"} leans casually against the rear of a {argument name="car" default="bright red Honda NSX (NA1)"}, one hand in his pocket and the other holding a {argument name="prop" default="lit cigarette"}. He tilts his head back while slowly exhaling a dramatic stream of smoke into the evening sky, giving off a calm, rebellious attitude. Wearing a loose black oversized T-shirt, wide-leg black trousers, and polished black leather loafers. Traditional Japanese Edo-style wooden buildings line both sides of a narrow cobblestone street, with warm lantern light glowing from windows and deep atmospheric shadows. Muted earthy color palette with rich reds, charcoal blacks, and warm browns. Highly detailed architectural textures, cinematic composition, moody dusk lighting, subtle film grain, vintage poster aesthetic, ukiyo-e inspired perspective blended with modern manga realism, dramatic depth, nostalgic 1990s Japanese street culture vibe, masterpiece, ultra-detailed, no watermark, no text, no logos.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2077279939070726176) | 2026-07-15
+
+---
+

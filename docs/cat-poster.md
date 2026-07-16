@@ -19429,3 +19429,151 @@ Visual style: Premium Muji-like Japanese lifestyle advertising, airy spacing, so
 
 ---
 
+### 🎴 例 4150：极简线性骨架海报
+
+![极简线性骨架海报](../images/%E6%9E%81%E7%AE%80%E7%BA%BF%E6%80%A7%E9%AA%A8%E6%9E%B6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题" default="任意主题内容"}组织成明亮洁净的平面海报，第一眼由大面积留白、细线大字和一团低位扩散的主题色喷雾共同建立秩序。画面保持空白纸面般的高明度底场，主要文字以极细、均匀、近似工程绘图的线性骨架出现，字距疏朗但尺度跳跃明显：少量超大字贴近边缘形成门柱般的视觉重量，多语标题或副标题横向悬在上方，局部主题字被拆开放大，像标识也像路径节点。中部偏下放置主题派生的荧光色雾块，颜色从主题中提取最清亮、最高明度、带轻微酸性感的支持色，中心较饱满，边缘由大量细小喷点向外消散，并垂直拖出数条半透明烟柱，让文字像漂浮在雾面前后而非压在图案上。文字色使用与雾色形成清晰分离的高饱和暖调或主题对照色，面积克制，承担标题、说明、符号和底部联系方式的统一声音；小字成短行分组，留出宽阔呼吸，不填满空白。所有图形都保持数字印刷的平整与干净，只让喷雾边缘出现颗粒化、漏喷和密度不均，避免厚重阴影、照片质感、渐变装饰和拥挤排版；最终效果应像实验传播中的开放字场，安静、醒目、轻微不稳定。\n\n——————\n\n每张图片画面元素：{argument name="城市" default="城市"}+{argument name="日期" default="2026-07-08"}+早安金句问候+5个不同形式的信息点+富有构图节奏变化\n每次1个城市，每个城市有不同的配色逻辑、构图逻辑变化\n一共10个城市，10张图片，依次生成\n注意：每张图片，构图排版彼此不同。\n比例16:9 横版
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077539312237990251) | 2026-07-15
+
+---
+
+### 🎴 例 4159：复古赛车汽车海报
+
+![复古赛车汽车海报](../images/%E5%A4%8D%E5%8F%A4%E8%B5%9B%E8%BD%A6%E6%B1%BD%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古赛车海报，适用于 {argument name="car" default="[CAR]"}，4:5 竖版比例。展示 {argument name="color" default="[COLOR]"} [CAR] 的正面低角度英雄视角，构图居中，背景为 {argument name="scenery" default="[SCENERY]"}。背景构建采用极简的场景深度和分层图形设计元素：大太阳形状、重叠的几何块、倾斜面板、柔和条纹、半透明形状以及简洁的留白，所有元素与场景完美融合。在顶部添加醒目的标题“[TITLE]”，放置一个小型的 [BRAND] 标志，以及简短的口号“[SLOGAN]”。使用 [PALETTE] 配色，呈现复古印刷褪色感、做旧纸张纹理、细微划痕、轻微的日晒色调，保持清晰的汽车细节、海报风格的对称性，以及精致的赛车主题编辑风格。
+
+[English]
+Retro motorsport poster for {argument name="car" default="[CAR]"}, 4:5 vertical. Show a front-facing low-angle hero view of the {argument name="color" default="[COLOR]"} [CAR], centered in the composition on {argument name="scenery" default="[SCENERY]"}. Build the background with minimalist scenic depth and layered graphic design elements: a large sun shape, overlapping geometric blocks, angled panels, soft stripes, translucent shapes, and clean negative space, all blended into the scenery. Add a bold title reading “[TITLE]” at the top, a small [BRAND] logo, and a short slogan reading “[SLOGAN]”. Use [PALETTE], vintage print fading, distressed paper texture, subtle scratches, slightly sun-bleached tones, crisp automotive detail, poster-style symmetry, and a refined race-inspired editorial finish.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2077436110607925535) | 2026-07-15
+
+---
+
+### 🎴 例 4173：浪漫新婚婚礼海报
+
+![浪漫新婚婚礼海报](../images/%E6%B5%AA%E6%BC%AB%E6%96%B0%E5%A9%9A%E5%A9%9A%E7%A4%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张浪漫的横版婚礼公告海报，展示 {argument name="couple description" default="一对年轻的东亚新郎新娘"} 的精致影棚肖像。画布：16:9 宽屏横向布局，柔和的淡粉色背景，带有微妙的光晕和淡淡的闪光，呈现明亮通透的精修婚纱照美学。主体：2 人居中位于上半部分，半身像，两人紧紧依偎并看向镜头。新娘位于左侧，身穿白色蕾丝婚纱，配有透明刺绣领口、半透明头纱，优雅的盘发装饰着珍珠和花朵发饰，妆容自然柔和，一只手轻轻掀起头纱；她手中拿着一束淡粉色和白色的花束，置于中心附近。新郎位于右侧，身穿黑色燕尾服，搭配白衬衫、黑色领结、白色方巾，翻领上别着精致的胸花或银色鹿形胸针，深色头发微乱，戴着圆框眼镜。排版与布局：在整个下半部分放置一个巨大的粗体珊瑚橙色单词 {argument name="large background word" default="LOVE"}，边缘略微裁剪，通过将人物置于字母的前后方来营造深度感。在中心位置叠加一行巨大的白色手写笔刷体短语 {argument name="script headline" default="Just Married"}，斜向覆盖在人物和大型字母上方，包含长下划线和绘画质感。底部信息栏：包含 5 个居中的小文本块，由细竖线分隔：1) "SAVE / THE / DATE"，2) {argument name="wedding date" default="14 / FEB / 2027"}，3) "CEREMONY" 下方带有一个微小的加号/星形装饰，4) {argument name="venue name" default="MOONLIT / GARDEN"}，5) "6:30 / PM"。在左下角和右下角各添加一个白色月桂装饰，左侧月桂旁加一个微小的闪光点。视觉风格：高端现代婚礼请柬，柔和的高调照明，平滑的皮肤精修，柔和的色调，珊瑚橙色排版，干净的编辑构图，精致的浪漫氛围。约束条件：没有多余的人物，除了指定的文字外没有额外文字，保持所有字迹清晰可辨，避免水印或标志。
+
+[English]
+Create a romantic horizontal wedding announcement poster featuring {argument name="couple description" default="a young East Asian bride and groom"} in a polished studio portrait. Canvas: wide 16:9 landscape layout, soft blush-pink background with subtle glow and faint sparkles, bright airy retouched wedding-photo aesthetic. Main subjects: exactly 2 people centered near the top half, shown from waist up and leaning close together while looking at the camera. The bride stands on the left wearing a white lace wedding dress with sheer embroidered neckline, a translucent veil, elegant updo with pearl-and-flower hair ornaments, soft natural makeup, and one hand lightly lifting the veil; she holds a small bouquet of pale pink and white flowers near the center. The groom stands on the right wearing a black tuxedo, white shirt, black bow tie, white pocket square, small decorative boutonniere or silver deer-shaped brooch on the lapel, tousled dark hair, and round glasses. Typography and layout: place a huge bold coral-orange word {argument name="large background word" default="LOVE"} across the entire bottom half, cropped slightly by the canvas edges, with the couple layered in front of and behind parts of the letters for depth. Overlay a large white handwritten brush-script phrase {argument name="script headline" default="Just Married"} diagonally across the center over the couple and the large letters, including a long underline stroke and painterly texture. Bottom information row: include exactly 5 small centered text blocks separated by thin vertical lines: 1) "SAVE / THE / DATE", 2) {argument name="wedding date" default="14 / FEB / 2027"}, 3) "CEREMONY" with a tiny plus/star ornament below, 4) {argument name="venue name" default="MOONLIT / GARDEN"}, 5) "6:30 / PM". Add exactly 2 small white laurel ornaments near the lower left and lower right, plus a tiny sparkle beside the left laurel. Visual style: premium modern wedding invitation, soft high-key lighting, smooth skin retouching, pastel palette, coral-orange typography, clean editorial composition, delicate romantic atmosphere. Constraints: no extra people, no additional text beyond the specified words, keep all lettering legible, avoid watermark or logo.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077358244561838311) | 2026-07-15
+
+---
+
+### 🎴 例 4177：奢华巧克力广告项目
+
+![奢华巧克力广告项目](../images/%E5%A5%A2%E5%8D%8E%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个专业的商业项目演示，在白色的演示项目上以 2x5 的整齐网格排列 10 个电影级画面。每个画面由细黑边框分隔。每个面板下方包含粗体场景编号（01–10）、时间戳和简短的制作说明。该项目应看起来像真正的广告代理商为奢华巧克力广告制作的预制作项目。标题 KITKAT “The Art of the Snap” 奢华商业项目 • 15 秒 风格：灵感源自高端巧克力广告的电影级奢华美学。浓郁的深色背景、戏剧性的灯光、优雅的慢动作、感性的质感、高级美食摄影、微距摄影、高端广告、超写实主义。场景 01 (0.0–1.5s) 全黑。一根 KitKat 巧克力棒从阴影中缓慢浮现，置于抛光的深色石质底座上。细小的可可粉在温暖的金色光线下漂浮。说明：揭幕 场景 02 (1.5–3.0s) 极致微距。镜头滑过浮雕的 KitKat 标志。巧克力表面反射出柔和温暖的高光。每一处纹理都清晰可见。说明：奢华细节 场景 03 (3.0–4.5s) 烘焙过的可可豆。马达加斯加香草荚。新鲜牛奶溅起。威化层。巧克力卷。所有元素缓慢环绕在巧克力棒周围。说明：原料升华 场景 04 (4.5–6.0s) KitKat 巧克力棒完美地从中间折断。时间几乎静止。巧克力碎片。威化碎屑。可可粉。巧克力屑。以优美的慢动作向外迸发。说明：完美的折断 场景 05 (6.0–7.5s) 镜头围绕折断的 KitKat 碎片进行缓慢的电影级环绕拍摄。奶油威化层显露出来。巧克力粉在光线中舞动。说明：漂浮的奢华 场景 06 (7.5–9.0s) 极致微距。融化的巧克力缓慢浇在折断的威化饼上。巧克力如丝绸般流动。细小的反射闪烁着光芒。说明：巧克力流 场景 07 (9.0–10.5s) 倾泻而下的液态巧克力包裹住 KitKat。巧克力丝带优雅地扭动。可可颗粒闪闪发光。说明：纯粹的享受 场景 08 (10.5–12.0s) 万物静止。巧克力液滴。威化碎屑。巧克力卷。可可粉。所有元素完美地悬浮在产品周围。说明：凝固的完美 场景 09 (12.0–13.5s) 终极主角镜头。完整的 KitKat 包装立在折断的巧克力棒旁边。温暖的电影级聚光灯。高级奢华构图。说明：产品主角 场景 10 (13.5–15.0s) 极简奢华背景。KitKat 标志出现。优雅的字体淡入。标语：“Have a Break. Enjoy Every Snap.” 说明：品牌签名 演示风格：• 专业好莱坞商业项目 • 广告代理商提案项目 • 10 个电影级项目帧 • 白色演示纸 • 细黑边框 • 场景编号 • 时间戳 • 制作说明 • 手绘项目笔记与超写实彩色画面的结合 • 高端巧克力广告 • 奢华美食广告 •
+
+[English]
+Create one professional commercial storyboard presentation showing 10 cinematic frames arranged in a clean 2!5 grid on a white presentation board. Thin black borders separate each frame. Each panel contains a bold scene number (01–10), timestamp, and a short production caption underneath. The storyboard should look like a real advertising agency pre-production board for a luxury chocolate commercial. TITLE KITKAT "The Art of the Snap" Luxury Commercial Storyboard • 15 Seconds STYLE Inspired by the cinematic luxury aesthetic of premium chocolate commercials. Rich dark background, dramatic lighting, elegant slow motion, sensual textures, premium food photography, macro cinematography, high-end advertising, ultra photorealistic. SCENE 01 (0.0–1.5s) Complete darkness. A single KitKat bar slowly emerges from shadow onto a polished dark stone pedestal. Tiny cocoa dust floats through warm golden light. Caption: The Reveal SCENE 02 (1.5–3.0s) Extreme macro. Camera glides across the embossed KitKat logo. Chocolate surface reflects soft warm highlights. Every texture is perfectly visible. Caption: Luxury Detail SCENE 03 (3.0–4.5s) Roasted cocoa beans. Madagascar vanilla pods. Fresh milk splash. Wafer layers. Chocolate curls. Everything slowly floats around the chocolate bar. Caption: Ingredients Rise SCENE 04 (4.5–6.0s) The KitKat bar snaps perfectly in half. Time almost freezes. Chocolate shards. Wafer crumbs. Cocoa powder. Chocolate flakes. Explode outward in beautiful slow motion. Caption: The Perfect Snap SCENE 05 (6.0–7.5s) Camera performs a slow cinematic orbit around the broken KitKat pieces. The creamy wafer layers are exposed. Chocolate dust dances through the light. Caption: Floating Luxury SCENE 06 (7.5–9.0s) Extreme macro. Molten chocolate slowly pours over the broken wafer. The chocolate moves like silk. Tiny reflections shimmer. Caption: Chocolate Flow SCENE 07 (9.0–10.5s) A cascade of liquid chocolate envelops the KitKat. Chocolate ribbons twist elegantly. Cocoa particles sparkle. Caption: Pure Indulgence SCENE 08 (10.5–12.0s) Everything freezes. Chocolate droplets. Wafer crumbs. Chocolate curls. Cocoa powder. All suspended perfectly around the product. Caption: Frozen Perfection SCENE 09 (12.0–13.5s) Ultimate hero shot. Complete KitKat package standing beside the broken chocolate bar. Warm cinematic spotlight. Premium luxury composition. Caption: Hero Product SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Elegant typography fades in. Tagline: "Have a Break. Enjoy Every Snap." Caption: Brand Signature Presentation style: • Professional Hollywood commercial storyboard • Advertising agency pitch board • 10 cinematic storyboard frames • White presentation sheet • Thin black borders • Scene numbers • Timestamps • Production captions • Combination of hand-drawn storyboard notes and ultra-realistic colored frames • Premium chocolate commercial • Luxury food advertising •
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2077345203049148886) | 2026-07-15
+
+---
+
+### 🎴 例 4186：极简奢华时尚广告
+
+![极简奢华时尚广告](../images/%E6%9E%81%E7%AE%80%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简奢华时尚广告，展示身着 {argument name="clothing" default="CLOTHING"} 的 {argument name="subject" default="HUMAN"}，透过高大的垂直波纹玻璃面板进行拍摄，在保持整体轮廓的同时营造出优雅的线性畸变效果。主体以居中构图自信站立，{argument name="background" default="BACKGROUND"} 在纹理玻璃后方隐约可见，在清晰与抽象之间达成精致的平衡。采用精致的 {argument name="palette" default="PALETTE"} 色调，配合柔和的定向光、细腻的阴影、平滑的色调渐变以及高级的编辑氛围。面部特征被肋状玻璃部分遮挡，在保持真实比例的同时强调神秘感与优雅气质。捕捉高端奢华广告大片的美学风格，展现精致的商业造型、纯粹的极简主义、电影般的深度、柔和的反射、高级的面料质感、清晰的细节以及冷静的现代氛围。画面应呈现出类似 Vogue、COS、Jil Sander 或 Acne Studios 广告大片的质感，运用留白、平衡的构图和永恒的视觉设计。将标题“{argument name="title" default="TITLE"}”置于画面中心，采用精致优雅的衬线字体，字间距细腻，与构图自然融合。超写实，照片级真实感，时尚大片，奢华广告，博物馆级摄影，8K，HDR，超精细，垂直 4:5 纵横比。
+
+[English]
+Minimalist luxury fashion advertisement featuring {argument name="subject" default="HUMAN"} wearing {argument name="clothing" default="CLOTHING"}, viewed through a tall vertical corrugated glass panel that creates elegant linear distortions while preserving the overall silhouette. The subject stands confidently in a centered composition with {argument name="background" default="BACKGROUND"} softly visible behind the textured glass, creating a refined balance between clarity and abstraction. Use a sophisticated {argument name="palette" default="PALETTE"} with soft directional lighting, subtle shadows, smooth tonal gradients, and a premium editorial atmosphere. Keep the facial features partially obscured by the ribbed glass, emphasizing mystery and elegance while maintaining realistic proportions. Capture a high-end luxury campaign aesthetic with polished commercial styling, clean minimalism, cinematic depth, soft reflections, premium fabric textures, crisp details, and a calm contemporary mood. The image should feel like a Vogue, COS, Jil Sander, or Acne Studios campaign, featuring negative space, balanced framing, and timeless visual design. Place the title "{argument name="title" default="TITLE"}" across the center in refined elegant serif typography with subtle spacing, blending naturally into the composition. Ultra-realistic, photorealistic, fashion editorial, luxury advertising, museum-quality photography, 8K, HDR, ultra-detailed, vertical 4:5 aspect ratio.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2077301677732802750) | 2026-07-15
+
+---
+
+### 🎴 例 4188：美妆广告选角联系表
+
+![美妆广告选角联系表](../images/%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E9%80%89%E8%A7%92%E8%81%94%E7%B3%BB%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端美妆选角联系表，主体为 {argument name="subject" default="一位梳着利落深色马尾辫、拥有明亮棕色双眸的女性"}，以 2x2 的整洁网格排列，呈现四种不同的社论构图，背景为 {argument name="background" default="薰衣草灰背景"}，身着 {argument name="attire" default="结构感象牙白衬衫并佩戴雕塑感耳环"}。第一帧：手持一朵超大花朵靠近面部。第二帧：背靠墙壁坐在地板上，双膝抬起。第三帧：双手撩动秀发，自然大笑。第四帧：突然转身，仿佛被意外捕捉，发丝间带有细腻的动态模糊。高级美妆广告灯光，奢华杂志美学，逼真的皮肤细节，长宽比 4:5。
+
+[English]
+High-end beauty casting contact sheet of a {argument name="subject" default="woman with a sleek dark ponytail and luminous brown eyes"}, arranged in a clean 2x2 grid of four distinct editorial frames against a {argument name="background" default="lavender-gray backdrop"}, wearing a {argument name="attire" default="structured ivory blouse and sculptural earrings"}. Frame 1: holding an oversized flower near her face. Frame 2: seated on the floor with her back against the wall and knees raised. Frame 3: lifting both hands into her hair while laughing naturally. Frame 4: turning abruptly as if caught by surprise, creating subtle motion blur in her hair. Premium beauty-campaign lighting, luxury magazine aesthetic, realistic skin detail, aspect ratio 4:5.
+```
+
+**来源：** [@Virena](https://x.com/vireonixx/status/2077299760646766906) | 2026-07-15
+
+---
+
+### 🎴 例 4194：高端 iPhone 时尚广告海报
+
+![高端 iPhone 时尚广告海报](../images/%E9%AB%98%E7%AB%AF%20iPhone%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用 {argument name="reference image" default="上传的图片"} 作为构图和灯光参考，但将女性角色替换为 {argument name="subject" default="一位自信的年轻黑人时尚男模，留着短质感发型，五官轮廓分明，表情冷静而有力"}。创作一张高端竖版智能手机广告海报，采用大胆的单色橙色调。以戏剧性的低角度视角展示他，一只手伸向镜头，同时将 {argument name="product" default="光泽感的橙色 iPhone 17 Pro"} 靠近镜头。手机应占据前景主导地位，呈现夸张的透视效果，清晰展示其三摄系统、金属边框、玻璃背板以及居中的 Apple 标志。
+
+让他身穿一件亮面焦橙色飞行员夹克，内搭修身白色 T 恤，下身穿着米色定制长裤。为他的夹克和头发添加细微的风吹动感，以增加活力。在他身后，放置一个明亮的圆形橙色霓虹灯环，勾勒出他的上半身。使用平滑的深橙色摄影棚背景，呈现电影般的渐变和柔和的大气光晕。
+
+在顶部添加一个小型的 Apple 标志，后接“iPhone 17”，并在角色身后放置巨大的粗体文字“PRO”。让文字部分被主体遮挡以营造深度感。高端商业摄影、戏剧性时尚大片、清晰的皮肤纹理、逼真的手部细节、精准的手机几何结构、温暖的轮廓光、光泽高光、强对比度、高端 Apple 风格产品展示、超细节、照片级真实感、8K 分辨率、竖版 4:5 构图。
+
+[English]
+Use {argument name="reference image" default="the uploaded image"} as a composition and lighting reference, but replace the female character with a {argument name="subject" default="confident young Black male fashion model with short textured hair, sharp facial features, and a calm, powerful expression"}. Create a premium vertical smartphone advertising poster in a bold monochromatic orange color palette. Show him from a dramatic low angle perspective, extending one hand toward the camera while holding a {argument name="product" default="glossy orange iPhone 17 Pro"} close to the lens. The phone should dominate the foreground with exaggerated perspective, clearly showing its triple camera system, metallic frame, glass back, and centered Apple logo.
+
+Dress him in a glossy burnt orange bomber jacket over a fitted white T shirt with beige tailored trousers. Add subtle wind movement to his jacket and hair for energy. Behind him, place a bright circular orange neon ring that frames his upper body. Use a smooth deep-orange studio background with cinematic gradients and soft atmospheric glow.
+
+At the top, add a small Apple logo followed by “iPhone 17”, and place enormous bold typography reading “PRO” behind the character. Keep the text partially obscured by the subject to create depth. High-end commercial photography, dramatic fashion campaign, crisp skin texture, realistic hands, accurate phone geometry, warm rim lighting, glossy highlights, strong contrast, premium Apple-style product presentation, ultra-detailed, photorealistic, 8K, vertical 4:5 composition.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2077272197425434900) | 2026-07-15
+
+---
+
+### 🎴 例 4220：透明质感北京晨间海报
+
+![透明质感北京晨间海报](../images/%E9%80%8F%E6%98%8E%E8%B4%A8%E6%84%9F%E5%8C%97%E4%BA%AC%E6%99%A8%E9%97%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="city name" default="北京"} 创作一张宁静的电影感晨间海报，呈现精致的透明玻璃美学。使用 16:9 宽画幅，柔和的晨雾光影，背景采用奶油色与冷蓝灰色的渐变，营造浅景深效果和优雅的杂志排版。在顶部中央，放置醒目的深海军蓝中式书法文字 {argument name="headline text" default="北京"}；下方添加小号字间距较大的衬线英文字体 “GOOD MORNING”，随后是日期 “2026-07-15”，以及一行细小的中文文案 {argument name="morning note" default="今日宜：看展 胡同漫步 | 今日忌：匆忙赶路"}。在底部中央，放置一个垂直的圆角矩形透明玻璃胶囊，立于白色大理石椭圆形底座上；胶囊内展示精致的北京微缩景观，包含淡雅的水墨山峦、隐约的宫殿屋顶，以及横贯中间的一抹明亮且发光的橙红色紫禁城建筑。玻璃物体应具有逼真的折射效果、圆润的边缘、柔和的高光、磨砂半透明感以及细腻的内部雾气。背景右侧包含模糊的传统北京寺庙亭阁，右上角有部分装饰性的屋檐角，左侧为遥远朦胧的山脉，底部为石质桌面。在右侧前景，放置一台复古银黑色的旁轴相机，置于堆叠的书籍之上，旁边是一个透明玻璃花瓶，插有一枝黄色的银杏叶；桌面上散落着几片落叶。整体氛围：宁静、诗意、高级、温暖的晨间问候，中式旅行美学，透明物体设计，写实 3D 渲染与柔和摄影风格结合，无人物，无水印，保持所有文字居中且清晰。
+
+[English]
+Create a serene cinematic morning poster for {argument name="city name" default="北京"} with a refined transparent-glass aesthetic. Use a wide 16:9 canvas, soft misty sunrise lighting, pale cream and cool blue-gray background gradients, shallow depth of field, and elegant editorial composition. At the top center, place large dark navy Chinese calligraphy text reading {argument name="headline text" default="北京"}; below it add small spaced serif English text “GOOD MORNING”, then the date “2026-07-15”, then a thin line of small Chinese copy reading {argument name="morning note" default="今日宜：看展 胡同漫步 | 今日忌：匆忙赶路"}. In the lower center, place a vertical rounded-rectangle transparent glass capsule standing on a white marble oval pedestal; inside the capsule show a delicate layered miniature Beijing landscape with pale ink-wash mountains, faint palace rooftops, and a bright glowing red-orange horizontal band of Forbidden City architecture across the middle. The glass object should have realistic refraction, rounded edges, soft highlights, frosted translucency, and subtle internal haze. The background should include a blurred traditional Beijing temple pavilion on the right, a partial ornate roof corner at the upper right, distant misty mountains on the left, and a stone tabletop surface at the bottom. On the right foreground, add an old silver-and-black rangefinder camera resting on stacked books beside a clear glass vase with a branch of yellow ginkgo leaves; include a few fallen yellow leaves on the tabletop. Overall mood: quiet, poetic, premium, warm morning greeting, Chinese travel aesthetics, transparent object design, realistic 3D render mixed with soft photography, no people, no watermark, keep all text centered and crisp.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077191604243485175) | 2026-07-15
+
+---
+

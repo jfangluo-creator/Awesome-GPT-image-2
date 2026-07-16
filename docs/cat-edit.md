@@ -2717,3 +2717,45 @@ Rework the given image into a {argument name="style" default="crayon-style illus
 
 ---
 
+### 🔧 例 4174：现代家庭健身房墙面改造
+
+![现代家庭健身房墙面改造](../images/%E7%8E%B0%E4%BB%A3%E5%AE%B6%E5%BA%AD%E5%81%A5%E8%BA%AB%E6%88%BF%E5%A2%99%E9%9D%A2%E6%94%B9%E9%80%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为基础房间照片，为家庭健身房的后墙创建一个逼真的室内设计改造效果图，同时保留现有的健身器材、拍摄角度、房间比例、地垫、跑步机、电视位置、倒立机、哑铃、绳索和健身球。
+
+目标：将未装饰的斑驳墙面替换为精致的现代健身房特色墙。
+
+墙面改造：精确添加 2 个主要墙面区域：1) 电视和跑步机桌后方的左侧暖色垂直木格栅装饰板，以及 2) 右侧带有暖色木框的大型落地长方形镜子。在特色墙边缘以及木格栅周围/后方添加柔和的暖色 LED 灯带，营造高端舒适的健身房氛围。
+
+新增元素：在电视正下方安装一个纤薄的黑色回音壁。在镜面反射中，展示一个整洁的相邻房间/走廊，并精确包含 5 个可见的反射装饰/设备元素：一盆室内绿植、一幅墙面挂画、一扇木门、一个哑铃架和一个壶铃。确保反射效果符合房间的几何结构。
+
+风格：照片级真实感的装修预览、暖色环境光、现代斯堪的纳维亚/家庭健身房美学、自然木色调、干净的米色墙面、逼真的阴影和反射效果。
+
+可自定义细节：格栅墙和镜框使用 {argument name="wood tone" default="暖橡木"}，{argument name="lighting color" default="暖白光 LED"}，{argument name="mirror size" default="大型落地长方形镜子"}，以及 {argument name="room style" default="现代舒适家庭健身房"}。
+
+约束条件：请勿移除或重新设计现有的健身器械和配件。保持相同的视角和整体布局。请勿添加人物、标志、带有可读文字的海报或不切实际的建筑结构改动。
+
+[English]
+Using REFERENCE_0 as the base room photo, create a realistic interior-design makeover mockup for the back wall of the home gym while keeping the existing gym equipment, camera angle, room proportions, floor mats, treadmill, TV position, inversion table, dumbbells, ropes, and exercise ball in place.
+
+Goal: Replace the unfinished spotted wall area with a polished modern gym feature wall.
+
+Wall transformation: Add exactly 2 main wall sections: 1) a warm vertical wood-slat accent panel on the left behind the TV and treadmill desk, and 2) a large floor-to-ceiling rectangular mirror on the right with a warm wood frame. Add soft warm LED strip lighting around the feature wall edges and behind/along the wood slats for an upscale cozy gym look.
+
+New elements to add: Mount a slim black soundbar directly below the TV. In the mirror reflection, show a clean adjacent room/hallway with exactly 5 visible reflected decor/equipment elements: a potted indoor tree, a framed wall picture, a wooden door, a dumbbell rack, and a kettlebell. Make the reflection plausible for the room geometry.
+
+Style: Photorealistic renovation preview, warm ambient lighting, modern Scandinavian/home-gym aesthetic, natural wood tones, clean beige walls, realistic shadows and reflections.
+
+Customizable details: Use {argument name="wood tone" default="warm oak"} for the slat wall and mirror frame, {argument name="lighting color" default="warm white LED"}, {argument name="mirror size" default="large floor-to-ceiling rectangular mirror"}, and {argument name="room style" default="modern cozy home gym"}.
+
+Constraints: Do not remove or redesign the existing exercise machines and accessories. Keep the same perspective and overall layout. Do not add people, logos, posters with readable text, or unrealistic architectural changes.
+```
+
+**来源：** [@kitze the 🐐](https://x.com/thekitze/status/2077352896388030850) | 2026-07-15
+
+---
+

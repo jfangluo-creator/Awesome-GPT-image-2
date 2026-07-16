@@ -5701,3 +5701,45 @@ Using the provided outfit reference image, convert the illustrated/mannequin out
 
 ---
 
+### 🧍 例 4161：Cleopatra 1990 年代动画角色设定集
+
+![Cleopatra 1990 年代动画角色设定集](../images/Cleopatra%201990%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E7%94%BB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Cleopatra"} 创建一套精致的角色设计转面图，风格参考 1990 年代传统手绘动画电影的制作赛璐珞。
+
+画布：宽幅横向白色工作室背景，简洁的展示页构图，无场景，无标签，无水印。
+
+布局：在两行中准确排列 11 个相同角色的绘图。顶行：5 个半身/头部研究，从左至右依次为：闭眼且下巴抬起的左侧面、侧视且表情平静的四分之三侧面、正面中性肖像、闭眼向下看的四分之三侧面、微笑/说话的四分之三向上侧面。底行：6 个全身转面姿势，从左至右依次为：单臂弯曲的正面四分之三站姿、叉腰的正面站姿、左侧面、回头看的背面四分之三侧面、向外展开透明披风的完整背面视图、背面四分之三/右侧视图。确保所有姿势中的比例和服装细节保持一致。
+
+主体细节：描绘一位年轻的埃及女王，拥有温暖的古铜色皮肤、带有夸张黑色眼线的杏仁眼、拱形眉毛、小巧的鼻子、丰满的嘴唇以及从容高贵的表情。她留着利落的黑色齐肩波波头，带有直刘海，佩戴金色头带，头带上方饰有带绿松石和红色点缀的小型直立眼镜蛇装饰。她的珠宝包括大型金质圆环吊坠耳环、金质臂环、金质腕带，以及由金色、绿松石色、青金石蓝和少量红色点缀组成的宽大埃及领饰，中心镶嵌一颗大型椭圆形蓝色宝石。
+
+服装：优雅的古埃及风格白色亚麻紧身裙，采用包裹式垂坠剪裁，高侧/前开叉，腰间配有镶嵌椭圆形蓝宝石的金腰带，正面垂挂垂直的金质与绿松石色装饰板，穿着金色系带凉鞋，手臂和肩部披挂半透明的淡蓝色雪纺披风或面纱。使用 {argument name="dress color" default="象牙白"}、{argument name="jewelry palette" default="金色、绿松石色、青金石蓝和红色"} 以及 {argument name="cape color" default="半透明淡蓝色"}。
+
+视觉风格：完美复刻 1990 年代手绘赛璐珞动画：干净利落的锥形墨线与填色、鲜艳的平涂色彩、微妙的赛璐珞阴影、极简的渐变、富有表现力的迪士尼式面部结构、优雅简化的解剖比例、清晰的制作艺术成品感。以 {argument name="animation era" default="1990 年代传统赛璐珞动画"} 作为指导美学。
+
+约束条件：准确绘制 5 个半身研究和 6 个全身姿势，在白色背景上均匀分布。在每个视图中保持相同的角色设计、发型、珠宝、服装和调色板。避免照片写实、3D 渲染、绘画质感、文字说明、额外角色、道具或背景元素。
+
+[English]
+Goal: Create a polished character design turnaround sheet for {argument name="character name" default="Cleopatra"}, styled like a traditional hand-drawn 1990s animated feature production cel.
+
+Canvas: Wide horizontal white studio background, clean presentation-sheet composition, no scenery, no labels, no watermark.
+
+Layout: Arrange exactly 11 drawings of the same character in two rows. Top row: 5 bust/head studies showing these views and expressions from left to right: left profile with eyes closed and chin raised, three-quarter view looking to the side with a calm expression, front-facing neutral portrait, three-quarter downward glance with eyes closed, three-quarter upward smiling/talking expression. Bottom row: 6 full-body turnaround poses from left to right: front three-quarter standing with one arm bent, front standing with hand on hip, left side profile, rear three-quarter looking back, full back view holding the sheer cape outward, rear three-quarter/right side view. Keep all proportions and costume details consistent across every pose.
+
+Subject details: Depict a young adult Egyptian queen with warm golden-brown skin, almond eyes with dramatic black eyeliner, arched brows, small nose, full lips, and a poised regal expression. She has a sleek blunt black bob haircut with straight bangs and a gold headband topped by a small upright cobra ornament with turquoise and red accents. Her jewelry includes large gold hoop-and-drop earrings, gold armbands, gold wrist cuffs, and a broad Egyptian collar necklace in gold, turquoise, lapis blue, and small red accents with a large oval blue gemstone at the center.
+
+Costume: Elegant ancient Egyptian-inspired white linen sheath dress with a wrapped, draped silhouette, high side/front slit, gold belt with an oval blue jewel at the waist, a vertical gold-and-turquoise decorative panel hanging down the front, gold strappy sandals, and a translucent pale blue chiffon cape or veil draped from the arms and shoulders. Use {argument name="dress color" default="ivory white"}, {argument name="jewelry palette" default="gold, turquoise, lapis blue, and red"}, and {argument name="cape color" default="translucent pale blue"}.
+
+Visual style: Flawlessly replicate 1990s hand-drawn cel animation: clean confident tapered ink-and-paint outlines, vibrant flat colors, subtle cel shadows, minimal gradients, expressive Disney-like facial construction, elegant simplified anatomy, crisp production art finish. Use {argument name="animation era" default="1990s traditional cel animation"} as the guiding aesthetic.
+
+Constraints: Exactly 5 bust studies and exactly 6 full-body poses, evenly spaced on a white background. Maintain identical character design, hairstyle, jewelry, dress, and color palette in every view. Avoid photorealism, 3D rendering, painterly texture, text captions, extra characters, props, or background elements.
+```
+
+**来源：** [@Kinovi.AI](https://x.com/kinovi_ai/status/2077433394473111891) | 2026-07-15
+
+---
+

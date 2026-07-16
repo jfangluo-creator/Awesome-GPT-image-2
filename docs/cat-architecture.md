@@ -2252,3 +2252,111 @@ Create a realistic intimate bedroom photograph of {argument name="subject" defau
 
 ---
 
+### 🏛️ 例 4153：深夜便利店街头摄影
+
+![深夜便利店街头摄影](../images/%E6%B7%B1%E5%A4%9C%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一套逼真的日常背景与姿势设定，主角为 {argument name="subject" default="成年女性"}，时间为夜晚。背景设定：夜晚灯火通明的社区便利店外景，明亮的店面，荧光灯光透过大玻璃窗洒出，冷柜发出微光，海报般不可辨认的色块，室外小型烟灰缸或立牌，自行车剪影，湿润的柏油路面，反射着白、绿、橙色的店面灯光，背景是层层叠叠的城市夜色。场景应充满日常感、城市气息，并由夜晚的人造光鲜明地勾勒出来。景深锁定：营造清晰的三层构图。前景处，柔和虚化的防撞柱、自行车把手或湿润路面的倒影靠近镜头。中景处，主角站在店外靠近窗户或入口边缘的位置。背景处，便利店内部的微光、货架的纵深感、玻璃倒影以及更远处的黑暗街道自然地向后延伸。利用玻璃倒影和路面光泽营造深度，避免平面的光墙感。构图锁定：采用 4:5 的竖向生活照裁剪比例，从腰部高度拍摄，取景范围从大腿中部或腰部到头部。主角占据画面约 65%–75%。保留发光的玻璃、部分入口边框、部分湿润路面倒影以及层层叠叠的店面纵深。画面应呈现出自然的深夜街头瞬间。动作与姿势锁定：主角双脚着地自然站立，身体略微朝向店面。一只手在胸部下方或腰部高度拿着 {argument name="prop" default="小杯热饮或瓶装饮料"}。另一只手自然地放在口袋附近、身体一侧，或轻轻靠在店面边缘。双肩下垂，姿态放松，重心分布自然，仿佛刚走出来稍作停留。相机与视线锁定：头部保持与店面侧向的角度一致，而不是完全转向镜头。相机放置在玻璃边缘附近，处于她自然的视野范围内。仅双眼短暂看向镜头，头部转动幅度极小，保留自然的三分之四侧脸角度和安静的抓拍感。避免：正对镜头、僵硬的摆拍姿势、夸张的倚靠、抬膝、向观众展示饮料、全身街拍、空洞的黑暗背景、画面中出现可辨认的商业文字或真实品牌 Logo。
+
+[English]
+Photorealistic everyday background-and-pose set featuring an {argument name="subject" default="adult woman"} at night. Background identity: a brightly lit neighborhood convenience-store exterior at night, with a glowing storefront, fluorescent interior light spilling through large glass windows, refrigerated display glow, poster-like non-readable color blocks, a small outdoor ashtray or stand, bicycle silhouettes, wet asphalt, reflected white-green-orange storefront light, and layered city darkness beyond. The setting should feel ordinary, urban, and unmistakably shaped by artificial light at night. Depth lock: create a clear three-layer composition. In the foreground, a softly blurred bollard, bicycle handlebar, or wet pavement reflection enters near the lens. In the middle ground, the subject stands just outside the storefront near the window or entrance edge. In the background, the convenience-store interior glow, shelf depth, glass reflections, and darker street beyond recede naturally. Use the window reflections and pavement sheen to create depth instead of a flat lit wall. Composition lock: vertical 4:5 lifestyle crop from around waist height, framed from mid-thigh or waist to head. The subject fills about 65–75% of the frame. Keep the glowing glass, part of the entrance frame, some wet pavement reflection, and layered store depth visible. The image should feel like a natural nighttime street moment. Action and pose lock: the subject stands casually with both feet on the ground, body angled slightly toward the storefront. One hand holds a {argument name="prop" default="small warm drink cup or bottle"} at lower-chest or waist height. The other hand rests naturally near the pocket area, the side of the body, or lightly against the storefront edge. Shoulders remain lowered, posture relaxed, and weight distribution natural, as if she has just stepped out and paused for a moment. Camera and gaze lock: her head remains mostly aligned with the storefront-side angle rather than turning fully toward the camera. The camera is positioned near the glass edge within her natural forward field. Only her eyes shift briefly toward the lens, with minimal head movement, preserving a natural three-quarter face angle and a quiet candid feeling. Avoid: facing the camera square-on, hard posed stance, dramatic lean, raised knee, drink presented toward the viewer, full-body street snapshot, empty dark background, readable commercial text or real logos dominating the frame.
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2077517875653566741) | 2026-07-15
+
+---
+
+### 🏛️ 例 4154：晨光卧室人像
+
+![晨光卧室人像](../images/%E6%99%A8%E5%85%89%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+光をまとう肩
+
+主体：
+縦長4:5。朝の光が差し込む静かな和モダンの寝室で、{argument name="女性の年齢" default="20代前半の成人女性"}が{argument name="ベッドの色" default="クリーム色"}のベッドに腰掛けている。人物は画面中央やや右に配置し、頭から太ももまでが画面の約7割を占める。画面左手前には大きなアイボリーの枕を置き、人物の腕と胴体の一部に自然に重なる。
+
+人物・表情：
+明るいアイボリーベージュ寄りの白肌で、ほんのりローズ色の血色を含むなめらかな肌。過度に均一化せず、頬、首、肩、鎖骨に自然な肌理と柔らかな光沢を残す。顔立ちは上品で繊細、落ち着いたドールライクな日系メイク。淡いローズピンクのチーク、シャンパンベージュとピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、明るめブラウンの柔らかな眉、透け感のあるピンクベージュのグロスリップ。目を静かに閉じ、口元にごく小さな微笑みを浮かべる。顎を少し上げ、頭を画面左へ傾ける。
+
+服装・ポーズ：
+成熟した大人らしいモデル体型。細い肩紐の{argument name="衣装の色" default="シャンパンベージュ"}のサテンキャミソールを着用し、胸元は深めのVライン。上から無地の薄いシフォンガウンを肩まで落として羽織り、袖と腕にはわずかな透明感を持たせる。柄、刺繍、ロゴは入れない。上半身を軽く反らせ、肩を自然に開く。画面左側の腕は枕に沿わせ、もう一方の手は膝の近くへ下ろす。右脚は画面右下へ伸び、衣服の裾には柔らかな皺と重みを出す。
+
+背景・光：
+画面左奥に木枠の窓と薄い生成り色のカーテン、窓辺に小さな枝物を挿した透明な花瓶と陶器。画面右奥には木枠の障子風建具。背景はベージュ、木、アイボリーで統一し、生活感を抑えた落ち着いた寝室。主光は画面左上の窓から差し込む暖かな朝日。顔の左側、肩、鎖骨、胸元、太ももに柔らかなハイライトを入れ、影は画面右下へ自然に落とす。カーテン越しの光で硬すぎない明暗差を作る。
+
+構図・カメラ：
+縦位置のミディアムポートレート。カメラは人物の胸よりやや高い位置から、ほぼ平視で撮影。85mm相当の自然な圧縮感。顔と上半身にピントを合わせ、背景は穏やかにぼかす。人物の頭上には少量の余白を残し、左前景の枕を大きく入れて奥行きを作る。髪は頬と額に数本かかり、右側へふわりと広がる。
+
+質感・スタイル：
+フォトリアルな日系ポートレート。柔らかなフィルム調の粒子、低めのコントラスト、暖色寄りの自然な色温度。サテンの滑らかな反射、シフォンの薄さ、リネンの枕と寝具の繊維感を丁寧に表現する。肌は自然な毛穴と微細な陰影を残し、プラスチック感のない繊細な仕上がり。
+
+ネガティブ：
+不自然な顔、不自然な体型、余分な指、欠けた指、手足の融合、関節の破綻、布と身体の接触不良、不自然な透明表現、光源と矛盾する影、過度な美肌補正、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077517312861647151) | 2026-07-15
+
+---
+
+### 🏛️ 例 4197：电影级水下亚特兰蒂斯城
+
+![电影级水下亚特兰蒂斯城](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B0%B4%E4%B8%8B%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E5%9F%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽屏电影级奇幻水下城市景观，展示 {argument name="lost city name" default="Atlantis"}，视角略微抬高，仿佛俯瞰巨大的海底峡谷。场景中包含一座宏伟的古代宫殿建筑群，且必须有 5 个显眼的圆顶结构：一个巨大的中央大教堂式圆顶，两侧各有一个中型圆顶，左侧中景有一个较小的圆顶，最右侧还有一个较小的圆顶。建筑后方矗立着 2 座高耸的尖塔，中景处有一座横跨的长拱形渡槽桥，一条石板大道通向中央宫殿。添加 4 座显眼的雕像：右侧一座手持三叉戟的海王大雕像，大道左侧基座上的一座长袍雕像，前景中央基座上的一座小型雕像，以及宫殿入口附近的一座远景守护者雕像。遗迹周围环绕着珊瑚礁、海藻、古老的圆柱、破碎的寺庙、发光的蓝色生物发光植物以及覆盖着藻类的风化岩石。加入海洋生物，水面上方有 3 条大鲨鱼，右上角有一群密集的微小鱼类，左下角前景处有一群 7 条发光的蓝色鱼类。光影为戏剧性的青蓝色水下阳光，强烈的阳光从水面倾泻而下，伴有体积雾、闪烁的微粒、焦散高光、深邃的阴影，营造出魔法般的古代文明氛围。采用超精细的数字绘景风格，史诗般的规模，写实的奇幻建筑，华丽的圆顶，巴洛克与古典遗迹，丰富的青色/蓝绿色调，点缀金色与珊瑚色，高对比度，前景细节锐利，向深处逐渐过渡为朦胧的景深。无文字，无人物，无现代物体，无边框或水印。长宽比 16:9。
+
+[English]
+Create a wide cinematic fantasy underwater cityscape of {argument name="lost city name" default="Atlantis"}, seen from a slightly elevated viewpoint as if looking into an immense submerged valley. The scene shows a grand ancient palace complex with exactly 5 prominent domed structures: one huge central cathedral-like dome, two medium domes flanking it, one smaller dome in the left midground, and one smaller dome on the far right. Include exactly 2 tall spire towers rising behind the architecture, a long arched aqueduct bridge crossing the middle distance, and a stone avenue leading toward the central palace. Add exactly 4 prominent statues: a large sea-king statue on the right holding a trident, a robed statue on a pedestal near the left side of the avenue, a smaller central pedestal statue in the foreground, and a distant guardian statue near the palace entrance. Surround the ruins with coral reefs, seaweed, ancient columns, broken temples, glowing blue bioluminescent plants, and weathered stone covered in algae. Include marine life with exactly 3 large sharks in the upper water, one school of many tiny fish near the upper right, and one foreground school of 7 glowing blue fish in the lower left. Lighting is dramatic turquoise-blue underwater sunlight, with strong rays streaming down from the surface, volumetric haze, sparkling particles, caustic highlights, deep shadows, and a magical ancient-civilization mood. Use an ultra-detailed digital matte painting style, epic scale, realistic fantasy architecture, ornate domes, Baroque and classical ruins, rich teal/cyan palette with hints of gold and coral, high contrast, sharp foreground detail fading into misty depth. No text, no people, no modern objects, no frame or watermark. Aspect ratio 16:9.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077270445397586038) | 2026-07-15
+
+---
+
+### 🏛️ 例 4198：精灵树顶之城
+
+![精灵树顶之城](../images/%E7%B2%BE%E7%81%B5%E6%A0%91%E9%A1%B6%E4%B9%8B%E5%9F%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅史诗般的电影级奇幻环境概念艺术场景，描绘一座建在巨型雨林树木上的古老精灵树顶之城，建筑风格为 {argument name="architecture style" default="华丽的新艺术运动精灵哥特式建筑"}。采用 16:9 宽幅全景构图，视角从前景的木制阳台和桥梁出发，俯瞰深邃多雾的森林山谷。展示支撑着优雅悬空房屋的参天树干、青绿色圆顶屋顶、彩色玻璃拱窗、金色花丝装饰、雕花木阳台、散发着温暖琥珀色光芒的灯笼，以及连接树木之间、由绳索和木材制成的多座吊桥。在前景步道上清晰可见 7 个类人身影：左侧聚集着四个身穿长袍的身影，一个孤独的身影站在靠近中心护栏处眺望远景，另有两个较小的身影位于更左侧靠近桥梁入口处。场景应包含郁郁葱葱的翡翠色叶片、垂下的藤蔓、从树洞中透出的蓝绿色魔法光芒、散落的紫色生物发光植物、远处穿过森林倾泻而下的众多瀑布、柔和的体积雾，以及透过树冠过滤的清冷晨光。营造出令人敬畏、宁静、古老且充满魔法的氛围，具备极致的环境细节、分层的深度感、大气透视、逼真的纹理、电影级光影以及超精细的高奇幻绘景品质。自定义设置 {argument name="fantasy city name" default="一座精灵森林堡垒"}，主屋顶颜色为 {argument name="roof color" default="深青铜绿"}，光影氛围为 {argument name="lighting mood" default="带有温暖灯笼光芒的朦胧蓝色黎明"}，魔法光芒颜色为 {argument name="magical glow color" default="青蓝色"}。画面中不得包含任何文字、标志、现代物体或科幻机械。
+
+[English]
+Create an epic cinematic fantasy environment concept art scene of an ancient elven treetop city built into colossal rainforest trees, with {argument name="architecture style" default="ornate Art Nouveau elven Gothic architecture"}. Use a wide panoramic 16:9 composition viewed from an elevated wooden balcony and bridge in the foreground, looking across a deep misty forest valley. Show towering tree trunks supporting elegant suspended houses, domed teal-green roofs, stained-glass arched windows, gold filigree trim, carved wooden balconies, lanterns glowing warm amber, and multiple rope-and-wood suspension bridges spanning between trees. Include exactly 7 visible humanoid figures on the foreground walkway: four robed figures gathered on the left, one lone figure standing near the center railing facing the vista, and two smaller figures farther left near the bridge entrance. The scene should feature lush emerald foliage, hanging vines, blue-green magical light glowing from hollow tree openings, scattered purple bioluminescent plants, many distant waterfalls cascading through the forest, soft volumetric fog, and cool morning light filtering through the canopy. Make the mood awe-inspiring, serene, ancient, and magical, with extreme environmental detail, layered depth, atmospheric perspective, realistic textures, cinematic lighting, and ultra-detailed high-fantasy matte painting quality. Customize the setting as {argument name="fantasy city name" default="an elven forest citadel"}, the primary roof color as {argument name="roof color" default="deep turquoise patina"}, the lighting mood as {argument name="lighting mood" default="misty blue dawn with warm lantern glow"}, and the magical glow color as {argument name="magical glow color" default="cyan blue"}. No text, no logos, no modern objects, no sci-fi machinery.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077270185137103343) | 2026-07-15
+
+---
+
+### 🏛️ 例 4219：自然卧室自拍
+
+![自然卧室自拍](../images/%E8%87%AA%E7%84%B6%E5%8D%A7%E5%AE%A4%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度写实的手机自拍照片，画面中是一位自然的素颜年轻女性，{argument name="character name" default="未命名女性"}，正坐在黄金时刻温馨小卧室里凌乱的床上。相机以 4:5 的宽角垂直构图，从手臂长度的高处近距离拍摄，略微俯视她的面部和身体，前景可见她伸出的手臂。她留着 {argument name="hair color" default="深棕黑色"} 的凌乱扎发，配有细碎刘海，有着大而柔和的棕色眼睛，几乎没化妆或完全素颜，皮肤纹理自然，直视镜头时带着温柔放松的浅笑。她穿着一件褪色的灰粉色宽松 T 恤和浅白色棉质短裤。房间私密且充满生活气息：床上铺着浅色床单，右侧堆着一条鼠尾草绿色的毯子；右下方有一张小型木质床头柜，柜上有 3 件可见物品：一杯琥珀色冰茶、一个黑色电视遥控器和一个深色发圈，另有一根白色充电线横跨在床上。她身后有一个开放式嵌入式架子/柜子，2 层隔板上放着护肤品瓶、小盒子、书籍和纸巾，一扇打开的米色柜门映照着温暖的阳光。使用 {argument name="lighting" default="温暖的午后阳光和柔和的阴影"}，带有轻微的镜头畸变、写实的手机相机噪点、随意的构图、自然的色彩分级，且不使用摄影棚灯光。保持私密、日常、健康且不刻意的氛围，就像一张随手拍的卧室自拍。
+
+[English]
+Create a highly realistic smartphone selfie photo of a natural bare-faced young adult woman, {argument name="character name" default="unnamed woman"}, sitting on an unmade bed in a small cozy bedroom at golden hour. The camera is held high and close at arm’s length in a wide-angle vertical 4:5 composition, looking slightly down at her face and body, with her extended arm visible in the foreground. She has {argument name="hair color" default="dark brown-black"} messy tied-up hair with wispy bangs, large soft brown eyes, minimal or no makeup, natural skin texture, and a gentle relaxed half-smile while looking directly into the lens. She wears a faded dusty pink loose T-shirt and light white cotton shorts. The room is intimate and lived-in: exactly 1 rumpled bed with pale sheets and a sage-green blanket bunched on the right, exactly 1 small wooden bedside table on the lower right, exactly 3 visible items on the table consisting of a glass of amber iced tea, a black TV remote, and a dark hair tie, plus 1 white charging cable looping across the bed. Behind her is exactly 1 open built-in shelf/cabinet with 2 visible shelves containing skincare bottles, small boxes, books, and tissues, and an open beige cabinet door catching warm sunlight. Use {argument name="lighting" default="warm late-afternoon sunlight with soft shadows"}, subtle lens distortion, realistic phone-camera noise, candid casual framing, natural color grading, and no studio lighting. Keep the mood private, everyday, wholesome, and unposed, like a spontaneous bedroom selfie.
+```
+
+**来源：** [@周防義経](https://x.com/y_suou/status/2077200068055331099) | 2026-07-15
+
+---
+

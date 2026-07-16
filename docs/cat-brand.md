@@ -10544,3 +10544,173 @@ Character Sheet: Create a professional character design sheet from the uploaded 
 
 ---
 
+### 🏷️ 例 4152：动漫风格角色概念设计图
+
+![动漫风格角色概念设计图](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级、现代且时尚的“角色概念设计图”，采用 {argument name="layout" default="16:9 宽屏布局"}，背景为纯白色，并遵循以下精确的结构化构图和视觉美学：[风格]：{argument name="art style" default="高度精致的 2D 数字动漫"}
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a {argument name="layout" default="16:9 widescreen layout"} on a pure white background, following this exact structured composition and visual aesthetic: [STYLE]: {argument name="art style" default="highly polished 2D digital anime"}
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2077526636162109842) | 2026-07-15
+
+---
+
+### 🏷️ 例 4172：Vogue 时尚杂志风格项目网格
+
+![Vogue 时尚杂志风格项目网格](../images/Vogue%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%E9%A1%B9%E7%9B%AE%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 3×3 的项目网格（共 9 张图像），采用 Vogue 高级时尚杂志风格，并以 {argument name="reference image" default="提供的图像"} 作为主体。
+
+所有图像必须保持相同的身份、面部特征、发型、服装和整体角色形象，确保主体在整个项目中看起来完全一致且连贯。
+
+项目结构应具备清晰的视觉进度：
+
+第 1–3 帧 — Vogue 杂志风格广角镜头
+广角电影感时尚镜头，具备强烈的构图和高级光泽美学。
+
+第 4–6 帧 — 杂志风格中景肖像
+聚焦于姿态、体态、互动、细微动作以及自信肢体语言的中景镜头。
+
+第 7–9 帧 — 美妆与细节特写
+通过浅景深突出情绪、皮肤纹理、妆容、面料、配饰及视觉亮点的特写镜头。
+
+[English]
+Create a 3×3 storyboard grid (9 images total) in a Vogue high-fashion editorial style, using {argument name="reference image" default="the provided image"} as the main subject.
+
+All images must preserve the same identity, facial features, hairstyle, outfit, and overall character, so the subject looks fully consistent and cohesive across the entire storyboard.
+
+Structure the storyboard with clear visual progression:
+
+Frames 1–3 — Wide Vogue Editorial Shots
+Wide, cinematic fashion shots with strong composition and premium glossy aesthetics.
+
+Frames 4–6 — Medium Portrait Editorial Shots
+Medium shots focusing on gesture, posture, interaction, subtle movement, and confident body language.
+
+Frames 7–9 Close-Up Beauty & Detail Shots
+Close ups highlighting emotion, skin texture, makeup, fabrics, accessories, and visual accents with shallow depth of field.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2077369061495722323) | 2026-07-15
+
+---
+
+### 🏷️ 例 4175：古迹中空灵的中性风音乐家
+
+![古迹中空灵的中性风音乐家](../images/%E5%8F%A4%E8%BF%B9%E4%B8%AD%E7%A9%BA%E7%81%B5%E7%9A%84%E4%B8%AD%E6%80%A7%E9%A3%8E%E9%9F%B3%E4%B9%90%E5%AE%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张令人惊叹的空灵奇幻肖像，描绘了一位中性风的年轻流浪音乐家，拥有 {argument name="hair" default="蓬松凌乱的银白色长发"}、精致的瓷白肌肤、柔和的少年面部轮廓、复古圆形金丝眼镜、优雅的垂坠耳环、叠戴戒指和精致首饰，身着飘逸的超大长袍、刺绣面料、风化的斗篷以及带有复杂纹理的长围巾。角色正在轻轻弹奏 {argument name="instrument" default="传统弦乐器（鲁特琴、西塔琴或曼陀林）"}，站立或坐落于 {argument name="location" default="受佩特拉、拉贾斯坦邦、被遗忘的寺庙、砂岩遗迹和沙漠建筑启发的宏伟古代历史场景"} 中。微风拂过衣物与发丝，营造出动态感。采用暖桃色、象牙白、砂岩色、腮红粉、尘土米色、柔和灰与金色的配色方案，梦幻的电影级阳光，柔和的大气薄雾，水彩与水墨渲染质感，绘画风格的概念艺术，高度精细的笔触，细腻的线条艺术，优雅的构图，华丽的服装设计，奇幻旅行插画，东方与中东融合的美学，新艺术运动风格影响，超精细插画，顶级艺术画册品质，ArtStation 热门作品，CGSociety 大师级作品，8K 分辨率，HDR，复杂的纹理，富有表现力的光影，微妙的喷溅效果，极简背景，魔幻现实主义，情感宁静，异想天开的奇幻插画。
+
+[English]
+A breathtaking ethereal fantasy portrait of an androgynous young wandering musician with {argument name="hair" default="voluminous tousled white-silver hair"}, delicate porcelain skin, soft youthful facial features, round vintage gold-rim glasses, elegant dangling earrings, layered rings and fine jewelry, wrapped in flowing oversized robes, embroidered fabrics, weathered cloaks and long scarves with intricate textures. The character gently plays a {argument name="instrument" default="traditional string instrument (lute, sitar, or mandolin)"}, standing or sitting in a {argument name="location" default="majestic ancient historical location inspired by Petra, Rajasthan, forgotten temples, sandstone ruins, and desert architecture"}. Wind sweeps through the clothing and hair, creating dynamic motion. Warm peach, ivory, sandstone, blush pink, dusty beige, muted gray and gold color palette, dreamy cinematic sunlight, soft atmospheric haze, watercolor and ink wash textures, painterly concept art, highly detailed brushwork, delicate line art, elegant composition, ornate costume design, fantasy travel illustration, East-meets-Middle-Eastern aesthetics, Art Nouveau influences, ultra-detailed illustration, premium artbook quality, trending on ArtStation, CGSociety masterpiece, 8K, HDR, intricate textures, expressive lighting, subtle splatter effects, minimal background distractions, magical realism, emotionally serene, whimsical fantasy illustration.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2077351368692785358) | 2026-07-15
+
+---
+
+### 🏷️ 例 4189：霓虹动漫偶像双人海报
+
+![霓虹动漫偶像双人海报](../images/%E9%9C%93%E8%99%B9%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E5%8F%8C%E4%BA%BA%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫偶像选拔海报，画面中两位全身的少女偶像在橙色至粉色的对角线分割背景下共同跳跃并面向观众摆出姿势。左侧偶像在左上角标有白色大号手写 Logo {argument name="left idol name" default="ねね*"}，她拥有长而蓬松的亮粉色双马尾卷发，绿色眼睛，单眼眨眼，佩戴猫耳状半透明全息配饰，笑容灿烂；她向镜头伸出左手，俏皮地抬起一条腿。右侧偶像在右上角标有优雅的白色手写体 Logo {argument name="right idol name" default="Sol"}，她拥有非常飘逸的长黑发，琥珀色眼睛，自信温暖的笑容，佩戴橙色花朵发饰，手臂向上/向右伸展指向前方，同时靠近另一位女孩。为两位角色穿上配套的未来感演唱会偶像服装，采用金属银底色，搭配半透明水晶褶边、腰带、搭扣、蝴蝶结、吊带、手镯和发光装饰：左侧服装使用粉色、洋红色、青色和虹彩高光，右侧服装使用橙色、金色、白色和琥珀色高光。画面仅包含两位偶像和两个名称 Logo，不得出现其他角色。为两人添加超大号闪亮厚底系带靴、发光腕环、叠层短裙、露脐上衣、大腿绑带以及环绕身体飞舞的长条半透明丝带。采用高细节光泽感动漫插画风格，运用动态透视、闪烁星芒、半调网点、对角线速度线、霓虹光效、棱镜反射，展现欢快的 J-pop 偶像活力。画布应为 9:16 竖版海报，全身构图，角色居中，色彩明亮饱和，线条清晰，服装细节精致，且无水印。
+
+[English]
+Create a vibrant vertical anime idol audition poster featuring two full-body teenage idol girls jumping together and posing toward the viewer on a hot orange-to-pink diagonal split background. The left idol, labeled with the large white handwritten logo {argument name="left idol name" default="ねね*"} in the upper left, has long voluminous bright pink twin-tail hair with loose curls, green eyes, one eye winking, cat-ear-like translucent holographic accessories, and a huge open smile; she reaches her left hand toward the camera and lifts one leg playfully. The right idol, labeled with the elegant white script logo {argument name="right idol name" default="Sol"} in the upper right, has very long flowing black hair, amber eyes, a warm confident smile, orange flower hair ornaments, and points upward/right with her extended arm while leaning close to the other girl. Dress both characters in matching futuristic concert idol costumes with metallic silver bases, translucent crystal ruffles, belts, buckles, bows, garters, bracelets, and glowing accents: the left costume uses pink, magenta, cyan, and iridescent rainbow highlights, while the right costume uses orange, gold, white, and amber highlights. Include exactly two idols, exactly two name logos, and no other characters. Add oversized shiny platform lace-up boots for both, glowing wrist rings, layered short skirts, cropped tops, thigh straps, and long translucent ribbon trails swirling around their bodies. Use a high-detail glossy anime illustration style with dynamic foreshortening, sparkling starbursts, halftone dots, diagonal speed lines, neon glow, prismatic reflections, and a celebratory J-pop idol energy. Canvas should be a vertical 9:16 poster, full-body composition, centered characters, bright saturated colors, crisp linework, intricate costume details, and no watermark.
+```
+
+**来源：** [@ねね*AIcreator](https://x.com/NeneneAI/status/2077293026893090849) | 2026-07-15
+
+---
+
+### 🏷️ 例 4195：古城中的 Skyborne 动漫机车少女
+
+![古城中的 Skyborne 动漫机车少女](../images/%E5%8F%A4%E5%9F%8E%E4%B8%AD%E7%9A%84%20Skyborne%20%E5%8A%A8%E6%BC%AB%E6%9C%BA%E8%BD%A6%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节极其丰富的竖版动漫奇幻插画，主角是 {argument name="character name" default="April"}，一位自信的年轻女性，正驾驶着一辆定制重型机车在阳光明媚的中美洲风格古城上空飞行。构图采用戏剧性的低角度视角，超大的前轮占据左下方前景，长长的镀铬前叉向中心延伸，配有高耸的猿吊式车把、圆形前大灯、外露引擎、多个抛光的排气管，以及饰有精美雕刻的金色和绿松石色机车车身，后轮在骑手下方隐约可见。骑手留着 {argument name="hair color" default="light brown"} 的头发，扎着松散的侧马尾，留着柔和的刘海，有着温暖的棕色眼睛，带着淡淡的自信微笑，侧身坐着，姿态轻松，双臂交叉。她穿着一身全白装饰风格的机车服：白色夹克、宽松的白裤子、包裹着的白色袜子、深色鞋子，以及一件像日本暴走族外套那样长而飘逸的白色大衣，上面绣满了花卉刺绣和垂直的汉字风格文字 {argument name="coat text" default="明日天下"}。在她身后，系在机车上的是 1 个巨大的透明袋子，里面装满了许多深色金属小块，看起来像符文金属矿石。机车和骑手处于飞行状态，背对着车把后方炽热的太阳，光芒四射，背景是蓝天、蓬松的白云和下方遥远的奇幻城市。背景中包含 2 座大型阶梯金字塔神庙、许多小型城市建筑、漂浮的尘埃或蒸汽云，以及散落在低空中的 6 个红色羽毛状飞行物。整张图片采用受阿兹特克/玛雅图案启发的华丽对称边框：金色、青色和赤陶色的几何图案；左上角和右上角各有 1 个风格化的带翼蛇/鹰生物；顶部中心有 1 个圆形太阳徽章；底部中心有 1 个圆形标志；以及装饰性的角落徽章。采用奢华的插画海报风格，线条细腻，金色高光温暖，镀铬反光，珠宝般的装饰，电影级光影，动态视角，以及超精细的动漫渲染。整体氛围保持胜利、奇幻且充满冒险感。不要出现现代城市天际线，不要出现照片级写实面孔，不要有多余的骑手，不要有多余的机车，不要有水印。
+
+[English]
+Create a highly detailed vertical anime fantasy illustration of {argument name="character name" default="April"}, a confident young woman riding a custom chopper motorcycle through the sky above a sunlit ancient Mesoamerican-style city. The composition is a dramatic low-angle view with the oversized front wheel dominating the lower left foreground, long chrome forks rising toward the center, high ape-hanger handlebars, a round headlamp, exposed engine, multiple polished exhaust pipes, ornate engraved gold-and-turquoise motorcycle bodywork, and the rear wheel partly visible under the rider. The rider has {argument name="hair color" default="light brown"} hair in a loose side ponytail with soft bangs, warm brown eyes, a faint smug smile, and a relaxed cross-armed pose while seated sideways. She wears an all-white decorated biker outfit: white jacket, loose white pants, wrapped white socks, dark shoes, and a long flowing white coat like a Japanese biker gang coat, covered with floral embroidery and vertical kanji-style lettering reading {argument name="coat text" default="明日天下"}. Behind her, tied to the motorcycle, place exactly 1 large transparent sack filled with many small dark metallic chunks, like rune metal ore. The motorcycle and rider appear airborne, backlit by a blazing sun directly behind the handlebars, with radiant beams, blue sky, puffy white clouds, and a distant fantasy city below. In the background include exactly 2 large stepped pyramid temples, many small city buildings, drifting dust or steam clouds, and exactly 6 red feather-like flying objects scattered in the lower sky. Frame the entire image with an ornate symmetrical border inspired by Aztec/Mayan motifs: gold, teal, and terracotta geometric patterns; exactly 2 stylized winged serpent/eagle creatures at the top left and top right corners; exactly 1 circular sun medallion centered at the top; exactly 1 circular emblem centered at the bottom; and decorative corner medallions. Use a luxurious illustrated poster style with intricate linework, warm golden highlights, reflective chrome, jewel-like ornamentation, cinematic lighting, dynamic perspective, and ultra-detailed anime rendering. Keep the mood triumphant, whimsical, and adventurous. No modern city skyline, no photorealistic faces, no extra riders, no extra motorcycles, no watermark.
+```
+
+**来源：** [@ゆんゆん。。](https://x.com/manga0365/status/2077271950926463321) | 2026-07-15
+
+---
+
+### 🏷️ 例 4196：天穹哥特图书馆
+
+![天穹哥特图书馆](../images/%E5%A4%A9%E7%A9%B9%E5%93%A5%E7%89%B9%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超精细的电影级奇幻环境：一座位于哥特式大教堂风格天文台内的宏大天穹图书馆，高耸的深色木质书架延伸至巨大的拱顶，装饰着华丽的青铜金色花丝。场景为广角全景室内视角，从地面高度拍摄，抛光的黑色大理石地面反射着温暖的烛光，以及如银河之河般流淌在地面上的蓝色星光带。包含三个明显的螺旋楼梯：右侧一个宏伟的弧形楼梯，配有发光的台阶灯；一个环绕高大圆柱形书塔的中央螺旋楼梯；以及左侧一个较小的楼梯。添加巨大的拱形窗户，直接通向外太空，窗外可见星云、恒星、行星，左上方窗外可见一个明亮的螺旋星系。包含两个放置在底座或桌子上的发光蓝色天体球，以及右侧前景阅读桌上两本打开的、带有发光效果的书籍。建筑结构应显得极其高耸且层次分明，配有阳台、桥梁、圆形平台、雕花栏杆、彩色玻璃圆顶、金色的尘埃微粒、柔和的体积光束以及充满魔法的氛围。使用深红木色、古金色、午夜蓝和发光的宇宙青色组成的丰富色调。风格：史诗级高奇幻概念艺术，超写实，错综复杂，氛围感强，细节锐利，戏剧性的广角构图，无人物，无可见文字，无水印。
+
+[English]
+Create an ultra-detailed cinematic fantasy environment: a vast celestial library inside a gothic cathedral-like observatory, with towering dark wood bookshelves rising into immense vaulted arches and ornate bronze-gold filigree. The scene is a wide panoramic interior, viewed from floor level, with a polished black marble floor reflecting warm candlelight and flowing bands of blue starlight like a river of galaxies across the ground. Include exactly three prominent spiral staircases: one grand sweeping staircase on the right with glowing step lights, one central spiral staircase wrapping around a tall cylindrical book tower, and one smaller staircase on the left side. Add enormous arched windows opening directly onto outer space, showing nebula clouds, stars, planets, and a bright spiral galaxy outside the upper left window. Include exactly two glowing blue celestial orbs on pedestals or tables, and exactly two open illuminated books on the right foreground reading desk. The architecture should feel impossibly tall and layered, with balconies, bridges, circular platforms, carved railings, stained-glass domes, gold dust motes, soft volumetric sunbeams, and magical atmosphere. Use a rich palette of deep mahogany, antique gold, midnight blue, and luminous cosmic cyan. Style: epic high-fantasy concept art, hyperrealistic, intricate, atmospheric, sharp details, dramatic wide-angle composition, no people, no readable text, no watermark.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077270476607439354) | 2026-07-15
+
+---
+
+### 🏷️ 例 4200：阳光露背家居时尚肖像
+
+![阳光露背家居时尚肖像](../images/%E9%98%B3%E5%85%89%E9%9C%B2%E8%83%8C%E5%AE%B6%E5%B1%85%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的全身时尚编辑风格图像，主角是一位年轻女性，留着 {argument name="hair color" default="柔和中棕色"} 的短波浪波波头，在室内站立，背部大部分朝向镜头，头部越过肩膀望向明亮的窗户。她身材苗条优雅，表情平静且略带惊讶。她身穿一件精致的香槟米色露背吊带背心，带有细交叉肩带和后腰小系带，搭配垂坠至地面的飘逸象牙白阔腿家居裤；整体造型轻盈、柔美且奢华，不显暴露。场景为一个阳光明媚的奶油色调客厅，右侧是高大的白色法式落地窗，窗外可见绿色花园植被；左侧有一张米色沙发，配有两个圆柱形靠枕；背景中有内置书架，摆放着书籍、相框和装饰花瓶；光亮的浅色大理石地面反射着阳光。采用从窗户射入的柔和自然晨光，暖色高光，柔和阴影，浅景深，真实的皮肤纹理，高端杂志摄影质感，4:5 竖构图，全身视角并略微居左，优雅的中性色调，无文字，无水印，无其他人物。
+
+[English]
+Create a photorealistic full-body fashion portrait of a young adult woman standing indoors with her back mostly facing the viewer, near tall white French windows in a bright elegant living room. She has {argument name="hair color" default="soft medium brown"} shoulder-length slightly wavy bob hair with wispy bangs, and she turns her head over her right shoulder in a calm side-profile gaze toward the window, one hand gently touching the back of her hair. She wears a delicate {argument name="outfit color" default="warm ivory beige"} backless camisole-style top with very thin crisscross straps tied at the lower back, plus matching sheer wide-leg palazzo pants that drape to the floor, airy and semi-translucent but tasteful and editorial. The pose is graceful and natural, emphasizing an elegant back silhouette, relaxed shoulders, and soft feminine styling. The room is cream-toned and luxurious: a built-in bookshelf on the left with neatly arranged books, one framed photo, one decorative vase, and one small round ornament; a low cream sofa beneath it with exactly two cylindrical bolster pillows; large floor-to-ceiling French doors on the right with white mullions and brass handles; lush green garden foliage visible outside; polished light marble floor with subtle gray veining and sunlit window reflections. Use warm morning sunlight streaming through the windows, soft highlights, gentle shadows on the floor, shallow depth of field, realistic skin texture, natural proportions, high-end lifestyle photography, 85mm lens look, vertical 4:5 composition, bright airy beige palette, no text, no watermark, no extra people.
+```
+
+**来源：** [@周防義経](https://x.com/y_suou/status/2077263272135573930) | 2026-07-15
+
+---
+
+### 🏷️ 例 4208：蛇蝎美人赌场刺客
+
+![蛇蝎美人赌场刺客](../images/%E8%9B%87%E8%9D%8E%E7%BE%8E%E4%BA%BA%E8%B5%8C%E5%9C%BA%E5%88%BA%E5%AE%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张风格化的全身概念艺术插画，描绘一位迷人的蛇蝎美人扑克反派，{argument name="character name" default="无名赌场刺客"}，自信地站在极简主义的摄影棚舞台上。她是一位高挑、苗条、深棕色皮肤的女性，拥有棱角分明的五官、微眯的双眼和冷酷威严的表情。为她设计一款短款不对称的铂金金色波波头，带有夸张的侧分刘海，部分遮住一只眼睛。她必须穿着 6 件可见的服装/配饰元素：1) 一件露肩深黑色晚礼服，配有雕塑感的甜心领口，2) 长款黑色歌剧手套，3) 高开叉露出一条腿，4) 尖头黑色高跟鞋，5) 一条粗金项链，以及 6) 手腕上的一只金手镯。她手里拿着 1 件物品：一把黑色的手枪，在放松的左手中向下垂着，右手叉腰。使用充满戏剧性的低角度时尚姿势，一条腿向前伸展，礼服拖在身后的地板上。采用流畅的 3D 角色概念风格渲染，具有低多边形棱角面、图形化赛璐珞着色光影、硬朗的轮廓高光、深邃的阴影，以及精致的黑色电影赌场犯罪氛围。背景是一个空的浅灰色渐变摄影棚，带有浅色地板平面和长长的投射阴影，宽屏 16:9 构图，主体略微偏左居中，留有大量负空间，无文字，无 Logo，无额外道具，无其他角色。
+
+[English]
+Create a stylized full-body concept art illustration of a glamorous femme-fatale poker villain, {argument name="character name" default="unnamed casino assassin"}, standing confidently on a minimalist studio stage. She is a tall, slim, dark-tan woman with sharp angular features, narrowed eyes, and a cold intimidating expression. Give her a short asymmetrical platinum-blonde bob haircut with a dramatic side part that partially covers one eye. She wears exactly 6 visible outfit/accessory elements: 1) a strapless deep-black evening gown with a sculptural sweetheart neckline, 2) long black opera gloves, 3) a high slit exposing one leg, 4) pointed black high heels, 5) a chunky gold choker necklace, and 6) a gold bracelet on one wrist. She holds exactly 1 object: a black pistol hanging downward in her relaxed left hand, while her right hand rests on her hip. Use a dramatic low-angle fashion pose with one leg extended forward and the gown trailing behind on the floor. Render in a sleek 3D-character-concept style with low-poly angular planes, graphic cel-shaded lighting, hard rim highlights, deep shadows, and a sophisticated noir casino-crime mood. The background is an empty light gray gradient studio with a pale floor plane and long cast shadow, wide cinematic 16:9 composition, subject centered slightly left with lots of negative space, no text, no logo, no extra props, no other characters.
+```
+
+**来源：** [@illi.gg](https://x.com/illi_gg/status/2077234036343463955) | 2026-07-15
+
+---
+

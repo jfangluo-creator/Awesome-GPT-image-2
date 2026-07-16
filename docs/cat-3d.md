@@ -5298,3 +5298,21 @@ A whimsical, ultra-detailed 3D illustration of a cute toddler girl with an overs
 
 ---
 
+### 🧸 例 4202：金色幻想立体模型少女
+
+![金色幻想立体模型少女](../images/%E9%87%91%E8%89%B2%E5%B9%BB%E6%83%B3%E7%AB%8B%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级超精细幻想立体模型场景，采用 16:9 宽画幅：一个位于光面黑色弧形底座上的微缩花园小径，覆盖着茂密的苔藓、细小的草丛、石块和温暖的金色光芒。在右侧中心站着 {argument name="character name" default="一位优雅的动漫风格年轻女性"}，全身像，身体略微背对，但回头看向观众，表情冷静自信。她拥有 {argument name="hair color" default="长长的波浪状金发"}，面容精致，身穿修身的黑色维多利亚风格外套和长裤，饰有华丽的金色刺绣、蕾丝袖口、黑色高跟靴，展现出精致的幻想贵族轮廓。一条半透明的发光金色溪流或道路从左前方蜿蜒穿过花园延伸至背景，像充满微小光点的液态玻璃一样闪烁。在小径和苔藓上散布着恰好七只毛茸茸的黄色小鸡：一只在左前方，一只在下方中心，一只在右下方，一只在右侧中部，一只在角色脚边，一只在发光小径旁的左侧中心，还有一只在角色身后的岩石附近。在背景中，添加一个发光的月牙雕塑和由温暖仙女灯组成的精致桥梁或凉亭状装饰，以及由透明金色玻璃和散景光形成的巨大环形弧线和树状水晶枝条。使用浅景深效果，左侧有模糊的前景水晶枝条，背景有闪烁的圆形散景，营造出戏剧性的微距摄影感，采用温暖的琥珀金色调，高写实度与动漫手办美学相结合，材质精细，带有发光粒子和体积光，无文字或水印。
+
+[English]
+Create a cinematic ultra-detailed fantasy diorama in a horizontal 16:9 frame: a tiny elegant anime-style young woman named {argument name="character name" default="Kyoro"} stands on a mossy miniature garden path, turned three-quarters away but looking back over her shoulder toward the viewer with a calm, slightly wistful expression. She has long flowing {argument name="hair color" default="golden blonde"} hair, delicate facial features, and wears a fitted {argument name="outfit color" default="black"} high-collared coat and slim trousers with ornate metallic gold embroidery, lace cuffs, and heeled boots, like a refined dark royal fantasy outfit. The scene is a tabletop-scale magical landscape: a winding translucent golden illuminated river/path curves from the foreground left toward the back, sparkling with warm fairy lights; dense green moss, small grasses, tiny shrubs, and scattered gray stones cover the ground. Include exactly 7 small fluffy yellow chicks placed around the character and path: 1 chick in the foreground moss near the glowing stream, 1 chick standing on the stream edge left of the character, 1 chick just behind the character near her hand, 1 chick centered in front of her feet, 1 chick to the right of her boots, 1 chick farther right near the grass, and 1 chick at the lower right foreground. In the background, add a miniature crescent moon ornament and a small decorative bridge or bench wrapped in golden lights, plus crystal-clear sculptural arcs like frozen splashing water rising along the right edge and looping behind the scene. Use warm golden hour lighting, shallow depth of field, strong bokeh, luminous highlights, intricate textures, macro photography realism blended with high-end anime figure aesthetics, dramatic rim light on the hair, rich black-and-gold contrast, no text, no watermark, no extra characters.
+```
+
+**来源：** [@YakruzaIna](https://x.com/YakruzaIna/status/2077257273311985765) | 2026-07-15
+
+---
+
