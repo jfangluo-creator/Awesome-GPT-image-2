@@ -2899,7 +2899,7 @@ Important: Keep everything exactly the same as the original image (pose, camera 
 
 ### 🧍 例 1225：暗黑 TRPG 反派角色设定表
 
-![暗黑 TRPG 反派角色设定表](../../images/%E6%9A%97%E9%BB%91%20TRPG%20%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+![暗黑 TRPG 反派角色设定表](../images/%E6%9A%97%E9%BB%91%20TRPG%20%E5%8F%8D%E6%B4%BE%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -2945,7 +2945,7 @@ Constraints: Keep the image as a single finished character sheet, not a collage 
 
 ### 🧍 例 1246：角色一致性项目
 
-![角色一致性项目](../../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E9%A1%B9%E7%9B%AE.jpg)
+![角色一致性项目](../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -2963,7 +2963,7 @@ Create a {argument name="style" default="2.5D IDENTITY BOARD"} using image1 as e
 
 ### 🧍 例 1251：黑色电影侦探杰作
 
-![黑色电影侦探杰作](../../images/%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E4%BE%A6%E6%8E%A2%E6%9D%B0%E4%BD%9C.jpg)
+![黑色电影侦探杰作](../images/%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E4%BE%A6%E6%8E%A2%E6%9D%B0%E4%BD%9C.jpg)
 
 **Prompt:**
 
@@ -2981,7 +2981,7 @@ A highly detailed, cinematic film noir masterpiece in the style of classic 1940s
 
 ### 🧍 例 1402：皮克斯风格 CGI 角色冲刺
 
-![皮克斯风格 CGI 角色冲刺](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20CGI%20%E8%A7%92%E8%89%B2%E5%86%B2%E5%88%BA.jpg)
+![皮克斯风格 CGI 角色冲刺](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20CGI%20%E8%A7%92%E8%89%B2%E5%86%B2%E5%88%BA.jpg)
 
 **Prompt:**
 
@@ -2999,7 +2999,7 @@ The {argument name="character" default="photorealistic character"} from the refe
 
 ### 🧍 例 1429：沙漠时尚大片人像
 
-![沙漠时尚大片人像](../../images/%E6%B2%99%E6%BC%A0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
+![沙漠时尚大片人像](../images/%E6%B2%99%E6%BC%A0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3017,7 +3017,7 @@ Ultra-realistic luxury color fashion editorial featuring a beautiful {argument n
 
 ### 🧍 例 1445：电影级宠物照片增强器
 
-![电影级宠物照片增强器](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA%E5%99%A8.jpg)
+![电影级宠物照片增强器](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -3035,7 +3035,7 @@ Using the provided reference image, enhance and upscale it into an ultra-premium
 
 ### 🧍 例 1451：天体观测台探索者
 
-![天体观测台探索者](../../images/%E5%A4%A9%E4%BD%93%E8%A7%82%E6%B5%8B%E5%8F%B0%E6%8E%A2%E7%B4%A2%E8%80%85.jpg)
+![天体观测台探索者](../images/%E5%A4%A9%E4%BD%93%E8%A7%82%E6%B5%8B%E5%8F%B0%E6%8E%A2%E7%B4%A2%E8%80%85.jpg)
 
 **Prompt:**
 
@@ -3085,7 +3085,7 @@ Style Strength: Ultra Realistic • Cinematic • Fantasy Realism • Editorial 
 
 ### 🧍 例 1505：动漫旅行角色设定集拼贴画
 
-![动漫旅行角色设定集拼贴画](../../images/%E5%8A%A8%E6%BC%AB%E6%97%85%E8%A1%8C%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![动漫旅行角色设定集拼贴画](../images/%E5%8A%A8%E6%BC%AB%E6%97%85%E8%A1%8C%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -3137,7 +3137,7 @@ Style: Cute monochrome-and-muted-color manga sketch, loose black ink outlines, p
 
 ### 🧍 例 1508：与 Cristiano Ronaldo 的合影
 
-![与 Cristiano Ronaldo 的合影](../../images/%E4%B8%8E%20Cristiano%20Ronaldo%20%E7%9A%84%E5%90%88%E5%BD%B1.jpg)
+![与 Cristiano Ronaldo 的合影](../images/%E4%B8%8E%20Cristiano%20Ronaldo%20%E7%9A%84%E5%90%88%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -3167,7 +3167,7 @@ Keep the composition natural and believable like a real fan moment with {argumen
 
 ### 🧍 例 1527：GPT Image 2 面部特征保持肖像
 
-![GPT Image 2 面部特征保持肖像](../../images/GPT%20Image%202%20%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E4%BF%9D%E6%8C%81%E8%82%96%E5%83%8F.jpg)
+![GPT Image 2 面部特征保持肖像](../images/GPT%20Image%202%20%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E4%BF%9D%E6%8C%81%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3189,7 +3189,7 @@ Face from uploaded reference only. Keep the same pose, outfit, background, light
 
 ### 🧍 例 1550：单轨列车胶囊旅行场景
 
-![单轨列车胶囊旅行场景](../../images/%E5%8D%95%E8%BD%A8%E5%88%97%E8%BD%A6%E8%83%B6%E5%9B%8A%E6%97%85%E8%A1%8C%E5%9C%BA%E6%99%AF.jpg)
+![单轨列车胶囊旅行场景](../images/%E5%8D%95%E8%BD%A8%E5%88%97%E8%BD%A6%E8%83%B6%E5%9B%8A%E6%97%85%E8%A1%8C%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -3267,7 +3267,7 @@ Face from uploaded reference only. Keep the same pose, outfit, background, light
 
 ### 🧍 例 1590：奢华黑白时尚编辑拼贴画
 
-![奢华黑白时尚编辑拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![奢华黑白时尚编辑拼贴画](../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -3285,7 +3285,7 @@ Using the provided reference image, create an ultra-realistic 2×2 editorial col
 
 ### 🧍 例 1609：身份锁定型奢华时尚肖像
 
-![身份锁定型奢华时尚肖像](../../images/%E8%BA%AB%E4%BB%BD%E9%94%81%E5%AE%9A%E5%9E%8B%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+![身份锁定型奢华时尚肖像](../images/%E8%BA%AB%E4%BB%BD%E9%94%81%E5%AE%9A%E5%9E%8B%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3343,7 +3343,7 @@ Aspect Ratio 9:16
 
 ### 🧍 例 1615：Dark Sword Angel 角色设定集
 
-![Dark Sword Angel 角色设定集](../../images/Dark%20Sword%20Angel%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![Dark Sword Angel 角色设定集](../images/Dark%20Sword%20Angel%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -3385,7 +3385,7 @@ Constraints: Keep the whole board readable as a single professional character re
 
 ### 🧍 例 1633：带有动态克隆的时尚大片
 
-![带有动态克隆的时尚大片](../../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E5%85%8B%E9%9A%86%E7%9A%84%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![带有动态克隆的时尚大片](../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E5%85%8B%E9%9A%86%E7%9A%84%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -3403,7 +3403,7 @@ Cinematic fashion editorial photography of a {argument name="subject" default="w
 
 ### 🧍 例 1650：海滩烟火大会上优雅的日式浴衣少女
 
-![海滩烟火大会上优雅的日式浴衣少女](../../images/%E6%B5%B7%E6%BB%A9%E7%83%9F%E7%81%AB%E5%A4%A7%E4%BC%9A%E4%B8%8A%E4%BC%98%E9%9B%85%E7%9A%84%E6%97%A5%E5%BC%8F%E6%B5%B4%E8%A1%A3%E5%B0%91%E5%A5%B3.jpg)
+![海滩烟火大会上优雅的日式浴衣少女](../images/%E6%B5%B7%E6%BB%A9%E7%83%9F%E7%81%AB%E5%A4%A7%E4%BC%9A%E4%B8%8A%E4%BC%98%E9%9B%85%E7%9A%84%E6%97%A5%E5%BC%8F%E6%B5%B4%E8%A1%A3%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -3481,7 +3481,7 @@ Cinematic fashion editorial photography of a {argument name="subject" default="w
 
 ### 🧍 例 1652：哥特风狐妖巫女
 
-![哥特风狐妖巫女](../../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E7%8B%90%E5%A6%96%E5%B7%AB%E5%A5%B3.jpg)
+![哥特风狐妖巫女](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E7%8B%90%E5%A6%96%E5%B7%AB%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -3507,7 +3507,7 @@ Background and style: dark textured night backdrop with a large pale circular mo
 
 ### 🧍 例 1690：异世界公会接待员角色转换
 
-![异世界公会接待员角色转换](../../images/%E5%BC%82%E4%B8%96%E7%95%8C%E5%85%AC%E4%BC%9A%E6%8E%A5%E5%BE%85%E5%91%98%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+![异世界公会接待员角色转换](../images/%E5%BC%82%E4%B8%96%E7%95%8C%E5%85%AC%E4%BC%9A%E6%8E%A5%E5%BE%85%E5%91%98%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -3521,7 +3521,7 @@ Background and style: dark textured night backdrop with a large pale circular mo
 
 ### 🧍 例 1736：海贼王风格悬赏令
 
-![海贼王风格悬赏令](../../images/%E6%B5%B7%E8%B4%BC%E7%8E%8B%E9%A3%8E%E6%A0%BC%E6%82%AC%E8%B5%8F%E4%BB%A4.jpg)
+![海贼王风格悬赏令](../images/%E6%B5%B7%E8%B4%BC%E7%8E%8B%E9%A3%8E%E6%A0%BC%E6%82%AC%E8%B5%8F%E4%BB%A4.jpg)
 
 **Prompt:**
 
@@ -3551,7 +3551,7 @@ Constraints: preserve the reference person’s recognizable hair and beard struc
 
 ### 🧍 例 1745：卡帕多奇亚热气球晨间人像
 
-![卡帕多奇亚热气球晨间人像](../../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%83%AD%E6%B0%94%E7%90%83%E6%99%A8%E9%97%B4%E4%BA%BA%E5%83%8F.jpg)
+![卡帕多奇亚热气球晨间人像](../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%83%AD%E6%B0%94%E7%90%83%E6%99%A8%E9%97%B4%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3599,7 +3599,7 @@ Constraints: preserve the reference person’s recognizable hair and beard struc
 
 ### 🧍 例 1778：横向角色参考图
 
-![横向角色参考图](../../images/%E6%A8%AA%E5%90%91%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+![横向角色参考图](../images/%E6%A8%AA%E5%90%91%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3617,7 +3617,7 @@ Horizontal {argument name="subject" default="character reference sheet"} on {arg
 
 ### 🧍 例 1822：超现实 LEGO 人偶
 
-![超现实 LEGO 人偶](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20LEGO%20%E4%BA%BA%E5%81%B6.jpg)
+![超现实 LEGO 人偶](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20LEGO%20%E4%BA%BA%E5%81%B6.jpg)
 
 **Prompt:**
 
@@ -3635,7 +3635,7 @@ Create a surreal studio portrait of a man from an attached photo with a large-si
 
 ### 🧍 例 1830：一致的游戏角色扩展
 
-![一致的游戏角色扩展](../../images/%E4%B8%80%E8%87%B4%E7%9A%84%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%89%A9%E5%B1%95.jpg)
+![一致的游戏角色扩展](../images/%E4%B8%80%E8%87%B4%E7%9A%84%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%89%A9%E5%B1%95.jpg)
 
 **Prompt:**
 
@@ -3724,7 +3724,7 @@ Create a surreal studio portrait of a man from an attached photo with a large-si
 
 ### 🧍 例 1844：霓虹蝴蝶仙子奇幻艺术
 
-![霓虹蝴蝶仙子奇幻艺术](../../images/%E9%9C%93%E8%99%B9%E8%9D%B4%E8%9D%B6%E4%BB%99%E5%AD%90%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
+![霓虹蝴蝶仙子奇幻艺术](../images/%E9%9C%93%E8%99%B9%E8%9D%B4%E8%9D%B6%E4%BB%99%E5%AD%90%E5%A5%87%E5%B9%BB%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -3742,7 +3742,7 @@ Create an ultra-detailed vertical fantasy anime illustration of {argument name="
 
 ### 🧍 例 1863：城市公园休闲肖像
 
-![城市公园休闲肖像](../../images/%E5%9F%8E%E5%B8%82%E5%85%AC%E5%9B%AD%E4%BC%91%E9%97%B2%E8%82%96%E5%83%8F.jpg)
+![城市公园休闲肖像](../images/%E5%9F%8E%E5%B8%82%E5%85%AC%E5%9B%AD%E4%BC%91%E9%97%B2%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3760,7 +3760,7 @@ Create image of a "{argument name="subject" default="A young man"} (use refrence
 
 ### 🧍 例 1896：地狱暗影忍者
 
-![地狱暗影忍者](../../images/%E5%9C%B0%E7%8B%B1%E6%9A%97%E5%BD%B1%E5%BF%8D%E8%80%85.jpg)
+![地狱暗影忍者](../images/%E5%9C%B0%E7%8B%B1%E6%9A%97%E5%BD%B1%E5%BF%8D%E8%80%85.jpg)
 
 **Prompt:**
 
@@ -3778,7 +3778,7 @@ Create a vertical dark fantasy cinematic illustration of a lone {argument name="
 
 ### 🧍 例 1900：体育迷照片拼贴
 
-![体育迷照片拼贴](../../images/%E4%BD%93%E8%82%B2%E8%BF%B7%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+![体育迷照片拼贴](../images/%E4%BD%93%E8%82%B2%E8%BF%B7%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
 
 **Prompt:**
 
@@ -3822,7 +3822,7 @@ Negative Prompt: cartoon, anime, CGI, illustration, overprocessed skin, excessiv
 
 ### 🧍 例 2030：电影级照片增强
 
-![电影级照片增强](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA.jpg)
+![电影级照片增强](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%85%A7%E7%89%87%E5%A2%9E%E5%BC%BA.jpg)
 
 **Prompt:**
 
@@ -3840,7 +3840,7 @@ Using the provided reference image, enhance it into {argument name="output quali
 
 ### 🧍 例 2050：动漫角色设定图对比
 
-![动漫角色设定图对比](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E5%AF%B9%E6%AF%94.jpg)
+![动漫角色设定图对比](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -3878,7 +3878,7 @@ Visual style: Clean digital anime reference sheet, soft cel shading, muted color
 
 ### 🧍 例 2058：基于参考图的服装迁移
 
-![基于参考图的服装迁移](../../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%9A%84%E6%9C%8D%E8%A3%85%E8%BF%81%E7%A7%BB.jpg)
+![基于参考图的服装迁移](../images/%E5%9F%BA%E4%BA%8E%E5%8F%82%E8%80%83%E5%9B%BE%E7%9A%84%E6%9C%8D%E8%A3%85%E8%BF%81%E7%A7%BB.jpg)
 
 **Prompt:**
 
@@ -3892,7 +3892,7 @@ Visual style: Clean digital anime reference sheet, soft cel shading, muted color
 
 ### 🧍 例 2107：橄榄球运动员三视图参考表
 
-![橄榄球运动员三视图参考表](../../images/%E6%A9%84%E6%A6%84%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
+![橄榄球运动员三视图参考表](../images/%E6%A9%84%E6%A6%84%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -3938,7 +3938,7 @@ Constraints: Exactly 4 views only; do not add helmets, footballs, text labels, b
 
 ### 🧍 例 2220：女性街头赛车手参考图集
 
-![女性街头赛车手参考图集](../../images/%E5%A5%B3%E6%80%A7%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B%E5%8F%82%E8%80%83%E5%9B%BE%E9%9B%86.jpg)
+![女性街头赛车手参考图集](../images/%E5%A5%B3%E6%80%A7%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B%E5%8F%82%E8%80%83%E5%9B%BE%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -3956,7 +3956,7 @@ use the same face from the reference image without changing facial features. Cha
 
 ### 🧍 例 2231：硬核赏金猎人三视图设计
 
-![硬核赏金猎人三视图设计](../../images/%E7%A1%AC%E6%A0%B8%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BA%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1.jpg)
+![硬核赏金猎人三视图设计](../images/%E7%A1%AC%E6%A0%B8%E8%B5%8F%E9%87%91%E7%8C%8E%E4%BA%BA%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -3994,7 +3994,7 @@ Constraints: No text labels, no weapons, no hats, no extra characters, no dramat
 
 ### 🧍 例 2345：葡萄牙队球迷购物生活照
 
-![葡萄牙队球迷购物生活照](../../images/%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E7%90%83%E8%BF%B7%E8%B4%AD%E7%89%A9%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
+![葡萄牙队球迷购物生活照](../images/%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E7%90%83%E8%BF%B7%E8%B4%AD%E7%89%A9%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -4026,7 +4026,7 @@ Photorealistic candid lifestyle photograph of the same woman as the reference im
 
 ### 🧍 例 2450：动漫高级时装角色设定集
 
-![动漫高级时装角色设定集](../../images/%E5%8A%A8%E6%BC%AB%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![动漫高级时装角色设定集](../images/%E5%8A%A8%E6%BC%AB%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -4044,7 +4044,7 @@ Create a premium, modern {argument name="style" default="high-fashion"} {argumen
 
 ### 🧍 例 2455：动感复古网球大片
 
-![动感复古网球大片](../../images/%E5%8A%A8%E6%84%9F%E5%A4%8D%E5%8F%A4%E7%BD%91%E7%90%83%E5%A4%A7%E7%89%87.jpg)
+![动感复古网球大片](../images/%E5%8A%A8%E6%84%9F%E5%A4%8D%E5%8F%A4%E7%BD%91%E7%90%83%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -4062,7 +4062,7 @@ Create a premium, modern {argument name="style" default="high-fashion"} {argumen
 
 ### 🧍 例 2506：赛博朋克特工角色设定表
 
-![赛博朋克特工角色设定表](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+![赛博朋克特工角色设定表](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -4108,7 +4108,7 @@ Constraints: Keep all visible text in English except the small “海洋” next
 
 ### 🧍 例 2530：极端天气电视记者生成系统
 
-![极端天气电视记者生成系统](../../images/%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E7%94%B5%E8%A7%86%E8%AE%B0%E8%80%85%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F.jpg)
+![极端天气电视记者生成系统](../images/%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E7%94%B5%E8%A7%86%E8%AE%B0%E8%80%85%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F.jpg)
 
 **Prompt:**
 
@@ -4122,7 +4122,7 @@ Constraints: Keep all visible text in English except the small “海洋” next
 
 ### 🧍 例 2550：定制体育主题摇头公仔
 
-![定制体育主题摇头公仔](../../images/%E5%AE%9A%E5%88%B6%E4%BD%93%E8%82%B2%E4%B8%BB%E9%A2%98%E6%91%87%E5%A4%B4%E5%85%AC%E4%BB%94.jpg)
+![定制体育主题摇头公仔](../images/%E5%AE%9A%E5%88%B6%E4%BD%93%E8%82%B2%E4%B8%BB%E9%A2%98%E6%91%87%E5%A4%B4%E5%85%AC%E4%BB%94.jpg)
 
 **Prompt:**
 
@@ -4178,7 +4178,7 @@ Format
 
 ### 🧍 例 2570：基于姿势参考生成动漫角色
 
-![基于姿势参考生成动漫角色](../../images/%E5%9F%BA%E4%BA%8E%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
+![基于姿势参考生成动漫角色](../images/%E5%9F%BA%E4%BA%8E%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
 
 **Prompt:**
 
@@ -4196,7 +4196,7 @@ Using the provided reference image as a pose and composition guide, regenerate t
 
 ### 🧍 例 2576：暗黑科幻指挥官角色设定图
 
-![暗黑科幻指挥官角色设定图](../../images/%E6%9A%97%E9%BB%91%E7%A7%91%E5%B9%BB%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+![暗黑科幻指挥官角色设定图](../images/%E6%9A%97%E9%BB%91%E7%A7%91%E5%B9%BB%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4246,7 +4246,7 @@ Constraints: Use exactly 3 full-body views and exactly 3 head close-ups. Keep th
 
 使用参考图风格生成一组高级时尚杂志人像大片，竖版 3:4。
 
-画面主体是一位成年亚洲女性](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87%EF%BC%8C%E7%AB%96%E7%89%88%203%204%E3%80%82%20%E7%94%BB%E9%9D%A2%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%BD%8D%E6%88%90%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7.jpg)
+画面主体是一位成年亚洲女性](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87%EF%BC%8C%E7%AB%96%E7%89%88%203%204%E3%80%82%20%E7%94%BB%E9%9D%A2%E4%B8%BB%E4%BD%93%E6%98%AF%E4%B8%80%E4%BD%8D%E6%88%90%E5%B9%B4%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%80%A7.jpg)
 
 **Prompt:**
 
@@ -4262,7 +4262,7 @@ Constraints: Use exactly 3 full-body views and exactly 3 head close-ups. Keep th
 
 ### 🧍 例 2614：咖啡师角色三视图参考图
 
-![咖啡师角色三视图参考图](../../images/%E5%92%96%E5%95%A1%E5%B8%88%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+![咖啡师角色三视图参考图](../images/%E5%92%96%E5%95%A1%E5%B8%88%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4326,7 +4326,7 @@ Style: AAA game character reference sheet, production ready turnaround, cinemati
 
 ### 🧍 例 2721：奇幻巷弄中的蒙面冬日点灯人
 
-![奇幻巷弄中的蒙面冬日点灯人](../../images/%E5%A5%87%E5%B9%BB%E5%B7%B7%E5%BC%84%E4%B8%AD%E7%9A%84%E8%92%99%E9%9D%A2%E5%86%AC%E6%97%A5%E7%82%B9%E7%81%AF%E4%BA%BA.jpg)
+![奇幻巷弄中的蒙面冬日点灯人](../images/%E5%A5%87%E5%B9%BB%E5%B7%B7%E5%BC%84%E4%B8%AD%E7%9A%84%E8%92%99%E9%9D%A2%E5%86%AC%E6%97%A5%E7%82%B9%E7%81%AF%E4%BA%BA.jpg)
 
 **Prompt:**
 
@@ -4344,7 +4344,7 @@ Create a cinematic fantasy street illustration in a richly detailed hand-painted
 
 ### 🧍 例 2741：未来感侦察兵三视图设计稿
 
-![未来感侦察兵三视图设计稿](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E4%BE%A6%E5%AF%9F%E5%85%B5%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1%E7%A8%BF.jpg)
+![未来感侦察兵三视图设计稿](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E4%BE%A6%E5%AF%9F%E5%85%B5%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E8%AE%A1%E7%A8%BF.jpg)
 
 **Prompt:**
 
@@ -4362,7 +4362,7 @@ Use the uploaded reference image as the primary character design reference, pres
 
 ### 🧍 例 2795：绿色 Q 版猫娘三视图
 
-![绿色 Q 版猫娘三视图](../../images/%E7%BB%BF%E8%89%B2%20Q%20%E7%89%88%E7%8C%AB%E5%A8%98%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+![绿色 Q 版猫娘三视图](../images/%E7%BB%BF%E8%89%B2%20Q%20%E7%89%88%E7%8C%AB%E5%A8%98%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4408,7 +4408,7 @@ Constraints: Keep the design consistent across all 3 views, preserve the same ou
 
 ### 🧍 例 2802：赛博朋克星云滑板场景
 
-![赛博朋克星云滑板场景](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%98%9F%E4%BA%91%E6%BB%91%E6%9D%BF%E5%9C%BA%E6%99%AF.jpg)
+![赛博朋克星云滑板场景](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%98%9F%E4%BA%91%E6%BB%91%E6%9D%BF%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -4422,7 +4422,7 @@ Constraints: Keep the design consistent across all 3 views, preserve the same ou
 
 ### 🧍 例 2976：大理石大厅中的纹身动漫男子
 
-![大理石大厅中的纹身动漫男子](../../images/%E5%A4%A7%E7%90%86%E7%9F%B3%E5%A4%A7%E5%8E%85%E4%B8%AD%E7%9A%84%E7%BA%B9%E8%BA%AB%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90.jpg)
+![大理石大厅中的纹身动漫男子](../images/%E5%A4%A7%E7%90%86%E7%9F%B3%E5%A4%A7%E5%8E%85%E4%B8%AD%E7%9A%84%E7%BA%B9%E8%BA%AB%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90.jpg)
 
 **Prompt:**
 
@@ -4440,7 +4440,7 @@ Create a highly detailed anime-style portrait of a beautiful androgynous young m
 
 ### 🧍 例 2992：Ciao Nova 角色参考图
 
-![Ciao Nova 角色参考图](../../images/Ciao%20Nova%20%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+![Ciao Nova 角色参考图](../images/Ciao%20Nova%20%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4486,7 +4486,7 @@ Constraints: Keep all visible text in English, preserve the exact counts listed 
 
 ### 🧍 例 3024：赛博朋克忍者刺客角色设定图
 
-![赛博朋克忍者刺客角色设定图](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BF%8D%E8%80%85%E5%88%BA%E5%AE%A2%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+![赛博朋克忍者刺客角色设定图](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BF%8D%E8%80%85%E5%88%BA%E5%AE%A2%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4548,7 +4548,7 @@ Constraints: Use only English text, keep all labels small uppercase burgundy, us
 
 ### 🧍 例 3037：角色参考图风格
 
-![角色参考图风格](../../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC.jpg)
+![角色参考图风格](../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -4562,7 +4562,7 @@ Constraints: Use only English text, keep all labels small uppercase burgundy, us
 
 ### 🧍 例 3048：角色一致性 9 宫格拼图
 
-![角色一致性 9 宫格拼图](../../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%209%20%E5%AE%AB%E6%A0%BC%E6%8B%BC%E5%9B%BE.jpg)
+![角色一致性 9 宫格拼图](../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%209%20%E5%AE%AB%E6%A0%BC%E6%8B%BC%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4576,7 +4576,7 @@ Constraints: Use only English text, keep all labels small uppercase burgundy, us
 
 ### 🧍 例 3059：碎花裙时尚拼贴画
 
-![碎花裙时尚拼贴画](../../images/%E7%A2%8E%E8%8A%B1%E8%A3%99%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![碎花裙时尚拼贴画](../images/%E7%A2%8E%E8%8A%B1%E8%A3%99%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4618,7 +4618,7 @@ Aesthetic: Soft, dreamlike, artistic, ethereal, feminine. Light BLUE gradient mi
 
 ### 🧍 例 3064：角色参考三视图
 
-![角色参考三视图](../../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+![角色参考三视图](../images/%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4636,7 +4636,7 @@ Create a six-panel character reference turnaround sheet on a seamless neutral gr
 
 ### 🧍 例 3067：动画男孩角色设定图
 
-![动画男孩角色设定图](../../images/%E5%8A%A8%E7%94%BB%E7%94%B7%E5%AD%A9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+![动画男孩角色设定图](../images/%E5%8A%A8%E7%94%BB%E7%94%B7%E5%AD%A9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4674,7 +4674,7 @@ Constraints: No text anywhere in the image. Do not add extra poses or extra expr
 
 ### 🧍 例 3079：五格时尚模特角色设定表
 
-![五格时尚模特角色设定表](../../images/%E4%BA%94%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+![五格时尚模特角色设定表](../images/%E4%BA%94%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -4716,7 +4716,7 @@ Visual style: High-resolution realistic studio fashion photography, bright white
 
 ### 🧍 例 3122：暗黑奇幻游侠参考表
 
-![暗黑奇幻游侠参考表](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E6%B8%B8%E4%BE%A0%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
+![暗黑奇幻游侠参考表](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E6%B8%B8%E4%BE%A0%E5%8F%82%E8%80%83%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -4734,7 +4734,7 @@ Create a character sheet for {argument name="character name" default="Lyra Shado
 
 ### 🧍 例 3279：Lumière 灯笼女巫角色设计图
 
-![Lumière 灯笼女巫角色设计图](../../images/Lumi%C3%A8re%20%E7%81%AF%E7%AC%BC%E5%A5%B3%E5%B7%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![Lumière 灯笼女巫角色设计图](../images/Lumi%C3%A8re%20%E7%81%AF%E7%AC%BC%E5%A5%B3%E5%B7%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4772,7 +4772,7 @@ Visual style: High-end fantasy anime illustration, soft painterly rendering, del
 
 ### 🧍 例 3313：猫耳女仆表情包贴纸合集
 
-![猫耳女仆表情包贴纸合集](../../images/%E7%8C%AB%E8%80%B3%E5%A5%B3%E4%BB%86%E8%A1%A8%E6%83%85%E5%8C%85%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
+![猫耳女仆表情包贴纸合集](../images/%E7%8C%AB%E8%80%B3%E5%A5%B3%E4%BB%86%E8%A1%A8%E6%83%85%E5%8C%85%E8%B4%B4%E7%BA%B8%E5%90%88%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -4810,7 +4810,7 @@ Constraints: Do not add text labels, captions, watermarks, or extra characters. 
 
 ### 🧍 例 3353：3D 立体弹出式社交媒体肖像
 
-![3D 立体弹出式社交媒体肖像](../../images/3D%20%E7%AB%8B%E4%BD%93%E5%BC%B9%E5%87%BA%E5%BC%8F%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%82%96%E5%83%8F.jpg)
+![3D 立体弹出式社交媒体肖像](../images/3D%20%E7%AB%8B%E4%BD%93%E5%BC%B9%E5%87%BA%E5%BC%8F%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4840,7 +4840,7 @@ Constraints: Do not add text labels, captions, watermarks, or extra characters. 
 
 ### 🧍 例 3378：Lumina Stellar Witch 角色设计图
 
-![Lumina Stellar Witch 角色设计图](../../images/Lumina%20Stellar%20Witch%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![Lumina Stellar Witch 角色设计图](../images/Lumina%20Stellar%20Witch%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4898,7 +4898,7 @@ Constraints: Use exactly 1 main hero illustration, 3 turnaround views, 3 weapons
 
 ### 🧍 例 3417：水彩与墨线巴黎插画
 
-![水彩与墨线巴黎插画](../../images/%E6%B0%B4%E5%BD%A9%E4%B8%8E%E5%A2%A8%E7%BA%BF%E5%B7%B4%E9%BB%8E%E6%8F%92%E7%94%BB.jpg)
+![水彩与墨线巴黎插画](../images/%E6%B0%B4%E5%BD%A9%E4%B8%8E%E5%A2%A8%E7%BA%BF%E5%B7%B4%E9%BB%8E%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4916,7 +4916,7 @@ Create an ultra-detailed watercolor and ink illustration in the exact same artis
 
 ### 🧍 例 3421：低调时尚人像角色置换
 
-![低调时尚人像角色置换](../../images/%E4%BD%8E%E8%B0%83%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E8%A7%92%E8%89%B2%E7%BD%AE%E6%8D%A2.jpg)
+![低调时尚人像角色置换](../images/%E4%BD%8E%E8%B0%83%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F%E8%A7%92%E8%89%B2%E7%BD%AE%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -4936,7 +4936,7 @@ Replace only the original person with the character from the newly uploaded targ
 
 ### 🧍 例 3462：动漫灯笼少女角色设定集
 
-![动漫灯笼少女角色设定集](../../images/%E5%8A%A8%E6%BC%AB%E7%81%AF%E7%AC%BC%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![动漫灯笼少女角色设定集](../images/%E5%8A%A8%E6%BC%AB%E7%81%AF%E7%AC%BC%E5%B0%91%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -4990,7 +4990,7 @@ Constraints: Use only the visible English labels described above, keep the layou
 
 ### 🧍 例 3513：BIWA 动漫角色设定集
 
-![BIWA 动漫角色设定集](../../images/BIWA%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![BIWA 动漫角色设定集](../images/BIWA%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -5036,7 +5036,7 @@ Constraints: Use only the character sheet content described above, no extra char
 
 ### 🧍 例 3599：超现实镜像克隆时尚大片
 
-![超现实镜像克隆时尚大片](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%95%9C%E5%83%8F%E5%85%8B%E9%9A%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![超现实镜像克隆时尚大片](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%95%9C%E5%83%8F%E5%85%8B%E9%9A%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -5120,7 +5120,7 @@ Ratio 4:5
 
 ### 🧍 例 3600：中国水墨山水画风动漫猫娘
 
-![中国水墨山水画风动漫猫娘](../../images/%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E5%B1%B1%E6%B0%B4%E7%94%BB%E9%A3%8E%E5%8A%A8%E6%BC%AB%E7%8C%AB%E5%A8%98.jpg)
+![中国水墨山水画风动漫猫娘](../images/%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E5%B1%B1%E6%B0%B4%E7%94%BB%E9%A3%8E%E5%8A%A8%E6%BC%AB%E7%8C%AB%E5%A8%98.jpg)
 
 **Prompt:**
 
@@ -5158,7 +5158,7 @@ Style: High-detail anime character blended with classical Chinese shanshui paint
 
 ### 🧍 例 3691：未来医疗实验室场景
 
-![未来医疗实验室场景](../../images/%E6%9C%AA%E6%9D%A5%E5%8C%BB%E7%96%97%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
+![未来医疗实验室场景](../images/%E6%9C%AA%E6%9D%A5%E5%8C%BB%E7%96%97%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -5172,7 +5172,7 @@ Style: High-detail anime character blended with classical Chinese shanshui paint
 
 ### 🧍 例 3725：都市浪漫电影剧照
 
-![都市浪漫电影剧照](../../images/%E9%83%BD%E5%B8%82%E6%B5%AA%E6%BC%AB%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+![都市浪漫电影剧照](../images/%E9%83%BD%E5%B8%82%E6%B5%AA%E6%BC%AB%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -5190,7 +5190,7 @@ A cinematic still from an urban romance drama. In the center of the frame, the w
 
 ### 🧍 例 3741：LiSa 滑水角色设定表
 
-![LiSa 滑水角色设定表](../../images/LiSa%20%E6%BB%91%E6%B0%B4%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+![LiSa 滑水角色设定表](../images/LiSa%20%E6%BB%91%E6%B0%B4%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -5252,7 +5252,7 @@ Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 eq
 
 ### 🧍 例 3767：写实角色三视图
 
-![写实角色三视图](../../images/%E5%86%99%E5%AE%9E%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+![写实角色三视图](../images/%E5%86%99%E5%AE%9E%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5266,7 +5266,7 @@ Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 eq
 
 ### 🧍 例 3857：日式奇幻结界师角色设定集
 
-![日式奇幻结界师角色设定集](../../images/%E6%97%A5%E5%BC%8F%E5%A5%87%E5%B9%BB%E7%BB%93%E7%95%8C%E5%B8%88%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![日式奇幻结界师角色设定集](../images/%E6%97%A5%E5%BC%8F%E5%A5%87%E5%B9%BB%E7%BB%93%E7%95%8C%E5%B8%88%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -5314,7 +5314,7 @@ Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 eq
 
 ### 🧍 例 3917：写实服装参考转换器
 
-![写实服装参考转换器](../../images/%E5%86%99%E5%AE%9E%E6%9C%8D%E8%A3%85%E5%8F%82%E8%80%83%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+![写实服装参考转换器](../images/%E5%86%99%E5%AE%9E%E6%9C%8D%E8%A3%85%E5%8F%82%E8%80%83%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -5424,7 +5424,7 @@ Constraints: Use exactly 3 turnaround views, exactly 6 expressions, exactly 6 eq
 
 ### 🧍 例 3923：龙首角度参考图
 
-![龙首角度参考图](../../images/%E9%BE%99%E9%A6%96%E8%A7%92%E5%BA%A6%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+![龙首角度参考图](../images/%E9%BE%99%E9%A6%96%E8%A7%92%E5%BA%A6%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5442,7 +5442,7 @@ Create a clean vertical character reference sheet on a plain white background sh
 
 ### 🧍 例 3947：奢华服装收藏卡
 
-![奢华服装收藏卡](../../images/%E5%A5%A2%E5%8D%8E%E6%9C%8D%E8%A3%85%E6%94%B6%E8%97%8F%E5%8D%A1.jpg)
+![奢华服装收藏卡](../images/%E5%A5%A2%E5%8D%8E%E6%9C%8D%E8%A3%85%E6%94%B6%E8%97%8F%E5%8D%A1.jpg)
 
 **Prompt:**
 
@@ -5494,7 +5494,7 @@ Constraints: Keep the outfit faithful to the reference clothing, but beautify it
 
 ### 🧍 例 3958：3D 喜剧角色设定图模板
 
-![3D 喜剧角色设定图模板](../../images/3D%20%E5%96%9C%E5%89%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E6%A8%A1%E6%9D%BF.jpg)
+![3D 喜剧角色设定图模板](../images/3D%20%E5%96%9C%E5%89%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -5609,7 +5609,7 @@ Constraints: Keep the outfit faithful to the reference clothing, but beautify it
 
 ### 🧍 例 4045：霓虹偶像风格设定集生成器
 
-![霓虹偶像风格设定集生成器](../../images/%E9%9C%93%E8%99%B9%E5%81%B6%E5%83%8F%E9%A3%8E%E6%A0%BC%E8%AE%BE%E5%AE%9A%E9%9B%86%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+![霓虹偶像风格设定集生成器](../images/%E9%9C%93%E8%99%B9%E5%81%B6%E5%83%8F%E9%A3%8E%E6%A0%BC%E8%AE%BE%E5%AE%9A%E9%9B%86%E7%94%9F%E6%88%90%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -5679,7 +5679,7 @@ Reference @image1 手持ち人物画像
 
 ### 🧍 例 4079：奢华黑巧克力主题时尚大片
 
-![奢华黑巧克力主题时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%BB%E9%A2%98%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![奢华黑巧克力主题时尚大片](../images/%E5%A5%A2%E5%8D%8E%E9%BB%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%BB%E9%A2%98%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -5697,7 +5697,7 @@ Use the uploaded reference image as the primary reference for the model's face, 
 
 ### 🧍 例 4093：逼真街头时尚大片
 
-![逼真街头时尚大片](../../images/%E9%80%BC%E7%9C%9F%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![逼真街头时尚大片](../images/%E9%80%BC%E7%9C%9F%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 

@@ -5149,7 +5149,7 @@ Create a cinematic, hyper-detailed promotional travel-pass poster for the {argum
 
 ### 🎴 例 1217：双重曝光电影海报
 
-![双重曝光电影海报](../../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![双重曝光电影海报](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5167,7 +5167,7 @@ A cinematic and melancholic movie poster with a double exposure effect. At the t
 
 ### 🎴 例 1219：动漫偶像广告霸屏城市
 
-![动漫偶像广告霸屏城市](../../images/%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E5%B9%BF%E5%91%8A%E9%9C%B8%E5%B1%8F%E5%9F%8E%E5%B8%82.jpg)
+![动漫偶像广告霸屏城市](../images/%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E5%B9%BF%E5%91%8A%E9%9C%B8%E5%B1%8F%E5%9F%8E%E5%B8%82.jpg)
 
 **Prompt:**
 
@@ -5185,7 +5185,7 @@ Create a cinematic wide 16:9 anime-style nighttime cityscape showing a full “a
 
 ### 🎴 例 1223：书法梦幻孔版印刷海报
 
-![书法梦幻孔版印刷海报](../../images/%E4%B9%A6%E6%B3%95%E6%A2%A6%E5%B9%BB%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5.jpg)
+![书法梦幻孔版印刷海报](../images/%E4%B9%A6%E6%B3%95%E6%A2%A6%E5%B9%BB%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5203,7 +5203,7 @@ Create a cinematic wide 16:9 anime-style nighttime cityscape showing a full “a
 
 ### 🎴 例 1224：广州春节双重曝光海报
 
-![广州春节双重曝光海报](../../images/%E5%B9%BF%E5%B7%9E%E6%98%A5%E8%8A%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+![广州春节双重曝光海报](../images/%E5%B9%BF%E5%B7%9E%E6%98%A5%E8%8A%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5221,7 +5221,7 @@ Vertical 9:16 city promotional poster for {argument name="city" default="Guangzh
 
 ### 🎴 例 1230：颓靡哥特闺房海报
 
-![颓靡哥特闺房海报](../../images/%E9%A2%93%E9%9D%A1%E5%93%A5%E7%89%B9%E9%97%BA%E6%88%BF%E6%B5%B7%E6%8A%A5.jpg)
+![颓靡哥特闺房海报](../images/%E9%A2%93%E9%9D%A1%E5%93%A5%E7%89%B9%E9%97%BA%E6%88%BF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5243,7 +5243,7 @@ Vertical 9:16 city promotional poster for {argument name="city" default="Guangzh
 
 ### 🎴 例 1231：日系时尚杂志动漫封面
 
-![日系时尚杂志动漫封面](../../images/%E6%97%A5%E7%B3%BB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%8A%A8%E6%BC%AB%E5%B0%81%E9%9D%A2.jpg)
+![日系时尚杂志动漫封面](../images/%E6%97%A5%E7%B3%BB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%8A%A8%E6%BC%AB%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -5261,7 +5261,7 @@ An illustration with the feel of a high-end Japanese fashion magazine cover, fea
 
 ### 🎴 例 1239：奢华 3D 生日海报
 
-![奢华 3D 生日海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 3D 生日海报](../images/%E5%A5%A2%E5%8D%8E%203D%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5279,7 +5279,7 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ### 🎴 例 1265：全球足球商业项目
 
-![全球足球商业项目](../../images/%E5%85%A8%E7%90%83%E8%B6%B3%E7%90%83%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
+![全球足球商业项目](../images/%E5%85%A8%E7%90%83%E8%B6%B3%E7%90%83%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -5357,7 +5357,7 @@ Constraints: Use exactly 20 panels and exactly the 5-by-4 grid. Keep the caption
 
 ### 🎴 例 1273：儿童音乐玩具广告海报
 
-![儿童音乐玩具广告海报](../../images/%E5%84%BF%E7%AB%A5%E9%9F%B3%E4%B9%90%E7%8E%A9%E5%85%B7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![儿童音乐玩具广告海报](../images/%E5%84%BF%E7%AB%A5%E9%9F%B3%E4%B9%90%E7%8E%A9%E5%85%B7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5375,7 +5375,7 @@ A fun musical kids advertisement poster. An adorable {argument name="subject" de
 
 ### 🎴 例 1277：Magic Edit GPT Image 2 宣传横幅
 
-![Magic Edit GPT Image 2 宣传横幅](../../images/Magic%20Edit%20GPT%20Image%202%20%E5%AE%A3%E4%BC%A0%E6%A8%AA%E5%B9%85.jpg)
+![Magic Edit GPT Image 2 宣传横幅](../images/Magic%20Edit%20GPT%20Image%202%20%E5%AE%A3%E4%BC%A0%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -5417,7 +5417,7 @@ Constraints: Keep the composition uncluttered with no extra logos or watermarks.
 
 ### 🎴 例 1282：电影级足球胜利海报
 
-![电影级足球胜利海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B6%B3%E7%90%83%E8%83%9C%E5%88%A9%E6%B5%B7%E6%8A%A5.jpg)
+![电影级足球胜利海报](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%B6%B3%E7%90%83%E8%83%9C%E5%88%A9%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5435,7 +5435,7 @@ Create a high-quality cinematic football poster using my original face without c
 
 ### 🎴 例 1294：奢华巧克力广告杰作
 
-![奢华巧克力广告杰作](../../images/%E5%A5%A2%E5%8D%8E%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%E6%9D%B0%E4%BD%9C.jpg)
+![奢华巧克力广告杰作](../images/%E5%A5%A2%E5%8D%8E%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B9%BF%E5%91%8A%E6%9D%B0%E4%BD%9C.jpg)
 
 **Prompt:**
 
@@ -5453,7 +5453,7 @@ Luxury {argument name="product" default="chocolate"} advertising masterpiece, an
 
 ### 🎴 例 1296：体育摄影：奖杯揭幕
 
-![体育摄影：奖杯揭幕](../../images/%E4%BD%93%E8%82%B2%E6%91%84%E5%BD%B1%EF%BC%9A%E5%A5%96%E6%9D%AF%E6%8F%AD%E5%B9%95.jpg)
+![体育摄影：奖杯揭幕](../images/%E4%BD%93%E8%82%B2%E6%91%84%E5%BD%B1%EF%BC%9A%E5%A5%96%E6%9D%AF%E6%8F%AD%E5%B9%95.jpg)
 
 **Prompt:**
 
@@ -5467,7 +5467,7 @@ PLAYER={argument name="player name" default="[player name]"} Ultra-realistic spo
 
 ### 🎴 例 1305：暗黑仙侠风碎裂玻璃海报
 
-![暗黑仙侠风碎裂玻璃海报](../../images/%E6%9A%97%E9%BB%91%E4%BB%99%E4%BE%A0%E9%A3%8E%E7%A2%8E%E8%A3%82%E7%8E%BB%E7%92%83%E6%B5%B7%E6%8A%A5.jpg)
+![暗黑仙侠风碎裂玻璃海报](../images/%E6%9A%97%E9%BB%91%E4%BB%99%E4%BE%A0%E9%A3%8E%E7%A2%8E%E8%A3%82%E7%8E%BB%E7%92%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5509,7 +5509,7 @@ Constraints: Keep the composition vertical and dense, with no extra characters, 
 
 ### 🎴 例 1308：奢华男装拼贴画
 
-![奢华男装拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![奢华男装拼贴画](../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5559,7 +5559,7 @@ Constraints: Keep the collage clean and premium, with no extra logos beyond the 
 
 ### 🎴 例 1316：黑色新中式时尚封面
 
-![黑色新中式时尚封面](../../images/%E9%BB%91%E8%89%B2%E6%96%B0%E4%B8%AD%E5%BC%8F%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
+![黑色新中式时尚封面](../images/%E9%BB%91%E8%89%B2%E6%96%B0%E4%B8%AD%E5%BC%8F%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -5585,7 +5585,7 @@ Output: Generate exactly {argument name="cover count" default="1"} vertical 9:16
 
 ### 🎴 例 1324：GPT-Image2 课程横幅
 
-![GPT-Image2 课程横幅](../../images/GPT-Image2%20%E8%AF%BE%E7%A8%8B%E6%A8%AA%E5%B9%85.jpg)
+![GPT-Image2 课程横幅](../images/GPT-Image2%20%E8%AF%BE%E7%A8%8B%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -5627,7 +5627,7 @@ Constraints: No people, no watermark, no logos other than the generic “Ai” i
 
 ### 🎴 例 1331：FIFA 世界杯冠军奖杯
 
-![FIFA 世界杯冠军奖杯](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF.jpg)
+![FIFA 世界杯冠军奖杯](../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF.jpg)
 
 **Prompt:**
 
@@ -5705,7 +5705,7 @@ Aspect Ratio: 4:5 Create image
 
 ### 🎴 例 1336：奢华生日里程碑海报
 
-![奢华生日里程碑海报](../../images/%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E9%87%8C%E7%A8%8B%E7%A2%91%E6%B5%B7%E6%8A%A5.jpg)
+![奢华生日里程碑海报](../images/%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E9%87%8C%E7%A8%8B%E7%A2%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5723,7 +5723,7 @@ Create a luxury minimalist birthday milestone poster featuring a giant 3D number
 
 ### 🎴 例 1337：高端中式美食海报
 
-![高端中式美食海报](../../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
+![高端中式美食海报](../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5737,7 +5737,7 @@ Create a luxury minimalist birthday milestone poster featuring a giant 3D number
 
 ### 🎴 例 1343：超写实旅行美食明信片
 
-![超写实旅行美食明信片](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%85%E8%A1%8C%E7%BE%8E%E9%A3%9F%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
+![超写实旅行美食明信片](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E6%97%85%E8%A1%8C%E7%BE%8E%E9%A3%9F%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -5772,7 +5772,7 @@ Create a hyper-realistic travel-food postcard scene.\nINPUTS:\nCity: {argument n
 
 ### 🎴 例 1349：复古冰淇淋店海报女郎
 
-![复古冰淇淋店海报女郎](../../images/%E5%A4%8D%E5%8F%A4%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BA%97%E6%B5%B7%E6%8A%A5%E5%A5%B3%E9%83%8E.jpg)
+![复古冰淇淋店海报女郎](../images/%E5%A4%8D%E5%8F%A4%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BA%97%E6%B5%B7%E6%8A%A5%E5%A5%B3%E9%83%8E.jpg)
 
 **Prompt:**
 
@@ -5790,7 +5790,7 @@ Create a photorealistic 1950s-inspired pinup portrait of {argument name="charact
 
 ### 🎴 例 1351：阿拉伯语励志日落海报
 
-![阿拉伯语励志日落海报](../../images/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%8A%B1%E5%BF%97%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
+![阿拉伯语励志日落海报](../images/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%8A%B1%E5%BF%97%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5808,7 +5808,7 @@ Create a cinematic square motivational poster in Arabic. A lone young man stands
 
 ### 🎴 例 1356：现代时尚编辑拼贴画
 
-![现代时尚编辑拼贴画](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![现代时尚编辑拼贴画](../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5826,7 +5826,7 @@ MODERN EDITORIAL COLLAGE POSTER DESIGN. THE BACKGROUND FEATURES FOUR STACKED ROU
 
 ### 🎴 例 1359：高级演示文稿项目
 
-![高级演示文稿项目](../../images/%E9%AB%98%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E9%A1%B9%E7%9B%AE.jpg)
+![高级演示文稿项目](../images/%E9%AB%98%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -5844,7 +5844,7 @@ Create a high-end 4:3 pitch deck storyboard in 3x4 grid (12 frames), editorial l
 
 ### 🎴 例 1362：高端健身品牌海报
 
-![高端健身品牌海报](../../images/%E9%AB%98%E7%AB%AF%E5%81%A5%E8%BA%AB%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+![高端健身品牌海报](../images/%E9%AB%98%E7%AB%AF%E5%81%A5%E8%BA%AB%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5928,7 +5928,7 @@ Premium Poster Design
 
 ### 🎴 例 1365：建筑风格 3D 雕刻生日海报
 
-![建筑风格 3D 雕刻生日海报](../../images/%E5%BB%BA%E7%AD%91%E9%A3%8E%E6%A0%BC%203D%20%E9%9B%95%E5%88%BB%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![建筑风格 3D 雕刻生日海报](../images/%E5%BB%BA%E7%AD%91%E9%A3%8E%E6%A0%BC%203D%20%E9%9B%95%E5%88%BB%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5946,7 +5946,7 @@ Professional luxury birthday poster, 3:4 ratio. The entire frame is filled with 
 
 ### 🎴 例 1369：贝多芬大提琴奏鸣曲宇宙主题海报
 
-![贝多芬大提琴奏鸣曲宇宙主题海报](../../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E5%AE%87%E5%AE%99%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![贝多芬大提琴奏鸣曲宇宙主题海报](../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E5%AE%87%E5%AE%99%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5988,7 +5988,7 @@ Customization: If changing the theme, keep the phrase {argument name="central me
 
 ### 🎴 例 1373：3D 奢华生日海报
 
-![3D 奢华生日海报](../../images/3D%20%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![3D 奢华生日海报](../images/3D%20%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6006,7 +6006,7 @@ Professional luxury birthday poster, 3:4 aspect ratio. Entire background covered
 
 ### 🎴 例 1381：奢华美妆品牌编辑广告
 
-![奢华美妆品牌编辑广告](../../images/%E5%A5%A2%E5%8D%8E%E7%BE%8E%E5%A6%86%E5%93%81%E7%89%8C%E7%BC%96%E8%BE%91%E5%B9%BF%E5%91%8A.jpg)
+![奢华美妆品牌编辑广告](../images/%E5%A5%A2%E5%8D%8E%E7%BE%8E%E5%A6%86%E5%93%81%E7%89%8C%E7%BC%96%E8%BE%91%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -6060,7 +6060,7 @@ Color palette:
 
 ### 🎴 例 1384：3D 雕刻奢华生日海报
 
-![3D 雕刻奢华生日海报](../../images/3D%20%E9%9B%95%E5%88%BB%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![3D 雕刻奢华生日海报](../images/3D%20%E9%9B%95%E5%88%BB%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6078,7 +6078,7 @@ Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premi
 
 ### 🎴 例 1386：坚毅电影感英雄海报
 
-![坚毅电影感英雄海报](../../images/%E5%9D%9A%E6%AF%85%E7%94%B5%E5%BD%B1%E6%84%9F%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+![坚毅电影感英雄海报](../images/%E5%9D%9A%E6%AF%85%E7%94%B5%E5%BD%B1%E6%84%9F%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6096,7 +6096,7 @@ Cinematic hero movie poster, a {argument name="subject" default="handsome 32-yea
 
 ### 🎴 例 1387：奢华意式浓缩咖啡机广告
 
-![奢华意式浓缩咖啡机广告](../../images/%E5%A5%A2%E5%8D%8E%E6%84%8F%E5%BC%8F%E6%B5%93%E7%BC%A9%E5%92%96%E5%95%A1%E6%9C%BA%E5%B9%BF%E5%91%8A.jpg)
+![奢华意式浓缩咖啡机广告](../images/%E5%A5%A2%E5%8D%8E%E6%84%8F%E5%BC%8F%E6%B5%93%E7%BC%A9%E5%92%96%E5%95%A1%E6%9C%BA%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -6114,7 +6114,7 @@ Photorealistic luxury commercial advertisement for the {argument name="machine" 
 
 ### 🎴 例 1388：印度尼西亚涂鸦风格足球海报
 
-![印度尼西亚涂鸦风格足球海报](../../images/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![印度尼西亚涂鸦风格足球海报](../images/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6132,7 +6132,7 @@ Create a vertical 9:16 viral CapCut-style football fan poster featuring a full-b
 
 ### 🎴 例 1391：极简中国水墨雾气画
 
-![极简中国水墨雾气画](../../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E9%9B%BE%E6%B0%94%E7%94%BB.jpg)
+![极简中国水墨雾气画](../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8%E9%9B%BE%E6%B0%94%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6150,7 +6150,7 @@ Create a vertical 9:16 viral CapCut-style football fan poster featuring a full-b
 
 ### 🎴 例 1393：奢华 25 岁生日海报
 
-![奢华 25 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%2025%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 25 岁生日海报](../images/%E5%A5%A2%E5%8D%8E%2025%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6168,7 +6168,7 @@ Create an ultra-luxury minimalist birthday milestone poster in a vertical 2:3 fo
 
 ### 🎴 例 1401：历史编辑风格战役海报
 
-![历史编辑风格战役海报](../../images/%E5%8E%86%E5%8F%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%88%98%E5%BD%B9%E6%B5%B7%E6%8A%A5.jpg)
+![历史编辑风格战役海报](../images/%E5%8E%86%E5%8F%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%88%98%E5%BD%B9%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6182,7 +6182,7 @@ SELECT warrior_profile, internal_battlefield, typography_overlay FROM Editorial_
 
 ### 🎴 例 1404：夏日海边浪漫海报
 
-![夏日海边浪漫海报](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E6%B5%AA%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+![夏日海边浪漫海报](../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E6%B5%AA%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6207,7 +6207,7 @@ SELECT warrior_profile, internal_battlefield, typography_overlay FROM Editorial_
 
 ### 🎴 例 1406：3D 深度奢华生日海报
 
-![3D 深度奢华生日海报](../../images/3D%20%E6%B7%B1%E5%BA%A6%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![3D 深度奢华生日海报](../images/3D%20%E6%B7%B1%E5%BA%A6%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6275,7 +6275,7 @@ Ultra-detailed photorealistic rendering, premium depth of field, natural shadows
 
 ### 🎴 例 1408：超奢华黑白时尚大片
 
-![超奢华黑白时尚大片](../../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![超奢华黑白时尚大片](../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -6293,7 +6293,7 @@ Ultra-luxury fashion editorial, monochrome black and white photography, confiden
 
 ### 🎴 例 1418：Editorial Studio 生日海报
 
-![Editorial Studio 生日海报](../../images/Editorial%20Studio%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![Editorial Studio 生日海报](../images/Editorial%20Studio%20%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6311,7 +6311,7 @@ Luxury birthday poster, 3:4 portrait, premium editorial studio style. Off-white 
 
 ### 🎴 例 1421：奢华 3D 雕刻风格足球海报
 
-![奢华 3D 雕刻风格足球海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 3D 雕刻风格足球海报](../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6329,7 +6329,7 @@ Professional luxury football poster, 4:5 ratio. Entire frame filled with a premi
 
 ### 🎴 例 1436：MBTI 人格特质卡片海报
 
-![MBTI 人格特质卡片海报](../../images/MBTI%20%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B4%A8%E5%8D%A1%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
+![MBTI 人格特质卡片海报](../images/MBTI%20%E4%BA%BA%E6%A0%BC%E7%89%B9%E8%B4%A8%E5%8D%A1%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6343,7 +6343,7 @@ Professional luxury football poster, 4:5 ratio. Entire frame filled with a premi
 
 ### 🎴 例 1438：Riyad Mahrez 体育海报编辑设计
 
-![Riyad Mahrez 体育海报编辑设计](../../images/Riyad%20Mahrez%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E7%BC%96%E8%BE%91%E8%AE%BE%E8%AE%A1.jpg)
+![Riyad Mahrez 体育海报编辑设计](../images/Riyad%20Mahrez%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E7%BC%96%E8%BE%91%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -6381,7 +6381,7 @@ Constraints: Use exactly 2 red geometric shapes, exactly 1 full-body athlete, ex
 
 ### 🎴 例 1444：2026 年 FIFA 世界杯体育海报
 
-![2026 年 FIFA 世界杯体育海报](../../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+![2026 年 FIFA 世界杯体育海报](../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6450,7 +6450,7 @@ type: image_generation_prompt
 
 ### 🎴 例 1447：奢华护肤防晒霜广告策划
 
-![奢华护肤防晒霜广告策划](../../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E9%98%B2%E6%99%92%E9%9C%9C%E5%B9%BF%E5%91%8A%E7%AD%96%E5%88%92.jpg)
+![奢华护肤防晒霜广告策划](../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E9%98%B2%E6%99%92%E9%9C%9C%E5%B9%BF%E5%91%8A%E7%AD%96%E5%88%92.jpg)
 
 **Prompt:**
 
@@ -6484,7 +6484,7 @@ Tagline:
 
 ### 🎴 例 1455：Oakley 滑板风格太阳镜广告
 
-![Oakley 滑板风格太阳镜广告](../../images/Oakley%20%E6%BB%91%E6%9D%BF%E9%A3%8E%E6%A0%BC%E5%A4%AA%E9%98%B3%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
+![Oakley 滑板风格太阳镜广告](../images/Oakley%20%E6%BB%91%E6%9D%BF%E9%A3%8E%E6%A0%BC%E5%A4%AA%E9%98%B3%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -6502,7 +6502,7 @@ Create a minimalist vertical brand advertisement poster for {argument name="bran
 
 ### 🎴 例 1460：法式蛇蝎美人诗歌海报
 
-![法式蛇蝎美人诗歌海报](../../images/%E6%B3%95%E5%BC%8F%E8%9B%87%E8%9D%8E%E7%BE%8E%E4%BA%BA%E8%AF%97%E6%AD%8C%E6%B5%B7%E6%8A%A5.jpg)
+![法式蛇蝎美人诗歌海报](../images/%E6%B3%95%E5%BC%8F%E8%9B%87%E8%9D%8E%E7%BE%8E%E4%BA%BA%E8%AF%97%E6%AD%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6552,7 +6552,7 @@ Constraints: Use exactly 2 women, exactly 1 subtitle line, exactly 1 QR-code-lik
 
 ### 🎴 例 1470：生成式盆景展览海报
 
-![生成式盆景展览海报](../../images/%E7%94%9F%E6%88%90%E5%BC%8F%E7%9B%86%E6%99%AF%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+![生成式盆景展览海报](../images/%E7%94%9F%E6%88%90%E5%BC%8F%E7%9B%86%E6%99%AF%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6598,7 +6598,7 @@ Constraints: Keep all text sharp and legible, do not add extra plants or people,
 
 ### 🎴 例 1473：Gritty City Fever 剧院海报
 
-![Gritty City Fever 剧院海报](../../images/Gritty%20City%20Fever%20%E5%89%A7%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
+![Gritty City Fever 剧院海报](../images/Gritty%20City%20Fever%20%E5%89%A7%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6632,7 +6632,7 @@ Additional visual details: Add a black silhouette skyline along the bottom edge,
 
 ### 🎴 例 1475：瑞士几何风格音乐海报
 
-![瑞士几何风格音乐海报](../../images/%E7%91%9E%E5%A3%AB%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
+![瑞士几何风格音乐海报](../images/%E7%91%9E%E5%A3%AB%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6670,7 +6670,7 @@ Visual style: Bauhaus-inspired Swiss International Style, experimental music fes
 
 ### 🎴 例 1477：VANTORÉ 奢华腕表广告
 
-![VANTORÉ 奢华腕表广告](../../images/VANTOR%C3%89%20%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A.jpg)
+![VANTORÉ 奢华腕表广告](../images/VANTOR%C3%89%20%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -6716,7 +6716,7 @@ Constraints: Keep the model on the left and the typography/product watch on the 
 
 ### 🎴 例 1478：奢华分屏腕表广告大片
 
-![奢华分屏腕表广告大片](../../images/%E5%A5%A2%E5%8D%8E%E5%88%86%E5%B1%8F%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+![奢华分屏腕表广告大片](../images/%E5%A5%A2%E5%8D%8E%E5%88%86%E5%B1%8F%E8%85%95%E8%A1%A8%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -6734,7 +6734,7 @@ Create a luxurious square 1:1 high-end men's watch campaign advertisement for {a
 
 ### 🎴 例 1481：史诗奇幻战争记忆海报
 
-![史诗奇幻战争记忆海报](../../images/%E5%8F%B2%E8%AF%97%E5%A5%87%E5%B9%BB%E6%88%98%E4%BA%89%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
+![史诗奇幻战争记忆海报](../images/%E5%8F%B2%E8%AF%97%E5%A5%87%E5%B9%BB%E6%88%98%E4%BA%89%E8%AE%B0%E5%BF%86%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6752,7 +6752,7 @@ Create an epic dark-fantasy cinematic poster titled by mood rather than typograp
 
 ### 🎴 例 1483：虚构夏季漫画杂志封面
 
-![虚构夏季漫画杂志封面](../../images/%E8%99%9A%E6%9E%84%E5%A4%8F%E5%AD%A3%E6%BC%AB%E7%94%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![虚构夏季漫画杂志封面](../images/%E8%99%9A%E6%9E%84%E5%A4%8F%E5%AD%A3%E6%BC%AB%E7%94%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -6802,7 +6802,7 @@ Constraints: Use exactly 1 main character and exactly 3 inset panels; blur or ob
 
 ### 🎴 例 1503：奢华韩系街头风海报
 
-![奢华韩系街头风海报](../../images/%E5%A5%A2%E5%8D%8E%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+![奢华韩系街头风海报](../images/%E5%A5%A2%E5%8D%8E%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6820,7 +6820,7 @@ Create a premium high-fashion editorial poster for "{argument name="brand" defau
 
 ### 🎴 例 1504：Pizza Hut 高级时尚海滩广告大片
 
-![Pizza Hut 高级时尚海滩广告大片](../../images/Pizza%20Hut%20%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%BB%A9%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+![Pizza Hut 高级时尚海滩广告大片](../images/Pizza%20Hut%20%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%BB%A9%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -6838,7 +6838,7 @@ Create a premium high-fashion editorial poster for "{argument name="brand" defau
 
 ### 🎴 例 1521：复古唱片店生活方式人像
 
-![复古唱片店生活方式人像](../../images/%E5%A4%8D%E5%8F%A4%E5%94%B1%E7%89%87%E5%BA%97%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E4%BA%BA%E5%83%8F.jpg)
+![复古唱片店生活方式人像](../images/%E5%A4%8D%E5%8F%A4%E5%94%B1%E7%89%87%E5%BA%97%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6856,7 +6856,7 @@ Ultra-realistic lifestyle portrait of a {argument name="subject" default="young 
 
 ### 🎴 例 1532：手绘水粉风格产品海报
 
-![手绘水粉风格产品海报](../../images/%E6%89%8B%E7%BB%98%E6%B0%B4%E7%B2%89%E9%A3%8E%E6%A0%BC%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+![手绘水粉风格产品海报](../images/%E6%89%8B%E7%BB%98%E6%B0%B4%E7%B2%89%E9%A3%8E%E6%A0%BC%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6876,7 +6876,7 @@ Create a premium illustrated product poster for {argument name="product" default
 
 ### 🎴 例 1541：AI 手势挑战动漫横幅
 
-![AI 手势挑战动漫横幅](../../images/AI%20%E6%89%8B%E5%8A%BF%E6%8C%91%E6%88%98%E5%8A%A8%E6%BC%AB%E6%A8%AA%E5%B9%85.jpg)
+![AI 手势挑战动漫横幅](../images/AI%20%E6%89%8B%E5%8A%BF%E6%8C%91%E6%88%98%E5%8A%A8%E6%BC%AB%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -6918,7 +6918,7 @@ Constraints: Keep the exact count of 5 characters and 5 bottom cards. Emphasize 
 
 ### 🎴 例 1585：西班牙世界杯足球海报
 
-![西班牙世界杯足球海报](../../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![西班牙世界杯足球海报](../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6936,7 +6936,7 @@ Create a dramatic square sports poster for Spain’s national football team at t
 
 ### 🎴 例 1589：Cinematic GPT Image 2 森林传送门横幅
 
-![Cinematic GPT Image 2 森林传送门横幅](../../images/Cinematic%20GPT%20Image%202%20%E6%A3%AE%E6%9E%97%E4%BC%A0%E9%80%81%E9%97%A8%E6%A8%AA%E5%B9%85.jpg)
+![Cinematic GPT Image 2 森林传送门横幅](../images/Cinematic%20GPT%20Image%202%20%E6%A3%AE%E6%9E%97%E4%BC%A0%E9%80%81%E9%97%A8%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -6954,7 +6954,7 @@ Create a cinematic wide promotional banner for {argument name="product name" def
 
 ### 🎴 例 1592：奢华足球迷房间
 
-![奢华足球迷房间](../../images/%E5%A5%A2%E5%8D%8E%E8%B6%B3%E7%90%83%E8%BF%B7%E6%88%BF%E9%97%B4.jpg)
+![奢华足球迷房间](../images/%E5%A5%A2%E5%8D%8E%E8%B6%B3%E7%90%83%E8%BF%B7%E6%88%BF%E9%97%B4.jpg)
 
 **Prompt:**
 
@@ -6972,7 +6972,7 @@ Ultra-realistic cinematic sports fan room at night, cozy luxury interior with wa
 
 ### 🎴 例 1594：梦幻日式花卉艺术节海报
 
-![梦幻日式花卉艺术节海报](../../images/%E6%A2%A6%E5%B9%BB%E6%97%A5%E5%BC%8F%E8%8A%B1%E5%8D%89%E8%89%BA%E6%9C%AF%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
+![梦幻日式花卉艺术节海报](../images/%E6%A2%A6%E5%B9%BB%E6%97%A5%E5%BC%8F%E8%8A%B1%E5%8D%89%E8%89%BA%E6%9C%AF%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7018,7 +7018,7 @@ Constraints: No logo, no QR code, no extra text beyond the 7 text blocks, no rea
 
 ### 🎴 例 1596：超现实主义日本日清雪景广告
 
-![超现实主义日本日清雪景广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%97%A5%E6%9C%AC%E6%97%A5%E6%B8%85%E9%9B%AA%E6%99%AF%E5%B9%BF%E5%91%8A.jpg)
+![超现实主义日本日清雪景广告](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%97%A5%E6%9C%AC%E6%97%A5%E6%B8%85%E9%9B%AA%E6%99%AF%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -7064,7 +7064,7 @@ Style constraints: Make the image intentionally chaotic and meme-like, as if tes
 
 ### 🎴 例 1597：超现实 NISSIN 牛奶海鲜杯面广告
 
-![超现实 NISSIN 牛奶海鲜杯面广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20NISSIN%20%E7%89%9B%E5%A5%B6%E6%B5%B7%E9%B2%9C%E6%9D%AF%E9%9D%A2%E5%B9%BF%E5%91%8A.jpg)
+![超现实 NISSIN 牛奶海鲜杯面广告](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20NISSIN%20%E7%89%9B%E5%A5%B6%E6%B5%B7%E9%B2%9C%E6%9D%AF%E9%9D%A2%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -7106,7 +7106,7 @@ Constraints: Keep the face fully obscured by the rectangular block, keep all tex
 
 ### 🎴 例 1599：现代时尚杂志封面
 
-![现代时尚杂志封面](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![现代时尚杂志封面](../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7146,7 +7146,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 ### 🎴 例 1625：奢华时尚产品与生活方式广告
 
-![奢华时尚产品与生活方式广告](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%BA%A7%E5%93%81%E4%B8%8E%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B9%BF%E5%91%8A.jpg)
+![奢华时尚产品与生活方式广告](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E4%BA%A7%E5%93%81%E4%B8%8E%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -7164,7 +7164,7 @@ Hyper-stylish {argument name="subjects" default="young couple"}, effortlessly co
 
 ### 🎴 例 1628：皮克斯风格故事板海报
 
-![皮克斯风格故事板海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
+![皮克斯风格故事板海报](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7182,7 +7182,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="project 
 
 ### 🎴 例 1630：3D 饮料广告海报
 
-![3D 饮料广告海报](../../images/3D%20%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![3D 饮料广告海报](../images/3D%20%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7260,7 +7260,7 @@ Studio cinematic lighting, soft key light, purple rim light, volumetric glow, fl
 
 ### 🎴 例 1632：撕纸风格时尚杂志封面
 
-![撕纸风格时尚杂志封面](../../images/%E6%92%95%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![撕纸风格时尚杂志封面](../images/%E6%92%95%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7298,7 +7298,7 @@ Aspect Ratio: 4:5 vertical.
 
 ### 🎴 例 1648：赛博朋克动漫时尚杂志封面
 
-![赛博朋克动漫时尚杂志封面](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![赛博朋克动漫时尚杂志封面](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7324,7 +7324,7 @@ Sharp anime line art fused with realistic cinematic lighting, highly detailed fa
 
 ### 🎴 例 1661：骑士铠甲 FIFA 英雄海报
 
-![骑士铠甲 FIFA 英雄海报](../../images/%E9%AA%91%E5%A3%AB%E9%93%A0%E7%94%B2%20FIFA%20%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+![骑士铠甲 FIFA 英雄海报](../images/%E9%AA%91%E5%A3%AB%E9%93%A0%E7%94%B2%20FIFA%20%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7342,7 +7342,7 @@ Create an ultra-detailed epic FIFA World Cup 2026 poster featuring {argument nam
 
 ### 🎴 例 1668：Vista 模块化公寓海报
 
-![Vista 模块化公寓海报](../../images/Vista%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%85%AC%E5%AF%93%E6%B5%B7%E6%8A%A5.jpg)
+![Vista 模块化公寓海报](../images/Vista%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%85%AC%E5%AF%93%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7360,7 +7360,7 @@ Create a bold retro-modern architectural poster advertising {argument name="buil
 
 ### 🎴 例 1680：带有涂鸦元素的品牌合成广告
 
-![带有涂鸦元素的品牌合成广告](../../images/%E5%B8%A6%E6%9C%89%E6%B6%82%E9%B8%A6%E5%85%83%E7%B4%A0%E7%9A%84%E5%93%81%E7%89%8C%E5%90%88%E6%88%90%E5%B9%BF%E5%91%8A.jpg)
+![带有涂鸦元素的品牌合成广告](../images/%E5%B8%A6%E6%9C%89%E6%B6%82%E9%B8%A6%E5%85%83%E7%B4%A0%E7%9A%84%E5%93%81%E7%89%8C%E5%90%88%E6%88%90%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -7378,7 +7378,7 @@ Creative composite brand advertisement, 3:4 vertical aspect ratio, clean white b
 
 ### 🎴 例 1686：现代运动图形海报设计
 
-![现代运动图形海报设计](../../images/%E7%8E%B0%E4%BB%A3%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%BD%A2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![现代运动图形海报设计](../images/%E7%8E%B0%E4%BB%A3%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%BD%A2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -7406,7 +7406,7 @@ A professional sports graphic design poster of {argument name="player name" defa
 
 ### 🎴 例 1703：奢华 Lionel Messi 广告海报
 
-![奢华 Lionel Messi 广告海报](../../images/%E5%A5%A2%E5%8D%8E%20Lionel%20Messi%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 Lionel Messi 广告海报](../images/%E5%A5%A2%E5%8D%8E%20Lionel%20Messi%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7424,7 +7424,7 @@ Create a luxurious {argument name="poster type" default="FIFA World Cup advertis
 
 ### 🎴 例 1705：角色主题和果子广告拍摄
 
-![角色主题和果子广告拍摄](../../images/%E8%A7%92%E8%89%B2%E4%B8%BB%E9%A2%98%E5%92%8C%E6%9E%9C%E5%AD%90%E5%B9%BF%E5%91%8A%E6%8B%8D%E6%91%84.jpg)
+![角色主题和果子广告拍摄](../images/%E8%A7%92%E8%89%B2%E4%B8%BB%E9%A2%98%E5%92%8C%E6%9E%9C%E5%AD%90%E5%B9%BF%E5%91%8A%E6%8B%8D%E6%91%84.jpg)
 
 **Prompt:**
 
@@ -7438,7 +7438,7 @@ Create a luxurious {argument name="poster type" default="FIFA World Cup advertis
 
 ### 🎴 例 1709：高端饮料广告海报
 
-![高端饮料广告海报](../../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![高端饮料广告海报](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7518,7 +7518,7 @@ Negative prompt: no extra logos, no distorted packaging, no label distortion, no
 
 ### 🎴 例 1710：可定制的奢华 FIFA 主题海报
 
-![可定制的奢华 FIFA 主题海报](../../images/%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%9A%84%E5%A5%A2%E5%8D%8E%20FIFA%20%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![可定制的奢华 FIFA 主题海报](../images/%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%9A%84%E5%A5%A2%E5%8D%8E%20FIFA%20%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7536,7 +7536,7 @@ Create a luxury FIFA World Cup editorial poster. Clean white background. No stad
 
 ### 🎴 例 1714：极简主义奢华时尚海报
 
-![极简主义奢华时尚海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义奢华时尚海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7554,7 +7554,7 @@ Create A minimalist luxury fashion editorial poster featuring a {argument name="
 
 ### 🎴 例 1716：精英足球运动员体育杂志封面设计
 
-![精英足球运动员体育杂志封面设计](../../images/%E7%B2%BE%E8%8B%B1%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+![精英足球运动员体育杂志封面设计](../images/%E7%B2%BE%E8%8B%B1%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -7572,7 +7572,7 @@ Sports magazine artwork. A young elite footballer in a professional club jersey,
 
 ### 🎴 例 1722：Off Duty 时尚杂志封面
 
-![Off Duty 时尚杂志封面](../../images/Off%20Duty%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![Off Duty 时尚杂志封面](../images/Off%20Duty%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7592,7 +7592,7 @@ Design the image as a niche luxury fashion magazine cover. Use elegant high-cont
 
 ### 🎴 例 1729：电影质感风格化足球海报
 
-![电影质感风格化足球海报](../../images/%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![电影质感风格化足球海报](../images/%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9F%E9%A3%8E%E6%A0%BC%E5%8C%96%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7644,7 +7644,7 @@ leave negative space for title and branding, poster layout, magazine cover compo
 
 ### 🎴 例 1734：极简街头风时尚杂志封面
 
-![极简街头风时尚杂志封面](../../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![极简街头风时尚杂志封面](../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7662,7 +7662,7 @@ Ultra-realistic fashion magazine cover, {argument name="style" default="minimali
 
 ### 🎴 例 1735：极简主义东京城市线条艺术海报
 
-![极简主义东京城市线条艺术海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%9F%8E%E5%B8%82%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义东京城市线条艺术海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%9F%8E%E5%B8%82%E7%BA%BF%E6%9D%A1%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7858,7 +7858,7 @@ Crisp vector-qu
 
 ### 🎴 例 1738：城市涂鸦风格足球海报
 
-![城市涂鸦风格足球海报](../../images/%E5%9F%8E%E5%B8%82%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![城市涂鸦风格足球海报](../images/%E5%9F%8E%E5%B8%82%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7876,7 +7876,7 @@ Ultra-detailed street-art football poster featuring a {argument name="character"
 
 ### 🎴 例 1748：横滨三男泼墨艺术海报
 
-![横滨三男泼墨艺术海报](../../images/%E6%A8%AA%E6%BB%A8%E4%B8%89%E7%94%B7%E6%B3%BC%E5%A2%A8%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+![横滨三男泼墨艺术海报](../images/%E6%A8%AA%E6%BB%A8%E4%B8%89%E7%94%B7%E6%B3%BC%E5%A2%A8%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7894,7 +7894,7 @@ Create a dynamic vertical anime-style illustration titled {argument name="artwor
 
 ### 🎴 例 1750：和服吉他手时尚插画
 
-![和服吉他手时尚插画](../../images/%E5%92%8C%E6%9C%8D%E5%90%89%E4%BB%96%E6%89%8B%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+![和服吉他手时尚插画](../images/%E5%92%8C%E6%9C%8D%E5%90%89%E4%BB%96%E6%89%8B%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -7912,7 +7912,7 @@ Create a tall vertical full-body anime fashion illustration of a stylish young m
 
 ### 🎴 例 1752：动漫麻将杂志封面
 
-![动漫麻将杂志封面](../../images/%E5%8A%A8%E6%BC%AB%E9%BA%BB%E5%B0%86%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![动漫麻将杂志封面](../images/%E5%8A%A8%E6%BC%AB%E9%BA%BB%E5%B0%86%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -7958,7 +7958,7 @@ Visual style: Highly polished anime illustration, soft skin shading, detailed ha
 
 ### 🎴 例 1760：无脸动漫 Cosplay 博览会双人组
 
-![无脸动漫 Cosplay 博览会双人组](../../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%20Cosplay%20%E5%8D%9A%E8%A7%88%E4%BC%9A%E5%8F%8C%E4%BA%BA%E7%BB%84.jpg)
+![无脸动漫 Cosplay 博览会双人组](../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%20Cosplay%20%E5%8D%9A%E8%A7%88%E4%BC%9A%E5%8F%8C%E4%BA%BA%E7%BB%84.jpg)
 
 **Prompt:**
 
@@ -7976,7 +7976,7 @@ Create a polished 2D anime fashion illustration for an event poster featuring ex
 
 ### 🎴 例 1765：未来赛博朋克风格足球海报
 
-![未来赛博朋克风格足球海报](../../images/%E6%9C%AA%E6%9D%A5%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![未来赛博朋克风格足球海报](../images/%E6%9C%AA%E6%9D%A5%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8020,7 +8020,7 @@ Ultra-detailed, hyper realistic, sports advertising campaign, Nike commercial ae
 
 ### 🎴 例 1766：街头潮流杂志封面设计
 
-![街头潮流杂志封面设计](../../images/%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+![街头潮流杂志封面设计](../images/%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -8038,7 +8038,7 @@ Ultra-realistic editorial streetwear magazine cover shot inside a {argument name
 
 ### 🎴 例 1773：孙悟空大闹天宫插画
 
-![孙悟空大闹天宫插画](../../images/%E5%AD%99%E6%82%9F%E7%A9%BA%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%E6%8F%92%E7%94%BB.jpg)
+![孙悟空大闹天宫插画](../images/%E5%AD%99%E6%82%9F%E7%A9%BA%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -8098,7 +8098,7 @@ Constraints: No modern objects, no photorealism, no 3D rendering, no empty backg
 
 ### 🎴 例 1777：美妆广告概念
 
-![美妆广告概念](../../images/%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E6%A6%82%E5%BF%B5.jpg)
+![美妆广告概念](../images/%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E6%A6%82%E5%BF%B5.jpg)
 
 **Prompt:**
 
@@ -8116,7 +8116,7 @@ Ultra-realistic commercial beauty advertisement, vertical 9:16 composition, 8K U
 
 ### 🎴 例 1791：日式运动饮料广告海报
 
-![日式运动饮料广告海报](../../images/%E6%97%A5%E5%BC%8F%E8%BF%90%E5%8A%A8%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![日式运动饮料广告海报](../images/%E6%97%A5%E5%BC%8F%E8%BF%90%E5%8A%A8%E9%A5%AE%E6%96%99%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8162,7 +8162,7 @@ Constraints: Keep all typography bold, clean, and legible; make the main Japanes
 
 ### 🎴 例 1793：青色时尚拼贴海报
 
-![青色时尚拼贴海报](../../images/%E9%9D%92%E8%89%B2%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![青色时尚拼贴海报](../images/%E9%9D%92%E8%89%B2%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8180,7 +8180,7 @@ Create a trendy 3:4 vertical fashion poster using the uploaded portrait as refer
 
 ### 🎴 例 1806：风格化水粉民俗艺术插画
 
-![风格化水粉民俗艺术插画](../../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%B0%B4%E7%B2%89%E6%B0%91%E4%BF%97%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
+![风格化水粉民俗艺术插画](../images/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%B0%B4%E7%B2%89%E6%B0%91%E4%BF%97%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -8212,7 +8212,7 @@ Create a stylized gouache and marker illustration based on the following artisti
 
 ### 🎴 例 1809：护士与医院场景词汇海报
 
-![护士与医院场景词汇海报](../../images/%E6%8A%A4%E5%A3%AB%E4%B8%8E%E5%8C%BB%E9%99%A2%E5%9C%BA%E6%99%AF%E8%AF%8D%E6%B1%87%E6%B5%B7%E6%8A%A5.jpg)
+![护士与医院场景词汇海报](../images/%E6%8A%A4%E5%A3%AB%E4%B8%8E%E5%8C%BB%E9%99%A2%E5%9C%BA%E6%99%AF%E8%AF%8D%E6%B1%87%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8258,7 +8258,7 @@ Constraints: Keep exactly 24 numbered grid cards, no extra cards. Do not use pho
 
 ### 🎴 例 1810：Doritos 时尚广告大片摄影
 
-![Doritos 时尚广告大片摄影](../../images/Doritos%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87%E6%91%84%E5%BD%B1.jpg)
+![Doritos 时尚广告大片摄影](../images/Doritos%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -8276,7 +8276,7 @@ Constraints: Keep exactly 24 numbered grid cards, no extra cards. Do not use pho
 
 ### 🎴 例 1816：奢华护肤品时尚编辑拼贴画
 
-![奢华护肤品时尚编辑拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E5%93%81%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![奢华护肤品时尚编辑拼贴画](../images/%E5%A5%A2%E5%8D%8E%E6%8A%A4%E8%82%A4%E5%93%81%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -8336,7 +8336,7 @@ Constraints: Keep exactly 6 human figures and 6 main skincare products. Do not a
 
 ### 🎴 例 1841：极简对称风格运动海报
 
-![极简对称风格运动海报](../../images/%E6%9E%81%E7%AE%80%E5%AF%B9%E7%A7%B0%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![极简对称风格运动海报](../images/%E6%9E%81%E7%AE%80%E5%AF%B9%E7%A7%B0%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8362,7 +8362,7 @@ Ultra-clean composition, modern sports branding style, high contrast, crisp edge
 
 ### 🎴 例 1847：金阁寺旅行写生海报
 
-![金阁寺旅行写生海报](../../images/%E9%87%91%E9%98%81%E5%AF%BA%E6%97%85%E8%A1%8C%E5%86%99%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
+![金阁寺旅行写生海报](../images/%E9%87%91%E9%98%81%E5%AF%BA%E6%97%85%E8%A1%8C%E5%86%99%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8380,7 +8380,7 @@ Minimalist high-resolution travel poster of {argument name="subject" default="Ki
 
 ### 🎴 例 1850：Charlie Chaplin 产品海报
 
-![Charlie Chaplin 产品海报](../../images/Charlie%20Chaplin%20%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+![Charlie Chaplin 产品海报](../images/Charlie%20Chaplin%20%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8398,7 +8398,7 @@ Create a minimalist poster of {argument name="character" default="Charlie Chapli
 
 ### 🎴 例 1852：日本高中招生宣传册设计
 
-![日本高中招生宣传册设计](../../images/%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%E5%86%8C%E8%AE%BE%E8%AE%A1.jpg)
+![日本高中招生宣传册设计](../images/%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%E5%86%8C%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -8412,7 +8412,7 @@ Create a minimalist poster of {argument name="character" default="Charlie Chapli
 
 ### 🎴 例 1855：动漫风格大学抗议海报
 
-![动漫风格大学抗议海报](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%A7%E5%AD%A6%E6%8A%97%E8%AE%AE%E6%B5%B7%E6%8A%A5.jpg)
+![动漫风格大学抗议海报](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E5%A4%A7%E5%AD%A6%E6%8A%97%E8%AE%AE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8454,7 +8454,7 @@ Visual style: Epic propaganda-poster composition, dynamic low-angle perspective,
 
 ### 🎴 例 1857：Night Static 街头服饰封面
 
-![Night Static 街头服饰封面](../../images/Night%20Static%20%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E5%B0%81%E9%9D%A2.jpg)
+![Night Static 街头服饰封面](../images/Night%20Static%20%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8500,7 +8500,7 @@ Constraints: Make it look like a real photographed editorial cover with illustra
 
 ### 🎴 例 1862：贝多芬大提琴奏鸣曲海报
 
-![贝多芬大提琴奏鸣曲海报](../../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E6%B5%B7%E6%8A%A5.jpg)
+![贝多芬大提琴奏鸣曲海报](../images/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E5%A4%A7%E6%8F%90%E7%90%B4%E5%A5%8F%E9%B8%A3%E6%9B%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8546,7 +8546,7 @@ Constraints: Keep all visible text in Spanish exactly as specified. Do not add l
 
 ### 🎴 例 1868：奢华腕表杂志封面
 
-![奢华腕表杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![奢华腕表杂志封面](../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8564,7 +8564,7 @@ Use the reference photo while keeping the face completely unchanged and identica
 
 ### 🎴 例 1878：汽车生活方式杂志封面
 
-![汽车生活方式杂志封面](../../images/%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![汽车生活方式杂志封面](../images/%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8586,7 +8586,7 @@ Negative: cartoon, blurry, fake car proportions, watermark, distorted reflection
 
 ### 🎴 例 1890：高端电子产品奢华商业广告
 
-![高端电子产品奢华商业广告](../../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%A5%A2%E5%8D%8E%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+![高端电子产品奢华商业广告](../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%A5%A2%E5%8D%8E%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -8604,7 +8604,7 @@ Luxury commercial product advertisement featuring a {argument name="product" def
 
 ### 🎴 例 1903：单色编辑风格体育海报
 
-![单色编辑风格体育海报](../../images/%E5%8D%95%E8%89%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+![单色编辑风格体育海报](../images/%E5%8D%95%E8%89%B2%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8622,7 +8622,7 @@ Create a highly graphic {argument name="subject" default="Beckham"} poster built
 
 ### 🎴 例 1911：高级足球传奇海报
 
-![高级足球传奇海报](../../images/%E9%AB%98%E7%BA%A7%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%B5%B7%E6%8A%A5.jpg)
+![高级足球传奇海报](../images/%E9%AB%98%E7%BA%A7%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8636,7 +8636,7 @@ Create a premium {argument name="主体" default="football legend"} poster wallp
 
 ### 🎴 例 1912：日式动漫足球强力射门
 
-![日式动漫足球强力射门](../../images/%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E5%BC%BA%E5%8A%9B%E5%B0%84%E9%97%A8.jpg)
+![日式动漫足球强力射门](../images/%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E5%BC%BA%E5%8A%9B%E5%B0%84%E9%97%A8.jpg)
 
 **Prompt:**
 
@@ -8654,7 +8654,7 @@ Create a dynamic anime sports poster of a female soccer player representing {arg
 
 ### 🎴 例 1913：克里斯蒂亚诺·罗纳尔多单色海报
 
-![克里斯蒂亚诺·罗纳尔多单色海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%8D%95%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+![克里斯蒂亚诺·罗纳尔多单色海报](../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%8D%95%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8672,7 +8672,7 @@ Create a highly graphic {argument name="athlete" default="Cristiano Ronaldo"} po
 
 ### 🎴 例 1915：高端零食广告海报
 
-![高端零食广告海报](../../images/%E9%AB%98%E7%AB%AF%E9%9B%B6%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![高端零食广告海报](../images/%E9%AB%98%E7%AB%AF%E9%9B%B6%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8690,7 +8690,7 @@ Ultra-premium snack advertising poster featuring {argument name="snack brands" d
 
 ### 🎴 例 1927：AR 智能眼镜科技杂志封面
 
-![AR 智能眼镜科技杂志封面](../../images/AR%20%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E7%A7%91%E6%8A%80%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![AR 智能眼镜科技杂志封面](../images/AR%20%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E7%A7%91%E6%8A%80%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8712,7 +8712,7 @@ Negative: cartoon, blurry, fake-looking glasses, watermark, distorted face.
 
 ### 🎴 例 1929：Anime Skate Cali 海报
 
-![Anime Skate Cali 海报](../../images/Anime%20Skate%20Cali%20%E6%B5%B7%E6%8A%A5.jpg)
+![Anime Skate Cali 海报](../images/Anime%20Skate%20Cali%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8730,7 +8730,7 @@ Create a vertical anime streetwear poster for {argument name="title text" defaul
 
 ### 🎴 例 1933：时尚日式玉米活动海报
 
-![时尚日式玉米活动海报](../../images/%E6%97%B6%E5%B0%9A%E6%97%A5%E5%BC%8F%E7%8E%89%E7%B1%B3%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![时尚日式玉米活动海报](../images/%E6%97%B6%E5%B0%9A%E6%97%A5%E5%BC%8F%E7%8E%89%E7%B1%B3%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8772,7 +8772,7 @@ Visual style: Use stark black typography, generous negative space, precise grid 
 
 ### 🎴 例 1934：美国核能复兴海报
 
-![美国核能复兴海报](../../images/%E7%BE%8E%E5%9B%BD%E6%A0%B8%E8%83%BD%E5%A4%8D%E5%85%B4%E6%B5%B7%E6%8A%A5.jpg)
+![美国核能复兴海报](../images/%E7%BE%8E%E5%9B%BD%E6%A0%B8%E8%83%BD%E5%A4%8D%E5%85%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8822,7 +8822,7 @@ Constraints: No photorealism, no modern UI, no extra slogans, no watermark, no s
 
 ### 🎴 例 1935：向日葵植物高定海报
 
-![向日葵植物高定海报](../../images/%E5%90%91%E6%97%A5%E8%91%B5%E6%A4%8D%E7%89%A9%E9%AB%98%E5%AE%9A%E6%B5%B7%E6%8A%A5.jpg)
+![向日葵植物高定海报](../images/%E5%90%91%E6%97%A5%E8%91%B5%E6%A4%8D%E7%89%A9%E9%AB%98%E5%AE%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8872,7 +8872,7 @@ Constraints: Keep the model’s face covered by a simple beige rectangle; keep t
 
 ### 🎴 例 1950：混合媒介产品海报
 
-![混合媒介产品海报](../../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+![混合媒介产品海报](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8890,7 +8890,7 @@ Innovative mixed-media brand campaign poster, vertical format, premium minimalis
 
 ### 🎴 例 1962：动漫农场故事日
 
-![动漫农场故事日](../../images/%E5%8A%A8%E6%BC%AB%E5%86%9C%E5%9C%BA%E6%95%85%E4%BA%8B%E6%97%A5.jpg)
+![动漫农场故事日](../images/%E5%8A%A8%E6%BC%AB%E5%86%9C%E5%9C%BA%E6%95%85%E4%BA%8B%E6%97%A5.jpg)
 
 **Prompt:**
 
@@ -8940,7 +8940,7 @@ Constraints: Use the exact visible animal count and listed text elements; keep a
 
 ### 🎴 例 1963：汽车杂志封面肖像
 
-![汽车杂志封面肖像](../../images/%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+![汽车杂志封面肖像](../images/%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -8982,7 +8982,7 @@ Negative prompt: cartoon, anime, illustration, blurry, low quality, fake car pro
 
 ### 🎴 例 1964：暗黑动漫悬疑肖像海报
 
-![暗黑动漫悬疑肖像海报](../../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E6%82%AC%E7%96%91%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+![暗黑动漫悬疑肖像海报](../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E6%82%AC%E7%96%91%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9000,7 +9000,7 @@ Create a vertical 9:16 cinematic anime-style poster on a pure black background. 
 
 ### 🎴 例 1965：哥特式 Undine 浪漫主义海报
 
-![哥特式 Undine 浪漫主义海报](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Undine%20%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5.jpg)
+![哥特式 Undine 浪漫主义海报](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Undine%20%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9042,7 +9042,7 @@ Constraints: Keep exactly these 4 visible text elements: author label, headline,
 
 ### 🎴 例 1971：美食宣传海报
 
-![美食宣传海报](../../images/%E7%BE%8E%E9%A3%9F%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![美食宣传海报](../images/%E7%BE%8E%E9%A3%9F%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9056,7 +9056,7 @@ Constraints: Keep exactly these 4 visible text elements: author label, headline,
 
 ### 🎴 例 1976：克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报
 
-![克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%AE%89%E8%BF%AA%C2%B7%E6%B2%83%E9%9C%8D%E5%B0%94%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![克里斯蒂亚诺·罗纳尔多安迪·沃霍尔风格运动海报](../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E5%AE%89%E8%BF%AA%C2%B7%E6%B2%83%E9%9C%8D%E5%B0%94%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9074,7 +9074,7 @@ Constraints: Keep exactly these 4 visible text elements: author label, headline,
 
 ### 🎴 例 1977：像素风端午节海报
 
-![像素风端午节海报](../../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E7%AB%AF%E5%8D%88%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
+![像素风端午节海报](../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E7%AB%AF%E5%8D%88%E8%8A%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9091,7 +9091,7 @@ Constraints: Keep exactly these 4 visible text elements: author label, headline,
 
 ### 🎴 例 1984：布达佩斯剪纸风格旅行海报
 
-![布达佩斯剪纸风格旅行海报](../../images/%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![布达佩斯剪纸风格旅行海报](../images/%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E5%89%AA%E7%BA%B8%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9133,7 +9133,7 @@ Constraints: Keep the scene charming and dense but readable, preserve the histor
 
 ### 🎴 例 1987：超写实商业汽水罐广告
 
-![超写实商业汽水罐广告](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E5%95%86%E4%B8%9A%E6%B1%BD%E6%B0%B4%E7%BD%90%E5%B9%BF%E5%91%8A.jpg)
+![超写实商业汽水罐广告](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E5%95%86%E4%B8%9A%E6%B1%BD%E6%B0%B4%E7%BD%90%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -9159,7 +9159,7 @@ Shot with a full-frame professional camera, 85mm lens, eye-level perspective, sh
 
 ### 🎴 例 1994：意日融合风餐厅海报
 
-![意日融合风餐厅海报](../../images/%E6%84%8F%E6%97%A5%E8%9E%8D%E5%90%88%E9%A3%8E%E9%A4%90%E5%8E%85%E6%B5%B7%E6%8A%A5.jpg)
+![意日融合风餐厅海报](../images/%E6%84%8F%E6%97%A5%E8%9E%8D%E5%90%88%E9%A3%8E%E9%A4%90%E5%8E%85%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9177,7 +9177,7 @@ A minimalistic advertising poster about food in a modern Italian style with Japa
 
 ### 🎴 例 2001：Midnight Aurora 奢华香水广告
 
-![Midnight Aurora 奢华香水广告](../../images/Midnight%20Aurora%20%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
+![Midnight Aurora 奢华香水广告](../images/Midnight%20Aurora%20%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -9223,7 +9223,7 @@ Important: Preserve the exact uploaded product shape and label placement while s
 
 ### 🎴 例 2002：皮克斯风格 Q 版手办生成器
 
-![皮克斯风格 Q 版手办生成器](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20Q%20%E7%89%88%E6%89%8B%E5%8A%9E%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+![皮克斯风格 Q 版手办生成器](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%20Q%20%E7%89%88%E6%89%8B%E5%8A%9E%E7%94%9F%E6%88%90%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -9307,7 +9307,7 @@ Avoid bobblehead proportions. Avoid Funko Pop style. Avoid giant floating head. 
 
 ### 🎴 例 2007：2026 年 FIFA 世界杯英雄海报
 
-![2026 年 FIFA 世界杯英雄海报](../../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+![2026 年 FIFA 世界杯英雄海报](../images/2026%20%E5%B9%B4%20FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9325,7 +9325,7 @@ Create an ultra-realistic FIFA World Cup 2026 championship poster featuring a {a
 
 ### 🎴 例 2041：奢华 3 岁生日海报
 
-![奢华 3 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%203%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 3 岁生日海报](../images/%E5%A5%A2%E5%8D%8E%203%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9363,7 +9363,7 @@ Visual style: Luxury birthday poster, realistic 3D paper-cut architecture, soft 
 
 ### 🎴 例 2042：带有复古海报的写实街头人像
 
-![带有复古海报的写实街头人像](../../images/%E5%B8%A6%E6%9C%89%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%8A%A5%E7%9A%84%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+![带有复古海报的写实街头人像](../images/%E5%B8%A6%E6%9C%89%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%8A%A5%E7%9A%84%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -9381,7 +9381,7 @@ A realistic, full-body portrait of a beautiful young woman wearing a {argument n
 
 ### 🎴 例 2043：动漫限定化妆品展示柜
 
-![动漫限定化妆品展示柜](../../images/%E5%8A%A8%E6%BC%AB%E9%99%90%E5%AE%9A%E5%8C%96%E5%A6%86%E5%93%81%E5%B1%95%E7%A4%BA%E6%9F%9C.jpg)
+![动漫限定化妆品展示柜](../images/%E5%8A%A8%E6%BC%AB%E9%99%90%E5%AE%9A%E5%8C%96%E5%A6%86%E5%93%81%E5%B1%95%E7%A4%BA%E6%9F%9C.jpg)
 
 **Prompt:**
 
@@ -9427,7 +9427,7 @@ Constraints: Keep the display symmetrical and believable as an in-store limited 
 
 ### 🎴 例 2047：赛博朋克特工杂志封面
 
-![赛博朋克特工杂志封面](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![赛博朋克特工杂志封面](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%89%B9%E5%B7%A5%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -9473,7 +9473,7 @@ Visual style: Hyper-detailed editorial realism, cyberpunk yellow-on-black UI ove
 
 ![提示词：
 
-使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E5%8F%91%E5%9E%8B%E7%89%B9%E5%BE%81%E3%80%81%E9%BB%91%E8%89%B2%E9%95%BF%E5%8D%B7%E5%8F%91.jpg)
+使用上传人物照片作为主体参考，保留人物五官比例、脸型轮廓、眼神气质、发型特征、黑色长卷发](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E5%8F%91%E5%9E%8B%E7%89%B9%E5%BE%81%E3%80%81%E9%BB%91%E8%89%B2%E9%95%BF%E5%8D%B7%E5%8F%91.jpg)
 
 **Prompt:**
 
@@ -9489,7 +9489,7 @@ Visual style: Hyper-detailed editorial realism, cyberpunk yellow-on-black UI ove
 
 ### 🎴 例 2080：奢华 6 岁生日海报
 
-![奢华 6 岁生日海报](../../images/%E5%A5%A2%E5%8D%8E%206%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 6 岁生日海报](../images/%E5%A5%A2%E5%8D%8E%206%20%E5%B2%81%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9507,7 +9507,7 @@ Create a professional luxury birthday poster in a vertical 3:4 ratio. Use an ele
 
 ### 🎴 例 2085：Glitch Angel Studio 海报
 
-![Glitch Angel Studio 海报](../../images/Glitch%20Angel%20Studio%20%E6%B5%B7%E6%8A%A5.jpg)
+![Glitch Angel Studio 海报](../images/Glitch%20Angel%20Studio%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9533,7 +9533,7 @@ The oversized receipt rug must contain readable black receipt-style monospaced p
 
 ### 🎴 例 2102：2026 年未来感 AI 科技海报
 
-![2026 年未来感 AI 科技海报](../../images/2026%20%E5%B9%B4%E6%9C%AA%E6%9D%A5%E6%84%9F%20AI%20%E7%A7%91%E6%8A%80%E6%B5%B7%E6%8A%A5.jpg)
+![2026 年未来感 AI 科技海报](../images/2026%20%E5%B9%B4%E6%9C%AA%E6%9D%A5%E6%84%9F%20AI%20%E7%A7%91%E6%8A%80%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9579,7 +9579,7 @@ Constraints: Keep all visible text spelled exactly as specified, make the headli
 
 ### 🎴 例 2104：皮克斯风格重构海报
 
-![皮克斯风格重构海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E9%87%8D%E6%9E%84%E6%B5%B7%E6%8A%A5.jpg)
+![皮克斯风格重构海报](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E9%87%8D%E6%9E%84%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9597,7 +9597,7 @@ Pixar-style movie poster reimagining of the TV show {argument name="tv show" def
 
 ### 🎴 例 2112：暗黑动漫《鬼灭之刃》海报
 
-![暗黑动漫《鬼灭之刃》海报](../../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E3%80%8A%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E3%80%8B%E6%B5%B7%E6%8A%A5.jpg)
+![暗黑动漫《鬼灭之刃》海报](../images/%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E3%80%8A%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E3%80%8B%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9663,7 +9663,7 @@ Constraints: No modern objects, no clean vector look, no extra characters, no ex
 
 ### 🎴 例 2125：Cristiano Ronaldo 里斯本双重曝光海报
 
-![Cristiano Ronaldo 里斯本双重曝光海报](../../images/Cristiano%20Ronaldo%20%E9%87%8C%E6%96%AF%E6%9C%AC%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+![Cristiano Ronaldo 里斯本双重曝光海报](../images/Cristiano%20Ronaldo%20%E9%87%8C%E6%96%AF%E6%9C%AC%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9677,7 +9677,7 @@ Constraints: No modern objects, no clean vector look, no extra characters, no ex
 
 ### 🎴 例 2127：电影感“未来自我”励志海报
 
-![电影感“未来自我”励志海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E2%80%9C%E6%9C%AA%E6%9D%A5%E8%87%AA%E6%88%91%E2%80%9D%E5%8A%B1%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+![电影感“未来自我”励志海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E2%80%9C%E6%9C%AA%E6%9D%A5%E8%87%AA%E6%88%91%E2%80%9D%E5%8A%B1%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9837,7 +9837,7 @@ The final image should feel like a visual representation of compound growth itse
 
 ### 🎴 例 2128：现代时尚编辑海报
 
-![现代时尚编辑海报](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+![现代时尚编辑海报](../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9855,7 +9855,7 @@ Create {argument name="style" default="modern fashion editorial posters"} with {
 
 ### 🎴 例 2129：月下仙卷现世
 
-![月下仙卷现世](../../images/%E6%9C%88%E4%B8%8B%E4%BB%99%E5%8D%B7%E7%8E%B0%E4%B8%96.jpg)
+![月下仙卷现世](../images/%E6%9C%88%E4%B8%8B%E4%BB%99%E5%8D%B7%E7%8E%B0%E4%B8%96.jpg)
 
 **Prompt:**
 
@@ -9873,7 +9873,7 @@ Create a vertical cinematic oriental fantasy poster of {argument name="character
 
 ### 🎴 例 2135：日本世界杯比赛总结海报
 
-![日本世界杯比赛总结海报](../../images/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%80%BB%E7%BB%93%E6%B5%B7%E6%8A%A5.jpg)
+![日本世界杯比赛总结海报](../images/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%80%BB%E7%BB%93%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9923,7 +9923,7 @@ Visual style: Modern Japanese sports newspaper extra, bold editorial layout, nav
 
 ### 🎴 例 2138：科幻悬浮都市海报
 
-![科幻悬浮都市海报](../../images/%E7%A7%91%E5%B9%BB%E6%82%AC%E6%B5%AE%E9%83%BD%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+![科幻悬浮都市海报](../images/%E7%A7%91%E5%B9%BB%E6%82%AC%E6%B5%AE%E9%83%BD%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9941,7 +9941,7 @@ Sci Fi Future City Cinematic Poster, {argument name="subject" default="giant flo
 
 ### 🎴 例 2140：Cristiano Ronaldo 收藏版海报
 
-![Cristiano Ronaldo 收藏版海报](../../images/Cristiano%20Ronaldo%20%E6%94%B6%E8%97%8F%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+![Cristiano Ronaldo 收藏版海报](../images/Cristiano%20Ronaldo%20%E6%94%B6%E8%97%8F%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9987,7 +9987,7 @@ Style constraints: Premium football memorabilia poster, Swiss editorial grid mix
 
 ### 🎴 例 2145：赛博朋克电竞快递员海报
 
-![赛博朋克电竞快递员海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%94%B5%E7%AB%9E%E5%BF%AB%E9%80%92%E5%91%98%E6%B5%B7%E6%8A%A5.jpg)
+![赛博朋克电竞快递员海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%94%B5%E7%AB%9E%E5%BF%AB%E9%80%92%E5%91%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10029,7 +10029,7 @@ Constraints: Include exactly one main character, exactly five bottom info cards,
 
 ### 🎴 例 2146：狂野西部双重曝光海报
 
-![狂野西部双重曝光海报](../../images/%E7%8B%82%E9%87%8E%E8%A5%BF%E9%83%A8%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+![狂野西部双重曝光海报](../images/%E7%8B%82%E9%87%8E%E8%A5%BF%E9%83%A8%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10047,7 +10047,7 @@ Masterpiece double exposure poster, {argument name="subject" default="rugged wil
 
 ### 🎴 例 2185：纽约双重曝光海报
 
-![纽约双重曝光海报](../../images/%E7%BA%BD%E7%BA%A6%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
+![纽约双重曝光海报](../images/%E7%BA%BD%E7%BA%A6%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10089,7 +10089,7 @@ Constraints: Use only one foreground person, exactly one large city title and on
 
 ### 🎴 例 2201：街头足球拼贴海报
 
-![街头足球拼贴海报](../../images/%E8%A1%97%E5%A4%B4%E8%B6%B3%E7%90%83%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![街头足球拼贴海报](../images/%E8%A1%97%E5%A4%B4%E8%B6%B3%E7%90%83%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10107,7 +10107,7 @@ Create a high-resolution vertical 4:5 street football collage poster featuring a
 
 ### 🎴 例 2205：动漫定格杂志海报
 
-![动漫定格杂志海报](../../images/%E5%8A%A8%E6%BC%AB%E5%AE%9A%E6%A0%BC%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+![动漫定格杂志海报](../images/%E5%8A%A8%E6%BC%AB%E5%AE%9A%E6%A0%BC%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10141,7 +10141,7 @@ Style and layout: high-resolution vertical poster, pastel cyan/lavender glow, ai
 
 ### 🎴 例 2219：航空公司机组人员宣传海报
 
-![航空公司机组人员宣传海报](../../images/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![航空公司机组人员宣传海报](../images/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10159,7 +10159,7 @@ Ultra realistic commercial airline advertisement editorial styled like a bold sp
 
 ### 🎴 例 2223：高端足球宣传海报
 
-![高端足球宣传海报](../../images/%E9%AB%98%E7%AB%AF%E8%B6%B3%E7%90%83%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![高端足球宣传海报](../images/%E9%AB%98%E7%AB%AF%E8%B6%B3%E7%90%83%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10177,7 +10177,7 @@ Create an ultra-premium football campaign poster in a vertical 4:5 format, desig
 
 ### 🎴 例 2226：温馨饮品杂志封面
 
-![温馨饮品杂志封面](../../images/%E6%B8%A9%E9%A6%A8%E9%A5%AE%E5%93%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![温馨饮品杂志封面](../images/%E6%B8%A9%E9%A6%A8%E9%A5%AE%E5%93%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -10197,7 +10197,7 @@ Use the reference photo while keeping the face completely unchanged and identica
 
 ### 🎴 例 2241：StarKidz 科学海报
 
-![StarKidz 科学海报](../../images/StarKidz%20%E7%A7%91%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+![StarKidz 科学海报](../images/StarKidz%20%E7%A7%91%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10215,7 +10215,7 @@ A magical science advertisement poster. A {argument name="subject" default="curi
 
 ### 🎴 例 2246：未来感 X-07 动漫角色海报
 
-![未来感 X-07 动漫角色海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20X-07%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+![未来感 X-07 动漫角色海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20X-07%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10233,7 +10233,7 @@ Create a clean futuristic anime key visual in a wide 16:9 canvas. Show one andro
 
 ### 🎴 例 2265：余晖记忆肖像海报
 
-![余晖记忆肖像海报](../../images/%E4%BD%99%E6%99%96%E8%AE%B0%E5%BF%86%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+![余晖记忆肖像海报](../images/%E4%BD%99%E6%99%96%E8%AE%B0%E5%BF%86%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10251,7 +10251,7 @@ Create a cinematic editorial fashion portrait poster of a young woman at 2 a.m.,
 
 ### 🎴 例 2266：意式乡村风味食品广告
 
-![意式乡村风味食品广告](../../images/%E6%84%8F%E5%BC%8F%E4%B9%A1%E6%9D%91%E9%A3%8E%E5%91%B3%E9%A3%9F%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+![意式乡村风味食品广告](../images/%E6%84%8F%E5%BC%8F%E4%B9%A1%E6%9D%91%E9%A3%8E%E5%91%B3%E9%A3%9F%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -10289,7 +10289,7 @@ Photorealistic, authentic Italian food lifestyle editorial, premium gourmet adve
 
 ### 🎴 例 2272：意大利美食广告海报
 
-![意大利美食广告海报](../../images/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![意大利美食广告海报](../images/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10307,7 +10307,7 @@ A warm Italian food advertisement poster. A cheerful Italian grandmother in a cl
 
 ### 🎴 例 2273：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报
 
-![克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报](../../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%20(Cristiano%20Ronaldo)%20%E8%83%B6%E5%8D%B0%E6%B5%B7%E6%8A%A5.jpg)
+![克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 胶印海报](../images/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%20(Cristiano%20Ronaldo)%20%E8%83%B6%E5%8D%B0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10345,7 +10345,7 @@ Art direction inspired by Swiss printing workshops and experimental contemporary
 
 ### 🎴 例 2284：涂鸦风格混合媒体广告
 
-![涂鸦风格混合媒体广告](../../images/%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A.jpg)
+![涂鸦风格混合媒体广告](../images/%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -10415,7 +10415,7 @@ Badge Text: "[PROMO_TEXT]"
 
 ### 🎴 例 2287：马卡龙色系动漫风夏日海滩拼贴画
 
-![马卡龙色系动漫风夏日海滩拼贴画](../../images/%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![马卡龙色系动漫风夏日海滩拼贴画](../images/%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -10457,7 +10457,7 @@ Constraints: Keep everything in English except the signature if customized. No p
 
 ### 🎴 例 2288：先锋运动服饰时尚大片
 
-![先锋运动服饰时尚大片](../../images/%E5%85%88%E9%94%8B%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![先锋运动服饰时尚大片](../images/%E5%85%88%E9%94%8B%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -10475,7 +10475,7 @@ Avant-garde sportswear editorial ad, an oversized {argument name="prop" default=
 
 ### 🎴 例 2293：城市双重曝光宣传海报
 
-![城市双重曝光宣传海报](../../images/%E5%9F%8E%E5%B8%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![城市双重曝光宣传海报](../images/%E5%9F%8E%E5%B8%82%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10493,7 +10493,7 @@ Avant-garde sportswear editorial ad, an oversized {argument name="prop" default=
 
 ### 🎴 例 2309：瑞士现代主义汽车海报
 
-![瑞士现代主义汽车海报](../../images/%E7%91%9E%E5%A3%AB%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+![瑞士现代主义汽车海报](../images/%E7%91%9E%E5%A3%AB%E7%8E%B0%E4%BB%A3%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10511,7 +10511,7 @@ Ultra-clean automotive poster design featuring a {argument name="car" default="[
 
 ### 🎴 例 2315：足球角色一致性海报
 
-![足球角色一致性海报](../../images/%E8%B6%B3%E7%90%83%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E6%B5%B7%E6%8A%A5.jpg)
+![足球角色一致性海报](../images/%E8%B6%B3%E7%90%83%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10529,7 +10529,7 @@ Ultra-realistic football poster featuring {argument name="player" default="Crist
 
 ### 🎴 例 2316：极简主义电影感剪影海报
 
-![极简主义电影感剪影海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%94%B5%E5%BD%B1%E6%84%9F%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义电影感剪影海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%94%B5%E5%BD%B1%E6%84%9F%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10547,7 +10547,7 @@ A striking minimalist cinematic poster with a solid {argument name="background c
 
 ### 🎴 例 2320：电影级海报设计
 
-![电影级海报设计](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![电影级海报设计](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -10569,7 +10569,7 @@ Emulate a master of cinematic poster design, with international film-poster qual
 
 ### 🎴 例 2329：利昂内尔·梅西 (Lionel Messi) 街头艺术风格足球海报
 
-![利昂内尔·梅西 (Lionel Messi) 街头艺术风格足球海报](../../images/%E5%88%A9%E6%98%82%E5%86%85%E5%B0%94%C2%B7%E6%A2%85%E8%A5%BF%20(Lionel%20Messi)%20%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![利昂内尔·梅西 (Lionel Messi) 街头艺术风格足球海报](../images/%E5%88%A9%E6%98%82%E5%86%85%E5%B0%94%C2%B7%E6%A2%85%E8%A5%BF%20(Lionel%20Messi)%20%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10587,7 +10587,7 @@ A dynamic illustrated football poster in explosive street art style, featuring {
 
 ### 🎴 例 2337：排版织物海报模板
 
-![排版织物海报模板](../../images/%E6%8E%92%E7%89%88%E7%BB%87%E7%89%A9%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+![排版织物海报模板](../images/%E6%8E%92%E7%89%88%E7%BB%87%E7%89%A9%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -10605,7 +10605,7 @@ Vertical editorial poster portrait of {argument name="character" default="[CHARA
 
 ### 🎴 例 2346：奢华能量饮料 Snow Leopard 广告
 
-![奢华能量饮料 Snow Leopard 广告](../../images/%E5%A5%A2%E5%8D%8E%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%20Snow%20Leopard%20%E5%B9%BF%E5%91%8A.jpg)
+![奢华能量饮料 Snow Leopard 广告](../images/%E5%A5%A2%E5%8D%8E%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%20Snow%20Leopard%20%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -10623,7 +10623,7 @@ Ultra premium advertising campaign poster for a luxury {argument name="product t
 
 ### 🎴 例 2365：Black Static 黑色电影风格杂志封面
 
-![Black Static 黑色电影风格杂志封面](../../images/Black%20Static%20%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![Black Static 黑色电影风格杂志封面](../images/Black%20Static%20%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -10641,7 +10641,7 @@ Create a vertical 3:4 black-and-white high-contrast noir fashion magazine cover 
 
 ### 🎴 例 2366：GQ 时尚杂志封面
 
-![GQ 时尚杂志封面](../../images/GQ%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![GQ 时尚杂志封面](../images/GQ%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -10659,7 +10659,7 @@ Ultra-realistic fashion editorial magazine cover showing {argument name="person"
 
 ### 🎴 例 2370：复古快餐海报广告
 
-![复古快餐海报广告](../../images/%E5%A4%8D%E5%8F%A4%E5%BF%AB%E9%A4%90%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A.jpg)
+![复古快餐海报广告](../images/%E5%A4%8D%E5%8F%A4%E5%BF%AB%E9%A4%90%E6%B5%B7%E6%8A%A5%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -10677,7 +10677,7 @@ Create a vertical poster ad featuring an {argument name="character" default="upl
 
 ### 🎴 例 2372：赛博朋克风少女海报
 
-![赛博朋克风少女海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%8A%A5.jpg)
+![赛博朋克风少女海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A3%8E%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10695,7 +10695,7 @@ Create a square 1:1 cyberpunk anime illustration of {argument name="character na
 
 ### 🎴 例 2379：现代孔版印刷风格咖啡馆海报
 
-![现代孔版印刷风格咖啡馆海报](../../images/%E7%8E%B0%E4%BB%A3%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5.jpg)
+![现代孔版印刷风格咖啡馆海报](../images/%E7%8E%B0%E4%BB%A3%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10713,7 +10713,7 @@ Flat modern risograph-style poster illustration of {argument name="subject" defa
 
 ### 🎴 例 2393：夏季动漫拼贴海报
 
-![夏季动漫拼贴海报](../../images/%E5%A4%8F%E5%AD%A3%E5%8A%A8%E6%BC%AB%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![夏季动漫拼贴海报](../images/%E5%A4%8F%E5%AD%A3%E5%8A%A8%E6%BC%AB%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10731,7 +10731,7 @@ Create a vertical fashion anime illustration poster of {argument name="character
 
 ### 🎴 例 2396：现代极繁主义运动拼贴画
 
-![现代极繁主义运动拼贴画](../../images/%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%B9%81%E4%B8%BB%E4%B9%89%E8%BF%90%E5%8A%A8%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![现代极繁主义运动拼贴画](../images/%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%B9%81%E4%B8%BB%E4%B9%89%E8%BF%90%E5%8A%A8%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -10749,7 +10749,7 @@ Create a digital modern maximalism style sports collage of {argument name="name"
 
 ### 🎴 例 2397：双重曝光电影海报
 
-![双重曝光电影海报](../../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![双重曝光电影海报](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10769,7 +10769,7 @@ Ratio 4:5
 
 ### 🎴 例 2399：极简主义快餐广告
 
-![极简主义快餐广告](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%BF%AB%E9%A4%90%E5%B9%BF%E5%91%8A.jpg)
+![极简主义快餐广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%BF%AB%E9%A4%90%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -10787,7 +10787,7 @@ Create a minimalist commercial advertisement featuring an oversized {argument na
 
 ### 🎴 例 2400：宋瓷展览海报
 
-![宋瓷展览海报](../../images/%E5%AE%8B%E7%93%B7%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+![宋瓷展览海报](../images/%E5%AE%8B%E7%93%B7%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10833,7 +10833,7 @@ Constraints: Use exactly 1 central vase, exactly 2 main dates in the footer, exa
 
 ### 🎴 例 2401：暗黑奇幻角色海报
 
-![暗黑奇幻角色海报](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+![暗黑奇幻角色海报](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10851,7 +10851,7 @@ Create a vertical character poster for '{argument name="character name" default=
 
 ### 🎴 例 2402：静谧报纸风时尚封面
 
-![静谧报纸风时尚封面](../../images/%E9%9D%99%E8%B0%A7%E6%8A%A5%E7%BA%B8%E9%A3%8E%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
+![静谧报纸风时尚封面](../images/%E9%9D%99%E8%B0%A7%E6%8A%A5%E7%BA%B8%E9%A3%8E%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -10873,7 +10873,7 @@ Magazine cover typography: use exactly 5 text blocks in refined black serif type
 
 ### 🎴 例 2407：蓝色涂鸦 OOTD 贴纸海报
 
-![蓝色涂鸦 OOTD 贴纸海报](../../images/%E8%93%9D%E8%89%B2%E6%B6%82%E9%B8%A6%20OOTD%20%E8%B4%B4%E7%BA%B8%E6%B5%B7%E6%8A%A5.jpg)
+![蓝色涂鸦 OOTD 贴纸海报](../images/%E8%93%9D%E8%89%B2%E6%B6%82%E9%B8%A6%20OOTD%20%E8%B4%B4%E7%BA%B8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10891,7 +10891,7 @@ Create a wide sticker-style fan poster featuring {argument name="character name"
 
 ### 🎴 例 2413：GPT Image 2 提示词宝藏海报
 
-![GPT Image 2 提示词宝藏海报](../../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%AE%9D%E8%97%8F%E6%B5%B7%E6%8A%A5.jpg)
+![GPT Image 2 提示词宝藏海报](../images/GPT%20Image%202%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%AE%9D%E8%97%8F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10945,7 +10945,7 @@ Constraints: Keep the design vertically centered and symmetrical, preserve the e
 
 ### 🎴 例 2431：Amber Café 杂志社论
 
-![Amber Café 杂志社论](../../images/Amber%20Caf%C3%A9%20%E6%9D%82%E5%BF%97%E7%A4%BE%E8%AE%BA.jpg)
+![Amber Café 杂志社论](../images/Amber%20Caf%C3%A9%20%E6%9D%82%E5%BF%97%E7%A4%BE%E8%AE%BA.jpg)
 
 **Prompt:**
 
@@ -10963,7 +10963,7 @@ Create a vertical 3:4 fashion magazine editorial poster photographed in warm aft
 
 ### 🎴 例 2435：复古旅行排版海报
 
-![复古旅行排版海报](../../images/%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+![复古旅行排版海报](../images/%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10981,7 +10981,7 @@ Vintage romantic travel typography poster for {argument name="city" default="Par
 
 ### 🎴 例 2438：Risograph 风格运动艺术海报
 
-![Risograph 风格运动艺术海报](../../images/Risograph%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+![Risograph 风格运动艺术海报](../images/Risograph%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10999,7 +10999,7 @@ Create a highly collectible {argument name="athlete" default="Cristiano Ronaldo"
 
 ### 🎴 例 2449：厦门三角梅早安海报
 
-![厦门三角梅早安海报](../../images/%E5%8E%A6%E9%97%A8%E4%B8%89%E8%A7%92%E6%A2%85%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+![厦门三角梅早安海报](../images/%E5%8E%A6%E9%97%A8%E4%B8%89%E8%A7%92%E6%A2%85%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11049,7 +11049,7 @@ Style constraints: Modern Chinese social-media greeting-card design, refined and
 
 ### 🎴 例 2459：极简 Nike 运动鞋广告海报
 
-![极简 Nike 运动鞋广告海报](../../images/%E6%9E%81%E7%AE%80%20Nike%20%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![极简 Nike 运动鞋广告海报](../images/%E6%9E%81%E7%AE%80%20Nike%20%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11251,7 +11251,7 @@ No messy composition
 
 ### 🎴 例 2461：动态 Cristiano Ronaldo 海报
 
-![动态 Cristiano Ronaldo 海报](../../images/%E5%8A%A8%E6%80%81%20Cristiano%20Ronaldo%20%E6%B5%B7%E6%8A%A5.jpg)
+![动态 Cristiano Ronaldo 海报](../images/%E5%8A%A8%E6%80%81%20Cristiano%20Ronaldo%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11269,7 +11269,7 @@ Create a highly dynamic {argument name="athlete" default="Cristiano Ronaldo"} po
 
 ### 🎴 例 2466：震撼的体育海报设计
 
-![震撼的体育海报设计](../../images/%E9%9C%87%E6%92%BC%E7%9A%84%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![震撼的体育海报设计](../images/%E9%9C%87%E6%92%BC%E7%9A%84%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -11287,7 +11287,7 @@ Wide sports poster composition, {argument name="subject" default="fictional socc
 
 ### 🎴 例 2474：浮世绘风格骷髅社畜语录海报
 
-![浮世绘风格骷髅社畜语录海报](../../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E9%A3%8E%E6%A0%BC%E9%AA%B7%E9%AB%85%E7%A4%BE%E7%95%9C%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+![浮世绘风格骷髅社畜语录海报](../images/%E6%B5%AE%E4%B8%96%E7%BB%98%E9%A3%8E%E6%A0%BC%E9%AA%B7%E9%AB%85%E7%A4%BE%E7%95%9C%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11329,7 +11329,7 @@ Constraints: Use exactly 1 skeleton character, 1 megaphone, 1 briefcase, 1 black
 
 ### 🎴 例 2487：带有动态轨迹的时尚编辑杂志封面
 
-![带有动态轨迹的时尚编辑杂志封面](../../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![带有动态轨迹的时尚编辑杂志封面](../images/%E5%B8%A6%E6%9C%89%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -11377,7 +11377,7 @@ Style: Vogue, GQ, Esquire, luxury fashion campaign, cinematic editorial photogra
 
 ### 🎴 例 2490：金字塔旅行封面海报
 
-![金字塔旅行封面海报](../../images/%E9%87%91%E5%AD%97%E5%A1%94%E6%97%85%E8%A1%8C%E5%B0%81%E9%9D%A2%E6%B5%B7%E6%8A%A5.jpg)
+![金字塔旅行封面海报](../images/%E9%87%91%E5%AD%97%E5%A1%94%E6%97%85%E8%A1%8C%E5%B0%81%E9%9D%A2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11427,7 +11427,7 @@ Visual style: Minimal luxury editorial cover, muted travel photography, high-con
 
 ### 🎴 例 2499：中式婚礼邀请函海报
 
-![中式婚礼邀请函海报](../../images/%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E6%B5%B7%E6%8A%A5.jpg)
+![中式婚礼邀请函海报](../images/%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11473,7 +11473,7 @@ Visual style: Minimalist contemporary Chinese wedding design, auspicious red typ
 
 ### 🎴 例 2501：中式书法品牌形象海报
 
-![中式书法品牌形象海报](../../images/%E4%B8%AD%E5%BC%8F%E4%B9%A6%E6%B3%95%E5%93%81%E7%89%8C%E5%BD%A2%E8%B1%A1%E6%B5%B7%E6%8A%A5.jpg)
+![中式书法品牌形象海报](../images/%E4%B8%AD%E5%BC%8F%E4%B9%A6%E6%B3%95%E5%93%81%E7%89%8C%E5%BD%A2%E8%B1%A1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11529,7 +11529,7 @@ Constraints: Preserve a high-end brand identity presentation style, no people, n
 
 ### 🎴 例 2502：GTA San Andreas 印尼风格插画
 
-![GTA San Andreas 印尼风格插画](../../images/GTA%20San%20Andreas%20%E5%8D%B0%E5%B0%BC%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+![GTA San Andreas 印尼风格插画](../images/GTA%20San%20Andreas%20%E5%8D%B0%E5%B0%BC%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -11547,7 +11547,7 @@ Constraints: Preserve a high-end brand identity presentation style, no people, n
 
 ### 🎴 例 2516：奢华时尚杂志封面
 
-![奢华时尚杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![奢华时尚杂志封面](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -11581,7 +11581,7 @@ Vertical 9:13, ultra photorealistic, 8K, cinematic color grading.
 
 ### 🎴 例 2518：自助洗衣店时尚杂志封面
 
-![自助洗衣店时尚杂志封面](../../images/%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![自助洗衣店时尚杂志封面](../images/%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -11599,7 +11599,7 @@ Create a high-end fashion magazine editorial cover shot in a minimalist cold whi
 
 ### 🎴 例 2519：“明日档案馆”编辑海报
 
-![“明日档案馆”编辑海报](../../images/%E2%80%9C%E6%98%8E%E6%97%A5%E6%A1%A3%E6%A1%88%E9%A6%86%E2%80%9D%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+![“明日档案馆”编辑海报](../images/%E2%80%9C%E6%98%8E%E6%97%A5%E6%A1%A3%E6%A1%88%E9%A6%86%E2%80%9D%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11617,7 +11617,7 @@ Create an ultra-premium monochromatic editorial art poster titled: THE ARCHIVE O
 
 ### 🎴 例 2521：动漫镜像自拍网格
 
-![动漫镜像自拍网格](../../images/%E5%8A%A8%E6%BC%AB%E9%95%9C%E5%83%8F%E8%87%AA%E6%8B%8D%E7%BD%91%E6%A0%BC.jpg)
+![动漫镜像自拍网格](../images/%E5%8A%A8%E6%BC%AB%E9%95%9C%E5%83%8F%E8%87%AA%E6%8B%8D%E7%BD%91%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -11671,7 +11671,7 @@ Constraints: Use exactly 4 panels and exactly 4 main characters per panel, for 1
 
 ### 🎴 例 2529：Risograph 风格咖啡馆海报插画
 
-![Risograph 风格咖啡馆海报插画](../../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
+![Risograph 风格咖啡馆海报插画](../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%B5%B7%E6%8A%A5%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -11689,7 +11689,7 @@ Flat modern risograph-style poster illustration of {argument name="human" defaul
 
 ### 🎴 例 2533：Risograph 风格咖啡馆插画
 
-![Risograph 风格咖啡馆插画](../../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+![Risograph 风格咖啡馆插画](../images/Risograph%20%E9%A3%8E%E6%A0%BC%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -11707,7 +11707,7 @@ Flat modern risograph-style poster illustration of {argument name="human" defaul
 
 ### 🎴 例 2538：极简主义旅行海报模板
 
-![极简主义旅行海报模板](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+![极简主义旅行海报模板](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -11737,7 +11737,7 @@ Image ratio is 2:3.
 
 ### 🎴 例 2543：中式荷花早安海报
 
-![中式荷花早安海报](../../images/%E4%B8%AD%E5%BC%8F%E8%8D%B7%E8%8A%B1%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+![中式荷花早安海报](../images/%E4%B8%AD%E5%BC%8F%E8%8D%B7%E8%8A%B1%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11779,7 +11779,7 @@ Constraints: Keep the background uncluttered, maintain high-end editorial spacin
 
 ### 🎴 例 2552：暗黑光环赛博哥特海报
 
-![暗黑光环赛博哥特海报](../../images/%E6%9A%97%E9%BB%91%E5%85%89%E7%8E%AF%E8%B5%9B%E5%8D%9A%E5%93%A5%E7%89%B9%E6%B5%B7%E6%8A%A5.jpg)
+![暗黑光环赛博哥特海报](../images/%E6%9A%97%E9%BB%91%E5%85%89%E7%8E%AF%E8%B5%9B%E5%8D%9A%E5%93%A5%E7%89%B9%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11797,7 +11797,7 @@ Create a dark cyber-goth fashion editorial poster featuring an {argument name="c
 
 ### 🎴 例 2565：极简风鸡肉卷广告
 
-![极简风鸡肉卷广告](../../images/%E6%9E%81%E7%AE%80%E9%A3%8E%E9%B8%A1%E8%82%89%E5%8D%B7%E5%B9%BF%E5%91%8A.jpg)
+![极简风鸡肉卷广告](../images/%E6%9E%81%E7%AE%80%E9%A3%8E%E9%B8%A1%E8%82%89%E5%8D%B7%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -11815,7 +11815,7 @@ Minimalist commercial ad featuring {argument name="subject" default="oversized p
 
 ### 🎴 例 2573：宽幅体育海报庆典
 
-![宽幅体育海报庆典](../../images/%E5%AE%BD%E5%B9%85%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E5%BA%86%E5%85%B8.jpg)
+![宽幅体育海报庆典](../images/%E5%AE%BD%E5%B9%85%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5%E5%BA%86%E5%85%B8.jpg)
 
 **Prompt:**
 
@@ -11833,7 +11833,7 @@ Wide sports poster composition, fictional {argument name="athlete" default="socc
 
 ### 🎴 例 2575：2026 年日本世界杯海报
 
-![2026 年日本世界杯海报](../../images/2026%20%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5.jpg)
+![2026 年日本世界杯海报](../images/2026%20%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11851,7 +11851,7 @@ Create a cinematic sports poster for {argument name="event title" default="WORLD
 
 ### 🎴 例 2584：Volt Kick 足球能量饮料海报
 
-![Volt Kick 足球能量饮料海报](../../images/Volt%20Kick%20%E8%B6%B3%E7%90%83%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
+![Volt Kick 足球能量饮料海报](../images/Volt%20Kick%20%E8%B6%B3%E7%90%83%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11893,7 +11893,7 @@ Constraints: Use only fictional branding and generic players, no real teams or r
 
 ### 🎴 例 2592：半色调极简艺术海报
 
-![半色调极简艺术海报](../../images/%E5%8D%8A%E8%89%B2%E8%B0%83%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+![半色调极简艺术海报](../images/%E5%8D%8A%E8%89%B2%E8%B0%83%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -11911,7 +11911,7 @@ Minimalist art poster. A large pure-white negative-space background with dreamy,
 
 ### 🎴 例 2596：体育编辑海报设计
 
-![体育编辑海报设计](../../images/%E4%BD%93%E8%82%B2%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![体育编辑海报设计](../images/%E4%BD%93%E8%82%B2%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -11929,7 +11929,7 @@ Sports poster design, fictional {argument name="subject" default="male soccer pl
 
 ### 🎴 例 2597：超写实街头时尚大片
 
-![超写实街头时尚大片](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![超写实街头时尚大片](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -11947,7 +11947,7 @@ Ultra-realistic fashion magazine cover, minimalist streetwear editorial, young m
 
 ### 🎴 例 2616：现代孔版印刷 (Risograph) 海报风格
 
-![现代孔版印刷 (Risograph) 海报风格](../../images/%E7%8E%B0%E4%BB%A3%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%20(Risograph)%20%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+![现代孔版印刷 (Risograph) 海报风格](../images/%E7%8E%B0%E4%BB%A3%E5%AD%94%E7%89%88%E5%8D%B0%E5%88%B7%20(Risograph)%20%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -11965,7 +11965,7 @@ Create a flat poster in the style of a modern risograph using the attached photo
 
 ### 🎴 例 2619：“现实与虚构”角色互换海报
 
-![“现实与虚构”角色互换海报](../../images/%E2%80%9C%E7%8E%B0%E5%AE%9E%E4%B8%8E%E8%99%9A%E6%9E%84%E2%80%9D%E8%A7%92%E8%89%B2%E4%BA%92%E6%8D%A2%E6%B5%B7%E6%8A%A5.jpg)
+![“现实与虚构”角色互换海报](../images/%E2%80%9C%E7%8E%B0%E5%AE%9E%E4%B8%8E%E8%99%9A%E6%9E%84%E2%80%9D%E8%A7%92%E8%89%B2%E4%BA%92%E6%8D%A2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12004,7 +12004,7 @@ The overall poster should deliver a polished, premium, and contemporary visual i
 
 ### 🎴 例 2636：Nike 红色街头风运动鞋广告企划
 
-![Nike 红色街头风运动鞋广告企划](../../images/Nike%20%E7%BA%A2%E8%89%B2%E8%A1%97%E5%A4%B4%E9%A3%8E%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
+![Nike 红色街头风运动鞋广告企划](../images/Nike%20%E7%BA%A2%E8%89%B2%E8%A1%97%E5%A4%B4%E9%A3%8E%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
 
 **Prompt:**
 
@@ -12022,7 +12022,7 @@ A young man with {argument name="skin tone" default="light-medium skin"}, short 
 
 ### 🎴 例 2647：抽象粒子日式海报
 
-![抽象粒子日式海报](../../images/%E6%8A%BD%E8%B1%A1%E7%B2%92%E5%AD%90%E6%97%A5%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+![抽象粒子日式海报](../images/%E6%8A%BD%E8%B1%A1%E7%B2%92%E5%AD%90%E6%97%A5%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12040,7 +12040,7 @@ Abstract {argument name="subject" default="ghost animal"} formed from thousands 
 
 ### 🎴 例 2648：日本 SaaS AI 提示词管理广告
 
-![日本 SaaS AI 提示词管理广告](../../images/%E6%97%A5%E6%9C%AC%20SaaS%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%AE%A1%E7%90%86%E5%B9%BF%E5%91%8A.jpg)
+![日本 SaaS AI 提示词管理广告](../images/%E6%97%A5%E6%9C%AC%20SaaS%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%AE%A1%E7%90%86%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -12086,7 +12086,7 @@ Visual style: Friendly Japanese startup SaaS ad, polished vector UI, soft shadow
 
 ### 🎴 例 2660：儿童艺术班招生海报
 
-![儿童艺术班招生海报](../../images/%E5%84%BF%E7%AB%A5%E8%89%BA%E6%9C%AF%E7%8F%AD%E6%8B%9B%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
+![儿童艺术班招生海报](../images/%E5%84%BF%E7%AB%A5%E8%89%BA%E6%9C%AF%E7%8F%AD%E6%8B%9B%E7%94%9F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12124,7 +12124,7 @@ Constraints: Make the poster family-friendly, clean, high-resolution, and print-
 
 ### 🎴 例 2663：单色 AI 咖啡海报
 
-![单色 AI 咖啡海报](../../images/%E5%8D%95%E8%89%B2%20AI%20%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5.jpg)
+![单色 AI 咖啡海报](../images/%E5%8D%95%E8%89%B2%20AI%20%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12170,7 +12170,7 @@ Constraints: Preserve all visible text exactly as specified, avoid additional sl
 
 ### 🎴 例 2665：构成主义经典汽车编辑网格
 
-![构成主义经典汽车编辑网格](../../images/%E6%9E%84%E6%88%90%E4%B8%BB%E4%B9%89%E7%BB%8F%E5%85%B8%E6%B1%BD%E8%BD%A6%E7%BC%96%E8%BE%91%E7%BD%91%E6%A0%BC.jpg)
+![构成主义经典汽车编辑网格](../images/%E6%9E%84%E6%88%90%E4%B8%BB%E4%B9%89%E7%BB%8F%E5%85%B8%E6%B1%BD%E8%BD%A6%E7%BC%96%E8%BE%91%E7%BD%91%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -12224,7 +12224,7 @@ Constraints: Include exactly four cars and exactly four numbered panels. Keep al
 
 ### 🎴 例 2666：充满活力的体育广告海报
 
-![充满活力的体育广告海报](../../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E4%BD%93%E8%82%B2%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![充满活力的体育广告海报](../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E4%BD%93%E8%82%B2%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12242,7 +12242,7 @@ A vibrant sports advertisement poster. An energetic young boy age {argument name
 
 ### 🎴 例 2671：Lucian Freud 风格运动肖像
 
-![Lucian Freud 风格运动肖像](../../images/Lucian%20Freud%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%82%96%E5%83%8F.jpg)
+![Lucian Freud 风格运动肖像](../images/Lucian%20Freud%20%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -12334,7 +12334,7 @@ Cristiano Ronaldo high detail textural sports poster.\n\n**Background**\n\nRaw l
 
 ### 🎴 例 2676：新黑色电影风格日式时尚拼贴画
 
-![新黑色电影风格日式时尚拼贴画](../../images/%E6%96%B0%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%97%A5%E5%BC%8F%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![新黑色电影风格日式时尚拼贴画](../images/%E6%96%B0%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%97%A5%E5%BC%8F%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -12352,7 +12352,7 @@ Create a highly detailed vertical mixed-media fashion collage poster featuring {
 
 ### 🎴 例 2677：霓虹风格日语 AI IDE 落地页海报
 
-![霓虹风格日语 AI IDE 落地页海报](../../images/%E9%9C%93%E8%99%B9%E9%A3%8E%E6%A0%BC%E6%97%A5%E8%AF%AD%20AI%20IDE%20%E8%90%BD%E5%9C%B0%E9%A1%B5%E6%B5%B7%E6%8A%A5.jpg)
+![霓虹风格日语 AI IDE 落地页海报](../images/%E9%9C%93%E8%99%B9%E9%A3%8E%E6%A0%BC%E6%97%A5%E8%AF%AD%20AI%20IDE%20%E8%90%BD%E5%9C%B0%E9%A1%B5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12398,7 +12398,7 @@ Visual style: High-end cyberpunk developer-tool advertisement, dark glass UI, ne
 
 ### 🎴 例 2695：涂鸦幻觉电影海报
 
-![涂鸦幻觉电影海报](../../images/%E6%B6%82%E9%B8%A6%E5%B9%BB%E8%A7%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![涂鸦幻觉电影海报](../images/%E6%B6%82%E9%B8%A6%E5%B9%BB%E8%A7%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12416,7 +12416,7 @@ A portrait-oriented cinematic poster in the Graffiti Come to Life (Optical Illus
 
 ### 🎴 例 2725：末日蚀象堡垒
 
-![末日蚀象堡垒](../../images/%E6%9C%AB%E6%97%A5%E8%9A%80%E8%B1%A1%E5%A0%A1%E5%9E%92.jpg)
+![末日蚀象堡垒](../images/%E6%9C%AB%E6%97%A5%E8%9A%80%E8%B1%A1%E5%A0%A1%E5%9E%92.jpg)
 
 **Prompt:**
 
@@ -12434,7 +12434,7 @@ Create a dark epic fantasy vertical poster showing an apocalyptic alien landscap
 
 ### 🎴 例 2726：动漫足球零食包装广告
 
-![动漫足球零食包装广告](../../images/%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%85%E5%B9%BF%E5%91%8A.jpg)
+![动漫足球零食包装广告](../images/%E5%8A%A8%E6%BC%AB%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%85%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -12452,7 +12452,7 @@ Create a polished anime-style product advertisement image for a fictional Japane
 
 ### 🎴 例 2728：东方禅意极简日落海报
 
-![东方禅意极简日落海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
+![东方禅意极简日落海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%97%A5%E8%90%BD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12466,7 +12466,7 @@ Create a polished anime-style product advertisement image for a fictional Japane
 
 ### 🎴 例 2733：世界杯体育专题海报
 
-![世界杯体育专题海报](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E4%B8%93%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![世界杯体育专题海报](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BD%93%E8%82%B2%E4%B8%93%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12484,7 +12484,7 @@ Create a premium sports editorial poster in a modern {argument name="event" defa
 
 ### 🎴 例 2746：极简主义汽车杂志风海报
 
-![极简主义汽车杂志风海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义汽车杂志风海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B1%BD%E8%BD%A6%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12502,7 +12502,7 @@ Minimalist automotive editorial poster for {argument name="car model" default="[
 
 ### 🎴 例 2748：深色朗姆酒商业广告项目
 
-![深色朗姆酒商业广告项目](../../images/%E6%B7%B1%E8%89%B2%E6%9C%97%E5%A7%86%E9%85%92%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+![深色朗姆酒商业广告项目](../images/%E6%B7%B1%E8%89%B2%E6%9C%97%E5%A7%86%E9%85%92%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -12524,7 +12524,7 @@ Ultra-premium artisan spirits art direction, deep obsidian black
 
 ### 🎴 例 2755：治愈系每日语录海报
 
-![治愈系每日语录海报](../../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E6%AF%8F%E6%97%A5%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+![治愈系每日语录海报](../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E6%AF%8F%E6%97%A5%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12540,7 +12540,7 @@ Ultra-premium artisan spirits art direction, deep obsidian black
 
 ### 🎴 例 2757：赛博朋克限定款智能手表海报
 
-![赛博朋克限定款智能手表海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%99%90%E5%AE%9A%E6%AC%BE%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%B5%B7%E6%8A%A5.jpg)
+![赛博朋克限定款智能手表海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%99%90%E5%AE%9A%E6%AC%BE%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12594,7 +12594,7 @@ Constraints: Keep the image as a single polished product-page poster. Make all v
 
 ### 🎴 例 2761：虚构足球零食集换式卡片产品摄影
 
-![虚构足球零食集换式卡片产品摄影](../../images/%E8%99%9A%E6%9E%84%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%87%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+![虚构足球零食集换式卡片产品摄影](../images/%E8%99%9A%E6%9E%84%E8%B6%B3%E7%90%83%E9%9B%B6%E9%A3%9F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%87%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -12612,7 +12612,7 @@ Create a realistic promotional product photo of a fictional Japanese soccer snac
 
 ### 🎴 例 2763：高端中式砂锅美食海报
 
-![高端中式砂锅美食海报](../../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%A0%82%E9%94%85%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
+![高端中式砂锅美食海报](../images/%E9%AB%98%E7%AB%AF%E4%B8%AD%E5%BC%8F%E7%A0%82%E9%94%85%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12658,7 +12658,7 @@ Constraints: Keep the composition vertical and centered, use only the specified 
 
 ### 🎴 例 2765：日本豪华公寓销售宣传单
 
-![日本豪华公寓销售宣传单](../../images/%E6%97%A5%E6%9C%AC%E8%B1%AA%E5%8D%8E%E5%85%AC%E5%AF%93%E9%94%80%E5%94%AE%E5%AE%A3%E4%BC%A0%E5%8D%95.jpg)
+![日本豪华公寓销售宣传单](../images/%E6%97%A5%E6%9C%AC%E8%B1%AA%E5%8D%8E%E5%85%AC%E5%AF%93%E9%94%80%E5%94%AE%E5%AE%A3%E4%BC%A0%E5%8D%95.jpg)
 
 **Prompt:**
 
@@ -12712,7 +12712,7 @@ Visual style and constraints: Make it look like a finished premium Japanese real
 
 ### 🎴 例 2779：电影感漫画风王座海报
 
-![电影感漫画风王座海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%BC%AB%E7%94%BB%E9%A3%8E%E7%8E%8B%E5%BA%A7%E6%B5%B7%E6%8A%A5.jpg)
+![电影感漫画风王座海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%BC%AB%E7%94%BB%E9%A3%8E%E7%8E%8B%E5%BA%A7%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12738,7 +12738,7 @@ The throne is ancient and imposing, with engraved symbols that match the charact
 
 ### 🎴 例 2782：Arina Ai 3D 变形城市广告牌
 
-![Arina Ai 3D 变形城市广告牌](../../images/Arina%20Ai%203D%20%E5%8F%98%E5%BD%A2%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%91%8A%E7%89%8C.jpg)
+![Arina Ai 3D 变形城市广告牌](../images/Arina%20Ai%203D%20%E5%8F%98%E5%BD%A2%E5%9F%8E%E5%B8%82%E5%B9%BF%E5%91%8A%E7%89%8C.jpg)
 
 **Prompt:**
 
@@ -12756,7 +12756,7 @@ Create a hyper-realistic 3D anamorphic billboard scene in a busy modern city int
 
 ### 🎴 例 2788：DHL 高端物流营销海报
 
-![DHL 高端物流营销海报](../../images/DHL%20%E9%AB%98%E7%AB%AF%E7%89%A9%E6%B5%81%E8%90%A5%E9%94%80%E6%B5%B7%E6%8A%A5.jpg)
+![DHL 高端物流营销海报](../images/DHL%20%E9%AB%98%E7%AB%AF%E7%89%A9%E6%B5%81%E8%90%A5%E9%94%80%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12774,7 +12774,7 @@ Act as a senior art director from a global advertising agency specializing in pr
 
 ### 🎴 例 2790：高端比赛日转播海报
 
-![高端比赛日转播海报](../../images/%E9%AB%98%E7%AB%AF%E6%AF%94%E8%B5%9B%E6%97%A5%E8%BD%AC%E6%92%AD%E6%B5%B7%E6%8A%A5.jpg)
+![高端比赛日转播海报](../images/%E9%AB%98%E7%AB%AF%E6%AF%94%E8%B5%9B%E6%97%A5%E8%BD%AC%E6%92%AD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12788,7 +12788,7 @@ TEAM 1: {argument name="team one" default="TEAM 1"} TEAM 2: {argument name="team
 
 ### 🎴 例 2792：高级黑白编辑风格海报
 
-![高级黑白编辑风格海报](../../images/%E9%AB%98%E7%BA%A7%E9%BB%91%E7%99%BD%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+![高级黑白编辑风格海报](../images/%E9%AB%98%E7%BA%A7%E9%BB%91%E7%99%BD%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12806,7 +12806,7 @@ Create a premium black-and-white editorial poster featuring {argument name="subj
 
 ### 🎴 例 2834：樱花神谕塔罗牌
 
-![樱花神谕塔罗牌](../../images/%E6%A8%B1%E8%8A%B1%E7%A5%9E%E8%B0%95%E5%A1%94%E7%BD%97%E7%89%8C.jpg)
+![樱花神谕塔罗牌](../images/%E6%A8%B1%E8%8A%B1%E7%A5%9E%E8%B0%95%E5%A1%94%E7%BD%97%E7%89%8C.jpg)
 
 **Prompt:**
 
@@ -12848,7 +12848,7 @@ Constraints: Keep the composition symmetrical and luxurious, with the character 
 
 ### 🎴 例 2840：极简主义体育社论风格足球海报
 
-![极简主义体育社论风格足球海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%BD%93%E8%82%B2%E7%A4%BE%E8%AE%BA%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义体育社论风格足球海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%BD%93%E8%82%B2%E7%A4%BE%E8%AE%BA%E9%A3%8E%E6%A0%BC%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12950,7 +12950,7 @@ Use the country's official colors consistently across the background, typography
 
 ### 🎴 例 2843：复古波普艺术蓝莓奶昔海报
 
-![复古波普艺术蓝莓奶昔海报](../../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%E8%93%9D%E8%8E%93%E5%A5%B6%E6%98%94%E6%B5%B7%E6%8A%A5.jpg)
+![复古波普艺术蓝莓奶昔海报](../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E8%89%BA%E6%9C%AF%E8%93%9D%E8%8E%93%E5%A5%B6%E6%98%94%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -12977,7 +12977,7 @@ Create a bold retro pop-art poster for a {argument name="dessert shake" default=
 
 ### 🎴 例 2847：复古迷幻风格沙漠海报
 
-![复古迷幻风格沙漠海报](../../images/%E5%A4%8D%E5%8F%A4%E8%BF%B7%E5%B9%BB%E9%A3%8E%E6%A0%BC%E6%B2%99%E6%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![复古迷幻风格沙漠海报](../images/%E5%A4%8D%E5%8F%A4%E8%BF%B7%E5%B9%BB%E9%A3%8E%E6%A0%BC%E6%B2%99%E6%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13023,7 +13023,7 @@ Constraints: Keep the poster text legible and arranged as described, include exa
 
 ![提示词：
 
-使用一张人物照片作为主体身份参考，保留人物的五官比例、脸型轮廓、眼神气质、柔软刘海、唇形](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E7%9A%84%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E6%9F%94%E8%BD%AF%E5%88%98%E6%B5%B7%E3%80%81%E5%94%87%E5%BD%A2.jpg)
+使用一张人物照片作为主体身份参考，保留人物的五官比例、脸型轮廓、眼神气质、柔软刘海、唇形](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E4%BD%BF%E7%94%A8%E4%B8%80%E5%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E4%B8%BB%E4%BD%93%E8%BA%AB%E4%BB%BD%E5%8F%82%E8%80%83%EF%BC%8C%E4%BF%9D%E7%95%99%E4%BA%BA%E7%89%A9%E7%9A%84%E4%BA%94%E5%AE%98%E6%AF%94%E4%BE%8B%E3%80%81%E8%84%B8%E5%9E%8B%E8%BD%AE%E5%BB%93%E3%80%81%E7%9C%BC%E7%A5%9E%E6%B0%94%E8%B4%A8%E3%80%81%E6%9F%94%E8%BD%AF%E5%88%98%E6%B5%B7%E3%80%81%E5%94%87%E5%BD%A2.jpg)
 
 **Prompt:**
 
@@ -13039,7 +13039,7 @@ Constraints: Keep the poster text legible and arranged as described, include exa
 
 ### 🎴 例 2869：GQ Style 杂志封面美学
 
-![GQ Style 杂志封面美学](../../images/GQ%20Style%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E7%BE%8E%E5%AD%A6.jpg)
+![GQ Style 杂志封面美学](../images/GQ%20Style%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E7%BE%8E%E5%AD%A6.jpg)
 
 **Prompt:**
 
@@ -13057,7 +13057,7 @@ Cinematic GQ Style magazine cover — {argument name="model description" default
 
 ### 🎴 例 2887：Cristiano Ronaldo 执着主题海报
 
-![Cristiano Ronaldo 执着主题海报](../../images/Cristiano%20Ronaldo%20%E6%89%A7%E7%9D%80%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![Cristiano Ronaldo 执着主题海报](../images/Cristiano%20Ronaldo%20%E6%89%A7%E7%9D%80%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13075,7 +13075,7 @@ Create an award-winning collector-edition {argument name="subject" default="Cris
 
 ### 🎴 例 2890：优雅欧式咖啡馆生活方式肖像
 
-![优雅欧式咖啡馆生活方式肖像](../../images/%E4%BC%98%E9%9B%85%E6%AC%A7%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
+![优雅欧式咖啡馆生活方式肖像](../images/%E4%BC%98%E9%9B%85%E6%AC%A7%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -13107,7 +13107,7 @@ Create an elegant café lifestyle portrait of a {argument name="subject descript
 
 ### 🎴 例 2902：抽象几何火烈鸟海报
 
-![抽象几何火烈鸟海报](../../images/%E6%8A%BD%E8%B1%A1%E5%87%A0%E4%BD%95%E7%81%AB%E7%83%88%E9%B8%9F%E6%B5%B7%E6%8A%A5.jpg)
+![抽象几何火烈鸟海报](../images/%E6%8A%BD%E8%B1%A1%E5%87%A0%E4%BD%95%E7%81%AB%E7%83%88%E9%B8%9F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13125,7 +13125,7 @@ Create a minimalist geometric art poster of an abstract flamingo made entirely f
 
 ### 🎴 例 2903：几何风格丹顶鹤海报
 
-![几何风格丹顶鹤海报](../../images/%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E4%B8%B9%E9%A1%B6%E9%B9%A4%E6%B5%B7%E6%8A%A5.jpg)
+![几何风格丹顶鹤海报](../images/%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%E4%B8%B9%E9%A1%B6%E9%B9%A4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13143,7 +13143,7 @@ Create a vertical poster illustration of a {argument name="animal" default="red-
 
 ### 🎴 例 2910：日本足球应援蛋糕广告
 
-![日本足球应援蛋糕广告](../../images/%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E5%BA%94%E6%8F%B4%E8%9B%8B%E7%B3%95%E5%B9%BF%E5%91%8A.jpg)
+![日本足球应援蛋糕广告](../images/%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E5%BA%94%E6%8F%B4%E8%9B%8B%E7%B3%95%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -13185,7 +13185,7 @@ Constraints: Use exactly 1 cake, 1 strawberry, 1 pedestal stand, 6 visible side 
 
 ### 🎴 例 2914：夏日热浪时尚海报
 
-![夏日热浪时尚海报](../../images/%E5%A4%8F%E6%97%A5%E7%83%AD%E6%B5%AA%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+![夏日热浪时尚海报](../images/%E5%A4%8F%E6%97%A5%E7%83%AD%E6%B5%AA%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13203,7 +13203,7 @@ Wide summer editorial poster, {argument name="subject" default="young woman with
 
 ### 🎴 例 2915：Almarai 牛奶悬浮飞溅广告
 
-![Almarai 牛奶悬浮飞溅广告](../../images/Almarai%20%E7%89%9B%E5%A5%B6%E6%82%AC%E6%B5%AE%E9%A3%9E%E6%BA%85%E5%B9%BF%E5%91%8A.jpg)
+![Almarai 牛奶悬浮飞溅广告](../images/Almarai%20%E7%89%9B%E5%A5%B6%E6%82%AC%E6%B5%AE%E9%A3%9E%E6%BA%85%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -13221,7 +13221,7 @@ Create a cinematic premium dairy advertising image centered on a single floating
 
 ### 🎴 例 2917：复古手绘广告海报
 
-![复古手绘广告海报](../../images/%E5%A4%8D%E5%8F%A4%E6%89%8B%E7%BB%98%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![复古手绘广告海报](../images/%E5%A4%8D%E5%8F%A4%E6%89%8B%E7%BB%98%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13239,7 +13239,7 @@ Vintage hand-painted advertising poster for {argument name="product" default="[P
 
 ### 🎴 例 2919：日本儿科诊所更名传单
 
-![日本儿科诊所更名传单](../../images/%E6%97%A5%E6%9C%AC%E5%84%BF%E7%A7%91%E8%AF%8A%E6%89%80%E6%9B%B4%E5%90%8D%E4%BC%A0%E5%8D%95.jpg)
+![日本儿科诊所更名传单](../images/%E6%97%A5%E6%9C%AC%E5%84%BF%E7%A7%91%E8%AF%8A%E6%89%80%E6%9B%B4%E5%90%8D%E4%BC%A0%E5%8D%95.jpg)
 
 **Prompt:**
 
@@ -13301,7 +13301,7 @@ Visual style: Friendly Japanese pediatric clinic flyer, clean vector art, rounde
 
 ### 🎴 例 2922：日本创作者个人品牌海报
 
-![日本创作者个人品牌海报](../../images/%E6%97%A5%E6%9C%AC%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+![日本创作者个人品牌海报](../images/%E6%97%A5%E6%9C%AC%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13343,7 +13343,7 @@ Constraints: Keep the headline very large and dominant on the left, do not cover
 
 ### 🎴 例 2928：极简主义东京夜景旅行海报
 
-![极简主义东京夜景旅行海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义东京夜景旅行海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13451,7 +13451,7 @@ Print-ready
 
 ### 🎴 例 2943：东方禅意极简海报
 
-![东方禅意极简海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5.jpg)
+![东方禅意极简海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13474,7 +13474,7 @@ Print-ready
 
 ### 🎴 例 2948：电影感油画风格武术海报
 
-![电影感油画风格武术海报](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
+![电影感油画风格武术海报](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%B9%E7%94%BB%E9%A3%8E%E6%A0%BC%E6%AD%A6%E6%9C%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13488,7 +13488,7 @@ Print-ready
 
 ### 🎴 例 2963：反设计风格长沙臭豆腐广告
 
-![反设计风格长沙臭豆腐广告](../../images/%E5%8F%8D%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC%E9%95%BF%E6%B2%99%E8%87%AD%E8%B1%86%E8%85%90%E5%B9%BF%E5%91%8A.jpg)
+![反设计风格长沙臭豆腐广告](../images/%E5%8F%8D%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC%E9%95%BF%E6%B2%99%E8%87%AD%E8%B1%86%E8%85%90%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -13586,7 +13586,7 @@ Optional additional ugly handwritten Chinese copy:
 
 ### 🎴 例 2965：复古中国诗词座右铭海报
 
-![复古中国诗词座右铭海报](../../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E5%9B%BD%E8%AF%97%E8%AF%8D%E5%BA%A7%E5%8F%B3%E9%93%AD%E6%B5%B7%E6%8A%A5.jpg)
+![复古中国诗词座右铭海报](../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E5%9B%BD%E8%AF%97%E8%AF%8D%E5%BA%A7%E5%8F%B3%E9%93%AD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13628,7 +13628,7 @@ Composition and constraints: Leave generous negative space in the center, keep a
 
 ### 🎴 例 2967：中式萤火夏夜海报
 
-![中式萤火夏夜海报](../../images/%E4%B8%AD%E5%BC%8F%E8%90%A4%E7%81%AB%E5%A4%8F%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
+![中式萤火夏夜海报](../images/%E4%B8%AD%E5%BC%8F%E8%90%A4%E7%81%AB%E5%A4%8F%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13670,7 +13670,7 @@ Constraints: Do not overcrowd the composition. Preserve the asymmetric balance: 
 
 ### 🎴 例 2971：NEONVEIL 银发歌手海报
 
-![NEONVEIL 银发歌手海报](../../images/NEONVEIL%20%E9%93%B6%E5%8F%91%E6%AD%8C%E6%89%8B%E6%B5%B7%E6%8A%A5.jpg)
+![NEONVEIL 银发歌手海报](../images/NEONVEIL%20%E9%93%B6%E5%8F%91%E6%AD%8C%E6%89%8B%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13712,7 +13712,7 @@ Constraints: Use exactly two character depictions, one close-up and one full-bod
 
 ### 🎴 例 2975：奢华夏季宝丽来风格宣传拼贴画
 
-![奢华夏季宝丽来风格宣传拼贴画](../../images/%E5%A5%A2%E5%8D%8E%E5%A4%8F%E5%AD%A3%E5%AE%9D%E4%B8%BD%E6%9D%A5%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![奢华夏季宝丽来风格宣传拼贴画](../images/%E5%A5%A2%E5%8D%8E%E5%A4%8F%E5%AD%A3%E5%AE%9D%E4%B8%BD%E6%9D%A5%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -13780,7 +13780,7 @@ Constraints: No grid layout, no extra people, no logos, no watermark, no distort
 
 ### 🎴 例 2983：SSR 奇幻抽卡角色卡牌
 
-![SSR 奇幻抽卡角色卡牌](../../images/SSR%20%E5%A5%87%E5%B9%BB%E6%8A%BD%E5%8D%A1%E8%A7%92%E8%89%B2%E5%8D%A1%E7%89%8C.jpg)
+![SSR 奇幻抽卡角色卡牌](../images/SSR%20%E5%A5%87%E5%B9%BB%E6%8A%BD%E5%8D%A1%E8%A7%92%E8%89%B2%E5%8D%A1%E7%89%8C.jpg)
 
 **Prompt:**
 
@@ -13798,7 +13798,7 @@ Create a vertical fantasy gacha character card illustration for {argument name="
 
 ### 🎴 例 2993：Nike FIFA World Cup 体育海报
 
-![Nike FIFA World Cup 体育海报](../../images/Nike%20FIFA%20World%20Cup%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+![Nike FIFA World Cup 体育海报](../images/Nike%20FIFA%20World%20Cup%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13830,7 +13830,7 @@ editorial sports poster, FIFA World Cup, Nike campaign, double exposure, layered
 
 ### 🎴 例 2994：哥特式 Echo Chamber 时尚杂志封面
 
-![哥特式 Echo Chamber 时尚杂志封面](../../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Echo%20Chamber%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![哥特式 Echo Chamber 时尚杂志封面](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%20Echo%20Chamber%20%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -13848,7 +13848,7 @@ Create a dark gothic fashion magazine editorial poster in a vertical 2:3 format.
 
 ### 🎴 例 2995：电影级英雄海报
 
-![电影级英雄海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
+![电影级英雄海报](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13866,7 +13866,7 @@ Create a cinematic blockbuster movie poster starring {argument name="character n
 
 ### 🎴 例 3003：广州水墨书法海报
 
-![广州水墨书法海报](../../images/%E5%B9%BF%E5%B7%9E%E6%B0%B4%E5%A2%A8%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
+![广州水墨书法海报](../images/%E5%B9%BF%E5%B7%9E%E6%B0%B4%E5%A2%A8%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13884,7 +13884,7 @@ Create a vertical 9:16 poster on a pure, deep black background. Let a bold, powe
 
 ### 🎴 例 3008：城市自然观察展览海报
 
-![城市自然观察展览海报](../../images/%E5%9F%8E%E5%B8%82%E8%87%AA%E7%84%B6%E8%A7%82%E5%AF%9F%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
+![城市自然观察展览海报](../images/%E5%9F%8E%E5%B8%82%E8%87%AA%E7%84%B6%E8%A7%82%E5%AF%9F%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13926,7 +13926,7 @@ Visual style: Contemporary art museum poster, tactile handmade paper collage, si
 
 ### 🎴 例 3010：小暑西瓜城市海报
 
-![小暑西瓜城市海报](../../images/%E5%B0%8F%E6%9A%91%E8%A5%BF%E7%93%9C%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+![小暑西瓜城市海报](../images/%E5%B0%8F%E6%9A%91%E8%A5%BF%E7%93%9C%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -13958,7 +13958,7 @@ Create a vertical 9:16 minimalist Chinese solar-term poster for {argument name="
 
 ### 🎴 例 3013：奢华动漫风化妆品海报
 
-![奢华动漫风化妆品海报](../../images/%E5%A5%A2%E5%8D%8E%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8C%96%E5%A6%86%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+![奢华动漫风化妆品海报](../images/%E5%A5%A2%E5%8D%8E%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8C%96%E5%A6%86%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14000,7 +14000,7 @@ Constraints: Keep the image as a single polished storefront poster, not a magazi
 
 ### 🎴 例 3017：高端体育杂志封面
 
-![高端体育杂志封面](../../images/%E9%AB%98%E7%AB%AF%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![高端体育杂志封面](../images/%E9%AB%98%E7%AB%AF%E4%BD%93%E8%82%B2%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -14018,7 +14018,7 @@ An eye-catching premium sports magazine cover featuring {argument name="athlete"
 
 ### 🎴 例 3023：罗马帝国双重世界海报
 
-![罗马帝国双重世界海报](../../images/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E5%8F%8C%E9%87%8D%E4%B8%96%E7%95%8C%E6%B5%B7%E6%8A%A5.jpg)
+![罗马帝国双重世界海报](../images/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E5%8F%8C%E9%87%8D%E4%B8%96%E7%95%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14036,7 +14036,7 @@ Create a cinematic dual-world editorial poster about {argument name="historical 
 
 ### 🎴 例 3031：高端儿童时尚广告
 
-![高端儿童时尚广告](../../images/%E9%AB%98%E7%AB%AF%E5%84%BF%E7%AB%A5%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+![高端儿童时尚广告](../images/%E9%AB%98%E7%AB%AF%E5%84%BF%E7%AB%A5%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -14054,7 +14054,7 @@ Ultra-realistic premium kids fashion advertisement featuring an adorable little 
 
 ### 🎴 例 3039：日式生活方式工作活动海报
 
-![日式生活方式工作活动海报](../../images/%E6%97%A5%E5%BC%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B7%A5%E4%BD%9C%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![日式生活方式工作活动海报](../images/%E6%97%A5%E5%BC%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E5%B7%A5%E4%BD%9C%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14096,7 +14096,7 @@ Constraints: Use exactly 3 vertical paper-ribbon labels, exactly 1 yellow circul
 
 ### 🎴 例 3041：Coffee Date Journal 编辑风格海报
 
-![Coffee Date Journal 编辑风格海报](../../images/Coffee%20Date%20Journal%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+![Coffee Date Journal 编辑风格海报](../images/Coffee%20Date%20Journal%20%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14134,7 +14134,7 @@ Ultra-detailed, premium-quality visual design, cinematic storytelling compositio
 
 ### 🎴 例 3043：几何色块时尚插画
 
-![几何色块时尚插画](../../images/%E5%87%A0%E4%BD%95%E8%89%B2%E5%9D%97%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+![几何色块时尚插画](../images/%E5%87%A0%E4%BD%95%E8%89%B2%E5%9D%97%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -14160,7 +14160,7 @@ Fashion illustration digital painting, waist-up crop, woman with dark low bun, c
 
 ### 🎴 例 3062：复古故障风螺旋海报
 
-![复古故障风螺旋海报](../../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E8%9E%BA%E6%97%8B%E6%B5%B7%E6%8A%A5.jpg)
+![复古故障风螺旋海报](../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E8%9E%BA%E6%97%8B%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14178,7 +14178,7 @@ Create a graphic design image in a retro {argument name="poster style" default="
 
 ### 🎴 例 3063：Soft Hours 周末杂志封面
 
-![Soft Hours 周末杂志封面](../../images/Soft%20Hours%20%E5%91%A8%E6%9C%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![Soft Hours 周末杂志封面](../images/Soft%20Hours%20%E5%91%A8%E6%9C%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -14196,7 +14196,7 @@ Create a vertical lifestyle magazine cover/editorial poster in a soft beige “w
 
 ### 🎴 例 3069：超现实巴黎清晨洋葱海报
 
-![超现实巴黎清晨洋葱海报](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%B7%B4%E9%BB%8E%E6%B8%85%E6%99%A8%E6%B4%8B%E8%91%B1%E6%B5%B7%E6%8A%A5.jpg)
+![超现实巴黎清晨洋葱海报](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%B7%B4%E9%BB%8E%E6%B8%85%E6%99%A8%E6%B4%8B%E8%91%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14214,7 +14214,7 @@ Create a cinematic wide city poster for {argument name="city" default="Paris"} a
 
 ### 🎴 例 3082：日语 AI 键盘应用海报
 
-![日语 AI 键盘应用海报](../../images/%E6%97%A5%E8%AF%AD%20AI%20%E9%94%AE%E7%9B%98%E5%BA%94%E7%94%A8%E6%B5%B7%E6%8A%A5.jpg)
+![日语 AI 键盘应用海报](../images/%E6%97%A5%E8%AF%AD%20AI%20%E9%94%AE%E7%9B%98%E5%BA%94%E7%94%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14276,7 +14276,7 @@ Visual style: Premium Japanese startup ad, clean editorial layout, bold purple t
 
 ### 🎴 例 3093：动态短跑海报
 
-![动态短跑海报](../../images/%E5%8A%A8%E6%80%81%E7%9F%AD%E8%B7%91%E6%B5%B7%E6%8A%A5.jpg)
+![动态短跑海报](../images/%E5%8A%A8%E6%80%81%E7%9F%AD%E8%B7%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14314,7 +14314,7 @@ Constraints: Use exactly one athlete, exactly one huge main headline, and exactl
 
 ### 🎴 例 3102：Pretzel Maker 分镜海报
 
-![Pretzel Maker 分镜海报](../../images/Pretzel%20Maker%20%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
+![Pretzel Maker 分镜海报](../images/Pretzel%20Maker%20%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14384,7 +14384,7 @@ Constraints: Keep all text sharp and readable, use clean black dividers, maintai
 
 ### 🎴 例 3103：东方禅意庭院海报
 
-![东方禅意庭院海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E5%BA%AD%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
+![东方禅意庭院海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E5%BA%AD%E9%99%A2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14407,7 +14407,7 @@ Constraints: Keep all text sharp and readable, use clean black dividers, maintai
 
 ### 🎴 例 3105：励志排版长廊
 
-![励志排版长廊](../../images/%E5%8A%B1%E5%BF%97%E6%8E%92%E7%89%88%E9%95%BF%E5%BB%8A.jpg)
+![励志排版长廊](../images/%E5%8A%B1%E5%BF%97%E6%8E%92%E7%89%88%E9%95%BF%E5%BB%8A.jpg)
 
 **Prompt:**
 
@@ -14445,7 +14445,7 @@ Constraints: No logos, no watermark, no extra people, no decorative objects beyo
 
 ### 🎴 例 3115：电影级怪兽能量饮料海报
 
-![电影级怪兽能量饮料海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%80%AA%E5%85%BD%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
+![电影级怪兽能量饮料海报](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%80%AA%E5%85%BD%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14502,7 +14502,7 @@ Negative prompt:
 
 ### 🎴 例 3134：花艺师分镜海报
 
-![花艺师分镜海报](../../images/%E8%8A%B1%E8%89%BA%E5%B8%88%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
+![花艺师分镜海报](../images/%E8%8A%B1%E8%89%BA%E5%B8%88%E5%88%86%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14572,7 +14572,7 @@ Constraints: Use exactly 8 storyboard cards and exactly the four bottom note sec
 
 ### 🎴 例 3138：游戏生活方式杂志封面
 
-![游戏生活方式杂志封面](../../images/%E6%B8%B8%E6%88%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![游戏生活方式杂志封面](../images/%E6%B8%B8%E6%88%8F%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -14594,7 +14594,7 @@ Negative: cartoon, anime, blurry, watermark, fake controller design.
 
 ### 🎴 例 3151：合成波复古未来主义音乐海报
 
-![合成波复古未来主义音乐海报](../../images/%E5%90%88%E6%88%90%E6%B3%A2%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
+![合成波复古未来主义音乐海报](../images/%E5%90%88%E6%88%90%E6%B3%A2%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E9%9F%B3%E4%B9%90%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14612,7 +14612,7 @@ Create a stylized retro-futuristic music poster with a polished synthwave fashio
 
 ### 🎴 例 3159：外星人眼睛伪纪录片海报
 
-![外星人眼睛伪纪录片海报](../../images/%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%BC%E7%9D%9B%E4%BC%AA%E7%BA%AA%E5%BD%95%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
+![外星人眼睛伪纪录片海报](../images/%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9C%BC%E7%9D%9B%E4%BC%AA%E7%BA%AA%E5%BD%95%E7%89%87%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14630,7 +14630,7 @@ Create a cinematic mockumentary poster in a 16:9 landscape format. The image is 
 
 ### 🎴 例 3180：极简主义巨型芝士汉堡广告创意
 
-![极简主义巨型芝士汉堡广告创意](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%B7%A8%E5%9E%8B%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F.jpg)
+![极简主义巨型芝士汉堡广告创意](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%B7%A8%E5%9E%8B%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F.jpg)
 
 **Prompt:**
 
@@ -14648,7 +14648,7 @@ Minimalist commercial ad featuring oversized premium cheeseburger with perfectly
 
 ### 🎴 例 3186：现代动漫 Hikari 海报
 
-![现代动漫 Hikari 海报](../../images/%E7%8E%B0%E4%BB%A3%E5%8A%A8%E6%BC%AB%20Hikari%20%E6%B5%B7%E6%8A%A5.jpg)
+![现代动漫 Hikari 海报](../images/%E7%8E%B0%E4%BB%A3%E5%8A%A8%E6%BC%AB%20Hikari%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14666,7 +14666,7 @@ Create a modern anime poster illustration of a stylish glasses girl, rendered li
 
 ### 🎴 例 3196：欢乐游乐场海报人像
 
-![欢乐游乐场海报人像](../../images/%E6%AC%A2%E4%B9%90%E6%B8%B8%E4%B9%90%E5%9C%BA%E6%B5%B7%E6%8A%A5%E4%BA%BA%E5%83%8F.jpg)
+![欢乐游乐场海报人像](../images/%E6%AC%A2%E4%B9%90%E6%B8%B8%E4%B9%90%E5%9C%BA%E6%B5%B7%E6%8A%A5%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -14684,7 +14684,7 @@ Create a vibrant lifestyle fashion photo at a playground, styled like a colorful
 
 ### 🎴 例 3200：现代极简主义编辑海报
 
-![现代极简主义编辑海报](../../images/%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+![现代极简主义编辑海报](../images/%E7%8E%B0%E4%BB%A3%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14702,7 +14702,7 @@ Design a modern minimalist editorial poster centered on an {argument name="subje
 
 ### 🎴 例 3204：高端编辑风体育拼贴海报
 
-![高端编辑风体育拼贴海报](../../images/%E9%AB%98%E7%AB%AF%E7%BC%96%E8%BE%91%E9%A3%8E%E4%BD%93%E8%82%B2%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![高端编辑风体育拼贴海报](../images/%E9%AB%98%E7%AB%AF%E7%BC%96%E8%BE%91%E9%A3%8E%E4%BD%93%E8%82%B2%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14748,7 +14748,7 @@ Quality: Ultra-detailed 8K, HDR,
 
 ### 🎴 例 3211：复古赛车主题海报
 
-![复古赛车主题海报](../../images/%E5%A4%8D%E5%8F%A4%E8%B5%9B%E8%BD%A6%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![复古赛车主题海报](../images/%E5%A4%8D%E5%8F%A4%E8%B5%9B%E8%BD%A6%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14766,7 +14766,7 @@ Retro motorsport poster for {argument name="car model" default="[CAR]"}, 4:5 ver
 
 ### 🎴 例 3214：建筑排版广告海报
 
-![建筑排版广告海报](../../images/%E5%BB%BA%E7%AD%91%E6%8E%92%E7%89%88%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![建筑排版广告海报](../images/%E5%BB%BA%E7%AD%91%E6%8E%92%E7%89%88%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14784,7 +14784,7 @@ Create an ultra-realistic luxury advertising poster featuring a giant 3D cut-out
 
 ### 🎴 例 3215：东方月影桥梁美学海报
 
-![东方月影桥梁美学海报](../../images/%E4%B8%9C%E6%96%B9%E6%9C%88%E5%BD%B1%E6%A1%A5%E6%A2%81%E7%BE%8E%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
+![东方月影桥梁美学海报](../images/%E4%B8%9C%E6%96%B9%E6%9C%88%E5%BD%B1%E6%A1%A5%E6%A2%81%E7%BE%8E%E5%AD%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14807,7 +14807,7 @@ Create an ultra-realistic luxury advertising poster featuring a giant 3D cut-out
 
 ### 🎴 例 3217：流行偶像排版封面艺术
 
-![流行偶像排版封面艺术](../../images/%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F%E6%8E%92%E7%89%88%E5%B0%81%E9%9D%A2%E8%89%BA%E6%9C%AF.jpg)
+![流行偶像排版封面艺术](../images/%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F%E6%8E%92%E7%89%88%E5%B0%81%E9%9D%A2%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -14866,7 +14866,7 @@ Create an ultra-realistic luxury advertising poster featuring a giant 3D cut-out
 
 ### 🎴 例 3228：奢华活动品牌海报
 
-![奢华活动品牌海报](../../images/%E5%A5%A2%E5%8D%8E%E6%B4%BB%E5%8A%A8%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+![奢华活动品牌海报](../images/%E5%A5%A2%E5%8D%8E%E6%B4%BB%E5%8A%A8%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14896,7 +14896,7 @@ Create a corporate conference poster for "Apple WWDC Design Futures", keynote sp
 
 ### 🎴 例 3233：带有内部景观的排版旅行海报
 
-![带有内部景观的排版旅行海报](../../images/%E5%B8%A6%E6%9C%89%E5%86%85%E9%83%A8%E6%99%AF%E8%A7%82%E7%9A%84%E6%8E%92%E7%89%88%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![带有内部景观的排版旅行海报](../images/%E5%B8%A6%E6%9C%89%E5%86%85%E9%83%A8%E6%99%AF%E8%A7%82%E7%9A%84%E6%8E%92%E7%89%88%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -14914,7 +14914,7 @@ Clean, modern typographic travel poster in a 3:2 landscape format. The words "NE
 
 ### 🎴 例 3238：Nike Vision 运动系列宣传海报
 
-![Nike Vision 运动系列宣传海报](../../images/Nike%20Vision%20%E8%BF%90%E5%8A%A8%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![Nike Vision 运动系列宣传海报](../images/Nike%20Vision%20%E8%BF%90%E5%8A%A8%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15056,7 +15056,7 @@ Hyper-realistic
 
 ### 🎴 例 3240：奢华时尚杂志封面
 
-![奢华时尚杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![奢华时尚杂志封面](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -15074,7 +15074,7 @@ Create a luxury high fashion editorial magazine cover featuring {argument name="
 
 ### 🎴 例 3241：Last Minute Bar 足球广告海报
 
-![Last Minute Bar 足球广告海报](../../images/Last%20Minute%20Bar%20%E8%B6%B3%E7%90%83%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![Last Minute Bar 足球广告海报](../images/Last%20Minute%20Bar%20%E8%B6%B3%E7%90%83%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15120,7 +15120,7 @@ Constraints: Use only fictional branding and fictional sports imagery. Do not in
 
 ### 🎴 例 3244：《算法迷雾之城》电影海报
 
-![《算法迷雾之城》电影海报](../../images/%E3%80%8A%E7%AE%97%E6%B3%95%E8%BF%B7%E9%9B%BE%E4%B9%8B%E5%9F%8E%E3%80%8B%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![《算法迷雾之城》电影海报](../images/%E3%80%8A%E7%AE%97%E6%B3%95%E8%BF%B7%E9%9B%BE%E4%B9%8B%E5%9F%8E%E3%80%8B%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15138,7 +15138,7 @@ Create an international-quality cinematic movie poster for a film titled "{argum
 
 ### 🎴 例 3265：朋克杂志风格 Grunge 海报
 
-![朋克杂志风格 Grunge 海报](../../images/%E6%9C%8B%E5%85%8B%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%20Grunge%20%E6%B5%B7%E6%8A%A5.jpg)
+![朋克杂志风格 Grunge 海报](../images/%E6%9C%8B%E5%85%8B%E6%9D%82%E5%BF%97%E9%A3%8E%E6%A0%BC%20Grunge%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15156,7 +15156,7 @@ A gritty editorial grunge street-art poster, vertical 4:5 format. The artwork co
 
 ### 🎴 例 3270：熔岩巧克力甜点咖啡馆广告
 
-![熔岩巧克力甜点咖啡馆广告](../../images/%E7%86%94%E5%B2%A9%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%94%9C%E7%82%B9%E5%92%96%E5%95%A1%E9%A6%86%E5%B9%BF%E5%91%8A.jpg)
+![熔岩巧克力甜点咖啡馆广告](../images/%E7%86%94%E5%B2%A9%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%94%9C%E7%82%B9%E5%92%96%E5%95%A1%E9%A6%86%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -15174,7 +15174,7 @@ Create a square photorealistic restaurant dessert advertisement for {argument na
 
 ### 🎴 例 3274：复古故障风时尚海报
 
-![复古故障风时尚海报](../../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+![复古故障风时尚海报](../images/%E5%A4%8D%E5%8F%A4%E6%95%85%E9%9A%9C%E9%A3%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15216,7 +15216,7 @@ Constraints: Keep exactly 2 women, exactly 4 slogan clusters, exactly 2 doodles 
 
 ### 🎴 例 3276：中国立春节气海报
 
-![中国立春节气海报](../../images/%E4%B8%AD%E5%9B%BD%E7%AB%8B%E6%98%A5%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+![中国立春节气海报](../images/%E4%B8%AD%E5%9B%BD%E7%AB%8B%E6%98%A5%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15262,7 +15262,7 @@ Constraints: Use only the specified main title and visible Chinese labels; do no
 
 ### 🎴 例 3278：惊蛰粉色浪潮节气海报
 
-![惊蛰粉色浪潮节气海报](../../images/%E6%83%8A%E8%9B%B0%E7%B2%89%E8%89%B2%E6%B5%AA%E6%BD%AE%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+![惊蛰粉色浪潮节气海报](../images/%E6%83%8A%E8%9B%B0%E7%B2%89%E8%89%B2%E6%B5%AA%E6%BD%AE%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15304,7 +15304,7 @@ Constraints: Keep all typography white and legible. Do not add extra logos, QR c
 
 ### 🎴 例 3286：Mondrian 风格增长排版海报
 
-![Mondrian 风格增长排版海报](../../images/Mondrian%20%E9%A3%8E%E6%A0%BC%E5%A2%9E%E9%95%BF%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+![Mondrian 风格增长排版海报](../images/Mondrian%20%E9%A3%8E%E6%A0%BC%E5%A2%9E%E9%95%BF%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15342,7 +15342,7 @@ Constraints: The title must remain the focal point and must not be obscured by r
 
 ### 🎴 例 3294：超现实光纤吊床广告
 
-![超现实光纤吊床广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%85%89%E7%BA%A4%E5%90%8A%E5%BA%8A%E5%B9%BF%E5%91%8A.jpg)
+![超现实光纤吊床广告](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%85%89%E7%BA%A4%E5%90%8A%E5%BA%8A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -15360,7 +15360,7 @@ A surreal advertising composition featuring a {argument name="subject" default="
 
 ### 🎴 例 3303：东方禅意极简壁纸
 
-![东方禅意极简壁纸](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
+![东方禅意极简壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -15383,7 +15383,7 @@ A surreal advertising composition featuring a {argument name="subject" default="
 
 ### 🎴 例 3311：维多利亚风格像素艺术吸烟猫
 
-![维多利亚风格像素艺术吸烟猫](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E9%A3%8E%E6%A0%BC%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%90%B8%E7%83%9F%E7%8C%AB.jpg)
+![维多利亚风格像素艺术吸烟猫](../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E9%A3%8E%E6%A0%BC%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%90%B8%E7%83%9F%E7%8C%AB.jpg)
 
 **Prompt:**
 
@@ -15401,7 +15401,7 @@ Create a square 1:1 retro monochrome pixel-art illustration in a Victorian newsp
 
 ### 🎴 例 3320：Y2K 复古剪贴簿拼贴海报
 
-![Y2K 复古剪贴簿拼贴海报](../../images/Y2K%20%E5%A4%8D%E5%8F%A4%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![Y2K 复古剪贴簿拼贴海报](../images/Y2K%20%E5%A4%8D%E5%8F%A4%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15419,7 +15419,7 @@ Create a highly detailed {argument name="aesthetic" default="Y2K-inspired scrapb
 
 ### 🎴 例 3334：低成本 AI 视频缩略图
 
-![低成本 AI 视频缩略图](../../images/%E4%BD%8E%E6%88%90%E6%9C%AC%20AI%20%E8%A7%86%E9%A2%91%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+![低成本 AI 视频缩略图](../images/%E4%BD%8E%E6%88%90%E6%9C%AC%20AI%20%E8%A7%86%E9%A2%91%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -15465,7 +15465,7 @@ Constraints: Keep all visible text in Japanese exactly as specified, avoid missp
 
 ### 🎴 例 3340：日式设计杂志海报
 
-![日式设计杂志海报](../../images/%E6%97%A5%E5%BC%8F%E8%AE%BE%E8%AE%A1%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+![日式设计杂志海报](../images/%E6%97%A5%E5%BC%8F%E8%AE%BE%E8%AE%A1%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15483,7 +15483,7 @@ Create a clean editorial magazine poster for a Japanese design-intelligence serv
 
 ### 🎴 例 3342：白色花卉夏日花园海报
 
-![白色花卉夏日花园海报](../../images/%E7%99%BD%E8%89%B2%E8%8A%B1%E5%8D%89%E5%A4%8F%E6%97%A5%E8%8A%B1%E5%9B%AD%E6%B5%B7%E6%8A%A5.jpg)
+![白色花卉夏日花园海报](../images/%E7%99%BD%E8%89%B2%E8%8A%B1%E5%8D%89%E5%A4%8F%E6%97%A5%E8%8A%B1%E5%9B%AD%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15525,7 +15525,7 @@ Constraints: Keep the composition photo-realistic rather than illustrated. Do no
 
 ### 🎴 例 3351：现代艺术杂志封面风格
 
-![现代艺术杂志封面风格](../../images/%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E9%A3%8E%E6%A0%BC.jpg)
+![现代艺术杂志封面风格](../images/%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -15561,7 +15561,7 @@ First-class aesthetics.
 
 ### 🎴 例 3357：唐风奇幻春日肖像
 
-![唐风奇幻春日肖像](../../images/%E5%94%90%E9%A3%8E%E5%A5%87%E5%B9%BB%E6%98%A5%E6%97%A5%E8%82%96%E5%83%8F.jpg)
+![唐风奇幻春日肖像](../images/%E5%94%90%E9%A3%8E%E5%A5%87%E5%B9%BB%E6%98%A5%E6%97%A5%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -15575,7 +15575,7 @@ First-class aesthetics.
 
 ### 🎴 例 3360：“眠气屋的小瓶”动漫海报
 
-![“眠气屋的小瓶”动漫海报](../../images/%E2%80%9C%E7%9C%A0%E6%B0%94%E5%B1%8B%E7%9A%84%E5%B0%8F%E7%93%B6%E2%80%9D%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+![“眠气屋的小瓶”动漫海报](../images/%E2%80%9C%E7%9C%A0%E6%B0%94%E5%B1%8B%E7%9A%84%E5%B0%8F%E7%93%B6%E2%80%9D%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15617,7 +15617,7 @@ Background details: include exactly four clusters of manga/manuscript imagery ar
 
 ### 🎴 例 3361：禅意极简书法海报
 
-![禅意极简书法海报](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
+![禅意极简书法海报](../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E4%B9%A6%E6%B3%95%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15640,7 +15640,7 @@ Background details: include exactly four clusters of manga/manuscript imagery ar
 
 ### 🎴 例 3365：企业周年庆领导力海报
 
-![企业周年庆领导力海报](../../images/%E4%BC%81%E4%B8%9A%E5%91%A8%E5%B9%B4%E5%BA%86%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%B5%B7%E6%8A%A5.jpg)
+![企业周年庆领导力海报](../images/%E4%BC%81%E4%B8%9A%E5%91%A8%E5%B9%B4%E5%BA%86%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15686,7 +15686,7 @@ Design constraints: Use large crisp Chinese typography, strong hierarchy, plenty
 
 ### 🎴 例 3367：红色剪影团队活动海报
 
-![红色剪影团队活动海报](../../images/%E7%BA%A2%E8%89%B2%E5%89%AA%E5%BD%B1%E5%9B%A2%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![红色剪影团队活动海报](../images/%E7%BA%A2%E8%89%B2%E5%89%AA%E5%BD%B1%E5%9B%A2%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15728,7 +15728,7 @@ Visual style: High-contrast editorial poster design, black and red duotone light
 
 ### 🎴 例 3369：世界杯开幕之夜海报
 
-![世界杯开幕之夜海报](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E4%B9%8B%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
+![世界杯开幕之夜海报](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E4%B9%8B%E5%A4%9C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15770,7 +15770,7 @@ Constraints: Use exactly one soccer ball, one central oversized Chinese headline
 
 ### 🎴 例 3370：中医艾灸海报
 
-![中医艾灸海报](../../images/%E4%B8%AD%E5%8C%BB%E8%89%BE%E7%81%B8%E6%B5%B7%E6%8A%A5.jpg)
+![中医艾灸海报](../images/%E4%B8%AD%E5%8C%BB%E8%89%BE%E7%81%B8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15808,7 +15808,7 @@ Constraints: Keep the design calm, premium, and educational; preserve exactly 4 
 
 ### 🎴 例 3392：“Shadow Slash” 女剑士海报
 
-![“Shadow Slash” 女剑士海报](../../images/%E2%80%9CShadow%20Slash%E2%80%9D%20%E5%A5%B3%E5%89%91%E5%A3%AB%E6%B5%B7%E6%8A%A5.jpg)
+![“Shadow Slash” 女剑士海报](../images/%E2%80%9CShadow%20Slash%E2%80%9D%20%E5%A5%B3%E5%89%91%E5%A3%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15826,7 +15826,7 @@ Create a vertical cinematic action poster featuring {argument name="character de
 
 ### 🎴 例 3396：地下俱乐部风格海报
 
-![地下俱乐部风格海报](../../images/%E5%9C%B0%E4%B8%8B%E4%BF%B1%E4%B9%90%E9%83%A8%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+![地下俱乐部风格海报](../images/%E5%9C%B0%E4%B8%8B%E4%BF%B1%E4%B9%90%E9%83%A8%E9%A3%8E%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15844,7 +15844,7 @@ Create a dark, high‑contrast poster with a moody, underground club aesthetic. 
 
 ### 🎴 例 3414：奢华 3D 雕刻风格生日海报
 
-![奢华 3D 雕刻风格生日海报](../../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 3D 雕刻风格生日海报](../images/%E5%A5%A2%E5%8D%8E%203D%20%E9%9B%95%E5%88%BB%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15888,7 +15888,7 @@ Maintain a clean minimalist composition with the feel of a luxury magazine cover
 
 ### 🎴 例 3416：现代韩国戏剧海报设计
 
-![现代韩国戏剧海报设计](../../images/%E7%8E%B0%E4%BB%A3%E9%9F%A9%E5%9B%BD%E6%88%8F%E5%89%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![现代韩国戏剧海报设计](../images/%E7%8E%B0%E4%BB%A3%E9%9F%A9%E5%9B%BD%E6%88%8F%E5%89%A7%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -15912,7 +15912,7 @@ In the upper right corner, small and neatly arranged event information text in r
 
 ### 🎴 例 3435：复古钢琴新娘杂志封面
 
-![复古钢琴新娘杂志封面](../../images/%E5%A4%8D%E5%8F%A4%E9%92%A2%E7%90%B4%E6%96%B0%E5%A8%98%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![复古钢琴新娘杂志封面](../images/%E5%A4%8D%E5%8F%A4%E9%92%A2%E7%90%B4%E6%96%B0%E5%A8%98%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -15930,7 +15930,7 @@ Create a vertical vintage romantic wedding magazine cover photo featuring {argum
 
 ### 🎴 例 3456：复古家庭公路旅行报纸海报
 
-![复古家庭公路旅行报纸海报](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E6%8A%A5%E7%BA%B8%E6%B5%B7%E6%8A%A5.jpg)
+![复古家庭公路旅行报纸海报](../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E6%8A%A5%E7%BA%B8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -15972,7 +15972,7 @@ Visual style: Hand-drawn editorial illustration with clean black outlines, halft
 
 ### 🎴 例 3457：复古家庭远征报纸
 
-![复古家庭远征报纸](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E8%BF%9C%E5%BE%81%E6%8A%A5%E7%BA%B8.jpg)
+![复古家庭远征报纸](../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E8%BF%9C%E5%BE%81%E6%8A%A5%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -16018,7 +16018,7 @@ Constraints: Keep all lettering legible, maintain a cohesive retro newspaper-com
 
 ### 🎴 例 3458：复古家庭探险报纸
 
-![复古家庭探险报纸](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E6%8E%A2%E9%99%A9%E6%8A%A5%E7%BA%B8.jpg)
+![复古家庭探险报纸](../images/%E5%A4%8D%E5%8F%A4%E5%AE%B6%E5%BA%AD%E6%8E%A2%E9%99%A9%E6%8A%A5%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -16064,7 +16064,7 @@ Text constraints: Keep all visible text legible but allow charming hand-printed 
 
 ### 🎴 例 3459：复古加州公路旅行生日海报
 
-![复古加州公路旅行生日海报](../../images/%E5%A4%8D%E5%8F%A4%E5%8A%A0%E5%B7%9E%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![复古加州公路旅行生日海报](../images/%E5%A4%8D%E5%8F%A4%E5%8A%A0%E5%B7%9E%E5%85%AC%E8%B7%AF%E6%97%85%E8%A1%8C%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16110,7 +16110,7 @@ Constraints: Keep all visible text spelled exactly as specified, preserve the ex
 
 ### 🎴 例 3466：复古风“名字之龙”故事书海报
 
-![复古风“名字之龙”故事书海报](../../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E2%80%9C%E5%90%8D%E5%AD%97%E4%B9%8B%E9%BE%99%E2%80%9D%E6%95%85%E4%BA%8B%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
+![复古风“名字之龙”故事书海报](../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E2%80%9C%E5%90%8D%E5%AD%97%E4%B9%8B%E9%BE%99%E2%80%9D%E6%95%85%E4%BA%8B%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16152,7 +16152,7 @@ Visual style: Whimsical hand-painted children's book illustration, vintage fanta
 
 ### 🎴 例 3471：“我思故我在” 中文排版海报
 
-![“我思故我在” 中文排版海报](../../images/%E2%80%9C%E6%88%91%E6%80%9D%E6%95%85%E6%88%91%E5%9C%A8%E2%80%9D%20%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+![“我思故我在” 中文排版海报](../images/%E2%80%9C%E6%88%91%E6%80%9D%E6%95%85%E6%88%91%E5%9C%A8%E2%80%9D%20%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16194,7 +16194,7 @@ Constraints: Use exactly the 5 large Chinese characters and exactly 1 seated sil
 
 ### 🎴 例 3475：极简中文语录海报
 
-![极简中文语录海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E6%96%87%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+![极简中文语录海报](../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E6%96%87%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16212,7 +16212,7 @@ Create a minimalist quote-series poster with an off-white warm paper background,
 
 ### 🎴 例 3476：热带金刚鹦鹉杂志封面
 
-![热带金刚鹦鹉杂志封面](../../images/%E7%83%AD%E5%B8%A6%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![热带金刚鹦鹉杂志封面](../images/%E7%83%AD%E5%B8%A6%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -16266,7 +16266,7 @@ Constraints: Keep all text legible and correctly spelled. Do not add barcodes, p
 
 ### 🎴 例 3482：赛博朋克黑胶人偶召唤之门
 
-![赛博朋克黑胶人偶召唤之门](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%BB%91%E8%83%B6%E4%BA%BA%E5%81%B6%E5%8F%AC%E5%94%A4%E4%B9%8B%E9%97%A8.jpg)
+![赛博朋克黑胶人偶召唤之门](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%BB%91%E8%83%B6%E4%BA%BA%E5%81%B6%E5%8F%AC%E5%94%A4%E4%B9%8B%E9%97%A8.jpg)
 
 **Prompt:**
 
@@ -16284,7 +16284,7 @@ Create a vertical cinematic cyberpunk full-body character poster in a rainy futu
 
 ### 🎴 例 3494：宏大中国风海洋封面
 
-![宏大中国风海洋封面](../../images/%E5%AE%8F%E5%A4%A7%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%B5%B7%E6%B4%8B%E5%B0%81%E9%9D%A2.jpg)
+![宏大中国风海洋封面](../images/%E5%AE%8F%E5%A4%A7%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%B5%B7%E6%B4%8B%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -16330,7 +16330,7 @@ Graphic details: Add faint thin circular arcs and fine guide lines behind the gi
 
 ### 🎴 例 3498：未来感 Crocs 时尚广告海报
 
-![未来感 Crocs 时尚广告海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Crocs%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![未来感 Crocs 时尚广告海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20Crocs%20%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16370,7 +16370,7 @@ Aspect ratio: 3:4
 
 ### 🎴 例 3517：极简电影感排版海报
 
-![极简电影感排版海报](../../images/%E6%9E%81%E7%AE%80%E7%94%B5%E5%BD%B1%E6%84%9F%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+![极简电影感排版海报](../images/%E6%9E%81%E7%AE%80%E7%94%B5%E5%BD%B1%E6%84%9F%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16388,7 +16388,7 @@ A striking minimalist cinematic poster with a solid {argument name="background c
 
 ### 🎴 例 3523：四层级动漫海报对比
 
-![四层级动漫海报对比](../../images/%E5%9B%9B%E5%B1%82%E7%BA%A7%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
+![四层级动漫海报对比](../images/%E5%9B%9B%E5%B1%82%E7%BA%A7%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -16446,7 +16446,7 @@ Constraints: Include exactly 4 poster panels and exactly 4 top labels. Do not ad
 
 ### 🎴 例 3525：蓝莓柠檬水广告海报
 
-![蓝莓柠檬水广告海报](../../images/%E8%93%9D%E8%8E%93%E6%9F%A0%E6%AA%AC%E6%B0%B4%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![蓝莓柠檬水广告海报](../images/%E8%93%9D%E8%8E%93%E6%9F%A0%E6%AA%AC%E6%B0%B4%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16474,7 +16474,7 @@ Use a minimal luxury branding style with excellent typography hierarchy and gene
 
 ### 🎴 例 3527：Roblox 积木塔缩略图
 
-![Roblox 积木塔缩略图](../../images/Roblox%20%E7%A7%AF%E6%9C%A8%E5%A1%94%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+![Roblox 积木塔缩略图](../images/Roblox%20%E7%A7%AF%E6%9C%A8%E5%A1%94%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -16516,7 +16516,7 @@ Constraints: Keep all visible text in Japanese exactly as specified, make the he
 
 ### 🎴 例 3529：漩涡鸣人重粒子模式海报
 
-![漩涡鸣人重粒子模式海报](../../images/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA%E9%87%8D%E7%B2%92%E5%AD%90%E6%A8%A1%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+![漩涡鸣人重粒子模式海报](../images/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA%E9%87%8D%E7%B2%92%E5%AD%90%E6%A8%A1%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16538,7 +16538,7 @@ low quality, blurry, extra fingers, bad anatomy, deformed face, duplicate featur
 
 ### 🎴 例 3533：四款模型动漫海报对比
 
-![四款模型动漫海报对比](../../images/%E5%9B%9B%E6%AC%BE%E6%A8%A1%E5%9E%8B%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
+![四款模型动漫海报对比](../images/%E5%9B%9B%E6%AC%BE%E6%A8%A1%E5%9E%8B%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -16584,7 +16584,7 @@ Constraints: Maintain exactly four panels and exactly the specified label bars. 
 
 ### 🎴 例 3534：动漫宝石首饰缪斯广告
 
-![动漫宝石首饰缪斯广告](../../images/%E5%8A%A8%E6%BC%AB%E5%AE%9D%E7%9F%B3%E9%A6%96%E9%A5%B0%E7%BC%AA%E6%96%AF%E5%B9%BF%E5%91%8A.jpg)
+![动漫宝石首饰缪斯广告](../images/%E5%8A%A8%E6%BC%AB%E5%AE%9D%E7%9F%B3%E9%A6%96%E9%A5%B0%E7%BC%AA%E6%96%AF%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -16602,7 +16602,7 @@ Create a luxurious anime-style gemstone jewelry brand advertisement featuring {a
 
 ### 🎴 例 3540：马拉喀什清晨旅行海报
 
-![马拉喀什清晨旅行海报](../../images/%E9%A9%AC%E6%8B%89%E5%96%80%E4%BB%80%E6%B8%85%E6%99%A8%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![马拉喀什清晨旅行海报](../images/%E9%A9%AC%E6%8B%89%E5%96%80%E4%BB%80%E6%B8%85%E6%99%A8%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16644,7 +16644,7 @@ Visual style: Minimal editorial travel archive, modern Chinese poster design, cr
 
 ### 🎴 例 3544：极简主义东京晨曦海报
 
-![极简主义东京晨曦海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E6%99%A8%E6%9B%A6%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义东京晨曦海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%B8%9C%E4%BA%AC%E6%99%A8%E6%9B%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16678,7 +16678,7 @@ Style constraints: ultra-clean PPT-like grid logic, refined Japanese editorial d
 
 ### 🎴 例 3549：登山靴山峰景观海报
 
-![登山靴山峰景观海报](../../images/%E7%99%BB%E5%B1%B1%E9%9D%B4%E5%B1%B1%E5%B3%B0%E6%99%AF%E8%A7%82%E6%B5%B7%E6%8A%A5.jpg)
+![登山靴山峰景观海报](../images/%E7%99%BB%E5%B1%B1%E9%9D%B4%E5%B1%B1%E5%B3%B0%E6%99%AF%E8%A7%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16792,7 +16792,7 @@ Create an ultra-premium cinematic advertising poster for Salomon X Ultra Mid GTX
 
 ### 🎴 例 3566：极简奢华生日海报
 
-![极简奢华生日海报](../../images/%E6%9E%81%E7%AE%80%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
+![极简奢华生日海报](../images/%E6%9E%81%E7%AE%80%E5%A5%A2%E5%8D%8E%E7%94%9F%E6%97%A5%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16810,7 +16810,7 @@ Créez une affiche minimaliste et luxueuse pour un anniversaire marquant, mettan
 
 ### 🎴 例 3567：中国武侠大师海报
 
-![中国武侠大师海报](../../images/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E4%BE%A0%E5%A4%A7%E5%B8%88%E6%B5%B7%E6%8A%A5.jpg)
+![中国武侠大师海报](../images/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E4%BE%A0%E5%A4%A7%E5%B8%88%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16828,7 +16828,7 @@ Ancient Chinese wuxia master poster, inspired by Jin Yong / martial arts legend 
 
 ### 🎴 例 3568：清爽青柠椰云冰饮海报
 
-![清爽青柠椰云冰饮海报](../../images/%E6%B8%85%E7%88%BD%E9%9D%92%E6%9F%A0%E6%A4%B0%E4%BA%91%E5%86%B0%E9%A5%AE%E6%B5%B7%E6%8A%A5.jpg)
+![清爽青柠椰云冰饮海报](../images/%E6%B8%85%E7%88%BD%E9%9D%92%E6%9F%A0%E6%A4%B0%E4%BA%91%E5%86%B0%E9%A5%AE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16870,7 +16870,7 @@ Visual style: Photorealistic product-ad rendering mixed with clean graphic desig
 
 ### 🎴 例 3569：Red Circle 高端护肤时尚广告
 
-![Red Circle 高端护肤时尚广告](../../images/Red%20Circle%20%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
+![Red Circle 高端护肤时尚广告](../images/Red%20Circle%20%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -16888,7 +16888,7 @@ Create a high-fashion luxury skincare commercial advertisement on a square studi
 
 ### 🎴 例 3570：对称式 Roland Garros 巴黎海报
 
-![对称式 Roland Garros 巴黎海报](../../images/%E5%AF%B9%E7%A7%B0%E5%BC%8F%20Roland%20Garros%20%E5%B7%B4%E9%BB%8E%E6%B5%B7%E6%8A%A5.jpg)
+![对称式 Roland Garros 巴黎海报](../images/%E5%AF%B9%E7%A7%B0%E5%BC%8F%20Roland%20Garros%20%E5%B7%B4%E9%BB%8E%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16906,7 +16906,7 @@ Create a vertical cinematic sports event poster for {argument name="tournament n
 
 ### 🎴 例 3571：极简主义时尚编辑海报
 
-![极简主义时尚编辑海报](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+![极简主义时尚编辑海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16924,7 +16924,7 @@ Playful flat-vector poster illustration of the {argument name="subject" default=
 
 ### 🎴 例 3572：70 年代夏季电影海报风格
 
-![70 年代夏季电影海报风格](../../images/70%20%E5%B9%B4%E4%BB%A3%E5%A4%8F%E5%AD%A3%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+![70 年代夏季电影海报风格](../images/70%20%E5%B9%B4%E4%BB%A3%E5%A4%8F%E5%AD%A3%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -16942,7 +16942,7 @@ Playful flat-vector poster illustration of the {argument name="subject" default=
 
 ### 🎴 例 3588：NESCAFÉ 咖啡地图海报
 
-![NESCAFÉ 咖啡地图海报](../../images/NESCAF%C3%89%20%E5%92%96%E5%95%A1%E5%9C%B0%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+![NESCAFÉ 咖啡地图海报](../images/NESCAF%C3%89%20%E5%92%96%E5%95%A1%E5%9C%B0%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -16984,7 +16984,7 @@ Constraints: Keep the composition symmetrical and centered, make the cup the dom
 
 ### 🎴 例 3613：现代时尚编辑拼贴海报
 
-![现代时尚编辑拼贴海报](../../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
+![现代时尚编辑拼贴海报](../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17002,7 +17002,7 @@ Modern Editorial Collage Poster Design, The Background Features Four Stacked Rou
 
 ### 🎴 例 3614：高级 Limca SMM 广告海报
 
-![高级 Limca SMM 广告海报](../../images/%E9%AB%98%E7%BA%A7%20Limca%20SMM%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![高级 Limca SMM 广告海报](../images/%E9%AB%98%E7%BA%A7%20Limca%20SMM%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17062,7 +17062,7 @@ Style: Behance-featured quality, Coca-Cola India commercial, premium editorial a
 
 ### 🎴 例 3626：未来感编辑海报设计
 
-![未来感编辑海报设计](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+![未来感编辑海报设计](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -17080,7 +17080,7 @@ Conceptual futuristic editorial poster design featuring {argument name="subject"
 
 ### 🎴 例 3628：史诗级曹操剪影海报
 
-![史诗级曹操剪影海报](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9B%B9%E6%93%8D%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![史诗级曹操剪影海报](../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9B%B9%E6%93%8D%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17118,7 +17118,7 @@ Constraints: Keep the image as a single vertical poster, not a comic or infograp
 
 ### 🎴 例 3633：蓝色史莱姆冒险者动漫海报
 
-![蓝色史莱姆冒险者动漫海报](../../images/%E8%93%9D%E8%89%B2%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%86%92%E9%99%A9%E8%80%85%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+![蓝色史莱姆冒险者动漫海报](../images/%E8%93%9D%E8%89%B2%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%86%92%E9%99%A9%E8%80%85%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17168,7 +17168,7 @@ Constraints: Use exactly 1 main character, exactly 1 sword, and exactly 8 mascot
 
 ### 🎴 例 3635：奢华时尚海报拼贴
 
-![奢华时尚海报拼贴](../../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+![奢华时尚海报拼贴](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
 
 **Prompt:**
 
@@ -17199,7 +17199,7 @@ Using uploaded face 100% realistic. Create a high-end cinematic fashion poster c
 
 ### 🎴 例 3641：怪兽过山车海报
 
-![怪兽过山车海报](../../images/%E6%80%AA%E5%85%BD%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
+![怪兽过山车海报](../images/%E6%80%AA%E5%85%BD%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17251,7 +17251,7 @@ Visual constraints: Keep the image as a polished fictional amusement-park poster
 
 ### 🎴 例 3642：治愈系“早安杭州”海报
 
-![治愈系“早安杭州”海报](../../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E2%80%9C%E6%97%A9%E5%AE%89%E6%9D%AD%E5%B7%9E%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+![治愈系“早安杭州”海报](../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E2%80%9C%E6%97%A9%E5%AE%89%E6%9D%AD%E5%B7%9E%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17297,7 +17297,7 @@ Visual style: Flat vector illustration, Chinese healing-aesthetic poster, clean 
 
 ### 🎴 例 3662：《驯龙高手》立体书海报
 
-![《驯龙高手》立体书海报](../../images/%E3%80%8A%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%E3%80%8B%E7%AB%8B%E4%BD%93%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
+![《驯龙高手》立体书海报](../images/%E3%80%8A%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%E3%80%8B%E7%AB%8B%E4%BD%93%E4%B9%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17315,7 +17315,7 @@ Create an ultra-premium dreamy papercut storybook poster for “How to Train You
 
 ### 🎴 例 3669：极简风 Oreo 商业广告
 
-![极简风 Oreo 商业广告](../../images/%E6%9E%81%E7%AE%80%E9%A3%8E%20Oreo%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+![极简风 Oreo 商业广告](../images/%E6%9E%81%E7%AE%80%E9%A3%8E%20Oreo%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -17333,7 +17333,7 @@ Minimalist commercial ad featuring an {argument name="product" default="oversize
 
 ### 🎴 例 3672：复古 Patagonia 旅行海报
 
-![复古 Patagonia 旅行海报](../../images/%E5%A4%8D%E5%8F%A4%20Patagonia%20%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![复古 Patagonia 旅行海报](../images/%E5%A4%8D%E5%8F%A4%20Patagonia%20%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17351,7 +17351,7 @@ Vintage travel poster style — photorealistic photography treated with heavy an
 
 ### 🎴 例 3673：私密世俗安魂曲场景
 
-![私密世俗安魂曲场景](../../images/%E7%A7%81%E5%AF%86%E4%B8%96%E4%BF%97%E5%AE%89%E9%AD%82%E6%9B%B2%E5%9C%BA%E6%99%AF.jpg)
+![私密世俗安魂曲场景](../images/%E7%A7%81%E5%AF%86%E4%B8%96%E4%BF%97%E5%AE%89%E9%AD%82%E6%9B%B2%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -17369,7 +17369,7 @@ Create a cinematic surreal memorial scene about an intimate, secular requiem at 
 
 ### 🎴 例 3683：海岸线高定时尚杂志封面
 
-![海岸线高定时尚杂志封面](../../images/%E6%B5%B7%E5%B2%B8%E7%BA%BF%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![海岸线高定时尚杂志封面](../images/%E6%B5%B7%E5%B2%B8%E7%BA%BF%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -17387,7 +17387,7 @@ A breathtaking high-fashion magazine cover featuring a young {argument name="eth
 
 ### 🎴 例 3701：Here Be Monsters 伦敦海报
 
-![Here Be Monsters 伦敦海报](../../images/Here%20Be%20Monsters%20%E4%BC%A6%E6%95%A6%E6%B5%B7%E6%8A%A5.jpg)
+![Here Be Monsters 伦敦海报](../images/Here%20Be%20Monsters%20%E4%BC%A6%E6%95%A6%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17429,7 +17429,7 @@ Constraints: Keep the title legible and dominant, do not use photorealism, do no
 
 ### 🎴 例 3702：高端餐厅活动海报
 
-![高端餐厅活动海报](../../images/%E9%AB%98%E7%AB%AF%E9%A4%90%E5%8E%85%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
+![高端餐厅活动海报](../images/%E9%AB%98%E7%AB%AF%E9%A4%90%E5%8E%85%E6%B4%BB%E5%8A%A8%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17447,7 +17447,7 @@ Create an ultra-premium restaurant campaign poster for LAKERO, designed as part 
 
 ### 🎴 例 3717：日系 300 粉丝感谢海报
 
-![日系 300 粉丝感谢海报](../../images/%E6%97%A5%E7%B3%BB%20300%20%E7%B2%89%E4%B8%9D%E6%84%9F%E8%B0%A2%E6%B5%B7%E6%8A%A5.jpg)
+![日系 300 粉丝感谢海报](../images/%E6%97%A5%E7%B3%BB%20300%20%E7%B2%89%E4%B8%9D%E6%84%9F%E8%B0%A2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17465,7 +17465,7 @@ Create a vertical celebratory social media poster featuring a realistic young Ja
 
 ### 🎴 例 3731：月下战国谍影海报
 
-![月下战国谍影海报](../../images/%E6%9C%88%E4%B8%8B%E6%88%98%E5%9B%BD%E8%B0%8D%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![月下战国谍影海报](../images/%E6%9C%88%E4%B8%8B%E6%88%98%E5%9B%BD%E8%B0%8D%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17507,7 +17507,7 @@ Style: Premium anime key visual, intricate line art, glossy eyes, soft blush, pa
 
 ### 🎴 例 3736：禅意极简秋日阶梯海报
 
-![禅意极简秋日阶梯海报](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E7%A7%8B%E6%97%A5%E9%98%B6%E6%A2%AF%E6%B5%B7%E6%8A%A5.jpg)
+![禅意极简秋日阶梯海报](../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E7%A7%8B%E6%97%A5%E9%98%B6%E6%A2%AF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17530,7 +17530,7 @@ Style: Premium anime key visual, intricate line art, glossy eyes, soft blush, pa
 
 ### 🎴 例 3748：Sepia Gothic Quintet Thank You Poster
 
-![Sepia Gothic Quintet Thank You Poster](../../images/Sepia%20Gothic%20Quintet%20Thank%20You%20Poster.jpg)
+![Sepia Gothic Quintet Thank You Poster](../images/Sepia%20Gothic%20Quintet%20Thank%20You%20Poster.jpg)
 
 **Prompt:**
 
@@ -17572,7 +17572,7 @@ Constraints: Keep all five human musicians visibly distinct with separate instru
 
 ### 🎴 例 3749：日式极简主义时尚杂志海报
 
-![日式极简主义时尚杂志海报](../../images/%E6%97%A5%E5%BC%8F%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
+![日式极简主义时尚杂志海报](../images/%E6%97%A5%E5%BC%8F%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17590,7 +17590,7 @@ Ultra realistic minimalist editorial fashion poster inspired by premium Japanese
 
 ### 🎴 例 3766：复古动漫周五海报
 
-![复古动漫周五海报](../../images/%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E5%91%A8%E4%BA%94%E6%B5%B7%E6%8A%A5.jpg)
+![复古动漫周五海报](../images/%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E5%91%A8%E4%BA%94%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17608,7 +17608,7 @@ Create a vibrant 1980s retro anime poster of a cute young anime girl in close-up
 
 ### 🎴 例 3769：赛博朋克动漫复仇电影海报
 
-![赛博朋克动漫复仇电影海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A4%8D%E4%BB%87%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![赛博朋克动漫复仇电影海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A4%8D%E4%BB%87%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17654,7 +17654,7 @@ Constraints: Preserve the serious cinematic poster composition, keep both charac
 
 ### 🎴 例 3784：极简主义 Coca Cola 广告
 
-![极简主义 Coca Cola 广告](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Coca%20Cola%20%E5%B9%BF%E5%91%8A.jpg)
+![极简主义 Coca Cola 广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Coca%20Cola%20%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -17672,7 +17672,7 @@ Minimalist commercial ad featuring an {argument name="product" default="oversize
 
 ### 🎴 例 3797：20 世纪 60 年代美国广告海报
 
-![20 世纪 60 年代美国广告海报](../../images/20%20%E4%B8%96%E7%BA%AA%2060%20%E5%B9%B4%E4%BB%A3%E7%BE%8E%E5%9B%BD%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![20 世纪 60 年代美国广告海报](../images/20%20%E4%B8%96%E7%BA%AA%2060%20%E5%B9%B4%E4%BB%A3%E7%BE%8E%E5%9B%BD%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17690,7 +17690,7 @@ Authentic 1960s American advertising poster for {argument name="brand" default="
 
 ### 🎴 例 3799：奢华家庭聚会海报
 
-![奢华家庭聚会海报](../../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%BA%AD%E8%81%9A%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+![奢华家庭聚会海报](../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%BA%AD%E8%81%9A%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17732,7 +17732,7 @@ Constraints: Keep the composition symmetrical and poster-like, do not add extra 
 
 ### 🎴 例 3807：神奇德芙巧克力记忆飞溅
 
-![神奇德芙巧克力记忆飞溅](../../images/%E7%A5%9E%E5%A5%87%E5%BE%B7%E8%8A%99%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%AE%B0%E5%BF%86%E9%A3%9E%E6%BA%85.jpg)
+![神奇德芙巧克力记忆飞溅](../images/%E7%A5%9E%E5%A5%87%E5%BE%B7%E8%8A%99%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%AE%B0%E5%BF%86%E9%A3%9E%E6%BA%85.jpg)
 
 **Prompt:**
 
@@ -17750,7 +17750,7 @@ Create an ultra-premium advertising poster for Dove Chocolate Bars, designed as 
 
 ### 🎴 例 3813：极简艺术电影海报模板
 
-![极简艺术电影海报模板](../../images/%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+![极简艺术电影海报模板](../images/%E6%9E%81%E7%AE%80%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -17768,7 +17768,7 @@ Minimalist art-house movie poster featuring a close-up portrait of {argument nam
 
 ### 🎴 例 3823：东方禅意金鱼海报
 
-![东方禅意金鱼海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E9%87%91%E9%B1%BC%E6%B5%B7%E6%8A%A5.jpg)
+![东方禅意金鱼海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E9%87%91%E9%B1%BC%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17791,7 +17791,7 @@ Minimalist art-house movie poster featuring a close-up portrait of {argument nam
 
 ### 🎴 例 3828：未来感双色光影时尚海报
 
-![未来感双色光影时尚海报](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8F%8C%E8%89%B2%E5%85%89%E5%BD%B1%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+![未来感双色光影时尚海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8F%8C%E8%89%B2%E5%85%89%E5%BD%B1%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17817,7 +17817,7 @@ High-fashion digital art portrait, young woman with sleek wet-slicked back dark 
 
 ### 🎴 例 3831：高端电影级广告海报
 
-![高端电影级广告海报](../../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![高端电影级广告海报](../images/%E9%AB%98%E7%AB%AF%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17839,7 +17839,7 @@ Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor ligh
 
 ### 🎴 例 3841：After Light 情绪化时尚海报
 
-![After Light 情绪化时尚海报](../../images/After%20Light%20%E6%83%85%E7%BB%AA%E5%8C%96%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+![After Light 情绪化时尚海报](../images/After%20Light%20%E6%83%85%E7%BB%AA%E5%8C%96%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17857,7 +17857,7 @@ Create a vertical cinematic fashion poster portrait of {argument name="character
 
 ### 🎴 例 3844：波光粼粼的蓝色鱼群
 
-![波光粼粼的蓝色鱼群](../../images/%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC%E7%9A%84%E8%93%9D%E8%89%B2%E9%B1%BC%E7%BE%A4.jpg)
+![波光粼粼的蓝色鱼群](../images/%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC%E7%9A%84%E8%93%9D%E8%89%B2%E9%B1%BC%E7%BE%A4.jpg)
 
 **Prompt:**
 
@@ -17895,7 +17895,7 @@ Constraints: No humans, no scenery, no water surface, no bubbles, no border, no 
 
 ### 🎴 例 3860：混乱的日式嘉宾官宣海报
 
-![混乱的日式嘉宾官宣海报](../../images/%E6%B7%B7%E4%B9%B1%E7%9A%84%E6%97%A5%E5%BC%8F%E5%98%89%E5%AE%BE%E5%AE%98%E5%AE%A3%E6%B5%B7%E6%8A%A5.jpg)
+![混乱的日式嘉宾官宣海报](../images/%E6%B7%B7%E4%B9%B1%E7%9A%84%E6%97%A5%E5%BC%8F%E5%98%89%E5%AE%BE%E5%AE%98%E5%AE%A3%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17941,7 +17941,7 @@ Constraints: Use exactly 5 guest portrait cards, exactly 2 category ribbons, exa
 
 ### 🎴 例 3861：上海白玉兰早安海报
 
-![上海白玉兰早安海报](../../images/%E4%B8%8A%E6%B5%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+![上海白玉兰早安海报](../images/%E4%B8%8A%E6%B5%B7%E7%99%BD%E7%8E%89%E5%85%B0%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -17985,7 +17985,7 @@ Constraints: Keep all visible text exactly as specified, use exactly 2 magnolia 
 
 ### 🎴 例 3867：奢华 Noir 香水海报
 
-![奢华 Noir 香水海报](../../images/%E5%A5%A2%E5%8D%8E%20Noir%20%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
+![奢华 Noir 香水海报](../images/%E5%A5%A2%E5%8D%8E%20Noir%20%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18003,7 +18003,7 @@ Create a luxury perfume advertisement poster for {argument name="brand name" def
 
 ### 🎴 例 3870：Ford F-150 Raptor 沙漠沙尘暴
 
-![Ford F-150 Raptor 沙漠沙尘暴](../../images/Ford%20F-150%20Raptor%20%E6%B2%99%E6%BC%A0%E6%B2%99%E5%B0%98%E6%9A%B4.jpg)
+![Ford F-150 Raptor 沙漠沙尘暴](../images/Ford%20F-150%20Raptor%20%E6%B2%99%E6%BC%A0%E6%B2%99%E5%B0%98%E6%9A%B4.jpg)
 
 **Prompt:**
 
@@ -18095,7 +18095,7 @@ Create an ultra-premium cinematic desert campaign poster for the Ford F-150 Rapt
 
 ### 🎴 例 3875：“逆转损伤”产品广告拼图
 
-![“逆转损伤”产品广告拼图](../../images/%E2%80%9C%E9%80%86%E8%BD%AC%E6%8D%9F%E4%BC%A4%E2%80%9D%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%8B%BC%E5%9B%BE.jpg)
+![“逆转损伤”产品广告拼图](../images/%E2%80%9C%E9%80%86%E8%BD%AC%E6%8D%9F%E4%BC%A4%E2%80%9D%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E6%8B%BC%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -18141,7 +18141,7 @@ Constraints: Keep exactly four panels and exactly the four hero products describ
 
 ### 🎴 例 3876：超奢华剪影香水海报
 
-![超奢华剪影香水海报](../../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E5%89%AA%E5%BD%B1%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
+![超奢华剪影香水海报](../images/%E8%B6%85%E5%A5%A2%E5%8D%8E%E5%89%AA%E5%BD%B1%E9%A6%99%E6%B0%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18159,7 +18159,7 @@ Create an ultra-luxury editorial fragrance poster for CHANEL N°5, strictly usin
 
 ### 🎴 例 3880：Mental Peace 乐谱海报
 
-![Mental Peace 乐谱海报](../../images/Mental%20Peace%20%E4%B9%90%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
+![Mental Peace 乐谱海报](../images/Mental%20Peace%20%E4%B9%90%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18205,7 +18205,7 @@ Constraints: No people, no logos, no watermark, no extra text beyond the phone U
 
 ### 🎴 例 3881：未来感智能手机产品广告
 
-![未来感智能手机产品广告](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+![未来感智能手机产品广告](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -18245,7 +18245,7 @@ Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography,
 
 ### 🎴 例 3884：Skippy Peanut Butter 编辑项目
 
-![Skippy Peanut Butter 编辑项目](../../images/Skippy%20Peanut%20Butter%20%E7%BC%96%E8%BE%91%E9%A1%B9%E7%9B%AE.jpg)
+![Skippy Peanut Butter 编辑项目](../images/Skippy%20Peanut%20Butter%20%E7%BC%96%E8%BE%91%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -18263,7 +18263,7 @@ Create an ultra-premium symmetrical 4-panel editorial campaign board for Skippy 
 
 ### 🎴 例 3885：复古做旧风格便利店招聘海报
 
-![复古做旧风格便利店招聘海报](../../images/%E5%A4%8D%E5%8F%A4%E5%81%9A%E6%97%A7%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E6%8B%9B%E8%81%98%E6%B5%B7%E6%8A%A5.jpg)
+![复古做旧风格便利店招聘海报](../images/%E5%A4%8D%E5%8F%A4%E5%81%9A%E6%97%A7%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E6%8B%9B%E8%81%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18305,7 +18305,7 @@ Constraints: Preserve the extreme scale contrast between the huge cropped blue h
 
 ### 🎴 例 3886：五联版饮料营销活动
 
-![五联版饮料营销活动](../../images/%E4%BA%94%E8%81%94%E7%89%88%E9%A5%AE%E6%96%99%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8.jpg)
+![五联版饮料营销活动](../images/%E4%BA%94%E8%81%94%E7%89%88%E9%A5%AE%E6%96%99%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8.jpg)
 
 **Prompt:**
 
@@ -18323,7 +18323,7 @@ Create an ultra-premium horizontal 5-panel campaign system for Fanta Fruit Flavo
 
 ### 🎴 例 3887：奢侈品营销广告海报
 
-![奢侈品营销广告海报](../../images/%E5%A5%A2%E4%BE%88%E5%93%81%E8%90%A5%E9%94%80%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![奢侈品营销广告海报](../images/%E5%A5%A2%E4%BE%88%E5%93%81%E8%90%A5%E9%94%80%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18341,7 +18341,7 @@ Use the uploaded product photo as the exact reference. Preserve the exact packag
 
 ### 🎴 例 3907：漫画角色设计三联画海报
 
-![漫画角色设计三联画海报](../../images/%E6%BC%AB%E7%94%BB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E4%B8%89%E8%81%94%E7%94%BB%E6%B5%B7%E6%8A%A5.jpg)
+![漫画角色设计三联画海报](../images/%E6%BC%AB%E7%94%BB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E4%B8%89%E8%81%94%E7%94%BB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18359,7 +18359,7 @@ Create a triptych graphic poster on a vertical canvas divided into {argument nam
 
 ### 🎴 例 3908：奢华香水俯拍海报
 
-![奢华香水俯拍海报](../../images/%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E4%BF%AF%E6%8B%8D%E6%B5%B7%E6%8A%A5.jpg)
+![奢华香水俯拍海报](../images/%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E4%BF%AF%E6%8B%8D%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18377,7 +18377,7 @@ Create an ultra-premium fragrance poster for {argument name="brand" default="Her
 
 ### 🎴 例 3909：日式集换式卡牌 (TCG) 策略信息图
 
-![日式集换式卡牌 (TCG) 策略信息图](../../images/%E6%97%A5%E5%BC%8F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%20(TCG)%20%E7%AD%96%E7%95%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![日式集换式卡牌 (TCG) 策略信息图](../images/%E6%97%A5%E5%BC%8F%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%20(TCG)%20%E7%AD%96%E7%95%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -18423,7 +18423,7 @@ Style constraints: Use crisp vector-like UI panels mixed with realistic card art
 
 ### 🎴 例 3910：高端护肤品广告，配巨型产品罐
 
-![高端护肤品广告，配巨型产品罐](../../images/%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E5%93%81%E5%B9%BF%E5%91%8A%EF%BC%8C%E9%85%8D%E5%B7%A8%E5%9E%8B%E4%BA%A7%E5%93%81%E7%BD%90.jpg)
+![高端护肤品广告，配巨型产品罐](../images/%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E5%93%81%E5%B9%BF%E5%91%8A%EF%BC%8C%E9%85%8D%E5%B7%A8%E5%9E%8B%E4%BA%A7%E5%93%81%E7%BD%90.jpg)
 
 **Prompt:**
 
@@ -18441,7 +18441,7 @@ A soft premium skincare advertisement poster. A radiant young woman with dewy gl
 
 ### 🎴 例 3927：东方禅意极简剪影海报
 
-![东方禅意极简剪影海报](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![东方禅意极简剪影海报](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%89%AA%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18464,7 +18464,7 @@ A soft premium skincare advertisement poster. A radiant young woman with dewy gl
 
 ### 🎴 例 3933：赛博朋克门户吉祥物海报
 
-![赛博朋克门户吉祥物海报](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%97%A8%E6%88%B7%E5%90%89%E7%A5%A5%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
+![赛博朋克门户吉祥物海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%97%A8%E6%88%B7%E5%90%89%E7%A5%A5%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18482,7 +18482,7 @@ Create a vertical cinematic cyberpunk promotional poster showing a single full-b
 
 ### 🎴 例 3946：奢华家居服套装卡牌
 
-![奢华家居服套装卡牌](../../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%A5%97%E8%A3%85%E5%8D%A1%E7%89%8C.jpg)
+![奢华家居服套装卡牌](../images/%E5%A5%A2%E5%8D%8E%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%A5%97%E8%A3%85%E5%8D%A1%E7%89%8C.jpg)
 
 **Prompt:**
 
@@ -18524,7 +18524,7 @@ Constraints: Keep the outfit as the clear central focus, do not add a person or 
 
 ### 🎴 例 3967：电影级仙侠提示词海报
 
-![电影级仙侠提示词海报](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E4%BB%99%E4%BE%A0%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B5%B7%E6%8A%A5.jpg)
+![电影级仙侠提示词海报](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E4%BB%99%E4%BE%A0%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18586,7 +18586,7 @@ Constraints: Use exactly 3 gallery images and exactly 10 keyword tags. Keep all 
 
 ### 🎴 例 3968：大唐奇幻三联画
 
-![大唐奇幻三联画](../../images/%E5%A4%A7%E5%94%90%E5%A5%87%E5%B9%BB%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+![大唐奇幻三联画](../images/%E5%A4%A7%E5%94%90%E5%A5%87%E5%B9%BB%E4%B8%89%E8%81%94%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -18632,7 +18632,7 @@ Constraints: No text, no watermark, no modern objects, no extra panels. Preserve
 
 ### 🎴 例 3981：迪拜 Risography 风格旅行海报
 
-![迪拜 Risography 风格旅行海报](../../images/%E8%BF%AA%E6%8B%9C%20Risography%20%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![迪拜 Risography 风格旅行海报](../images/%E8%BF%AA%E6%8B%9C%20Risography%20%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18650,7 +18650,7 @@ Create a stylish modern travel poster inspired by risography about {argument nam
 
 ### 🎴 例 3983：80 年代惊悚风格城市海报
 
-![80 年代惊悚风格城市海报](../../images/80%20%E5%B9%B4%E4%BB%A3%E6%83%8A%E6%82%9A%E9%A3%8E%E6%A0%BC%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+![80 年代惊悚风格城市海报](../images/80%20%E5%B9%B4%E4%BB%A3%E6%83%8A%E6%82%9A%E9%A3%8E%E6%A0%BC%E5%9F%8E%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18668,7 +18668,7 @@ Create a stylish modern travel poster inspired by risography about {argument nam
 
 ### 🎴 例 3991：极简主义 Pepsi 商业广告
 
-![极简主义 Pepsi 商业广告](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Pepsi%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+![极简主义 Pepsi 商业广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%20Pepsi%20%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -18686,7 +18686,7 @@ Minimalist commercial ad featuring an oversized {argument name="brand drink" def
 
 ### 🎴 例 3992：Risography 风格迪拜旅行海报
 
-![Risography 风格迪拜旅行海报](../../images/Risography%20%E9%A3%8E%E6%A0%BC%E8%BF%AA%E6%8B%9C%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+![Risography 风格迪拜旅行海报](../images/Risography%20%E9%A3%8E%E6%A0%BC%E8%BF%AA%E6%8B%9C%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18704,7 +18704,7 @@ Create a stylish modern travel poster inspired by risography about {argument nam
 
 ### 🎴 例 4011：高端办公家具商业项目
 
-![高端办公家具商业项目](../../images/%E9%AB%98%E7%AB%AF%E5%8A%9E%E5%85%AC%E5%AE%B6%E5%85%B7%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
+![高端办公家具商业项目](../images/%E9%AB%98%E7%AB%AF%E5%8A%9E%E5%85%AC%E5%AE%B6%E5%85%B7%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -18722,7 +18722,7 @@ Create a professional cinematic commercial storyboard in 16:9 landscape format, 
 
 ### 🎴 例 4020：“爱是……”加油站日出海报
 
-![“爱是……”加油站日出海报](../../images/%E2%80%9C%E7%88%B1%E6%98%AF%E2%80%A6%E2%80%A6%E2%80%9D%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%97%A5%E5%87%BA%E6%B5%B7%E6%8A%A5.jpg)
+![“爱是……”加油站日出海报](../images/%E2%80%9C%E7%88%B1%E6%98%AF%E2%80%A6%E2%80%A6%E2%80%9D%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%97%A5%E5%87%BA%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18772,7 +18772,7 @@ Constraints: Do not add extra people, extra cars, or extra hearts. Keep the layo
 
 ### 🎴 例 4021：健身服饰网格系列宣传海报
 
-![健身服饰网格系列宣传海报](../../images/%E5%81%A5%E8%BA%AB%E6%9C%8D%E9%A5%B0%E7%BD%91%E6%A0%BC%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+![健身服饰网格系列宣传海报](../images/%E5%81%A5%E8%BA%AB%E6%9C%8D%E9%A5%B0%E7%BD%91%E6%A0%BC%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18790,7 +18790,7 @@ Create the seventh poster in a unified campaign series for Lululemon Athletica, 
 
 ### 🎴 例 4022：禅意夏日风铃壁纸
 
-![禅意夏日风铃壁纸](../../images/%E7%A6%85%E6%84%8F%E5%A4%8F%E6%97%A5%E9%A3%8E%E9%93%83%E5%A3%81%E7%BA%B8.jpg)
+![禅意夏日风铃壁纸](../images/%E7%A6%85%E6%84%8F%E5%A4%8F%E6%97%A5%E9%A3%8E%E9%93%83%E5%A3%81%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -18813,7 +18813,7 @@ Create the seventh poster in a unified campaign series for Lululemon Athletica, 
 
 ### 🎴 例 4024：极简黑白时尚拼贴画
 
-![极简黑白时尚拼贴画](../../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![极简黑白时尚拼贴画](../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -18831,7 +18831,7 @@ A premium minimalist black and white editorial fashion collage featuring the sam
 
 ### 🎴 例 4025：韩系街头潮流杂志封面设计
 
-![韩系街头潮流杂志封面设计](../../images/%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
+![韩系街头潮流杂志封面设计](../images/%E9%9F%A9%E7%B3%BB%E8%A1%97%E5%A4%B4%E6%BD%AE%E6%B5%81%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -18853,7 +18853,7 @@ Negative: cartoon, blurry, incorrect shoe, watermark, distorted.
 
 ### 🎴 例 4033：高级时尚眼镜广告
 
-![高级时尚眼镜广告](../../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E7%9C%BC%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
+![高级时尚眼镜广告](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E7%9C%BC%E9%95%9C%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -18871,7 +18871,7 @@ Using the uploaded image and without changing face, create a hyper-realistic hig
 
 ### 🎴 例 4053：印尼女性报纸拼贴肖像
 
-![印尼女性报纸拼贴肖像](../../images/%E5%8D%B0%E5%B0%BC%E5%A5%B3%E6%80%A7%E6%8A%A5%E7%BA%B8%E6%8B%BC%E8%B4%B4%E8%82%96%E5%83%8F.jpg)
+![印尼女性报纸拼贴肖像](../images/%E5%8D%B0%E5%B0%BC%E5%A5%B3%E6%80%A7%E6%8A%A5%E7%BA%B8%E6%8B%BC%E8%B4%B4%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -18915,7 +18915,7 @@ color, blue, red, orange, yellow, green, pink, purple, neon, colorful paint, gra
 
 ### 🎴 例 4058：奢华咖啡广告摄影
 
-![奢华咖啡广告摄影](../../images/%E5%A5%A2%E5%8D%8E%E5%92%96%E5%95%A1%E5%B9%BF%E5%91%8A%E6%91%84%E5%BD%B1.jpg)
+![奢华咖啡广告摄影](../images/%E5%A5%A2%E5%8D%8E%E5%92%96%E5%95%A1%E5%B9%BF%E5%91%8A%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -18933,7 +18933,7 @@ Ultra-realistic premium coffee advertisement featuring a matte black ceramic cup
 
 ### 🎴 例 4060：健康生活杂志封面肖像
 
-![健康生活杂志封面肖像](../../images/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
+![健康生活杂志封面肖像](../images/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -18951,7 +18951,7 @@ Ultra-realistic wellness lifestyle magazine cover featuring a glowing {argument 
 
 ### 🎴 例 4064：Gorillaz 伊斯坦布尔演唱会海报
 
-![Gorillaz 伊斯坦布尔演唱会海报](../../images/Gorillaz%20%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+![Gorillaz 伊斯坦布尔演唱会海报](../images/Gorillaz%20%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -18969,7 +18969,7 @@ Create a gritty alternative concert poster for {argument name="band name" defaul
 
 ### 🎴 例 4078：Nebula Relay Sprinter 海报
 
-![Nebula Relay Sprinter 海报](../../images/Nebula%20Relay%20Sprinter%20%E6%B5%B7%E6%8A%A5.jpg)
+![Nebula Relay Sprinter 海报](../images/Nebula%20Relay%20Sprinter%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -19015,7 +19015,7 @@ Constraints: Use exactly one athlete, one baton, one top-right logo mark, one ve
 
 ### 🎴 例 4080：戏剧性 Ino Telemann 海报
 
-![戏剧性 Ino Telemann 海报](../../images/%E6%88%8F%E5%89%A7%E6%80%A7%20Ino%20Telemann%20%E6%B5%B7%E6%8A%A5.jpg)
+![戏剧性 Ino Telemann 海报](../images/%E6%88%8F%E5%89%A7%E6%80%A7%20Ino%20Telemann%20%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -19057,7 +19057,7 @@ Visual style: Epic cinematic fantasy realism, richly textured digital oil painti
 
 ### 🎴 例 4092：雨中双重曝光电影海报
 
-![雨中双重曝光电影海报](../../images/%E9%9B%A8%E4%B8%AD%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+![雨中双重曝光电影海报](../images/%E9%9B%A8%E4%B8%AD%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -19133,7 +19133,7 @@ Negative Prompt: altered identity, different face, distorted anatomy, blurry fac
 
 ### 🎴 例 4094：城市唱片店浏览
 
-![城市唱片店浏览](../../images/%E5%9F%8E%E5%B8%82%E5%94%B1%E7%89%87%E5%BA%97%E6%B5%8F%E8%A7%88.jpg)
+![城市唱片店浏览](../images/%E5%9F%8E%E5%B8%82%E5%94%B1%E7%89%87%E5%BA%97%E6%B5%8F%E8%A7%88.jpg)
 
 **Prompt:**
 
@@ -19175,7 +19175,7 @@ Avoid: wide shop overview, staged fashion stance, exaggerated lean, raised knee,
 
 ### 🎴 例 4102：浪漫智乃动漫草地封面
 
-![浪漫智乃动漫草地封面](../../images/%E6%B5%AA%E6%BC%AB%E6%99%BA%E4%B9%83%E5%8A%A8%E6%BC%AB%E8%8D%89%E5%9C%B0%E5%B0%81%E9%9D%A2.jpg)
+![浪漫智乃动漫草地封面](../images/%E6%B5%AA%E6%BC%AB%E6%99%BA%E4%B9%83%E5%8A%A8%E6%BC%AB%E8%8D%89%E5%9C%B0%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -19193,7 +19193,7 @@ Create a vertical anime light-novel cover illustration with a soft romantic spri
 
 ### 🎴 例 4111：Skydancer 风筝广告海报
 
-![Skydancer 风筝广告海报](../../images/Skydancer%20%E9%A3%8E%E7%AD%9D%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+![Skydancer 风筝广告海报](../images/Skydancer%20%E9%A3%8E%E7%AD%9D%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -19211,7 +19211,7 @@ A joyful outdoor kids advertisement poster. A {argument name="subject" default="
 
 ### 🎴 例 4115：奢华男装广告大片
 
-![奢华男装广告大片](../../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+![奢华男装广告大片](../images/%E5%A5%A2%E5%8D%8E%E7%94%B7%E8%A3%85%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -19229,7 +19229,7 @@ Create a refined luxury fashion advertising image in a cinematic editorial photo
 
 ### 🎴 例 4116：游戏宣传图数字插画
 
-![游戏宣传图数字插画](../../images/%E6%B8%B8%E6%88%8F%E5%AE%A3%E4%BC%A0%E5%9B%BE%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
+![游戏宣传图数字插画](../images/%E6%B8%B8%E6%88%8F%E5%AE%A3%E4%BC%A0%E5%9B%BE%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -19247,7 +19247,7 @@ Using 100% likeness of (reference) objects, transformed into a dynamic, semi-rea
 
 ### 🎴 例 4126：奢华桃汁广告项目
 
-![奢华桃汁广告项目](../../images/%E5%A5%A2%E5%8D%8E%E6%A1%83%E6%B1%81%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+![奢华桃汁广告项目](../images/%E5%A5%A2%E5%8D%8E%E6%A1%83%E6%B1%81%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -19271,7 +19271,7 @@ Create a clean, premium advertising storyboard infographic board for a {argument
 
 ### 🎴 例 4128：极简橄榄绿杂志风海报
 
-![极简橄榄绿杂志风海报](../../images/%E6%9E%81%E7%AE%80%E6%A9%84%E6%A6%84%E7%BB%BF%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+![极简橄榄绿杂志风海报](../images/%E6%9E%81%E7%AE%80%E6%A9%84%E6%A6%84%E7%BB%BF%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -19367,7 +19367,7 @@ Ultra realistic, high resolution, premium print quality, 8K, clean edges, realis
 
 ### 🎴 例 4131：日式猫咪航空箱产品广告
 
-![日式猫咪航空箱产品广告](../../images/%E6%97%A5%E5%BC%8F%E7%8C%AB%E5%92%AA%E8%88%AA%E7%A9%BA%E7%AE%B1%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+![日式猫咪航空箱产品广告](../images/%E6%97%A5%E5%BC%8F%E7%8C%AB%E5%92%AA%E8%88%AA%E7%A9%BA%E7%AE%B1%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -19417,7 +19417,7 @@ Visual style: Premium Muji-like Japanese lifestyle advertising, airy spacing, so
 
 ### 🎴 例 4134：奢华街头服饰杂志封面
 
-![奢华街头服饰杂志封面](../../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+![奢华街头服饰杂志封面](../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 

@@ -657,7 +657,7 @@ Create an ultra-realistic vertical lifestyle photograph of a {argument name="sub
 
 ### 🏛️ 例 1257：卡帕多奇亚的暮色雁影
 
-![卡帕多奇亚的暮色雁影](../../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%9A%84%E6%9A%AE%E8%89%B2%E9%9B%81%E5%BD%B1.jpg)
+![卡帕多奇亚的暮色雁影](../images/%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9A%E7%9A%84%E6%9A%AE%E8%89%B2%E9%9B%81%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -675,7 +675,7 @@ Create a richly detailed vertical 3:4 fantasy-realistic landscape painting of {a
 
 ### 🏛️ 例 1312：奢华浴室镜面反射
 
-![奢华浴室镜面反射](../../images/%E5%A5%A2%E5%8D%8E%E6%B5%B4%E5%AE%A4%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84.jpg)
+![奢华浴室镜面反射](../images/%E5%A5%A2%E5%8D%8E%E6%B5%B4%E5%AE%A4%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84.jpg)
 
 **Prompt:**
 
@@ -697,7 +697,7 @@ Eye-level camera angle, direct eye contact with the camera through the mirror, s
 
 ### 🏛️ 例 1357：暗黑机能风三联画时尚大片
 
-![暗黑机能风三联画时尚大片](../../images/%E6%9A%97%E9%BB%91%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%B8%89%E8%81%94%E7%94%BB%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![暗黑机能风三联画时尚大片](../images/%E6%9A%97%E9%BB%91%E6%9C%BA%E8%83%BD%E9%A3%8E%E4%B8%89%E8%81%94%E7%94%BB%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -739,7 +739,7 @@ Constraints: Use exactly 3 panels and exactly 3 model figures. No extra people, 
 
 ### 🏛️ 例 1371：电影级微型星球奇幻世界
 
-![电影级微型星球奇幻世界](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E5%A5%87%E5%B9%BB%E4%B8%96%E7%95%8C.jpg)
+![电影级微型星球奇幻世界](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%BE%AE%E5%9E%8B%E6%98%9F%E7%90%83%E5%A5%87%E5%B9%BB%E4%B8%96%E7%95%8C.jpg)
 
 **Prompt:**
 
@@ -777,7 +777,7 @@ The main character stands confidently at the center while all miniature versions
 
 ### 🏛️ 例 1536：自动编码器潜在空间中的 DiT 寄生生物图解
 
-![自动编码器潜在空间中的 DiT 寄生生物图解](../../images/%E8%87%AA%E5%8A%A8%E7%BC%96%E7%A0%81%E5%99%A8%E6%BD%9C%E5%9C%A8%E7%A9%BA%E9%97%B4%E4%B8%AD%E7%9A%84%20DiT%20%E5%AF%84%E7%94%9F%E7%94%9F%E7%89%A9%E5%9B%BE%E8%A7%A3.jpg)
+![自动编码器潜在空间中的 DiT 寄生生物图解](../images/%E8%87%AA%E5%8A%A8%E7%BC%96%E7%A0%81%E5%99%A8%E6%BD%9C%E5%9C%A8%E7%A9%BA%E9%97%B4%E4%B8%AD%E7%9A%84%20DiT%20%E5%AF%84%E7%94%9F%E7%94%9F%E7%89%A9%E5%9B%BE%E8%A7%A3.jpg)
 
 **Prompt:**
 
@@ -795,7 +795,7 @@ Create a minimalist black-and-white conceptual diagram on a wide 16:9 white canv
 
 ### 🏛️ 例 1551：微缩 LEGO 建筑场景
 
-![微缩 LEGO 建筑场景](../../images/%E5%BE%AE%E7%BC%A9%20LEGO%20%E5%BB%BA%E7%AD%91%E5%9C%BA%E6%99%AF.jpg)
+![微缩 LEGO 建筑场景](../images/%E5%BE%AE%E7%BC%A9%20LEGO%20%E5%BB%BA%E7%AD%91%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -813,7 +813,7 @@ A hyper-realistic miniature construction team assembling a giant {argument name=
 
 ### 🏛️ 例 1602：微缩建筑运动鞋场景
 
-![微缩建筑运动鞋场景](../../images/%E5%BE%AE%E7%BC%A9%E5%BB%BA%E7%AD%91%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%9C%BA%E6%99%AF.jpg)
+![微缩建筑运动鞋场景](../images/%E5%BE%AE%E7%BC%A9%E5%BB%BA%E7%AD%91%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -831,7 +831,7 @@ A surreal macro scene featuring miniature construction workers assembling a gian
 
 ### 🏛️ 例 1612：深夜吃拉面的困倦女子
 
-![深夜吃拉面的困倦女子](../../images/%E6%B7%B1%E5%A4%9C%E5%90%83%E6%8B%89%E9%9D%A2%E7%9A%84%E5%9B%B0%E5%80%A6%E5%A5%B3%E5%AD%90.jpg)
+![深夜吃拉面的困倦女子](../images/%E6%B7%B1%E5%A4%9C%E5%90%83%E6%8B%89%E9%9D%A2%E7%9A%84%E5%9B%B0%E5%80%A6%E5%A5%B3%E5%AD%90.jpg)
 
 **Prompt:**
 
@@ -849,7 +849,7 @@ Create a warm anime-style single-panel illustration of {argument name="character
 
 ### 🏛️ 例 1629：温馨卧室写实生活摄影
 
-![温馨卧室写实生活摄影](../../images/%E6%B8%A9%E9%A6%A8%E5%8D%A7%E5%AE%A4%E5%86%99%E5%AE%9E%E7%94%9F%E6%B4%BB%E6%91%84%E5%BD%B1.jpg)
+![温馨卧室写实生活摄影](../images/%E6%B8%A9%E9%A6%A8%E5%8D%A7%E5%AE%A4%E5%86%99%E5%AE%9E%E7%94%9F%E6%B4%BB%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -878,7 +878,7 @@ Create a warm anime-style single-panel illustration of {argument name="character
 
 ### 🏛️ 例 1643：粉色家居服对镜自拍
 
-![粉色家居服对镜自拍](../../images/%E7%B2%89%E8%89%B2%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%AF%B9%E9%95%9C%E8%87%AA%E6%8B%8D.jpg)
+![粉色家居服对镜自拍](../images/%E7%B2%89%E8%89%B2%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%AF%B9%E9%95%9C%E8%87%AA%E6%8B%8D.jpg)
 
 **Prompt:**
 
@@ -896,7 +896,7 @@ Create a realistic vertical mirror-selfie photograph of {argument name="characte
 
 ### 🏛️ 例 1698：机器人与巨龙的史诗对决
 
-![机器人与巨龙的史诗对决](../../images/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%B7%A8%E9%BE%99%E7%9A%84%E5%8F%B2%E8%AF%97%E5%AF%B9%E5%86%B3.jpg)
+![机器人与巨龙的史诗对决](../images/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%B7%A8%E9%BE%99%E7%9A%84%E5%8F%B2%E8%AF%97%E5%AF%B9%E5%86%B3.jpg)
 
 **Prompt:**
 
@@ -914,7 +914,7 @@ Epic battle between a {argument name="mecha" default="giant futuristic robot"} a
 
 ### 🏛️ 例 1744：充满活力的花园女性肖像
 
-![充满活力的花园女性肖像](../../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E8%8A%B1%E5%9B%AD%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+![充满活力的花园女性肖像](../images/%E5%85%85%E6%BB%A1%E6%B4%BB%E5%8A%9B%E7%9A%84%E8%8A%B1%E5%9B%AD%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -932,7 +932,7 @@ A stunning young woman standing in a vibrant {argument name="garden type" defaul
 
 ### 🏛️ 例 1814：复古办公室分屏拼贴画
 
-![复古办公室分屏拼贴画](../../images/%E5%A4%8D%E5%8F%A4%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%88%86%E5%B1%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![复古办公室分屏拼贴画](../images/%E5%A4%8D%E5%8F%A4%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%88%86%E5%B1%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -954,7 +954,7 @@ low quality, blurry face, extra fingers, duplicate objects, distorted hands, bad
 
 ### 🏛️ 例 1854：阳光花园中佩戴飘逸头纱的新娘
 
-![阳光花园中佩戴飘逸头纱的新娘](../../images/%E9%98%B3%E5%85%89%E8%8A%B1%E5%9B%AD%E4%B8%AD%E4%BD%A9%E6%88%B4%E9%A3%98%E9%80%B8%E5%A4%B4%E7%BA%B1%E7%9A%84%E6%96%B0%E5%A8%98.jpg)
+![阳光花园中佩戴飘逸头纱的新娘](../images/%E9%98%B3%E5%85%89%E8%8A%B1%E5%9B%AD%E4%B8%AD%E4%BD%A9%E6%88%B4%E9%A3%98%E9%80%B8%E5%A4%B4%E7%BA%B1%E7%9A%84%E6%96%B0%E5%A8%98.jpg)
 
 **Prompt:**
 
@@ -972,7 +972,7 @@ Create a photorealistic outdoor bridal portrait of {argument name="subject" defa
 
 ### 🏛️ 例 1881：动漫阴阳双子少女
 
-![动漫阴阳双子少女](../../images/%E5%8A%A8%E6%BC%AB%E9%98%B4%E9%98%B3%E5%8F%8C%E5%AD%90%E5%B0%91%E5%A5%B3.jpg)
+![动漫阴阳双子少女](../images/%E5%8A%A8%E6%BC%AB%E9%98%B4%E9%98%B3%E5%8F%8C%E5%AD%90%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -990,7 +990,7 @@ Create a square anime-style illustration of two young women forming a yin-yang t
 
 ### 🏛️ 例 1939：动漫风厨房青梅糖浆场景
 
-![动漫风厨房青梅糖浆场景](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8E%A8%E6%88%BF%E9%9D%92%E6%A2%85%E7%B3%96%E6%B5%86%E5%9C%BA%E6%99%AF.jpg)
+![动漫风厨房青梅糖浆场景](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%8E%A8%E6%88%BF%E9%9D%92%E6%A2%85%E7%B3%96%E6%B5%86%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1008,7 +1008,7 @@ Create a bright, cozy anime-style kitchen illustration of a young homemaker watc
 
 ### 🏛️ 例 1990：编辑风格几何肖像插画
 
-![编辑风格几何肖像插画](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%87%A0%E4%BD%95%E8%82%96%E5%83%8F%E6%8F%92%E7%94%BB.jpg)
+![编辑风格几何肖像插画](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%87%A0%E4%BD%95%E8%82%96%E5%83%8F%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1026,7 +1026,7 @@ Flat editorial illustration of {argument name="subject" default="the person from
 
 ### 🏛️ 例 2020：温馨公寓生活快照
 
-![温馨公寓生活快照](../../images/%E6%B8%A9%E9%A6%A8%E5%85%AC%E5%AF%93%E7%94%9F%E6%B4%BB%E5%BF%AB%E7%85%A7.jpg)
+![温馨公寓生活快照](../images/%E6%B8%A9%E9%A6%A8%E5%85%AC%E5%AF%93%E7%94%9F%E6%B4%BB%E5%BF%AB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -1048,7 +1048,7 @@ low resolution, blurry, heavy makeup, studio lighting, cinematic grading, unreal
 
 ### 🏛️ 例 2152：清晨伸展卧室肖像
 
-![清晨伸展卧室肖像](../../images/%E6%B8%85%E6%99%A8%E4%BC%B8%E5%B1%95%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+![清晨伸展卧室肖像](../images/%E6%B8%85%E6%99%A8%E4%BC%B8%E5%B1%95%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1066,7 +1066,7 @@ Create a vertical photorealistic morning lifestyle portrait of an adult {argumen
 
 ### 🏛️ 例 2156：幽闭恐惧闪光快照
 
-![幽闭恐惧闪光快照](../../images/%E5%B9%BD%E9%97%AD%E6%81%90%E6%83%A7%E9%97%AA%E5%85%89%E5%BF%AB%E7%85%A7.jpg)
+![幽闭恐惧闪光快照](../images/%E5%B9%BD%E9%97%AD%E6%81%90%E6%83%A7%E9%97%AA%E5%85%89%E5%BF%AB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -1084,7 +1084,7 @@ Create a square, flash-lit analog snapshot of a young girl with {argument name="
 
 ### 🏛️ 例 2174：微型女性拥抱巨型巧克力
 
-![微型女性拥抱巨型巧克力](../../images/%E5%BE%AE%E5%9E%8B%E5%A5%B3%E6%80%A7%E6%8B%A5%E6%8A%B1%E5%B7%A8%E5%9E%8B%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg)
+![微型女性拥抱巨型巧克力](../images/%E5%BE%AE%E5%9E%8B%E5%A5%B3%E6%80%A7%E6%8B%A5%E6%8A%B1%E5%B7%A8%E5%9E%8B%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg)
 
 **Prompt:**
 
@@ -1102,7 +1102,7 @@ Create a photorealistic macro scene in a warm home kitchen: a tiny miniature {ar
 
 ### 🏛️ 例 2202：赛博朋克安卓僧侣天空之城
 
-![赛博朋克安卓僧侣天空之城](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%AE%89%E5%8D%93%E5%83%A7%E4%BE%A3%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.jpg)
+![赛博朋克安卓僧侣天空之城](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%AE%89%E5%8D%93%E5%83%A7%E4%BE%A3%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.jpg)
 
 **Prompt:**
 
@@ -1128,7 +1128,7 @@ Visual style: {argument name="art style" default="epic high-detail cinematic con
 
 ### 🏛️ 例 2332：小红书情绪感人像封面
 
-![小红书情绪感人像封面](../../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%83%85%E7%BB%AA%E6%84%9F%E4%BA%BA%E5%83%8F%E5%B0%81%E9%9D%A2.jpg)
+![小红书情绪感人像封面](../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%83%85%E7%BB%AA%E6%84%9F%E4%BA%BA%E5%83%8F%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -1142,7 +1142,7 @@ Visual style: {argument name="art style" default="epic high-detail cinematic con
 
 ### 🏛️ 例 2354：浪漫花园中的猫咪肖像
 
-![浪漫花园中的猫咪肖像](../../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E7%9A%84%E7%8C%AB%E5%92%AA%E8%82%96%E5%83%8F.jpg)
+![浪漫花园中的猫咪肖像](../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E7%9A%84%E7%8C%AB%E5%92%AA%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1160,7 +1160,7 @@ Create a high-quality vertical photorealistic portrait of a graceful {argument n
 
 ### 🏛️ 例 2371：土耳其老奶奶倒茶
 
-![土耳其老奶奶倒茶](../../images/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%80%81%E5%A5%B6%E5%A5%B6%E5%80%92%E8%8C%B6.jpg)
+![土耳其老奶奶倒茶](../images/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%80%81%E5%A5%B6%E5%A5%B6%E5%80%92%E8%8C%B6.jpg)
 
 **Prompt:**
 
@@ -1178,7 +1178,7 @@ Create a cinematic photorealistic scene of a {argument name="character descripti
 
 ### 🏛️ 例 2417：春日秘密手势花园场景
 
-![春日秘密手势花园场景](../../images/%E6%98%A5%E6%97%A5%E7%A7%98%E5%AF%86%E6%89%8B%E5%8A%BF%E8%8A%B1%E5%9B%AD%E5%9C%BA%E6%99%AF.jpg)
+![春日秘密手势花园场景](../images/%E6%98%A5%E6%97%A5%E7%A7%98%E5%AF%86%E6%89%8B%E5%8A%BF%E8%8A%B1%E5%9B%AD%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1196,7 +1196,7 @@ A vibrant, highly detailed, ultra-realistic photorealistic image of a playful {a
 
 ### 🏛️ 例 2447：宏伟太空星云站
 
-![宏伟太空星云站](../../images/%E5%AE%8F%E4%BC%9F%E5%A4%AA%E7%A9%BA%E6%98%9F%E4%BA%91%E7%AB%99.jpg)
+![宏伟太空星云站](../images/%E5%AE%8F%E4%BC%9F%E5%A4%AA%E7%A9%BA%E6%98%9F%E4%BA%91%E7%AB%99.jpg)
 
 **Prompt:**
 
@@ -1210,7 +1210,7 @@ A vibrant, highly detailed, ultra-realistic photorealistic image of a playful {a
 
 ### 🏛️ 例 2526：iPhone 风格极简办公室人像
 
-![iPhone 风格极简办公室人像](../../images/iPhone%20%E9%A3%8E%E6%A0%BC%E6%9E%81%E7%AE%80%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+![iPhone 风格极简办公室人像](../images/iPhone%20%E9%A3%8E%E6%A0%BC%E6%9E%81%E7%AE%80%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1228,7 +1228,7 @@ A beautiful young {argument name="ethnicity and gender" default="East Asian woma
 
 ### 🏛️ 例 2591：金色晨曦动漫卧室肖像
 
-![金色晨曦动漫卧室肖像](../../images/%E9%87%91%E8%89%B2%E6%99%A8%E6%9B%A6%E5%8A%A8%E6%BC%AB%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+![金色晨曦动漫卧室肖像](../images/%E9%87%91%E8%89%B2%E6%99%A8%E6%9B%A6%E5%8A%A8%E6%BC%AB%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1246,7 +1246,7 @@ Create a luminous high-detail anime illustration of {argument name="character na
 
 ### 🏛️ 例 2600：温馨六格睡前时光拼贴画
 
-![温馨六格睡前时光拼贴画](../../images/%E6%B8%A9%E9%A6%A8%E5%85%AD%E6%A0%BC%E7%9D%A1%E5%89%8D%E6%97%B6%E5%85%89%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![温馨六格睡前时光拼贴画](../images/%E6%B8%A9%E9%A6%A8%E5%85%AD%E6%A0%BC%E7%9D%A1%E5%89%8D%E6%97%B6%E5%85%89%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1288,7 +1288,7 @@ Constraints: No text, captions, logos, watermarks, or extra panels. Keep the chi
 
 ### 🏛️ 例 2622：日式金蛋设计 Slides
 
-![日式金蛋设计 Slides](../../images/%E6%97%A5%E5%BC%8F%E9%87%91%E8%9B%8B%E8%AE%BE%E8%AE%A1%20Slides.jpg)
+![日式金蛋设计 Slides](../images/%E6%97%A5%E5%BC%8F%E9%87%91%E8%9B%8B%E8%AE%BE%E8%AE%A1%20Slides.jpg)
 
 **Prompt:**
 
@@ -1306,7 +1306,7 @@ Create a dark presentation-style social media image in Japanese about golden egg
 
 ### 🏛️ 例 2657：动漫少女拼装虚构机甲模型
 
-![动漫少女拼装虚构机甲模型](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%8B%BC%E8%A3%85%E8%99%9A%E6%9E%84%E6%9C%BA%E7%94%B2%E6%A8%A1%E5%9E%8B.jpg)
+![动漫少女拼装虚构机甲模型](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%8B%BC%E8%A3%85%E8%99%9A%E6%9E%84%E6%9C%BA%E7%94%B2%E6%A8%A1%E5%9E%8B.jpg)
 
 **Prompt:**
 
@@ -1324,7 +1324,7 @@ Create a photorealistic vertical 2:3 image of {argument name="character name" de
 
 ### 🏛️ 例 2661：东方禅意极简插画
 
-![东方禅意极简插画](../../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%8F%92%E7%94%BB.jpg)
+![东方禅意极简插画](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1347,7 +1347,7 @@ Create a photorealistic vertical 2:3 image of {argument name="character name" de
 
 ### 🏛️ 例 2675：柔和粉色系害羞猫娘卧室
 
-![柔和粉色系害羞猫娘卧室](../../images/%E6%9F%94%E5%92%8C%E7%B2%89%E8%89%B2%E7%B3%BB%E5%AE%B3%E7%BE%9E%E7%8C%AB%E5%A8%98%E5%8D%A7%E5%AE%A4.jpg)
+![柔和粉色系害羞猫娘卧室](../images/%E6%9F%94%E5%92%8C%E7%B2%89%E8%89%B2%E7%B3%BB%E5%AE%B3%E7%BE%9E%E7%8C%AB%E5%A8%98%E5%8D%A7%E5%AE%A4.jpg)
 
 **Prompt:**
 
@@ -1365,7 +1365,7 @@ Create a soft pastel anime illustration of {argument name="character name" defau
 
 ### 🏛️ 例 2739：CCTV 监控惊悚片风格地铁站
 
-![CCTV 监控惊悚片风格地铁站](../../images/CCTV%20%E7%9B%91%E6%8E%A7%E6%83%8A%E6%82%9A%E7%89%87%E9%A3%8E%E6%A0%BC%E5%9C%B0%E9%93%81%E7%AB%99.jpg)
+![CCTV 监控惊悚片风格地铁站](../images/CCTV%20%E7%9B%91%E6%8E%A7%E6%83%8A%E6%82%9A%E7%89%87%E9%A3%8E%E6%A0%BC%E5%9C%B0%E9%93%81%E7%AB%99.jpg)
 
 **Prompt:**
 
@@ -1383,7 +1383,7 @@ Create a cinematic surveillance-thriller image set inside a {argument name="loca
 
 ### 🏛️ 例 2747：沉浸式 4DX 影院场景
 
-![沉浸式 4DX 影院场景](../../images/%E6%B2%89%E6%B5%B8%E5%BC%8F%204DX%20%E5%BD%B1%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
+![沉浸式 4DX 影院场景](../images/%E6%B2%89%E6%B5%B8%E5%BC%8F%204DX%20%E5%BD%B1%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1405,7 +1405,7 @@ A massive {argument name="screen type" default="IMAX / 4DX"} curved screen domin
 
 ### 🏛️ 例 2812：温馨的入职邀请庆祝场景
 
-![温馨的入职邀请庆祝场景](../../images/%E6%B8%A9%E9%A6%A8%E7%9A%84%E5%85%A5%E8%81%8C%E9%82%80%E8%AF%B7%E5%BA%86%E7%A5%9D%E5%9C%BA%E6%99%AF.jpg)
+![温馨的入职邀请庆祝场景](../images/%E6%B8%A9%E9%A6%A8%E7%9A%84%E5%85%A5%E8%81%8C%E9%82%80%E8%AF%B7%E5%BA%86%E7%A5%9D%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1423,7 +1423,7 @@ Create a warm, photorealistic lifestyle scene in a cozy apartment bedroom during
 
 ### 🏛️ 例 2824：静谧蓝夜卧室人像
 
-![静谧蓝夜卧室人像](../../images/%E9%9D%99%E8%B0%A7%E8%93%9D%E5%A4%9C%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+![静谧蓝夜卧室人像](../images/%E9%9D%99%E8%B0%A7%E8%93%9D%E5%A4%9C%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1456,7 +1456,7 @@ Create a warm, photorealistic lifestyle scene in a cozy apartment bedroom during
 
 ### 🏛️ 例 2835：阳光明媚的河畔城市幻想
 
-![阳光明媚的河畔城市幻想](../../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E6%B2%B3%E7%95%94%E5%9F%8E%E5%B8%82%E5%B9%BB%E6%83%B3.jpg)
+![阳光明媚的河畔城市幻想](../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E6%B2%B3%E7%95%94%E5%9F%8E%E5%B8%82%E5%B9%BB%E6%83%B3.jpg)
 
 **Prompt:**
 
@@ -1474,7 +1474,7 @@ Create a vibrant 4k anime-style fantasy travel landscape of a sunlit European ri
 
 ### 🏛️ 例 2854：禅意极简荷叶插画
 
-![禅意极简荷叶插画](../../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E8%8D%B7%E5%8F%B6%E6%8F%92%E7%94%BB.jpg)
+![禅意极简荷叶插画](../images/%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E8%8D%B7%E5%8F%B6%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1497,7 +1497,7 @@ Create a vibrant 4k anime-style fantasy travel landscape of a sunlit European ri
 
 ### 🏛️ 例 3019：色彩斑斓的皇家日出宫殿场景
 
-![色彩斑斓的皇家日出宫殿场景](../../images/%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E7%9A%87%E5%AE%B6%E6%97%A5%E5%87%BA%E5%AE%AB%E6%AE%BF%E5%9C%BA%E6%99%AF.jpg)
+![色彩斑斓的皇家日出宫殿场景](../images/%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E7%9A%87%E5%AE%B6%E6%97%A5%E5%87%BA%E5%AE%AB%E6%AE%BF%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1515,7 +1515,7 @@ Colorful Royal Scene (8K) A majestic king and queen standing together in front o
 
 ### 🏛️ 例 3053：家庭桑巴足球庆典
 
-![家庭桑巴足球庆典](../../images/%E5%AE%B6%E5%BA%AD%E6%A1%91%E5%B7%B4%E8%B6%B3%E7%90%83%E5%BA%86%E5%85%B8.jpg)
+![家庭桑巴足球庆典](../images/%E5%AE%B6%E5%BA%AD%E6%A1%91%E5%B7%B4%E8%B6%B3%E7%90%83%E5%BA%86%E5%85%B8.jpg)
 
 **Prompt:**
 
@@ -1529,7 +1529,7 @@ Colorful Royal Scene (8K) A majestic king and queen standing together in front o
 
 ### 🏛️ 例 3061：赛博朋克建筑墙体纹理
 
-![赛博朋克建筑墙体纹理](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BB%BA%E7%AD%91%E5%A2%99%E4%BD%93%E7%BA%B9%E7%90%86.jpg)
+![赛博朋克建筑墙体纹理](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%BB%BA%E7%AD%91%E5%A2%99%E4%BD%93%E7%BA%B9%E7%90%86.jpg)
 
 **Prompt:**
 
@@ -1547,7 +1547,7 @@ Create a seamless square cyberpunk sci-fi building facade texture for game devel
 
 ### 🏛️ 例 3077：粉色办公室 Q 版场景
 
-![粉色办公室 Q 版场景](../../images/%E7%B2%89%E8%89%B2%E5%8A%9E%E5%85%AC%E5%AE%A4%20Q%20%E7%89%88%E5%9C%BA%E6%99%AF.jpg)
+![粉色办公室 Q 版场景](../images/%E7%B2%89%E8%89%B2%E5%8A%9E%E5%85%AC%E5%AE%A4%20Q%20%E7%89%88%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -1581,7 +1581,7 @@ Lighting and format: Natural light, realistic detail, {argument name="aspect rat
 
 ### 🏛️ 例 3144：禅意观音早安问候
 
-![禅意观音早安问候](../../images/%E7%A6%85%E6%84%8F%E8%A7%82%E9%9F%B3%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99.jpg)
+![禅意观音早安问候](../images/%E7%A6%85%E6%84%8F%E8%A7%82%E9%9F%B3%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99.jpg)
 
 **Prompt:**
 
@@ -1599,7 +1599,7 @@ Create a serene horizontal Chinese Buddhist good-morning greeting illustration i
 
 ### 🏛️ 例 3153：哥特风星舰指挥官
 
-![哥特风星舰指挥官](../../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E6%98%9F%E8%88%B0%E6%8C%87%E6%8C%A5%E5%AE%98.jpg)
+![哥特风星舰指挥官](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E6%98%9F%E8%88%B0%E6%8C%87%E6%8C%A5%E5%AE%98.jpg)
 
 **Prompt:**
 
@@ -1617,7 +1617,7 @@ Create a dark cinematic sci-fi portrait of {argument name="character name" defau
 
 ### 🏛️ 例 3197：蕾丝花园装扮的动漫少女
 
-![蕾丝花园装扮的动漫少女](../../images/%E8%95%BE%E4%B8%9D%E8%8A%B1%E5%9B%AD%E8%A3%85%E6%89%AE%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![蕾丝花园装扮的动漫少女](../images/%E8%95%BE%E4%B8%9D%E8%8A%B1%E5%9B%AD%E8%A3%85%E6%89%AE%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -1635,7 +1635,7 @@ Create a soft, highly detailed anime-style full-body illustration of {argument n
 
 ### 🏛️ 例 3203：浪漫花园玫瑰献礼
 
-![浪漫花园玫瑰献礼](../../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E7%8E%AB%E7%91%B0%E7%8C%AE%E7%A4%BC.jpg)
+![浪漫花园玫瑰献礼](../images/%E6%B5%AA%E6%BC%AB%E8%8A%B1%E5%9B%AD%E7%8E%AB%E7%91%B0%E7%8C%AE%E7%A4%BC.jpg)
 
 **Prompt:**
 
@@ -1661,7 +1661,7 @@ They are situated in a magical, lush garden. Behind them is a beautiful archway 
 
 ### 🏛️ 例 3253：动漫水族馆花园鳗日
 
-![动漫水族馆花园鳗日](../../images/%E5%8A%A8%E6%BC%AB%E6%B0%B4%E6%97%8F%E9%A6%86%E8%8A%B1%E5%9B%AD%E9%B3%97%E6%97%A5.jpg)
+![动漫水族馆花园鳗日](../images/%E5%8A%A8%E6%BC%AB%E6%B0%B4%E6%97%8F%E9%A6%86%E8%8A%B1%E5%9B%AD%E9%B3%97%E6%97%A5.jpg)
 
 **Prompt:**
 
@@ -1679,7 +1679,7 @@ Create a polished anime-style vertical illustration set inside a modern public a
 
 ### 🏛️ 例 3299：珠子工艺肖像艺术
 
-![珠子工艺肖像艺术](../../images/%E7%8F%A0%E5%AD%90%E5%B7%A5%E8%89%BA%E8%82%96%E5%83%8F%E8%89%BA%E6%9C%AF.jpg)
+![珠子工艺肖像艺术](../images/%E7%8F%A0%E5%AD%90%E5%B7%A5%E8%89%BA%E8%82%96%E5%83%8F%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -1712,7 +1712,7 @@ Create a polished anime-style vertical illustration set inside a modern public a
 
 ### 🏛️ 例 3427：驾驶建筑机甲的悠闲飞行员
 
-![驾驶建筑机甲的悠闲飞行员](../../images/%E9%A9%BE%E9%A9%B6%E5%BB%BA%E7%AD%91%E6%9C%BA%E7%94%B2%E7%9A%84%E6%82%A0%E9%97%B2%E9%A3%9E%E8%A1%8C%E5%91%98.jpg)
+![驾驶建筑机甲的悠闲飞行员](../images/%E9%A9%BE%E9%A9%B6%E5%BB%BA%E7%AD%91%E6%9C%BA%E7%94%B2%E7%9A%84%E6%82%A0%E9%97%B2%E9%A3%9E%E8%A1%8C%E5%91%98.jpg)
 
 **Prompt:**
 
@@ -1730,7 +1730,7 @@ Create a highly detailed cinematic sci-fi construction scene in a vertical 3:4 c
 
 ### 🏛️ 例 3500：夏日天空下追逐蝴蝶的男孩
 
-![夏日天空下追逐蝴蝶的男孩](../../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E8%BF%BD%E9%80%90%E8%9D%B4%E8%9D%B6%E7%9A%84%E7%94%B7%E5%AD%A9.jpg)
+![夏日天空下追逐蝴蝶的男孩](../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E8%BF%BD%E9%80%90%E8%9D%B4%E8%9D%B6%E7%9A%84%E7%94%B7%E5%AD%A9.jpg)
 
 **Prompt:**
 
@@ -1751,7 +1751,7 @@ Create a highly detailed cinematic sci-fi construction scene in a vertical 3:4 c
 
 ### 🏛️ 例 3522：孩子们在动漫花园中发现花朵
 
-![孩子们在动漫花园中发现花朵](../../images/%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%8A%B1%E6%9C%B5.jpg)
+![孩子们在动漫花园中发现花朵](../images/%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%9C%A8%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%8A%B1%E6%9C%B5.jpg)
 
 **Prompt:**
 
@@ -1769,7 +1769,7 @@ Create a vertical 9:16 premium anime-style illustration in bright summer dayligh
 
 ### 🏛️ 例 3539：晨光室内肖像
 
-![晨光室内肖像](../../images/%E6%99%A8%E5%85%89%E5%AE%A4%E5%86%85%E8%82%96%E5%83%8F.jpg)
+![晨光室内肖像](../images/%E6%99%A8%E5%85%89%E5%AE%A4%E5%86%85%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1790,7 +1790,7 @@ Create a vertical 9:16 premium anime-style illustration in bright summer dayligh
 
 ### 🏛️ 例 3580：日落时分的程序员卧室工作室
 
-![日落时分的程序员卧室工作室](../../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%A7%E5%AE%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+![日落时分的程序员卧室工作室](../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%A7%E5%AE%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
 
 **Prompt:**
 
@@ -1808,7 +1808,7 @@ Create a highly detailed watercolor-and-ink illustration of a messy programmer�
 
 ### 🏛️ 例 3590：沙漠星光飞机咖啡馆
 
-![沙漠星光飞机咖啡馆](../../images/%E6%B2%99%E6%BC%A0%E6%98%9F%E5%85%89%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+![沙漠星光飞机咖啡馆](../images/%E6%B2%99%E6%BC%A0%E6%98%9F%E5%85%89%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
 
 **Prompt:**
 
@@ -1854,7 +1854,7 @@ Constraints: Preserve the desert starlight cafe theme, keep the airplane cafe cl
 
 ### 🏛️ 例 3617：复古波普风巷道时尚大片
 
-![复古波普风巷道时尚大片](../../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E9%A3%8E%E5%B7%B7%E9%81%93%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![复古波普风巷道时尚大片](../images/%E5%A4%8D%E5%8F%A4%E6%B3%A2%E6%99%AE%E9%A3%8E%E5%B7%B7%E9%81%93%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -1884,7 +1884,7 @@ Avoid: standing pose, full-body framing, tourist-photo posture, casual sitting, 
 
 ### 🏛️ 例 3636：沙漠加油站公路电影剧照
 
-![沙漠加油站公路电影剧照](../../images/%E6%B2%99%E6%BC%A0%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%85%AC%E8%B7%AF%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+![沙漠加油站公路电影剧照](../images/%E6%B2%99%E6%BC%A0%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%85%AC%E8%B7%AF%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -1902,7 +1902,7 @@ Create a cinematic widescreen still from an indie road movie set at a lonely rur
 
 ### 🏛️ 例 3651：宁静清晨卧室生活方式肖像
 
-![宁静清晨卧室生活方式肖像](../../images/%E5%AE%81%E9%9D%99%E6%B8%85%E6%99%A8%E5%8D%A7%E5%AE%A4%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
+![宁静清晨卧室生活方式肖像](../images/%E5%AE%81%E9%9D%99%E6%B8%85%E6%99%A8%E5%8D%A7%E5%AE%A4%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -1935,7 +1935,7 @@ Create a cinematic widescreen still from an indie road movie set at a lonely rur
 
 ### 🏛️ 例 3684：奢华蓝宝石色时尚大片
 
-![奢华蓝宝石色时尚大片](../../images/%E5%A5%A2%E5%8D%8E%E8%93%9D%E5%AE%9D%E7%9F%B3%E8%89%B2%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![奢华蓝宝石色时尚大片](../images/%E5%A5%A2%E5%8D%8E%E8%93%9D%E5%AE%9D%E7%9F%B3%E8%89%B2%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -1961,7 +1961,7 @@ Ultra-realistic DSLR photography, luxury fashion campaign, Vogue editorial quali
 
 ### 🏛️ 例 3704：古老火炬照亮的石砌前厅
 
-![古老火炬照亮的石砌前厅](../../images/%E5%8F%A4%E8%80%81%E7%81%AB%E7%82%AC%E7%85%A7%E4%BA%AE%E7%9A%84%E7%9F%B3%E7%A0%8C%E5%89%8D%E5%8E%85.jpg)
+![古老火炬照亮的石砌前厅](../images/%E5%8F%A4%E8%80%81%E7%81%AB%E7%82%AC%E7%85%A7%E4%BA%AE%E7%9A%84%E7%9F%B3%E7%A0%8C%E5%89%8D%E5%8E%85.jpg)
 
 **Prompt:**
 
@@ -1979,7 +1979,7 @@ Create a cinematic wide-angle scene of an ancient stone interior courtyard or te
 
 ### 🏛️ 例 3735：舒适家居服卧室交谈
 
-![舒适家居服卧室交谈](../../images/%E8%88%92%E9%80%82%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%8D%A7%E5%AE%A4%E4%BA%A4%E8%B0%88.jpg)
+![舒适家居服卧室交谈](../images/%E8%88%92%E9%80%82%E5%AE%B6%E5%B1%85%E6%9C%8D%E5%8D%A7%E5%AE%A4%E4%BA%A4%E8%B0%88.jpg)
 
 **Prompt:**
 
@@ -1997,7 +1997,7 @@ Create a realistic lifestyle fashion photograph of two young East Asian women si
 
 ### 🏛️ 例 3761：阳光明媚的卡通早餐休息时光
 
-![阳光明媚的卡通早餐休息时光](../../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E5%8D%A1%E9%80%9A%E6%97%A9%E9%A4%90%E4%BC%91%E6%81%AF%E6%97%B6%E5%85%89.jpg)
+![阳光明媚的卡通早餐休息时光](../images/%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A%E7%9A%84%E5%8D%A1%E9%80%9A%E6%97%A9%E9%A4%90%E4%BC%91%E6%81%AF%E6%97%B6%E5%85%89.jpg)
 
 **Prompt:**
 
@@ -2043,7 +2043,7 @@ Constraints: Keep the official character proportions and outfit details consiste
 
 ### 🏛️ 例 3779：搞笑动漫风拉面店大乱斗
 
-![搞笑动漫风拉面店大乱斗](../../images/%E6%90%9E%E7%AC%91%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%8B%89%E9%9D%A2%E5%BA%97%E5%A4%A7%E4%B9%B1%E6%96%97.jpg)
+![搞笑动漫风拉面店大乱斗](../images/%E6%90%9E%E7%AC%91%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%8B%89%E9%9D%A2%E5%BA%97%E5%A4%A7%E4%B9%B1%E6%96%97.jpg)
 
 **Prompt:**
 
@@ -2061,7 +2061,7 @@ Create a wide 16:9 anime-style comedic illustration set inside a cramped Japanes
 
 ### 🏛️ 例 3829：夏日海滩侧影
 
-![夏日海滩侧影](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E4%BE%A7%E5%BD%B1.jpg)
+![夏日海滩侧影](../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E4%BE%A7%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -2100,7 +2100,7 @@ Create a wide 16:9 anime-style comedic illustration set inside a cramped Japanes
 
 ### 🏛️ 例 3913：蓝色幻想图书馆中庭
 
-![蓝色幻想图书馆中庭](../../images/%E8%93%9D%E8%89%B2%E5%B9%BB%E6%83%B3%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD%E5%BA%AD.jpg)
+![蓝色幻想图书馆中庭](../images/%E8%93%9D%E8%89%B2%E5%B9%BB%E6%83%B3%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD%E5%BA%AD.jpg)
 
 **Prompt:**
 
@@ -2118,7 +2118,7 @@ Create a vertical 2:3 anime fantasy illustration of an impossibly tall, luminous
 
 ### 🏛️ 例 3956：极简主义日式建筑时尚摄影
 
-![极简主义日式建筑时尚摄影](../../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%A5%E5%BC%8F%E5%BB%BA%E7%AD%91%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+![极简主义日式建筑时尚摄影](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%A5%E5%BC%8F%E5%BB%BA%E7%AD%91%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -2146,7 +2146,7 @@ Ultra-realistic DSLR photography, luxury women's fashion editorial, Vogue-level 
 
 ### 🏛️ 例 4000：黄金时刻建筑人像
 
-![黄金时刻建筑人像](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%83%8F.jpg)
+![黄金时刻建筑人像](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%BB%BA%E7%AD%91%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -2164,7 +2164,7 @@ Create an ultra-realistic cinematic 8K fashion portrait of a {argument name="sub
 
 ### 🏛️ 例 4071：昏暗卧室睡前人像
 
-![昏暗卧室睡前人像](../../images/%E6%98%8F%E6%9A%97%E5%8D%A7%E5%AE%A4%E7%9D%A1%E5%89%8D%E4%BA%BA%E5%83%8F.jpg)
+![昏暗卧室睡前人像](../images/%E6%98%8F%E6%9A%97%E5%8D%A7%E5%AE%A4%E7%9D%A1%E5%89%8D%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -2182,7 +2182,7 @@ Create a realistic intimate bedroom photograph of {argument name="subject" defau
 
 ### 🏛️ 例 4097：日式厨房里的杯面时光
 
-![日式厨房里的杯面时光](../../images/%E6%97%A5%E5%BC%8F%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%9D%AF%E9%9D%A2%E6%97%B6%E5%85%89.jpg)
+![日式厨房里的杯面时光](../images/%E6%97%A5%E5%BC%8F%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%9D%AF%E9%9D%A2%E6%97%B6%E5%85%89.jpg)
 
 **Prompt:**
 
@@ -2218,7 +2218,7 @@ Create a realistic intimate bedroom photograph of {argument name="subject" defau
 
 ### 🏛️ 例 4110：梦幻云端城堡之旅
 
-![梦幻云端城堡之旅](../../images/%E6%A2%A6%E5%B9%BB%E4%BA%91%E7%AB%AF%E5%9F%8E%E5%A0%A1%E4%B9%8B%E6%97%85.jpg)
+![梦幻云端城堡之旅](../images/%E6%A2%A6%E5%B9%BB%E4%BA%91%E7%AB%AF%E5%9F%8E%E5%A0%A1%E4%B9%8B%E6%97%85.jpg)
 
 **Prompt:**
 

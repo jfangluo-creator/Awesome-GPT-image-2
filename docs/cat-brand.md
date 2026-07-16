@@ -3936,7 +3936,7 @@ Use the reference image I provided to create a grail card modeled after the “2
 
 ### 🏷️ 例 1218：优雅的编辑风天空女性插画
 
-![优雅的编辑风天空女性插画](../../images/%E4%BC%98%E9%9B%85%E7%9A%84%E7%BC%96%E8%BE%91%E9%A3%8E%E5%A4%A9%E7%A9%BA%E5%A5%B3%E6%80%A7%E6%8F%92%E7%94%BB.jpg)
+![优雅的编辑风天空女性插画](../images/%E4%BC%98%E9%9B%85%E7%9A%84%E7%BC%96%E8%BE%91%E9%A3%8E%E5%A4%A9%E7%A9%BA%E5%A5%B3%E6%80%A7%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -3954,7 +3954,7 @@ Generate an elegant editorial-style digital illustration of a woman resting unde
 
 ### 🏷️ 例 1229：复古美式沙漠插画
 
-![复古美式沙漠插画](../../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B2%99%E6%BC%A0%E6%8F%92%E7%94%BB.jpg)
+![复古美式沙漠插画](../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B2%99%E6%BC%A0%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -3976,7 +3976,7 @@ Artwork style combines {argument name="medium" default="fine ink sketching, loos
 
 ### 🏷️ 例 1240：迷雾森林露营肖像
 
-![迷雾森林露营肖像](../../images/%E8%BF%B7%E9%9B%BE%E6%A3%AE%E6%9E%97%E9%9C%B2%E8%90%A5%E8%82%96%E5%83%8F.jpg)
+![迷雾森林露营肖像](../images/%E8%BF%B7%E9%9B%BE%E6%A3%AE%E6%9E%97%E9%9C%B2%E8%90%A5%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -3994,7 +3994,7 @@ Create a realistic cinematic square photo of {argument name="subject" default="a
 
 ### 🏷️ 例 1247：泰式炒河粉烹饪项目
 
-![泰式炒河粉烹饪项目](../../images/%E6%B3%B0%E5%BC%8F%E7%82%92%E6%B2%B3%E7%B2%89%E7%83%B9%E9%A5%AA%E9%A1%B9%E7%9B%AE.jpg)
+![泰式炒河粉烹饪项目](../images/%E6%B3%B0%E5%BC%8F%E7%82%92%E6%B2%B3%E7%B2%89%E7%83%B9%E9%A5%AA%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -4012,7 +4012,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="dish" de
 
 ### 🏷️ 例 1263：电影级双重曝光角色艺术
 
-![电影级双重曝光角色艺术](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF.jpg)
+![电影级双重曝光角色艺术](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -4030,7 +4030,7 @@ Based on the {argument name="character reference" default="CHARACTER SHEET"} att
 
 ### 🏷️ 例 1270：PastelSoft Dolphin 字标 Logo
 
-![PastelSoft Dolphin 字标 Logo](../../images/PastelSoft%20Dolphin%20%E5%AD%97%E6%A0%87%20Logo.jpg)
+![PastelSoft Dolphin 字标 Logo](../images/PastelSoft%20Dolphin%20%E5%AD%97%E6%A0%87%20Logo.jpg)
 
 **Prompt:**
 
@@ -4048,7 +4048,7 @@ Create a clean horizontal circle or software brand logo on a pure white backgrou
 
 ### 🏷️ 例 1275：水上乐园里的日本年轻人
 
-![水上乐园里的日本年轻人](../../images/%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E9%87%8C%E7%9A%84%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA.jpg)
+![水上乐园里的日本年轻人](../images/%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E9%87%8C%E7%9A%84%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA.jpg)
 
 **Prompt:**
 
@@ -4062,7 +4062,7 @@ Create a clean horizontal circle or software brand logo on a pure white backgrou
 
 ### 🏷️ 例 1276：FPV 无人机水上乐园航线
 
-![FPV 无人机水上乐园航线](../../images/FPV%20%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E8%88%AA%E7%BA%BF.jpg)
+![FPV 无人机水上乐园航线](../images/FPV%20%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E8%88%AA%E7%BA%BF.jpg)
 
 **Prompt:**
 
@@ -4080,7 +4080,7 @@ Create a photorealistic FPV drone-style aerial image of a tropical water park, v
 
 ### 🏷️ 例 1280：三款日文 note GPT 封面设计方案
 
-![三款日文 note GPT 封面设计方案](../../images/%E4%B8%89%E6%AC%BE%E6%97%A5%E6%96%87%20note%20GPT%20%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.jpg)
+![三款日文 note GPT 封面设计方案](../images/%E4%B8%89%E6%AC%BE%E6%97%A5%E6%96%87%20note%20GPT%20%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88.jpg)
 
 **Prompt:**
 
@@ -4118,7 +4118,7 @@ Visual style: Consistent teal, mint, ivory, charcoal, and beige palette. Japanes
 
 ### 🏷️ 例 1293：Logo 集成与马克笔叠加效果
 
-![Logo 集成与马克笔叠加效果](../../images/Logo%20%E9%9B%86%E6%88%90%E4%B8%8E%E9%A9%AC%E5%85%8B%E7%AC%94%E5%8F%A0%E5%8A%A0%E6%95%88%E6%9E%9C.jpg)
+![Logo 集成与马克笔叠加效果](../images/Logo%20%E9%9B%86%E6%88%90%E4%B8%8E%E9%A9%AC%E5%85%8B%E7%AC%94%E5%8F%A0%E5%8A%A0%E6%95%88%E6%9E%9C.jpg)
 
 **Prompt:**
 
@@ -4152,7 +4152,7 @@ Do not alter the illustration in any other way. Preserve all original colors, li
 
 ### 🏷️ 例 1301：F1 赛车技术设计图
 
-![F1 赛车技术设计图](../../images/F1%20%E8%B5%9B%E8%BD%A6%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![F1 赛车技术设计图](../images/F1%20%E8%B5%9B%E8%BD%A6%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4184,7 +4184,7 @@ production-quality presentation,
 
 ### 🏷️ 例 1302：柑橘蜡笔时尚肖像
 
-![柑橘蜡笔时尚肖像](../../images/%E6%9F%91%E6%A9%98%E8%9C%A1%E7%AC%94%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+![柑橘蜡笔时尚肖像](../images/%E6%9F%91%E6%A9%98%E8%9C%A1%E7%AC%94%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4202,7 +4202,7 @@ Create a minimalist rough crayon-style illustration on a plain white background,
 
 ### 🏷️ 例 1307：超宽动漫战斗项目
 
-![超宽动漫战斗项目](../../images/%E8%B6%85%E5%AE%BD%E5%8A%A8%E6%BC%AB%E6%88%98%E6%96%97%E9%A1%B9%E7%9B%AE.jpg)
+![超宽动漫战斗项目](../images/%E8%B6%85%E5%AE%BD%E5%8A%A8%E6%BC%AB%E6%88%98%E6%96%97%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -4262,7 +4262,7 @@ Constraints: Use {argument name="aspect ratio" default="21:9"}; keep exactly 12 
 
 ### 🏷️ 例 1309：地铁上的纪实手机摄影
 
-![地铁上的纪实手机摄影](../../images/%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%BA%AA%E5%AE%9E%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
+![地铁上的纪实手机摄影](../images/%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9A%84%E7%BA%AA%E5%AE%9E%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -4280,7 +4280,7 @@ A stunning {argument name="subject" default="woman"} glancing down at her {argum
 
 ### 🏷️ 例 1374：空间站入口处的女性仿生人
 
-![空间站入口处的女性仿生人](../../images/%E7%A9%BA%E9%97%B4%E7%AB%99%E5%85%A5%E5%8F%A3%E5%A4%84%E7%9A%84%E5%A5%B3%E6%80%A7%E4%BB%BF%E7%94%9F%E4%BA%BA.jpg)
+![空间站入口处的女性仿生人](../images/%E7%A9%BA%E9%97%B4%E7%AB%99%E5%85%A5%E5%8F%A3%E5%A4%84%E7%9A%84%E5%A5%B3%E6%80%A7%E4%BB%BF%E7%94%9F%E4%BA%BA.jpg)
 
 **Prompt:**
 
@@ -4298,7 +4298,7 @@ Create a cinematic ultra-detailed sci-fi scene of a {argument name="character ty
 
 ### 🏷️ 例 1379：超写实飞行员肖像
 
-![超写实飞行员肖像](../../images/%E8%B6%85%E5%86%99%E5%AE%9E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%82%96%E5%83%8F.jpg)
+![超写实飞行员肖像](../images/%E8%B6%85%E5%86%99%E5%AE%9E%E9%A3%9E%E8%A1%8C%E5%91%98%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4316,7 +4316,7 @@ Hyperrealistic portrait of a young beautiful woman with {argument name="hair sty
 
 ### 🏷️ 例 1394：洪水城市中的巨大哥特长靴
 
-![洪水城市中的巨大哥特长靴](../../images/%E6%B4%AA%E6%B0%B4%E5%9F%8E%E5%B8%82%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%93%A5%E7%89%B9%E9%95%BF%E9%9D%B4.jpg)
+![洪水城市中的巨大哥特长靴](../images/%E6%B4%AA%E6%B0%B4%E5%9F%8E%E5%B8%82%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%93%A5%E7%89%B9%E9%95%BF%E9%9D%B4.jpg)
 
 **Prompt:**
 
@@ -4334,7 +4334,7 @@ Create a vertical cinematic fantasy street scene from an extremely low ground-le
 
 ### 🏷️ 例 1396：Fast-Food Couture Campaign
 
-![Fast-Food Couture Campaign](../../images/Fast-Food%20Couture%20Campaign.jpg)
+![Fast-Food Couture Campaign](../images/Fast-Food%20Couture%20Campaign.jpg)
 
 **Prompt:**
 
@@ -4348,7 +4348,7 @@ Beautiful young woman with the exact facial identity, facial structure, skin ton
 
 ### 🏷️ 例 1416：暗黑奇幻大教堂握手艺术
 
-![暗黑奇幻大教堂握手艺术](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%A4%A7%E6%95%99%E5%A0%82%E6%8F%A1%E6%89%8B%E8%89%BA%E6%9C%AF.jpg)
+![暗黑奇幻大教堂握手艺术](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%A4%A7%E6%95%99%E5%A0%82%E6%8F%A1%E6%89%8B%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -4366,7 +4366,7 @@ An ultra-cinematic dark fantasy artwork called The Devil’s Deal, an extremely 
 
 ### 🏷️ 例 1453：GPT Image 2 太空舷窗
 
-![GPT Image 2 太空舷窗](../../images/GPT%20Image%202%20%E5%A4%AA%E7%A9%BA%E8%88%B7%E7%AA%97.jpg)
+![GPT Image 2 太空舷窗](../images/GPT%20Image%202%20%E5%A4%AA%E7%A9%BA%E8%88%B7%E7%AA%97.jpg)
 
 **Prompt:**
 
@@ -4384,7 +4384,7 @@ Create a cinematic photorealistic sci-fi view from inside a spacecraft cockpit o
 
 ### 🏷️ 例 1472：维多利亚时代女性骑复古自行车
 
-![维多利亚时代女性骑复古自行车](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E5%A5%B3%E6%80%A7%E9%AA%91%E5%A4%8D%E5%8F%A4%E8%87%AA%E8%A1%8C%E8%BD%A6.jpg)
+![维多利亚时代女性骑复古自行车](../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E5%A5%B3%E6%80%A7%E9%AA%91%E5%A4%8D%E5%8F%A4%E8%87%AA%E8%A1%8C%E8%BD%A6.jpg)
 
 **Prompt:**
 
@@ -4402,7 +4402,7 @@ An ultra-realistic, cinematic portrait of a {argument name="subject" default="be
 
 ### 🏷️ 例 1513：相机技术爆炸图
 
-![相机技术爆炸图](../../images/%E7%9B%B8%E6%9C%BA%E6%8A%80%E6%9C%AF%E7%88%86%E7%82%B8%E5%9B%BE.jpg)
+![相机技术爆炸图](../images/%E7%9B%B8%E6%9C%BA%E6%8A%80%E6%9C%AF%E7%88%86%E7%82%B8%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4420,7 +4420,7 @@ Detailed exploded-view diagram of a {argument name="camera model" default="Sony 
 
 ### 🏷️ 例 1547：靠在复古蓝色汽车上的女性
 
-![靠在复古蓝色汽车上的女性](../../images/%E9%9D%A0%E5%9C%A8%E5%A4%8D%E5%8F%A4%E8%93%9D%E8%89%B2%E6%B1%BD%E8%BD%A6%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+![靠在复古蓝色汽车上的女性](../images/%E9%9D%A0%E5%9C%A8%E5%A4%8D%E5%8F%A4%E8%93%9D%E8%89%B2%E6%B1%BD%E8%BD%A6%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
 
 **Prompt:**
 
@@ -4438,7 +4438,7 @@ Create a realistic lifestyle portrait photo of a young woman with {argument name
 
 ### 🏷️ 例 1559：雨夜 24 小时便利店
 
-![雨夜 24 小时便利店](../../images/%E9%9B%A8%E5%A4%9C%2024%20%E5%B0%8F%E6%97%B6%E4%BE%BF%E5%88%A9%E5%BA%97.jpg)
+![雨夜 24 小时便利店](../images/%E9%9B%A8%E5%A4%9C%2024%20%E5%B0%8F%E6%97%B6%E4%BE%BF%E5%88%A9%E5%BA%97.jpg)
 
 **Prompt:**
 
@@ -4456,7 +4456,7 @@ Create a painterly nighttime city street scene in a cinematic square composition
 
 ### 🏷️ 例 1561：和服少女双重曝光雨伞
 
-![和服少女双重曝光雨伞](../../images/%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E9%9B%A8%E4%BC%9E.jpg)
+![和服少女双重曝光雨伞](../images/%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E9%9B%A8%E4%BC%9E.jpg)
 
 **Prompt:**
 
@@ -4474,7 +4474,7 @@ Create a polished anime-style double-exposure illustration of a young woman in a
 
 ### 🏷️ 例 1564：超现实柔和花卉时尚肖像
 
-![超现实柔和花卉时尚肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%9F%94%E5%92%8C%E8%8A%B1%E5%8D%89%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+![超现实柔和花卉时尚肖像](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%9F%94%E5%92%8C%E8%8A%B1%E5%8D%89%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4492,7 +4492,7 @@ Create a vertical 9:16 high-fashion fantasy photo of {argument name="subject" de
 
 ### 🏷️ 例 1571：超现实 Y2K 街头时尚智能手机错觉
 
-![超现实 Y2K 街头时尚智能手机错觉](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20Y2K%20%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E9%94%99%E8%A7%89.jpg)
+![超现实 Y2K 街头时尚智能手机错觉](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%20Y2K%20%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E9%94%99%E8%A7%89.jpg)
 
 **Prompt:**
 
@@ -4510,7 +4510,7 @@ Using the provided reference image, create an ultra-realistic surreal street-fas
 
 ### 🏷️ 例 1586：花海中的空灵肖像
 
-![花海中的空灵肖像](../../images/%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%81%B5%E8%82%96%E5%83%8F.jpg)
+![花海中的空灵肖像](../images/%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%81%B5%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4528,7 +4528,7 @@ A beautiful {argument name="subject" default="young woman"} with long, voluminou
 
 ### 🏷️ 例 1595：水彩海滩肖像拼贴画
 
-![水彩海滩肖像拼贴画](../../images/%E6%B0%B4%E5%BD%A9%E6%B5%B7%E6%BB%A9%E8%82%96%E5%83%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![水彩海滩肖像拼贴画](../images/%E6%B0%B4%E5%BD%A9%E6%B5%B7%E6%BB%A9%E8%82%96%E5%83%8F%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4546,7 +4546,7 @@ A beautiful {argument name="subject" default="young woman"} with long, voluminou
 
 ### 🏷️ 例 1598：超现实高级定制舞者肖像
 
-![超现实高级定制舞者肖像](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E8%88%9E%E8%80%85%E8%82%96%E5%83%8F.jpg)
+![超现实高级定制舞者肖像](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E8%88%9E%E8%80%85%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -4564,7 +4564,7 @@ Create a vertical cinematic fantasy fashion portrait of a graceful woman dancing
 
 ### 🏷️ 例 1616：产品设计目录排版
 
-![产品设计目录排版](../../images/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E7%9B%AE%E5%BD%95%E6%8E%92%E7%89%88.jpg)
+![产品设计目录排版](../images/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E7%9B%AE%E5%BD%95%E6%8E%92%E7%89%88.jpg)
 
 **Prompt:**
 
@@ -4602,7 +4602,7 @@ Overall mood: design catalog / product design journal — architectural, premium
 
 ### 🏷️ 例 1618：拼贴艺术插画融合
 
-![拼贴艺术插画融合](../../images/%E6%8B%BC%E8%B4%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB%E8%9E%8D%E5%90%88.jpg)
+![拼贴艺术插画融合](../images/%E6%8B%BC%E8%B4%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB%E8%9E%8D%E5%90%88.jpg)
 
 **Prompt:**
 
@@ -4690,7 +4690,7 @@ Merge the four illustrations into a single unified composition, with the logo fr
 
 ### 🏷️ 例 1623：华丽和服动漫少女
 
-![华丽和服动漫少女](../../images/%E5%8D%8E%E4%B8%BD%E5%92%8C%E6%9C%8D%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![华丽和服动漫少女](../images/%E5%8D%8E%E4%B8%BD%E5%92%8C%E6%9C%8D%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -4708,7 +4708,7 @@ Create an ultra-detailed old-school anime fantasy illustration of 1 elegant youn
 
 ### 🏷️ 例 1645：被四名反派包围的天使
 
-![被四名反派包围的天使](../../images/%E8%A2%AB%E5%9B%9B%E5%90%8D%E5%8F%8D%E6%B4%BE%E5%8C%85%E5%9B%B4%E7%9A%84%E5%A4%A9%E4%BD%BF.jpg)
+![被四名反派包围的天使](../images/%E8%A2%AB%E5%9B%9B%E5%90%8D%E5%8F%8D%E6%B4%BE%E5%8C%85%E5%9B%B4%E7%9A%84%E5%A4%A9%E4%BD%BF.jpg)
 
 **Prompt:**
 
@@ -4726,7 +4726,7 @@ Create a dramatic vertical anime fantasy key visual featuring {argument name="ma
 
 ### 🏷️ 例 1646：花藤下的复古女性
 
-![花藤下的复古女性](../../images/%E8%8A%B1%E8%97%A4%E4%B8%8B%E7%9A%84%E5%A4%8D%E5%8F%A4%E5%A5%B3%E6%80%A7.jpg)
+![花藤下的复古女性](../images/%E8%8A%B1%E8%97%A4%E4%B8%8B%E7%9A%84%E5%A4%8D%E5%8F%A4%E5%A5%B3%E6%80%A7.jpg)
 
 **Prompt:**
 
@@ -4744,7 +4744,7 @@ Create a square 1:1 grainy retro vintage fashion photograph of a {argument name=
 
 ### 🏷️ 例 1651：夏季京都寺庙俯瞰图
 
-![夏季京都寺庙俯瞰图](../../images/%E5%A4%8F%E5%AD%A3%E4%BA%AC%E9%83%BD%E5%AF%BA%E5%BA%99%E4%BF%AF%E7%9E%B0%E5%9B%BE.jpg)
+![夏季京都寺庙俯瞰图](../images/%E5%A4%8F%E5%AD%A3%E4%BA%AC%E9%83%BD%E5%AF%BA%E5%BA%99%E4%BF%AF%E7%9E%B0%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -4762,7 +4762,7 @@ Create a highly detailed photorealistic summer travel landscape of Kyoto viewed 
 
 ### 🏷️ 例 1666：AI 杂志产品样机
 
-![AI 杂志产品样机](../../images/AI%20%E6%9D%82%E5%BF%97%E4%BA%A7%E5%93%81%E6%A0%B7%E6%9C%BA.jpg)
+![AI 杂志产品样机](../images/AI%20%E6%9D%82%E5%BF%97%E4%BA%A7%E5%93%81%E6%A0%B7%E6%9C%BA.jpg)
 
 **Prompt:**
 
@@ -4780,7 +4780,7 @@ A compact AI-powered magazine displayed upright on a modern workspace. The cover
 
 ### 🏷️ 例 1670：女子在公园骑行遛狗
 
-![女子在公园骑行遛狗](../../images/%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%9B%AD%E9%AA%91%E8%A1%8C%E9%81%9B%E7%8B%97.jpg)
+![女子在公园骑行遛狗](../images/%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%9B%AD%E9%AA%91%E8%A1%8C%E9%81%9B%E7%8B%97.jpg)
 
 **Prompt:**
 
@@ -4798,7 +4798,7 @@ Create a realistic full-body outdoor lifestyle portrait of a young woman with a 
 
 ### 🏷️ 例 1679：优雅小提琴手极简主义插画
 
-![优雅小提琴手极简主义插画](../../images/%E4%BC%98%E9%9B%85%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
+![优雅小提琴手极简主义插画](../images/%E4%BC%98%E9%9B%85%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4819,7 +4819,7 @@ Create a realistic full-body outdoor lifestyle portrait of a young woman with a 
 
 ### 🏷️ 例 1683：“未寄出的信”咖啡馆插画
 
-![“未寄出的信”咖啡馆插画](../../images/%E2%80%9C%E6%9C%AA%E5%AF%84%E5%87%BA%E7%9A%84%E4%BF%A1%E2%80%9D%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
+![“未寄出的信”咖啡馆插画](../images/%E2%80%9C%E6%9C%AA%E5%AF%84%E5%87%BA%E7%9A%84%E4%BF%A1%E2%80%9D%E5%92%96%E5%95%A1%E9%A6%86%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4837,7 +4837,7 @@ Create a stylish vertical 3:4 anime fashion illustration in expressive ink-and-w
 
 ### 🏷️ 例 1696：定制足球海报双重曝光
 
-![定制足球海报双重曝光](../../images/%E5%AE%9A%E5%88%B6%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89.jpg)
+![定制足球海报双重曝光](../images/%E5%AE%9A%E5%88%B6%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89.jpg)
 
 **Prompt:**
 
@@ -4855,7 +4855,7 @@ Create a high-quality 8K sports poster from the uploaded photo, keeping the orig
 
 ### 🏷️ 例 1704：1960 年代里维埃拉超现实主义社论插画
 
-![1960 年代里维埃拉超现实主义社论插画](../../images/1960%20%E5%B9%B4%E4%BB%A3%E9%87%8C%E7%BB%B4%E5%9F%83%E6%8B%89%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%A4%BE%E8%AE%BA%E6%8F%92%E7%94%BB.jpg)
+![1960 年代里维埃拉超现实主义社论插画](../images/1960%20%E5%B9%B4%E4%BB%A3%E9%87%8C%E7%BB%B4%E5%9F%83%E6%8B%89%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%A4%BE%E8%AE%BA%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -4873,7 +4873,7 @@ Surreal mid-century editorial illustration of the person in the photo and a styl
 
 ### 🏷️ 例 1713：世界杯夺冠球员通道场景
 
-![世界杯夺冠球员通道场景](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E7%90%83%E5%91%98%E9%80%9A%E9%81%93%E5%9C%BA%E6%99%AF.jpg)
+![世界杯夺冠球员通道场景](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E7%90%83%E5%91%98%E9%80%9A%E9%81%93%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -4891,7 +4891,7 @@ victorious {argument name="event" default="FIFA World Cup"} tunnel scene featuri
 
 ### 🏷️ 例 1726：混合媒介纸娃娃时尚
 
-![混合媒介纸娃娃时尚](../../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BA%B8%E5%A8%83%E5%A8%83%E6%97%B6%E5%B0%9A.jpg)
+![混合媒介纸娃娃时尚](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BA%B8%E5%A8%83%E5%A8%83%E6%97%B6%E5%B0%9A.jpg)
 
 **Prompt:**
 
@@ -4917,7 +4917,7 @@ paper doll fashion, wearable sketch art, colored pencil texture, mixed media ill
 
 ### 🏷️ 例 1764：仙侠女子远眺云雾山峦秘境
 
-![仙侠女子远眺云雾山峦秘境](../../images/%E4%BB%99%E4%BE%A0%E5%A5%B3%E5%AD%90%E8%BF%9C%E7%9C%BA%E4%BA%91%E9%9B%BE%E5%B1%B1%E5%B3%A6%E7%A7%98%E5%A2%83.jpg)
+![仙侠女子远眺云雾山峦秘境](../images/%E4%BB%99%E4%BE%A0%E5%A5%B3%E5%AD%90%E8%BF%9C%E7%9C%BA%E4%BA%91%E9%9B%BE%E5%B1%B1%E5%B3%A6%E7%A7%98%E5%A2%83.jpg)
 
 **Prompt:**
 
@@ -4935,7 +4935,7 @@ Create an epic cinematic fantasy landscape in a highly detailed painterly-realis
 
 ### 🏷️ 例 1785：背靠背双剑战士
 
-![背靠背双剑战士](../../images/%E8%83%8C%E9%9D%A0%E8%83%8C%E5%8F%8C%E5%89%91%E6%88%98%E5%A3%AB.jpg)
+![背靠背双剑战士](../images/%E8%83%8C%E9%9D%A0%E8%83%8C%E5%8F%8C%E5%89%91%E6%88%98%E5%A3%AB.jpg)
 
 **Prompt:**
 
@@ -4953,7 +4953,7 @@ Create a dramatic vertical fantasy illustration titled conceptually “mutual sw
 
 ### 🏷️ 例 1804：香港赛博朋克 Vespa 骑手
 
-![香港赛博朋克 Vespa 骑手](../../images/%E9%A6%99%E6%B8%AF%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Vespa%20%E9%AA%91%E6%89%8B.jpg)
+![香港赛博朋克 Vespa 骑手](../images/%E9%A6%99%E6%B8%AF%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Vespa%20%E9%AA%91%E6%89%8B.jpg)
 
 **Prompt:**
 
@@ -4971,7 +4971,7 @@ Create a cinematic vertical cyberpunk glamour illustration of {argument name="ch
 
 ### 🏷️ 例 1808：泰坦墙上的写实侦察兵
 
-![泰坦墙上的写实侦察兵](../../images/%E6%B3%B0%E5%9D%A6%E5%A2%99%E4%B8%8A%E7%9A%84%E5%86%99%E5%AE%9E%E4%BE%A6%E5%AF%9F%E5%85%B5.jpg)
+![泰坦墙上的写实侦察兵](../images/%E6%B3%B0%E5%9D%A6%E5%A2%99%E4%B8%8A%E7%9A%84%E5%86%99%E5%AE%9E%E4%BE%A6%E5%AF%9F%E5%85%B5.jpg)
 
 **Prompt:**
 
@@ -4989,7 +4989,7 @@ Create a cinematic photorealistic scene inspired by Attack on Titan: a young fem
 
 ### 🏷️ 例 1811：惊慌失措的爱丽丝梦游仙境追逐战
 
-![惊慌失措的爱丽丝梦游仙境追逐战](../../images/%E6%83%8A%E6%85%8C%E5%A4%B1%E6%8E%AA%E7%9A%84%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83%E8%BF%BD%E9%80%90%E6%88%98.jpg)
+![惊慌失措的爱丽丝梦游仙境追逐战](../images/%E6%83%8A%E6%85%8C%E5%A4%B1%E6%8E%AA%E7%9A%84%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83%E8%BF%BD%E9%80%90%E6%88%98.jpg)
 
 **Prompt:**
 
@@ -5007,7 +5007,7 @@ Create a dynamic high-detail anime illustration of {argument name="character nam
 
 ### 🏷️ 例 1817：手持打火机的忧郁肖像
 
-![手持打火机的忧郁肖像](../../images/%E6%89%8B%E6%8C%81%E6%89%93%E7%81%AB%E6%9C%BA%E7%9A%84%E5%BF%A7%E9%83%81%E8%82%96%E5%83%8F.jpg)
+![手持打火机的忧郁肖像](../images/%E6%89%8B%E6%8C%81%E6%89%93%E7%81%AB%E6%9C%BA%E7%9A%84%E5%BF%A7%E9%83%81%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -5025,7 +5025,7 @@ Use 100% face above uploaded photo. Create an ultra-realistic, moody portrait of
 
 ### 🏷️ 例 1827：写实风格便利店生活照
 
-![写实风格便利店生活照](../../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
+![写实风格便利店生活照](../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E4%BE%BF%E5%88%A9%E5%BA%97%E7%94%9F%E6%B4%BB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -5047,7 +5047,7 @@ Vertical composition (4:5), subject centered slightly left of frame, side-facing
 
 ### 🏷️ 例 1836：动漫角色概念设计图
 
-![动漫角色概念设计图](../../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![动漫角色概念设计图](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5065,7 +5065,7 @@ high-end {argument name="style" default="anime character design board"}, {argume
 
 ### 🏷️ 例 1849：超现实天文台景观
 
-![超现实天文台景观](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A4%A9%E6%96%87%E5%8F%B0%E6%99%AF%E8%A7%82.jpg)
+![超现实天文台景观](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%A4%A9%E6%96%87%E5%8F%B0%E6%99%AF%E8%A7%82.jpg)
 
 **Prompt:**
 
@@ -5085,7 +5085,7 @@ Create an original photorealistic surreal editorial image from inside a {argumen
 
 ### 🏷️ 例 1853：雨季居家准备公寓
 
-![雨季居家准备公寓](../../images/%E9%9B%A8%E5%AD%A3%E5%B1%85%E5%AE%B6%E5%87%86%E5%A4%87%E5%85%AC%E5%AF%93.jpg)
+![雨季居家准备公寓](../images/%E9%9B%A8%E5%AD%A3%E5%B1%85%E5%AE%B6%E5%87%86%E5%A4%87%E5%85%AC%E5%AF%93.jpg)
 
 **Prompt:**
 
@@ -5103,7 +5103,7 @@ Create a photorealistic, softly lit vertical lifestyle image of a rainy-season a
 
 ### 🏷️ 例 1860：维多利亚时代足球赛
 
-![维多利亚时代足球赛](../../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E8%B6%B3%E7%90%83%E8%B5%9B.jpg)
+![维多利亚时代足球赛](../images/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3%E8%B6%B3%E7%90%83%E8%B5%9B.jpg)
 
 **Prompt:**
 
@@ -5121,7 +5121,7 @@ Create a realistic historical sports photograph of a {argument name="sport" defa
 
 ### 🏷️ 例 1866：地中海夏季时尚人像
 
-![地中海夏季时尚人像](../../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%A4%8F%E5%AD%A3%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+![地中海夏季时尚人像](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%A4%8F%E5%AD%A3%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -5145,7 +5145,7 @@ blurry, low resolution, overexposed sky, crowded background, extra limbs, distor
 
 ### 🏷️ 例 1889：都市街头时尚大片
 
-![都市街头时尚大片](../../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![都市街头时尚大片](../images/%E9%83%BD%E5%B8%82%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -5163,7 +5163,7 @@ AGE {argument name="age" default="24"} EAR OLD CREATE KHAKI HEAVYWEIGHT FULL BOD
 
 ### 🏷️ 例 1898：AIVIVE 沉浸式 AI 画廊首屏设计
 
-![AIVIVE 沉浸式 AI 画廊首屏设计](../../images/AIVIVE%20%E6%B2%89%E6%B5%B8%E5%BC%8F%20AI%20%E7%94%BB%E5%BB%8A%E9%A6%96%E5%B1%8F%E8%AE%BE%E8%AE%A1.jpg)
+![AIVIVE 沉浸式 AI 画廊首屏设计](../images/AIVIVE%20%E6%B2%89%E6%B5%B8%E5%BC%8F%20AI%20%E7%94%BB%E5%BB%8A%E9%A6%96%E5%B1%8F%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -5205,7 +5205,7 @@ Constraints: No clutter, no browser chrome, no visible app interface beyond the 
 
 ### 🏷️ 例 1906：水獭一家荷塘插画
 
-![水獭一家荷塘插画](../../images/%E6%B0%B4%E7%8D%AD%E4%B8%80%E5%AE%B6%E8%8D%B7%E5%A1%98%E6%8F%92%E7%94%BB.jpg)
+![水獭一家荷塘插画](../images/%E6%B0%B4%E7%8D%AD%E4%B8%80%E5%AE%B6%E8%8D%B7%E5%A1%98%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5223,7 +5223,7 @@ Create a warm, highly detailed colored-pencil and ink illustration of a mother r
 
 ### 🏷️ 例 1907：实验性 David Beckham 体育海报
 
-![实验性 David Beckham 体育海报](../../images/%E5%AE%9E%E9%AA%8C%E6%80%A7%20David%20Beckham%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
+![实验性 David Beckham 体育海报](../images/%E5%AE%9E%E9%AA%8C%E6%80%A7%20David%20Beckham%20%E4%BD%93%E8%82%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -5241,7 +5241,7 @@ Create an experimental {argument name="subject" default="David Beckham"} poster 
 
 ### 🏷️ 例 1908：装饰性民间艺术扁平插画
 
-![装饰性民间艺术扁平插画](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+![装饰性民间艺术扁平插画](../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5259,7 +5259,7 @@ Please transform the entire image into a {argument name="illustration style" def
 
 ### 🏷️ 例 1909：地中海巷弄肖像
 
-![地中海巷弄肖像](../../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%B7%B7%E5%BC%84%E8%82%96%E5%83%8F.jpg)
+![地中海巷弄肖像](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%B7%B7%E5%BC%84%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -5277,7 +5277,7 @@ Ultra-realistic photo of a {argument name="subject" default="woman"} seated on s
 
 ### 🏷️ 例 1922：高端椰子护肤品产品摄影
 
-![高端椰子护肤品产品摄影](../../images/%E9%AB%98%E7%AB%AF%E6%A4%B0%E5%AD%90%E6%8A%A4%E8%82%A4%E5%93%81%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+![高端椰子护肤品产品摄影](../images/%E9%AB%98%E7%AB%AF%E6%A4%B0%E5%AD%90%E6%8A%A4%E8%82%A4%E5%93%81%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -5295,7 +5295,7 @@ Minimal {argument name="bottle color" default="white"} bottle with {argument nam
 
 ### 🏷️ 例 1925：受审查的兔女战士素描
 
-![受审查的兔女战士素描](../../images/%E5%8F%97%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%85%94%E5%A5%B3%E6%88%98%E5%A3%AB%E7%B4%A0%E6%8F%8F.jpg)
+![受审查的兔女战士素描](../images/%E5%8F%97%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%85%94%E5%A5%B3%E6%88%98%E5%A3%AB%E7%B4%A0%E6%8F%8F.jpg)
 
 **Prompt:**
 
@@ -5313,7 +5313,7 @@ Create a vertical 2:3 vintage dark-fantasy anime illustration of an adult rabbit
 
 ### 🏷️ 例 1956：Glossy Codex 与 Hermes Tech 缩略图
 
-![Glossy Codex 与 Hermes Tech 缩略图](../../images/Glossy%20Codex%20%E4%B8%8E%20Hermes%20Tech%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+![Glossy Codex 与 Hermes Tech 缩略图](../images/Glossy%20Codex%20%E4%B8%8E%20Hermes%20Tech%20%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5351,7 +5351,7 @@ Visual style: Hyper-polished Chinese tech creator thumbnail, sharp subject cutou
 
 ### 🏷️ 例 1981：守护的黑猫与嘶叫的小猫
 
-![守护的黑猫与嘶叫的小猫](../../images/%E5%AE%88%E6%8A%A4%E7%9A%84%E9%BB%91%E7%8C%AB%E4%B8%8E%E5%98%B6%E5%8F%AB%E7%9A%84%E5%B0%8F%E7%8C%AB.jpg)
+![守护的黑猫与嘶叫的小猫](../images/%E5%AE%88%E6%8A%A4%E7%9A%84%E9%BB%91%E7%8C%AB%E4%B8%8E%E5%98%B6%E5%8F%AB%E7%9A%84%E5%B0%8F%E7%8C%AB.jpg)
 
 **Prompt:**
 
@@ -5369,7 +5369,7 @@ Create a photorealistic cinematic close-up of exactly two black cats indoors: on
 
 ### 🏷️ 例 1991：新艺术风格珠宝蝴蝶
 
-![新艺术风格珠宝蝴蝶](../../images/%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%8F%A0%E5%AE%9D%E8%9D%B4%E8%9D%B6.jpg)
+![新艺术风格珠宝蝴蝶](../images/%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E7%8F%A0%E5%AE%9D%E8%9D%B4%E8%9D%B6.jpg)
 
 **Prompt:**
 
@@ -5387,7 +5387,7 @@ Create an ornate Art Nouveau fantasy illustration of a single enormous jeweled b
 
 ### 🏷️ 例 1996：电影级动漫风格照片转换
 
-![电影级动漫风格照片转换](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+![电影级动漫风格照片转换](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -5413,7 +5413,7 @@ Preservation constraints: do not change the child’s stance, hand positions, cl
 
 ### 🏷️ 例 2004：韩式美妆技巧缩略图
 
-![韩式美妆技巧缩略图](../../images/%E9%9F%A9%E5%BC%8F%E7%BE%8E%E5%A6%86%E6%8A%80%E5%B7%A7%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+![韩式美妆技巧缩略图](../images/%E9%9F%A9%E5%BC%8F%E7%BE%8E%E5%A6%86%E6%8A%80%E5%B7%A7%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5457,7 +5457,7 @@ Constraints: Do not add extra text blocks, extra people, logos, or watermarks. K
 
 ### 🏷️ 例 2010：绚丽的六月花园
 
-![绚丽的六月花园](../../images/%E7%BB%9A%E4%B8%BD%E7%9A%84%E5%85%AD%E6%9C%88%E8%8A%B1%E5%9B%AD.jpg)
+![绚丽的六月花园](../images/%E7%BB%9A%E4%B8%BD%E7%9A%84%E5%85%AD%E6%9C%88%E8%8A%B1%E5%9B%AD.jpg)
 
 **Prompt:**
 
@@ -5475,7 +5475,7 @@ Create a vibrant photorealistic midsummer garden landscape beside a calm river, 
 
 ### 🏷️ 例 2033：Reinecke Undine 森林标题卡
 
-![Reinecke Undine 森林标题卡](../../images/Reinecke%20Undine%20%E6%A3%AE%E6%9E%97%E6%A0%87%E9%A2%98%E5%8D%A1.jpg)
+![Reinecke Undine 森林标题卡](../images/Reinecke%20Undine%20%E6%A3%AE%E6%9E%97%E6%A0%87%E9%A2%98%E5%8D%A1.jpg)
 
 **Prompt:**
 
@@ -5493,7 +5493,7 @@ Create a cinematic horizontal title card for a classical music video about {argu
 
 ### 🏷️ 例 2106：加拿大橄榄球角色项目
 
-![加拿大橄榄球角色项目](../../images/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A9%84%E6%A6%84%E7%90%83%E8%A7%92%E8%89%B2%E9%A1%B9%E7%9B%AE.jpg)
+![加拿大橄榄球角色项目](../images/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A9%84%E6%A6%84%E7%90%83%E8%A7%92%E8%89%B2%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -5543,7 +5543,7 @@ Text and styling: Use crisp legible English labels. Bottom left note reads: “U
 
 ### 🏷️ 例 2110：故事书风格旅行日志插画
 
-![故事书风格旅行日志插画](../../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E6%8F%92%E7%94%BB.jpg)
+![故事书风格旅行日志插画](../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E9%A3%8E%E6%A0%BC%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5561,7 +5561,7 @@ Transform the uploaded photo into a {argument name="illustration style" default=
 
 ### 🏷️ 例 2114：GTA VI 风格动漫鬼族少女
 
-![GTA VI 风格动漫鬼族少女](../../images/GTA%20VI%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E9%AC%BC%E6%97%8F%E5%B0%91%E5%A5%B3.jpg)
+![GTA VI 风格动漫鬼族少女](../images/GTA%20VI%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E9%AC%BC%E6%97%8F%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -5579,7 +5579,7 @@ Merge themes, {argument name="style" default="GTA VI Girl cosplay"}, Image 2 Rea
 
 ### 🏷️ 例 2115：二战风暴海滩防御工事
 
-![二战风暴海滩防御工事](../../images/%E4%BA%8C%E6%88%98%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%BB%A9%E9%98%B2%E5%BE%A1%E5%B7%A5%E4%BA%8B.jpg)
+![二战风暴海滩防御工事](../images/%E4%BA%8C%E6%88%98%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%BB%A9%E9%98%B2%E5%BE%A1%E5%B7%A5%E4%BA%8B.jpg)
 
 **Prompt:**
 
@@ -5597,7 +5597,7 @@ Create a cinematic photorealistic wide shot of a bleak World War II beach invasi
 
 ### 🏷️ 例 2137：海边动漫少女速写
 
-![海边动漫少女速写](../../images/%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%80%9F%E5%86%99.jpg)
+![海边动漫少女速写](../images/%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%80%9F%E5%86%99.jpg)
 
 **Prompt:**
 
@@ -5615,7 +5615,7 @@ Lighthearted sketch-style anime aesthetic, A serene, anime-inspired illustration
 
 ### 🏷️ 例 2141：动漫风牛奶布丁咖啡馆问候图
 
-![动漫风牛奶布丁咖啡馆问候图](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E7%89%9B%E5%A5%B6%E5%B8%83%E4%B8%81%E5%92%96%E5%95%A1%E9%A6%86%E9%97%AE%E5%80%99%E5%9B%BE.jpg)
+![动漫风牛奶布丁咖啡馆问候图](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E7%89%9B%E5%A5%B6%E5%B8%83%E4%B8%81%E5%92%96%E5%95%A1%E9%A6%86%E9%97%AE%E5%80%99%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -5633,7 +5633,7 @@ Create a vibrant anime-style café greeting illustration at sunset featuring exa
 
 ### 🏷️ 例 2142：CCTV 监控录像美学
 
-![CCTV 监控录像美学](../../images/CCTV%20%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E7%BE%8E%E5%AD%A6.jpg)
+![CCTV 监控录像美学](../images/CCTV%20%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E7%BE%8E%E5%AD%A6.jpg)
 
 **Prompt:**
 
@@ -5651,7 +5651,7 @@ A CCTV-style surveillance footage of a {argument name="subject" default="stylish
 
 ### 🏷️ 例 2143：梦幻足球超现实主义插画
 
-![梦幻足球超现实主义插画](../../images/%E6%A2%A6%E5%B9%BB%E8%B6%B3%E7%90%83%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
+![梦幻足球超现实主义插画](../images/%E6%A2%A6%E5%B9%BB%E8%B6%B3%E7%90%83%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5669,7 +5669,7 @@ Dreamlike {argument name="theme" default="football-inspired"} surrealist illustr
 
 ### 🏷️ 例 2147：逼真的体育场球迷肖像
 
-![逼真的体育场球迷肖像](../../images/%E9%80%BC%E7%9C%9F%E7%9A%84%E4%BD%93%E8%82%B2%E5%9C%BA%E7%90%83%E8%BF%B7%E8%82%96%E5%83%8F.jpg)
+![逼真的体育场球迷肖像](../images/%E9%80%BC%E7%9C%9F%E7%9A%84%E4%BD%93%E8%82%B2%E5%9C%BA%E7%90%83%E8%BF%B7%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -5687,7 +5687,7 @@ A photorealistic stadium crowd scene featuring a stylish {argument name="subject
 
 ### 🏷️ 例 2150：历史发明可视化公式
 
-![历史发明可视化公式](../../images/%E5%8E%86%E5%8F%B2%E5%8F%91%E6%98%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%85%AC%E5%BC%8F.jpg)
+![历史发明可视化公式](../images/%E5%8E%86%E5%8F%B2%E5%8F%91%E6%98%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%85%AC%E5%BC%8F.jpg)
 
 **Prompt:**
 
@@ -5701,7 +5701,7 @@ innovation_ripple_effect_for_{argument name="invention" default="[historical_inv
 
 ### 🏷️ 例 2153：极简抽象光泽油画
 
-![极简抽象光泽油画](../../images/%E6%9E%81%E7%AE%80%E6%8A%BD%E8%B1%A1%E5%85%89%E6%B3%BD%E6%B2%B9%E7%94%BB.jpg)
+![极简抽象光泽油画](../images/%E6%9E%81%E7%AE%80%E6%8A%BD%E8%B1%A1%E5%85%89%E6%B3%BD%E6%B2%B9%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -5715,7 +5715,7 @@ innovation_ripple_effect_for_{argument name="invention" default="[historical_inv
 
 ### 🏷️ 例 2157：从草图到复古恐怖剧院场景
 
-![从草图到复古恐怖剧院场景](../../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E5%A4%8D%E5%8F%A4%E6%81%90%E6%80%96%E5%89%A7%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
+![从草图到复古恐怖剧院场景](../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E5%A4%8D%E5%8F%A4%E6%81%90%E6%80%96%E5%89%A7%E9%99%A2%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -5733,7 +5733,7 @@ Using the provided sketch as the composition and creature-design base, transform
 
 ### 🏷️ 例 2188：废墟大教堂中的狂野哥特恶魔少女
 
-![废墟大教堂中的狂野哥特恶魔少女](../../images/%E5%BA%9F%E5%A2%9F%E5%A4%A7%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E7%8B%82%E9%87%8E%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E5%B0%91%E5%A5%B3.jpg)
+![废墟大教堂中的狂野哥特恶魔少女](../images/%E5%BA%9F%E5%A2%9F%E5%A4%A7%E6%95%99%E5%A0%82%E4%B8%AD%E7%9A%84%E7%8B%82%E9%87%8E%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -5751,7 +5751,7 @@ Create a tall vertical dark fantasy anime illustration in a gritty monochrome in
 
 ### 🏷️ 例 2191：浮光记忆长廊
 
-![浮光记忆长廊](../../images/%E6%B5%AE%E5%85%89%E8%AE%B0%E5%BF%86%E9%95%BF%E5%BB%8A.jpg)
+![浮光记忆长廊](../images/%E6%B5%AE%E5%85%89%E8%AE%B0%E5%BF%86%E9%95%BF%E5%BB%8A.jpg)
 
 **Prompt:**
 
@@ -5769,7 +5769,7 @@ Show me {argument name="subject" default="walking through a corridor made of flo
 
 ### 🏷️ 例 2192：电影级角色身份项目
 
-![电影级角色身份项目](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%BA%AB%E4%BB%BD%E9%A1%B9%E7%9B%AE.jpg)
+![电影级角色身份项目](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%BA%AB%E4%BB%BD%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -5899,7 +5899,7 @@ The final image should feel like an artistic character identity board designed
 
 ### 🏷️ 例 2215：Minecraft 自拍照片集成
 
-![Minecraft 自拍照片集成](../../images/Minecraft%20%E8%87%AA%E6%8B%8D%E7%85%A7%E7%89%87%E9%9B%86%E6%88%90.jpg)
+![Minecraft 自拍照片集成](../images/Minecraft%20%E8%87%AA%E6%8B%8D%E7%85%A7%E7%89%87%E9%9B%86%E6%88%90.jpg)
 
 **Prompt:**
 
@@ -5917,7 +5917,7 @@ Use the provided {argument name="person name" default="Rafa Franco"} reference p
 
 ### 🏷️ 例 2253：极简手绘涂鸦风格
 
-![极简手绘涂鸦风格](../../images/%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+![极简手绘涂鸦风格](../images/%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -5935,7 +5935,7 @@ Transform the image into a minimalist hand-drawn doodle illustration. Use simple
 
 ### 🏷️ 例 2254：久经沙场的老兵肖像
 
-![久经沙场的老兵肖像](../../images/%E4%B9%85%E7%BB%8F%E6%B2%99%E5%9C%BA%E7%9A%84%E8%80%81%E5%85%B5%E8%82%96%E5%83%8F.jpg)
+![久经沙场的老兵肖像](../images/%E4%B9%85%E7%BB%8F%E6%B2%99%E5%9C%BA%E7%9A%84%E8%80%81%E5%85%B5%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -5949,7 +5949,7 @@ Transform the image into a minimalist hand-drawn doodle illustration. Use simple
 
 ### 🏷️ 例 2258：扁平涂鸦风格照片转换
 
-![扁平涂鸦风格照片转换](../../images/%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+![扁平涂鸦风格照片转换](../images/%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -5983,7 +5983,7 @@ Constraints: No photorealism, no painterly brushwork, no shadows, no hatching, n
 
 ### 🏷️ 例 2274：生活时尚公园拼贴画
 
-![生活时尚公园拼贴画](../../images/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A%E5%85%AC%E5%9B%AD%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![生活时尚公园拼贴画](../images/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A%E5%85%AC%E5%9B%AD%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6001,7 +6001,7 @@ Ultra realistic lifestyle fashion collage of a {argument name="subject" default=
 
 ### 🏷️ 例 2291：连贯的产品 Instagram 信息流布局
 
-![连贯的产品 Instagram 信息流布局](../../images/%E8%BF%9E%E8%B4%AF%E7%9A%84%E4%BA%A7%E5%93%81%20Instagram%20%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B8%83%E5%B1%80.jpg)
+![连贯的产品 Instagram 信息流布局](../images/%E8%BF%9E%E8%B4%AF%E7%9A%84%E4%BA%A7%E5%93%81%20Instagram%20%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B8%83%E5%B1%80.jpg)
 
 **Prompt:**
 
@@ -6019,7 +6019,7 @@ Design a 9-image Instagram feed for this product in {argument name="aesthetic st
 
 ### 🏷️ 例 2295：浪漫红色夜色氛围
 
-![浪漫红色夜色氛围](../../images/%E6%B5%AA%E6%BC%AB%E7%BA%A2%E8%89%B2%E5%A4%9C%E8%89%B2%E6%B0%9B%E5%9B%B4.jpg)
+![浪漫红色夜色氛围](../images/%E6%B5%AA%E6%BC%AB%E7%BA%A2%E8%89%B2%E5%A4%9C%E8%89%B2%E6%B0%9B%E5%9B%B4.jpg)
 
 **Prompt:**
 
@@ -6033,7 +6033,7 @@ Design a 9-image Instagram feed for this product in {argument name="aesthetic st
 
 ### 🏷️ 例 2298：夜市晚餐肖像
 
-![夜市晚餐肖像](../../images/%E5%A4%9C%E5%B8%82%E6%99%9A%E9%A4%90%E8%82%96%E5%83%8F.jpg)
+![夜市晚餐肖像](../images/%E5%A4%9C%E5%B8%82%E6%99%9A%E9%A4%90%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6051,7 +6051,7 @@ Create a realistic candid nighttime food-market photo of a young woman seated at
 
 ### 🏷️ 例 2308：极简涂鸦素描插画
 
-![极简涂鸦素描插画](../../images/%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F%E6%8F%92%E7%94%BB.jpg)
+![极简涂鸦素描插画](../images/%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6069,7 +6069,7 @@ Transform the image into a {argument name="art style" default="minimalist hand-d
 
 ### 🏷️ 例 2330：复古像素风头像
 
-![复古像素风头像](../../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
+![复古像素风头像](../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6087,7 +6087,7 @@ Create a square 1:1 profile picture using the {argument name="reference" default
 
 ### 🏷️ 例 2335：无脸动漫男子怀抱三花猫
 
-![无脸动漫男子怀抱三花猫](../../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90%E6%80%80%E6%8A%B1%E4%B8%89%E8%8A%B1%E7%8C%AB.jpg)
+![无脸动漫男子怀抱三花猫](../images/%E6%97%A0%E8%84%B8%E5%8A%A8%E6%BC%AB%E7%94%B7%E5%AD%90%E6%80%80%E6%8A%B1%E4%B8%89%E8%8A%B1%E7%8C%AB.jpg)
 
 **Prompt:**
 
@@ -6105,7 +6105,7 @@ Create a full-body anime-style portrait of {argument name="character name" defau
 
 ### 🏷️ 例 2336：日式开发者评论横幅
 
-![日式开发者评论横幅](../../images/%E6%97%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85%E8%AF%84%E8%AE%BA%E6%A8%AA%E5%B9%85.jpg)
+![日式开发者评论横幅](../images/%E6%97%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85%E8%AF%84%E8%AE%BA%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -6123,7 +6123,7 @@ Create a transparent-background decorative Japanese lower-third banner for a sho
 
 ### 🏷️ 例 2351：蓝色花卉纸雕舞台
 
-![蓝色花卉纸雕舞台](../../images/%E8%93%9D%E8%89%B2%E8%8A%B1%E5%8D%89%E7%BA%B8%E9%9B%95%E8%88%9E%E5%8F%B0.jpg)
+![蓝色花卉纸雕舞台](../images/%E8%93%9D%E8%89%B2%E8%8A%B1%E5%8D%89%E7%BA%B8%E9%9B%95%E8%88%9E%E5%8F%B0.jpg)
 
 **Prompt:**
 
@@ -6169,7 +6169,7 @@ Constraints: Keep the palette cohesive in blue and white, avoid extra characters
 
 ### 🏷️ 例 2357：1985 年北京胡同街头摄影
 
-![1985 年北京胡同街头摄影](../../images/1985%20%E5%B9%B4%E5%8C%97%E4%BA%AC%E8%83%A1%E5%90%8C%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
+![1985 年北京胡同街头摄影](../images/1985%20%E5%B9%B4%E5%8C%97%E4%BA%AC%E8%83%A1%E5%90%8C%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -6187,7 +6187,7 @@ Constraints: Keep the palette cohesive in blue and white, avoid extra characters
 
 ### 🏷️ 例 2374：洗衣机视角下的自助洗衣店人像
 
-![洗衣机视角下的自助洗衣店人像](../../images/%E6%B4%97%E8%A1%A3%E6%9C%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E4%BA%BA%E5%83%8F.jpg)
+![洗衣机视角下的自助洗衣店人像](../images/%E6%B4%97%E8%A1%A3%E6%9C%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6205,7 +6205,7 @@ Create a fisheye, inside-the-washing-machine point-of-view fashion photo of {arg
 
 ### 🏷️ 例 2377：FIFA 世界杯动漫海报
 
-![FIFA 世界杯动漫海报](../../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
+![FIFA 世界杯动漫海报](../images/FIFA%20%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -6223,7 +6223,7 @@ Ultra detailed FIFA World Cup 2026 pop-art anime illustration of {argument name=
 
 ### 🏷️ 例 2389：深褐色动漫贵族与镜子
 
-![深褐色动漫贵族与镜子](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8A%A8%E6%BC%AB%E8%B4%B5%E6%97%8F%E4%B8%8E%E9%95%9C%E5%AD%90.jpg)
+![深褐色动漫贵族与镜子](../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8A%A8%E6%BC%AB%E8%B4%B5%E6%97%8F%E4%B8%8E%E9%95%9C%E5%AD%90.jpg)
 
 **Prompt:**
 
@@ -6241,7 +6241,7 @@ Create a vertical 9:16 monochrome sepia anime illustration of an androgynous you
 
 ### 🏷️ 例 2391：涂鸦墨水动画风格
 
-![涂鸦墨水动画风格](../../images/%E6%B6%82%E9%B8%A6%E5%A2%A8%E6%B0%B4%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+![涂鸦墨水动画风格](../images/%E6%B6%82%E9%B8%A6%E5%A2%A8%E6%B0%B4%E5%8A%A8%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -6259,7 +6259,7 @@ Graffiti-inspired sketch animation, expressive ink scribbles, loose gestural dra
 
 ### 🏷️ 例 2392：异世界龙女的火焰商店
 
-![异世界龙女的火焰商店](../../images/%E5%BC%82%E4%B8%96%E7%95%8C%E9%BE%99%E5%A5%B3%E7%9A%84%E7%81%AB%E7%84%B0%E5%95%86%E5%BA%97.jpg)
+![异世界龙女的火焰商店](../images/%E5%BC%82%E4%B8%96%E7%95%8C%E9%BE%99%E5%A5%B3%E7%9A%84%E7%81%AB%E7%84%B0%E5%95%86%E5%BA%97.jpg)
 
 **Prompt:**
 
@@ -6296,7 +6296,7 @@ Graffiti-inspired sketch animation, expressive ink scribbles, loose gestural dra
 
 ### 🏷️ 例 2426：复古世界杯像素精灵
 
-![复古世界杯像素精灵](../../images/%E5%A4%8D%E5%8F%A4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%83%8F%E7%B4%A0%E7%B2%BE%E7%81%B5.jpg)
+![复古世界杯像素精灵](../images/%E5%A4%8D%E5%8F%A4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%83%8F%E7%B4%A0%E7%B2%BE%E7%81%B5.jpg)
 
 **Prompt:**
 
@@ -6314,7 +6314,7 @@ Create a square-inspired FIFA World Cup 2026 profile portrait in a 4:5 aspect ra
 
 ### 🏷️ 例 2429：黄金时刻城市天台时尚大片
 
-![黄金时刻城市天台时尚大片](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%9F%8E%E5%B8%82%E5%A4%A9%E5%8F%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![黄金时刻城市天台时尚大片](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E5%9F%8E%E5%B8%82%E5%A4%A9%E5%8F%B0%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -6332,7 +6332,7 @@ Wide editorial shot, woman in {argument name="outfit" default="bold yellow-teal 
 
 ### 🏷️ 例 2430：复古像素风头像
 
-![复古像素风头像](../../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
+![复古像素风头像](../images/%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E9%A3%8E%E5%A4%B4%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6350,7 +6350,7 @@ Create a square 1:1 profile picture using the uploaded image as the exact refere
 
 ### 🏷️ 例 2462：电影感反派对决项目
 
-![电影感反派对决项目](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8F%8D%E6%B4%BE%E5%AF%B9%E5%86%B3%E9%A1%B9%E7%9B%AE.jpg)
+![电影感反派对决项目](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8F%8D%E6%B4%BE%E5%AF%B9%E5%86%B3%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -6368,7 +6368,7 @@ Create a {argument name="aspect ratio" default="16:9"} energetic {argument name=
 
 ### 🏷️ 例 2465：荒诞风格 2D 橡胶卡通插画
 
-![荒诞风格 2D 橡胶卡通插画](../../images/%E8%8D%92%E8%AF%9E%E9%A3%8E%E6%A0%BC%202D%20%E6%A9%A1%E8%83%B6%E5%8D%A1%E9%80%9A%E6%8F%92%E7%94%BB.jpg)
+![荒诞风格 2D 橡胶卡通插画](../images/%E8%8D%92%E8%AF%9E%E9%A3%8E%E6%A0%BC%202D%20%E6%A9%A1%E8%83%B6%E5%8D%A1%E9%80%9A%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6406,7 +6406,7 @@ Style DNA: Flat 2D editorial cartoon, inspired by classic American animation wit
 
 ### 🏷️ 例 2478：19 世纪复古黑白雕版画
 
-![19 世纪复古黑白雕版画](../../images/19%20%E4%B8%96%E7%BA%AA%E5%A4%8D%E5%8F%A4%E9%BB%91%E7%99%BD%E9%9B%95%E7%89%88%E7%94%BB.jpg)
+![19 世纪复古黑白雕版画](../images/19%20%E4%B8%96%E7%BA%AA%E5%A4%8D%E5%8F%A4%E9%BB%91%E7%99%BD%E9%9B%95%E7%89%88%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6424,7 +6424,7 @@ A symmetrically composed black-and-white vintage engraving of a {argument name="
 
 ### 🏷️ 例 2486：21 世纪初 CCD 视频日记项目
 
-![21 世纪初 CCD 视频日记项目](../../images/21%20%E4%B8%96%E7%BA%AA%E5%88%9D%20CCD%20%E8%A7%86%E9%A2%91%E6%97%A5%E8%AE%B0%E9%A1%B9%E7%9B%AE.jpg)
+![21 世纪初 CCD 视频日记项目](../images/21%20%E4%B8%96%E7%BA%AA%E5%88%9D%20CCD%20%E8%A7%86%E9%A2%91%E6%97%A5%E8%AE%B0%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -6442,7 +6442,7 @@ Early 2000s Ccd Video Diary Storyboard. Reusable visual prompt for {argument nam
 
 ### 🏷️ 例 2492：梦幻柔和浪漫情侣插画
 
-![梦幻柔和浪漫情侣插画](../../images/%E6%A2%A6%E5%B9%BB%E6%9F%94%E5%92%8C%E6%B5%AA%E6%BC%AB%E6%83%85%E4%BE%A3%E6%8F%92%E7%94%BB.jpg)
+![梦幻柔和浪漫情侣插画](../images/%E6%A2%A6%E5%B9%BB%E6%9F%94%E5%92%8C%E6%B5%AA%E6%BC%AB%E6%83%85%E4%BE%A3%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6460,7 +6460,7 @@ Transform the reference into a {argument name="style" default="dreamy, whimsical
 
 ### 🏷️ 例 2495：赛博黑色电影明暗对照肖像
 
-![赛博黑色电影明暗对照肖像](../../images/%E8%B5%9B%E5%8D%9A%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E6%98%8E%E6%9A%97%E5%AF%B9%E7%85%A7%E8%82%96%E5%83%8F.jpg)
+![赛博黑色电影明暗对照肖像](../images/%E8%B5%9B%E5%8D%9A%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E6%98%8E%E6%9A%97%E5%AF%B9%E7%85%A7%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6478,7 +6478,7 @@ The subject is seen from a subtle side profile, her head slightly tilted up, eye
 
 ### 🏷️ 例 2498：肉じゃがアニメ料理项目
 
-![肉じゃがアニメ料理项目](../../images/%E8%82%89%E3%81%98%E3%82%83%E3%81%8C%E3%82%A2%E3%83%8B%E3%83%A1%E6%96%99%E7%90%86%E9%A1%B9%E7%9B%AE.jpg)
+![肉じゃがアニメ料理项目](../images/%E8%82%89%E3%81%98%E3%82%83%E3%81%8C%E3%82%A2%E3%83%8B%E3%83%A1%E6%96%99%E7%90%86%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -6536,7 +6536,7 @@ Constraints: The image must read as one cohesive storyboard sheet, not separate 
 
 ### 🏷️ 例 2505：皮克斯风格奇幻黄金时刻渲染
 
-![皮克斯风格奇幻黄金时刻渲染](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E5%A5%87%E5%B9%BB%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E6%B8%B2%E6%9F%93.jpg)
+![皮克斯风格奇幻黄金时刻渲染](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E5%A5%87%E5%B9%BB%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E6%B8%B2%E6%9F%93.jpg)
 
 **Prompt:**
 
@@ -6554,7 +6554,7 @@ Constraints: The image must read as one cohesive storyboard sheet, not separate 
 
 ### 🏷️ 例 2517：网红生活方式摄影
 
-![网红生活方式摄影](../../images/%E7%BD%91%E7%BA%A2%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%91%84%E5%BD%B1.jpg)
+![网红生活方式摄影](../images/%E7%BD%91%E7%BA%A2%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -6572,7 +6572,7 @@ Constraints: The image must read as one cohesive storyboard sheet, not separate 
 
 ### 🏷️ 例 2524：悬浮 iPhone 产品渲染图
 
-![悬浮 iPhone 产品渲染图](../../images/%E6%82%AC%E6%B5%AE%20iPhone%20%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+![悬浮 iPhone 产品渲染图](../images/%E6%82%AC%E6%B5%AE%20iPhone%20%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -6590,7 +6590,7 @@ Premium product shot of a {argument name="product name" default="iPhone 17 Pro M
 
 ### 🏷️ 例 2545：Q 版早安问候贴纸
 
-![Q 版早安问候贴纸](../../images/Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
+![Q 版早安问候贴纸](../images/Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -6608,7 +6608,7 @@ Create a cute chibi anime sticker illustration on a black background, shaped lik
 
 ### 🏷️ 例 2548：响尾蛇 GPU “Come and Take It” 图案
 
-![响尾蛇 GPU “Come and Take It” 图案](../../images/%E5%93%8D%E5%B0%BE%E8%9B%87%20GPU%20%E2%80%9CCome%20and%20Take%20It%E2%80%9D%20%E5%9B%BE%E6%A1%88.jpg)
+![响尾蛇 GPU “Come and Take It” 图案](../images/%E5%93%8D%E5%B0%BE%E8%9B%87%20GPU%20%E2%80%9CCome%20and%20Take%20It%E2%80%9D%20%E5%9B%BE%E6%A1%88.jpg)
 
 **Prompt:**
 
@@ -6626,7 +6626,7 @@ Create a bold black-background graphic in the style of a vintage political flag 
 
 ### 🏷️ 例 2549：日落时分悬崖上的跑车
 
-![日落时分悬崖上的跑车](../../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E6%82%AC%E5%B4%96%E4%B8%8A%E7%9A%84%E8%B7%91%E8%BD%A6.jpg)
+![日落时分悬崖上的跑车](../images/%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E6%82%AC%E5%B4%96%E4%B8%8A%E7%9A%84%E8%B7%91%E8%BD%A6.jpg)
 
 **Prompt:**
 
@@ -6644,7 +6644,7 @@ Create a cinematic photorealistic landscape scene at the edge of the world: a si
 
 ### 🏷️ 例 2566：未来感动漫战术概念设计图
 
-![未来感动漫战术概念设计图](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8A%A8%E6%BC%AB%E6%88%98%E6%9C%AF%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![未来感动漫战术概念设计图](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8A%A8%E6%BC%AB%E6%88%98%E6%9C%AF%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -6700,7 +6700,7 @@ high-end collectible character sheet
 
 ### 🏷️ 例 2569：全息赛博流行偶像
 
-![全息赛博流行偶像](../../images/%E5%85%A8%E6%81%AF%E8%B5%9B%E5%8D%9A%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F.jpg)
+![全息赛博流行偶像](../images/%E5%85%A8%E6%81%AF%E8%B5%9B%E5%8D%9A%E6%B5%81%E8%A1%8C%E5%81%B6%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6718,7 +6718,7 @@ Create a full-body anime fashion illustration of a futuristic cyberpop idol woma
 
 ### 🏷️ 例 2577：趣味童真涂鸦插画
 
-![趣味童真涂鸦插画](../../images/%E8%B6%A3%E5%91%B3%E7%AB%A5%E7%9C%9F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+![趣味童真涂鸦插画](../images/%E8%B6%A3%E5%91%B3%E7%AB%A5%E7%9C%9F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6736,7 +6736,7 @@ Reconstruct this image as a single flat illustration infused with playful {argum
 
 ### 🏷️ 例 2587：夏日海边动漫少女
 
-![夏日海边动漫少女](../../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![夏日海边动漫少女](../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E8%BE%B9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -6754,7 +6754,7 @@ Create a soft, luminous anime-style summer illustration of {argument name="chara
 
 ### 🏷️ 例 2611：复古宝丽来咖啡馆快照
 
-![复古宝丽来咖啡馆快照](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E5%92%96%E5%95%A1%E9%A6%86%E5%BF%AB%E7%85%A7.jpg)
+![复古宝丽来咖啡馆快照](../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E5%92%96%E5%95%A1%E9%A6%86%E5%BF%AB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -6774,7 +6774,7 @@ Aesthetic candid café snapshot presented as a realistic vintage Polaroid instan
 
 ### 🏷️ 例 2624：动漫海边刨冰泳装少女
 
-![动漫海边刨冰泳装少女](../../images/%E5%8A%A8%E6%BC%AB%E6%B5%B7%E8%BE%B9%E5%88%A8%E5%86%B0%E6%B3%B3%E8%A3%85%E5%B0%91%E5%A5%B3.jpg)
+![动漫海边刨冰泳装少女](../images/%E5%8A%A8%E6%BC%AB%E6%B5%B7%E8%BE%B9%E5%88%A8%E5%86%B0%E6%B3%B3%E8%A3%85%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -6792,7 +6792,7 @@ Create a polished anime-style vertical illustration of {argument name="character
 
 ### 🏷️ 例 2633：“生命之火”蜡烛超现实肖像
 
-![“生命之火”蜡烛超现实肖像](../../images/%E2%80%9C%E7%94%9F%E5%91%BD%E4%B9%8B%E7%81%AB%E2%80%9D%E8%9C%A1%E7%83%9B%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
+![“生命之火”蜡烛超现实肖像](../images/%E2%80%9C%E7%94%9F%E5%91%BD%E4%B9%8B%E7%81%AB%E2%80%9D%E8%9C%A1%E7%83%9B%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6810,7 +6810,7 @@ Transform the uploaded portrait into a surreal cinematic artwork where the perso
 
 ### 🏷️ 例 2644：浪漫蛋糕装饰人像
 
-![浪漫蛋糕装饰人像](../../images/%E6%B5%AA%E6%BC%AB%E8%9B%8B%E7%B3%95%E8%A3%85%E9%A5%B0%E4%BA%BA%E5%83%8F.jpg)
+![浪漫蛋糕装饰人像](../images/%E6%B5%AA%E6%BC%AB%E8%9B%8B%E7%B3%95%E8%A3%85%E9%A5%B0%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -6828,7 +6828,7 @@ Create a vertical 9:16 ultra-realistic editorial fashion photo of a young woman 
 
 ### 🏷️ 例 2653：抽象仿生混合媒介绘画
 
-![抽象仿生混合媒介绘画](../../images/%E6%8A%BD%E8%B1%A1%E4%BB%BF%E7%94%9F%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BB%98%E7%94%BB.jpg)
+![抽象仿生混合媒介绘画](../images/%E6%8A%BD%E8%B1%A1%E4%BB%BF%E7%94%9F%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BB%98%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -6846,7 +6846,7 @@ Abstract biomorphic mixed-media painting of {argument name="human subject" defau
 
 ### 🏷️ 例 2673：带有白鹅的城堡岛屿
 
-![带有白鹅的城堡岛屿](../../images/%E5%B8%A6%E6%9C%89%E7%99%BD%E9%B9%85%E7%9A%84%E5%9F%8E%E5%A0%A1%E5%B2%9B%E5%B1%BF.jpg)
+![带有白鹅的城堡岛屿](../images/%E5%B8%A6%E6%9C%89%E7%99%BD%E9%B9%85%E7%9A%84%E5%9F%8E%E5%A0%A1%E5%B2%9B%E5%B1%BF.jpg)
 
 **Prompt:**
 
@@ -6864,7 +6864,7 @@ Create a vertical 4:5 fantasy-realistic landscape illustration of {argument name
 
 ### 🏷️ 例 2680：Patchouli Yukkuri 宠物店展示
 
-![Patchouli Yukkuri 宠物店展示](../../images/Patchouli%20Yukkuri%20%E5%AE%A0%E7%89%A9%E5%BA%97%E5%B1%95%E7%A4%BA.jpg)
+![Patchouli Yukkuri 宠物店展示](../images/Patchouli%20Yukkuri%20%E5%AE%A0%E7%89%A9%E5%BA%97%E5%B1%95%E7%A4%BA.jpg)
 
 **Prompt:**
 
@@ -6906,7 +6906,7 @@ Constraints: Use only one character, one book, one cage compartment as the main 
 
 ### 🏷️ 例 2681：女孩奔跑在魔法森林中
 
-![女孩奔跑在魔法森林中](../../images/%E5%A5%B3%E5%AD%A9%E5%A5%94%E8%B7%91%E5%9C%A8%E9%AD%94%E6%B3%95%E6%A3%AE%E6%9E%97%E4%B8%AD.jpg)
+![女孩奔跑在魔法森林中](../images/%E5%A5%B3%E5%AD%A9%E5%A5%94%E8%B7%91%E5%9C%A8%E9%AD%94%E6%B3%95%E6%A3%AE%E6%9E%97%E4%B8%AD.jpg)
 
 **Prompt:**
 
@@ -6924,7 +6924,7 @@ Create a warm cinematic anime-style forest scene in a vertical 2:3 composition. 
 
 ### 🏷️ 例 2685：韩国嘻哈动漫 MV 截图
 
-![韩国嘻哈动漫 MV 截图](../../images/%E9%9F%A9%E5%9B%BD%E5%98%BB%E5%93%88%E5%8A%A8%E6%BC%AB%20MV%20%E6%88%AA%E5%9B%BE.jpg)
+![韩国嘻哈动漫 MV 截图](../images/%E9%9F%A9%E5%9B%BD%E5%98%BB%E5%93%88%E5%8A%A8%E6%BC%AB%20MV%20%E6%88%AA%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -6966,7 +6966,7 @@ Constraints: Keep all visible text in Korean exactly where specified. Do not add
 
 ### 🏷️ 例 2694：足球传奇排版艺术作品
 
-![足球传奇排版艺术作品](../../images/%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%8E%92%E7%89%88%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
+![足球传奇排版艺术作品](../images/%E8%B6%B3%E7%90%83%E4%BC%A0%E5%A5%87%E6%8E%92%E7%89%88%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81.jpg)
 
 **Prompt:**
 
@@ -6984,7 +6984,7 @@ Create an original, high-contrast editorial typographic artwork featuring an ath
 
 ### 🏷️ 例 2696：异想天开的扁平涂鸦艺术重构
 
-![异想天开的扁平涂鸦艺术重构](../../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E9%87%8D%E6%9E%84.jpg)
+![异想天开的扁平涂鸦艺术重构](../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%89%81%E5%B9%B3%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E9%87%8D%E6%9E%84.jpg)
 
 **Prompt:**
 
@@ -7002,7 +7002,7 @@ Reconstruct this image as a single flat illustration infused with playful, child
 
 ### 🏷️ 例 2697：月光下的哥特式监狱长
 
-![月光下的哥特式监狱长](../../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%93%A5%E7%89%B9%E5%BC%8F%E7%9B%91%E7%8B%B1%E9%95%BF.jpg)
+![月光下的哥特式监狱长](../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%93%A5%E7%89%B9%E5%BC%8F%E7%9B%91%E7%8B%B1%E9%95%BF.jpg)
 
 **Prompt:**
 
@@ -7020,7 +7020,7 @@ Create a dark, polished anime illustration of a stern young male prison warden o
 
 ### 🏷️ 例 2698：故事书奇幻芭菲制作器
 
-![故事书奇幻芭菲制作器](../../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E5%A5%87%E5%B9%BB%E8%8A%AD%E8%8F%B2%E5%88%B6%E4%BD%9C%E5%99%A8.jpg)
+![故事书奇幻芭菲制作器](../images/%E6%95%85%E4%BA%8B%E4%B9%A6%E5%A5%87%E5%B9%BB%E8%8A%AD%E8%8F%B2%E5%88%B6%E4%BD%9C%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -7056,7 +7056,7 @@ Ultra detailed premium dessert illustration, elegant café advertisement aesthet
 
 ### 🏷️ 例 2707：动漫少女骑乘无人机飞越富士山
 
-![动漫少女骑乘无人机飞越富士山](../../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%AA%91%E4%B9%98%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E8%B6%8A%E5%AF%8C%E5%A3%AB%E5%B1%B1.jpg)
+![动漫少女骑乘无人机飞越富士山](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E9%AA%91%E4%B9%98%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E8%B6%8A%E5%AF%8C%E5%A3%AB%E5%B1%B1.jpg)
 
 **Prompt:**
 
@@ -7074,7 +7074,7 @@ Create a bright anime-style illustration of a cheerful schoolgirl riding on top 
 
 ### 🏷️ 例 2722：漂浮在夏日云端的动漫少女
 
-![漂浮在夏日云端的动漫少女](../../images/%E6%BC%82%E6%B5%AE%E5%9C%A8%E5%A4%8F%E6%97%A5%E4%BA%91%E7%AB%AF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![漂浮在夏日云端的动漫少女](../images/%E6%BC%82%E6%B5%AE%E5%9C%A8%E5%A4%8F%E6%97%A5%E4%BA%91%E7%AB%AF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -7092,7 +7092,7 @@ Create a vertical anime-style summer illustration of {argument name="character n
 
 ### 🏷️ 例 2724：柏林骄傲游行纪实街头摄影
 
-![柏林骄傲游行纪实街头摄影](../../images/%E6%9F%8F%E6%9E%97%E9%AA%84%E5%82%B2%E6%B8%B8%E8%A1%8C%E7%BA%AA%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
+![柏林骄傲游行纪实街头摄影](../images/%E6%9F%8F%E6%9E%97%E9%AA%84%E5%82%B2%E6%B8%B8%E8%A1%8C%E7%BA%AA%E5%AE%9E%E8%A1%97%E5%A4%B4%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -7110,7 +7110,7 @@ A mid-shot documentary photograph on Kurfürstendamm, Berlin, during Christopher
 
 ### 🏷️ 例 2744：未来感森林山地自行车第一视角
 
-![未来感森林山地自行车第一视角](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%A3%AE%E6%9E%97%E5%B1%B1%E5%9C%B0%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92.jpg)
+![未来感森林山地自行车第一视角](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%A3%AE%E6%9E%97%E5%B1%B1%E5%9C%B0%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92.jpg)
 
 **Prompt:**
 
@@ -7128,7 +7128,7 @@ Ultra cinematic first-person POV shot of riding a {argument name="vehicle" defau
 
 ### 🏷️ 例 2751：巨型仓鼠烘焙店大追捕
 
-![巨型仓鼠烘焙店大追捕](../../images/%E5%B7%A8%E5%9E%8B%E4%BB%93%E9%BC%A0%E7%83%98%E7%84%99%E5%BA%97%E5%A4%A7%E8%BF%BD%E6%8D%95.jpg)
+![巨型仓鼠烘焙店大追捕](../images/%E5%B7%A8%E5%9E%8B%E4%BB%93%E9%BC%A0%E7%83%98%E7%84%99%E5%BA%97%E5%A4%A7%E8%BF%BD%E6%8D%95.jpg)
 
 **Prompt:**
 
@@ -7146,7 +7146,7 @@ Create a dynamic cinematic AI-art scene inside a warm, golden-lit cake shop at f
 
 ### 🏷️ 例 2762：品牌化美食摄影转换
 
-![品牌化美食摄影转换](../../images/%E5%93%81%E7%89%8C%E5%8C%96%E7%BE%8E%E9%A3%9F%E6%91%84%E5%BD%B1%E8%BD%AC%E6%8D%A2.jpg)
+![品牌化美食摄影转换](../images/%E5%93%81%E7%89%8C%E5%8C%96%E7%BE%8E%E9%A3%9F%E6%91%84%E5%BD%B1%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -7169,7 +7169,7 @@ Create a dynamic cinematic AI-art scene inside a warm, golden-lit cake shop at f
 
 ### 🏷️ 例 2780：角色冰棒包装设计
 
-![角色冰棒包装设计](../../images/%E8%A7%92%E8%89%B2%E5%86%B0%E6%A3%92%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
+![角色冰棒包装设计](../images/%E8%A7%92%E8%89%B2%E5%86%B0%E6%A3%92%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -7249,7 +7249,7 @@ masterpiece.
 
 ### 🏷️ 例 2783：写实沙发人像与罗纹连衣裙
 
-![写实沙发人像与罗纹连衣裙](../../images/%E5%86%99%E5%AE%9E%E6%B2%99%E5%8F%91%E4%BA%BA%E5%83%8F%E4%B8%8E%E7%BD%97%E7%BA%B9%E8%BF%9E%E8%A1%A3%E8%A3%99.jpg)
+![写实沙发人像与罗纹连衣裙](../images/%E5%86%99%E5%AE%9E%E6%B2%99%E5%8F%91%E4%BA%BA%E5%83%8F%E4%B8%8E%E7%BD%97%E7%BA%B9%E8%BF%9E%E8%A1%A3%E8%A3%99.jpg)
 
 **Prompt:**
 
@@ -7267,7 +7267,7 @@ A young adult woman sits on a gray fabric sofa against a warm white indoor wall,
 
 ### 🏷️ 例 2799：云雾品牌 Logo 场景
 
-![云雾品牌 Logo 场景](../../images/%E4%BA%91%E9%9B%BE%E5%93%81%E7%89%8C%20Logo%20%E5%9C%BA%E6%99%AF.jpg)
+![云雾品牌 Logo 场景](../images/%E4%BA%91%E9%9B%BE%E5%93%81%E7%89%8C%20Logo%20%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -7291,7 +7291,7 @@ Ultra-detailed, 8K quality, depth of field, soft fog diffusion, HDR lighting, hi
 
 ### 🏷️ 例 2800：舞台上的三位全息动漫偶像
 
-![舞台上的三位全息动漫偶像](../../images/%E8%88%9E%E5%8F%B0%E4%B8%8A%E7%9A%84%E4%B8%89%E4%BD%8D%E5%85%A8%E6%81%AF%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
+![舞台上的三位全息动漫偶像](../images/%E8%88%9E%E5%8F%B0%E4%B8%8A%E7%9A%84%E4%B8%89%E4%BD%8D%E5%85%A8%E6%81%AF%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -7309,7 +7309,7 @@ Create a wide 16:9 anime idol concert scene on a futuristic holographic stage, f
 
 ### 🏷️ 例 2809：动漫英雄跃过城市
 
-![动漫英雄跃过城市](../../images/%E5%8A%A8%E6%BC%AB%E8%8B%B1%E9%9B%84%E8%B7%83%E8%BF%87%E5%9F%8E%E5%B8%82.jpg)
+![动漫英雄跃过城市](../images/%E5%8A%A8%E6%BC%AB%E8%8B%B1%E9%9B%84%E8%B7%83%E8%BF%87%E5%9F%8E%E5%B8%82.jpg)
 
 **Prompt:**
 
@@ -7327,7 +7327,7 @@ Create a dynamic anime-style vertical illustration of {argument name="character 
 
 ### 🏷️ 例 2817：女性人物铅笔动态素描
 
-![女性人物铅笔动态素描](../../images/%E5%A5%B3%E6%80%A7%E4%BA%BA%E7%89%A9%E9%93%85%E7%AC%94%E5%8A%A8%E6%80%81%E7%B4%A0%E6%8F%8F.jpg)
+![女性人物铅笔动态素描](../images/%E5%A5%B3%E6%80%A7%E4%BA%BA%E7%89%A9%E9%93%85%E7%AC%94%E5%8A%A8%E6%80%81%E7%B4%A0%E6%8F%8F.jpg)
 
 **Prompt:**
 
@@ -7353,7 +7353,7 @@ Aspect Ratio: Vertical sketchbook page, 3:4
 
 ### 🏷️ 例 2831：未来感霓虹线框运动员肖像
 
-![未来感霓虹线框运动员肖像](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E9%9C%93%E8%99%B9%E7%BA%BF%E6%A1%86%E8%BF%90%E5%8A%A8%E5%91%98%E8%82%96%E5%83%8F.jpg)
+![未来感霓虹线框运动员肖像](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E9%9C%93%E8%99%B9%E7%BA%BF%E6%A1%86%E8%BF%90%E5%8A%A8%E5%91%98%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -7371,7 +7371,7 @@ Transform the uploaded image into a {argument name="visual style" default="futur
 
 ### 🏷️ 例 2849：黄金时刻网球俱乐部时尚摄影
 
-![黄金时刻网球俱乐部时尚摄影](../../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E7%BD%91%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
+![黄金时刻网球俱乐部时尚摄影](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E7%BD%91%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -7389,7 +7389,7 @@ Create a realistic editorial fashion photograph of two stylish young women enter
 
 ### 🏷️ 例 2850：外卖包装系统设计
 
-![外卖包装系统设计](../../images/%E5%A4%96%E5%8D%96%E5%8C%85%E8%A3%85%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.jpg)
+![外卖包装系统设计](../images/%E5%A4%96%E5%8D%96%E5%8C%85%E8%A3%85%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -7403,7 +7403,7 @@ Create a realistic editorial fashion photograph of two stylish young women enter
 
 ### 🏷️ 例 2857：哥特恶魔领主高定装
 
-![哥特恶魔领主高定装](../../images/%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E9%A2%86%E4%B8%BB%E9%AB%98%E5%AE%9A%E8%A3%85.jpg)
+![哥特恶魔领主高定装](../images/%E5%93%A5%E7%89%B9%E6%81%B6%E9%AD%94%E9%A2%86%E4%B8%BB%E9%AB%98%E5%AE%9A%E8%A3%85.jpg)
 
 **Prompt:**
 
@@ -7421,7 +7421,7 @@ Create a dramatic full-body dark fantasy anime illustration of {argument name="c
 
 ### 🏷️ 例 2871：可爱 Q 版早安问候贴纸
 
-![可爱 Q 版早安问候贴纸](../../images/%E5%8F%AF%E7%88%B1%20Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
+![可爱 Q 版早安问候贴纸](../images/%E5%8F%AF%E7%88%B1%20Q%20%E7%89%88%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E8%B4%B4%E7%BA%B8.jpg)
 
 **Prompt:**
 
@@ -7439,7 +7439,7 @@ Create a cute chibi anime sticker illustration on a black background, with a thi
 
 ### 🏷️ 例 2872：史前沼泽景观
 
-![史前沼泽景观](../../images/%E5%8F%B2%E5%89%8D%E6%B2%BC%E6%B3%BD%E6%99%AF%E8%A7%82.jpg)
+![史前沼泽景观](../images/%E5%8F%B2%E5%89%8D%E6%B2%BC%E6%B3%BD%E6%99%AF%E8%A7%82.jpg)
 
 **Prompt:**
 
@@ -7457,7 +7457,7 @@ Create a highly detailed cinematic paleoart landscape showing a wet, alien-looki
 
 ### 🏷️ 例 2875：日出时分的皇家动漫法师
 
-![日出时分的皇家动漫法师](../../images/%E6%97%A5%E5%87%BA%E6%97%B6%E5%88%86%E7%9A%84%E7%9A%87%E5%AE%B6%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
+![日出时分的皇家动漫法师](../images/%E6%97%A5%E5%87%BA%E6%97%B6%E5%88%86%E7%9A%84%E7%9A%87%E5%AE%B6%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
 
 **Prompt:**
 
@@ -7475,7 +7475,7 @@ Create a vertical 3:4 high-detail anime fantasy key visual featuring two royal m
 
 ### 🏷️ 例 2886：极简悬浮产品摄影
 
-![极简悬浮产品摄影](../../images/%E6%9E%81%E7%AE%80%E6%82%AC%E6%B5%AE%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+![极简悬浮产品摄影](../images/%E6%9E%81%E7%AE%80%E6%82%AC%E6%B5%AE%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -7493,7 +7493,7 @@ Premium product shot of {argument name="object" default="object"}, floating in a
 
 ### 🏷️ 例 2888：动漫餐厅用餐场景
 
-![动漫餐厅用餐场景](../../images/%E5%8A%A8%E6%BC%AB%E9%A4%90%E5%8E%85%E7%94%A8%E9%A4%90%E5%9C%BA%E6%99%AF.jpg)
+![动漫餐厅用餐场景](../images/%E5%8A%A8%E6%BC%AB%E9%A4%90%E5%8E%85%E7%94%A8%E9%A4%90%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -7511,7 +7511,7 @@ Create a vibrant anime-style illustration of {argument name="character name" def
 
 ### 🏷️ 例 2891：带有韩文的动漫狼吉祥物
 
-![带有韩文的动漫狼吉祥物](../../images/%E5%B8%A6%E6%9C%89%E9%9F%A9%E6%96%87%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%8B%BC%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+![带有韩文的动漫狼吉祥物](../images/%E5%B8%A6%E6%9C%89%E9%9F%A9%E6%96%87%E7%9A%84%E5%8A%A8%E6%BC%AB%E7%8B%BC%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
 
 **Prompt:**
 
@@ -7529,7 +7529,7 @@ Create a square anime-style mascot portrait on a dark navy blue background. Cent
 
 ### 🏷️ 例 2894：足球电影预告片视觉圣经
 
-![足球电影预告片视觉圣经](../../images/%E8%B6%B3%E7%90%83%E7%94%B5%E5%BD%B1%E9%A2%84%E5%91%8A%E7%89%87%E8%A7%86%E8%A7%89%E5%9C%A3%E7%BB%8F.jpg)
+![足球电影预告片视觉圣经](../images/%E8%B6%B3%E7%90%83%E7%94%B5%E5%BD%B1%E9%A2%84%E5%91%8A%E7%89%87%E8%A7%86%E8%A7%89%E5%9C%A3%E7%BB%8F.jpg)
 
 **Prompt:**
 
@@ -7547,7 +7547,7 @@ Create a square director visual bible for an England-inspired cinematic football
 
 ### 🏷️ 例 2896：Roast Rice 品牌设计提案项目
 
-![Roast Rice 品牌设计提案项目](../../images/Roast%20Rice%20%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E6%8F%90%E6%A1%88%E9%A1%B9%E7%9B%AE.jpg)
+![Roast Rice 品牌设计提案项目](../images/Roast%20Rice%20%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E6%8F%90%E6%A1%88%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -7669,7 +7669,7 @@ premium Cantonese roast rice branding board, Chinese takeaway storefront design 
 
 ### 🏷️ 例 2900：可爱的纸艺风格重现
 
-![可爱的纸艺风格重现](../../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%8E%B0.jpg)
+![可爱的纸艺风格重现](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%8E%B0.jpg)
 
 **Prompt:**
 
@@ -7687,7 +7687,7 @@ Recreate this image in a {argument name="style" default="paper craft style"} by 
 
 ### 🏷️ 例 2932：雨中动漫女学生问候
 
-![雨中动漫女学生问候](../../images/%E9%9B%A8%E4%B8%AD%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%97%AE%E5%80%99.jpg)
+![雨中动漫女学生问候](../images/%E9%9B%A8%E4%B8%AD%E5%8A%A8%E6%BC%AB%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%97%AE%E5%80%99.jpg)
 
 **Prompt:**
 
@@ -7709,7 +7709,7 @@ Set the scene in a narrow rainy city alley at dusk or night, with cool blue ambi
 
 ### 🏷️ 例 2942：巴黎时尚生活方式插画
 
-![巴黎时尚生活方式插画](../../images/%E5%B7%B4%E9%BB%8E%E6%97%B6%E5%B0%9A%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8F%92%E7%94%BB.jpg)
+![巴黎时尚生活方式插画](../images/%E5%B7%B4%E9%BB%8E%E6%97%B6%E5%B0%9A%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -7751,7 +7751,7 @@ Visual style: High-detail fashion watercolor illustration, soft shadows, refined
 
 ### 🏷️ 例 2946：Seedance Viking Vlogger 项目海报
 
-![Seedance Viking Vlogger 项目海报](../../images/Seedance%20Viking%20Vlogger%20%E9%A1%B9%E7%9B%AE%E6%B5%B7%E6%8A%A5.jpg)
+![Seedance Viking Vlogger 项目海报](../images/Seedance%20Viking%20Vlogger%20%E9%A1%B9%E7%9B%AE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -7823,7 +7823,7 @@ Constraints: Keep all visible text in English, preserve the exact 9 shot cards a
 
 ### 🏷️ 例 2958：Q 版动漫 DJ 现场演唱会
 
-![Q 版动漫 DJ 现场演唱会](../../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%20DJ%20%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A.jpg)
+![Q 版动漫 DJ 现场演唱会](../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%20DJ%20%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A.jpg)
 
 **Prompt:**
 
@@ -7841,7 +7841,7 @@ Create a vibrant anime chibi concert-stage illustration set at a futuristic live
 
 ### 🏷️ 例 2962：沥青路面粉笔画肖像
 
-![沥青路面粉笔画肖像](../../images/%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%E7%B2%89%E7%AC%94%E7%94%BB%E8%82%96%E5%83%8F.jpg)
+![沥青路面粉笔画肖像](../images/%E6%B2%A5%E9%9D%92%E8%B7%AF%E9%9D%A2%E7%B2%89%E7%AC%94%E7%94%BB%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -7861,7 +7861,7 @@ dutch angle, stray dog tail --ar 9:16
 
 ### 🏷️ 例 2974：手工拼贴风格包装设计
 
-![手工拼贴风格包装设计](../../images/%E6%89%8B%E5%B7%A5%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
+![手工拼贴风格包装设计](../images/%E6%89%8B%E5%B7%A5%E6%8B%BC%E8%B4%B4%E9%A3%8E%E6%A0%BC%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -7879,7 +7879,7 @@ dutch angle, stray dog tail --ar 9:16
 
 ### 🏷️ 例 2977：紫色机械女神三联画
 
-![紫色机械女神三联画](../../images/%E7%B4%AB%E8%89%B2%E6%9C%BA%E6%A2%B0%E5%A5%B3%E7%A5%9E%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+![紫色机械女神三联画](../images/%E7%B4%AB%E8%89%B2%E6%9C%BA%E6%A2%B0%E5%A5%B3%E7%A5%9E%E4%B8%89%E8%81%94%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -7921,7 +7921,7 @@ Constraints: Use exactly 3 stacked scenes in the order long shot, close-up, extr
 
 ### 🏷️ 例 2978：夜间足球锦标赛航拍图
 
-![夜间足球锦标赛航拍图](../../images/%E5%A4%9C%E9%97%B4%E8%B6%B3%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%E8%88%AA%E6%8B%8D%E5%9B%BE.jpg)
+![夜间足球锦标赛航拍图](../images/%E5%A4%9C%E9%97%B4%E8%B6%B3%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%E8%88%AA%E6%8B%8D%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -7939,7 +7939,7 @@ Create a photorealistic aerial top-down wide shot of a packed championship-night
 
 ### 🏷️ 例 2979：足球运动员三联角色卡
 
-![足球运动员三联角色卡](../../images/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%81%94%E8%A7%92%E8%89%B2%E5%8D%A1.jpg)
+![足球运动员三联角色卡](../images/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%89%E8%81%94%E8%A7%92%E8%89%B2%E5%8D%A1.jpg)
 
 **Prompt:**
 
@@ -7981,7 +7981,7 @@ Constraints: Use exactly 3 panels and exactly 1 athlete repeated across them; no
 
 ### 🏷️ 例 2980：像素风战锤对决
 
-![像素风战锤对决](../../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E6%88%98%E9%94%A4%E5%AF%B9%E5%86%B3.jpg)
+![像素风战锤对决](../images/%E5%83%8F%E7%B4%A0%E9%A3%8E%E6%88%98%E9%94%A4%E5%AF%B9%E5%86%B3.jpg)
 
 **Prompt:**
 
@@ -7999,7 +7999,7 @@ Create a dynamic 16-bit pixel art fantasy battle scene in a dark rocky arena, sh
 
 ### 🏷️ 例 2981：Vibe Coder Bootcamp 着陆页
 
-![Vibe Coder Bootcamp 着陆页](../../images/Vibe%20Coder%20Bootcamp%20%E7%9D%80%E9%99%86%E9%A1%B5.jpg)
+![Vibe Coder Bootcamp 着陆页](../images/Vibe%20Coder%20Bootcamp%20%E7%9D%80%E9%99%86%E9%A1%B5.jpg)
 
 **Prompt:**
 
@@ -8065,7 +8065,7 @@ Constraints: Keep all visible text in Japanese where specified, preserve the exa
 
 ### 🏷️ 例 2982：品牌周边陈列室摄影
 
-![品牌周边陈列室摄影](../../images/%E5%93%81%E7%89%8C%E5%91%A8%E8%BE%B9%E9%99%88%E5%88%97%E5%AE%A4%E6%91%84%E5%BD%B1.jpg)
+![品牌周边陈列室摄影](../images/%E5%93%81%E7%89%8C%E5%91%A8%E8%BE%B9%E9%99%88%E5%88%97%E5%AE%A4%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -8143,7 +8143,7 @@ Composition: refined, minimal, balanced, with enough negative space on the left 
 
 ### 🏷️ 例 2991：冰水中的抽象北极熊
 
-![冰水中的抽象北极熊](../../images/%E5%86%B0%E6%B0%B4%E4%B8%AD%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%8C%97%E6%9E%81%E7%86%8A.jpg)
+![冰水中的抽象北极熊](../images/%E5%86%B0%E6%B0%B4%E4%B8%AD%E7%9A%84%E6%8A%BD%E8%B1%A1%E5%8C%97%E6%9E%81%E7%86%8A.jpg)
 
 **Prompt:**
 
@@ -8161,7 +8161,7 @@ Create a stylized semi-abstract digital painting of a single polar bear walking 
 
 ### 🏷️ 例 3034：动漫 VTuber 游戏视频封面
 
-![动漫 VTuber 游戏视频封面](../../images/%E5%8A%A8%E6%BC%AB%20VTuber%20%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2.jpg)
+![动漫 VTuber 游戏视频封面](../images/%E5%8A%A8%E6%BC%AB%20VTuber%20%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8195,7 +8195,7 @@ Use exaggerated clickworthy thumbnail aesthetics throughout: ultra-saturated col
 
 ### 🏷️ 例 3035：编辑风格品牌海报模板
 
-![编辑风格品牌海报模板](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+![编辑风格品牌海报模板](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -8241,7 +8241,7 @@ Generate as a 4K ultra-high-resolution raster image.
 
 ### 🏷️ 例 3051：云朵形状涂鸦艺术叠加
 
-![云朵形状涂鸦艺术叠加](../../images/%E4%BA%91%E6%9C%B5%E5%BD%A2%E7%8A%B6%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E5%8F%A0%E5%8A%A0.jpg)
+![云朵形状涂鸦艺术叠加](../images/%E4%BA%91%E6%9C%B5%E5%BD%A2%E7%8A%B6%E6%B6%82%E9%B8%A6%E8%89%BA%E6%9C%AF%E5%8F%A0%E5%8A%A0.jpg)
 
 **Prompt:**
 
@@ -8259,7 +8259,7 @@ Using the visible form of the provided image's clouds as the guide, determine wh
 
 ### 🏷️ 例 3065：暗黑奇幻双枪神射手
 
-![暗黑奇幻双枪神射手](../../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%8F%8C%E6%9E%AA%E7%A5%9E%E5%B0%84%E6%89%8B.jpg)
+![暗黑奇幻双枪神射手](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E5%8F%8C%E6%9E%AA%E7%A5%9E%E5%B0%84%E6%89%8B.jpg)
 
 **Prompt:**
 
@@ -8277,7 +8277,7 @@ Create a cinematic dark-fantasy western action portrait of an {argument name="ch
 
 ### 🏷️ 例 3068：内省式灯光艺术家肖像
 
-![内省式灯光艺术家肖像](../../images/%E5%86%85%E7%9C%81%E5%BC%8F%E7%81%AF%E5%85%89%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%82%96%E5%83%8F.jpg)
+![内省式灯光艺术家肖像](../images/%E5%86%85%E7%9C%81%E5%BC%8F%E7%81%AF%E5%85%89%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -8295,7 +8295,7 @@ Create a dark, intimate painterly self-portrait in the style of an old master sk
 
 ### 🏷️ 例 3078：朋克卡通角色设计图
 
-![朋克卡通角色设计图](../../images/%E6%9C%8B%E5%85%8B%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![朋克卡通角色设计图](../images/%E6%9C%8B%E5%85%8B%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -8341,7 +8341,7 @@ Constraints: Maintain the exact same visual style as the reference image, keep t
 
 ### 🏷️ 例 3081：Netflix 惊悚片设计提示词
 
-![Netflix 惊悚片设计提示词](../../images/Netflix%20%E6%83%8A%E6%82%9A%E7%89%87%E8%AE%BE%E8%AE%A1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+![Netflix 惊悚片设计提示词](../images/Netflix%20%E6%83%8A%E6%82%9A%E7%89%87%E8%AE%BE%E8%AE%A1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
 
 **Prompt:**
 
@@ -8383,7 +8383,7 @@ Write
 
 ### 🏷️ 例 3084：极简街头超现实肖像
 
-![极简街头超现实肖像](../../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
+![极简街头超现实肖像](../images/%E6%9E%81%E7%AE%80%E8%A1%97%E5%A4%B4%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -8405,7 +8405,7 @@ Style the image as a clean editorial fashion photo with a soft neutral outdoor b
 
 ### 🏷️ 例 3092：禅意水墨画艺术
 
-![禅意水墨画艺术](../../images/%E7%A6%85%E6%84%8F%E6%B0%B4%E5%A2%A8%E7%94%BB%E8%89%BA%E6%9C%AF.jpg)
+![禅意水墨画艺术](../images/%E7%A6%85%E6%84%8F%E6%B0%B4%E5%A2%A8%E7%94%BB%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -8435,7 +8435,7 @@ low quality, blurry, cartoon, anime, 3D render, oversaturated colors, text artif
 
 ### 🏷️ 例 3124：电影感沙漠复古车时尚大片
 
-![电影感沙漠复古车时尚大片](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%99%E6%BC%A0%E5%A4%8D%E5%8F%A4%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![电影感沙漠复古车时尚大片](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B2%99%E6%BC%A0%E5%A4%8D%E5%8F%A4%E8%BD%A6%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -8453,7 +8453,7 @@ A high-fashion, cinematic medium shot of a {argument name="subject" default="sty
 
 ### 🏷️ 例 3129：计算机博物馆卡通场景中的程序员
 
-![计算机博物馆卡通场景中的程序员](../../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8D%A1%E9%80%9A%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98.jpg)
+![计算机博物馆卡通场景中的程序员](../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8D%A1%E9%80%9A%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98.jpg)
 
 **Prompt:**
 
@@ -8471,7 +8471,7 @@ Create a 16:9 2D cartoon scene inside a {argument name="location" default="compu
 
 ### 🏷️ 例 3133：动漫风职场通勤二人组
 
-![动漫风职场通勤二人组](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E8%81%8C%E5%9C%BA%E9%80%9A%E5%8B%A4%E4%BA%8C%E4%BA%BA%E7%BB%84.jpg)
+![动漫风职场通勤二人组](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E8%81%8C%E5%9C%BA%E9%80%9A%E5%8B%A4%E4%BA%8C%E4%BA%BA%E7%BB%84.jpg)
 
 **Prompt:**
 
@@ -8489,7 +8489,7 @@ Create a polished vertical anime illustration of exactly two young adult female 
 
 ### 🏷️ 例 3149：蓝色闪电动漫法师
 
-![蓝色闪电动漫法师](../../images/%E8%93%9D%E8%89%B2%E9%97%AA%E7%94%B5%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
+![蓝色闪电动漫法师](../images/%E8%93%9D%E8%89%B2%E9%97%AA%E7%94%B5%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%B8%88.jpg)
 
 **Prompt:**
 
@@ -8507,7 +8507,7 @@ Create a dramatic vertical anime fantasy illustration of a young male lightning 
 
 ### 🏷️ 例 3163：植物主题展览海报模板
 
-![植物主题展览海报模板](../../images/%E6%A4%8D%E7%89%A9%E4%B8%BB%E9%A2%98%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+![植物主题展览海报模板](../images/%E6%A4%8D%E7%89%A9%E4%B8%BB%E9%A2%98%E5%B1%95%E8%A7%88%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -8529,7 +8529,7 @@ Create a dramatic vertical anime fantasy illustration of a young male lightning 
 
 ### 🏷️ 例 3177：动漫 AI 提示词评审会议
 
-![动漫 AI 提示词评审会议](../../images/%E5%8A%A8%E6%BC%AB%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AF%84%E5%AE%A1%E4%BC%9A%E8%AE%AE.jpg)
+![动漫 AI 提示词评审会议](../images/%E5%8A%A8%E6%BC%AB%20AI%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AF%84%E5%AE%A1%E4%BC%9A%E8%AE%AE.jpg)
 
 **Prompt:**
 
@@ -8583,7 +8583,7 @@ Constraints: Use exactly 4 characters and exactly 8 tabletop items. Preserve the
 
 ### 🏷️ 例 3179：女王与巨蛇的奇幻阳台
 
-![女王与巨蛇的奇幻阳台](../../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E5%B7%A8%E8%9B%87%E7%9A%84%E5%A5%87%E5%B9%BB%E9%98%B3%E5%8F%B0.jpg)
+![女王与巨蛇的奇幻阳台](../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E5%B7%A8%E8%9B%87%E7%9A%84%E5%A5%87%E5%B9%BB%E9%98%B3%E5%8F%B0.jpg)
 
 **Prompt:**
 
@@ -8601,7 +8601,7 @@ Create a cinematic high-fantasy vertical portrait titled {argument name="scene t
 
 ### 🏷️ 例 3182：云端之上的宏伟阶梯
 
-![云端之上的宏伟阶梯](../../images/%E4%BA%91%E7%AB%AF%E4%B9%8B%E4%B8%8A%E7%9A%84%E5%AE%8F%E4%BC%9F%E9%98%B6%E6%A2%AF.jpg)
+![云端之上的宏伟阶梯](../images/%E4%BA%91%E7%AB%AF%E4%B9%8B%E4%B8%8A%E7%9A%84%E5%AE%8F%E4%BC%9F%E9%98%B6%E6%A2%AF.jpg)
 
 **Prompt:**
 
@@ -8619,7 +8619,7 @@ Create a cinematic surreal architectural scene of a vast {argument name="stairca
 
 ### 🏷️ 例 3219：皇家奇幻公主抱
 
-![皇家奇幻公主抱](../../images/%E7%9A%87%E5%AE%B6%E5%A5%87%E5%B9%BB%E5%85%AC%E4%B8%BB%E6%8A%B1.jpg)
+![皇家奇幻公主抱](../images/%E7%9A%87%E5%AE%B6%E5%A5%87%E5%B9%BB%E5%85%AC%E4%B8%BB%E6%8A%B1.jpg)
 
 **Prompt:**
 
@@ -8637,7 +8637,7 @@ Create a vertical 2:3 anime fantasy romance illustration at night: a tall, hands
 
 ### 🏷️ 例 3222：复古 CCD 闪光灯快照
 
-![复古 CCD 闪光灯快照](../../images/%E5%A4%8D%E5%8F%A4%20CCD%20%E9%97%AA%E5%85%89%E7%81%AF%E5%BF%AB%E7%85%A7.jpg)
+![复古 CCD 闪光灯快照](../images/%E5%A4%8D%E5%8F%A4%20CCD%20%E9%97%AA%E5%85%89%E7%81%AF%E5%BF%AB%E7%85%A7.jpg)
 
 **Prompt:**
 
@@ -8655,7 +8655,7 @@ Flash-lit mobile phone snapshot with a {argument name="camera style" default="vi
 
 ### 🏷️ 例 3261：傲娇哥特女仆 404 肖像
 
-![傲娇哥特女仆 404 肖像](../../images/%E5%82%B2%E5%A8%87%E5%93%A5%E7%89%B9%E5%A5%B3%E4%BB%86%20404%20%E8%82%96%E5%83%8F.jpg)
+![傲娇哥特女仆 404 肖像](../images/%E5%82%B2%E5%A8%87%E5%93%A5%E7%89%B9%E5%A5%B3%E4%BB%86%20404%20%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -8673,7 +8673,7 @@ Create a vertical portrait illustration in delicate watercolor anime style of a 
 
 ### 🏷️ 例 3325：奢华日式幻想动漫和服
 
-![奢华日式幻想动漫和服](../../images/%E5%A5%A2%E5%8D%8E%E6%97%A5%E5%BC%8F%E5%B9%BB%E6%83%B3%E5%8A%A8%E6%BC%AB%E5%92%8C%E6%9C%8D.jpg)
+![奢华日式幻想动漫和服](../images/%E5%A5%A2%E5%8D%8E%E6%97%A5%E5%BC%8F%E5%B9%BB%E6%83%B3%E5%8A%A8%E6%BC%AB%E5%92%8C%E6%9C%8D.jpg)
 
 **Prompt:**
 
@@ -8691,7 +8691,7 @@ masterpiece, best quality, premium Japanese anime key visual, cinematic illustra
 
 ### 🏷️ 例 3332：胶囊衣橱搭配项目
 
-![胶囊衣橱搭配项目](../../images/%E8%83%B6%E5%9B%8A%E8%A1%A3%E6%A9%B1%E6%90%AD%E9%85%8D%E9%A1%B9%E7%9B%AE.jpg)
+![胶囊衣橱搭配项目](../images/%E8%83%B6%E5%9B%8A%E8%A1%A3%E6%A9%B1%E6%90%AD%E9%85%8D%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -8733,7 +8733,7 @@ Constraints: Use exactly 7 wardrobe items and exactly 7 styled outfit cards. Do 
 
 ### 🏷️ 例 3343：时尚概念艺术角色设计图
 
-![时尚概念艺术角色设计图](../../images/%E6%97%B6%E5%B0%9A%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![时尚概念艺术角色设计图](../images/%E6%97%B6%E5%B0%9A%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -8755,7 +8755,7 @@ Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 wide
 
 ### 🏷️ 例 3346：北极战舰风格对比
 
-![北极战舰风格对比](../../images/%E5%8C%97%E6%9E%81%E6%88%98%E8%88%B0%E9%A3%8E%E6%A0%BC%E5%AF%B9%E6%AF%94.jpg)
+![北极战舰风格对比](../images/%E5%8C%97%E6%9E%81%E6%88%98%E8%88%B0%E9%A3%8E%E6%A0%BC%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -8797,7 +8797,7 @@ Constraints: Include no people, no captions other than the hull text, no logos, 
 
 ### 🏷️ 例 3348：幽灵灯塔风暴海景
 
-![幽灵灯塔风暴海景](../../images/%E5%B9%BD%E7%81%B5%E7%81%AF%E5%A1%94%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%99%AF.jpg)
+![幽灵灯塔风暴海景](../images/%E5%B9%BD%E7%81%B5%E7%81%AF%E5%A1%94%E9%A3%8E%E6%9A%B4%E6%B5%B7%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -8815,7 +8815,7 @@ Create a cinematic dark fantasy surreal seascape during a violent night storm. T
 
 ### 🏷️ 例 3349：六款刺绣 Muse 补丁
 
-![六款刺绣 Muse 补丁](../../images/%E5%85%AD%E6%AC%BE%E5%88%BA%E7%BB%A3%20Muse%20%E8%A1%A5%E4%B8%81.jpg)
+![六款刺绣 Muse 补丁](../images/%E5%85%AD%E6%AC%BE%E5%88%BA%E7%BB%A3%20Muse%20%E8%A1%A5%E4%B8%81.jpg)
 
 **Prompt:**
 
@@ -8861,7 +8861,7 @@ Text constraints: Render all visible text as clean embroidered lettering. Keep e
 
 ### 🏷️ 例 3355：饮料品牌视觉识别海报
 
-![饮料品牌视觉识别海报](../../images/%E9%A5%AE%E6%96%99%E5%93%81%E7%89%8C%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E6%B5%B7%E6%8A%A5.jpg)
+![饮料品牌视觉识别海报](../images/%E9%A5%AE%E6%96%99%E5%93%81%E7%89%8C%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8879,7 +8879,7 @@ Create the second image of a unified brand visual system for “OZOUO” fruit d
 
 ### 🏷️ 例 3382：华丽“阿吽”和服专辑封面
 
-![华丽“阿吽”和服专辑封面](../../images/%E5%8D%8E%E4%B8%BD%E2%80%9C%E9%98%BF%E5%90%BD%E2%80%9D%E5%92%8C%E6%9C%8D%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+![华丽“阿吽”和服专辑封面](../images/%E5%8D%8E%E4%B8%BD%E2%80%9C%E9%98%BF%E5%90%BD%E2%80%9D%E5%92%8C%E6%9C%8D%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -8897,7 +8897,7 @@ Create a vertical Japanese album-cover illustration in an ornate dark-gold ukiyo
 
 ### 🏷️ 例 3384：狐妖工匠的七夕摊位
 
-![狐妖工匠的七夕摊位](../../images/%E7%8B%90%E5%A6%96%E5%B7%A5%E5%8C%A0%E7%9A%84%E4%B8%83%E5%A4%95%E6%91%8A%E4%BD%8D.jpg)
+![狐妖工匠的七夕摊位](../images/%E7%8B%90%E5%A6%96%E5%B7%A5%E5%8C%A0%E7%9A%84%E4%B8%83%E5%A4%95%E6%91%8A%E4%BD%8D.jpg)
 
 **Prompt:**
 
@@ -8915,7 +8915,7 @@ Create a highly detailed vertical 4:5 anime fantasy illustration of {argument na
 
 ### 🏷️ 例 3441：GTA VI 摩托车角色海报
 
-![GTA VI 摩托车角色海报](../../images/GTA%20VI%20%E6%91%A9%E6%89%98%E8%BD%A6%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
+![GTA VI 摩托车角色海报](../images/GTA%20VI%20%E6%91%A9%E6%89%98%E8%BD%A6%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -8941,7 +8941,7 @@ Add exactly 2 visible text/logo elements: 1) large block title text in the botto
 
 ### 🏷️ 例 3453：使用涂鸦进行商业产品广告设计
 
-![使用涂鸦进行商业产品广告设计](../../images/%E4%BD%BF%E7%94%A8%E6%B6%82%E9%B8%A6%E8%BF%9B%E8%A1%8C%E5%95%86%E4%B8%9A%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E8%AE%BE%E8%AE%A1.jpg)
+![使用涂鸦进行商业产品广告设计](../images/%E4%BD%BF%E7%94%A8%E6%B6%82%E9%B8%A6%E8%BF%9B%E8%A1%8C%E5%95%86%E4%B8%9A%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%E8%AE%BE%E8%AE%A1.jpg)
 
 **Prompt:**
 
@@ -8959,7 +8959,7 @@ Use the uploaded product image as the primary reference. Preserve the original p
 
 ### 🏷️ 例 3469：未来感跑车蓝图
 
-![未来感跑车蓝图](../../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%B7%91%E8%BD%A6%E8%93%9D%E5%9B%BE.jpg)
+![未来感跑车蓝图](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%B7%91%E8%BD%A6%E8%93%9D%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -8977,7 +8977,7 @@ A technical drawing of a {argument name="subject" default="futuristic sports car
 
 ### 🏷️ 例 3470：动漫风格怪物猎人任务卡
 
-![动漫风格怪物猎人任务卡](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E4%BB%BB%E5%8A%A1%E5%8D%A1.jpg)
+![动漫风格怪物猎人任务卡](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E4%BB%BB%E5%8A%A1%E5%8D%A1.jpg)
 
 **Prompt:**
 
@@ -9015,7 +9015,7 @@ Style constraints: Make the illustration polished, high-detail, fantasy anime co
 
 ### 🏷️ 例 3503：赛博朋克动漫女英雄与超级都市
 
-![赛博朋克动漫女英雄与超级都市](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E8%8B%B1%E9%9B%84%E4%B8%8E%E8%B6%85%E7%BA%A7%E9%83%BD%E5%B8%82.jpg)
+![赛博朋克动漫女英雄与超级都市](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E8%8B%B1%E9%9B%84%E4%B8%8E%E8%B6%85%E7%BA%A7%E9%83%BD%E5%B8%82.jpg)
 
 **Prompt:**
 
@@ -9033,7 +9033,7 @@ Create a vertical 9:16 cinematic anime sci-fi key visual of {argument name="char
 
 ### 🏷️ 例 3506：酒吧里的动漫泡泡武士
 
-![酒吧里的动漫泡泡武士](../../images/%E9%85%92%E5%90%A7%E9%87%8C%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%B3%A1%E6%B3%A1%E6%AD%A6%E5%A3%AB.jpg)
+![酒吧里的动漫泡泡武士](../images/%E9%85%92%E5%90%A7%E9%87%8C%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%B3%A1%E6%B3%A1%E6%AD%A6%E5%A3%AB.jpg)
 
 **Prompt:**
 
@@ -9051,7 +9051,7 @@ Create a polished anime-style fantasy illustration of one cute young woman stand
 
 ### 🏷️ 例 3518：浪漫远洋客轮日落场景
 
-![浪漫远洋客轮日落场景](../../images/%E6%B5%AA%E6%BC%AB%E8%BF%9C%E6%B4%8B%E5%AE%A2%E8%BD%AE%E6%97%A5%E8%90%BD%E5%9C%BA%E6%99%AF.jpg)
+![浪漫远洋客轮日落场景](../images/%E6%B5%AA%E6%BC%AB%E8%BF%9C%E6%B4%8B%E5%AE%A2%E8%BD%AE%E6%97%A5%E8%90%BD%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -9069,7 +9069,7 @@ Create a cinematic photorealistic movie still of a romantic couple standing on t
 
 ### 🏷️ 例 3528：蓝色 Decora 风格动漫少女海报
 
-![蓝色 Decora 风格动漫少女海报](../../images/%E8%93%9D%E8%89%B2%20Decora%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%8A%A5.jpg)
+![蓝色 Decora 风格动漫少女海报](../images/%E8%93%9D%E8%89%B2%20Decora%20%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9087,7 +9087,7 @@ Create a high-energy vertical anime fashion illustration of {argument name="char
 
 ### 🏷️ 例 3546：日系可爱风 Logo 模型对比
 
-![日系可爱风 Logo 模型对比](../../images/%E6%97%A5%E7%B3%BB%E5%8F%AF%E7%88%B1%E9%A3%8E%20Logo%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
+![日系可爱风 Logo 模型对比](../images/%E6%97%A5%E7%B3%BB%E5%8F%AF%E7%88%B1%E9%A3%8E%20Logo%20%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -9125,7 +9125,7 @@ Constraints: Keep the background completely white, preserve the comparison compo
 
 ### 🏷️ 例 3557：赛博朋克霓虹街头赛车手
 
-![赛博朋克霓虹街头赛车手](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9C%93%E8%99%B9%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B.jpg)
+![赛博朋克霓虹街头赛车手](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%9C%93%E8%99%B9%E8%A1%97%E5%A4%B4%E8%B5%9B%E8%BD%A6%E6%89%8B.jpg)
 
 **Prompt:**
 
@@ -9143,7 +9143,7 @@ A lone {argument name="character type" default="cyberpunk street racer"} standin
 
 ### 🏷️ 例 3558：骑士面对大教堂巨人
 
-![骑士面对大教堂巨人](../../images/%E9%AA%91%E5%A3%AB%E9%9D%A2%E5%AF%B9%E5%A4%A7%E6%95%99%E5%A0%82%E5%B7%A8%E4%BA%BA.jpg)
+![骑士面对大教堂巨人](../images/%E9%AA%91%E5%A3%AB%E9%9D%A2%E5%AF%B9%E5%A4%A7%E6%95%99%E5%A0%82%E5%B7%A8%E4%BA%BA.jpg)
 
 **Prompt:**
 
@@ -9161,7 +9161,7 @@ Create a dark fantasy cinematic key art scene in an ultra-wide 16:9 frame. In th
 
 ### 🏷️ 例 3564：霓虹日落和服少女
 
-![霓虹日落和服少女](../../images/%E9%9C%93%E8%99%B9%E6%97%A5%E8%90%BD%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+![霓虹日落和服少女](../images/%E9%9C%93%E8%99%B9%E6%97%A5%E8%90%BD%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -9179,7 +9179,7 @@ Create a cinematic anime illustration of {argument name="character name" default
 
 ### 🏷️ 例 3565：复古美式流行餐馆时尚大片
 
-![复古美式流行餐馆时尚大片](../../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B5%81%E8%A1%8C%E9%A4%90%E9%A6%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+![复古美式流行餐馆时尚大片](../images/%E5%A4%8D%E5%8F%A4%E7%BE%8E%E5%BC%8F%E6%B5%81%E8%A1%8C%E9%A4%90%E9%A6%86%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -9213,7 +9213,7 @@ Editorial intent: the chrome pole, awning stripes, and diner signage create vert
 
 ### 🏷️ 例 3587：Y2K 休闲夏季街头风
 
-![Y2K 休闲夏季街头风](../../images/Y2K%20%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E8%A1%97%E5%A4%B4%E9%A3%8E.jpg)
+![Y2K 休闲夏季街头风](../images/Y2K%20%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E8%A1%97%E5%A4%B4%E9%A3%8E.jpg)
 
 **Prompt:**
 
@@ -9231,7 +9231,7 @@ Outfit: a bright summer Y2K casual street outfit with an oversized {argument nam
 
 ### 🏷️ 例 3593：深褐色古典小提琴专辑封面
 
-![深褐色古典小提琴专辑封面](../../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8F%A4%E5%85%B8%E5%B0%8F%E6%8F%90%E7%90%B4%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+![深褐色古典小提琴专辑封面](../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E5%8F%A4%E5%85%B8%E5%B0%8F%E6%8F%90%E7%90%B4%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -9249,7 +9249,7 @@ Create a square classical album cover illustration in a refined sepia monochrome
 
 ### 🏷️ 例 3597：清凉猫咪三联画
 
-![清凉猫咪三联画](../../images/%E6%B8%85%E5%87%89%E7%8C%AB%E5%92%AA%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+![清凉猫咪三联画](../images/%E6%B8%85%E5%87%89%E7%8C%AB%E5%92%AA%E4%B8%89%E8%81%94%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -9295,7 +9295,7 @@ Constraints: Keep the same cat identity across all 3 panels, maintain realistic 
 
 ### 🏷️ 例 3606：90 年代动漫动作女仆
 
-![90 年代动漫动作女仆](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E5%8A%A8%E4%BD%9C%E5%A5%B3%E4%BB%86.jpg)
+![90 年代动漫动作女仆](../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E5%8A%A8%E4%BD%9C%E5%A5%B3%E4%BB%86.jpg)
 
 **Prompt:**
 
@@ -9345,7 +9345,7 @@ Dynamic sakuga pose, dramatic speed lines, expressive cloth movement.
 
 ### 🏷️ 例 3629：蒸汽朋克城市铁路高角度景观
 
-![蒸汽朋克城市铁路高角度景观](../../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%9F%8E%E5%B8%82%E9%93%81%E8%B7%AF%E9%AB%98%E8%A7%92%E5%BA%A6%E6%99%AF%E8%A7%82.jpg)
+![蒸汽朋克城市铁路高角度景观](../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%9F%8E%E5%B8%82%E9%93%81%E8%B7%AF%E9%AB%98%E8%A7%92%E5%BA%A6%E6%99%AF%E8%A7%82.jpg)
 
 **Prompt:**
 
@@ -9363,7 +9363,7 @@ Using REFERENCE_0 as the base image, regenerate the same scene while preserving 
 
 ### 🏷️ 例 3638：淡桃荔枝玫瑰芭菲
 
-![淡桃荔枝玫瑰芭菲](../../images/%E6%B7%A1%E6%A1%83%E8%8D%94%E6%9E%9D%E7%8E%AB%E7%91%B0%E8%8A%AD%E8%8F%B2.jpg)
+![淡桃荔枝玫瑰芭菲](../images/%E6%B7%A1%E6%A1%83%E8%8D%94%E6%9E%9D%E7%8E%AB%E7%91%B0%E8%8A%AD%E8%8F%B2.jpg)
 
 **Prompt:**
 
@@ -9381,7 +9381,7 @@ Create a soft, elegant food photography image of a {argument name="dessert type"
 
 ### 🏷️ 例 3644：赛博朋克超级城市黑客场景
 
-![赛博朋克超级城市黑客场景](../../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82%E9%BB%91%E5%AE%A2%E5%9C%BA%E6%99%AF.jpg)
+![赛博朋克超级城市黑客场景](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82%E9%BB%91%E5%AE%A2%E5%9C%BA%E6%99%AF.jpg)
 
 **Prompt:**
 
@@ -9399,7 +9399,7 @@ Create a cinematic cyberpunk key visual for a social media banner or concept-art
 
 ### 🏷️ 例 3658：空灵星光精灵油画
 
-![空灵星光精灵油画](../../images/%E7%A9%BA%E7%81%B5%E6%98%9F%E5%85%89%E7%B2%BE%E7%81%B5%E6%B2%B9%E7%94%BB.jpg)
+![空灵星光精灵油画](../images/%E7%A9%BA%E7%81%B5%E6%98%9F%E5%85%89%E7%B2%BE%E7%81%B5%E6%B2%B9%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -9417,7 +9417,7 @@ Ethereal translucent spirit woven from {argument name="material" default="starli
 
 ### 🏷️ 例 3670：GPT-5.6 日本发布会 Slides
 
-![GPT-5.6 日本发布会 Slides](../../images/GPT-5.6%20%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E4%BC%9A%20Slides.jpg)
+![GPT-5.6 日本发布会 Slides](../images/GPT-5.6%20%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E4%BC%9A%20Slides.jpg)
 
 **Prompt:**
 
@@ -9459,7 +9459,7 @@ Constraints: Use exactly the three visible model labels Sol, Terra, and Luna; in
 
 ### 🏷️ 例 3677：广州日落天际线
 
-![广州日落天际线](../../images/%E5%B9%BF%E5%B7%9E%E6%97%A5%E8%90%BD%E5%A4%A9%E9%99%85%E7%BA%BF.jpg)
+![广州日落天际线](../images/%E5%B9%BF%E5%B7%9E%E6%97%A5%E8%90%BD%E5%A4%A9%E9%99%85%E7%BA%BF.jpg)
 
 **Prompt:**
 
@@ -9477,7 +9477,7 @@ Create an ultra-realistic aerial cityscape photograph of {argument name="city" d
 
 ### 🏷️ 例 3679：赫拉克勒斯大理石雕像
 
-![赫拉克勒斯大理石雕像](../../images/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF%E5%A4%A7%E7%90%86%E7%9F%B3%E9%9B%95%E5%83%8F.jpg)
+![赫拉克勒斯大理石雕像](../images/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF%E5%A4%A7%E7%90%86%E7%9F%B3%E9%9B%95%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -9495,7 +9495,7 @@ Create a grand museum-quality marble statue scene of {argument name="character n
 
 ### 🏷️ 例 3686：Yamaha 越野摩托车专辑封面
 
-![Yamaha 越野摩托车专辑封面](../../images/Yamaha%20%E8%B6%8A%E9%87%8E%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+![Yamaha 越野摩托车专辑封面](../images/Yamaha%20%E8%B6%8A%E9%87%8E%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -9513,7 +9513,7 @@ Create a square hip-hop album cover on a vivid mustard-yellow background with a 
 
 ### 🏷️ 例 3688：超现实主义肖像：深红之手
 
-![超现实主义肖像：深红之手](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E8%82%96%E5%83%8F%EF%BC%9A%E6%B7%B1%E7%BA%A2%E4%B9%8B%E6%89%8B.jpg)
+![超现实主义肖像：深红之手](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E8%82%96%E5%83%8F%EF%BC%9A%E6%B7%B1%E7%BA%A2%E4%B9%8B%E6%89%8B.jpg)
 
 **Prompt:**
 
@@ -9531,7 +9531,7 @@ Ultra-realistic surreal conceptual portrait of a flawless {argument name="skin c
 
 ### 🏷️ 例 3706：古代神殿内部联络表
 
-![古代神殿内部联络表](../../images/%E5%8F%A4%E4%BB%A3%E7%A5%9E%E6%AE%BF%E5%86%85%E9%83%A8%E8%81%94%E7%BB%9C%E8%A1%A8.jpg)
+![古代神殿内部联络表](../images/%E5%8F%A4%E4%BB%A3%E7%A5%9E%E6%AE%BF%E5%86%85%E9%83%A8%E8%81%94%E7%BB%9C%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -9565,7 +9565,7 @@ Style constraints: photorealistic 3D render look, dramatic volumetric lighting, 
 
 ### 🏷️ 例 3707：月兔药铺
 
-![月兔药铺](../../images/%E6%9C%88%E5%85%94%E8%8D%AF%E9%93%BA.jpg)
+![月兔药铺](../images/%E6%9C%88%E5%85%94%E8%8D%AF%E9%93%BA.jpg)
 
 **Prompt:**
 
@@ -9611,7 +9611,7 @@ Constraints: No modern objects, no humans, no cartoon style, no harsh neon color
 
 ### 🏷️ 例 3711：咖啡馆里的涂鸦球头外星人
 
-![咖啡馆里的涂鸦球头外星人](../../images/%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8C%E7%9A%84%E6%B6%82%E9%B8%A6%E7%90%83%E5%A4%B4%E5%A4%96%E6%98%9F%E4%BA%BA.jpg)
+![咖啡馆里的涂鸦球头外星人](../images/%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8C%E7%9A%84%E6%B6%82%E9%B8%A6%E7%90%83%E5%A4%B4%E5%A4%96%E6%98%9F%E4%BA%BA.jpg)
 
 **Prompt:**
 
@@ -9629,7 +9629,7 @@ Create a vertical photorealistic cinematic portrait of {argument name="character
 
 ### 🏷️ 例 3713：吉萨金字塔上空的落日与大雁
 
-![吉萨金字塔上空的落日与大雁](../../images/%E5%90%89%E8%90%A8%E9%87%91%E5%AD%97%E5%A1%94%E4%B8%8A%E7%A9%BA%E7%9A%84%E8%90%BD%E6%97%A5%E4%B8%8E%E5%A4%A7%E9%9B%81.jpg)
+![吉萨金字塔上空的落日与大雁](../images/%E5%90%89%E8%90%A8%E9%87%91%E5%AD%97%E5%A1%94%E4%B8%8A%E7%A9%BA%E7%9A%84%E8%90%BD%E6%97%A5%E4%B8%8E%E5%A4%A7%E9%9B%81.jpg)
 
 **Prompt:**
 
@@ -9647,7 +9647,7 @@ Create a cinematic high-resolution aerial landscape of {argument name="location"
 
 ### 🏷️ 例 3723：奇幻凤凰山国
 
-![奇幻凤凰山国](../../images/%E5%A5%87%E5%B9%BB%E5%87%A4%E5%87%B0%E5%B1%B1%E5%9B%BD.jpg)
+![奇幻凤凰山国](../images/%E5%A5%87%E5%B9%BB%E5%87%A4%E5%87%B0%E5%B1%B1%E5%9B%BD.jpg)
 
 **Prompt:**
 
@@ -9665,7 +9665,7 @@ Create a wide cinematic fantasy landscape in a bright, painterly Studio Ghibli-i
 
 ### 🏷️ 例 3727：海神波塞冬战士
 
-![海神波塞冬战士](../../images/%E6%B5%B7%E7%A5%9E%E6%B3%A2%E5%A1%9E%E5%86%AC%E6%88%98%E5%A3%AB.jpg)
+![海神波塞冬战士](../images/%E6%B5%B7%E7%A5%9E%E6%B3%A2%E5%A1%9E%E5%86%AC%E6%88%98%E5%A3%AB.jpg)
 
 **Prompt:**
 
@@ -9683,7 +9683,7 @@ Create a dramatic vertical fantasy anime illustration of {argument name="deity c
 
 ### 🏷️ 例 3740：霓虹雨中的赛博朋克动漫女主角
 
-![霓虹雨中的赛博朋克动漫女主角](../../images/%E9%9C%93%E8%99%B9%E9%9B%A8%E4%B8%AD%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%B8%BB%E8%A7%92.jpg)
+![霓虹雨中的赛博朋克动漫女主角](../images/%E9%9C%93%E8%99%B9%E9%9B%A8%E4%B8%AD%E7%9A%84%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%B8%BB%E8%A7%92.jpg)
 
 **Prompt:**
 
@@ -9701,7 +9701,7 @@ Create a full-body anime cyberpunk character illustration in a vertical 9:16 com
 
 ### 🏷️ 例 3745：日式 BI 战略 Slides
 
-![日式 BI 战略 Slides](../../images/%E6%97%A5%E5%BC%8F%20BI%20%E6%88%98%E7%95%A5%20Slides.jpg)
+![日式 BI 战略 Slides](../images/%E6%97%A5%E5%BC%8F%20BI%20%E6%88%98%E7%95%A5%20Slides.jpg)
 
 **Prompt:**
 
@@ -9777,7 +9777,7 @@ Visual style: Japanese consulting deck aesthetic, crisp vector icons, consistent
 
 ### 🏷️ 例 3758：运动风女性休闲夏季穿搭
 
-![运动风女性休闲夏季穿搭](../../images/%E8%BF%90%E5%8A%A8%E9%A3%8E%E5%A5%B3%E6%80%A7%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E7%A9%BF%E6%90%AD.jpg)
+![运动风女性休闲夏季穿搭](../images/%E8%BF%90%E5%8A%A8%E9%A3%8E%E5%A5%B3%E6%80%A7%E4%BC%91%E9%97%B2%E5%A4%8F%E5%AD%A3%E7%A9%BF%E6%90%AD.jpg)
 
 **Prompt:**
 
@@ -9795,7 +9795,7 @@ Outfit: a sporty feminine casual summer outfit featuring a {argument name="top" 
 
 ### 🏷️ 例 3774：Kaeldrax 动漫时尚角色概念图
 
-![Kaeldrax 动漫时尚角色概念图](../../images/Kaeldrax%20%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
+![Kaeldrax 动漫时尚角色概念图](../images/Kaeldrax%20%E5%8A%A8%E6%BC%AB%E6%97%B6%E5%B0%9A%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -9813,7 +9813,7 @@ Create a premium, modern high-fashion {argument name="subject" default="CHARACTE
 
 ### 🏷️ 例 3780：深夜街角杂货店
 
-![深夜街角杂货店](../../images/%E6%B7%B1%E5%A4%9C%E8%A1%97%E8%A7%92%E6%9D%82%E8%B4%A7%E5%BA%97.jpg)
+![深夜街角杂货店](../images/%E6%B7%B1%E5%A4%9C%E8%A1%97%E8%A7%92%E6%9D%82%E8%B4%A7%E5%BA%97.jpg)
 
 **Prompt:**
 
@@ -9831,7 +9831,7 @@ Create a cinematic nighttime street photograph of a small corner bodega in an ol
 
 ### 🏷️ 例 3781：复古宝丽来人像
 
-![复古宝丽来人像](../../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E4%BA%BA%E5%83%8F.jpg)
+![复古宝丽来人像](../images/%E5%A4%8D%E5%8F%A4%E5%AE%9D%E4%B8%BD%E6%9D%A5%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -9851,7 +9851,7 @@ dutch angle, stray cat tail --ar 9:16
 
 ### 🏷️ 例 3803：低角度冬季围巾自拍
 
-![低角度冬季围巾自拍](../../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%86%AC%E5%AD%A3%E5%9B%B4%E5%B7%BE%E8%87%AA%E6%8B%8D.jpg)
+![低角度冬季围巾自拍](../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%86%AC%E5%AD%A3%E5%9B%B4%E5%B7%BE%E8%87%AA%E6%8B%8D.jpg)
 
 **Prompt:**
 
@@ -9869,7 +9869,7 @@ Ultra-realistic smartphone selfie of a beautiful {argument name="subject" defaul
 
 ### 🏷️ 例 3810：日本音乐人专辑封面
 
-![日本音乐人专辑封面](../../images/%E6%97%A5%E6%9C%AC%E9%9F%B3%E4%B9%90%E4%BA%BA%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+![日本音乐人专辑封面](../images/%E6%97%A5%E6%9C%AC%E9%9F%B3%E4%B9%90%E4%BA%BA%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -9887,7 +9887,7 @@ Create a dramatic Japanese album-cover style illustration in a wide 16:9 landsca
 
 ### 🏷️ 例 3835：红色马克笔背景下的写实人像
 
-![红色马克笔背景下的写实人像](../../images/%E7%BA%A2%E8%89%B2%E9%A9%AC%E5%85%8B%E7%AC%94%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E5%86%99%E5%AE%9E%E4%BA%BA%E5%83%8F.jpg)
+![红色马克笔背景下的写实人像](../images/%E7%BA%A2%E8%89%B2%E9%A9%AC%E5%85%8B%E7%AC%94%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E5%86%99%E5%AE%9E%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -9905,7 +9905,7 @@ Use the uploaded image as the only reference. Keep the person exactly the same, 
 
 ### 🏷️ 例 3837：布格罗风格的粉发林中仙女
 
-![布格罗风格的粉发林中仙女](../../images/%E5%B8%83%E6%A0%BC%E7%BD%97%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%B2%89%E5%8F%91%E6%9E%97%E4%B8%AD%E4%BB%99%E5%A5%B3.jpg)
+![布格罗风格的粉发林中仙女](../images/%E5%B8%83%E6%A0%BC%E7%BD%97%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%B2%89%E5%8F%91%E6%9E%97%E4%B8%AD%E4%BB%99%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -9923,7 +9923,7 @@ Create a vertical 3:4 romantic academic oil painting in the style of William-Ado
 
 ### 🏷️ 例 3852：复古火车石墨肖像
 
-![复古火车石墨肖像](../../images/%E5%A4%8D%E5%8F%A4%E7%81%AB%E8%BD%A6%E7%9F%B3%E5%A2%A8%E8%82%96%E5%83%8F.jpg)
+![复古火车石墨肖像](../images/%E5%A4%8D%E5%8F%A4%E7%81%AB%E8%BD%A6%E7%9F%B3%E5%A2%A8%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -9941,7 +9941,7 @@ Create an ultra-realistic graphite pencil sketch of {argument name="character de
 
 ### 🏷️ 例 3866：动漫风“Nice Day”海报
 
-![动漫风“Nice Day”海报](../../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E2%80%9CNice%20Day%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+![动漫风“Nice Day”海报](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E2%80%9CNice%20Day%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -9987,7 +9987,7 @@ Visual style: Ultra-cute glossy anime illustration, saturated cyan and pink pale
 
 ### 🏷️ 例 3871：波西米亚风夏季摩天轮人像
 
-![波西米亚风夏季摩天轮人像](../../images/%E6%B3%A2%E8%A5%BF%E7%B1%B3%E4%BA%9A%E9%A3%8E%E5%A4%8F%E5%AD%A3%E6%91%A9%E5%A4%A9%E8%BD%AE%E4%BA%BA%E5%83%8F.jpg)
+![波西米亚风夏季摩天轮人像](../images/%E6%B3%A2%E8%A5%BF%E7%B1%B3%E4%BA%9A%E9%A3%8E%E5%A4%8F%E5%AD%A3%E6%91%A9%E5%A4%A9%E8%BD%AE%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -10029,7 +10029,7 @@ The face, identity, appearance, age, and all unique characteristics of the perso
 
 ### 🏷️ 例 3897：沙漠科幻动作项目
 
-![沙漠科幻动作项目](../../images/%E6%B2%99%E6%BC%A0%E7%A7%91%E5%B9%BB%E5%8A%A8%E4%BD%9C%E9%A1%B9%E7%9B%AE.jpg)
+![沙漠科幻动作项目](../images/%E6%B2%99%E6%BC%A0%E7%A7%91%E5%B9%BB%E5%8A%A8%E4%BD%9C%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -10071,7 +10071,7 @@ Constraints: Keep the 3x3 storyboard layout clear and readable. Use exactly nine
 
 ### 🏷️ 例 3901：女王与白化巨蛇
 
-![女王与白化巨蛇](../../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E7%99%BD%E5%8C%96%E5%B7%A8%E8%9B%87.jpg)
+![女王与白化巨蛇](../images/%E5%A5%B3%E7%8E%8B%E4%B8%8E%E7%99%BD%E5%8C%96%E5%B7%A8%E8%9B%87.jpg)
 
 **Prompt:**
 
@@ -10089,7 +10089,7 @@ Create an ultra-detailed fantasy oil-painting style portrait titled {argument na
 
 ### 🏷️ 例 3934：奢华海滩编织吊椅人像
 
-![奢华海滩编织吊椅人像](../../images/%E5%A5%A2%E5%8D%8E%E6%B5%B7%E6%BB%A9%E7%BC%96%E7%BB%87%E5%90%8A%E6%A4%85%E4%BA%BA%E5%83%8F.jpg)
+![奢华海滩编织吊椅人像](../images/%E5%A5%A2%E5%8D%8E%E6%B5%B7%E6%BB%A9%E7%BC%96%E7%BB%87%E5%90%8A%E6%A4%85%E4%BA%BA%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -10115,7 +10115,7 @@ Clear summer day, natural sunlight, realistic textures of water and fabric, atmo
 
 ### 🏷️ 例 3945：将女性转化为石像
 
-![将女性转化为石像](../../images/%E5%B0%86%E5%A5%B3%E6%80%A7%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9F%B3%E5%83%8F.jpg)
+![将女性转化为石像](../images/%E5%B0%86%E5%A5%B3%E6%80%A7%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%9F%B3%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -10133,7 +10133,7 @@ Using the provided reference image, keep the cardboard-box point-of-view composi
 
 ### 🏷️ 例 3957：天使云端终端图标
 
-![天使云端终端图标](../../images/%E5%A4%A9%E4%BD%BF%E4%BA%91%E7%AB%AF%E7%BB%88%E7%AB%AF%E5%9B%BE%E6%A0%87.jpg)
+![天使云端终端图标](../images/%E5%A4%A9%E4%BD%BF%E4%BA%91%E7%AB%AF%E7%BB%88%E7%AB%AF%E5%9B%BE%E6%A0%87.jpg)
 
 **Prompt:**
 
@@ -10151,7 +10151,7 @@ Create a dreamy celestial tech icon scene: a large rounded cloud-shaped logo flo
 
 ### 🏷️ 例 3964：夏日天空下的动漫少女
 
-![夏日天空下的动漫少女](../../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![夏日天空下的动漫少女](../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -10169,7 +10169,7 @@ Create a clean high-resolution anime illustration of a teenage girl standing out
 
 ### 🏷️ 例 3969：身穿西装、手持扩音器的动漫角色
 
-![身穿西装、手持扩音器的动漫角色](../../images/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%85%E3%80%81%E6%89%8B%E6%8C%81%E6%89%A9%E9%9F%B3%E5%99%A8%E7%9A%84%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
+![身穿西装、手持扩音器的动漫角色](../images/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%85%E3%80%81%E6%89%8B%E6%8C%81%E6%89%A9%E9%9F%B3%E5%99%A8%E7%9A%84%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2.jpg)
 
 **Prompt:**
 
@@ -10187,7 +10187,7 @@ Create a vertical anime-style portrait illustration of {argument name="character
 
 ### 🏷️ 例 4005：Strike Sport 拳击手主题海报
 
-![Strike Sport 拳击手主题海报](../../images/Strike%20Sport%20%E6%8B%B3%E5%87%BB%E6%89%8B%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
+![Strike Sport 拳击手主题海报](../images/Strike%20Sport%20%E6%8B%B3%E5%87%BB%E6%89%8B%E4%B8%BB%E9%A2%98%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -10205,7 +10205,7 @@ Create a 4:5 full-bleed editorial action poster for {argument name="brand name" 
 
 ### 🏷️ 例 4006：复古苏联汽车的电影级无人机摄影
 
-![复古苏联汽车的电影级无人机摄影](../../images/%E5%A4%8D%E5%8F%A4%E8%8B%8F%E8%81%94%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
+![复古苏联汽车的电影级无人机摄影](../images/%E5%A4%8D%E5%8F%A4%E8%8B%8F%E8%81%94%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
 
 **Prompt:**
 
@@ -10223,7 +10223,7 @@ Ultra realistic cinematic drone photograph of a beautiful young woman ( FACE GIV
 
 ### 🏷️ 例 4008：电影感日本稻田景观
 
-![电影感日本稻田景观](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%A5%E6%9C%AC%E7%A8%BB%E7%94%B0%E6%99%AF%E8%A7%82.jpg)
+![电影感日本稻田景观](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E6%97%A5%E6%9C%AC%E7%A8%BB%E7%94%B0%E6%99%AF%E8%A7%82.jpg)
 
 **Prompt:**
 
@@ -10241,7 +10241,7 @@ Cinematic film still, {argument name="landscape type" default="rural Japanese ri
 
 ### 🏷️ 例 4028：蓝大理石漩涡中的俯视豹子
 
-![蓝大理石漩涡中的俯视豹子](../../images/%E8%93%9D%E5%A4%A7%E7%90%86%E7%9F%B3%E6%BC%A9%E6%B6%A1%E4%B8%AD%E7%9A%84%E4%BF%AF%E8%A7%86%E8%B1%B9%E5%AD%90.jpg)
+![蓝大理石漩涡中的俯视豹子](../images/%E8%93%9D%E5%A4%A7%E7%90%86%E7%9F%B3%E6%BC%A9%E6%B6%A1%E4%B8%AD%E7%9A%84%E4%BF%AF%E8%A7%86%E8%B1%B9%E5%AD%90.jpg)
 
 **Prompt:**
 
@@ -10259,7 +10259,7 @@ Create a vertical fine-art illustration of exactly 1 leopard viewed from directl
 
 ### 🏷️ 例 4030：蓝黑配色猫娘 Q 版
 
-![蓝黑配色猫娘 Q 版](../../images/%E8%93%9D%E9%BB%91%E9%85%8D%E8%89%B2%E7%8C%AB%E5%A8%98%20Q%20%E7%89%88.jpg)
+![蓝黑配色猫娘 Q 版](../images/%E8%93%9D%E9%BB%91%E9%85%8D%E8%89%B2%E7%8C%AB%E5%A8%98%20Q%20%E7%89%88.jpg)
 
 **Prompt:**
 
@@ -10277,7 +10277,7 @@ Create a square anime-style illustration of a cute chibi cat-girl with {argument
 
 ### 🏷️ 例 4034：快乐天狗武士概念艺术
 
-![快乐天狗武士概念艺术](../../images/%E5%BF%AB%E4%B9%90%E5%A4%A9%E7%8B%97%E6%AD%A6%E5%A3%AB%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
+![快乐天狗武士概念艺术](../images/%E5%BF%AB%E4%B9%90%E5%A4%A9%E7%8B%97%E6%AD%A6%E5%A3%AB%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -10295,7 +10295,7 @@ Create a full-body character concept illustration of a {argument name="character
 
 ### 🏷️ 例 4043：霓虹狐狸巫女
 
-![霓虹狐狸巫女](../../images/%E9%9C%93%E8%99%B9%E7%8B%90%E7%8B%B8%E5%B7%AB%E5%A5%B3.jpg)
+![霓虹狐狸巫女](../images/%E9%9C%93%E8%99%B9%E7%8B%90%E7%8B%B8%E5%B7%AB%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -10313,7 +10313,7 @@ Create a vibrant niji-style anime illustration in a vertical 9:16 canvas of {arg
 
 ### 🏷️ 例 4049：被猫咪包围的动漫少女
 
-![被猫咪包围的动漫少女](../../images/%E8%A2%AB%E7%8C%AB%E5%92%AA%E5%8C%85%E5%9B%B4%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+![被猫咪包围的动漫少女](../images/%E8%A2%AB%E7%8C%AB%E5%92%AA%E5%8C%85%E5%9B%B4%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -10331,7 +10331,7 @@ Create a vertical 3:4 anime-style illustration of {argument name="character name
 
 ### 🏷️ 例 4062：90 年代复古纱丽电影感美学
 
-![90 年代复古纱丽电影感美学](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E7%BA%B1%E4%B8%BD%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BE%8E%E5%AD%A6.jpg)
+![90 年代复古纱丽电影感美学](../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E7%BA%B1%E4%B8%BD%E7%94%B5%E5%BD%B1%E6%84%9F%E7%BE%8E%E5%AD%A6.jpg)
 
 **Prompt:**
 
@@ -10351,7 +10351,7 @@ Pinteresty aesthetic {argument name="garment" default="retro saree"} and red ban
 
 ### 🏷️ 例 4066：巴黎柔和纸艺拼贴画
 
-![巴黎柔和纸艺拼贴画](../../images/%E5%B7%B4%E9%BB%8E%E6%9F%94%E5%92%8C%E7%BA%B8%E8%89%BA%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+![巴黎柔和纸艺拼贴画](../images/%E5%B7%B4%E9%BB%8E%E6%9F%94%E5%92%8C%E7%BA%B8%E8%89%BA%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -10369,7 +10369,7 @@ Create a refined vertical 2:3 illustration of {argument name="city" default="PAR
 
 ### 🏷️ 例 4076：动漫摇滚双人组与吉他及乐谱
 
-![动漫摇滚双人组与吉他及乐谱](../../images/%E5%8A%A8%E6%BC%AB%E6%91%87%E6%BB%9A%E5%8F%8C%E4%BA%BA%E7%BB%84%E4%B8%8E%E5%90%89%E4%BB%96%E5%8F%8A%E4%B9%90%E8%B0%B1.jpg)
+![动漫摇滚双人组与吉他及乐谱](../images/%E5%8A%A8%E6%BC%AB%E6%91%87%E6%BB%9A%E5%8F%8C%E4%BA%BA%E7%BB%84%E4%B8%8E%E5%90%89%E4%BB%96%E5%8F%8A%E4%B9%90%E8%B0%B1.jpg)
 
 **Prompt:**
 
@@ -10387,7 +10387,7 @@ Create a vertical 9:16 high-energy anime illustration of exactly two young male 
 
 ### 🏷️ 例 4081：樱花房中粉发和服少女
 
-![樱花房中粉发和服少女](../../images/%E6%A8%B1%E8%8A%B1%E6%88%BF%E4%B8%AD%E7%B2%89%E5%8F%91%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+![樱花房中粉发和服少女](../images/%E6%A8%B1%E8%8A%B1%E6%88%BF%E4%B8%AD%E7%B2%89%E5%8F%91%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -10405,7 +10405,7 @@ Create a polished anime visual-novel style illustration of a shy young woman nam
 
 ### 🏷️ 例 4091：海滨敞篷车与柠檬苏打
 
-![海滨敞篷车与柠檬苏打](../../images/%E6%B5%B7%E6%BB%A8%E6%95%9E%E7%AF%B7%E8%BD%A6%E4%B8%8E%E6%9F%A0%E6%AA%AC%E8%8B%8F%E6%89%93.jpg)
+![海滨敞篷车与柠檬苏打](../images/%E6%B5%B7%E6%BB%A8%E6%95%9E%E7%AF%B7%E8%BD%A6%E4%B8%8E%E6%9F%A0%E6%AA%AC%E8%8B%8F%E6%89%93.jpg)
 
 **Prompt:**
 
@@ -10423,7 +10423,7 @@ Create a vivid summer coastal scene in polished anime-realistic illustration sty
 
 ### 🏷️ 例 4096：比出 OK 手势的动漫女性
 
-![比出 OK 手势的动漫女性](../../images/%E6%AF%94%E5%87%BA%20OK%20%E6%89%8B%E5%8A%BF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E6%80%A7.jpg)
+![比出 OK 手势的动漫女性](../images/%E6%AF%94%E5%87%BA%20OK%20%E6%89%8B%E5%8A%BF%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A5%B3%E6%80%A7.jpg)
 
 **Prompt:**
 
@@ -10447,7 +10447,7 @@ Create a polished anime-style illustration of a cheerful young woman viewed from
 ![提示词：
 
 {
-  "task": "portrait_replacement_editorial_](../../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%7B%20task%20portrait_replacement_editorial_.jpg)
+  "task": "portrait_replacement_editorial_](../images/%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%7B%20task%20portrait_replacement_editorial_.jpg)
 
 **Prompt:**
 
@@ -10464,7 +10464,7 @@ Create a polished anime-style illustration of a cheerful young woman viewed from
 
 ### 🏷️ 例 4103：水彩儿童绘本插画
 
-![水彩儿童绘本插画](../../images/%E6%B0%B4%E5%BD%A9%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
+![水彩儿童绘本插画](../images/%E6%B0%B4%E5%BD%A9%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -10482,7 +10482,7 @@ Whimsical hand-drawn watercolor and colored-pencil illustration of a peaceful ev
 
 ### 🏷️ 例 4105：液态铬金属 T 台模特
 
-![液态铬金属 T 台模特](../../images/%E6%B6%B2%E6%80%81%E9%93%AC%E9%87%91%E5%B1%9E%20T%20%E5%8F%B0%E6%A8%A1%E7%89%B9.jpg)
+![液态铬金属 T 台模特](../images/%E6%B6%B2%E6%80%81%E9%93%AC%E9%87%91%E5%B1%9E%20T%20%E5%8F%B0%E6%A8%A1%E7%89%B9.jpg)
 
 **Prompt:**
 
@@ -10500,7 +10500,7 @@ Create a dramatic vertical anime fashion runway illustration of one futuristic f
 
 ### 🏷️ 例 4108：全身青色双马尾动漫偶像
 
-![全身青色双马尾动漫偶像](../../images/%E5%85%A8%E8%BA%AB%E9%9D%92%E8%89%B2%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
+![全身青色双马尾动漫偶像](../images/%E5%85%A8%E8%BA%AB%E9%9D%92%E8%89%B2%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -10518,7 +10518,7 @@ Create a full-body anime idol illustration of {argument name="character name" de
 
 ### 🏷️ 例 4129：身着海军蓝蕾丝礼服的优雅模特
 
-![身着海军蓝蕾丝礼服的优雅模特](../../images/%E8%BA%AB%E7%9D%80%E6%B5%B7%E5%86%9B%E8%93%9D%E8%95%BE%E4%B8%9D%E7%A4%BC%E6%9C%8D%E7%9A%84%E4%BC%98%E9%9B%85%E6%A8%A1%E7%89%B9.jpg)
+![身着海军蓝蕾丝礼服的优雅模特](../images/%E8%BA%AB%E7%9D%80%E6%B5%B7%E5%86%9B%E8%93%9D%E8%95%BE%E4%B8%9D%E7%A4%BC%E6%9C%8D%E7%9A%84%E4%BC%98%E9%9B%85%E6%A8%A1%E7%89%B9.jpg)
 
 **Prompt:**
 
@@ -10536,7 +10536,7 @@ Photorealistic, 8k, HIGH-RESOLUTION PHOTOGRAPH, A {argument name="age" default="
 
 ### 🏷️ 例 4140：专业角色设计图
 
-![专业角色设计图](../../images/%E4%B8%93%E4%B8%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![专业角色设计图](../images/%E4%B8%93%E4%B8%9A%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 

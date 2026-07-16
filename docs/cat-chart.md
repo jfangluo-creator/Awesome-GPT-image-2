@@ -1540,7 +1540,7 @@ Constraints: Keep all labels legible, align sections neatly, preserve the exact 
 
 ### 📊 例 1222：Codex 培训海报工作流程信息图
 
-![Codex 培训海报工作流程信息图](../../images/Codex%20%E5%9F%B9%E8%AE%AD%E6%B5%B7%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![Codex 培训海报工作流程信息图](../images/Codex%20%E5%9F%B9%E8%AE%AD%E6%B5%B7%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1604,7 +1604,7 @@ Visual style: Use dark navy for headings and card headers, muted gold for accent
 
 ### 📊 例 1253：Master Potter 陶瓷信息图网格
 
-![Master Potter 陶瓷信息图网格](../../images/Master%20Potter%20%E9%99%B6%E7%93%B7%E4%BF%A1%E6%81%AF%E5%9B%BE%E7%BD%91%E6%A0%BC.jpg)
+![Master Potter 陶瓷信息图网格](../images/Master%20Potter%20%E9%99%B6%E7%93%B7%E4%BF%A1%E6%81%AF%E5%9B%BE%E7%BD%91%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -1622,7 +1622,7 @@ Visual style: Use dark navy for headings and card headers, muted gold for accent
 
 ### 📊 例 1435：用于药物研究的科学信息图
 
-![用于药物研究的科学信息图](../../images/%E7%94%A8%E4%BA%8E%E8%8D%AF%E7%89%A9%E7%A0%94%E7%A9%B6%E7%9A%84%E7%A7%91%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![用于药物研究的科学信息图](../images/%E7%94%A8%E4%BA%8E%E8%8D%AF%E7%89%A9%E7%A0%94%E7%A9%B6%E7%9A%84%E7%A7%91%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1640,7 +1640,7 @@ Create a detailed scientific infographic about {argument name="topic" default="L
 
 ### 📊 例 1575：时尚信息图概念设计表
 
-![时尚信息图概念设计表](../../images/%E6%97%B6%E5%B0%9A%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E8%A1%A8.jpg)
+![时尚信息图概念设计表](../images/%E6%97%B6%E5%B0%9A%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E8%A1%A8.jpg)
 
 **Prompt:**
 
@@ -1662,7 +1662,7 @@ Surrounding the model are fashion infographic elements, jersey fabric notes, den
 
 ### 📊 例 1636：Museum Wall Claude Fable 5 信息图
 
-![Museum Wall Claude Fable 5 信息图](../../images/Museum%20Wall%20Claude%20Fable%205%20%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![Museum Wall Claude Fable 5 信息图](../images/Museum%20Wall%20Claude%20Fable%205%20%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1714,7 +1714,7 @@ Constraints: Use exactly 3 main framed exhibits, exactly 3 lower explanatory pla
 
 ### 📊 例 1684：史诗级宇宙历史时间轴海报
 
-![史诗级宇宙历史时间轴海报](../../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%AE%87%E5%AE%99%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4%E6%B5%B7%E6%8A%A5.jpg)
+![史诗级宇宙历史时间轴海报](../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%AE%87%E5%AE%99%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -1764,7 +1764,7 @@ Constraints: Make the poster astonishingly dense but coherent; keep all 18 botto
 
 ### 📊 例 1691：纹身师故事板信息图
 
-![纹身师故事板信息图](../../images/%E7%BA%B9%E8%BA%AB%E5%B8%88%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![纹身师故事板信息图](../images/%E7%BA%B9%E8%BA%AB%E5%B8%88%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1782,7 +1782,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="subject"
 
 ### 📊 例 1751：地球剖面结构信息图
 
-![地球剖面结构信息图](../../images/%E5%9C%B0%E7%90%83%E5%89%96%E9%9D%A2%E7%BB%93%E6%9E%84%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![地球剖面结构信息图](../images/%E5%9C%B0%E7%90%83%E5%89%96%E9%9D%A2%E7%BB%93%E6%9E%84%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1824,7 +1824,7 @@ Constraints: Keep exactly 4 annotation blocks and exactly 4 layer labels. Do not
 
 ### 📊 例 1758：牙医故事板信息图
 
-![牙医故事板信息图](../../images/%E7%89%99%E5%8C%BB%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![牙医故事板信息图](../images/%E7%89%99%E5%8C%BB%E6%95%85%E4%BA%8B%E6%9D%BF%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1842,7 +1842,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="subject"
 
 ### 📊 例 1789：技术蓝图信息图
 
-![技术蓝图信息图](../../images/%E6%8A%80%E6%9C%AF%E8%93%9D%E5%9B%BE%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![技术蓝图信息图](../images/%E6%8A%80%E6%9C%AF%E8%93%9D%E5%9B%BE%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1867,7 +1867,7 @@ Include a sketch box in the upper left corner with the title "OBJECT".
 
 ### 📊 例 1790：中华文明历程海报
 
-![中华文明历程海报](../../images/%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E5%8E%86%E7%A8%8B%E6%B5%B7%E6%8A%A5.jpg)
+![中华文明历程海报](../images/%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E5%8E%86%E7%A8%8B%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -1909,7 +1909,7 @@ Constraints: Preserve exactly 10 top era panels and 5 horizontal content bands. 
 
 ### 📊 例 2060：龙井茶信息图海报
 
-![龙井茶信息图海报](../../images/%E9%BE%99%E4%BA%95%E8%8C%B6%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+![龙井茶信息图海报](../images/%E9%BE%99%E4%BA%95%E8%8C%B6%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -1965,7 +1965,7 @@ Constraints: Use exactly 7 information cards and exactly 1 bottom slogan banner.
 
 ### 📊 例 2117：复古兔子拼贴标本
 
-![复古兔子拼贴标本](../../images/%E5%A4%8D%E5%8F%A4%E5%85%94%E5%AD%90%E6%8B%BC%E8%B4%B4%E6%A0%87%E6%9C%AC.jpg)
+![复古兔子拼贴标本](../images/%E5%A4%8D%E5%8F%A4%E5%85%94%E5%AD%90%E6%8B%BC%E8%B4%B4%E6%A0%87%E6%9C%AC.jpg)
 
 **Prompt:**
 
@@ -1983,7 +1983,7 @@ Create a vertical vintage mixed-media collage illustration of a standing rabbit-
 
 ### 📊 例 2159：远征规划战略项目
 
-![远征规划战略项目](../../images/%E8%BF%9C%E5%BE%81%E8%A7%84%E5%88%92%E6%88%98%E7%95%A5%E9%A1%B9%E7%9B%AE.jpg)
+![远征规划战略项目](../images/%E8%BF%9C%E5%BE%81%E8%A7%84%E5%88%92%E6%88%98%E7%95%A5%E9%A1%B9%E7%9B%AE.jpg)
 
 **Prompt:**
 
@@ -2001,7 +2001,7 @@ A strategic command board for an expedition leader planning {argument name="miss
 
 ### 📊 例 2162：赛博生物发光花卉信息图
 
-![赛博生物发光花卉信息图](../../images/%E8%B5%9B%E5%8D%9A%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E8%8A%B1%E5%8D%89%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![赛博生物发光花卉信息图](../images/%E8%B5%9B%E5%8D%9A%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89%E8%8A%B1%E5%8D%89%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2015,7 +2015,7 @@ A strategic command board for an expedition leader planning {argument name="miss
 
 ### 📊 例 2238：皮克斯风格信息图故事板
 
-![皮克斯风格信息图故事板](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+![皮克斯风格信息图故事板](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
 
 **Prompt:**
 
@@ -2033,7 +2033,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="title" d
 
 ### 📊 例 2318：Claude Code 速报信息图
 
-![Claude Code 速报信息图](../../images/Claude%20Code%20%E9%80%9F%E6%8A%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![Claude Code 速报信息图](../images/Claude%20Code%20%E9%80%9F%E6%8A%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2075,7 +2075,7 @@ Constraints: Use Japanese text exactly as specified, do not add extra sections o
 
 ### 📊 例 2380：白斑河鲀科学图鉴
 
-![白斑河鲀科学图鉴](../../images/%E7%99%BD%E6%96%91%E6%B2%B3%E9%B2%80%E7%A7%91%E5%AD%A6%E5%9B%BE%E9%89%B4.jpg)
+![白斑河鲀科学图鉴](../images/%E7%99%BD%E6%96%91%E6%B2%B3%E9%B2%80%E7%A7%91%E5%AD%A6%E5%9B%BE%E9%89%B4.jpg)
 
 **Prompt:**
 
@@ -2129,7 +2129,7 @@ Constraints: Use exactly the listed panel counts and numbered items. Keep all te
 
 ### 📊 例 2512：历史战役可视化长卷
 
-![历史战役可视化长卷](../../images/%E5%8E%86%E5%8F%B2%E6%88%98%E5%BD%B9%E5%8F%AF%E8%A7%86%E5%8C%96%E9%95%BF%E5%8D%B7.jpg)
+![历史战役可视化长卷](../images/%E5%8E%86%E5%8F%B2%E6%88%98%E5%BD%B9%E5%8F%AF%E8%A7%86%E5%8C%96%E9%95%BF%E5%8D%B7.jpg)
 
 **Prompt:**
 
@@ -2148,7 +2148,7 @@ Constraints: Use exactly the listed panel counts and numbered items. Keep all te
 
 ### 📊 例 2514：韩语版人机协作团队信息图
 
-![韩语版人机协作团队信息图](../../images/%E9%9F%A9%E8%AF%AD%E7%89%88%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![韩语版人机协作团队信息图](../images/%E9%9F%A9%E8%AF%AD%E7%89%88%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2210,7 +2210,7 @@ Constraints: Keep exactly 5 numbered main sections, exactly 2 comparison panels,
 
 ### 📊 例 2562：皮克斯风格信息图故事板海报
 
-![皮克斯风格信息图故事板海报](../../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
+![皮克斯风格信息图故事板海报](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%95%85%E4%BA%8B%E6%9D%BF%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -2228,7 +2228,7 @@ Create a crisp, clean infographic storyboard poster for {argument name="subject"
 
 ### 📊 例 2798：GPT Image 2 分层工作流信息图
 
-![GPT Image 2 分层工作流信息图](../../images/GPT%20Image%202%20%E5%88%86%E5%B1%82%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![GPT Image 2 分层工作流信息图](../images/GPT%20Image%202%20%E5%88%86%E5%B1%82%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2296,7 +2296,7 @@ Constraints: Use exactly 3 layer example cards, exactly 3 mini layer rows, exact
 
 ### 📊 例 2895：七夕动漫 7 月日历
 
-![七夕动漫 7 月日历](../../images/%E4%B8%83%E5%A4%95%E5%8A%A8%E6%BC%AB%207%20%E6%9C%88%E6%97%A5%E5%8E%86.jpg)
+![七夕动漫 7 月日历](../images/%E4%B8%83%E5%A4%95%E5%8A%A8%E6%BC%AB%207%20%E6%9C%88%E6%97%A5%E5%8E%86.jpg)
 
 **Prompt:**
 
@@ -2342,7 +2342,7 @@ Constraints: No extra characters, no modern city objects in the foreground, no l
 
 ### 📊 例 2909：摩洛哥足球实力儿童信息图
 
-![摩洛哥足球实力儿童信息图](../../images/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%B6%B3%E7%90%83%E5%AE%9E%E5%8A%9B%E5%84%BF%E7%AB%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![摩洛哥足球实力儿童信息图](../images/%E6%91%A9%E6%B4%9B%E5%93%A5%E8%B6%B3%E7%90%83%E5%AE%9E%E5%8A%9B%E5%84%BF%E7%AB%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2404,7 +2404,7 @@ Visual style: Bright Japanese children’s infographic, thick outlines, cute exp
 
 ### 📊 例 2926：韩式涂鸦编辑插画
 
-![韩式涂鸦编辑插画](../../images/%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+![韩式涂鸦编辑插画](../images/%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2422,7 +2422,7 @@ Create a simple and cute Korean doodled editorial illustration based on {argumen
 
 ### 📊 例 3104：Excel VBA 社区推广横幅
 
-![Excel VBA 社区推广横幅](../../images/Excel%20VBA%20%E7%A4%BE%E5%8C%BA%E6%8E%A8%E5%B9%BF%E6%A8%AA%E5%B9%85.jpg)
+![Excel VBA 社区推广横幅](../images/Excel%20VBA%20%E7%A4%BE%E5%8C%BA%E6%8E%A8%E5%B9%BF%E6%A8%AA%E5%B9%85.jpg)
 
 **Prompt:**
 
@@ -2468,7 +2468,7 @@ Constraints: Use exactly the counted elements described above; do not add extra 
 
 ### 📊 例 3108：进化分支树可视化
 
-![进化分支树可视化](../../images/%E8%BF%9B%E5%8C%96%E5%88%86%E6%94%AF%E6%A0%91%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+![进化分支树可视化](../images/%E8%BF%9B%E5%8C%96%E5%88%86%E6%94%AF%E6%A0%91%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
 
 **Prompt:**
 
@@ -2486,7 +2486,7 @@ A top-down branching tree where {argument name="theme" default="THEME"} objects 
 
 ### 📊 例 3114：极简韩式涂鸦插画
 
-![极简韩式涂鸦插画](../../images/%E6%9E%81%E7%AE%80%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+![极简韩式涂鸦插画](../images/%E6%9E%81%E7%AE%80%E9%9F%A9%E5%BC%8F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2604,7 +2604,7 @@ over-rendered characters.
 
 ### 📊 例 3120：复古瑜伽信息图海报
 
-![复古瑜伽信息图海报](../../images/%E5%A4%8D%E5%8F%A4%E7%91%9C%E4%BC%BD%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+![复古瑜伽信息图海报](../images/%E5%A4%8D%E5%8F%A4%E7%91%9C%E4%BC%BD%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
 
 **Prompt:**
 
@@ -2622,7 +2622,7 @@ Create a vertical vintage-style infographic poster about the {argument name="inf
 
 ### 📊 例 3142：笔记本电脑技术信息图插画
 
-![笔记本电脑技术信息图插画](../../images/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%8F%92%E7%94%BB.jpg)
+![笔记本电脑技术信息图插画](../images/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF%E5%9B%BE%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2690,7 +2690,7 @@ Output:
 
 ### 📊 例 3155：等距视角房间历史时间轴
 
-![等距视角房间历史时间轴](../../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E6%88%BF%E9%97%B4%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
+![等距视角房间历史时间轴](../images/%E7%AD%89%E8%B7%9D%E8%A7%86%E8%A7%92%E6%88%BF%E9%97%B4%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
 
 **Prompt:**
 
@@ -2708,7 +2708,7 @@ Output:
 
 ### 📊 例 3373：Jakub Pachocki AI 创新者信息图
 
-![Jakub Pachocki AI 创新者信息图](../../images/Jakub%20Pachocki%20AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![Jakub Pachocki AI 创新者信息图](../images/Jakub%20Pachocki%20AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2772,7 +2772,7 @@ Constraints: Keep all text legible and aligned; use exactly 5 content cards, exa
 
 ### 📊 例 3438：AI 编程搭档进化时间轴
 
-![AI 编程搭档进化时间轴](../../images/AI%20%E7%BC%96%E7%A8%8B%E6%90%AD%E6%A1%A3%E8%BF%9B%E5%8C%96%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
+![AI 编程搭档进化时间轴](../images/AI%20%E7%BC%96%E7%A8%8B%E6%90%AD%E6%A1%A3%E8%BF%9B%E5%8C%96%E6%97%B6%E9%97%B4%E8%BD%B4.jpg)
 
 **Prompt:**
 
@@ -2818,7 +2818,7 @@ Visual style: Cyber UI dashboard look, rounded cards with translucent dark fill,
 
 ### 📊 例 3440：超现实饮料信息图广告
 
-![超现实饮料信息图广告](../../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%A5%AE%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%B9%BF%E5%91%8A.jpg)
+![超现实饮料信息图广告](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%A5%AE%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%B9%BF%E5%91%8A.jpg)
 
 **Prompt:**
 
@@ -2836,7 +2836,7 @@ A premium infographic-style advertisement featuring an oversized {argument name=
 
 ### 📊 例 3589：九款模型稻草人妖怪对比
 
-![九款模型稻草人妖怪对比](../../images/%E4%B9%9D%E6%AC%BE%E6%A8%A1%E5%9E%8B%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%A6%96%E6%80%AA%E5%AF%B9%E6%AF%94.jpg)
+![九款模型稻草人妖怪对比](../images/%E4%B9%9D%E6%AC%BE%E6%A8%A1%E5%9E%8B%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%A6%96%E6%80%AA%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -2882,7 +2882,7 @@ Constraints: Do not add extra panels, extra labels, logos, watermarks, captions,
 
 ### 📊 例 3596：手绘风西红柿炒鸡蛋食谱信息图
 
-![手绘风西红柿炒鸡蛋食谱信息图](../../images/%E6%89%8B%E7%BB%98%E9%A3%8E%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B%E9%A3%9F%E8%B0%B1%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![手绘风西红柿炒鸡蛋食谱信息图](../images/%E6%89%8B%E7%BB%98%E9%A3%8E%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B%E9%A3%9F%E8%B0%B1%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2924,7 +2924,7 @@ Constraints: Use exactly 6 ingredient notes and exactly 5 step cards; keep all C
 
 ### 📊 例 3627：X 时间线突破数字艺术
 
-![X 时间线突破数字艺术](../../images/X%20%E6%97%B6%E9%97%B4%E7%BA%BF%E7%AA%81%E7%A0%B4%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF.jpg)
+![X 时间线突破数字艺术](../images/X%20%E6%97%B6%E9%97%B4%E7%BA%BF%E7%AA%81%E7%A0%B4%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -2954,7 +2954,7 @@ Constraints: Use exactly 6 ingredient notes and exactly 5 step cards; keep all C
 
 ### 📊 例 3647：日本 AI 员工信息图
 
-![日本 AI 员工信息图](../../images/%E6%97%A5%E6%9C%AC%20AI%20%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![日本 AI 员工信息图](../images/%E6%97%A5%E6%9C%AC%20AI%20%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3008,7 +3008,7 @@ Visual style: Japanese corporate infographic, crisp typography, generous spacing
 
 ### 📊 例 3659：AI 创新者个人资料信息图
 
-![AI 创新者个人资料信息图](../../images/AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![AI 创新者个人资料信息图](../images/AI%20%E5%88%9B%E6%96%B0%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3078,7 +3078,7 @@ Constraints: Keep all text legible and spelled correctly. Use exactly 5 cards, e
 
 ### 📊 例 3671：日本企业物价指数 Slides
 
-![日本企业物价指数 Slides](../../images/%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E7%89%A9%E4%BB%B7%E6%8C%87%E6%95%B0%20Slides.jpg)
+![日本企业物价指数 Slides](../images/%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E7%89%A9%E4%BB%B7%E6%8C%87%E6%95%B0%20Slides.jpg)
 
 **Prompt:**
 
@@ -3116,7 +3116,7 @@ Visual style: Modern Japanese business presentation, crisp vector icons, rounded
 
 ### 📊 例 3752：Muse 日语信息图
 
-![Muse 日语信息图](../../images/Muse%20%E6%97%A5%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![Muse 日语信息图](../images/Muse%20%E6%97%A5%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3176,7 +3176,7 @@ Constraints: Keep all Japanese text accurate and readable, avoid extra headings 
 
 ### 📊 例 3772：日式鲜花碳酸饮料保鲜信息图
 
-![日式鲜花碳酸饮料保鲜信息图](../../images/%E6%97%A5%E5%BC%8F%E9%B2%9C%E8%8A%B1%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E4%BF%9D%E9%B2%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![日式鲜花碳酸饮料保鲜信息图](../images/%E6%97%A5%E5%BC%8F%E9%B2%9C%E8%8A%B1%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E4%BF%9D%E9%B2%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3230,7 +3230,7 @@ Style constraints: Japanese typography must be legible, friendly, and bold for h
 
 ### 📊 例 3843：2026 年 AI 图像工具梯队排行榜
 
-![2026 年 AI 图像工具梯队排行榜](../../images/2026%20%E5%B9%B4%20AI%20%E5%9B%BE%E5%83%8F%E5%B7%A5%E5%85%B7%E6%A2%AF%E9%98%9F%E6%8E%92%E8%A1%8C%E6%A6%9C.jpg)
+![2026 年 AI 图像工具梯队排行榜](../images/2026%20%E5%B9%B4%20AI%20%E5%9B%BE%E5%83%8F%E5%B7%A5%E5%85%B7%E6%A2%AF%E9%98%9F%E6%8E%92%E8%A1%8C%E6%A6%9C.jpg)
 
 **Prompt:**
 
@@ -3322,7 +3322,7 @@ Constraints: Preserve the exact count of 8 ranked tools, 5 tier bands, 8 rating 
 
 ### 📊 例 3864：推理上下文与 Prompt Cache 演示幻灯片
 
-![推理上下文与 Prompt Cache 演示幻灯片](../../images/%E6%8E%A8%E7%90%86%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%8E%20Prompt%20Cache%20%E6%BC%94%E7%A4%BA%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+![推理上下文与 Prompt Cache 演示幻灯片](../images/%E6%8E%A8%E7%90%86%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%8E%20Prompt%20Cache%20%E6%BC%94%E7%A4%BA%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -3372,7 +3372,7 @@ Constraints: Preserve the exact count of elements: 2 main panels, 3 left turn ma
 
 ### 📊 例 3882：带有蓝图叠加层的技术产品信息图
 
-![带有蓝图叠加层的技术产品信息图](../../images/%E5%B8%A6%E6%9C%89%E8%93%9D%E5%9B%BE%E5%8F%A0%E5%8A%A0%E5%B1%82%E7%9A%84%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![带有蓝图叠加层的技术产品信息图](../images/%E5%B8%A6%E6%9C%89%E8%93%9D%E5%9B%BE%E5%8F%A0%E5%8A%A0%E5%B1%82%E7%9A%84%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3397,7 +3397,7 @@ Include a sketch box in the upper left corner with the title "{argument name="ti
 
 ### 📊 例 3900：Pachinko 物理调试布局
 
-![Pachinko 物理调试布局](../../images/Pachinko%20%E7%89%A9%E7%90%86%E8%B0%83%E8%AF%95%E5%B8%83%E5%B1%80.jpg)
+![Pachinko 物理调试布局](../images/Pachinko%20%E7%89%A9%E7%90%86%E8%B0%83%E8%AF%95%E5%B8%83%E5%B1%80.jpg)
 
 **Prompt:**
 
@@ -3447,7 +3447,7 @@ Customizable concept: Build the layout as a {argument name="machine type" defaul
 
 ### 📊 例 3929：ASMR 开箱分镜信息图
 
-![ASMR 开箱分镜信息图](../../images/ASMR%20%E5%BC%80%E7%AE%B1%E5%88%86%E9%95%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+![ASMR 开箱分镜信息图](../images/ASMR%20%E5%BC%80%E7%AE%B1%E5%88%86%E9%95%9C%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -3465,7 +3465,7 @@ Create a clean, premium storyboard infographic for a product ASMR unboxing video
 
 ### 📊 例 4054：90 年代游戏攻略指南页面
 
-![90 年代游戏攻略指南页面](../../images/90%20%E5%B9%B4%E4%BB%A3%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%E6%8C%87%E5%8D%97%E9%A1%B5%E9%9D%A2.jpg)
+![90 年代游戏攻略指南页面](../images/90%20%E5%B9%B4%E4%BB%A3%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%E6%8C%87%E5%8D%97%E9%A1%B5%E9%9D%A2.jpg)
 
 **Prompt:**
 
@@ -3479,7 +3479,7 @@ Create a clean, premium storyboard infographic for a product ASMR unboxing video
 
 ### 📊 例 4084：韩语信息图表工作表批处理
 
-![韩语信息图表工作表批处理](../../images/%E9%9F%A9%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%89%B9%E5%A4%84%E7%90%86.jpg)
+![韩语信息图表工作表批处理](../images/%E9%9F%A9%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%89%B9%E5%A4%84%E7%90%86.jpg)
 
 **Prompt:**
 

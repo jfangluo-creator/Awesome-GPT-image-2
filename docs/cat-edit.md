@@ -1202,7 +1202,7 @@ Minimalist futuristic aesthetic.
 
 ### 🔧 例 1262：写实彩色线稿转换器
 
-![写实彩色线稿转换器](../../images/%E5%86%99%E5%AE%9E%E5%BD%A9%E8%89%B2%E7%BA%BF%E7%A8%BF%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+![写实彩色线稿转换器](../images/%E5%86%99%E5%AE%9E%E5%BD%A9%E8%89%B2%E7%BA%BF%E7%A8%BF%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
 
 **Prompt:**
 
@@ -1216,7 +1216,7 @@ Minimalist futuristic aesthetic.
 
 ### 🔧 例 1334：分层纸艺风格图像转换
 
-![分层纸艺风格图像转换](../../images/%E5%88%86%E5%B1%82%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+![分层纸艺风格图像转换](../images/%E5%88%86%E5%B1%82%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1246,7 +1246,7 @@ Use a {argument name="color palette" default="calming pastel color palette featu
 
 ### 🔧 例 1526：照片转写实贴纸包
 
-![照片转写实贴纸包](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%86%99%E5%AE%9E%E8%B4%B4%E7%BA%B8%E5%8C%85.jpg)
+![照片转写实贴纸包](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%86%99%E5%AE%9E%E8%B4%B4%E7%BA%B8%E5%8C%85.jpg)
 
 **Prompt:**
 
@@ -1264,7 +1264,7 @@ Turn this image into a {argument name="style" default="realistic sticker pack"} 
 
 ### 🔧 例 1626：世界杯球场球迷形象转换
 
-![世界杯球场球迷形象转换](../../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E5%BD%A2%E8%B1%A1%E8%BD%AC%E6%8D%A2.jpg)
+![世界杯球场球迷形象转换](../images/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E5%9C%BA%E7%90%83%E8%BF%B7%E5%BD%A2%E8%B1%A1%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1282,7 +1282,7 @@ Transform the uploaded photo into a realistic World Cup stadium fan scene. Place
 
 ### 🔧 例 1719：装饰性民间艺术扁平插画
 
-![装饰性民间艺术扁平插画](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+![装饰性民间艺术扁平插画](../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1300,7 +1300,7 @@ Please transform the entire image into a single {argument name="style" default="
 
 ### 🔧 例 1799：民间艺术风格插画
 
-![民间艺术风格插画](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+![民间艺术风格插画](../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1318,7 +1318,7 @@ Please transform the entire image into a single decorative {argument name="style
 
 ### 🔧 例 1802：动态电影感标题叠加
 
-![动态电影感标题叠加](../../images/%E5%8A%A8%E6%80%81%E7%94%B5%E5%BD%B1%E6%84%9F%E6%A0%87%E9%A2%98%E5%8F%A0%E5%8A%A0.jpg)
+![动态电影感标题叠加](../images/%E5%8A%A8%E6%80%81%E7%94%B5%E5%BD%B1%E6%84%9F%E6%A0%87%E9%A2%98%E5%8F%A0%E5%8A%A0.jpg)
 
 **Prompt:**
 
@@ -1402,7 +1402,7 @@ Add a title text to this image with intentional layer depth.
 
 ### 🔧 例 1824：角色概念设计图
 
-![角色概念设计图](../../images/%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![角色概念设计图](../images/%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1420,7 +1420,7 @@ Make a detailed character sheet concept art, name: {argument name="character nam
 
 ### 🔧 例 1839：民间艺术风格转换提示词
 
-![民间艺术风格转换提示词](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+![民间艺术风格转换提示词](../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
 
 **Prompt:**
 
@@ -1438,7 +1438,7 @@ Transform the uploaded image into a single Decorative Folk Art Flat Illustration
 
 ### 🔧 例 1880：照片与民间艺术扁平插画对比
 
-![照片与民间艺术扁平插画对比](../../images/%E7%85%A7%E7%89%87%E4%B8%8E%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E5%AF%B9%E6%AF%94.jpg)
+![照片与民间艺术扁平插画对比](../images/%E7%85%A7%E7%89%87%E4%B8%8E%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -1472,7 +1472,7 @@ Visual style: The left side must remain realistic and warm-toned; the right side
 
 ### 🔧 例 1887：照片转动漫风格
 
-![照片转动漫风格](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+![照片转动漫风格](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -1494,7 +1494,7 @@ Display the anime artwork as the main image and include the original uploaded ph
 
 ### 🔧 例 1904：民间扁平化插画风格转换
 
-![民间扁平化插画风格转换](../../images/%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+![民间扁平化插画风格转换](../images/%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1512,7 +1512,7 @@ Please transform the entire image into a single {argument name="style" default="
 
 ### 🔧 例 1945：将图片转换为 16 位复古像素艺术
 
-![将图片转换为 16 位复古像素艺术](../../images/%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%2016%20%E4%BD%8D%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF.jpg)
+![将图片转换为 16 位复古像素艺术](../images/%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%2016%20%E4%BD%8D%E5%A4%8D%E5%8F%A4%E5%83%8F%E7%B4%A0%E8%89%BA%E6%9C%AF.jpg)
 
 **Prompt:**
 
@@ -1530,7 +1530,7 @@ Transform the uploaded image into clean high-quality retro pixel art while prese
 
 ### 🔧 例 1957：电影级动漫风格转换对比
 
-![电影级动漫风格转换对比](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E5%AF%B9%E6%AF%94.jpg)
+![电影级动漫风格转换对比](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2%E5%AF%B9%E6%AF%94.jpg)
 
 **Prompt:**
 
@@ -1548,7 +1548,7 @@ Create a horizontal side-by-side comparison image showing the same young girl in
 
 ### 🔧 例 1986：可爱童书风格可丽饼插画
 
-![可爱童书风格可丽饼插画](../../images/%E5%8F%AF%E7%88%B1%E7%AB%A5%E4%B9%A6%E9%A3%8E%E6%A0%BC%E5%8F%AF%E4%B8%BD%E9%A5%BC%E6%8F%92%E7%94%BB.jpg)
+![可爱童书风格可丽饼插画](../images/%E5%8F%AF%E7%88%B1%E7%AB%A5%E4%B9%A6%E9%A3%8E%E6%A0%BC%E5%8F%AF%E4%B8%BD%E9%A5%BC%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1582,7 +1582,7 @@ Style inspired by modern kawaii illustration, children's picture books, statione
 
 ### 🔧 例 1988：民间艺术涂鸦风格转换
 
-![民间艺术涂鸦风格转换](../../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+![民间艺术涂鸦风格转换](../images/%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1600,7 +1600,7 @@ Tansform the entire image into a single flat, decorative {argument name="art sty
 
 ### 🔧 例 1997：电影感动漫照片转换
 
-![电影感动漫照片转换](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+![电影感动漫照片转换](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1618,7 +1618,7 @@ Using REFERENCE_0 as the base image, transform it into a premium cinematic Japan
 
 ### 🔧 例 1998：电影感动漫冬季照片转换
 
-![电影感动漫冬季照片转换](../../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E5%86%AC%E5%AD%A3%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+![电影感动漫冬季照片转换](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%8A%A8%E6%BC%AB%E5%86%AC%E5%AD%A3%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1640,7 +1640,7 @@ Enhance the scene into a warm winter evening atmosphere: keep the wet dark pavem
 
 ### 🔧 例 2000：照片转动漫风格
 
-![照片转动漫风格](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+![照片转动漫风格](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -1658,7 +1658,7 @@ Create an anime-style character based on a photo. Keep the body proportions, fac
 
 ### 🔧 例 2025：装饰性民间扁平插画风格转换
 
-![装饰性民间扁平插画风格转换](../../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+![装饰性民间扁平插画风格转换](../images/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%B0%91%E9%97%B4%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1676,7 +1676,7 @@ Transform the entire image into a single {argument name="style" default="Decorat
 
 ### 🔧 例 2034：90 年代动漫风格插画
 
-![90 年代动漫风格插画](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+![90 年代动漫风格插画](../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1692,7 +1692,7 @@ Transform the entire image into a single {argument name="style" default="Decorat
 
 ### 🔧 例 2067：小红书美食封面改造
 
-![小红书美食封面改造](../../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BE%8E%E9%A3%9F%E5%B0%81%E9%9D%A2%E6%94%B9%E9%80%A0.jpg)
+![小红书美食封面改造](../images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BE%8E%E9%A3%9F%E5%B0%81%E9%9D%A2%E6%94%B9%E9%80%A0.jpg)
 
 **Prompt:**
 
@@ -1710,7 +1710,7 @@ To Xiaohongshu Food Cover Photo Edit. {argument name="preservation" default="保
 
 ### 🔧 例 2073：蜡笔画转写实照片
 
-![蜡笔画转写实照片](../../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E8%BD%AC%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87.jpg)
+![蜡笔画转写实照片](../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E8%BD%AC%E5%86%99%E5%AE%9E%E7%85%A7%E7%89%87.jpg)
 
 **Prompt:**
 
@@ -1728,7 +1728,7 @@ Transform this {argument name="input style" default="crayon-style illustration"}
 
 ### 🔧 例 2079：奇幻民间艺术扁平化插画
 
-![奇幻民间艺术扁平化插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB.jpg)
+![奇幻民间艺术扁平化插画](../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -1746,7 +1746,7 @@ Please transform the entire image into a single {argument name="art style" defau
 
 ### 🔧 例 2103：纸艺风格图像转换
 
-![纸艺风格图像转换](../../images/%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
+![纸艺风格图像转换](../images/%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1764,7 +1764,7 @@ Convert this image into a soft, handcrafted {argument name="art style" default="
 
 ### 🔧 例 2132：编辑风格单色模特卡
 
-![编辑风格单色模特卡](../../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%8D%95%E8%89%B2%E6%A8%A1%E7%89%B9%E5%8D%A1.jpg)
+![编辑风格单色模特卡](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E5%8D%95%E8%89%B2%E6%A8%A1%E7%89%B9%E5%8D%A1.jpg)
 
 **Prompt:**
 
@@ -1782,7 +1782,7 @@ To Monochrome 3x3 Editorial Comp Card, {argument name="subject" default="adult E
 
 ### 🔧 例 2161：照片转 Q 版涂鸦
 
-![照片转 Q 版涂鸦](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6.jpg)
+![照片转 Q 版涂鸦](../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6.jpg)
 
 **Prompt:**
 
@@ -1800,7 +1800,7 @@ Transform the uploaded photo into a cute black-and-white hand-drawn chibi doodle
 
 ### 🔧 例 2181：迷你 Q 版人偶转换
 
-![迷你 Q 版人偶转换](../../images/%E8%BF%B7%E4%BD%A0%20Q%20%E7%89%88%E4%BA%BA%E5%81%B6%E8%BD%AC%E6%8D%A2.jpg)
+![迷你 Q 版人偶转换](../images/%E8%BF%B7%E4%BD%A0%20Q%20%E7%89%88%E4%BA%BA%E5%81%B6%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1818,7 +1818,7 @@ Transform the first reference person into the style of the second reference imag
 
 ### 🔧 例 2197：极简数字插画转换
 
-![极简数字插画转换](../../images/%E6%9E%81%E7%AE%80%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB%E8%BD%AC%E6%8D%A2.jpg)
+![极简数字插画转换](../images/%E6%9E%81%E7%AE%80%E6%95%B0%E5%AD%97%E6%8F%92%E7%94%BB%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1836,7 +1836,7 @@ Transform the uploaded photo into a clean, minimalist semi-realistic digital ill
 
 ### 🔧 例 2239：可爱单色涂鸦风格转换
 
-![可爱单色涂鸦风格转换](../../images/%E5%8F%AF%E7%88%B1%E5%8D%95%E8%89%B2%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+![可爱单色涂鸦风格转换](../images/%E5%8F%AF%E7%88%B1%E5%8D%95%E8%89%B2%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1860,7 +1860,7 @@ kawaii doodle art, monochrome sketch illustration, chibi portrait, manga line ar
 
 ### 🔧 例 2263：手绘极简涂鸦转换
 
-![手绘极简涂鸦转换](../../images/%E6%89%8B%E7%BB%98%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E8%BD%AC%E6%8D%A2.jpg)
+![手绘极简涂鸦转换](../images/%E6%89%8B%E7%BB%98%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1878,7 +1878,7 @@ Transform the image into a {argument name="style" default="minimalist hand-drawn
 
 ### 🔧 例 2277：单色调 VTuber 角色设计图
 
-![单色调 VTuber 角色设计图](../../images/%E5%8D%95%E8%89%B2%E8%B0%83%20VTuber%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+![单色调 VTuber 角色设计图](../images/%E5%8D%95%E8%89%B2%E8%B0%83%20VTuber%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -1952,7 +1952,7 @@ Constraints: Preserve the rough sketch’s short-haired girl concept and black f
 
 ### 🔧 例 2296：电影级剧照超分辨率转换
 
-![电影级剧照超分辨率转换](../../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%89%A7%E7%85%A7%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E8%BD%AC%E6%8D%A2.jpg)
+![电影级剧照超分辨率转换](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%89%A7%E7%85%A7%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -1970,7 +1970,7 @@ Transform the source image into a high-resolution, {argument name="mood" default
 
 ### 🔧 例 2307：手绘编辑涂鸦风格
 
-![手绘编辑涂鸦风格](../../images/%E6%89%8B%E7%BB%98%E7%BC%96%E8%BE%91%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+![手绘编辑涂鸦风格](../images/%E6%89%8B%E7%BB%98%E7%BC%96%E8%BE%91%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -1988,7 +1988,7 @@ Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person wi
 
 ### 🔧 例 2319：屋顶上的动漫忍者少女
 
-![屋顶上的动漫忍者少女](../../images/%E5%B1%8B%E9%A1%B6%E4%B8%8A%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%BF%8D%E8%80%85%E5%B0%91%E5%A5%B3.jpg)
+![屋顶上的动漫忍者少女](../images/%E5%B1%8B%E9%A1%B6%E4%B8%8A%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%BF%8D%E8%80%85%E5%B0%91%E5%A5%B3.jpg)
 
 **Prompt:**
 
@@ -2006,7 +2006,7 @@ Create a polished anime-style illustration of a young female ninja sitting on a 
 
 ### 🔧 例 2326：唯美旅行手账拼贴
 
-![唯美旅行手账拼贴](../../images/%E5%94%AF%E7%BE%8E%E6%97%85%E8%A1%8C%E6%89%8B%E8%B4%A6%E6%8B%BC%E8%B4%B4.jpg)
+![唯美旅行手账拼贴](../images/%E5%94%AF%E7%BE%8E%E6%97%85%E8%A1%8C%E6%89%8B%E8%B4%A6%E6%8B%BC%E8%B4%B4.jpg)
 
 **Prompt:**
 
@@ -2024,7 +2024,7 @@ Transform the uploaded photo into a stylish aesthetic travel scrapbook collage. 
 
 ### 🔧 例 2338：动漫杂志封面转换
 
-![动漫杂志封面转换](../../images/%E5%8A%A8%E6%BC%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%BD%AC%E6%8D%A2.jpg)
+![动漫杂志封面转换](../images/%E5%8A%A8%E6%BC%AB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2054,7 +2054,7 @@ Style: crisp modern anime illustration, white negative space, saturated sapphire
 
 ### 🔧 例 2344：奇幻民间艺术插画
 
-![奇幻民间艺术插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
+![奇幻民间艺术插画](../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2072,7 +2072,7 @@ Transform this photo into a {argument name="style" default="whimsical folk flat 
 
 ### 🔧 例 2363：手绘 Q 版涂鸦插画
 
-![手绘 Q 版涂鸦插画](../../images/%E6%89%8B%E7%BB%98%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+![手绘 Q 版涂鸦插画](../images/%E6%89%8B%E7%BB%98%20Q%20%E7%89%88%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2090,7 +2090,7 @@ Transform the uploaded photo into a cute black-and-white hand-drawn {argument na
 
 ### 🔧 例 2373：8K 宠物照片修复
 
-![8K 宠物照片修复](../../images/8K%20%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+![8K 宠物照片修复](../images/8K%20%E5%AE%A0%E7%89%A9%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
 
 **Prompt:**
 
@@ -2108,7 +2108,7 @@ Using the provided reference image, upscale and restore it into an ultra-premium
 
 ### 🔧 例 2404：手绘记号笔涂鸦风格
 
-![手绘记号笔涂鸦风格](../../images/%E6%89%8B%E7%BB%98%E8%AE%B0%E5%8F%B7%E7%AC%94%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
+![手绘记号笔涂鸦风格](../images/%E6%89%8B%E7%BB%98%E8%AE%B0%E5%8F%B7%E7%AC%94%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC.jpg)
 
 **Prompt:**
 
@@ -2126,7 +2126,7 @@ Draw in a {argument name="style" default="simple hand-drawn doodled style cartoo
 
 ### 🔧 例 2434：极简马克笔涂鸦素描
 
-![极简马克笔涂鸦素描](../../images/%E6%9E%81%E7%AE%80%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
+![极简马克笔涂鸦素描](../images/%E6%9E%81%E7%AE%80%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
 
 **Prompt:**
 
@@ -2144,7 +2144,7 @@ Convert the uploaded photo into a cute black-and-white hand-drawn doodle illustr
 
 ### 🔧 例 2439：异想天开的民间涂鸦插画
 
-![异想天开的民间涂鸦插画](../../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%B0%91%E9%97%B4%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+![异想天开的民间涂鸦插画](../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%B0%91%E9%97%B4%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2162,7 +2162,7 @@ Transform this photo into a {argument name="style" default="whimsical folk flat 
 
 ### 🔧 例 2458：智能手机照片人脸特征转换
 
-![智能手机照片人脸特征转换](../../images/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E4%BA%BA%E8%84%B8%E7%89%B9%E5%BE%81%E8%BD%AC%E6%8D%A2.jpg)
+![智能手机照片人脸特征转换](../images/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E4%BA%BA%E8%84%B8%E7%89%B9%E5%BE%81%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2180,7 +2180,7 @@ Create a high-fidelity photographic transformation. Maintain the exact facial id
 
 ### 🔧 例 2477：动漫双人 Q 版肖像
 
-![动漫双人 Q 版肖像](../../images/%E5%8A%A8%E6%BC%AB%E5%8F%8C%E4%BA%BA%20Q%20%E7%89%88%E8%82%96%E5%83%8F.jpg)
+![动漫双人 Q 版肖像](../images/%E5%8A%A8%E6%BC%AB%E5%8F%8C%E4%BA%BA%20Q%20%E7%89%88%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -2198,7 +2198,7 @@ Create a square full-bleed digital illustration on a plain solid white backgroun
 
 ### 🔧 例 2513：可爱布丁河畔问候
 
-![可爱布丁河畔问候](../../images/%E5%8F%AF%E7%88%B1%E5%B8%83%E4%B8%81%E6%B2%B3%E7%95%94%E9%97%AE%E5%80%99.jpg)
+![可爱布丁河畔问候](../images/%E5%8F%AF%E7%88%B1%E5%B8%83%E4%B8%81%E6%B2%B3%E7%95%94%E9%97%AE%E5%80%99.jpg)
 
 **Prompt:**
 
@@ -2216,7 +2216,7 @@ Create a cheerful vertical anime-style illustration of a cute pudding-shaped mas
 
 ### 🔧 例 2542：超级英雄时代变身分屏肖像
 
-![超级英雄时代变身分屏肖像](../../images/%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%97%B6%E4%BB%A3%E5%8F%98%E8%BA%AB%E5%88%86%E5%B1%8F%E8%82%96%E5%83%8F.jpg)
+![超级英雄时代变身分屏肖像](../images/%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%97%B6%E4%BB%A3%E5%8F%98%E8%BA%AB%E5%88%86%E5%B1%8F%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -2262,7 +2262,7 @@ The right side will have @image1 wearing a superhero costume fitting to the chos
 
 ### 🔧 例 2637：单色霓虹矢量插画
 
-![单色霓虹矢量插画](../../images/%E5%8D%95%E8%89%B2%E9%9C%93%E8%99%B9%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB.jpg)
+![单色霓虹矢量插画](../images/%E5%8D%95%E8%89%B2%E9%9C%93%E8%99%B9%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2304,7 +2304,7 @@ Ultra-clean vector lines, premium poster composition, luxury editorial style, cr
 
 ### 🔧 例 2678：水下角色转换
 
-![水下角色转换](../../images/%E6%B0%B4%E4%B8%8B%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+![水下角色转换](../images/%E6%B0%B4%E4%B8%8B%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2318,7 +2318,7 @@ Ultra-clean vector lines, premium poster composition, luxury editorial style, cr
 
 ### 🔧 例 2693：90 年代动漫风格照片转换
 
-![90 年代动漫风格照片转换](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+![90 年代动漫风格照片转换](../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2336,7 +2336,7 @@ Take this photo and transform it into an illustration in the style of 1990s anim
 
 ### 🔧 例 2705：照片转 Q 版马克笔手绘草图
 
-![照片转 Q 版马克笔手绘草图](../../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%89%8B%E7%BB%98%E8%8D%89%E5%9B%BE.jpg)
+![照片转 Q 版马克笔手绘草图](../images/%E7%85%A7%E7%89%87%E8%BD%AC%20Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%89%8B%E7%BB%98%E8%8D%89%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2354,7 +2354,7 @@ Convert the uploaded photo into a {argument name="style" default="cute black-and
 
 ### 🔧 例 2737：Q 版马克笔涂鸦素描
 
-![Q 版马克笔涂鸦素描](../../images/Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
+![Q 版马克笔涂鸦素描](../images/Q%20%E7%89%88%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6%E7%B4%A0%E6%8F%8F.jpg)
 
 **Prompt:**
 
@@ -2372,7 +2372,7 @@ Convert the uploaded photo into a {argument name="style" default="cute black-and
 
 ### 🔧 例 2787：高端像素拉伸艺术转换
 
-![高端像素拉伸艺术转换](../../images/%E9%AB%98%E7%AB%AF%E5%83%8F%E7%B4%A0%E6%8B%89%E4%BC%B8%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
+![高端像素拉伸艺术转换](../images/%E9%AB%98%E7%AB%AF%E5%83%8F%E7%B4%A0%E6%8B%89%E4%BC%B8%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2390,7 +2390,7 @@ Transform the {argument name="subject" default="uploaded image"} into a {argumen
 
 ### 🔧 例 2804：奇幻民间艺术风格扁平插画
 
-![奇幻民间艺术风格扁平插画](../../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
+![奇幻民间艺术风格扁平插画](../images/%E5%A5%87%E5%B9%BB%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB.jpg)
 
 **Prompt:**
 
@@ -2408,7 +2408,7 @@ Transform the reference photo into a {argument name="style" default="whimsical f
 
 ### 🔧 例 2819：活力涂鸦街头艺术风格转换
 
-![活力涂鸦街头艺术风格转换](../../images/%E6%B4%BB%E5%8A%9B%E6%B6%82%E9%B8%A6%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
+![活力涂鸦街头艺术风格转换](../images/%E6%B4%BB%E5%8A%9B%E6%B6%82%E9%B8%A6%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2426,7 +2426,7 @@ Create a vibrant graffiti street art style image from the {argument name="subjec
 
 ### 🔧 例 2832：90 年代动画道具设定集
 
-![90 年代动画道具设定集](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E7%94%BB%E9%81%93%E5%85%B7%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+![90 年代动画道具设定集](../images/90%20%E5%B9%B4%E4%BB%A3%E5%8A%A8%E7%94%BB%E9%81%93%E5%85%B7%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
 
 **Prompt:**
 
@@ -2454,7 +2454,7 @@ Create a vibrant graffiti street art style image from the {argument name="subjec
 
 ### 🔧 例 2883：动漫女仆变身
 
-![动漫女仆变身](../../images/%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%BB%86%E5%8F%98%E8%BA%AB.jpg)
+![动漫女仆变身](../images/%E5%8A%A8%E6%BC%AB%E5%A5%B3%E4%BB%86%E5%8F%98%E8%BA%AB.jpg)
 
 **Prompt:**
 
@@ -2472,7 +2472,7 @@ Using REFERENCE_0 as the character and costume base, transform the photo into a 
 
 ### 🔧 例 3096：混乱墨迹涂鸦肖像
 
-![混乱墨迹涂鸦肖像](../../images/%E6%B7%B7%E4%B9%B1%E5%A2%A8%E8%BF%B9%E6%B6%82%E9%B8%A6%E8%82%96%E5%83%8F.jpg)
+![混乱墨迹涂鸦肖像](../images/%E6%B7%B7%E4%B9%B1%E5%A2%A8%E8%BF%B9%E6%B6%82%E9%B8%A6%E8%82%96%E5%83%8F.jpg)
 
 **Prompt:**
 
@@ -2558,7 +2558,7 @@ Using REFERENCE_0 as the character and costume base, transform the photo into a 
 
 ### 🔧 例 3176：产品照片涂鸦叠加
 
-![产品照片涂鸦叠加](../../images/%E4%BA%A7%E5%93%81%E7%85%A7%E7%89%87%E6%B6%82%E9%B8%A6%E5%8F%A0%E5%8A%A0.jpg)
+![产品照片涂鸦叠加](../images/%E4%BA%A7%E5%93%81%E7%85%A7%E7%89%87%E6%B6%82%E9%B8%A6%E5%8F%A0%E5%8A%A0.jpg)
 
 **Prompt:**
 
@@ -2576,7 +2576,7 @@ Take this product photo and add a playful hand-drawn doodle character on top of 
 
 ### 🔧 例 3337：童趣风 MS Paint 咖啡馆重绘
 
-![童趣风 MS Paint 咖啡馆重绘](../../images/%E7%AB%A5%E8%B6%A3%E9%A3%8E%20MS%20Paint%20%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8D%E7%BB%98.jpg)
+![童趣风 MS Paint 咖啡馆重绘](../images/%E7%AB%A5%E8%B6%A3%E9%A3%8E%20MS%20Paint%20%E5%92%96%E5%95%A1%E9%A6%86%E9%87%8D%E7%BB%98.jpg)
 
 **Prompt:**
 
@@ -2594,7 +2594,7 @@ Using the provided reference image, redraw it as a clumsy, scribbly, childlike i
 
 ### 🔧 例 3445：照片修复与清晰度增强
 
-![照片修复与清晰度增强](../../images/%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E6%B8%85%E6%99%B0%E5%BA%A6%E5%A2%9E%E5%BC%BA.jpg)
+![照片修复与清晰度增强](../images/%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E6%B8%85%E6%99%B0%E5%BA%A6%E5%A2%9E%E5%BC%BA.jpg)
 
 **Prompt:**
 
@@ -2612,7 +2612,7 @@ Restore this {argument name="item" default="photo"}. Reduce and correct the over
 
 ### 🔧 例 3643：Crane Park 全幅关键视觉图
 
-![Crane Park 全幅关键视觉图](../../images/Crane%20Park%20%E5%85%A8%E5%B9%85%E5%85%B3%E9%94%AE%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+![Crane Park 全幅关键视觉图](../images/Crane%20Park%20%E5%85%A8%E5%B9%85%E5%85%B3%E9%94%AE%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
 
 **Prompt:**
 
@@ -2630,7 +2630,7 @@ Using the provided reference image, isolate and regenerate only the central park
 
 ### 🔧 例 3681：Canal Street 从白天到夜晚的场景转换
 
-![Canal Street 从白天到夜晚的场景转换](../../images/Canal%20Street%20%E4%BB%8E%E7%99%BD%E5%A4%A9%E5%88%B0%E5%A4%9C%E6%99%9A%E7%9A%84%E5%9C%BA%E6%99%AF%E8%BD%AC%E6%8D%A2.jpg)
+![Canal Street 从白天到夜晚的场景转换](../images/Canal%20Street%20%E4%BB%8E%E7%99%BD%E5%A4%A9%E5%88%B0%E5%A4%9C%E6%99%9A%E7%9A%84%E5%9C%BA%E6%99%AF%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2648,7 +2648,7 @@ Using REFERENCE_0 as the base image, transform the scene from daytime into {argu
 
 ### 🔧 例 3782：90 年代复古动漫风格重绘
 
-![90 年代复古动漫风格重绘](../../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%BB%98.jpg)
+![90 年代复古动漫风格重绘](../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E9%87%8D%E7%BB%98.jpg)
 
 **Prompt:**
 
@@ -2666,7 +2666,7 @@ Restyle this image into a cel-shaded {argument name="style" default="anime-style
 
 ### 🔧 例 3842：镜面自拍艺术转换
 
-![镜面自拍艺术转换](../../images/%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
+![镜面自拍艺术转换](../images/%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D%E8%89%BA%E6%9C%AF%E8%BD%AC%E6%8D%A2.jpg)
 
 **Prompt:**
 
@@ -2684,7 +2684,7 @@ Transform the original mirror selfie into a {argument name="art style" default="
 
 ### 🔧 例 3924：老照片修复与上色
 
-![老照片修复与上色](../../images/%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E4%B8%8A%E8%89%B2.jpg)
+![老照片修复与上色](../images/%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D%E4%B8%8E%E4%B8%8A%E8%89%B2.jpg)
 
 **Prompt:**
 
@@ -2702,7 +2702,7 @@ Enhance overall clarity, sharpness, and {argument name="resolution" default="res
 
 ### 🔧 例 4123：蜡笔画风格儿童画重绘
 
-![蜡笔画风格儿童画重绘](../../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%84%BF%E7%AB%A5%E7%94%BB%E9%87%8D%E7%BB%98.jpg)
+![蜡笔画风格儿童画重绘](../images/%E8%9C%A1%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%84%BF%E7%AB%A5%E7%94%BB%E9%87%8D%E7%BB%98.jpg)
 
 **Prompt:**
 

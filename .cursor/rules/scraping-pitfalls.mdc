@@ -1,0 +1,25 @@
+---
+description: YouMind/canghe 抓取与批量加案例的踩坑规则
+globs: "{scripts/**,scrape_*.mjs,_*.mjs,docs/cases/**,docs/cat-*.md,docs/categories*.md}"
+alwaysApply: false
+---
+
+# 抓取 / 批量加案例
+
+动手前先读现成脚本：`scrape_youmind.mjs`、`scripts/collect-today.mjs`，优先改造勿新写。
+
+## 硬规则
+
+- 锚点用 `github-slugger` 的 `slug()`，禁止自写算法（会漏 U+FE0F）
+- YouMind API：Playwright 内 `page.evaluate(fetch(...))`，裸 Node 不通
+- Chromium 启动加 `--disable-ipv6`
+- 图片下载：Node `http.request` CONNECT 代理 `127.0.0.1:7890`；**禁止** Playwright `page.request` 下图（会批量超时）
+- 先用 1 张图验证下载，再批量
+- 批量后跑 `node _fix_anchors.mjs`（或 `--fix`）校验锚点
+- 加案例通常改 4 处：`docs/cases/cases-*.md`、`docs/cat-*.md`、`categories.md`、`categories_en.md`
+- 图片相对路径：`docs/cases/` 用 `../../images/`，`docs/cat-*.md` 用 `../images/`（勿混用）
+- 导航链接：扫描目录排序后重建整行，勿正则追加
+
+## 去重顺序
+
+sourceLink status ID → 同作者同主题 → 每作者最多 1 条（取最新）

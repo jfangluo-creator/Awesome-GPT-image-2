@@ -1,0 +1,16 @@
+---
+description: site/ 画廊架构与 CI、前端踩坑
+globs: "site/**"
+alwaysApply: false
+---
+
+# 画廊 site/
+
+- 构建：`parse-cases` → `generate-thumbs` → `astro build`；`base: '/Awesome-GPT-image-2'`
+- 图片三级：原图 `images/`、display 1200、thumb 400、blur 内嵌；thumbs/display 不提交，CI 生成
+- `site/public/images` 为指向根 `images/` 的链接；CI 需重建 symlink
+- **禁止**给 masonry 加 `content-visibility: auto`（会弄丢最后一列）
+- 每列前 3 张 `eager` + `fetchPriority=high`，其余 lazy（CSS columns 按 DOM 顺序填列）
+- 标签只从标题匹配，勿用整段 prompt（否定词会误标）
+- collect 触发 deploy 需要 `actions: write`；curl 必须检查 HTTP 状态码
+- `cases.json` 不必由 collect 提交，CI 会从 markdown 重生成

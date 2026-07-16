@@ -1,0 +1,26 @@
+---
+description: Awesome GPT Image 画廊项目总览与协作约定
+alwaysApply: true
+---
+
+# Awesome GPT Image 2
+
+个人 GPT Image 2 案例库 + Astro 画廊。在线：https://jfangluo-creator.github.io/Awesome-GPT-image-2/
+
+## 数据流
+
+`docs/cases/*.md` + `images/` → `site/scripts/parse-cases.mjs` → `cases.json` → thumbs → Astro → GitHub Pages
+
+## 协作约定
+
+- 批量改 docs / 加案例完成后：主动 `git commit` + `git push`（本项目偏好）
+- 新案例默认不上 README 精选，除非用户明确说「放精选」
+- `_` 前缀临时文件用完移到 `_scratch/`，勿堆在根目录
+- Claude Code 完整 memory（可选深读）：`C:\Users\luojunfang\.claude\projects\d--code-Awesome-GPT-image-2\memory\MEMORY.md`
+
+## 常用命令
+
+```bash
+cd site && npm run parse && npm run thumbs && npx astro dev --port 4321
+node scripts/collect-today.mjs --dry-run
+```

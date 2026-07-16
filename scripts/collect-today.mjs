@@ -314,7 +314,9 @@ ${promptBlock}
 
 `;
 
-    entries.push({ num, caseData: c, catInfo, heading, anchor, md });
+    // cases 在 docs/cases/ → ../../images/；cat 在 docs/ → ../images/
+    const mdCat = md.replace('](../../images/', '](../images/');
+    entries.push({ num, caseData: c, catInfo, heading, anchor, md, mdCat });
     num++;
   }
   return entries;
@@ -410,7 +412,7 @@ function appendToCategoryFiles(entries) {
   for (const [cat, group] of Object.entries(groups)) {
     const file = `docs/cat-${cat}.md`;
     let content = fs.readFileSync(file, 'utf-8').trimEnd() + '\n\n';
-    for (const e of group) content += e.md;
+    for (const e of group) content += e.mdCat;
     fs.writeFileSync(file, content, 'utf-8');
     console.log(`  Updated ${file} (+${group.length})`);
   }
