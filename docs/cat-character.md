@@ -5743,3 +5743,53 @@ Constraints: Exactly 5 bust studies and exactly 6 full-body poses, evenly spaced
 
 ---
 
+### 🧍 例 4259：Dior 风格奥黛时尚大片
+
+![Dior 风格奥黛时尚大片](../images/Dior%20%E9%A3%8E%E6%A0%BC%E5%A5%A5%E9%BB%9B%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据附图创作一张 Dior 风格的高端时尚大片。人物的面部、发型和脸部结构必须与参考图完全一致（眼睛、鼻子、嘴唇 100% 相同，眼部细节超精准）。
+她留着浓密的长发，编成松散的辫子垂在肩头直至腰间。她身体微侧站立，一只手轻轻触碰下巴，另一只手臂自然垂在身侧，双腿在脚踝处轻盈交叉，姿态优雅且内敛。她的表情平静而略带梦幻，眼神柔和，嘴角带着温柔的微笑。
+她身穿一件奢华的越南奥黛，颜色为单一纯色 {argument name="clothing color" default="淡紫色"}，采用优质丝绸制成，具有顺滑、流畅的高定质感。颜色必须完全统一——无渐变、无色差、无次要色调。搭配同色的裤子。
+她身后的壁画展示了她的脸庞。壁画中的头发并非手绘，而是由墙边盆栽中真实的 {argument name="flower type" default="紫色三角梅"} 物理构成。花朵延伸并精准地塑造出壁画的头发轮廓。过渡必须自然无缝，且结构清晰地呈现为发丝，而非装饰物。
+光影：柔和的自然光与高端时尚摄影灯光结合，皮肤透亮，带有细腻的高光，阴影精致，电影感色调，奢华杂志质感。皮肤无瑕、光彩照人、细节丰富。
+使用 {argument name="lens type" default="35mm"} 镜头拍摄，f/2.8 光圈，浅景深，超写实，8K 分辨率，焦点清晰。
+严格的色彩控制，严格的构图控制，保留原始概念。
+负面提示词：多色服装、渐变面料、色偏、花朵位置错误、装饰性花朵、颜色不一致。
+
+[English]
+Create a high-end fashion editorial photograph in Dior style of a young woman based on the attached image. Her face, hairstyle, and facial structure must match the reference exactly (eyes, nose, lips 100% identical, ultra-precise eye detail).
+She has a thick, long, loosely braided hairstyle draped over her shoulder to her waist. She stands with her body slightly turned sideways, one hand gently touching her chin, the other arm relaxed along her body, legs softly crossed at the ankles, elegant and introspective pose. Her expression is calm and slightly dreamy, with soft eyes and a gentle closed-mouth smile.
+She is wearing a luxury Vietnamese áo dài in a single solid {argument name="clothing color" default="pastel purple"} color made from premium silk with a smooth, flowing couture finish. The color must be completely uniform — no gradients, no color variation, no secondary tones. Matching pants in identical color.
+The mural behind her shows her face. The mural's hair is NOT painted. It is physically formed by real {argument name="flower type" default="purple bougainvillea"} flowers growing from a potted plant beside the wall. The flowers extend and precisely shape the hair of the mural. The transition must be seamless and clearly structured as hair, not decoration.
+Lighting: soft natural daylight mixed with high-end fashion editorial lighting, glowing skin, subtle highlights, refined shadows, cinematic tone, luxury magazine look. Skin is flawless, radiant, high-detail.
+Shot with {argument name="lens type" default="35mm"} lens, f/2.8, shallow depth of field, ultra-realistic, 8K, sharp focus.
+strict color control, strict composition control, preserve original concept
+Negative prompt: multi-color outfit, gradient fabric, color shift, incorrect flowers placement, decoration flowers, inconsistent color.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2077718506993602570) | 2026-07-16
+
+---
+
+### 🧍 例 4285：电影级照片修复
+
+![电影级照片修复](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像进行修复与增强，将其转化为清晰、逼真的电影级人像，同时保留原有的主体、姿势、构图、湿发造型、黑色无袖服装、背光地铁站台背景以及忧郁的氛围。去除参考图中的脏污玻璃/反射遮罩、污渍、雾霾及视觉噪点。自然地重构模糊的面部与身体细节，使面部、皮肤、发丝、肩部、背部及衣物更加清晰逼真，且不改变人物身份或画面构图。对图像进行轻微锐化，提升对比度，并应用自然的色彩校正，呈现温暖的金色背光与柔和的青黑色阴影。保持背景的柔焦与氛围感，使站台灯光与远处的剪影保持虚化状态。最终效果应呈现为一张经过真实修复的高质量编辑级照片，而非过度处理的图像。
+
+[English]
+Using the provided reference image, restore and enhance it into a clean, realistic cinematic portrait while preserving the same subject, pose, composition, wet-hair look, black sleeveless outfit, backlit subway-platform setting, and moody atmosphere. Remove the dirty glass/reflection overlay, stains, haze, and visual noise from the reference. Reconstruct obscured facial and body details naturally, making the face, skin, hair strands, shoulder, back, and clothing clearer and more lifelike without changing the identity or framing. Slightly sharpen the image, improve contrast, and apply natural color correction with warm golden backlight and subdued green-black shadows. Keep the background softly blurred and atmospheric, with the platform lights and distant silhouettes remaining out of focus. The final result should look like a realistically restored, high-quality editorial photo rather than an overprocessed image.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2077626016969924859) | 2026-07-16
+
+---
+

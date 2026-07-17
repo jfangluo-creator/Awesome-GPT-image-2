@@ -10714,3 +10714,75 @@ Create a stylized full-body concept art illustration of a glamorous femme-fatale
 
 ---
 
+### 🏷️ 例 4231：无品牌奢华香水瓶海报
+
+![无品牌奢华香水瓶海报](../images/%E6%97%A0%E5%93%81%E7%89%8C%E5%A5%A2%E5%8D%8E%E9%A6%99%E6%B0%B4%E7%93%B6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+无品牌透明香水瓶，内部包含一朵 {argument name="flower type" default="郁金香类花卉"}，{argument name="background color" default="香槟象牙色"} 背景，{argument name="glass color" default="蜜金色"} 玻璃，奢华产品摄影，无 Logo，无可见文字，无水印。
+
+[English]
+unbranded transparent perfume bottle, one {argument name="flower type" default="tulip-like flower"} enclosed inside, {argument name="background color" default="champagne ivory"} background, {argument name="glass color" default="honey-gold"} glass, luxury product photography, no logos, no readable text, no watermark.
+```
+
+**来源：** [@小森映像](https://x.com/komorimedia/status/2077803250976452999) | 2026-07-16
+
+---
+
+### 🏷️ 例 4245：巨型仿生人与驾驶员
+
+![巨型仿生人与驾驶员](../images/%E5%B7%A8%E5%9E%8B%E4%BB%BF%E7%94%9F%E4%BA%BA%E4%B8%8E%E9%A9%BE%E9%A9%B6%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的垂直低角度电影感图像，展示一台巨大的女性仿生人机器人及其人类驾驶员，背景为晴朗的蓝天。巨型机器人作为主体占据画面，从胸部到头部几乎填满整个取景框，采用仰视视角以突显其宏伟感。她拥有一张受动漫启发的美丽面孔，皮肤如瓷器般苍白，留着凌乱的短波波头（{argument name="hair color" default="银白色"}），发丝细长飘逸；双眼为发光的红色机械眼，带有圆形机械虹膜纹理，表情平静且略显疏离，双唇微张。增加精细的面部机械细节：金属下颌和脸颊板、小型铬合金耳部组件、黑色机械颈部结构以及外露的亮黑色内部机械。她的身体是流线型的未来主义女性机甲，覆盖着高反射性的白色和铬合金装甲，配有大型圆形胸甲、分段式肩甲，以及清晰可见的黑色活塞、关节、面板、螺丝、接缝、通风口和镜面高光。在机器人的右肩上站着 1 名人类驾驶员：一名年轻女性，戴着眼镜，留着黑色长发，身穿白色长袖衬衫、深蓝色牛仔裤和运动鞋，自信地站立并望向地平线。构图应强调渺小的驾驶员与巨大的机器人之间极端的比例对比。采用明亮的午后阳光，呈现清晰的反射效果，抛光金属上带有镜头般的光斑，采用超精细的硬表面设计，将写实 3D 渲染与动漫美学相结合，焦点锐利，对比度高，背景为色彩鲜艳饱和的蓝天，点缀着少量柔软的白云。画面中不得包含任何文字、水印、额外字符、驾驶舱或武器。
+
+[English]
+Create a dramatic vertical low-angle cinematic image of a colossal humanoid female android robot and her human pilot under a clear blue sky. The giant robot is the dominant subject, filling almost the entire frame from chest to head, viewed from below so she feels monumental. She has an anime-inspired beautiful face with pale porcelain skin, short tousled {argument name="hair color" default="silver-white"} bob hair with long wispy strands, glowing red cybernetic eyes with circular mechanical iris patterns, and a calm slightly distant expression with parted lips. Add detailed facial cybernetics: metallic jaw and cheek plates, small chrome ear components, black mechanical neck structure, and exposed glossy black inner machinery. Her body is a sleek futuristic female-form mech with highly reflective white and chrome armor, large rounded chest plates, segmented shoulder armor, visible black pistons, joints, panels, screws, seams, vents, and mirrored highlights. On the robot’s right shoulder stands exactly 1 human pilot: a young woman wearing glasses, long dark hair, a white long-sleeve blouse, dark blue jeans, and sneakers, standing confidently and looking outward toward the horizon. The composition should emphasize extreme scale contrast between the tiny pilot and the enormous robot. Use bright midday sunlight, crisp reflections, lens-like specular highlights on polished metal, ultra-detailed hard-surface design, realistic 3D rendering mixed with anime aesthetics, sharp focus, high contrast, and a vivid saturated blue sky with a small number of soft white clouds. No text, no watermark, no extra characters, no cockpit, no weapons.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2077759112155398309) | 2026-07-16
+
+---
+
+### 🏷️ 例 4288：可爱仓鼠 0% 庆祝
+
+![可爱仓鼠 0% 庆祝](../images/%E5%8F%AF%E7%88%B1%E4%BB%93%E9%BC%A0%200%25%20%E5%BA%86%E7%A5%9D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫风格庆祝插画，以一只可爱的金丝熊仓鼠为主角。这只仓鼠圆滚滚且毛茸茸的，漂浮在画面中央，举着小爪子，露出粉嫩的小脚、圆圆的耳朵、闪闪发亮的黑色大眼睛、红润的脸颊、一颗小门牙，脸上洋溢着开心的笑容。在它周围放置 6 个深色圆角矩形进度面板，每个面板上都显示着发光的白色“0%”字样，下方配有一条细细的空心霓虹进度条：左上方一个大面板，右上方一个中等面板，左中和右中各一个小面板，左下和右下各一个更小的面板。背景采用深海军蓝到黑色的渐变，点缀着紫色霓虹轮廓、橙色和粉色的纸屑、卷曲的丝带、小星星、闪光点以及烟花般的光束。在底部，营造出一种明亮的金色舞台式光芒，倒映在地平线上，光束从仓鼠身后向上射出。整体氛围应充满胜利感、可爱、混乱且喜庆，就像一张“加载失败但仍在庆祝”的吉祥物海报。采用光泽感数字绘画、高细节动漫渲染、柔软的毛发质感、强烈的轮廓光、紫色霓虹发光效果、电影级对比度，并采用竖版手机壁纸构图。自定义中央动物为 {argument name="animal" default="golden hamster"}，进度文本为 {argument name="progress text" default="0%"}，庆祝主题为 {argument name="theme" default="neon confetti celebration"}，主发光颜色为 {argument name="main glow color" default="purple"}，背景颜色为 {argument name="background color" default="dark navy black"}。
+
+[English]
+Create a vibrant vertical anime-style celebration illustration featuring a single adorable golden hamster as the main subject. The hamster is extremely round and fluffy, floating upward in the center with tiny raised paws, small pink feet, round ears, glossy sparkling black eyes, rosy cheeks, a tiny buck tooth, and a wide open joyful smile. Surround it with exactly six dark rounded-rectangle progress panels, each showing the text “0%” in glowing white and a thin empty neon progress bar beneath it: one large panel at the upper left, one medium panel at the upper right, one smaller panel at mid-left, one smaller panel at mid-right, one small panel at lower left, and one small panel at lower right. Use a dramatic dark navy-to-black background filled with purple neon outlines, orange and pink confetti, curled ribbons, small stars, sparkles, dots, and firework-like light streaks. At the bottom, create a bright golden stage-like burst of light on a reflective horizon, with rays shooting upward behind the hamster. The mood should be triumphant, cute, chaotic, and festive, like a “failed loading but still celebrating” mascot poster. Use glossy digital painting, high-detail anime rendering, soft fur texture, strong rim lighting, glowing purple neon accents, cinematic contrast, and a vertical smartphone wallpaper composition. Customize the central animal as {argument name="animal" default="golden hamster"}, the progress text as {argument name="progress text" default="0%"}, the celebration theme as {argument name="theme" default="neon confetti celebration"}, the main glow color as {argument name="main glow color" default="purple"}, and the background color as {argument name="background color" default="dark navy black"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077606595488624852) | 2026-07-16
+
+---
+
+### 🏷️ 例 4293：朝鲜王朝素描与现实对比
+
+![朝鲜王朝素描与现实对比](../images/%E6%9C%9D%E9%B2%9C%E7%8E%8B%E6%9C%9D%E7%B4%A0%E6%8F%8F%E4%B8%8E%E7%8E%B0%E5%AE%9E%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个分割构图。左侧：一幅优雅的水墨素描，描绘了一位 {argument name="subject" default="朝鲜王朝时期的韩国女性"}，身着美丽的韩服，头戴花卉发饰。右侧：同一位女性的超写实肖像，背景为日落时分的传统朝鲜村庄。素描到现实的无缝过渡，电影级光影，水彩纸质感，高度细节，杰作，9:16。
+
+[English]
+Create a split composition. Left side: an elegant ink sketch of a {argument name="subject" default="Korean woman from the Joseon Dynasty"} wearing a beautiful hanbok with floral hair ornaments. Right side: the same woman as an ultra-realistic portrait in a traditional Joseon village at sunset. Seamless sketch-to-reality transition, cinematic lighting, watercolor paper texture, highly detailed, masterpiece, 9:16.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077603666509357182) | 2026-07-16
+
+---
+

@@ -2759,3 +2759,79 @@ Constraints: Do not remove or redesign the existing exercise machines and access
 
 ---
 
+### 🔧 例 4237：Cosplay 转换为 Elfaria 动漫主视觉图
+
+![Cosplay 转换为 Elfaria 动漫主视觉图](../images/Cosplay%20%E8%BD%AC%E6%8D%A2%E4%B8%BA%20Elfaria%20%E5%8A%A8%E6%BC%AB%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为角色基础，将 Cosplay 照片转换为 {argument name="character name" default="Elfaria Albis Serfort"} 的精致 2D 动漫主视觉图。保持参考图中标志性的浅蓝色长发、蓝色眼睛、白金配色奇幻礼服、露肩袖、过膝袜以及蓝色胸前宝石，但需以清晰的高质量动漫线条重绘，并采用柔和的赛璐璐阴影和发光高光。
+
+更改姿势与构图：让她在相同的户外树木场景中呈现优雅的坐姿，双手轻轻交叠于膝盖上的裙摆处，面带平静柔和的微笑注视着观众。让她的长发如被微风拂过般向左侧飘动。
+
+背景添加：创建一个理想化的明亮林间空地，右侧为树干，上方为茂密的树冠，左上方有强烈的对角线阳光射入，伴有柔和的蓝天光晕，底部边缘点缀着白色雏菊，并有几片飘落的白色花瓣。采用竖向肖像构图，中近景取景，运用充满活力的奇幻动漫光影、清晰的细节以及浪漫空灵的氛围。避免写实风格；使其看起来如同官方动漫插画。
+
+[English]
+Using the provided reference image as the character base, transform the cosplay photo into a polished 2D anime key visual of {argument name="character name" default="Elfaria Albis Serfort"}. Keep the recognizable pale blue long hair, blue eyes, white-and-gold fantasy dress, off-shoulder sleeves, thigh-high stockings, and blue chest gem consistent with the reference, but redraw everything in clean high-quality anime line art with soft cel shading and luminous highlights.
+
+Change the pose and framing: make her appear in a graceful upright seated pose near the same outdoor tree setting, hands gently clasping the skirt at the knees, looking toward the viewer with a calm soft smile. Let her long hair flow dramatically to the left as if caught by a breeze.
+
+Background additions: create an idealized bright forest clearing with a tree trunk on the right, leafy canopy above, strong diagonal sunbeams from the upper left, soft blue sky glow, white daisies near the lower edge, and a few drifting white flower petals. Use a vertical portrait composition, close-to-medium framing, vibrant fantasy-anime lighting, crisp details, and a romantic ethereal atmosphere. Avoid photorealism; make it look like an official anime illustration.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2077773248503390548) | 2026-07-16
+
+---
+
+### 🔧 例 4269：凯尔经 (Book of Kells) 修复对比
+
+![凯尔经 (Book of Kells) 修复对比](../images/%E5%87%AF%E5%B0%94%E7%BB%8F%20(Book%20of%20Kells)%20%E4%BF%AE%E5%A4%8D%E5%AF%B9%E6%AF%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张并排对比图，展示受凯尔经 (Book of Kells) 启发的一页古老泥金装饰手稿在修复前后的对比，其中修复版本看起来比受损的原件更整洁、明亮且华丽。
+
+画布：宽横向黑色背景，比例约为 16:9。并排放置两个大型垂直手稿面板，并留出充足的边距：左侧面板为受损的原件，右侧面板为修复后的重构版本。在每个面板下方添加一个小型的居中标签：左侧标签为“原件”，右侧标签为“修复后”。
+
+布局：使用 2 个主面板。左侧面板占据左半部分，位于白色照片边框内。右侧面板占据右半部分，看起来更大、更清晰，并由浅色羊皮纸页边缘装裱。两个面板显示相同的手稿页面构图：高大的装饰边框、左侧文本列和右侧插图列。
+
+左侧面板（受损原件）：展示一页褪色、风化的手稿，拍摄于灰色的存档背景上。羊皮纸呈棕色，有污渍、磨损，局部半透明，边缘撕裂，有缺角、水渍、变暗的接缝和不均匀的变色。设计几乎无法辨认：左侧为带有深色中世纪书法、褪色的红色和金色首字母的垂直文本块，右侧为两幅几乎被擦除的幽灵般的微型插图。装饰边框应可见，但磨损、肮脏且不完整。在原稿中右侧中心附近包含一个小的深色圆形瑕疵或孔洞。保持整个左侧图像柔和、低对比度且退化。
+
+右侧面板（修复版本）：展示一页在温暖奶油色羊皮纸上生动修复的泥金装饰手稿。页面具有高度抛光的中世纪凯尔特风格，带有丰富的金箔、红色、绿色、黑色和橙色装饰。使用带有交织结饰、几何面板、圆形奖章和顶部圆拱的华丽建筑框架。修复效果应看起来理想化且过于完美，线条锐利，色彩饱和。
+
+修复页面元素计数：包含 1 个大型外部装饰手稿框架；1 个顶部填充有凯尔特螺旋装饰的圆拱；4 个框架侧面的突出装饰，分别位于每个侧面中点和类似角落的延伸处；1 个左侧垂直文本列，包含 10 行带有装饰性首字母的伪拉丁文安色尔体书法；2 个在右侧列中垂直堆叠的矩形叙事微型插图；3 个重叠在中心分隔线和侧框架上的圆形奖章装饰；4 个小的方形金色装饰块，放置在框架的顶部、中心、下中心和底部。
+
+文本和刻字：手稿文本应类似于中世纪岛屿书体和伪拉丁文，而非现代可读字体。使用绿色、红色、金色和黑色的装饰性首字母。建议可见的伪文本可包括 “Scooc”、“infiricipio”、“Sicloi”、“thoratio”、“chomias”、“abysus”、“Zorozobat”、“ipsemagenu”、“bubliuns”、“Qauncor”、“habacautum”、“Zacchäus” 和 “uenufurcanos”，但只要风格匹配，部分内容可以是无意义的。
+
+视觉风格：博物馆对比展示，左侧为存档纪录片风格，右侧为理想化的数字修复风格。衰败与修复之间形成高对比度。修复后的页面应包含明显的金属金箔高光、干净的羊皮纸、凯尔特结、福音书手稿风格和复杂的中世纪装饰。
+
+约束：不要添加额外的面板、人物、UI 控件、水印或除两个小标签之外的解释性说明。保持对比平衡，并居中于纯黑色背景上。
+
+[English]
+Goal: Create a side-by-side comparison image showing an ancient illuminated manuscript page before and after restoration, inspired by the Book of Kells, with the restored version looking far cleaner, brighter, and more ornate than the damaged original.
+
+Canvas: Wide horizontal black background, approximately 16:9. Place two large vertical manuscript panels side by side with generous margins: the left panel is the damaged original, the right panel is the restored reconstruction. Add a small centered label under each panel: left label “Original”, right label “Restored”.
+
+Layout: Use exactly 2 main panels. The left panel occupies the left half and sits inside a white photo-like border. The right panel occupies the right half and is larger-looking, crisp, and framed by a pale parchment page edge. Both panels show the same general manuscript-page composition: a tall decorative border, a left text column, and a right illustration column.
+
+Left panel, damaged original: Show a faded, weathered manuscript page photographed on a grayish archival background. The parchment is brown, stained, frayed, and translucent in places, with torn edges, missing corners, water damage, darkened seams, and uneven discoloration. The design is barely legible: a vertical text block on the left with dark medieval calligraphy, faded red and gold initials, and a right column with two ghostly miniature illustrations that are almost erased. The ornamental border should be visible but worn, dirty, and incomplete. Include one small dark circular blemish or hole near the center-right of the original page. Keep the whole left image muted, low contrast, and degraded.
+
+Right panel, restored version: Show a vividly restored illuminated manuscript page on warm cream parchment. The page has a highly polished medieval Celtic style with abundant gold leaf, red, green, black, and orange ornament. Use an ornate architectural frame with interlacing knotwork, geometric panels, round medallions, and a domed arch at the top. The restoration should look idealized and too pristine, with sharp lines and saturated colors.
+
+Restored page element count: Include exactly 1 large outer decorated manuscript frame; exactly 1 domed arch at the top filled with Celtic spiral ornament; exactly 4 protruding side ornaments on the frame, one at each side midpoint and corner-like extension; exactly 1 left vertical text column containing 10 lines of pseudo-Latin uncial calligraphy with decorated initials; exactly 2 rectangular narrative miniature illustrations stacked vertically in the right column; exactly 3 circular medallion ornaments overlapping the central divider and side frame; exactly 4 small square gold decorative blocks, placed near the top, center, lower center, and bottom of the frame.
+
+Text and lettering: The manuscript text should resemble medieval Insular script and pseudo-Latin, not modern readable typography. Use decorative initials in green, red, gold, and black. Suggested visible pseudo-text can include “Scooc”, “infiricipio”, “Sicloi”, “thoratio”, “chomias”, “abysus”, “Zorozobat”, “ipsemagenu”, “bubliuns”, “Qauncor”, “habacautum”, “Zacchäus”, and “uenufurcanos”, but it may remain partly nonsensical as long as the style matches.
+
+Visual style: Museum-comparison presentation, archival documentary on the left and idealized digital restoration on the right. High contrast between decay and restoration. The restored page should include obvious metallic gold leaf highlights, clean parchment, Celtic knots, evangelist-manuscript styling, and intricate medieval ornament.
+
+Constraints: Do not add extra panels, people, UI controls, watermarks, or explanatory captions beyond the two small labels. Keep the comparison balanced and centered on a plain black background.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2077693725648760909) | 2026-07-16
+
+---
+

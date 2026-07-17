@@ -6399,3 +6399,133 @@ Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage an
 
 ---
 
+### 🎬 例 4265：被葵花籽陷阱抓住的仓鼠
+
+![被葵花籽陷阱抓住的仓鼠](../images/%E8%A2%AB%E8%91%B5%E8%8A%B1%E7%B1%BD%E9%99%B7%E9%98%B1%E6%8A%93%E4%BD%8F%E7%9A%84%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅可爱的粉彩绘本插画，画面中一只圆滚滚的金棕色仓鼠坐在一个翻倒的木箱下，木箱像个微型陷阱一样扣在浅色的木地板上。仓鼠有着蓬松的橙色和奶油色毛发、硕大且水汪汪的棕色眼睛、粉嫩的脸颊、紧张地抱在胸前的小爪子、粉色的小脚丫、微微张开的担忧小嘴，以及一脸尴尬的表情。木箱左侧由一根粗糙的棍子支撑，棍子上系着绳结，绳子延伸至诱饵堆；木箱顶部有手绘文字 {argument name="crate sign text" default="免费葵花籽！"}，下方有一个向下指的箭头和一个小向日葵涂鸦。在仓鼠面前放置正好 34 颗可见的葵花籽：26 颗聚集成主要的诱饵堆，8 颗散落在地板周围，并伴有少量碎屑。在仓鼠附近添加正好 2 滴蓝色汗珠，并在左上方添加一个气泡框，内容为 {argument name="thought bubble text" default="……真不敢相信我竟然上当了……"}。背景：温暖的奶油色墙壁，柔和的景深效果，左侧有一盆模糊的盆栽，右侧有一幅带有爱心图案的小型仓鼠相框。视觉风格：可爱的日式 kawaii 儿童绘本水彩画，结合干净的数字线条艺术，暖米色和蜂蜜色调，柔和的阴影，圆润的造型，充满温情的幽默感，没有生硬的轮廓线，方形构图。
+
+[English]
+Create a cute pastel storybook illustration of a chubby golden-brown hamster sitting under a tipped-over wooden crate like a tiny trap on a light wooden floor. The hamster should have fluffy orange and cream fur, oversized glossy teary brown eyes, pink cheeks, tiny paws held nervously to its chest, little pink feet, a small open worried mouth, and an embarrassed expression. The wooden crate is propped up on the left by one rough stick tied with one rope knot and a cord leading down to a bait pile; the crate roof has hand-drawn writing that says {argument name="crate sign text" default="FREE SUNFLOWER SEEDS!"}, a downward arrow, and a small sunflower doodle. In front of the hamster place exactly 34 visible sunflower seeds: 26 clustered in the main bait pile and 8 scattered around the floor, with a few tiny crumbs. Add exactly 2 blue sweat drops near the hamster and one thought bubble in the upper left containing {argument name="thought bubble text" default="... I can't believe I fell for that..."}. Background: warm cream wall, soft depth of field, one blurred potted plant on the left, and one small framed hamster picture with a heart on the right. Visual style: adorable Japanese kawaii children’s-book watercolor mixed with clean digital line art, warm beige and honey tones, soft shading, rounded forms, gentle humor, no harsh outlines, square composition.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077699257461780619) | 2026-07-16
+
+---
+
+### 🎬 例 4266：奢华故事板演示布局
+
+![奢华故事板演示布局](../images/%E5%A5%A2%E5%8D%8E%E6%95%85%E4%BA%8B%E6%9D%BF%E6%BC%94%E7%A4%BA%E5%B8%83%E5%B1%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="product type" default="奢华牙膏"} 广告创建一个高级商业故事板页面，采用简洁的 A4 纵向布局。白色背景，搭配优雅的 {argument name="branding color" default="紫色"} 品牌色，极简编辑设计，高级排版，以及创意代理商演示风格。
+
+顶部标题栏：
+• 标题：{argument name="brand name" default="FEISIDELIN POLISH"}
+• 副标题：亮白牙齿，自信笑容！
+• 右侧信息面板显示：时长 (20s)、风格 (POV 手部视角、照片级真实感、高级商业)、受众 (18–40 岁)、音频 (轻快流行乐) 以及此风格的优势。
+
+主要布局：
+• 8 个故事板画面，以 4×2 网格排列。
+• 每个画面均包含紫色数字标签、时间码、逼真的产品照片、白色手写注释、曲线箭头、闪光涂鸦以及简短的旁白说明。
+• 展示内容：手持牙膏、正面美妆特写、打开盖子、将紫色牙膏挤在牙刷上、微距质感特写、置于奢华浴室中的产品、日常护理主视觉图以及最终推荐画面。
+
+底部区域：
+• 细节特写：标签、盖子、质感、成分。
+• 带产品尺寸的比例参考。
+• 页脚：总时长 20s • 格式 9:16 • 风格：POV 手部视角高级商业广告。
+
+风格：超写实、奢华产品摄影、高级浴室灯光、浅景深、简洁网格布局、Apple 风格演示、Behance 品质故事板、8K 分辨率、高细节、专业广告提案项目。
+
+[English]
+Create a premium commercial storyboard sheet for a {argument name="product type" default="luxury toothpaste"} advertisement in a clean A4 portrait layout. White background with elegant {argument name="branding color" default="purple"} branding, minimal editorial design, premium typography, and creative agency presentation style.
+
+Top Header:
+• Title: {argument name="brand name" default="FEISIDELIN POLISH"}
+• Subtitle: Bright White Teeth, Confident Smile!
+• Right info panel showing Duration (20s), Style (POV Hand, Photorealistic, Premium Commercial), Audience (18–40), Audio (Upbeat Pop), and Why This Style Works.
+
+Main Layout:
+• 8 storyboard frames arranged in a 4×2 grid.
+• Each frame has a purple number tab, timecode, realistic product photo, white handwritten notes, curved arrows, sparkle doodles, and a small voice-over caption.
+• Show: holding the toothpaste, front beauty shot, opening the cap, squeezing purple toothpaste onto a toothbrush, macro texture shot, product in a luxury bathroom, daily routine hero shot, and final recommendation shot.
+
+Bottom Section:
+• Detail Close-ups: Label, Cap, Texture, Ingredients.
+• Scale Reference with product dimensions.
+• Footer: Total Duration 20s • Format 9:16 • Style: POV Hand Premium Commercial.
+
+Style: Ultra-realistic, luxury product photography, premium bathroom lighting, shallow depth of field, clean grid layout, Apple-style presentation, Behance-quality storyboard, 8K, highly detailed, professional advertising pitch board, purple and white color palette.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2077697811714625588) | 2026-07-16
+
+---
+
+### 🎬 例 4286：大胆的社论漫画插图
+
+![大胆的社论漫画插图](../images/%E5%A4%A7%E8%83%86%E7%9A%84%E7%A4%BE%E8%AE%BA%E6%BC%AB%E7%94%BB%E6%8F%92%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张大胆的社论漫画插图，主角是 {argument name="character" default="[主要角色]"}，拥有超大的 {argument name="cartoon head" default="[卡通头部]"}，展现出 {argument name="facial expression" default="[面部表情]"}。该角色身穿 [服装]，做出 [姿势]，并伴有 [手势]。采用清晰的矢量漫画风格绘制，使用粗黑轮廓线、平涂色彩、赛璐珞阴影、细腻的颗粒质感、复古印刷效果，背景为 [背景颜色] 的极简纯色，构图居中，比例夸张，幽默的社论插图，都市波普艺术美学，色彩鲜艳，高对比度，细节极其锐利，专业矢量艺术作品，海报级质量，8K 分辨率。
+
+[English]
+Create a bold editorial cartoon illustration of {argument name="character" default="[MAIN CHARACTER]"} with an oversized {argument name="cartoon head" default="[CARTOON HEAD]"}, showing {argument name="facial expression" default="[FACIAL EXPRESSION]"}. The character wears [OUTFIT], performing [POSE], with [HAND GESTURE]. Draw in a clean vector comic style using thick black outlines, flat colors, cel shading, subtle grain texture, vintage print effect, minimal solid background in [BACKGROUND COLOR], centered composition, exaggerated proportions, humorous editorial illustration, urban pop art aesthetic, vibrant colors, high contrast, ultra sharp details, professional vector artwork, poster quality, 8K.
+```
+
+**来源：** [@Duet | AI](https://x.com/Sheldon056/status/2077612779855548721) | 2026-07-16
+
+---
+
+### 🎬 例 4307：深褐色仓鼠暑假作业漫画
+
+![深褐色仓鼠暑假作业漫画](../images/%E6%B7%B1%E8%A4%90%E8%89%B2%E4%BB%93%E9%BC%A0%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅垂直单色日式漫画页面，讲述一个真实故事风格的仓鼠爸爸在孩子的暑假作业海报上“用力过猛”的故事。
+
+画布：高长比例漫画页，约 9:16，暖米色纸张上的深褐色墨水，手绘交叉排线和铅笔质感线条，细黑色边框，怀旧的昭和时代绘本氛围。
+
+布局：使用 6 个垂直堆叠的横向漫画格。室内场景为温馨的木质房间，有地板、书架、盆栽、窗帘和窗户、美术用品、一张大画纸、颜料盘、水桶、画笔和马克杯。所有对话框和旁白框均使用日语。
+
+角色：两只毛茸茸的仓鼠。孩子仓鼠体型小巧圆润，黑色亮眼，没戴眼镜，正在认真地用画笔作画。爸爸仓鼠体型更大更圆，戴着小圆眼镜，起初拿着马克杯，后来拿起画笔，神情变得越来越专注且狂热。两只仓鼠均呈现为写实可爱的仓鼠形象，而非拟人化吉祥物。
+
+分格细节：第 1 格展示孩子仓鼠面对地板上的空白海报纸，左侧放着美术用品，背景是窗帘和书架。右侧添加一个垂直旁白框，写着「ハムスターの夏休みの宿題は『自由研究』の課題ポスターの提出が必要だった」，孩子头顶的对话框写着「今年も緑化ポスターを描こう」。第 2 格展示孩子仓鼠在大纸上画树，戴圆眼镜的爸爸仓鼠站在旁边拿着马克杯观看。第 3 格展示父子俩并排趴在海报上；爸爸指着海报或评论，对话框写着「ポスターか」，孩子回答「うん、夏休みの宿題」。第 4 格展示爸爸向孩子借画笔，两人隔着纸对视；孩子头顶有一个问号，爸爸的对话框写着「ちょっと貸して」，孩子的对话框写着「うん？」。第 5 格是海报的特写，画面变得极其精细：茂密的森林景观，有许多树木和枝叶，爸爸的爪子拿着画笔在右上角，左侧孩子的对话框写着「おお……！お父さん上手！」。第 6 格展示爸爸仓鼠完全沉浸其中，满头大汗地弓着背在海报上作画，画出了带有戏剧性速度线的极其复杂的森林；身后的孩子仓鼠看起来既震惊又惊慌。周围散落着美术用品、颜料盘和水桶。添加一个锯齿状的对话框，孩子喊道「お父さん……!!そしたらハムスターが描いたポスターじゃなくなっちゃう!!!お父さん!!お父さん!!」，底部标题框写着「ラストの２日で描き直した」。
+
+视觉风格：复古日式报纸漫画，柔和的深褐色单色，细腻的毛发质感，生动的表情，温和的喜剧节奏，写实的房间透视，无现代数字着色，无水印。
+
+可自定义元素：作业主题为 {argument name="homework poster theme" default="绿化海报"}；主角为 {argument name="animal characters" default="仓鼠父子"}；爸爸的配饰为 {argument name="father accessory" default="圆眼镜"}；最终海报主题为 {argument name="final poster subject" default="茂密的森林景观"}；底部点睛之笔的标题为 {argument name="punchline caption" default="ラストの２日で描き直した"}。
+
+[English]
+Goal: Create a vertical monochrome Japanese manga page about a true-story style hamster father going overboard with a child’s summer homework poster.
+
+Canvas: Tall portrait manga page, about 9:16, sepia ink on warm off-white paper, hand-drawn crosshatching and pencil-like linework, thin black panel borders, nostalgic Showa-era storybook atmosphere.
+
+Layout: Use exactly 6 stacked horizontal comic panels. Interior setting is a cozy wooden room with floorboards, bookshelf, potted plant, curtains and window, art supplies, a large sheet of drawing paper, paint tray, bucket, brushes, and mugs. Keep all dialogue in Japanese speech bubbles and narration boxes.
+
+Characters: Two fluffy hamsters. The child hamster is small, round, cute, black glossy eyes, no glasses, drawing earnestly with a brush. The father hamster is larger and rounder, wearing small round glasses, holding a mug at first, then a brush, becoming increasingly intense and focused. Both are rendered as realistic-cute hamsters rather than humanoid mascots.
+
+Panel details: Panel 1 shows the child hamster facing a blank poster sheet on the floor, art supplies on the left, curtains and bookshelf behind. Add a vertical narration box on the right reading 「ハムスターの夏休みの宿題は『自由研究』の課題ポスターの提出が必要だった」 and a speech bubble from the child reading 「今年も緑化ポスターを描こう」. Panel 2 shows the child hamster drawing trees on the large paper while the father hamster with round glasses stands nearby holding a mug and watching. Panel 3 shows father and child side by side over the poster; father points or comments with a bubble 「ポスターか」 and the child replies 「うん、夏休みの宿題」. Panel 4 shows the father asking to borrow the brush, facing the child across the paper; include a question mark over the child’s head, father bubble 「ちょっと貸して」 and child bubble 「うん？」. Panel 5 is a close-up of the poster becoming extremely detailed: dense forest scenery with many trees and foliage, father’s paw holding a brush at the upper right, child bubble on the left 「おお……！お父さん上手！」. Panel 6 shows the father hamster completely absorbed, sweating and hunched over the poster, drawing an incredibly elaborate forest with dramatic speed lines; the child hamster behind him looks shocked and panicked. Include scattered art supplies, paint tray and bucket. Add a jagged speech bubble from the child reading 「お父さん……!!そしたらハムスターが描いたポスターじゃなくなっちゃう!!!お父さん!!お父さん!!」 and a bottom caption box reading 「ラストの２日で描き直した」.
+
+Visual style: Vintage Japanese newspaper manga, soft sepia monochrome, detailed fur texture, expressive faces, gentle comedy pacing, realistic room perspective, no modern digital coloring, no watermark.
+
+Customizable elements: The homework theme is {argument name="homework poster theme" default="greenery poster"}; the main characters are {argument name="animal characters" default="father and child hamsters"}; the father accessory is {argument name="father accessory" default="round glasses"}; the final poster subject is {argument name="final poster subject" default="dense forest scenery"}; the bottom punchline caption is {argument name="punchline caption" default="ラストの２日で描き直した"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077569764004860036) | 2026-07-16
+
+---
+

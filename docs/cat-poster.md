@@ -19577,3 +19577,515 @@ Create a serene cinematic morning poster for {argument name="city name" default=
 
 ---
 
+### 🎴 例 4227：“迷失俄罗斯”旅行拼贴画
+
+![“迷失俄罗斯”旅行拼贴画](../images/%E2%80%9C%E8%BF%B7%E5%A4%B1%E4%BF%84%E7%BD%97%E6%96%AF%E2%80%9D%E6%97%85%E8%A1%8C%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张关于俄罗斯单人旅行的竖版复古旅行海报拼贴画，采用粗糙的撕纸剪贴簿美学，使用柔和的米色纸张纹理、半色调网点、粗犷的笔触、做旧的印刷颗粒感以及高对比度的编辑摄影蒙太奇风格。主标题应占据上半部分：一条黑色撕裂纸条，上方为白色大写文字“LOST IN”，下方为巨大的做旧红色粗体字母“RUSSIA”。前景中心：一位 30 岁出头、时尚的男性游客，留着棕色短发和修剪整齐的胡须，佩戴黑色太阳镜，身穿棕褐色外套、灰色 T 恤，背着黑色双肩包，戴着手表，脖子上挂着一台黑色相机；他腰间拿着一张展开的纸质地图，自信地看向右侧。背景及拼贴元素：右侧为圣瓦西里主教座堂色彩鲜艳的大型洋葱头圆顶；左侧为莫斯科城市街景，包含古老建筑、行人及一辆向前行驶的红色复古汽车；加入一个红色的莫斯科地铁“M”标志，以及一个深色的方向指示牌，上面有 3 个箭头，分别标注为“RED SQUARE”、“GUM DEPARTMENT STORE”和“ST. BASIL’S CATHEDRAL”，每行英文上方附有较小的俄文。在左上方中心附近添加一个蓝色笔触的标题，写着“WHERE STORIES LIVE FOREVER”。包含 3 个旅行邮戳/贴纸元素：左上角一个圆形的“ADVENTURE AWAITS”飞机邮戳，右上角一个带有西里尔字母的小型棕褐色“RUSSIA”邮票，以及左下方一个圆形的签证/护照盖章。在右下方添加 3 个文化/美食贴纸：一碗带有酸奶油的红色罗宋汤，以及旁边一组 3 个嵌套的俄罗斯套娃。在右下角添加一个撕裂的黑色便签面板，包含 3 行项目符号：红色星星“ICONIC LANDMARKS”、蓝色星星“RICH CULTURE”、白色星星“UNFORGETTABLE JOURNEYS”。在左下角添加一个撕裂的标签，写着“RUSSIA MADE FOR EXPLORERS”。保持构图丰富但易读，运用层叠的撕纸边缘、蓝色和红色的颜料点缀、写实的摄影主体、海报风格的排版，且不包含额外的标志或水印。
+
+[English]
+Create a vertical vintage travel-poster collage about a solo traveler in Russia, using a gritty torn-paper scrapbook aesthetic, muted beige paper texture, halftone dots, rough paint strokes, distressed print grain, and high-contrast editorial photomontage. The main headline should dominate the top half: a black torn strip with white uppercase text “LOST IN” above enormous distressed red block letters “RUSSIA”. Center foreground: a stylish male tourist in his early 30s with short brown hair, trimmed beard, black sunglasses, tan overshirt jacket, gray T-shirt, black backpack straps, wristwatch, and a black camera hanging from his neck; he holds an unfolded paper map at waist level and looks confidently toward the right. Background and collage elements: on the right, large colorful onion domes of St. Basil’s Cathedral; on the left, an urban Moscow street scene with old buildings, pedestrians, and a red vintage car driving forward; include a red Moscow Metro “M” sign and a dark directional signboard with exactly 3 arrows labeled “RED SQUARE”, “GUM DEPARTMENT STORE”, and “ST. BASIL’S CATHEDRAL” with smaller Russian text above each English line. Add a blue brush-stroke caption near the upper left-center reading “WHERE STORIES LIVE FOREVER”. Include exactly 3 travel stamp/sticker elements: a round “ADVENTURE AWAITS” airplane stamp in the upper left, a small tan “RUSSIA” postage sticker in the upper right with Cyrillic text, and a round visa/passport stamp near the lower left. Add exactly 3 cultural/food stickers in the lower right: a bowl of red borscht with sour cream, and 3 nested matryoshka dolls grouped beside it. Add a torn black note panel in the bottom right with exactly 3 bullet lines: red star “ICONIC LANDMARKS”, blue star “RICH CULTURE”, white star “UNFORGETTABLE JOURNEYS”. Add a bottom-left torn label reading “RUSSIA MADE FOR EXPLORERS”. Keep the composition busy but readable, with layered ripped paper edges, blue and red paint accents, realistic photographic subject, poster-like typography, and no extra logos or watermarks.
+```
+
+**来源：** [@𝔸𝕝𝕖𝕛𝕒𝕟𝕕𝕣𝕠 𝔾.](https://x.com/a_galaktionov/status/2077856058274447633) | 2026-07-16
+
+---
+
+### 🎴 例 4234：奢华葡萄冰川甜点海报
+
+![奢华葡萄冰川甜点海报](../images/%E5%A5%A2%E5%8D%8E%E8%91%A1%E8%90%84%E5%86%B0%E5%B7%9D%E7%94%9C%E7%82%B9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款虚构的夏季甜点产品 {argument name="product name" default="GRAPE GLACIER"} 创作一张奢华的编辑风格广告海报，融合高级时尚排版与超现实美食摄影：一座半透明的青葡萄果冻山，造型如同高山冰川，顶部覆盖着如雪般的白色奶油或刨冰。
+
+画布：竖版海报，比例约为 3:4，明亮的白色背景，带有柔和的云雾，营造出轻盈的高级杂志美感。采用简洁的无边框构图，顶部留有充足的负空间，底部为光泽感的冰面前景。
+
+布局：在顶部放置巨大的优雅 Didot/Bodoni 风格黑色衬线标题，分为两行堆叠：“GRAPE” 在第一行，“GLACIER” 在第二行。将主果冻山置于下三分之二处，向上延伸至标题区域。在标题周围添加细长的金色装饰线、小星星和圆形印章。包含两列狭窄的垂直侧边文字：一列沿左边缘，一列沿右边缘。
+
+主体细节：中心物体是一座巨大的半透明青柠色葡萄果冻山峰，像冰山一样具有切面，内部可见嵌入的完整青葡萄和葡萄切片。其棱角光亮、湿润且晶莹剔透，厚厚的白色奶油或积雪从山顶融化并顺着几个坡面流下。山顶站着一位身穿绿色服装的微型登山者，手持登山杖，以强调比例。在朦胧的背景中环绕较小的绿色果冻山峰，前景散布着透明的冰晶。
+
+前景美食细节：展示 6 个突出的葡萄相关前景元素：右下角附近 2 颗完整的青葡萄，左下中心附近 2 片切开的青葡萄，左下角附近 1 小串浅青葡萄，以及右下角边缘处 1 颗模糊的大青葡萄。在底部添加新鲜薄荷叶，并在果冻山峰底部添加微小的黄绿色花朵。表面应呈现出带有倒影和水花的融冰质感。
+
+装饰与文字元素：包含 2 个圆形印章徽标：1 个位于标题下方中心，带有金色山脉图标和文字“SUMMER LIMITED / ICE JELLY PEAK / 20 24”；1 个位于右下角的小型白金色印章，环绕着雪花图案，文字为“CHILLED BY NATURE / MADE FOR SUMMER”。在标题下方包含 2 个小型水平金色标签块：左侧标签“NEW PRODUCT”带有一颗小星，右侧标签“SUMMER LIMITED”带有一颗小星。左侧垂直文字应为“SUMMER CHILL”、“GREEN GRAPE”和“COOL · FRESH · PURE”，由小型几何图标分隔。右侧垂直文字应为“ICE JELLY PEAK”加上意为“青葡萄冰山”的小型中文字符。左下角说明文字应为：“CRYSTAL CLEAR. JUICY & COOL. A PEAK OF SUMMER DELIGHT.”
+
+视觉风格：超写实商业美食摄影，具有超现实的比例感、光泽的半透明度、柔和的日光、浅绿色和白色调、精致的金色点缀、高端甜点品牌感、清晰的排版、浅景深，以及简洁的极简奢华设计。
+
+约束：保持设计精致且不杂乱，避免出现额外的产品或包装，除唯一的微型登山者外不要添加人物，保持排版清晰易读，并使果冻山看起来诱人，而非岩石般粗糙或脏乱。
+
+[English]
+Goal: Create a luxury editorial advertising poster for a fictional summer dessert product called {argument name="product name" default="GRAPE GLACIER"}, blending high-fashion typography with surreal food photography: a translucent green grape jelly mountain shaped like an alpine glacier, topped with white cream or shaved ice like snow.
+
+Canvas: Vertical poster, approximately 3:4 aspect ratio, bright white background with soft clouds and mist, airy premium magazine aesthetic. Use a clean borderless composition with generous negative space at the top and a glossy icy foreground at the bottom.
+
+Layout: Place an enormous elegant Didot/Bodoni-style black serif headline across the top in two stacked words: “GRAPE” on the first line and “GLACIER” on the second line. Center the main jelly mountain in the lower two-thirds, rising into the title area. Add thin gold decorative rules, small stars, and circular stamps around the headline. Include two narrow vertical side text columns: one along the left edge and one along the right edge.
+
+Main subject details: The central object is one large translucent lime-green grape jelly peak, faceted like an ice mountain, with embedded whole green grapes and grape slices visible inside. Its ridges are glossy, wet, and crystalline, with thick white cream or snow melting over the summit and down several slopes. A tiny mountaineer in a green outfit stands on the summit holding a walking pole, emphasizing scale. Surround the mountain with smaller green jelly peaks in the misty background and scattered clear ice crystals in the foreground.
+
+Foreground food details: Show exactly 6 prominent grape-related foreground elements: 2 whole green grapes near the lower right, 2 sliced green grapes near the lower center-left, 1 small cluster of pale green grapes near the lower left, and 1 blurred large green grape at the extreme lower right edge. Add fresh mint leaves near the bottom and tiny yellow-green blossoms at the base of the jelly peak. The surface should look like melting ice water with reflections and splashes.
+
+Decorative and text elements: Include exactly 2 circular stamp emblems: 1 centered beneath the headline with a gold mountain icon and the text “SUMMER LIMITED / ICE JELLY PEAK / 20 24,” and 1 small white-gold seal at lower right reading “CHILLED BY NATURE / MADE FOR SUMMER” around a snowflake. Include exactly 2 small horizontal gold label blocks under the headline: left label “NEW PRODUCT” with a small star, right label “SUMMER LIMITED” with a small star. Left vertical text should read “SUMMER CHILL,” “GREEN GRAPE,” and “COOL · FRESH · PURE,” separated by small geometric icons. Right vertical text should read “ICE JELLY PEAK” plus small Chinese characters meaning green grape iceberg. Bottom-left caption should read: “CRYSTAL CLEAR. JUICY & COOL. A PEAK OF SUMMER DELIGHT.”
+
+Visual style: Hyper-realistic commercial food photography with surreal scale, glossy translucency, soft daylight, pale green and white palette, subtle gold accents, premium dessert branding, crisp typography, shallow depth of field, clean minimal luxury design.
+
+Constraints: Keep the design refined and uncluttered, avoid extra products or packaging, do not add people except the single tiny climber, maintain legible typography, and make the jelly mountain appetizing rather than rocky or dirty.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077787942207279292) | 2026-07-16
+
+---
+
+### 🎴 例 4238：奢华腕表宣传海报
+
+![奢华腕表宣传海报](../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张单图奢华宣传海报，主角为 {argument name="watch model" default="江诗丹顿 Overseas 4500V"}，围绕强烈的 {argument name="eruption scene" default="深蓝色流星爆发场景"} 构建。构图采用竖版，风格简洁、极简且高度聚焦：一枚宏伟的腕表占据画面正中心，悬浮在两块破碎的深色流星石之间，一块悬浮于上方，一块位于下方，两者均裂开，显露出耀眼的电光蓝内在能量、液态等离子光芒和晶体矿物光泽。
+
+江诗丹顿 Overseas 4500V 必须作为绝对的主角，以超高端的真实感呈现，比例完美，工艺精湛，展现拉丝与抛光不锈钢表面、深邃的蓝色表盘以及极其精致的蓝宝石镜面反射。腕表应与环境融为一体，仿佛诞生于流星能量之中。表圈、镜面、表盘、表壳边缘和表带上的反射必须准确捕捉到同样的蓝色内在光芒、悬浮的矿物粉尘以及周围岩石炸裂产生的碎片。
+
+上方的流星巨大、深邃、粗犷且厚重，其裂开的底部散发出强烈的蓝色熔岩光芒。下方的流星如同破碎的基座，从下方托住腕表，同时释放出液态般的发光能量，向外呈受控且逼真的爆发状扩散。几块较小的悬浮流星碎片在腕表周围平衡分布，在不造成画面杂乱的前提下营造出张力和空间感。细小的发光颗粒、冷蓝色尘埃以及微妙的大气碎屑悬浮在周围的黑暗中。
+
+背景必须极简且具有电影感：深海军黑，深邃而广阔，带有淡淡的蓝色雾气、精致的悬浮颗粒和柔和的体积光扩散。无需复杂的环境，无需额外的场景，无需拼贴布局。整张图像应呈现出一种凝固的星际撞击瞬间，高度克制、高端，在视觉上充满爆发力，同时保持优雅与整洁。
+
+排版应极简并与画面融合（如有）：采用精致、纤细的奢华编辑风格文字，巧妙地置于留白处，例如 {argument name="typography" default="“OVERSEAS” 和 “VACHERON CONSTANTIN”"}，并配以低调且空间嵌入的小型辅助宣传文字。避免使用厚重的字体、粗犷的商业杂乱元素或廉价的科幻风格。
+
+光影：超高水准的奢华产品布光，电光蓝宝石色高光，冷金属反射，深邃的阴影对比，流星裂缝中发光的等离子光晕，清晰的钢材高光，高度逼真的蓝宝石镜面表现，博物馆级的腕表摄影效果。
+
+氛围：神秘、爆发力、深邃、震撼、超奢华、宇宙感、克制且具有沉浸感。
+
+渲染风格：超写实商业腕表摄影，高端宣传海报美学，极致的材质还原，逼真的破碎矿物表面，电影级微距
+
+[English]
+Create a single-image luxury campaign poster for {argument name="watch model" default="Vacheron Constantin Overseas 4500V"}, built around an intense {argument name="eruption scene" default="deep-blue meteor eruption scene"}. The composition is vertical, clean, minimal, and highly focused: one monumental watch dominates the exact center of the frame, suspended between two fractured dark meteor stones, one floating above and one below, both split open to reveal blinding electric-blue inner energy, liquid plasma light, and crystalline mineral glow.
+
+The Vacheron Constantin Overseas 4500V must remain the absolute hero object, rendered with ultra-premium realism, perfect proportions, razor-sharp craftsmanship, brushed and polished stainless steel surfaces, a rich blue dial, and highly refined sapphire reflections. The watch should feel physically fused into the environment, as if born from the meteor energy itself. Reflections across the bezel, crystal, dial, case edges, and bracelet must accurately capture the same blue inner glow, suspended mineral dust, and exploding fragments from the surrounding stones.
+
+The upper meteor is massive, dark, rugged, and heavy, with a cracked underside radiating intense blue molten light. The lower meteor acts like a fractured pedestal, cradling the watch from below while emitting liquid-like luminous energy that spreads outward in a controlled, realistic burst. A few smaller floating meteor fragments orbit the watch in balanced positions, helping build a sense of tension and dimensionality without cluttering the frame. Fine glowing particles, cold blue dust, and subtle atmospheric debris are suspended in the surrounding darkness.
+
+The background must be minimal and cinematic: deep navy-black, abyssal, spacious, with faint blue haze, delicate floating particles, and soft volumetric diffusion. No busy environment, no extra scenery, no collage layout. The entire image should feel like a frozen celestial impact moment, highly disciplined, premium, and visually explosive while remaining elegant and clean.
+
+Typography should be minimal and integrated if present: a refined, thin, luxury editorial text treatment placed subtly into the negative space, such as {argument name="typography" default="“OVERSEAS” and “VACHERON CONSTANTIN”"}, with small supporting campaign text kept understated and spatially embedded. No heavy fonts, no bold commercial clutter, no cheap sci-fi styling.
+
+Lighting: ultra-controlled luxury product lighting, electric sapphire-blue highlights, cold metallic reflections, deep shadow contrast, luminous plasma bloom inside the meteor cracks, crisp steel speculars, highly realistic sapphire crystal behavior, museum-grade watch photography.
+
+Mood: mysterious, explosive, abyssal, powerful, ultra-luxury, cosmic, disciplined, and immersive.
+
+Rendering style: hyper-realistic commercial watch photography, premium campaign poster aesthetic, extreme material fidelity, realistic fractured mineral surfaces, cinematic mic
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2077772229723799947) | 2026-07-16
+
+---
+
+### 🎴 例 4243：Alfin 太空动漫 Cosplay 合成海报
+
+![Alfin 太空动漫 Cosplay 合成海报](../images/Alfin%20%E5%A4%AA%E7%A9%BA%E5%8A%A8%E6%BC%AB%20Cosplay%20%E5%90%88%E6%88%90%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的科幻动漫 Cosplay 宣传合成海报，展示由同一位高挑年轻女性 Coser 扮演的 {argument name="character name" default="《银河铁道之夜》中的 Alfin"}，共 5 种不同姿势，叠加在深邃的外太空背景之上。角色留着长直的 {argument name="hair color" default="蜜金色头发"}，配有刘海，皮肤白皙，妆容如偶像般柔和，表情风格从严肃到自信。她身穿光泽感的复古太空飞行员服装：红色皮革短款夹克内搭白色与银色拼接的修身飞行服，配有高耸的金属银色衣领、银色手套、白色修身长裤、红白相间的靴子、一条宽大的银色腰带（中央扣环上印有红色“J”字样），红色夹克上饰有矩形金色胸甲。画面中需包含 5 个清晰的角色形象：1）左下角前景处的大型特写形象，手举至耳边，看向观众；2）上方中央双臂交叉、向侧面凝视的形象；3）右上角背对镜头、四分之三侧身、手持未来感银色手枪的形象；4）中央全身站立、单手叉腰的形象；5）右侧中部身体前倾、直指观众的形象。在她们身后放置一艘细节丰富的复古火箭飞船，从左至右呈对角线倾斜，带有蓝色鼻锥、风化的金属船体面板、尾翼、引擎光芒，其中一侧机翼上印有明显的红色“J”标识。背景为戏剧性的星空，点缀着蓝色星云、散落的明亮恒星以及电影级的太空光影。整体风格应呈现出高端写实 Cosplay 摄影与 1980 年代日本太空动漫海报构图的融合，面部轮廓清晰，服装反射出光泽，布料与皮革纹理真实，剪影叠加清晰，边缘光影效果强烈，无文字标题，无水印，无多余角色，且无重复的姿势。
+
+[English]
+Create a polished sci-fi anime cosplay promotional composite featuring {argument name="character name" default="Alfin from Crusher Joe"} portrayed by the same tall young female cosplayer in exactly 5 separate poses, layered over a deep outer-space background. The character has long straight {argument name="hair color" default="honey-blonde hair"} with bangs, fair skin, soft idol-like makeup, and a serious-to-confident expression style. She wears a glossy retro space-pilot costume: a red leather cropped jacket integrated into a white-and-silver fitted flight suit, high metallic silver collar, silver gloves, white slim pants, red-and-white boots, a wide silver belt with a central buckle marked with a red “J”, and gold rectangular chest plates on the red jacket. Include exactly 5 visible character instances: 1) a large close-up figure in the lower left foreground, hand raised near her ear, looking toward the viewer; 2) an upper center figure with arms crossed, gazing off to the side; 3) an upper right back-turned three-quarter figure holding a futuristic silver pistol upright; 4) a full-body center figure standing with one hand on her hip; 5) a mid-right figure leaning forward and pointing directly toward the viewer. Behind them place a detailed retro rocket spaceship angled diagonally from left to right, with a blue nose cone, weathered metal hull panels, fins, engine glow, and a visible red “J” marking on one wing. Background is a dramatic starfield with blue nebula clouds, scattered bright stars, and cinematic space lighting. Style should look like high-end photorealistic cosplay photography blended with Japanese 1980s space-anime poster composition, sharp faces, glossy costume reflections, realistic fabric and leather texture, crisp cutout layering, dramatic rim light, no text captions, no watermark, no extra characters, and no additional repeated poses.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2077761713286586790) | 2026-07-16
+
+---
+
+### 🎴 例 4246：奢华腕表高山主题广告项目
+
+![奢华腕表高山主题广告项目](../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E9%AB%98%E5%B1%B1%E4%B8%BB%E9%A2%98%E5%B9%BF%E5%91%8A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个为 Vacheron Constantin Overseas 4500V 腕表打造的超高端四格广告宣传项目，采用精致的 2x2 奢华布局，将腕表及其表面细节与雪峰、倒影山湖、冰雪纹理及清冽的高海拔氛围等高山环境无缝融合。画面必须呈现出优雅、冒险、富有质感且格调高雅的视觉效果，如同世界级高级制表品牌的全球宣传大片，展现腕表在非凡景观中穿行的特质。核心概念：该宣传项目应将 Vacheron Constantin Overseas 4500V 呈现为一款与高山倒影及高海拔静谧感融为一体的时计。表盘及表面细节应与雪山地平线、冰湖纹理及镜面水影进行诗意般的微妙融合。腕表必须保持极致的奢华感与真实感，同时将高山世界融入其表面语言，传递出旅行、精准与宁静的力量。4 格结构：采用简洁的 2x2 四格奢华布局：左上为腕表全景主图，右上为表盘细节放大图，展示指针与融合的高山倒影，左下为另一处表盘特写，聚焦于时标与冰湖表面纹理，右下为表冠与精钢打磨细节的微距拍摄。每个板块都应是统一奢华叙事的一部分，保持一致的高山色调、静谧空气感与高端空间平衡。板块 1，主图：清晰展示 Vacheron Constantin Overseas 4500V 全貌，直立或微倾，完整呈现表壳与表链/表带。表盘应已包含微妙的高山元素，如雪原色调、远山倒影或冰湖光泽。腕表后方采用清冷光线下柔和的真实山湖地平线。腕表必须保持视觉主体地位，彰显无可置疑的高端品质。板块 2，表盘世界细节：放大表盘与指针，使表盘仿佛成为一个微缩的高山世界。表盘表面应与倒影山湖、雪山脊线或冰水边缘无缝融合。指针优雅地悬浮于这片景观般的表盘之上，仿佛在测量高山的静谧。融合效果必须干净、诗意且真实可信。板块 3，打磨与表面叙事：展示表盘与镶贴时标的另一处微距裁剪。聚焦于表面工艺与高山倒影纹理的融合：细腻的霜状颗粒、柔和的镜湖深度、微妙的冰层图案及冷静的高海拔光线。时标、指针与表盘结构在这一宁静的自然融合中保持清晰与奢华感。板块 4，表冠与表壳微距：创作一张表冠、表圈边缘及拉丝抛光表壳结构的超精细微距照片。该板块应突出高级制表工艺：精钢打磨、蓝色点缀或倒影细节、雕刻精度、缎面拉丝及抛光倒角。高山环境可在倒影中轻微呼应，但焦点必须是纯粹的材质完美。产品真实性：以绝对的真实感渲染 Vacheron Constantin Overseas 4500V：精准的精钢表壳几何结构、正确的表链或表带衔接、锐利的镶贴时标、奢华的表盘打磨、清澈的蓝宝石镜面反射、精准的表冠细节以及世界级瑞士腕表的质感。腕表必须在物理层面显得真实、令人向往且极其高端。环境融合：高山世界必须保持微妙与优雅，绝不喧宾夺主。合适的元素包括：雪山地平线、冰湖倒影、冷雾、冰面颗粒、蓝灰色山间空气及柔和的高山光线。景观应自然地融入表盘与倒影中，仿佛腕表内部蕴含着高山的宁静。色彩方向：使用精致的高山奢华色板：精钢银、冰蓝色、深板岩蓝、浅雪白、矿物灰及冷色调反射光。保持色调清冽、克制且高端，辅以少量深蓝色调以增加丰富度。排版：使用以英文为主的优雅奢华排版系统，文案极简。建议文案方向：主标题：“OVERSEAS 4500V”，副标题：“ALPINE REFLECTION”，辅助文案：“Precision, reflected in altitude.”（精准，映于海拔之上。）排版应稀疏、精致且间距优美，像奢华杂志大片一样融入四格布局。品牌编码：通过以下方式保留 Vacheron Constantin 的品牌特质：完整的产品精度、高级制表工艺、克制的奢华布局、旅行导向的优雅感以及诗意的环境叙事。最终图像必须呈现出 Vacheron Constantin 旗舰级宣传大片的质感。灯光：使用柔和的高端编辑灯光，在精钢、水晶及表盘表面呈现清冷的反射效果。主图板块应具备清澈的高山日光，而微距板块应使用精准的摄影棚灯光来揭示纹理、打磨工艺及精致细节。整个项目必须给人以冷静、清冷且昂贵的感觉。氛围：优雅、高山、精致、冒险、精准、宁静、有质感、奢华、令人向往、全球高端。渲染风格：超高端奢华腕表广告项目，Vacheron Constantin Overseas 4500V，四格编辑布局，表盘与高山湖泊及雪山倒影融合，微距精钢工艺，冰冷高海拔氛围，高端英文排版，8k，世界级商业图像质量。负面提示词：廉价腕表广告、杂乱的拼贴、产品精度不足、花哨的景观融合、低细节精钢、卡通渲染、混乱的板块布局、过多的文字、低端杂志感、过度戏剧化的奇幻风格。
+
+[English]
+Create an ultra-premium four-panel advertising campaign board for Vacheron Constantin Overseas 4500V, following a refined 2x2 luxury layout where the watch and its surface details are seamlessly fused with an alpine environment of snow peaks, reflective mountain lakes, icy textures, and crisp high-altitude atmosphere. The image must feel elegant, adventurous, tactile, and emotionally elevated, like a world-class haute horlogerie campaign for a watch made to travel through extraordinary landscapes. Core concept: The campaign should present the Vacheron Constantin Overseas 4500V as a timepiece fused with alpine reflection and high-altitude stillness. The watch dial and surface details should merge subtly and poetically with snow mountain horizons, frozen-lake textures, and mirror-like water reflections. The watch must remain fully luxurious and realistic, while the mountain world becomes part of its surface language, suggesting travel, precision, and serene power. 4-panel structure: Use a clean 2x2 four-panel luxury layout: top-left: full hero watch shot, top-right: enlarged dial detail with hands and integrated alpine reflection, bottom-left: another close dial crop focused on indices and icy-lake surface texture, bottom-right: macro crown and steel finishing detail. Each panel should feel like part of one unified luxury story, with consistent alpine tonality, quiet air, and premium spatial balance. Panel 1, hero shot: Show the full Vacheron Constantin Overseas 4500V prominently, upright or slightly angled, with the full case and bracelet/strap visible. The dial should already contain subtle integration of alpine elements such as snowfield tonality, distant mountain reflections, or icy-lake sheen. Behind the watch, use a soft real mountain-lake horizon under crisp cold light. The watch must remain dominant and unmistakably premium. Panel 2, dial-world detail: Zoom into the watch dial and hands so the face becomes almost a tiny alpine world. The dial surface should fuse seamlessly with a reflective mountain lake, snowy ridge line, or frozen-water edge. The watch hands should float elegantly over this landscape-like dial, as if measuring the stillness of the high mountains. The integration must feel clean, poetic, and believable. Panel 3, finishing and surface narrative: Show another macro crop of the dial and applied indices. Focus on the craftsmanship of the surface as it merges with alpine reflection textures: fine frost-like grain, soft mirror-lake depth, subtle ice patterns, and calm high-altitude light. The markers, hands, and dial architecture must remain crisp and luxurious over this serene natural fusion. Panel 4, crown and case macro: Create a hyper-detailed macro shot of the crown, bezel edge, and brushed-polished case construction. This panel should highlight haute horlogerie craftsmanship: steel finishing, blue accent or reflection details, engraving precision, satin brushing, and polished bevels. The alpine environment may be softly echoed in the reflections, but the focus must be pure material perfection. Product realism: Render the Vacheron Constantin Overseas 4500V with absolute realism: precise steel case geometry, correct bracelet or strap integration, sharp applied indices, luxury dial finishing, clean sapphire reflections, accurate crown details, and world-class Swiss-watch fidelity. The watch must feel physically real, aspirational, and exceptionally premium. Environment integration: The alpine world must remain subtle and elegant, never overwhelming. Suitable elements include: snow mountain horizon, frozen lake reflections, cold mist, ice surface grain, blue-gray mountain air, and soft alpine light. The landscape should seem naturally fused into the dial and reflections, as if the watch carries the stillness of the mountains inside it. Color direction: Use a refined alpine luxury palette of steel silver, icy blue-gray, deep slate blue, pale snow white, mineral gray, and cool reflected light. Keep the tonality crisp, restrained, and premium, with a few deeper blue accents for richness. Typography: Use an elegant English-led luxury typography system with minimal copy. Suggested text direction: Main English title: “OVERSEAS 4500V” Secondary title: “ALPINE REFLECTION” Supporting English copy: “Precision, reflected in altitude.” Typography should be sparse, refined, and beautifully spaced, integrated into the four-panel layout like a luxury editorial campaign. Brand coding: Preserve Vacheron Constantin identity through: full product precision, haute horlogerie craftsmanship, restrained luxury layout, travel-oriented elegance, and poetic environmental storytelling. The final image must feel unmistakably like a flagship Vacheron Constantin campaign. Lighting: Use soft high-end editorial lighting with crisp cold reflections on steel, crystal, and dial surfaces. The hero panel should have clean alpine daylight, while the macro panels should use precise studio light to reveal texture, finishing, and refined detail. The whole board must feel calm, cold, and expensive. Mood: elegant, alpine, refined, adventurous, precise, serene, tactile, luxurious, aspirational, globally premium Rendering style: ultra-premium luxury watch campaign board, Vacheron Constantin Overseas 4500V, four-panel editorial layout, dial fused with alpine lake and snow mountain reflections, macro steel craftsmanship, icy high-altitude atmosphere, high-end English typography, 8k, world-class commercial image quality Negative prompt: cheap watch ad, cluttered collage, weak product precision, gimmicky landscape fusion, low-detail steel, cartoon rendering, messy panel layout, excessive text, low-end magazine look, overdramatic fantasy
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2077758761469624408) | 2026-07-16
+
+---
+
+### 🎴 例 4252：极简主义拼贴海报模板
+
+![极简主义拼贴海报模板](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%8B%BC%E8%B4%B4%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯色 {argument name="background color" default="[COLOR]"} 背景上的超现实极简主义拼贴海报，主体为一张 {argument name="subject" default="[HUMAN]"} 穿着 [CLOTHING] 的黑白撕裂照片，置于粗糙的纸质边框内。在照片后方添加 [LETTER, OR SHOPPLIST, BILL, ETC]，在构图中加入 [GRAPHIC ELEMENT]，并在右下角附近的小方块中添加粗体标题文字 “{argument name="title" default="[TITLE]"}”。使用 [COLOR PALETTE]、撕裂边缘、胶带痕迹、手写碎片、颗粒感复印质感、不对称布局、强烈的留白、原始编辑风格、鲜明的几何对比、手工杂志美学，比例为垂直 4:5。
+
+[English]
+Surreal minimalist collage poster on a solid dark {argument name="background color" default="[COLOR]"} background, featuring a torn black-and-white photograph of {argument name="subject" default="[HUMAN]"} wearing [CLOTHING] placed inside a rough paper frame. Add [LETTER, OR SHOPPLIST, BILL, ETC] behind the photo, [GRAPHIC ELEMENT] across the composition, and bold title text “{argument name="title" default="[TITLE]"}” in a small block near the lower right. Use [COLOR PALETTE], ripped edges, tape marks, handwritten fragments, grainy photocopy texture, asymmetrical layout, strong negative space, raw editorial mood, sharp geometric contrast, handmade zine aesthetic, vertical 4:5.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2077734998635905331) | 2026-07-16
+
+---
+
+### 🎴 例 4255：倒置午夜城市电影海报
+
+![倒置午夜城市电影海报](../images/%E5%80%92%E7%BD%AE%E5%8D%88%E5%A4%9C%E5%9F%8E%E5%B8%82%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部独立短片创作一张充满情绪的电影首映海报，以倒映在水面上的倒置午夜城市为核心，并将富有表现力的发光中文书法字体作为氛围的一部分。
+
+画布：竖版电影海报，3:4 宽高比，深蓝与黑色调，高对比度，雨夜氛围，细腻的胶片颗粒感，雾气，光晕，以及水面反射。
+
+布局：上方三分之一处展示倒置的现代城市天际线，仿佛整个世界颠倒过来，悬挂在顶部边缘。摩天大楼、天线、零星的窗户灯光、薄雾以及一个微小的红色霓虹灯标志出现在远处的城市中。在垂直中心位置，放置一个孤独的人影，同样是倒置的，悬浮在城市与水面反射之间。下半部分是大面积的蓝色涟漪水面，带有明亮的月光反射和发光条纹，底部逐渐融入黑暗。
+
+主体细节：使用一个身穿深色外套的孤独身影，与城市相比显得非常渺小，居中且倒置，营造出神秘的科幻黑色电影感。城市应通过雾气显得密集而柔和，采用冷青蓝色调，并点缀偶尔出现的暖橙色或红色霓虹灯。
+
+字体与文本内容：包含 8 组可见文本：1) 顶部标题，使用纤细且字间距宽的英文大写：“INDEPENDENT SHORT FILM • PREMIERE POSTER”；2) 巨大的中央中文书法标题，使用 {argument name="main title" default="失眠城市"}，呈现发光的蓝白色，手绘风格，带有粗犷的干笔笔触、飞白、长拖尾以及强烈的发光效果；3) 标题下方较小的橙色手写中文副标题，使用 {argument name="subtitle" default="今夜，整座城市都醒着"}，带有细下划线；4) 底部标语行，使用窄版英文大写：“A MIDNIGHT CITY STORY • OFFICIAL TEASER COVER • COLD NIGHT PREMIERE”；5) 第一行微小的演职员表：“DIRECTED BY LINNAN | WRITTEN BY LINNAN | CINEMATOGRAPHY MOONJ | MUSIC BY HANING”；6) 第二行微小的演职员表：“EDITED BY SLOWLIGHT | COLORIST MOONJ | SOUND DESIGN ECHO LAB | PRODUCED BY INSOMNIA FILMS”；7) 最后的底部上映文本：“COMING SOON”；8) 城市中一个带有无法辨认或抽象中文字符的小型红色霓虹灯标志，不宜过于显眼。
+
+视觉风格：高端艺术电影海报，倒置构图，超现实反射美学，冷色调夜间青色分级，写实数字绘景与电影海报设计相结合。水面应在主标题下发光，笔触飞溅和光束融入涟漪中。小型英文文本使用优雅的压缩无衬线字体，字间距较大，呈浅灰白色，居中对齐。
+
+约束：保持构图对称且极简，主书法字体占据中间宽度。不要添加额外的角色、车辆、标志、边框或超出上述 8 组文本之外的额外文字。保持黑暗神秘的氛围，并使字体与水光和雾气在视觉上融为一体。
+
+[English]
+Goal: Create a moody cinematic premiere poster for an independent short film, centered on an upside-down midnight city reflected in water, with expressive glowing Chinese brush-calligraphy typography as part of the atmosphere.
+
+Canvas: Vertical movie poster, 3:4 aspect ratio, dark blue and black palette, high contrast, rainy nocturnal ambience, subtle film grain, mist, bloom, and water reflections.
+
+Layout: The upper third shows an inverted modern city skyline hanging from the top edge as if the whole world is upside down. Skyscrapers, antennas, scattered window lights, haze, and a small red neon sign appear in the distant city. At the exact vertical center, place one small solitary human silhouette, also upside down, suspended between the city and the water reflection. The lower half is a wide expanse of rippling blue water with bright moonlike reflections and luminous streaks, fading into darkness at the bottom.
+
+Main subject details: Use a lone figure in a dark coat, tiny compared with the city, centered and inverted, creating a mysterious sci-fi noir feeling. The city should feel dense but soft through fog, with cold cyan-blue lighting and occasional warm orange or red neon accents.
+
+Typography and text content: Include exactly 8 visible text groups: 1) top header in thin spaced uppercase English: "INDEPENDENT SHORT FILM  •  PREMIERE POSTER"; 2) huge central Chinese brush title using `{argument name="main title" default="失眠城市"}`, glowing white-blue, hand-painted, rough dry-brush strokes, splashes, long sweeping tails, and strong bloom; 3) smaller handwritten orange Chinese subtitle below the title using `{argument name="subtitle" default="今夜，整座城市都醒着"}`, with a thin underline stroke; 4) bottom tagline line in narrow uppercase English: "A MIDNIGHT CITY STORY  •  OFFICIAL TEASER COVER  •  COLD NIGHT PREMIERE"; 5) first tiny credit row: "DIRECTED BY LINNAN  |  WRITTEN BY LINNAN  |  CINEMATOGRAPHY MOONJ  |  MUSIC BY HANING"; 6) second tiny credit row: "EDITED BY SLOWLIGHT  |  COLORIST MOONJ  |  SOUND DESIGN ECHO LAB  |  PRODUCED BY INSOMNIA FILMS"; 7) final bottom release text: "COMING SOON"; 8) a small red neon sign inside the city with unreadable or abstract Chinese characters, not prominent.
+
+Visual style: Premium art-house film poster, inverted composition, surreal reflection aesthetic, cold nocturnal cyan grading, realistic digital matte painting mixed with cinematic poster design. Water surface should glow under the main title, with brush splatter and light streaks blending into the ripples. Use elegant condensed sans-serif fonts for the small English text, heavily letter-spaced, pale gray-white, aligned center.
+
+Constraints: Keep the composition symmetrical and minimal, with the main calligraphy occupying the middle width. Do not add extra characters, vehicles, logos, borders, or additional text beyond the 8 listed text groups. Preserve a dark mysterious atmosphere and make the typography feel physically integrated with the waterlight and fog.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077721149346337056) | 2026-07-16
+
+---
+
+### 🎴 例 4260：层叠纸艺风格运动员海报
+
+![层叠纸艺风格运动员海报](../images/%E5%B1%82%E5%8F%A0%E7%BA%B8%E8%89%BA%E9%A3%8E%E6%A0%BC%E8%BF%90%E5%8A%A8%E5%91%98%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高级的层叠纸艺风格编辑海报，介绍 {argument name="athlete name" default="[哈兰德]"}。画面中，同款纸艺角色自信地站在 {argument name="background" default="手工制作的足球场背景"} 前。运动员身后显示着巨大的纸艺排版文字 “{argument name="text" default="[哈兰德]"}”。添加俱乐部徽章、精致的纸质星星、足球图形，并使用俱乐部配色进行层叠纸艺装饰。采用温暖的摄影棚灯光，呈现逼真的纸张纤维质感、黄铜连接件，打造高级的手工艺术效果。
+
+[English]
+Create a premium layered paper-cut editorial poster introducing {argument name="athlete name" default="[Haaland]"}. The same paper-cut character stands confidently in front of a {argument name="background" default="handcrafted football stadium backdrop"}. Large paper typography displaying "{argument name="text" default="[Haaland]"}" appears behind the player. Add the club badge, subtle paper stars, football graphics, and layered paper decorations using the club colors. Warm studio lighting, realistic paper fibers, brass joints, premium handcrafted look..
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2077717916590768530) | 2026-07-16
+
+---
+
+### 🎴 例 4267：花生漫画风格哈兰德足球海报
+
+![花生漫画风格哈兰德足球海报](../images/%E8%8A%B1%E7%94%9F%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%93%88%E5%85%B0%E5%BE%B7%E8%B6%B3%E7%90%83%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅迷人的经典报纸连环画插图，采用怀旧的花生漫画（Peanuts）风格（不直接抄袭任何原作角色），主角是一位可爱的 Q 版足球巨星，留着 {argument name="hair color" default="金色头发"} 并扎成短马尾，有着超大的圆脑袋、小巧的笑脸，采用简约的黑色线条勾勒，身穿 {argument name="jersey" default="印有 9 号的红色挪威足球球衣"}、白色短裤、条纹袜和亮粉色足球鞋。角色自信地走着，双手摆动，脸上带着俏皮的微笑。他身边有两个可爱的卡通伙伴：一只白色小猎犬和一只黄色小鸟，它们都穿着配套的挪威足球球衣，开心地走在他身旁，表情惊讶，头顶漂浮着感叹号。干净的浅灰色背景，极简构图，柔和的粉彩色调，手绘墨水轮廓，细腻的纸张纹理，复古周日漫画风格，生动的姿态，纯真幽默，布局平衡，清晰的矢量质感，童书插画风格，永恒的卡通魅力，超洁净，高分辨率。在底部，加入粗体的复古衬线字体，写着 "{argument name="player name" default="HAALAND"}"，居中对齐，上下方配有装饰性的水平线，营造出收藏级体育海报的质感。
+
+[English]
+A charming classic newspaper comic strip illustration in a nostalgic Peanuts-inspired aesthetic (without directly copying any original character), featuring a cute chibi football superstar with {argument name="hair color" default="blond hair"} tied into a short ponytail, oversized round head, tiny smiling face, simplified black line art, wearing a {argument name="jersey" default="red Norway football jersey with number 9"}, white shorts, striped socks, and bright pink football boots. The character walks confidently with hands swinging and a playful smile. Beside him are two adorable cartoon companions: a small white beagle-like dog and a tiny yellow bird, both wearing matching Norway football shirts, happily walking alongside him with surprised expressions and floating exclamation marks above their heads. Clean light-gray background, minimal composition, soft pastel colors, hand-drawn ink outlines, subtle paper texture, vintage Sunday comic style, expressive poses, wholesome humor, balanced spacing, crisp vector-like quality, children's book illustration, timeless cartoon charm, ultra-clean, high resolution. At the bottom, include bold vintage serif typography reading "{argument name="player name" default="HAALAND"}", centered with decorative horizontal lines above and below, creating the look of a collectible sports poster.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2077696001222275485) | 2026-07-16
+
+---
+
+### 🎴 例 4273：悬浮美食商业广告活动
+
+![悬浮美食商业广告活动](../images/%E6%82%AC%E6%B5%AE%E7%BE%8E%E9%A3%9F%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为主要参考，并保留 {argument name="subject" default="food or beverage"} 的确切外观、质感、颜色、配料和摆盘风格。创建一个高级的 {argument name="aspect ratio" default="4:5"} 竖版悬浮美食广告，使产品优雅地漂浮在精致的餐盘或表面上方，并辅以少量微妙的漂浮元素，如碎屑、香草、酱汁、蒸汽或装饰物。使用 {argument name="background style" default="clean studio or soft gradient"} 背景、专业的商业照明、清晰的高光、逼真的阴影，以及现代化的编辑构图，确保产品成为绝对的主角。如果提供了品牌文本，请仅使用优雅的无衬线字体添加极简的品牌信息。最终图像应具备超写实、诱人、动态、高级且适合社交媒体的质感，看起来就像高端商业美食广告，同时确保上传的产品具有极高的辨识度。
+
+[English]
+Use the uploaded image as the primary reference and preserve the exact {argument name="subject" default="food or beverage"} with its original appearance, textures, colors, ingredients, and serving style. Create a premium {argument name="aspect ratio" default="4:5"} vertical levitating food campaign where the product floats elegantly above a refined plate or surface with a few subtle floating elements like crumbs, herbs, sauce, steam, or garnish. Use a {argument name="background style" default="clean studio or soft gradient"} background, professional commercial lighting, crisp highlights, realistic shadows, and a modern editorial composition that keeps the product as the clear hero. Add only minimal branding text if provided using elegant sans-serif typography. The final image should be ultra-realistic, appetizing, dynamic, premium, social-media ready, and look like a high-end commercial food advertisement while keeping the uploaded product instantly recognizable.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2077676593284354149) | 2026-07-16
+
+---
+
+### 🎴 例 4275：极简西藏徒步封面
+
+![极简西藏徒步封面](../images/%E6%9E%81%E7%AE%80%E8%A5%BF%E8%97%8F%E5%BE%92%E6%AD%A5%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简户外旅行媒体封面海报，主题为 {argument name="headline text" default="西藏徒步建议"}。使用 3:4 的竖版画布，采用大胆的杂志封面排版。背景上方三分之二处为平铺的暖色 {argument name="background color" default="金橙色"} 天空，下方三分之一处为浅灰白色的沙漠或盐滩地面，带有细腻的复古纸张纹理、磨损痕迹、褪色边缘及轻微的灰尘质感。在右侧至中心位置添加一个巨大的抽象灰白色山峰符号，由锋利的几何三角形峰顶和棱角分明的镂空构成；使其看起来像是一个融入景观的图形 Logo。将主标题放置在左中位置，使用超大号、厚重的黑色中文字体，分两行堆叠，字体方正且紧凑，与橙色背景形成强烈对比。添加 2 组小型元数据文本：左上角写着“TIBET OUTDOOR”，下方为“NO.24-05”，底部带有一条细小的横线；右上角写着“ELEV. 3650M”，下方为“DAYLIGHT RECORD”，底部带有一个微小的黑色三角形标记。在底部中心位置，放置 1 位独行徒步者，比例较小，正面站立在浅色地面上，身穿灰色连帽夹克、深色徒步裤、靴子、帽子、太阳镜，背着背包，单手持 1 根徒步杖；添加一道向右延伸的细长阴影。保持设计简洁、具有电影感、现代且略带复古气息，不要添加多余的物体、人物或水印，并确保排版清晰，呈现海报质感。
+
+[English]
+Create a minimalist outdoor travel media cover poster for {argument name="headline text" default="西藏徒步建议"}. Use a vertical 3:4 canvas with a bold editorial magazine-cover composition. The background is a flat, warm {argument name="background color" default="golden orange"} sky occupying the upper two thirds and a pale off-white desert or salt-flat ground across the lower third, with subtle vintage paper grain, scuffs, faded edges, and light dust texture. Add one huge abstract off-white mountain symbol spanning the right side and center, made from sharp geometric triangular peaks and angular cutouts; it should feel like a graphic logo integrated into the landscape. Place the main headline on the left-center in very large heavy black Chinese display typography, stacked in two lines, blocky and condensed, with strong contrast against the orange background. Add exactly 2 small metadata text groups: top left reads “TIBET OUTDOOR” with “NO.24-05” beneath it and a tiny horizontal dash below; top right reads “ELEV. 3650M” with “DAYLIGHT RECORD” beneath it and a tiny black triangle marker below. At the bottom center, place exactly 1 lone hiker, small in scale, standing front-facing on the pale ground, wearing a gray hooded jacket, dark hiking pants, boots, cap, sunglasses, and a backpack, holding exactly 1 trekking pole in one hand; include a long thin shadow extending to the right. Keep the design sparse, cinematic, modern, and slightly retro, with no extra objects, no additional people, no watermark, and crisp poster-like typography.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077672225294213405) | 2026-07-16
+
+---
+
+### 🎴 例 4278：日本超级跑车蓝图海报
+
+![日本超级跑车蓝图海报](../images/%E6%97%A5%E6%9C%AC%E8%B6%85%E7%BA%A7%E8%B7%91%E8%BD%A6%E8%93%9D%E5%9B%BE%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="car model" default="HAYABUSA 01"} 创建一张电影质感的日本超级跑车广告及技术蓝图海报，这是一款虚构的下一代超级跑车。
+
+画布：宽屏 16:9 横向海报，深海军蓝/黑色背景，带有精致的工程网格线，高对比度，清晰易读的排版，光泽感照片级渲染与线框 CAD 图纸融合。
+
+主体：一辆低趴、极具侵略性的红色超级跑车，呈右侧前 3/4 视角，占据画面右下侧。前半部分完全渲染为深金属绯红色，配有黑色碳纤维引擎盖、锐利的 LED 前大灯、黑色网状进气口、大型分流器、黑色多辐轮毂、红色刹车卡钳，带有反光和雨后路面的高光效果。后半部分/左侧过渡为半透明的蓝白色线框透视图，展示底盘、轮拱、座舱轮廓、发动机/机械部件及空气动力学表面。添加指向技术特征的蓝色和橙色标注引线。
+
+布局：左上角包含英文标题“HAYABUSA 01”和副标题“NEXT GENERATION SUPER SPORT”。下方是一个规格参数框。左上/中心横跨两个蓝图视图：1 个俯视图和 1 个带测量线的侧视图。左中和左下包含技术图解面板。右半部分有一个巨大的日文标题和性能指标。右下角包含限量生产价格区块和一个模糊的制造商风格 Logo。
+
+可见文本内容：使用清晰、易读的字体。必须包含以下主要日文标题行：“未来を、加速する。” 和 “頂点を超えるパフォーマンス。” 在标题下方添加较小的日文正文。在右上角包含一个风格化的徽章/汉字标记，下方标注“HAYABUSA 01”以及红色的“01”。包含底部标语“DESIGNED FOR THOSE WHO DARE.”以及日文小字。在右下角附近包含一个巨大的模糊品牌字样，大致为“UN YAMAKI”。
+
+技术内容与数量：展示 6 个技术信息区域：1 个规格表、1 个 V6 双涡轮增压发动机图解部分、1 个悬挂系统部分、1 个尺寸部分、1 个空气动力学标注，以及 1 个轮毂与轮胎/碳纤维车身标注区。规格表应列出 9 行：整车尺寸 4,750 × 2,020 × 1,180 mm，轴距 2,780 mm，车重 1,250 kg，发动机 V6 双涡轮增压，排量 3,500 cc，最大功率 670 ps / 7,000 rpm，最大扭矩 82.6 kgf·m / 4,500 rpm，变速箱 8 速 DCT，驱动系统 MR。右侧的性能堆栈应包含 4 个带有图标的指标卡：MAX POWER 670 ps、0–100 km/h 2.8 sec、TOP SPEED 340 km/h、LATERAL G 1.85 g。蓝图测量图应显示 4 个显著的尺寸数值：4,750、2,020、2,780 和 1,180。下方的尺寸面板应显示 2 个车身视图（前视图和后视图），宽度数值分别为 1,730 和 1,710。
+
+风格：高端汽车发布海报，赛博朋克东京夜景氛围，深色光泽街道，最右侧有红色光轨，淡淡的城市灯光和雾气，精确的白色和青色蓝图线条，橙色强调标注，细微的扫描线/发光效果，豪华杂志广告品质，超精细，逼真的反射，戏剧性的摄影棚灯光。
+
+约束：保持所有文本整洁易读，确保日文字符不变形，画面中无人，无额外车辆，无水印，无杂乱的重复文本，保持车身半线框半写实的效果。
+
+[English]
+Goal: Create a cinematic Japanese supercar advertisement and technical blueprint poster for {argument name="car model" default="HAYABUSA 01"}, a fictional next-generation super sport hypercar.
+
+Canvas: Wide 16:9 landscape poster, dark navy/black background with subtle engineering grid lines, high contrast, sharp readable typography, glossy photorealistic render blended with wireframe CAD drawing.
+
+Main subject: A low, aggressive red hypercar in front three-quarter view facing right, occupying the lower center and right side. The front half is fully rendered in deep metallic crimson with black carbon fiber hood, sharp LED headlights, black mesh intakes, large splitter, black multi-spoke wheels, red brake calipers, reflections and rain-slick road highlights. The rear/left half transitions into a translucent white-blue wireframe cutaway showing chassis, wheel wells, cabin outline, engine/mechanical parts, and aerodynamic surfaces. Add blue and orange callout leader lines pointing to technical features.
+
+Layout: Top left contains the English title “HAYABUSA 01” and subtitle “NEXT GENERATION SUPER SPORT.” Beneath it is a specification box. Across the top left/center are two blueprint views: 1 top-down car view and 1 side profile view with measurement lines. The center-left and lower-left contain technical diagram panels. The right half has a large Japanese headline and performance metrics. Bottom right contains a limited-production price block and a faint manufacturer-style logo.
+
+Visible text content: Use crisp, legible text. Include these major Japanese headline lines exactly: “未来を、加速する。” and “頂点を超えるパフォーマンス。” Add smaller Japanese body copy beneath the headline. Include a stylized emblem/kanji mark at top right, “HAYABUSA 01” beneath it, and a red “01.” Include bottom tagline “DESIGNED FOR THOSE WHO DARE.” plus Japanese small copy. Include a large faint brand wordmark near the bottom right reading approximately “UN YAMAKI.”
+
+Technical content and counts: Show exactly 6 technical information areas: 1 specifications table, 1 V6 twin turbo engine diagram section, 1 suspension system section, 1 dimensions section, 1 aerodynamics callout, and 1 wheels & tires / carbon fiber body callout area. The specifications table should list 9 rows: overall size 4,750 × 2,020 × 1,180 mm, wheelbase 2,780 mm, vehicle weight 1,250 kg, engine V6 twin turbo, displacement 3,500 cc, max power 670 ps / 7,000 rpm, max torque 82.6 kgf·m / 4,500 rpm, transmission 8-speed DCT, drive system MR. The performance stack on the right should contain exactly 4 metric cards with icons: MAX POWER 670 ps, 0–100 km/h 2.8 sec, TOP SPEED 340 km/h, LATERAL G 1.85 g. The blueprint measurement drawings should show exactly 4 prominent dimension values: 4,750, 2,020, 2,780, and 1,180. The lower dimensions panel should show exactly 2 car views, front and rear, with width numbers around 1,730 and 1,710.
+
+Style: Premium automotive launch poster, cyberpunk Tokyo night mood, dark glossy street, red light trails on the far right, faint city lights and mist, precise white and cyan blueprint lines, orange accent callouts, subtle scanline/glow effects, luxury magazine advertising quality, ultra-detailed, realistic reflections, dramatic studio lighting.
+
+Constraints: Keep all text clean and readable, do not let Japanese characters deform, no people, no extra vehicles, no watermark, no messy duplicated text, maintain the half-wireframe half-photorealistic car effect.
+```
+
+**来源：** [@ただの大学生](https://x.com/Tadanostuden/status/2077661510328025090) | 2026-07-16
+
+---
+
+### 🎴 例 4280：有机菜园农产品海报
+
+![有机菜园农产品海报](../images/%E6%9C%89%E6%9C%BA%E8%8F%9C%E5%9B%AD%E5%86%9C%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为夏季菜园农产品活动创作一张构图紧凑的有机植物海报，包含层叠的蔬菜剪影和半透明水彩质感。
+
+画布：竖版海报，2:3 比例，暖奶油色纸张背景，带有细腻纹理，全出血插画，无边框。
+
+布局：用手绘风格的有机剪影、藤蔓、叶片、蔬菜、种子和卷须填满整个海报。在左下角留出一块深绿色半透明叶丛区域，用于放置主要活动文字。顶部中心放置小型系列文字，右上角放置场地编号。
+
+视觉风格：有机海报系列美学，日式/中式编辑海报质感，丝网印刷拼贴，半透明水彩渲染，粗糙纸张纹理，植物剪影，柔和的绿色搭配芥末黄、赭石色、橙色、番茄红、青色和茄紫色。采用高密度覆盖、层叠透明度、可见的叶脉、不完美的手工边缘、柔和的墨迹晕染以及扁平化的图形构图。
+
+文字内容：顶部中心小字：“Organic Poster Series”。右上角小字：“FIELD / 07”。左下角小型英文副标题：“SUMMER ORGANIC GARDEN PRODUCE”。主标题为四行堆叠的中文大字，中间有细横线分隔：{argument name="main poster title" default="夏日菜园\n蔬果采收\n有机蔬菜\n海报"}。底部信息文字：{argument name="event date" default="2026.08.12 — 2026.08.30"}，随后是“绿野生活中心 Garden Hall”、“时令蔬果 / 生态种植 / 新鲜采收”、“开放时间 10:00—18:00”。主标题使用加粗白色中文字体，详情使用紧凑的白色无衬线字体，左对齐。
+
+插画元素数量：包含 16 个主要的农产品元素：最左侧 1 个豆荚，左上方 1 朵黄南瓜花，左上中位置 1 片黄瓜切片，顶部中左位置 1 片莲藕切片，顶部中右位置 1 根青瓜，右上角 1 个番茄横截面，最右侧 1 个豆荚，中心 1 个绿叶蔬菜篮，篮内 2 个小番茄，右侧 1 个大茄子，中左下方 1 个青椒，中右下方 1 根橙色胡萝卜/根茎类蔬菜，右下角 1 个大南瓜，1 个南瓜切块，以及右下角 1 片大型圆形旱金莲式叶片。添加大量卷曲的藤蔓和叶簇作为背景纹理，但不要添加额外的其他主要农产品类型。
+
+主体细节：篮子应为浅绿色线条画，内含芝麻菜状叶片和两个红番茄。茄子应为深紫色，带有绿色果蒂，部分透明并与藤蔓重叠。南瓜应为橙色和金色，硕大、圆润且半透明，带有可见的浅色多籽切面。旱金莲式的叶片应表现为带有放射状叶脉的圆形绿色圆盘。藤蔓应在整个构图中呈垂直和对角线蜿蜒生长。
+
+可自定义调色板：使用 {argument name="color palette" default="苔藓绿、橄榄绿、芥末黄、赭石橙、番茄红、茄紫色、暖奶油色"}。
+
+约束条件：保持海报扁平化和插画感，不要写实。保持画布上紧凑的有机覆盖感，具有层叠的透明度和纸张纹理。确保所有排版清晰易读，特别是四行中文大标题。画面中不包含人物，无水印，无样机边框。
+
+[English]
+Goal: Create a dense organic botanical poster for a summer garden produce event, with layered vegetable silhouettes and translucent watercolor textures.
+
+Canvas: Vertical poster, 2:3 ratio, warm cream paper background with subtle grain, full-bleed illustration, no border.
+
+Layout: Fill the entire poster with overlapping hand-cut organic silhouettes, vines, leaves, vegetables, seeds, and tendrils. Leave a darker green semi-transparent block of foliage in the lower-left quadrant for the main event text. Place small series text at the top center and the field number at the top right.
+
+Visual style: Organic poster series aesthetic, Japanese/Chinese editorial poster feeling, screen-print collage, translucent watercolor washes, rough paper texture, botanical silhouettes, muted greens with mustard yellow, ochre, orange, tomato red, teal, and eggplant purple. Use dense coverage, layered opacity, visible leaf veins, imperfect handmade edges, soft ink bleeding, and flat graphic composition.
+
+Text content: Top center small text: “Organic Poster Series”. Top right small text: “FIELD / 07”. Lower-left small English subtitle: “SUMMER ORGANIC GARDEN PRODUCE”. Main large Chinese title in four stacked rows with thin horizontal divider lines: {argument name="main poster title" default="夏日菜园\n蔬果采收\n有机蔬菜\n海报"}. Bottom information text: {argument name="event date" default="2026.08.12 — 2026.08.30"}, then “绿野生活中心  Garden Hall”, then “时令蔬果 / 生态种植 / 新鲜采收”, then “开放时间 10:00—18:00”. Use bold white Chinese characters for the main title, compact white sans-serif for details, aligned left.
+
+Counted illustrated elements: Include exactly 16 major produce motifs: 1 pea pod on the far left, 1 yellow squash blossom near upper left, 1 cucumber slice near upper left-center, 1 lotus-root slice near top center-left, 1 green cucumber near top center-right, 1 red tomato cross-section near upper right, 1 pea pod on the far right, 1 leafy greens basket at center, 2 small tomatoes inside the basket, 1 large eggplant on the right, 1 green pepper near lower center-left, 1 orange carrot/root vegetable near lower center-right, 1 large pumpkin at bottom right, 1 pumpkin cutaway wedge, and 1 large round nasturtium-style leaf at lower right. Add many curling vines and leaf clusters as background texture, but do not add extra major produce types.
+
+Subject details: The basket should be pale green line art with arugula-like leaves and two red tomatoes. The eggplant should be dark purple with a green stem, partially transparent and overlapped by vines. The pumpkin should be orange and golden, large, round, and semi-transparent, with a visible pale seed-filled cut section. Nasturtium-like leaves should appear as round green disks with radiating veins. Vines should snake vertically and diagonally throughout the composition.
+
+Customizable palette: Use {argument name="color palette" default="moss green, olive, mustard yellow, ochre orange, tomato red, eggplant purple, warm cream"}.
+
+Constraints: Keep the poster flat and illustrative, not photorealistic. Maintain dense organic coverage across the canvas, with layered transparency and paper grain. Make all typography clean and legible, especially the four large Chinese title rows. No people, no watermark, no mockup frame.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077657689648455777) | 2026-07-16
+
+---
+
+### 🎴 例 4296：行星齿轮单元蓝图
+
+![行星齿轮单元蓝图](../images/%E8%A1%8C%E6%98%9F%E9%BD%BF%E8%BD%AE%E5%8D%95%E5%85%83%E8%93%9D%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张深色技术蓝图海报，展示机械爆炸装配图，标注 {argument name="unit name" default="PGU-05 行星齿轮单元"}，副标题为“爆炸视图与组件参考”，风格仿照精密工程 CAD 参考图纸。
+
+画布：1:1 正方形格式，黑色/炭灰色背景，带有浅色网格、细边框线、角落裁切标记、顶部和底部中心的小型对齐十字准线，以及右上角的小型图纸编号“01”。使用白色和浅灰色单线绘图线条，并辅以局部红色高亮。
+
+主体：中心放置一个详细的行星齿轮单元等轴测爆炸视图，从上到下垂直排列。在右侧用引导线标注 10 个组件组：01 内六角螺钉 (x6)、02 顶盖、03 内齿圈、04 行星齿轮 (x3)、05 太阳轮、06 行星架、07 推力垫圈、08 输出轴、09 轴承 (x2)、10 外壳。将爆炸零件渲染为透明线框/技术线条，包含隐藏的构造线和虚线对齐轴。太阳轮作为唯一强调的组件以红色呈现，位于装配体中间，并配有红色引导线和红色标签。
+
+左侧信息面板：左上方放置标题“PGU-05 行星齿轮单元”和副标题“爆炸视图与组件参考”。下方包含一个规格块，共 5 行：齿轮比 27.31:1，最大输入转速 6000 RPM，最大输出扭矩 320 N-m，效率 94%，重量 3.7 kg。下方添加一段功能概述，解释行星齿轮组如何通过多个行星齿轮绕中心太阳轮旋转并与内齿圈啮合，从而在紧凑的传动系统中分配负载并提高扭矩容量。
+
+插图：在左下方添加 2 个插图框。上方插图标记为“SECTION A-A”，显示装配好的齿轮单元的白色线条横截面。下方插图标记为“05 太阳轮 [细节]”，使用红色线条显示独立的太阳轮，并带有尺寸标注箭头及注释，如 Ø18.00、Ø32.00 和 Ø12.00 (H7)。
+
+右侧参考面板：组件列表和注释使用紧凑的等宽技术字体。包含材料和齿数标注，例如内齿圈 Z=72 模数 1.25，行星齿轮 Z=24 模数 1.25，太阳轮 Z=18 模数 1.25。添加一个包含 5 条编号注释的说明块：所有齿轮压力角 20°，齿轮材料 20CrMnTi，热处理渗碳，所有尺寸单位为毫米，公差符合 ISO 2768-mK。底部添加一个标记为 1:1 的比例尺，刻度从 0 到 100 mm。
+
+视觉风格：高细节 CAD 绘图美学，线条纤细精准，排版整洁且使用等宽字体，白色线条带有微弱光晕，仅太阳轮细节及相关标注使用红色点缀，无摄影阴影，除白色/灰色和红色外无其他颜色。确保所有文字清晰易读，并像专业机械图纸一样对齐。
+
+[English]
+Goal: Create a dark technical blueprint poster of a mechanical exploded assembly labeled {argument name="unit name" default="PGU-05 Planetary Gear Unit"}, with the subtitle “Exploded View & Component Reference,” styled like a precision engineering CAD reference sheet.
+
+Canvas: Square 1:1 format on a black/charcoal background with a faint grid, thin border lines, corner crop marks, small registration crosshairs at the top and bottom center, and a small sheet number “01” in the upper-right corner. Use white and light gray monoline drafting lines, with selective red highlights.
+
+Main subject: Center a detailed isometric exploded view of a planetary gear unit, vertically arranged from top to bottom. Show exactly 10 labeled component groups with leader lines on the right: 01 Cap screw (x6), 02 Top cover, 03 Ring gear internal, 04 Planet gear (x3), 05 Sun gear, 06 Planet carrier, 07 Thrust washer, 08 Output shaft, 09 Bearing (x2), 10 Housing. Render the exploded parts as transparent wireframe/technical linework with hidden construction lines and dotted alignment axes. Make the sun gear the only emphasized component in red, positioned in the middle of the assembly, with a red leader line and red label.
+
+Left information panel: At the upper left, place the title “PGU-05 PLANETARY GEAR UNIT” and subtitle “EXPLODED VIEW & COMPONENT REFERENCE.” Below it, include a specifications block with exactly 5 rows: Gear ratio 27.31:1, Max input RPM 6000, Max output torque 320 N-m, Efficiency 94%, Weight 3.7 kg. Under that, add a function overview paragraph explaining that a planetary gear set uses multiple planet gears rotating around a central sun gear while meshing with an internal ring gear, distributing load and increasing torque capacity in a compact drive train.
+
+Inset diagrams: Add exactly 2 inset boxes on the lower-left side. The upper inset is labeled “SECTION A-A” and shows a white line cross-section of the assembled gear unit. The lower inset is labeled “05 SUN GEAR [DETAIL]” and uses red linework to show the isolated sun gear with dimension arrows and annotations such as Ø18.00, Ø32.00, and Ø12.00 (H7).
+
+Right reference panel: Use compact monospaced technical text for the component list and notes. Include material and tooth-count callouts such as ring gear Z=72 module 1.25, planet gear Z=24 module 1.25, and sun gear Z=18 module 1.25. Add a notes block with exactly 5 numbered notes: all gears 20° pressure angle, gear material 20CrMnTi, heat treatment carburized, all dimensions in millimeters, tolerances ISO 2768-mK. Add a bottom scale bar labeled 1:1 with ticks from 0 to 100 mm.
+
+Visual style: High-detail CAD drafting aesthetic, thin precise strokes, clean monospaced typography, subtle glow on white linework, red accent only for the sun gear detail and corresponding callouts, no photographic shading, no color except white/gray and red. Keep all text legible and aligned like a professional mechanical drawing.
+```
+
+**来源：** [@whenever-不可兼容](https://x.com/shi_jinwei/status/2077600771181351111) | 2026-07-16
+
+---
+
+### 🎴 例 4304：安化黑茶山地海报
+
+![安化黑茶山地海报](../images/%E5%AE%89%E5%8C%96%E9%BB%91%E8%8C%B6%E5%B1%B1%E5%9C%B0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为山地茶产区创作一张电影质感的横版宣传海报，融合纪实摄影与高端农业品牌形象，适用于 {argument name="product name" default="安化黑茶"}。
+
+画布：宽幅 16:9 横向海报，尺寸约为 1200×675 像素。采用分割式全景布局，中间设有一条明显的水平分割线：上半部分为生动的采茶场景，下半部分为云雾茶山品牌信息面板。
+
+视觉风格：超写实主义编辑摄影，阴天氛围光，冷绿色与蓝灰色调，低空山雾，深邃对比度，呈现高端政府/企业农业宣传美学。画面包含连绵起伏的梯田茶园、山间漂浮的柔和雾气、远处的蜿蜒小径以及湿润的深绿色茶叶。字体设计应优雅、高端且极简，使用大号白色书法风格衬线中文字体，搭配精致的小号拉丁字母。
+
+上半部分场景：展示正好 8 位采茶工在梯田茶丛中采摘。在构图中清晰排列：1 位位于最左侧前景的大型女性采茶工，身穿紫色上衣，戴深色花纹头巾，背着大竹篓；2 位位于左中上方的小型采茶工，戴蓝色头巾并背着竹篓；3 位位于更远处穿红色衣服的小型采茶工；4 位位于更远处穿紫色衣服的小型采茶工；5 位位于中央前景的女性采茶工，身穿蓝格衬衫，戴花纹头巾，身旁放着竹篓；6 位位于中央右侧的小型采茶工，戴头巾并背着竹篓；7 位位于右侧坡面上采茶的深红色上衣女性；8 位位于最右侧，靠近两个装满鲜叶的大型圆形竹匾的采茶工。保持所有人物自然、纪实，避免摆拍感。
+
+主标题区域：在画面中央叠加巨大的白色中文标题 {argument name="main Chinese title" default="安化黑茶"}。在其下方居中位置，以字间距拉开的小号大写字母添加英文副标题 {argument name="English subtitle" default="ANHUA DARK TEA"}。标题应部分覆盖茶园并略微重叠水平分割线，带有细微投影以保证可读性。
+
+下半部分场景：背景延续全景式的云雾山谷与茶梯田。在右下方的中景处，展示正好 4 位年长的女性茶农，她们身穿深蓝色和紫色农村服饰，戴着花纹头巾，坐着或蹲在一起分拣或查看鲜叶；在她们右后方放置一个大型竹篓。氛围应温暖、真实且具有人文气息。
+
+侧边标签与图标：在最左侧垂直边缘，添加一个小空心圆，垂直中文文本 {argument name="left vertical label" default="中国黑茶之乡"}，下方配一个小叶子图标。在最右侧垂直边缘，添加一个小空心圆，垂直中文文本 {argument name="right vertical label" default="安化山地茶园"}，下方配一个小山脉线条图标。
+
+中央垂直微型文本：在中间英文副标题下方，添加四列纤细的垂直中文文本，内容分别为：“陈香木香 · 时间沉淀”、“安化核心产区”、“后发酵 · 黑茶”以及“山地茶园”。保持字体细小，颜色为黑色或深灰色，风格精致。
+
+底部信息栏：在底部添加三个紧凑的白色中文产品信息块，中间用细竖线分隔。左侧信息块：“产区｜湖南安化”、“采摘季｜春末至初夏”、“海拔｜山地丘陵”。中间信息块：“茶类｜黑茶”、“工艺｜杀青 · 揉捻 · 渥堆 · 干燥”、“风味｜陈香 木香 甘润”。右侧信息块：“冲泡｜95-100℃”、“建议｜耐泡可煮”、“关键词｜时间与醇化”。使用小号宋体/明体，字间距宽裕，对齐平衡。
+
+约束条件：总共展示正好 12 位人物：上半部分采茶全景 8 位，下半部分群体场景 4 位。使用正好 3 个底部信息块，正好 2 个垂直侧边标签，以及正好 4 列中央垂直微型文本。不要添加任何 Logo、二维码、价格标签、包装样机或额外文本。保持海报真实、雾气缭绕、高端，并根植于中国茶山文化。
+
+[English]
+Goal: Create a cinematic horizontal promotional poster for a mountain tea-growing region, blending documentary photography and premium agricultural branding for {argument name="product name" default="安化黑茶"}.
+
+Canvas: Wide 16:9 landscape poster, approximately 1200×675 px. Use a split panoramic layout with a strong horizontal divider: the upper half is an active tea harvest scene, the lower half is a misty tea mountain brand-information panel.
+
+Visual style: Hyper-realistic editorial photography, moody overcast light, cool green and blue-gray color grading, low mountain fog, deep contrast, premium government/enterprise agricultural publicity aesthetic. Use terraced tea fields across rolling hills, soft mist drifting between mountains, distant winding paths, and wet dark-green tea leaves. Typography should be elegant, high-end, and minimal, with large white Chinese calligraphy-style serif characters and small refined Latin letters.
+
+Upper scene: Show exactly 8 tea workers harvesting on terraced tea bushes. List them clearly in the composition: 1 large foreground woman at far left wearing a purple top, dark patterned headscarf, and a large woven bamboo basket on her back; 2 small worker near upper left-center with blue head covering and basket; 3 small worker in red clothing farther back; 4 small worker in purple farther back; 5 central foreground woman in blue plaid shirt and patterned headscarf picking tea with a bamboo basket at her side; 6 small worker right of center with headscarf and basket; 7 woman in maroon top picking tea on the right slope; 8 far-right worker near two large round bamboo trays filled with fresh tea leaves. Keep all workers natural and documentary-like, not posed.
+
+Main title area: Across the center, overlay the huge white Chinese headline {argument name="main Chinese title" default="安化黑茶"}. Beneath it, centered in spaced small caps, add the English subtitle {argument name="English subtitle" default="ANHUA DARK TEA"}. The title should partially cover the tea fields and slightly overlap the horizontal split, with subtle shadow for readability.
+
+Lower scene: A panoramic misty valley and tea terraces continue in the background. In the lower middle-right foreground, show exactly 4 older female tea farmers sitting or crouching together among tea bushes, wearing dark blue and purple rural clothing and patterned headscarves, sorting or examining fresh tea leaves; place a large woven basket behind them on the right. The mood should be warm, authentic, and communal.
+
+Side labels and icons: On the far left vertical margin, add a small hollow circle, vertical Chinese text {argument name="left vertical label" default="中国黑茶之乡"}, and a tiny leaf icon below it. On the far right vertical margin, add a small hollow circle, vertical Chinese text {argument name="right vertical label" default="安化山地茶园"}, and a tiny mountain-line icon below it.
+
+Central vertical microtext: Under the English subtitle near the middle, add four slim vertical Chinese text columns reading: “陈香木香 · 时间沉淀”, “安化核心产区”, “后发酵 · 黑茶”, and “山地茶园”. Keep these small, black or dark gray, and refined.
+
+Bottom information band: Along the bottom, add three compact blocks of white Chinese product information separated by thin vertical divider lines. Left block: “产区｜湖南安化”, “采摘季｜春末至初夏”, “海拔｜山地丘陵”. Middle block: “茶类｜黑茶”, “工艺｜杀青 · 揉捻 · 渥堆 · 干燥”, “风味｜陈香 木香 甘润”. Right block: “冲泡｜95-100℃”, “建议｜耐泡可煮”, “关键词｜时间与醇化”. Use small Song/Ming-style Chinese type, generous letter spacing, and balanced alignment.
+
+Constraints: Use exactly 12 visible people total: 8 in the upper harvest panorama and 4 in the lower group scene. Use exactly 3 bottom information blocks, exactly 2 vertical side labels, and exactly 4 central vertical microtext columns. Do not add logos, QR codes, price tags, packaging mockups, or extra text. Keep the poster realistic, misty, premium, and rooted in Chinese tea mountain culture.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077586321758167417) | 2026-07-16
+
+---
+
+### 🎴 例 4305：Royal Enfield 探险系列宣传海报
+
+![Royal Enfield 探险系列宣传海报](../images/Royal%20Enfield%20%E6%8E%A2%E9%99%A9%E7%B3%BB%E5%88%97%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为摩托车原型，将其转化为 {argument name="motorcycle model" default="Royal Enfield Bear 650"} 的 Royal Enfield 全球高端宣传海报。保持摩托车的品牌识别度、配色、比例、轮毂、油箱图案、攀爬者（scrambler）姿态及机械细节，但将背景从白色摄影棚替换为崎岖的高海拔探险场景。
+
+创意指导：担任 Royal Enfield 全球创意总监。使画面呈现出 Royal Enfield 全球设计团队与 Sid Lee、AKQA、Wieden+Kennedy、Pentagram、National Geographic Adventure、Fuel Motorcycles、The Ride Magazine 以及 Apple Marketing 联手打造的质感。最终效果应具备电影感、杂志大片感、真实感、触感及高端感——这是一张高端探险海报，而非产品目录抠图。
+
+场景转换：将摩托车置于黄金时刻喜马拉雅山麓的岩石土坡上，以自然的四分之三视角作为主角。添加干草、碎石、尘土飞扬的地貌、远处层叠的山峦、蜿蜒在山腰的道路、温暖的薄雾以及逼真的低角度逆光。运用摄影级写实风格，强调丰富的对比度、温暖的泥土色调，以及金属、橡胶、皮革和尘土的细腻质感。摩托车应处于自信的停放状态，而非竞速、漂移或行驶中。
+
+海报排版：采用竖版宣传海报构图。将摩托车置于画面右下方作为主角，左上方留出开阔的氛围空间用于排版。在左上角添加 Royal Enfield 标志。在左侧添加醒目的大号标题 {argument name="headline text" default="IN GUT\nWE TRUST."}。下方添加一段等宽字体的短小宣传文案 {argument name="body copy" default="NOT EVERY PATH IS MARKED.\nNOT EVERY ROAD IS BUILT.\nSOME ARE FOUND.\nSOME ARE EARNED.\nALL ARE YOURS."} 以及一行较小的标语 {argument name="tagline" default="RIDE BEYOND ROADS."}。
+
+图形叠加：添加微妙的探险地图 UI 细节，包括左侧边缘的精细垂直测量刻度、左下角淡淡的等高线，以及右上角的小型导航/坐标组。右上角坐标组应包含坐标、“HIMALAYAN FOOTHILLS”（喜马拉雅山麓）、海拔“ALT. 2,743 M”以及一个标有“315° NW”的圆形指南针图形。所有叠加元素应保持低调、专业且具有印刷出版物的质感，而非未来主义风格。
+
+底部信息栏：在底部添加 4 个规格说明块，由细垂直分隔线隔开：1) “648cc” 与 “PARALLEL TWIN”（并列双缸），2) “47 PS” 与 “MAX POWER”（最大功率），3) “SCRAMBLER” 与 “DNA”，以及 4) “RIDE BEYOND” 与 “ROADS”。在左下角添加页脚小字 “BUILT IN INDIA.\nRIDDEN AROUND THE WORLD.”，右下角添加行动号召语 {argument name="call to action" default="EXPLORE MORE →"}。
+
+限制条件：禁止竞速姿态、禁止赛道环境、禁止霓虹灯光、禁止未来城市、禁止过度的泥浆飞溅、禁止漂移、禁止烧胎、禁止虚假的动态模糊、禁止除标题外过多的杂乱元素、禁止 AI 伪影、禁止塑料质感、禁止不真实的反射、禁止杂乱的排版、禁止添加额外标志，以及禁止出现其他摩托车。保持高端印刷广告品质、逼真的光影、简洁的排版以及纯正的 Royal Enfield 探险风格。
+
+[English]
+Using the provided reference image as the exact motorcycle base, transform it into a premium Royal Enfield global campaign poster for {argument name="motorcycle model" default="Royal Enfield Bear 650"}. Keep the bike’s identity, colorway, proportions, wheels, tank graphics, scrambler stance, and mechanical details recognizable, but place it in a rugged high-altitude adventure setting instead of the white studio background.
+
+Creative direction: Act as the Global Creative Director for Royal Enfield. Make the image feel like a collaboration between Royal Enfield Global Design, Sid Lee, AKQA, Wieden+Kennedy, Pentagram, National Geographic Adventure, Fuel Motorcycles, The Ride Magazine, and Apple Marketing. The result should feel cinematic, editorial, authentic, tactile, and premium — a high-end adventure campaign, not a product catalog cutout.
+
+Scene transformation: Reposition the motorcycle in a natural three-quarter hero angle on a rocky dirt overlook in the Himalayan foothills at golden hour. Add dry grass, stones, dusty terrain, distant layered mountains, a winding road across the hillside, warm haze, and realistic low sun backlighting. Use photographic realism with rich contrast, warm earth tones, detailed metal, rubber, leather, and dust textures. The bike should be parked confidently, not racing, drifting, or in motion.
+
+Poster layout: Create a vertical campaign poster composition. Place the motorcycle in the lower center-right as the hero subject, with open atmospheric space in the upper left for typography. Add the Royal Enfield logo at the top left. Add a bold oversized headline on the left reading {argument name="headline text" default="IN GUT\nWE TRUST."}. Beneath it, add a short monospaced campaign copy block reading {argument name="body copy" default="NOT EVERY PATH IS MARKED.\nNOT EVERY ROAD IS BUILT.\nSOME ARE FOUND.\nSOME ARE EARNED.\nALL ARE YOURS."} and a smaller line reading {argument name="tagline" default="RIDE BEYOND ROADS."}.
+
+Graphic overlays: Add subtle adventure-map UI details, including a fine vertical measuring scale along the left edge, faint topographic contour lines in the lower left, and a small navigation/coordinate cluster in the upper right. The upper-right cluster should include coordinates, the label “HIMALAYAN FOOTHILLS,” altitude “ALT. 2,743 M,” and a circular compass graphic marked “315° NW.” Keep all overlays understated, technical, and printed-editorial, not futuristic.
+
+Bottom information strip: Add exactly 4 specification blocks along the bottom, separated by thin vertical dividers: 1) “648cc” with “PARALLEL TWIN,” 2) “47 PS” with “MAX POWER,” 3) “SCRAMBLER” with “DNA,” and 4) “RIDE BEYOND” with “ROADS.” Add small footer text at bottom left reading “BUILT IN INDIA.\nRIDDEN AROUND THE WORLD.” and a bottom-right call to action reading {argument name="call to action" default="EXPLORE MORE →"}.
+
+Constraints: No racing posture, no track environment, no neon lighting, no futuristic city, no excessive mud splash, no drifting, no burnout, no fake motion blur, no oversized clutter beyond the intended headline, no AI artifacts, no plastic textures, no unrealistic reflections, no messy layout, no extra logos, and no additional motorcycles. Maintain premium print-ad quality, realistic lighting, clean typography, and authentic Royal Enfield adventure character.
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2077581906728948185) | 2026-07-16
+
+---
+

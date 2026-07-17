@@ -5316,3 +5316,135 @@ Create a cinematic ultra-detailed fantasy diorama in a horizontal 16:9 frame: a 
 
 ---
 
+### 🧸 例 4239：微缩人类家居生存拼贴画
+
+![微缩人类家居生存拼贴画](../images/%E5%BE%AE%E7%BC%A9%E4%BA%BA%E7%B1%BB%E5%AE%B6%E5%B1%85%E7%94%9F%E5%AD%98%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级微距微缩摄影，一个 {argument name="layout" default="6 宫格垂直拼贴（2×3 网格）"}，每个面板中均包含相同的 {argument name="character" default="微型风格化小人"}。他只有手指大小，头部略大，表情夸张生动，留着深色短发和修剪整齐的胡须，穿着 {argument name="clothing" default="色彩鲜艳的夏威夷衬衫、黄色短裤、红色运动鞋"}。每个面板讲述一个不同的趣味生存故事，普通的家居用品变成了巨大的致命障碍。超写实纹理，浅景深，戏剧性电影光效，暖色调，超精细皮肤和织物细节，真实比例，DSLR 微距镜头，85mm 微距摄影，f/2.8，体积光，HDR，8K，照片级真实感，皮克斯级别的面部表情但具有真实的皮肤纹理，所有面板中角色设计保持一致。场景 1 – 巨型冰咖啡：小人绝望地抓着布满水珠的巨大冰咖啡杯湿滑边缘，巨大的冰块在他身边漂浮，超大的绿色吸管高耸入云。他惊恐的表情暗示他即将掉进饮料里。场景 2 – 牙膏灾难：在浴室里，小人努力握着一把巨大的木制牙刷当作长矛，而巨大的牙膏管正像缓慢的雪崩一样向他挤出海量牙膏。场景 3 – 遥控器悬挂：小人绝望地悬挂在沙发上方悬空的巨大电视遥控器边缘。他的双腿在空中摆动，背景中模糊的电视机发出光亮，旁边放着一碗爆米花。场景 4 – 时间之战：小人用双手抵住巨大复古闹钟的分针，用尽全力推着，仿佛试图阻止时间流逝。他的脸上写满了惊恐与决心。场景 5 – 汉堡大战：站在巨大的多汁芝士汉堡旁，小人握着一把几乎和他身高相当的厨房刀，带着夸张的英雄表情准备攻击巨型汉堡。巨大的面包屑散落在木桌上。场景 6 – 洗衣机洪水：小人骑着一只黄色小橡皮鸭，穿过从打开的巨大洗衣机门中涌出的汹涌肥皂水。他惊恐地向观众伸出一只手，周围溅起戏剧性的白色泡沫。负面提示词：低质量，模糊，卡通，动漫，CGI，重复角色，面部不一致，畸形解剖，多余肢体，手部缺陷，眼睛缺陷，水印，Logo，文字，色彩过饱和，平淡光效，物理效果不真实，构图裁剪，细节缺失，噪点，伪影。
+
+[English]
+Ultra-realistic cinematic macro miniature photography, a {argument name="layout" default="6-panel vertical collage (2×3 grid)"} featuring the same {argument name="character" default="tiny stylized man"} in every panel. He is finger-sized, with a slightly oversized head, expressive exaggerated facial expressions, short dark hair, trimmed beard, {argument name="clothing" default="colorful Hawaiian shirt, yellow shorts, red sneakers"}. Every panel tells a different humorous survival story where ordinary household objects become enormous life-threatening obstacles. Hyper-realistic textures, shallow depth of field, dramatic cinematic lighting, warm color grading, ultra-detailed skin and fabric, realistic proportions, DSLR macro lens, 85mm macro photography, f/2.8, volumetric lighting, HDR, 8K, photorealistic, Pixar-level facial expression but realistic human textures, consistent character design across all panels. Scene 1 – Giant Iced Coffee: The tiny man desperately clings to the slippery rim of a gigantic iced coffee mug covered with water droplets while huge ice cubes float beside him and an oversized green straw towers above. His terrified expression suggests he's about to fall into the drink. Scene 2 – Toothpaste Disaster: Inside a bathroom, the tiny man struggles to hold an enormous wooden toothbrush like a spear while a giant toothpaste tube squeezes out a massive wave of toothpaste toward him like a slow avalanche. Scene 3 – Remote Control Hanging: The tiny man hangs desperately from the edge of a gigantic TV remote control suspended above a sofa. His legs swing in the air while a blurred television glows in the background and a bowl of popcorn sits nearby. Scene 4 – Fighting Time: The tiny man braces himself with both hands against the minute hand of a gigantic vintage alarm clock, pushing with all his strength as if trying to stop time. His face shows panic and determination. Scene 5 – Burger Battle: Standing beside an enormous juicy cheeseburger, the tiny man grips a kitchen knife almost his own height, preparing to attack the giant burger with an exaggerated heroic expression. Giant crumbs scatter across the wooden table. Scene 6 – Washing Machine Flood: The tiny man rides a small yellow rubber duck through raging soapy water pouring from the open door of a massive washing machine. He reaches one hand toward the viewer in terror while white foam splashes dramatically around him. Negative Prompt: low quality, blurry, cartoon, anime, CGI, duplicate character, inconsistent face, deformed anatomy, extra limbs, bad hands, bad eyes, watermark, logo, text, oversaturated colors, flat lighting, unrealistic physics, cropped composition, low detail, noise, artifacts.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2077770705706574271) | 2026-07-16
+
+---
+
+### 🧸 例 4251：3D 卡通角色表情网格
+
+![3D 卡通角色表情网格](../images/3D%20%E5%8D%A1%E9%80%9A%E8%A7%92%E8%89%B2%E8%A1%A8%E6%83%85%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+3D {argument name="character type" default="卡通头像角色"} 展示不同情绪的 3x3 网格排列，同一 {argument name="gender" default="男性/女性"} 角色，{argument name="animation style" default="皮克斯风格"} 动画，每个方格展示不同的表情（开心、震惊、愤怒、抱着小狗的关怀、自信、点赞、悲伤、思考、专业），每个面板采用彩色渐变背景，柔和的摄影棚灯光，平滑的 3D 渲染，富有表现力的眼睛和面部表情，现代 emoji 风格角色设计，构图简洁，超精细，色彩鲜艳，8K 分辨率。
+
+[English]
+3D {argument name="character type" default="cartoon avatar character"} showing different emotions arranged in a 3x3 grid, same {argument name="gender" default="male/female"} character, {argument name="animation style" default="Pixar-style"} animation, each square showing a different expression (happy, shocked, angry, caring with a puppy, confident, thumbs up, sad, thinking, professional), colorful gradient backgrounds for each panel, soft studio lighting, smooth 3D rendering, expressive eyes and facial expressions, modern emoji-style character design, clean composition, ultra-detailed, vibrant colors, 8K.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2077741496082616619) | 2026-07-16
+
+---
+
+### 🧸 例 4257：柴犬日式宅邸微缩模型
+
+![柴犬日式宅邸微缩模型](../images/%E6%9F%B4%E7%8A%AC%E6%97%A5%E5%BC%8F%E5%AE%85%E9%82%B8%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个超精细的传统日式木质宅邸微缩模型，将其设计为奢华的柴犬庄园，以正面视角呈现于纯净白色背景上的宽幅产品摄影构图。
+
+画布：宽幅横向图像，比例约为 16:9，主体居中，完整展示模型底座，无边缘裁剪。采用清晰的影棚布光、写实的微缩工艺、高分辨率细节、浅而清晰的景深，以及干净的独立白色背景。
+
+主体：一座多层传统日式旅馆风格建筑，由暖色雪松木制成，配有障子门、发光的室内窗户、雕花梁柱、栏杆、带有精美脊瓦的灰色陶瓷瓦屋顶，以及多个相连的阳台和侧屋。建筑应呈现出手工制作的建筑模型质感，将写实风格与奇幻的狗狗主题魅力相结合。
+
+布局：将大型宅邸放置在模型的后方和中部，最高的中央屋顶位于顶部中心附近。在左右两侧添加较小的附属建筑。在前景处，打造一个日式景观庭院，包含池塘、拱形木桥、踏脚石小径、石灯笼、红色鸟居、竹篱笆、圆石、修剪整齐的盆景灌木、苔藓和一个小石盆。在最左侧添加一棵盛开的樱花树，淡粉色的花朵延伸至屋顶上方。
+
+狗狗：包含 12 只柴犬，均为黄白相间，卷尾，表情机灵可爱。分布如下：3 只柴犬从上方中央的大窗户/阳台向外看，1 只柴犬站在左上方露台，1 只柴犬从右上方塔楼阳台向外看，1 只柴犬在左下方的阳台房间内，1 只柴犬出现在中央下方的阳台/窗户处，1 只柴犬从右下方的小屋窗户向外看，3 只柴犬在前景的拱形木桥上行走或站立，1 只大型柴犬坐在右前方红色鸟居旁。
+
+庭院细节：池塘应位于左下方和中心前景，水面深邃且具有反射感，散落着粉色花瓣，点缀着光滑的石头，并有 6 条清晰可见的橙色、白色和黑色锦鲤。桥梁从左中部跨越池塘通向中间。在椭圆形展示底座周围布置精心排列的微缩岩石、苔藓岛、低矮灌木和竹篱笆。
+
+文字内容：在右前方坐着的柴犬旁放置一个小型垂直木牌，上面刻有日文 {argument name="estate sign text" default="柴苑"}。文字应为深色且清晰易读，刻在或画在木牌上。
+
+风格：超写实高端收藏级微缩模型，极其精细的日式建筑，温暖的天然木色调，柔和的金色窗光，逼真的狗毛质感，精致的樱花，博物馆级微缩模型，干净的商业产品摄影，无人物，无水印，无额外文字。
+
+可自定义细节：将庄园设置为 {argument name="building type" default="传统日式柴犬宅邸"}；使用 {argument name="dog breed" default="柴犬"}；将季节设置为 {argument name="season" default="春季樱花季"}；使用 {argument name="background" default="纯白影棚背景"}。
+
+[English]
+Goal: Create an ultra-detailed miniature diorama of a traditional Japanese wooden mansion designed as a luxurious Shiba Inu estate, viewed straight-on in a wide product-photography composition on a clean white background.
+
+Canvas: Wide horizontal image, about 16:9, centered object with the full diorama base visible, no cropped edges. Use crisp studio lighting, photorealistic miniature craftsmanship, high-resolution details, shallow but readable depth, and a clean isolated white backdrop.
+
+Main subject: A multi-level traditional Japanese ryokan-style house made of warm cedar wood, shoji screens, glowing interior windows, carved beams, railings, gray ceramic kawara tile roofs with ornate ridge caps, and several connected balconies and annexes. The house should feel like a handcrafted architectural model, combining realism with whimsical dog-themed charm.
+
+Layout: Place the large mansion across the back and middle of the diorama, with the tallest central roof near the top center. Add smaller attached buildings on the left and right. In the foreground, create a landscaped Japanese garden with a pond, arched wooden bridge, stepping-stone path, stone lantern, red torii gate, bamboo fencing, rounded rocks, trimmed bonsai shrubs, moss, and a small stone basin. Add a blooming cherry blossom tree on the far left with pale pink flowers extending above the roofline.
+
+Dogs: Include exactly 12 Shiba Inu dogs, all tan-and-cream with curled tails and cute alert expressions. Distribute them as follows: 3 Shibas looking out from the large upper-center window/balcony, 1 Shiba standing on the upper-left terrace, 1 Shiba looking out from the upper-right tower balcony, 1 Shiba in a lower-left balcony room, 1 Shiba visible at the central lower balcony/window, 1 Shiba looking out from the lower-right small house window, 3 Shibas walking or standing on the arched wooden bridge in the foreground, and 1 large seated Shiba beside the red torii gate at the front right.
+
+Garden details: The pond should sit in the lower-left and center foreground, with dark reflective water, scattered pink petals, smooth stones, and exactly 6 visible koi fish in orange, white, and black. The bridge crosses the pond from left-center toward the middle. Add carefully arranged miniature rocks, mossy islands, low shrubs, and bamboo fences around the oval display base.
+
+Text content: Place one small vertical wooden sign near the seated Shiba at front right with the Japanese text {argument name="estate sign text" default="柴苑"}. Keep the text dark and legible, carved or painted on the sign.
+
+Style: Photorealistic premium collectible diorama, extremely detailed Japanese architecture, warm natural wood tones, soft golden window glow, realistic dog fur, delicate cherry blossoms, museum-quality miniature model, clean commercial product shot, no people, no watermark, no extra text.
+
+Customizable details: Make the estate a {argument name="building type" default="traditional Japanese Shiba Inu mansion"}; use {argument name="dog breed" default="Shiba Inu"} dogs; set the season to {argument name="season" default="spring cherry blossom season"}; use a {argument name="background" default="pure white studio background"}.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077719788504436966) | 2026-07-16
+
+---
+
+### 🧸 例 4306：可爱的黑色玩具贵宾犬拼贴画
+
+![可爱的黑色玩具贵宾犬拼贴画](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%E9%BB%91%E8%89%B2%E7%8E%A9%E5%85%B7%E8%B4%B5%E5%AE%BE%E7%8A%AC%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张可爱的剪贴簿风格照片拼贴画，介绍一只名叫 {argument name="dog name" default="ぐり"} 的小型黑色玩具贵宾犬幼犬，配有俏皮的手写日文注释和爱心/爪印涂鸦。
+
+画布：横向 3:2 图像，温暖的室内光线，温馨的宠物房背景，配有米色羊毛垫，背景可见黑色金属笼栏。使用写实的智能手机风格幼犬照片组合成整洁的拼贴画，面板之间带有细白色分隔线。
+
+布局：使用 5 个照片面板。面板 1 是左上角的一张大特写，展示黑色幼犬咬着人类手指，露出明亮的大眼睛、蓬松卷曲的黑色皮毛、长长的垂耳和细小的口吻。面板 2 是右上角的一张动作抓拍，幼犬在米色宠物床上跳跃或蹦跳，耳朵向外飞扬，嘴巴微张。面板 3 是左下角的一张全身照，幼犬站在柔软的米色毯子上，面向前方。面板 4 是底部中央的一张特写，幼犬轻轻啃咬着手，歪着头，蓬松的耳朵环绕着脸部。面板 5 是右下角的一张大动作抓拍，幼犬在床上奔跑或跳跃，一只前爪向前伸展，耳朵飞扬，兴奋地张着嘴。
+
+中央文本块：在上方中心重叠区域附近放置一个黑色云朵形状的标签。在其上方用白色小号手写字体写上「なまえは」，然后用白色大号字体写上「ぐり」，名字旁边配有一个白色爪印图标。在名字区域下方，添加 4 个带爱心符号的白色手写要点： 「足がちょっと短い」、「すっごい暴れる」、「コヤの中が大すき♡」、「とにかく、かわいい。」
+
+手写注释：添加 10 个带有黑色阴影/轮廓及小箭头或涂鸦的俏皮白色手写日文标注：1) 在左上角幼犬耳朵附近，标注「耳がちょっと上にある」并用箭头指向耳朵；2) 在顶部中心蓬松的头部/耳朵区域附近，标注「耳がでかい!! 毛がすっごく長いの♡」；3) 在左上角面板的咬手指处附近，标注「指を噛んでくる!!」并配有箭头；4) 在左下角站立的幼犬附近，标注「あそぼ!!」；5) 在底部中央咬手的幼犬附近，标注「がぶっ♡」；6) 在右上角跳跃的幼犬附近，添加一个小烟雾涂鸦；7) 在右上角/右下角区域附近，添加一个简单的动态涂鸦；8) 在拼贴画右侧附近，标注「コヤの中ですっごい暴れる!!」；9) 在右下角动作面板顶部附近，标注「うぉぉぉー!!」；10) 在右下角奔跑的幼犬附近，添加一个小动态划痕涂鸦。
+
+主体细节：这只幼犬是一只非常小的黑色玩具贵宾犬，拥有极其蓬松的卷毛、超大的垂耳、闪亮圆润的黑眼睛、短口吻、细短的腿，以及充满活力和淘气的个性。保持狗狗可爱、活泼且略带混乱的状态。
+
+视觉风格：写实的宠物摄影拼贴画，带有可爱的社交媒体注释风格，白色手绘字体、黑色投影、小爱心、箭头、爪印和动态涂鸦。整体氛围温馨、有趣且舒适。
+
+约束条件：使用 5 个照片面板和列出的所有文本元素。不要添加额外的狗、额外的面板、标志、水印或不相关的文本。保持日文文本清晰且呈现手写感。
+
+[English]
+Goal: Create a cute scrapbook-style photo collage introducing a tiny black toy poodle puppy named {argument name="dog name" default="ぐり"}, with playful handwritten Japanese annotations and heart/paw doodles.
+
+Canvas: Landscape 3:2 image, warm indoor lighting, cozy pet-room setting with beige fleece bedding and black metal crate bars in the background. Use realistic smartphone-style puppy photos combined into a clean collage, with thin white dividers between panels.
+
+Layout: Use exactly 5 photo panels. Panel 1 is a large top-left close-up of the black puppy biting a human finger, showing huge glossy eyes, fluffy curly black fur, long floppy ears, and a tiny muzzle. Panel 2 is a top-right action shot of the puppy jumping or bouncing on a beige pet bed with ears flying outward and mouth open. Panel 3 is a bottom-left full-body shot of the puppy standing on a soft beige blanket, facing forward. Panel 4 is a bottom-center close-up of the puppy gently mouthing a hand, tilted head, fluffy ears framing the face. Panel 5 is a large bottom-right action shot of the puppy running or leaping across the bed with one front paw stretched forward, ears flying, mouth open excitedly.
+
+Central text block: Place a black cloud-shaped label near the upper center overlap area. In small handwritten white text above it write 「なまえは」, then large white text 「ぐり」 with a white paw-print icon beside the name. Below the name area, add exactly 4 white handwritten bullet points with heart bullets: 「足がちょっと短い」, 「すっごい暴れる」, 「コヤの中が大すき♡」, 「とにかく、かわいい。」
+
+Handwritten annotations: Add exactly 10 playful white handwritten Japanese callouts with black shadow/outline and small arrows or doodles: 1) near the top-left puppy ear, 「耳がちょっと上にある」 with an arrow pointing to the ear; 2) near the top center over the fluffy head/ear area, 「耳がでかい!! 毛がすっごく長いの♡」; 3) near the biting finger in the top-left panel, 「指を噛んでくる!!」 with an arrow; 4) near the bottom-left standing puppy, 「あそぼ!!」; 5) near the bottom-center hand-biting puppy, 「がぶっ♡」; 6) near the top-right jumping puppy, a small puff doodle; 7) near the top-right/bottom-right area, a simple motion doodle; 8) near the right side of the collage, 「コヤの中ですっごい暴れる!!」; 9) near the top of the bottom-right action panel, 「うぉぉぉー!!」; 10) near the bottom-right running puppy, a small motion-swoosh doodle.
+
+Subject details: The puppy is a very small black toy poodle with extremely fluffy curly fur, oversized floppy ears, shiny round black eyes, a short muzzle, tiny legs, and an energetic mischievous personality. Keep the dog adorable, lively, and slightly chaotic.
+
+Visual style: Realistic pet photography collage with cute social-media annotation style, white hand-drawn lettering, black drop shadows, little hearts, arrows, paw print, and motion doodles. The overall mood is affectionate, funny, and cozy.
+
+Constraints: Use exactly 5 photo panels and exactly the listed text elements. Do not add extra dogs, extra panels, logos, watermarks, or unrelated text. Keep the Japanese text legible and handwritten.
+```
+
+**来源：** [@がちもとさん](https://x.com/sotongshi/status/2077577211058782452) | 2026-07-16
+
+---
+

@@ -2360,3 +2360,252 @@ Create a highly realistic smartphone selfie photo of a natural bare-faced young 
 
 ---
 
+### 🏛️ 例 4225：夏日海滨跳跃肖像
+
+![夏日海滨跳跃肖像](../images/%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A8%E8%B7%B3%E8%B7%83%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+潮風を蹴る瞬間
+
+主体：
+{argument name="主体" default="真夏の海沿いの町で、成人女性が画面右下にある低いコンクリート台から、左側の平坦な舗装路へ飛び降りる瞬間"}。人物は画面中央やや左に大きく配置し、全身が縦長画面の約75％を占める。両足は地面から離れ、着地直前の自然な空中姿勢。
+
+人物・表情：
+大人っぽく整った体つきの女性。健康的で現実感のあるプロポーション、長いダークブラウンの髪。強い海風で髪が顔の前から画面左上へ大きく流れる。顔はやや左上を向き、目を細めながら開放的に笑う。自然な薄化粧、頬に夏の日差しが当たり、明るく活動的な印象。
+
+服装・ポーズ：
+{argument name="服装" default="白い細いストラップのVネックキャミソール"}。身体にほどよく沿うリブ素材で、前中心に小さなボタンを並べる。淡い水色と白のチェック柄ミニプリーツスカート、白いミドル丈ソックス、白いキャンバススニーカー。スカート全体が右後方から左前方へ吹く強い風を受け、腰周りから裾まで連続した大きな弧を描いて軽やかに広がる。布の重なりとプリーツが重力に沿って自然に垂れ、複数の小さな波ではなく、一枚の布として滑らかに翻る。右腕を画面右へ伸ばし、左腕は身体の横で緩く下げる。膝を軽く曲げ、両足を少し前後にずらして着地に備える。
+
+背景・光：
+{argument name="背景" default="画面左に青い海と低い波、遠景に緑の山並み"}。画面右奥には斜面に並ぶ日本の海辺の住宅、電柱、電線、黄色と黒の踏切設備。右下の低いコンクリート台は形状と位置を明確に見せ、その左側は段差や崖のない広い平坦な舗装路。鮮やかな青空に立体的な白い積雲。昼の強い自然光が画面左上から差し、顔、肩、脚の左側を明るく照らす。人物と台の影は舗装路の右下方向へ落ちる。
+
+構図・カメラ：
+縦位置3:4。地面近くから見上げる大胆なローアングルの全身写真。広角寄りだが身体の歪みは控えめ。人物の頭上には十分な青空の余白を残し、右下の台、左下の平地、左奥の海が一続きの空間として理解できる構図。高速シャッターで人物の輪郭を止めつつ、髪先とスカートの端にだけ微かな動きを残す。人物にシャープに合焦し、背景は自然な中程度のボケ。
+
+質感・スタイル：
+夏の日差しを感じるリアルな日本のポートレート写真。透明感のある青と白を基調に、肌は自然な質感と控えめな艶。布地のプリーツ、リブ、髪の一本一本、コンクリートの粗い表面を精細に表現。爽やかで高彩度だが、肌色は白飛びさせず、雑誌写真のように清潔で自然な仕上がり。
+
+ネガティブ：
+未成年に見える人物、不自然な体型、不自然なスカート形状、硬い布、花びら状に分裂した裾、重力に反する布、余分な手足、欠けた指、関節の破綻、足の融合、浮遊感、着地点の崖や段差、誤った遠近法、影の方向の矛盾、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077880958557258134) | 2026-07-16
+
+---
+
+### 🏛️ 例 4242：温馨夜晚客厅人像
+
+![温馨夜晚客厅人像](../images/%E6%B8%A9%E9%A6%A8%E5%A4%9C%E6%99%9A%E5%AE%A2%E5%8E%85%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+灯りにほどける夜
+
+主体：
+夜のマンションのリビングで、{argument name="年齢" default="20代"}女性がダークグレーのソファにゆったりともたれている。人物は画面中央から右寄りに大きく入り、上半身から素足までを収める。手前に伸びた脚を大きく見せ、ソファの左下には黒いスマートフォンを置く。
+
+人物・表情：
+自然で親しみのある女性らしい、やや丸みを帯びた卵型の輪郭。小さめの顎、柔らかな頬、控えめな鼻筋。明るいアイボリーベージュの肌に淡いピンクの血色を残し、毛穴や細かな肌理が見える現実的な質感。ローズピンクのチーク、ピンクブラウンのアイメイク、細いまつ毛、自然な涙袋、透け感のあるピンクベージュのリップ。視線は画面左下へ向け、口元にごく小さな微笑みを浮かべる。髪は{argument name="髪色" default="ミルクティーアッシュブラウン"}のミディアムロング。薄いシースルーバングと顔まわりのレイヤー、自然な後れ毛と細かな毛流れを描く。
+
+服装・ポーズ：
+{argument name="衣装" default="白から淡いアイボリーのリブ素材のVネックキャミソール"}。襟ぐりには細いレースを施し、身体に自然に沿う柔らかな生地感. ボトムはライトグレーの短いルームショーツで、ウエスト中央に白いドローストリング。右腕はソファの背もたれに預け、右手で髪に軽く触れる。左手は胸元の横で力を抜き、指を自然に曲げる。左脚は膝を立て、右脚はカメラ側へ伸ばす。衣服の伸び、腰まわりの皺、ソファへ沈む身体の重みを正確に表現する。
+
+背景・光：
+夜の落ち着いた室内。画面左奥の窓には青白い街明かりが大きくぼけて見える。右奥には小さな間接照明と観葉植物、生活感を抑えた棚。主光は画面右上から入る暖色の室内灯で、頬、肩、鎖骨、太ももの上面を柔らかく照らす。画面左側には窓からの弱い青い反射光を加え、暖色と寒色の自然な対比を作る。影はソファの左下へ穏やかに落とす。
+
+構図・カメラ：
+縦長2:3。ソファの座面と人物を近距離から撮影したリラックスポートレート。カメラは腰より少し低い位置から、35mm相当のレンズで撮影。立てた脚を前景に大きく配置し、顔に正確にピントを合わせる。背景は浅い被写界深度で自然にぼかす。頭頂部、手、足先を切らず、右側のクッションと左側の夜景に適度な余白を残す。
+
+質感・スタイル：
+高感度フルサイズカメラで撮影した自然な室内写真。肌の微細な凹凸、産毛、髪の一本一本、リブ生地、レース、ソファ布地の繊維を繊細に描写する。過剰なHDRや美肌補正を避け、わずかな高感度ノイズと穏やかなコントラストを残す。暖かく静かな夜の色調、現実的な写真表現。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077763185893925234) | 2026-07-16
+
+---
+
+### 🏛️ 例 4256：圣托里尼金毛寻回犬庇护所
+
+![圣托里尼金毛寻回犬庇护所](../images/%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC%E5%BA%87%E6%8A%A4%E6%89%80.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超详细的奇幻建筑模型，呈现一个受圣托里尼启发、位于干净白色摄影棚背景下的希腊岛屿狗狗庇护所，采用柔和的自然光和逼真的微缩模型比例。场景是一个紧凑的山坡建筑群，包含平滑的白色洞穴房屋、圆拱、弧形楼梯、露台、阳台以及带有鲜艳钴蓝色门、百叶窗、栏杆、装饰线条和顶部带有小十字架圆顶的小教堂式塔楼。包含 6 只金毛寻回犬：1 只大型快乐的金毛寻回犬坐在主拱门处，蓝色双开门敞开；1 只幼犬坐在左侧一棵大橄榄树下；1 只金毛寻回犬栖息在粗壮的橄榄树枝上；1 只小型寻回犬从中央上层阳台探出头来；1 只寻回犬从右上方的圆形塔楼窗户向外张望；1 只寻回犬坐在右侧楼梯平台上。添加一棵从建筑左侧生长出来的大型古老橄榄树、薰衣草丛、盆栽植物、小灌木、石阶、壁灯、左下方的一个小喷泉、一块带有爪印的小型宠物纪念牌，以及右下方附近的骨头标志和食盆等狗狗主题装饰细节。建筑应呈现出奢华地中海宠物村的感觉，具有干净的灰泥质感、柔和的阴影、圆润的有机形态、层次感，以及既写实又具童话色彩的魅力。使用 {argument name="architecture style" default="受圣托里尼启发的白色希腊岛屿村庄"}，{argument name="main animal" default="金毛寻回犬"}，{argument name="accent color" default="钴蓝色"}，{argument name="setting mood" default="奢华地中海宠物庇护所"}，以及 {argument name="background" default="干净的白色摄影棚背景"}。画面中不要出现人物，不要有可见文字，不要有水印，确保所有狗狗在解剖学上保持逼真且友好。
+
+[English]
+Create a whimsical ultra-detailed architectural diorama of a Greek island dog sanctuary inspired by Santorini, on a clean white studio background with soft natural lighting and realistic miniature-model proportions. The scene is a compact hillside cluster of smooth whitewashed cave houses, rounded arches, curved staircases, terraces, balconies, and small chapel-like towers with vivid cobalt-blue doors, shutters, railings, trim, and domed roofs topped with tiny crosses. Include exactly 6 golden retrievers: 1 large happy golden retriever sitting in the main arched doorway with open blue double doors, 1 puppy sitting at the base of a large olive tree on the left, 1 golden retriever perched on a thick olive tree branch, 1 small retriever peeking over a central upper balcony, 1 retriever looking out from a rounded upper-right tower window, and 1 retriever sitting on the right-side staircase landing. Add a large ancient olive tree growing from the left side of the architecture, lavender bushes, potted plants, small shrubs, stone steps, lantern wall lights, a tiny fountain on the lower left, a small pet memorial plaque with a paw print, and dog-themed decorative details such as a bone sign and bowls near the lower right. The architecture should feel like a luxurious Mediterranean pet village with clean stucco texture, soft shadows, rounded organic forms, layered depth, and photorealistic yet storybook charm. Use {argument name="architecture style" default="Santorini-inspired whitewashed Greek island village"}, {argument name="main animal" default="golden retrievers"}, {argument name="accent color" default="cobalt blue"}, {argument name="setting mood" default="luxurious Mediterranean pet sanctuary"}, and {argument name="background" default="clean white studio background"}. No people, no visible text, no watermark, keep all dogs anatomically realistic and friendly.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077719859799151083) | 2026-07-16
+
+---
+
+### 🏛️ 例 4258：哥特式猫咪城堡
+
+![哥特式猫咪城堡](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E7%8C%AB%E5%92%AA%E5%9F%8E%E5%A0%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白背景上创作一个高度细节化的超写实奇幻建筑场景：一座华丽的法式哥特式城堡，被改造成了一座奢华的猫咪豪宅。这座豪宅呈对称结构，由奶油色石灰岩建成，配有深蓝色板岩孟莎式屋顶、许多陡峭的尖塔、老虎窗、雕花阳台、拱形开口、栏杆、雕塑装饰以及攀爬在部分外墙上的常春藤。前方，一座宏伟的中央楼梯蜿蜒而下，通向修剪整齐的灌木篱墙、瓮式花盆、小型喷泉、石雕、柏树和装饰性矮墙组成的法式花园。左侧，一棵巨大的古老橡树生长在豪宅旁，树干向上扭曲，茂密的绿色树冠填满了左上方。画面中需包含 9 只写实的长毛灰色虎斑猫：3 只在橡树上，其中一只正从树枝跃下，一只栖息在树干上，另一只正翘着尾巴向上攀爬；1 只在树旁的低矮露台上休息；1 只威风凛凛、类似缅因猫的大猫躺在正前方的中央台阶上，作为视觉焦点；1 只出现在左上方塔楼的窗户里；1 只出现在右上方塔楼的窗户里；1 只坐在右侧圆弧形阳台上；还有 1 只从最右侧的拱形窗户中探出头来。采用柔和的日光，呈现清晰的建筑细节、自然的阴影、优雅的童话书写实风格，以及平衡的正面构图，画面中不包含人物、文字或水印。
+
+[English]
+Create a highly detailed photorealistic fantasy architectural scene on a clean white background: an ornate French Gothic château transformed into a luxurious cat mansion. The mansion is symmetrical and cream-colored limestone, with dark blue slate mansard roofs, many steep spires, dormer windows, carved balconies, arched openings, balustrades, sculptural trim, and ivy climbing parts of the facade. In front, a grand central staircase curves down to formal gardens with clipped hedges, urn planters, small fountains, stone statues, cypress trees, and decorative low walls. On the left, a massive ancient oak tree grows beside the mansion, its trunk twisting upward and its dense green canopy filling the upper-left side. Include exactly 9 realistic long-haired gray tabby cats: 3 cats in the oak tree, one leaping from a branch, one perched on the trunk, and one climbing with tail raised; 1 cat resting on the low terrace near the tree; 1 large majestic Maine Coon-like cat lying prominently on the central front steps as the focal point; 1 cat visible in an upper left tower window; 1 cat visible in an upper right tower window; 1 cat sitting on the rounded right-side balcony; and 1 cat peeking from the far-right arched window. Use soft daylight, crisp architectural detail, natural shadows, elegant storybook realism, balanced frontal composition, no people, no text, no watermark.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2077719744032149866) | 2026-07-16
+
+---
+
+### 🏛️ 例 4270：东方禅意极简壁纸
+
+![东方禅意极简壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E6%9E%81%E7%AE%80%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简插画"}
+风格分支：高对比灵动型
+主体内容：{argument name="主体" default="一位蹲在青石边看鲤鱼跃水的人物"}
+情绪母题：灵动、治愈、松弛、夏日感
+场景与意象：亮朱红鲤鱼、深湖蓝池水、玉白留白、青石、少量水花
+构图与空间：中心偏下构图，鲤鱼跃起作为主视觉，人物位于一侧，水面与留白构成明快空间
+色彩控制：{argument name="色彩控制" default="玉白作为背景基底，深湖蓝用于池水层次，亮朱红用于鲤鱼主体和少量反光，墨青用于人物和青石结构"}；避免全图红蓝互相污染
+光线与质感：明亮自然光，水面反光清晰，宣纸肌理，清透颗粒
+画幅比例：9:16 
+补充要求：鲤鱼动作要有张力，但画面整体仍然简洁、轻盈、不拥挤
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2077693224160985549) | 2026-07-16
+
+---
+
+### 🏛️ 例 4272：午后柔光床边肖像
+
+![午后柔光床边肖像](../images/%E5%8D%88%E5%90%8E%E6%9F%94%E5%85%89%E5%BA%8A%E8%BE%B9%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+ほどけた午後
+
+主体：
+縦長4:5構図。柔らかな白い寝具の上に横たわる一人の女性。人物は画面中央に配置され、頭から太もも上部までがフレームに収まる。身体は斜め方向に伸び、上半身が画面中央、脚は画面右下へ向かう構図。白と淡い桜色を基調とした室内空間の中で、穏やかな午後の時間が流れている。
+
+人物・表情：
+長い{argument name="髪色" default="ダークブラウン"}の髪を寝具の上へ自然に広げた女性。透き通るような白い肌と落ち着いた大人の雰囲気を持ち、やわらかな{argument name="瞳の色" default="ブラウン"}の瞳でカメラをまっすぐ見つめている。頬には淡い血色感があり、唇は自然にわずかに開き、静かな余韻を感じさせる表情。前髪は薄く額にかかり、繊細なまつ毛と柔らかなアイメイクが印象的。
+
+服装・ポーズ：
+{argument name="服装" default="白いレース素材のランジェリートップスに、淡いピンクベージュのリボン装飾と花柄の入ったフリルスカート"}を合わせたスタイル。スカートの裾には自然な乱れとシワがあり、長時間くつろいでいたような生活感を演出している。首元には細いリボン状のアクセサリー。両腕を頭の近くへ上げ、指先は軽く力を抜いた自然な状態。脚には白いレース付きのニーハイソックス。
+
+背景・光：
+木枠の障子窓から午後の柔らかな日差しが差し込み、左上から右下へ向かって光が流れている。白いシーツには柔らかな陰影が落ち、画面右上には桜の装飾と和風の照明が配置されている。全体は白、生成り、淡い桜色を中心とした落ち着いた色彩構成。
+
+構図・カメラ：
+やや俯瞰気味の視点によるベッドフォト。35mm前後の自然な画角。人物が画面全体の約7割を占める構図で、頭部周辺と左側に余白を残すことで空間の広がりを表現。背景はわずかにボケを入れ、視線が人物の表情へ集まるように調整。
+
+質感・スタイル：
+リアルな写真表現。繊細な肌の質感、レース生地の細かな模様、シーツのシワや布の柔らかな反射を丁寧に描写。低コントラストでやわらかな発色. 高級ポートレート写真のような自然な空気感と透明感。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077681645206057119) | 2026-07-16
+
+---
+
+### 🏛️ 例 4301：宁静清晨卧室肖像
+
+![宁静清晨卧室肖像](../images/%E5%AE%81%E9%9D%99%E6%B8%85%E6%99%A8%E5%8D%A7%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位留着 {argument name="hair color" default="棕色长卷发"} 的女性，身穿 {argument name="shirt type" default="白色长袖衬衫"}，坐在舒适且凌乱的床上，向着透过薄纱窗帘洒入的晨光伸展双臂。房间呈现出 {argument name="room aesthetic" default="中性简约风格"}，配有簇绒床头板、壁挂式空调和柔和温暖的灯光，捕捉到一种宁静祥和的清晨氛围。
+
+[English]
+A woman with {argument name="hair color" default="long wavy brown hair"}, wearing a {argument name="shirt type" default="white long-sleeved shirt"}, sitting up in a cozy, unmade bed, stretching her arms out towards the morning sunlight streaming through a window with sheer curtains. The room has a {argument name="room aesthetic" default="neutral, minimalist aesthetic"} with a tufted headboard, a wall-mounted air conditioner, and soft, warm lighting, capturing a serene and peaceful morning atmosphere
+```
+
+**来源：** [@Avelyrah](https://x.com/AvelyrahnAI/status/2077593808167178271) | 2026-07-16
+
+---
+
+### 🏛️ 例 4303：黄金时刻汽车大片
+
+![黄金时刻汽车大片](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E6%B1%BD%E8%BD%A6%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实暖色调黄金时刻生活方式大片，人像比例 4:5，从高处俯拍视角，拍摄一辆 {argument name="vehicle type" default="黑色经典双门轿跑车"} 斜停在空旷的城市街道上。汽车从右下角（车头）向左上角（车尾）呈对角线排列。亮黑色车漆，配有镀铬车窗饰条和简洁的车身线条。银色网状/BBS 风格轮毂，带有抛光轮唇。挡风玻璃和侧窗反射出金色建筑立面的强烈暖光，呈现矩形窗户形状。车顶也柔和地反射着光线。
+
+一位 {argument name="subject description" default="年轻女性"} 倚靠在驾驶员一侧的车门区域，臀部靠在车身上，姿态放松。她面向镜头，表情冷静自信，与镜头进行直接的眼神交流。姿势：一只手搭在靠近车窗/车门框的车身上，双腿在脚踝处随意交叉。头发扎成凌乱的马尾/发髻，脸颊周围有几缕碎发。佩戴一条带有小吊坠的细项链。服装：{argument name="outfit details" default="修身海军蓝/深蓝色短袖 T 恤，略微露脐；白色/米色宽松长裤，配有显眼的黑色腰带；黑白配色低帮运动鞋"}。
+
+背景：灰色沥青街道，带有淡淡的白色车道标线和长条状浅色纹理，画面上方有几个圆形井盖，可见细微的道路接缝和补丁，没有其他车辆或行人。光线为温暖的黄金时刻阳光，阴影柔和，具有细腻的胶片感对比度，略带 35mm 胶片质感的柔和度，自然色彩分级，高分辨率。
+
+负面提示词 (NEGATIVE PROMPT)：
+
+低角度，汽车正面特写，不同车身颜色，现代汽车，无镀铬饰条，不同轮毂，拥挤的街道，背景中可见建筑物，人物，重度 HDR，过度锐化，强闪光灯，夜晚，雨天，霓虹灯，卡通，插画，CGI，主体模糊，服装颜色错误，挡风玻璃无反射
+
+[English]
+Ultra-realistic warm golden-hour editorial lifestyle photo, portrait 4:5, shot from a high overhead angle looking down at a {argument name="vehicle type" default="black classic 2-door coupe"} parked diagonally on an empty city street. The car runs diagonally from bottom-right (front) to upper-left (rear). Glossy black paint with chrome window trim and clean body lines. Silver mesh/BBS-style wheels with polished lips. Windshield and side glass show strong warm reflections of a golden building façade with rectangular window shapes. Roof also reflects light softly.
+
+A {argument name="subject description" default="young woman"} stands leaning against the driver-side door area, hips resting on the car, body relaxed. She faces the camera with calm confident expression and direct eye contact. Pose: one hand resting on the car near the window/door frame, legs crossed casually at the ankles. Hair pulled back in a messy ponytail/bun with loose strands around the face. Wearing a thin necklace with a small pendant. Outfit: {argument name="outfit details" default="fitted navy/dark blue short-sleeve t-shirt slightly cropped showing a small strip of midriff; white/cream loose trousers with a visible black belt; black-and-white low-top sneakers"}.
+
+Background: gray asphalt street with faint white lane markings and long pale stripes, several round manhole covers near the top of the frame, subtle road seams and patches, no other cars or pedestrians. Lighting is warm golden-hour sunlight with soft shadows and gentle film-like contrast, slight 35mm film softness, natural color grading, high resolution.
+
+NEGATIVE PROMPT:
+
+low angle, front-facing car close-up, different car color, modern car, no chrome trim, different wheels, crowded street, buildings visible in background, people, heavy HDR, oversharp, harsh flash, night, rain, neon, cartoon, illustration, CGI, blurred subject, wrong outfit colors, no reflections on windshield
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2077589418052141196) | 2026-07-16
+
+---
+
+### 🏛️ 例 4308：明亮高层卧室人像
+
+![明亮高层卧室人像](../images/%E6%98%8E%E4%BA%AE%E9%AB%98%E5%B1%82%E5%8D%A7%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+白を結ぶ朝
+
+主体：
+縦長2:3の全身ポートレート。高層階の明るい寝室で、{argument name="人物" default="若い成人女性"}が床から天井まで続く大きな窓の前に一人で立っている。人物は画面中央やや右に配置し、頭頂から足先まで画面の約8割を占める。左側には白いベッド、細身のフロアランプ、淡いカーテンを入れ、右側と背後には広い都市景観を見せる。
+
+人物・表情：
+自然な卵形の顔立ち、明るく透明感のある肌、繊細な肌理を残した現実的な質感。{argument name="髪型" default="長いダークブラウンの髪"}を胸下まで柔らかく下ろし、薄い前髪と顔まわりのレイヤーを作る。頭をわずかに人物自身の右へ傾け、肩の力を抜き、正面のカメラを静かに見つめる。目元は穏やかで、唇はわずかに開き、控えめなピンクベージュのメイク。
+
+服装・ポーズ：
+上半身は{argument name="服装" default="白い伸縮性のある薄手生地のキャミソール"}。細い肩紐、胸元中央の小さなリボン、身体に沿う軽いギャザーを入れる。ボトムは上衣と同じ白色・同じ柔らかな素材感のサイドリボン付きスイムボトム。装飾を抑えた清潔感のあるデザイン。両腕は体側へ自然に下ろし、指先は軽く曲げる。両脚を肩幅より少し広く開き、人物自身の左脚にやや重心を置き、右膝をわずかに緩める。裸足で木床に立ち、足裏が床へ自然に接地している。
+
+背景・光：
+昼前の晴れた都市。窓の外には白やグレーの高層ビル、遠景の青い霞、薄い雲を含む明るい空。室内は白、アイボリー、淡い木目で統一する。主光は画面右上の窓外から入る柔らかな自然光。顔、鎖骨、肩、腹部、脚の前面に明るいハイライトを作り、人物の影は床の左下へ長く落ちる。白いベッドやカーテンから弱い反射光が回り込み、影部分も潰さない。
+
+構図・カメラ：
+カメラは腰よりやや低い高さからのほぼ平視。35〜50mm相当の自然な遠近感。人物の頭上には少量の空間を残し、足先まで完全に収める。左前景のベッドを斜めに入れて奥行きを作り、窓枠の縦線で人物を囲む。人物の顔と上半身に最も鋭く焦点を合わせ、都市背景は軽くぼかす。
+
+質感・スタイル：
+明るく清潔なファッション写真。過度な美肌補正を避け、肌の微細な凹凸、髪の細い毛束、布地の伸びと皺、木床の反射を丁寧に描写する。白飛びを抑えた高輝度の自然光、低めのコントラスト、淡いブルーとアイボリーを基調にした爽やかな色調。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、左右非対称な脚、リブの破綻、浮いた足、不自然な重力、光源と矛盾する影、誤った遠近法、過度な美肌補正、プラスチックのような肌、文字、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2077566386490978604) | 2026-07-16
+
+---
+

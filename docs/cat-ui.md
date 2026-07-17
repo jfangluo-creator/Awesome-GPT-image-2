@@ -8445,3 +8445,83 @@ Create a soft anime-style birthday illustration of a quiet young girl with {argu
 
 ---
 
+### 🖥️ 例 4235：黄金时刻街头人像
+
+![黄金时刻街头人像](../images/%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+美丽的年轻女性，留着飘逸的长黑发，身穿 {argument name="clothing" default="一件超大款米白色连帽衫"}，站在 {argument name="location" default="安静的城市街道"} 上，正值 {argument name="lighting" default="黄金时刻"}。她闭着双眼，温柔地微笑着，双臂舒展，姿态从容，微风吹拂着她的秀发。温暖的阳光在她的脸庞和发丝周围勾勒出明亮的轮廓光，抓拍生活照，自然的幸福感，温馨的秋日氛围，路面散落着落叶，背景中有小型本地商店和一名骑行者，浅景深，柔和的电影色调，真实的皮肤纹理，高细节，梦幻氛围，超写实人像，街头摄影，85mm 镜头，f/1.8，焦外成像，HDR，8K 画质。
+负面提示词：
+模糊，低分辨率，多余的手指，手部变形，解剖结构错误，肢体重复，高光过曝，色彩过饱和，人造皮肤，浓妆，水印，文字，Logo，面部裁剪，运动模糊，噪点，卡通，CGI，比例不协调
+
+[English]
+Beautiful young woman with long flowing black hair, wearing {argument name="clothing" default="an oversized cream-white hoodie"}, standing on a {argument name="location" default="quiet urban street"} during {argument name="lighting" default="golden hour"}. She smiles softly with eyes closed, arms stretched wide in a carefree pose, wind blowing through her hair. Warm sunlight creates a glowing rim light around her face and hair, candid lifestyle photography, natural happiness, cozy autumn atmosphere, fallen leaves on the road, small local shops and a cyclist in the background, shallow depth of field, soft cinematic colors, realistic skin texture, high detail, dreamy mood, ultra-realistic portrait, street photography, 85mm lens, f/1.8, bokeh, HDR, 8K quality.
+Negative Prompt:
+blurry, low resolution, extra fingers, distorted hands, bad anatomy, duplicate limbs, overexposed highlights, oversaturated colors, artificial skin, heavy makeup, watermark, text, logo, cropped face, motion blur, noise, cartoon, CGI, unrealistic proportions
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2077787710371058006) | 2026-07-16
+
+---
+
+### 🖥️ 例 4244：职业办公装肖像
+
+![职业办公装肖像](../images/%E8%81%8C%E4%B8%9A%E5%8A%9E%E5%85%AC%E8%A3%85%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+她穿着一件 {argument name="shirt color" default="挺括的白色"} 长袖衬衫，领口挺括，整体风格时尚，适合办公穿着。衬衫最上面的扣子解开，露出里面 {argument name="inner wear color" default="酒红色"} 的蕾丝吊带。她身材比例匀称。一条黑色领带 {argument name="tie pattern" default="带有均匀分布的白色波点"} 松散地挂在脖子上，垂在衬衫前襟。她手腕上戴着一块银色腕表，精致的耳环捕捉并反射着环境光。服装质感极其逼真，包括衬衫平滑的棉质面料、精细的蕾丝细节以及带有图案的领带。
+
+[English]
+She wears a {argument name="shirt color" default="crisp white"} long-sleeve button shirt with a structured collar, stylish overall and suitable for office wear. The top buttons of the shirt are undone, revealing a {argument name="inner wear color" default="burgundy"} lace camisole underneath. She has a well-proportioned figure. A black tie {argument name="tie pattern" default="dotted with evenly spaced white polka dots"} hangs loosely around her neck and drapes down the front of her shirt. She sports a silver wristwatch on her wrist and delicate earrings that catch and reflect the ambient light. The textures of the clothing are extremely realistic, including the smooth cotton fabric of the shirt, intricate lace details and the patterned tie
+```
+
+**来源：** [@sada](https://x.com/sada_ai/status/2077759930862539227) | 2026-07-16
+
+---
+
+### 🖥️ 例 4263：奢华兔耳套装时尚
+
+![奢华兔耳套装时尚](../images/%E5%A5%A2%E5%8D%8E%E5%85%94%E8%80%B3%E5%A5%97%E8%A3%85%E6%97%B6%E5%B0%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+黑色定制西装外套，修身剪裁，前短后长，长款燕尾开叉，加长尖领，亮面黑色皮革拼接，精致象牙白蕾丝内衬，半透明象牙白蕾丝衬衫，部分敞胸设计，黑色皮革马甲，一体式皮革背带，高腰修身定制长裤，不对称层叠燕尾，缎面滚边，绗缝皮革细节，银色花丝刺绣，月亮图案刺绣，三叶草图案刺绣，水晶纽扣，华丽银扣，{argument name="headpiece" default="奢华黑色皮革兔耳头饰，配象牙白蕾丝内衬"}，黑色皮革颈圈配蕾丝饰边，银色链条耳饰，层叠银色腰链，复古怀表链，兔形徽章胸针，蕾丝领饰，蕾丝袖口，手指佩戴多枚银戒指，(双手佩戴黑色皮手套:1.4)，(全身照:1.3)，站姿，身体侧向约 30 度，双肩平齐，挺胸，下巴微收并仰视镜头，一只戴手套的手轻触黑色皮革颈圈，另一只手优雅地置于身后，一条腿自然前伸，重心落在后腿上，{argument name="posture" default="优雅贵族姿态"}，精致奢华时尚模特姿势，冷静自信的神态，(双脚穿着黑色尖头短靴:1.5)，细高跟，系带设计，抛光银色搭扣，{argument name="palette" default="黑色、象牙白和银色"} 色调，高级定制，奢华面料
+
+[English]
+black tailored suit jacket, fitted silhouette, cropped front, long split swallowtail back, elongated peak lapels, glossy black leather panels, delicate ivory lace inserts, sheer ivory lace shirt with a partially open chest, black leather waistcoat, integrated leather harness, high-waisted slim tailored trousers, asymmetrical layered tails, satin piping, quilted leather details, silver filigree embroidery, moon motif embroidery, clover motif embroidery, crystal buttons, ornate silver buttons, {argument name="headpiece" default="luxurious black leather rabbit ear headpiece with ivory lace lining"}, black leather choker with lace trim, silver chain ear accessories, layered silver waist chains, antique pocket watch chain, rabbit emblem brooch, lace jabot, lace cuffs, multiple silver rings on fingers, (wearing black leather gloves on both hands:1.4), (full body shot:1.3), standing pose, body angled about 30 degrees, shoulders squared, chest slightly forward, chin slightly lowered while looking up at the viewer, one gloved hand lightly touching the black leather choker, the other hand resting gracefully behind the lower back, one leg naturally placed forward with the weight shifted onto the back leg, {argument name="posture" default="elegant aristocratic posture"}, refined luxury fashion model pose, calm and confident demeanor, (wearing black pointed-toe ankle boots on both feet:1.5), stiletto heels, lace-up front, polished silver buckles, {argument name="palette" default="black, ivory, and silver"} color palette, premium tailoring, luxurious fabrics
+```
+
+**来源：** [@Mineta](https://x.com/Minetaiuxm/status/2077710908067909879) | 2026-07-16
+
+---
+
+### 🖥️ 例 4290：豪华顶层公寓行政肖像
+
+![豪华顶层公寓行政肖像](../images/%E8%B1%AA%E5%8D%8E%E9%A1%B6%E5%B1%82%E5%85%AC%E5%AF%93%E8%A1%8C%E6%94%BF%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用上传的图像作为身份参考。以最高精度保留主体的确切身份，包括面部结构、面部比例、眼睛、眉毛、睫毛、鼻子、嘴唇、下颌线、肤色、发型或头巾样式、面部表情、年龄外观以及所有可识别的特征。如果主体佩戴眼镜或太阳镜，请保留完全相同的眼镜，不得更改其形状、颜色、反光或位置。切勿改变眼睛形状、注视方向、面部比例、面部毛发、面部表情或头部比例。保持 1:7.5 至 1:8 的真实头身比和解剖学上正确的比例。使面部光影与环境自然融合。
+
+创建一个 {argument name="setting" default="位于摩天大楼顶层、令人惊叹的现代顶层公寓内的超豪华行政办公室肖像"}。落地全景窗展示了壮观的 {argument name="view" default="蓝调时刻的城市天际线，充满灯火通明的摩天大楼、倒影、高速公路和发光的建筑灯光"}。办公室采用抛光大理石地板、高级木镶板和温暖的环境照明。
+
+[English]
+Use the uploaded image as the ONLY identity reference. Preserve the subject's exact identity with maximum accuracy, including facial structure, facial proportions, eyes, eyebrows, eyelashes, nose, lips, jawline, skin tone, hairstyle or hijab style, facial expression, age appearance, and every recognizable feature. If the subject wears glasses or sunglasses, preserve the EXACT same eyewear without changing its shape, color, reflections, or position. Never alter the eye shape, gaze, facial proportions, facial hair, facial expression, or head proportions. Maintain a realistic 1:7.5–1:8 head-to-body ratio and anatomically correct proportions. Match the facial lighting naturally with the environment.
+
+Create an {argument name="setting" default="ultra-luxury executive office portrait inside a breathtaking modern penthouse located at the top of a skyscraper"}. Floor-to-ceiling panoramic windows reveal a spectacular {argument name="view" default="city skyline at blue hour, filled with illuminated skyscrapers, reflections, highways, and glowing architectural lights"}. The office features polished marble floors, premium wood paneling, warm ambient lighting.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077604414089490731) | 2026-07-16
+
+---
+

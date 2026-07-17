@@ -8410,3 +8410,189 @@ Create a cinematic photorealistic anime-to-live-action scene in a Korean subway 
 
 ---
 
+### 🎨 例 4241：巴洛克作曲家悬疑拼贴画
+
+![巴洛克作曲家悬疑拼贴画](../images/%E5%B7%B4%E6%B4%9B%E5%85%8B%E4%BD%9C%E6%9B%B2%E5%AE%B6%E6%82%AC%E7%96%91%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 宽屏比例、具有戏剧性电影质感的历史拼贴画，主题是关于一部失传的古典音乐杰作。画面被撕裂的羊皮纸和黑金油漆纹理对角分割。左侧展示一位穿着 18 世纪奶油色亚麻长裙的年轻母亲，她神情惊恐，怀抱着卷发小儿子在阴暗潮湿的欧洲城市街道上奔逃；在他们身后，一名持械的黑影丈夫正穿过巴洛克风格教堂剪影和古老街灯旁的蓝色浓雾进行追赶。右侧展示一位约 {argument name="composer age" default="84"} 岁的 18 世纪老作曲家，他留着白色扑粉发，身穿黑色天鹅绒外套，坐在烛光摇曳的木桌前，正用羽毛笔在手稿纸上谱写乐章。在他身后，加入两尊棕褐色半身像或作曲家肖像画，其中一幅的眼睛处有一道粗犷的红色笔触，暗示作品归属权的争议和历史悬疑感。在整幅图像上叠加三个醒目的手稿乐谱元素：上方中央是一条蜿蜒的金色五线谱，下方中央是一张撕裂的乐谱纸，左下方是一个较小的红金配色乐谱碎片。添加零星的金色墨迹、黑色烟灰纹理、撕裂的纸张边缘、右下角的一枚红色火漆印章、成堆的旧纸张、带有燃烛的黄铜烛台，以及深沉的明暗对比光影。采用巴洛克惊悚美学，呈现超精细的绘画感写实风格，逃亡人物处呈现忧郁的蓝色阴影，作曲家处呈现温暖的琥珀色烛光，高对比度，纹理羊皮纸背景，无现代物品，无清晰可读文字，无水印。
+
+[English]
+Create a dramatic cinematic historical collage in a wide 16:9 format about a lost classical music masterpiece. The scene is split diagonally by torn parchment and black-gold paint textures. On the left, show a terrified young mother in an 18th-century cream linen dress fleeing through a dark rain-slick European city street while clutching her small curly-haired son in her arms; behind them, a shadowy armed husband pursues them through blue fog near baroque church silhouettes and old street lanterns. On the right, show an elderly 18th-century composer, about {argument name="composer age" default="84"} years old, with white powdered hair and a black velvet coat, seated at a candlelit wooden desk writing musical notation with a quill on manuscript paper. Behind him, include two sepia portrait busts or painted composer portraits, one with a rough red brushstroke across the eyes to suggest misattribution and historical mystery. Overlay the entire image with exactly three prominent manuscript-music elements: one sweeping golden staff of notes across the upper center, one torn sheet of musical score across the lower center, and one smaller red-and-gold notation fragment in the lower left. Add scattered gold ink splashes, black soot textures, torn paper edges, a red wax seal near the lower right, stacks of old papers, brass candlesticks with lit candles, and deep chiaroscuro lighting. Use a baroque thriller aesthetic, ultra-detailed painterly photorealism, moody blue shadows on the fleeing figures, warm amber candlelight on the composer, high contrast, textured parchment background, no modern objects, no readable text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2077763597803938208) | 2026-07-16
+
+---
+
+### 🎨 例 4247：奇幻公会角色
+
+![奇幻公会角色](../images/%E5%A5%87%E5%B9%BB%E5%85%AC%E4%BC%9A%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+{argument name="場所" default="とある町"}の冒険者ギルド {argument name="役職" default="ギルマスと副ギルマス"}
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2077757487395266770) | 2026-07-16
+
+---
+
+### 🎨 例 4248：柔和色调猫耳动漫少女
+
+![柔和色调猫耳动漫少女](../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E7%8C%AB%E8%80%B3%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身可爱的动漫 VTuber 风格插画，主角是一位欢快的猫耳少女吉祥物，置于干净的白色背景中心，并带有柔和的魔法特效。角色是一位娇小的少女，拥有 {argument name="hair color" default="银薰衣草蓝"} 的波浪形齐肩发、柔顺的刘海、明亮的青蓝色眼睛、红润的脸颊以及开心的笑容。她有着一对大大的猫耳，内耳为粉色，外耳尖端为深色，装饰着华丽的金白色花朵发饰、细链、珠子和粉色蝴蝶结。姿势要充满动感，仿佛在漂浮或向前跳跃：一只手靠近观众友好地挥动，五指可见；另一只手臂向外伸展，一条腿笔直向下，另一条腿俏皮地向后弯曲。服装：浅蓝色超大款短夹克，配有泡泡袖和白色抽绳蝴蝶结；浅蓝色衬衫；白色不对称背带裙/短裤，带有明显的肩带、纽扣和接缝；白色腰带，配有交叉带和金色小蝴蝶结挂饰；内搭叠穿浅蓝色荷叶边短裤；一只白色过膝袜，一只超大款蓝色腿套，带有蝴蝶结细节；以及浅蓝白色运动鞋。在臀部添加系带丝带配饰和小型垂坠挂饰。配色方案应为柔和的婴儿蓝、白色、淡粉色和金色点缀，采用精致的赛璐珞动漫渲染、干净的线条、光泽感的眼睛、柔和的渐变以及高细节的衣物褶皱。在周围添加由粉色和蓝色柔和闪光、发光的星芒、虚化光点和漂浮的心形花瓣组成的圆形光环；画面中包含 3 片大型粉色心形花瓣、5 片中型蓝色心形花瓣，以及散落在周围的许多微小粉色花瓣和迷你花朵形状。构图采用竖版，全身从头到鞋可见，风格明亮通透，无文字，无水印，无多余角色，呈现出精致的日本手游角色主视觉图效果。
+
+[English]
+Create a full-body kawaii anime VTuber-style illustration of a cheerful cat-eared girl mascot, centered on a clean white background with pastel magical effects. The character is a petite teenage-looking anime girl with {argument name="hair color" default="silvery lavender-blue"} wavy shoulder-length hair, soft bangs, bright cyan-blue eyes, rosy cheeks, and an open happy smile. She has large cat ears with pink inner ears and dark outer tips, decorated with ornate gold-and-white floral hair accessories, small chains, beads, and a pink ribbon bow. Pose her dynamically as if floating or skipping forward: one hand raised close to the viewer in a friendly wave with five fingers visible, the other arm extended outward, one leg straight down and the other bent back playfully. Outfit: pastel blue oversized cropped jacket with puffy sleeves and white drawstring bows, pale blue shirt, white asymmetrical overall-style skirt/shorts dress with visible straps, buttons, seams, a white belt with crossing straps and small gold bow charm, layered light-blue ruffled shorts underneath, one white knee sock, one oversized blue leg warmer with bow details, and light blue-and-white sneakers. Add a tied ribbon accessory and small dangling charm at the hip. The color palette should be soft baby blue, white, pale pink, and gold accents, with delicate cel-shaded anime rendering, clean line art, glossy eyes, soft gradients, and high-detail clothing folds. Surround her with a circular aura of pastel pink and blue sparkles, glowing starbursts, bokeh dots, and floating heart-shaped petals; include exactly 3 large pink heart petals, 5 medium blue heart petals, and many tiny pink petals and miniature flower shapes scattered around the frame. Make the composition vertical, full body visible from head to shoes, airy and bright, with no text, no watermark, no extra characters, and a polished Japanese mobile-game character key visual look.
+```
+
+**来源：** [@Shiroko Kuribayashi](https://x.com/shiroko0802/status/2077751656251596844) | 2026-07-16
+
+---
+
+### 🎨 例 4249：宇宙之灵升腾
+
+![宇宙之灵升腾](../images/%E5%AE%87%E5%AE%99%E4%B9%8B%E7%81%B5%E5%8D%87%E8%85%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅令人惊叹的竖版电影质感奇幻艺术作品，背景为深邃的星空。画面中仅展示两个形象：底部中央站着一个渺小的孤独人类剪影，头微低，脚下是带有微弱涟漪的反射面；上方升腾着一个巨大的半透明女性天体之灵，宛如发光的幻影。该灵体从头部到飘逸的下半身均呈人形，侧脸宁静向上，双臂自然垂于两侧，身形由发光的星云丝状物、星座、等离子脉络和闪烁的粒子构成。外体使用电光蓝和青色光芒，内部能量流使用强烈的金橙色光芒，深紫色的烟雾轨迹从她的头部和上半身向左上方飘散。灵体的下半部分应从人类脚下金色的火花与旋转能量的爆发中涌现，仿佛想象力或意识正在具象化为一位宇宙女神。构图应居中且富有戏剧性，通过渺小的人类与巨大的发光幻影形成强烈的比例对比。风格：超精细数字艺术、高对比度天文摄影质感、体积光、发光粒子特效、空灵的透明解剖结构、优雅的流动能量带、魔幻现实主义、令人敬畏、人物焦点清晰、深邃的黑色空间点缀着繁星。在右下角添加一个微妙的手写签名 {argument name="signature text" default="Kollab"}。使用 {argument name="primary glow color" default="电光蓝"}、{argument name="secondary glow color" default="金橙色"} 和 {argument name="accent nebula color" default="紫罗兰色"}。渺小的人类应呈现为 {argument name="human silhouette" default="一个身着深色衣服、低着头的年轻人"}，巨大的幻影应呈现为 {argument name="celestial figure" default="一个宁静的女性宇宙之灵"}。无边框，无 UI，无额外文字，除小签名外无任何标志。
+
+[English]
+Create a breathtaking vertical cinematic fantasy artwork on a dark star-filled cosmic background. Show exactly two figures: a tiny solitary human silhouette standing at the bottom center on a reflective, faintly rippled surface, head bowed, and a colossal translucent feminine celestial spirit rising directly above him like a luminous apparition. The spirit is human-shaped from head to flowing lower body, with a serene upward-facing profile, arms relaxed at her sides, and her form made of glowing nebula filaments, constellations, plasma veins, and sparkling particles. Use electric blue and cyan light for the outer body, intense golden-orange light for the inner energy streams, and deep violet-purple smoke trails flowing backward from her head and upper body toward the upper left. The lower part of the spirit should emerge from a bright explosion of golden sparks and swirling energy at the human’s feet, as if imagination or consciousness is materializing into a cosmic goddess. The composition should be centered and dramatic, with strong scale contrast between the small person and the immense radiant apparition. Style: ultra-detailed digital art, high-contrast astrophotography look, volumetric glow, luminous particle effects, ethereal transparent anatomy, elegant flowing energy ribbons, magical realism, awe-inspiring, sharp focus on the figure, deep black space with scattered stars. Add a subtle handwritten signature reading {argument name="signature text" default="Kollab"} in the bottom right. Use {argument name="primary glow color" default="electric blue"}, {argument name="secondary glow color" default="golden orange"}, and {argument name="accent nebula color" default="violet purple"}. The small human should appear as {argument name="human silhouette" default="a bowed young man in dark clothing"}, and the giant apparition should appear as {argument name="celestial figure" default="a serene feminine cosmic spirit"}. No borders, no UI, no extra text, no logos other than the small signature.
+```
+
+**来源：** [@Kollab_AI](https://x.com/Kollab_Japan/status/2077746330592854072) | 2026-07-16
+
+---
+
+### 🎨 例 4262：阳光车库里饥肠辘辘的男人
+
+![阳光车库里饥肠辘辘的男人](../images/%E9%98%B3%E5%85%89%E8%BD%A6%E5%BA%93%E9%87%8C%E9%A5%A5%E8%82%A0%E8%BE%98%E8%BE%98%E7%9A%84%E7%94%B7%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级宽银幕动漫插画，描绘一个衣衫不整的中年男子正俯身看向桌上一大碗米饭，仿佛正在打哈欠、大喊或表现出饥饿的反应。该男子留着凌乱的尖刺状 {argument name="hair color" default="棕色头发，发梢在阳光下呈现浅色"}，有着粗糙的胡茬和短须，闭着疲惫的双眼，张着嘴，身体精瘦且富有表现力。他穿着一件宽松破旧的 {argument name="shirt color" default="浅灰蓝色"} T 恤，袖口卷起，搭配蓝色牛仔裤和红色腰带。将他置于一个杂乱的旧棚屋或车库内，背景是金色的晨光，左侧有自行车剪影，背景里堆放着纸箱和各种杂物，有木梁，明亮的窗户透出柔和的雾气。在前景中，展示 1 只陶瓷碗，碗里盛满白米饭，上面淋有深色酱汁并点缀着少许绿色配菜，放置在磨损的木质桌面上。使用来自左上方的戏剧性背光，温暖的琥珀色高光，冷青蓝色的阴影，细腻的手绘线条，粗犷的绘画感动漫纹理，浅景深，电影剧照构图，夸张的表现力姿势，无文字，无水印。
+
+[English]
+Create a cinematic widescreen anime illustration of a scruffy middle-aged man leaning forward toward a large bowl of rice on a table, as if yawning, shouting, or reacting hungrily. The man has messy spiky {argument name="hair color" default="brown hair with lighter sunlit tips"}, rough stubble and short beard, tired closed eyes, an open mouth, and a wiry expressive body. He wears a loose worn {argument name="shirt color" default="pale gray-blue"} T-shirt with rolled sleeves, blue jeans, and a red belt. Place him in a cluttered old shed or garage interior at golden-hour morning light, with a dusty bicycle silhouette on the left, cardboard boxes and miscellaneous junk in the background, wooden beams, and soft haze through a bright window. In the foreground, show exactly 1 ceramic bowl filled with white rice topped with dark sauce and small green garnish on a worn wooden tabletop. Use dramatic backlighting from the upper left, warm amber highlights, cool teal-blue shadows, detailed hand-drawn linework, rough painterly anime texture, shallow depth of field, film still composition, expressive exaggerated pose, no text, no watermark.
+```
+
+**来源：** [@角煮星丸](https://x.com/_3912657840/status/2077711787106148766) | 2026-07-16
+
+---
+
+### 🎨 例 4281：混合媒介编辑插画
+
+![混合媒介编辑插画](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BB%8B%E7%BC%96%E8%BE%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级当代混合媒介编辑插画，描绘了如附件所示的一位女性，她正自信地向前迈步，象征着自由、蜕变与内在觉醒。主体呈现出动态的时尚编辑步态，双腿自然交错。她微微仰头望向天空，双眼紧闭，神情宁静，拥抱着希望与无限可能。主体身着 {argument name="clothing set" default="一件超大号灰蓝色风衣，内搭暖金色芥末黄衬衫"}，穿着带有自然褶皱的宽松米色工装裤，以及粗犷的芥末黄皮革战斗靴。飘逸的风衣营造出优雅的动感，同时保持了逼真的织物纹理和电影般的深度，在力量感与毫不费力的女性气质之间取得了平衡。人物身后是一个 {argument name="background element" default="巨大的鲜艳焦橙色圆形太阳"}，位于构图正中央，占据了近三分之二的画面，作为主导的图形元素。背景为平滑简约的浅蓝灰色，留有大量干净的负空间。艺术作品融合了：{argument name="art style" default="当代混合媒介拼贴、表现主义植物插画、水彩纹理以及丙烯颜料溅射"}。白鸽环绕在主体周围飞行，有些从橙色太阳前方掠过，有些则融入到周围的拼贴画中。下半身逐渐消融为表现主义的植物元素。柔和的电影级光影，哑光绘画质感，奢华杂志封面美学，9:16 纵横比。
+
+[English]
+A premium contemporary mixed-media editorial illustration of a woman as the attached image, walking confidently forward, symbolizing freedom, transformation, and inner awakening. The subject is captured in a dynamic fashion-editorial stride with one leg crossing naturally in front of the other. Her head is tilted upward toward the sky with closed eyes and a peaceful expression, embracing hope and limitless possibilities. The subject wears {argument name="clothing set" default="an oversized muted slate-blue trench coat layered over a warm golden-mustard button-up shirt"}, loose cream-beige cargo trousers with soft natural folds, and rugged mustard leather combat boots. The flowing coat creates elegant movement while the clothing maintains realistic fabric texture and cinematic depth, creating a balance of strength and effortless femininity. Behind the figure sits a {argument name="background element" default="large vibrant burnt-orange circular sun"}, perfectly centered, occupying nearly two-thirds of the composition and acting as the dominant graphic element. The background is a smooth minimalist pale blue-gray with abundant clean negative space. The artwork blends: {argument name="art style" default="contemporary mixed-media collage, expressive botanical illustration, watercolor textures, and acrylic paint splashes"}. White birds (doves) fly around the subject, some crossing in front of the orange sun while others disappear into the surrounding collage. The lower body gradually dissolves into expressive botanical elements. Soft cinematic lighting, matte painterly finish, luxury magazine cover aesthetic, 9:16 aspect ratio.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2077647782887018568) | 2026-07-16
+
+---
+
+### 🎨 例 4287：男友视角：海边日落约会
+
+![男友视角：海边日落约会](../images/%E7%94%B7%E5%8F%8B%E8%A7%86%E8%A7%92%EF%BC%9A%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E7%BA%A6%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+写实风格的男友视角夏日约会场景，主角为 {argument name="subject" default="成年女性"}。
+
+图像逻辑：必须采用真实的男友视角机位，实现向上仰视的效果。男友比对方高约 30 厘米，相机必须放置在他真实的视线高度，这样她才能清晰地从下方仰视他。核心情感在于通过真实的身高差和亲密的浪漫距离，展现出一种甜美、深情且带着一丝娇嗔的仰视表情。
+
+背景设定：盛夏时节生动的 {argument name="location" default="日落时分的海滨步道"}，天空呈现出桃粉色与淡紫色交织的绚丽色彩，配有白色栏杆、风化的木质甲板、波光粼粼的海面、远处的摩天轮、开始闪烁的游乐场灯光、错落有致的沿海建筑，以及轻柔的晚风。背景应营造出浪漫且富有层次感的氛围，而非平铺直叙的日落背景。
+
+景深锁定：前景处，模糊的栏杆转角、步道立柱或海面反光应靠近镜头。中景处，主角站在栏杆内侧边缘，与相机距离极近。背景处，延伸的步道线条、摩天轮、层叠的建筑、海平面和日落天空共同营造出强烈的空间深度。
+
+真实的男友视角机位锁定：相机不是第三人称观察者视角，也不是时尚大片的拍摄视角。镜头放置在男友双眼所在的真实高度，即比她的视线高约 30 厘米处，处于非常亲密的交谈距离，约距她面部 45 至 60 厘米。使用清晰可见的约 18 至 24 度的俯视角度。相机位置略微靠前并位于她近侧肩膀外侧，仿佛高个子男友正走近她身边，从他真实的视线高度向下注视着她。取景范围从腰部以上或胸部以下到头部上方。她的眼睛和面部必须位于镜头下方，从而在结构上形成不可避免的仰视视角。请勿使用平视角度、观察者视角或中性的肖像拍摄视角。
+
+姿势锁定：主角在步道旁稍作停留，身体仍顺着步道方向。重心自然地落在一条腿上，另一只脚稍微向后，大部分处于画面之外。躯干保持与步道方向基本一致，而非完全转向正面拍摄姿势。一只手轻轻搭在身后或身侧的栏杆上作为简单的支撑点。另一只手臂自然下垂，可部分被裁剪或遮挡。双肩保持放松自然的状态。
+
+仰视锁定：由于镜头确实处于她的上方，她会清晰地从下方仰视镜头。面部保持柔和的四分之三侧脸角度，而非正脸。头部仅向他微转，双眼明显向上注视着高处的镜头。
+
+[English]
+Photorealistic boyfriend-perspective summer date scene featuring an {argument name="subject" default="adult woman"}.
+
+Image logic: the upward gaze must come from true boyfriend-perspective camera placement. The boyfriend is about 30 cm taller, and the camera must sit at his actual eye level so she is clearly looking up at him from below. The emotional core is a sweet affectionate upward gaze with a gently spoiled expression, created by real height difference and close romantic distance.
+
+Background identity: a vivid {argument name="location" default="seaside boardwalk at sunset"} in midsummer, with a wide peach-pink-lavender sky, white railings, weathered wooden decking, reflective sea water, a distant Ferris wheel, small amusement lights beginning to glow, layered coastal buildings, and a soft evening breeze. The background should feel romantic and layered rather than like a flat sunset backdrop.
+
+Depth lock: in the foreground, a softly blurred railing corner, boardwalk post, or sea-light reflection enters close to the lens. In the middle ground, the subject stands near the inside edge of the railing, very close to the camera. In the background, receding boardwalk lines, the Ferris wheel, layered buildings, sea horizon, and sunset sky create strong depth.
+
+True boyfriend-POV camera lock: the camera is not a third-person observer and not a fashion-editorial camera. The lens is placed exactly where the taller boyfriend’s eyes would be, about 30 cm above her eye line, at very close conversational distance, approximately 45 to 60 cm from her face. Use a clearly readable downward viewing angle of about 18 to 24 degrees. The camera is positioned slightly in front of and just outside her near shoulder, as though her taller boyfriend has stepped close beside her and is looking down at her from his own real eye level. Frame from upper waist or lower chest to above the head. Her eyes and face must sit clearly below the lens, so the upward gaze is structurally unavoidable. Do not use a flat eye-level angle, do not use an observer camera, and do not use a neutral portrait camera.
+
+Pose lock: the subject has paused beside the railing while still oriented along the boardwalk. Her weight rests naturally on one leg, with the other foot slightly behind and mostly outside the crop. The torso remains mostly aligned with the walkway rather than turning fully into a portrait pose. One hand rests lightly on the railing behind or beside her hip as a simple support point. The other arm remains relaxed along the body and may be partially cropped or partially hidden. Shoulders stay lowered and natural.
+
+Upward-gaze lock: because the lens is truly above her, she looks clearly upward toward the camera from below. Her face remains in a soft three-quarter angle, not frontal. The head turns only a little toward him, while the eyes lift distinctly upward to the higher lens. Ke
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2077610303593066834) | 2026-07-16
+
+---
+
+### 🎨 例 4289：水晶展板时尚画廊
+
+![水晶展板时尚画廊](../images/%E6%B0%B4%E6%99%B6%E5%B1%95%E6%9D%BF%E6%97%B6%E5%B0%9A%E7%94%BB%E5%BB%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+4:5
+
+{argument name="number of models" default="五位"} 超写实欧洲时尚模特，置身于不同深度层叠的悬浮透明水晶玻璃展板内，每位模特均身着受巴黎和米兰时装周启发的奢华当代高级定制服装，大胆的设计师廓形，优质面料，个性配饰，优雅高跟鞋，展现出毫不费力的女演员级时尚感，鲜艳的 {argument name="color palette" default="祖母绿、蓝宝石、红宝石、象牙白和香槟色"} 色调在水晶折射中柔和交融，明亮的奢华摄影棚灯光，带有微妙渐变照明的亮面白色画廊环境，电影级编辑摄影，Vogue 广告大片美学，柔和的体积光，逼真的反射，高级景深，超精细皮肤纹理，超写实，杰作，2K，竖屏 9:16
+
+[English]
+4:5
+
+{argument name="number of models" default="Five"} ultra-realistic European fashion models displayed inside floating transparent crystal glass panels layered at different depths, each wearing luxurious contemporary haute couture outfits inspired by Paris and Milan Fashion Week, bold designer silhouettes, premium fabrics, statement accessories, elegant heels, effortlessly stylish actress-level fashion, vibrant {argument name="color palette" default="emerald, sapphire, ruby, ivory and champagne"} tones softly blending through crystal reflections, luminous luxury studio lighting, glossy white gallery environment with subtle gradient illumination, cinematic editorial photography, Vogue campaign aesthetic, soft volumetric light, realistic reflections, premium depth, hyper detailed skin textures, ultra realistic, masterpiece, 2K, vertical 9:16
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077604537859232016) | 2026-07-16
+
+---
+
+### 🎨 例 4294：极简半脸石墨素描
+
+![极简半脸石墨素描](../images/%E6%9E%81%E7%AE%80%E5%8D%8A%E8%84%B8%E7%9F%B3%E5%A2%A8%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用上传的图像作为面部参考，严格保持人物特征。创作一幅超写实的 {argument name="style" default="石墨铅笔素描"}，仅展示半张脸，位置略微偏离中心，其余部分自然淡入干净的 {argument name="background color" default="白色背景"} 中。保留主体确切的面部结构、比例、肤色、嘴唇、鼻子、睫毛和独特的个人特征。可见的眼睛轻轻闭合，嘴唇微张，面部边缘柔和地融入纸面。头发戏剧性地流动，化作优雅的烟雾状缕缕轻烟和轻盈的石墨线条，向上和向外延伸，带有优美的动感，与留白无缝融合。使用超细铅笔笔触、逼真的石墨质感、平滑的色调渐变、细腻的交叉排线，并在头发处使用深黑色以形成强烈的对比。保持极简的艺术构图，留有充足的负空间，无背景元素，无配饰，无文字，无色彩，无边框。作品应呈现出梦幻、空灵、富有情感且带有精致画廊风格的未完成感。
+
+[English]
+Use the uploaded image as the ONLY facial reference with strict identity preservation. Create an ultra-realistic {argument name="style" default="graphite pencil sketch"} showing only one half of the face, positioned slightly off-center with the rest naturally fading into a clean {argument name="background color" default="white background"}. Preserve the subject's exact facial structure, proportions, skin tone, lips, nose, eyelashes, and unique identity. The visible eye is gently closed, the lips are slightly parted, and the facial edges dissolve softly into the paper. The hair flows dramatically into elegant smoke-like wisps and airy graphite strands, extending upward and outward with graceful movement, blending seamlessly into the white space. Use ultra-fine pencil strokes, realistic graphite texture, smooth tonal gradients, delicate cross-hatching, and deep black values in the hair for strong contrast. Maintain a minimalist fine-art composition with abundant negative space, no background elements, no accessories, no text, no color, and no frame. The artwork should feel dreamy, ethereal, emotional, and unfinished in a refined gallery-quality style.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077603465547694362) | 2026-07-16
+
+---
+
