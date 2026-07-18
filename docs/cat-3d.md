@@ -5448,3 +5448,71 @@ Constraints: Use exactly 5 photo panels and exactly the listed text elements. Do
 
 ---
 
+### 🧸 例 4315：三国演义立体书场景
+
+![三国演义立体书场景](../images/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E7%AB%8B%E4%BD%93%E4%B9%A6%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="classic novel title" default="三國演義"} 创建一张电影质感的纸艺立体书插画，将《三国演义》呈现为史诗般的中国古典文学场景。
+
+画布：宽屏 16:9 横向构图，深色戏剧性光影，高细节 3D 分层纸质立体模型从木桌上打开的古籍中浮现。书籍填满底部前景，可见印刷的中式文字、泛黄的纸张、红棕色封面以及中央书脊折痕。
+
+布局：打开的书籍形成一个立体战场和河流全景。将英雄人物群置于左中前景，右侧为燃烧的海战场景，背景为山脉和要塞城市，右上角天空处放置大型标题排版。
+
+主体细节：包含 4 位层叠剪纸风格的历史人物：最左侧 1 位身着盔甲、神情严肃的武将，手持长矛，身旁立着写有「張」字的红旗；正前方中央 1 位身着白袍、优雅的谋士，手持鞘中或折叠的物件，衣饰华丽；中右侧 1 位身着绿袍、蓄须的将军，手持长柄青龙偃月刀；后方 1 位身着浅色长袍、手持羽扇的学者型谋士。人物服装应为华丽的汉代奇幻盔甲与长袍，带有金色刺绣，表情生动，姿态具有戏剧性，边缘呈现清晰的剪纸质感。
+
+场景元素：在书籍场景周围包含 6 个显著的前景道具：1 面立式战鼓、1 个长矛架、1 卷卷轴、1 份打开的手写手稿、1 块刻有「隆中對」的竖立石碑，以及 1 座标有「荊」字的小型要塞门。在右侧水战中，包含 5 艘带有黑色风帆、红色旗帜和火光剪影的大型战舰，以及作为背景纹理的较小船只。添加分层的纸质波浪、烟雾、橙色火焰、城墙、旗帜和微缩比例的士兵。
+
+背景：营造月光下的中国山水景观，配有宝塔、悬崖要塞、蓝黑色夜空以及左上角一轮明亮的满月。右侧背景应闪烁着红橙色的火光与烟雾，与左侧冷色调的蓝色山脉形成对比。
+
+文字内容：在右上角，书写大型金色书法标题「三國演義」，带有粗糙的金属质感。下方添加英文副标题 “Romance of the Three Kingdoms”。在副标题下方，添加两行较小的中文：「作者：羅貫中」和「成書：約十四世紀」。添加一块装饰性牌匾，写有「群雄逐鹿，智謀定天下」。请精确保留上述中文文本。
+
+视觉风格：超精细电影级纸艺，立体书结构，分层剪纸剪影，浮雕金字书法，戏剧性轮廓光，体积烟雾，微缩舞台设计，华丽的历史奇幻写实主义，焦点清晰，对比强烈，深海军蓝与炽热红色的碰撞，博物馆级工艺。
+
+约束：保持场景为一个连贯的立体书跨页，而非平面海报。不要添加现代物品、水印、Logo 或额外的主角。保持排版清晰，并呈现出高端电影书封的质感。
+
+[English]
+Goal: Create a cinematic paper-craft pop-up book illustration for {argument name="classic novel title" default="三國演義"}, presenting Romance of the Three Kingdoms as an epic Chinese classical literature scene.
+
+Canvas: Wide 16:9 landscape composition, dark theatrical lighting, high-detail 3D layered paper diorama emerging from an open antique book on a wooden table. The book fills the bottom foreground with visible printed Chinese-style text, aged pages, a red-brown cover, and a central spine crease.
+
+Layout: The open book forms a pop-up battlefield and river panorama. Place the heroic character group on the left-center foreground, the burning naval battle on the right, mountains and fortress cities in the background, and large title typography in the upper-right sky.
+
+Subject details: Include exactly 4 main historical figures in layered paper-cut style: 1 stern armored warrior on the far left holding a spear beside a red banner marked 「張」, 1 elegant strategist in white robes at center front holding a sheathed or folded object and wearing ornate trim, 1 green-robed bearded general at center-right holding a tall curved guandao, and 1 elevated scholar-strategist behind them in pale robes holding a feather fan. Their costumes should be ornate Han-era fantasy armor and robes with gold embroidery, expressive faces, theatrical poses, and crisp cut-paper edges.
+
+Scene elements: Include exactly 6 prominent foreground props around the book scene: 1 standing war drum, 1 rack of upright spears, 1 rolled scroll, 1 open handwritten manuscript, 1 vertical stone marker labeled 「隆中對」, and 1 small fortress gate labeled 「荊」. In the right-side river battle, include exactly 5 large visible warships with black sails, red flags, and firelit silhouettes, plus smaller implied boats only as background texture. Add layered paper waves, smoke plumes, orange flames, fortress walls, banners, and troops in miniature scale.
+
+Background: Create a moonlit mountainous Chinese landscape with pagodas, cliffside fortresses, blue-black night sky, and a bright full moon on the upper left. The right background should glow with red-orange fire and smoke, contrasting against cool blue mountains on the left.
+
+Text content: In the upper right, write the large gold brush-calligraphy title 「三國演義」 with rough metallic texture. Below it, add the English subtitle “Romance of the Three Kingdoms”. Under the subtitle, add two smaller Chinese lines: 「作者：羅貫中」 and 「成書：約十四世紀」. Add a decorative plaque reading 「群雄逐鹿，智謀定天下」. Preserve the Chinese text exactly as visible.
+
+Visual style: Ultra-detailed cinematic paper art, dimensional pop-up book construction, layered cut-paper silhouettes, embossed gold calligraphy, dramatic rim light, volumetric smoke, miniature stage design, ornate historical fantasy realism, sharp focus, rich contrast, deep navy blues and fiery reds, museum-quality craftsmanship.
+
+Constraints: Keep the scene as a single coherent pop-up book spread, not a flat poster. Do not add modern objects, watermarks, logos, or extra main characters. Maintain readable typography and a premium cinematic book-cover feel.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2078186990097555916) | 2026-07-17
+
+---
+
+### 🧸 例 4380：皮克斯风格美妆项目
+
+![皮克斯风格美妆项目](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E7%BE%8E%E5%A6%86%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个皮克斯风格的 3D 动画项目图像，采用 4×2 网格布局（4 列 × 2 行，从左到右、从上到下编号），包含 8 个带有细黑边（3px）的面板。整体图像宽高比为 9:8（例如 2160×1920）；每个面板均为严格的 9:16 垂直构图。背景：白色。每个面板均标有加粗的黑色数字（位于框架内左上角）。视觉风格（统一应用于所有面板）：高端 3D 动画长片质感，柔和圆润的形状，次表面散射皮肤，大而富有表现力的眼睛，梦幻般的柔光效果，干净的粉白柔和色调搭配香槟金点缀，柔和的自然窗光，高端 K-beauty 奢华氛围。重复元素（在每个面板中保持一致）：- 角色：开朗的年轻女性，风格化的 3D 动画比例，温暖的棕色波波头，红润的脸颊，白色针织上衣，友善的大眼睛。- 产品：“KINU”奢华精华液——高挑纤细、厚壁磨砂水晶玻璃瓶，带有细微的垂直切面，瓶颈处有玫瑰金金属环，厚重的玫瑰金滴管盖，以及带有金箔衬线字体的浮雕小标签。- 包装：珍珠白磁吸硬盒，配有香槟金饰边，内部为腮红粉色缎面衬里。- 环境：明亮的白色梳妆台，带有粉色和金色点缀，柔和的晨光。每个面板的具体内容：面板 1：奢华开箱——珍珠白磁吸盒打开，露出嵌在腮红粉色缎面中的瓶子，她的双手优雅地将其取出，背景中是柔焦下愉悦的表情。面板 2：产品特写——KINU 瓶身立在梳妆台上，磨砂玻璃切面在晨光中柔和闪烁，玫瑰金瓶颈捕捉到温暖的高光，浅景深。无掉落或滚动的水滴。面板 3：微距特写——玫瑰金滴管喷嘴释放出一滴完美晶莹的水滴，光线如晨露般折射。面板 4：质地演示——一滴半透明的亮泽精华在手背上缓慢延展，指尖轻触，呈现丝滑的果冻状光泽。面板 5：涂抹——她用双手将精华轻拍在脸颊上，闭着眼睛，表情宁静微笑，空气中漂浮着微小的闪光颗粒。面板 6：光泽展示——她微笑脸庞的特写，水润明亮的脸颊捕捉到窗光，表情快乐放松。面板 7：体验镜头——她向后靠在椅子上，轻轻抱着瓶子，闭眼享受，背景是柔和的粉金色光斑。面板 8：最终推荐——她面对镜头，将瓶子放在脸庞旁，俏皮眨眼并露出温暖的微笑，镜头缓慢推进。总体要求：超清晰画质，专业项目风格，8 个面板中角色和产品设计保持一致。无水印。面板标签外无额外文字。质量：高 镜头数：8 | 时长：15 秒 | 宽高比：9:16 使用提供的 8 面板皮克斯风格 3D 动画项目 @kinu_storyboard.png 作为 15 秒电影级动画的直接顺序视觉关键帧参考。遵循项目中的精确面板进度、构图节奏和情感节奏，同时以高质量的动画动作平滑地插值所有动作。在每个镜头中保持相同的角色和产品——一致的面部特征、温暖的棕色波波头、白色针织上衣、红润脸颊，以及完全相同的 KINU 奢华精华瓶：高挑切面磨砂水晶玻璃、玫瑰金金属环、玫瑰金滴管盖、金箔浮雕标签，每个镜头中均为相同的明亮白色梳妆室。配音：单一日语女性配音——年轻、柔和、温暖且友好的评测语气。整个视频仅 4 句短句，按如下标注放置，句间留有冷静的停顿。无需口型同步；角色不在镜头前说话。语速从容且温柔。风格：皮克斯级 3D 渲染，柔和的挤压与拉伸，富有表现力的角色表演，梦幻柔光，干净的粉白柔和色调搭配香槟金点缀，亮泽液体模拟，次表面散射皮肤，精致奢华商业氛围，电影级景深，平滑的剪辑转场，从容优雅的节奏。重点：液体和质地真实感（精华光泽、丝滑延展）、高级材质细节（磨砂玻璃切面、玫瑰金金属、缎面衬里）、优雅的手部动作、迷人的面部表情、一致的产品设计、柔和的闪光颗粒。[0s – 1.8s] 镜头 1 — 奢华开箱。珍珠白磁吸盒平滑打开，露出嵌在腮红粉色缎面中的 KINU 瓶子。她的双手优雅地将其取出，背景中是柔焦下愉悦的脸庞。摄像机：固定，浅景深。[1.8s – 3.5s] 镜头 2 — 产品特写。她将瓶子放在白色梳妆台上。瓶子静止不动，磨砂玻璃切面在晨光中柔和闪烁，玫瑰金瓶颈捕捉到温暖的高光。无水滴落下。摄像机：缓慢推进。配音（明快，日语）：“新精华，KINU。”[3.5s – 5.5s] 镜头 3 — 喷嘴微距。玫瑰金滴管释放出一滴完美晶莹水滴的极致微距，光线如晨露般折射。摄像机：固定微距。[5.5s – 7.5s] 镜头 4 — 质地演示。一滴半透明亮泽精华在手背上缓慢延展，指尖轻触，丝滑的果冻状光泽拉伸。摄像机：缓慢环绕。配音（柔和，日语）：“像丝绸一样平滑融化。”[7.5s – 9.5s] 镜头 5 — 涂抹。她用双手将精华轻拍在脸颊上，闭眼，宁静微笑，微小闪光颗粒漂浮。摄像机：轻柔推进。[9.5s – 11.5s] 镜头 6 — 光泽展示。她微笑脸庞的特写，水润明亮的脸颊捕捉到窗光，表情快乐放松。摄像机：缓慢推进。配音（快乐，日语）：“水润明亮的印象。”[11.5s – 13.5s] 镜头 7 — 体验。她向后靠在椅子上，轻轻抱着瓶子，闭眼享受，身后是柔和的粉金色光斑。摄像机：缓慢拉出。[13.5s – 15s] 镜头 8 — 最终推荐。她面对镜头，将瓶子放在脸庞旁，俏皮眨眼并露出温暖的微笑。摄像机：轻柔推进至中景特写。配音（开朗，日语）：“快去看看吧！”避免：抖动、失真、模糊、变形、角色漂移、机械音。无字幕。屏幕上无文字。无标题。无水印。无 UI 元素。无对话气泡。所有叙事均通过电影视觉、上述 4 句日语配音以及柔和的环境音效（轻柔的室内音、细微的液体和织物声、轻快通透的背景音乐）来传达。
+
+[English]
+Create a Pixar-style 3D animation storyboard image in 4×2 grid layout (4 columns × 2 rows, numbered left to right, top row first), containing exactly 8 panels with thin black borders (3px). Overall image aspect ratio 9:8 (e.g., 2160×1920); each panel is a strict 9:16 vertical composition. Background: white. Each panel labeled with a bold black number (top-left inside frame). Visual style (apply consistently to all panels): high-end 3D animated feature film look, soft rounded shapes, subsurface-scattering skin, big expressive eyes, dreamy bloom lighting, clean pink-and-white pastel palette with champagne-gold accents, soft natural window light, premium luxury K-beauty vibe. Recurring elements (keep identical in every panel): - Character: cheerful young woman, stylized 3D animation proportions, warm brown bob hair, rosy cheeks, white knit top, friendly big eyes. - Product: "KINU" luxury serum — tall slender thick-walled frosted crystal glass bottle with subtle vertical facets, a rose-gold metal collar at the neck, a weighty rose-gold dropper cap, and a small embossed label with gold-foil serif logotype. - Packaging: rigid magnetic-closure box in pearl-white with champagne-gold trim, blush-pink satin lining inside. - Setting: bright white vanity table with pink and gold accents, soft morning light. Exact content for each panel: Panel 1: Luxury unboxing — the pearl-white magnetic box opening to reveal the bottle nestled in blush-pink satin, her hands lifting it out gracefully, delighted expression in soft focus behind. Panel 2: Hero close-up — the KINU bottle now standing on the vanity, faceted frosted glass softly glistening in the morning window light, rose-gold collar catching a warm highlight, shallow depth of field. No falling or rolling drops. Panel 3: Macro close-up — the rose-gold dropper nozzle releasing one perfect glistening drop, light refracting through it like morning dew. Panel 4: Texture demonstration — a glossy translucent drop spreading on the back of her hand, fingertip gently touching it, silky jelly-like sheen. Panel 5: Application — she pats the serum onto her cheeks with both hands, eyes closed, serene smile, tiny sparkle particles in the air. Panel 6: Glow shot — close-up of her smiling face with dewy, luminous-looking cheeks catching the window light, happy relaxed expression. Panel 7: Experience shot — she leans back in her chair hugging the bottle lightly, eyes closed in contentment, soft pink-and-gold bokeh background. Panel 8: Final recommendation — she faces the camera holding the bottle beside her face, bright wink and warm smile, gentle push-in framing. Overall: ultra-sharp quality, professional storyboard style, consistent character and product design across all 8 panels. No watermarks. No extra text outside panel labels. quality: high Shot count: 8 | Duration: 15s | Aspect ratio: 9:16 Use the provided 8-panel Pixar-style 3D animation storyboard @kinu_storyboard.png as direct sequential visual keyframe reference for the entire 15s cinematic animation. Follow the exact panel progression, composition rhythm, and emotional pacing from the storyboard while smoothly interpolating all motion between poses with high-quality feature-animation motion. Maintain the SAME character and product throughout every shot — identical facial identity, warm brown bob hair, white knit top, rosy cheeks, and the identical KINU luxury serum bottle: tall faceted frosted crystal glass, rose-gold metal collar, rose-gold dropper cap, gold-foil embossed label, same bright white vanity room with soft morning window light in every shot. VOICE: A single Japanese female voiceover — young, soft, warm and friendly review tone. Only 4 short lines across the whole video, placed as noted below, with calm pauses between them. No lip sync required; the character does not speak on camera. Delivery is unhurried and gentle. STYLE: Pixar-quality 3D rendering, soft squash-and-stretch, expressive character acting, dreamy bloom lighting, clean pink-and-white pastel palette with champagne-gold accents, glossy liquid simulation, subsurface-scattering skin, refined luxury commercial mood, cinematic depth of field, smooth editorial transitions, unhurried elegant pacing. FOCUS: liquid and texture realism (serum sheen, silky spread), premium material detail (frosted glass facets, rose-gold metal, satin lining), gentle elegant hand movement, charming facial expressions, consistent product design, soft sparkle particles. [0s – 1.8s] SHOT 1 — LUXURY UNBOXING. The pearl-white magnetic box opens smoothly to reveal the KINU bottle nestled in blush-pink satin. Her hands lift it out gracefully, her delighted face in soft focus behind. Camera: fixed, shallow depth of field. [1.8s – 3.5s] SHOT 2 — PRODUCT HERO. She sets the bottle down on the white vanity. It stands still, faceted frosted glass softly glistening in the morning window light, rose-gold collar catching a warm highlight. No falling drops. Camera: slow push-in. Voiceover (bright, Japanese): 「新作美容液、KINU。」 [3.5s – 5.5s] SHOT 3 — NOZZLE MACRO. Extreme macro of the rose-gold dropper releasing one perfect glistening drop, light refracting through it like morning dew. Camera: fixed macro. [5.5s – 7.5s] SHOT 4 — TEXTURE DEMO. A glossy translucent drop spreads slowly on the back of her hand, her fingertip touches it gently, silky jelly-like sheen stretching. Camera: slow orbit. Voiceover (soft, Japanese): 「絹みたいに、とろっとなじむ。」 [7.5s – 9.5s] SHOT 5 — APPLICATION. She pats the serum onto her cheeks with both hands, eyes closed, serene smile, tiny sparkle particles drifting. Camera: gentle push-in. [9.5s – 11.5s] SHOT 6 — GLOW SHOT. Close-up of her smiling face, dewy luminous-looking cheeks catching the window light, happy relaxed expression. Camera: slow push-in. Voiceover (happy, Japanese): 「うるおって、明るい印象。」 [11.5s – 13.5s] SHOT 7 — EXPERIENCE. She leans back hugging the bottle lightly, eyes closed in contentment, soft pink-and-gold bokeh glowing behind her. Camera: slow pull-out. [13.5s – 15s] SHOT 8 — FINAL RECOMMENDATION. She faces the camera holding the bottle beside her face, gives a bright wink and warm smile. Camera: gentle push-in to medium close-up. Voiceover (cheerful, Japanese): 「チェックしてみてね。」 Avoid: jitter, distortion, blur, deformation, character drift, robotic voice. NO SUBTITLES. NO TEXT ON SCREEN. NO CAPTIONS. NO OPENING TITLES. NO END TITLES. NO WATERMARKS. NO UI ELEMENTS. NO SPEECH BUBBLES. All storytelling is conveyed through cinematic visuals, the 4 Japanese voiceover lines specified above, and soft ambient sound design (gentle room tone, subtle liquid and fabric sounds, light airy background music).
+```
+
+**来源：** [@タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm/status/2077926808947982533) | 2026-07-17
+
+---
+

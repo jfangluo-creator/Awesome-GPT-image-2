@@ -2835,3 +2835,17 @@ Constraints: Do not add extra panels, people, UI controls, watermarks, or explan
 
 ---
 
+### 🔧 例 4348：炫酷花卉武器背景
+
+![炫酷花卉武器背景](../images/%E7%82%AB%E9%85%B7%E8%8A%B1%E5%8D%89%E6%AD%A6%E5%99%A8%E8%83%8C%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+背景に{argument name="背景要素1" default="大量の花"}と{argument name="背景要素2" default="大量の武器"}を追加して 全体的にかっこよくして、{argument name="アスペクト比" default="縦長3:4"}
+```
+
+**来源：** [@haga@AIクリエイター](https://x.com/hagamight/status/2078042031247482881) | 2026-07-17
+
+---
+

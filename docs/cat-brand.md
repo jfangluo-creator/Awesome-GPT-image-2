@@ -10786,3 +10786,195 @@ Create a split composition. Left side: an elegant ink sketch of a {argument name
 
 ---
 
+### 🏷️ 例 4310：棕褐色调的钢琴家与仓鼠
+
+![棕褐色调的钢琴家与仓鼠](../images/%E6%A3%95%E8%A4%90%E8%89%B2%E8%B0%83%E7%9A%84%E9%92%A2%E7%90%B4%E5%AE%B6%E4%B8%8E%E4%BB%93%E9%BC%A0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖版单色/棕褐色动漫风格的专辑封面插画，画面中 {argument name="character name" default="一位身材修长的年轻钢琴家"} 背对着观众，坐在一架旧式欧洲书房的黑色亮面三角钢琴前。钢琴家留着 {argument name="hair color" default="浅银白色"} 的凌乱中长发，扎成一个小小的低马尾，身着合身的黑色西装，双手正放在琴键上演奏。一只小 {argument name="animal" default="仓鼠"} 坐在三角钢琴华丽的乐谱架上，面对着钢琴家，仿佛一位专注的小听众。房间细节丰富且写实：左侧是高大的铅框玻璃窗，明亮的日光倾泻而入，配有厚重的窗帘、尘埃飞舞的阳光、深色木地板、墙面装饰线条、装裱的画作、衣帽架，以及钢琴盖后方摆满书籍的高大书柜。画面需包含 1 位钢琴家、1 架三角钢琴、1 张琴凳、1 只仓鼠、2 扇高大的窗户、1 个大书柜、1 个前景的茶杯和茶托，以及 1 个摆放着钢笔和成堆书籍的凌乱书桌角落。采用戏剧性的明暗对比照明，窗户强烈的逆光，钢琴表面的黑色反光，将精细的线条艺术与绘画般的写实感相结合，呈现柔和的棕褐色灰度色调，营造忧郁而私密的氛围，电影级构图，高细节，无文字，无水印。
+
+[English]
+Create a vertical monochrome/sepia anime-style album-cover illustration of {argument name="character name" default="a slender young pianist"} seated with their back mostly to the viewer at a glossy black grand piano in an old European study. The pianist has {argument name="hair color" default="pale silver-white"} tousled medium-length hair tied into a small low ponytail, wears a fitted black suit, and is mid-performance with both hands on the keys. A small {argument name="animal" default="hamster"} sits on the ornate music stand of the grand piano, facing the pianist like a tiny attentive audience. The room is richly detailed and realistic: tall leaded-glass windows on the left with sheer bright daylight streaming in, heavy curtains, dusty sunbeams, dark wood floor, wall molding, framed pictures, a coat stand, and a tall bookcase packed with books behind the raised piano lid. Include exactly 1 pianist, 1 grand piano, 1 piano bench, 1 hamster, 2 tall window panels, 1 large bookcase, 1 foreground teacup and saucer, and 1 cluttered writing desk corner with pens and stacked books. Use dramatic chiaroscuro lighting, strong backlight from the windows, reflective black piano surfaces, fine line-art detail blended with painterly realism, muted sepia grayscale tones, melancholic intimate atmosphere, cinematic composition, high detail, no text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2078267031301063063) | 2026-07-17
+
+---
+
+### 🏷️ 例 4313：男友视角旋转木马约会
+
+![男友视角旋转木马约会](../images/%E7%94%B7%E5%8F%8B%E8%A7%86%E8%A7%92%E6%97%8B%E8%BD%AC%E6%9C%A8%E9%A9%AC%E7%BA%A6%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+写实风格的真实第一人称男友视角游乐园约会场景，主角为一名成年女性。
+
+图像逻辑：此图像完全从较高的男友视角进行观察。她通过高机位镜头与他进行直接的眼神交流，这种明显的仰视感是由 {argument name="height difference" default="30 cm"} 的真实身高差所营造的。
+
+背景设定：夜间游乐园的旋转木马广场，旋转木马上装饰着温暖的金色灯泡，绘有彩绘马匹、光亮的平台倒影、装饰性立柱、低矮的金属围栏，以及五彩斑斓的游乐设施灯光，远处是游乐园的虚化背景和深蓝色的夜空。旋转木马应呈现出层次感、光影感、浪漫感和空间感，而非平面的灯光墙。
+
+深度锁定：在前景处，{argument name="foreground element" default="轻微模糊的围栏立柱、旋转木马的光晕或光亮的地面倒影"} 进入镜头附近。在中景处，主体站在低矮的旋转木马围栏旁。在背景处，多层旋转木马、发光的立柱、旋转平台细节、远处的公园灯光和夜空在她身后层层递进。
+
+真实男友视角镜头锁定：将镜头放置在男友自然的视线高度，即比她的视线高出约 30 cm，距离她的脸部 40–55 cm。使用约 18–24 度的明显俯角。将相机放置在她靠近肩膀的前方，而非侧面。光轴直接指向她双眼之间的中心。取景范围从上腰部或下胸部到头部上方。她的双眼必须保持在镜头下方。
+
+姿势锁定：她的骨盆保持朝向旋转木马约 35–45 度的角度。双脚自然着地。一只手随意地搭在低矮围栏的顶部。另一只手臂自然垂在身体一侧，可能会被部分裁剪。她的上半身略微转向男友，但不要形成正面的肖像照。保持靠近镜头的一侧肩膀略微靠前，双肩放松。
+
+头部方向锁定：将她的头部转向镜头，角度足以让双眼完全清晰可见。保持柔和的三分之二侧脸角度，鼻尖方向偏离正前方约 15–25 度。不要让她的脸部朝向旋转木马。
+
+直接眼神交流锁定：双瞳和虹膜直接看向相机镜头中心，仿佛她正在注视着男友的双眼。她没有看向旋转木马、木马模型、相机侧面或镜头之外。较高的镜头位置会产生明显的仰视眼神。保持下巴水平或略微内收。
+
+表情锁定：{argument name="expression" default="甜美、深情、略带娇嗔"} 的表情，仿佛她想让他再坐一次，或者想让他再多停留片刻。眼睑柔和，内眉微挑，脸颊放松，嘴唇轻闭
+
+[English]
+Photorealistic true first-person boyfriend-perspective amusement-park date scene featuring an adult woman.
+
+Image logic: this image is literally viewed from the taller boyfriend’s eyes. She is making direct eye contact with him through the high lens, and the visible upward gaze is created by the real {argument name="height difference" default="30 cm"} height difference.
+
+Background identity: a night amusement-park carousel plaza with an illuminated merry-go-round covered in warm golden bulbs, painted horses, glossy platform reflections, decorative poles, a low metal fence, colorful ride lights, distant amusement-park bokeh, and a dark blue night sky. The carousel should feel layered, luminous, romantic, and dimensional rather than like a flat wall of lights.
+
+Depth lock: in the foreground, a {argument name="foreground element" default="softly blurred fence post, carousel-light flare, or glossy pavement reflection"} enters near the lens. In the middle ground, the subject stands close beside the low carousel fence. In the background, multiple layers of carousel horses, illuminated poles, rotating platform details, distant park lights, and the night sky recede behind her.
+
+True boyfriend-eye camera lock: place the lens exactly at her boyfriend’s natural eye level, approximately 30 cm above her eye line and 40–55 cm from her face. Use a clearly downward angle of approximately 18–24 degrees. Position the camera slightly in front of her near shoulder, not beside her profile. Point the optical axis directly toward the center between her eyes. Frame from the upper waist or lower chest to slightly above the head. Her eyes must remain clearly below the lens.
+
+Pose lock: her pelvis remains angled toward the carousel at approximately 35–45 degrees. Both feet remain naturally grounded. One hand rests simply on the top of the low fence. The other arm stays relaxed beside the body and may be partially cropped. Her upper torso rotates slightly toward her boyfriend without becoming a frontal portrait. Keep the near shoulder subtly closer to the lens and the shoulders relaxed.
+
+Head-direction lock: turn her head toward the lens far enough for both eyes to be fully readable. Retain a soft three-quarter face angle, with the nose direction approximately 15–25 degrees away from full frontal. Do not keep her face pointed toward the carousel.
+
+Direct boyfriend-eye-contact lock: both pupils and irises point directly into the center of the camera lens, as though she is looking into her boyfriend’s eyes. She is not looking at the carousel, a horse, beside the camera, or beyond the lens. The higher lens causes a clearly upward eye angle. Keep the chin level or slightly tucked.
+
+Expression lock: a {argument name="expression" default="sweet, affectionate, gently spoiled"} expression, as if she wants him to ride again or stay close for another moment. Softened eyelids, slightly lifted inner brows, relaxed cheeks, softly closed
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2078255592876232841) | 2026-07-17
+
+---
+
+### 🏷️ 例 4318：高端冰咖啡产品摄影
+
+![高端冰咖啡产品摄影](../images/%E9%AB%98%E7%AB%AF%E5%86%B0%E5%92%96%E5%95%A1%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端 {argument name="beverage" default="冰咖啡"} 产品照片，玻璃杯，{argument name="visual details" default="牛奶漩涡，冰块折射"}，{argument name="lighting" default="柔和摄影棚灯光"}
+
+[English]
+premium {argument name="beverage" default="iced coffee"} product photo, glass, {argument name="visual details" default="milk swirls, ice refraction"}, {argument name="lighting" default="soft studio light"}
+```
+
+**来源：** [@小森映像](https://x.com/komorimedia/status/2078166120113254633) | 2026-07-17
+
+---
+
+### 🏷️ 例 4325：女王的成神之旅
+
+![女王的成神之旅](../images/%E5%A5%B3%E7%8E%8B%E7%9A%84%E6%88%90%E7%A5%9E%E4%B9%8B%E6%97%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超宽幅电影感神话奇幻艺术作品，通过画面上清晰可见的四个阶段，展现 {argument name="character name" default="一位逃亡的女王"} 从恐惧到成神的蜕变过程。在最左侧，描绘一位惊恐的凡人女王，赤脚奔跑在破碎的暗黑森林神庙景观中，身穿破损的象牙色希腊罗马式长裙，头戴小皇冠，深色长发随风飘散，双腿带有擦伤，深红色的斗篷在身后飘扬；她的脸上应表现出惊恐，回头张望。在她左后方的背景中，加入一个巨大的、几乎全黑的暗影国王剪影，他戴着皇冠，由烟雾、碎石和风暴云构成，形态半虚半实，充满威胁感。在画面中央，展示该女性的两个半透明过渡形态，两人均向右上方移动，身体逐渐消散为金粉、碎裂的大理石碎片、旋绕的织物和乐谱符号。在最右侧，展示女王最终的神圣形态——一位身着飘逸白金古典长裙的璀璨女神，侧脸宁静，仰望上方，头戴金质月桂冠，皮肤散发光芒，长发向后飘动，双臂放松，仿佛正在接受神化。在女神身后，绘制一个由同心圆、放射状光芒和古代天体几何图形组成的大型圆形金色光环。构图应呈现出从左到右的戏剧性叙事弧线：黑暗、逃亡、蜕变、升华。使用高对比度色调，从左侧的黑色、蓝色和血红色过渡到右侧的暖金色、象牙色和白色。画面中充满动态的对角线运动、碎石、羊皮纸般的残片、金箔碎片、发光的尘埃，以及三条横跨图像中下部的优美五线谱带，上面带有清晰的音符，暗示着神圣的古典音乐。风格：史诗巴洛克数字绘画、歌剧式戏剧感、写实解剖、绘画质感、复杂的织物纹理、体积光、爆炸粒子、深邃阴影、神圣光照、高度细节化、16:9 宽屏，无文字，无水印。
+
+[English]
+Create an ultra-wide cinematic mythological fantasy artwork showing {argument name="character name" default="a fleeing queen"} transformed through exactly four visible incarnations from terror to divinity across the canvas. On the far left, place one terrified mortal queen running barefoot through a shattered dark forest-temple landscape, wearing a torn ivory Greco-Roman dress, a small crown, loose windblown dark hair, scratched legs, and a deep red cloak streaming behind her; her face should show panic as she looks back over her shoulder. Behind her in the upper-left background, include exactly one huge shadowy crowned husband-king silhouette, almost black, menacing and half-formed from smoke, broken stone, and storm clouds. Across the center, show exactly two semi-transparent transitional versions of the same woman, both moving rightward and upward, their bodies dissolving into gold dust, cracked marble fragments, swirling fabric, and musical notation. On the far right, show the final divine version of the queen as a radiant goddess in a flowing white-and-gold classical gown, serene profile facing upward, wearing a golden laurel crown, with luminous skin, long hair blown back, and arms relaxed as if accepting apotheosis. Behind the goddess, create a large circular golden halo made of concentric rings, radiant rays, and ancient celestial geometry. The composition should read left-to-right as a dramatic narrative arc: darkness, flight, transformation, ascension. Use a high-contrast palette shifting from black, blue, and blood red on the left to warm gold, ivory, and white on the right. Fill the scene with dynamic diagonal motion, shattered rock, parchment-like debris, gold leaf flakes, glowing dust, and exactly three sweeping musical staff ribbons with visible notes crossing the lower and middle image, suggesting sacred classical music. Style: epic baroque digital painting, operatic drama, photorealistic anatomy, painterly texture, intricate fabric, volumetric light, explosive particles, deep shadows, divine illumination, highly detailed, 16:9 widescreen, no text, no watermark.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2078120628255666330) | 2026-07-17
+
+---
+
+### 🏷️ 例 4332：插画优化与修复
+
+![插画优化与修复](../images/%E6%8F%92%E7%94%BB%E4%BC%98%E5%8C%96%E4%B8%8E%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请参考原图进行创作，并保持其原始长宽比。维持原有的构图、摄像机角度、主体姿势以及艺术作品的整体魅力。
+
+将图像重构为超高质量、高度精细且经过精美优化的插画。在保留角色特征和整体设计的同时，通过更高的视觉保真度增强每一个元素。
+
+细腻地呈现角色的发丝，使其具有自然的流动感。对服装、配饰、环境、场景、光影、纹理和背景进行精细化处理，赋予其复杂的细节和精致的艺术质感。
+
+如果角色、配饰、环境或背景的任何部分出现扭曲、变形、不一致或解剖结构错误，请进行无缝修复和稳定处理，使其看起来自然、连贯且视觉上完美无瑕，同时忠实于原始艺术作品。
+
+请勿更改原始图像的构图、透视、摄像机角度、主体姿势或整体氛围。在不改变艺术作品精髓的前提下提升画质。
+
+[English]
+Use the reference image while preserving its original aspect ratio. Maintain the original composition, camera angle, subject pose, and the overall charm of the artwork.
+
+Recreate the image as an ultra-high-quality, highly detailed, and beautifully refined illustration. Preserve the character's identity and overall design while enhancing every element with greater visual fidelity.
+
+Render the character's hair with fine, delicate strands and natural flow. Beautifully refine the clothing, accessories, environment, scenery, lighting, textures, and background with intricate details and a polished artistic finish.
+
+If any part of the character, accessories, environment, or background appears distorted, deformed, inconsistent, or anatomically incorrect, seamlessly repair and stabilize those areas so they look natural, coherent, and visually flawless while remaining faithful to the original artwork.
+
+Do not alter the composition, perspective, camera angle, subject pose, or the overall atmosphere of the original image. Enhance the quality without changing the essence of the artwork.
+```
+
+**来源：** [@月詠〜ツクヨミ〜](https://x.com/tsukuyomi2021/status/2078077251812499560) | 2026-07-17
+
+---
+
+### 🏷️ 例 4345：深空中的宇宙披萨星球
+
+![深空中的宇宙披萨星球](../images/%E6%B7%B1%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%AE%87%E5%AE%99%E6%8A%AB%E8%90%A8%E6%98%9F%E7%90%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="food" default="披萨"} 漂浮在 {argument name="environment" default="深空"} 中，完美烘焙的金色饼边构成了行星的边缘，熔化的马苏里拉芝士形成翻滚的海洋，浓郁的番茄酱汇成河流，新鲜罗勒叶构成茂密的森林，高耸的意大利辣香肠、蘑菇、橄榄、烤甜椒和帕玛森芝士悬崖拔地而起。披萨表面建有微小的发光城市，温暖的灯光透过饼皮闪烁。一个 {argument name="orbital ring" default="由脆面包棒和香草组成的环"} 像土星环一样优雅地环绕着这颗行星。无数恒星、绚丽的星云和遥远的星系环绕四周，电影般的阳光照亮了熔化的芝士，呈现出令人垂涎的真实感。超写实食物纹理，极致细节，奇幻世界构建，体积光，戏剧性构图，色彩鲜艳，8K 分辨率，杰作，照片级真实感，令人惊叹的宇宙食物艺术。
+
+[English]
+{argument name="food" default="pizza"} floating in {argument name="environment" default="deep space"}, featuring a perfectly baked golden crust forming the planetary edge, oceans of bubbling melted mozzarella cheese, rivers of rich tomato sauce, lush forests of fresh basil, towering mountains of pepperoni, mushrooms, olives, roasted peppers, and parmesan cliffs. Tiny glowing cities are built into the pizza surface with warm lights shining through the crust. A {argument name="orbital ring" default="ring of crispy breadsticks and herbs"} gracefully orbits the planet like Saturn's rings. Countless stars, colorful nebulae, and distant galaxies surround the scene, while cinematic sunlight illuminates the melted cheese with irresistible realism. Hyper-realistic food textures, ultra-detailed, fantasy world-building, volumetric lighting, dramatic composition, vibrant colors, 8K, masterpiece, photorealistic, breathtaking cosmic food art.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2078053751689195804) | 2026-07-17
+
+---
+
+### 🏷️ 例 4352：未来感动漫跳跃
+
+![未来感动漫跳跃](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%8A%A8%E6%BC%AB%E8%B7%B3%E8%B7%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满活力的竖版动漫插画，描绘一位开朗的年轻女性在明亮的未来主义城市建筑群中跳跃。主体为 {argument name="character age and vibe" default="一位充满冒险精神、运动风的开朗年轻女性"}，全身呈现从左下到右上的动态对角线姿势，一只手臂向外伸展，一只膝盖抬起，仿佛正在跳跃或飞行。她留着飘逸的 {argument name="hair color" default="深棕色长发"}，发丝随风飘动，眼神温暖传神，面带微笑看向右上方。服装：白色短款机能风夹克，配有橙色绑带和小扣环，黄色运动抹胸，带有灰色拼接的白色短裤，橙色背带细节，白色短袜，以及带有橙色点缀的厚底白色运动鞋；包含 6 条从夹克和腰间飘动的清晰可见的橙色绑带/丝带。背景：错综复杂的白蓝配色科幻基础设施环境，包含模块化塔楼、圆柱形舱体、玻璃穹顶、空中走廊、脚手架、轨道、缆线和技术线条，如同干净的未来空间站或高架城市实验室。添加青色、钴蓝色、橙色、洋红色和黄色的生动平面设计元素：包含 5 个大型色带或色块、2 个圆形目标状图形母题，以及许多精细的蓝图弧线、圆点和施工线条。使用以白色为主的画布，搭配清晰的细墨线勾勒、精准的机械细节、赛璐珞风格动漫渲染、明亮的日光、通透的构图，营造出动感与乐观的氛围。在右下角放置一个小的手写签名和日期文本 {argument name="date text" default="2026 年 7 月 17 日"}。避免照片写实风格、阴暗色调、杂乱的文字、多余的角色或肢体被裁剪。
+
+[English]
+Create a high-energy vertical anime illustration of a cheerful young woman leaping through a bright futuristic architectural cityscape. The subject is {argument name="character age and vibe" default="a cheerful young adult woman with an adventurous, sporty vibe"}, shown full body in a dynamic diagonal pose from lower left to upper right, one arm stretched outward and one knee raised as if jumping or flying. She has long flowing {argument name="hair color" default="dark brown hair"} with wind-swept strands, warm expressive eyes, and a smiling face looking upward to the right. Outfit: a white cropped techwear jacket with orange straps and small buckles, a yellow sports crop top, white short shorts with grey panels, orange harness details, white socks, and chunky white sneakers with orange accents; include exactly 6 clearly visible orange strap/ribbon pieces fluttering from the jacket and waist. Background: an intricate white-and-blue sci-fi infrastructure environment with modular towers, cylindrical pods, glass domes, sky bridges, scaffolding, rails, cables, and technical linework, like a clean futuristic space station or elevated urban lab. Add vivid graphic design accents in cyan, cobalt blue, orange, magenta, and yellow: exactly 5 large colored bands or panels, 2 circular target-like graphic motifs, and many fine blueprint arcs, dots, and construction lines. Use a mostly white canvas with crisp thin ink outlines, precise mechanical detail, cel-shaded anime rendering, bright daylight, airy composition, and a sense of motion and optimism. Place a small handwritten signature and date text {argument name="date text" default="July 17, 2026"} in the bottom-right corner. Avoid photorealism, dark mood, cluttered text, extra characters, or cropped limbs.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2078029271873011935) | 2026-07-17
+
+---
+
+### 🏷️ 例 4385：月光下的哥特奇幻旅人
+
+![月光下的哥特奇幻旅人](../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%93%A5%E7%89%B9%E5%A5%87%E5%B9%BB%E6%97%85%E4%BA%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节丰富的正方形奇幻插画，采用复古雕版故事书插图风格，并带有手绘墨水渲染效果。在前景左侧偏中位置，展示 {argument name="character name" default="一位年轻的男性旅人"} 的胸部以上特写，他拥有 {argument name="hair color" default="带有月光般浅色高光的深色卷发"}、浓密的眉毛、古铜色皮肤，正抬头凝望星空，神情沉思。他身穿 {argument name="cloak color" default="暖棕色"} 的粗糙中世纪斗篷，内搭浅色连帽束腰外衣或围巾，画面包含浓重的交叉排线、蚀刻阴影和富有质感的布料褶皱。在他身后，描绘一座广阔的夜间中世纪城市，密布着陡峭屋顶的房屋、狭窄的塔楼、烟囱以及点点琥珀色的发光窗户。在地平线右侧，矗立着一座巨大的哥特式大教堂城堡，拥有众多尖塔、飞扶壁般的细节、针状塔楼，部分窗户透出暖光。天空呈现深靛黑色，点缀着 25 颗大小不一、醒目的金色八角星，以及密集的细小星光；左上方放置一轮奶油色、带有环形山的满月。在教堂后方及天际线处增加忧郁的蓝灰色云层。在右下角前景处加入一段石砌护栏或墙壁，暗示旅人正站在高处俯瞰。使用午夜蓝、赭金、深褐、奶油色和柔和灰色的有限色调，营造出戏剧性的月光轮廓光、旧世界浪漫奇幻氛围，线条细致入微，呈现纸张纹理，无现代物品，无文字，无水印。
+
+[English]
+Create a richly detailed square fantasy illustration in the style of a vintage engraved storybook plate with hand-colored ink washes. In the foreground, show {argument name="character name" default="a young male traveler"} from the chest up, positioned left of center, with {argument name="hair color" default="dark wavy hair with pale moonlit highlights"}, strong brows, tan skin, and an upward, contemplative gaze toward the starry sky. He wears a rough medieval cloak in {argument name="cloak color" default="warm brown"} over a pale hooded tunic or scarf, with heavy cross-hatching, etched shadows, and textured fabric folds. Behind him, create a vast nocturnal medieval city of tightly packed steep-roofed houses, narrow towers, chimneys, and tiny glowing amber windows. On the right side of the horizon, make an immense Gothic cathedral-castle rise above the city, with many spires, flying buttress-like details, needle towers, and warm lights in selected windows. The sky is deep indigo-black and filled with exactly 25 prominent golden eight-point stars of varied sizes plus dense tiny speckled starlight; place a large full moon in the upper left, cream colored and cratered. Add moody blue-gray clouds behind the cathedral and along the skyline. Include a stone parapet or wall along the lower right foreground to suggest the traveler is standing on a high overlook. Use a limited palette of midnight blue, ochre gold, sepia brown, cream, and muted gray, with dramatic moonlit rim light, old-world romantic fantasy atmosphere, meticulous linework, visible paper grain, no modern objects, no text, no watermark.
+```
+
+**来源：** [@D](https://x.com/D_the_Designer/status/2077910948049023250) | 2026-07-17
+
+---
+

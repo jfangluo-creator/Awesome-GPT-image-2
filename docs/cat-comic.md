@@ -6529,3 +6529,119 @@ Customizable elements: The homework theme is {argument name="homework poster the
 
 ---
 
+### 🎬 例 4337：漫画猫耳少女劝架
+
+![漫画猫耳少女劝架](../images/%E6%BC%AB%E7%94%BB%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E5%8A%9D%E6%9E%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅简洁的黑白漫画插画，背景为纯白色，画面中共有三名动漫少女，呈现紧张的对峙状态，采用腰部至大腿中部的构图，横向 4:3 比例。中间的角色是 {argument name="center character" default="一位短发猫耳少女"}，留着浅色波波头，长着一对巨大的动物耳朵，眼神犀利自信，身穿简单的白色大码 T 恤和牛仔裤；她面向前方站在另外两人中间，双臂向两侧平伸，手掌分别按在另外两人的胸口或肩膀上，仿佛在物理阻拦她们争吵，嘴巴微张，仿佛正在训斥。左侧的角色是 {argument name="left character" default="一位戴眼镜、扎着凌乱低发髻的黑发少女"}，戴着圆框眼镜，留着刘海，身穿叠穿在翻领或罗纹领口外的大码毛衣，穿着深色长裤；她愤怒地向内倾身，嘴巴张开，一只手抬起靠近胸前。右侧的角色是 {argument name="right character" default="一位留着凌乱短黑发的少女"}，身穿塞进高腰深色牛仔裤里的宽松大码 T 恤；她咄咄逼人地向内倾身，嘴巴张开，一只手放在被阻拦的胸口处。使用富有表现力的动漫面部表情、动态的肢体语言、线条清晰的墨线画、细腻的排线和灰色阴影、亮黑色的头发高光，背景极简，无文字，除灰度外无其他颜色，呈现清晰的高分辨率漫画素描风格。
+
+[English]
+Create a clean black-and-white manga illustration on a plain white background showing exactly three anime girls in a tense confrontation, waist-up to mid-thigh framing, horizontal 4:3 composition. The center character is {argument name="center character" default="a short-haired cat-eared girl"} with pale bobbed hair, large animal ears, sharp confident eyes, and a simple oversized white T-shirt with jeans; she stands facing forward between the other two, arms stretched straight outward, one palm pressed to each girl's chest/shoulder as if physically stopping them from fighting, mouth slightly open as if scolding. On the left is {argument name="left character" default="a bespectacled girl with black hair in a messy low bun"}, wearing round glasses, bangs, an oversized sweater layered over a collared or ribbed neckline, and dark pants; she leans inward angrily with her mouth open, one hand raised near her chest. On the right is {argument name="right character" default="a short messy black-haired girl"}, wearing a loose oversized T-shirt tucked into high-waisted dark jeans; she leans inward aggressively, mouth open, one hand at her chest where she is being held back. Use expressive anime faces, dynamic body language, strong clean ink line art, delicate hatching and gray shading, glossy black hair highlights, minimal background, no text, no color except grayscale, crisp high-resolution manga sketch style.
+```
+
+**来源：** [@けいすけ](https://x.com/kei31/status/2078064067949040084) | 2026-07-17
+
+---
+
+### 🎬 例 4339：日式条漫机甲战斗页面
+
+![日式条漫机甲战斗页面](../images/%E6%97%A5%E5%BC%8F%E6%9D%A1%E6%BC%AB%E6%9C%BA%E7%94%B2%E6%88%98%E6%96%97%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张日式条漫风格的机甲战斗漫画页面，采用戏剧性的对角线分镜、光泽感动漫渲染、强烈的速度线、红紫色科幻光效以及高对比度的电影级动作场面。
+
+画布：长条形漫画页面，比例约为 2:3，全出血设计，分镜间留有黑色间隙，细节丰富，呈现精致的 GPT-image 动漫/条漫质感。
+
+布局：使用 5 个从上到下排列的漫画分镜。分镜 1 为左上角角色特写，分镜 2 为右上角警报屏幕，分镜 3 为中间宽幅驾驶舱/动作反应分镜，分镜 4 为大型宽幅战斗冲锋分镜，分镜 5 为底部近身格斗冲击分镜。
+
+分镜细节：
+1. 左上分镜：一位神情严肃的年轻男军官，金发紫眸，身处未来感驾驶舱内。他穿着华丽的红色军装，配有黑色滚边、金色肩章、勋章、绑带，以及带有金色徽章的红色大檐帽。添加一个垂直的白色日文对话框，内容为「機体の性能差があるとしても、勝敗を決めるものはスペックではないですよ？大佐！」。
+2. 右上分镜：黑暗驾驶舱内的一个红色发光科幻显示器，显示英文警告文本“THOR SYSTEM ACTIVATED”以及一个三角形警报图标。周围环绕红色 UI 边框，顶部重复出现日文拟声词，如「ピピピピピ」，底部附近有一个巨大的红白相间警报拟声词。
+3. 中间分镜：一位神情坚定的年轻女飞行员，留着飘逸的金发，拥有明亮的蓝色双眼，在未来感驾驶舱内紧握双操纵杆向前突进。她穿着干练的白色军装，配有黑色领口、金色纽扣、勋章、肩绳和装饰性徽章。表情凶猛而自信。添加一个锯齿状白色日文对话框，内容为「ふふん！スペックだけで勝敗が決まらんことなど百戦錬磨のワシが一番よく知っている！」。
+4. 大型战斗分镜：两台人型机甲在太空或霓虹战场走廊中高速碰撞。左侧是一台红金配色的骑士型机甲，手持长柄红色能量枪冲锋，身后拖着如蜂群般的红色残影或友军单位。右侧是一台蓝紫色重装甲机甲，手持大盾与剑严阵以待。使用汇聚于碰撞点的爆炸性红紫色速度线。添加巨大的日式风格冲击拟声词，如「ドォンン!!」和「ギュンッ!!」。
+5. 底部分镜：决斗的近距离特写：红色机甲的长枪刺中或击中紫色机甲的盾牌/装甲，火花与碎片四溅。红色机甲在左，紫色机甲在右，伴随强烈的动态模糊和明亮的能量流。在左侧添加一个垂直的白色日文对话框，内容为「もらった！」。
+
+视觉风格：日式条漫，高细节动漫脸，锐利的线条，饱和的红紫色光效，金属机甲渲染，戏剧性的透视，密集的特效，发光的能量武器，电影级科幻驾驶舱内饰，带有白色轮廓和红/黑色填充的醒目漫画拟声词。
+
+关键可自定义元素：男军官应为 {argument name="male officer uniform color" default="red"}；女飞行员应为 {argument name="female pilot uniform color" default="white"}；警报屏幕文本应为 {argument name="alert screen text" default="THOR SYSTEM ACTIVATED"}；左侧机甲应为 {argument name="left mecha color" default="red and gold"}；右侧机甲应为 {argument name="right mecha color" default="blue-purple and silver"}。
+
+约束条件：保持 5 个分镜，3 个对话框，并保留日式漫画页面的感觉。不要添加额外的角色、额外的分镜、水印、页码，或显示器文本以外的英文旁白。
+
+[English]
+Goal: Create a vertical Japanese webtoon-style mecha battle manga page with dramatic diagonal paneling, glossy anime rendering, intense motion lines, red and purple sci-fi lighting, and high-contrast cinematic action.
+
+Canvas: Tall vertical comic page, approximately 2:3 aspect ratio, full bleed, black gutters between panels, dense detail, polished GPT-image anime/webtoon look.
+
+Layout: Use exactly 5 comic panels arranged from top to bottom. Panel 1 is the upper-left character close-up, panel 2 is the upper-right warning screen, panel 3 is a wide middle cockpit/action reaction panel, panel 4 is a large wide battle charge panel, and panel 5 is the bottom close-combat impact panel.
+
+Panel details:
+1. Upper-left panel: A stern young male officer with blond hair and purple eyes stands in a futuristic cockpit. He wears an ornate red military uniform with black trim, gold epaulettes, medals, straps, and a red peaked cap with a gold crest. Add one vertical white Japanese speech bubble reading 「機体の性能差があるとしても、勝敗を決めるものはスペックではないですよ？大佐！」.
+2. Upper-right panel: A red glowing sci-fi monitor in a dark cockpit, displaying the English warning text “THOR SYSTEM ACTIVATED” with a triangular alert icon. Surround it with red UI frames and Japanese sound effect lettering repeated at the top, like 「ピピピピピ」, plus a large red-white alarm sound effect near the bottom.
+3. Middle panel: A determined young female pilot with long flowing blonde hair and bright blue eyes lunges forward gripping twin control handles inside a futuristic cockpit. She wears a crisp white military uniform with black collar, gold buttons, medals, shoulder cords, and decorative pins. Her expression is fierce and confident. Add one jagged white Japanese speech bubble reading 「ふふん！スペックだけで勝敗が決まらんことなど百戦錬磨のワシが一番よく知っている！」.
+4. Large battle panel: Two humanoid mecha clash at extreme speed in outer-space or a neon battlefield corridor. On the left, a red-and-gold armored knight-like mecha charges with a long red energy lance, followed by a swarm-like trail of red afterimages or allied units. On the right, a blue-purple heavily armored mecha with a large shield and sword braces for impact. Use explosive red and violet speed lines converging at the clash. Add large stylized Japanese impact sound effects such as 「ドォンン!!」 and 「ギュンッ!!」.
+5. Bottom panel: Close-up continuation of the duel: the red mecha’s lance pierces or strikes the purple mecha’s shield/armor at point-blank range, scattering sparks and debris. The red mecha is on the left, purple mecha on the right, with extreme motion blur and bright energy streaks. Add one vertical white Japanese speech bubble on the left reading 「もらった！」.
+
+Visual style: Japanese webtoon manga, high-detail anime faces, sharp line art, saturated red and purple lighting, metallic mecha rendering, dramatic perspective, dense speed effects, glowing energy weapons, cinematic sci-fi cockpit interiors, bold manga sound effects with white outlines and red/black fills.
+
+Key customizable elements: The male officer should be {argument name="male officer uniform color" default="red"}; the female pilot should be {argument name="female pilot uniform color" default="white"}; the alert screen text should read {argument name="alert screen text" default="THOR SYSTEM ACTIVATED"}; the left mecha should be {argument name="left mecha color" default="red and gold"}; the right mecha should be {argument name="right mecha color" default="blue-purple and silver"}.
+
+Constraints: Keep exactly 5 panels, exactly 3 speech bubbles, and preserve the Japanese manga page feel. Do not add extra characters, extra panels, watermarks, page numbers, or English narration outside the monitor text.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2078059847023788493) | 2026-07-17
+
+---
+
+### 🎬 例 4366：单色动漫男高中生表情设定集
+
+![单色动漫男高中生表情设定集](../images/%E5%8D%95%E8%89%B2%E5%8A%A8%E6%BC%AB%E7%94%B7%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A1%A8%E6%83%85%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="一名十几岁的高中男生"} 创建一张单色动漫角色参考图，包含一个全身站立姿势和 4 个独立的半身表情变化。
+
+画布：纵向白色画布，简洁的空白背景，高分辨率黑白漫画铅笔/墨水风格，带有柔和的灰色阴影和素描线条质感。
+
+布局：左侧放置 1 个全身角色插图，占据大部分高度。右侧垂直堆叠放置 4 个半身肖像，从上到下均匀分布。无需标签、说明文字或装饰性背景元素。
+
+主体细节：该角色是一名身材苗条、身高适中的日本动漫高中男生，留着凌乱的层次感黑发，刘海微乱，眼神锐利而年轻，肤色白皙，具有主角气质。他穿着夏季校服：短袖白色衬衫，带有细微褶皱，领带松开，灰色直筒西裤，黑色皮带配金属扣，以及光亮的黑色乐福鞋。衬衫略显褶皱，领带随意垂下，营造出自然的日常学生形象。
+
+全身姿势：全身人像站姿放松，一只手插在裤兜里，另一只手抬至胸前，手指自然放松，身体略微面向观众。表情平静，带着淡淡的微笑。
+
+表情变化：右侧包含 4 个半身肖像：1) 闭眼张嘴的开怀大笑；2) 眼神犀利、张嘴大喊的愤怒表情；3) 眼神低垂、眉头微皱的悲伤或困扰表情；4) 眯眼自信的顽皮坏笑。每个半身像均保持相同的发型、校服衬衫和松开的领带，裁剪至肩膀或上胸部位置。
+
+视觉风格：精致的少年漫画角色艺术，线条清晰自信，排线细腻，发丝生动，衣物褶皱处有微妙的灰度阴影，呈现出既精致又具素描感的角色设定图。比例优雅自然，面部表情丰富。
+
+约束条件：仅使用黑色、白色和灰色调。总共包含 5 个独立的独立角色绘图：1 个全身站立姿势加 4 个半身表情肖像。不要添加任何文字、颜色、道具、学校背景、水印、签名或额外角色。
+
+[English]
+Goal: Create a monochrome anime character reference sheet for {argument name="character name" default="a teenage high school boy"} with one full-body standing pose and exactly 4 separate bust expression variations.
+
+Canvas: Portrait-oriented white canvas, clean empty background, high-resolution black-and-white manga pencil/ink style with soft gray shading and sketchy line-art texture.
+
+Layout: Place 1 full-body character illustration on the left, occupying most of the height. Place exactly 4 bust portraits stacked vertically on the right, evenly spaced from top to bottom. No labels, no captions, no decorative background elements.
+
+Subject details: The character is a slim, average-height Japanese anime high school boy with messy layered black hair, slightly tousled bangs, sharp but youthful eyes, pale skin, and a protagonist-like presence. He wears a summer school uniform: short-sleeved white button-up shirt with subtle wrinkles, loosened dark necktie, gray straight-leg slacks, black belt with metal buckle, and glossy black loafers. The shirt is slightly rumpled and the tie hangs casually to create a natural everyday-student look.
+
+Full-body pose: The full-body figure stands relaxed with one hand in his pants pocket and the other hand lifted near chest height with loose fingers, facing slightly toward the viewer. His expression is calm and faintly smiling.
+
+Expression variations: Include exactly 4 bust portraits on the right: 1) bright laughing smile with eyes closed and open mouth, 2) angry shouting expression with intense eyes and open mouth, 3) sad or troubled expression with downturned eyes and a small frown, 4) confident mischievous smirk with narrowed eyes. Each bust keeps the same hairstyle, uniform shirt, and loosened tie, cropped around the shoulders or upper chest.
+
+Visual style: Detailed shonen manga character art, clean confident linework, delicate crosshatching, expressive hair strands, subtle grayscale shading on clothing folds, polished yet sketch-like character sheet presentation. Keep proportions elegant and natural, with strong facial expressiveness.
+
+Constraints: Use only black, white, and gray tones. Include exactly 5 discrete character drawings total: 1 full-body standing pose plus 4 bust expression portraits. Do not add text, color, props, school background, watermark, signature, or extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077968013127823686) | 2026-07-17
+
+---
+

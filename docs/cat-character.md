@@ -5793,3 +5793,154 @@ Using the provided reference image, restore and enhance it into a clean, realist
 
 ---
 
+### 🧍 例 4364：剧场版动画赛博格角色设定表
+
+![剧场版动画赛博格角色设定表](../images/%E5%89%A7%E5%9C%BA%E7%89%88%E5%8A%A8%E7%94%BB%E8%B5%9B%E5%8D%9A%E6%A0%BC%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+使用参照:
+本指示書と同時に添付された{argument name="参照画像枚数" default="人物参照画像1枚"}
+実写人物または人物イラストのどちらにも対応する
+
+本文:
+添付された人物参照画像1枚をもとに、1:1スクエアの共有用・動画参照兼用の簡易キャラクターシートを作成する。
+目的は、{argument name="動画の長さとテーマ" default="15秒の劇場アニメ調動画「サイボーグ女性とロボットアクション」"}に登場する、サイボーグ女性と相棒ロボットの主要デザインを1枚で固定すること。
+これはキャラクター固定用シートであり、ストーリーボードではない。戦闘場面、時間進行、背景世界、カメラの流れ、複数場面の展開は入れない。
+
+【参照画像の扱い】
+女性の顔立ち、目元、輪郭、髪型、前髪、髪色、年齢感、顔まわりの印象を参照画像から継承する。
+体型、頭身、全身比率、サイボーグ本体、戦闘スーツ、機械部位、武装、全体シルエットは本指示書を優先し、参照画像の体型、衣装、背景、ポーズ、小物は再現しない。
+実写参照では、目の横幅、まぶた、鼻筋、口元、顔幅など人物固有の特徴を残し、一般的な美少女顔へ寄せすぎない。写真感を残さず、肌、目、髪、輪郭、陰影まで統一された高品質な劇場アニメキャラクターへ変換する。
+イラスト参照では、顔と髪型を中心とした人物情報のみを継承する。参照イラストの画風、線画、塗り、陰影、衣装、体型、構図、背景、デザイン密度、画面構成、レイアウトは継承せず、本指示書を優先する。
+実写風、半実写風、3D CG風、過度な幼児化、別人化、安いテレビアニメ風にはしない。参照画像にない大きな髪飾りや象徴的アクセサリーを新規追加しない。
+
+【固定デザインと色彩】
+基本配色はホワイト、シルバー、ダークネイビー、サムライブルー。
+外装装甲はホワイトとシルバー。胴体、脇腹、腰、内腿、関節、装甲の隙間にはダークネイビーまたはチャコールを十分に配置し、白背景でも輪郭を明確にする。
+サムライブルーは細い発光線ではなく、航空機の機体塗装を思わせる広い曲面、流線、斜めの帯として装甲表面に配置する。光やオーラではなく明確な塗装面として見せ、必要な箇所のみ縁に弱い発光を加えてよい。
+参照画像に明確な特徴色がある場合は1色を抽出し、全体の約3〜8％の副アクセントとして女性とロボットへ反映する。
+女性では耳周辺装置、胸部、小面積装甲、ブレード基部など3〜5か所に使う。参照画像に髪飾りがある場合のみ、その髪飾りにも継承してよい。
+ロボットではバイザー周辺、肩部、背部ユニット、武器基部、腕部・脚部など2〜4か所に使う。
+参照画像が黒, 青黒, グレーなどの無彩色中心の場合は、存在しない鮮やかな色を作らず、既定の暗色部分の色相、明度、金属感へ反映する。参照色はサムライブルーを置き換えない。
+
+【サイボーグ女性】
+若い成人女性の洗練されたモデル体型。細身で脚が長く、高速近接戦闘に適した機能的で美しい全身バランスとする。
+サムライブルーの色面を、肩から胸部、脇腹から腰、前腕、外腿から脛へ配置する。
+顔全体は機械化せず、こめかみ、耳周辺、首元に繊細な機械接続部を入れる。衣装は露出過多を避け、全身を覆う洗練された近未来戦闘スーツとする。
+武装は収納可能な高周波ブレードを基本とし、過剰武装にはしない。
+
+【相棒ロボット】
+女性より一回り大きく、同じ画面内で並走、跳躍、近接戦闘、共闘できる高機動型の人型または準人型ロボットとする。
+細身で空力的なシルエット、シャープな頭部、バイザー型センサー、背部ブースター、高機動脚部、片腕の可変武装を特徴とする。
+女性と共通する配色と航空機塗装風の意匠を持たせる。サムライブルーは頭部側面、胸部装甲、前腕、脚部外側、背部ユニットへ明確な色面として配置する。
+量産機風、巨大兵器、古いスーパーロボット風、玩具風、極端な重装甲、過剰な突起、複雑すぎる構造にはしない。
+
+【レイアウト】
+1:1スクエア。背景は白の無地。段構成、配置、順番、比率は変更しない。
+上段：約50％、横4区画。
+01 FRONT:
+女性の正面全身。頭頂から靴底まで完全に収める。
+02 SIDE:
+女性の側面全身。髪、胴体、脚部、背部構造の奥行きを見せる。
+03 BACK:
+女性の背面全身。後頭部、背部構造、腰部、脚部、武器収納部を見せる。
+04 ROBOT:
+相棒ロボットの正面直立全身1体。頭頂から足先まで完全に収め、中央に配置する。
+武装は収納状態または下向きの待機状態とし、全身シルエットを隠さない。
+動的な戦闘ポーズ、斜め向き、上半身のみ、武器単体にはしない。
+この全身像を下段右の詳細4枠の基準機体とする。
+中段：約22％。
+05 EXPRESSIONS:
+女性の顔を同倍率、同じ髪型、同じ顔立ちで横一列に5点配置する。
+NEUTRAL / FOCUSED / DETERMINED / AGGRESSIVE / CALM
+下段：約28％。
+左側約60％をFACE、右側約40％をROBOT DETAILSとする。
+FACE:
+女性の顔を同程度の大きさで3点配置する。
+FRONT FACE / 3/4 FACE / SIDE FACE
+目、輪郭、鼻、口元、前髪、髪の分け方、耳周辺の機械部位を明確に見せる。
+ROBOT DETAILS:
+右側約40％を、区切り線のある均等な2列×2段の4枠として固定する。
+04 ROBOTと同一機体の動画参照用構造資料とし、各枠の役割を重複させない。
+左上 ROBOT HEAD:
+頭部、バイザー、側面装甲、首接続部。胸部や腕部を主役にしない。
+右上 ARM / WEAPON:
+片腕と、その腕に接続された可変武装。腕、関節、武器基部、接続構造を見せ、武器単体にはしない。
+左下 BACK / BOOSTER:
+背面上半身を真後ろから表示する。背部ユニット、ブースター、推進装置、背面装甲、接続部を明確に見せる。
+頭部接写や胸部正面の再表示にはしない。
+右下 LEG:
+膝から足先までの片脚。膝関節、脛装甲、足首、足先、推進または着地機構を見せる。
+腕部、肩部、武器を混在させない。
+
+【文字・品質・禁止事項】
+画像内には指定された短い英語見出しのみを入れる。
+タイトル、説明文、人物名、ロボット名、長文ラベル、ロゴ、透かし、装飾文字は入れない。
+高品質な劇場アニメの公式設定資料のように、明るく整理され、共有できる完成度とする。
+女性の全身3点、表情5点、顔3点は同一人物として統一する。ロボットの全身1点と詳細4点は同一機体として統一する。
+白背景と白装甲の同化、白と細い発光線だけの配色、参照色の消失、参照色による全体配色の支配を避ける。
+ストーリーボード化、背景都市、群衆、量産機、戦闘場面、爆発、斬撃エフェクト、光の軌跡、残像、速度線は入れない。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2077971266833899593) | 2026-07-17
+
+---
+
+### 🧍 例 4369：哥特风女孩角色三视图设定集
+
+![哥特风女孩角色三视图设定集](../images/%E5%93%A5%E7%89%B9%E9%A3%8E%E5%A5%B3%E5%AD%A9%E8%A7%92%E8%89%B2%E4%B8%89%E8%A7%86%E5%9B%BE%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一名名为 {argument name="character name" default="未命名女孩"} 的哥特风绘本角色创建一个详细的角色三视图参考图，包含标注设计说明及一只黑猫伙伴。
+
+画布：宽屏 16:9 角色设定图，采用柔和的灰色摄影棚背景，柔和的电影级光效，呈现出类似 3D 玩偶的写实渲染效果，比例略带 Tim Burton 风格的诡异感。使用整洁的编辑排版，配以黑色大写标注文字和细箭头引线。
+
+布局：从左至右排列同一女孩的 3 个全身视图：1) 正面视图，2) 侧面视图，3) 背面视图。在每个视图上方放置对应的粗体大写黑色标题，并带有细下划线。女孩 9 岁，身材娇小纤细，面容如瓷器般苍白，大大的灰眼睛，小嘴，表情庄重。每个视图中都包含黑猫伙伴，正面视图中猫咪需停在她的肩头。
+
+主体细节：女孩拥有 {argument name="hair color and style" default="乌黑波波头配齐刘海"} 以及一侧的 {argument name="hair accessory" default="深红色蝴蝶结发饰"}。她的服装由 5 件主要单品组成：1) 海军蓝丝绒外套配黄铜纽扣，2) 白色圆领彼得潘领，3) 黑白条纹连裤袜，4) 棕色系带短靴，5) 深红色发带。外套为 A 字型，及膝长度，深海军蓝丝绒材质，正面和袖口有明显的黄铜纽扣细节。侧面视图需展示清晰的外套轮廓和纤细体型。背面视图需展示外套背面和头发细节。
+
+猫咪细节：包含一只毛色油亮的黑猫伙伴，绿眼睛，佩戴深红色丝带项圈及小铃铛。整张图中共展示 5 种可见的猫咪姿态：1) 正面视图中猫咪停在女孩左肩，尾巴卷曲，2) 正面视图中猫咪站在她脚边面向前方，3) 侧面视图中猫咪侧身站立，尾巴拱起，4) 背面视图中较小的猫咪在女孩腿部附近背对镜头，5) 背面视图中猫咪侧身，尾巴长而卷曲。
+
+文字内容与标注：添加 15 个带箭头的标注标签，使用大写黑色字体：1) 年龄：9 岁，2) 身高：[指定大致高度]，3) 乌黑波波头配深红色发带，4) 海军蓝丝绒外套配黄铜纽扣，5) 条纹连裤袜，6) 棕色系带短靴，7) 黑猫（次要主体），8) 绿眼睛，9) 深红色铃铛项圈，10) 纤细体型，11) 外套轮廓，12) 猫咪姿态，13) 头发细节，14) 外套背面，15) 正面视图 / 侧面视图 / 背面视图（作为三个顶部标题）。箭头需精准指向相关的头发、外套、连裤袜、靴子、猫眼、项圈、体型和外套轮廓。
+
+视觉风格：暗黑奇幻角色设计，精致的概念艺术参考图，丝绒、皮靴、光亮黑猫毛发的写实纹理，人物下方有微妙的阴影，无装饰边框。保持构图平衡且易读，留出充足的灰色负空间用于标注。避免出现额外角色、多余宠物、Logo、水印或无关文字。
+
+[English]
+Goal: Create a detailed character turnaround reference sheet for a gothic storybook child character named {argument name="character name" default="unnamed girl"}, with annotated design notes and a black cat companion.
+
+Canvas: Wide horizontal 16:9 character-spec sheet on a muted gray studio background, soft cinematic lighting, realistic 3D doll-like rendering with slightly eerie Tim Burton-inspired proportions. Use a clean editorial layout with black uppercase annotation text and thin arrow callouts.
+
+Layout: Show exactly 3 full-body views of the same girl arranged left to right: 1) FRONT VIEW, 2) SIDE VIEW, 3) BACK VIEW. Place each heading above the corresponding figure in bold uppercase black text with a thin underline. The girl is age 9, short and slender, with a pale porcelain face, large gray eyes, small mouth, and solemn expression. Include the black cat companion in every view, with the front view also showing the cat perched near her shoulder.
+
+Subject details: The girl has {argument name="hair color and style" default="jet black bob hair with blunt bangs"} and a {argument name="hair accessory" default="crimson ribbon bow"} on one side. Her outfit consists of exactly 5 main clothing pieces: 1) navy velvet coat with brass buttons, 2) white rounded Peter Pan collar, 3) black-and-white striped tights, 4) brown lace-up ankle boots, 5) crimson hair ribbon. The coat is A-line, knee-length, dark navy velvet, with visible brass buttons down the front and cuff details. In the side view, show a clear coat profile and slender build. In the back view, show the back of the coat and hair detail.
+
+Cat details: Include a sleek black cat companion with green eyes, a crimson ribbon collar, and a small bell. Across the sheet, depict exactly 5 visible cat appearances/poses: 1) front view cat perched on the girl's left shoulder with curled tail, 2) front view standing cat near her feet facing forward, 3) side view standing cat in profile with arched tail, 4) back view smaller rear-facing cat near the girl's legs, 5) back view side-facing cat with long curled tail.
+
+Text content and callouts: Add exactly 15 annotation labels with arrows, in uppercase black lettering: 1) AGE: 9, 2) HEIGHT: [Specify roughly], 3) JET BLACK BOB HAIR WITH CRIMSON RIBBON, 4) NAVY VELVET COAT WITH BRASS BUTTONS, 5) STRIPED TIGHTS, 6) BROWN LACE-UP BOOTS, 7) BLACK CAT (SUB-SUBJECT), 8) GREEN EYES, 9) CRIMSON RIBBON COLLAR WITH BELL, 10) SLENDER BUILD, 11) COAT PROFILE, 12) CAT POSE, 13) HAIR DETAIL, 14) BACK OF COAT, 15) FRONT VIEW / SIDE VIEW / BACK VIEW as the three top headings. Use arrows pointing precisely to the relevant hair, coat, tights, boots, cat eyes, collar, body build, and coat silhouette.
+
+Visual style: Dark whimsical character design, polished concept-art reference sheet, realistic textures on velvet, leather boots, glossy black cat fur, subtle shadows under figures, no decorative border. Keep the composition balanced and readable, with ample gray negative space for annotations. Avoid extra characters, extra pets, logos, watermarks, or unrelated text.
+```
+
+**来源：** [@こはく](https://x.com/Kohaku_NFT/status/2077955103827599717) | 2026-07-17
+
+---
+
+### 🧍 例 4378：社交媒体封面一致性 Agent 技能
+
+![社交媒体封面一致性 Agent 技能](../images/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B0%81%E9%9D%A2%E4%B8%80%E8%87%B4%E6%80%A7%20Agent%20%E6%8A%80%E8%83%BD.jpg)
+
+**Prompt:**
+
+```text
+一篇文章丢进去，三轮问答，直接吐出能跑图的封面提示词。不用懂设计，不用自己写 prompt，画幅固定 3:4，人脸还能保持一致👇 👹整个工作流程如下: 1、skill 安装与首次配置（存一张自己的正脸照 + 确认生图模型） 2、把文章内容丢给 agent，自动读完提炼 3、第一轮：根据内容推荐构图风格（共 10 种任选）+ 自动想好候选标题 4、第二轮：人脸参考图 + UI 截图/产品图等素材 5、第三轮：表情、背景色调、字体、字色一次选完，懒得选就全交给模型 6、输出完整提示词：3:4 构图、安全区、图1人脸 + 图2素材的多参考图写法全都带上 7、拿去即梦 / Nano Banana / GPT-Image 跑图（如果你的agent配置了生图API可以直接让它在对话中生成） 8、核对标题有没有错字，不满意哪项改哪项重新生成 🧐Tips: 生图模型一定要选支持多参考图的，不然人脸一致性保不住 skill 内置了 8 组按真实爆款封面逆向还原的示例提示词，模型会自动拿它们做参照，出图具体度直接拉满
+```
+
+**来源：** [@狗哥笔记](https://x.com/pyang1235005/status/2077941050652623196) | 2026-07-17
+
+---
+

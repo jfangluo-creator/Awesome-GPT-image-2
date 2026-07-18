@@ -8596,3 +8596,141 @@ Use the uploaded image as the ONLY facial reference with strict identity preserv
 
 ---
 
+### 🎨 例 4316：极简诊断 API 测试
+
+![极简诊断 API 测试](../images/%E6%9E%81%E7%AE%80%E8%AF%8A%E6%96%AD%20API%20%E6%B5%8B%E8%AF%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个简单的 {argument name="shape and color" default="蓝色圆形"}，居中放置在纯色的 {argument name="background color" default="白色"} 背景上，无文字，无水印
+
+[English]
+A simple {argument name="shape and color" default="blue circle"} centered on a plain {argument name="background color" default="white"} background, no text, no watermark
+```
+
+**来源：** [@ziikoo](https://x.com/xu13054/status/2078170139825262943) | 2026-07-17
+
+---
+
+### 🎨 例 4317：奇幻马戏团表演
+
+![奇幻马戏团表演](../images/%E5%A5%87%E5%B9%BB%E9%A9%AC%E6%88%8F%E5%9B%A2%E8%A1%A8%E6%BC%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+小丑与猴子的奇幻盛宴，马戏团帐篷里充满了欢快的尖叫声和惊险刺激的绝技表演
+
+[English]
+an enchantment of clowns and monkeys the circus tents burst with delighted shrieks and thrilling feats of derring-do
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2078168467115753799) | 2026-07-17
+
+---
+
+### 🎨 例 4330：夏日天空下的水彩动漫少女
+
+![夏日天空下的水彩动漫少女](../images/%E5%A4%8F%E6%97%A5%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E6%B0%B4%E5%BD%A9%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖构图的动漫风格水彩插画，画面为一位可爱的少女，采用略微仰视的近景四分之三侧面角度，背景是明亮的蓝天、柔和的白云以及一道淡淡的斜向飞机尾迹。少女留着飘逸的 {argument name="hair color" default="浅金色"} 长发，拥有明亮的大眼睛，瞳色为 {argument name="eye color" default="绿色"}，脸颊泛红，表情害羞而若有所思，一只手轻抚嘴边。她戴着一顶 {argument name="cap color" default="红色"} 棒球帽，帽上有精致的格子缝线，后方饰有一个深色的小蝴蝶结或丝带，一侧别着两枚小花发卡，侧编发辫上系着一个小巧的白色蝴蝶结。她的装束由 5 件主要的可见服饰/配饰组成：一件滑落至肩头的白色宽松拉链连帽衫、一件淡黄色短袖上衣、一条绿色格子百褶短裙、一个带有黑色背带和银色拉链头的红色斜挎包，以及那顶红色棒球帽。衣物材质需呈现出轻盈透气感，风将她的头发和连帽衫吹向右侧。使用细腻的棕色线条勾勒，搭配柔和的粉彩配色、半透明的水彩晕染、纸张纹理、柔光效果，营造出梦幻般的夏日氛围。构图动态截取自头部至大腿上部，画面中不含任何文字，无额外角色，不追求写实感，且避免使用强烈的阴影。
+
+[English]
+Create a vertical anime-style watercolor illustration of a cute teenage girl seen from a slightly low, close-up three-quarter angle against a bright blue sky with soft white clouds and a faint diagonal airplane contrail. The girl has long flowing {argument name="hair color" default="pale blonde"} hair, large glossy {argument name="eye color" default="green"} eyes, rosy cheeks, and a shy, thoughtful expression with one hand raised near her mouth. She wears a {argument name="cap color" default="red"} baseball cap with subtle plaid stitching and a small dark bow or ribbon at the back, two small flower hairpins on one side, and a side braid tied with a tiny white bow. Her outfit consists of exactly 5 main visible clothing/accessory pieces: an oversized white zip hoodie slipping off one shoulder, a pale yellow short-sleeve top, a green plaid pleated mini skirt, a red crossbody sling bag with black strap and silver zipper pulls, and the red cap. Make the fabric loose and airy, with wind pushing her hair and hoodie outward to the right. Use delicate thin brown line art, soft pastel colors, translucent watercolor washes, paper grain texture, gentle bloom, and a dreamy light summer atmosphere. Keep the composition cropped dynamically from head to upper thighs, with no text, no extra characters, no photorealism, and no harsh shadows.
+```
+
+**来源：** [@Neve](https://x.com/Neve_AI/status/2078085724222677307) | 2026-07-17
+
+---
+
+### 🎨 例 4331：暗黑浪人武士刀原画
+
+![暗黑浪人武士刀原画](../images/%E6%9A%97%E9%BB%91%E6%B5%AA%E4%BA%BA%E6%AD%A6%E5%A3%AB%E5%88%80%E5%8E%9F%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑风格、超高细节的动漫动作插画，采用 16:9 宽屏电影画幅。在画面中央展示 {argument name="character name" default="一位凶猛的浪人剑客"}，他正冲向前方，手中握着一把武士刀，从左侧前景斜向右下方前景贯穿画面。角色拥有 {argument name="hair style" default="狂野且向外炸开的浓密凌乱长黑发"}、苍白且带有阴影的皮肤、充满杀气的眼神以及 {argument name="eye color" default="闪烁的红眼"}，身穿与周围墨迹融为一体的黑色破烂长袍或斗篷。武士刀应作为视觉核心：一把长长的抛光刀刃，边缘呈现细长的亮白色并带有红色反光，左侧可见装饰精美的深色刀柄，刀身切开飞溅的墨迹与速度线。在人物周围环绕狂暴的抽象黑色墨迹触手、混乱的笔触以及 {argument name="splash color" default="深红色的血迹飞溅"}，布满整个画布；画面中仅包含一名剑客、一把武士刀以及一张在黑暗中可见的中心脸庞。采用粗犷的漫画封面风格，强调极致对比度、密集的线条、速度线、绘画感墨迹纹理、恐怖动作能量，并使用黑、深红、灰、灰白以及少量亮色高光的有限配色方案。背景应为在脏旧羊皮纸色底色上形成的黑色与红色墨迹抽象风暴，画面中不得包含任何可读文字、标志、边框或额外角色。
+
+[English]
+Create a dark, hyper-detailed anime action illustration in a wide cinematic 16:9 frame. Show {argument name="character name" default="a fierce ronin swordsman"} in the center, lunging forward through chaos with a katana held diagonally across the image from the left foreground toward the lower right foreground. The character has {argument name="hair style" default="wild long black hair exploding outward in thick tangled strands"}, pale shadowed skin, an intense glare with {argument name="eye color" default="glowing red eyes"}, and a black tattered robe or cloak that blends into the surrounding ink. The katana should be the dominant visual element: a long polished blade with a thin bright white edge and red reflected glow, ornate dark hilt visible on the left side, cutting through splashes and motion lines. Surround the figure with violent abstract black ink tendrils, chaotic brush strokes, and {argument name="splash color" default="crimson red blood-like splatter"} bursting across the whole canvas; include exactly one swordsman, one katana, and one central face visible through the darkness. Use a gritty manga-cover style with extreme contrast, dense linework, speed lines, painterly ink textures, horror-action energy, and a limited palette of black, deep red, gray, off-white, and small bright highlights. Background should be an abstract storm of black and red splashes on a dirty parchment-gray field, with no readable text, no logo, no border, and no extra characters.
+```
+
+**来源：** [@ヤノ](https://x.com/Ryuki_Yano/status/2078080947090755987) | 2026-07-17
+
+---
+
+### 🎨 例 4336：水晶草莓宝石雕塑
+
+![水晶草莓宝石雕塑](../images/%E6%B0%B4%E6%99%B6%E8%8D%89%E8%8E%93%E5%AE%9D%E7%9F%B3%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+令人惊叹的水晶 {argument name="subject" default="草莓"}，完全由无瑕的 {argument name="material" default="透明水晶玻璃"} 雕刻而成，复杂的切面像珍贵宝石一样折射出彩虹光芒。细小的水晶种子在表面如钻石般闪耀，而翠绿色的叶片则由半透明的翡翠水晶雕琢而成，纹理细腻。草莓从内部散发出柔和的光芒，在 {argument name="surface" default="抛光黑色大理石表面"} 上投射出迷人的光焦散和绚丽的倒影。超写实玻璃质感，奢华珠宝工艺，微距摄影，电影级影棚灯光，浅景深，超精细，照片级真实，优雅，高端奢华美学，8K，杰作。
+
+[English]
+A breathtaking crystal {argument name="subject" default="strawberry"} sculpted entirely from flawless {argument name="material" default="transparent crystal glass"}, with intricate faceted surfaces that refract rainbow light like a precious gemstone. Tiny crystal seeds sparkle like diamonds across the surface, while the emerald-green leaves are carved from translucent jade crystal with delicate veins. The strawberry glows softly from within, creating mesmerizing light caustics and colorful reflections on a {argument name="surface" default="polished black marble surface"}. Ultra-realistic glass textures, luxurious jewelry craftsmanship, macro photography, cinematic studio lighting, shallow depth of field, hyper-detailed, photorealistic, elegant, premium luxury aesthetic, 8K, masterpiece.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2078064149167501407) | 2026-07-17
+
+---
+
+### 🎨 例 4338：当代编辑时尚插画
+
+![当代编辑时尚插画](../images/%E5%BD%93%E4%BB%A3%E7%BC%96%E8%BE%91%E6%97%B6%E5%B0%9A%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高端当代混合媒介编辑插画，描绘了如附图所示的女性，她正自信地向前迈步，象征着自由、蜕变与内在觉醒。主体以动态的时尚编辑步态呈现，双腿自然交叉。她微微仰头望向天空，双眼紧闭，神情宁静，拥抱着希望与无限可能。
+
+主体穿着 {argument name="outfit" default="一件超大款哑光灰蓝色风衣，内搭暖金芥末色高领衬衫，下身穿着宽松的奶油米色工装裤，裤褶自然柔和，脚蹬粗犷的芥末色皮革马丁靴"}。飘逸的风衣营造出优雅的动感，同时服装保持了写实的织物纹理与电影般的深度，展现了力量感与随性女性魅力的平衡。
+
+人物身后是 {argument name="background element" default="一轮巨大的鲜艳焦橙色圆形太阳"}，完美居中，占据了构图近三分之二的面积，成为画面中主导的图形元素。
+
+背景为 {argument name="background color" default="平滑且极简的淡蓝色"}...
+
+[English]
+A premium contemporary mixed-media editorial illustration of a woman as the attached image, walking confidently forward, symbolizing freedom, transformation, and inner awakening. The subject is captured in a dynamic fashion-editorial stride with one leg crossing naturally in front of the other. Her head is tilted upward toward the sky with closed eyes and a peaceful expression, embracing hope and limitless possibilities.
+
+The subject wears an {argument name="outfit" default="oversized muted slate-blue trench coat layered over a warm golden-mustard button-up shirt with a high collar, loose cream-beige cargo trousers with soft natural folds, and rugged mustard leather combat boots"}. The flowing coat creates elegant movement while the clothing maintains realistic fabric texture and cinematic depth, creating a balance of strength and effortless femininity.
+
+Behind the figure sits a {argument name="background element" default="large vibrant burnt-orange circular sun"}, perfectly centered, occupying nearly two-thirds of the composition and acting as the dominant graphic element.
+
+The background is a {argument name="background color" default="smooth minimalist pale blue"}...
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2078063928672715091) | 2026-07-17
+
+---
+
+### 🎨 例 4379：极简队列插画
+
+![极简队列插画](../images/%E6%9E%81%E7%AE%80%E9%98%9F%E5%88%97%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极简风格的扁平化矢量插画，描绘 {argument name="number of people" default="四个人"} 排成一列等待队列的场景，所有人物均以左侧面轮廓呈现，背景为温暖的米白色。采用简洁的社论风格，使用深炭灰色的粗轮廓线、柔和的扁平色彩，且几乎不刻画人物面部细节。画面从左至右包含 4 个独立的人形：1）一名身穿黑色夹克和黑色长裤、背着圆形黑色双肩包的年轻男子，身体挺直，双臂下垂；2）一名扎着深色马尾辫的年轻女子，身穿柔和的蓝色长袖上衣、修身黑色长裤、黑色鞋子，并斜挎一个黑色单肩包；3）一名身穿黑色套装、背着黑色双肩包的年轻男子，一手拿着智能手机置于胸前，视线略微向下；4）一名留着齐肩深色短发的年轻女子，身穿柔和的蓝色上衣、黑色长裙、黑色鞋子，肩上背着一个白色帆布袋。保持人物间距均匀，第四个人物在最右侧边缘略微裁剪，画面中不包含文字、背景、阴影，除 4 个包和 1 部智能手机外，不添加任何额外物体。使用 {argument name="accent color" default="柔和蓝"}、黑色、炭灰色、白色和奶油色组成的克制色调，线条呈现简洁的手绘感，营造出冷静的现代都市氛围。
+
+[English]
+Create a minimalist flat vector illustration of {argument name="number of people" default="four people"} standing in a line as if waiting in a queue, all shown in left-facing side profile on a warm off-white background. Use a simple editorial style with thick dark charcoal outlines, flat muted colors, and very little facial detail. The scene contains exactly 4 discrete human figures from left to right: 1) a young man in a black jacket and black pants wearing a rounded black backpack, standing upright with arms down; 2) a young woman with dark hair in a ponytail, wearing a muted blue long-sleeve top, slim black pants, black shoes, and a black crossbody shoulder bag; 3) a young man in a black outfit with a black backpack, holding a smartphone in one hand at chest height while looking slightly downward; 4) a young woman with shoulder-length dark hair wearing a muted blue top, long black skirt, black shoes, and carrying a white tote bag over one shoulder. Keep the figures evenly spaced, cropped slightly at the far right edge for the fourth person, with no text, no scenery, no shadows, and no extra objects beyond the 4 bags and 1 smartphone. Use a restrained palette of {argument name="accent color" default="muted blue"}, black, charcoal gray, white, and cream, with clean hand-drawn linework and a calm modern urban mood.
+```
+
+**来源：** [@ar](https://x.com/fpsar3/status/2077937234184118558) | 2026-07-17
+
+---
+

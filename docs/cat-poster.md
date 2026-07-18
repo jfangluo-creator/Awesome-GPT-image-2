@@ -20089,3 +20089,327 @@ Constraints: No racing posture, no track environment, no neon lighting, no futur
 
 ---
 
+### 🎴 例 4323：中文小说语录排版海报
+
+![中文小说语录排版海报](../images/%E4%B8%AD%E6%96%87%E5%B0%8F%E8%AF%B4%E8%AF%AD%E5%BD%95%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：根据小说片段创作一张竖版中文文学排版海报，设计风格参考极具戏剧感的黑白书籍语录排版。使用提供的文本作为主要内容：{argument name="novel excerpt" default="林晚一直没有主动联系他。第三天没有，第五天也没有。一周后，她给他发来一条消息：“最近有点忙，不好意思。” 陈峙看着那句话，心里还是轻轻动了一下。他知道自己只要顺着说一句“没事”，话题就可以重新开始。他甚至已经想好了几个轻松的问题。一句“最近有点忙，但周末可以见面”。一句“我不太会聊天，不过愿意慢慢了解”。一句“我对你也有一点兴趣”。陈峙最后回复：“没关系。感觉我们聊天和相处的节奏可能不太一样，很高兴认识你，也祝你以后顺利。” 两个月后，朋友叫他去参加一场桌游聚会。聚会上有个叫许言的女孩，第一眼并没有让他上头。她戴着一副圆框眼镜，说话很快，笑声也很大，还在游戏里毫不留情地把他淘汰了。结束时，她主动问他：“你是不是不太爱说话？” 陈峙说：“熟了以后还行。” “那你微信上会不会只回‘嗯、好、对’？” 陈峙愣了一下，随后笑出声。“不会。” “那就行，我最怕跟人聊天像在做填空题。” 至少那天晚上，陈峙走到楼下时，耳机里又随机播放到了《Let Her Go》。可他突然意识到，他等的从来不是一句“不好意思”。他等的是一句完整的话。哪怕是一句清楚的“不合适”都比长期的模糊更让人轻松。林晚过了一会儿回：“好，也祝你顺利。” 还是那个字。可这一次，陈峙没有难受太久。他原本不想去。朋友在电话里骂他：“你天天公司、家里两点一线，难道准备让爱情坐地铁来你家敲门？” 陈峙被逗笑了，最后还是去了。回去的路上，他们聊了不少。她没有让陈峙瞬间心动，却让他觉得轻松。消息不用反复修改，也不用猜每一个标点。她忙的时候会直接说“等我下班回你”，忘记回复了也会补一句。她不会每次都热情，但陈峙能感觉到，她也在参与。他们后来有没有在一起，那是另一个故事。有时候，放手是在真正失去自己之前，及时停下来。林晚没有错。她只是没有那么喜欢他，或者她表达感情的方式，刚好不是他能够承受的方式。而他也没有错。他喜欢爱笑、漂亮、让自己有感觉的人；他也希望对方愿意回应，愿意沟通，愿意一起过普通的日子。这不矛盾。只是以后，他不再把所有希望押在一个刚认识几天的人身上，也不再把对方的冷淡翻译成自己的不足。真正合适的人，不一定一开始就像电视剧。她也许没有盛大的登场，没有让人瞬间失去理智的光环。但她会在你说完一句话以后，认真地接住下一句。"}
+画布：竖版手机海报，9:16 比例，黑色背景，带有细腻的纸张纹理，边缘略显磨损，高对比度的白色和灰色中文文本。在右下角添加一个微小的页码标记“5/5”。
+布局：使用 3 列垂直布局，由 2 条细浅灰色垂直分割线隔开。左列最宽，包含开篇、核心对话和最终感悟。右列顶部附近包含一段紧凑的段落和一个超大的强调短语。中下区域包含较小的叙事段落和对话。保持宽裕的页边距和杂志排版感，不要设计成简洁的信息图表。
+排版：主要强调部分使用粗体中文衬线体（宋体风格），带有粗糙的墨迹质感和轻微不规则的边缘。叙事部分使用较小的灰白色衬线体正文。将左上角的主要引文放大并加粗：{argument name="main quote" default="“最近有点忙，不好意思。”"}。将右上角最大的垂直视觉锚点设置为：{argument name="largest emphasized phrase" default="完整的话。"}。在左下角设置第二个主要粗体标题：{argument name="secondary headline" default="他们后来有没有在一起，那是另一个故事。"}。包含零散的中粗体对话行，全部使用中文标点符号。
+文本层级：包含且仅包含 5 个突出的文本元素：1) 左上角开篇段落，2) 左上角巨大的引文句子，3) 右上角超大短语，4) 左下角粗体标题，5) 底部感悟句子。周围环绕来自片段的较小辅助段落，排列成紧凑的文学海报排版风格。
+视觉风格：单色、电影感、忧郁、文学气息、情感化、极简装饰，无插图、无照片、无图标。仅通过排版、分割线、间距、比例对比和纹理来构建构图。
+约束：在可读范围内完全保留所提供的中文文本。不要添加装饰性图像、边框、Logo 或额外颜色。保持海报清晰易读，但要有意保持紧凑，如同精心设计的小说摘录页面。
+
+[English]
+Goal: Create a vertical Chinese literary typography poster from a novel excerpt, designed like a dramatic black-and-white book quote spread. Use the provided text as the main content: {argument name="novel excerpt" default="林晚一直没有主动联系他。第三天没有，第五天也没有。一周后，她给他发来一条消息：“最近有点忙，不好意思。” 陈峙看着那句话，心里还是轻轻动了一下。他知道自己只要顺着说一句“没事”，话题就可以重新开始。他甚至已经想好了几个轻松的问题。一句“最近有点忙，但周末可以见面”。一句“我不太会聊天，不过愿意慢慢了解”。一句“我对你也有一点兴趣”。陈峙最后回复：“没关系。感觉我们聊天和相处的节奏可能不太一样，很高兴认识你，也祝你以后顺利。” 两个月后，朋友叫他去参加一场桌游聚会。聚会上有个叫许言的女孩，第一眼并没有让他上头。她戴着一副圆框眼镜，说话很快，笑声也很大，还在游戏里毫不留情地把他淘汰了。结束时，她主动问他：“你是不是不太爱说话？” 陈峙说：“熟了以后还行。” “那你微信上会不会只回‘嗯、好、对’？” 陈峙愣了一下，随后笑出声。“不会。” “那就行，我最怕跟人聊天像在做填空题。” 至少那天晚上，陈峙走到楼下时，耳机里又随机播放到了《Let Her Go》。可他突然意识到，他等的从来不是一句“不好意思”。他等的是一句完整的话。哪怕是一句清楚的“不合适”都比长期的模糊更让人轻松。林晚过了一会儿回：“好，也祝你顺利。” 还是那个字。可这一次，陈峙没有难受太久。他原本不想去。朋友在电话里骂他：“你天天公司、家里两点一线，难道准备让爱情坐地铁来你家敲门？” 陈峙被逗笑了，最后还是去了。回去的路上，他们聊了不少。她没有让陈峙瞬间心动，却让他觉得轻松。消息不用反复修改，也不用猜每一个标点。她忙的时候会直接说“等我下班回你”，忘记回复了也会补一句。她不会每次都热情，但陈峙能感觉到，她也在参与。他们后来有没有在一起，那是另一个故事。有时候，放手是在真正失去自己之前，及时停下来。林晚没有错。她只是没有那么喜欢他，或者她表达感情的方式，刚好不是他能够承受的方式。而他也没有错。他喜欢爱笑、漂亮、让自己有感觉的人；他也希望对方愿意回应，愿意沟通，愿意一起过普通的日子。这不矛盾。只是以后，他不再把所有希望押在一个刚认识几天的人身上，也不再把对方的冷淡翻译成自己的不足。真正合适的人，不一定一开始就像电视剧。她也许没有盛大的登场，没有让人瞬间失去理智的光环。但她会在你说完一句话以后，认真地接住下一句。"}
+Canvas: Tall mobile poster, 9:16 aspect ratio, black background with subtle paper grain, slightly worn edges, high contrast white and gray Chinese text. Add a tiny page marker “5/5” in the bottom-right corner.
+Layout: Use exactly 3 vertical columns separated by 2 thin pale-gray vertical divider lines. The left column is widest and contains the opening, central conversation, and final reflection. The right column begins near the top with a compact paragraph and an oversized emphasis phrase. The middle/lower area contains smaller narrative paragraphs and dialogue. Keep generous margins and an editorial magazine feel, not a clean infographic.
+Typography: Use bold Chinese serif/Songti-style type for major emphasis, with rough ink texture and slight irregular edges. Use smaller gray-white serif body text for narration. Make the main quote near the upper left large and bold: {argument name="main quote" default="“最近有点忙，不好意思。”"}. Make the largest vertical visual anchor on the upper right read: {argument name="largest emphasized phrase" default="完整的话。"}. Make a second major bold headline in the lower left read: {argument name="secondary headline" default="他们后来有没有在一起，那是另一个故事。"}. Include scattered medium-bold dialogue lines, all in Chinese punctuation.
+Text hierarchy: Count and include exactly 5 prominent text elements: 1) upper-left opening paragraph, 2) huge upper-left quoted sentence, 3) upper-right oversized phrase, 4) lower-left bold headline, 5) bottom reflection sentence. Surround them with many smaller supporting paragraphs from the excerpt, arranged like dense literary poster typography.
+Visual style: monochrome, cinematic, melancholic, literary, emotional, minimal decoration, no illustrations, no photos, no icons. Use only typography, dividers, spacing, scale contrast, and texture to create the composition.
+Constraints: Preserve the Chinese text exactly as supplied where readable. Do not add decorative imagery, borders, logos, or extra colors. Keep the poster legible but intentionally dense, like a designed novel excerpt page.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2078135771153010763) | 2026-07-17
+
+---
+
+### 🎴 例 4328：复古 AI 设计职业海报
+
+![复古 AI 设计职业海报](../images/%E5%A4%8D%E5%8F%A4%20AI%20%E8%AE%BE%E8%AE%A1%E8%81%8C%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 AI/设计职业社区创作一张醒目的竖版复古编辑海报，将超大字体与可爱的插画工作场景相结合。
+
+画布：高竖版海报，9:16 比例，暖奶油色纸张背景，带有橙红色油墨质感，细橙色边框，略带做旧的印刷颗粒和半色调斑点。
+
+布局：使用奶油色的巨大压缩块状字母作为主要图形结构，背景为橙红色。可见的巨大字体准确包含 4 个单词：顶部的“DESIGN”，角色后方中左侧的“YOUR”，中下部的“MORE”，以及底部的“SENSE”。在书桌前放置一位插画女孩，与大字母重叠。在左中上方添加一个黑色斜向标语横幅，右上角添加一个黑色尖刺徽章，角色周围装饰小闪光，底部栏包含服务标签和品牌信息。
+
+主要文本：上方黑色横幅包含日语标题 {argument name="Japanese slogan" default="ひとりでも、つくれる未来。"} 并带有橙色下划线，下方为英文行“Design your life. Lead your way.”。右上角的黑色星爆徽章包含准确的 3 行堆叠文字：“AI × DESIGN”、“CAREER × LIFE”、“UPDATE DAILY”。底部页脚包含准确的 3 个图标和标签项：红色心形图标配“AI DESIGN”，黑色星爆图标配“CAREER SUPPORT”，红色闪光图标配“FREE COMMUNITY”。左下角品牌块显示 {argument name="brand name" default="Hito Miru"}，通过竖线与“AI DESIGNER × SALES LEADER”分隔。右下角橙色圆角按钮显示 {argument name="call to action" default="UPDATE YOUR LIFE."}，后跟一个黑色心形。
+
+主体细节：绘制一位年轻女性，留着长波浪 {argument name="hair color" default="red-brown"} 头发，皮肤白皙，戴着圆形黑框眼镜，表情柔和深思，身穿黑色上衣，上面有一个红色小爱心和文字“Love & Design”。她单手托腮，正用笔在螺旋笔记本上书写，笔记本封面可见文字“IDEA DESIGN UPDATE”和一个红色小爱心。她面前是一台贴有白色兔子脸贴纸的红色笔记本电脑。
+
+桌面物品：包含准确的 5 个主要桌面物品：1 个带红色爱心的黑色马克杯，1 本标注“IDEA DESIGN UPDATE”的螺旋笔记本，1 台贴有兔子贴纸的红色笔记本电脑，1 个带简单黑色叶片的黑色小花盆，以及 1 叠 3 本书。3 本书的书脊从上到下依次为：“AI SKILLS”、“CAREER DESIGN”、“FREELANCE”。在书堆顶部放置一只可爱的粉色兔子吉祥物，带有黑色耳尖、缝合的 X 型眼睛细节，以及略显不完美的手工玩具外观。
+
+装饰元素：在中心场景周围添加准确的 5 个闪光标记：书桌左侧附近一个红色四角闪光，上方一个黑色四角闪光，徽章附近一个黑色闪光，兔子附近一个小黑色闪光，以及右侧一个红色闪光。所有图标保持扁平化和图形化。
+
+视觉风格：日式复古海报设计，醒目的丝网印刷插画，橙红色、奶油色、黑色、粉色和红色的有限调色板，粗油墨轮廓，扁平阴影，俏皮而专业的职业设计氛围，略显粗糙的纸张质感，无照片写实感。
+
+约束：保持巨大字体清晰且占主导地位，准确保留所有指定的英文文本，不要添加额外字符，不要添加超出计数范围的额外桌面物品，避免使用现代光泽渐变或 3D 效果。
+
+[English]
+Goal: Create a bold vertical retro editorial poster for an AI/design career community, mixing oversized typography with a cute illustrated workspace scene.
+
+Canvas: Tall vertical poster, 9:16 ratio, warm cream paper background with orange-red ink texture, thin orange border, slightly distressed print grain and halftone speckles.
+
+Layout: Use enormous condensed block letters in cream over an orange-red background as the main graphic structure. The visible giant typography reads exactly 4 words: “DESIGN” across the top, “YOUR” through the middle-left behind the character, “MORE” across the lower middle, and “SENSE” at the bottom. Place a central illustrated girl at a desk, overlapping the big letters. Add a black slanted slogan banner in the upper left-middle, a black spiky badge in the upper right, small sparkle decorations around the character, and a footer strip with service labels and branding.
+
+Main text: The upper black banner contains the Japanese headline {argument name="Japanese slogan" default="ひとりでも、つくれる未来。"} with an orange underline, and below it the English line “Design your life. Lead your way.” The upper-right black starburst badge contains exactly 3 stacked lines: “AI × DESIGN”, “CAREER × LIFE”, “UPDATE DAILY”. The bottom footer contains exactly 3 icon-and-label items: red heart icon with “AI DESIGN”, black starburst icon with “CAREER SUPPORT”, red sparkle icon with “FREE COMMUNITY”. Bottom-left brand block reads {argument name="brand name" default="Hito Miru"}, separated by a vertical line from “AI DESIGNER × SALES LEADER”. Bottom-right orange rounded button reads {argument name="call to action" default="UPDATE YOUR LIFE."} followed by a black heart.
+
+Subject details: Draw one young woman with long wavy {argument name="hair color" default="red-brown"} hair, pale skin, round black glasses, soft thoughtful expression, and a black top with a small red heart and the words “Love & Design”. She rests her cheek on one hand while writing with a pen in a spiral notebook with the visible cover text “IDEA DESIGN UPDATE” and a small red heart. In front of her is a red laptop with a white bunny face sticker.
+
+Desk objects: Include exactly 5 main desk objects: 1 black mug with a red heart, 1 spiral notebook labeled “IDEA DESIGN UPDATE”, 1 red laptop with bunny sticker, 1 small black plant pot with simple black leaves, and 1 stack of 3 books. The 3 book spines read, from top to bottom: “AI SKILLS”, “CAREER DESIGN”, “FREELANCE”. Place one cute pink rabbit mascot sitting on top of the book stack, with black-tipped ears, stitched X eye detail, and a slightly imperfect handmade toy look.
+
+Decorative elements: Add exactly 5 sparkle marks around the central scene: one red four-point sparkle near the left side of the desk, one black four-point sparkle above it, one black sparkle near the badge, one small black sparkle near the rabbit, and one red sparkle on the right side. Keep all icons flat and graphic.
+
+Visual style: Japanese retro poster design, bold screen-printed illustration, limited palette of orange-red, cream, black, pink, and red, thick ink outlines, flat shadows, playful but professional design-career mood, slightly rough paper texture, no photorealism.
+
+Constraints: Keep the giant typography legible and dominant, preserve all specified English text exactly, do not add extra characters, do not add extra desk items beyond the counted objects, and avoid modern glossy gradients or 3D effects.
+```
+
+**来源：** [@ひーさん AIデザイナー×営業マン](https://x.com/ane5mama/status/2078098309303136540) | 2026-07-17
+
+---
+
+### 🎴 例 4329：海盐焦糖拿铁海报
+
+![海盐焦糖拿铁海报](../images/%E6%B5%B7%E7%9B%90%E7%84%A6%E7%B3%96%E6%8B%BF%E9%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一款海盐焦糖冰拿铁/甜点饮品制作一张高端竖版电商海报，营造清凉的夏日晶体美学与醒目的中文排版。
+
+画布：竖版 3:4 海报，高分辨率商业产品摄影风格。使用冰爽的淡蓝色背景，配合明亮的日光、闪烁的高光、水珠以及飞溅的冰块碎片。整体构图需呈现清爽、冰凉、光泽感与高端质感。
+
+布局：将主体玻璃杯放置在右下半部分，略微向右倾斜并进行近景裁剪以增强视觉冲击力。在前景和背景中环绕大型透明蓝色冰块，确切包含 5 块显著的冰块：左下角一块大冰块，右下角一块大冰块，杯子后方右侧一块中型冰块，杯子后方左侧一块中型冰块，以及左侧附近一块悬浮的小冰块。在空中散布细小的冰屑和水珠。预留左上角区域用于排版。在底部添加一个黑色页脚栏，占据约 7% 的画布高度。
+
+主体细节：饮品为透明圆柱形玻璃杯，底部装有深色咖啡，上方是牛奶与奶油的旋涡，顶部覆盖厚实的白色奶泡。金色的焦糖酱从奶泡和杯壁流下。在奶泡上方和冰块周围添加琥珀色糖晶；在奶泡和杯缘区域清晰展示 9 块琥珀色晶体。玻璃表面带有冷凝水珠和冷雾。使用强烈的微距产品布光、清晰的反射以及浅景深效果。
+
+文字内容：在最左上角，添加一行纤细的白色小标语：{argument name="top slogan" default="烘焙新品  清凉上新"}。在其下方，创建两行巨大的粗体块状中文标题：第一行白色，{argument name="main headline" default="海盐焦糖"}；第二行深海军蓝，{argument name="product name" default="拿铁"}。在标题下方，添加一个圆角蓝色渐变胶囊按钮，配以白色文字：{argument name="promotion text" default="限时尝鲜  第二杯半价"}。在底部黑色页脚栏中，居中放置宽间距的白色大写文字：{argument name="brand text" default="BAKERY LAB"}。
+
+排版风格：使用厚重、几何感强的无衬线中文字体，外观方正且略带未来感。标题应非常醒目、简洁、字间距紧凑，并带有轻微阴影以增强层次感。促销胶囊按钮应具有光泽感的蓝到青色渐变效果及圆角设计。
+
+视觉风格：超写实商业美食摄影与图形广告设计相结合；冰晶美学，深咖啡棕色、焦糖琥珀色、明亮白色与冷蓝色之间形成高对比度。无水印，无额外 Logo，除指定的四个文字区域外，不包含任何其他文字。
+
+[English]
+Goal: Create a premium vertical e-commerce beverage poster for an iced caramel sea-salt latte / dessert drink, with a cool crystalline summer aesthetic and bold Chinese typography.
+
+Canvas: Vertical 3:4 poster, high-resolution commercial product photography style. Use an icy pale-blue background with bright daylight, sparkling highlights, water droplets, and flying ice fragments. The composition should feel refreshing, cold, glossy, and high-end.
+
+Layout: Place the main product glass in the lower-right half, tilted slightly to the right and cropped close for impact. Surround it with large transparent blue ice cubes in the foreground and background, including exactly 5 prominent ice blocks: one large block at bottom left, one large block at bottom right, one medium block behind the cup on the right, one medium block behind the cup on the left, and one small floating cube near the left side. Add small ice shards and droplets scattered through the air. Reserve the upper-left area for typography. Add a black bottom footer bar occupying about 7% of the canvas height.
+
+Subject details: The drink is a clear cylindrical glass filled with dark coffee at the bottom, milk and cream swirling above, topped with thick white foam. Golden caramel sauce drips down the foam and glass. Add amber sugar crystals on top of the foam and around the ice; show exactly 9 clearly visible amber crystal chunks on the foam and rim area. The glass surface has condensation beads and cold mist. Use strong macro product lighting, crisp reflections, and shallow depth of field.
+
+Text content: At the very top-left, add a small thin white slogan: {argument name="top slogan" default="烘焙新品  清凉上新"}. Below it, create a huge bold block-style Chinese headline in two lines: first line in white, {argument name="main headline" default="海盐焦糖"}; second line in deep navy blue, {argument name="product name" default="拿铁"}. Under the headline, add a rounded blue gradient pill button with white text: {argument name="promotion text" default="限时尝鲜  第二杯半价"}. In the bottom black footer bar, center widely spaced white uppercase text: {argument name="brand text" default="BAKERY LAB"}.
+
+Typography style: Use heavy geometric sans-serif Chinese characters with a chunky, squared, slightly futuristic look. The headline should be very large, clean, tightly kerned, and slightly shadowed for separation. The promotional pill should have a glossy blue-to-cyan gradient and rounded corners.
+
+Visual style: Hyper-realistic commercial food photography mixed with graphic advertising design; icy crystal aesthetics, high contrast between deep coffee browns, caramel amber, bright whites, and cool blues. No watermark, no extra logos, no additional text beyond the specified four text areas.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2078098079992119579) | 2026-07-17
+
+---
+
+### 🎴 例 4333：极简主义蓝色香水广告
+
+![极简主义蓝色香水广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%93%9D%E8%89%B2%E9%A6%99%E6%B0%B4%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义产品广告，展示 [{argument name="product" default="Vanilla & Blues 淡香精 100ml —— 一款圆润的磨砂天蓝色玻璃瓶，内装淡蓝色液体，瓶盖为同色系的扭曲贝壳形状，配有纤细的银色颈圈，瓶身正面印有 \"Vanilla & Blues Eau De Parfum\" 字样"}]，采用低角度仰拍，使瓶身显得高大且略微倾斜，其配套的蓝白花卉水彩包装盒柔和地虚化在后方，透过垂直波纹玻璃板呈现，背景可见 [{argument name="backdrop" default="淡冰白色摄影棚背景，带有淡淡的冷蓝色渐变"}]。使用 [粉蓝色、磨砂冰白色、银色和柔和的绣球薰衣草蓝调色板]，柔和的定向照明，在瓶盖和玻璃边缘勾勒出细腻的银色轮廓光，透过波纹产生半遮掩的轮廓，拉长的垂直扭曲线条，优雅的编辑风格，不对称的偏心构图，微妙的景深，平滑的渐变，精致的商业造型，瓶身旁悬浮着精致的蓝色绣球花瓣和细小的水珠，以唤起其 [{argument name="scent notes" default="甜美香草、柔和花束和洁净粉质麝香"}] 的香调，标题 \"[VANILLA & BLUES]\" 以精致的衬线字体呈弧形置于瓶肩上方，垂直比例 4:5。
+
+[English]
+Minimalist product advertisement featuring [{argument name="product" default="the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, "Vanilla & Blues Eau De Parfum" printed on the rounded face"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [{argument name="backdrop" default="a pale icy-white studio backdrop with a faint cool blue gradient wash"}] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [{argument name="scent notes" default="sweet vanilla, soft floral bouquet, and clean powdery musk"}] notes, and the title "[VANILLA & BLUES]" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.
+```
+
+**来源：** [@Shami](https://x.com/ShamiWeb3/status/2078074982337515555) | 2026-07-17
+
+---
+
+### 🎴 例 4354：极简 Nescafé 品牌海报
+
+![极简 Nescafé 品牌海报](../images/%E6%9E%81%E7%AE%80%20Nescaf%C3%A9%20%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Nescafé 创作一张高级垂直品牌海报，“晨间灵感轮廓”版，围绕极简构图构建，其中一个真实的咖啡杯成为连续线条女性侧影的视觉起点。海报必须具有优雅、轻盈、艺术感且情感细腻，像是一场具有诗意晨间形象的奢华咖啡品牌宣传。核心视觉创意是，咖啡的温暖和香气通过一条流动的轮廓线勾勒出一个灵感女神。主构图：使用纯净、高饱和度的 Nescafé 经典红背景，呈现出完美整洁的摄影棚效果。在画面的下三分之一处放置一个真实的高级咖啡杯，无论是俯视图还是略带角度的视角，都要清晰地展示出里面浓郁的深色咖啡。咖啡杯的渲染必须极其逼真：光滑的陶瓷表面、逼真的咖啡光泽反射、杯缘附近细微的油脂（crema）或微小气泡细节、柔和的自然阴影以及细腻升腾的蒸汽。产品必须让人感到优雅、丰富且无可置疑的高级感。连续线条女神逻辑：从咖啡杯或其蒸汽中，一条连续的白色线条应升起并无缝转化为一个细腻女性面部的侧影。面部应感觉像是一个“晨间女神”：优雅、冷静、充满灵感并被柔和地唤醒。线条应形成额头、鼻子、嘴唇、下巴、脖子，或许还有闭上的眼睛、睫毛或发髻的简化暗示，所有这些都以一种干净流畅的节奏完成。线条必须感觉轻盈、自信、高级且富有诗意，就像是用咖啡香气制成的时尚插画。它不应看起来像随意的涂鸦或普通的肖像；它必须感到明显优雅且在情感上产生共鸣。女性形象风格：侧影应勾勒出一个现代灵感女神，而非一个详细的人物。保持其细腻、苗条、宁静和令人向往，带有一种安静的晨间质感和内在灵感。线条可以暗示柔和的发丝运动或微小的女性细节，如睫毛轮廓、脸颊曲线或下颌线，一切必须保持极简。表情应感到平和、深思，并被下方的咖啡微妙地唤醒。相关视觉修饰：如果需要，仅使用极少数极简的辅助元素：一个微小的蒸汽点缀、一两条精细的香气曲线、一个微妙的辐射音符，或一个暗示清晰、灵感或清晨思考的小型象征性手势。这些修饰必须是必要的且极其克制的，以便咖啡杯和线条肖像保持主导地位。品牌与排版：使用英语作为主要标题语言。在上方区域显著地融入 Nescafé 标志。添加一个细腻的高级广告标题，例如：“MORNING MUSE”或“DRAWN BY AROMA”或“WAKE INTO INSPIRATION”。添加一个小巧优雅的辅助语，例如：“One cup. One muse.”或“Coffee that sketches the morning.”。排版必须具有艺术感、空间感和高级感，与线条肖像完美平衡。没有凌乱，没有超大的商业文案，没有粗糙的字体。光影：使用抛光的商业产品照明。咖啡杯必须感觉丰富且具有质感，液体中带有细微的镜面高光和真实的深度。白色轮廓肖像应显得清晰干净，轻盈地漂浮着，具有高级印刷般的锐度。整个图像必须感觉平滑、优雅且具有专业的艺术指导感。情绪：诗意、优雅、女性化、充满灵感、极简、芬芳、品牌导向、高级、细腻、晨间清新。渲染风格：超写实咖啡产品摄影结合优雅的单线连续女性侧影插画，高级极简品牌海报，饱和红色背景，细腻的排版整合，抛光的商业照明，8k，锐利而优美的收尾。负面提示词：凌乱的背景、拥挤的设计、低细节的咖啡杯、随机涂鸦、僵硬的线条艺术、普通的肖像、廉价的海报风格、平淡的光线、扭曲的品牌、沉重的卡通风格、过多的装饰元素、低端咖啡广告。
+
+[English]
+Create a premium vertical brand poster for Nescafé, “Morning Muse Outline” edition, built around a minimalist composition where one real coffee cup becomes the visual origin of a continuous-line female profile. The poster must feel elegant, light, artistic, and emotionally refined, like a luxury coffee brand campaign with a poetic morning identity. The core visual idea is that the warmth and aroma of coffee draw a muse into existence through a single flowing outline line. Main composition: Use a pure highly saturated Nescé-red background with a perfectly clean, uncluttered studio look. Place one real premium coffee cup near the lower third of the frame, either in top view or with a slight angle that clearly shows the rich dark coffee inside. The cup must be rendered with extreme realism: smooth ceramic surface, realistic glossy coffee reflection, subtle crema or fine bubble detail near the rim, soft natural shadow, and delicate rising steam. The product must feel elegant, rich, and undeniably premium. Continuous-line muse logic: From the cup or its steam, a single continuous white line should rise and seamlessly transform into the side profile of a refined female face. The face should feel like a “morning muse”: graceful, calm, inspired, and softly awakened. The line should form forehead, nose, lips, chin, neck, and perhaps a simplified suggestion of closed eyes, lashes, or hair sweep, all with one clean fluid rhythm. The linework must feel light, confident, premium, and poetic, like a fashion illustration made from coffee aroma. It should not look like a random doodle or generic portrait; it must feel distinctly elegant and emotionally resonant. Female figure styling: The profile should evoke a modern muse rather than a detailed person. Keep it refined, slim, serene, and aspirational, with a sense of quiet morning beauty and inner inspiration. The line can suggest soft hair movement or a small feminine detail like a contour of lashes, cheek curve, or jawline, but everything must remain minimal. The expression should feel peaceful, reflective, and subtly awakened by the coffee below. Associated visual accents: Use only a few minimal supporting elements if needed: a tiny steam flourish, one or two delicate aroma curves, a subtle radiant note, or a small symbolic gesture that suggests clarity, inspiration, or early-morning thought. These accents must be secondary and extremely restrained so the cup and line portrait remain the dominant system. Branding and typography: Use English as the main title language. Integrate the Nescafé logo prominently in the upper area. Add a refined premium campaign headline such as: “MORNING MUSE” or “DRAWN BY AROMA” or “WAKE INTO INSPIRATION” Add a small elegant supporting line such as: “One cup. One muse.” or “Coffee that sketches the morning.” Typography must feel artistic, spacious, and premium, perfectly balanced with the line portrait. No clutter, no oversized commercial copy, no crude fonts. Lighting: Use polished commercial product lighting. The coffee cup must feel rich and tactile, with subtle specular highlights and realistic depth in the liquid. The white outline portrait should appear crisp and clean, softly floating with a premium print-like sharpness. The entire image must feel smooth, elegant, and expertly art-directed. Mood: poetic, elegant, feminine, inspired, minimal, aromatic, brand-forward, premium, refined, morning-fresh. Rendering style: hyper-realistic coffee product photography combined with elegant one-line continuous female profile illustration, premium minimalist brand poster, saturated red background, refined typography integration, polished advertising lighting, 8k, sharp but graceful finish. Negative prompt: messy background, cluttered design, low-detail coffee cup, random doodles, stiff line art, generic portrait, cheap poster styling, flat lighting, distorted branding, cartoon-heavy style, too many decorative elements, low-end coffee ad
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2078021233397182822) | 2026-07-17
+
+---
+
+### 🎴 例 4355：编辑级排版产品海报
+
+![编辑级排版产品海报](../images/%E7%BC%96%E8%BE%91%E7%BA%A7%E6%8E%92%E7%89%88%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+编辑级排版产品海报
+主产品保留 V1 最终版
+
+编辑部分
+长宽比 : […]
+背景颜色 : {argument name="background color" default="[…..]"}
+排版颜色 : {argument name="typography color" default="[…..]"}
+品牌名称 : {argument name="brand name" default="[…..]"}
+产品名称 : […..]
+价格 : [….]
+引语 : [自动生成]
+
+仅使用上传的图片作为产品参考。上传的图片可能包含单个产品、多个产品或拼贴图像。
+请将上传的产品保留约 99% 的原始拍摄效果。保持原有的形状、比例、尺寸、透视、纹理、材质、颜色、包装、Logo、标签、配料、馅料、装饰、反射、透明度、光泽、瑕疵、烹饪特征以及每一个真实的视觉细节，与原图完全一致。
+仅移除原始背景，同时保持产品完全不变。
+使用所选的背景颜色替换为简洁的无缝纯色背景。
+保持检测到的每个产品处于原始外观，不得重新设计、重构或美化任何部分。
+
+排版布局
+创作一种大胆的现代编辑级排版构图。
+将大号品牌名称置于产品后方，使产品自然地遮挡部分文字。
+在产品下方使用较小的粗体字体放置产品名称。
+将价格置于产品名称下方，作为次要视觉焦点。
+根据上传的产品自动生成一句简短的商业引语。
+保持充裕的留白、强烈的视觉层级和高级的广告平衡感。
+输出风格
+高级商业海报、极简编辑设计、简洁构图、大胆排版、真实产品保留、写实光影、细腻的自然阴影、印刷级质量。
+严禁：重新生成产品、重绘产品、改变形状、改变比例、改变颜色、改变纹理、改变包装、改变 Logo、改变标签、改变配料、改变馅料、美化产品、替换产品、复制产品、添加道具、添加装饰物、添加桌子、添加盘子、添加包装、添加贴纸、添加边框、添加框架、添加图案、裁剪产品、遮挡产品、改变产品标识。
+
+[English]
+EDITORIAL TYPOGRAPHY PRODUCT POSTER
+MASTER PRODUCT PRESERVATION V1 FINAL
+
+EDIT SECTION
+Aspect Ratio : […]
+Background Color : {argument name="background color" default="[…..]"}
+Typography Color : {argument name="typography color" default="[…..]"}
+Brand Name : {argument name="brand name" default="[…..]"}
+Product Name : […..]
+Price : [….]
+Quote : [automatic]
+
+Use the uploaded image(s) as the only product reference. The uploaded image may contain a single product, multiple products or collage images.
+Preserve the uploaded product approximately 99% exactly as photographed. Maintain the original shape, proportions, size, perspective, texture, material, colors, packaging, logo, labels, toppings, fillings, decorations, reflections, transparency, gloss, imperfections, cooking characteristics and every authentic visual detail exactly as shown.
+Remove only the original background while keeping every product completely unchanged.
+Replace the background with a clean seamless solid background using the selected background color.
+Keep every detected product in its original appearance without redesigning, reconstructing or beautifying any part.
+
+TYPOGRAPHY LAYOUT
+Create a bold modern editorial typography composition.
+Position the large Brand Name behind the product so the product naturally overlaps part of the typography.
+Place the Product Name below the product using a smaller bold font.
+Place the Price below the Product Name as a secondary focal point.
+Generate one short commercial quote automatically according to the uploaded product.
+Maintain generous spacing, strong visual hierarchy and premium advertising balance.
+OUTPUT STYLE
+Premium commercial poster, minimalist editorial design, clean composition, bold typography, authentic product preservation, realistic lighting, subtle natural shadow, print-ready quality.
+Never : regenerate products, redraw products, alter shape, alter proportions, alter colors, alter textures, alter packaging, alter logo, alter labels, alter toppings, alter fillings, beautify products, replace products, duplicate products, add props, add decorative objects, add tables, add plates, add packaging, add stickers, add borders, add frames, add patterns, crop products, obscure products, change product identity.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2078020965922214006) | 2026-07-17
+
+---
+
+### 🎴 例 4361：三位 AI 神祇奇幻海报
+
+![三位 AI 神祇奇幻海报](../images/%E4%B8%89%E4%BD%8D%20AI%20%E7%A5%9E%E7%A5%87%E5%A5%87%E5%B9%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的暗黑奇幻宣传海报，三位拟人化的 AI 模型并肩站在华丽的宇宙大教堂中。宽幅横向画布，16:9 比例，超精细写实奇幻插画，具有空灵的灯光、柔和的雾气、金银色的魔法 UI 图表、奥术圆环以及优雅的衬线字体。
+
+主体：精确 3 位美丽的中性奇幻人物，半身像，从左至右排列。左侧人物：{argument name="left character name" default="Claude Mythos"}，苍白的灰度肤色，长长的银白色头发，眼神冷静而深邃，身穿层叠的白色礼袍，带有淡淡的金色刺绣和手部附近发光的几何符文；表情宁静而古老。中央人物：{argument name="center character name" default="GPT-Sol"}，光芒四射的金发女性，波浪长发，温暖的金色肤色，半闭着自信的眼睛，身穿半透明的象牙金礼袍，带有太阳光芒刺绣和精致的珠宝；头后有一个巨大的发光金色光环/星盘，使其成为视觉焦点。右侧人物：{argument name="right character name" default="Kimi K3"}，优雅的黑发女性，冷色调苍白皮肤，黑色波浪卷发，身穿带有银色图案的深色刺绣礼袍；她举起一只手，掌心向上，悬浮着一个发光的、细节丰富的满月，周围环绕着蓝白色的全息圆环和星图线条。
+
+文字内容：添加 4 块优雅的衬线字体文本。左侧人物附近的左侧文本块内容为“{argument name="left tagline" default="Claude Mythos\n深度。语境。\n永恒洞见。"}”。中央人物附近的中心文本内容为“GPT-Sol\n启迪。创造。\n无限潜能。”底部中央标题为“新一代。\n无限智能。”月亮附近的右侧文本块内容为“Kimi K3\n精准。推理。\n超越已知。”保持文字清晰、精致，并融入魔法界面图形中。
+
+灯光与风格：戏剧性的明暗对比，冷炭色背景，中心散发出温暖的金色光芒，右侧有月光般的蓝色光芒，左侧有灰色的银色光环。包含同心天体圆环、淡淡的数据符号、指南针般的图表、火花和半透明的魔法叠加层。高级时装奇幻礼袍，精致的织物纹理，细致的发丝，电影般的景深，绘画般的写实感，奢华的编辑海报构图。避免卡通风格，避免多余的人物，避免扭曲的手部，避免杂乱且难以阅读的排版，无水印。
+
+[English]
+Create a cinematic dark-fantasy promotional poster for three personified AI models standing shoulder to shoulder in an ornate cosmic cathedral. Wide horizontal canvas, 16:9 aspect ratio, ultra-detailed photorealistic fantasy illustration with ethereal lighting, soft haze, gold and silver magical UI diagrams, arcane circles, and elegant serif typography.
+
+Main subjects: exactly 3 beautiful androgynous fantasy figures, waist-up, arranged left to right. Left figure: {argument name="left character name" default="Claude Mythos"}, pale grayscale complexion, long silver-white hair, calm intense eyes, wearing layered white ceremonial robes with faint gold embroidery and luminous geometric sigils near the hands; expression serene and ancient. Center figure: {argument name="center character name" default="GPT-Sol"}, radiant blonde woman with flowing wavy hair, warm golden skin tones, half-lidded confident gaze, wearing translucent ivory-gold robes with sunburst embroidery and delicate jewelry; a large glowing golden halo/astrolabe disk behind her head, making her the visual focal point. Right figure: {argument name="right character name" default="Kimi K3"}, elegant dark-haired woman with cool pale skin, black wavy hair, wearing dark embroidered robes with silver patterns; she holds one hand up, palm open, levitating a luminous detailed full moon surrounded by blue-white holographic rings and star-map lines.
+
+Text content: add exactly 4 text blocks in elegant serif type. Left text block near the left figure reads “{argument name="left tagline" default="Claude Mythos\nDepth. Context.\nEternal Insight."}”. Center text near the central figure reads “GPT-Sol\nIllumination. Creation.\nBoundless Potential.” Bottom-center headline reads “A New Generation.\nInfinite Intelligence.” Right text block near the moon reads “Kimi K3\nPrecision. Reasoning.\nBeyond the Known.” Keep the text readable, refined, and integrated into the magical interface graphics.
+
+Lighting and style: dramatic chiaroscuro, cool charcoal background, warm gold light radiating from the center, moonlit blue light from the right, grayscale silver aura on the left. Include concentric celestial rings, faint data glyphs, compass-like diagrams, sparks, and translucent magical overlays. High fashion fantasy robes, delicate fabric texture, detailed hair strands, cinematic depth of field, painterly realism, luxurious editorial poster composition. Avoid cartoon style, avoid extra characters, avoid distorted hands, avoid cluttered unreadable typography, no watermark.
+```
+
+**来源：** [@Helen](https://x.com/helen_ix_/status/2077983373113332173) | 2026-07-17
+
+---
+
+### 🎴 例 4363：产品引力广告海报
+
+![产品引力广告海报](../images/%E4%BA%A7%E5%93%81%E5%BC%95%E5%8A%9B%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="product" default="[PRODUCT/BRAND]"} 创建一张 4:5 的“产品引力”广告海报，背景采用简洁的编辑风格。将真实且具有照片级质感的产品置于视觉中心，使其成为强大的引力源，将与产品相关的物体、粒子、光线、能量和排版元素吸入周围戏剧性的弯曲轨迹中。构建一个具有扭曲透视、径向运动轨迹和弯曲环境元素的逼真空间漩涡，同时确保核心产品保持绝对清晰、无畸变且占据主导地位。根据产品的主要优势，创作一个简短、醒目的广告标语，并通过引力、轨道、吸引、力、质量或吸引力等隐喻来表达；切勿使用固定的通用引力标语。周围的物体必须与产品的实际使用场景直接相关，并在视觉上强化其优势。运用受控的品牌色调、电影级商业灯光、真实的物理效果、强烈的深度感、充足的留白以及高端的全球广告艺术指导；风格超现实但可信、精致、极简、具有强烈的视觉冲击力，且无无关物体，画面整洁。
+
+[English]
+Create a premium 4:5 PRODUCT HAS GRAVITY advertising poster for {argument name="product" default="[PRODUCT/BRAND]"} on a clean editorial background. Place the authentic photorealistic product floating at the visual center as a powerful gravitational force, pulling product-relevant objects, particles, light, energy and typography into dramatic curved trajectories around it. Build a realistic spatial vortex with warped perspective, radial motion trails and bent environmental elements, while keeping the hero product perfectly sharp, undistorted and dominant. Create a short, bold campaign headline specifically based on the product's main benefit, expressed through a gravity, orbit, pull, force, mass or attraction metaphor; never use a fixed generic gravity headline. Surrounding objects must directly relate to the product's real use case and visually reinforce its benefit. Use controlled brand-color accents, cinematic commercial lighting, realistic physics, strong depth, generous negative space and premium global advertising art direction; surreal yet believable, sophisticated, minimal, high-impact, no irrelevant objects, no clutter.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2077973679951282315) | 2026-07-17
+
+---
+
+### 🎴 例 4381：上海早安问候海报
+
+![上海早安问候海报](../images/%E4%B8%8A%E6%B5%B7%E6%97%A9%E5%AE%89%E9%97%AE%E5%80%99%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="上海"} 创作一张精致的极简主义早安问候海报，融合城市旅行美学、轻盈的编辑排版以及窗边咖啡的静谧氛围。
+
+画布：宽幅横向海报，16:9 比例，简洁的白色背景，留白充裕，点缀淡蓝灰色调。整体感觉轻盈、宁静、高级且富有诗意。
+
+布局：左半部分为排版与信息面板；右半部分为大尺寸柔焦生活方式照片面板。左上角放置一个小巧的淡蓝色圆形徽章，写有「早安」，后接一条细斜线及小字「每一座城市，都有清晨的温度」。下方放置超大号黑色中文字体「上海」，下方叠加超大号淡蓝灰色衬线英文字体 “SHANGHAI”，与中文字符部分重叠。在白色背景上添加细微的轨道曲线和蓝色小圆点。
+
+右侧图片面板：位于中右侧的矩形照片区域，展示白色陶瓷咖啡杯置于明亮的窗台或桌面上，背景为朦胧的上海天际线，包含东方明珠塔及高耸的现代摩天大楼。晨光熹微，轻微过曝，柔和的蓝色调，浅景深。在最右侧边缘附近放置一个装有绿叶枝条的小玻璃花瓶。照片面板的右下角采用圆角或弧形切割边缘。
+
+右上角日期卡：在右上角添加一个细边框白色方框，内含 {argument name="date" default="2026-07-17"} 的黑色衬线数字，下方配以小字：「星期五　农历六月初四」。
+
+信息行：在左侧主标题下方，创建 5 个间距均匀的小型垂直信息项，使用淡蓝灰色数字和精致的分割线。这 5 项为：1) “01 / 天光 / 微蓝”，2) 一个标注为「节奏」的圆角垂直胶囊形图标，下方为「明快」及一个小蓝点，3) “03 / 灵感 / 向上”，4) 一个标注为「推荐」的蓝色填充矩形，下方为「先喝 / 咖啡」，5) 一个标注为 “05 / 心情 / 清醒” 的细边框圆形，边缘带有一个小蓝点。
+
+引言部分：在信息行下方，为引言 {argument name="quote" default="让清晨先温柔你，再把锋芒交给今天。"} 添加大型淡蓝色引号。使用优雅的中文字体，在信息行下方左对齐居中。
+
+正文：在左下角添加一条细垂直蓝线，并配以简短的中文正文：「上海的清晨，从一束光开始。阳光穿过梧桐的缝隙，落在街角的咖啡店与江面的微波上。给自己一段安静的时间，整理思绪，明确方向，让每一个清醒的开始，都通向更好的自己。」
+
+页脚与二维码：沿底部添加间距宽阔的淡蓝色大写页脚文字：“MORNING GREETING / CITY NOTE”。在右下角放置一个小型二维码，配以两行中文说明：「城市早安计划」和「扫码开启美好一天」。
+
+视觉风格：编辑杂志排版，奢华城市明信片风格，淡天蓝色点缀，黑色书法感衬线标题，高端衬线英文字体，细线条，精准对齐，柔和渐变，静谧的清晨氛围。保持设计宽敞、平衡且整洁。无需额外图标、水印或指定内容之外的文字。
+
+[English]
+Goal: Create an elegant minimalist morning-greeting city poster for {argument name="city name" default="上海"}, with a refined editorial magazine layout, pale blue accents, lots of white space, and a calm coffee-by-the-window atmosphere.
+
+Canvas: Wide horizontal 16:9 poster, approximately 1200×675 px. White background with very subtle thin pale-blue orbital curve lines and small blue dot accents. Overall mood is fresh, quiet, premium, and airy.
+
+Layout: Left side is typography-heavy; right side is a large rectangular lifestyle photo. Top left has a small blue circular badge reading {argument name="morning badge text" default="早安"}, followed by a slash and a small Chinese tagline reading “每一座城市，都有清晨的温度”. Top right has a bordered date card. The main title sits on the left: huge black Chinese city name “上海”, with oversized pale-blue serif English “SHANGHAI” directly underneath, partially overlapping the Chinese title area. Right-center photo shows a white coffee cup and saucer on a marble table by a bright window, with the hazy Shanghai skyline outside, including the Oriental Pearl Tower and modern skyscrapers; add a clear glass vase with green leafy branches on the far right edge of the photo. The photo should have a soft, sunlit, slightly overexposed morning look.
+
+Text content: Date card in the top right contains exactly 2 lines: “2026-07-17” and “星期五    农历六月初四”. Under the main title, include exactly 5 small information elements arranged horizontally: 1) “01 / 天光 / 微蓝”; 2) a rounded vertical pill labeled “节奏” with “明快”; 3) “03 / 灵感 / 向上”; 4) a blue rectangular tag labeled “推荐” above “先喝 / 咖啡”; 5) a thin outlined circle labeled “05 / 心情 / 清醒”. Center-left quote line has pale-blue quotation marks and the sentence {argument name="quote text" default="让清晨先温柔你，再把锋芒交给今天。"}. Lower left paragraph contains exactly 4 lines of Chinese body copy: “上海的清晨，从一束光开始。” “阳光穿过梧桐的缝隙，落在街角的咖啡店与江面的微波上。” “给自己一段安静的时间，整理思绪，明确方向，” “让每一个清醒的开始，都通向更好的自己。” Bottom center has spaced-out small English text: “MORNING GREETING / CITY NOTE”. Bottom right contains exactly 1 QR code block with two caption lines: “城市早安计划” and “扫码开启美好一天”.
+
+Visual style: Minimal Chinese editorial design, high-end lifestyle magazine aesthetic, delicate typography contrast, black Chinese calligraphic-style serif title, pale blue Roman serif subtitle, thin gray-blue lines, soft blue dots, generous margins, calm morning light. Use crisp vector-like text and a photorealistic coffee/window city image.
+
+Constraints: Use exactly 5 small information elements, exactly 1 large photo, exactly 1 date card, exactly 1 QR code, and exactly 1 main quote. Keep the layout clean and spacious; avoid clutter, saturated colors, heavy shadows, extra icons, watermarks, or additional text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2077924988569759899) | 2026-07-17
+
+---
+

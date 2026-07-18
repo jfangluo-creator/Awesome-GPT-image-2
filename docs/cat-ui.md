@@ -8525,3 +8525,123 @@ Create an {argument name="setting" default="ultra-luxury executive office portra
 
 ---
 
+### 🖥️ 例 4359：多面板时尚风格档案
+
+![多面板时尚风格档案](../images/%E5%A4%9A%E9%9D%A2%E6%9D%BF%E6%97%B6%E5%B0%9A%E9%A3%8E%E6%A0%BC%E6%A1%A3%E6%A1%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超奢华时尚编辑衣橱作品集，所有 6 个面板中均呈现来自参考图像的同一位女性，完整保留其精确的面部特征、身份、脸型、发型、发色、肤色、身体比例、身高和整体外观，确保绝对的一致性。无身份偏移，无面部改变，无换脸。她在每个面板中看起来都是同一个人，仅在服装造型、姿势和细微表情上有所变化。整洁的 2×3 全身编辑网格，带有优雅的衬线字体标题 “{argument name="title" default="STYLE ARCHIVE 2026"}”。服装：{argument name="outfit descriptions" default="(1) 米色廓形西装外套内搭白色修身背心，配阔腿裤和高跟鞋；(2) 短款黑色皮夹克，修身内搭，工装裤，奢华运动鞋；(3) 简约精致的黑色晚礼服，搭配极简珠宝；(4) 廓形白色衬衫搭配牛仔短裤；(5) 米色针织毛衣搭配百褶中长裙；(6) 纯色剪裁裙装套装，造型精致"}。温暖的 {argument name="background color" default="ivory"} 无缝摄影棚背景，高端《Vogue Korea》风格时尚摄影，柔和的定向影棚光，自然阴影，真实的皮肤纹理，清晰的织物细节，奢华编辑造型，中画幅相机，85mm 镜头，HDR，超写实商业时尚大片，每个面板均为全身构图，杂志级排版，8K 细节。负面提示词：身份偏移，面部改变，换脸，外观不一致，不同女性，身体裁剪，面板内重复主体，多余肢体，解剖结构错误，手部畸形，模糊，低分辨率，CGI 感，插画，动漫，塑料感皮肤，过度修图，背景杂乱，Logo，文字伪影，水印。
+
+[English]
+Ultra-luxury fashion editorial wardrobe portfolio featuring the same woman from the reference image in all 6 panels, preserving her exact facial features, identity, face shape, hairstyle, hair color, skin tone, body proportions, height, and overall appearance with complete consistency. No identity drift, no face changes, no face swap. She appears as the same person in every panel, with only outfit styling, pose, and subtle expression variations. Clean 2×3 full-body editorial grid with elegant serif title “{argument name="title" default="STYLE ARCHIVE 2026"}”. Outfits: {argument name="outfit descriptions" default="(1) beige oversized blazer layered over a white fitted top with wide-leg trousers and heels; (2) cropped black leather jacket, fitted top, cargo pants, luxury sneakers; (3) sophisticated black evening dress with minimal jewelry; (4) oversized white button-up shirt with denim shorts; (5) cream knit sweater paired with a pleated midi skirt; (6) monochrome tailored skirt suit with refined styling"}. Warm {argument name="background color" default="ivory"} seamless cyclorama studio backdrop, premium Vogue Korea-inspired fashion photography, soft directional studio lighting, natural shadows, realistic skin texture, visible fabric details, luxury editorial styling, medium-format camera, 85mm lens, HDR, ultra-photorealistic commercial fashion campaign, full-body framing in every panel, magazine-quality composition, 8K detail. Negative prompt: identity drift, altered face, face swap, inconsistent appearance, different woman, cropped body, duplicate subject within panels, extra limbs, bad anatomy, distorted hands, blur, low resolution, CGI look, illustration, anime, plastic skin, over-retouching, cluttered background, logos, text artifacts, watermark.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2077987302211809337) | 2026-07-17
+
+---
+
+### 🖥️ 例 4360：动漫卧室吉他专辑封面
+
+![动漫卧室吉他专辑封面](../images/%E5%8A%A8%E6%BC%AB%E5%8D%A7%E5%AE%A4%E5%90%89%E4%BB%96%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感竖版动漫专辑封面插画，整体采用单色铅笔墨水灰度风格，并带有局部色彩点缀。一位留着凌乱黑发的瘦削少年坐在安静卧室的床边，弹奏着一把带有白色护板的黑色电吉他；他穿着短袖白衬衫、松开的黑领带、灰色直筒裤和深色袜子，低着头，表情温柔而专注。房间以细腻的漫画线条渲染，呈现出写实的光影和怀旧的独立音乐氛围。他身后是一扇高大的落地窗，明亮的夏日阳光倾泻而入；窗外是画面中唯一的强色彩区域：湛蓝的天空、白云和阳光。窗台上坐着一只毛茸茸的小白仓鼠，背对着镜头望向天空。黄色花瓣从窗外飘入并散落在房间各处，作为第二种色彩点缀。画面需包含以下主要可见物体：床上的 1 位少年吉他手、1 把电吉他、1 扇窗户、窗台上的 1 只小白仓鼠、右侧书桌上的 1 台笔记本电脑、1 把办公椅、前景地板上的 1 台键盘/合成器、左侧的 1 个书架，以及许多漂浮和散落的黄色花瓣。笔记本电脑屏幕应显示音频波形/编辑软件以及日语标题文字 {argument name="laptop title text" default="未送信の花"}。构图：2:3 纵向比例，少年位于左侧三分之一处，窗户位于背景上方中央，书桌和笔记本电脑位于右侧，键盘呈对角线横跨底部前景。风格：高细节日本动漫插画，灰度石墨质感，柔和光晕，高对比度逆光，反光的木地板，充满情感的音乐室氛围，无水印，除笔记本电脑屏幕外无额外文字。可自定义角色为 {argument name="character description" default="留着凌乱黑发的瘦削少年"}，乐器为 {argument name="instrument" default="带有白色护板的黑色电吉他"}，点缀花瓣为 {argument name="accent petals" default="黄色花瓣"}。
+
+[English]
+Create a cinematic vertical anime album-cover illustration in mostly monochrome pencil-and-ink grayscale with selective color accents. A slim teenage boy with messy black hair sits on the edge of a bed in a quiet bedroom, playing a black electric guitar with a white pickguard; he wears a short-sleeved white school shirt, loosened black tie, straight gray trousers, and dark socks, his head tilted down with a soft, absorbed expression. The room is rendered with delicate manga linework, realistic light and shadow, and a nostalgic indie-music mood. Behind him is a tall open window flooding the room with bright summer sunlight; outside the window is the only strongly colored area: vivid blue sky, white clouds, and sun rays. On the windowsill sits one small fluffy white hamster seen from behind, looking out at the sky. Yellow flower petals drift through the open window and scatter around the room, providing the second color accent. Include exactly these main visible objects: 1 teenage guitarist on the bed, 1 electric guitar, 1 open window, 1 white hamster on the sill, 1 laptop on a desk to the right, 1 office chair, 1 keyboard/synthesizer on the floor in the foreground, 1 bookshelf on the left, and many yellow petals floating and fallen. The laptop screen should show audio waveform/editing software and the Japanese title text {argument name="laptop title text" default="未送信の花"}. Composition: portrait 2:3 ratio, boy on the left third, open window centered upper background, desk and laptop on the right, keyboard diagonally across the bottom foreground. Style: highly detailed Japanese anime illustration, grayscale graphite texture, soft bloom, high-contrast backlighting, reflective wooden floor, emotional music-room atmosphere, no watermark, no extra text besides the laptop screen. Customize the character as {argument name="character description" default="slim teenage boy with messy black hair"}, the instrument as {argument name="instrument" default="black electric guitar with white pickguard"}, and the accent petals as {argument name="accent petals" default="yellow flower petals"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2077985467556069429) | 2026-07-17
+
+---
+
+### 🖥️ 例 4362：超现实印度旅行岛屿肖像
+
+![超现实印度旅行岛屿肖像](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%8D%B0%E5%BA%A6%E6%97%85%E8%A1%8C%E5%B2%9B%E5%B1%BF%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的超现实旅行海报 / 奇幻照片蒙太奇，呈现电影级写实风格。一位英俊的年轻男子，拥有 {argument name="character appearance" default="浓密的棕色头发、干净的脸庞、白皙的皮肤、自信且中性的表情"}，像一位巨人旅行者一样盘腿坐在画面中心前景，身穿 {argument name="outfit" default="深酒红色衬衫（袖子卷起）、米色休闲裤、白色运动鞋和深色手表"}。他坐在一个被明亮绿松石色海洋环绕的微型印度风情岛屿世界之上，比例上他高耸于景观之上。岛屿上挤满了标志性的印度地标和旅行地标：包含 5 个突出的地标区域，分别为 1 座类似泰姬陵的白色大理石陵墓、1 座类似风之宫殿的粉色宫殿、1 个华丽的寺庙群、1 座悬崖上的古老堡垒城市，以及 1 个现代玻璃摩天大楼天际线。在城市后方，添加金色日落天空下壮观的喜马拉雅雪山。在海洋中填充 8 艘可见的船只：4 艘白色帆船、2 艘小型摩托艇、1 艘大型渡轮或观光船，以及 1 艘小划艇。在天空中添加 6 个飞行旅行元素：2 架客机、2 个彩色热气球和 2 个滑翔伞。在底部前景，放置一张质朴的木制桌面，上面有 3 件旅行物品：一本带有金色徽章和清晰文字“REPUBLIC OF INDIA”及“PASSPORT”的深蓝色印度护照，中间是一个复古黄铜指南针，右侧是一本磨损的棕色皮革旅行日志，上面压印着 {argument name="journal title" default="TRAVEL"}。使用浓郁饱和的色彩、黄金时刻的灯光、清晰的景深、超精细的建筑细节、波光粼粼的泻湖水面、微小的人群和棕榈树，营造出冒险的奢华旅行氛围，采用广角视角和精致的 gpt-image-2 风格。无边框，无水印，除护照和日志上的文字外，不包含任何额外文字。
+
+[English]
+Create a highly detailed surreal travel poster / fantasy photomontage in cinematic realism. A handsome young man with {argument name="character appearance" default="thick brown hair, clean-shaven face, fair skin, confident neutral expression"} sits cross-legged like a giant traveler in the center foreground, wearing {argument name="outfit" default="a deep burgundy button-up shirt with sleeves rolled, beige chinos, white sneakers, and a dark wristwatch"}. He is seated above a miniature Indian-inspired island world surrounded by vivid turquoise ocean, scaled so he towers over the landscape. The island is packed with iconic Indian and travel landmarks: include exactly 5 prominent landmark zones, consisting of 1 Taj Mahal-like white marble mausoleum, 1 pink palace resembling Hawa Mahal, 1 ornate temple complex, 1 fortified old city on a cliff, and 1 modern glass skyscraper skyline. Behind the city, add dramatic snow-capped Himalayan mountains under a golden sunset sky. Fill the ocean with exactly 8 visible watercraft: 4 white sailboats, 2 small motorboats, 1 larger ferry or tour boat, and 1 tiny rowboat. Add exactly 6 flying travel elements in the sky: 2 passenger airplanes, 2 colorful hot air balloons, and 2 paragliders. In the bottom foreground, place a rustic wooden tabletop with exactly 3 travel objects: a navy-blue Indian passport with gold emblem and readable text “REPUBLIC OF INDIA” and “PASSPORT,” a vintage brass compass in the center, and a worn brown leather travel journal on the right embossed with {argument name="journal title" default="TRAVEL"}. Use rich saturated colors, golden-hour lighting, crisp depth, hyper-detailed architecture, sparkling lagoon water, tiny crowds and palm trees, adventurous luxury-travel mood, wide-angle perspective, and polished gpt-image-2 style. No borders, no watermark, no extra text besides the passport and journal lettering.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2077979780969062433) | 2026-07-17
+
+---
+
+### 🖥️ 例 4375：令人惊叹的奇幻环境
+
+![令人惊叹的奇幻环境](../images/%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%A5%87%E5%B9%BB%E7%8E%AF%E5%A2%83.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+地点：{argument name="fantasy location" default="[奇幻地点]"}
+
+创建一个令人惊叹的奇幻环境。
+
+确定该地点的核心魔法特征。
+
+围绕该特征构建一个既不可能存在却又令人信服的景观。
+
+风格：
+电影级奇幻、超精细、大气透视、体积光、史诗级规模、逼真材质、优质环境叙事。
+
+避免：
+人物、不必要的生物、杂乱元素。
+
+最终输出：
+景观 16:9。
+
+[English]
+LOCATION: {argument name="fantasy location" default="[FANTASY PLACE]"}
+
+Create ONE breathtaking fantasy environment.
+
+Identify the location's defining magical feature.
+
+Build one impossible yet believable landscape centered around that feature.
+
+STYLE:
+Cinematic fantasy, ultra-detailed, atmospheric perspective, volumetric lighting, epic scale, realistic materials, premium environmental storytelling.
+
+Avoid:
+characters, unnecessary creatures, clutter.
+
+Final output:
+Landscape 16:9.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077953533723504673) | 2026-07-17
+
+---
+
+### 🖥️ 例 4377：蒸汽朋克仿生女性肖像
+
+![蒸汽朋克仿生女性肖像](../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E4%BB%BF%E7%94%9F%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位优雅的蒸汽朋克仿生女性，拥有 {argument name="skin type" default="瓷器般肌肤"}、深邃的蓝色双眸以及 {argument name="hair style" default="铂金色短波波头"}，身着一件由雕刻黄铜、铜制齿轮、活塞、铆钉、发条装置、蕾丝和珠宝装饰打造的 {argument name="clothing style" default="象牙色束身连衣裙"}。巨大的对称机械翅膀带有涡轮轮毂、黄铜肋骨和层叠的象牙色面板，像天使般的机器一样在她身后展开。场景设定在维多利亚时代的发明家工作室中，室内布满了蒸汽管道、模拟仪表、蓝图、发光的控制面板和未完成的仿生人。温暖的琥珀色煤气灯光与冷青色的显示器光芒以及细微的深红色指示灯形成鲜明对比。精湛的工程设计、复古未来主义的维多利亚风格、超精细的机械纹理、居中的对称构图、全身时尚肖像、戏剧性的电影级灯光、充满氛围感的蒸汽，优雅、高贵，极具精致的蒸汽朋克美学。
+
+[English]
+An elegant female steampunk automaton with {argument name="skin type" default="porcelain skin"}, piercing blue eyes, and a {argument name="hair style" default="short platinum bob"}, wearing an {argument name="clothing style" default="ivory corset dress"} built from engraved brass, copper gears, pistons, rivets, clockwork mechanisms, lace, and jewel accents. Massive symmetrical mechanical wings with turbine hubs, brass ribs, and layered ivory panels spread behind her like an angelic machine. Set inside a Victorian inventor's workshop filled with steam pipes, analog gauges, blueprints, glowing control panels, and unfinished automatons. Warm amber gaslight contrasts with cool cyan monitor glow and subtle crimson indicator lights. Intricate engineering, retro-futurist Victorian design, ultra-detailed mechanical textures, centered symmetrical composition, full-body fashion portrait, dramatic cinematic lighting, atmospheric steam, elegant, regal, highly refined steampunk aesthetic.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2077942433426416018) | 2026-07-17
+
+---
+
