@@ -3518,3 +3518,59 @@ Constraints: Do not show people holding the pages. Do not create a single enlarg
 
 ---
 
+### 📊 例 4438：日语 AI 字幕缩略图
+
+![日语 AI 字幕缩略图](../images/%E6%97%A5%E8%AF%AD%20AI%20%E5%AD%97%E5%B9%95%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张极具冲击力的日语 YouTube 缩略图，主题是利用 AI 自动生成视频字幕/电视字幕（Telop），并展示从 Vrew 到 Claude Code 的戏剧性对比。
+
+画布：16:9 横向缩略图，1200×675 规格，针对 YouTube 进行优化。背景使用深色模糊的视频剪辑时间轴界面，紫色和蓝色的时间轴轨道以及细小的片段块清晰可见但处于虚焦状态。
+
+布局：在顶部放置一个醒目的粗体日语标题 {argument name="top headline" default="AI でテロップを自動作成"}。文字应为白色，带有粗黑色描边和额外的细白色外描边，略微倾斜且间距紧凑，以实现最大视觉冲击力。在左中位置放置一个巨大的白色对话气泡投诉框，带有黑色描边，右下角有一个小指针。气泡内使用粗体黑色日语文本书写投诉内容，最后一行用红色强调并配有黄色下划线：{argument name="complaint text" default="誤字脱字多すぎるし、テロップはズレまくってるし、変なところで改行するし、そのくせにそれ以外のことは何もできないって...\nVrew マジで使えんw"}。在中心偏右位置放置两个应用风格的 Logo 图块：总共 2 个 Logo。Logo 1 是一个青蓝色圆角方形的 Vrew 风格图标，带有白色 V 标记，位于中心附近，部分被一个小橙色像素化吉祥物/虫子形状遮盖。Logo 2 是一个较大的橙红色圆角方形 Claude 风格图标，带有白色放射状星爆，位于右上角，顶部右侧倾斜戴着一顶闪亮的金色皇冠。在橙色图标下方添加一个白色标签，用粗体黑色文字写着 {argument name="tool label" default="Claude Code"}。在两个 Logo 之间，添加 1 个带有白色描边的红色弧形箭头，从蓝色 Logo 指向橙色 Logo。
+
+底部文字：在底部三分之一处填入一个巨大的日语结论短语 {argument name="bottom headline" default="これで全て解決"}。使用粗圆体显示字形，填充明亮的黄色渐变，配以厚重的黑色描边和发光的白色外描边。文字应覆盖背景并部分置于中心图形前方，营造出一种喧闹的缩略图构图。
+
+视觉风格：日语病毒式科技缩略图，对比度极高，构图密集，夸张的描边、投影、白色发光效果、饱和的色彩，黑色背景氛围，风格紧迫且幽默。确保所有日语文本清晰、易读且拼写正确。
+
+包含的独立元素：1 个顶部标题，1 个对话气泡，2 个应用 Logo，1 个橙色吉祥物/虫子形状，1 个红色弧形箭头，1 个金色皇冠，1 个 Claude Code 标签，以及 1 个巨大的底部标题。不要添加额外的 Logo、人物、水印或不相关的文字。
+
+[English]
+Goal: Create a high-impact Japanese YouTube thumbnail about automatically generating video captions/telops with AI, featuring a dramatic comparison from Vrew to Claude Code.
+
+Canvas: 16:9 horizontal thumbnail, 1200×675 style, optimized for YouTube. Use a dark blurred video-editing timeline interface as the full background, with purple and blue timeline tracks and small clip blocks visible but out of focus.
+
+Layout: Put a huge bold Japanese headline across the top reading {argument name="top headline" default="AIでテロップを自動作成"}. The letters should be white with thick black outline and an additional thin white outer stroke, slightly tilted and tightly spaced for maximum impact. Place one large white speech-bubble complaint box on the left-middle with a black outline and a small pointer at the bottom right. Inside it, use bold black Japanese text for the complaint and a red emphasized final line with a yellow underline: {argument name="complaint text" default="誤字脱字多すぎるし、テロップはズレまくってるし、変なところで改行するし、そのくせにそれ以外のことは何もできないって...\nVrewマジで使えんw"}. Place two app-style logo tiles in the center-right: exactly 2 logos total. Logo 1 is a cyan-blue rounded square Vrew-like icon with a white V mark, located near the center, partially overlapped by a small orange pixelated mascot/bug shape. Logo 2 is a larger orange-red rounded square Claude-like icon with a white radial starburst, located to the upper right, with a shiny gold crown tilted on its top-right corner. Add a small white label under the orange icon reading {argument name="tool label" default="Claude Code"} in bold black text. Between the two logos, add exactly 1 curved red arrow with a white outline pointing from the blue logo toward the orange logo.
+
+Bottom text: Fill the bottom third with one enormous Japanese conclusion phrase reading {argument name="bottom headline" default="これで全て解決"}. Make it thick rounded display lettering with a bright yellow gradient fill, heavy black outline, and glowing white outer stroke. The text should overlap the background and partly sit in front of the center graphics, creating a loud thumbnail composition.
+
+Visual style: Japanese viral tech thumbnail, extremely bold contrast, dense composition, exaggerated outlines, drop shadows, white glow effects, saturated colors, black background atmosphere, urgent and humorous tone. Make all Japanese text crisp, legible, and correctly spelled.
+
+Discrete elements to include: exactly 1 top headline, exactly 1 speech bubble, exactly 2 app logos, exactly 1 orange mascot/bug shape, exactly 1 red curved arrow, exactly 1 gold crown, exactly 1 Claude Code label, and exactly 1 huge bottom headline. Do not add extra logos, people, watermarks, or unrelated text.
+```
+
+**来源：** [@河村 風真｜Fuma Kawamura](https://x.com/fumanpnp/status/2078412534810603849) | 2026-07-18
+
+---
+
+### 📊 例 4440：插画风旅游日历海报
+
+![插画风旅游日历海报](../images/%E6%8F%92%E7%94%BB%E9%A3%8E%E6%97%85%E6%B8%B8%E6%97%A5%E5%8E%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="year" default="[年份]"} 年美学插画日历海报，让同一位成熟的 {argument name="subject" default="[女性/男性/人物]"}（上传照片 100% 还原面部）出现在 {argument name="location" default="[地点]"} 的 12 个热门旅游景点中，并搭配不同的服装与心情。艺术风格应为柔和的水彩 + 水墨素描，线条干净利落，并带有轻微的纹理阴影。🎨✨ 人物面部表情生动。
+
+[English]
+Create a {argument name="year" default="[YEAR]"} aesthetic illustrated calendar poster featuring the same mature {argument name="subject" default="[WOMAN/MAN/PERSON]"} (uploaded photo reference face 100%) across all 12 popular and tourist locations of {argument name="location" default="[LOCATION]"} in different outfits and moods. The artwork should be in a soft watercolor + ink sketch style with clean hand-drawn linework and light textured shading. 🎨✨ The character has an expressive face.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2078398691464163831) | 2026-07-18
+
+---
+

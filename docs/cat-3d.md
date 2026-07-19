@@ -5516,3 +5516,85 @@ Create a Pixar-style 3D animation storyboard image in 4×2 grid layout (4 column
 
 ---
 
+### 🧸 例 4424：巨型角色气球雕塑
+
+![巨型角色气球雕塑](../images/%E5%B7%A8%E5%9E%8B%E8%A7%92%E8%89%B2%E6%B0%94%E7%90%83%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体" default="キャラクター"}を模した巨大な{argument name="オブジェクト" default="バルーン人形"}の写真
+```
+
+**来源：** [@とらの](https://x.com/TlanoAI/status/2078440567395213626) | 2026-07-18
+
+---
+
+### 🧸 例 4431：受诅咒的孔雀修女玩偶
+
+![受诅咒的孔雀修女玩偶](../images/%E5%8F%97%E8%AF%85%E5%92%92%E7%9A%84%E5%AD%94%E9%9B%80%E4%BF%AE%E5%A5%B3%E7%8E%A9%E5%81%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张暗黑、电影质感的动漫插画，描绘一个破碎的哥特修女玩偶，低坐于光亮的地面上，画面居中，主体为 {argument name="character name" default="一个无名的受诅咒修女玩偶"}。她拥有苍白的瓷质皮肤，带着一丝令人不安的微笑，阴影笼罩的蓝色双眸，黑色修女头纱下露出长长的 {argument name="hair color" default="灰金色"} 头发，并戴着白色头带。她的上半身部分破损，在蕾丝和黑色宗教服饰下露出逼真的肋骨和脊椎，如同解剖学骨架；服装包含 5 个清晰可见的主要服饰/配饰元素：黑色头纱、白色头巾/头带、白色尖领、黑色蕾丝袖子以及悬挂的十字架念珠。将她描绘成被丢弃的玩偶姿态，双手撑地，断裂的瓷质玩偶腿向左下方伸展，上面布满裂纹和黑色油渍。周围环绕 5 个清晰可见的头骨或类头骨物体：大腿左侧附近一个小头骨，大腿右侧附近一个小头骨，中右侧一个巨大的开裂头骨，远右侧后方一个深紫色头骨，以及右下角前景中一个部分被截断的开裂头骨。背景和侧面添加 3 条显眼的黑色链条弧线。环境应呈现出有毒的孔雀羽毛噩梦感：旋转的虹彩图案，配色为 {argument name="dominant palette" default="电光蓝、紫罗兰色、洋红色、黑色和铜橙色"}，光亮的大理石纹液体，身后形成光环的放射状爆炸溅射，以及遍布地面的孔雀眼图案。灯光采用低调且戏剧化的处理，具有强烈的边缘高光、面部深邃的阴影、反光的湿润表面以及高对比度。构图为 16:9 宽画幅，超精细，绘画风格动漫概念艺术，恐怖美学氛围，华丽，超现实，无文字，无水印，无多余角色。
+
+[English]
+Create a dark, cinematic anime illustration of a broken gothic nun doll sitting low on a glossy floor, centered in the frame, with {argument name="character name" default="a nameless cursed doll nun"} as the subject. She has pale porcelain skin, a faint unsettling smile, shadowed blue eyes, and long {argument name="hair color" default="ash-blonde"} hair under a black nun veil with a white headband. Her upper body is partially damaged, exposing a realistic ribcage and spine like an anatomical skeleton beneath lace and black religious clothing; the outfit includes exactly 5 main visible clothing/accessory elements: a black veil, white wimple/headband, white pointed collar, black lace sleeves, and a dangling cross rosary. Show her seated like a discarded doll, with both hands on the floor and detached porcelain doll legs stretched toward the lower left, cracked and smeared with black oily stains. Surround her with exactly 5 visible skull or skull-like objects: one small skull near the center-left by her lap, one small skull near the center-right by her lap, one large cracked skull on the mid-right, one dark purple skull behind it on the far right, and one partially cropped cracked skull in the lower-right foreground. Add exactly 3 prominent black chain arcs crossing the background and sides. The environment should feel like a toxic peacock-feather nightmare: swirling iridescent patterns in {argument name="dominant palette" default="electric blue, violet, magenta, black, and copper-orange"}, glossy marbled liquid, explosive radial splashes behind her forming a halo, and peacock-eye motifs across the floor. Lighting is very low-key and dramatic, with strong rim highlights, deep shadows across the face, reflective wet surfaces, and high contrast. Composition is wide horizontal 16:9, ultra-detailed, painterly anime concept art, horror-beauty atmosphere, ornate, surreal, no text, no watermark, no extra characters.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078429852454310093) | 2026-07-18
+
+---
+
+### 🧸 例 4456：微缩海滩探险拼贴画
+
+![微缩海滩探险拼贴画](../images/%E5%BE%AE%E7%BC%A9%E6%B5%B7%E6%BB%A9%E6%8E%A2%E9%99%A9%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组异想天开的超写实 2 列 3 行照片拼贴画，展示一个置身于阳光明媚海滩上的微缩年轻男子，他与超大号夏季物品互动，仿佛是一个现实世界中的玩具大小的人。
+
+画布：垂直拼贴，768×1152 纵横比，六个相等的矩形面板，由干净的白色间隙隔开。每个面板均采用明亮的正午海滩光线、浅景深，背景为蓝色海洋地平线和沙滩。
+
+主体：同一个微缩年轻男子出现在所有 6 个面板中，玩具大小，面容英俊年轻，留着深色短卷发，肤色白皙，身穿酒红色衬衫、黑色长裤和白色运动鞋。请确保他在整个拼贴画中的身份和服装保持一致。使用 {argument name="character name" default="a miniature young man"} 作为重复出现的主体。
+
+面板数量和内容：使用正好 6 个面板。
+1. 左上：一只巨大的手倾斜着一个小粉色水桶，将一堆干沙倒在小人身上及其周围，小人坐在沙滩上，双手举起，表现出惊讶的样子。
+2. 右上：小人坐在溅起水花的海水中一个巨大的粉色磨砂甜甜圈形状的浮圈内，戴着蓝色浮潜面罩/呼吸管和黄色脚蹼，一只巨大的手从右侧稳住浮圈。
+3. 中左：小人蹲在沙滩上，拉着系在巨大螺旋海螺周围的绳子，仿佛试图拖动它。
+4. 中右：一只巨大的手拿着一根木棍上的红绿色冰棒；小人四肢紧紧抱住冰棒，仿佛在拥抱它。
+5. 左下：一只人手拿着一个巨大的华夫饼蛋筒，融化的粉色冰淇淋滴在小人身上，小人坐在粉色冰淇淋滩上，双手举起。
+6. 右下：小人戴着深色太阳镜，躺在黄色和白色相间的小遮阳伞下的微型沙滩椅上，一只巨大的手递给他一盒带有白色吸管的蓝橙色果汁。
+
+视觉风格：超写实微距摄影，趣味十足的强迫透视微缩场景，沙粒细节清晰，超大手部的皮肤纹理逼真，海滩色彩鲜艳，电影感阳光，自然阴影，光泽感水花，逼真的比例对比，高分辨率编辑拼贴画。
+
+约束：无文字、标题、徽标或水印。在每个面板中保持相同的人物、服装和海滩环境。使物体相对于微缩人物呈现超大比例，并具有可信的接触阴影和逼真的互动效果。
+
+[English]
+Goal: Create a whimsical hyper-realistic 2-column by 3-row photo collage showing a tiny miniature young man on a sunny beach, interacting with oversized summer objects as if he is a toy-sized person in a real world.
+
+Canvas: Vertical collage, 768×1152 style aspect ratio, six equal rectangular panels separated by clean white gutters. Bright midday beach lighting, shallow depth of field, blue ocean horizon and sandy beach background in every panel.
+
+Main subject: The same miniature young man appears in all 6 panels, about toy-sized, with a handsome youthful face, short dark wavy hair, light skin, wearing a burgundy button-up shirt, black pants, and white sneakers. Keep his identity and outfit consistent across the collage. Use {argument name="character name" default="a miniature young man"} as the recurring subject.
+
+Panel count and contents: Use exactly 6 panels.
+1. Top-left: A giant human hand tilts a small pink bucket, pouring a mound of dry sand over and around the tiny man while he sits on the beach with both hands raised in surprise.
+2. Top-right: The tiny man sits inside a giant pink frosted donut-shaped float in splashing ocean water, wearing a blue snorkel mask/tube and yellow flippers, while a large human hand steadies the float from the right.
+3. Middle-left: The tiny man crouches on the sand and pulls a rope tied around an enormous spiral seashell, as if trying to drag it.
+4. Middle-right: A large human hand holds a red-and-green popsicle on a wooden stick; the tiny man clings to the popsicle with his arms and legs, as if hugging it.
+5. Bottom-left: A giant waffle cone held by a human hand drips melting pink ice cream over the tiny man, who sits on a puddle of pink ice cream with both hands raised.
+6. Bottom-right: The tiny man lounges in a miniature beach chair under a small yellow-and-white umbrella, wearing dark sunglasses, while a large human hand offers him a blue-orange juice box with a white straw.
+
+Visual style: Ultra-realistic macro photography, playful forced-perspective miniature scene, crisp details on sand grains, realistic skin texture on the oversized hands, vivid beach colors, cinematic sunlight, natural shadows, glossy water splashes, realistic scale contrast, high-resolution editorial collage.
+
+Constraints: No text, captions, logos, or watermarks. Keep the same character, clothing, and beach environment in every panel. Make the objects oversized relative to the miniature person, with believable contact shadows and realistic interactions.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2078346787577045487) | 2026-07-18
+
+---
+

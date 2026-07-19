@@ -10978,3 +10978,129 @@ Create a richly detailed square fantasy illustration in the style of a vintage e
 
 ---
 
+### 🏷️ 例 4391：姆巴佩足球冲刺动作
+
+![姆巴佩足球冲刺动作](../images/%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B6%B3%E7%90%83%E5%86%B2%E5%88%BA%E5%8A%A8%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的体育社论动作图片，展示 {argument name="footballer" default="Kylian Mbappé"} 在鲜艳的绿色草坪上冲刺并带球。运动员以动态的低角度四分之三侧面视角呈现，身体大幅前倾，表情专注，一只手臂向后摆动，另一只手臂向前弯曲，身穿带有白色公鸡队徽的蓝色法国国家队队服，号码为 {argument name="jersey number" default="10"}，搭配蓝色短裤、亮红色球袜、红色足球鞋和白色护腕。在靠近前景的领先脚下方放置一个经典的黑白足球，足球周围环绕着漫画风格的红白相间冲击波，空中飞溅着细小的黑色草皮碎屑。背景：一面平整的淡粉色体育场广告墙，顶部印有巨大的粗体斜体蓝色大写字母 {argument name="background word" default="TOAKL"}，部分被球员遮挡。运动员和队服细节需呈现超写实质感，采用戏剧性的定格运动摄影布光，浅景深，色彩饱和，垂直 2:3 构图，画面中无其他球员，无水印，无额外可读文字。
+
+[English]
+Create a high-energy editorial sports action image of {argument name="footballer" default="Kylian Mbappé"} sprinting and dribbling a soccer ball on a vivid green grass pitch. The athlete is captured mid-stride in a dynamic low-angle three-quarter view, leaning sharply forward with intense focused expression, one arm swept back and the other bent forward, wearing the blue France national team kit with visible white rooster crest, number {argument name="jersey number" default="10"}, matching blue shorts, bright red socks, red football boots, and a white wrist tape. Place a classic black-and-white soccer ball near the foreground under his leading foot, with comic-book style red-and-white impact bursts around the ball and small black turf debris flying through the air. Background: a flat pastel pink stadium-advertising wall with huge bold italic blue uppercase text reading {argument name="background word" default="TOAKL"} across the top, partly obscured by the player. Use crisp photorealistic detail on the athlete and kit, dramatic frozen-motion sports photography lighting, shallow depth of field, saturated colors, vertical 2:3 composition, no extra players, no watermark, no additional readable text.
+```
+
+**来源：** [@Gizem Akdag](https://x.com/gizakdag/status/2078584316813066551) | 2026-07-18
+
+---
+
+### 🏷️ 例 4392：月光下的山谷背景
+
+![月光下的山谷背景](../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%B1%B1%E8%B0%B7%E8%83%8C%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级超写实的夜景背景，采用 16:9 宽屏比例，视角从高处山坡俯瞰广阔的山谷。前景暗部细节丰富，一条蜿蜒的土路从底部中心附近延伸开来，地面散布着岩石、不平整的草地，两侧由茂密的橡树状树木和灌木丛环绕。道路向下蜿蜒进入中下方的村庄，温暖的金色窗灯和路灯形成温馨的聚落，随后化作微弱的光线穿过山谷。在村庄之外，展现层叠起伏的丘陵、远处的山脊、零星的微小聚落灯火，以及一条反射着光线的河流或道路延伸至地平线。天空为深海军蓝黑色，上方中心可见垂直的银河带，繁星点点，右上角有一弯细细的月牙，月亮附近有几朵柔和的云。光影应为自然月光与温暖村庄灯光的融合，氛围深邃宁静，具有高动态范围、写实的空气感、微妙的景深、清晰的前景纹理和宏大的空间感，画面中无人、无文字、无水印。场景地点可自定义为 {argument name="landscape location" default="偏远山谷"}，时间为 {argument name="time of night" default="深夜"}，月相为 {argument name="moon phase" default="细细的月牙"}，聚落类型为 {argument name="village type" default="小型乡村"}，视觉氛围为 {argument name="visual mood" default="宁静的电影感孤独感"}。
+
+[English]
+Create a cinematic ultra-realistic nocturnal landscape background in a wide 16:9 aspect ratio, viewed from a high hillside lookout over a vast mountainous valley. The foreground is dark and detailed with a winding dirt road starting near the bottom center, scattered rocks, uneven grass, and dense oak-like trees and shrubs framing both sides. The road snakes downward into a small village in the lower middle distance, where warm golden window lights and street lamps form a cozy cluster, then continues as faint glowing lines through the valley. Beyond the village, show layered rolling hills, distant mountain ridges, tiny scattered settlement lights, and a faint river or road reflecting light toward the horizon. The sky is deep navy-black with a visible vertical band of the Milky Way across the upper center, many fine stars, a thin crescent moon in the upper right, and a few soft clouds near the moon. Lighting should be natural moonlight mixed with warm village lights, very moody and tranquil, high dynamic range, realistic atmospheric haze, subtle depth, sharp foreground texture, expansive sense of scale, no people, no text, no watermark. Customize the scene location as {argument name="landscape location" default="a remote mountain valley"}, the time as {argument name="time of night" default="late night"}, the moon phase as {argument name="moon phase" default="thin crescent moon"}, the settlement type as {argument name="village type" default="small rural village"}, and the visual mood as {argument name="visual mood" default="peaceful cinematic solitude"}.
+```
+
+**来源：** [@Ayub](https://x.com/ayub_kokabi/status/2078580408967696448) | 2026-07-18
+
+---
+
+### 🏷️ 例 4405：哥布林森林冲锋
+
+![哥布林森林冲锋](../images/%E5%93%A5%E5%B8%83%E6%9E%97%E6%A3%AE%E6%9E%97%E5%86%B2%E9%94%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个名为 {argument name="scene title" default="哥布林冲锋"} 的黑暗奇幻电影感战斗场景：一大群哥布林正穿过茂密的古老森林，直冲向观众。前景中共有 5 只突出的冲锋哥布林：左下方是一只咆哮着、手持圆形木盾和短武器的哥布林；正前方是一只张着嘴、表情凶狠向前猛扑的哥布林；右下方是一只挥舞着弯刀的哥布林；左中位置是一只蹲伏着、手持小圆盾的哥布林；右中位置是一只戴着破烂红兜帽、手持带钩尖刺武器的哥布林。在它们身后，放置一位位于中心、体型比其他哥布林更高大魁梧的哥布林军阀，身穿破旧的深色金属板甲和皮带，一手握着长矛或旗杆，另一手持圆盾。深层背景中填满数十只挤在森林小径上的小型哥布林战士，它们举着长矛、剑、棍棒和盾牌，营造出一种势不可挡的冲锋感。使用 {argument name="creature skin color" default="橄榄绿"} 的褶皱皮肤、尖耳朵、尖牙、秃头或稀疏的头发、愤怒且富有表现力的面孔、肮脏的皮甲、金属碎片、红色布料装饰、泥土、划痕和污垢。环境设定为阴暗的针叶林，有高大的树干、苔藓、树根、湿叶、翻滚的泥土、灰尘以及透过树冠射入的迷雾光束。构图采用低角度动态视角，哥布林从景深处向镜头冲来；前景人物清晰且具有威慑力，背景中的大军被烟雾和动态模糊处理。视觉风格：超写实黑暗奇幻概念艺术，粗犷的电影级光影，高细节，强烈的对比度，大地色系（棕色和绿色），混乱的动感，4:5 垂直比例，无文字，无水印。
+
+[English]
+Create a dark cinematic fantasy battle scene titled {argument name="scene title" default="Goblin Stampede"}: a massive horde of goblins charging directly toward the viewer through a dense ancient forest. The foreground contains exactly 5 prominent charging goblins: one snarling goblin at lower left carrying a round wooden shield and short weapon, one central front goblin lunging forward with a furious open-mouthed expression, one lower-right goblin wielding a curved blade, one mid-left goblin crouched with a small round shield, and one mid-right goblin in a ragged red hood holding a hooked spiked weapon. Behind them, place one larger armored goblin warlord in the center, taller and broader than the rest, wearing battered dark metal plate armor and leather straps, gripping a long spear or banner pole in one hand and a round shield in the other. Fill the deep background with dozens of smaller goblin warriors packed into the forest path, raising spears, swords, clubs, and shields, creating the impression of an overwhelming stampede. Use {argument name="creature skin color" default="olive green"} wrinkled skin, pointed ears, sharp teeth, bald or sparse-haired heads, angry expressive faces, dirty leather armor, scraps of metal, red cloth accents, mud, scratches, and grime. The environment is a shadowy conifer forest with tall tree trunks, moss, roots, wet leaves, churned mud, dust, and misty shafts of sunlight filtering through the canopy. Composition is low-angle and dynamic, with the goblins rushing out of the depth of field toward the camera; foreground figures are sharp and intimidating, background horde slightly blurred by smoke and motion. Visual style: ultra-realistic dark fantasy concept art, gritty cinematic lighting, high detail, dramatic contrast, earthy browns and greens, chaotic movement, 4:5 vertical aspect ratio, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2078490032688771547) | 2026-07-18
+
+---
+
+### 🏷️ 例 4413：四姿态影棚肖像网格
+
+![四姿态影棚肖像网格](../images/%E5%9B%9B%E5%A7%BF%E6%80%81%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一套高端影棚肖像，主角为 {argument name="subject" default="同一位留着深色波浪长发、齐刘海、拥有明亮蓝眼睛的迷人年轻女性"}，身穿 {argument name="clothing" default="白色印花 T 恤，佩戴银色项链和腕表"}。她在 {argument name="background" default="平滑的纯红色背景"} 前拍摄了四种不同的姿态：双手按在脸颊上表现出惊讶，单指抵唇做出“嘘”的手势，双手托腮呈现沉思表情，以及平静地注视并轻轻触碰头发。图像以整齐的 2×2 网格排列，构图居中，采用柔和的专业影棚灯光、85mm 肖像镜头、浅景深，呈现逼真的皮肤细节、照片级真实感、超高细节、奢华编辑美学以及 8K 分辨率。
+
+[English]
+A high-end studio portrait featuring the {argument name="subject" default="same attractive young woman with long, wavy dark hair, blunt-cut bangs, vivid blue eyes"}, dressed in a {argument name="clothing" default="white graphic tee, a silver necklace, and a wristwatch"}. She is photographed against a {argument name="background" default="smooth, solid red backdrop"} in four distinct poses: looking surprised with both hands pressed to her cheeks, making a quiet 'shh' gesture with one finger over her lips, resting her chin on both hands in a thoughtful expression, and gazing calmly while gently touching her hair. The images are arranged in a neat 2×2 grid with centered framing, soft professional studio lighting, an 85mm portrait lens, shallow depth of field, lifelike skin detail, photorealistic quality, ultra-high detail, luxury editorial aesthetic, and 8K resolution.
+```
+
+**来源：** [@WasifAI](https://x.com/doctorwasif/status/2078465949045502046) | 2026-07-18
+
+---
+
+### 🏷️ 例 4430：油彩虹哥特修女
+
+![油彩虹哥特修女](../images/%E6%B2%B9%E5%BD%A9%E8%99%B9%E5%93%A5%E7%89%B9%E4%BF%AE%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的竖构图动漫暗黑奇幻插画，画面主体为 {argument name="character name" default="一位忧郁的修女风少女"}，她正跪在浅浅的黑色反光水池中。画面中需包含 7 个清晰可见的骷髅或骨架元素：1. 左下角半没入水中的骷髅；2. 左侧从水中升起的完整骨架；3. 中左侧后方聚集的 3 个较小骷髅；4. 右后方的一具高大骨架；5. 最右侧边缘的一个大骷髅；6. 右侧骨架旁的一个小骷髅；7. 散落在水中并与水面融合的零碎骨头。少女拥有 {argument name="hair color" default="长长的波浪形金发"}、苍白的皮肤、疲惫的紫罗兰色双眼，表情忧郁；她身穿黑色哥特式宗教长裙，配有长袖、白色荷叶边下摆和袖口、黑色面纱或兜帽、小十字架项链以及深色的披风式斗篷。她以单膝跪地的姿势低伏在水面，一只手触碰着反光的水面，身体呈四分之三侧面朝向观众。背景呈现出昼夜交替的戏剧性对比：左上方是一轮巨大的烈日，散发着放射状的彩色玻璃光芒和粗犷的油画碎片感；右上方是旋转的黑色宇宙之夜，带有深海军蓝、紫色和靛蓝色的笔触，以及金色的星形符号、十字形星座和轨道状圆环。水面呈现出油膜般的彩虹色泽，生动地反射着橙色、青色、品红、紫色、黄色和黑色，水滴从画面底部边缘滴落。运用爆发性的厚涂笔触、喷溅颜料、刮擦的金线、高对比度光影、饱和的油彩虹光泽、华丽的天体图案，以及极具张力的漫画/动漫主视觉风格。保持构图紧凑且呈竖向，角色位于画面中下部，烈日占据左上方，夜空漩涡占据右上方，画面中不包含任何可读文字或水印。
+
+[English]
+Create a highly detailed vertical anime dark-fantasy illustration of {argument name="character name" default="a sorrowful nun-like girl"} kneeling in a shallow pool of reflective black water, surrounded by exactly 7 visible skull or skeleton elements: 1 foreground skull at the lower left partly submerged, 2 left-side full skeletons rising from the water, 3 smaller skulls clustered behind her near the center-left, 4 a tall skeleton at the right rear, 5 a large skull at the far right edge, 6 a small skull near the right skeleton, and 7 scattered partial bones blended into the water. The girl has {argument name="hair color" default="long wavy golden-blonde hair"}, pale skin, tired violet eyes, and a melancholy expression; she wears a black religious gothic dress with long sleeves, a white ruffled hem and cuffs, a black veil or hood, a small cross necklace, and a dark cape-like mantle. She is posed low to the water with one knee raised, one hand touching the reflective surface, her body angled three-quarter view toward the viewer. The background is split into a dramatic contrast of day and night: on the upper left, an enormous blazing orange sun with radial stained-glass rays and rough painterly shards; on the upper right, a swirling black cosmic night sky with deep navy, purple, and indigo brushstrokes, golden star symbols, small cross-shaped constellations, and orbit-like circles. The water is an oil-slick rainbow surface with vivid reflections of orange, cyan, magenta, purple, yellow, and black, including visible drips falling off the bottom edge of the scene. Use explosive impasto-like brush texture, splattered paint, scratched gold lines, high contrast lighting, saturated oil-rainbow iridescence, ornate celestial motifs, and a dramatic manga/anime key visual style. Keep the composition dense and vertical, with the character centered slightly below mid-frame, the sun dominating the upper left, the night vortex dominating the upper right, and no readable text or watermark.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078430245594763486) | 2026-07-18
+
+---
+
+### 🏷️ 例 4437：动漫风草莓 1500 庆祝蛋糕
+
+![动漫风草莓 1500 庆祝蛋糕](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E8%8D%89%E8%8E%93%201500%20%E5%BA%86%E7%A5%9D%E8%9B%8B%E7%B3%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨的电影级动漫风格庆祝肖像：一位美丽的年轻女性，拥有 {argument name="hair color" default="长波浪栗棕色头发"} 和金色的眼睛，身体前倾，站在一个巨大的圆形草莓奶油蛋糕后，温柔地微笑着，双手向观众敞开，仿佛在展示这个蛋糕。蛋糕上覆盖着奶油糖霜、裱花玫瑰和许多光泽诱人的草莓；顶部用红色小草莓拼写出醒目的数字 {argument name="cake number" default="1500"}，蛋糕顶边缘环绕着一圈草莓，侧面也装饰着草莓切片。她身穿露肩象牙白蕾丝连衣裙，带有精致的花卉纹理，佩戴着垂坠耳环和一条小金项链。场景设定在室内，背景是一张铺着蕾丝桌布的温馨派对餐桌，伴有闪烁的琥珀色光斑、轻柔漂浮的星光和温暖的背光。在左上方背景中，加入金属青铜色气球，上面有清晰可见的庆祝文字：{argument name="balloon text" default="1500 Thank you!!"}。在左上角添加一行半透明的小水印文字 {argument name="watermark text" default="CapCut AI"}。采用 3:4 竖构图，近景视角，浅景深，丰富的金色高光，高度细腻的半写实动漫渲染，浪漫的庆祝氛围，画面中不要出现其他角色。
+
+[English]
+Create a warm, cinematic anime-style celebration portrait: a beautiful young woman with {argument name="hair color" default="long wavy chestnut-brown hair"} and golden eyes leans forward behind a large round strawberry shortcake, smiling gently and holding both hands open toward the viewer as if presenting the cake. The cake is covered in cream frosting, piped rosettes, and many glossy strawberries; the number {argument name="cake number" default="1500"} is written large on top using small red strawberries, with an additional ring of strawberries around the top edge and sliced strawberries decorating the side. She wears an off-shoulder ivory lace dress with delicate floral texture, dangling earrings, and a small gold necklace. Set the scene indoors at a cozy party table with lace cloth, glowing amber bokeh lights, soft floating sparkles, and warm backlighting. In the background on the upper left, include metallic bronze balloons with readable celebration text: {argument name="balloon text" default="1500 Thank you!!"}. Add a small semi-transparent watermark text {argument name="watermark text" default="CapCut AI"} in the upper-left corner. Use a vertical 3:4 composition, close-up perspective, shallow depth of field, rich golden highlights, highly detailed semi-realistic anime rendering, romantic celebratory atmosphere, and no extra characters.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2078412651630342343) | 2026-07-18
+
+---
+
+### 🏷️ 例 4445：风化的日本交通标志
+
+![风化的日本交通标志](../images/%E9%A3%8E%E5%8C%96%E7%9A%84%E6%97%A5%E6%9C%AC%E4%BA%A4%E9%80%9A%E6%A0%87%E5%BF%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的动漫背景插画，以低角度视角展现城市中的日本行人过街信号灯组，背景为生动的夏日天空。画面中需包含 4 个安装在风化浅色金属杆上的主要标志/信号元素：1) 一个大型蓝色圆形行人与自行车共用标志，上方为白色成人牵着儿童手的图标，下方为白色自行车图标；2) 其下方是一个小型矩形白色标志，上面用蓝色文字显示 {argument name="small sign text" default="自転車通行可"}；3) 一个带有蓝色边框的高矩形白色标志，上面用粗体蓝色竖排文字显示 {argument name="vertical sign text" default="歩行者 自転車 専用"}；4) 右侧是一个交通信号灯箱，下方绿色的行人通行信号灯亮起，上方红灯熄灭。在左上方添加一个被部分裁切的大型空白矩形路标牌。所有金属外壳、支架、螺栓、管道和标志边缘均需呈现严重的陈旧感，带有掉漆、锈迹、污渍、划痕和日晒褪色的痕迹。标志上的日文字体需清晰准确，具备高质量的可读性。背景为饱和度高的蓝天，配有大团蓬松的白色积云。风格：细腻的手绘日本动画电影背景，温暖的阳光，微妙的赛璐珞风格轮廓，绘画质感，高对比度，写实透视，16:9 横向构图，街道上无人、无车，无水印，除指定的标志文字外，不包含任何额外文字。
+
+[English]
+Create a cinematic anime background illustration of an urban Japanese pedestrian crossing signal cluster viewed from a low angle against a vivid summer sky. Show exactly 4 main visible sign/signal elements mounted on weathered pale metal poles: 1) a large blue circular shared pedestrian-and-bicycle sign with a white adult holding a child's hand above a white bicycle icon, 2) a small rectangular white sign below it reading {argument name="small sign text" default="自転車通行可"} in blue, 3) a tall rectangular white sign with a blue border reading {argument name="vertical sign text" default="歩行者 自転車 専用"} in bold vertical blue characters, and 4) a traffic light box on the right with the lower green walking-person signal illuminated and the upper red lens dark. Add one large blank rectangular road sign panel partly cropped at the upper left. Make all metal housings, brackets, bolts, pipes, and sign edges heavily aged with chipped paint, rust spots, dirt streaks, scratches, and sun-faded surfaces. Use crisp, accurate Japanese typography on the signs, with high-quality readable text. Background is a saturated blue sky with large fluffy white cumulus clouds. Style: detailed hand-painted Japanese anime film background, warm sunlight, subtle cel-shaded outlines, painterly texture, high contrast, realistic perspective, 16:9 horizontal composition, no people on the street, no cars, no watermark, no extra text beyond the specified signage.
+```
+
+**来源：** [@ダルトワ★TV](https://x.com/MireilleDartois/status/2078380628370956322) | 2026-07-18
+
+---
+

@@ -2707,3 +2707,57 @@ low angle, front-facing car close-up, different car color, modern car, no chrome
 
 ---
 
+### 🏛️ 例 4429：哥特式动漫葬礼花园
+
+![哥特式动漫葬礼花园](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%8A%A8%E6%BC%AB%E8%91%AC%E7%A4%BC%E8%8A%B1%E5%9B%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 纵向画幅的暗黑哥特风动漫插画，要求高度细节化且具有绘画感，色调采用柔和的棕褐色、黑色、骨白色和暗金色。画面中心是一位纤细的中性化青年，名为 {argument name="character name" default="未完成的王子"}，留着凌乱的 {argument name="hair color" default="浅金色"} 中长发，半眯着双眼，嘴角带着淡淡的忧郁微笑，身穿黑色正装，内搭白衬衫，佩戴精致的链式胸针和白色手套。他站在一片茂密的葬礼花园中，花园里布满了细小的白色满天星和巨大的苍白彼岸花，左手拿着一束小花，右手戴着手套向观众伸出，做出召唤的姿态。周围环绕着 14 个令人不安的人物：1 个中央人形，6 个由长而纠缠的头发组成、面部呈现空洞黑洞的背景幽灵，以及 7 个身穿黑西装、头戴皱巴巴纸袋或领口空空的模特状哀悼者。前景和两侧需包含 5 朵醒目的大型彼岸花，无数白色小花填满整个场景，底部和下侧需有 4 只从花丛中伸出的清晰骷髅手。背景应渐变为纯黑色，营造出一种幽闭的舞台式构图。运用细腻的线条、复杂的植物细节、戏剧性的明暗对比光影、发丝和手套上的柔和高光，展现诡异之美，融入未完成和畸形的元素，无文字，无水印，无鲜艳色彩，无现代物品。
+
+[English]
+Create a dark gothic anime illustration on a vertical 2:3 canvas, highly detailed and painterly, in muted sepia, black, bone-white, and tarnished gold tones. Center a slender androgynous young man named {argument name="character name" default="the unfinished prince"} with messy {argument name="hair color" default="pale blond"} medium-length hair, half-lidded eyes, a faint melancholic smile, and a black formal suit with a white shirt, subtle chain brooch, and white glove. He stands in a dense funeral garden of tiny white baby’s-breath flowers and large pale spider lilies, holding a small bouquet in his left hand while extending his right gloved hand toward the viewer in a beckoning gesture. Surround him with exactly 14 unsettling figures: 1 central human figure, 6 faceless upper-background wraiths made of long tangled hair with hollow black face voids, and 7 black-suited mannequin-like mourners with crumpled paper-bag heads or empty collars. Include exactly 5 prominent large spider lilies in the foreground and sides, countless small white blossoms filling the scene, and exactly 4 visible skeletal hands emerging from the flowers near the bottom and lower sides. The background should fade into pure black, creating a claustrophobic stage-like composition. Use delicate linework, intricate floral detail, dramatic chiaroscuro lighting, soft highlights on hair and glove, eerie beauty, unfinished and malformed motifs, no text, no watermark, no bright colors, no modern objects.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078430487245398304) | 2026-07-18
+
+---
+
+### 🏛️ 例 4439：正在装饰小熊草莓蛋糕的女性
+
+![正在装饰小熊草莓蛋糕的女性](../images/%E6%AD%A3%E5%9C%A8%E8%A3%85%E9%A5%B0%E5%B0%8F%E7%86%8A%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="苺と小熊の仕上げ"}
+
+主体：
+明るいキッチンで、20代女性が小さなピンク色のホールケーキをデコレーションしている瞬間。人物は画面中央から右側を大きく占め、ケーキは左下寄りに配置。人物の上半身と両腕、ケーキ台、手前の調理器具まで写す。
+
+人物・表情：
+明るいアイボリーベージュの白肌に、淡いピンクの血色を含む自然でなめらかな肌理。頬、鼻先、肩、鎖骨に繊細なハイライト。ローズピンクのチーク、シャンパンベージュとピンクブラウンのアイシャドウ、細く長いまつ毛、自然な涙袋、柔らかな明るめブラウンの眉、透け感のあるピンクベージュのグロスリップ。黒髪を{argument name="髪型" default="高めのラフなお団子"}にまとめ、右側にアイボリーの花飾り。顔を左下へ傾け、穏やかに集中した表情で絞り口を見つめる。
+
+服装・ポーズ：
+淡いアイボリーを基調とした小花柄のキャミソールトップ。細い肩紐、胸元の繊細なレース、中央のリボン、裾のフリルを備えた日系フェミニンなデザイン。黒いロングスカート、華奢なネックレス、右手首に細いブレスレット、左手首に白い翡翠風バングル。上体をケーキへ前傾させ、人物自身の右手でピンク色の絞り袋を垂直気味に握り、金属口金をケーキ上面へ近づける。人物自身の左手は透明な回転台の縁を軽く支え、指先を自然に開く。
+
+背景・光：
+白と生成りを基調とした清潔な家庭用キッチン。左奥に木製の壁棚、保存瓶、食器、中央奥に小さな植物画、右奥に白いカーテンと観葉植物。ケーキは{argument name="ケーキの色" default="淡いピンク"}の円筒形で、側面にクリームのガーランド、白い小花、パール状の飾り。上面には苺、ピンクの絞り花、小さな白い熊の砂糖細工を置く。手前にはクリームの入ったガラスボウル、苺、白い小鉢、絞り口金。画面右上の窓から柔らかな昼光が入り、右肩、鎖骨、腕、頬、ケーキ表面を明るく照らす。影は左下へ淡く落ち、白い壁から弱い反射光が戻る。
+
+構図・カメラ：
+縦位置4:5。腰上のミディアムショット。カメラは作業台とほぼ同じ高さからわずかに見下ろす角度。人物の頭頂は上端から適度に離し、右肘とスカートは画面右端で自然に裁切。ケーキと絞り口金に視線が集まる三角構図。50mm相当の自然な遠近感、人物の顔、手、ケーキを鮮明にし、奥の棚と植物は穏やかにぼかす。
+
+質感・スタイル：
+自然光を生かした上品な日系ポートレート写真。肌の毛穴や細かな産毛をわずかに残し、過度な美肌補正を避ける。クリームの柔らかさ、苺の瑞々しさ、レースの細い糸、ガラス台の透明感を精密に描写。低彩度のアイボリー、淡いピンク、黒を中心にした落ち着いた配色。繊細な階調、控えめなコントラスト、雑誌写真のような清潔感。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、歪んだケーキ、崩れたクリーム、誤った遠近法、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2078406924148883611) | 2026-07-18
+
+---
+

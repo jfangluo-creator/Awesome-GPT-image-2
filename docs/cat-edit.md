@@ -2849,3 +2849,215 @@ Constraints: Do not add extra panels, people, UI controls, watermarks, or explan
 
 ---
 
+### 🔧 例 4441：照片级写实角色设计图
+
+![照片级写实角色设计图](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为身份基础，将该肖像转换为 {argument name="character name" default="主角"} 的清晰照片级写实角色设计图。保留女性的面部特征、雀斑、发型、黄色衬衫以及逼真的照片质感，并将其扩展为全身参考姿势和生产细节。
+
+画布与风格：宽幅横向角色设计图，采用米白色摄影棚背景，极简编辑排版，细分割线，小型大写技术标签，真实光影，确保所有面板保持高分辨率的照片级写实一致性。
+
+顶部标题：添加标题“CHARACTER DESIGN SHEET — MAIN CHARACTER”以及一行小型元数据：“NAME: — | AGE: {argument name="age" default="28"} | ROLE: {argument name="role" default="FIELD RESEARCHER"} | STYLE: REALISTIC / PHOTOREAL”。
+
+主体布局：在顶部创建 3 个角色视图面板：1) 正面全身中性站姿；2) 右侧侧面视图；3) 背面全身视图。对于新展现的全身造型，添加橄榄色/卡其色修身长裤和棕色皮革系带靴，同时保持衬衫与参考图一致。
+
+表情部分：添加一个居中部分，标题为“FACIAL EXPRESSIONS”，副标题为“CLOSE-UP HEADSHOTS”。包含 3 个特写表情面板，标签分别为：“FOCUSED”（专注）、“SKEPTICAL”（怀疑）和“RELIEVED”（释然）。在所有三个面板中保持角色身份一致。
+
+装备与细节部分：添加底部部分，标题为“GEAR & DETAIL REFERENCES”。包含 4 个细节面板，标签分别为：1) “EARRING DETAIL”（耳环细节），展示小金圈耳环；2) “WRIST — LEATHER WATCH”（手腕 — 皮革手表），展示棕色皮革腕表；3) “BLOUSE FABRIC DETAIL”（衬衫面料细节），展示黄色衬衫纹理和纽扣；4) “BOOTS & PANTS DETAIL”（靴子与裤子细节），展示棕色靴子和橄榄色裤脚。
+
+角色注释：在右下角添加一个紧凑的注释框，标题为“CHARACTER NOTES”，用简短的项目符号总结发型、眼睛、皮肤、上衣、下装、鞋履、配饰和性格。性格描述行使用：{argument name="personality note" default="冷静、敏锐的实地研究员"}。
+
+约束条件：确保所有视图和头像与 REFERENCE_0 在视觉上保持一致，避免将面部更改为其他人，除 3 个视图、3 个表情、4 个细节参考和 1 个注释框外，不要添加额外面板，并确保所有文字清晰易读。
+
+[English]
+Using REFERENCE_0 as the identity base, turn the portrait into a clean photorealistic character design sheet for {argument name="character name" default="main character"}. Preserve the woman’s facial identity, freckles, hair, yellow blouse, and realistic photo look, but expand her into full-body reference poses and production details.
+
+Canvas and style: Wide horizontal character sheet on an off-white studio background, minimal editorial layout, thin divider lines, small uppercase technical labels, realistic lighting, high-resolution photoreal consistency across every panel.
+
+Top header: Add the title “CHARACTER DESIGN SHEET — MAIN CHARACTER” and a small metadata line: “NAME: — | AGE: {argument name="age" default="28"} | ROLE: {argument name="role" default="FIELD RESEARCHER"} | STYLE: REALISTIC / PHOTOREAL”.
+
+Main body layout: Create exactly 3 character view panels across the top: 1) front view, full body, neutral stance; 2) right-side profile view; 3) back view, full body. For the newly visible full-body styling, add olive/khaki slim pants and brown leather lace-up boots while keeping the blouse consistent with the reference.
+
+Expression section: Add a centered section titled “FACIAL EXPRESSIONS” with subtitle “CLOSE-UP HEADSHOTS”. Include exactly 3 close-up expression panels labeled: “FOCUSED”, “SKEPTICAL”, and “RELIEVED”. Keep the same character identity in all three.
+
+Gear and detail section: Add a lower section titled “GEAR & DETAIL REFERENCES”. Include exactly 4 detail panels labeled: 1) “EARRING DETAIL” showing a small gold hoop earring, 2) “WRIST — LEATHER WATCH” showing a brown leather wristwatch, 3) “BLOUSE FABRIC DETAIL” showing the yellow blouse texture and button, 4) “BOOTS & PANTS DETAIL” showing the brown boot and olive pant cuff.
+
+Character notes: Add a compact notes box on the lower right titled “CHARACTER NOTES” with short bullet points summarizing hair, eyes, skin, outfit, bottoms, footwear, accessories, and personality. Use the personality line: {argument name="personality note" default="Calm, observant, field researcher"}.
+
+Constraints: Keep all views and headshots visually consistent with REFERENCE_0, avoid changing the face into a different person, do not add extra panels beyond the 3 views, 3 expressions, 4 detail references, and 1 notes box, and keep all text clean and legible.
+```
+
+**来源：** [@ハカセ アイ(Ai-Hakase)🐾最新トレンドＡＩのためのＸ 🐾](https://x.com/ai_hakase_/status/2078389812738883769) | 2026-07-18
+
+---
+
+### 🔧 例 4459：怀旧日式儿童插画风格
+
+![怀旧日式儿童插画风格](../images/%E6%80%80%E6%97%A7%E6%97%A5%E5%BC%8F%E5%84%BF%E7%AB%A5%E6%8F%92%E7%94%BB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+キャラクターリファレンスではなく完成済みイラストでi2iしてください。
+
+【日本童画変換プロンプト】
+
+日本の郷愁を感じさせる手描きの童画作品へ変換する。
+
+元画像のキャラクターのアイデンティティを維持する。
+
+顔立ち、髪型、髪色、耳、衣装デザイン、配色、ポーズ、構図、視線、表情の雰囲気は元画像を尊重する。
+
+────────────────────
+
+【人物デフォルメ】
+
+人物を約{argument name="頭身" default="3.5〜4"}頭身へ自然にデフォルメする。
+
+幼い子供らしい丸みのある体型。
+
+首を短めに。
+
+肩幅を狭める。
+
+腕と脚をやや短くする。
+
+頬をふっくら丸くする。
+
+顎は小さくする。
+
+鼻は小さく目立たせない。
+
+瞳は大きなアニメ調ではなく、 黒目主体の素朴な目にする。
+
+派手な感情表現は避ける。
+
+穏やかで少しきょとんとした、 静かな表情。
+
+────────────────────
+
+【衣装】
+
+衣装デザインは変更しない。
+
+布は身体より少し大きく、 柔らかく垂れる自然なシルエット。
+
+フリルや布地も柔らかく省略気味に描く。
+
+靴は場面に応じて自然に判断する。
+
+屋内や自然では素足でもよい。
+
+現代の街中では靴を履いていてもよい。
+
+────────────────────
+
+【背景】
+
+背景は元画像の場所を維持する。
+
+背景情報を40〜60％程度まで整理する。
+
+細部は大胆に省略する。
+
+建物や樹木、人混みは輪郭と色面のみで表現する。
+
+背景の主張を弱める。
+
+画面の余白を広く取る。
+
+余白も作品の一部として扱う。
+
+人物を画面いっぱいに描かない。
+
+人物をやや小さめに配置し、 静かな空間を残す。
+
+────────────────────
+
+【小物・動物】
+
+作品の世界観に合う場合のみ、 仔犬または仔猫を一匹自然に配置する。
+
+無理に追加しない。
+
+────────────────────
+
+【線】
+
+細く繊細な手描き線。
+
+黒い輪郭線は使用しない。
+
+柔らかな茶色や墨色の筆線。
+
+線を描きすぎない。
+
+────────────────────
+
+【質感】
+
+紙の黄ばみを強調しない。
+
+紙は白に近い生成り色。
+
+画面全体をセピア色へ変換しない。
+
+紙の質感は控えめ。
+
+絵具が紙へ自然に染み込んだような発色。
+
+均一な水彩フィルターにならない。
+
+デジタルイラストらしいシャープさを抑える。
+
+────────────────────
+
+【色彩】
+
+白を大切にする。
+
+余白は白に近いまま残す。
+
+彩度は控えめ。
+
+日本の伝統色を中心に使用する。
+
+淡い藍色。
+
+灰桜色。
+
+若草色。
+
+淡墨色。
+
+柔らかな朱色。
+
+光は自然光。
+
+強いコントラストは避ける。
+
+────────────────────
+
+【空気感】
+
+静けさ。
+
+郷愁。
+
+優しさ。
+
+風を感じる空気。
+
+時間がゆっくり流れるような雰囲気。
+
+一枚の童話絵本の挿絵として成立する作品。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2078344744405815493) | 2026-07-18
+
+---
+

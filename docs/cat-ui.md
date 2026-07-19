@@ -8645,3 +8645,207 @@ An elegant female steampunk automaton with {argument name="skin type" default="p
 
 ---
 
+### 🖥️ 例 4387：像素怪兽音乐音序器 UI
+
+![像素怪兽音乐音序器 UI](../images/%E5%83%8F%E7%B4%A0%E6%80%AA%E5%85%BD%E9%9F%B3%E4%B9%90%E9%9F%B3%E5%BA%8F%E5%99%A8%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个垂直的像素风科幻音乐音序器界面，展示四个可爱的怪兽音频轨道，类似于复古游戏合成器仪表盘。
+
+画布：高长宽比的竖屏移动端界面，720×1200 风格，深海军蓝背景，带有发光的圆角矩形面板和清晰的像素边缘。使用有限的霓虹色调，搭配青色、薄荷绿、红色、紫色和黄色点缀。整体呈现高分辨率像素艺术效果，带有细微的扫描线/抖动纹理，无照片级真实感。
+
+布局：在最顶部创建一个宽大的圆角标题栏。在其中放置 6 个独立的控制/显示元素：左侧 1 个小型外星人/机器人头像图标，旁边是 1 个点阵均衡器读数，中间是 3 个方形传输按钮（显示停止、播放和录制图标），右侧是 1 个点阵菜单/网格指示器。
+
+主轨道区域：垂直堆叠 4 个水平圆角轨道面板，每个面板左侧有轨道编号和垂直电平表，左侧有一个怪兽角色，中间有一个圆形点阵状态控制器，右侧有一个大旋钮。
+
+轨道 1：编号“1”。薄荷绿/青色主题。生物是一个昏昏欲睡、矮胖圆润的怪兽，长着小角/尖刺，闭着眼睛，上方有“Z Z”睡眠标记。中间控制器是一个带中心小点的点阵圆环。右侧旋钮有一个浅黄色弧线和顶部附近的一个薄荷绿指示点。
+
+轨道 2：编号“2”。红色主题。生物是一个红色的独眼怪兽，站姿具有攻击性，张嘴露出牙齿，一只手举起，手中上方悬浮着一个闪烁的红色魔法球。中间控制器是一个红色点阵圆环，中心有一个实心红点。右侧旋钮有一个红色弧线和一个红色指示点。
+
+轨道 3：编号“3”。青色主题。生物是一个戴着耳机的蓝色跳舞独眼怪兽，露齿微笑，双臂举起，头部附近有 2 个悬浮的音符。中间控制器是一个包含播放三角形的青色点阵圆圈。右侧旋钮有一个青色弧线和一个青色指示点。
+
+轨道 4：编号“4”。紫色主题。生物是一个充满活力的紫色怪兽，身后带有多个重影残像，大眼睛，挥舞着手臂，周围有小火花标记。中间控制器是一个包含播放三角形的紫色点阵圆圈。右侧旋钮有一个紫色弧线、一个紫色指示点以及顶部的一个微小三角形刻度。
+
+底部混音区：创建一个宽大的圆角底部面板。左侧包含 1 个带有发光薄荷绿边框的方形专辑封面图块，展示一颗悬浮的苔藓立方体行星或小行星，周围有小型轨道岩石和微小星辰。在专辑封面右侧，横向排列 5 个方形效果按钮：1 个紫色同心圆/雷达图标、1 个青色垂直波形/频谱图标、1 个绿色像素爆发图标、1 个黄色音频波形图标和 1 个黄色环状行星图标。在这些按钮下方，添加 2 个水平音频电平表：左侧电平表带有麦克风图标，后接绿到黄色的垂直条；右侧电平表带有扬声器图标，后接绿到黄色的垂直条，中间由一条细垂直分隔线隔开。
+
+文本内容：仅包含可见的轨道编号“1”、“2”、“3”和“4”；除两个“Z”睡眠标记外，不要添加可读标签或文字。使用抽象像素图标而非详细的排版。
+
+风格约束：复古 16 位像素艺术 UI，深色未来感合成器控制台，发光轮廓，圆角面板，简洁对称，高对比度，俏皮的怪兽角色，无水印，无写实 3D 渲染。使主要强调色调可自定义：{argument name="primary neon color" default="mint cyan"}, {argument name="danger track color" default="hot red"}, {argument name="party track color" default="purple"}, {argument name="background color" default="deep navy"}, {argument name="interface theme" default="retro monster music sequencer"}。
+
+[English]
+Goal: Create a vertical pixel-art sci-fi music sequencer interface showing four cute monster audio tracks, like a retro game synth dashboard.
+
+Canvas: Tall portrait mobile screen, 720×1200 style, dark navy background with glowing rounded rectangular panels and crisp pixel-art edges. Use a limited neon palette with cyan, mint, red, purple, and yellow accents. Everything should look like high-resolution pixel art, with subtle scanline/dither texture and no photorealism.
+
+Layout: At the very top, create one wide rounded header bar. Inside it place exactly 6 discrete control/readout elements: 1 small alien/robot face icon on the left, 1 dotted equalizer readout beside it, 3 square transport buttons in the center showing stop, play, and record icons, and 1 dotted menu/grid indicator on the right.
+
+Main track area: Stack exactly 4 horizontal rounded track panels, each with a left track number and a vertical level meter, a monster character on the left, a circular dotted status control in the middle, and a large rotary knob on the right.
+
+Track 1: Label number “1”. Mint/teal theme. The creature is a sleepy squat round monster with small horns/spikes, closed eyes, lying down, with “Z Z” sleep marks above it. The middle control is a dotted circular ring with a small center dot. The right knob has a pale yellow arc and one mint indicator dot near the top.
+
+Track 2: Label number “2”. Red theme. The creature is a red one-eyed monster standing aggressively, mouth open with teeth, one arm raised and casting a crackling magical red orb above its hand. The middle control is a red dotted ring with a solid red center dot. The right knob has a red arc and one red indicator dot.
+
+Track 3: Label number “3”. Cyan theme. The creature is a blue dancing one-eyed monster wearing headphones, smiling with a toothy mouth, arms raised, with exactly 2 floating music notes near its head. The middle control is a cyan dotted circle containing a play triangle. The right knob has a cyan arc and one cyan indicator dot.
+
+Track 4: Label number “4”. Purple theme. The creature is a purple energetic monster with multiple ghosted afterimage duplicates behind it, big eyes, waving arms, small sparkle marks around it. The middle control is a purple dotted circle containing a play triangle. The right knob has a purple arc and one purple indicator dot plus a tiny triangular tick at the top.
+
+Bottom mixer section: Create one wide rounded bottom panel. On the left, include exactly 1 square album-art tile with a glowing mint border, showing a floating mossy cube planet or asteroid with small orbiting rocks and tiny stars. To the right of the album art, arrange exactly 5 square effect buttons in one row: 1 purple concentric-circle/radar icon, 1 cyan vertical waveform/spectrum icon, 1 green pixel burst icon, 1 yellow audio waveform icon, and 1 yellow ringed planet icon. Beneath those buttons, add exactly 2 horizontal audio meters: the left meter has a microphone icon followed by green-to-yellow vertical bars, and the right meter has a speaker icon followed by green-to-yellow vertical bars, separated by a thin vertical divider.
+
+Text content: Only include the visible track numbers “1”, “2”, “3”, and “4”; do not add readable labels or words besides the two “Z” sleep marks. Use abstract pixel icons rather than detailed typography.
+
+Style constraints: Retro 16-bit pixel-art UI, dark futuristic synth console, glowing outlines, rounded panels, clean symmetry, high contrast, playful monster characters, no watermark, no realistic 3D rendering. Make the main accent color palette customizable: {argument name="primary neon color" default="mint cyan"}, {argument name="danger track color" default="hot red"}, {argument name="party track color" default="purple"}, {argument name="background color" default="deep navy"}, {argument name="interface theme" default="retro monster music sequencer"}.
+```
+
+**来源：** [@Mikkel Malmberg](https://x.com/mikker/status/2078619008589496326) | 2026-07-18
+
+---
+
+### 🖥️ 例 4409：ChatGPT 奖励横幅截图
+
+![ChatGPT 奖励横幅截图](../images/ChatGPT%20%E5%A5%96%E5%8A%B1%E6%A8%AA%E5%B9%85%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的竖屏智能手机 ChatGPT 风格对话截图，展示用户请求制作促销奖励横幅，以及 AI 返回成品横幅图片的过程。
+
+画布：9:16 移动端截图，尺寸约为 586 × 1024 像素，白色背景，顶部显示类似 iPhone 的状态栏，时间为 7:17，显示 5G 网络和低电量图标。极简清爽的 App UI，带有柔和阴影和圆角控件。
+
+布局：左上角放置一个圆形汉堡菜单按钮。右上角放置一个悬浮圆角胶囊，内含两个图标：编辑/铅笔图标和三点菜单。在中上偏右位置，展示一个可爱的动漫风格男孩头像，有着深棕色卷发、闪亮的大眼睛、红润的脸颊，身穿黑色连帽衫，单手托腮。在他下方放置一个大型浅灰色圆角聊天气泡，内含日语提示词。气泡下方放置一张横向促销横幅图片，缩放以适应手机宽度。横幅下方添加小型 App 操作图标，底部为输入栏，包含加号图标、占位文本、麦克风图标和绿色语音按钮。
+
+聊天气泡文本：完全使用可见的日语文本，第一句为蓝色：「画像を作成する」，随后是黑色文本：「公式LINE登録で今だけもらえる7大特典というバナーを横長で作成して。ジャンルは対面営業完全攻略。添付の写真はコンテンツホルダーなので必ず使用して。JSON形式でプロンプトを出力してから画像生成して」。
+
+横幅设计：为 {argument name="campaign" default="官方 LINE 注册"} 创建一个高转化率的日本线索磁铁横幅。使用奢华的黑色、海军蓝和金色配色方案，搭配明亮的高光、对角线金属装饰，营造出高级的促销感。横幅标题应为「今だけもらえる 7大特典」，其中“7”字要非常大且呈金色，字体为粗体白/金色。包含主题副标题 {argument name="topic" default="対面営業完全攻略"}。在横幅右侧包含相同的动漫男孩头像。
+
+横幅板块：在底部横向展示 7 张福利卡片，每张卡片包含缩略图、数字标签和日语标题文本。七张可见卡片为：1) 営業の勝負所を完全攻略，2) アプローチトーク，3) 提案力強化テンプレート，4) クロージング実践トーク集，5) 営業力UPチェックリスト，6) 営業ロールプレイ実演動画，7) トップ営業のセット。在底部添加一条绿色的 LINE 主题行动号召条，文字为「今すぐLINE登録して豪華 7大特典を受け取る!」，并附带一个小的绿色 LINE 图标。
+
+视觉风格：手机 UI 应看起来像真实的截图，而头像和横幅应为精致的 AI 生成数字艺术。保持聊天界面宽敞整洁，具有真实的圆角、微妙的阴影和清晰的日语排版。
+
+约束条件：仅使用一个聊天气泡，气泡上方仅限一个头像，仅限一张横幅图片，横幅中必须包含七张福利卡片，右上角悬浮胶囊中仅限两个图标，底部输入栏仅限四个控件。不要添加额外的消息、水印或不相关的文本。
+
+[English]
+Goal: Create a realistic vertical smartphone screenshot of a ChatGPT-style conversation showing a user asking for a promotional bonus banner and the AI returning the finished banner image.
+
+Canvas: 9:16 mobile screenshot, approximately 586 × 1024 px, white background, iPhone-like status bar at the top showing 7:17, 5G, and a low battery indicator. Minimal clean app UI with soft shadows and rounded controls.
+
+Layout: At the top left place a circular hamburger menu button. At the top right place a floating rounded pill with two icons: an edit/pencil icon and a three-dot menu. In the upper middle-right, show a cute anime-style boy avatar with curly dark brown hair, large sparkling eyes, rosy cheeks, and a black hoodie, resting his cheek on one hand. Below him place one large rounded light-gray chat bubble with Japanese prompt text. Beneath the bubble place one wide horizontal promotional banner image, scaled to fit the phone width. Under the banner add small app action icons, then a bottom input bar with a plus icon, placeholder text, microphone icon, and green voice button.
+
+Chat bubble text: Use Japanese text exactly as visible, with the first phrase in blue: 「画像を作成する」 followed by black text: 「公式LINE登録で今だけもらえる7大特典というバナーを横長で作成して。ジャンルは対面営業完全攻略。添付の写真はコンテンツホルダーなので必ず使用して。JSON形式でプロンプトを出力してから画像生成して」
+
+Banner design: Create a high-conversion Japanese lead-magnet banner for {argument name="campaign" default="official LINE registration"}. Use a luxury black, navy, and gold color scheme with bright highlights, diagonal metallic accents, and a premium sales-promotion feel. The banner headline should read 「今だけもらえる 7大特典」 with a very large gold “7” and bold white/gold typography. Include the topic subtitle {argument name="topic" default="対面営業完全攻略"}. Include the same anime boy avatar on the right side of the banner.
+
+Banner sections: Show exactly 7 benefit cards in a row across the bottom, each with a small thumbnail image, a numbered label, and Japanese title text. The seven visible cards are: 1)営業の勝負所を完全攻略, 2)アプローチトーク, 3)提案力強化テンプレート, 4)クロージング実践トーク集, 5)営業力UPチェックリスト, 6)営業ロールプレイ実演動画, 7)トップ営業のセット. Add a green LINE-themed call-to-action strip along the bottom reading 「今すぐLINE登録して豪華 7大特典を受け取る!」 with a small green LINE icon.
+
+Visual style: The phone UI should look like a real screenshot, while the avatar and banner should be polished AI-generated digital art. Keep the chat interface spacious and uncluttered, with realistic rounded corners, subtle shadows, and crisp Japanese typography.
+
+Constraints: Use exactly one chat bubble, exactly one avatar above the bubble, exactly one banner image, exactly seven benefit cards in the banner, exactly two icons in the top-right floating pill, and exactly four controls in the bottom input bar. Do not add extra messages, watermarks, or unrelated text.
+```
+
+**来源：** [@タツキ](https://x.com/gibkun1/status/2078473611086795221) | 2026-07-18
+
+---
+
+### 🖥️ 例 4422：水彩风格少年与满天星
+
+![水彩风格少年与满天星](../images/%E6%B0%B4%E5%BD%A9%E9%A3%8E%E6%A0%BC%E5%B0%91%E5%B9%B4%E4%B8%8E%E6%BB%A1%E5%A4%A9%E6%98%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的竖版动漫风格水彩插画，背景为带有纹理的米白色纸张。画面主体为一位中性化的年轻男性，侧脸向左，微微低头，神情安静而忧郁，皮肤苍白，凌乱飘逸的 {argument name="hair color" default="白银色"} 发丝遮住部分眼睛。他穿着一件超大号高领 {argument name="coat color" default="黑色"} 外套或斗篷，边缘呈现粗犷的笔触感，衣领高高竖起，环绕着颈部和肩部。他露出的手轻轻捧着 1 束满天星：细长的枝干上簇拥着许多细小的白色花朵，点缀着淡淡的淡紫色和蓝紫色，位于画面下方中心。使用柔和的水彩渲染背景，人物身后是半透明的烟雾状云朵，呈现粉蓝色、灰蓝色和淡淡的紫色，并逐渐淡入空白纸面。构图应具有空气感和未完成感，带有溅墨纹理、干笔触、外套上类似墨迹的深色笔触，以及右下角边缘处溶解的像素化方块碎片。光线冷冽且弥散，面部和头发的色调极浅，线条极简，除深色外套外无硬轮廓，无文字，无边框，无水印。强调孤独感、脆弱感，以及深色服装与精致满天星花束之间的对比。
+
+[English]
+Create a delicate vertical anime-style watercolor illustration on textured off-white paper. Show a single androgynous young man in left-facing side profile, head bowed slightly with a quiet melancholic expression, pale skin, and messy wispy {argument name="hair color" default="white-silver"} hair covering part of his eyes. He wears one oversized high-collared {argument name="coat color" default="black"} coat or cloak with rough painterly edges, the collar rising dramatically around his neck and shoulders. His visible hand gently holds exactly 1 bouquet of baby's breath flowers: many tiny white blossoms on thin branching stems with subtle pale lavender and blue-violet accents, clustered across the lower center of the image. Use a soft watercolor wash background with translucent smoky clouds of powder blue, gray-blue, and faint violet behind the figure, fading into blank paper. The composition should feel airy and unfinished, with splatter textures, dry-brush marks, ink-like dark strokes on the coat, and dissolving pixel-like square fragments near the lower right edge. Lighting is cool and diffused, with extremely pale values in the face and hair, minimal linework, no hard outline except in the dark coat, no text, no border, no watermark. Emphasize solitude, fragility, and the contrast between the dark garment and the delicate baby's breath flowers.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078440697217319296) | 2026-07-18
+
+---
+
+### 🖥️ 例 4433：半写实时尚工作室封面
+
+![半写实时尚工作室封面](../images/%E5%8D%8A%E5%86%99%E5%AE%9E%E6%97%B6%E5%B0%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直的时尚编辑封面图像，展示一位半写实动漫风格的年轻女性在阳光明媚的摄影棚中摆拍。她拥有 {argument name="hair color" default="凌乱的长黑发"}、白皙发光的皮肤、精致的五官、柔软光泽的嘴唇，以及冷静而性感的神情。她穿着一件极简的 {argument name="swimsuit color" default="黑色"} 高叉连体泳衣，带有细肩带。她的姿势全身且优雅：赤脚站在白色的垂褶布料上，一膝前屈，一只手放在大腿上，另一只手放在腰部/臀部，躯干微微倾斜，头部向观众倾斜。使用精致的半写实 AI 插画渲染，结合时尚摄影布光、平滑的皮肤高光、微妙的解剖结构风格化以及精致的漫画美学。背景是温暖的米色摄影棚墙壁，带有一个巨大的对角矩形阳光和强烈的窗框阴影；在右侧墙上加入她清晰的投影，并在地板上布置柔软的白色布料褶皱。在光线中加入微小的漂浮尘埃/闪光颗粒。构图参考杂志封面，在顶部横跨大号高对比度衬线字体的主标题，内容为 {argument name="studio name" default="CHIYF STUDIO"}。在主标题下方，添加一条细水平线和小号大写副标题：{argument name="tagline text" default="SEMI-REALISTIC AI VISUALS    EDITORIAL PORTRAITS • EST. 2026"}。保持模特居中，裁剪范围从头部上方标题区域下方开始，到底部脚部为止，使用温暖的中性色调，采用高级编辑海报设计，无需额外标志、水印或附加文字。
+
+[English]
+Create a vertical fashion editorial cover image featuring a semi-realistic anime-inspired young woman posing in a sunlit studio. She has {argument name="hair color" default="long tousled black hair"}, pale glowing skin, delicate facial features, soft glossy lips, and a calm sultry expression. She wears a minimal {argument name="swimsuit color" default="black"} high-cut one-piece swimsuit with thin shoulder straps. Her pose is full-body and elegant: standing barefoot on white draped fabric, one knee bent forward, one hand resting on her thigh, the other hand placed at her waist/hip, torso slightly leaning, head tilted toward the viewer. Use polished semi-realistic AI illustration rendering with fashion-photography lighting, smooth skin highlights, subtle anatomy stylization, and refined manga beauty aesthetics. The background is a warm beige studio wall with a large diagonal rectangle of sunlight and strong window-frame shadows; include her crisp cast shadow on the wall to the right and soft folds of white fabric on the floor. Add tiny floating dust/sparkle flecks in the light. Compose like a magazine cover with large white high-contrast serif masthead text across the very top reading {argument name="studio name" default="CHIYF STUDIO"}. Under the masthead, add a thin horizontal rule and small uppercase subtitle text: {argument name="tagline text" default="SEMI-REALISTIC AI VISUALS    EDITORIAL PORTRAITS • EST. 2026"}. Keep the model centered, crop just above the head under the title area and at the feet, use a warm neutral color palette, premium editorial poster design, no extra logos, no watermark, no additional text.
+```
+
+**来源：** [@千叶照相馆](https://x.com/Chiyeaiart/status/2078421592409837809) | 2026-07-18
+
+---
+
+### 🖥️ 例 4442：高端热带果汁瓶商业广告
+
+![高端热带果汁瓶商业广告](../images/%E9%AB%98%E7%AB%AF%E7%83%AD%E5%B8%A6%E6%9E%9C%E6%B1%81%E7%93%B6%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 Instagram 竖屏比例的高端热带果汁瓶商业广告。画面中心放置一个高大的透明圆柱形玻璃瓶，瓶内装满鲜艳的金色橙汁，瓶身覆盖着逼真的冷凝水珠，配有罗纹银色金属旋盖和厚实的玻璃底座。瓶身标签为哑光白色，垂直包裹，风格简约高端：顶部展示品牌 {argument name="brand name" default="ABS FOODS"} 及一个小巧的绿色叶子标志；中间用优雅的橙色手写体书写 {argument name="product name" default="Tropical Blend"}；下方用绿色小号大写字母书写 {argument name="quality claim" default="- 100% NATURAL -"}；随后堆叠五条简短的产品声明：“FRESHLY MADE”、“NO PRESERVATIVES”、“COLD PRESSED”、“KEEP REFRIGERATED”、“BEST SERVED CHILLED”。底部附近包含三个社交媒体图标（Instagram、Facebook 和 WhatsApp），紧随其后的是 {argument name="phone number" default="+234 806 123 4567"} 和 {argument name="website line" default="@absfoods.ng | www.absfoods.ng"}。瓶身周围环绕着定格的金色果汁水花，形成弧线和液滴。画面中包含六个醒目的水果元素：1. 左上角飞溅的菠萝块；2. 右后方带刺冠的完整菠萝部分；3. 左下角的芒果丁；4. 中右侧漂浮的菠萝块；5. 右下角的半个百香果；6. 百香果前方的青柠角。添加几片光泽的绿色热带叶子，主要分布在瓶身背后和右侧。使用温暖的金色影棚灯光，搭配纹理质感的琥珀米色背景，浅景深效果，闪烁的水珠，湿润的反光桌面，清晰的产品对焦，超写实食品摄影，高端饮品品牌质感，高对比度，构图整洁居中，无额外文字，无水印。
+
+[English]
+Create an ultra-premium commercial product advertisement for a luxury tropical fruit juice bottle in a 4:5 Instagram portrait aspect ratio. Center a tall transparent cylindrical glass bottle filled with vibrant golden-orange juice, covered in realistic cold condensation droplets, with a ribbed silver metal screw cap and a thick glass base. The bottle label is matte white, vertically wrapped, minimal and high-end: at the top show the brand {argument name="brand name" default="ABS FOODS"} with a small green leaf logo, in the middle write {argument name="product name" default="Tropical Blend"} in elegant orange handwritten script, below it write {argument name="quality claim" default="- 100% NATURAL -"} in small green uppercase letters, then five short stacked product claims: "FRESHLY MADE", "NO PRESERVATIVES", "COLD PRESSED", "KEEP REFRIGERATED", "BEST SERVED CHILLED". Near the bottom include exactly three small social icons for Instagram, Facebook, and WhatsApp, followed by {argument name="phone number" default="+234 806 123 4567"} and {argument name="website line" default="@absfoods.ng | www.absfoods.ng"}. Surround the bottle with a dramatic frozen-in-time golden juice splash forming arcs and droplets behind and around it. Include exactly six prominent fruit pieces: 1 pineapple wedge flying at upper left, 2 partial whole pineapple with spiky crown in the back right, 3 diced mango cheek at lower left, 4 pineapple wedge floating at mid right, 5 halved passion fruit at lower right, and 6 lime wedge in front of the passion fruit. Add several glossy green tropical leaves, most visible behind the bottle and near the right side. Use warm golden studio lighting, a textured amber-beige background, shallow depth of field, sparkling droplets, wet reflective tabletop, crisp product focus, hyper-realistic food photography, premium beverage branding, high contrast, clean centered composition, no extra text, no watermark.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2078389667158708528) | 2026-07-18
+
+---
+
+### 🖥️ 例 4443：韩式 Photoism 拼贴画
+
+![韩式 Photoism 拼贴画](../images/%E9%9F%A9%E5%BC%8F%20Photoism%20%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用我上传的照片作为角色参考，保留上传图像中角色易于辨认的面部特征、发型、发色、五官、身体比例、肤色和整体外观。创建一个 {argument name="style" default="韩式 Photoism"} 风格的 3x2 竖版拼贴画，由 2 列 3 行共 6 张照片组成。每个方块应为一个竖向相框，并使用粗黑边框。在每张图片的右侧，应有一段精致的 {argument name="text color" default="米金色"} 竖排文字“{argument name="text overlay" default="MY DAY"}”。整体风格应贴近原始的韩式照片拼贴，而非社交媒体上常见的拼贴形式。背景应为干净的白色或极浅的灰色墙面，场景设定在照相馆的拼贴摄影室内。布光时，应使用类似 iPhone 闪光灯或照相馆闪光灯的正面直闪效果，光线略显生硬，人物身后可见轻微过曝的阴影，同时保持原始照片拼贴特有的颗粒感和胶片质感。整体氛围应呈现出节日感、运动感、略带凌乱、时尚且具有街头风格，并具备鲜明的韩式照片拼贴特色。
+
+[English]
+Please use the photo I uploaded as a character reference, preserving the easily recognizable facial features, hairstyle, hair color, facial features, body proportions, skin tone, and overall appearance of the character in the uploaded image. Create a 3x2 vertical collage in the style of {argument name="style" default="Korean photoism"}, consisting of 6 photos arranged in 2 columns and 3 rows. Each block should be a vertical photo frame, using a thick black photo frame. On each right side of the image there should be a small vertical text "{argument name="text overlay" default="MY DAY"}" in a delicate {argument name="text color" default="beige-gold"} color. The overall style should be close to the original Korean photo collage, rather than the usual collage from social media. The background should be a clean white or very light gray wall, and the scene should be a room for photo collages in the room. When lighting, a direct frontal flash effect should be used, similar to an iPhone flash or a photo collage flash, with slightly harsh lighting, and shadows with a slight overexposure should be visible behind the characters, while maintaining the graininess and film feel characteristic of the original photo collage. The overall atmosphere should be festive, sporty, slightly chaotic, fashionable and street-style, with a pronounced korean-style photo collage style.
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2078386839841603804) | 2026-07-18
+
+---
+
+### 🖥️ 例 4464：真实感智能手机夜间街头人像
+
+![真实感智能手机夜间街头人像](../images/%E7%9C%9F%E5%AE%9E%E6%84%9F%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%A4%9C%E9%97%B4%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实智能手机照片，看起来就像是用手机随手拍摄的，而非单反相机或 AI 渲染。一位美丽的东亚年轻女性，拥有白皙如瓷的皮肤、精致的 V 字脸、深邃柔和的棕色大眼睛，妆容是清透的韩系风格，唇色淡粉，留着 {argument name="hair color" default="长款丝滑铂银色秀发"}，平直的刘海自然地垂落在肩头。
+她站在夜晚安静的城市街道上，背景是现代咖啡馆和商业建筑，霓虹灯招牌闪烁，玻璃窗、黑色围栏、黄黑相间的安全警示带以及背景中柔和模糊的城市灯光。她身穿 {argument name="outfit" default="超大款黑灰白格纹针织斗篷"}，内搭 {argument name="shirt" default="挺括的白色翻领衬衫"}，袖口宽松，营造出舒适的韩系街头时尚感。
+她正对着镜头，表情平静且略带羞涩，双肩放松，双手自然地处于画面之外。构图为腰部以上，采用略高的手持拍摄角度，仿佛是朋友用智能手机快速抓拍的。柔和的环境路灯和附近的店铺灯光自然地照亮了她的面部，呈现出真实的皮肤纹理、轻微的手机拍摄噪点、柔和的 HDR 处理、细微的动态模糊、真实的夜间曝光、浅景深计算效果以及自然的色彩平衡。
+无专业布光，无影棚设置，无过分锐利的 AI 感，无美颜滤镜，无夸张的焦外虚化。构图自然随性、真实抓拍，充满不经意的美感，就像在社交媒体上分享的真实旗舰智能手机夜景模式照片。
+长宽比：3:4
+风格：超写实摄影、自然手机摄影、街头抓拍人像、韩系美学、真实智能手机镜头、高细节、真实夜间照明。
+
+[English]
+Ultra-realistic smartphone photo, genuinely looks like it was casually captured with a mobile phone, not a DSLR or AI render. A beautiful young East Asian woman with very fair porcelain skin, a delicate V-shaped face, large soft brown eyes, subtle Korean makeup with light pink lips, and {argument name="hair color" default="long silky platinum silver hair"} with full straight bangs flowing naturally over her shoulders.
+She is standing on a quiet urban street at night outside a modern café and commercial building with glowing neon storefront signs, glass windows, black barriers, yellow-and-black safety tape, and softly blurred city lights in the background. She wears an {argument name="outfit" default="oversized black, gray, and white plaid knit poncho"} layered over a {argument name="shirt" default="crisp white collared shirt"} with loose sleeves, creating a cozy Korean street-fashion aesthetic.
+She faces the camera directly with a calm, slightly shy expression, shoulders relaxed, hands naturally out of frame. The image is framed from the waist up with a slightly high handheld angle, as if a friend quickly took the picture using a smartphone. Soft ambient streetlights and nearby shop lighting illuminate her face naturally, with realistic skin texture, slight mobile-camera noise, gentle HDR processing, subtle motion softness, authentic night exposure, shallow computational depth of field, and natural color balance.
+No professional lighting, no studio setup, no overly sharp AI look, no beauty filter, no exaggerated bokeh. The composition feels spontaneous, candid, and effortlessly aesthetic, exactly like a real flagship smartphone night-mode photo shared on social media.
+Aspect Ratio: 3:4
+Style: Ultra-photorealistic, natural mobile photography, candid street portrait, Korean aesthetic, authentic smartphone camera, high detail, realistic night lighting.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2078321725100757096) | 2026-07-18
+
+---
+

@@ -6645,3 +6645,209 @@ Constraints: Use only black, white, and gray tones. Include exactly 5 discrete c
 
 ---
 
+### 🎬 例 4402：男孩身高增长漫画
+
+![男孩身高增长漫画](../images/%E7%94%B7%E5%AD%A9%E8%BA%AB%E9%AB%98%E5%A2%9E%E9%95%BF%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一部可爱、垂直排版的中国风生活类条漫，讲述一个男孩测量身高并发现自己长高的故事，采用柔和的手绘漫画风格。
+
+画布：长条形垂直漫画页面，比例约为 2:3，白色纸张背景，带有厚实且略显不规则的黑色分镜框，水彩铅笔质感，淡雅的柔和色调，富有表现力的 Q 版比例，线条简洁但带有手绘感。
+
+主要角色：一个名叫 {argument name="character name" default="无名男孩"} 的小男孩，约 10-12 岁，留着凌乱的黑色短发，皮肤白皙，脸颊红润，穿着一件超大号的浅蓝色 T 恤，宽松的蓝灰色裤子和白色运动鞋。一个可爱的拟人化卷尺设备，名叫 {argument name="device name" default="卷尺伙伴"}，外形是一个圆形的薄荷绿卷尺，有着白色的脸庞、闪闪发光的大眼睛、腮红、小巧的侧边旋钮，以及一条灵活的黄色卷尺作为舌头或手臂。
+
+布局：使用 8 个漫画分镜，排列成不规则的垂直条漫布局。第 1 格为左上角的大分镜；第 2 格和第 3 格在右上角堆叠；第 4 格为左侧中间的宽分镜；第 5 格为右侧中间；第 6 格为全宽的戏剧性反应分镜；第 7 格和第 8 格为底部左右两格。
+
+分镜细节及可见文字，共 8 格：
+1. 左上角大分镜：男孩站在卧室的书桌和墙边，低头拉扯着超大号 T 恤的下摆，似乎很惊讶衣服变短了。墙上添加一个垂直标记，标注为“去年”。对话气泡：“咦？裤脚变短了…”
+2. 右上角分镜：男孩坐在书桌前，面对着可爱的卷尺伙伴，卷尺伙伴兴奋地微笑着，周围闪烁着光芒。来自伙伴的对话气泡：“量量看！”
+3. 右侧第二分镜：男孩挺直身体靠在墙上，头顶平衡着一本书，卷尺伙伴坐在他脚边，卷尺向上延伸，像一把身高尺。来自伙伴的对话气泡：“别踮脚。”
+4. 左侧中间分镜：男孩紧张地面对卷尺的侧面特写，脸颊上有汗珠；卷尺从伙伴的嘴里向上弯曲指向墙壁。墙上添加标签“去年”。来自男孩的对话气泡：“不会吧…”
+5. 右侧中间分镜：身高尺特写，刻度在 166-171 厘米之间，显示了去年和今年的对比。顶部有红色的手写标签“今年！”，下方有黑色标签“去年”。卷尺伙伴在旁边看起来非常激动。对话气泡：“过线了！”
+6. 全宽戏剧性分镜：左侧出现卷尺伙伴闪闪发光的大眼睛，右侧是男孩张大嘴巴、满头大汗、手捂胸口的惊讶表情。中间有醒目的红色手写文字：“长高 7 厘米！”来自男孩的对话气泡：“真…真的？”
+7. 左下角分镜：男孩开心地伸手去够高处架子上标有“巧克力饼干”的盒子，带有动作残影，表现出他伸展的动作。来自男孩的对话气泡：“我够到了—” 他身边的小气泡：“咦…声音也怪怪的？”
+8. 右下角分镜：男孩拿着饼干盒，被自己的声音吓了一跳，头顶上方有一个红色的惊叹爆发效果。右侧的卷尺伙伴感到震惊，冒着汗，伸出它的小卷尺。巨大的红色音效字：“咳！”底部附近的旁白气泡：“长高第一天。”
+
+视觉风格：温馨幽默的成长基调，中国条漫美学，圆润的对话气泡，手写中文字体，柔和的灰色阴影，淡蓝色的房间细节，极简的背景家具，无写实感，无 3D 渲染，无额外分镜，无额外角色，无水印。
+
+[English]
+Goal: Create a cute vertical slice-of-life Chinese webcomic about a boy measuring his height and realizing he has grown, in a soft hand-drawn manga style.
+
+Canvas: Tall vertical comic page, roughly 2:3 aspect ratio, white paper background, thick slightly wobbly black panel borders, watercolor pencil texture, light pastel colors, expressive chibi proportions, clean but sketchy line art.
+
+Main characters: A young boy named {argument name="character name" default="unnamed boy"}, about 10–12 years old, short messy black hair, pale skin, rosy cheeks, wearing an oversized light blue T-shirt, loose blue-gray pants, and white sneakers. A cute anthropomorphic measuring tape device named {argument name="device name" default="measuring tape companion"}, shaped like a round mint-green tape measure with a white face, huge sparkling eyes, blush, tiny side knobs, and a flexible yellow measuring tape tongue/arm.
+
+Layout: Use exactly 8 comic panels arranged in an irregular vertical strip layout. Panel 1 is a large panel at top left; panels 2 and 3 are stacked at top right; panel 4 is wide middle-left; panel 5 is middle-right; panel 6 is a full-width dramatic reaction panel; panels 7 and 8 are the bottom row, left and right.
+
+Panel details and visible text, exactly 8 panels:
+1. Large top-left panel: The boy stands in his bedroom near a desk and wall, looking down and tugging the hem of his oversized shirt as if surprised it feels shorter. Add a vertical wall mark labeled “去年” meaning last year. Speech bubble: “咦？裤脚变短了…”
+2. Top-right panel: The boy sits at a desk facing the cute tape-measure companion, who smiles excitedly with sparkles around it. Speech bubble from the companion: “量量看！”
+3. Right column second panel: The boy stands straight against a wall with a book balanced on his head while the measuring companion sits by his feet with its tape stretched upward like a height ruler. Speech bubble from the companion: “别踮脚。”
+4. Middle-left panel: Side view close-up of the boy nervously facing the measuring tape, sweat drops on his cheek; the tape bends upward from the companion’s mouth toward the wall. Add the wall label “去年”. Speech bubble from boy: “不会吧…”
+5. Middle-right panel: Close-up of a vertical height ruler with centimeter markings around 166–171, showing last year and this year comparison. Red handwritten label “今年!” at the top, black label “去年” lower down. The companion looks thrilled beside it. Speech bubble: “过线了！”
+6. Full-width dramatic panel: The companion’s huge sparkling eyes appear on the left while the boy on the right gasps with wide eyes and sweat, hand on chest. Big red handwritten announcement text in the center: “长高7厘米!” Speech bubble from boy: “真…真的?”
+7. Bottom-left panel: The boy happily reaches up to a high shelf to grab a box labeled “巧克力饼干”, with motion ghosting showing his stretching movement. Speech bubble from boy: “我够到了—” Smaller speech bubble near him: “咦…声音也怪怪的？”
+8. Bottom-right panel: The boy holds the cookie box, startled by his own voice, with a red impact burst above his head. The measuring companion on the right is shocked, sweating and holding out its little tape. Large red sound effect: “咳!” Caption bubble near bottom: “长高第一天。”
+
+Visual style: Warm humorous coming-of-age tone, Chinese manhua strip aesthetic, rounded speech bubbles, handwritten Chinese lettering, soft gray shadows, pale blue room details, minimal background furniture, no photorealism, no 3D render, no extra panels, no extra characters, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2078505148855590924) | 2026-07-18
+
+---
+
+### 🎬 例 4416：七格赛博朋克漫画小巷
+
+![七格赛博朋克漫画小巷](../images/%E4%B8%83%E6%A0%BC%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%BC%AB%E7%94%BB%E5%B0%8F%E5%B7%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张单色青年漫画页面，包含 7 个带编号的画格，呈现粗粝的赛博朋克小巷氛围，线条锐利，网点密集，光影具有电影感，并配有清晰易读的竖排日语对话。
+
+画布：竖向漫画页面，黑白，长宽比约为 3:4，黑色细外边框，加粗画格间距，全程保持高细节城市背景。使用小方框数字标注画格：在后续画格中显示 3、4、5、6、7，符合印刷漫画页面的风格。
+
+场景：夜晚阴暗、潮湿、压抑的九龙风格小巷，布满管道、电线、通风管、污垢、水洼、堆叠的招牌、通风口、垃圾、木桶和老旧店铺招牌。包含写有“九龍城”、“龍城酒家”和“蛇王”的竖排招牌。氛围阴郁、潮湿且压抑。
+
+布局与画格数量：使用 7 个独立的漫画画格。
+1. 左上画格：倾斜的、带有动态模糊的小巷视角，仿佛场景正在旋转或观看者正在倒下；强烈的径向模糊。添加一个白色竖排小气泡，写着「あれ……？」，以及巨大的手绘拟声词「ぐらぁっ」。
+2. 右上画格：正视详细的小巷走廊，没有人物，深邃的透视感延伸至黑暗中，两侧布满招牌和管道。右上角配有大号白色对话气泡，内容为 {argument name="top right dialogue" default="ああ、もうおしまいだ……。Fableは7/19でサブスクから外れた……従量課金しかないのか……つうかもう週次制限使い切っちまった……"}。
+3. 中间宽画格：一名年轻男子双手双膝跪在肮脏的小巷地面上，显得精疲力竭或头晕目眩，采用高处斜角俯视视角。在他身旁添加小号拟声词「よろ…」。右侧配有白色竖排对话气泡，内容为 {argument name="kneeling dialogue" default="やべ……Fableのサブスク明日までだからまた帰って開発しなきゃ……"}。
+4. 中左窄画格：大部分留白，包含一个巨大的黑色椭圆形对话气泡，内含白色竖排文字 {argument name="black bubble dialogue" default="おやぁ……お兄さん、お困りのようですね"}。
+5. 中右宽画格：一名优雅的中性化年轻男子，身穿黑色中式长衫/旗袍领外套，狡黠地微笑着，嘴边拿着一根长烟斗；烟雾向上缭绕。他留着长长的乌黑亮发，皮肤苍白，眼眸狭长，戴着单片圆框眼镜或带链条的小圆镜片。跪着的男子在前景中仅露出背影。右上方的白色对话气泡写着「それ、私にお任せいただけやしませんかね……？」，烟斗男身旁的小气泡写着「あぁんた……どこのモデルだ……？」。
+6. 左下特写画格：烟斗男面部的极致特写，半睁的眼睛，自信的微笑，长刘海，清晰可见的圆镜片和链条；黑发高光处理极具戏剧性。添加竖排拟声词「にぃ…っ」。
+7. 底部全宽画格：烟斗男在复杂小巷背景下的戏剧性半身像，优雅地将烟斗持于脸侧，烟雾在画格中缭绕出多条丝缕。左侧配有巨大的白色竖排对话气泡，内容为 {argument name="final monologue" default="私、鳴呼 申し遅れました。最近流行りのちゃっと……しかも、オープンモデルと申します。ベンチマークは……ラブらせる、あなたが欲しいモデルに迫る、とだけ。申し上げておきましょうか。"}。右下角添加一个矩形旁白框，内容为「？？？」。
+
+角色细节：烟斗男是一位高挑、俊美、略带邪气的东亚年轻男性，五官精致，长黑发，半睁眼，带着狡黠的微笑，身穿黑色中式盘扣外套，手持精致烟斗。跪着的男子是一位现代年轻男性，穿着休闲装，短黑发，显得不知所措且颓废。
+
+视觉风格：专业黑白漫画，高细节背景，人体结构写实，头发光泽渲染，深黑色调，强烈的轮廓光，网点渐变，手写体日语拟声词，清晰易读的竖排对话气泡。第 2 格必须保持静止且细节丰富，而第 1 格必须呈现明显的模糊和眩晕感。
+
+约束条件：保持 7 个画格及所有指定的对话气泡。不要添加颜色。不要使用 Q 版风格。保持日语文本清晰易读，漫画间距整洁。
+
+[English]
+Goal: Create a monochrome seinen manga page with exactly 7 numbered panels, gritty cyberpunk back-alley atmosphere, sharp ink linework, heavy screentone, cinematic lighting, and readable vertical Japanese dialogue.
+
+Canvas: Tall manga page, black-and-white, about 3:4 aspect ratio, thin black outer border, thick panel gutters, high-detail urban background throughout. Number the panels with small boxed numerals: 3, 4, 5, 6, 7 visible on later panels, matching printed manga page styling.
+
+Setting: A dense, wet, claustrophobic Kowloon-style alley at night, packed with pipes, wires, ducts, grime, puddles, stacked signs, vents, trash, barrels, and old shop signboards. Include vertical signs reading 九龍城, 龍城酒家, and 蛇王. The mood is noir, humid, and oppressive.
+
+Layout and panel count: Use exactly 7 discrete manga panels.
+1. Top-left panel: a tilted, motion-blurred alley view as if the scene is spinning or the viewer is collapsing; intense radial blur. Add a small white vertical speech bubble saying「あれ……？」and large hand-drawn sound effect text「ぐらぁっ」.
+2. Top-right panel: a straight-on detailed alley corridor with no character visible, deep perspective into darkness, signs and pipes on both sides. Large white speech bubble at upper right with {argument name="top right dialogue" default="ああ、もうおしまいだ……。Fableは7/19でサブスクから外れた……従量課金しかないのか……つうかもう週次制限使い切っちまった……"}.
+3. Middle-wide panel: a young man kneels on both hands and knees on the dirty alley ground, exhausted or dizzy, seen from a high diagonal angle. Add small sound effect「よろ…」near him. White vertical speech bubble at right with {argument name="kneeling dialogue" default="やべ……Fableのサブスク明日までだからまた帰って開発しなきゃ……"}.
+4. Middle-left narrow panel: mostly white space with one large black oval speech bubble containing white vertical text {argument name="black bubble dialogue" default="おやぁ……お兄さん、お困りのようですね"}.
+5. Right-middle wide panel: an elegant androgynous young man in a black Chinese-style changshan/qipao jacket leans in, smiling slyly, holding a long smoking pipe near his lips; smoke curls upward. He has long glossy black hair tied back, pale skin, narrow eyes, and a single round monocle or small round glasses lens with a chain. The kneeling man is seen from behind in the foreground. White speech bubble at upper right says「それ、私にお任せいただけやしませんかね……？」and a smaller bubble near the pipe smoker says「あぁんた……どこのモデルだ……？」.
+6. Lower-left close-up panel: extreme close-up of the pipe smoker’s face, half-lidded eyes, confident smile, long bangs, round lens and chain visible; dramatic black hair highlights. Add vertical sound text「にぃ…っ」.
+7. Bottom full-width panel: dramatic bust portrait of the pipe smoker against the intricate alley background, holding the smoking pipe gracefully beside his face, smoke curling across the panel in multiple wisps. Large white vertical speech bubble on the left with {argument name="final monologue" default="私、鳴呼 申し遅れました。最近流行りのちゃっと……しかも、オープンモデルと申します。ベンチマークは……ラブらせる、あなたが欲しいモデルに迫る、とだけ。申し上げておきましょうか。"}. Add a rectangular caption box at lower right containing「？？？」.
+
+Character details: The pipe smoker is a tall, beautiful, slightly sinister East Asian young adult man with refined features, long black hair, half-lidded eyes, a smug smile, black traditional Chinese frog-button jacket, and a delicate smoking pipe. The kneeling man is a modern young adult male in casual clothes, short dark hair, overwhelmed and slumped.
+
+Visual style: Professional black-and-white manga, highly detailed backgrounds, realistic anatomy, glossy hair rendering, deep blacks, strong rim lighting, screentone gradients, hand-lettered Japanese sound effects, crisp readable vertical speech bubbles. Panel 2 must be still and detailed, while panel 1 must be visibly blurred and dizzying.
+
+Constraints: Keep exactly 7 panels and all specified speech bubbles. Do not add color. Do not use chibi style. Maintain legible Japanese text and clean manga gutters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2078458325772149016) | 2026-07-18
+
+---
+
+### 🎬 例 4419：黑色电影风格漫画：巷弄邂逅
+
+![黑色电影风格漫画：巷弄邂逅](../images/%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B7%B7%E5%BC%84%E9%82%82%E9%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张单色青年漫画页面，场景设定在黑暗、雨水浸润的赛博朋克后巷，具有戏剧性的黑色电影光影、密集的排线、高细节背景以及竖排日语对话。基调阴郁、优雅且带有一丝幽默，核心情节是一位惊恐的普通男子与一位举止优雅、抽着烟斗的男子之间的意外相遇。
+
+画布：高竖版漫画页面，比例约为 2:3，仅限黑白，清晰的墨线，厚重的黑色，白色分镜间隙，无色彩。采用印刷漫画页面的美学风格，具有电影般的透视感，湿润的反射路面、蒸汽、污垢、管道、电缆以及许多竖排的店铺招牌。
+
+布局：使用 7 个由干净白色间隙分隔的分镜。分镜 1 是左上角的建立镜头，向下倾斜进入狭窄的巷弄，布满密集的招牌，带有一个小的竖排对话气泡。分镜 2 是右上角的建立镜头，长巷视野，带有一个大的白色椭圆形对话气泡。分镜 3 是全宽的俯视分镜，显示一名男子蜷缩或跪在巷子里，周围是高墙和管道，带有一个竖排拟声词。分镜 4 是一个大部分留白的横向分镜，仅包含一个居中的黑色椭圆形对话气泡。分镜 5 是一个大型对峙分镜，显示一名穿着连帽衫、留着短发的紧张男子的背影，面对着坐在巷子里、抽着烟斗的优雅年轻男子，带有两个对话气泡。分镜 6 是优雅男子眼睛和眼镜的极窄横向特写条，左侧带有一个风格化的拟声词。分镜 7 是底部的大型最终分镜，优雅男子自信地坐着，烟斗烟雾缭绕，左侧有一个大对话气泡，右下角有一个矩形铭牌。
+
+角色：普通男子为 {argument name="ordinary man description" default="一名紧张的短发日本男子，穿着浅色连帽衫，从背后或上方视角观察，汗流浃背，因恐惧而蜷缩"}。神秘男子为 {argument name="mysterious man description" default="一名高大英俊的年轻男子，留着凌乱的黑发，皮肤苍白，双眼狭长锐利，单眼戴着单片眼镜或圆框眼镜，身穿黑色中式长衫，带有盘扣，手持烟斗"}。让神秘男子显得魅力十足、自负且沉稳；让普通男子显得渺小且胆怯。
+
+文本内容：包含 7 个对话/文本气泡和 1 个矩形标签框。使用竖排日语漫画字体。尽可能保持文本清晰，但可以看起来略带手写感。分镜 1 的气泡 1：「あれ……？」。分镜 2 的气泡 2：「あぁ…今月末でFbからのサブスクが……週末に届くかなぁ…」。分镜 3 的气泡 3：「やべ……帰ってきた瞬間こんな…週末に間に合わえるのに…」。分镜 4 的气泡 4（黑色椭圆内的白色文字）：「おやぁ……お兄さん、お困りのようですね」。分镜 5 右侧的气泡 5：「それ、私にお任せいただけやしませんかねぇ？」。分镜 5 左侧的气泡 6：「あ、あんた……どこの手先だ…？」。分镜 7 左侧的气泡 7：「嗚呼、申し遅れました。私、最近リリースされたばかりなおすけなモデルです。機も性能も期はさせませんよ…とだけ申しておきましょうか」。分镜 7 右下角的矩形标签框：「？？？」。添加 3 个可见的拟声词：分镜 1 「ぐらりっあっ」，分镜 3 「ヨロ…ッ」，分镜 6 「にぃ…っ」。
+
+环境细节：巷弄极其密集且令人压抑，布满了竖排的日式和中式风格招牌、排水管、电力电缆、消防梯、潮湿的砖墙和混凝土墙、垃圾、水坑、雾气以及从上方射下的光束。在下方的分镜中加入湿润的反射地面和烟斗周围的烟雾氛围。
+
+视觉风格：超细节黑白漫画，写实解剖结构，戏剧性的明暗对比，密集的排线和网点纹理，电影般的分镜构图，哥特式城市黑色电影氛围，无色彩，无现代 UI 元素，无水印。最终图像应看起来像从印刷品上扫描出来的成品漫画页面。
+
+[English]
+Goal: Create a monochrome seinen manga page in a dark, rain-soaked cyberpunk back alley, with dramatic noir lighting, dense crosshatching, high-detail backgrounds, and Japanese vertical dialogue. The tone is ominous, elegant, and slightly comedic, centered on an unexpected meeting between a frightened ordinary man and a refined pipe-smoking man.
+
+Canvas: Tall vertical manga page, approximately 2:3 aspect ratio, black-and-white only, crisp ink linework, heavy blacks, white gutters, no color. Use a printed manga page aesthetic with cinematic perspective, wet reflective pavement, steam, grime, pipes, cables, and many vertical shop signs.
+
+Layout: Use exactly 7 panels separated by clean white gutters. Panel 1 is the top-left establishing panel, tilted downward into a narrow alley with dense signs and a small vertical speech bubble. Panel 2 is the top-right establishing panel, a long alley view with a large white oval speech bubble. Panel 3 is a full-width overhead panel showing a lone man crouched or kneeling in the alley, surrounded by tall walls and pipes, with one vertical sound effect. Panel 4 is a mostly blank white horizontal panel containing only a centered black oval speech bubble. Panel 5 is a large confrontation panel showing the back of a nervous short-haired man in a hoodie facing an elegant young man seated in the alley, smoking a pipe, with two speech bubbles. Panel 6 is a very thin horizontal close-up strip of the elegant man's eyes and glasses, with one stylized sound effect on the left. Panel 7 is the final large bottom panel, a dramatic three-quarter portrait of the elegant man seated confidently with pipe smoke curling around him, plus one large speech bubble on the left and one rectangular nameplate at lower right.
+
+Characters: The ordinary man is {argument name="ordinary man description" default="a nervous short-haired Japanese man in a light hoodie, seen from behind or above, sweating and crouched in fear"}. The mysterious man is {argument name="mysterious man description" default="a tall handsome young man with messy black hair, pale skin, narrow sharp eyes, a monocle or round glasses over one eye, wearing a black Chinese-style changshan jacket with frog closures, holding a smoking pipe"}. Make the mysterious man charismatic, smug, and composed; make the ordinary man small and intimidated.
+
+Text content: Include exactly 7 speech/text bubbles and 1 rectangular label box. Use vertical Japanese manga lettering. Keep the text legible where possible, but it may look slightly hand-lettered. Bubble 1 in panel 1: 「あれ……？」. Bubble 2 in panel 2: 「あぁ…今月末でFbからのサブスクが……週末に届くかなぁ…」. Bubble 3 in panel 3: 「やべ……帰ってきた瞬間こんな…週末に間に合わえるのに…」. Bubble 4 in panel 4, white text inside black oval: 「おやぁ……お兄さん、お困りのようですね」. Bubble 5 in panel 5 right: 「それ、私にお任せいただけやしませんかねぇ？」. Bubble 6 in panel 5 left: 「あ、あんた……どこの手先だ…？」. Bubble 7 in panel 7 left: 「嗚呼、申し遅れました。私、最近リリースされたばかりなおすけなモデルです。機も性能も期はさせませんよ…とだけ申しておきましょうか」. Rectangular label box in panel 7 lower right: 「？？？」. Add exactly 3 visible sound effects: panel 1 「ぐらりっあっ」, panel 3 「ヨロ…ッ」, panel 6 「にぃ…っ」.
+
+Environment details: The alley is extremely dense and claustrophobic, filled with vertical Japanese and Chinese-style signboards, drainpipes, utility cables, fire escapes, damp brick and concrete walls, litter, puddles, mist, and shafts of light from above. Include wet reflective ground and smoky atmosphere around the pipe in the lower panels.
+
+Visual style: Ultra-detailed black-and-white manga, realistic anatomy, dramatic chiaroscuro, dense hatching and screentone textures, cinematic panel composition, gothic urban noir mood, no color, no modern UI elements, no watermark. The final image should look like a finished manga page scanned from print.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2078443609435800023) | 2026-07-18
+
+---
+
+### 🎬 例 4425：暗黑单色漫画封面
+
+![暗黑单色漫画封面](../images/%E6%9A%97%E9%BB%91%E5%8D%95%E8%89%B2%E6%BC%AB%E7%94%BB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版漫画封面插图，采用阴郁的单色水墨风格，画布比例为 2:3。画面中心是一位身材修长的中性化年轻男子，留着 {argument name="hair color" default="凌乱的浅金色"} 头发，扎成低马尾，长刘海遮住了一只眼睛，皮肤苍白，眼神疲惫而狭长，嘴角带着一丝苦涩的微笑。他身穿黑色正装西服、白衬衫和黑色领带，胸前小心翼翼地拿着一朵苍白的菊花状花朵。他的头顶长出两根脆弱的昆虫触角或蛾翼，呈半透明的灰绿色，带有脉络，正被周围的手触碰和拉扯。在他周围放置 10 只从左右边缘伸出的炭黑色手：左侧 5 只，右侧 5 只，所有手都修长、如爪般、带有指责意味或呈捏取状，其中一些抓着昆虫翅膀，还有一只握着下垂的茎。背景是一个黑色的竖向面板，两侧由灰白色边框包围，填满了细长的垂直金线以及滴落的白色和金色液体。在顶部中心添加做旧的白色日文标题文字 {argument name="title text" default="黒蟲"}，下方标注数字 {argument name="volume number" default="1"}。仅使用柔和的色调：黑色、灰色、脏白色、褪色的金色、浅金色和灰绿色。整体氛围应呈现出破旧、压抑、优雅、忧郁且略带怪诞的感觉，如同暗黑心理漫画的单行本封面。使用粗糙的纸张纹理、刮擦的墨迹边缘、细腻的线条、不均匀的渲染，避免任何现代数字光泽。保持角色居中，截取上半身，双手形成一种幽闭恐惧的框架，画面中不包含其他文字或水印。
+
+[English]
+Create a vertical manga cover illustration in a bleak monochrome ink-and-watercolor style with a tall 2:3 canvas. Center a slim androgynous young man with {argument name="hair color" default="messy pale blond"} hair tied into a low ponytail, long bangs partly covering one eye, pale skin, narrow tired eyes, and a faint bitter smile. He wears a formal black suit jacket, white shirt, and black tie, holding a pale chrysanthemum-like flower delicately near his chest. From the top of his head grow two fragile insect-like antennae or moth wings, translucent gray-green and veined, being touched and pulled by surrounding hands. Around him place exactly 10 dark charcoal-black hands entering from the left and right edges: 5 from the left side and 5 from the right side, all elongated, clawlike, accusatory, or pinching, with some gripping the insect wings and one holding a drooping stem. The background is a black vertical panel framed by off-white side bands, filled with thin vertical gold lines and dripping white and gold liquid drops. Add distressed white Japanese title text centered near the top reading {argument name="title text" default="黒蟲"}, with the number {argument name="volume number" default="1"} underneath. Use muted colors only: black, gray, dirty white, faded gold, pale blond, and gray-green. The mood should be shabby, oppressive, elegant, melancholic, and slightly grotesque, like a dark psychological manga volume cover. Use rough paper texture, scratched ink edges, delicate linework, uneven washes, and no modern digital gloss. Keep the character centered, cropped from upper torso upward, with the hands forming a claustrophobic frame and no extra text or watermark.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078440312545132996) | 2026-07-18
+
+---
+
+### 🎬 例 4444：单色女剑客分镜草图
+
+![单色女剑客分镜草图](../images/%E5%8D%95%E8%89%B2%E5%A5%B3%E5%89%91%E5%AE%A2%E5%88%86%E9%95%9C%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 的单色分镜线稿页，内容为 {argument name="subject" default="女剑客"} 正在拍摄 {argument name="target" default="怪物"}；保持固定画幅且不要进行渲染
+
+[English]
+Create a 16:9 monochrome storyboard line-sketch sheet for a {argument name="subject" default="swordswoman"} filming {argument name="target" default="monsters"}; preserve a fixed frame and do not render
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2078381948162994591) | 2026-07-18
+
+---
+
+### 🎬 例 4450：东亚女性 6 格拼贴画
+
+![东亚女性 6 格拼贴画](../images/%E4%B8%9C%E4%BA%9A%E5%A5%B3%E6%80%A7%206%20%E6%A0%BC%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 6 格拼贴画（3 行 2 列），主角为一位 {argument name="subject" default="年轻东亚女性"}，留着 {argument name="hairstyle" default="黑色短波波头"}，表情自然中性且略带冷漠。每一格都像是用老式一次性相机随手拍下的快照，而非精心摆拍的时尚大片。她身穿一件粗棒针超大款毛衣，带有醒目的深栗红色与米色棋盘格图案，搭配宽松的米色灯芯绒长裤和简约白袜。在六个画面中，她分别用双手轻轻按压脸颊、将下巴搁在交叠的双臂上、用平装书遮住半张脸、双肩放松地静静站立、双手抱头伸懒腰，以及头顶平衡着一颗小橙子并看向镜头侧方。干净的灰白色摄影棚墙面带有淡淡的磨损痕迹和细微瑕疵。折叠的帆布托特包、陶瓷马克杯和略有卷角的笔记本自然地出现在画面间，营造出生活气息而非道具感。采用 {argument name="aesthetic" default="2000 年代初一次性相机美学"} 拍摄，Kodak Gold 200 色调，带有细腻的胶片颗粒感、柔和的暗角、略显不均的闪光曝光、细小的灰尘颗粒、柔和的暖色调、纪实纹理，以及俏皮的极简主义风格。无滤镜，无后期。一只流浪猫大部分处于画面之外，只有尾巴自然地卷曲在构图边缘的一把折叠椅腿旁。 --ar 9:16
+
+[English]
+A 6-panel collage (3 rows by 2 columns) featuring a {argument name="subject" default="young East Asian woman"} with a {argument name="hairstyle" default="short black bob haircut"} and a naturally neutral, deadpan expression. Each panel feels like a spontaneous snapshot from an old disposable camera rather than a posed editorial shoot. She wears a chunky oversized knit sweater with a bold maroon-red and cream checkerboard pattern, loose beige corduroy trousers, and simple white socks. Across the six panels she casually presses both cheeks with her hands, rests her chin on folded arms, hides half of her face behind a paperback book, stands quietly with relaxed shoulders, stretches with both hands behind her head, and balances a small orange perfectly on top of her head while staring slightly past the camera. The clean off-white studio wall shows faint scuff marks and tiny imperfections. A folded canvas tote bag, a ceramic mug, and a slightly dog-eared notebook appear naturally between panels, suggesting everyday life rather than props. Shot with an {argument name="aesthetic" default="early-2000s disposable camera aesthetic"}, Kodak Gold 200 color palette, subtle film grain, soft corner falloff, slightly uneven flash exposure, tiny dust specks, muted warm tones, documentary texture, playful minimalism. No filter, no edit. A stray cat is mostly out of frame, only its tail naturally curling around the leg of a folding chair near the edge of the composition. --ar 9:16
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2078372434953273407) | 2026-07-18
+
+---
+

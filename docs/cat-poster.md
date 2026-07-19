@@ -20413,3 +20413,594 @@ Constraints: Use exactly 5 small information elements, exactly 1 large photo, ex
 
 ---
 
+### 🎴 例 4386：粉色兔子 Kigurumi 杂志封面
+
+![粉色兔子 Kigurumi 杂志封面](../images/%E7%B2%89%E8%89%B2%E5%85%94%E5%AD%90%20Kigurumi%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张柔和粉色调的日系可爱生活方式杂志封面，主角为 {argument name="character name" default="Kigurumi-san"}，身穿毛绒兔子 Kigurumi，风格类似于一篇关于“补充可爱能量”的可爱房间探访文章。
+
+画布：垂直 4:5 杂志封面构图，柔和的高调照明，粉色边框，梦幻浪漫的浴室/卧室场景，光泽感编辑风格，照片级写实的年轻女性，配有插画贴纸图形和手写风格的标注。
+
+主体：画面中心为一位皮肤白皙的年轻日本女性，妆容柔和，深棕色直发扎成双马尾，系着粉色小蝴蝶结，齐刘海，表情温柔且略带俏皮。她穿着一件厚实的白色毛绒兔子连体衣，长长的垂耳，内耳为粉色，胸前有巨大的淡粉色蝴蝶结，粉色滚边，带有肉球图案的口袋，超大号毛绒袖口，以及一个小圆兔尾巴。姿势为侧身站立，一条腿俏皮地向后抬起，一只手举在粉色心形镜子旁，直视镜头。整体感觉：“呀，好可爱”的姿势，一个热爱粉色的柔和而略带古怪的女孩。
+
+环境：一个充满毛绒质感和金色装饰的粉白配色少女风浴室。包含 8 个明确的装饰/物品标注：1) 墙上的粉色心形镜子，2) 浴缸旁的金色水龙头，3) 右侧悬挂的粉色毛巾，4) 右侧地面附近的毛绒小物件/毛绒玩具，5) 脚下的兔子地垫，6) 左下角的兔子毛绒玩具，7) 左侧带有粉色花瓣的猫脚浴缸，8) 左下角的 KAWAII POINT 徽章。添加一个猫脚或华丽的浴缸、透明窗帘、架子上的粉色瓶子、粉色圆凳、粉色泰迪熊/毛绒玩具、小爱心、蝴蝶结、蕾丝、闪光和柔和的虚化效果。
+
+排版：顶部使用粗体圆润气泡字体的大号日文标题，白色填充，亮粉色描边：{argument name="headline text" default="着ぐるみさんの日常"}。左上角添加小号英文文本“Enjoy Kigurumi Life!”，主标题下方添加副标题 {argument name="subheadline text" default="可愛いは栄養素"}。标题周围使用大量粉色爱心。右上角添加一个带有蝴蝶结的圆形徽章，上面写着关于今日补充可爱能量的日文。左侧栏放置小号日文杂志正文。在主体周围环绕带有粉色边框和指向物体的弯曲箭头的圆角白色标注框。
+
+文字与标注：保持可见的日文杂志美学。包含 8 个明确的标注框： 「ハートミラー」, 「ゴールド水栓」, 「ピンクタオル」, 「ふわふわ小物」, 「うさぎマット」, 「うさぎのぬいぐるみ」, 「猫脚バスタブ」, 以及 「KAWAII POINT」。右下角添加一个编辑框，标题为“Today’s Mood”，并配有醒目的日文短语 {argument name="mood phrase" default="可愛いは最高の魔法！"}。底部添加页脚文字，如“Kigurumi Life Magazine”、“vol.28”以及一行极小的日文标语。
+
+视觉风格：柔和的粉色单色调，搭配白色、玫瑰粉、腮红粉、亮粉色排版和金色点缀。将照片级写实的时尚摄影与可爱的杂志贴纸、手绘箭头、丝带图标、蕾丝边框、小爱心和圆角标签卡片相结合。使用浅景深、毛绒织物细节、干净的皮肤修饰和明亮通透的照明。
+
+约束：保持仅有一名主角，仅有一套兔子 Kigurumi 服装，以及上述 8 个物品标注框。禁止出现额外人物、深色调、强烈的阴影、水印或杂志设计标注之外的杂乱内容。
+
+[English]
+Goal: Create a pastel pink Japanese kawaii lifestyle magazine cover featuring {argument name="character name" default="Kigurumi-san"} in a fluffy bunny kigurumi, styled like a cute room-tour article about charging up on cuteness.
+
+Canvas: Vertical 4:5 magazine-cover composition, soft high-key lighting, pink border, dreamy romantic bathroom/bedroom setting, glossy editorial finish, photorealistic young woman with illustrated sticker graphics and handwritten-style annotations.
+
+Main subject: Center a young Japanese woman with fair skin, soft makeup, straight dark brown twin tails tied with small pink bows, blunt bangs, and a gentle slightly pouty expression. She wears a thick plush white bunny onesie with long floppy ears, pink inner-ear fabric, a large pale-pink bow at the chest, pink trim, paw-print pockets, oversized fluffy cuffs, and a small round bunny tail. Pose her standing slightly angled, one leg lifted back playfully, one arm raised near a pink heart-shaped mirror, looking directly at the viewer. Overall feeling: “kyaa, so cute” pose, soft but slightly quirky pink-loving girl.
+
+Environment: A pink-and-white girly bathroom full of plush textures and gold fixtures. Include exactly 8 highlighted decor/item callouts: 1) pink heart mirror on the wall, 2) gold faucet by the bathtub, 3) pink towel hanging at right, 4) fluffy small items/plush toys near the floor at right, 5) bunny floor mat near her feet, 6) bunny stuffed animal at bottom left, 7) cat-paw bathtub with pink bath petals at left, 8) kawaii point badge at lower left. Add a claw-foot or ornate bathtub, sheer curtains, pastel bottles on shelves, a pink round stool, a pink teddy bear/plush, small hearts, bows, lace, sparkles, and soft bokeh.
+
+Layout: Large Japanese headline across the top in bold rounded bubble lettering with white fill and hot-pink outline: {argument name="headline text" default="着ぐるみさんの日常"}. Add small English text at upper left reading “Enjoy Kigurumi Life!” and a subheadline under the main title reading {argument name="subheadline text" default="可愛いは栄養素"}. Use many pink hearts around the headline. Add a circular badge at upper right with a bow and Japanese text about charging cuteness today. Place left-column body copy in small Japanese magazine text. Surround the subject with rounded white annotation boxes with pink borders and curved arrows pointing to objects.
+
+Text and callouts: Keep the visible Japanese magazine aesthetic. Include the 8 callout labels exactly as distinct boxes: 「ハートミラー」, 「ゴールド水栓」, 「ピンクタオル」, 「ふわふわ小物」, 「うさぎマット」, 「うさぎのぬいぐるみ」, 「猫脚バスタブ」, and 「KAWAII POINT」. Add a lower-right editorial box titled “Today’s Mood” with prominent Japanese phrase {argument name="mood phrase" default="可愛いは最高の魔法！"}. Add footer text such as “Kigurumi Life Magazine”, “vol.28”, and a tiny Japanese slogan along the bottom.
+
+Visual style: Soft pink monochrome palette with whites, rose pink, blush, hot-pink typography, and gold accents. Mix photorealistic fashion photography with cute magazine stickers, hand-drawn arrows, ribbon icons, lace frames, tiny hearts, and rounded label cards. Use shallow depth of field, plush fabric detail, clean skin retouching, and bright airy lighting.
+
+Constraints: Keep exactly one main person, exactly one bunny kigurumi outfit, and exactly 8 object callout boxes listed above. No extra people, no dark colors, no harsh shadows, no watermark, no unreadable random clutter outside the magazine-design annotations.
+```
+
+**来源：** [@iX｜AIART/AIMOVIE【2nd】](https://x.com/iX00AI2/status/2078630500525310450) | 2026-07-18
+
+---
+
+### 🎴 例 4401：东京城市动态海报
+
+![东京城市动态海报](../images/%E4%B8%9C%E4%BA%AC%E5%9F%8E%E5%B8%82%E5%8A%A8%E6%80%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的混合媒介海报，将 {argument name="city" default="日本东京"} 呈现为城市动态未来主义拼贴画，结合水彩艺术、建筑素描、写实城市摄影和发光的数字技术。
+
+画布：宽幅 16:9 横向海报，高分辨率，采用暖白色纸张纹理，边缘到边缘的构图，带有蓝色和棕褐色水彩污渍、墨水溅点、蓝图标记和分层透明效果。
+
+布局：将图像分为左侧的暖色调日落城市场景和右侧的冷色调未来主义蓝色科技场景。左侧以东京塔为主要垂直地标，右侧以东京晴空塔为主要垂直地标，中心为涩谷风格的城市建筑和人群，右下角前景处有一列山手线列车驶入。添加从左下角街道横跨铁轨向右侧天空流动的霓虹光轨，暗示城市中的动态感。
+
+主要可见元素（精确计数）：包含 2 座主要塔楼：左侧发出橙红色光芒的东京塔和右侧发出蓝色光芒的东京晴空塔。前景包含 1 列火车，为带有绿色条纹的现代银色通勤列车，车头标牌写着“YAMANOTE LINE”。中心包含 1 个涩谷十字路口人群场景，有许多小型行人剪影和潮湿的反光路面。中心包含 1 座显眼的玻璃建筑，带有明亮的“SHIBUYA”标志。包含 3 个半透明的漂浮气泡：右中心附近有一个包含微型夜景倒影的大气泡，右上角天空有两个较小的气泡。包含 4 个建筑草图叠加层：左上中心附近的城市天际线施工草图、其下方的小型街区草图、右侧的大型东京国际论坛风格建筑草图，以及上中心附近的淡色技术立面/网格草图。包含 3 个地图/图表叠加层：左下角沿线带有东京各区标签的深色地图条、上中心附近的圆形坐标/导航图，以及右下角沿线的地形等高线图区域。
+
+文本内容：在左上角添加一个简洁的编辑标题块，包含大号日文文本“東京”，随后是“TOKYO, JAPAN”和“URBAN MOTION”，下方配以简短的纵向排版日文描述。在上中部附近添加一个小坐标标签：“35.6895° N”和“139.6917° E”。在左下角的地图叠加层中添加“SHINJUKU”、“EBISU”和“TOKYO BAY”等小型地图标签。在建筑草图附近添加右侧小型注释文本“TOKYO INTERNATIONAL FORUM”，并附带一个提及东京大都市、涩谷十字路口、东京塔、东京晴空塔和山手线的小列表。在右下角添加一个类似邮票的小方框，包含“東京”和“日本”。保持所有文本微妙且融入设计中，不宜过于抢眼。
+
+视觉风格：水彩渲染加建筑蓝图线条加写实城市蒙太奇；左侧为暮色日落的橙色和紫色，右侧为深钴蓝色和电光蓝；清晰的发光轨道和光轨；高细节城市灯光；分层纸张纹理；白色墨水溅点、点状星座、圆形 HUD 图形和发光的数字弧线。氛围应具有诗意、未来感、科技感和城市感，而非纯粹的摄影感。
+
+光影与色彩：使用 {argument name="color mood" default="从暖橙色日落过渡到冷电光蓝夜晚"}。使东京塔呈现温暖炽热的色调，晴空塔呈现冷峻发光的色调，铁轨呈现出强烈的蓝白色能量光芒。强调潮湿街道和列车车窗上的反光。
+
+约束条件：无特写人物，无单一肖像主体，无纯照片外观，无空白天空，无极简主义。保持构图密集但平衡，体现出动态感、分层的城市记忆、建筑和未来科技。
+
+[English]
+Goal: Create a cinematic mixed-media poster of {argument name="city" default="Tokyo, Japan"} as an urban motion future-city collage, combining watercolor art, architectural sketching, realistic city photography, and glowing digital technology.
+
+Canvas: Wide horizontal 16:9 poster, high resolution, edge-to-edge composition on a warm off-white paper texture with blue and sepia watercolor stains, ink splatter, blueprint marks, and layered transparency.
+
+Layout: Split the image into a warm sunset city scene on the left and a cool futuristic blue technology scene on the right. Use Tokyo Tower as the dominant vertical landmark on the left, Tokyo Skytree as the dominant vertical landmark on the right, Shibuya-style city buildings and crowds through the center, and a Yamanote Line train entering from the lower right foreground. Add sweeping neon light trails that flow from the lower left street across the train tracks toward the right sky, implying motion through the city.
+
+Main visible elements, counted exactly: Include 2 major towers: Tokyo Tower glowing orange-red on the left and Tokyo Skytree glowing blue on the right. Include 1 train in the foreground, a modern silver commuter train with a green stripe and a front sign reading “YAMANOTE LINE”. Include 1 central Shibuya intersection crowd scene with many small pedestrian silhouettes and wet reflective pavement. Include 1 prominent glass building in the center with a bright sign reading “SHIBUYA”. Include 3 translucent floating bubbles: one large bubble near the center-right containing a miniature night skyline reflection, and two smaller bubbles in the upper-right sky. Include 4 architectural sketch overlays: a skyline construction sketch near the top center-left, a small city block sketch below it, a large Tokyo International Forum-style building sketch on the right, and a faint technical elevation/grid sketch near the upper center. Include 3 map/diagram overlays: a dark map strip along the lower left labeled with Tokyo districts, a circular coordinate/navigation diagram near the upper center, and a topographic contour map area along the lower right.
+
+Text content: Add a clean editorial title block in the upper left with large Japanese text “東京”, followed by “TOKYO, JAPAN” and “URBAN MOTION”, then a short vertical-feeling Japanese description beneath it. Add a small coordinate label near the upper middle: “35.6895° N” and “139.6917° E”. Add small map labels such as “SHINJUKU”, “EBISU”, and “TOKYO BAY” in the lower-left map overlay. Add small right-side annotation text “TOKYO INTERNATIONAL FORUM” near the architectural sketch, plus a tiny list mentioning Tokyo Metropolis, Shibuya Crossing, Tokyo Tower, Tokyo Skytree, and Yamanote Line. Add a small stamp-like box in the bottom right containing “東京” and “日本”. Keep all text subtle, integrated into the design, and not overly dominant.
+
+Visual style: Watercolor wash plus architectural blueprint linework plus realistic urban montage; twilight sunset oranges and purples on the left, deep cobalt and electric blue on the right; crisp glowing rails and light trails; high-detail city lights; layered paper texture; white ink splashes, dotted constellations, circular HUD graphics, and luminous digital arcs. The mood should feel poetic, futuristic, technological, and urban rather than purely photographic.
+
+Lighting and color: Use {argument name="color mood" default="warm orange sunset blending into cool electric blue night"}. Make Tokyo Tower warm and fiery, Skytree cool and luminous, and the train tracks intensely glowing with blue-white energy. Emphasize reflections on wet streets and train windows.
+
+Constraints: No people in close-up, no single portrait subject, no plain photo look, no empty sky, no minimalism. Keep the composition dense but balanced, with the feeling of motion, layered city memory, architecture, and future technology.
+```
+
+**来源：** [@Kollab_AI](https://x.com/Kollab_Japan/status/2078505566641787166) | 2026-07-18
+
+---
+
+### 🎴 例 4404：帝国蒸汽朋克图书馆海报
+
+![帝国蒸汽朋克图书馆海报](../images/%E5%B8%9D%E5%9B%BD%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="location name" default="帝国中央图书馆"} 创建一张华丽的竖版蒸汽朋克动漫海报，呈现一座宏伟的奇幻图书馆及其吉祥物角色，使其看起来像一张世界观地点卡片。
+
+画布：竖版 2:3 海报，细节丰富，采用温暖的棕褐色和黄铜色调，高分辨率动漫插画，具有电影般的景深和精致的维多利亚风格装饰。在整个图像周围添加一个细长的黑铜色装饰边框，包含齿轮、类似指南针的圆圈、花丝边角和精细的机械线条。
+
+主要场景：宏伟的帝国图书馆内部，两侧是高耸的书架，深色抛光木材，长长的透视走廊，后方有发光的拱形玻璃窗，梯子、阳台栏杆、旧式灯具、成堆的书籍、板条箱、行李箱，以及温暖光线下细微的尘埃。氛围应如同一个宏大的中央档案馆，收藏着飞艇蓝图、炼金术书籍和古典文学。
+
+主要角色：在前左/中心前景处，展示一位年轻的动漫女巫图书管理员，留着 {argument name="hair color" default="黑色长发，内层带有深红色挑染"}，皮肤白皙，红色的双眼柔和，戴着小圆眼镜，面带冷静自信的微笑。她戴着一顶巨大的黑色尖顶女巫帽，帽檐内侧为红色，配有皮带、黄铜钟面和帽带上的外露齿轮。她的服装是一件维多利亚风格的黑色蒸汽朋克连衣裙，配有泡泡袖、白色衬衫前襟、红色裙摆、高领、红宝石胸针、皮带、黄铜齿轮装饰和金属金色前臂护甲。她用戴着白手套的双手将一本巨大的华丽棕色书籍抱在胸前。
+
+离散可见的角色与机器：包含 1 名主要的女巫图书管理员和 5 名小型蒸汽朋克自动机图书管理员。这 5 名自动机分别是：走廊左下方的一个小型半身自动机，中景书籍堆旁的一个自动机，右侧高书堆旁站立的一个自动机，下方中心推着或站在轮式板条箱旁的一个自动机，以及右下方书堆旁戴着大礼帽的一个较大的前景自动机。给自动机设计圆形的玩偶状头部、黄铜机械身体、齿轮、管道、小手臂和大礼帽。
+
+标题牌：在右上角区域，放置一个带有金色饰边和花丝的深色矩形装饰牌。大型日文标题文字：「帝都大図書館」。下方为较小的英文副标题：“Imperial Central Library”。使用优雅的金色衬线字体。
+
+底部说明面板：在底部添加一个带有金色边框和齿轮装饰的深色华丽信息牌。包含两行日文文字：「中心街にある大図書館。飛行船の設計図から錬金術書、文学まで揃っている。」下方以小号衬线字体包含英文翻译：“A grand library located in the Central Block. It houses everything from airship blueprints and alchemy tomes to classical literature.”
+
+视觉风格：细腻的日本动漫角色艺术与写实的奇幻背景绘画相结合，蒸汽朋克黄铜机械，复杂的齿轮，温暖的背光，抛光木材的反射，优雅的海报构图，高级收藏卡质感。
+
+约束：保持所有可见文字清晰易读，不要添加超出指定数量的额外字符，避免现代科技，避免科幻霓虹灯，避免水印或标志，保持构图平衡，角色位于前景，图书馆走廊在身后延伸。
+
+[English]
+Goal: Create an ornate vertical steampunk anime poster for {argument name="location name" default="Imperial Central Library"}, presenting a grand fantasy library and its mascot character as if it were a worldbuilding location card.
+
+Canvas: Vertical 2:3 poster, richly detailed, warm sepia and brass palette, high-resolution anime illustration with cinematic depth and elaborate Victorian ornamentation. Add a thin black-and-bronze decorative border around the entire image with gears, compass-like circles, filigree corners, and fine mechanical linework.
+
+Main setting: A vast imperial library interior with towering bookshelves on both sides, dark polished wood, long perspective aisle, arched glass window glowing at the back, ladders, balcony rails, old lamps, stacked books, crates, trunks, and subtle dust motes in warm light. The atmosphere should feel like a grand central archive containing airship blueprints, alchemy tomes, and classical literature.
+
+Main character: In the front-left/center foreground, show one young anime librarian-witch girl with long {argument name="hair color" default="black hair with dark red inner highlights"}, pale skin, soft red eyes, small round glasses, and a calm confident smile. She wears a large black pointed witch hat with a red underside, leather straps, a brass clock face, and exposed gears on the hatband. Her outfit is a black Victorian steampunk dress with puff sleeves, white blouse front, red skirt panel, high collar, red gemstone brooch, leather belts, brass gear ornaments, and metallic gold forearm gauntlets. She holds one large ornate brown book against her chest with white-gloved hands.
+
+Discrete visible characters and machines: Include exactly 1 main witch-librarian girl and exactly 5 small steampunk automaton librarians. The 5 automatons are: 1 small partial automaton at the lower left near the aisle, 1 automaton in the mid-background beside stacked books, 1 automaton standing on the right near a tall stack of books, 1 automaton in the lower center pushing or standing beside wheeled crates, and 1 larger foreground automaton at the lower right with a top hat beside stacked books. Give the automatons round doll-like heads, brass mechanical bodies, gears, pipes, small arms, and black top hats.
+
+Title plaque: In the upper-right area, place a dark rectangular ornamental sign with gold trim and filigree. Large Japanese title text: 「帝都大図書館」. Beneath it, smaller English subtitle: “Imperial Central Library”. Use elegant serif lettering in gold.
+
+Bottom caption panel: Add a dark ornate information plaque across the bottom with gold border and gear decorations. Include Japanese text on two lines: 「中心街にある大図書館。飛行船の設計図から錬金術書、文学まで揃っている。」 Beneath it, include the English translation in small serif type: “A grand library located in the Central Block. It houses everything from airship blueprints and alchemy tomes to classical literature.”
+
+Visual style: Detailed Japanese anime character art blended with realistic fantasy background painting, steampunk brass mechanics, intricate gears, warm backlighting, polished wood reflections, elegant poster composition, premium collectible card feel.
+
+Constraints: Keep all visible text sharp and legible, do not add extra characters beyond the exact counts, avoid modern technology, avoid sci-fi neon, avoid watermark or logo, maintain a balanced composition with the character in the foreground and the library aisle receding behind her.
+```
+
+**来源：** [@ドミニク](https://x.com/Jazzma_spastic/status/2078493161375342847) | 2026-07-18
+
+---
+
+### 🎴 例 4407：黑白男装广告
+
+![黑白男装广告](../images/%E9%BB%91%E7%99%BD%E7%94%B7%E8%A3%85%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的黑白奢华时尚广告，主角是一位皮肤白皙、留着深色卷发的瘦削年轻男模，呈现出精致的编辑风格男装大片感。他站在宽幅横向构图的右侧，随意地倚靠在平滑的高大混凝土墙上，一只手插在裤兜里，身穿全黑剪裁西装、黑色开领衬衫、黑色腰带，并佩戴着精致的项链。他神情冷静、疏离且自信，目光略微看向镜头外。背景是一个极简主义的野兽派混凝土建筑走廊，拥有高耸的棱角墙面、锐利的对角线开口、清晰可见的混凝土螺栓孔，左侧开口处可见多云的天空，地面湿润且具有反光感。运用戏剧性的自然侧光，使模特在身后的墙上投下明显的阴影。在左侧中心位置放置优雅的白色衬线字体，内容为 {argument name="headline text" default="Fearlessly Refined"}。保持构图宽敞且具有高级时尚感，强调深邃的灰度对比、胶片颗粒感、柔和的编辑光影以及利落的剪裁细节，画面中不包含额外标志、水印或其它文字。
+
+[English]
+Create a cinematic black-and-white luxury fashion advertisement featuring a slim young male model with pale skin and wavy dark curly hair, resembling a refined editorial menswear campaign. He stands on the right side of a wide horizontal frame, leaning casually against a tall smooth concrete wall, one hand in his trouser pocket, wearing an all-black tailored suit, black open-collar dress shirt, black belt, and subtle necklace. His expression is calm, aloof, and confident, looking slightly off-camera. The setting is a minimalist brutalist concrete architectural corridor with towering angular walls, sharp diagonal openings, visible concrete bolt holes, a cloudy sky visible through the left opening, and a reflective wet floor. Use dramatic natural side lighting so the model casts a distinct shadow on the wall behind him. Place elegant white serif typography on the left-center reading {argument name="headline text" default="Fearlessly Refined"}. Keep the composition spacious and high-fashion, with deep grayscale contrast, film grain, soft editorial lighting, crisp tailoring detail, no extra logos, no watermark, and no additional text.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2078488598178087213) | 2026-07-18
+
+---
+
+### 🎴 例 4421：霓虹动漫烟花杂志封面
+
+![霓虹动漫烟花杂志封面](../images/%E9%9C%93%E8%99%B9%E5%8A%A8%E6%BC%AB%E7%83%9F%E8%8A%B1%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张充满霓虹动漫感的杂志封面插画，描绘一名身着宽松节日和服的俊美中性风青年，风格仿照夏季烟花特刊的周刊漫画封面。
+
+画布：高垂直海报，比例约为 9:16。全出血构图，无白色边距，采用极高饱和度的印刷色彩：电光蓝背景、亮洋红色阴影、酸性黄色排版、青色烟花以及黑色墨水线条。
+
+主体：将 {argument name="character name" default="俊美的金发青年"} 置于画面中心，从头部到腰部，正面朝向，表情慵懒且略显迷离，双唇微张。他留着凌乱的碎发，{argument name="hair color" default="金黄色"}，长刘海遮住一只眼睛，肩上垂着一条松散的侧编辫，在霓虹灯光下呈现出淡薰衣草粉色的皮肤，有着狭长的紫罗兰色眼睛、小耳环以及精致的美少年面部特征。由于和服敞开，他的肩膀和胸部裸露在外，但姿态保持优雅，而非露骨。他的胸部和肩膀覆盖着青色、黄色、粉色和黑色的华丽花卉纹身图案。
+
+服装：他穿着 3 件清晰可见的服饰：1 件敞开的深海军蓝浴衣/和服长袍，带有亮黄色饰边；1 条系在腰间打成大蝴蝶结的亮粉色腰带；以及 1 只垂坠的流苏耳环。长袍面料上布满了重复的烟花、风格化的波浪弧线、花朵绽放和金色纸屑形状。
+
+布局：使其看起来像一张混乱的日式漫画杂志封面。将角色置于占据上半部分的巨大块状标题文字前，文字部分被他的头发和头部遮挡。使用带有洋红色填充和青色/蓝色阴影的巨大黄色字母。在角色身后和周围添加烟花，并将文本列和标注叠放在背景上。
+
+图形元素统计：包含 1 个主体角色，1 个巨大的背景杂志标题，左上角 1 个写有“WEEKLY SU!JO.”的小矩形标签，右上角 1 个写有“02”的圆形期号徽章，右侧 1 个写有“2025”的大年份数字，左侧 3 列垂直日式侧边文本，右侧 4 行堆叠的短预告文字，以及分布在背景和长袍上的 12 处醒目烟花绽放。
+
+文本内容：大型杂志标题可以是伪日式风格的字体，但需包含可读元素“WEEKLY SU!JO.”、“02”、“2025”以及主封面主题 {argument name="cover theme text" default="夏季烟花浪漫特辑"}。用装饰性的日式字形和漫画封面预告排版环绕它们；部分文本可以是刻意风格化或无意义的，只要看起来像印刷的日本杂志封面即可。
+
+视觉风格：超精细动漫线条，少女/青年漫画封面活力，高对比度孔版印刷感，CMYK 套色偏差，霓虹油墨，半色调纹理，彩色轮廓，纸屑飞溅，密集的庆典烟花，光面海报质感，戏剧性的色彩分离，复杂的花卉和烟花图案。
+
+约束：保持图像文字密集且具有装饰性，不要添加额外角色，保持裸露的胸部不露骨，无照片写实感，无暗淡色彩，无水印，无纯色背景。
+
+[English]
+Goal: Create a loud neon anime magazine-cover illustration of a beautiful androgynous young man in a loose festival kimono, styled like a weekly manga cover for a summer fireworks special.
+
+Canvas: Tall vertical poster, about 9:16 aspect ratio. Full-bleed composition with no white margins, extremely saturated print colors: electric blue background, hot magenta shadows, acid yellow typography, cyan fireworks, and black ink linework.
+
+Main subject: Center a {argument name="character name" default="beautiful blond young man"} from head to waist, facing forward with a languid, slightly dazed expression and parted lips. He has messy shaggy {argument name="hair color" default="golden blond"} hair with long bangs covering one eye, a loose side braid over one shoulder, pale lavender-pink skin from the neon lighting, narrow violet eyes, small earrings, and delicate bishonen facial features. His shoulders and chest are exposed because the kimono is dramatically open, but keep the pose elegant rather than explicit. His chest and shoulders are covered with ornate colorful floral tattoo-like patterns in cyan, yellow, pink, and black.
+
+Clothing: He wears exactly 3 visible outfit pieces: 1 wide open dark navy yukata/kimono robe with bright yellow trim, 1 large hot-pink obi sash tied in a big bow at the waist, and 1 dangling tassel earring. The robe fabric is filled with repeated fireworks, stylized wave arcs, flower bursts, and gold confetti shapes.
+
+Layout: Make it look like a chaotic Japanese manga magazine cover. Place the character in front of giant blocky title lettering that fills the upper half, partly hidden behind his hair and head. Use huge yellow letters with magenta fill and cyan/blue shadowing. Add fireworks behind and around him, with text columns and callouts layered over the background.
+
+Counted graphic elements: Include exactly 1 main character, exactly 1 huge background magazine title, exactly 1 small rectangular label at top left reading “WEEKLY SU!JO.”, exactly 1 circular issue badge at top right reading “02”, exactly 1 large year number reading “2025” on the right, exactly 3 vertical Japanese-style side text columns on the left, exactly 4 stacked short teaser lines on the right, and exactly 12 prominent fireworks bursts distributed across the background and robe.
+
+Text content: The large magazine title can be pseudo-Japanese stylized lettering, but include the readable elements “WEEKLY SU!JO.”, “02”, “2025”, and the main cover theme {argument name="cover theme text" default="summer fireworks romance special"}. Surround them with decorative Japanese-like glyphs and manga-cover teaser typography; some text may be intentionally stylized or nonsensical as long as it resembles a printed Japanese magazine cover.
+
+Visual style: Ultra-detailed anime line art, shoujo/seinen magazine cover energy, high-contrast risograph screenprint feel, CMYK misregistration, neon inks, halftone texture, chromatic outlines, confetti splatters, dense celebratory fireworks, glossy poster finish, dramatic color separation, intricate floral and firework patterns.
+
+Constraints: Keep the image text-heavy but decorative, do not add extra characters, keep the exposed chest non-explicit, no photorealism, no muted colors, no watermark, no plain background.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078440901631004982) | 2026-07-18
+
+---
+
+### 🎴 例 4423：故障艺术风街头术士海报
+
+![故障艺术风街头术士海报](../images/%E6%95%85%E9%9A%9C%E8%89%BA%E6%9C%AF%E9%A3%8E%E8%A1%97%E5%A4%B4%E6%9C%AF%E5%A3%AB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张深色竖版动漫街头艺术海报，画面中心下半部分站着一位 {argument name="character name" default="类似五条悟的白发术士"}，正面向前，表情冷峻。他留着凌乱的 {argument name="hair color" default="银白色"} 头发，刘海遮住前额，皮肤苍白，一只发着冰蓝色光芒的眼睛在阴影中若隐若现，身穿高领黑色战术外套或斗篷，带有棱角分明的绑带和湿润的光泽感。在他身后，用一张巨大的阴影面孔或恶魔面具轮廓填满整个背景，仅在上方中部露出两只狭长的青白色发光眼睛，笼罩着他。背景采用粗犷的都市颓废墙面纹理，包含开裂的混凝土、浓重的黑色墨迹、斑驳的油漆、红色和青色/蓝绿色故障块、水平数字涂抹伪影、划痕、喷溅、滴落效果以及撕裂的海报层。在角色上方正中央添加一个垂直的白色涂鸦/书法符文，抽象且难以辨认，类似日本毛笔笔触。构图应保持对称且具有电影感，肖像比例 2:3，高对比度，以黑色和炭灰色为主，点缀强烈的血红色和蓝绿色，头发处有强烈的顶部/背部光效，面部和外套处有深邃的阴影，营造出赛博朋克故障恐怖氛围，将绘画感动漫插画与街头涂鸦及数字失真效果相结合。除抽象符文外，不包含任何可读文字，无水印，无额外角色。
+
+[English]
+Create a dark vertical anime street-art poster featuring {argument name="character name" default="Gojo-like white-haired sorcerer"} standing centered in the lower half, facing forward with a cold intense expression. He has messy {argument name="hair color" default="white-silver"} hair falling over his forehead, pale skin, one visible glowing icy-blue eye peering from shadow, and a high-collared black tactical coat or cloak with angular straps and glossy wet highlights. Behind him, fill the entire background with a huge ominous shadow face or demonic mask silhouette, only two narrow glowing cyan-white eyes visible near the upper middle, looming over him. Use a gritty urban grunge wall texture with cracked concrete, heavy black ink, distressed paint, red and teal/cyan glitch blocks, horizontal digital smear artifacts, scratches, splatters, drips, and torn poster-like layers. Add a single vertical white graffiti/calligraphy sigil at the top center above the character, abstract and illegible, like Japanese brush strokes. Composition should be symmetrical and cinematic, portrait orientation 2:3, high contrast, mostly black and charcoal with strong blood-red and turquoise accents, dramatic top/back lighting on the hair, deep shadows on the face and coat, cyberpunk glitch horror mood, painterly anime illustration mixed with street graffiti and digital distortion. No readable typography except the abstract sigil, no watermark, no extra characters.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078440576010362945) | 2026-07-18
+
+---
+
+### 🎴 例 4436：雨天儿童广告海报
+
+![雨天儿童广告海报](../images/%E9%9B%A8%E5%A4%A9%E5%84%BF%E7%AB%A5%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张欢乐的雨天儿童广告海报。一位 {argument name="age" default="6"} 岁的年轻女孩正在开心地旋转，她穿着亮黄色的雨靴和配套的黄色雨衣，撑着一把比她身高大 3 倍的巨型彩虹伞，伞面由鲜艳的红、橙、黄、绿、蓝、紫拼色组成，伞缘印有白色的气泡字体 "{argument name="brand" default="RAINBOWKIDZ"}"。背景是柔和的灰色雨天天空，伴有飘落的雨滴、色彩斑斓的水坑倒影以及雾气中隐约可见的微小彩虹弧线。背景中填充着巨大的、圆润的彩虹色字体 "{argument name="brand" default="RAINBOWKIDZ"}"。
+
+底部标语："{argument name="tagline" default="每一滴雨都是一场派对。"}"。右上角的小字写着 "Designed with GPT Image 2"，字体为灰色。照片级真实感，充满趣味的儿童雨天商业广告，柔和梦幻的雨天光影。
+
+[English]
+A joyful rainy day kids advertisement poster. A laughing young girl age {argument name="age" default="6"} in bright yellow rain boots and a matching yellow raincoat twirls happily under a giant open rainbow umbrella 3x her height with bold red orange yellow green blue and purple panels, "{argument name="brand" default="RAINBOWKIDZ"}" printed in white bubbly font on the umbrella canopy edge. Soft grey rainy sky background with falling raindrops colorful puddle reflections and tiny rainbow arcs in the mist. Big cheerful rounded typography "{argument name="brand" default="RAINBOWKIDZ"}" in rainbow colors filling the background. 
+
+Tagline bottom: "{argument name="tagline" default="Every raindrop is a party."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, fun kids rainy day commercial, soft dreamy rainy day lighting.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2078416859746144472) | 2026-07-18
+
+---
+
+### 🎴 例 4446：Royal Primary Graduation Poster
+
+![Royal Primary Graduation Poster](../images/Royal%20Primary%20Graduation%20Poster.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="school name" default="Royal Academy"} 创作一张超高端儿童小学毕业庆典海报，采用优雅的皇家蓝、白色和金属金学院主题。
+
+画布：1:1 正方形海报，高分辨率打印设计，图像四周带有细金属金边框。背景为明亮的天空，充满柔和的白云、蓝色氛围、细腻的光束，左上角有强烈的太阳光晕。
+
+布局：左上方放置一枚大型正式校徽：海军蓝盾牌配金色轮廓，内含打开的书本图标、星星、月桂枝，以及一条写有“WISDOM • KNOWLEDGE • EXCELLENCE”的小丝带。下方添加学校名称“ROYAL ACADEMY”（采用精致的海军蓝衬线大写字母）以及小标语“NURTURING LEADERS, BUILDING LEGACIES”。右半部分以一张大型儿童肖像为主。左中部包含祝贺文字和引言。下中部包含两张从云层中浮现的较小儿童肖像。底部设有一块大型华丽的海军蓝与金色铭牌，宣布毕业信息。
+
+主体细节：展示 3 张同一位微笑着的黑人儿童毕业生的肖像，年龄约为小学低年级，肤色呈暖棕色，短黑发，佩戴小金耳钉，表情明快愉悦，身穿带有金色饰边的皇家蓝毕业袍和学士帽，搭配白色披肩、白衬衫和海军蓝领带。肖像 1：右上角的大型半身像，面向前方，笑容灿烂，学士帽流苏垂在右侧，带有一个小金色的“2025”挂饰。肖像 2：左下中部较小的上半身肖像，手持系着蓝色丝带的白色卷轴毕业证书，面带微笑。肖像 3：右下角较小的上半身肖像，单手托腮靠在堆叠的书本上，面带微笑。将所有肖像柔和地融入云层背景中，呈现出精致的影棚灯光和逼真的摄影细节。
+
+文本内容：使用以下清晰的海报文字，并保持优雅的层级感。主徽章区域：“ROYAL ACADEMY” 和 “NURTURING LEADERS, BUILDING LEGACIES”。主问候语：“CONGRATULATIONS”，下方为小间距文字 “OUR PRINCESS”。毕业生姓名：大型海军蓝衬线字体名 “{argument name="graduate first name" default="KAMAL"}”，下方重叠超大金色草书姓氏 “{argument name="graduate surname" default="Usman"}”。引言块：“The future belongs to those who believe in the beauty of their dreams.” 签名块：“KAMAL USMAN” 和 “We are proud of you.” 底部铭牌：小号斜体行 “Congratulations on your,”，巨大的金色衬线大字 “PRIMARY SCHOOL GRADUATION,”，随后是 “ROYAL ACADEMY INTERNATIONAL.”。底部丝带：“COURTESY OF ABKR SADIQ DESIGNS.” 流苏上的毕业年份：{argument name="graduation year" default="2025"}。
+
+视觉风格：奢华皇家学院海报设计，光面高级质感，戏剧性的柔和云朵，清晰的抠图合成，浓郁的海军蓝与金色调，浮雕金属质感排版，装饰性金色花纹，祝贺文字上方的皇冠图标，精致衬线字体与优雅草书的结合，充满庆祝与励志的氛围。
+
+约束条件：必须使用 3 张儿童肖像，1 枚徽章，主问候语上方 1 个皇冠图标，1 块大型底部铭牌，以及 1 条底部丝带。确保所有文字清晰易读并按描述居中。请勿添加额外人物、多余标志、水印或不相关的装饰。
+
+[English]
+Goal: Create an ultra-premium children’s primary school graduation celebration poster for {argument name="school name" default="Royal Academy"}, using an elegant royal blue, white, and metallic gold academy theme.
+
+Canvas: Square 1:1 poster, high-resolution print design, thin metallic gold border around the entire image. Background is a bright heavenly sky filled with soft white clouds, blue atmosphere, subtle light rays, and a strong sun flare in the upper left corner.
+
+Layout: Place a large formal school crest in the upper left: navy shield with gold outline, open book icon, stars, laurel branches, and a small ribbon reading “WISDOM • KNOWLEDGE • EXCELLENCE.” Under it, add the school name “ROYAL ACADEMY” in refined navy serif capitals and the small motto “NURTURING LEADERS, BUILDING LEGACIES.” The right half is dominated by one large child portrait. The left middle contains the congratulatory typography and quote. The lower middle contains two smaller child portraits emerging from clouds. The bottom has a large ornate navy-and-gold plaque announcing the graduation.
+
+Subject details: Show exactly 3 portraits of the same smiling young Black child graduate, around early primary-school age, warm brown skin, short black hair, small gold stud earrings, bright happy expression, wearing a royal blue graduation cap and gown with gold trim, white stole, white shirt, and navy tie. Portrait 1: large bust portrait on the upper right, facing forward, smiling broadly, cap tassel hanging on the right with a small gold “2025” charm. Portrait 2: smaller full upper-body portrait near the lower center-left, holding a rolled white diploma tied with a blue ribbon, smiling. Portrait 3: smaller upper-body portrait near the lower right, leaning on stacked books with one hand near the cheek, smiling. Blend all portraits softly into the cloud background with polished studio lighting and realistic photographic detail.
+
+Text content: Use the following visible poster text with elegant hierarchy. Main crest area: “ROYAL ACADEMY” and “NURTURING LEADERS, BUILDING LEGACIES.” Main greeting: “CONGRATULATIONS” then small spaced text “OUR PRINCESS.” Graduate name: large navy serif first name “{argument name="graduate first name" default="KAMAL"}” with oversized gold cursive surname “{argument name="graduate surname" default="Usman"}” overlapping below it. Quote block: “The future belongs to those who believe in the beauty of their dreams.” Signature block: “KAMAL USMAN” and “We are proud of you.” Bottom plaque: small italic line “Congratulations on your,” huge gold serif words “PRIMARY SCHOOL GRADUATION,” then “ROYAL ACADEMY INTERNATIONAL.” Bottom ribbon: “COURTESY OF ABKR SADIQ DESIGNS.” Graduation year on tassel: {argument name="graduation year" default="2025"}.
+
+Visual style: Luxury royal academy poster design, glossy premium finish, dramatic soft clouds, crisp cutout compositing, rich navy blue and gold palette, embossed metallic typography, ornamental gold flourishes, crown icon above the congratulations text, refined serif fonts mixed with elegant cursive script, celebratory and inspirational mood.
+
+Constraints: Use exactly 3 child portraits, exactly 1 crest, exactly 1 crown icon above the main greeting, exactly 1 large bottom plaque, and exactly 1 bottom ribbon. Keep all text legible and centered as described. Do not add extra people, extra logos, watermarks, or unrelated decorations.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2078378485811229108) | 2026-07-18
+
+---
+
+### 🎴 例 4447：高端饮料产品广告
+
+![高端饮料产品广告](../images/%E9%AB%98%E7%AB%AF%E9%A5%AE%E6%96%99%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超逼真的高端饮料产品广告，居中的塑料瓶，采用逼真的透明 PET 材质，瓶身覆盖着细小的冷凝水珠，略微向前倾斜（约 15°），悬浮在与 {argument name="flavor" default="饮料口味"} 相匹配的动态液体飞溅中，超精细物理模拟。瓶身贴有简洁的现代白色标签，上面印有醒目且色彩鲜艳的粗体排版，显示饮料名称，极简的高端品牌设计，光面印刷质感，逼真的反射效果。在瓶子周围放置与口味相符的新鲜食材（完整水果、切片水果、果块）、晶莹剔透的冰块、悬浮在空中的水滴、细小的闪光颗粒、逼真的飞溅水冠、漂浮的果汁液滴，电影级的动态定格。将瓶子放置在带有逼真反射和浅水洼的光面湿润表面上。背景采用与饮料口味相匹配的柔和渐变色，配合柔和的摄影棚灯光、梦幻光晕、体积光效果，呈现高端广告美学，极简奢华构图。灯光：高端商业摄影棚灯光，明亮的柔和主光，背部轮廓光，柔和反射，HDR 照明，全局光照，光线追踪反射，超清晰高光。相机：50mm 产品摄影镜头，平视角度，居中构图，轻微透视，浅景深，专业饮料广告拍摄。渲染：超写实，照片级真实感，8K，超精细，Octane Render，Redshift Render，Cinema4D，Unreal Engine 质量，最高清晰度，商业饮料宣传，奢华美食摄影，高饱和度色彩，清晰纹理，无人像，无水印，除产品标签外无其他 Logo，高端 Instagram 广告
+
+[English]
+Ultra-realistic premium beverage product advertisement, centered plastic bottle with realistic transparent PET material, covered in tiny cold condensation droplets, tilted slightly forward (about 15°), floating in a dynamic liquid splash matching the {argument name="flavor" default="drink flavor"}, ultra-detailed physics simulation. The bottle has a clean modern white label with BIG bold colorful typography displaying the drink name, minimal premium branding, glossy print finish, realistic reflections. Surround the bottle with fresh ingredient pieces matching the flavor (whole fruits, sliced fruits, cubes), transparent crystal-clear ice cubes, water droplets suspended in the air, tiny sparkling light particles, realistic splash crown, floating juice droplets, cinematic motion freeze. Place the bottle on a glossy reflective wet surface with realistic reflections and shallow liquid puddles. Background is a smooth gradient using colors matching the drink flavor with soft studio lighting, dreamy bloom, volumetric glow, premium advertising aesthetic, minimal luxury composition. Lighting: High-end commercial studio lighting, Bright soft key light, Rim light from behind, Soft reflections, HDR lighting, Global illumination, Ray-traced reflections, Ultra-clean highlights. Camera: 50mm product photography lens, Eye-level angle, Centered composition, Slight perspective, Shallow depth of field, Professional beverage advertising shot. Rendering: Hyper realistic, Photorealistic, 8K, Ultra detailed, Octane Render, Redshift Render, Cinema4D, Unreal Engine quality, Maximum sharpness, Commercial beverage campaign, Luxury food photography, Highly saturated colors, Crisp textures, No people, No watermark, No logo except product label, Premium Instagram advertisement
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2078377076105642084) | 2026-07-18
+
+---
+
+### 🎴 例 4449：禅意东方极简主义海报
+
+![禅意东方极简主义海报](../images/%E7%A6%85%E6%84%8F%E4%B8%9C%E6%96%B9%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题" default="东方禅意极简海报"}
+风格分支：女性审美新东方型
+主体内容：一位倚在月窗边静静看花的古风女子
+情绪母题：温柔、含蓄、安静中的浪漫感
+场景与意象：孔雀绿庭院植物、胭脂粉花影、月窗、女子、玉白墙面
+构图与空间：偏侧构图，一侧为人物与月窗，另一侧保留干净留白和花影，适合做标题区
+色彩控制：玉白作为画面主基底，孔雀绿用于庭院植物和少量远景层次，胭脂粉只用于花影和局部花瓣点睛，人物服装可用暖白或浅豆沙粉；避免整图粉绿同色化
+光线与质感：明亮自然光，窗边柔光，轻纸感，画面通透
+画幅比例：9:16 
+补充要求：整体要偏时尚女性审美，颜色鲜明但不俗，封面感要强
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2078373686298689762) | 2026-07-18
+
+---
+
+### 🎴 例 4451：日式榻榻米生活方式杂志封面
+
+![日式榻榻米生活方式杂志封面](../images/%E6%97%A5%E5%BC%8F%E6%A6%BB%E6%A6%BB%E7%B1%B3%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="magazine title" default="たたみ日和"} 创作一张写实的日式生活方式杂志封面，呈现宁静的夏季榻榻米房间美学与优雅的编辑排版。
+
+画布：竖版杂志封面，3:4 纵横比，全出血照片背景，温暖的自然日光，柔和的米色与深绿色调。
+
+主体图像：一位留着黑色短波波头的年轻日本女性赤脚坐在传统日式房间的榻榻米上。她坐在画面中右侧，双腿随意折叠，其中一条腿向镜头方向伸展，双手撑在身后，若有所思地望向右侧。她身穿一件露肩修身夏季连衣裙，带有棕色、奶油色、黑色和灰色的抽象油画风格图案。光线来自左侧障子门，柔和且充满阳光，营造出宁静的居家氛围。背景包括滑动障子门、榻榻米接缝以及右侧的一个深色木制抽屉柜。
+
+排版：左上方及中心位置为大型杂志刊头，采用深哑光绿色日式书法字体。刊头上方为小型标语。右上角为期号信息。左侧为竖排专题标题。右侧为小型编辑短文，配有细横分割线。左下角为小型文章预告。右下角为一个哑光鼠尾草绿色的圆形徽章。
+
+文本内容：包含以下可见文本组，并保留日文文本：
+1. 顶部标语：{argument name="tagline" default="暮らしに、やさしい畳のある毎日。"}
+2. 主刊头：{argument name="magazine title" default="たたみ日和"}
+3. 右上角期号文本："2024", "夏号", "vol.21"
+4. 左侧竖排专题标签及标题："特集", {argument name="feature headline" default="素足で過ごす夏"}
+5. 右侧短文："心地よさを育てる、", "畳のある暮らし"
+6. 左下角预告："涼を感じる和の家"，一条细分割线，"畳のある旅先案内"
+7. 右下角圆形徽章：{argument name="badge text" default="潤い時間は、ここから。"} 以及下方的一个小型装饰性波浪符号。
+
+视觉风格：精致的商业杂志设计，照片级真实的编辑摄影，简洁的日式生活方式杂志排版，充裕的留白，风格洗练且具有亲和力的主流封面设计。使用哑光森林绿字体，在所示位置使用细白分割线，并保持克制的极简装饰。
+
+约束条件：保持封面写实且整洁。不要添加额外的人物、多余的封面文字、条形码、Logo、水印或英文翻译。确保所有日文文本清晰易读，并像真实的杂志封面一样进行排版。
+
+[English]
+Goal: Create a realistic Japanese lifestyle magazine cover for {argument name="magazine title" default="たたみ日和"}, with a calm summer tatami-room aesthetic and elegant editorial typography.
+
+Canvas: Portrait magazine cover, 3:4 aspect ratio, full-bleed photo background, warm natural daylight, soft beige and deep green color palette.
+
+Main image: A young Japanese woman with a short dark bob haircut sits barefoot on a tatami mat floor in a traditional Japanese room. She is seated near the center-right, legs folded casually with one leg extended toward the camera, hands resting on the floor behind her for support, gazing thoughtfully to the right. She wears an off-shoulder fitted summer dress with an abstract brown, cream, black, and gray painterly pattern. Lighting is soft and sunlit from shoji-style windows on the left, creating a serene domestic atmosphere. Background includes sliding shoji panels, tatami seams, and a dark wooden chest of drawers on the right.
+
+Layout: Large magazine masthead across the upper left and center in dark muted green Japanese calligraphy-style type. Small tagline above the masthead. Issue information in the upper right. Vertical feature headline on the left side. Small editorial blurb on the right with thin horizontal divider lines. Small article teasers in the lower left. A muted sage-green circular badge in the lower right.
+
+Text content: Include exactly these visible text groups, preserving Japanese text:
+1. Top tagline: {argument name="tagline" default="暮らしに、やさしい畳のある毎日。"}
+2. Main masthead: {argument name="magazine title" default="たたみ日和"}
+3. Upper-right issue text: "2024", "夏号", "vol.21"
+4. Left vertical feature label and headline: "特集", {argument name="feature headline" default="素足で過ごす夏"}
+5. Right-side blurb: "心地よさを育てる、", "畳のある暮らし"
+6. Lower-left teasers: "涼を感じる和の家", a thin divider line, "畳のある旅先案内"
+7. Lower-right circular badge: {argument name="badge text" default="潤い時間は、ここから。"} plus a small decorative wave mark underneath.
+
+Visual style: Polished commercial magazine design, photorealistic editorial photography, clean Japanese lifestyle-magazine layout, generous negative space, refined but slightly familiar mainstream cover design. Use muted forest green typography, thin white divider lines where shown, and restrained minimal ornamentation.
+
+Constraints: Keep the cover realistic and uncluttered. Do not add extra people, extra cover lines, barcodes, logos, watermarks, or English translations. Ensure all Japanese text is legible and placed like a real magazine cover.
+```
+
+**来源：** [@aichof](https://x.com/aichof21/status/2078370213972844750) | 2026-07-18
+
+---
+
+### 🎴 例 4460：复古风“MORE SENSE”海报
+
+![复古风“MORE SENSE”海报](../images/%E5%A4%8D%E5%8F%A4%E9%A3%8E%E2%80%9CMORE%20SENSE%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为个人创意账号创作一张方形复古海报风格的社交媒体页眉/品牌视觉图，主题为收集日常感官、记录共鸣瞬间并分享灵感。
+
+画布：1:1 方形图片，温暖的孔版印刷质感，带有轻微褪色的纸张纹理，构图大胆。使用珊瑚粉色背景，超大的奶油色字体几乎填满整个画面。
+
+布局：在画布上半部分放置巨大的压缩块状字母“MORE”，中间放置“SENSE”，并被画布边缘裁剪，使字母呈现出海报般的建筑感。在下方中心处，绘制一个人物坐在书桌前的简单线条画场景。右上角添加一个倾斜的票据形状标签。右下角附近添加一行手写的日文标语。底部添加一条细水平线，并排布 3 个导航词，中间用黄色小圆点隔开。
+
+主要插画：简单的蓝绿色线条画，填充奶油色并带有珊瑚色点缀。展示 {argument name="character name" default="chi.okey"} 为一名留着波波头的短发角色，背影/侧影，坐在长方形书桌前的椅子上。人物身穿宽松毛衣、裙子或短裤、袜子和运动鞋，正在打开的笔记本上书写。书桌上包含 5 个可见物品：1 本打开的笔记本、1 盆小盆栽、1 个黄色马克杯、1 部智能手机或小卡片，以及 1 个小长方形物品。书桌右侧包含 1 只毛茸茸的绵羊吉祥物，拥有奶油色的羊毛身体、深色脸部和细小的腿。在椅子和桌子下方添加深蓝绿色的投影。
+
+票据标签：在右上角绘制一张奶油色入场券风格的贴纸，带有蓝绿色轮廓、穿孔细节和小装饰标记。票据上的文字应包含粗体的“{argument name="account name" default="chi.okey"}”，下方为“SENSE COLLECTOR”，以及日文文案：“面白い！珍しい！心が動くモノだけ。”
+
+底部文字：创建 3 个底部菜单项，使用蓝色大写字母及较小的英文小写说明：1) “COLLECT” 搭配 “what moves me”，2) “WRITE” 搭配 “what stays”，3) “SHARE” 搭配 “what inspires”。在三个项目之间放置 2 个黄色小圆点。
+
+附加文字：在右下角附近，添加手写日文 “好きが、いちばんのセンス。” 并配有一条黄色短下划线。
+
+视觉风格：极简日式杂志美学、复古孔版印刷、干净的矢量线条、蓝绿色轮廓、奶油色字体、珊瑚粉色背景、黄色点缀和马克杯。带有轻微的油墨错位感、细微的纸张斑点，品牌形象既俏皮又沉稳。
+
+约束条件：保持构图简洁，保留超大且被裁剪的“MORE SENSE”字体，包含 1 只绵羊吉祥物，拒绝写实风格，不添加额外角色，无水印。
+
+[English]
+Goal: Create a square retro poster-style social media header/brand visual for a personal creative account themed around collecting everyday senses, writing what resonates, and sharing inspiration.
+
+Canvas: 1:1 square image, warm risograph print texture, slightly faded paper grain, bold graphic composition. Use a coral-pink background with oversized cream typography filling almost the entire image.
+
+Layout: Place enormous condensed block letters reading “MORE” across the top half and “SENSE” across the middle, cropped by the canvas edges so the letters feel poster-sized and architectural. In the lower center, draw a small line-art scene of a person seated at a desk. Add a tilted ticket-shaped label in the upper right. Add a small handwritten Japanese tagline near the lower right. Along the bottom, add a thin horizontal line and exactly 3 navigation words with small yellow dots between them.
+
+Main illustration: A simple teal-blue line drawing with cream fills and coral accents. Show {argument name="character name" default="chi.okey"} as a short-haired person with a bob haircut, seen from behind/side, sitting on a chair at a rectangular desk. The person wears a loose sweater, skirt or shorts, socks, and sneakers, and is writing in an open notebook. On the desk include exactly 5 visible objects: 1 open notebook, 1 small potted plant, 1 yellow mug, 1 smartphone or small card, and 1 small rectangular item. Beside the desk on the right, include exactly 1 fluffy sheep mascot with a cream wool body, dark face, and small legs. Add a dark teal cast shadow under the chair and table.
+
+Ticket label: In the upper right, draw a cream admission-ticket style sticker with teal outline, perforation details, and small decorative marks. Text on the ticket should read “{argument name="account name" default="chi.okey"}” in bold, “SENSE COLLECTOR” below it, and Japanese copy: “面白い！珍しい！心が動くモノだけ。”
+
+Bottom text: Create exactly 3 bottom menu items in blue uppercase with smaller lowercase captions: 1) “COLLECT” with “what moves me”, 2) “WRITE” with “what stays”, 3) “SHARE” with “what inspires”. Put exactly 2 small yellow circular dots between the three items.
+
+Additional text: Near the lower right, add handwritten Japanese text “好きが、いちばんのセンス。” with a short yellow underline stroke.
+
+Visual style: Minimal Japanese zine aesthetic, retro risograph, clean vector linework, teal outlines, cream typography, coral-pink background, yellow accent dots and mug. Slight ink misregistration, subtle paper speckles, playful but calm brand identity.
+
+Constraints: Keep the composition uncluttered, preserve the oversized cropped “MORE SENSE” lettering, include exactly 1 sheep mascot, no photorealism, no extra characters, no watermark.
+```
+
+**来源：** [@chi Okey](https://x.com/chiOkey/status/2078343876440686829) | 2026-07-18
+
+---
+
+### 🎴 例 4461：极简儿童画风格纽约海报
+
+![极简儿童画风格纽约海报](../images/%E6%9E%81%E7%AE%80%E5%84%BF%E7%AB%A5%E7%94%BB%E9%A3%8E%E6%A0%BC%E7%BA%BD%E7%BA%A6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="subject" default="可爱的孩子"} 身穿舒适的出租车黄色连帽衫、牛仔短裤和白色运动鞋，站在布鲁克林的鹅卵石街道上，抬头仰望 {argument name="landmark" default="布鲁克林大桥"}，{argument name="style" default="极简儿童画风格"}，粗线条，发光的轮廓。海报顶部用可爱圆润的儿童字体手写着城市名称“NEW YORK”，字迹略显歪扭，如同孩童笔触，带有厚实的发光白色笔画。大桥的哥特式拱门和曼哈顿天际线被简化为稚拙的儿童画形状，并带有发光的白色轮廓。背景采用柔和的模糊处理，点缀着钢蓝色和暖砖红色的色块，没有建筑细节，仅有色彩斑点。漂浮的小黄车、飞翔的鸽子和闪烁的小星星增添了奇幻色彩。全身视角，温馨简约的美学风格，垂直 3:4 海报比例。
+
+[English]
+A {argument name="subject" default="cute little child"} in a comfy taxi-yellow hoodie, denim shorts and white sneakers standing on a Brooklyn cobblestone street, looking up at the {argument name="landmark" default="Brooklyn Bridge"}, {argument name="style" default="minimalist children's drawing style"}, thick white lines, glowing contours. At the top of the poster, the city name "NEW YORK" hand-lettered in a cute rounded playful children's font, slightly wobbly like a child's handwriting, with thick glowing white strokes. The bridge's gothic arches and the Manhattan skyline drawn as simple, naive childlike shapes with luminous white outlines. The background is softly blurred with steel-blue and warm brick-red splashes, no architectural detail, only color patches. Floating elements like tiny yellow taxis, drifting pigeons, and small glowing stars add a whimsical touch. Full-body view, warm and simple aesthetic, vertical 3:4 poster.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2078341399402119428) | 2026-07-18
+
+---
+
+### 🎴 例 4468：暗黑风中文报纸故事海报
+
+![暗黑风中文报纸故事海报](../images/%E6%9A%97%E9%BB%91%E9%A3%8E%E4%B8%AD%E6%96%87%E6%8A%A5%E7%BA%B8%E6%95%85%E4%BA%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张方形的中文暗黑报纸风格故事海报，主题为 {argument name="story title" default="代付链接"}，采用克制、感性且具有老杂志拼贴美感的视觉效果。
+
+画布：1:1 方形海报，黑色磨损纸张背景，带有厚重的颗粒感、划痕边缘、灰尘、擦痕、褪色的墨迹、复印质感以及不均匀的白色做旧效果。整体仅使用黑、灰、灰白单色。
+
+布局：在巨大的做旧标题下方采用不规则的双栏编辑布局。标题占据顶部三分之一，略微左对齐，使用超大号粗糙的白色中文毛笔/报纸字体，内容为 {argument name="main headline" default="代付链接"}。在下方精确排列 11 个独立的文本块：左栏 6 个块，右栏 5 个块。混合使用普通段落块、细手绘矩形边框、撕纸条以及醒目的引用语。保持页边距紧凑且不完美，如同地下杂志或旧犯罪报纸剪报。
+
+文本块，精确计数：
+1. 左上普通段落：“第一次加上她微信，\n是我姐的邻居牵的线。\n\n邻居是女孩的姑姑，说女孩二十五六岁，\n在老家市里卖车险，人长得漂亮，性格也不差，\n平时接触的人少，所以想找个靠谱的对象。”
+2. 左侧带边框段落：“我对“靠谱”这两个字没抱太大希望。\n相亲见得多了，介绍人口中的“性格好”，\n有时候只是“不爱发脾气”；“工作稳定”，\n可能只是暂时没辞职；“长得显小”，\n多半意味着照片拍得不错。”
+3. 左侧加粗引言段落：“但她的照片确实好看。\n脸小，皮肤白，笑起来显得很年轻，\n乍一看比实际年龄小好几岁。\n我们刚开始聊得也还算顺畅。\n她会问我工作，也会主动发些日常，\n偶尔说一句俏皮话。”
+4. 左侧撕纸条：“我那时候觉得，也许这次能正常一点。”
+5. 左侧大型带边框引用语：““又是一个代付链接。””
+6. 左下普通段落：“我把钱付了。\n然后告诉自己，也许只是她性格大大咧咧，\n也许只是试探，也许现在年轻人相亲就这样。”
+7. 右上小型引导语加撕纸引用：“没过几天，她忽然发来一句：” 随后是一条撕纸条，内容为 ““请我吃个早饭呗。””
+8. 右上段落：“我以为她是在开玩笑，或者想让我\n给她点份外卖，于是刚准备问她想吃什么，\n一个代付链接已经甩了过来。\n干脆、直接，没有铺垫。\n我盯着那个链接看了几秒，\n心里某个地方轻轻往下一沉。”
+9. 右中撕纸引用：““我们还没见过面。””
+10. 右中段落及底部边框：“甚至连彼此说话的语气都没完全熟悉，\n她已经很自然地让我替她付款。\n金额不大，几十块钱。\n可让人不舒服的，\n从来不是那几十块，而是那种理所当然。\n\n我没有立刻发作。\n说到底，还是因为她长得漂亮。\n人有时候很诚实，也挺没出息。\n要是换成一个完全不符合自己审美的人，\n可能当场就不想聊了。可面对一个漂亮女孩，\n很多原则都会先被自己往后挪一点。”
+11. 右下结尾段落及撕纸强调：“过了一两天，聊到晚上，她忽然又说想吃牛排。\n紧接着，又是一个代付链接。\n这一次，我连替她找理由的力气都没有了。” 随后是一个灰色撕纸块，内容为 “我没付。\n她也没生气，只是发了个表情，\n好像这件事本来就无关紧要。\n可我心里已经把她划掉了。”
+
+排版与风格：使用加粗、粗糙、带有缺口的做旧中文字体。主标题应呈现手绘且被侵蚀的效果。正文应为灰白色，清晰易读，基线不齐，具有模拟印刷质感。引用语应比正文大得多，置于粗糙的矩形边框内或粘贴的撕纸框架中。添加手绘边框线、淡淡的栏间线、划痕、污迹以及随机的纸张磨损痕迹。
+
+限制：尽可能保留原始中文文本，避免添加新文字，避免使用彩色，避免现代简洁设计，避免插图或人物，无 Logo，无水印。
+
+[English]
+Goal: Create a square Chinese dark newspaper-style story poster about {argument name="story title" default="代付链接"}, using a restrained, emotional, old-magazine collage aesthetic.
+
+Canvas: 1:1 square poster, black worn paper background with heavy grain, scratched edges, dust, scuffs, faded ink, photocopy texture, and uneven white distressing. Overall monochrome black, gray, and off-white only.
+
+Layout: Irregular two-column editorial layout beneath one huge distressed headline. The headline occupies the top third, aligned slightly left, in oversized rough white Chinese brush/newspaper type reading {argument name="main headline" default="代付链接"}. Below it, arrange exactly 11 discrete text blocks: 6 blocks in the left column and 5 blocks in the right column. Use a mix of plain paragraph blocks, thin hand-drawn rectangular outlines, torn-paper strips, and large quoted pull-quotes. Keep margins tight and imperfect, like an underground zine or old crime newspaper clipping.
+
+Text blocks, counted exactly:
+1. Left upper plain paragraph: “第一次加上她微信，\n是我姐的邻居牵的线。\n\n邻居是女孩的姑姑，说女孩二十五六岁，\n在老家市里卖车险，人长得漂亮，性格也不差，\n平时接触的人少，所以想找个靠谱的对象。”
+2. Left outlined box paragraph: “我对“靠谱”这两个字没抱太大希望。\n相亲见得多了，介绍人口中的“性格好”，\n有时候只是“不爱发脾气”；“工作稳定”，\n可能只是暂时没辞职；“长得显小”，\n多半意味着照片拍得不错。”
+3. Left bold intro paragraph: “但她的照片确实好看。\n脸小，皮肤白，笑起来显得很年轻，\n乍一看比实际年龄小好几岁。\n我们刚开始聊得也还算顺畅。\n她会问我工作，也会主动发些日常，\n偶尔说一句俏皮话。”
+4. Left torn-paper strip: “我那时候觉得，也许这次能正常一点。”
+5. Left large outlined pull-quote: ““又是一个代付链接。””
+6. Left lower plain paragraph: “我把钱付了。\n然后告诉自己，也许只是她性格大大咧咧，\n也许只是试探，也许现在年轻人相亲就这样。”
+7. Right upper small lead-in plus torn-paper quote: “没过几天，她忽然发来一句：” followed by a torn strip reading ““请我吃个早饭呗。””
+8. Right upper paragraph: “我以为她是在开玩笑，或者想让我\n给她点份外卖，于是刚准备问她想吃什么，\n一个代付链接已经甩了过来。\n干脆、直接，没有铺垫。\n我盯着那个链接看了几秒，\n心里某个地方轻轻往下一沉。”
+9. Right middle torn-paper quote: ““我们还没见过面。””
+10. Right middle paragraph with outlined lower portion: “甚至连彼此说话的语气都没完全熟悉，\n她已经很自然地让我替她付款。\n金额不大，几十块钱。\n可让人不舒服的，\n从来不是那几十块，而是那种理所当然。\n\n我没有立刻发作。\n说到底，还是因为她长得漂亮。\n人有时候很诚实，也挺没出息。\n要是换成一个完全不符合自己审美的人，\n可能当场就不想聊了。可面对一个漂亮女孩，\n很多原则都会先被自己往后挪一点。”
+11. Right lower closing paragraph plus torn-paper emphasis: “过了一两天，聊到晚上，她忽然又说想吃牛排。\n紧接着，又是一个代付链接。\n这一次，我连替她找理由的力气都没有了。” followed by a gray torn-paper block reading “我没付。\n她也没生气，只是发了个表情，\n好像这件事本来就无关紧要。\n可我心里已经把她划掉了。”
+
+Typography and style: Use bold, rough, distressed Chinese fonts with chipped edges. Main headline should look hand-painted and eroded. Body text should be white-gray, clear enough to read, with uneven baseline and analog print texture. Pull-quotes should be much larger than body text, inside rough rectangular outlines or pasted torn-paper frames. Add hand-drawn border lines, faint column rules, scratches, smears, and random paper abrasions.
+
+Constraints: Preserve the exact Chinese text as much as possible, avoid adding new text, avoid color, avoid clean modern design, avoid illustrations or people, no logos, no watermark.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2078317994221129973) | 2026-07-18
+
+---
+
+### 🎴 例 4470：动漫夏季标语海报
+
+![动漫夏季标语海报](../images/%E5%8A%A8%E6%BC%AB%E5%A4%8F%E5%AD%A3%E6%A0%87%E8%AF%AD%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的竖版动漫夏季标语海报，主角为原创少女角色，文字排版与色彩需与角色氛围相契合。
+
+画布：竖版海报，比例约为 4:5，全出血插画，呈现出精致的日本杂志封面质感。
+
+主体：画面中心为一位开朗的动漫少女，名为 {argument name="character name" default="Nozomu"}，半身至大腿处构图，正对着观众微笑，拥有一双闪烁的蓝灰色眼睛。她留着 {argument name="hair color" default="浅金色"} 的齐肩短发，配有柔和的刘海、轻盈的碎发，以及两根在发尾处系好的松散侧编发。戴着一顶略微向后倾斜的淡蓝色贝雷帽，别着一个白色小花发夹，佩戴垂坠感夏季耳环，身穿短款宽松白色 T 恤和浅蓝色抽绳短裤。她双手在胸前捧着一杯透明塑料杯装的冰镇绿茶。表情纯真、灿烂且清新。
+
+背景：阳光明媚的夏日水滨或泳池场景，带有柔和的焦外成像、金色背光、淡蓝色水面反射、白色高光以及模糊的绿植。使用由白色、天蓝色、青绿色、柠檬黄和暖金色组成的清新色调。添加抽象图形面板：最左侧的蓝色竖条、左侧的一个大型白色倾斜形状、一个黄色对角丝带区域，以及右下角的一个淡奶油色文字面板。
+
+文字排版：使用大型日式竖排书法风格展示文字，颜色为深蓝色和黄橙色，融入角色周围而不遮挡面部。共计 4 个主要文字块：1) 左侧大型竖排标题「きみがくれた。」，其中「きみが」为蓝色，「くれた。」为黄橙色；2) 右侧大型竖排标题「今日のきらめき、」为蓝色；3) 左侧蓝色竖条上的白色小型竖排说明文字「透きとおる笑顔に、ひと目で夏がはじまる。」；4) 右下角名片，上方为蓝色「NOZOMU」，下方为蓝色「のぞむ」。
+
+额外的小字与装饰：包含 5 组装饰细节：1) 右上角附近微小的金色手写罗马音“Kyou no Kirameki”；2) 左下角的圆形印章，内含太阳图标和日文「サマーポスター」；3) 名片附近微小的金色手写罗马音“Kimi ga kureta.”；4) 右下角一行微小的蓝色描述性句子；5) 右下角名片旁的一朵黄色小花插画。添加点状半调网点和细线装饰，但保持设计简洁。
+
+风格：高质量现代动漫插画、柔和赛璐珞阴影、明亮的边缘光、细腻的线条、有光泽的眼睛、温暖的夏日氛围、清晰的海报排版、优雅的日本编辑设计风格，非写实风格。
+
+约束：保持角色居中且不被遮挡，严格保留 4 个主要文字块和 5 组装饰细节，避免出现指定内容之外的可读文字，无水印，无 Logo，无边框。
+
+[English]
+Goal: Create a bright vertical anime summer catchphrase poster featuring an original girl character, with typography and colors adapting to her vibe.
+
+Canvas: Portrait poster, roughly 4:5 aspect ratio, full-bleed illustration with a polished Japanese magazine-cover feel.
+
+Main subject: Center a cheerful anime girl named {argument name="character name" default="Nozomu"}, waist-up to mid-thigh, smiling directly at the viewer with sparkling blue-gray eyes. She has {argument name="hair color" default="light blonde"} shoulder-length hair with soft bangs, airy flyaway strands, and two loose side braids tied near the ends. Add a pale blue beret tilted slightly back, a small white flower hair clip, dangling summer earrings, a cropped loose white T-shirt, and light blue drawstring shorts. She holds a clear plastic cup of iced green drink with both hands at chest height. Her expression is innocent, radiant, and refreshing.
+
+Background: Sunlit summer waterfront or poolside scene with soft bokeh, golden backlight, pale blue water reflections, white highlights, and blurred greenery. Use a fresh palette of white, sky blue, turquoise, lemon yellow, and warm gold. Add abstract graphic panels: a blue vertical strip on the far left, a large white angled shape on the left, a yellow diagonal ribbon area, and a pale cream typography panel on the lower right.
+
+Typography layout: Use large Japanese vertical calligraphy-style display text in deep blue and yellow-orange, integrated around the character without covering her face. Count exactly 4 major text blocks: 1) left large vertical headline reading 「きみがくれた。」 with 「きみが」 in blue and 「くれた。」 in yellow-orange; 2) right large vertical headline reading 「今日のきらめき、」 in blue; 3) small left vertical caption in white on the blue strip reading 「透きとおる笑顔に、ひと目で夏がはじまる。」; 4) lower-right name card reading 「NOZOMU」 above 「のぞむ」 in blue.
+
+Additional small lettering and ornaments: Include exactly 5 decorative detail groups: 1) tiny gold handwritten romanization near the upper right reading “Kyou no Kirameki”; 2) a circular stamp at bottom left with a sun icon and Japanese text 「サマーポスター」; 3) small gold handwritten romanization near the name card reading “Kimi ga kureta.”; 4) a tiny blue descriptive sentence at the bottom right; 5) a small yellow flower illustration beside the lower-right name card. Add dotted halftone accents and thin line ornamentation, but keep the design clean.
+
+Style: High-quality modern anime illustration, soft cel shading, luminous rim light, delicate line art, glossy eyes, warm summer atmosphere, crisp poster typography, elegant Japanese editorial layout, no photorealism.
+
+Constraints: Keep the character centered and unobstructed, preserve the exact count of 4 major text blocks and 5 decorative detail groups, avoid extra readable text beyond what is specified, no watermark, no logo, no border.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2078316326792122801) | 2026-07-18
+
+---
+
+### 🎴 例 4478：Midnight Bloom 时尚封面
+
+![Midnight Bloom 时尚封面](../images/Midnight%20Bloom%20%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张垂直的夏季户外时尚杂志封面照片，主角为 {argument name="model description" default="一位年轻的亚裔女性，面容自然写实，皮肤质感细腻，黑色长发在风中飘动，表情轻松充满活力，带着自然的浅笑"}。拍摄于正午明亮的阳光下，背景是湛蓝的天空和缕缕薄云，地点位于开阔的屋顶停车场，地面有沥青路标，远处可见工业建筑、高压电塔，光影清晰强烈。模特全身出镜，站在一辆金属购物车旁并微微倚靠，一只手放在购物车内的一个圆形白色圆盘配件附近，圆盘内绘有蓝色像素风格的十字/花朵图案，另一只手臂向外伸展，仿佛正在抛掷或展示一只悬浮在她手边的超大号黑白复古厚底运动鞋。她穿着 5 件明显的服装单品：黑色褶皱挂脖上衣、黑色花卉层叠荷叶边迷你裙（带侧系带）、白色中筒堆堆袜、黑白复古厚底运动鞋以及小巧的圆环耳环。强调光泽感的编辑级写实风格、动态的风吹发丝、修长的双腿、不经塑料感磨皮的干净皮肤、电影级广角透视，以及略带超现实感的时尚广告姿势，仿佛她随时会走出画面。添加醒目的杂志排版：左上角为巨大的白色故障艺术风格标题 {argument name="headline text" default="MIDNIGHT BLOOM"}，右上角为小型大写字母文本 {argument name="collection label" default="SUMMER COLLECTION 2024"}，标题下方为两行简短说明文字 {argument name="upper caption" default="LIGHT AS AIR, DEEP AS SUMMER."}，说明文字下方有一个微小的白色心形轮廓，左下角为三行说明文字 {argument name="lower caption" default="EASY DAYS, GENTLE LIGHT, ENDLESS YOUTH."}，右下角为期号“VOL.7”。采用简洁的白色极简主义杂志排版线条，高阶时尚青年编辑风格，对焦清晰，比例写实，无额外人物，无水印。
+
+[English]
+Goal: Create a vertical summer outdoor fashion magazine cover featuring {argument name="character description" default="a young adult Asian woman with long black hair blowing in the wind, natural realistic face, delicate skin texture, relaxed lively expression, soft confident smile"} in a bright rooftop parking lot under a vivid blue sky with wispy clouds.
+
+Canvas: Tall 2:3 editorial cover, full-body fashion portrait, realistic high-end photography, wide-angle perspective, strong midday sunlight, crisp shadows, airy summer mood.
+
+Subject details: The model stands slightly left of center, leaning casually against a metal shopping cart with her left arm resting on it. Her right arm is extended outward with palm up as if presenting or balancing. One oversized black-and-white retro platform sneaker floats or hangs near her right hand, creating a surreal fashion-magazine effect. She holds a round white disc-shaped accessory with a blue pixel-like cross/flower symbol in her left hand. She wears {argument name="outfit" default="a black ruched halter top, black floral textured layered ruffle mini skirt, white mid-calf slouch socks, and black-and-white retro chunky platform sneakers"}. Hair strands are windblown, face naturally lit, pose energetic and effortless.
+
+Environment: Open asphalt rooftop parking lot with large white painted road markings on the ground, a metal shopping cart in the foreground left, distant low industrial buildings, utility towers, guardrails, and construction elements on the horizon. The sky fills the upper half with saturated blue and streaky white clouds. Keep the sunlight slightly dazzling and summery.
+
+Typography and graphic layout: Add exactly 5 text/graphic elements: 1) huge distressed white glitch headline in the upper left reading {argument name="headline text" default="MIDNIGHT\nBLOOM"}, stacked on two lines, bold condensed uppercase with horizontal scanline/glitch texture; 2) small top-right label reading {argument name="collection label" default="SUMMER COLLECTION 2024"} with a thin line before it; 3) small left text under headline reading "LIGHT AS AIR,\nDEEP AS SUMMER."; 4) small handwritten-style heart outline icon on the left; 5) bottom editorial footer with left text "EASY DAYS,\nGENTLE LIGHT,\nENDLESS YOUTH." and bottom-right issue mark {argument name="issue number" default="VOL.7"} with small decorative lines.
+
+Visual style: Photorealistic Asian fashion magazine photography, clean commercial retouching while preserving real skin texture, cinematic blue-and-white palette with black outfit contrast, subtle film grain, sharp focus on model, editorial composition, no extra people, no watermark, no additional text beyond the specified elements.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2078281248448086201) | 2026-07-18
+
+---
+

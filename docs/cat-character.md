@@ -5944,3 +5944,69 @@ Visual style: Dark whimsical character design, polished concept-art reference sh
 
 ---
 
+### 🧍 例 4396：Kairo 动漫角色设定集
+
+![Kairo 动漫角色设定集](../images/Kairo%20%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Kairo"} 创建一张动态的动漫角色概念设定图，展示一名处于戏剧性动作姿态中的愤怒少年。
+
+画布：横向 4:3 白色摄影棚背景，简洁的角色设定集呈现方式，高分辨率数字动漫插画，线条清晰，赛璐珞渲染，强健的解剖结构，带有微妙的灰色阴影。
+
+布局：将全身角色置于左侧和中心，呈大幅度姿态，从左上向右下对角线俯冲。将角色信息面板置于右侧。在右上角，用黑色大号笔触书写 Logo 文字“Kairo”，下方带有粗糙的下划线和墨迹喷溅纹理。在其下方，添加三条细水平线及个人资料文本，随后是调色板网格。
+
+主体细节：该角色是一名 15 岁的黑人少年，中等棕色皮肤，表情愤怒且强烈，眉头紧锁，双眼微眯，目光专注地向前直视。他赤裸上身，身材精瘦但肌肉发达，肩膀、手臂、胸部和腹肌线条分明。发型为头皮上的紧致玉米垄编发，并在头部两侧各扎成一个大的圆形非洲式发髻。佩戴几条深色链条项链，挂有一个小长方形吊坠。他处于跳跃或蹲伏俯冲姿态，躯干前倾，一膝高抬，另一条腿向下伸展，双臂向外张开。他双手各持一把手斧，斧头为深色金属材质，手柄缠绕棕色布条。服装部件：共 3 个主要可见服装部件——带有腰带扣和大型翻盖口袋的超大号深炭灰色工装裤、带有灰色拼接的黑色高帮运动鞋，以及缠绕在手斧手柄上的深色手腕/手部握把绷带。保持赤裸上身。
+
+右侧文本内容：请严格使用以下可见标签和数值：“Name: Kairo”、“Age: 15”、“Height: 164cm”以及“Color Palette:”。右上角的 Logo 必须显示为“Kairo”。
+
+调色板：在“Color Palette:”下方展示 16 个整齐排列的 4x4 方形色块。包含暖肤棕色、棕褐色、柔和棕色、深浓缩咖啡色、炭黑色、板岩灰、近黑色、中灰色、深棕色、灰紫色、冷灰色、浅灰色、灰白色、中性灰、黑棕色和深蓝灰色。
+
+视觉风格：现代少年漫概念艺术，前卫的街头格斗风格，动态透视，简洁的白色留白，细腻的布料褶皱，斧头上的细微划痕，厚重的黑色轮廓线，由棕色、黑色、灰色和暖肤色组成的柔和都市色调。
+
+约束条件：仅包含一名角色。除指定的角色设定信息外，不得添加额外的武器、角色、场景、Logo、水印或其他文本。
+
+[English]
+Goal: Create a dynamic anime character concept sheet for {argument name="character name" default="Kairo"}, showing one angry teenage boy in a dramatic action pose.
+
+Canvas: Landscape 4:3 white studio background, clean character-sheet presentation, high-resolution digital anime illustration with crisp ink lines, cel-shaded rendering, strong anatomy, and subtle gray shadows.
+
+Layout: Place the full-body character large on the left and center, lunging diagonally toward the viewer from upper left to lower right. Place the character information panel on the right. At the top right, write the large brushstroke logo text “Kairo” in black, with a rough underline and ink splatter texture. Beneath it, add three thin horizontal rule lines with profile text, then a color palette grid.
+
+Subject details: The character is a 15-year-old Black teenage boy with medium-brown skin, an intense angry expression, furrowed brows, narrowed eyes, and a focused forward stare. He is shirtless, lean but muscular, with defined shoulders, arms, chest, and abs. His hair is styled as tight cornrow braids across the scalp, splitting into exactly two large round afro puff buns, one on each side of the head. Add several dark chain necklaces with a small rectangular pendant. He is mid-leap or crouch-lunging, torso tilted forward, one knee bent high and the other leg stretched downward, both arms extended outward. He holds exactly two hatchets, one in each hand, with dark metal axe heads and brown wrapped handles. Outfit pieces: exactly 3 main clothing pieces visible — oversized dark charcoal cargo pants with belt straps and large flap pockets, black high-top sneakers with gray panels, and dark wrist/hand grip wraps around the hatchet handles. Keep him shirtless.
+
+Right-side text content: Use the following visible labels and values exactly: “Name: Kairo”, “Age: 15”, “Height: 164cm”, and “Color Palette:”. The logo at the top right must read “Kairo”.
+
+Color palette: Under “Color Palette:” show exactly 16 square swatches in a neat 4 by 4 grid. Include warm skin browns, tan, muted brown, dark espresso, charcoal black, slate gray, near-black, medium gray, deep brown, mauve-gray, cool gray, pale gray, off-white, neutral gray, black-brown, and dark blue-gray.
+
+Visual style: Modern shonen anime concept art, edgy street-fighter energy, dynamic foreshortening, clean white negative space, detailed fabric folds, subtle scratches on the axe heads, heavy black outlines, muted urban palette of browns, blacks, grays, and warm skin tones.
+
+Constraints: Include only one character. Do not add extra weapons, extra characters, scenery, logos, watermarks, or additional text beyond the specified character sheet information.
+```
+
+**来源：** [@MARC. elina](https://x.com/GenPhi001/status/2078538710711226734) | 2026-07-18
+
+---
+
+### 🧍 例 4467：极简矢量涂鸦插画
+
+![极简矢量涂鸦插画](../images/%E6%9E%81%E7%AE%80%E7%9F%A2%E9%87%8F%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅将上传的图像作为构图和色彩参考。将其重新创作成为一幅原创的极简矢量涂鸦插画。使用粗线条 {argument name="outline color" default="cobalt-blue"} 勾勒轮廓，并采用刻意不均匀的手绘笔触。使用从参考图中提取的纯色填充每个对象。不要使用渐变、写实阴影、马克笔纹理、铅笔纹理、排线、绘画效果或写实风格。将面部特征简化为 {argument name="facial style" default="cartoon shapes"}，使用圆眼睛、小鼻子、简单的嘴巴和极简细节，同时保持姿势具有极高的辨识度。使用 {argument name="background" default="clean off-white paper background"} 作为背景，并留出大量负空间。整体风格应符合现代编辑涂鸦插画，类似于使用 Procreate 或 Adobe Fresco 创作的手绘矢量艺术，具有趣味性、大胆、扁平、极简且富有图形感。
+不要创作马克笔草图。不要创作写实插画。请创作一幅具有粗蓝色轮廓的扁平矢量涂鸦，其视觉语言应与参考图像完全一致。
+
+[English]
+Treat the uploaded image as composition and color reference only. Recreate it as an original minimalist vector doodle illustration. Use thick monoline {argument name="outline color" default="cobalt-blue"} outlines with intentionally uneven hand-drawn strokes. Fill every object with completely flat solid colors sampled from the reference. No gradients, no realistic shading, no marker texture, no pencil texture, no cross-hatching, no painterly effects, no photorealism. Simplify facial features into {argument name="facial style" default="cartoon shapes"} with round eyes, tiny nose, simple mouth, and minimal details while keeping the pose instantly recognizable. Use a {argument name="background" default="clean off-white paper background"} with lots of negative space. The overall style should match a modern editorial doodle illustration, similar to hand-drawn vector artwork created with Procreate or Adobe Fresco, playful, bold, flat, minimal, and graphic
+Do not create a marker sketch. Do not create a realistic illustration. Create a flat vector doodle with bold blue outlines exactly in the same visual language as the reference.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2078319646705672514) | 2026-07-18
+
+---
+

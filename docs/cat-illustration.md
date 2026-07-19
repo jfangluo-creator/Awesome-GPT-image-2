@@ -8734,3 +8734,131 @@ Create a minimalist flat vector illustration of {argument name="number of people
 
 ---
 
+### 🎨 例 4390：优雅动漫召唤师同人画作
+
+![优雅动漫召唤师同人画作](../images/%E4%BC%98%E9%9B%85%E5%8A%A8%E6%BC%AB%E5%8F%AC%E5%94%A4%E5%B8%88%E5%90%8C%E4%BA%BA%E7%94%BB%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的垂直动漫同人插画，主角是 {argument name="character name" default="Minamo"}，一位灵感源自 21 世纪初幻想 RPG 女主角服装设计的优雅年轻女召唤师。画面展示她从大腿中部以上的部位，呈柔和的四分之三正面姿势，面带温和微笑，拥有冷静的蓝色双眼，齐肩波浪状的 {argument name="hair color" default="玫瑰粉色头发，发梢带有淡淡的蓝色"} 向右轻拂。她身穿一件不对称的白色无袖和服式上衣，胸前交叉，侧面可见黑色肩带，配有宽大的白色分离式袖子，袖口用黑色小丝带系紧；腰间系着明黄色的花卉腰带，饰有绿松石色花纹和粉色镶边，中央配有一朵大型粉色花饰，垂下两朵小粉花和长长的绿松石色流苏。搭配一条深海军蓝色的百褶袴裙，裙摆下部装饰有淡淡的粉色樱花图案。她佩戴着小巧的绿松石色耳环。在画面左侧边缘的左手中，包含一根华丽的召唤师法杖：蓝色的长杖身，配有粉色握柄、金色圆环和配件，底部带有蓝色流苏，顶部左侧边缘可见一个巨大的半圆形金色网格杖头，镶嵌着一颗绿松石宝石。使用明亮通透的白至浅青色背景，完全没有场景，仅有柔和发光的蓝色光斑和微小的漂浮闪光。风格：高质量现代动漫插画、细腻的线条、明亮的双眼、柔和的皮肤阴影、柔和的灯光、微妙的轮廓光、简洁的构图、优雅的幻想氛围。画布：垂直肖像 9:16，近景裁剪，法杖在左侧部分被切断，右侧袖子延伸出画面。约束：无文字、无水印、无额外角色、除法杖外无其他武器，保持服装优雅，且能辨认出是白蓝配色的召唤师和服，配有黄色花卉腰带。
+
+[English]
+Create a polished vertical anime fan-art illustration of {argument name="character name" default="Minamo"}, an elegant young female summoner inspired by early-2000s fantasy RPG heroine costume design. Show her from mid-thigh upward in a soft three-quarter frontal pose, gently smiling with calm blue eyes and shoulder-length wavy {argument name="hair color" default="rose pink hair with subtle blue-tinted tips"} blowing lightly to the right. She wears an asymmetrical white sleeveless kimono-style top crossing over the chest, a visible black strap at the side, detached wide white sleeves tied with small black ribbon lacing, a bright yellow floral obi with turquoise ornamental patterns, pink trim, a large pink flower ornament at the center, two small dangling pink flowers, and long turquoise tassels. Pair it with a deep navy pleated hakama-style skirt decorated with faint pink cherry blossom patterns near the lower area. Her accessories are small turquoise earrings. In her left hand at the image edge, include exactly one ornate summoner staff: a tall blue shaft with a pink grip section, gold rings and fittings, a blue tassel at the bottom, and a large partial golden circular lattice head with a turquoise gem visible near the top-left edge. Use a bright airy white-to-pale-cyan background with exactly no scenery, only soft glowing blue bokeh dots and tiny floating sparkles. Style: high-quality modern anime illustration, delicate linework, glossy eyes, soft skin shading, pastel lighting, subtle rim light, clean composition, elegant fantasy mood. Canvas: vertical portrait 9:16, close crop with the staff partly cut off on the left and the right sleeve extending out of frame. Constraints: no text, no watermark, no extra characters, no weapons other than the single staff, keep the outfit graceful and recognizable as a white-and-navy summoner kimono with yellow floral obi.
+```
+
+**来源：** [@あいぼりー](https://x.com/HetareIvory/status/2078594432660906148) | 2026-07-18
+
+---
+
+### 🎨 例 4408：SenseNova U1 Pro 功能页面
+
+![SenseNova U1 Pro 功能页面](../images/SenseNova%20U1%20Pro%20%E5%8A%9F%E8%83%BD%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="product name" default="SenseNova U1 Pro"} 创建一个简洁的企业级产品落地页首屏及功能区，展示其超高分辨率图像生成模型。
+
+画布：宽屏 16:9 截图风格构图，约 1200×675 像素，留白充裕，呈现精致的科技公司落地页美学。
+
+顶部首屏：使用白色至极浅淡紫色的背景，带有从右上角向左下角扫过的微妙半透明对角光束。在左上角放置一个非常大的深海军蓝衬线字体标题，内容为“{argument name="product name" default="SenseNova U1 Pro"}”。在其下方，添加一段小号灰色无衬线字体段落：“旗舰级图像创作模型，采用交错式图文思维链，打造精准、设计精良且可直接用于生产的视觉资产，提供全球领先的综合性能”。保持首屏通透感，右侧大部分留空。
+
+功能区：在首屏下方，过渡到一个浅暖灰色的内容区域。左侧放置一个大号深灰色无衬线标题，内容为“{argument name="section heading" default="超高分辨率输出"}”。在其正下方，添加一个窄条蓝色高亮标题栏，白色文字内容为“{argument name="highlight caption" default="支持原生 8K 分辨率及多种专业比例，满足生产级精度与细节要求"}”。
+
+主视觉：在标题下方，居中放置一张装裱好的传统中国水墨画海报，带有细米色边框和奶油色纸张背景。海报顶部中央包含黑色毛笔书法文字“二十四节气”。海报由 24 个完全相同的窄长垂直水墨面板横向排列而成，面板间以浅色边界分隔，以细腻的水墨风格描绘了季节性景观、花卉、雨雪、鸟类、田野、竹林、山峦、叶片和花朵。从左至右的 24 个标注面板分别为：1“立春”（早春枝条）、2“雨水”（烟雨与水）、3“惊蛰”（鸟儿与苏醒的春天）、4“春分”（黄绿色春日田野）、5“清明”（淡雅清新的景观）、6“谷雨”（红花与雨）、7“立夏”（郁郁葱葱的绿意）、8“小满”（绿色田野纹理）、9“芒种”（荷花与湿地意境）、10“夏至”（明媚阳光与向日葵）、11“小暑”（温暖的夏季植物）、12“大暑”（金色的热浪与田野）、13“立秋”（渐褪的植物）、14“处暑”（黄色秋色调）、15“白露”（清晨的露水与草丛）、16“秋分”（红橙色叶片）、17“寒露”（金色的花朵与凉爽空气）、18“霜降”（挂霜的枝条）、19“立冬”（沉稳的冬日植物）、20“小雪”（雪山）、21“大雪”（厚雪与蓝灰色山峰）、22“冬至”（枯枝与寒冷景观）、23“小寒”（红梅）、以及 24“大寒”（稀疏的冻枝）。每个面板下方均包含其中文标签及整齐的微型日期文字。
+
+视觉风格：极简现代 SaaS 页面设计与精致中国水墨画的结合。使用清晰的排版、真实的截图间距、柔和的海军蓝/灰色文字、蓝色高亮选择条、柔和的水彩配色以及高分辨率的锐度。
+
+约束：保留 24 个节气面板及其标签，不添加额外的 UI 控件，不出现人物，除产品名称外不添加 Logo，无水印，并保持宽敞的网页布局。
+
+[English]
+Goal: Create a clean corporate product webpage hero and feature section for {argument name="product name" default="SenseNova U1 Pro"}, presenting an ultra-high-resolution image generation model.
+
+Canvas: Wide 16:9 screenshot-style composition, about 1200×675 px, with generous whitespace and a polished tech-company landing-page aesthetic.
+
+Top hero section: Use a white-to-very-pale-lavender background with subtle diagonal translucent light streaks sweeping downward from upper right to lower left. Place a very large dark navy serif headline at the upper left reading “{argument name="product name" default="SenseNova U1 Pro"}”. Beneath it, add a small gray sans-serif paragraph: “Flagship image creation model that uses interleaved text-image chain of thought to create accurate, well-designed, production-ready visual assets, delivering global-leading overall performance”. Keep the hero airy, with the right side mostly empty.
+
+Feature section: Below the hero, transition into a light warm-gray content area. At the left, place a large dark gray sans-serif heading reading “{argument name="section heading" default="Ultra-High-Resolution Output"}”. Directly beneath it, add a narrow blue highlighted caption strip with white text reading “{argument name="highlight caption" default="Supports up to native 8K resolution and specialized aspect ratios for production-grade precision and detail"}”.
+
+Main visual: Under the caption, center a large framed traditional Chinese watercolor poster with a thin beige border and cream paper background. At the top center of the poster, include black brush-calligraphy text “二十四节气”. The poster is a horizontal sequence of exactly 24 narrow vertical watercolor panels, each separated by pale boundaries, depicting seasonal landscapes, flowers, rain, snow, birds, fields, bamboo, mountains, leaves, and blossoms in delicate ink-wash style. The 24 labeled panels from left to right are: 1 “立春” with early spring branches, 2 “雨水” with misty rain and water, 3 “惊蛰” with birds and awakening spring, 4 “春分” with yellow-green spring fields, 5 “清明” with pale fresh landscape, 6 “谷雨” with red flowers and rain, 7 “立夏” with lush greenery, 8 “小满” with green field textures, 9 “芒种” with lotus/wetland feeling, 10 “夏至” with bright sun and sunflower, 11 “小暑” with warm summer plants, 12 “大暑” with golden heat and fields, 13 “立秋” with fading plants, 14 “处暑” with yellow autumn tones, 15 “白露” with pale dew and grasses, 16 “秋分” with red-orange leaves, 17 “寒露” with golden flowers and cool air, 18 “霜降” with frost-touched branches, 19 “立冬” with muted wintry plants, 20 “小雪” with snowy mountains, 21 “大雪” with heavier snow and blue-gray peaks, 22 “冬至” with bare branches and cold landscape, 23 “小寒” with red plum blossoms, and 24 “大寒” with sparse frozen branches. Under every panel, include its Chinese label plus tiny date text in a neat printed style.
+
+Visual style: Minimal modern SaaS page design combined with refined Chinese ink painting. Use crisp typography, realistic screenshot spacing, muted navy/gray text, a blue selection-like highlight bar, soft pastel watercolor colors, and high-resolution sharpness.
+
+Constraints: Keep exactly 24 seasonal panels and their labels, no extra UI controls, no people, no logo beyond the product name, no watermark, and preserve the spacious webpage layout.
+```
+
+**来源：** [@Lentils](https://x.com/Lentils80/status/2078480576202346900) | 2026-07-18
+
+---
+
+### 🎨 例 4426：哥特式动漫风格森林告别
+
+![哥特式动漫风格森林告别](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%A3%AE%E6%9E%97%E5%91%8A%E5%88%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 纵向的暗黑哥特式动漫插画，采用黑色、白色和柔和银色的单色调。在茂密如梦境般的森林中，展示 {argument name="character name" default="一位脸色苍白的年轻男子"}，他有着 {argument name="hair color" default="凌乱的金色长发，扎成松散的低马尾"}，身穿黑色正装和白色衬衫，跪着或弯腰在画面右下方。他低着头，神情哀伤而温柔，伸出一只人类的手，轻轻触碰从左下方伸出的一只骷髅手，画面中心正好有两只手：一只活人的手和一只裸露的骨手。周围环绕着浓密的阴影叶片、薄雾、细小的白色花朵，前景中有几朵巨大的白百合，边缘带有柔和的晕影和绘画般的焦外成像效果。在他们身后，放置高耸的垂直黑白树干，如同庄严的柱子，冷冽的背光透过雾气过滤进来。在上方中心的一棵深色树干附近，添加一行狭长的垂直日语铭文，内容为 {argument name="vertical text" default="死は優しく手を引く——"}。氛围应是挽歌式的、诗意的且宁静的，如同夜晚的葬礼花园；使用细腻的墨水线条、精致的花卉细节、高对比度的明暗对照照明、微妙的胶片颗粒感，且不要包含任何现代物品、多余角色或水印。
+
+[English]
+Create a vertical 2:3 dark gothic anime illustration in a monochrome black, white, and muted silver palette. In a dense, dreamlike forest, show {argument name="character name" default="a pale young man"} with {argument name="hair color" default="messy blond hair tied in a loose low ponytail"}, wearing a black formal suit and white shirt, kneeling or bending forward at the lower right. His head is bowed in sorrow and tenderness as he extends one human hand to gently touch one skeletal hand reaching in from the lower left, making exactly two central hands: one living hand and one exposed bone hand. Surround them with thick shadowed foliage, mist, tiny white blossoms, and several large white lilies in the foreground, with a soft vignette and painterly bokeh blur around the edges. Behind them, place tall vertical black-and-white tree trunks like solemn pillars, with cold backlight filtering through fog. Add a single narrow vertical Japanese inscription near the upper center on a dark trunk reading {argument name="vertical text" default="死は優しく手を引く——"}. The mood should be elegiac, poetic, and quiet, like a funeral garden at night; use fine ink-like linework, delicate floral detail, high contrast chiaroscuro lighting, subtle film grain, and no modern objects, no extra characters, no watermark.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078440052510896489) | 2026-07-18
+
+---
+
+### 🎨 例 4427：哥特式傀儡师与彼岸花
+
+![哥特式傀儡师与彼岸花](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E5%82%80%E5%84%A1%E5%B8%88%E4%B8%8E%E5%BD%BC%E5%B2%B8%E8%8A%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 纵向比例的暗黑哥特式动漫插画。画面中心为一位身材修长的中性化少年 {argument name="character name" default="未命名的苍白金发少年"}，留着 {argument name="hair color" default="浅灰金色"} 的凌乱中长发，遮住一只眼睛，嘴角带着一丝令人不安的微笑，一只手若有所思地托着下巴。他身着正式的黑色西装，内搭白衬衫，佩戴华丽的胸针、链条和细小的垂坠饰品，线条精细优雅。在他身后，放置一个高大的仪式感人物，如身穿黑袍的傀儡师或神祇，戴着巨大的倒三角形金属面具，面具上有黑色装饰纹样，头顶上方悬浮着几何形状的冠状光环。采用严格的对称构图，少年脑后设有一个发光的白色光环，细长的金色丝线如蛛网般向外辐射，背景为黑白竖条纹幕布。在主体周围布置 10 朵白色彼岸花：面具人物肩部附近 2 朵，少年中左和中右侧各 2 朵大花，少年下半身两侧 2 朵小花，左下和右下角各 2 朵大花，以及下侧叶丛中点缀 2 朵较小的花。从黑暗中伸出 8 只苍白的骨感瓷质手：左上和右上各 2 只举起，中左和中右各 2 只横向伸出，左下和右下各 2 只向上抓取，以及 2 只巨大的前景手从底部角落伸出。氛围应呈现出阴森、优雅、戏剧化且具有宗教仪式感，色调采用 {argument name="main palette" default="黑色、象牙白、银灰色和淡淡的古金色"} 的单色调，强调高对比度的边缘光、烟雾状阴影、精致的花丝、水晶般的高光以及浓郁的绘画细节。画面中不得出现文字、水印、现代物品或鲜艳色彩。
+
+[English]
+Create a dark gothic anime illustration in a tall vertical 2:3 portrait format. Center a slender androgynous young man named {argument name="character name" default="unnamed pale blond youth"} with {argument name="hair color" default="pale ash blond"} messy medium-length hair covering one eye, a faint unsettling smile, and one hand raised thoughtfully to his chin. Dress him in a formal black suit with a white shirt, ornate brooches, chains, and small dangling accessories, rendered in elegant high-detail linework. Behind him, place a towering ritual figure like a black-robed puppeteer or deity with a large inverted triangular metallic mask, black ornamental markings on the mask, and a crown-like geometric halo above it. Use a strict symmetrical composition with a glowing white halo behind the youth’s head, thin golden threads radiating outward like a web, and a black-and-white vertical striped curtain in the background. Surround the subjects with exactly 10 white spider lily flowers: 2 near the masked figure’s shoulders, 2 large flowers at the youth’s mid-left and mid-right, 2 small flowers beside the youth’s lower torso, 2 large flowers near the bottom left and bottom right, and 2 smaller flowers tucked into the lower side foliage. Include exactly 8 pale skeletal porcelain-like hands emerging from darkness: 2 raised near the upper left and upper right, 2 reaching horizontally at mid-left and mid-right, 2 clawing upward at lower left and lower right, and 2 large foreground hands reaching from the bottom corners. The mood should be ominous, elegant, theatrical, and religiously ceremonial, with a monochrome palette of {argument name="main palette" default="black, ivory white, silver gray, and faint antique gold"}, high contrast rim lighting, smoky shadows, delicate floral filaments, crystalline highlights, and dense painterly detail. No text, no watermark, no modern objects, no bright colors.
+```
+
+**来源：** [@らてこ](https://x.com/Lobhops/status/2078439806175150404) | 2026-07-18
+
+---
+
+### 🎨 例 4473：复古动漫 City Pop 插画
+
+![复古动漫 City Pop 插画](../images/%E5%A4%8D%E5%8F%A4%E5%8A%A8%E6%BC%AB%20City%20Pop%20%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅细节丰富的中远景复古动漫插画，采用 80 年代 City Pop 艺术风格，带有纸张纹理和丝网印刷质感。构图主体为一名 {argument name="subject" default="东亚男子"}，留着深色波浪卷发，蓄着浅胡茬，戴着深色墨镜。他随意地倚靠在海滨长廊或船甲板的深色木质栏杆上，双手插兜并扶着栏杆，向右侧眺望。他穿着一件未扣扣子的 {argument name="shirt color" default="浅米色"} 短袖衬衫，搭配深靛蓝色褶皱长裤和黑色腰带，手腕上戴着一块经典的金属皮带手表。背景是广阔的海滨，天空呈现出戏剧性的 {argument name="sky colors" default="鲑鱼粉色和橙色"} 渐变。天空中悬挂着一轮巨大、苍白的圆形太阳或月亮。风格化的云朵在下方飘动。在平静的深蓝绿色水面之外，是远方深色的山脉。整个场景被柔和、温暖的光线所笼罩。
+
+[English]
+A detailed medium-long shot retro anime illustration, in the style of 80s City Pop art with a textured paper and screen-print finish. The composition features an {argument name="subject" default="East Asian man"} with dark, wavy hair and a light beard, wearing dark sunglasses. He is casually leaning against a dark wooden railing on a waterfront promenade or ship deck, hands in his pockets and on the rail, looking out to his right. He wears an unbuttoned {argument name="shirt color" default="light beige"} short-sleeved shirt, dark indigo pleated trousers with a black belt, and a classic metal-and-leather watch on his wrist. The background is a vast waterfront under a dramatic, {argument name="sky colors" default="salmon-pink and orange"} gradient sky. A large, pale, circular sun or moon is high in the sky. Stylized clouds drift below. Beyond the calm, deep blue-green water, there are dark, distant mountain ranges. The scene is illuminated by soft, warm light.
+```
+
+**来源：** [@Duet | AI](https://x.com/Sheldon056/status/2078309926007603212) | 2026-07-18
+
+---
+
+### 🎨 例 4474：皱纸上的教科书涂鸦
+
+![皱纸上的教科书涂鸦](../images/%E7%9A%B1%E7%BA%B8%E4%B8%8A%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+非常に簡略化した線とデザインで、{argument name="場所" default="教科書"}に書かれた落書き程度のクオリティで{argument name="質感" default="くしゃくしゃの紙"}の上に描いてください
+```
+
+**来源：** [@とらの](https://x.com/TlanoAI/status/2078304747115933947) | 2026-07-18
+
+---
+
