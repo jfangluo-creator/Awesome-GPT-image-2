@@ -6851,3 +6851,163 @@ A 6-panel collage (3 rows by 2 columns) featuring a {argument name="subject" def
 
 ---
 
+### 🎬 例 4481：Q 版海滩马尾辫漫画
+
+![Q 版海滩马尾辫漫画](../images/Q%20%E7%89%88%E6%B5%B7%E6%BB%A9%E9%A9%AC%E5%B0%BE%E8%BE%AB%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张 2x2 正方形漫画风格的公告图，主角是一位在海滩上的可爱 Q 版马尾辫女孩，标题为 {argument name="title text" default="「陰みろちゃん」"}，标题旁配有一个小的 Q 版头像图标，左上角带有淡淡的 CapCut 水印。
+
+画布：1:1 正方形图片，干净的白色背景，粗黑色的漫画分镜边框，充满趣味的手绘日式漫画美学，配以柔和的水彩风格海滩场景。
+
+布局：顶部标题栏横跨全宽，使用醒目的手写黑色标题文字，右侧配有一个小的 Q 版头像。下方放置 4 个编号的漫画分镜，呈 2x2 网格排列，每个分镜右下角带有白色圆形数字角标：①、②、③、④。
+
+分镜 1：广角海滩视野，左侧是绿松石色的海洋和泡沫海岸线，前景是浅色的沙滩，远处有岩石和绿植。一位扎着黑色马尾辫的 Q 版年轻女孩跪在沙滩上，身穿黄色短款 T 恤和蓝色牛仔短裤，手持木棍在沙滩上写下庆祝信息。沙滩文字内容为 {argument name="sand celebration text" default="4周年 祝って"}。女孩面部表情可爱简洁，眼睛闭成侧向弧线，嘴巴微嘟。
+
+分镜 2：特写镜头，巨大的蓝色海浪向前拍打，带有白色的泡沫和飞溅细节，填满整个分镜。在海浪上叠加醒目的手写日文拟声词 {argument name="wave sound effect" default="どどーん"}，黑色字体带白色描边，倾斜排列。
+
+分镜 3：女孩的半身反应特写，她感到震惊和沮丧，凌乱的黑色刘海遮住部分脸庞，背景带有垂直的蓝紫色漫画压力线，脸颊上有汗滴，眼睛紧闭，嘴巴大张。
+
+分镜 4：回到女孩背后的海滩场景。她蹲在沙滩上，背对着海洋，头旁有一个大汗滴。之前的文字被破坏或改变，可见的沙滩文字变为 {argument name="ruined sand text" default="呪って"}。海浪在左侧翻滚，前景布满沙子和鹅卵石。
+
+角色细节：角色是一位可爱的 Q 版/动漫女孩，名为 {argument name="character name" default="Kagemiro-chan"}，留着黑色高马尾，皮肤白皙，面部特征为简单的点状/闭合线条，身材圆润，身穿黄色上衣和蓝色牛仔短裤，赤脚或脚部细节极简。
+
+视觉风格：明亮、简洁、幽默的日式网络漫画风格；粗黑色轮廓线；表现力强的漫画符号；柔和的海滩色调；生动的海浪插画；手写书法风格的日文字体。保持漫画的易读性和可爱感，而非写实风格。
+
+约束：必须使用 4 个分镜和 4 个分镜数字角标。标题栏中必须包含 1 个小的 Q 版头像图标。不要添加额外的旁白、对话气泡或额外角色。请严格保留所提供的日文文本。
+
+[English]
+Goal: Create a square 2x2 manga-style comic announcement about a cute chibi ponytail girl at the beach, titled {argument name="title text" default="「陰みろちゃん」"}, with a small chibi head icon near the title and a faint CapCut watermark in the upper left.
+
+Canvas: Square 1:1 image, clean white background, thick black comic panel borders, playful hand-drawn Japanese manga aesthetic with soft watercolor-like beach scenery.
+
+Layout: Top header spans the full width with large handwritten black title text and one small chibi head portrait on the right. Below it, place exactly 4 numbered comic panels in a 2x2 grid, each with a white circular number badge at the bottom right: ①, ②, ③, ④.
+
+Panel 1: Wide beach view with turquoise ocean and foamy shoreline on the left, pale sand across the foreground, rocks and greenery in the distance. A chibi young woman with black ponytail hair kneels on the sand wearing a yellow cropped T-shirt and blue denim shorts, holding a stick and writing a celebratory message in the sand. The sand text reads {argument name="sand celebration text" default="4周年 祝って"}. Cute simplified face with closed sideways eyes and small puckered mouth.
+
+Panel 2: A dramatic close-up of a huge blue wave crashing forward with white foam and splash details, filling the entire panel. Overlay large bold handwritten Japanese sound effect text {argument name="wave sound effect" default="どどーん"} in black with white outline, slanted across the wave.
+
+Panel 3: Close-up reaction shot of the same chibi girl from the chest up, shocked and distressed, with messy black bangs covering part of her face, vertical blue-purple manga stress lines in the background, sweat drop on her cheek, tiny closed eyes, and wide open red mouth. She still wears the yellow T-shirt.
+
+Panel 4: Return to beach scene from behind the girl. She is crouching on the sand, facing away toward the ocean, with a large sweat drop by her head. The previous message is ruined or changed so the visible sand text reads {argument name="ruined sand text" default="呪って"}. Ocean waves roll along the left side; sand and pebbles fill the foreground.
+
+Subject details: The character is a cute chibi/anime girl named {argument name="character name" default="Kagemiro-chan"}, with black hair in a high ponytail, pale skin, simple dot/closed-line facial features, short rounded body proportions, yellow top, blue denim shorts, barefoot or minimally detailed feet.
+
+Visual style: Bright, clean, humorous Japanese webcomic look; thick black outlines; expressive manga symbols; soft beach colors; lively wave illustration; handwritten calligraphy-like Japanese lettering. Keep the comic readable and cute rather than realistic.
+
+Constraints: Use exactly 4 panels and exactly 4 panel number badges. Include exactly 1 small chibi head icon in the header. Do not add extra captions, speech bubbles, or additional characters. Preserve the specified Japanese text exactly where provided.
+```
+
+**来源：** [@みろく（MIROKU）](https://x.com/Me_Rock369/status/2078940439357558886) | 2026-07-19
+
+---
+
+### 🎬 例 4483：机械生物分镜草图
+
+![机械生物分镜草图](../images/%E6%9C%BA%E6%A2%B0%E7%94%9F%E7%89%A9%E5%88%86%E9%95%9C%E8%8D%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个横向的简洁单色 2D 分镜草图，内容为 {argument name="character" default="mechanoid"}
+
+[English]
+Create a landscape clean monochrome 2D storyboard line-sketch sheet of a {argument name="character" default="mechanoid"}
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2078929044469375080) | 2026-07-19
+
+---
+
+### 🎬 例 4497：粉色童趣足球插画
+
+![粉色童趣足球插画](../images/%E7%B2%89%E8%89%B2%E7%AB%A5%E8%B6%A3%E8%B6%B3%E7%90%83%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图作为构图和动作基础，将足球场景转换为温暖、充满童趣的手绘插画，并采用柔和的粉色美学。保留相同的倒钩射门姿势、相同的主力球员位置、抬起的脚边相同的足球，以及相同的对手球员排列，但将所有人物简化为可爱的圆润绘本角色，并配以柔和的面部特征和俏皮的比例。
+
+风格：呈现为蜡笔 / 油画棒风格的童书插画，具有明显的涂鸦质感、柔和的粉笔边缘、不完美的手工填色，以及温馨、愉悦的氛围。使用主导的 {argument name="background color" default="温暖泡泡糖粉色"} 背景代替写实的体育场，并散布着五彩纸屑般的涂鸦、小星星、笔触和色彩斑斓的庆祝线条。
+
+场景变化：将深色的写实体育场观众替换为抽象的粉色晕染效果和俏皮的装饰性标记。保留 4 名可见的足球运动员：1 名执行倒钩射门的主力球员，左侧 1 名红白球衣的对手，主力球员身后 1 名部分遮挡的蓝色球衣球员，以及右侧 1 名小个子蓝色球衣球员。在主力球员抬起的脚边保留 1 个足球。
+
+色彩与氛围：强调 {argument name="overall mood" default="温暖、可爱、充满活力、天真且俏皮"}。保留蓝色球衣与红白球衣的色彩对比，但使颜色更柔和、更明亮、更具奇幻感。仅保留松散的球衣细节，例如主力球员的姓名和号码以及对手的白色球衣文字，以简化的手写字体呈现，而非写实的排版。
+
+约束：不要制作成写实、电影感或暗黑风格。避免尖锐的摄影细节。不要添加除这 4 个可见人物之外的额外球员，也不要添加额外的足球。最终图像应呈现为一幅受参考照片启发、粉色且暖心的儿童体育插画。
+
+[English]
+Using the provided reference image as the composition and action base, transform the soccer scene into a warm, childlike hand-drawn illustration with a soft pink aesthetic. Keep the same bicycle-kick pose, the same main player placement, the same soccer ball near the raised foot, and the same opposing-player arrangement, but simplify all figures into cute rounded storybook characters with gentle facial features and playful proportions.
+
+Style: Render as a pastel crayon / oil-pastel children's-book illustration with visible scribble texture, soft chalky edges, imperfect hand coloring, and a cozy, cheerful mood. Use a dominant {argument name="background color" default="warm bubblegum pink"} background instead of the realistic stadium, with confetti-like doodles, tiny stars, brush marks, and colorful celebratory strokes scattered throughout.
+
+Scene changes: Replace the dark photographic stadium crowd with an abstract pink crowd-like wash and playful decorative marks. Keep exactly 4 visible soccer players: 1 main player performing the bicycle kick, 1 red-and-white opponent on the left, 1 partially hidden blue player behind the main figure, and 1 small blue player on the right. Keep exactly 1 soccer ball near the main player's raised boot.
+
+Color and mood: Emphasize {argument name="overall mood" default="warm, cute, energetic, innocent, and playful"}. Keep the recognizable blue kit versus red-and-white kit color contrast, but make the colors softer, brighter, and more whimsical. Preserve only loose jersey details such as the main player's name and number and the opponent's white shirt text, drawn in a simplified hand-lettered way rather than photorealistic typography.
+
+Constraints: Do not make it realistic, cinematic, or dark. Avoid sharp photographic detail. Do not add extra players beyond the 4 visible figures, and do not add extra balls. The final image should feel like a pink, heartwarming children's sports illustration inspired by the reference photo.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2078845337079517670) | 2026-07-19
+
+---
+
+### 🎬 例 4509：教育类漫画生成提示词
+
+![教育类漫画生成提示词](../images/%E6%95%99%E8%82%B2%E7%B1%BB%E6%BC%AB%E7%94%BB%E7%94%9F%E6%88%90%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+共通キャラクター設定+描画ルール:
+登場人物2名のキャラクターデザインを厳守すること。
+
+先生({argument name="先生の名前" default="ミドリ先生"}): 黒髪ストレートのポニーテール、髪に薄い緑のメッシュが一筋。メガネ。ダボダボの体操ジャージの上に、サイズの合っていない大きめの白衣を羽織っている。表情豊かで元気、わんぱくな雰囲気だが教師としての誇りがある。動きが大きく、身振り手振りで熱く語る。
+生徒({argument name="生徒の名前" default="ピンクちゃん"}): 薄いピンク色の髪、猫背、頭頂部にアホ毛が一本。常に眠そうな半目。おっとりした雰囲気で動作が遅い。机の上に液晶ペンタブレット(枕にする癖がある)、飲みかけのいちごミルク、うさぎのぬいぐるみ型ペンケースが置いてある。
+
+画風・仕上げ指定:フルカラーで生成すること(モノクロ・グレースケール不可)。彩度はコメディ漫画らしく明るめ、ミドリ先生の髪は黒に薄い緑メッシュ、ピンクちゃんの髪は薄いピンクをはっきり発色させること。
+コマ内にコマ番号(1、2、3などの数字ラベル)は一切表示しないこと。以下の「1コマ目」等の表記は指示用ラベルであり、画像内には描かない。
+日本の商業漫画の正しい読み順に従い、コマ配置とキャラクターの視線・動作の向きは右から左へ流れるように厳守すること(右上のコマから開始し、右→左、上→下の順)。吹き出しの位置もこの読み順を妨げないよう配置する。
+コマ枠は太めの黒線。セリフは日本語、読みやすく大きめ。舞台は漫画教室(ホワイトボード、机、液タブがある部屋)。
+
+【1ページ目】縦長(3:4)、6コマ、右から左・上から下の順で配置:
+1コマ目(右上、開始コマ・横長でページ幅いっぱい): タイトルコマ。手書き風の大きな文字で「{argument name="タイトル" default="『めくり』を制する者は漫画を制す"}」。ミドリ先生が単行本を1冊持ち、ページをめくる動作を大げさに実演している。ピンクちゃんは机で頬杖、半目。
+2コマ目(2段目・右側): ピンクちゃんが気だるく質問。吹き出し「めくり…?ページをめくるだけのことに、名前があるんですかぁ…?」。頭上に「?」。
+3コマ目(2段目・左側): ミドリ先生がメガネキラーンで食いつく。吹き出し「あるの!左ページ最後のコマ→めくる→右ページ最初のコマ。この橋渡しを『めくり』と呼んで、漫画家は技術の限りを尽くすの!」。背景に集中線。
+4コマ目(3段目・横長、このページの主役コマとして大きく): 図解コマ。ホワイトボードに描かれた見開き構造の模式図: 開いた本の絵で、左ページの一番左下のコマに「引き!(次に何か起きそう)」のラベルと矢印、ページの間に「めくる=読者の目が紙面から完全に離れる時間」のラベル、右ページの一番右上のコマに「期待に応える良い絵・良いセリフ!」のラベルと矢印。矢印は読み順(右→左、めくって次ページ)に沿って描く。ミドリ先生がマーカーで模式図をビシッと指す。
+5コマ目(4段目・右側): 比喩の解説コマ。ミドリ先生が胸に手を当てて語る。吹き出し「コマ割りのテンポは、人間の会話の口調と同じ。畳みかけるところと、ゆっくり話すところがある。その中で『めくり』は——息継ぎなの」。背景に音楽の休符のような柔らかいモチーフ。
+6コマ目(4段目・左側): ピンクちゃんが半目のままぽつり。吹き出し「息継ぎ…わたしの人生、ずっと息継ぎみたいなものですねぇ…」。ミドリ先生の小さいツッコミ吹き出し「あなたのは潜水!(寝てる)」。
+
+【2ページ目】縦長(3:4)、7コマ、右から左・上から下の順で配置:
+1コマ目(右上、開始コマ・横長): ミドリ先生が解説の続き。吹き出し「めくりの間で読者の意識が離れちゃう。だから左ページの最後は『次に何か起きそうなコマ』か『自然な場面転換』を置くの!」。横に小さな例示イラスト: 漫画のコマ風に、キャラが何かに気づいてハッと振り向く「引き」のコマ。
+2コマ目(2段目・横長): 続きの解説。吹き出し「そしてめくった先、右ページの最初のコマ。間があいた分、読者の期待値は上がってる。だからそれにふさわしい良いセリフ、良い絵を入れる!つまりめくりは——印象的なシーンの前の『タメ』!」。横に例示イラスト: めくった先で見開きのドーンとした決めゴマが現れるイメージ。
+3コマ目(3段目・右側): ミドリ先生が実演を始める。単行本をピンクちゃんの前に置いて、わくわく顔。吹き出し「実際に体感してみて!ここ、左ページの最後のコマ…どう?めくりたくなるでしょ?」。
+4コマ目(3段目・左側): ピンクちゃんが珍しく身を乗り出し、半目が少し開いて、ページに手をかける。吹き出し「あ…ほんとだ…ちょっと気になります…先が…」。瞳に小さなハイライトが一粒。
+5コマ目(4段目・横長): ミドリ先生が感動と熱弁のピーク。白衣バサバサ。吹き出し「それ!!その『先が気になる』が積み重なると、"ページをめくる手が止まらない"作品になるの!!めくりは読者へのプレゼントなの!!」。背景に暖色の熱気トーン。
+6コマ目(最下段・右側): ふと見ると、ピンクちゃんが開いた単行本に顔を突っ伏して熟睡している。本がそのまま枕になっている(いつもの液タブではなく)。頬ぷにっ、アホ毛ふよふよ、「すぴー…」。めくりかけのページが頬の下で少し折れている。
+7コマ目(最下段・左側、締めコマ): がっくり崩れ落ちるミドリ先生。吹き出し「今日もか〜〜!!しかも本が枕!!」。倒れながら小さい吹き出し「…めくる手が、止まっちゃったわね…」。
+```
+
+**来源：** [@あお @AI漫画](https://x.com/tryholonica/status/2078818022761124118) | 2026-07-19
+
+---
+
+### 🎬 例 4520：角色四格视图参考图
+
+![角色四格视图参考图](../images/%E8%A7%92%E8%89%B2%E5%9B%9B%E6%A0%BC%E8%A7%86%E5%9B%BE%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+帮我生成人物三视图，背景{argument name="背景颜色" default="灰色"}，手里无东西，再加一个人物脸部近景，总共四格人物照，四格全部竖版顺序排列，无文字，人物正脸面向镜头。除了人脸近景图清晰可见，小脸打上马赛克，{argument name="比例" default="16:9"}
+```
+
+**来源：** [@John](https://x.com/johnAGI168/status/2078766150591136090) | 2026-07-19
+
+---
+

@@ -8862,3 +8862,113 @@ A detailed medium-long shot retro anime illustration, in the style of 80s City P
 
 ---
 
+### 🎨 例 4493：水彩风格高尔夫挥杆动作
+
+![水彩风格高尔夫挥杆动作](../images/%E6%B0%B4%E5%BD%A9%E9%A3%8E%E6%A0%BC%E9%AB%98%E5%B0%94%E5%A4%AB%E6%8C%A5%E6%9D%86%E5%8A%A8%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖构图的运动时尚插画，描绘一位开朗的中年日本男性正在打高尔夫球，画面展示从腰部以上的完整挥杆动作。他留着灰白相间的凌乱短发，留着浅浅的胡茬，表情温暖且面带微笑，戴着黑色长方形眼镜，抬头看向左上方，仿佛在注视着球的轨迹。他身穿深海军蓝长袖高尔夫上衣，带有细微的白色高光，搭配白色高尔夫长裤、黑色腰带和白色高尔夫手套；一支高尔夫球杆横跨在他的肩上，双手握在画面右侧附近。采用优雅的水墨水彩编辑风格，结合清晰的素描线条、排线、颜料喷溅和纹理纸张背景。构图上将人物置于中右侧，姿态动感且略带对角线倾斜，周围环绕着抽象的高尔夫主题图形元素：左下方和右侧共有 4 个清晰可见的高尔夫球，左侧有 2 个高尔夫球杆头剪影，球杆后方有 1 个半透明的蓝色手部剪影，左下方有 1 个大型深海军蓝三角形纹理块，底部中心有 1 条向右上方延伸的黄色三角形光束，右侧有 1 个红橙色纹理圆圈，左上方有 1 个实心小黄太阳圆圈，底部中心附近有 1 个实心小海军蓝圆点，以及 1 条宽大的蓝色圆形笔触弧线，从左上角扫向右上角，环绕在球手身后。在前景底部添加白色草地剪影和细密的交叉线条，并在画面各处点缀蓝色墨点。背景保持大面积的米白色，留出充足的负空间。在右下角添加一个小的手写签名和日期 {argument name="date text" default="2026 年 7 月 19 日"}，签名内容为 {argument name="signature text" default="Oyagi"}。球手应呈现出为周末高尔夫球局练习的热情初学者形象，风格精致且生动，画面中不包含任何额外的文字或 Logo。
+
+[English]
+Create a vertical sports fashion illustration of a cheerful middle-aged Japanese man playing golf, shown from the hips up in a completed follow-through pose. He has salt-and-pepper tousled hair, light stubble, warm smiling expression, and black rectangular glasses, looking upward to the left as if watching the ball. He wears a dark navy long-sleeve golf top with subtle white highlights, white golf pants, a black belt, and a white golf glove; a golf club rests across his shoulders with both hands gripping it near the right side of the composition. Use an elegant ink-and-watercolor editorial style with crisp sketch lines, hatching, splattered pigment, and textured paper background. Compose him centered-right, dynamic and slightly diagonal, with abstract golf-themed graphic elements around him: exactly 4 visible golf balls in the lower-left area and right side, 2 golf club-head silhouettes on the left, 1 translucent blue hand silhouette behind the clubs, 1 large dark navy triangular textured block on the lower left, 1 yellow triangular beam rising diagonally from the lower center, 1 red-orange textured circle on the right, 1 small solid yellow sun circle at the upper left, 1 small solid navy dot near the lower center, and 1 broad blue circular brushstroke arc sweeping behind the golfer from upper left to upper right. Add white grass silhouettes and fine crossing lines in the lower foreground, plus small blue ink speckles throughout. Keep the background mostly off-white with ample negative space. Include a small handwritten signature and the date {argument name="date text" default="July 19, 2026"} in the bottom-right corner, with the signature reading {argument name="signature text" default="Oyagi"}. The golfer should feel like an enthusiastic beginner practicing for a weekend golf outing, refined but lively, with no extra text or logo.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2078858114171052402) | 2026-07-19
+
+---
+
+### 🎨 例 4494：西班牙龙主题球场庆典
+
+![西班牙龙主题球场庆典](../images/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%BE%99%E4%B8%BB%E9%A2%98%E7%90%83%E5%9C%BA%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个 16:9 的电影级写实体育奇幻场景，背景设定在重大决赛期间座无虚席的现代足球场内。在前景右侧中心位置，展示一只身材修长但极具威慑力的红龙吉祥物/支持者，它伫立在球迷之中，拥有长颈、尖角、张开咆哮的嘴、高举的拳头和宽大展开的皮革质感翅膀，鳞片呈红橙色，腹部为淡金色。让这只龙身穿红色西班牙足球衫，佩戴红黄相间的西班牙围巾，其中一只爪子拿着一杯啤酒。周围环绕着狂热的西班牙球迷，他们身穿红色球衣，高举双臂欢呼，挥舞着西班牙国旗，手持红黄旗帜；在人群右侧加入少量身穿浅蓝白相间球衣的阿根廷球迷。球场应显得真实且宏大，配有弧形玻璃屋顶、明亮的泛光灯、密集的看台、烟雾或信号弹产生的薄雾、五彩纸屑以及悬挂在看台周围的国旗。添加 3 个主要且清晰易读的文本区域：左上角的大标题，以粗体红橙色 3D 立体字显示“¡Vamos, España!”并带有阴影；中央球场记分牌显示“Soccer2030 FINAL”，配有西班牙和阿根廷国旗、标签“SPAIN”和“ARGENTINA”以及比分“0 - 0”；左下角有一个微妙的水印风格标题，写着“Dragon’s Heaven”。使用戏剧性的暖色调灯光、强烈的景深、充满活力的动感以及世界杯决赛的庆典氛围。自定义主标题为 {argument name="headline text" default="¡Vamos, España!"}，主角球队为 {argument name="featured team" default="Spain"}，对手为 {argument name="opponent team" default="Argentina"}，比分为 {argument name="score" default="0 - 0"}，水印为 {argument name="watermark text" default="Dragon’s Heaven"}。
+
+[English]
+Create a cinematic wide 16:9 photorealistic sports-fantasy scene inside a packed modern football stadium during a major final. In the foreground and center-right, show a slim but intimidating red dragon mascot/supporter standing among fans, with a long neck, sharp horns, open roaring mouth, raised fist, large leathery wings spread wide, and red-orange scales with a pale gold underbelly. Dress the dragon in a red Spain football shirt and a red-and-yellow Spain scarf, and have it hold a glass of beer in one claw. Surround it with an ecstatic crowd of Spanish supporters wearing red jerseys, cheering with raised arms, waving Spanish flags, and holding red-yellow banners; include a small natural mix of Argentina supporters in light blue and white shirts at the right side of the crowd. The stadium should feel realistic and huge, with a curved glass roof, bright floodlights, dense stands, smoke or flare haze, confetti, and national flags hanging around the tiers. Add exactly 3 main readable text areas: a large top-left headline reading “¡Vamos, España!” in bold red-to-orange 3D letters with shadow; a central stadium scoreboard reading “Soccer2030 FINAL” with Spain and Argentina flags, labels “SPAIN” and “ARGENTINA,” and score “0 - 0”; and a subtle bottom-left watermark-style title reading “Dragon’s Heaven.” Use dramatic warm lighting, strong depth, energetic motion, and a celebratory World Cup final atmosphere. Customize the main headline as {argument name="headline text" default="¡Vamos, España!"}, the featured team as {argument name="featured team" default="Spain"}, the opponent as {argument name="opponent team" default="Argentina"}, the score as {argument name="score" default="0 - 0"}, and the watermark as {argument name="watermark text" default="Dragon’s Heaven"}.
+```
+
+**来源：** [@Muzzle命](https://x.com/DragonsxHeaven/status/2078854786523582674) | 2026-07-19
+
+---
+
+### 🎨 例 4512：阳光集市街上的狐耳少女
+
+![阳光集市街上的狐耳少女](../images/%E9%98%B3%E5%85%89%E9%9B%86%E5%B8%82%E8%A1%97%E4%B8%8A%E7%9A%84%E7%8B%90%E8%80%B3%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫插画，描绘 {argument name="character name" default="一位年轻的狐耳少女"} 侧身站在阳光明媚的复古商业街上，回眸露出一抹淡淡的忧郁微笑。她拥有极长的 {argument name="hair color" default="银白色"} 直刘海长发，肤色白皙，温柔的粉色眼眸，头部有且仅有 2 只毛茸茸的动物耳朵，右下方可见 1 条毛茸茸的大白尾巴。为她穿上一件华丽的 {argument name="kimono color" default="灰粉色"} 和服，配有层叠的蕾丝边、绣花锦缎、背部宽大的系带腰封以及垂下的流苏装饰。在她的头部右侧添加精美的发饰：包括 3 朵醒目的花朵、金属叶片与珠宝装饰、长链条、紫色流苏、半透明丝带蝴蝶结，并在耳朵后方戴上一顶小圆帽或类似光环的头饰。场景设定在一条怀旧的日欧风格集市巷道中，伴有温暖的清晨逆光、鹅卵石路面、木质店面、头顶的绿树以及点缀着云朵的柔和蓝天。左侧放置 2 盏复古街灯，其中一盏为高大的黑色灯笼，另一盏为较小的发光灯笼，并挂有 1 个椭圆形的店铺招牌，上面写着 {argument name="shop sign text" default="owa days"}，下方带有一个小小的爪印。背景中，身着素雅和服风格服装的行人正缓步走远，画面经过柔焦处理，不会喧宾夺主。左下角前景处放置大簇盛开的花朵，包括淡粉色和淡紫色的花卉。使用高精度的线条、浪漫的柔和色调、穿过发丝的明亮轮廓光、复杂的布料纹理、浅景深效果、梦幻般的水彩水墨动漫渲染风格，采用 9:16 竖构图，画面中不包含现代物品，无水印，除店铺招牌外无其他可读文字。
+
+[English]
+Create a delicate vertical anime illustration of {argument name="character name" default="a young fox-eared girl"} standing in profile on a sunlit old-fashioned shopping street, looking back over her shoulder with a soft melancholic smile. She has very long {argument name="hair color" default="silver-white"} hair with straight bangs, pale skin, gentle pink eyes, exactly 2 large fluffy animal ears, and exactly 1 large fluffy white tail visible at the lower right. Dress her in an ornate {argument name="kimono color" default="dusty rose pink"} kimono with layered lace trim, embroidered floral brocade, a wide tied obi bow at the back, and dangling tassel ornaments. Add an elaborate hairpiece on the right side of her head: exactly 3 prominent flowers, a metallic leaf-and-jewel ornament, long chains, purple tassels, and a translucent ribbon bow, plus a small round hat or halo-like cap behind the ears. Set the scene in a nostalgic Japanese-European market lane with warm morning backlight, cobblestone walkway, wooden storefronts, leafy trees overhead, and a soft blue sky with scattered clouds. Include exactly 2 vintage street lamps on the left, one tall black lantern and one smaller glowing lantern, plus 1 oval hanging shop sign that reads {argument name="shop sign text" default="owa days"} with a small paw print beneath it. Show background pedestrians in muted kimono-like clothing walking away, softly blurred and not competing with the main character. Place large blooming flowers in the lower left foreground, including pale pink and lavender blossoms. Use highly detailed linework, romantic pastel colors, luminous rim light through the hair, intricate fabric patterns, shallow depth of field, dreamy watercolor-and-ink anime rendering, vertical 9:16 composition, no modern objects, no watermark, no extra readable text beyond the shop sign.
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2078796276226003380) | 2026-07-19
+
+---
+
+### 🎨 例 4531：阿根廷龙之体育场庆典
+
+![阿根廷龙之体育场庆典](../images/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%BE%99%E4%B9%8B%E4%BD%93%E8%82%B2%E5%9C%BA%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级、超细节的宽幅体育场庆典场景，背景为阿根廷对阵西班牙的足球决赛。画面右侧是一只巨大的肌肉发达的奇幻巨龙，像吉祥物一样站在球迷中间，它有着灰褐色的鳞片皮肤、长角、尖牙、发光的琥珀色眼睛、张开咆哮的嘴，一只带爪的拳头高高举起，另一只巨大的蝙蝠状翅膀向上展开。为巨龙穿上阿根廷国家队主场球衣，球衣带有天蓝色和白色的垂直条纹、黑色镶边、清晰的 10 号数字、阿根廷队徽贴片，脖子上围着一条浅蓝白相间的球迷围巾；巨龙的一只手拿着一个巨大的泡沫啤酒杯。拥挤的体育场观众席应主要是身穿条纹球衣、挥舞着大量阿根廷国旗并举起双臂欢呼的阿根廷支持者，其中夹杂着少量西班牙国旗。在人群中加入 2 个明亮的红色信号弹/烟雾源，产生粉灰色烟雾，空中飘落着彩色纸屑。在左上方，添加一个巨大的数字记分牌，显示阿根廷和西班牙的国旗，比分为 0 - 0，并标有 ARGENTINA 和 SPAIN 队名，上方有一个看起来有些破损的锦标赛/决赛标签。在左上方横跨处，放置巨大的粗体 3D 蓝色文字，内容为 {argument name="headline text" default="¡Vamos Argentina!"}。使用带有玻璃屋顶板、明亮泛光灯、密集看台、横幅以及阳台周围阿根廷国旗彩旗的现代封闭式足球场。使图像呈现照片级逼真效果，采用戏剧性的体育赛事灯光、充满活力的构图、浅层大气雾霾、清晰的前景面孔以及充满胜利感的混乱球迷氛围。使用 16:9 的横向画布。避免卡通风格，避免空座位，除指定的口号外，不要添加额外的标题文字。
+
+[English]
+Create a cinematic, ultra-detailed wide stadium celebration scene for an Argentina vs Spain football final. A huge muscular fantasy dragon dominates the right side of the frame, standing among fans like a mascot, with gray-brown scaly skin, long horns, sharp teeth, glowing amber eyes, open roaring mouth, one raised clawed fist, and one large bat-like wing spread upward. Dress the dragon in an Argentina national team home jersey with sky-blue and white vertical stripes, black trim, a visible number 10, Argentina crest patches, and a pale blue-and-white supporter scarf around its neck; the dragon holds a large foamy beer mug in one hand. The packed stadium crowd should be overwhelmingly Argentina supporters wearing striped jerseys, waving many Argentina flags, cheering with raised arms, while a few Spain flags are mixed in. Include exactly 2 bright red flare/smoke sources in the crowd, producing pink-gray smoke, plus colorful confetti raining through the air. At the upper left, add a large digital scoreboard showing Argentina and Spain flags with the score 0 - 0 and team labels ARGENTINA and SPAIN, with a small broken-looking tournament/final label above it. Across the top left, place huge bold 3D blue text reading {argument name="headline text" default="¡Vamos Argentina!"}. Use a modern covered football stadium with glass roof panels, bright floodlights, dense stands, banners, and Argentina flag bunting around the balcony. Make the image photorealistic with dramatic sports-event lighting, energetic composition, shallow atmospheric haze, crisp foreground faces, and a triumphant chaotic fan atmosphere. Use a 16:9 horizontal canvas. Avoid cartoons, avoid empty seats, and do not add extra headline text beyond the specified chant.
+```
+
+**来源：** [@Muzzle命](https://x.com/DragonsxHeaven/status/2078737731086364873) | 2026-07-19
+
+---
+
+### 🎨 例 4544：奇幻骑士图书馆学习场景
+
+![奇幻骑士图书馆学习场景](../images/%E5%A5%87%E5%B9%BB%E9%AA%91%E5%A3%AB%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6%E4%B9%A0%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为角色基础，重新生成具有相同身份、动漫插画风格、面部特征、发型、盔甲、披风及整体色调的角色，但将其置于全新的室内书房场景中，而非水晶森林。
+
+目标：创建一个电影质感的奇幻图书馆场景，让 {argument name="character name" default="这位粉发年轻骑士"} 坐在木桌前，平静地研读一本魔法书。
+
+姿势与动作：将全身站立持剑的姿势改为坐在桌前的四分之三侧视图。她的左手应抬起或拿着一页半透明的发光书页，右手放在打开的书本上。画面中移除剑。
+
+新环境：将室外森林和水晶替换为昏暗的哥特式图书馆或档案馆。添加以下明确的可见场景元素：前景中 1 张大型木桌，左侧 1 盏带有绿色灯罩的黄铜台灯，1 本打开的超大魔法书（带有发光的蓝色图表），1 把高靠背绿色软垫椅，背景中有深色书架、石柱，以及右后方 3 扇高大的哥特式拱窗。
+
+光影：使用来自左侧的温暖灯光和来自拱窗的冷蓝色月光，以及魔法书发出的柔和青色光芒照亮她的双手和盔甲。保持戏剧性的阴影和安静、沉思的氛围。
+
+风格约束：保留参考图像中干净的动漫线条、绘画感阴影、柔和的轮廓光、奇幻氛围以及角色一致性。构图采用水平宽屏，{argument name="aspect ratio" default="16:9"}，适合作为视频参考帧。避免添加文字、水印、额外角色或更改角色的服装设计。
+
+[English]
+Using REFERENCE_0 as the character base, regenerate the same character with the same identity, anime illustration style, facial features, hairstyle, armor, cloak, and overall color palette, but place her in a new indoor study scene instead of the crystal forest.
+
+Goal: Create a cinematic fantasy-library scene where {argument name="character name" default="the pink-haired young knight"} is seated at a wooden desk, calmly studying a magical book.
+
+Pose and action: Change the full-body standing sword pose into a seated three-quarter view at the desk. Her left hand should be lifting or holding a translucent glowing page, and her right hand should rest on the open book. Remove the sword from view.
+
+New environment: Replace the outdoor forest and crystals with a dim gothic library or archive. Add exactly these new visible scene elements: 1 large wooden desk in the foreground, 1 brass desk lamp with a green shade on the left side, 1 open oversized magic book with glowing blue diagrams, 1 high-backed green upholstered chair, dark bookshelves in the background, stone columns, and 3 tall arched gothic windows in the back-right area.
+
+Lighting: Use warm lamplight from the left and cool blue moonlight from the arched windows, plus soft cyan glow from the magic book illuminating her hands and armor. Keep dramatic shadows and a quiet, contemplative mood.
+
+Style constraints: Preserve the reference image’s clean anime linework, painterly shading, soft rim lighting, fantasy atmosphere, and character consistency. Make the composition horizontal widescreen, {argument name="aspect ratio" default="16:9"}, suitable as a video reference frame. Avoid adding text, watermarks, extra characters, or changing the character’s outfit design.
+```
+
+**来源：** [@てばさき](https://x.com/tebasaki3D/status/2078681507288526862) | 2026-07-19
+
+---
+

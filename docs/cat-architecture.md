@@ -2761,3 +2761,123 @@ Create a dark gothic anime illustration on a vertical 2:3 canvas, highly detaile
 
 ---
 
+### 🏛️ 例 4479：复古卧室清晨肖像
+
+![复古卧室清晨肖像](../images/%E5%A4%8D%E5%8F%A4%E5%8D%A7%E5%AE%A4%E6%B8%85%E6%99%A8%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+緑陰にほどける朝
+
+主体：
+縦長2:3の室内ポートレート。{argument name="性別" default="成人女性"}が、植物に囲まれた{argument name="寝室のスタイル" default="アンティーク調の寝室"}でベッドの中央やや左に腰を預けている。人物は画面の約7割を占め、頭部は中央より少し上、脚は画面右下へ長く伸びる。
+
+人物・表情：
+自然で落ち着いた印象の成人女性。{argument name="髪の色" default="明るいブラウン"}のミディアムヘアを低めにゆるくまとめ、薄いシースルーバングと頬に沿う後れ毛を残す。淡いコーラルチーク、繊細なブラウンアイメイク、自然な艶のあるローズベージュの唇。顔を画面左上へ傾け、視線も窓の光へ向ける。口元をわずかに開き、静かに息をつくような穏やかな表情。
+
+服装・ポーズ：
+アイボリーのレースキャミソールと、同色の細かなフリルを重ねたショートボトム。胸元は上品な立体裁断で、胴まわりには透け感のある刺繍レースを配する。左手は身体の後ろでベッドにつき、上体を支える。右腕は斜め下へ伸ばし、右手の指先を曲げた足の甲へ軽く触れさせる。片脚は膝を深く曲げて身体の前で交差し、もう片脚はベッドの縁から画面右下へ伸ばす。背筋を軽く反らし、肩と鎖骨が自然に開いた姿勢。
+
+背景・光：
+古い木枠の大きな窓、生成りのレースカーテン、花柄のベッドリネン、白いフリル枕、ガラス花瓶に生けた淡いピンクの花。窓辺からベッド脇まで大小の観葉植物を豊かに配置し、前景・中景・後景に葉を重ねて奥行きを作る。午前の強い自然光が窓の左上から差し込み、肩、胸元、太腿、すねに葉影を伴う光斑を落とする。右側には緑の反射光、床には暖かな日だまり。背景の庭は丸い玉ボケに溶かす。
+
+構図・カメラ：
+全身に近いスリークォーターショット。カメラはベッドとほぼ同じ高さの平視、50mmレンズ相当。人物を中央やや左に置き、右側には植物と伸ばした脚の流れを残す。上部は窓と緑の余白を広めに取り、下部手前にはぼけたアイアン製ベッドフレームを入れる。顔と上半身に焦点を合わせ、背景は浅い被写界深度で柔らかくぼかす。
+
+質感・スタイル：
+自然光を生かした日系ポートレート写真。白肌の細かな質感を残し、過度な美肌補正は避ける。アイボリー、淡いピンク、深いグリーン、木枠のブラウンを基調に、低コントラストで柔らかなハイライト。レース、植物の葉、花柄布地の質感を丁寧に描写し、少量のフィルム粒子と繊細な光のにじみを加える。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、足先の変形、手と足の接触不良、不自然な重力、誤った遠近法、光源と矛盾する影、過度な露出、文字、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2078981963243737317) | 2026-07-19
+
+---
+
+### 🏛️ 例 4482：优雅花卉缎面时尚人像
+
+![优雅花卉缎面时尚人像](../images/%E4%BC%98%E9%9B%85%E8%8A%B1%E5%8D%89%E7%BC%8E%E9%9D%A2%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+超写实豪华时尚人像。{argument name="主体" default="成年东亚女性，21岁以上"}，在精致东亚风格室内优雅落座。略偏左——右侧保留平衡的负空间用于陶瓷与深色木质家具。从膝盖至头顶略上方取景，坐高平视，轻微四分之三视角。
+
+姿态与椅子：坐于蜂蜜色木质扶手椅上——笔直扶手，可见榫卯结构，编织藤条椅背。浓郁宝蓝色雪纺或真丝垂于座椅并戏剧性地向地板延伸成宽阔流动褶皱。双腿优雅交叠，上腿朝右下角倾斜。一侧前臂搭于木质扶手上；另一手轻放于上膝处，手指伸展放松。端庄、沉静、低调自信的姿态。
+
+人物：深棕色长发，光泽宽松波浪，略微一侧分发，垂落于双肩。细腻发丝捕捉温暖窗光——细腻铜棕色高光。恬静、充满自信的表情：直视眼神，淡淡闭嘴微笑，柔和拱形眉，精致猫眼眼线，长睫毛，低调桃腮红，发光自然肌肤，亮泽低调玫红唇色。低调小耳钉。细银项链配小型花卉或簇状水晶吊坠，垂于上胸中央。
+
+服装：{argument name="服装" default="合身抹胸迷你裙，象牙白缎面或结构真丝"}——{argument name="印花" default="大型宝蓝色玫瑰、叶片与画意花卉藤蔓印花"}。干净横切领口，细腻塑形，紧身衣感裁剪。腰部与髋部贴合，止于大腿上方。清晰花卉印花细节，自然面料光泽，真实接缝，轻微张力褶皱，丰富蓝色色调变化。透明露趾穆勒高跟鞋——透明粗跟，近乎隐形的透明肩带，脚部与指甲自然可见。
+
+场景：优雅传统现代中式室内。左侧：高挑木质格子窗，温暖发光阳光透过薄透明奶油色窗帘部分柔化。椅后：深色木质护墙板，温暖中性色墙面。右侧：高挑黑色木质展示台，上置大型青瓷陶壶——圆润壶身，细颈口。更右侧：第二个深色底座，配较小的浅色陶瓷花瓶。背景有装饰性木质格架、雕刻屏风与细腻建筑细节——不杂乱。
+
+光线：温暖、柔和、电影感——主要来自左侧高挑窗户。发丝、肩膀、手臂与面颊上有金色轮廓光；面部与礼服上有轻柔反射补光。下颌、腰部、交叠双腿之间、椅下与陶瓷器皿后方有柔和阴影。色调：宝蓝色、象牙白、温暖胡桃木色、青瓷灰绿色、柔和奶油色、金色阳光。
+
+相机：85mm，f/2，眼睛与花卉礼服锐利对焦，陶瓷器与背景格架柔焦虚化。真实肌肤质感，精细发丝，自然手部，精确面料褶皱，光泽陶瓷反光，克制奢感色调。平衡宽屏构图，优雅对称，强烈对比，鲜艳而精致的色彩。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2078932893699895726) | 2026-07-19
+
+---
+
+### 🏛️ 例 4491：深蓝色科幻超级城市壁纸
+
+![深蓝色科幻超级城市壁纸](../images/%E6%B7%B1%E8%93%9D%E8%89%B2%E7%A7%91%E5%B9%BB%E8%B6%85%E7%BA%A7%E5%9F%8E%E5%B8%82%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的电影级哑光深蓝色科幻壁纸，展现夜晚广阔的未来超级城市，视角从远处高处俯瞰，跨越黑暗的水面或薄雾。画面右半部分由巨大的垂直摩天大楼剪影、针状塔楼和密集的黑色建筑占据，最高的建筑隐没在雾气中；左半部分主要是开阔的暴风雨般蓝黑色天空，留出负空间。将光线处理得如同颜料一般：橙色余烬般的窗户和青白色的光芒以点画法呈现，向下拖曳形成垂直的光影条纹、编织纹理以及建筑表面的反射畸变。加入浓重的大气雾气、细腻的胶片颗粒感、轻微的失焦、柔和的光晕、雨水湿润的反射以及长条状的垂直涂抹伪影，赋予城市一种哑光、忧郁、油画质感和反乌托邦的美学风格。包含 6 个飞行器或飞行轨迹：1 个显眼的流线型飞行器位于上方中心附近，向右侧斜向移动，带有两条长长的淡色尾迹；另外 5 个更小、更遥远的轨迹散布在左侧和中间的低空地平线上。使用海军蓝、午夜蓝、黑色、柔和的紫罗兰色、冷青色以及零星的焦橙色高光，色调克制。画面中不包含人物、可辨认的文字、标志、边框，避免锐利的 CGI 感；使其呈现出一种如同大气科幻电影中充满颗粒感的概念艺术画面效果。
+
+[English]
+Create a cinematic 16:9 matte deep-blue sci-fi wallpaper of a vast futuristic megacity at night, seen from a distant elevated viewpoint across dark water or haze. The right half of the frame is dominated by immense vertical skyscraper silhouettes, needle towers, and dense black architecture, with the tallest structures fading into mist; the left half is mostly open stormy blue-black sky for negative space. Treat light like paint: orange ember-like windows and cyan-white glows are stippled, dragged downward into vertical streaks, woven textures, and reflective distortions across the tower faces. Add heavy atmospheric fog, subtle film grain, slight defocus, soft bloom, rain-slick reflections, and long vertical smear artifacts, giving the city a matte, moody, painterly, dystopian aesthetic. Include exactly 6 flying light craft or aircraft trails: 1 prominent sleek craft near the upper center moving diagonally toward the right with two long pale contrails, and 5 much smaller distant streaks scattered low across the left and middle horizon. Use a restrained palette of navy, midnight blue, black, muted violet, cold cyan, and sparse burnt orange highlights. No people, no readable text, no logos, no borders, no sharp clean CGI look; make it feel like a grainy concept-art frame from an atmospheric science-fiction film.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2078863744176984180) | 2026-07-19
+
+---
+
+### 🏛️ 例 4529：暮色日式旅馆客厅
+
+![暮色日式旅馆客厅](../images/%E6%9A%AE%E8%89%B2%E6%97%A5%E5%BC%8F%E6%97%85%E9%A6%86%E5%AE%A2%E5%8E%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽画幅的电影感数字绘画，描绘一间位于古老日式旅馆风格建筑中、宁静的传统日式接待室，时间设定在黄昏。房间铺设大面积带有深色边线的榻榻米地板，配有深色木梁、灰泥墙和高挑天花板，采用低视角的角落构图，前景为开阔的榻榻米空间。左侧展示一整面木框推拉玻璃门和横窗，望向外面的走廊和郁郁葱葱的庭院，院内种满绣球花和树木，并设有木栅栏，背景是紫蓝色的夕阳天空；在走廊上放置 1 把藤椅。在后方中心位置，靠墙放置 1 架立式钢琴，配有 1 把木制琴凳，钢琴上方点亮 1 盏小型暖色油灯。钢琴旁边放置 1 个开放式置物架，架上陈列着卷轴，旁边垂直靠放着 3 支竹笛或长竹竿。右侧墙壁设有一个类似床龛的壁龛，内挂 2 幅书法卷轴，并设有一个小型装饰性云形窗，透出外面的暮色。右侧前景放置 1 个低矮的深色木制茶柜，柜顶展示 1 把打开的折扇，柜内可见小型茶具。运用富有情绪的室内暖光，与来自庭院的冷色调蓝紫色晚霞形成对比，呈现写实的动画背景细节和绘画质感，画面中无人、无动物、无现代电子产品、无文字、无水印。整体氛围应营造出精致的会客室质感，而非生活化的卧室。
+
+[English]
+Create a wide cinematic digital painting of a quiet traditional Japanese reception room in an old ryokan-style house at twilight. The room has an expansive tatami mat floor with dark border lines, dark wooden beams, plaster walls, and a high ceiling, viewed from a low eye-level corner perspective with the empty tatami space dominating the foreground. On the left, show a full wall of wooden-framed sliding glass doors and transom windows looking out to a veranda and a lush garden filled with hydrangeas, trees, and a wooden fence under a purple-blue sunset sky; place exactly 1 wicker chair on the veranda. At the back center, place exactly 1 upright piano against the wall with exactly 1 wooden piano chair, lit by exactly 1 small warm oil lamp sitting on top of the piano. Beside the piano, include exactly 1 open shelving unit containing rolled scrolls, plus exactly 3 bamboo flutes or long bamboo rods leaning vertically near it. On the right wall, include exactly 2 hanging calligraphy scrolls in a tokonoma-like alcove and exactly 1 small decorative cloud-shaped window showing the twilight outside. In the right foreground, place exactly 1 low dark wooden tea cabinet with exactly 1 open folding fan displayed on top and small tea utensils visible inside. Use moody warm interior lighting contrasted with cool blue-purple evening light from the garden, realistic anime-background detail, painterly texture, no people, no animals, no modern electronics, no text, no watermark. The atmosphere should feel like a refined guest parlor rather than a lived-in bedroom.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2078740110326333462) | 2026-07-19
+
+---
+
+### 🏛️ 例 4553：写实奢华浴室肖像
+
+![写实奢华浴室肖像](../images/%E5%86%99%E5%AE%9E%E5%A5%A2%E5%8D%8E%E6%B5%B4%E5%AE%A4%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+写实竖幅室内魅力生活方式人像，温暖豪华浴室场景。{argument name="人物描述" default="成年东亚女性，21岁以上"}，坐于大型金框镜旁{argument name="场景设置" default="的大理石浴室台面上"}。略偏右，大腿上部至头顶取景。身体背向镜头，脸部从肩膀转向观者方向。平静、柔和、隐约亲密的表情——轻柔直视眼神，嘴唇放松，精致眼线，自然睫毛，温暖桃腮红，发光肌肤，亮泽低调珊瑚粉唇色。
+
+人物：深棕黑色头发盘成松散低发髻——柔和体积感，碎发丝框住面部，颈部与面颊周围有松散发卷。肩膀与上背部捕捉温暖高光——精致优雅廓形。{argument name="服装" default="宽大白色扣扣式衬衫"}从肩膀滑落，以端庄时尚写真方式露出锁骨与上背部。面料挺括但略有揉皱——手臂、腰部与膝上有宽松褶皱。放松的酒店清晨氛围。
+
+场景：坐于大镜旁——背部与发丝在画面左侧柔和反射。温暖古董金色镜框，反射出白色衬衫、肩膀线条与深色发髻。前景：大理石洗手台边缘、光滑石质台面、带圆形手柄的复古金色水龙头配件。右侧背景：小型圆形壁挂放大镜配金色镜框，浅色光亮浴室瓷砖，细腻反光。
+
+光线：温暖、电影感、来自右前方略偏上的柔和方向性光线——面部、肩膀、锁骨、背部、衬衫褶皱、镜框、水龙头五金件与大理石表面上有金色高光。镜面与浴室墙壁周围的轻柔阴影。浅景深，精致写真质感。色调：温暖象牙白、柔和米色大理石、古董金色、低调灰色瓷砖、深棕黑发色、自然发光肌肤色。
+
+风格：超写实豪华浴室人像，成年模特，宽大白色露肩衬衫，坐于大理石台面，金框镜面反射，温暖酒店浴室打光，柔和回眸目光，优雅亲密氛围，真实肌肤质感，精细面料褶皱，电影感阴影，竖幅，高细节。无文字、无水印、无Logo、无多余人物、无变形人体、无卡通感、无强闪光、无杂乱元素、无露骨裸露。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2078646004879069593) | 2026-07-19
+
+---
+

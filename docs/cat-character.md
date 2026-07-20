@@ -6010,3 +6010,169 @@ Do not create a marker sketch. Do not create a realistic illustration. Create a 
 
 ---
 
+### 🧍 例 4500：吉卜力工作室风格美食参考图
+
+![吉卜力工作室风格美食参考图](../images/%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%A3%8E%E6%A0%BC%E7%BE%8E%E9%A3%9F%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+动漫视觉参考图，吉卜力工作室艺术风格，干净的奶油白背景。粗犷清晰的轮廓线，赛璐珞阴影，纯 2D 动漫插画。
+
+美食：{argument name="food items" default="撒了面粉的生面团球。擀薄的披萨饼底。深红色的圣马扎诺番茄酱。"}
+
+[English]
+Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration.
+
+FOOD: {argument name="food items" default="Raw dough ball dusted with flour. Stretched thin pizza base. Deep red San Marzano tomato sauce."}
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2078839322191519856) | 2026-07-19
+
+---
+
+### 🧍 例 4519：日式浴衣服装参考图
+
+![日式浴衣服装参考图](../images/%E6%97%A5%E5%BC%8F%E6%B5%B4%E8%A1%A3%E6%9C%8D%E8%A3%85%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张暗黑、优雅的日式角色服装参考图，主题为浪漫的夏夜烟火祭典。以一名身着深海军蓝浴衣的男性角色为核心，命名为 {argument name="character title" default="夕立の狸の装束"}，配以精致的复古排版和多个标注布料细节的面板。
+
+画布：竖向海报，比例约为 4:5，带有细细的仿古金边、深靛蓝色背景、细腻的纸张纹理，以及静谧的雨夜河畔氛围。采用高细节的动漫/半写实插画风格，色调为柔和的海军蓝、炭灰、古铜色，并点缀柔和的城市灯光。
+
+主要布局：将图像分为 3 个主要区域。左侧为全身站立角色插画，占据海报上半部分约一半空间。右侧为结构化的服装规格面板，包含 7 个带标签的细节框。底部长条横跨整个宽度，展示双人背影场景及两个文本框。
+
+主要角色：绘制一名身材修长的年轻男子，留着微卷凌乱的黑发，皮肤白皙，眼神锐利而平静，表情沉稳。他赤脚穿着深色木屐，站在夜晚的木制河桥上，一手拿着黑色圆形团扇，另一手拿着一个小巧的抽绳巾着（kinchaku）。他身着深海军黑色的男式浴衣，带有隐约的雨丝状斜纹和精细的织物纹理，系着深棕/黑色腰带，长袖设计，尽显内敛的传统优雅。背景是倒映着远处暖光的河流或运河，前景有淡淡的植物，天空为星空或雨夜。
+
+文本内容：使用日文作为装饰性编辑文案。左上角标题应为 {argument name="headline text" default="夕立の狸の装束"}。下方放置较小的副标题：「深い夜に降る、静かな雨」。右上角小标题：「夕立屋見立て・其の壱」，并配有一个小小的爪印图案。在站立人物左下方加入一张奶油色的便签卡，包含几行竖排日文和爪印，营造个人造型笔记的感觉。
+
+右侧服装规格面板：创建 7 个带标签的细节框，以整齐的网格排列，配有细金线和深色纹理背景。描绘以下 7 个可见项目：1) 布料样本，标注深铁海军蓝色，显示为纯深蓝色织物矩形；2) 雨丝纹样，标注细斜雨纹，显示为斜向浅色条纹；3) 背部纹章，标注四方菱形徽章，显示为海军蓝布料上的圆形家纹；4) 腰带，标注深靛蓝角带纹理，显示为深色缠绕腰带的局部特写；5) 袖口/下摆布料，标注雾蓝色衬里，显示为折叠的蓝黑色袖缘；6) 右木屐，标注烧桐木材质，显示为木质底座上的深蓝色人字拖木屐；7) 左木屐，标注靛蓝带子，显示为另一只配对的蓝色布带木屐。每个框内应使用精致的衬线体/明朝体书写简短的日文说明段落。
+
+底部长条：展示 2 人在河边并肩站立的背影场景：同样的深海军蓝浴衣男子，与一名身着浅色花卉浴衣、系着柔和蓝色腰带并佩戴花卉发饰的年轻女子手牵手。他们面向夜河与远处的祭典灯光。左侧放置一个名为「並んだ見立て」的说明块，包含几行日文和爪印图标。右侧放置一个高大的引用框，内含大号日文文本：{argument name="quote text" default="表は夜、\n裏は朝。\n雨はふたつの\n時間をつなぐ。"}，下方配有一个小爪印。
+
+视觉风格：精致的日式杂志风格角色图，电影感低调照明，布料上带有细腻的雨滴光泽纹理，古董金线，深蓝色夜色调，优雅的手写体/明朝体排版，柔和的氛围反射。整体氛围宁静、亲密、怀旧，具有祭典的浪漫感，而非明亮或浮夸。
+
+约束条件：保持构图信息密集但易读。主区域使用 1 个全身男性形象，右侧使用 7 个服装细节框，底部背影场景使用 2 个人物。避免现代 UI 风格、霓虹色、英文字符、Logo、水印或多余角色。
+
+[English]
+Goal: Create a dark, elegant Japanese character outfit reference sheet for a romantic summer fireworks festival at night, centered on a male character in a deep navy yukata called {argument name="character title" default="夕立の狸の装束"}, with refined antique typography and many annotated fabric-detail panels.
+
+Canvas: Vertical poster, approximately 4:5 ratio, with a thin aged-gold border, dark indigo background, subtle paper grain, and a quiet rainy riverside night atmosphere. Use a high-detail anime/semi-realistic illustration style with muted navy, charcoal, bronze, and soft warm city-light accents.
+
+Main layout: Divide the image into 3 major zones. Left side is a full-body standing character illustration occupying about half the upper poster. Right side is a structured outfit-spec panel with exactly 7 labeled detail boxes. Bottom strip spans the full width and shows a rear-view couple scene plus two text boxes.
+
+Main character: Draw one slim young adult man with wavy messy black hair, pale skin, sharp calm eyes, and a composed expression. He stands barefoot in dark geta sandals on a wooden riverside bridge at night, holding a black round uchiwa fan in one hand and a small drawstring kinchaku pouch in the other. He wears a deep navy-black men’s yukata with subtle rain-like diagonal striping and fine woven texture, a dark brown/black obi belt, long sleeves, and restrained traditional elegance. The setting behind him is a river or canal reflecting distant warm lights, with faint plants in the foreground and a starry or rainy night sky.
+
+Text content: Use Japanese text as decorative editorial copy. Top-left headline should read {argument name="headline text" default="夕立の狸の装束"}. Under it place a smaller subtitle: 「深い夜に降る、静かな雨」. Top-right small heading: 「夕立屋見立て・其の壱」 with a tiny paw-print motif. Include a cream note card near the lower-left of the standing figure containing several vertical-style Japanese lines and a paw print, evoking a personal styling note.
+
+Right outfit-spec panel: Create exactly 7 labeled detail boxes, arranged in a neat grid with thin gold lines and dark textured backgrounds. Count and depict these 7 visible items: 1) fabric swatch labeled about deep iron-navy color, shown as a plain dark blue woven rectangle; 2) rain-stripe pattern labeled about fine oblique rain, shown with diagonal pale streaks; 3) back crest labeled about a four-sided diamond emblem, shown as a circular family crest on navy cloth; 4) obi belt labeled about dark indigo horn-belt texture, shown as a close crop of a dark wrapped obi; 5) sleeve/hem fabric labeled about misty-blue lining, shown as a folded blue-black sleeve edge; 6) right geta sandal labeled about burnt paulownia wood, shown as one dark blue thong sandal on a wooden base; 7) left geta sandal labeled about indigo thong, shown as another matching sandal with blue fabric straps. Each box should have short Japanese explanatory paragraphs in a refined serif/mincho-like font.
+
+Bottom strip: Show a rear-view scene of exactly 2 people standing side by side by the river: the same young man in the navy yukata seen from behind, holding hands with a young woman in a pale floral yukata with a soft blue obi and floral hair ornaments. They face the night river and distant festival lights. Place a left caption block titled 「並んだ見立て」 with several lines of Japanese text and a paw-print icon. Place a right tall quote box with large Japanese text: {argument name="quote text" default="表は夜、\n裏は朝。\n雨はふたつの\n時間をつなぐ。"} and a small paw print beneath.
+
+Visual style: Sophisticated Japanese magazine-style character sheet, cinematic low-key lighting, delicate rain-sparkle texture on cloth, antique gold rule lines, deep blue night palette, elegant handwritten/mincho typography, soft atmospheric reflections. The overall mood is quiet, intimate, nostalgic, and festival-romantic rather than bright or flashy.
+
+Constraints: Keep the composition information-dense but readable. Use exactly 1 full-body male figure in the main section, exactly 7 outfit-detail boxes on the right, and exactly 2 people in the bottom rear-view scene. Avoid modern UI styling, neon colors, English text, logos, watermarks, or extra characters.
+```
+
+**来源：** [@玉梓](https://x.com/Rotkappchen__/status/2078768622928031853) | 2026-07-19
+
+---
+
+### 🧍 例 4546：动漫角色设计参考图
+
+![动漫角色设计参考图](../images/%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+使用参照:
+本指示書と同時に添付された人物参照画像1枚
+本文:
+添付された人物参照画像1枚をもとに、1:1スクエアの共有用・動画参照兼用の簡易キャラクターシート画像を作成する。
+目的は、15秒の高品質アニメ動画「和風ファンタジー 街を駆け回る義賊の美女」に登場する主人公1人の顔立ち、髪型、体型、衣装、配色、狐面を固定し、共有用としても見栄えのよい1枚に整理すること。この画像はキャラクター固定用シートであり、ストーリーボードではない。時間順の展開、カメラの流れ、追跡、戦闘、街の場面、祭りの出来事は入れない。表現は高品質な劇場アニメ調。参照画像の女性の顔立ち、目の形、輪郭、前髪、黒髪、{argument name="年齢" default="20代前半"}、繊細で上品な雰囲気を生かし、洗練された和風ファンタジーのアニメキャラクターへ変換する。多少のアニメ的デフォルメは許容するが、参照女性の特徴を失った汎用的な美少女顔にはしない。
+実写調、3D CG、安いテレビアニメ風、単調なゲームNPC風にはしない。参照画像の白いシャツや現代衣装は再現しない。主人公は20代前半の高貴な名家の令嬢。表向きは気品のある貴族女性だが、裏では民衆と祭りを守る秘密の義賊として活動する。細身でしなやかなモデル体型。
+優雅さ、気高さ、俊敏さ、義に厚い性格を感じさせる。髪は艶のある黒髪。{argument name="髪型" default="高めのポニーテール"}を基本とし、長い毛先と顔まわりの後れ毛を残す。
+前髪は参照画像の特徴を生かした、軽く透け感のある繊細な形。瞳は琥珀色から赤茶色。普段は涼やかで上品、義賊時には意志の強さと不敵な魅力を見せる。衣装は紅、白、黒、金を基調にした高級感のある和風ファンタジー装束。貴族女性の華やかさと、義賊としての機動性を両立させる。和装をベースに、細身の胴まわり、軽い羽織、動きやすい短めの袴風レイヤー、翻る装飾布、足袋ブーツまたは和風ブーツで構成する。過剰に重い姫装束にはせず、屋根や橋を駆け回れる軽快なシルエットにする。金の帯飾り、根付け、細い飾り紐、赤い房飾りを整理して加える。布や装飾を増やしすぎず、全身シルエットを明確に保つ。背景は白からごく薄いグレーの無地スタジオ背景。
+公開・共有できる、清潔で整理されたデザインにする。短い英語見出しのみを使用する。長文説明、名前、物語文、ロゴ、透かし、装飾タイトル、番号以外の余分な文字は入れない。レイアウトは以下の固定構成とし、段構成、配置、順番、比率を変更しない。
+
+【上段：約50％】
+横4区画に分ける。
+各区画は同程度の幅とし、細い区切り線と十分な余白を設ける。
+01 FRONT
+主人公の全身正面。
+自然な直立姿勢。
+頭頂から靴底、袖、裾、装飾布の端まで完全に画面内へ収める。
+02 SIDE
+同一人物、同一衣装、同一縮尺の全身側面。
+ポニーテール、衣装の厚み、袖、帯、装飾布、足元の構造が分かるようにする。
+03 BACK
+同一人物、同一衣装、同一縮尺の全身背面。
+髪型、帯の結び、背面装飾、裾、ブーツの構造を明確にする。
+01、02、03は足元の高さと人物縮尺を揃える。
+04 SPECIAL LOOK
+義賊として活動する特別姿。
+通常衣装の基本デザイン、顔、髪型、配色を維持したまま、{argument name="狐面装着位置" default="右半分狐面"}を装着する。
+軽く動きのある全身ポーズにするが、場面やアクションシーンにはしない。
+片手に、金と紅の暖かな光を放つ祭礼宝珠を持たせてもよい。
+宝珠は補助小物であり、主人公より目立たせない。
+
+【右半分狐面・最重要固定】
+狐面は、主人公本人から見て右側の顔に装着する。
+額の右側、右目の周囲、右頬だけを一体的に覆う、薄く洗練された半面とする。
+左目、左頬、鼻筋の一部、口元は明確に見せる。
+狐面を顔の横に浮かせない。
+頭や髪に載せない。
+手に持たせない。
+単なる髪飾りにしない。
+全面を覆う狐面にしない。
+狐の頭部を縦半分に切ったような立体物にしない。
+顔へ密着する薄い形状とし、鼻先や口吻を前方へ突出させない。
+狐耳の張り出しは小さく抑え、顔の輪郭から大きく飛び出させない。
+面の内側境界は、顔の中央を直線で切るのではなく、額、目元、頬へ自然に沿う緩やかな曲線にする。
+白を基調に、赤と金の簡潔で上品な模様を入れる。
+目元は狐らしく少し鋭い形とするが、恐怖的、妖怪的、能面風にはしない。
+模様や装飾を細かくしすぎない。
+小さな赤い房飾りまたは金具を1点だけ加えてよい。
+
+【中段：約22％】
+05 EXPRESSIONS
+同一倍率の顔5点を横一列に配置する。
+顔、髪型、前髪、目の色、装飾を統一する。
+左から以下の5表情。
+・calm
+・confident smile
+・alert
+・focused
+・gentle victorious smile
+
+表情差は明確にするが、別人化、過剰な顔芸、極端な口の変形は避ける。
+
+【下段：約28％】
+06 FACE / DETAILS
+左側約60％:
+同一人物の顔を、正面、斜め、側面の3点で配置する。
+正面顔は参照画像の特徴を最も強く反映する。
+3点の顔立ち、輪郭、鼻、目、唇、前髪、年齢感を統一する。
+右側約40％:
+2列×2段の4枠に分ける。
+EYES
+琥珀から赤茶色の瞳、目の形、まつ毛、控えめな赤系アイライン。
+LIPS
+参照画像の特徴を生かした、自然で上品な唇。
+過剰に厚く、強く光沢のある唇にはしない。
+
+HAIR / BANGS
+黒髪の質感、繊細な前髪、顔まわりの後れ毛を明確にする。
+
+FOX MASK
+04 SPECIAL LOOKで実際に装着している右半分狐面と、形状、比率、赤金の模様、境界線、房飾りを完全に一致させる。全面狐面の単体図にはしない。顔へ装着する薄い右半面であることが分かる角度で見せる。全パネルで同一人物として統一する。顔、髪型、目の色、衣装、配色、装飾、体型を変化させない。手足や顔の破綻、左右反転、余分な人物、複数キャラクター、重複した手足を入れない。全身図の頭、髪、手、足、靴、袖、裾を切らない。パネル同士の人物や衣装を混在させない。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2078679555003555993) | 2026-07-19
+
+---
+

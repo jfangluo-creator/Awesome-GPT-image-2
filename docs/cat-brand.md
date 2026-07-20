@@ -11104,3 +11104,195 @@ Create a cinematic anime background illustration of an urban Japanese pedestrian
 
 ---
 
+### 🏷️ 例 4484：夏季偶像猫娘祭
+
+![夏季偶像猫娘祭](../images/%E5%A4%8F%E5%AD%A3%E5%81%B6%E5%83%8F%E7%8C%AB%E5%A8%98%E7%A5%AD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫插画，描绘一位欢快的猫娘偶像在大型户外夏季音乐节上表演的场景。主体是 {argument name="character name" default="一位粉发猫娘偶像"}，以低角度四分之三侧面视角位于前景，正对着观众灿烂微笑，拥有红色双眼和蓬松的短 {argument name="hair color" default="粉色"} 头发，戴着黑色猫耳（内侧毛色较浅）、黄色小星星发夹，身后有一条卷曲的黑色猫尾。她身穿日式水手服风格的校园偶像装：露脐白色衬衫搭配深海军蓝水手领和袖口装饰、橙色领带、深色百褶短裙以及黑色露指手套。她的右手在脸旁比出 V 字手势，右侧放置着一个黑色舞台麦克风支架。背景是挥舞着荧光棒的庞大节日人群、空中飘洒的彩色纸屑、棕榈树、带有明亮灯光的舞台桁架，以及写有 {argument name="festival text" default="SUMMER IDOL FESTIVAL"} 的横幅和写着“IDOL!”的竖旗。使用耀眼的夏日正午天空，色彩饱和度高，配以蓬松的云朵、镜头光晕、闪烁的高光、动态效果、鲜艳的彩虹色节日氛围、光泽感的高细节动漫渲染、戏剧性的逆光效果、清晰的面部细节以及充满活力的偶像演唱会氛围。竖版 9:16 构图，精致的 Pixiv 风格插画，无水印，前景无多余角色。
+
+[English]
+Create a vibrant vertical anime illustration of a cheerful catgirl idol performer at a huge outdoor summer music festival. The main subject is {argument name="character name" default="a pink-haired catgirl idol"}, shown from a low-angle three-quarter view in the foreground, smiling brightly at the viewer with red eyes and short fluffy {argument name="hair color" default="pink"} hair, black cat ears with pale inner fur, a small yellow star hair clip, and a dark cat tail curling behind her. She wears a Japanese sailor-style school idol outfit: cropped white blouse with dark navy sailor collar and sleeve trim, orange necktie, dark pleated mini skirt, and black fingerless gloves. Her right hand is raised in a V peace sign near her face, and a black stage microphone on a stand sits close to her on the right. Behind her is a massive festival crowd waving glow sticks, colorful confetti in the air, palm trees, stage trusses with bright lights, and banners reading {argument name="festival text" default="SUMMER IDOL FESTIVAL"} plus vertical flags that say “IDOL!”. Use a dazzling midday summer sky with saturated blue color, fluffy clouds, lens flare, sparkling highlights, dynamic motion, vivid rainbow festival colors, glossy high-detail anime rendering, dramatic backlight, sharp facial detail, and energetic idol-concert atmosphere. Vertical 9:16 composition, polished Pixiv-style illustration, no watermark, no extra characters in the foreground.
+```
+
+**来源：** [@よった~公儀介錯人やぶにらみ黙示録~子貸し腕貸し仕る/天の裁きは待ってはおれぬ/必殺必中万屋稼業](https://x.com/9YGMEQ63135ka5O/status/2078918357798338794) | 2026-07-19
+
+---
+
+### 🏷️ 例 4495：神话巴洛克风暴拼贴画
+
+![神话巴洛克风暴拼贴画](../images/%E7%A5%9E%E8%AF%9D%E5%B7%B4%E6%B4%9B%E5%85%8B%E9%A3%8E%E6%9A%B4%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅受巴洛克歌剧和古典神话启发的戏剧性宽屏电影感数字拼贴画：画面中心，一位惊恐的 {argument name="mother figure" default="身穿破损米色亚麻裙的年轻母亲"} 从汹涌的深青色海洋中升起，怀中紧紧护着她的 {argument name="child" default="卷发幼童"}，两人身上映照着油画般的金色高光，神情惊恐而倔强地望向天空。在左上方，矗立着一座巨大的石灰色女神半身像，代表 {argument name="mythological antagonist" default="朱诺 (Juno)"}，她头戴华丽的王冠，身后是放射状的扇形光环，一只巨大的手从风暴云层中伸出，仿佛在操控这场风暴。场景周围环绕着翻滚的巨浪、海沫、风痕、金色的泼漆以及盘旋的雕刻式五线谱线条，营造出海洋、风、神灵与音乐融为一体的氛围。画面中需包含五个清晰的音乐元素：左侧边缘有两支斜向交叉的长款巴洛克长笛，右上方漂浮着两支金色自然号角，右侧边缘有一个抽象的垂直里拉琴/弦乐母题。在海浪中融入装饰性的红色和淡粉色高音谱号卷纹及圆形谱线螺旋。采用深海军蓝、青色、黑色、古金色、象牙白、珊瑚红和风化石灰色组成的深色调。风格：超细节电影感神话海报，混合媒介油画与蚀刻乐谱，湍急的水流写实感，戏剧性的明暗对比，高对比度，史诗级专辑封面构图，无可见文字，无现代服装，无水印。长宽比 16:9。
+
+[English]
+Create a dramatic wide cinematic digital collage inspired by Baroque opera and classical mythology: in the center, a terrified {argument name="mother figure" default="young mother in a torn cream linen dress"} rises from a violent dark teal ocean while clutching her {argument name="child" default="small curly-haired child"} protectively against her chest, both lit with painterly golden highlights and looking upward in fear and defiance. Behind them, looming in the upper left, place a monumental stone-gray goddess bust representing {argument name="mythological antagonist" default="Juno"}, wearing an ornate crown and radiant fan-like halo, with one huge raised hand emerging from storm clouds as if controlling the tempest. Surround the scene with crashing waves, sea foam, wind streaks, splashes of gold paint, and swirling engraved music-staff lines, creating the feeling that the ocean, wind, gods, and music are all fused together. Include exactly five visible musical elements: two long Baroque flutes crossing diagonally from the left edge, two golden natural horns floating in the upper right, and one abstract vertical lyre/string motif along the right edge. Add decorative red and pale pink treble-clef-like curls and circular staff spirals woven into the waves. Use a dark palette of deep navy, teal, black, antique gold, ivory, coral red, and weathered stone gray. Style: ultra-detailed cinematic mythological poster, mixed-media oil painting plus etched musical notation, turbulent water realism, dramatic chiaroscuro, high contrast, epic album-cover composition, no readable text, no modern clothing, no watermark. Aspect ratio 16:9.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2078850564499079654) | 2026-07-19
+
+---
+
+### 🏷️ 例 4501：夏日咖啡馆动漫狼耳少年
+
+![夏日咖啡馆动漫狼耳少年](../images/%E5%A4%8F%E6%97%A5%E5%92%96%E5%95%A1%E9%A6%86%E5%8A%A8%E6%BC%AB%E7%8B%BC%E8%80%B3%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的竖版动漫插画，描绘一名拥有黑色狼耳/猫耳、神情冷静且略带疏离感的雌雄莫辨少年，他正坐在明亮的夏日咖啡馆中。他拥有长长的层次感 {argument name="hair color" default="亮黑色头发，带有深紫罗兰色挑染和白色前额发束"}、紫罗兰色的眼睛、白皙的皮肤以及柔和优雅的面部特征；刘海遮住了一部分眼睛，长发垂在肩上。为他穿上清爽休闲的咖啡馆装扮：戴着一顶宽檐天然草帽（帽檐盖在兽耳上），穿着一件超大号白色开衫衬衫（袖子卷起），内搭米色与奶油色条纹衬衫，下身穿着宽松的橄榄卡其色七分裤，脚踩白色低帮运动鞋，佩戴棕色皮质腕表和细银项链，胸前挂着紫蓝色渐变太阳镜。让他随意地坐在浅色木质咖啡桌旁，一条腿向前弯曲，一只手放在桌上或拿着一个带有白色杯套的外带咖啡杯，另一只手臂自然放松。背景使用阳光充足的室内咖啡馆，配有大窗户、柔软的白色家具、绿植，以及明亮柔和的夏日漫射光和轻微的虚化效果。风格：高质量现代日式动漫、细腻的线条、明亮的皮肤阴影、柔和的粉彩高光、空气感氛围、微妙的色差光晕、细致的布料褶皱、反光的太阳镜、干净的构图、竖版肖像构图、无文字、无水印。
+
+[English]
+Create a polished vertical anime illustration of an androgynous young man with black wolf/cat ears and a calm, slightly aloof expression, seated in a bright summer cafe. He has long layered {argument name="hair color" default="glossy black hair with deep violet-purple streaks and a white front section"}, violet eyes, pale skin, and soft elegant facial features; his bangs partially cover one eye and his long hair flows over his shoulders. Dress him in a refreshing relaxed cafe outfit: a wide-brim natural straw hat placed over the animal ears, an oversized open white button-up shirt with rolled sleeves, a beige-and-cream striped inner shirt, loose olive khaki cropped pants, white low-top sneakers, a brown leather wristwatch, a thin silver necklace, and purple-blue gradient sunglasses hanging from his chest. Pose him sitting casually by a light wooden cafe table, one leg bent forward, one hand resting on or holding a takeaway coffee cup with a white sleeve, the other arm relaxed. Use a sunlit indoor cafe background with large windows, soft white furniture, leafy green plants, and bright diffused summer light with gentle bokeh. Style: high-quality modern Japanese anime, delicate linework, luminous skin shading, soft pastel highlights, airy atmosphere, subtle chromatic glow, detailed fabric folds, reflective sunglasses, clean composition, vertical portrait framing, no text, no watermark.
+```
+
+**来源：** [@🐈‍⬛クロ](https://x.com/kuro_kuroneko92/status/2078835666159599926) | 2026-07-19
+
+---
+
+### 🏷️ 例 4502：极简黑白风婚礼邀请函
+
+![极简黑白风婚礼邀请函](../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E9%A3%8E%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高挑、极简、黑白风格的奢华婚礼邀请函海报，呈现杂志编辑风格，具有细腻的纸张质感和柔和浪漫的单色照片。
+
+画布：超高垂直 1:2 比例邀请函，尺寸约为 600 x 1200 像素。暖白色纸张背景，带有细微纹理、淡淡的折痕以及边缘附近的柔和阴影。居中对称布局，留有宽裕的白色边距。
+
+布局：顶部微型文字行、大标题区域、居中照片块、活动详情以及三项日程页脚。使用 9 组主要文本：1) 左上角微型文字，2) 右上角微型文字，3) 巨大的英文标题，4) 大型中文标题，5) 叠加在照片上的文字，6) 婚礼名称及新人姓名，7) 日期/时间块，8) 邀请语及场地/地址，9) 三列式页脚。
+
+排版：英文采用高对比度的 Didot/Bodoni 风格衬线字体，字形高挑优雅，小写字母间距宽阔。中文文本应使用精致的宋体/明体风格。所有文字均为黑色或深炭灰色，照片上的文字除外，该文字为白色且在穿过深色区域时具有微弱的透明度。
+
+文本内容：左上角写有小号间距大写字母 "WITH LOVE"。右上角写有小号间距大写字母 "SAVE THE DATE"。主标题为超大高挑衬线大写字母 "WEDDING"。下方放置 {argument name="Chinese invitation title" default="婚礼邀请函"}，使用大号中文衬线字体。在照片底部叠加巨大的白色高挑衬线大写字母 "WELCOME"，并被照片底边轻微裁剪。照片下方："THE WEDDING OF"，随后是 {argument name="couple names" default="林悦 与 周衡"}。接着是一条短细分割线。主日期行：{argument name="wedding date" default="2026.05.16"}。下方："SATURDAY 15:30"。接着是另一条细分割线。邀请行：{argument name="invitation sentence" default="诚邀您见证我们的幸福时刻"}。场地行前加一个小巧简洁的房屋轮廓图标：{argument name="venue and address" default="上海西岸艺术中心\n上海市徐汇区龙腾大道2555号"}。随后是一条短分割线。页脚包含 3 列，由 2 条细垂直线分隔：左列 "CEREMONY" 下方为 "15:30"，中列 "DINNER" 下方为 "18:00"，右列 "RSVP" 下方为 "05.01"。
+
+照片细节：居中矩形黑白婚礼照片，宽度约为画布的三分之二，高度约为画布的 40%。图像显示新郎和新娘处于柔和的动态模糊中，两人靠近，额头相抵或亲吻。新郎在左侧，身着深色西装和领结；新娘在右侧，戴着面纱，手捧花束位于左下/中心位置。浪漫的高调照明，浅景深，梦幻般的模糊面纱掠过右侧。照片应呈现出优雅的抓拍胶片感，而非锐利的影棚肖像。
+
+间距与约束：保持设计为单色、整洁、高级且具有编辑感。所有主要元素居中。谨慎使用细分割线。不要添加边框、彩色装饰、花卉插图、二维码、Logo、水印或额外文字。严格保持页脚的三项内容和两个分隔符。
+
+[English]
+Goal: Create a tall minimalist black-and-white luxury wedding invitation poster with an editorial magazine aesthetic, delicate paper texture, and a soft romantic monochrome photo.
+
+Canvas: Extra-tall vertical 1:2 invitation, approximately 600 x 1200 px. Warm off-white paper background with subtle grain, faint creases, and soft shadowing near the edges. Centered, symmetrical layout with generous white margins.
+
+Layout: Top micro text row, large title area, centered photo block, event details, and three-item schedule footer. Use exactly 9 main text groups: 1) top-left micro text, 2) top-right micro text, 3) huge English headline, 4) large Chinese headline, 5) overlaid word on photo, 6) wedding-of line and couple names, 7) date/time block, 8) invitation message plus venue/address, 9) three-column footer.
+
+Typography: High-contrast Didot/Bodoni-style serif for English, tall condensed elegant letterforms, wide tracking for small caps. Chinese text should use a refined Song/Ming serif style. All text is black or very dark charcoal, except the word over the photo which is white with subtle transparency where it crosses dark areas.
+
+Text content: Top left reads "WITH LOVE" in tiny spaced capitals. Top right reads "SAVE THE DATE" in tiny spaced capitals. Main headline reads "WEDDING" in very large tall serif capitals. Below it place {argument name="Chinese invitation title" default="婚礼邀请函"} in large Chinese serif. Across the bottom of the photo, overlay the huge word "WELCOME" in white tall serif capitals, cropped slightly by the photo bottom edge. Below the photo: "THE WEDDING OF" then {argument name="couple names" default="林悦 与 周衡"}. Then a short thin divider line. Main date line: {argument name="wedding date" default="2026.05.16"}. Below it: "SATURDAY 15:30". Then another thin divider line. Invitation line: {argument name="invitation sentence" default="诚邀您见证我们的幸福时刻"}. Venue line with a small simple outline house icon before it: {argument name="venue and address" default="上海西岸艺术中心\n上海市徐汇区龙腾大道2555号"}. Then a short divider line. Footer has exactly 3 columns separated by 2 thin vertical lines: left column "CEREMONY" over "15:30", center column "DINNER" over "18:00", right column "RSVP" over "05.01".
+
+Photo details: Centered rectangular black-and-white wedding photograph, about two thirds of canvas width and roughly 40% of canvas height. The image shows a bride and groom in soft motion blur, close together forehead-to-forehead or kissing. Groom on the left in dark suit and bow tie, bride on the right in a veil, holding a bouquet in the lower-left/center. Romantic high-key lighting, shallow depth of field, dreamy blurred veil sweeping across the right side. Photo should feel like an elegant candid film shot, not a sharp studio portrait.
+
+Spacing and constraints: Keep the design monochrome, uncluttered, premium, and editorial. Center all major elements. Use thin divider lines sparingly. Do not add borders, color accents, floral illustrations, QR codes, logos, watermarks, or extra text. Maintain the exact three footer items and two footer separators.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2078835207315304504) | 2026-07-19
+
+---
+
+### 🏷️ 例 4504：柔和动漫偶像演唱会谢幕
+
+![柔和动漫偶像演唱会谢幕](../images/%E6%9F%94%E5%92%8C%E5%8A%A8%E6%BC%AB%E5%81%B6%E5%83%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B0%A2%E5%B9%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖版全身动漫演唱会插画，主角是 {argument name="character name" default="Halo"}，一位精致的少女偶像站在舞台中央面向观众，怀中抱着一个巨大的未来感白色扩音器，上面带有半透明的青色和粉色发光装饰。她留着蓬松的短波波头，发色为 {argument name="hair color" default="近乎白色，带有柔和的淡粉色和蓝色挑染"}，留着齐刘海，头顶有一根呆毛，左侧别着一个小草莓发夹，皮肤白皙，有着闪烁的蓝粉色大眼睛、红润的脸颊和温柔害羞的笑容。她身穿一件褶皱自然的白色大码 T 恤，搭配非常宽松的浅蓝色牛仔裤和厚底白色运动鞋，腰间系着一件蓝白格纹衬衫，袖子垂在身前。场景设定为梦幻般的夏季演唱会谢幕：背景是欢呼的人群，挥舞着无数青色、蓝色、粉色和紫色的荧光棒；明亮的舞台聚光灯和金属桁架结构在她身后闪耀；左下角和右下角各放置着一个黑色楔形舞台监听音箱。空气中飘落着四种颜色的五彩纸屑：粉色、青色、淡蓝色和白色，并伴有细小的闪光粒子。采用柔和的淡彩水彩动漫风格，线条细腻清晰，带有光晕效果、背光、柔和的雾气、高调曝光、具有反射感的湿润舞台地面，营造出充满情感的魔法氛围。构图采用居中对称，全身可见，从头部到鞋子，低至中机位视角，肖像 2:3 比例，无文字，无 Logo，无水印。
+
+[English]
+Create a vertical full-body anime concert illustration of {argument name="character name" default="Halo"}, a delicate teenage idol standing center stage and facing the viewer, holding a large futuristic white megaphone with translucent cyan and pink glowing accents close to her chest. She has a short airy bob haircut in {argument name="hair color" default="almost white with soft pastel pink and blue highlights"}, straight bangs, a tiny ahoge, a small strawberry hair clip on the left side, pale skin, big sparkling blue-pink eyes, rosy cheeks, and a gentle shy smile. Her outfit is an oversized white T-shirt with soft folds, very wide pale blue denim pants, chunky white sneakers, and a light blue-and-white plaid shirt tied around her waist with the sleeves hanging in front. The scene is a dreamy summer live-show finale: a huge cheering crowd fills the background with countless cyan, blue, pink, and purple glow sticks; bright stage spotlights and metal truss structures shine behind her; two black wedge stage monitors sit near the lower left and lower right edges. Fill the air with falling confetti pieces in exactly four visible colors: pink, cyan, pale blue, and white, plus tiny glittering light particles. Use a soft pastel watercolor anime style with thin clean line art, luminous bloom, backlighting, gentle haze, high-key exposure, reflective wet-looking stage floor, and an emotional magical atmosphere. Composition should be centered and symmetrical, full body visible from head to shoes, low-to-mid camera angle, portrait 2:3 aspect ratio, no text, no logo, no watermark.
+```
+
+**来源：** [@美桜-mio-｜AIart](https://x.com/AI_mio_AI/status/2078828945756377296) | 2026-07-19
+
+---
+
+### 🏷️ 例 4523：哥特月光贵族
+
+![哥特月光贵族](../images/%E5%93%A5%E7%89%B9%E6%9C%88%E5%85%89%E8%B4%B5%E6%97%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖构图动漫插画，描绘一位优雅的中性风哥特贵族，正慵懒地躺在黑暗烛光卧室里的黑色天鹅绒维多利亚式沙发上。主体为 {argument name="character name" default="一位空灵的白发贵族少年"}，留着凌乱的层次感 {argument name="hair color" default="雪白色"} 长发，随意扎成低侧马尾，拥有苍白的瓷器般肌肤、精致锐利的五官，以及明亮的 {argument name="eye color" default="金琥珀色"} 双眸，表情平静、迷人且略带忧郁。角色姿势为斜倚在画面中：一只手臂搭在沙发扶手上，另一只手抬至胸前，露出修长优雅的手指，一只大腿靠近镜头以呈现戏剧性的透视感。身着华丽的哥特洛丽塔 / 吸血鬼贵族服饰：一件挺括的白色高领衬衫，配有泡泡袖和荷叶边袖口，颈部系着巨大的黑色多层领结，佩戴一枚红色椭圆形宝石胸针，躯干上系着带有金属环的黑色皮质束带，穿着带有多个银色扣环和系带的光泽感黑色高腰束腰短裤，佩戴黑色铆钉腕带，大腿上系着黑色吊带袜带。必须包含以下可见的服饰/配饰元素：1 件白色荷叶边衬衫，1 个黑色多层领结，1 枚红色宝石胸针，1 条黑色躯干束带，1 件光泽感黑色束腰短裤，2 个铆钉腕带，2 条大腿吊带，以及若干作为五金细节的银色扣环和圆环。环境为夜晚奢华的哥特式房间：厚重的深色窗帘，拱形窗户展示着明亮的满月和多云的夜空，装饰华丽的雕花家具，摆放着古董物品的边桌，右侧点燃着高大的烛台。光影采用忧郁的明暗对照法，左侧窗户射入冷色调月光，右侧映照暖色调烛光，在发丝和光泽皮革上形成银色高光。风格：超精致的日本动漫关键视觉图，哥特浪漫主义，复杂的线条，戏剧性的阴影，绘画感渲染，高级时装编辑构图，感性而不失格调，无文字，无水印，无多余角色。
+
+[English]
+Create a highly detailed vertical anime illustration of an elegant androgynous gothic aristocrat lounging on a black velvet Victorian sofa in a dark candlelit bedroom. The subject is {argument name="character name" default="an ethereal white-haired noble youth"}, with messy layered {argument name="hair color" default="snow-white"} hair tied loosely into a low side ponytail, pale porcelain skin, sharp delicate features, and luminous {argument name="eye color" default="golden amber"} eyes with a calm, alluring, slightly melancholic expression. Pose the character reclining diagonally across the frame: one arm draped over the sofa armrest, the other hand raised near the chest, long elegant fingers visible, one thigh close to the camera for dramatic perspective. Dress them in an ornate gothic lolita / vampire aristocrat outfit: a crisp white high-collar blouse with puffed sleeves and ruffled cuffs, a large layered black jabot bow at the throat, a red oval gemstone brooch, black leather harness straps with metal rings across the torso, glossy black high-waisted corset shorts with multiple silver buckles and lacing, black studded wrist cuffs, and black thigh garter straps over white stockings. Use exactly these visible outfit/accessory elements: 1 white ruffled blouse, 1 black layered jabot, 1 red gemstone brooch, 1 black torso harness, 1 glossy black corset-short piece, 2 studded wrist cuffs, 2 thigh garter straps, and several silver buckles and rings as hardware details. The environment is a luxurious gothic room at night: heavy dark drapes, an arched window showing a bright full moon and cloudy night sky, ornate carved furniture, a side table with antique objects, and a tall candle candelabrum glowing on the right. Lighting should be moody chiaroscuro with cool moonlight from the left window and warm candlelight from the right, creating silver highlights on hair and glossy leather. Style: ultra-polished Japanese anime key visual, gothic romanticism, intricate linework, dramatic shadows, painterly rendering, high fashion editorial composition, sensual but tasteful, no text, no watermark, no extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2078757249670156582) | 2026-07-19
+
+---
+
+### 🏷️ 例 4533：AI Bloom Sisters 动漫主视觉图
+
+![AI Bloom Sisters 动漫主视觉图](../images/AI%20Bloom%20Sisters%20%E5%8A%A8%E6%BC%AB%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="title text" default="AI Bloom Sisters"} 的奇幻偶像/公主企划创作一张华丽的横版动漫主视觉图，画面中需准确呈现 3 位以花卉为主题的姐妹，背景为充满鲜花的闪耀玻璃温室。
+
+画布：16:9 宽屏插画，高细节，采用柔和的粉色/薰衣草色/金色调，柔和的花卉光影，闪烁的高光，华丽的维多利亚童话氛围。在图像四周使用纤细的装饰性金色花丝边框，并在角落处添加卷曲装饰。
+
+场景：阳光明媚的温室或水晶花园宫殿，配有拱形玻璃天花板、金色金属框架、悬挂的吊灯、茂密的花墙、玫瑰、羽扇豆、紫藤类花卉、飘落的花瓣、闪光颗粒，以及从顶部中心倾泻而下的温暖背光。
+
+主体：包含 3 位动漫少女，构图为腰部以上至全身，分别排列在左、中、右位置，均向观众露出温暖的微笑。1) 左侧少女：名为 Iris，留着飘逸的长金发，金色眼睛，身穿带有蕾丝袖口的粉色花朵/仙女裙，配有超大粉色蝴蝶结，头戴半透明花瓣状发饰，一只手向观众伸出。2) 中央少女：名为 Lupinus，高挑的中心人物，留着极长的银紫色长发，蓝色眼睛，身穿优雅的白色和淡紫色蕾丝礼服，佩戴花卉发饰，颈部系有蝴蝶结，双手与另外两人轻轻相握，位置略微靠后且高于两侧的少女。3) 右侧少女：名为 Fions，粉色长发，紫色眼睛，身穿粉丁香色荷叶边连衣裙，佩戴花卉头饰，怀里抱着 1 只带有紫色蝴蝶结的米色泰迪熊。
+
+文字内容：包含 5 个可见的文字元素：左侧姓名标签，上方为日语，下方为“Iris”，使用 {argument name="left name label" default="アイリス\nIris"}；中央姓名标签，上方为日语，下方为“Lupinus”，使用 {argument name="center name label" default="ルピナス\nLupinus"}；右侧姓名标签，上方为日语，下方为“Fions”，使用 {argument name="right name label" default="フィオナ\nFions"}；底部中央横跨的大型华丽发光衬线标题，内容为 {argument name="title text" default="AI Bloom Sisters"}；以及标题下方居中的小型日语标语，内容为 {argument name="tagline" default="願いから咲いた、私たちの物語。"}。标题风格应为发光的珍珠白与金色字体，带有闪光和装饰性花纹。
+
+视觉风格：极致精美的日系动漫插画，细腻的线条，明亮的眼睛，复杂的蕾丝，层叠的半透明荷叶边，珍珠，丝带，花卉刺绣，魔法少女的优雅感，高细节渲染，类似于高级视觉小说封面或偶像团体宣传海报。
+
+约束：保持 3 位少女和 1 只泰迪熊。不要添加额外角色、Logo、水印或其他可读文字。构图需具有庆典感、浪漫感和光影感，标题应占据下三分之一区域，但不得遮挡角色的脸部。
+
+[English]
+Goal: Create a lavish horizontal anime key visual for a fantasy idol/princess project titled {argument name="title text" default="AI Bloom Sisters"}, showing exactly 3 bloom-themed sisters in a glowing glass conservatory full of flowers.
+
+Canvas: 16:9 widescreen illustration, highly detailed, pastel pink/lavender/gold palette, soft bloom lighting, sparkling highlights, ornate Victorian fairytale mood. Use a thin decorative gold filigree border around the entire image with curled corner ornaments.
+
+Setting: A sunlit greenhouse or crystal garden palace with arched glass ceiling, gold metal framework, hanging chandeliers, dense floral walls, roses, lupines, wisteria-like blossoms, drifting petals, glitter particles, and warm backlight streaming from the top center.
+
+Subjects: Include exactly 3 anime girls, waist-up to full-skirt composition, arranged left, center, and right, all smiling warmly toward the viewer. 1) Left girl: labeled Iris, long flowing blonde hair, golden eyes, pink flower/fairy dress with lace sleeves, oversized pink bow accents, translucent petal-like hair accessory, reaching one hand toward the viewer. 2) Center girl: labeled Lupinus, tall central figure with very long silver-lavender hair, blue eyes, elegant white and pale lavender lace gown, floral hairpiece, bow at the neck, hands gently held with the others, positioned slightly behind and above the two side girls. 3) Right girl: labeled Fions, long pink hair, purple eyes, pink-lilac frilly dress with floral headpiece, holding exactly 1 beige teddy bear with a purple bow.
+
+Text content: Include exactly 5 visible text elements: left name label with Japanese above and “Iris” below using {argument name="left name label" default="アイリス\nIris"}; center name label with Japanese above and “Lupinus” below using {argument name="center name label" default="ルピナス\nLupinus"}; right name label with Japanese above and “Fions” below using {argument name="right name label" default="フィオナ\nFions"}; large ornate glowing serif title across the lower center reading {argument name="title text" default="AI Bloom Sisters"}; and a small Japanese tagline centered below the title reading {argument name="tagline" default="願いから咲いた、私たちの物語。"}. Style the title as luminous pearl-white and gold typography with sparkles and ornamental flourishes.
+
+Visual style: Ultra-polished Japanese anime illustration, delicate linework, glossy eyes, intricate lace, layered translucent ruffles, pearls, ribbons, floral embroidery, magical girl elegance, high-detail rendering similar to a premium visual novel cover or idol unit promotional poster.
+
+Constraints: Keep exactly 3 girls and exactly 1 teddy bear. Do not add extra characters, logos, watermarks, or additional readable text. Make the composition celebratory, romantic, and luminous, with the title dominating the lower third but not obscuring the characters’ faces.
+```
+
+**来源：** [@✰⋆｡:ﾟ𝓛𝓾𝓹𝓲𝓷𝓾𝓼𝓡𝓸𝓼𝓼𝓮𝓽𝓽𝓲*☽:ﾟ･⋆｡✰](https://x.com/irisfionaAIBS/status/2078728788716982612) | 2026-07-19
+
+---
+
+### 🏷️ 例 4554：城市峡谷上的霓虹大桥
+
+![城市峡谷上的霓虹大桥](../images/%E5%9F%8E%E5%B8%82%E5%B3%A1%E8%B0%B7%E4%B8%8A%E7%9A%84%E9%9C%93%E8%99%B9%E5%A4%A7%E6%A1%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个垂直构图的电影级写实场景：一座极具未来感的混凝土观景桥，横跨在两座高耸的深色岩石悬崖之间的狭窄缝隙上，采用对称的仰视视角。桥梁下方有两层巨大的弧形拱结构，每一层都由一条连续的暖橙色霓虹灯带勾勒，在冷蓝灰色的环境中形成极具戏剧性的发光双拱框架。在桥面上，放置两个极小的人影，站在靠近中心位置的护栏后，以突显宏大的比例感。两侧是两面巨大的垂直岩壁，岩石粗糙且近乎黑色，点缀着稀疏的植被。透过桥下的缝隙，展现远处黄昏时分水畔的现代城市天际线，布满了无数微小的金色城市灯光、摩天大楼、沿海公路以及海湾上的倒影。天空阴沉，云层厚重，地平线处透着淡淡的微光。使用 {argument name="aspect ratio" default="垂直 9:16"}、{argument name="lighting mood" default="冷蓝色暮色与暖橙色霓虹点缀"}、{argument name="bridge style" default="极简未来感混凝土桥梁"}、{argument name="city setting" default="遥远的沿海大都市"} 以及 {argument name="viewpoint" default="岩石峡谷内部的低角度仰视"}。超写实建筑摄影，高动态范围，细节清晰，大气深度，电影级调色，无文字，无水印，无多余人物，桥上无车辆。
+
+[English]
+Create a vertical cinematic photorealistic scene of a futuristic concrete observation bridge spanning a narrow gap between two towering dark rock cliffs, viewed from below and centered symmetrically. The bridge has exactly two large curved arch layers beneath it, each traced by a continuous warm orange neon light strip, creating a dramatic glowing double-arc frame against the cool blue-gray environment. On the top deck, place exactly two tiny human silhouettes standing near the center behind a simple railing, emphasizing the immense scale. The cliffs are exactly two massive vertical rock walls, one on the left and one on the right, rugged, nearly black, with sparse vegetation. Through the opening below the bridge, reveal a distant modern city skyline beside water at dusk, filled with countless small golden city lights, skyscrapers, shoreline roads, and reflections across the bay. The sky is overcast and moody with layered storm clouds and a faint pale horizon glow. Use {argument name="aspect ratio" default="vertical 9:16"}, {argument name="lighting mood" default="cool blue twilight with warm orange neon accents"}, {argument name="bridge style" default="minimal futuristic concrete bridge"}, {argument name="city setting" default="distant coastal metropolis"}, and {argument name="viewpoint" default="low-angle view from inside a rocky canyon"}. Ultra-realistic architectural photography, high dynamic range, crisp details, atmospheric depth, cinematic color grading, no text, no watermark, no extra people, no vehicles on the bridge.
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2078642462998900871) | 2026-07-19
+
+---
+

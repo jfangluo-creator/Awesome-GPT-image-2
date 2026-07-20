@@ -21004,3 +21004,158 @@ Visual style: Photorealistic Asian fashion magazine photography, clean commercia
 
 ---
 
+### 🎴 例 4486：编辑风格生活杂志封面
+
+![编辑风格生活杂志封面](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E7%94%9F%E6%B4%BB%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实编辑风格生活杂志封面，主角为一位 {argument name="subject" default="若有所思的韩国女性"}，身穿宽松的奶油色羊绒针织衫和亚麻阔腿裤，双眼轻闭，沉浸在聆听的愉悦中，一只手轻放在 {argument name="furniture" default="极简主义胡桃木架"} 上的 {argument name="speaker" default="Sonos Era 300 音箱"} 旁。皮肤散发温暖光泽，清透裸妆，头发松散地扎成低马尾。背景：温暖的日式北欧风（Japandi）客厅——低矮的胡桃木家具、温暖的漫射灯光、亚麻织物、柔和的虚化植物。杂志刊头“MONOCLE”采用粗体、简洁的现代无衬线字体。50mm 镜头，超精细的 Sonos 网布纹理与胡桃木底座，8K 照片级真实感温暖生活风格。
+
+负面提示词：卡通、模糊、杂乱、水印、冷色调。
+
+[English]
+Ultra-realistic editorial lifestyle magazine cover featuring a {argument name="subject" default="thoughtful Korean woman"} in a relaxed oversized cream cashmere knit and wide-leg linen trousers, eyes gently closed in deep listening pleasure, one hand resting on a {argument name="speaker" default="Sonos Era 300 speaker"} on a {argument name="furniture" default="minimalist walnut shelf"} beside her. Glowing warm skin, zero-makeup fresh look, soft hair in a loose low ponytail. Background: warm Japandi-style living room — low walnut furniture, warm diffused lamp light, linen textiles, soft bokeh plants. "MONOCLE" masthead in bold clean modern sans-serif. 50mm lens, ultra-detailed Sonos mesh fabric texture and walnut base, 8K photorealistic warm lifestyle. 
+
+Negative: cartoon, blurry, cluttered, watermark, cold tones.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2078894102033367176) | 2026-07-19
+
+---
+
+### 🎴 例 4492：编辑排版生活方式海报
+
+![编辑排版生活方式海报](../images/%E7%BC%96%E8%BE%91%E6%8E%92%E7%89%88%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 {argument name="aspect ratio" default="9:16"} 的编辑排版海报，主体为 {argument name="subject" default="以人为中心的生活瞬间"}。使用超大字体作为主要构图结构。让人物、动作、城市空间或日常场景出现在字母内部、穿过字母，或突破字母的边界。
+
+[English]
+Create a {argument name="aspect ratio" default="9:16"} editorial typography poster from a single {argument name="subject" default="human-centered lifestyle moment"}. Use oversized typography as the main composition structure. Let the person, movement, city space, or everyday scene appear inside the letters, pass through them, or break beyond
+```
+
+**来源：** [@Larus Canus](https://x.com/MrLarus/status/2078858258815840535) | 2026-07-19
+
+---
+
+### 🎴 例 4505：极简风中文相亲叙事海报
+
+![极简风中文相亲叙事海报](../images/%E6%9E%81%E7%AE%80%E9%A3%8E%E4%B8%AD%E6%96%87%E7%9B%B8%E4%BA%B2%E5%8F%99%E4%BA%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简风格的竖版中文叙事海报，以冷峻的编辑排版风格探讨相亲的开销与无奈。
+
+画布：4:5 竖版海报，浅灰白色背景，带有微妙的纸张纹理，留白充裕，仅使用黑色排版。巨型文字采用略带磨损感的粗体块状中文字体，并带有动态模糊阴影，营造出文字在页面上旋转或飞驰的视觉效果。
+
+布局：将一句巨型中文句子拆分为多个超大号的弯曲文本片段，在页面上形成松散的螺旋状或 S 型路径。顶部弧线文字为 {argument name="top headline text" default="我花了一万多，"}；右侧为垂直/对角线方向的巨型片段，文字为 {argument name="right headline text" default="买了个"}；底部弧线文字为 {argument name="bottom headline text" default="相亲资格。"}。标题片段需沿曲线扭曲，以不同角度倾斜，边缘呈现粗糙的黑色质感，并带有灰色的动态模糊拖影。
+
+中心叙事块：在左中区域放置一个紧凑的左对齐正文栏，使用小巧清晰的黑色中文字体。在正文上方包含章节标签 {argument name="series label" default="《橙卡》 01"}。正文内容需严格为：{argument name="body text" default="这几年被家里催婚催得厉害，\n我花了一万多，在婚恋机构挂了名。\n合同上写着八个名额，\n我以为花钱能省时间，\n结果只是花钱去排队见人。\n\n见到的大多是老师、培训机构、财务、护士，\n一个个端端正正地坐在那里，\n像在等我做自我陈述。\n\n她们会先看我的条件，\n再顺手给我提几点“优化建议”：\n抽烟要改，身材要减，性格要更主动。\n\n我问她们喜欢什么礼物，\n有人认真回答：黄金，保值。\n我听完只想笑——\n谁不喜欢黄金？我也喜欢。"}
+
+人物细节：添加 2 个极小的模糊黑色行走剪影：一个位于顶部标题下方的上中部，从左向右行走；另一个位于右下角，同样从左向右行走。保持剪影匿名化、灰度处理，并带有动态模糊效果。
+
+视觉风格：极简中文排版海报，高对比度，实验性杂志排版，电影感的留白，略显混乱的构图，无色彩点缀，无边框，无 Logo，无额外插图。确保巨型标题占据主导地位，同时保证正文清晰易读。
+
+[English]
+Goal: Create a minimalist vertical Chinese narrative poster in a stark editorial style about matchmaking expenses and frustration.
+
+Canvas: 4:5 vertical poster, light gray-white background with subtle paper texture, lots of negative space, black typography only. Use a slightly distressed, bold, blocky Chinese display font for the giant words, with motion-smear shadows as if the text is spinning or rushing around the page.
+
+Layout: Arrange one huge Chinese sentence as separate oversized curved text fragments forming a loose spiral or S-shaped path around the page. The top arc reads {argument name="top headline text" default="我花了一万多，"}; the right side has a vertical/diagonal giant fragment reading {argument name="right headline text" default="买了个"}; the bottom arc reads {argument name="bottom headline text" default="相亲资格。"}. Make the headline fragments warped along curves, tilted at different angles, with rough black edges and gray motion blur trailing behind them.
+
+Central narrative block: Place a compact left-aligned body-text column in the left-middle area, using small clean black Chinese type. Include the section label {argument name="series label" default="《橙卡》 01"} above the body copy. Body copy should read exactly: {argument name="body text" default="这几年被家里催婚催得厉害，\n我花了一万多，在婚恋机构挂了名。\n合同上写着八个名额，\n我以为花钱能省时间，\n结果只是花钱去排队见人。\n\n见到的大多是老师、培训机构、财务、护士，\n一个个端端正正地坐在那里，\n像在等我做自我陈述。\n\n她们会先看我的条件，\n再顺手给我提几点“优化建议”：\n抽烟要改，身材要减，性格要更主动。\n\n我问她们喜欢什么礼物，\n有人认真回答：黄金，保值。\n我听完只想笑——\n谁不喜欢黄金？我也喜欢。"}
+
+Figure details: Add exactly 2 tiny blurred black walking silhouettes: one near the upper center under the top headline, walking left to right, and one near the lower right, also walking left to right. Keep them anonymous, grayscale, and motion-blurred.
+
+Visual style: Minimalist Chinese typographic poster, high contrast, experimental magazine layout, cinematic empty space, slightly chaotic composition, no color accents, no borders, no logos, no extra illustrations. Ensure the giant headline remains dominant while the body text is readable.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2078827158869614750) | 2026-07-19
+
+---
+
+### 🎴 例 4514：滑板活动项目设计
+
+![滑板活动项目设计](../images/%E6%BB%91%E6%9D%BF%E6%B4%BB%E5%8A%A8%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Girl Skateboards 打造一款超高端的五面板对角线广告项目，保留斜置五条的编辑结构和真实的街头滑板动作逻辑，将整体视觉效果彻底重构为更响亮、更具图形感、更具旗舰青年品牌特色的广告。背景系统须采用夸张的霓虹色块、喷绘地面、超大城市图形符号和更强烈的街头艺术设计语言，同时滑板和滑手仍是核心视觉焦点。最终画面应呈现出世界级青年运动时尚大片感：超写实、叛逆、时尚、锐利，且品牌特色鲜明。核心概念：将 Girl Skateboards 呈现为一个融合了滑板、色彩、态度、设计与城市地表的完整青年文化宇宙。保持对角线五面板动态结构，将环境转化为风格化的街头图形世界：霓虹色域、图形化彩绘混凝土、喷漆纹理、大型抽象符号、方向箭头、硬核几何色彩和高端杂志设计质感。滑板为核心主体，环境则应像为滑板文化定制的品牌化城市乐园。五面板对角线结构：采用高垂直海报布局，由五个从上而下堆叠的大斜面板组成。每个面板保持相同的倾斜角度，使海报具有前冲动感。五个条带像一段连续的青年能量和滑板文化展示台。面板 1：爆发力的品牌开场英雄动作；面板 2：图形化城市区域中的快速技术动作；面板 3：夸张绘图环境中的动感与速度面板；面板 4：带有滑板压力和街头强度的近距离冲击视角；面板 5：生活方式与产品结合的收尾，滑板依然占据视觉主导。这种结构需传达出整个品牌广告在城市中疾驰的即视感。动作方向：展示不同年轻滑手在相关空间内完成的真实硬核街头滑板动作。采用身体语言利落、具备真实技术和强烈个人风格的健康西方年轻运动员。包括：爆发性的 ollie 或翻板、硬核刻滑或侧滑、阶梯或台阶相关动作、低角度落地冲击力，以及最后一个展示态度和板面存在的面板。动作需真实、技术流且有力，避免平庸或摆拍。滑板必须清晰可见且重要。滑板真实感：滑板需还原真实街头规格：真实的轮子、准确的桥（trucks）、真实的板面弧度、逼真的砂纸纹理、适时的板底图案展示、真实的划痕和缘边磨损，以及高端板类摄影的真实感。通过板类文化、图形态度和真实的滑板公信力来体现 Girl Skateboards 的品牌身份。环境重构方向：保持街头滑板逻辑，将视觉推向更夸张的旗舰青年广告环境。运用：巨大的霓虹色块、喷绘沥青、超大涂鸦符号、大胆的几何图形、彩绘车道线、图形箭头、酸性配色面、荧光橙或热粉色混凝土区、霓虹蓝阴影面、流漆纹理、海报撕裂碎块以及植入城市空间的强图形系统。环境应显高端且经过策划，而非杂乱的城市垃圾。背景应增强滑手和滑板的视觉冲击力。视觉与相机逻辑：运用极具冲击力的视角。摄影风格应遵循广角或微鱼眼的运动杂志逻辑：前景巨大的滑板、深度延伸的城市线条、低角度跳跃、压缩的对角线建筑、冲向镜头的滑手。每个面板要有独立冲击力，同时受统一品牌色彩和图形世界约束。图形处理：强化设计系统：大型街头符号、地面图形、喷绘渐变、手绘标记点缀、分层海报缘边、滑手与背景的图形冲撞、细微的手写涂鸦。海报应具有提升到奢侈商业设计高度的滑板杂志文化感。设计需大胆、年轻且受控高端。排版：采用受手写涂鸦影响且布局控制力强的英文风高端滑板活动排版。主标题：‐GIRL SKATEBOARDS‐；副标：‐COLOR HITS HARD‐；辅助文案：‐Five slashes of motion. One street attitude.‐ 排版应稀疏、锐利、都市化且高端，自然融入布局。包含极简官方风 Logo 及精细层级。避免臃肿文案。灯光：精致的户外城市光，具有明亮清晰的色调和抛光商业感。皮肤、衣物、轮子、桥、板面及彩绘纹理都要显得敏锐、昂贵、高光利落。阴影透气且细节丰富。整体清爽、图形化，不沉闷。色彩方向：更大胆的旗舰青年色调：电橙、热粉、酸黄、霓虹珊瑚、鲜艳青、深邃蓝、青柠绿点缀、喷绘白、凛光黑砂纸、阳光感的城市灰。色彩响亮且具图形感，高端有序。氛围：叛逆、年轻、爆发力、时尚、技术感、都市、高端、无畏、图形化、时髦、全球品牌感。渲染风格：超高端 Girl Skateboards 活动项目，五面板对角线编辑布局，真实街头滑板动作，霓虹色块、喷绘地面，强城市图形系统，手写涂鸦风格排版，超写实运动摄影，8k，世界级商业影像品质。负面提示词：工业滑板单调，滑板可见度差，虚假滑板硬件，巧妙身体动作，杂乱涂鸦，浑浊色彩，幼稚街头艺术，燃火摆拍，塑料感皮肤，低分辨率，凌乱排版，通用青年海报，随机背景杂乱。
+
+[English]
+Create an ultra-premium five-panel diagonal campaign board for Girl Skateboards, preserving the same slanted five-strip editorial structure and authentic street-skate action logic, but radically reconstruct the overall visual world into a louder, more graphic, more flagship youth-brand campaign. The entire background system must push into exaggerated neon color-block walls, spray-painted ground planes, oversized urban graphic symbols, and a stronger street-art design language, while still keeping the skateboard and the riders as the core visual focus. The final image must feel like a world-class youth-sports fashion campaign: hyper-real, rebellious, saturated, sharp, and unmistakably brand-led. Core concept: The campaign should present Girl Skateboards as a full youth-culture universe where skating, color, attitude, design, and city surfaces collide. Keep the same diagonal five-panel motion structure, but transform the environments into a more stylized street-graphic world: neon wall fields, graphic-painted concrete, spray-tag textures, large abstract symbols, directional arrows, brutal color geometry, and premium magazine-design energy. The board must remain the hero object, but the whole environment should feel like a branded urban playground built for skate culture. 5-panel diagonal structure: Use a tall vertical poster layout made of five large slanted panels stacked from top to bottom. Each panel must keep the same directional tilt so the full poster feels like forward movement. The five strips should read as one continuous campaign runway of youth energy and skateboard culture. Panel 1: explosive brand-opening hero action Panel 2: fast technical trick in a graphic urban zone Panel 3: stronger motion and speed panel in an exaggerated painted environment Panel 4: close aggressive perspective with skate pressure and street intensity Panel 5: lifestyle-plus-product-ending panel that still keeps the skateboard visually dominant The diagonal structure must feel like the whole campaign is sliding through the city at speed. Action direction: Show different young skaters performing authentic professional street-skate action in distinct but related spaces. Use healthy Western young athletes with sharp body language, real technical skill, and strong personal style. Include varied skate moments such as: explosive ollie or flip trick, hard carving or slide, stair or ledge-related movement, low-angle landing pressure, and one final panel with attitude-driven board presence. The skating must feel real, technical, and forceful, never generic or posed. The board must always be clearly visible and important. Skateboard realism: The boards must be true street skateboards with: real wheels, accurate trucks, authentic deck curvature, convincing grip-tape texture, underside graphic visibility where appropriate, real scrape wear, edge chips, and premium board photography realism. Girl Skateboards identity should feel central through board culture, graphic attitude, and authentic skate credibility. Reconstructed environment direction: Keep the street-skate logic, but push the full visual world into a more exaggerated flagship youth-campaign environment. Use: huge neon color-block walls, spray-painted asphalt, oversized graffiti marks, bold geometric symbols, painted lane graphics, graphic arrows, acid-bright wall fields, hot pink or electric orange concrete zones, neon blue shadow planes, paint-drip textures, poster-layer fragments, and strong street-graphic systems built into the city space. The environments should feel curated and premium, not random urban mess. Every background must intensify the skater and the board rather than distract from them. Perspective and camera logic: Use highly aggressive perspective for maximum campaign impact. The photography should feel shot with wide-angle or slightly fisheye sports-editorial logic: big foreground boards, deep receding urban lines, low-angle leaps, compressed diagonal architecture, riders breaking toward camera, and stronger foreground-background tension. Each panel should have its own visual attack, but all five must remain unified by the same branded color and graphic world. Graphic treatment: Push the design system harder than before: large street symbols, painted floor graphics, sprayed gradients, hand-drawn marker accents, layered poster edges, graphic collision between rider and background, and subtle handwritten-graffiti note energy. The poster should feel like skate magazine culture elevated into luxury commercial design. The graphic treatment must be bold and youthful, but still controlled and premium. Typography: Use an English-led premium skate-campaign typography system with handwritten-graffiti influence and strong layout control. Main English title: ‐GIRL SKATEBOARDS‐ Secondary campaign line: ‐COLOR HITS HARD‐ Supporting English copy: ‐Five slashes of motion. One street attitude.‐ Typography should be sparse, sharp, urban, and premium, integrated naturally into the diagonal layout. Include a minimal official-style logo treatment and refined hierarchy. Avoid bulky copy or crude block text. Lighting: Use refined outdoor urban light with bright, crisp tonal clarity and polished commercial control. Skin, clothing, wheels, trucks, deck surfaces, painted ground, and wall textures must all feel sharp and expensive. Highlights should be clean and energetic. Shadows must stay open, breathable, and detailed. The whole campaign should feel sunlit, graphic, and polished, not muddy or harsh. Color direction: Push the campaign into a bolder flagship youth palette: electric orange, hot pink, acid yellow, neon coral, vivid cyan, deep cobalt, lime accents, spray-white markings, matte black grip-tape, and sunlit urban gray. The color system should feel louder and more graphic than a normal skate ad, but still premium and intentional, never cheap or toy-like. Mood: rebellious, youthful, explosive, saturated, technical, urban, premium, fearless, graphic, stylish, globally branded Rendering style: ultra-premium Girl Skateboards campaign board, five-panel diagonal editorial layout, authentic street skateboard action, neon color-block walls, spray-painted ground, strong urban graphic system, handwritten graffiti-inspired typography, hyper-real sports photography, 8k, world-class commercial image quality Negative prompt: cheap skate flyer, weak board visibility, fake skateboard hardware, awkward body motion, cluttered graffiti mess, muddy colors, childish street art, influencer posing, plastic skin, low-resolution sports ad, messy typography, generic youth poster, random background clutter
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2078791365186793666) | 2026-07-19
+
+---
+
+### 🎴 例 4515：专业冷水冲浪广告企划
+
+![专业冷水冲浪广告企划](../images/%E4%B8%93%E4%B8%9A%E5%86%B7%E6%B0%B4%E5%86%B2%E6%B5%AA%E5%B9%BF%E5%91%8A%E4%BC%81%E5%88%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Carver 创建一个超高端的四面板广告项目，设计为高冲击力的冷水冲浪广告，将专业冲浪动作、深蓝灰色竞赛海况以及以板为核心的性能文化融合进一个精致的编辑排版中。构图必须遵循高级的 2x2 网格结构，具备强烈的灰白色负空间、优雅的间距、撕纸图形介入，以及世界级的运动时尚广告质感。最终图像必须呈现出超真实、锐利、冷峻、专业且具有鲜明的品牌导向感，同时确保冲浪板始终是真正的视觉主角。核心概念：该广告应通过以冲浪为根基的视觉语言来呈现 Carver，即雕刻般的精准度、线路控制、读浪本能以及冲浪板性能。在此广告中，该板不是带轮子的滑板。它必须是真正的冲浪板，没有轮子、没有支架、没有街头滑板硬件，完全融入真实的海洋浪潮动作中。四面板结构应呈现出旗舰品牌拼贴画的感觉，将严谨的运动、更寒冷的海洋力量以及精致的产品标识融合为一个简洁的视觉系统。大海必须感觉像是一个严肃的竞赛区，而非热带度假影像，具有更深沉的蓝灰色水域、更厚重的浪墙、更凉爽的空气以及更专注的运动强度。4 面板结构：使用一个简洁的 2x2 四面板项目，置于精致的灰白色或带有微妙纹理的海报背景上。左上：寒冷的入水前或排浪时刻；右上：在深蓝灰色浪墙内或对抗浪墙的英雄冲浪动作；左下：另一个强劲、激进的冲浪动作面板，具有更强的速度感和低角度压力；右下：以产品为导向的冲浪板英雄展示或冷岸冲浪板环境面板。所有四个面板在气候、色温、品牌态度和排版逻辑上必须保持统一，同时在冷静专注、爆发式雕刻动作和产品精准度之间创造节奏感。动作指导：展示专业的女性冲浪动作，具备真实的运动控制力、可信的身体力学和竞赛级的严肃感。使用健康的西方女性运动员，姿态强健，肌肉参与度真实，技术动作锐利。拒绝网红感，拒绝轻松的旅行氛围。动作必须显得果断、熟练且快速。在主要动作面板中，冲浪者应以清晰的刃部压力、压缩的重心、强有力的肩部对齐和令人信服的读浪本能进行雕刻动作。冲浪板必须保持清晰可见且重要，绝不能被浪花吞没。冲浪板真实性：板必须是真正的冲浪板：没有轮子、没有支架、没有轴类硬件、没有街头滑板板型、没有陆地滑板细节。使用可信的高性能冲浪板轮廓，具备真实的板刃、摇摆度、尾部形状、板蜡、可见的舵系统、湿润的表面反射以及真实的海洋使用比例。板应感觉高端、快速且在技术上受到尊重，具有简洁的冲浪性能标识。Carver 品牌整合：广告应通过雕刻态度、冲浪驱动的板类文化和以产品为导向的运动叙事来保留 Carver 的标识，而非字面上的轮式硬件。可能的视觉逻辑：清晰的高端冲浪板轮廓、精致的板面图形或板面处理、穿过浪面的强力雕刻线、一个专门的产品导向面板（使冲浪板成为英雄对象），以及精准、速度和海洋控制的视觉语言。品牌应感觉以性能为导向、高端且与冲浪运动深度连接。海浪与水体指导：以极高的真实感和更冷峻的色调权威渲染巨大的竞赛级海浪：深蓝灰色的浪墙、致密的钢蓝色阴影、简洁的桶浪曲率、精准的浪唇张力、超细节的浪花、细腻的白色泡沫破碎以及高度可信的水体质量。海浪必须感觉比热带冲浪影像更硬、更重、更严肃。水体应看起来寒冷、纯净且有力，带有微妙的薄雾和细小的空气中水滴，在不造成视觉混乱的情况下增强速度感和力量感。撕纸排版逻辑：整合一套优雅的撕纸图形系统，使广告感觉是经过精心设计的，而非简单的平铺。使用：穿插在面板之间的撕纸弧线、条带或对角线路径、微妙的粗糙纸张边缘纹理、简洁的编辑拼贴逻辑，以及与撕纸结构对齐的高级排版。手工撕裂的效果应感觉干脆、现代且具有收藏价值，而非粗糙或杂乱。排版：使用以英文为主的高级冲浪广告排版系统，具备强烈但克制的层级。主要英文标题：“CARVER”；次要广告语：“COLD LINE CONTROL”；辅助英文文案：“Precision shaped by pressure, speed, and water.” 排版应稀疏、锐利、高端，并以精致的间距融入撕纸构图中。包含极简的官方风格品牌标识处理和简洁的层级。避免大段文案或粗糙沉重的字体。面板方向：面板 1：一个从容的冷水排浪或入水时刻，展示动作前的专注、较暗的水面纹理、严谨的静止感以及运动员与竞赛海域的关系。面板 2：主要英雄图像，展示一名专业女性冲浪者在深蓝灰色浪墙中或下方进行雕刻动作，身体完全投入，冲浪板清晰可见，整个瞬间感觉精英且受控。面板 3：一个更具侵略性的低角度冲浪镜头，具有更强的压力、更紧凑的转弯、更致密的浪花和即时的速度感，使冲浪板感觉快速且在技术上充满活力。面板 4：一个更冷峻的产品导向面板，展示冲浪板作为英雄，放置在湿岩石、黑沙、岸边混凝土上，或放置在严谨的冷岸装备旁，使产品在视觉上占据主导地位且高端。灯光：使用精致的海岸日光，具备冷色调的大气控制和奢华商业级的色调精准度。皮肤、水体和板面必须都感觉解析度极高且昂贵。高光应锐利但克制。阴影必须保持通透、冷峻且具有呼吸感。整体光线应感觉清晰、寒冷、高端且高度摄影化，没有浑浊的黑色，也没有温暖的热带滤镜。色彩指导：使用更冷峻的高端冲浪调色板：深蓝灰色、钢蓝色、板岩青色、白色浪花、冷色调皮肤高光、湿石墨色、柔和的灰白色海报背景，以及克制的板面强调色。保持调色板严肃、优雅且以竞赛为导向。避免热带青色、金色暖调或俏皮的海滩饱和度。氛围：技术性、寒冷、运动、高端、电影感、受控、冲浪驱动、严肃、具收藏价值、全球化品牌。渲染风格：超高端 Carver 广告项目，四面板编辑运动拼贴，深蓝灰色竞赛海浪，专业女性冲浪动作，真正的冲浪板（无轮），撕纸图形结构，高级英文排版，超真实冷水氛围，8k，世界级商业图像质量。负面提示词：轮子、支架、轴类硬件、陆地滑板、街头滑板板型、廉价冲浪海报、板面可见度弱、热带度假氛围、浑浊的海浪、低细节浪花、杂乱的撕纸效果、笨重的排版、网红姿势、塑料感皮肤、卡通水体、产品层级弱、低分辨率运动广告、杂乱的排版、温暖的海滩明信片色彩。
+
+[English]
+Create an ultra-premium four-panel advertising campaign board for Carver, designed as a high-impact cold-water surf campaign where professional wave-riding action, deep blue-gray competition sea conditions, and board-led performance culture are fused into one refined editorial layout. The composition must follow a premium 2x2 grid structure with strong off-white negative space, elegant spacing, torn-paper graphic intervention, and a world-class sports-fashion campaign sensibility. The final image must feel hyper-real, sharp, cold, technical, and unmistakably brand-led, while keeping the surfboard as the true visual hero. Core concept: The campaign should present Carver through a surf-rooted visual language of carving precision, line control, wave-reading instinct, and board performance. The board is not a wheeled skateboard in this campaign. It must be a true surfboard with no wheels, no trucks, and no street-skate hardware, fully integrated into real ocean wave action. The four-panel structure should feel like a flagship brand collage where disciplined motion, colder ocean power, and refined product identity merge into one clean visual system. The sea must feel like a serious contest zone rather than a tropical vacation image, with deeper blue-gray water, denser wave walls, cooler air, and more focused athletic intensity. 4-panel structure: Use a clean 2x2 four-panel board placed on a refined off-white or subtly textured poster background. top-left: cold pre-action ocean-entry or lineup moment top-right: hero surfing action inside or against a deep blue-gray wave wall bottom-left: another hard, aggressive surfing action panel with stronger speed and lower-angle pressure bottom-right: a product-led surfboard hero or cold-shore board environment panel All four panels must feel unified in climate, color temperature, brand attitude, and layout logic, while creating rhythm between calm focus, explosive carving, and product precision. Action direction: Show professional female surfing action with authentic athletic control, believable body mechanics, and competition-level seriousness. Use a healthy Western female athlete with strong posture, real muscle engagement, and sharp technical form. No influencer energy, no soft travel mood. The movement must feel decisive, skilled, and fast. In the main action panels, the surfer should carve with clean rail pressure, compressed center of gravity, strong shoulder alignment, and convincing wave-reading instinct. The surfboard must remain clearly visible and important, never swallowed by spray. Board realism: The board must be a true surfboard: no wheels, no trucks, no axle hardware, no street-skate deck shape, no land-based skate details. Use a believable high-performance surfboard silhouette with realistic rails, rocker, tail shape, deck wax, fin system where visible, wet surface reflections, and true ocean-use proportions. The board should feel premium, fast, and technically respected, with a clean surf-performance identity. Carver brand integration: The campaign should preserve Carver identity through carving attitude, surf-driven board culture, and product-led athletic storytelling rather than literal wheeled hardware. Possible visual logic: clear premium surfboard silhouette, refined board graphics or deck treatment, strong carving line through wave face, a dedicated product-led panel where the surfboard reads as the hero object, and a visual language of precision, speed, and ocean control. The brand should feel performance-led, premium, and deeply connected to surf movement. Wave and water direction: Render giant competition-sea waves with extreme realism and colder tonal authority: deep blue-gray wave walls, dense steel-blue shadows, clean barrel curvature, precise lip tension, hyper-detailed spray, fine white foam breakup, and highly believable water mass. The waves must feel harder, heavier, and more serious than tropical surf imagery. Water should look cold, clean, and powerful, with subtle mist and fine airborne droplets amplifying speed and force without visual chaos. Torn-paper layout logic: Integrate an elegant torn-paper graphic system so the campaign feels intentionally designed rather than simply tiled. Use: a ripped-paper arc, strip, or diagonal path crossing between panels, subtle rough paper edge texture, clean editorial collage logic, and premium typography placement aligned with the paper-tear structure. The hand-torn effect should feel crisp, modern, and collectible, not crafty or messy. Typography: Use an English-led premium surf campaign typography system with strong but restrained hierarchy. Main English title: “CARVER” Secondary campaign line: “COLD LINE CONTROL” Supporting English copy: “Precision shaped by pressure, speed, and water.” Typography should be sparse, sharp, premium, and integrated into the torn-paper composition with refined spacing. Include a minimal official-style brand mark treatment and clean hierarchy. Avoid bulky copy or crude heavy lettering. Panel directions: Panel 1: A poised cold-water lineup or ocean-entry moment, showing focus before action, darker water surface texture, disciplined stillness, and the athlete’s relationship to the contest sea. Panel 2: The main hero image, with a professional female surfer carving through or under a deep blue-gray wave wall, body fully committed, surfboard clearly visible, the whole moment feeling elite and controlled. Panel 3: A more aggressive low-angle surfing shot with stronger pressure, tighter turn, denser spray, and immediate speed, making the surfboard feel fast and technically alive. Panel 4: A colder product-led panel showing the surfboard as hero, placed on wet rock, dark sand, shoreline concrete, or beside disciplined cold-shore gear, keeping the product visually dominant and premium. Lighting: Use refined coastal daylight with cool atmospheric control and luxury-commercial tonal precision. Skin, water, and board surfaces must all feel sharply resolved and expensive. Highlights should be crisp but restrained. Shadows must stay open, cool, and breathable. The overall light should feel clear, cold, premium, and highly photographic, with no muddy blacks and no warm tropical wash. Color direction: Use a colder premium surf palette: deep blue-gray, steel blue, slate teal, white spray, cool skin highlights, wet graphite, soft off-white poster background, and restrained board accent colors. Keep the palette serious, elegant, and competition-driven. Avoid tropical cyan, golden warmth, or playful beach saturation. Mood: technical, cold, athletic, premium, cinematic, controlled, surf-driven, serious, collectible, globally branded Rendering style: ultra-premium Carver campaign board, four-panel editorial sports collage, deep blue-gray competition waves, professional female surfing action, true surfboard with no wheels, torn-paper graphic structure, premium English typography, hyper-real cold-water atmosphere, 8k, world-class commercial image quality Negative prompt: wheels, trucks, axle hardware, land skateboard, street-skate deck, cheap surf poster, weak board visibility, tropical vacation mood, muddy waves, low-detail spray, messy torn-paper effect, bulky typography, influencer pose, plastic skin, cartoon water, weak product hierarchy, low-resolution sports ad, cluttered layout, warm beach postcard color
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2078787658441224468) | 2026-07-19
+
+---
+
+### 🎴 例 4532：东方禅意灯笼壁纸
+
+![东方禅意灯笼壁纸](../images/%E4%B8%9C%E6%96%B9%E7%A6%85%E6%84%8F%E7%81%AF%E7%AC%BC%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+主题方向：{argument name="主题方向" default="东方禅意极简海报"}
+风格分支：高对比夜色型
+主体内容：{argument name="主体内容" default="一位站在青檐下看花灯的人物"}
+情绪母题：夜色温暖、节日感、轻松感
+场景与意象：珊瑚橙花灯、靛蓝夜空、月白留白、青色屋檐、人物剪影
+构图与空间：上部为靛蓝夜空与花灯，下部为屋檐 and 人物，画面留出大量纵向空间
+色彩控制：月白用于雾层与过渡留白，靛蓝用于夜空，珊瑚橙用于花灯主体和局部光晕，墨青用于屋檐和人物结构；避免整图夜景过黑
+光线与质感：明净夜色光，灯光温润，轻颗粒，数字东方海报感
+画幅比例：{argument name="画幅比例" default="9:16"}
+补充要求：花灯数量控制在少量，画面明亮，不要做成拥挤灯会
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2078735341478093197) | 2026-07-19
+
+---
+
+### 🎴 例 4539：奢华 Instagram 产品拼贴图
+
+![奢华 Instagram 产品拼贴图](../images/%E5%A5%A2%E5%8D%8E%20Instagram%20%E4%BA%A7%E5%93%81%E6%8B%BC%E8%B4%B4%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端奢华的 3×3 Instagram 产品营销拼贴图，采用 {argument name="aesthetic" default="暖米色编辑风"} 审美，搭配 {argument name="lighting" default="柔和黄金时刻"} 灯光和 {argument name="background" default="奶油中性色"} 背景，呈现优雅阴影、超写实商业摄影效果和电影级调色。每个板块均展示同一产品，并保持品牌形象、包装、比例和色彩的一致性。这 9 张图片包括：(1) 手持或与产品互动的镜头，(2) 极具戏剧性的悬浮主体照，配以悬浮在空中的成分和动态颗粒，(3) 突出高级纹理和精细细节的极致微距特写，(4) 与产品主题相符的艺术飞溅或动态场景，(5) 极简主义高级海报，使用优雅的大号衬线字体展示产品名称和品牌，(6) 关键天然成分及辅助元素的平铺图，(7) 在精致环境中拍摄的奢华生活方式产品美照，(8) 根据产品类别呈现的电影级倒出、喷洒、切割或使用动作，(9) 模特自然享受或使用产品的快乐生活方式照。编辑级奢华广告风格，Apple 级别的商业品质，超写实摄影，柔和漫射光，浅景深，清晰对焦，高级包装设计，高端品牌感，精致构图，干净极简审美，杂志级产品摄影，8K，HDR，屡获殊荣的商业广告。
+
+[English]
+Create a premium luxury 3×3 Instagram product campaign collage in a {argument name="aesthetic" default="warm beige editorial"} aesthetic with {argument name="lighting" default="soft golden-hour"} lighting, {argument name="background" default="creamy neutral"} background, elegant shadows, ultra-realistic commercial photography, and cinematic color grading. Every panel features the same product with consistent branding, packaging, proportions, and colors. The 9 images include: (1) hand holding or interacting with the product, (2) dramatic floating hero shot with ingredients and dynamic particles suspended in mid-air, (3) extreme macro close-up highlighting premium texture and fine details, (4) artistic splash or motion scene matching the product theme, (5) minimalist premium poster with large elegant serif typography displaying the product name and brand, (6) flat-lay of key natural ingredients and supporting elements, (7) luxurious lifestyle product beauty shot in a styled environment, (8) cinematic serving, pouring, cutting, spraying, or usage action depending on the product category, (9) happy lifestyle model naturally enjoying or using the product. Editorial luxury advertising style, Apple-level commercial quality, ultra-photorealistic, soft diffused light, shallow depth of field, crisp focus, premium packaging design, high-end branding, refined composition, clean minimal aesthetic, magazine-quality product photography, 8K, HDR, award-winning commercial advertising.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2078690888910516379) | 2026-07-19
+
+---
+

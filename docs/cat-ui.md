@@ -8849,3 +8849,401 @@ Style: Ultra-photorealistic, natural mobile photography, candid street portrait,
 
 ---
 
+### 🖥️ 例 4496：日语定价对比缩略图
+
+![日语定价对比缩略图](../images/%E6%97%A5%E8%AF%AD%E5%AE%9A%E4%BB%B7%E5%AF%B9%E6%AF%94%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张醒目的日语 YouTube/X 缩略图，主题为订阅费用过高，通过对比划掉的高额月费与更便宜的月费来营造强烈的视觉反差。
+
+画布：垂直 3:4 缩略图，768×1024 比例，针对移动端阅读体验进行优化。使用深海军蓝到深紫色的渐变背景，人物后方带有微妙的聚光灯效果。将所有主要文字保持在安全边距内，确保字体超大、高对比度且清晰易读。
+
+布局：在顶部正中央放置 2 个由细绳悬挂的价签：左侧价签为红色，略微倾斜，文字为 {argument name="old price text" default="月15,000円"}，使用粗体白色字并带有醒目的白色对角删除线；右侧价签为霓虹绿色，略微倾斜并带有发光效果，文字为 {argument name="new price text" default="月3,000円"}，使用粗体白色字。在价签下方居中放置巨大的白色标题，并带有黑色阴影：{argument name="headline text" default="その課金、まだ早い"}。在标题下方，添加一个几乎横跨整个宽度的亮黄色矩形横幅，文字为粗体黑色：{argument name="subheadline text" default="月3,000円で足りる21の使い方"}。
+
+主体细节：在下半部分，展示一张写实的摄影棚风格剪影，主角是一位留着黑色长发和刘海、身穿米色针织衫的年轻日本女性。她面向镜头，左手张开向观众做出清晰的“停止/等待”手势，右手拿着一张金色信用卡。使用自然的肤色、干净的美容布光以及清晰的抠图边缘。
+
+装饰元素：添加 3 枚浮动的金色日元硬币，硬币上刻有日元符号：一枚位于左上中部，一枚靠近左下边缘，一枚位于右侧中部。添加 2 个带有三个黑点的白色对话气泡：一个位于左侧手势附近，另一个位于右侧标题/肩部区域附近。请勿添加额外的硬币、气泡、图标、Logo 或水印。
+
+视觉风格：高冲击力的日语社交媒体缩略图，具有光泽的 3D 质感、强烈的投影、绿色标签的霓虹发光效果、干净的合成、锐利的排版、饱和的色彩以及专业的病毒式封面设计。确保文字准确且无乱码。
+
+[English]
+Goal: Create a bold Japanese YouTube/X thumbnail about subscription pricing being too expensive, using a dramatic comparison between a crossed-out high monthly fee and a cheaper monthly fee.
+
+Canvas: Vertical 3:4 thumbnail, 768×1024 style, optimized for mobile readability. Use a dark navy-to-deep-purple gradient background with a subtle spotlight glow behind the person. Keep all main text inside safe margins and make it extremely large, high-contrast, and legible.
+
+Layout: At the very top, place exactly 2 hanging price tags suspended by thin strings: left tag is red, tilted slightly, with the text {argument name="old price text" default="月15,000円"} in bold white and a thick white diagonal strike-through line; right tag is neon green, tilted slightly, glowing, with the text {argument name="new price text" default="月3,000円"} in bold white. Below the tags, center a huge white headline with black shadow: {argument name="headline text" default="その課金、まだ早い"}. Under the headline, add one bright yellow rectangular banner spanning nearly the full width, with bold black text: {argument name="subheadline text" default="月3,000円で足りる21の使い方"}.
+
+Subject details: In the lower half, show a realistic studio-cutout portrait of a smiling young Japanese woman with long black hair and bangs, wearing a beige knit sweater. She faces the camera, raises her left hand open toward the viewer in a clear “stop/wait” gesture, and holds a gold credit card in her right hand. Use natural skin tones, clean beauty lighting, and a crisp cutout edge.
+
+Decorative elements: Add exactly 3 small floating gold yen coins with embossed yen symbols: one on the left upper-middle area, one near the lower-left edge, and one on the right-middle area. Add exactly 2 white speech/chat bubbles with three dark dots: one on the left side near the raised hand and one on the right side near the headline/shoulder area. Do not add extra coins, bubbles, icons, logos, or watermarks.
+
+Visual style: High-impact Japanese social media thumbnail, glossy 3D accents, strong drop shadows, neon glow on the green tag, clean compositing, sharp typography, saturated colors, professional viral-cover design. Make the text accurate and not garbled.
+```
+
+**来源：** [@ラーテル](https://x.com/HoneyBadger_Min/status/2078847841267753386) | 2026-07-19
+
+---
+
+### 🖥️ 例 4506：Felt GPT Image 2 Apple Design 横幅海报
+
+![Felt GPT Image 2 Apple Design 横幅海报](../images/Felt%20GPT%20Image%202%20Apple%20Design%20%E6%A8%AA%E5%B9%85%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个宽幅文章英雄海报，采用柔和的手工毛毡与织物工艺风格，引入 {argument name="headline text" default="GPT Image 2 × apple-design"} 以及 6 个动态 UI 示例。
+
+画布：水平 2:1 海报，温暖的奶油色织物背景，柔和的摄影棚灯光，微妙的阴影，富有质感的缝合材料，毛毡贴花字母和毛绒物体。
+
+布局：左半部分为粗体排版；中心展示两个带有动画/对比标注的智能手机 UI 模型；右侧有一个可爱的毛绒猫咪 Agent 角色，手持设计评审道具。
+
+文本内容：左侧的大型堆叠标题文字为：深青色毛毡材质的“GPT”，红色毛毡材质的“Image 2”，一个小的深青色“×”，以及红色毛毡材质的“apple-design”。在下方添加一条缝合分割线，然后是日语副标题：{argument name="subheading text" default="6つの動くUIを作ってみた"}。在左下角，添加一个深青色圆角缝合标签，内含奶油色文字：{argument name="bottom label text" default="Image Gen から実装・比較・修正まで"}。
+
+中央 UI 模型：展示 2 个修长的圆角智能手机卡片。每部手机顶部都有一个圆形 apple 图标，下方有三行堆叠列表，以及一个底部圆角按钮区域。列表行使用 3 个图标：樱桃、心形和齿轮，每个图标旁都有灰色占位符文本行。左侧手机看起来略显粗糙且色彩暗淡；右侧手机看起来精致、明亮且整洁。
+
+标注元素：在手机之间及周围，展示 4 个对比/测量标注：1 个顶部虚线胶囊形状，显示带有红色测量线的对齐/间距；1 个中央虚线框，标注“44 px”；1 个底部转换标注，用红色 X 通过箭头指向绿色勾号；以及 1 个围绕右侧精致手机底部按钮的虚线轮廓。包含 2 个红色 X 徽章和 2 个绿色勾号徽章。使用青色虚线引导线将标注连接到 UI 区域。
+
+右侧角色：添加一个小型米色毛毡毛绒猫咪吉祥物，带有缝合线、红色圆框眼镜、蓝色大眼睛、细小的胡须和卷曲的尾巴。它手持 2 个道具：一只爪子拿着黑色放大镜，另一只爪子拿着顶部带有树莓状绒球的红色魔法棒。角色情绪欢快、聪明且具有指导性。
+
+视觉风格：将 Apple 风格的简洁 UI 构图转化为柔软的毛毡工艺，刺绣边缘，凸起的织物字母，圆角，舒适的手工质感，浅景深，奶油色/红色/深青色调，搭配青色标注线和灰色 UI 占位符。
+
+约束：保持海报简洁、易读且居中。完整保留所有指定的日语文本。不使用水印，不使用照片级真实的金属或玻璃材质，除 2 部手机外，不添加额外的 UI 卡片。
+
+[English]
+Goal: Create a wide article hero banner in a soft handmade felt-and-fabric craft style, introducing {argument name="headline text" default="GPT Image 2 × apple-design"} and six moving UI examples.
+
+Canvas: Horizontal 2:1 banner, warm cream fabric background, soft studio lighting, subtle shadows, tactile stitched materials, felt appliqué letters and plush objects.
+
+Layout: Left half is bold text typography; center shows two smartphone UI mockups with animation/comparison annotations; right side has a cute plush cat assistant character holding design-review props.
+
+Text content: Large stacked headline on the left reads exactly “GPT” in dark teal felt, “Image 2” in red felt, a small dark teal “×”, then “apple-design” in red felt. Under it, add a stitched divider line, then Japanese subheading text: {argument name="subheading text" default="6つの動くUIを作ってみた"}. At the bottom left, add a dark teal rounded stitched label with cream text: {argument name="bottom label text" default="Image Gen から実装・比較・修正まで"}.
+
+Central UI mockups: Show exactly 2 tall rounded smartphone cards. Each phone has a circular apple icon at the top, three stacked list rows below, and one bottom rounded button area. The list rows use exactly 3 icons: cherries, heart, and gear, each with gray placeholder text lines. The left phone looks slightly less refined and washed out; the right phone looks polished, brighter, and cleaner.
+
+Annotation elements: Between and around the phones, show exactly 4 comparison/measurement callouts: 1 top dashed pill showing alignment/spacing with a red measurement line, 1 central dashed box reading “44 px”, 1 bottom transformation callout with a red X leading by arrow to a green check, and 1 dashed outline around the polished right phone’s bottom button. Include exactly 2 red X badges and exactly 2 green check badges. Use cyan dashed guide lines connecting the callouts to the UI areas.
+
+Right character: Add a small beige felt plush cat mascot with stitched seams, red round glasses, large blue eyes, tiny whiskers, and a curled tail. It holds exactly 2 props: a black magnifying glass in one paw and a red magic wand topped with a raspberry-like pom-pom in the other. Character mood is cheerful, clever, and instructional.
+
+Visual style: Apple-inspired clean UI composition translated into soft felt craft, embroidered edges, raised fabric letters, rounded corners, cozy handmade texture, shallow depth of field, cream/red/dark teal palette with cyan annotation lines and gray UI placeholders.
+
+Constraints: Keep the banner uncluttered, readable, and centered. Preserve all visible Japanese text exactly as specified. Use no watermark, no photo-realistic metal or glass, and no extra UI cards beyond the 2 phones.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2078825475502473339) | 2026-07-19
+
+---
+
+### 🖥️ 例 4507：奢华液态铬金属肖像
+
+![奢华液态铬金属肖像](../images/%E5%A5%A2%E5%8D%8E%E6%B6%B2%E6%80%81%E9%93%AC%E9%87%91%E5%B1%9E%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="aspect ratio" default="4:5"}
+
+一幅照片级真实的奢华编辑肖像，无缝融入流动的 {argument name="material" default="液态铬金属丝带"} 中，并带有 {argument name="colors" default="蓝宝石蓝、翡翠绿、紫罗兰色和熔融金"} 的虹彩变幻反射。
+
+丝带扭曲成不可思议的莫比乌斯环状，而肖像在每个可见角度都保持完全垂直，营造出一种不可能的视觉悖论。
+
+自然的肤色，配以高级电影级调色。
+
+深炭灰色背景。
+
+极简构图。
+
+奢华时尚广告大片。
+
+柔和的体积感摄影棚灯光。
+
+镜面反射。
+
+超写实。
+
+85mm 镜头。
+
+编辑杰作。
+
+超高细节。
+
+无文字，无水印。
+
+[English]
+{argument name="aspect ratio" default="4:5"}
+
+A photorealistic luxury editorial portrait seamlessly integrated into a flowing {argument name="material" default="liquid-chrome ribbon"} with shifting iridescent reflections of {argument name="colors" default="sapphire blue, emerald green, violet, and molten gold"}.
+
+The ribbon twists into impossible Möbius-like loops while the portrait remains perfectly upright from every visible angle, creating an impossible visual paradox.
+
+Natural skin tones with premium cinematic color grading.
+
+Deep charcoal background.
+
+Minimal composition.
+
+Luxury fashion campaign.
+
+Soft volumetric studio lighting.
+
+Mirror-like reflections.
+
+Ultra realistic.
+
+85mm lens.
+
+Editorial masterpiece.
+
+Hyper-detailed.
+
+No text, no watermark.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2078819770443641338) | 2026-07-19
+
+---
+
+### 🖥️ 例 4525：沙漠时尚抹胸人像
+
+![沙漠时尚抹胸人像](../images/%E6%B2%99%E6%BC%A0%E6%97%B6%E5%B0%9A%E6%8A%B9%E8%83%B8%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="ethnicity" default="年轻韩国女性"} 穿着一件 {argument name="swimsuit style" default="驼色抹胸泳衣"}，身后拖着一条白色纱巾，置身于 {argument name="setting" default="龟裂的沙漠地面"} 上。正午的太阳直射头顶，产生强烈的对比和极少的柔和阴影。中近景拍摄，略微仰角，她的目光看向画外，背景可见沙漠山脊线但处于深度虚化状态。竖构图人像，2:3 纵横比。以摄影写实风格渲染：阴影区域带有细微的 ISO 400 胶片颗粒感，避免过度平滑的 CG 质感。皮肤：次表面散射和微纹理。头发：细微的自然瑕疵。
+
+[English]
+A {argument name="ethnicity" default="young Korean woman"} wears a {argument name="swimsuit style" default="camel bandeau swimsuit"} with a white gauze wrap trailing across the {argument name="setting" default="cracked desert floor"} behind her. Midday sun is directly overhead, producing hard contrast and minimal soft shadow. Medium close shot, slightly low angle, her gaze directed off-camera, desert ridgeline visible but heavily out of focus behind her. Vertical portrait orientation, 2:3 aspect ratio. Render with photographic realism: subtle ISO 400 film grain in shadow areas, avoid over-smoothed CG textures. Skin: subsurface scattering and micro-texture. Hair: subtle natural imperfection.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2078751700136202512) | 2026-07-19
+
+---
+
+### 🖥️ 例 4527：Lumen iOS 健康应用模型
+
+![Lumen iOS 健康应用模型](../images/Lumen%20iOS%20%E5%81%A5%E5%BA%B7%E5%BA%94%E7%94%A8%E6%A8%A1%E5%9E%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="app name" default="Lumen"} 创建一个精致的 iOS 风格健康应用模型，这是一款浅色调的心情与呼吸追踪器，采用柔和的苹果风格磨砂玻璃拟态和日文 UI 文本。
+
+画布：垂直手机截图，9:16 纵横比，约 563 × 1008 像素。使用轻盈的奶油白色背景，底部和边缘带有朦胧的水彩风景，包含精致的山脉、芦苇，以及一条贯穿中心垂直延伸的微光轨迹，顶部呈暖桃色，底部呈淡蓝色。
+
+布局：在左上角放置应用标题，使用精致的衬线字体，大号黑色文本显示“Lumen”，下方配有较小的深灰色日文副标题“今日の光”。右上角放置一个圆形的汉堡菜单按钮，带有三条深色水平线和柔和阴影。
+
+主要 UI 元素：在中心垂直堆叠 5 张悬浮的圆角玻璃卡片/按钮：
+1. 顶部小胶囊卡片：左侧为暖桃色太阳图标，标签为“集中”，时间为“10:20”，右侧有一个橙色小状态点。
+2. 中间选中胶囊卡片：较大的白色半透明胶囊，带有青色发光轮廓，左侧为青色圆形波浪/呼吸图标，标签为“穏やか”，时间为“15:40”，右侧有一个青色小状态点。在此胶囊底部中心添加一个小向下凹槽，在视觉上连接下方的展开卡片。
+3. 展开的心情输入卡片：大型圆角白色半透明面板。左上角有相同的青色波浪图标、标题“穏やか”，右上角有一个带有“×”的圆形关闭按钮。以大号字体显示时间“15:40”。包含一个水平心情滑块，正好分为 3 个可见部分：左侧为悲伤表情图标，中间为青色到灰色的滑块轨道（滑块旋钮位于中心偏右），右侧为快乐表情图标。下方包含一个圆角文本输入框，内含“深呼吸のあと、少し軽くなった”，右侧有一个小铅笔图标。底部包含一个大型青色渐变圆角按钮，标签为“記録する”。
+4. 下方小胶囊卡片：左侧为蓝色月亮与星星图标，标签为“回復”，时间为“20:45”，右侧有一个蓝色小状态点。
+5. 底部导航/操作栏：底部附近有一个宽大的半透明圆角胶囊。包含 3 个圆形控件：左侧为带有柱状图图标的小圆形按钮，中间为较大的发光金色圆形按钮，右侧为带有心形轮廓的小圆形按钮。在发光按钮下方显示标签“気分を追加”。
+
+视觉风格：极简高端 iOS 应用设计，半透明磨砂玻璃表面，圆角，柔和的投影，细腻的深度，整洁的间距，宁静的健康氛围。使用暖桃色、薄荷青、淡蓝色、奶油白和炭灰色字体。图标应为简单的线条图标，并具有 iOS 原生感。
+
+约束：保持所有可见的日文文本与指定内容完全一致。不要添加额外的卡片、多余的文字、Logo、水印、设备边框或状态栏。该模型应看起来像是一个生成的应用 UI 概念，而不是真实安装应用的截图。
+
+[English]
+Goal: Create a polished iOS-style wellness app mockup for {argument name="app name" default="Lumen"}, a light-themed mood and breathing tracker, with soft Apple-inspired glassmorphism and Japanese UI text.
+
+Canvas: Vertical mobile screenshot, 9:16 aspect ratio, approximately 563 × 1008 px. Use an airy cream-white background with a misty watercolor landscape at the bottom and edges, subtle mountains, reeds, and a glowing winding light trail running vertically through the center in warm peach near the top and pale blue near the bottom.
+
+Layout: Place the app title at top left in a refined serif font, large black text reading “Lumen”, with the subtitle “今日の光” underneath in smaller dark gray Japanese text. Place one circular hamburger menu button at top right with three dark horizontal lines and a soft shadow.
+
+Main UI elements: Use exactly 5 floating rounded glass cards/buttons stacked vertically down the center:
+1. Top small pill card: warm peach sun icon on the left, label “集中”, time “10:20”, and one small orange status dot on the right.
+2. Middle selected pill card: larger white translucent pill with teal glow outline, teal circular wave/breath icon on the left, label “穏やか”, time “15:40”, and one small teal status dot on the right. Add a small downward notch centered at the bottom of this pill, visually connecting to the expanded card below.
+3. Expanded mood entry card: large rounded white translucent panel. Top left has the same teal wave icon, title “穏やか”, and a circular close button with an “×” at top right. Show the time “15:40” in large text. Include one horizontal mood slider with exactly 3 visible parts: a sad face icon on the left, a teal-to-gray slider track with the knob slightly right of center, and a happy face icon on the right. Beneath it, include a rounded text input containing “深呼吸のあと、少し軽くなった” with a small pencil icon on the right. At the bottom, include a large teal gradient rounded button labeled “記録する”.
+4. Lower small pill card: blue moon-and-star icon on the left, label “回復”, time “20:45”, and one small blue status dot on the right.
+5. Bottom navigation / action bar: wide translucent rounded capsule near the bottom. It contains exactly 3 circular controls: left small circular button with a bar chart icon, center larger glowing golden circular button, and right small circular button with a heart outline. Under the center glowing button, show the label “気分を追加”.
+
+Visual style: Minimal premium iOS app design, translucent frosted glass surfaces, rounded corners, soft drop shadows, delicate glow, subtle depth, clean spacing, calm wellness atmosphere. Use warm peach, mint teal, pale blue, cream white, and charcoal typography. Icons should be simple line icons and feel native to iOS.
+
+Constraints: Keep all visible Japanese text exactly as specified. Do not add extra cards, extra text, logos, watermarks, device frame, or status bar. The mockup should look like a generated app UI concept rather than a screenshot of a real installed app.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2078747382108520806) | 2026-07-19
+
+---
+
+### 🖥️ 例 4530：Apple Design Skill 影响矩阵
+
+![Apple Design Skill 影响矩阵](../images/Apple%20Design%20Skill%20%E5%BD%B1%E5%93%8D%E7%9F%A9%E9%98%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精致的 Apple 风格日式对比矩阵信息图，展示哪些 Apple Design Skill 审查项在三个产品中具有实现影响：{argument name="product column names" default="Flow River, Orbit Canvas, Arc Day"}。
+
+画布：垂直肖像海报，768 × 1152 px，暖米白色背景，带有细微的纸张纹理，右上角有淡淡的薄荷色渐变光晕。中心放置一张带有柔和阴影的大型圆角白色表格卡片，留出宽裕的边距。使用克制的 Apple 式编辑风格：简洁的网格、细分割线、圆角状态符号，配色采用柔和的青色、淡黄色、灰粉色和灰色。
+
+页眉：左上角为小型大写青色标签“APPLE DESIGN SKILL · IMPLEMENTATION IMPACT”。下方为大型日语标题 {argument name="headline text" default="技能影响的设计项"}。标题下方添加一段简短的灰色日语说明，解释这些是按实现影响总结的 Apple Design Skill 项目，并按初始原型、技能原则以及后续修正/实现工作进行分组。右上角放置一个紧凑的图例，包含 4 个状态符号：青色圆圈 = 合格，黄色三角形 = 一部，红色 X = 未对应，灰色横杠 = 对象外。
+
+主布局：一个包含 5 列的宽表格：“技能编号”、“Apple Design 审查项目”以及由 {argument name="product column names" default="Flow River, Orbit Canvas, Arc Day"} 命名的 3 个产品列。使用深炭灰色表头行，白色文字。前两列较宽；三个产品列等宽。项目编号左对齐（青色），项目描述左对齐（加粗深色文字），状态符号居中。
+
+部分：使用 4 个带有彩色带状表头的分组：
+1. 青色带：“A. 技能影响明确的项目　实现、修正、打磨验证已完成　SKILL IMPACT”。包含 17 行：§1 Pointer-down 即时响应；§2 Pointer Events・1:1 跟随・Pointer Capture；§3 动作中可重新抓取的中断可能性；§4 针对远离对象的弹簧采用；§5 将手指速度继承给弹簧；§7 往返路径的对称性・操作源锚点；§9 边界处的阶段性橡皮筋阻力；§12 半透明 Material 实现的层级与深度；§12 根据 Surface 大小的 Blur・Shadow 重量；§14 Reduced Transparency 下的 Solid 化；§14 Prefers Contrast 下的边界强化；§16.1 Purpose：目的明确且抑制多余功能；§16.6 Simplicity：主要功能与信息层级的清晰度；§16.7 Craft：文字・间距・动作的意图精度；§16 Wayfinding：当前位置・目的地・退出方法；§16 Grouping & Mapping：操作与对象的邻近性；§17 Visual 与 Interaction 的一体化设计。
+2. 淡黄色带：“B. 部分影响・需要改善的项目　已反映原则但非完全实现”。包含 10 行：§6 从速度开始预测的 Momentum Projection；§8 中间帧显示操作结果方向；§10 点击留白・拖拽阈值・取消设计；§11 帧质量・面向 compositor 的更新；§14 Reduced Motion 下的语义化动作置换；§15 不同尺寸的 Tracking・Leading・Weight 层级；§16.2 Agency：选择・取消・从失败中恢复；§16.4 Familiarity：已知隐喻与可预测行为；§16.8 Delight：由留白质量产生的高昂感；§16 状态・完成・警告・错误的 Feedback。
+3. 灰粉色带：“C. 未对应・未验证项目　技能指出的下一阶段改善对象”。包含 3 行：§15 适配 Dynamic Type 的 Layout 扩展；§16.5 Flexibility：对状况・环境・能力的适应；§17 实际使用时・实际环境下的测试。
+4. 浅灰色带：“D. 功能特性上的对象外　非未达成，而是本次 UI 中无适用领域”。包含 2 行：§13 声音・触觉的同步／即时性／有用性整合；§16.3 Responsibility：安全・隐私・透明度。
+
+状态模式：填充所有 32 个项目行的居中符号。A 部分主要为青色圆圈，Flow River 和 Arc Day 中包含少量灰色横杠，以匹配部分不适用情况的外观。B 部分混合了青色圆圈、黄色三角形和灰色横杠，其中点击留白/拖拽阈值/取消设计行中间产品列包含一个红色 X。C 部分主要为红色 X，右侧部分单元格包含黄色三角形。D 部分在所有三个产品列中使用灰色横杠。符号需小巧、圆润、带有轻微色调，并与图例保持一致。
+
+页脚：左下角添加简短的灰色日语备注，以“总括方针：”开头，右下角添加小型来源说明 {argument name="source note" default="Source: apple-design SKILL.md §9–17"}。保持表格清晰易读，无装饰性插图，无人像，除文本标签外无 Logo，无水印。
+
+[English]
+Goal: Create a polished Apple-style Japanese comparison matrix infographic showing which Apple Design Skill review items have implementation impact across three products: {argument name="product column names" default="Flow River, Orbit Canvas, Arc Day"}.
+
+Canvas: Vertical portrait poster, 768 × 1152 px, warm off-white background with subtle paper grain and a faint mint gradient glow near the top right. Center a large rounded white table card with a soft shadow, leaving generous margins. Use a restrained Apple-like editorial style: clean grid, thin dividers, rounded status symbols, muted teal, pale yellow, dusty pink, and gray.
+
+Header: At top left, small uppercase teal label “APPLE DESIGN SKILL · IMPLEMENTATION IMPACT”. Below it, large Japanese headline {argument name="headline text" default="スキルが効いた設計項目"}. Under the headline, add a small gray Japanese description explaining that these are Apple Design Skill items summarized by implementation impact and grouped by initial prototype, skill principles, and later correction/implementation work. At top right place a compact legend with exactly 4 status symbols: teal circle = 合格, yellow triangle = 一部, red X = 未対応, gray dash = 対象外.
+
+Main layout: A wide table with exactly 5 columns: “スキル番”, “Apple Designレビュー項目”, and the 3 product columns named by {argument name="product column names" default="Flow River, Orbit Canvas, Arc Day"}. Use a dark charcoal header row with white text. First two columns are wider; three product columns are equal width. Align item numbers left in teal, item descriptions left in bold dark text, and status symbols centered.
+
+Sections: Use exactly 4 grouped sections with colored band headers:
+1. Teal band: “A. スキルが明確に効いた項目　実装・修正・ブラッシュアップ検証まで完了　SKILL IMPACT”. Contains exactly 17 rows: §1 Pointer-downで即時反応; §2 Pointer Events・1:1追従・Pointer Capture; §3 動作中に掴み直せる中断可能性; §4 離れる対象へのスプリング採用; §5 指の速度をスプリングへ引き継ぐ; §7 往復経路の対称性・操作元へのアンカー; §9 境界での段階的なラバーバンド抵抗; §12 半透明Materialによる階層と奥行き; §12 Surfaceサイズに応じたBlur・Shadow重量; §14 Reduced TransparencyでSolid化; §14 Prefers Contrastで境界を強化; §16.1 Purpose：目的が明確で不要機能を抑制; §16.6 Simplicity：主要機能と情報階層の明快さ; §16.7 Craft：文字・間隔・動作の意図的な精度; §16 Wayfinding：現在地・行先・退出方法; §16 Grouping & Mapping：操作と対象の近接; §17 VisualとInteractionを一体設計.
+2. Pale yellow band: “B. 一部効いた・改善が必要な項目　原則は反映したが完全実装ではない”. Contains exactly 10 rows: §6 速度から開始する予測するMomentum Projection; §8 途中フレームが操作結果の方向を示す; §10 タップ余白・ドラッグ閾値・キャンセル設計; §11 フレーム品質・compositor向け更新; §14 Reduced Motionで意味的動きへ置換; §15 サイズ別Tracking・Leading・Weight階層; §16.2 Agency：選択・取り消し・失敗からの回復; §16.4 Familiarity：既知の比喩と予測可能な挙動; §16.8 Delight：余白品質から生まれる高揚感; §16 状態・完了・警告・エラーのFeedback.
+3. Dusty pink band: “C. 未対応・未検証項目　スキルが示す次の改善対象”. Contains exactly 3 rows: §15 Dynamic Typeに合わせたLayout拡張; §16.5 Flexibility：状況・環境・能力への適応; §17 実利用時・実環境でのテスト.
+4. Light gray band: “D. 機能特性上の対象外　未達ではなく、今回のUIに適用領域がない”. Contains exactly 2 rows: §13 音・触覚を同期／即時性／有用性で統合; §16.3 Responsibility：安全・プライバシー・透明性.
+
+Status pattern: Populate all 32 item rows with centered symbols. Section A is mostly teal circles, with a few gray dashes in Flow River and Arc Day matching the look of partial non-applicable cases. Section B mixes teal circles, yellow triangles, and gray dashes, including one red X in the middle product column on the row for tap margin/drag threshold/cancel design. Section C is mostly red X marks, with yellow triangles in some right-side cells. Section D uses gray dashes across all three product columns. Make the symbols small, rounded, lightly tinted, and consistent with the legend.
+
+Footer: Add a tiny gray Japanese note at bottom left beginning with “総括方針：” and a small source note at bottom right {argument name="source note" default="Source: apple-design SKILL.md §9–17"}. Keep the table crisp and readable, no decorative illustrations, no people, no logos besides the text label, no watermark.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2078739033946255619) | 2026-07-19
+
+---
+
+### 🖥️ 例 4534：毛毡手工风 Apple 设计 UI 横幅
+
+![毛毡手工风 Apple 设计 UI 横幅](../images/%E6%AF%9B%E6%AF%A1%E6%89%8B%E5%B7%A5%E9%A3%8E%20Apple%20%E8%AE%BE%E8%AE%A1%20UI%20%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅社交媒体横幅，采用温馨的手工毛毡工艺风格，主题为构建 Apple 设计风格的 UI，将可爱的针毡制品与半透明的未来感界面模型相结合。
+
+画布：1200 × 628 像素横向横幅，柔和的奶油色织物背景，浅景深，温馨的灯光，整体呈现出真实的羊毛毡质感。
+
+布局：左半部分包含左对齐的大号日文标题文本。右半部分包含一只可爱的毛毡猫咪吉祥物，旁边是一个发光的半透明移动端 UI 卡片。底边装饰有小型毛毡文具和工艺道具。
+
+文本内容：左侧使用 3 行可见文本：第一行 {argument name="headline first line" default="apple-designで"} 为深青色，采用超大号粗体圆角无衬线字体；第二行 {argument name="headline second line" default="UIを作ってみた"}，其中“UI”为亮红色，其余字符为黑色，采用相同的粗体样式；第三行 {argument name="subheadline text" default="見た目より「挙動」が大事だった"} 为较小的深青色/黑色文本，引号内的词汇「挙動」用红色强调。
+
+主体细节：在右侧放置 1 只奶油色的针毡猫咪吉祥物，站立在椭圆形毛毡底座上。猫咪戴着红色圆框眼镜，拥有硕大的青色与奶油色双眼、小巧的黑色鼻子和嘴巴、弯曲的尾巴、缝合的边缘，手中拿着 1 根顶部带有红色绒球花的红色指示棒。在猫咪后方略偏左的位置，展示 1 个半透明的悬浮智能手机风格 UI 面板，略微倾斜，具有磨砂玻璃层和淡青色光晕。UI 面板包含 1 个环形图、3 个小型彩色状态圆点、3 行堆叠列表以及 3 个类似于主页、购物车和餐具的圆形菜单图标。添加 1 只发光的青色手势手/手指触碰面板顶部，上方有 1 个向上箭头，以及 1 条循环的发光运动轨迹，向下并横跨底部，以暗示交互行为。
+
+底部及角落道具：包含 6 个装饰性毛毡道具：左下角 1 个螺旋笔记本角，带有米色封面和黑色螺旋装订；笔记本上有 1 对带绿色梗的红色毛毡樱桃；中左底部附近有 1 小叠金色毛毡硬币；1 个深青色毛毡计算器，带有奶油色按钮以及 1 个红色按钮和 1 个绿色按钮；左上角裁剪有 1 个红色毛毡云朵形状；右下角裁剪有 1 个带有红色浆果的深青色叶片毛毡装饰。
+
+视觉风格：照片级真实的微缩毛毡立体模型，融合简洁的编辑排版和发光 UI 特效；柔和的阴影、圆润的造型、可见的针脚、羊毛纤维、柔和的色彩，呈现 Apple 式的极简主义，且不使用任何 Apple 官方标志。
+
+约束条件：保持构图通透且易读，除指定的 3 行文本外不要添加额外文字，无水印，无照片级真实人手，无硬塑料质感，避免在 UI 卡片上堆砌无法辨认的微小文字。
+
+[English]
+Goal: Create a wide social media banner in a warm handmade felt-craft style about building an Apple-design UI, combining cute needle-felt objects with a translucent futuristic interface mockup.
+
+Canvas: 1200 × 628 px horizontal banner, soft cream fabric background, shallow depth of field, cozy lighting, tactile wool-felt texture throughout.
+
+Layout: Left half contains large Japanese headline text aligned left. Right half contains a cute felt cat mascot beside a glowing translucent mobile UI card. Bottom edge is decorated with small felt stationery and craft props.
+
+Text content: Use exactly 3 visible text lines on the left: first line {argument name="headline first line" default="apple-designで"} in dark teal, very large bold rounded sans-serif; second line {argument name="headline second line" default="UIを作ってみた"} with “UI” in bright red and the remaining characters in black, same bold style; third line {argument name="subheadline text" default="見た目より「挙動」が大事だった"} in smaller dark teal/black text, with the quoted word 「挙動」 emphasized in red.
+
+Main subject details: On the right, place 1 cream-colored needle-felt cat mascot standing on an oval felt base. The cat has red round glasses, large teal-and-cream eyes, tiny black nose and mouth, a curved tail, stitched edges, and holds 1 red pointer wand topped with 1 red pom-pom flower. Behind and slightly left of the cat, show 1 semi-transparent floating smartphone-style UI panel tilted slightly, with frosted glass layers and a pale cyan glow. The UI panel contains exactly 1 donut chart, 3 small colored circular status dots, 3 stacked list rows, and 3 circular menu icons resembling home, shopping cart, and utensils. Add 1 glowing cyan gesture hand/finger touching the top of the panel, 1 upward arrow above it, and 1 looping glowing motion trail sweeping downward and across the bottom to suggest interaction behavior.
+
+Bottom and corner props: Include exactly 6 decorative felt props: 1 spiral notebook corner at bottom left with beige cover and black spiral binding, 1 pair of red felt cherries with green stems on the notebook, 1 small stack of gold felt coins near the center-left bottom, 1 dark teal felt calculator with cream buttons plus 1 red button and 1 green button, 1 red felt cloud shape cropped in the top-left corner, and 1 dark teal leafy felt decoration with red berries cropped at bottom-right.
+
+Visual style: Photorealistic miniature felt diorama mixed with clean editorial typography and glowing UI effects; soft shadows, rounded forms, visible stitches, wool fibers, pastel colors, Apple-like minimalism without using any official Apple logo.
+
+Constraints: Keep the composition airy and readable, no extra text beyond the 3 specified lines, no watermark, no photo-real human hands, no hard plastic texture, and avoid cluttering the UI card with unreadable microtext.
+```
+
+**来源：** [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch/status/2078725811876860231) | 2026-07-19
+
+---
+
+### 🖥️ 例 4537：岩石沙漠挂脖泳装人像
+
+![岩石沙漠挂脖泳装人像](../images/%E5%B2%A9%E7%9F%B3%E6%B2%99%E6%BC%A0%E6%8C%82%E8%84%96%E6%B3%B3%E8%A3%85%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="ethnicity" default="年轻韩国女性"} 站在 {argument name="setting" default="岩石沙漠地面"} 上，身穿一件 {argument name="swimsuit style" default="白色挂脖泳装"}，手臂上松散地披着一条浅色亚麻披肩。正值中午，强烈的头顶阳光在她的锁骨和肩膀上投下边缘清晰的阴影。以 85mm 镜头平视拍摄，特写她的面部和上半身，她向镜头转过四分之三侧身，背景是模糊的砂岩悬崖。暖色调沙漠背景，高对比度的光影。竖构图人像，2:3 宽高比。以摄影写实风格渲染：阴影区域带有细微的 ISO 400 胶片颗粒感，避免过度平滑的 CG 纹理，保留整体的自然瑕疵。皮肤：呈现次表面散射和微纹理，而非数字平滑处理。头发：呈现自然的细微不完美，而非几何般的完美。
+
+[English]
+A {argument name="ethnicity" default="young Korean woman"} stands on {argument name="setting" default="rocky desert ground"}, wearing a {argument name="swimsuit style" default="white halter swimsuit"} with a pale linen wrap draped loosely over one arm. It is midday, with harsh overhead sun creating hard-edged shadows across her collarbone and shoulders. Shot at eye level with an 85mm lens, close-up framing on her face and upper torso as she turns three-quarters toward camera, blurred sandstone cliffs behind her. Warm desert tones, high contrast light and shadow. Vertical portrait orientation, 2:3 aspect ratio. Render with photographic realism: subtle ISO 400 film grain in shadow areas, avoid over-smoothed CG textures, preserve natural imperfections throughout. Skin: subsurface scattering and micro-texture, not digital smoothing. Hair: subtle natural imperfection, not geometric perfection.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2078691297699733947) | 2026-07-19
+
+---
+
+### 🖥️ 例 4543：马卡龙色系甜点精灵诊断卡
+
+![马卡龙色系甜点精灵诊断卡](../images/%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%E7%94%9C%E7%82%B9%E7%B2%BE%E7%81%B5%E8%AF%8A%E6%96%AD%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为甜点精灵测试制作一张马卡龙色系的可爱动漫诊断卡，背景设定在糖果店奇幻场景中，主角是一位欢快的棉花糖精灵女孩。
+
+画布：1:1 正方形插画，柔和的高分辨率动漫风格，淡粉色与天蓝色调，梦幻水彩光影，闪光效果，半透明叠加层，精致的奶油粉色边框。
+
+主体：画面中心是一位可爱的动漫精灵女孩，拥有飘逸的 {argument name="hair color" default="浅金色"} 长发，闪烁着大大的淡紫色双眸，脸颊红润，笑容灿烂。她身穿带有粉色丝带、蕾丝、蝴蝶结的白色与淡蓝色露肩精灵裙，佩戴珍珠耳环、丝带颈圈，头戴蓬松的棉花糖发饰。身后有巨大的半透明虹彩精灵翅膀，带有精致的脉络纹理和闪粉。她一手拿着粉蓝色的棉花糖，另一手拿着小星星魔杖或星星挂饰。
+
+背景与道具：场景充满奇幻糖果店氛围：玻璃糖果罐、马卡龙色棉花糖云朵、丝带、彩旗、粉蓝色糖果、小爱心、星星以及柔和的亮光。整体风格细腻、轻盈、甜美，避免生硬的阴影。
+
+布局与文字：顶部放置一个大型圆润装饰牌，显示日文标题 {argument name="headline text" default="スイーツ妖精診断"}，使用厚实的亮面气泡字体，前半部分为粉色，后半部分为蓝色，牌子下方装饰一个小粉色蝴蝶结。中下部放置一个粉色丝带标签，写着 {argument name="result label" default="診断結果："}。下方创建一个大型精致的白色铭牌，显示主要结果文字 {argument name="result name" default="わたあめ"}，使用大号圆润的粉色日文字体。右侧附带一个扇形圆形徽章，包含 {argument name="user name" default="のぞむ"}。在结果名称下方，添加一行较小的说明文字「妖精タイプ：」，并在其下方写上「わたあめ妖精」。
+
+底部属性面板：底部整齐排列 4 张独立的圆角属性卡片，每张卡片包含图标、日文标签、大号数字和进度条。卡片 1：糖果图标，标签「甘さ」，数值 95，粉色进度条。卡片 2：星星图标，标签「透明度」，数值 90，蓝色进度条。卡片 3：棉花糖云朵图标，标签「香り」，数值 85，紫色进度条。卡片 4：爱心图标，标签「ときめき」，数值 100，粉色进度条，末端带有一颗小星星。
+
+视觉风格：超萌少女漫插画，精致的 gpt-image-2 质感，柔和的马卡龙色渐变，纤细精致的线条，类似 UI 的光泽面板，装饰性蕾丝边角，闪光效果，棉花糖质感，魔法少女美学。文字必须清晰、居中、易读，并与设计融为一体。避免写实风格、深色调、杂乱且难以辨认的文字或多余的属性卡片。
+
+[English]
+Goal: Create a pastel kawaii anime diagnosis card for a sweets fairy quiz, featuring a cheerful cotton-candy fairy girl in a candy shop fantasy setting.
+
+Canvas: Square 1:1 illustration, soft high-resolution anime style, pale pink and sky-blue palette, dreamy watercolor lighting, sparkles, translucent overlays, ornate cream-and-pink frame.
+
+Main subject: Center a cute young anime fairy girl with long flowing {argument name="hair color" default="light blonde"} hair, large sparkling lavender eyes, rosy cheeks, and an open happy smile. She wears a frilly white and pastel blue off-shoulder fairy dress with pink ribbons, lace, bows, pearl earrings, a ribbon choker, and a fluffy cotton-candy hair accessory. Add large translucent iridescent fairy wings behind her with delicate vein patterns and glitter. She holds a pastel pink-and-blue cotton candy stick in one hand and a small star wand or star charm in the other.
+
+Background and props: Fill the scene with a fantasy sweets shop atmosphere: glass candy jars, pastel cotton candy clouds, ribbons, bunting, pink and blue sweets, tiny hearts, stars, and soft glowing highlights. Keep everything delicate, airy, and sugary, with no harsh shadows.
+
+Layout and text: At the top, place a large rounded decorative sign with the Japanese headline {argument name="headline text" default="スイーツ妖精診断"}, using thick glossy bubble lettering, pink for the first part and blue for the second part, with a small pink bow under the sign. In the middle-lower area, place a pink ribbon label reading {argument name="result label" default="診断結果："}. Below it, create a large ornate white nameplate with the main result text {argument name="result name" default="わたあめ"} in big rounded pink Japanese characters. Attach a circular scalloped badge on the right side containing {argument name="user name" default="のぞむ"}. Under the result name, add a smaller caption line reading 「妖精タイプ：」 and below it 「わたあめ妖精」.
+
+Bottom stats panel: Add exactly 4 separate rounded stat cards along the bottom, each with an icon, Japanese label, large number, and progress bar. Card 1: candy icon, label 「甘さ」, value 95, pink progress bar. Card 2: star icon, label 「透明度」, value 90, blue progress bar. Card 3: cotton-candy cloud icon, label 「香り」, value 85, purple progress bar. Card 4: heart icon, label 「ときめき」, value 100, pink progress bar with a small star at the end.
+
+Visual style: Ultra-cute shoujo anime illustration, polished gpt-image-2 look, soft pastel gradients, thin delicate line art, glossy UI-like panels, decorative lace corners, sparkles, cotton-candy texture, magical girl aesthetic. Text must be clean, centered, legible, and integrated into the design. Avoid photorealism, dark colors, cluttered unreadable text, or extra stat cards.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2078682489447391574) | 2026-07-19
+
+---
+
+### 🖥️ 例 4551：日落鸟居森林小径
+
+![日落鸟居森林小径](../images/%E6%97%A5%E8%90%BD%E9%B8%9F%E5%B1%85%E6%A3%AE%E6%9E%97%E5%B0%8F%E5%BE%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级写实风格的景观图，展现黄金时刻宁静的日本神社入口。采用 16:9 宽幅横向构图，画面中心偏左处矗立着一座大型风化木质鸟居，横跨在泥土碎石小径之上；鸟居由两根粗壮的垂直立柱、深色弯曲横梁和下横梁组成，立柱间悬挂着神圣的注连绳，绳上垂下 3 个流苏。小径从前景延伸，穿过鸟居向乡村山谷方向轻微左转。两侧由茂密的森林环绕：左右两侧皆为高大的深色树干与浓密的绿色枝叶，顶部边缘由枝叶形成部分树冠。在鸟居后方，放置一座被藤蔓覆盖的废弃圆柱形混凝土筒仓或塔楼，背光处由右侧透出的低垂暖阳照亮。远景展现柔和的层叠山峦、田野以及点缀着稀疏小云的温暖橙色天空。使用 {argument name="time of day" default="日落黄金时刻"}、{argument name="main landmark" default="风化木质鸟居"}、{argument name="secondary structure" default="藤蔓覆盖的圆柱形混凝土筒仓"}、{argument name="setting" default="乡村日本森林神社小径"} 以及 {argument name="color mood" default="温暖琥珀色、深绿色、高对比度电影感"}。强调逼真的自然光影、长投影、镜头光晕、大气深度、细节丰富的碎石与落叶、富有情绪的对比度、变形宽银幕构图，画面中不包含人物、动物、文字或水印。
+
+[English]
+Create a cinematic photorealistic landscape of a quiet Japanese shrine approach at golden hour. A wide horizontal 16:9 frame shows a large weathered wooden torii gate standing slightly left of center over a dirt-and-gravel path, with two thick vertical pillars, a dark curved top beam, a lower crossbeam, and a sacred shimenawa rope hanging between the pillars with exactly 3 tassels. The path begins in the foreground and curves gently left through the gate toward a rural valley. Dense forest frames both sides: tall dark tree trunks and thick green foliage on the left and right, with leafy branches forming a partial canopy along the top edge. Behind the gate, place a single cylindrical abandoned concrete silo or tower covered with vines, backlit by the low sun peeking from its right side. In the distance show soft layered hills, fields, and a warm orange sky with scattered small clouds. Use {argument name="time of day" default="sunset golden hour"}, {argument name="main landmark" default="weathered wooden torii gate"}, {argument name="secondary structure" default="vine-covered cylindrical concrete silo"}, {argument name="setting" default="rural Japanese forest shrine path"}, and {argument name="color mood" default="warm amber, deep green, high-contrast cinematic"}. Emphasize realistic natural lighting, long shadows, sun flare, atmospheric depth, detailed gravel and leaves, moody contrast, anamorphic widescreen composition, no people, no animals, no text, no watermark.
+```
+
+**来源：** [@ダルトワ★TV](https://x.com/MireilleDartois/status/2078652951963574426) | 2026-07-19
+
+---
+
