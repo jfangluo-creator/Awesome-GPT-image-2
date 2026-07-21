@@ -6176,3 +6176,21 @@ FOX MASK
 
 ---
 
+### 🧍 例 4578：吉卜力工作室风格视觉参考图
+
+![吉卜力工作室风格视觉参考图](../images/%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%A3%8E%E6%A0%BC%E8%A7%86%E8%A7%89%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+动漫视觉参考图，{argument name="art style" default="Studio Ghibli"} 艺术风格，干净的奶油白背景。粗犷清晰的轮廓线，赛璐璐阴影，纯 2D 动漫插画。标题：{argument name="subject" default="CROISSANT"} — 视觉参考图 — {argument name="art style" default="Studio Ghibli"} 风格。成分面板：{argument name="details" default="Raw dough ball"}
+
+[English]
+Anime visual reference sheet, {argument name="art style" default="Studio Ghibli"} art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. Title: {argument name="subject" default="CROISSANT"} — Visual Reference Sheet — {argument name="art style" default="Studio Ghibli"} Style. INGREDIENTS PANEL: {argument name="details" default="Raw dough ball"}
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2079202546288115744) | 2026-07-20
+
+---
+

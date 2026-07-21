@@ -8972,3 +8972,75 @@ Style constraints: Preserve the reference image’s clean anime linework, painte
 
 ---
 
+### 🎨 例 4558：女性兔型机械生物概念设计
+
+![女性兔型机械生物概念设计](../images/%E5%A5%B3%E6%80%A7%E5%85%94%E5%9E%8B%E6%9C%BA%E6%A2%B0%E7%94%9F%E7%89%A9%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身角色概念插画，主角为 {argument name="character type" default="female rabbit mechanoid"}，以自信的正面姿态站立在纯净的暖白色工作室背景中。角色身材高挑且健美，拥有流线型的黑色生物机械躯干、纤细的腰部、修长的机械腿以及一对高耸的兔耳；头部为一个光滑的浅色兔形面具，配有细长的橙色眼睛，额头处饰有一个红色的蝴蝶结状符号。采用引人注目的配色方案：哑光黑色机械部件、奶油白色装甲板以及鲜艳的红色标记。装甲有三个主要的奶油白色斑点区域：覆盖红色圆点的双前臂、覆盖红色斑点的双小腿护甲，以及带有黑色插槽孔和一侧印有醒目红色数字标记的圆形大腿/髋部装甲板。全身包含外露的关节、活塞、螺丝、圆形接口、线缆、层叠的装甲板以及不对称的机械细节。角色双手垂直向下握持一把超大型未来主义步枪，置于双腿之间，步枪采用黑色金属材质，配有红色装饰符号和面板。双脚为带有爪状脚趾的兔形机械爪。采用高细节动漫机甲概念艺术风格渲染，边缘线条锐利，带有细腻的赛璐珞阴影，留白简洁，无文字，无 Logo，无环境背景，无肢体裁剪，从耳朵到脚趾全身可见，垂直 {argument name="aspect ratio" default="2:3"} 构图。
+
+[English]
+Create a full-body character concept illustration of a {argument name="character type" default="female rabbit mechanoid"} standing in a confident frontal pose on a plain warm off-white studio background. The figure is tall and athletic with a sleek black biomechanical torso, narrow waist, long robotic legs, and large upright rabbit ears; the head is a smooth pale rabbit-like mask with small slanted orange eyes and a red bow-like symbol on the forehead. Use a striking color palette of matte black mechanical components, cream-white armor plates, and vivid red markings. The armor has exactly three main cream-white spotted zones: both forearms covered in red circular spots, both lower shin guards covered in red spots, and large rounded hip/thigh armor panels with black socket-like holes and a bold red number-like marking on one side. Include exposed joints, pistons, screws, circular ports, cables, layered plating, and asymmetrical mechanical detailing throughout. The character holds one oversized futuristic rifle vertically downward in both hands, centered between the legs, with black metal construction and red accent glyphs and panels. Feet are rabbit-like mechanical paws with clawed toes. Render in a high-detail anime mecha concept art style, sharp inked edges, subtle cel shading, clean negative space, no text, no logo, no environment, no cropped limbs, full body visible from ears to feet, vertical {argument name="aspect ratio" default="2:3"} composition.
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2079332886910513426) | 2026-07-20
+
+---
+
+### 🎨 例 4571：顽皮的小怪兽兄妹
+
+![顽皮的小怪兽兄妹](../images/%E9%A1%BD%E7%9A%AE%E7%9A%84%E5%B0%8F%E6%80%AA%E5%85%BD%E5%85%84%E5%A6%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖版、充满奇思妙想的家庭生活插画，采用半透明水彩和剪纸拼贴风格，展示两个幼儿化身为深钴蓝色剪影的顽皮小怪兽。较大的孩子，约 {argument name="older child age" default="3 岁"}，位于画面中左侧，体型较大，赤着脚，身穿短袖衬衫和短裤，一只膝盖高高抬起，仿佛在跺脚或跳舞，嘴巴张开做咆哮状，双手像爪子一样举起，头上长着两只白色小恶魔角，身后有一条向左延伸的长长的卷曲怪兽尾巴。较小的孩子，约 {argument name="younger child age" default="快 1 岁"}，站在右下方，体型小得多，赤着脚，穿着荷叶边连体衣，双臂举起，抬头看着较大的孩子，也长着两只白色小角。使用明亮的背光白至水蓝色背景，充满活力的蓝色溅点、气泡、油漆滴、锯齿状漫画爆发形状，边缘点缀着热带叶片剪影。包含 8 个鲜明且顽皮的周围物体：右上侧附近 1 个红色尖刺卡通怪兽，右上角 1 个带有长光芒的黄色太阳，右侧 1 把蓝橙相间的水枪，中右侧 1 个黄色幽灵怪兽，左下中心 1 个红色海星，左下角 1 双浅蓝色幼儿鞋，左下角 1 片西瓜，以及底部中心附近 1 个深蓝色尖刺怪兽头。在左上、右上、右边缘和左下角添加深蓝色叶影，营造夏日户外氛围。保持孩子们主要为剪影形态，但带有柔和的边缘光和清晰的轮廓；整体氛围要混乱、快乐、温柔且怀旧。在右下角添加一个小的手写艺术家签名和日期 {argument name="date text" default="2026 年 7 月 20 日"}。不要包含其他文字，不要写实，不要生硬的轮廓，不要添加额外的孩子。
+
+[English]
+Create a vertical whimsical family-life illustration in translucent watercolor and paper-cut collage style, showing two small children as deep cobalt-blue silhouettes transformed into playful little monsters. The older child, about {argument name="older child age" default="3 years old"}, is large on the left-center, barefoot, wearing a short-sleeve shirt and shorts, one knee lifted high as if stomping or dancing, mouth open in a roar, both hands raised like claws, with two small white devil horns and a long curled monster tail extending left. The younger child, about {argument name="younger child age" default="almost 1 year old"}, stands lower right, much smaller, barefoot, wearing a frilly romper, arms raised, looking up at the older child, also with two small white horns. Use a bright backlit white-to-aqua background filled with energetic blue splashes, bubbles, paint droplets, jagged comic burst shapes, and tropical leaf silhouettes around the edges. Include exactly 8 distinct playful surrounding objects: 1 red spiky cartoon monster near the upper center-right, 1 yellow sun with long rays in the upper right, 1 blue-and-orange water pistol on the right, 1 yellow ghost monster at mid-right, 1 red starfish at lower left-center, 1 pair of light blue toddler shoes at lower left, 1 watermelon slice in the bottom left corner, and 1 dark blue spiky monster head near the bottom center. Add leafy shadows in dark blue at the top left, top right, right edge, and bottom left for a summery outdoor feeling. Keep the children mostly silhouette-like but with soft rim light and readable profiles; make the overall mood chaotic, joyful, tender, and nostalgic. Add a small handwritten artist signature and date {argument name="date text" default="July 20, 2026"} in the bottom right. No other text, no photorealism, no harsh outlines, no extra children.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2079225558836371480) | 2026-07-20
+
+---
+
+### 🎨 例 4610：超现实几何诗意插画
+
+![超现实几何诗意插画](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E5%87%A0%E4%BD%95%E8%AF%97%E6%84%8F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超现实诗意插画，主体为 {argument name="subject" default="[HUMAN]"}，身着 {argument name="clothing" default="[CLOTHING]"}，并伴有 {argument name="animal" default="[ANIMAL]"}，场景设定为 [SCENERY]。使用 [COLOR PALETTE]，修长风格化的比例，长而窄的脸型，细小的杏仁眼，极简的嘴部，简化的几何解剖结构，柔和雕塑般的修剪造型，哑光天鹅绒质感，细腻颗粒感，柔和的低调光影，深青色氛围背景，居中构图，干净的留白，宁静的梦幻氛围，以及手工绘本艺术质感。
+
+[English]
+Surreal poetic illustration of {argument name="subject" default="[HUMAN]"} wearing {argument name="clothing" default="[CLOTHING]"}, accompanied by {argument name="animal" default="[ANIMAL]"}, set in [SCENERY]. Use [COLOR PALETTE], elongated stylized proportions, a long narrow face, small almond eyes, a minimal mouth, simplified geometric anatomy, softly sculpted topiary-like shapes, matte velvety texture, fine grain, muted low-key lighting, a dark teal atmospheric background, centered composition, clean negative space, quiet dreamlike mood, and a handcrafted storybook-art finish.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2079059648301195323) | 2026-07-20
+
+---
+
+### 🎨 例 4613：瓶中的向日葵仙子世界
+
+![瓶中的向日葵仙子世界](../images/%E7%93%B6%E4%B8%AD%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5%E4%BB%99%E5%AD%90%E4%B8%96%E7%95%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的奇幻插画，描绘一个被封存在大型透明药剂玻璃瓶中的微型魔法世界，瓶口塞有软木塞，放置在昏暗魔法书房的一张旧木桌上。瓶内是一个夜晚发光的童话向日葵王国：一位留着波浪长金发、拥有半透明翅膀、身穿橙黄粉紫暖色调花瓣裙的微型向日葵仙子，正站在一座横跨闪烁运河的小型拱形石桥上，手中拿着或被向日葵环绕。在她身后，展示一个由三个主要前景小屋群组成的微型村庄，小屋有温暖的窗灯、红粉色的瓦片屋顶、藤蔓和花朵，并向一座拥有许多细长塔楼和粉色屋顶的发光山顶城堡延伸。加入新月、星光熠熠的深蓝色天空、微小的发光粒子、彩旗、华丽的街灯、水中的倒影，以及桥梁和房屋周围茂盛的向日葵和粉色花朵。玻璃瓶应占据画面主体，呈现逼真的弧形高光、折射、厚瓶口、圆润的瓶肩以及顶部的软木塞。瓶外背景保持柔和模糊，带有温暖的焦外成像效果：左侧有一盏灯笼，右侧是深色的书架和书籍，营造出舒适的琥珀色与蓝色交织的魔法光影。采用超细节的动漫奇幻绘本风格，电影级景深，宝石般的色彩，温暖的金色窗光与冷色调月光形成对比，建筑结构精巧，充满浪漫奇幻氛围，竖构图，无文字，无水印。
+
+[English]
+Create a highly detailed fantasy illustration of a miniature enchanted world sealed inside a large clear glass apothecary bottle with a cork stopper, standing on an old wooden desk in a dim magical study. Inside the bottle is a glowing fairy-tale sunflower kingdom at night: one tiny sunflower fairy girl with long wavy golden-blonde hair, translucent wings, and a layered flower-petal dress in warm orange, yellow, pink, and purple tones stands on a small arched stone bridge over a sparkling canal, holding or surrounded by sunflowers. Behind her, show a dense miniature village of exactly three main foreground cottage clusters with warm lit windows, red-pink tiled roofs, lanterns, vines, and flowers, rising toward a luminous hilltop castle with many slender towers and pink roofs. Add a crescent moon, starry deep-blue sky, tiny glowing particles, bunting flags, ornate street lamps, reflections in the water, and abundant sunflowers and pink blossoms around the bridge and houses. The glass bottle should dominate the frame, with realistic curved highlights, refraction, thick rim, rounded shoulders, and a visible cork at the top. Outside the bottle, keep the background softly blurred with warm bokeh: one lantern on the left, dark shelves and books on the right, and cozy amber-blue magical lighting. Use an ultra-detailed anime-fantasy storybook style, cinematic depth of field, jewel-like colors, warm golden window light contrasted with cool moonlit blues, intricate architecture, romantic whimsical atmosphere, vertical composition, no text, no watermark.
+```
+
+**来源：** [@まい🍀](https://x.com/citron5mai/status/2079054901641085356) | 2026-07-20
+
+---
+

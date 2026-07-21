@@ -5598,3 +5598,85 @@ Constraints: No text, captions, logos, or watermarks. Keep the same character, c
 
 ---
 
+### 🧸 例 4566：3D CG 东方奇幻女神
+
+![3D CG 东方奇幻女神](../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E5%A5%B3%E7%A5%9E.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想古风贵女人像海报，3D CG oriental fantasy noble lady portrait，anime-style 3D CG character art，semi-realistic 3D character render，full body portrait，画面主体是一位明确成年的年轻东方女性，{argument name="角色名" default="桃夭"}，视觉年龄约 {argument name="年龄范围" default="22–28 岁"}，整体气质温柔、清雅、华贵、柔美、空灵，带有春日花神与高门贵女般的梦幻感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光、轻纱动态与高级虚拟角色海报质感。
+
+人物拥有精致柔和的东方古典美人脸，小巧鹅蛋脸，面部轮廓流畅清秀，皮肤白皙细腻，带轻微通透感与柔和珠光皮肤着色。眼睛清澈柔和，瞳色为浅茶棕与暖琥珀调混合，眼神安静含蓄，略微低垂，神情温柔娴静。睫毛纤长，眼妆为淡桃粉与柔雾杏粉色晕染，鼻梁秀气自然，嘴唇小巧柔软，唇色为低饱和珊瑚蜜桃粉，整体神态端庄温婉。
+
+发型为高挽古典盘发与披发结合，主发色为乌黑偏暖墨色，发丝柔顺细腻，带少量轻盈碎发修饰脸型。头戴极其精致华丽的东方花冠与宫廷发饰，包含金色花丝、粉色花朵、珍珠流苏、浅蓝宝石、玉饰与细长垂链，层次丰富但清雅不厚重。耳饰为长款东方风流苏耳坠，带金属花片、珍珠与浅色玉石细节。
+
+服装为高精度 3D CG 东方幻想华丽古风长裙，整体以{argument name="配色方案" default="奶白、浅桃粉、珊瑚粉、浅杏色、淡玉青与少量鎏金"}为主色。上身为精致交领或齐胸结构，胸前与腰间有花卉刺绣、金线纹样与珠玉装饰。外层披覆大面积轻纱广袖与层叠披帛，袖摆极其飘逸，裙摆层层叠叠，布料轻盈柔软，带丝缎、薄纱、刺绣和珠光面料混合质感。衣摆与披帛边缘带柔和花纹、金线滚边与局部刺绣细节，整体像春日花宴中的高门贵女礼服。人物手中轻轻抱着一束粉色春花枝，花朵繁盛，增强人物温柔高雅气质。
+
+人物姿态为优雅站姿，身体轻微侧向，头部微微低转，一只手自然扶住花枝，另一只手轻搭于身前，手指纤细柔美。肩颈舒展，仪态端庄，裙摆与披帛在微风中轻轻铺起，突出轻盈、华美、飘逸的角色气质。整体构图突出人物全身比例、服装大裙摆、广袖层次、头饰和花枝细节。
+
+背景调整为符合人物角色的春日东方宫苑场景，不要纯白背景。场景设定为古典园林与贵族花苑结合的梦幻空间，可见淡雅宫墙、雕花回廊、月洞门、轻纱帷幕、石阶、玉栏、远处亭台楼阁与盛开的桃花 / 海棠花树。背景带柔和留白感与轻雾空气透视，地面可有散落花瓣，远景有浅色山影与朦胧花木层次，整体清雅、贵气、通透、诗意，像春日花朝中的宫廷花园。背景保持高级虚化与层次感，不喧宾夺主，但要明确体现人物所处的东方幻想贵女场景。
+
+光线采用柔和明亮的春日自然光与轻微暖金轮廓光结合，面部清晰通透，发丝、头饰、肩颈、花枝、披帛与裙摆边缘有细腻高光。皮肤、金属、玉石、珍珠、刺绣、丝缎与薄纱都具有真实清晰的 PBR 材质表现。整体色调以奶白、桃粉、浅杏、玉青、浅金为主，画面精致、通透、温柔、唯美、华丽，具有高端收藏级 3D CG 东方幻想古风角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, translucent silk chiffon, elegant embroidered hanfu, ornate Chinese hair ornaments, spring palace garden background, peach blossom atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2079245149352366214) | 2026-07-20
+
+---
+
+### 🧸 例 4585：定制人偶吸塑包装
+
+![定制人偶吸塑包装](../images/%E5%AE%9A%E5%88%B6%E4%BA%BA%E5%81%B6%E5%90%B8%E5%A1%91%E5%8C%85%E8%A3%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的产品图像，展示一个密封在透明吸塑包装中的收藏级可动人偶，人偶直立于温馨的夜间工作台面上。人偶为一名写实的年轻女性微缩模型，留着 {argument name="hair style" default="带刘海的深棕色齐肩直发波波头"}，身穿 {argument name="outfit" default="超大款白色衬衫、米色阔腿裤和白色运动鞋"}。她姿态自然，手中持有 2 件清晰可见的个人物品：左臂下夹着一台纤薄的灰色笔记本电脑或笔记本，右手拿着一杯插着黑色吸管的冰咖啡。包装采用淡薄荷绿色的纸板背衬，边角圆润，顶部设有黑色零售挂孔，透明的模塑塑料外壳轮廓贴合人偶身形，并呈现出逼真的接缝、反光、厚度及吸塑边缘效果。右下角包含 2 个独立的配件隔间：一个隔间内放置一张简约的小型书桌（浅木色桌面配白色桌腿），另一个隔间内放置一个微型白色键盘。画面中不含任何品牌标识或可读文字。整体场景应呈现出高端玩具摄影的质感：浅景深效果，左侧暖色台灯光照，背景中模糊的电脑显示器和键盘，柔和的焦外成像，自然的阴影，细腻的塑料反光，2:3 纵向构图，高分辨率写实渲染。
+
+[English]
+Create a photorealistic product-style image of a collectible action figure sealed in clear blister packaging, standing upright on a warm wooden desk in a cozy nighttime workspace. The figure is a realistic miniaturized young woman with {argument name="hair style" default="straight shoulder-length dark brown bob with bangs"}, wearing {argument name="outfit" default="an oversized white button-up shirt, beige wide-leg trousers, and white sneakers"}. She is posed casually, holding exactly 2 visible personal items: a slim gray laptop or notebook tucked under her left arm, and a plastic cup of iced coffee with a black straw in her right hand. The packaging has a pale mint-green cardboard backing, rounded corners, a black retail hanging slot at the top, glossy transparent molded plastic with raised contours following the body shape, and realistic seams, reflections, thickness, and blister edges. Include exactly 2 accessory compartments on the lower right: one containing a small simple desk with a light wood top and white legs, and one containing a miniature white keyboard beneath it. No brand logos or readable text. The scene should feel like a premium toy photography shot: shallow depth of field, warm desk lamp glow from the left, blurred computer monitor and keyboard in the dark background, soft bokeh, natural shadows, detailed plastic reflections, vertical 2:3 composition, high-resolution realistic rendering.
+```
+
+**来源：** [@シンス](https://x.com/pitopiyo01/status/2079180508345639204) | 2026-07-20
+
+---
+
+### 🧸 例 4604：皮克斯风格 3D 卡通形象转换
+
+![皮克斯风格 3D 卡通形象转换](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%203D%20%E5%8D%A1%E9%80%9A%E5%BD%A2%E8%B1%A1%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅以上传的照片作为面部参考，创作一个超写实的 3D 卡通形象，同时 100% 保留人物的面部特征、肤色、发型、五官和表情。将主体转换为 {argument name="character style" default="具有大头、大而富有表现力的眼睛、夸张的面部比例以及小巧写实身体的皮克斯风格卡通角色"}。主体为 {argument name="pose and clothing" default="自信地蹲着，手里拿着一个大号外带咖啡杯，身穿合身的黑色 T 恤、灰色长裤、休闲运动鞋，并佩戴着银色手链"}。将角色置于 {argument name="background" default="无缝的鲜艳橙色摄影棚背景和地面上，配以柔和的电影级灯光、微妙的阴影和清晰的反射"}。在保持卡通比例的同时，保留逼真的皮肤毛孔、卷发纹理、衣物织物细节以及高度精细的咖啡杯纹理。使用 18mm 超广角镜头从略微仰视的角度捕捉场景，以呈现戏剧性的透视效果。超精细 3D 渲染，Octane Render，Unreal Engine 5 品质，光线追踪全局光照，电影级调色，8K 分辨率，高级广告插画，色彩鲜艳，杰作。负面提示词：低质量，模糊，平淡光照，面部扭曲，多余肢体，多余手指，身体部位重复，水印，文字，Logo，噪点，AI 伪影，低多边形，卡通轮廓
+
+[English]
+Using the uploaded photo as the only face reference, create a hyper-realistic 3D caricature while preserving 100% of the person's facial identity, skin tone, hairstyle, facial features, and expression. Transform the subject into a {argument name="character style" default="stylized character with an oversized head, large expressive eyes, exaggerated facial proportions, and a small realistic body in a playful Pixar-inspired style"}. The subject is {argument name="pose and clothing" default="crouching confidently while holding a large takeaway coffee cup, wearing a fitted black T-shirt, gray pants, casual sneakers, and a silver bracelet"}. Place the character on {argument name="background" default="a seamless vibrant orange studio background and floor with soft cinematic lighting, subtle shadows, and clean reflections"}. Preserve realistic skin pores, curly hair texture, clothing fabric details, and highly detailed coffee cup textures while maintaining the stylized proportions. Capture the scene with an ultra-wide 18mm lens from a slightly elevated angle for a dramatic perspective. Ultra-detailed 3D rendering, Octane Render, Unreal Engine 5 quality, ray-traced global illumination, cinematic color grading, 8K resolution, premium advertising illustration, vibrant colors, masterpiece.Negative prompt: low quality, blurry, flat lighting, distorted face, extra limbs, extra fingers, duplicated body parts, watermark, text, logo, noise, AI artifacts, low-poly, cartoon outline
+```
+
+**来源：** [@Maverick | AI](https://x.com/RizwanAly07/status/2079092967969833376) | 2026-07-20
+
+---
+
+### 🧸 例 4618：女孩缝制哥布林毛绒玩具
+
+![女孩缝制哥布林毛绒玩具](../images/%E5%A5%B3%E5%AD%A9%E7%BC%9D%E5%88%B6%E5%93%A5%E5%B8%83%E6%9E%97%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温馨的水彩动漫插画，描绘一个充满阳光的手工室，背景设定在具有奇幻地中海或中亚风格的小镇。一位名叫 {argument name="character name" default="April"} 的年轻女孩坐在木制缝纫桌前，单手托腮，面带柔和的微笑，有着大大的棕色眼睛、红润的脸颊和凌乱的 {argument name="hair color" default="浅栗棕色"} 波波头。她穿着一件简单的白色无袖棉布裙，肩部系着蝴蝶结。在她面前坐着一个手工制作的毛绒玩偶：一个绿色的小哥布林兽人角色，有着圆耳朵、严肃的眉毛、黑色珠子眼睛、缝合的鼻子，穿着棕色仿皮背心、深色长裤、靴子和一条窄窄的花纹围巾，呈坐姿放在桌上。房间里充满了手工纺织细节：阳光明媚的窗台上摆放着 3 盆植物，桌上有 3 个线轴、一个插满针的圆形针垫、一把黄铜缝纫剪刀、一张折叠的小信件或纸样，以及几块花纹布料和刺绣布片。背景包括一扇带有蓝绿色百叶窗的开窗，窗外是遥远的柔和色调小镇景观，一张铺着粉色和几何图案枕头的床，一个放着书籍和小瓶子的木柜，墙上挂着带有流苏的彩色编织地毯或挂毯，椅子上也披着织物。运用柔和的午后阳光、细腻的墨线勾勒、透明的水彩渲染、精致的刺绣图案、柔和的阴影，营造出梦幻般的童话书氛围。构图保持 4:3 横向，以桌前的女孩和毛绒玩具为中心，画面中不含文字、水印，且不追求写实风格。
+
+[English]
+Create a warm watercolor anime illustration of a cozy sunlit craft room in a fantasy Mediterranean or Central Asian-inspired town. A young girl named {argument name="character name" default="April"} sits at a wooden sewing table, leaning on one hand and smiling softly with large brown eyes, rosy cheeks, and tousled {argument name="hair color" default="light chestnut brown"} bob-length hair. She wears a simple sleeveless white cotton dress with tied shoulder bows. In front of her sits exactly one handmade plush doll: a small green goblin-orc character with round ears, stern eyebrows, black bead eyes, a stitched nose, brown leather-like vest, dark trousers, boots, and a narrow patterned scarf, posed sitting upright on the table. The room is filled with handmade textile details: exactly three visible potted plants on the sunny windowsill, exactly three thread spools on the table, one round pincushion full of pins, one pair of brass sewing scissors, one small folded letter or pattern sheet, and several patterned fabric scraps and embroidered cloth pieces. The background includes an open window with blue-green shutters, a distant pastel townscape outside, a bed with pink and geometric pillows, a wooden cabinet with books and small bottles, and colorful woven rugs or tapestries with tassels hanging on the wall and draped over the chair. Use soft golden afternoon light, delicate ink outlines, transparent watercolor washes, intricate embroidered patterns, gentle shadows, and a dreamy storybook atmosphere. Keep the composition horizontal 4:3, centered on the girl and plush toy at the table, with no text, no watermark, and no photorealism.
+```
+
+**来源：** [@ゆんゆん。。](https://x.com/manga0365/status/2079038588121976950) | 2026-07-20
+
+---
+

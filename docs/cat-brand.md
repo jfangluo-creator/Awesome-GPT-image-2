@@ -11296,3 +11296,111 @@ Create a vertical cinematic photorealistic scene of a futuristic concrete observ
 
 ---
 
+### 🏷️ 例 4562：光泽感 AI Logo 重设计展示行
+
+![光泽感 AI Logo 重设计展示行](../images/%E5%85%89%E6%B3%BD%E6%84%9F%20AI%20Logo%20%E9%87%8D%E8%AE%BE%E8%AE%A1%E5%B1%95%E7%A4%BA%E8%A1%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在宽阔的白色画布上创建一个整洁的 Logo 重设计展示，包含 5 个精确排列的圆角方形应用图标，它们在水平方向上均匀分布，垂直居中并留有充足的空白边距。采用现代 3D 玻璃拟态风格，带有柔和阴影、细腻反射、斜面边缘、高饱和度以及平滑的渐变光效。从左到右的五个图标分别为：1) 青色至薄荷绿色的圆角方形，内含类似 OpenAI Logo 的白色交织结图案；2) 桃色至橙色的圆角方形，内含带有许多尖细光束的白色放射状太阳或星号图案；3) 青蓝色至紫色的圆角方形，内含一个巨大的白色四角闪烁星，右上角附带一个小闪烁星；4) 底部带有深蓝色高光的黑色圆角方形，内含一个白色小写字母风格的几何“k”标记，右上角有一个明亮的蓝色小圆点；5) 淡紫色至紫色的圆角方形，内含一个白色轮廓的六角星或徽章图案。保持构图简洁、精致且专注于产品设计，不含文字标签、水印或额外图标。整体主题为 {argument name="logo redesign theme" default="AI 应用 Logo 重设计"}，采用 {argument name="icon style" default="光泽感 3D 玻璃拟态圆角方形应用图标"}，背景为 {argument name="background color" default="纯白色"}。
+
+[English]
+Create a clean logo redesign showcase on a wide white canvas, featuring exactly 5 glossy rounded-square app icons evenly spaced in a single horizontal row, centered vertically with generous empty margins. Use a modern 3D glassmorphism style with soft shadows, subtle reflections, beveled edges, high saturation, and smooth gradient lighting. The five icons from left to right are: 1) a teal-to-mint rounded square containing a white interwoven knot emblem resembling the OpenAI logo, 2) a peach-to-orange rounded square containing a white radial sunburst or asterisk emblem with many tapered rays, 3) a cyan-blue-to-purple rounded square containing a large white four-point sparkle star plus one small sparkle near the upper right, 4) a black rounded square with deep blue highlights at the bottom containing a white lowercase-like geometric “k” mark and one small bright blue dot near the upper right, and 5) a lavender-to-purple rounded square containing a white outlined angular six-point star or badge emblem. Keep the composition minimal, polished, and product-design focused, with no text labels, no watermark, and no extra icons. The overall subject is {argument name="logo redesign theme" default="AI app logo redesigns"}, with {argument name="icon style" default="glossy 3D glassmorphism rounded-square app icons"}, on a {argument name="background color" default="pure white"} background.
+```
+
+**来源：** [@brian gao](https://x.com/thebriangao/status/2079316848747876823) | 2026-07-20
+
+---
+
+### 🏷️ 例 4573：超现实歌剧乐谱拼贴画
+
+![超现实歌剧乐谱拼贴画](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%AD%8C%E5%89%A7%E4%B9%90%E8%B0%B1%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宽屏电影质感的超现实歌剧奇幻拼贴画，采用深海军蓝、黑色、古董金和深红色的配色方案。在前景中，展示 {argument name="viewer character" default="一位卷发年轻作曲家或指挥家"} 的背影剪影，正凝视着画面底部中央一本巨大的、发光的打开的乐谱；书页上写满了密集的手写五线谱，温暖的金色光芒从书中向上迸发。围绕着乐谱，描绘 6 个独特的戏剧音乐元素：1) 左上方漂浮着一个巨大的裂纹象牙色威尼斯歌剧面具，2) 左下方一位身着黑衣的女性小提琴手正在演奏，身后有红色油漆般的飞溅效果，3) 书本上方是一个破败的巴洛克式歌剧院阳台或拱形舞台场景，带有一个小型歌手人物，4) 右上方中央附近，一位身着黑色礼服的戏剧性女歌剧演员在飘逸的深红色幕布下向上伸展手臂，5) 右上方是一个月光下的拱形窗户，展示着风暴中的海浪、云层和微小的人类剪影，6) 右下方是一个坐着的室内乐团，包括弦乐演奏者和乐谱架。用横扫的金色五线谱线条、音符、圆形轨道弧线、墨迹飞溅、纸张纹理、小鸟或蝴蝶以及舞台建筑碎片填充构图，所有元素都从打开的乐谱中辐射出来，仿佛音乐正在创造世界。使用高对比度的明暗对照法照明、绘画风格的数字插画、精细的雕刻感、纹理笔触、魔幻现实主义、史诗般的歌剧海报氛围，画面需超精细但无清晰可读的标题文字，无现代 UI，无水印。宽高比 16:9。
+
+[English]
+Create a wide cinematic surreal opera-fantasy collage in a dark navy, black, antique gold, and crimson palette. In the foreground, show the back silhouette of {argument name="viewer character" default="a curly-haired young composer or conductor"} staring into a huge glowing open musical score at the center bottom; the pages are filled with dense handwritten staff notation, and warm golden light bursts upward from the book. Around the score, depict exactly 6 distinct theatrical-music elements: 1) a large cracked ivory Venetian opera mask floating on the upper left, 2) a female violinist in black performing on the lower left with red paint-like splashes behind her, 3) a ruined baroque opera-house balcony or arched stage scene above the book with a small singer figure, 4) a dramatic female opera singer in a black dress reaching upward beneath flowing crimson curtains near the upper center-right, 5) a moonlit arched window on the upper right showing stormy ocean waves, clouds, and tiny human silhouettes, and 6) a seated chamber ensemble on the lower right with string players and music stands. Fill the composition with sweeping golden musical staff lines, notes, circular orbital arcs, ink splatters, paper textures, small birds or butterflies, and fragments of stage architecture, all radiating from the open score as if the music is creating worlds. Use high-contrast chiaroscuro lighting, painterly digital illustration, detailed engravings, textured brushwork, magical realism, epic opera poster mood, ultra-detailed but no readable title text, no modern UI, no watermark. Aspect ratio 16:9.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2079220025404051719) | 2026-07-20
+
+---
+
+### 🏷️ 例 4576：专业零食包装样机
+
+![专业零食包装样机](../images/%E4%B8%93%E4%B8%9A%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%85%E6%A0%B7%E6%9C%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为我的 {argument name="product type" default="零食产品"} 设计一个专业的包装样机，使用上传的 {argument name="branding" default="标签/Logo"}，逼真的 {argument name="container material" default="袋装或盒装材质"} 纹理，摄影棚灯光，纯色背景，高分辨率。
+
+[English]
+Design a professional packaging mockup for my {argument name="product type" default="snack product"} using the uploaded {argument name="branding" default="label/logo"}, realistic {argument name="container material" default="pouch or box material"} texture, studio lighting, plain background, high resolution.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2079211001132573098) | 2026-07-20
+
+---
+
+### 🏷️ 例 4588：星光飞机咖啡馆
+
+![星光飞机咖啡馆](../images/%E6%98%9F%E5%85%89%E9%A3%9E%E6%9C%BA%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅高度精细的 4:5 竖版动漫奇幻插画，描绘一家不可思议的夜间旅行咖啡馆，它建在一架饱经风霜的旧螺旋桨飞机机翼内及下方。场景温暖、具有电影感且如童话书般梦幻：星光璀璨的蓝紫色天空，银河映衬在左侧巨大的复古飞机机头和螺旋桨后方；右侧则是一个舒适的露天咖啡吧台，上面覆盖着藤蔓、白花、奶油色薄纱窗帘、悬挂的黄铜灯具和发光的星星装饰。画面中需包含 3 个人物和 1 只猫：一位受福尔摩斯启发的年轻侦探，戴着猎鹿帽，身披棕色斗篷，坐在小木桌旁，一边沉思地摸着嘴唇，一边在地图旁边的笔记本上写字；一位温柔的咖啡馆女服务员，留着浅金色编发，系着奶油色围裙，正在吧台后冲泡手冲咖啡；以及右侧站着一位像华生一样的绅士，身穿棕色维多利亚风格三件套西装，微笑着从一只后腿站立、背着小挎包的橘色虎斑猫手中接过一颗发光的小星星。猫咪应将星星举向绅士的手，使其成为情感焦点。在悬挂的“项目”上包含 5 个清晰可读的黑板菜单项：“Drip Coffee 600”、“Cafe au lait 650”、“Starry Latte 700”、“Moon Cookie 300”和“Star Cookie 300”。在左下角添加第二个黑板招牌，上面写着“Café Starlight”，并配有小星星装饰以及“Coffee”、“Sweets”和“Starlight”字样。在右侧添加一个标有“Orion”的星座“项目”。前景填充木箱、旧书、灯笼、咖啡罐、星形饼干、野花、薰衣草、木板和黄铜咖啡工具，但要保持构图清晰。在冷色调的宇宙蓝背景下使用温暖的琥珀色咖啡馆灯光，展现细腻的线条、油画质感、复杂的飞机机械细节、丰富的植物细节，营造出吉卜力与维多利亚神秘风格交织的怀旧氛围。自定义咖啡馆名称为 {argument name="café name" default="Café Starlight"}，侦探角色为 {argument name="detective character" default="受福尔摩斯启发的年轻侦探"}，同伴角色为 {argument name="companion character" default="像华生一样的绅士"}，猫的颜色为 {argument name="cat color" default="橘色虎斑"}，菜单主题为 {argument name="menu theme" default="星光特调"}。禁止出现现代物品，禁止写实风格，禁止水印，禁止添加额外角色，并保持梦幻且不可思议的夜晚氛围。
+
+[English]
+Create a highly detailed vertical 4:5 anime fantasy illustration of an impossible nighttime travel café built into and under the wing of an old weathered propeller airplane. The scene is warm, cinematic, and storybook-like: a star-filled blue-to-violet sky with the Milky Way behind a large vintage aircraft nose and propeller on the left, while the right side becomes a cozy open-air café counter covered in vines, white flowers, sheer cream curtains, hanging brass lamps, and glowing star ornaments. Show exactly 3 human characters and 1 cat: a Sherlock-Holmes-inspired young detective in a deerstalker cap and brown cloak seated at a small wooden table, writing in a notebook beside an unfolded map while thoughtfully touching his lips; a gentle café waitress with braided light-blonde hair and a cream apron pouring pour-over coffee behind the counter; and a Watson-like gentleman in a brown Victorian three-piece suit standing on the right, smiling as he receives a small glowing star from an orange tabby cat standing upright on its hind legs with a tiny satchel. The cat should hold the star up toward the gentleman’s hand, making this the emotional focal point. Include exactly 5 readable chalkboard menu items on a hanging board: “Drip Coffee 600”, “Cafe au lait 650”, “Starry Latte 700”, “Moon Cookie 300”, and “Star Cookie 300”. Include a second chalkboard sign at the bottom left reading “Café Starlight” with small decorative stars and the words “Coffee”, “Sweets”, and “Starlight”. Add a constellation board on the right labeled “Orion”. Fill the foreground with crates, old books, a lantern, coffee jars, star-shaped cookies, wildflowers, lavender, wooden planks, and brass café tools, but keep the composition readable. Use glowing amber café lighting against cool cosmic blues, fine linework, painterly texture, intricate mechanical airplane details, lush botanical details, and a nostalgic Ghibli-meets-Victorian mystery atmosphere. Customize the café name as {argument name="café name" default="Café Starlight"}, the detective character as {argument name="detective character" default="Sherlock-Holmes-inspired young detective"}, the companion character as {argument name="companion character" default="Watson-like gentleman"}, the cat color as {argument name="cat color" default="orange tabby"}, and the menu theme as {argument name="menu theme" default="Starlight Blend"}. No modern objects, no photorealism, no watermark, no extra characters, and preserve the dreamy impossible-night mood.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2079162279631917477) | 2026-07-20
+
+---
+
+### 🏷️ 例 4590：复古房间里的深褐色调钢琴师
+
+![复古房间里的深褐色调钢琴师](../images/%E5%A4%8D%E5%8F%A4%E6%88%BF%E9%97%B4%E9%87%8C%E7%9A%84%E6%B7%B1%E8%A4%90%E8%89%B2%E8%B0%83%E9%92%A2%E7%90%B4%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的深褐色调动漫风格专辑封面插画，画面主体为 {argument name="character name" default="一位优雅的年轻男钢琴师"}，深夜时分，他正坐在一架立式钢琴前，身处昏暗的复古房间内。角色呈现四分之三背影，身材修长优雅，身穿合身的黑色西装，戴着黑色手套，穿着擦得锃亮的黑色皮鞋；他留着 {argument name="hair color" default="长长的浅金色头发"}，扎成低马尾，几缕凌乱的刘海垂在脸颊旁。一只小小的 {argument name="pet animal" default="仓鼠"} 坐在他的右肩上。他一只手弹奏着钢琴，另一只手正在翻动或拿着一张散落的乐谱；钢琴谱架上放着一本打开的乐谱书，上面写满了手写的五线谱。一件浅色外套搭在木椅靠背上，一直垂到地板附近。房间铺着深色木地板，墙壁镶嵌着厚重的护墙板，左侧有高大的玻璃窗或推拉门，隐约可见窗外阴影笼罩的花园。画面中仅设置两处暖光源：一盏放在椅子旁小木柜上的发光油灯，以及透过窗户可见的一盏微弱的暖色户外灯笼。整体氛围应安静、忧郁、具有贵族气息且私密，如同深夜的私人演奏。采用高细节的精细墨水线条、交叉排线、纹理纸张质感、柔和的深褐色与黑褐色调、戏剧性的低调照明、逼真的琴键与木纹、精致的面部特征以及优雅的漫画插画品质。禁止出现现代物品，禁止出现除抽象乐谱外的可见文字，禁止出现水印，禁止使用明亮的色彩。
+
+[English]
+Create a vertical sepia-toned anime-style album-cover illustration of {argument name="character name" default="a refined young male pianist"} seated at an upright piano in a dim vintage room at night. The character is shown in three-quarter back view, slim and elegant, wearing a fitted black suit, black gloves, and polished black shoes; he has {argument name="hair color" default="long pale blond hair"} tied in a low ponytail with loose bangs falling over his face. A small {argument name="pet animal" default="hamster"} sits on his right shoulder. He is playing the piano with one hand while turning or holding a loose sheet of music with the other; an open music book full of handwritten staff notation rests on the piano stand. A light-colored coat is draped over the back of the wooden chair, hanging down almost to the floor. The room has dark wooden floors, heavy wall paneling, and tall glass windows or sliding doors on the left revealing a shadowy garden outside. Place exactly two warm light sources: one glowing oil lamp on a small wooden drawer cabinet beside the chair, and one faint warm outdoor lantern visible through the window. The mood should be quiet, melancholic, aristocratic, and intimate, like a late-night private performance. Use highly detailed fine ink linework, crosshatching, textured paper grain, muted sepia and black-brown palette, dramatic low-key lighting, realistic piano keys and wood grain, delicate facial features, and elegant manga illustration quality. No modern objects, no visible text except abstract musical notation, no watermark, no bright colors.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079156149027516888) | 2026-07-20
+
+---
+
+### 🏷️ 例 4614：足球运动员夺冠庆典
+
+![足球运动员夺冠庆典](../images/%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E5%A4%BA%E5%86%A0%E5%BA%86%E5%85%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张从高处俯拍的真实体育庆典照片，画面中一名年轻的 {argument name="subject" default="足球运动员"} 正自信地站在球场上参加夺冠庆典，一只手举着 {argument name="award" default="尊贵的金杯"}，另一只手叉在腰间。球员身穿 {argument name="outfit" default="鲜艳的国家队球衣"}，脖子上挂着金牌，脸上洋溢着内敛而自豪的笑容。背景中可以看到队友、摄影师和摄像师，营造出真实的赛后庆祝氛围。球场地面铺满郁郁葱葱的草坪，散落的五彩纸屑增添了节日气氛。采用高角度长焦视角拍摄，自然光，色彩真实，编辑类体育摄影，纪录片风格，焦点清晰，构图动态，情感真挚，超写实，高细节，纹理清晰，8K 分辨率。
+
+[English]
+A candid overhead sports celebration photograph of a young {argument name="subject" default="football player"} standing confidently on the pitch during a championship victory ceremony, holding a {argument name="award" default="prestigious golden trophy"} in one hand while resting the other hand on the hip. The player wears a {argument name="outfit" default="vibrant national team jersey"} with a gold winner’s medal around the neck, smiling with quiet pride. Teammates, photographers, and camera operators are visible in the background, creating an authentic post-match celebration atmosphere. Lush green grass fills the stadium floor, with scattered confetti adding to the festive mood. Captured from a high-angle telephoto perspective, natural daylight, realistic colors, editorial sports photography, documentary style, sharp focus, dynamic composition, genuine emotions, ultra-photorealistic, high detail, crisp textures, 8K resolution.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2079048969062318551) | 2026-07-20
+
+---
+

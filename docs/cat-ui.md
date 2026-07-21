@@ -9247,3 +9247,139 @@ Create a cinematic photorealistic landscape of a quiet Japanese shrine approach 
 
 ---
 
+### 🖥️ 例 4555：动漫模型对比项目
+
+![动漫模型对比项目](../images/%E5%8A%A8%E6%BC%AB%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个深色、宽屏的 AI 图像对比界面，展示一张源提示词卡片和三张生成的图像结果卡片，类似于动漫艺术作品的模型对比项目。
+
+画布：16:7 横向截图风格构图，背景接近黑色，带有淡淡的点阵纹理和微妙的对角线引导线。使用柔和的辉光、圆角面板、细灰色边框以及精致的深色 UI 美学。
+
+布局：从左到右在一行中精确排列 4 张圆角矩形卡片。第 1 张为窄版文本提示词卡片；第 2、3、4 张为较大的垂直图像卡片。卡片之间留有小间隙。每张卡片顶部均有一行微小的标题栏，配有小图标和日式标签。在第一个卡片区域的右上角附近添加一个小金币状图标。在卡片之间添加小型圆形连接器或操作按钮，垂直对齐在中间和下边缘附近。
+
+卡片数量与内容：总共精确显示 4 张卡片：1 张文本卡片和 3 张图像结果卡片。3 张图像结果卡片均展示同一主题的不同渲染效果：一位动漫风格的年轻女性，留着极长的银白色头发，刘海遮住眼睛，皮肤白皙，身穿黑色短款无袖上衣、黑色长裤，以及一件披在肩后或被撑开的超大号宽松灰色夹克。她的姿势自信且具有时尚杂志感，双臂举在脑后或将夹克撑开。色调为低饱和度的灰色、白色、黑色和柔和的米色。
+
+文本卡片：第一张卡片的标题显示为“テキスト #9”。在卡片内部，包含一段紧凑的英文提示词，用小号白色字体描述动漫特写肖像：“Medium close-up to three-quarter body portrait, slightly high camera angle, camera positioned just above eye level, mild perspective compression, fashion editorial framing, character occupying most of the frame, clean warm-white studio background...”。继续添加关于当代日本动漫插画的紧凑提示词文本，包括细线条艺术、精致的面部比例、银白色头发、高腰黑色上衣、超大号夹克、柔和/低饱和度色彩、柔和阴影、晕影、高级海报展示。保持文字较小但看起来清晰可辨，不一定需要完全可读。
+
+图像卡片标题：用日式标题标注三张结果卡片：“画像生成ツール #33”、“画像生成ツール #34”和“画像生成ツール #35”。在每张图像卡片的底部，添加一行淡淡的白色/灰色日文状态说明，类似于“認証されたプロンプト、@を使って参照や追加のコンテキストを加えられます”。
+
+主题细节：该角色拥有 {argument name="hair color" default="silver-white"} 极长的头发，厚重的刘海遮住眼睛，腰部纤细，皮肤白皙，神情忧郁且大部分被头发遮挡。服装由 4 个主要部分组成：黑色高领短款无袖上衣、超大号灰色夹克、黑色低腰裤和深色腰带。以 {argument name="anime style" default="dark fantasy contemporary anime"} 风格渲染图像，细节既干净又具有绘画感。
+
+视觉风格：暗黑奇幻动漫时尚、柔和的单色调色板、柔和的摄影棚灯光、杂志编辑构图、轻微的晕影、白发与黑衣之间的高对比度、清晰的 UI 截图展示。第一张生成的图像应呈现锐利且经典的动漫风格，第二张略带绘画感和阴影，第三张则更简洁、极简，并带有明亮的浅色背景。
+
+约束：精确显示 4 张卡片和 3 张动漫结果图像。不要添加额外的角色、徽标、水印、浏览器边框或不相关的 UI。保持整体图像作为对比项目，而不是单一的插画。
+
+[English]
+Goal: Create a dark, widescreen AI image-comparison interface showing one source prompt card and three generated-image result cards, like a model comparison board for anime artwork.
+
+Canvas: 16:7 horizontal screenshot-style composition on a nearly black background with faint dotted grid texture and subtle diagonal guide lines. Use soft glow, rounded panels, thin gray borders, and a polished dark UI aesthetic.
+
+Layout: Arrange exactly 4 rounded rectangular cards in one row from left to right. Card 1 is a narrow text prompt card; cards 2, 3, and 4 are larger vertical image cards. Leave small gaps between cards. Each card has a tiny header line at the top with a small icon and Japanese-style label. Add a small gold coin-like icon near the top-right of the first card area. Add small circular connector or action buttons between the cards, aligned vertically around the middle and lower edge.
+
+Card count and contents: Exactly 4 visible cards total: 1 text card and 3 image result cards. The 3 image result cards each show the same subject rendered slightly differently: an anime-style young woman with very long silver-white hair and bangs covering her eyes, pale skin, a black cropped sleeveless top, black pants, and an oversized loose gray jacket lifted or held behind her shoulders. Her pose is confident and fashion-editorial, with arms raised behind her head or jacket spread open. The palette is desaturated gray, white, black, and muted beige.
+
+Text card: The first card header reads approximately “テキスト #9”. Inside it, include a dense English prompt in small white text describing an anime close-up portrait: “Medium close-up to three-quarter body portrait, slightly high camera angle, camera positioned just above eye level, mild perspective compression, fashion editorial framing, character occupying most of the frame, clean warm-white studio background...” Continue with compact prompt-style text about contemporary Japanese anime illustration, thin line art, refined facial proportions, silver white hair, high crop black top, oversized jacket, muted/desaturated colors, soft shadows, vignette, premium poster presentation. Keep text small but legible-looking, not necessarily fully readable.
+
+Image card headers: Label the three result cards with Japanese-style headers: “画像生成ツール #33”, “画像生成ツール #34”, and “画像生成ツール #35”. At the bottom of each image card, add a faint Japanese status caption in white/gray, similar to “認証されたプロンプト、@を使って参照や追加のコンテキストを加えられます”.
+
+Subject details: The character has {argument name="hair color" default="silver-white"} very long hair with heavy bangs obscuring the eyes, a slim athletic waist, pale skin, and a moody expression mostly hidden by hair. Outfit consists of exactly 4 main pieces: black cropped high-neck sleeveless top, oversized gray jacket, black low-rise pants, and dark belt. Render the images in a {argument name="anime style" default="dark fantasy contemporary anime"} look with clean yet painterly detail.
+
+Visual style: Dark fantasy anime fashion, muted monochrome palette, soft studio lighting, editorial composition, slight vignette, high contrast between white hair and black clothing, crisp UI screenshot presentation. The first generated image should look sharp and classic anime, the second slightly more painterly and shadowed, the third cleaner and more minimal with a bright pale background.
+
+Constraints: Show exactly 4 cards and exactly 3 anime result images. Do not add extra characters, logos, watermarks, browser chrome, or unrelated UI. Keep the overall image as a comparison dashboard rather than a single illustration.
+```
+
+**来源：** [@ジジはAI漫画部族](https://x.com/G8k9jrh5T580304/status/2079352038845305181) | 2026-07-20
+
+---
+
+### 🖥️ 例 4594：动漫少女生成网格
+
+![动漫少女生成网格](../images/%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E7%94%9F%E6%88%90%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个联系表风格的对比网格，展示同一角色在多种变体下的动漫图像生成结果。
+
+画布：宽屏横向画布，比例约为 16:9，背景为干净的灰白色，留有宽裕的边距。将 12 张圆角矩形图像卡片排列成 4 列 3 行的网格，卡片之间留有窄窄的白色间隙。
+
+主体细节：每张卡片展示的是同一个可爱的动漫少女，{argument name="character name" default="一位粉色头发的漫画家少女"}，留着蓬松的短波波头，有着明亮的大蓝眼睛、圆形金属框眼镜、白皙的皮肤和开朗好奇的表情。她穿着一件带有白色花朵图案的柔粉色和服，腰间系着深海军蓝色的腰带，并饰有红黄相间的交叉绳结。她的姿势略有不同，但保持一致的思考动作：手靠近下巴、脸颊、嘴巴或衣领，偶尔伴有身体前倾或倾斜的构图。
+
+卡片数量及可见变体：包含 12 张生成的缩略图。第 1 行有 4 张卡片：1) 女孩在明亮的工作室里拿着画笔，2) 女孩在绘图板前手靠近嘴边，3) 女孩在带有台灯的艺术室里身体前倾，4) 女孩坐在橙色椅子旁，身后是草稿纸。第 2 行有 4 张卡片：5) 手靠近嘴边的倾斜特写，6) 在色彩缤纷的教室式工作室里的居中姿势，7) 在绘图桌旁的思考姿势，8) 背景为柔和模糊艺术室的明亮特写。第 3 行有 4 张卡片：9) 针对橙色和青色图形背景的戏剧性对角线特写，10) 手托下巴的低角度肖像，11) 针对相同橙色/青色对角线背景的居中肖像，12) 手靠近衣领的倾斜侧卧肖像。
+
+背景：大多数卡片使用欢快的漫画工作室或艺术教室场景：书架、笔筒、绘图桌、草稿纸、台灯、公告板、柔和的几何墙面装饰、植物和温暖的日光。对于底行，至少在三张卡片中使用带有青色和橙色对角形状的扁平化大胆图形背景。
+
+视觉风格：精致的现代动漫插画，清晰的黑色线条，光泽感的眼睛，柔和的赛璐珞阴影，柔和的配色方案，清晰的高分辨率外观，明亮且友好。让每张缩略图看起来都像是独立生成的结果，在裁剪、姿势和背景上存在细微差异，同时保持角色的一致性。
+
+界面叠加层：在每张卡片左下角附近添加一个小的半透明灰色控制条。控制条包含微小的圆形实用图标和一个可见的标签，显示为 {argument name="quality label" default="2K"}。部分卡片在控制条的最左侧可能包含一个小型的条形图样式图标。在整个画布的右下边缘附近添加一个微妙的圆形向上箭头浮动按钮。
+
+约束：保持 4 行 3 列的网格布局和 12 张卡片。不要添加额外的角色。避免出现除重复的小型 {argument name="quality label" default="2K"} 叠加层之外的任何文本。保持圆角、一致的间距，以及图像生成画廊截图的质感。
+
+[English]
+Goal: Create a contact-sheet style comparison grid of anime image generations featuring the same character in multiple variations.
+
+Canvas: Wide landscape canvas, approximately 16:9, with a clean off-white page background and generous margins. Arrange exactly 12 rounded-rectangle image cards in a 4-column by 3-row grid with narrow white gutters between cards.
+
+Subject details: Each card shows the same cute anime girl, {argument name="character name" default="a pink-haired manga artist girl"}, with a short fluffy bob haircut, large bright blue eyes, round wire-frame glasses, pale skin, and a cheerful curious expression. She wears a soft pink kimono with white flower motifs and a dark navy obi decorated with red and yellow crisscross cords. Her poses vary slightly but keep a consistent thoughtful gesture: hand near chin, cheek, mouth, or collar, with occasional leaning or tilted framing.
+
+Card count and visible variations: Include exactly 12 generated-image thumbnails. Row 1 has 4 cards: 1) girl holding a drawing pen in a bright studio, 2) girl at a drafting tablet with hand near mouth, 3) girl leaning forward in an art room with desk lamp, 4) girl seated beside an orange chair with sketch papers behind her. Row 2 has 4 cards: 5) close-up tilted pose with hand near mouth, 6) centered pose in a colorful classroom-like studio, 7) thoughtful pose beside a drawing desk, 8) bright close-up with a softly blurred art-room background. Row 3 has 4 cards: 9) dramatic diagonal close-up against orange and turquoise graphic background, 10) low-angle portrait with hand at chin, 11) centered portrait against the same orange/turquoise diagonal background, 12) reclining tilted portrait with hand near collar.
+
+Backgrounds: Use a cheerful manga studio or art classroom setting in most cards: bookshelves, pencils in cups, drafting tables, sketch sheets, lamps, bulletin boards, pastel geometric wall decorations, plants, and warm daylight. For the bottom row, use a flatter bold graphic backdrop with turquoise and orange diagonal shapes in at least three cards.
+
+Visual style: Polished modern anime illustration, crisp black line art, glossy eyes, soft cel shading, pastel color palette, clean high-resolution look, bright and friendly. Make each thumbnail feel like a separate generation with small differences in crop, pose, and background, while maintaining character consistency.
+
+Interface overlays: On every card, add a small semi-transparent gray control strip near the lower-left corner. The strip contains tiny round utility icons and a visible label reading {argument name="quality label" default="2K"}. Some cards may include a small bar-chart style icon at the far left of the strip. Add a subtle rounded up-arrow floating button near the lower-right edge of the overall canvas.
+
+Constraints: Preserve the exact 4 by 3 grid and exactly 12 cards. Do not add extra characters. Avoid text other than the repeated small {argument name="quality label" default="2K"} overlay. Keep rounded corners, consistent spacing, and the feel of a screenshot from an image-generation gallery.
+```
+
+**来源：** [@とのち｜AI漫画](https://x.com/ai_tonoch/status/2079129230454165540) | 2026-07-20
+
+---
+
+### 🖥️ 例 4617：纸艺卷纸风动漫少女画框
+
+![纸艺卷纸风动漫少女画框](../images/%E7%BA%B8%E8%89%BA%E5%8D%B7%E7%BA%B8%E9%A3%8E%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E7%94%BB%E6%A1%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅优雅的卷纸风格竖版深框艺术画，如同由细长卷纸条制成的独一无二的画廊藏品。主体是一位名为 {argument name="character name" default="Nozomu"} 的动漫风格少女，腰部以上右侧侧影，拥有极长的飘逸 {argument name="hair color" default="白色与淡银色相间并带有细微蓝色挑染的头发"}。她的头发必须由许多细薄的层叠纸带、螺旋、圆环和卷曲纸条构成，而她的面部和裸露肌肤则保持平滑、柔和的高级层叠纸质感，避免产生惊悚或过于粗糙的纹理。她五官精致，肤色白皙，鼻唇小巧，拥有明亮的大型 {argument name="eye color" default="紫蓝色眼睛"} 和细腻的动漫睫毛。她身穿白色无袖连衣裙，裙身带有柔和的褶皱纸艺效果，胸部和肩带处有细小的卷纸花边装饰，并佩戴着垂坠花朵耳环。在她的头部左侧添加一簇由 9 朵可见的大型花卉组成的发饰：3 朵薰衣草色玫瑰状卷纸花、3 朵蓝色五瓣卷纸花、2 朵小型白色花朵以及 1 枝淡色叶片与珍珠装饰；周围环绕着许多细小的珍珠珠子和叶片卷曲装饰。在右侧她抬起的手指尖附近，放置 1 只蓝色的卷纸蝴蝶，蝴蝶翅膀由半透明的卷曲纸条构成，并带有深蓝色轮廓。背景为淡冰蓝色面板，填满了对称的装饰性卷纸花纹：白色、天蓝色和浅青色的藤蔓、螺旋玫瑰、珍珠圆点和水滴形环，这些装饰围绕在角色周围，但不会遮挡她的面部。将整幅艺术品装入一个深色的白色木质画框中，配有凹陷的阴影盒衬垫、可见的斜面、柔和的阴影，呈现出干净的博物馆陈列外观。在底部中心，加入一块由 4 颗金色螺丝固定的奶油色小铭牌，铭牌上印有主标题 {argument name="plaque title" default="のぞむ"}、副标题“NOZOMU”，以及一行简短的英文引言 {argument name="plaque quote" default="Whispers of Bloom, Dreams in Blue. In a world of petals and light, she blooms, and hope takes flight."}。使用柔和的白色、粉蓝色、薰衣草色、珍珠色和银色调；呈现高度细节化的微距纸艺纹理；边缘清晰的卷纸线条；柔和的摄影棚灯光；浅层的物理深度；可爱、精致、细腻且奢华。避免写实的人类皮肤质感，避免恐怖纹理，避免出现额外角色，并确保所有可见文字仅出现在铭牌上。
+
+[English]
+Create a vertical framed shadow-box artwork in an elegant paper quilling style, like a one-of-a-kind gallery piece made from narrow curled paper strips. The subject is an anime-style young woman named {argument name="character name" default="Nozomu"} shown in right-facing side profile from the waist up, with very long flowing {argument name="hair color" default="white and pale silver hair with subtle blue strands"}. Her hair must be built from many thin layered paper ribbons, spirals, loops, and curled strips, while her face and bare skin remain smooth, soft, premium layered paper rather than frightening or overly textured. She has delicate features, pale skin, a small nose and lips, and large luminous {argument name="eye color" default="violet-blue eyes"} with fine anime eyelashes. She wears a white sleeveless dress with soft pleated paper folds and small quilled floral lace details at the bust and shoulder strap, plus a dangling flower earring. Add a lush cluster of exactly 9 visible large hair ornaments on the left side of her head: 3 lavender rose-like quilled flowers, 3 blue five-petal quilled flowers, 2 small white floral blossoms, and 1 pale leaf-and-pearl spray; surround them with many tiny pearl beads and leaf curls. Place exactly 1 blue quilled butterfly hovering near her raised fingertip on the right, with translucent curled-paper wings and dark blue outlines. The background is a pale icy blue panel filled with symmetrical decorative quilling scrollwork: curling vines, spiral rosettes, pearl dots, and teardrop loops in white, sky blue, and light cyan, arranged around the character without covering her face. Enclose the entire artwork inside a deep white wooden frame with a recessed shadow-box mat, visible bevels, soft shadows, and a clean museum-display look. At the bottom center, include a small cream plaque held by exactly 4 gold screws, with the main text {argument name="plaque title" default="のぞむ"}, the subtitle "NOZOMU", and a tiny English quote reading {argument name="plaque quote" default="Whispers of Bloom, Dreams in Blue. In a world of petals and light, she blooms, and hope takes flight."}. Use pastel whites, powder blue, lavender, pearl, and silver tones; highly detailed macro paper craft texture; crisp curled paper edges; soft studio lighting; shallow physical depth; cute, refined, delicate, and luxurious. Avoid photorealistic human skin, avoid horror texture, avoid extra characters, and keep all visible text only on the plaque.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2079040348504854841) | 2026-07-20
+
+---
+
+### 🖥️ 例 4619：Anime Alley Kick Transformation
+
+![Anime Alley Kick Transformation](../images/Anime%20Alley%20Kick%20Transformation.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为姿势和镜头构图指南，将普通的模特转化为极具张力的动漫动作角色，同时保留核心动作：采用低角度近景视角，一只穿着靴子的脚向镜头踢出，身体向前扭转，一侧膝盖抬起，双臂保持平衡或防御姿势。将模特替换为 {argument name="character type" default="一位黑发动漫哥特萝莉战士"}，身穿 {argument name="outfit style" default="带有蕾丝袖口、金色装饰和黑色高筒靴的褶边深蓝黑色连衣裙"}。添加强烈的面部表情和动态的头发效果。
+
+创建一个参考图中不存在的电影感夜间场景：一条狭窄且阴雨绵绵的城市小巷，地面湿润反光，上方有电线，两侧是店面、发光的招牌以及蓝粉色的霓虹灯光。通过运动模糊、前景鞋子周围的烟雾或能量轨迹、强烈的轮廓光、深邃的阴影以及夸张的透视效果来强调速度感和冲击力。采用细节丰富、具有电影对比度、饱和霓虹反射的现代动漫插画风格，并使用竖版海报构图。避免使用空白的工作室背景，避免呈现白色模特外观，并确保动作姿势尽可能贴近参考图。
+
+[English]
+Using REFERENCE_0 as the pose and camera-composition guide, transform the plain mannequin into a dramatic anime action character while preserving the core motion: a low-angle, close perspective with one booted foot thrust toward the camera, the body twisting forward, one knee lifted, and the arms posed for balance/guard. Replace the mannequin with {argument name="character type" default="a dark-haired anime gothic lolita fighter"} wearing {argument name="outfit style" default="a frilled dark blue-black dress with lace cuffs, gold accents, and tall black boots"}. Add intense facial expression and dynamic hair motion.
+
+Create a cinematic night setting not present in the reference: a narrow rainy urban alley with wet reflective pavement, overhead power lines, storefronts, glowing signs, and neon blue/pink lighting. Emphasize speed and impact with motion blur, smoke or energy streaks around the foreground shoe, strong rim lighting, deep shadows, and dramatic foreshortening. Use a highly detailed modern anime illustration style with filmic contrast, saturated neon reflections, and a vertical poster composition. Avoid a blank studio background, avoid a white mannequin look, and keep the action pose as close as possible to the reference.
+```
+
+**来源：** [@角煮星丸](https://x.com/_3912657840/status/2079035076915155181) | 2026-07-20
+
+---
+

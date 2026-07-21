@@ -3061,3 +3061,51 @@ Constraints: Keep all views and headshots visually consistent with REFERENCE_0, 
 
 ---
 
+### 🔧 例 4572：动漫海滩角色重绘
+
+![动漫海滩角色重绘](../images/%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%BB%A9%E8%A7%92%E8%89%B2%E9%87%8D%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图为角色基础，将该动漫海滩角色重绘为精致的高分辨率插画，构图采用更近距离、更具动感的正面视角。保留其核心特征：双色波波头、红眼、圆框眼镜、黑色翅膀、黑金配色泳装以及金色凉鞋，但需优化人体结构和服装细节，呈现出更具戏剧性的光泽感动漫风格。
+
+姿态与构图：调整姿态，使角色向前倾身面向观众，露出开朗的露齿微笑。一只手轻触或调整脸部附近的眼镜，另一只手臂向侧面伸展以保持平衡，一条腿向后抬起，展现俏皮的海滩姿态。将翅膀放大并完全展开，几乎覆盖整个画面。
+
+场景与添加元素：保留热带海滩背景，但使海水呈现更鲜艳的绿松石色，天空为更深邃的亮蓝色，并点缀大朵蓬松的白云。增加来自左上方的强烈阳光、明显的镜头光晕、闪烁的水面高光、漂浮的水滴/气泡，以及底部沙滩附近的小水花。在地平线两侧加入远处的绿色岛屿或海岸线。
+
+风格：创作一幅色彩鲜艳、光泽感强、细节丰富的动漫插画，要求线条清晰、色彩饱和、光影具有电影感、皮肤阴影柔和、羽毛纹理细腻，并营造出闪耀的夏日氛围。避免出现任何文字、Logo、边框或水印。
+
+[English]
+Using the provided reference image as the character base, regenerate the same anime beach character as a polished high-resolution illustration with a slightly closer, more dynamic front-facing composition. Keep the core identity, two-tone bob haircut, red eyes, round glasses, black wings, black-and-gold swim outfit, and gold sandals, but refine the anatomy and outfit into a more dramatic glossy anime style.
+
+Pose and composition: Change the pose so the character leans forward toward the viewer with a cheerful open-mouth smile. Have one hand lightly touching or adjusting the glasses near the face, the other arm extended out to the side for balance, and one leg lifted backward in a playful beach pose. Make the wings much larger and fully spread across the frame, extending nearly edge to edge.
+
+Setting and additions: Keep the tropical beach setting, but make the ocean more vivid turquoise and the sky a deeper bright blue with large fluffy white clouds. Add stronger sunlight from the upper left, visible lens flare, sparkling water highlights, floating water droplets/bubbles, and a small splash near the sand at the bottom. Include distant green islands or coastline on both sides of the horizon.
+
+Style: Create a vibrant, glossy, detailed anime illustration with crisp linework, saturated colors, cinematic lighting, soft skin shading, detailed feather texture, and sparkling summer atmosphere. Avoid text, logos, borders, or watermarks.
+```
+
+**来源：** [@86 - yum 🐟🐈 ねこ担当 (Chief Tuna Officer)](https://x.com/86_yum_neko/status/2079224049142755765) | 2026-07-20
+
+---
+
+### 🔧 例 4589：日式动漫风格房间扩展
+
+![日式动漫风格房间扩展](../images/%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%88%BF%E9%97%B4%E6%89%A9%E5%B1%95.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像为基础背景，将其扩展为更宽广的单场景动漫风格室内插画。保留原有的日式房间、透过玻璃推拉门看到的傍晚庭院景色、立式钢琴、椅子、油灯、木梁以及温暖昏暗的灯光，但从 {argument name="camera angle" default="右侧后方对角线视角"} 重新生成构图，以便展示更多房间细节。将画布扩展为宽屏电影级 {argument name="aspect ratio" default="16:9"} 布局，前景增加大面积榻榻米，并将钢琴向左侧中心移动。添加原裁剪区域之外的新细节：左侧走廊上放置 1 把藤椅，钢琴右侧增加 1 个木制展示架，上面摆放扇子、卷轴、布料和小物件，增加 1 个小型圆形彩色玻璃墙窗，最右侧墙壁悬挂 2 幅书法卷轴，右前方角落放置 1 个低矮的茶具/储物柜，上面摆放香炉、茶杯、茶壶、罐子和一个装饰性小袋。保持宁静怀旧的氛围、室外蓝色的黄昏、室内温暖的灯光、逼真的透视效果、抛光木材、榻榻米纹理以及精致的手绘动漫背景风格。请勿添加人物、现代物品、标题或水印。
+
+[English]
+Using the provided reference image as the base background, extend it into a wider one-scene anime-style interior illustration. Keep the same old Japanese room, evening garden view through the glass sliding doors, upright piano, chair, oil lamp, wood beams, and warm dim lighting, but regenerate the composition from a {argument name="camera angle" default="right diagonal rear viewpoint"} so more of the room is visible. Expand the canvas to a wide cinematic {argument name="aspect ratio" default="16:9"} layout with a large tatami-mat floor area in the foreground and the piano shifted toward the center-left. Add new visible details that were outside the crop: 1 wicker chair on the veranda at the left, 1 wooden display shelf to the right of the piano with a fan, scrolls, fabric, and small objects, 1 small round stained-glass wall window, 2 hanging calligraphy scrolls on the far-right wall, and 1 low tea/storage cabinet in the front-right corner with an incense burner, tea cups, teapot, jars, and a decorative pouch. Preserve the quiet nostalgic atmosphere, blue dusk outside, warm indoor lamp glow, realistic perspective, polished wood, tatami texture, and detailed hand-painted anime background style. Do not add people, modern objects, captions, or watermarks.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079156776822509830) | 2026-07-20
+
+---
+

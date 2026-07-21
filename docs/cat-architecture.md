@@ -2881,3 +2881,72 @@ Create a wide cinematic digital painting of a quiet traditional Japanese recepti
 
 ---
 
+### 🏛️ 例 4587：都市镜面自拍人像
+
+![都市镜面自拍人像](../images/%E9%83%BD%E5%B8%82%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+鏡越しの支度
+
+主体：
+ダークグレーのタイルで統一された都会的な浴室で、鏡に向かってスマートフォンを構える架空の成人女性。縦長3:4の画面中央やや左を人物が大きく占め、頭頂から太腿の中ほどまでを写す。右上にはスマートフォンを持つ手、左下には洗面台へ添えた手を配置し、前傾した身体の曲線と鏡越しの視線を画面の中心にする。
+
+人物・表情：
+落ち着いた大人らしさと健康的なメリハリを備えた女性。{argument name="髪型" default="長いダークブラウンのストレートヘア"}を胸元まで自然に下ろし、薄いセンターパートから細い後れ毛が頬にかかる。日系のナチュラルメイクで、柔らかな平行眉、繊細なまつ毛、淡いベージュブラウンのアイシャドウ、薄いローズ系チーク、濡れたようなピンクベージュのリップ。顔を画面右へわずかに向け、伏し目がちにスマートフォンの画面を見る。口元は力を抜き、静かで自然な表情。
+
+服装・ポーズ：
+{argument name="トップス" default="グレーの短いスポーツキャミソール"}。細い肩紐、身体に沿う伸縮性のあるリブ素材、胸下付近で終わるコンパクトな丈。ボトムは{argument name="ボトムス" default="アイボリーホワイトのハイウエスト・スポーツショートパンツ"}で、柔らかなストレッチ素材と自然な布の張り、腰と脚の動きに沿った細かな皺を表現する。
+上半身を鏡へ近づけるように前へ傾け、腰を画面右へ緩やかに移す。人物自身の右腕を曲げて顔の横でスマートフォンを縦に持ち、人差し指と中指を背面へ自然に添える。左腕は斜め下へ伸ばし、左手で画面左下の洗面台を支える。両肩の高さにわずかな差をつけ、重心と身体のひねりが自然につながる姿勢。
+
+背景・光：
+日本の都市型マンションにあるコンパクトで上質な浴室。壁はマットなチャコールグレーの大型タイル、床は細かなグレーのタイル張り。右奥に白い角型の小さなダストボックスを置き、装飾を抑えた清潔な空間にする。鏡の表面には、ごく薄い水滴跡と拭き跡を残すが、人物の顔や服装は明瞭に見える。
+
+構図・カメラ：
+縦長3:4、鏡越しの近距離ファッションスナップ。カメラ位置は胸の高さに近い平視で、わずかな広角感。人物の顔を左上寄り、腰を中央下、スマートフォンを右上に配置し、三角形の視線誘導を作る。頭上の余白は狭く、左右のタイル壁を少量残し、太腿は画面下端で自然に裁切する。
+
+質感・スタイル：
+スマートフォンで撮影したようなリアルな室内写真。自然な肌理、細い産毛、髪の一本一本、リブ生地とストレッチ素材の違いを丁寧に描写する。
+
+ネガティブ：
+幼い顔立ち、不自然な視線、左右の手の混同、余分な指、欠けた指、融合した指、歪んだスマートフォン、鏡像の矛盾、腕や関節の破綻、不自然な布の食い込み、浮遊、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2079162905799557430) | 2026-07-20
+
+---
+
+### 🏛️ 例 4591：奢华花园风“预留日期”邀请卡
+
+![奢华花园风“预留日期”邀请卡](../images/%E5%A5%A2%E5%8D%8E%E8%8A%B1%E5%9B%AD%E9%A3%8E%E2%80%9C%E9%A2%84%E7%95%99%E6%97%A5%E6%9C%9F%E2%80%9D%E9%82%80%E8%AF%B7%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为穆斯林夫妇创作一张高端浪漫的“预留日期”编辑风格照片卡。使用 1:1 正方形画布，呈现奢华婚礼文具的质感。上方三分之二为一对年轻黑人夫妇在郁郁葱葱的花园小径中的温暖黄金时刻肖像，周围环绕着盛开的绿植和柔和的焦外成像阳光。新郎站在左侧，面朝前方，神情沉稳优雅，佩戴圆框眼镜，身穿海军蓝双排扣西装，搭配金色纽扣、白色衬衫、蓝色领带、口袋巾和腕表。新娘站在右侧，靠向新郎，一只手放在他胸前展示戒指，身穿修身长袖象牙白礼服，佩戴飘逸的柔粉棕色印花头巾，妆容精致，面带宁静微笑。画面应具有电影感、高端感、柔和修饰感及照片级真实感，具备浅景深、奶油色高光、右上角的温暖光晕以及背景中的白粉色玫瑰。下方三分之一应渐变为柔和的象牙白雾面叠加层，用于展示文字。添加居中的优雅婚礼文字：顶部为小间距衬线大写字母“SAVE THE DATE”（金色）；下方为非常大的黑色书法名字“{argument name="couple names" default="Abduraheem & Khadijat"}”；再下方为小间距金色衬线大写字母“ARE GETTING MARRIED”；随后是日期行，左侧为“SATURDAY”，中间为巨大的金色“{argument name="day number" default="25"}”，右侧为“{argument name="month and year" default="AUGUST 2026"}”，中间以细长的金色竖线分隔。在日期区域上下添加精致的金色装饰花纹，底部添加一行小巧的草书文字“{argument name="bottom note" default="Formal invitation to follow"}”。保持卡片精致简洁，排版对齐完美，无额外文字，无水印，无边框。
+
+[English]
+Create a premium romantic save-the-date editorial photo card for a Muslim couple. Use a square 1:1 canvas with a luxurious wedding stationery look. The top two-thirds should be a warm golden-hour portrait of a young Black couple standing close together in a lush garden aisle framed by flowering greenery and soft bokeh sunlight. The groom stands on the left, facing forward with a calm elegant expression, wearing round glasses, a navy double-breasted suit with gold buttons, white dress shirt, blue tie, pocket square, and wristwatch. The bride stands on the right, leaning into him with one hand on his chest showing a ring, wearing a fitted long-sleeve ivory dress and a flowing muted rose-and-brown patterned hijab, with polished bridal makeup and a serene smile. The scene should feel cinematic, high-end, softly retouched, and photorealistic, with shallow depth of field, creamy highlights, warm sun flare in the upper right, and white/pink roses in the background. The lower third should fade into a soft ivory mist overlay for typography. Add centered elegant wedding text: small spaced serif uppercase “SAVE THE DATE” in gold; below it, very large black calligraphy names “{argument name="couple names" default="Abduraheem & Khadijat"}”; below that, small spaced gold serif uppercase “ARE GETTING MARRIED”; then a date line with “SATURDAY” on the left, a large gold “{argument name="day number" default="25"}” in the center, and “{argument name="month and year" default="AUGUST 2026"}” on the right, separated by thin vertical gold lines. Add delicate gold ornamental flourishes above and below the date area, and a small cursive line at the bottom reading “{argument name="bottom note" default="Formal invitation to follow"}”. Keep the card refined and uncluttered, with perfect typography alignment, no extra text, no watermark, and no border.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2079153499208581350) | 2026-07-20
+
+---
+
+### 🏛️ 例 4605：日式夏季室内生活方式人像
+
+![日式夏季室内生活方式人像](../images/%E6%97%A5%E5%BC%8F%E5%A4%8F%E5%AD%A3%E5%AE%A4%E5%86%85%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：夏をほどく視線 主体：縦長9:16。日本の古い木造住宅を思わせる明るい和洋室で、成熟した女性らしい曲線を持つ架空の成人女性が、窓際のベージュ色のローソファにゆったり座っている。人物は画面中央やや左に配置し、頭から素足までを入れた全身寄りの構成。人物が画面の約75％を占め、右側にはソファと窓辺の余白を残す。 人物・表情：落ち着いた大人の雰囲気を持つ女性。やや面長の端正な顔立ち、自然な丸みのある頬、上品で柔らかな顎のライン。髪は艶のあるダークブラウンのロングヘアで、薄いシースルーバングと顔まわりのレイヤー。髪の一部が頬と肩に自然にかかる。メイクは繊細な日系メイクで、ピンクブラウンのアイシャドウ、細いアイライン、自然な涙袋、コーラルベージュのリップ。頭を少し右へ傾け、右手の甲に頬を軽く預ける。視線は正面のカメラへ向け、口元は閉じたまま、静かで少し気だるい表情。 服装・ポーズ：白いリブ素材の細いストラップ付きサマートップスと、淡いアイボリーの短いフリルショートパンツ。上から透け感のある白いサマーニットカーディガンを肩からゆるく羽織る。服装は清潔感のある夏の室内着で、胸元や脚の露出は自然な範囲に抑える。上半身はソファの背へ軽く預け、左腕は身体の横に下ろして座面を支える。右肘をソファの背に置き、右手で頬を支える。右脚は手前へ大きく曲げ、左脚はその下で横へ流し、足首を自然に重ねる。腰と腿には成熟した体型らしい自然な丸みを持たせ、重心と衣服のしわを正確に表現する。 背景・光：背景は夏の日本家屋を思わせる木枠の大きな窓、障子風の建具、畳、籐のローテーブル、小型のレトロ扇風機。窓の外には深い緑の木々を大きくぼかして配置する。前景左下に籐のトレーと氷入りの透明なグラスを置く。強い夏の日差しが画面右上の窓から斜めに入り、髪の輪郭、肩、太腿、膝、ソファ表面に細いハイライトを作る。影は画面左下へ柔らかく落ち、畳と白い服から淡い反射光が顔の影側を持ち上げる。室内は暖色、窓外は明るい緑で、夏らしい自然な冷暖差を作る。 構図・カメラ：スマートフォン向けの縦長9:16。カメラは人物の胸より少し高い位置から軽く見下ろす。50mm相当の自然な圧縮感で、顔、上半身、手前の脚を立体的に見せる。顔に正確にピントを合わせ、髪と服の編み目は明瞭、窓外と奥の建具は柔らかくぼかす。手前の脚をやや大きく見せつつ、遠近感は自然に保つ。頭上の余白は少なめ、足元は画面下端で自然に裁切する。 質感・スタイル：高精細なリアル写真。夏の自然光を生かした日本のライフスタイル雑誌風ポートレート。肌は明るいアイボリーベージュで、頬、肩、膝に自然な血色と微細な肌理を残す。過度な美肌補正を避け、産毛、髪の細い毛束、リブ生地、透かし編み、籐、畳、布張りソファの素材差を丁寧に描写する。低彩度のアイボリー、ベージュ、木の茶色、夏の緑を中心に、柔らかなフィルム粒子と控えめなコントラスト。 ネガティブ：幼い顔立ち、不自然に細い体型、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、脚のねじれ、不自然な重力、衣服との接触不良、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2079078348446204109) | 2026-07-20
+
+---
+

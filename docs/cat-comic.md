@@ -7011,3 +7011,159 @@ Constraints: Do not make it realistic, cinematic, or dark. Avoid sharp photograp
 
 ---
 
+### 🎬 例 4556：闹鬼电脑商店漫画页面
+
+![闹鬼电脑商店漫画页面](../images/%E9%97%B9%E9%AC%BC%E7%94%B5%E8%84%91%E5%95%86%E5%BA%97%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页日本漫画场景，讲述一家闹鬼的电脑零件店里，一个扫地机器人召唤出可爱的 AI 吉祥物并引发混乱的故事。
+
+画布：竖版漫画页面，3 行堆叠布局，带有粗黑色装订线和白色页边距，高细节彩色动漫风格。在左上角添加一行小型标题“{argument name="series title" default="電脳妖精らきもたん〜ロボット掃除機は夢を見ない〜"}”，右上角添加页码“1/1”。
+
+布局：使用 4 个分镜。第 1 格横跨顶部全宽。第 2 格位于中间行的左半部分。第 3 格位于中间行的右半部分。第 4 格横跨底部全宽。保持整洁的漫画分镜边框和易读的竖排日文对话气泡。
+
+主要场景：一家杂乱的复古 PC 维修/旧货店，堆满了旧 CRT 显示器、PC-98 电脑、电缆、项目、工具、货架、抽屉和电子零件。氛围幽默、超自然且混乱。包含日文招牌，包括“ジャンクショップ スルポ”和一块写着“ジャンクショップ スルポ”的纸板标牌。其中一台显示器应显示“PC-98 起動中…”。
+
+角色：包含 3 个固定角色：1) 中年父亲/店主，神情放松友好，棕色乱发，留着浅胡茬，穿着花哨的夏威夷衬衫，戴着灰色工作手套，手持螺丝刀；2) 他的青少年/年轻成年儿子，身材苗条，棕色乱发，灰色衬衫外搭黑色连帽衫，表情丰富且持怀疑态度；3) 一个微小的漂浮赛博精灵/机器人女仆吉祥物，名为 {argument name="mascot name" default="らきもー！"}，蓝色双马尾，发梢卷曲，明亮的蓝色眼睛，身穿带有黄色蝴蝶结的蓝白女仆装，带有数字像素光效，围裙上有红色的“R”字样，胸前有一个小型黑色显示屏。
+
+分镜细节与文字：第 1 格：店内广角全景。父亲站在左侧，在木制工作台上拿着螺丝刀冷静地工作，旁边是一个白色圆形扫地机器人。儿子站在右侧，双臂交叉，怀疑地看着那个圆盘。包含 2 个对话气泡：父亲说“下取りだ。床が拭けるらしい”；儿子说“親父、なにその円盤”。第 2 格：儿子在黄色速度线背景下惊恐后退的特写/反应镜头，双手向前推，嘴巴大张。包含 2 个对话气泡：锯齿状大气泡“うわっ出た！触るな触るな!!”；小气泡“妖精さんも掃除がしたいんだろ”。第 3 格：蓝色吉祥物在白色扫地机器人上方显现，伴随着发光的蓝色像素和闪光，姿态欢快，一只手臂伸出。侧面展示一台旧 CRT 塔式机箱/显示器。包含粉色手写音效文字“らきもー！”和一个对话气泡：“ぴかぴかの円盤さん発見なのです!”. 第 4 格：店内全宽混乱场景。扫地机器人的顶部变成了一个发光的蓝色旋转传送门或带有微小白色文字的蓝屏圆盘，形成了一个吸入电缆、PC 零件、键盘、磁盘、项目和工具的漩涡。儿子在左侧，惊恐地向后踉跄，双手举起。吉祥物在右侧，眼睛呈螺旋状，虽然可爱但显得很吃惊。包含戏剧性的红色音效“ブオオオ!!”。包含 3 个对话气泡：左侧锯齿状气泡“だから言ったのに!!”；右上角气泡“なでなでするだけなのです〜”；右下角气泡“…仕様です!”.
+
+视觉风格：细腻的现代动漫漫画配色，清晰的墨线轮廓，戏剧性的速度线，夸张的表情，密集的背景机械细节，明亮的超自然蓝光与温暖尘土飞扬的店铺色调形成对比。日文文字应在适当的对话气泡中以竖排手写体呈现。
+
+约束条件：使用 4 个分镜，3 个主要角色，使用列出的所有对话气泡和音效，不添加额外分镜，无水印，不得将图像中的日文替换为英文。
+
+[English]
+Goal: Create a single-page Japanese manga scene about a haunted computer parts shop where a robot vacuum disc summons a cute AI mascot and causes chaos.
+
+Canvas: Portrait manga page, 3 stacked rows with thick black gutters and white page margins, high-detail colored anime style. Add a small top header line reading {argument name="series title" default="電脳妖精らきもたん〜ロボット掃除機は夢を見ない〜"} at the upper left and page number “1/1” at the upper right.
+
+Layout: Use exactly 4 panels. Panel 1 spans the full width across the top. Panel 2 is the lower-left half of the middle row. Panel 3 is the lower-right half of the middle row. Panel 4 spans the full width across the bottom. Keep clean manga panel borders and readable vertical Japanese speech bubbles.
+
+Main setting: A cluttered retro PC repair/junk shop packed with old CRT monitors, PC-98 computers, cables, circuit boards, tools, shelves, drawers, and electronic parts. Mood is comic, supernatural, and chaotic. Include shop signage in Japanese, including “ジャンクショップ スルポ” and a cardboard sign “ジャンクショップ スルポ”. One monitor should show “PC-98 起動中…”.
+
+Characters: Include exactly 3 recurring subjects: 1) a middle-aged father/shopkeeper, relaxed and friendly, brown messy hair, light stubble, floral Hawaiian shirt, gray work gloves, holding a screwdriver; 2) his teenage/young adult son, slim, brown messy hair, black hoodie over gray shirt, expressive and skeptical; 3) a tiny floating cyber fairy/robot-maid mascot named {argument name="mascot name" default="らきもー！"}, blue twin-tail hair with a loop curl, bright blue eyes, white-and-blue maid dress with yellow bows, digital pixel glow, apron with red “R”, and a small black chest display.
+
+Panel details and text: Panel 1: Wide establishing shot inside the shop. The father stands left, working calmly with a screwdriver beside a white circular robot vacuum on a wooden workbench. The son stands right with arms crossed, suspiciously looking at the disc. Include 2 speech bubbles: father says “下取りだ。床が拭けるらしい”; son says “親父、なにその円盤”. Panel 2: Close-up/action reaction of the son recoiling in panic against yellow speed lines, hands thrust forward, mouth open. Include 2 speech bubbles: jagged large bubble “うわっ出た！触るな触るな!!”; small bubble “妖精さんも掃除がしたいんだろ”. Panel 3: The blue mascot materializes above the white robot vacuum with glowing blue pixels and sparkles, cheerful pose, one arm outstretched. Show an old CRT tower/monitor at the side. Include pink handwritten sound/effect text “らきもー！” and one speech bubble: “ぴかぴかの円盤さん発見なのです!”. Panel 4: Full-width chaos scene in the shop. The robot vacuum’s top has transformed into a glowing blue spinning portal or blue-screen disc with tiny white text, creating a vortex that sucks in cables, PC parts, keyboards, disks, circuit boards, and tools. The son is left, stumbling backward in terror with hands raised. The mascot is right, dizzy spiral eyes, still cute but startled. Include dramatic red sound effect “ブオオオ!!”. Include exactly 3 speech bubbles: left jagged bubble “だから言ったのに!!”; upper-right bubble “なでなでするだけなのです〜”; lower-right bubble “…仕様です!”.
+
+Visual style: Detailed modern anime manga coloring, crisp ink outlines, dramatic speed lines, exaggerated expressions, dense background mechanical detail, bright supernatural blue glow contrasting with warm dusty shop tones. Japanese text should be hand-lettered vertically in speech bubbles where appropriate.
+
+Constraints: Use exactly 4 panels, exactly 3 main characters, exactly the listed speech bubbles and sound effects, no extra panels, no watermark, no English replacement for the Japanese in-image text.
+```
+
+**来源：** [@さ🥺](https://x.com/_sagyoai/status/2079336668612677735) | 2026-07-20
+
+---
+
+### 🎬 例 4570：Q 版监狱餐漫画
+
+![Q 版监狱餐漫画](../images/Q%20%E7%89%88%E7%9B%91%E7%8B%B1%E9%A4%90%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅两格 Q 版动漫监狱漫画场景，内容为一个女孩自私地吃着监狱餐，另一个女孩在哭泣，同时另外两个女孩在走廊进行评论。
+
+画布：宽幅 16:9 水平插图，通过监狱栅栏和墙壁分割精确分为 2 个垂直面板。使用带有柔和动漫阴影的忧郁灰色石质监狱背景，细节丰富但不追求写实。
+
+布局：左侧面板显示小牢房内部；右侧面板显示牢房外的走廊。保持构图对称，使左侧面板感觉像一个封闭的房间，右侧面板感觉像观察者站在栅栏外。
+
+左侧面板细节：在牢房内展示 2 个 Q 版女孩。女孩 1，{argument name="greedy eater name" default="Anis"}，坐在左侧一张方形小金属桌旁，戴着深色军用风格贝雷帽，身穿黑橙色服装，双眼因得意的喜悦而眯起，脸颊上沾满了米饭和酱汁，将食物紧贴嘴边，独占了整顿餐食。女孩 2，{argument name="crying prisoner name" default="Miranda"}，坐在桌子右侧的地板上，戴着一顶带有徽章的海军警帽，身穿深色制服，扎着双马尾，穿着靴子；她看起来泪眼汪汪且饥肠辘辘，紧紧抱着膝盖。在牢房内展示 7 个清晰可见的餐点或餐具：桌上 1 个装有米饭和棕色炖菜的大盘子，桌上 1 个金属小杯或碗，桌上 1 个汤碗，哭泣女孩附近地板上 1 个空盘子，左下角栅栏外 1 个带少量米饭的盘子，左下角 1 个装有棕色食物的盘子，以及左下角地板上 1 个小碗。在桌子周围添加面包屑、洒落的米饭和细小的食物残渣。在后方石墙上加入双层床，最左侧墙壁上有小水槽和水龙头，以及裂开的砖块、污渍、铁锈和肮脏的混凝土底面。
+
+右侧面板细节：在栅栏外的走廊里展示 2 个站立的 Q 版女孩。女孩 3，{argument name="red beret observer name" default="Rapi"}，站在走廊左侧，身穿带有红色装饰的深色军装，戴着红星贝雷帽，金发，表情中立且不以为然，看向牢房。女孩 4，{argument name="white uniform observer name" default="Neon"}，站在右侧，身穿白色水手风制服，戴着带有翅膀徽章的白帽，戴眼镜，留着淡紫色波波头，穿着白色过膝长靴，表情平静。走廊左侧有高大的黑色铁栅栏，背景是深邃的走廊、染色的混凝土墙壁和灰色地砖。
+
+对话气泡：在右侧面板中添加 2 个带有黑色日语文本的白色对话气泡。红贝雷观察者上方的左侧气泡内容为 {argument name="left speech bubble" default="アイドルよね？"}。白色制服观察者上方的右侧气泡内容为 {argument name="right speech bubble" default="元アイドルですね。"}。使用清晰的漫画字体、黑色文本，以及指向说话者的简单尾巴。
+
+视觉风格：可爱的 Q 版比例，大头小身，表情丰富，柔和的赛璐珞阴影，柔和的监狱色调，微妙的污垢感，服装和道具细节丰富，氛围幽默但略显凄凉。尽可能保持所有角色全身或近乎全身可见。
+
+限制：使用 4 个角色，2 个面板，2 个对话气泡，以及 7 个清晰可见的餐点/餐具。不要添加多余的角色、额外的对话、现代 UI 元素、水印或对话气泡之外的标题。
+
+[English]
+Goal: Create a two-panel chibi anime prison comic scene about one girl selfishly eating a prison meal while another cries, with two other girls commenting from the corridor.
+
+Canvas: Wide horizontal 16:9 illustration, split into exactly 2 vertical panels by the prison bars and wall division. Use a moody gray stone jail background with soft anime shading, detailed but not photorealistic.
+
+Layout: Left panel shows the inside of a small jail cell; right panel shows the corridor outside the cell. Keep the composition symmetrical enough that the left panel feels like an enclosed room and the right panel feels like observers standing outside the bars.
+
+Left panel details: Show exactly 2 chibi girls in the cell. Girl 1, {argument name="greedy eater name" default="Anis"}, sits at a small square metal table on the left, wearing a dark military-style beret and black/orange outfit, eyes squeezed shut in smug delight, cheeks messy with rice and sauce, holding food close to her mouth as she monopolizes the meal. Girl 2, {argument name="crying prisoner name" default="Miranda"}, sits on the floor to the right of the table, wearing a navy police-like cap with an emblem, a dark uniform, twin ponytails, and boots; she looks tearful and hungry, clutching her knees. Show exactly 7 visible meal items or dishes in the cell: 1 large rice-and-brown-stew plate on the table, 1 small metal cup or bowl on the table, 1 soup bowl on the table, 1 empty plate on the floor near the crying girl, 1 plate with a bit of rice outside the bars at lower left, 1 plate with brown food at lower left, and 1 small bowl on the floor at lower left. Add crumbs, spilled rice, and tiny food bits around the table. Include a bunk bed against the back stone wall, a small sink and faucet on the far left wall, cracked blocks, stains, rust, and dirty concrete floor.
+
+Right panel details: Show exactly 2 chibi girls standing in the corridor outside the barred cell. Girl 3, {argument name="red beret observer name" default="Rapi"}, stands left in the corridor wearing a dark military uniform with red accents and a red-star beret, blonde hair, neutral unimpressed expression, looking toward the cell. Girl 4, {argument name="white uniform observer name" default="Neon"}, stands right wearing a white sailor-style uniform, white cap with wing emblem, glasses, lavender bob hair, white thigh-high boots, and a calm expression. The corridor has tall black iron bars on the left, a dark receding hallway, stained concrete walls, and gray floor tiles.
+
+Speech bubbles: Add exactly 2 white speech bubbles with black Japanese text in the right panel. The left bubble above the red-beret observer says {argument name="left speech bubble" default="アイドルよね？"}. The right bubble above the white-uniform observer says {argument name="right speech bubble" default="元アイドルですね。"}. Use clean manga lettering, black text, and simple tails pointing to the speakers.
+
+Visual style: Cute chibi proportions with large heads, small bodies, expressive faces, soft cel shading, muted prison colors, subtle grime, high detail in costumes and props, humorous but slightly pitiful mood. Keep all characters full-body or near full-body where visible.
+
+Constraints: Use exactly 4 characters, exactly 2 panels, exactly 2 speech bubbles, and exactly 7 visible meal dishes/items. Do not add extra characters, extra dialogue, modern UI elements, watermarks, or captions outside the speech bubbles.
+```
+
+**来源：** [@まるるん＠Nikke好き](https://x.com/TachMaru/status/2079226257523548376) | 2026-07-20
+
+---
+
+### 🎬 例 4593：柔软绘本风拥抱兔子头像
+
+![柔软绘本风拥抱兔子头像](../images/%E6%9F%94%E8%BD%AF%E7%BB%98%E6%9C%AC%E9%A3%8E%E6%8B%A5%E6%8A%B1%E5%85%94%E5%AD%90%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 为角色基础，将其转换为柔软、充满童趣的绘本插画风格头像。保留标志性的发型、深蓝色西装、白衬衫和红色领带，但将面部处理得圆润柔和，闭上双眼，带有红润的脸颊和宁静的微笑。调整姿势，让角色正温暖地拥抱一只垂耳小白兔。移除讲台、麦克风和现实背景。将简化后的角色置于温暖的金色纹理背景中心，背景需带有细微的纸张颗粒感和几颗星状闪光。采用柔和的蜡笔/粉笔质感，线条圆润，细节简约，边缘带有光晕，营造出天真烂漫的童书氛围。方形构图，无文字，无水印。
+
+[English]
+Using REFERENCE_0 as the character base, transform the person into a soft, childlike storybook illustration avatar. Keep the recognizable hair, navy suit, white shirt, and red tie, but make the face rounded and gentle with closed eyes, rosy cheeks, and a peaceful smile. Change the pose so the character is warmly hugging one small white bunny with floppy ears. Remove the podium, microphone, and real-world background. Place the simplified character centered on a warm golden-yellow textured backdrop with subtle paper grain and a few tiny star-like sparkles. Use a soft pastel, fuzzy crayon/chalk texture with rounded forms, low detail, glowing edges, and an innocent whimsical children’s-book mood. Square composition, no text, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079131775322960232) | 2026-07-20
+
+---
+
+### 🎬 例 4598：可爱的 AI 漫画教学页面
+
+![可爱的 AI 漫画教学页面](../images/%E5%8F%AF%E7%88%B1%E7%9A%84%20AI%20%E6%BC%AB%E7%94%BB%E6%95%99%E5%AD%A6%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个精致的竖版动漫漫画页面，讲述两个女孩一起开启 AI 漫画项目的故事，采用温暖的柔和光影、可爱的爪印元素以及干净专业的线条。
+
+画布：竖版漫画页面，2:3 比例，全彩，黑色分镜框。页面包含 3 个分镜：左侧上下排列两个较小的分镜，右侧为一个全高的长分镜。在右侧长分镜中使用动态的漫画速度线。
+
+布局：左列包含顶部的分镜 1 和下方的分镜 2，中间由黑色间隙隔开。右列为一个跨越全高的长分镜。保持对话气泡宽大且易读，并使用竖排日文。
+
+角色：展示 2 个固定的动漫女孩。女孩 1 是一个看起来困倦的淡紫色头发女孩，留着凌乱的短波波头，金色眼睛，皮肤白皙，穿着淡紫色超大连帽衫，带有精致的爪印细节；她怀里抱着一只棕色泰迪熊，戴着一个小熊发夹。女孩 2 是一个充满活力的猫耳女孩，浅棕色侧马尾，紫色眼睛，长着棕色毛茸茸的猫耳和尾巴，穿着白色露脐连帽衫，配有紫色爪印抽绳、破洞牛仔短裤、条纹袜、紫色鞋带的白色运动鞋，脖子上挂着手机包，腰间系着一个小巧的棕色爪印腰包，戴着三角形发夹。使用 {argument name="lavender girl mood" default="困倦且犹豫"} 和 {argument name="cat girl mood" default="开朗、兴奋且充满鼓励"}。
+
+分镜细节：分镜 1（左上）：在温馨的淡紫色卧室里，时间为早晨或午后，淡紫色头发的女孩坐在床上抱着泰迪熊，看起来疲惫且退缩。背景包括紫色窗帘、温暖的阳光、月牙和星星墙饰以及柔软的床品。分镜 2（左下）：在同一个可爱房间的小书桌旁，猫耳女孩坐在淡紫色头发女孩身边，热情地打开一台带有爪印标志的紫色笔记本电脑。包含 5 个清晰可见的桌面或背景物品：一个带有猫脸图案的紫色马克杯、一本带有小熊图案的闭合笔记本、一个紫色小毛绒玩具、一张墙面清单海报以及一张小熊相框。在猫耳女孩周围添加闪光效果。分镜 3（右侧）：猫耳女孩冲进阳光明媚的房间，一只手扶着门，另一只手向前伸展，笑容灿烂，仿佛在邀请读者。展示她的全身、毛茸茸的尾巴、运动鞋和充满活力的姿势。背景有木地板、书架、一盆小植物、下层书架上的泰迪熊以及一个带有爪印的圆形紫色地垫。
+
+文本内容：使用 2 个对话气泡。在右侧的大分镜中，在右上角放置一个长椭圆形对话气泡，内容为 {argument name="main speech bubble" default="ねむー！AIで漫画つくろー！"}。在左下角的分镜中，在左侧放置一个对话气泡，内容为 {argument name="reply speech bubble" default="急だね…"}。确保日文字符加粗、黑色、竖排且清晰易读。
+
+视觉风格：现代高质量动漫漫画插画，柔和赛璐珞上色，精致高光，淡紫色与暖米色调，富有表现力的眼睛，可爱的萌系角色设计，温馨的卧室氛围，清晰的墨线轮廓，细腻的网点纹理，精致的网漫质感。
+
+约束条件：必须包含 3 个分镜、2 个角色、2 个对话气泡，无额外对话，无水印，除爪印元素外无任何标志，确保角色设计在各分镜中保持一致。
+
+[English]
+Goal: Create a polished vertical anime manga page about two girls starting an AI manga project together, with warm pastel lighting, cute paw-print motifs, and clean professional line art.
+
+Canvas: Vertical manga page, 2:3 aspect ratio, full color, black panel borders. The page has exactly 3 panels: two smaller stacked panels on the left and one tall full-height panel on the right. Use dynamic manga speed lines in the tall right panel.
+
+Layout: Left column contains Panel 1 on top and Panel 2 below, separated by a black gutter. Right column is one large panel spanning the full height. Keep speech bubbles large and readable with vertical Japanese text.
+
+Characters: Show exactly 2 recurring anime girls. Girl 1 is a sleepy-looking lavender-haired girl with short tousled bob hair, golden eyes, pale skin, and a lavender oversized hoodie with subtle paw-print details; she clutches a tan teddy bear and has a small bear hair clip. Girl 2 is an energetic cat-eared girl with light brown hair in a side ponytail, purple eyes, tan fluffy cat ears and tail, a white cropped hoodie with purple paw-print drawstrings, ripped denim shorts, striped socks, white sneakers with purple laces, a phone pouch around her neck, a small tan paw-print belt pouch, and a triangular hair clip. Use {argument name="lavender girl mood" default="sleepy and hesitant"} and {argument name="cat girl mood" default="bright, excited, and encouraging"}.
+
+Panel details: Panel 1, top-left: inside a cozy lavender bedroom at morning or afternoon, the lavender-haired girl sits on a bed hugging a teddy bear, looking tired and withdrawn. Background includes a purple curtain, warm sunlight, crescent moon and star wall decorations, and soft bedding. Panel 2, bottom-left: at a small desk in the same cute room, the cat-eared girl sits beside the lavender-haired girl and enthusiastically opens a purple laptop with a paw-print logo. Include exactly 5 visible desk or background items: a purple mug with a cat face, a closed notebook with a small bear motif, a tiny purple plush, a wall checklist poster, and a small framed bear picture. Add sparkle effects around the cat girl. Panel 3, right: the cat-eared girl bursts through an open doorway into a sunlit room, one hand holding the door and the other reaching forward, smiling widely as if inviting the viewer. Show her full body, fluffy tail, sneakers, and energetic pose. Background has wooden floor, shelves with books, a small potted plant, a teddy bear on a lower shelf, and a round purple floor cushion with a paw print.
+
+Text content: Use exactly 2 speech bubbles. In the large right panel, place a tall oval speech bubble near the upper-right with the text {argument name="main speech bubble" default="ねむー！AIで漫画つくろー！"}. In the bottom-left panel, place a speech bubble on the left side with the text {argument name="reply speech bubble" default="急だね…"}. Keep the Japanese characters bold, black, vertical, and legible.
+
+Visual style: Modern high-quality anime manga illustration, soft cel shading, delicate highlights, pastel lavender and warm beige palette, expressive eyes, cute moe character design, cozy bedroom atmosphere, crisp inked outlines, subtle screentone texture, polished webcomic finish.
+
+Constraints: Exactly 3 panels, exactly 2 characters, exactly 2 speech bubbles, no extra dialogue, no watermarks, no logos except paw-print motifs, maintain consistent character designs across panels.
+```
+
+**来源：** [@しば｜AIで遊んで本を作る犬](https://x.com/yoya4848/status/2079116494882115845) | 2026-07-20
+
+---
+
