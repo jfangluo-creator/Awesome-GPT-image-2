@@ -9383,3 +9383,89 @@ Create a cinematic night setting not present in the reference: a narrow rainy ur
 
 ---
 
+### 🖥️ 例 4667：Nefra Desert Oracle 角色设定表
+
+![Nefra Desert Oracle 角色设定表](../images/Nefra%20Desert%20Oracle%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个超详细的 16:9 奇幻 RPG 角色设计表，用于 {argument name="character name" default="NEFRA"}，标题为 {argument name="character title" default="Desert Oracle"}，呈现效果如同官方 AAA 级奇幻游戏角色设定集，背景为优雅的象牙白，配以极简的奢华 UI。
+
+画布：宽幅 16:9 横向布局，温暖的灰白色羊皮纸/象牙色背景，精致的编辑排版，深棕色细衬线字体标签，柔和的金色点缀，无边框，无水印。
+
+主角：一位年轻的动漫风格沙漠先知女性，拥有温暖的棕色皮肤、琥珀色双眼、白色短波波头配齐刘海，头顶系着巨大的奶油色羽毛饰品，佩戴华丽的金色头饰。她身着优雅的白金配色沙漠舞者/先知服装：短款抹胸上衣、半透明薄纱袖子和披风、层叠的不对称白色裙摆配金色几何饰边、黑色和深炭灰色腰带，饰有大量金链、流苏、珠子、手镯、臂环、脚链和赤足凉鞋。她手持一根高大的黑金配色仪式法杖，顶部为新月形，镶嵌圆形琥珀球，悬挂装饰物，底部为矛状尖端。整体色调为象牙白、沙色、赭石色、琥珀金、青铜色、暖棕褐色、炭灰色和黑色。
+
+布局：最左侧放置标题栏，书写“{argument name="character name" default="NEFRA"}”，副标题为“— {argument name="character title" default="Desert Oracle"} —”，并附上一段简短的背景故事：“一位来自无尽沙丘的流浪先知。她在流动的沙砾中解读命运的轨迹，指引迷途的灵魂走向归宿。” 在此文字下方及侧面，展示一张大型全身英雄插画，角色正面朝向，垂直握持法杖。左下角包含一行标有“COLOR PALETTE”的色板，包含 7 个圆形色块：焦陶土色、橙赭色、浅沙色、暖象牙色、灰褐色、近黑色炭色以及金属金色。
+
+中心三视图部分：展示 3 个较小的全身模型视图，分别标注为“FRONT”、“SIDE”和“BACK”。它们应描绘同一角色，服装和比例保持一致，姿态中立，从各个角度展示服装结构。
+
+右侧参考部分：右上角包含一张大型“HEAD CLOSE-UP”肖像，展示她的面部、白发、羽毛饰品、金色额饰、琥珀色双眼和厚重的长方形金耳环。下方创建一行“EXPRESSIONS”，包含 3 个小型半身肖像：严肃的中性表情、闭眼微笑的快乐表情，以及张嘴的惊讶表情。
+
+底部参考部分：添加一行“ACCESSORIES”，包含 4 个独立的饰品研究：一件带流苏的金色颈饰/头带、一条带流苏的琥珀吊坠项链、一对圆柱形金耳环，以及一个带链条和流苏的腰带/腰部装饰。添加“STAFF DETAILS”，包含 2 个法杖特写：一个是包含新月和球体的完整顶部，另一个是强调悬挂金饰的更近视角。添加“PATTERN DETAILS”，包含 1 个垂直矩形的织物细节插图，展示白色薄纱和深色腰带的纹理、金色几何边框图案、链条和流苏。
+
+视觉风格：高端日本动漫奇幻概念艺术，线条清晰利落，柔和的赛璐珞阴影与绘画渲染相结合，华丽的金色材质细节，精致的织物透明感，奢华的沙漠祭司设计语言，平衡的留白，所有视图中角色比例保持一致。
+
+约束：所有标签保持英文大写衬线字体；包含 1 张英雄全身插画，3 个全身三视图，1 个头部特写，3 个表情肖像，4 个饰品研究，2 个法杖细节图，1 个图案细节插图，以及 7 个色块。避免添加额外的角色、风景、标志、签名或复杂的背景装饰。
+
+[English]
+Goal: Create an ultra-detailed 16:9 fantasy RPG character design sheet for {argument name="character name" default="NEFRA"}, titled {argument name="character title" default="Desert Oracle"}, presented like an official AAA fantasy game character bible on an elegant ivory background with minimal luxury UI.
+
+Canvas: Wide horizontal 16:9 layout, warm off-white parchment/ivory backdrop, refined editorial spacing, thin serif labels in dark brown, soft gold accents, no border, no watermark.
+
+Main character: A young anime-style desert oracle woman with warm brown skin, golden amber eyes, short white bobbed hair with blunt bangs, a large cream feather plume tied at the crown, and ornate gold head jewelry. She wears an elegant white-and-gold desert dancer/oracle outfit: cropped bandeau top, sheer translucent veil sleeves and cape, layered asymmetrical white skirt with gold geometric trim, black and dark charcoal sash panels, many gold chains, tassels, beads, bangles, armlets, anklets, and barefoot sandals. She holds a tall black-and-gold ceremonial staff topped with a crescent moon, circular amber orb, dangling ornaments, and a spear-like bottom finial. Overall palette is ivory, sand, ochre, amber gold, bronze, warm tan, charcoal, and black.
+
+Layout: On the far left, place the title block reading “{argument name="character name" default="NEFRA"}” with the subtitle “— {argument name="character title" default="Desert Oracle"} —” and a short lore paragraph: “A wandering oracle from the endless dunes. She reads the flow of fate in the shifting sands and guides lost souls toward their destiny.” Beneath and beside this text, show one large full-body hero illustration of the character facing forward, holding the staff vertically. At the bottom left, include a color palette row labeled “COLOR PALETTE” with exactly 7 circular swatches: burnt terracotta, orange ochre, pale sand, warm ivory, taupe gray, near-black charcoal, and metallic gold.
+
+Center turnaround section: Show exactly 3 smaller full-body model views labeled “FRONT”, “SIDE”, and “BACK”. They should depict the same character in consistent costume and proportions, standing neutrally, showing outfit construction from each angle.
+
+Right reference section: At the upper right, include one large “HEAD CLOSE-UP” portrait showing her face, white hair, feather plume, gold forehead ornament, amber eyes, and heavy gold rectangular earrings. Below it, create an “EXPRESSIONS” row with exactly 3 small bust portraits: neutral serious expression, happy closed-eye smile, and surprised open-mouth expression.
+
+Bottom reference section: Add an “ACCESSORIES” row with exactly 4 isolated accessory studies: a gold choker/headband-like jewelry piece with dangling tassels, an amber pendant necklace with tassels, a pair of cylindrical gold earrings, and a belt/waist ornament with chains and tassels. Add “STAFF DETAILS” with exactly 2 staff close-ups: one full top section with crescent and orb, and one alternate closer view emphasizing the dangling gold ornaments. Add “PATTERN DETAILS” with exactly 1 vertical rectangular fabric-detail inset showing the white veil and dark sash patterns, gold geometric border motifs, chains, and tassels.
+
+Visual style: High-end Japanese anime fantasy concept art, clean crisp linework, soft cel shading blended with painterly rendering, ornate gold material detail, delicate fabric transparency, luxurious desert-priestess design language, balanced negative space, consistent character proportions across all views.
+
+Constraints: Keep all labels in English uppercase serif text; include exactly 1 hero full-body illustration, exactly 3 turnaround full-body views, exactly 1 head close-up, exactly 3 expression portraits, exactly 4 accessory items, exactly 2 staff-detail drawings, exactly 1 pattern-detail inset, and exactly 7 color swatches. Avoid extra characters, scenery, logos, signatures, or dense background decoration.
+```
+
+**来源：** [@Kiki](https://x.com/Mayz1169/status/2079561299353362702) | 2026-07-21
+
+---
+
+### 🖥️ 例 4668：阳光下的茶与血橙静物
+
+![阳光下的茶与血橙静物](../images/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E8%8C%B6%E4%B8%8E%E8%A1%80%E6%A9%99%E9%9D%99%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张宁静的“Hearth Hush”风格静物摄影作品，背景为温暖的米色石质台面，侧面是纹理丰富的灰泥墙。场景由右上角低垂的金色晨光照亮，在墙上投射出一块明亮的三角形光斑，并在台面上拉出柔和的长影，整体对比度克制，构图平静而通透。画面中需精确呈现 7 个主要可见物体：1 个带有盖子、弧形把手和壶嘴的透明圆形玻璃茶壶，壶内半满着 {argument name="tea color" default="深琥珀橙色茶汤"}，玻璃表面带有冷凝水珠；3 个切开的血橙半块，果肉呈鲜艳的宝石红色，果皮橙黄，成组摆放在右侧；1 把带有哑光木质手柄的小型乡村风格削皮刀，斜放在水果前方；1 块褶皱的天然亚麻布位于左下角；以及 1 个位于左后方的哑光陶瓷花瓶，插着一枝稀疏的橄榄枝，带有小叶片。使用奶油色、沙色、蜂蜜色、赤陶色、琥珀色和柔和橄榄色的自然色调。通过发光的茶汤、明亮的柑橘果肉和玻璃上的阳光反射来强调“Hearth”（温馨）感；通过墙面上开阔的留白、浅色石材纹理、柔和的织物褶皱和静谧感来强调“Hush”（静谧）感。采用 4:5 竖构图，略微抬高的平视角度，写实的编辑风格美食摄影，浅至中等的景深，细腻的表面瑕疵，画面中无人、无文字、无品牌标识、无多余物体。
+
+[English]
+Create a quiet Hearth Hush still-life photograph on a warm beige stone countertop beside a textured plaster wall. The scene is lit by low golden morning sunlight from the upper right, casting a bright triangular patch on the wall and long soft shadows across the counter, with restrained contrast and a calm, airy composition. Show exactly 7 main visible objects: 1 clear round glass teapot with a lid, curved handle, and spout, half-filled with {argument name="tea color" default="deep amber orange tea"} with condensation on the glass; 3 cut blood orange halves grouped to the right with vivid ruby-red pulp and orange rind; 1 small rustic paring knife lying diagonally in front of the fruit with a muted wooden handle; 1 rumpled natural linen cloth in the lower left; and 1 matte ceramic vase in the back left holding a sparse olive branch with small leaves. Use a natural palette of cream, sand, honey, terracotta, amber, and muted olive. Emphasize the hearth field through the glowing tea, luminous citrus flesh, and sunlit reflections on the glass; emphasize the hush field through open negative space on the wall, pale stone texture, soft fabric folds, and stillness. Compose in a vertical 4:5 frame, slightly elevated eye-level angle, realistic editorial food photography, shallow-to-moderate depth of field, delicate surface imperfections, no people, no text, no branding, no extra objects.
+```
+
+**来源：** [@Emily](https://x.com/IamEmily2050/status/2079557461581644250) | 2026-07-21
+
+---
+
+### 🖥️ 例 4677：暗黑奇幻风格 AI 画廊 UI
+
+![暗黑奇幻风格 AI 画廊 UI](../images/%E6%9A%97%E9%BB%91%E5%A5%87%E5%B9%BB%E9%A3%8E%E6%A0%BC%20AI%20%E7%94%BB%E5%BB%8A%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个垂直的暗黑移动端 App 风格画廊截图，在炭灰色界面内展示两幅 AI 生成的奇幻图像。画布为 9:16 的长比例，带有圆角、深灰色背景、细微的垂直细条纹质感、顶部的细长状态栏色带以及柔和的 UI 阴影。在左上角放置一张小型方形用户头像卡片：一位动漫风格的年轻人，留着深绿色短发，戴着贝雷帽，肤色白皙，表情平和，外框为半透明的未来感 ID 卡边框。主要布局包含 2 个垂直堆叠在右侧/中央的大型圆角图像面板：上方为较小的方形面板，下方为几乎全宽的较大面板。在第一个面板下方加入淡淡的灰色文字“KAI generated Image 1”。两幅面板中的艺术作品应描绘一个暗黑的魔法水下森林：一个小女孩穿着裙子，手提发光的蓝色灯笼，周围环绕着茂密的海藻、珊瑚状植物、扭曲的根系、气泡和巨大的漂浮金鱼。使用忧郁的青色、海军蓝、炭灰色、铜橙色以及生物发光的青色照明，呈现高度细腻的绘画风格奇幻插画。在顶部面板中，展示女孩从背后走向水生植物隧道中狭窄鹅卵石小径的场景，灯笼提得很低；包含 4 条显眼的鱼：顶部附近 2 条橙色金鱼，右侧 1 条浅灰色鱼，中心附近 1 条深色小鱼。在底部面板中，展示一个更近距离的垂直水下场景，女孩从左下侧向上仰望，同时手提发光的灯笼；包含 6 条可见的鱼：左上角 1 条大型橙色金鱼，左上背景 1 条橙色小鱼，顶部中心 1 条浅色鱼，右上角 1 条浅色鱼，左下角 1 条灰色鱼，中右侧 1 条橙灰色鱼。沿底部放置一个悬浮的深色工具栏，包含 7 个圆形图标按钮：绿色 OpenAI 结图标、紫色闪光/星星图标、橙色太阳光芒图标、多色三圆调色板图标、灰色扫帚/画笔图标、灰色锤子图标以及红色羽毛/羽毛笔图标。使界面呈现出轻微的半透明感和未来感，但保持奇幻图像作为视觉焦点。不要添加额外文字，不要有水印。
+
+[English]
+Create a vertical dark mobile app-style gallery screenshot showing two fantasy AI-generated images inside a charcoal interface. Canvas is tall 9:16 with rounded corners, dark grey background, subtle vertical pinstripe texture, thin top status-like color strip, and soft UI shadows. At the upper left place one small square user avatar card: an anime-style young person with short dark green hair, beret, light skin, neutral smile, framed by a translucent futuristic ID-card border. Main layout contains exactly 2 large rounded image panels stacked vertically on the right/center: the first smaller square-ish panel near the top, the second larger nearly full-width panel below. Under the first panel include faint grey text reading “KAI generated Image 1”. The artwork in both panels should depict a dark enchanted underwater forest: a little girl in a dress holding a glowing blue lantern, surrounded by dense seaweed, coral-like plants, twisting roots, bubbles, and oversized floating goldfish. Use moody teal, navy, charcoal, copper-orange, and bioluminescent cyan lighting, with highly detailed painterly fantasy illustration style. In the top panel, show the girl from behind walking down a narrow cobblestone path into a tunnel of aquatic plants, holding the lantern low; include exactly 4 prominent fish: 2 orange goldfish near the top, 1 pale grey fish on the right, and 1 small dark fish near the center. In the bottom panel, show a closer vertical underwater scene with the girl in profile looking upward from the lower center-left while holding the glowing lantern; include exactly 6 visible fish: 1 large orange goldfish upper left, 1 small orange fish upper left background, 1 pale fish top center, 1 pale fish upper right, 1 grey fish lower left, and 1 orange-grey fish mid-right. Along the bottom place a floating dark toolbar with exactly 7 circular icon buttons: green OpenAI knot icon, purple sparkle/star icon, orange sunburst icon, multicolor three-circle palette icon, grey broom/brush icon, grey hammer icon, and red feather/quill icon. Make the interface slightly translucent and futuristic, but keep the fantasy images as the visual focus. No extra text, no watermark.
+```
+
+**来源：** [@李恭](https://x.com/rikyo_ai/status/2079538399032357126) | 2026-07-21
+
+---
+

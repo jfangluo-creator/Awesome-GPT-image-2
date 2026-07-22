@@ -6194,3 +6194,187 @@ Anime visual reference sheet, {argument name="art style" default="Studio Ghibli"
 
 ---
 
+### 🧍 例 4628：高级时尚动漫角色设定集
+
+![高级时尚动漫角色设定集](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E5%8A%A8%E6%BC%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质、现代的高级时尚角色概念艺术设定集，采用 16:9 宽屏布局，背景为纯白色，并遵循以下精确的结构化构图和视觉美学：
+
+[风格]：高度精致的 {argument name="style" default="2D digital anime"}
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic:
+
+[STYLE]: highly polished {argument name="style" default="2D digital anime"}
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2079711603331891261) | 2026-07-21
+
+---
+
+### 🧍 例 4639：城市街头艺术角色插画
+
+![城市街头艺术角色插画](../images/%E5%9F%8E%E5%B8%82%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF%E8%A7%92%E8%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张充满活力的全身城市风格插画，描绘主体（请使用所提供参考图中的确切面部，确保高度的面部还原度和身份保留）。主体穿着 {argument name="outfit style" default="oversized outfit"}，带有精致的细节装饰，搭配宽松的下装和醒目吸睛的鞋履。角色眼神锐利且自信地直视前方，传达出强烈的气场与自信感。
+
+构图采用极具张力的 {argument name="camera angle" default="low-angle"} 视角，强调力量感与统治力。主体站姿稳健扎实，前景中的鞋履采用夸张的透视处理以增加深度。主体周围环绕着破碎的混凝土元素和细微的碎屑，营造出粗犷的城市环境氛围。背景为干净的白色画布，点缀着 {argument name="background details" default="bold paint splashes and abstract geometric shapes"}，呈现出现代街头艺术美学。
+
+视觉风格结合了清晰利落的线条艺术、鲜艳的平涂色彩以及用于增加深度和维度的柔和赛璐珞阴影。渲染效果应呈现出高端城市插画或风格化编辑艺术作品的质感。光线明亮、均匀且弥散在整个场景中，在最大限度提升清晰度和细节的同时，减少了生硬的阴影。
+
+超精细、焦点清晰、8K 分辨率、竖构图。此外，将上传的参考图像放置在底部角落的一个圆角矩形框内，使其清晰可见且无缝融入整体设计中。确保输出图像保持强制性的 4:5 纵横比。
+
+[English]
+A dynamic full-body urban illustration of the subject (use the exact face from the provided reference image, ensuring high facial accuracy and identity preservation). The subject wears an {argument name="outfit style" default="oversized outfit"} with subtle accent details, paired with loose-fitting bottoms and bold, eye-catching footwear. The character has a sharp, confident gaze directed forward, conveying intensity and self-assurance.
+
+The composition is captured from a dramatic {argument name="camera angle" default="low-angle"} perspective, emphasizing power and dominance. The subject's stance is strong and grounded, with exaggerated perspective on the footwear in the foreground for added depth. Surrounding the subject are fragmented concrete elements and subtle debris, suggesting an urban, gritty environment. The background is a clean white canvas featuring {argument name="background details" default="bold paint splashes and abstract geometric shapes"}, creating a modern street-art aesthetic.
+
+The visual style combines crisp, clean line art with vibrant flat colors and soft cel shading for depth and dimension. The rendering should feel like a high-end urban illustration or stylized editorial artwork. Lighting is bright, even, and diffused across the entire scene, minimizing harsh shadows while maximizing clarity and detail.
+
+Ultra-detailed, sharp focus, 8K resolution, vertical composition. Additionally, place the uploaded reference image in the bottom corner inside a curved-rectangle frame with rounded edges, clearly visible while seamlessly integrated into the overall design. Ensure the output image maintains a mandatory 4:5 aspect ratio.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2079633297895043438) | 2026-07-21
+
+---
+
+### 🧍 例 4647：赛博朋克轮滑角色设定集
+
+![赛博朋克轮滑角色设定集](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BD%AE%E6%BB%91%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Katana Echo"} 创建一份高度详细的赛博朋克动漫角色设定集和动作项目海报。该角色是一位叛逆的轮滑双枪战士，背景设定在霓虹闪烁的日本街头战争中。
+
+画布：宽屏 16:9 横向展示项目，左上方为米白色技术概念设定背景，黑色面板边框，粗犷的漫画/动漫渲染风格，点缀着青色、品红色、黄色、紫色和黑色墨迹。整体风格为朋克赛博打击概念艺术与漫画动作分镜的结合。
+
+顶部布局：将上半部分分为 3 个主要区域。左侧区域为全身角色三视图，标有粗犷涂鸦字体的标题“KATANA ECHO”以及小型技术文本“CYBERSTRIKE // IND. FILE 77-K.E”，下方附有日文假名。中间区域为武器规格说明表，标题为“NEON PULSE”，副标题为“DUAL LASER PISTOLS”。右侧区域为角色的大幅英雄特写插画，背景为混乱的霓虹喷漆、巨大的滴落状粉色骷髅标志、警示贴纸和日文招牌。
+
+角色设计：女性赛博朋克朋克战士，运动型身材，小麦色皮肤，露脐装，自信的坏笑，凌乱的尖刺状 {argument name="hair color" default="青色与紫色"} 头发，带有霓虹点缀，佩戴大型橙黑色耳机，黑色短款上衣印有亮粉色骷髅，超大款青色短款和服式外套，带有黄色标记和黑色涂鸦符号，宽松的黑色工装裤配有绑带、链条、悬挂的标签，品红色腰带，露指手套，赛博配饰，以及带有绿/黄色轮子的厚底霓虹轮滑鞋。她携带两把紧凑型未来派激光手枪，可发射亮粉色光束。通篇使用磨损纹理、贴纸、螺栓、绑带、小包和涂鸦贴花。
+
+角色三视图元素：在左上方的设定集中展示 3 个完整的全身站立视图，分别标注为“FRONT”（正面）、“SIDE”（侧面）和“BACK”（背面）。在背面视图中，外套上包含一个巨大的粉色骷髅图案。保持 3 个视图的轮廓一致。
+
+武器规格元素：在顶部中间的设定集中展示 2 个手枪图示，一个标注为“PULSE RIFT”，另一个标注为“PULSE FLARE”。在下方的武器周围添加 5 个标注标签：“FOCUSED BEAM EMITTER”（聚焦光束发射器）、“ENERGY CELL”（能量电池）、“THERMAL VENT”（散热孔）、“GRIP LOCK”（握把锁），并在光束发射器附近添加一个小标签。两把手枪均为黑色，带有品红色骷髅面板、黄色危险警告文字、红粉色激光束以及紧凑的工业细节。
+
+英雄插画细节：在右上角，展示角色大腿以上的特写，自信地向后倾斜，一把手枪垂在身侧，另一把处于待发状态，身后有霓虹喷溅效果。包含 1 个巨大的亮粉色滴落状骷髅标志，1 个带有深色日文字符的黄色竖向招牌，以及右下角边缘附近的 2 个小型骷髅图标。
+
+底部布局：下半部分填充一个由 9 个水平动作面板组成的 storyboard 网格，排列为 3 列 3 行，每个面板都有一个狭窄的黑色标题条和红色面板编号。每个面板展示同一个角色在未来派雨夜霓虹城市中轮滑，用粉色激光轨迹和运动模糊线条与装甲赛博警察或无人机战斗。使用漫画分镜构图、电影化视角、厚重的墨线、色差喷溅效果和密集的城市招牌。
+
+动作面板及可见标签：面板 01 标签“PROFILE WS / FIRST BREAK”，展示她在街头滑行并向敌人射击。面板 02 标签“LOW PROFILE FS / TRIPLE BURST”，展示低姿态滑行并进行三连发射击。面板 03 标签“HIGH REAR WS / LANE RUSH”，展示她沿着车道向人群冲刺。面板 04 标签“LOW 3-4 FS / RISING ASSAULT”，展示针对无人机的空中上升攻击。面板 05 标签“HIGH SIDE WS / MIDAIR SWEEP”，展示带有激光射击和多架无人机的空中横扫。面板 06 标签“GROUND REAR WS / HEAVY BLOCK”，展示她格挡或抵御重装敌人的攻击。面板 07 标签“PROFILE MS / COUNTER PUSH”，展示针对近身装甲敌人的侧面反击。面板 08 标签“LOW 3-4 FS / POWER DRAW”，展示她双臂高举，身处品红色闪电下，被敌人包围。面板 09 标签“TOP-DOWN EWS / NEON CASCADE”，展示从上方俯瞰，巨大的粉色能量新月波切开大批人群。
+
+文本风格：主要标题使用粗犷的手绘大写字母，注释使用微小的技术性大写标签，面板标题使用红色数字标签。保持主要英文标签的可读性，但允许小型的赛博朋克微型文本作为装饰。
+
+视觉风格约束：拒绝照片写实主义。保持精致的动漫概念艺术风格，具有朋克涂鸦能量、强烈的品红色激光效果、青色服装、黄绿色喷漆效果、黑色垃圾纹理和动态速度线。严格保持数量：3 个三视图，2 个武器图示，5 个武器标注，1 个英雄特写，9 个动作面板。
+
+[English]
+Goal: Create a highly detailed cyberpunk anime character sheet and action-board poster for {argument name="character name" default="Katana Echo"}, a rebellious rollerblading dual-pistol fighter in a neon-drenched Japanese street-war setting.
+
+Canvas: Wide 16:9 landscape presentation board, off-white technical concept-sheet background on the upper left, black panel borders, gritty comic/anime rendering, saturated teal, magenta, yellow, violet, and black ink splatter. Overall style is punk cyberstrike concept art mixed with manga action storyboard panels.
+
+Top layout: Divide the upper half into 3 main zones. Left zone is a full character turnaround labeled with the title “KATANA ECHO” in rough graffiti lettering and small tech text “CYBERSTRIKE // IND. FILE 77-K.E” plus Japanese kana beneath it. Middle zone is a weapon spec sheet titled “NEON PULSE” with subtitle “DUAL LASER PISTOLS.” Right zone is a large hero splash illustration of the character posing confidently against chaotic neon paint splashes, a large dripping pink skull emblem, warning decals, and Japanese signage.
+
+Character design: Female-presenting cyberpunk punk fighter, athletic build, tan skin, exposed midriff, confident smirk, messy spiked {argument name="hair color" default="teal and purple"} hair with neon accents, large orange-black headphones, black crop top with a hot-pink skull, oversized cropped teal kimono-style jacket with yellow markings and black graffiti symbols, loose black cargo pants with straps, chains, dangling tags, magenta belt, fingerless gloves, cyber accessories, and chunky neon roller skates with green/yellow wheels. She carries two compact futuristic laser pistols emitting hot-pink beams. Use scuffed textures, stickers, bolts, straps, pouches, and graffiti decals throughout.
+
+Counted character turnaround elements: Show exactly 3 full-body standing views in the top-left sheet, labeled “FRONT,” “SIDE,” and “BACK.” In the back view, include a large pink skull graphic on the jacket. Keep the silhouette consistent across all 3 views.
+
+Counted weapon spec elements: Show exactly 2 pistol diagrams in the top-middle sheet, one labeled “PULSE RIFT” and one labeled “PULSE FLARE.” Add exactly 5 callout labels around the lower weapon: “FOCUSED BEAM EMITTER,” “ENERGY CELL,” “THERMAL VENT,” “GRIP LOCK,” and one small label near the beam emitter. Both pistols should be black with magenta skull panels, yellow hazard text, red-pink laser beams, and compact industrial details.
+
+Hero illustration details: On the top-right, show the character from thighs-up, leaning back with attitude, one pistol down at her side and the other ready, neon splatter behind her. Include exactly 1 giant dripping skull emblem in hot pink, exactly 1 yellow vertical sign with dark Japanese characters, and exactly 2 small skull icons near the bottom-right edge.
+
+Bottom layout: Fill the lower half with a storyboard grid of exactly 9 horizontal action panels arranged in 3 columns by 3 rows, each with a narrow black header strip and red panel number. Each panel shows the same character rollerblading through a futuristic rainy neon city, fighting armored cyber police or drones with pink laser trails and motion streaks. Use comic-panel composition, cinematic perspective, heavy ink outlines, chromatic splatter, and dense city signage.
+
+Counted action panels and visible labels: Panel 01 label “PROFILE WS / FIRST BREAK,” showing her skating forward while firing at enemies in a street. Panel 02 label “LOW PROFILE FS / TRIPLE BURST,” showing a low skating slide with three burst shots. Panel 03 label “HIGH REAR WS / LANE RUSH,” showing her charging away down a lane toward a crowd. Panel 04 label “LOW 3-4 FS / RISING ASSAULT,” showing an aerial rising attack against drones. Panel 05 label “HIGH SIDE WS / MIDAIR SWEEP,” showing a midair sweep with laser fire and multiple drones. Panel 06 label “GROUND REAR WS / HEAVY BLOCK,” showing her blocking or bracing against heavy armored enemies. Panel 07 label “PROFILE MS / COUNTER PUSH,” showing a side-view counterattack against close armored foes. Panel 08 label “LOW 3-4 FS / POWER DRAW,” showing her centered with both arms raised under magenta lightning, surrounded by enemies. Panel 09 label “TOP-DOWN EWS / NEON CASCADE,” showing a top-down massive crescent wave of pink energy cutting through a large crowd.
+
+Text style: Use rough hand-painted uppercase lettering for major titles, tiny technical uppercase labels for annotations, and red numeric tags for panel headers. Preserve legibility of main English labels but allow small cyberpunk microtext to be decorative.
+
+Visual style constraints: No photorealism. Keep it as a polished anime concept art sheet with punk graffiti energy, intense magenta laser effects, teal clothing, yellow-green paint splashes, black grunge textures, and dynamic speed lines. Maintain the exact counts: 3 turnaround views, 2 weapon diagrams, 5 weapon callouts, 1 hero splash, 9 action panels.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2079607967859523627) | 2026-07-21
+
+---
+
+### 🧍 例 4656：Skibidi Toilet 角色设定图生成器
+
+![Skibidi Toilet 角色设定图生成器](../images/Skibidi%20Toilet%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+制作一张 {argument name="gender" default="男性"} 角色设定图，灵感来源于上传图像中相同的 {argument name="art style" default="艺术风格和设计"}。该角色为 {argument name="gender" default="男性"}。
+
+[English]
+Make a character sheet of {argument name="gender" default="male"} character inspired by the same artstyle and designs as the uploaded images. He is {argument name="gender" default="male"}.
+```
+
+**来源：** [@Kinovi.AI](https://x.com/kinovi_ai/status/2079582833954398244) | 2026-07-21
+
+---
+
+### 🧍 例 4658：布鲁克林大桥强制透视人像
+
+![布鲁克林大桥强制透视人像](../images/%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A1%A5%E5%BC%BA%E5%88%B6%E9%80%8F%E8%A7%86%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用提供的参考图像。严格锁定面部与身份：必须精准保留参考图像中女性的面部、面部比例、肤色、发型及整体身份特征，不得更改其外貌。这是一张超写实的 DSLR 旅行摄影作品，画面中同一位 {argument name="subject" default="时尚的年轻美国女性"} 自信地站在 {argument name="landmark" default="布鲁克林大桥"} 前，呈现出完美的强制透视错觉，使她看起来仿佛 {argument name="action" default="正用拇指和食指轻轻捏住大桥的一座石塔"}。透视对齐必须极其精准，使错觉看起来如同相机直出而非后期合成。行人、骑行者和远处的车辆保持真实的比例，以增强场景的真实感。温暖的黄金时段阳光在大桥和女性的服装上投下柔和自然的阴影。采用高端 DSLR 光学镜头拍摄，具有真实的景深、微妙的镜头压缩感、清晰的纹理、编辑级旅行摄影风格、地道的纽约氛围、奢华的 Pinterest 美学、电影级写实感、超高细节、病毒式传播的光学错觉效果、自然的身体姿态、随性的自信感以及无可挑剔的照片级画质。
+
+[English]
+Use the provided reference image. STRICT FACE & IDENTITY LOCK: Preserve the woman's face, facial proportions, skin tone, hairstyle, and overall identity exactly as in the reference image. Do not alter her appearance. Ultra-realistic DSLR travel photograph of the same {argument name="subject" default="stylish young American woman"} standing confidently in front of the {argument name="landmark" default="Brooklyn Bridge"}, creating a flawless forced-perspective illusion where she appears to {argument name="action" default="gently pinch one of the bridge's stone towers between her thumb and index finger"}. The perspective alignment is perfectly accurate, making the illusion look naturally captured in-camera rather than edited. Pedestrians, cyclists, and distant vehicles remain realistically scaled, enhancing the authenticity of the scene. Warm golden-hour sunlight casts soft, natural shadows across the bridge and the woman's outfit. Captured with premium DSLR optics, realistic depth of field, subtle lens compression, crisp textures, editorial travel photography style, authentic New York atmosphere, luxurious Pinterest aesthetic, cinematic realism, ultra-high detail, viral optical illusion, natural body posture, candid confidence, and flawless photorealistic quality.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2079579559666790712) | 2026-07-21
+
+---
+
+### 🧍 例 4672：万圣节修女 Q 版角色设定图
+
+![万圣节修女 Q 版角色设定图](../images/%E4%B8%87%E5%9C%A3%E8%8A%82%E4%BF%AE%E5%A5%B3%20Q%20%E7%89%88%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Speaki"} 创建一张可爱的 Q 版动漫角色设定图，这是一个以万圣节修女为灵感、拥有柔软吉祥物风格的小型女性角色。
+
+画布：宽幅横向角色设定图，背景干净纯白，无边框，无场景，采用参考图布局，留白充足。使用精美的 gpt-image-2 动漫插画质量，柔和阴影，清晰线条，暖色调，呈现出可爱的贴纸/VTuber 吉祥物质感。
+
+角色设计：该角色为超小型 Q 版女孩，拥有大头小身、白皙皮肤、大而圆的琥珀橙色眼睛、短齐刘海、奶油金色长发，以及黑色修女风格面纱/兜帽。服装为黑色哥特式万圣节连衣裙，配有白色褶边、微型金色十字架、金色饰边、领口处的小橙色蝴蝶结，下摆附近有南瓜灯图标和骷髅图标，穿着白色袜子和黑色玛丽珍鞋。面纱为黑色，配有白色头带、额头带上的金色十字架、侧面装饰有小型金色十字架/星星，后缘带有扇形白色饰边。配色方案主要保持为 {argument name="main outfit color" default="black"}、奶油金、白色、橙色和金色。
+
+布局：展示 12 个独立的角色形象，分为两行。第一行包含 6 个形象：1 正面全身中立站姿，2 正面四分之三全身视角，3 向左侧的全身侧面视角，4 背面全身视角（强调圆润的黑色面纱和金色长发），5 闭眼开心微笑的半身特写，6 睁眼惊讶且手指上扬的半身特写。第二行包含 6 个全身表情姿态：7 比耶眨眼姿势（带小黄星），8 困倦坐姿/垂头丧气（带小气泡），9 哭泣姿势（大泪眼，拳头贴脸），10 恼怒嘟嘴姿势（交叉双臂，带小蒸汽），11 困惑害羞姿势（带问号），12 兴奋闪耀姿势（双拳举起，带黄色闪光）。
+
+表情细节：睁眼形象请使用 {argument name="eye color" default="amber orange"} 眼睛。面部设计需简洁可爱，搭配小嘴型、腮红和圆润脸颊。姿态应清晰传达每种情绪，同时保持角色比例和服装的一致性。
+
+视觉风格：Q 版动漫设定图，柔和赛璐珞阴影，温和渐变，干净细线条，光泽感眼睛，暖色高光，微型玩具般的比例，各视角间保持高度一致。无文字标签，无水印，无额外角色，除所列的小型情绪符号外，背景无其他道具。
+
+[English]
+Goal: Create a cute chibi anime character sheet for {argument name="character name" default="Speaki"}, a tiny Halloween nun-inspired female character with a soft mascot-like design.
+
+Canvas: Wide horizontal character sheet on a clean white background, no border, no scenery, arranged like a reference sheet with ample spacing. Use polished gpt-image-2 anime illustration quality, soft shading, crisp line art, warm colors, and a kawaii sticker/VTuber mascot feel.
+
+Character design: The character is a very small chibi girl with oversized head, tiny body, pale skin, large round amber-orange eyes, short blunt bangs, long creamy blonde hair, and a black nun-style veil/hood. Her outfit is a black gothic Halloween dress with white frills, tiny gold crosses, gold trim, a small orange bow at the collar, a jack-o'-lantern icon and skull icon near the hem, white socks, and black Mary Jane shoes. The veil is black with a white headband, gold cross on the forehead band, small gold cross/star decorations along the side, and scalloped white trim around the back edge. Keep the palette mainly {argument name="main outfit color" default="black"}, cream blonde, white, orange, and gold.
+
+Layout: Show exactly 12 discrete character depictions in two rows. Top row contains 6 depictions: 1 front full-body neutral standing view, 2 three-quarter front full-body view, 3 side profile full-body view facing left, 4 back full-body view emphasizing the rounded black veil and long blonde hair, 5 cropped bust expression with eyes closed and happy smile, 6 cropped bust expression with surprised attentive eyes and raised finger. Bottom row contains 6 full-body expressive poses: 7 winking peace-sign pose with a small yellow star, 8 sleepy seated/droopy pose with closed eyes and a tiny bubble, 9 crying pose with big teary eyes and fists near cheeks, 10 annoyed pout pose with crossed arms plus a small puff of steam, 11 confused shy pose with a question mark, and 12 excited sparkling pose with both fists raised and yellow sparkles.
+
+Expression details: Use {argument name="eye color" default="amber orange"} eyes for open-eyed depictions. Make the face simple and adorable, with tiny mouth shapes, blush, and rounded cheeks. The poses should clearly communicate each emotion while preserving the same character proportions and costume.
+
+Visual style: Chibi anime reference sheet, soft cel shading, gentle gradients, clean thin outlines, glossy eyes, warm highlights, miniature toy-like proportions, high consistency across all views. No text labels, no watermark, no extra characters, no background props beyond the small emotion symbols listed.
+```
+
+**来源：** [@Kinovi.AI](https://x.com/kinovi_ai/status/2079547752388980892) | 2026-07-21
+
+---
+

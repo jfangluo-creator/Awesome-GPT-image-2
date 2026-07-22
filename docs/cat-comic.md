@@ -7167,3 +7167,313 @@ Constraints: Exactly 3 panels, exactly 2 characters, exactly 2 speech bubbles, n
 
 ---
 
+### 🎬 例 4640：Q 版监狱逃脱漫画场景
+
+![Q 版监狱逃脱漫画场景](../images/Q%20%E7%89%88%E7%9B%91%E7%8B%B1%E9%80%83%E8%84%B1%E6%BC%AB%E7%94%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张宽幅单格 Q 版动漫漫画插图，表现监狱逃脱场景，视觉上分为两个标注区域：左侧阴暗的牢房和右侧明亮的看守通路。
+
+画布：16:9 横向图像，精致的数字动漫风格，可爱的 Q 版比例，干净的线条，柔和的赛璐珞阴影，墙壁撞击产生的戏剧性光效，细节丰富且构图清晰。
+
+布局：左侧三分之二展示牢房内部，包括蓝灰色石墙、铁栏杆门、金属床和马桶。右侧三分之一展示栏杆外的看守通路，灯光为温暖的米色。利用牢房栏杆和墙壁形成垂直边界。在牢房中右侧的石墙上添加一个被砸开的大洞，伴有碎片、灰尘和明亮的橙色撞击闪光。
+
+文本内容：包含 6 个可见的日语文本元素：1 个左上角白色标签框，内容为 {argument name="left area label" default="牢狱"}；1 个右上角白色标签框，内容为 {argument name="right area label" default="看守通路"}；1 个马桶附近的小标签，内容为 {argument name="toilet label" default="トイレ"}；1 个右下角标签，内容为 {argument name="bottom label" default="サムズアップ　看守通路"}；1 个粉发守卫上方的对话气泡，内容为 {argument name="first speech bubble" default="怪しいアイドルね？"}；1 个薰衣草色头发守卫上方的对话气泡，内容为 {argument name="second speech bubble" default="怪しすぎる元アイドルですね。"}。在睡觉的囚犯周围添加小巧的风格化睡眠音效，包括日式蓝色“zzz”符号和困倦的省略号。
+
+角色：包含 5 个 Q 版女性角色。角色 1：牢房中央的金发偶像囚犯，充满活力且面带微笑，身穿黑金配色偶像战斗服，配有星星饰品和过膝长靴，正在踢腿，一只脚伸入石墙，造成爆炸和裂纹。角色 2：栏杆外右下侧的粉发双马尾守卫，身穿海军蓝白制服，戴着小黑帽，一边观看越狱一边竖起大拇指。角色 3：右侧身穿深色军装、戴红星帽的红/粉发守卫，表情怀疑且担忧，脸旁有汗滴。角色 4：最右侧戴眼镜的薰衣草色头发守卫，身穿白色水手风制服和白帽，表情冷静且持怀疑态度。角色 5：左上角金属床上睡觉的囚犯，浅粉色头发，身穿深色服装和帽子，侧身蜷缩，闭着眼睛，带有蓝色睡眠符号。
+
+道具与环境：包含 2 个主要的牢房设施：左上角的金属床和左下角的白色马桶。马桶上坐着一个眼睛呈 X 型的布偶或偶像玩偶。在前景和背景中添加金属栏杆、石块墙、破碎的砖石、散落的瓦砾以及后墙高处的小型带栏杆窗户。
+
+视觉风格：可爱的 Q 版动漫，表情生动，轻微的等轴测视角，漫画分格构图，细致的监狱背景，冷色调监狱光线与暖色调走廊光线的对比，非写实风格。
+
+约束：保持场景为一张连续的插图，而非多格网格。保留 5 个角色、2 个主要设施、6 个日语文本元素和 2 个对话气泡的精确数量。不要添加额外的角色、额外的分格、水印或英文替换文本。
+
+[English]
+Goal: Create a wide single-panel chibi anime comic illustration about a prison breakout scene, split visually into two labeled areas: a dark jail cell on the left and a brighter guard corridor on the right.
+
+Canvas: 16:9 horizontal image, polished digital anime style, cute chibi proportions, clean line art, soft cel shading, dramatic lighting from the wall impact, high detail but readable composition.
+
+Layout: The left two-thirds show the prison cell interior with blue-gray stone walls, barred doors, a metal bed, and a toilet. The right third shows the guard corridor outside the bars, lit with warmer beige light. Use a vertical boundary created by the cell bars and wall. Add a large cracked hole being smashed into the stone wall near the center-right of the cell, with debris, dust, and a bright orange impact flash.
+
+Text content: Include exactly 6 visible Japanese text elements: 1 top-left white label box reading {argument name="left area label" default="牢獄"}; 1 top-right white label box reading {argument name="right area label" default="看守通路"}; 1 small label near the toilet reading {argument name="toilet label" default="トイレ"}; 1 bottom-right label reading {argument name="bottom label" default="サムズアップ　看守通路"}; 1 speech bubble above the pink-haired guard reading {argument name="first speech bubble" default="怪しいアイドルね？"}; 1 speech bubble above the lavender-haired guard reading {argument name="second speech bubble" default="怪しすぎる元アイドルですね。"}. Add small stylized sleep sound effects around the sleeping prisoner, including Japanese-style blue “zzz” marks and a sleepy ellipsis.
+
+Characters: Include exactly 5 chibi female characters. Character 1: a blonde idol prisoner in the center of the cell, energetic and smiling, wearing a black-and-gold idol combat outfit with star accessories and thigh-high boots, mid-kick with one leg extended into the stone wall, creating the explosion and cracks. Character 2: a pink-haired twin-tail guard outside the bars near the lower right center, wearing a navy-and-white uniform with a small black cap, giving a thumbs-up while watching the breakout. Character 3: a red/pink-haired guard in a dark military-style uniform and red-star cap, standing to the right with a suspicious worried expression, sweat drops beside her face. Character 4: a lavender-haired bespectacled guard in a white sailor-like uniform and white cap, standing at the far right with a calm skeptical expression. Character 5: a sleeping prisoner on the upper-left metal bed, pale pink hair, wearing a dark outfit and cap, curled on her side with closed eyes and blue sleep symbols.
+
+Props and environment: Include exactly 2 major cell fixtures: 1 metal bed at the upper left and 1 white toilet at the lower left. The toilet has a cloth doll or plush idol with X-shaped eyes sitting on it. Add metal bars in the foreground and background, stone block walls, cracked masonry, scattered rubble, and a small barred window high on the back wall.
+
+Visual style: Cute chibi anime, expressive faces, slight isometric perspective, comic panel composition, detailed prison background, contrast between cool blue prison lighting and warm corridor lighting, no photorealism.
+
+Constraints: Keep the scene as one continuous illustration, not a multi-panel grid. Preserve the exact count of 5 characters, 2 main fixtures, 6 Japanese text elements, and 2 speech bubbles. Do not add extra characters, extra panels, watermarks, or English replacement text.
+```
+
+**来源：** [@まるるん＠NIKKE好き](https://x.com/TachMaru/status/2079632198534340653) | 2026-07-21
+
+---
+
+### 🎬 例 4643：Cigar Cat 角色设定表
+
+![Cigar Cat 角色设定表](../images/Cigar%20Cat%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+1. 角色身份摘要： 名称：Cigar Cat 角色：主要反英雄 年龄：成年猫 情感功能：带有黑色幽默的自信、好奇心、街头智慧 视觉特征：精瘦短毛猫，超大且富有表现力的眼睛，窄口鼻，长胡须，标志性的强烈凝视，嘴边叼着一支雪茄 连续性重要性：极高，面部比例、眼睛大小、毛发图案、体型、雪茄位置及姿态在每一帧中都应保持一致。 2. 完整角色设定表提示词 创建一份专业的角色参考表，基于既定的故事板角色，描绘一只精瘦的成年短毛猫。这只猫拥有窄长的猫科面部、非常大且富有表现力的杏仁眼、突出的鼻子、细长的胡须、短而平滑的毛发、苗条的运动型身体、长腿、直立的尖耳朵，以及略带顽皮、街头智慧的表情。保留该角色的独特视觉标识：超大且富有表现力的眼睛、可辨识的窄口鼻、强有力的鼻型、长胡须、精瘦的身体比例、短而平滑的毛发、自信的反英雄态度、自然叼在嘴边一侧的雪茄（作为标志性道具）。 展示：正面面部视图、左侧面视图、右侧面视图、3/4 面部视图、背面剪影：全身站立姿势、行走姿势、低蹲姿势、面部特写细节、中性表情、怀疑的眯眼表情、自信的露齿笑、惊讶的警觉表情、强烈的凝视。 服装：无。 配饰/道具：仅一支雪茄，与既定的故事板道具一致。 姿态：放松但具有主导感，胸部微挺，动作受控，自信的屋顶流浪猫肢体语言。 视觉处理：干净专业的制作角色设定表，单色电影感铅笔与墨水画，写实的猫科解剖结构，必要时包含精确的构建线条，中性浅色背景，各视图比例一致。 灯光：柔和的中性摄影棚灯光，以确保设计清晰。在所有视图中保持完全相同的面部比例、眼睛形状、耳朵位置、体型、毛发长度、胡须图案和雪茄风格。 3. 一致性说明： 面部：保持相同的窄长猫科头骨结构、鼻型、口鼻宽度和异常大的眼睛。 眼睛：大而富有表现力，略带强烈感。切勿缩小或大幅改变其形状。 毛发：全身为短毛且平滑。无长毛变化。 体型：精瘦、敏捷、长腿，写实的猫科解剖结构。 情绪：自信、顽皮、略带威慑力，除非场景明确要求，否则不要表现得过于卡通可爱。 标志性道具：只要出现，雪茄的大小、形状、位置和视觉处理必须保持一致。 连续性行为：从极近特写到远景，这只猫应保持相同的面部特征。 4. 负面提示词： 无面部改变，无眼睛大小改变，无品种改变，无长毛，无类似毛发造型的变化，无身体比例改变，无随机年龄偏移，无服装，无帽子，除非后续要求否则无项圈，无额外配饰，无额外角色，无重复的猫，无扭曲的爪子，无解剖结构错误，无多余肢体，无人手，无夸张的卡通变形，无不一致的雪茄大小，无水印，无 Logo，无海报排版，无文字密集的布局。
+
+[English]
+1. Character Identity Summary: Name: Cigar Cat Role: Main anti hero Age: Adult cat Emotional function: Darkly comic confidence, curiosity, streetwise attitude Visual signature: Lean short haired cat, oversized expressive eyes, narrow muzzle, long whiskers, distinctive intense stare, cigar held at one side of the mouth Continuity importance: Very high face proportions, eye size, fur pattern, body build, cigar placement, and attitude should remain consistent in every shot. 2. Full Character Sheet Prompt Create a professional character reference sheet for a lean adult short haired cat based on the established storyboard character. The cat has a narrow feline face, very large expressive almond shaped eyes, prominent nose, long fine whiskers, short smooth fur, slim athletic body, long legs, upright pointed ears, and a slightly mischievous, streetwise expression. Preserve the character’s distinctive visual identity: oversized expressive eyes recognizable narrow muzzle strong nose shape long whiskers lean body proportions short smooth fur confident anti hero attitude cigar positioned naturally at one side of the mouth as the signature prop Show: front facial view left profile right profile 3/4 facial view rear silhouette: full body standing pose walking pose low crouch pose close up face detail neutral expression suspicious narrowed-eye expression confident grin surprised alert expression intense stare Wardrobe: none. Accessories/props: one cigar only, matching the established storyboard prop. Posture: relaxed but dominant, chest slightly forward, controlled movements, confident rooftop-stray body language. Visual treatment: clean professional production character sheet, monochrome cinematic pencil-and-ink drawing, realistic feline anatomy, precise construction lines where useful, neutral light background, consistent scale and proportions across every view. Lighting: soft neutral studio lighting for design clarity. Maintain exactly the same facial proportions, eye shape, ear placement, body build, fur length, whisker pattern, and cigar style across every view. 3. Consistency Notes: Face: Keep the same narrow feline skull structure, nose shape, muzzle width, and unusually large eyes. Eyes: Large, expressive, slightly intense. Never shrink or radically change their shape. Fur: Short haired and smooth throughout. No long fur variation. Body type: Lean, agile, long legged, realistic feline anatomy. Mood: Confident, mischievous, slightly intimidating, never cute cartoon unless deliberately required by the scene. Signature prop: Same cigar size, shape, placement, and visual treatment whenever present. Continuity behavior: The cat should retain the same facial identity from extreme close up through wide shots. 4. Negative Prompt: No face change, no eye size change, no breed change, no long fur, no hairstyle like fur variation, no body proportion change, no random age shift, no clothing, no hats, no collars unless later requested, no extra accessories, no extra characters, no duplicate cat, no distorted paws, no broken anatomy, no extra limbs, no human hands, no exaggerated cartoon deformation, no inconsistent cigar size, no watermark, no logo, no poster typography, no text heavy layout.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2079621128872693864) | 2026-07-21
+
+---
+
+### 🎬 例 4648：赛博朋克武士角色设计图
+
+![赛博朋克武士角色设计图](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E6%AD%A6%E5%A3%AB%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Katana Echo"} 创建一份高细节的赛博朋克动漫角色设计图和动作分镜。该角色是一位叛逆的街头武士，身着机能风服饰，并配备一把可变形的能量长卷刀。
+
+画布：宽幅横向概念设计图，16:9 比例，米白色纸张背景配黑色墨迹，点缀粗犷的红色和青色，呈现漫画制作项目风格。使用细边框、粗糙的草图线条、喷溅颜料、手写标签和锐利的图形设计。
+
+顶部布局：将上半部分分为三个主要区域。左侧区域展示 3 个完整的角色全身三视图，分别标注为 FRONT（正面）、SIDE（侧面）和 BACK（背面）。中心区域为武器规格面板，标题为“VOID REAPER”，副标题为“ENERGY NAGAMAKI”，并展示 2 种武器状态：“RETRACTED”（收起）和“EXTENDED”（展开）。添加小型标注，文字为“CHAIN LINK”和“ENERGY EDGE”。右侧区域为角色手持武器的英雄插画，身后有一个巨大的红色圆形骷髅徽章，并配有日式垂直装饰文字。在标题附近包含文件信息，如“CYBERSTRIKE // IND. FILE 77-K.E”以及小的片假名风格名称文字。
+
+角色细节：该角色是一位中性风朋克赛博武士，拥有 {argument name="hair color" default="黑色头发配青色刘海"}、剃边凌乱发髻、穿孔、红色眼妆、短款叠层夹克、露脐装、皮带、绑带、红色链条、功能性标签、超大黑色袴式长裤、机械轮滑靴、露指手套，配色方案为黑、红、白、青。夹克背面印有醒目的红色骷髅/太阳图案。姿态语言表现得极具攻击性、敏捷且狂傲。
+
+武器细节：该武器是一种混合链式长卷刀/链锯刃，配有黑色刀柄、红色标签、金属配件、圆形机械轮毂、黑白封印、红色发光刃口和青色线缆。展示其在收起状态下的紧凑感，以及在展开状态下带有锯齿的发光形态。
+
+底部布局：下半部分为 3x3 的分镜网格，包含 9 个动作面板。每个面板顶部有黑色标题条，配有红色数字和白色战术动作标签。描绘角色在工业街道和立交桥上与成群的白色人形机器人战斗的场景，包含速度线、红色能量弧、青色火花以及粗犷的单色背景透视。
+
+分镜面板，共 9 个：01 “PROFILE WS / FIRST BREAK”展示侧面攻击击碎一个机器人，后方有一排机器人等待；02 “LOW PROFILE FS / TRIPLE BURST”展示角色低姿态滑行并斩断三个目标；03 “HIGH REAR WS / LANE RUSH”展示在两排机器人之间的巷道中进行后方追逐；04 “LOW 3-4 FS / RISING ASSAULT”展示角色向上跳跃对抗空中机器人；05 “HIGH SIDE WS / MIDAIR SWEEP”展示空中水平横扫，切断多个机器人；06 “GROUND REAR WS / HEAVY BLOCK”展示角色低姿态抵御一堵由重型盾牌机器人组成的墙；07 “PROFILE MS / COUNTER PUSH”展示针对集群机器人的近距离侧向反击；08 “LOW 3-4 FS / POWER DRAW”展示角色居中，双臂伸展，在机器人包围中引出青色闪电；09 “TOP-DOWN EWS / NEON CASCADE”展示从鸟瞰视角，巨大的红色新月斩击横扫大片机器人阵型。
+
+视觉风格：高能量日式游戏概念艺术，赛博朋克漫画分镜，粗犷的墨线，赛璐珞风格阴影，黑、骨白、猩红和电青色的有限配色。保持页面内容密集但易读，角色轮廓清晰，武器轨迹动态十足。
+
+文字限制：左上角使用粗体笔刷字体书写主标题 {argument name="title text" default="KATANA ECHO"}，中心附近使用粗糙的黑色字体书写武器标题 {argument name="weapon title" default="VOID REAPER"}，以及阵营/文件标签 {argument name="file label" default="CYBERSTRIKE // IND. FILE 77-K.E"}。除小的装饰性片假名/日文字符（可作为次要装饰）外，所有可见标签均使用英文。请勿添加额外的面板、额外的三视图或额外的武器状态。
+
+[English]
+Goal: Create a high-detail cyberpunk anime character sheet and action storyboard for {argument name="character name" default="Katana Echo"}, a rebellious street samurai with techwear styling and a transforming energy nagamaki weapon.
+
+Canvas: Wide horizontal concept art sheet, 16:9 aspect ratio, off-white paper background with black ink, gritty red and teal accents, manga production-board energy. Use thin panel borders, rough sketch construction lines, splattered paint, handwritten labels, and sharp graphic design.
+
+Top layout: Divide the top half into three main sections. Left section shows exactly 3 full-body turnaround views of the character labeled FRONT, SIDE, and BACK. Center section is a weapon spec panel titled "VOID REAPER" with subtitle "ENERGY NAGAMAKI" and exactly 2 weapon states: "RETRACTED" and "EXTENDED". Add small callouts reading "CHAIN LINK" and "ENERGY EDGE". Right section is a dramatic hero illustration of the character holding the weapon, with a large red circular skull emblem behind them and vertical Japanese-style decorative text. Include file text near the title such as "CYBERSTRIKE // IND. FILE 77-K.E" and small katakana-style name text.
+
+Character details: The character is an androgynous punk cyber-samurai with {argument name="hair color" default="black hair with teal bangs"}, shaved-side messy topknot hair, piercings, red eye makeup, cropped layered jacket, exposed midriff, belts, straps, red chains, utility tags, oversized black hakama-style pants, mechanical roller-blade boots, fingerless gloves, and a black-red-white-teal color palette. Their jacket back has a bold red skull/sun graphic. The pose language is aggressive, fast, and cocky.
+
+Weapon details: The weapon is a hybrid chained nagamaki/chainsaw blade with a black handle, red tags, metal hardware, circular mechanical hub, black-and-white seals, red glowing blade edge, and teal cables. Show it compact in the retracted state and long serrated glowing in the extended state.
+
+Bottom layout: The bottom half is a 3 by 3 storyboard grid with exactly 9 action panels. Each panel has a black header strip with a red number and white tactical move label. Depict the character fighting squads of white humanoid robots in industrial streets and overpasses, with speed lines, red energy arcs, teal sparks, and rough monochrome background perspective.
+
+Storyboard panels, exactly 9: 01 "PROFILE WS / FIRST BREAK" shows a side attack blasting one robot while a row of robots waits behind; 02 "LOW PROFILE FS / TRIPLE BURST" shows the character sliding low and slashing through three targets; 03 "HIGH REAR WS / LANE RUSH" shows a rear chase down a lane between two robot lines; 04 "LOW 3-4 FS / RISING ASSAULT" shows the character leaping upward against airborne robots; 05 "HIGH SIDE WS / MIDAIR SWEEP" shows a midair horizontal sweep cutting multiple robots; 06 "GROUND REAR WS / HEAVY BLOCK" shows the character bracing low against a wall of shielded heavy robots; 07 "PROFILE MS / COUNTER PUSH" shows a close side counterstrike against clustered robots; 08 "LOW 3-4 FS / POWER DRAW" shows the character centered with both arms extended, drawing teal lightning while robots surround them; 09 "TOP-DOWN EWS / NEON CASCADE" shows a bird's-eye massive red crescent slash sweeping through a large robot formation.
+
+Visual style: High-energy Japanese game concept art, cyberpunk manga storyboard, gritty ink linework, cel-shaded accents, limited palette of black, bone white, scarlet red, and electric teal. Keep the page dense but readable, with crisp character silhouettes and dynamic weapon trails.
+
+Text constraints: Use the main title {argument name="title text" default="KATANA ECHO"} in a bold brush font at top left, the weapon title {argument name="weapon title" default="VOID REAPER"} in rough black lettering near the center, and the faction/file label {argument name="file label" default="CYBERSTRIKE // IND. FILE 77-K.E"}. Keep all visible labels in English except small decorative katakana/Japanese glyphs, which may be stylized and secondary. Do not add extra panels, extra turnaround views, or extra weapon states.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2079607031409832020) | 2026-07-21
+
+---
+
+### 🎬 例 4652：单色故事板草图提示词
+
+![单色故事板草图提示词](../images/%E5%8D%95%E8%89%B2%E6%95%85%E4%BA%8B%E6%9D%BF%E8%8D%89%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 {argument name="aspect ratio" default="16:9"} 简洁的 {argument name="color style" default="monochrome"} 2D 故事板线条草图页，内容为 {argument name="character name" default="Suzune"} 在坠落的岩石间斩杀生物；展示四个脚部接触点和女性剪影，且不要渲染括号内的标签。
+
+[HEADER]
+带有单条细线的极简页眉；
+
+[English]
+Create a {argument name="aspect ratio" default="16:9"} clean {argument name="color style" default="monochrome"} 2D storyboard line-sketch sheet of {argument name="character name" default="Suzune"} cutting creatures across falling rocks; show four foot contacts and feminine silhouettes, and do not render bracketed labels.
+
+[HEADER]
+Minimal header with one thin rule;
+```
+
+**来源：** [@Kōda](https://x.com/aimikoda/status/2079594607470399876) | 2026-07-21
+
+---
+
+### 🎬 例 4661：月下仓鼠冰浴漫画
+
+![月下仓鼠冰浴漫画](../images/%E6%9C%88%E4%B8%8B%E4%BB%93%E9%BC%A0%E5%86%B0%E6%B5%B4%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖构图的黑白漫画插画，采用高精度的墨线艺术和网点阴影。场景：夜晚宁静的月下传统日式木质走廊，面向庭院。前景中，放置一个圆形的木制水盆，盆内装有水和 14 块小方冰块，一只普通大小的仓鼠正仰面漂浮在冷水中，神态放松，与木盆相比显得十分娇小。木盆旁，坐着一位中性美的年轻成年人，身穿宽松的夏季和服/浴衣，{argument name="character name" default="未具名的浅发青年"}，拥有 {argument name="hair color" default="极浅的银白色头发"}，长而凌乱的刘海，肩上垂着一条粗侧辫。角色跪在走廊上，身体前倾，神情忧郁而温柔，手中拿着一把装饰有简约花草图案的圆形纸团扇，仿佛正在为仓鼠扇风。服装：飘逸的浅色浴衣，带有淡雅的花纹，深色腰带，宽袖，呈现出传统的褶皱和细腻的织物纹理。背景：传统的木梁、推拉式障子门、室内阴影、带有茂密灌木和绣球花般的庭院、一座石灯笼，以及星空下一轮新月。在木地板靠近木盆处添加少许水滴和积水，营造强烈的月光对比，使用密集的交叉排线，刻画细腻的发丝，构图具有电影感，展现亲密的夏夜氛围。使用 {argument name="art style" default="日式漫画版画风格"}；保持仓鼠为现实中常见的宠物大小，不要画成巨型，并避免出现颜色、文字、对话气泡、现代物品或额外的动物。
+
+[English]
+Create a vertical black-and-white manga illustration in highly detailed ink line art and screentone shading. Scene: a quiet moonlit traditional Japanese wooden veranda at night, open to a garden. In the foreground, place exactly one round wooden washtub filled with water and exactly 14 small square ice cubes, with exactly one normal-sized hamster floating on its back in the cold bath, relaxed and tiny compared with the tub. Beside the tub, show exactly one androgynous beautiful young adult in a loose summer kimono/yukata, {argument name="character name" default="unnamed pale-haired young man"}, with {argument name="hair color" default="very light silver-white hair"}, long messy bangs, and one thick side braid over the shoulder. The character kneels on the veranda, leaning forward with a melancholy, gentle expression, holding exactly one round paper uchiwa fan decorated with simple floral and grass motifs, as if fanning the hamster. Clothing: flowing pale yukata with subtle flower patterns, dark obi sash, wide sleeves, traditional folds and fine fabric texture. Background: traditional wooden beams, sliding shoji doors, interior shadows, an outdoor garden with leafy shrubs and hydrangea-like flowers, exactly one stone lantern, exactly one crescent moon in a starry black sky. Add small water drips and puddles on the wooden floor near the tub, dramatic moonlit contrast, dense crosshatching, delicate hair strands, cinematic composition, intimate summer-night atmosphere. Use {argument name="art style" default="Japanese manga engraving style"}; keep the hamster realistic common-pet size, not giant, and avoid color, text, speech bubbles, modern objects, or extra animals.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079576814641631297) | 2026-07-21
+
+---
+
+### 🎬 例 4666：漫画风格：阳台仓鼠冰浴
+
+![漫画风格：阳台仓鼠冰浴](../images/%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%9A%E9%98%B3%E5%8F%B0%E4%BB%93%E9%BC%A0%E5%86%B0%E6%B5%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖构图的黑白漫画插画，采用极其细腻的钢笔排线风格，场景设定在宁静的日式传统木质阳台上。一位神秘的 {argument name="character name" default="年轻女子"}，留着凌乱的长 {argument name="hair color" default="黑发"} 并扎成松散的发髻，跪在圆木桶旁，身着层叠飘逸的 {argument name="outfit" default="淡色和服长袍，内衬深色，配有绳结、流苏和宽袖"}。她身体前倾，神情温柔且难以捉摸，手中拿着一把绘有草木花卉的圆形团扇，为一只正在冷水中仰面放松的巨大毛茸茸 {argument name="animal" default="仓鼠"} 扇风。仓鼠闭着眼睛，神情惬意，小爪子抬起，头顶还搭着一条带有圆点图案的小毛巾。木桶里盛满水，并有 24 块清晰可见的半透明冰块：8 块聚集在前方边缘，6 块漂浮在仓鼠左侧，5 块在右侧，5 块在仓鼠后方靠近桶底的位置。场景包含纹理清晰的木质地板、敞开的推拉门、室外黑暗的庭院、树叶剪影、左侧柔和发光的石灯笼，以及右侧书房的内景，内有书架、堆叠的书籍、台灯和一幅写有 {argument name="calligraphy text" default="观书养志"} 的竖挂书法卷轴。运用戏剧性的月光照明，营造深邃的阴影，一道明亮的对角光束投射在推拉门上，石灯笼和台灯发出柔和的光芒。画面要求线条复杂、纹理密集，呈现出忧郁的夏夜氛围，无色彩，无现代物品，无对话气泡，无标题文字。
+
+[English]
+Create a vertical black-and-white manga illustration in extremely detailed pen-and-ink crosshatching, set on a quiet traditional Japanese wooden veranda at night. A mysterious {argument name="character name" default="young woman"} with long messy {argument name="hair color" default="black hair"} tied in a loose bun kneels beside a round wooden washtub, wearing layered flowing {argument name="outfit" default="pale kimono robes with dark inner layers, cords, tassels, and loose sleeves"}. She leans forward with a gentle, slightly unreadable expression, holding a flat round paper fan painted with grasses and flowers, fanning a very large fluffy {argument name="animal" default="hamster"} relaxing belly-up in cold water. The hamster looks blissful with closed eyes, tiny paws raised, and a small folded towel with dotted pattern resting on its head. The tub is filled with water and exactly 24 visible translucent ice cubes: 8 clustered along the front rim, 6 floating near the hamster’s left side, 5 around the right side, and 5 behind the hamster near the back of the tub. The scene includes a wooden deck with strong plank texture, sliding glass doors standing open, a dark garden outside, leafy silhouettes, a stone lantern glowing softly on the left, and the interior of a study on the right with bookshelves, stacked books, a desk lamp, and a vertical hanging calligraphy scroll reading {argument name="calligraphy text" default="観書養志"}. Use dramatic moonlit lighting with deep shadows, a bright diagonal beam falling across the sliding door, soft glow from the lantern and desk lamp, intricate linework, dense textures, melancholic summer-night atmosphere, no color, no modern objects, no speech bubbles, no captions.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079568084613095874) | 2026-07-21
+
+---
+
+### 🎬 例 4707：电影感 BMX 分镜脚本页
+
+![电影感 BMX 分镜脚本页](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%20BMX%20%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段名为 {argument name="storyboard title" default="第一部分：觉醒——初次蹬踏"} 的短篇 AI 视频序列创建一份单色电影感分镜脚本页，展示一名年轻女性骑着 BMX 自行车穿过狭窄城市小巷的场景。
+
+画布：横向分镜项目，比例约为 16:9，米白色纸张背景，细黑色边框，整洁的制作规划布局。使用灰度铅笔、水墨渲染，并带有轻微的胶片颗粒感，呈现细腻的漫画写实风格。左上角包含粗体大写标题；右上角包含小型标签“时长：15 秒”。
+
+主视觉面板：页面上半部分为一个大型宽幅定场镜头。展示 {argument name="character name" default="JURI"}，一位年轻的东亚女性，留着黑色长直发，皮肤白皙，表情冷静自信，身穿宽松白色 T 恤、灰色阔腿裤和白色运动鞋，坐在黑色 BMX 自行车上。她转过头看向观众，双手握住车把，背景是一个安静、狭窄的韩式城市小巷，有百叶窗店面、混凝土墙、管道、涂鸦、小型标志以及强烈的线性透视。在右侧墙壁上添加一个小型韩国停车相关标志以增加真实感。
+
+布局：在主视觉面板下方，创建 10 个带编号的分镜缩略图，排列为两行，每行五个。每个缩略图左上角有一个黑色小数字标签，下方有一个紧凑的制作表格，包含 5 个明确的行：“镜头 / 动作”、“摄像机 / 运动”、“时长”、“声音”和“转场”。保持字体微小但清晰可辨，如同专业导演的分镜脚本。
+
+分镜缩略图，共 10 个面板：
+1. 空巷的宽幅定场镜头；静态广角摄像机；1.5 秒；轻微城市环境音和柔和风声；切镜。
+2. JURI 从后方骑 BMX 进入画面；进入时轻微平移；1.5 秒；脚步声和车轮滚动声；切镜。
+3. 手部握住车把的特写；微距特写，浅景深；1.0 秒；握把调整和细微的链条转动声；切镜。
+4. 脚踩踏板的特写；特写，轻微推镜头；1.0 秒；轮胎摩擦声和链条咔哒声；切镜。
+5. 她蹬地起步；低位 3/4 角度；1.5 秒；蹬地和车轮滚动声；切镜。
+6. 侧向跟拍镜头，自行车开始滚动；从左向右跟拍；1.5 秒；车轮滚动和链条转动声；切镜。
+7. 前轮与路面的低角度镜头；低位跟拍特写；1.5 秒；轮胎滚动声和路面质感；切镜。
+8. 她建立自信时的正面中景；缓慢推镜头；1.5 秒；车轮滚动声和轻微城市环境音；切镜。
+9. 她向前骑行时阳光照在头发上；轻微跟拍，柔和背光；1.5 秒；风声和车轮滚动声；切镜。
+10. 通往下一个地点的宽幅离开镜头；静态广角摄像机；1.5 秒；车轮滚动声渐弱融入城市环境音；转场“切至第二部分”。
+
+底部信息栏：添加 4 个带简单黑色线条图标和标签的方框注释。1) 扬声器图标：“声音设计（第一部分）”，包含关于车轮滚动、脚步声、轮胎摩擦、链条转动、轻微城市环境音和柔和风声的说明。2) 定位图标：“场景 / 地点”，标注“首尔，安静小巷，白天”。3) 星形图标：“基调与氛围”，标注“青春、城市、自由、自信、极简、时尚广告风”。4) 剪贴板图标：“备注”，标注“保持自然的节奏和呼吸感。让 JURI 的存在感和动作引领整个场景”。
+
+视觉风格：黑白分镜概念艺术，写实的铅笔线条，柔和的灰色水彩阴影，电影感韩国街道氛围，精确的面板边框，整洁的制作表设计。除灰度色调外避免使用彩色。无标志或水印。除小巷中零星的韩文标志外，所有文字均保持英文。
+
+[English]
+Goal: Create a monochrome cinematic storyboard sheet for a short AI-video sequence titled {argument name="storyboard title" default="PART 1. AWAKENING — THE FIRST PUSH"}, showing a young woman with a BMX bicycle beginning to ride through a narrow urban back alley.
+
+Canvas: Landscape storyboard board, approximately 16:9, off-white paper background, thin black border, clean production-planning layout. Use grayscale pencil, ink wash, and subtle manga-realism rendering with light film grain. Top left contains the bold uppercase title; top right contains the small label “DURATION: 15 SECONDS”.
+
+Main hero panel: A large wide establishing frame spanning the top half of the page. Show {argument name="character name" default="JURI"}, a youthful East Asian woman with long straight black hair, pale skin, calm confident expression, oversized white T-shirt, loose gray pants, and white sneakers, seated on a black BMX bike. She is turned over her shoulder looking toward the viewer while holding the handlebars in a quiet, narrow Korean-style city alley with shuttered storefronts, concrete walls, pipes, graffiti, small signs, and strong linear perspective. Add a small Korean parking-related sign on the right wall for authenticity.
+
+Layout: Beneath the hero panel, create exactly 10 numbered storyboard thumbnails arranged in two rows of five. Each thumbnail has a small black number tab in the top-left corner and a compact production table underneath with exactly 5 labeled rows: “SHOT / ACTION”, “CAMERA / MOVEMENT”, “DURATION”, “SOUND”, and “TRANSITION”. Keep the typography tiny but legible, like a real director’s storyboard.
+
+Storyboard thumbnails, exactly 10 panels:
+1. Wide establishing shot of the empty alley; static wide camera; 1.5 sec; light city ambience and soft wind; cut.
+2. JURI enters the frame with the BMX from behind; slight pan as she enters; 1.5 sec; footsteps and wheel roll; cut.
+3. Close-up of her hand gripping the handlebar; macro close-up with shallow focus; 1.0 sec; grip shift and subtle chain movement; cut.
+4. Close-up of her foot on the pedal; close-up, slight push-in; 1.0 sec; tire scrub and chain click; cut.
+5. She pushes off to start moving; low 3/4 angle; 1.5 sec; foot push and wheel roll; cut.
+6. Side tracking shot as the bike begins rolling; tracking left to right; 1.5 sec; wheel roll and chain movement; cut.
+7. Low angle on front wheel and pavement; low tracking close-up; 1.5 sec; tire roll and pavement texture; cut.
+8. Medium front shot as she gains confidence; slow push-in; 1.5 sec; wheel roll and slight city ambience; cut.
+9. Sunlight catches her hair as she rides forward; slight tracking with soft backlight; 1.5 sec; wind and wheel roll; cut.
+10. Wide exit frame leading into the next location; static wide camera; 1.5 sec; wheel roll fading into city ambience; transition “Cut to Part 2”.
+
+Bottom information bar: Add exactly 4 boxed notes with simple black line icons and labels. 1) Speaker icon: “SOUND DESIGN (PART 1)” with notes about wheel roll, footsteps, tire scrub, chain movement, light city ambience, and soft wind. 2) Location pin icon: “SETTING / LOCATION” with “Seoul, quiet back alley, daytime.” 3) Star icon: “TONE & MOOD” with “Youthful, urban, free, confident, minimal, fashion-commercial.” 4) Clipboard icon: “NOTES” with “Maintain natural pacing and breath. Let JURI’s presence and movement lead the scene.”
+
+Visual style: Black-and-white storyboard concept art, realistic pencil linework, soft gray watercolor shading, cinematic Korean street atmosphere, precise panel borders, clean production sheet design. Avoid color except grayscale tones. No logos or watermarks. Keep all text in English except small incidental Korean signage in the alley.
+```
+
+**来源：** [@darkcommis | 율파파](https://x.com/darkcommis/status/2079414481495711773) | 2026-07-21
+
+---
+
+### 🎬 例 4709：零重力生存故事板
+
+![零重力生存故事板](../images/%E9%9B%B6%E9%87%8D%E5%8A%9B%E7%94%9F%E5%AD%98%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段 15 秒的硬核复古未来主义动画风格的零重力生存短片，创作一个详细的 16 格故事板。
+
+画布：一张宽幅 4:3 的故事板，划分为 16 个相等的格子，呈 4 行 4 列排列，中间有细黑线分隔。在每个格子的左上角标注白色小数字，从 1 到 16 编号。全程使用粗粝的电影感光效、密集的线条、赛璐珞风格的动画渲染、划痕金属质感、青色冷却剂蒸汽、漂浮碎片以及红色应急灯光。
+
+场景：废弃的轨道空间站 {argument name="station name" default="the Halcyon"}，一个受损的零重力圆柱形维护走廊。环境阴暗、工业感强、空间狭窄，布满了裸露的导管、破裂的面板、警示灯、火花、漂浮的螺栓、损坏的工具以及朦胧的青色冷却剂云雾。
+
+角色：在每个相关格子中保持两名原始角色不变。角色一为 {argument name="young survivor" default="一名短发、橘色头发的年轻女性，身穿锈橘色压力服，佩戴机械护手，胸前有圆形仪表"}。角色二为 {argument name="veteran survivor" default="一名年长的深色皮肤男性，身穿破损的深蓝色装甲维护服，戴着头带式护目镜，留着胡茬，面容坚毅"}。两人都在零重力中漂浮，显得狼狈、急迫，虽恐惧但坚定。
+
+逐格动作，共 16 格：
+1. 俯瞰阴暗废弃走廊的广角镜头，青色冷却剂蒸汽在通道中翻涌，红色应急灯闪烁，碎片在零重力中漂浮。
+2. 破裂数字警示监视器的特写，红色块状文字显示“00:14:87”和“HULL INTEGRITY FAILING”（船体完整性失效）。
+3. 年轻幸存者在走廊中向前飞行的动态镜头，手臂向观众伸出，机械护手清晰可见，身后是青色蒸汽。
+4. 老兵幸存者靠在墙板上，切割或焊接接缝处，迸发出明亮的橘色火花。
+5. 广角镜头展示两名幸存者在走廊中分离，年轻幸存者向左漂浮，老兵在更后方，周围环绕着青色蒸汽和碎片。
+6. 俯视/倾斜的零重力视角，展示损坏的空间站设备、管道、漂浮物以及远处的火花喷溅。
+7. 年轻幸存者紧握金属管或扶手的动作特写，表情紧张，橘色防护服上有划痕，身后是红光和烟雾。
+8. 老兵幸存者继续切割墙板的重复角度特写，明亮火花四溅，可见其破损的袖口和紧绷的表情。
+9. 年轻幸存者漂过一张破裂的相框或反光板的侧面特写，映出两张面孔，暗示一段私人记忆；她神情专注且担忧。
+10. 老兵幸存者穿过舱门或狭窄通道的正面特写，身后是红色警示灯，一只戴手套的手向观众抬起。
+11. 从年轻幸存者身后拍摄的过肩动作镜头，她正向走廊另一侧的老兵幸存者伸出手。
+12. 透过浓厚青色冷却剂云雾的广角镜头，两名幸存者在两侧隐约可见，碎片在他们之间翻滚。
+13. 老兵幸存者在漂浮的碎片和蒸汽中绝望地向镜头伸手的特写，面部表情紧绷。
+14. 两名幸存者在零重力中紧握戴手套双手的极度特写，背景是青色蒸汽和漂浮碎片。
+15. 广角镜头展示两名幸存者正奋力向走廊尽头明亮的蓝白色逃生舱门游去，周围是红色应急灯和青色烟雾。
+16. 圆形舱门框住的最终中景镜头：年轻幸存者和老兵幸存者并排漂向观众，精疲力竭但依然活着，周围环绕着清冷的蓝色舱门光线和红色的空间站灯光。
+
+视觉风格：硬核复古未来主义动画故事板，高细节线条，粗粝的科幻生存氛围，动态漫画风格角度，戏剧性的透视缩短，浓重的阴影，青色与红色的配色方案，电影般的动感，拒绝现代 UI 的平滑感。
+
+限制：必须使用 16 个编号格子，不得增加额外格子。保持两名角色、废弃空间站、青色冷却剂蒸汽、红色应急灯光以及服装在整个故事板中保持一致。避免使用对话气泡、说明文字、水印、标志或除格子编号及监视器文字之外的任何额外文字。
+
+[English]
+Goal: Create a detailed 16-panel storyboard for a 15-second animated zero-gravity survival short in a hard-edged retro-futurist anime style.
+
+Canvas: One wide 4:3 storyboard sheet divided into exactly 16 equal panels in a 4-column by 4-row grid, with thin black gutters. Put a small white panel number in the top-left corner of each panel, numbered 1 through 16. Use gritty cinematic lighting, dense linework, cel-shaded anime rendering, scratched metal textures, teal coolant vapor, floating debris, and red emergency lights throughout.
+
+Setting: The derelict orbital station {argument name="station name" default="the Halcyon"}, a damaged cylindrical maintenance corridor in zero gravity. The environment is dark, industrial, cramped, and full of exposed conduits, cracked panels, warning lights, sparks, drifting bolts, broken tools, and foggy teal coolant clouds.
+
+Characters: Keep the same two original characters in every relevant panel. Character one is {argument name="young survivor" default="a short-haired orange-haired young woman in a rust-orange pressure suit with a mechanical gauntlet and a round chest gauge"}. Character two is {argument name="veteran survivor" default="an older dark-skinned man in a torn navy armored maintenance suit with a headband visor, stubble, and a rugged face"}. Both are floating in zero gravity, battered, urgent, and afraid but determined.
+
+Panel-by-panel action, exactly 16 panels:
+1. Wide establishing shot down the dark derelict corridor, teal coolant vapor billowing through the tunnel, red emergency lights glowing, debris drifting in zero gravity.
+2. Close-up of a cracked digital warning monitor reading "00:14:87" and "HULL INTEGRITY FAILING" in red blocky text.
+3. Dynamic shot of the young survivor flying forward through the corridor, arm outstretched toward the viewer, mechanical gauntlet visible, teal vapor behind her.
+4. The veteran survivor braces himself against a wall panel and cuts or welds at a seam, producing bright orange sparks.
+5. Wide shot showing both survivors separated in the corridor, the young survivor drifting left while the veteran is farther back, surrounded by teal vapor and debris.
+6. Overhead/tilted zero-gravity view of broken station equipment, pipes, floating objects, and a burst of sparks in the distance.
+7. Tight action close-up of the young survivor gripping a metal pipe or rail, face tense, orange suit scratched, red lights and smoke behind her.
+8. Repeat-angle close shot of the veteran survivor still cutting the wall panel, shower of bright sparks, his torn sleeve and strained expression visible.
+9. Side-profile close-up of the young survivor drifting past a cracked framed photograph or reflective panel showing two faces, suggesting a personal memory; she looks focused and worried.
+10. Frontal close-up of the veteran survivor pushing forward through a hatchway or narrow passage, red warning lights behind him, one gloved hand raised toward the viewer.
+11. Over-the-shoulder action shot from behind the young survivor as she reaches toward the veteran survivor across a corridor opening.
+12. Wide shot through a dense teal coolant cloud with both survivors partially visible on opposite sides, debris tumbling between them.
+13. Close-up of the veteran survivor reaching desperately toward camera through the floating debris and vapor, face strained.
+14. Extreme close-up of the two survivors clasping gloved hands in zero gravity, centered against teal vapor and drifting debris.
+15. Wide shot of both survivors pulling themselves toward a bright blue-white escape hatch or airlock at the end of the corridor, red emergency lights and teal smoke around them.
+16. Final medium shot framed by a circular/rounded hatch: the young survivor and veteran survivor are side by side, floating toward the viewer, exhausted but alive, surrounded by cool blue hatch light and red station lights.
+
+Visual style: Hard-edged retro-futurist anime storyboard, high-detail inked panels, gritty sci-fi survival mood, dynamic manga-style angles, dramatic foreshortening, heavy shadows, teal-and-red color palette, cinematic motion, no clean modern UI polish.
+
+Constraints: Use exactly 16 numbered panels and no extra panels. Keep the same two characters, same derelict station, same teal coolant vapor, same red emergency lighting, and consistent costumes across the entire storyboard. Avoid speech bubbles, captions, watermarks, logos, or extra text except the panel numbers and the warning monitor text.
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2079409642237522375) | 2026-07-21
+
+---
+

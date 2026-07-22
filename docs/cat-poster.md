@@ -21525,3 +21525,381 @@ Constraints: Use exactly one cyclist, one arched bridge, one bottom-right badge,
 
 ---
 
+### 🎴 例 4627：高端男士护肤缩略图
+
+![高端男士护肤缩略图](../images/%E9%AB%98%E7%AB%AF%E7%94%B7%E5%A3%AB%E6%8A%A4%E8%82%A4%E7%BC%A9%E7%95%A5%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为男士护理或护肤产品系列创作一张电影质感的日式 YouTube 缩略图风格广告，旨在吸引不知道如何选择产品的男性用户。
+
+画布：16:9 横向缩略图，深色高端编辑风格，高对比度，无边框或水印。
+
+布局：左侧三分之一处放置一位严肃的日本男性模特，胸部以上半身像，身穿黑色西装外套内搭黑色衬衫。他留着中长波浪黑发，面部剃须干净，头部微倾，表情沉稳自信，直视镜头。主标题置于中右侧，字体硕大并叠加在深色背景上。产品阵列放置在右下角的深色石质底座上。
+
+文本内容：使用 3 组文本。顶部组：一个黑色斜向矩形横幅，内含小号加粗白色日文：「どれ選べばいいか分からない男へ。」（致不知道该选什么的男士）。主标题组：非常大的白色日文明朝体衬线字，带有细微投影，第一行：「女性100人が」（100 位女性），第二行：「ガチで選んだ」（认真挑选出的）。高亮组：带引号的大号金属金色衬线字：「30代の清潔感」（30 岁的清爽感），下方紧跟大号白色文字：「の正解。」（的标准答案）。使金色短语成为模特之后最强的视觉焦点。
+
+主体细节：人物应呈现出高端杂志封面的质感：真实的皮肤纹理、情绪化的摄影棚灯光、轮廓分明的颧骨、成熟的 30 岁氛围、内敛的男性气质。使用 {argument name="model description" default="一位 30 多岁、留着波浪黑发、身穿黑色西装外套的帅气日本男性"}。
+
+产品细节：在右侧展示 4 款哑光黑色护理容器：最右侧为 1 个高泵头瓶，其左侧为 1 个高挤压管，前方为 1 个矮圆柱形罐，罐后为 1 个更宽的矮圆柱形容器。所有产品均无标签，极简、高端，并带有柔和的轮廓光。
+
+视觉风格：深炭蓝色背景，右上角有斜向聚光灯束，中心文字周围有淡淡的烟雾感，高端黑金配色，写实商业摄影，光泽感但克制的高光，清晰的排版。
+
+可自定义标题参数：使用 {argument name="top banner text" default="どれ選べばいいか分からない男へ。"}，{argument name="main white headline" default="女性100人が\nガチで選んだ"}，{argument name="gold key phrase" default="「30代の清潔感」"}，以及 {argument name="closing text" default="の正解。"}。
+
+约束条件：保持构图简洁，确保所有日文文本大而易读，不要在产品上添加额外标签，不要添加 Logo，不要添加超过一人，并保持正好 4 个可见的产品容器。
+
+[English]
+Goal: Create a cinematic Japanese YouTube thumbnail-style advertisement for a men's grooming or skincare product line, aimed at men who do not know what to choose.
+
+Canvas: 16:9 horizontal thumbnail, dark premium editorial look, high contrast, no border or watermark.
+
+Layout: Place one serious Japanese male model on the left third, cropped from chest upward, wearing a black blazer over a black shirt. He has medium-length wavy black hair, clean-shaven face, slightly tilted head, calm confident expression, and looks directly at the viewer. Put the main headline in the center-right, large and layered over the dark background. Place the product lineup on the far right bottom on a dark stone pedestal.
+
+Text content: Use exactly 3 text groups. Top group: a black slanted rectangular banner with small bold white Japanese text: 「どれ選べばいいか分からない男へ。」 Main group: very large white Japanese Mincho-style serif text with subtle drop shadow: 「女性100人が」 on the first line and 「ガチで選んだ」 on the second line. Highlight group: large metallic gold serif text with quotation marks: 「30代の清潔感」, followed below by large white text: 「の正解。」 Make the gold phrase the strongest focal point after the model.
+
+Subject details: The man should feel like a polished luxury magazine cover: realistic skin texture, moody studio lighting, sharp cheekbones, mature 30s atmosphere, understated masculinity. Use {argument name="model description" default="a handsome Japanese man in his 30s with wavy black hair wearing a black blazer"}.
+
+Product details: Show exactly 4 matte-black grooming containers on the right: 1 tall pump bottle at the far right, 1 tall squeeze tube just left of it, 1 low cylindrical jar in front, and 1 wider low cylindrical container behind the jar. All products are unlabeled, minimal, premium, and softly rim-lit.
+
+Visual style: Dark charcoal-blue background with a diagonal spotlight beam from the upper right, subtle smoky haze around the center text, premium black-and-gold color palette, realistic commercial photography, glossy but restrained highlights, crisp typography.
+
+Customizable headline parameters: Use {argument name="top banner text" default="どれ選べばいいか分からない男へ。"}, {argument name="main white headline" default="女性100人が\nガチで選んだ"}, {argument name="gold key phrase" default="「30代の清潔感」"}, and {argument name="closing text" default="の正解。"}.
+
+Constraints: Keep the composition uncluttered, ensure all Japanese text is large and legible, do not add extra labels to the products, do not add logos, do not add more than one person, and keep exactly 4 visible product containers.
+```
+
+**来源：** [@Riku](https://x.com/Rikufeildworks/status/2079712482218934456) | 2026-07-21
+
+---
+
+### 🎴 例 4641：“全能秘书”机密档案海报
+
+![“全能秘书”机密档案海报](../images/%E2%80%9C%E5%85%A8%E8%83%BD%E7%A7%98%E4%B9%A6%E2%80%9D%E6%9C%BA%E5%AF%86%E6%A1%A3%E6%A1%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满电影质感的竖版机密档案海报，主题为 {argument name="operation title" default="BADASS SECRETARY"}。画面展示了一位外表冷峻的东亚年轻女性，身穿黑色细条纹商务西装和白色衬衫，动作动态十足，左下角前景中握着一把黑色武士刀或精致的战术长剑剑柄。她留着黑色长发，带有刘海，发丝随风向左飘动，眼神犀利直视前方，佩戴着精致的圆环耳饰，表情自信且危险。整体风格模仿政府机密动作惊悚档案：采用做旧的米色纸张背景，带有裂纹和污渍纹理，叠加红黑色的粗犷效果、审查遮盖条、印章标记、档案字体、半色调污垢、划痕、撕纸阴影以及电影级的轮廓光。采用 9:16 的竖构图，人物略微偏右，上半身呈对角线倾斜，剑柄位于左下角，巨大的标题以粗体压缩块状字体占据中下部，颜色为做旧的红色并带有黑色阴影。必须包含以下可见的文字元素和标签：左上角“OFFICE OF EXECUTIVE OPERATIONS”（行政行动办公室）和“INTERNAL DOSSIER: LEVEL 7 CLEARANCE ONLY”（内部档案：仅限 7 级权限）；右上角文件框“FILE NO. {argument name="file number" default="BDS-0724-A"}”；一个圆形的红色“TOP SECRET”（绝密）印章，标注“EYES ONLY”（仅限阅览）；左侧主体面板“SUBJECT: {argument name="subject status" default="UNKNOWN. UNSTOPPABLE."}”（主体：身份不明。势不可挡。）；小型审查行“REVIEWED BY: 7/24”（审查人：7/24）和“DATE: 07/24”（日期：07/24）；资产卡片标题“ASSET PROFILE”（资产档案），列出“INTELLIGENCE: EXCEPTIONAL”（情报：卓越）、“STRATEGY: INGENIOUS”（策略：精妙）、“DISCRETION: ABSOLUTE”（谨慎：绝对）、“OUTCOME: INEVITABLE”（结果：必然）；红色小标签“BDS-0724-A”；警告条“// HANDLE WITH EXTREME CAUTION”（// 请极其谨慎处理）；右侧引语块“SHE DOESN’T FOLLOW THE PROTOCOL. SHE IS THE PROTOCOL.”（她不遵循协议。她就是协议本身。）；标题上方的小标签“OPERATION:”（行动：）；主标题“BADASS SECRETARY”；副标题条“SILENCE. STRATEGY. SUCCESS.”（沉默。策略。成功。）；下方一行字“THREE THINGS SHE DOESN’T OUTSOURCE.”（她从不外包的三件事。）；右下角印章“CLASSIFIED / LEVEL 7 CLEARANCE REQUIRED / [NO EXCEPTIONS]”（已归档 / 需 7 级权限 / [无例外]）；左下角“DISTRIBUTION: DIRECTORATE ONLY”（分发：仅限董事会）；底部大型红色印章“MISSION: RESULTS ONLY”（任务：只看结果）；以及右下角附近的一行红色日文小字“仕事は完璧に。敵は無慈悲に。私は、誰にも従わない。”（工作追求完美，对待敌人冷酷无情。我，不服从任何人。）海报内容丰富但清晰易读，包含大量水平黑色遮盖条和红色强调块，高对比度，戏剧性阴影，电影海报级的后期处理，无水印，无多余字符。
+
+[English]
+Create a gritty cinematic vertical dossier poster for {argument name="operation title" default="BADASS SECRETARY"}. The artwork shows a fierce young East Asian woman in a black pinstripe business suit and white dress shirt, posed dynamically as if mid-action, gripping a black katana or ornate tactical sword handle in the lower left foreground. She has long black hair with bangs, windblown strands sweeping left across the poster, intense direct eye contact, subtle hoop earring, and a confident dangerous expression. Style it like a classified government action-thriller file: aged beige paper background, cracked and stained texture, red-and-black grunge overlays, censor bars, stamped marks, dossier typography, halftone dirt, scratches, torn-paper shadows, and cinematic rim lighting. Use a portrait 9:16 composition with the character centered slightly right, upper body angled diagonally, sword handle at bottom left, and the huge title occupying the lower middle in bold condensed block letters colored distressed red with black shadowing. Include exactly these visible text elements and labels: top left “OFFICE OF EXECUTIVE OPERATIONS” and “INTERNAL DOSSIER: LEVEL 7 CLEARANCE ONLY”; top right file box “FILE NO. {argument name="file number" default="BDS-0724-A"}”; a circular red “TOP SECRET” stamp with “EYES ONLY”; left subject panel “SUBJECT: {argument name="subject status" default="UNKNOWN. UNSTOPPABLE."}”; small review lines “REVIEWED BY: 7/24” and “DATE: 07/24”; asset card titled “ASSET PROFILE” listing “INTELLIGENCE: EXCEPTIONAL”, “STRATEGY: INGENIOUS”, “DISCRETION: ABSOLUTE”, “OUTCOME: INEVITABLE”; small red tag “BDS-0724-A”; warning strip “// HANDLE WITH EXTREME CAUTION”; right quote block “SHE DOESN’T FOLLOW THE PROTOCOL. SHE IS THE PROTOCOL.”; small label above title “OPERATION:”; main title “BADASS SECRETARY”; subtitle strip “SILENCE. STRATEGY. SUCCESS.”; line below “THREE THINGS SHE DOESN’T OUTSOURCE.”; bottom right stamp “CLASSIFIED / LEVEL 7 CLEARANCE REQUIRED / [NO EXCEPTIONS]”; bottom left “DISTRIBUTION: DIRECTORATE ONLY”; bottom large red stamp “MISSION: RESULTS ONLY”; and a small Japanese-style note in red near the lower right reading “仕事は完璧に。敵は無慈悲に。私は、誰にも従わない。” Keep the poster dense but legible, with many horizontal black redaction bars and red accent blocks, high contrast, dramatic shadows, editorial movie-poster finish, no watermark, no extra characters.
+```
+
+**来源：** [@あるまかん](https://x.com/arumakanist/status/2079628935739146253) | 2026-07-21
+
+---
+
+### 🎴 例 4651：极简主义产品宣传海报
+
+![极简主义产品宣传海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E4%BA%A7%E5%93%81%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片创建一张宣传海报。请勿以任何方式更改产品、Logo、包装、形状、纹理或颜色。将产品放置在 {argument name="pedestal style" default="极简白色底座"} 上，并采用分层构图，以营造更高级的质感并增强视觉深度。调整相机角度，使产品看起来更具吸引力、诱人且令人垂涎。
+
+包含一个页眉，展示品牌/商店名称、自动生成的标语、产品名称，以及每个产品至少包含三句话的专属描述。
+
+使用 {argument name="background" default="纯白色背景"}，配合干净的摄影棚灯光和柔和的自然阴影。留出足够的留白，以保持布局优雅且整洁。添加一段三句话的促销描述，包含价格标签，并使用极简、现代、优雅的字体，呈现出柔和、精致的视觉效果，而非生硬的风格。
+
+长宽比：{argument name="aspect ratio" default="4:5"}。
+
+[English]
+Create a promotional poster using the uploaded photo. Do not alter the product, logo, packaging, shape, texture, or colors in any way. Arrange the products on {argument name="pedestal style" default="minimalist white pedestals"} with a layered composition to create a more premium look and enhance visual depth. Adjust the camera angle to make the products appear more attractive, tempting, and appetizing.
+
+Include a header featuring the brand/store name, an automatically generated tagline, the product name, and a dedicated description for each product consisting of at least three sentences.
+
+Use a {argument name="background" default="pure white background"} with clean studio lighting and soft, natural shadows. Leave sufficient negative space to maintain an elegant and uncluttered layout. Add a three-sentence promotional description, include a price label, and use minimalist, modern, elegant typography with a soft, refined appearance rather than a rigid style.
+
+Aspect Ratio: {argument name="aspect ratio" default="4:5"}.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2079600835894661388) | 2026-07-21
+
+---
+
+### 🎴 例 4653：高端调味品罐产品摄影图
+
+![高端调味品罐产品摄影图](../images/%E9%AB%98%E7%AB%AF%E8%B0%83%E5%91%B3%E5%93%81%E7%BD%90%E4%BA%A7%E5%93%81%E6%91%84%E5%BD%B1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的高端商业产品广告图，主体为一个放置在乡村风格木桌中央的透明玻璃调味品罐，罐内装满了色彩鲜艳的碎辣椒、香草、辣椒片、黑胡椒粒、黄色种子和芳香香料。罐子配有光面黑色旋盖和带有金色边框的高级奶油色拱形标签；标签顶部印有“NATURAL BLEND”字样及一个小叶子标志，中间为优雅的大号手写体“Spice”和粗体“MIX”，下方依次为“PREMIUM QUALITY”、“100% NATURAL”、“NO PRESERVATIVES”和“Net Wt. 120g”，并装饰有小植物叶片、红浆果和红辣椒插图。使用温暖的电影感摄影棚灯光，浅景深效果，焦点清晰地对准罐身和标签，呈现浓郁的琥珀棕色调、逼真的玻璃反光以及高级食品摄影质感。在产品周围布置 8 组清晰可见的辅助道具：左后方背景中一个模糊的木制胡椒研磨器，左前方一个小木碗盛放着红色调味粉，该木碗后方一簇红辣椒，右后方背景中一个模糊的盛放新鲜绿罗勒的木碗，右侧一个完整的大蒜，右前方两瓣散落的大蒜，大蒜附近一小束百里香，以及右下角前景中一把盛有混合胡椒粒的木勺。在桌面上自然地散落一些混合胡椒粒、辣椒片、种子和一小枝罗勒。背景为深色乡村风格木板，带有柔和的虚化光斑（bokeh），画面中无人手、无人物、无额外品牌标识、无水印。自定义产品名称为 {argument name="product name" default="Spice Mix"}，标签标语为 {argument name="tagline" default="Natural Blend"}，品质说明为 {argument name="quality line" default="Premium Quality"}，重量文本为 {argument name="weight text" default="Net Wt. 120g"}，以及罐盖颜色为 {argument name="jar lid color" default="glossy black"}。
+
+[English]
+Create a photorealistic high-end commercial product advertisement for a transparent glass spice jar centered on a rustic wooden table, filled to the top with a vibrant multicolor blend of crushed peppers, herbs, chili flakes, black peppercorns, yellow seeds, and aromatic spices. The jar has a glossy black screw lid and a premium cream-colored arched label with gold trim; label text reads “NATURAL BLEND” at the top with a small leaf logo, large elegant script “Spice” and bold “MIX,” then “PREMIUM QUALITY,” “100% NATURAL,” “NO PRESERVATIVES,” and “Net Wt. 120g,” decorated with small botanical leaves, red berries, and a red chili illustration. Use warm moody studio lighting, shallow depth of field, sharp focus on the jar and label, rich amber-brown tones, realistic glass reflections, and a premium food-photography look. Surround the product with exactly 8 visible supporting prop groups: 1 wooden pepper mill blurred in the left background, 1 small wooden bowl of red ground spice in the left foreground, 1 cluster of red chili peppers behind that bowl, 1 wooden bowl of fresh green basil blurred in the right background, 1 whole garlic bulb on the right, 2 loose garlic cloves in the right foreground, 1 small bunch of thyme sprigs near the garlic, and 1 wooden spoon in the bottom-right foreground holding mixed peppercorns. Scatter mixed peppercorns, chili flakes, seeds, and a small basil sprig naturally across the table. Background is dark rustic wood planks, softly blurred with bokeh, no hands, no people, no extra brands, no watermark. Customize the product name as {argument name="product name" default="Spice Mix"}, label tagline as {argument name="tagline" default="Natural Blend"}, quality line as {argument name="quality line" default="Premium Quality"}, weight text as {argument name="weight text" default="Net Wt. 120g"}, and jar lid color as {argument name="jar lid color" default="glossy black"}.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2079593680839540831) | 2026-07-21
+
+---
+
+### 🎴 例 4655：高端太阳镜商业项目
+
+![高端太阳镜商业项目](../images/%E9%AB%98%E7%AB%AF%E5%A4%AA%E9%98%B3%E9%95%9C%E5%95%86%E4%B8%9A%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 16:9 横屏格式的专业电影级商业项目，设计风格类似于 {argument name="product name" default="LUMIS ECLIPSE ONE"} 高端太阳镜广告的专业分镜表。
+
+整体设计：
+超高端眼镜艺术指导，深邃的宇宙感
+
+[English]
+Create a professional cinematic commercial storyboard in 16:9 landscape format, designed like a premium shot list presentation for a {argument name="product name" default="LUMIS ECLIPSE ONE"} premium sunglasses product ad.
+
+Overall design:
+Ultra-premium eyewear art direction, deep cosmic
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2079586138130657751) | 2026-07-21
+
+---
+
+### 🎴 例 4664：电影感蓝色火焰肖像
+
+![电影感蓝色火焰肖像](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E8%93%9D%E8%89%B2%E7%81%AB%E7%84%B0%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个人站在黑色背景前。此人手持一份标有“{argument name="headline" default="LATEST NEWS"}”的报纸，报纸一角正在燃烧，伴有 {argument name="flame color" default="blue"} 色火焰和淡淡的烟雾轨迹。火焰应具有风格化且视觉冲击力强。人物身上的光影应呈现出电影般的忧郁感，主要由蓝色火焰提供光源，在面部和手上投射出蓝色的高光与阴影。主体应穿着 {argument name="clothing" default="黑色衬衫"} 并佩戴叠层银链，展现出大胆、现代的风格。当人物低头看着燃烧的报纸时，表情应显得严肃且沉思。整体氛围应紧张而神秘。请将面部替换为上传照片中的人物，并真实地匹配光影、肤色和透视效果。保持图像的高质量和写实感。
+
+[English]
+A person standing against a black background. The person is holding a newspaper labeled '{argument name="headline" default="LATEST NEWS"}', which is partially on fire at one corner, with {argument name="flame color" default="blue"} flames and a faint smoke trail. The fire should be stylized and visually striking. The lighting on the person should be moody and cinematic, primarily from the blue fire, casting blue highlights and shadows across the face and hands. The subject should wear a {argument name="clothing" default="black shirt"} and layered silver chains for a bold, modern look. The expression should be serious and contemplative as the person looks down at the burning newspaper. The atmosphere should be intense and mysterious. Replace the face with the person from the uploaded photo, matching the lighting, skin tone, and perspective realistically. Keep the image high quality and photorealistic.
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2079570345833758828) | 2026-07-21
+
+---
+
+### 🎴 例 4665：上海巨型字体旅游海报
+
+![上海巨型字体旅游海报](../images/%E4%B8%8A%E6%B5%B7%E5%B7%A8%E5%9E%8B%E5%AD%97%E4%BD%93%E6%97%85%E6%B8%B8%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="上海"} 创作一张竖版文化旅游海报，结合巨型字体、地标摄影和极简主义旅游海报美学。
+
+画布：高竖版海报，9:16 比例。温暖的米白色纸张背景，带有细微颗粒感和轻微的复古印刷质感，采用红、黑、奶油色高对比度配色。
+
+主体布局：在画面中央放置一个巨大的压缩粗体无衬线单词，内容为 {argument name="giant city text" default="SHANGHAI"}。字母必须为亮红色，极高且间距紧凑，并延伸至左右边缘，使部分字母被裁切。在红色单词前方居中放置一张东方明珠塔的黑白剪影，从下方天际线垂直耸立至接近顶部边缘，展现锐利的建筑细节和写实的照片拼贴质感。
+
+前景天际线：在底部创作一幅密集的黑白上海天际线拼贴画，包含 6 个清晰可见的地标/建筑元素：1) 作为中央主体的东方明珠塔，2) 左下方的历史钟楼建筑，3) 右中附近带有梯形顶部的上海环球金融中心，4) 其右侧呈螺旋状的上海中心大厦，5) 右下方的球形玻璃展馆/穹顶，以及 6) 构成连续基底的各式外滩低层建筑。在底部前景添加一条横跨画面的实心红色对角带，从左下向中右延伸，部分遮盖天际线。
+
+顶部文字：左上角为小型、字间距宽的红色大写文字“CITY / OF DREAMS”，分两行排列。右上角为对应的红色大写文字“FUTURE / METROPOLIS”，分两行排列。
+
+信息板块：在标题下方的左上侧，包含 3 行紧凑的旅游信息，配有红色图标、红色英文标签、较小的黑色中文文本及细分割线：1) 地图定位图标，标签“SHANGHAI”，文本“中国 · 上海”；2) 日历图标，标签“EST.1291”，文本“建城历史”；3) 经典地标图标，标签“LANDMARK”，文本“东方明珠塔”。
+
+风格：现代中国旅游海报，受瑞士网格设计影响，粗野主义巨型字体，黑白建筑摄影，简洁的留白，边缘清晰，类似孔版印刷的油墨颗粒感，高端旅游宣传设计。
+
+约束：仅使用红色、黑色、灰阶和暖奶油色。保持海报简洁。不要添加人物、汽车、Logo、二维码、水印或额外的段落文字。保留上述指定的精确英文和中文文本，除非通过城市名称槽位进行自定义。
+
+[English]
+Goal: Create a vertical cultural tourism poster for {argument name="city name" default="Shanghai"}, combining giant typography, landmark photography, and minimalist travel-poster aesthetics.
+
+Canvas: Tall vertical poster, 9:16 aspect ratio. Warm off-white paper background with subtle grain, slightly vintage print texture, high contrast red/black/cream palette.
+
+Main layout: Place one enormous condensed bold sans-serif word across the middle reading {argument name="giant city text" default="SHANGHAI"}. The letters must be bright red, extremely tall, tightly spaced, and extend beyond the left and right edges so parts are cropped. Center a black-and-white cutout of the Oriental Pearl Tower in front of the red word, towering vertically from the lower skyline to near the top edge, with sharp architectural detail and realistic photo-collage texture.
+
+Foreground skyline: Along the bottom, create a dense black-and-white Shanghai skyline collage with exactly 6 prominent visible landmark/building elements: 1) the Oriental Pearl Tower as the central dominant structure, 2) a historic clock-tower building at lower left, 3) the Shanghai World Financial Center with trapezoid top near right-center, 4) the Shanghai Tower as a twisting skyscraper to its right, 5) a spherical glass pavilion/dome at the lower right, and 6) assorted low-rise Bund waterfront buildings forming a continuous base. Add a sweeping solid red diagonal band across the bottom foreground, rising from lower left to mid-right, partially covering the skyline.
+
+Top text: In the upper left, small widely letter-spaced red uppercase text reads “CITY / OF DREAMS” on two lines. In the upper right, matching red uppercase text reads “FUTURE / METROPOLIS” on two lines.
+
+Information block: On the upper-left side beneath the title, include exactly 3 compact travel-info rows with red icons, red English labels, smaller black Chinese text, and thin divider lines: 1) map pin icon, label “SHANGHAI”, text “中国 · 上海”; 2) calendar icon, label “EST.1291”, text “建城历史”; 3) classical landmark icon, label “LANDMARK”, text “东方明珠塔”.
+
+Style: Modern Chinese travel poster, editorial Swiss-grid influence, brutalist giant typography, photographic monochrome architecture, clean negative space, crisp edges, risograph-like ink grain, premium tourism campaign design.
+
+Constraints: Use only red, black, grayscale, and warm cream. Keep the poster uncluttered. Do not add people, cars, logos, QR codes, watermarks, or extra paragraphs of text. Preserve the exact visible English and Chinese text specified above unless customized with the city-name slots.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079569497200144454) | 2026-07-21
+
+---
+
+### 🎴 例 4671：未来感 AI 峰会海报
+
+![未来感 AI 峰会海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%20AI%20%E5%B3%B0%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版未来感 AI 会议海报，主题为 {argument name="event name" default="2025 人工智能行业峰会 · 年度发布与交流"}，采用深色高科技视觉风格及醒目的中文字体设计。
+
+画布：竖版海报，3:4 比例，深海军蓝至黑色背景，居中构图，主标题周围留有充足的空白，具备印刷级清晰度。
+
+视觉风格：赛博科技会议美学，深黑蓝色背景，霓虹青色与橙色点缀，全息多边形网格，纤细电路线条，发光节点，对角线 HUD 界面碎片，锐利几何边框，高端企业峰会质感。使用强对比度、细微的色差故障边缘、发光的蓝/橙色高光，以及简洁的现代无衬线字体。
+
+布局：顶部居中放置一行英文标语“FUTURE / CONNECT / INTELLIGENCE”，其中 FUTURE 为浅青白色，CONNECT 为橙色，INTELLIGENCE 为蓝色，以斜杠分隔。中心位置放置巨大的主标题，分为两行：第一行 {argument name="main headline" default="智联未来"}，第二行 {argument name="subtitle headline" default="共创智能新纪元"}。标题应为粗体白色块状中文字符，带有轻微的青色和橙色偏移阴影、棱角切割及细微的故障笔触。下方放置一行小号字间距的白色中文活动名称。
+
+信息栏：在活动名称下方，横向均匀排列 3 个功能项，每项包含一个细线条菱形图标和两行中文文本。第 1 项：带字母“A”的图标，标签“前沿发布”，副标签“洞察技术趋势”。第 2 项：连接节点图标，标签“行业交流”，副标签“链接生态合作”。第 3 项：蓝色菱形/水晶图标，标签“共创未来”，副标签“赋能产业升级”。三个项目之间用细竖线分隔。
+
+底部详情：在底部中心添加三个短的青色/橙色斜杠，随后是地点 {argument name="location" default="中国 · 上海"}，下方以小号白色字体标注日期 {argument name="date" default="2025.06.20-06.21"}。
+
+背景元素：用对角线未来感电路轨迹和发光线段勾勒海报边缘。包含 4 个大型半透明低多边形水晶结构：左下角一个橙蓝色三角水晶，左下中心附近一个蓝色棱角水晶，右下角一个橙蓝色水晶，右上角一个较小的蓝色水晶。在角落处添加细点线、微小的橙色和青色粒子、镜头光晕及线框三角形，同时保持中心区域清晰易读。
+
+约束：严格保留指定的中文文本，避免添加额外的标志或赞助商信息，不包含人物、照片、水印、二维码，且不添加额外的段落文本。
+
+[English]
+Goal: Create a vertical futuristic AI conference poster for {argument name="event name" default="2025 人工智能行业峰会 · 年度发布与交流"}, with a dark high-tech visual identity and bold Chinese typography.
+
+Canvas: Portrait poster, 3:4 aspect ratio, dark navy to black background, centered composition, generous empty space around the main title, print-quality crispness.
+
+Visual style: Cyber technology conference aesthetic, deep black-blue background, neon cyan and orange accents, holographic polygon meshes, thin circuit lines, glowing nodes, diagonal HUD interface fragments, sharp geometric borders, premium enterprise summit look. Use strong contrast, subtle chromatic glitch edges, luminous blue/orange highlights, and clean modern sans-serif typography.
+
+Layout: At the top center place a small English slogan reading “FUTURE / CONNECT / INTELLIGENCE”, with FUTURE in light cyan-white, CONNECT in orange, INTELLIGENCE in blue, separated by slashes. In the center place the huge main headline in two stacked lines: first line {argument name="main headline" default="智联未来"}, second line {argument name="subtitle headline" default="共创智能新纪元"}. The headline should be bold white block Chinese characters with slight cyan and orange offset shadows, angular cuts, and subtle glitch strokes. Beneath it place the event name line in small spaced white Chinese text.
+
+Information row: Under the event name, create exactly 3 feature items, evenly spaced horizontally, each with a thin outlined diamond icon and two lines of Chinese text. Item 1: icon with letter “A”, label “前沿发布”, sublabel “洞察技术趋势”. Item 2: connected-nodes icon, label “行业交流”, sublabel “链接生态合作”. Item 3: blue diamond/crystal icon, label “共创未来”, sublabel “赋能产业升级”. Separate the three items with thin vertical dividers.
+
+Bottom details: At the lower center add three short cyan/orange slash marks, then the location {argument name="location" default="中国 · 上海"}, then the date {argument name="date" default="2025.06.20-06.21"} below it in small white text.
+
+Background elements: Frame the poster edges with diagonal futuristic circuit traces and glowing line segments. Include exactly 4 large translucent low-poly crystal structures: one orange-blue triangular crystal at bottom left, one blue angular crystal near lower left center, one orange-blue crystal at bottom right, and one smaller blue crystal in the upper right. Add fine dotted lines, tiny orange and cyan particles, lens glows, and wireframe triangles around the corners while keeping the center readable.
+
+Constraints: Preserve the Chinese text exactly where specified, avoid extra logos or sponsors, no people, no photos, no watermark, no QR code, no additional paragraphs of text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079554818985889947) | 2026-07-21
+
+---
+
+### 🎴 例 4681：颓废风相亲往事海报
+
+![颓废风相亲往事海报](../images/%E9%A2%93%E5%BA%9F%E9%A3%8E%E7%9B%B8%E4%BA%B2%E5%BE%80%E4%BA%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于过往相亲故事的竖版老式杂志叙事海报，采用粗粝的中国编辑类杂志风格，画面中仅出现一名年轻女性。
+
+画布：2:3 竖版海报，背景为泛黄的旧纸张，带有灰色污渍、黑色墨迹、撕纸边缘、复印颗粒感、粗糙的笔触、红色的做旧强调标记，以及略显凌乱的拼贴布局。
+
+主体细节：展示一名东亚年轻女性，拥有 {argument name="hair style" default="黑色长直发"}，皮肤白皙，妆容清淡，表情安静且疏离。她在每张照片中均穿着 {argument name="outfit" default="黑色露肩针织衫"}。确保她在所有画面中的面部特征保持一致。
+
+布局：使用 4 张黑白/棕褐色调的同一女性照片：1 张大型主肖像位于中上方偏右，她拿着手机，侧头看向一旁，表情冷淡克制；1 张小型照片位于左下角，她低头用吸管喝水；1 张小型倾斜照片位于中右侧，她托腮低头；1 张小型倾斜照片位于右下角附近，她看着手机，带着一丝克制的浅笑。照片应具有撕裂边缘、不规则裁剪、胶带粘贴的剪贴簿质感以及深色的颓废风格叠加效果。
+
+排版与文字：海报需文字密集，呈现出中国情感类杂志内页的质感。使用粗体中文标题排版，正文为黑色，重点内容使用深红色。在右侧放置一个巨大的竖排标题 {argument name="main title" default="相亲往事"}。旁边添加小型英文副标题：“PAST DATING STORIES”。在标题旁添加两行细长的竖排中文侧注：“有些人错过了是遗憾”和“有些人没开始反而是幸运”。在左侧和下部中心，排列多段紧凑的中文叙事段落，如同自传体相亲散文。在右下角附近包含一段醒目的粗体引语 {argument name="pull quote" default="感情里最累的，不是明确的拒绝，而是她冷着你，却有人一直让你再主动一点。"}。在左侧包含另一段粗体段落，最后一行用红色标注 {argument name="left emphasis text" default="后来聊天不冷不热，约她出来也总说忙，我慢慢觉得不合适，就不再主动联系了。"}。在下部中间添加一个黑色矩形说明框，内含白色中文文字，下方配有一句红色引用句 {argument name="accusation quote" default="你是不是在亲相亲没人要，没人相中你，所以又来找我聊？"}。
+
+视觉风格：忧郁、怀旧、都市、情感克制，如同 20 世纪 90 年代的做旧杂志页面与现代社交媒体叙事的结合。高对比度的单色肖像、暗红色墨迹、粗糙的半色调纹理、撕裂拼贴、不完美的对齐以及磨损的印刷纸张颗粒感。
+
+约束条件：仅使用同一名女性，画面中不得出现其他人。保持 4 张照片面板。整体构图需密集但具备可读性。不得添加任何 Logo、水印、二维码或额外的装饰性字符。
+
+[English]
+Goal: Create a vertical old-magazine narrative poster about a past blind-date relationship story, in a gritty Chinese editorial zine style, using one young woman as the only person shown.
+
+Canvas: Portrait 2:3 poster, aged off-white paper background with gray stains, black ink smears, torn-paper edges, photocopy grain, rough brush textures, red distressed accent marks, and a slightly messy collage layout.
+
+Subject details: Show one East Asian young woman with {argument name="hair style" default="long straight black hair"}, pale skin, soft makeup, and a quiet distant expression. She wears {argument name="outfit" default="a black off-shoulder knit top"} in every photo. Keep her face consistent across all appearances.
+
+Layout: Use exactly 4 black-and-white/sepia-tinted photo panels of the same woman: 1 large main portrait near the upper center-right where she holds a phone and looks sideways with a cold, reserved expression; 1 small photo at bottom-left where she drinks through a straw while looking down; 1 small tilted photo at mid-right where she rests her chin on her hand and looks down; 1 small tilted photo near the bottom-right where she looks at a phone with a faint restrained smile. Photos should have torn borders, uneven crop edges, taped scrapbook placement, and dark grunge overlays.
+
+Typography and text: Make the poster text-heavy like a Chinese emotional magazine spread. Use bold Chinese headline typography with black body copy and deep red emphasis. Place a huge vertical title on the right reading {argument name="main title" default="相亲往事"}. Add small English subtitle beside it: “PAST DATING STORIES”. Add two slim vertical Chinese side notes near the title: “有些人错过了是遗憾” and “有些人没开始反而是幸运”. On the left and lower center, arrange multiple Chinese story paragraphs in compact columns, resembling an autobiographical dating essay. Include one large bold pull quote near the lower right reading {argument name="pull quote" default="感情里最累的，不是明确的拒绝，而是她冷着你，却有人一直让你再主动一点。"}. Include another bold paragraph on the left with red final line reading {argument name="left emphasis text" default="后来聊天不冷不热，约她出来也总说忙，我慢慢觉得不合适，就不再主动联系了。"}. Add a black rectangular caption block near the lower middle with white Chinese text, plus a red quoted sentence below it reading {argument name="accusation quote" default="你是不是在亲相亲没人要，没人相中你，所以又来找我聊？"}.
+
+Visual style: Melancholy, nostalgic, urban, emotionally restrained, like a 1990s distressed magazine page mixed with modern social-media storytelling. High contrast monochrome portraits, muted red ink, rough halftone texture, torn collage, imperfect alignment, and worn printed-paper grain.
+
+Constraints: Use only the same woman, no other people. Keep exactly 4 photo panels. Keep the overall composition dense but readable. Do not add logos, watermarks, QR codes, or extra decorative characters.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2079523830968807621) | 2026-07-21
+
+---
+
+### 🎴 例 4690：奢华商业海报模板
+
+![奢华商业海报模板](../images/%E5%A5%A2%E5%8D%8E%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[通用高端奢华商业海报提示词]
+
+创作一张高端奢华商业广告海报，将 {argument name="subject" default="[主体]"} 置于画面中心，正对镜头，呈现完美对称。主体以 [自然接触点] 轻柔持握 {argument name="product" default="[产品]"}，且不造成任何损坏或变形。其表情传达出 [情感/氛围] —— 象征着自信、力量、优雅与满足感。
+
+背景采用柔和的 {argument name="primary color" default="[主色调]"} 渐变摄影棚背景，留有充足的负空间，营造出精致的极简奢华美学。场景采用柔和的漫射电影级摄影棚灯光照明，呈现逼真的高光、自然阴影、微妙的轮廓光以及产品表面高级的反射效果。保留主体超精细的写实纹理，包括真实的表面细节、自然的解剖结构以及高度精确的材质渲染。
+
+产品应显得高端并自然地融入构图，同时保持清晰可见且比例真实。根据产品设计，展现真实的金属、玻璃、哑光或亮面材质属性。
+
+采用现代杂志排版设计。在主体后方放置醒目的大写标题，使用低透明度的粗体压缩无衬线字体，在不干扰构图的前提下营造深度感。在主体前方放置简洁纤细的无衬线产品名称，下方配以小字副标题。整个设计需保持完美的对齐、平衡的间距、优雅的层级以及高端奢华的品牌感。
+
+配色方案：[主色调]、[辅助色] 以及微妙的 [点缀色]，在衬托主体与产品的同时，保持精致的奢华外观。
+
+构图：
+- 完美居中对齐
+- 正面对称构图
+- 充足的负空间
+- 极简奢华广告设计
+- 杂志商业摄影风格
+- 自然的深度与高级的视觉平衡
+- 产品与主体和谐融合
+- 高端奢华广告大片美学
+
+渲染质量：
+- 超写实商业摄影
+- 电影级摄影棚灯光
+- 高端奢华品牌感
+- 屡获殊荣的创意指导
+- 超精细纹理与材质
+- 照片级渲染
+- 8K 分辨率
+- HDR 画质
+- 专业广告大片视觉效果
+- 杂志封面级构图
+- 奢华产品摄影标准
+- 清晰对焦与真实的景深效果
+
+[English]
+[UNIVERSAL PREMIUM LUXURY COMMERCIAL POSTER PROMPT]
+
+Create a premium luxury commercial advertising poster featuring {argument name="subject" default="[SUBJECT]"} centered in the frame, facing directly toward the camera with perfect symmetry. The subject gently holds {argument name="product" default="[PRODUCT]"} between its [NATURAL CONTACT POINT] without damaging or deforming it. Its expression conveys [EMOTION/MOOD]—symbolizing confidence, strength, elegance, and satisfaction.
+
+Use a soft {argument name="primary color" default="[PRIMARY COLOR]"} gradient studio background with abundant negative space, creating a sophisticated minimalist luxury aesthetic. Illuminate the scene using soft diffused cinematic studio lighting with realistic highlights, natural shadows, subtle rim lighting, and premium reflections on the product surface. Preserve ultra-detailed photorealistic textures of the subject, including realistic surface details, natural anatomy, and highly accurate material rendering.
+
+The product should appear premium and naturally integrated into the composition while remaining clearly visible and realistically proportioned. Showcase realistic metallic, glass, matte, or glossy material properties depending on the product design.
+
+Design the layout with modern editorial typography. Place a large uppercase headline behind the subject using a bold condensed sans-serif font with low opacity, creating depth without distracting from the composition. Add a clean thin sans-serif product title positioned in front of the subject with a small subtitle beneath it. Maintain perfect alignment, balanced spacing, elegant hierarchy, and premium luxury branding throughout the design.
+
+Color palette: [PRIMARY COLORS], [SECONDARY COLORS], and subtle [ACCENT COLORS] that complement both the subject and the product while maintaining a refined luxury appearance.
+
+Composition:
+- Perfect center alignment
+- Front-facing symmetrical composition
+- Generous negative space
+- Minimalist luxury advertising design
+- Editorial commercial photography styling
+- Natural depth and premium visual balance
+- Product and subject harmoniously integrated
+- High-end luxury campaign aesthetics
+
+Rendering Quality:
+- Hyper-realistic commercial photography
+- Cinematic studio lighting
+- Premium luxury branding
+- Award-winning creative direction
+- Ultra-detailed textures and materials
+- Photorealistic rendering
+- 8K resolution
+- HDR quality
+- Professional advertising campaign visuals
+- Magazine-cover-level composition
+- Luxury product photography standards
+- Sharp focus with realistic optical depth
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2079490788795531724) | 2026-07-21
+
+---
+

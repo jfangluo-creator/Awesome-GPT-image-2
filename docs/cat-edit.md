@@ -3109,3 +3109,39 @@ Using the provided reference image as the base background, extend it into a wide
 
 ---
 
+### 🔧 例 4703：手绘黑色记号笔涂鸦
+
+![手绘黑色记号笔涂鸦](../images/%E6%89%8B%E7%BB%98%E9%BB%91%E8%89%B2%E8%AE%B0%E5%8F%B7%E7%AC%94%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请根据附图绘制一个简单的手绘涂鸦，就像是用 {argument name="tool" default="黑色记号笔"} 亲手勾勒的一样。使用自然的记号笔笔触、略显不稳的轮廓、细腻的手绘瑕疵以及微开的线条末端，营造出一种温暖的编辑风格涂鸦美感。避免使用干净的矢量图形和过于精致的数字效果。保持插图简约、通透、扁平且低调。仅使用 {argument name="accent color" default="天蓝色"} 作为点缀色。
+
+[English]
+Draw a simple hand-drawn doodle of the attached photo, as if it were sketched by a person using a {argument name="tool" default="black marker"}. Use natural marker strokes, slightly wobbly outlines, subtle hand-drawn imperfections, slightly open line endings, and create a warm editorial doodle aesthetic. Avoid clean vector-style graphics and overly polished digital perfection. Keep the illustration simple, airy, flat, and understated. Use {argument name="accent color" default="sky blue"} only as an accent color.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2079424939321700663) | 2026-07-21
+
+---
+
+### 🔧 例 4715：手绘黑色马克笔涂鸦
+
+![手绘黑色马克笔涂鸦](../images/%E6%89%8B%E7%BB%98%E9%BB%91%E8%89%B2%E9%A9%AC%E5%85%8B%E7%AC%94%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的照片创作出一幅简单的手绘涂鸦插画，仿佛是由人使用 {argument name="drawing tool" default="黑色马克笔"} 绘制而成。使用自然的马克笔笔触，带有轻微的 {argument name="line style" default="抖动线条"}、微妙的手绘瑕疵、略微开放的轮廓，以及温暖的编辑涂鸦美学。避免使用干净的矢量图形和过度润色的数字完美感。保持插画简洁、通透、扁平且低调。仅将 {argument name="accent color" default="天蓝色"} 用作点缀色。
+
+[English]
+Create a simple hand-drawn doodle illustration of the uploaded photo, as if it were sketched by a person using a {argument name="drawing tool" default="black marker"}. Use natural marker strokes with slightly {argument name="line style" default="wobbly lines"}, subtle hand-drawn imperfections, slightly open contours, and a warm editorial doodle aesthetic. Avoid clean vector graphics and overly polished digital perfection. Keep the illustration simple, airy, flat, and understated. Use {argument name="accent color" default="sky blue"} only as an accent color.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2079395200678727794) | 2026-07-21
+
+---
+

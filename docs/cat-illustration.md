@@ -9044,3 +9044,85 @@ Create a highly detailed fantasy illustration of a miniature enchanted world sea
 
 ---
 
+### 🎨 例 4637：雪林中倒下的狼
+
+![雪林中倒下的狼](../images/%E9%9B%AA%E6%9E%97%E4%B8%AD%E5%80%92%E4%B8%8B%E7%9A%84%E7%8B%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个电影级写实的宽屏场景，背景是黄昏时分寒冷的蓝色冬季森林：前景中，恰好 1 只大型 {argument name="animal" default="灰狼"} 侧卧在地面上，位置偏低且略微靠左，半埋在松软的积雪中。狼拥有浓密的灰色、黑色和棕褐色皮毛，耳朵尖耸，浅色的眼睛微微睁开，头部枕在雪地上，嘴巴微张，露出几颗牙齿，前爪蜷缩在吻部附近，后腿向右伸展。周围是宁静的积雪针叶林，高大的深色松树干向背景延伸，树枝上覆盖着积雪，低矮的灌木丛挂着霜，动物身后有一条隐约的雪径或开阔的空地。采用忧郁的 {argument name="color grade" default="冰蓝色"} 色调，柔和的漫射阴天光线，树木间朦胧的大气深度，浅景深的电影对比度，逼真的皮毛质感，雪地上自然的爪印，以及沉重的生存剧情基调。构图为 16:9 的电影剧照，地平线较高，前景的积雪占据下半部分，无人物，无建筑物，无文字，无水印。
+
+[English]
+Create a cinematic photorealistic widescreen scene in a cold blue winter forest at dusk: exactly 1 large {argument name="animal" default="gray wolf"} lies motionless on its side in the foreground, positioned low and slightly left of center, half-buried in soft snow. The wolf has thick gray, black, and tan fur, pointed ears, pale eyes barely open, its head resting on the snow with its mouth slightly open and a few teeth visible, front paws curled near its muzzle and hind legs stretched back to the right. The surrounding landscape is a quiet snow-covered conifer forest with tall dark pine trunks receding into the background, snow-laden branches, low bushes coated in frost, and a faint snowy trail or open clearing behind the animal. Use a moody {argument name="color grade" default="icy blue"} color palette, soft diffuse overcast light, misty atmospheric depth between the trees, shallow cinematic contrast, realistic fur texture, natural paw impressions in the snow, and a somber survival-drama tone. Frame as a 16:9 film still with the horizon high, the foreground snow occupying the lower half, no people, no buildings, no text, no watermark.
+```
+
+**来源：** [@MayorkingAI](https://x.com/MayorKingAI/status/2079653032649007323) | 2026-07-21
+
+---
+
+### 🎨 例 4673：水族馆森林中的小女孩
+
+![水族馆森林中的小女孩](../images/%E6%B0%B4%E6%97%8F%E9%A6%86%E6%A3%AE%E6%9E%97%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+水槽の森を探検する、{argument name="キャラクター" default="こびとの女の子"}。手には{argument name="アイテム" default="発光するシーグラスのランタン"}を持ってるよ
+```
+
+**来源：** [@李恭](https://x.com/rikyo_ai/status/2079545143787684023) | 2026-07-21
+
+---
+
+### 🎨 例 4678：高端工业产品设计生成器
+
+![高端工业产品设计生成器](../images/%E9%AB%98%E7%AB%AF%E5%B7%A5%E4%B8%9A%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一个受 {argument name="inspiration" default="[THING]"} 启发的 {argument name="product" default="[PRODUCT]"}。规则：- 不要仅仅用主题装饰产品 - 从 {argument name="inspiration" default="[THING]"} 中推断出 DESIGN_DNA - 保留 {argument name="product" default="[PRODUCT]"} 的 FUNCTIONAL_CORE - 将 THING 的视觉识别转化为产品的工业设计语言 - 最终物体必须感觉像是一个可信的高端现实世界产品，而不是新奇的道具 - 自动推断 MATERIAL_SYSTEM、SIGNATURE_FEATURES 和 CONTROL_LANGUAGE - 将 PRODUCT 组件映射为受 THING 启发的函数式形态 - 整合源自 {argument name="inspiration" default="[THING]"} 的微妙品牌标识或符号暗示 - 将产品置于一个能增强其奢华感和可用性的推断或指定 ENVIRONMENT 中 - 除非另有提供，否则不得硬编码材质、特征、控件、徽标、颜色或部件
+
+[English]
+Generate a {argument name="product" default="[PRODUCT]"} inspired by {argument name="inspiration" default="[THING]"}. Rules: - do not merely decorate the product with the subject - infer DESIGN_DNA from {argument name="inspiration" default="[THING]"} - preserve FUNCTIONAL_CORE of {argument name="product" default="[PRODUCT]"} - translate THING’s visual identity into the industrial design language of the product - the final object must feel like a believable premium real-world product, not a novelty prop - infer MATERIAL_SYSTEM, SIGNATURE_FEATURES, and CONTROL_LANGUAGE automatically - map PRODUCT components into THING-inspired functional forms - integrate subtle branding or symbolic cues derived from {argument name="inspiration" default="[THING]"} - place the product in an inferred or specified ENVIRONMENT that enhances its luxury and usability - no hard-coded materials, features, controls, logos, colors, or parts unless supplied
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2079537876837245221) | 2026-07-21
+
+---
+
+### 🎨 例 4686：柔和色调猫耳夏季偶像舞台
+
+![柔和色调猫耳夏季偶像舞台](../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E7%8C%AB%E8%80%B3%E5%A4%8F%E5%AD%A3%E5%81%B6%E5%83%8F%E8%88%9E%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张明亮的柔和色调动漫偶像插画，主角是 {argument name="character name" default="Tama"}，一位在夏季庆典舞台上表演的活泼猫耳少女。她留着短波波头，发色为 {argument name="hair color" default="天蓝色"}，配有齐刘海、蓝色眼睛、蓝白相间的猫耳，以及一侧带有流苏的粉色花朵发饰。画面展示她从大腿中部以上的半身像，她正眨着眼露出开心的笑容，佩戴黑色头戴式麦克风，一只手举向猫耳做出姿势，另一只手臂向外伸展。她身穿可爱的夏季偶像水手服：粉色格纹短袖衬衫配白色水手领、黄色领带、小胸袋和微型徽章，以及带有白色蕾丝边的粉色格纹百褶裙，颈部佩戴饰有小粉花的水手结，腰间系着装饰有蓝色饰边、黄色蝴蝶结和橙色花朵图案的白色腰包。在她身后，包含一个巨大的垂直舞台屏幕，屏幕上显示着姿势相似、同样在眨眼的她，并带有深蓝色边框。添加三个清晰可见的舞台灯光架：一个在左侧边缘，一个在右上角附近，另一个在最右侧部分可见。添加充满节日气息的夏季集市背景细节，包括柔和的树木、蓝天、蓬松的云朵、柔和色调的彩旗、五彩纸屑以及淡淡的可爱吉祥物图案。在左侧放置一个活泼的标志，文字为 {argument name="logo text" default="owa days"}，并附带一个爪印图标。采用简洁的 gpt-image-2 动漫风格，使用细蓝色线条、柔和的赛璐珞阴影、轻盈的高调照明、柔和的青色、粉色、黄色和白色调，呈现充满活力的偶像演唱会构图，采用轻微的低角度视角，角色焦点清晰，无写实元素，无额外角色，无水印。
+
+[English]
+Create a bright pastel anime idol illustration of {argument name="character name" default="Tama"}, a cheerful cat-eared girl performing at a summer festival stage. She has short bobbed {argument name="hair color" default="sky blue"} hair with straight bangs, blue eyes, white-and-blue cat ears, and a pink floral ribbon hair ornament with dangling tassels on one side. Show her in the foreground from mid-thigh up, winking with an open happy smile, wearing a black headset microphone, one hand raised to her cat ear as if posing, the other arm extended outward. Her outfit is a cute summer idol sailor uniform: pink plaid short-sleeve blouse with white sailor collar, yellow necktie, small chest pocket and tiny badges, a pink plaid pleated skirt with white lace trim, choker with a small pink flower, and a white waist pouch decorated with blue trim, a yellow bow, and orange flower motifs. Behind her, include exactly one large vertical stage screen showing the same character in a similar winking pose, framed by a dark blue border. Add exactly three visible stage light rigs: one on the left edge, one near the upper right, and one partly visible at the far right. Add festive summer-fair background details with soft trees, blue sky, fluffy clouds, pastel bunting, confetti, and faint cute mascot graphics. Place a bubbly logo on the left reading {argument name="logo text" default="owa days"} with a paw-print icon. Use a clean gpt-image-2 anime style with thin blue line art, soft cel shading, airy high-key lighting, pastel cyan, pink, yellow, and white palette, energetic idol concert composition, slight low-angle perspective, crisp character focus, no realism, no extra characters, no watermark.
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2079503612125040773) | 2026-07-21
+
+---
+
+### 🎨 例 4700：： 以上传人物照片作为唯一身份与面部参考，生成一组真实自然的陶艺体验生活照。成年女性，长黑发
+
+![： 以上传人物照片作为唯一身份与面部参考，生成一组真实自然的陶艺体验生活照。成年女性，长黑发](../images/%EF%BC%9A%20%E4%BB%A5%E4%B8%8A%E4%BC%A0%E4%BA%BA%E7%89%A9%E7%85%A7%E7%89%87%E4%BD%9C%E4%B8%BA%E5%94%AF%E4%B8%80%E8%BA%AB%E4%BB%BD%E4%B8%8E%E9%9D%A2%E9%83%A8%E5%8F%82%E8%80%83%EF%BC%8C%E7%94%9F%E6%88%90%E4%B8%80%E7%BB%84%E7%9C%9F%E5%AE%9E%E8%87%AA%E7%84%B6%E7%9A%84%E9%99%B6%E8%89%BA%E4%BD%93%E9%AA%8C%E7%94%9F%E6%B4%BB%E7%85%A7%E3%80%82%E6%88%90%E5%B9%B4%E5%A5%B3%E6%80%A7%EF%BC%8C%E9%95%BF%E9%BB%91%E5%8F%91.jpg)
+
+**Prompt:**
+
+```text
+以上传人物照片作为唯一身份与面部参考，生成一组真实自然的陶艺体验生活照。成年女性，长黑发，轻薄空气刘海，部分头发松散垂落在脸侧，发型在低盘发、侧边麻花辫和自然披发之间变化。五官精致柔和，真实皮肤纹理，淡妆，微微粉色腮红，自然水润唇色，眼神温柔清澈，带一点恋爱感的浅笑。
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2079437549483729214) | 2026-07-21
+
+---
+

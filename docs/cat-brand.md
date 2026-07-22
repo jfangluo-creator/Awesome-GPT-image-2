@@ -11404,3 +11404,259 @@ A candid overhead sports celebration photograph of a young {argument name="subje
 
 ---
 
+### 🏷️ 例 4629：角色提示词： 创建一个高端、现代的高级时
+
+![角色提示词： 创建一个高端、现代的高级时](../images/%E8%A7%92%E8%89%B2%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E7%AB%AF%E3%80%81%E7%8E%B0%E4%BB%A3%E7%9A%84%E9%AB%98%E7%BA%A7%E6%97%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高端、现代的高级时装角色概念艺术，背景为纯白色，并遵循以下视觉美学：
+
+[风格]：高度精致的 2.5D 赛璐珞数字动画风格，特征为统一的细黑色墨水轮廓，完全平坦
+
+[English]
+Create a premium, modern high-fashion CHARACTER CONCEPT ART on a pure white background, following this exact visual aesthetic:
+
+[STYLE]: highly polished 2.5D cel-shaded digital animation style, characterized by uniform thin black ink outlines, completely flat
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2079711598655197348) | 2026-07-21
+
+---
+
+### 🏷️ 例 4659：个人品牌吉祥物头像
+
+![个人品牌吉祥物头像](../images/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E5%90%89%E7%A5%A5%E7%89%A9%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个简洁、令人印象深刻的个人品牌吉祥物/头像插图，内容为 {argument name="character description" default="一位年轻的黑人男性，拥有温暖的中棕色皮肤，留着整洁渐变短发，椭圆形脸庞，深棕色杏仁眼，浓眉，宽鼻，丰满的嘴唇，带着自信而平静的微笑"}。展示一个居中的半身像，正面朝向，面部比例对称，具有可辨识的肖像特征。采用精致的矢量吉祥物风格，配以平滑的赛璐珞阴影、清晰的黑色线条、额头、鼻子、脸颊和嘴唇上的光泽高光，以及温暖的橙棕色皮肤阴影。角色穿着 {argument name="shirt color" default="一件深炭灰色圆领 T 恤"}。将半身像置于纯黑色背景上，不含任何文字、标志或多余物体。在整个轮廓周围添加粗体贴纸风格的描边：一个厚实的黑色外轮廓，加上一个沿着头部、耳朵、颈部、肩部和衬衫形状的鲜艳 {argument name="accent outline color" default="洋红色-紫色"} 发光/轮廓线。构图应为正方形，像社交媒体头像一样紧凑裁剪，居中，高对比度，具备专业的电子竞技/品牌吉祥物质量，边缘清晰，背景简洁，且非写实风格。
+
+[English]
+Create a clean, memorable personal brand mascot/avatar illustration of {argument name="character description" default="a young Black man with warm medium-brown skin, short tightly curled black hair in a neat fade, oval face, dark brown almond eyes, thick eyebrows, broad nose, full lips, and a calm confident slight smile"}. Show a centered head-and-shoulders bust facing directly forward, with symmetrical facial proportions and recognizable portrait-like features. Use a polished vector mascot style with smooth cel shading, crisp black line art, glossy highlights on the forehead, nose, cheeks, and lips, and warm orange-brown skin shadows. The character wears {argument name="shirt color" default="a dark charcoal crew-neck T-shirt"}. Place the bust on a pure black background with no text, no logo, and no extra objects. Add a bold sticker-like outline around the entire silhouette: a thick black outer contour plus a vivid {argument name="accent outline color" default="magenta-purple"} glow/outline following the head, ears, neck, shoulders, and shirt shape. Composition should be square, tightly cropped like a social media avatar, centered, high contrast, professional esports/brand-mascot quality, clean edges, minimal background, and no photorealism.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2079577700486840390) | 2026-07-21
+
+---
+
+### 🏷️ 例 4660：都市冬季沙发时尚大片
+
+![都市冬季沙发时尚大片](../images/%E9%83%BD%E5%B8%82%E5%86%AC%E5%AD%A3%E6%B2%99%E5%8F%91%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影感时尚大片，场景设定在黄昏时分寒冷的城市街道：一位年轻女性（{argument name="hair color" default="深发根长波浪金发"}）蜷缩坐在一张放置在潮湿城市道路中央的破旧橄榄棕色复古沙发上。她身穿一件超大款 {argument name="coat style" default="奶油色人造皮草大衣"}，搭配黑色渔网袜和厚底黑色系带马丁靴；她双腿交叉，双臂抱紧身体，眼神忧郁且略带挑衅地凝视着镜头。沙发上清晰可见四个靠垫：一个长靠背垫、一个大坐垫和两个松散的侧枕，布料上有潮湿的污渍和磨损痕迹。场景周围环绕着粗犷的市中心建筑：两侧是高大的砖石建筑，右侧有拱形窗户，左侧路边停放着汽车，沙发后方正好有两个深色的邮箱/垃圾桶，远处左中方有一辆黄色校车，人行道和路缘边堆积着少量融化的积雪。街道表面应湿润且具有反射感，散布着泥泞，色调为柔和的冬季色彩，营造出冷峻的蓝灰色氛围。采用浅景深效果，使模特和沙发保持清晰，背景柔焦处理，广角街道视角，低机位拍摄，呈现真实的胶片颗粒感，左上角有细微的镜头光晕或路灯辉光，带有轻微的模拟划痕，高端时尚摄影风格，自然阴天黄昏光线，戏剧性对比度，无文字，无水印。
+
+[English]
+Create a cinematic fashion editorial photograph in a cold urban street at dusk: a young adult woman with {argument name="hair color" default="long wavy blonde hair with darker roots"} sits curled on a worn olive-tan vintage sofa placed directly in the middle of a wet city road. She wears an oversized {argument name="coat style" default="cream faux-fur coat"}, black fishnet tights, and chunky black lace-up combat boots; her legs are crossed, arms folded close to her body, and she stares intensely into the camera with a moody, slightly defiant expression. The sofa has exactly four visible cushions: one long back cushion, one large seat cushion, and two loose side pillows, with damp stains and scuffed fabric. Surround the scene with gritty downtown architecture: tall brick and stone buildings on both sides, arched windows on the right, parked cars along the curb on the left, exactly two dark mailboxes/trash receptacles behind the sofa, one yellow school bus in the distant center-left, and small piles of melting snow along the sidewalks and curb. The street surface should be wet and reflective, with scattered slush, muted winter colors, and a cold blue-gray atmosphere. Use shallow depth of field with the model and sofa sharp, background softly blurred, wide-angle street perspective, low eye-level camera, realistic film grain, subtle lens flare or blown streetlight glow in the upper left, slight analog scratches, high-end fashion photography styling, natural overcast dusk light, dramatic contrast, no text, no watermark.
+```
+
+**来源：** [@Kyohei Fukuda](https://x.com/not_fukuda/status/2079577114656072012) | 2026-07-21
+
+---
+
+### 🏷️ 例 4674：猫耳和服少女
+
+![猫耳和服少女](../images/%E7%8C%AB%E8%80%B3%E5%92%8C%E6%9C%8D%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的动漫插画，画中有一位名为 {argument name="character name" default="Miu"} 的猫耳少女，她以优雅的侧卧姿势趴在地上，单手托腮，用明亮的 {argument name="eye color" default="青蓝色"} 双眼温柔地注视着观众。她拥有极长的飘逸 {argument name="hair color" default="银白色"} 秀发，发丝散落在地板上，留着直刘海，头顶一对硕大蓬松的白猫耳，佩戴一个金心酒红色花朵发饰、一枚小型酒红色 X 形发夹、小巧耳环以及配套的花朵颈圈。为她穿上一件华丽的 {argument name="kimono color" default="深酒红色"} 哥特洛丽塔风格和服，配有宽袖、精致的白色花卉刺绣、蕾丝花边、层叠的荷叶边裙摆、背后的图案蝴蝶结、黑色内领细节以及精致的半透明蕾丝装饰。展示她弯曲向上抬起的裸露双腿，右上方可见双脚。背景为淡雅的日式花卉装饰，点缀着樱花枝、散落的花瓣与花朵、酒红色新月图案、淡淡的格纹质感、精致纤细的矩形蕾丝边框，以及倒映着袖子、头发和花朵的亮面反射地板。采用酒红、白、淡粉和灰色的柔和色调，线条干净利落，高光通透，阴影细腻，呈现出优雅梦幻的 AI 动漫艺术风格。画面中必须包含以下重复元素：一名少女、两只猫耳、两只抬起的裸足、头部/颈部区域的三个主要酒红色配饰、一个新月符号、多枝樱花及散落的花瓣。在右下角添加一个手写签名 {argument name="signature text" default="ausa days"}，并附带一个小小的爪印。画面中不应出现多余角色、现代物品，除小签名外不得有任何水印。
+
+[English]
+Create a highly detailed anime illustration of one cat-eared girl named {argument name="character name" default="Miu"} lying on her stomach in a graceful side pose, propping her chin on one hand and gazing softly toward the viewer with bright {argument name="eye color" default="cyan blue"} eyes. She has very long flowing {argument name="hair color" default="silver white"} hair with curled strands spread across the floor, straight bangs, two large fluffy white cat ears, one burgundy flower hair ornament with a gold center, one small burgundy X-shaped hairpin, small earrings, and one matching flower choker. Dress her in an ornate {argument name="kimono color" default="deep burgundy"} gothic-lolita kimono dress with wide sleeves, intricate white floral embroidery, lace trim, layered ruffled skirt, patterned bow at the back, black inner collar details, and delicate translucent lace accents. Show her bare legs bent upward behind her, with both feet visible near the upper right. The setting is a pale decorative Japanese floral backdrop with cherry blossom branches, scattered white petals and flowers, a burgundy crescent moon motif, faint checkered texture, an ornate thin lace-like rectangular border, and a glossy reflective floor that mirrors her sleeve, hair, and blossoms. Use a soft pastel palette of burgundy, white, pale pink, and gray, with clean polished line art, luminous highlights, delicate shading, and an elegant dreamy AI-anime art style. Include exactly these visible repeated elements: one girl, two cat ears, two raised bare feet, three main burgundy accessories on her head/neck area, one crescent moon symbol, many cherry blossom branches and scattered petals. Add a small handwritten signature reading {argument name="signature text" default="ausa days"} with a tiny paw mark in the bottom right corner. No extra characters, no modern objects, no watermark besides the small signature.
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2079544934663934085) | 2026-07-21
+
+---
+
+### 🏷️ 例 4676：结构化产品包装概念
+
+![结构化产品包装概念](../images/%E7%BB%93%E6%9E%84%E5%8C%96%E4%BA%A7%E5%93%81%E5%8C%85%E8%A3%85%E6%A6%82%E5%BF%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高质量的专业产品摄影作品，展示了 {argument name="item name" default="[Item Name]"} 的创意结构化包装设计。包装采用优质瓦楞纸板制成，精巧地制作成巨大的风格化 {argument name="shape" default="球形"} [Item Name] 的形状。外表面印有充满活力且精致的极简主义 {argument name="pattern" default="几何六边形"} 图案，模仿了 [Item] 的自然纹理/表面，并采用了 [Color 1] 和 [Color 2] 的双色调配色。设计巧妙的模切窗口展示了内部存储的 [Actual Product Inside]。每个模切窗口背面均密封有一层薄薄的透明可生物降解保护膜，确保内容物安全封闭，防止掉落。侧面印有极简现代字体，写着 "[NAME]"。包含环保细节，如印有小型回收标志。柔和的摄影棚灯光，带有轻柔的阴影，置于干净的纯色柔和 [Background Color — a light tint related to the item itself] 背景上。8k 分辨率，照片级真实感，电影级构图，工业设计美学。
+
+[English]
+A high-quality professional product photography of a creative structural packaging design for {argument name="product name" default="[Item Name]"}. The packaging is made of premium corrugated cardboard, intricately crafted into the literal shape of a giant stylized {argument name="package shape" default="[Shape e.g. spherical, curved, elongated, disc-shaped]"} [Item Name].
+The exterior surface features a vibrant and sophisticated printed pattern of minimalist {argument name="pattern" default="[Pattern Description e.g. geometric hexagons, organic wavy lines]"}, mimicking the Natural Skin/Surface of the [Item] in a duo-tone palette of [Color 1] and [Color 2].
+Features clever die-cut windows that reveal the actual [Actual Product Inside] stored inside. Each die-cut window is sealed from behind with a thin transparent biodegradable protective film that keeps the contents securely enclosed and prevents them from falling out. Minimalist modern typography on the side saying "[NAME]". Includes eco-friendly details like a small printed recycling logo.
+Includes a 3D corrugated cardboard [Stem / green Leaf / Crown] detail on top.
+Soft studio lighting with gentle shadows, placed on a clean solid pastel [Background Color] background. 8k resolution, photorealistic, cinematic composition, industrial design aesthetic.
+```
+
+**来源：** [@ΛRMIN](https://x.com/Arminn_Ai/status/2079540998720409895) | 2026-07-21
+
+---
+
+### 🏷️ 例 4684：韩语 GPT Image Prompt 画廊
+
+![韩语 GPT Image Prompt 画廊](../images/%E9%9F%A9%E8%AF%AD%20GPT%20Image%20Prompt%20%E7%94%BB%E5%BB%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像作为品牌和主题基础，将其重新设计为一个复古的韩语网页画廊落地页，用于展示 {argument name="headline text" default="GPT IMAGE 2"} 的 Prompt。保持粗体黑白、略微偏移的投影排版风格以及 OpenAI 风格的标志，但将深色条纹横幅替换为扁平的青色首屏区域，并采用简洁的黑白粗野主义布局。
+
+布局：创建一个垂直网页截图。在顶部居中放置主标题，然后添加一个带框的韩语标题标签，内容为 {argument name="main label" default="프롬프트"}，旁边附带一个小型的 OpenAI 结形图标，以及一行微小的副标题 {argument name="subtext" default="매일 업데이트 중"}。在下方添加一个大型的 Prompt 输入框模型：一个带有韩语占位符文本的白色文本区域，左侧有两个标有“설정”和“이미지”的小按钮，右侧有一个带有闪烁图标且标有“생성”的高大黑色操作按钮。在下方添加一个圆角胶囊状标签，写着“⚡ 30,000개 이상 무료 이미지 & 동영상 프롬프트”。
+
+主要内容：添加一个浅灰色区域，标题为“인기 프롬프트”，右侧带有一个小型轮廓风格的“전체 보기 →”按钮。以 3 列 2 行的网格形式展示 6 张 Prompt 卡片。每张卡片必须具有粗黑色边框、微妙的阴影、顶部的作者行、一张缩略图、一条标有“현재 프롬프트 보기 →”的小黑条、一段带有几个蓝色高亮关键词标签的韩语 Prompt 摘录、一个标有“⚡ 지금 시도”的黑色 CTA 按钮以及一个小型的分享图标按钮。
+
+卡片数量及缩略图主题：共 6 张卡片：1) 时尚模特穿搭/参考拼贴，2) 柔和的 iOS 风格音乐 UI 小组件，3) 时尚/背部细节特写照片，4) 街头时尚行走照片，5) 梦幻般的女孩照片拼贴，6) 人像/裁剪时尚照片。使用合理的韩语作者昵称和韩语 Prompt 片段；保持文本较小但清晰可辨，以营造真实的 Prompt 画廊感。
+
+风格限制：高对比度黑色轮廓、米白色面板、青色首屏背景、粗体韩语排版、刻意简洁的 Web UI，无浏览器边框，无额外卡片，无额外区域，无水印。
+
+[English]
+Using the provided reference image as the branding and topic base, redesign it into a retro Korean web-gallery landing page for {argument name="headline text" default="GPT IMAGE 2"} prompts. Keep the bold black-and-white, slightly offset drop-shadow typography vibe and the OpenAI-style mark, but replace the dark striped banner with a flat teal hero section and a clean black/white brutalist layout.
+
+Layout: Create a vertical webpage screenshot. At the top, center the main title, then add a boxed Korean title label reading {argument name="main label" default="프롬프트"} with a small OpenAI knot icon near it and tiny subtext reading {argument name="subtext" default="매일 업데이트 중"}. Below, add a large prompt-input mockup: a white text area with Korean placeholder text, two small buttons on the left labeled “설정” and “이미지,” and a tall black action button on the right with a sparkle icon and the label “생성.” Add a small rounded pill beneath it stating “⚡ 30,000개 이상 무료 이미지 & 동영상 프롬프트.”
+
+Main content: Add a light gray section titled “인기 프롬프트,” with a small outlined “전체 보기 →” button on the right. Show exactly 6 prompt cards in a 3-column by 2-row grid. Each card must have a thick black border, subtle shadow, a top author line, one thumbnail image, a small black strip labeled “현재 프롬프트 보기 →,” a Korean prompt excerpt with a few blue highlighted keyword chips, a black CTA button labeled “⚡ 지금 시도,” and a small share icon button.
+
+Card count and thumbnail themes: exactly 6 cards: 1) fashion model outfit/reference collage, 2) soft iOS-style UI music widget, 3) close-up fashion/back-detail photo, 4) street fashion walking photo, 5) dreamy photo collage of a girl, 6) portrait/crop fashion photo. Use plausible Korean author handles and Korean prompt snippets; keep the text small but legible enough to feel like a real prompt gallery.
+
+Style constraints: high-contrast black outlines, off-white panels, teal hero background, bold Korean typography, intentionally simple web UI, no browser chrome, no extra cards, no extra sections, no watermark.
+```
+
+**来源：** [@AI 카페인 ☕️](https://x.com/AI_Caffeine/status/2079506418714206708) | 2026-07-21
+
+---
+
+### 🏷️ 例 4694：奇趣涂鸦插画转换器
+
+![奇趣涂鸦插画转换器](../images/%E5%A5%87%E8%B6%A3%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB%E8%BD%AC%E6%8D%A2%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将此图像重构为一张扁平化插画，并融入 {argument name="elements" default="俏皮、童趣的涂鸦元素"}。使用 {argument name="color palette" default="大胆、鲜艳且奇趣的配色方案"}，将所有细节简化为简洁的扁平形状。通过略显不完美的纯手工线条，营造出一种 {argument name="aesthetic" default="迷人且富有想象力的美学风格"}，仿佛是在白纸上绘制而成。整体风格应可爱、生动且充满奇趣。
+
+[English]
+Reconstruct this image as a single flat illustration infused with {argument name="elements" default="playful, childlike doodle elements"}. Use a {argument name="color palette" default="bold, vibrant, and whimsical color palette"}, simplifying every detail into clean, flat shapes. Incorporate a handcrafted feel with slightly imperfect, hand-drawn outlines to create a charming, imaginative aesthetic, as if it were illustrated on a sheet of {argument name="paper type" default="white paper"}. The overall style should be cute, expressive, and delightfully whimsical.
+```
+
+**来源：** [@Oogie](https://x.com/oggii_0/status/2079455201896075492) | 2026-07-21
+
+---
+
+### 🏷️ 例 4702：角色正交参考图
+
+![角色正交参考图](../images/%E8%A7%92%E8%89%B2%E6%AD%A3%E4%BA%A4%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实全身 {argument name="character subject" default="快递员角色转面图"}，身着 {argument name="outfit style" default="现代绿色与深炭灰色拼接防水制服"}。布局包含正面、背面、左侧面、右侧面、前 3/4 侧面、后 3/4 侧面、清晰的头部及肩部肖像，以及第一人称视角俯瞰双臂。角色佩戴 {argument name="details" default="绿色棒球帽，绿色圆领衫，带有深炭灰色侧拼块的绿色连帽雨衣"}，下摆处有反光银条，搭配黑色修身长裤和黑色运动鞋。夹克前襟印有垂直品牌标识，背部印有水平品牌标识。中性面部表情，运动型身材，写实皮肤纹理。
+演播室产品摄影，{argument name="background" default="无缝浅灰色背景"}，柔和漫射光，构图完美居中，比例一致，正交参考风格，高细节织物纹理，防水材质，写实缝线，自然褶皱，精准比例，时尚目录级画质，照片级真实感，8K 分辨率，超清晰，无干扰阴影，专业服装设计展示。
+
+[English]
+Ultra-realistic full-body {argument name="character subject" default="character turnaround sheet of a delivery courier"} wearing a {argument name="outfit style" default="modern green-and-dark-charcoal waterproof uniform"}. The layout includes front view, back view, left side, right side, 3/4 front, 3/4 back, a clean head-and-shoulders portrait, and a first-person POV looking down at both arms. The character wears a {argument name="details" default="green baseball cap, green crew-neck shirt, green hooded rain jacket with dark charcoal side panels"}, reflective silver strip near the hem, black slim-fit pants, and black athletic sneakers. White vertical branding printed on the jacket front panel and horizontal branding across the back. Neutral facial expression, athletic build, realistic skin texture.
+Studio product photography, {argument name="background" default="seamless light gray background"}, soft diffused lighting, perfectly centered framing, consistent scale, orthographic reference style, highly detailed fabric texture, waterproof material, realistic stitching, clean folds, accurate proportions, fashion catalog quality, photorealistic, 8K, ultra-sharp, no shadows distracting from the subject, professional apparel design presentation.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2079432928019505314) | 2026-07-21
+
+---
+
+### 🏷️ 例 4710：零重力动漫飞船逃生
+
+![零重力动漫飞船逃生](../images/%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%8A%A8%E6%BC%AB%E9%A3%9E%E8%88%B9%E9%80%83%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级动漫科幻英雄画面，采用粗犷的手绘风格，16:9 宽屏构图。场景位于零重力的受损飞船走廊内，画面中必须包含 2 个角色：前景的主角，{argument name="character name" default="一位年轻的中性化飞行员"}，留着短而尖的 {argument name="hair color" default="锈橙色头发"}，眼神锐利专注，身穿橙色补丁飞行服，戴着黑色手套，系着安全带，胸前有一个发光的圆形仪表，一只暴露在外的机械仿生前臂正伸向观众；以及背景中的同伴，{argument name="second character" default="一位年长且粗犷的黑人机械师兼士兵"}，身穿深色战术服，戴着头带和装备带，表情严峻，正靠在门边，使用切割喷灯喷射出明亮的火花。主角应处于半俯冲状态，斜向漂浮在走廊中，一只手臂向前伸出，另一只手抓着金属栏杆或管道，营造出强烈的透视感和动感。环境是一个幽闭的工业飞船内部，有深青色的金属墙壁、红色警示灯、面板、电缆、通风口、划痕表面，左侧有一扇破裂的窗户，可以看到外太空、星星、漂浮的碎片以及一颗红色的行星或太阳。在整个场景中加入青色的烟雾和灰尘。场景中必须包含 7 个清晰的漂浮零散物体：左下角 1 把大扳手，下部中央附近 1 把小扳手，右下角 1 张有裂纹的相框照片，右边缘 1 段圆柱形管道，左侧窗户附近 1 个小立方体机械模块，下部中间附近 1 个小环形零件，以及地板中央附近 1 个微小的深色工具或弹药筒。使用戏剧性的低调照明、青橙色调的色彩分级、厚重的墨线勾勒、细腻的排线、赛璐珞动漫渲染、动态透视缩短、碎片颗粒、运动张力，以及悬疑的营救或逃生氛围。无文字，无水印，拒绝干净光亮的 3D 质感。
+
+[English]
+Create a cinematic anime sci-fi hero frame in a gritty hand-drawn style, wide 16:9 composition. Inside a damaged spaceship corridor in zero gravity, show exactly 2 characters: the foreground hero, {argument name="character name" default="a young androgynous pilot"}, with short spiky {argument name="hair color" default="rust-orange hair"}, sharp focused eyes, an orange patched flight suit, black gloves, harness straps, a round glowing chest instrument, and one exposed mechanical cybernetic forearm reaching toward the viewer; and the background companion, {argument name="second character" default="an older rugged Black mechanic-soldier"}, wearing a dark tactical suit, headband, gear straps, and a grim expression while bracing himself near a door and using a cutting torch that throws bright sparks. The hero should appear mid-lunge, floating diagonally through the corridor with one arm extended forward and the other holding a metal rail or pipe, creating strong perspective and motion. The environment is a claustrophobic industrial spacecraft interior with dark teal metal walls, red warning lights, panels, cables, vents, scratched surfaces, and a cracked window on the left revealing outer space, stars, drifting debris, and a red planet or sun. Add turquoise smoke clouds and dust throughout the scene. Include exactly 7 distinct floating loose objects around the characters: 1 large wrench in the lower left, 1 small wrench near the lower center, 1 framed cracked family photograph in the lower right, 1 cylindrical pipe segment on the right edge, 1 small cube-like mechanical module near the left window, 1 small ring-shaped part near the lower middle, and 1 tiny dark tool or cartridge near the floor center. Use dramatic low-key lighting, teal-and-orange color grading, heavy ink outlines, detailed crosshatching, cel-shaded anime rendering, dynamic foreshortening, debris particles, motion tension, and a suspenseful rescue-or-escape mood. No text, no watermark, no clean glossy 3D look.
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2079409232269435166) | 2026-07-21
+
+---
+
+### 🏷️ 例 4711：复古未来主义零重力角色设定集
+
+![复古未来主义零重力角色设定集](../images/%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E9%9B%B6%E9%87%8D%E5%8A%9B%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一部 15 秒的零重力生存动画短片创作一张详尽、无文字的角色设定图，采用硬核复古未来主义动画风格。
+
+画布：16:9 横向布局，背景为干净的深炭灰色，呈现专业动画制作设定集的质感。画面中不得出现任何标题、标签、Logo、说明文字、水印或 UI 文字。
+
+角色：展示 2 名原创角色：{argument name="first character name" default="KES VOSS"} 和 {argument name="second character name" default="DARIUS"}。
+
+视觉风格：粗粝的 1980 年代/1990 年代赛璐珞动画概念艺术，硬朗的墨线，低饱和度的工业色彩，磨损的织物，陈旧的金属，克制的高光，写实的比例，戏剧性且清晰的布光。氛围应体现出紧张、实用和生存导向，带有空间站的污垢感和复古模拟技术特征。
+
+布局与元素统计：包含 16 个独立的视觉元素，排列成一张完整的角色设定拼贴图。左侧较年轻的角色包含 8 个元素：1 个身穿橙色压力服的全身正面图，1 个全身背面图，1 个四分之三侧面的胸部以上肖像，1 个低头且神情紧张的小型侧面肖像，1 个腕部模拟仪表和机械前臂支架的特写，1 个鞋底细节，1 个底部动作分镜（展示角色在零重力下焊接或切割，伴有明亮火花），以及 1 个底部特写分镜（展示角色在头盔或驾驶舱内专注的表情）。右侧较年长的角色包含 8 个元素：1 个身穿厚重蓝灰色生存服的全身正面图，1 个全身背面图，3 个头部研究（展示不同角度和严厉表情，留着白色短发，面部有皱纹），1 个带有悬挂金属环的领口或约束环配件，1 双厚重手套，以及 1 个底部动作分镜（展示他在零重力下修理设备，伴有明亮火花）。此外，在右下角整合 1 个道具小图：一台粗犷的复古便携式计算机/现场终端，带有破裂的绿色 CRT 屏幕和厚实的按钮；保持其与设定集的视觉连贯性，但不要添加任何文字。
+
+角色细节：较年轻的角色是一位身材苗条、短发的年轻人，拥有 {argument name="hair color" default="锈橙色"} 头发，锐利的动画风格眼睛，严肃且警惕的表情，身穿橙色实用压力服，黑色内衬领口，系带背带，粗犷的靴子，手套，膝盖处有补丁，胸前佩戴圆形模拟仪表，通过带子和软管连接。一侧前臂应呈现机械化或加固状态，带有外露组件和绑带式压力表。
+
+较年长的角色是一位身材魁梧、敦实的年长男性，深色皮肤，白色卷短发，留着白色胡茬，浓眉，疲惫而严厉的眼神，面容饱经风霜。他身穿蓝灰色厚重太空生存服，配有厚手套、靴子、腰带、背带、补丁、划痕，一只袖子有撕裂痕迹，部分头部研究中带有护目镜/护目镜带。
+
+底部电影感长条：沿下边缘包含 4 个矩形故事分镜：1 个年轻角色在太空中焊接/切割，1 个年轻角色在头盔/驾驶舱内的特写，1 个年长角色修理设备并伴有火花，以及 1 个带有破裂屏幕终端的太空外部生存镜头。这些分镜应比主转面图更暗、更具电影感，包含星空、飞船残骸、电缆、火花和零重力感。
+
+约束条件：不得出现任何可读文字、Logo、额外角色，不得使用可爱的 Q 版风格，不得使用明亮干净的科幻美学。背景保持平整的深炭灰色，画面构图紧凑但清晰易读。
+
+[English]
+Goal: Create a detailed, text-free character sheet for a 15-second animated zero-gravity survival short in a hard-edged retro-futurist anime style.
+
+Canvas: 16:9 horizontal layout on a clean dark charcoal background, like a professional animation production sheet. No titles, labels, logos, captions, watermarks, or UI text anywhere.
+
+Characters: Show exactly 2 original characters: {argument name="first character name" default="KES VOSS"} and {argument name="second character name" default="DARIUS"}.
+
+Visual style: Gritty 1980s/1990s cel-shaded anime concept art, hard ink lines, muted industrial colors, scuffed fabric, worn metal, restrained highlights, realistic proportions, dramatic but readable lighting. The mood should feel tense, practical, and survival-focused, with space-station grime and retro analog technology.
+
+Layout and counted elements: Include exactly 16 discrete visual elements arranged as a single character sheet collage. For the younger character on the left, include 8 elements: 1 full-body front view in an orange pressure suit, 1 full-body back view, 1 chest-up portrait facing three-quarter view, 1 smaller side-profile portrait looking down and tense, 1 close-up of a wrist-mounted analog gauge and mechanical forearm brace, 1 small boot-sole detail, 1 bottom action panel showing the character floating in zero gravity while cutting or welding with bright sparks, and 1 bottom close-up panel showing the character inside a helmet or cockpit with a focused expression. For the older character on the right, include 8 elements: 1 full-body front view in a bulky blue-gray survival suit, 1 full-body back view, 3 head studies showing different angles and stern expressions with short white hair and facial wrinkles, 1 collar or restraint ring accessory with a dangling metal ring, 1 pair of heavy gloves, and 1 bottom action panel showing him working on equipment in zero gravity with bright sparks. In addition, integrate 1 bottom-right prop vignette of a rugged retro portable computer/field terminal with a cracked green CRT screen and chunky buttons; keep it visually connected to the sheet but do not add text.
+
+Subject details: The younger character is a slim, short-haired young adult with {argument name="hair color" default="rusty orange"} hair, sharp anime eyes, a serious guarded expression, an orange utilitarian pressure suit, black undersuit collar, harness straps, rugged boots, gloves, patched knees, and a round analog chest gauge connected by straps and hoses. One forearm should appear mechanical or reinforced with exposed components and a strapped pressure dial.
+
+The older character is a broad, stocky elderly man with dark skin, short white curly hair, a white mustache and beard stubble, heavy brow, tired stern eyes, and a weathered face. He wears a blue-gray bulky space survival suit with thick gloves, boots, belt, suspenders, patches, scuffs, torn fabric on one sleeve, and a visor/goggle band in some head studies.
+
+Bottom cinematic strip: Along the lower edge, include exactly 4 rectangular story panels: 1 younger character welding/cutting in space, 1 younger character close-up in helmet/cockpit, 1 older character repairing equipment with sparks, and 1 space exterior survival shot beside the rugged cracked-screen terminal. These panels should be darker and more cinematic than the main turnarounds, with star fields, spacecraft debris, cables, sparks, and a sense of zero gravity.
+
+Constraints: No readable text of any kind, no logos, no extra characters, no cute chibi style, no bright clean sci-fi aesthetic. Keep the background flat dark charcoal and the sheet densely composed but readable.
+```
+
+**来源：** [@Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI/status/2079409015205802294) | 2026-07-21
+
+---
+
+### 🏷️ 例 4712：勃艮第红酒色红毯电影明星
+
+![勃艮第红酒色红毯电影明星](../images/%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2%E9%85%92%E8%89%B2%E7%BA%A2%E6%AF%AF%E7%94%B5%E5%BD%B1%E6%98%8E%E6%98%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实的真人风格全身红毯时尚图像。画面唯一主体是一位从容优雅的年轻电影明星，留着深棕色长波浪卷发，身材苗条自然，神情优雅自信，正走在豪华国际电影首映红毯的中央。捕捉她即将停步前的决定性瞬间，正面向前并带有极其细微的自然角度，一条腿向前迈出，双肩和手臂放松，头发和裙摆带有细微的动态感。为她穿上一件奢华的 {argument name="dress color" default="深勃艮第红"} 拖地高级定制礼服，采用不对称单肩领口，腰部有精致的褶皱设计，前开叉设计便于自然行走，面料为带有柔和光泽的丝缎；搭配同色系细带高跟鞋。将她全身置于画面中心，背景为具有强烈纵深感的长红毯。红毯两侧设置红丝绒绳和金色立柱，后方是摄影师和观众人群，伴有相机闪光灯，人群身着黑色晚礼服。背景展示宏伟的历史剧院入口或宫殿般的首映场地，配以温暖的建筑灯光、头顶聚光灯，以及四块高大的垂直 LED 屏幕，屏幕上显示抽象的红金闪烁图形，通道两侧各两块。采用电影级活动布光，背景浅景深虚化，焦点清晰聚焦于女性主体，人体比例自然，无夸张的广角畸变，无文字，无水印，无额外主角，无脚部或裙摆裁剪。使用 {argument name="aspect ratio" default="1:1"} 的构图，留出足够的周围空间以展现红毯的纵深感和名人氛围。
+
+[English]
+Create a glamorous full-body red carpet fashion image in a photorealistic live-action style. The sole subject is a poised young female movie star with long dark brown wavy hair, a slim natural figure, and an elegant confident expression, walking down the center of a luxurious international film premiere red carpet. She is captured at the decisive moment just before stopping, facing forward with a very slight natural angle, one leg stepping forward, relaxed shoulders and arms, and subtle motion in her hair and dress hem. Dress her in a luxurious {argument name="dress color" default="deep burgundy"} floor-length couture gown with an asymmetrical one-shoulder neckline, refined draping gathered at the waist, a tasteful front slit that allows natural walking movement, and rich satin fabric with soft highlights; pair it with slim matching strappy high heels. Place her fully inside the frame from head to toe, centered on a long red carpet with strong depth perspective. On both sides of the carpet, include crowds of photographers and spectators behind red velvet ropes with gold stanchions, camera flashes, and black evening attire. In the background, show a grand historic theater entrance or palace-like premiere venue, warm architectural lighting, overhead spotlights, and four tall vertical LED screens displaying abstract red-and-gold sparkling graphics, with two screens on each side of the walkway. Use cinematic event lighting, shallow background blur, crisp focus on the woman, natural body proportions, no exaggerated wide-angle distortion, no text, no watermark, no extra main characters, no cropped feet or dress hem. Use a {argument name="aspect ratio" default="1:1"} composition with enough surrounding space to show the red carpet depth and celebrity atmosphere.
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2079405067065786851) | 2026-07-21
+
+---
+

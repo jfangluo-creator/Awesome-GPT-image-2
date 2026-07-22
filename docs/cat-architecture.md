@@ -2950,3 +2950,121 @@ Create a premium romantic save-the-date editorial photo card for a Muslim couple
 
 ---
 
+### 🏛️ 例 4657：橙色极简林黛玉直播插画
+
+![橙色极简林黛玉直播插画](../images/%E6%A9%99%E8%89%B2%E6%9E%81%E7%AE%80%E6%9E%97%E9%BB%9B%E7%8E%89%E7%9B%B4%E6%92%AD%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅极简主义宽幅插画，采用精致的手绘水墨水彩风格，以温暖的爱马仕橙单色调为主，并留有大量负空间。画布为 16:9 横向构图，大部分画面由质感柔和的橙色天空填充，底部三分之一处为浅桃色地面。在右下象限放置一位灵感源自 {argument name="character concept" default="林黛玉化身直播主播"} 的古典中国美女，她坐在一张简单的长桌后，以细腻的黑色素描线条勾勒，并带有微妙的桃色阴影。她身着飘逸的中国古装，留着优雅的长发发髻，发间插着一支橙色花朵发簪和垂坠饰品，神情平静而略带忧郁，温柔地向下注视。桌上仅放置三个独立的物品：左侧是一个面向她的微型三脚架手机，中间是一个短支架上的录音室麦克风，右侧是一个小巧的橙色茶杯。在左上方添加一个巨大的粗犷橙色太阳，其下方绘有两道淡淡的白色飞鸟笔触。在浅色地面上零星散布五簇稀疏的草丛，使用极简的细线条勾勒。保持画面空灵、诗意、静谧且优雅，呈现可见的纸张纹理，保留不完美的素描笔触，无文字、无边框、无水印，且不添加额外道具。
+
+[English]
+Create a minimalist wide-format illustration in a refined hand-drawn ink-and-watercolor style, dominated by a warm Hermès-orange monochrome palette with abundant negative space. The canvas is a horizontal 16:9 composition with a softly textured orange sky filling most of the frame and a pale peach ground band across the bottom third. Place a small classical Chinese beauty inspired by {argument name="character concept" default="Lin Daiyu as a livestream host"} in the lower-right quadrant, seated behind a simple long table, drawn with delicate black sketch lines and subtle peach shading. She wears flowing ancient Chinese robes, has long dark hair in an elegant updo with one orange flower hairpin and dangling ornament, and looks down gently with a calm, slightly melancholic expression. On the table include exactly three discrete objects: a smartphone on a small tripod at left facing her, a studio microphone on a short stand in the center, and a small orange teacup at right. Add exactly one large rough orange sun in the upper-left area and exactly two faint white bird strokes beneath it. Scatter exactly five tiny sparse grass tufts across the pale ground, using minimal thin lines. Keep the scene airy, poetic, quiet, and elegant, with visible paper grain, imperfect sketch strokes, no text, no border, no watermark, and no extra props.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079582606887395333) | 2026-07-21
+
+---
+
+### 🏛️ 例 4663：金箔矿物颜料风格东方插画
+
+![金箔矿物颜料风格东方插画](../images/%E9%87%91%E7%AE%94%E7%9F%BF%E7%89%A9%E9%A2%9C%E6%96%99%E9%A3%8E%E6%A0%BC%E4%B8%9C%E6%96%B9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高完成度青绿山水神女金箔岩彩数字插画，{argument name="风格说明" default="modern oriental gold-leaf mineral-pigment female illustration"}，精致东方女性数字绘画，矿物岩彩色层，不规则真实金箔工艺，兼具东方装饰性平面美学与纵深空间感。
+
+画面主体是一位明确成年的年轻东方女性，视觉年龄约 20–28 岁，身份为{argument name="角色身份" default="山水神女"}，气质清冷、空灵、清贵、超然、安静而疏离。人物采用半身近景与轻微侧身构图，身体偏向画面一侧，脸部呈三分之二侧面，不看向镜头，视线自然垂落，神情沉静克制，像在远望山河或陷入思绪。
+
+人物拥有精致东方数字插画脸，柔和小鹅蛋脸，额头饱满，面部轮廓纤秀流畅，面中细腻立体，下颌线柔和清晰。眼睛细长清亮，眼尾轻微上扬，瞳孔含有克制高光，眉形细致舒展，鼻梁清秀流畅，唇形柔润精巧，嘴唇轻微张开，整体五官精致、干净、克制、耐看，带高完成度东方半写实数字插画人物脸质感。
+
+人物脸部强调柔和流畅的东方轮廓、细长清亮的眼睛、清秀鼻梁、柔润唇形和干净通透的肤面，仅保留精致数字插画式五官塑形，不使用明显 3D CG 建模感，不出现塑料高光、蜡像感、厚重壁画脸或粗糙颗粒覆盖面部。
+
+发型为仙气半挽长发，乌黑长发柔顺垂落，发髻结构清晰，部分发丝被山间微风轻轻吹起，形成自然流动感。头饰为克制精致的金箔花枝头饰，搭配白玉花饰、翡翠发簪、细小金色流苏与玉石耳坠，结构轻盈有层次，不遮挡五官，不过度宝石堆砌，不转向戏曲大冠或华丽女王式头冠。
+
+妆容采用玉白通透底妆，肤面细腻干净，带轻微柔光但不过度磨皮；眼妆为浅石青与淡青绿色矿物眼影，眼尾加入少量青黛色并柔和拉长，内眼角使用极细淡金提亮，眉心点缀克制精细的淡金花钿，唇色为柔润豆沙粉与浅珊瑚色之间，具有细腻水润光泽。妆容清晰显妆，但不现代网红化，不欧美浓妆。
+
+人物穿着孔雀绿、翡翠青与月白色层叠古风长裙，内层为玉白与月白丝绸，外层为高纯度孔雀绿与青碧色轻纱，服装具有收腰结构，展现自然端雅的身体比例。衣料由丝绸、绢布、锦缎与轻纱构成，柔软垂坠，褶皱自然，袖口宽大轻盈。服装表面融入青绿山水纹、远山纹、流云纹、矿脉状金线与局部金箔拼贴，金色纹理沿衣缘、袖口、腰封和山水纹轮廓自然分布，但始终保留真实织物感，不变成硬质金属或铠甲。
+
+场景为{argument name="场景" default="高处山间水榭与青绿山水秘境"}，人物站在临水楼阁或木质栏杆旁，背后展开层叠远山、翡翠色山峰、清澈湖水、瀑布、溪流、远处古亭与云海。近山使用浓郁孔雀石绿、青碧、石青与深墨绿色，中景山体保留清晰色相和矿物颜料层次，远山通过局部洁净薄雾自然退后，但不褪成灰白。
+
+背景具有高饱和青绿矿物岩彩质感，山体边缘、水流、云气、亭台轮廓与画面边框局部融入不规则金箔。金箔呈现真实箔片边缘、颗粒、裂纹、轻微褶皱、斑驳和微浮雕起伏，并具有亮金、暖金、古金与暗金层次变化。金箔像自然矿脉与流动山河纹理一样穿过画面边缘、山脊、云海、服装纹样和建筑细节，不是普通黄色描边，不是廉价闪粉。
+
+整体采用青绿金箔岩彩体系，高饱和、高对比、色彩清透。主色为孔雀石绿、翡翠绿、石青、青碧与深墨绿，辅色为月白、玉白、浅青与少量黑青，金属色为明金、暖金与古金。画面建立清晰明度分区：人物肤色、月白内衬和局部云层为高明度；孔雀绿服装和青绿山体为高饱和中明度；黑色发丝、木质楼阁、深墨绿近山与局部建筑形成稳定暗部；金箔形成局部高亮反射。亮部清澈通透，暗部浓郁稳定，中间色不发灰。
+
+光线采用柔和侧前光照亮人物面部，使额头、鼻梁、眼下、唇部和肩颈形成细腻干净的明暗过渡；同时使用低角度金箔掠射光和轻微侧逆光扫过头饰、发丝、服装金线、山脊和云海，使金箔产生细碎明亮的金属反射。人物肤色保持玉白自然，金色反光不污染肤色，眼睛保留清晰而克制的高光。
+
+构图具有现代东方海报感，人物占据画面主要视觉区域，脸部位于上方黄金分割附近，长发与宽袖形成纵向流动线，远山、湖面与亭台向画面深处延伸。画面边缘可加入不规则金箔流纹和矿物岩彩肌理作为装饰框架，但不遮挡人物面部。
+
+整体效果应精致、华贵、清冷、空灵、诗意、克制，具有高纯度矿物颜料浓度、真实金箔工艺感、东方山水意境与高完成度数字插画人物表现。保持古风女性金箔岩彩主风格，不转成普通古风写真、明显 3D CG 角色渲染、廉价仙侠游戏立绘、戏冠宫廷海报、蝴蝶幻光女王主题或舞台式暖金幻境。
+
+负面约束：未成年，幼态，儿童脸，夸张二次元大眼，网红脸，欧美整容脸，明显 3D CG，塑料皮肤，蜡像脸，厚重壁画脸，粗糙颗粒覆盖五官，五官模糊，眼睛无神，满脸贴金，金箔覆盖面部，普通黄色描边，廉价闪粉，整图偏黄，整图偏灰绿，低饱和青灰滤镜，旧画褪色感，大面积灰白雾气，人物与背景同色化，暗部不够深，高光不够亮，戏曲大冠，宝石头冠堆砌，蝴蝶主题，强发光翅膀，舞台追光，暖金宫廷背景，服装铠甲化，硬质金属衣料，背景拥挤，建筑抢主体，文字，水印，logo，手指畸形，四肢错误，饰品悬浮。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2079572927826256055) | 2026-07-21
+
+---
+
+### 🏛️ 例 4682：方便面爆炸瞬间动作照片
+
+![方便面爆炸瞬间动作照片](../images/%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E5%8A%A8%E4%BD%9C%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+上传人物在温馨现代厨房夜晚的超写实电影级动作照片，捕捉到他们不小心以爆炸般的力量打开一包 {argument name="food" default="Maggie 方便面"} 的滑稽瞬间。一块完整的方形拉面在他们上方戏剧性地悬浮在半空中，数百个细小的面条碎片和调料颗粒以慢动作向外迸发。他们的表情是真实的震惊与惊奇，双眼圆睁，嘴巴夸张地张成“O”形。
+在他们身旁，一只顽皮的 {argument name="dog breed" default="罗威纳犬"} 向上跳跃，表情同样滑稽而兴奋，张着嘴，爪子伸向飞舞的面条。方便面包装袋和调料包悬浮在空中，增加了动态感。
+来自吸顶灯的温暖电影级 {argument name="lighting" default="钨丝灯照明"}，逼真的阴影，体积感尘埃颗粒，浅景深，戏剧性的定格动作，超细腻的皮肤纹理，自然色彩，照片级 8K 画质，HDR，人物和狗的焦点清晰，温馨的生活化厨房背景，配有架子、炉灶、窗户和微妙的夜晚氛围。
+风格：好莱坞喜剧电影剧照，高速摄影，动态构图，超写实，高端单反相机，85mm 镜头，f/1.8，完全保留参考图像中的自然面部特征，无美颜，无面部修改，高度细节化，获奖摄影作品德国牧羊犬。生成图像
+
+[English]
+Ultra-realistic cinematic action photo of the uploaded person in a cozy modern kitchen at night, caught in a hilarious instant as they accidentally open a packet of {argument name="food" default="Maggie instant noodles"} with explosive force. A perfectly intact square block of ramen floats dramatically in mid-air above them while hundreds of tiny noodle fragments and seasoning particles burst outward in slow motion. Their facial expression is one of genuine shock and amazement, eyes wide open and mouth forming an exaggerated "O" shape.
+Beside them, a playful {argument name="dog breed" default="Rottweiler"} leaps upward with an equally comical, excited expression, mouth open and paws reaching toward the flying noodles. The instant noodle packet and seasoning sachets are suspended in mid-air, adding to the dynamic action.
+Warm cinematic {argument name="lighting" default="tungsten lighting"} from a ceiling lamp, realistic shadows, volumetric dust particles, shallow depth of field, dramatic freeze-frame motion, ultra-detailed skin texture, natural colors, photorealistic 8K quality, HDR, sharp focus on both the person and the dog, cozy lived-in kitchen with shelves, stove, window, and subtle evening ambience in the background.
+Style: Hollywood comedy film still, high-speed photography, dynamic composition, ultra-realistic, premium DSLR, 85mm lens, f/1.8, natural facial features preserved exactly from the reference image, no beautification, no face alteration, highly detailed, award-winning photography German shepherd dog. Give imag
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2079508114991386790) | 2026-07-21
+
+---
+
+### 🏛️ 例 4685：酒红色动漫街头剪影
+
+![酒红色动漫街头剪影](../images/%E9%85%92%E7%BA%A2%E8%89%B2%E5%8A%A8%E6%BC%AB%E8%A1%97%E5%A4%B4%E5%89%AA%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版单色动漫风格插画，采用深牛血红色墨水，背景为暖米色纸张，呈现出高对比度模板画与写意毛笔速写的质感。场景为透视视角下的浪漫欧洲古城街道，两侧是高耸狭窄的中世纪建筑、陡峭的屋顶、尖塔、钟楼剪影、遮阳篷、店面，远处的行人逐渐消失在明亮的街道中央。在前景处，放置一位神秘而优雅的年轻女性，{argument name="character name" default="Ouwa Days"}，主要以背影和侧影呈现，戴着一顶装饰有花朵的巨大倾斜宽檐帽，留着波浪形齐肩发，穿着飘逸的连衣裙或披肩，透明的丝带状织物向左飘动。在她的服装上添加花卉装饰：帽子上有 1 簇花，裙子/披肩上有 3 簇醒目的花。包含 2 盏装饰性壁挂式路灯，分别位于左侧和右侧建筑上。街道上包含零星的远景人物剪影，自然分布且无需细节。运用动态墨迹、参差不齐的笔触边缘、写意的建筑线条，并在天空和街道处保留强烈的负空间。调色板仅限 {argument name="ink color" default="深酒红色"} 和 {argument name="paper color" default="暖象牙米色"}。在右下角，添加一个小的手写签名 {argument name="signature text" default="ouwa days"}，并在旁边附带一个小巧的爪印图标。无需其他颜色，拒绝写实风格，不包含现代物品，无边框。
+
+[English]
+Create a vertical 3:4 monochrome anime-style illustration in deep oxblood red ink on a warm cream paper background, like a high-contrast stencil and loose brush sketch. The scene is a romantic old European city street viewed in perspective, with tall narrow medieval buildings on both sides, steep rooftops, pointed towers, clock-tower silhouettes, awnings, shopfronts, and distant pedestrians fading into the bright central street. In the foreground, place a mysterious elegant young woman, {argument name="character name" default="Ouwa Days"}, shown mostly as a dark silhouette from behind and slightly in profile, wearing a very large tilted wide-brim hat decorated with flowers, wavy shoulder-length hair, and a flowing dress or shawl with transparent ribbon-like fabric trailing leftward. Add floral ornamentation on her outfit: exactly 1 flower cluster on the hat and exactly 3 prominent flower clusters on the dress/shawl. Include exactly 2 ornate wall-mounted street lamps, one on the left building and one on the right building. Include small distant human silhouettes in the street, clustered naturally but not detailed. Use dynamic ink splashes, jagged brush edges, sketchy architectural linework, and strong negative space in the sky and street. Keep the palette to only {argument name="ink color" default="dark burgundy red"} and {argument name="paper color" default="warm ivory cream"}. In the bottom-right corner, add a small handwritten signature reading {argument name="signature text" default="ouwa days"} with a small paw-print icon beside it. No additional colors, no photorealism, no modern objects, no border.
+```
+
+**来源：** [@おわ Days](https://x.com/Days57723399006/status/2079505850826441063) | 2026-07-21
+
+---
+
+### 🏛️ 例 4691：微型小人厨房喜剧拼图
+
+![微型小人厨房喜剧拼图](../images/%E5%BE%AE%E5%9E%8B%E5%B0%8F%E4%BA%BA%E5%8E%A8%E6%88%BF%E5%96%9C%E5%89%A7%E6%8B%BC%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 6 格超写实微型喜剧拼图，主角为同一个 {argument name="character" default="微型成年男子"}（在所有 6 个画面中保持完全相同的面部、发型、胡须、比例和身份），他只有拇指大小，生活在 {argument name="setting" default="巨大的厨房"} 中。每一格画面讲述一个不同的有趣故事，面部表情与情境完美契合。照片级 CGI，电影级光影，浅景深，皮克斯级别的写实感（非卡通），高度细腻的皮肤、衣物和纹理，温暖舒适的厨房氛围，巨大的日常物品，戏剧性的比例差异，生动的肢体语言，动态动作，8K 分辨率。第 1 格 – 巨猫追逐：微型小人在极度恐慌中飞奔，身后是一只巨大的毛茸茸家猫，抬起一只爪子追赶。他面露惊恐，嘴巴大张，双眼圆睁，双臂乱挥。第 2 格 – 鼠标囚笼：微型小人被粗绳紧紧捆绑在一个巨大的电脑鼠标上，一根巨大的手指正缓慢靠近准备点击他。他面露绝望的恐惧与无助。第 3 格 – 饼干雪崩：一个巨大的玻璃饼干罐翻倒，巨大的巧克力豆饼干散落一地。微型小人随着饼干滑出，惊声尖叫，表情夸张。第 4 格 – 咖啡求生：微型小人悬挂在巨大的热咖啡杯边缘，险些掉进咖啡里。他的表情混合了恐惧、绝望与决心。第 5 格 – 香蕉滑梯：微型小人像玩滑梯一样在巨大的香蕉皮上失控滑下，又笑又叫，表情极其惊讶。第 6 格 – 马克杯拳击赛：在一个微型拳击擂台内，戴着红色拳击手套的微型小人面对着一个愤怒的巨大红色咖啡杯，咖啡杯长着卡通风格的愤怒双眼和微小的肌肉手臂。小人看起来紧张但坚定，准备在滑稽的对决中一战。风格：超写实，电影级构图，微距摄影，微缩世界错觉，逼真纹理，温暖的金色光影，柔和焦外成像，高对比度，幽默叙事，每格画面表情独特，无文字，无水印，适合 Facebook 的垂直拼图，杰作，8K。
+
+[English]
+A 6-panel ultra-realistic miniature comedy collage featuring the same {argument name="character" default="tiny adult man"} (exact same face, hairstyle, beard, proportions, and identity across all six panels), only thumb-sized, living in a {argument name="setting" default="giant kitchen"}. Every panel tells a different funny story with unique facial expressions perfectly matching the situation. Photorealistic CGI, cinematic lighting, shallow depth of field, Pixar-quality realism (not cartoon), highly detailed skin, clothing, and textures, warm cozy kitchen atmosphere, giant everyday objects, dramatic scale difference, expressive body language, dynamic action, 8K. Panel 1 – Giant Cat Chase: The tiny man sprints in absolute panic while a huge fluffy house cat charges behind him with one paw raised. His face shows pure terror, mouth wide open, eyes bulging, arms flailing. Panel 2 – Mouse Prison: The tiny man is tightly tied with thick rope on top of a giant computer mouse while a giant human finger slowly approaches to click him. His face shows desperate fear and helplessness. Panel 3 – Cookie Avalanche: A massive glass cookie jar has tipped over, spilling giant chocolate-chip cookies everywhere. The tiny man slides out with cookies crashing around him, screaming in shock with exaggerated panic. Panel 4 – Coffee Survival: The tiny man hangs from the rim of a giant hot coffee mug, barely avoiding falling into the coffee. His expression mixes horror, desperation, and determination. Panel 5 – Banana Slide: The tiny man uncontrollably slides down a giant banana peel like a playground slide, laughing and screaming at the same time with a wildly surprised expression. Panel 6 – Mug Boxing Match: Inside a miniature boxing ring, the tiny man wearing red boxing gloves faces an angry giant red coffee mug with cartoon-style furious eyes and tiny muscular arms. The man looks nervous but determined, ready to fight in a hilarious showdown. Style: Ultra-photorealistic, cinematic composition, macro photography, miniature world illusion, realistic textures, warm golden lighting, soft bokeh, high contrast, humorous storytelling, expressive emotions unique in every panel, no text, no watermark, vertical Facebook-friendly collage, masterpiece, 8K.
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2079485833372197288) | 2026-07-21
+
+---
+

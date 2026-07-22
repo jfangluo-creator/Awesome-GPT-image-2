@@ -5680,3 +5680,47 @@ Create a warm watercolor anime illustration of a cozy sunlit craft room in a fan
 
 ---
 
+### 🧸 例 4646：超现实菠萝纹理数字雕塑
+
+![超现实菠萝纹理数字雕塑](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%8F%A0%E8%90%9D%E7%BA%B9%E7%90%86%E6%95%B0%E5%AD%97%E9%9B%95%E5%A1%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为精确的面部参考，创作一个超现实的超写实 3D 雕塑。保留人物的身份、面部特征、发型、肤色和比例。仅展示头部和上肩部，使其与 {argument name="wall finish" default="哑光黑"} 墙面无缝融合。双眼轻闭，表情平静安详。
+
+皮肤呈现出戏剧性的裂纹，质感如同巨大的 {argument name="fruit texture" default="深色菠萝皮"}，深邃的裂隙中透出金黄色的菠萝果肉，果汁从额头流经面部、颈部，一直流向胸部上方。裂纹边缘呈焦黑色，环绕着明亮的发光黄色、橙色和金色的菠萝内部，营造出一种在阴影中神秘发光的菠萝雕塑感。
+
+雕塑应具备超写实的皮肤和菠萝纹理、电影般的柔和阴影、高对比度和深黑色的戏剧性摄影棚布光，以及忧郁的暗黑氛围。{argument name="art style" default="极简黑色背景"}，画面简洁无干扰。高端数字雕塑，照片级真实感，暗黑奇幻艺术，Octane 渲染，Unreal Engine 品质，超精细，8K，杰作。
+
+[English]
+Create a surreal hyper-realistic 3D sculpture using the uploaded photo as the exact facial reference. Preserve the person’s identity, facial features, hairstyle, skin tone, and proportions. Show only the head and upper shoulders emerging seamlessly from a clean {argument name="wall finish" default="matte black"} wall. The eyes are gently closed with a calm, peaceful expression. 
+
+The skin is dramatically cracked and textured like a giant {argument name="fruit texture" default="dark pineapple rind"}, with deep fissures revealing glowing golden-yellow pineapple flesh and juice flowing through the cracks from the forehead, across the face, neck, and down to the upper chest. The cracks have dark charred edges surrounding bright luminous yellow, orange, and golden pineapple interior, creating the appearance of a mysterious glowing pineapple sculpture in shadow.
+
+The sculpture should have ultra-realistic skin and pineapple textures, cinematic soft shadows, dramatic studio lighting with high contrast and deep blacks, moody dark atmosphere. {argument name="art style" default="Minimalist black background"} with no distractions. Premium digital sculpture, photorealism, dark fantasy art, Octane render, Unreal Engine quality, ultra-detailed, 8K, masterpiece.
+```
+
+**来源：** [@Amy G](https://x.com/amynys/status/2079610305097699662) | 2026-07-21
+
+---
+
+### 🧸 例 4722：3D 角色海报转换
+
+![3D 角色海报转换](../images/3D%20%E8%A7%92%E8%89%B2%E6%B5%B7%E6%8A%A5%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将第一张参考图像 [Your image] 中的角色转换为 {argument name="visual style" default="风格化 3D 角色海报"}。请保留参考图像中完全一致的服装、发色、配饰和特征——请勿重新设计服饰。角色：{argument name="body proportions" default="大头小身，胸部以上特写"}
+
+[English]
+Transform the character in the first reference image [Your image] into a {argument name="visual style" default="stylized 3D character poster"}. Keep the exact outfit, hair color, accessories, and traits from the reference — do not redesign the wardrobe. Character: {argument name="body proportions" default="oversized head, small body, chest-up"}
+```
+
+**来源：** [@RafaSimon](https://x.com/rafalors/status/2079366331795919145) | 2026-07-21
+
+---
+
