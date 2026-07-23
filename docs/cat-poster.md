@@ -21903,3 +21903,321 @@ Rendering Quality:
 
 ---
 
+### 🎴 例 4739：高端运动服饰广告大片，搭配 3D 字体设计
+
+![高端运动服饰广告大片，搭配 3D 字体设计](../images/%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87%EF%BC%8C%E6%90%AD%E9%85%8D%203D%20%E5%AD%97%E4%BD%93%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端运动服饰广告大片，主角为 {argument name="athlete" default="世界级足球明星"}，捕捉其在奔跑中的动态瞬间，悬浮于简洁的单色渐变背景之上。运动员身后是巨大的 3D 挤压字体，拼写出 "{argument name="player name" default="[球员姓名]"}"，色彩与主题完美呼应。浓郁的彩色烟雾从主体后方爆发，以极具张力的体积感、水墨晕染质感和电影级能量环绕其身。运动员身着单色超大款卫衣、带有彩色滚边的半透明机能风衣长裤，搭配同系列高端运动鞋、白袜及配套运动装备，呈现出大胆的同色系时尚造型。摄影棚布光，配以清晰的轮廓光、柔和的主光及细腻的反光，高对比度，超写实皮肤质感，定格动作，动态姿态，奢华 Nike 风格编辑美学（无可见 Logo），居中构图，极简背景，充满活力的 {argument name="color palette" default="单色调（蓝色、红色、绿色、橙色等）"}，广告大片品质，85mm 镜头，超锐利对焦，HDR，8K，照片级真实感，获奖商业体育摄影，高端杂志封面，大师级作品。
+
+[English]
+Ultra-premium sportswear campaign featuring a {argument name="athlete" default="world-class football star"} captured mid-stride in a dynamic running pose, suspended in motion against a clean monochromatic gradient background. Behind the athlete, oversized extruded 3D typography spelling "{argument name="player name" default="[PLAYER NAME]"}" dominates the composition, perfectly color-matched to the theme. A massive explosion of dense colored smoke erupts from behind the subject, wrapping around the body with dramatic volumetric depth, ink-in-water textures, and cinematic energy. The athlete wears a monochrome oversized sweatshirt, translucent technical windbreaker pants with colored piping, matching premium sneakers, white socks, and coordinated sportswear, creating a bold tone-on-tone fashion look. Studio lighting with crisp rim lights, soft key light, subtle reflections, high contrast, hyper-realistic skin texture, frozen action, dynamic posture, luxury Nike-inspired editorial aesthetic (no visible logos), centered composition, minimal background, vibrant {argument name="color palette" default="single-color palette (blue, red, green, orange, etc.)"}, advertising campaign quality, 85mm lens, ultra-sharp focus, HDR, 8K, photorealistic, award-winning commercial sports photography, premium magazine cover, masterpiece.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2079969103947935957) | 2026-07-22
+
+---
+
+### 🎴 例 4744：复古港口灯光夜市海报
+
+![复古港口灯光夜市海报](../images/%E5%A4%8D%E5%8F%A4%E6%B8%AF%E5%8F%A3%E7%81%AF%E5%85%89%E5%A4%9C%E5%B8%82%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="event name" default="Harbor Lights Night Market"} 创建一张 1970 年代复古日式旅游海报风格的竖版 A2 活动海报。
+
+画布：高竖版海报，采用从日落到夜晚的暖色调，地平线处为深橙色，向上渐变为梅紫色和深靛蓝色，带有浓重的孔版印刷颗粒质感、旧纸张斑点、轻微磨损的油墨效果以及奶油色的边框和细节。
+
+布局：顶部左侧显示一弯新月，中间三行显示粗体手绘笔刷标题“HARBOR / LIGHTS / NIGHT MARKET”，采用粗糙的奶油色字体。右上角边缘添加一条狭长的奶油色竖向横幅，上面写有黑色日文书法“夏の思い出をここで”。标题下方添加较小的日文副标题“ハーバーライツ夜市”和斜体西班牙语副标题“Mercado Nocturno Luces del Puerto”。下方放置一个圆角矩形日期牌，采用奶油色填充和红色轮廓，以高瘦的深蓝色压缩字体写着“{argument name="date and time" default="SAT · AUG 15 · 5PM–MIDNIGHT"}”。
+
+主体插画：中间填充扁平化插画风格的港口夜市场景。包含深蓝色的天际线，点缀着许多黄色灯光的窗户，远处有紫色山脉，中心附近有一座类似港口观景塔的建筑，水面映照着橙色和金色的倒影，电线杆和船只之间悬挂着多串发光的纸灯笼。前景处精确展示 2 艘大型船只：左下方一艘船上挂着写有“夜市”字样的竖牌，可以看到正在进食或购物的人影；右下方一艘船上可以看到灯笼下坐着的人影。中景处添加较小的船只、起重机或桅杆状电线杆，以及零星的风格化云朵。
+
+底部特色卡片：底部创建 3 张带有奶油色边框的圆角矩形插画卡片。卡片 1 展示一碗冒着热气的拉面，配有鸡蛋、海苔、面条和蔬菜，标注为“STREET FOOD / 屋台グルメ”。卡片 2 展示一张橙色中心、周围环绕四个小音符图标的黑色黑胶唱片，标注为“LIVE MUSIC / 音楽ライブ”。卡片 3 展示一个带有蓝色釉面滴落效果的手工陶瓷杯或花瓶，标注为“LOCAL CRAFT / 手作り市”。
+
+页脚：添加一条深蓝色的狭窄页脚条，左侧带有微小的港口图标，中间以奶油色文字显示“{argument name="footer details" default="Pier 7, Harbor District — Free entry — harborlights.example.com"}”，右侧带有小锚图标。
+
+视觉风格：复古日式旅游海报，丝网印刷质感，采用焦橙色、赭奶油色、深蓝色、青色、梅紫色和黑色的有限调色板，套色不准效果，磨损边缘，醒目的海报排版，怀旧的夏夜氛围。
+
+约束：保持所有文字清晰可辨，拼写与指定内容完全一致。必须使用 1 条竖向书法横幅、3 张底部特色卡片和 2 艘大型前景船只。禁止使用现代 UI 元素、禁止写实风格、禁止添加额外的标志或水印。
+
+[English]
+Goal: Create a vertical A2 event poster for {argument name="event name" default="Harbor Lights Night Market"} in a retro 1970s Japanese travel-poster style.
+
+Canvas: Tall vertical poster, warm sunset-to-night palette, deep orange at the horizon fading into plum purple and dark indigo at the top, with heavy grainy risograph texture, aged paper speckles, slightly distressed ink, and cream-colored borders/details.
+
+Layout: At the top, show a small crescent moon on the left and a large bold hand-painted brush headline centered across three lines reading “HARBOR / LIGHTS / NIGHT MARKET” in rough cream lettering. On the upper right edge, add one narrow vertical cream banner with black Japanese calligraphy reading 「夏の思い出をここで」. Beneath the title, add a smaller Japanese subtitle “ハーバーライツ夜市” and an italic Spanish subtitle “Mercado Nocturno Luces del Puerto”. Below that, place a rounded rectangular date plaque with a cream fill and red outline reading “{argument name="date and time" default="SAT · AUG 15 · 5PM–MIDNIGHT"}” in tall navy condensed type.
+
+Main illustration: Fill the middle with a flat illustrated harbor night market scene. Include a dark navy skyline with many small yellow-lit windows, distant purple mountains, a tower resembling a harbor observation tower near the center, water with orange and gold reflections, and multiple strings of glowing paper lanterns hanging between poles and boats. Show exactly 2 large foreground boats: one on the lower left with a vertical sign reading 「夜市」 and silhouetted people eating or shopping, and one on the lower right with seated silhouettes under lanterns. Add smaller boats in the middle distance, cranes or mast-like poles, and scattered stylized clouds.
+
+Bottom feature cards: Along the bottom, create exactly 3 rounded rectangular illustrated cards with cream borders. Card 1 shows a steaming ramen bowl with egg, seaweed, noodles, and greens, labeled “STREET FOOD / 屋台グルメ”. Card 2 shows a black vinyl record with orange center and four small music-note icons around it, labeled “LIVE MUSIC / 音楽ライブ”. Card 3 shows a handmade ceramic cup or vase with blue glaze drips, labeled “LOCAL CRAFT / 手作り市”.
+
+Footer: Add a narrow dark navy footer strip with tiny harbor icons on the left, the line “{argument name="footer details" default="Pier 7, Harbor District — Free entry — harborlights.example.com"}” centered in cream, and a small anchor icon on the right.
+
+Visual style: Vintage Japanese tourism poster, screen-printed texture, limited color palette of burnt orange, ochre cream, navy, teal, plum, and black, imperfect registration, distressed edges, bold poster typography, nostalgic summer night atmosphere.
+
+Constraints: Keep all text legible and spelled exactly as specified. Use exactly 1 vertical calligraphy banner, exactly 3 bottom feature cards, and exactly 2 large foreground boats. No modern UI elements, no photorealism, no extra logos or watermarks.
+```
+
+**来源：** [@stevibe](https://x.com/stevibe/status/2079959424719053052) | 2026-07-22
+
+---
+
+### 🎴 例 4761：高端尼日利亚小吃 (Small Chops) 美食海报
+
+![高端尼日利亚小吃 (Small Chops) 美食海报](../images/%E9%AB%98%E7%AB%AF%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%B0%8F%E5%90%83%20(Small%20Chops)%20%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为社交媒体创作一张超高端、照片级的尼日利亚小吃餐厅广告海报，强调丰富的食物、醒目的排版以及奢华的黑金品牌视觉风格。
+
+画布：垂直 4:5 海报，高分辨率，深色电影感背景，带有温暖的琥珀色光斑和微妙的餐厅灯光。使用黑棕色渐变背景，底部为质朴的木质桌面。
+
+主标题区域：在顶部中心，标题上方添加一个黄色的小型线条艺术厨师帽图标。使用大号标题文本 {argument name="headline text" default="Delicious SMALL CHOP Big Satisfaction!"}。将“Delicious”和“Big Satisfaction!”设为白色手写体，将“SMALL CHOP”设为巨大的做旧压缩大写黄色字体。在手写体下方添加一条纤细的白色下划线装饰。
+
+辅助文案：在标题下方，居中放置小号白色文本 {argument name="subheadline text" default="Tasty bites, made fresh for every moment."}。在右上角，添加一个带有虚线边框的黄色圆形印章徽章，文字为“FRESH TASTY & HYGIENIC”。
+
+左侧优势列表：在左侧创建一个标题为“PERFECT FOR:”的黄色区域。包含 4 个带有黄色复选框图标的条目：1) 派对与活动，2) 会议，3) 聚会，4) 各种场合。
+
+核心食物布局：海报中心放置一个盛满尼日利亚小吃的大号白色圆盘，拍摄出光泽诱人的细节。盘中及周围包含 6 种清晰可见的食物类别：1) 左侧堆叠的金色春卷，2) 上方中心的炸面球 (puff-puff)，3) 右侧的三角形咖喱角 (samosas)，4) 前方带有酱汁的胡椒鸡块，5) 前方中心的小型油炸圆球，6) 右侧盛有红色蘸酱的白色小碗。在盘子后方右上方，放置一个装满串烧肉丸的棕色牛皮纸杯，多根木签向上伸出。在盘子周围添加少量欧芹作为装饰。
+
+促销徽章：在左下方与盘子重叠处，添加一个带有缝线/虚线边框的酒红色圆形徽章。内部文字应为 {argument name="badge text" default="Small Chops, Big Love"}，并配有一个黄色心形图标。
+
+缩略图栏：在盘子正下方，添加 4 张带有细黄色边框的圆角矩形食物缩略图卡片：1) 香脆炸鸡块，2) 金色炸面球 (其中一个切开展示内馅)，3) 三角形咖喱角，4) 混合小吃拼盘。
+
+功能栏：在底部附近，添加一个宽大的黄色圆角信息栏，分为 3 列，配有黑色图标和文字：1) 餐罩图标及“FRESHLY MADE SERVED HOT”，2) 点赞图标及“QUALITY INGREDIENTS GREAT TASTE”，3) 电话听筒图标及“PLACE YOUR ORDER WE DELIVER!”。
+
+页脚：左下方，添加一个黄色圆角方形电话图标，并在电话号码 {argument name="phone number" default="0812 345 6789"} 上方放置粗体行动号召文本“ORDER NOW”。右下方中心位置，添加短语 {argument name="footer slogan" default="WE SERVE TASTE, YOU CRAVE!"}，并将“YOU CRAVE!”以黄色高亮显示。右下方包含一个小型的黄色外卖摩托车图标。
+
+视觉风格：高端商业美食摄影，强对比度，清晰细节，光泽酱汁，金黄油炸质感，温暖高光，高端尼日利亚餐饮海报美学，整洁的间距，醒目易读的排版，无水印，无额外 Logo，无拼写错误。
+
+[English]
+Goal: Create an ultra-premium photorealistic Nigerian small chops restaurant advertisement poster for social media, emphasizing abundant food, bold typography, and a luxury black-and-gold brand look.
+
+Canvas: Vertical 4:5 poster, high resolution, dark cinematic background with warm amber bokeh and subtle restaurant lighting. Use a black-to-brown gradient backdrop and a rustic wooden table surface at the bottom.
+
+Main headline area: At the top center, add a small line-art chef hat icon in yellow above the title. Use the large headline text {argument name="headline text" default="Delicious SMALL CHOP Big Satisfaction!"}. Make “Delicious” and “Big Satisfaction!” white handwritten script, and make “SMALL CHOP” huge distressed condensed uppercase yellow lettering. Add a thin white underline flourish under the script.
+
+Supporting copy: Under the headline, centered in small white text, write {argument name="subheadline text" default="Tasty bites, made fresh for every moment."}. On the upper right, add a circular yellow stamp badge with dashed border reading “FRESH TASTY & HYGIENIC”.
+
+Left benefit list: On the left side, create a section titled “PERFECT FOR:” in yellow. Include exactly 4 checked items with yellow checkbox icons: 1) Parties & Events, 2) Meetings, 3) Hangouts, 4) Every Occasion.
+
+Hero food arrangement: Center the poster around a large white round plate piled high with Nigerian small chops, photographed in glossy appetizing detail. Include exactly 6 visible food categories on and around the plate: 1) golden spring rolls stacked on the left, 2) puff-puff balls in the upper center, 3) triangular samosas on the right, 4) sauced peppered chicken pieces across the front, 5) small fried round bites at the front center, 6) a white ramekin of red dipping sauce on the right. Behind the plate on the upper right, place a brown kraft paper cup filled with skewered glazed meatballs, with multiple wooden skewers sticking upward. Add small parsley garnish accents around the plate.
+
+Promotional badge: On the lower left overlapping the plate, add a burgundy circular badge with a stitched/dashed border. Text inside should read {argument name="badge text" default="Small Chops, Big Love"} with a yellow heart icon.
+
+Thumbnail strip: Directly below the plate, add exactly 4 rounded rectangular food thumbnail cards with thin yellow borders: 1) crispy fried chicken bites, 2) golden puff-puff with one cut open showing filling, 3) triangular samosas, 4) mixed small chops platter.
+
+Feature bar: Near the bottom, add a wide rounded yellow information bar divided into exactly 3 columns with black icons and text: 1) cloche icon with “FRESHLY MADE SERVED HOT”, 2) thumbs-up icon with “QUALITY INGREDIENTS GREAT TASTE”, 3) phone handset icon with “PLACE YOUR ORDER WE DELIVER!”.
+
+Footer: Bottom left, add a yellow rounded square phone icon and bold call-to-action text “ORDER NOW” above the phone number {argument name="phone number" default="0812 345 6789"}. Bottom center-right, add the phrase {argument name="footer slogan" default="WE SERVE TASTE, YOU CRAVE!"} with “YOU CRAVE!” highlighted in yellow. Bottom right, include a small yellow delivery scooter icon.
+
+Visual style: High-end commercial food photography, strong contrast, crisp details, glossy sauces, golden fried textures, warm highlights, premium Nigerian catering poster aesthetic, clean spacing, bold readable typography, no watermark, no extra logos, no misspelled text.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2079898834285552093) | 2026-07-22
+
+---
+
+### 🎴 例 4770：深色系中国行业语录海报
+
+![深色系中国行业语录海报](../images/%E6%B7%B1%E8%89%B2%E7%B3%BB%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%9A%E8%AF%AD%E5%BD%95%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张竖版中国商业主题语录海报，展示严肃的行业专家肖像及醒目的编辑风格排版。
+
+画布：2:3 竖版海报，深色高端企业风格，黑色至炭灰色的晕影背景，主体后方带有柔和的灰色光晕，高对比度，电影级布光。
+
+主体：居中一位 35 至 45 岁左右的东亚男性专家，短黑发，戴黑色圆框眼镜，表情冷静严肃，直视镜头。身穿黑色西装或深色西装外套。姿势为身体前倾，双手在下巴下方交握，肘部位于画面下方。采用写实的摄影棚人像摄影风格，面部细节清晰，情绪化侧光，浅景深。
+
+布局：肖像占据海报上方三分之二。将文本块放置在下半部分，左对齐，确保不遮挡面部。在标题上方的左下角放置一个巨大的白色引号。在主文本块左侧添加一条细长的红色垂直线，以及小的红色装饰线。
+
+文本内容：包含 1 个超大号白色起始引号。在标题上方包含 2 个小标签：一个带有白色中文“行业观察”的红色矩形标签，后跟一个灰色小标签“专栏”。包含 1 个醒目的白色大号中文标题：“当增长放缓，真正的竞争才开始”。下方包含 3 行洞察要点，每行配有白色小图标和红色装饰：1) “需求进入存量时代，增长逻辑全面重构”配上升图表图标，2) “从规模扩张转向效率提升，组织能力是关键”配人物图标，3) “技术与场景深度结合，构建可持续的竞争壁垒”配目标图标。在左下角包含 1 个作者栏：“张睿 资深行业分析师”，下方为“专注产业研究与企业战略”。
+
+排版与风格：厚重紧凑的无衬线中文字体作为标题，亮白色文本配以微妙阴影，简洁的小号灰色正文，采用鲜艳的企业红作为点缀。整体氛围应类似于高端会议演讲者海报、商业杂志封面、领导力简介或行业评论卡片。
+
+可自定义字段：使用 {argument name="speaker name" default="张睿"}，{argument name="speaker title" default="资深行业分析师"}，{argument name="headline text" default="当增长放缓，真正的竞争才开始"}，{argument name="category label" default="行业观察"}，以及 {argument name="subtitle label" default="专栏"}。
+
+约束：保持海报深色、极简且高端。不要添加任何 Logo、水印、二维码、额外人物、额外要点或多余的装饰元素。确保所有中文字符清晰可辨且位置准确。
+
+[English]
+Goal: Create a vertical Chinese business keynote quote poster featuring a serious industry expert portrait and bold editorial typography.
+
+Canvas: 2:3 vertical poster, dark premium corporate style, black-to-charcoal vignette background with a soft gray halo behind the subject, high contrast, cinematic lighting.
+
+Main subject: One centered East Asian male expert, about 35–45 years old, short black hair, round black eyeglasses, calm serious expression, looking directly at the viewer. He wears a black suit or dark blazer. Pose him leaning forward with both hands clasped under his chin, elbows implied below frame. Use realistic studio portrait photography, sharp facial detail, moody side lighting, shallow depth of field.
+
+Layout: The portrait fills the upper two thirds of the poster. Place the text block over the lower half, aligned left, leaving the face unobstructed. Use a large white quotation mark at the lower left above the headline. Add a thin vertical red line along the left side of the main text block and small red accent lines.
+
+Text content: Include exactly 1 oversized white opening quotation mark. Include exactly 2 small labels above the headline: a red rectangular label with white Chinese text “行业观察”, followed by a small gray label “专栏”. Include exactly 1 large bold white Chinese headline: “当增长放缓，真正的竞争才开始”. Under it, include exactly 3 insight bullet lines, each with a small white icon and red accent: 1) “需求进入存量时代，增长逻辑全面重构” with an upward chart icon, 2) “从规模扩张转向效率提升，组织能力是关键” with a person icon, 3) “技术与场景深度结合，构建可持续的竞争壁垒” with a target icon. At the bottom left, include exactly 1 author block: “张睿 资深行业分析师” and below it “专注产业研究与企业战略”.
+
+Typography and style: Heavy condensed sans-serif Chinese headline, bright white text with subtle shadow, clean smaller gray body text, red accents in a vivid corporate red. Overall mood should feel like a high-end conference speaker poster, business magazine cover, leadership profile, or industry commentary card.
+
+Customizable fields: Use {argument name="speaker name" default="张睿"}, {argument name="speaker title" default="资深行业分析师"}, {argument name="headline text" default="当增长放缓，真正的竞争才开始"}, {argument name="category label" default="行业观察"}, and {argument name="subtitle label" default="专栏"}.
+
+Constraints: Keep the poster dark, minimalist, and premium. Do not add logos, watermarks, QR codes, extra people, extra bullet points, or extra decorative elements. Ensure all Chinese text is legible and correctly placed.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079859332733407315) | 2026-07-22
+
+---
+
+### 🎴 例 4776：柔和日系肖像海报
+
+![柔和日系肖像海报](../images/%E6%9F%94%E5%92%8C%E6%97%A5%E7%B3%BB%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="creator name" default="wantyou"} 创作一张柔和的日系宣传肖像海报，将梦幻的自然光摄影与优雅的编辑类排版相结合。
+
+画布：竖向 4:5 海报，768 × 960 px 质感，干净的淡天色背景，空气感高调曝光，粉色与薄荷绿的配色方案。
+
+主体：一位 20 岁出头的日本年轻女性，皮肤白皙，深色微乱的齐肩发，留着轻薄的空气刘海，温暖的棕色眼睛，淡淡的腮红，自然妆容。她穿着一件超大号的淡薄荷绿卫衣，长袖遮住部分手部。她双手握拳托腮，双肘并拢，直视镜头，表情羞涩而忧郁。将她的脸部置于画面中心偏右位置，从胸部以上构图，头发顶部靠近画面上方中部。
+
+摄影风格：写实生活化肖像，浅景深，左上方柔和逆光，轻微镜头光晕，过曝的白色天空，细腻的胶片颗粒感，粉彩调色，空气感春日氛围。右下角前景包含模糊的粉色花朵作为大面积虚化光斑，左下角背景有淡淡的城市屋顶或栏杆虚影。
+
+布局与文字：包含 4 个文本块和 2 条细装饰性粉色斜线。文本块 1 为左侧主标题，采用大号竖排日式书法风格粉色字体：{argument name="main vertical headline" default="生きてるって、なぜだか恥ずかしい。"}。文本块 2 为右上角附近的小型竖排粉色说明文字：{argument name="small vertical caption" default="光が、差し込む方へ、少しだけ進もう。"}。文本块 3 为左下角的白色品牌信息，分三行排列：“wantyou.”、“Creator / Physics Artist”、“FUTURE BY CURIOSITY”。文本块 4 为右下角的小型粉色社交账号：{argument name="social handle" default="@wantyouAI"}。在右上角附近添加一条细粉色斜线，在左下角区域附近添加另一条细粉色斜线。
+
+排版：粉色日文文案使用优雅的日式明朝体竖排，字形纤细优美，字间距宽裕。左下角品牌信息使用小型简洁的无衬线白色字体。保持社交账号字号较小且不突兀。
+
+约束条件：不要添加额外的人物、额外的文本块、Logo、边框或水印。保持海报极简、富有情感且具有广告感，以女性的眼睛和大型粉色竖排标题作为主要视觉焦点。
+
+[English]
+Goal: Create a soft Japanese promotional portrait poster for {argument name="creator name" default="wantyou"}, combining dreamy natural-light photography with elegant editorial typography.
+
+Canvas: Vertical 4:5 poster, 768 × 960 px feel, clean pale sky background, airy high-key exposure, pastel pink and mint color palette.
+
+Main subject: A young Japanese woman in her early 20s with fair skin, dark slightly messy shoulder-length hair with wispy bangs, warm brown eyes, subtle blush, and natural makeup. She wears an oversized pale mint-green sweatshirt with long sleeves covering part of her hands. She rests both cheeks in her fists, elbows close together, gazing directly at the camera with a shy, wistful expression. Place her face slightly right of center, cropped from chest upward, with the top of her hair near the upper middle.
+
+Photography style: Realistic lifestyle portrait, shallow depth of field, soft backlighting from the upper left, gentle lens flare, overexposed white sky, delicate film grain, pastel color grading, airy spring atmosphere. Include blurred pink flowers in the lower right foreground as large bokeh shapes, with a faint urban rooftop or railing blur in the lower left background.
+
+Layout and text: Include exactly 4 text blocks and exactly 2 thin decorative diagonal pink lines. Text block 1 is the main headline on the left side in large vertical Japanese calligraphy-style pink type: {argument name="main vertical headline" default="生きてるって、なぜだか恥ずかしい。"}. Text block 2 is a small vertical pink caption near the upper right: {argument name="small vertical caption" default="光が、差し込む方へ、少しだけ進もう。"}. Text block 3 is bottom-left white branding in three lines: “wantyou.”, “Creator / Physics Artist”, “FUTURE BY CURIOSITY”. Text block 4 is a small pink social handle at the bottom right: {argument name="social handle" default="@wantyouAI"}. Add one thin diagonal pink line near the upper right corner and one thin diagonal pink line near the lower left area.
+
+Typography: Use elegant Japanese Mincho-style vertical type for the pink Japanese copy, thin and graceful with generous spacing. Use small clean sans-serif white text for the bottom-left branding. Keep the handle small and unobtrusive.
+
+Constraints: Do not add extra people, extra text blocks, logos, borders, or watermarks. Keep the poster minimal, emotional, and advertisement-like, with the woman’s eyes and the large pink vertical headline as the main focal points.
+```
+
+**来源：** [@wantyou.](https://x.com/wantyouAI/status/2079820847284695456) | 2026-07-22
+
+---
+
+### 🎴 例 4789：Human Fragments 编辑排版海报
+
+![Human Fragments 编辑排版海报](../images/Human%20Fragments%20%E7%BC%96%E8%BE%91%E6%8E%92%E7%89%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张以人为核心瞬间的 9:16 编辑排版海报。
+
+使用超大、裁剪过的字母作为主要构图结构。将环境嵌入字体形状中，同时人物、肢体动作或前景物体以强烈的透视感穿透字母。排版应塑造图像，而非仅仅叠加在图像之上。
+
+场景：{argument name="scene" default="[轮滑 / 游泳 / 骑行 / 咖啡小憩]"}
+主体：{argument name="subject" default="[年轻亚裔女性 / 西方男性 / 亚裔男性 / 西方女性]"}
+标题：{argument name="title" default="[自定义双词标题]"}
+系列：HUMAN FRAGMENTS
+年份：2026 年
+
+4 个方向：
+
+1. ROLL SIGNAL — 一位轮滑者滑过镜头，一只轮滑鞋在前景放大，身体和城市场景穿过巨大的字母。
+
+2. BLUE CURRENT — 一位游泳者在绿松石色的水中穿行，一只手臂伸向镜头，水流和浪花填充并突破排版的边界。
+
+3. CITY LOOP — 一位骑行者在城市街道转弯，前轮因透视而放大，并与圆形的字体形态在视觉上相连。
+
+4. BREW PAUSE — 一个安静的咖啡馆时刻，手和咖啡杯靠近镜头，而人物和窗外场景则交织在超大字体中。
+
+使用写实摄影，呈现自然的皮肤和织物纹理、逼真的水流与动态、细腻的纸张颗粒感、强烈的留白以及克制的配色方案。
+
+[English]
+Create a 9:16 editorial typography poster built around one human-centered moment.
+
+Use oversized, cropped letters as the main composition structure. Embed the environment inside the letterforms, while the person, body movement, or a foreground object breaks through the letters with strong perspective. The typography should shape the image, not simply sit on top of it.
+
+Scene: {argument name="scene" default="[roller skating / swimming / cycling / coffee break]"}
+Subject: {argument name="subject" default="[young Asian woman / Western man / Asian man / Western woman]"}
+Title: {argument name="title" default="[custom two-word title]"}
+Series: HUMAN FRAGMENTS
+Year: 2026
+
+4 directions:
+
+1. ROLL SIGNAL — a roller skater gliding past the camera, one skate enlarged in the foreground, body and urban scene passing through giant letters.
+
+2. BLUE CURRENT — a swimmer moving through turquoise water, one arm reaching toward the camera, water and splashes filling and breaking beyond the typography.
+
+3. CITY LOOP — a cyclist turning through a city street, the front wheel enlarged by perspective and visually connected with circular letterforms.
+
+4. BREW PAUSE — a quiet café moment, with the hand and coffee cup closer to the camera while the person and window scene are woven into oversized type.
+
+Use realistic photography, natural skin and fabric, believable water and motion, subtle paper grain, strong negative space, and a restrained color palette.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2079772046565769564) | 2026-07-22
+
+---
+
+### 🎴 例 4798：丁香哈尔滨早安海报
+
+![丁香哈尔滨早安海报](../images/%E4%B8%81%E9%A6%99%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="哈尔滨"} 创作一张空灵的宽屏早安海报，融合浅色冬日城市风光、丁香花、薄雾、颗粒感以及优雅的中文字体。
+
+画布：16:9 横向海报，柔和的白至冰蓝色背景，留白充裕，空气感编辑排版，高调曝光，淡淡的胶片颗粒感，粉状雾气，以及薰衣草蓝调色。
+
+主体场景：在下三分之一处，展示梦幻般的哈尔滨雪后河畔城市景观，笼罩在淡蓝色薄雾中。在左下中心位置放置一座柔和渲染的东正教风格洋葱头圆顶教堂，远处是逐渐隐没在中间的现代天际线建筑和桥梁，前景为冰封或雾气缭绕的河流。在左边缘和底边缘点缀失焦的丁香花和半透明的紫色花瓣。画面中加入细小的雪花颗粒和颗粒状雾气。
+
+排版与布局：使用大型、纤细、优雅的中文衬线字体，采用蓝至薰衣草色的渐变。在左上中部放置巨大的标题“哈尔滨”。在其下方，添加小号大写英文字符“HARBIN / COOL MORNING AIR”，随后是日期 {argument name="date" default="2026-07-22"}，以及间距拉开的大写“GOOD MORNING”。在右侧中部，放置一个更大的中文短语“早安”，字体非常轻盈优雅，字间距宽敞。
+
+文本元素：包含 17 个可见的文本元素：1) 左上角附近带有小紫点的“lilac air”，2) 大号中文标题“哈尔滨”，3) “HARBIN / COOL MORNING AIR”，4) {argument name="date" default="2026-07-22"}，5) 日期下方的“GOOD MORNING”，6) 左侧的“northern light”，7) 左下角附近的“07:22”，8) 07:22 下方的“city note”，9) 中心附近的“市花 | 丁香”，10) 其下方的“CITY FLOWER”，11) 其下方的“LILAC”，12) 中下部河流附近的“松花江”，13) 其下方的“SONGHUA RIVER”，14) 右上角附近的小号“GOOD MORNING”，15) “-18°C”及下方带有微小雪花图标的“feels like northern breeze”，16) 右侧附近的“HARBIN”，17) 右下角附近的“ice city winter charm”。
+
+引言：在右下象限，添加一个精致的小型中文引言块：{argument name="quote" default="今日金句 | 愿清晨的风，替你把今天轻轻打开。"}，并在附近配以一个淡淡的超大号右引号。
+
+图形细节：在右侧“早安”周围及画面中心添加精致的细线星座风格连接线，并配以小型圆形节点；总共包含约 10 个节点，混合实心紫色圆点和空心圆圈。使用微妙的对角线，营造出极简主义天气图或诗意城市注释的感觉。在温度附近添加一个微小的雪花图标。
+
+视觉风格：柔和的 GPT-2 美学，丁香空气感，清晨冷雾，层叠透明度，电影级雾气，细腻颗粒感，优雅的中式编辑设计，柔和薰衣草色、冰青色、柔和长春花色、白色光晕，宁静且乐观。
+
+约束条件：无人物，无强烈对比，无饱和色彩，无重阴影，无水印，保持构图宽敞精致，确保所有文字清晰但细腻。
+
+[English]
+Goal: Create an ethereal widescreen morning poster for {argument name="city name" default="Harbin"}, combining pale winter city scenery, lilac blossoms, mist, grain, and elegant Chinese typography.
+
+Canvas: 16:9 horizontal poster, soft white-to-icy-blue background with lots of negative space, airy editorial layout, high-key exposure, faint film grain, powdery fog, and lavender-blue color grading.
+
+Main scene: Along the lower third, show a dreamy snowy riverside cityscape of Harbin in pale blue haze. Place a softly rendered Orthodox-style cathedral with onion domes in the lower-left center, distant modern skyline towers and a bridge fading across the middle, and a frozen or misty river in the foreground. Frame the left edge and bottom edge with out-of-focus lilac blossoms and translucent purple petals. Add tiny snow-like specks and granular mist throughout.
+
+Typography and layout: Use large, thin, elegant Chinese serif characters with a blue-to-lavender gradient. On the left upper-middle, place the huge title “哈尔滨”. Beneath it, add small uppercase English text “HARBIN / COOL MORNING AIR”, then the date {argument name="date" default="2026-07-22"}, then spaced uppercase “GOOD MORNING”. On the right middle, place an even larger Chinese phrase “早安”, very light and graceful, with generous spacing.
+
+Text elements: Include exactly 17 visible text elements: 1) “lilac air” with a small purple dot near the upper left, 2) the large Chinese title “哈尔滨”, 3) “HARBIN / COOL MORNING AIR”, 4) {argument name="date" default="2026-07-22"}, 5) “GOOD MORNING” under the date, 6) “northern light” on the left side, 7) “07:22” near the bottom left, 8) “city note” below 07:22, 9) “市花 | 丁香” near the center, 10) “CITY FLOWER” below it, 11) “LILAC” below it, 12) “松花江” near the center-lower river, 13) “SONGHUA RIVER” below it, 14) small “GOOD MORNING” near the top right, 15) “-18°C” with “feels like northern breeze” under a tiny snowflake icon, 16) “HARBIN” near the right side, 17) “ice city winter charm” near the bottom right.
+
+Quote: In the lower-right quadrant, add a small refined Chinese quote block: {argument name="quote" default="今日金句 | 愿清晨的风，替你把今天轻轻打开。"} with a faint oversized closing quotation mark nearby.
+
+Graphic details: Add delicate thin-line constellation-style connectors with small circular nodes around the right-side “早安” and across the center; include about 10 nodes total, mixing filled purple dots and hollow circles. Use subtle diagonal lines that feel like a minimalist weather map or poetic city annotation. Add a tiny snowflake icon near the temperature.
+
+Visual style: Soft GPT-2 aesthetic, lilac air, cool morning haze, layered transparency, cinematic mist, fine grain, elegant Chinese editorial design, pastel lavender, icy cyan, muted periwinkle, white glow, tranquil and optimistic.
+
+Constraints: No people, no harsh contrast, no saturated colors, no heavy shadows, no watermark, keep the composition spacious and refined, with all text legible but delicate.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2079731990899892352) | 2026-07-22
+
+---
+

@@ -5724,3 +5724,21 @@ Transform the character in the first reference image [Your image] into a {argume
 
 ---
 
+### 🧸 例 4762：3D 国漫风格樱花校服少女肖像
+
+![3D 国漫风格樱花校服少女肖像](../images/3D%20%E5%9B%BD%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%A8%B1%E8%8A%B1%E6%A0%A1%E6%9C%8D%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张令人惊叹的竖版 3D 国漫风格肖像，主角为 {argument name="character name" default="一位年轻女性"}，置身于浪漫的樱花氛围中。保留真实而理想化的面部特征，包括柔和的自然五官、温暖的棕色双眸、精致的眉毛、小巧笔挺的鼻梁、饱满的粉色嘴唇、白皙的皮肤，以及直视镜头时平静温柔的神情。她留着 {argument name="hair color" default="暖栗棕色"} 的长发，扎成高马尾，发丝飘逸，脸颊两侧留有碎发，右侧装饰着半透明的白色花朵发饰和水晶质感的珠子。身穿干练的白色翻领校服衬衫，袖口微卷，颈间系着深酒红色蝴蝶结，搭配同色系的百褶裙。采用略带俯视的动态四分之三侧面视角，她呈坐姿或前倾姿态，双肩微侧，一只手臂向下延伸至画框外，裙摆在画面下方柔和地铺开。背景为梦幻的深酒红色与炭灰色虚化场景，右上角点缀着淡粉色的樱花枝桠，空气中飘散着许多白色花瓣。运用电影级柔光、通透的皮肤质感、浅景深效果、发丝边缘的柔和轮廓光、逼真的布料褶皱、具有动漫写实感的明亮双眼，呈现高细节的 3D 渲染效果，展现优雅的国漫幻想美学，色调温暖浪漫，画面中不包含任何文字、水印或多余字符。
+
+[English]
+Create a breathtaking vertical 3D Guoman-style portrait of {argument name="character name" default="a young woman"} in a romantic cherry-blossom atmosphere, preserving a realistic yet idealized facial identity with soft natural features, warm brown eyes, delicate eyebrows, a small straight nose, full pink lips, fair skin, and a calm gentle expression looking directly at the viewer. She has long {argument name="hair color" default="warm chestnut-brown"} hair gathered into a high flowing ponytail with loose face-framing strands, decorated on the right side with translucent white flower hair ornaments and crystal-like beads. Dress her in a crisp white collared school blouse with sleeves rolled slightly, a deep burgundy ribbon bow at the neck, and a matching burgundy pleated skirt. Pose her seated or leaning forward in a dynamic three-quarter view from slightly above, shoulders angled, one arm extending downward out of frame, with the skirt fanning softly across the lower image. The background is a dark dreamy burgundy and charcoal bokeh scene with branches of pale cherry blossoms in the upper right and many drifting white petals throughout the air. Use cinematic soft lighting, luminous skin shading, shallow depth of field, gentle rim light on hair, realistic fabric folds, glossy anime-realism eyes, high-detail 3D rendering, elegant Guoman fantasy aesthetic, warm romantic color grading, and no text, watermark, or extra characters.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2079893844909510768) | 2026-07-22
+
+---
+

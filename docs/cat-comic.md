@@ -7477,3 +7477,77 @@ Constraints: Use exactly 16 numbered panels and no extra panels. Keep the same t
 
 ---
 
+### 🎬 例 4743：雨中快递分镜故事
+
+![雨中快递分镜故事](../images/%E9%9B%A8%E4%B8%AD%E5%BF%AB%E9%80%92%E5%88%86%E9%95%9C%E6%95%85%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个水彩分镜页面，讲述一个安静而神秘的投递故事，主角为 {argument name="character name" default="一位年长的女快递员"} 和她的狗。
+
+画布：正方形图像，在白纸上呈现 3x3 分镜网格，带有细黑色间隙，采用柔和的水彩与墨水插画风格。在顶部和底部各添加一条黑色横带，中间均印有白色文字“Qwen Image 3.0”。
+
+视觉风格：柔和的雨中城市水彩，柔和的灰色和绿色调，松散的墨水轮廓，轻柔的水洗背景，面板边缘略带暗角，具有电影感但呈现手绘质感。在所有相关面板中保持主角一致：一位 60 多岁的女性，留着银色短发，戴着红色圆框眼镜，穿着 {argument name="raincoat color" default="芥末黄"} 雨衣，戴着深色手套，穿着靴子，牵着一只系着蓝色牵引绳的小棕色腊肠犬。氛围安静、悬疑且忧郁。
+
+布局：精确的 9 个面板，呈 3x3 网格排列。每个面板左上角有一个带有黑色轮廓和黑色数字的白色小圆圈，编号从 1 到 9。面板之间使用细黑色分割线。部分面板包含手写打字机字体的小标题框。
+
+逐格内容，共 9 个面板：
+1. 编号 1。黎明时分大雨中的广角镜头：老妇人站在一栋老式联排别墅的绿色前门处，伸手去按门铃或转动门把手，棕色腊肠犬站在潮湿的人行道上。背景是乔治亚风格的街道，有反光的积水和铁栏杆。标题框：“7:02 AM — 最后一次投递。”
+2. 编号 2。特写镜头：她戴着手套的手拿着一个用红绳系着的棕色纸包裹。包裹标签上写着 {argument name="parcel label" default="Alder Lane 4B 单元"}。背景为雨中的灰色。
+3. 编号 3。街景：妇人和腊肠犬在雨中的路边等待，背景中一辆城市公交车驶过，车灯倒映在湿漉漉的马路上。标题框：“城市从不等待。”
+4. 编号 4。低角度仰拍老旧公寓楼的外立面：浅色石墙、高大的窗户、绿色门、铁栅栏，雨水落下。妇人从左下角抬头看向大楼，可以看到她的红色眼镜。
+5. 编号 5。金属公寓门铃面板特写，清晰可见六个按钮，分别标有 1A、4B、2A、3B、4A，以及一个部分可见的下方按钮。一只沾满泥土的手套手指正按下 4B 按钮。
+6. 编号 6。黑暗狭窄的门缝打开：一个年轻男人的脸从门内缝隙中窥视，半张脸隐没在阴影中，表情焦虑。标题框：{argument name="whisper caption" default="“你迟到了，”他低声说道。"}
+7. 编号 7。特写镜头：包裹在黑暗的雨中门口被递出，红绳系成整洁的蝴蝶结，背景中有雨水划过的痕迹。
+8. 编号 8。背影镜头：年长的妇人牵着系着蓝色牵引绳的腊肠犬，沿着雨中的街道走远。空旷的城市人行道，反光的地面，安静的联排别墅和树木逐渐消失在薄雾中。
+9. 编号 9。最终定格镜头：从外部拍摄同一扇绿色联排别墅门，门现已关闭，红绳挂在门上或系在门附近。潮湿的人行道和栏杆旁稀疏的植物。标题框：{argument name="final caption" default="但她其实什么也没投递。"}
+
+约束：在所有面板中保持主角形象一致。使用精确的 9 个编号面板和指定的标题。不要添加额外的对话气泡、额外角色或额外面板。保持神秘的雨中清晨氛围和手绘分镜外观。
+
+[English]
+Goal: Create a watercolor storyboard page showing a quiet, mysterious delivery story starring {argument name="character name" default="an elderly woman courier"} and her dog.
+
+Canvas: Square image with a 3x3 storyboard grid on white paper, thin black gutters, soft watercolor-and-ink illustration. Add a black horizontal band at the top and bottom, each with centered white text reading “Qwen Image 3.0”.
+
+Visual style: Gentle rainy-city watercolor, muted grays and greens, loose ink outlines, softly washed backgrounds, slightly vignetted panel edges, cinematic but hand-painted. Keep the same protagonist in every relevant panel: a woman in her 60s with short silver hair, round red glasses, a {argument name="raincoat color" default="mustard yellow"} raincoat, dark gloves, boots, and a small brown dachshund on a blue leash. The mood is quiet, suspenseful, and melancholic.
+
+Layout: Exactly 9 panels in a 3 by 3 grid. Each panel has a small white circle with a black outline and black number at the top-left corner, numbered 1 through 9. Use thin black dividers between panels. Some panels include small caption boxes in a handwritten typewriter-like font.
+
+Panel-by-panel content, exactly 9 panels:
+1. Numbered 1. Wide view at dawn in heavy rain: the elderly woman stands at the green front door of an old townhouse, reaching toward the doorbell or knob, with her brown dachshund beside her on the wet pavement. Georgian-style street in the background, reflective puddles, iron railings. Caption box: “7:02 AM — The last delivery.”
+2. Numbered 2. Close-up of her gloved hands holding a brown paper parcel tied with red string. The parcel label reads {argument name="parcel label" default="Unit 4B, Alder Lane"}. Rainy gray background.
+3. Numbered 3. Street scene: the woman and dachshund wait near a curb in rain while a city bus passes in the background, headlights reflected in the wet road. Caption box: “The city never waits.”
+4. Numbered 4. Low-angle view of the old apartment building facade: pale stone walls, tall windows, green door, iron fence, rain falling. The woman looks up at the building from the lower left, her red glasses visible.
+5. Numbered 5. Close-up of a metal apartment buzzer panel with exactly six visible buttons labeled 1A, 4B, 2A, 3B, 4A, and one partially visible lower button. A muddy gloved finger presses the 4B button.
+6. Numbered 6. Dark, narrow door opening: a young man’s face peers through the crack from inside, half hidden in shadow, anxious expression. Caption box: {argument name="whisper caption" default="You’re late,” he whispered."}
+7. Numbered 7. Close-up of the parcel being handed forward against a dark rainy doorway, red string tied in a neat bow, water streaks in the background.
+8. Numbered 8. Rear view of the elderly woman walking away down the rainy street with her dachshund on the blue leash. Empty city sidewalk, reflective pavement, quiet townhouses and trees fading into mist.
+9. Numbered 9. Final static shot of the same green townhouse door from outside, now closed, with the red string hanging from or tied near the door. Wet pavement and sparse plants by the railings. Caption box: {argument name="final caption" default="But she never delivered anything at all."}
+
+Constraints: Keep the protagonist consistent across all panels. Use exactly 9 numbered panels and exactly the captions specified. Do not add extra speech bubbles, extra characters, or extra panels. Maintain a mysterious rainy morning atmosphere and a hand-painted storyboard look.
+```
+
+**来源：** [@stevibe](https://x.com/stevibe/status/2079959566268465399) | 2026-07-22
+
+---
+
+### 🎬 例 4746：月下古筝演奏者漫画
+
+![月下古筝演奏者漫画](../images/%E6%9C%88%E4%B8%8B%E5%8F%A4%E7%AD%9D%E6%BC%94%E5%A5%8F%E8%80%85%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的黑白漫画插画，描绘一位宁静、中性化的日本年轻音乐家在夜晚弹奏古筝。角色拥有 {argument name="hair color" default="银灰色"} 的长层叠发型，松散的刘海遮住部分眼睛，右肩垂下一条粗辫子，面部轮廓精致，双眼低垂紧闭，神情忧郁而安静。他们穿着传统的 {argument name="outfit" default="浅色和服，搭配深色腰带和半透明花卉羽织"}，衣袖上有柔和的褶皱和细腻的花纹。前景中展示双手正在拨动古筝琴弦，手指修长优雅，多根手指上戴着黑色义甲或戒指；古筝占据画面下方三分之一，清晰可见木纹、琴码以及向远处延伸的平行琴弦。场景设定在古老的日式房间或走廊，背景中有木梁、障子门框、阴影中的架子和挂轴，通向月光下的庭院。室外包含一轮满月、几簇绣球花、茂密的灌木丛和一座小型石灯笼。运用来自左侧的戏剧性月光、深邃的阴影、高细节的排线、精细的墨线、灰度色调、电影般的对比度，以及略微低角度的特写视角，聚焦于音乐家的双手和忧伤的面容。无现代物品，无色彩，无文字，无水印。
+
+[English]
+Create a vertical black-and-white manga illustration of a serene, androgynous young Japanese musician playing a koto at night. The character has {argument name="hair color" default="silver-gray"} long layered hair with loose bangs partly covering the eyes and one thick braid draped over the right shoulder, delicate facial features, downcast closed eyes, and a quiet melancholy expression. They wear a traditional {argument name="outfit" default="light kimono with a dark obi and a translucent floral haori"}, with soft folds and subtle flower patterns on the sleeves. Show both hands in the foreground actively plucking the koto strings, with long elegant fingers and black finger picks or rings on multiple fingers; the koto fills the lower third of the image with visible wood grain, bridges, and taut parallel strings receding in perspective. Set the scene in an old Japanese room or veranda with wooden beams, shoji-style framing, shelves and hanging scrolls in shadow, opening to a moonlit garden. Outside, include exactly one full moon, clusters of hydrangea flowers, leafy shrubs, and one small stone lantern. Use dramatic moonlight from the left, deep shadows, high-detail crosshatching, fine ink linework, grayscale tones, cinematic contrast, and a slightly low close-up perspective focused on the musician’s hands and sorrowful face. No modern objects, no color, no text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079951164611907719) | 2026-07-22
+
+---
+

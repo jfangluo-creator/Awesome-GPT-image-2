@@ -11660,3 +11660,75 @@ Create a glamorous full-body red carpet fashion image in a photorealistic live-a
 
 ---
 
+### 🏷️ 例 4727：定制化日式痛车 (Itasha) 设计师
+
+![定制化日式痛车 (Itasha) 设计师](../images/%E5%AE%9A%E5%88%B6%E5%8C%96%E6%97%A5%E5%BC%8F%E7%97%9B%E8%BD%A6%20(Itasha)%20%E8%AE%BE%E8%AE%A1%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张插图。根据上传的插图，完全原创地设计一辆日式痛车。设计一辆完全虚构的车辆及其制造商，使其自然地诞生于该艺术作品的世界观中，且不得与任何现实中的车辆或品牌相似。首先，仔细分析上传的插图，确定最适合的单一车辆类别。该选择必须源于角色的性格、世界观、文化、技术、建筑、生活方式和氛围。车辆可以是 {argument name="vehicle type" default="轻自动车 (kei car)、掀背车、轿车、旅行车、轿跑车、豪华轿车、SUV、皮卡、微型面包车、露营车、多功能车、军用车辆、豪华车、复古未来主义车辆、魔法车辆"} 或其他原创类型。切勿默认使用相同的车辆类别。每张插图都必须从完全空白的设计过程开始，并产出一辆具有独特车身结构、比例、车顶线条、驾驶舱位置和驾驶用途的车辆。仅在上传的插图明确且自然地需要时，才选择跑车、赛车、GT 赛车和超级跑车。车身形状、比例、驾驶舱、车轮、灯光、材质、内饰以及每一个设计细节，都必须从插图的氛围、色彩、时尚、建筑、魔法、技术和世界观中自然演变而来。所有贴纸、标志、符号、排版、徽章和赞助商风格的图形，都必须是完全原创的虚构设计，且仅受上传插图的启发。如果存在角色，请保留其原始面部、发型、服装风格、颜色、比例和个性，并将角色自然地放置在车辆旁边或与车辆互动。以 {argument name="format" default="竖向 9:16"} 的格式构图。确保整辆车保持可见，同时使角色成为主要的视觉焦点。使用 {argument name="perspective" default="具有戏剧性的低角度视角"}，以突出角色和车辆，打造出极具冲击力的智能手机壁纸构图。电影级汽车摄影、动漫风格的写实主义、杰作级质量、超高细节、动态光影、戏剧性反射，无水印。
+
+[English]
+Create an illustration. Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional vehicle and manufacturer naturally born from the artwork's universe, never resembling any real vehicle or brand. First, carefully analyze the uploaded illustration and determine the single most suitable vehicle category. The choice must arise naturally from the character, worldbuilding, culture, technology, architecture, personality, lifestyle, and atmosphere. The vehicle may be a {argument name="vehicle type" default="kei car, hatchback, sedan, wagon, coupe, limousine, SUV, pickup, microvan, camper, utility vehicle, military vehicle, luxury vehicle, retro-futuristic vehicle, magical vehicle"}, or another original type. Never default to the same vehicle category. Each illustration must begin from a completely blank design process and produce a vehicle with a unique body architecture, proportions, roofline, cabin position, and driving purpose. Sports cars, race cars, GT cars, and supercars must only be chosen when the uploaded illustration clearly and naturally requires them. The body shape, proportions, cockpit, wheels, lighting, materials, interior, and every design detail must naturally evolve from the illustration's atmosphere, colors, fashion, architecture, magic, technology, and worldbuilding. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be completely original fictional designs inspired only by the uploaded illustration. If a character exists, preserve the original face, hairstyle, clothing style, colors, proportions, and personality, and place the character naturally beside or interacting with the vehicle. Compose the illustration in a {argument name="format" default="vertical 9:16"} format. The full vehicle must remain visible while the character becomes the primary focal point. Use a {argument name="perspective" default="dramatic low-angle perspective"} that emphasizes both the character and the vehicle, creating a powerful smartphone wallpaper composition. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality, ultra detailed, dynamic lighting, dramatic reflections, no watermark.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2080054389117771797) | 2026-07-22
+
+---
+
+### 🏷️ 例 4733：高端 X 品牌形象肖像
+
+![高端 X 品牌形象肖像](../images/%E9%AB%98%E7%AB%AF%20X%20%E5%93%81%E7%89%8C%E5%BD%A2%E8%B1%A1%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高端 X/Twitter 品牌形象肖像，主角为 {argument name="subject description" default="一位年轻的黑人男性，留着黑色短发，肤色为光滑的中等深色，面部干净利落，表情沉稳自信"}，他从一面时尚的哑光浅灰色墙壁上切割出的巨大三维 X 标志中探出。X 标志应占据画面主体，呈对角倾斜，呈现为带有斜面金属灰边缘的深凹建筑切口，内部表面为深海军蓝，内斜面上带有微妙的电蓝色装饰灯光。主角从 X 标志的左中位置探出，直视镜头，身穿 {argument name="shirt color" default="一件纯白色超大款 T 恤"}；展示他的头部、肩膀、上半身，以及两只清晰可见的手，双手抓在切口的左边缘，一只手位于肩部高度，另一只手位于胸部下方高度。采用 1:1 正方形构图，电影级浅景深，高端社交媒体个人资料美学，逼真的摄影棚摄影效果，清晰的面部细节，来自左上方的柔和定向光，墙上投下柔和的阴影，标志内部带有冷蓝色高光，营造出精致的高端科技品牌氛围。保持背景简洁，无文字、无水印、无额外物体，除单个巨大的 X 形状外，不包含任何其他标志。
+
+[English]
+Create a premium X/Twitter branding portrait featuring {argument name="subject description" default="a young Black man with short black hair, smooth medium-dark skin, clean-shaven face, and a calm confident expression"} emerging from inside a giant three-dimensional X logo cut through a sleek matte light-gray wall. The X should dominate the frame, tilted diagonally and rendered as a deep recessed architectural cutout with beveled metallic gray edges, dark navy-blue interior surfaces, and subtle electric-blue accent lighting along the inner bevels. The subject leans out from the left-center opening of the X, looking directly at the camera, wearing {argument name="shirt color" default="a plain white oversized T-shirt"}; show his head, shoulders, upper torso, and exactly two visible hands gripping the left edge of the cutout, one near shoulder height and one near lower chest height. Use a square 1:1 composition, cinematic shallow depth of field, premium social-media profile aesthetic, realistic studio photography, crisp facial detail, soft directional lighting from the upper left, gentle shadows on the wall, cool blue highlights inside the logo, and a polished high-end tech-brand mood. Keep the background minimal with no text, no watermark, no extra objects, and no additional logos beyond the single giant X shape.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2080028773521428738) | 2026-07-22
+
+---
+
+### 🏷️ 例 4754：二值化可通行区域遮罩
+
+![二值化可通行区域遮罩](../images/%E4%BA%8C%E5%80%BC%E5%8C%96%E5%8F%AF%E9%80%9A%E8%A1%8C%E5%8C%BA%E5%9F%9F%E9%81%AE%E7%BD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为俯视视角电子游戏地图创建一个纯黑白色的二值化可通行区域遮罩。使用 1:1 的正方形画布（约 768×768 像素），背景为纯黑色，中间包含一个单一连通的白色不规则区域，代表可通行地面。白色形状应类似于奇幻地下城或岛屿的轮廓：拥有宽阔的中心垂直开放区域、锯齿状的有机边缘，以及向左右两侧延伸的狭窄走廊和突出房间。在中心白色区域周围精确包含 6 个显著的侧面特征：左上方有一个通过细颈连接的大型圆形平台；左下方有一个通过蜿蜒走廊连接的较小蘑菇状平台；左上边缘有一个锯齿状的新月形突出部；右上角有一个不规则的房间，内部带有三个狭窄的黑色垂直切口；右侧中心边缘有一个大型黑色封闭团块状障碍物，带有弯曲的钩状尖端；右下方有一个圆形的房间状突出部，被黑色负空间部分隔开。添加若干小型三角形缺口和像素阶梯状的锯齿边缘，但必须严格保持图像仅有两种颜色：纯白色代表可通行空间，纯黑色代表不可通行空间。无文字、无灰度、无抗锯齿、无阴影、无透视、无纹理；边缘应略显像素化，呈现出遮罩效果，如同专为 SDF 或碰撞地图转换而设计。
+
+[English]
+Create a pure black-and-white binary walkable-area mask for a top-down video game map. Use a square 1:1 canvas, about 768×768 pixels, with a solid black background and a single connected irregular white region representing traversable ground. The white shape should resemble a fantasy dungeon/island silhouette: a broad central vertical open area, jagged organic edges, narrow corridors and protruding rooms branching left and right. Include exactly 6 prominent side features around the central white mass: 1 large rounded oval platform on the upper left connected by a thin neck, 1 smaller mushroom-like platform on the lower left connected by a winding corridor, 1 jagged crescent-shaped protrusion at the upper left edge, 1 irregular upper-right chamber with three narrow black vertical cutouts inside it, 1 large black enclosed blob-like obstacle intruding from the right-center edge with a curled hook tip, and 1 round lower-right room-like protrusion partially separated by black negative space. Add several small triangular notches and pixel-stepped jagged edges, but keep the image strictly two colors only: pure white for walkable space and pure black for non-walkable space. No text, no grayscale, no antialiasing, no shadows, no perspective, no texture; make the edges slightly pixelated and mask-like as if intended for SDF or collision-map conversion.
+```
+
+**来源：** [@じょにがたロボ](https://x.com/jonigata_ai/status/2079917182860116349) | 2026-07-22
+
+---
+
+### 🏷️ 例 4781：Floraverse 植物纤维融合
+
+![Floraverse 植物纤维融合](../images/Floraverse%20%E6%A4%8D%E7%89%A9%E7%BA%A4%E7%BB%B4%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的图像作为参考，同时保留其确切的身份特征、面部结构、表情、眼型、眉毛、睫毛、鼻子、嘴唇、下颌线、耳朵、发型轮廓、身体比例、姿势、构图、摄像机角度、透视、取景以及辨识度。将整个主体转化为奢华的 {argument name="style" default="三维抽象植物纤维组合"}，使图案深度融入每一个可见表面，而非仅仅覆盖在表面。使用流动的层叠花瓣状轮廓、精致的有机纤维、优雅的植物脉络、起伏的植物曲线以及雕塑般的抽象形式来重构面部，在保留所有定义特征的同时，使其自然贴合面部解剖结构。将头发转化为由层叠花瓣、纤细丝状纤维、优雅叶片结构、弯曲花褶和扫掠有机线条组成的浓密流动植物丝带，而非单根发丝，从而创造出丰富的立体感。将这种相互交织的植物图案无缝延伸至服装、配饰和背景，使整个构图看起来如同从同一个连续的植物结构中自然生长出来。渲染时采用丝绸缎面花瓣、天鹅绒般的花卉质感、半透明层叠膜、精细纤维脉络、柔和的雕塑脊线、抛光的有机表面、微妙的环境光遮蔽、逼真的深度以及电影级光影，以呈现高级的 3D 外观。使用由 {argument name="colors" default="深红、绯红、珊瑚红、洋红、金黄、绿松石色、青色、祖母绿、酸橙绿、象牙白和深蓝宝石色"} 组成的鲜艳调色板，并配以明亮的色彩过渡，确保植物图案在整个主体和场景中始终占据主导地位，且细节丰富、抽象且视觉统一。
+
+[English]
+Use the uploaded image as the sole reference while preserving the exact identity, facial structure, expression, eye shape, eyebrows, eyelashes, nose, lips, jawline, ears, hairstyle silhouette, body proportions, pose, composition, camera angle, perspective, framing, and recognizability. Transform the entire subject into a luxurious {argument name="style" default="three-dimensional abstract botanical filament composition"} where the pattern is deeply infused into every visible surface rather than placed on top. Reconstruct the face using flowing layered petal-like contours, delicate organic filaments, elegant floral veins, rippling botanical curves, and sculpted abstract forms that naturally follow the facial anatomy while preserving every defining feature. Transform the hair into dense flowing botanical ribbons composed of layered petals, fine silk-like fibers, graceful leaf structures, curved floral folds, and sweeping organic strands instead of individual hairs, creating rich dimensional volume. Extend the same interconnected floral pattern seamlessly across the clothing, accessories, and background so the entire composition appears organically grown from one continuous botanical structure. Render with silky satin petals, velvety floral textures, translucent layered membranes, fine filament veins, soft sculpted ridges, polished organic surfaces, subtle ambient occlusion, realistic depth, and cinematic lighting for a premium 3D appearance. Use a vibrant palette of {argument name="colors" default="crimson, scarlet, coral, magenta, golden yellow, turquoise, teal, emerald, lime, ivory, and deep sapphire"} with luminous color transitions, ensuring the botanical pattern remains dominant, highly detailed, abstract, and visually integrated throughout the entire subject and scene.
+```
+
+**来源：** [@zayan](https://x.com/HustleXR/status/2079797020416753679) | 2026-07-22
+
+---
+

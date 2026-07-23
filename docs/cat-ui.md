@@ -9469,3 +9469,233 @@ Create a vertical dark mobile app-style gallery screenshot showing two fantasy A
 
 ---
 
+### 🖥️ 例 4725：废墟巨型结构中的孤独身影
+
+![废墟巨型结构中的孤独身影](../images/%E5%BA%9F%E5%A2%9F%E5%B7%A8%E5%9E%8B%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级宽屏科幻概念艺术场景，背景为黑暗、废弃的巨型结构内部。画布比例为 16:9，采用低角度大广角构图，上方是巨大的坍塌黑色金属天花板，锯齿状的建筑残骸形成了对角线剪影。在右下三分之一处，放置一个孤独的女性身影，她留着黑色长发，皮肤苍白，身形纤细，穿着飘逸的黑白叠层长袍或外套；她静静地站在破碎的金属地板上，与宏大的环境相比显得十分渺小，神情平静而神秘，目视前方。场景应呈现出被摧毁的宇宙飞船、轨道空间站或未来城市外壳的内部感：巨大的断裂肋骨、撕裂的面板、悬垂的电缆、弯曲的横梁、破碎的船体板，以及隐没在雾气中的远方结构弧线。利用左侧和角色后方明亮白色开口的强烈背光，营造高对比度、深邃阴影、大气雾霾，以及由黑色、炭灰色、钢灰色和冷白色组成的去饱和单色调。强调角色与环境的无缝融合、史诗般的尺度、电影级构图、逼真的数字绘画质感、锐利的前景剪影、朦胧的纵深感，以及充满末日科幻氛围的意境。无文字，无水印。可选自定义：将孤独的身影设为 {argument name="character gender" default="女性"}，留着 {argument name="hair color" default="黑色"} 头发，穿着 {argument name="outfit style" default="飘逸的黑白叠层长袍或外套"}，置身于 {argument name="ruined structure type" default="被摧毁的宇宙飞船或轨道空间站"} 中，由 {argument name="main light source" default="左侧明亮的白色开口"} 照亮。
+
+[English]
+Create a cinematic wide-screen sci-fi concept art scene in a dark, ruined megastructure interior. The canvas is 16:9, low-angle and very wide, dominated by a massive collapsed black metal ceiling overhead and jagged architectural debris forming diagonal silhouettes. In the lower right third, place one lone female figure with long black hair, pale skin, and a slim silhouette, wearing a flowing dark-and-white layered robe or coat; she stands still on fractured metal flooring, small compared with the immense environment, looking forward with a calm, mysterious presence. The setting should feel like the inside of a destroyed spaceship, orbital station, or futuristic city shell: enormous broken ribs, torn panels, dangling cables, bent beams, shattered hull plates, and distant structural arcs receding into fog. Use strong backlighting from a bright white opening on the left and behind the character, creating high contrast, deep shadows, atmospheric haze, and a desaturated monochrome palette of black, charcoal, steel gray, and cold white. Emphasize seamless integration between character and environment, epic scale, cinematic composition, realistic digital painting texture, sharp foreground silhouettes, misty depth, moody post-apocalyptic science fiction atmosphere, no text, no watermark. Optional customization: make the lone figure {argument name="character gender" default="female"}, with {argument name="hair color" default="black"} hair, wearing {argument name="outfit style" default="a flowing dark-and-white layered robe or coat"}, inside {argument name="ruined structure type" default="a destroyed spaceship or orbital station"}, lit by {argument name="main light source" default="a bright white opening on the left"}.
+```
+
+**来源：** [@Eighth.D](https://x.com/XingQi8_art/status/2080057141780697158) | 2026-07-22
+
+---
+
+### 🖥️ 例 4748：巴黎街头时尚大片
+
+![巴黎街头时尚大片](../images/%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张写实风格的街拍大片，一位时尚女性走在巴黎宁静的街道上，背景是历史悠久的石砌建筑和鹅卵石路面。她留着深棕色头发，扎着凌乱的发髻，佩戴着 {argument name="accessories" default="黑色长方形墨镜、精致的银色吊坠项链和小型圆环耳饰"}，身穿 {argument name="outfit" default="修身黑色圆领长袖上衣、浅色宽松直筒牛仔裤、白灰配色复古运动鞋，并背着一个深棕色麂皮单肩包"}。她一手拿着外带咖啡杯，另一只手随意地插在口袋里。自然阴天晨光，低饱和度中性色调，奢华旅行美学，随性法式女孩风格，极简主义时尚，采用高角度和全身街拍视角拍摄。柔和对比度，浅景深，电影感构图，逼真的皮肤质感，高端生活方式摄影，{argument name="camera lens" default="35mm 镜头"}，高细节，Vogue 杂志大片风格，照片级真实感，8k 分辨率。
+
+[English]
+A candid editorial street-style photo of a stylish woman walking through a quiet Parisian street with historic stone buildings and cobblestone pavement. She has dark brown hair in a messy bun, wears {argument name="accessories" default="black rectangular sunglasses, a delicate silver pendant necklace, and small hoop earrings"}, {argument name="outfit" default="a fitted black long-sleeve crewneck top, light-wash baggy straight-leg jeans, white and gray retro sneakers, and a dark brown suede shoulder bag"}. She holds a takeaway coffee cup in one hand while the other rests casually in her pocket. Natural overcast morning light, muted neutral color grading, luxury travel aesthetic, effortless French-girl style, minimalist fashion, shot from both a high-angle perspective and a full-body street-level perspective. Soft contrast, shallow depth of field, cinematic composition, realistic skin texture, premium lifestyle photography, {argument name="camera lens" default="35mm lens"}, high detail, Vogue editorial, photorealistic, 8k.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2079935974637994027) | 2026-07-22
+
+---
+
+### 🖥️ 例 4752：ChatGPT 移动端照片轮播截图
+
+![ChatGPT 移动端照片轮播截图](../images/ChatGPT%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%85%A7%E7%89%87%E8%BD%AE%E6%92%AD%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个逼真的 ChatGPT 移动端 App 垂直手机截图，展示图像生成结果，采用简洁的 iOS 界面。
+
+画布：9:16 比例的高长手机截图，白色背景，圆角 iPhone 安全区域边缘，底部带有黑色 iOS 主屏幕指示条。顶部状态栏左侧显示 9:33，右侧显示 4 个状态图标：蜂窝信号栏、Wi-Fi 图标、51% 的电池百分比以及电池形状。
+
+布局：顶部导航栏包含 3 个控件：左侧的汉堡菜单图标、右上角附近的编辑/撰写图标，以及最右侧的三个点更多菜单。下方放置一个略微靠右的浅灰色圆角用户消息气泡。气泡下方添加一个写有“思考”的小型灰色标签。标签下方展示一张带有圆角的大型生成照片卡片，接着是一行包含 8 个小型缩略图的水平条。底部显示一个带有加号图标、占位符文本、麦克风图标和蓝色圆形语音按钮的圆角输入栏。
+
+文本内容：用户消息气泡包含中文文本：“{argument name="prompt text" default="Masochist系男友视角斜侧手持手机拍摄风格，风格清新干净，一种随性松弛氛围感，随手记录。绝美，表情随机；ar9:16\n\n连续10张单独图"}”。底部输入框占位符显示为“询问 ChatGPT”。
+
+主照片主体：大型生成图像是一张 {argument name="character description" default="一位留着长黑发的年轻东亚女性"} 的随手抓拍人像，她坐在室内的绿色软垫椅子上，对着镜头温暖地微笑。她穿着 {argument name="outfit" default="米色罗纹背心和宽松的白色长裤"}。姿势显得放松且自然，采用略微倾斜的男友视角手机拍摄角度。她的双手随意放在膝盖附近，表情明亮自然，光线为柔和的日间窗光。
+
+照片内环境：舒适的公寓客厅/餐厅，铺设深色木地板，配有透明白纱帘和深色侧帘，窗外可见绿植，背景中有一张配有高背深色椅子的餐桌。保持照片的真实感，略带不完美和随性，而非影棚级的精致感。
+
+叠加控件：在大照片卡片底部附近包含 2 个半透明圆形叠加按钮：左侧按钮标注为“编辑”，右侧按钮带有上传/分享箭头图标。缩略图条包含 8 个小型圆角预览图，展示同一女性的其他相似人像；最后一个缩略图处于选中状态，带有细微的浅色轮廓。
+
+视觉风格：照片级真实的 iOS 截图，简洁的白色边距，柔和的灰色界面元素，准确的移动端 App 间距，自然的中文 UI 排版，无额外水印，无额外面板，除 1 张主图和 8 张缩略图外，不包含其他生成的图像。
+
+[English]
+Goal: Create a realistic vertical smartphone screenshot of the ChatGPT mobile app showing an image-generation result, in a clean iOS interface.
+
+Canvas: Tall 9:16 phone screenshot, white background, rounded iPhone safe-area edges, black iOS home indicator at the bottom. Status bar at the top shows 9:33 on the left and exactly 4 right-side status items: cellular signal bars, Wi-Fi icon, battery percentage reading 51, and a battery shape.
+
+Layout: Top navigation row contains exactly 3 controls: a hamburger menu icon on the left, a small compose/edit icon near the upper right, and a three-dot more menu at the far right. Below it, place one light-gray rounded user message bubble aligned slightly right. Under the bubble, add a small gray section label reading “思考”. Below the label, show one large generated photo card with rounded corners, then a horizontal strip of exactly 8 small thumbnail images. At the bottom, show one rounded input bar with a plus icon, placeholder text, microphone icon, and a blue circular voice button.
+
+Text content: The user message bubble contains Chinese text: “{argument name="prompt text" default="Masochist系男友视角斜侧手持手机拍摄风格，风格清新干净，一种随性松弛氛围感，随手记录。绝美，表情随机；ar9:16\n\n连续10张单独图"}”. The bottom input placeholder reads “询问 ChatGPT”.
+
+Main photo subject: The large generated image is a casual handheld portrait of {argument name="character description" default="a young East Asian woman with long dark hair"} sitting indoors on a green upholstered chair, smiling warmly at the camera. She wears {argument name="outfit" default="a beige ribbed tank top and loose white pants"}. The pose feels relaxed and candid, shot from a slightly high, tilted boyfriend-perspective phone angle. Her hands rest casually near her lap, her expression is bright and natural, and the lighting is soft daytime window light.
+
+Environment inside the photo: A cozy apartment living/dining room with dark wood floor, sheer white curtains, darker side curtains, a window with greenery outside, and a dining table with tall dark chairs in the background. Keep the photo realistic, slightly imperfect, and spontaneous rather than studio-polished.
+
+Overlay controls: On the large photo card, include exactly 2 translucent circular overlay buttons near the bottom: one left button labeled “编辑” and one right button with an upload/share arrow icon. The thumbnail strip contains exactly 8 small rounded previews showing alternate similar portraits of the same woman; the final thumbnail is selected with a subtle light outline.
+
+Visual style: Photorealistic iOS screenshot, clean white margins, soft gray interface elements, accurate mobile app spacing, natural Chinese UI typography, no extra watermarks, no additional panels, no extra generated images beyond the 1 main image and 8 thumbnails.
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2079924115650256936) | 2026-07-22
+
+---
+
+### 🖥️ 例 4760：Discord 动漫项目分镜动态流
+
+![Discord 动漫项目分镜动态流](../images/Discord%20%E5%8A%A8%E6%BC%AB%E9%A1%B9%E7%9B%AE%E5%88%86%E9%95%9C%E5%8A%A8%E6%80%81%E6%B5%81.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的移动端 Discord 截图，展示一个名为 {argument name="project title" default="After Echos"} 的动漫项目的图像生成频道，界面采用深色主题，并以垂直流形式展示分镜场景图像。
+
+画布：长款智能手机截图，纵向比例，约 670×1200 像素，深炭灰色 Discord UI。底部略微裁剪，使第四张图像仅部分可见。
+
+页眉：顶部显示 Discord 频道页眉，最左侧为返回箭头，带数字 1 的红色通知徽章，井号图标，加粗白色文字显示的频道名称 {argument name="channel name" default="codex-images"}，一个小箭头，一个绿色在线圆点，显示“1 人在线”的日语状态文本，以及右侧的圆形搜索图标。
+
+布局：页眉下方显示一个可滚动的动态流，垂直堆叠 4 张圆角图像帖子。每张帖子包含一张电影感动漫场景图，下方配有灰色文件名样式的标题。使用窄侧边距、圆角图像以及类似 Discord 的间距。
+
+帖子 1：一张阴暗、忧郁、宽画幅的电影感动漫图像，展示了夜晚杂乱的地下工作室或安全屋。一人坐在桌前，面对着多个发光的电脑显示器。房间里有架子、盒子、沙发、矮桌、散落的物品、温暖的台灯、青色的显示器光线，充满粗犷的工业氛围。标题：“AfterEchos SB-S07 v004 / S07-C040”。
+
+帖子 2：一张日间动漫街景，画面中有 2 位主角并肩行走：一位高个子年轻男子，留着凌乱黑发，戴眼镜，穿黑色衬衫和海军蓝长外套；以及一位金发年轻女子，头发扎在脑后，穿着浅色连帽衫、浅色裤子和蓝色刺绣牛仔夹克。背景中有城市行人和店面；右侧被一堵带有绿植的墙遮挡。标题：“AfterEchos SB-S08 v004 / S08-C030”。
+
+帖子 3：一张温暖的室内动漫对话特写，画面中有 2 位可见角色：前景中是那位神情严肃、戴眼镜穿海军蓝外套的黑发年轻男子，以及一位留着白发、戴眼镜、蓄胡须、穿米色高领毛衣的老年男子，从后方/右侧轮廓可见。背景架子上摆放着书本或唱片，在温暖的灯光下。标题：“AfterEchos SB-S10 v004 / S10-C020”。
+
+帖子 4：底部部分可见，一张动漫车辆内部场景，画面中有 3 位可见角色：左侧是戴眼镜的白发老年男子，中间后方是金发年轻女子，右侧是戴眼镜的黑发年轻男子。窗外可见城市建筑。一个悬浮的白色圆形向下箭头按钮覆盖在右下角区域。
+
+视觉风格：嵌入的图像应看起来像精致的日本动漫概念艺术，具有电影般的灯光和细腻的背景，而周围的界面应看起来像真实的 Discord 移动端应用截图。保持所有 UI 文字清晰易读，不要添加额外的水印或无关图标。
+
+[English]
+Goal: Create a realistic mobile Discord screenshot showing an image-generation channel for an anime project called {argument name="project title" default="After Echos"}, with a dark theme interface and a vertical feed of storyboard scene images.
+
+Canvas: Tall smartphone screenshot, portrait orientation, about 670×1200 pixels, dark charcoal Discord UI. Crop the bottom slightly so the fourth image is only partially visible.
+
+Header: At the top, show the Discord channel header with a back arrow on the far left, a red notification badge with the number 1, a hashtag icon, the channel name {argument name="channel name" default="codex-images"} in bold white text, a small chevron, a green online dot, Japanese status text reading 「1人がオンライン」, and a circular search icon on the right.
+
+Layout: Below the header, show a scrollable feed with exactly 4 rounded-corner image posts stacked vertically. Each post has a cinematic anime scene image followed by a gray filename-style caption. Use narrow side margins, rounded image corners, and Discord-like spacing.
+
+Post 1: A dark, moody, wide cinematic anime image of a cluttered underground workspace or safehouse at night. One person sits at a desk facing multiple glowing computer monitors. The room has shelves, boxes, a couch, a low table, scattered objects, warm desk lamps, teal monitor light, and a gritty industrial atmosphere. Caption: “AfterEchos SB-S07 v004 / S07-C040”.
+
+Post 2: A daylight anime street scene with exactly 2 main characters walking side by side: a tall young man with messy black hair, glasses, black shirt, and long navy coat; and a blonde young woman with hair tied back, wearing a pale hoodie, light pants, and a blue embroidered denim jacket. Urban pedestrians and storefronts recede in the background; the right side is shaded by a wall with greenery. Caption: “AfterEchos SB-S08 v004 / S08-C030”.
+
+Post 3: A warm indoor anime conversation close-up with exactly 2 visible characters: the same black-haired young man in glasses and navy coat looking serious in the foreground, and an elderly white-haired man with glasses, beard, and a beige turtleneck seen from behind/right profile. Background shelves contain books or records under warm lamplight. Caption: “AfterEchos SB-S10 v004 / S10-C020”.
+
+Post 4: Partially visible at the bottom, an anime vehicle interior with exactly 3 visible characters: the elderly white-haired man with glasses on the left, the blonde young woman in the center rear, and the black-haired young man with glasses on the right. City buildings are visible through the windows. A floating white circular down-arrow button overlaps the lower-right area.
+
+Visual style: The embedded images should look like polished Japanese anime concept art with cinematic lighting and detailed backgrounds, while the surrounding interface should look like a real Discord mobile app screenshot. Keep all UI text crisp and legible, with no extra watermarks or unrelated icons.
+```
+
+**来源：** [@角煮星丸](https://x.com/_3912657840/status/2079907095907115474) | 2026-07-22
+
+---
+
+### 🖥️ 例 4779：沙漠泳装剪影人像
+
+![沙漠泳装剪影人像](../images/%E6%B2%99%E6%BC%A0%E6%B3%B3%E8%A3%85%E5%89%AA%E5%BD%B1%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="subject" default="年轻日本女性"} 穿着 {argument name="swimsuit style" default="沙色泳装，搭配玫瑰金透明围裹裙"}，裙摆在黄金时刻的风中如天幕般在头顶飘扬。中远景镜头，以 {argument name="setting" default="温暖发光的沙漠地平线"} 为背景呈现戏剧性的剪影，主体位于画面下三分之一处，围裹裙填满上方的负空间。垂直人像构图，2:3 纵横比。渲染呈现摄影级真实感：阴影区域带有细微的 ISO 400 胶片颗粒，避免过度平滑的 CG 质感。皮肤：次表面散射和微纹理。头发：细微的自然瑕疵。
+
+[English]
+A {argument name="subject" default="young Japanese woman"} wears a {argument name="swimsuit style" default="sand-toned swimsuit, a rose-gold sheer wrap"} billowing above her head like a canopy caught in the golden hour wind. Medium wide shot, dramatic silhouette against a {argument name="setting" default="warm glowing desert horizon"}, subject positioned lower third of frame with the wrap filling negative space above. Vertical portrait orientation, 2:3 aspect ratio. Render with photographic realism: subtle ISO 400 film grain in shadow areas, avoid over-smoothed CG textures. Skin: subsurface scattering and micro-texture. Hair: subtle natural imperfection.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2079808660478521744) | 2026-07-22
+
+---
+
+### 🖥️ 例 4784：韩国夏日海滩救生员塔
+
+![韩国夏日海滩救生员塔](../images/%E9%9F%A9%E5%9B%BD%E5%A4%8F%E6%97%A5%E6%B5%B7%E6%BB%A9%E6%95%91%E7%94%9F%E5%91%98%E5%A1%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张超写实电影感梦幻生活方式照片，旨在庆祝 {argument name="year text" default="SUMMER ’26"}，画面中一位年轻的 {argument name="ethnicity" default="Korean"} 女性独自坐在宁静海滩上一座褪色的 {argument name="tower color" default="coral-pink"} 复古救生员塔的上层平台上，采用近距离低角度拍摄。使用更紧凑的构图，聚焦于她的上半身、悬垂的双腿以及风化的木质平台，营造出亲密、宁静且充满青春气息的氛围。救生员塔应呈现出自然的陈旧感和日晒褪色效果，而非崭新或人工感。她随意地坐在平台边缘，身穿浅蓝白条纹无袖连体裤，脚蹬轻便的白色帆布鞋，一顶柔软的米色渔夫帽松散地挂在脑后。手腕上挂着一台小型复古胶片相机，另一只手拿着一支半融化的马卡龙色冰棒。她望向远方的大海，带着温柔且不经意的微笑，流露出宁静的自由感、对夏日的期待以及无尽暑假的感觉。她的深色长发扎成松散的低马尾，几缕发丝在温暖的海风中自然飘动。条纹布料和帽子丝带向同一方向轻轻飘扬。侧栏杆上系着一只半透明的黄色风筝，高高飘浮在上方，增添了灵动的趣味。她身旁放着一条折叠的条纹沙滩巾、一个小贝壳袋和一副复古太阳镜。可爱的彩色手绘涂鸦自然地融入场景中：小贝壳、微笑的太阳、波浪、星星、爱心、闪光、海鸥和迷你小鱼。在开阔的天空中添加手写风格的白色草图文字，如同夏日日记的笔记：“SUMMER ’26”、“sea you soon”、“salt in the air”、“stay golden”。背景是大面积的淡蓝色夏日天空，留白充裕。仅在底部边缘隐约呈现波光粼粼的海平线，保持构图的通透、简洁和情感空间感。明亮的海岸日光，柔和的过曝高光，朦胧的梦幻光晕，微妙的镜头光斑，马卡龙色胶片色调，低对比度，平滑的高光过渡，自然通透的皮肤质感。配色方案：褪色的珊瑚粉、粉蓝色、海沫绿、半透明黄、暖白色、沙米色。风格：电影感编辑生活方式摄影，韩国独立夏日美学，怀旧青春日记氛围，Kodak Portra 160 胶片质感，细腻的胶片颗粒，超细节梦幻写实，自然皮肤纹理，8K，竖构图比例 3:4。
+
+[English]
+An ultra-realistic cinematic dreamy lifestyle photo celebrating SUMMER ’26, featuring a young {argument name="subject" default="Korean woman"} sitting alone on the upper platform of a {argument name="setting" default="faded coral-pink vintage lifeguard tower"} on a quiet seaside beach, captured from a close low-angle perspective.
+
+Use tighter framing focused on her upper body, dangling legs, and the weathered wooden platform, creating an intimate, peaceful, youthful composition. The lifeguard tower should feel naturally aged and sun-faded rather than newly painted or artificial.
+
+She sits casually on the edge of the platform, wearing a {argument name="outfit" default="pale blue-and-white striped sleeveless romper"}, lightweight white canvas sneakers, and a soft cream bucket hat resting loosely behind her head. A small vintage film camera hangs from one wrist, while she holds a half-melted pastel popsicle in the other hand.
+
+She looks toward the distant ocean with a gentle, unposed smile, expressing quiet freedom, summer anticipation, and the feeling of an endless school holiday.
+
+Her dark hair is tied in a loose low ponytail, with wispy strands moving naturally in the warm coastal breeze. The striped fabric and hat ribbon flutter softly in the same direction.
+
+A translucent yellow kite is tied to the side railing, floating high above her and adding playful movement. Beside her are a folded striped beach towel, a small seashell pouch, and a pair of retro sunglasses.
+
+Cute hand-drawn doodles are naturally integrated around the scene: tiny seashells, smiling suns, waves, stars, hearts, sparkles, seagulls, and miniature fish.
+
+Add handwritten-style white sketch text floating across the open sky like notes from a summer diary:
+“SUMMER ’26”
+“sea you soon”
+“salt in the air”
+“stay golden”
+
+A vast pale blue summer sky dominates the background with generous negative space. Show only a thin suggestion of the sparkling ocean horizon near the lower edge, keeping the composition airy, uncluttered, and emotionally spacious.
+
+Bright coastal daylight, soft overexposed highlights, hazy dreamy glow, subtle lens bloom, pastel film tones, low contrast, smooth highlight roll-off, naturally luminous skin.
+
+Color palette: faded coral pink, powder blue, seafoam, translucent yellow, warm white, sandy cream.
+
+Style: cinematic editorial lifestyle photography, Korean indie summer aesthetic, nostalgic youth diary mood, Kodak Portra 160 film look, delicate film grain, ultra-detailed dreamy realism, natural skin texture, 8K, vertical aspect ratio 3:4.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2079780614312485314) | 2026-07-22
+
+---
+
+### 🖥️ 例 4794：画布上的微距油画笔触
+
+![画布上的微距油画笔触](../images/%E7%94%BB%E5%B8%83%E4%B8%8A%E7%9A%84%E5%BE%AE%E8%B7%9D%E6%B2%B9%E7%94%BB%E7%AC%94%E8%A7%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的微距摄影作品，展示一支艺术家画笔将厚重的油画颜料涂抹在绷好的画布上。画笔从右上角斜向中心进入，配有 {argument name="brush handle color" default="深绿色"} 的木质笔杆、磨损且闪亮的银色金属箍，以及沾满 {argument name="paint color palette" default="深海军蓝和青蓝色"} 颜料的天然刷毛。画面中仅包含一支画笔和一个画布表面。画布呈透视角度，填满整个画面，右下边缘可见米色的原始织物，其余表面覆盖着厚重的油画颜料。强调颜料隆起的纹理、类似调色刀的质感、刷毛留下的沟壑、湿润的亮光以及颜料上细小的刮痕。使用来自左上方的戏剧性写实光线，在画笔下方投射出深邃柔和的阴影，并在金属箍和湿润颜料上形成清晰的镜面反射。背景应保持暗色且虚化，具有浅景深、高细节纹理、自然的色彩分级，以及 {argument name="aspect ratio" default="16:9 横向"} 画幅的电影感特写构图。无文字，无人手，无额外工具，无水印。
+
+[English]
+Create an ultra-realistic macro photograph of a single artist paintbrush applying thick oil paint onto a stretched canvas. The brush enters diagonally from the upper right toward the center, with a {argument name="brush handle color" default="dark green"} wooden handle, a worn shiny silver metal ferrule, and natural bristles loaded with {argument name="paint color palette" default="deep navy blue and teal blue"} paint. Show exactly one paintbrush and one canvas surface. The canvas is angled in perspective, filling the frame, with visible beige raw fabric along the lower right edge and heavy impasto paint across the rest of the surface. Emphasize raised ridges, palette-knife-like texture, bristle grooves, wet glossy highlights, and small scraped edges in the paint. Use dramatic realistic lighting from the upper left, creating a dark soft shadow under the brush and crisp specular reflections on the metal ferrule and wet paint. Background should be dark and out of focus, with shallow depth of field, high-detail texture, natural color grading, and a cinematic close-up composition in a {argument name="aspect ratio" default="16:9 horizontal"} frame. No text, no hands, no extra tools, no watermark.
+```
+
+**来源：** [@fdp_v5](https://x.com/fdp_v5/status/2079760355086008700) | 2026-07-22
+
+---
+
+### 🖥️ 例 4796：地中海奢华时尚广告大片
+
+![地中海奢华时尚广告大片](../images/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实奢华时尚大片，9:16。全身人像，模特为 {argument name="person" default="30 岁出头女性，身高 165–168 厘米，苗条女性身材，浅暖中性肤色，淡淡雀斑，深棕色杏仁眼，柔和椭圆脸型，精致鼻梁，柔粉色嘴唇，中长深棕色层次感吹整发型，带有自然波浪，佩戴棕色复古皮质腕表"}。身着 {argument name="attire" default="暖象牙色罗纹半高领针织衫，哑光橄榄绿高腰阔腿褶皱长裤，干邑色皮带，象牙色皮质 (2/3) 运动鞋，干邑色单肩包，暖棕色圆形太阳镜，金色圆环耳饰，叠戴金色项链"}。自然站立于 {argument name="scene" default="地中海石灰岩拱门下，左手插兜，右手提包，神态放松微笑，身体侧转约 30 度，头部看向右侧。奢华庭院背景，灰泥墙面，拱门，陶瓷花瓶，蒲苇，抛光石灰岩地面，长长的建筑阴影"}。温暖的午后阳光，明亮通透的 HDR 效果，奶油色高光，暖中性色调，丰富的质感，50mm 镜头，(3/3) f/2.8 光圈，平视角度，全身可见，高端欧洲“静奢风”时尚广告大片，杂志级画质，真实的皮肤毛孔，细腻的发丝，无 CGI，无文字，无水印。
+
+[English]
+Ultra-realistic luxury editorial, 9:16. Full-body portrait of a {argument name="subject" default="female, early 30s"}, 165–168 cm, slim feminine build, light warm-neutral skin, subtle freckles, dark brown almond eyes, soft oval face, refined nose, soft pink lips, medium-long dark brown layered blow-in hair with loose waves, brown vintage leather watch). Wearing {argument name="outfit" default="warm ivory ribbed mock-neck knit top, muted olive high-waisted wide-leg pleated trousers, cognac leather belt"}, ivory leather sneakers, cognac shoulder bag, warm-brown round sunglasses, gold hoop earrings, layered gold necklaces. Standing naturally beneath a {argument name="setting" default="Mediterranean limestone archway"}, left hand in pocket, right holding bag, relaxed smile, body turned ~30°, head looking right. Luxury courtyard with stucco walls, arches, ceramic vases, pampas grass, polished limestone floor, long architectural shadows. Warm late-afternoon sunlight, bright airy HDR, creamy highlights, warm neutral grading, rich textures, 50mm, f/2.8, eye-level, entire body visible, premium European quiet-luxury fashion campaign, magazine quality, realistic skin pores, fine hair strands, no CGI, no text, no watermark.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2079744882776900086) | 2026-07-22
+
+---
+

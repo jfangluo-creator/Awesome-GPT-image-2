@@ -9126,3 +9126,125 @@ Create a bright pastel anime idol illustration of {argument name="character name
 
 ---
 
+### 🎨 例 4729：月下古筝演奏者
+
+![月下古筝演奏者](../images/%E6%9C%88%E4%B8%8B%E5%8F%A4%E7%AD%9D%E6%BC%94%E5%A5%8F%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅竖版动漫风格的专辑封面插画，描绘一名孤独的年轻男子在夜晚的古老榻榻米房间内弹奏日本传统古筝。角色为 {argument name="character name" default="一位不知名的忧郁年轻古筝演奏者"}，留着 {argument name="hair color" default="长长的淡银色头发"}，发丝松散地垂落，肩头垂下一条粗辫子，双眼低垂，神情平静而哀伤，纤细的手指停在琴弦上。他身穿飘逸的层叠式 {argument name="robe style" default="深色内袍外搭浅色花纹和服"}，宽大的袖子横跨在乐器上。房间是一间饱经风霜的传统日式书房，配有障子门、深色木梁，左侧摆放着旧书架和成堆的文件，还有一盏微弱的灯笼、破旧的抽屉、榻榻米、散落的手稿以及水墨质感。在前景放置一把巨大的古筝，从左下角斜向右下角，琴弦紧绷且清晰可见，琴码错落有致。右侧的障子门敞开，望向月光下的庭院；窗外悬挂着一轮明亮的满月，顶部垂下几枝柳条，低矮的木制游廊栏杆外是茂密的灌木和花丛。采用柔和的棕褐色单色调，融合温暖的灯笼光与清冷的月光，运用戏剧性的明暗对比法，细腻的钢笔线条与复杂的排线，高精度的漫画插画，电影级构图，宁静诗意的氛围，古朴的日本美学，无现代物品，无文字，无水印。
+
+[English]
+Create a vertical anime-style album-cover illustration of a solitary young man playing a traditional Japanese koto at night inside an old tatami room. The character is {argument name="character name" default="an unnamed melancholic young koto player"}, with {argument name="hair color" default="long pale silver hair"} falling in loose layers and one thick braid over his shoulder, downcast eyes, a calm sorrowful expression, and delicate hands poised on the strings. Dress him in a flowing, layered {argument name="robe style" default="light patterned kimono over a dark inner robe"}, with wide sleeves draping across the instrument. The room is a weathered traditional Japanese study with shoji screens, dark wooden beams, shelves of old books and stacked papers on the left, a small glowing lantern, worn drawers, tatami mats, scattered manuscripts, and ink-wash textures. Place exactly one large koto across the foreground, angled from lower left to lower right, with many taut parallel strings and visible movable bridges. Open the shoji toward a moonlit garden on the right; show exactly one bright full moon outside, drooping willow branches hanging from the top, dense shrubs and flowers beyond a low wooden veranda railing. Use a muted sepia monochrome palette with warm lantern light and cool moonlight, dramatic chiaroscuro, fine pen-and-ink linework, intricate hatching, highly detailed manga illustration, cinematic composition, quiet poetic atmosphere, antique Japanese aesthetic, no modern objects, no text, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2080047966098952264) | 2026-07-22
+
+---
+
+### 🎨 例 4759：动漫黑桃 Q 扑克牌
+
+![动漫黑桃 Q 扑克牌](../images/%E5%8A%A8%E6%BC%AB%E9%BB%91%E6%A1%83%20Q%20%E6%89%91%E5%85%8B%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华的竖版动漫扑克牌插画，以 {argument name="character name" default="一位原创粉色头发魔法少女"} 作为独特的黑桃 Q。画布为带有圆角的长方形扑克牌，背景为奶油色，配有华丽的金色花丝边框、深海军蓝珐琅嵌板、微小星形图案、蓝色宝石装饰，以及左下角和右上角的粉色玫瑰装饰。左上角放置一个大的海军蓝“Q”和黑桃符号，右下角放置对应的旋转版“Q”和黑桃符号。画面中心展示一位活泼的偶像魔法少女，她以动态的坐姿面向观众，一只手伸向前方，另一只手拿着一张装饰精美的扑克牌。她拥有 {argument name="hair color" default="柔和的淡粉色"} 双马尾发型，配有编发、丝带和小型花朵发夹，有着明亮的蓝色眼睛、红润的脸颊和温柔的微笑。她的服装是精致的粉、白、海军蓝舞台装：带有丝带和金边的微型斜戴礼帽、荷叶边衬衫、条纹粉色紧身胸衣、带有宝石胸针的海军蓝蝴蝶结、金链、多层褶皱裙、白色过膝袜、吊带装饰、蕾丝袖口以及许多心形和宝石小饰品。牌框内的背景是充满魔力的赌场舞台场景，伴有发光的五彩纸屑、漂浮的扑克牌、三角旗、气球、水晶碎片、闪光点以及粉色、淡紫色、蓝色和金色的柔和灯光。采用极其细腻的少女漫渲染风格、光泽高光、精致的线条艺术、华丽的奇幻卡牌设计、发光的氛围、高饱和度但柔和的配色方案、戏剧性的景深以及高级收藏卡品质。画面中仅保留一个主要角色、两组可见的角标以及两簇玫瑰；除卡牌等级和花色外，不包含任何额外文字。
+
+[English]
+Create a luxurious vertical anime playing card illustration featuring {argument name="character name" default="an original pink-haired magician girl"} as the unique Queen of Spades. The canvas is a tall rounded-corner poker card with a cream background and an ornate gold filigree border, deep navy enamel panels, tiny star motifs, blue jewel accents, and pink rose decorations in the top-right and bottom-left corners. Put a large navy “Q” and spade symbol in the top-left corner and a matching rotated “Q” with spade symbol in the bottom-right corner. In the center, show a cheerful idol-magician anime girl in a dynamic seated pose reaching one hand toward the viewer while holding a decorated playing card in her other hand. She has {argument name="hair color" default="soft pastel pink"} twin-tail hair with braids, ribbons, small flower clips, bright blue eyes, rosy cheeks, and a gentle smile. Her outfit is an elaborate pink, white, and navy stage costume: tiny tilted top hat with ribbons and gold trim, frilly blouse, striped pink corset bodice, navy bow with gemstone brooch, gold chains, layered ruffled skirt, thigh-high white stockings, garter charm, lace cuffs, and many small heart and jewel accessories. The background inside the card frame is a magical casino-stage scene with glowing confetti, floating playing cards, triangular bunting, balloons, crystalline shards, sparkles, and soft pastel lights in pink, lavender, blue, and gold. Use extremely detailed shoujo anime rendering, glossy highlights, delicate line art, ornate fantasy card design, luminous atmosphere, high saturation but soft pastel palette, dramatic depth, and premium collectible card quality. Keep exactly one main character, exactly two visible corner index sets, and exactly two rose clusters; no extra text besides the card rank and suit.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2079908217187144192) | 2026-07-22
+
+---
+
+### 🎨 例 4764：动漫风格点心节少年
+
+![动漫风格点心节少年](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E7%82%B9%E5%BF%83%E8%8A%82%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的竖版动漫插画，主角是 {argument name="character name" default="Sol"}，一位身材修长、留着凌乱 {argument name="hair color" default="黑色头发"}、拥有一双明亮金色眼睛的少年。他神情惊讶，微张着嘴，正在杂耍般地摆弄一桌丰盛的点心。他身穿华丽的春节服装：深红色的丝绸长衫风格上衣，配有黑色领口和袖口、金色盘扣、精致的金色刺绣、悬垂的红色流苏、金链、花结装饰，以及配套的深红色长裤。他手持两个竹制蒸笼，前景中是一个装满各式点心的大蒸笼，右侧是一个装有包子和饺子的小蒸笼。画面中需精确展示 13 个飞舞的食物：3 个白色小笼包、2 个褶皱白馒头、2 个虾饺、2 个圆形烧卖、1 个仓鼠爪子中拿着的棕色巧克力色包子、1 个金黄炸物、1 个月牙饺子以及 1 个小型圆柱形蛋挞。在少年肩旁添加一只漂浮的巨型圆润金棕色仓鼠，它脸颊鼓鼓，小爪子拿着并正在吃那个棕色包子，表情天真快乐。背景是温暖喜庆的中式餐厅或宴会厅，装饰有红灯笼、红色格栅窗花、悬挂的结饰、梅花枝，伴随柔和的金色阳光，以及一个贴有“福”字的红色菱形纸装饰。采用动态构图，食物在半空中飞舞，色调以浓郁的红金为主，线条细腻，动漫渲染光泽感强，织物纹理细节丰富，浅景深效果，营造出热闹的庆祝氛围，无水印，除“福”字外无其他可读文字。
+
+[English]
+Create a highly detailed vertical anime illustration of {argument name="character name" default="Sol"}, a slim young man with messy tousled {argument name="hair color" default="black hair"} and bright golden eyes, startled with his mouth slightly open as he juggles an extravagant dim sum feast. He wears an ornate Chinese New Year outfit: deep crimson silk changshan-style top with black collar and cuffs, gold frog closures, intricate gold embroidery, dangling red tassels, gold chains, flower-knot ornaments, and matching dark red trousers. He holds two bamboo steamer baskets, one large basket in the foreground packed with assorted dim sum and one smaller basket to the right with buns and dumplings. Show exactly 13 airborne food pieces around him: 3 white soup dumplings, 2 pleated white buns, 2 shrimp dumplings, 2 round siu mai, 1 brown chocolate-like bun in the hamster’s paws, 1 golden fried bite, 1 crescent dumpling, and 1 small cylindrical custard tart. Add a giant round golden-brown hamster floating near his shoulder, cheeks puffed, tiny paws holding and eating the brown bun, with an innocent happy expression. The background is a warm festive Chinese restaurant or banquet hall with red paper lanterns, red lattice window patterns, hanging knot ornaments, plum blossom branches, soft golden sunlight, and a red diamond paper decoration with the Chinese character 福. Use dynamic composition, food flying in midair, rich red and gold palette, delicate line art, glossy anime rendering, high detail fabric texture, shallow depth of field, lively celebratory mood, no watermark, no extra readable text besides 福.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079875170505019439) | 2026-07-22
+
+---
+
+### 🎨 例 4767：文乐艺伎舞台表演
+
+![文乐艺伎舞台表演](../images/%E6%96%87%E4%B9%90%E8%89%BA%E4%BC%8E%E8%88%9E%E5%8F%B0%E8%A1%A8%E6%BC%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影质感的竖版图片，展现传统的日本文乐木偶剧表演，场景位于深色木质舞台上。构图中心为 {argument name="performer character" default="一个优雅的年轻日本艺伎木偶"}，她正处于优雅的舞蹈姿态，双眼微闭，头部微微低垂，身着华丽的 {argument name="kimono color and pattern" default="深红色与古金色和服，饰有刺绣白鹤、松枝、花卉锦缎以及长长的飘逸袖摆"}。她黑色的头发梳成光泽的传统发髻，配有金质发簪和梳子装饰。在她的身后和身侧展示三名操偶师，他们全身穿着哑光黑色长袍，戴着黑色头罩，面部被遮挡：左侧一人手持控制杆，中间较高的一位站在她身后手持上部控制杆，右侧一人用竹竿引导她的手臂。木偶的袖子和下摆应向外扫动，仿佛定格在动作之中，露出苍白的内衬和白色足袋。舞台两侧用厚重的 {argument name="curtain color" default="深红色天鹅绒幕布"} 装饰，并用金色流苏绳系住。在舞台前缘均匀放置四盏温暖的圆柱形脚灯，发出琥珀色的光芒。采用戏剧性的明暗对比风格，背景近乎全黑，温暖的聚光灯打在木偶身上，操偶师身上带有微妙的阴影，地面为抛光的深色木地板，呈现出丰富的织物纹理、精致的刺绣，以及受日本古典戏剧海报启发的高度细腻的绘画写实感。无现代物品，无额外操偶师，无文字，无水印。
+
+[English]
+Create a cinematic vertical image of a traditional Japanese bunraku-style puppet theater performance on a dark wooden stage. Center the composition on {argument name="performer character" default="an elegant young Japanese courtesan puppet"} in a graceful dance pose, eyes closed and head slightly bowed, wearing an ornate {argument name="kimono color and pattern" default="deep red and antique gold kimono with embroidered white cranes, pine branches, floral brocade, and long flowing sleeves"}. Her black hair is arranged in a glossy traditional updo with gold hairpins and comb ornaments. Show exactly three puppeteers behind and beside her, all dressed entirely in matte black robes and black head coverings with their faces obscured: one on the left holding a control rod, one taller figure centered behind her holding upper control rods, and one on the right guiding her arm with bamboo rods. The puppet’s sleeves and hem should sweep outward as if caught mid-motion, revealing pale inner layers and small white tabi feet. Frame the stage with heavy {argument name="curtain color" default="deep red velvet curtains"} on both sides, tied back with gold tassel cords. Place exactly four warm cylindrical footlights along the front edge of the stage, evenly spaced and glowing amber. Use a theatrical chiaroscuro mood with a nearly black background, warm spotlight on the puppet, subtle shadows on the puppeteers, polished dark wood floorboards, rich fabric texture, delicate embroidery, and highly detailed painterly realism inspired by classical Japanese theater posters. No modern objects, no extra puppeteers, no text, no watermark.
+```
+
+**来源：** [@Test_AI](https://x.com/TestAI_WORKS/status/2079866624023355718) | 2026-07-22
+
+---
+
+### 🎨 例 4777：专业工作台封面横幅
+
+![专业工作台封面横幅](../images/%E4%B8%93%E4%B8%9A%E5%B7%A5%E4%BD%9C%E5%8F%B0%E5%B0%81%E9%9D%A2%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+做一张1500×500横版封面，左边放{argument name="工作台类型" default="真实工作台"}，右边是：“{argument name="标语" default="一个人，也能干完一个小团队的活"}”
+```
+
+**来源：** [@火山哥🕊️](https://x.com/huoshan007/status/2079817856565281277) | 2026-07-22
+
+---
+
+### 🎨 例 4787：和风水彩头像少女
+
+![和风水彩头像少女](../images/%E5%92%8C%E9%A3%8E%E6%B0%B4%E5%BD%A9%E5%A4%B4%E5%83%8F%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精致的竖构图日式水彩动漫插画，主角是一位可爱的 REALITY 风格头像少女，身着夏季祭典浴衣。全身角色居中，姿态优雅，表情羞涩而平静，皮肤白皙，有着大大的蓝色眼睛，短而蓬松的 {argument name="hair color" default="银白色"} 头发配有柔和的刘海，长有类似狐狸或猫的耳朵，身后有一条巨大的蓬松浅色尾巴，左侧可见一只白色的羽翼。她穿着优雅的半透明白色羽织/浴衣，饰有蓝色和淡紫色的花卉与波浪图案，内搭深海军蓝无袖上衣，下着浅粉色高开叉裙，腰间有黑色交叉系带，系着浅蓝色丝带腰带，垂挂着小珠子，脚穿白色厚底系带凉鞋。在耳边添加华丽的金饰和花朵发饰。她双手在胸前持有一把打开的圆形团扇；扇面为浅蓝色，印有蓝色波浪纹和 3 条红色小金鱼。周围营造出柔和的夏季金鱼祭氛围：可见 5 个挂着的玻璃风铃及纸签，包括左上角的 2 个大型蓝色花卉风铃、右上角的 1 个大型蓝色花卉风铃、中右上方附近的 1 个小型浅蓝色风铃，以及中右侧附近的 1 个小型浅蓝色风铃；风铃下挂着粉色和蓝色的长方形短册。左上方添加轻盈的竹帘，右上角为带有绿叶常春藤和浅蓝色牵牛花的木质花架，画面中点缀着水蓝色墨迹、淡淡的涟漪和散落的绣球花。下半部分环绕着 5 条游动的金鱼：左下角 2 条小金鱼，中右侧漂浮着 1 条橙色金鱼，右下角 1 条大型橙白相间金鱼，底部边缘附近还有 1 条半隐约可见的橙色鱼。采用轻盈的粉彩色调、半透明水彩渲染、细腻的铅笔线条、柔和的纸张质感、白色背景、轻柔的喷溅效果，营造出优雅的日式和风水彩氛围，无文字或水印。整体感觉梦幻、脆弱、可爱且充满夏日气息，服装配色以 {argument name="accent color" default="蓝色和浅粉色"} 为主。
+
+[English]
+Create a delicate vertical Japanese watercolor-style anime illustration of a cute REALITY-style avatar girl in a summer festival yukata outfit. The full-body character is centered, standing gracefully with a shy, calm expression, pale skin, large blue eyes, short fluffy {argument name="hair color" default="silver-white"} hair with soft bangs, animal-like fox/cat ears, a large fluffy pale tail, and one visible white feathered wing behind her left side. She wears an elegant translucent white haori/yukata robe with blue and lavender floral and wave patterns, a dark navy sleeveless top, a pale pink high-slit skirt, crisscross black waist lacing, a light blue ribbon belt with small dangling beads, and white platform strappy sandals. Add ornate gold-and-flower hair accessories near the ears. She holds an open round uchiwa fan in both hands in front of her chest; the fan is pale blue with blue wave motifs and exactly 3 small red goldfish printed on it. Surround her with a soft summer goldfish-festival atmosphere: exactly 5 hanging glass wind chimes with paper strips are visible, including 2 large blue floral chimes in the upper left, 1 large blue floral chime in the upper right, 1 small pale blue chime near the upper center-right, and 1 small pale blue chime near the mid-right; include pink and blue rectangular tanzaku strips hanging from them. Add a light bamboo blind along the upper left, a wooden trellis with green ivy leaves and pale blue morning glory flowers in the upper right, watery blue ink splashes, faint ripples, and scattered hydrangea-like flowers. Include exactly 5 swimming goldfish around the lower half: 2 small goldfish at the bottom left, 1 orange goldfish floating at the middle right, 1 large orange-white goldfish at the lower right, and 1 partially visible orange fish near the bottom edge. Use airy pastel colors, translucent washes, fine pencil line art, soft paper texture, white background, gentle splatter effects, elegant Japanese wa-fu watercolor mood, and no text or watermark. The overall feeling should be dreamy, fragile, cute, and summery, with the outfit coordinated around {argument name="accent color" default="blue and pale pink"}.
+```
+
+**来源：** [@Shiroko Kuribayashi](https://x.com/shiroko0802/status/2079774563924386148) | 2026-07-22
+
+---
+
+### 🎨 例 4791：困倦仓鼠水彩画场景
+
+![困倦仓鼠水彩画场景](../images/%E5%9B%B0%E5%80%A6%E4%BB%93%E9%BC%A0%E6%B0%B4%E5%BD%A9%E7%94%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅温暖、柔和的水彩风格方形插画，描绘一只非常困倦、胖乎乎的侏儒仓鼠，正趴在小型木制仓鼠屋的入口处。仓鼠拥有 {argument name="fur color" default="奶油色和浅米色"} 的毛发、圆圆的小耳朵、困倦的黑眼睛、粉红色的脸颊、摊开的小爪子，以及放松且被挤压的表情。木屋坐落在浅色的木屑上，带有一个拱形门；门上方有一个圆形的铭牌，写着「おうち♥」。一条带有白色波点图案的蓬松粉色毯子从左上方垂下，像舒适的顶棚一样覆盖在木屋上，右侧放着一个淡蓝色的蓬松靠垫或寝具堆。添加柔和的金色阳光、轻柔的散景光点、奶油般的柔和色调，以及温馨的儿童绘本氛围。包含恰好三个可见的文本元素：仓鼠左侧的拟声词「へちょ……」，右侧写着「ぬ……」的小对话气泡，以及右下角写着「おきハム」的木制告示牌，下方跟随三行项目符号「※うごきません」、「※かんがえません」、「※ただ そこに いるだけです♥」。在左下角添加一个带有爱心标记的奶油色食盆，并在前景中放置一个带有简单熊脸的柔和模糊黄色睡垫。保持构图亲密可爱，具有手绘边缘、柔和阴影，无硬轮廓，非照片写实风格，且不包含额外的字符或文本。
+
+[English]
+Create a warm, soft watercolor-style square illustration of a very sleepy chubby dwarf hamster lying flat on its belly at the entrance of a small wooden hamster house. The hamster has {argument name="fur color" default="cream and light beige"}, tiny rounded ears, black drowsy eyes, pink cheeks, little paws spread out, and a relaxed squished expression. The wooden house sits in pale wood shavings and has an arched doorway; above the doorway is a rounded nameplate reading 「おうち♥」. A fluffy pink blanket with white polka dots drapes from the upper left over the house like a cozy canopy, and a pale blue fluffy cushion or bedding mound sits to the right. Add soft golden sunlight, gentle bokeh dots, creamy pastel tones, and a cozy children’s picture-book atmosphere. Include exactly three visible text elements: the sound effect 「へちょ……」 to the left of the hamster, a small speech bubble on the right reading 「ぬ……」, and a wooden signboard in the lower right reading 「おきハム」 followed by three bullet lines 「※うごきません」, 「※かんがえません」, 「※ただ そこに いるだけです♥」. Add a small cream food bowl with a heart mark in the lower left and a softly blurred yellow sleeping mat with a simple bear face in the foreground. Keep the composition intimate and cute, with hand-painted edges, soft shadows, no hard outlines, no photorealism, and no extra characters or text.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2079767518332559547) | 2026-07-22
+
+---
+

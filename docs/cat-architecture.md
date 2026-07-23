@@ -3068,3 +3068,157 @@ A 6-panel ultra-realistic miniature comedy collage featuring the same {argument 
 
 ---
 
+### 🏛️ 例 4728：热带花园瑜伽倒立
+
+![热带花园瑜伽倒立](../images/%E7%83%AD%E5%B8%A6%E8%8A%B1%E5%9B%AD%E7%91%9C%E4%BC%BD%E5%80%92%E7%AB%8B.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="ヨガポーズ"}
+
+主体：
+陽光に満ちた{argument name="庭のスタイル" default="南国風の庭"}で、{argument name="服装" default="クリーム色の水着"}を着た成人女性が芝生の上でハンドスタンドのヨガポーズを取る。人物は画面中央に大きく配置し、頭から指先までを下半分、長く伸ばした脚を上半分に通して、全身が縦方向に収まる構成。
+
+人物・表情：
+自然で健康的な体つきの成人女性。明るくなめらかな肌に、日差しによる柔らかなハイライトが入る。黒に近いダークブラウンの髪を無造作なお団子にまとめ、逆さになった重力に沿って細い後れ毛が頬と地面の方向へ垂れる。顔は斜め下を向き、視線は両手の間へ落とし、集中した穏やかな表情。
+
+服装・ポーズ：
+アイボリー色のフリル付きセパレート水着。細いストラップと小さなサイドリボンを備えた軽やかなデザイン。両手を肩幅より少し広く芝生につき、指を大きく開いて体重を支える。肘はまっすぐ伸ばし、肩から腰までを安定させる。一方の脚は画面右上へ長くまっすぐ伸ばしてつま先を整え、もう一方の脚は膝を深く曲げ、足先を背中側へ向けたスタッグレッグ。骨盤に自然なひねりを加え、柔軟性と躍動感のあるシルエット。
+
+背景・光：
+前景は細かな芝の質感が見える明るい芝生。中景には石畳が斜め奥へ続き、左右を大きな熱帯植物と低木が囲む。画面左には赤い花穂を数本配置し、深い緑の中のアクセントにする。後景はヤシの葉、太い樹木、暗い石壁で構成し、自然な奥行きを作る。画面右上から暖かな午前の太陽光が差し込み、脚、背中、腕の右側を明るく照らす。身体と腕の影は画面左下の芝生へ落ち、葉からの反射光が肌の影側を淡く持ち上げる。
+
+構図・カメラ：
+縦位置3:4。全身を収めたロングショットで、人物が画面の約70％を占める。カメラは腰よりやや低い位置からほぼ水平に撮影し、上へ伸びる脚を強調する。両手は画面下部、頭は中央より下、伸ばした足先は上端近くに置く。背景は軽くぼかしつつ植物の形を残し、人物の身体と手指に焦点を合わせる。自然な50mmレンズ相当、過度な広角変形なし。
+
+質感・スタイル：
+実写のライフスタイル写真。温かい自然光、繊細な肌理、芝や葉の細かな質感、控えめなフィルム粒子。緑とアイボリーを中心に、赤い花を小さな差し色として配置する。健康的で清潔感があり、スポーツウェア広告とリゾート写真の中間のような落ち着いた仕上がり。
+
+ネガティブ：
+未成年に見える人物、不自然な関節、曲がった腕、余分な手足、欠けた指、融合した指、左右の脚の混同、不自然な重心、浮遊、道具との接触不良、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2080054027782615415) | 2026-07-22
+
+---
+
+### 🏛️ 例 4773：极简主义时尚工作室人像
+
+![极简主义时尚工作室人像](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+一位年轻成年东亚女性，纤细修长身材，长直黑发顺滑自然，侧分，头发贴近头部并垂落肩前。五官清秀精致，杏仁眼，细长眉，鼻梁纤细，嘴唇自然柔和，淡妆，皮肤白皙偏暖，保留真实毛孔、细微肌理与自然高光，不要塑料磨皮。她穿一件贴身{argument name="上衣" default="白色无袖背心"}，圆领，面料柔软，胸腹部有轻微自然褶皱；下身穿{argument name="裤子" default="浅灰色宽松居家运动短裤"}，松紧腰头和抽绳细节清晰；佩戴{argument name="饰品" default="细银色项链"}，小巧吊坠。人物坐在极简白色室内空间的浅色台面或床沿上，半身到大半身竖构图，身体微微侧向左，头部轻轻低下，目光向下，神情安静温柔。双手自然放在腰腹前方，轻轻整理衣摆或手指轻触。背景为干净纯白到浅灰的无缝背景，极简、安静、高级。光线为柔和棚拍漫射光，低对比、低饱和，阴影很轻，面部、肩颈、手臂和衣物质感过渡细腻。摄影风格：85mm人像镜头，浅景深，高级写实时尚肖像，真实摄影质感。
+ 避免： 卡通感、CG感、过度磨皮、错误手指、畸形手臂、夸张身材、杂乱背景、过强锐化、文字、水印、Logo。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2079838865628786876) | 2026-07-22
+
+---
+
+### 🏛️ 例 4778：长满植被的山间花园中的动漫少女
+
+![长满植被的山间花园中的动漫少女](../images/%E9%95%BF%E6%BB%A1%E6%A4%8D%E8%A2%AB%E7%9A%84%E5%B1%B1%E9%97%B4%E8%8A%B1%E5%9B%AD%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫风格插画，主角是 {argument name="character name" default="Kaga Sumire"}，一位娇小的少女，正坐在长满植被的山间花园中洒满阳光的石阶上。她留着短波波头，发色为 {argument name="hair color" default="银白色"}，留着柔和的刘海，有着青蓝色的眼睛，头侧别着一个小巧的紫色花朵发夹。她穿着一件宽松的素色白 T 恤，扎进高腰炭灰色七分裤中，系着黑色腰带，穿着白色短袜和白色运动鞋。让她随意地坐在台阶上，一只膝盖抬起，一只手托着脸颊，姿态可爱且若有所思，另一只手放在一个装满绿芽的编织花篮旁。背景是古老的梯田石遗迹或长满茂密常春藤、藤蔓、草丛和小白花的阶梯；画面中必须包含一个柳条花篮、一朵可见的紫色发花，以及右侧一堵爬满心形常春藤叶的宽大墙壁。在她身后，展示层叠的石梯、悬垂的藤蔓、常青树、朦胧的蓝色山脉，以及有着柔和云朵的淡暖色天空。使用来自左上方的黄金时刻阳光，叶片和头发上有强烈的轮廓光，长而柔和的阴影，温暖的高光，冷蓝绿色的远景薄雾，细腻的线条，丰富的赛璐珞动漫渲染，电影级构图，宁静怀旧的氛围，高度细致的植被和石砌细节，无文字，无水印。
+
+[English]
+Create a vertical anime-style illustration of {argument name="character name" default="Kaga Sumire"}, a petite young girl sitting on sunlit stone steps in an overgrown mountain garden. She has short bobbed {argument name="hair color" default="silvery white hair"} with soft bangs, teal-blue eyes, and a small purple flower hairpin on the side of her head. She wears a loose plain white T-shirt tucked into high-waisted charcoal-gray cropped pants with a black belt, white ankle socks, and white sneakers. Pose her seated casually on the steps with one knee raised, one hand resting near her cheek in a thoughtful cute gesture, and the other hand beside a woven basket planter filled with green shoots. The setting is an old terraced stone ruin or garden stairway covered with lush ivy, vines, grasses, and small white wildflowers; include exactly one wicker basket planter, one visible purple hair flower, and a broad wall of heart-shaped ivy leaves climbing up the right side. Behind her, show layered stone terraces with dangling vines, evergreen trees, misty blue mountains, and a pale warm sky with soft clouds. Use golden-hour sunlight from the upper left, strong rim lighting on leaves and hair, long soft shadows, warm highlights, cool blue-green distant haze, delicate linework, rich cel-shaded anime rendering, cinematic composition, peaceful nostalgic mood, highly detailed foliage and masonry, no text, no watermark.
+```
+
+**来源：** [@⚠️AI-Generated](https://x.com/davide432bado/status/2079817142787285343) | 2026-07-22
+
+---
+
+### 🏛️ 例 4782：极简主义时尚街头风人像
+
+![极简主义时尚街头风人像](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E6%97%B6%E5%B0%9A%E8%A1%97%E5%A4%B4%E9%A3%8E%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义时尚编辑人像，一位年轻女性随意地倚靠在平滑的 {argument name="wall color" default="炭灰色"} 建筑墙面旁，身穿超大款水洗灰拉链连帽衫、浅色宽松牛仔裤和白色运动鞋，双手插兜，姿态放松，表情从容自信，留着自然的深色长卷发，妆容清新自然，现代极简主义室内设计，几何建筑风格，柔和的单色调，柔和的漫射窗光，细腻的阴影，奢华生活方式广告大片，{argument name="aesthetic" default="北欧"} 审美，高端街头服饰型录，超写实，照片级真实感，高端商业摄影，构图简洁，浅景深，{argument name="lens" default="85mm"} 镜头，f/2.8，RAW 原片，高度细腻的织物纹理，自然的肤色，杂志编辑级品质。风格关键词：极简奢华，静奢风，北欧室内设计，Muji / COS / Uniqlo 审美，纯净建筑背景，中性灰调色板，柔和环境光，当代生活方式编辑，放松的超大廓形，照片级商业时尚摄影。相机与布光：平视构图，全身人像，85mm 镜头，f/2.8，左侧柔和间接日光，细腻的轮廓光，逼真的阴影，柔和的对比度，自然色彩分级，主体焦点清晰，电影级景深，高端广告大片。
+
+[English]
+Minimalist fashion editorial portrait of a young woman leaning casually against a {argument name="background" default="smooth charcoal-gray architectural wall"}, wearing an {argument name="outfit" default="oversized washed gray zip-up hoodie, light-wash baggy jeans, and white sneakers"}, hands in pockets, relaxed posture, calm confident expression, long natural dark wavy hair, soft natural makeup, modern minimalist interior with geometric architecture, muted monochromatic palette, {argument name="lighting" default="soft diffused window light"}, subtle shadows, luxury lifestyle campaign, Scandinavian aesthetic, premium streetwear lookbook, ultra-realistic, photorealistic, high-end commercial photography, clean composition, shallow depth of field, 85mm lens, f/2.8, RAW photo, highly detailed fabric textures, natural skin tones, editorial magazine quality.
+Style keywords
+Minimalist luxury
+Quiet luxury
+Scandinavian interior
+Muji / COS / Uniqlo aesthetic
+Clean architectural backdrop
+Neutral gray color palette
+Soft ambient lighting
+Contemporary lifestyle editorial
+Relaxed oversized silhouette
+Photorealistic commercial fashion photography
+Camera & Lighting
+Eye-level composition, full-body portrait, 85mm lens, f/2.8, soft indirect daylight from the left, subtle rim lighting, realistic shadows, muted contrast, natural color grading, crisp focus on subject, cinematic depth of field, premium advertising campaign.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2079786906099802130) | 2026-07-22
+
+---
+
+### 🏛️ 例 4790：春季时尚花园大片
+
+![春季时尚花园大片](../images/%E6%98%A5%E5%AD%A3%E6%97%B6%E5%B0%9A%E8%8A%B1%E5%9B%AD%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端的 {argument name="theme" default="春季时尚大片人像"}，画面中是一位美丽的年轻女性，身处梦幻般的花园中，背景是湛蓝的天空和柔软的白云。她留着一头自然微卷的深棕色长发，发质丝滑，皮肤白皙透亮，双颊泛着柔和的红晕，嘴唇涂着珊瑚色唇釉，带着温暖而温柔的微笑，散发着优雅与幸福的气息。
+
+她身穿 {argument name="clothing" default="一件质感奢华的超大款淡薄荷绿毛绒针织毛衣"}，搭配一条厚实的暖棕色针织围巾（可选）。她手中拿着 {argument name="item" default="一束精致的淡粉色玫瑰或优雅的白玫瑰"}，周围环绕着盛开的野花、色彩斑斓的春季花卉、金色的秋叶（可选）以及郁郁葱葱的绿植。
+
+捕捉两种自然姿态：
+• 直视镜头，手持鲜花，面带柔和微笑。
+• 双眼轻闭，比出可爱的剪刀手，展现喜悦与宁静。
+
+光影与氛围：
+黄金时刻的阳光，柔和的自然逆光，温暖的轮廓光，梦幻光晕，体积光，微风拂动发丝，电影级氛围，逼真的阴影，色彩鲜艳且自然。
+
+摄影参数：
+专业时尚大片，85mm 镜头，f/1.4 大光圈，浅景深，奶油般虚化效果，眼神锐利，真实的皮肤毛孔，自然的皮肤纹理，HDR，照片级真实感，色彩还原度高，构图高级，杂志级取景。
+
+风格：
+奢华生活方式摄影，Vogue 大片，韩系时尚美学，高端商业广告，柔和浪漫氛围，极简优雅，获奖摄影作品，细节丰富，超写实，8K，HDR，杰作。
+
+负面提示词：
+低质量，模糊，噪点，色彩过饱和，塑料感皮肤，解剖结构错误，面部扭曲，多余的手指，多余的肢体，手部畸形，卡通，动漫，CGI，水印，Logo，文字，压缩伪影，过度修图的皮肤，不真实的光影，重复的花朵，身体被裁剪。
+
+[English]
+Create an ultra-premium {argument name="theme" default="spring fashion editorial portrait"} of a beautiful young woman in a dreamy flower garden under a brilliant blue sky with soft white clouds. She has long, naturally wavy dark brown hair with a silky texture, glowing fair skin, soft rosy cheeks, glossy coral lips, and a warm, gentle smile that radiates elegance and happiness.
+
+She is wearing {argument name="clothing" default="an oversized pastel mint-green fuzzy knit sweater with luxurious texture"}, paired with a thick warm brown knitted scarf (optional variation). She is holding {argument name="item" default="a bouquet of delicate blush-pink roses or elegant white roses"} while surrounded by blooming wildflowers, colorful spring blossoms, golden autumn leaves (optional), and lush greenery.
+
+Capture two natural poses:
+• Looking directly at the camera with a soft smile while holding flowers.
+• Eyes gently closed making a cute peace sign, expressing joy and serenity.
+
+Lighting & Atmosphere:
+Golden-hour sunlight, soft natural backlighting, warm rim light, dreamy glow, volumetric sunlight, gentle breeze moving the hair, cinematic atmosphere, realistic shadows, vibrant yet natural colors.
+
+Photography:
+Professional fashion editorial, 85mm lens, f/1.4, shallow depth of field, creamy bokeh, ultra-sharp eyes, realistic skin pores, natural skin texture, HDR, photorealistic, true-to-life colors, premium composition, magazine-quality framing.
+
+Style:
+Luxury lifestyle photography, Vogue editorial, Korean fashion aesthetic, luxury commercial campaign, soft romantic mood, minimalist elegance, award-winning photography, ultra-detailed, hyper-realistic, 8K, HDR, masterpiece.
+
+Negative Prompt:
+low quality, blurry, noisy, oversaturated, plastic skin, bad anatomy, distorted face, extra fingers, extra limbs, deformed hands, cartoon, anime, CGI, watermark, logo, text, compression artifacts, overprocessed skin, unrealistic lighting, duplicate flowers, cropped body.
+```
+
+**来源：** [@Amelia Ai](https://x.com/AmeliaAi12/status/2079768488940646736) | 2026-07-22
+
+---
+
