@@ -3145,3 +3145,121 @@ Create a simple hand-drawn doodle illustration of the uploaded photo, as if it w
 
 ---
 
+### 🔧 例 4821：单色蓝色圆珠笔肖像画
+
+![单色蓝色圆珠笔肖像画](../images/%E5%8D%95%E8%89%B2%E8%93%9D%E8%89%B2%E5%9C%86%E7%8F%A0%E7%AC%94%E8%82%96%E5%83%8F%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的图片作为身份参考。主体必须与原人物 100% 面部一致——保留精确的面部结构、比例、眼型、鼻型、唇形、下颌线及整体特征。请勿进行美化、风格化或改变面部特征。
+
+仅修复和优化发型——保持相同的长度和类型，但使其排列自然、整洁且轮廓清晰（避免凌乱或生成效果不佳的头发）。
+创作一幅超精细的单色 {argument name="ink color" default="蓝色"} 圆珠笔（biro art）肖像，看起来完全像是用一支蓝色圆珠笔手绘而成。使用细腻的线条、平滑的叠色、排线和交叉排线来呈现逼真的深度与色调变化。
+构图与姿势：
+
+全身可见。女子坐在窗边的地板上，背部轻靠墙壁以作支撑。一侧膝盖抬起，双臂自然搭在膝盖上，另一条腿在地板上自然折叠。姿势应显得放松、自然且略带内省感。
+头部方向与表情（非常重要）：
+
+她正看向窗外（而非看向镜头）。表情保持中性至略带情感——深思、内省、平静且安静地反思。画面必须强烈传达出“思考时刻”或内在情感，而非摆拍肖像。
+眼睛（关键细节）：
+
+即使在侧视时，眼睛也必须高度精细——柔和地聚焦于窗外，带有细微的光线反射，眼睑结构清晰。表情应显得生动，并与场景产生情感共鸣。
+服装：
+
+主体穿着完整的下装（例如 {argument name="clothing" default="牛仔裤"}），褶皱自然，布料垂坠感真实。
+
+上装为浅色上衣/毛衣，质感柔软透气（不厚重、不臃肿）。
+环境：
+
+老式 {argument name="era" default="90 年代"} 家居室内（非现代风格）。窗户位于左侧，高于地面。简单的窗框，表面略显陈旧，具有复古感。
+光影：
+
+来自窗户（左侧）的强烈自然光。
+
+左侧：柔和的高光，接近白纸的质感
+
+右侧：带有密集交叉排线的深色阴影
+
+平滑的渐变，无墨迹污点
+材质渲染：
+
+头发：细腻流畅的笔触，自然的蓬松感
+
+皮肤：超平滑的色调过渡
+
+布料：柔软、轻盈的质感
+
+手脚：自然放松的解剖结构
+边缘处理/融合（重要）：
+
+整幅作品从四周向纸张边缘柔和过渡。无硬边。
+风格与质量：
+
+超写实、博物馆级的圆珠笔插画。必须看起来像真实的纸上笔绘，而非数字绘画。
+取景：
+
+垂直 4:5 比例，全身构图，与窗户位置保持平衡。
+输出标签：
+
+超精细，照片级真实绘画，仅蓝色墨水，细腻线条，平滑阴影，边缘柔和过渡，高精度
+
+[English]
+Use the uploaded image as the ONLY identity reference. The subject must match the same person with 100% facial accuracy — preserve exact facial structure, proportions, eye shape, nose, lips, jawline, and overall identity. Do not beautify, stylize, or alter facial features.
+
+Fix and refine the hairstyle only — keep the same length and type, but make it naturally arranged, clean, and well-defined (no messy or poorly generated hair).
+Create an ultra-detailed monochromatic {argument name="ink color" default="blue"} ballpoint pen (biro art) portrait that looks completely hand-drawn using a single blue ink pen. Use fine linework, smooth layering, hatching, and cross-hatching to achieve realistic depth and tonal variation.
+Composition & Pose:
+
+Full body visible. The woman is sitting on the floor beside a window, leaning slightly back against the wall for support. One knee drawn upward with arms gently resting over it, the other leg folded naturally along the floor. The pose should feel relaxed, natural, and slightly introspective.
+Head Direction & Expression (VERY IMPORTANT):
+
+She is looking outside the window (not at the camera). Expression is neutral to slightly emotional — deep in thought, introspective, calm, and quietly reflective. The image must strongly convey a “thinking moment” or inner emotion, not a posed portrait.
+Eyes (CRITICAL DETAIL):
+
+Eyes must be highly detailed even in side gaze — soft focus toward outside, subtle light reflection, clean eyelid structure. Expression should feel alive and emotionally connected to the scene.
+Clothing:
+
+Subject is wearing full lower-body clothing (e.g., {argument name="clothing" default="jeans"}), naturally folded with realistic fabric flow.
+
+Upper clothing is a light-colored top/sweater with soft, breathable texture (not heavy or bulky).
+Environment:
+
+Old-style {argument name="era" default="90s"} home interior (not modern). Window on the left positioned above floor level. Simple frame, slightly worn surfaces, vintage feel.
+Lighting & Shading:
+
+Strong natural light from the window (left side).
+
+Left side: soft highlights, near-white paper
+
+Right side: deep shadows with dense cross-hatching
+
+Smooth gradients, no blotchy ink
+Material Rendering:
+
+Hair: fine flowing pen strokes, natural volume
+
+Skin: ultra-smooth tonal blending
+
+Fabric: soft, light texture
+
+Hands & feet: natural relaxed anatomy
+Edge Treatment / Blending (IMPORTANT):
+
+Entire artwork softly fades into the paper from all sides. No hard borders.
+Style & Quality:
+
+Hyper-realistic, museum-quality biro illustration. Must look like real pen-on-paper, not digital.
+Framing:
+
+Vertical 4:5 aspect ratio, full-body composition, balanced with window visible.
+Output Tags:
+
+ultra detailed, photorealistic drawing, blue ink only, fine linework, smooth shading, soft fade edges, high precision
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2080312959855923687) | 2026-07-23
+
+---
+

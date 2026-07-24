@@ -6420,3 +6420,99 @@ Constraints: Keep all text in English, preserve the visible labels “TURNAROUND
 
 ---
 
+### 🧍 例 4816：保持角色一致性的韩系时尚 Lookbook
+
+![保持角色一致性的韩系时尚 Lookbook](../images/%E4%BF%9D%E6%8C%81%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E7%9A%84%E9%9F%A9%E7%B3%BB%E6%97%B6%E5%B0%9A%20Lookbook.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图 1 作为唯一的面部特征和发型参考，并在所有四个面板中展示完全相同的 {argument name="subject" default="亚洲女性"}，严格保持身份一致。最终图像采用 2:3 的垂直纵横比。该女性为年轻的亚洲女性，拥有窄而柔和的椭圆形脸庞、精致且略微收窄的 V 型下颌线、轮廓分明的颧骨、比例协调的前额；深褐色的大杏眼，眼尾略微上翘，自然的窄双眼皮，平直柔和的拱形眉毛；鼻梁挺拔纤细，鼻尖精致，鼻翼较窄；嘴唇自然饱满，呈柔和的玫瑰粉色，唇峰清晰；肤色为冷中性调的白皙肤色，带有淡淡的自然红晕和细腻逼真的皮肤纹理。她气质冷静、从容、自信，直视镜头，表情放松，双唇微张。发型为齐肩的钝剪波波头，发色为深棕黑色，带有淡淡的酒红色调，略微偏分，带有修饰脸型的长空气刘海，发尾向外微卷，几缕发丝自然地垂落在脸颊旁。在每一个造型中，保持完全相同的面部结构、眼型、鼻型、唇形、下颌线、颧骨、前额、年龄、种族、发型特征、身体比例以及整体气质。创建一个高级的 {argument name="style" default="韩系奢华时尚"} Lookbook，采用严格的 2×2 网格布局（两列两行），包含四个等大的全身面板，间距清晰，模特比例一致，具有整洁的编辑对称性。顶部居中位置使用奢华衬线字体排版：“{argument name="title" default="LOOKBOOK"}” “The Edit • Vol. 01”。将排版置于图像顶部横跨全宽的暖象牙色标题栏内，与四个模特面板视觉区分开。造型 1：米色廓形西装外套、白色上衣、阔腿裤、高跟鞋。造型 2：黑色修身晚礼服，搭配优雅配饰。造型 3：白色廓形衬衫和牛仔短裤。造型 4：米白色针织毛衣搭配百褶中长裙。每个面板展示不同的自然站姿、细微的表情变化以及奢华广告大片的肢体语言。请勿复制图 1 中的颈圈、项链或其他配饰。仅将其视为参考图中的临时造型元素，而非该女性身份的一部分。背景：无缝的暖象牙米色影棚背景，无道具。采用柔和的 Vogue Korea 风格影棚布光，真实的阴影，自然的皮肤纹理，可见毛孔，超精细的面料质感，HDR，8K 照片级商业时尚摄影。优先级：四个面板中面部一致，严格的 2×2 网格布局，全身可见，面板分隔清晰，比例一致，标题排版准确，呈现高端百货公司目录质感。负面提示词：不同的面部、身份改变、换脸、普通的亚洲时尚模特、复制的颈圈、黑色项链
+
+[English]
+Use Figure 1 as the sole primary facial identity and hairstyle reference, and display the exact same {argument name="subject" default="Asian woman"} in all four panels with strict identity preservation. Create the final image in a vertical 2:3 aspect ratio. The woman is a young adult Asian woman with a narrow soft oval face, a refined gently tapered V-shaped jawline, subtly defined cheekbones, a balanced forehead, large elongated almond-shaped dark brown eyes with slightly upturned outer corners, natural narrow double eyelids, straight softly arched brows, a slim straight nose with a delicate tip and narrow nostrils, naturally full muted rose-pink lips with a defined Cupid’s bow, and fair cool-neutral skin with subtle natural blush and fine realistic skin texture. She has a calm, cool, self-possessed personality, direct eye contact, and a relaxed expression with slightly parted lips. Her hair is a shoulder-length blunt bob in very dark brown-black with a subtle burgundy-purple undertone, a slightly off-center part, long wispy face-framing fringe, softly tousled outward-moving ends, and a few loose strands naturally crossing the face. Keep identical facial structure, eye shape, nose, lips, jawline, cheekbones, forehead, age, ethnicity, hairstyle characteristics, body proportions, and overall personality across every look. Create a premium {argument name="style" default="Korean-style luxury fashion"} lookbook in a strict two-column by two-row (2×2) grid with four equal full-body panels, clear spacing, identical model scale, and clean editorial symmetry. Top-center luxury serif typography: “{argument name="title" default="LOOKBOOK"}” “The Edit • Vol. 01” Place the typography inside a separate warm ivory title band across the full width at the top of the image, visually distinct from the four model panels. Outfit 1: Beige oversized blazer, white top, wide-leg trousers, heels. Outfit 2: Black fitted evening dress with elegant accessories. Outfit 3: White oversized shirt and denim shorts. Outfit 4: Cream knit sweater with pleated midi skirt. Each panel features a different natural standing pose, subtle expression variation, and luxury campaign body language. Do not copy the choker, necklace, or other accessories from Figure 1. Treat them only as temporary styling elements in the reference image, not as part of the woman’s identity. Background: seamless warm ivory-beige cyclorama studio with no props. Soft diffused Vogue Korea-style studio lighting, realistic shadows, natural skin texture, visible pores, ultra-detailed fabrics, HDR, 8K photorealistic commercial fashion photography. Priority: same face in all four panels, strict two-column by two-row (2×2) layout, full-body visibility, clear panel separation, identical scale, accurate title typography, luxury department-store catalog presentation. Negative prompt: different face, identity change, face swap, generic Asian fashion model, copied choker, black nec
+```
+
+**来源：** [@WILDCORE](https://x.com/wildcore_stuido/status/2080341982006927391) | 2026-07-23
+
+---
+
+### 🧍 例 4863：少林僧人角色设定集
+
+![少林僧人角色设定集](../images/%E5%B0%91%E6%9E%97%E5%83%A7%E4%BA%BA%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="MEI LIAN"} 创建一份高端电影级角色设计设定集。该角色为一位剃光头、身穿金袍、气场坚不可摧的威猛少林僧人，适用于动画或游戏制作的角色参考。
+
+画布：宽幅横向白色摄影棚画布，比例约为 16:9，留白简洁，呈现照片级真实感的概念艺术效果，配以柔和的摄影棚灯光，角色下方带有淡淡的接触阴影。使用暖赭色、藏红花色、奶油色和风化金色的配色方案。
+
+左上角文本块：大标题“{argument name="character name" default="MEI LIAN"}”，采用粗体压缩大写金棕色字体。下方包含三行简洁文字：“角色：少林僧人”、“核心气质：威猛。不屈。超凡。”、“视觉特征：光头。金袍。坚不可摧的意志。”
+
+主体细节：角色为一位体型丰满的秃头女性少林僧人，中褐色皮肤，目光直视且强烈，眉毛浓密，佩戴大金环耳环、多层项链、手镯、念珠、护身符及风化织物配饰。她身穿 {argument name="robe color" default="藏红花金黄色"} 的多层僧袍，松散地包裹在肩部和胸前，露出腹部，穿着带有精致金色图案的宽松米白色哈伦裤，缠绕式米色靴子，以及一条长而破损的拖地腰带。她的表情威严、宁静且具有震慑力。
+
+布局与元素统计：总共展示 15 个角色/参考元素。中间包含 1 个占据画面中心的大型全身正面视图。周围包含 6 个额外的姿态/视图研究：1 个左侧全身侧视图，标注为“PROFILE”；1 个小型全身背面视图，标注为“BACK VIEW”；1 个上半身前倾姿态，标注为“LEANING POSE”；1 个盘腿坐姿，标注为“SEATED POSE”；1 个低位蹲姿，标注为“CROUCHING POSE”；以及 1 个戏剧性的低角度视图，标注为“LOW-ANGLE VIEW”。右上角包含 1 个俯视视角姿态，标注为“TOP-DOWN ANGLE”。左下角包含 3 个黑色剪影研究，标注为“SILHOUETTE STUDY”：带拖地腰带的正面剪影、背面剪影以及侧/背面剪影。底部中央包含 5 个面部表情缩略图，标注为“EXPRESSION STUDY”：冷静凝视、张口呐喊、严肃中性、担忧或紧张、以及向下怀疑的目光。右下角包含 4 个特写细节缩略图，标注为“DETAIL STUDY”：眼睛与耳环、多层胸前僧袍与项链、悬挂的念珠/护身符配饰、以及缠绕式靴子。
+
+视觉风格：照片级真实感的奇幻服饰概念设定集，带有细微的墨迹手写标签，真实的织物纹理、磨损的袍边、沾灰的靴子、精细的珠宝、自然的皮肤纹理以及统一的摄影棚灯光。整张设定集应呈现为专业的角色参考项目，而非漫画页面。
+
+约束条件：保持所有背景区域为纯白色或极浅的灰色。不要添加场景、武器、标志、水印、UI 元素或额外角色。保持精确的姿态分组和标签。确保角色在所有视图中视觉一致，拥有相同的光头、体型、服饰、珠宝和金色僧人身份。
+
+[English]
+Goal: Create a high-end cinematic character design sheet for {argument name="character name" default="MEI LIAN"}, a fierce Shaolin monk character with a shaved head, golden robes, and an unbreakable presence, suitable as a reference sheet for animation or game production.
+
+Canvas: Wide horizontal white studio canvas, approximately 16:9, clean negative space, photorealistic concept-art presentation with soft studio lighting and faint contact shadows under the character. Use a warm ochre, saffron, cream, and weathered gold palette.
+
+Top-left text block: Large title “{argument name="character name" default="MEI LIAN"}” in bold condensed uppercase golden-brown lettering. Under it include three concise lines: “ROLE: Shaolin Monk”, “CORE MOOD: Fierce. Unyielding. Transcendent.”, and “VISUAL SIGNATURE: Shaved head. Golden robes. Unbreakable will.”
+
+Main subject details: The character is a plus-size bald female Shaolin monk with medium-brown skin, intense direct gaze, strong eyebrows, large gold hoop earrings, layered necklaces, bracelets, prayer beads, talismans, and weathered fabric accessories. She wears {argument name="robe color" default="saffron golden-yellow"} layered monk robes wrapped loosely across the shoulders and chest, exposing the belly, with voluminous off-white harem pants printed with subtle gold motifs, wrapped beige boots, and a long torn trailing sash. Her expression is commanding, serene, and intimidating.
+
+Layout and counted elements: Show exactly 15 character/reference elements total. Include 1 large central full-body front view dominating the middle of the sheet. Include 6 additional pose/view studies around it: 1 left side profile full-body view labeled “PROFILE”, 1 small rear full-body view labeled “BACK VIEW”, 1 upper-body forward leaning pose labeled “LEANING POSE”, 1 seated cross-legged pose labeled “SEATED POSE”, 1 low crouching pose labeled “CROUCHING POSE”, and 1 dramatic low-angle view labeled “LOW-ANGLE VIEW”. Include 1 top-down perspective pose in the upper-right labeled “TOP-DOWN ANGLE”. Include 3 black silhouette studies along the lower-left labeled “SILHOUETTE STUDY”: front silhouette with trailing sash, rear silhouette, and side/rear silhouette. Include 5 face expression thumbnails along the lower center labeled “EXPRESSION STUDY”: calm intense stare, shouting open mouth, stern neutral face, worried or tense face, and downward suspicious glare. Include 4 close-up detail thumbnails along the lower-right labeled “DETAIL STUDY”: eyes and earrings, layered chest robe and necklaces, hanging bead/talisman accessories, and wrapped boot.
+
+Visual style: Photorealistic fantasy costume concept sheet with subtle ink-like handwritten labels, realistic fabric texture, frayed robe edges, dusty boots, detailed jewelry, natural skin texture, and consistent studio lighting. The sheet should feel like a professional character reference board, not a comic page.
+
+Constraints: Keep all background areas plain white or very light gray. Do not add scenery, weapons, logos, watermark, UI elements, or extra characters. Maintain the exact counted pose groups and labels. Make the character visually consistent across all views, with the same shaved head, body shape, costume, jewelry, and golden monk identity.
+```
+
+**来源：** [@lava ./](https://x.com/HaixiongS/status/2080135478855213513) | 2026-07-23
+
+---
+
+### 🧍 例 4865：城市屋顶镜面反射
+
+![城市屋顶镜面反射](../images/%E5%9F%8E%E5%B8%82%E5%B1%8B%E9%A1%B6%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="空を歩く鏡像"}
+
+主体：
+鏡面仕上げの都会の屋上に立つ、{argument name="人物" default="成人した20代女性ひとり"}。画面上端には本人の膝下と両足だけが見え、鏡面に映った全身像が上下反転した状態で画面中央から下部を大きく占める。黒いローファーと白い靴下、青空と人物の反射を主役にした幻想的なファッション写真。
+
+人物・表情：
+明るいアイボリーベージュの肌に、ほんのりローズ色の血色を含んだ自然な肌質。頬、鼻先、肩、鎖骨に控えめなハイライトを入れ、肌理を残す。淡いローズピンクのチーク、シャンパンベージュとピンクブラウンのアイメイク、細く長いまつ毛、自然な涙袋、柔らかなブラウン眉、透け感のあるピンクベージュのリップ。澄んだ瞳でカメラを静かに見つめ、口元はわずかに緩める。明るいミルクティーアッシュブラウンのミディアムロング。薄いシースルーバング、顔まわりのレイヤー、ゆるい内巻き、風で広がる細い毛束と自然な後れ毛。
+
+服装・ポーズ：
+生成り色のサテンと繊細なレースを組み合わせた、デザイン性の高い細身のキャミソール。胸元は上品なカーブライン、肩紐には小さなリボンと控えめな刺繍を施す。ボトムは同色のハイウエストミニスカート。左右非対称のシャーリング、細い編み上げコード、レースの縁取りを入れ、腰のラインが美しく見える立体的な仕立て。成人女性らしい自然で均整の取れた体型。両脚はまっすぐ伸ばし、足幅は肩幅より少し狭い。人物自身の右手は髪の近く、左手は肩紐付近に軽く添え、指先に力を入れすぎない。白いリブソックスには小さな赤い果実の刺繍、靴は{argument name="靴" default="厚底の黒いレザーローファー"}。
+
+背景・光：
+鏡面タイルには鮮やかな青空と大きな白い積雲が鮮明に映り込み、上端のガラス手すり越しに都会の高層ビルがぼけて見える。前景は実物のローファー、中景はタイルの継ぎ目と反射した人物、後景は空と雲。昼の自然光が画面左上から斜めに入り、脚、肩、鎖骨、髪の縁に柔らかな光を置く。影は右下へ薄く落ち、鏡面には青白い反射光が広がる。青、白、生成り、黒を中心にした爽やかな色彩。
+
+構図・カメラ：
+縦長2:3。真上に近い高い位置から見下ろす俯瞰撮影。画面上部約20％に実物の両脚と靴、残り約80％に上下反転した鏡像を配置する。反射した顔は画面下部中央、胴体は中央、脚は上方向へ伸びる。タイルの直線を対角線状に走らせ、空の広い余白を残す。35mm相当、遠近感は自然。人物と靴は精細に、遠方の建物は浅くぼかす。
+
+質感・スタイル：
+雑誌のファッションエディトリアルのような実写写真。自然な肌理、細い髪の一本一本、サテンの光沢、レースの透けと刺繍、革靴の反射、鏡面タイルの硬質感を精密に表現。透明感のある昼光、低めのコントラスト、青空は澄んだ発色。過度な美肌補正やCG感を避け、現実的な重力と反射を保つ。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、左右の靴の不一致、衣服の崩れ、肩紐の接続不良、反射像と実物の不一致、誤った遠近法、光源と矛盾する影、歪んだタイル、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2080129776631894353) | 2026-07-23
+
+---
+

@@ -9248,3 +9248,96 @@ Create a warm, soft watercolor-style square illustration of a very sleepy chubby
 
 ---
 
+### 🎨 例 4800：天体机械龙天文台
+
+![天体机械龙天文台](../images/%E5%A4%A9%E4%BD%93%E6%9C%BA%E6%A2%B0%E9%BE%99%E5%A4%A9%E6%96%87%E5%8F%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅超精细的电影级奇幻科幻插画，描绘一只巨大的 {argument name="dragon type" default="机械天体龙"} 位于广阔的宇宙奥术天文台内。龙占据画面胸部以上位置，略微朝左，拥有修长的棱角分明的头部、冠状锯齿角、层叠的黑枪色与银色装甲鳞片、锋利的结晶脊刺、利爪，以及巨大的半展开翅膀，翅膀由锋利的金属羽毛和半透明的金色发光水晶碎片组成。胸部中心有一个明亮的圆形金色反应堆或魔法核心，周围环绕着复杂的发条环和金银丝细工。龙将左爪抬向一块漂浮的半透明全息蓝图面板，上面布满了星图线条和建筑图解，右爪悬浮在一个精致的金色星盘平台上。周围环绕着 6 个主要的漂浮魔法界面元素：2 个半透明矩形蓝图屏幕、3 个圆形星盘或星座图，以及 1 个悬浮的华丽机械球体。环境是一个宏伟的天体工作室，拥有反光的深色石地板、金色轨道、微型大教堂般的尖塔、浑天仪、细长塔楼，以及用于对比比例的微小长袍人形角色。背景是深邃的星夜，充满了发光的星座网络、轨道环、神圣几何圆、火花和灿烂的金色光束。视觉风格：超写实史诗概念艺术、巴洛克发条设计、黑曜石黑、抛光银、暖金、电光蓝白全息图、极高细节、戏剧性轮廓光、体积光、清晰对焦、宏伟的垂直构图、令人敬畏的规模，无文字，无水印。
+
+[English]
+Create an ultra-detailed cinematic fantasy sci-fi illustration of a colossal {argument name="dragon type" default="mechanical celestial dragon"} inside a vast cosmic arcane observatory. The dragon dominates the frame from chest up, facing slightly left, with a long angular head, crown-like jagged horns, layered black gunmetal and silver armor scales, razor crystalline spines, clawed hands, and enormous partially spread wings made of sharp metallic feathers and translucent gold-lit crystal shards. A brilliant circular golden reactor or magical core glows in the center of its chest, with intricate clockwork rings and filigree around it. The dragon raises its left claw toward a floating translucent holographic blueprint panel filled with star-map lines and architectural diagrams, while its right claw hovers over a delicate golden astrolabe platform. Surround it with exactly 6 major floating magical interface elements: 2 translucent rectangular blueprint screens, 3 circular astrolabe or constellation diagrams, and 1 suspended ornate mechanical sphere. The environment is a grand celestial workshop with reflective dark stone floors, golden rails, miniature cathedral-like spires, armillary spheres, thin towers, and tiny robed humanoid figures for scale. The background is a deep starry night sky filled with glowing constellation networks, orbital rings, sacred geometry circles, sparks, and radiant gold light beams. Visual style: hyperrealistic epic concept art, baroque clockwork design, obsidian black, polished silver, warm gold, electric white-blue holograms, extremely high detail, dramatic rim lighting, volumetric glow, sharp focus, grand vertical composition, awe-inspiring scale, no text, no watermark.
+```
+
+**来源：** [@tane@AI](https://x.com/gin1910410/status/2080435479959548283) | 2026-07-23
+
+---
+
+### 🎨 例 4820：奢华丝绸与宝石
+
+![奢华丝绸与宝石](../images/%E5%A5%A2%E5%8D%8E%E4%B8%9D%E7%BB%B8%E4%B8%8E%E5%AE%9D%E7%9F%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+色彩的爆发，皇家 {argument name="fabric" default="丝绸"} 与层叠的 {argument name="details" default="宝石"} 交相辉映。每一根丝线都低语着奢华，每一抹闪光都诉说着故事。
+
+[English]
+An explosion of colors, where royal {argument name="fabric" default="silk"} meets a cascade of {argument name="details" default="gemstones"}. Every thread whispers luxury, every sparkle tells a story.
+```
+
+**来源：** [@AI Angel Neha](https://x.com/AIAngelNeha/status/2080325407786860642) | 2026-07-23
+
+---
+
+### 🎨 例 4823：水彩风偶像演唱会表演
+
+![水彩风偶像演唱会表演](../images/%E6%B0%B4%E5%BD%A9%E9%A3%8E%E5%81%B6%E5%83%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A1%A8%E6%BC%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张光影灵动的水彩动漫偶像演唱会插画，主角为 {argument name="character name" default="Tachibana Kohaku"}，画面中心为一位年轻的女性歌手，采用大腿以上的半身构图，呈现动态的三分之四侧面。她留着 {argument name="hair color" default="柔软的金色短发"}，一侧装饰着蓝白相间的花朵发饰和丝带，皮肤白皙，灰蓝色的双眸闪烁着光芒，脸上带着温暖动人的微笑。她身穿一件白蓝相间的褶边偶像礼服，服装包含 5 个核心细节：带有金色交叉系带的修身束腰上衣、蓝色花朵颈饰、露肩丝带肩带、多层褶皱裙摆以及精致的袖口花边。她的右手拿着 1 支黑色手持麦克风靠近嘴边，左手向观众伸出，掌心向上，仿佛在发出深情的邀请。背景是绚丽的演唱会现场，充盈着朦胧的蓝紫色水彩晕染、星形闪光、五彩纸屑，以及从画面顶部投射下的 5 道清晰可见的明亮聚光灯光束。画面底部边缘加入深色的观众剪影和发光的蓝白色应援棒，通过轻微的模糊和裁剪来增强景深感。采用透明的手绘水彩风格，保留可见的笔触、纸张纹理、柔和的颜料晕染、层叠的色彩以及富有表现力的喷溅效果，以传达出璀璨的光感。配色方案：{argument name="main color palette" default="冰雪白、天蓝色、薰衣草紫和淡金色"}。构图应充满希望、情感与光芒，如同捕捉到光芒回归瞬间的梦幻偶像表演。竖向肖像画幅，高细节，无文字，无水印，无 Logo，非写实照片风格。
+
+[English]
+Create a luminous watercolor anime idol concert illustration of {argument name="character name" default="Tachibana Kohaku"}, a single young female singer centered on stage, shown from mid-thigh up in a dynamic three-quarter pose. She has {argument name="hair color" default="short soft blonde hair"} with a blue-and-white flower hair ornament and ribbon on one side, pale skin, sparkling gray-blue eyes, and a warm emotional smile. She wears a white and pale-blue frilled idol dress with exactly 5 main outfit features: a fitted corset bodice with gold crisscross lacing, a blue floral neck accent, off-shoulder ribbon straps, layered ruffled skirt panels, and delicate wrist frills. Her right hand holds exactly 1 black handheld microphone near her mouth, while her left arm reaches toward the viewer with an open palm, creating a heartfelt invitation. The background is a dazzling concert venue filled with misty blue-violet washes, star-shaped sparkles, confetti, and exactly 5 bright overhead spotlights casting visible white beams down from the top of the image. At the bottom edge, include dark audience silhouettes and glowing blue-white concert light sticks, slightly blurred and cropped to emphasize depth. Use a transparent, hand-painted watercolor style with visible brushstrokes, paper texture, soft bleeding pigments, layered washes, luminous whites, and expressive splatter effects to convey radiant light. Color palette: {argument name="main color palette" default="icy white, sky blue, lavender, and pale gold"}. Composition should feel hopeful, emotional, and radiant, like a magical idol performance capturing the idea of light returning. Vertical portrait canvas, high detail, no text, no watermark, no logo, no photorealism.
+```
+
+**来源：** [@kai](https://x.com/kai_tetu/status/2080309716706856977) | 2026-07-23
+
+---
+
+### 🎨 例 4832：蒸汽朋克西施犬与月光之城
+
+![蒸汽朋克西施犬与月光之城](../images/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%E8%A5%BF%E6%96%BD%E7%8A%AC%E4%B8%8E%E6%9C%88%E5%85%89%E4%B9%8B%E5%9F%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 宽屏电影级暗黑奇幻蒸汽朋克插画。画面中仅出现一只小型西施犬英雄，{argument name="dog breed" default="Shih Tzu"}，它站在左侧前景长满苔藓的山丘上，面向右侧，呈现出骄傲的冒险姿态。这只狗拥有随风飘动的奶油色与金色长毛、深邃且富有表现力的大眼睛，表情严肃而冷峻，身着粗犷的蒸汽朋克冒险家服装：一件高领深色皮衣、一条皮带背带、一个小背包、靴子，以及一条在风中向左剧烈飘动的长围巾或破损斗篷。背景是一座广阔的维多利亚时代蒸汽朋克城市，夜色中矗立着高耸的尖塔、烟囱、圆顶、桥梁和明亮的窗户，右侧一座显眼的钟楼倒映在下方的深色水域中。天空中包含一轮位于右上方的巨大黄色满月，以及一艘位于右上方的齐柏林飞艇，飞艇上带有微小的暖色舱灯。画面两侧由深色树木环绕，最左侧有一棵大树干；前景中加入随风飘落的黄叶。使用忧郁的黑金黄色调限定配色，高对比度，明亮的月光，烟雾缭绕的云层，星空，狗毛上戏剧性的轮廓光，细腻的绘画感概念艺术纹理，史诗般的绘本氛围，无文字，无水印。
+
+[English]
+Create a cinematic dark fantasy steampunk illustration in a wide 16:9 landscape format. The scene shows exactly one small Shih Tzu dog hero, {argument name="dog breed" default="Shih Tzu"}, standing on a mossy hill in the left foreground, facing right in a proud adventurous pose. Give the dog long windblown cream-and-gold fur, large dark expressive eyes, and a serious cool expression, dressed in a rugged steampunk adventurer outfit: one dark leather coat with high collar, one belt harness, one small backpack, boots, and a long scarf or torn cape streaming dramatically to the left in the wind. The background is a vast Victorian steampunk city at night with tall spires, smokestacks, domes, bridges, glowing windows, and one prominent clock tower on the right side reflected in dark water below. In the sky include exactly one large yellow full moon near the upper center-right and exactly one zeppelin airship in the upper right, with tiny warm cabin lights. Frame the composition with dark trees on both sides and a large tree trunk on the far left; add windblown yellow leaves in the foreground. Use a moody black-and-golden-yellow limited color palette, high contrast, glowing moonlight, smoky clouds, starry sky, dramatic rim lighting on the dog’s fur, detailed painterly concept-art texture, epic storybook atmosphere, no text, no watermark.
+```
+
+**来源：** [@mic](https://x.com/333mic999/status/2080281708172353703) | 2026-07-23
+
+---
+
+### 🎨 例 4834：《药屋少女的呢喃》角色群组
+
+![《药屋少女的呢喃》角色群组](../images/%E3%80%8A%E8%8D%AF%E5%B1%8B%E5%B0%91%E5%A5%B3%E7%9A%84%E5%91%A2%E5%96%83%E3%80%8B%E8%A7%92%E8%89%B2%E7%BE%A4%E7%BB%84.jpg)
+
+**Prompt:**
+
+```text
+AIコスプレ
+『薬屋のひとりごと』
+キャラ
+緑の服＝猫猫（主役）
+赤い服＝玉葉妃
+青い服＝梨花妃
+紫の服＝桜蘭妃
+桃の服＝里樹妃
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2080271219329503387) | 2026-07-23
+
+---
+

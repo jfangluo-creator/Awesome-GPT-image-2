@@ -3222,3 +3222,41 @@ low quality, blurry, noisy, oversaturated, plastic skin, bad anatomy, distorted 
 
 ---
 
+### 🏛️ 例 4810：对称式城市时尚大片
+
+![对称式城市时尚大片](../images/%E5%AF%B9%E7%A7%B0%E5%BC%8F%E5%9F%8E%E5%B8%82%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+一位{argument name="人物角色" default="年轻成年女性模特"}站在{argument name="场景" default="现代城市建筑广场"}中央，正面朝向镜头，几乎全身入镜，位于画面正中，采用严格中轴对称构图。她站在一条雨后湿润的深色木质步道上，地面有明显反光和建筑倒影。两侧是高大现代玻璃建筑，中央远处是一组矩形高层塔楼，线条冷峻、极简、具有未来感。天空为厚重阴天，灰蓝色云层密布，没有阳光，整体冷调、低饱和、低对比。
+
+模特身材高挑纤细，姿态端正克制，双臂自然下垂，表情冷静、疏离、时尚感强。发型为贴头的低扎或后梳造型，面部精致，妆容极简。她穿一套{argument name="服装风格" default="高级白色时装"}：高领不对称上衣或斗篷式长披肩，自左肩垂下长长拖尾；下身为带复杂提花或刺绣纹理的高腰阔腿长裤与立体裙摆结构，整体像高级定制礼服与现代极简时装结合。服装面料带细腻织纹和微弱光泽，但整体保持克制的纯白与冷白色层次。
+
+摄影风格：全身时尚 editorial，建筑空间感强，85mm 镜头或略长焦效果，视角平视，深景深到中等景深，人物清晰，建筑也清晰，真实光学透视。强调雨后空气感、湿润木板纹理、玻璃幕墙反射、天空层次、服装拖尾与地面倒影。照片级真实感，真实皮肤纹理，轻微胶片颗粒。
+
+避免： 卡通、CG感、过度磨皮、暖色夕阳、杂乱人群、夸张动作、彩色服装、畸形手脚、建筑变形、文字、水印、Logo。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2080382446294429842) | 2026-07-23
+
+---
+
+### 🏛️ 例 4813：悬疑惊悚风格卧室笔记本电脑场景
+
+![悬疑惊悚风格卧室笔记本电脑场景](../images/%E6%82%AC%E7%96%91%E6%83%8A%E6%82%9A%E9%A3%8E%E6%A0%BC%E5%8D%A7%E5%AE%A4%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满电影质感的悬疑剧照，场景设定在夜晚昏暗且杂乱的卧室中，采用 16:9 宽画幅，呈现写实的真人摄影效果。在右侧前景中，一位 {argument name="woman character" default="留着齐肩棕色头发、面露疲惫的年轻女性"} 弓着身子坐在凌乱的书桌前，全神贯注地盯着右下方画框外的笔记本电脑；她的脸被屏幕发出的冷蓝色光照亮，神情严肃而焦虑。在她身后的中景处，略微失焦的位置，一位 {argument name="man character" default="身穿深色夹克、高个子深色头发的男子"} 安静地站在房间里注视着她，身影大部分隐没在阴影中。房间内共有两盏可见的灯：一盏是位于女性左后方散发暖光的床头灯，另一盏是位于右侧窗边散发微光的小型台灯。右侧设有一扇大窗户，透进雨夜的蓝色光线，窗外可见模糊的树木和类似小屋的外部灯光。书桌应呈现出真实的使用痕迹，摆放着纸张、小容器、笔和电脑配件，而床和床头柜则在背景中显得昏暗。采用浅景深、自然主义的低调照明、青橙色调对比、柔和的颗粒感、细腻的镜头柔光效果，营造出紧张的心理惊悚氛围。无文字、无字幕、无 Logo、无风格化处理；使其看起来像是一帧由变形电影镜头拍摄的高预算悬疑剧画面。
+
+[English]
+Create a moody cinematic film still in a dark, cluttered bedroom at night, shot in a wide 16:9 aspect ratio with realistic live-action photography. In the foreground on the right, a {argument name="woman character" default="tired young woman with shoulder-length brown hair"} sits hunched at a messy desk, intensely focused on a laptop just out of frame to the lower right; her face is lit by cool bluish screen light, showing a serious, anxious expression. Behind her in the mid-background, slightly out of focus, a {argument name="man character" default="tall dark-haired man in a dark jacket"} stands in the room watching her quietly, his figure mostly in shadow. The room contains exactly two visible lamps: one warm bedside lamp glowing near the back left of the woman, and one small angled desk lamp glowing near the window on the right. Include one large window on the right with rainy blue evening light and blurred trees and a cabin-like exterior light outside. The desk should feel lived-in and cluttered with papers, small containers, pens, and computer items, while the bed and nightstand sit dimly in the background. Use shallow depth of field, naturalistic low-key lighting, teal-and-amber color contrast, soft grain, subtle lens softness, and tense psychological-thriller atmosphere. No text, no subtitles, no logos, no stylization; make it look like a high-budget suspense drama frame captured on an anamorphic cinema lens.
+```
+
+**来源：** [@Roope Rainisto](https://x.com/rainisto/status/2080345428399141136) | 2026-07-23
+
+---
+

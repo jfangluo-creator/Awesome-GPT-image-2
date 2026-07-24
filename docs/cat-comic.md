@@ -7551,3 +7551,21 @@ Create a vertical black-and-white manga illustration of a serene, androgynous yo
 
 ---
 
+### 🎬 例 4861：黑白漫画风袴装少年
+
+![黑白漫画风袴装少年](../images/%E9%BB%91%E7%99%BD%E6%BC%AB%E7%94%BB%E9%A3%8E%E8%A2%B4%E8%A3%85%E5%B0%91%E5%B9%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个全身黑白漫画风格的角色站立姿势，背景为纯白：一位身材苗条的日本年轻男性角色，{argument name="character name" default="未命名的美少年学生"}，皮肤白皙，表情严肃安静，拥有大而锐利的动漫眼睛，以及富有光泽的 {argument name="hair color" default="黑色"} 中长发，中分发型，长刘海遮住部分眼睛。他身体微侧，姿态放松且挺拔，一只手垂在身侧，另一只手插在袖口或口袋区域，目视前方，流露出一种内敛忧郁的气质。为他穿上正式的日式传统服装：共 5 件可见的服装部件，包括一件挺括的白色翻领衬衫，外搭一件宽袖黑色和服式上衣，腰间系着裹式腰带，下身穿着长及脚踝的灰色垂直褶皱袴裤，脚蹬擦得锃亮的黑色系带皮靴。采用高细节的黑白漫画线条艺术，带有精致的排线、逼真的布料褶皱、头发和鞋子上的光泽高光、优雅的比例、干净纤细的轮廓线、细腻的灰度阴影，除灰度外无任何颜色，无文字，无道具，无背景景观，居中构图，留白充足，呈现时尚角色设定图风格。
+
+[English]
+Create a full-body standing character design sheet of a slim young anime man named {argument name="character name" default="unnamed young man"} on a plain white background, drawn in detailed black-and-white manga ink style with fine crosshatching and grayscale shading. He has pale skin, a delicate serious expression, large sharp eyes, and glossy {argument name="hair color" default="black"} medium-length hair parted near the center with long bangs partly covering one eye. Pose him facing forward with a slight contrapposto, head subtly tilted down, one arm relaxed at his side and the other hand tucked into his sleeve or pocket area. Dress him in a modern Japanese formal outfit combining traditional and contemporary elements: a dark kimono-style haori jacket with wide sleeves over a white collared shirt, a wrapped obi belt tied at the waist, long vertically pleated hakama trousers in medium gray, and polished black lace-up dress boots. The image contains exactly one character and exactly five main visible outfit pieces: dark haori jacket, white collared shirt, obi belt, pleated hakama trousers, and black lace-up boots. Use elegant fashion-illustration proportions, long legs, narrow shoulders, crisp garment folds, strong black highlights in the hair and shoes, and no text, props, scenery, borders, or watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2080138840514433162) | 2026-07-23
+
+---
+

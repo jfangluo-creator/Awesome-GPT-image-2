@@ -11732,3 +11732,263 @@ Use the uploaded image as the sole reference while preserving the exact identity
 
 ---
 
+### 🏷️ 例 4803：动漫浴衣祭典小巷
+
+![动漫浴衣祭典小巷](../images/%E5%8A%A8%E6%BC%AB%E6%B5%B4%E8%A1%A3%E7%A5%AD%E5%85%B8%E5%B0%8F%E5%B7%B7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影感十足的竖版动漫插画，描绘一位年轻日本女性在夏日祭典期间，站在夜晚狭窄的复古商业街小巷中。画面展示她从背后四分之三侧转，温柔地回眸看向观众，表情平静而怀旧，手中拿着一颗光泽诱人的红色糖苹果靠近脸庞。她身穿深蓝色浴衣，上面印有浅色花卉图案，背后系着暖赭色的腰带蝴蝶结；深棕色长发松散地盘起，几缕发丝随风飘动，发间别着一朵浅色花饰。小巷上方覆盖着高大的拱形玻璃金属顶棚，顶棚留有开口通向夜空，一朵巨大的金色烟花在街道正上方绽放。小巷两侧布满了古老的木质店面、关闭的金属卷帘门、悬挂的日式招牌以及发光的橙色纸灯笼；地面是雨后湿漉漉的石板路，倒映着灯笼、烟花和商店的灯光。请严格包含以下主要视觉元素：1 位女性主体、1 颗糖苹果、1 朵巨大的烟花爆裂、1 朵显眼的发饰花朵、1 个背部腰带蝴蝶结、多个向深处延伸的日式灯笼和店招。风格应为细节丰富、现代动漫风格的视觉主图，采用俯瞰小巷的戏剧性视角，暖琥珀色灯光与冷蓝色夜影交织，营造出体积雾和蒸汽感、闪烁的烟花余烬、光泽倒影、浅景深、质感丰富的建筑细节，以及浪漫怀旧的氛围。画面中无现代汽车，无水印，无任何可辨识的英文字符。
+
+[English]
+Create a cinematic vertical anime illustration of a young Japanese woman at a summer festival standing in a narrow old-fashioned shopping alley at night. She is shown from behind in a three-quarter turn, looking back softly toward the viewer with a calm, wistful expression, holding one glossy red candied apple on a stick near her face. She wears a dark navy yukata with pale floral patterns and a warm ochre obi tied in a bow at the back; her dark brown hair is loosely pinned up with stray windblown strands and one pale flower hair ornament. The alley is covered by a high arched glass-and-metal arcade roof with an opening to the night sky, where a large golden firework explodes directly above the street. Surround both sides with aged wooden storefronts, closed metal shutters, hanging Japanese shop signs, and glowing orange paper lanterns; include wet stone pavement reflecting lantern light, fireworks, and shop lights after rain. Use exactly these main visible repeated elements: 1 female subject, 1 candied apple, 1 large firework burst, 1 prominent hair flower, 1 back obi bow, multiple Japanese lanterns and shop signs receding into depth. Style should be highly detailed modern anime key visual, dramatic perspective looking down the alley, warm amber lighting mixed with cool blue night shadows, volumetric mist and steam, sparkling firework embers, glossy reflections, shallow depth of field, richly textured architecture, romantic nostalgic mood, no modern cars, no watermark, no readable English text.
+```
+
+**来源：** [@田中勇道 | AI画像・動画生成](https://x.com/yudotanaka/status/2080424216231383277) | 2026-07-23
+
+---
+
+### 🏷️ 例 4824：奇幻螃蟹 Boss 战 UI
+
+![奇幻螃蟹 Boss 战 UI](../images/%E5%A5%87%E5%B9%BB%E8%9E%83%E8%9F%B9%20Boss%20%E6%88%98%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的奇幻 JRPG / 社交手游 Boss 战截图，展示一支小队正在对抗一只释放光束攻击的巨型螃蟹怪物。
+
+画布：16:9 宽屏电影级游戏战斗画面，高细节动漫写实奇幻风格，深蓝色夜间色调，搭配鲜艳的青色魔法、橙色火花、爆炸、碎石以及强烈的泛光照明。
+
+场景：暴风雨夜空下的废弃岩石战场，背景是破碎的石柱和燃烧的废墟。空中充斥着漂浮的碎片、余烬、闪电般的魔法能量和烟雾。镜头处于低位，位于英雄后方略侧，朝向巨大的 Boss。
+
+Boss：一只巨大的装甲螃蟹敌人占据了画面的右上角和中心。它拥有 2 只高高举起的巨螯、多节的腿部、坚硬的蓝褐色甲壳、发光的高光部分以及令人生畏的面部。Boss 正从双螯之间发光的球体向英雄们发射一道耀眼的青白色魔法光束，在中心产生巨大的冲击闪光。
+
+英雄：在前景展示 3 名可玩角色，均面向螃蟹 Boss。1) KAITO，一名深色头发的男性剑士，位于中左侧，正持发光的剑抵御光束。2) RINA，一名长发深色的女性法师或辅助战士，位于中右侧，手持法杖或魔杖，带有青蓝色魔法效果。3) YUNA，一名金发女性法师，身穿飘逸的蓝色长袍，位于最左侧，手持法杖并为小队施加蓝色的保护屏障。让小队看起来强大且英勇，呈现出顶级抽卡类 RPG 的战斗场景。
+
+用户界面：添加精致的奇幻 RPG 战斗 UI 覆盖层。左上角的 Boss 面板包含一个小螃蟹头像图标，标签为“BOSS : ENEMY”，Boss 名称为“{argument name="boss name" default="アビサル・クロウ"} Lvl 68”，一条长长的红/橙色 HP 条，以及 HP 文本“1,450,000/1,450,000 HP”。左下角的小队状态面板列出 3 行角色信息，包含头像、名称、等级、HP、MP 和彩色条：“{argument name="hero one name" default="KAITO"} Lvl 65 HP 4820/5500 MP 120/120”、“{argument name="hero two name" default="RINA"} Lvl 63 HP 3550/3900 MP 280/300”以及“{argument name="hero three name" default="YUNA"} Lvl 62 HP 3800/4000 MP 310/320”。右侧指令菜单包含 5 个堆叠的斜角按钮，分别标注为 ATTACK、SKILL、ITEM、DEFEND、OVERDRIVE，其中 ATTACK 以橙色高亮显示。在指令菜单上方，添加小型的地点标签“岩の廃墟”。底部中央的攻击名称牌带有华丽的金色边框，显示“{argument name="attack name" default="蟹光線"}”。
+
+视觉风格：高度精细的 AAA 级动漫奇幻插画，清晰的角色轮廓，电影级的动作构图，强烈的动感，体积光，魔法粒子，反光的盔甲，细腻的螃蟹纹理，华丽的金色 UI 边框，清晰易读的文字，无水印，无多余角色，无多余菜单选项。
+
+[English]
+Goal: Create a dramatic fantasy JRPG / social-mobile-game boss battle screenshot featuring a party fighting a gigantic crab monster casting a beam attack.
+
+Canvas: Wide 16:9 cinematic game battle screen, high-detail anime-realistic fantasy art, dark blue night palette with vivid cyan magic, orange sparks, explosions, rubble, and strong bloom lighting.
+
+Scene: A ruined rocky battlefield under a stormy night sky, with broken stone pillars and burning ruins in the background. Floating debris, embers, lightning-like magical energy, and smoke fill the air. The camera is low and slightly behind the heroes, looking toward the enormous boss.
+
+Boss: A colossal armored crab enemy dominates the upper-right and center of the scene. It has exactly 2 huge raised claws, multiple segmented legs, a hard blue-brown shell, glowing highlights, and an intimidating face. The boss is firing a brilliant cyan-white magical beam from a glowing orb between its claws down toward the heroes, creating a massive impact flare at the center.
+
+Heroes: Show exactly 3 playable characters in the foreground, all facing the crab boss. 1) KAITO, a dark-haired male swordsman in armor, center-left, bracing with a glowing sword against the beam. 2) RINA, a long dark-haired female mage or support fighter, center-right, holding a staff or wand with green-blue magic. 3) YUNA, a blonde female mage in a flowing blue robe, far left, holding a staff and casting a protective blue barrier around the party. Make the party look strong and heroic, like a premium gacha RPG battle scene.
+
+User interface: Add a polished fantasy RPG battle UI overlay. Top-left boss panel contains a small crab portrait icon, the label “BOSS : ENEMY”, the boss name “{argument name="boss name" default="アビサル・クロウ"} Lvl 68”, a long red/orange HP bar, and the HP text “1,450,000/1,450,000 HP”. Bottom-left party status panel lists exactly 3 character rows with portraits, names, levels, HP, MP, and colored bars: “{argument name="hero one name" default="KAITO"} Lvl 65 HP 4820/5500 MP 120/120”, “{argument name="hero two name" default="RINA"} Lvl 63 HP 3550/3900 MP 280/300”, and “{argument name="hero three name" default="YUNA"} Lvl 62 HP 3800/4000 MP 310/320”. Right side command menu contains exactly 5 stacked beveled buttons labeled ATTACK, SKILL, ITEM, DEFEND, OVERDRIVE, with ATTACK highlighted in orange. Above the command menu, add the small location label “岩の廃墟”. Bottom-center attack name plaque with ornate gold trim displays “{argument name="attack name" default="蟹光線"}”.
+
+Visual style: Highly polished AAA anime fantasy illustration, sharp character silhouettes, cinematic action composition, intense motion, volumetric light, magical particles, reflective armor, detailed crab texture, ornate gold UI frames, crisp readable text, no watermark, no extra characters, no extra menu options.
+```
+
+**来源：** [@まろちん](https://x.com/neru_marosama/status/2080306424153010492) | 2026-07-23
+
+---
+
+### 🏷️ 例 4851：混合媒体广告模板
+
+![混合媒体广告模板](../images/%E6%B7%B7%E5%90%88%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+品牌名称：{argument name="brand name" default="[品牌名称]"}
+核心产品：{argument name="hero product" default="[核心产品]"}
+产品排列：[产品排列]
+插画角色：[插画角色]
+角色动作：[角色动作]
+主标题：[主标题]
+副标题：[副标题]
+配色方案：[配色方案]
+插画颜色：[插画颜色]
+背景颜色：{argument name="background color" default="[背景颜色]"}
+图形主题：[图形主题]
+图像比例：[图像比例]
+
+创建一个 [图像比例] 的高级混合媒体产品广告，将照片级真实感的商业产品摄影与一个原创手绘编辑风格角色相结合。
+
+如果提供了产品图片，请保留其形状、比例、颜色、材质、纹理、包装、标签、Logo 位置及独特细节。在不重新设计产品的前提下移除原始背景。
+
+如果提供了人物照片，请在将其转换为简约的编辑风格线条插画时，保留其可辨识的特征。
+
+如果没有提供参考资料，请根据书面规格生成 [核心产品] 和 [插画角色]。
+
+为“[品牌名称]”创作一个原创广告活动，以 [核心产品] 作为核心对象。引入 [插画角色]，使其在产品上方、旁边或周围自然地执行 [角色动作]。
+
+使用极简的非对称构图，并留出充足的负空间。将 [核心产品] 以 [产品排列] 方式放置在画面下方的中心前景，占据约 40%–55% 的画布空间。将插画角色放置在与产品自然互动的位置。
+
+使用 [背景颜色] 作为主背景，并以受 [图形主题] 启发的超大裁剪形状来构图。
+
+以高级商业写实风格渲染 [核心产品]，保留真实的纹理、高光、阴影、比例和细微瑕疵。多个产品应在角度和位置上自然变化。
+
+使用 [插画颜色] 以及源自 [配色方案] 的微妙填充，以精致的编辑风格线条艺术创作 [插画角色]。确保其与产品的互动在解剖学上准确。
+
+准确书写标题：
+“[主标题]”
+
+准确书写副标题：
+“[副标题]”
+
+以超大号粗体几何字体显示标题，排列在一行或两行，且不遮挡产品。使用 [配色方案] 中的协调色彩。在附近使用简洁的无衬线字体或微妙的斜体字显示副标题。
+
+准确显示品牌名称：
+“[品牌名称]”
+
+将其微妙地放置在上边缘或下边缘。除非另有提供，否则不要添加额外的 Logo、网址、价格或社交媒体元素。
+
+仅将 [图形主题] 用作裁剪边缘图形，且不得与标题、角色或产品重叠。
+
+应用柔和的定向摄影棚灯光，呈现真实的色调深度和接地阴影。在保持统一的广告活动美学的同时，确保照片级真实元素与插画元素之间的清晰区分。
+
+风格：高级混合媒体广告、照片级真实感核心产品、编辑风格手绘角色、现代排版、极简负空间构图、当代生活方式品牌推广、Behance 品质商业艺术指导
+
+[English]
+[BRAND NAME]
+[HERO PRODUCT]
+[PRODUCT ARRANGEMENT]
+[ILLUSTRATED CHARACTER]
+[CHARACTER ACTION]
+[PRIMARY HEADLINE]
+[SUPPORTING LINE]
+[COLOR PALETTE]
+[ILLUSTRATION COLOR]
+[BACKGROUND COLOR]
+[GRAPHIC MOTIF]
+[IMAGE RATIO]
+
+Create a premium mixed-media product advertisement in [IMAGE RATIO], combining photorealistic commercial product photography with one original hand-drawn editorial character.
+
+If a product image is provided, preserve its shape, proportions, colors, materials, textures, packaging, labels, logo placement, and distinctive details. Remove the original background without redesigning the product.
+
+If a person's photo is provided, preserve their recognizable features while translating them into a simplified editorial line illustration.
+
+If no references are provided, generate [HERO PRODUCT] and [ILLUSTRATED CHARACTER] from the written specifications.
+
+Create an original campaign for "{argument name="brand name" default="[BRAND NAME]"}" featuring {argument name="hero product" default="[HERO PRODUCT]"} as the hero object. Introduce [ILLUSTRATED CHARACTER] performing [CHARACTER ACTION] naturally on, beside, or around the product.
+
+Use a minimal asymmetrical composition with generous negative space. Place [HERO PRODUCT] in the lower-center foreground using [PRODUCT ARRANGEMENT], occupying approximately 40–55% of the canvas. Position the illustrated character interacting naturally with the product.
+
+Use {argument name="background color" default="[BACKGROUND COLOR]"} as the primary background and frame the composition with oversized cropped forms inspired by [GRAPHIC MOTIF].
+
+Render [HERO PRODUCT] with premium commercial realism, preserving realistic textures, highlights, shadows, proportions, and subtle imperfections. Multiple products should vary naturally in angle and position.
+
+Create [ILLUSTRATED CHARACTER] in refined editorial line-art using [ILLUSTRATION COLOR] with subtle fills derived from [COLOR PALETTE]. Ensure anatomically correct interaction with the product.
+
+Write the headline exactly:
+"[PRIMARY HEADLINE]"
+
+Write the supporting line exactly:
+"[SUPPORTING LINE]"
+
+Display the headline in oversized bold geometric typography, arranged across one or two lines without covering the product. Use coordinated colors from [COLOR PALETTE]. Display the supporting line nearby using a clean sans-serif or subtle italic typeface.
+
+Display the brand name exactly:
+"[BRAND NAME]"
+
+Place it subtly within the upper or lower margin. Do not add extra logos, websites, prices, or social media elements unless provided.
+
+Use [GRAPHIC MOTIF] only as cropped edge graphics without intersecting the headline, character, or product.
+
+Apply soft directional studio lighting with realistic tonal depth and grounding shadows. Maintain clear separation between photorealistic and illustrated elements while preserving a unified campaign aesthetic.
+
+Style: Premium mixed-media advertising, photorealistic hero product, editorial hand-drawn character, modern typography, minimal negative-space composition, contemporary lifestyle branding, Behance-quality commercial art direction
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2080163152134836702) | 2026-07-23
+
+---
+
+### 🏷️ 例 4852：痛车旅行车设计
+
+![痛车旅行车设计](../images/%E7%97%9B%E8%BD%A6%E6%97%85%E8%A1%8C%E8%BD%A6%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+{argument name="イラスト" default="あなた"}のイラストの世界観を愛のこもった痛いワゴン車に
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2080161830107021720) | 2026-07-23
+
+---
+
+### 🏷️ 例 4855：霓虹水母科学标本
+
+![霓虹水母科学标本](../images/%E9%9C%93%E8%99%B9%E6%B0%B4%E6%AF%8D%E7%A7%91%E5%AD%A6%E6%A0%87%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个 {argument name="subject" default="发光水母"} 悬浮在 {argument name="background" default="纯黑背景"} 上，呈现出未来派科学标本图鉴的效果。其半透明的伞盖散发着 {argument name="colors" default="饱和的霓虹洋红、紫外紫、电光青、钴蓝和荧光绿"} 的光芒，内部可见分支状的脉络结构和细腻的细胞纹理。长长的丝带状触须向下优雅地弯曲延伸，每一条边缘都闪烁着荧光。在左侧，六个整洁的矩形色块展示了从水母薄膜中提取的渐变色和微观纹理研究。高对比度紫外线摄影，虹彩生物细节，清晰的对称性，极简构图，深邃的黑色负空间，超现实自然历史美学，极具放射感的霓虹色彩。
+
+[English]
+A {argument name="subject" default="luminous jellyfish"} suspended against a {argument name="background" default="pure black background"}, presented like a futuristic scientific specimen plate. Its translucent bell glows in {argument name="colors" default="saturated neon magenta, ultraviolet purple, electric cyan, cobalt blue, and toxic green"}, with branching vein-like structures and fine cellular textures visible inside. Long ribbon-like tentacles trail downward in elegant curves, each edge illuminated by fluorescent light. Along the left side, six clean rectangular swatches show gradients and macro texture studies derived from the jellyfish’s membranes. High-contrast ultraviolet photography, iridescent biological detail, crisp symmetry, minimal composition, deep black negative space, surreal natural-history aesthetic, intensely radiant neon color.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2080149053619228738) | 2026-07-23
+
+---
+
+### 🏷️ 例 4857：斯堪的纳维亚风格镜面反射肖像
+
+![斯堪的纳维亚风格镜面反射肖像](../images/%E6%96%AF%E5%A0%AA%E7%9A%84%E7%BA%B3%E7%BB%B4%E4%BA%9A%E9%A3%8E%E6%A0%BC%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实 DSLR 抓拍照片，呈现与参考图像中相同的女性，高度精准地保留其面部特征、发型和整体外貌，她正身处设计精美的 {argument name="room style" default="IKEA 风格卧室展厅"} 中放松。画面并非直接拍摄人物，而是完全通过一面超大豪华镜子的反射来捕捉整个场景。
+
+她 {argument name="activity" default="正随意翻阅一本生活方式杂志"}，坐在铺设整齐的床边，头顶悬挂着温暖的吊灯。前景包含模糊的植物和家具边缘，营造出一种隐蔽的观察者视角。
+
+豪华斯堪的纳维亚室内设计，真实的抓拍瞬间，高级编辑摄影，自然色彩，浅景深，{argument name="lens" default="85mm DSLR"}，电影级写实感，Pinterest 美学，超精细皮肤纹理，高度精准的参考图像面部还原，无文字。
+
+[English]
+Ultra-realistic DSLR candid photograph of the same woman as the reference image, preserving her facial identity, hairstyle, and overall appearance with high accuracy, relaxing inside a beautifully designed {argument name="location" default="IKEA-style bedroom showroom"}. Instead of photographing her directly, the entire scene is captured only through the reflection of an oversized luxury mirror.
+
+She casually {argument name="activity" default="reads a lifestyle magazine"} while sitting on the edge of a perfectly made bed under warm pendant lights. Foreground contains blurred plants and furniture edges, creating a hidden observer perspective.
+
+Luxury {argument name="interior style" default="Scandinavian"} interior, authentic candid moment, premium editorial photography, natural colors, shallow depth of field, 85mm DSLR, cinematic realism, Pinterest aesthetic, ultra-detailed skin, highly accurate face preservation from the reference image, no text.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2080145468806598930) | 2026-07-23
+
+---
+
+### 🏷️ 例 4864：痛车 (Itasha) 定制
+
+![痛车 (Itasha) 定制](../images/%E7%97%9B%E8%BD%A6%20(Itasha)%20%E5%AE%9A%E5%88%B6.jpg)
+
+**Prompt:**
+
+```text
+{argument name="イラスト" default="あなた"}のイラストの世界観を愛のこもった痛い車に
+```
+
+**来源：** [@ぽちいな](https://x.com/pochiina/status/2080132826213818698) | 2026-07-23
+
+---
+
+### 🏷️ 例 4871：AI Vibe Coding 演进图谱
+
+![AI Vibe Coding 演进图谱](../images/AI%20Vibe%20Coding%20%E6%BC%94%E8%BF%9B%E5%9B%BE%E8%B0%B1.jpg)
+
+**Prompt:**
+
+```text
+我需要了解整个 {argument name="主题" default="AI vibe coding"} 的发展历程，{argument name="模型列表" default="Claude，chatgpt ，kimi, glm , deepseek"} 这些模型之间在整个历程上扮演的角色，生成一张尽可能详细的布局图和地图
+```
+
+**来源：** [@西南](https://x.com/Nobike2026/status/2080102913133990140) | 2026-07-23
+
+---
+

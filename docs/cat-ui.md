@@ -9699,3 +9699,141 @@ Ultra-realistic luxury editorial, 9:16. Full-body portrait of a {argument name="
 
 ---
 
+### 🖥️ 例 4822：古典音乐家爆炸艺术风格创作
+
+![古典音乐家爆炸艺术风格创作](../images/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%AE%B6%E7%88%86%E7%82%B8%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E5%88%9B%E4%BD%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 宽屏电影感数字艺术作品，画面左侧中心展示一位 {argument name="character" default="浪漫主义时期的古典音乐家兼钢琴家"} 的戏剧性侧面轮廓，身着 19 世纪黑色礼服、白色衬衫和领结，双眼紧闭，面部向上，仿佛沉浸在音乐的海洋中。画面左下方放置一架黑色三角钢琴，部分被黑色墨迹吞没。背景在情感上呈现分裂感：左侧为带有淡淡污渍、划痕的陈旧羊皮纸米色墙面，上面绘有流动的弯曲五线谱和黑色音符；右侧为 {argument name="energy color" default="红色、橙色和黑色"} 的爆炸性抽象爆发，如同激烈的感官交火，伴随着火花、碎片、墨水、烟雾和向外放射的速度线。画面中加入漂浮的乐谱碎片、明亮的黑白音符、小提琴/大提琴轮廓、琴弦以及穿梭于构图中的发光线条。让音乐家的头发和上半身融入爆炸之中，黑色墨迹渐变为炽热的粒子。采用高对比度的明暗对照法照明，具有绘画感的照片级真实纹理，充满强烈的动感与戏剧性的管弦乐能量，无文字，无水印，无边框。
+
+[English]
+Create a cinematic widescreen 16:9 digital artwork showing {argument name="character" default="a Romantic-era classical composer and pianist"} in dramatic side-profile at the center-left, wearing a black 19th-century formal suit, white shirt, and cravat, eyes closed and face lifted as if overwhelmed by music. Place a black grand piano in the lower left, partly swallowed by dark ink splatter. The background should be split emotionally: on the left, an aged parchment beige wall with faint stains, scratches, and flowing curved musical staff lines with black notes; on the right, an explosive abstract burst of {argument name="energy color" default="red, orange, and black"} like a violent emotional gunfight, with sparks, shards, ink, smoke, and radial speed lines shooting outward. Add floating sheet-music fragments, bright white and black musical notes, violin/cello silhouettes, strings, and glowing streaks flying through the composition. Make the composer’s hair and upper body dissolve into the explosion, with black splatter transitioning into fiery particles. Use high contrast chiaroscuro lighting, painterly photorealistic textures, intense motion, dramatic orchestral energy, no text, no watermark, no frame.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2080311786322984969) | 2026-07-23
+
+---
+
+### 🖥️ 例 4831：日式清透洁面护肤横幅
+
+![日式清透洁面护肤横幅](../images/%E6%97%A5%E5%BC%8F%E6%B8%85%E9%80%8F%E6%B4%81%E9%9D%A2%E6%8A%A4%E8%82%A4%E6%A8%AA%E5%B9%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张简洁的日式护肤网页横幅，用于推广洗面奶，强调保湿、清透、纯净与温和清洁。
+
+画布：横向矩形横幅，尺寸约为 600×500 px，采用亮白色与淡蓝色配色，背景为柔和的水感设计。使用写实的商业美妆摄影合成技术，营造细腻光泽、高调照明以及清新卫生的氛围。
+
+布局：右侧放置一位面带微笑的年轻东亚女性，半身像，面向观众，右手轻触脸颊。皮肤应呈现出透亮、平滑且水润的质感；深色头发松散扎起，妆容自然，露出白色吊带。左侧放置大型蓝色日式书法风格主标题。下方放置一行较小的深灰色说明文字。左下角区域放置产品及功效标签。底部添加一个全宽度的蓝色渐变行动号召（CTA）栏，居中显示白色日文文本，右侧配有白色三角形播放/箭头图标。
+
+文本内容：主标题为「{argument name="headline text" default="クリアにする 洗顔、はじまる。"}」，其中「クリア」字样应特别放大并呈现笔触感，其余文字排列在其侧面及下方。辅助文案为「皮脂・角栓・酸化汚れを やさしく分解し、うるんとした素肌へ」。底部行动号召为「{argument name="call to action text" default="今すぐ洗顔ケアを始める"}」。
+
+产品与对象：包含 5 个显著的底部视觉元素：左下角放置 1 支标有“CLEAR WASH”的白色洗面奶管，旁边放置 1 团浓密的白色洁面泡沫，以及 3 个包含功效文本的半透明蓝色水滴气泡。三个气泡标签分别为：1) 「使用満足度 92%」，2) 「アルコール・パラベン フリー」，3) 「皮膚の専門家監修」。气泡应具有光泽感、球形外观、轻微折射效果及水感。
+
+视觉风格：高端日式化妆品广告风格，柔和的渐变，细腻的反射，淡水蓝色阴影，清晰的排版，背景带有水波纹理，留白充足，营造出值得信赖的临床美妆感。保持横幅精致且符合 Figma 设计标准，不添加额外 Logo、水印，除指定的 3 个功效气泡外，不添加其他标签。
+
+可定制细节：产品应为 {argument name="product type" default="clear facial cleansing wash"}；模特应为 {argument name="model description" default="smiling young East Asian woman with dewy skin"}；整体氛围应为 {argument name="visual mood" default="fresh, moist, clean, and gentle"}。
+
+[English]
+Goal: Create a clean Japanese skincare web banner for a facial cleanser, emphasizing moisture, clarity, purity, and gentle cleansing.
+
+Canvas: Horizontal rectangular banner, approximately 600×500 px, bright white and pale blue color palette with a soft watery background. Use realistic commercial beauty photography compositing with subtle glow, high-key lighting, and a fresh hygienic atmosphere.
+
+Layout: Place a smiling young East Asian woman on the right half, cropped from shoulders up, facing the viewer with her right hand gently touching her cheek. Her skin should look luminous, smooth, and hydrated; she has dark hair tied back loosely, natural makeup, and a white camisole strap visible. On the left half, place the main headline text in large blue Japanese calligraphy-style lettering. Below it, place a smaller explanatory line in dark gray. Along the lower-left area, place the product and benefit badges. Add a full-width blue gradient call-to-action bar at the bottom with centered white Japanese text and a white triangular play/arrow icon on the right.
+
+Text content: Main headline reads 「{argument name="headline text" default="クリアにする 洗顔、はじまる。"}」 with 「クリア」 especially large and brush-like, and the rest arranged beside and below it. Supporting copy reads 「皮脂・角栓・酸化汚れを やさしく分解し、うるんとした素肌へ」. Bottom call-to-action reads 「{argument name="call to action text" default="今すぐ洗顔ケアを始める"}」.
+
+Product and objects: Include exactly 5 prominent lower visual elements: 1 white facial cleanser tube labeled “CLEAR WASH” standing near the lower left, 1 mound of dense white cleansing foam beside it, and exactly 3 translucent blue water bubbles containing benefit text. The three bubble labels are: 1) 「使用満足度 92%」, 2) 「アルコール・パラベン フリー」, 3) 「皮膚の専門家監修」. Make the bubbles glossy, spherical, lightly refractive, and water-like.
+
+Visual style: Premium Japanese cosmetic advertising, soft gradients, gentle reflections, pale aqua shadows, crisp typography, water ripple texture in the background, clean whitespace, and a trustworthy clinical-beauty feel. Keep the banner polished and Figma-ready, with no extra logos, no watermark, and no additional badges beyond the exactly 3 benefit bubbles.
+
+Customizable details: The product should be a {argument name="product type" default="clear facial cleansing wash"}; the model should be a {argument name="model description" default="smiling young East Asian woman with dewy skin"}; the overall mood should be {argument name="visual mood" default="fresh, moist, clean, and gentle"}.
+```
+
+**来源：** [@デザインまーちゃん](https://x.com/3smy8191128119/status/2080282406775554175) | 2026-07-23
+
+---
+
+### 🖥️ 例 4835：机甲驾驶舱俯瞰城市
+
+![机甲驾驶舱俯瞰城市](../images/%E6%9C%BA%E7%94%B2%E9%A9%BE%E9%A9%B6%E8%88%B1%E4%BF%AF%E7%9E%B0%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+从后方居中视角创建一个电影级照片写实风格的科幻驾驶舱场景：一名孤独的女驾驶员，{argument name="pilot description" default="留着黑色长直发的年轻女性"}，坐在巨型机器人或先进机甲内部的高科技驾驶座上，面向前方。她穿着一件合身的 {argument name="pilot suit color" default="浅米色飞行服"}，配有黑色肩部安全带，身后连接着一个笨重的矩形机械背包/座椅模块。驾驶舱采用深石墨色金属材质，配有棱角分明的装甲窗框，以及一个可以从高空俯瞰明亮未来城市的宽阔全景挡风玻璃。窗外展示着密集的现代摩天大楼、道路、海湾或河流、远山、蓝天以及清澈日光下的零星云朵。在驾驶舱内填充投射在玻璃和控制台上的发光蓝色全息 HUD 叠加层：画面中需清晰可见 8 个主要显示集群——顶部天花板上 1 条长弧形状态条、挡风玻璃上 1 个中央水平/高度瞄准十字准线、前窗立柱附近 2 个垂直侧面遥测面板、2 个半透明侧窗数据面板，以及 2 个显示人形机甲示意图和系统读数的下部大型控制台屏幕。在左右扶手控制台上添加较小的按钮、开关、发光面板和驾驶舱控制器，使用冷青蓝色 UI 图形，并配以精细的技术文本、图表、波形、数字指示器以及诸如系统在线 (system online)、水平面 (horizon)、高度 (altitude)、速度 (speed)、动力系统 (power system) 和武器系统 (weapon system) 等标签。构图应保持对称、沉浸且高度细节化，驾驶员位于下半部分中心，城市景观通过驾驶舱玻璃呈现。使用逼真的光影效果，外部为强烈的日光，玻璃上有蓝色反射，内部阴影深邃，焦点清晰，采用超精细的硬表面设计，营造出电影般的科幻氛围，拒绝卡通风格，无可见水印，无额外角色，且不显示机器人外部视图。
+
+[English]
+Create a cinematic photorealistic sci-fi cockpit scene from a rear-centered viewpoint: a lone female pilot, {argument name="pilot description" default="young woman with long straight black hair"}, sits in a high-tech pilot seat facing forward inside the cockpit of a giant robot or advanced mech. She wears a fitted {argument name="pilot suit color" default="light beige flight suit"} with black shoulder harnesses and a bulky rectangular mechanical backpack/seat module attached behind her. The cockpit is dark graphite metal with angular armored window frames and a wide panoramic windshield overlooking a bright futuristic city from high altitude. Outside, show dense modern skyscrapers, roads, a bay or river, distant mountains, blue sky, and scattered clouds in crisp daylight. Fill the cockpit with glowing blue holographic HUD overlays projected on the glass and consoles: include exactly 8 main display clusters visible in the composition—1 long curved top status strip across the ceiling, 1 central horizon/altitude targeting reticle on the windshield, 2 vertical side telemetry panels near the front window pillars, 2 translucent side-window data panels, and 2 large lower console screens showing humanoid mech schematics and system readouts. Add smaller buttons, switches, illuminated panels, and cockpit controls on both left and right arm consoles, using cool cyan-blue UI graphics with fine technical text, charts, waveforms, numeric indicators, and labels such as system online, horizon, altitude, speed, power system, and weapon system. Composition should be symmetrical, immersive, and highly detailed, with the pilot centered in the lower half and the city framed through the cockpit glass. Use realistic lighting with strong daylight outside, blue reflections on glass, deep interior shadows, sharp focus, ultra-detailed hard-surface design, cinematic science-fiction atmosphere, no cartoon styling, no visible watermark, no extra characters, and no exterior view of the robot.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2080267892013351337) | 2026-07-23
+
+---
+
+### 🖥️ 例 4850：调皮的涂鸦影子模仿
+
+![调皮的涂鸦影子模仿](../images/%E8%B0%83%E7%9A%AE%E7%9A%84%E6%B6%82%E9%B8%A6%E5%BD%B1%E5%AD%90%E6%A8%A1%E4%BB%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个调皮的 {argument name="style" default="doodle"} 影子正在模仿角色，做出夸张滑稽的姿势，而她则身着现代潮流服饰静止站立。影子呈现出手绘风格，俏皮且充满个性，与冷静的主体形成了幽默的反差。她穿着时髦的 {argument name="top" default="oversized shirt"}、{argument name="pants" default="cargo pants"} 和运动鞋。她面露困惑，仿佛完全不知道影子在做什么。
+
+[English]
+A mischievous doodle shadow mimics the character with exaggerated funny poses while she stands still wearing {argument name="outfit" default="modern trendy clothes"}. The shadow appears hand-drawn, playful, and full of personality, creating a humorous contrast with the calm subject. She wears a {argument name="fashion" default="fashionable oversized shirt, cargo pants, and sneakers"}. Her facial expression is {argument name="expression" default="confused"}, as if she has no idea what the shadow is doing.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2080188735904436483) | 2026-07-23
+
+---
+
+### 🖥️ 例 4853：华丽动漫风方块 8 扑克牌
+
+![华丽动漫风方块 8 扑克牌](../images/%E5%8D%8E%E4%B8%BD%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%96%B9%E5%9D%97%208%20%E6%89%91%E5%85%8B%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张华丽的竖版幻想风格扑克牌插画，牌面为 {argument name="card rank and suit" default="方块 8"}，以一位迷人的动漫少女作为核心角色。
+
+画布：高挑的竖版扑克牌构图，带有圆润的奶油色边角、细深色外边框以及精致的古董金丝边框。采用对称的牌面布局，牌面等级和花色在对角重复出现：左上角显示大号红色“8”及下方的红色方块花色，右下角显示大号红色方块花色及下方的红色“8”。
+
+核心主体：一位美丽的年轻动漫女性，以奢华的姿态斜坐，一只膝盖抬起置于前景，一只手轻抚唇边。她拥有 {argument name="hair color" default="长长的灰棕色柔波卷发"}、温暖的棕色双眸、精致的五官、光泽感的皮肤高光，表情平静且略带忧郁。她的秀发流淌在牌面上，装饰着巨大的深红色花纹蝴蝶结、珠宝发饰和细小的金色点缀。
+
+服装与配饰：为她穿上一套细节极其丰富的哥特萝莉赌场风礼服，主色调为 {argument name="main color palette" default="黑色、酒红色、古董金、奶油色和宝石红"}。服装包含 6 组明显的服饰/配饰：1 件带有红色心形宝石装饰的黑金刺绣束腰胸衣、1 条层叠的酒红色与黑色荷叶边裙、2 只半透明蕾丝泡泡袖、1 套华丽的颈圈与项链组合、1 对垂坠的菱形耳环，以及 1 条带有金链和玫瑰吊坠的装饰性大腿袜带。添加丰富的细金链、蕾丝花边、花丝刺绣、细小珠饰、红宝石和心形图案。
+
+背景与扑克牌细节：在她身后营造一个深邃的午夜赌场幻想背景，悬挂着金链，点缀着闪烁的尘埃、红色宝石碎片，右上角背景处设有一个古董钟面。在她周围添加 5 张漂浮的小型扑克牌：左侧 2 张，左上方头部后方 1 张，右侧 2 张。漂浮的扑克牌应带有华丽的花纹背面，以不同角度倾斜，且无可见文字。在边框中集成 4 簇明显的玫瑰：右上角一簇大花束，右侧边缘一簇垂直花束，左下角一簇花束，以及抬起的腿部附近一簇小型玫瑰装饰。
+
+视觉风格：超精细日本动漫插画，优雅少女幻想风，奢华塔罗牌美学，复杂的线条，明亮的高光，温暖的轮廓光，深色背景与发光金色装饰之间的高对比度，红宝石色点缀，绘画质感，精致的闪光效果，浪漫而奢华的氛围。
+
+约束：保持构图如同一张可收藏的扑克牌，而非海报。保留 {argument name="card rank and suit" default="方块 8"} 的精确角标布局。避免出现额外文字、Logo、水印、裁剪边框、现代 UI 元素或写实风格。
+
+[English]
+Goal: Create an ornate vertical fantasy playing card illustration for the {argument name="card rank and suit" default="8 of diamonds"}, featuring a glamorous anime girl as the central character.
+
+Canvas: Tall portrait playing-card format with rounded cream corners, a thin dark outer stroke, and an elaborate antique gold filigree border. Use a symmetrical card composition with the rank and suit repeated in exactly 2 corners: top-left shows a large red “8” above a red diamond pip, and bottom-right shows a large red diamond pip above a red “8”.
+
+Central subject: A beautiful young anime woman seated diagonally in a luxurious pose, one knee raised in the foreground and one hand resting near her lips. She has {argument name="hair color" default="long ash-brown hair with soft waves"}, warm brown eyes, delicate facial features, glossy skin highlights, and a calm slightly wistful expression. Her hair flows across the card and is decorated with a large deep-red patterned bow, jeweled hair ornaments, and small gold accents.
+
+Outfit and accessories: Dress her in a highly detailed gothic-lolita casino-inspired gown using {argument name="main color palette" default="black, burgundy red, antique gold, cream, and jewel ruby"}. The outfit includes exactly 6 prominent outfit/accessory groups: 1 black-and-gold embroidered corset bodice with red heart jewel accents, 1 layered burgundy-and-black ruffled skirt, 2 translucent lace puff sleeves, 1 ornate choker and necklace cluster, 1 pair of dangling diamond-shaped earrings, and 1 decorative thigh garter with gold chains and rose charms. Add many fine gold chains, lace trim, filigree embroidery, tiny beads, ruby gems, and heart motifs.
+
+Background and playing-card details: Behind her, create a dark midnight casino-fantasy background with hanging gold chains, sparkling dust, red gem fragments, and an antique clock face in the upper-right background. Include exactly 5 small floating playing cards around her: 2 on the left side, 1 near the upper-left behind her head, and 2 on the right side. The floating cards should have ornate patterned backs, tilted at different angles, with no readable numbers. Add exactly 4 visible rose clusters integrated into the border: one large cluster at upper-right, one vertical cluster along the right edge, one cluster at lower-left corner, and one small rose accent near the raised leg.
+
+Visual style: Ultra-detailed Japanese anime illustration, elegant shoujo fantasy, luxury tarot-card aesthetics, intricate linework, luminous highlights, warm rim lighting, high contrast between dark background and glowing gold ornamentation, ruby-red accents, painterly polish, delicate sparkle effects, romantic and lavish mood.
+
+Constraints: Keep the composition framed like a single collectible playing card, not a poster. Preserve the exact rank-and-suit corner layout for the {argument name="card rank and suit" default="8 of diamonds"}. Avoid extra text, logos, watermarks, cropped borders, modern UI elements, or photorealism.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2080158464920388021) | 2026-07-23
+
+---
+

@@ -22221,3 +22221,226 @@ Constraints: No people, no harsh contrast, no saturated colors, no heavy shadows
 
 ---
 
+### 🎴 例 4808：高级黑白杂志风海报
+
+![高级黑白杂志风海报](../images/%E9%AB%98%E7%BA%A7%E9%BB%91%E7%99%BD%E6%9D%82%E5%BF%97%E9%A3%8E%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为精准的面部参考，创作一张高级黑白杂志风海报。准确保留人物的身份、面部特征、发型、肤色和脸型。让主体呈自信的四分之三侧面，微微向左看，佩戴 {argument name="accessories" default="圆形黑墨镜"}，身穿 {argument name="outerwear" default="黑色牛仔夹克"}，内搭纯白色圆领 T 恤，表情沉稳自信。背景为深哑光黑色摄影棚背景，主体身后巨大的单词“{argument name="background text" default="SNOW"}”采用醒目的粗体白色压缩字体，几乎横跨整个画布。字母应被人物头部和肩部部分遮挡，以营造深度感和高级杂志封面的美学效果。在顶部中央放置较小的文字“SNOW”，采用简洁的大写白色字体并带有引号。高对比度单色调色，戏剧性的摄影棚灯光，清晰的下颌线高光，细腻的发丝纹理，奢华时尚大片风格，极简构图，超写实皮肤细节，微弱的胶片颗粒感，极致对焦，浅景深，高级排版布局，现代街头服饰编辑风格，Vogue 与 GQ 结合的美学，电影级 8K，IMAX 画质，照片级真实感，1:1 正方形构图。
+
+[English]
+Create a premium black and white editorial poster using the uploaded image as the exact facial reference. Preserve the person’s identity, facial features, hairstyle, skin tone, and face shape accurately. Position the subject in a confident three-quarter side profile, looking slightly left, wearing {argument name="accessories" default="round black sunglasses"}, a {argument name="outerwear" default="black denim jacket"} over a plain white crew-neck T-shirt, with a calm, confident expression. The background is a deep matte black studio backdrop featuring the giant word “{argument name="background text" default="SNOW"}” in massive bold condensed white typography spanning nearly the entire canvas behind the subject. The letters should be partially hidden by the person’s head and shoulders to create depth and a premium magazine-cover aesthetic. Place the smaller text “SNOW” centered at the top in clean uppercase white typography with quotation marks. High-contrast monochrome grading, dramatic studio lighting, sharp jawline highlights, crisp hair texture, luxury fashion campaign style, minimalist composition, ultra-realistic skin details, subtle film grain, razor-sharp focus, shallow depth of field, premium typography layout, modern streetwear editorial, Vogue meets GQ aesthetic, cinematic 8K, IMAX quality, photorealistic, square 1:1 composition.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2080397946550358078) | 2026-07-23
+
+---
+
+### 🎴 例 4811：城市美学早安海报拼贴
+
+![城市美学早安海报拼贴](../images/%E5%9F%8E%E5%B8%82%E7%BE%8E%E5%AD%A6%E6%97%A9%E5%AE%89%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="城市特色" default="城市特色文化元素"}+早安问候+{argument name="日期" default="2026-07-24"}+今日金句
+一共{argument name="城市数量" default="10"}个不同的城市，每个城市都是一个独立的美图
+日系清爽文艺配色
+画幅16:9
+
+每个图片， 不同的配色逻辑、构图差异，一眼就是不同的色相
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2080377942639603720) | 2026-07-23
+
+---
+
+### 🎴 例 4818：宇宙故障火箭发射
+
+![宇宙故障火箭发射](../images/%E5%AE%87%E5%AE%99%E6%95%85%E9%9A%9C%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 垂直电影感科幻奇幻海报，前景为草丘上的一棵黑色剪影孤树，正下方是巨大的火箭发射场景。一枚纤细的白色火箭从正中心笔直升起，其尾焰形成一道耀眼的橙白色火焰柱，并转化为高耸的故障风格像素块、垂直光条以及霓虹红、洋红、橙色、青色和紫色的碎片化数字伪影，使发射烟流看起来像是一股损坏的数字数据流。在发射点周围，地平线附近环绕着巨大的发光红橙色烟云，地面上铺开着未来感十足的发光网格城市或发射场。上方绘制一个由深色风暴云框住的巨大圆形宇宙天空，如同传送门一般，火箭周围环绕着螺旋状星轨，呈现出明亮的紫蓝色银河、密集的恒星和电光般的星云色彩。画面中需包含正好八颗可见的行星或卫星：左上方一颗巨大的条纹行星，右上方一颗巨大的类地行星，右上方附近一颗小卫星，中右侧一颗小卫星，天空左下方一颗小橙色行星，左下边缘附近一颗小蓝色行星，远左下边缘附近一颗微小的暗色行星，以及右下方一颗带光环的小行星。采用极高对比度、超精细数字绘画、高饱和度霓虹宇宙色彩、戏剧性光影、严谨的中心对称构图、史诗级规模，无文字，无 Logo，无水印。
+
+[English]
+Create a vertical 9:16 cinematic sci-fi fantasy poster showing a lone black silhouette tree on a grassy hill in the foreground, centered beneath a colossal rocket launch. A slim white rocket rises straight upward from the exact center, its exhaust forming a blinding orange-white flame column that transforms into a towering cascade of glitch-like pixel blocks, vertical light bars, and fragmented digital artifacts in neon red, magenta, orange, cyan, and violet, making the launch plume look like a corrupted digital data stream. Surround the launch with huge glowing red-orange smoke clouds near the horizon and a futuristic luminous grid city or launch complex spreading across the ground. Above, create a vast circular cosmic sky framed by dark storm clouds like a portal, with spiraling star trails around the rocket, a bright purple-blue Milky Way, dense stars, and electric nebula colors. Include exactly eight visible planets or moons: one large striped planet on the upper left, one large Earth-like planet on the upper right, one small moon near the upper right, one small moon on the mid-right, one small orange planet on the lower left of the sky, one small blue planet near the lower-left edge, one tiny dark planet near the far lower-left edge, and one small ringed planet on the lower right. Use extremely high contrast, hyper-detailed digital painting, saturated neon cosmic colors, dramatic lighting, sharp central symmetry, epic scale, no text, no logo, no watermark.
+```
+
+**来源：** [@Chain Loader](https://x.com/Chain_Loader/status/2080338215832338819) | 2026-07-23
+
+---
+
+### 🎴 例 4828：黑白偶像漫画预告海报
+
+![黑白偶像漫画预告海报](../images/%E9%BB%91%E7%99%BD%E5%81%B6%E5%83%8F%E6%BC%AB%E7%94%BB%E9%A2%84%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的黑白日本漫画宣传海报，用于剧情续篇预告。要求采用光泽网点渲染、电影级光影、偶像演唱会氛围以及紧凑的拼贴构图。
+
+画布：竖版海报，比例约为 2:3。高对比度黑白漫画风格，仅在底部标题文字处加入少许红色光晕点缀。使用浓郁的墨黑色、白色闪光高光、半调渐变、速度线、雨滴状颗粒、舞台烟雾及镜头光晕。
+
+主体细节：画面中心展示 2 位女性角色。左侧角色 1 为充满活力的偶像歌手，留着长黑发，佩戴大蝴蝶结和花朵发饰，身穿褶边格子偶像服装，佩戴手镯，左手持麦克风，右手做出锐利的指向动作，嘴巴微张，仿佛在呐喊或歌唱，眼神坚定。右侧角色 2 为一名文静的年轻女性，留着齐肩黑色波波头，戴圆框眼镜，穿着深色大码连帽衫，姿势略显佝偻，一只手紧抓胸前的连帽衫，神情矛盾且脆弱地看向偶像。她们身后是布满荧光棒和聚光灯的演唱会舞台，背景可见圆形舞台标记。
+
+布局：顶部放置巨大的粗体漫画风格标题，略微倾斜，采用厚实的白色字体，黑色描边，装饰有星星，并以速度线为背景。下方居中放置一行小字标语。两位主角占据画面中部，由偶像指向的手指划出一条情感对峙的对角线。在主场景周围添加 5 个辅助拼贴画格：1 个左侧小插图，展示偶像在舞台上快乐地手持麦克风歌唱；1 个左下角人群画格，填满荧光棒；1 个右上角矩形画格，展示空旷的灯光舞台，一名长发黑影在后台注视，边缘处有一只紧张的手；1 个右中部静物画格，展示桌上一杯加冰的酒，旁边放着粗糙的纸张或草图；1 个右下角特写画格，展示含泪的眼睛和湿润的脸庞，部分透明叠加在雨水纹理上。
+
+文字内容：使用日文作为可见排版。顶部标题：{argument name="top headline" default="ここまでのあらすじ"}。标题下方小标语：{argument name="tagline" default="ステージの光は、まだ胸の奥に刺さっている"}。中心引语（三行堆叠）：{argument name="center quote" default="戻りたいんじゃない。\n輝けなかった自分を、\nまだ許せないだけ。"}。底部戏剧性提问：{argument name="bottom question" default="アルバイトしにいったら\nアイドルに就職したのは\n何か間違い？"}。底部居中作者名：{argument name="author name" default="Kai"}。
+
+排版：顶部标题需超大且具有戏剧张力。中心引语采用优雅的白色明朝体日文。底部提问需大而有层次感，充满戏剧性，其中“アイドル”一词应比周围文字大得多，并在黑白画面中呈现红白发光效果。在底部标题周围添加小星芒。
+
+视觉风格：专业的青年/少女漫画混合风格海报，超精细线稿，充满情感的偶像剧氛围，精致的杂志广告构图，面部清晰，闪烁的演唱会灯光，深邃的黑色，白色轮廓光，雨水与玻璃反射，戏剧性对比。除底部标题的细微红色点缀外，不使用全彩色。避免出现现代 UI 元素、水印、Logo，且除 2 位主角及插图中的后台剪影外，不添加额外角色。
+
+[English]
+Goal: Create a dramatic black-and-white Japanese manga promotional poster for a continuation preview, with glossy screentone rendering, cinematic lighting, idol-concert atmosphere, and dense collage composition.
+
+Canvas: Vertical poster, approximately 2:3 aspect ratio. High-contrast monochrome manga art with a few selective red glow accents only in the bottom title text. Use rich ink blacks, white sparkle highlights, halftone gradients, speed lines, rain-like particles, stage haze, and lens flares.
+
+Main subject details: Show exactly 2 main female characters in the center. Character 1 is an energetic idol singer on the left, long dark hair, large ribbon and flower hair ornament, frilly plaid idol costume, bracelets, holding a handheld microphone in her left hand while pointing sharply with her right hand, mouth open as if shouting or singing, intense determined eyes. Character 2 is a quiet young woman on the right, shoulder-length dark bob hair, round glasses, dark oversized hoodie, slightly hunched posture, one hand clutching the hoodie near her chest, looking conflicted and vulnerable toward the idol. They stand against a concert stage filled with glow sticks and spotlights, with a circular stage mark visible behind them.
+
+Layout: Put a huge bold manga-style headline across the very top, angled slightly, with thick white lettering, black outline, star decorations, and speed-line background. Beneath it place a small centered tagline. The two main characters dominate the middle, separated by a diagonal emotional confrontation line from the idol’s pointing finger. Add exactly 5 secondary collage panels around the main scene: 1 small left inset showing the idol singing happily onstage with a microphone; 1 lower-left crowd panel filled with many glow sticks; 1 upper-right rectangular panel showing an empty lit stage and a dark long-haired figure watching from backstage, plus a tense hand at the edge; 1 right-middle still-life panel with a short glass of liquor with ice on a table beside rough papers or sketches; 1 lower-right close-up panel of a tearful eye and wet face, partially transparent over a rainy texture.
+
+Text content: Use Japanese text as visible typography. Top headline: {argument name="top headline" default="ここまでのあらすじ"}. Small tagline under headline: {argument name="tagline" default="ステージの光は、まだ胸の奥に刺さっている"}. Center quote in three stacked lines: {argument name="center quote" default="戻りたいんじゃない。\n輝けなかった自分を、\nまだ許せないだけ。"}. Bottom dramatic question: {argument name="bottom question" default="アルバイトしにいったら\nアイドルに就職したのは\n何か間違い？"}. Author name at bottom center: {argument name="author name" default="Kai"}.
+
+Typography: Make the top headline oversized and playful but dramatic. Make the center quote elegant white Mincho-style Japanese lettering. Make the bottom question large, layered, and theatrical, with the word “アイドル” much larger than the surrounding text and glowing red-white in an otherwise monochrome image. Add small starbursts around the bottom title.
+
+Visual style: Professional seinen/shoujo hybrid manga poster, ultra-detailed line art, emotional idol-drama mood, polished magazine advertisement composition, crisp faces, sparkling concert lights, deep blacks, white rim lighting, rain and glass reflections, dramatic contrast. No full color except subtle red accent on the bottom title. Avoid modern UI elements, watermarks, logos, or extra characters beyond the 2 main characters and the silhouetted backstage figure in the inset panel.
+```
+
+**来源：** [@kai](https://x.com/kai_tetu/status/2080289282431078607) | 2026-07-23
+
+---
+
+### 🎴 例 4838：高端运动广告海报
+
+![高端运动广告海报](../images/%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超高端运动服饰广告，主角为 {argument name="player name" default="世界级足球明星"}，捕捉其处于动态奔跑姿势的瞬间，悬浮在简洁的单色渐变背景前。运动员身后，巨大的 3D 挤压排版文字拼写出 "{argument name="typography text" default="[PLAYER NAME]"}"，与主题完美配色。主体后方爆发出一团浓密的彩色烟雾，以戏剧性的体积深度、水墨纹理和电影级能量环绕在身体周围。运动员穿着 {argument name="outfit" default="单色超大号卫衣、带有彩色滚边的半透明技术防风裤、配套的高端运动鞋、白色袜子以及协调的运动装"}，营造出大胆的同色系时尚外观。影棚灯光配以清晰的轮廓光、柔和的主光、微妙的反射、高对比度、超写实的皮肤纹理、定格动作、动态姿态、受 Nike 启发的奢华编辑美学（无可见标志）、居中构图、极简背景、充满活力的单色调（蓝色、红色、绿色、橙色等）、广告大片品质、85mm 镜头、超锐利对焦、HDR、8K、照片级真实感、屡获殊荣的商业体育摄影、高端杂志封面、杰作。
+
+[English]
+Ultra-premium sportswear campaign featuring a {argument name="player name" default="world-class football star"} captured mid-stride in a dynamic running pose, suspended in motion against a clean monochromatic gradient background. Behind the athlete, oversized extruded 3D typography spelling "{argument name="typography text" default="[PLAYER NAME]"}" dominates the composition, perfectly color-matched to the theme. A massive explosion of dense colored smoke erupts from behind the subject, wrapping around the body with dramatic volumetric depth, ink-in-water textures, and cinematic energy. The athlete wears a {argument name="outfit" default="monochrome oversized sweatshirt, translucent technical windbreaker pants with colored piping, matching premium sneakers, white socks, and coordinated sportswear"}, creating a bold tone-on-tone fashion look. Studio lighting with crisp rim lights, soft key light, subtle reflections, high contrast, hyper-realistic skin texture, frozen action, dynamic posture, luxury Nike-inspired editorial aesthetic (no visible logos), centered composition, minimal background, vibrant single-color palette (blue, red, green, orange, etc.), advertising campaign quality, 85mm lens, ultra-sharp focus, HDR, 8K, photorealistic, award-winning commercial sports photography, premium magazine cover, masterpiece.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2080252097765994975) | 2026-07-23
+
+---
+
+### 🎴 例 4841：带有复古海滩图形的动漫泳装海报
+
+![带有复古海滩图形的动漫泳装海报](../images/%E5%B8%A6%E6%9C%89%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%BB%A9%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%B3%B3%E8%A3%85%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身动漫风格的夏季海报插画，主角是 {argument name="character name" default="Oyagi"}，一位开朗的年轻女性，赤脚站在温暖的米白色背景上，姿态呈现自然的重心转移。她留着短波浪卷的 {argument name="hair color" default="金色头发，发梢带有桃粉色挑染"}，有着大大的紫罗兰色眼睛、温柔的微笑、脸颊微红，刘海旁别着一个紫色星星发夹。她的头顶斜戴着一顶海军蓝贝雷帽，并饰有红色丝带。她穿着一件运动型连体泳衣：主体为深青蓝色，配有白色饰边、珊瑚红侧板和薰衣草色侧插片，展现出精心绘制的动漫人体结构，并细致刻画了肩膀、手臂、腰部、臀部、大腿、膝盖、小腿、脚踝和足部细节。她的左手叉腰，右臂自然下垂，手指放松，手腕上戴着一个珊瑚色手镯。保持比例优雅且略显理想化，非 Q 版风格，线条干净利落，采用柔和的赛璐珞阴影、细腻的皮肤高光，呈现出精致的日系动漫角色插画质感。
+
+画布与布局：垂直海报构图，2:3 比例，全身居中，留有充足的边距，底部可见双脚。背景为米色纸张上的极简复古海滩图形设计。
+
+装饰性背景元素：在角色周围添加 15 个抽象图形元素：左上角 1 个大型绿松石色圆圈，下半部分带有水平白色条纹，下方有一个点状绿松石色半圆；右上角 1 个珊瑚色四分之一圆块；右上角 1 个淡紫色网格；右上角附近 1 组四个黄色小三角形；右上角附近 1 条蓝色双重锯齿线；中右侧 1 个淡紫色点状矩形簇；中左侧 1 个细淡紫色轮廓圆圈；左下角 1 个珊瑚色部分圆环弧线；该弧线下方 1 组五条细黑色斜线；左下角 1 个淡紫色网格；左下角网格上方 1 个珊瑚色点状菱形簇；左下角网格上方 1 条绿松石色锯齿线；左下角网格下方 1 个蓝色小点状簇；右下角 1 个大型绿松石色风格化水域斑块，带有白色波浪线，其后方有一个绿松石色半圆；右侧 1 个大型黄色三角形，附近有一个珊瑚色圆圈覆盖在蓝色点状半圆上，下方有一条绿松石色锯齿线。
+
+文字内容：在右下角，添加小号印刷体日期 {argument name="date text" default="July 23, 2026"}，其上方为优雅的黑色草书签名 {argument name="signature text" default="Oyagi"}。
+
+风格限制：明亮通透的色调，柔和的几何装饰，干净的漫画/动漫线条，柔和的阴影，泳装时尚插画，清晰的手脚刻画，无额外角色，无厚重写实感，除日期和签名外无任何水印。
+
+[English]
+Create a full-body anime-style summer pin-up illustration of {argument name="character name" default="Oyagi"}, a cheerful young woman standing barefoot in a relaxed contrapposto pose on a warm off-white background. She has short wavy {argument name="hair color" default="blonde hair with peach-pink underside tips"}, large violet eyes, a soft smile, light blush on her cheeks, and a purple star hair clip near her bangs. Add a small navy beret tilted on top of her head with a red ribbon accent. She wears a sporty one-piece swimsuit: primarily deep teal-blue with white trim, coral-red side panels, and a lavender side insert, showing carefully drawn anime anatomy with subtle shoulder, arm, waist, hip, thigh, knee, calf, ankle, and foot definition. Her left hand rests on her hip, her right arm hangs naturally with relaxed fingers, and she wears one coral wrist bangle. Keep proportions elegant and slightly idealized, not chibi, with clean line art, soft cel shading, gentle skin highlights, and polished Japanese anime character illustration quality.
+
+Canvas and layout: Vertical poster composition, 2:3 aspect ratio, full body centered with generous margins and feet visible near the bottom. The background is minimalist retro beach graphic design on cream paper.
+
+Decorative background elements: Include exactly 15 abstract graphic elements around the character: 1 large turquoise circle in the upper left with horizontal white stripes across its lower half and a dotted turquoise semicircle beneath it; 1 coral quarter-circle block in the upper right; 1 pale purple grid in the upper right; 1 group of four small yellow triangles near the upper right; 1 blue double zigzag line near the upper right; 1 pale purple dotted rectangular cluster at mid-right; 1 thin pale purple outlined circle at mid-left; 1 coral partial ring arc at lower left; 1 set of five thin black diagonal lines below that arc; 1 lower-left pale purple grid; 1 coral dotted diamond cluster above the lower-left grid; 1 turquoise zigzag line over the lower-left grid; 1 small blue dotted cluster below the lower-left grid; 1 large turquoise stylized water patch in the lower right with white wave lines and a turquoise semicircle behind it; 1 large yellow triangle on the right with a nearby coral circle over a blue dotted semicircle and a turquoise zigzag underneath.
+
+Text content: In the bottom right, add small printed date text reading {argument name="date text" default="July 23, 2026"} above an elegant black cursive signature reading {argument name="signature text" default="Oyagi"}.
+
+Style constraints: bright airy palette, pastel geometric accents, clean manga/anime linework, soft shading, swimsuit fashion illustration, crisp hands and feet, no extra characters, no heavy realism, no watermark beyond the date and signature.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2080245926485188735) | 2026-07-23
+
+---
+
+### 🎴 例 4844：Cyber Blue Qwen 技术测评海报
+
+![Cyber Blue Qwen 技术测评海报](../images/Cyber%20Blue%20Qwen%20%E6%8A%80%E6%9C%AF%E6%B5%8B%E8%AF%84%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 比例的竖版科技博主海报，采用光泽感十足的赛博蓝风格。画面中，一位留着黑色短发、戴着黑色方框眼镜的年轻东亚男性，身穿纯黑色 T 恤，从右侧向镜头探身，表情惊讶、嘴巴微张。他的左手在左下角前景处拿着一枚巨大的发光圆形蓝色代币，使其看起来被放大；代币具有透明的玻璃边缘、霓虹蓝高光，正面有一个由三个独立块状结构组成的凸起白色几何标志。他的右手从右侧指向该代币。使用超广角自拍视角，强调景深畸变，采用清晰的高对比度照明，背景为深黑色，充满电光蓝色的光束、镜头光晕和动态线条。添加 3 个清晰可见的文本元素：左上角背景处是一个巨大的 3D 金属蓝中文标题，内容为 {argument name="background Chinese headline" default="大力"}；底部是一个醒目的大号斜体白蓝相间标题，内容为 {argument name="model title" default="Qwen3.8"}；右下角是加粗的白色中文文本，内容为 {argument name="test label" default="实测"}。所有排版均需呈现出挤压、光泽、斜面效果，并带有蓝色轮廓光。整体构图应具有高能量的 YouTube 缩略图或社交媒体科技测评预告风格，画质超清晰、具有电影质感、略带超现实感，不包含额外文本，无水印。
+
+[English]
+Create a dramatic vertical 4:5 tech influencer poster in a glossy cyber-blue style. A young East Asian man with short black hair, black rectangular glasses, and a surprised open-mouth expression leans toward the camera from the right side, wearing a plain black T-shirt. He holds a large glowing circular blue token close to the lens with his left hand in the lower-left foreground, making it appear oversized; the token has a transparent glassy rim, neon blue highlights, and a raised white geometric logo made of three separate block shapes on its face. His right hand points at the token from the right. Use an extreme wide-angle selfie perspective, strong depth distortion, crisp high-contrast lighting, and a dark black background filled with electric blue light streaks, lens flares, and motion lines. Add exactly 3 visible text elements: a huge 3D metallic-blue Chinese headline in the upper-left background reading {argument name="background Chinese headline" default="大力"}, a large italic white-and-blue title across the bottom reading {argument name="model title" default="Qwen3.8"}, and bold white Chinese text at the lower right reading {argument name="test label" default="实测"}. Make all typography extruded, glossy, beveled, and glowing with blue rim light. The composition should feel like a high-energy YouTube thumbnail or social media tech review announcement, ultra sharp, cinematic, slightly surreal, no extra text, no watermark.
+```
+
+**来源：** [@Paidax](https://x.com/xin_pai88825/status/2080221817281896566) | 2026-07-23
+
+---
+
+### 🎴 例 4856：洋红色赛博偶像海报
+
+![洋红色赛博偶像海报](../images/%E6%B4%8B%E7%BA%A2%E8%89%B2%E8%B5%9B%E5%8D%9A%E5%81%B6%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的赛博时尚编辑海报，主角为一名名为 {argument name="character name" default="Karina"} 的年轻东亚女性，采用半身特写构图，略微偏右居中，直视镜头，眼神平静且富有表现力，嘴角带着浅浅的微笑。她留着一头柔顺的 {argument name="hair color" default="黑色"} 长发，面部特征精致写实，皮肤纹理自然，双眸明亮，妆容为淡粉色调，气质优雅且充满青春活力。她头戴一顶黑色棒球帽，帽前别着两个小圆徽章，帽子上方/周围佩戴着淡粉色头戴式耳机，身穿灰色修身吊带背心，外搭一件滑落至单肩的黑色毛绒针织开衫，颈间佩戴一条精致的银色星星吊坠项链；左手轻轻触碰耳机或帽檐。采用单色洋红色与紫色的赛博朋克色调，辅以柔和的粉色光影、胶片颗粒感、半色调网点纹理，营造出高端 K-pop 专辑封面的质感。背景为层叠的数字拼贴画，包含三张完全相同的该女性虚影肖像：左上方一张部分被垂直像素条遮挡，右上角一张带有类似墨镜的阴影，右侧中部下方一张较小的肖像。在主体周围添加纤细的霓虹粉色矩形电路框和 UI 连接器，并在多个交汇处放置小型粉色故障条。包含像素/位图排版：面部右下方有一个半透明粉色轮廓框，内含大号名称标签 {argument name="main name text" default="Karina"}；左侧垂直标签为“SOFT POWER // CODE : 0411”；右上角标题为“DIGITAL ELEGANCE IN MOTION”；右侧有一个小型方框内的东亚汉字“凛”；左下角引语为 {argument name="quote" default="The presence that stays with you, long after the signal fades."}；左下角附近有大号代码“[0411]”及下方的小型条形码；右侧有微小的文字“Signal. Emotion. Identity.”；底部文字为“NOT JUST A MOMENT / A FREQUENCY.”。底部添加一条带有对角警示条纹的 HUD 栏、一条长粉色进度条以及右下角的一个小型棋盘格方块。保持构图紧凑且平衡，以清晰写实的肖像细节与背景中像素化的面孔形成对比，无水印，无多余肢体，无面部扭曲，所有文字均需作为平面设计元素完美融合。
+
+[English]
+Create a square cyber-fashion editorial poster featuring a young East Asian woman named {argument name="character name" default="Karina"} in a half-body close-up, centered slightly right, looking directly at the viewer with a calm, expressive gaze and a faint soft smile. She has long straight {argument name="hair color" default="black"} hair, realistic delicate facial features, natural skin texture, glossy eyes, subtle pink makeup, and an elegant but youthful aura. She wears a black baseball cap with two small round pins on the front, pastel pink over-ear headphones around/over the cap, a gray fitted camisole top, a fluffy black knit cardigan falling off one shoulder, and a tiny silver star pendant necklace; her left hand lightly touches the headphone/hat brim. Use a monochrome magenta and violet cyberpunk palette with soft pink lighting, film grain, halftone dot textures, and a high-fashion K-pop album-cover feeling. The background is a layered digital collage with exactly three large ghosted duplicate portraits of the same woman: one on the upper left partly hidden behind vertical pixel bars, one on the upper right in sunglasses-like shadow, and one smaller portrait on the mid-right lower area. Add thin neon-pink rectangular circuit-line frames and UI connectors around the subject, with small pink glitch bars placed at several intersections. Include pixel/bitmap typography: a large name label reading {argument name="main name text" default="Karina"} in a translucent pink outlined box at the lower right of the face, a vertical left-side label reading “SOFT POWER // CODE : 0411”, a top-right caption reading “DIGITAL ELEGANCE IN MOTION”, a small boxed East Asian character “凛” on the right, a lower-left quote reading {argument name="quote" default="The presence that stays with you, long after the signal fades."}, a large code “[0411]” near the bottom left, a small barcode below it, tiny right-side words “Signal. Emotion. Identity.”, and bottom text reading “NOT JUST A MOMENT / A FREQUENCY.” Add a bottom HUD strip with diagonal warning stripes, a long pink progress bar, and a small checkerboard block in the bottom-right corner. Keep the composition dense but balanced, with crisp realistic portrait detail contrasted against pixelated background faces, no watermark, no extra limbs, no distorted facial features, and all text cleanly integrated as graphic design.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2080148776233447513) | 2026-07-23
+
+---
+
+### 🎴 例 4859：强制透视奢华产品广告
+
+![强制透视奢华产品广告](../images/%E5%BC%BA%E5%88%B6%E9%80%8F%E8%A7%86%E5%A5%A2%E5%8D%8E%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实奢华产品广告大片，充满未来感的白色建筑空间，拥有高耸的几何墙面和黑白相间的亮面反射地板。前景中是一个巨大的 {argument name="hero product" default="高端头戴式耳机"}（哑光黑色机身配深酒红色耳罩），通过强制透视手法将其作为核心产品呈现。背景中，一位时尚的年轻男模特戴着黑色墨镜，身穿 {argument name="outfit" default="米色飞行员夹克、米色短裤和白色运动鞋"}，动作动感地蹲下，一只手向镜头伸出，形成夸张的透视效果。干净的奢华光影，柔和的体积光，漂浮的尘埃颗粒，背景中隐约可见音频波形图形，极简高端美学，时尚编辑摄影风格，商业产品渲染，超清晰细节，电影级构图，景深效果，8K 分辨率，Octane Render 渲染，照片级真实感。顶部留白，用于放置品牌标识和 {argument name="headline" default="标题“Hear Your Style”"}，采用优雅的现代字体。
+
+奢华香水广告，极简主义白色建筑室内空间，高耸的立柱，黑白相间的亮面反射地板。前景中是一个巨大的 {argument name="product" default="带有金色瓶盖的琥珀色玻璃香水瓶"}，通过戏剧性的强制透视手法占据视觉中心。背景中，一位时尚的年轻男模特戴着黑色墨镜，身穿米色棒球夹克、配套短裤、白色袜子和运动鞋，身体前倾，仿佛在伸手够瓶子，营造出充满活力的生活方式姿态。明亮柔和的日光，高端时尚广告大片，干净的奢华美学，逼真的反射效果，细腻的闪光点，高端编辑摄影，照片级真实感，电影级布光，景深效果，超高细节，8K 分辨率，Octane Render 渲染，奢华品牌质感。顶部留出负空间，用于放置标题“Own the Moment”和品牌 Logo。
+
+[English]
+Ultra-realistic luxury product advertising campaign, a futuristic white architectural room with tall geometric walls and a glossy black-and-white checkered reflective floor. A giant premium over-ear headphone in the foreground (black matte body with deep burgundy ear cushions), positioned as the hero product using forced perspective. Behind it, a stylish young male fashion model wearing black sunglasses, a cream bomber jacket, beige shorts, and white sneakers crouches dynamically, reaching one hand toward the camera with exaggerated perspective. Clean luxury lighting, soft volumetric glow, floating dust particles, subtle audio waveform graphics in the background, minimal premium aesthetic, editorial fashion photography, commercial product render, ultra-sharp details, cinematic composition, depth of field, 8K, Octane Render, photorealistic. Leave space at the top for branding and the headline "Hear Your Style" in elegant modern typography. Luxury perfume commercial, minimalist white architectural interior with tall pillars, glossy black-and-white checkered reflective floor. A large amber glass perfume bottle with a gold cap dominates the foreground using dramatic forced perspective. In the background, a fashionable young male model wearing black sunglasses, a beige varsity jacket, matching shorts, white socks, and sneakers leans forward as if reaching for the bottle, creating an energetic lifestyle pose. Bright soft daylight, premium fashion campaign, clean luxury aesthetic, realistic reflections, subtle sparkles, high-end editorial photography, photorealistic, cinematic lighting, depth of field, ultra-detailed, 8K, Octane Render, luxury branding look. Leave negative space at the top for the headline "Own the Moment" and logo placement.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2080143259557581285) | 2026-07-23
+
+---
+
+### 🎴 例 4873：早安长沙美食景观
+
+![早安长沙美食景观](../images/%E6%97%A9%E5%AE%89%E9%95%BF%E6%B2%99%E7%BE%8E%E9%A3%9F%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张宽幅电影感美食海报，采用清新的日系文学审美色调，以淡象牙白和浅春绿色为主，伴有柔和雾气。画面是一个超现实的微缩景观，长沙早餐美食化身为山峦：画面中可见 5 个主要的美食地貌元素，包括右侧一座巨大的方形臭豆腐块山，顶部撒有翠绿葱花；左侧一座较小的方形豆腐块山；右下角前景处一座较小的豆腐块山；以及两座红辣椒酱堆成的小山，分别位于中左侧和远右侧。添加缭绕的白色蒸汽带，像云朵一样横向穿过景观，背景中有淡淡的水墨山峦和朦胧的长沙城市天际线：左侧包含一座宝塔和低矮建筑，右侧有一座细长的塔影。在最底部，添加微小的人影和 3 个带有遮阳伞及中文招牌的早餐摊位场景，如同美食山脚下的微缩集市。使用优雅的海报排版：顶部中心放置一个圆角日期胶囊，显示 {argument name="date label" default="09 · 2026-07-22"}；下方为醒目的绿色中文大标题 {argument name="headline text" default="早安·长沙"}；标题下方为间距适中的英文副标题 {argument name="English subtitle" default="GOOD MORNING · CHANGSHA"}。在垂直中心位置，添加一列纤细的中文引言文本 {argument name="vertical quote" default="今日金句：有烟火气的人生，最有抵达幸福的力气。"}。保持构图通透、高级且宁静，光线为柔和的晨光，无生硬阴影，呈现真实的食物质感、微妙的水彩氛围以及简洁的商业海报设计。
+
+[English]
+Create a wide cinematic food poster in a fresh Japanese literary aesthetic color palette, pale ivory and light spring green with soft mist. The scene is a surreal miniature landscape where Changsha breakfast foods become mountains: exactly 5 main food-landform elements are visible, including 1 large square stinky-tofu cube mountain on the right topped with chopped green scallions, 1 smaller square tofu block hill on the left, 1 smaller tofu block hill in the lower right foreground, and 2 red chili relish mound hills, one near center-left and one far right. Add steaming white vapor ribbons winding horizontally through the landscape like clouds, with faint ink-wash mountains in the background and a hazy Changsha city skyline: include a pagoda and low buildings on the left and a slender tower silhouette on the right. Along the very bottom, add tiny human silhouettes and exactly 3 small breakfast-stall scenes with parasols and Chinese shop signs, integrated like a miniature marketplace at the foot of the food mountains. Use elegant poster typography: at the top center place a small rounded date capsule reading {argument name="date label" default="09 · 2026-07-22"}; below it, large green Chinese headline text reading {argument name="headline text" default="早安·长沙"}; beneath the headline, small spaced English subtitle reading {argument name="English subtitle" default="GOOD MORNING · CHANGSHA"}. In the vertical center, add a thin column of Chinese quote text reading {argument name="vertical quote" default="今日金句：有烟火气的人生，最有抵达幸福的力气。"}. Keep the composition airy, premium, and calm, with soft morning light, no harsh shadows, realistic food textures, subtle watercolor atmosphere, and clean commercial poster design.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2080082116516401309) | 2026-07-23
+
+---
+
