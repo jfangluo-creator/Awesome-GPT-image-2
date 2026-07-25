@@ -11992,3 +11992,43 @@ Luxury {argument name="interior style" default="Scandinavian"} interior, authent
 
 ---
 
+### 🏷️ 例 4886：极简主义航拍无人机摄影
+
+![极简主义航拍无人机摄影](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%88%AA%E6%8B%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+提示词 1：一张超极简主义的无人机航拍照片，画面中是向四面八方无限延伸的 {argument name="environment" default="深蓝色海洋"}。一艘孤独的小型白色 {argument name="subject" default="帆船"} 完美地位于画面中心，突显出孤独感、自由感与宏大的比例。海面有细微的涟漪，呈现出从海军蓝到钴蓝色的丰富色调与自然质感。构图采用了大量的留白，营造出平静、电影感且宁静的氛围。从极高海拔以俯视长焦视角拍摄，帆船在广阔的海洋衬托下显得格外渺小。柔和的自然光，逼真的水面反射，清晰的细节，照片级真实感，艺术旅行摄影，奢华编辑审美，国家地理风格，哈苏中画幅相机，100mm 镜头，超锐利对焦，HDR，8K 分辨率，简洁构图，极简配色，无陆地，无地平线，无人物，只有被无尽大海包围的孤独帆船。
+
+提示词 2：一张超极简主义的无人机航拍照片，画面中是延伸至地平线的无尽茂密常青森林。一个带有洁白伞面的微小白色滑翔伞完美地悬浮在画面中心，突显出孤独感、自由感以及大自然的宏大比例。森林由紧密排列的深色松树和冷杉组成，形成了富有层次的深绿色质感，色调细微变化。从极高海拔以俯视长焦视角拍摄，滑翔伞在广袤的森林树冠衬托下显得格外渺小。构图采用了大量的留白，营造出平静、电影感且引人深思的氛围。柔和的阴天自然光，轻微的大气薄雾，逼真的树木质感，清晰的细节，照片级真实感，艺术风景摄影，奢华编辑审美，国家地理风格，哈苏 X2D 中画幅相机，100mm 长焦镜头，超锐利对焦，HDR，8K 分辨率，柔和的绿色调，无山脉，无道路，无河流，无建筑，无其他人物或飞行器，只有无尽森林上方的孤独滑翔伞。超写实，电影感，屡获殊荣的航拍摄影。
+
+[English]
+Prompt 1: An ultra-minimalist aerial drone photograph of a vast {argument name="environment" default="deep-blue ocean"} stretching endlessly in every direction. A single small white {argument name="subject" default="sailboat"} is perfectly isolated near the center of the frame, emphasizing solitude, freedom, and scale. The sea has subtle ripples and rich navy-to-cobalt blue tones with natural texture. The composition features extensive negative space, creating a calm, cinematic, and peaceful atmosphere. Shot from a very high altitude with a top-down telephoto perspective, the sailboat appears tiny against the immense ocean. Soft natural daylight, realistic water reflections, crisp details, photorealistic, fine art travel photography, luxury editorial aesthetic, National Geographic style, Hasselblad medium-format camera, 100mm lens, ultra-sharp focus, HDR, 8K resolution, clean composition, minimalist color palette, no land, no horizon, no people visible, only the solitary sailboat surrounded by endless sea.
+
+Prompt 2: An ultra-minimalist aerial drone photograph of an endless dense evergreen forest stretching to the horizon. A single tiny white paraglider with a clean white canopy floats perfectly near the center of the frame, emphasizing solitude, freedom, and the immense scale of nature. The forest consists of tightly packed dark pine and fir trees, creating a rich deep-green texture with subtle variations in tone. Captured from an extremely high altitude with a top-down telephoto perspective, the paraglider appears tiny against the vast forest canopy. The composition features abundant negative space, creating a calm, cinematic, and contemplative mood. Soft overcast natural light, gentle atmospheric haze, realistic tree textures, crisp details, photorealistic, fine-art landscape photography, luxury editorial aesthetic, National Geographic style, Hasselblad X2D medium-format camera, 100mm telephoto lens, ultra-sharp focus, HDR, 8K resolution, muted green color palette, no mountains, no roads, no rivers, no buildings, no other people or aircraft, only the solitary paraglider above the endless forest. Hyper-realistic, cinematic, award-winning aerial photography.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2080720887314264212) | 2026-07-24
+
+---
+
+### 🏷️ 例 4912：红宝石日落玫瑰园肖像
+
+![红宝石日落玫瑰园肖像](../images/%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%97%A5%E8%90%BD%E7%8E%AB%E7%91%B0%E5%9B%AD%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅细节极其丰富的浪漫动漫风格幻想插画，描绘 {argument name="character name" default="一位美丽的年轻女性"} 在烈日余晖下的玫瑰园中，灵感源自“深情”这一宝石寓意。画面采用戏剧性的四分之三侧面视角，展示女性腰部以上部分，她微微仰头，双唇微启，双眸如红宝石般明亮。她留着一头随风飘动的 {argument name="hair color" default="红褐色长发"}，发丝边缘闪烁着橙色的轮廓光，面部特征精致，表情优雅而富有感染力。她的左臂高举，指尖精准地捏着一颗硕大的圆形切面红宝石；红宝石捕捉着耀眼的星芒高光。她的右手轻触肩侧的发丝。她身着一件优雅的黑色与深绯色蕾丝拼接礼服，配有半透明袖子、华丽的花卉刺绣、收腰设计以及哥特浪漫风细节，并佩戴红宝石耳环和项链。在画面左右两侧环绕着 9 朵醒目的深红色玫瑰，右下角前景处放置 7 颗硕大的尖锐红宝石晶体。背景是充满发光云层的鲜艳橙红色日落天空，低垂的太阳位于她肩后，营造出强烈的逆光效果、温暖的镜头光晕，以及穿透发丝和蕾丝的金色高光。使用 {argument name="gemstone color" default="深红宝石色"}、绯红、黑色蕾丝和明亮的日落橙色作为主色调。构图采用竖版，呈现电影感、华丽、高度精炼的绘画风格动漫插画，强调复杂的宝石切面、闪烁的高光、强烈的对比度以及柔和的氛围光，画面中不包含任何文字或水印。
+
+[English]
+Create a highly detailed romantic anime-style fantasy illustration of {argument name="character name" default="a beautiful young woman"} in a rose garden at blazing sunset, inspired by the gemstone meaning “deep affection.” The woman is shown from the waist up in a dramatic three-quarter view, looking upward with parted lips and luminous ruby-red eyes. She has long windblown {argument name="hair color" default="auburn-brown hair"} with glowing orange rim light, delicate facial features, and a graceful, emotional expression. Her left arm is raised high, holding exactly one large round faceted ruby between her fingers; the ruby catches a brilliant star-shaped highlight. Her right hand lightly touches her hair near her shoulder. She wears an elegant sheer black-and-deep-crimson lace dress with translucent sleeves, ornate floral embroidery, a fitted waist, and gothic romantic details, plus ruby earrings and a ruby necklace. Surround her with exactly nine prominent deep red roses around the left and right edges, and place exactly seven large sharp faceted ruby crystal points in the lower-right foreground. The background is a vivid orange-red sunset sky filled with glowing clouds, with the low sun behind her shoulder creating intense backlight, warm lens flare, and golden highlights through her hair and lace. Use a rich palette of {argument name="gemstone color" default="deep ruby red"}, crimson, black lace, and bright sunset orange. Make the composition vertical, cinematic, ornate, highly polished, painterly anime illustration, with intricate gemstone facets, sparkling highlights, dramatic contrast, soft atmospheric glow, and no text or watermark.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2080597558905454692) | 2026-07-24
+
+---
+

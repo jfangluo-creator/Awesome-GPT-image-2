@@ -9837,3 +9837,135 @@ Constraints: Keep the composition framed like a single collectible playing card,
 
 ---
 
+### 🖥️ 例 4881：宇航员在太空中骑马
+
+![宇航员在太空中骑马](../images/%E5%AE%87%E8%88%AA%E5%91%98%E5%9C%A8%E5%A4%AA%E7%A9%BA%E4%B8%AD%E9%AA%91%E9%A9%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅方形的超现实主义油画，主体为 {argument name="main subject" default="一名宇航员在太空中骑马"}。宇航员身穿笨重的白色 EVA 太空服，背着大型生命支持背包，佩戴着带有金色光泽的黑色头盔面罩，太空服上有红色和蓝色的小标记，戴着厚实的手套和靴子，端坐在棕色皮质马鞍上，手握红棕色缰绳。马匹为 {argument name="horse color" default="栗棕色，带有白色额斑和白色四肢下部"}，呈现向右驰骋的动态姿势，鬃毛和尾巴随风飘动，前腿抬起，配有精细的缰绳，头部表情生动写实。背景为深海军蓝色的宇宙，充满漩涡状的笔触、细小的星星、淡淡的星云，以及两颗巨大的环状行星：左上方是一颗带有蓝色光环和黄绿色陆地形状的彩色行星，右上方是一颗蓝紫色的环状行星。采用富有表现力的传统布面油画风格，具有明显的厚涂笔触纹理、戏剧性的柔和高光、奇幻的复古科幻氛围，色调以浓郁的蓝色和棕色为主，画面中不包含任何文字或水印。
+
+[English]
+Create a square, painterly surreal oil painting of {argument name="main subject" default="an astronaut riding a horse through outer space"}. The astronaut wears a bulky white EVA spacesuit with a large backpack life-support unit, glossy black gold-tinted helmet visor, small red and blue suit markings, thick gloves and boots, seated upright in a brown leather saddle and holding red-brown reins. The horse is {argument name="horse color" default="chestnut brown with a white blaze and white lower legs"}, shown in a dynamic mid-gallop pose facing right, with wind-swept mane and tail, raised front legs, detailed bridle, and expressive realistic head. The setting is a deep navy-black cosmic background filled with swirling brushstrokes, tiny stars, faint nebulas, and exactly two large ringed planets: one colorful planet in the upper left with blue rings and yellow-green landlike shapes, and one bluish-purple ringed planet in the upper right. Use an expressive traditional oil-on-canvas look with visible thick brush texture, dramatic soft highlights, whimsical retro sci-fi fantasy mood, rich blues and browns, and no text or watermark.
+```
+
+**来源：** [@Kiera](https://x.com/kieradev/status/2080741645448823287) | 2026-07-24
+
+---
+
+### 🖥️ 例 4891：调皮的涂鸦影子
+
+![调皮的涂鸦影子](../images/%E8%B0%83%E7%9A%AE%E7%9A%84%E6%B6%82%E9%B8%A6%E5%BD%B1%E5%AD%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个调皮的涂鸦影子正在模仿角色，摆出夸张滑稽的姿势，而她本人则静静地站着，穿着 {argument name="clothing" default="现代潮流服饰"}。影子呈现出手绘风格，俏皮且充满个性，与平静的主体形成了幽默的反差。她穿着时尚的 {argument name="top" default="廓形衬衫"}、{argument name="bottom" default="工装裤"} 和运动鞋。她面露困惑，仿佛完全不知道影子在做什么。
+
+[English]
+A mischievous doodle shadow mimics the character with exaggerated funny poses while she stands still wearing {argument name="clothing" default="modern trendy clothes"}. The shadow appears hand-drawn, playful, and full of personality, creating a humorous contrast with the calm subject. She wears a fashionable {argument name="top" default="oversized shirt"}, {argument name="bottom" default="cargo pants"}, and sneakers. Her facial expression is confused, as if she has no idea what the shadow is doing.
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2080695077660487926) | 2026-07-24
+
+---
+
+### 🖥️ 例 4914：睡前陪伴 App 原型设计
+
+![睡前陪伴 App 原型设计](../images/%E7%9D%A1%E5%89%8D%E9%99%AA%E4%BC%B4%20App%20%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精致的移动端 App 原型模型，展示两台并排的 iPhone 屏幕，呈现一款以 {argument name="character name" default="这个孩子"} 为核心的轻柔睡前陪伴 App，采用梦幻夜空主题和可爱的毛绒守护者角色。
+
+画布：1:1 正方形图像，纯白背景。放置 2 台黑色 iPhone 模型，左右并排，均带有圆角、灵动岛 (Dynamic Island)、状态栏和底部主屏幕指示器。使用带有细腻阴影的逼真设备边框。
+
+视觉风格：深海军蓝到靛蓝的渐变背景，点缀细小的繁星，柔和的月光，高端日式健康 App 设计，冷静且极简。使用圆角 UI 元素、细腻的毛玻璃效果 (glassmorphism)、柔和的薰衣草色面板以及温暖的橙色强调按钮。整体氛围应感觉慵懒、温柔、安全且充满魔力。
+
+共享角色细节：在两个屏幕中，均展示 1 个核心吉祥物：一只淡薰衣草色的泰迪熊风格幼崽，拥有圆圆的小耳朵、简单的黑眼睛、小小的微笑、柔软的毛绒质感、坐姿以及奶油色的小天使翅膀。在吉祥物周围添加柔和的光晕。每个屏幕右上角附近包含 1 个新月图标。
+
+左侧屏幕布局：顶部状态栏显示 18:11，带有小型信号、Wi-Fi 和电池图标。左上方显示白色问候语 {argument name="greeting text" default="こんばんは"}，下方一行较小的文字显示 {argument name="sleep countdown text" default="睡眠時間 0:30"}。右上角附近包含 1 个小型圆形扬声器/音频按钮。将带翅膀的毛绒吉祥物居中放置在中上方。在其下方，添加简短的日文说明文字：“TikTok・Instagram Reels・YouTube Shorts を見ていた君が、ここで一緒に眠れるれるよ。” 底部附近放置 1 个大型圆角奶油色主按钮，标签为 {argument name="primary button text" default="この子と、夜を終える"}。在其下方，并排放置 4 个小型圆角导航按钮，每个按钮带有简单的线条图标和日文标签：1) 闪烁图标，“森”；2) 手机/矩形图标，“日々みる”；3) 新月/睡眠图标，“おやすみ”；4) 齿轮图标，“せってい”。在大型奶油色按钮的右下边缘添加 1 个悬浮的橙色圆形操作按钮。
+
+右侧屏幕布局：顶部状态栏再次显示 18:11 和手机图标。顶部正中央包含一条短而细的薰衣草色手柄线。下方居中显示白色标题 {argument name="memory title" default="この子の思い出"}。将带翅膀的毛绒吉祥物置于标题下方，尺寸比左侧屏幕略小。将新月放在吉祥物的右上角。在吉祥物下方，添加居中的简短日文文字：“まだ思い出はないよ。今夜が、最初の一夜になるかも。” 下半部分保持大面积留白，仅有少量星光。在屏幕右下侧附近添加 1 个小型橙色悬浮圆形按钮。底部包含白色主屏幕指示器。
+
+约束条件：使用 2 台手机屏幕，总计 2 个吉祥物，总计 2 个新月，左侧屏幕底部有 4 个导航按钮，总计 2 个橙色悬浮操作按钮。保持所有排版清晰易读，日文文本渲染整洁。不要添加额外的面板、Logo、水印或额外角色。
+
+[English]
+Goal: Create a polished mobile app prototype mockup showing two iPhone screens side by side for a gentle bedtime companion app centered on {argument name="character name" default="this child"}, with a dreamy night-sky theme and a cute plush guardian character.
+
+Canvas: Square 1:1 image on a plain white background. Place exactly 2 black iPhone mockups next to each other, left and right, both with rounded corners, Dynamic Island, status bar, and bottom home indicator. Use realistic device frames with subtle shadows.
+
+Visual style: Dark navy-to-indigo gradient backgrounds, tiny scattered stars, soft glowing moonlight, premium Japanese wellness-app design, calm and minimal. Use rounded UI elements, subtle glassmorphism, muted lavender panels, and warm orange accent buttons. The overall mood should feel sleepy, tender, safe, and magical.
+
+Shared character details: In both screens, show exactly 1 central mascot: a pastel lavender teddy-bear-like baby creature with small rounded ears, simple black eyes, tiny smile, soft plush texture, sitting pose, and small cream angel wings. Add a soft glow around the mascot. Include exactly 1 crescent moon icon per screen near the upper right area.
+
+Left screen layout: Status bar at top shows 18:11 with small signal, Wi-Fi, and battery icons. Near the top left, display the greeting {argument name="greeting text" default="こんばんは"} in white, with a smaller line beneath reading {argument name="sleep countdown text" default="睡眠時間 0:30"}. Near the upper right, include exactly 1 small circular speaker/audio button. Center the winged plush mascot in the upper-middle. Below it, add small Japanese explanatory text: “TikTok・Instagram Reels・YouTube Shorts を見ていた君が、ここで一緒に眠れるれるよ。” Near the bottom, place exactly 1 large rounded cream-colored primary button labeled {argument name="primary button text" default="この子と、夜を終える"}. Under it, place exactly 4 small rounded navigation buttons in a row, each with a simple line icon and Japanese labels: 1) sparkle icon, “森”; 2) phone/rectangle icon, “日々みる”; 3) crescent/sleep icon, “おやすみ”; 4) gear icon, “せってい”. Add exactly 1 floating orange circular action button overlapping the lower-right edge of the large cream button.
+
+Right screen layout: Status bar at top again shows 18:11 and phone icons. At the very top center, include a short thin lavender handle line. Centered below, show the title {argument name="memory title" default="この子の思い出"} in white. Place the winged plush mascot below the title, slightly smaller than on the left screen. Put the crescent moon to the upper right of the mascot. Under the mascot, add centered small Japanese text: “まだ思い出はないよ。今夜が、最初の一夜になるかも。” Leave the lower half mostly empty with sparse stars. Add exactly 1 small orange floating circular button near the lower-right side of the screen. Include the white home indicator at the bottom.
+
+Constraints: Use exactly 2 phone screens, exactly 2 mascots total, exactly 2 crescent moons total, exactly 4 bottom navigation buttons on the left screen, and exactly 2 orange floating action buttons total. Keep all typography crisp and legible, with Japanese text rendered cleanly. Do not add extra panels, logos, watermarks, or additional characters.
+```
+
+**来源：** [@nogu](https://x.com/_nogu66/status/2080583029937062262) | 2026-07-24
+
+---
+
+### 🖥️ 例 4917：嵌套式画中画软件 UI
+
+![嵌套式画中画软件 UI](../images/%E5%B5%8C%E5%A5%97%E5%BC%8F%E7%94%BB%E4%B8%AD%E7%94%BB%E8%BD%AF%E4%BB%B6%20UI.jpg)
+
+**Prompt:**
+
+```text
+生成一张具有视觉纵深感的‘画中画’图像。最外层是一个真实的 {argument name="编程界面" default="VSCode 编程界面"}，中间嵌套一个{argument name="应用名称" default="千问App"}的聊天界面，聊天界面里我正在发送一条消息，内容是‘{argument name="生成请求" default="帮我生成一张手冲咖啡海报"}’。千问回复了一张精美的咖啡海报，这张海报也清晰地显示在聊天界面中。要求每一层UI都保持真实的风格与细节，界面中的时间数字、按钮小字等微观细节清晰可辨。
+```
+
+**来源：** [@比特小师妹｜KiKi](https://x.com/bit_sister/status/2080577815376957798) | 2026-07-24
+
+---
+
+### 🖥️ 例 4937：直播新闻：地铁里的春野樱
+
+![直播新闻：地铁里的春野樱](../images/%E7%9B%B4%E6%92%AD%E6%96%B0%E9%97%BB%EF%BC%9A%E5%9C%B0%E9%93%81%E9%87%8C%E7%9A%84%E6%98%A5%E9%87%8E%E6%A8%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张超写实的竖版智能手机新闻截图，主角是来自《火影忍者》的 {argument name="character name" default="春野樱"}，她以真人形象出现在拥挤的纽约地铁中。她位于画面中心，站在过道上，一只戴着黑色手套的手紧握着闪亮的金属地铁扶手，另一只戴手套的手臂横在身前。她留着凌乱的短发，发色为 {argument name="hair color" default="淡粉色"}，额头上戴着木叶村护额，金属片清晰可见。她身穿无袖深红色拉链式忍者背心、淡粉色护臂、深色手套以及带有侧开叉的淡粉色短裙。她神情不安且警觉，看向一侧，仿佛刚刚意识到自己来到了错误的次元。周围环绕着写实的通勤者：画面中清晰可见四名乘客——左侧一名戴眼镜看手机的男子，右侧一名戴着单只耳机低头看东西的西装男，右下方一名正在看书的女性，以及最右侧前景中仅露出部分身体的深色夹克路人。地铁车厢应看起来真实、充满金属感、狭窄且有荧光灯照明，配有头顶路线指示牌以及不锈钢车门和扶手；采用浅景深的纪实风格，呈现自然的皮肤纹理、细微的动态静止感，以及抓拍的街头摄影/新闻直播感。
+
+添加电视新闻叠加层，使图片看起来像实时突发新闻。在左上角放置一个红色矩形框，内有粗体白色文字：“LIVE”。在底部，创建一个分层的下三分之一图形：一个写有“BREAKING NEWS”的红色标签，下方是一个大的白色标题面板，上面印有粗体黑色文字 {argument name="headline text" default="地铁中出现疑似次元旅行者"}，最下方是一个黑色的地点/时间条，左侧显示 {argument name="location text" default="曼哈顿市中心"}，右侧是一个红色的时间框，显示 {argument name="time text" default="美东时间下午 7:32"}。标题应保持大而清晰，使用简洁的广播无衬线字体。构图应为 9:16 竖版，采用胸部高度的写实摄像机视角，略带广角，角色位于中心，新闻图形部分遮挡其下半身。不要使其看起来像动漫或 Cosplay 工作室摄影；它应该感觉像是真实的新闻直播画面，捕捉到了一个不可能存在的动漫角色穿越到我们世界的情景。
+
+[English]
+Create a photorealistic vertical smartphone news screenshot of {argument name="character name" default="Sakura Haruno"} from Naruto appearing as a real person on a crowded New York City subway. She is centered in the frame, standing in the aisle and gripping a shiny metal subway pole with one black-gloved hand while her other gloved arm crosses her body. She has short messy {argument name="hair color" default="pale pink"} hair, a maroon Leaf Village forehead protector worn like a headband with the metal plate visible, a sleeveless burgundy zip-front ninja-style vest, pale pink arm warmers, dark gloves, and a pale pink skirt with side slits. Her expression is uneasy and alert, looking off to the side as if she has just realized she is in the wrong world. Surround her with realistic commuters: exactly four prominent nearby passengers are visible — a man on the left with glasses looking at a phone, a suited man on the right wearing one earbud and looking down, a seated woman on the lower right reading a book, and a partially visible person in a dark jacket at the far right foreground. The subway car should look authentic, metallic, cramped, fluorescent-lit, with overhead route signage and stainless-steel doors and poles; use shallow documentary realism, natural skin texture, subtle motion stillness, and a candid street-photo/news-broadcast feel.
+
+Add a TV news overlay that makes the image look like live breaking news. In the top-left corner place a red rectangular box with bold white text: "LIVE". At the bottom, create a layered lower-third graphic: a red label reading "BREAKING NEWS", beneath it a large white headline panel with bold black text reading {argument name="headline text" default="Possible dimensional traveler seen on the subway"}, and a black location/time strip below reading {argument name="location text" default="Downtown Manhattan"} on the left and a red time box on the right reading {argument name="time text" default="7:32 PM ET"}. Keep the headline large and legible, in a clean broadcast sans-serif font. Composition should be 9:16 vertical, realistic camera perspective from chest height, slightly wide-angle, with the character occupying the center and the news graphics partially covering her lower body. Do not make it look like anime or cosplay studio photography; it should feel like a real live news capture of an impossible anime character crossing into our world.
+```
+
+**来源：** [@draco](https://x.com/DracoVibeCoding/status/2080489988182126611) | 2026-07-24
+
+---
+
+### 🖥️ 例 4942：未来之光城市
+
+![未来之光城市](../images/%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%85%89%E5%9F%8E%E5%B8%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一座光之城，拥有悬浮高速公路和超现实建筑——坐落于新世界的边缘。
+
+[English]
+A city of light, suspended highways and impossible architecture—built at the edge of a new world.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2080465491982741991) | 2026-07-24
+
+---
+

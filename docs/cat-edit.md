@@ -3263,3 +3263,21 @@ ultra detailed, photorealistic drawing, blue ink only, fine linework, smooth sha
 
 ---
 
+### 🔧 例 4930：单色涂鸦墨水素描
+
+![单色涂鸦墨水素描](../images/%E5%8D%95%E8%89%B2%E6%B6%82%E9%B8%A6%E5%A2%A8%E6%B0%B4%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的白纸上进行单色涂鸦墨水绘画，主体为 {argument name="subject" default="[SUBJECT]"}，表情为 {argument name="expression" default="[EXPRESSION]"}，姿势为 {argument name="pose" default="[POSE]"}。在主体后方添加零散的手写文字片段，如同重影的笔记本纹理，透过素描隐约可见。仅使用黑色墨水，采用混乱的刮擦笔触、松散的交叉排线、未完成的轮廓、细微的构图标记、极简的阴影、大面积的留白，呈现原始的速写能量、富有诗意的手写叠加、通透的构图、不完美的表现力线条，比例为竖向 4:5。
+
+[English]
+Monochrome scribble ink drawing on clean white paper featuring {argument name="subject" default="[SUBJECT]"} with {argument name="expression" default="[EXPRESSION]"}, {argument name="pose" default="[POSE]"}. Add loose handwritten text fragments layered behind the subject like a ghosted notebook texture, partially visible through the sketch. Use black ink only, chaotic scratchy pen lines, loose crosshatching, unfinished contours, thin construction marks, minimal shading, large white negative space, raw sketchbook energy, poetic handwritten overlays, airy composition, imperfect expressive linework, vertical 4:5.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2080517977582297169) | 2026-07-24
+
+---
+

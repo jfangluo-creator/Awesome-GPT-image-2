@@ -22444,3 +22444,442 @@ Create a wide cinematic food poster in a fresh Japanese literary aesthetic color
 
 ---
 
+### 🎴 例 4876：豪华铁路项目收纳展示海报
+
+![豪华铁路项目收纳展示海报](../images/%E8%B1%AA%E5%8D%8E%E9%93%81%E8%B7%AF%E9%A1%B9%E7%9B%AE%E6%94%B6%E7%BA%B3%E5%B1%95%E7%A4%BA%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 和 REFERENCE_1 作为实物参考，将模块化的白色 3D 打印项目收纳盒转化为一张高级众筹风格的产品展示海报，产品名称为 {argument name="product name" default="RAILWAY PLAY STATION"}。保留核心概念：可拆卸的模块化托盘，用于分类存放个人资金、公司资产、卡牌、代币及火车相关组件；但视觉风格需重新设计，使其呈现为奢华的深色皮革与黄铜质感桌面配件，而非普通的白色原型。
+
+画布与风格：在温暖的深色桌面上创建一个 16:9 的产品展示板，采用电影级浅景深效果，营造复古铁路或行政办公桌的氛围，体现黑色皮革纹理、金色镶边、棕褐色灯光及高端目录设计感。使用优雅的衬线体英文标题，并搭配小巧的日文说明文字。
+
+主要布局：在左侧和中心放置一张大型的主视觉渲染图。将其划分为 4 个带有细引线标注的功能区域：
+1. A 股票凭证区 — 卡牌竖立摆放，清晰易见。
+2. B 个人资金区 — 整齐分类的纸币/证券。
+3. C 公司模块底座 — 可拆卸的公司托盘，用于存放公司卡牌、资金、彩色方块和代币。
+4. D 交易港湾 — 侧边存放区，用于临时销售、分配、支付或处理交易。
+
+右侧栏：添加 3 个堆叠的说明性图片面板，并配以日文标题：
+1. 可拆卸式公司模块 — 展示装满卡牌、资金和代币的可拆卸模块。
+2. 交易港湾的使用方法 — 展示放置在弧形侧托盘中的临时组件。
+3. 公司模块交接图 — 展示双手传递可拆卸公司模块的场景。
+
+底部条：添加一个标题为日文“使用场景”的区域，包含 4 个带有说明文字的小型场景缩略图：
+1. 从整理股票和资金开始。
+2. 通过对接模块来运营公司。
+3. 使用交易港湾进行销售。
+4. 结算阶段的支付与分配。
+
+功能行：在主产品下方，包含 4 个带有简短日文优势说明的圆形金色线条图标：易于查看、不会散乱、功能性强、携带方便。
+
+尺寸面板：在右下角添加一个米色规格框，显示 {argument name="printer size" default="A2L"} 的可打印尺寸信息，包括大致尺寸 {argument name="main body dimensions" default="W322 × D166 × H18mm"} 以及公司模块尺寸 {argument name="company pod dimensions" default="W84 × D117 × H30mm"}。包含一个简单的收纳盒侧面轮廓图。
+
+文字：使用标题 {argument name="headline text" default="RAILWAY PLAY STATION"}。添加日文副标题，意为“个人物品，尽显美感与功能”，并用一行小字说明这是铁路项目专用的托盘工具。保持海报精致且写实，标签清晰可读，无水印，且不包含无关的额外组件。
+
+[English]
+Using REFERENCE_0 and REFERENCE_1 as the physical product reference, transform the modular white 3D-printed board-game organizer into a premium crowdfunding-style product presentation poster for {argument name="product name" default="RAILWAY PLAY STATION"}. Keep the same core concept: removable modular trays for separating personal money, company assets, cards, tokens, and train-related components, but redesign the visual style as a luxury dark leather-and-brass tabletop accessory rather than a plain white prototype.
+
+Canvas and style: Create a horizontal 16:9 product board on a warm dark tabletop, cinematic shallow depth of field, antique railway / executive desk atmosphere, black leather texture, gold trim, sepia lighting, high-end catalog design. Use elegant serif English headline typography and small Japanese explanatory copy.
+
+Main layout: Put a large hero render of the organizer across the left and center. Show it divided into exactly 4 labeled functional areas with thin callout lines:
+1. A stock certificate area — cards standing upright and easy to see.
+2. B personal funds area — neatly sorted paper money / securities.
+3. C company pod dock — removable company tray holding company cards, money, colored cubes, and tokens.
+4. D transaction harbor — a side holding area for temporary sales, distribution, payments, or transaction handling.
+
+Right column: Add exactly 3 stacked explanatory image panels with Japanese headings:
+1. Company pod, detachable style — show the removable pod full of cards, money, and tokens.
+2. How to use the transaction harbor — show temporary components placed in the curved side tray.
+3. Company pod handoff image — show hands passing the removable company pod.
+
+Bottom strip: Add a section titled in Japanese as a usage image area, containing exactly 4 small scenario thumbnails with captions:
+1. Start by organizing stocks and funds.
+2. Operate a company by docking the pod.
+3. Use the transaction harbor for sales.
+4. End-phase payments and distribution.
+
+Feature row: Beneath the hero product, include exactly 4 circular gold line icons with short Japanese benefits: easy to see, does not scatter, functional, comfortable to carry.
+
+Size panel: Add a beige specification box at lower right showing printable size information for {argument name="printer size" default="A2L"}, including approximate dimensions {argument name="main body dimensions" default="W322 × D166 × H18mm"} and company pod dimensions {argument name="company pod dimensions" default="W84 × D117 × H30mm"}. Include a simple side-profile silhouette of the organizer.
+
+Text: Use headline {argument name="headline text" default="RAILWAY PLAY STATION"}. Add Japanese subtitle copy meaning “Everything personal, beautifully and functionally,” and a small line indicating it is a dedicated tray tool for a railway board game. Keep the poster polished and realistic, with legible labels, no watermark, and no unrelated extra components.
+```
+
+**来源：** [@放課後等デイサービスのトムソーヤ](https://x.com/houdeinotomsoya/status/2080776080743686414) | 2026-07-24
+
+---
+
+### 🎴 例 4889：高端护肤系列海报网格
+
+![高端护肤系列海报网格](../images/%E9%AB%98%E7%AB%AF%E6%8A%A4%E8%82%A4%E7%B3%BB%E5%88%97%E6%B5%B7%E6%8A%A5%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 La Mer 创建一个超高端的 2x2 四格护肤营销海报，保持绝对的品牌一致性，但呈现四个完全不同的梦幻自然环境。每个象限必须感觉像是一个独特的奇幻世界，拥有各自的生态特征、色彩氛围和电影感调性，同时这四个部分又必须明确归属于一个统一的 La Mer 视觉宇宙。产品在每个画格中必须是绝对的主角，并完美融入自然，仿佛生来如此。最终作品应呈现出世界级奢侈护肤品系列的高级感，以及像获奖电影画面般凝固的静态美学：超写实的产品摄影、精湛的环境叙事、优雅的自然互动、微妙的梦幻氛围以及收藏级的视觉打磨。采用精致的英文标题排版、含蓄的官方品牌标识，并在高级社论布局中使用极简的辅助文字。
+
+核心布局：
+采用严格的 2x2 四格构图，间距均衡，设计规范统一。每个画格必须包含一件 La Mer 核心产品，以视觉主导但环境融合的方式放置。产品绝不能感觉像是强行粘贴进去的，而必须通过光影、水分、反射、材质接触和构图互动，感觉完全沉浸在每个自然世界中。每个画格必须清晰地表达不同的环境身份，同时保持相同的奢华基调、产品比例逻辑和品牌连贯性。
+
+Milk Cloud Orbit + Cream Halo Transit 方向：
+进一步强化已确立的最强特质：增强四个不同自然世界之间的对比，精化海洋植物梦幻细节，并将整体视觉语言提升至电影级静物摄影的高度。保留同样的四环境骨架，但让每个画格感觉更像是一个获奖奇幻电影中完美定格的瞬间：更安静、更开阔、更有氛围感、更具情感共鸣。用更强大的电影化环境叙事、更好的深度分层、更自然的光线衰减以及产品周围更受控的视觉留白，取代任何通用的装饰性梦幻感。
+
+系列理念：
+四个画格应代表四个完全不同的迷人自然世界，每个都具有强烈的视觉对比和独特的生态特征，但所有画格都必须让人感到奢华、宁静、神奇，且带有鲜明的 La Mer 风格。每个环境必须独立讲述一个自然状态的故事：
+1. 潮湿的热带森林避风港；
+2. 清凉的海洋悬崖或潮池世界；
+3. 薄雾弥漫的月光苔藓森林；
+4. 晶莹剔透的海盐矿物植物世界。
+这四个世界在色彩、光影、纹理和氛围上必须各具特色，但都应传达出补水、修护、纯净和奢华的护肤语言。
+
+画格 1，热带森林避风港：
+将 La Mer 产品放置在温暖湿润的热带雨林林间空地的苔藓石块或天然底座上。周围环绕着优雅的热带叶片、过滤后的阳光、柔和的雾气、露水和郁郁葱葱的深绿色层次感。环境应感觉清新、湿润、阳光明媚，具有极高的自然丰富度。产品应通过柔和的水润光泽、叶片的构图环绕以及金绿色的反射光与环境互动。这个画格应感觉像是充满生机的热带雨林电影剧照中一个宁静的神圣时刻。
+
+画格 2，海洋悬崖或潮池世界：
+将 La Mer 产品放置在受潮池、海边悬崖、矿物岩石和海雾启发的清凉海洋环境中。产品可以放置在潮湿的海岩或升起的石块上，周围环绕着温和的海水、海霭、碎海玻璃、矿物水分和冷色调的蓝绿色反射。这个画格应感觉更具水感、通透、海风吹拂且富有电影感，就像清晨在偏远悬崖上捕捉到的画面。
+
+画格 3，月光苔藓森林：
+将 La Mer 产品放置在一个更黑暗、更神秘的梦幻苔藓森林中，背景为黄昏或月光下的薄暮。使用深绿黑色的苔藓、湿润的树皮、柔和发光的菌类装饰、微弱的漂浮颗粒、银蓝色的薄雾和宁静的阴影深度。产品应在较暗的环境中发出柔光，营造出一种夜间修护和秘密植物炼金术的感觉。这个画格应感觉像是奇幻故事片中一个隐秘的仪式场景。
+
+画格 4，晶莹剔透的海盐矿物植物世界：
+将 La Mer 产品放置在一个精致的梦幻环境中，海洋植物、半透明晶体、海盐矿物构造、湿润的花瓣和淡色发光的自然元素共同营造出一个更加空灵和珍贵的场景。产品应感觉像是从神圣的海洋植物祭坛中生长出来的。这个画格可能是四个画格中最崇高、最神奇的一个，带有微妙的珍珠、翡翠和海泡石色调，但它必须依然感觉优雅且富有电影感，而不是单纯的装饰。
+
+产品写实度：
+以极其执着的写实主义和奢侈材质保真度来呈现 La Mer 产品。展示准确的罐体或瓶身比例、精美的玻璃或面霜罐表面、抛光的瓶盖、极高清晰度的标签、洁净的反射和优雅的色调深度。在每个画格中，产品必须感觉纯净、昂贵且带有鲜明的 La Mer 品牌特征。它必须始终是每一格画面的色彩和构图中心。
+
+自然与产品的互动：
+在每个画格中，产品和环境必须积极地相互响应。利用石头上的水分、叶片的反射光、玻璃上捕捉到的海雾、触碰底座的苔藓、周围花瓣上的水珠、柔和的薄雾和微妙的自然构图框架。产品必须与周围的自然世界完全协调。这种关系必须感觉是电影般的、有机的，绝不是装饰性或人造的。
+
+水、雾和颗粒的真实感：
+以极端的写实感和优雅感呈现水、湿度、水滴、雾气和微粒。每个画格都应包含某种形式的大气水分或自然微粒，但要适应其自身的生态环境：雨林湿度、海浪喷溅、月光森林水汽、矿物薄雾或发光的水润微尘。效果必须感觉干净、高端且符合物理逻辑。保持它们的克制与电影感，仿佛在动作恢复前的静谧空气中暂停。
+
+光影：
+在所有四个画格中使用极其细腻、柔和的电影化照明，但要改变光线性质以匹配环境：
+1. 温暖的过滤雨林光线；
+2. 清凉的海洋日光薄霭；
+3. 昏暗的月光森林辉光；
+4. 淡雅的神圣矿物照明。
+所有照明必须保持奢华、柔和且高度受控。产品必须始终以极高的清晰度被照亮，而环境则支撑其氛围。每个画格应感觉像是精心构思的自然电影照明，而非影棚式的梦幻光效。
+
+电影级的深度与氛围：
+让每个画格感觉都像是获奖奇幻自然电影中的静态帧。使用更强的前景-中景-背景分离感、更自然的镜头焦深、受控的薄雾、大气的寂静感以及精心构图的留白区域。避免填满每个角落。
+
+[English]
+Create an ultra-premium 2x2 four-panel skincare campaign poster for La Mer, with absolute brand consistency but four completely different fantasy natural environments. Each quadrant must feel like a distinct magical world with its own ecological identity, color atmosphere, and cinematic mood, yet all four must still clearly belong to one unified La Mer visual universe. The product must remain the absolute protagonist in every panel, fully integrated into nature as if it naturally belongs there. The final artwork must feel like a world-class luxury skincare series and like award-winning cinematography frozen into four still frames: hyper-real product photography, exquisite environmental storytelling, elegant natural interaction, subtle fantasy atmosphere, and collector-grade visual refinement. Use refined English title typography, subtle official-feeling branding, and minimal support text in a premium editorial layout.
+
+Core layout:
+Use a strict 2x2 four-panel composition with balanced spacing and unified design discipline. Each panel must contain one hero La Mer product, placed in a visually dominant but environmentally integrated way. The product must never feel pasted into the scene; it must feel fully immersed in each natural world through lighting, moisture, reflections, material contact, and compositional interaction. Every panel must clearly express a different environmental identity, while maintaining the same luxury tone, product scale logic, and brand coherence.
+
+Milk Cloud Orbit + Cream Halo Transit direction:
+Push the strongest established qualities further: strengthen the contrast between the four different natural worlds, refine the marine-botanical fantasy details, and elevate the entire visual language toward cinematic still-photography excellence. Keep the same four-environment skeleton, but make each panel feel more like a perfectly paused moment from an award-winning fantasy film: quieter, more spacious, more atmospheric, and more emotionally resonant. Replace any generic decorative fantasy feel with stronger cinematic environmental storytelling, better depth layering, more natural light falloff, and more controlled visual silence around the product.
+
+Series concept:
+The four panels should represent four completely different enchanted nature worlds, each with strong visual contrast and its own ecological character, yet all must still feel luxurious, calming, magical, and unmistakably La Mer. Each environment must independently tell the story of one natural state:
+1. humid tropical forest sanctuary,
+2. cool marine cliff or tidepool world,
+3. misty moonlit moss forest,
+4. crystalline sea-mineral botanical world.
+These four worlds must feel distinct in color, light, texture, and atmosphere, but all should still speak the same skincare language of hydration, renewal, purity, and luxury.
+
+Panel 1, tropical forest sanctuary:
+Place the La Mer product on a mossy stone or natural pedestal inside a warm, humid rainforest clearing. Surround it with elegant tropical leaves, filtered sunbeams, soft mist, dew, and lush green depth. The environment should feel fresh, moist, and sunlit, with premium natural richness. The product should interact with the environment through soft moisture sheen, leaf framing, and golden-green reflected light. This panel should feel like a quiet sacred moment in a living rainforest film still.
+
+Panel 2, marine cliff or tidepool world:
+Place the La Mer product in a cool oceanic environment inspired by tidepools, sea cliffs, mineral rocks, and marine mist. The product can rest on a wet sea rock or elevated stone surrounded by gentle tidewater, sea haze, sea-glass fragments, mineral moisture, and cool blue-green reflections. This panel should feel more aquatic, airy, windswept, and cinematic, like a frame captured on a remote cliff at dawn.
+
+Panel 3, moonlit moss forest:
+Place the La Mer product in a darker, more mysterious enchanted moss forest at twilight or moonlit dusk. Use deep green-black moss, wet bark, soft glowing fungus-like accents, faint floating particles, silver-blue haze, and quiet shadow depth. The product should glow softly against the darker environment, creating a feeling of nocturnal renewal and secret botanical alchemy. This panel should feel like a hidden ritual scene from a fantasy feature film.
+
+Panel 4, crystalline sea-mineral botanical world:
+Place the La Mer product in a refined fantasy environment where marine botanicals, translucent crystals, sea-mineral formations, wet petals, and pale luminous natural elements create a more ethereal and precious setting. The product should feel as if it has emerged from a sacred oceanic-botanical altar. This panel may be the most elevated and magical of the four, with subtle pearl, jade, and seafoam tonal accents, but it must still feel elegant and cinematic rather than decorative.
+
+Product realism:
+Render the La Mer product with obsessive realism and luxury material fidelity. Show correct jar or bottle proportions, refined glass or cream-jar surfaces, polished cap, premium label sharpness, clean reflections, and elegant tonal depth. The product must feel pristine, expensive, and unmistakably La Mer in every panel. It must remain the chromatic and compositional center of each frame.
+
+Nature-product interaction:
+In every panel, the product and environment must actively respond to each other. Use moisture on stone, reflected light from leaves, sea mist catching on glass, moss touching the base, droplets on surrounding petals, soft haze, and subtle natural framing. The product must feel fully harmonized with the natural world around it. This relationship must feel cinematic and organic, never decorative or artificial.
+
+Water, mist, and particle realism:
+Render water, humidity, droplets, mist, and micro-particles with extreme realism and elegance. Every panel should contain some form of atmospheric moisture or natural particle life, but adapted to its own ecology: rainforest humidity, sea spray, moonlit forest vapor, mineral mist, or luminous moisture dust. The effects must feel clean, premium, and physically believable. Keep them more restrained and cinematic, as if suspended in quiet air before motion resumes.
+
+Lighting:
+Use extremely delicate soft cinematic lighting in all four panels, but vary the light character to match the environment:
+1. warm filtered rainforest light,
+2. cool marine daylight haze,
+3. dim moonlit forest glow,
+4. pale sacred mineral illumination.
+All lighting must remain luxurious, gentle, and highly controlled. The product must always be lit with premium clarity while the environment supports its mood. Each panel should feel like expertly composed natural-cinematic lighting rather than studio fantasy glow.
+
+Cinematic depth and atmosphere:
+Make every panel feel like a still frame from an award-winning fantasy nature film. Use stronger foreground-midground-background separation, more natural lens depth, controlled haze, atmospheric silence, and carefully framed empty areas. Avoid filling every corne
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2080699209632952468) | 2026-07-24
+
+---
+
+### 🎴 例 4893：极简主义豚骨拉面广告
+
+![极简主义豚骨拉面广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%B1%9A%E9%AA%A8%E6%8B%89%E9%9D%A2%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，展示了一碗超大份的优质 {argument name="food item" default="日式拉面"}，配有浓郁的豚骨汤底、手工面条、溏心蛋、叉烧、葱花、海苔和芝麻，设计极其简洁。一位穿着 {argument name="outfit" default="优雅全白套装"} 的时尚年轻女性随意地倚靠在巨大的拉面碗旁，手持筷子夹起面条，姿态放松自信，双眼微闭。柔和的 {argument name="background" default="深橙色渐变背景"}，后方有醒目的白色粗体“RAMEN”文字。光亮的反射地面，高级摄影棚灯光，奢华美食摄影，超写实，8K 分辨率。右上角小字“Designed by Mr Das”。底部中心小号白色字体标语：“Comfort served beautifully.”
+
+[English]
+Minimalist commercial ad featuring an oversized premium {argument name="food item" default="Japanese ramen bowl"} with rich tonkotsu broth, handmade noodles, soft-boiled egg, chashu pork, green onions, nori seaweed, and sesame seeds, ultra-clean design. A fashionable young woman wearing an {argument name="outfit" default="elegant all-white outfit"} leans casually against the giant ramen bowl while holding chopsticks with noodles, relaxed confident pose, eyes closed. Soft {argument name="background" default="gradient deep orange background"} with large bold white “RAMEN” text behind. Glossy reflective floor, premium studio lighting, luxury food photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Comfort served beautifully.”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2080686363628953804) | 2026-07-24
+
+---
+
+### 🎴 例 4894：极简中国风夏季节气海报
+
+![极简中国风夏季节气海报](../images/%E6%9E%81%E7%AE%80%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%A4%8F%E5%AD%A3%E8%8A%82%E6%B0%94%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简风格的中国夏季节气活动海报，将传统的二十四节气美学与现代几何插画相结合，用于 {argument name="event name" default="清凉一夏"}。
+
+画布：竖版海报，3:4 比例，干净的米白色背景，宽敞的高级感布局。使用金属赭金色排版、淡青色、绿松石色、薄荷色、天蓝色和浅桃色点缀的精致配色方案。
+
+主体布局：在左侧放置巨大的竖排中文标题，占据几乎整个高度，使用粗体块状现代无衬线金色字体，内容为 {argument name="main Chinese title" default="清凉一夏"}。在最左侧边缘，添加超大号旋转英文文本“COOL SUMMER”，颜色相同，从上到下垂直堆叠。保持中心区域留白且通透。
+
+中心文本：在中心偏左位置，添加一条细小的金色垂直分割线，随后是一句简短的金色小字中文诗句：{argument name="center quote" default="在清风与冰意之间，开启一场通透轻盈的夏日体验。"}
+
+右上角活动板块：在紧凑的大写金色文本上方添加一个简单的金色线条三峰图标。包含 3 行内容：“SUMMER EVENT 2026”、一条短横线以及“24 SOLAR TERMS”。在其下方，放置一个由 4 个元素组成的几何山脉小插图：一个桃色太阳圆圈、一座青色前景山、一座淡蓝色山峰和一座浅青色山峰。
+
+右侧功能列表：添加 3 个垂直对齐并以斜杠分隔的金色小菜单标签：“LOTUS WIND”、“ICE DRINK”和“CLEAR SKY”。
+
+左下角信息区：添加 3 行由金色虚线分隔的编号信息行。第 1 行包含日历线条图标和文本“1. 节气日期”及“小暑 · 07.07”。第 2 行包含礼品/袋子线条图标和文本“2. 消夏卖点”及“荷风冰饮 / 清爽特调 / 夏日纳凉”。第 3 行包含手机扫码线条图标和文本“3. 参与方式”及“现场打卡 + 扫码参与 + 限时领饮”。
+
+右下角行动呼吁：在右下角附近添加一个黑白二维码方块，其左侧配有金色小字“即刻参与”，下方配有“JOIN NOW ▶”。
+
+插画细节：在下半部分和右侧使用低多边形几何山脉和冰晶形态。包含 8 个显著的景观/晶体组合：底部横跨 1 座大型多面绿松石色山脉、1 座淡蓝色中央山峰、1 座前景青色三角形山峰、二维码附近 1 座小型桃色三角形山峰、右侧 1 个大型透明轮廓荷叶/晶体扇、1 个大型倾斜透明冰饮杯（含冰块和吸管）、附着在左侧标题上的 1 片小型多面薄荷叶，以及顶部中心 1 个抽象纸飞机山形。饮品杯应包含蓝色液体、白色多边形冰块、金色弯曲吸管和 1 片桃色柑橘切片。
+
+图形点缀：添加细青色对角线速度线、精细几何轮廓、小型漂浮菱形冰块和微妙的三角形折纸形状。保持所有线条纤细优雅，留白充裕。
+
+排版与风格：现代中国编辑海报设计，清晰的矢量图形，扁平几何形状，奢华金墨质感，无写实感，除玻璃和冰块的细微透明度外无阴影。高分辨率印刷级构图。
+
+约束：保留左下角 3 行信息、右侧 3 个功能标签、右上角 4 个小山脉插图元素以及 8 个显著景观/晶体组合的精确可见数量。不要添加额外的文本段落、人物、动物、Logo、水印或写实风景。
+
+[English]
+Goal: Create a minimalist Chinese summer solar-term event poster combining traditional 24 solar terms aesthetics with modern geometric illustration for {argument name="event name" default="清凉一夏"}.
+
+Canvas: Vertical poster, 3:4 aspect ratio, clean off-white background, spacious premium layout. Use a refined palette of metallic ochre gold typography, pale cyan, turquoise, mint, sky blue, and light peach accents.
+
+Main layout: Place enormous vertical Chinese title text on the left, occupying almost the full height, in bold blocky modern sans-serif gold characters reading {argument name="main Chinese title" default="清凉一夏"}. Along the far-left edge, add oversized rotated English text reading “COOL SUMMER” in the same gold color, stacked vertically from top to bottom. Keep the center mostly white and airy.
+
+Center text: Near the center-left, add a tiny vertical gold divider line followed by a short Chinese poetic sentence in small gold type: {argument name="center quote" default="在清风与冰意之间，开启一场通透轻盈的夏日体验。"}
+
+Top-right event block: Add a simple gold line icon of three mountain peaks above compact uppercase gold text. Include exactly 3 lines: “SUMMER EVENT 2026”, a short horizontal dash, and “24 SOLAR TERMS”. Beneath it, place a small geometric mountain vignette with exactly 4 elements: one peach sun circle, one teal front mountain, one pale blue mountain, and one light cyan mountain.
+
+Right-side feature list: Add exactly 3 small gold menu labels aligned vertically with slash separators: “LOTUS WIND”, “ICE DRINK”, and “CLEAR SKY”.
+
+Bottom-left information section: Add exactly 3 numbered information rows separated by dotted gold lines. Row 1 has a calendar line icon and text “1. 节气日期” with “小暑 · 07.07”. Row 2 has a gift/bag line icon and text “2. 消夏卖点” with “荷风冰饮 / 清爽特调 / 夏日纳凉”. Row 3 has a phone scan line icon and text “3. 参与方式” with “现场打卡 + 扫码参与 + 限时领饮”.
+
+Bottom-right call to action: Add a black-and-white QR code square near the lower-right corner with small gold text to its left reading “即刻参与” and below it “JOIN NOW ▶”.
+
+Illustration details: Use low-poly geometric mountains and ice-crystal forms across the lower half and right side. Include exactly 8 prominent landscape/crystal groups: 1 large faceted turquoise mountain range across the bottom, 1 pale blue central peak, 1 teal triangular peak in the foreground, 1 small peach triangular peak near the QR code, 1 large transparent outline lotus-leaf/crystal fan on the right, 1 large tilted transparent ice-drink glass with ice cubes and straw, 1 small faceted mint leaf attached to the left title, and 1 top-center abstract paper-plane mountain shape. The drink glass should contain blue liquid, white polygon ice cubes, a gold bent straw, and one peach citrus slice.
+
+Graphic accents: Add thin cyan diagonal speed lines, fine geometric outlines, small floating diamond ice cubes, and subtle triangular origami shapes. Keep all strokes thin and elegant, with generous negative space.
+
+Typography and style: Modern Chinese editorial poster design, crisp vector graphics, flat geometric shapes, luxury gold ink feel, no photorealism, no shadows except very subtle translucency in glass and ice. High-resolution print-ready composition.
+
+Constraints: Preserve the exact visible count of 3 bottom-left information rows, 3 right-side feature labels, 4 small top-right mountain vignette elements, and 8 prominent landscape/crystal groups. Do not add extra paragraphs of text, people, animals, logos, watermarks, or realistic scenery.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2080681169721643479) | 2026-07-24
+
+---
+
+### 🎴 例 4897：高端汽车生活方式海报排版
+
+![高端汽车生活方式海报排版](../images/%E9%AB%98%E7%AB%AF%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%B5%B7%E6%8A%A5%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 Chevrolet Camaro 创作一张超高端的 6 宫格青年广告海报，完整保留现代汽车生活方式排版的严谨编辑结构与青春品牌逻辑：一张高大的竖版海报，顶部和底部各有一个大型横向主视觉面板，中间部分排列四个较小的生活方式面板。最终画面必须呈现出充满活力、时尚、年轻、高端且具备全球广告水准的质感，同时确保 Chevrolet Camaro 作为绝对主角。构图需结合超写实的汽车摄影、健康运动的西方青年肖像、简洁的建筑空间以及极具艺术感的图形平衡。使用精致的英文标题排版、微妙的 Chevrolet 官方品牌标识、极简的英文辅助文案，并在整张海报中保持统一的高端排版系统。
+
+核心布局：
+采用严格的 6 宫格竖版构图：
+1. 顶部一个大型主视觉面板；
+2. 中间四个较小的面板，采用整洁的 2x2 结构；
+3. 底部一个大型主视觉面板。
+整张海报必须通过统一的视觉系统保持连贯：相同的配色方案、相同的建筑场景、相同的青年时尚造型、相同的现代基调以及相同的品牌语言。汽车在整个构图中必须保持视觉主导地位，同时人物形象增加活力、比例感和青年文化氛围。
+
+关键写实约束：
+每个面板中人物与汽车的比例必须完全准确。人物必须具备解剖学意义上正确的四肢、关节、躯干长度、头部大小、手部尺寸、腿部比例以及自然的站立或倚靠平衡。严禁身体变形、骨骼结构错误、人物透视扭曲。Chevrolet Camaro 必须保持完全真实的现实比例、车身线条、轮毂尺寸、车顶轮廓、引擎盖长度、玻璃形状及姿态。严禁车身扭曲、通用轿跑造型、错误的面板过渡。人物与汽车绝不能出现错误的重叠：严禁身体部位融入车门、挡泥板、引擎盖、车轮、车窗、后视镜或座椅；严禁不符合物理规律的倚靠角度；严禁模型穿模；严禁几何重叠错误；严禁人物漂浮在车辆之上。每一次人车互动都必须在物理上可信且空间上准确。
+
+Milk Cloud Orbit + Cream Halo Transit 方向：
+进一步强化已确立的优势：让 Chevrolet Camaro 在顶部和底部主视觉面板中更具统治力，并优化中间的四个面板，使其减少重复感，更具杂志编辑感。保持 6 宫格的骨架，但提升内部节奏：让其中两个中间面板强调时尚的局部细节与态度瞬间，另外两个面板则保留更多直接的人车互动。最终效果应更具层次感、更高端、更像杂志大片，清晰地展现 Camaro 作为青春、风格与动感的核心力量。
+
+广告概念：
+广告应呈现出 Chevrolet Camaro 生活方式的青年肖像：自由、自信、活力、都市酷感、风格与运动。年轻人不应是随机的模特，他们必须看起来像是一个由同一世界观连接的、连贯的青年群体。他们与汽车的互动应显得自然、令人向往、时尚且生动。影像应共同赞美青春与 Camaro，而非将汽车与周围的社交能量割裂开来。
+
+环境：
+使用简洁的现代建筑环境，具备强烈的图形表面、开阔的都市空间、台阶、线性铺装、大胆的墙面以及几何透视线条。场景应感觉现代、年轻且高端，并具备足够的视觉结构来支撑排版。环境必须保持整洁，让汽车和人物成为焦点。鼓励使用强烈的色块建筑平面，尤其是充满活力但精致的饱和色调。
+
+色彩系统：
+使用年轻且高端的配色方案，搭配大胆的饱和背景和建筑表面，如鲜艳的红色、洋红色、电光珊瑚色、简洁的中性石色以及金属蓝高光。Chevrolet Camaro 本身应采用高冲击力的车身颜色，如电光蓝、亮黄色、缎面灰或其他能与环境形成强烈对比的性能色彩。整张海报必须充满活力且年轻，同时避免廉价或混乱感。
+
+顶部主视觉面板：
+创建一个大型顶部面板，展示 Chevrolet Camaro 的强力主视觉视角，并由一位时尚青年与之互动。汽车应比之前更具统治力和中心感，细节锐利且令人向往。人物可以倚靠在引擎盖上、随意坐在车头附近或自信地站在车旁，但所有身体接触必须在物理上正确且符合解剖学逻辑。在精致的宣传排版中加入醒目的英文标题和简短的英文辅助文案。
+
+中间四个面板：
+创建四个较小的面板，每个面板展示不同的人车互动，同时保持一致的造型和环境。
+- 面板 A 应聚焦于富有表现力的青年肖像，并露出部分车身。
+- 面板 B 应突出 Camaro 的时尚车身细节，如前大灯、侧线条、引擎盖或格栅，并有人物在附近互动。
+- 面板 C 应展示年轻人与车辆之间更具社交性或趣味性的关系，如上车、倚靠、走过或在车旁分享时刻。
+- 面板 D 应更具时尚编辑感，通过 Camaro 的局部裁剪与强有力的人物姿态相结合，强调态度与设计节奏，而非叙事性。
+所有互动必须保持正确的比例以及人与车之间可信的空间距离。
+
+底部主视觉面板：
+创建一个大型底部面板，通过更宽广的生活方式主视觉镜头总结整个系列。展示 Chevrolet Camaro 的强力四分之三侧面或前侧视角，并有一到两位年轻人以放松、时尚、自信的方式与之互动。汽车必须保持重心地位，而人物的存在则强化了活力与向往感。在相同的整体排版系统中加入另一句精致的英文广告语和极简的品牌标识。底部面板应感觉稍显沉稳并具有总结性，如同该系列的最终宣言。
+
+人物造型：
+使用健康、运动型的西方年轻模特，具备自然美感、前卫的造型和简洁的现代服装选择。造型应具有都市感、高级感和年轻感，而非过度奢侈的秀场风格。避免网红刻板印象。人物必须充满活力、自信、现代且上镜。他们的姿态应显得自然随性，同时经过艺术指导。
+
+车辆写实度：
+以极致的写实感和高端的汽车逼真度渲染 Chevrolet Camaro。展示准确的车身比例、漆面深度、反射、轮毂细节、玻璃通透度、前灯特征、肌肉感表面以及强劲的轿跑姿态。Camaro 必须显得清晰可辨、强劲、现代且令人向往。避免通用的轿跑外观。
+
+灯光：
+使用极其细腻的商业柔光，呈现电影级的质感。灯光应明亮、年轻且干净，车漆上的反射得到控制，人物轮廓细致。在整张海报中保持相同的灯光逻辑，使六个面板看起来像是一个统一的广告世界。光影必须显得高端且现代。
+
+[English]
+Create an ultra-premium 6-panel youth campaign poster for Chevrolet Camaro, fully preserving the exact editorial structure and youthful brand logic of a modern automotive lifestyle layout: a tall vertical poster with two large horizontal hero panels at the top and bottom, and four smaller lifestyle panels arranged in the middle section. The final artwork must feel energetic, stylish, youthful, premium, and globally campaign-ready, while keeping the Chevrolet Camaro as the absolute protagonist. The composition must combine hyper-real car photography, healthy athletic Western youth portraits, clean architectural space, and highly art-directed graphic balance. Use refined English title typography, subtle official-feeling Chevrolet branding, minimal English support text, and a consistent premium layout system across the whole poster.\n\nCore layout:\nUse a strict vertical 6-panel composition with:\n1. one large hero panel at the top,\n2. four smaller panels arranged in a clean 2x2 structure in the middle,\n3. one large hero panel at the bottom.\nThe whole poster must feel unified through one strong visual system: same color palette, same architectural location, same youthful fashion styling, same modern tone, and same brand language. The car must remain visually dominant throughout the entire composition, while the human figures add energy, scale, and youth culture presence.\n\nCritical realism constraints:\nHuman and car proportions must be fully correct in every panel. The people must have anatomically correct limbs, joints, torso length, head size, hand size, leg proportions, and natural standing or leaning balance. No body deformation, no broken anatomy, no warped perspective on the human figure. The Chevrolet Camaro must keep fully correct real-world proportions, body lines, wheel scale, roofline, hood length, glass shape, and stance. No distorted bodywork, no generic coupe shape, no wrong panel transitions. The people and the car must never intersect incorrectly: no body parts merging into doors, fenders, hood, wheels, windows, mirrors, or seats; no impossible leaning angles; no model clipping; no overlapping geometry errors; no character floating through the vehicle. Every human-car interaction must feel physically believable and spatially correct.\n\nMilk Cloud Orbit + Cream Halo Transit direction:\nPush the strongest established qualities further: make the Chevrolet Camaro more dominant in the top and bottom hero panels, and refine the middle four panels so they feel less repetitive and more editorial. Keep the exact 6-panel skeleton, but upgrade the internal rhythm: let two of the middle panels emphasize stylish cropped detail-and-attitude moments, while the other two retain more direct human-and-car interaction. The result should feel more layered, more premium, and more magazine-like, with the Camaro clearly acting as the central force of youth, style, and motion.\n\nCampaign concept:\nThe campaign should feel like a youth portrait of the Chevrolet Camaro lifestyle: freedom, confidence, energy, urban cool, style, and movement. The young people are not random models; they must feel like a coherent youthful cast linked by the same world. Their interactions with the car should feel natural, aspirational, stylish, and alive. The imagery should celebrate youth and the Camaro together, not treat the car as separate from the social energy around it.\n\nEnvironment:\nUse a clean modern architectural environment with strong graphic surfaces, large open urban space, steps, linear paving, bold walls, and geometric perspective lines. The location should feel contemporary, youthful, and premium, with enough visual structure to support the layout. The environment must stay clean and uncluttered, allowing the car and people to dominate. Strong color-blocked architectural planes are encouraged, especially with energetic but refined saturated tones.\n\nColor system:\nUse a youthful but premium color palette with bold saturated backgrounds and architectural surfaces, such as vivid red, magenta, electric coral, clean neutral stone, and metallic blue highlights. The Chevrolet Camaro itself should have a high-impact body color, such as electric blue, bright yellow, satin gray, or another bold performance color that works strongly against the environment. The entire poster must feel vibrant and youthful without becoming cheap or chaotic.\n\nTop hero panel:\nCreate a large top panel featuring the Chevrolet Camaro in a strong hero view with one stylish young person interacting directly with it. The car should feel more dominant and centered than before, sharply detailed and aspirational. The person may lean against the hood, sit casually near the front, or stand with relaxed confidence beside the car, but all body contact must be physically correct and anatomically believable. Add a bold English title and a short English support line in a refined promotional layout.\n\nMiddle four panels:\nCreate four smaller panels, each showing a different youth-and-Camaro interaction while preserving consistent styling and environment.\n- Panel A should focus on expressive youthful portraiture with part of the car visible.\n- Panel B should highlight a stylish body detail of the Camaro, such as headlights, side line, hood, or grille, with a figure interacting nearby.\n- Panel C should show a more social or playful relationship between young people and the vehicle, such as entering, leaning, walking past, or sharing a moment near the car.\n- Panel D should be more fashion-editorial, using a cropped part of the Camaro together with a strong youth pose, emphasizing attitude and design rhythm more than narrative.\nAll interactions must preserve correct scale and believable spatial separation between human and vehicle.\n\nBottom hero panel:\nCreate a large bottom panel that resolves the whole series with a wider lifestyle hero shot. Show the Chevrolet Camaro in a strong three-quarter or side-front view with one or two young people interacting around it in a relaxed, fashionable, confident way. The car must remain the center of gravity, while the youth presence reinforces energy and aspiration. Add another refined English campaign line and minimal branding placement in the same overall layout system. The bottom panel should feel slightly calmer and more conclusive, like the final statement of the series.\n\nPeople styling:\nUse healthy athletic Western young models with natural beauty, fashion-forward styling, and clean contemporary wardrobe choices. The styling should feel urban, elevated, and youthful without being overly luxury-runway. Avoid influencer stereotypes. The people must feel energetic, confident, modern, and naturally photogenic. Their gestures should feel candid yet art-directed.\n\nVehicle realism:\nRender the Chevrolet Camaro with extreme realism and premium automotive fidelity. Show accurate body proportions, paint depth, reflections, wheel detail, glass clarity, front-light signature, muscular surfaces, and strong coupe stance. The Camaro must feel unmistakable, powerful, modern, and aspirational. No generic sports coupe look.\n\nLighting:\nUse extremely delicate soft commercial lighting with cinematic polish. The lighting should be bright, youthful, and clean, with controlled reflections on the car paint and subtle sculpting on the people. Maintain the same lighting logic throughout the poster so the six panels feel like one unified campaign world. The light must feel premium and contemporary, ne
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2080671762661212338) | 2026-07-24
+
+---
+
+### 🎴 例 4903：KitKat 高端 UGC 广告海报
+
+![KitKat 高端 UGC 广告海报](../images/KitKat%20%E9%AB%98%E7%AB%AF%20UGC%20%E5%B9%BF%E5%91%8A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+KITKAT — 高端 UGC 产品广告 角色：担任屡获殊荣的 UGC 创意总监、商业美食摄影师、生活方式电影摄影师、快消品（FMCG）品牌策略师以及 Meta 效果广告专家，专注于高转化率的社交媒体营销活动。 ⸻ 格式 4:5 竖屏 Instagram 广告，超写实生活方式摄影，高端 UGC 美学，原生 Instagram 创作者内容，奢华快消品广告，8K 超高清细节。 ⸻ 核心概念 一位真实的创作者在忙碌的工作日中享受应得的休息时光。产品并非在被刻意推销，而是自然地融入了这一时刻。视觉效果应瞬间传达出放松、舒适和享受的氛围。 ⸻ 场景 黄金时段的现代极简风格家庭办公室。温暖的阳光透过大窗户洒在干净的木质书桌上。半开的笔记本电脑、笔记本、咖啡杯、无线耳机和一些日常办公用品营造出真实的工作空间。创作者刚刚暂停了工作，一只手自然地伸向打开的 KitKat，另一只手放在笔记本电脑旁。包装纸旁随意放着几块折断的 KitKat，细小的巧克力碎屑增强了真实感。 ⸻ 主角 年轻的印度专业人士（22-30 岁），表情自然，带着真诚的浅笑，姿态舒适放松，不看镜头。画面应呈现出完全抓拍的即兴感。 ⸻ 产品主角 经典的 KitKat 巧克力棒，包装清晰可见。包装纸微微打开，巧克力质感酥脆且细节丰富。断开的一块巧克力上可见清晰的威化层，带有细腻的巧克力光泽。产品始终是视觉焦点，但看起来并不突兀。 ⸻ 构图 手持创作者视角，构图略带不完美感。前景有咖啡杯带来的虚化效果，书桌层次感自然，为排版留出了平衡的留白空间。 ⸻ 平面设计 高端创作者风格的叠加层，极简圆角 UI 卡片，小巧的“Coffee Break ☕”贴纸，微型时间戳，柔和的投影。采用干净的 Instagram 原生设计语言，避免过度设计。 ⸻ 排版 大标题：HAVE A BREAK。辅助文案：有时候，最好的创意始于离开屏幕的五分钟。行动号召（CTA）：Grab Your KitKat。 ⸻ 色调方案 KitKat 红，暖橡木色，奶油白，咖啡棕，金色阳光，自然肤色，浓郁巧克力棕。 ⸻ 灯光 真实的黄金时段窗光，柔和的自然阴影，温暖的室内氛围。无影棚闪光灯，无人工商业布光，巧克力上有自然的反射光。 ⸻ 摄影设备 模拟 iPhone 16 Pro 拍摄效果，26mm 等效镜头，自然的计算摄影风格，细腻的景深，真实的手持视角，纪实美食摄影质感。 ⸻ 品牌调性 KitKat 官方社交媒体活动，现代、亲和、舒适至上，高端且易于产生共鸣。看起来像是生活方式创作者分享的内容，而非传统的商业广告。 ⸻ 负面提示词 影棚背景、产品悬浮、虚假的溅射效果、过大的巧克力块、塑料感食物、不切实际的对称、过多的道具、HDR 效果、AI 生成的皮肤、杂乱的工作空间、夸张的表情、过度设计的图形、库存照片式的摆拍、不真实的光影、低分辨率纹理、扭曲的包装、无法辨认的 Logo。
+
+[English]
+KITKAT — PREMIUM UGC PRODUCT AD ROLE: Act as an award-winning UGC creative director, commercial food photographer, lifestyle cinematographer, FMCG brand strategist, and Meta performance advertising expert specializing in high-converting social media campaigns. ⸻ FORMAT 4:5 vertical Instagram advertisement hyper-realistic lifestyle photography premium UGC aesthetic native Instagram creator content luxury FMCG advertising 8K ultra-detail ⸻ CORE CONCEPT A genuine creator takes a well-earned break during a busy workday. The product isn’t being advertised. It’s naturally becoming part of the moment. The visual should instantly communicate relaxation, comfort, and indulgence. ⸻ SCENE Modern minimalist home office during golden hour. Warm sunlight streams through a large window onto a clean wooden desk. A partially open laptop, notebook, coffee mug, wireless earbuds, and a few everyday work essentials create a believable workspace. The creator has just paused work. One hand naturally reaches toward an opened KitKat while the other rests near the laptop. Several broken KitKat fingers lie casually beside the wrapper. Tiny chocolate crumbs reinforce realism. ⸻ SUBJECT Young Indian professional (22–30 years old) Natural expression. Small genuine smile. Comfortable relaxed posture. No eye contact with the camera. The moment should feel completely candid. ⸻ PRODUCT HERO Classic KitKat bar with perfectly readable packaging. Wrapper slightly opened. Chocolate texture crisp and detailed. Visible wafer layers on one broken finger. Subtle chocolate shine. Product remains the visual hero without looking artificially placed. ⸻ COMPOSITION Handheld creator perspective. Slightly imperfect framing. Foreground blur from coffee mug. Natural desk depth. Realistic layering. Balanced negative space for typography. ⸻ GRAPHIC DESIGN Premium creator-inspired overlays. Minimal rounded UI cards. Small “Coffee Break ☕” sticker. Tiny timestamp. Soft drop shadows. Clean Instagram-native design language. No excessive graphics. ⸻ TYPOGRAPHY Large headline: HAVE A BREAK. Supporting copy: Sometimes the best ideas start with five minutes away from your screen. CTA: Grab Your KitKat ⸻ COLOR PALETTE KitKat red Warm oak wood Cream whites Coffee browns Golden sunlight Natural skin tones Rich chocolate browns ⸻ LIGHTING Authentic golden-hour window light. Soft natural shadows. Warm indoor ambience. No studio flash. No artificial commercial lighting. Natural reflections on the chocolate. ⸻ CAMERA Shot as if captured on an iPhone 16 Pro. 26mm equivalent lens. Natural computational photography. Subtle depth of field. Realistic handheld perspective. Editorial food realism. ⸻ BRAND FEEL Official KitKat social campaign. Modern. Approachable. Comfort-first. Premium yet relatable. Feels like content shared by a lifestyle creator rather than a traditional advertisement. ⸻ NEGATIVE PROMPT Studio backdrop, product floating, fake splash effects, oversized chocolate pieces, plastic-looking food, unrealistic symmetry, excessive props, HDR look, AI-generated skin, cluttered workspace, exaggerated expressions, overdesigned graphics, stock-photo posing, unrealistic lighting, low-resolution textures, distorted packaging, unreadable logo.
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2080628672084705340) | 2026-07-24
+
+---
+
+### 🎴 例 4927：赛博朋克 Flova AI Agent 海报
+
+![赛博朋克 Flova AI Agent 海报](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%20Flova%20AI%20Agent%20%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="brand name" default="Flova"} 创建一张充满活力的赛博朋克宣传海报，推广一款能协助完成从策划到视频成品全流程的科幻系列 AI Agent。
+
+画布：16:9 宽屏 YouTube 缩略图风格横幅，背景为黑暗的未来主义东京夜景，布满霓虹光轨、动态模糊、发光的 HUD 面板、火花和电影级对比度。使用黑色、电光蓝、紫色、橙色和黄色的调色板，并带有强烈的泛光和速度线效果。
+
+主体布局：左侧中心放置一个巨大的彩虹渐变三角形播放按钮 Logo，随后是占据中心位置的巨大粗体白色斜体字标“Flova”。顶部添加一行醒目的日文标题：“AIと一緒に、世界を創る時代へ。”，其中“AI”部分特大且为白色，下方配有较小的副标题：“企画から映像完成まで、すべて AI Agent がサポート!”。在右上角，添加一个发光的紫色圆角矩形标志，写着“AI Agent”，下方写着“Create the Future with AI”。
+
+主角：在右半部分，展示一位动态动漫风格的赛博朋克女性 Agent，她正飞翔或俯冲向观众，背景是未来城市。她有着深邃的金色双眸，短浅棕色头发被动态吹拂，戴着光泽感十足的金黑相间装甲头盔，头盔上有类似猫耳的机械突起，前额饰有白色小花徽章，身穿黑色战术赛博装甲，露出机械细节，一只戴着手套的手戏剧性地伸向镜头。采用透视缩短法，画面锐利且具有电影感，身后伴随着火花和城市灯光轨迹。
+
+文字内容：在 Logo 下方添加一行大字：“2029 IF TOKYO Episode4”，其中“Episode4”为紫色。添加一个黄色小标签：“[ ARCHIVE 004 ]”。添加一个粗体的中央日文标题：“複数の SUZUNE 反応”，其中“SUZUNE”使用巨大的黄色做旧字体，下方配有较小的副标题：“地下鉄駅で発生した、謎の複数シグナルの真相とはー”。在右下角，添加一个巨大的黄色标注：“シリーズ制作を 最強に加速させる!”
+
+左侧功能面板：添加一个发光的青色方框清单，标题为“Flova でできること”。必须包含 6 个已勾选的项目：“プロンプト作成”、“Storyboard 編集”、“GPT Image 2 選択”、“Seedance 2.0 生成”、“修正＆再生成”、“Skills 保存＆再利用”。在此面板下方，展示 4 个带有标签的小型方形应用图标：“Project”、“Chat”、“History”和“Skills”。
+
+底部优惠卡片：在底部中心位置，添加 2 张由巨大的白色乘号分隔的霓虹色信用卡。第一张紫色卡片上方写着“新規登録で”，下方是巨大的“100”和“Free Credits”。第二张蓝色卡片上方写着“お友達招待で”，下方是巨大的“200”和“Credits”。
+
+视觉风格：超精细动漫主视觉图与光泽感科技广告设计相结合，采用醒目的日文排版、做旧的电影级标题字体、明亮的轮廓光、全息 UI 叠加、镜头光晕、快速对角线构图，以及强烈的动作海报感。保持设计的高密度但易读，所有列出的文字均需清晰放置，除指定的品牌元素外，不得添加额外的 Logo 或水印。
+
+[English]
+Goal: Create a high-energy cyberpunk promotional poster for {argument name="brand name" default="Flova"}, advertising an AI agent that helps produce a sci-fi series from planning to finished video.
+
+Canvas: Wide 16:9 YouTube-thumbnail style banner, dark futuristic Tokyo at night, packed with neon light trails, motion blur, glowing HUD panels, sparks, and cinematic contrast. Use a black, electric-blue, purple, orange, and yellow palette with intense bloom and speed-line effects.
+
+Main layout: On the left-center, place a large rainbow gradient triangular play-button logo, followed by an enormous bold white italic wordmark “Flova” dominating the center. Across the top, add a large Japanese headline: “AIと一緒に、世界を創る時代へ。” with the “AI” portion extra-large and white, and a smaller subtitle below it: “企画から映像完成まで、すべてAI Agentがサポート!” On the top-right, add a glowing purple rounded rectangle sign reading “AI Agent” and beneath it “Create the Future with AI”.
+
+Hero character: On the right half, show one dynamic anime-style cyberpunk female agent flying or diving forward toward the viewer above a futuristic city. She has intense golden eyes, short light-brown hair swept by motion, a glossy armored gold-and-black helmet with cat-ear-like mechanical protrusions and a small white flower emblem on the front, black tactical cyber armor, exposed mechanical details, and one gloved hand reaching dramatically toward the camera. Make her foreshortened, sharp, and cinematic, with sparks and city lights streaking behind her.
+
+Text content: Under the logo, add a large line: “2029 IF TOKYO Episode4”, with “Episode4” in purple. Add a small yellow tag: “[ ARCHIVE 004 ]”. Add a bold central Japanese title: “複数のSUZUNE反応”, with “SUZUNE” in large yellow distressed lettering, and a smaller subtitle beneath: “地下鉄駅で発生した、謎の複数シグナルの真相とはー”. In the lower-right, add a huge yellow callout: “シリーズ制作を 最強に加速させる!”
+
+Left feature panel: Add one glowing cyan boxed checklist titled “Flovaでできること”. It must contain exactly 6 checked items: “プロンプト作成”, “Storyboard編集”, “GPT Image 2選択”, “Seedance 2.0生成”, “修正＆再生成”, “Skills保存＆再利用”. Beneath this panel, show exactly 4 small square app icons with labels: “Project”, “Chat”, “History”, and “Skills”.
+
+Bottom offer cards: Along the lower center, add exactly 2 neon credit cards separated by a large white multiplication symbol. The first purple card reads “新規登録で” above a huge “100” and “Free Credits”. The second blue card reads “お友達招待で” above a huge “200” and “Credits”.
+
+Visual style: Ultra-detailed anime key visual mixed with glossy tech advertising design, bold Japanese typography, distressed cinematic title lettering, bright rim lighting, holographic UI overlays, lens flares, fast diagonal composition, and an intense action-poster feel. Keep the design dense but readable, with all listed text clearly placed and no extra logos or watermarks beyond the specified brand elements.
+```
+
+**来源：** [@SZOU☆WEB3チャンネル | ISC | TRONglobalfriends](https://x.com/szounft/status/2080523827071549934) | 2026-07-24
+
+---
+
+### 🎴 例 4939：极简主义矢量旅行海报
+
+![极简主义矢量旅行海报](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%9F%A2%E9%87%8F%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+精美矢量旅行海报，主题为 {argument name="location" default="(国家/地区)"}，采用超大加粗的无衬线字体，字母内部包含连续的 {argument name="country" default="COUNTRY"} 全景：寺庙、BTS 轻轨、市场、桥梁、游船、霓虹街道、咖啡馆、热带城市风光。扁平化几何插画，复古未来主义旅行品牌风格，瑞士海报设计，编辑排版，丝网印刷美学。配色方案：{argument name="colors" default="深红、珊瑚红、暖象牙白、柔和炭灰"}。顶部细条纹装饰有天际线剪影、汽车、火车、飞鸟、太阳。极简主义矢量图，无渐变，无 AI 文字错误，构图超简洁，矢量线条锐利，8K 海报画质。
+
+[English]
+Premium vector travel poster of {argument name="location" default="(county)"} in huge elongated bold sans-serif typography, letters containing continuous {argument name="country" default="COUNTRY"} panorama: temples, BTS skytrain, markets, bridges, river boats, neon streets, cafés, tropical urban scenery. Flat geometric illustration, retro-futuristic travel branding, Swiss poster design, editorial layout, screen-print aesthetic. Color palette: {argument name="colors" default="deep red, coral red, warm ivory, muted charcoal"}. Thin top strip with skyline silhouettes, cars, train, birds, sun. Minimalist vector only, no gradients, no AI text errors, ultra-clean composition, sharp vector lines, 8K poster quality.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2080488344501485828) | 2026-07-24
+
+---
+
+### 🎴 例 4941：批量产品海报方案生成器
+
+![批量产品海报方案生成器](../images/%E6%89%B9%E9%87%8F%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5%E6%96%B9%E6%A1%88%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+请基于这张产品图，生成8张不同风格的产品海报方案。
+
+产品名称：【{argument name="产品名称" default="填写产品名"}】
+使用场景：【{argument name="使用场景" default="填写产品用途"}】
+输出数量：{argument name="输出数量" default="8张"}
+画面比例：3:4
+使用平台：【小红书 / 淘宝 / 公众号 / 抖音图文】
+
+要求：
+1. 保持产品本身的外观、包装、颜色和核心识别点准确
+2. 每张图都采用不同的场景氛围、构图方式和视觉风格
+3. 每张图都要像独立完成的商业海报，不是简单换背景
+4. 适合种草传播，有明确视觉重点和氛围感
+
+风格方向可包含：
+极简白、露营风、日式、暗调质感、夏日清爽、文艺复古、早餐场景、生活方式感
+
+画面要求：
+产品摆放角度不同
+场景搭配不同
+光线氛围不同
+构图节奏不同
+整体完成度高，适合直接用于电商提案或社交媒体展示
+```
+
+**来源：** [@Derek Wen｜德里克文](https://x.com/derek_wall90176/status/2080480065998192970) | 2026-07-24
+
+---
+

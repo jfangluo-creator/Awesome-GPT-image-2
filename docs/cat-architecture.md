@@ -3260,3 +3260,35 @@ Create a moody cinematic film still in a dark, cluttered bedroom at night, shot 
 
 ---
 
+### 🏛️ 例 4895：横向景观视角的建筑海报设计
+
+![横向景观视角的建筑海报设计](../images/%E6%A8%AA%E5%90%91%E6%99%AF%E8%A7%82%E8%A7%86%E8%A7%92%E7%9A%84%E5%BB%BA%E7%AD%91%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+编辑级建筑摄影，展示一座 {argument name="architecture style" default="Japanese Minimalist"} 风格的建筑，位于延伸至壮丽自然景观上方的长悬臂平台上，精致的材质细节，优雅的地板，氛围感光影，采用设计杂志封面的风格拍摄，简洁的留白，柔和的自然色调，竖构图 --ar 9:16。构图：仅放置一件引人注目的装饰性家具作为唯一的家具和视觉焦点，精确放置在左侧三分之一的交点处。
+
+[English]
+Editorial architecture photography of a {argument name="architecture style" default="Japanese Minimalist"} structure on a long cantilevered platform extending over a dramatic natural landscape, refined material details, elegant flooring, atmospheric light, shot in the style of a design-magazine cover, clean negative space, muted natural palette, vertical framing --ar 9:16. Composition: one striking accent furniture piece as the sole furniture piece and focal point, positioned precisely at the left third intersection
+```
+
+**来源：** [@Shams](https://x.com/ShamsAmin56/status/2080678093425934764) | 2026-07-24
+
+---
+
+### 🏛️ 例 4944：现代厨房中的东亚女性肖像
+
+![现代厨房中的东亚女性肖像](../images/%E7%8E%B0%E4%BB%A3%E5%8E%A8%E6%88%BF%E4%B8%AD%E7%9A%84%E4%B8%9C%E4%BA%9A%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="角色" default="一位年轻成年东亚女性"}站在{argument name="场景" default="明亮的现代厨房"}里，画面为半身到大半身构图，人物位于画面中央，身体微微侧向画面左侧，轻靠白色厨房台面。她一只手自然搭在台面边缘，另一只手臂放松，肩膀自然下沉，面对镜头露出温柔自然的微笑，神情亲切、轻松、安静。她拥有柔和精致的鹅蛋脸，杏仁形深棕色眼睛，自然细眉，纤细鼻梁，浅珊瑚粉色嘴唇。妆容极淡，仅有自然睫毛、轻微眼线和柔和腮红。肤色白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。她有中长深棕色微卷发，蓬松自然，发丝轻盈散落在脸侧、肩膀和锁骨附近，带少量凌乱碎发。佩戴细小耳环和简约细项链。服装为{argument name="服装" default="白色居家内衣式上衣"}，细肩带，柔软棉质或弹力面料，V形领口，贴身但自然；下身为白色高腰居家短裤，腰头有浅黄色边缘。外搭一件白色轻薄衬衫或罩衫，松散滑落在手臂和肩侧，面料有轻微皱褶与透气感，整体清爽、干净、生活化。背景是明亮温暖的家庭厨房，左侧有大窗户和柔和窗光，窗台上有小盆栽；台面上有黄色小花、橄榄或水果碗、玻璃瓶；后方可见白色橱柜、浅色瓷砖、炉灶、锅具和少量厨房用品。环境干净、有生活气息但不杂乱。光线为自然窗边日光，从画面左侧柔和照入，形成明亮高键、低饱和、低对比效果。整体色调以奶油白、暖米色、浅木色、柔黄和自然肤色为主。摄影风格：85mm人像镜头，f/1.8，浅景深，眼睛和面部清晰，背景自然虚化，真实摄影质感，轻微胶片颗粒，Japanese lifestyle editorial，photorealistic。避免： 卡通、CG、过度磨皮、夸张身材、错误手指、畸形手臂、过度暴露、强HDR、过度锐化、杂乱厨房、文字、水印、Logo。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2080457938523857134) | 2026-07-24
+
+---
+

@@ -9341,3 +9341,289 @@ AIコスプレ
 
 ---
 
+### 🎨 例 4885：超现实沙漠海洋地平线
+
+![超现实沙漠海洋地平线](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%B2%99%E6%BC%A0%E6%B5%B7%E6%B4%8B%E5%9C%B0%E5%B9%B3%E7%BA%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在寂静的沙漠之上，波浪悬浮于天际，融化的拱门与镜像楼梯通向不可思议的彼方。
+
+[English]
+Above a silent desert, waves hang in the sky while melting arches and mirrored stairways lead somewhere impossible.
+```
+
+**来源：** [@PSS](https://x.com/PromptSin/status/2080722352199868835) | 2026-07-24
+
+---
+
+### 🎨 例 4888：深海巨像与信使
+
+![深海巨像与信使](../images/%E6%B7%B1%E6%B5%B7%E5%B7%A8%E5%83%8F%E4%B8%8E%E4%BF%A1%E4%BD%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张戏剧性的宽屏黑暗奇幻插画，主题为 {argument name="character name" default="深海巨像与信使"}：一位巨大的古老海洋泰坦从风暴肆虐的海面升起，面对着左下方锯齿状悬崖上站立的一位渺小的兜帽信使。泰坦是一位由风化的岩石和鳞片状护甲构成的巨大肌肉型海神，有着严峻的胡须面孔、发光的眼睛、角状或珊瑚状的冠脊、肩部和背部的尖刺，以及遍布胸部、肩部、手臂、腰带和手腕的复杂发光金色符文/天体图案。海水从泰坦的肩部、手臂、胡须和躯干倾泻而下，猛烈的白浪在他腰间和手部周围拍打。信使是一个身披黑色斗篷的小型剪影，长发和斗篷在风中飘动，正举起一根明亮的圆形金色法杖或信标指向泰坦。场景设置在左侧古老的废墟海岸神庙和断裂的石柱之间，背景是深青黑色的雷雨天空、浓密的层云、斜向的雨丝，右侧有明亮的闪电，左上方云层出现戏剧性的裂口，金色的阳光从中穿透。画面中需包含正好 15 只散落在天空中的鸟类或海鸥剪影。采用 16:9 电影级构图，低角度史诗比例，高对比度明暗对照法，深海军蓝和青色阴影，温暖的金色高光，泡沫状的绿松石色海浪，华丽的线条，绘本风格的奇幻概念艺术，高度细节化但具有绘画感，无文字，无水印。
+
+[English]
+Create a dramatic widescreen dark-fantasy illustration of {argument name="character name" default="The Colossal Ocean Titan and Messenger"}: an immense ancient ocean titan rising from a stormy sea, facing a tiny hooded messenger standing on a jagged cliff at the lower left. The titan is a gigantic muscular humanoid sea god made of weathered stone and scale-like armor plates, with a stern bearded face, glowing eyes, horned or coral-like crown ridges, spines along the shoulders and back, and intricate glowing gold runic/celestial patterns across the chest, shoulders, arms, belt, and wrists. Streams of seawater pour from the titan’s shoulders, arms, beard, and torso while violent white-capped waves crash around his waist and hands. The messenger is a small black-cloaked silhouette with long windblown hair and cape, holding up a bright circular golden staff or beacon toward the titan. Set the scene amid ancient ruined coastal temples and broken columns on the far left, with a dark teal-black thunderstorm sky, dense layered clouds, diagonal rain streaks, bright lightning bolts on the right, and a dramatic opening in the clouds on the upper left where golden sun rays break through. Include exactly 15 visible birds or gull silhouettes scattered across the sky. Use a cinematic 16:9 composition, low-angle epic scale, high contrast chiaroscuro, deep navy and teal shadows, warm gold highlights, foaming turquoise waves, ornate linework, graphic-novel fantasy concept art style, highly detailed but painterly, no text, no watermark.
+```
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2080714109960786234) | 2026-07-24
+
+---
+
+### 🎨 例 4892：纽约渡轮上女性的水彩插画
+
+![纽约渡轮上女性的水彩插画](../images/%E7%BA%BD%E7%BA%A6%E6%B8%A1%E8%BD%AE%E4%B8%8A%E5%A5%B3%E6%80%A7%E7%9A%84%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅融合了细腻水彩与浓郁墨水风格的插画，描绘了 {argument name="subject" default="一位 20 多岁的韩国年轻女性"} 在 {argument name="location" default="纽约"} 旅行的场景。她站在渡轮甲板上，远处的 {argument name="landmark" default="自由女神像"} 巍然耸立。她一手扶着栏杆，长发和轻便的风衣在海风中飘动，抬头露出灿烂愉悦的笑容。斜挎小包和折叠地图完善了她的旅行者造型。手绘风格线条，半透明水彩渲染，高品质纸张纹理，精致的素描风格，构图自动适配主体，表情欢快温暖，色彩柔和，巧妙利用留白，纯白背景，四周留有大面积空白，主体居中，隐约的水彩海鸥和轻柔的水波纹，无文字、Logo 或水印，超高分辨率，适用于壁纸，3:4
+
+[English]
+An illustration featuring delicate watercolors and rich ink, depicting a {argument name="subject" default="young Korean woman in her 20s"} traveling in {argument name="location" default="New York"}, standing on a ferry deck with the {argument name="landmark" default="Statue of Liberty"} rising in the distance behind her. She holds the railing with one hand, her long hair and light trench coat lifted by the harbor breeze, looking up with a bright delighted smile. A small crossbody bag and a folded map complete her traveler styling. Hand-drawn-style line art, translucent watercolor rendering, high-quality paper texture, sophisticated sketch-like style, composition automatically adjusted to fit the subject, joyful and warm expression, soft colors, design that makes use of white space, completely white background, large margins on all four sides, subject centered, faint watercolor suggestion of seagulls and gentle water ripples, no text, logos, or watermarks, ultra-high resolution, for wallpaper, 3:4
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2080691509817639347) | 2026-07-24
+
+---
+
+### 🎨 例 4896：低角度时尚 Lookbook 风格
+
+![低角度时尚 Lookbook 风格](../images/%E4%BD%8E%E8%A7%92%E5%BA%A6%E6%97%B6%E5%B0%9A%20Lookbook%20%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+低角度时尚大片拍摄，主角为 {argument name="subject" default="东亚女性"}，留着 {argument name="hairstyle" default="黑色短波波头"}，若有所思地向上凝视。她穿着一件宽松的 {argument name="shirt color" default="浅蓝色"} 翻领衬衫，领口敞开。温暖的黄金时刻阳光在她的脸部和颈部投下柔和的阴影。佩戴小巧的金质圆环耳环。背景为晴空下的极简现代建筑。电影感摄影，35mm 胶片颗粒，自然的皮肤质感，景深效果，8k 分辨率。低角度户外人像，主角是一位时尚的东亚女性，留着黑色短波波头，穿着未扣纽扣的浅蓝色棉质衬衫，抬头望向天空。黄金时刻阳光，细腻的胶片颗粒，唯美的时尚 Lookbook 风格，焦点清晰。请制作黑白和彩色图像
+
+[English]
+Low-angle fashion editorial shot of an {argument name="subject" default="East Asian woman"} with a {argument name="hairstyle" default="short black bob hairstyle"}, gazing upwards thoughtfully. She is wearing an oversized, loose {argument name="shirt color" default="light blue"} button-up shirt with an open collar. Warm golden hour sunlight creates soft shadows across her face and neck. Small gold hoop earrings. Minimalist modern architecture background under a clear sky. Cinematic photography, 35mm film grain, natural skin texture, depth of field, 8k resolution. Low-angle outdoor portrait of a stylish East Asian woman with a dark short bob, wearing an unbuttoned light blue cotton shirt, looking up toward the sky. Golden hour sunlight, subtle film grain, aesthetic fashion lookbook style, sharp focus. Make it in black and white and colour images
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2080674173207322908) | 2026-07-24
+
+---
+
+### 🎨 例 4907：机甲驾驶舱飞行员场景
+
+![机甲驾驶舱飞行员场景](../images/%E6%9C%BA%E7%94%B2%E9%A9%BE%E9%A9%B6%E8%88%B1%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级写实风格的科幻驾驶舱场景，视角位于巨型机器人或先进机甲内部，展示 {argument name="pilot description" default="一位留着黑色长发、戴着细框眼镜的年轻东亚女性"} 侧身坐在厚重的装甲飞行员座椅上。她身着 {argument name="pilot outfit" default="一套带有精致安全带的米色未来感飞行服"}，双手平静地放在低处的驾驶舱控制台上，透过巨大的全景窗向外眺望。驾驶舱内光线昏暗，充满金属工业质感，细节丰富，配有厚重的黑灰色结构框架、磨损的机械面板、螺栓、导轨、嵌入式控制台，以及漂浮在挡风玻璃和天花板上的蓝色发光全息 HUD 叠加层。画面需包含 5 个清晰可见的主要 HUD/界面区域：左上方天花板处 1 个大型半透明蓝色诊断面板、顶部中央 1 个狭窄的数据列、主窗上 1 个宽大的透明导航叠加层、左侧墙壁上 1 个密集的数据面板，以及右下方 1 个发光的控制台屏幕。窗外是 {argument name="outside view" default="明亮的未来主义城市天际线，高耸的塔楼、远处的山脉、蓝天和零星的白云"}。利用阴暗的驾驶舱内部与明亮的室外日光形成强烈对比，呈现玻璃上的逼真反射、大气雾霾、体积光、浅景深，以及边缘处轻微的运动模糊或径向模糊，仿佛观众正透过弯曲的驾驶舱框架进行观察。构图采用横向至方形的电影级取景，飞行员位于画面偏左位置，窗外景色占据右半部分，超高细节，高度写实，宏大比例，无额外角色，无 Logo，无任何可辨识的品牌文字。
+
+[English]
+Create a cinematic photorealistic science-fiction cockpit scene from inside a giant robot or advanced mecha, showing {argument name="pilot description" default="a young East Asian woman with long black hair and thin glasses"} seated in profile in a heavy armored pilot chair. She wears {argument name="pilot outfit" default="a beige futuristic flight suit with subtle harness straps"}, sitting calmly with hands on low cockpit controls, looking out through a large panoramic window. The cockpit is dark, metallic, industrial, and densely detailed, with thick black-gray structural frames, worn mechanical panels, bolts, rails, embedded control consoles, and blue glowing holographic HUD overlays floating across the windshield and ceiling. Include exactly 5 visible major HUD/interface areas: 1 large translucent blue diagnostic panel along the upper left ceiling, 1 narrow data column near the top center, 1 broad transparent navigation overlay across the main window, 1 dense blue data panel on the left side wall, and 1 illuminated console screen at the lower right. Outside the window is {argument name="outside view" default="a bright daytime futuristic city skyline with tall towers, distant mountains, blue sky, and scattered white clouds"}. Use a strong contrast between the shadowy cockpit interior and bright daylight outside, with realistic reflections on glass, atmospheric haze, volumetric light, shallow depth of field, and slight motion blur or radial blur around the edges as if the viewer is looking through a curved cockpit frame. Composition is horizontal-to-square cinematic framing, pilot centered slightly left, window view filling the right half, ultra-detailed, high realism, dramatic scale, no extra characters, no logos, no readable brand text.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2080622909383676271) | 2026-07-24
+
+---
+
+### 🎨 例 4908：Q 版紫色太空少女
+
+![Q 版紫色太空少女](../images/Q%20%E7%89%88%E7%B4%AB%E8%89%B2%E5%A4%AA%E7%A9%BA%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 的竖版动漫插画，画面大部分区域为广阔且近乎纯黑的空旷天空，底部中心位置放置一个娇小可爱的 Q 版少女。该角色为 {argument name="character type" default="一个小巧的动漫风格女性头像"}，拥有超大的闪亮紫色双眼、惊讶的张口表情、柔和的腮红，以及蓬松的长发，发色为 {argument name="hair color" default="带有桃粉色挑染的薰衣草紫"}，发丝卷曲在肩头。她身穿深紫色太空风格连帽衫或连衣裙，带有精致的橙色镶边，穿着白色短袜和紫色鞋子，一侧别着一个带有小星星闪光的小巧圆形紫色发夹。她坐在画面最底部一颗巨大的紫橙色星球的弧形边缘上，怀抱着 {argument name="plush toy" default="一只可爱的紫色泰迪熊玩偶，有着黑色珠子眼睛和橙紫色的小三角形鼻子"}。在星球上添加两个黄色星形靠垫或星星挂饰，一个位于女孩左侧，另一个位于右侧。采用梦幻的卡哇伊 Q 版风格，柔和的光泽阴影，淡紫色和暖桃色的高光，细腻的轮廓光，边缘清晰利落，并配以通透感的黑色宇宙背景，画面中无可见文字、无 Logo、无边框，且无其他多余角色。保持女孩的比例较小，上方留出大量空白，水平居中并放置在画布的底部五分之一处。
+
+[English]
+Create a vertical 9:16 anime illustration with a vast nearly pure black empty sky occupying most of the canvas and a tiny cute chibi girl placed near the bottom center. The character is {argument name="character type" default="a small anime-style female avatar"} with oversized sparkling purple eyes, a surprised open-mouth expression, soft blush, and long fluffy {argument name="hair color" default="lavender-purple hair with peach-pink highlights"} that curls around her shoulders. She wears a dark purple space-inspired hoodie or dress with subtle orange trim, white socks, and purple shoes, and has a small rounded purple hair clip with little star sparkles on one side. She sits on the curved edge of a large purple-orange planet at the very bottom of the image, hugging {argument name="plush toy" default="a cute purple teddy-bear-like plush with black bead eyes and a small orange-purple triangular nose"}. Add exactly two small yellow star-shaped cushions or star charms on the planet, one to the left of the girl and one to the right. Use a dreamy kawaii chibi style, soft glossy shading, pastel violet and warm peach highlights, delicate rim light, crisp clean edges, and a transparent-feeling black cosmic background with no visible text, no logo, no border, and no extra characters. Keep the girl small in scale with abundant empty space above her, centered horizontally and positioned in the lower fifth of the canvas.
+```
+
+**来源：** [@PixVerse](https://x.com/PixVerse_/status/2080615070313427002) | 2026-07-24
+
+---
+
+### 🎨 例 4922：霸王龙丛林追逐电影剧照
+
+![霸王龙丛林追逐电影剧照](../images/%E9%9C%B8%E7%8E%8B%E9%BE%99%E4%B8%9B%E6%9E%97%E8%BF%BD%E9%80%90%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级真实的电影剧照，画面中一位惊恐的 {argument name="character" default="年轻女性"} 留着 {argument name="hairstyle" default="金色短波波头卷发配刘海"}，身穿一件短款 {argument name="outfit color" default="洋红色"} 连衣裙，赤脚在浓雾弥漫的丛林中惊慌奔跑，身后是一只张着血盆大口、咆哮着的巨大霸王龙
+
+[English]
+Photorealistic cinematic still of a terrified young woman with {argument name="hair style" default="short blonde bob wavy hair and bangs"}, wearing a {argument name="outfit" default="short magenta-pink dress"}, barefoot and running in panic through a {argument name="setting" default="dense misty jungle"}, pursued by a massive roaring Tyrannosaurus rex with open jaws
+```
+
+**来源：** [@Sharon Riley](https://x.com/Just_sharon7/status/2080539190811611620) | 2026-07-24
+
+---
+
+### 🎨 例 4928：Ink-Twin 涂鸦风格化
+
+![Ink-Twin 涂鸦风格化](../images/Ink-Twin%20%E6%B6%82%E9%B8%A6%E9%A3%8E%E6%A0%BC%E5%8C%96.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "identity_ref": {
+    "source": "上传的照片",
+    "lock": ["脸部", "眼睛/鼻子/嘴巴", "肤色", "头发（长度/质感/颜色）", "配饰", "确切服装"],
+    "rule": "禁止凭空捏造细节"
+  },
+  "composition": {"format": "竖版 4:5/9:16", "figures": ["真实主体", "Ink-Twin 涂鸦"], "layout": "并排展示，姿势完整可见"},
+  "real_subject": {"style": "照片级真实感，全身照", "outfit": "与参考图完全一致", "expression": "俏皮、尴尬、被抓包的魅力", "pose": "自然、收敛的版本"},
+  "ink_twin": {
+    "style": "墙面上的粗犷黑色素描/炭笔涂鸦",
+    "recognizability": "仅轮廓（头发/服装/姿势形状）",
+    "avoid": ["写实的第二人", "扁平阴影", "彩色卡通"],
+    "energy": "比真实主体更夸张、更混乱",
+    "extras": "可选的稀疏漫画标记（运动线条/星星/爱心）"
+  },
+  "pose_rule": {
+    "instruction": "每次生成新的俏皮/恶作剧共享姿势",
+    "avoid": ["指点", "手枪手势", "镜像/重复姿势"],
+    "relationship": "主体 = 微妙版本；Twin = 夸张的卡通版本，节奏一致"
+  },
+  "setting": {"background": "干净极简的墙面（白色/奶油色/灰色）", "lighting": "柔和、均匀、日光风格，脸部清晰可见"},
+  "mood": "俏皮、时尚、混乱有趣、易于分享",
+  "negative_prompt": [
+    "捏造的外貌", "服装改变", "Twin 表现为真实的第二人",
+    "扁平/诡异的阴影", "彩色卡通 Twin", "相似度低",
+    "杂乱", "重复/僵硬/镜像姿势", "文字", "水印",
+    "多余肢体", "手部畸形"
+  ]
+}
+
+[English]
+{
+  "identity_ref": {
+    "source": "uploaded photo",
+    "lock": ["face", "eyes/nose/mouth", "skin tone", "hair (length/texture/color)", "accessories", "exact outfit"],
+    "rule": "no invented details"
+  },
+  "composition": {"format": "vertical 4:5/9:16", "figures": ["real subject", "ink-twin doodle"], "layout": "side by side, poses fully visible"},
+  "real_subject": {"style": "photoreal, full-body", "outfit": "match reference exactly", "expression": "playful, embarrassed, caught-out charm", "pose": "natural, toned-down version"},
+  "ink_twin": {
+    "style": "rough black sketch/charcoal doodle on wall",
+    "recognizability": "silhouette only (hair/outfit/pose shape)",
+    "avoid": ["realistic 2nd person", "flat shadow", "color cartoon"],
+    "energy": "amplified, chaotic vs real subject",
+    "extras": "optional sparse comic marks (motion lines/star/heart)"
+  },
+  "pose_rule": {
+    "instruction": "new playful/mischievous shared pose each time",
+    "avoid": ["pointing", "finger-guns", "mirrored/repeated poses"],
+    "relationship": "subject = subtle version; twin = amplified cartoon version, same beat"
+  },
+  "setting": {"background": "clean minimal wall (white/cream/gray)", "lighting": "soft, even, daylight-style, face visible"},
+  "mood": "playful, stylish, chaotic-fun, shareable",
+  "negative_prompt": [
+    "invented appearance", "outfit changes", "twin as real 2nd person",
+    "flat/creepy shadow", "color cartoon twin", "weak resemblance",
+    "clutter", "repeated/stiff/mirrored poses", "text", "watermark",
+    "extra limbs", "bad hands"
+  ]
+}
+```
+
+**来源：** [@WasifAI](https://x.com/doctorwasif/status/2080520917831307671) | 2026-07-24
+
+---
+
+### 🎨 例 4929：未来不朽骑士叙事
+
+![未来不朽骑士叙事](../images/%E6%9C%AA%E6%9D%A5%E4%B8%8D%E6%9C%BD%E9%AA%91%E5%A3%AB%E5%8F%99%E4%BA%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="year" default="2226"} 年。
+
+在财团停止资助 200 年后，这个组织依然屹立不倒。
+
+这位 {argument name="protagonist" default="骑士"} 已经死过十四次了。
+
+每一次，他们都会复制他的记忆，为他打印一具新的躯体，并将同样的盔甲交还给他。
+
+每当他死去，他们就会将上一件裹尸布的一角缝在他的斗篷上。
+
+他所拖曳的，是十四件层层缝合在一起的裹尸布。
+
+在剑身上，那些 {argument name="sword details" default="红色符文"} 是一个个名字。
+
+那是他没能及时拯救的人。
+
+他所守卫的大教堂，已经八十年没有牧师了。
+
+[English]
+año {argument name="año" default="2226"}. la orden sigue en pie, 200 años después de que el consorcio dejara de financiarla. este caballero ha muerto {argument name="número de muertes" default="catorce"} veces. las {argument name="número de muertes" default="catorce"} le copiaron la memoria, le imprimieron un cuerpo nuevo y le devolvieron la misma armadura. cada vez que muere le cosen a la capa un trozo del sudario anterior. lo que arrastra son {argument name="número de muertes" default="catorce"} mortajas cosidas una encima de otra. en la espada, las runas {argument name="color de runas" default="rojas"} son nombres. gente a la que no llegó a tiempo. la catedral donde monta guardia lleva ochenta años sin un sacerdote dentro.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2080518092564910250) | 2026-07-24
+
+---
+
+### 🎨 例 4934：纽约地铁新闻画面中的异次元旅行者
+
+![纽约地铁新闻画面中的异次元旅行者](../images/%E7%BA%BD%E7%BA%A6%E5%9C%B0%E9%93%81%E6%96%B0%E9%97%BB%E7%94%BB%E9%9D%A2%E4%B8%AD%E7%9A%84%E5%BC%82%E6%AC%A1%E5%85%83%E6%97%85%E8%A1%8C%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个竖屏写实的电视直播新闻截图，场景设定在拥挤的纽约地铁车厢内，如同由新闻摄像机拍摄。画面中心：{argument name="character name" default="甘露寺蜜璃"}，一位以动漫为灵感、呈现为真实人类形象的年轻女性，站在过道中，双手紧握着闪亮的不锈钢地铁扶手。她留着非常浓密的长双麻花辫，{argument name="hair color" default="发根为淡粉色，发梢渐变为青绿色"}，眼神柔和而焦虑，神情略显担忧地看向一侧。她身穿《鬼灭之刃》风格的制服，深棕/黑色服装外罩白色羽织，敞开的白色胸衣，宽大的袖子，系着腰带，腰间佩戴着一把装饰性的武士刀，刀柄缠绕着粉绿色带子，配有华丽的护手。周围是显得完全漠不关心的普通通勤者：画面中共有 6 位清晰可见的乘客，包括左侧一名戴着耳机看手机的男子、左下方部分可见的一名坐着的女性、背景中一名背对着镜头的背双肩包男子、右侧一名低头看手机的女性、一名戴着灰色帽子看手机的坐着男子，以及主人物身后部分可见的一名乘客。地铁内部应包含金属扶手、条状荧光灯、广告牌、带有斑点的深色地板，以及后方写有“THE NEXT STOP IS”的红色 LED 指示牌。添加写实的新闻广播图形：左上角红色标签，带有红色圆形直播图标和“LIVE”字样；下三分之一处红色标签“BREAKING”；白色背景上加粗的黑色压缩大写主标题：{argument name="headline text" default="不明异次元旅行者现身纽约地铁"}；下方副标题：{argument name="subheadline text" default="目击者称公众无反应"}；右侧蓝色新闻框显示“SPECTRUM NEWS NY1”、“11:03”和“68°”；底部滚动条包含 2 条新闻标题：“市长：‘对公共安全无威胁’”和“MTA 拒绝置评”。采用粗粝的纪录片写实风格、自然的地铁照明、浅景深、背景通勤者轻微的运动模糊、逼真的皮肤纹理和织物细节，构图呈现出可信的病毒式新闻截图效果，无水印，无额外文字。
+
+[English]
+Create a vertical photorealistic live TV news screenshot set inside a crowded New York City subway car, as if captured by a news camera. Center frame: {argument name="character name" default="Mitsuri Kanroji"}, a young anime-inspired woman rendered as a realistic human, standing in the aisle and gripping a shiny stainless-steel subway pole with both hands. She has very long thick twin braids, {argument name="hair color" default="pastel pink hair fading into lime green at the ends"}, soft anxious eyes, and a slightly worried expression as she looks off to the side. She wears a Demon Slayer-style uniform with a white haori over a dark brown/black outfit, open white chest wrap, wide sleeves, belt, and a decorative katana at her hip with a pink-and-green wrapped handle and ornate guard. Surround her with ordinary commuters who appear completely indifferent: exactly 6 clearly visible passengers include one man on the left looking at his phone with headphones, one seated woman partly visible lower left, one standing man in the background with a backpack facing away, one woman on the right looking down at her phone, one seated man in a gray cap looking at his phone, and one partially visible passenger behind the main subject. The subway interior should have metal poles, fluorescent strip lights, ad panels, dark speckled floor, and a red LED sign in the rear reading “THE NEXT STOP IS”. Add realistic broadcast graphics: top-left red label with a small red circular live icon and the word “LIVE”; lower-third red tag “BREAKING”; main headline in bold condensed black uppercase on white: {argument name="headline text" default="UNIDENTIFIED DIMENSIONAL TRAVELER SEEN IN NYC SUBWAY"}; subheadline beneath it: {argument name="subheadline text" default="WITNESSES REPORT NO PUBLIC REACTION"}; right blue news box reading “SPECTRUM NEWS NY1” with “11:03” and “68°”; bottom ticker bar with exactly 2 headline items: “MAYOR: ‘NO THREAT TO PUBLIC SAFETY’” and “MTA DECLINES TO COMMENT”. Use gritty documentary realism, natural subway lighting, shallow depth of field, subtle motion blur in background commuters, accurate skin texture and fabric detail, a believable viral news still composition, no watermark, no extra text.
+```
+
+**来源：** [@draco](https://x.com/DracoVibeCoding/status/2080493408767139971) | 2026-07-24
+
+---
+
+### 🎨 例 4945：动漫夏季和服设计
+
+![动漫夏季和服设计](../images/%E5%8A%A8%E6%BC%AB%E5%A4%8F%E5%AD%A3%E5%92%8C%E6%9C%8D%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为服装参考项目，为 {argument name="character name" default="一位苗条的年轻男子"} 创作一张简洁的全身动漫角色设计图，穿着透气的日式夏季服装。将参考资料中编织的、半透明的夏季和服/羽织构思转化为优雅的现代插画，而非截图或拼贴画。
+
+角色：绘制一个站立的“美少年”风格男性形象，拥有 {argument name="hair color" default="凌乱的白发"}、苍白的皮肤和冷静且略带羞涩的表情，正面朝向，姿态放松，一只手放在腰部附近。
+
+服装：包含 5 个清晰可见的服装元素：1) 一件带有细微重复编织图案的白色轻便夏季和服/浴衣，2) 一条深海军蓝腰带，3) 一件具有明显透明感和细腻编织纹理的黑色薄纱羽织，4) 一条带有红色小珠子的简约装饰绳，以及 5) 一双带有深红色带子的传统黑色木屐。
+
+风格：精致的日式动漫时尚概念艺术，柔和的铅笔与水彩线条，细腻的织物纹理，轻盈的夏日氛围，中性白色背景，全身居中并留有充足的边距。
+
+约束：请勿复刻参考资料中的手机 UI、搜索结果卡片、网站标签或日文聊天文本。仅使用参考资料来推断夏季和服的材质、透明度和复古风格的氛围。不要添加额外的道具、背景场景、其他角色或水印。
+
+[English]
+Using REFERENCE_0 as the clothing research board, create a clean full-body anime character design sheet for {argument name="character name" default="a slender young man"} in a breathable Japanese summer outfit. Transform the referenced woven, translucent summer kimono/haori ideas into an elegant modern illustration rather than a screenshot or collage.
+
+Character: Draw one standing bishounen-style male figure with {argument name="hair color" default="messy white hair"}, pale skin, and a calm slightly shy expression, facing forward in a relaxed pose with one hand resting near the waist.
+
+Outfit: Include exactly 5 visible outfit elements: 1) a white lightweight summer kimono/yukata with a subtle small repeating woven pattern, 2) a dark navy obi, 3) a sheer black gauze haori with visible transparency and fine weave texture, 4) a simple decorative cord with a small red bead, and 5) traditional black geta sandals with dark red straps.
+
+Style: Delicate Japanese anime fashion concept art, soft pencil-and-watercolor linework, refined fabric texture, airy summer feeling, neutral white background, full body centered with generous margins.
+
+Constraints: Do not reproduce the phone UI, search result cards, website labels, or Japanese chat text from the reference. Use the reference only to infer the summer kimono material, transparency, and period-inspired mood. No extra props, no background scenery, no additional characters, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2080456738961228262) | 2026-07-24
+
+---
+
