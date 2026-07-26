@@ -5837,3 +5837,39 @@ Create a single full-body chibi anime fantasy warrior girl on a dark nearly blac
 
 ---
 
+### 🧸 例 4968：巨型仿生机器人与飞行员
+
+![巨型仿生机器人与飞行员](../images/%E5%B7%A8%E5%9E%8B%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E9%A3%9E%E8%A1%8C%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级写实的科幻场景，画面中仅包含两个角色：一尊巨大的女性人形机器人和一位娇小的人类飞行员。巨型机器人是一款优雅的白色仿生机器人，拥有光泽的陶瓷装甲、外露的黑色机械关节、面板接缝、线缆以及一个敞开的大型胸部驾驶舱；她有着精致的动漫风格面孔、苍白的合成皮肤、凌乱的齐肩 {argument name="hair color" default="银白色"} 头发，以及发光的 {argument name="eye color" default="红色"} 双眼，正温柔地俯视着观众。胸部的敞开式驾驶舱内展现出深邃且细节丰富的机械内部结构，包括金属肋骨、布线以及一个小型的蓝色背光窗。在驾驶舱前方站着飞行员：一位留着黑发、戴着眼镜的年轻女性，身穿宽松的 {argument name="pilot shirt" default="白色衬衫"}、深色短裙、黑色长袜和黑色短靴，正小心翼翼地从胸腔踏出，走向机器人巨大的手掌。机器人可见的一只手在前景中水平托起，作为平台，展现出分段式的白色机械手指和黑色关节环。采用低角度拍摄，机器人高耸入云，画面截取至大腿上部，强调巨型仿生机器人与人类飞行员之间极致的体型差异。背景：明亮的户外日光，晴朗的蓝天伴有几朵柔和的云彩，远处的城市天际线和山脉位于下方，呈现出高空屋顶或空中视角。风格：超细节写实 3D 渲染，精致的机甲设计，逼真的反射效果，白色装甲上带有细微的风化和划痕，聚焦于机器人躯干和飞行员，自然光照，宏大的比例感，无文字，无水印，4:5 竖构图。
+
+[English]
+Create a cinematic photorealistic science-fiction scene of exactly two figures: one enormous female humanoid robot and one tiny human pilot. The giant robot is an elegant white android with glossy ceramic armor, exposed black mechanical joints, panel seams, cables, and a large open chest cockpit; she has a delicate anime-inspired face, pale synthetic skin, messy shoulder-length {argument name="hair color" default="silver-white"} hair, and glowing {argument name="eye color" default="red"} eyes, looking down gently toward the viewer. The open cockpit in her chest reveals a dark, detailed mechanical interior with metallic ribs, wiring, and a small blue-lit rear window. In front of the cockpit stands the pilot: a young woman with black hair and glasses, wearing a loose {argument name="pilot shirt" default="white blouse"}, dark short skirt, black socks, and black ankle boots, stepping carefully out of the chest cavity onto the robot’s huge open palm. The robot’s single visible hand is cupped horizontally in the foreground as a platform, with segmented white robotic fingers and black joint rings. Shoot from a low angle with the robot towering above, cropped at the upper thighs, emphasizing extreme scale difference between the giant android and the human pilot. Background: bright outdoor daylight under a clear blue sky with a few soft clouds, distant city skyline and mountains far below, high-altitude rooftop or aerial perspective. Style: ultra-detailed photorealistic 3D render, polished mecha design, realistic reflections, subtle weathering and scratches on white armor, sharp focus on the robot torso and pilot, natural sunlight, dramatic scale, no text, no watermark, vertical 4:5 composition.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081012765683298499) | 2026-07-25
+
+---
+
+### 🧸 例 4988：虹彩抽象少女肖像
+
+![虹彩抽象少女肖像](../images/%E8%99%B9%E5%BD%A9%E6%8A%BD%E8%B1%A1%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个方形的 3D 数字插画，表现一个深黑色背景下风格化变形的少女半身肖像。角色呈现从上半身到头部的视角，身体略微向观察者的左侧转动，拥有大头、小下巴、短脖子、窄肩膀，表情显得有些烦躁或不以为然。她有着半闭的眼睛向左侧斜视，眉头下垂，鼻子小巧，嘴唇紧闭。她的头发是抽象的雕塑感波波头，由厚实圆润的丝带状块面组成：额前有一撮大而宽的刘海，两侧有两束蓬松的发丝，耳后有圆润的层叠发量。去除物体原本的颜色，将整个角色渲染为平滑的哑光粘土状形态，并用发光的渐变色代替轮廓线：将 {argument name="main gradient colors" default="热粉色、紫色、青色、柔蓝色、桃色和薄荷绿"} 融合在皮肤、头发和衣服上，使所有部分共享同一种虹彩色彩语言。让她穿上一件简单的短袖连帽上衣，帽口圆润，袖口卷起，同样由平滑膨胀的抽象形状构成。使用柔和的摄影棚灯光，在褶皱处加入微妙的环境光遮蔽，呈现天鹅绒般的次表面散射效果，具备高质量的 3D 渲染细节和梦幻般的玩具雕塑美感。构图应将脸部置于上方中心，躯干在下边缘附近裁剪，留出充足的黑色负空间，不包含任何场景。在右下角添加一个优雅的小型手写签名和日期，内容为 {argument name="date text" default="2026 年 7 月 25 日"} 和 {argument name="signature text" default="Oyagi"}。
+
+[English]
+Create a square digital 3D illustration of a stylized deformed human girl bust portrait on a deep black background. The character is shown from the upper torso up, turned slightly three-quarters to the viewer’s left, with a large head, small chin, short neck, slim shoulders, and a mildly annoyed or unimpressed expression. She has heavy-lidded eyes looking sideways to the left, downturned brows, a tiny nose, and a small closed frown. Her hair is an abstract sculptural bob made of thick rounded ribbon-like masses: one large sweeping bang across the forehead, two puffy side locks, and rounded layered hair volumes behind the ears. Remove natural object-specific colors and render the entire character as smooth matte clay-like forms with luminous gradients instead of outlines: blend {argument name="main gradient colors" default="hot pink, violet, cyan, soft blue, peach, and mint green"} across the skin, hair, and clothing so all parts share the same iridescent color language. Dress her in a simple short-sleeve hooded top with a soft rounded hood opening and rolled sleeve cuffs, also made from the same smooth inflated abstract shapes. Use soft studio lighting, subtle ambient occlusion in the creases, velvety subsurface shading, high-quality 3D render detail, and a dreamy toy-sculpture aesthetic. Composition should place the face in the upper center, torso cropped near the lower edge, with generous black negative space and no scenery. Add a small elegant handwritten signature and date in the bottom-right corner reading {argument name="date text" default="July 25, 2026"} and {argument name="signature text" default="Oyagi"}.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2080921818836381834) | 2026-07-25
+
+---
+

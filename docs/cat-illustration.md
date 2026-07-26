@@ -9627,3 +9627,97 @@ Constraints: Do not reproduce the phone UI, search result cards, website labels,
 
 ---
 
+### 🎨 例 4961：蒙眼大教堂女祭司
+
+![蒙眼大教堂女祭司](../images/%E8%92%99%E7%9C%BC%E5%A4%A7%E6%95%99%E5%A0%82%E5%A5%B3%E7%A5%AD%E5%8F%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图的动漫奇幻角色插画，描绘一位站在阳光明媚的大教堂内部的蒙眼女祭司战士。主体是一位优雅的成年女性，拥有非常长且飘逸的 {argument name="hair color" default="浅铂金色"} 头发，呈现出松散的波浪卷，两侧有小辫子，脑后系着一条黑色丝带。她戴着一条宽大的黑色布质眼罩遮住双眼，表情平静，双唇微张，姿态优雅挺拔。她的服装是一件修身的白色礼仪长袍，配有蓝紫色饰边、露肩领口、白色长袖、高开叉设计、臀部装饰带以及小型金色星形饰物；颈部配有一枚红色宝石吊坠，胸前有相呼应的小型红色宝石装饰。她右手持有一根高大的深色法杖或长矛，矛身为黑色，矛头为华丽的金色，下部可见处有深金色的护手细节。背景是一座宏伟的石砌教堂或大教堂，拥有高耸的立柱，温暖的阳光从右侧射入，身后是阴影深邃的石质建筑，左上方模糊可见一扇柔和的蓝色花窗玻璃。采用精致的高细节动漫风格，运用戏剧性的暖色轮廓光，柔和的漂浮尘埃或光点，强有力的线条艺术，平滑的赛璐珞阴影，头发和织物上的发光高光，浅景深，以及从腰部到大腿的低角度构图，以强调英雄般的优雅。保持图像为高雅的奇幻时尚风格，无文字，无水印，无额外角色。
+
+[English]
+Create a vertical anime fantasy character illustration of a blindfolded priestess-warrior standing in a sunlit cathedral interior. The subject is an elegant adult woman with very long flowing {argument name="hair color" default="pale platinum blonde"} hair, loose waves, small side braids, and a black ribbon tied near the back of her head. She wears a wide black cloth blindfold covering her eyes, with a calm, slightly parted-lips expression and a graceful upright pose. Her outfit is a fitted white ceremonial gown with blue-violet trim, off-shoulder neckline, long white sleeves, high side slits, decorative straps at the hips, and small gold star-like ornaments; include a red jewel pendant at her neck and matching small red gem accents on the bodice. She holds one tall dark staff or spear in her right hand, with a black shaft and ornate gold spearhead, plus a dark gold-edged guard detail near the lower visible section. The setting is a grand stone church or cathedral with tall columns, warm sunlight streaming from the right, dark shadowed stone architecture behind her, and a soft blue stained-glass window blurred in the upper left. Use a polished high-detail anime style, dramatic warm rim lighting, soft floating dust or light particles, strong line art, smooth cel shading, luminous highlights on hair and fabric, shallow depth of field, and a low-angle waist-up to thigh-up composition emphasizing heroic elegance. Keep the image tasteful fantasy fashion, no text, no watermark, no extra characters.
+```
+
+**来源：** [@AIAI.COM](https://x.com/Aiaicom09/status/2081046567297937685) | 2026-07-25
+
+---
+
+### 🎨 例 4978：韩式 Photoism 拍立得网格
+
+![韩式 Photoism 拍立得网格](../images/%E9%9F%A9%E5%BC%8F%20Photoism%20%E6%8B%8D%E7%AB%8B%E5%BE%97%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的图像作为角色参考。3×2 网格拼贴，包含 6 张超写实的 PHOTOISM 拍立得照片，带有粗黑的 PHOTOISM 风格边框，每帧右侧带有清晰的竖排文字 “{argument name="sidebar text" default="MY DAY"}”。室内拍立得场景，背景为纯色 {argument name="background color" default="浅灰色"} 墙面，温暖的 iPhone 闪光灯照明，略微过曝，具有真实的拍立得胶片颗粒质感。俏皮氛围，服装随机，{argument name="emojis" default="⚾,🥊"}，整体风格：韩式拍立得写实感，荒诞而混乱的能量，温暖俏皮的高分辨率面部细节，所有帧中面部特征保持一致。构图简洁，高对比度，柔和的影棚灯光，超精细，焦点清晰，氛围精致，美学外观，8K 分辨率。
+
+负面提示词：色彩过于鲜艳，背景杂乱，模糊，低质量，面部扭曲，手部畸形，比例失调，排版杂乱，噪点过多，卡通风格，不真实的细节。
+
+[English]
+use the uploaded image as the character reference. 3×2 grid collage consisting of 6 hyper-realistic PHOTOISM photobooth photos, featuring thick black PHOTOISM-style borders with clear vertical “{argument name="sidebar text" default="MY DAY"}” text on the right side of each frame. Indoor photobooth setting with a solid {argument name="background color" default="light gray"} wall background, warm iPhone flash lighting with slight overexposure, and authentic photobooth film grain texture. playful vibe, outfit random, {argument name="emojis" default="⚾,🥊"}, Overall style: Korean photobooth realism, absurd and chaotic energy, warm playful thigh-resolution facial details, consistent facial features across all frames. Clean composition, high contrast, soft studio lighting, ultra-detailed, sharp focus, sophisticated atmosphere, aesthetic look, 8K resolution. 
+
+Negative Prompt: overly vibrant colors, messy background, blur, low quality, distorted faces, malformed hands, bad proportions, messy typography, excessive noise, cartoon style, unrealistic details.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2080964657339085285) | 2026-07-25
+
+---
+
+### 🎨 例 5017：照片级写实人物与水墨涂鸦“双胞胎”
+
+![照片级写实人物与水墨涂鸦“双胞胎”](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E5%86%99%E5%AE%9E%E4%BA%BA%E7%89%A9%E4%B8%8E%E6%B0%B4%E5%A2%A8%E6%B6%82%E9%B8%A6%E2%80%9C%E5%8F%8C%E8%83%9E%E8%83%8E%E2%80%9D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的照片作为确切的身份参考。保持面部、肤色、发型、配饰和服装完全一致。创作一张真人全身垂直图像，让其站在 {argument name="twin type" default="水墨涂鸦双胞胎"} 旁边。真人应呈现照片级写实效果，带有 {argument name="expression" default="俏皮、略显尴尬的表情"} 和自然的姿势。水墨双胞胎应是墙上的一幅 {argument name="sketch style" default="粗犷的黑色炭笔素描"}，背景为干净的白色或浅灰色墙面；它仅在发型、服装和姿势上与真人轮廓匹配，但需带有夸张、混乱的能量感。添加一些简单的涂鸦效果，如运动线条、星星或爱心。使用柔和的自然光，背景保持干净极简。不要改变人物的外貌或服装。不要将双胞胎制作成真人、彩色卡通或扁平阴影。避免重复的姿势、畸形的手部、多余的肢体、杂乱的背景、文字或水印。
+
+[English]
+Use the uploaded photo as the exact identity reference. Keep the face, skin tone, hairstyle, accessories, and outfit exactly the same. Create a vertical full-body image of the real person standing beside their {argument name="twin style" default="ink-twin doodle"}. The real person should look photorealistic with a playful, slightly embarrassed expression and a natural pose. The {argument name="doodle type" default="ink twin"} should be a rough black charcoal sketch on a clean white or light gray wall, matching the person's hairstyle, outfit, and pose only as a silhouette, but with exaggerated, chaotic energy. Add a few simple doodle effects like {argument name="effects" default="motion lines, stars, or hearts"}. Use soft natural daylight with a clean minimal background. Do not change the person's appearance or outfit. Do not make the twin a real person, colored cartoon, or flat shadow. Avoid repeated poses, bad hands, extra limbs, clutter, text, or watermarks.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2080859150620279165) | 2026-07-25
+
+---
+
+### 🎨 例 5023：编辑风格角色档案排版
+
+![编辑风格角色档案排版](../images/%E7%BC%96%E8%BE%91%E9%A3%8E%E6%A0%BC%E8%A7%92%E8%89%B2%E6%A1%A3%E6%A1%88%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个分为两个部分的高端编辑风格角色档案排版。左侧部分 → 大号粗体字 “{argument name="character name" default="ZION VALE"}”，采用厚重的黑色大写字体 → 副标题：“{argument name="subtitle" default="HE RUNS TOWARD THE FIRE"}” → 真实 {argument name="age" default="29 岁"} 的全身写实照片
+
+[English]
+Create a high-end editorial character profile spread layout split into two sections. LEFT SECTION → Large bold typography "{argument name="character name" default="ZION VALE"}" in heavy black uppercase font → Subtitle: "{argument name="subtitle" default="HE RUNS TOWARD THE FIRE"}" → Full body photorealistic image of a real {argument name="age" default="29-year-old"}
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2080844202183889396) | 2026-07-25
+
+---
+
+### 🎨 例 5028：日本祭典刨冰摊位
+
+![日本祭典刨冰摊位](../images/%E6%97%A5%E6%9C%AC%E7%A5%AD%E5%85%B8%E5%88%A8%E5%86%B0%E6%91%8A%E4%BD%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅插画。完全基于上传的插画创建一个日本祭典食品摊位。摊位、{argument name="flavor" default="刨冰口味"}、{argument name="syrup colors" default="糖浆颜色"}、碗、配料、装饰、招牌、菜单牌、灯笼、横幅以及祭典氛围，必须从艺术作品的色彩、服饰、符号、世界观、个性、文化和情绪中自然衍生。不要将其设计成奢华的咖啡馆甜点，而是要创作一款 {argument name="atmosphere" default="欢快的祭典风格"} 刨冰，看起来既手工制作且略显特别，又符合夏季祭典食品摊位的真实感。根据原始插画调整口味和呈现方式，而非使用通用设计。如果插画中包含角色，请保留相同的面部、发型、服装、颜色、比例、表情和个性。展示角色在摊位前开心地吃着刨冰，笑容灿烂，手持勺子并与甜点自然互动。包含一个原创的日式口味名称，以及一个与插画世界观相符、清晰易读的日式菜单牌。场景周围环绕着色彩缤纷的祭典装饰、纸灯笼、快乐的游客、温暖的阳光以及生动、欢乐的夏季祭典氛围。超精细、色彩鲜艳、逼真的插画，具有电影般的灯光效果。
+
+[English]
+Make an illustration. Create a Japanese festival food stall based entirely on the uploaded illustration. The stall, {argument name="flavor" default="kakigori flavor"}, {argument name="syrup colors" default="syrup colors"}, bowl, toppings, decorations, signboard, menu plate, lanterns, banners, and festival atmosphere must naturally grow from the artwork’s colors, clothing, symbols, worldbuilding, personality, culture, and mood. Instead of a luxury café dessert, create a {argument name="atmosphere" default="cheerful festival-style"} kakigori that looks handmade and slightly special, but still realistic for a summer festival food stall. Adapt the flavor and presentation to match the original illustration rather than using generic designs. If the illustration contains a character, preserve the same face, hairstyle, outfit, colors, proportions, expression, and personality. Show the character smiling brightly while happily eating the kakigori at the stall, holding a spoon and naturally interacting with the dessert. Include an original Japanese flavor name and a clean, highly readable Japanese menu sign matching the illustration’s world. Surround the scene with colorful festival decorations, paper lanterns, happy visitors, warm sunlight, and a lively, joyful summer festival atmosphere. Ultra-detailed, vibrant, realistic illustration with cinematic lighting.
+```
+
+**来源：** [@アシタ🩵](https://x.com/ashiwata100/status/2080824328661426306) | 2026-07-25
+
+---
+

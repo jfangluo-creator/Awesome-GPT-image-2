@@ -7629,3 +7629,87 @@ Create a high-end 4:3 equestrian pitch deck storyboard in 3x4 grid (12 frames), 
 
 ---
 
+### 🎬 例 4951：Q 版少女拥抱空调漫画
+
+![Q 版少女拥抱空调漫画](../images/Q%20%E7%89%88%E5%B0%91%E5%A5%B3%E6%8B%A5%E6%8A%B1%E7%A9%BA%E8%B0%83%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：在温馨的公寓房间内创作一幅可爱的单格 Q 版动漫漫画场景，描绘三位小巧的角色对壁挂式空调的反应。
+
+画布：宽屏 16:9 横向插画，干净的数字动漫风格，带有柔和的阴影、温暖的室内光线、清晰的线条、柔和的粉彩色调以及幽默的生活片段基调。
+
+布局：在房间左上方放置一台大型白色壁挂式空调，向下吹出可见的淡蓝色冷气流。一位 Q 版少女正开心地紧贴在空调正面，仿佛在拥抱它。另外两位 Q 版少女站在房间右侧，抬头看着她。在两位站立的少女上方放置 2 个带黑色轮廓的大型白色对话气泡。
+
+角色：包含 3 位 Q 版动漫少女。1) 左侧/上方角色：一位娇小开朗的金发少女，正拥抱空调，闭着眼睛，笑容灿烂，周围漂浮着粉色小爱心；她身穿带有橙色装饰的黑色战术偶像风格服装，佩戴黑色手套、腿带、多功能袋、黑色靴子，以及装饰着星星饰品和小型角状配件的黑色贝雷帽。2) 中右侧角色：一位留着长波浪卷发的金发 Q 版少女，表情担忧或困惑，一只戴着手套的手放在嘴边；她身穿黑红相间的军事/战术服装，系着红色领带，戴着带有红星的黑色贝雷帽，系着腰带，穿着深色长袜和短靴。3) 最右侧角色：一位留着整齐波波头的淡紫色头发 Q 版少女，戴着圆形白框眼镜，表情冷静，正伸出一根食指；她身穿白色水手服，戴着带有金色翅膀徽章的白色大檐帽，系着蓝色蝴蝶结，穿着白色过膝袜，侧面挂着小包，系着蓝色发带。
+
+对话气泡：使用 2 个气泡。中右侧少女的气泡文字为 {argument name="left speech bubble text" default="大きなセミが居るわね？"}。最右侧少女的气泡文字为 {argument name="right speech bubble text" default="セミリタイアした元アイドルですね。"}。对话文字需保持加粗、黑色、居中且易于阅读。
+
+房间细节：展示带有木质饰边的米色墙角和木地板。最左侧包含一扇带有蓝色窗帘的窗户，可以看到明亮的户外天空/绿植。窗下放置一个低矮的木柜，包含 3 个可见细节：一个小相框、一盆盆栽和一排书。前景包含 3 个桌面物品：一杯插着蓝色吸管的冰饮、一个黑色遥控器和一个装有白色纸巾的蓝色纸巾盒。右侧门边放置一盆盆栽。在空调下方增加一个小型墙壁插座。空调显示屏应显示 {argument name="air conditioner temperature" default="25°C"}，并带有一个微小的绿色指示灯。
+
+视觉风格：Q 版比例，大头身，表情丰富，眼睛明亮，柔和的高光，俏皮的粉色爱心，温馨的居家背景，精致的日本手游插画质量。
+
+约束：使用 3 个角色，2 个对话气泡，以及 3 个前景桌面物品。不要添加额外的角色、额外的分镜、标题、水印或 Logo。
+
+[English]
+Goal: Create a cute single-panel chibi anime comic scene in a cozy apartment room, featuring three small characters reacting to a wall-mounted air conditioner.
+
+Canvas: Wide horizontal 16:9 illustration, clean digital anime style with soft shading, warm indoor lighting, crisp line art, gentle pastel colors, and a humorous slice-of-life tone.
+
+Layout: Place a large white wall-mounted air conditioner in the upper left-center of the room, blowing visible pale blue streams of cold air downward. One chibi girl is clinging happily to the front of the air conditioner as if hugging it. Two other chibi girls stand on the right side of the room, looking up at her. Put exactly 2 large white speech bubbles with black outlines above the two standing girls.
+
+Characters: Include exactly 3 chibi anime girls. 1) Left/upper character: a small cheerful blonde girl hugging the air conditioner, eyes closed, big smile, tiny pink hearts floating around her; she wears a black tactical idol-style outfit with orange accents, black gloves, thigh straps, utility pouches, black boots, and a black beret decorated with star ornaments and small horn-like accessories. 2) Center-right character: a blonde chibi girl with long wavy hair, worried or confused expression, one gloved hand near her mouth; she wears a black and red military/tactical outfit with a red tie, black beret with a red star, belts, dark stockings, and small boots. 3) Far-right character: a lavender-haired chibi girl with a neat bob haircut, round white glasses, calm speaking expression, and one raised index finger; she wears a white sailor-style uniform, white peaked cap with a gold wing emblem, blue bow, white thigh-high socks, side pouch, and blue hair ribbon.
+
+Speech bubbles: Use exactly 2 bubbles. The center-right girl’s bubble says {argument name="left speech bubble text" default="大きなセミが居るわね？"}. The far-right girl’s bubble says {argument name="right speech bubble text" default="セミリタイアした元アイドルですね。"}. Keep the speech text bold, black, centered, and readable.
+
+Room details: Show a beige wall corner with wooden trim and wooden floor. On the far left, include a window with blue curtains and a bright outdoor sky/greenery view. Beneath it, include a low wooden cabinet with exactly 3 visible details: a small framed picture, a potted plant, and a row of books. In the foreground, include exactly 3 table items: a glass of iced drink with a blue straw, a black remote control, and a blue tissue box with white tissues. On the right, include a potted plant near a door. Add a small wall outlet under the air conditioner. The air conditioner display should show {argument name="air conditioner temperature" default="25°C"} with a tiny green indicator light.
+
+Visual style: Chibi proportions with oversized heads, expressive faces, glossy eyes, soft highlights, playful pink hearts, cozy domestic background, polished Japanese mobile-game illustration quality.
+
+Constraints: Use exactly 3 characters, exactly 2 speech bubbles, and exactly 3 foreground table items. Do not add extra characters, extra panels, captions, watermark, or logo.
+```
+
+**来源：** [@まるるん＠NIKKE好き](https://x.com/TachMaru/status/2081133234939916511) | 2026-07-25
+
+---
+
+### 🎬 例 5010：柔和色调漫画自拍拼贴画
+
+![柔和色调漫画自拍拼贴画](../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E6%BC%AB%E7%94%BB%E8%87%AA%E6%8B%8D%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张明亮的少女漫画风格单页拼贴画，展示一位活泼的少女偶像在阳光明媚的海边咖啡馆露台上拍摄社交媒体自拍。
+
+画布：竖版 A4 漫画页面，全彩，柔和的粉彩色调，无黑色边框；使用六个不规则的圆角边框，由粗白线分隔，边缘带有可爱的贴纸涂鸦。高细节动漫插画，闪亮的点缀，轻盈的夏日氛围，阳台栏杆外可见蓝天与大海。
+
+主角：一位可爱的动漫女孩，拥有 {argument name="hair color" default="棉花糖粉色"} 的双马尾，大大的粉色眼睛，小花发夹，表情生动的红润脸颊，以及活泼的偶像气质。她穿着一件半透明的薰衣草色水手领衬衫，袖子蓬松，领口系着紫色蝴蝶结，搭配层叠的荷叶边短裙，腰间系着一个巨大的淡蓝色蝴蝶结。确保每个分镜中的角色设计保持一致。
+
+布局：包含 6 个分镜。分镜 1（左上大图）：近景自拍视角，女孩拿着装饰有白色樱花的粉色智能手机对着镜头，在蓝天下的阳台上张嘴微笑；附近有太阳涂鸦和小闪光。分镜 2（右上）：全身姿势，她单脚站立并眨眼，手里拿着连接着同一部手机的自拍杆，背景是露台桌椅和植物，带有爱心和音符涂鸦。分镜 3（中左）：侧视图，在咖啡馆小桌旁，她俯身调整或检查放在小型桌面三脚架上的手机；包含一杯带吸管的柠檬饮品；添加一个气泡框，文字为 {argument name="speech bubble 1" default="よしっ"}。分镜 4（中右）：她若有所思地站在阳台边，双手靠近胸前，背景是海洋和盆栽；添加一个想法气泡，文字为 {argument name="thought bubble" default="うーん..."} 以及一个小倒计时气泡，文字为 {argument name="countdown text" default="3... 2... 1..."}。分镜 5（左下）：四分之三近景，她微笑着拿着手机并举起一根手指，仿佛在宣布要再拍一张；添加一个红色手写气泡框，文字为 {argument name="speech bubble 2" default="もう一枚!"}，外加微小的海滩/棕榈树涂鸦。分镜 6（右下）：她坐在露台地板或靠近桌子的矮凳上，旁边放着柠檬饮品，眨眼并做出俏皮的手势，背景是海景，带有爱心、花朵、闪光和微小的翅膀涂鸦。
+
+可见重复元素：同一个女孩出现 6 次，在分镜 1、2、3 和 5 中，总计 3 次出现粉色智能手机或手机被显眼地握持；包含 3 个日语文本气泡和 1 个倒计时气泡；包含可爱的涂鸦，如 3 个爱心、4 朵花、1 个太阳、1 棵棕榈树、1 个音符、1 个翅膀图标和少量闪光标记。
+
+视觉风格：高度精致的日式 AI 漫画插画，柔和的水彩感光影，干净的线条，薰衣草色与粉色的和谐搭配，水灵的眼睛，细腻的布料透明感与荷叶边，温暖的阳光，景深效果，欢快的网红 Vlog 氛围。避免写实，避免深色阴影，避免出现额外角色，避免任何标志或水印。
+
+[English]
+Goal: Create a bright shoujo manga-style one-page collage showing a cheerful teen idol girl filming social-media selfies on a sunny seaside cafe terrace.
+
+Canvas: Vertical A4 manga page, full color, soft pastel palette, no black panel borders; use six irregular rounded panels separated by thick white gutters, with cute sticker doodles in the margins. High-detail anime illustration, sparkling highlights, airy summer atmosphere, blue sky and ocean visible beyond balcony railings.
+
+Main character: A cute anime girl with {argument name="hair color" default="cotton-candy pink"} twin-tail hair, large pink eyes, small flower hair clips, expressive rosy cheeks, and a lively idol-like personality. She wears a translucent lavender sailor-collar blouse with puffy sleeves, a purple bow at the collar, a layered ruffled short skirt, and a large pale-blue waist ribbon tied in a bow. Keep the same character design consistent in every panel.
+
+Layout: Include exactly 6 panels. Panel 1, large upper-left: close-up selfie angle, the girl holds a pink smartphone decorated with white cherry blossoms toward the viewer, smiling with mouth open on a balcony under a blue sky; sun doodle and small sparkles nearby. Panel 2, upper-right: full-body pose, she stands on one leg and winks while holding a selfie stick with the same phone attached, terrace tables and plants behind her, heart and music-note doodles. Panel 3, middle-left: side view at a small cafe table, she leans forward adjusting or checking the phone on a small tabletop tripod; include a lemon drink with straw; add a speech bubble reading {argument name="speech bubble 1" default="よしっ"}. Panel 4, middle-right: she stands thoughtfully by the balcony with hands near chest, ocean and potted plants behind; add a thought bubble reading {argument name="thought bubble" default="うーん..."} and a small countdown bubble reading {argument name="countdown text" default="3... 2... 1..."}. Panel 5, lower-left: close-up three-quarter view, she smiles and holds the phone while raising one finger as if announcing another take; add a red handwritten speech bubble reading {argument name="speech bubble 2" default="もう一枚!"}, plus tiny beach/palm doodles. Panel 6, lower-right: she sits on the terrace floor or low seat near a table with the lemon drink, winking and making a playful finger pose, ocean view in the background, hearts, flowers, sparkles, and tiny wing doodles.
+
+Visible repeated elements: exactly 6 appearances of the same girl, exactly 3 visible pink smartphone setups or phones held prominently in panels 1, 2, 3, and 5 if partially repeated as the same device; exactly 3 text bubbles with Japanese text plus 1 countdown bubble; include cute doodles such as 3 hearts, 4 flowers, 1 sun, 1 palm tree, 1 music note, 1 winged icon, and small sparkle marks.
+
+Visual style: Highly polished Japanese AI manga illustration, soft watercolor-like lighting, clean line art, pastel lavender and pink color harmony, glossy eyes, delicate fabric transparency and ruffles, warm sunlight, depth of field, cheerful influencer-vlog mood. Avoid realism, avoid dark shadows, avoid extra characters, avoid logos or watermarks.
+```
+
+**来源：** [@あけび](https://x.com/akebi_mh/status/2080867002936447087) | 2026-07-25
+
+---
+

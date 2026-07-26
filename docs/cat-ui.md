@@ -9969,3 +9969,225 @@ A city of light, suspended highways and impossible architecture—built at the e
 
 ---
 
+### 🖥️ 例 4952：日语版 PowerPoint Claude Opus 5 截图
+
+![日语版 PowerPoint Claude Opus 5 截图](../images/%E6%97%A5%E8%AF%AD%E7%89%88%20PowerPoint%20Claude%20Opus%205%20%E6%88%AA%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的 16:9 日语版 Microsoft PowerPoint 桌面截图，展示正在编辑的课程幻灯片，右侧打开 Copilot/Claude 模型选择面板。
+
+画布：宽屏横向截图，1200×675 风格，清晰的 UI 捕捉，浅灰色 PowerPoint 界面，无浏览器边框。主要焦点是 PowerPoint 编辑工作区，中间为深色标题幻灯片。
+
+布局：显示完整的 PowerPoint 窗口，顶部带有功能区，左侧为幻灯片缩略图栏，中间为幻灯片主画布，右侧为 AI 助手侧边栏。整个 PowerPoint 界面均使用日语 UI 标签。顶部标题区域的文件名应显示为 {argument name="file name" default="Udemy_Power-Automate-Basic-Material.pptx"}，后跟日语的最后更新说明和时间。顶部功能区应包含日语选项卡，如“文件”、“开始”、“插入”、“绘图”、“设计”、“切换”、“动画”、“幻灯片放映”、“录制”、“审阅”、“视图”和“帮助”，以及 Copilot、PowerPoint、设计器、Claude、Teams 演示和共享的加载项按钮。
+
+左侧缩略图栏：显示 8 个可见的幻灯片缩略图，编号为 1 到 8。第 1 张幻灯片被选中并带有橙色边框，与主画布上的深色封面幻灯片相同。第 2 张是青色的议程/概览幻灯片。第 3 张是白色的流程/工作流幻灯片，带有绿色图表元素和两个插画人物。第 4 张是带有三行水平列表的白色幻灯片。第 5 张是带有蓝色界面截图和箭头的白色幻灯片。第 6 张是带有软件截图和标注框的白色幻灯片。第 7 张是带有彩色卡片行和图标插画的白色幻灯片。第 8 张是带有流程图式截图和青绿色标注的白色幻灯片。
+
+主幻灯片：创建一个深色电影感封面幻灯片，在建筑夜景上叠加黑色到深蓝色的渐变：右侧是发光的现代堆叠玻璃建筑，氛围朦胧，下方有路径和微小的人影，右下角有树木，左侧留出深色空白区域用于放置文字。在幻灯片左上角放置一个戴着微型黑色高礼帽的橙色小丑鱼吉祥物。主标题文字应为大号、加粗的白色日语：{argument name="main title text" default="クイックに学ぶ\nPower Automate クラウドフロー"}。在其下方，添加青色副标题：{argument name="subtitle text" default="触ったことがなくてもOK — Microsoft 365 で始める業務自動化の第一歩"}。下方添加一行较小的白色描述文字：{argument name="description line" default="全5回のハンズオン＋AI活用コラムで、クラウドフローを体験する実践コース"}。在幻灯片左下角，添加白色作者行：{argument name="author line" default="ギークフジワラ｜@geekfujiwara"}。幻灯片文字保持左对齐，并留有充足的间距。
+
+右侧 AI 面板：显示一个白色的助手面板，标题为日语的演示相关助手。在此面板的右上角，显示一个打开的模型下拉菜单。下拉菜单必须包含 5 个可见选项：带有勾选标记和简短日语描述的“Auto”、Claude、Claude Opus 4.8、Claude Opus 5 和 GPT。用红色矩形轮廓突出显示 Claude Opus 5 行。在 Claude Opus 5 下方，以灰色小字显示提供商标签 Anthropic。在下方包含其他日语面板按钮，例如打开演示文稿、解释幻灯片以及清理幻灯片布局。
+
+视觉风格：使其看起来像真实的 Microsoft PowerPoint 桌面截图，具有准确的间距、标尺、功能区图标、滚动条、状态栏、缩放控件和微小的 UI 文字。使用柔和的抗锯齿、微妙的阴影和逼真的 Windows 应用比例。该图像应呈现为展示 PowerPoint Agent 模式和多模型选择的社交媒体截图。
+
+约束：不要在 8 个可见缩略图之外添加额外的幻灯片缩略图。不要遮挡主幻灯片标题。保留 Claude Opus 5 周围的红色高亮。避免出现水印、浏览器标签页或不相关的窗口。
+
+[English]
+Goal: Create a realistic 16:9 desktop screenshot of Microsoft PowerPoint in Japanese, showing a course slide deck being edited with a Copilot/Claude model selection panel open on the right.
+
+Canvas: Wide landscape screenshot, 1200×675 style, crisp UI capture, light gray PowerPoint chrome, no browser frame. The main focus is a PowerPoint editing workspace with a dark title slide centered.
+
+Layout: Show the full PowerPoint window with the ribbon across the top, slide thumbnail strip on the left, main slide canvas in the center, and an AI assistant side panel on the right. Use Japanese UI labels throughout the PowerPoint interface. The file name in the top title area should read {argument name="file name" default="Udemy_Power-Automate-Basic-Material.pptx"}, followed by a Japanese last-updated note and time. The top ribbon should include Japanese tabs such as File, Home, Insert, Draw, Design, Transitions, Animations, Slide Show, Record, Review, View, and Help, plus add-in buttons for Copilot, PowerPoint, Designer, Claude, Teams presentation, and Share.
+
+Left thumbnail strip: Show exactly 8 visible slide thumbnails, numbered 1 through 8. Slide 1 is selected with an orange border and is the same dark cover slide as the main canvas. Slide 2 is a teal agenda/overview slide. Slide 3 is a white process/workflow slide with green diagram elements and two illustrated people. Slide 4 is a white slide with three horizontal list rows. Slide 5 is a white slide with a blue interface screenshot and arrows. Slide 6 is a white slide with a software screenshot and callout box. Slide 7 is a white slide with a row of colorful cards and icon illustrations. Slide 8 is a white slide with a flowchart-like screenshot and a turquoise callout.
+
+Main slide: Create a dark cinematic cover slide with a black-to-navy overlay over an architectural night scene: glowing modern stacked glass buildings on the right, misty atmosphere, pathways and tiny walking people below, trees in the lower right, and a deep dark empty area on the left for text. In the upper left of the slide place a small orange clownfish mascot wearing a tiny black top hat. The main title text should be large, bold, white Japanese: {argument name="main title text" default="クイックに学ぶ\nPower Automate クラウドフロー"}. Under it, add a cyan subtitle: {argument name="subtitle text" default="触ったことがなくてもOK — Microsoft 365 で始める業務自動化の第一歩"}. Beneath that, add a smaller white description line: {argument name="description line" default="全5回のハンズオン＋AI活用コラムで、クラウドフローを体験する実践コース"}. At the bottom left of the slide, add the author line in white: {argument name="author line" default="ギークフジワラ｜@geekfujiwara"}. Keep the slide text aligned left with generous spacing.
+
+Right AI panel: Show a white assistant panel titled in Japanese as a presentation-related assistant. At the top right of this panel, show an open model dropdown. The dropdown must contain exactly 5 visible choices: Auto with a checkmark and a short Japanese description, Claude, Claude Opus 4.8, Claude Opus 5, and GPT. Emphasize the Claude Opus 5 row with a red rectangular outline. Under Claude Opus 5, show the provider label Anthropic in small gray text. Include additional Japanese panel buttons below such as opening the presentation, explaining the slide, and cleaning up the slide layout.
+
+Visual style: Make it look like an authentic Microsoft PowerPoint desktop screenshot, with accurate spacing, rulers, ribbon icons, scrollbars, status bar, zoom control, and tiny UI text. Use soft antialiasing, subtle shadows, and realistic Windows app proportions. The image should read as a social-media screenshot demonstrating PowerPoint Agent Mode and multi-model selection.
+
+Constraints: Do not add any extra slide thumbnails beyond the 8 visible thumbnails. Do not obscure the main slide title. Preserve the red highlight around Claude Opus 5. Avoid watermarks, browser tabs, or unrelated windows.
+```
+
+**来源：** [@ギークフジワラ](https://x.com/geekfujiwara/status/2081125500609774047) | 2026-07-25
+
+---
+
+### 🖥️ 例 4962：动漫涂鸦墙前的真实女孩
+
+![动漫涂鸦墙前的真实女孩](../images/%E5%8A%A8%E6%BC%AB%E6%B6%82%E9%B8%A6%E5%A2%99%E5%89%8D%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温馨且超写实的竖构图全身肖像，画面中一位年轻女性正悠闲地站在室内，背景是一面布满简约黑色线条动漫涂鸦的暖米色墙壁，将真人融入可爱的动漫世界。这位女性为 {argument name="character age and appearance" default="一位十几岁末期、留着深棕色长发、带有柔和八字刘海、妆容自然、表情平静温柔的年轻女性"}，面向镜头，姿态放松，双手插在超大号 {argument name="jacket color" default="橄榄棕色"} 外套的口袋里。她身穿纯白色 T 恤、宽松的浅蓝色阔腿牛仔裤和米色运动鞋。在她的右侧地板上坐着 {argument name="real cat" default="一只戴着棕色格子小领巾的灰白花色猫咪"}，正看向镜头。在她身后，墙上需绘制 10 个清晰可见的黑色涂鸦元素：左侧是一个巨大的正在比剪刀手的眨眼动漫女孩壁画，下方是一只双爪举起、戴着小领饰的可爱卡通猫，以及 3 个爱心涂鸦、3 个星星或闪光涂鸦，还有 2 组小型动态/强调符号。利用从左侧射入的温暖金色阳光，在墙壁、壁画、女性、地面和猫咪身上投下对角线的窗影条纹。地面为素色灰色水泥地，墙壁为哑光米色，整体氛围柔和、温馨、怀旧且充满魔力。保持真人女性和真实猫咪的照片级写实感，呈现自然的皮肤纹理、逼真的衣物褶皱和准确的阴影，同时墙面艺术保持手绘漫画风格的线条感。以 35mm 编辑人像摄影视角在平视高度拍摄，全身从头到鞋可见，构图居中，女性位于动漫壁画的右侧，暖色调处理，浅至中等景深，高细节，无其他人物，无文字，无水印。
+
+[English]
+Create a cozy ultra-realistic vertical full-body portrait of a young woman standing casually indoors in front of a warm beige wall covered with simple black line-art anime doodles, blending a real person into a cute anime world. The woman is {argument name="character age and appearance" default="a young woman in her late teens with long dark brown hair, soft curtain layers, natural makeup, and a calm gentle expression"}, facing the camera with a relaxed posture, both hands tucked into the pockets of an oversized {argument name="jacket color" default="olive-brown"} jacket. She wears a plain white T-shirt, loose light-blue wide-leg jeans, and beige sneakers. To her right on the floor sits {argument name="real cat" default="a gray-and-white cat wearing a small brown checkered bandana"}, looking toward the camera. Behind her, draw exactly 10 visible black doodle elements on the wall: 1 large winking anime girl mural on the left making a peace sign, 1 cute cartoon cat below it with both paws raised and a small collar charm, 3 heart doodles, 3 star or sparkle doodles, and 2 small motion/accent mark clusters. Use warm golden sunlight entering from the left, casting diagonal window-shadow stripes across the wall, mural, woman, floor, and cat. The floor is plain gray concrete, the wall is matte beige, and the mood is soft, cozy, nostalgic, and magical. Keep the real woman and real cat photorealistic with natural skin texture, realistic fabric folds, and accurate shadows, while the wall art remains hand-drawn manga-style line work. Shoot at eye level with a 35mm editorial portrait feel, full body visible from head to shoes, centered composition with the woman slightly right of the anime mural, warm color grading, shallow-to-moderate depth of field, high detail, no extra people, no text, no watermark.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2081031235594572263) | 2026-07-25
+
+---
+
+### 🖥️ 例 5011：带有涂鸦影子的潮流服饰
+
+![带有涂鸦影子的潮流服饰](../images/%E5%B8%A6%E6%9C%89%E6%B6%82%E9%B8%A6%E5%BD%B1%E5%AD%90%E7%9A%84%E6%BD%AE%E6%B5%81%E6%9C%8D%E9%A5%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个调皮的涂鸦影子正在模仿角色做出 {argument name="shadow pose" default="夸张有趣的姿势"}，而她本人则静静地站着，身穿现代潮流服饰。影子看起来像是手绘的，俏皮且充满个性，与冷静的主体形成了幽默的对比。她穿着 {argument name="outfit" default="时尚的廓形衬衫、工装裤和运动鞋"}。她的面部表情显得很困惑，仿佛完全不知道影子在做什么。
+
+[English]
+A mischievous doodle shadow mimics the character with {argument name="shadow pose" default="exaggerated funny poses"} while she stands still wearing modern trendy clothes. The shadow appears hand-drawn, playful, and full of personality, creating a humorous contrast with the calm subject. She wears a {argument name="outfit" default="fashionable oversized shirt, cargo pants, and sneakers"}. Her facial expression is confused, as if she has no idea what the shadow is doing.
+```
+
+**来源：** [@Shore Lyn](https://x.com/Shorelyn_/status/2080866541495787769) | 2026-07-25
+
+---
+
+### 🖥️ 例 5022：动漫夏日水枪明信片
+
+![动漫夏日水枪明信片](../images/%E5%8A%A8%E6%BC%AB%E5%A4%8F%E6%97%A5%E6%B0%B4%E6%9E%AA%E6%98%8E%E4%BF%A1%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的竖版动漫夏日插画，主角为 {argument name="character name" default="Kiyoka"}，一位穿着运动连体竞速泳装、阳光开朗的少女，着装完整且无任何暗示性内容。场景设定在热带泳池或海滨水上乐园，背景是湛蓝的天空、棕榈树、波光粼粼的深蓝色水面，强烈的阳光从左上方照射下来，形成耀斑。采用近距离低角度的戏剧性广角透视：她向观众倾身，手中拿着一把巨大的蓝黄色水枪直指镜头，喷嘴处喷溅出水花。她表情俏皮充满活力，一只眼睛眨着，另一只明亮的蓝色眼睛睁开，嘴角微扬露出小虎牙，皮肤和头发上沾满了水珠。她留着深海军紫色的湿短发，发丝凌乱，带有发光的蓝色挑染，长着尖尖的精灵耳，戴着蓝色小花耳环和细黑色颈圈。泳装中间为白色，两侧为深海军蓝色，胸前印有 {argument name="swimsuit logo" default="athleis"} 的小型黑色运动风格标志。画面中加入生动的水花、漂浮的气泡、青色光效，并在她周围和水面点缀 6 个发光的小型蓝色蝴蝶或花朵图案。右侧加入竖排发光的日文文字 {argument name="vertical Japanese text" default="暑中見舞い申し上げます"}，使用大型白色明朝体，并带有柔和的青色外发光。采用高精度的动漫主视觉渲染风格，色彩以饱和的蓝色为主，线条清晰，水面反光亮丽，光影电影感强，带有虚化水滴效果，营造出盛夏明信片的节日氛围。构图保持竖版，充满动感、明亮、清新，且符合安全工作环境（SFW）标准。
+
+[English]
+Create a dynamic vertical anime summer illustration featuring {argument name="character name" default="Kiyoka"}, a cheerful teenage girl in a sporty one-piece racing swimsuit, fully clothed and non-suggestive. She is at a tropical swimming pool or beachside water park under an intense blue sky, with palm trees, sparkling ocean-blue water, and strong sunlight flaring from the upper left. The camera is close and low with a dramatic wide-angle perspective: she leans toward the viewer while aiming a large blue-and-yellow water gun directly at the camera, water spraying from the nozzle. Her expression is playful and energetic, with one eye winking, one bright blue eye open, an open smiling mouth with a small fang-like tooth, and wet skin and hair covered in droplets. She has short dark navy-purple wet hair with messy strands, glowing blue highlights, pointed elf-like ears, small blue flower earrings, and a slim black choker. Her swimsuit is white in the center with dark navy side panels and a small black athletic-style logo reading {argument name="swimsuit logo" default="athleis"} on the chest. Add vivid water splashes, floating bubbles, cyan glow effects, and exactly 6 small luminous blue butterfly or flower-like motifs around her and the water. Include vertical glowing Japanese text on the right side reading {argument name="vertical Japanese text" default="暑中見舞い申し上げます"}, set in large white Mincho-style characters with a soft cyan outer glow. Use highly polished anime key visual rendering, saturated blues, crisp linework, glossy water reflections, cinematic lighting, bokeh droplets, and a festive midsummer postcard atmosphere. Keep the composition portrait-oriented, action-packed, bright, refreshing, and safe-for-work.
+```
+
+**来源：** [@らび@AIイラスト咲蓮清鹿クン🦋](https://x.com/kiyoka_succubus/status/2080846013280207120) | 2026-07-25
+
+---
+
+### 🖥️ 例 5029：Mixtape Zine 网页重新设计
+
+![Mixtape Zine 网页重新设计](../images/Mixtape%20Zine%20%E7%BD%91%E9%A1%B5%E9%87%8D%E6%96%B0%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为设计/风格基准，将同一个 Mixtape 广播杂志网页重新生成为修订后的期数模型。保留大胆的复古编辑布局、电光蓝/奶油色/黄色/黑色调色板、超大块状排版、圆形时钟选择器主题、策展人面板、节目流程条以及底部类别卡片结构，但需将页面更新为新一期的外观，并调整内容和优化间距。
+
+需应用的重点更改：
+- 将顶部元数据更改为新一期：7 月 24 日，星期五，第 001 期，并附带一个小的“今日直播”指示器。
+- 将右上角的标题更新为：“一小时 YouTube 精选。由超级粉丝挑选。现已就绪。”
+- 将大型圆形小时拨盘向左移动，使其与主标题产生更强烈的重叠效果。保留中心标签“今日小时 / 音乐视频 / 由 Mara Ortiz 策划”，但旋转外部的五个分段以匹配新的活动顺序。
+- 将当前的“正在播放”专题设为最后一幕，包含大号时间码 {argument name="current timecode" default="00:48"}、标题 {argument name="featured act title" default="The Future Arrives Early"} 以及“剩余 12 分钟”。将专题插图替换为一张深蓝色调的电影感场景，画面中一名穿着西装的男子站在现代建筑环境中，右下角附带小的“正在放映/导演”署名文字。
+- 保留 Mara Ortiz 作为策展人，但使用更深蓝黑色的肖像裁剪，并保持策展人卡片结构：肖像、姓名、简短个人简介、策展人寄语以及“成为策展人 →”。
+
+节目流程条：从左至右创建 5 个节目单元：
+1. “Public Access Fever” — 00:00，已播放，8 分钟
+2. “The Beat Goes Global” — 00:08，已播放，12 分钟
+3. “Directors Turn Auteur” — 00:20，已播放，15 分钟
+4. “Deep Cuts, Big Swings” — 00:35，已播放，13 分钟
+5. “The Future Arrives Early” — 00:48，正在播放，12 分钟
+保留左侧醒目的标签“今日节目流程”和右侧标语“一小时。五幕戏。现场策划。现已就绪。”
+
+底部区域：将之前的下部网格替换为更简洁的 3 张大型预览卡片及一个侧边列表。
+1. {argument name="first preview card" default="Animation After Dark"} — 标注为“今日晚上 9 点”，配以蓝色调动漫眼睛图片。
+2. {argument name="second preview card" default="Cult Sci-Fi"} — 标注为“今日晚上 11 点”，配以复古宇航员/太空头盔图片。
+3. {argument name="third preview card" default="Game Design"} — 标注为“明日中午 12 点”，配以蓝色像素艺术景观图片。
+添加一个左侧蓝色面板，文字为“探索更多小时”，并附带简短的辅助文案和“浏览所有类别 →”。添加一个右侧黑色“正在播放”面板，列出 5 个项目：Internet Lore、Fashion Forward、Reality TV Canon、Hip-Hop Deep Cuts、Skate Culture，以及一个黄色的“查看今日完整指南 →”链接。
+
+风格限制：保留参考资料的高对比度杂志美学、清晰的网格、粗边框、压缩的大写字体、不完美的印刷质感以及屏幕海报感。请勿添加额外的部分、水印、浏览器界面或不相关的 UI。
+
+[English]
+Using REFERENCE_0 as the design/style base, regenerate the same Mixtape broadcast-zine webpage as a revised issue mockup. Keep the bold retro editorial layout, electric blue/cream/yellow/black palette, oversized block typography, circular clock-selector motif, curator panel, running-order strip, and bottom category-card structure, but update the page to look like a new edition with changed content and slightly cleaner spacing.
+
+Key changes to apply:
+- Change the top metadata to a new issue: Friday, July 24, Edition 001, with a small “Live Today” indicator.
+- Update the top-right headline to: “One hour of YouTube. Picked by a superfan. Ready now.”
+- Reposition the large circular hour dial farther left so it overlaps the main title more dramatically. Keep the center label “Today’s Hour / Music Videos / Curated by Mara Ortiz,” but rotate the outer five segments to match the new active order.
+- Make the active “On Now” feature the final act, with large timecode {argument name="current timecode" default="00:48"}, headline {argument name="featured act title" default="The Future Arrives Early"}, and “12 min left.” Replace the feature artwork with a cinematic dark blue scene of a suited man standing in a modern architectural setting, with small now-showing/director credit text in the lower-right.
+- Preserve the curator as Mara Ortiz, but use a darker blue-black portrait crop and keep the curator-card structure: portrait, name, short bio, curator’s note, and “Become a curator →”.
+
+Running order strip: create exactly 5 act cells, left to right:
+1. “Public Access Fever” — 00:00, played, 8 min
+2. “The Beat Goes Global” — 00:08, played, 12 min
+3. “Directors Turn Auteur” — 00:20, played, 15 min
+4. “Deep Cuts, Big Swings” — 00:35, played, 13 min
+5. “The Future Arrives Early” — 00:48, on now, 12 min
+Keep the bold left label “Today’s Running Order” and the right slogan “One hour. Five acts. Curated live. Ready now.”
+
+Bottom section: replace the previous lower grid with a cleaner set of exactly 3 large preview cards plus a side list.
+1. {argument name="first preview card" default="Animation After Dark"} — labeled “Today at 9 PM,” with a blue-toned anime eye image.
+2. {argument name="second preview card" default="Cult Sci-Fi"} — labeled “Today at 11 PM,” with a retro astronaut/space helmet image.
+3. {argument name="third preview card" default="Game Design"} — labeled “Tomorrow at Noon,” with a blue pixel-art landscape image.
+Add a left blue panel reading “Explore More Hours” with short supporting copy and “Browse all categories →”. Add a right black “Also Playing” panel listing exactly 5 items: Internet Lore, Fashion Forward, Reality TV Canon, Hip-Hop Deep Cuts, Skate Culture, plus a yellow “See today’s full guide →” link.
+
+Style constraints: preserve the reference’s high-contrast zine aesthetic, sharp grid, thick borders, condensed uppercase type, imperfect print-like texture, and screen-poster feel. Do not add extra sections, watermarks, browser chrome, or unrelated UI.
+```
+
+**来源：** [@Paul Bakaus](https://x.com/pbakaus/status/2080809955146539224) | 2026-07-25
+
+---
+
+### 🖥️ 例 5030：Lumen Fable 系统提示词
+
+![Lumen Fable 系统提示词](../images/Lumen%20Fable%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将用户的文本、图像或两者重写为 GPT Image Gen V2 或 Nano Banana Pro 的单一提示词。除非明确指定 Nano，否则请使用 GPT。使用用户所用的语言进行撰写，保留原始文本，并维持请求或来源的比例。
+
+使用三个功能。Continuity Field 通过单一冷色系和手绘表面将天空、水面、地面、阴影、距离和广阔的氛围连接起来。Fable Scale 通过改变大小、间距或视觉区域来展示主体所执行的功能。Lumen Mark 在场景结果显现的位置放置一个克制的暖色信号。
+
+不要制作带有随机黄色或红色点缀的装饰性蓝色图像。确定字面主体、主要功能主体、其角色、支撑证据、比例关系、暖色载体、物理成因以及可见结果。
+
+保留主体、数量、身份、动作、设置、服装、物体、颜色、文本和参考角色。对于编辑，保留所有未被要求更改的内容。仅将风格参考用于氛围、轮廓、比例逻辑、色彩层级和表面。不要复制它们的题材、道具、姿势、房屋、杯子、动物、船只或景观。
+
+使用细而不规则的轮廓、可见的纸张纹理、粉笔画质感、擦拭颜料和精选的不透明色彩。保持一个主导冷色系、一个暖色系以及清晰的材质差异。减少距离、雾气、水面和广阔绘制区域的轮廓。
+
+比例变化需要功能性原因，例如遮蔽、聚集、阻挡、使用、保护、运输、关注或依赖。辅助人物和物体必须通过注视、间距、接触、重复或响应来证明该角色。不要为了新奇而扭曲比例。
+
+暖色标记必须属于服装、窗户、火焰、水果、花朵、屋顶、帆、路径、面部平面、反射、标志、工具或接触点。说明其材质和成因。不要使用分散的光晕、装饰性星星或通用的光线轮廓。
+
+使用一个主要比例、一个辅助比例、一个焦点区域和一个实质性的留白区域。删除重复内容、赞美词、情绪标签、声望术语、虚假技术细节、通用缺陷和未解决的替代方案。使用具体名词和主动动词。不要使用长破折号或短破折号。
+
+GPT：返回 500 到 800 字，分为五个段落，涵盖场景、主体、Continuity Field、比例关系、Lumen Mark、构图、保留内容、文本和失败案例。
+
+NANO：仅返回有效的 JSON，1000 到 1800 个 token，使用 "aspect_ratio"、"references"、"scene"、"subjects"、"continuity_field"、"fable_scale"、"lumen_mark"、"composition"、"surface"、"text"、"avoid"。省略未使用的字段。不要包含元数据、ID、权重、注释或重复的事实。
+
+仅返回最终完成的提示词。
+
+[English]
+Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Write in the user's language, preserve exact text, and keep the requested or source ratio.
+
+Use three functions. Continuity Field connects sky, water, ground, shadow, distance, and broad atmosphere through one cool color family and a hand-painted surface. Fable Scale changes size, spacing, or visual territory to show what a subject does. Lumen Mark places one restrained warm signal where the scene's consequence becomes visible.
+
+Do not make a decorative blue image with random yellow or red accents. Determine the literal subject, primary functional subject, its role, supporting evidence, scale relation, warm carrier, physical cause, and visible consequence.
+
+Preserve subject, count, identity, action, setting, clothing, objects, colors, text, and reference roles. For edits, preserve all unrequested content. Use style references only for atmosphere, contour, scale logic, color hierarchy, and surface. Do not copy their subjects, props, poses, houses, cups, animals, boats, or landscapes.
+
+Use thin irregular contour, visible paper grain, chalky wash, rubbed pigment, and selected opaque color. Keep one dominant cool family, one warm family, and clear material differences. Reduce contour in distance, mist, water, and broad painted fields.
+
+Scale changes require a functional cause such as shelter, gathering, obstruction, use, protection, transport, attention, or dependence. Supporting figures and objects must prove that role through gaze, spacing, contact, repetition, or response. Do not distort scale for novelty.
+
+The warm mark must belong to a garment, window, flame, fruit, flower, roof, sail, path, face plane, reflection, sign, tool, or contact point. State its material and cause. No scattered glow, decorative stars, or generic light outlines.
+
+Use one primary scale, one supporting scale, one focal region, and one substantial quiet field. Remove repetition, praise, mood labels, prestige terms, fake technical detail, generic defects, and unresolved alternatives. Use concrete nouns and active verbs. No em dash or en dash.
+
+GPT: return 500 to 800 words in five paragraphs covering scene, subjects, continuity field, scale relation, lumen mark, composition, preservation, text, and failures.
+
+NANO: return valid JSON only, 1000 to 1800 tokens, using "aspect_ratio", "references", "scene", "subjects", "continuity_field", "fable_scale", "lumen_mark", "composition", "surface", "text", "avoid". Omit unused fields. No metadata, IDs, weights, comments, or repeated facts.
+
+Return only the finished prompt.
+```
+
+**来源：** [@Emily](https://x.com/IamEmily2050/status/2080808157102678302) | 2026-07-25
+
+---
+

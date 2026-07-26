@@ -22883,3 +22883,107 @@ Premium vector travel poster of {argument name="location" default="(county)"} in
 
 ---
 
+### 🎴 例 4958：包豪斯风格设计杂志封面
+
+![包豪斯风格设计杂志封面](../images/%E5%8C%85%E8%B1%AA%E6%96%AF%E9%A3%8E%E6%A0%BC%E8%AE%BE%E8%AE%A1%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实设计文化杂志封面，画面主角为一位 {argument name="subject" default="韩国女性"}，身着 {argument name="outfit" default="明黄色结构感西装外套搭配黑色阔腿裤"} —— 与产品配色相呼应 —— 双手横向持有一台 {argument name="synthesizer" default="Teenage Engineering OP-1 Field 合成器"}，手指悬停在微型琴键上，仿佛正在创作，沉浸在创意流中。大胆的图形妆容，锐利的几何眼线，黄色眼影点缀。利落的直发波波头。
+
+背景：干净的白色。
+
+包豪斯风格工作室，配有大胆的黄色色块墙板，超图形化构图。“DEZEEN”刊头采用精准的无衬线字体，并带有“INSTRUMENTS OF DESIGN ISSUE”的标题标注。50mm 镜头，超细节的 OP-1 微型琴键和 OLED 显示屏，8K 照片级设计编辑风格。
+
+负面提示词：卡通，模糊，产品形状错误，水印，畸变。
+
+[English]
+Ultra-realistic design culture magazine cover featuring a creative {argument name="subject" default="Korean woman"} in a {argument name="outfit" default="bold yellow structured blazer and black wide-leg trousers"} — matching the product's colorway — holding a {argument name="synthesizer" default="Teenage Engineering OP-1 Field synthesizer"} horizontally with both hands, fingers hovering over the tiny keys mid-composition, deep in creative flow. Bold graphic makeup, sharp geometric liner, yellow eyeshadow accent. Sleek straight bob.
+
+Background: clean white 
+
+Bauhaus-inspired studio with bold yellow color block wall panels, ultra-graphic composition. "DEZEEN" masthead in precise sans-serif with "INSTRUMENTS OF DESIGN ISSUE" callout. 50mm lens, ultra-detailed OP-1 tiny key and OLED display, 8K photorealistic design editorial.
+
+Negative: cartoon, blurry, incorrect product shape, watermark, distorted.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2081056683128955214) | 2026-07-25
+
+---
+
+### 🎴 例 4959：极简主义高端时尚产品广告
+
+![极简主义高端时尚产品广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E9%AB%98%E7%AB%AF%E6%97%B6%E5%B0%9A%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，展示一个超大号 {argument name="product" default="红牛罐"}，设计极其简洁。一位年轻的运动型女性身穿 {argument name="outfit" default="时髦的红蓝配色套装"}，以自信动感的姿势随意倚靠在巨大的罐子旁，双眼微闭，手中拿着一罐红牛。背景为柔和的蓝红渐变色，后方配有醒目的“Red Bull”大号文字和翅膀标志。光亮的反光地面，柔和的摄影棚灯光，现代高端时尚与产品摄影风格。右上角小字“Designed by Mr Das”。底部中央标语采用小号白色字体：“{argument name="tagline" default="给你一双翅膀。"}”
+
+[English]
+Minimalist commercial ad featuring an oversized {argument name="product" default="Red Bull can"}, ultra clean design. A young athletic woman in a {argument name="outfit" default="sleek red-and-blue outfit"} leans casually against the giant can in a dynamic confident pose, eyes closed, holding a Red Bull can. Soft gradient blue-to-red background with large bold “Red Bull” text and wings logo behind. Glossy reflective floor, soft studio lighting, modern high end fashion and product photography. Small top right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name="tagline" default="Gives You Wings."}”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2081052933895159955) | 2026-07-25
+
+---
+
+### 🎴 例 4998：复古橡胶管风格吉祥物海报
+
+![复古橡胶管风格吉祥物海报](../images/%E5%A4%8D%E5%8F%A4%E6%A9%A1%E8%83%B6%E7%AE%A1%E9%A3%8E%E6%A0%BC%E5%90%89%E7%A5%A5%E7%89%A9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+复古吉祥物海报，采用 4:5 竖版布局，背景为奶油色纸张，仅使用 {argument name="color palette" default="[COLOR1], [COLOR2], [COLOR3] 和 [COLOR4]"}。顶部放置加粗圆润的标题 “{argument name="headline" default="[TITLE]"}”。中心展示一个橡胶管风格的 {argument name="subject" default="[HUMAN]"}，身穿 {argument name="outfit" default="[CLOTHES]"}，与 [ANIMAL] 一起走在 [BACKGROUND] 中，两者均具有派式眼睛（pie-cut eyes）、简单的笑脸、粗而清晰的轮廓、圆润的四肢、超大的鞋子以及俏皮的迈步姿势。在轮廓和填充处添加细微的套印不准效果、轻微的丝网印刷颗粒感、简单的圆形印章图形，并在下部附近添加水平棋盘格条纹。底部放置加粗圆润的标语 “[TAGLINE]”。简洁的复古 T 恤图案，平涂色彩，无渐变，构图清晰简洁。
+
+[English]
+Vintage mascot poster in a vertical 4:5 layout on a cream paper background using only {argument name="color palette" default="[COLOR1], [COLOR2], [COLOR3], and [COLOR4]"}. At the top, place the bold rounded headline “{argument name="headline" default="[TITLE]"}”. In the center, show a rubber hose style {argument name="subject" default="[HUMAN]"} wearing {argument name="outfit" default="[CLOTHES]"} walking beside [ANIMAL] through [BACKGROUND], both with pie-cut eyes, simple smiling faces, thick clean outlines, rounded limbs, oversized shoes, and a playful mid-step pose. Add subtle register misalignment in the outlines and fills, light distressed screen-print grain, a simple circular stamp graphic, and a horizontal checker stripe near the lower section. At the bottom, place the bold rounded tagline “[TAGLINE]”. Clean retro t-shirt graphic, flat colors, no gradients, crisp simple composition.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2080890330409553978) | 2026-07-25
+
+---
+
+### 🎴 例 5025：文艺南京晨报封面
+
+![文艺南京晨报封面](../images/%E6%96%87%E8%89%BA%E5%8D%97%E4%BA%AC%E6%99%A8%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张文艺杂志封面风格的海报，主题为 {argument name="city greeting" default="南京，早安"}。使用 16:9 的宽幅横向画布，背景为柔和的淡橄榄绿，并留出大量安静的负空间。将主要的排版重心置于右上角：巨大的黑色中文书法衬线字体，内容为 {argument name="main headline" default="南京，早安"}，字体厚重、优雅，带有类似墨印杂志刊头的压迫感。在标题正下方，添加一条细横线，横线两侧夹着一行小字副标题“城市清晨问候特辑”，右侧添加斜体英文“Good Morning, Nanjing”。在右侧中部，以精致的黑色衬线数字标注日期 {argument name="date" default="2026.07.25"}，下方配以较小的中文文字：“星期六　农历六月十三”，随后是一个居中的小破折号。在此下方，创建一个紧凑的黄历风格信息块，包含一个小红太阳图标和“今日宜忌”标签，以及点状分割线，并设置 2 个圆形徽章：一个标注“宜”，后接“散心、看树、尝鲜”；另一个标注“忌”，后接“仓促、发呆过头、错过晨光”。在右下角，添加间距拉开的小写英文“CITY MORNING GREETINGS”，后接一条斜杠，以及一句中文引语：“把日子过成诗 / 把清晨过成喜欢的样子”。在左下角，以稚拙的蜡笔画而非写实风格描绘主题对象：共 2 个插画食物，一把装饰性手持折扇和一盘切片盐水鸭（配有橙色蛋黄状中心）。折扇应华丽、圆润，深绿色勾边，填满童趣的漩涡、花朵、云纹，以及黄色、蓝色、白色和绿色的蜡笔涂鸦，配有棕色扇柄和青色流苏。盘子应为一个简单的蓝色勾边椭圆形，内含几片厚实的鸭肉，以粗糙的白色、棕色、橙色和红色蜡笔笔触呈现。在它们周围添加俏皮的小涂鸦：一颗红星、一个绿圆圈、一个黄色波浪线、一株微小的绿色藤蔓装饰、三道短促的白色强调笔触，以及盘子附近的一些蓝色短横线。整体风格：冷静的编辑封面，文艺杂志排版，精致的黑色排版与纯真的蜡笔插画形成对比，极简配色，柔和的纸张质感，无写实感，无多余物体，无水印。
+
+[English]
+Create a literary magazine cover style poster about {argument name="city greeting" default="Nanjing, good morning"}. Use a wide horizontal 16:9 canvas with a muted pale olive-green background and lots of quiet negative space. Place the main typographic weight in the upper-right: huge black Chinese calligraphic serif characters reading {argument name="main headline" default="南京,早安"}, thick, elegant, slightly oppressive like inked magazine masthead typography. Directly beneath the headline, add a thin horizontal rule on both sides of a small Chinese subtitle reading “城市清晨问候特辑”, and to the right add italic English text “Good Morning, Nanjing”. On the right-middle, set the date {argument name="date" default="2026.07.25"} in refined black serif numerals, with smaller Chinese text below: “星期六　农历六月十三”, then a tiny centered dash. Below that, create a compact almanac-style information block with a small red sun icon and the label “今日宜忌”, dotted divider lines, and exactly 2 circular badges: one labeled “宜” followed by “散心、看树、尝鲜”, and one labeled “忌” followed by “仓促、发呆过头、错过晨光”. At the bottom-right, add spaced small caps English “CITY MORNING GREETINGS”, a diagonal slash, and a small Chinese quote: “把日子过成诗 / 把清晨过成喜欢的样子”. In the lower-left, depict the theme object as naive crayon drawing rather than realism: exactly 2 illustrated food objects, a decorative handheld fan and a plate of sliced salted duck with orange egg-like centers. The fan should be ornate, rounded, outlined in dark green, filled with childlike swirls, flowers, cloud motifs, yellow, blue, white, and green crayon scribbles, with a brown handle and teal tassel. The plate should be a simple blue-outlined oval containing several thick slices of duck rendered with rough white, brown, orange, and red crayon strokes. Add small playful doodles around them: one red star, one green circle, one yellow squiggle, one tiny green vine flourish, three short white accent strokes, and a few small blue dash marks near the plate. Overall style: calm editorial cover, literary magazine layout, refined black typography contrasted with innocent wax-crayon illustration, minimal color palette, soft paper texture, no photorealism, no extra objects, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2080830466966651155) | 2026-07-25
+
+---
+
+### 🎴 例 5026：户外披萨生活方式杂志封面
+
+![户外披萨生活方式杂志封面](../images/%E6%88%B7%E5%A4%96%E6%8A%AB%E8%90%A8%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实户外美食生活方式杂志封面，主角是一位快乐的 {argument name="subject nationality" default="韩国"} 女性，身穿亚麻围裙搭配休闲夏装，正将一张烤得恰到好处、带有焦斑的 {argument name="food item" default="那不勒斯披萨"} 送入石质户外厨房的 Ooni Koda 16 燃气披萨烤炉中，在温暖的炉火映照下自然地大笑。阳光亲吻过的透亮肌肤，清新的裸妆感，头发随意扎起。背景：{argument name="background setting" default="华丽的意式户外露台"} —— 温暖的傍晚光线，石墙，模糊的葡萄园背景，跳动的炉火光芒。“BON APPÉTIT” 刊头采用醒目的暖色调无衬线字体，并带有 “FIRE & FEAST ISSUE” 的标题。35mm 镜头，超细节的披萨焦炭纹理和 Ooni 烤炉钢制机身，8K 照片级真实感暖色调生活方式。
+
+[English]
+Ultra-realistic outdoor food lifestyle magazine cover featuring a joyful {argument name="subject" default="Korean woman"} in a linen apron over a casual summer outfit, sliding a perfectly blistered {argument name="food item" default="Neapolitan pizza"} into an {argument name="appliance" default="Ooni Koda 16 gas pizza oven"} on a stone outdoor kitchen, laughing naturally in the warm fire glow. Sun-kissed glowing skin, fresh no-makeup look, hair pulled back loosely. Background: gorgeous Italian-style outdoor terrace — warm evening light, stone walls, blurred vineyard backdrop, fire glow dancing. "BON APPÉTIT" masthead in bold warm sans-serif with "FIRE & FEAST ISSUE" callout. 35mm lens, ultra-detailed pizza char texture and Ooni oven steel body, 8K photorealistic warm lifestyle. 
+
+Negative: cartoon, blurry, incorrect oven shape, watermark, cold tones.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2080828491269025947) | 2026-07-25
+
+---
+

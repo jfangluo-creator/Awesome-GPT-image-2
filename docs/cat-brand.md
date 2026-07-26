@@ -12032,3 +12032,159 @@ Create a highly detailed romantic anime-style fantasy illustration of {argument 
 
 ---
 
+### 🏷️ 例 4954：紫色赛博忍者战斗场景
+
+![紫色赛博忍者战斗场景](../images/%E7%B4%AB%E8%89%B2%E8%B5%9B%E5%8D%9A%E5%BF%8D%E8%80%85%E6%88%98%E6%96%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个黑暗电影感的科幻动漫战斗场景，背景为夜晚荒废的森林，包含 2 个主要角色：后方左侧是一位身穿黑色重型战术动力装甲、头戴全封闭头盔且带有发光紫色护目镜缝隙的未来士兵，正手持武器；前景是一位凶猛的动漫猫耳女战士，{argument name="character name" default="ninja AI"}，留着飘逸的 {argument name="hair color" default="black-purple"} 长发，拥有发光的紫色双眼，身穿黑色战术忍者装甲，正张嘴呐喊，呈现出动态的前冲姿态。她释放出 1 把巨大的半透明紫色能量刃或斩击，从左中向右上呈对角线延伸，充满闪电、火花、粒子轨迹，且刀刃上印有发光的文字 {argument name="blade text" default="忍者 AI"}。在右中背景处添加 1 个被紫色能量环绕的小型手里剑状飞行无人机或投射物。环境为混乱的战乱林地，布满烟雾缭绕的树木剪影、余烬、远处的火光、碎片、风暴云以及随处可见的紫色电弧。采用戏剧性的低角度视角、极强的动态模糊、高对比度、光泽感黑色装甲、洋红色至紫色的轮廓光、超精细数字绘画、动漫与赛博朋克结合的概念艺术、聚焦于两个角色和刀刃的清晰焦点、电影级景深，以及 16:9 宽屏构图。包含 2 个可见的文字元素：发光的刀刃文字，以及右上角一个圆形的奶油色标签，内容为 {argument name="badge text" default="AI-Generated"}。避免血腥，避免额外的主要角色，避免出现其他可读文字，除指定的标签外不得有任何水印。
+
+[English]
+Create a dark cinematic sci-fi anime battle scene in a devastated forest at night, with exactly 2 main characters: a towering black-armored futuristic soldier behind and slightly left, wearing a full helmet with glowing violet visor slits, layered tactical power armor, and a heavy gauntlet gripping a weapon; and a fierce anime cat-eared warrior girl in the foreground, {argument name="character name" default="ninja AI"}, with long flowing {argument name="hair color" default="black-purple"} hair, glowing purple eyes, black tactical ninja armor, an open-mouthed battle shout, and a dynamic forward-lunging pose. She is unleashing exactly 1 enormous translucent violet energy blade or slash stretching diagonally from center-left to upper-right, filled with lightning, sparks, particle trails, and the glowing text {argument name="blade text" default="忍者 AI"} printed across the blade. Add exactly 1 small shuriken-like flying drone or projectile in the mid-right background, surrounded by purple energy. The environment is a chaotic war-torn woodland with smoky silhouettes of trees, embers, distant fires, debris, storm clouds, and purple electrical arcs everywhere. Use dramatic low-angle perspective, extreme motion blur, high contrast, glossy black armor, magenta-violet rim lighting, ultra-detailed digital painting, anime-meets-cyberpunk concept art, sharp focus on the two characters and blade, cinematic depth of field, 16:9 widescreen composition. Include exactly 2 visible text elements: the glowing blade text and a rounded cream label in the top-right corner reading {argument name="badge text" default="AI-Generated"}. Avoid gore, avoid extra main characters, avoid additional readable text, no watermark besides the specified badge.
+```
+
+**来源：** [@The English Cunt](https://x.com/English_Cunt/status/2081108736962154698) | 2026-07-25
+
+---
+
+### 🏷️ 例 4957：夜间漫步人像三联画
+
+![夜间漫步人像三联画](../images/%E5%A4%9C%E9%97%B4%E6%BC%AB%E6%AD%A5%E4%BA%BA%E5%83%8F%E4%B8%89%E8%81%94%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一组写实的竖版手机夜拍三联画，展示同一位年轻女性在深夜城市漫步时的状态，呈现出三张连续的手机抓拍感。
+
+画布：一张 9:16 的高竖版图像，从上到下平均分为 3 个横向照片面板，边缘对齐，无标题、边框、Logo 或水印。
+
+主体：同一位 {argument name="character description" default="20 岁出头、留着深棕色长直发、妆容自然、笑容温和、身材苗条的东亚年轻女性"} 出现在所有 3 个面板中。她穿着 {argument name="outfit" default="修身灰色无袖背心、宽松浅蓝色牛仔裤，背着一个小巧的黑色皮质单肩包，肩带纤细"}。确保她在所有面板中的面部特征保持一致。
+
+场景：深夜的城市人行道，右侧是光洁的白色长方形瓷砖墙，左侧是安静的道路、人行横道线、金属杆、栏杆、玻璃倒影、远处的公寓窗户、交通灯和路灯。使用冷暖交织的街灯照明，白色瓷砖的反光，湿润的质感，背景带有柔和的城市光斑。
+
+面板数量与姿势：共 3 个面板。面板 1（顶部）：中景，她沿着人行道行走，从背后和侧面拍摄，她转头回眸，对着镜头露出温柔的微笑。面板 2（中部）：近景人像，她面向镜头，伸出一只手挡在镜头前，做出俏皮的动作；前景中的手部较大且带有动态模糊，而她微笑的面孔在手后清晰可见。面板 3（底部）：蹲坐在瓷砖墙边，双膝弯曲，一只手肘撑在膝盖上，脸颊靠在手上，抬头看着镜头，露出放松而亲昵的微笑；黑色单肩包放在身侧。
+
+摄影与风格：超写实手机夜景抓拍风格，自然的皮肤纹理，浅景深，28mm 广角手机镜头感，轻微的手持视角，高 ISO 但画面纯净，仅在伸出的手部有真实的动态模糊，电影感的城市灯光，头发和瓷砖上有柔和的高光，整体呈现灰蓝色调的夜色，点缀着温暖的琥珀色反光。
+
+约束条件：画面中不得出现任何文字。不要添加额外的人物。各面板之间服装不得改变。保持解剖结构真实、面部特征一致，并符合写实的手机摄影构图。
+
+[English]
+Goal: Create a realistic vertical mobile-night-photography triptych of the same young woman during a late-night city walk, with the feeling of three consecutive casual snapshots captured on a phone.
+
+Canvas: A tall vertical 9:16 image divided into exactly 3 equal horizontal photo panels stacked top to bottom, edge-to-edge with no captions, borders, logos, or watermark.
+
+Subject: The same {argument name="character description" default="young East Asian woman in her early 20s with long loose dark brown hair, natural makeup, soft smile, slim build"} appears in all 3 panels. She wears {argument name="outfit" default="a fitted gray sleeveless tank top, loose light blue jeans, and a small black leather shoulder bag with thin straps"}. Keep her face consistent across all panels.
+
+Setting: Late-night urban sidewalk beside a glossy white rectangular-tile wall on the right, with a quiet road, crosswalk markings, metal poles, railings, glass reflections, distant apartment windows, traffic lights, and streetlights on the left. Use mixed cool and warm street lighting, reflective white tiles, wet-looking highlights, and soft city bokeh in the background.
+
+Panel count and poses: Use exactly 3 panels. Panel 1, top: medium shot from behind and slightly to the side as she walks along the sidewalk, turning her head back over her shoulder toward the camera with a gentle smile. Panel 2, middle: closer portrait, she faces the camera and reaches one open hand toward the lens to block it playfully; the hand is large and motion-blurred in the foreground while her smiling face remains visible behind it. Panel 3, bottom: seated crouching pose beside the tiled wall, knees bent, one elbow resting on her knee and cheek leaning on her hand, looking up at the camera with a relaxed affectionate smile; black shoulder bag visible near her side.
+
+Camera and style: Hyper-realistic candid smartphone night mode photography, natural skin texture, shallow depth of field, 28mm wide-angle mobile lens feel, slight handheld perspective, high ISO but clean, realistic motion blur only on the reaching hand, cinematic urban lighting, soft highlights on hair and tiles, muted gray-blue night palette with warm amber reflections.
+
+Constraints: Keep the scene text-free. Do not add extra people. Do not change clothing between panels. Maintain believable anatomy, consistent facial identity, and realistic phone-photo composition.
+```
+
+**来源：** [@小森映像](https://x.com/komorimedia/status/2081064706035589250) | 2026-07-25
+
+---
+
+### 🏷️ 例 4963：刨冰机下的黑猫
+
+![刨冰机下的黑猫](../images/%E5%88%A8%E5%86%B0%E6%9C%BA%E4%B8%8B%E7%9A%84%E9%BB%91%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实风格的低角度夏季街头照片，画面中一只受惊的 {argument name="cat color" default="black"} 猫正站在一台复古日式手摇刨冰机正下方。一堆明亮的白色碎冰像雪帽一样堆在猫头上，冰屑在它脸部周围飞溅落下。猫咪有着圆圆的黄绿色眼睛，微张的小嘴露出细小的尖牙，胡须湿润，脖子上戴着系有金色小铃铛的红色项圈。刨冰机高大且带有岁月痕迹，漆面呈青蓝色，精致的金属支架环绕着猫咪，右上角有一个巨大的圆形手摇轮，猫咪上方是圆柱形的刨冰桶。机器顶部有一个装饰性招牌，上面写着红色的汉字 {argument name="top sign text" default="氷"}，周围环绕着蓝色波浪纹和红色小花。背景左侧包含 1 面在微风中倾斜的悬挂布旗，旗帜上垂直印有 {argument name="banner text" default="かき氷"}，底部带有蓝色波浪图案。场景设定在户外，背景是湛蓝的天空和零星的蓬松白云，强烈的正午阳光，清晰的阴影，闪烁的冰晶，逼真的毛发细节，浅景深，营造出一种幽默的抓拍感。采用 1:1 正方形构图，猫咪位于下半部分中心，刨冰机高耸于其上方，画面中没有其他动物，没有其他人，且无水印。
+
+[English]
+Create a photorealistic low-angle summer street photo of a startled {argument name="cat color" default="black"} cat standing directly under a vintage Japanese hand-cranked shaved-ice machine, with a mound of bright white crushed ice piling on the cat’s head like a snowy hat while ice flakes spray and fall around its face. The cat has wide green-yellow eyes, an open tiny mouth with small fangs visible, wet whiskers, and a red collar with a small gold bell. The shaved-ice machine is tall, weathered, and painted teal-blue, with ornate metal legs framing the cat, a large circular crank wheel on the upper right, and a cylindrical ice-shaving drum above the cat. At the top of the machine is a decorative sign with the red kanji {argument name="top sign text" default="氷"} surrounded by blue wave motifs and small red flowers. On the left side in the background, include exactly 1 hanging fabric banner angled in the breeze, printed vertically with {argument name="banner text" default="かき氷"} in red and blue wave graphics near the bottom. Set the scene outdoors under a vivid blue sky with scattered fluffy white clouds, strong midday sunlight, crisp shadows, sparkling ice particles, realistic fur detail, shallow depth of field, and a humorous candid snapshot feeling. Use a square 1:1 composition, the cat centered in the lower half, the shaved-ice machine towering above it, no extra animals, no extra people, and no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081029891764736460) | 2026-07-25
+
+---
+
+### 🏷️ 例 4969：半精灵女仆奉茶
+
+![半精灵女仆奉茶](../images/%E5%8D%8A%E7%B2%BE%E7%81%B5%E5%A5%B3%E4%BB%86%E5%A5%89%E8%8C%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高度精细的电影级奇幻肖像，描绘 {argument name="character description" default="一位年轻的贵族府邸半精灵女仆"} 在奢华的贵族宅邸沙龙中奉茶的场景。她拥有精致的尖耳朵、白皙的皮肤、柔和的棕色双眸，一头浅棕色长发部分编织、部分披散，身体前倾看向观众，表情平静温柔。为她穿上一套精致的维多利亚时代女仆装：黑色长袖连衣裙，带有细腻华丽的布料纹理，搭配白色荷叶边围裙、蕾丝饰边紧身胸衣、蕾丝袖口、褶皱肩带、领口黑色蝴蝶结以及白色蕾丝女仆头饰。她正小心翼翼地将一个瓷质茶杯和茶托放在一张抛光雕花木茶几上。茶几上必须清晰可见 3 件茶具：她手中拿着的一个带茶托的茶杯、一个华丽的瓷质茶壶，以及一个配套的小糖罐或奶罐。在右侧边缘添加一条白色蕾丝桌旗和一束浅色玫瑰。场景设定为一个豪华的欧洲贵族客厅，左侧摆放着古董雕花沙发，高大的落地窗挂着厚重的花纹窗帘，配有镀金家具，右侧是壁炉，墙上挂着烛台，桌上有一盏暖色台灯，背景中有一幅巨大的装裱肖像画。使用温暖的午后窗光，柔和的金色高光，浅景深，逼真的皮肤和布料纹理，优雅的奇幻氛围，超精细的绘画感写实风格，4:5 竖构图，平视亲密视角，无文字，无水印。
+
+[English]
+Create a highly detailed cinematic fantasy portrait of {argument name="character description" default="a young noble-house half-elf maid"} serving tea in an opulent aristocratic mansion salon. She has delicate pointed elf ears, fair skin, soft brown eyes, long light-brown hair partly braided and loose, and a calm gentle expression while leaning forward toward the viewer. Dress her in an elaborate Victorian maid outfit: black long-sleeved dress with subtle ornate fabric texture, white ruffled apron, lace-trimmed bodice, lace cuffs, frilled shoulder straps, black ribbon bow at the collar, and a white lace maid headdress. She is carefully placing a porcelain teacup and saucer on a polished carved wooden tea table. Include exactly 3 visible tea service pieces on the table: one teacup with saucer in her hands, one ornate porcelain teapot, and one small matching sugar pot or creamer. Add a white lace table runner and a bouquet of pale roses at the right edge. The setting is a luxurious European noble parlor with antique carved sofa on the left, tall sunlit windows with heavy patterned drapes, gilded furniture, marble fireplace on the right, candle sconces, a warm table lamp, and a large framed portrait painting in the background. Use warm late-afternoon window light, soft golden highlights, shallow depth of field, realistic skin and fabric textures, elegant fantasy atmosphere, ultra-detailed painterly photorealism, vertical 4:5 composition, eye-level intimate framing, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081012647076708809) | 2026-07-25
+
+---
+
+### 🏷️ 例 4972：夏日巴士站的赛马娘
+
+![夏日巴士站的赛马娘](../images/%E5%A4%8F%E6%97%A5%E5%B7%B4%E5%A3%AB%E7%AB%99%E7%9A%84%E8%B5%9B%E9%A9%AC%E5%A8%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满活力的夏日动漫插画，采用精致的抽卡游戏主视觉风格，构图为 3:4 竖版。画面中需精确展示 2 位赛马娘角色，她们坐在向日葵花田旁一个质朴的木制巴士站候车亭阴凉处，背景是湛蓝的烈日天空。右侧的主角色为 {argument name="main character" default="大和赤骥 (Daiwa Scarlet)"}，一位高挑的红发赛马娘，留着长长的双马尾，拥有马耳、红瞳，佩戴宝石发带和蓬松的蓝色发饰；她身穿深海军蓝色的无袖连衣裙，裙摆带有褶边和金色小纽扣，因炎热而显得有些局促，正吃着一支半透明的亮蓝色冰棒。左侧的第二位角色为 {argument name="second character" default="东海帝皇 (Tokai Teio)"}，一位娇小的棕发赛马娘，拥有马耳、明亮的蓝瞳，戴着一顶装饰有向日葵的宽檐草帽，身穿带有淡蓝色丝带装饰的红色夏装；她同样在吃着一支半透明的亮蓝色冰棒。画面中需精确包含 2 支蓝色冰棒、2 位赛马娘角色、1 顶草帽、草帽上 1 个向日葵装饰、1 个装满彩色冷饮的柳条野餐篮、1 个红白相间的巴士站牌（上面写着“SunFlower COAST CARE”和“BUS STOP”）、1 个悬挂的蓝白风铃，以及 1 只附着在候车亭柱子上的蝉。在左侧添加醒目的竖排白色日文书法，内容为 {argument name="summer greeting text" default="暑中お見舞い申し上げます"}。整体氛围应既炎热又清爽：左上方强烈的阳光和镜头光晕、闪烁的高光、天空中细小的烟花状白色光点、一架留下一道白色尾迹的小飞机、蓬松的积雨云、远处的青山以及低矮围栏后的一片黄色向日葵花海。使用高饱和度色彩、光泽感的皮肤高光、清晰的赛璐珞动漫渲染、细腻的发丝细节、戏剧性的暖色轮廓光、强烈的蓝黄对比以及柔和的大气光晕。构图需保持近景并聚焦于角色，候车亭屋顶作为顶部边框，左侧的竖排问候文字需清晰易读。无水印，无多余角色，除指定的文字外，不得包含任何额外的标志或文本。
+
+[English]
+Create a vibrant summer anime illustration in a polished gacha-game key visual style, vertical 3:4 composition. Show exactly 2 horse-girl characters sitting in the shade of a rustic wooden bus stop shelter beside a vast sunflower field under a blazing blue sky. The main character on the right is {argument name="main character" default="Daiwa Scarlet"}, a tall red-haired horse girl with long twin ponytails, horse ears, red eyes, a jeweled headband, and a fluffy blue hair accessory; she wears a dark navy-blue sleeveless sundress with ruffles and small gold buttons, looking slightly flustered from the heat while eating a translucent bright-blue ice pop. The second character on the left is {argument name="second character" default="Tokai Teio"}, a smaller brown-haired horse girl with horse ears, bright blue eyes, a wide straw sunhat decorated with a sunflower, and a red summer dress with pale blue ribbon trim; she also eats a translucent bright-blue ice pop. Count and include exactly 2 blue ice pops, exactly 2 horse-girl characters, exactly 1 straw hat, exactly 1 sunflower ornament on the hat, exactly 1 wicker picnic basket filled with colorful cold treats, exactly 1 red-and-white bus stop sign reading “SunFlower COAST CARE” and “BUS STOP,” exactly 1 hanging blue-and-white wind chime, and exactly 1 cicada clinging to the shelter post. Add large vertical white Japanese calligraphy on the left side reading {argument name="summer greeting text" default="暑中お見舞い申し上げます"}. The setting should feel extremely hot yet refreshing: intense sunlight and lens flare from the upper left, sparkling highlights, small decorative fireworks-like white bursts in the sky, a tiny airplane leaving a white contrail, fluffy cumulus clouds, distant green mountains, and a sea of yellow sunflowers behind a low fence. Use saturated colors, glossy skin highlights, crisp cel-shaded anime rendering, detailed hair strands, dramatic warm rim lighting, strong blue-yellow contrast, and soft atmospheric bloom. Keep the composition close-up and character-focused, with the shelter roof framing the top and the vertical greeting text clearly legible on the left. No watermark, no extra characters, no additional signs or text beyond the specified lettering.
+```
+
+**来源：** [@✨アクア✨@AIイラスト](https://x.com/Aqua_Fate2/status/2080986430562791596) | 2026-07-25
+
+---
+
+### 🏷️ 例 4983：柔和色调鱿鱼女仆卧室插画
+
+![柔和色调鱿鱼女仆卧室插画](../images/%E6%9F%94%E5%92%8C%E8%89%B2%E8%B0%83%E9%B1%BF%E9%B1%BC%E5%A5%B3%E4%BB%86%E5%8D%A7%E5%AE%A4%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张柔和色调的动漫插画，描绘 {argument name="character name" default="一位害羞的鱿鱼主题女仆女孩"} 坐在明亮简约卧室的高床边缘。采用低角度视角，使她巨大的厚底鞋占据前景，脸部向下俯视观众。她是一位娇小的动漫少女，留着 {argument name="hair color" default="黑色短波波头，内层染成粉色"}，皮肤白皙，睡眼惺忪，表情略显羞涩。她身穿黑白相间的荷叶边女仆风格连衣裙，露肩剪裁，带有白色饰边的黑色长款分离式袖子，白色褶皱围裙边，黑色吊带，白色过膝袜，蓬松的白色腿套，以及带有粉色饰边的厚底黑色玛丽珍鞋。整个设计采用 {argument name="accent color" default="薄荷绿和柔粉色"} 作为主色调。画面中需包含 7 个清晰可见的鱿鱼/章鱼元素：女仆头饰上的薄荷绿鱿鱼帽、一个薄荷绿鱿鱼发夹、胸前的一个薄荷绿鱿鱼徽章、怀里抱着的一个薄荷绿鱿鱼毛绒玩具、袜子上的一处薄荷绿鱿鱼印花、鞋子上的一个粉色章鱼徽章，以及饮料杯上的一个薄荷绿鱿鱼图案。画面中需包含 4 个清晰可见的蝴蝶结：领口处的一个薄荷绿蝴蝶结、袖子上的一个薄荷绿蝴蝶结、袜子顶端的一个粉色蝴蝶结，以及腿套上的一个粉色蝴蝶结。将她置于一个干净的柔和色调房间中，背景为淡蓝色墙壁、白色天花板、白色家具、淡蓝色床垫、一张带有粉色饰带的圆形白色边桌，桌上放着一杯加冰并插有粉色吸管的透明饮料杯。添加柔和的背景道具：一扇带有淡蓝色钥匙孔状海报的白色门，以及一个放有书籍和粉色边框物品的白色矮柜或书桌。风格应为高质量的日式动漫角色艺术，线条细腻，光线通透，低对比度，具有光泽感的高光，微妙的腮红，干净的赛璐珞阴影，柔和的白色留白，以及可爱的未来感 kawaii 美学。使用垂直的 {argument name="aspect ratio" default="2:3"} 构图，无文字，无水印，无多余角色。
+
+[English]
+Create a soft pastel anime illustration of {argument name="character name" default="a shy squid-themed maid girl"} sitting on the edge of a high bed in a bright minimalist bedroom, viewed from a low angle so her oversized platform shoes dominate the foreground and her face looks down toward the viewer. She is a petite teenage anime girl with {argument name="hair color" default="short black bob hair with pink-dyed inner ends"}, pale skin, sleepy half-lidded eyes, and a slightly embarrassed expression. Her outfit is a black-and-white frilly maid-inspired dress with an off-shoulder cut, long detached black sleeves with white trim, a white ruffled apron edge, black garter straps, white knee socks, puffy white leg warmers, and chunky black Mary Jane platform heels with pink trim. Use {argument name="accent color" default="mint turquoise and soft pink"} throughout the design. Include exactly 7 visible squid/octopus motifs: one mint squid hat perched on her maid headband, one mint squid hair clip, one mint squid emblem on her chest, one mint squid plush held in her lap, one mint squid print on her sock, one pink octopus emblem on the shoe, and one mint squid graphic on the drink cup. Include exactly 4 visible bows: a mint bow at her collar, a mint bow on her sleeve, a pink bow at the top of her sock, and a pink bow on her leg warmer. Place her in a clean pastel room with pale blue walls, white ceiling, white furniture, a pale blue mattress, a round white side table with a pink band, and a transparent drink cup with ice and a pink straw on the table. Add soft background props: a white door with a pale blue keyhole-like poster, a low white cabinet or desk with stacked books and a pink-framed object. The style should be high-quality Japanese anime character art, delicate linework, airy lighting, low contrast, glossy highlights, subtle blush, clean cel shading, soft white negative space, and a cute futuristic kawaii aesthetic. Use a vertical {argument name="aspect ratio" default="2:3"} composition, no text, no watermark, no extra characters.
+```
+
+**来源：** [@WTR](https://x.com/wtry1102/status/2080937240147239407) | 2026-07-25
+
+---
+
+### 🏷️ 例 4985：照片转动漫风格
+
+![照片转动漫风格](../images/%E7%85%A7%E7%89%87%E8%BD%AC%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据上传的日常照片，创作两幅风格迥异的动漫插画，并确保人物特征保持一致。在保持脸型、五官比例、标志性发型、年龄感和整体气质不变的前提下，将图像完全转换为高质量的动漫风格。两幅作品都应呈现出鲜明的动漫感而非写实感，具备生动的线条、干净的赛璐璐阴影、大胆的图形化阴影、鲜艳的高饱和度色彩、清晰的面部细节以及海报级的精致质感。图像 1 — {argument name="style one" default="都市流行动漫风"} 一张充满活力、俏皮的动漫海报，采用动态广角视角和动感姿势。角色拥有富有表现力的笑容、生动的手势和自信的肢体语言。将背景重构为一个色彩缤纷的动漫城市，充满霓虹灯、漂浮的心形、闪烁的星星、漫画对话框、速度线、可爱贴纸、迷你吉祥物、手绘涂鸦、彩色几何图形和有趣的音效。整体构图应显得年轻、令人兴奋、大胆且极具视觉冲击力，具备出色的视觉层级，非常适合在社交媒体上传播。图像 2 — {argument name="style two" default="梦幻奇幻动漫风"} 创作一幅构图完全不同的作品，营造出充满魔力的奇幻氛围。使用 {argument name="perspective" default="电影级低角度视角"} 和优雅、富有表现力的姿势，展现流畅的动感。将原始背景替换为奇幻世界，包含发光的夜空、漂浮岛屿、巨型花朵、魔法光点、蝴蝶、闪烁星辰、可爱的奇幻生物、丝带、云朵、彩色渐变、装饰性边框以及优雅的动漫图形元素。整体氛围应迷人、感性、富有想象力且视觉丰富，同时保持清晰的轮廓、生动的表情、精致的插画质量以及充满活力的优质动漫美学，适合作为社交媒体上的爆款艺术作品。
+
+[English]
+Create TWO completely different anime illustrations from the uploaded everyday photo while preserving the same person's identity. Keep the facial shape, facial feature proportions, recognizable hairstyle, age impression, and overall personality consistent, but fully transform the image into a vibrant, high-quality anime style. Both images should be unmistakably animated rather than photorealistic, with expressive linework, clean cel shading, bold graphic shadows, vivid high-saturation colours, crisp facial detail, and a polished poster-quality finish.
+
+IMAGE 1 — {argument name="style one" default="Urban Pop Anime"}
+A playful, energetic anime poster with a dramatic wide-angle perspective and dynamic pose. The character has an expressive smile, lively hand gesture, and confident body language. Reimagine the background as a colourful anime city filled with neon signs, floating hearts, sparkling stars, comic speech bubbles, motion lines, kawaii stickers, tiny mascots, hand-drawn doodles, colourful geometric graphics, and fun sound effects. The composition should feel youthful, exciting, bold, and instantly eye-catching, with excellent visual hierarchy and strong social-media appeal.
+
+IMAGE 2 — {argument name="style two" default="Dreamy Fantasy Anime"}
+Create a completely different composition with a magical fantasy atmosphere. Use a cinematic low-angle perspective and graceful, expressive pose with flowing movement. Replace the original background with a whimsical fantasy world featuring glowing skies, floating islands, oversized flowers, magical sparkles, butterflies, glowing stars, cute fantasy creatures, ribbons, clouds, colourful gradients, decorative frames, and elegant anime-inspired graphic elements. The mood should feel charming, emotional, imaginative, and visually rich while maintaining a clean silhouette, expressive face, polished illustration quality, and a vibrant, premium anime aesthetic suitable for viral social-media artwork.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2080927092829765933) | 2026-07-25
+
+---
+

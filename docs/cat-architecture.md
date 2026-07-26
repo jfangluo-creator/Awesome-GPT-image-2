@@ -3292,3 +3292,136 @@ Editorial architecture photography of a {argument name="architecture style" defa
 
 ---
 
+### 🏛️ 例 4949：夏季天台时尚人像
+
+![夏季天台时尚人像](../images/%E5%A4%8F%E5%AD%A3%E5%A4%A9%E5%8F%B0%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+街より高い休息
+
+主体：
+{argument name="場所" default="晴れた夏の都市屋上"}で、コンクリートの低い立ち上がりに腰掛ける成人女性を一人描く。人物は画面中央に全身で配置し、頭頂から左右の靴先までを縦長画面に収める。人物の占有率は縦方向の約75％。上部には淡い青空を広く残し、人物の背後に金属製の手すりと都市住宅を置く。
+
+人物・表情：
+明るいアイボリーベージュの肌に、淡いピンクの自然な血色。頬、鼻先、鎖骨、肩、脚に柔らかなハイライトを入れ、肌理を残した繊細な質感。ローズピンクのチーク、ピンクブラウンのアイメイク、細く長いまつ毛、自然な涙袋、柔らかなブラウン眉、透け感のあるピンクベージュのリップ。瞳に小さなキャッチライト。{argument name="髪型" default="長いダークブラウンのストレートヘアと薄い前髪"}。頭を人物自身の右へ傾け、正面のカメラを静かに見つめる。口元はわずかに開いた穏やかな表情。
+
+服装・ポーズ：
+{argument name="服装" default="白いレースのキャミソールに、ごく薄いアイボリーのシアーカーディガン"}を羽織る。カーディガンは両肩から少し落ち、袖口は手首まで届く。ベージュ、ブラウン、白の細かなチェック柄フレアミニスカート、白いルーズソックス、艶のあるダークブラウンの厚底ローファー。両脚を左右へ大きく開き、膝を軽く曲げて靴底を床に安定させる。上体は少し前傾し、両腕を膝の間へ自然に下ろす。左右の手を近づけ、指先は力を抜いて下へ向ける。腰と太腿が壁面に正しく接触し、衣服には座った重みに沿う自然な皺を入れる。
+
+背景・光：
+前景は日差しを受けた粗いコンクリート床。中景に低い壁と水平の金属手すり。後景にはグレーの集合住宅、窓、屋上設備、遠くの塔状建築、わずかな緑を配置し、細部は柔らかくぼかす。夏の日中の白く澄んだ自然光が画面左上から入り、髪の輪郭、顔の左側、肩、太腿、すねを明るく照らす。影は画面右下へ淡く伸び、床と壁から冷たい反射光が返る。
+
+構図・カメラ：
+縦長9:16の全身ファッションポートレート。カメラは人物の腰より少し低い高さから、ほぼ正面の平視。脚が画面下部の左右へ広がる安定した三角構図。顔は画面中央より少し上、靴は左右下端付近に置く。50mm前後の自然な遠近感。顔と上半身に精密にピントを合わせ、背景は浅い被写界深度で滑らかにぼかす。
+
+質感・スタイル：
+清潔感のある夏のファッション写真。白いレースの細かな編み目、薄い布の透過感、髪一本一本の流れ、ローファーの革の光沢、コンクリートの粒子を丁寧に描写する。淡いブルー、アイボリー、ベージュ、ブラウンを中心にした低彩度の色調。柔らかなコントラスト、自然な肌質、透明感のあるデジタル写真仕上げ。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2081157045533958405) | 2026-07-25
+
+---
+
+### 🏛️ 例 4975：埃及女祭司沙尘暴电影艺术
+
+![埃及女祭司沙尘暴电影艺术](../images/%E5%9F%83%E5%8F%8A%E5%A5%B3%E7%A5%AD%E5%8F%B8%E6%B2%99%E5%B0%98%E6%9A%B4%E7%94%B5%E5%BD%B1%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超高级的暗黑奇幻沙漠电影艺术作品，绝对忠实于图 1 的结构。最终图像必须保留图 1 的精确构图逻辑、空间层次、沙暴位置、沙流方向、人物比例和垂直戏剧紧张感，同时描绘一位自定义的古埃及女祭司女王。艺术作品必须与同系列语言保持高度统一：一个巨大的女性形象在沙尘暴中站立并前行，包裹在流动的仪式织物中，她的身体与灰尘、烟雾、沙粒和开边流体大气物质深度融合。没有可读文字，没有标志，没有标题，没有布局元素。核心构图：使用与图 1 完全相同的垂直构图逻辑。将一位古埃及女祭司女王放置在画面的中下方到中左侧区域，站在对角倾斜的沙丘表面。她的身体必须穿过浓密的沙尘迷雾向上升起，而一个巨大的风暴状沙云在她身后和上方膨胀，占据图像的上半部分。保留孤单人物、升起的沙体、周围的尘埃氛围和上方沉重的沙尘暴云之间的确切关系。保持图像冷峻、垂直且宏伟。角色设计：创造一个自创的古埃及女祭司女王，让人感到皇室般、神圣、政治上绝对且可怕地冷静。她必须具有逼真的女性解剖结构，高贵的面部结构，深色的眼线，高耸的仪式头饰或眼镜蛇皇冠变体，精致的神圣徽章细节，强大的埃及项圈，以及分层的风化长袍，既有皇室感又有葬礼神圣感。她必须感觉像是一个被遗忘的沙漠之神的活体容器。姿势和手势逻辑：以清晰的权威和解剖学的正确性重建姿势。女祭司以一种充满命令感的、向前迈进的姿态站立在整体构图逻辑中，但现在她的右手必须紧握一支仪仗式的埃及权杖、法杖或神圣权威杆，而她的左臂则自然下垂，处于放松但强大的休息位置。手势必须感到冷静、绝对和主权，而不是戏剧性的。右臂、手腕和握力必须清晰可信。左臂必须保持自然向下延伸，并具有正确的肩-肘-腕对齐。解剖约束：这至关重要。将人体解剖结构锁定为完全正确且可信。没有额外的肢体，没有断裂的手臂结构，没有融合的肘部，没有缺失的关节，没有畸形的肩膀。双手必须正好有五个手指，具有正确的手指间距、关节逻辑、拇指放置、肌腱流动和可信的抓握力学。右手必须自然地握住权杖，并具有正确的抓取解剖。左手必须在解剖学上正确、放松、优雅且完全像人类。保留写实的女性比例、锁骨逻辑、肩宽、臂长、手腕尺寸和手部比例。乳白云轨道光影逻辑：净化最重要的权力区域：面部、头饰、锁骨、肩膀、右前臂、权杖握把和上躯干必须获得更多神圣、精致的光影分离。这些照亮区域应透出灰尘，散发出安静但压倒性的权威。奶油光晕过渡融合逻辑：保持骨架不变，但进一步扩展沙融合的下半身和拖尾长袍过渡。下半身、长袍边缘、侧面轮廓和拖尾织物必须感觉到越来越多地溶解在烟沙湍流中，仿佛她是从风暴本身不断形成的。边缘必须保持开放且美丽的不稳定，永远不要密封或切断。古代神权逻辑：加强古代政教合一权力的感觉。女祭司必须感觉像是来自失落沙漠邪教的女祭司女皇，承载着比帝国更古老的神圣合法性。让神圣的权威活在她的举止、材质语言和她握住权力法杖的方式中。没有装饰性的道具过载。权杖逻辑：右手的权杖必须感觉是仪式性的、古老的、优雅且强大的。它可以参考埃及神圣法杖语言，但必须保持精致并与人物视觉整合。它不应比女性本身更主导图像。法杖必须支持剪影和姿势的权威。沙尘暴和特效：使用极其丰富的 UE5 级流体和粒子效果。在角色周围环绕流动的沙带、烟雾状的沙尘湍流、细小的沙粒碎片、漂浮的灰烬状粒子和翻滚的风暴密度。她身后的上方云团必须感觉像是一个活生生的神圣风暴形成，沉重且具雕塑感，而更细小的粒子则以更薄的层次包裹着角色。一切都必须感觉高端、可信且受控。光影：使用极度细腻、柔和的、经过灰尘过滤的电影照明。光线必须以奢华的柔和度揭示女祭司的面部、皇冠、项圈、肩膀、长袍褶皱、权杖和关键的沙子轮廓。保持发光的沙漠琥珀氛围，具有精致的高光衰减和柔和的阴影过渡。照明必须感觉神圣、风暴扩散且昂贵。面部和皮肤：以卓越的写实感和权威渲染面部：写实的皮肤纹理、细微的毛孔、高贵的骨骼结构、精确的眼妆、柔和风化的沙漠肤色以及冷静但威严的表情。眼睛必须蕴含巨大的继承力量。布料和材质：将长袍渲染为具有精细纹理、风化神圣优雅和强烈风感的层叠仪式沙漠织物。织物必须感觉真实、触感良好且飘逸，有些部分完全清晰可读，其他部分溶解在灰尘中。从纺织品到烟沙流的过渡必须是无缝且宏伟的。环境：保持背景极简，以风暴氛围为主。保留右下方到下方前景区域的沙丘坡度，以及上方区域的巨型沙云。没有建筑，没有额外角色，没有装饰性道具。印刷美学：在整个图像上应用高级颗粒印刷处理。结果必须感觉像是收藏级的奇幻版画，具有触感颗粒、优雅的模拟丰富度和微妙的表面深度。颗粒应增强沙子渐变、烟雾过渡和长袍纹理，而不使图像模糊。清晰度：保持面部、头饰、项圈、权杖握把、手部、关键长袍褶皱和中央沙流边缘极度清晰且细节分明，而外部灰尘和远处的风暴区域则保持较柔和。色彩方向：使用受控的沙漠调色板，包括深赭石、沙金、焦琥珀、棕褐色、灰褐色、烟褐和阴影大地色调，带有神圣青铜和古代神庙金色的底色。保持整个图像温暖、庄严、风暴感重且单色统一。渲染风格：UE5 超写实古埃及女祭司女王在沙尘暴中，完全遵循图 1 构图逻辑，右手握神圣权杖，左手自然垂下，解剖学正确的五指手，身体与尘土的开边融合，飘逸的仪式长袍，雕塑感的神圣风暴云，高级粒子沙子效果，神圣柔和的电影沙漠照明，颗粒印刷处理，锐利细节，世界级画质，8k
+
+[English]
+Create an ultra-premium dark fantasy desert cinematic artwork that follows Figure 1 with absolute structural fidelity. The final image must preserve the exact composition logic, spatial hierarchy, storm placement, sand-flow direction, figure scale, and vertical dramatic tension of Figure 1, while depicting a self-created ancient Egyptian sorceress-queen. The artwork must remain absolutely unified with the same series language: one monumental female figure standing and advancing through a sandstorm, wrapped in flowing ceremonial fabric, with her body deeply fused with dust, smoke, sand particles, and open-edge fluid atmospheric matter. No readable text, no logo, no title, no layout elements. Core composition: Use the exact same vertical composition logic as Figure 1. Place one single ancient Egyptian sorceress-queen in the lower-middle to center-left area of the frame, standing on a diagonally sloped dune surface. Her body must rise upward through dense sand haze, while a massive storm-like sand cloud swells behind and above her, dominating the upper half of the image. Preserve the exact relationship between the lone figure, the rising sand body, the surrounding dust atmosphere, and the heavy sandstorm cloud above. Keep the image stark, vertical, and monumental. Character design: Create a self-invented ancient Egyptian sorceress-queen who feels royal, sacred, politically absolute, and terrifyingly calm. She must have realistic female anatomy, noble facial structure, dark kohl-lined eyes, an elevated ceremonial headdress or cobra-crown variation, refined divine insignia details, a powerful Egyptian collar, and layered weathered robes that feel both royal and funerary-sacred. She must feel like the living vessel of a forgotten desert god. Pose and gesture logic: Rebuild the pose with clear authority and anatomical correctness. The sorceress stands in a forward-moving, command-heavy posture within the same overall composition logic, but now her right hand must firmly hold a ceremonial Egyptian scepter, staff, or sacred authority rod, while her left arm hangs down naturally in a relaxed but powerful resting position. The gesture must feel calm, absolute, and sovereign rather than theatrical. The right arm, wrist, and grip must read clearly and believably. The left arm must remain naturally extended downward with correct shoulder-elbow-wrist alignment. Anatomy constraints: This is critical. Lock the human anatomy to be fully correct and believable. No extra limbs, no broken arm structure, no fused elbows, no missing joints, no malformed shoulders. Both hands must have exactly five fingers, with correct finger spacing, knuckle logic, thumb placement, tendon flow, and believable grasp mechanics. The right hand must wrap naturally around the scepter with proper grip anatomy. The left hand must be anatomically correct, relaxed, elegant, and fully human. Preserve realistic female proportions, collarbone logic, shoulder width, arm length, wrist size, and hand scale. Milk Cloud Orbit lighting logic: Purify the most important zones of power: the face, headdress, collarbone, shoulders, right forearm, scepter grip, and upper torso must receive more sacred, refined light separation. These illuminated areas should glow through the dust with quiet but overwhelming authority. Cream Halo Transit fusion logic: Keep the exact skeleton unchanged, but extend the sand-fusion lower body and trailing robe transitions further. The lower half, robe hem, side contours, and trailing fabric must feel increasingly dissolved into smoke-sand turbulence, as if she is being continuously formed from the storm itself. The edges must remain open and beautifully unstable, never sealed or cut out. Ancient divine-authority logic: Strengthen the sense of ancient theocratic power. The sorceress must feel like a priestess-empress from a lost desert cult, carrying sacred legitimacy older than empire. Let the sacred authority live in her bearing, material language, and the way she holds the staff of power. No decorative prop overload. Scepter logic: The right-hand scepter must feel ceremonial, ancient, elegant, and powerful. It may reference Egyptian sacred staff language, but it must remain refined and visually integrated with the figure. It should not dominate the image more than the woman herself. The staff must support the silhouette and authority of the pose. Sandstorm and effects: Use extremely rich UE5-level fluid and particle effects. Surround the character with flowing sand ribbons, smoke-like dust turbulence, fine sand debris, drifting ash-like particles, and rolling storm density. The upper cloud mass behind her must feel like a living divine storm formation, heavy and sculptural, while finer particles wrap around the character in thinner layers. Everything must feel premium, believable, and controlled. Lighting: Use extremely delicate, soft cinematic lighting filtered through dust. The light must reveal the sorceress’s face, crown, collar, shoulders, robe folds, scepter, and key sand contours with luxurious softness. Maintain a glowing desert-amber atmosphere with refined highlight falloff and gentle shadow transitions. The lighting must feel sacred, storm-diffused, and expensive. Face and skin: Render the face with exceptional realism and authority: realistic skin texture, subtle pores, noble bone structure, precise eye makeup, softly weathered desert skin tone, and a calm but commanding expression. The eyes must hold immense inherited power. Cloth and material: Render the robes as layered ceremonial desert fabric with fine texture, weathered sacred elegance, and strong wind response. The cloth must feel real, tactile, and flowing, with some sections fully readable and other sections dissolving into dust. The transition from textile to smoke-sand flow must be seamless and majestic. Environment: Keep the background minimal and dominated by storm atmosphere. Preserve the dune slope in the lower-right to lower foreground area and the giant sand cloud in the upper field. No architecture, no extra characters, no decorative props. Print aesthetic: Apply a premium grain-print treatment across the full image. The result must feel like a collector-grade fantasy print with tactile grain, elegant analog richness, and subtle surface depth. The grain should enhance the sand gradients, smoke transitions, and robe texture without making the image muddy. Sharpness: Keep the face, headdress, collar, scepter grip, hands, key robe folds, and central sand-flow edges extremely sharp and razor-detailed, while outer dust and distant storm areas remain softer. Color direction: Use a controlled desert palette of deep ochre, sand gold, burnt amber, sepia brown, dusty bronze, smoke tan, and shadowed earth tones, with undertones of sacred bronze and ancient temple gold. Keep the whole image warm, regal, storm-heavy, and monochromatically unified. Rendering style: UE5 ultra-realistic ancient Egyptian sorceress-queen in sandstorm, exact Figure 1 composition logic, right hand holding sacred scepter, left hand naturally lowered, anatomically correct five-finger hands, open-edge fusion of body and dust, flowing ceremonial robes, sculptural divine storm cloud, premium particle sand effects, sacred soft cinematic desert lighting, grain-print finish, razor-sharp detail, world-class image quality, 8k
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2080973239195770937) | 2026-07-25
+
+---
+
+### 🏛️ 例 4977：极简水彩城市速写
+
+![极简水彩城市速写](../images/%E6%9E%81%E7%AE%80%E6%B0%B4%E5%BD%A9%E5%9F%8E%E5%B8%82%E9%80%9F%E5%86%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+3:4 竖构图极简 {argument name="style" default="水彩与墨水城市速写"}，绘制于冷压手工纸上。松弛的画室速写风格，非成品插画。
+
+完成度渐变（优先级）：画面中仅人物部分完全刻画。周边建筑约 60% 上色，保留清晰的留白区域，轮廓线穿插其中。远景建筑及画面边缘溶解为松散的石墨线条与留白，直至边框。约 20% 的页面保持未上色，主要集中在上部及边缘。背景为留白，而非绘制的天空。未完成的边缘为刻意设计。
+
+场景：{argument name="location" default="洛克菲勒中心观景台，曼哈顿中城"}，晴朗的午后。一对恋人背对镜头站在石质护栏旁，肩并肩，其中一人倾身指向帝国大厦。微风吹动发丝和轻薄的开衫。安静，自然，非摆拍。
+
+构图：高视角。人物位于下三分之一处，背影较小。帝国大厦偏离中心，位于中景。高地平线，深远空间，上方留白充裕。
+
+渲染：湿画法渲染，带有水渍和回流效果。水彩晕染刻意偏离墨线，溢出轮廓或在轮廓前戛然而止。同一立面内色彩浓度变化强烈——饱和色、幽灵般的淡色与留白交替出现。纸张纹理可见明显的颗粒感。湿画法边缘与柔和的晕染边缘并存。利用纸张本身的白色作为高光，绝不使用白色颜料。
+
+线条：快速搜寻式的石墨线条与精细墨线，保留未经修正的构图痕迹。用涂鸦式的圈圈表现栏杆和远处的窗户，而非刻画细节。线条粗细变化从发丝般纤细到浓重。面部仅通过几笔勾勒暗示。
+
+明度：高调且通透，仅有一处深暗色调——最近处屋顶塔楼的阴影面，使用深海军蓝。
+
+色彩：{argument name="color scheme" default="冷蓝色调为主"}。55% 板岩蓝、灰天蓝、粉蓝、浅蓝灰。20% 温暖的灰白色留白。15% 暖石灰和石灰岩色作为平铺单色蓝的中间调点缀。10% 出租车黄点缀在受光边缘。色彩柔和，低饱和度。
+
+排版：右上角，斜体 "New York"，下方配有一行简短的英文诗句，颜色为柔和的板岩海军蓝，融入纸张纹理中。
+
+[English]
+3:4 vertical minimalist {argument name="style" default="watercolor and ink urban sketch"} on cold-press handmade paper. Loose studio sketch, not a finished illustration.
+
+FINISH GRADIENT (priority): the couple is the only fully resolved area. Nearby architecture ~60% painted, with clear patches of bare paper and contour line breaking through. Distant buildings and frame edges dissolve into loose graphite and untouched paper before the border. ~20% of the page stays unpainted, mostly upper area and edges. Background is bare paper, not a painted sky. Unfinished edges are intentional.
+
+SCENE: {argument name="location" default="Top of the Rock observation deck, Midtown Manhattan"}, clear afternoon. Two lovers at the stone parapet seen from behind, shoulders touching, one leaning in and pointing toward the Empire State Building. Wind in hair and a light cardigan. Quiet, unposed.
+
+COMPOSITION: High vantage point. Couple small and back-turned in the lower third. Empire State Building off-center mid-distance. High horizon, deep space, generous open paper above.
+
+WASH: Wet-on-wet bleeding with blooms and backruns. Washes deliberately offset from the ink lines, spilling past contours and stopping short of others. Strong dilution variation within one facade — saturated, ghost-pale, and bare paper in turn. Visible granulation in the paper tooth. Hard wet-on-dry edges beside soft blooms. Reserved white paper as highlights, never white paint.
+
+LINE: Fast searching graphite and fine ink, construction marks left uncorrected. Scribble loops for railings and distant windows instead of literal detail. Weight varies hairline to bold. Faces suggested in a few marks.
+
+VALUE: High-key and airy, with exactly one deep dark note — the shaded face of the nearest rooftop tower in ink navy.
+
+COLOR: {argument name="color scheme" default="Cool blue-dominant"}. 55% slate blue, dusty cerulean, powder blue, pale blue-gray. 20% bare warm off-white paper. 15% warm stone gray and limestone as mid-tone relief against flat monochrome blue. 10% taxi yellow on sunlit edges. Muted, low saturation.
+
+TYPOGRAPHY: Upper right, italic "New York" with one short poetic English line below in muted slate navy, absorbed into the paper.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2080966563256222070) | 2026-07-25
+
+---
+
+### 🏛️ 例 4979：暗黑幻想烟雾怪兽变身
+
+![暗黑幻想烟雾怪兽变身](../images/%E6%9A%97%E9%BB%91%E5%B9%BB%E6%83%B3%E7%83%9F%E9%9B%BE%E6%80%AA%E5%85%BD%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超高级的暗黑幻想电影艺术作品，以绝对的结构保真度遵循图 1。最终图像必须保留图 1 中精确的构图逻辑、运动方向、比例关系、灯具位置、生物扩张路径和整体大气力量，同时将兔子替换为一种更为凶猛的自创捕食者。保持整套系列语言绝对统一：左下方一盏华丽的灯，一个超自然野兽从灯嘴中逐渐渗出、生长并演变成右上方空间。无文字，无标志，无标题，无布局元素。创意方向：结合 Milk Cloud Orbit 和 Cream Halo Transit。完全锁定图 1 的骨架，然后强化最成功的部分：延长从灯嘴到野兽胸部的转化路径，使出现感更具生命力和连续性，并将生物重新设计为一种更具猫科特征的烟雾捕食者，具有更尖锐的耳朵结构、更流畅的肩膀和更优雅的攻击速度。核心构图：使用与图 1 完全相同的构图逻辑。在黑暗地面的左下角附近放置一个高度细致的古董魔法灯。从灯嘴中，一股集中的发光烟雾流必须向外倾泻并对角线上升到右上方，逐渐变成一个怪兽般的生物。靠近灯嘴的下部必须保持未解析的蒸汽和流体烟雾，中部必须开始形成肌肉量和胸部质量，上部必须完全解析为咆哮的头部、肩膀和带爪的前肢。从左下到右上的对角运动必须保持绝对且明确。生物重新设计：将兔子替换为自创的凶猛烟雾捕食者，感觉像是黑豹、幻影猞猁和恶魔风暴猫的混合体。野兽必须比以前更有猫科感：更尖锐的耳朵轮廓、更长的捕食者脸部线条、流线型的肩膀、富有弹性的前肢张力，以及更快、更致命的整体观感。它必须看起来凶猛、神话般、优雅且极其危险。解剖结构应在 UE5 级别的写实幻想标准内令人信服。喷嘴喷出逻辑：这是至关重要的。生物必须明显起源于灯嘴，并感觉像是实时从容器中诞生的。延长从喷嘴到胸部的出现路径，使转化分阶段读取：1. 喷嘴尖端的发光蒸汽点燃，2. 更密的烟雾带和流体湍流，3. 膨胀的烟雾块形成胸腔和胸部，4. 更清晰的肩膀和前肢结构，5. 完全解析的咆哮头部和攻击姿势。胸部必须感觉像是仍由烟雾形成的一半，而不是已经脱离灯具。生物绝不能看起来像是粘贴在灯上方的。头部与表情：使头部成为主要的震撼点。嘴巴必须在剧烈的咆哮中完全张开，带有深琥珀橙色的内部红光、湿润的尖牙、细致的舌头细节和喉咙内部的分层热量。眼睛必须发出冰冷的超自然光芒。整体表情应像释放出的捕食者愤怒的瞬间。Milk Cloud Orbit 强度逻辑：加强活体出现效果。从灯嘴到胸部的部分必须感觉更长、更密集、且更具说服力的过渡，仿佛野兽仍在努力将自己拖入存在。增加生物正积极从烟雾中被拉出而非仅仅悬浮的感觉。Cream Halo Transit 猫科逻辑：保持相同的结构，但将野兽转向更高级的猫科捕食者语言。磨尖耳朵，精简肩线，完善前肢攻击手势，并赋予头部更优雅的狩猎轮廓。危险感应更快捷、更干净、更显贵气而非笨重。烟雾、流体和效果：使用极其丰富的 UE5 级别烟雾流体效果。从分层的蒸汽卷、滚动的烟雾密度、流体湍流、余烬颗粒、克制的火花和微妙的尘土状碎屑中构建生物的身体。保持中心质量和胸部密度最强，而外缘则溶解成更薄的光谱烟雾。仅添加受控的粒子烟火和幻想灰烬，绝不要杂乱的过载。灯光：使用极其细腻、柔和的电影级灯光。冷调的大气主灯应揭示烟雾轮廓、爪子、脸颊结构、耳朵边缘和前肢形状，而嘴部的红光则引入温暖的内部对比。保持灯光华丽、柔和且高度雕塑感。灯具与表面：将灯渲染为带有雕刻图案、微妙年代感和可信重量感的华丽深色金属魔法容器。它必须具有触感、优雅且真实。喷嘴光芒是转化的点火点，必须视觉上连接到烟雾身体的诞生过程。大气与背景：背景保持黑暗、极简且具电影感，带有柔和的午夜蓝到木炭色的衰减。无场景、无建筑、无额外道具。负空间必须支持灯到兽的对角线，并使出现感显得宏伟。印刷美学：在整个图像上应用高级印刷颗粒处理。结果必须感觉像收藏级的黑暗幻想印刷品，具有触感颗粒、微妙的模拟深度和优雅的表面丰富感。颗粒应增强烟雾渐变、深色背景和嘴部光芒，而不会使图像变脏。清晰度：保持眼睛、尖牙、爪子、口腔内部和主要烟雾轮廓极其锐利且细节分明，而外部蒸汽轨迹保持较软。柔和扩散与极端焦细节之间的对比至关重要。颜色方向：使用受限的调色板，包括午夜蓝、木炭色、烟雾白、灰烬灰和冷钢底色，仅使用两种受控的强调色：眼睛里的冰冷光谱蓝和嘴部及喷嘴附近的琥珀橙色红光。最终图像必须保持黑暗、高级且具电影感。氛围：凶猛、超自然、优雅、掠夺性、电影感、神话、烟雾、暴力、奢侈、黑暗幻想、收藏级。渲染风格：UE5 超写实黑暗幻想猫科烟雾捕食者从灯嘴中出现，连续的烟雾到身体转化，发光的眼睛，琥珀色的嘴巴，高级粒子效果，柔和电影灯光，触感印刷颗粒饰面，锐利细节，世界级图像质量，8k。负面提示词：可读文本、标志、标题、可爱的兔子、卡通动物、笨重的怪物、粘贴的生物、断开的烟雾、虚弱的喷嘴转化、短的出现路径、低细节的灯、浑浊的粒子、模糊的尖牙、软弱的爪子、廉价的幻想效果、色彩斑斓的杂乱、明亮的背景、俏皮的情绪、平坦的烟雾、低分辨率细节。
+
+[English]
+Create an ultra-premium dark fantasy cinematic artwork that follows Figure 1 with absolute structural fidelity. The final image must preserve the exact composition logic, motion direction, scale relationship, lamp placement, creature expansion path, and overall atmospheric force of Figure 1, while replacing the rabbit with a far more ferocious self-created predator. Keep the entire series language absolutely unified: one ornate lamp at the lower-left, and one supernatural beast gradually seeping, growing, and evolving out of the lamp spout into the upper-right airspace. No readable text, no logo, no title, no layout elements. Creative direction: Combine Milk Cloud Orbit and Cream Halo Transit. Lock the Figure 1 skeleton completely, then intensify the most successful parts: lengthen the transformation path from the lamp spout to the chest of the beast, make the emergence feel more alive and continuous, and redesign the creature into a more feline smoke predator with sharper ear structure, sleeker shoulders, and more elegant attack velocity. Core composition: Use the exact same composition logic as Figure 1. Place a highly detailed antique magic lamp near the lower-left corner on a dark ground plane. From the lamp spout, a concentrated stream of luminous smoke-fluid must pour outward and diagonally rise into the upper-right, progressively becoming a monstrous creature. The lower section near the spout must remain unresolved vapor and fluid smoke, the middle section must begin forming muscle volume and chest mass, and the upper section must fully resolve into the roaring head, shoulders, and clawed forelimbs. The diagonal motion from lower-left to upper-right must remain absolute and unmistakable. Creature redesign: Replace the rabbit with a self-created ferocious smoke predator that feels like a hybrid of a black panther, a phantom lynx, and a demonic storm-cat. The beast must feel more feline than before: sharper ear silhouettes, longer predatory face line, streamlined shoulders, elastic forelimb tension, and a faster more lethal overall read. It must look violent, mythic, elegant, and hyper-dangerous. The anatomy should feel believable within a UE5-level realistic fantasy standard. Spout-emergence logic: This is critical. The creature must visibly originate from the lamp spout and feel as if it is being born from the vessel in real time. Extend the emergence path from the spout to the chest so the transformation reads in stages: 1. glowing vapor ignition at the spout tip, 2. denser smoke ribbon and fluid turbulence, 3. swelling smoke mass forming the ribcage and chest, 4. clearer shoulder and forelimb structure, 5. fully resolved roaring head and attack posture. The chest must feel like it is still half-forming from the smoke, not already detached from the lamp. The creature must never look pasted above the lamp. Head and expression: Make the head the primary shock point. The mouth must be fully open in a violent roar, with deep ember-orange interior glow, wet fangs, sharp tongue detail, and layered heat inside the throat. The eyes must emit an icy supernatural glow. The overall expression should feel like the instant of unleashed predatory rage. Milk Cloud Orbit intensity logic: Strengthen the living emergence effect. The section from the lamp spout to the chest must feel longer, denser, and more convincingly transitional, as if the beast is still dragging itself into existence. Increase the sense that the creature is actively being pulled out of smoke rather than simply hovering. Cream Halo Transit feline logic: Keep the same structure, but shift the beast toward a more premium feline predator language. Sharpen the ears, streamline the shoulder line, refine the forelimb attack gesture, and give the head a more elegant hunting silhouette. The danger should feel faster, cleaner, and more aristocratic rather than bulky. Smoke, fluid, and effects: Use extremely rich UE5-level smoke-fluid effects. Build the creature’s body from layered vapor curls, rolling smoke density, fluid turbulence, ember particles, restrained sparks, and subtle dust-like debris. Keep the density strongest through the center mass and chest, while outer edges dissolve into thinner spectral smoke. Add only controlled particle fireworks and fantasy ash, never messy overload. Lighting: Use extremely delicate, soft cinematic lighting. A cool atmospheric key light should reveal smoke contours, claws, cheek structure, ear edges, and forelimb form, while the mouth glow introduces warm internal contrast. Keep the lighting luxurious, soft, and highly sculptural. Lamp and surface: Render the lamp as an ornate dark-metal magic vessel with engraved patterns, subtle age, and believable weight. It must feel tactile, elegant, and real. The spout glow is the ignition point of the transformation and must visually connect to the smoke-body birth process. Atmosphere and background: Keep the background dark, minimal, and cinematic, with soft midnight-blue to charcoal falloff. No scenery, no architecture, no extra props. The negative space must support the lamp-to-beast diagonal and make the emergence feel monumental. Print aesthetic: Apply a premium print-grain treatment across the image. The result must feel like a collector-grade dark fantasy print with tactile grain, subtle analog depth, and elegant surface richness. The grain should enhance the smoke gradients, deep background, and mouth glow without making the image dirty. Sharpness: Keep the eyes, fangs, claws, mouth interior, and primary smoke contours extremely sharp and razor-detailed, while outer vapor trails remain softer. The contrast between soft diffusion and extreme focal detail is essential. Color direction: Use a restrained palette of midnight blue, charcoal, smoke white, ash gray, and cold steel undertones, with two controlled accent colors only: icy spectral blue in the eyes and ember-orange glow inside the mouth and near the spout. The final image must remain dark, premium, and cinematic. Mood: ferocious, supernatural, elegant, predatory, cinematic, mythic, smoky, violent, luxurious, dark fantasy, collector-grade. Rendering style: UE5 ultra-realistic dark fantasy feline smoke predator emerging from lamp spout, continuous smoke-to-body transformation, glowing eyes, ember mouth, premium particle effects, soft cinematic lighting, tactile print-grain finish, razor-sharp detail, world-class image quality, 8k. Negative prompt: readable text, logo, title, cute rabbit, cartoon animal, bulky goofy monster, pasted creature, disconnected smoke, weak spout transformation, short emergence path, low-detail lamp, muddy particles, blurry fangs, soft claws, cheap fantasy effect, colorful clutter, bright background, playful mood, flat smoke, low-resolution detail
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2080964467396096305) | 2026-07-25
+
+---
+
+### 🏛️ 例 5014：夏日祭典水气球摊位
+
+![夏日祭典水气球摊位](../images/%E5%A4%8F%E6%97%A5%E7%A5%AD%E5%85%B8%E6%B0%B4%E6%B0%94%E7%90%83%E6%91%8A%E4%BD%8D.jpg)
+
+**Prompt:**
+
+```text
+主題：\n{argument name="主題" default="すくった夏色"}\n\n主体：\n縦長3:4の写真。夏祭りの縁日で、色とりどりの水風船が浮かぶ水槽の前にしゃがむ若い女性を、画面中央やや左へ配置する。人物は全身の約8割が入り、右側には水槽とカラフルな水風船を広く見せる。女性は片手に小さな金魚すくい用の網、もう片方の手に白い小鉢を持つ。\n\n人物・表情：\n自然で親しみやすい日系の顔立ち。透け感のある明るい肌、丸みのある大きな瞳、細く柔らかな眉、淡いコーラルピンクのリップ。表情は静かで少しだけ物思いにふけるような落ち着いた雰囲気。顔をやや画面左へ傾け、視線は正面のカメラへ向ける。髪は深いダークブラウン。薄いシースルーバングと、後頭部を低い位置でまとめた柔らかなアップヘア。顔まわりに細い後れ毛を残し、左耳の後ろに小さな白い花飾りを添える。\n\n服装・ポーズ：\n{argument name="服装" default="白地に淡い藤色と青紫の紫陽花が散る涼しげな浴衣"}。帯はくすんだブルーグレーで、背中に大きめだが軽やかな文庫結び。足元は黒い台に淡い花柄の鼻緒を合わせた下駄。水槽の横で膝を深く曲げてしゃがみ、背筋はやや伸ばす。人物自身の右手で丸い小さな網を胸元に持ち、左手で白い小鉢を水槽の上へ差し出す。袖口は腕の動きに沿って自然に落ち、浴衣の裾には膝と足首の曲げに応じた細かな皺を入れる。\n\n背景・光：\n日本の夏祭りの夜。右側に金属枠の水槽があり、透明感のあるピンク、青、緑、黄色、オレンジの水風船が密集して浮かぶ。後方には屋台の木箱、暗い柱、ぼかされた読めない案内表示を配置する。前景は暗い石床、中景に人物と水槽、後景に柔らかくぼけた屋台の灯りを置く。主光源は画面右上の暖色系屋台照明。右頬、鼻筋、肩、手の甲にやわらかなハイライトを入れ、左側には弱い青みの反射光を加える。影は画面左下へ薄く落とし、水槽の水面と水風船には小さな点状反射を散らす。\n\n構図・カメラ：\n縦長3:4、全身に近いミディアムロングショット。カメラは人物の目線より少し高い位置から軽く見下ろす。人物の顔は画面上部3分の1、帯は左下、膝と下駄は下端付近に配置する。右側の水槽へ広い余白を残し、人物と水風船の色彩対比を見せる。50mm相当、浅い被写界深度。顔と両手に焦点を合わせ、奥の屋台は滑らかなボケにする。\n\n質感・スタイル：\n{argument name="スタイル" default="夏祭りの空気を写した自然な写真表現"}。肌理を残した透明感のある肌、浴衣の綿素材、水槽の金属、濡れた水風船の光沢を丁寧に描写する。暖色と寒色が穏やかに混ざる色調。コントラストは控えめで、細かなフィルム粒子とやさしいハレーションを加える。過度な美肌補正や人形のような質感は避け、雑誌の夏祭りスナップのように仕上げる。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2080860026999021908) | 2026-07-25
+
+---
+
