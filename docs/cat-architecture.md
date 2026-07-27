@@ -3425,3 +3425,81 @@ Create an ultra-premium dark fantasy cinematic artwork that follows Figure 1 wit
 
 ---
 
+### 🏛️ 例 5032：色彩斑斓的加勒比海滩服饰店
+
+![色彩斑斓的加勒比海滩服饰店](../images/%E8%89%B2%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E6%BB%A9%E6%9C%8D%E9%A5%B0%E5%BA%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张充满活力的写实旅游街景照片，展示一个阳光明媚的加勒比海滩服饰店。从低角度的三分之四视角展示一座名为 {argument name="shop name" default="Angel Land"} 的两层转角店面，建筑漆成明亮的绿松石色，配有亮粉色装饰、黄色百叶窗，正面覆盖着棕榈叶茅草遮阳篷。包含清澈的蓝天、正午强烈的阳光、浅色石板路上的清晰阴影，以及从左上方伸入的棕榈树叶。店面外墙上方应有一个草书霓虹灯风格的招牌写着“Angel Land”，下方有一个褪色的长方形招牌写着“BEACHWEAR”。展示 5 把洋红色露台遮阳伞：左侧人行道 1 把，正门区域 3 把，最右侧部分裁剪掉 1 把。展示 3 个路边广告项目：左侧一个写着“ACACHI”并带有白色花朵图案的大型粉色项目，中间一个写着“ANGEL LAND”的绿松石色三明治项目，以及右侧一个写着“CRUZ BAY”的高大蓝色三明治项目。在开放的店面内填满热带旅游商品：悬挂着粉色、黄色、绿松石色、蓝色、橙色及多色印花的明亮 T 恤、连衣裙、罩衫、沙滩衬衫和泳装。展示 5 组可见的服装架：左侧人行道 1 个，左侧遮阳伞下 1 个，中央粉色和黄色衬衫架 1 个，主入口内 1 个，右侧蓝色服装架 1 个。在中央前景附近包含一个小型木制鞋类展示架，上面摆放着成排的凉鞋。相邻建筑应在左侧街道延伸，采用配套的热带色彩，配有阳台和金属屋顶，营造出热闹的岛屿购物区。使用逼真的建筑细节、浓郁饱和的色彩、自然的阴影、清晰的对焦，画面中无人、无车、无水印，除店面和人行道招牌外无额外可读文字。整体氛围应呈现出 {argument name="location style" default="加勒比岛屿购物街"} 的欢快、热带、商业和度假感。
+
+[English]
+Create a vibrant photorealistic travel-street photograph of a colorful Caribbean beachwear shop on a sunny day. Show a two-story corner storefront named {argument name="shop name" default="Angel Land"} from a low street-level three-quarter angle, with the building painted bright turquoise blue, hot pink trim, yellow shutters, and a thatched palm-frond awning across the front. Include a clear blue sky, hard midday sunlight, crisp shadows on pale stone paving, and a palm tree frond entering from the upper left. The shop façade should have a cursive neon-style sign reading “Angel Land” above the corner and a faded rectangular sign reading “BEACHWEAR” below it. Display exactly 5 magenta patio umbrellas: 1 on the left sidewalk, 3 across the front entrance area, and 1 partially cropped at the far right. Display exactly 3 sidewalk advertising boards: a large pink board on the left reading “ACACHI” with white flower graphics, a turquoise-blue center sandwich board reading “ANGEL LAND,” and a tall blue right sandwich board reading “CRUZ BAY.” Fill the open storefront with tropical tourist merchandise: bright hanging T-shirts, dresses, coverups, beach shirts, and swimwear in pink, yellow, turquoise, blue, orange, and multicolor prints. Show exactly 5 visible clothing rack clusters: 1 far-left sidewalk rack, 1 rack under the left umbrella, 1 central rack with pink and yellow shirts, 1 rack inside the main entrance, and 1 right-side rack of blue garments. Include a small wooden shoe display near the center foreground with rows of sandals. The neighboring buildings should continue down the street on the left in matching tropical colors with balconies and metal roofs, creating a lively island shopping district. Use realistic architectural details, rich saturated colors, natural shadows, sharp focus, no people, no cars, no watermark, and no extra readable text beyond the storefront and sidewalk signs. The overall mood is cheerful, tropical, commercial, and vacation-like in {argument name="location style" default="Caribbean island shopping street"}.
+```
+
+**来源：** [@oymh](https://x.com/oymn00/status/2081521006095794676) | 2026-07-26
+
+---
+
+### 🏛️ 例 5054：黑猫在冰箱前纳凉
+
+![黑猫在冰箱前纳凉](../images/%E9%BB%91%E7%8C%AB%E5%9C%A8%E5%86%B0%E7%AE%B1%E5%89%8D%E7%BA%B3%E5%87%89.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的温馨夜景照片，画面中 {argument name="pet" default="一只圆滚滚的黑猫"} 正坐在木质厨房地板上，面对着打开的冰箱，沐浴在冰箱发出的清凉蓝白色光芒中，仿佛在享受夏日的凉爽。猫咪是画面的唯一主体，拥有光泽的黑色皮毛和细腻的高光，姿态放松地坐着，后腿向前伸展，前爪靠近冰箱，头部微微上扬，双眼微闭，脸上带着幸福的微笑，长长的白色胡须清晰可见。冰箱位于画面右侧且处于开启状态，内部明亮，精确展示 4 个可见的存储区域：1 个放有各种瓶瓶罐罐的透明门架，1 个放有小型容器的上层隔板，1 个放有塑料盒装浅色蔬菜丝和一盘红樱桃番茄的中层隔板，以及 1 个装满绿叶蔬菜的下层保鲜抽屉。在左侧昏暗的背景中，包含 1 台落地电风扇和一个透出温暖琥珀色灯光的门口或房间，与冰箱发出的冷光形成对比。采用从地板拍摄的低机位视角，竖构图，浅景深，呈现自然的居家杂乱感，具有电影级的写实感，皮毛纹理细节丰富，阴影柔和，木地板反射出温暖的光泽，营造出安静幽默的家庭氛围。无文字，无水印，画面中无人。
+
+[English]
+Create a realistic cozy nighttime photo of {argument name="pet" default="a plump black cat"} sitting on a wooden kitchen floor directly in front of an open refrigerator, basking in the cool blue-white fridge light as if enjoying the summer air. The cat is the single main subject, glossy black fur with subtle highlights, relaxed seated pose with hind legs stretched forward, front paws resting near the fridge, head tilted upward with eyes closed and a blissful smile-like expression, long white whiskers visible. The refrigerator is open on the right side of the frame and brightly lit, showing exactly 4 visible storage zones: 1 transparent door shelf holding assorted bottles and jars, 1 upper interior shelf with small containers, 1 middle shelf with a plastic container of pale shredded vegetables and a tray of red cherry tomatoes, and 1 lower crisper drawer area packed with leafy greens and vegetables. In the dim background on the left, include exactly 1 standing electric fan and a warm amber-lit doorway or room, contrasting with the cold refrigerator glow. Use a low eye-level camera angle from the floor, vertical composition, shallow depth of field, natural household clutter, cinematic photorealism, high detail fur texture, soft shadows, warm wooden floor reflections, quiet humorous domestic mood. No text, no watermark, no humans.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081397294386036807) | 2026-07-26
+
+---
+
+### 🏛️ 例 5057：海军黑曜石 CCD 闪光灯人像
+
+![海军黑曜石 CCD 闪光灯人像](../images/%E6%B5%B7%E5%86%9B%E9%BB%91%E6%9B%9C%E7%9F%B3%20CCD%20%E9%97%AA%E5%85%89%E7%81%AF%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+海军蓝黑曜 CCD 闪光灯滤镜，low saturation navy obsidian CCD flash，低饱和海军蓝与黑曜暗部，冷白直闪提亮人物，建筑背景保持冷灰黑层次，轻微过曝，轻颗粒，整体都市艺术感、冷静、高级。
+
+人物为明确成年的{argument name="主体特征" default="韩系瓜子脸，高级淡颜"}，面部轮廓干净，眼神清透安静，表情轻松但克制，像艺术展开幕后夜晚离场的抓拍。 
+
+服装为{argument name="服装搭配" default="深靛蓝无袖修身上衣，搭配黑色高腰半裙或短裙，外搭黑色长款风衣自然敞开，搭配黑色薄透丝袜和低跟尖头鞋"}，整体文艺、克制、利落。
+
+场景为{argument name="场景地点" default="夜晚现代艺术馆外台阶"}，极简白墙、玻璃门反光、冷白建筑灯、远处城市灯光虚化。人物坐在台阶上，身体轻微侧向镜头，面向镜头歪头微笑，一只手撑在台阶边，一只手拿展览手册或小包。
+
+镜头为全身竖构图，突出肩颈、上半身轮廓、腰线、大腿和腿长，画面不艳俗，偏高级艺术生活照。
+
+9:16
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2081388158487507427) | 2026-07-26
+
+---
+
+### 🏛️ 例 5078：90 年代复古日本动画场景
+
+![90 年代复古日本动画场景](../images/90%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+怀旧的 1980 年代至 1990 年代 {argument name="style" default="日本动画电影感插画"}，高度精细的手绘背景，温暖的黄金时刻与霓虹灯光，柔和的胶片颗粒感，细腻的水彩质感，表情生动的动画角色，自然的身材比例与精致的眼睛，写实的建筑与室内设计，生活片段氛围，情感叙事，舒适的日本城市，戏剧性的透视，优美的倒影，体积光，柔和的阴影，丰富的色彩分级，错综复杂的环境细节，宁静沉思的氛围，新海诚风格的灯光，吉卜力工作室的复古氛围，City Pop 美学，复古日本怀旧感，模拟摄影质感，构图完美的电影级取景，超精细数字绘画，大师级品质。1. {argument name="scene one" default="电车场景：一名身穿黑色学兰制服的日本高中男生在日落时分独自坐在老式通勤电车内"} 2. {argument name="scene two" default="复古餐馆：一位时尚的年轻女性在夜晚坐在复古美式餐馆里，喝着香草奶昔"} 3. 舒适卧室：一个女孩在舒适的卧室地板上看书，晨光透过蕾丝窗帘洒入，窗台上睡着一只猫，卡带播放机，复古海报，书籍，植物，柔和的粉彩色调，温暖宁静的氛围，怀旧的 90 年代日本卧室。4. 日本街道：一名女学生在黄金时刻走过宁静的日本郊区社区，身穿水手服，电线杆，狭窄的住宅街道，发光的云朵，温暖的傍晚光线，宁静的日常生活，高度精细的环境，电影级透视。
+
+[English]
+A nostalgic 1980s–1990s {argument name="style" default="Japanese anime cinematic illustration"}, highly detailed hand-painted background, warm golden-hour and neon lighting, soft film grain, subtle watercolor texture, expressive anime characters with natural proportions and detailed eyes, realistic architecture and interiors, slice-of-life atmosphere, emotional storytelling, cozy urban Japan, dramatic perspective, beautiful reflections, volumetric sunlight, soft shadows, rich color grading, intricate environmental details, quiet contemplative mood, Makoto Shinkai-inspired lighting, vintage Studio Ghibli atmosphere, city pop aesthetic, retro Japanese nostalgia, analog photography feel, perfectly composed cinematic framing, ultra-detailed digital painting, masterpiece quality. 1. {argument name="scene one" default="Train Scene: A Japanese high school boy in a black gakuran uniform sitting alone inside an old commuter train at sunset"} 2. {argument name="scene two" default="Retro Diner: A stylish young woman sitting in a retro American-style diner at night, drinking a vanilla milkshake"} 3. Cozy Bedroom: A girl reading a book on the floor of her cozy bedroom, morning sunlight streaming through lace curtains, sleeping cat on the windowsill, cassette player, vintage posters, books, plants, soft pastel colors, warm peaceful atmosphere, nostalgic 90s Japanese bedroom. 4. Japanese Street: A schoolgirl walking through a quiet suburban Japanese neighborhood during golden hour, sailor school uniform, utility poles, narrow residential street, glowing clouds, warm evening light, peaceful everyday life, highly detailed environment, cinematic perspective.
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2081299855755149723) | 2026-07-26
+
+---
+

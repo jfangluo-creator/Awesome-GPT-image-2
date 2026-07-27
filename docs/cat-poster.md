@@ -22987,3 +22987,265 @@ Negative: cartoon, blurry, incorrect oven shape, watermark, cold tones.
 
 ---
 
+### 🎴 例 5036：新波普风格东京偶像海报
+
+![新波普风格东京偶像海报](../images/%E6%96%B0%E6%B3%A2%E6%99%AE%E9%A3%8E%E6%A0%BC%E4%B8%9C%E4%BA%AC%E5%81%B6%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的宽幅横向新波普动漫插画，主角是 {argument name="character name" default="一位活力四射的东京流行偶像女孩"}，置身于色彩高度饱和的复古波普风东京街头场景中。构图采用动态的海报式拼贴风格，带有粗线条的白色贴纸轮廓、醒目的黑色漫画描边、半调网点纹理、星星贴纸、爱心、音符、闪电形状以及亮眼的霓虹色彩。在画面中右侧前景，女孩斜坐着，一条腿向观众方向伸展，张嘴微笑，双眼闪烁着粉黄色的星光；她留着深棕色长双马尾，装饰着彩色丝带、蝴蝶结、星星发夹，佩戴手链、颈圈、叠戴项链，手持装饰着星星的麦克风。她的姿势充满活力：一只手将麦克风举在肩旁，另一只手在脸侧比出剪刀手。她穿着一件超大款白色短款 T 恤，上面印有 {argument name="shirt logo text" default="TOKYO POP!"}，搭配紫粉色格纹百褶短裙，配有皮带、链条、挂饰、绑带、彩色袜子和厚底粉黑配色运动鞋。背景是繁华的未来感涩谷/原宿城市景观，天空呈现鲜艳的蓝色，东京塔醒目地矗立在画面中心偏左的位置（而非东京晴空塔），周围环绕着色彩斑斓的高楼大厦和广告牌屏幕。画面中需包含 7 个清晰可辨的文字元素：1) 左上角巨大的涂鸦气泡标志，文字为 {argument name="main logo text" default="TOKYO POP"}；2) T 恤上相同的标志，文字为“TOKYO POP!”；3) 右侧路牌，写有“HARAJUKU”、日文及“TOKYO TOWER”；4) 右下角路牌，写有“SHIBUYA”和“STREET”；5) 左侧竖向招牌，写有“SHIBUYA”和“TOKYO”；6) 圆形建筑招牌，写有“109”；7) 右侧广告牌，写有“JPN”。使用亮青色、热粉色、黄色、红色、紫色和黑色，营造温暖的复古波普氛围，采用清晰的动漫渲染、高度精细的配饰、夸张的透视效果以及干净的高分辨率线条。避免写实风格、暗淡色彩、留白区域或除上述标志外多余的主要文字。
+
+[English]
+Create a wide horizontal 16:9 neo-pop anime illustration of {argument name="character name" default="a cheerful Tokyo pop idol girl"} in a hyper-saturated retro-pop Tokyo street scene. The composition is a dynamic poster-like collage with thick white sticker outlines, bold black comic outlines, halftone dot textures, star stickers, hearts, music notes, lightning shapes, and glossy neon colors. In the center-right foreground, show the girl sitting diagonally with one leg extended toward the viewer, smiling with an open mouth and sparkling pink-yellow starry eyes; she has long dark brown twin-tail hair with colorful ribbons, bows, star hair clips, bracelets, choker, layered necklaces, and a handheld microphone decorated with a star. Her pose is energetic: one hand holds the microphone near her shoulder and the other makes a peace sign beside her face. Her outfit is a cropped oversized white T-shirt printed with {argument name="shirt logo text" default="TOKYO POP!"}, a purple-pink plaid pleated mini skirt with belts, chains, charms, straps, colorful socks, and chunky pink-black sneakers. The background is a dense futuristic Shibuya/Harajuku cityscape under a vivid blue sky with Tokyo Tower prominently rising slightly left of center instead of Tokyo Skytree, surrounded by colorful high-rise buildings and billboard screens. Include exactly 7 prominent readable text elements: 1) a giant graffiti bubble logo in the upper left reading {argument name="main logo text" default="TOKYO POP"}, 2) the same logo on the T-shirt reading "TOKYO POP!", 3) a right-side street sign reading "HARAJUKU" with Japanese text and "TOKYO TOWER", 4) a bottom-right road sign reading "SHIBUYA" and "STREET", 5) a left vertical sign reading "SHIBUYA" and "TOKYO", 6) a rounded building sign reading "109", and 7) a right billboard reading "JPN". Use bright cyan, hot pink, yellow, red, purple, and black with a warm retro-pop mood, crisp anime rendering, highly detailed accessories, exaggerated perspective, and clean high-resolution line art. Avoid photorealism, muted colors, empty areas, or extra major text beyond the listed signs.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2081488053911306291) | 2026-07-26
+
+---
+
+### 🎴 例 5056：Telemann 巴洛克丑闻海报
+
+![Telemann 巴洛克丑闻海报](../images/Telemann%20%E5%B7%B4%E6%B4%9B%E5%85%8B%E4%B8%91%E9%97%BB%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极具戏剧性的调查类 YouTube 缩略图风格的历史音乐海报，主题为隐藏的巴洛克时期署名丑闻，核心人物为 {argument name="composer name" default="Telemann"}。
+
+画布：16:9 宽屏横向构图，深黑色背景，带有粗粝的拼贴质感，高对比度，电影级光效，点缀霓虹洋红色和青色，叠加陈旧羊皮纸和撕裂纸张纹理。整体呈现出 Substack 专栏那种耸人听闻的编辑封面感。
+
+布局：左侧三分之一处包含巨大的西班牙语标题，采用做旧的白色大写字体：“NOS MINTIERON。”上方是小号洋红色间距文本“UNA COLUMNA DE SUBSTACK”，配有一个包含“T”字的小型金色太阳徽章。标题下方添加较小的堆叠式西班牙语文本：“DURANTE AÑOS, LOS EXPERTOS”，随后是洋红色强调的“OCULTARON LA VERDAD”，接着是“SOBRE UNA OBRA MAESTRA DEL BARROCO。”底部放置一张撕裂的米色便签，上面有一个洋红色圆圈 X 图标，文字为“UN AFICIONADO SE LLEVÓ EL CRÉDITO。”左下角添加巨大的洋红色笔刷字体“TELEMANN”，下方配以白色小字“ERA EL VERDADERO COMPOSITOR。”
+
+中心主体：一幅精细的 18 世纪巴洛克作曲家雕版肖像，正面四分之三侧面视角，戴着粉状卷发假发，表情庄重，身着饰有金绣的华丽深色外套。在头发左侧添加青色轮廓光，右侧添加洋红色轮廓光，头部后方带有细细的金色光环或放射状测量弧线。肖像附近包含手写缩写“G. P. T.”以及一个小巧的金色皇冠草图。
+
+右侧拼贴：使用 7 个核心证据元素：1) 右上方一张巨大的撕裂陈旧乐谱页，上面有乐谱、黑色审查条、红色修改标记以及盖有“CORRECCIONES”字样的红色印章；2) 该页面上用红褐色手写体写着“Editado por un aficionado”；3) 页面上的放大镜显示出手写文字“no por él.”，下方有下划线短语和一个 X；4) 中间一条泛着暖金色的撕裂羊皮纸带，用优雅的黑色书法签有“G. P. Telemann”，上方有一个小太阳徽章；5) 底部附近深色纸张上的手写便签，写着“La verdad estaba en la partitura”；6) 一个盖有“T”字印章的红色火漆印，旁边是一支巨大的灰色羽毛笔；7) 从右侧边缘切入的木制小提琴琴身。
+
+视觉细节：添加微妙的五线谱线条、墨水划痕、灰尘、裂纹、洋红色油漆溅点、下部中心附近的青色波形圆圈、撕裂边缘以及分层纸张阴影。羊皮纸使用戏剧性的暖色高光，肖像使用冷色调霓虹点缀。西班牙语文本必须清晰可辨，并按所述位置放置。
+
+风格约束：深色调查类纪录片缩略图，颓废编辑拼贴风格，写实雕版肖像与现代平面设计相结合，无额外 Logo，无水印，除指定的西班牙语短语外，不包含任何额外文字。
+
+[English]
+Goal: Create a dramatic investigative YouTube-thumbnail style historical music poster about a hidden Baroque authorship scandal, centered on {argument name="composer name" default="Telemann"}.
+
+Canvas: Wide 16:9 horizontal composition, dark black background with a gritty collage texture, high contrast, cinematic lighting, neon magenta and cyan accents, aged parchment and torn paper layers. Make it look like a sensational editorial cover for a Substack column.
+
+Layout: Left third contains the main Spanish headline in very large distressed white uppercase typography: “NOS MINTIERON.” Above it, small magenta spaced text reads “UNA COLUMNA DE SUBSTACK” with a small gold sunburst emblem containing a “T”. Under the headline, add smaller stacked Spanish text: “DURANTE AÑOS, LOS EXPERTOS” then magenta emphasis “OCULTARON LA VERDAD” then “SOBRE UNA OBRA MAESTRA DEL BARROCO.” Below, place a ripped beige note with a magenta circled X icon and the text “UN AFICIONADO SE LLEVÓ EL CRÉDITO.” At the bottom left, add huge magenta brush-script text “TELEMANN” and beneath it small white text “ERA EL VERDADERO COMPOSITOR.”
+
+Central subject: A detailed engraved portrait of an 18th-century Baroque composer, front-facing three-quarter view, powdered curly wig, solemn expression, ornate dark coat with gold embroidery. Add cyan rim light on the left side of his hair and magenta rim light on the right side, with a thin golden halo or radial measuring arc behind his head. Include small handwritten initials “G. P. T.” and a little gold crown sketch near the portrait.
+
+Right side collage: Use exactly 7 main evidence elements: 1) a large torn aged manuscript page in the upper right with sheet music, black censor bars, red correction marks, and a red stamp reading “CORRECCIONES”; 2) handwritten red-brown text on that page reading “Editado por un aficionado”; 3) a magnifying glass over the page showing handwritten text “no por él.” with an underlined phrase and an X beneath it; 4) a torn parchment strip in the middle glowing warm gold, signed “G. P. Telemann” in elegant black calligraphy with a small sunburst above it; 5) a handwritten note on dark paper near the bottom reading “La verdad estaba en la partitura”; 6) a red wax seal stamped with a “T” beside a large gray feather quill; 7) a cropped wooden violin body entering from the far right edge.
+
+Additional visual details: Add subtle music staff lines, ink scratches, dust, cracks, magenta paint splatter, teal waveform circle near the lower center, torn edges, and layered paper shadows. Use dramatic warm highlights on parchment and cool neon accents on the portrait. Spanish text must be legible and placed as described.
+
+Style constraints: Dark investigative documentary thumbnail, grunge editorial collage, realistic engraved portrait mixed with modern graphic design, no extra logos, no watermark, no additional text beyond the specified Spanish phrases.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2081395991983407297) | 2026-07-26
+
+---
+
+### 🎴 例 5062：AniFusion 漫画风格宣传海报
+
+![AniFusion 漫画风格宣传海报](../images/AniFusion%20%E6%BC%AB%E7%94%BB%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="platform name" default="AniFusion"} 创建一张色彩丰富的全页日式漫画风格宣传海报。这是一个帮助用户制作漫画、插画、视频、绘画并管理资产的创作者平台。吉祥物是 {argument name="character name" default="Ai-kun"}，一个活泼的动漫猫耳少年向导。
+
+画布：竖版 A4 海报，白色外边距，粗黑漫画分镜框，充满活力的少年漫画广告布局，明亮的柔和色调点缀，构图简洁，适合印刷。
+
+主要角色细节：一个可爱的动漫猫耳少年，拥有蓬松的棕色头发、大大的棕色猫耳、毛茸茸的尾巴、圆框黑眼镜、温暖的棕色眼睛、小胡须印记，身穿白色连帽衫搭配蓝色牛仔背带裤，佩戴带有金色铃铛的红色项圈，发夹上写着“AI”字样。他作为向导吉祥物多次出现，表现出微笑、眨眼、指向、挥手和展示工具等动作。
+
+布局与分镜数量：使用 9 个主要漫画/内容分镜，外加一个右侧竖排文字条和一个底部横幅。分镜 1（左上大图）：Ai-kun 的特写，眨眼并用手写笔指向观众，背景为闪烁的加速线，对话气泡文字为：「みんなー！マンガやイラストをもっと自由に楽しみたい？それなら…」，姓名标签：「アイくん」。分镜 2（右上 Logo 区）：大型俏皮的紫色和蓝色“AniFusion”Logo，字母中融入了调色板元素，日文副标题：「アニフュージョン」。分镜 3（右上小吉祥物区）：Ai-kun 在 Logo 旁挥手，对话气泡：「AniFusionがすべて叶えてくれるよ！」。分镜 4（中间大仪表盘区）：中央展示 Web 应用截图模拟界面，标注“Welcome back”，Ai-kun 在旁展示；顶部锯齿状标题：「いろんなツールがぜ〜んぶここに！」。分镜 5（左侧堆叠工具卡片区）：包含 3 张堆叠的功能卡片，分别标注“Comics”、“Canvases”和“Image”；每张卡片配有缩略图网格和对应的日文说明：「マンガを作ろう！」、「アイデアを広げよう！」、「高品質なAI生成！」。分镜 6（中下功能卡片）：红色标签“Video”，配有动态动漫男孩缩略图和日文说明：「イラストを動画に！」。分镜 7（中下功能卡片）：橙色标签“Drawing”，配有从草图到完成的动漫少女作品和日文说明：「描いて、整えて、仕上げよう！」。分镜 8（右下功能卡片）：绿色标签“Library & More”，配有 4 个简单的黑色图标：书架、开口箱/立方体、清单/文档、滑块/设置；日文说明：「保存も管理もカンタン！」。分镜 9（底部双场景）：左侧 Ai-kun 在粉色爱心背景下拥抱一只柴犬，对话气泡：「AIがキミの創造力をサポートするよ！」；右侧 Ai-kun 坐在书桌前，桌上有绘图板、手写笔、显示漫画页面缩略图的显示器、带有爪印的咖啡杯，对话气泡：「さあ、いっしょに楽しい作品を生み出そう！」。
+
+右侧竖条：在最右侧添加一条狭窄的白色竖条，上面印有黑色日文文字：「これはよくある案件漫画のフリをしたコンテスト応募作品です(ChatGPT free)」，随后是名字「大澤基」和一个蓝色小爪印。
+
+底部横幅：全宽浅蓝色横幅，带有爪印和星星图案，大型橙白相间的日文标题：「クリエイターのための、ぜんぶ入りプラットフォーム！」以及较小的副标题：「AniFusionで、きみの物語をカタチにしよう！」。
+
+视觉风格：现代精致的动漫漫画广告风格，光泽感赛璐珞阴影，表情生动，线条干净，网点纹理，闪光和星芒效果，柔和的蓝色和桃色背景，清晰易读的日文排版，友好的创作者工具品牌感。
+
+约束条件：Ai-kun 必须出现 6 次：指向特写、Logo 旁挥手、展示仪表盘、功能卡片旁的小向导、拥抱小狗、书桌前绘画。包含 3 张左侧堆叠功能卡片，3 张底部功能卡片，以及 4 个库图标。确保所有日文文字清晰且放置位置符合描述。无水印，画面中除 Ai-kun 和小狗外无其他角色。
+
+[English]
+Goal: Create a colorful full-page Japanese manga-style promotional comic poster for {argument name="platform name" default="AniFusion"}, a creator platform that helps users make comics, illustrations, videos, drawings, and manage assets. The mascot is {argument name="character name" default="Ai-kun"}, a cheerful anime cat-boy guide.
+
+Canvas: Vertical A4 poster, white outer margin, thick black comic panel borders, high-energy shonen manga advertisement layout, bright pastel accents, clean print-ready composition.
+
+Main character details: A cute young anime cat-boy with fluffy brown hair, large brown cat ears, a fluffy tail, round black glasses, warm brown eyes, small whisker marks, a white hoodie under blue denim overalls, red collar with a gold bell, and a yellow hair clip reading “AI”. He appears repeatedly as the guide mascot, smiling, winking, pointing, waving, and presenting tools.
+
+Layout and counted panels: Use exactly 9 main comic/content panels plus one right-side vertical text strip and one bottom banner. Panel 1, top-left large panel: close-up of Ai-kun winking and pointing a stylus toward the viewer, sparkly speed-line background, speech bubble in Japanese: 「みんなー！マンガやイラストをもっと自由に楽しみたい？それなら…」, name label: 「アイくん」. Panel 2, top-right logo panel: large playful purple and blue “AniFusion” logo with a painter palette incorporated into the letters, Japanese subtitle: 「アニフュージョン」. Panel 3, upper-right small mascot panel: Ai-kun waves beside the logo with speech bubble: 「AniFusionがすべて叶えてくれるよ！」. Panel 4, middle large dashboard panel: central web-app screenshot mockup labeled “Welcome back”, surrounded by Ai-kun presenting it; top jagged caption: 「いろんなツールがぜ〜んぶここに！」. Panel 5, left stack tool card area: exactly 3 stacked feature cards labeled “Comics”, “Canvases”, and “Image”; each has thumbnail grids and Japanese captions respectively: 「マンガを作ろう！」, 「アイデアを広げよう！」, 「高品質なAI生成！」. Panel 6, lower-middle feature card: “Video” red label with a dynamic anime boy thumbnail and Japanese caption: 「イラストを動画に！」. Panel 7, lower-middle feature card: “Drawing” orange label with sketch-to-finished-anime-girl artwork and Japanese caption: 「描いて、整えて、仕上げよう！」. Panel 8, lower-right feature card: “Library & More” green label with exactly 4 simple black icons: bookshelf, open box/cube, checklist/document, sliders/settings; Japanese caption: 「保存も管理もカンタン！」. Panel 9, bottom two-part scene: left side Ai-kun hugs a Shiba Inu dog on a pink heart background with speech bubble: 「AIがキミの創造力をサポートするよ！」; right side Ai-kun sits at a desk with drawing tablet, stylus, monitor showing manga page thumbnails, coffee mug with paw print, and speech bubble: 「さあ、いっしょに楽しい作品を生み出そう！」.
+
+Right vertical strip: Add a narrow white vertical strip on the far right with black Japanese text reading: 「これはよくある案件漫画のフリをしたコンテスト応募作品です(ChatGPT free)」 followed by the name 「大澤基」 and a small blue paw print.
+
+Bottom banner: Full-width light blue banner with paw prints and stars, large orange-and-white Japanese headline: 「クリエイターのための、ぜんぶ入りプラットフォーム！」 and smaller line: 「AniFusionで、きみの物語をカタチにしよう！」.
+
+Visual style: Modern polished anime manga advertisement, glossy cel shading, expressive faces, clean line art, halftone textures, sparkles, starbursts, pastel blue and peach backgrounds, readable Japanese typography, friendly creator-tool branding.
+
+Constraints: Include exactly 6 visible appearances of Ai-kun: pointing close-up, waving by logo, presenting dashboard, small pointing mascot near feature cards, hugging dog, and drawing at desk. Include exactly 3 stacked left feature cards, exactly 3 bottom-row feature cards, and exactly 4 library icons. Keep all Japanese text legible and placed as described. No watermark, no extra characters beyond Ai-kun and the dog.
+```
+
+**来源：** [@白井暁彦/Dr.(Shirai)Hakase/AICU/ClaudeCode世界35位](https://x.com/o_ob/status/2081355299332759823) | 2026-07-26
+
+---
+
+### 🎴 例 5070：极简马克笔风格纽约旅行海报
+
+![极简马克笔风格纽约旅行海报](../images/%E6%9E%81%E7%AE%80%E9%A9%AC%E5%85%8B%E7%AC%94%E9%A3%8E%E6%A0%BC%E7%BA%BD%E7%BA%A6%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版极简马克笔风格旅行海报，主题为 {argument name="city" default="NEW YORK CITY"}，背景为暖象牙色纸张。
+
+风格：
+采用粗犷、不完美的编辑类马克笔插画风格，带有现代民间艺术感。使用厚重且略显不均匀的钴蓝色轮廓线。上色时需呈现明显的马克笔笔触、条纹状覆盖、压力变化、干擦纹理以及斑驳的密度感。不要完全填满形状，需留出大量大小不一的空白，让暖象牙色纸张透过衣物、建筑和街道元素显露出来。部分轮廓线应呈现断裂、跳跃或淡出的效果。
+
+场景：
+描绘一对恋人在曼哈顿安静的褐砂石街道上亲密漫步。其中一人自然地向另一人倾斜，姿态亲昵。保持场景的私密感与低调感。
+
+背景简化：
+仅包含 4 个核心纽约元素：一个褐砂石台阶、一个黑色消防梯、一个小型街角熟食店遮阳篷，以及一辆隐约可见的黄色出租车。可选择性地加入极其淡远的城市天际线轮廓，但不要添加更多城市元素。保持背景视觉上的简洁。
+
+构图：
+将情侣置于画面中心偏下方作为情感焦点。背景支撑元素应松散地分布在他们身后，采用不完整的马克笔填充和断裂的轮廓碎片。至少 40% 的页面应保留为原始的暖象牙色纸张。保持布局通透、优雅且不杂乱。
+
+完成度渐变：
+情侣区域应为刻画最完整的部分。附近的背景物体仅需 40% 到 60% 的渲染度。远处的细节和外边缘在到达边框前应逐渐淡化为松散的马克笔笔触和留白。
+
+海报排版：
+在顶部添加标题 "{argument name="title" default="NEW YORK CITY"}"，使用粗体手绘大写字母。添加一行小巧的手写副标题，例如 "{argument name="subtitle" default="summer stroll"}"。
+
+调色板：
+使用克制的配色方案：深钴蓝、柔和的板岩蓝、芥末赭色、暖棕色、出租车黄以及暖象牙色纸张。保持色调有限且略显柔和。
+
+氛围：
+浪漫、宁静、都市、怀旧、时尚、手工感。
+
+负面提示词：
+完全填充的马克笔上色、纯色平涂、平滑的矢量色彩、精致的数字成品、干净完美的轮廓、过度完整的渲染、拥挤的背景、过多的城市元素、密集的建筑、详细的标牌、写实纹理、光泽表面、照片写实主义、水彩、油画、喷笔阴影、3D 渲染、电影级灯光、戏剧性阴影、杂乱的布局、广告牌堆砌、超精细建筑、完美对称、多余的手指、多余的肢体、扭曲的解剖结构、模糊的面部
+
+[English]
+Create a vertical 3:4 minimalist marker-pen travel poster of {argument name="city" default="NEW YORK CITY"} on warm ivory paper.
+
+STYLE:
+Use a rough, imperfect editorial marker illustration style with a modern folk-art feel. Draw with thick, slightly uneven cobalt-blue contour lines. Apply color with visible felt-tip marker strokes, streaky coverage, pressure variation, dry-skip texture, and patchy density. Do not fill shapes completely. Leave many small and medium uncolored gaps so the warm ivory paper remains visible through clothing, buildings, and street elements. Some outlines should break, skip, or fade.
+
+SCENE:
+Depict two lovers walking closely together on a quiet brownstone street in Manhattan. One gently leans toward the other in a natural affectionate pose. Keep the scene intimate and understated.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 essential New York cues: one brownstone stoop, one black fire escape, one small corner deli awning, and one faint yellow taxi. Optionally suggest a very faint distant skyline silhouette, but do not add more city elements. Keep the background visually quiet.
+
+COMPOSITION:
+Place the couple slightly below center as the emotional focus. Let the supporting background elements sit loosely behind them with incomplete marker fills and broken contour fragments. At least 40 percent of the page should remain untouched warm ivory paper. Keep the layout airy, elegant, and uncluttered.
+
+FINISH GRADIENT:
+The couple is the most resolved area. Nearby background objects are only about 40 to 60 percent rendered. Distant details and outer edges fade into loose marker strokes and untouched paper before reaching the border.
+
+POSTER TYPOGRAPHY:
+Add the title "{argument name="title" default="NEW YORK CITY"}" at the top in bold hand-drawn uppercase lettering. Add a small handwritten subtitle such as "{argument name="subtitle" default="summer stroll"}".
+
+COLOR PALETTE:
+Use a restrained palette of deep cobalt blue, muted slate blue, mustard ochre, warm brown, taxi yellow, and warm ivory paper. Keep the palette limited and slightly muted.
+
+MOOD:
+Romantic, calm, urban, nostalgic, stylish, handmade.
+
+NEGATIVE PROMPT:
+fully filled marker coloring, solid flat fills, smooth vector color, polished digital finish, clean perfect outlines, overly complete rendering, crowded background, too many city elements, dense architecture, detailed signage, realistic textures, glossy surfaces, photorealism, watercolor, oil painting, airbrush shading, 3D render, cinematic lighting, dramatic shadows, cluttered layout, billboard overload, hyper-detailed buildings, perfect symmetry, extra fingers, extra limbs, distorted anatomy, blurry face
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2081329857888489966) | 2026-07-26
+
+---
+
+### 🎴 例 5080：极简马克笔旅行海报
+
+![极简马克笔旅行海报](../images/%E6%9E%81%E7%AE%80%E9%A9%AC%E5%85%8B%E7%AC%94%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版极简马克笔旅行海报，主题为 {argument name="location" default="NEW YORK CITY"}，背景为暖象牙色纸张。
+
+风格：
+采用粗糙、不完美的编辑类马克笔插画风格，带有现代民间艺术感。使用粗犷、略显不均匀的钴蓝色轮廓线进行绘制。通过可见的毡尖马克笔笔触上色，呈现出条纹状覆盖、压力变化、干擦质感和斑驳的密度。不要完全填满形状。在衣物、建筑和街道元素中保留许多中小型未上色间隙，使暖象牙色纸张显露出来。部分轮廓线应呈现断裂、跳跃或褪色效果。
+
+场景：
+描绘 {argument name="subject" default="一对情侣在曼哈顿安静的褐砂石街道上亲密漫步"}。其中一人以自然的亲昵姿态轻轻靠向另一人。保持场景亲密且低调。
+
+背景简化：
+仅包含 4 个核心元素：{argument name="details" default="一个褐砂石台阶、一个黑色消防逃生梯、一个小型街角熟食店遮阳篷，以及一辆淡淡的黄色出租车"}。可选择性地勾勒出非常模糊的远方天际线轮廓，但不要添加更多城市元素。保持背景视觉简洁。
+
+构图：
+将情侣置于画面中心偏下方作为情感焦点。让背景元素松散地分布在他们身后，使用不完整的马克笔填充和断裂的轮廓碎片。至少 40% 的页面应保持原始的暖象牙色纸张。保持布局通透、优雅且不杂乱。
+
+完成度渐变：
+情侣是刻画最完整的部分。附近的背景物体仅渲染 40% 到 60%。远处的细节和外边缘在到达边框前逐渐淡化为松散的马克笔笔触和留白。
+
+海报排版：
+在顶部添加标题 "{argument name="location" default="NEW YORK CITY"}"，使用粗体手绘大写字母。添加一行简短的手写副标题，例如 "summer stroll"。
+
+调色板：
+使用克制的色调，包括深钴蓝、柔和的板岩蓝、芥末赭色、暖棕色、出租车黄和暖象牙色纸张。保持色调有限且略显柔和。
+
+氛围：
+浪漫、宁静、都市、怀旧、时尚、手工感。
+
+[English]
+Create a vertical 3:4 minimalist marker-pen travel poster of {argument name="location" default="NEW YORK CITY"} on warm ivory paper.
+
+STYLE:
+Use a rough, imperfect editorial marker illustration style with a modern folk-art feel. Draw with thick, slightly uneven cobalt-blue contour lines. Apply color with visible felt-tip marker strokes, streaky coverage, pressure variation, dry-skip texture, and patchy density. Do not fill shapes completely. Leave many small and medium uncolored gaps so the warm ivory paper remains visible through clothing, buildings, and street elements. Some outlines should break, skip, or fade.
+
+SCENE:
+Depict {argument name="subject" default="two lovers walking closely together on a quiet brownstone street in Manhattan"}. One gently leans toward the other in a natural affectionate pose. Keep the scene intimate and understated.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 essential cues: {argument name="details" default="one brownstone stoop, one black fire escape, one small corner deli awning, and one faint yellow taxi"}. Optionally suggest a very faint distant skyline silhouette, but do not add more city elements. Keep the background visually quiet.
+
+COMPOSITION:
+Place the couple slightly below center as the emotional focus. Let the supporting background elements sit loosely behind them with incomplete marker fills and broken contour fragments. At least 40 percent of the page should remain untouched warm ivory paper. Keep the layout airy, elegant, and uncluttered.
+
+FINISH GRADIENT:
+The couple is the most resolved area. Nearby background objects are only about 40 to 60 percent rendered. Distant details and outer edges fade into loose marker strokes and untouched paper before reaching the border.
+
+POSTER TYPOGRAPHY:
+Add the title "{argument name="location" default="NEW YORK CITY"}" at the top in bold hand-drawn uppercase lettering. Add a small handwritten subtitle such as "summer stroll".
+
+COLOR PALETTE:
+Use a restrained palette of deep cobalt blue, muted slate blue, mustard ochre, warm brown, taxi yellow, and warm ivory paper. Keep the palette limited and slightly muted.
+
+MOOD:
+Romantic, calm, urban, nostalgic, stylish, handmade.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2081298925458461006) | 2026-07-26
+
+---
+
+### 🎴 例 5090：手绘旅行日记素描
+
+![手绘旅行日记素描](../images/%E6%89%8B%E7%BB%98%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+手绘旅行日记插画，采用精致的水墨素描风格，复古旅行明信片美学，纹理感奶油色纸张背景，富有表现力的钴蓝色针管笔线条，搭配暖赭色、柔和橄榄绿和柔和赤陶色的水彩渲染，写意的建筑速写，极简主义城市风光，顶部配有优雅的手写字体，包含 {argument name="title" default="大型目的地标题"} 和 {argument name="subtitle" default="较小的连笔副标题"}，温馨的旅行日记构图，迷人的生活方式插画，穿着休闲的时尚年轻旅行者，电影感构图，干净的留白，细腻的排线，柔和的毛笔笔触，编辑类杂志封面设计，现代水粉与水彩的融合，不完美的纯手工绘制魅力，温暖的怀旧氛围，欧洲速写本美学，Moleskine 旅行日记，奇妙的城市叙事，高级插画海报，高度细节，平衡的构图，柔和的纸张纹理，自然的墨水晕染，精致的色彩和谐，艺术旅行印刷品，4K，博物馆级插画。
+
+[English]
+Hand-drawn travel journal illustration in a refined ink-and-watercolor sketch style, vintage travel postcard aesthetic, textured cream paper background, expressive cobalt blue fineliner linework with warm ochre, muted olive green and soft terracotta watercolor washes, loose architectural sketches, minimalist urban scenery, elegant handwritten typography at the top with {argument name="title" default="large destination title"} and {argument name="subtitle" default="smaller cursive subtitle"}, cozy travel diary composition, charming lifestyle illustration, stylish young traveler in relaxed casual clothing, cinematic composition, clean negative space, subtle cross-hatching, soft brush pen strokes, editorial magazine cover design, modern gouache and watercolor fusion, imperfect hand-drawn charm, warm nostalgic atmosphere, European sketchbook aesthetic, Moleskine travel journal, whimsical urban storytelling, premium illustrated poster, highly detailed, balanced composition, soft paper grain, natural ink bleed, sophisticated color harmony, artistic travel print, 4K, museum-quality illustration.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2081232385895764440) | 2026-07-26
+
+---
+

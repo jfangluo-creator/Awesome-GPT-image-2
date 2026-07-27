@@ -12188,3 +12188,93 @@ Create a completely different composition with a magical fantasy atmosphere. Use
 
 ---
 
+### 🏷️ 例 5069：银狐耳冬日法师
+
+![银狐耳冬日法师](../images/%E9%93%B6%E7%8B%90%E8%80%B3%E5%86%AC%E6%97%A5%E6%B3%95%E5%B8%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的全身动漫奇幻插画，描绘一位在凉爽冬夜背景下、神情愉悦的银发狐耳少女。角色拥有 {argument name="hair color" default="飘逸的长银白发"}、一对硕大的毛茸茸狐耳、紫罗兰色的双眸、淡淡的红晕，并面带温柔的微笑注视着观众。她优雅地向前迈步，一条腿微微抬起，左手向镜头挥动，姿态友好；右手握着一根华丽的高大魔法杖，杖顶是一个发光的紫色水晶球，镶嵌在银色的新月与星形花丝框架中。为她穿上 {argument name="outfit style" default="海军蓝与白色雪之公主风格的军事法师装束"}：一件带有银色纽扣和星形胸针细节的修身深海军蓝夹克，袖口和斗篷边缘饰有白色毛领，配以银色腰带、白色短褶裙、深色半透明连裤袜、带有银色雪花装饰的海军蓝过膝长靴，以及一件装饰着明显白色雪花图案、随风飘动的海军蓝斗篷。场景设定在 {argument name="background setting" default="蓝紫色璀璨星空下的冰晶宫殿露台"}，左右两侧边缘可见两座高耸的晶体尖塔，远处是发光的拱形宫殿建筑，地面是反射着星光点点的冰砖，头顶是深邃的星云。采用低角度英雄构图，角色居中，头发与斗篷随风动态飘动，线条清晰，高细节动漫渲染，蓝紫色调的明亮光影，冰面光泽反射，营造出魔法冬日的氛围，无文字，无水印。
+
+[English]
+Create a polished full-body anime fantasy illustration of a cheerful silver-haired fox-eared girl in a cool winter night setting. The character has {argument name="hair color" default="long flowing silver-white hair"}, large fluffy fox ears, violet eyes, soft blush, and a gentle smile while facing the viewer. She is stepping forward gracefully with one leg raised, her left hand open in a friendly wave toward the camera, and her right hand holding an ornate tall magical staff topped with a glowing purple crystal orb inside a silver crescent-and-star filigree frame. Dress her in {argument name="outfit style" default="navy blue and white snow-princess military mage outfit"}: a fitted dark navy jacket with silver buttons and star brooch details, white fur trim on cuffs and cape edges, a silver belt, a short pleated white skirt, dark translucent tights, navy knee-high boots with silver snowflake-like ornaments, and a dramatic flowing navy cape decorated with visible white snowflake motifs. Set the scene in {argument name="background setting" default="an icy crystal palace terrace under a brilliant blue-purple galaxy sky"}, with exactly two tall crystalline spires visible near the left and right edges, luminous arched palace architecture in the distance, a reflective frozen-tile floor sparkling with star-like highlights, and deep space nebula clouds overhead. Use a low-angle heroic composition, centered character, dynamic wind-blown hair and cape, crisp line art, highly detailed anime rendering, luminous blue and violet lighting, glossy ice reflections, magical winter atmosphere, no text, no watermark.
+```
+
+**来源：** [@AI Bard Guild](https://x.com/IsekaiBardGuild/status/2081330635835359329) | 2026-07-26
+
+---
+
+### 🏷️ 例 5085：复古黑白照相亭九宫格
+
+![复古黑白照相亭九宫格](../images/%E5%A4%8D%E5%8F%A4%E9%BB%91%E7%99%BD%E7%85%A7%E7%9B%B8%E4%BA%AD%E4%B9%9D%E5%AE%AB%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像，创建一个超写实的复古黑白照相亭拼贴画，主角为同一位 {argument name="subject" default="年轻女性"}，需具备相同的面部特征、长而蓬松的深色波浪卷发、柔和的自然妆容以及透亮的肌肤。构图由四个间距均匀的照相亭相框组成，以整洁的 2×2 网格排列，带有细白边，拍摄于带有简单帘幕背景的经典照相亭内。她身穿一件超大号 {argument name="attire" default="带有醒目黑色数字 11 的白色 NFL 风格橄榄球衫"}，配有黑色条纹袖子，呈现出运动复古美学。她还戴着一顶带有白色星星标志的黑色棒球帽，叠戴银色项链、戒指和极简首饰。每个相框捕捉不同的抓拍姿势：1. 身体微微前倾，嘟起嘴唇，做出俏皮的亲吻表情。2. 侧身看向一侧，表情放松且深思。3. 双手抓着头发，直视镜头。4. 灿烂微笑，眨眼并吐舌头，姿势俏皮。图像具有真实的胶片颗粒感、柔和的单色对比度、微妙的暗角、轻微的照相亭瑕疵、细腻的皮肤纹理、逼真的织物褶皱、柔和的漫射光以及怀旧的 21 世纪初美学。风格关键词：黑白照相亭，复古胶片，NFL 球衣，超大号运动装，棒球帽，Pinterest 美学，Y2K，抓拍肖像，Kodak Tri-X，单色编辑风格，怀旧，照片级真实，超细节。负面提示词：低质量，模糊，动漫，卡通，CGI，塑料感皮肤，解剖结构扭曲，多余的手指，面部重复，肢体重复，水印，标志，文字，光线不佳，过度锐化，低分辨率，伪影，面部不一致，发型不同，身体裁剪，构图不佳。
+
+[English]
+Using the provided reference image, create an ultra-realistic vintage black-and-white photo booth collage featuring the same {argument name="subject" default="young woman"} with identical facial features, long voluminous wavy dark hair, soft natural makeup, and glowing skin. The composition consists of four evenly spaced photo booth frames arranged in a clean 2×2 grid with thin white borders, photographed inside a classic photo booth with a simple curtain backdrop. She wears an oversized {argument name="attire" default="white NFL-style football jersey with bold black number 11"}, black striped sleeves, and an athletic vintage aesthetic. She also wears a black baseball cap with a white star logo, layered silver necklaces, rings, and minimal jewelry. Each frame captures a different candid pose: 1. Leaning slightly toward the camera with lips puckered in a playful kiss expression. 2. Looking sideways with a relaxed, thoughtful expression. 3. Holding strands of her hair with both hands while looking directly into the camera. 4. Smiling brightly, winking one eye, and sticking out her tongue in a playful pose. The images feature authentic film grain, soft monochrome contrast, subtle vignette, slight photo booth imperfections, gentle skin texture, realistic fabric folds, soft diffused lighting, and a nostalgic early-2000s aesthetic. Style Keywords: black and white photo booth, vintage film, NFL jersey, oversized sportswear, baseball cap, Pinterest aesthetic, Y2K, candid portraits, Kodak Tri-X, monochrome editorial, nostalgic, photorealistic, ultra detailed. Negative Prompt: low quality, blurry, anime, cartoon, CGI, plastic skin, distorted anatomy, extra fingers, duplicate face, duplicate limbs, watermark, logo, text, poor lighting, oversharpened, low resolution, artifacts, inconsistent face, different hairstyle, cropped body, bad composition.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2081253789005480234) | 2026-07-26
+
+---
+
+### 🏷️ 例 5094：博物馆艺术装置时尚大片
+
+![博物馆艺术装置时尚大片](../images/%E5%8D%9A%E7%89%A9%E9%A6%86%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一组屡获殊荣的超奢华时尚大片，拍摄于令人惊叹的当代艺术博物馆内。多个晶莹剔透的悬浮玻璃框架以不同的高度和深度在半空中轻盈漂浮，营造出沉浸式的三维视觉装置。每个透明框架中都展示着同一位极其美丽的 {argument name="model origin" default="年轻欧洲女性"} 模特，她拥有精致的五官、透亮的肌肤、富有表现力的蓝绿色双眸和优雅的自然妆容，以完全不同的高级定制造型和自信的时尚姿态出镜。每个框架都呈现出一个独特的奢华时尚故事，包含 {argument name="clothing type" default="雕塑感礼服、现代建筑剪裁、飘逸丝绸、缎面、欧根纱、缀满水晶的高定服饰、优质纹理面料、优雅斗篷、不对称廓形、精致的单色造型以及当代高级时尚配饰"}。她的发型在光洁顺滑、柔和波浪、优雅盘发和现代秀场风格之间微妙变化，使每张肖像既保持模特一致性，又拥有独特的个性。悬浮的玻璃面板在透视中自然重叠，营造出极具戏剧性的电影感深度、柔和的光学折射、精致的棱镜效果以及逼真的边缘高光。柔和的倒影在洁净的镜面抛光白色大理石地面上舞动，增强了无限空间的错觉，且不会喧宾夺主。画廊建筑风格为 {argument name="architecture style" default="极简而宏伟"}，拥有高耸的天花板、博物馆级的比例、雕塑感的混凝土墙面、隐藏式建筑照明、超大天窗以及大量柔和的自然光倾泻而入。温暖的象牙白、香槟金、珍珠白、柔和米色和微妙的暖灰色调营造出永恒的欧洲奢华氛围。构图在前景、中景和背景元素之间达到了完美平衡，产生了卓越的深度和丰富的视觉层次。每个玻璃框架看起来都轻盈悬浮，投下柔和逼真的阴影并产生微妙的反射，同时保持了完全的透明度。超高端 Vogue Italia 杂志编辑审美，奢华广告大片摄影，博物馆级艺术构图，电影级布光，超写实 DSLR 摄影，Canon EOS R5，RF 85mm f/1.2L 镜头，f/1.8，HDR，超浅景深，悬浮框架焦点极其锐利，精致的皮肤细节，栩栩如生的面料质感，真实的玻璃物理效果，体积光，全局光照，柔和环境光遮蔽，极高动态范围，照片级真实感，大师级品质，8K，无文字，无 Logo，无水印。
+
+[English]
+An award-winning ultra-luxury fashion editorial photographed inside a breathtaking contemporary art museum where multiple crystal-clear floating glass frames hover effortlessly in mid-air at varying heights and depths, creating an immersive three-dimensional visual installation. Each transparent frame showcases the same exceptionally beautiful {argument name="model origin" default="young European female"} model with refined facial features, luminous skin, expressive blue-green eyes, and elegant natural makeup, captured in completely different haute couture looks and confident editorial poses. Every frame presents a unique luxury fashion story featuring {argument name="clothing type" default="sculptural gowns, modern architectural tailoring, flowing silk, satin, organza, embellished crystal couture, premium textured fabrics, elegant capes, asymmetric silhouettes, sophisticated monochrome styling, and contemporary high-fashion accessories"}. Her hairstyles subtly vary between polished sleek hair, soft waves, elegant updos, and modern runway-inspired looks, giving every portrait its own identity while maintaining the same model. The floating glass panels overlap naturally in perspective, creating dramatic cinematic depth, soft optical refractions, delicate prism effects, and realistic edge highlights. Gentle reflections dance across an immaculate mirror-polished white marble floor, enhancing the illusion of infinite space without becoming distracting. The gallery architecture is {argument name="architecture style" default="minimalist yet monumental"}, featuring soaring ceilings, museum-grade proportions, sculptural concrete walls, hidden architectural lighting, oversized skylights, and abundant soft natural daylight streaming through the space. Warm ivory, champagne gold, pearl white, soft beige, and subtle warm grey tones create an atmosphere of timeless European luxury. The composition is perfectly balanced with layered foreground, midground, and background elements, producing exceptional depth and visual richness. Every glass frame appears to float weightlessly, casting soft realistic shadows and subtle reflections while preserving complete transparency. Ultra-premium Vogue Italia editorial aesthetic, luxury campaign photography, museum-quality fine art composition, cinematic lighting, hyper-realistic DSLR photography, Canon EOS R5, RF 85mm f/1.2L lens, f/1.8, HDR, ultra-shallow depth of field, tack-sharp focus on the floating frames, exquisite skin detail, lifelike fabric textures, realistic glass physics, volumetric light rays, global illumination, soft ambient occlusion, extremely high dynamic range, photorealistic, masterpiece quality, 8K, no text, no logos, no watermark.
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2081227584637943971) | 2026-07-26
+
+---
+
+### 🏷️ 例 5101：夕阳下的忧郁动漫小提琴手
+
+![夕阳下的忧郁动漫小提琴手](../images/%E5%A4%95%E9%98%B3%E4%B8%8B%E7%9A%84%E5%BF%A7%E9%83%81%E5%8A%A8%E6%BC%AB%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖构图、电影感的动漫插画，画面中 {argument name="character name" default="一位孤独的年轻小提琴手"} 侧身站在夕阳下的欧洲老式音乐室里，正在演奏 {argument name="instrument" default="一把木制小提琴"}。角色拥有 {argument name="hair color and style" default="浅金色、松散编织的长发和凌乱的刘海"}，身形纤细优雅，穿着 {argument name="outfit" default="一套合身的黑色正装，搭配高领衬衫"}。展示小提琴夹在下巴下，左手按在指板上，右手持弓向下，表情安静、忧郁，沉浸在音乐中。房间高大华丽，配有深色雕花木墙板、挑高天花板、拼花地板，背景阴影处摆放着古董椅，左侧有一扇带薄纱窗帘的大型多格窗户。温暖的金色夕阳透过窗户倾泻而入，形成强烈的对角线光束，在地板上投下长长的阴影，空气中漂浮着发光的尘埃，营造出怀旧的情感氛围。采用棕褐色单色调，带有微妙的琥珀色高光，精细的线条，细腻的排线，绘画感漫画渲染，戏剧性的逆光效果，丰富的木质纹理，以及沉思的古典意境。构图将人物置于中心偏右，窗户占据左侧三分之一，全身可见，比例为 9:16。无文字，无水印，无现代物品。
+
+[English]
+Create a vertical, cinematic anime illustration of {argument name="character name" default="a solitary young violinist"} standing in profile inside an old European music room at sunset, playing {argument name="instrument" default="a wooden violin"}. The character has {argument name="hair color and style" default="pale blond, loosely braided long hair with messy bangs"}, a slim and elegant build, and wears {argument name="outfit" default="a fitted black formal suit with a high-collared shirt"}. Show the violin tucked under the chin, left hand on the fingerboard, bow held downward in the right hand, expression quiet, melancholic, and absorbed in the music. The room is tall and ornate, with dark carved wood wall panels, high ceilings, parquet flooring, antique chairs in the shadowed background, and one large multi-pane window on the left with thin curtains. Warm golden sunset light pours through the window, creating strong diagonal beams, long shadows across the floor, glowing dust particles, and a nostalgic emotional atmosphere. Use a sepia-brown monochrome palette with subtle amber highlights, highly detailed linework, delicate crosshatching, painterly manga rendering, dramatic backlighting, rich wood textures, and a contemplative classical mood. Compose the figure slightly right of center, window occupying the left third, full body visible from head to shoes, portrait aspect ratio 9:16. No text, no watermark, no modern objects.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2081217939634884666) | 2026-07-26
+
+---
+
+### 🏷️ 例 5109：女性机械浪人角色艺术
+
+![女性机械浪人角色艺术](../images/%E5%A5%B3%E6%80%A7%E6%9C%BA%E6%A2%B0%E6%B5%AA%E4%BA%BA%E8%A7%92%E8%89%B2%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张全身动漫插画，主角为 {argument name="character archetype" default="女性机械浪人"}，以平静而威慑的姿态站立在深钴蓝色纯色背景前。她身材高挑纤细，呈四分之三侧身，头部微垂，用发光的红色双眼注视着观众，表情严峻而沉静。她留着凌乱的下巴长度 {argument name="hair color" default="白色"} 短发，皮肤呈现淡蓝色阴影，脸部一侧有细小的深色机械标记或排气口。她戴着一顶宽大的淡桃色斗笠，投下锐利的阴影；身穿一件宽松的超大号和服外套，上面有黑色、海军蓝、青色、珊瑚红和橙色的抽象绘画风格泼墨，内搭长款淡桃色袴裤。添加两件可见武器：左侧腰间佩戴一把刀柄向后的武士刀，右侧身后延伸出一把长长的深色剑或剑鞘。采用受现代少年漫角色设计启发的戏剧性图形漫画风格，运用平涂色彩、硬边阴影、粗糙的丝网印刷纹理、墨迹飞溅图案以及高对比度的霓虹红橙色点缀。构图保持极简，人物略微偏左，留出大量负空间，采用低视角，右下角延伸出长长的黑色投影。无文字，无边框，无额外角色，垂直 2:3 长宽比。
+
+[English]
+Create a full-body anime illustration of a {argument name="character archetype" default="female mechanical ronin"} standing in a calm, intimidating pose against a flat deep cobalt-blue background. She is tall and slender, shown slightly turned in three-quarter view with her head tilted downward, looking toward the viewer with glowing red eyes and a stern, quiet expression. She has messy chin-length {argument name="hair color" default="white"} hair, pale blue shadowed skin, and small dark mechanical markings or vents along one side of her face. She wears a wide angular pale peach kasa straw hat casting a sharp shadow, a loose oversized kimono coat with bold abstract painterly splashes in black, navy, teal, coral red, and orange, layered over long pale peach hakama-style trousers. Add two visible weapons: one sheathed katana at her left hip with the handle projecting backward, and one long dark sword or scabbard extending behind her to the right. Use a dramatic graphic manga style inspired by modern shonen character design, with flat colors, hard-edged shadows, rough screenprint textures, splattered ink patterns, and high contrast neon red-orange accents. Keep the composition minimal with the figure centered slightly left, lots of negative space, a low viewpoint, and a long black cast shadow stretching across the bottom right. No text, no border, no extra characters, vertical 2:3 aspect ratio.
+```
+
+**来源：** [@路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth/status/2081178980045193476) | 2026-07-26
+
+---
+

@@ -10191,3 +10191,159 @@ Return only the finished prompt.
 
 ---
 
+### 🖥️ 例 5038：Aria Monroe 城市动作场景
+
+![Aria Monroe 城市动作场景](../images/Aria%20Monroe%20%E5%9F%8E%E5%B8%82%E5%8A%A8%E4%BD%9C%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+电影质感的韩式动作序列，场景位于一条阳光明媚的狭窄城市小巷，两旁是砖墙建筑、空调外机、木托盘，以及一家显眼的 GS25 便利店。一位年轻健美的女性留着长金发，扎着高马尾，身穿修身的粉色长袖运动短款上衣，领口为深方领，搭配同色系的粉色紧身运动裤和干净的粉色运动鞋。她的脸部、颈部和上胸部带着一层淡淡的汗水，突显出她刚刚结束训练，但神情依然冷静、专注且坚定。她面对着一群身穿黑色运动服和连帽衫的挑衅青年。她毫不犹豫地冲上前去，运用精准、强力的武术技巧，以迅雷不及掩耳之势打出直拳、旋踢、肘击、膝撞、扫腿和完美的过肩摔，动作流畅且写实，将每名攻击者逐一击倒。手持摄像机在狭窄的小巷中紧密跟随，通过动态移动、细微的镜头抖动、逼真的运动模糊以及快速的视角切换，增强了每一次撞击的紧张感。随着战斗升级，身体撞击地面的声音与电影般的节奏感交织在一起。背景中，三名穿着整洁校服的韩国女学生站在 GS25 入口附近，惊愕地注视着这场对峙。明亮的自然光在砖墙和堆叠的木托盘上投下清晰的阴影，突显出灰尘、碎片和逼真的环境细节。序列结束时，最后一名攻击者倒在堆叠的木托盘旁。女子停下脚步，冷静地调整战斗姿态，整理了一下粉色运动短款上衣，随后自信地沿着阳光明媚的小巷走远。超写实真人电影风格，韩式动作片美学，高能量动作编排，清晰的面部细节，符合物理规律的动作，电影级手持摄影，自然光照明，逼真的纹理，具备长篇电影的质量。
+
+[English]
+Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with brick buildings, air conditioning units, wooden pallets, and a prominent GS25 convenience store. A young athletic woman with long blonde hair tied in a high ponytail wears a form-fitting pink long-sleeve athletic crop top with a deep square neckline and matching fitted pink athletic leggings paired with clean pink athletic sneakers. Her face, neck, and upper chest have a light sheen of sweat, emphasizing that she has just finished training, while her expression remains calm, focused, and determined. She faces a group of aggressive young men wearing black tracksuits and hoodies. Without hesitation, she charges forward using precise, powerful martial arts techniques with lightning-fast punches, spinning kicks, elbow strikes, knee attacks, sweeps, and perfectly executed throws, taking down each attacker one by one with fluid, realistic choreography. The handheld camera follows closely through the narrow alley with dynamic movement, subtle camera shake, realistic motion blur, and rapid perspective shifts that heighten the intensity of every impact. Bodies crash onto the pavement as the fight escalates with cinematic momentum. In the background, three Korean schoolgirls in neat school uniforms stand near the GS25 entrance, watching the confrontation in stunned silence. Bright natural daylight casts crisp shadows across the brick walls and stacked wooden pallets, highlighting dust, debris, and realistic environmental details. The sequence concludes as the final attacker collapses beside the stacked pallets. The woman pauses, calmly adjusts her fighting stance, straightens her pink athletic crop top, and confidently walks away down the sunlit alley. Hyper-realistic live-action style, Korean action film aesthetic, high-energy choreography, sharp facial detail, physically accurate movement, cinematic handheld camera work, natural lighting, realistic textures, and feature-film quality.
+```
+
+**来源：** [@KeorUnreal](https://x.com/KeorUnreal/status/2081477878349246776) | 2026-07-26
+
+---
+
+### 🖥️ 例 5044：奢华美妆广告人像
+
+![奢华美妆广告人像](../images/%E5%A5%A2%E5%8D%8E%E7%BE%8E%E5%A6%86%E5%B9%BF%E5%91%8A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的模特照片作为精确的人物参考。1:1 保留其外观：面部、五官、比例、皮肤、发型及整体形象。请勿改变人物特征。皮肤必须呈现出极致的自然与生动感：保留真实毛孔、自然纹理、柔和的自然光泽，拒绝塑料感修图、拒绝美颜、拒绝过度磨皮。
+请将上传的产品照片作为精确的产品参考。1:1 保留产品细节：形状、尺寸、比例、包装、瓶盖、标签、Logo、文字、材质、颜色、涂层、反光以及所有设计细节。产品必须看起来极致自然且真实，如同手中的实物，而非 CGI 渲染，严禁变形或重新演绎。
+采用现代奢华美妆广告风格的特写镜头。照片中的模特将上传照片中的产品置于一只眼睛附近，略微遮挡，并做出俏皮的表情，双唇微嘟。视线直视镜头。头发向后梳理平整。耳饰为金色圆环耳环。
+背景为简洁的极简主义白色，无多余物品。灯光采用柔和的摄影棚光，即干净的美容光，在皮肤和产品上形成细腻的高光。妆容自然清新：光泽感底妆、微亮唇妆、整洁眉形、柔和眼妆，拒绝浓妆艳抹。
+整体美学：清新护肤/美容编辑风格，高级、有质感、现代，同时保持自然与真实。画面焦点：聚焦于模特面部、自然皮肤及产品。
+避免：改变面部特征、塑料感皮肤、过度修图、CGI 产品质感、Logo 模糊不清、多余物品、手部解剖结构错误、卡通化。
+
+[English]
+Use the uploaded model photo as an exact personality reference. Preserve appearance 1:1: face, features, proportions, skin, hair, and overall look. Do not change the personality. The skin must be maximally natural and alive: real pores, natural texture, soft natural glow, no plastic retouching, no beautify, no excessive smoothing.
+Use the uploaded product photo as an exact product reference. Preserve the product 1:1: shape, size, proportions, packaging, cap, label, logo, text, material, color, coating, reflections, and all design details. The product must look maximally natural and realistic, like a real physical object in hand, not CGI, without distortions and without reinterpretation.
+Close-up beauty shot in the style of a modern luxury cosmetic campaign. The model from the photo reference holds the product from the uploaded photo near one eye, slightly covering it, and makes a playful facial expression with soft lips in a kissy face style. Gaze is directed at the camera. Hair is smoothly combed back. On the ears — gold hoop earrings.
+Background — clean minimalist white, without extra objects. Lighting is soft studio, clean beauty lighting, with delicate highlights on skin and product. Makeup is natural and fresh: glowing skin, slightly shiny lips, neat eyebrows, softly emphasized eyes, no heavy makeup.
+Overall aesthetic — fresh skincare / beauty editorial, glossy, expensive, modern, but at the same time natural and realistic. Frame focus — on the model's face, natural skin, and product.
+Avoid: changing the face, plastic skin, heavy retouching, CGI product look, unreadable logo, extra objects, bad hand anatomy, cartoonishness.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2081434401355747451) | 2026-07-26
+
+---
+
+### 🖥️ 例 5059：漫画墙绘前的偶像少女
+
+![漫画墙绘前的偶像少女](../images/%E6%BC%AB%E7%94%BB%E5%A2%99%E7%BB%98%E5%89%8D%E7%9A%84%E5%81%B6%E5%83%8F%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在明亮的极简主义影棚中创作一张竖构图全身时尚人像：一位娇小的日本年轻女性 {argument name="character name" default="Yui"} 在一面米白色墙壁前俏皮地摆出姿势，身穿白色蕾丝偶像公主风迷你裙，裙摆外扩，肩带饰有花朵贴花，裙边带有蕾丝，佩戴透明头纱、精致的白色花朵头饰、珍珠手链、水滴形耳环，脚穿白色厚底玛丽珍高跟鞋。她站在浅色木地板上，一条腿向前交叉，臀部微侧，手肘弯曲，手腕蜷缩如可爱的猫爪，侧头向左看，表情羞涩柔和。她身后的墙上有一幅巨大的黑色墨水漫画风格线条画，画的是同一个女孩的 Q 版魔法少女形象，比真人更大，穿着相配的荷叶边裙子、头纱、头饰和高跟鞋，留着飘逸的长发，一条腿踢起，一只拳头举起，双眼紧闭，嘴巴张开，发出充满活力的快乐呼喊。在漫画绘图周围添加 10 个小型涂鸦元素：4 个爱心、2 个蓬松云朵标记、2 个闪耀星星和 2 个闪电/动作标记。使用来自右侧柔和的自然光，包括一道横跨墙壁和地板的强烈对角线光束，柔和的阴影，女性部分采用写实摄影风格，墙面艺术采用清晰的手绘黑色草图线条，可爱的日本偶像美学，高细节，构图简洁，无额外道具，无额外人物，除左下角墙壁附近有一个写着 {argument name="watermark text" default="@yui_ai_model"} 的微小隐形水印外，不添加任何文字。
+
+[English]
+Create a vertical full-body fashion portrait in a bright minimalist studio: a petite young Japanese woman named {argument name="character name" default="Yui"} poses playfully in front of a plain off-white wall, wearing a white lace idol-princess mini dress with a flared skirt, floral appliqué shoulder straps, lace hem, sheer veil, delicate white floral tiara, pearl bracelet, drop earrings, and white platform Mary Jane high heels. She stands on a light wooden floor with one leg crossed forward, hips angled, elbows bent and wrists curled like cute cat paws, looking sideways to her left with a soft shy expression. Behind her on the wall is one large black ink manga-style line drawing of a chibi magical-girl version of the same girl, much larger than the real person, wearing a matching frilly dress, veil, tiara, and high heels, with long flowing hair, one leg kicked up, one fist raised, eyes squeezed shut, and mouth open in an energetic happy shout. Add exactly 10 small surrounding doodle elements around the manga drawing: 4 hearts, 2 puffy cloud marks, 2 sparkle stars, and 2 lightning/action marks. Use soft natural sunlight from the right, including a strong diagonal beam of light across the wall and floor, gentle shadows, realistic photography for the woman, crisp hand-drawn black sketch lines for the wall art, cute Japanese idol aesthetic, high detail, clean composition, no extra props, no extra people, and no added text except a tiny subtle watermark reading {argument name="watermark text" default="@yui_ai_model"} near the lower left wall.
+```
+
+**来源：** [@YUI](https://x.com/yui_ai_model/status/2081380708338295083) | 2026-07-26
+
+---
+
+### 🖥️ 例 5068：生活方式角色照片拼贴
+
+![生活方式角色照片拼贴](../images/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E8%A7%92%E8%89%B2%E7%85%A7%E7%89%87%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级电影质感的编辑类照片拼贴，展示了同一个 {argument name="subject" default="美丽的年轻女性"} 在 {argument name="number of photos" default="七张"} 照片中保持一致的形象，并以简洁的 Pinterest 风格生活方式网格排列。氛围为 {argument name="mood" default="温暖、浪漫、无忧无虑且充满自然灵感"}。整张拼贴画是在黄金时刻拍摄的，背景是一棵开满鲜艳粉色花朵的茂盛三角梅树下。每张图像都保持了完美的面部一致性、发型、服装、光影和色彩分级。
+
+[English]
+A premium cinematic editorial photo collage featuring the same {argument name="subject" default="beautiful young woman"} appearing consistently across {argument name="number of photos" default="seven"} photographs arranged in a clean Pinterest-inspired lifestyle grid. The mood is {argument name="mood" default="warm, romantic, carefree, and inspired by nature"}. The entire collage is captured during golden hour beneath a lush blooming bougainvillea tree filled with vibrant pink flowers. Every image maintains perfect facial consistency, hairstyle, clothing, lighting, and color grading.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2081333779461996799) | 2026-07-26
+
+---
+
+### 🖥️ 例 5074：带有 Meta Quest 3 海报的 GitHub README
+
+![带有 Meta Quest 3 海报的 GitHub README](../images/%E5%B8%A6%E6%9C%89%20Meta%20Quest%203%20%E6%B5%B7%E6%8A%A5%E7%9A%84%20GitHub%20README.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一张逼真的 GitHub 仓库页面桌面浏览器截图，展示 {argument name="repository name" default="awesome-gpt-image-2"} 的 Markdown README 预览，并在文档中心嵌入一张大型产品拆解海报。
+
+画布：宽屏 16:9 截图，尺寸约为 1200×625 像素，采用浅色 GitHub 界面主题，UI 文字清晰，不显示浏览器地址栏，仓库文件视图裁剪至 GitHub 内容区域。
+
+布局：左侧边栏文件资源管理器、顶部仓库面包屑/标题栏、Markdown 工具栏行以及主要的 README 预览区。主要内容应显示一个小型的中文标题“生成图片”，标签“Image 1”，下方是一张居中的垂直海报图片。页面在 README 内容顶部附近有一个水平滚动条，最右侧有一个垂直页面滚动条。
+
+左侧边栏细节：显示“Files”面板，分支选择器设置为“main”，搜索栏标注为“Go to file”，并显示 25 个文件/文件夹条目：4 个文件夹命名为“.github”、“docs”、“public”、“scripts”；以及 21 个文件命名为“.env.example”、“.gitignore”、“LICENSE”、“README.md”、“README_de-DE.md”、“README_es-419.md”、“README_es-ES.md”、“README_fr-FR.md”、“README_hi-IN.md”、“README_it-IT.md”、“README_ja-JP.md”、“README_ko-KR.md”、“README_pt-BR.md”、“README_pt-PT.md”、“README_th-TH.md”、“README_tr-TR.md”、“README_vi-VN.md”、“README_zh-TW.md”、“README_zh.md”、“package.json”、“pnpm-lock.yaml”，如果空间允许，底部显示“tsconfig.json”。高亮显示“README_zh.md”作为选中文件。
+
+顶部标题细节：面包屑显示“awesome-gpt-image-2 / README_zh.md”。包含“Preview”、“Code”和“Blame”选项卡/按钮，以及类似“5872 lines (3723 loc) · 362 KB”的元数据文本。右侧显示紧凑的 GitHub 控件，包括“Raw”和小型图标按钮。
+
+嵌入海报内容：海报是 {argument name="product name" default="Meta Quest 3"} 的简洁产品爆炸图信息图。背景为柔和的淡紫色到蓝色渐变，左上角有 Meta 无限标志和标题“Meta Quest 3”，下方有日文副标题，以及垂直堆叠的 VR 头显组件爆炸图。从上到下精确计数 9 个主要组件层：1 白色弧形前盖板，2 漂浮在周围的小型传感器/摄像头模块，3 黑色内部框架，4 标注为 Snapdragon XR2 Gen 2 的中央主板，5 双 Pancake 透镜组件，6 侧面电池/控制器类模块，7 下方黑色头带/内框，8 两个白色侧臂，9 白色外层头显壳体及底部衬垫。在左右两侧添加精细的日文标注，并带有细引导线，但保持字体较小且略显模糊，如同真实的截图效果。
+
+视觉风格：照片级真实的 GitHub UI 截图，干净的白色背景，小型无衬线 UI 字体，微妙的灰色分割线，蓝色链接强调色，居中的文档内容及宽边距。海报应呈现高质量的光泽感科技广告图像，具有逼真的阴影、漂浮的硬件部件和精确的产品渲染光效。
+
+约束：不要添加人物，不要添加额外的弹出窗口或模态窗口，保持 GitHub 界面可识别，保留指定的中文/日文文本，并使截图看起来像真实的仓库 README 预览，而不是一张独立的海报。
+
+[English]
+Goal: Create a realistic desktop browser screenshot of a GitHub repository page showing a markdown README preview for {argument name="repository name" default="awesome-gpt-image-2"}, with a large embedded product teardown poster centered in the document.
+
+Canvas: Wide 16:9 screenshot, approximately 1200×625 px, light GitHub interface theme, crisp UI text, no browser address bar visible, repository file view cropped to the GitHub content area.
+
+Layout: Left sidebar file explorer, top repository breadcrumb/header, markdown toolbar row, and main README preview area. The main content should show a small Chinese heading “生成图片”, the label “Image 1”, and below it a centered vertical poster image. The page has a horizontal scrollbar near the top of the README content and a vertical page scrollbar on the far right.
+
+Left sidebar details: Show the “Files” panel with a branch selector set to “main”, a search field labeled “Go to file”, and exactly 25 visible file/folder entries: 4 folders named “.github”, “docs”, “public”, “scripts”; then 21 files named “.env.example”, “.gitignore”, “LICENSE”, “README.md”, “README_de-DE.md”, “README_es-419.md”, “README_es-ES.md”, “README_fr-FR.md”, “README_hi-IN.md”, “README_it-IT.md”, “README_ja-JP.md”, “README_ko-KR.md”, “README_pt-BR.md”, “README_pt-PT.md”, “README_th-TH.md”, “README_tr-TR.md”, “README_vi-VN.md”, “README_zh-TW.md”, “README_zh.md”, “package.json”, “pnpm-lock.yaml”, plus “tsconfig.json” visible at the bottom if space allows. Highlight “README_zh.md” as the selected file.
+
+Top header details: Breadcrumb reads “awesome-gpt-image-2 / README_zh.md”. Include the tabs/buttons “Preview”, “Code”, and “Blame”, plus metadata text similar to “5872 lines (3723 loc) · 362 KB”. On the right show compact GitHub controls including “Raw” and small icon buttons.
+
+Embedded poster content: The poster is a clean product-exploded-view infographic for {argument name="product name" default="Meta Quest 3"}. It has a soft pastel lavender-to-blue background, the Meta infinity logo and title “Meta Quest 3” at top left, Japanese subtitle text beneath, and an exploded vertical stack of VR headset components. Count exactly 9 main component layers from top to bottom: 1 white curved front faceplate, 2 small sensor/camera modules floating around it, 3 black internal frame, 4 central motherboard labeled Snapdragon XR2 Gen 2, 5 dual pancake lens assembly, 6 side battery/controller-like modules, 7 lower black head strap/inner frame, 8 two white side arms, 9 white outer headset shell and bottom padding. Add fine Japanese callout labels with thin leader lines on both left and right sides, but keep them small and slightly unreadable like a real screenshot.
+
+Visual style: Photorealistic GitHub UI screenshot, clean white background, small sans-serif UI fonts, subtle gray dividers, blue link accents, centered document content with wide margins. The poster should be high-quality glossy tech advertising imagery with realistic shadows, floating hardware parts, and precise product-render lighting.
+
+Constraints: Do not add people, do not add extra popups or modal windows, keep the GitHub interface recognizable, preserve the Chinese/Japanese text where specified, and make the screenshot look like a real repository README preview rather than a standalone poster.
+```
+
+**来源：** [@熊三金Cole🔶买美股上币安](https://x.com/x_sanjin/status/2081313828139147650) | 2026-07-26
+
+---
+
+### 🖥️ 例 5092：生活博客风格美食摄影
+
+![生活博客风格美食摄影](../images/%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E9%A3%8E%E6%A0%BC%E7%BE%8E%E9%A3%9F%E6%91%84%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+1. 一张温馨的餐桌，摆满了丰盛的 {argument name="cuisine" default="台式"} 料理，在温暖的自然光下拍摄。前景是一大碗 {argument name="main dish" default="红烧牛肉面"}，配有宽面条、鲜嫩的牛肉块、青江菜和葱花。周围的配菜包括一碗盖有生蛋黄、海苔、泡菜和碎蔬菜的米饭；一盘 {argument name="side dish" default="台式盐酥鸡"} 和豆腐配青菜；蒜蓉炒空心菜；以及一小碟腌制蔬菜。中心立着一个优雅的高脚玻璃杯，里面盛着分层的虾仁沙拉。木质桌面、陶瓷碗和背景中的茶壶营造出居家美学。手写风格的中文注释和涂鸦散落在菜肴周围，增添了俏皮的生活博客感。浅景深，暖色调，高细节，美食摄影风格。
+
+2. 从正上方俯瞰木桌上摆放整齐的日式便当盒。便当盒为黑色漆器，内部为红色隔层。盒内装有金黄酥脆的唐扬炸鸡、饱满的羊肉煎饺、撒有彩色拌饭香松的蓬松白米饭、切工整齐的玉子烧，以及中心处鲜红的福神渍。
+场景具有温暖、舒适的美学感，配以柔和的自然光。食物周围叠加了白色的手绘涂鸦和注释，包括爱心、闪光、箭头以及描述每种食物的手写日文和英文标签。整体风格俏皮可爱，略带剪贴簿质感，仿佛是一篇社交媒体美食帖。
+文字元素采用随性的手写字体，包含如“今日自制便当”等短语，以及描述口感和味道的小笔记。热气从滚烫的唐扬炸鸡上升腾而起，突显出温暖与新鲜感。
+高细节的食物质感，鲜艳的色彩，美学构图，Instagram 风格美食摄影，温馨生活方式氛围，日式便利店风格便当。
+
+[English]
+A cozy restaurant table filled with a vibrant {argument name="cuisine" default="Taiwanese"} meal, shot in warm natural lighting. A large bowl of {argument name="main dish" default="braised beef noodle soup"} with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of {argument name="side dish" default="Taiwanese fried chicken"} and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.
+
+2.A top-down view of a neatly arranged Japanese bento box on a wooden table. The bento is a black lacquered box with red interior compartments. Inside are golden-brown crispy karaage (Japanese fried chicken), plump mutton gyoza dumplings, fluffy white rice topped with colorful furikake seasoning, neatly sliced tamagoyaki (Japanese rolled omelette), and bright red fukujinzuke pickles in the center.
+The scene has a warm, cozy aesthetic with soft natural lighting. Hand-drawn doodles and annotations in white are overlaid around the food, including hearts, sparkles, arrows, and handwritten Japanese and English labels describing each item. The style feels playful, cute, and slightly scrapbook-like, as if it’s a social media food post.
+Text elements include casual handwritten fonts, with phrases like “Today’s home bento,” and small notes describing texture and taste. Steam lines rise from the hot karaage, emphasizing warmth and freshness.
+Highly detailed food textures, vibrant colors, aesthetic composition, Instagram-style food photography, cozy lifestyle vibe, Japanese convenience store-inspired bento.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2081228498082083323) | 2026-07-26
+
+---
+

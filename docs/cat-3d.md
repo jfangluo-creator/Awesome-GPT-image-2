@@ -5873,3 +5873,167 @@ Create a square digital 3D illustration of a stylized deformed human girl bust p
 
 ---
 
+### 🧸 例 5034：茶杯上的微缩女性
+
+![茶杯上的微缩女性](../images/%E8%8C%B6%E6%9D%AF%E4%B8%8A%E7%9A%84%E5%BE%AE%E7%BC%A9%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+主題：
+青花のティータイム
+
+主体：
+縦長4:5。{argument name="アイテム" default="白いティーカップ"}の縁に腰掛ける小さな{argument name="年齢と性別" default="20代女性"}を画面中央やや左に配置し、人物とカップで画面下半分の約6割を占める。画面右端から大人の手がカップの取っ手を自然につまみ、巨大な日用品と小さな人物の対比を強調する。
+
+人物・表情：
+黒に近いダークブラウンの長髪をゆるい二本編みにし、白いレースと細いリボンの髪飾りを添える。顔を左上へ向け、頭をわずかに傾けながら、青い花を見つめる穏やかで好奇心のある表情。自然な血色の肌、控えめなピンクメイク、澄んだ瞳、過度に幼く見えない上品な顔立ち。
+
+服装・ポーズ：
+{argument name="服装" default="アイボリーを基調とした軽やかな半袖ミニワンピース"}。胸元に淡いブルーグレーの大きなリボン、袖口と裾に細かなレースとフリルを重ね、膝上丈ながら上品で清楚なシルエットにする。白いフリルソックスとダークブラウンのストラップシューズ。人物自身の左腕を斜め上へ伸ばし、指先が花に触れる直前。右手はカップの縁に添え、両脚は自然に垂らして少し間隔を空ける。小さな籐のポシェットを斜め掛けにし、上に白いウサギのぬいぐるみを載せる。
+
+背景・光：
+淡いブルーの小花と濃い緑の葉に囲まれた明るい庭。前景左下に少しぼけた花、中景に人物とティーカップ、後景に白いフェンスと柔らかな木漏れ日の玉ボケ。カップは白磁で、薄い青の繊細な花柄を描き、同柄のソーサーを木製テーブルに置く。左上から暖かな午前の自然光が差し込み、髪、肩、腕、カップの縁に細いハイライトを作る。影は右下へ柔らかく落とし、葉からの淡い緑の反射光を肌と磁器にわずかに加える。
+
+構図・カメラ：
+人物の目線に近い高さから撮影したクローズアップ寄りの中景。カップ全体とソーサー、取っ手を持つ手まで画面内に収める。人物の伸ばした左腕と花枝が左上へ流れ、カップの取っ手と手が右下の重心になる対角線構図。上部には花と柔らかな背景ボケの余白を残す。85mm相当、浅い被写界深度。焦点は人物の顔と伸ばした指先、背景は自然にぼかす。
+
+質感・スタイル：
+現実のミニチュア撮影のような高精細フォトリアル表現。磁器のなめらかな艶、籐の細かな編み目、レースの透け感、花びらの薄さ、肌と髪の自然な質感を丁寧に描写する。明るく清潔な色調、淡いブルー、アイボリー、深緑を中心にまとめ、過度なHDRやCG感を避ける。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、余分な指、欠けた指、手足の融合、関節の破綻、カップとの接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、歪んだ磁器、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2081503830382899531) | 2026-07-26
+
+---
+
+### 🧸 例 5043：圆形墙面镂空中的影棚肖像
+
+![圆形墙面镂空中的影棚肖像](../images/%E5%9C%86%E5%BD%A2%E5%A2%99%E9%9D%A2%E9%95%82%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%BD%B1%E6%A3%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高端影棚肖像，主角为 {argument name="character description" default="[角色描述]"}，与一面厚实的哑光 {argument name="outer wall color" default="[外墙颜色]"} 墙体中心的大型圆形镂空进行互动。墙体呈现逼真的 3D 深度（约 8 厘米），内边缘圆润柔和，阴影过渡平滑。圆形开口内部是一个简洁的 {argument name="inner background color" default="[内背景颜色]"} 背景，与墙体形成对比，清晰地划分了内外空间。模特 [INTERACTION STYLE]。光影：平衡的影棚布光——左前方柔和的漫射主光，右侧轻微补光，在边缘处营造出柔和的高光和微妙的阴影，以勾勒深度并区分墙体与背景。相机：正对视角，居中构图，3:4 竖向肖像画幅。超高清 8K 影棚摄影，焦点锐利，色调深度自然。氛围：[modern | editorial | cinematic | minimal | playful | bold]。无文字、无水印，除墙体、圆形镂空和模特外，无额外道具。
+
+[English]
+A high-end studio portrait of {argument name="character description" default="[CHARACTER DESCRIPTION]"}, interacting with a large circular cutout centered within a thick matte {argument name="wall color" default="[OUTER WALL COLOR]"} wall. The wall shows realistic 3D depth (around 8 cm) with soft rounded inner edges and smooth shadow falloff. Inside the circular opening, a clean {argument name="background color" default="[INNER BACKGROUND COLOR]"} backdrop contrasts with the wall, clearly separating the inner and outer spaces. The model {argument name="interaction style" default="[INTERACTION STYLE]"}. Lighting: balanced studio setup — soft diffused key from front-left and mild fill from right, creating gentle highlights and subtle shadow along the rim to define depth and separation between wall and background. Camera: straight-on, centered composition, 3:4 vertical portrait framing. Ultra-detailed 8K studio photography with sharp focus and natural tonal depth. Mood: [modern | editorial | cinematic | minimal | playful | bold]. No text, watermark, or extra props beyond the wall, circular cutout, and model.
+```
+
+**来源：** [@ΛRMIN](https://x.com/Arminn_Ai/status/2081438772709781579) | 2026-07-26
+
+---
+
+### 🧸 例 5051：3D CG 东方奇幻少女肖像
+
+![3D CG 东方奇幻少女肖像](../images/3D%20CG%20%E4%B8%9C%E6%96%B9%E5%A5%87%E5%B9%BB%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+9:16 竖版，高精度 3D CG 东方幻想甜酷少女角色海报，3D CG oriental fantasy girl character portrait，anime-style 3D CG character art，semi-realistic 3D character render，full body portrait，画面主体是一位明确成年的年轻东方幻想系女性角色，视觉年龄约 20–24 岁，整体气质甜美、轻俏、元气、梦幻、带一点小恶魔精灵般的可爱感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、通透色彩、柔和光影与高级虚拟角色海报质感。
+
+人物拥有精致甜美的东方美型脸，小巧鹅蛋脸，皮肤白皙细腻，带轻微通透感与柔和皮肤着色。眼睛大而明亮，瞳色为粉紫色与浅玫瑰紫混合，瞳孔有细腻玻璃高光，眼神温柔灵动，带一点俏皮与亲近感。睫毛纤长，眼妆清透自然，鼻梁秀气小巧，嘴唇柔软，唇色为低饱和樱花粉，神情轻松可爱，嘴角带浅浅微笑。
+
+发型为薄荷蓝绿色长发，发丝丰盈顺滑，带高精度发丝建模与柔亮光泽，长发自然披散至腰间，发尾带轻微卷度与空气感。额前是轻盈碎刘海，两侧有柔软脸侧发修饰轮廓。人物拥有精致的浅色小角、尖耳与细长尾巴，增强东方幻想精灵 / 小恶魔气质。头部佩戴紫色蝴蝶结头饰与小型幻想装饰，细节精致统一。
+
+服装保留原图的甜酷现代感，并调整为更精致的 3D CG 东方幻想日常造型：上身为浅粉色短款连帽卫衣，带淡紫色袖口、紫色蝴蝶结系带与胸前半透明爱心装饰，面料柔软蓬松，具有真实织物纹理；
+
+下身为浅蓝色超低腰牛仔短裤，版型改为更贴身、更紧致的包裹式设计，牛仔面料紧紧贴合腰部、臀部与大腿根部，裤腰、裤脚边缘以及臀胯连接处要有比较明显的勒肉感与挤压感。短裤边缘轻微嵌入皮肤，形成自然柔软的肉感起伏，尤其是腰侧、胯部和大腿根位置要有清晰的紧绷受力效果，体现真实的紧身牛仔材质表现，而不是松垮平整的轮廓。既要突出纤细腰线，也要体现贴身短裤对臀胯与腿根的真实包裹感。
+
+腿部搭配白色堆堆袜或软质长袜，袜口与鞋面点缀紫色蝴蝶结。大腿一侧佩戴紫色腿环装饰，腿环需要明显收紧，压在大腿皮肤上，形成较清楚的勒肉感与柔软压痕，腿环上下有自然轻微鼓起的肉感层次，但依旧保持美观、细腻和写实，不要僵硬。脚穿白色与淡紫色搭配的轻甜幻想系鞋子。整体造型甜美、清爽、俏皮，同时具有轻微东方幻想偶像感。
+
+人物姿态为自然站姿或轻微走姿，一条腿微微向前，身体轻轻侧转，双手自然下垂或轻微摆动，整体姿态轻盈灵动，带一点少女偶像式的亲和感。人物全身比例修长匀称，身材纤细但自然，有青春活力感。
+
+去掉原图中的圆环和音符，不要纯平背景装饰，不要漂浮音符，不要几何圆环。背景改为符合人物气质的梦幻东方幻想场景：柔和粉紫与薄荷色调的花园庭院 / 精灵花房 / 樱花与绣球花环绕的幻想回廊。场景中可见白玉栏杆、轻盈花藤、浅色石径、梦幻花丛、漂浮微光、薄雾与远处若隐若现的亭台或玻璃花房结构，整体像一处甜美而精致的东方幻想秘境。背景要明亮、干净、通透，具有轻柔层次与高级空间感，符合角色可爱、温柔、梦幻的气质。
+
+光线采用柔和明亮的高调梦幻布光，面部清晰通透，发丝、肩部、裙摆边缘与袜子褶皱有细腻高光。皮肤、头发、布料、牛仔材质、蝴蝶结、鞋面与幻想配饰都具有真实清晰的 PBR 材质表现。整体色调以浅粉、薄荷绿、淡紫、奶白、浅蓝为主，画面甜美、精致、清新、梦幻，具有高端收藏级 3D CG 东方幻想少女角色海报质感。
+
+high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic soft lighting, PBR materials, subsurface scattering skin, realistic hair strands, pastel fantasy garden background, elegant oriental fantasy vibe, mint green long hair, small horns, elf ears, cute tail, pink cropped hoodie, denim shorts, white leg warmers, purple bows, dreamy atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+
+negative prompt: circle halo, ring background, music note, floating music symbols, flat background, plain pink backdrop, text, watermark, logo, low quality, blurry, bad anatomy, extra fingers, fused fingers, deformed face, stiff pose, plastic skin, cluttered composition
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2081409414918262965) | 2026-07-26
+
+---
+
+### 🧸 例 5064：荒诞黏土动画场景演绎
+
+![荒诞黏土动画场景演绎](../images/%E8%8D%92%E8%AF%9E%E9%BB%8F%E5%9C%9F%E5%8A%A8%E7%94%BB%E5%9C%BA%E6%99%AF%E6%BC%94%E7%BB%8E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+垂直 3:5 画幅。GPT2 图像。严格构图，{argument name="style" default="荒诞黏土动画"} 风格迁移。对 {argument name="subject" default="参考图像"} 进行精细的 3D 演绎，严格保留所有物体的精确空间排列、比例、旋转、位置以及整体结构构图。不得移动、添加或删除任何元素——在保留原始场景及其视觉逻辑的同时，将整幅图像转化为一个怪诞、幽默的橡皮泥世界。风格：极度夸张，具有 Aardman 风格，并带有荒诞色彩。角色必须看起来刻意滑稽：身体比例极度失调，四肢像橡胶面条一样，鼓出的“乒乓球”眼睛略微指向不同方向，巨大的露齿笑容配上不自然的大矩形牙齿和突出的粉色牙龈。每个角色看起来都非常滑稽。材质与美学：一切均由厚重的哑光橡皮泥制成。几何形状刻意不均匀且“歪斜”：没有直线、完美的边缘或无菌般的平滑感。每个表面都必须有手工雕刻的质感，形态上带有明显的颤动感和粗糙的橡皮泥工艺。材质必须呈现出明显的触感瑕疵：深层的脏指纹、意外的指甲划痕、粗糙的接缝、微小的裂纹，以及粘在表面的微小灰尘、纤维和碎屑。整体观感：有趣、怪异、略带离奇，但又是一个细节极其丰富的生动且真实的 3D 橡皮泥图像。
+
+[English]
+Vertical 3:5 frame. GPT2 image. Strict composition, {argument name="style" default="absurdist claymation"} transfer. Create a detailed 3D interpretation of the {argument name="subject" default="reference image"}, strictly preserving the exact spatial arrangement of all objects, their scale, rotations, positions, and overall structural composition. Do not shift, add, or remove any elements — translate the entire image into a grotesque, humorous plasticine world while preserving the original scene and its visual logic. Style: extremely caricatured, in the spirit of Aardman, with an absurdist flavor. The characters must look deliberately ridiculous: they have wildly disproportionate bodies, rubbery noodle-like limbs, bulging "ping-pong ball" eyes slightly pointed in different directions, and massive toothy smiles with unnaturally large rectangular teeth and prominent pink gums. Every character looks highly comical. Texture and aesthetics: everything is crafted from heavy, matte plasticine. The geometry is intentionally uneven and "crooked": no straight lines, perfect edges, or sterile smoothness. Every surface must feel hand-sculpted, with a noticeable tremor in the forms and coarse plasticine work. The material must display pronounced tactile imperfections: deep dirty fingerprints, accidental nail scratches, rough seams, micro-cracks, as well as tiny dust particles, lint, and debris stuck to the surface. The overall feel: funny, strange, slightly uncanny, but very lively and tangible 3D plasticine image with maximum detail
+```
+
+**来源：** [@RafaSimon](https://x.com/rafalors/status/2081346288520773656) | 2026-07-26
+
+---
+
+### 🧸 例 5073：积木马赛克彩绘玻璃少女
+
+![积木马赛克彩绘玻璃少女](../images/%E7%A7%AF%E6%9C%A8%E9%A9%AC%E8%B5%9B%E5%85%8B%E5%BD%A9%E7%BB%98%E7%8E%BB%E7%92%83%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅完全由微小光面方形积木拼搭而成的精细奇幻艺术品，风格融合了乐高马赛克与珠宝像素艺术。构图中心为 {argument name="main subject" default="一位精致的动漫风格少女"}，她站在一座高耸的哥特式彩绘玻璃温室或大教堂窗框内。她拥有 {argument name="hair color" default="长长的银灰色头发"}、白皙的皮肤、花朵发饰，身穿华丽的 {argument name="dress color" default="宝蓝色与白色"} 舞会礼服，礼服带有层叠的积木拼搭褶边、金色饰边和深色紧身胸衣。她的姿态优雅，身体略微侧转，一只手臂轻轻伸向周围的彩绘玻璃花园。场景为 {argument name="setting" default="一座六角形彩绘玻璃温室，里面开满了花朵，飞舞着蝴蝶、藤蔓和珠宝般的装饰物"}，带有黑色铅条线条、拱形面板、尖顶屋顶，背景是模糊的暖金色。使用华丽的 {argument name="color palette" default="蓝宝石蓝、翡翠绿、紫罗兰色、金色、绿松石色、白色和黑色"} 色调，配合戏剧性的光影、闪烁的高光、浅景深和高对比度。
+
+整幅图像必须看起来像是用数千块微小的长方形和立方体积木物理拼搭而成：可见的凸点、阶梯状边缘、微型积木、积木花瓣、积木蝴蝶翅膀以及透明的宝石状积木。画面中必须包含 10 只显眼的蝴蝶：左上方 1 只粉黑相间的小蝴蝶，中央框架左侧 1 只橙色蝴蝶，中央窗前 1 只蓝色蝴蝶，中央框架右侧 1 只青蓝色蝴蝶，右上边缘 1 只大型橙色蝴蝶，左侧彩绘玻璃面板下方 1 只蓝色蝴蝶，左下前景 1 只紫色蝴蝶，左下方 1 只橙色小蝴蝶，右下前景 1 只紫色蝴蝶，以及右下花丛附近 1 只橙色蝴蝶。框架周围环绕着由白色、粉色、黄色、紫色和青色积木拼搭而成的茂密花朵，以及带有金属珠尖的卷曲深色树枝和悬挂的水晶球。添加醒目的珠宝装饰：左侧和右下方的蓝绿色玻璃球，侧面的金珠，上角附近的透明水晶球，以及漂浮在右侧的紫色宝石球。保持构图为正方形，对称且丰富，少女位于中心，彩绘玻璃房屋造型将其环绕。无文字，无水印，无写实的人类皮肤质感；强调手工积木雕塑、彩绘玻璃、微缩立体模型、魔法花园和微距摄影的真实感。
+
+[English]
+Create a highly detailed fantasy artwork made entirely from tiny glossy square blocks, like LEGO mosaic meets jeweled pixel art. Center the composition on {argument name="main subject" default="a delicate anime-style girl"} standing inside a tall gothic stained-glass greenhouse or cathedral window frame. She has {argument name="hair color" default="long silver-gray hair"}, pale skin, a floral hair ornament, and wears an ornate {argument name="dress color" default="royal blue and white"} ball gown with layered block-built ruffles, gold trim, and a dark bodice. Her pose is graceful, turned slightly in profile, one arm extended gently toward the stained-glass garden around her. The setting is {argument name="setting" default="a hexagonal stained-glass conservatory filled with flowers, butterflies, vines, and jewel-like ornaments"}, with black leading lines, arched panels, a peaked roof, and a warm blurred golden background behind it. Use an opulent {argument name="color palette" default="sapphire blue, emerald green, violet, gold, turquoise, white, and black"} palette with dramatic lighting, sparkling highlights, shallow depth of field, and high contrast.
+
+The entire image must look physically constructed from thousands of tiny rectangular and cubic blocks: visible studs, stepped edges, micro-bricks, blocky flower petals, blocky butterfly wings, and transparent gem-like blocks. Include exactly 10 prominent butterflies: 1 small pink-and-black butterfly near the upper left, 1 orange butterfly on the left side of the central frame, 1 blue butterfly floating in front of the central window, 1 cyan-blue butterfly on the right side of the central frame, 1 large orange butterfly at the upper right edge, 1 blue butterfly low on the left stained-glass panel, 1 purple butterfly at the bottom left foreground, 1 small orange butterfly near the bottom left, 1 purple butterfly at the lower right foreground, and 1 orange butterfly near the lower right flowers. Surround the frame with dense block-built flowers in white, pink, yellow, purple, and teal, plus curling dark branches with metallic bead tips and hanging crystal spheres. Add prominent jewel ornaments: blue and green glassy spheres on the left and bottom right, gold beads around the sides, clear crystal balls near the upper corners, and purple gem balls floating at the right. Keep the composition square, symmetrical but lush, with the girl centered and the stained-glass house shape framing her. No text, no watermark, no photoreal human skin texture; emphasize handcrafted block sculpture, stained glass, miniature diorama, magical garden, and macro photography realism.
+```
+
+**来源：** [@夏芽藍｜AIアーティスト](https://x.com/natsumeaiart/status/2081316453148664197) | 2026-07-26
+
+---
+
+### 🧸 例 5112：彩虹 Q 版女学生手办
+
+![彩虹 Q 版女学生手办](../images/%E5%BD%A9%E8%99%B9%20Q%20%E7%89%88%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个全身 3D 玩具风格的动漫女孩手办，置于纯黑色背景中心，采用竖构图。角色为可爱的 Q 版女学生，拥有圆润柔和的比例、夸张的蓬松波波头、闭眼微笑的表情、红润的脸颊以及温柔调皮的神态。她身穿水手风格校服，配有大领子、系结领带、短百褶裙、过膝袜和厚底玛丽珍鞋。姿势设计为动态前倾，双腿微张，一只手横放在额头前，做出俏皮的敬礼或窥视动作，另一只手臂背在身后。使用光滑的哑光粘土/树脂质感，呈现充气般的毛绒形态，无硬边。全身覆盖鲜艳的虹彩渐变光效：饱和的粉色、珊瑚色、紫色、深蓝色、青色、蓝绿色和暖黄色斑块在头发、面部、衣物、四肢和鞋子上柔和融合。光效应如同环绕在雕塑手办上的彩色摄影棚色片灯，带有柔和阴影、微妙的环境光遮蔽、高质量 3D 渲染细节，背景为干净的黑色虚空。无文字，无道具，无额外角色，无水印。
+
+[English]
+Create a full-body 3D toy-like anime girl figure on a pure black background, centered in a vertical portrait composition. The character is a cute chibi schoolgirl with soft rounded proportions, oversized puffy bob hair, closed smiling eyes, rosy cheeks, and a gentle mischievous expression. She wears a sailor-style school uniform with a large collar, knotted necktie, short pleated skirt, knee-high socks, and chunky Mary Jane shoes. Pose her dynamically leaning forward with legs spread wide, one hand held horizontally across her forehead like a playful salute or peeking gesture, and the other arm tucked behind her back. Use a smooth matte clay/resin texture with inflated plush-like forms and no hard edges. Cover the entire figure in vivid iridescent rainbow gradient lighting: saturated pink, coral, violet, deep blue, cyan, teal, and warm yellow patches blending softly across the hair, face, clothes, limbs, and shoes. Lighting should feel like colorful studio gel lights wrapping around a sculptural figurine, with soft shadows, subtle ambient occlusion, high-quality 3D render detail, and a clean black void background. No text, no props, no extra characters, no watermark.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081169259556929565) | 2026-07-26
+
+---
+
+### 🧸 例 5113：霓虹 Q 版水手敬礼
+
+![霓虹 Q 版水手敬礼](../images/%E9%9C%93%E8%99%B9%20Q%20%E7%89%88%E6%B0%B4%E6%89%8B%E6%95%AC%E7%A4%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯黑色背景上创建一个全身 3D 风格化的 Q 版动漫女孩手办，居中于垂直肖像画布。角色为 {argument name="character name" default="Oyagi"}，一个可爱的水手服女学生，具有夸张的圆润比例、柔软的玩具般造型、无瞳孔的空白光泽圆形眼睛、小巧的鼻子和温柔的微笑表情。她俏皮地向前倾身，双腿叉开，一只手水平举向额头做出欢快的敬礼动作，另一只手臂向后弯曲在身体一侧。给她设计厚实蓬松的波波头，带有大而圆的刘海和侧卷发，渲染出明亮的 {argument name="hair color" default="粉色、紫色和青色渐变"}。让她穿上一件蓬松的日式水手校服，配有宽领、蝴蝶结和两条垂下的丝带尾、百褶裙、长袜或连裤袜、松垮的护踝袜以及圆头玛丽珍鞋；保持所有服装柔软、充气且具有粘土质感。使用 {argument name="color palette" default="霓虹粉、洋红、紫色、蓝色、青色和桃色"} 的鲜艳虹彩光效，配合平滑的次表面散射、光泽塑料粘土材质、柔和的辉光效果、强烈的边缘高光，且没有硬轮廓线。姿势应呈现出友好的早晨问候感，充满活力且可爱，从略微低的前方角度拍摄，使头部和举起的手占据上方框架，同时两只鞋子在底部清晰可见。在右下角添加一个优雅的小型手写签名和日期，内容为 {argument name="date text" default="2026 年 7 月 26 日"} 和 {argument name="signature text" default="Oyagi"}。避免出现额外角色、场景、道具、瞳孔、逼真的皮肤纹理，或除小签名/日期以外的任何文字。
+
+[English]
+Create a full-body 3D kawaii chibi anime figure of {argument name="character name" default="a cheerful schoolgirl"} posed dynamically against a pure black background. The character leans forward toward the viewer with legs spread wide, one hand raised horizontally across the forehead in a playful salute or sun-shading gesture, the other arm bent back and partly hidden. She has a large rounded head, oversized blank glossy eyes with no pupils, a tiny nose, a soft smiling mouth, rounded cheeks, and thick fluffy bobbed hair with large puffy bangs and curled side sections. Dress her in a classic sailor-style school uniform with exactly 5 main visible outfit pieces: a rounded long-sleeve sailor top, a wide sailor collar, a tied front neckerchief bow with two hanging tails, a short pleated skirt, and bulky rounded shoes with scrunched leg warmers. Use a smooth toy-like clay/resin material with soft subsurface scattering and no hard outlines. Color the entire figure in an iridescent neon gradient palette of {argument name="color palette" default="hot pink, magenta, violet, electric blue, cyan, and peach"}, as if lit by colorful studio gels, with glossy soft highlights and gentle ambient occlusion in folds and under the skirt. Composition should be vertical portrait, centered, cropped close but showing the entire body from hair to shoes, viewed slightly from above so the salute hand is prominent. Lighting is dramatic and luminous, with the figure glowing vividly against the black void. Add a small elegant handwritten signature and date in the bottom-right corner reading {argument name="signature text" default="July 26, 2026 Oyagi"}. Avoid extra characters, props, scenery, text, pupils, realistic skin texture, or harsh shadows.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081168472697135197) | 2026-07-26
+
+---
+

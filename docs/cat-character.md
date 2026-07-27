@@ -6617,3 +6617,97 @@ Create a bright, high-detail anime illustration of {argument name="character nam
 
 ---
 
+### 🧍 例 5058：照片级真实的音乐节乐队表演
+
+![照片级真实的音乐节乐队表演](../images/%E7%85%A7%E7%89%87%E7%BA%A7%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B9%90%E9%98%9F%E8%A1%A8%E6%BC%94.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为户外摇滚音乐节现场的参考，从正面中央观众视角创作一张照片级真实的演唱会表演画面。保留参考图中相同的夜间音乐节场地、大型拱形主舞台、两侧的高大屏幕塔、烟雾缭绕的蓝橙色灯光、密集的欢呼人群、手机灯光以及长长的伸展台/T 台透视效果。
+
+在前方伸展台上添加一支 4 人女子摇滚乐队：左侧为一名拿着红色吉他的金发电吉他手，后方中央为一名坐在黑色鼓组前的鼓手，前方中央为一名手持麦克风的金发主唱，右侧为一名拿着白色贝斯的黑发贝斯手。确保她们全身出镜，与舞台比例和灯光自然融合，并在平台上呈现自然的阴影。
+
+风格：超写实演唱会摄影、电影级广角构图、高动态范围、氛围烟雾、来自舞台装置的暖色背光、冷蓝色夜间氛围、清晰的人群细节且不显人工痕迹。
+
+约束：保持场地布局和灯光氛围与参考图一致；不要制作 2x2 网格；输出一张全景演唱会图像；无文字、徽标、标题或水印。
+
+[English]
+Using REFERENCE_0 as the live outdoor rock festival location reference, create a photorealistic concert performance shot from the front-center audience angle. Preserve the same nighttime festival venue, large arched main stage, two tall side screen towers, smoky blue-orange lighting, dense cheering crowd, phone lights, and the long runway/catwalk perspective from the reference.
+
+Add a 4-member female rock band performing on the front catwalk: 1 blonde electric guitarist on the left with a red guitar, 1 drummer centered slightly behind at a black drum kit, 1 blonde lead vocalist at center-front holding a microphone, and 1 black-haired bassist on the right with a white bass. Make them full-body, realistically integrated into the stage scale and lighting, with natural shadows on the platform.
+
+Style: ultra-realistic live concert photography, cinematic wide-angle composition, high dynamic range, atmospheric smoke, warm backlights from the stage rig, cool blue night ambience, sharp crowd detail without looking artificial.
+
+Constraints: keep the venue layout and lighting mood consistent with the reference image; do not make a 2x2 grid; output one single panoramic concert image; no text, logos, captions, or watermarks.
+```
+
+**来源：** [@AIギャル物語 / HALS](https://x.com/JPAI_HEAVEN/status/2081382842245034393) | 2026-07-26
+
+---
+
+### 🧍 例 5103：奢侈品店内的超写实男性肖像
+
+![奢侈品店内的超写实男性肖像](../images/%E5%A5%A2%E4%BE%88%E5%93%81%E5%BA%97%E5%86%85%E7%9A%84%E8%B6%85%E5%86%99%E5%AE%9E%E7%94%B7%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实中景拍摄，同一位年轻男性（使用参考图以确保 100% 面部还原），站在 {argument name="location" default="奢侈品零售店"} 内，低头看向右手中的 {argument name="accessory" default="太阳镜"}，左手插兜。身穿 {argument name="outfit" default="深宝蓝色华夫格针织衫，带有白色条纹细节，搭配黑色长裤"}，佩戴棕色皮带手表。柔和的电影级光影，背景为模糊的高端店铺。
+
+[English]
+Ultra-realistic medium shot of the same {argument name="subject" default="young man"} standing in a {argument name="location" default="luxury retail store"}, looking down while holding sunglasses in right hand, left hand in pocket. Wearing {argument name="outfit" default="deep Royal Blue waffle-knit sweater with white stripe details and black trousers"}, brown leather strap watch. Soft cinematic lighting, blurred premium store background.
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2081215427053764988) | 2026-07-26
+
+---
+
+### 🧍 例 5104：Y2K 音乐主题时尚人像
+
+![Y2K 音乐主题时尚人像](../images/Y2K%20%E9%9F%B3%E4%B9%90%E4%B8%BB%E9%A2%98%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用提供的参考图像。必须完全保留参考图中女孩的面部特征。不得更改她的面部结构、比例、眼型、鼻子、嘴唇、下颌线、皮肤纹理或任何标志性的面部特征。她必须与参考图中的人物完全一致，一眼即可辨认。仅按以下描述更改她的姿势、服装、发型和环境。
+拍摄一张 3:4 的人像照片，采用智能手机平视视角。女孩站在一扇深棕色复古门旁。背景中放置一张圆角 Apple Music 播放器卡片，显示由 {argument name="artist name" default="Dominic Fike"} 演唱的歌曲“{argument name="song title" default="Babydoll"}”。她部分遮挡住音乐卡片，姿态自然且具有时尚感，双手轻轻触碰耳机。她的表情冷静、自信且从容。
+发型设计为大波浪、柔顺且有光泽的卷发，前额发丝修饰脸型。妆容特点：仅在眼尾处画细长的黑色上扬眼线，狐狸眼效果的假睫毛，棕色唇线搭配粉色亮面唇釉的丰满唇妆，哑光底妆配以精致的修容，以及自然清晰的眉形。清晰展示她修长的浅色细高跟形状美甲。
+她身穿 Y2K 风格的服装，包括一件 {argument name="outfit style" default="超大廓形短款白色印花 T 恤"}，袖子宽大至肘部，腰部收紧以突显轮廓，搭配一条低腰深海军蓝蓬松牛仔短裙。她佩戴配套的深海军蓝头戴式耳机、白色腿套、黑色高筒堆堆靴，以及银色耳环、戒指和手链。
+保持参考图中的面部特征完全不变。不得以任何方式修改她的面部。
+使用智能手机拍摄，自然光，真实的景深，超清晰对焦，丰富的纹理，照片级的皮肤细节，时尚大片级的构图，以及极高细节的 8K 写实效果。
+
+[English]
+Use the provided reference image. Preserve the girl's facial identity exactly as shown in the reference image. Do not alter her facial structure, proportions, eye shape, nose, lips, jawline, skin texture, or any defining facial features. She must be instantly recognizable as the same person in the reference. Only change her pose, outfit, hairstyle, and environment as described below.
+Create a 3:4 portrait photo captured with a smartphone from an eye-level perspective. The girl is standing beside a dark brown vintage door. In the background, place a rounded-corner Apple Music player card displaying the track "{argument name="song title" default="Babydoll"}" by {argument name="artist name" default="Dominic Fike"}. She is partially covering the music card while posing naturally in a relaxed editorial stance, gently touching her headphones with both hands. Her expression is calm, confident, and effortless.
+Style her hair in large, soft, polished waves with face-framing front strands. Her makeup features thin black winged eyeliner applied only to the outer corners, fox-effect false eyelashes, full lips with a brown lip liner and glossy pink lip combo, matte skin with expertly blended contour, and naturally defined brows. Keep her long, light-coloured stiletto-shaped nails clearly visible.
+She is wearing a Y2K-inspired outfit consisting of an {argument name="outfit style" default="oversized cropped white graphic T-shirt"} with wide elbow-length sleeves, fitted at the waist to flatter her silhouette, paired with a voluminous very dark navy denim mini skirt worn low on the hips. She wears matching dark navy over-ear headphones, white leg warmers, tall black slouchy boots, and silver earrings, rings, and bracelets.
+Maintain the exact facial likeness from the reference image. Do not modify her face in any way.
+Shot on a smartphone with natural lighting, realistic depth, ultra-sharp focus, rich textures, photorealistic skin detail, editorial-quality composition, and extremely high-detail 8K realism.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2081212727398183337) | 2026-07-26
+
+---
+
+### 🧍 例 5108：现实与漫画壁画的融合
+
+![现实与漫画壁画的融合](../images/%E7%8E%B0%E5%AE%9E%E4%B8%8E%E6%BC%AB%E7%94%BB%E5%A3%81%E7%94%BB%E7%9A%84%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用随附的面部参考图作为面部身份来源。极其精准地保留原始面部特征、面部比例、眼睛形状、鼻子、嘴唇、下颌线、肤色、发型以及整体身份。请勿更改人物身份。仅替换为参考图中的面部，同时保持姿势、服装、构图和环境与描述完全一致。创作一张超写实的全身肖像，主角为 {argument name="subject identity" default="蹲在地上，身边有一只戴着小格子围巾的灰白相间猫咪的女孩"}。主角温柔地微笑着，带着温暖而深情的表情看着猫咪。背景是一面温暖的奶油色墙壁，被柔和的金色窗光照亮。在墙上，创作一幅大型手绘漫画插图，画中同样的女孩正向前倾身，用一根手指轻轻触碰猫咪的爪子。漫画中的猫应与现实中的猫相呼应，用后腿站立并伸出一只爪子。插图应与墙壁无缝融合，在现实与漫画艺术之间创造出神奇的互动。主角穿着 {argument name="clothing" default="一件超大号炭灰色拉链连帽衫，内搭白色 T 恤，下身穿着宽松的蓝色牛仔裤和米黑色休闲运动鞋"}。该 {argument name="manga style" default="漫画绘图具有优雅的黑色墨水线条、铅笔素描质感、富有表现力的动漫眼睛、柔和的排线、飘逸的头发、写实的比例和细腻的阴影"}。柔和的黄金时刻阳光透过窗户射入，逼真的阴影，电影级室内摄影，平视构图，50mm 镜头，浅景深，照片级真实皮肤，逼真的发丝，高度细腻的墙壁纹理，HDR 光效，杰作，编辑类生活方式摄影，漫画壁画错觉，超细节，优质，8K，极致写实。
+
+[English]
+Use the attached face reference image as the ONLY facial identity source. Preserve the exact face, facial proportions, eye shape, nose, lips, jawline, skin tone, hairstyle, and overall identity with extremely high accuracy. Do not change the person's identity. Only replace the face with the referenced face while keeping the pose, clothing, composition, and environment exactly as described. Create an ultra-realistic full-body portrait of the {argument name="subject identity" default="subject crouching on the floor beside a gray-and-white cat wearing a small checkered bandana"}. The subject smiles gently while looking at the cat with a warm, affectionate expression. Behind them is a warm cream-colored wall illuminated by soft golden window light. On the wall, create a large hand-drawn manga illustration of the same girl leaning forward and gently touching the cat's paw with one finger. The manga cat should mirror the real cat, standing on its hind legs while reaching out with one paw. The illustration should seamlessly blend into the wall, creating a magical interaction between reality and manga art. The subject wears {argument name="clothing" default="an oversized charcoal-gray zip hoodie over a white T-shirt, loose blue jeans, and beige-and-black casual sneakers"}. The {argument name="manga style" default="manga drawing features elegant black ink line art, pencil sketch textures, expressive anime eyes, soft cross-hatching, flowing hair, realistic proportions, and detailed shading"}. Soft golden-hour sunlight streaming through a window, realistic shadows, cinematic indoor photography, eye-level composition, 50mm lens, shallow depth of field, photorealistic skin, realistic hair strands, highly detailed wall texture, HDR lighting, masterpiece, editorial lifestyle photography, manga mural illusion, ultra-detailed, premium quality, 8K, extremely realistic.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2081179727734456415) | 2026-07-26
+
+---
+

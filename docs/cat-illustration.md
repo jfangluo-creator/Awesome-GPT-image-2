@@ -9721,3 +9721,167 @@ Make an illustration. Create a Japanese festival food stall based entirely on th
 
 ---
 
+### 🎨 例 5031：Q 版男孩与豆芽吉祥物
+
+![Q 版男孩与豆芽吉祥物](../images/Q%20%E7%89%88%E7%94%B7%E5%AD%A9%E4%B8%8E%E8%B1%86%E8%8A%BD%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅可爱的 Q 版动漫风格单格插画，背景为温暖的米白色纸张。画面中仅包含两个角色：左侧是一位严肃的小型 Q 版青年，名为 {argument name="character name" default="一个忧郁的黑发男孩"}，留着凌乱的层次感黑发，有着灰色的眼睛、圆形的细框眼镜、苍白的皮肤，表情略显烦躁且中立；右侧是一个简洁的白色吉祥物，有着圆圆的脑袋、小小的黑色椭圆眼睛、粉红色的脸颊、张开的笑嘴，头顶长着一株带有两片叶子的小绿芽。吉祥物伸出双臂，拽着男孩的衬衫领口，仿佛试图将其拉开，而男孩则僵硬地站着进行抵抗。男孩穿着优雅的纯黑色层次感服装：高领扣的黑色衬衫、带花纹的黑色马甲、深色外套或短款外搭、黑色长裤、黑色鞋子以及小巧的金色链条配饰；保持领口清晰可见地闭合。他左手拿着一本超大的旧式黑色精装书，书角磨损，带有金色装饰、中央徽章，以及一张写有类似 {argument name="book label text" default="人间取扱说明书・暂定版"} 日文标题文字的米色纸质标签。在吉祥物上方添加一个气泡框，内含日文 {argument name="speech bubble text" default="闭めな"}。使用柔和的水彩和墨线风格，细腻的阴影，略带纹理的纸张质感，Q 版的大头小身比例，两人脚下有柔和的米色地面阴影，并留出充足的空白背景。避免出现额外角色、多余物体、敞开的领口、写实比例或生硬的数字渲染。
+
+[English]
+Create a cute chibi anime-style single-panel illustration on a warm off-white paper background. The scene shows exactly two characters: on the left, a small serious chibi young man named {argument name="character name" default="a brooding black-haired boy"} with messy layered black hair, gray eyes, round wire-frame glasses, pale skin, and a slightly annoyed neutral expression; on the right, a simple white mascot creature with a round head, tiny black oval eyes, rosy pink cheeks, an open smiling mouth, and a small green sprout with two leaves growing from its head. The mascot reaches up with both arms and tugs at the boy’s shirt collar as if trying to open it, while the boy stands stiffly and resists. The boy wears an elegant all-black layered outfit: black collared shirt buttoned high, patterned black vest, dark jacket or short outer layer, black trousers, black shoes, and small gold chain accessories; keep the collar visibly closed. In his left hand he holds one oversized old black hardbound book with worn corners, gold trim, a central emblem, and a cream paper label containing Japanese-style title text resembling {argument name="book label text" default="人間取扱説明書・暫定版"}. Add exactly one speech bubble above the mascot containing the Japanese text {argument name="speech bubble text" default="閉めな"}. Use soft watercolor and ink line art, delicate shading, slightly textured paper, chibi proportions with large head and small body, a gentle beige ground shadow beneath both figures, and plenty of empty background space. Avoid extra characters, extra objects, open collar, realistic proportions, or harsh digital rendering.
+```
+
+**来源：** [@tane@AI](https://x.com/gin1910410/status/2081521309197185110) | 2026-07-26
+
+---
+
+### 🎨 例 5033：暗黑学院风动漫法律专员
+
+![暗黑学院风动漫法律专员](../images/%E6%9A%97%E9%BB%91%E5%AD%A6%E9%99%A2%E9%A3%8E%E5%8A%A8%E6%BC%AB%E6%B3%95%E5%BE%8B%E4%B8%93%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 3:4 竖版动漫风格插画，主角是一位冷静优雅的男性法律专员或合同处理员，名为 {argument name="character name" default="unnamed character"}，采用胸部以上近景构图。他是一位身材修长的年轻成年人，皮肤苍白，灰棕色的双眼狭长锐利，表情冷静且略显疏离，凌乱的湿发感 {argument name="hair color" default="black"} 头发垂在眼前，戴着精致的圆形细框眼镜，并配有一条细金色的眼镜链。他身穿黑色开领衬衫，外搭一件带有细腻花卉纹理的深色马甲或外套，配有小巧的金扣和一枚低调的耳环。他的左手优雅地抬起，修长且刻画细腻的手指间握着 1 支黑色钢笔；另一只手臂在右下方托着 1 个大型黑色法律活页夹，里面塞满了米白色的文件。活页夹上贴着一张奶油色的标签，写有日文标题 {argument name="binder label" default="人間取扱規約"}。背景：一面米白色的纸墙，上面布满了超大号的日文合同条款、横线、注释标记和黑色矩形章节标签；包含 3 个清晰可见的注释标记，如 注1、[2] 和 注2，以及部分日文法律文本，包括 {argument name="background clause" default="添付されていない"}。使用精致的暗黑学院风配色，包括黑色、象牙白、柔和米色、烟灰色和古金色。光线应从左上方投射，柔和且具有戏剧性，在面部、颈部、手部和活页夹上留下柔和的阴影。风格：高细节的现代日式乙女/漫画角色艺术，线条优雅，笔触感阴影，手部写实，双眼光泽感强，织物纹理复杂，钢笔和活页夹细节清晰，无多余角色，无水印，无手指畸形，面部清晰可辨。
+
+[English]
+Create a vertical 3:4 anime-style illustration of a cool, elegant male legal officer or contract handler named {argument name="character name" default="unnamed character"}, shown from chest up in a close cropped composition. He is a slim young adult with pale skin, sharp narrow gray-brown eyes, a calm slightly aloof expression, messy wet-looking {argument name="hair color" default="black"} hair falling over one eye, and delicate round wire-frame glasses with a thin gold glasses chain hanging down. He wears a black open-collar dress shirt, a dark patterned vest or jacket with subtle ornate floral texture, small gold buttons, and a discreet earring. His left hand is raised elegantly in front of him holding exactly 1 black fountain pen between long, well-drawn fingers; his other arm supports exactly 1 large black legal binder at the lower right, stuffed with many off-white papers. The binder has a cream label with the Japanese title {argument name="binder label" default="人間取扱規約"}. Background: an off-white paper wall filled with oversized Japanese contract clauses, ruled lines, annotation marks, and black rectangular section tags; include exactly 3 visible annotation markers such as 注1, [2], and 注2, and fragments of Japanese legal text including {argument name="background clause" default="添付されていない"}. Use a refined dark academia palette of black, ivory, muted beige, smoky gray, and antique gold. Lighting should be soft and dramatic from the upper left, with gentle shadows on the face, neck, hands, and binder. Style: highly detailed modern Japanese otome/manhwa character art, elegant linework, painterly shading, realistic hands, glossy eyes, intricate fabric texture, crisp pen and binder details, no extra characters, no watermark, no distorted fingers, no unreadable face.
+```
+
+**来源：** [@tane@AI](https://x.com/gin1910410/status/2081518177100709973) | 2026-07-26
+
+---
+
+### 🎨 例 5060：动漫风格 Steel Dream 封面
+
+![动漫风格 Steel Dream 封面](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%20Steel%20Dream%20%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格音乐封面插图，主题为 {argument name="song title" default="STEEL DREAM"}。画面中，一位留着 {argument name="hair color" default="淡天蓝色"} 肩长波波头、齐刘海、头顶有一撮呆毛、蓝紫色眼睛、戴着细框椭圆眼镜、耳环和黑色颈圈的年轻动漫女孩，侧身斜倚在床上或柔软的地面靠垫上。她穿着一件宽松的白色露肩睡裙，带有细肩带、长泡泡袖、胸前饰有小蝴蝶结，裙摆短而褶皱；她赤着脚，向后靠在一个深海军蓝色的懒人沙发枕头上，一只手抬起并张开，仿佛在展示标题，另一只手随意地放在一侧。场景设定在夜晚舒适的卧室，她身后的宽大窗户展示着深蓝色的星空、微弱的流星或对角线光束，以及远处的城市天际线。在左侧，放置一把靠窗竖立的原声吉他，以及一张小木桌上发着暖光的长方形床头灯，投射出柔和的琥珀色光芒。在左上方添加大号标志文字“{argument name="logo text" default="STEEL DREAM"}”，设计为奇幻重金属风格的金属徽标：带有斜面的铬钢字母、冰蓝色高光、深色阴影、锋利的衬线、轻微的锈铜边缘以及微妙的光晕，部分覆盖在吉他和窗户背景上。采用 16:9 电影级构图，冷色调月光蓝与暖色调灯光形成对比，使用柔和的动漫绘画渲染风格，线条清晰，织物褶皱细节丰富，头发光泽感强，具有柔和的大气深度，画面中不包含额外角色、水印或其他文字。
+
+[English]
+Create a polished anime-style music cover illustration for {argument name="song title" default="STEEL DREAM"}. A relaxed young anime woman with {argument name="hair color" default="pale sky-blue"} shoulder-length bob hair, blunt bangs, a single curled ahoge, blue-purple eyes, thin oval glasses, small earrings, and a black choker reclines sideways on a bed or soft floor cushion. She wears a loose white off-shoulder nightdress with thin straps, long puffy sleeves, a small bow at the chest, and a short ruffled hem; she is barefoot, leaning back into a large dark navy beanbag pillow, with one hand raised open as if presenting the title and the other resting casually to the side. The setting is a cozy bedroom at night with a wide window behind her showing a deep blue starry sky, a faint shooting star or diagonal light streak, and a distant city skyline. On the left side, place an acoustic guitar standing upright near the window and a warm glowing rectangular bedside lantern on a small wooden table, casting soft amber light. Add the large logo text “{argument name="logo text" default="STEEL DREAM"}” in the upper-left area, styled as a fantasy heavy-metal metallic emblem: beveled chrome and steel letters, icy blue highlights, dark shadows, sharp serifs, slight rusted bronze edges, and a subtle glow, partially overlapping the guitar/window background. Use a cinematic 16:9 composition, cool moonlit blue palette contrasted with warm lantern light, soft painterly anime rendering, clean linework, detailed fabric folds, glossy hair highlights, gentle atmospheric depth, and no extra characters, no watermark, no additional text.
+```
+
+**来源：** [@のうめん🏗️👺生成AIパスポート認定取れた](https://x.com/nomen_machine/status/2081370350290612653) | 2026-07-26
+
+---
+
+### 🎨 例 5065：Emerald Frequency 专辑封面
+
+![Emerald Frequency 专辑封面](../images/Emerald%20Frequency%20%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张正方形的奇幻音乐封面艺术作品，标题为 {argument name="title text" default="Emerald Frequency"}。场景是一个华丽的翡翠与黄金水晶共鸣世界：一颗巨大的多面发光翡翠水晶悬浮在中心，散发着绿光，并被一条横跨图像的细长水平音频波形环绕。在前景中，放置一把光泽深邃的翡翠色电吉他，从左下角向右边缘倾斜，配有金色硬件、清晰可见的琴弦、拾音器、旋钮、连接线以及反光的大理石纹绿色琴身。背景展示了一个神秘的景观，包括锯齿状的水晶森林和星空下遥远的尖塔，右上角有一轮明亮的满月。添加许多大小不一的漂浮翡翠碎片、闪烁的颗粒和发光的薄雾。用复杂的金色圆形星盘环、类似指南针的机械装置、齿轮和天体几何图形构图，包括 5 个显著的机械/天体装置：左下角一个大型圆形指南针，左上角一个小星盘，右上角一个小星盘，右边缘一个垂直的齿轮状仪器，以及右下角一个圆形装置。使用调色板 {argument name="primary color palette" default="深翡翠绿、发光薄荷绿、古董金、黑色和月光青色"}。排版：将居中的大标题设置为优雅的高对比度衬线字体，呈淡薄荷白色并带有微妙的光晕，分为 2 行：“Emerald”在上，“Frequency”在下；在标题上方添加一个小星星装饰，并在标题与水晶之间添加一个微小的发光钻石装饰。在底部，添加间距宽阔的小写衬线文本 {argument name="bottom caption" default="INSTRUMENTAL MELODIC FUSION"}，两侧配以精致的金色线条装饰。整体风格：高度精细的电影级奇幻专辑封面，奢华的“水晶龙骑”美学，对称的中心构图，魔幻现实主义，发光反射，锐利的宝石切面，大气深度，无人物，无水印，无多余文字。
+
+[English]
+Create a square fantasy music cover artwork for {argument name="title text" default="Emerald Frequency"}. The scene is an ornate emerald-and-gold crystal resonance world: a huge faceted glowing emerald crystal floats at the center, radiating green light and surrounded by a thin horizontal audio waveform that stretches across the image. In the foreground, place a glossy dark emerald electric guitar angled from lower center toward the right edge, with gold hardware, visible strings, pickups, knobs, cable, and reflective marbled green body. Behind it, show a mystical landscape of jagged crystal forests and distant spires under a starry night sky, with a bright full moon in the upper right. Add many floating emerald shards of varied sizes, sparkling particles, and luminous mist. Frame the composition with intricate golden circular astrolabe rings, compass-like mechanisms, gears, and celestial geometry, including exactly 5 prominent mechanical/celestial devices: one large circular compass in the lower left, one small astrolabe in the upper left, one small astrolabe in the upper right, one vertical gear-like instrument at the right edge, and one circular device in the lower right. Use the palette {argument name="primary color palette" default="deep emerald green, glowing mint green, antique gold, black, and moonlit teal"}. Typography: set the large centered title in elegant high-contrast serif lettering, pale mint-white with subtle glow, split into exactly 2 lines: “Emerald” above “Frequency”; add a small star ornament above the title and a tiny glowing diamond ornament between the title and crystal. At the bottom, add widely spaced small-cap serif text reading {argument name="bottom caption" default="INSTRUMENTAL MELODIC FUSION"}, flanked by delicate gold line ornaments. Overall style: highly detailed cinematic fantasy album cover, luxurious crystal-dragon-lancer aesthetic, symmetrical central composition, magical realism, luminous reflections, sharp gem facets, atmospheric depth, no people, no watermark, no extra text.
+```
+
+**来源：** [@エル💙way](https://x.com/ellewayAI/status/2081345285759098994) | 2026-07-26
+
+---
+
+### 🎨 例 5067：半露天温泉中的年轻女性
+
+![半露天温泉中的年轻女性](../images/%E5%8D%8A%E9%9C%B2%E5%A4%A9%E6%B8%A9%E6%B3%89%E4%B8%AD%E7%9A%84%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+主題：
+水面にほどける髪
+
+主体：
+縦長2:3。{argument name="場所" default="木造の半露天風呂"}に入る{argument name="年齢と性別" default="20代女性"}を、画面中央やや右に配置した膝上までのポートレート。人物は画面の約7割を占め、浅い湯の中で両膝をつき、浴槽の縁へ両手を置いて上体を少し前へ傾けている。
+
+人物・表情：
+明るいアイボリーベージュの肌に、自然な肌理と淡い血色を残す。顔はカメラへ正面気味に向け、顎をわずかに引き、澄んだ瞳で静かに見つめる。口元は軽く開き、落ち着いたやさしい表情。淡いローズピンクのチーク、ピンクブラウンのアイシャドウ、細く自然なまつ毛、控えめな涙袋、明るいブラウンの眉、透け感のあるピンクベージュのリップ。瞳に小さなキャッチライト。
+
+服装・ポーズ：
+{argument name="服装" default="生成りホワイトの繊細なクロシェ編みビキニ"}。細い肩紐とサイドリボン、編み目の透け感と濡れた繊維の質感を丁寧に描く。両腕は自然に伸ばし、左右の手のひらを浴槽の石縁へ置く。指は軽く開き、重心は両膝と両手へ分散。肩は少し内側へ入り、腰は後方に残る。水面が太腿の途中まで触れ、身体の動きに沿って小さな波紋が広がる。
+
+背景・光：
+木の柱、古材の壁、竹簾、小さな植栽に囲まれた静かな半露天風呂。前景に淡い石造りの浴槽縁、中景に透明感のある湯と人物、後景に木造建築とぼけた緑。画面左上から暖かな自然光が差し込み、髪、頬、肩、鎖骨、水滴を柔らかく照らす。右側には木壁からの淡い反射光。水面には白い揺らぎが映り、人物の下へ薄い影が落ちる。
+
+構図・カメラ：
+縦位置2:3、人物の頭頂に少量の余白、下端は浴槽縁で切る。やや高めの目線から撮影した中近景。50mm相当、顔と上半身に焦点を合わせ、背景は自然なボケ。顔を画面上部中央、両腕の斜線を下方向へ導き、水面と浴槽縁で奥行きを作る。
+
+質感・スタイル：
+高精細な実写ポートレート。濡れたミルクティーアッシュブラウンの髪、薄いシースルーバング、顔まわりのレイヤー、肩下までのミディアムロング。細い毛束、濡れた艶、自然な後れ毛を描写。肌は過度に均一化せず、毛穴、細かな水滴、頬の血色を残す。暖色の木材と淡い肌、深い緑、水面の青緑を調和させた落ち着いた色調。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、過度な美肌補正、プラスチックのような肌、余分な指、欠けた指、指の融合、腕や脚の変形、関節の破綻、浴槽との接触不良、不自然な浮遊、水面と矛盾する影、誤った遠近法、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2081338239726535051) | 2026-07-26
+
+---
+
+### 🎨 例 5071：身着盔甲的未来科幻女性
+
+![身着盔甲的未来科幻女性](../images/%E8%BA%AB%E7%9D%80%E7%9B%94%E7%94%B2%E7%9A%84%E6%9C%AA%E6%9D%A5%E7%A7%91%E5%B9%BB%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+{argument name="スタイル" default="SFアートスタイル"}で描かれた、夜空に輝く星屑を背景にした近未来の若き女性。彼女は{argument name="髪色" default="鮮やかなブルー"}のショートヘアで洗練された白とシルバーの装飾が施された、流線型のアーマースーツを着用。スーツは体にフィットし、その素材は滑らかで光沢がある。特に、足元はサイバネティックなハイヒール状のデザインになっており、彼女の近未来的な雰囲気を強調している。スーツのシルバーの装飾は、周囲の星屑の光を鈍く反射し、被写界深度の浅い、ドラマチックなライティング効果を生み出している。彼女の周囲には、無数の光り輝く星屑が、まるで銀河のように散りばめられており、幻想的で壮大な雰囲気を醸し出している。色調は、ブルー、シルバー、そして星屑の輝きによる暖色系の光が調和し、クールかつ神秘的なムードを演出している。
+```
+
+**来源：** [@おもも桃](https://x.com/omomomomo0309/status/2081329111000043798) | 2026-07-26
+
+---
+
+### 🎨 例 5072：东亚高级定制旗袍模特
+
+![东亚高级定制旗袍模特](../images/%E4%B8%9C%E4%BA%9A%E9%AB%98%E7%BA%A7%E5%AE%9A%E5%88%B6%E6%97%97%E8%A2%8D%E6%A8%A1%E7%89%B9.jpg)
+
+**Prompt:**
+
+```text
+{argument name="人物特征" default="一位20多岁的东亚成年女性，高级时装模特比例，修长身材，长腿，窄腰，挺直肩颈，鹅蛋脸，高颧骨，杏仁眼，自然东方五官。深棕黑色长发盘成低发髻，少量碎发被风吹起，真实发丝纹理。"}\n\n她穿着{argument name="服装款式" default="现代高级定制红色旗袍礼服（Qipao inspired couture），修身剪裁，高开衩，金色中式刺绣覆盖胸前、腰部和裙摆，丝绸缎面材质"}，随步伐形成自然飘扬的裙摆。脚穿金色细高跟鞋。\n\n人物正在向画面右侧迈步，前腿大幅跨出，后腿自然发力，身体挺拔，肩膀放松，头部微微抬起并转向远方，眼神坚定、自信，具有国际超模走秀气场。\n\n拍摄地点为{argument name="环境地点" default="欧洲古典广场，背景是一座圆形新古典主义建筑，灰色穹顶、红色窗框，右侧有骑马雕像，宽阔石板广场，城市建筑围绕，清晨街道安静无人"}。\n\n黄金时刻夕阳从画面左侧低角度照射，暖金色阳光照亮人物皮肤、旗袍刺绣与建筑立面，形成真实侧逆光、边缘轮廓光和长阴影。天空深蓝且干净，空气通透。\n\n整体色调暖金色与深蓝形成强烈互补，高级电影色彩，低饱和但保留红色旗袍和金色刺绣层次。\n\nNegative Prompt\nplastic skin, CGI, AI look, anime, illustration, HDR, oversaturated, fake embroidery, fake silk, distorted anatomy, extra fingers, duplicate limbs, short legs, incorrect perspective, blurry, watermark, logo, text.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2081318610232893686) | 2026-07-26
+
+---
+
+### 🎨 例 5105：棕褐色钢笔画插图
+
+![棕褐色钢笔画插图](../images/%E6%A3%95%E8%A4%90%E8%89%B2%E9%92%A2%E7%AC%94%E7%94%BB%E6%8F%92%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+配色トーンは{argument name="配色トーン" default="セピアカラー"}、線画は{argument name="画法" default="ペン画"}でセピアカラーに色トレスして
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2081206167213343096) | 2026-07-26
+
+---
+
+### 🎨 例 5110：史诗级银河探索飞船
+
+![史诗级银河探索飞船](../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E9%93%B6%E6%B2%B3%E6%8E%A2%E7%B4%A2%E9%A3%9E%E8%88%B9.jpg)
+
+**Prompt:**
+
+```text
+{argument name="乗り物" default="宇宙探査船"}が{argument name="宇宙の背景" default="輝く星雲と巨大惑星"}の間を航行する壮大な宇宙景観
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2081175166311162231) | 2026-07-26
+
+---
+

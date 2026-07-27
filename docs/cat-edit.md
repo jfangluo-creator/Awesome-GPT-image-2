@@ -3307,3 +3307,57 @@ Surround the doodle with exactly 15 decorative doodle elements: 4 stars/sparkles
 
 ---
 
+### 🔧 例 5037：洛丽塔女仆与动漫墙绘
+
+![洛丽塔女仆与动漫墙绘](../images/%E6%B4%9B%E4%B8%BD%E5%A1%94%E5%A5%B3%E4%BB%86%E4%B8%8E%E5%8A%A8%E6%BC%AB%E5%A2%99%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张具有动漫素描转换主题的写实时尚编辑风格图像。一位留着 {argument name="hair color" default="浅棕色"} 头发的年轻女性站在画面左侧三分之一处，背景是一面简洁的暖米色室内墙壁。她身穿黑白哥特洛丽塔女仆装：黑色泡泡袖蕾丝连衣裙、白色荷叶边围裙、白色蕾丝袖口、小型白色褶边女仆发带、白色及膝袜以及黑色玛丽珍厚底鞋。她姿态羞涩，略带嘟嘴，靠在墙角，一只手托着脸颊，另一只手臂交叉，一条腿站直，另一条腿向后弯曲。在她的右侧，直接在墙上绘制一个巨大的黑色墨水漫画/动漫线条画版本的女仆角色，动作比真人更具动感和俏皮感：眨眼、张嘴微笑、在眼睛旁比出 V 字手势、一条腿踢起、围裙和裙摆飘动、长发飞扬。在素描周围添加 8 个涂鸦元素：3 个爱心、3 个星星和 2 个短促的强调符号。利用左侧窗户射入的温暖自然光，在墙壁和木地板上投下斜向阴影。保持构图平衡，左侧为真人模特，右侧为手绘动漫分身，呈现写实的摄影质感、柔和的阴影、米色墙壁、踢脚线和拼花木地板。无标题，无水印，无额外字符。
+
+[English]
+Create a photorealistic editorial fashion image with an anime sketch transformation theme. A young woman with {argument name="hair color" default="light brown"} hair stands in the left third of the frame against a plain warm beige interior wall, wearing a black-and-white gothic lolita maid outfit: black puff-sleeve lace dress, white frilly apron, white lace cuffs, small white ruffled maid headband, white knee-high socks, and black Mary Jane platform heels. She poses shyly and slightly pouty, leaning near the corner with one hand resting against her cheek, the other arm folded, one leg straight and the other bent backward at the knee. To her right, drawn directly on the wall, show one large black ink manga/anime line-art version of the same maid character, about twice as dynamic and playful: winking, smiling with an open mouth, making a V-sign near her eye, one leg kicked up, apron and skirt fluttering, long hair flowing. Surround the sketch with exactly 8 doodle elements: 3 hearts, 3 stars, and 2 short emphasis marks. Use warm natural sunlight from a window on the left, casting diagonal shadows across the wall and wooden floor. Keep the composition split between real model on the left and hand-drawn anime alter ego on the right, with realistic photography texture, soft shadows, beige wall, baseboard, and parquet wood floor. No captions, no watermark, no extra characters.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081481411647914257) | 2026-07-26
+
+---
+
+### 🔧 例 5050：手绘涂鸦与标注风格
+
+![手绘涂鸦与标注风格](../images/%E6%89%8B%E7%BB%98%E6%B6%82%E9%B8%A6%E4%B8%8E%E6%A0%87%E6%B3%A8%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+添加 {argument name="scribble lines" default="手绘柔和色调涂鸦线条，包括轮廓、漩涡、箭头和可爱的标注"}。包含 {argument name="writing style" default="随意、凌乱且俏皮风格"} 的手写文字，如同笔记和对话一般。柔和、清爽的晨间色调，伴随晨曦微露，呈现水面反射效果，细节丰富，带有颗粒质感，充满 Instagram 美学，构图极简而富有艺术感。
+
+[English]
+Add {argument name="scribble lines" default="hand-drawn pastel scribble lines, including outlines, swirls, arrows, and cute annotations"}. Include handwritten text in a {argument name="writing style" default="casual, messy, and playful style"}, like notes and conversations. A soft, clean morning tone, with the sunrise peeking through, featuring water reflections, high detail, grain texture, Instagram aesthetic, and a minimal yet artistic composition.
+```
+
+**来源：** [@⊹˚ Giovanna ˚⊹](https://x.com/Giovanna_Rave/status/2081410123574993080) | 2026-07-26
+
+---
+
+### 🔧 例 5076：教室气球照片高清修复
+
+![教室气球照片高清修复](../images/%E6%95%99%E5%AE%A4%E6%B0%94%E7%90%83%E7%85%A7%E7%89%87%E9%AB%98%E6%B8%85%E4%BF%AE%E5%A4%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为主体构图，并以 REFERENCE_1 作为吹气球动作的细节参考，对场景进行放大并重新生成，使其成为清晰、逼真的高分辨率照片。保持相同的教室环境、宽幅横向构图、黑板背景、前景桌子，以及 7 名排成一排吹气球的学生。保持他们的相对位置、姿势、服装和气球颜色与 REFERENCE_0 一致：1) 穿黄衬衫的女孩拿着淡色气球，2) 穿海军蓝衬衫的男孩吹着小号深色气球，3) 穿黄色长袖的女孩拿着黄色气球，4) 穿绿色篮球服的女孩拿着粉色气球，5) 穿红衬衫的女孩拿着红色气球，6) 穿白衬衫的女孩拿着黄色气球，7) 穿蓝色运动服的女孩拿着红色气球。优化面部、手部、服装细节、光影和室内几何结构，使图像看起来像是一张清晰的现代智能手机照片，而不是模糊的低分辨率视频帧。去除压缩伪影和模糊，但不要添加额外的人员、文字、UI 覆盖层或夸张的特效。可选自定义：设置场景为 {argument name="location" default="带有黑板的教室"}，并将整体效果设置为 {argument name="photo quality" default="清晰逼真的高分辨率智能手机照片"}。
+
+[English]
+Using REFERENCE_0 as the main composition and REFERENCE_1 as a detail reference for the balloon-inflation action, upscale and regenerate the scene as a sharp, realistic high-resolution photo. Preserve the same classroom setting, wide horizontal framing, chalkboard background, table in the foreground, and exactly 7 students standing in a row blowing balloons. Keep their relative positions, poses, outfits, and balloon colors consistent with REFERENCE_0: 1) yellow-shirt girl with a pale balloon, 2) navy-shirt boy blowing a small dark balloon, 3) yellow long-sleeve girl with a yellow balloon, 4) green basketball-uniform girl with a pink balloon, 5) red-shirt girl with a red balloon, 6) white-shirt girl with a yellow balloon, 7) blue sports-uniform girl with a red balloon. Improve the faces, hands, clothing details, lighting, and room geometry so the image looks like a clean modern smartphone photo rather than a blurry low-resolution video frame. Remove compression artifacts and blur, but do not add extra people, text, UI overlays, or dramatic effects. Optional customization: set the scene to {argument name="location" default="a classroom with a chalkboard"} and the overall finish to {argument name="photo quality" default="sharp realistic high-resolution smartphone photo"}.
+```
+
+**来源：** [@風船動画🎈](https://x.com/BalloonClip/status/2081309440633135571) | 2026-07-26
+
+---
+
