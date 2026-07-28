@@ -6037,3 +6037,111 @@ Create a full-body 3D kawaii chibi anime figure of {argument name="character nam
 
 ---
 
+### 🧸 例 5118：戴着毛绒马头套的马尾辫女孩
+
+![戴着毛绒马头套的马尾辫女孩](../images/%E6%88%B4%E7%9D%80%E6%AF%9B%E7%BB%92%E9%A9%AC%E5%A4%B4%E5%A5%97%E7%9A%84%E9%A9%AC%E5%B0%BE%E8%BE%AB%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖构图肖像照片，画面中是一位开朗的年轻日本女性，她站在淡蓝色天空和柔和云朵下的开阔草地上。她处于半身像构图的中心，正对着镜头，带着温暖自然的微笑，眼神明亮。她留着长直的 {argument name="hair color" default="黑色"} 头发，扎成高马尾，从超大号毛绒马头套的后方伸出。头套呈棕褐色，毛茸茸的，像戏服一样，形状是一个可爱的填充马头，戴在她的头上，拥有 2 只圆耳朵、2 只亮面黑色纽扣眼睛、2 个小鼻孔、一小撮深棕色直立鬃毛，以及 4 只悬垂的毛绒马腿，马蹄呈深棕色，环绕在她的脸部和肩部周围。她真实的马尾辫从头套后方垂向观察者的右侧。她穿着一件修身的罗纹 {argument name="top color" default="芥末棕色"} 无袖露脐背心，戴着一条精致的细项链。使用柔和的自然光，浅景深，模糊的绿色草地背景，讨喜的肤色，写实的布料和毛绒质感，高细节摄影，休闲俏皮的氛围。在左上角添加一个淡淡的半透明 "CapCut AI" 水印，并在左下角添加一个粉白色的社交账号 {argument name="watermark handle" default="@Me_Rock369"}。画面中没有其他人，没有多余的文字，没有畸变，保持马头套可爱而非惊悚的形象。
+
+[English]
+Create a realistic vertical portrait photo of a cheerful young Japanese woman standing in an open grassy field under a pale blue sky with soft clouds. She is centered in a waist-up composition, facing the camera with a warm natural smile and bright eyes. She has long straight {argument name="hair color" default="black"} hair tied into a high ponytail that emerges from the back of an oversized plush horse hood. The hood is tan-brown, fuzzy, and costume-like, shaped as a cute stuffed horse head sitting over her head, with exactly 2 rounded ears, 2 glossy black button eyes, 2 small nostrils, a short dark brown upright mane, and exactly 4 dangling plush horse legs with darker brown hooves framing her face and shoulders. Her real ponytail hangs to the viewer's right side from behind the hood. She wears a fitted ribbed {argument name="top color" default="mustard tan"} sleeveless crop tank top and a delicate thin necklace. Use soft natural daylight, shallow depth of field, blurred green meadow background, flattering skin tones, realistic fabric and plush textures, high-detail photography, casual playful mood. Add a faint semi-transparent "CapCut AI" watermark in the upper left and a pink-and-white social handle {argument name="watermark handle" default="@Me_Rock369"} in the lower left. No extra people, no extra text, no distortions, keep the horse hood cute rather than scary.
+```
+
+**来源：** [@みろく（MIROKU）](https://x.com/Me_Rock369/status/2081847098568491493) | 2026-07-27
+
+---
+
+### 🧸 例 5127：12 格陶瓷马克杯样片表
+
+![12 格陶瓷马克杯样片表](../images/12%20%E6%A0%BC%E9%99%B6%E7%93%B7%E9%A9%AC%E5%85%8B%E6%9D%AF%E6%A0%B7%E7%89%87%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一张简洁的样片拼贴图，展示 12 张完全相同的极简陶瓷咖啡杯的写实摄影产品照，以 4 列 3 行的网格排列，带有窄白色间隙和白色页面边框。该杯子为素色暖米白色炻器马克杯，具有圆柱形杯身、略厚的杯沿、细腻的磨砂陶瓷质感和简单的 C 型把手；无标志、无装饰、无液体、无杯托。在每个网格中改变拍摄角度和光线，同时保持杯子外观一致。第 1 格：暖米色背景下的侧视图，把手在右侧，柔和阴影投向左侧。第 2 格：浅蓝色背景下的俯视图，圆形杯口居中，把手指向右侧。第 3 格：近黑色背景下的戏剧性侧视图，把手在右侧，低调光效和强烈的边缘高光。第 4 格：灰粉色背景下的侧视图，把手在右侧，柔和暖光。第 5 格：柔和鼠尾草绿背景下的侧视图，把手在右侧，平静的漫反射阴影。第 6 格：奶油色背景下的四分之三侧视图，把手在右侧，明亮的柔光箱照明。第 7 格：中灰色背景下的低角度侧视图，马克杯放置在弯曲的灰色桌面边缘，把手在右侧，雕塑感阴影。第 8 格：黄褐色背景下的高位四分之三视图，把手在右侧，可见杯子内部。第 9 格：冷灰蓝色背景下的侧视图，把手在右侧，长水平阴影。第 10 格：焦糖棕色背景下的侧视图，把手在右侧，温暖的摄影棚光效。第 11 格：米白色背景下的俯视四分之三视图，把手靠近右上角，可见空杯内部。第 12 格：浅天蓝色背景下的侧视图，把手在右侧，明亮通透的光效。在网格下方居中添加小型衬线字体，内容为“{argument name="caption text" default="12 of 400 generations"}”。使用 3:2 横向画布，采用高分辨率编辑级产品摄影风格，柔和的自然阴影，细腻的纸质背景，一致的白色间距，且不包含额外物体或文字。可定制产品为 {argument name="product" default="minimalist ceramic coffee cup"}；保持主色调为 {argument name="cup color" default="warm off-white"}，整体风格为 {argument name="visual style" default="photorealistic studio product photography"}。
+
+[English]
+Create a clean contact-sheet collage showing exactly 12 photorealistic studio product photos of the same minimalist ceramic coffee cup, arranged in a 4-column by 3-row grid with narrow white gutters and a white page border. The cup is a plain warm off-white stoneware mug with a rounded cylindrical body, slightly thick rim, subtle speckled matte ceramic texture, and a simple C-shaped handle; no logo, no decoration, no liquid, no saucer. Vary the camera angle and lighting in each tile while keeping the cup consistent. Tile 1: side view on a warm beige background, handle on the right, soft shadow cast left. Tile 2: top-down view on a pale blue background, circular opening centered, handle pointing right. Tile 3: dramatic side view on a nearly black background, handle on the right, low-key lighting and strong rim highlight. Tile 4: side view on a dusty pink background, handle on the right, soft warm lighting. Tile 5: side view on a muted sage green background, handle on the right, calm diffused shadow. Tile 6: three-quarter side view on a cream background, handle on the right, bright softbox lighting. Tile 7: low-angle side view on a medium gray background with the mug sitting on a curved gray tabletop edge, handle on the right, sculptural shadow. Tile 8: high three-quarter view on a tan ochre background, handle on the right, visible inside of cup. Tile 9: side view on a cool gray-blue background, handle on the right, long horizontal shadow. Tile 10: side view on a caramel brown background, handle on the right, warm studio lighting. Tile 11: overhead three-quarter view on an off-white background, handle near the upper right, visible empty interior. Tile 12: side view on a pale sky-blue background, handle on the right, bright airy lighting. Add small centered serif text below the grid reading “{argument name="caption text" default="12 of 400 generations"}”. Use a 3:2 landscape canvas, high-resolution editorial product photography, soft natural shadows, subtle paper-like backgrounds, consistent white spacing, and no extra objects or text. The customizable product is {argument name="product" default="minimalist ceramic coffee cup"}; keep the main color {argument name="cup color" default="warm off-white"} and overall style {argument name="visual style" default="photorealistic studio product photography"}.
+```
+
+**来源：** [@arthur](https://x.com/Arthursyou/status/2081761168285401120) | 2026-07-27
+
+---
+
+### 🧸 例 5138：书法风格亚洲概念艺术渲染
+
+![书法风格亚洲概念艺术渲染](../images/%E4%B9%A6%E6%B3%95%E9%A3%8E%E6%A0%BC%E4%BA%9A%E6%B4%B2%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF%E6%B8%B2%E6%9F%93.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="visual style" default="超写实 3D 渲染"} 附带模型。她的身体和服饰上都覆盖着 {argument name="pattern type" default="精美的亚洲书法铭文"}，采用黑色墨水和传统红色印章。半透明的羊皮纸丝带上书写着文字，垂直悬挂在场景中。背景采用 {argument name="background style" default="古老羊皮纸"} 风格，带有动态的书法笔触、黑色墨水飞溅以及焦橙色的点缀。柔和的电影级灯光，尖端的概念艺术风格，高清晰度，超精细细节。
+
+[English]
+{argument name="visual style" default="Hyperrealistic 3D rendering"} of the attached model. Both her body and dress are covered in {argument name="pattern type" default="intricate Asian calligraphic inscriptions"} in black ink and traditional red seals. Translucent parchment ribbons with writing hang vertically across the scene. Textured background in the style of {argument name="background style" default="ancient parchment"} with dynamic calligraphic strokes, splashes of black ink, and accents in burnt orange. Soft cinematic lighting, cutting-edge concept art style, high definition, ultra-detailed.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2081709416160641212) | 2026-07-27
+
+---
+
+### 🧸 例 5146：彩虹 3D 独角仙
+
+![彩虹 3D 独角仙](../images/%E5%BD%A9%E8%99%B9%203D%20%E7%8B%AC%E8%A7%92%E4%BB%99.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅单一主体的 3D 数字艺术作品，描绘一只可爱的日式独角仙（kabutomushi），使其斜向漂浮在纯黑色背景上。独角仙应呈现出类似毛绒玩具的圆润、光泽感粘土/塑料质感，形态饱满平滑，无粗糙纹理。画面仅展示 1 只独角仙，需具备 6 条分节的腿、2 根小触角、2 只圆形的侧眼，头部上方长有 1 个大型 Y 型分叉角，胸部上方长有 1 个较小的圆锥角。身体呈左上至右下倾斜角度，头部靠近左上方，腹部向右下方延伸；采用四分之三俯视视角。甲壳由两条被中央凹槽隔开的大型圆润翅盖组成，胸部呈圆顶状的橙黄色，身体各部位呈现出洋红色、紫色和蓝色的球状感。运用生动的彩虹渐变光效：左侧边缘为青色和蓝绿色，中部为饱和的粉色和洋红色，上层甲壳带有温暖的橙黄色高光，底部则为紫蓝色阴影。添加柔和的轮廓光和微妙的辉光效果，同时保持背景完全纯黑且简洁。在右下角添加一个优雅的小型签名/日期，上方为 {argument name="date text" default="2026 年 7 月 27 日"}，下方为草书艺术家签名 {argument name="signature text" default="Oyagi"}。整体氛围：可爱、未来感、发光、高端 3D 渲染，构图居中并留有充足的负空间，采用竖向肖像比例。
+
+[English]
+Create a single-subject 3D digital artwork of a cute stylized Japanese rhinoceros beetle, a kabutomushi, floating diagonally on a pure black background. The beetle should have a soft toy-like, rounded, glossy clay/plastic surface with smooth inflated forms and no hard textures. Show exactly 1 beetle with 6 segmented legs, 2 small antennae, 2 round side eyes, 1 large forked Y-shaped horn rising from the head, and 1 smaller cone horn on the thorax. Angle the body from upper left to lower right, with the head near the upper left and the abdomen extending downward right; use a three-quarter top view. The shell has two large rounded wing covers divided by a central groove, a domed orange-yellow thorax, and bulbous magenta-purple-blue body segments. Use vivid rainbow gradient lighting: cyan and teal along the left edges, saturated pink and magenta through the middle, warm orange and yellow highlights on the upper shell, and violet-blue shadows underneath. Add soft rim lighting and subtle bloom while keeping the background completely black and uncluttered. Include a small elegant signature/date in the lower-right corner reading {argument name="date text" default="July 27, 2026"} above a cursive artist signature {argument name="signature text" default="Oyagi"}. Overall mood: adorable, futuristic, luminous, high-end 3D render, centered composition with generous negative space, vertical portrait aspect ratio.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081679304199729589) | 2026-07-27
+
+---
+
+### 🧸 例 5147：霓虹 Q 版少女吃拉面
+
+![霓虹 Q 版少女吃拉面](../images/%E9%9C%93%E8%99%B9%20Q%20%E7%89%88%E5%B0%91%E5%A5%B3%E5%90%83%E6%8B%89%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 2:3 竖构图的风格化 3D 插画，画面中心是一位正在兴致勃勃地吃拉面的可爱 Q 版少女，背景为纯黑色，无环境元素。角色呈现出光泽感的软胶玩具质感，拥有超大的圆头、微闭的睡眼、嘟起的小嘴、圆润的脸颊，并配有青色、蓝色、紫色、洋红色和粉色的渐变霓虹灯光。她留着 {argument name="hair style" default="带有大圆弧侧分刘海，以及由三个柔软气泡状发髻组成的高丸子头"}，身穿简约短袖上衣，整体渲染为平滑的哑光粘土/塑料质感，带有细腻的次表面散射柔光。姿势设定为：右手将大拉面碗抱在胸前，左手精准地拿起 2 根筷子，将一束长长的波浪面条挑起送入口中。碗内包含 6 个清晰可见的食物元素：1 团波浪面条、1 层粉紫色汤面、左侧 1 把弯曲的汤勺、左前方 1 个大椭圆形半熟蛋、右侧 1 个较小的半熟蛋，以及右后方 1 片竖立的矩形海苔。运用戏剧性的轮廓光和覆盖全身的明亮色彩过渡，与黑色背景形成高对比度，造型圆润平滑，呈现可爱的超现实玩具美学，阴影浅淡，焦点清晰，无多余物体，无可见纹理噪点。在右下角添加一个手写签名和日期：{argument name="signature text" default="2026 年 7 月 27 日 Oyagi"}。
+
+[English]
+Create a vertical 2:3 stylized 3D illustration of a cute chibi girl enthusiastically eating ramen, centered on a pure black background with no environment. The character is a glossy soft-vinyl toy-like figure with oversized rounded head, tiny sleepy half-closed eyes, small pursed lips, rounded cheeks, and pastel iridescent neon lighting in cyan, blue, purple, magenta, and pink gradients. She has {argument name="hair style" default="large rounded side-swept bangs with a high bun made of three soft bubble-like lobes"} and a simple short-sleeve shirt, all rendered as smooth matte clay/plastic surfaces with subtle subsurface softness. Pose her holding a large ramen bowl close to her chest with her right hand while her left hand lifts exactly 2 chopsticks, pulling a bundle of long wavy noodles upward into her mouth. The bowl contains exactly 6 visible food elements: 1 mound of wavy noodles, 1 pink-purple broth surface, 1 curved soup spoon on the left, 1 large oval egg half in the front-left, 1 smaller egg half on the right, and 1 upright rectangular nori sheet at the back-right. Use dramatic rim lighting and luminous color transitions across every form, high contrast against black, smooth rounded modeling, adorable surreal toy aesthetic, shallow shadows, crisp focus, no extra objects, no visible texture noise. Add a small handwritten signature and date in the bottom-right reading {argument name="signature text" default="July 27, 2026 Oyagi"}.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081678535681593735) | 2026-07-27
+
+---
+
+### 🧸 例 5179：霓虹彩虹黏土拉面碗
+
+![霓虹彩虹黏土拉面碗](../images/%E9%9C%93%E8%99%B9%E5%BD%A9%E8%99%B9%E9%BB%8F%E5%9C%9F%E6%8B%89%E9%9D%A2%E7%A2%97.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 2:3 竖构图的数字艺术作品，描绘一碗超现实的拉面，采用光滑、膨胀的黏土质感 3D 形式渲染，并在纯黑色背景上呈现出生动的彩虹渐变光泽。主体是一个从高处四分之三视角俯瞰的大拉面碗，居中并占据大部分画布，碗口厚实圆润，底部有小底座。在每个表面使用高饱和度的霓虹色过渡：亮粉色、珊瑚橙、金黄色、青柠绿、蓝绿色、青色、钴蓝色和紫罗兰色，配合柔和的摄影棚灯光和天鹅绒般的哑光材质。碗内需包含 7 组清晰可见的食物元素：后方有一片类似海苔或豆腐的大方片，呈对角线向上倾斜；左侧有 3 片重叠的螺旋状鱼板切片；后方中心附近有 1 片螺旋切片；右侧有 2 片对半切开的蛋状椭圆，带有同心圆蛋黄；中心有一簇约 12 颗圆形的青豆或豆类；前方有一组厚实卷曲的面条；以及一组部分隐藏在面条下的小块肉汤或配料。让拉面看起来刻意怪异且不太有食欲，更像是色彩鲜艳的玩具食物或软陶，而非写实食物。在碗内添加微妙的阴影和明亮的边缘高光，除右下角一行手写艺术家签名和日期外，不包含任何文字，内容为 {argument name="signature text" default="July 27, 2026 Oyagi"}。自定义食物为 {argument name="dish type" default="ramen"}，保持背景为 {argument name="background color" default="black"}，使用 {argument name="color palette" default="neon rainbow gradient"}，并保持 {argument name="material style" default="smooth inflated matte 3D clay"} 的材质风格。
+
+[English]
+Create a whimsical 3D clay-like illustration of an unappetizing yet cute bowl of ramen made entirely from soft, rounded, inflated shapes in a vivid rainbow neon gradient. The scene is a single centered subject on a pure black background, vertical portrait canvas. Show one large round ramen bowl viewed from a slightly elevated three-quarter angle, with a thick rim and small pedestal base, rendered in smooth matte rubber or polymer-clay texture with glowing saturated colors blending through hot pink, orange, yellow, green, cyan, blue, and purple. Inside the bowl, include exactly 8 visible topping groups: 1 square sheet of nori standing upright at the back left, 2 halved boiled eggs on the right side with bright oval yolks, 4 large pink spiral narutomaki slices clustered on the left and rear, 1 cluster of small green peas or edamame in the center made of about 13 round beads, 1 rainbow spiral roll near the back center, 1 thick looping noodle mass in the front center forming soft U and S curves, 1 orange curved noodle band along the front-left rim, and 1 small purple-blue mound partially hidden under the noodles. Make the food look deliberately artificial and not very appetizing, but visually charming and toy-like. Use soft studio lighting, strong ambient glow, subtle depth, smooth gradients with no hard outlines, high-resolution digital art, no photorealistic food texture. Add a small handwritten artist signature and date in the bottom-right corner reading {argument name="signature text" default="Oyagi"} and {argument name="date text" default="July 27, 2026"}. Keep the background empty and black, with no table, chopsticks, steam, extra text, watermark, or realistic details. Primary palette should be customizable as {argument name="color palette" default="neon rainbow gradient"}, and the dish should remain {argument name="dish subject" default="a bowl of ramen"}.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081571439879279061) | 2026-07-27
+
+---
+

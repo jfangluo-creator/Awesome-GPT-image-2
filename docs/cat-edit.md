@@ -3361,3 +3361,131 @@ Using REFERENCE_0 as the main composition and REFERENCE_1 as a detail reference 
 
 ---
 
+### 🔧 例 5128：“过去 vs 现在”身份转换拼贴画
+
+![“过去 vs 现在”身份转换拼贴画](../images/%E2%80%9C%E8%BF%87%E5%8E%BB%20vs%20%E7%8E%B0%E5%9C%A8%E2%80%9D%E8%BA%AB%E4%BB%BD%E8%BD%AC%E6%8D%A2%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用上传的参考照片进行面部身份识别。极其精准地保留面部结构、面部比例、眼睛形状、眉毛、鼻子、嘴唇、下颌线、耳朵、肤色、发型特征以及整体身份。请勿美化、风格化或改变人物面部。儿童版本必须清晰地呈现为该人物大约 6 岁时的样子，而不是其他孩子。
+
+创建一个 4:5 比例的高级“THEN vs NOW”（过去 vs 现在）双帧垂直拼贴画。
+
+━━━━━━━━━━━━━━━━━━━━
+顶部框架 — 童年
+━━━━━━━━━━━━━━━━━━━━
+
+将参考人物转换为可爱的 6 岁儿童，同时保持完全一致的面部身份。
+
+仅显示该人物大约 6 岁时的年份（不是出生年份）。
+
+示例：
+• 出生于 1989 年 → 1995 年
+• 出生于 1996 年 → 2002 年
+• 出生于 2002 年 → 2008 年
+
+孩子穿着与人物风格相符的精美柔和色调服装（女性穿着可爱的连衣裙，男性穿着时尚休闲装），颜色柔和协调。
+
+场景：坐在温馨舒适的家中，大落地窗旁。金色的午后阳光洒满房间。柔软的枕头、泰迪熊、书籍、鲜花或有品位的装饰营造出怀旧的童年氛围。
+
+自然的微笑、闪烁的眼睛、天真的表情、真实的比例、逼真的手部、自然的皮肤纹理、细微的瑕疵，呈现真实的家庭照片感。
+
+将计算出的年份以简洁的极简主义白色字体放置在左侧。
+
+━━━━━━━━━━━━━━━━━━━━
+底部框架 — 现在
+━━━━━━━━━━━━━━━━━━━━
+
+展示 2026 年的同一个人，保持相同的面部身份和自然的年龄感。
+
+让他们穿着受其公众风格和个性启发的高级时尚服装，同时保持造型优雅、有品位且奢华。
+
+场景：站在美丽的现代咖啡馆外或内，拥有温暖的环境光、电影级虚化效果、高级生活方式编辑摄影风格、放松自信的姿势，营造出奢华而自然的氛围。
+
+显示文字：
+
+2026
+
+在左侧使用相同的极简主义白色字体。
+
+━━━━━━━━━━━━━━━━━━━━
+风格
+━━━━━━━━━━━━━━━━━━━━
+
+超写实
+
+照片级真实感
+
+完美的面部身份保留
+
+准确的年龄回溯
+
+自然的衰老一致性
+
+电影级灯光
+
+Sony A7R V
+
+85mm 人像镜头
+
+f/1.8
+
+HDR
+
+真实的色彩
+
+高级编辑摄影
+
+自然的皮肤纹理
+
+真实的毛孔
+
+细微的胶片颗粒
+
+奶油般虚化效果
+
+浅景深
+
+奢华的调色
+
+博物馆级写实度
+
+极其精细
+
+8K
+
+杰作
+
+━━━━━━━━━━━━━━━━━━━━
+负面提示词
+━━━━━━━━━━━━━━━━━━━━
+
+身份改变、不同的脸、不同的人、错误的年龄演变、错误的面部比例、动漫、卡通、CGI、绘画、插图、玩偶脸、塑料皮肤、AI 感面部、不真实的儿童、畸形的解剖结构、模糊、低质量、多余的手指、多余的肢体、重复的身体部位、水印、Logo、标题、字幕、过度饱和的色彩、伪影、错误的年份、文字错误、面部裁剪、扭曲的手部
+
+[English]
+Use the uploaded reference photo ONLY for facial identity. Preserve the exact facial structure, facial proportions, eye shape, eyebrows, nose, lips, jawline, ears, skin tone, hairstyle characteristics, and overall identity with extremely high accuracy. Do not beautify, stylize, or change the person's face. The child version must unmistakably look like the same person at approximately 6 years old—not a different child.\n\nCreate a premium "THEN vs NOW" two-frame vertical collage in a 4:5 aspect ratio.\n\n━━━━━━━━━━━━━━━━━━━━\nTOP FRAME — CHILDHOOD\n━━━━━━━━━━━━━━━━━━━━\n\nTransform the reference person into an adorable 6-year-old child while maintaining identical facial identity.\n\nDisplay ONLY the year when the person was approximately 6 years old (NOT the birth year).\n\nExamples:\n• Born 1989 → 1995\n• Born 1996 → 2002\n• Born 2002 → 2008\n\nThe child wears a beautiful pastel outfit that matches the person's style (cute dress for women, stylish casual outfit for men) with soft harmonious colours.\n\nScene: Sitting beside a large sunlit window inside a warm, cozy home. Golden afternoon sunlight fills the room. Soft pillows, teddy bears, books, flowers or tasteful décor create a nostalgic childhood atmosphere.\n\nNatural smile, sparkling eyes, innocent expression, authentic proportions, realistic hands, natural skin texture, subtle imperfections, genuine family-photo feeling.\n\nPlace the calculated year in a clean minimalist white font on the left side.\n\n━━━━━━━━━━━━━━━━━━━━\nBOTTOM FRAME — PRESENT\n━━━━━━━━━━━━━━━━━━━━\n\nDisplay the same person in 2026 with identical facial identity and natural age.\n\nDress them in a premium fashionable outfit inspired by their public style and personality while keeping the look elegant, tasteful and luxurious.\n\nScene: Standing outside or inside a beautiful modern café with warm ambient lighting, cinematic bokeh, premium lifestyle editorial photography, relaxed confident pose, luxurious yet natural atmosphere.\n\nDisplay the text:\n\n2026\n\nusing the same minimalist white font on the left side.\n\n━━━━━━━━━━━━━━━━━━━━\nSTYLE\n━━━━━━━━━━━━━━━━━━━━\n\nUltra-realistic\n\nPhotorealistic\n\nPerfect facial identity preservation\n\nAccurate age regression\n\nNatural ageing consistency\n\nCinematic lighting\n\nSony A7R V\n\n85mm portrait lens\n\nf/1.8\n\nHDR\n\nTrue-to-life colours\n\nPremium editorial photography\n\nNatural skin texture\n\nAuthentic pores\n\nSubtle film grain\n\nCreamy bokeh\n\nShallow depth of field\n\nLuxury colour grading\n\nMuseum-quality realism\n\nExtremely detailed\n\n8K\n\nMasterpiece\n\n━━━━━━━━━━━━━━━━━━━━\nNEGATIVE PROMPT\n━━━━━━━━━━━━━━━━━━━━\n\nidentity change, different face, different person, incorrect age progression, wrong facial proportions, anime, cartoon, CGI, painting, illustration, doll face, plastic skin, AI-looking face, unrealistic child, deformed anatomy, blurry, low quality, extra fingers, extra limbs, duplicate body parts, watermark, logo, captions, subtitles, oversaturated colours, artifacts, incorrect year, text errors, cropped face, distorted hands
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2081750256862007764) | 2026-07-27
+
+---
+
+### 🔧 例 5162：人文主义无衬线字体设计
+
+![人文主义无衬线字体设计](../images/%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E6%97%A0%E8%A1%AC%E7%BA%BF%E5%AD%97%E4%BD%93%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+这是一款字面偏宽、重心略低、字腔开放的无衬线体，骨架以人文主义结构为主，整体紧凑但不拥挤。笔画低对比，横画略细于竖画，曲线外侧饱满、内侧收紧，转角采用小半径圆角，末端多为轻微斜切。字距偏紧但内部留白充足，重复部件保持相同曲率，其中小写 a、e、数字 2 和大写 R 是核心辨识字符，粗体通过扩展笔画内侧而非压缩字腔来增加重量。
+——
+字体文字：{argument name="字体文字" default="上海自来水来自海上"}
+比例：{argument name="比例" default="16:9"}
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2081617335375540360) | 2026-07-27
+
+---
+

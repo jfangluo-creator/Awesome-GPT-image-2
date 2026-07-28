@@ -23249,3 +23249,195 @@ Hand-drawn travel journal illustration in a refined ink-and-watercolor sketch st
 
 ---
 
+### 🎴 例 5122：Dryad RPG 游戏卡牌
+
+![Dryad RPG 游戏卡牌](../images/Dryad%20RPG%20%E6%B8%B8%E6%88%8F%E5%8D%A1%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张超精细的奇幻 RPG 游戏卡牌肖像，主角为名为 {argument name="character name" default="Kris"} 的森林守护者树精，设计风格参考高级收藏类游戏卡牌。
+
+画布：竖版交易卡格式，比例约为 4:5，采用暗黑奇幻色调，辅以发光的绿金色森林光效。卡牌四周使用由黑青铜、藤蔓、苔藓、叶片和花朵组成的华丽装饰边框。
+
+主体肖像：画面中心为一位半身像女性树精术士，身处魔法树林中。她拥有树皮质感的橄榄绿色皮肤，带有开裂的木纹，双眼闪烁绿光，表情沉稳严肃；长发如纠缠的棕色藤蔓，编织着叶片与粉色花朵，额头戴着花冠。她身穿由根系、树皮板、叶片和带刺有机细节编织而成的复杂藤蔓盔甲。背景为茂密的魔法森林，伴有阳光、薄雾、深绿色调和金色背光。
+
+边框与 UI 布局：卡牌边框精致且对称，由扭曲的树枝、常春藤、苔藓、深色金属花丝和粉紫色花朵构成。顶部添加三个圆形徽章：左侧圆圈显示“LVL”及下方的“45”；中间小圆圈包含一个发光的绿色叶片标志；右侧圆圈包含一个较大的绿色叶片图标。下角添加大型花簇，两侧边框攀附着较小的花朵。
+
+文字内容：角色名称 {argument name="character name" default="Kris"} 应以醒目优雅的衬线字体显示在下方中心位置。其下方显示职业名称 {argument name="class title" default="WARLOCK"}，使用带有小型叶片装饰的绿色大写字母，字间距适中。再下方添加副标题“Dryad • Guardian of the Grove”。最底部包含背景引言：“✦ Rooted in silence. I rise. ✦”。
+
+属性：左侧显示 6 行属性，配有小型彩色奇幻图标和标签：STR 38、INT 92、WIS 87、DEX 64、CON 76，如有需要，可在 CON 行额外添加一个蓝色体质类图标。右侧显示 5 行资源/防御数据，配有图标和数值：HP 1,140、MP 920、DEF 412、RES 489、SPD 72。
+
+技能：在下方中部堆叠显示 4 张技能卡，每张卡左侧带有发光的方形图标、标题及简短描述：1) “Grove Ward” — “召唤藤蔓保护盟友。” 2) “Nature’s Grasp” — “用古老的根系缠绕敌人。” 3) “Verdant Renewal” — “持续治疗并净化盟友。” 4) “Sporebloom” — “释放有毒孢子削弱敌人。”
+
+视觉风格：超精细写实绘画风，电影级奇幻插画，锐利华丽的 UI，浮雕金属边框，发光的绿色魔法点缀，植物哥特设计，高对比度，戏剧性的轮廓光，树皮、藤蔓、叶片、花朵、苔藓和陈旧金属的逼真质感。避免使用现代科幻元素、扁平卡通风格以及多余的乱码文字。
+
+[English]
+Goal: Create a hyper-detailed fantasy RPG game card portrait of a dryad forest guardian named {argument name="character name" default="Kris"}, designed like a premium collectible game card.
+
+Canvas: Vertical trading-card format, roughly 4:5 ratio, dark fantasy color grading with luminous green-gold forest light. Use a richly ornamented blackened bronze, vine, moss, leaf, and flower frame around the entire card.
+
+Main portrait: Center a female dryad warlock from the waist up in an enchanted grove. She has bark-textured olive-green skin with cracked wood patterns, glowing green eyes, serious calm expression, long tangled brown vine-like hair with leaves and pink flowers woven through it, and a crown of blossoms across her forehead. She wears intricate vine-woven armor made of roots, bark plates, leaves, and thorny organic details. Background is a dense magical forest with sunbeams, mist, deep greens, and golden backlight.
+
+Frame and UI layout: The card border is elaborate and symmetrical, made from twisted branches, ivy, moss, dark metal filigree, and pink-purple flowers. Add three circular top emblems: left circle shows “LVL” above “45”; center small circle contains a glowing green leaf insignia; right circle contains a larger green leaf icon. Add large flower clusters at the lower corners and smaller flowers climbing both side borders.
+
+Text content: The character name should read {argument name="character name" default="Kris"} in large elegant serif lettering near the lower center. Under it, show the class title {argument name="class title" default="WARLOCK"} in spaced green capital letters with small leaf ornaments. Beneath that, add the subtitle “Dryad • Guardian of the Grove”. At the very bottom, include the flavor quote “✦ Rooted in silence. I rise. ✦”.
+
+Stats: Show exactly 6 left-side attribute rows with small colored fantasy icons and labels: STR 38, INT 92, WIS 87, DEX 64, CON 76, and one additional blue constitution-style icon if needed only as part of the CON row. Show exactly 5 right-side resource/defense rows with icons and values: HP 1,140, MP 920, DEF 412, RES 489, and SPD 72.
+
+Abilities: Show exactly 4 ability cards stacked in the lower middle, each with a glowing square icon on the left, title, and short description: 1) “Grove Ward” — “Summon vines to shield allies.” 2) “Nature’s Grasp” — “Entangle enemies with ancient roots.” 3) “Verdant Renewal” — “Heal and cleanse allies over time.” 4) “Sporebloom” — “Release toxic spores to weaken foes.”
+
+Visual style: Ultra-detailed painterly realism, cinematic fantasy illustration, sharp ornate UI, embossed metallic borders, glowing green magical accents, botanical gothic design, high contrast, dramatic rim light, realistic textures of bark, vines, leaves, flowers, moss, and aged metal. Avoid modern sci-fi elements, flat cartoon style, and extra unreadable text.
+```
+
+**来源：** [@Kris Kashtanova](https://x.com/icreatelife/status/2081787071102910970) | 2026-07-27
+
+---
+
+### 🎴 例 5133：未来感载具明信片排版
+
+![未来感载具明信片排版](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E8%BD%BD%E5%85%B7%E6%98%8E%E4%BF%A1%E7%89%87%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+把{argument name="交通工具" default="战斗机、火箭、兰博基尼和高铁"}塞进一张{argument name="载体" default="明信片"}里
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2081732669722001608) | 2026-07-27
+
+---
+
+### 🎴 例 5150：东方美学敦煌丝绸壁纸
+
+![东方美学敦煌丝绸壁纸](../images/%E4%B8%9C%E6%96%B9%E7%BE%8E%E5%AD%A6%E6%95%A6%E7%85%8C%E4%B8%9D%E7%BB%B8%E5%A3%81%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+{argument name="比例" default="9:16"} 竖版，{argument name="风格" default="新中式东方美学极简插画"}，敦煌壁画与现代国潮视觉融合，东方古典丝路意境海报。画面以高饱和{argument name="背景颜色" default="朱砂红"}、赤红渐变背景为主，上半部与左侧保留大面积纯净留白，下方是一片暖白色、象牙白的空旷地面，远处仅有若隐若现的淡灰水墨山丘和轻雾，空间安静辽阔。画面右上方垂落一组巨大、轻盈、飘逸的透明丝绸与薄纱，丝带从画面顶部延伸而下，在空中形成优雅的 S 形曲线和多层交叠的旋转结构。纱幔材质晶莹剔透，具有琉璃、欧根纱、珍珠薄膜般的半透明质感，边缘柔软发光，表面出现淡粉、月白、浅金、青绿、虹彩色的细腻折射，高光通透，层次丰富，像被风吹动的天女飘带。部分丝带内部镶嵌精美的敦煌纹样与传统织锦纹样，包括青绿色缠枝花卉、宝相花、祥云、莲花、朱红牡丹、鎏金描边和复古矿物色纹饰。纹样以石青、石绿、朱砂、鎏金、米黄为主，与透明纱幔相互穿插，既有古典壁画装饰性，又具有现代高级时尚质感。数只黑蓝色燕子围绕丝带上下穿梭飞翔，燕子采用简洁细腻的工笔插画造型，深靛蓝羽毛、白色腹部、朱红色喙部，长尾舒展，飞行动势各不相同，有的迎风上扬，有的向下俯冲，有的沿丝带盘旋，形成富有节奏感的视觉引导。画面左下方靠近地平线的位置，安排一个极小比例的古代白衣旅人骑着白马缓慢前行。人物戴简洁古冠，穿月白色或浅米色长袍，白马配有少量朱红、青蓝色鞍具，人物与马匹造型简洁精致，带有传统工笔画与现代扁平插画结合的感觉。马匹下方留有柔和细长的灰色投影，强调寂静旅途和辽阔空间。整体构图上重下轻、右密左疏，巨大飘带与微小旅人形成强烈尺度对比，大面积负空间，画面具有“风从天外来、孤旅入山河”的诗意叙事。高饱和但不刺眼，色彩清透，红、青绿、月白、鎏金形成鲜明对比。精致东方装饰画，国风艺术海报，敦煌飞天元素，丝路幻想，工笔线描，矿物颜料质感，轻微岩彩颗粒，柔和光晕，细腻描金，高级平面设计，干净背景，画面无文字，无边框，高完成度。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2081670969278750758) | 2026-07-27
+
+---
+
+### 🎴 例 5153：校园足球时尚海报
+
+![校园足球时尚海报](../images/%E6%A0%A1%E5%9B%AD%E8%B6%B3%E7%90%83%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张风格简洁的校园时尚编辑海报，以 {argument name="character name" default="一位年轻东亚女性"} 为主角，在同一个摄影棚构图中呈现同一人物的两种风格化形象。使用 4:5 的竖向画布，背景为清爽的白色，下半部分为深红色的纯色块，如同图形化的地板或背景板。在底部前景放置一个小型的室内足球门，采用黑色管状框架和红色球网，正面视角并带有轻微的景深感。在主体后方使用巨大的蓝色压缩粗体无衬线排版，文字为 {argument name="headline text" default="Next Move"}，将“Next”置于左侧背景，“Move”置于右侧背景，部分被人物遮挡。画面中展示 2 个角色：主人物为全尺寸，坐在足球门上方的横梁中央偏右位置，面向前方，双腿向右下方伸展，一只手放在身旁的黑白足球上，另一只手扶在球门横梁上；较小的人物坐在左下方横梁上，佩戴黑色长方形眼镜，手持 2 根细长的指示棒或指挥棒，展现出一种俏皮的校园社团风格。两个角色均穿着配套的纯黑色校园制服风格服装：短袖翻领衬衫配胸前口袋、黑色领带、黑色细腰带、百褶裙、黑色短袜及亮面黑色乐福鞋。主人物留着 {argument name="hair style" default="深色低发髻，带有柔和的修饰脸型发丝"}，肤色白皙自然，妆容精致，表情沉稳自信。采用红、白、钴蓝配色方案，融入足球元素，使用高调摄影棚布光，焦点清晰，呈现杂志海报级的精修质感，构图俏皮而考究，阴影极少，无额外文字，无水印。
+
+[English]
+Create a clean editorial campus poster on a vertical 3:4 canvas with a white upper background and a solid deep red lower half like a studio floor/wall. Place oversized condensed bold blue typography in the background reading {argument name="headline text" default="Next Move"}, split behind the subjects so “Next” is on the left and “Move” on the right, very tall letters cropped slightly by the composition. In front, show two stylized realistic East Asian young women who look like the same character/person in two sizes, with delicate facial features, pale skin, dark eyes, and messy black hair tied up with loose strands. The main full-size figure sits casually on the top front edge of a small black-framed soccer goal, centered-right, legs extended diagonally down to the lower right, one hand resting on a black-and-white soccer ball and the other on the goal edge, looking directly at the viewer with a calm confident expression. The smaller figure sits on the left side of the goal top, wearing black rectangular glasses, holding two slim dark pointer-like sticks, also looking forward with a slightly serious cute expression. Both wear matching {argument name="outfit color" default="black"} short-sleeve school-uniform-inspired outfits: collared button shirts with chest pockets, black ties, belted pleated mini skirts, black socks, and glossy black loafers. Include exactly 1 soccer ball between the two figures and exactly 1 small soccer goal with a black tubular frame and red net/grid visible across the front and sides. Use a red, white, and royal blue palette with sporty football elements, playful campus magazine styling, crisp studio lighting, high-fashion poster composition, realistic skin and fabric texture, clean shadows, no watermark, no extra text beyond the headline.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2081654767185719501) | 2026-07-27
+
+---
+
+### 🎴 例 5176：剪贴簿风格韩式美食广告
+
+![剪贴簿风格韩式美食广告](../images/%E5%89%AA%E8%B4%B4%E7%B0%BF%E9%A3%8E%E6%A0%BC%E9%9F%A9%E5%BC%8F%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱、时尚的剪贴簿风格韩式美食广告海报，以 {argument name="menu name" default="[菜品名称]"} 为视觉中心，并将价格 {argument name="price" default="[价格]"} 以贴纸或撕纸标签的形式醒目地展示在旁边。如果提供了参考照片，请准确保留食物的形状、配料、颜色、摆盘及整体特征，同时增强光影、质感和真实感，使其看起来更加诱人。如果未提供照片，请根据菜品名称创作出写实版本，不要添加不确定的配料。将食物置于画面中央并放大，展现丰富的诱人细节，如酥脆的质感、多汁的肉质、光亮的酱汁和新鲜的食材。采用温馨的咖啡馆美学与复古剪贴簿拼贴风格，包含撕纸、美纹纸胶带、便签、手绘涂鸦、箭头、星星、爱心、闪光、棋盘格图案以及可爱的食物贴纸。添加 4–6 个与菜品相符的韩语感叹词。所有可见文字，包括菜品名称、价格和装饰性短语，必须仅使用韩语书写。使用暖棕色、奶油色、橙色和绿色调，并辅以微妙的彩色马克笔点缀。最终海报请生成 3:4 的纵向比例，并留出安全边距，确保内容不会被裁剪。
+
+[English]
+Create a cute, trendy scrapbook-style Korean food advertisement poster featuring {argument name="menu name" default="Korean dish"} as the main focus, with the price {argument name="price" default="12,000"} displayed prominently beside it as a sticker or torn paper label. If a reference photo is provided, accurately preserve the food's shape, ingredients, colours, plating, and overall identity while enhancing lighting, texture, and realism to make it look more delicious. If no photo is provided, create a realistic version based on the menu name without adding uncertain ingredients. Place the food large in the centre with rich, appetising details such as crispy textures, juicy meat, glossy sauces, and fresh ingredients. Use a {argument name="aesthetic" default="warm café aesthetic"} with a vintage scrapbook collage style, including torn paper, masking tape, sticky notes, handwritten doodles, arrows, stars, hearts, sparkles, checkerboard patterns, and cute food stickers. Add 4–6 Korean exclamation phrases that match the dish. All visible text, including the menu name, price, and decorative phrases, must be written only in Korean. Use warm brown, cream, orange, and green tones with subtle colourful marker accents, and produce the final poster in a vertical 3:4 aspect ratio with safe margins so nothing is cropped.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2081580288971337797) | 2026-07-27
+
+---
+
+### 🎴 例 5180：双重曝光电影感海报
+
+![双重曝光电影感海报](../images/%E5%8F%8C%E9%87%8D%E6%9B%9D%E5%85%89%E7%94%B5%E5%BD%B1%E6%84%9F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 4K 电影感双重曝光风格的图片编辑海报，主体为 {argument name="subject" default="一位时尚的印度年轻男性"}。前景中，他正自信地走在 {argument name="location" default="昏暗的鹅卵石小巷"} 里，双手插兜，身穿 {argument name="clothing" default="一件酒红色到黑色的渐变牛仔夹克，内搭黑色连帽衫，穿着灰色破洞牛仔裤、凉鞋并佩戴深色墨镜"}。背景中，一张巨大的半透明幽灵感面部特写肖像正向上凝视，表情严肃，与前景平滑融合。3:5 竖屏比例
+
+[English]
+A Image cinematic 4K double-exposure style photo editing poster featuring a {argument name="subject" default="stylish young Indian man"}. In the foreground, he is walking confidently down a {argument name="setting" default="dark cobblestone alleyway"}, hands in his pockets, wearing a {argument name="jacket" default="maroon-to-black gradient denim jacket"} with a black hoodie inside, grey ripped jeans, sandals, and dark sunglasses. In the background, a large ghosted, semi-transparent close-up portrait of his face looking upwards with a serious expression is blended smoothly. 3:5 vartical ratio
+```
+
+**来源：** [@Muhammad Jamil](https://x.com/JamilAI55/status/2081571082415292841) | 2026-07-27
+
+---
+
+### 🎴 例 5184：创意行业杂志封面
+
+![创意行业杂志封面](../images/%E5%88%9B%E6%84%8F%E8%A1%8C%E4%B8%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实创意行业杂志封面，主角是一位才华横溢的 {argument name="subject" default="韩国女性"}，身穿 {argument name="outfit" default="黑色高领毛衣外搭沾满颜料的白色工装裤"}，坐在 MacBook Pro 前，屏幕上显示着正在进行中的 Adobe Photoshop 创意项目，手持触控笔在绘图板上工作，周围环绕着艺术用品和 mood boards。皮肤呈现创意光泽，艺术感妆容带有颜料涂抹点缀，发型为随意的凌乱丸子头。背景：温暖的创意工作室阁楼——砖墙、吊式爱迪生灯泡、墙上钉着的艺术印刷品，浅景深效果。“CREATIVE REVIEW” 刊头采用粗体编辑风格无衬线字体。35mm 镜头，超细节的 MacBook 屏幕光感与工作室质感，8K 照片级真实感。负面提示词：卡通、模糊、屏幕暗淡、水印、变形。
+
+[English]
+Ultra-realistic creative industry magazine cover featuring a talented {argument name="subject" default="Korean woman"} in {argument name="outfit" default="paint-splattered white overalls over a black turtleneck"}, sitting at a MacBook Pro with Adobe Photoshop open on the screen mid-creative project, stylus in hand working on a graphic tablet, surrounded by art supplies and mood boards. Creative glowing skin, artistic makeup with a paint smear accent, hair in a relaxed messy bun. Background: warm creative studio loft – brick walls, pendant Edison bulbs, art prints pinned on walls, shallow depth of field. "CREATIVE REVIEW" masthead in bold editorial sans-serif. 35mm lens, ultra-detailed MacBook screen glow and studio texture, 8K photorealistic. Negative: cartoon, blurry, dark screen, watermark, distorted.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2081551181642649958) | 2026-07-27
+
+---
+
+### 🎴 例 5186：复古北京果树海报
+
+![复古北京果树海报](../images/%E5%A4%8D%E5%8F%A4%E5%8C%97%E4%BA%AC%E6%9E%9C%E6%A0%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张复古中国凸版印刷风格的早安海报，将北京地标建筑与果树构图相结合，呈现出一种复古集市海报转化为旅行问候印刷品的效果。
+
+画布：横向 4:3 海报，温暖的做旧象牙色纸张背景，带有可见的纹理、斑点、油墨磨损和粗糙的丝网印刷质感，色彩略微褪色，非写实风格。
+
+主视觉：一棵风格化的果树占据海报的右侧和中心。深青黑色树干和树枝向斜上方弯曲，结着像苹果或桃子一样的巨大红果。在果实内部，融入 {argument name="landmark" default="北京天坛"} 的建筑细节：圆形的红色屋顶、雕花栏杆、装饰带和寺庙剪影，如同分层印刷般融入果实中。使用朱砂红、深青色、柔和绿、奶油色以及少量暖橙色高光的有限配色方案。
+
+精确计算可见的重复元素：展示 4 个巨大的红色建筑果实：1 个位于上方中心的主果实，包含天坛主屋顶；1 个位于右下中心的大果实，包含屋顶和发光的宝顶；1 个位于中左侧的中型果实，包含栏杆带；以及 1 个在右边缘被裁剪的部分果实。在左下边缘添加 1 个较小的被裁剪的红色部分果实。展示 3 个深海军蓝装饰云纹：1 个靠近左中部的果实，1 个在上部树枝右侧，1 个靠近右下方的果实。展示大量叶片，但需使 9 片叶子清晰可见且突出：2 片靠近顶部中心，3 片在右上树枝上，2 片围绕中右树枝，2 片靠近左下区域。在标题附近添加 1 个红色小太阳图标。
+
+排版：在左侧，放置醒目的堆叠式中文标题，使用做旧的红色大号粗体字，内容为 {argument name="Chinese headline" default="早安\n北京"}。在标题下方，放置小号英文文本 "GOOD MORNING"、一条细红分割线以及日期 {argument name="date" default="2026-07-27"}。在下方添加三个红色菱形标记。在最左侧下边缘，放置竖排中文文本 {argument name="vertical quote" default="把今天过成发光的一天。"}，后接一条极简红色竖线和小圆点装饰。
+
+右侧文本：沿右上边缘，添加竖排英文文本 {argument name="right margin label" default="TEMPLE OF HEAVEN"}，上方有一个微小的红色圆形印章，下方有三个红色菱形标记。沿右下边缘，添加竖排英文文本 "BEIJING" 以及一个包含汉字 "北京" 的红色小方印。
+
+视觉风格：中国现代复古海报设计，受孔版印刷和木刻版画影响，套色不准，油墨边缘粗糙，半透明叠印，扁平图形，构图大胆，具有 20 世纪 60 年代集市海报的怀旧感，优雅而俏皮。保持字体清晰易读，同时保留做旧的油墨质感。
+
+约束：保留精确计算的物体数量和海报布局，避免添加额外地标，避免照片级真实感，避免光泽渐变，无水印，无二维码，除指定的海报文本外，不得添加任何额外文字。
+
+[English]
+Goal: Create a retro Chinese letterpress-style morning poster combining Beijing landmark architecture with a fruit-tree composition, like a vintage market poster transformed into a travel greeting print.
+
+Canvas: Horizontal 4:3 poster, warm aged ivory paper background with visible grain, speckles, ink wear, rough screen-print texture, slightly faded colors, no photorealism.
+
+Main visual: A stylized fruit tree fills the right and center of the poster. The dark teal-black trunk and branches curve upward diagonally, carrying giant red fruit shaped like apples or peaches. Inside the fruit, integrate architectural details from {argument name="landmark" default="Temple of Heaven, Beijing"}: circular red roofs, carved railings, decorative bands, and temple silhouettes blended into the fruit as if printed in layers. Use a limited palette of vermilion red, dark teal, muted green, cream, and small warm orange highlights.
+
+Count the visible repeated elements exactly: show 4 large red architectural fruits: 1 dominant fruit at upper center containing the main Temple of Heaven roof, 1 large fruit at lower center-right containing a roof and glowing finial, 1 medium fruit at middle-left containing a railing band, and 1 partial fruit cropped on the right edge. Add 1 smaller partial red fruit cropped at the lower-left edge. Show 3 dark navy decorative cloud motifs: 1 near the left-middle fruit, 1 to the right of the upper branches, and 1 near the lower-right fruit. Show many leaves but make 9 leaves clearly visible and prominent: 2 near the top center, 3 on the upper-right branch, 2 around the middle-right branch, and 2 near the lower-left area. Add 1 small red sun icon near the headline.
+
+Layout: On the left, place a bold stacked Chinese headline in large distressed red block characters reading {argument name="Chinese headline" default="早安\n北京"}. Beneath it, place small English text reading "GOOD MORNING", a thin red divider line, and the date {argument name="date" default="2026-07-27"}. Below that, add three small red diamond marks. Along the far left lower margin, place vertical Chinese text reading {argument name="vertical quote" default="把今天过成发光的一天。"} followed by a minimal red vertical line and small circle ornament.
+
+Right-side text: Along the upper-right margin, add vertical English text reading {argument name="right margin label" default="TEMPLE OF HEAVEN"}, with a tiny red circular seal above and three small red diamond marks below. Along the lower-right margin, add vertical English text "BEIJING" and a small red square seal containing Chinese characters "北京".
+
+Visual style: Chinese modern-retro poster design, risograph and woodblock print influence, imperfect registration, rough ink edges, translucent overlays, flat graphic shapes, bold composition, nostalgic 1960s market-poster feeling, elegant but playful. Keep the typography crisp enough to read while retaining distressed ink texture.
+
+Constraints: Preserve the exact counted objects and poster layout, avoid extra landmarks, avoid photographic realism, avoid glossy gradients, no watermark, no QR code, no additional text beyond the specified poster text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2081540058885321012) | 2026-07-27
+
+---
+

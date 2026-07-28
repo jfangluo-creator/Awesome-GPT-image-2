@@ -6711,3 +6711,135 @@ Use the attached face reference image as the ONLY facial identity source. Preser
 
 ---
 
+### 🧍 例 5123：北极冰封产品纪念碑
+
+![北极冰封产品纪念碑](../images/%E5%8C%97%E6%9E%81%E5%86%B0%E5%B0%81%E4%BA%A7%E5%93%81%E7%BA%AA%E5%BF%B5%E7%A2%91.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级 8k 照片，低角度广角透视。一个巨大的参考图像产品 “{argument name="product name" default="Real Badam Shake"}” 像北极纪念碑一样垂直矗立，部分被封在厚厚的蓝色冰雪中。霜层覆盖着纹理表面，标志和边缘处形成冰柱，雪花填满了拉环开口。雪地车和身穿红色派克大衣的科学家突显了比例感。阴天北极日光，HDR，超细节冰封纹理，电影级写实感 --ar 2:3
+
+[English]
+Hyper-realistic cinematic 8k photograph, low-angle wide perspective. A massive reference image product “{argument name="product name" default="Real Badam Shake"}” standing vertically like an arctic monument, partially frozen inside thick blue ice and snow. Frost covering the textured surface, icicles forming along the logo and rim, snow filling the pull-tab opening. Snowcat vehicle and scientists in red parkas emphasize scale. Overcast arctic daylight, HDR, ultra-detailed frozen textures, cinematic realism --ar 2:3
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2081785528970551519) | 2026-07-27
+
+---
+
+### 🧍 例 5174：通用 AI 角色设定图生成器
+
+![通用 AI 角色设定图生成器](../images/%E9%80%9A%E7%94%A8%20AI%20%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+【入力項目】
+服装タイプ：［{argument name="服装スタイル" default="ビジネス"} / デート向ききれいめ］
+配色方向：［{argument name="指定色" default="ネイビー"} / 赤］
+未入力の場合は「ビジネス」「ネイビー」とする。
+
+【使用参照】
+本指示書と同時に添付された全身参照画像1枚。
+
+【本文】
+添付された全身参照画像1枚を唯一の人物参照として使用し、1:1スクエアの高品質な実写キャラクターシートを1枚作成する。参照画像が実写の場合は同一人物として維持する。人物イラストの場合は、人物特徴を維持した自然な実写人物へ変換する。参照人物の顔立ち、髪型、髪色、年齢感、肌色、性別印象、身長感、頭身、体型、全身比率を維持する。美化、若返り、老化、体型変更、別人化を行わない。変更するのは原則として衣装と靴のみとする。
+
+【服装】
+指定された服装タイプを、参照人物の性別、年齢感、体型に自然に合わせる。
+・ビジネス  
+現代的で清潔感のあるビジネススタイル。ジャケットを含む、整った実用的な外出着とする。
+・デート向ききれいめ  
+レストランや街中でのデートに適した、上品で華やかさのある外出着とする。全身の形が見やすい衣装とし、制服、過度な礼装、長すぎる裾、大きな装飾、複雑な重ね着、ブランドロゴを避ける。
+
+【配色】
+指定色を衣装の主色または中心色として使用する。白、アイボリー、グレー、黒などを補助色として少数加えてよいが、多色化しない。
+・ネイビー：深いネイビーを中心とする  
+・赤：深い赤、ボルドー、ワインレッドを中心とする
+
+【全体レイアウト】
+全体を上段約58％、下段約42％の2段構成とする。  基本の配置、順番、比率を変更しない。
+
+【上段：約58％】
+01 FRONT：22％  
+02 SIDE：22％  
+03 BACK：22％  
+04 SPECIAL LOOK：34％
+01〜03は、頭頂部から足先まで完全に入った同倍率の全身表示とする。身長感、頭身、体型、衣装、靴、カメラ距離を統一し、自然な直立姿勢で、腕や手により体型や衣装を隠さない。
+・01 FRONT：正面全身  
+・02 SIDE：真横からの側面全身  
+・03 BACK：背面全身
+
+【04 SPECIAL LOOK】
+01〜03と同一人物、同一衣装による、大きめの全身3/4ビュー。人物の魅力が最も伝わる、軽く動きのある静止ポーズと自然な表情を使用する。04の背後にのみ、指定色を薄く使用した単純な平面色または控えめな幾何学的色面を置いてよい。
+
+【下段：約42％】
+左62％を05 FACE、右38％を06 BUILDING REFERENCEとする。
+
+【05 FACE】
+正面、斜め3/4、側面の顔3点を、同じ大きさ、同じカメラ距離、同じ頭の位置で横一列に配置する。3点とも自然な通常表情とし、顔立ち、目元、輪郭、前髪、髪型、年齢感を確認しやすくする。
+
+【06 BUILDING REFERENCE】
+06領域全体を、建物正面、入口、屋外広場の構造を一つの構図で確認できる、広角の外観画像1点として使用する。服装タイプと配色方向は06へ反映しない。人物の衣装色、04のテーマカラー、シート全体の差し色からも影響を受けない、中立的な建物参照とする。明るい昼の均一な自然光のもと、広い屋外広場から見た、清潔で現代的な建物正面と自動ガラス入口を描く。夜景、夕景、暖色照明、ライトアップ、強い色調演出、ホテル、レストラン、オフィスなど特定用途を強く連想させる演出は加えない。06内部も分割せず、単一画面・単一視点の1枚として構成する。コラージュ、複数ビュー、上下分割、別角度の併記を行わない。一つの連続した外壁、一つの地上階、一つの連続した地面、一つの建物正面、一か所の明確な入口で構成する。自動ガラス入口は、左右スライド式または回転式のどちらか一方を明確に描き、異なる入口構造を混在させない。
+06領域の下部約30〜40％を連続した屋外広場、上部約60〜70％を建物正面とする。入口は中央下部の1か所だけに配置し、入口幅は06領域全体の約20〜30％を目安とする。入口へ向かう直線的な動線が分かり、建物、地面、入口の比率が自然に見える広角構図とする。入口だけの近接表示、入口が判別できない遠すぎる全景、複数の入口、上下に重複した建物正面、二重の地面、複雑な階段やテラス、人物、車、看板を入れない。
+
+【見出し】
+以下の短い英語表記のみを使用する。
+01 FRONT  
+02 SIDE  
+03 BACK  
+04 SPECIAL LOOK  
+05 FACE  
+06 BUILDING REFERENCE
+各見出しは対応領域の左上に、小さく統一した書体で配置し、人物や建物の重要部分へ重ねない。見出しと細い区切り線には、指定色を控えめに使用してよい。
+
+【共通デザイン】
+06 BUILDING REFERENCEを除くシート背景は、白からごく薄いグレーとする。人物と各領域が重ならない十分な余白を確保し、画像単体で共有できる、整理された洗練されたデザインにする。人物表示は、指定した全身4点と顔3点だけとし、すべてを参照画像と同一人物、同一衣装として維持する。太い枠、過度な装飾、長い説明文、台詞、字幕、ロゴ、ブランド名、透かしを入れない。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2081581961081246064) | 2026-07-27
+
+---
+
+### 🧍 例 5178：奢华时尚美妆人像大片
+
+![奢华时尚美妆人像大片](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E7%BE%8E%E5%A6%86%E4%BA%BA%E5%83%8F%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的参考图作为严格的面部身份参考。必须完全保留参考图中女孩的面部特征。不得更改其面部结构、面部比例、眼型、鼻型、唇形、下颌线、肤色、表情或任何标志性的面部特征。她必须与参考图中的人物完全一致，一眼即可辨认。除非下方明确要求更改，否则请保持其发型、发色及整体面部特征不变。
+
+创作一张与参考图中女孩完全一致的超写实美妆特写人像。她留着 {argument name="hair style" default="飘逸顺滑的黑色长发"}，发丝优雅地衬托着脸庞，她微微躲在肩后，姿态自然且优雅。她正与镜头进行强烈的眼神交流，传达出一种沉静的自信与精致感。她的妆容精致且具有时尚大片质感，包括与参考图一致的柔和眉形、细致的猫眼眼线、自然纤长的睫毛、精致的柔粉色腮红、带有真实毛孔且光泽感十足的透亮肌肤，以及自然润泽的唇妆。她身着简约服装，带有 {argument name="clothing detail" default="细肩带"} 设计，以确保视觉焦点集中在面部。光影柔和且富有电影感，色调温暖，背景深邃且充满氛围感，并带有浅景深效果。采用 85mm 镜头拍摄，呈现高端时尚摄影质感，具备超写实的皮肤纹理、细腻的胶片颗粒感、卓越的面部细节，以及 8K 分辨率下的正统奢华美妆广告大片美学。
+
+[English]
+Use the uploaded reference image as the strict identity reference. Preserve the {argument name="subject" default="girl"}’s facial identity exactly as shown in the reference image. Do not alter her facial structure, facial proportions, eye shape, nose, lips, jawline, skin tone, expression, or any defining facial features. She must be instantly recognizable as the same person from the reference. Keep her {argument name="hairstyle" default="long, sleek black hair"}, hair color, and overall facial characteristics consistent with the reference unless explicitly changed below.
+
+Create an ultra-realistic close-up beauty portrait of the same girl from the reference. She has long, sleek black hair gracefully framing her face while she partially hides behind her shoulder, creating a natural, elegant pose. She makes intense eye contact with the camera, conveying quiet confidence and sophistication. Her makeup is refined and editorial, featuring softly defined brows matching the reference, subtle winged eyeliner, naturally long eyelashes, delicate soft pink blush, luminous glowing skin with realistic pores, and naturally glossy lips. She wears a minimal outfit with a thin shoulder strap to keep the focus on her face. The lighting is soft and cinematic with warm tones, set against a dark, moody background with a shallow depth of field. Captured as {argument name="style aesthetic" default="high-end editorial fashion photography"} using an 85mm lens, featuring ultra-realistic skin texture, subtle film grain, exceptional facial detail, and an authentic luxury beauty campaign aesthetic in 8K resolution.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2081574705631515085) | 2026-07-27
+
+---
+
+### 🧍 例 5187：高级时尚角色概念设计图
+
+![高级时尚角色概念设计图](../images/%E9%AB%98%E7%BA%A7%E6%97%B6%E5%B0%9A%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质的、{argument name="fashion style" default="现代高级时尚"} {argument name="subject" default="角色概念设计图"}，采用 16:9 宽屏布局，背景为纯白色。所附参考图像定义了艺术风格——请将其视为严格的风格准则，并复刻其精确的渲染效果。
+
+[English]
+Create a premium, {argument name="fashion style" default="modern high-fashion"} {argument name="subject" default="CHARACTER CONCEPT ART SHEET"} in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2081539247505576318) | 2026-07-27
+
+---
+

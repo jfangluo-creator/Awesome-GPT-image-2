@@ -7731,3 +7731,121 @@ Using the provided reference image, redraw it as a polished exaggerated editoria
 
 ---
 
+### 🎬 例 5140：混乱风格动漫女高中生粉丝拼贴画
+
+![混乱风格动漫女高中生粉丝拼贴画](../images/%E6%B7%B7%E4%B9%B1%E9%A3%8E%E6%A0%BC%E5%8A%A8%E6%BC%AB%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E7%B2%89%E4%B8%9D%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张紧凑的漫画/动漫同人拼贴画，旨在赞美一位表情丰富的女高中生偶像角色，呈现出一种混乱的“终极本命角色”速写页效果，填满涂鸦、反应、手写赞美、爱心和夸张的御宅族能量。
+
+画布：1:1 正方形构图，亮白色纸张背景，黑色墨水线条，凌乱的手绘漫画布局，无边框。使用充满活力的蓝黑色马克笔阴影和水彩般的腮红。整张画布应显得充实且易读，仿佛画在充满热情的粉丝笔记本上。
+
+主角：一位可爱的日本动漫女高中生，名为 {argument name="character name" default="终极本命女孩"}，高中生年纪，深海军蓝波波头，发梢带有鲜艳的电光蓝挑染，齐刘海，皮肤白皙，巨大的闪亮蓝色眼睛带有星光高光，脸颊红润，佩戴小耳环，涂着蓝色指甲油，身穿水手服风格校服，包括白色衬衫、海军蓝领口、蓝色领带、海军蓝百褶裙、黑色过膝袜和运动鞋。她的性格应表现得极其可爱、自信、混乱且备受喜爱。
+
+布局与角色数量：在拼贴画中包含 12 个该角色的形象：1 个左上角的大型肖像，微笑并用一根手指轻触嘴唇，前景有剪刀手；1 个上部中心的小型全身姿势，奔跑或跳跃时比出爱心；1 个右上角的小型 Q 版啦啦队长，挥舞黄色啦啦球大喊“NO!”；1 个右上角的大型局部特写，聚焦于泪光闪闪的眼睛和红润的脸颊；1 个中央的全身动态姿势，张开双臂向观众冲来，嘴巴微笑，裙子和头发处于运动状态；1 个左侧中部的小型全身姿势，双臂张开跳跃；1 个中下部微小的 Q 版形象，哭泣着手持粉色花朵或爱心；1 个右侧附近微小的带翼 Q 版形象，长着小天使翅膀；1 个右侧中部的小型 Q 版啦啦队长，挥舞啦啦球大喊“NO!”；1 个中下部的小型 Q 版啦啦队长，挥舞啦啦球大喊“NO!”；1 个左下角的大型肖像，大笑并露出虎牙，对着镜头比剪刀手；1 个右下角的大型肖像，张嘴大笑/哭泣，带有强烈的腮红、汗珠和闪亮的眼睛。
+
+面部细节：使大特写在情感上更具张力：光泽感十足的星光蓝虹膜，眼角的泪水，横跨脸颊和鼻梁的浓重腮红排线，兴奋的张嘴微笑，适当添加少许口水或汗珠，以及富有表现力的漫画线条。保持基调为深情和喜剧感，而非阴郁。
+
+手写文字与涂鸦：用黑色手写日文粉丝短语和小标记填满留白处。包含以下可见短语：「最高!」并附带“(MAXIMUM)”，「大好き!」，「尊い…」，「神!!!」，「愛している…」，「もっと描く!」，「神ポーズ! 愛してる!」，「彼女が一番!」，「限界かっ!!!」，「たまらなくかわいい…」，以及在 Q 版啦啦队长附近的多个“NO!”感叹词。添加 9 个粉色爱心涂鸦、3 个小星星涂鸦、2 个带有省略号的对话气泡，以及若干速度线、汗珠、惊叹号和涂鸦式的强调笔触。
+
+视觉风格：高细节现代动漫插画，粗犷且充满热情的速写本风格，干净的白色背景，粗细结合的黑色墨水轮廓，蓝色马克笔阴影，热粉色腮红，黄色啦啦球，富有表现力的 Q 版变形与精致特写面部相结合。画面应呈现出由高水平漫画家创作的沉浸式粉丝角色页的感觉。
+
+约束：禁止写实摄影，禁止 3D 渲染，禁止整洁的企业风布局，禁止空白背景，除重复的同一角色外禁止出现额外角色。保持拼贴画的混乱感、可爱感和信息密度，同时保留 12 个角色形象和指定的各种手写短语。
+
+[English]
+Goal: Create a dense manga/anime fan-art collage sheet celebrating an expressive schoolgirl idol character, like a chaotic “ultimate favorite character” sketch page filled with doodles, reactions, handwritten praise, hearts, and exaggerated otaku energy.
+
+Canvas: Square 1:1 composition, bright white paper background, black ink sketch lines, messy hand-drawn manga layout with no panel borders. Use energetic blue-black marker shading and watercolor-like blush. The whole canvas should feel packed but readable, as if drawn in a passionate fan notebook.
+
+Main character: A cute Japanese anime schoolgirl named {argument name="character name" default="the ultimate favorite girl"}, around high-school age, short navy-black bob hair with vivid electric-blue highlights at the ends, straight bangs, pale skin, huge sparkling blue eyes with starry highlights, very rosy cheeks, small earrings, blue nail polish, and a sailor-style school uniform with a white blouse, navy collar, blue necktie, pleated navy skirt, black knee socks, and sneakers. Her personality should read as extremely cute, confident, chaotic, and beloved.
+
+Layout and counted character depictions: Include exactly 12 visible depictions of the same girl across the collage: 1 large upper-left portrait smiling with one finger near her lips and a peace-sign hand in the foreground; 1 small upper-center full-body pose throwing a heart while running or jumping; 1 small upper-right chibi cheerleader shouting “NO!” with yellow pom-poms; 1 large cropped upper-right close-up focused on tearful sparkling eyes and flushed cheeks; 1 central full-body dynamic pose lunging toward the viewer with arms open, mouth smiling, skirt and hair in motion; 1 small mid-left full-body pose jumping with both arms open; 1 tiny mid-lower chibi crying while holding a pink flower or heart; 1 tiny winged chibi flying near the right side with little angel wings; 1 small mid-right chibi cheerleader shouting “NO!” with pom-poms; 1 small lower-mid chibi cheerleader shouting “NO!” with pom-poms; 1 large lower-left portrait laughing with fang-like teeth and making a peace sign close to the camera; 1 large lower-right portrait laughing/crying with an open mouth, intense blush, sweat drops, and sparkling eyes.
+
+Facial detail: Make the big close-ups emotionally intense: glossy star-filled blue irises, tears at the eye corners, heavy blush hatching across the cheeks and nose, excited open smiles, a little drool or sweat where appropriate, and expressive manga linework. Keep the tone affectionate and comedic rather than dark.
+
+Handwritten text and doodles: Fill the negative space with black handwritten Japanese fan phrases and small marks. Include these visible phrases: 「最高!」 with “(MAXIMUM)” beside it, 「大好き!」, 「尊い…」, 「神!!!」, 「愛している…」, 「もっと描く!」, 「神ポーズ! 愛してる!」, 「彼女が一番!」, 「限界かっ!!!」, 「たまらなくかわいい…」, plus multiple “NO!” exclamations near the chibi cheerleaders. Add exactly 9 pink heart doodles, 3 small star doodles, 2 speech bubbles with ellipses, and several speed lines, sweat drops, surprise marks, and scribbled emphasis strokes.
+
+Visual style: High-detail modern anime illustration, rough passionate sketchbook energy, clean white background, thick and thin black ink outlines, blue marker shadows, hot pink blush, yellow pom-poms, expressive chibi deformation mixed with polished close-up faces. The drawing should feel like an obsessive fan character sheet made by a highly skilled manga artist.
+
+Constraints: No realistic photography, no 3D render, no clean corporate layout, no empty background, no extra characters other than the repeated same girl. Keep the collage chaotic, cute, and information-dense while preserving exactly 12 character depictions and the specified handwritten phrases.
+```
+
+**来源：** [@Gilvert](https://x.com/Sauer20/status/2081701175720902931) | 2026-07-27
+
+---
+
+### 🎬 例 5142：带有漫画涂鸦影子的 Cosplay 女孩
+
+![带有漫画涂鸦影子的 Cosplay 女孩](../images/%E5%B8%A6%E6%9C%89%E6%BC%AB%E7%94%BB%E6%B6%82%E9%B8%A6%E5%BD%B1%E5%AD%90%E7%9A%84%20Cosplay%20%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在明亮的极简主义房间内创作一张竖构图的照片级逼真时尚 Cosplay 人像：一位留着黑色长双马尾、带有淡淡紫色挑染的年轻女性站在左侧，背靠素净的米白色墙壁，摆出像调皮小猫一样的可爱猫爪姿势。她身穿海军蓝格子哥特洛丽塔风格校园偶像迷你裙，配有荷叶边肩带、多层褶皱裙摆、黑色透明薄纱下摆、胸前饰有大白蝴蝶结，穿着白色过膝袜和厚底黑色玛丽珍鞋；添加小发夹、丝带和精致的项链。在她右侧的墙上，画一个与她本人大小相近、略高于她的真人比例黑色手绘漫画“涂鸦影子”，线条粗犷且充满活力，仿佛直接用墨水画在墙上。草图角色应为夸张的 Q 版动漫风格，拥有双马尾、相配的褶皱格子服装和蝴蝶结，张着嘴、表情又气又可爱、举着猫爪、单腿踢起，并带有动态线条。在草图周围添加 7 个简单的涂鸦装饰：2 颗星星、2 颗爱心、2 朵小云和 1 组感叹号。强烈的对角线阳光和窗框阴影投射在墙壁和浅色木地板上，营造出柔和逼真的时尚大片氛围。保持真实女孩的细节和摄影质感，墙上的画作应为平面的黑色铅笔/墨水线条，草图无颜色、无文字、无水印。使用 {argument name="outfit color" default="navy blue plaid"}、{argument name="hair color" default="long black with subtle purple streaks"}、{argument name="pose" default="cute claw hands"}、{argument name="wall doodle style" default="rough black manga graffiti shadow"} 以及 {argument name="room lighting" default="strong diagonal sunlight with window shadows"}。
+
+[English]
+Create a vertical photorealistic fashion cosplay portrait in a bright minimalist room: a young woman with long black twin-tail hair with subtle purple streaks poses on the left side against a plain off-white wall, doing cute claw hands like a playful cat. She wears a navy blue plaid gothic-lolita school-idol mini dress with frilled shoulder straps, layered ruffle skirt, sheer black tulle hem, a large white bow on the chest, white thigh-high stockings, and chunky black Mary Jane platform shoes; add small hair clips, ribbons, and a delicate necklace. On the wall to her right, draw a large black hand-drawn manga “graffiti shadow” version of the same girl, about life-size and slightly taller than her, in rough energetic sketch lines as if inked directly on the wall. The sketch character should be exaggerated chibi-anime style with twin tails, matching frilly plaid outfit and bow, wild open mouth, angry-cute expression, raised claw hands, one leg kicked up, and dynamic motion marks. Include exactly 7 simple doodle accents around the sketch: 2 stars, 2 hearts, 2 small puff clouds, and 1 exclamation mark cluster. Strong diagonal sunlight and window-frame shadows fall across the wall and pale wood floor, creating a soft realistic editorial photo mood. Keep the real girl detailed and photographic, the wall drawing flat black pencil/ink lines, no color in the sketch, no text, no watermark. Use {argument name="outfit color" default="navy blue plaid"}, {argument name="hair color" default="long black with subtle purple streaks"}, {argument name="pose" default="cute claw hands"}, {argument name="wall doodle style" default="rough black manga graffiti shadow"}, and {argument name="room lighting" default="strong diagonal sunlight with window shadows"}.
+```
+
+**来源：** [@ハチスカ｜なんでもない男](https://x.com/hachisuka_ex/status/2081697143426011313) | 2026-07-27
+
+---
+
+### 🎬 例 5144：少女恐怖漫画走廊页面
+
+![少女恐怖漫画走廊页面](../images/%E5%B0%91%E5%A5%B3%E6%81%90%E6%80%96%E6%BC%AB%E7%94%BB%E8%B5%B0%E5%BB%8A%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张黑白少女恐怖漫画页面，标题为 {argument name="manga title" default="籠目"}，页码为 {argument name="page number" default="1/8"}，改编自日本老式宅邸走廊中的阴森场景。使用细腻的漫画线条、柔和的灰色网点纸、高细节的木纹、浪漫的人物渲染以及令人不安的静谧恐怖氛围。
+
+画布：竖版漫画页面，纵向构图，白色外边距，黑色细边框，标题位于左上角，页码位于右上角。仅限黑白，印刷漫画质感，无色彩。
+
+布局：使用 4 个由粗黑边框分隔的格子。第 1 格占据页面上半部分的整个宽度。第 2 格是下方的一个全宽窄横格。第 3 格是左下角的大型纵向格。第 4 格是右下角的长条形走廊格。
+
+第 1 格：日本老式房屋中深邃的单点透视走廊，左侧的障子窗将矩形格子阴影投射在木地板上。走廊尽头是关闭的推拉门。走廊中央，一个身穿和服和袴的纤细年轻人背对镜头站立，留着长长的浅色头发，编成辫子垂在背后。人物静止不动，面对着关闭的门。添加 2 个竖排叙述框：一个在右上角，一个在左下角。右上角的框内写着竖排日语：“奥の間の襖を引くとき、私はいつも少しだけ息を止める”。左下角的框内写着：“開けた瞬間の空気の温度を、確かめる癖がついてしまった。”
+
+第 2 格：从侧面拍摄的同一个中性美型角色面部和手部的极度特写。潮湿感的浅色头发垂在眼睛上，表情冷静但紧张，戴着耳环。一只手伸向或触碰圆形的推拉门把手。在右侧添加 1 个竖排叙述框，写着：“三月ほどかけて整えた。誰にも言わずに。”
+
+第 3 格：左下角是同一个角色从胸部以上的特写，优雅的少女漫画风格，长长的浅色波浪卷发编成侧辫，一只手若有所思地托着下巴。背景非常黑暗，带有微妙的笼状或六角形铁丝网图案，增加了恐怖象征意义。在左侧添加 1 个白色竖排文本框，上方是大号日语文字：“そう”，下方是较小的文字：“造った。”
+
+第 4 格：右下格展示了透视视角下空荡荡的老式木质走廊和推拉墙，障子窗的光线洒入黑暗中；远处的走廊逐渐隐入黑色。包含 2 个竖排叙述框：一个在右上角附近，写着：“駐屋の書斎と地続きでありながら、”，另一个在左下角，写着：“この部屋にだけ隠れていた本余計に折れている。”
+
+主体细节：角色是一位年轻、苍白、精致的少女漫画主角，留着 {argument name="hair color" default="silver-white"} 的凌乱长发，梳着粗辫子，睫毛细长，戴着小耳环，身穿深色传统日本服装。他们的情绪是安静、隐秘且带有心事，而非明显的恐惧。
+
+视觉风格：高细节黑白漫画，精细的排线，网点纸阴影，写实的建筑透视，古色古香的日本室内设计，障子窗的明亮光线，浪漫的少女漫画五官与恐怖漫画的黑暗感相结合。所有文字均保留在竖排日语漫画叙述框中，清晰易读，不使用对话气泡。
+
+约束条件：使用 4 个格子，总共 6 个文本框。不要添加额外角色、额外格子、现代物品、色彩、音效或水印。
+
+[English]
+Goal: Create a black-and-white shojo horror manga page titled {argument name="manga title" default="籠目"}, page indicator {argument name="page number" default="1/8"}, adapting an eerie scene in an old Japanese mansion corridor. Use delicate manga linework, soft gray screentones, high-detail wood grain, romantic character rendering, and unsettling quiet horror atmosphere.
+
+Canvas: Vertical manga page, portrait orientation, white outer margin, thin black page border, with the title at the top left and page number at the top right. Monochrome only, printed manga texture, no color.
+
+Layout: Use exactly 4 panels separated by thick black gutters. Panel 1 occupies the full width across the top half of the page. Panel 2 is a full-width narrow horizontal panel underneath. Panel 3 is the lower-left large portrait panel. Panel 4 is the lower-right tall corridor panel.
+
+Panel 1: A deep one-point-perspective hallway in an old Japanese house, with shoji windows along the left side casting rectangular lattice shadows across the wooden floor. At the far end are closed sliding doors. Centered in the hallway, seen from behind, stands a slender young person in a kimono and hakama, with long pale hair tied into a braid down the back. The figure is still, facing the closed doors. Add exactly 2 vertical narration boxes: one at the upper right and one at the lower left. The upper-right box says in Japanese vertical text: "奥の間の襖を引くとき、私はいつも少しだけ息を止める". The lower-left box says: "開けた瞬間の空気の温度を、確かめる癖がついてしまった。"
+
+Panel 2: Extreme horizontal close-up from the side of the same androgynous beautiful character’s face and hand. Their damp-looking light hair falls over their eyes, expression calm but tense, wearing an earring. One hand reaches toward or touches a round sliding-door pull. Add exactly 1 vertical narration box on the right saying: "三月ほどかけて整えた。誰にも言わずに。"
+
+Panel 3: Lower-left close portrait of the same character from the chest up, elegant shojo style, long pale wavy hair gathered into a side braid, one hand thoughtfully touching the chin. The background is very dark with a subtle cage-like or hexagonal wire pattern, adding horror symbolism. Add exactly 1 white vertical text box on the left with large Japanese text: "そう" and smaller text below: "造った。"
+
+Panel 4: Lower-right panel showing an empty old wooden corridor and sliding wall in perspective, with shoji light spilling into darkness; the far hallway fades into black. Include exactly 2 vertical narration boxes: one near the upper right saying: "駐屋の書斎と地続きでありながら、" and one lower left saying: "この部屋にだけ隠れていた本余計に折れている。"
+
+Subject details: The character is a youthful, pale, delicate shojo-manga protagonist with {argument name="hair color" default="silver-white"} messy long hair, a thick braid, fine eyelashes, small earrings, and a dark traditional Japanese outfit. Their mood is quiet, secretive, and haunted rather than overtly frightened.
+
+Visual style: Highly detailed monochrome manga, fine pen hatching, screentone shading, realistic architectural perspective, antique Japanese interior, luminous shoji-window lighting, romantic shojo facial features mixed with horror manga darkness. Keep all text in vertical Japanese manga caption boxes, crisp and legible, with no speech balloons.
+
+Constraints: Use exactly 4 panels and exactly 6 text boxes total. Do not add extra characters, extra panels, modern objects, color, sound effects, or watermarks.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2081691878026883157) | 2026-07-27
+
+---
+

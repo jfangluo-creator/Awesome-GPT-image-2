@@ -3503,3 +3503,87 @@ A nostalgic 1980s–1990s {argument name="style" default="Japanese anime cinemat
 
 ---
 
+### 🏛️ 例 5167：阳光花园水管人像
+
+![阳光花园水管人像](../images/%E9%98%B3%E5%85%89%E8%8A%B1%E5%9B%AD%E6%B0%B4%E7%AE%A1%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的阳光户外人像，主角是一位年轻女性，留着 {argument name="hair color" default="浅灰金色波浪肩长发，配有柔和的刘海"}，正拿着水管浇灌花园植物。她站在郁郁葱葱的后花园中，身体微微前倾，对着镜头温柔微笑，身穿宽松的蓝色牛仔背带裤，肩带和侧扣清晰可见，风格休闲，露出双肩和低胸围兜。她双手握着连接黑色软管的黑银色喷头，喷头向下指向左下方，喷出一扇明亮细腻的水雾。背景左侧是茂密的绿色灌木和树木，地面附近摆放着盆栽，右侧是阳光明媚的草坪，远处是虚化的木栅栏和房屋结构。使用来自后上方温暖的自然晨光或午后阳光，在她的头发上形成轮廓光，呈现出明亮的高光、柔和的肤色和闪烁的水雾。构图为 3:4 竖版照片，中景全身照（从头部到大腿上部），浅景深，写实的日系写真风格，35mm 镜头质感，高细节牛仔纹理，自然虚化，氛围轻松自然，无文字，无水印。
+
+[English]
+Create a realistic sunlit outdoor portrait of a young adult woman with {argument name="hair color" default="light ash-blonde wavy shoulder-length hair with soft bangs"} watering garden plants with a hose. She stands in a lush backyard garden, leaning slightly forward and smiling gently toward the camera, wearing loose blue denim overalls with shoulder straps and side buttons, styled casually with visible bare shoulders and a low-cut bib. She holds a black-and-silver spray nozzle attached to a dark garden hose with both hands, angled down toward the lower left, producing a bright fan of fine water droplets. The setting includes dense green shrubs and leafy trees on the left, potted plants near the ground, a sunlit lawn to the right, and a softly blurred wooden fence and house-like structure in the background. Use warm natural morning/afternoon sunlight from behind and above, creating rim light on her hair, glowing highlights, soft skin tones, and sparkling water spray. Compose as a vertical 3:4 photo, medium-full body from head to upper legs, shallow depth of field, realistic Japanese gravure-style garden photography, 35mm lens look, high detail denim texture, natural bokeh, candid relaxed mood, no text, no watermark.
+```
+
+**来源：** [@akinonnon@AI](https://x.com/akinonnon_kan/status/2081600466639872462) | 2026-07-27
+
+---
+
+### 🏛️ 例 5173：写实风格智能手机厨房人像
+
+![写实风格智能手机厨房人像](../images/%E5%86%99%E5%AE%9E%E9%A3%8E%E6%A0%BC%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%8E%A8%E6%88%BF%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 RAW 格式、超写实的智能手机照片，拍摄对象是一位自然地站在现代家居厨房中的年轻 {argument name="ethnicity" default="亚裔"} 女性。她拥有白皙的瓷肌、深棕色的大眼睛、小巧笔挺的鼻子、自然柔和的粉色嘴唇，以及五官精致的鹅蛋脸。她的 {argument name="hair style" default="深棕色头发松散地扎成低马尾"}，柔软稀疏的八字刘海修饰着脸型。她身穿一件修身的浅灰色细肩带短款吊带背心，左手腕戴着一块浅粉色电子运动手表。她一手随意地端着一个装有深色汤的白色陶瓷碗，另一手拿着一把薄荷绿手柄的不锈钢汤勺。她直视镜头，带着温柔放松的微笑，表情平静。厨房背景包括白色瓷砖墙面、整洁的台面、不锈钢抽油烟机以及日常烹饪用具，营造出真实的生活气息。照片仿佛由朋友使用现代智能手机随手抓拍。带有轻微的手持构图感，26mm 等效移动镜头带来的细微透视畸变，自然的室内环境光，柔和的阴影，真实的皮肤纹理，细微的传感器噪点，HDR 处理，自动白平衡，真实的曝光，浅景深计算摄影效果，随意的构图，非摆拍的生活化摄影，不完美的取景，极致写实，RAW 移动相机画质，无美颜滤镜，无 AI 感，无影棚灯光，高细节，8k。
+
+[English]
+A RAW, ultra-realistic smartphone photo of a beautiful young {argument name="ethnicity" default="Asian"} woman standing naturally in a {argument name="setting" default="modern home kitchen"}. She has fair porcelain skin, large dark brown eyes, a small straight nose, naturally soft pink lips, and an oval face with delicate features. Her dark brown hair is loosely tied back in a low ponytail with soft wispy curtain bangs framing her face. She wears a {argument name="outfit" default="fitted heather-gray spaghetti-strap crop camisole"} and a light pink digital sports watch on her left wrist. She casually holds a white ceramic bowl filled with dark soup in one hand and a stainless-steel soup ladle with a mint-green handle in the other. She looks directly into the camera with a gentle, relaxed smile and a calm expression. The kitchen features white tiled walls, a clean countertop, a stainless-steel range hood, and everyday cooking utensils, creating a realistic lived-in environment. Captured as if a friend quickly snapped the photo using a modern smartphone. Slight handheld framing, subtle perspective distortion from a 26mm equivalent mobile lens, natural indoor ambient lighting, soft shadows, realistic skin texture, tiny sensor noise, HDR processing, automatic white balance, authentic exposure, shallow computational depth of field, casual composition, unposed lifestyle photography, imperfect framing, extremely photorealistic, RAW mobile camera quality, no beauty filters, no AI look, no studio lighting, high detail, 8K.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2081582536929747148) | 2026-07-27
+
+---
+
+### 🏛️ 例 5177：绣球花动漫收藏礼盒
+
+![绣球花动漫收藏礼盒](../images/%E7%BB%A3%E7%90%83%E8%8A%B1%E5%8A%A8%E6%BC%AB%E6%94%B6%E8%97%8F%E7%A4%BC%E7%9B%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Nozomu"} 创建一款优雅的动漫风格“首发限量收藏礼盒”产品模型，主题围绕蓝色绣球花、蝴蝶、柔软缎面以及精致的许愿氛围。
+
+画布：方形图像，高分辨率，四分之三俯视产品摄影构图。收藏礼盒呈开启状态，占据画面大部分空间，放置在淡蓝白色的缎面织物上，周围散落着蓝色绣球花、丝带和柔和的闪光虚化效果。光线通透、柔和且明亮，带有细腻的阴影和珍珠般的光泽。
+
+主包装：一个大型淡蓝色与白色相间的铰链式收藏礼盒，配有金属蓝色饰边、半透明光泽边缘以及花卉图案的隔层。内盖展示了精致的标题设计：醒目的日文标题「のぞむ」，下方配有小号罗马拼音“Nozomu”、英文副标题“In the light of a wish”，以及一行简短的日文许愿语句。内盖艺术画周围环绕着蓝色、淡紫色和白色的绣球花簇、小蝴蝶以及精美的装饰边框。在右侧添加一个吊牌，上面写有「限定生産」和“Limited Edition”，并装饰着一只小蝴蝶和精致的金色花丝。
+
+角色艺术：使用柔和、忧郁的动漫少女插画，灵感来源于 {argument name="character vibe" default="一位梦幻般的银发蓝眼少女，发间点缀着绣球花"}。她拥有飘逸的银紫色长发、明亮深邃的蓝色大眼睛、白皙的皮肤、温柔忧郁的表情，身着露肩荷叶边蓝白连衣裙。她的头发和肩部覆盖着蓝色绣球花。以精致的少女漫/动漫周边风格渲染，呈现半透明水彩渐变、光泽高光和复杂的花卉细节。
+
+礼盒内容：在定制隔层中整齐排列 8 件收藏品：左侧 1 个大型亚克力立牌，展示角色侧面，配有标有「のぞむ」和“Nozomu”的铭牌；中央 1 本小册子或艺术卡片堆，印有角色肖像和标题「のぞむ」；右上角 3 张长方形肖像卡或明信片，略微扇形展开，每张均展示相同的绣球花角色艺术，最前方一张标有「のぞむ」；下方中央 2 枚圆形徽章，每枚均印有角色肖像；右下方 1 个亚克力钥匙扣，配有金属环、蓝色透明挂件、蝴蝶图案和「のぞむ」字样；最右下方 1 个透明长方形名片或证书盒，标有「のぞむ」和“Nozomu”。
+
+额外散件：在礼盒前方的缎面织物上放置 2 张独立的感谢/留言卡。左侧卡片带有蓝色蝴蝶结，日文内容以深情的留言开头；右侧卡片以优雅的字体书写“Special Thanks”，下方配有简短的日文文本和蝴蝶图标。两张卡片均带有淡雅的花卉边框和蓝色绣球花角饰。
+
+视觉风格：高端限量版动漫周边摄影，淡蓝与白色调，浪漫的绣球花主题，精致的银金色装饰线条，光泽亚克力表面，透明塑料包装，柔焦效果，梦幻般的景深，细节丰富且整洁。全程使用 {argument name="main color palette" default="粉蓝色、淡紫色、白色和银色"}。
+
+文本内容：保留重要的日文品牌标识「のぞむ」和「限定生産」。为“Nozomu”、“Limited Edition”、“In the light of a wish”和“Special Thanks”等英文短语使用优雅的衬线字体和手写体。确保所有文字装饰性强且清晰易读，避免过于拥挤。
+
+约束条件：产品应看起来虚构但具有商业真实感，如同高端首发收藏礼盒。请勿添加额外角色、超出上述数量的周边商品、水印、Logo、条形码或现代 UI 元素。保持统一的绣球花与蝴蝶主题，以及柔和感性的氛围。
+
+[English]
+Goal: Create a dreamy anime-style product photo of a fictional first-run collector’s box for {argument name="character name" default="Nozomu"}, themed around blue hydrangeas, wishes, and limited-edition stationery goods.
+
+Canvas: Square 4:5-ish close product composition, soft daylight, elegant pastel blue and lavender palette, glossy high-end packaging photographed from a slightly elevated three-quarter angle on white satin fabric. The whole scene should feel like a premium Japanese limited edition collector’s box, romantic, delicate, and sparkling.
+
+Main box: An open rectangular collector’s box in pale periwinkle blue with silver trim and translucent glossy lid interior. The inside lid displays a framed floral design with clusters of blue and purple hydrangeas in the corners and centered Japanese title text 「のぞむ」, small romanization “Nozomu,” the English tagline “In the light of a wish,” and a smaller Japanese wish phrase below. Add tiny butterfly motifs and fine ornamental linework. On the right edge of the lid, include a hanging vertical tag reading 「限定生産」 with “Limited Edition” below and a small butterfly.
+
+Box contents: Show exactly 8 discrete collector items arranged in molded compartments: 1 large acrylic standee of a silver-lavender-haired anime girl surrounded by blue hydrangeas, 1 upright art booklet or card pack with the same character and the title 「のぞむ / Nozomu」, 1 stack of 3 visible rectangular photo cards or prints fanned at the upper right, 1 small plush white floppy-eared mascot with blue eyes, a blue bow tie, and a tiny white flower on its ear, 2 round character badges with matching hydrangea portrait art, 1 blue acrylic keychain with a gold ring and the title 「のぞむ」, and 1 clear rectangular nameplate or card holder with 「のぞむ / Nozomu」 and a butterfly. Keep the count and arrangement clear.
+
+Character art: The illustrated girl should have {argument name="hair color" default="silvery lavender hair"}, blue eyes, soft bangs, long wavy hair decorated with dense blue hydrangea blossoms, and a delicate off-shoulder white-and-blue frilled dress. Her expression is calm, wistful, and slightly turned to the side. Use the same portrait consistently across the standee, booklet, cards, and badges.
+
+Surrounding scene: Around the open box, place scattered hydrangea petals, a translucent blue ribbon with a bow on the lower left, loose premium cards on the satin cloth, and soft bokeh-like floral highlights. Add exactly 2 loose cards outside the box: one lower-left Japanese message card tied visually to a blue bow, and one lower-right “Special Thanks” card with small Japanese text and butterfly decoration.
+
+Text content: Use the main title {argument name="title text" default="のぞむ"} prominently, with small “Nozomu” under it. Include the English phrase {argument name="tagline" default="In the light of a wish"}. Use {argument name="edition label" default="Limited Edition"} on the vertical tag. All typography should be elegant serif and handwritten-calligraphy inspired, dark desaturated blue ink.
+
+Visual style: Highly polished anime merchandise illustration, soft watercolor florals mixed with crisp product rendering, luminous highlights, transparent acrylic edges, pearlescent paper texture, gentle shadows, shallow depth of field, premium collector-box advertisement aesthetic. Avoid modern barcodes, logos, real brands, clutter, or extra items beyond the specified count.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2081577817503088776) | 2026-07-27
+
+---
+

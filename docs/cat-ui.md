@@ -10347,3 +10347,57 @@ Highly detailed food textures, vibrant colors, aesthetic composition, Instagram-
 
 ---
 
+### 🖥️ 例 5121：极简动漫吉他少女
+
+![极简动漫吉他少女](../images/%E6%9E%81%E7%AE%80%E5%8A%A8%E6%BC%AB%E5%90%89%E4%BB%96%E5%B0%91%E5%A5%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简动漫插画，一位时尚的少女坐在复古吉他音箱上，弹奏着一把 {argument name="guitar color" default="珊瑚橙色"} {argument name="guitar model" default="Fender Stratocaster"} 电吉他，戴着超大红色耳机，穿着超大号米色连帽衫、宽松牛仔短裤、堆堆袜和厚底复古运动鞋，佩戴着色彩缤纷的友谊手链，侧身姿势放松，{argument name="hair style" default="黑色长发"} 在微风中轻轻飘动，表情平静沉浸在音乐中，干净的奶油色背景带有细微的磨砂质感，独立摇滚美学，日系街头时尚，舒适的 Lo-fi 氛围，清晰的黑色线条，赛璐珞上色，柔和的粉彩色调搭配温暖的橙色点缀，高度精细的吉他硬件，可见的乐器线缆，构图简洁且留白充足，现代漫画插画，吉卜力工作室 × 新海诚 × lofi girl 灵感，高级动漫海报设计，超干净矢量风格，柔和阴影，构图平衡，高细节，8K，杰作。
+
+[English]
+Minimalist anime illustration of a stylish teenage girl sitting on a vintage guitar amplifier, playing a {argument name="guitar color" default="coral-orange"} {argument name="guitar model" default="Fender Stratocaster"} electric guitar, oversized red headphones, oversized beige hoodie, loose denim shorts, slouchy socks, chunky retro sneakers, colorful friendship bracelets, relaxed side-profile pose, {argument name="hair style" default="long black hair"} gently blowing in the breeze, calm expression lost in music, clean cream-colored background with subtle grunge texture, indie rock aesthetic, Japanese street fashion, cozy lo-fi atmosphere, crisp black line art, cel-shaded coloring, muted pastel palette with warm orange accents, highly detailed guitar hardware, visible instrument cable, simple composition with lots of negative space, modern manga illustration, Studio Ghibli × Makoto Shinkai × lofi girl inspiration, premium anime poster design, ultra-clean vector style, soft shadows, balanced composition, high detail, 8K, masterpiece.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2081789466776322153) | 2026-07-27
+
+---
+
+### 🖥️ 例 5124：荔枝丛中的唐代贵妇水彩画
+
+![荔枝丛中的唐代贵妇水彩画](../images/%E8%8D%94%E6%9E%9D%E4%B8%9B%E4%B8%AD%E7%9A%84%E5%94%90%E4%BB%A3%E8%B4%B5%E5%A6%87%E6%B0%B4%E5%BD%A9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅 16:9 的横向水彩插画，采用精致的中国儿童绘本美学，灵感源自唐代仕女画。展示 {argument name="character name" default="一位优雅的唐代贵妇"} 斜倚在茂盛的荔枝堆上，身体从左中方延伸至右下方。她有着苍白的鹅蛋脸、精致的红唇、柔和的腮红、微闭的细长双眼，神情宁静而梦幻。她梳着乌黑亮丽的高耸双环髻，饰有金色花卉发饰和发簪。她身着飘逸的半透明桃粉色汉服，内搭饰有珊瑚色小花纹的米色长裙，腰间系着绿色腰带，并佩戴着手镯、耳环和项链等精致的金饰。她的左肘慵懒地撑在水果丛中，手托腮边，右手从带叶的枝头摘下一颗红荔枝。周围环绕着茂密的荔枝：画面中应包含三种清晰可见的水果细节，包括许多红润凹凸的完整荔枝、少量浅黄橙色的未熟荔枝，以及几颗剥开外壳露出白色果肉的荔枝。加入绿色的披针形叶片和纤细的棕色枝条穿插其中。背景采用透气的米白色宣纸质感，辅以柔和的米色、淡绿色和淡淡的桃色水彩晕染，右上角留出大面积的空白与宁静空间。画面风格强调细腻的墨线勾勒、透明的层叠晕染、颗粒感的水彩质地、柔和的暖红与桃色调、柔和的边缘以及优雅的手绘构图。无文字，无边框，无现代物品，非写实摄影风格。
+
+[English]
+Create a horizontal 16:9 watercolor illustration in a refined Chinese children’s picture-book aesthetic inspired by Tang dynasty court beauty paintings. Show {argument name="character name" default="an elegant Tang dynasty noblewoman"} reclining diagonally across a lush mound of lychee fruit, her body stretching from the left-center toward the lower right. She has a pale oval face, delicate red lips, soft blush, narrow half-closed eyes, and a calm dreamy expression. Her hair is glossy black, arranged in a tall elaborate double bun with gold floral ornaments and hairpins. She wears a flowing translucent peach-pink hanfu robe over a cream dress with small coral floral patterns, a green sash tied at the waist, and subtle gold jewelry including bracelets, earrings, and a necklace. Her left elbow rests lazily among the fruit with her hand near her cheek, while her right hand lifts one red lychee from a leafy branch. Surround her with a dense abundance of lychees: exactly three visible types of fruit details should be present, including many red bumpy whole lychees, a few pale yellow-orange unripe lychees, and several peeled white lychee interiors with red shells split open. Add green lance-shaped leaves and thin brown branches weaving through the fruit. Use an airy off-white rice-paper background with soft beige, pale green, and faint peach watercolor wash clouds, leaving the upper right mostly open and quiet. Style the image with delicate ink outlines, transparent layered washes, granular watercolor texture, muted warm reds and peaches, soft edges, and elegant hand-painted composition. No text, no border, no modern objects, no photorealism.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2081784908893364713) | 2026-07-27
+
+---
+
+### 🖥️ 例 5181：欢乐快餐店联动场景
+
+![欢乐快餐店联动场景](../images/%E6%AC%A2%E4%B9%90%E5%BF%AB%E9%A4%90%E5%BA%97%E8%81%94%E5%8A%A8%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个欢乐的快餐店动画场景：一名留着山羊胡、拥有 {argument name="hair color" default="黑色头发"} 的男子（请使用上传的照片，不要改变面部或外貌）坐在桌旁，手里拿着一个巨大的 {argument name="food item" default="多汁汉堡"}，身穿黑色 Polo 衫和灰色短裤。在他身旁，{argument name="cartoon character" default="杰瑞鼠"} 开心地站在一盘金黄的炸薯条旁；而汤姆猫则身穿白色厨师制服、戴着高高的厨师帽和鲜红色的领结，靠在柜台上咧嘴大笑。背景中充满了温暖的餐厅灯光、汉堡菜单项目以及明亮的橙色装饰，捕捉到了乐趣、欢笑以及与深受喜爱的卡通角色之间美妙的联动。
+
+[English]
+Create a Joyful animated fast-food restaurant scene: A smiling man with a goatee and {argument name="hair color" default="black hair"} (use uploaded photo don't alter the face or appearance), sits at a table, holding a big {argument name="food item" default="juicy burger"}, wearing a black poloshirt and gray shorts. Beside him, {argument name="cartoon character" default="Jerry the mouse"} stands happily beside a metal tray of golden French fries, while Tom the cat leans over the counter dressed as a chef in a white uniform, tall hat, and bright red bow tie, grinning widely. Warm diner lights, burger menu boards, and bright orange decor fill the background — capturing fun, laughter, and a delightful crossover with beloved cartoon characters.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2081569973814616212) | 2026-07-27
+
+---
+

@@ -12278,3 +12278,139 @@ Create a full-body anime illustration of a {argument name="character archetype" 
 
 ---
 
+### 🏷️ 例 5137：俯瞰城堡小镇的兜帽刺客
+
+![俯瞰城堡小镇的兜帽刺客](../images/%E4%BF%AF%E7%9E%B0%E5%9F%8E%E5%A0%A1%E5%B0%8F%E9%95%87%E7%9A%84%E5%85%9C%E5%B8%BD%E5%88%BA%E5%AE%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅暗黑电影感动漫风格的奇幻插画，画面中 {argument name="character name" default="一名兜帽刺客"} 蹲伏在高处瓦片屋顶的角落，在黄昏时分俯瞰着广阔的封建日式城堡小镇。人物以四分之三侧背影呈现于画面右侧，身披破旧的黑色兜帽斗篷，布条在风中飘动，身上叠穿着皮带、链条、扣环以及深色的忍者风格服装；兜帽下仅露出一只微弱的蓝色发光眼睛。他的姿态低伏且警觉，一膝抬起，一手撑在屋檐边缘，传达出正在观察的神态。他身旁的屋顶上整齐地并排放置着 2 把带鞘武士刀，刀鞘均为黑色，配有金属配件，刀身或刀鞘上带有隐约的电蓝色波纹图案。屋檐角落悬挂着 1 个带有流苏的小风铃，风铃呈双层叠放状。背景是一座蔓延的古老日式城市，布满了深色的弧形瓦屋顶、温暖的灯笼窗户、狭窄的街道以及茂密的淡粉色樱花树。远处的左上方山丘上矗立着 1 座宏伟的多层日式城堡，周围环绕着云雾缭绕的山脉和森林。采用忧郁的灰蓝色与柔和的粉色调，阴沉的日落云层，大气朦胧，细腻的绘画质感，戏剧性的广角构图，高视角，史诗般的隐秘忍者氛围，无文字，无水印。
+
+[English]
+Create a dark cinematic anime-style fantasy illustration of {argument name="character name" default="a hooded assassin"} crouching on the corner of a high tiled rooftop, watching over a vast feudal Japanese castle town at dusk. The figure is seen from behind in three-quarter view on the right side of the image, wearing a tattered black hooded cloak with ragged strips streaming in the wind, layered leather straps, belts, chains, buckles, and dark shinobi-style clothing; only one faint glowing blue eye is visible under the hood. Their posture is low and vigilant, one knee raised, one hand braced near the roof edge, conveying that he is watching. On the rooftop beside him are exactly 2 sheathed katanas laid parallel, both black with metallic fittings and subtle electric-blue glowing wave patterns along the blades or scabbards. From the roof corner hangs exactly 1 small tasselled wind-bell ornament with 2 stacked bell shapes. The background is a sprawling ancient Japanese city filled with dark curved tile roofs, warm lantern-lit windows, narrow streets, and dense pale pink cherry blossom trees. In the far distance, place exactly 1 large multi-tier Japanese castle on a hill to the upper left, surrounded by misty mountains and forests. Use a moody gray-blue and muted pink palette, overcast sunset clouds, atmospheric haze, fine painterly detail, dramatic wide-angle composition, high vantage point, epic stealth-ninja mood, no text, no watermark.
+```
+
+**来源：** [@MARC. elina](https://x.com/GenPhi001/status/2081719037562675400) | 2026-07-27
+
+---
+
+### 🏷️ 例 5157：香水瓶中的时尚模特
+
+![香水瓶中的时尚模特](../images/%E9%A6%99%E6%B0%B4%E7%93%B6%E4%B8%AD%E7%9A%84%E6%97%B6%E5%B0%9A%E6%A8%A1%E7%89%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个巨大的、晶莹剔透的奢华香水瓶，高度与真人相当，瓶内清晰可见一位 {argument name="fashion model" default="美丽的欧洲时尚模特"}。瓶身由纯净的超透明玻璃制成，宛如博物馆的展示柜，完全透明，没有染色玻璃、没有彩色液体、没有任何雾气遮挡视线。这位女性从头到脚完全显露在巨型瓶子中，身着 {argument name="outfit" default="优雅飘逸的高级定制礼服"}，以极具张力的时尚姿态优雅站立。透过玻璃，她的面部、双眼、发型和服饰细节清晰可见。这款超大香水瓶配有奢华的金色瓶盖和水晶边缘，放置在 {argument name="pedestal" default="高级黑色大理石底座"} 上。柔和的金色影棚灯光营造出细腻的玻璃反射效果，且不会遮挡模特。高定时尚香水广告，奢华美妆宣传，Vogue 杂志编辑风格，逼真的玻璃折射，聚焦于女性，超高细节，电影级摄影，85mm 镜头，浅景深，超写实，8K 分辨率，竖构图 4:5。
+
+[English]
+A massive crystal-clear transparent luxury perfume bottle, as tall as a human, with a {argument name="fashion model" default="beautiful European fashion model"} clearly visible standing inside the bottle. The bottle is made of pure ultra-clear glass like a museum display case, completely transparent with no tinted glass, no colored liquid, no fog blocking the view. The woman is fully visible from head to toe inside the giant bottle, wearing an {argument name="outfit" default="elegant flowing haute couture gown"}, standing gracefully in a powerful fashion pose. Her face, eyes, hairstyle, and dress details are sharp and clearly visible through the glass. The oversized perfume bottle has a luxurious golden cap, crystal edges, and sits on a {argument name="pedestal" default="premium black marble pedestal"}. Soft golden studio lighting creates subtle glass reflections without hiding the model. High fashion perfume advertisement, luxury beauty campaign, Vogue editorial style, realistic glass refraction, sharp focus on woman, ultra detailed, cinematic photography, 85mm lens, shallow depth of field, hyper realistic, 8K, vertical 4:5.
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2081633474147135985) | 2026-07-27
+
+---
+
+### 🏷️ 例 5159：Y2K 日式大头贴贴纸相册
+
+![Y2K 日式大头贴贴纸相册](../images/Y2K%20%E6%97%A5%E5%BC%8F%E5%A4%A7%E5%A4%B4%E8%B4%B4%E8%B4%B4%E7%BA%B8%E7%9B%B8%E5%86%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+[场景]
+一本浪漫的 Y2K 日式辣妹（Gyaru）风格大头贴贴纸相册。
+一本打开的环装笔记本的俯视图。
+
+在笔记本页面上整齐地排列 {argument name="number of photos" default="5 到 8"} 张长方形情侣大头贴照片。
+每张照片中仅包含同一对情侣，没有其他人。
+照片之间不重叠，也没有过小的照片。
+保持人物清晰可见，不被遮挡。
+没有多余的人、重复的面孔或多余的肢体。
+
+[手部与姿势]
+使用简单、自然的情侣姿势。
+确保可见的手部清晰地连接到正确的人身上。
+
+没有悬浮或脱离的手。
+没有重复的手、多余的手指、缺失的手指、融合的手指、畸形的手指或前景中过大的手。
+不要添加不必要的手势。
+
+[辣妹装饰]
+在笔记本边缘和空白处大量使用鲜艳的 Y2K 日式辣妹风格装饰。
+
+包括：
+{argument name="decoration styles" default="明亮的霓虹凝胶笔涂鸦、乳白色不透明笔触、精致的闪光笔点缀、手写爱心、星星、闪光、漩涡"}，
+可爱的符号，如“♡”、“☆”、“✦”和“✧”，
+光泽感的立体装饰贴纸，
+全息爱心和星星贴纸，
+小巧的宝石状贴纸，
+蝴蝶结、花朵和俏皮的复古图案。
+
+添加几个醒目的大号手写标题和 {argument name="romantic phrases" default="简短的浪漫短语"}，可自由选择以匹配可爱的情侣氛围。
+
+使主要字体明显比周围的涂鸦更大、更粗、更引人注目。
+使用亮粉色、紫色、水蓝色和明亮的霓虹凝胶笔颜色，并带有乳白色高光和精致的闪光点缀。
+
+所有文字和装饰仅放置在露出的笔记本纸张、边缘和照片之间的空白处。
+不要重叠或遮挡人物的脸部。
+
+[氛围与纹理]
+明亮柔和的灯光和欢快浪漫的氛围。
+鲜艳的亮粉色、紫色、水蓝色和霓虹色调色板。
+细腻的实体笔记本纸张、光面打印照片贴纸、略微凸起的凝胶笔墨迹、珠光闪烁、细微闪光和闪亮的装饰贴纸纹理。
+
+垂直 3:4 纵横比。
+
+[English]
+[SCENE]\nA romantic Y2K Japanese gyaru-style purikura sticker album.\nAn overhead view of an open physical ring-bound notebook.\n\nArrange {argument name="number of photos" default="5 to 8"} rectangular couple purikura photos cleanly across the notebook page.\nEach photo features the same couple and no one else.\nNo overlapping photos and no excessively tiny photos.\nKeep the people clearly visible and unobstructed.\nNo extra people, duplicated faces, or extra limbs.\n\n[HANDS & POSES]\nUse simple, natural couple poses.\nKeep visible hands clearly connected to the correct person.\n\nNo floating or detached hands.\nNo duplicated hands, extra fingers, missing fingers, fused fingers, malformed fingers, or oversized foreground hands.\nDo not add unnecessary hands or gestures.\n\n[GYARU DECORATION]\nHeavily decorate the notebook margins and empty paper spaces with vibrant Y2K Japanese gyaru-style decorations.\n\nInclude:\n{argument name="decoration styles" default="bright neon gel-pen doodles, milky opaque pen strokes, fine glitter-pen accents, handwritten hearts, stars, sparkles, swirls"},\ncute symbols such as “♡”, “☆”, “✦”, and “✧”,\nglossy puffy deco stickers,\nholographic heart and star stickers,\nsmall gem-like stickers,\nbows, flowers, and playful retro motifs.\n\nAdd several large, bold handwritten headings and {argument name="romantic phrases" default="short romantic phrases"} chosen freely to match the cute couple mood.\n\nMake the main lettering noticeably larger, thicker, and more eye-catching than the surrounding doodles.\nUse hot pink, purple, aqua, and bright neon gel-pen colors with milky highlights and fine glitter accents.\n\nPlace all text and decorations only on the exposed notebook paper, margins, and spaces between the photos.\nDo not overlap or cover the people’s faces.\n\n[ATMOSPHERE & TEXTURE]\nBright soft lighting and a cheerful romantic atmosphere.\nVibrant hot pink, purple, aqua, and neon color palette.\nDetailed physical notebook paper, glossy printed photo stickers, slightly raised gel-pen ink, pearlescent shimmer, fine glitter, and shiny deco-sticker textures.\n\nVertical 3:4 aspect ratio.
+```
+
+**来源：** [@ない🐈‍⬛](https://x.com/jenyo_nekochan/status/2081622958657941983) | 2026-07-27
+
+---
+
+### 🏷️ 例 5171：VibeThinker3B 日语信息图
+
+![VibeThinker3B 日语信息图](../images/VibeThinker3B%20%E6%97%A5%E8%AF%AD%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+{argument name="対象" default="VibeThinker3B"}の凄さを、日本語インフォグラフィック画像で表現。
+```
+
+**来源：** [@eakonn705](https://x.com/kota20111226/status/2081590932508696739) | 2026-07-27
+
+---
+
+### 🏷️ 例 5172：意大利女性生活方式社论
+
+![意大利女性生活方式社论](../images/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%E7%A4%BE%E8%AE%BA.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一位美丽的 {argument name="subject" default="年轻意大利女性"}，拥有橄榄色皮肤、温暖的棕色眼睛和深色卷曲波波头。她身穿奢华的 {argument name="outfit" default="赤陶色亚麻连衣裙"}，袖口带有刺绣，佩戴复古珍珠耳环和奶油色头巾。她正开心地笑着，手持一部牛油果绿色的转盘电话，身旁是摆满新鲜柠檬、香草、浓缩咖啡杯和手工意大利面的旧大理石厨房台面。背景呈现出色彩斑斓的瓷砖、质朴的木质搁板、地中海阳光以及温暖的泥土色调。奢华生活方式社论，Dolce Vita 美学，电影级写实感，徕卡摄影风格，极致照片级真实感。
+
+[English]
+Create a {argument name="subject" default="beautiful young Italian woman with olive-fair skin, warm brown eyes, and curly dark bob hair"}.
+
+She wears a {argument name="outfit" default="luxurious terracotta linen dress with embroidered sleeves, vintage pearl earrings, and a cream head scarf"}.
+
+She is laughing while holding an {argument name="prop" default="avocado green rotary telephone"} beside an old marble kitchen counter filled with fresh lemons, herbs, espresso cups, and handmade pasta.
+
+Background features colorful ceramic tiles, rustic wooden shelves, Mediterranean sunlight, and warm earthy tones.
+
+Luxury lifestyle editorial, Dolce Vita aesthetic, cinematic realism, Leica photography, ultra photorealistic.
+```
+
+**来源：** [@Cherry](https://x.com/hey_am_cherry/status/2081587013648846994) | 2026-07-27
+
+---
+

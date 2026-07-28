@@ -9885,3 +9885,75 @@ Create a square fantasy music cover artwork for {argument name="title text" defa
 
 ---
 
+### 🎨 例 5116：赛博猫耳少女吃西瓜
+
+![赛博猫耳少女吃西瓜](../images/%E8%B5%9B%E5%8D%9A%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E5%90%83%E8%A5%BF%E7%93%9C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精美的动漫风格夏季插画，画面中 {argument name="character name" default="一位可爱的赛博猫耳少女"} 正坐在传统日式住宅的木制缘侧上，双手拿着一块三角形西瓜在吃。她留着凌乱的短发，发色为 {argument name="hair color" default="深棕色，发梢带有明亮的青蓝色"}，有着大大的蓝色眼睛、淡淡的红晕和俏皮羞涩的微笑。她戴着超大号的黑色未来感耳机，耳机上有发光的青色猫耳，发间别着青色 X 形发夹，戴着黑色颈圈，身穿露肩黑色街头风 T 恤，上面印有明亮的青色科技感文字，搭配带有青色饰边和垂坠带子细节的黑色腰带短裙/短裤。可见的服装细节应包含 7 个显著元素：猫耳耳机、两个青色 X 形发夹、黑色颈圈、露肩印花 T 恤、宽黑色腰带、垂坠的青色带子/钥匙扣，以及带有青色边缘的黑色短裙/短裤。采用四分之三侧面视角，她赤着双腿，向观众方向倾斜坐着，温暖的阳光和柔和的阴影洒在走廊地板上。在她的右侧，放置一张小圆桌，上面摆放 3 件物品：一瓶蓝色塑料汽水和两块西瓜。在她的左侧，悬挂着一个透明玻璃风铃，风铃下挂着装饰有白色几何纹样的蓝色纸条，在屋檐下轻轻摇曳。背景展示了木制推拉玻璃门、郁郁葱葱的花园（种有绿树和蓝紫色绣球花），以及带有蓬松云朵的明亮蓝色夏日天空。采用生动的赛璐珞动漫渲染风格，线条清晰，高光亮丽，带有青色霓虹点缀，浅景深，高细节，方形构图，氛围明快愉悦，无水印，无多余角色，除服装上风格化的模糊文字外，不包含任何额外文字。
+
+[English]
+Create a polished anime-style summer illustration of {argument name="character name" default="a cute cyber cat-ear girl"} sitting on a wooden engawa veranda of a traditional Japanese house, eating a triangular slice of watermelon with both hands. She has short tousled {argument name="hair color" default="dark brown hair with bright cyan-blue inner tips"}, large blue eyes, soft blush, and a playful shy smile. She wears oversized black futuristic headphones with glowing cyan cat ears, cyan X-shaped hair clips, a black choker, and an off-shoulder black streetwear T-shirt with bright cyan techno lettering, paired with a black belted skirt/shorts outfit with cyan trim and dangling strap details. The visible outfit pieces should include exactly 7 notable elements: cat-ear headphones, two cyan X hair clips, black choker, off-shoulder graphic shirt, wide black belt, dangling cyan strap/keyring, and black skirt/shorts with cyan edging. Place her in three-quarter view, seated with bare legs angled toward the viewer, warm sunlight and soft shadows across the veranda floor. To her right, include a small round side table holding exactly 3 items: one blue plastic soda bottle and two watermelon wedges. To her left, hang a transparent glass wind chime with a blue paper strip decorated in white geometric markings, gently swaying near the roof eave. The background shows sliding wooden glass doors, a lush garden with green trees and hydrangea bushes in blue and purple, and a bright blue summer sky with fluffy clouds. Use vivid cel-shaded anime rendering, crisp line art, glossy highlights, cyan neon accents, shallow depth of field, high detail, square composition, bright cheerful atmosphere, no watermark, no extra characters, no extra text beyond stylized unreadable clothing graphics.
+```
+
+**来源：** [@SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN/status/2081854290571002131) | 2026-07-27
+
+---
+
+### 🎨 例 5129：机库中的巨型仿生人与驾驶员
+
+![机库中的巨型仿生人与驾驶员](../images/%E6%9C%BA%E5%BA%93%E4%B8%AD%E7%9A%84%E5%B7%A8%E5%9E%8B%E4%BB%BF%E7%94%9F%E4%BA%BA%E4%B8%8E%E9%A9%BE%E9%A9%B6%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级的竖屏科幻场景，展现一个巨大的仿生人形机器人及其人类驾驶员在宏伟的工业机器人机库内的画面。巨型机器人呈女性特征，身高约 20–30 米，直立于中心，拥有苍白的瓷质面孔、疲惫忧郁的双眼、凌乱的短波波头 {argument name="hair color" default="银白色"}，以及暴露在外的全身机械骨架，由致密的黑色铬合金活塞、线缆、齿轮、伺服关节、肋骨状板材、抛光金属支柱和微小的琥珀色指示灯组成。她神情平静、庄重，带着一丝忧伤，俯视着下方的驾驶员。前景中，仅展示一名人类驾驶员：一位年轻女性的背影，站在带有黄色安全护栏的金属维修走道上，身穿白色衬衫、深色百褶裙、黑色短袜和黑色踝靴，抬头仰望着巨型机器人。周围是高耸的多层工厂井道：深色钢制脚手架、垂直轨道、梯子、平台、悬挂的线缆、明亮的冷白色灯带、薄雾和深邃的阴影。在仿生人周围包含四个清晰可见的铰接式维修机械臂：一个在右上角，一个在左中靠近肩膀处，一个在右中靠近腰部，一个在右下角向内伸展。采用从走道下方略微仰视的戏剧性低角度透视，强调仿生人与驾驶员之间巨大的体型差异。风格：超精细写实动漫混合风格，暗黑赛博朋克机甲美学，高对比度，光泽湿润的反射地面，体积光束，蓝灰色工业色调搭配少量暖橙色点缀，机械细节锐利，电影级构图，无文字，无水印。
+
+[English]
+Create a cinematic vertical sci-fi scene of a colossal humanoid android and its human pilot inside an immense industrial robot hangar. The giant robot is feminine and roughly 20–30 meters tall, standing upright in the center, with a pale porcelain face, tired melancholic eyes, short messy {argument name="hair color" default="silver-white"} bobbed hair, and an exposed full-body mechanical skeleton made of dense black chrome pistons, cables, gears, servo joints, rib-like plates, polished metal struts, and tiny amber indicator lights. Her expression is calm, solemn, and slightly sad as she looks downward toward the pilot. In the foreground, show exactly one human pilot: a young woman seen from behind, standing on a metal maintenance catwalk with yellow safety rails, wearing a white blouse, dark pleated skirt, black socks, and black ankle boots, gazing up at the giant robot. Surround them with a towering multi-level factory shaft: dark steel scaffolding, vertical rails, ladders, platforms, suspended cables, bright cool-white strip lights, haze, and deep shadows. Include exactly four visible articulated maintenance robot arms around the android: one on the upper right, one mid-left near the shoulder, one mid-right near the waist, and one lower right reaching inward. Use dramatic low-angle perspective from slightly below the catwalk, emphasizing the android’s enormous scale compared with the pilot. Style: ultra-detailed photorealistic anime-real hybrid, dark cyberpunk mecha aesthetic, high contrast, glossy wet reflective floor, volumetric light beams, blue-gray industrial color palette with small warm orange accents, sharp mechanical detail, cinematic composition, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2081749617046388883) | 2026-07-27
+
+---
+
+### 🎨 例 5155：日本女性在户外足汤
+
+![日本女性在户外足汤](../images/%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E5%9C%A8%E6%88%B7%E5%A4%96%E8%B6%B3%E6%B1%A4.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="水紋をつくる足先"}
+
+主体：
+{argument name="場所" default="緑に囲まれた静かな温泉街の屋外足湯"}で、成人女性が古い木製ベンチの中央に腰掛け、両足を透明な湯へ浸している。人物は縦長画面の約75％を占め、頭から水中の足先までを収める。両手で薄いオーバースカートの前裾を軽く持ち上げ、濡れないよう整えている自然な瞬間。
+
+人物・表情：
+明るいアイボリーベージュの肌に、淡いローズピンクの血色。肌理を残したなめらかな質感で、頬、鼻先、鎖骨に控えめなハイライト。シャンパンベージュとピンクブラウンのアイメイク、細く長いまつ毛、自然な涙袋、柔らかなブラウンの眉、透け感のあるピンクベージュのリップ。顔を少し下へ傾け、足元を見ながら穏やかに微笑む。明るいミルクティーアッシュブラウンのミディアムロング。薄いシースルーバング、顔まわりのレイヤー、毛先は内側へゆるくカールし、細い後れ毛が頬に沿う。
+
+服装・ポーズ：
+{argument name="衣装" default="アイボリーのリブ編みカシュクールトップ"}、薄手のロングカーディガン、白いハイウエストのキュロットショーツ、その上に軽いシフォン素材のオーバースカート。全体を生成りと淡いベージュで統一する。上半身はわずかに前傾し、肩の力を抜く。両手は左右の裾を指先でつまみ、膝は近づけながら、すねの位置で脚を緩やかに交差させる。足首から先は湯の中に入り、足の動きで小さな波紋が広がる。
+
+背景・光：
+古い木造の休憩所、濡れた石畳、低い木柵、深い緑の木々が続く落ち着いた足湯処。背景の建物や案内板は少しぼかし、文字は読めない状態にする。画面左上から暖かい自然光が差し、髪の表面、頬、肩、腕、太ももに柔らかな光が当たる。ベンチの下と右側には穏やかな影。水面には空と木々の反射、足の周囲には透明感のある揺らぎと細かな光の筋を描く。
+
+構図・カメラ：
+縦9:16。カメラは座った人物の胸より少し低い位置から、ほぼ正面の軽い俯瞰。人物を中央に置き、頭上には少量の緑と建物、下部には足湯の水面を広く残す。焦点は顔から両手、膝まで明瞭で、背景は自然な浅い被写界深度。35〜50mm相当の自然な遠近感。脚や手を不自然に強調せず、全身のバランスと足湯の空間が伝わる構成。
+
+質感・スタイル：
+現実感の高い屋外ポートレート写真。柔らかな肌の質感、一本ずつ見える髪、リブニットとシフォンの繊維、古い木材の乾いた表面、濡れた石、水面の屈折を丁寧に表現する。穏やかな暖色寄りの自然光、低すぎないコントラスト、清潔感のある色調。過度な美肌補正や人工的なHDRを避ける。
+
+ネガティブ：
+未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、脚の長さの不一致、衣服との接触不良、過度な露出、不自然な重力、誤った水面反射、光源と矛盾する影、文字化け、読める看板、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2081643249341694289) | 2026-07-27
+
+---
+
