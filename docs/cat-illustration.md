@@ -9957,3 +9957,215 @@ Create a cinematic vertical sci-fi scene of a colossal humanoid android and its 
 
 ---
 
+### 🎨 例 5201：摩托车第一人称视角动漫插画
+
+![摩托车第一人称视角动漫插画](../images/%E6%91%A9%E6%89%98%E8%BD%A6%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0%E8%A7%86%E8%A7%92%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+杰作，最高画质，超精细动漫插画，从 {argument name="vehicle" default="摩托车油箱"} 正上方拍摄的动态第一人称 POV，摄像机位于骑手胸前向下俯视，电影级视角，强烈的速度感，路面带有强烈的垂直运动模糊条纹，高度精细的 {argument name="bike color" default="蓝色"} 复古公路摩托车，带有亮面油箱，圆形数字速度表，显示屏发出蓝白光，黑色车把，左侧车把安装有手机支架，点火钥匙悬挂在仪表盘下方，逼真的控制装置和线缆。
+
+一对年轻情侣正在骑行。男性骑手穿着 {argument name="clothing" default="红白格纹法兰绒衬衫"}，袖子卷起，搭配浅蓝色破洞牛仔裤。他的右手握住油门，左臂自然地控制着车把。女性乘客紧贴在他身后，双臂紧紧环抱住他的腰部。她穿着一件叠穿在白色毛衣外面的超大号红色格纹衬衫。她的一只手轻轻放在骑手的腹部，另一只手拿着一部带有后置双摄的紫色智能手机。她的双腿在画面左侧可见，营造出一种轻松休闲的氛围。
+
+仅可见骑手的躯干、手臂、手部、大腿和双腿。面部完全在画面之外。蓝色的摩托车油箱占据构图中心。下方的道路模糊成细长的速度线，强调快速向前运动。柔和的环境日光，油箱上清晰的倒影，逼真的衣物褶皱，自然的肤色，清晰的摩托车细节，电影级光影，微妙的景深，鲜艳的色彩，高度精致的数字动漫艺术，现代漫画美学，戏剧性构图，9:16 垂直纵横比，8K 分辨率。
+
+[English]
+Masterpiece, best quality, ultra-detailed anime illustration, dynamic first-person POV from directly above a {argument name="vehicle" default="motorcycle fuel tank"}, camera positioned at the rider's chest looking downward, cinematic perspective, intense sense of speed with strong vertical motion blur streaks across the road, highly detailed {argument name="bike color" default="blue"} retro roadster motorcycle with glossy fuel tank, round digital speedometer with glowing blue-white display, black handlebars, phone holder mounted on the left handlebar, ignition key hanging below the gauge cluster, realistic controls and cables.
+
+A young couple riding together. The male rider is wearing a {argument name="clothing" default="red and white plaid flannel shirt"} with rolled-up sleeves and light blue ripped jeans. His right hand grips the throttle while his left arm naturally controls the handlebar. The female passenger sits closely behind him, wrapping both arms around his waist in a warm embrace. She wears an oversized red plaid shirt layered over a white sweater. One hand gently rests on the rider's stomach while holding a purple smartphone with dual rear cameras. Her bare legs are visible on the left side of the frame, creating a relaxed casual look.
+
+Only the riders' torsos, arms, hands, lap, and legs are visible. Faces are completely outside the frame. The blue motorcycle fuel tank dominates the center composition. The road below is blurred into long speed lines, emphasizing fast forward motion. Soft ambient daylight, clean reflections on the fuel tank, realistic fabric folds, natural skin tones, crisp motorcycle details, cinematic lighting, subtle depth of field, vibrant colours, highly polished digital anime artwork, modern manga aesthetic, dramatic composition, vertical 9:16 aspect ratio, 8K resolution.
+```
+
+**来源：** [@auqib](https://x.com/auqibhabib/status/2082126487797498137) | 2026-07-28
+
+---
+
+### 🎨 例 5208：巨型机器人与机甲驾驶员
+
+![巨型机器人与机甲驾驶员](../images/%E5%B7%A8%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E6%9C%BA%E7%94%B2%E9%A9%BE%E9%A9%B6%E5%91%98.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="ロボット" default="巨大ロボット"}と{argument name="搭乗者" default="搭乗者"}』新装甲
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2082098610691588183) | 2026-07-28
+
+---
+
+### 🎨 例 5216：中文 AI 绘画课程封面
+
+![中文 AI 绘画课程封面](../images/%E4%B8%AD%E6%96%87%20AI%20%E7%BB%98%E7%94%BB%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为儿童 AI 图像创作教育/培训课程制作一张 16:9 的电影质感演示封面，采用优雅的中国风奢华美学，深邃墨黑背景，点缀暖金色高光与戏剧性的红色元素。
+
+画布：宽屏 PowerPoint 风格标题页，16:9 比例，高分辨率。构图视觉上分为两部分：左侧为大面积留白，用于排版；右侧为发光的未来艺术之门场景。
+
+布局：在左侧中心位置，放置两行精致的衬线书法风格中文大标题：{argument name="main title" default="小孩 AI 绘图\n培训版"}。下方添加一行纤细的白色中文副标题：{argument name="subtitle" default="让孩子用 AI 打开想象力 · 创造力 · 未来视觉表达"}。再下方添加一条细水平分割线，左侧带有短小的红橙色强调段，随后是一行简短的课程描述：{argument name="course description" default="儿童 AI 创意绘画课程介绍"}。在左上角，添加一行微小的四字竖排淡金色座右铭，下方盖有一个小红印章：{argument name="vertical motto" default="想象力\n表达力\n创造力\n未来力"}。
+
+右侧场景：右下中心处站立一个小孩剪影，面向一扇金白色光芒的垂直光门，单手向上伸展，仿佛触碰未来。光门应散发出强烈的辉光，在光亮的地板上形成倒影，底部边缘带有放射状水平光晕。在光门后方及周围，包含红色与琥珀色半透明面板、细长的垂直玻璃矩形、淡淡的网格线、光门后方一个巨大的暗红色圆形行星/月球，以及最右侧深红色的背景区域。
+
+悬浮视觉元素：在光门右侧附近放置 3 张带边框的小型艺术缩略图：上方中间是一张深红色云雾/风景图，其右侧/右下方是一张浅色水墨山水图，下方是一张较大的淡色山水风景图。添加抽象的圆圈与方块：一个小实心红圆、一个淡奶油色圆、一个巨大的模糊轮廓圆以及几个细线条方块。添加一条发光的金色粒子带，从左下角向小孩方向扫过，如同流动的星尘或丝绸。
+
+视觉风格：高端中国现代设计，电影级布光，金箔与漆红色调，左下角深色背景中隐约可见水墨山水与松树剪影，柔和的雾气、尘埃粒子、镜头光晕、高对比度、优雅的间距，博物馆海报级品质。字体应清晰、精致且易读，主标题采用象牙白至金色的渐变，辅助文字采用柔和的白/金色。
+
+约束：保持幻灯片简洁且适合演示，无 Logo，无水印，除指定的 4 组文本外无额外文字，非卡通风格，无杂乱元素。保持左侧强烈的留白感，右侧营造出魔法般的教育科技氛围。
+
+[English]
+Goal: Create a cinematic 16:9 presentation cover slide for an education/training course about children learning AI image creation, with an elegant Chinese luxury aesthetic, dark ink-black background, warm gold highlights, and dramatic red accents.
+
+Canvas: Wide PowerPoint-style title slide, 16:9 aspect ratio, high resolution. Composition is split visually: the left half is mostly dark negative space for typography, the right half is a glowing futuristic-art portal scene.
+
+Layout: On the left-center, place a large two-line Chinese title in refined serif calligraphy: {argument name="main title" default="小孩AI绘图\n培训版"}. Beneath it, add a smaller subtitle in thin white Chinese type: {argument name="subtitle" default="让孩子用AI打开想象力 · 创造力 · 未来视觉表达"}. Below that, add a thin horizontal divider line with a short red-orange accent segment near the left, then a small course-description line: {argument name="course description" default="儿童AI创意绘画课程介绍"}. In the upper-left corner, add a tiny vertical four-line motto in pale gold with one small red seal mark below it: {argument name="vertical motto" default="想象力\n表达力\n来达力\n未来力"}.
+
+Right-side scene: Show exactly 1 small child silhouette standing near the lower-right center, facing a vertical glowing doorway of golden-white light and reaching one hand upward as if touching the future. The doorway should emit strong bloom, reflections on the glossy floor, and a radiant horizontal flare along the bottom edge. Behind and around the portal, include red and amber translucent panels, thin vertical glass rectangles, faint grid lines, a large muted red circular planet/moon behind the portal, and a darker red background field on the far right.
+
+Floating visual elements: Include exactly 3 small framed artwork thumbnails near the right side of the portal: 1 dark reddish cloud/landscape image near the upper-middle, 1 light ink-wash mountain image to its right/lower-right, and 1 larger pale mountain landscape image below them. Add abstract circles and squares: a small solid red circle, a pale cream circle, a large faint outline circle, and a few thin outlined squares. Add a glowing golden ribbon of particles sweeping from the lower-left toward the child, like flowing stardust or silk.
+
+Visual style: Premium Chinese modern design, cinematic lighting, gold foil and lacquer-red palette, subtle ink-wash mountains and pine silhouettes in the dark lower-left background, soft haze, dust particles, lens flare, high contrast, elegant spacing, museum-poster quality. Typography should be crisp, refined, and readable, with the main title in ivory-to-gold gradient and the supporting text in subdued white/gold.
+
+Constraints: Keep the slide clean and presentation-ready, with no logos, no watermark, no extra text beyond the specified 4 text groups, no cartoon style, no clutter. Maintain strong negative space on the left and a magical education-tech atmosphere on the right.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082083429764800903) | 2026-07-28
+
+---
+
+### 🎨 例 5236：动漫风：屋顶秘密舱门发现之旅
+
+![动漫风：屋顶秘密舱门发现之旅](../images/%E5%8A%A8%E6%BC%AB%E9%A3%8E%EF%BC%9A%E5%B1%8B%E9%A1%B6%E7%A7%98%E5%AF%86%E8%88%B1%E9%97%A8%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级高细节动漫插画，描绘两位年轻的吉祥物少女通过屋顶的一个矩形开口，发现了一处隐藏的未来感地下设施。场景设定在阳光明媚的城市公寓屋顶，背景是深蓝色的夏日天空，点缀着高耸的积雨云，呈现出温暖的金色逆光、闪烁的高光以及极具张力的透视感。左侧是 {argument name="green mascot girl" default="一位娇小的绿发少女，有着巨大的绿色兔耳状叶片，黄色双眼，身穿白色泡泡袖衬衫、绿色背带裤，系着粉色领结，留着绿色尾巴，正双手撑在沉重的木质舱门上向前探身"}。右侧是 {argument name="cat girl" default="一位娇小的金发猫耳少女，有着绿色双眼，留着短波波头，身穿白蓝相间的学院风服装，带有黄色点缀，长袖，白色过膝袜，粉色靴子，背着粉色书包，留着白色尾巴，正跪在屋顶上凝视着开口处"}。画面中仅展示这两位角色，两人都露出惊讶且好奇的表情，向下俯瞰。屋顶上堆放着作为儿童秘密基地的纸箱；包含六个显眼的纸箱，上面画着童趣的蜡笔画：笑脸太阳、兔子脸、简单的机器人、花朵、数字以及抽象涂鸦。在右上角添加晾衣杆和晾衣绳，挂着三件衣物，杆子附近靠近天际线处挂着一个小巧的粉色星形毛绒玩具或风筝。前景放置三个探索道具：一顶系着粉色丝带的草帽、一个捕虫网以及一小丛绿植。在打开的舱门内，描绘一个发着蓝光的科幻工业竖井，内部有金属机械、管道、薄雾，深处中心有一个红色的小型载具或舱体，在怀旧的屋顶游乐空间与隐藏的赛博朋克科技之间形成强烈对比。采用插画风格的动漫笔触，结合绘画感光影、复杂的环境细节、湿润的屋顶反光质感、镜头光晕、柔和的大气雾气以及略微倾斜的广角构图。无字幕，无对话气泡，无水印。
+
+[English]
+Create a cinematic high-detail anime illustration of two young mascot girls discovering a hidden futuristic underground facility through a rectangular opening in a rooftop. The scene is set on a sunlit urban apartment rooftop under a deep blue summer sky filled with towering white cumulus clouds, with warm golden backlight, sparkling highlights, and dramatic perspective. On the left is {argument name="green mascot girl" default="a petite green-haired girl with large green rabbit-like leaf ears, yellow eyes, a white puff-sleeve blouse, green overalls, pink bow tie, and green tail, leaning forward with both hands on a heavy wooden hatch"}. On the right is {argument name="cat girl" default="a petite blonde cat-eared girl with green eyes, short bob hair, white-and-blue school-inspired outfit with yellow accents, long white sleeves, thigh-high white stockings, pink boots, a pink randoseru backpack, and a white tail, kneeling on the rooftop and staring into the opening"}. Show exactly two characters, both with surprised curious expressions, looking down into the opening. The rooftop is cluttered with stacked cardboard boxes used like a secret kids’ base; include exactly six prominent cardboard boxes, with childlike crayon drawings on them: a smiling sun, a rabbit face, a simple robot, flowers, numbers, and abstract scribbles. Add laundry poles and clotheslines in the upper right with exactly three hanging cloth pieces, plus a small pink star-shaped plush or kite hanging from a pole near the skyline. In the foreground place exactly three exploration props: a straw hat with a pink ribbon, a butterfly net, and a small cluster of leafy plants. Inside the open hatch, depict a glowing blue sci-fi industrial shaft with metallic machinery, pipes, mist, and a small red vehicle or capsule at the center far below, creating strong contrast between nostalgic rooftop play space and hidden cyberpunk technology. Use an illustration-forward anime style with painterly lighting, intricate environmental details, wet reflective rooftop texture, lens-like sparkle, soft atmospheric haze, and a slightly tilted wide-angle composition. No captions, no speech bubbles, no watermark.
+```
+
+**来源：** [@田中勇道 | AI画像・動画生成](https://x.com/yudotanaka/status/2082029544530497994) | 2026-07-28
+
+---
+
+### 🎨 例 5257：水晶蛇女角色设计
+
+![水晶蛇女角色设计](../images/%E6%B0%B4%E6%99%B6%E8%9B%87%E5%A5%B3%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白背景上创作一幅全身动漫角色设计图：一位名为 {argument name="character name" default="蛇女"} 的暗黑奇幻风格蛇女战士，以充满自信的顽皮微笑，居中呈现动态站姿。她拥有锐利的棱角眼眸，带有紫色眼部特效，皮肤苍白，留着短而尖的 {argument name="hair color" default="绿色"} 发型，头部突出高耸的黑色角状水晶鳍。她的服装为 {argument name="armor colors" default="黑色、翡翠绿和发光紫色"} 的锯齿状水晶盔甲，配有不对称肩刺、分段式护手、露出腰部的短款盔甲胸衣、锐利的层叠裙摆、大腿长靴以及刀锋状高跟。在她周围环绕着 5 个清晰可见的蛇头，由分段式黑曜石水晶鳞片构成，带有绿色切面和紫色发光裂纹：一个大蛇头在左上方呈弧形，一个较小的蛇头在左后方，一个大蛇头在右上方卷曲，一个蛇头从右侧延伸，另一个蛇头位于右下方。添加 8 条长而分段的蛇尾附属物，环绕在她的身体周围：三条在她身后右侧扫过，两条环绕在她的腿部，一条从左肩后方升起，一条像鞭子一样握在她的左手中，最后一条末端为巨大的长矛状刀刃，向下插在左侧。使用锐利的切面形状、高对比度赛璐珞阴影、纤细的黑色线条、棱角分明的哥特机甲奇幻设计，并在蛇口和武器尖端滴落明亮的紫色液态毒液。整体氛围应时尚、危险且优雅，如同为 {argument name="use case" default="奇幻游戏 Boss 设计"} 制作的精致日式角色概念插画。保持背景为纯白色，不要包含任何文字、标志、场景或额外角色。
+
+[English]
+Create a full-body anime character design on a clean white background: a dark fantasy snake-girl warrior named {argument name="character name" default="Snake Daughter"}, centered in a dynamic standing pose with a mischievous confident smile. She has sharp angular eyes with purple eye effects, pale skin, short spiky {argument name="hair color" default="green"} hair, and tall black horn-like crystal fins protruding from her head. Her outfit is jagged crystalline armor in {argument name="armor colors" default="black, emerald green, and glowing violet"}, with asymmetrical shoulder spikes, segmented gauntlets, a small armored bodice exposing the midriff, a sharp layered skirt, thigh-high armored boots, and blade-like heels. Surround her with exactly 5 visible serpent heads made of segmented obsidian crystal scales with green facets and violet glowing cracks: one large head arcing over the upper left, one smaller head on the left behind her, one large head curling at the upper right, one head extending from the right side, and one head near the lower right. Add exactly 8 long segmented snake-tail appendages curling around her body: three sweeping behind her on the right, two looping around her legs, one rising behind her left shoulder, one held like a whip in her left hand, and one ending in a large spear-like blade planted downward on the left. Use sharp faceted shapes, high-contrast cel shading, thin black line art, angular gothic mecha-fantasy design, and bright violet liquid venom splashes dripping from the serpent mouths and weapon tip. The mood should be stylish, dangerous, and elegant, like a polished Japanese character concept illustration for {argument name="use case" default="a fantasy game boss design"}. Keep the background plain white with no text, no logo, no scenery, and no extra characters.
+```
+
+**来源：** [@404 notfound](https://x.com/404notf26312237/status/2081987219389305166) | 2026-07-28
+
+---
+
+### 🎨 例 5265：沙漠日食时尚大片
+
+![沙漠日食时尚大片](../images/%E6%B2%99%E6%BC%A0%E6%97%A5%E9%A3%9F%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅令人叹为观止的超写实数字杰作，画面中一位女性以 {argument name="reference face" default="上传的面部"} 作为 100% 精确的面部参考，独自坐在停在广袤荒凉沙漠中央的 {argument name="car type" default="黑色豪华跑车"} 引擎盖上，背景是超现实的日食景象。必须完美保留原始面部特征，实现全脸锁定——严禁改变脸型、发型、发际线、肤色、面部比例、眼形、鼻型、唇形、下颌线、表情、笑容、年龄或任何独特的面部特征。她身穿一件高级 {argument name="jacket type" default="棕色麂皮大衣"}，内搭修身黑色高领衫，下穿深色工装裤，佩戴精致的银饰，靴子上覆盖着一层细细的沙漠沙粒。她自信的姿态和自然的气质营造出强烈的电影感时尚大片氛围。在她身后，巨大的日食笼罩天空，戏剧性的金色光环照亮了她的轮廓边缘，并在她的脸部和服装上投射出令人惊艳的电影级轮廓光。车周围的沙粒仿佛时间静止般悬浮在半空中，形成优雅的螺旋形状，发光的橙色余烬在空气中飘浮。沙漠地平线融入柔和的大气薄雾中，带有微妙的热浪扭曲和深琥珀色与炭灰色的梦幻渐变。光亮的黑色豪华跑车反射着日食、悬浮颗粒和周围环境，呈现出光线追踪般的精准度，增强了高端电影质感。采用 Octane Render 进行 8K 超写实渲染，具备体积光、复杂的环境纹理、照片级皮肤细节、电影级景深、HDR 调色、全局光照以及干净的高级时尚病毒式大片美学。画面比例 9:16
+
+[English]
+A breathtaking hyper-realistic digital masterpiece featuring a female figure with the uploaded face used 100% exactly as the facial reference, sitting alone on the hood of a black luxury sports car parked in the middle of a massive empty desert during a surreal solar eclipse. The exact facial identity must remain perfectly preserved with full face lock—do not alter the face, hairstyle, hairline, skin tone, facial proportions, eye shape, nose, lips, jawline, expression, smile, age, or any unique facial features. She wears a premium oversized {argument name="jacket" default="brown suede jacket"} layered over a fitted {argument name="top" default="black turtleneck"}, {argument name="pants" default="dark cargo pants"}, elegant silver jewelry, and polished boots lightly covered in fine desert sand. Her confident posture and natural presence create a powerful cinematic fashion editorial look. Behind her, an enormous solar eclipse dominates the sky with a dramatic golden halo illuminating the edges of her silhouette and creating stunning cinematic rim lighting across her face and clothing. The sand surrounding the car is suspended in mid-air as if time has frozen, forming elegant spiraling shapes while glowing orange embers drift through the atmosphere. The desert horizon fades into soft atmospheric haze with subtle heat distortion and dreamlike gradients of deep amber and charcoal tones. The glossy black luxury sports car reflects the eclipse, floating particles, and surrounding environment with ray-traced precision, enhancing the premium cinematic aesthetic. Rendered in ultra-realistic 8K using Octane Render, featuring volumetric lighting, intricate environmental textures, photorealistic skin detail, cinematic depth of field, HDR color grading, global illumination, and a clean high-fashion viral editorial aesthetic. Aspect ratio 9:16
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2081966569954128179) | 2026-07-28
+
+---
+
+### 🎨 例 5266：动漫夏日祭情侣
+
+![动漫夏日祭情侣](../images/%E5%8A%A8%E6%BC%AB%E5%A4%8F%E6%97%A5%E7%A5%AD%E6%83%85%E4%BE%A3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张精致的动漫风格竖版插画，展现日本浪漫的夏日祭之夜。前景中，一对年轻男女在深蓝色星空下，手牵手走在热闹的屋台小吃街上。左侧的男孩留着凌乱的黑色短发，有着明亮的棕色眼睛和羞涩的笑容，身穿深海军蓝条纹浴衣，系着灰色腰带；他空着的一只手抬起放在脑后，姿态腼腆。右侧的女孩留着温暖的棕色头发，梳成整齐的低发髻，有着富有表现力的棕色眼睛和开心的笑容；她身穿浅米色浴衣，上面印有蓝色、紫色和粉色的牵牛花及绿叶，系着宽大的紫色腰带，配有金色细绳装饰，右手提着一个紫色花卉抽绳小布包。这对情侣在行走时应深情对视，画面构图为腰部以上至全身，两人牵着的手位于画面中下部。背景中，头顶斜挂着发光的红橙色灯笼，中景是熙熙攘攘的祭典人群，两侧是色彩缤纷的摊位。画面中必须包含两个清晰可见的摊位招牌，且带有可辨认的日语文字：左侧摊位招牌写有大号红色字体「たこ焼」，右侧摊位招牌写有大号红色字体「かき氷」。人物面部需呈现温暖的灯笼光影，边缘光柔和，色调以浓郁的夜蓝色为主，注重衣物褶皱细节、线条干净利落、表情生动，并呈现高质量的现代日本动漫美学。画面中不得出现水印、字幕，除摊位招牌外不得有任何额外文字。
+
+[English]
+Create a polished anime-style vertical illustration of a romantic summer festival night in Japan. In the foreground, show two young adults walking hand in hand through a lively yatai food-stall street under a deep navy starry sky. The boy on the left has messy short black hair, bright brown eyes, a cheerful shy smile, and wears a dark navy blue striped yukata with a gray obi; his free hand is raised behind his head in a bashful gesture. The woman on the right has warm brown hair swept into a neat low bun, expressive brown eyes, and an open happy smile; she wears a pale cream yukata with large blue, purple, and pink morning-glory flowers and green leaves, a wide purple obi with a small gold cord accent, and carries a small purple floral drawstring kinchaku bag in her right hand. The couple should be looking at each other while walking, centered waist-up to full-body, with their joined hands visible near the lower middle. Surround them with glowing red-orange paper lanterns strung diagonally overhead, dense festival crowds in the midground, and colorful stalls on both sides. Include exactly two prominent stall signs with readable Japanese text: the left stall sign says 「たこ焼」 in large red letters, and the right stall sign says 「かき氷」 in large red letters. Use warm lantern light on the characters’ faces, soft rim lighting, rich evening blues, detailed cloth folds, clean linework, expressive faces, and a high-quality modern Japanese anime aesthetic. No watermark, no subtitles, no extra text beyond the stall signage.
+```
+
+**来源：** [@熟師：AI熟女イラスト工房](https://x.com/aianimemilf/status/2081965336849727998) | 2026-07-28
+
+---
+
+### 🎨 例 5280：地铁站里的写实日本女孩
+
+![地铁站里的写实日本女孩](../images/%E5%9C%B0%E9%93%81%E7%AB%99%E9%87%8C%E7%9A%84%E5%86%99%E5%AE%9E%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在一个清新的早晨，现代地铁站内，自然阳光透过自动扶梯的金属栅栏洒下，在皮肤上形成柔和的高光与阴影。一位年轻女孩踏上扶梯，身体微微后倾，头向左肩后转，仿佛突然认出了某人或想起了什么。
+角色：
+{argument name="character description" default="一位 20 岁左右的日本女孩，皮肤白皙光滑如瓷，无雀斑或瑕疵，自然的黑棕色齐肩发被风吹得略显凌乱，前额发丝遮住额头和双颊。大圆眼，佩戴自然棕色美瞳，目光清澈。五官精致，高鼻梁，薄唇微张。"}
+服装：
+{argument name="outfit" default="一件带有小碎花图案的深蓝黑色吊带衫，露背设计，背部中间有两条柔软的丝带系带。复古浅蓝色毛边牛仔短裤，中低腰设计。侧身微躬时，腰间隐约可见一小截随机颜色（奶油白或浅粉色）的蕾丝内衣边，尺度适中。"}
+场景：
+{argument name="station context" default="轻轨站内闪亮的金属自动扶梯，两侧是玻璃墙和不锈钢扶手。背景中有清晰的日文标识：「スカイトレイン駅」（轻轨站）和「ターミナルへ乗り換え」（换乘航站楼）以及方向箭头。清晨的自然光从上方照射，在皮肤和织物上营造出轻微的 HDR 效果。"}
+表情（90% 日系风格）：
+微微倾斜的目光，眼睑半开半合，嘴唇微张，仿佛在轻笑，又带着一丝困惑、忧虑与好奇交织的神情——这是一种充满日本日常生活感的多元表情：既有快乐和羞涩，也有被注视时那种温柔的幸福感中夹杂的一点点不安。
+图像风格：
+纪实生活摄影 • iPhone 17 拍摄 • 清晨自然光 • 日常生活片段 • 写实皮肤纹理 • 手机摄影 HDR • 真实的人类表情 • 车站随拍 • 超写实 • 非 AI 脸 • 特写 9:16
+整个画面始终保持腰部以上的特写镜头，聚焦于背部、肩膀、颈部和侧脸轮廓，保留手机随手抓拍日常瞬间的真实自然感。
+
+[English]
+Trong một buổi sáng trong lành tại nhà ga tàu điện ngầm hiện đại, ánh nắng tự nhiên len lỏi qua các thanh kim loại của thang cuốn, tạo nên những mảng sáng – tối mềm mại trên da. Một cô gái trẻ bước lên thang cuốn, cơ thể hơi nghiêng về phía sau, đầu quay lại nhìn qua vai trái như đang bất chợt nhận ra ai đó hoặc nhớ ra điều gì đó.
+Nhân vật:
+Cô gái {argument name="quốc tịch" default="Nhật Bản"} khoảng 20 tuổi, da cực trắng mịn màng như sứ, không một vết tàn nhang hay khuyết điểm, tóc ngắn ngang vai màu đen nâu tự nhiên hơi rối nhẹ bởi gió, phần tóc trước phủ xuống trán và hai bên má. Mắt to tròn, đeo kính áp tròng màu nâu tự nhiên, ánh nhìn trong veo. Khuôn mặt thanh tú, mũi cao, môi mỏng hơi hé mở.
+Outfit:
+{argument name="trang phục" default="Áo hai dây mỏng màu xanh đen họa tiết hoa nhỏ xinh"}, phần lưng hở hoàn toàn với hai dây buộc nơ mềm mại ở giữa lưng. Quần short jean xanh nhạt cũ, viền tua rua sờn, cạp thấp vừa phải. Khi đứng nghiêng và hơi cúi, phần giữa hai mép đùi lộ rõ một chút viền quần lót ren mỏng màu ngẫu nhiên (trắng kem hoặc hồng nhạt), chỉ vừa đủ nhìn thấy ở chính giữa, không hở nhiều.
+Bối cảnh:
+Thang cuốn kim loại sáng bóng tại {argument name="địa điểm" default="nhà ga Skytrain"}, hai bên là tường kính và tay vịn inox. Phía trên nền có biển hiệu tiếng Nhật rõ nét: 「スカイトレイン駅」 và 「ターミナルへ乗り換え」 cùng mũi tên chỉ hướng. Ánh sáng buổi sáng tự nhiên chiếu từ phía trên, tạo hiệu ứng HDR nhẹ trên da và vải.
+Biểu cảm (kiểu Nhật 90%):
+Ánh mắt hơi nghiêng, mi mắt nửa khép nửa mở, môi hơi hé như đang mỉm cười nhẹ nhưng cũng thoáng chút bối rối, lo lắng xen lẫn tò mò – biểu cảm đa dạng mang cảm giác đời thường Nhật Bản: vừa vui vừa e thẹn, vừa hạnh phúc nhẹ nhàng vừa có chút bất an khi bị nhìn thấy.
+Phong cách hình ảnh:
+Documentary Lifestyle Photography • Camera iPhone 17 • Natural Morning Light • Everyday Slice of Life • Realistic Skin Texture • Phone Camera HDR • Authentic Human Expression • Casual Station Moment • Ultra Photorealistic • No AI Face • Close-up 9:16
+Toàn bộ khung hình luôn ở góc cận cảnh từ ngang hông lên trên, tập trung vào lưng, vai, cổ và khuôn mặt nghiêng, giữ nguyên cảm giác chân thực, tự nhiên như một khoảnh khắc đời thường được chụp vội bằng điện thoại.
+```
+
+**来源：** [@Share Prompt Free (Prompt hay miễn phí)](https://x.com/hongthich22470/status/2081940044135493766) | 2026-07-28
+
+---
+
+### 🎨 例 5289：与互动涂鸦涂鸦合影的女性
+
+![与互动涂鸦涂鸦合影的女性](../images/%E4%B8%8E%E4%BA%92%E5%8A%A8%E6%B6%82%E9%B8%A6%E6%B6%82%E9%B8%A6%E5%90%88%E5%BD%B1%E7%9A%84%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的全景街头时尚照片，主角是 {argument name="character description" default="一位留着长直黑发、有刘海的年轻东亚女性"}，她正站在城市人行道旁一面素净的浅灰色混凝土墙边。她身穿 {argument name="outfit" default="一件无袖修身白色衬衫、一条高腰黑色包臀迷你裙、黑色透明连裤袜，以及一双亮面黑色尖头细高跟鞋"}。她的姿势俏皮而优雅：双腿交叉站立，一只手臂叠在胸前，另一只手轻触太阳穴，微微侧头，带着一丝愉悦的微笑；她黑色短裙的一侧正被拉开。在墙上直接添加黑色的手绘涂鸦，采用随性的记号笔风格，与照片中的人物产生互动：共 3 个主要的涂鸦元素 —— 左侧有一个可爱的 Q 版女孩正在大笑并拉扯女性的裙子，周围环绕着一颗小爱心和动感线条；女性头顶上方漂浮着一个简单的涂鸦皇冠；右侧有一个魔法传送门或漩涡洞，下方带有闪光和螺旋状水滴。使用自然光，呈现柔和的阴影、逼真的皮肤和织物纹理，采用略低的平视相机角度，构图简洁，背景为柔和的城市景观，可见路缘石和沥青路面。保持内容健康（SFW），主体写实，搭配奇幻的 2D 黑色素描涂鸦，无额外文字，无水印。
+
+[English]
+Create a realistic full-body street fashion photo of {argument name="character description" default="a young East Asian woman with long straight dark hair and bangs"} posing beside a plain light-gray concrete wall on an urban sidewalk. She wears {argument name="outfit" default="a sleeveless fitted white button-up blouse, a high-waisted black pencil mini skirt, sheer black pantyhose, and glossy black pointed stiletto heels"}. Her pose is playful and elegant: standing with legs crossed, one arm folded under her chest, the other hand touching her temple, looking slightly to the side with a small amused smile; the side of her black skirt is being pulled outward. Add black hand-drawn graffiti doodles directly on the wall in a loose marker style, interacting with the photo: exactly 3 main doodle elements — 1 cute chibi girl on the left laughing while tugging the woman’s skirt, with a small heart and motion lines around her; 1 simple doodled crown floating above the woman’s head; and 1 magic portal or swirling hole on the right with sparkles and a spiral drop beneath it. Use natural daylight, soft shadows, realistic skin and fabric texture, a slightly low eye-level camera angle, clean composition, and a muted urban background with curb and asphalt visible. Keep it SFW, photorealistic subject with whimsical 2D black sketch graffiti, no extra text, no watermark.
+```
+
+**来源：** [@Route@Aiart](https://x.com/3501Route/status/2081922589946204310) | 2026-07-28
+
+---
+

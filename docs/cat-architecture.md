@@ -3587,3 +3587,69 @@ Visual style: Highly polished anime merchandise illustration, soft watercolor fl
 
 ---
 
+### 🏛️ 例 5196：东亚女性厨房肖像
+
+![东亚女性厨房肖像](../images/%E4%B8%9C%E4%BA%9A%E5%A5%B3%E6%80%A7%E5%8E%A8%E6%88%BF%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+两位年轻成年东亚女性并排坐在明亮极简公寓厨房的小型木质台面上，画面为完整坐姿全身构图，人物位于中央。左侧女性身体略朝画面右侧，右腿屈膝抬起，左腿自然向下伸展，赤脚悬空；她穿{argument name="泳衣款式" default="纯白色细肩带三角比基尼"}，侧腰系带清晰。右侧女性正面略朝左坐着，双腿自然垂下，赤脚悬空，穿{argument name="泳衣颜色" default="深海军蓝色"}简洁连体泳衣，宽肩带、低圆领。
+
+两人彼此对视，不看镜头，表情安静、自然、略带亲近感。左侧女性的右手轻扶右侧女性的左上臂，左手自然放在台面或两人之间；右侧女性左手放在两人之间，右手撑在台面边缘。两人的手臂、手指和腿部关系必须清晰，不交叉穿模。
+
+左侧女性为{argument name="左侧发型" default="深黑色长直发"}，带整齐薄刘海；右侧女性为深棕黑色高马尾，同样有轻薄刘海。两人均为自然淡妆，白皙中性肤色，保留真实毛孔、细小绒毛、轻微肤色差异和自然高光，不要塑料磨皮。
+
+环境为冷白色小厨房或公寓角落：浅灰白墙面、白色柜体、浅木色台面。画面左侧有银白色小冰箱，上方放一台白色意式咖啡机和小型绿植；右侧为大面积白色纱帘和明亮窗光。地面浅灰，空间干净、无杂物。
+
+光线为右侧窗户照入的柔和冷调自然漫射光，整体高键、低饱和、低对比，以冷白、浅灰、浅木色、海军蓝和自然肤色为主。摄影风格：50mm镜头，f/3.2，平视机位，中等景深，人物和脚部清晰，背景轻柔虚化，真实泳装、皮肤、木材和金属纹理，轻微ISO 200数码颗粒，日系生活方式摄影，photorealistic。
+
+避免：未成年人特征、裸体、透明泳装、色情动作、夸张身材、双人脸部混淆、额外人物、错误手指、融合手臂、重复腿脚、悬浮肢体、错误脚趾、强HDR、过度锐化、杂乱厨房、文字、水印、Logo。
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2082133988488147408) | 2026-07-28
+
+---
+
+### 🏛️ 例 5248：水彩旅行写生
+
+![水彩旅行写生](../images/%E6%B0%B4%E5%BD%A9%E6%97%85%E8%A1%8C%E5%86%99%E7%94%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅精美的水彩旅行写生，描绘 {argument name="subject" default="一个人"} 在 {argument name="scene" default="繁华的欧洲街道"} 的场景。作品应呈现出在真实旅行手账本上用水彩和细黑墨水绘制的效果。
+
+运用灵动且富有表现力的墨线、柔和透明的水彩渲染、清晰可见的纹理水彩纸、自然的颜料晕染、轻微的溅墨以及未完成的素描细节。保持建筑和背景的通透感，减少细节，将主体作为视觉焦点。
+
+捕捉一个自然、愉悦的瞬间，展现真实的神态和放松的肢体语言。使用温暖的日光，搭配柔和的大地色系、淡蓝色、米色、奶油色、浅棕色和微妙的桃色调。留出充足的留白，以营造简洁优雅的构图。
+
+最终图像应呈现出怀旧、宁静、浪漫且具有手工感的效果，如同记录着美好回忆的艺术家旅行手账，而非精致的数字插画。
+
+[English]
+Create a beautiful watercolor travel sketch of {argument name="subject" default="a person"} in {argument name="scene" default="a bustling European street"}. The artwork should look like it was painted in a real travel sketchbook using watercolor and fine black ink.\n\nUse loose expressive ink lines, soft transparent watercolor washes, visible textured watercolor paper, natural paint bleeds, light splatters, and unfinished sketch details. Keep the architecture and background airy with minimal detail while making the subjects the main focus.\n\nCapture a candid, joyful moment with natural expressions and relaxed body language. Use warm daylight, muted earthy colors, soft blues, beige, cream, light browns, and subtle peach tones. Leave plenty of white paper visible to create a clean, elegant composition.\n\nThe final image should feel nostalgic, peaceful, romantic, and handcrafted, like an artist's travel journal filled with beautiful memories rather than a polished digital illustration.
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2082000152416665963) | 2026-07-28
+
+---
+
+### 🏛️ 例 5259：阳光花园中的缅甸女性肖像
+
+![阳光花园中的缅甸女性肖像](../images/%E9%98%B3%E5%85%89%E8%8A%B1%E5%9B%AD%E4%B8%AD%E7%9A%84%E7%BC%85%E7%94%B8%E5%A5%B3%E6%80%A7%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位 {argument name="subject" default="年轻缅甸女性"}，留着一头黑色直发，用一个 {argument name="accessory" default="白色蕾丝发圈"} 随意扎起，盘腿坐在阳光明媚花园的葱郁草地上，柔和的斑驳阳光透过叶片洒下。她身穿一件 {argument name="outfit" default="精致的白色中长连衣裙"}，短泡泡袖，方领设计，点缀着细小的黄棕色碎花，面料纹理细腻，随身形自然垂坠。赤脚，嘴角带着温柔的微笑，妆容自然清透，佩戴银色小吊坠项链和配套手链。背景是茂密的热带绿植和阳光。照片级真实感，自然户外光线，浅景深，85mm 肖像镜头，高度细腻的皮肤纹理和织物细节。
+
+[English]
+A young {argument name="subject" default="Burmese woman"} with long straight black hair loosely tied with a white lace scrunchie, sitting cross-legged on lush green grass in a sunny garden, soft dappled sunlight filtering through the leaves. She wears a {argument name="outfit" default="delicate white midi dress"} with short puffy sleeves, square neckline, and {argument name="pattern" default="scattered tiny yellow-and-brown floral prints"}, the fabric lightly textured and flowing around her. Barefoot, gentle closed-mouth smile, soft natural makeup, silver necklace with a small pendant and matching bracelet. Background of dense green tropical plants and sunlight. Photorealistic, natural outdoor lighting, shallow depth of field, 85mm portrait, highly detailed skin texture and fabric.
+```
+
+**来源：** [@Feyber | AI Creator](https://x.com/woleswoosh/status/2081982993539981618) | 2026-07-28
+
+---
+

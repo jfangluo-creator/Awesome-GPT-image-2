@@ -6145,3 +6145,107 @@ Create a whimsical 3D clay-like illustration of an unappetizing yet cute bowl of
 
 ---
 
+### 🧸 例 5200：可爱幼虎墙面涂鸦
+
+![可爱幼虎墙面涂鸦](../images/%E5%8F%AF%E7%88%B1%E5%B9%BC%E8%99%8E%E5%A2%99%E9%9D%A2%E6%B6%82%E9%B8%A6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级逼真的可爱吉祥物缩略图，画面中 {argument name="character species" default="一只幼虎"} 站在阳光明媚的房间里，身旁是它自己的墙面涂鸦。主角是一只毛绒玩具般的 3D 动画橙色幼虎，拥有柔软蓬松的毛发、黑色条纹、奶油色的口鼻部和腹部、超大且富有光泽的蓝色眼睛、圆圆的小耳朵、浓密的眉毛、小巧的棕色鼻子以及开心的笑容。它姿态俏皮，一只脚站立，另一条腿向后抬起，一只爪子摸着后脑勺，另一只爪子向外伸展，仿佛在展示墙上的画作。在右侧墙面上，展示一幅巨大的黑色手绘草图，画的是同一只老虎，采用随性的铅笔/马克笔涂鸦风格，双臂举起跳跃，有着大大的闪亮眼睛、张开的兴奋嘴巴、卷曲的条纹尾巴以及充满活力的运动线条。在草图周围添加 9 个小涂鸦装饰：2 个爱心、2 个闪耀星形、4 个短促的感叹号/放射线标记，以及尾巴附近 1 个弯曲的运动标记。场景为极简主义的米白色内墙，配有白色踢脚线和浅色木地板，温暖的斜射阳光在墙面和地板上投下柔和的阴影。采用 1:1 正方形构图，低机位视角，可爱的病毒式缩略图美学，高细节，触感真实的毛发，皮克斯风格的魅力与逼真光影相结合，背景干净，无文字，无水印。
+
+[English]
+Create a photorealistic cute mascot thumbnail image of {argument name="character species" default="a baby tiger cub"} standing in a sunlit room beside a wall drawing of itself. The main character is a plush-like 3D animated orange tiger cub with soft fluffy fur, black stripes, cream muzzle and belly, oversized glossy blue eyes, small rounded ears, thick eyebrows, a tiny brown nose, and an open happy smile. It poses playfully on one foot with the other leg lifted behind it, one paw touching the back of its head and the other paw extended outward as if presenting the drawing. On the wall to the right, show exactly one large black hand-drawn sketch version of the same tiger, in loose pencil/marker doodle style, jumping with both arms raised, big sparkling eyes, open excited mouth, curled striped tail, and energetic motion lines. Add exactly 9 small doodle accents around the sketch: 2 hearts, 2 sparkle stars, 4 short exclamation/radiating line marks, and 1 curved motion mark near the tail. The setting is a minimalist beige-white interior wall with a white baseboard and light wooden floor, warm diagonal sunlight casting soft shadows across the wall and floor. Use a square 1:1 composition, low eye-level camera, adorable viral thumbnail aesthetic, high detail, tactile fur, Pixar-like charm blended with realistic lighting, clean background, no text, no watermark.
+```
+
+**来源：** [@トライガー｜話題のAIを試す](https://x.com/tryger_ai/status/2082128696245440939) | 2026-07-28
+
+---
+
+### 🧸 例 5202：赛博故障风格肖像
+
+![赛博故障风格肖像](../images/%E8%B5%9B%E5%8D%9A%E6%95%85%E9%9A%9C%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+赛博故障，{argument name="服装" default="粉红短上衣"}，深豆沙唇，{argument name="发型" default="古装发型"}，纯白无缝棚，护臂近脸，单手托腮，双食物玩偶，{argument name="情绪" default="惆怅"}，金棕，灰雾柔焦雾化
+```
+
+**来源：** [@南鸢 nuyoah](https://x.com/nanyuan0412/status/2082118163060441158) | 2026-07-28
+
+---
+
+### 🧸 例 5279：头顶兔子玩偶的时尚人像
+
+![头顶兔子玩偶的时尚人像](../images/%E5%A4%B4%E9%A1%B6%E5%85%94%E5%AD%90%E7%8E%A9%E5%81%B6%E7%9A%84%E6%97%B6%E5%B0%9A%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="うさぎを乗せた日"}
+
+主体：
+淡いピンクの{argument name="動物" default="うさぎ"}雑貨に囲まれた店内で、成熟した雰囲気の成人女性が画面中央に立つ縦構図。人物は頭頂から太もも上部まで写り、画面全体の約7割を占める。頭の上には小さな垂れ耳うさぎのぬいぐるみを乗せ、片手でそっと支えている。
+
+人物・表情：
+自然で現実感のある端正な顔立ち。ダークブラウンの髪をゆるくまとめ、薄い前髪と顔まわりの後れ毛を残す。瞳はやや大きめだが過度に誇張せず、カメラをまっすぐ見つめる。眉と口元は穏やかで、ほんの少し微笑む落ち着いた表情。ローズベージュのリップ、柔らかなブラウン系アイメイク、頬に自然な血色。
+
+服装・ポーズ：
+{argument name="服の色" default="マスタードイエロー"}の深めVネックリブトップス。身体に自然に沿うシルエットで、成熟した女性らしい立体感を持たせる。アイボリーの毛足が長いニットカーディガンを肩からゆるく落とし、白いハイウエストショートパンツを合わせる。人物自身の右腕を頭上へ曲げ、指先でぬいぐるみの耳付近を軽く支える。左腕は身体の前へ下ろし、左手をパンツのウエスト付近に添える。腰をわずかに画面左へ傾け、上半身は正面、重心は片脚に置く。
+
+背景・光：
+木製棚が並ぶ、温かみのあるうさぎモチーフの雑貨店。前景と背景に、白や淡いピンクの垂れ耳うさぎのぬいぐるみ、透明ケース、ギフトボックス、小物を配置する。棚の商品は密度を保ちながらも人物の輪郭を邪魔しない。右奥の窓から暖かな自然光が差し込み、顔の右側、肩、鎖骨、髪に柔らかなハイライトを作る。反対側には木棚からの淡い反射光。背景の札やパッケージ文字は小さくぼけた読めない表示にする。
+
+構図・カメラ：
+縦長2:3。カメラは胸の高さに近い平視で、わずかに上向き。人物は中央やや右、頭上に狭めの余白、左右にはうさぎ雑貨が見える程度の余白を残す。右腕の曲線が左上から頭部へ視線を導き、頭上のぬいぐるみを第二の焦点にする。50mm前後の自然な画角。顔と上半身に明確にピントを合わせ、背景は軽くぼかす。
+
+質感・スタイル：
+上品で明るいファッションポートレート写真。肌は滑らかすぎず、細かな肌理と自然な陰影を残す。ニットの毛足、リブ生地、ぬいぐるみの柔らかな毛並みを丁寧に表現。全体はクリーム、マスタード、ペールピンクを中心にした暖色調。低コントラストで柔らかく、雑誌写真のような清潔感と実在感。
+
+ネガティブ：
+幼く見える人物、不自然な胸部、過度な露出、不自然な顔、左右非対称の目、余分な指、欠けた指、手首や肘の破綻、ぬいぐるみとの接触不良、浮遊、衣服の融合、不自然な重力、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2081940709209448501) | 2026-07-28
+
+---
+
+### 🧸 例 5292：虹彩泡泡发型半身像
+
+![虹彩泡泡发型半身像](../images/%E8%99%B9%E5%BD%A9%E6%B3%A1%E6%B3%A1%E5%8F%91%E5%9E%8B%E5%8D%8A%E8%BA%AB%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的 3D 数字艺术半身像，主角为一位宁静的少女或玩偶般的女性角色，居中置于纯白色背景上。人物呈现胸部以上视角，呈四分之三侧面朝向左侧，下巴微抬，双眼向上凝视，仿佛在注视上方不可见之物。采用平滑的粘土雕塑风格，具有柔和的次表面散射阴影、圆润的形态，且无硬轮廓线。面部拥有大杏眼（无虹膜细节）、小鼻子、柔和的嘴唇、圆润的脸颊，表情平静而沉思。发型由 7 个巨大的圆润泡泡状发束组成：左上方一个高发束、顶部一个中心发束、前额横向一个发束、右上方一个发束、左侧一个长垂直发束、右侧一个长垂直发束，以及头部后方可见的一个右侧发束。身着简约风格上衣，带有宽大的圆领圈和 2 个短卷袖，以胸部下方裁剪的半身雕塑形式呈现。在整个人物上应用虹彩柔和的彩虹渐变，将饱和的粉色、洋红色、紫色、青色、水蓝色、柔蓝色、薄荷绿、桃色和橙色融合在皮肤、头发和服装上，配合柔和的摄影棚灯光和光泽哑光塑料质感。背景保持纯白并留有充足的空白，无道具、无场景，除右下角的小型艺术家签名和日期外无任何文字，日期显示为 {argument name="date text" default="2026 年 7 月 28 日"}，签名显示为 {argument name="signature text" default="Oyagi"}。采用竖向肖像构图，精致的生成式 3D 渲染，梦幻般的未来主义可爱雕塑美学，高分辨率。
+
+[English]
+Create a clean 3D digital art bust portrait of a serene young girl or doll-like feminine character, centered on a pure white background. The figure is shown from the chest up, facing slightly left in a three-quarter view with her chin lifted and eyes gazing upward as if looking at something invisible above. Use a smooth clay-like sculptural style with soft subsurface shading, rounded forms, and no hard outlines. Her face has large almond eyes without detailed irises, a small nose, soft lips, rounded cheeks, and a calm, contemplative expression. Give her voluminous hair made from exactly 7 large rounded bubble-like lobes: one tall lobe on the upper left side, one central top lobe, one horizontal front lobe across the forehead, one right-side upper lobe, one long left-side vertical lobe, one long right-side vertical lobe, and one rear right lobe partly visible behind the head. Dress her in a simple stylized top with a wide rounded collar ring and exactly 2 short rolled sleeves, visible as a bust sculpture cropped at the lower chest. Apply an iridescent pastel rainbow gradient over the entire character, blending saturated pink, magenta, violet, cyan, aqua, soft blue, mint green, peach, and orange across skin, hair, and clothing, with gentle studio lighting and a glossy matte-plastic finish. Keep the background blank white with generous margins, no props, no scenery, no text except a small artist-style signature and date in the bottom right reading {argument name="date text" default="July 28, 2026"} and {argument name="signature text" default="Oyagi"}. Use a vertical portrait composition, polished generative 3D render, dreamy futuristic kawaii sculpture aesthetic, high resolution.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081911662744101050) | 2026-07-28
+
+---
+
+### 🧸 例 5296：彩虹粘土动漫少女肖像
+
+![彩虹粘土动漫少女肖像](../images/%E5%BD%A9%E8%99%B9%E7%B2%98%E5%9C%9F%E5%8A%A8%E6%BC%AB%E5%B0%91%E5%A5%B3%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张干净的 2:3 纵向肖像插画，主体为纯白背景下的风格化 3D 动漫少女半身像，采用平滑粘土或软乙烯基材质渲染，并带有发光的彩虹渐变效果。角色 {argument name="character name" default="Oyagi"} 以胸部以上视角呈现，呈四分之三侧身姿势面向左侧，头部微微转向观众，表情平静、疏离且无神。她拥有类似玩偶的面孔，特征简化，杏仁状的眼睛没有瞳孔，鼻子小巧，嘴唇紧闭。她的头发由 6 个巨大的圆形垂坠部分组成：左侧垂下一长段，前额扫过一大片刘海，右上方有一小段圆形刘海，脑后有一段后冠部分，右侧有一段垂直部分，最右侧有一段锥形部分。她穿着一件简单的短袖 T 恤，前景可见一个明显的卷边袖口，肩膀圆润，带有柔软的雕塑感褶皱。在整个形象上应用无缝的彩虹色柔和渐变，融合了亮粉色、珊瑚色、橙色、黄色、薄荷绿、青色、蓝色、紫色和洋红色，并带有柔和的次表面散射光感，没有硬轮廓线。使用柔和的影棚灯光，阴影平滑，具备高分辨率 3D 渲染质量，构图居中，留有充足的白色负空间。在右下角添加一个小巧的手写签名和日期，内容为 {argument name="date text" default="July 28, 2026"}，位于 {argument name="signature text" default="Oyagi"} 上方。除日期和签名外，避免添加额外的物体、场景、边框或水印。
+
+[English]
+Create a clean vertical 2:3 portrait illustration of a stylized 3D anime-inspired girl bust on a pure white background, rendered like a smooth clay/vinyl figurine with soft subsurface scattering and no outlines. The character is {argument name="character type" default="a young girl with large blank almond eyes and a calm, slightly distant expression"}, shown from the upper torso up in a three-quarter pose, body turned left while the head looks slightly back over the shoulder toward the viewer. She has rounded, plush, petal-like hair sections resembling soft floppy ears: one large oval lock draped over the forehead, two long side locks hanging down, and smaller rounded locks on the crown and right side. Her facial features are minimal and doll-like: smooth cheeks, small nose, tiny closed lips, no visible eyebrows, pupil-less eyes. She wears {argument name="outfit" default="a simple oversized short-sleeve T-shirt with thick rolled sleeves"}. Cover the entire character with a seamless iridescent rainbow gradient material, blending saturated hot pink, coral orange, lemon yellow, mint green, cyan, cobalt blue, and violet across the face, hair, shirt, and arms, with soft transitions and gentle studio lighting. Composition should crop just below the chest and upper arm, leaving generous white negative space, with the figure centered slightly left and the head near the top. Add a small handwritten-style signature and date in the bottom-right corner reading {argument name="signature text" default="Oyagi"} and {argument name="date text" default="July 28, 2026"}. Use high-resolution, polished 3D render aesthetics, matte-satin surface, pastel neon color bloom, soft shadows only, no extra objects, no border, no watermark beyond the signature.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2081907471174787253) | 2026-07-28
+
+---
+

@@ -23441,3 +23441,491 @@ Constraints: Preserve the exact counted objects and poster layout, avoid extra l
 
 ---
 
+### 🎴 例 5193：CR7 葡萄牙球星星芒海报
+
+![CR7 葡萄牙球星星芒海报](../images/CR7%20%E8%91%A1%E8%90%84%E7%89%99%E7%90%83%E6%98%9F%E6%98%9F%E8%8A%92%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张极具戏剧性的方形体育海报，以 {argument name="football player" default="Cristiano Ronaldo"} 作为标志性的葡萄牙国家队传奇人物。画面构图包含同一球员的两个形象：上方中央为一个大型英雄式半身肖像，胸部以上构图，神情严肃坚定，目光微仰；下方中央为一个全身动作形象，正带球向观众方向冲刺，足球位于底部边缘附近，带有模糊效果。球员留着黑色短发，面部轮廓硬朗，皮肤纹理真实，带有汗水高光，体格健壮。身穿葡萄牙风格的红色主场球衣、绿色短裤、红色球袜和足球鞋，胸前和短裤上清晰可见 {argument name="jersey number" default="7"} 号，手臂上佩戴队长袖标。背景使用爆炸性的放射状星芒效果，从奔跑球员的上半身背后向四周扩散，由数百道红、洋红、橙、蓝、绿、白、紫色的多色光轨组成，如同超空间运动轨迹与体育场火花交织。整体风格高对比度、电影感、光泽感、颗粒感且充满活力，具有锐利的海报灯光、强烈的轮廓光、球体与肢体的运动模糊，以及跑者脚下深色的纹理草坪。包含三个小型排版区域：左上角为大型粗体故障风格白色文字，内容为 {argument name="main title" default="CR7"}；上方中部为细体间距副标题行，内容为 {argument name="upper subtitle" default="ICON    PORTUGAL"}；左下角为小型间距文字，内容为 {argument name="lower caption" default="LEGEND IN MOTION"}。保持文字简洁并与海报融为一体，辅以细水平引导线。画面中不得出现其他球员、观众、除球衣细节外的标志、水印或边框。
+
+[English]
+Create a dramatic square sports poster featuring {argument name="football player" default="Cristiano Ronaldo"} as an iconic Portugal national team legend. The composition contains exactly two depictions of the same player: one large heroic bust portrait in the upper center, cropped at the chest, looking slightly upward with a serious determined expression; and one full-body action figure in the lower center sprinting forward toward the viewer while dribbling exactly one blurred soccer ball near the bottom edge. The player has short black hair, sharp rugged facial structure, realistic skin texture, sweat highlights, and an athletic muscular build. Dress him in a Portugal-style red home jersey, green shorts, red socks, and football boots, with the number {argument name="jersey number" default="7"} clearly visible on the chest and on the shorts, plus a captain armband on one arm. Use an explosive radial starburst background that starts behind the running player’s upper body and expands outward to all edges, made of hundreds of multicolored light trails in red, magenta, orange, blue, green, white, and purple, like hyperspace motion streaks mixed with stadium sparks. The overall look is high-contrast, cinematic, glossy, gritty, and energetic, with sharp poster lighting, strong rim light, motion blur on the ball and limbs, and a dark textured pitch under the runner. Include exactly three small typography areas: large bold glitch-style white text on the upper left reading {argument name="main title" default="CR7"}; a thin spaced subtitle line split across the upper middle reading {argument name="upper subtitle" default="ICON    PORTUGAL"}; and small spaced text near the lower left reading {argument name="lower caption" default="LEGEND IN MOTION"}. Keep the text minimal and integrated into the poster with thin horizontal guide lines. No extra players, no crowd, no logos beyond subtle kit-style details, no watermark, no frame border.
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2082144376336298056) | 2026-07-28
+
+---
+
+### 🎴 例 5220：红色新年倒计时海报
+
+![红色新年倒计时海报](../images/%E7%BA%A2%E8%89%B2%E6%96%B0%E5%B9%B4%E5%80%92%E8%AE%A1%E6%97%B6%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张极简主义商业新年倒计时海报，采用高级剪纸美学，中心为一个巨大的浮雕倒计时数字 {argument name="countdown number" default="1"}。
+
+画布：竖版海报，3:4 比例，暖米白色纸质背景，带有细腻的纹理和柔和的摄影棚阴影。
+
+布局：在画布中心放置一张巨大的圆角红色卡片，占据海报大部分空间。卡片底部中心有一个类似对话气泡标记的小向下尖角，并在背景上投下柔和的投影。在卡片右上角外侧添加一个小红色八角星装饰。在卡片左下角外侧添加一行微小的设计师署名。
+
+主卡片：使用富有节日气息的红色纸张纹理，带有轻微的色调渐变和触感颗粒。在卡片顶部中心，设置小巧且字间距较宽的白色大写文字：“NEW YEAR COUNTDOWN”。在中心位置，创建一个巨大的雕刻数字 {argument name="countdown number" default="1"}，采用同色系红色，通过斜角、内阴影和细腻的高光嵌入/浮雕在卡片中，呈现出干净的 3D 纸质浮雕效果。
+
+卡片左下方的文字内容：添加两行加粗的白色中文标题：“新年倒计时”和“最后 {argument name="days left text" default="1 天"}”。在下方绘制一条细水平分割线。在分割线下方，创建 3 个带有白色轮廓图标和紧凑标签的小信息项：1) 日历图标，标注“跨年时刻”和“12.31 24:00”；2) 地图定位图标，标注“地点”和“世界各地”；3) 爱心图标，标注“一起迎接”和“2025”。在这些项目下方，添加简短的中文标语“新岁将至，万事可期，所愿皆成真。”，并在其下方添加字间距较宽的大写英文“HAPPY NEW YEAR”。
+
+卡片外的设计师署名：在米白色背景的左下角，使用微小的柔和红色文字书写“Designed by”，后接手写体签名 {argument name="designer name" default="Sunline"}，再接“| 2024”。
+
+视觉风格：现代中国商业海报，干净的排版，节日氛围但克制，单色红底浮雕，逼真的纸张材质，柔和的阴影，高分辨率印刷设计，平衡的留白。
+
+约束：保持仅有一个巨大的数字、一张红色卡片、一个八角星装饰以及 3 个信息项。不要添加额外的 Logo、人物、烟花、彩带或额外的数字。
+
+[English]
+Goal: Create a minimalist commercial New Year countdown poster with a premium paper-cut aesthetic, centered on a huge embossed countdown number {argument name="countdown number" default="1"}.
+
+Canvas: Vertical poster, 3:4 aspect ratio, warm off-white paper background with subtle grain and soft studio shadows.
+
+Layout: Place a large rounded-corner red card centered on the canvas, occupying most of the poster. The card has a small downward pointed tab/notch at the bottom center like a speech-bubble marker, plus soft drop shadow against the background. Add one small red eight-point starburst decoration near the top-right outside the card. At the bottom-left outside the card, add a tiny designer credit line.
+
+Main card: Use a rich festive red paper texture with slight tonal gradients and tactile surface grain. At the top center of the card, set small widely spaced white uppercase text: “NEW YEAR COUNTDOWN”. In the center, create an enormous sculpted numeral {argument name="countdown number" default="1"}, tone-on-tone red, recessed/embossed into the card with bevels, inner shadows, and subtle highlights, giving a clean 3D paper relief effect.
+
+Text content on the lower-left of the card: Add bold white Chinese headline text in two lines: “新年倒计时” and “最后 {argument name="days left text" default="1 天"}”. Below it, draw a thin horizontal divider. Under the divider, create exactly 3 small information items with white outline icons and compact labels: 1) calendar icon with “跨年时刻” and “12.31 24:00”; 2) map pin icon with “地点” and “世界各地”; 3) heart icon with “一起迎接” and “2025”. Beneath these items, add the small Chinese slogan “新岁将至，万事可期，所愿皆成真。” and below that widely spaced uppercase English text “HAPPY NEW YEAR”.
+
+Designer credit outside the card: Bottom-left on the off-white background, small muted red text reading “Designed by” followed by a handwritten script signature {argument name="designer name" default="Sunline"}, then “| 2024”.
+
+Visual style: Modern Chinese commercial poster, clean editorial typography, festive but restrained, monochrome red-on-red relief, realistic paper material, soft shadows, high-resolution print design, balanced negative space.
+
+Constraints: Keep exactly one giant numeral, exactly one red card, exactly one starburst, and exactly 3 info items. Do not add extra logos, people, fireworks, confetti, or additional numbers.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082075949378756901) | 2026-07-28
+
+---
+
+### 🎴 例 5224：奢华瑞士腕表商业广告
+
+![奢华瑞士腕表商业广告](../images/%E5%A5%A2%E5%8D%8E%E7%91%9E%E5%A3%AB%E8%85%95%E8%A1%A8%E5%95%86%E4%B8%9A%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，展示一款超大号高端奢华 {argument name="watch type" default="瑞士机械表"}，配有精致的镂空表盘、抛光玫瑰金表壳、蓝宝石水晶镜面、精细皮革表带细节以及闪亮的金属质感，设计极其简洁。一位身着优雅全白套装的时尚年轻女性随性地倚靠在巨大的腕表旁，手指轻轻捏住表冠，姿态放松自信，双眼微闭。柔和的渐变 {argument name="background color" default="深祖母绿"} 背景，后方配有醒目的大号白色“WATCH”字样。光亮的反光地面，高级摄影棚灯光，奢华产品摄影，超写实，8K 分辨率。右上角小字“Designed by Mr Das”。底部中央小号白色字体标语：“Time refined beautifully.”
+
+[English]
+Minimalist commercial ad featuring an oversized premium luxury {argument name="watch type" default="Swiss mechanical watch"} with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient {argument name="background color" default="deep emerald-green"} background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2082067804472360967) | 2026-07-28
+
+---
+
+### 🎴 例 5228：复古吉祥物探索者档案海报
+
+![复古吉祥物探索者档案海报](../images/%E5%A4%8D%E5%8F%A4%E5%90%89%E7%A5%A5%E7%89%A9%E6%8E%A2%E7%B4%A2%E8%80%85%E6%A1%A3%E6%A1%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为名为 {argument name="character name" default="Rafalors"} 的可爱 3D 吉祥物主角创作一张 9:16 竖版收藏级档案海报，风格仿照深海军蓝/黑色混凝土或新闻纸上的陈旧档案卡。
+
+画布：高竖版海报，深海军蓝黑色背景，带有磨损的米色油墨、厚重的胶片颗粒、细微划痕、折痕、磨损的边角、灰尘、地面附近的烟雾感、微妙的暗角，整体呈现出破旧的印刷质感。
+
+主体：中心位置为一只全身小型棕色水獭/熊类探索者吉祥物，采用高质量 3D 玩具渲染，以低角度四分之三英雄视角呈现。角色拥有圆滚滚的肚子、短小的四肢、柔软的棕色皮毛、巨大的奶油金色双眼、小巧的黑色鼻子、微嘟的小嘴，表情勇敢而天真。姿势：重心在后脚，左手叉腰，右臂伸展，垂直握着一张红橙色票据。服装包含 4 个明确部件：一顶反戴的浅米色棒球帽（带有紫色侧/后片和紫色调节带）、一条在颈部系结并向左剧烈飘动的发光半透明金色围巾/披风、紫色高帮运动鞋（配米色鞋底和鞋带），以及那张带有白色小徽章的红橙色神秘票据。增加来自发光围巾和票据的温暖金色轮廓光，伴有火花和尘埃颗粒。
+
+布局与图形元素：采用粗犷的复古档案构图，结合非对称排版和细线条技术框。包含 8 个主要的文字/图形区域：1) 左上角标题块，写有“FUGZ”以及下方的“[1] DOSSIER”和条形码；2) 左侧边缘巨大的、做旧的竖排米色文字“RAFALORS”，部分被裁剪；3) 左上方中心附近的一列窄竖排日语文字；4) 右上角版本块，写有“No. 1”及下方的日语小字；5) 右上方两个堆叠的轮廓标签框，分别写有日语文字加“EXPLORER”和日语文字加“TICKET HOLDER”；6) 右侧档案引言卡，写有“DOSSIER // Rafalors”以及“A TICKET IN HAND. A DESTINY UNKNOWN. A LEGEND IN MOTION.”，配有日语短句和瞄准准星；7) 左下角主体资料卡，包含该角色的线条草图、英文描述文本、日语名称、“#0001”及条形码；8) 右下角圆形档案印章，写有“FUGZ ARCHIVE DIVISION”和“RECORD. PRESERVE. INSPIRE.”，中心带有火焰图标。此外，在角色右下方的背景中添加巨大的深色做旧日语字符。
+
+排版与风格：粗体压缩工业无衬线字体，海军蓝底色上的米色油墨，风化的凸版印刷边缘，细线条 UI 框，条形码细节，档案文件美学，电影级收藏海报氛围。保持主角明亮且渲染清晰，同时背景排版呈现褪色和破旧感。
+
+自定义文本：使用主引言 {argument name="quote" default="A TICKET IN HAND. A DESTINY UNKNOWN. A LEGEND IN MOTION."}；使用顶部标题 {argument name="series title" default="FUGZ"}；使用期号 {argument name="issue number" default="No. 1"}；使用角色皮毛颜色 {argument name="fur color" default="warm dark brown"}。
+
+约束条件：9:16 纵横比，无写实人类，无额外角色，无额外票据，无干净的现代背景，保留陈旧的混凝土/新闻纸质感、划痕、折痕和收藏级档案布局。
+
+[English]
+Goal: Create a 9:16 vertical collector dossier poster for a cute 3D mascot hero named {argument name="character name" default="Rafalors"}, styled like an aged archive card on dark navy-black concrete/newsprint.
+
+Canvas: Tall vertical poster, deep navy-black background with worn beige ink, heavy film grain, fine scratches, fold creases, scuffed corners, dust, smoky haze near the ground, subtle vignette, distressed print texture throughout.
+
+Main subject: Center a full-body small brown otter/bear-like explorer mascot in high-quality 3D toy rendering, seen from a low three-quarter hero angle. The character has a round belly, short limbs, soft brown fur, huge cream-and-gold eyes, tiny black nose, small puckered mouth, and a brave innocent expression. Pose: weight on the back foot, left hand on hip, right arm extended holding one red-orange ticket upright. Outfit has exactly 4 visible pieces: a backward light beige baseball cap with purple side/back panels and purple strap, a glowing translucent golden scarf/cape tied at the neck and blowing dramatically to the left, purple high-top sneakers with beige soles and laces, and the red-orange mystery ticket with a small white emblem. Add warm golden rim light from the glowing scarf and ticket, with sparks and dust particles.
+
+Layout and graphic elements: Use a gritty vintage dossier composition with asymmetrical typography and thin technical line boxes. Include exactly 8 main poster text/graphic areas: 1) top-left title block reading “FUGZ” with “[1] DOSSIER” and a barcode beneath; 2) enormous distressed vertical beige word “RAFALORS” running down the left edge, partially cropped; 3) a narrow vertical Japanese text column near upper left of center; 4) top-right edition block reading “No. 1” with small Japanese text beneath; 5) two stacked outlined label boxes on the upper right reading Japanese text plus “EXPLORER” and Japanese text plus “TICKET HOLDER”; 6) a right-side dossier quote card reading “DOSSIER // Rafalors” and “A TICKET IN HAND. A DESTINY UNKNOWN. A LEGEND IN MOTION.” with small Japanese lines and a target reticle; 7) bottom-left subject profile card with a small line-art sketch of the same character, English description text, Japanese name, “#0001”, and a barcode; 8) bottom-right circular archive seal reading “FUGZ ARCHIVE DIVISION” and “RECORD. PRESERVE. INSPIRE.” with a flame icon in the center. Also add large dark distressed Japanese characters behind the character on the lower right.
+
+Typography and style: Bold condensed industrial sans-serif type, beige ink on navy, weathered letterpress edges, thin outlined UI boxes, barcode details, archive-file aesthetics, cinematic collectible poster mood. Keep the main character bright and sharply rendered while the background typography is faded and distressed.
+
+Custom text: Use the main quote {argument name="quote" default="A TICKET IN HAND. A DESTINY UNKNOWN. A LEGEND IN MOTION."}; use top title {argument name="series title" default="FUGZ"}; use issue number {argument name="issue number" default="No. 1"}; use character fur color {argument name="fur color" default="warm dark brown"}.
+
+Constraints: 9:16 aspect ratio, no photoreal human, no extra characters, no extra tickets, no clean modern background, preserve the aged concrete/newsprint texture, scratches, creases, and collector-dossier layout.
+```
+
+**来源：** [@RafaSimon](https://x.com/rafalors/status/2082057410525728848) | 2026-07-28
+
+---
+
+### 🎴 例 5233：韩式惊悚片《西瓜》海报
+
+![韩式惊悚片《西瓜》海报](../images/%E9%9F%A9%E5%BC%8F%E6%83%8A%E6%82%9A%E7%89%87%E3%80%8A%E8%A5%BF%E7%93%9C%E3%80%8B%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="movie title" default="スイカ割り"} 创作一张暗黑风格的韩式悬疑电影海报，描绘海滩上阴森的“劈西瓜”场景。
+
+画布：垂直 2:3 电影海报比例，约 768×1152。采用忧郁的青灰色调，低对比度，胶片颗粒感，浅景深，呈现 Netflix 风格的韩式惊悚氛围。
+
+主体：一位年轻的东亚女性赤脚站在沙滩上，全身可见，位置略微偏左。她身穿一件湿漉漉、修身的白色无袖吊带裙，带有褶皱设计和高开叉。她的一头黑发湿乱。双眼被一块白布蒙住。她双手举起一根长木棍或球棒过右肩，定格在紧张的挥动姿势中。
+
+前景物体：共 2 个主要前景物品：1 个圆形的绿色条纹西瓜，位于底部中心附近，放置在铺在沙滩上的 1 张半透明塑料布上。西瓜保持完整，灯光阴森，距离女子的双脚稍有一段距离。
+
+背景：暴风雨过后的阴天，乌云密布，身后海浪翻滚，远处是暗沉的海岸线和低矮的山丘。海滩色调柔和且去饱和，营造出风雨欲来的潮湿感。画面中没有人群、多余的人物或清晰的建筑物。
+
+排版与可见文字：海报上需包含 4 个文本元素：1) 顶部极小的红色制片厂名称 {argument name="studio name" default="Jet Cap Cinemas"}；2) 主标题上方较小的罗马拼音标题 {argument name="romanized title" default="Suikawari"}；3) 中下部醒目的白色日文主标题 {argument name="Japanese title" default="スイカ割り"}；4) 其下方较小的白色韩文副标题 {argument name="Korean subtitle" default="수박 깨기"}。顶部和罗马拼音文字使用优雅的衬线字体，主标题使用粗犷的笔刷风格日文字体，副标题使用简洁的韩文无衬线或衬线字体。所有文字居中对齐，并像电影海报一样自然融合。
+
+光影与风格：自然主义电影摄影，戏剧性的侧光，阴郁的悬疑氛围，微妙的暗角，逼真的皮肤和织物纹理，做旧的木棍，湿润的沙滩细节，青色阴影与苍白高光。画面应呈现出严肃的心理惊悚片质感，而非喜剧或运动场景。
+
+约束条件：画面中仅限 1 个人物、1 根木棍、1 个西瓜、1 张塑料布和 4 个可见文本元素。请勿添加血迹、暴力元素、Logo、分级标志、演职员表、额外字幕或水印。
+
+[English]
+Goal: Create a dark Korean suspense movie poster for {argument name="movie title" default="スイカ割り"}, depicting a sinister beach version of watermelon splitting.
+
+Canvas: Vertical 2:3 cinematic poster, about 768×1152. Moody teal-gray color grade, low contrast, film grain, shallow depth of field, Netflix-style Korean thriller atmosphere.
+
+Main subject: One young East Asian woman stands barefoot on a sandy beach, full body visible, centered slightly left. She wears a wet, clingy, sleeveless white slip dress with ruched fabric and a thigh slit. Her long black hair is damp and messy. Her eyes are covered with a white cloth blindfold. She holds one long wooden bat or club with both hands raised over her right shoulder, frozen mid-swing in a tense athletic pose.
+
+Foreground objects: Exactly 2 main foreground items: 1 round green striped watermelon centered near the bottom, sitting on 1 translucent plastic sheet spread across the sand. The watermelon is intact, ominously lit, and slightly out from the woman’s feet.
+
+Background: Stormy overcast sky with heavy gray clouds, ocean waves rolling behind her, distant dark coastline and low hills on the horizon. Beach is muted and desaturated, with wind and dampness implied. No crowds, no extra people, no buildings in focus.
+
+Typography and visible text: Include exactly 4 text elements on the poster: 1) small red studio text at the very top reading {argument name="studio name" default="Jet Cap Cinemas"}; 2) small spaced Romanized title above the main title reading {argument name="romanized title" default="Suikawari"}; 3) large white Japanese main title across the lower middle reading {argument name="Japanese title" default="スイカ割り"}; 4) smaller white Korean subtitle beneath it reading {argument name="Korean subtitle" default="수박 깨기"}. Use elegant serif typography for the top and Romanized text, large bold brushlike Japanese lettering for the main title, and clean Korean sans-serif or serif subtitle. Keep all text centered and integrated like a theatrical poster.
+
+Lighting and style: Naturalistic cinematic photography, dramatic side lighting, gloomy suspense mood, subtle vignette, realistic skin and fabric texture, weathered wooden bat, wet sand detail, muted teal shadows and pale highlights. The image should feel like a serious psychological thriller poster rather than a comedy or sports scene.
+
+Constraints: Use exactly 1 person, 1 bat, 1 watermelon, 1 plastic sheet, and 4 visible text elements. Do not add blood, gore, logos, ratings boxes, credits blocks, extra subtitles, or watermarks.
+```
+
+**来源：** [@JetCapBoy](https://x.com/JetCapBoy/status/2082038232217469060) | 2026-07-28
+
+---
+
+### 🎴 例 5238：未来感月食美妆封面
+
+![未来感月食美妆封面](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E6%9C%88%E9%A3%9F%E7%BE%8E%E5%A6%86%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="series theme" default="Eclipse Silver Wing"} 创建一张垂直构图的前卫未来感美妆杂志封面，呈现高定中性美妆人像，结合月食灯光、饱和的紫蓝色阴影以及金属质感的编辑风格。
+
+画布：9:16 垂直海报，深午夜靛蓝色背景，光泽感时尚杂志封面构图，主体居中，采用紧凑的胸部以上特写。使用戏剧性的高对比度美妆布光，一道温暖的橙色新月形月食光束垂直落在额头、鼻子、嘴唇和下巴上，与冷蓝紫色的轮廓光形成对比。
+
+主体：一位年轻的中性模特，肤色苍白发光，短而凌乱的银灰色头发向上梳起，眉形锋利，烟熏闪光眼妆，灰蓝色玻璃质感双眼，深酒红色亮面唇妆，眼下有反光闪粉点缀。表情冷静、疏离且带有一丝空灵感，微张双唇直视镜头。头部略微后仰，并向观众左侧微微转动。
+
+时尚与配饰：黑色亮面漆皮高领夹克或雕塑感衣领，未来感暗黑风格，细银链垂在胸前。在模特右侧耳部附近，添加一个大型水晶花朵与羽翼头饰：半透明紫色水晶花瓣，锋利的金属虹彩羽毛叶片向外延伸，悬挂的珠链，以及小型透明几何水晶吊坠。在下颌和颈部附近添加一条淡淡的透明弧形面罩状条纹，营造科幻美妆效果。
+
+排版与字体：设计为奢华中式时尚杂志封面，采用优雅的衬线字体，淡薰衣草白色文字，顶部附近有细横分割线。包含 8 组可见文本：1) 左上角刊头“JustHer”，配有中文系列文字和小型英文副标题“FUTURISTIC BEAUTY SERIES”；2) 右上角限量主题的中文标签；3) 左侧巨大的中文字符“月”；4) 居中的大标题“ECLIPSE”；5) 右侧巨大的中文字符“蚀”；6) 左下角小型编辑文案，包含英文行“ETHEREAL BEAUTY IN THE SHADOW”以及两行中文短语；7) 右下角堆叠的小型英文文案“FALL INTO THE MOONLIGHT”；8) 底部居中的专题文字，包含中文标题“光与暗的临界”和英文副标题“LIMITED EDITION”。标题文字应清晰、通透且具有杂志感，大号中文字符需环绕面部。
+
+视觉风格：超写实美妆摄影与未来感编辑设计相结合，高饱和度紫蓝色调，电影感阴影，镜面高光，闪光质感，玻璃水晶折射，忧郁的月球氛围，高级杂志封面质感。使用浅景深，皮肤、头发、水晶和漆皮表面细节极其丰富。
+
+约束条件：无额外人物，除虚构杂志刊头外无其他 Logo，无条形码，无水印。保持封面整洁对称，保留 8 组文本的精确数量，确保所有排版清晰可辨，同时允许部分中文标题元素进行超大化装饰处理。
+
+[English]
+Goal: Create a vertical avant-garde futuristic beauty magazine cover for {argument name="series theme" default="Eclipse Silver Wing"}, featuring a high-fashion androgynous beauty portrait with lunar eclipse lighting, saturated violet-blue shadows, and metallic editorial styling.
+
+Canvas: 9:16 vertical poster, dark midnight indigo background, glossy fashion magazine cover composition, subject centered in a tight chest-up portrait. Use dramatic high-contrast beauty lighting with a warm orange crescent-shaped eclipse beam falling vertically across the forehead, nose, lips, and chin, contrasted by cool blue and purple rim light.
+
+Main subject: A young androgynous model with pale luminous skin, short messy silver-gray hair swept upward, sharp brows, smoky shimmering eye makeup, glassy gray-blue eyes, glossy deep burgundy lips, and reflective glitter accents under the eyes. The expression is calm, distant, and slightly ethereal, looking directly at the viewer with parted lips. The head is slightly tilted back and turned subtly to the viewer’s left.
+
+Fashion and accessories: Black glossy patent-leather high-neck jacket or sculptural collar, futuristic dark styling, thin silver chains hanging down the chest. On the model’s right side near the ear, add one large crystalline flower-and-wing headpiece: translucent purple crystal petals, sharp metallic iridescent feather blades extending outward, dangling bead chains, and small clear geometric crystal pendants. Add a faint transparent curved visor-like strip near the jaw and neck for a sci-fi beauty effect.
+
+Layout and typography: Design as a luxury Chinese fashion magazine cover with elegant serif type, pale lavender-white text, and thin horizontal divider line near the top. Include exactly 8 visible text groups: 1) top left masthead “JustHer” with Chinese series text and small English subtitle “FUTURISTIC BEAUTY SERIES”; 2) top right Chinese label for the limited theme; 3) huge left Chinese character “月”; 4) large centered title “ECLIPSE”; 5) huge right Chinese character “蚀”; 6) small lower-left editorial copy with English lines “ETHEREAL BEAUTY IN THE SHADOW” plus a two-line Chinese phrase; 7) small lower-right stacked English copy “FALL INTO THE MOONLIGHT”; 8) bottom-center feature text with Chinese headline “光与暗的临界” and English subtitle “LIMITED EDITION”. The title text should feel crisp, airy, and magazine-like, with large Chinese characters framing the face.
+
+Visual style: Hyperrealistic beauty photography mixed with futuristic editorial design, high saturation purple-blue color grading, cinematic shadows, specular highlights, glitter texture, glass crystal refractions, moody lunar atmosphere, premium magazine-cover polish. Use shallow depth of field and extremely detailed skin, hair, crystal, and patent leather surfaces.
+
+Constraints: No extra people, no logos besides the fictional magazine masthead, no barcode, no watermark. Keep the cover clean and symmetrical, preserve the exact count of 8 text groups, and keep all typography legible while allowing some Chinese title elements to be oversized and decorative.
+```
+
+**来源：** [@设计师栀子](https://x.com/zhizi605/status/2082027322115530901) | 2026-07-28
+
+---
+
+### 🎴 例 5247：六格复古日式海报拼贴
+
+![六格复古日式海报拼贴](../images/%E5%85%AD%E6%A0%BC%E5%A4%8D%E5%8F%A4%E6%97%A5%E5%BC%8F%E6%B5%B7%E6%8A%A5%E6%8B%BC%E8%B4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个垂直 2 列 3 行的拼贴画，包含 6 个独立的插画面板，所有面板均采用统一的复古日式现代主义海报风格，具有扁平几何形状、硬边构图、有限的调色板、细腻的纸张纹理、墨水质感以及强烈的黑/米/红/橙色点缀。每个面板看起来都应像是共享相同视觉语言的独立生成艺术作品。
+
+画布：高长宽比的竖向画布，约为 675 × 1024 像素或 2:3 比例。面板之间使用细白间隙，并带有窄白色外边框。无标题、无标志、无水印。
+
+视觉风格：融合了 20 世纪中叶平面设计、日本版画、构成主义几何、装饰艺术海报构图以及当代动漫/社论插画。使用扁平化视角、块状形状、纹理纸张、柔和的米色背景、深黑色阴影、焦橙色、朱红色、板岩灰、炭灰色以及偶尔出现的深蓝色。细节保持风格化，而非写实。
+
+布局：排列 6 个面板：
+1. 左上角面板：一个几何风格的夜景，一只橙色袋鼠状动物直立站在一只灰色考拉状动物旁边，左上方有一轮米色满月，点缀着小星星/烟花圆点，背景为橙色、米色、黑色和灰色矩形网格。动物应呈现出棱角分明和折纸般的质感。
+2. 右上角面板：一位哥特动漫风格的黑发少女，留着长长的浅色头发，坐在废墟大教堂拱门前的石阶上。使用黑色、灰色、薰衣草色和亮洋红色点缀，露出一只红色的眼睛，营造出忧郁的废墟城市氛围。
+3. 左中面板：一位身着黑衣、留着长发的优雅人物斜倚着，脸旁拿着一把圆扇，周围环绕着红黑几何圆圈、网格、矩形和米色负空间。氛围慵懒而时尚。
+4. 右中面板：一位留着波波头、有着笔直黑刘海的苍白少女特写肖像，红色的眼睛，脸上带有红色小竖条纹，背景为黑白红抽象几何图形，包含圆圈和矩形块。
+5. 左下面板：一个极简主义的城市漫步场景，一个穿着长灰大衣的人牵着一只低矮、伸展的橙白色柯基犬。背景包括红色圆圈、黑色块、米色墙壁、楼梯和锐利的建筑几何结构。
+6. 右下面板：一位身着花纹和服的传统日本女性或艺伎的背影肖像，站在宝塔屋顶和灯笼前。包含明亮的蓝色天空、米色云朵以及大胆的黑色、红色、米色和棕褐色建筑形状。
+
+主题自定义：保持拼贴结构固定，但允许整体主题集被解读为 {argument name="theme" default="六个不相关的复古日式海报场景"}。使用 {argument name="main palette" default="米色、黑色、朱红色、焦橙色、炭灰色、深蓝色"}。将氛围设置为 {argument name="mood" default="时尚、神秘、怀旧、图形化"}。使用 {argument name="art style" default="带有动漫影响的复古日式现代主义海报插画"}。使图像适用于 {argument name="use case" default="在社交媒体上展示来自同一风格提示词的多种 GPT Image 2 输出"}。
+
+约束：正好 6 个面板，正好 2 列 3 行，艺术作品内无文字，无照片写实感，无额外面板，无浮动 UI，无框架标签。在所有 6 个面板中保持一致的纹理和设计语言，同时确保每个面板在视觉上各具特色。
+
+[English]
+Goal: Create a vertical 2-column by 3-row collage of exactly 6 separate illustration panels, all in a unified retro Japanese modernist poster style with flat geometric shapes, hard-edged composition, limited palettes, subtle paper grain, ink texture, and strong black/cream/red/orange accents. Each panel should look like a distinct generated artwork sharing the same visual language.
+
+Canvas: Tall portrait canvas, approximately 675 × 1024 px or 2:3 ratio. Use thin white gutters between panels and a narrow white outer border. No captions, no logos, no watermark.
+
+Visual style: A fusion of mid-century graphic design, Japanese printmaking, Constructivist geometry, art deco poster composition, and contemporary anime/editorial illustration. Use flattened perspective, blocky shapes, textured paper, muted cream backgrounds, deep black shadows, burnt orange, vermilion red, slate gray, charcoal, and occasional navy blue. Keep details stylized rather than realistic.
+
+Layout: Arrange exactly 6 panels:
+1. Top-left panel: A geometric night scene with an orange kangaroo-like animal standing upright beside a gray koala-like animal, a cream full moon in the upper left, small star/firework dots, and a grid of orange, beige, black, and gray rectangles in the background. The animals should be angular and origami-like.
+2. Top-right panel: A dark gothic anime-style girl with long pale hair sitting on stone steps before ruined cathedral arches. Use black, gray, lavender, and hot magenta accents, with one red eye visible and a moody ruined-city atmosphere.
+3. Middle-left panel: A reclining elegant long-haired person in black clothing holding a round fan near their face, surrounded by red and black geometric circles, grids, rectangles, and cream negative space. The mood is languid and stylish.
+4. Middle-right panel: A close-up portrait of a pale bob-haired girl with straight black bangs, red eyes, small red vertical face markings, and a black-white-red abstract geometric background with circles and rectangular blocks.
+5. Bottom-left panel: A minimalist city-walking scene with a person in a long gray coat holding a leash attached to a low, stretching orange-and-white corgi. Background includes red circles, black blocks, cream walls, stairs, and sharp architectural geometry.
+6. Bottom-right panel: A back-view portrait of a traditional Japanese woman or geisha in a patterned kimono, standing before pagoda rooftops and a lantern. Include a bright blue sky with cream clouds and bold black, red, cream, and tan architectural shapes.
+
+Subject customization: Keep the collage structure fixed, but allow the overall subject set to be interpreted as {argument name="theme" default="six unrelated retro Japanese poster scenes"}. Use {argument name="main palette" default="cream, black, vermilion red, burnt orange, charcoal gray, navy blue"}. Set the mood to {argument name="mood" default="stylish, mysterious, nostalgic, graphic"}. Use {argument name="art style" default="retro Japanese modernist poster illustration with anime influence"}. Make the image suitable for {argument name="use case" default="a social media showcase of varied GPT Image 2 outputs from one consistent style prompt"}.
+
+Constraints: Exactly 6 panels, exactly 2 columns and 3 rows, no text inside the artwork, no photorealism, no extra panels, no floating UI, no frame labels. Maintain consistent texture and design language across all six panels while making every panel visually distinct.
+```
+
+**来源：** [@なこ/ChatGPT沼](https://x.com/Dana_Nako/status/2082002679182828012) | 2026-07-28
+
+---
+
+### 🎴 例 5252：高端乳制品甜点海报
+
+![高端乳制品甜点海报](../images/%E9%AB%98%E7%AB%AF%E4%B9%B3%E5%88%B6%E5%93%81%E7%94%9C%E7%82%B9%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+高级写实乳制甜品海报，奶皮子酸奶主题，一只玻璃罐酸奶置于冷白与浅米色空间中央，表层奶皮自然起皱，带细腻脂香光泽，勺子轻轻划开露出下方浓稠酸奶层，周围点缀少量奶花、蓝莓与银勺，整体清洁、丰润、克制，像
+ 高端地域乳品广告，真实奶皮纹理、真实酸奶浓稠度、真实玻璃反光，竖版 3:4。
+
+海报文字内容：
+品牌名：{argument name="品牌名" default="北牧白"}
+产品名：{argument name="产品名" default="奶皮子酸奶"}
+英文副标题：{argument name="英文副标题" default="CREAM TOP YOGURT"}
+slogan：浓一点，才更像牧场的味道
+短标签：奶皮丰厚 / 发酵醇香
+
+排版要求：品牌名放顶部，产品名主标题置于下方留白区域，英文副标题小一号，短标签精简，整体像高端冷藏乳品广告。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2081996381359861809) | 2026-07-28
+
+---
+
+### 🎴 例 5255：奢华时尚杂志风分屏大片
+
+![奢华时尚杂志风分屏大片](../images/%E5%A5%A2%E5%8D%8E%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E9%A3%8E%E5%88%86%E5%B1%8F%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张奢华时尚杂志风分屏广告大片，使用参考图中的同一位女孩，保留其确切的身份特征、面部结构、雀斑、{argument name="hairstyle" default="带有刘海的紫色短款齐平波波头"}、柔和的表情、年轻的外貌以及整体美学风格。
+生成两张并排的高端杂志风照片，主角坐在 {argument name="furniture" default="毛绒质感的焦糖色丝绒沙发"} 上。在两张图中，她都自信地坐着，双臂伸展靠在椅背上，双腿优雅交叠，展现出冷静的权威感、毫不费力的自信以及极简主义的奢华感。
+她穿着一套 {argument name="outfit" default="焦糖色超大廓形西装"}，面料质感高级，内搭修身黑色上衣，佩戴时髦的黑色设计师款猫眼墨镜，饰品简约。保持她标志性的紫色波波头发型不变（不要扎起头发），保留自然的雀斑、瓷白肌肤、水润双唇以及精致的高级时装杂志妆容。
+背景为无缝的浓郁橙色奢华摄影棚，巨大的 3D 哑光象牙白字母“NOW”环绕在她身后，结合优雅的建筑曲线、几何层次和柔和的阴影以增加深度。采用单色橙色调，呈现高端品牌美学。
+左侧图像构图完美居中且对称，她直视镜头，呈现出杂志封面的构图效果。
+右侧图像从略微倾斜的角度拍摄，她的头部微微转向一侧，同时保持相同的放松姿势，使两帧画面之间产生微妙的变化。
+电影级布光，采用大型柔光主灯、温暖的轮廓光，墨镜上有真实的反射效果，奢华的丝绒质感，高级面料细节，逼真的皮肤渲染，HDR，光线追踪，全局光照，构图极其简洁，留白充裕，Vogue、COS、Jacquemus、Zara Studio 广告美学，商业奢华广告，超写实，照片级真实感，8K，IMAX 画质，杰作，获奖时尚摄影，焦点极其锐利。
+
+[English]
+Create a luxury fashion editorial split-screen campaign featuring the same girl from the reference image, preserving her exact identity, facial structure, freckles, {argument name="hairstyle" default="short blunt purple bob haircut with bangs"}, soft expression, youthful appearance, and overall aesthetic.
+Generate two side-by-side premium editorial shots of the same character seated on a {argument name="furniture" default="plush burnt-orange velvet sofa"}. In both images, she sits confidently with both arms stretched across the backrest and legs elegantly crossed, projecting calm authority, effortless confidence, and minimalist luxury.
+She wears an {argument name="outfit" default="oversized burnt-orange power suit"} with premium textured fabric, a fitted black top underneath, sleek black designer cat-eye sunglasses, and minimal jewelry. Keep her signature purple bob hairstyle unchanged (do not tie the hair), with natural freckles, porcelain skin, glossy lips, and subtle high-fashion editorial makeup.
+The background is a seamless rich orange luxury studio featuring gigantic 3D matte ivory letters spelling "NOW" wrapping behind her, combined with elegant architectural curves, geometric layers, and soft shadows for depth. Use a monochromatic orange color palette with premium branding aesthetics.
+The left image is perfectly centered and symmetrical, looking directly toward the camera with a commanding magazine-cover composition.
+The right image is captured from a slightly angled perspective, with her head turned slightly to the side while maintaining the same relaxed pose, creating subtle variation between both frames.
+Cinematic lighting with a large soft key light, warm rim lighting, realistic reflections on the sunglasses, luxurious velvet textures, premium fabric detail, realistic skin rendering, HDR, ray tracing, global illumination, ultra-clean composition, generous negative space, Vogue, COS, Jacquemus, Zara Studio campaign aesthetic, commercial luxury advertising, hyper-realistic, photorealistic, 8K, IMAX quality, masterpiece, award-winning fashion photography, razor-sharp focus.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2081991383557234964) | 2026-07-28
+
+---
+
+### 🎴 例 5278：报纸排版风格美食海报模板
+
+![报纸排版风格美食海报模板](../images/%E6%8A%A5%E7%BA%B8%E6%8E%92%E7%89%88%E9%A3%8E%E6%A0%BC%E7%BE%8E%E9%A3%9F%E6%B5%B7%E6%8A%A5%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+照片级真实感的高端商业食品摄影，可根据目标设置调整长宽比，第一人称视角拍摄，两只白皙的人手握住一张大号清脆白报纸的左右边缘。报纸中央为 {argument name="product" default="所上传特色商品的超写实光泽感 3D 弹出式展示"}，产品放置在 {argument name="serving style" default="铺有绿叶装饰的质朴木盘"} 上，搭配精致的小菜和点缀。{argument name="background" default="报纸背后的背景为柔焦的深翡翠绿咖啡馆室内环境"}。严格的标准化排版规则：1. 顶部深绿色背景区域正中放置用 "" 包裹的小号加粗白色文字；2. 报纸页面顶部放置用 "" 包裹的两行超粗深绿色无衬线标题文字，标题上下方配有水平分割线；3. 报纸左下部分放置用 "" 包裹的中等粗细黑色无衬线文字，右侧通过细垂直线与用 "" 包裹的大号加粗绿色价格文字分隔；4. 绿色背景左下角放置用 "" 包裹的小号白色项目符号文字，绿色背景右下角放置用 "" 包裹的小号白色 URL 文字。明亮的定向摄影棚柔光，焦点精准锁定在报纸和弹出式产品上，层次分明的景深，8K 超高分辨率，精致的材质纹理渲染，电影级调色，整洁且标准化的排版层级，干净的商业广告美学，无冗余杂乱元素，无产品形状扭曲。
+
+[English]
+Photorealistic high-end commercial food product photography, adjustable aspect ratio according to target setting, first-person POV shot, two fair-skinned human hands holding the left and right edges of a large crisp white newspaper. At the center of the newspaper, a {argument name="product" default="hyper-realistic glossy 3D pop-out display of the exact uploaded featured item"}, the product is placed on a {argument name="serving style" default="rustic wooden plate paved with green leaf decorations"}, matched with small side dishes and delicate garnishes. The {argument name="background" default="background behind the newspaper is a softly blurred dark emerald green cafe interior environment"}. Strict standardized typography layout rules: 1. Small bold white text wrapped in "" placed at top center of dark green background area; 2. Two-line ultra-bold dark green thick sans-serif headline text wrapped in "" at the top of newspaper page, decorated with horizontal dividing lines above and below the headline; 3. Medium-weight black sans-serif text wrapped in "" on the left lower part of the newspaper, separated by a thin vertical line from large bold green price text wrapped in "" on the right side; 4. Small white bullet point text wrapped in "" on the left bottom of green background, small white URL text wrapped in "" on the right bottom of green background. Bright directional studio soft lighting, sharp focal point locked on newspaper and the popped-out product, clear layered depth of field, 8K ultra high resolution, exquisite material texture rendering, cinematic color grading, neat and standardized typography hierarchical layout, clean commercial advertising aesthetic, no redundant messy elements, no distorted product shape.
+```
+
+**来源：** [@PixuryAI](https://x.com/PixuryAI/status/2081944070117900375) | 2026-07-28
+
+---
+
+### 🎴 例 5283：日式蔬菜炒菜食谱海报
+
+![日式蔬菜炒菜食谱海报](../images/%E6%97%A5%E5%BC%8F%E8%94%AC%E8%8F%9C%E7%82%92%E8%8F%9C%E9%A3%9F%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版日式食谱信息图海报，主题为 {argument name="recipe title" default="4种蔬菜蒜香活力炒菜"}，采用温暖的手绘食谱风格，并确保日文字体清晰易读。
+
+画布：2:3 纵向布局，米白色纸张背景，圆角设计，细双线绿色装饰边框，角落处带有小型叶片装饰。使用柔和的水彩风格食物插画、亲切的圆体日文字体、深棕色主标题文字、绿色栏目丝带、橙色点缀、虚线分割线以及细微的闪光效果。
+
+顶部标题：居中大标题文字：{argument name="recipe title" default="4种蔬菜蒜香活力炒菜"}。正下方为橙色副标题：{argument name="subtitle" default="（无黄油版）"}。下方添加一行日文标语：“爽脆！软糯！蒜香四溢，口感十足的活力配菜♪”。左上方放置一颗大型卷心菜插画，右上方放置一个小型大蒜图标，以及一个装有炒卷心菜、青椒、土豆片和大蒜的黑色平底锅插画。
+
+主要布局：使用五个不同的内容区块，排列如同一张食谱卡片：左上角为配料盒，右上角为准备工作盒，左中部为烹饪步骤盒，右中部为技巧提示盒，底部横跨一个食用建议盒。
+
+配料区块：绿色丝带标题“材料（2人份）”。列出 10 种配料，配有虚线引导线和用量：1) 卷心菜 — 1/4 颗（约 250g），2) 土豆 — 2 个（约 300g），3) 青椒 — 2 个，4) 大蒜 — 2 瓣，5) 色拉油 — 1 大勺，6) 芝麻油 — 1 小勺，7) 酱油 — 1 大勺，8) 鸡精粉 — 1 小勺，9) 盐 — 少许，10) 胡椒 — 少许。在此区块底部包含三个小插画：青椒、切开的土豆和大蒜瓣。
+
+准备工作区块：绿色丝带标题“下准备”，附带说明文字：“提前将土豆加热熟透，可以缩短炒制时间，更容易入味。” 在圆角子卡片中包含 2 种准备方法。第一个绿色子卡片标题为“微波炉加热时”，配有微波炉图标和 3 个编号步骤：1) 土豆去皮，切成 1.5 厘米宽的半月形。 2) 放入耐热容器中，松松地盖上保鲜膜。 3) 用 600W 加热约 5 至 6 分钟。添加备注：“※以竹签能轻松穿透为准。” 第二个橙色子卡片标题为“水煮时”，配有锅具图标和 3 个编号步骤：1) 土豆去皮，切成 1.5 厘米宽的半月形。 2) 将水和土豆放入锅中，沸腾后中火煮 3 至 4 分钟。 3) 捞出沥干水分。添加备注：“※煮得稍硬一点是关键！”
+
+烹饪步骤区块：橙色丝带标题“制作方法”。展示 7 个带有日文步骤说明的橙色编号圆圈：1) 卷心菜切大块，青椒纵向切成一口大小的细条。大蒜切片。 2) 平底锅中火加热色拉油，放入大蒜炒香。闻到香味后，加入土豆炒至表面微焦。 3) 加入青椒快速翻炒。 4) 加入卷心菜，转中大火炒至爽脆。 5) 加入鸡精粉翻炒均匀。 6) 从锅边淋入酱油，快速翻炒入味。淋入芝麻油增香。 7) 用盐和胡椒调味，快速拌匀即可完成！在此区块右下方添加一个微型平底锅插画，蔬菜飞溅，并附上手写备注“大火快炒保持爽脆！”。
+
+技巧提示区块：黄橙色标题“提升活力的秘诀”，带有闪光装饰。包含 3 行提示，每行配有橙色勾选图标和右侧的小插画：1) “大蒜要‘炒出香味’！”配大蒜插画，2) “土豆要‘炒出焦色’！”配土豆插画，3) “最后淋入芝麻油提升浓郁度！”配标有“芝麻油”的瓶子插画。每个提示下方使用简短的日文说明文字。
+
+底部食用建议区块：绿色丝带标题“食用小贴士”。包含文字“趁热享用！这道菜非常下饭，活力满满♪”以及 3 个绿色勾选要点：1) 与白米饭是绝配！ 2) 也适合作为便当配菜◎ 3) 放凉了也很好吃，推荐作为常备菜。底部添加三个食物插画：一碗白米饭、一份装盘的蔬菜蒜香炒菜，以及一个写着“蒜香与蔬菜的甘甜，让人上瘾的美味♪”并带有小爱心的对话框。
+
+视觉约束：保持所有日文文字清晰易读，维持平衡的杂志食谱布局，不使用照片，无水印，无额外区块，不添加额外的配料或步骤。
+
+[English]
+Goal: Create a vertical Japanese recipe infographic poster for {argument name="recipe title" default="4種野菜のスタミナガーリック炒め"}, with a warm hand-drawn cookbook aesthetic and perfectly legible Japanese typography.
+
+Canvas: Portrait 2:3 layout, off-white paper background, rounded corners, thin double green ornamental border with small leaf flourishes in the corners. Use soft watercolor-style food illustrations, friendly rounded Japanese fonts, dark brown main title text, green section ribbons, orange accents, dotted divider lines, and subtle sparkles.
+
+Top header: Large centered headline text: {argument name="recipe title" default="4種野菜のスタミナガーリック炒め"}. Directly underneath, orange subtitle: {argument name="subtitle" default="（バター不使用版）"}. Add a small Japanese tagline below: "シャキッ！ほくっ！にんにく香る、食べごたえ抜群のスタミナおかず♪". Place a large illustrated cabbage on the upper left, a small garlic bulb icon near the upper right, and a black frying pan on the upper right filled with stir-fried cabbage, green bell pepper, potato slices, and garlic.
+
+Main layout: Use five distinct content blocks arranged like a recipe card: 1 ingredients box at upper left, 1 preparation box at upper right, 1 cooking steps box at middle left, 1 technique tips box at middle right, and 1 serving memo box across the bottom.
+
+Ingredients block: Green ribbon header "材料（2人分）". List exactly 10 ingredients with dotted leader lines and amounts: 1) キャベツ — 1/4玉（約250g）, 2) じゃがいも — 2個（約300g）, 3) ピーマン — 2個, 4) にんにく — 2かけ, 5) サラダ油 — 大さじ1, 6) ごま油 — 小さじ1, 7) しょうゆ — 大さじ1, 8) 鶏ガラスープの素 — 小さじ1, 9) 塩 — 少々, 10) こしょう — 少々. Include three small illustrations at the bottom of this box: green bell peppers, potatoes with one cut open, and garlic cloves.
+
+Preparation block: Green ribbon header "下準備" with explanatory text: "じゃがいもはあらかじめ火を通しておくと、炒め時間が短くなり、味がしみ込みやすくなります。" Include exactly 2 preparation methods in rounded subcards. First green subcard titled "レンジで加熱する場合" with microwave icon and exactly 3 numbered steps: 1) じゃがいもは皮をむき、1.5cm幅の半月切りにする。 2) 耐熱容器に入れ、ふんわりとラップをかける。 3) 600Wで約5〜6分加熱する。 Add note: "※竹串がスッと通るくらいが目安です。" Second orange subcard titled "ゆでる場合" with pot icon and exactly 3 numbered steps: 1) じゃがいもは皮をむき、1.5cm幅の半月切りにする。 2) 鍋に水とじゃがいもを入れ、沸騰したら中火で3〜4分ゆでる。 3) ザルに上げて水気を切る。 Add note: "※固めに火を通すのがポイント！".
+
+Cooking steps block: Orange ribbon header "作り方". Show exactly 7 numbered orange circles with Japanese step text: 1) キャベツはざく切り、ピーマンは縦にひと口大の細切りにする。にんにくは薄切りにする。 2) フライパンにサラダ油を中火で熱し、にんにくを炒める。香りが立ってきたら、じゃがいもを加えて焼き目がつくまで炒める。 3) ピーマンを加えてさっと炒める。 4) キャベツを加え、強めの中火でシャキッとするまで炒める。 5) 鶏ガラスープの素を加えて全体を炒め合わせる。 6) しょうゆを鍋肌から回し入れ、さっと絡める。ごま油を回しかけて香りをプラス。 7) 塩・こしょうで味をととのえ、全体をさっと混ぜて完成！ Add a tiny pan illustration near the lower right of this block with vegetables flying and a handwritten note "強火でサッと炒めてシャキッ！".
+
+Technique tips block: Yellow-orange header "スタミナを盛る裏技" with sparkles. Include exactly 3 tip rows, each with an orange check icon and a small illustration on the right: 1) "にんにくは「香りを立てる」！" with garlic bulb, 2) "じゃがいもは「焼き目」をつける！" with potatoes, 3) "仕上げのごま油でコクUP！" with a sesame oil bottle labeled "ごま油". Use short explanatory Japanese text beneath each tip.
+
+Bottom serving memo block: Green ribbon header "いただき方のメモ". Include the text "熱々のうちにどうぞ！ごはんが進む味つけで、スタミナ満点♪" and exactly 3 green check bullet points: 1) 白ごはんとの相性抜群！ 2) お弁当のおかずにも◎ 3) 冷めてもおいしいので、作り置きにもおすすめです。 Add three food illustrations along the bottom: a bowl of white rice, a plated serving of the vegetable garlic stir-fry, and a speech bubble saying "にんにくの香りと野菜の甘みで、やみつきになるおいしさです♪" with a small heart.
+
+Visual constraints: Keep all Japanese text crisp and readable, maintain a balanced magazine-recipe layout, use no photographs, no watermark, no extra sections, and no additional ingredients or steps.
+```
+
+**来源：** [@よしこう🍊金融系Webライター](https://x.com/jijian0426/status/2081937254751355109) | 2026-07-28
+
+---
+
+### 🎴 例 5287：浪漫纱丽人像海报
+
+![浪漫纱丽人像海报](../images/%E6%B5%AA%E6%BC%AB%E7%BA%B1%E4%B8%BD%E4%BA%BA%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张浪漫的竖版时尚人像海报，主角是一位名为 {argument name="character name" default="Arina"} 的南亚年轻女性，她身穿一件优雅的深 {argument name="saree color" default="burgundy"} 色刺绣纱丽，边缘饰有华丽的金色和绿色花纹。采用分割构图：左侧展示她站在一棵覆盖着鲜艳洋红色三角梅的粗壮树干旁，全身入镜，一只手轻搭在纱丽褶皱上，另一只手自然垂在身侧；右侧展示同一位女性更大比例的胸部以上特写肖像，她面向观众，带着平静自然的微笑。她拥有温暖的白皙肤色、深棕色大眼睛、轮廓柔和的眉毛，额头正中点着一个小红点（bindi），栗棕色长发在头顶编有精致的侧辫，其余发丝呈松散波浪状垂在一侧肩头，佩戴着精致的金色吊坠耳环、项链、手镯和平底凉鞋。背景设定在阳光明媚的古老庭院或宫殿花园中，有着温暖的砂岩建筑和背景中柔和模糊的台阶，采用黄金时刻的逆光效果，浅景深，石板地上散落着粉色花瓣，呈现出丰富的电影级虚化效果。在右下角添加优雅的白色草书文本 {argument name="name text" default="Arina"}，下方带有装饰性的心形花饰。风格应为照片级真实、精致、梦幻、高细节，采用柔和的暖色调，展现优雅的印度新娘/节日时尚美学，竖版 3:4 海报构图。保持画面中两个人物形象在身份、服装、珠宝、发型和表情上的一致性；避免出现多余人物、多余文字、水印、手部畸变或纱丽褶皱不准确的情况。
+
+[English]
+Create a romantic vertical fashion portrait poster of a young South Asian woman named {argument name="character name" default="Arina"} wearing an elegant deep {argument name="saree color" default="burgundy"} embroidered saree with ornate gold and green borders. Use a split-composition: on the left, show her full body standing beside a large tree trunk covered in vibrant magenta bougainvillea flowers, one hand resting lightly across the saree drape and the other relaxed by her side; on the right, show a much larger close-up portrait of the same woman from the chest up, facing the viewer with a calm natural smile. She has warm fair skin, large brown eyes, softly defined brows, a small red bindi centered on her forehead, long chestnut-brown hair styled with subtle side braids at the crown and loose waves over one shoulder, delicate dangling gold earrings, a necklace, bangles, and flat sandals. The setting is a sunlit old courtyard or palace garden with warm sandstone architecture and softly blurred steps in the background, golden-hour backlighting, shallow depth of field, pink petals scattered on the stone floor, and rich cinematic bokeh. Add graceful white cursive text reading {argument name="name text" default="Arina"} at the lower right with a decorative heart flourish underneath. Style should be photorealistic, polished, dreamy, high-detail, soft warm color grading, elegant Indian bridal/festive fashion aesthetic, vertical 3:4 poster framing. Keep the two depictions of the woman consistent in identity, outfit, jewelry, hairstyle, and expression; avoid extra people, extra text, watermarks, distorted hands, or inaccurate saree draping.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2081927479770661311) | 2026-07-28
+
+---
+
+### 🎴 例 5288：超高端分层品牌海报
+
+![超高端分层品牌海报](../images/%E8%B6%85%E9%AB%98%E7%AB%AF%E5%88%86%E5%B1%82%E5%93%81%E7%89%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="quality" default="超高端"} {argument name="brand" default="品牌"} 海报，采用 {argument name="design style" default="分层设计"} 和大字排版
+
+[English]
+{argument name="poster subject" default="Póster de marca"} de {argument name="quality" default="ultra-alta gama"} con {argument name="layout style" default="diseño en capas"} y tipografía de gran tamaño
+```
+
+**来源：** [@Henry M. | IA Práctica](https://x.com/hmontilla_/status/2081923777059807300) | 2026-07-28
+
+---
+
+### 🎴 例 5295：Neon Gravebinder 奇幻卡牌
+
+![Neon Gravebinder 奇幻卡牌](../images/Neon%20Gravebinder%20%E5%A5%87%E5%B9%BB%E5%8D%A1%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="LANDCASTER"} 创作一张竖版奇幻集换式卡牌，风格参考高级暗黑 RPG 收藏卡，标题为“My Fantasy Trading Card”，展现哥特赛博朋克死灵法师的能量。
+
+画布：竖版集换式卡牌，2:3 比例，高度细节化，全出血设计，配有华丽的黑金边框。使用黑色、午夜蓝、紫色、霓虹洋红和古金色构成的暗色调，辅以发光的魔法特效和高对比度、锐利的奇幻插画渲染。
+
+布局：顶部放置一个巨大的发光衬线字体名牌，显示 {argument name="character name" default="LANDCASTER"}。下方是一个较小的副标题横幅，显示 {argument name="class subtitle" default="NEON GRAVEBINDER"}。左上角添加一个圆形骷髅阵营图标，右上角添加一个圆形等级徽章，显示 {argument name="level" default="VII"}。中心为主角色肖像。下三分之一处包含稀有度横幅、职业标签、六个属性框、两个技能文本框、一个引言框和底部标签。
+
+主体细节：主肖像为一名深色皮肤的年轻男性暗影法师，留着齐肩脏辫，戴着紫色针织帽，身穿带有金属铆钉和徽章的深蓝色皮夹克，佩戴遮住下半脸的白色骷髅图案面罩。他的双眼闪烁着超自然的亮紫色光芒。他正视前方，姿态自信且充满威慑力。周围添加小型骷髅配饰、神秘装饰和紫色魔法高光。
+
+背景：夜间的霓虹墓地城市，背景为蓝色和紫色的摩天大楼、发光的日式竖向招牌、角色身后的奥术符文圆环、幽灵能量、漂浮颗粒和骷髅图案。氛围为都市奇幻、被诅咒、充满电力且神秘。
+
+卡牌边框与装饰：使用精致的哥特式边框，包含金色花丝、黑漆面板、荆棘般的金属装饰、角落和分隔处的微型骷髅、紫色水晶点缀，以及稀有度横幅上方的中央骷髅宝石勋章。使卡牌看起来像一张高价值的闪卡收藏品。
+
+可见文本内容：顶部名称“LANDCASTER”；副标题“NEON GRAVEBINDER”；等级“VII”；稀有度横幅“EPIC”；职业标签“SHADOW MAGE”。包含 6 个属性框：HP 2780（配心形图标）、ATK 342（配剑图标）、DEF 251（配盾牌图标）、MAG 389（配紫色火焰图标）、AGI 364（配翅膀图标）、LCK 207（配三叶草图标）。包含 2 个技能条目：“SOUL CHAIN — 用幽灵锁链束缚敌人，造成持续 MAG 伤害并降低其 DEF。”以及“GRAVEBOUND AURA — 提升 MAG 和 AGI。击败被诅咒的敌人时恢复 HP。”添加一个引言框，内容为 {argument name="quote" default="The dead don’t speak to me. I speak for them."}。底部标签：左侧为“CURSED”，右侧为“NIGHT CITY ORIGIN”。
+
+风格约束：超精细的奇幻卡牌艺术，清晰易读的排版，发光的紫色光晕，戏剧性的轮廓光，绘画写实风格与漫画/动画集换式卡牌质感的结合，无额外角色，无水印，卡牌外无现代 UI，确保所有列出的文本清晰可辨，并像真实的收藏游戏卡一样排列。
+
+[English]
+Goal: Create a vertical fantasy trading card for {argument name="character name" default="LANDCASTER"}, styled like a premium dark collectible RPG card titled “My Fantasy Trading Card,” with gothic cyberpunk necromancer energy.
+
+Canvas: Portrait trading card, 2:3 ratio, highly detailed, full bleed with an ornate blackened-gold frame. Use a dark palette of black, midnight blue, violet, magenta neon, and antique gold, with glowing magical effects and sharp high-contrast fantasy illustration rendering.
+
+Layout: At the top, place a large glowing serif nameplate reading {argument name="character name" default="LANDCASTER"}. Beneath it, a smaller subtitle banner reading {argument name="class subtitle" default="NEON GRAVEBINDER"}. Add a circular skull faction icon at the top left and a round level badge at the top right reading {argument name="level" default="VII"}. The center contains one main character portrait. The lower third contains a rarity banner, class label, six stat boxes, two ability text boxes, a quote box, and bottom tags.
+
+Subject details: The main portrait is a dark-skinned young adult male shadow mage with shoulder-length dreadlocks, wearing a purple knit beanie, a dark blue leather jacket with metal studs and pins, and a white skull-pattern face mask covering the lower half of his face. His eyes glow bright violet-white with supernatural light. He faces forward in a confident, intimidating pose. Add small skull accessories, occult ornaments, and purple magical highlights around him.
+
+Background: A neon graveyard city at night, with blue and purple skyscrapers, glowing Japanese-style vertical signs, arcane rune circles behind the character, spectral energy, floating particles, and skull motifs. The mood is urban fantasy, cursed, electric, and mystical.
+
+Card frame and ornaments: Use an elaborate gothic border with gold filigree, black lacquer panels, thorn-like metal flourishes, small skulls at corners and dividers, purple crystal accents, and a central skull gem medallion above the rarity banner. Make the card look like a high-value foil holographic collectible.
+
+Visible text content: Top name “LANDCASTER”; subtitle “NEON GRAVEBINDER”; level “VII”; rarity banner “EPIC”; class label “SHADOW MAGE”. Include exactly 6 stat boxes: HP 2780 with a heart icon, ATK 342 with a sword icon, DEF 251 with a shield icon, MAG 389 with a purple flame icon, AGI 364 with a wing icon, LCK 207 with a clover icon. Include exactly 2 ability entries: “SOUL CHAIN — Bind enemies in spectral chains, dealing MAG damage over time and reducing their DEF.” and “GRAVEBOUND AURA — Increases MAG and AGI. Restores HP when defeating a cursed enemy.” Add a quote box reading {argument name="quote" default="The dead don’t speak to me. I speak for them."}. Bottom tags: “CURSED” on the left and “NIGHT CITY ORIGIN” on the right.
+
+Style constraints: Ultra-detailed fantasy card art, crisp readable typography, luminous purple glow, dramatic rim lighting, painterly realism mixed with comic/anime trading-card polish, no extra characters, no watermark, no modern UI outside the card, keep all listed text legible and arranged like a real collectible game card.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2081908956893446332) | 2026-07-28
+
+---
+
+### 🎴 例 5298：柔软针织风“早安”海报
+
+![柔软针织风“早安”海报](../images/%E6%9F%94%E8%BD%AF%E9%92%88%E7%BB%87%E9%A3%8E%E2%80%9C%E6%97%A9%E5%AE%89%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温暖治愈的早安海报，背景为米色针织面料上的微缩景观。画布采用 16:9 横向比例，风格通透简约，主文本块左对齐，宽阔的微缩景观填充中心及右侧。采用米色、象牙白和温暖的日出配色，运用浅景深、微距摄影的真实感、柔和的自然光、细腻的阴影、舒适的纺织纹理以及高端生活方式海报的美学风格。织物应呈现出起伏的丘陵和山谷，如同雪地地形，前景有一个模糊的针织山脊，背景处有另一个柔和的山脊。在微缩场景中，包含 5 个微小的人物：左下角有一位骑自行车运送纸箱的快递员，中左侧有一位站立挥手的人，中间有一位慢跑者，中右侧有一位背着背包、手持相机的摄影师或旅行者，以及寺庙区域附近的一个微小远景人物。在右侧背景处添加一个小型的北京传统风格凉亭或寺庙，最右侧边缘有局部的传统屋顶，几棵浅色花树，以及用于衬托比例的微小远景剪影，所有元素均融入针织景观中。左侧文本内容：顶部为粗体大写标题“GOOD MORNING”；下方为大号中文字符“早安”；一条细分割线；位置行“北京 BEIJING”；日期“2026-07-28”；另一条分割线；引言“迎着晨光，步步自有回响。”；以及两行较小的祝福语“愿你今日自信从容”和“让清晨点亮新的开始”。使用深暖棕色字体，英文采用简洁的现代无衬线字体，中文采用优雅的细体，排版间距宽裕，不添加额外的 Logo 或水印。整体氛围宁静、乐观、柔和、舒适且具有电影感。支持自定义问候语 {argument name="headline text" default="GOOD MORNING"}、大号中文问候语 {argument name="Chinese greeting" default="早安"}、城市 {argument name="city" default="北京 BEIJING"}、日期 {argument name="date" default="2026-07-28"} 以及引言 {argument name="quote" default="迎着晨光，步步自有回响。"}。
+
+[English]
+Create a warm healing morning poster with a soft miniature diorama scene on a cream knitted fabric landscape. The canvas is a horizontal 16:9 poster, airy and minimalist, with the main text block aligned on the left and a wide scenic miniature world filling the center and right. Use a beige, ivory, and warm sunrise palette, shallow depth of field, macro photography realism, soft natural light, gentle shadows, cozy textile texture, and a premium lifestyle poster aesthetic. The fabric should form rolling hills and a valley like snowy terrain, with a large blurred knitted ridge in the foreground and another soft ridge across the background. In the miniature scene, include exactly 5 tiny human figures: 1 delivery cyclist at lower left carrying cardboard boxes on a bicycle, 1 standing person waving near the center-left, 1 jogger running in the middle, 1 photographer or traveler with a backpack holding a camera on the right-middle, and 1 tiny distant walking figure near the temple area. Add a small traditional Beijing-style pavilion or temple on the right background, a partial traditional roof at the far right edge, a few pale flowering trees, and tiny distant silhouettes for scale, all integrated into the knitted landscape. Text content on the left: bold uppercase headline “GOOD MORNING” at the top; large Chinese characters “早安” beneath; a thin divider line; location line “北京 BEIJING”; date “2026-07-28”; another divider line; quote “迎着晨光，步步自有回响。”; and two smaller blessing lines “愿你今日自信从容” and “让清晨点亮新的开始”. Use dark warm brown typography, clean modern sans-serif for English and elegant thin Chinese typography, with generous spacing and no extra logos or watermark. Make the overall mood calm, optimistic, soft, cozy, and cinematic. Allow customization of the greeting as {argument name="headline text" default="GOOD MORNING"}, large Chinese greeting as {argument name="Chinese greeting" default="早安"}, city as {argument name="city" default="北京 BEIJING"}, date as {argument name="date" default="2026-07-28"}, and quote as {argument name="quote" default="迎着晨光，步步自有回响。"}.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2081893577232470043) | 2026-07-28
+
+---
+

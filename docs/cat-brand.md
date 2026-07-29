@@ -12414,3 +12414,247 @@ Luxury lifestyle editorial, Dolce Vita aesthetic, cinematic realism, Leica photo
 
 ---
 
+### 🏷️ 例 5190：高端柑橘气泡饮品广告
+
+![高端柑橘气泡饮品广告](../images/%E9%AB%98%E7%AB%AF%E6%9F%91%E6%A9%98%E6%B0%94%E6%B3%A1%E9%A5%AE%E5%93%81%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高端快速消费品广告，原创无品牌 {argument name="drink type" default="柚子气泡饮品"}，时尚罐装与透明瓶身，冰感半透明展示台，冷凝水珠，柑橘皮卷，碳酸气泡，奢华商业修图，无可见文字，无 Logo，无人物。
+
+[English]
+premium FMCG advertisement, original unbranded {argument name="drink type" default="yuzu sparkling drink"}, sleek can and clear bottle, icy translucent platform, condensation droplets, citrus peel curls, carbonated bubbles, luxury commercial retouching, no readable text, no logo, no humans.
+```
+
+**来源：** [@小森映像](https://x.com/komorimedia/status/2082151840758829392) | 2026-07-28
+
+---
+
+### 🏷️ 例 5195：月光下的动漫墓地追逐
+
+![月光下的动漫墓地追逐](../images/%E6%9C%88%E5%85%89%E4%B8%8B%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%A2%93%E5%9C%B0%E8%BF%BD%E9%80%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅戏剧性的动漫风格奇幻动作插画，背景设定在月光下的夜晚墓地。场景中包含 2 个主要角色：左侧是一名受惊的年轻金发女孩，{argument name="heroine name" default="girl Arthur"}，她正向画面左侧奔跑，同时回头张嘴尖叫，露出惊恐的蓝色双眼；右侧是一名邪恶的魔术师/小丑怪物，{argument name="villain name" default="evil magician"}，他单脚站在一个宝箱旁，一边施法一边指向女孩。女孩身穿橙色长袖连衣裙、白色荷叶边围裙、带有橙色蝴蝶结的白色软帽、白色短袜和浅蓝色玛丽珍鞋；她长长的波浪形金发向后飘动，白色的变形烟雾环绕着她的裙子并拖在身后。反派戴着蓝色小丑帽，帽子有两个末端带有红球的垂耳，有着发光的红眼、骷髅般的灰色面孔、尖牙、紫色褶皱领口和袖口、带有红色纽扣的蓝色束腰外衣、橙色紧身裤、红色卷曲靴子和一件深色斗篷。在他们之间，展示 1 个彩虹螺旋魔法弹，像一个色彩斑斓的漩涡一样发光，带有红、橙、黄、绿、青、蓝、紫红色的拖尾，从反派指尖飞向女孩。画面上方正中包含 1 轮巨大的满月，被深紫色的风暴云层部分遮挡。在右下方的中景处包含 1 个带黄铜箍和中央锁扣的封闭木制宝箱。包含 7 块显眼的墓碑：最左侧 1 块巨大的倾斜墓碑，女孩身后中心附近 1 块圆顶墓碑，宝箱后方 1 块小型深色墓碑，反派右侧 1 块狭窄墓碑，右前方 1 块巨大的倾斜墓碑，以及中景处 2 块部分被遮挡的墓碑。墓地地面应为阴暗、泥泞且多岩石，散布着草丛，两侧有光秃秃的扭曲树木，营造出哥特式恐怖氛围。采用动态构图、电影级光影、来自月亮的强烈轮廓光、饱和的动漫色彩、清晰的线条、细腻的布料褶皱、富有表现力的面部表情，仅在烟雾和魔法拖尾处使用动态模糊。无标题，无 UI，无水印，无多余字符。使用 16:9 横向画布。整体氛围应为 {argument name="mood" default="spooky but adventurous"}，灵感来源于复古横版卷轴黑暗奇幻游戏艺术，并将其转化为精致的现代动漫插画。
+
+[English]
+Create a dramatic anime-style fantasy action illustration set in a moonlit graveyard at night. The scene contains exactly 2 main characters: on the left, a frightened young blonde girl, {argument name="heroine name" default="girl Arthur"}, running toward the viewer-left while looking back over her shoulder with wide blue eyes and an open screaming mouth; on the right, a sinister magician/jester monster, {argument name="villain name" default="evil magician"}, standing on one leg near a treasure chest and pointing at her as he casts a spell. The girl wears an orange long-sleeve dress, a white frilled apron, a white bonnet with an orange bow, white socks, and pale blue Mary Jane shoes; her long wavy blonde hair streams backward, and puffs of white transformation smoke surround her dress and trail behind her. The villain wears a blue jester hood with two floppy points tipped by red balls, glowing red eyes, a skull-like gray face, sharp teeth, a purple ruffled collar and cuffs, a blue tunic with red buttons, orange tights, red curled boots, and a dark cape. Between them, show exactly 1 rainbow spiral magic projectile, glowing like a colorful vortex with red, orange, yellow, green, cyan, blue, and magenta trails, flying from the villain’s pointed finger toward the girl. Include exactly 1 large full moon centered high in the sky, partly veiled by dark purple storm clouds. Include exactly 1 closed wooden treasure chest with brass bands and a central lock in the lower right-middle foreground. Include 7 prominent gravestones: 1 large tilted stone on the far left, 1 rounded stone near the center behind the girl, 1 small dark stone behind the treasure chest, 1 narrow stone just right of the villain, 1 large tilted stone at the far right foreground, and 2 additional partially obscured stones in the midground. The graveyard ground should be dark, muddy, and rocky with scattered tufts of grass, bare twisted trees on both sides, and a gothic horror atmosphere. Use dynamic composition, cinematic lighting, strong rim light from the moon, saturated anime colors, crisp linework, detailed fabric folds, expressive faces, and motion blur only in the smoke and magic trails. No captions, no UI, no watermark, no extra characters. Use a 16:9 landscape canvas. The overall mood should be {argument name="mood" default="spooky but adventurous"}, inspired by retro side-scrolling dark fantasy game art transformed into a polished modern anime illustration.
+```
+
+**来源：** [@犬神 潤](https://x.com/Inugami_jyun/status/2082140322377912567) | 2026-07-28
+
+---
+
+### 🏷️ 例 5206：雨天里放松的黑猫
+
+![雨天里放松的黑猫](../images/%E9%9B%A8%E5%A4%A9%E9%87%8C%E6%94%BE%E6%9D%BE%E7%9A%84%E9%BB%91%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个温馨且具有照片级真实感的室内场景，画面中一只 {argument name="cat color" default="black"} 猫正肚皮朝上躺在米色的纹理地毯上，姿态完全放松，四肢向外伸展呈海星状，头部倒向镜头，双眼紧闭，清晰可见细小的爪子和胡须。猫咪位于室内，身旁是一扇巨大的木框落地窗，窗上布满了雨滴，窗外是模糊的雨中花园或阳台。营造一种温暖的雨天氛围：窗外柔和的自然灰光与背景中琥珀色台灯的微光交织。包含 5 个主要的可见家具或背景元素：1 扇布满雨滴的大窗户、1 个靠窗放置的米色地垫、1 张放着叠放书籍的低矮木质边桌或架子、1 盏带有暖色灯罩的台灯，以及猫咪附近地毯上的 1 个陶瓷马克杯。添加奶油色薄纱窗帘、木质踢脚线、柔和的棕色墙壁，并采用浅景深效果。构图：4:5 竖版照片，猫咪位于下半部分中心，窗户占据右侧，左侧为温馨的房间细节，呈现真实的毛发质感，电影级柔焦，无文字，无人物，无水印。
+
+[English]
+Create a cozy photorealistic interior scene of a {argument name="cat color" default="black"} cat lying belly-up on a textured beige rug, completely relaxed with all four legs stretched outward in a starfish pose, head upside down toward the camera, eyes closed, tiny paws and whiskers visible. The cat is indoors beside a large wooden-framed floor-to-ceiling window covered in many raindrops, with a rainy garden or balcony softly blurred outside. Use a warm rainy-day atmosphere: soft natural gray light from the window mixed with a small amber table lamp glow in the background. Include exactly 5 main visible furnishing/background elements: 1 large rain-speckled window, 1 beige floor cushion leaning by the window, 1 low wooden side table or shelf with stacked books, 1 lit table lamp with a warm shade, and 1 ceramic mug on the rug near the cat. Add sheer cream curtains, wooden floor trim, muted brown walls, and shallow depth of field. Composition: vertical 4:5 photo, cat centered in the lower half, window filling the right side, cozy room details on the left, realistic fur texture, cinematic soft focus, no text, no people, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2082101076376117317) | 2026-07-28
+
+---
+
+### 🏷️ 例 5209：白化水马在村庄中疾驰
+
+![白化水马在村庄中疾驰](../images/%E7%99%BD%E5%8C%96%E6%B0%B4%E9%A9%AC%E5%9C%A8%E6%9D%91%E5%BA%84%E4%B8%AD%E7%96%BE%E9%A9%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个电影级的高奇幻动作场景，画面中 {argument name="creature type" default="一只白化水马魔法马"} 正沿着中世纪石砌村庄狭窄的鹅卵石路向观众直冲而来。这只生物通体雪白，皮肤湿润有光泽，拥有强健的肌肉、尖尖的马耳、长长的口鼻部以及摄人心魄的 {argument name="eye color" default="发光的红眼"}；它极长的白色鬃毛和尾巴在风中凌乱飘散，如同流动的泉水。展示其前腿迈步腾空、后腿蹬踏水洼的瞬间，蹄下激起明亮的水花、水滴、薄雾和尘土，以突显速度感。场景设定为 {argument name="setting" default="一个古老的欧洲奇幻村庄，有石砌小屋、城堡塔楼、教堂尖顶、矮墙、野花和远处的山丘"}，背景是明亮的蓝天和蓬松的白云。采用低角度正面拍摄，浅景深，戏剧性的自然日光，清晰的写实细节，水滴上的体积光闪烁，动态感十足，呈现史诗般的奇幻写实风格。无骑手，无马鞍，无缰绳，无文字，无边框，无水印。
+
+[English]
+Create a cinematic high-fantasy action scene of {argument name="creature type" default="an albino kelpie magical horse"} galloping straight toward the viewer down a narrow cobblestone road in a medieval stone village. The creature is pure white with wet glossy skin, a powerful muscular body, pointed horse ears, a long muzzle, and intense {argument name="eye color" default="glowing red eyes"}; its extremely long white mane and tail stream backward in tangled windblown strands like flowing water. Show the front legs lifted mid-stride and the rear legs pushing through puddles, with bright splashes, droplets, mist, and dust exploding around the hooves to emphasize speed. The setting is {argument name="setting" default="an old European fantasy village with stone cottages, castle towers, church spires, low walls, wildflowers, and distant hills"}, under a bright blue sky with puffy white clouds. Use a low front-facing camera angle, shallow depth of field, dramatic natural daylight, crisp realistic detail, volumetric sparkle on water droplets, dynamic motion, and epic fantasy realism. No rider, no saddle, no harness, no text, no frame, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2082098446014837065) | 2026-07-28
+
+---
+
+### 🏷️ 例 5213：钟摆仓鼠水彩画
+
+![钟摆仓鼠水彩画](../images/%E9%92%9F%E6%91%86%E4%BB%93%E9%BC%A0%E6%B0%B4%E5%BD%A9%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅可爱的单格水彩插画，主角是一只极其圆润、毛茸茸的金色仓鼠，它正像钟摆一样摇晃。仓鼠位于暖奶油色背景的中心，坐在一小堆浅色木屑上。它头部和两侧有着金棕色的毛发，腹部和口鼻部为柔和的白色，有着粉色的小爪子、粉色的鼻子、细长的胡须、圆圆的小耳朵、红润的脸颊、困倦半闭的眼睛以及微张的小嘴。表现出它的身体向一侧轻轻倾斜，仿佛正在摇摆，身后有 2 个浅色半透明的重影轮廓，左右各一个，以指示之前的摆动位置。添加 7 个运动标记：仓鼠上方有 3 条跟随摆动路径的大型弧线，左侧附近有 2 条短的晃动弧线，右侧附近有 2 条短的晃动弧线。风格应为精致的手绘童书艺术，带有柔和的铅笔轮廓、温暖的水彩渲染、可见的毛发质感、柔和的阴影、圆润的比例以及可爱平静的氛围。画面中不要有文字、边框、额外的动物或木屑以外的道具。
+
+[English]
+Create a cute single-panel watercolor illustration of one extremely round, fluffy golden hamster acting like a pendulum. The hamster is centered on a warm cream background, sitting on a small mound of pale wood shavings. It has golden-brown fur on the head and sides, a soft white belly and muzzle, tiny pink paws, a pink nose, fine whiskers, small rounded ears, rosy cheeks, sleepy half-closed eyes, and a tiny slightly open mouth. Show its body tilted gently to one side as if swaying, with exactly 2 pale translucent ghosted silhouettes behind it, one to the left and one to the right, indicating previous swing positions. Add exactly 7 motion marks: 3 large curved arc lines above the hamster following the swing path, 2 short curved wobble marks near the left side, and 2 short curved wobble marks near the right side. Style it as delicate hand-drawn children’s book art with soft pencil outlines, warm watercolor washes, visible fur texture, gentle shading, rounded proportions, and an adorable calm mood. No text, no border, no extra animals, no props beyond the wood shavings.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2082092048317108709) | 2026-07-28
+
+---
+
+### 🏷️ 例 5223：富有表现力的石墨铅笔素描
+
+![富有表现力的石墨铅笔素描](../images/%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E7%9A%84%E7%9F%B3%E5%A2%A8%E9%93%85%E7%AC%94%E7%B4%A0%E6%8F%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纹理细腻的艺术绘图纸上创作一幅极具表现力的石墨铅笔肖像，比例为 4:5。
+
+创作时保持约 85%–90% 的完成度，刻意留下未完成的片段、开放式轮廓、辅助线以及可见的艺术处理痕迹。这幅肖像应呈现出博物馆级石墨素描的质感，而非完全渲染的插画。
+
+使用极其浓郁的 {argument name="shading intensity" default="深邃的石墨黑"}，并营造强烈的色调对比。利用厚重的 {argument name="pencil grade" default="8B–14B"} 石墨构建强有力的黑色视觉焦点，创造出能瞬间吸引观众目光的浓重阴影块面。最暗处的色调应显得浓郁、如天鹅绒般细腻且具有触感，避免出现数码压缩感。
+
+不要平均渲染每一个细节，而应有选择地强调面部最具表现力的特征——尤其是眼睛、眉毛、鼻梁、胡须纹理、发际线和面部结构。让这些关键区域拥有最高水平的细节和对比度。
+
+其余区域应逐渐消融为松散的石墨笔触、不完整的阴影、断裂的轮廓和未完成的形态，渲染程度控制在 80% 以下。肖像的大面积区域应刻意保持“暗示”而非“详述”，留出负空间，让观众的想象力去补全画面。
+
+使用自信、充满活力的铅笔笔触，并保持自然的力度变化。通过层叠的石墨、交叉排线、羽状阴影、不规则线条和自发的素描手势来构建形态。
+
+可见的石墨粉应在纸面上柔和地扩散，产生微妙的氛围过渡，同时避免过度涂抹。包含真实的石墨颗粒感、炭笔般的粉尘、意外的污迹、擦除的高光、纸张纤维、脏白色调以及真实的手绘瑕疵。
+
+头发应通过富有表现力的重叠笔触来渲染，交替使用极其锋利的发丝和松散的石墨块面。胡须应显得自然、粗犷且纹理丰富，使用层叠的断续石墨痕迹，而非平滑的渲染。
+
+保持戏剧性的高对比度照明设置。主要通过色调块面而非轮廓来定义肖像。深黑色应作为构图的锚点，而柔和的中间调则逐渐消失在未完成的纸张纹理中。
+
+整体色调氛围应类似于传统的学院派石墨大师素描，使用 {argument name="tonal palette" default="冷中性石墨色调"}，并辅以浓郁的炭黑和温暖的纸张高光。避免平淡的灰色渲染。在整个构图中保持强烈的黑色重音和清晰的明暗值区分。
+
+传统石墨素描，博物馆级铅笔艺术，表现主义写实，选择性渲染，戏剧性明暗对比，强有力的黑色视觉焦点，真实的石墨质感，触感纸面，未完成的艺术过程，手工外观，美术速写本美学，高对比度，深邃的石墨黑，可见的石墨粉尘。
+
+[English]
+A highly expressive graphite pencil portrait on textured fine art drawing paper, 4:5 aspect ratio.
+
+Create the drawing with approximately 85–90% completion, intentionally leaving unfinished passages, open contours, construction lines, and visible artistic decisions. The portrait should feel like a museum-quality graphite study rather than a fully rendered illustration.
+
+Use extremely rich, {argument name="shading intensity" default="deep graphite blacks"} with dramatic tonal contrast. Build powerful black focal points using heavy {argument name="pencil grade" default="8B–14B"} graphite, creating bold shadow masses that immediately attract the viewer's eye. The darkest values should feel dense, velvety, and tactile without appearing digitally crushed.
+
+Instead of rendering every detail equally, selectively emphasize only the most expressive features of the face—especially the eyes, eyebrows, nose bridge, beard texture, hairline, and facial structure. Allow these key areas to receive the highest level of detail and contrast.
+
+The remaining areas should gradually dissolve into loose graphite marks, incomplete shading, broken contours, and unfinished forms, with less than 80% rendering. Large areas of the portrait should intentionally remain suggested rather than fully described, allowing negative space and the viewer's imagination to complete the image.
+
+Use confident, energetic pencil strokes with natural variation in pressure. Build form through layered graphite, cross-hatching, feathered shading, irregular line work, and spontaneous sketch gestures.
+
+Visible graphite powder should softly spread across the paper, producing subtle atmospheric transitions without becoming overly blended. Include realistic graphite grain, charcoal-like dust, accidental smudges, erased highlights, paper fibers, dirty whites, and authentic hand-drawn imperfections.
+
+Hair should be rendered with expressive overlapping strokes that alternate between razor-sharp strands and loose graphite masses. Facial hair should appear organic, rough, and richly textured using layered broken graphite marks instead of smooth rendering.
+
+Maintain a dramatic high-contrast lighting setup. Define the portrait primarily through tonal masses rather than outlines. Deep blacks should anchor the composition while soft midtones gradually disappear into unfinished paper texture.
+
+The overall tonal mood should resemble a traditional academic graphite master drawing using {argument name="tonal palette" default="cool neutral graphite tones"} with rich charcoal blacks and warm paper highlights. Avoid flat gray rendering. Preserve strong black accents and crisp value separation throughout the composition.
+
+Traditional graphite drawing, museum-quality pencil art, expressive realism, selective rendering, dramatic chiaroscuro, powerful black focal points, authentic graphite texture, tactile paper surface, unfinished artistic process, handmade appearance, fine art sketchbook aesthetic, high contrast, deep graphite blacks, visible graphite dust.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2082069491366891904) | 2026-07-28
+
+---
+
+### 🏷️ 例 5230：水墨池塘上的天使西施犬
+
+![水墨池塘上的天使西施犬](../images/%E6%B0%B4%E5%A2%A8%E6%B1%A0%E5%A1%98%E4%B8%8A%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%A5%BF%E6%96%BD%E7%8A%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅宁静的奇幻数字艺术作品，采用 16:9 宽屏电影构图。在日出时的魔法森林中，展示一只毛茸茸的小型 {argument name="dog breed" default="西施犬"} 轻轻飞过一个发光的池塘，位置偏左，面部略微朝向观众。小狗拥有柔软的奶油色、米色和浅棕色毛发，深邃且富有表现力的大眼睛，小巧的黑色鼻子，表情宁静而纯真。为它添加一对巨大的天使翅膀，羽毛半透明，背后闪烁着温暖的金色轮廓光。背景是茂密的绿色森林，有高大的树木、长满苔藓的河岸、深邃的阴影，以及从上方中心穿过树冠的灿烂阳光，营造出一种平静、神圣、祥和的氛围。池塘看起来应像水与酒精墨水交融：呈现出绿松石色、翡翠色、水蓝色、钴蓝色和深靛蓝色的漩涡，具有半透明的层次感、光泽的反射，以及勾勒墨水边缘的精致金属金纹。在水面和森林边缘，特别是右侧，添加空灵的薄雾、柔和的烟雾状细丝、微小的闪烁颗粒和微妙的魔法光迹。采用高度细腻的写实绘画风格、电影级光效、体积光、梦幻氛围、丰富的对比度、复杂的毛发和羽毛纹理，无文字，无人像，无水印。
+
+[English]
+Create a serene fantasy digital artwork in a wide cinematic 16:9 composition. In an enchanted forest at sunrise, show a small fluffy {argument name="dog breed" default="Shih Tzu"} flying gently above a luminous pond, positioned left of center and facing slightly toward the viewer. Give the dog soft cream, beige, and light brown fur, large dark expressive eyes, a tiny black nose, and a peaceful innocent expression. Add one pair of large angel wings, feathered and semi-translucent, glowing with warm golden rim light behind the dog. The background is a dense green forest with tall trees, mossy banks, deep shadows, and brilliant sunbeams streaming through the canopy from the upper center, creating a calm, sacred, peaceful mood. The pond should look like flowing alcohol ink mixed with water: marbled turquoise, emerald, aqua, cobalt blue, and deep indigo swirls with translucent layers, glossy reflections, and delicate metallic gold veins tracing the edges of the ink shapes. Add ethereal mist, soft smoke-like wisps, tiny sparkling particles, and subtle magical light trails around the water and forest edges, especially on the right side. Use highly detailed painterly realism, cinematic lighting, volumetric rays, dreamy atmosphere, rich contrast, intricate fur and feather texture, no text, no humans, no watermark.
+```
+
+**来源：** [@mic](https://x.com/333mic999/status/2082051210484539432) | 2026-07-28
+
+---
+
+### 🏷️ 例 5240：复古 80 年代 City Pop 动漫风格插画
+
+![复古 80 年代 City Pop 动漫风格插画](../images/%E5%A4%8D%E5%8F%A4%2080%20%E5%B9%B4%E4%BB%A3%20City%20Pop%20%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%A0%BC%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张详细的中景复古动漫插画，采用 {argument name="art style" default="1980 年代日本 City Pop"} 艺术风格，具有纹理纸张质感和复古丝网印刷效果。将上传的参考照片转换为相同人物，同时保留其面部特征、发型、胡须、面部比例、笑容、肤色及可辨识的特征。他留着深色短卷发，胡须修剪整齐，佩戴超大号黑色方形墨镜，镜片颜色较深。他正随意地倚靠在水岸步道或船甲板的深色木质栏杆上，一只手插在裤兜里，另一只手扶在栏杆上，若有所思地望向右侧。他穿着一件解开扣子的 {argument name="shirt style" default="浅米色短袖古巴领衬衫"}，版型宽松，搭配深靛蓝色高腰打褶长裤，系着黑色皮带，佩戴一款经典的棕色皮表带不锈钢手表。背景为 {argument name="background" default="在鲑鱼粉、橙色和桃色渐变日落天空下，广阔而宁静的水岸"}。一轮巨大的淡色圆形太阳高悬天际，风格化的蓬松云朵飘浮在天边。平静的深蓝绿色水面映照着温暖的晚霞，远处深色的山脉横亘在背景中。场景采用柔和的黄金时刻光影、电影感阴影和浓郁的怀旧色彩。构图强调轻松自信与永恒的夏季时尚，通过清晰的动漫线条、细腻的赛璐珞阴影、地道的 80 年代 City Pop 美学、轻微的胶片颗粒感、纹理纸张、柔和的复古色调以及高级的日式复古插画风格呈现。
+
+[English]
+A detailed medium-long shot retro anime illustration in the style of {argument name="art style" default="1980s Japanese City Pop"} artwork with a textured paper surface and vintage screen-print finish. Transform the uploaded reference photo into the same person while preserving his facial identity, hairstyle, beard, facial proportions, smile, skin tone, and recognizable features. He has short dark wavy hair, a neatly trimmed beard, and wears oversized black square sunglasses with dark lenses. He is casually leaning against a dark wooden railing on a waterfront promenade or ship deck, with one hand resting in his trouser pocket and the other on the railing, gazing thoughtfully to his right. He wears an unbuttoned {argument name="shirt style" default="light beige short-sleeved camp-collar shirt"} with a relaxed fit, dark indigo high-waisted pleated trousers secured with a black leather belt, and a classic stainless-steel watch with a brown leather strap. The background features a {argument name="background" default="vast, tranquil waterfront beneath a dramatic salmon-pink, orange, and peach gradient sunset sky"}. A large pale circular sun hangs high in the sky while stylized fluffy clouds drift across the horizon. Calm deep blue-green water reflects the warm evening light, with dark distant mountain ranges stretching across the background. The scene is illuminated with soft golden-hour lighting, cinematic shadows, and rich nostalgic colors. Composition emphasizes relaxed confidence and timeless summer fashion, rendered with crisp anime linework, subtle cel shading, authentic 80s City Pop aesthetics, slight film grain, textured paper, muted retro color palette, and a premium vintage Japanese illustration style.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2082016611909951722) | 2026-07-28
+
+---
+
+### 🏷️ 例 5267：怀旧 2000 年代数码相机人像
+
+![怀旧 2000 年代数码相机人像](../images/%E6%80%80%E6%97%A7%202000%20%E5%B9%B4%E4%BB%A3%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{
+  "reference":"使用附图作为面部参考；保留可识别的特征、自然比例、不对称性、面部和谐感、个性以及真实的皮肤纹理。",
+  "scene":"在 {argument name="sky" default="鲜艳的钴蓝色正午天空"} 下的户外人像；极端的虫眼低角度；2000 年代初的 CCD 卡片数码相机；直闪光灯与强烈的日光混合。",
+  "subject":"大笑并用一只前臂遮挡面部，仅露出部分眼睛和上脸颊；头部微低；凌乱的发髻，带有发光的碎发；{argument name="clothing" default="超大号褪色海军蓝抓绒卫衣"}；{argument name="accessory" default="小巧的耳钉"}。",
+  "style":"怀旧的高级数码相机快照；梦幻般的复古镜头感；低解析力；球面像差；奶油般的柔和感；轻微的手持运动模糊；光晕；遮蔽眩光；提升的黑色/阴影；轻微的 JPEG 柔和感；温暖的 CCD 色彩；略微偏暖的白平衡；无数字模糊。",
+  "lighting":"闪光灯柔和地填充面部阴影；头顶的阳光营造出金色的轮廓光；头发、嘴唇、指尖、卫衣纤维、睫毛和天空上受控的过曝微高光。",
+  "skin":"健康、水润、透亮的皮肤，带有真实的毛孔；红润的脸颊；光泽感的桃色嘴唇。",
+  "makeup":"玻璃肌妆感；羽毛眉；冷灰色美瞳；根根分明的睫毛；暖灰褐色眼影；颧骨、鼻尖、唇峰、内眼角、眉骨和下巴处带有闪亮的高光，同时保留皮肤纹理。",
+  "color":"浓郁的自然色彩；水洗海军蓝卫衣；暖色调皮肤；钴蓝色天空；金色头发；哑光抓绒；有光泽的皮肤和嘴唇。",
+  "composition":"轻微的荷兰式倾斜；不完美的手持构图；随性自在的夏日美学。",
+  "negative":"改变身份、美颜滤镜、塑料感/蜡质/哑光/油腻皮肤、强烈的清晰度、过度锐化、过度的微对比度、HDR、超清晰的面部、平淡的色彩。",
+  "ar":"4:5"
+}
+
+[English]
+{
+  "reference":"Use attached image as facial reference; preserve recognizable identity, natural proportions, asymmetry, facial harmony, character, realistic skin texture.",
+  "scene":"Outdoor portrait beneath vivid cobalt-blue midday sky; extreme worm's-eye low angle; early-2000s CCD compact digicam; direct flash mixed with harsh daylight.",
+  "subject":"{argument name="subject action" default="Laughing while shielding face with one forearm, only part of one eye and upper cheek visible"}; head slightly lowered; messy bun with glowing flyaways; oversized {argument name="clothing" default="faded navy fleece sweatshirt"}; tiny stud earrings.",
+  "style":"Nostalgic premium digicam snapshot; dreamy vintage glass; low resolving power; spherical aberration; creamy softness; subtle handheld motion blur; halation; veiling flare; lifted blacks/shadows; mild JPEG softness; warm CCD color; slightly warm white balance; no digital blur.",
+  "lighting":"Flash gently fills facial shadows; overhead sun creates golden rim light; controlled blown micro-highlights on hair, lips, fingertips, sweatshirt fibers, eyelashes, and sky.",
+  "skin":"Healthy hydrated luminous skin with realistic pores; rosy cheeks; glossy peach lips.",
+  "makeup":"Glass-skin finish; feathered brows; cool grey contacts; separated lashes; warm taupe eyeshadow; shimmering highlighter on cheekbones, nose, cupid's bow, inner corners, brow bone, and chin while preserving texture.",
+  "color":"Rich natural colors; washed navy sweatshirt; warm skin; cobalt sky; golden hair; matte fleece; glossy skin and lips.",
+  "composition":"Slight Dutch tilt; imperfect handheld framing; spontaneous carefree summer aesthetic.",
+  "negative":"Altered identity, beauty filter, plastic/waxy/matte/greasy skin, harsh clarity, oversharpening, excessive micro-contrast, HDR, ultra-sharp face, flat colors.",
+  "ar":"4:5"
+}
+```
+
+**来源：** [@WasifAI](https://x.com/doctorwasif/status/2081961930340941965) | 2026-07-28
+
+---
+
+### 🏷️ 例 5281：橙色系推活下午茶
+
+![橙色系推活下午茶](../images/%E6%A9%99%E8%89%B2%E7%B3%BB%E6%8E%A8%E6%B4%BB%E4%B8%8B%E5%8D%88%E8%8C%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张温馨奢华的推活主题下午茶平铺/桌面摄影作品，主色调为 {argument name="oshi color" default="橙色"}，辅色为 {argument name="accent color" default="金色"}。画面展示一张优雅的大理石咖啡馆桌子，摆满了偶像/动漫周边和甜点。主体是一个装饰精美的痛包，直立在右后方，饰有蕾丝、珍珠、丝带、珠链、小玫瑰和一个巨大的缎面蝴蝶结；透明展示层内整齐排列着 20 枚圆形徽章（4x5 网格），每枚徽章上都是同一个 {argument name="favorite character" default="穿着灰色西装、系着橙色领带的金色头发动漫王子"} 的头像。左前方放置一个配套的华丽相框，相框上装饰着珍珠、橙色玫瑰、蕾丝和蝴蝶结，框内是同一位金发动漫男子的全身肖像，他正微笑着向观众伸手。在周边商品周围布置精致的下午茶：共有 2 个清晰可见的甜点盘/架，左侧为一个银色双层点心架，前方为一个华丽的瓷质甜点盘；总计 9 个清晰可见的糕点，包括光亮的橙色半球蛋糕、方形橙奶油夹心蛋糕、奶油塔和小型马卡龙，所有甜点均饰有小蝴蝶结、花朵或星星挂件。右侧放置一个白金瓷质茶杯，杯中盛有琥珀色的茶，配有配套的茶托和茶壶。使用大量的珍珠串、金链挂件、蕾丝花边、缎面丝带、玫瑰装饰和闪烁的高光。背景为奶油色和橙色花朵以及温暖的虚化光斑，呈现柔和的模糊效果。整体风格：高度细节化的照片级逼真智能手机咖啡馆摄影，温暖的金色光影，浅景深，优雅的御宅族周边美学，无文字，无水印，竖构图 3:4。
+
+[English]
+Create a warm, luxurious hobby-fan afternoon tea flat-lay/tabletop photograph themed around {argument name="oshi color" default="orange"} with {argument name="accent color" default="gold"}. Show an elegant marble café table filled with idol/anime fan goods and desserts. The main subject is a decorated ita-bag standing upright in the back right, trimmed with lace, pearls, ribbons, bead chains, small roses, and a large satin bow; inside the clear panel are exactly 20 round pin badges arranged in a 4-by-5 grid, each badge showing the same {argument name="favorite character" default="blond anime prince in a gray suit with an orange tie"} face illustration. In the front left, place a matching ornate photo frame covered in pearls, orange roses, lace, and a bow, containing a full-body character portrait of the same blond anime man smiling and reaching toward the viewer. Surround the fan goods with a refined afternoon tea setup: exactly 2 visible dessert plates/tiers, one silver two-tier stand at left and one ornate porcelain dessert plate in front; exactly 9 visible pastries total, including glossy orange dome cakes, square orange-and-cream layer cakes, whipped cream tartlets, and small macarons, all decorated with tiny bows, flowers, or star charms. Add a white-and-gold porcelain teacup filled with amber tea, a matching saucer, and a matching teapot on the right. Use abundant pearl strands, gold chain charms, lace ruffles, satin ribbons, rose decorations, and sparkling highlights. Background should be softly blurred with cream and orange flowers and warm bokeh lights. Overall style: highly detailed photorealistic smartphone café photo, cozy golden lighting, shallow depth of field, elegant otaku merch aesthetic, no text, no watermark, vertical 3:4 composition.
+```
+
+**来源：** [@ちま@zeta垢](https://x.com/_ai_chima_/status/2081939446895890648) | 2026-07-28
+
+---
+

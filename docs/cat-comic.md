@@ -7849,3 +7849,259 @@ Constraints: Use exactly 4 panels and exactly 6 text boxes total. Do not add ext
 
 ---
 
+### 🎬 例 5251：雨中赛博朋克超级英雄漫画页面
+
+![雨中赛博朋克超级英雄漫画页面](../images/%E9%9B%A8%E4%B8%AD%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一个动态漫画故事板/拼贴画，展示在雨夜赛博朋克屋顶上进行的动漫风格未来超级英雄战斗，主角包括 {argument name="spider hero name" default="一位红黑配色的蜘蛛主题英雄"} 和 {argument name="armored hero name" default="一位手持圆盾的蓝色科技装甲英雄"}，他们正在对抗监视无人机和激光攻击。
+
+画布：1:1 正方形图像，排版为精致的漫画页面，使用清晰的白色粗边框将画面精确分隔为 7 个分镜。运用电影级光影、高对比度霓虹反射、雨丝、湿漉漉的屋顶积水、风暴云层以及背景中的霓虹城市天际线。整体氛围：紧张、英勇、戏剧化、动作感强。
+
+布局：使用精确的七个独立分镜：顶部一行 3 个窄分镜，中间一行 1 个大型宽幅动作分镜，底部一行 3 个小分镜。
+
+分镜细节：
+1. 左上分镜：宽幅屋顶全景。蜘蛛主题英雄在前景的湿屋顶上低姿蹲伏，身穿带有红色蛛网图案和发光白色眼罩的黑色战衣；装甲英雄站在后方。霓虹灯牌、天线塔、雨水和光亮的反射充斥画面。
+2. 上中分镜：蜘蛛英雄戴着红色头套的蒙面特写，白色发光的眼睛，红色蛛网图案，紧握的红色拳头举在脸侧，手部周围环绕着如红色闪电般的蛛网能量。
+3. 右上分镜：装甲英雄的特写，身着流畅的深蓝色金属装甲，青色发光面罩，胸前有青色圆形反应堆，举着红白蓝三色圆盾，呈现英勇的三分之二侧面视角。
+4. 中间大分镜：主战斗场景。在屋顶上，蜘蛛英雄在飞溅的雨水中滑行或突进，同时从一只手向装甲英雄投射出青色发光的圆形能量蛛网盾。装甲英雄站稳脚跟，披风飘扬，盾牌就绪，向上发射青色能量束。多架无人机在风暴云中盘旋，向画面射出红色激光；火花、水花和霓虹城市建筑强化了动作感。
+5. 左下分镜：蜘蛛英雄独自蹲在湿漉漉的屋顶上，一只手向前指，仿佛准备发射蛛网；背景是雨水、天线桅杆和黑暗的建筑。
+6. 中下分镜：装甲英雄摆出战斗姿态，手持圆盾，同时产生一个明亮的青色能量球；同心圆状的红色和青色能量环在他周围旋转。
+7. 右下分镜：两位英雄在横跨天空的巨大发光红色蛛网下并肩摆姿势，一只蓝色无人机被困在中心；蜘蛛英雄蹲在前方，装甲英雄持盾站在后方。
+
+视觉风格：现代动漫超级英雄插画与美式漫画分镜相结合，线条清晰锐利，饱和的霓虹青色和红色特效，光亮的湿润表面，戏剧性的轮廓光，细腻的装甲高光，富有表现力的动作姿态，电影般的景深，雨夜赛博朋克氛围。
+
+文本内容：无对话气泡、标题、标志或可读文字。
+
+约束条件：保持精确的 7 分镜漫画布局，并确保两位主要英雄在所有分镜中形象统一。使用 {argument name="primary energy color" default="青色"} 作为装甲英雄的科技特效颜色，使用 {argument name="secondary energy color" default="红色"} 作为激光和蜘蛛能量的颜色。背景在整个过程中应保持为雨夜霓虹屋顶城市。
+
+[English]
+Goal: Create a dynamic comic-book storyboard/collage showing an anime-style futuristic superhero battle on a rainy cyberpunk rooftop at night, featuring {argument name="spider hero name" default="a black-and-red spider-themed hero"} and {argument name="armored hero name" default="a blue armored tech hero with a round shield"} fighting surveillance drones and laser attacks.
+
+Canvas: Square 1:1 image, arranged as a polished comic page with thick clean white gutters separating exactly 7 panels. Use cinematic lighting, high-contrast neon reflections, rain streaks, wet rooftop puddles, storm clouds, and a neon city skyline in the background. Overall mood: intense, heroic, dramatic, action-heavy.
+
+Layout: Use exactly seven discrete panels: 3 narrow panels across the top row, 1 large wide action panel across the middle row, and 3 smaller panels across the bottom row.
+
+Panel details:
+1. Top-left panel: wide rooftop establishing shot. The spider-themed hero crouches low in the foreground on a wet rooftop, black suit with red web patterns and glowing white eye lenses; the armored hero stands farther back. Neon signs, antenna towers, rain, and glossy reflections fill the scene.
+2. Top-middle panel: close-up portrait of the spider hero’s masked face under a red hood, white glowing eyes, red web pattern, clenched red fist raised beside the face, red lightning-like web energy crackling around the hand.
+3. Top-right panel: close-up portrait of the armored hero, sleek dark blue and metallic armor, cyan glowing visor, circular cyan chest reactor, raised round shield with red-white-blue rings, heroic three-quarter view.
+4. Middle large panel: main battle scene. On the rooftop, the spider hero slides or lunges through splashing rainwater while projecting a glowing cyan circular energy web-shield from one hand toward the armored hero. The armored hero stands braced with cape flowing, shield ready, cyan energy beam firing upward. Multiple drones hover in storm clouds, shooting red laser beams across the panel; sparks, water splashes, and neon city buildings intensify the action.
+5. Bottom-left panel: the spider hero crouches alone on the wet rooftop, pointing one hand forward as if preparing to shoot a web; rain, antenna mast, and dark buildings behind.
+6. Bottom-middle panel: the armored hero stands in a battle stance holding the round shield while generating a bright cyan energy sphere; concentric red and cyan circular energy rings swirl around him.
+7. Bottom-right panel: both heroes pose together on the rooftop beneath a giant glowing red spiderweb spread across the sky, with a blue drone caught at the center; the spider hero crouches in front while the armored hero stands behind holding the shield.
+
+Visual style: Modern anime superhero illustration mixed with American comic-book paneling, sharp clean line art, saturated neon cyan and red effects, glossy wet surfaces, dramatic rim lighting, detailed armor highlights, expressive action poses, cinematic depth, rain-soaked cyberpunk atmosphere.
+
+Text content: No speech bubbles, captions, logos, or readable text.
+
+Constraints: Keep the exact 7-panel comic layout and the two main heroes consistent across all panels. Use {argument name="primary energy color" default="cyan"} for the armored hero’s technology effects and {argument name="secondary energy color" default="red"} for lasers and spider energy. Background should remain a rainy neon rooftop city at night throughout.
+```
+
+**来源：** [@Aftahi Rahman](https://x.com/aftahi_ai/status/2081996736185471283) | 2026-07-28
+
+---
+
+### 🎬 例 5260：温馨绘本风生活插画
+
+![温馨绘本风生活插画](../images/%E6%B8%A9%E9%A6%A8%E7%BB%98%E6%9C%AC%E9%A3%8E%E7%94%9F%E6%B4%BB%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+温馨极简平面插画，采用温暖的 {argument name="aesthetic style" default="韩式/日式绘本美学"}，描绘温馨的日常家庭瞬间，角色圆润可爱，面部特征简洁，脸颊红润，黑色轮廓清晰，{argument name="color palette" default="柔和的马卡龙色调"}，温暖的奶油色背景，俏皮的手绘装饰涂鸦，现代斯堪的纳维亚风格室内设计，天然木质家具，室内绿植，大窗户，柔和的自然光，舒适的咖啡馆氛围，{argument name="family activity" default="家庭骑行"}穿过安静的社区，自然的家庭自拍，父母和孩子分享快乐时光，宽松的休闲服饰，可爱的幼儿，简洁的几何构图，细腻的质感，微妙的纸张纹理，编辑类儿童绘本插画，生活切片叙事，迷人的生活方式艺术，平静而怀旧的氛围，极简阴影，带有轻微纹理的平涂色彩，高细节矢量风格数字绘画，异想天开，Pinterest 美学，Instagram 插画风格，4K
+
+[English]
+Cozy minimalist flat illustration in a {argument name="aesthetic" default="warm Korean/Japanese storybook aesthetic"}, depicting wholesome everyday family moments with soft rounded characters, simple facial features, rosy cheeks, clean black outlines, {argument name="color palette" default="muted pastel color palette"}, warm cream background, playful hand-drawn decorative doodles, {argument name="interior style" default="modern Scandinavian-inspired interiors"}, natural wooden furniture, indoor plants, large windows, soft natural daylight, cozy café atmosphere, family biking through a quiet neighborhood, candid family selfies, parents and children sharing joyful moments, oversized casual clothing, cute toddlers, clean geometric compositions, gentle textures, subtle paper grain, editorial children's book illustration, slice-of-life storytelling, charming lifestyle artwork, calming and nostalgic mood, minimal shading, flat colors with slight texture, high-detail vector-inspired digital painting, whimsical, Pinterest aesthetic, Instagram illustration style, 4K
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2081982758101147897) | 2026-07-28
+
+---
+
+### 🎬 例 5262：GPT image 2 × Gemini Omni flash 提示词 - 标题
+
+![GPT image 2 × Gemini Omni flash 提示词 - 标题](../images/GPT%20image%202%20%C3%97%20Gemini%20Omni%20flash%20%E6%8F%90%E7%A4%BA%E8%AF%8D%20-%20%E6%A0%87%E9%A2%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+-
+标题：奢华度假村体验故事板 (Storyboard)
+
+格式：
+• 单页高级故事板
+• 3:4 竖屏比例
+• 五星级度假村宣传活动
+• 编辑式呈现
+• 8 个电影级故事板场景
+
+页眉：
+• 优雅的衬线字体
+• 热带奢华美学
+• 金色装饰涂鸦
+• 信息卡片
+• 此风格的优势
+
+故事板：
+1. 岛屿度假村航拍全景
+2. 宏伟的大堂入口
+3. 俯瞰海洋的无边泳池
+4. 海滨早餐
+5. 水疗护理场景
+6. 海滩日落晚餐
+7. 奢华套房展示
+8. 度假村主视觉航拍镜头
+
+风格：
+四季酒店 (Four Seasons) / 安缦酒店 (Aman Resorts) 美学，电影级旅行摄影，温暖的黄金时刻光影，奢华杂志编辑风格，超写实，8K 分辨率。
+
+[English]
+-
+TITLE: Luxury Resort Experience Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Five-star resort campaign
+• Editorial presentation
+• 8 cinematic storyboard scenes
+
+HEADER:
+• Elegant serif typography
+• Tropical luxury aesthetic
+• Gold decorative doodles
+• Information cards
+• Why This Style Works
+
+STORYBOARD:
+1. Aerial island resort reveal
+2. Grand lobby entrance
+3. Infinity pool overlooking ocean
+4. Oceanfront breakfast
+5. Spa treatment scene
+6. Sunset dinner by the beach
+7. Luxury suite reveal
+8. Resort hero aerial shot
+
+STYLE:
+Four Seasons / Aman Resorts aesthetic, cinematic travel photography, warm golden hour lighting, luxury editorial magazine, ultra realistic, 8K.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2081977119811522597) | 2026-07-28
+
+---
+
+### 🎬 例 5273：超现实黑色电影风格仓鼠漫画页面
+
+![超现实黑色电影风格仓鼠漫画页面](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E9%A3%8E%E6%A0%BC%E4%BB%93%E9%BC%A0%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页带有意外超现实喜剧色彩的单色日本漫画：在深夜的私人书房里，一位优雅忧郁的年轻男子与一只可爱的仓鼠进行着戏剧性的对话，仿佛这是一场严肃的黑色电影悬疑场景。
+
+画布：竖版漫画页面，黑白画风，男子的头发和眼睛带有微妙的冷蓝灰色调，高分辨率网点阴影，清晰的黑色分镜格，印刷漫画质感。使用 8 个分镜格，采用紧凑的页面布局。
+
+布局：第 1 格为顶部全宽电影感定场镜头，展示午夜时分的日式书房，可见障子窗格、窗外阴雨朦胧的庭院、绣球花、堆叠的书籍和抽屉、发光的长方形灯笼，以及坐在桌前抽烟的男子。第 2 格为左侧中景特写，仓鼠从桌边探出头。第 3 格为右侧特写，男子的脸部，唇边衔着烟斗或长烟嘴。第 4 格为左侧中景，男子手托仓鼠斜倚着，烟雾袅袅上升。第 5 格为中央窄幅分镜，展示仓鼠的反应。第 6 格为右侧特写，男子将仓鼠温柔地捧在脸庞附近。第 7 格为全宽极致特写，聚焦男子的眼睛和头发，由细横线隔开。第 8 格为全宽戏剧性结局分镜，背景为黑色，漂浮着白色花瓣、蝴蝶和缕缕烟雾，男子在打开的折扇后微笑。
+
+主体细节：主角为 {argument name="character name" default="一位优雅神秘的年轻男子"}，二十出头，中性美少年特征，皮肤苍白，长而凌乱的 {argument name="hair color" default="深蓝黑色"} 头发垂在一只眼睛上，锐利的红灰色眼睛，佩戴长款垂坠耳环，身着多层深色和服或正式长袍，双手修长，表情冷静而戏谑。仓鼠为 {argument name="hamster description" default="一只圆滚滚的灰白相间小仓鼠，有着乌黑发亮的眼睛、小爪子和困惑无辜的表情"}。强调极致严肃的浪漫漫画构图与仓鼠可爱存在感之间的荒诞对比。
+
+文字内容：在画面各处添加竖排日文漫画旁白和对话气泡，在合适位置使用以下确切的对话/旁白内容：{argument name="Japanese dialogue" default="深夜の私設書庫にて。 / こんな時間まで付き合ってしまったね。 / おや、君はまだ起きていたのかい？ / ふふ、その驚いた顔も可愛いねぇ。 / き、君のせいじゃないのか!? / 君のせい、というわけでもないよ？ / ほら、こうして… / けれど、君がいてくれると夜更けも退屈しない。 / ……さて、そろそろ本題に入ろうか。 / 今夜の議題は、君の処遇だよ。 / 夜は、まだ始まったばかり。"}。在仓鼠和烟雾附近加入细小的手写拟声词，例如细微的吱吱声和摩擦声，但保持其次要地位。
+
+视觉风格：细腻的少女-青年漫画混合风格插画，优雅的线条，光泽感的头发渲染，戏剧性的特写，来自灯笼和月光窗户的电影感光影，精细的网点，高对比度黑色背景，精致的烟雾轨迹，最后一格中的花瓣和蝴蝶。氛围应显得华丽、神秘且带有无意间的幽默感。
+
+约束条件：使用 8 个分镜格，仅限一名人类角色，仅限一只仓鼠，最后一格包含一把折扇，书房内包含一个发光灯笼，包含多个对话气泡但无现代 UI 元素，除微妙的蓝灰色调和淡淡的红眼外无其他色彩，无水印。
+
+[English]
+Goal: Create a monochrome Japanese manga page with an accidental surreal-comedy tone: an elegant, melancholy young man in a late-night private study has a dramatic conversation with a cute hamster as if it were a serious noir mystery scene.
+
+Canvas: Vertical manga page, black-and-white with subtle cool blue-gray tinting in the man's hair and eyes, high-resolution screentone shading, crisp black gutters, printed manga texture. Use exactly 8 panels arranged in a dense page layout.
+
+Layout: Panel 1 is a full-width cinematic establishing shot at the top, showing a traditional Japanese-style study at midnight with shoji window grids, rainy dark garden visible outside, hydrangeas, stacked books and drawers, a glowing rectangular lantern, and the man seated at a desk smoking. Panel 2 is a left medium close-up of a hamster peeking over a desk edge. Panel 3 is a right close-up of the man's face, holding a smoking pipe or long cigarette holder near his lips. Panel 4 is a left medium shot of the man reclining with the hamster in his hand while smoke curls upward. Panel 5 is a narrow central hamster reaction panel. Panel 6 is a right close-up of the man gently holding the hamster near his face. Panel 7 is a full-width extreme close-up of the man's eyes and hair, separated by a thin horizontal gutter. Panel 8 is a full-width dramatic final panel with a black background, floating white petals, butterflies, smoke wisps, and the man smiling behind an open folding fan.
+
+Subject details: The main character is {argument name="character name" default="an elegant mysterious young man"}, early twenties, androgynous bishonen features, pale skin, long tousled {argument name="hair color" default="dark blue-black"} hair falling over one eye, sharp red-gray eyes, long dangling earrings, layered dark kimono or formal robe, refined hands, calm teasing expression. The hamster is {argument name="hamster description" default="a tiny round gray-and-white hamster with glossy black eyes, small paws, and a confused innocent expression"}. Emphasize the absurd contrast between ultra-serious romantic manga framing and the hamster's cute presence.
+
+Text content: Add vertical Japanese manga narration and speech bubbles throughout, using this exact overall dialogue/narration set where it fits: {argument name="Japanese dialogue" default="深夜の私設書庫にて。 / こんな時間まで付き合ってしまったね。 / おや、君はまだ起きていたのかい？ / ふふ、その驚いた顔も可愛いねぇ。 / き、君のせいじゃないのか!? / 君のせい、というわけでもないよ？ / ほら、こうして… / けれど、君がいてくれると夜更けも退屈しない。 / ……さて、そろそろ本題に入ろうか。 / 今夜の議題は、君の処遇だよ。 / 夜は、まだ始まったばかり。"}. Include small handwritten sound effects near the hamster and smoke, such as tiny squeaks and rustling marks, but keep them secondary.
+
+Visual style: Detailed shojo-seinen hybrid manga illustration, elegant linework, glossy hair rendering, dramatic close-ups, cinematic lighting from the lantern and moonlit windows, fine screentones, high contrast black backgrounds, delicate smoke trails, petals and butterflies in the final panel. The mood should feel ornate, mysterious, and unintentionally funny.
+
+Constraints: Use exactly 8 panels, exactly one human character, exactly one hamster, one folding fan in the final panel, one glowing lantern in the study, multiple speech bubbles but no modern UI elements, no color except subtle blue-gray tint and faint red eyes, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2081949220110836219) | 2026-07-28
+
+---
+
+### 🎬 例 5275：深夜仓鼠漫画页
+
+![深夜仓鼠漫画页](../images/%E6%B7%B1%E5%A4%9C%E4%BB%93%E9%BC%A0%E6%BC%AB%E7%94%BB%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页关于深夜烦人打扰的黑白漫画，左上角标题为 {argument name="manga title" default="深夜のウザ絡み"}，右上角页码指示为 {argument name="page indicator" default="1/3"}。
+
+画布：竖版漫画页，单色墨水与网点纸，干净的白色分镜间距，细致的交叉排线，优雅的少女/青年漫画线条。页面包含 5 个带编号的分镜，每个分镜角落均有小方框标注序号。
+
+主角：一位俊美的年轻男性书法家，皮肤苍白，眼神疲惫而精致，留着长长的浅色波浪卷发，一侧肩膀垂着粗辫子，身穿多层传统日式和服。他坐在低矮的木制书桌前，桌上有砚台、毛笔、纸张和成堆的书籍，背景是书架和安静的日式书房氛围。
+
+第二角色：一只圆滚滚的可爱仓鼠，毛茸茸且表情丰富，扮演闯入的播音员。在仓鼠分镜中使用 {argument name="hamster announcement" default="ハムスターによる、ウザ絡みー"} 作为巨大的戏剧性公告文字。
+
+布局与分镜数量：
+1. 顶部横跨页面的宽幅定场镜：日式房间内的深夜场景。推拉门外是满月下的雪景庭院；可以看到积雪的树木和石灯笼。书法家在书桌前写字，周围环绕着书籍和墙上的卷轴。在毛笔旁添加手写拟声词：{argument name="writing sound effect" default="さらさら…"}。
+2. 中右侧大型喜剧分镜：仓鼠站在手稿上，双臂张开，背景带有闪光效果和戏剧性的放射状线条。添加一个竖排对话框，内容为 {argument name="opening phrase" default="深夜のー"}，并在旁边标注巨大的公告文字。
+3. 中左侧窄分镜：书法家低头看着纸张的特写，沉默且不为所动。添加一个仅有省略号的小对话框：“……”。
+4. 右下分镜：书法家单手托腮，在书桌前感到无聊且略显烦躁。添加一个对话框，内容为表示他不擅长这种文学调侃但随它去吧的日语：“文机の上は舞台じゃないんだけどな。” 添加一个轻微的叹气拟声词：“ふぅ…”。
+5. 左下分镜：书法家低头看向仓鼠的戏剧性特写，仓鼠位于画面底部边缘，背对镜头。使用书法家的对话框：{argument name="final dialogue" default="……で、こんな時間にわざわざボーズまで決めて。何かあった？"}。
+
+视觉风格：高度详尽的日式漫画，仅限灰度，精细的笔触，对木材、纸张、雪、头发、衣褶、书籍和庭院进行写实纹理处理。平衡严肃的深夜历史氛围与荒诞的可爱仓鼠喜剧。所有文字均保持日式漫画手写风格，严格保留 5 分镜结构，无颜色，无水印，无额外分镜。
+
+[English]
+Goal: Create a black-and-white manga page about a late-night annoying interruption, with the title {argument name="manga title" default="深夜のウザ絡み"} at the top left and page indicator {argument name="page indicator" default="1/3"} at the top right.
+
+Canvas: Vertical manga page, monochrome ink and screentone, clean white gutters, detailed crosshatching, elegant shoujo/seinen line art. The page contains exactly 5 numbered panels, each with a small boxed panel number in the corner.
+
+Main character: A beautiful young male calligrapher, pale skin, delicate tired eyes, long light-colored wavy hair with a thick braid over one shoulder, wearing layered traditional Japanese robes/kimono. He sits at a low wooden writing desk with inkstone, brush, papers, stacks of books, shelves of old books, and a quiet Japanese study atmosphere.
+
+Second character: A cute round hamster, fluffy and expressive, acting as an intrusive announcer. Use {argument name="hamster announcement" default="ハムスターによる、ウザ絡みー"} as the large dramatic announcement text in the hamster panel.
+
+Layout and panel count:
+1. Wide top establishing panel across the page: night scene inside a traditional Japanese room. Sliding doors open to a snowy garden under a full moon; snow-covered trees and stone lantern outside. The calligrapher writes at his desk, surrounded by books and wall scrolls. Add small handwritten sound text near his brush: {argument name="writing sound effect" default="さらさら…"}.
+2. Middle-right large comedic panel: the hamster stands on the manuscript with arms spread, sparkling background and dramatic radial burst. Add a vertical speech bubble reading {argument name="opening phrase" default="深夜のー"}, and the large announcement text beside it.
+3. Middle-left narrow panel: close view of the calligrapher looking down at his paper, silent and unimpressed. Add a small speech bubble with only ellipsis: "……".
+4. Bottom-right panel: the calligrapher rests his cheek on one hand, bored and mildly annoyed at the desk. Add a speech bubble with Japanese text meaning he is not good at literary teasing but it is fine: "文机の上は舞台じゃないんだけどな。" Add a small sigh sound effect: "ふぅ…".
+5. Bottom-left panel: close dramatic panel of the calligrapher looking down at the hamster, who is seen from behind at the bottom edge. Use a speech bubble from the calligrapher: {argument name="final dialogue" default="……で、こんな時間にわざわざボーズまで決めて。何かあった？"}.
+
+Visual style: Highly detailed Japanese manga, grayscale only, fine pen strokes, realistic textures for wood, paper, snow, hair, fabric folds, books, and garden. Balance serious late-night historical atmosphere with absurd cute-hamster comedy. Keep all text hand-lettered in Japanese manga style, preserve the exact 5-panel structure, no color, no watermark, no extra panels.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2081945847819022732) | 2026-07-28
+
+---
+
+### 🎬 例 5285：黑白照相亭表情网格
+
+![黑白照相亭表情网格](../images/%E9%BB%91%E7%99%BD%E7%85%A7%E7%9B%B8%E4%BA%AD%E8%A1%A8%E6%83%85%E7%BD%91%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个方形黑白照相亭表情网格，每一格中均包含 {argument name="character name" default="同一位年轻女性"}，确保在整个过程中保持一致的身份、脸型、发型、肤色、服装和配饰。主体是一位留着深色头发的年轻女性，扎着凌乱的高丸子头，留有松散的八字刘海和修饰脸型的发丝，佩戴圆环耳环和简约链条项链，身穿休闲圆领 T 恤，部分姿势中可见手表。使用柔和的摄影棚灯光、纯浅灰色背景、高对比度单色人像摄影风格，带有轻微的胶片颗粒感，帧与帧之间有细黑线分隔。画布为完美的正方形，排列成精确的 4×4 网格，包含 16 个等大的肖像单元，每个单元均裁剪为胸部或肩部以上，如同照相亭的样片。保持正面或略微侧转的拍摄角度，面部比例自然，可见的手部动作真实。按以下顺序包含 16 种表情/姿势：1) 面向镜头的温暖放松微笑，2) 双手在双眼处比心/做望远镜状并嘟嘴，3) 闭眼大笑，4) 单手托腮的无聊嘟嘴，5) 略微侧身的搞怪嘟嘴，6) 双手托腮瞪大眼睛的夸张震惊表情，7) 俏皮吐舌微笑，8) 挤眉弄眼的露齿鬼脸，9) 挑眉的夸张悲伤嘟嘴，10) 双手放在脑后或头顶并鼓起脸颊，11) 手指托下巴的沉思侧视，12) 闭眼开怀大笑，13) 在脸旁比剪刀手、单眼眨眼并嘟嘴，14) 双手举起张嘴的咆哮怪兽姿势，15) 闭眼正对镜头的亲吻表情，16) 单手遮住半张脸的害羞俏皮微笑。无文字、无标志、无色彩、无额外人物、无重复或缺失的网格单元。
+
+[English]
+Create a square black-and-white photobooth expression grid featuring {argument name="character name" default="the same young woman"} in every frame, preserving a consistent identity, face shape, hairstyle, skin tone, outfit, and accessories throughout. The subject is a young woman with dark hair in a messy high bun, loose curtain bangs and face-framing strands, hoop earrings, a simple chain necklace, a casual crew-neck T-shirt, and a wristwatch visible in some poses. Use soft studio lighting, a plain light-gray background, high-contrast monochrome portrait photography, slight film-grain realism, and thin black dividers between frames. Canvas is a perfect square arranged as an exact 4×4 grid with 16 equal portrait cells, each cropped from chest or shoulders up like a photobooth contact sheet. Keep the camera angle frontal or slightly turned, with natural facial proportions and realistic hands where visible. Include exactly 16 expressions/poses in this order: 1) warm relaxed smile facing camera, 2) hands forming heart/binocular circles around both eyes with puckered lips, 3) eyes closed laughing with open smile, 4) bored pout with cheek resting on one hand, 5) kissy duck-face lips angled slightly sideways, 6) exaggerated shocked face with both hands on cheeks and wide eyes, 7) playful tongue-out smile, 8) scrunched winking grimace with teeth showing, 9) sad exaggerated pout with raised eyebrows, 10) both hands behind or on top of head with puffed cheeks, 11) thoughtful side glance with fingers under chin, 12) eyes closed joyful laugh, 13) peace sign near face with one eye winking and puckered lips, 14) roaring monster/claw pose with both hands raised and mouth open, 15) eyes closed centered kissy face, 16) shy playful smile with one hand covering half the face. No text, no logos, no color, no extra people, no duplicated or missing grid cells.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2081935225932931315) | 2026-07-28
+
+---
+

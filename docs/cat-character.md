@@ -6843,3 +6843,212 @@ Create a premium, {argument name="fashion style" default="modern high-fashion"} 
 
 ---
 
+### 🧍 例 5191：扁平化矢量专业头像
+
+![扁平化矢量专业头像](../images/%E6%89%81%E5%B9%B3%E5%8C%96%E7%9F%A2%E9%87%8F%E4%B8%93%E4%B8%9A%E5%A4%B4%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+根据参考图像中的人物，创作一张简洁、现代的扁平化矢量肖像插画。保留面部特征、脸型、表情、黑色圆框眼镜以及整体发型。使用自然的纯黑色头发，带有逼真的高光和纹理，发型与参考图完全一致——浓密、蓬松、略显凌乱且向上梳理。胡须需保持浓密、修剪整齐且呈自然黑色。人物身穿纯黑色圆领 T 恤。将背景替换为纯色 {argument name="background color" default="鲜艳的绿色 (#2E7D32)"}。使用平滑的渐变、清晰的边缘、极简的阴影，呈现专业的 Adobe Illustrator/Dribbble 风格矢量美感。肖像居中，正面朝向，构图对称，露出肩部，细节丰富，线条清晰，高分辨率 (4K)，不包含任何文字、Logo、水印或其他多余元素。
+
+[English]
+Create a clean, modern flat vector portrait illustration of the same person in the reference image. Preserve the exact facial features, face shape, expression, black round eyeglasses, and overall hairstyle. Use natural jet-black hair with realistic highlights and texture, styled exactly like the reference—thick, voluminous, slightly messy, and swept upward. Make the beard full, neatly trimmed, and natural black. Dress the person in a plain black crew-neck T-shirt. Replace the background with a solid {argument name="background color" default="vibrant green (#2E7D32)"}. Use smooth gradients, crisp edges, minimal shadows, and a professional Adobe Illustrator/Dribbble-style vector aesthetic. Center the portrait, front-facing, symmetrical composition, shoulders visible, high detail, clean lines, high resolution (4K), with no text, logos, watermarks, or extra objects.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2082150290074304912) | 2026-07-28
+
+---
+
+### 🧍 例 5197：电影级狙击手角色设定集
+
+![电影级狙击手角色设定集](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E7%8B%99%E5%87%BB%E6%89%8B%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一名名为 {argument name="character name" default="RAY"} 的现代军事狙击手创作一张高质量的电影级角色设定集，采用精致的概念艺术呈现方式，并以干净的白色摄影棚背景为底。
+
+画布：宽幅横向角色设定集，比例约为 2:1。采用高端游戏/电影概念艺术风格，具有绘画般的写实感、清晰的墨迹边缘，色调为柔和的军绿色、橄榄棕色、黑色战术点缀，并带有微妙的水彩叶片纹理。
+
+布局：最左侧放置一个巨大的粗体模板风格标题，显示 {argument name="character name" default="RAY"}（深橄榄色），下方副标题为 {argument name="subtitle text" default="SNIPER / GHOST IN THE FIELD"}。在标题下方及侧面，展示一张大型英雄插图，描绘狙击手趴在茂密的伪装叶丛中，通过两脚架支撑，手持长款消音狙击步枪直接瞄准观众。枪管应以电影化的透视效果占据前景，周围环绕着柔和的叶丛和飞溅的植物纹理。
+
+中心区域：添加一个标有“TURNAROUND”（多角度视图）的区域，包含该狙击手的 3 个全身站立视图：正面、侧面和背面。他是一位年轻的成年男性，肤色古铜，留着凌乱的黑色短发，棕色眼睛锐利，面部轮廓分明，有轻微胡茬或皮肤纹理，涂有绿棕色迷彩油彩，体格精干，表情严肃冷静。他身穿由层叠的碎叶条组成的吉利服，内搭战术迷彩裤、深色手套和作战靴，背面视图中背着一把步枪。
+
+底部中心装备栏：添加一个“EQUIPMENT”（装备）标签，并横向排列 4 件装备：1 把带有瞄准镜、消音器、两脚架和可调枪托的橄榄色长款狙击步枪；1 个带有支架和绑带的橄榄褐战术头盔；1 个方形的吉利服叶片材质特写色块；1 个靠近步枪的紧凑型辅助装备细节，如弹匣或支撑附件。保持这些元素像设计手册一样清晰独立。
+
+右侧区域：添加一个标有“DETAILS”（细节）的网格，包含 4 个特写面板：1 个展示油彩和黑色短发的头部及肩部肖像；1 个眼睛和眉毛的极近特写；1 个带有安装硬件的战术头盔特写；1 个戴着手套操作步枪扳机/机匣区域的手部特写。
+
+色板：在细节网格下方，包含一行标有“COLOR PALETTE”（色板）的区域，包含 4 个矩形色块：柔和橄榄绿、大地棕、近黑色炭灰色和深灰色。在右下角，添加标语 {argument name="tagline" default="ONE SHOT. ONE CHANCE."}，使用小型粗体大写橄榄色文字。
+
+约束：所有文字保持英文，确保每个面板中的角色形象保持一致，维持写实的军事比例，避免科幻盔甲，避免多余角色，避免杂乱，无水印，除角色名称标题外不包含任何标志。
+
+[English]
+Goal: Create a premium cinematic character bible sheet for a modern military sniper named {argument name="character name" default="RAY"}, with polished concept-art presentation and clean white studio background.
+
+Canvas: Wide horizontal character sheet, approximately 2:1 aspect ratio. Use a high-end game/film concept art style with painterly realism, crisp ink-like edges, muted military greens, olive browns, black tactical accents, and subtle watercolor foliage textures.
+
+Layout: On the far left, place a huge bold stencil-style title reading {argument name="character name" default="RAY"} in dark olive, with the subtitle {argument name="subtitle text" default="SNIPER / GHOST IN THE FIELD"} below it. Beneath and beside the title, show a large hero illustration of the sniper lying prone in dense leafy camouflage, aiming a long suppressed sniper rifle directly toward the viewer from behind a bipod. The barrel should dominate the foreground with cinematic perspective, surrounded by soft leafy brush and splattered foliage texture.
+
+Center section: Add a labeled "TURNAROUND" area containing exactly 3 full-body standing views of the same sniper: front view, side view, and back view. He is a young adult male with tan skin, short messy black hair, sharp brown eyes, angular face, subtle stubble or face texture, green and brown camouflage face paint, athletic lean build, and serious calm expression. He wears a full ghillie suit made of layered shredded green foliage strips over tactical camouflage pants, dark gloves, combat boots, and a slung rifle across the back in the rear view.
+
+Bottom center equipment strip: Add a small label "EQUIPMENT" and show exactly 4 equipment items arranged horizontally: 1 long olive sniper rifle with scope, suppressor, bipod, and adjustable stock; 1 tactical helmet in olive drab with mounts and straps; 1 close-up square swatch of leafy ghillie fabric; 1 compact secondary gear detail integrated near the rifle such as a magazine or support attachment. Keep these cleanly isolated like a design bible.
+
+Right section: Add a labeled "DETAILS" grid with exactly 4 close-up panels: 1 head-and-shoulders portrait showing face paint and short black hair; 1 extreme close-up of the eyes and brow; 1 close-up of the tactical helmet with mounted hardware; 1 close-up of gloved hands operating the rifle trigger/receiver area.
+
+Color palette: Beneath the detail grid, include a labeled "COLOR PALETTE" row with exactly 4 rectangular swatches: muted olive green, earthy brown, near-black charcoal, and dark gray. In the bottom-right corner, add the tagline {argument name="tagline" default="ONE SHOT. ONE CHANCE."} in small bold uppercase olive text.
+
+Constraints: Keep all text in English, use the same character consistently across every panel, maintain realistic military proportions, avoid sci-fi armor, avoid extra characters, avoid clutter, no watermark, no logos other than the character name title.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2082130717425729733) | 2026-07-28
+
+---
+
+### 🧍 例 5229：南亚身份拼贴画
+
+![南亚身份拼贴画](../images/%E5%8D%97%E4%BA%9A%E8%BA%AB%E4%BB%BD%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的参考图像作为身份参考。保持完全的面部锁定，确保面部特征完全一致。保留面部、面部比例、表情、眼型、鼻子、嘴唇、下颌线、肤色、发型、发际线、微笑以及所有独特的面部特征，使其 100% 相同且可辨识。不得以任何方式改变、重新设计、美化或风格化该身份。确保三幅肖像画的面部保持完美的一致性。
+创作一幅超写实的 3 帧美学肖像拼贴画，主角为上传参考图像中的 {argument name="ethnicity" default="年轻南亚女性"}。她拥有透亮的天然肌肤、柔和的自然妆容、光泽感的双唇、黑色长波浪卷发，佩戴优雅的传统 Jhumka 耳环，身着华丽的 {argument name="outfit color" default="栗色"} 民族服饰。在所有三帧画面中保持相同的服装、发型、配饰和背景，同时展现三种不同优雅自然的姿态，并配以温柔的微笑。
+场景由 {argument name="lighting" default="温暖的黄金时刻窗光"} 照亮，在极简主义的米色墙面上投下柔和的电影感阴影。以高端单反摄影风格捕捉肖像，采用浅景深、奶油般的自然虚化、真实的皮肤质感、逼真的光影、超精细的细节、高级编辑构图、电影级调色以及 8K 超高分辨率。最终的拼贴画应呈现出优雅、永恒、写实的效果，并始终保持完美的面部一致性。
+
+[English]
+the uploaded reference image as the identity reference. Preserve the exact facial identity with full face lock. Keep the face, facial proportions, expression, eye shape, nose, lips, jawline, skin tone, hairstyle, hairline, smile, and all unique facial features 100% identical and recognizable. Do not alter, redesign, beautify, or stylize the identity in any way. Ensure perfect facial consistency across all three portraits.
+Create an ultra-realistic aesthetic 3-frame portrait collage featuring the same {argument name="ethnicity" default="young South Asian woman"} from the uploaded reference image. She has glowing natural skin, soft natural makeup, glossy lips, long wavy black hair, and elegant traditional jhumka earrings, wearing a rich {argument name="outfit color" default="maroon"} ethnic outfit. Maintain the same outfit, hairstyle, accessories, and background consistently in all three frames while showcasing three different graceful and natural poses with a gentle, warm smile.
+The scene is illuminated by {argument name="lighting" default="warm golden-hour window light"}, casting soft, cinematic shadows onto a minimalist beige wall. Capture the portraits in a high-end DSLR photography style with a shallow depth of field, creamy natural bokeh, realistic skin texture, lifelike lighting, ultra-fine details, premium editorial composition, cinematic color grading, and 8K ultra-high resolution. The final collage should look elegant, timeless, photorealistic, and maintain perfect identity consistency throughout.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2082057247727796577) | 2026-07-28
+
+---
+
+### 🧍 例 5258：90 年代 Grunge 风格分裂身份构图
+
+![90 年代 Grunge 风格分裂身份构图](../images/90%20%E5%B9%B4%E4%BB%A3%20Grunge%20%E9%A3%8E%E6%A0%BC%E5%88%86%E8%A3%82%E8%BA%AB%E4%BB%BD%E6%9E%84%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影级单帧多场景构图，主角为 [参考图中的主体 - 保持面部、发型和面部结构一致]，描绘了 {argument name="theme" default="碎片化身份分裂"} 在 {argument name="context" default="混乱晨间日常"} 中的状态，并带有强烈的 {argument name="aesthetic" default="90 年代叛逆能量"}。
+画面包含同一主体的多个版本，每个版本代表不同的个性和情绪。所有面部必须清晰可见、锐利且可辨认，并具有独特的表情。
+中心（主要身份）：
+主体坐在床边，刚醒来，身体微微前倾，眼神空洞但强烈。表情：空虚、疲惫、情感抽离。
+房间杂乱，床单褶皱。
+镜头：35mm 镜头，平视，电影级中近景。
+身份分裂场景（所有面部可见，表情各异）：
+左侧碎片（愤怒叛逆者）：主体在镜子前，姿态略显攻击性，刷牙或泼水时动作杂乱。表情：愤怒、沮丧。
+镜中倒影呈现出略微不同的表情（更强烈）。
+镜头：50mm 镜头，镜面拍摄。
+右侧碎片（冷漠疏离者）：主体手持咖啡，随意倚靠，半眯着眼，流露出毫不费力的“不在乎”态度。表情：冷漠、麻木。
+镜头：85mm 镜头，浅景深。
+上方碎片（狂野能量）：主体在窗边，衬衫半开或穿着叠搭服装，身体伸展但动作混乱，歪着头，眼神锐利。表情：狂躁、不安。
+镜头：24mm 广角镜头，低角度。
+下方碎片（自我觉察/疲惫）：主体蹲着或系鞋带，直视镜头，目光原始而真诚。表情：脆弱但清醒。
+镜头：70mm 镜头，轻微俯拍。
+额外的浮动碎片：破碎的画框片段展示了眼睛、冷笑、紧咬的下巴的特写，以及各身份间不同的微表情。
+服装与风格（90 年代叛逆者）：
+Grunge / 朋克 / 90 年代叛逆美学：
+超大号法兰绒衬衫、破洞牛仔裤、乐队 T 恤、皮夹克、链条配饰，妆容凌乱或略带汗水感。
+服装在场景间转换（睡衣 → Grunge 街头服饰）。
+头发略显凌乱，自然，不完美。
+混乱视觉效果：
+破碎的镜面美学、重叠的画框、撕裂的胶片边缘、双重/三重曝光。
+微妙的动态重影以表现情绪的不稳定性。
+部分元素（手、肩膀、脸部边缘）激进地突破画框。
+灯光与调色：
+混合光线：柔和的晨光 + 强烈的对比阴影。
+调色：
+柔和的暖色调（黄/橙）
+深青色/绿色阴影
+轻微的 90 年代复古胶片褪色
+细微的颗粒感与光晕
+灵感源自 90 年代 Grunge 摄影 + 原始电影质感。
+氛围：
+叛逆、躁动、反建制能量、情感混乱、身份困惑。
+感觉就像醒来时不知道哪一个版本的自己会占据主导。
+细节：
+超写实皮肤纹理、可见毛孔、织物细节、灰尘颗粒、质感、漏光。
+技术参数：
+超写实，8K，HDR，电影级，非插画，非卡通，无风格化腹肌
+
+[English]
+Ultra-realistic cinematic multi-scene composition in a single frame, featuring {argument name="subject" default="[SUBJECT FROM REFERENCE IMAGE - maintain exact face, hairstyle, and facial structure]"}, portraying a fragmented identity split during a chaotic morning routine with strong {argument name="style" default="90s rebellious energy"}.
+The frame contains multiple versions of the same subject, each representing a different personality/emotion. All faces must be clearly visible, sharp, and recognizable, with distinct expressions.
+CENTER (MAIN IDENTITY):
+Subject sitting on the edge of the bed, just woke up, leaning forward slightly, staring blankly but intense. Expression: empty, tired, emotionally detached.
+Messy room, crumpled sheets.
+Camera: 35mm lens, eye-level, cinematic close-medium.
+IDENTITY SPLIT SCENES (ALL FACES VISIBLE, DIFFERENT EXPRESSIONS):
+Left fragment (ANGRY REBEL): subject in front of mirror, slightly aggressive posture, messy movement while brushing teeth or splashing water. Expression: angry, frustrated.
+Mirror reflection shows a slightly different expression (more intense).
+Camera: 50mm lens, mirror shot.
+Right fragment (COOL DETACHED): subject holding coffee, leaning casually, eyes half-lidded, effortless “don’t care” attitude. Expression: cold, numb.
+Camera: 85mm lens, shallow depth.
+Top fragment (WILD ENERGY): subject near window, shirt half open or layered outfit, body stretching but chaotic, head tilted, eyes sharp. Expression: manic, restless.
+Camera: 24mm wide lens, low angle.
+Bottom fragment (SELF-AWARE / TIRED): subject crouching or tying shoes, looking up directly to camera with raw, honest gaze. Expression: vulnerable but aware.
+Camera: 70mm lens, slight top-down.
+Additional floating shards: broken-frame pieces showing close-ups of eyes, smirks, clenched jaw, different micro-expressions across identities.
+OUTFIT & STYLE (REBEL 90s):
+{argument name="outfit clothing" default="oversized flannel, ripped jeans, band tee, leather jacket, chain accessories"}, messy or slightly sweaty look.
+Outfit transitions between scenes (sleepwear → grunge streetwear).
+Hair slightly messy, natural, imperfect.
+CHAOTIC VISUAL EFFECTS:
+Fractured mirror aesthetic, overlapping frames, torn film edges, double/triple exposure.
+Subtle motion ghosting to show emotional instability.
+Some elements breaking out of frame aggressively (hands, shoulders, face edges).
+LIGHTING & COLOR GRADING:
+Mixed lighting: soft morning light + harsh contrast shadows.
+Color grading:
+muted warm tones (yellow/orange)
+deep teal/green shadows
+slight vintage 90s film fade
+subtle grain & halation
+Inspired by 90s grunge photography + raw cinematic tone.
+MOOD:
+Rebellious, restless, anti-establishment energy, emotional chaos, identity confusion.
+Feels like waking up not knowing which version of yourself will take control.
+DETAILS:
+Ultra-realistic skin texture, visible pores, fabric detail, dust particles, texture, light leaks.
+TECHNICAL:
+Ultra-realistic, 8K, HDR, cinematic, no illustration, no cartoon, no stylized abs
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2081983714758984051) | 2026-07-28
+
+---
+
+### 🧍 例 5269：撕纸风格纱丽时尚拼贴画
+
+![撕纸风格纱丽时尚拼贴画](../images/%E6%92%95%E7%BA%B8%E9%A3%8E%E6%A0%BC%E7%BA%B1%E4%B8%BD%E6%97%B6%E5%B0%9A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考图像作为身份参考。保持完全的面部锁定，确保面部特征一致。保留脸型、面部比例、表情、眼形、鼻子、嘴唇、下颌线、肤色、发型、发际线、微笑以及所有独特的面部特征，使其 100% 相同且可辨识。不得以任何方式更改、重新设计、美化或风格化该身份。确保所有三幅肖像的面部一致性完美无缺。
+
+创作一幅照片级逼真、电影质感的垂直撕纸拼贴画，主体为 {argument name="subject" default="同一位女性，呈现三种优雅的审美姿态"}。她身着 {argument name="clothing" default="一件柔和的粉色刺绣传统纱丽，配有精致的银色花卉边饰、配套上衣、银色项链、优雅的耳环和叠戴的银色手镯"}。她的 {argument name="hair style" default="长而柔顺的黑发自然垂落"}，皮肤光泽透亮，眼神生动，笑容温暖真诚，妆容自然精致。
+
+将这三幅肖像排列成高级的撕纸拼贴构图，呈现逼真的纸张撕裂边缘、层叠的深度感、柔和的阴影以及无缝融合。在所有三幅肖像中保持完全相同的身份、服装、光影质量和真实感。采用柔和的电影级布光、浅景深、奢华的调色以及优雅的时尚杂志美学。超细腻的皮肤纹理、逼真的面料刺绣、8K 分辨率、HDR、照片级逼真、杂志封面级质量，垂直 9:16 构图。
+
+[English]
+Use the uploaded reference image as the identity reference. Preserve the exact facial identity with full face lock. Keep the face, facial proportions, expression, eye shape, nose, lips, jawline, skin tone, hairstyle, hairline, smile, and all unique facial features 100% identical and recognizable. Do not alter, redesign, beautify, or stylize the identity in any way. Ensure perfect facial consistency throughout all three portraits.
+
+Create a photorealistic, cinematic vertical torn-paper collage featuring the {argument name="subject" default="same woman in three elegant aesthetic poses"}. She is wearing a {argument name="clothing" default="soft pink embroidered traditional saree with a delicate silver floral border, a matching blouse, a silver necklace, elegant earrings, and stacked silver bangles"}. Her {argument name="hair style" default="long, silky black hair flows naturally"}, with radiant glowing skin, expressive eyes, a warm genuine smile, and subtle natural makeup.
+
+Arrange the three portraits in a premium torn-paper collage composition with realistic ripped paper edges, layered depth, soft shadows, and seamless blending. Maintain the exact same identity, clothing, lighting quality, and realism across all three portraits. Use soft cinematic lighting, shallow depth of field, luxurious color grading, and an elegant editorial fashion aesthetic. Ultra-detailed skin texture, realistic fabric embroidery, 8K quality, HDR, photorealistic, magazine-cover quality, vertical 9:16 composition.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2081953767717851147) | 2026-07-28
+
+---
+

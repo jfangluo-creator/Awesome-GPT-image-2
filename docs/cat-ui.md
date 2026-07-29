@@ -10401,3 +10401,83 @@ Create a Joyful animated fast-food restaurant scene: A smiling man with a goatee
 
 ---
 
+### 🖥️ 例 5194：Q 版动漫监视野餐
+
+![Q 版动漫监视野餐](../images/Q%20%E7%89%88%E5%8A%A8%E6%BC%AB%E7%9B%91%E8%A7%86%E9%87%8E%E9%A4%90.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 的宽幅动漫风格幽默夜景图，背景为俯瞰城市的草地山坡。三名 Q 版军事少女在深蓝色星空下进行着类似野餐的监视活动，山谷下方是灯火通明的公寓楼。在左侧前景中，准确绘制 3 名 Q 版少女：第一位是留着淡紫色短发、身穿白色水手风军装并戴着白色大檐帽的小女孩，戴着超大号红色眼镜，站在一个写有“Popcorn”字样的巨大红色爆米花桶和热狗旁边；第二位是留着金发、身穿深灰色军装并戴着红色装饰军帽、背着步枪的女孩，表情充满怀疑；第三位是留着金发、身穿黑橙色战术服装的女孩，坐在格子野餐垫上，拿着巨大的双筒望远镜放在眼前，滑稽地流着口水。在前面的毯子上增加一副双筒望远镜。在站立的女孩上方添加 2 个日语对话气泡：{argument name="left speech bubble" default="元アイドルですね。"} 和 {argument name="right speech bubble" default="アイドルよね？"}。在右上半部分，添加一个来自拿望远镜女孩的巨大蓬松想法气泡，展示一个浪漫幻想：一位留着浅棕色长发、身穿白色婚纱的年轻女性，与一位身穿装饰华丽的黑色军礼服、留着深色头发的英俊男子，两人几乎要亲吻，周围环绕着闪光、柔和的粉色光芒和飘落的玫瑰花瓣。在右下方的城市上方，添加一个圆形的内嵌对话气泡框，展示一个室内场景，一名坐着的女性正在观看屏幕或相框中那对浪漫情侣的照片。使用干净、高细节的动漫线条，柔和的赛璐珞阴影，观察者采用可爱的 Q 版比例，幻想气泡内采用更精致的少女漫渲染风格，色彩饱和，轮廓清晰，充满俏皮的喜剧氛围，无水印，无额外角色，除指定标签外无任何额外文字。
+
+[English]
+Create a wide 16:9 anime-style humorous night scene on a grassy hill overlooking a city. Three chibi military-girl characters are having a picnic-like surveillance session under a dark blue starry sky, with glowing apartment buildings in the valley below. On the left foreground, show exactly 3 chibi girls: first, a small pale lavender-haired girl in a white sailor-style military uniform and white peaked cap, wearing oversized red glasses, standing beside a giant red popcorn bucket labeled “Popcorn” and a hot dog; second, a blonde girl in a dark gray military outfit with a red-accented cap and rifle, standing with a skeptical expression; third, a blonde girl in black-and-orange tactical clothing sitting on a checkered picnic blanket, holding large binoculars to her eyes while drooling comically. Add a second pair of binoculars lying on the blanket in front. Include exactly 2 Japanese speech bubbles above the standing girls: {argument name="left speech bubble" default="元アイドルですね。"} and {argument name="right speech bubble" default="アイドルよね？"}. On the right upper half, add a large fluffy thought bubble from the binocular girl showing a romantic fantasy: a young woman in a white wedding dress with long light-brown hair and a handsome dark-haired man in a decorated black military dress uniform, almost kissing, surrounded by sparkles, soft pink light, and falling rose petals. On the lower right over the city, add one circular inset speech-bubble frame showing a room interior where a seated woman watches a screen or framed image of the romantic couple. Use clean high-detail anime line art, soft cel shading, cute chibi proportions for the observers, more polished romantic shoujo rendering inside the fantasy bubble, saturated colors, crisp outlines, playful comedy mood, no watermark, no extra characters, no extra text beyond the specified labels.
+```
+
+**来源：** [@まるるん＠NIKKE好き](https://x.com/TachMaru/status/2082141028124102732) | 2026-07-28
+
+---
+
+### 🖥️ 例 5203：Apple 风格 iPhone 产品宣传活动
+
+![Apple 风格 iPhone 产品宣传活动](../images/Apple%20%E9%A3%8E%E6%A0%BC%20iPhone%20%E4%BA%A7%E5%93%81%E5%AE%A3%E4%BC%A0%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 Apple 风格的高端产品宣传活动，使用上传的图片作为精确的面部参考。最大限度地保持我的个人特征，包括脸型、发型、胡须、眉毛、肤色、眼睛比例、嘴唇、下颌线以及每一个独特的面部特征。请勿改变我的年龄或可辨认的外貌。
+
+我穿着一件 {argument name="jacket" default="极简未来感的高级黑色飞行员夹克"}。我正自信地将一部 {argument name="phone" default="银色 iPhone 17 Pro"} 举向镜头，采用戏剧性的低角度透视，手机占据前景，同时我的面部保持完美的清晰度和电影质感。这款 iPhone 采用奢华的拉丝钛金属银饰面，边缘抛光，具有逼真的反射效果、高端摄像头镜头以及正宗的 Apple 设计语言。
+
+背景是一个 {argument name="environment" default="受 Apple 发布会启发、充满未来感的环境"}，配有发光的白色和冷蓝色体积光、干净的建筑线条，以及我身后巨大的发光“PRO”字体。在顶部，放置一个精致的 Apple 标志，并以 Apple 的极简风格标注“iPhone 17”。使用高端商业照明、逼真的皮肤纹理、自然的双手比例、清晰的对焦、优质的景深、柔和的轮廓光以及手机上完美的反射效果。构图应呈现出官方 Apple 旗舰广告的感觉，超逼真、超细节、8K、HDR、IMAX 品质、杂志封面级水准，采用冷银色和蓝色的色调，展现奢华美学与完美的电影级调色。
+
+[English]
+Create an ultra-premium Apple-style product campaign using the uploaded image as the exact facial reference. Preserve my identity with maximum accuracy, including my face shape, hairstyle, beard, eyebrows, skin tone, eye proportions, lips, jawline, and every unique facial feature. Do not alter my age or recognizable appearance.
+
+I am wearing a {argument name="jacket" default="sleek black premium bomber jacket"} with a minimal futuristic aesthetic. I am confidently holding a {argument name="phone" default="Silver iPhone 17 Pro"} toward the camera in a dramatic low-angle perspective, with the phone dominating the foreground while my face remains perfectly sharp and cinematic. The iPhone features a luxurious brushed titanium silver finish with polished edges, realistic reflections, premium camera lenses, and authentic Apple design language.
+
+The background is a {argument name="environment" default="futuristic Apple keynote-inspired environment"} with glowing white and cool blue volumetric lighting, clean architectural lines, and a massive illuminated “PRO” typography behind me. At the top, place a subtle Apple logo with “iPhone 17” in Apple’s minimalist style. Use high-end commercial lighting, realistic skin texture, natural hand proportions, sharp focus, premium depth of field, soft rim lighting, and flawless reflections on the phone. The composition should feel like an official Apple flagship advertisement, ultra-realistic, hyper-detailed, 8K, HDR, IMAX quality, magazine cover worthy, with a cool silver and blue color palette, luxury aesthetic, and perfect cinematic color grading.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2082105414179848549) | 2026-07-28
+
+---
+
+### 🖥️ 例 5218：海盗主题 RPG 角色设计表
+
+![海盗主题 RPG 角色设计表](../images/%E6%B5%B7%E7%9B%97%E4%B8%BB%E9%A2%98%20RPG%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E8%A1%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超精细 16:9 海盗角色设计表，官方 AAA 级 RPG 角色设定集，简洁的编辑排版，带有航海风格 UI 点缀的做旧羊皮纸底色。角色名称 "{argument name="character name" default="MARINA"}"，头衔 "{argument name="title" default="风暴船长"}"，副标题 "{argument name="subtitle" default="无畏的私掠者"}"
+
+[English]
+Ultra-detailed 16:9 pirate character design sheet, official AAA RPG character bible, clean editorial layout, weathered parchment-tan background with nautical UI accents. Character name "{argument name="character name" default="MARINA"}", title "{argument name="title" default="Storm Captain"}", subtitle "{argument name="subtitle" default="A fearless privateer"}"
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2082076646946074952) | 2026-07-28
+
+---
+
+### 🖥️ 例 5254：浪漫咖啡馆城市景观约会
+
+![浪漫咖啡馆城市景观约会](../images/%E6%B5%AA%E6%BC%AB%E5%92%96%E5%95%A1%E9%A6%86%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82%E7%BA%A6%E4%BC%9A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅电影质感的傍晚咖啡馆肖像，画面中 {argument name="couple type" default="一对时尚的年轻东亚情侣"} 坐在 {argument name="seating" default="舒适的木桌"} 两侧，隔窗相望，共享一段宁静而亲密的时光。男子身穿修身黑色针织衫，单手托腮，目光温柔地注视着女子，脸上带着淡淡的微笑。女子身穿柔软的米色针织衫，下巴抵在袖口上，平静而深情地回望着他。桌上摆放着精致的白色陶瓷咖啡杯，杯中拉花清晰可见，还有一块浓郁的巧克力蛋糕和极简风格的咖啡馆餐具。窗外，{argument name="view" default="令人惊叹的滨水城市天际线"} 闪烁着五彩斑斓的灯光，倒映在水面上，营造出梦幻般的城市夜景。咖啡馆内温暖的环境光与窗外清冷的城市灯光交织，烘托出温馨浪漫的氛围。玻璃上泛着柔和的倒影，浅景深效果，奶油般的虚化背景，电影级调色，奢华生活方式杂志风格，亲密叙事构图，超写实 DSLR 摄影，85mm 镜头，f/1.4，HDR，8K，高细节皮肤纹理，高端时尚杂志美学，舒适现代咖啡馆，优雅的约会之夜氛围。
+
+[English]
+A cinematic evening café portrait of a stylish young East Asian couple sitting across from each other at a cozy wooden table beside a floor-to-ceiling window, sharing a quiet, intimate moment. The {argument name="man clothing" default="man wears a fitted black knit sweater"}, resting his chin on his hand while gazing warmly at the woman with a gentle smile. The {argument name="woman clothing" default="woman wears a soft cream knit sweater"}, resting her chin on her sleeve as she looks back at him with a calm, affectionate expression. The table holds elegant white ceramic coffee cups with latte art, a rich chocolate cake slice, and minimalist café tableware. Beyond the window, a {argument name="view" default="breathtaking waterfront city skyline"} glows with colorful lights reflecting across the water, creating a dreamy urban nightscape. Warm ambient café lighting blends with cool blue city lights, producing a cozy, romantic atmosphere. Soft reflections on the glass, shallow depth of field, creamy bokeh, cinematic color grading, luxury lifestyle editorial, intimate storytelling composition, ultra-photorealistic DSLR photography, 85mm lens, f/1.4, HDR, 8K, highly detailed skin texture, premium fashion magazine aesthetic, cozy modern café, elegant date-night mood.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2081994544837763566) | 2026-07-28
+
+---
+
