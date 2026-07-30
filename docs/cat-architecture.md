@@ -3653,3 +3653,17 @@ A young {argument name="subject" default="Burmese woman"} with long straight bla
 
 ---
 
+### 🏛️ 例 5349：Y2K 办公室风格肖像
+
+![Y2K 办公室风格肖像](../images/Y2K%20%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%A3%8E%E6%A0%BC%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+{argument name="风格" default="办公室风"}，细腻蕾丝，黑色长绒披肩，细眼线，浅棕粉镜片，印花卡座，主体清晰，双腿高屈，长耳坠，慵懒亲密欲言又止，Y2K糖果色
+```
+
+**来源：** [@南鸢 nuyoah](https://x.com/nanyuan0412/status/2082352925368848475) | 2026-07-29
+
+---
+

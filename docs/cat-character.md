@@ -7052,3 +7052,505 @@ Arrange the three portraits in a premium torn-paper collage composition with rea
 
 ---
 
+### 🧍 例 5308：Y2K 屋顶舞蹈教程图集
+
+![Y2K 屋顶舞蹈教程图集](../images/Y2K%20%E5%B1%8B%E9%A1%B6%E8%88%9E%E8%B9%88%E6%95%99%E7%A8%8B%E5%9B%BE%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像为基础，提取人物主体、服装、屋顶派对场景及 Y2K 闪光灯摄影风格，将其转换为一张横向的 16 格舞蹈教程联系表，标题为 {argument name="headline text" default="SATURDAY NIGHT."}。保持人物身份、闪亮的 Y2K 服装、夜晚屋顶天际线、直闪数码相机质感及派对氛围，但需在各分格中生成不同的舞蹈动作，而非单一姿势。
+
+画布与布局：创建一个横向的黑色海报/联系表布局，包含 16 个矩形框，按 4 列 × 4 行网格排列。每个分格应呈现出同一场屋顶派对的闪光灯快照效果，并以细黑边分隔。添加粗体白色斜体全大写排版。
+
+分格顺序：包含以下 16 个带编号的舞蹈动作分格，每个分格左上角设有小标题，右上角设有时间戳，底部配有简短的动作说明：
+1. “01 ARM UP HIT” — 时间戳 “0:00” — 说明 “举臂，击打并弹出。”
+2. “02 SHOULDER POP” — 时间戳 “0:01” — 说明 “双肩弹动。”
+3. “03 HANDS UP” — 时间戳 “0:02” — 说明 “双手向上冲拳。”
+4. “04 HIP SWING” — 时间戳 “0:03” — 说明 “左右摆动臀部。”
+5. “05 STEP BOUNCE” — 时间戳 “0:04” — 说明 “快速弹跳步。”
+6. “06 BODY WAVE” — 时间戳 “0:05” — 说明 “快速身体波浪。”
+7. “07 SPIN STEP” — 时间戳 “0:06” — 说明 “四分之一转步。”
+8. “08 HAIR WHIP” — 时间戳 “0:07” — 说明 “甩发向镜头。”
+9. “09 LOW DROP” — 时间戳 “0:08” — 说明 “下蹲，弹起。”
+10. “10 SIDE SLIDE” — 时间戳 “0:09” — 说明 “侧向滑步。”
+11. “11 ARM CROSS” — 时间戳 “0:10” — 说明 “交叉并向外冲拳。”
+12. “12 CLAP HIT” — 时间戳 “0:11” — 说明 “利落击掌。”
+13. “13 COIL” — 时间戳 “0:12” — 说明 “蓄力卷曲。”
+14. “14 SPIN” — 时间戳 “0:13” — 说明 “爆发式完整旋转。”
+15. “15 POWER HIT” — 时间戳 “0:14” — 说明 “强力击打，大开步。”
+16. “16 FREEZE” — 时间戳 “0:15” — 说明 “定格并微笑。”
+
+底部页脚：在网格下方居中添加一行白色说明文字：{argument name="footer text" default="2003 年数码闪光摄影，Y2K 派对，128 BPM 动感舞蹈，保持人物身份与闪亮 Y2K 服装一致。"}
+
+风格限制：营造 2000 年代初数码相机派对舞蹈分解图的质感，在头发和肢体处适当添加动态模糊，使用强烈的闪光灯高光、黑暗的天际线背景，并确保每一帧的人物身份一致。请勿添加额外的分格、步骤、Logo、水印或无关文本。
+
+[English]
+Using the provided reference image as the subject, outfit, rooftop party setting, and Y2K flash-photo style base, transform it into a wide 16-panel dance tutorial contact sheet titled {argument name="headline text" default="SATURDAY NIGHT."}. Keep the same person identity, sparkly Y2K outfit, rooftop skyline at night, direct-flash digital camera look, and party energy, but generate distinct dance poses across the panels rather than one pose.
+
+Canvas and layout: Create a horizontal black poster/contact-sheet layout with exactly 16 rectangular frames arranged in a 4 columns × 4 rows grid. Each frame should look like a flash snapshot from the same rooftop session, separated by thin black borders. Add bold white italic all-caps typography.
+
+Panel sequence: Include exactly these 16 numbered dance-step panels, each with a small title at the top-left, a timestamp at the top-right, and a short instruction caption along the bottom:
+1. “01 ARM UP HIT” — timestamp “0:00” — caption “throw arm up, hit and pop.”
+2. “02 SHOULDER POP” — timestamp “0:01” — caption “double shoulder pop.”
+3. “03 HANDS UP” — timestamp “0:02” — caption “punch both hands up.”
+4. “04 HIP SWING” — timestamp “0:03” — caption “swing hips side to side.”
+5. “05 STEP BOUNCE” — timestamp “0:04” — caption “quick bouncy step.”
+6. “06 BODY WAVE” — timestamp “0:05” — caption “fast body wave through.”
+7. “07 SPIN STEP” — timestamp “0:06” — caption “quarter turn step.”
+8. “08 HAIR WHIP” — timestamp “0:07” — caption “whip hair toward camera.”
+9. “09 LOW DROP” — timestamp “0:08” — caption “drop low, bounce.”
+10. “10 SIDE SLIDE” — timestamp “0:09” — caption “slide to the side.”
+11. “11 ARM CROSS” — timestamp “0:10” — caption “cross and punch out.”
+12. “12 CLAP HIT” — timestamp “0:11” — caption “clap sharp.”
+13. “13 COIL” — timestamp “0:12” — caption “coil and load.”
+14. “14 SPIN” — timestamp “0:13” — caption “explode into full spin.”
+15. “15 POWER HIT” — timestamp “0:14” — caption “hit hard, wide stance.”
+16. “16 FREEZE” — timestamp “0:15” — caption “freeze and smile.”
+
+Bottom footer: Add one centered white caption below the grid: {argument name="footer text" default="2003 digital flash photo, Y2K party, fast 128 BPM dance, consistent identity and sparkly Y2K outfit."}
+
+Style constraints: Make it feel like an early-2000s digital-camera party dance breakdown, with motion blur in hair and limbs where appropriate, harsh flash highlights, dark skyline backgrounds, and consistent subject identity in every frame. Do not add extra panels, extra steps, logos, watermarks, or unrelated text.
+```
+
+**来源：** [@Syed Abuthahir ∞](https://x.com/abulu8/status/2082562306366685490) | 2026-07-29
+
+---
+
+### 🧍 例 5322：保持角色一致性与 Q 版墙绘艺术
+
+![保持角色一致性与 Q 版墙绘艺术](../images/%E4%BF%9D%E6%8C%81%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8E%20Q%20%E7%89%88%E5%A2%99%E7%BB%98%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请使用上传的角色参考图作为严格的身份和服装参考。
+
+保留参考角色的：
+- 面部特征
+- 面部比例
+- 眼睛形状
+- 鼻子
+- 嘴唇
+- 肤色
+- 发型
+- 发色
+- 可见的头发饰品
+- 整体辨识度极高的氛围
+- 参考图中展示的服装和造型
+
+不要硬编码任何未出现在上传参考图中的特定角色特征。
+所有身份、发型、配饰、服装、颜色和造型细节都必须直接从上传的参考图中推断得出。
+
+创作一幅高质量的混合风格竖版肖像，展示：
+1. 上传角色/人物的写实全身版本
+2. 墙上绘制的与该角色/人物相同的可爱彩色 2D Q 版插画版本
+
+核心概念：
+真人正俏皮地站在自己巨大的彩色 Q 版墙绘旁。
+真人与 Q 版插画角色正在一起摆出相似的俏皮姿势。
+Q 版插画应看起来像是墙上可爱的手绘动漫风格艺术作品，而不是另一个真人。
+氛围应显得可爱、俏皮、明亮、时尚、迷人且适合社交媒体分享。
+
+主要风格方向：
+这不是黑色涂鸦阴影概念。
+这是一个“写实人物 + 彩色可爱 Q 版墙绘”的概念。
+墙绘应看起来像是直接绘制在墙上的精致手绘 2D 动漫/Q 版画作。
+
+真人：
+- 写实人像摄影
+- 全身或近全身构图
+- 与上传参考图具有相同的辨识度
+- 与上传参考图相同的服装风格及关键可见细节
+- 自然且上镜的姿势
+- 可爱、俏皮、略带羞涩或调皮的表情
+- 人物应积极摆出与墙绘相呼应的可爱姿势
+- 不要让人物站得僵硬
+- 不要将服装替换为无关的时尚款式
+
+真人姿势：
+选择一个适合在墙绘旁展示的可爱俏皮姿势：
+- 双手靠近脸颊，像可爱的爪子一样
+- 一条腿微微抬起
+- 俏皮的偶像式姿势
+- 害羞但可爱的姿势
+- 比心手势
+- 俏皮的跳跃姿势
+- 微微倾斜身体，带着甜美的微笑
+- 双手在脸旁蜷缩的可爱“喵”姿势
+- 轻柔的跳跃式姿势，同时保持写实与平衡
+
+姿势应让真人感觉自然，不要过度夸张或显得身体僵硬。
+
+Q 版墙绘：
+- 插画必须是上传人物的可爱彩色 2D Q 版版本
+- 它应直接绘制在真人旁边的墙上
+- 不是写实的第二个人
+- 不是 3D 角色
+- 不是黑色阴影
+- 不是简单的火柴人
+- 不是随机的动漫角色
+- 不是无关的女孩
+- 它应通过发型轮廓、发色、配饰、服装轮廓、色调和整体氛围清晰地呈现出该人物的特征
+- 使用大而有神的眼睛、圆润可爱的脸庞、小巧的身体比例和柔和的动漫风格上色
+- Q 版角色应摆出比真人更夸张的可爱姿势
+- Q 版角色看起来可以像是正在快乐地跳跃、摆姿势或作为墙绘的一部分微微漂浮
+
+墙绘细节：
+- 柔和干净的线条
+- 温暖的柔和色调
+- 可爱的动漫/Q 版渲染
+- 轻微的手绘质感
+- 细腻的阴影
+- 迷人且富有表情的脸庞
+- 与真人相同的服装印象
+- 若参考图中可见，需包含相同的发型和配饰线索
+- Q 版角色周围有俏皮的动态线条
+- 插画周围有小爱心、星星、闪光、柔和的涂鸦点缀或微小的装饰符号
+
+互动感：
+真人与 Q 版插画之间应有连接感。
+他们应共享同一个姿势构思，但不必完全一致。
+真人摆出写实的可爱姿势。
+Q 版角色摆出更夸张、更可爱、更像动漫的版本。
+这种连接必须一眼就能看出来，就像在个性化墙绘旁拍摄的有趣照片一样。
+
+构图：
+- 竖版 4:5 或 9:16
+- 简洁干净的室内墙面
+- 一侧为真人
+- 另一侧为彩色 Q 版墙绘
+- 两个形象均以全身或近全身构图呈现
+- Q 版插画的高度与真人大致相当或略大
+- 两个形象周围留有足够的负空间
+- 保持墙绘完整可见
+- 避免裁剪掉真人的脚或 Q 版角色的身体
+
+背景：
+- 干净的白色、奶油色、浅米色或浅灰色墙面
+- 简单的地板
+- 极简的室内摄影棚或干净的房间环境
+- 柔和的自然光
+- 无杂物的背景
+- 无 TikTok UI、无社交媒体界面、无文字遮盖
+
+光影：
+- 柔和的自然摄影棚灯光
+- 明亮、干净、温暖且修饰肤色
+- 真人下方有写实的阴影
+- 墙绘应看起来自然地置于墙面上
+- 无强烈的硬阴影
+- 无戏剧性的暗光
+
+风格质量：
+- 写实人像摄影
+- 彩色 2D Q 版墙绘
+- 可爱的动漫风格墙面艺术
+- 极高的身份辨识度
+- 服装和造型忠实于上传的参考图
+- 俏皮的匹配姿势
+- 柔和的粉彩色调
+- 适合社交媒体分享
+- 构图简洁
+- 高细节
+- 无明显的 AI 伪影
+
+负面提示词：
+黑色涂鸦阴影，仅黑色线条艺术，普通阴影，写实的第二个人，3D 角色，随机动漫女孩，无关的 Q 版角色，辨识度弱，发型不同，服装不同，与参考图无关的服装更换，未在参考图中出现的硬编码特征，凌乱的墙面，杂乱的背景，TikTok UI，社交媒体界面，文字，标题，手写文字，水印，标志，裁剪掉的脚，裁剪掉的 Q 版角色，僵硬的姿势，无聊的站姿，攻击性姿势，恐怖氛围，诡异的插画，身体扭曲，多余的肢体，多余的手指，糟糕的手部，糟糕的解剖结构，粘贴的面部，僵硬的表情，过度人工化的 AI 脸
+
+[English]
+Use the uploaded character reference image as the strict identity and outfit reference.
+
+Preserve the reference character’s:
+- face identity
+- facial proportions
+- eye shape
+- nose
+- lips
+- skin tone
+- hairstyle
+- hair color
+- visible hair accessories
+- overall recognizable vibe
+- outfit and styling shown in the reference image
+
+Do not hardcode any specific character traits that are not present in the uploaded reference.
+All identity, hairstyle, accessories, clothing, colors, and styling details must be inferred directly from the uploaded reference image.
+
+Create a high-quality mixed-style vertical portrait showing:
+1. a realistic full-body version of the uploaded character/person
+2. a cute colorful 2D chibi illustration version of the same character/person drawn on the wall beside them
+
+Core concept:
+The real person is posing cutely beside a large colorful chibi wall illustration of themselves.
+The real person and the illustrated chibi version are doing a similar playful pose together.
+The chibi illustration should look like a cute hand-drawn anime-style wall art version of the same person, not a separate real person.
+The mood should feel cute, playful, bright, trendy, charming, and social-media-friendly.
+
+Main style direction:
+This is not a black doodle-shadow concept.
+This is a realistic person + colorful cute chibi wall illustration concept.
+The wall illustration should look like a polished but hand-drawn 2D anime/chibi drawing placed directly on the wall.
+
+Real person:
+- realistic human photography
+- full-body or nearly full-body framing
+- same recognizable identity as the uploaded reference
+- same outfit style and key visible details from the uploaded reference
+- natural photogenic pose
+- cute, playful, slightly shy, or mischievous expression
+- the person should actively perform a cute pose that matches the wall illustration
+- do not make the person stand stiffly
+- do not replace the outfit with unrelated fashion
+
+Real person pose:
+Choose one cute playful pose that works well beside a wall illustration:
+- both hands near cheeks like cute paws
+- one leg lifted slightly
+- playful idol-like pose
+- shy but cute pose
+- tiny heart gesture
+- playful bounce pose
+- leaning slightly with a sweet smile
+- cute “nyan” pose with hands curled near the face
+- soft jump-like pose while still realistic and balanced
+
+The pose should feel natural for the real person, not exaggerated or physically awkward.
+
+Chibi wall illustration:
+- the illustration must be a cute colorful 2D chibi version of the same uploaded person
+- it should be drawn directly on the wall beside the real person
+- not a realistic second person
+- not a 3D character
+- not a black shadow
+- not a simple stick figure
+- not a random anime character
+- not a separate unrelated girl
+- it should clearly resemble the real person through hairstyle silhouette, hair color, accessories, outfit silhouette, color palette, and overall vibe
+- use large expressive eyes, rounded cute face, small body proportions, and soft anime-style coloring
+- the chibi should perform a more exaggerated cute version of the real person’s pose
+- the chibi may look like it is happily jumping, posing, or floating slightly as part of the wall illustration
+
+Wall illustration details:
+- soft clean linework
+- warm pastel colors
+- cute anime/chibi rendering
+- light hand-drawn texture
+- subtle shading
+- charming expressive face
+- same outfit impression as the real person
+- same hairstyle and accessory cues if visible in the reference
+- playful motion lines around the chibi
+- small hearts, stars, sparkles, soft doodle accents, or tiny decorative marks around the illustration
+
+Interaction:
+The real person and the chibi illustration should feel connected.
+They should share the same pose idea, but not match perfectly.
+The real person performs a realistic cute pose.
+The chibi performs a more exaggerated, adorable, anime-like version.
+The connection must be instantly readable, like a fun photo taken beside a personalized wall illustration.
+
+Composition:
+- vertical 4:5 or 9:16
+- simple clean indoor wall
+- real person on one side
+- colorful chibi wall illustration on the other side
+- both figures visible in full-body or nearly full-body framing
+- chibi illustration roughly similar height to the real person or slightly larger
+- enough negative space around both figures
+- keep the wall illustration fully visible
+- avoid cropping the real person’s feet or the chibi’s body
+
+Background:
+- clean white, cream, pale beige, or light gray wall
+- simple floor
+- minimal indoor studio or clean room setting
+- soft natural light
+- uncluttered background
+- no TikTok UI, no social media interface, no text overlay
+
+Lighting:
+- soft natural studio lighting
+- bright, clean, warm, and flattering
+- realistic shadow under the real person
+- wall illustration should look naturally placed on the wall
+- no harsh shadows
+- no dramatic dark lighting
+
+Style quality:
+- realistic human photography
+- colorful 2D chibi wall illustration
+- cute anime-style wall art
+- strong identity resemblance
+- outfit and styling faithfully based on the uploaded reference
+- playful matching pose
+- soft pastel mood
+- social-media-friendly
+- clean composition
+- high detail
+- no obvious AI artifacts
+
+Negative prompt:
+black doodle shadow, black line-art only, normal shadow, realistic second person, 3D character, random anime girl, unrelated chibi, weak resemblance, different hairstyle, different outfit, outfit change unrelated to reference, hardcoded traits not in reference, messy wall, cluttered background, TikTok UI, social media interface, text, caption, handwritten text, watermark, logo, cropped feet, cropped chibi, stiff pose, boring standing pose, aggressive pose, horror mood, creepy illustration, distorted body, extra limbs, extra fingers, bad hands, bad anatomy, pasted face, frozen expression, overly artificial AI face
+```
+
+**来源：** [@Ciri](https://x.com/Ciri_ai/status/2082479122312581372) | 2026-07-29
+
+---
+
+### 🧍 例 5327：写实人像与 Q 版墙绘
+
+![写实人像与 Q 版墙绘](../images/%E5%86%99%E5%AE%9E%E4%BA%BA%E5%83%8F%E4%B8%8E%20Q%20%E7%89%88%E5%A2%99%E7%BB%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的角色参考图作为严格的身份和服装参考。保留参考角色的：- 面部特征 - 面部比例 - 眼睛形状 - 鼻子 - 嘴唇 - 肤色 - 发型 - 发色 - 可见的头发配饰 - 整体可辨识的氛围 - 参考图中展示的服装和造型。请勿硬编码任何参考图中不存在的特定角色特征。所有身份、发型、配饰、服装、颜色和造型细节必须直接从上传的参考图中推断得出。创作一张高质量的混合风格竖版人像，展示：1. 上传角色/人物的写实全身版本；2. 在其身旁墙上绘制的同一个角色/人物的可爱彩色 2D Q 版插画。核心概念：真人站在自己巨大的彩色 Q 版墙绘旁摆出可爱的姿势。真人与 Q 版插画角色正在一起做类似的俏皮动作。Q 版插画看起来应该是同一个人的可爱手绘动漫风格墙绘，而不是另一个真人。氛围应感觉可爱、俏皮、明亮、时尚、迷人且适合社交媒体分享。主要风格方向：这不是黑色涂鸦阴影概念。这是一个“写实人物 + 彩色可爱 Q 版墙绘”的概念。墙绘看起来应像是直接画在墙上的精致手绘 2D 动漫/Q 版画作。真人：- 写实人像摄影 - 全身或近全身构图 - 与上传参考图具有相同的可辨识身份 - 与参考图相同的服装风格和关键可见细节 - 自然上镜的姿势 - 可爱、俏皮、略带羞涩或调皮的表情 - 人物应积极做出与墙绘相呼应的可爱姿势 - 不要让人物站姿僵硬 - 不要将服装替换为不相关的时尚单品。真人姿势：选择一个适合在墙绘旁展示的可爱俏皮姿势：- 双手靠近脸颊像可爱的爪子 - 一条腿微微抬起 - 俏皮的偶像式姿势 - 害羞但可爱的姿势 - 比心手势 - 俏皮的跳跃姿势 - 带着甜美微笑微微倾斜 - 双手在脸旁蜷缩的可爱“猫咪”姿势 - 柔和的跳跃式姿势，同时保持写实和平衡。姿势对真人来说应感觉自然，不夸张或肢体僵硬。Q 版墙绘：- 插画必须是同一个上传人物的可爱彩色 2D Q 版版本 - 它应该直接画在真人身旁的墙上 - 不是写实的人 - 不是 3D 角色 - 不是黑色阴影 - 不是简单的火柴人 - 不是随机的动漫角色 - 不是不相关的女孩 - 它应通过发型轮廓、发色、配饰、服装轮廓、配色方案和整体氛围清晰地还原真人 - 使用大而有神的眼睛、圆润可爱的脸庞、小巧的身体比例和柔和的动漫风格配色 - Q 版角色应做出比真人更夸张的可爱姿势 - Q 版角色看起来可以像是在快乐地跳跃、摆姿势或作为墙绘的一部分微微悬浮。墙绘细节：- 柔和干净的线条 - 温暖的马卡龙色系 - 可爱的动漫/Q 版渲染 - 轻微的手绘质感 - 细腻的阴影 - 迷人且富有表情的脸庞 - 与真人相同的服装印象 - 如果参考图中可见，则需包含相同的发型和配饰线索 - Q 版角色周围有俏皮的动感线条 - 插画周围有小爱心、星星、闪光、柔和的涂鸦装饰或微小的装饰符号。互动：真人与 Q 版插画应感觉相互关联。他们应共享同一个姿势创意，但不必完全一致。真人做出写实的可爱姿势，Q 版角色做出更夸张、更可爱的动漫版姿势。这种联系必须是一眼就能看出来的，就像在个性化墙绘旁拍摄的趣味照片。构图：- 竖版 4:5 或 9:16 - 简洁干净的室内墙面 - 一侧为真人 - 另一侧为彩色 Q 版墙绘 - 两个形象均以全身或近全身构图呈现 - Q 版插画高度与真人大致相同或略大 - 两个形象周围留有足够的负空间 - 保持墙绘完整可见 - 避免裁剪真人的脚部或 Q 版角色的身体。背景：- 干净的白色、奶油色、浅米色或浅灰色墙面 - 简单的地板 - 极简的室内摄影棚或干净的房间环境 - 柔和的自然光 - 不杂乱的背景 - 无 TikTok UI，无社交媒体界面，无文字遮挡。灯光：- 柔和的自然摄影棚灯光 - 明亮、干净、温暖且修饰肤色 - 真人下方有写实的阴影 - 墙绘看起来应自然地置于墙上 - 无强烈的硬阴影 - 无戏剧性的暗光。风格质量：- 写实人像摄影 - 彩色 2D Q 版墙绘 - 可爱的动漫风格墙绘 - 强烈的身份辨识度 - 服装和造型忠实于上传的参考图 - 姿势俏皮且相互呼应 - 柔和的马卡龙色调 - 适合社交媒体 - 构图简洁 - 高细节 - 无明显的 AI 伪影。负面提示：黑色涂鸦阴影，仅黑色线条画，普通阴影，写实的第二个人，3D 角色，随机动漫女孩，不相关的 Q 版，辨识度弱，发型不同，服装不同，与参考图无关的服装更换，参考图中不存在的硬编码特征，杂乱的墙面，杂乱的背景，TikTok UI，社交媒体界面，文字，标题，手写文字，水印，Logo，裁剪的脚部，裁剪的 Q 版，僵硬的姿势，无聊的站姿，攻击性姿势，恐怖氛围，诡异的插画，身体扭曲，多余的肢体，多余的手指，糟糕的手部，糟糕的解剖结构，粘贴的脸部，僵硬的表情，过度人工化的 AI 脸
+
+[English]
+Use the uploaded character reference image as the strict identity and outfit reference. Preserve the reference character’s: - face identity - facial proportions - eye shape - nose - lips - skin tone - hairstyle - hair color - visible hair accessories - overall recognizable vibe - outfit and styling shown in the reference image. Do not hardcode any specific character traits that are not present in the uploaded reference. All identity, hairstyle, accessories, clothing, colors, and styling details must be inferred directly from the uploaded reference image. Create a high-quality mixed-style vertical portrait showing: 1. a realistic full-body version of the uploaded character/person 2. a cute colorful 2D chibi illustration version of the same character/person drawn on the wall beside them. Core concept: The real person is posing cutely beside a large colorful chibi wall illustration of themselves. The real person and the illustrated chibi version are doing a similar playful pose together. The chibi illustration should look like a cute hand-drawn anime-style wall art version of the same person, not a separate real person. The mood should feel cute, playful, bright, trendy, charming, and social-media-friendly. Main style direction: This is not a black doodle-shadow concept. This is a realistic person + colorful cute chibi wall illustration concept. The wall illustration should look like a polished but hand-drawn 2D anime/chibi drawing placed directly on the wall. Real person: - realistic human photography - full-body or nearly full-body framing - same recognizable identity as the uploaded reference - same outfit style and key visible details from the uploaded reference - natural photogenic pose - cute, playful, slightly shy, or mischievous expression - the person should actively perform a cute pose that matches the wall illustration - do not make the person stand stiffly - do not replace the outfit with unrelated fashion. Real person pose: Choose one cute playful pose that works well beside a wall illustration: - both hands near cheeks like cute paws - one leg lifted slightly - playful idol-like pose - shy but cute pose - tiny heart gesture - playful bounce pose - leaning slightly with a sweet smile - cute “nyan” pose with hands curled near the face - soft jump-like pose while still realistic and balanced. The pose should feel natural for the real person, not exaggerated or physically awkward. Chibi wall illustration: - the illustration must be a cute colorful 2D chibi version of the same uploaded person - it should be drawn directly on the wall beside the real person - not a realistic second person - not a 3D character - not a black shadow - not a simple stick figure - not a random anime character - not a separate unrelated girl - it should clearly resemble the real person through hairstyle silhouette, hair color, accessories, outfit silhouette, color palette, and overall vibe - use large expressive eyes, rounded cute face, small body proportions, and soft anime-style coloring - the chibi should perform a more exaggerated cute version of the real person’s pose - the chibi may look like it is happily jumping, posing, or floating slightly as part of the wall illustration. Wall illustration details: - soft clean linework - warm pastel colors - cute anime/chibi rendering - light hand-drawn texture - subtle shading - charming expressive face - same outfit impression as the real person - same hairstyle and accessory cues if visible in the reference - playful motion lines around the chibi - small hearts, stars, sparkles, soft doodle accents, or tiny decorative marks around the illustration. Interaction: The real person and the chibi illustration should feel connected. They should share the same pose idea, but not match perfectly. The real person performs a realistic cute pose. The chibi performs a more exaggerated, adorable, anime-like version. The connection must be instantly readable, like a fun photo taken beside a personalized wall illustration. Composition: - vertical 4:5 or 9:16 - simple clean indoor wall - real person on one side - colorful chibi wall illustration on the other side - both figures visible in full-body or nearly full-body framing - chibi illustration roughly similar height to the real person or slightly larger - enough negative space around both figures - keep the wall illustration fully visible - avoid cropping the real person’s feet or the chibi’s body. Background: - clean white, cream, pale beige, or light gray wall - simple floor - minimal indoor studio or clean room setting - soft natural light - uncluttered background - no TikTok UI, no social media interface, no text overlay. Lighting: - soft natural studio lighting - bright, clean, warm, and flattering - realistic shadow under the real person - wall illustration should look naturally placed on the wall - no harsh shadows - no dramatic dark lighting. Style quality: - realistic human photography - colorful 2D chibi wall illustration - cute anime-style wall art - strong identity resemblance - outfit and styling faithfully based on the uploaded reference - playful matching its pose - soft pastel mood - social-media-friendly - clean composition - high detail - no obvious AI artifacts. Negative prompt: black doodle shadow, black line-art only, normal shadow, realistic second person, 3D character, random anime girl, unrelated chibi, weak resemblance, different hairstyle, different outfit, outfit change unrelated to reference, hardcoded traits not in reference, messy wall, cluttered background, TikTok UI, social media interface, text, caption, handwritten text, watermark, logo, cropped feet, cropped chibi, stiff pose, boring standing pose, aggressive pose, horror mood, creepy illustration, distorted body, extra limbs, extra fingers, bad hands, bad anatomy, pasted face, frozen expression, overly artificial AI face
+```
+
+**来源：** [@Pyona](https://x.com/pyona_ai/status/2082452557537198098) | 2026-07-29
+
+---
+
+### 🧍 例 5328：温馨女孩与萨摩耶友谊肖像
+
+![温馨女孩与萨摩耶友谊肖像](../images/%E6%B8%A9%E9%A6%A8%E5%A5%B3%E5%AD%A9%E4%B8%8E%E8%90%A8%E6%91%A9%E8%80%B6%E5%8F%8B%E8%B0%8A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图像。保留 {argument name="subject name" default="Main Ingrid"} 的确切面部特征、{argument name="ethnicity" default="温暖的菲律宾人特征"}、长波浪黑发、自然微笑以及中等自然的身体比例。她身穿白色修身短款上衣、米色慢跑工装裤、一件从一侧肩膀滑落的宽松棕色连帽衫，以及黑白运动鞋。紧挨着她站立的是一只 {argument name="dog breed" default="巨大的毛茸茸萨摩耶"}，拥有雪白亮丽的毛发、厚实如云朵般的皮毛、温柔的深色眼睛、快乐的微笑表情以及可爱的吐舌笑容。Ingrid 一只手充满爱意地环绕着萨摩耶的脖子，同时将头轻轻靠在它毛茸茸的肩膀上。两人都面向镜头，表情温暖而平静，散发出信任与陪伴的气息。干净的米色无缝摄影棚背景，柔和的漫射摄影棚灯光，超逼真的毛发质感，照片级皮肤质感，奢华宠物肖像摄影，浅景深，电影级构图，温暖舒适的氛围，8K 分辨率，高细节，温馨的友谊肖像。
+
+[English]
+Use the provided reference image. Preserve {argument name="subject name" default="Main Ingrid"}'s exact facial identity, {argument name="ethnicity" default="warm Filipina features"}, long wavy black hair, natural smile, and medium natural body proportions. She is wearing a white fitted crop top, beige jogger cargo pants, a loose brown hoodie draped off one shoulder, and black-and-white sneakers. Standing closely beside her is a {argument name="dog breed" default="giant fluffy Samoyed"} with brilliant snow-white fur, a thick cloud-like coat, gentle dark eyes, a happy smiling expression, and an adorable tongue-out grin. Ingrid wraps one arm lovingly around the Samoyed's neck while resting her head softly against its fluffy shoulder. Both face the camera with warm, peaceful expressions, radiating trust and companionship. Clean beige seamless studio background, soft diffused studio lighting, ultra-realistic fur texture, photorealistic skin, luxury pet portrait photography, shallow depth of field, cinematic composition, warm cozy atmosphere, 8K, highly detailed, wholesome friendship portrait.
+```
+
+**来源：** [@Arina Ai](https://x.com/Arina_hoqe/status/2082452177050890519) | 2026-07-29
+
+---
+
+### 🧍 例 5330：咏春大师电影级角色设定集
+
+![咏春大师电影级角色设定集](../images/%E5%92%8F%E6%98%A5%E5%A4%A7%E5%B8%88%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个高级电影级角色设定表，主角为名为 {argument name="name" default="IP MAN"} 的 {argument name="occupation" default="咏春大师"}。请严格参照上传的角色设定表，确保其面部、体型、比例、发型、肤色及服装与原图完全一致。请勿更改其外观。
+
+[English]
+Create a premium cinematic character bible sheet for a {argument name="occupation" default="Wing Chun master"} named {argument name="name" default="IP MAN"}. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2082442828827722106) | 2026-07-29
+
+---
+
+### 🧍 例 5332：南亚女性镜面自拍
+
+![南亚女性镜面自拍](../images/%E5%8D%97%E4%BA%9A%E5%A5%B3%E6%80%A7%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅将上传的图片作为面部特征参考。严格锁定 100% 的面部特征，以保持人物身份。保留参考图中人物的面部结构、面部比例、眼睛、眉毛、鼻子、嘴唇、下颌线、肤色、自然表情以及整体身份特征。请勿复制或沿用参考图中的发型、头发长度、发色、发际线造型、服装、配饰、姿势、背景、光照或拍摄角度。在保持面部完全一致的前提下，生成下文描述的全新发型和场景。
+
+创作一张自然、中景的镜面自拍，主角是一位 20 出头、美丽的 {argument name="ethnicity" default="南亚"} 女性，随意地站在 {argument name="setting" default="现代公共洗手间"} 中。画面应呈现出一种毫不费力、自然且具有 Z 世代风格的质感，如同 Pinterest 或 Instagram 上随手拍摄的镜面照片。
+
+她留着蓬松的深棕色层次感长发，带有柔和的吹整效果、自然的动感、略显凌乱的有机质感、放松的蓬松度以及逼真的发丝细节。头发随意中分，造型自然。
+
+她的皮肤看起来清新自然，肤色平滑，眉毛修剪得当，妆容极简，嘴唇自然。她表情冷静、冷淡且随性，双唇微嘟，下颌放松。她的视线略微看向左侧，而不是直视镜子，营造出一种毫不费力的“冷淡风酷女孩”美学。
+
+她穿着一件修身的 {argument name="top style" default="浅灰色圆领 T 恤"}，材质为柔软的棉质，搭配高腰黑色牛仔裤。她的右手随意插在牛仔裤前兜里，食指戴着一枚粗犷的银色戒指。左手拿着一部现代黑色智能手机进行镜面自拍。
+
+洗手间干净且真实：
+- 左侧墙壁铺满白色方格瓷砖。
+- 右侧是浅木纹材质的厕所隔间，上面贴着一张白色小纸条。
+- 深色条纹天花板，配有嵌入式灯具。
+- 前景中有一个模糊的白色洗手池，洗手池边缘放着另一部屏幕朝下的智能手机。
+
+光照为冷白色的室内 LED 灯光，营造出干净、清爽、现代的氛围，并带有柔和的自然阴影和真实的肤色。画面应具有真实感和自然抓拍的质感。
+
+通过镜面进行平视拍摄，类似于高端智能手机拍摄的照片，具有微妙的景深效果。采用 Kodak Portra 400 风格的调色，带有极轻微的胶片颗粒感，真实的皮肤纹理，Pinterest 美学，Instagram 编辑风格，Z 世代时尚氛围，极致
+
+[English]
+Use the uploaded image only as the facial identity reference. Preserve the person's identity with a strict 100% face lock. Maintain the exact facial structure, facial proportions, eyes, eyebrows, nose, lips, jawline, skin tone, natural expression, and overall identity from the uploaded reference image. Do not copy or inherit the hairstyle, hair length, hair color, hairline styling, clothing, accessories, pose, background, lighting, or camera angle from the reference image. Generate a completely new hairstyle and scene as described below while keeping the face identical.
+
+Create a candid, medium-shot mirror selfie of a beautiful young {argument name="ethnicity" default="South Asian"} woman in her early 20s, standing casually in a {argument name="setting" default="modern public restroom"}. The image should feel effortless, natural, and Gen-Z inspired, like a spontaneous Pinterest or Instagram mirror photo.
+
+She has voluminous dark brown layered hair with a soft blowout finish, natural movement, slightly messy organic texture, relaxed volume, and realistic strands. The hair is casually parted and naturally styled.
+
+Her skin appears fresh and natural with a smooth complexion, softly groomed brows, minimal makeup, and natural lips. She has a calm, cool, indifferent expression with slightly pouty lips and a relaxed jaw. She is looking slightly to her left instead of directly at the mirror, creating an effortless "unbothered cool girl" aesthetic.
+
+She is wearing a fitted {argument name="top style" default="light grey crew-neck T-shirt"} made of soft cotton fabric, paired with high-waisted black denim jeans. Her right hand is casually tucked into the front pocket of her jeans, wearing a chunky silver ring on her index finger. Her left hand is holding a modern black smartphone while taking the mirror selfie.
+
+The restroom is clean and realistic:
+- Left wall covered with white square grid tiles.
+- Right side features a light wood-grain toilet stall partition with a small white paper notice taped onto it.
+- Dark slatted ceiling with recessed lights.
+- A blurred white sink basin occupies the foreground, with another smartphone placed face-down on the sink ledge.
+
+Lighting is cool white LED indoor lighting, creating a clean, crisp, modern atmosphere with soft natural shadows and realistic skin tones. The image should feel authentic and naturally captured.
+
+Shot at eye level through the mirror, resembling a premium smartphone camera photo with subtle depth of field. Kodak Portra 400-inspired color grading, very light film grain, realistic skin texture, Pinterest aesthetic, Instagram editorial style, Gen-Z fashion vibe, ultra
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2082437668277797178) | 2026-07-29
+
+---
+
+### 🧍 例 5370：赛博忍者角色设定图
+
+![赛博忍者角色设定图](../images/%E8%B5%9B%E5%8D%9A%E5%BF%8D%E8%80%85%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Cyber Ninja"} 创建一张黑暗未来风格的赛博朋克角色设定图，该角色是一位身着黑色外骨骼装甲、带有红色发光等离子装饰的精英赛博刺客。
+
+画布：宽屏 16:9 技术概念艺术项目，黑色和炭灰色背景，带有淡淡的网格线、细红色的 HUD 边框、蓝图风格的面板分割、微妙的扫描线、高对比度电影级灯光，以及红色和青色的轮廓光。
+
+布局：左侧栏包含大标题“CYBER NINJA”以及日文副标题“サイバー・ニンジャ”、一个红色三角形徽章，以及三个带标签的信息面板：Profile（个人资料）、Overview（概览）和 Statistics（统计数据）。中心区域显示 3 个完整的正交角色视图，分别标注为 FRONT（正面）、SIDE（侧面）和 BACK（背面）。右侧包含 4 个技术特征面板外加一个长条形武器面板：Helmet Close-Up（头盔特写）、Armor Detail（装甲细节）、Cloth & Gear（布料与装备）、Plasma Katanas（等离子武士刀），底部附近有一个小的 Sheath (Dual)（双刀鞘）插图。
+
+主体细节：角色是一位高大的装甲忍者刺客，身穿光泽感黑色分段式赛博装甲，佩戴带有红色发光 V 型面罩的棱角分明头盔，配有黑色战术围巾/兜帽、层叠的破损腰布、战术腰带、装甲靴和护手，带有红色发光电路纹路、细微的青色反光，腰带上悬挂着一条垂直的红色类汉字条。正面视图面向前方，双臂放松；侧面视图展示了腰部/背部佩戴的收鞘长剑；背面视图展示了后部装甲板、斗篷褶皱以及发光的红色脊椎模块。
+
+可见元素计数：包含 3 个主要角色视图：1 个正面、1 个侧面、1 个背面。包含 1 个头盔特写肖像。包含 4 个装甲细节缩略图，分别展示胸部/肩部装甲、肩部/背部装甲、发光手臂细节以及发光的躯干脊椎/核心细节。包含 1 个布料与装备缩略图，展示腰布和腰带。包含 2 把垂直的等离子武士刀，均为红色发光，黑色刀柄。包含 1 个小型双刀鞘插图，内含 2 把收鞘的刀。
+
+文本内容：使用红色、白色和灰色的紧凑型科幻 UI 字体。左侧个人资料文本应显示：“CLASS: ASSASSIN”、“MODEL: CN-07 ‘KUREN’”、“HEIGHT: 188 CM”、“WEIGHT: 82 KG”、“AFFILIATION: UNKNOWN”、“ORIGIN: UNKNOWN”。概览文本应描述一位精英赛博刺客，其通过实验性外骨骼装甲和等离子武器进行了强化，专为隐蔽、速度和精准度而打造。统计面板应显示 6 个带标签的进度条：Strength（力量）、Speed（速度）、Agility（敏捷）、Durability（耐力）、Stealth（隐蔽）、Intelligence（智力）。头盔面板应包含小型项目符号标签：HUD / Targeting（HUD/目标锁定）、Thermal Vision（热成像）、Audio Scan（音频扫描）、Environmental Filter（环境过滤）、Neural Link（神经链接）。武器规格应将武器类型标识为等离子武士刀，刀刃长度 72 厘米，总长 102 厘米，重量 1.2 千克，动力源为小型等离子核心，特性包括单分子刃、热扰动和能量汲取。底部标签应显示“DESIGNATION: CN-07 ‘KUREN’”。
+
+视觉风格：超精细 AAA 级电子游戏概念艺术，写实的硬表面装甲设计，流畅的机甲忍者轮廓，硬核军事战术风格，红色霓虹能量光，光泽感黑色金属，细微的划痕和磨损，戏剧性的摄影棚灯光，清晰的面板线条，专业的角色设计图呈现。
+
+约束：保持构图简洁对称，保留所有指定的面板数量，不要添加额外角色，不要使用明亮背景，避免卡通/动漫比例，避免使用与设计无关的水印或 Logo。
+
+[English]
+Goal: Create a dark futuristic cyberpunk character sheet for {argument name="character name" default="Cyber Ninja"}, an elite cybernetic assassin in black exo-armor with glowing red plasma accents.
+
+Canvas: Wide 16:9 technical concept-art board, black and charcoal background with faint grid lines, thin red HUD borders, blueprint-style panel divisions, subtle scanlines, high-contrast cinematic lighting, red and cyan rim highlights.
+
+Layout: Left column contains the large title “CYBER NINJA” with small Japanese subtitle “サイバー・ニンジャ”, a red triangular emblem, and three labeled info panels: Profile, Overview, and Statistics. Center area shows exactly 3 full-body orthographic character views labeled FRONT, SIDE, and BACK. Right side contains exactly 4 technical feature panels plus one tall weapon panel: Helmet Close-Up, Armor Detail, Cloth & Gear, Plasma Katanas, and a small Sheath (Dual) inset near the bottom.
+
+Subject details: The character is a tall armored ninja assassin wearing a glossy black segmented cybernetic suit, angular helmet with red glowing V-shaped visor, black tactical scarf/hood, layered torn waist cloth, utility belt, armored boots and gauntlets, red illuminated circuitry lines, small cyan reflections, and a vertical red kanji-like strip hanging from the belt. The front view stands facing forward with arms relaxed; the side view shows the profile with a sheathed sword at the hip/back; the back view shows rear armor plates, cloak folds, and a glowing red spine module.
+
+Counted visible elements: Include exactly 3 main character views: 1 front, 1 side, 1 back. Include exactly 1 helmet close-up portrait. Include exactly 4 armor-detail thumbnails showing chest/shoulder plating, shoulder/back plating, glowing arm detail, and illuminated torso spine/core detail. Include exactly 1 cloth-and-gear thumbnail showing the waist cloth and belt. Include exactly 2 vertical plasma katanas, both glowing red with black handles. Include exactly 1 small dual-sheath inset containing 2 sheathed blades.
+
+Text content: Use compact sci-fi UI typography in red, white, and gray. Left profile text should read: “CLASS: ASSASSIN”, “MODEL: CN-07 ‘KUREN’”, “HEIGHT: 188 CM”, “WEIGHT: 82 KG”, “AFFILIATION: UNKNOWN”, “ORIGIN: UNKNOWN”. Overview text should describe an elite cybernetic assassin enhanced with experimental exo-armor and plasma weaponry, built for stealth, speed, and precision. Statistics panel should show exactly 6 labeled bars: Strength, Speed, Agility, Durability, Stealth, Intelligence. Helmet panel should include small bullet labels: HUD / Targeting, Thermal Vision, Audio Scan, Environmental Filter, Neural Link. Weapon specs should identify the weapon type as Plasma Katana with blade length 72 cm, overall length 102 cm, weight 1.2 kg, power source mini plasma core, and features including monomolecular edge, thermal disruption, and energy drain. Bottom label should read “DESIGNATION: CN-07 ‘KUREN’”.
+
+Visual style: Ultra-detailed AAA video game concept art, realistic hard-surface armor design, sleek mecha-ninja silhouette, gritty military techwear, red neon energy glow, glossy black metal, subtle scratches and wear, dramatic studio lighting, crisp panel lines, professional character design sheet presentation.
+
+Constraints: Keep the composition clean and symmetrical, preserve all specified panel counts, do not add extra characters, do not use bright backgrounds, avoid cartoon/anime proportions, avoid watermarks or logos unrelated to the design.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2082276918439637015) | 2026-07-29
+
+---
+

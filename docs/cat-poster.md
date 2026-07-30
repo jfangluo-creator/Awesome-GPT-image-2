@@ -23929,3 +23929,295 @@ Create a warm healing morning poster with a soft miniature diorama scene on a cr
 
 ---
 
+### 🎴 例 5309：末日博士 (Doctor Doom) 奢华盔甲海报
+
+![末日博士 (Doctor Doom) 奢华盔甲海报](../images/%E6%9C%AB%E6%97%A5%E5%8D%9A%E5%A3%AB%20(Doctor%20Doom)%20%E5%A5%A2%E5%8D%8E%E7%9B%94%E7%94%B2%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="character name" default="Victor Von Doom"} 创作一张电影级暗黑奇幻角色海报，风格参考高端漫画盔甲展示及收藏级封面。
+
+画布：16:9 横向构图，左侧为粗糙的米白色纸张背景，右侧三分之二处为大型特写盔甲肖像。采用高对比度、写实渲染、戏剧性阴影、半色调印刷颗粒、细微划痕及做旧海报质感。
+
+主体：一位身着华丽黑色拉托维尼亚 (Latverian) 锻造盔甲的兜帽主权反派，以四分之三侧面特写展示肩部以上部位。他戴着深 {argument name="hood color" default="翡翠绿"} 色织物兜帽，在脸上投下浓重的阴影。他的金属面具呈深枪灰色，带有雕刻花丝、铆钉、锋利的棱角板和厚重的中央鼻梁。在面具上增加一个精致的尖刺状眼镜框，配有两片反光镜片：左镜片发出绿光，右镜片发出金光。透过镜片上方的阴影，隐约可见一只锐利而令人生畏的人类眼睛。肩甲为亮黑色，带有金色装饰边框和纹章式花丝徽标。在右下角前景中，部分露出戴着深绿色皮手套的手或盔甲前臂。
+
+布局：左侧三分之一为图形海报边距，采用垂直排版。在肖像后方放置一条从左上中心向右下扫过的深绿色宽大对角线笔触。在左下中心附近包含 1 张小型矩形插图，展示尖刺状绿金镜片的局部特写，并配有细金边框。
+
+文本内容：包含 5 个可见文本元素：1) 最左侧垂直排列的细长黑色标题，内容为 "{argument name="vertical title text" default="GENTLE MONSTER × DOCTOR DOOM"}"；2) 其下方的大号粗体型号标签，内容为 "{argument name="model label" default="DOOMWAR VV-616"}"；3) 三行间距较宽的小号大写标语，内容为 "ENGINEERED FOR DOMINION. / FORGED IN LATVERIA. / WORN BY SOVEREIGNS."；4) 右下角微小的金色签名，内容为 "{argument name="signature text" default="Victor Von Doom"}"；5) 左侧边距垂直标题与型号标签之间居中的小型金色装饰纹章。
+
+视觉风格：超精细写实暗黑奇幻与奢华时尚广告相结合，漫威风格反派美学，古董金属工艺，绿金配色，粗野主义排版，高端编辑海报设计，戏剧性摄影棚灯光，浅景深，极其锐利的面具细节。
+
+约束：保持构图不对称，面部在右边缘进行紧凑裁剪，保留 1 张插图和 5 个文本元素的精确数量，不添加额外徽标或水印，避免卡通或动漫风格。
+
+[English]
+Goal: Create a cinematic dark-fantasy character poster for {argument name="character name" default="Victor Von Doom"}, styled like a premium comic-book armor reveal and collectible cover.
+
+Canvas: Horizontal 16:9 composition, gritty off-white paper background on the left and a large close-up armored portrait dominating the right two-thirds. Use high contrast, realistic rendering, dramatic shadows, halftone print grain, subtle scratches, and distressed poster texture.
+
+Main subject: A hooded sovereign villain in ornate black forged-latverian armor, shown from the shoulders up in an intense three-quarter close-up. He wears a deep {argument name="hood color" default="emerald green"} woven fabric hood that casts heavy shadow over his face. His metal mask is dark gunmetal with engraved filigree, rivets, sharp angular plates, and a heavy central nose bridge. Add an elaborate spiked spectacle-like eye frame across the mask, with two reflective lenses: the left lens glowing green and the right lens glowing gold. One human eye is barely visible through shadow above the lenses, sharp and intimidating. Shoulder armor is glossy black with gold ornamental trim and a crest-like filigree emblem. Include a dark green leather-gloved hand or armored forearm partially visible in the lower right foreground.
+
+Layout: The left third is a graphic poster margin with vertically oriented typography. Place one broad diagonal paint stroke in dark green behind the portrait, sweeping from upper center-left toward lower right. Include exactly 1 small rectangular inset image near the lower center-left showing a cropped close-up of the spiked green-and-gold lenses, framed by a thin gold border.
+
+Text content: Include exactly 5 visible text elements: 1) vertical tall condensed black title reading "{argument name="vertical title text" default="GENTLE MONSTER × DOCTOR DOOM"}" along the far left; 2) large bold model label reading "{argument name="model label" default="DOOMWAR VV-616"}" below it; 3) three-line small spaced uppercase tagline reading "ENGINEERED FOR DOMINION. / FORGED IN LATVERIA. / WORN BY SOVEREIGNS."; 4) tiny gold signature in the lower right reading "{argument name="signature text" default="Victor Von Doom"}"; 5) a small gold ornamental crest centered in the left margin between the vertical title and model label.
+
+Visual style: Ultra-detailed photorealistic dark fantasy mixed with luxury fashion advertising, Marvel-inspired villain aesthetics, antique metalwork, green and gold color accents, brutalist typography, premium editorial poster design, dramatic studio lighting, shallow depth of field, razor-sharp mask details.
+
+Constraints: Keep the composition asymmetrical with the face cropped close on the right edge, preserve the exact count of 1 inset image and 5 text elements, use no extra logos or watermarks, and avoid cartoon or anime styling.
+```
+
+**来源：** [@alex getman](https://x.com/alexgetmancom/status/2082560607467762103) | 2026-07-29
+
+---
+
+### 🎴 例 5310：Doctor Doom 奢华眼镜海报
+
+![Doctor Doom 奢华眼镜海报](../images/Doctor%20Doom%20%E5%A5%A2%E5%8D%8E%E7%9C%BC%E9%95%9C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的收藏级角色海报，用于暗黑奇幻与超级英雄跨界宣传。海报左侧垂直主标题为 {argument name="character name" default="Gentle Monster × Doctor Doom"}，产品型号标注为 {argument name="model name" default="DOOMWAR VV-616"}。
+
+画布：16:9 宽画幅横向海报，采用带有半色调斑点的粗糙灰白色羊皮纸背景，呈现黑色油墨磨损效果，并带有柔和的黄绿色调。构图分为两部分：左侧为窄版排版栏，中心及右侧为巨大的角色特写肖像。
+
+主体：一名身穿盔甲的连帽统治者，从肩部以上进行超近距离特写，身体略微转向镜头。他戴着深森林绿色的粗织纹理连帽，身着暗枪色中世纪科幻风格面具，面具上有华丽的铆钉、雕刻的细丝花纹、锋利的脸颊和眉板，以及雕塑感的金属鼻梁。他的双眼在面具阴影下若隐若现，眼神深邃且具有人性。在眼部区域，添加一副与面具融为一体的精致尖刺眼镜框，镜片为两片式镜面设计：左镜片为翡翠绿，右镜片为金黄色。眼镜呈锯齿状，如荆棘般锋利，采用铬银材质，具有高光泽反射。盔甲包括发黑的钢板、金色装饰镶边、右下角可见的绿色皮革手套或肩部材质，以及胸部或肩甲上可见的一个金色纹章。
+
+布局与计数元素：包含 1 张主肖像，左下中心附近包含 1 张显示相同尖刺绿金眼镜特写的小型矩形插图，最左侧包含 1 组垂直标题，下方包含 1 个产品型号块，型号下方包含 1 个简短的技术描述块，最左侧包含 1 条细长的垂直金线，金线下方包含 1 个小型金色装饰纹章，右下角包含 1 个微小的签名，内容为 {argument name="artist signature" default="Victor Von Doom"}。
+
+文本内容：在最左侧，设置垂直的黑色压缩大写文本，内容为 {argument name="vertical title text" default="GENTLE MONSTER × DOCTOR DOOM"}。在其下方，使用粗体水平产品标签，内容为 {argument name="designation text" default="DOOMWAR VV-616"}。在标签下方，放置三行简短的大写文本：“ENGINEERED FOR DOMINION.”（为统治而生）、“FORGED IN LATVERIA.”（锻造于拉托维尼亚）、“WORN BY SOVEREIGNS.”（君主佩戴）。使用高挑的压缩无衬线字体，呈现做旧印刷质感和深炭色油墨效果。
+
+视觉风格：超精细电影级写实，奢华眼镜广告与漫画恶棍盔甲的结合，微距摄影布光，连帽下的戏剧性阴影，细腻的胶片颗粒，半色调海报纹理，低饱和度的绿金配色，金属反射，高级编辑排版，面具和镜片焦点清晰，头部后方带有深绿色油漆笔触背景。
+
+限制：面部大部分被连帽和面具遮挡，不要添加额外角色，不要添加额外的插图，保持所有可见文本清晰易读且仅限于指定的文本，无水印。
+
+[English]
+Goal: Create a cinematic collectible character poster for a dark fantasy / superhero crossover villain, featuring {argument name="character name" default="Gentle Monster × Doctor Doom"} as the main vertical side title and {argument name="model name" default="DOOMWAR VV-616"} as the product-style designation.
+
+Canvas: Wide 16:9 landscape poster, gritty off-white parchment background with halftone speckling, black ink wear, and a muted yellow-green tint. The composition is split: a narrow typography column on the left and a huge close-up character portrait filling the center and right.
+
+Main subject: One armored hooded ruler shown in extreme close-up from shoulders up, turned slightly toward camera. He wears a deep forest-green fabric hood with coarse woven texture, a dark gunmetal medieval sci-fi mask, ornate rivets, engraved filigree, sharp cheek and brow plates, and a sculpted metal nose bridge. His eyes are partly visible in shadow behind the mask, intense and human. Across the eye area, add one elaborate spiked eyeglass frame integrated into the mask, with exactly two mirrored lenses: left lens emerald green, right lens golden yellow. The eyewear is jagged, thorn-like, chrome-silver, with high specular highlights. The armor includes blackened steel plates, gold ornamental trim, green leather gloves or shoulder material at the lower right, and one visible gold crest emblem on the chest/shoulder armor.
+
+Layout and countable elements: Include exactly 1 main portrait, exactly 1 small rectangular inset image near the lower center-left showing a close-up of the same spiked green-and-gold glasses, exactly 1 vertical title stack on the far left, exactly 1 product designation block below it, exactly 1 short technical description block under the designation, exactly 1 thin vertical gold rule along the far left, exactly 1 small gold ornamental crest below the rule, and exactly 1 tiny signature in the bottom-right corner reading {argument name="artist signature" default="Victor Von Doom"}.
+
+Text content: On the far left, set the vertical black condensed uppercase text to read {argument name="vertical title text" default="GENTLE MONSTER × DOCTOR DOOM"}. Beneath it, use a bold horizontal product label reading {argument name="designation text" default="DOOMWAR VV-616"}. Under that, place three short uppercase lines: “ENGINEERED FOR DOMINION.”, “FORGED IN LATVERIA.”, “WORN BY SOVEREIGNS.” Use tall condensed sans-serif typography, distressed print texture, and dark charcoal ink.
+
+Visual style: Hyper-detailed cinematic realism, luxury eyewear campaign meets comic-book villain armor, macro photography lighting, dramatic shadows under the hood, subtle film grain, halftone poster texture, desaturated green and gold palette, metallic reflections, premium editorial layout, sharp focus on mask and lenses, background brush stroke of dark green paint behind the head.
+
+Constraints: Keep the face largely hidden by the hood and mask, do not add extra characters, do not add additional inset images, keep all visible text legible and limited to the specified text, no watermark.
+```
+
+**来源：** [@Lentils](https://x.com/Lentils80/status/2082558861303484646) | 2026-07-29
+
+---
+
+### 🎴 例 5315：现代时尚编辑海报
+
+![现代时尚编辑海报](../images/%E7%8E%B0%E4%BB%A3%E6%97%B6%E5%B0%9A%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+H&M — “{argument name="campaign name" default="NEW ENERGY / AW26"}”
+CONTEMPORARY FASHION EDITORIAL POSTER
+
+FORMAT
+
+4:5 vertical | ultra-high resolution | finished graphic-design poster
+
+Premium international {argument name="brand" default="H&M"} {argument name="season" default="Autumn/Winter 2026"} fashion campaign.
+
+Behance-featured-quality art direction combining high-fashion editorial photography, bold modernist typography, Swiss-inspired grid composition and strong red, black and warm ivory colour blocking.
+
+The final output must be a complete professionally art-directed campaign poster — not simply a fashion photograph with typography placed on top.
+
+BRAND
+
+H&M
+
+CAMPAIGN
+
+NEW ENERGY / 26
+
+AUTUMN / WINTER 2026
+
+ART DIRECTION
+
+A striking full-body female fashion model dominates the composition, positioned slightly right of centre against a warm ivory studio background.
+
+She is captured mid-stride from a subtly low camera angle, creating a confident, elongated silhouette.
+
+Dark brown shoulder-length hair moves naturally across her face as though caught by a soft studio wind. Neutral confident expression, minimal natural makeup, understated gold hoop earrings.
+
+WARDROBE
+
+Oversized vivid H&M-red wool coat with broad relaxed shoulders, open front and dramatic flowing movement.
+
+Underneath: fitted clean white tank top tucked into charcoal-black wide-leg tailored trousers with a black leather belt.
+
+Polished pointed black leather shoes.
+
+The red coat sweeps diagonally behind the model and visually connects with the graphic red field across the lower-left composition.
+
+PHOTOGRAPHY
+
+Premium European fashion editorial photography.
+
+Slightly low-angle full-body framing.
+Hard but refined directional studio lighting.
+Natural skin texture.
+Crisp textile detail.
+Controlled shadows.
+Subtle analogue fashion-film grain.
+Warm ivory background.
+Sharp subject with realistic garment movement.
+
+GRAPHIC COMPOSITION
+
+Warm ivory canvas with a strong vertical H&M-red strip running along the entire left edge.
+
+Large H&M logo in red at the upper-left.
+
+Directly underneath:
+“AUTUMN / WINTER 2026”
+“NEW COLLECTION”
+
+Along the red vertical strip, rotated 90 degrees:
+“MOVE   CHANGE   2026”
+
+Upper-right:
+“WOMEN”
+“LOOK 01”
+with “01” highlighted in red.
+
+Fine black horizontal rules travel across the middle of the poster, intersecting visually with the model.
+
+Small outlined rectangular season marker on the right:
+“26”
+“AW”
+
+A thin horizontal rule near the model’s coat carries tiny repeated typography:
+“MOVE MOVE MOVE MOVE MOVE”
+
+HERO TYPOGRAPHY
+
+The lower half is dominated by enormous condensed black sans-serif typography:
+
+“NEW”
+above
+
+“ENERGY”
+
+ENERGY must be extremely oversized, bold, tightly spaced and partially cropped by the left, right and bottom boundaries.
+
+The model overlaps and interrupts portions of the typography, producing sophisticated editorial depth between photograph and graphic design.
+
+A saturated red geometric field rises diagonally from the lower-left behind the giant black typography and model.
+
+BOTTOM DETAILS
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2082514119589269610) | 2026-07-29
+
+---
+
+### 🎴 例 5317：韩国女性 Stanley Tumbler 杂志封面
+
+![韩国女性 Stanley Tumbler 杂志封面](../images/%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%80%A7%20Stanley%20Tumbler%20%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实且充满活力的时尚生活杂志封面，主角是一位潮流 {argument name="subject" default="韩国女性"}，身穿与 Stanley 品牌配色协调的服装 —— 搭配 {argument name="outfit" default="鼠尾草绿廓形连帽衫和慢跑裤"} —— 双手捧着 Stanley Quencher H2.0 保温杯，正准备饮用，吸管触碰嘴唇，笑眼盈盈。皮肤水润清透，精致的 Z 世代极简妆容，透明唇彩。扎着哪吒头，脸颊两侧留有修饰发丝。背景：{argument name="background" default="明亮的大学校园户外广场"} —— 温暖的金色秋叶虚化效果，充满校园活力。"EATER" 刊头采用醒目的现代无衬线字体，并带有 "HYDRATION NATION ISSUE" 标题。35mm 镜头，超细节的 Stanley 保温杯凹槽纹理和手柄细节，8K 照片级写实生活风格。
+
+负面提示词：卡通，模糊，保温杯设计错误，水印，扭曲。
+
+[English]
+Ultra-realistic vibrant lifestyle magazine cover featuring a trendy {argument name="subject" default="Korean woman"} in a coordinated Stanley-brand colorway outfit — matching {argument name="outfit" default="sage green oversized hoodie and joggers"} — holding a Stanley Quencher H2.0 tumbler in both hands mid-sip, straw at lips, laughing eyes. Fresh dewy skin, minimal Gen-Z makeup, glossy clear lip. Space buns with face-framing tendrils. Background: {argument name="background" default="bright college campus outdoor quad"} — warm golden autumn leaf bokeh, campus energy. "EATER" masthead in bold modern sans-serif with "HYDRATION NATION ISSUE" callout. 35mm lens, ultra-detailed Stanley tumbler dimple texture and handle detail, 8K photorealistic lifestyle. 
+
+Negative: cartoon, blurry, incorrect tumbler design, watermark, distorted.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2082499839028572411) | 2026-07-29
+
+---
+
+### 🎴 例 5324：电影级智能手机加速广告
+
+![电影级智能手机加速广告](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%8A%A0%E9%80%9F%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级高端智能手机广告海报，背景为暗黑未来风格的工作室。一款时尚的哑光黑色旗舰智能手机在半空中斜向悬浮，背面朝向观众，略微向右倾斜，展示出锋利的金属平边、反光倒角和侧边按钮。手机背面有 5 个圆形摄像头/传感器组件：左侧垂直排列 3 个较大的黑色玻璃镜头，右侧排列 2 个较小的圆形组件。在手机周围环绕高速运动的光轨，形成明亮的白色和暖琥珀色线条，以从左至右的弧线包裹设备，体现加速感与创新感。前景下方为光泽湿润的沥青或黑色石材表面，带有水洼倒影、微小火花颗粒，以及手机下方明亮的接触光点。背景为深蓝黑色，右上角有戏剧性的柔和聚光灯光晕、体积雾和强烈的对比度。在左上角添加简洁的现代无衬线字体：小型全大写文本 {argument name="series label" default="MOTION STUDY 05 / ACCELERATION"}，以及醒目的大号堆叠标题 {argument name="headline text" default="Innovation\nmoves\nforward."}。采用竖版海报构图，照片级 3D 产品渲染，奢华科技品牌美学，浅景深，清晰的手机细节，动态长曝光照明，无 Logo，无额外文字，无手部，无人物。
+
+[English]
+Create a cinematic premium smartphone advertisement poster in a dark futuristic studio setting. A sleek matte-black flagship smartphone floats diagonally in midair, back side facing the viewer, tilted slightly to the right with sharp flat metal edges, reflective chamfers, side buttons visible, and exactly 5 circular rear camera/sensor elements: 3 larger black glass lenses stacked vertically on the left and 2 smaller circular elements to their right. Surround the phone with high-speed motion light trails, forming bright white and warm amber streaks that wrap around the device in sweeping arcs from left to right, suggesting acceleration and innovation. The lower foreground is a glossy wet asphalt or black stone surface with puddle reflections, tiny spark particles, and a bright glowing contact point beneath the phone. The background is deep black-blue with a dramatic soft spotlight glow in the upper right, volumetric haze, and strong contrast. Add clean white modern sans-serif typography in the upper left: small all-caps text reading {argument name="series label" default="MOTION STUDY 05 / ACCELERATION"}, and a large bold stacked headline reading {argument name="headline text" default="Innovation\nmoves\nforward."}. Use a vertical poster composition, photorealistic 3D product rendering, luxury tech brand aesthetic, shallow depth of field, crisp phone details, dynamic long-exposure lighting, no logo, no extra text, no hands, no people.
+```
+
+**来源：** [@‏تركي](https://x.com/ksa8Turky/status/2082468687903141918) | 2026-07-29
+
+---
+
+### 🎴 例 5326：高端冰淇淋产品网格海报
+
+![高端冰淇淋产品网格海报](../images/%E9%AB%98%E7%AB%AF%E5%86%B0%E6%B7%87%E6%B7%8B%E4%BA%A7%E5%93%81%E7%BD%91%E6%A0%BC%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个超高端的 4 格宣传海报，用于 Ben & Jerry's Homemade Ice Cream，在保持严格高端展示顺序的同时，融合极致的冰淇淋球真实感与更强烈的口味情感差异。完整保留大胆产品网格活动的精确结构逻辑和视觉节奏：严格的 2x2 布局，每个面板呈现一种真实的 Ben & Jerry's 冰淇淋口味，作为精致的英雄产品广告，同时又是统一豪华宣传系列的一部分。最终艺术作品必须呈现出世界级冰淇淋广告的感觉：超写实、色彩丰富、简洁、诱人、具有编辑感且视觉冲击力强，重点突出产品，配以优雅的英文排版、微妙的手写点缀、精致的官方品牌标识和完美受控的构图。核心结构：使用严格的 2x2 四格布局，面板比例相等，间距紧凑且一致。每个面板必须像独立的优质冰淇淋宣传卡，但四者合在一起必须读作一个连贯的 Ben & Jerry's 系列。整体构图应平衡、大胆、具有收藏价值且易于阅读。产品系统：展示四种真实的 Ben & Jerry's 冰淇淋口味，每种口味通过颜色、配料、纹理和情感口味标识进行清晰区分，同时仍属于同一个高端活动系列。建议阵容：1. Chocolate Fudge Brownie 2. Strawberry Cheesecake 3. Cookie Dough 4. Mint Chocolate Chunk。每个面板必须包括：- 一个真实的 Ben & Jerry's 品脱包装作为清晰的英雄元素 - 一个配套的碗或盘装冰淇淋球 - 少量克制的真实配料点缀 - 一个强有力的标题块 - 一行简短的支持文案 - 微妙的官方品牌呈现。碗和盘子的一致性：这一点至关重要：四个面板中所有的碗或盛放容器必须在尺寸、放置逻辑和框架结构上完全相同。每个碗都必须完全可见，绝不能被图像边缘裁剪、切断，也绝不能处于不一致的位置。碗必须在 4 格布局中作为一个豪华展示系统对齐。品脱容器也应遵循相对于碗的一致展示节奏，以保持视觉顺序和高端呈现。每个面板内的构图：每个面板应将盛放碗放置在一致的上方或右上角锚定区域，将品脱容器放置在一致的下方或中下部锚定区域，并为标题排版保留优雅的留白。根据口味，仅添加少量克制的配料点缀，如布朗尼块、草莓片、饼干碎、薄荷叶或巧克力碎片。保持构图简洁、高端且高度受控。口味标识：1. Chocolate Fudge Brownie：浓郁的巧克力棕色冰淇淋纹理，深色布朗尼块，深沉的可可浓郁感，大胆的放纵感 2. Strawberry Cheesecake：淡粉色冰淇淋，草莓片，微妙的浆果漩涡，奶油甜点甜味，柔和浪漫的明亮度 3. Cookie Dough：温暖的奶油米色基底，饼干面团块，巧克力豆，舒适的烘焙甜点享受，怀旧的浓郁感 4. Mint Chocolate Chunk：清新的薄荷绿色调，黑巧克力块，薄荷叶，清凉的奶油新鲜感，干净活泼的余味。四种口味必须感觉像是四个不同的情绪世界：深沉的放纵、果味的愉悦、温暖的舒适和清凉的新鲜。这种情感对比应该是视觉上即时的。背景颜色系统：使用四种不同的饱和高端背景颜色，每种颜色都更果断地匹配口味标识：- Chocolate Fudge Brownie：深巧克力棕色或深可可色 - Strawberry Cheesecake：腮红粉或柔和的浆果奶油色 - Cookie Dough：温暖的香草米色或金色奶油色 - Mint Chocolate Chunk：清新薄荷绿或清凉柔和的玉色。背景必须大胆、干净且豪华，绝不能廉价或嘈杂。每个面板都应感觉独特，同时在 4 格系统中保持和谐。排版和品牌：使用优雅的纯英文排版，因为这是国际原创品牌产品。包括：BEN & JERRY'S HOMEMADE ICE CREAM，然后是每种口味的大号高端标题，例如：CHOCOLATE FUDGE BROWNIE、STRAWBERRY CHEESECAKE、COOKIE DOUGH、MINT CHOCOLATE CHUNK。在每个面板中添加一行简短的支持文案，例如：Rich chunks in every spoonful. Creamy berry delight. Loaded with cookie indulgence. Cool mint, deep chocolate. 排版必须大胆、干净、现代且高端。添加微妙的官方风格品牌标记位置。无中文文本。无粗糙字体。手写点缀逻辑：如有需要，仅添加极简的手写风格点缀：在口味标题或配料附近添加微小的下划线、柔和的箭头、小的装饰笔触或微妙的圆圈。这些细节必须感觉俏皮但精致，绝不能杂乱。冰淇淋真实感：将真实感推向最高水平。冰淇淋球必须感觉奶油感十足、冰冷、致密且纹理丰富，带有真实的勺挖漩涡图案、边缘的融化柔软感、微妙的霜冻和高度可信的内含物。布朗尼块必须感觉软糯湿润。草莓必须感觉新鲜多汁。饼干面团块必须感觉柔软浓郁。薄荷叶和巧克力块必须感觉酥脆且高端。仅添加克制的冷凝水、微小的冷水滴、柔和的高光和适当的表面融化。一切都必须感觉原始且高度可食用。进一步提升冰淇淋球表面的真实感，使每种口味都感觉像是一个独特的奢华触感世界。灯光：使用极其细腻、柔和的高端摄影棚灯光。让每个冰淇淋球在奶油脊、光泽内含物、水果表面和品脱包装边缘捕捉到美丽的高光。阴影必须短、柔和且受控。灯光应使产品感觉新鲜、冰冷、豪华且具有收藏级品质。视觉氛围：完整的 4 格海报必须传达高端放纵、口味个性、产品自信和精品甜点广告的优雅。它应该感觉像是一个精致的国际冰淇淋发布广告或高端社交媒体宣传系列，具有强大的视觉一致性和精致的产品层级。四种口味之间的情感层级必须更强烈、更令人难忘。渲染风格：超高端写实冰淇淋广告海报，Ben & Jerry's Homemade Ice Cream，4 格豪华产品网格，四种具有更强情绪差异的真实口味变体，所有面板中碗的大小和位置相同，碗完全可见，优质品脱包装，优雅的英文排版，饱和的口味匹配背景，极简的手写点缀，柔和的电影级摄影棚灯光，超细节的冰淇淋球纹理和配料，世界级甜点广告美学，8k，杰作质量。负面提示词：裁剪的碗，不一致的碗尺寸，偏离中心的盛放位置，廉价超市广告，杂乱的构图，卡通冰淇淋，虚假的冰淇淋球纹理，塑料水果，不真实。
+
+[English]
+Create an ultra-premium 4-panel promotional poster for Ben & Jerry's Homemade Ice Cream, merging extreme scoop realism with stronger flavor-emotion differentiation while preserving strict premium display order. Fully preserve the exact structural logic and visual rhythm of a bold product grid campaign: a strict 2x2 layout, each panel presenting one real Ben & Jerry's ice cream flavor as a polished hero product advertisement while remaining part of one unified luxury promotional series. The final artwork must feel like a world-class ice cream campaign: hyper-realistic, colorful, clean, appetizing, editorial, and visually striking, with strong product focus, elegant English typography, subtle handwritten accents, refined official branding, and perfectly controlled composition. Core structure: Use a strict 2x2 four-grid layout with equal panel proportions and tight spacing consistency. Each panel must function like its own premium ice cream promo card, but all four together must read as one coherent Ben & Jerry's series. The full composition should feel balanced, bold, collectible, and immediately readable. Product system: Feature four real Ben & Jerry's ice cream flavors, each clearly differentiated by color, topping, texture, and emotional flavor identity while still belonging to one premium campaign family. Suggested lineup: 1. Chocolate Fudge Brownie 2. Strawberry Cheesecake 3. Cookie Dough 4. Mint Chocolate Chunk Each panel must include: - one real Ben & Jerry's pint pack as a clear hero element - one matching ice cream serving in a bowl or plated vessel - only a few restrained real ingredient accents - one strong title block - one short supporting line - subtle official brand presence Plate and bowl consistency: This is essential: all bowls or serving vessels across the four panels must appear in exactly the same size, same placement logic, and same framing structure. Every bowl must be fully visible, never cropped by the image edge, never cut off, and never floating at inconsistent positions. The bowls must feel aligned as one luxury display system across the four-grid layout. The pint containers should also follow a consistent display rhythm relative to the bowl, preserving visual order and premium presentation. Composition within each panel: Each panel should place the serving bowl in a consistent upper or upper-right anchor area, and the pint container in a consistent lower or lower-middle anchor area, with elegant negative space reserved for title typography. Add only a few restrained ingredient accents such as brownie chunks, strawberry slices, cookie pieces, mint leaves, or chocolate shards depending on flavor. Keep the composition clean, premium, and highly controlled. Flavor identities: 1. Chocolate Fudge Brownie: rich chocolate-brown scoop texture, dark brownie chunks, deep cocoa richness, bold indulgent darkness 2. Strawberry Cheesecake: pale pink ice cream, strawberry slices, subtle berry swirl, creamy dessert sweetness, soft romantic brightness 3. Cookie Dough: warm cream-beige base, cookie dough chunks, chocolate chips, comforting baked-dessert indulgence, nostalgic richness 4. Mint Chocolate Chunk: fresh mint-green tone, dark chocolate chunks, mint leaves, cool creamy freshness, clean lively finish The four flavors must feel like four distinct mood-worlds: dark indulgence, fruity delight, warm comfort, and cool freshness. This emotional contrast should be visually immediate. Background color system: Use four different saturated premium background colors, each matched more decisively to the flavor identity: - Chocolate Fudge Brownie: deep chocolate brown or dark cocoa - Strawberry Cheesecake: blush pink or soft berry cream - Cookie Dough: warm vanilla beige or golden cream - Mint Chocolate Chunk: fresh mint green or cool soft jade The backgrounds must be bold, clean, and luxurious, never cheap or noisy. Each panel should feel distinct while still remaining harmonious in the 4-grid system. Typography and branding: Use elegant English-only typography, because this is an international original brand product. Include: BEN & JERRY'S HOMEMADE ICE CREAM Then each flavor title in large premium text, for example: CHOCOLATE FUDGE BROWNIE STRAWBERRY CHEESECAKE COOKIE DOUGH MINT CHOCOLATE CHUNK Add one short supporting line in each panel such as: Rich chunks in every spoonful. Creamy berry delight. Loaded with cookie indulgence. Cool mint, deep chocolate. Typography must feel bold, clean, modern, and premium. Add subtle official-style brand mark placement. No Chinese text. No crude fonts. Handwritten accent logic: Add only minimal handwritten-style accents if needed: a tiny underline, a soft arrow, a small flourish stroke, or a subtle circle near the flavor title or ingredient. These details must feel playful but refined, never messy. Ice cream realism: Push the realism to the absolute highest level. The scoops must feel creamy, cold, dense, and richly textured, with real spooned swirl patterns, melt softness at the edges, subtle frost, and highly believable inclusions. Brownie pieces must feel fudgy and moist. Strawberries must feel fresh and juicy. Cookie dough chunks must feel soft and rich. Mint leaves and chocolate chunks must feel crisp and premium. Add only restrained condensation, tiny cold droplets, soft highlights, and minimal surface melt where appropriate. Everything must feel pristine and highly edible. Push the scoop surface realism further so each flavor feels like a luxurious tactile world of its own. Lighting: Use extremely delicate, soft, high-end studio lighting. Let each scoop catch beautiful highlights on creamy ridges, glossy inclusions, fruit surfaces, and pint packaging edges. Shadows must be short, soft, and controlled. The lighting should make the products feel fresh, cold, luxurious, and collector-grade. Visual mood: The full 4-panel poster must communicate premium indulgence, flavor individuality, product confidence, and boutique dessert-campaign elegance. It should feel like a polished international ice cream launch campaign or premium social-media promotional series with strong visual consistency and refined product hierarchy. The emotional hierarchy between the four flavors must be stronger and more memorable. Rendering style: ultra-premium photorealistic ice cream advertising poster, Ben & Jerry's Homemade Ice Cream, 4-panel luxury product grid, four real flavor variants with stronger mood differentiation, identical bowl size and placement across all panels, full bowls completely visible, premium pint packaging, elegant English typography, saturated flavor-matched backgrounds, minimal handwritten accents, soft cinematic studio lighting, hyper-detailed scoop texture and toppings, world-class dessert campaign aesthetics, 8k, masterpiece quality Negative prompt: cropped bowls, inconsistent bowl sizes, off-center serving placement, cheap supermarket ad, cluttered composition, cartoon ice cream, fake scoop texture, plastic fruit, unrea
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2082457345129590834) | 2026-07-29
+
+---
+
+### 🎴 例 5335：极简主义美食披萨广告
+
+![极简主义美食披萨广告](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BE%8E%E9%A3%9F%E6%8A%AB%E8%90%A8%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简主义商业广告，展示超大尺寸的优质 {argument name="food item" default="带有酥脆焦边的那不勒斯披萨"}，搭配浓郁的圣马扎诺番茄酱、融化的马苏里拉奶酪、新鲜罗勒叶、橄榄油淋酱和海盐碎，设计风格极致纯净。一位穿着 {argument name="outfit" default="优雅全黑套装"} 的时尚年轻女性随意地靠在巨大的披萨旁，手中拿着一片拉丝披萨，姿态放松自信，双眼微闭。背景为柔和的深绯红色渐变，后方带有醒目的白色大号 “{argument name="background text" default="PIZZA"}” 字样。光泽感反射地面，高级摄影棚灯光，奢华美食摄影，超写实，8K 分辨率。右上角小字注明 “Designed by Mr Das”。底部中央小号白色字体标语：“Italy served hot.”
+
+[English]
+Minimalist commercial ad featuring an oversized premium {argument name="food item" default="Neapolitan pizza with blistered crispy crust"}, rich San Marzano tomato sauce, melted mozzarella, fresh basil leaves, olive oil drizzle, and sea salt flakes, ultra-clean design. A fashionable young woman wearing an {argument name="outfit" default="elegant all-black outfit"} leans casually against the giant pizza while holding a stretchy cheese slice, relaxed confident pose, eyes closed. Soft gradient deep crimson background with large bold white “{argument name="background text" default="PIZZA"}” text behind. Glossy reflective floor, premium studio lighting, luxury food photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Italy served hot.”
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2082435890224537773) | 2026-07-29
+
+---
+
+### 🎴 例 5336：高冲击力汽车轨道海报
+
+![高冲击力汽车轨道海报](../images/%E9%AB%98%E5%86%B2%E5%87%BB%E5%8A%9B%E6%B1%BD%E8%BD%A6%E8%BD%A8%E9%81%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+高冲击力汽车海报，展示了 {argument name="vehicle" default="一辆流线型跑车"}，采用锐利的前侧 45 度视角，放置在画面下半部分，并被密集的轨道构图所包围，构图包含轮毂大小的同心圆、分段的 {argument name="accent color" default="金属银色"} 圆盘、黑色放射状线条、白色圆形窗口以及错位的机械环。
+使用 {argument name="color palette" default="高对比度的极简单色"}。构建一个视觉丰富的背景，其中圆形模块从后轮向外扩展并延伸至海报边缘之外。在主体部分后方放置一个超大的裁剪数字“[NUMERAL]”。在左上角附近添加 [LOGO]，并以严谨的大写排版添加标语“[TITLE]”。
+保持准确的 [VEHICLE] 比例、清晰的技术插图、分层的扁平形状、细腻的平版印刷颗粒、小型套准标记、选择性的墨线轮廓以及整洁的编辑层级。垂直 4:5。
+
+[English]
+High-impact automotive poster featuring {argument name="vehicle" default="a sleek sports car"} in a sharp side-front three-quarter view, placed across the lower half of the frame and surrounded by a dense orbital composition of concentric wheel-sized circles, segmented {argument name="accent color" default="metallic silver"} discs, black radial lines, white circular windows, and offset mechanical rings.
+Use {argument name="color palette" default="minimalist monochrome with high contrast"}. Build a visually rich background in which the circular modules expand from the rear wheel and continue beyond the poster edges. Place an oversized cropped numeral “[NUMERAL]” behind the main body section. Add a  [LOGO] near the upper-left corner and the slogan “[TITLE]” in tightly controlled uppercase typography.
+Maintain accurate [VEHICLE] proportions, crisp technical illustration, layered flat shapes, subtle lithographic grain, small registration marks, selective ink outlines, and clean editorial hierarchy.  Vertical 4:5.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2082433241815085121) | 2026-07-29
+
+---
+

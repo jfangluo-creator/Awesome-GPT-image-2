@@ -10481,3 +10481,39 @@ A cinematic evening café portrait of a stylish young East Asian couple sitting 
 
 ---
 
+### 🖥️ 例 5358：椰壳冲浪场景
+
+![椰壳冲浪场景](../images/%E6%A4%B0%E5%A3%B3%E5%86%B2%E6%B5%AA%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的写实动作图像，画面中一名年轻男性正踩在一个巨大的空心椰壳上冲浪，而不是普通的冲浪板。冲浪者是 {argument name="surfer description" default="一位 20 出头、留着深色短卷发、身材健硕、肤色中等的英俊青年"}，身穿 {argument name="outfit" default="一件黑色修身短袖防晒衣和黑色泳裤"}。他以平衡的冲浪姿势蹲在椰壳内，一只赤脚在前，一只在后，双臂伸展以保持平衡，表情专注，目光微向前看。椰壳超大，纵向切开如同一艘小船，边缘带有粗糙的棕色纤维外壳，内部可见光洁的白色椰肉，正乘着蓝绿色的海浪前行。捕捉前景中戏剧性的水花、泡沫喷溅以及卷起的浪花，呈现出定格的动态感。背景：{argument name="beach setting" default="阳光明媚的热带海滩，种满棕榈树，点缀着彩色遮阳伞、躺椅和温暖的沙滩"}，背景略微模糊，呈现浅景深效果。天空湛蓝，漂浮着零星的白云。采用黄金时段的阳光，色彩鲜艳热带感强，皮肤纹理真实，湿润织物有高光，低角度水面视角，35mm 镜头质感，细节丰富，自然阴影，无文字，无水印，无多余肢体，无解剖结构畸变。
+
+[English]
+Create a photorealistic cinematic action image of a young adult man surfing on a giant hollow coconut shell instead of a normal surfboard. The surfer is {argument name="surfer description" default="a handsome young man in his early 20s with short dark wavy hair, athletic build, light-to-medium skin tone"}, wearing {argument name="outfit" default="a fitted black short-sleeve rash guard and black swim shorts"}. He is crouched in a balanced surfing stance with one bare foot forward and one foot back inside the open white interior of the coconut, arms extended for balance, focused expression looking slightly ahead. The coconut shell is oversized, cut open lengthwise like a boat-board, with rough brown fibrous husk edges and glossy white coconut flesh visible inside, riding a turquoise ocean wave. Capture dramatic water splashes, foamy spray, and a curling wave in the foreground with sharp frozen motion. Background: {argument name="beach setting" default="a sunny tropical beach lined with palm trees, colorful umbrellas, lounge chairs, and warm sand"}, slightly blurred with shallow depth of field. Sky is bright blue with scattered fluffy white clouds. Use golden-hour sunlight, vibrant tropical colors, realistic skin texture, wet fabric highlights, dynamic low-angle perspective from water level, 35mm lens feel, high detail, natural shadows, no text, no watermark, no extra limbs, no distorted anatomy.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2082312354822504716) | 2026-07-29
+
+---
+
+### 🖥️ 例 5371：赛博朋克双刀忍者
+
+![赛博朋克双刀忍者](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%8F%8C%E5%88%80%E5%BF%8D%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 9:16 竖版电影级赛博朋克角色海报，主角为 {argument name="character name" default="一位未来感装甲忍者刺客"}，全身立于雨水浸透的霓虹城市街道中央。角色身穿黑色光泽分段式外骨骼装甲，配有青色微光和红色发光饰边，戴着黑色破损围巾，长长的破损腰布向右飘动，穿着装甲靴、护手、腰带板，头戴类似昆虫的流线型头盔，配有黑色面罩和锐利的红色 V 型发光眼。让他摆出充满力量的低角度姿势，双腿分开，双肩平齐，直视前方。他手持 2 把红色能量武士刀，左右手各一把，刀刃散发着强烈的红色等离子光芒，并在湿润的路面上形成倒影。环境密集且富有戏剧性：高耸的摩天大楼、薄雾、蒸汽、落雨、水坑、红蓝霓虹灯倒影、火花、腿部周围的烟雾以及浅景深效果。背景中包含 6 个清晰或半清晰的霓虹灯元素：左侧 1 个带东亚文字的高大红色竖向招牌，左上方 1 个红色全息肖像广告牌，左下方 1 个黄色“BONUS”竖向招牌，顶部 1 个写着“YUK!”的招牌，右上方塔楼 1 个写着“$E4”的蓝色招牌，以及右侧 1 个高大的紫色调赛博女性广告牌。使用黑色、深红色、青色、电光蓝和紫罗兰色的深色调，配合强烈的轮廓光、超精细的硬表面装甲、逼真的雨水效果、电影级对比度、体积雾以及高细节的概念艺术写实风格。避免出现额外角色、日光、卡通风格、模糊的解剖结构或额外武器。
+
+[English]
+Create a vertical 9:16 cinematic cyberpunk character poster featuring {argument name="character name" default="a futuristic armored ninja assassin"} standing full-body in the center of a rain-soaked neon city street at night. The character wears glossy black segmented exosuit armor with teal cyan micro-lights, red glowing trim, a black tattered scarf and long torn waist cloth strips blowing to the right, armored boots, gauntlets, belt plates, and a sleek insect-like helmet with a black visor and sharp red V-shaped glowing eyes. Pose him in a powerful low-angle stance, legs apart, shoulders squared, looking directly forward. He holds exactly 2 red energy katanas, one in each hand, both blades glowing intensely with red plasma edges and reflecting on the wet pavement. The environment is dense and dramatic: towering skyscrapers, haze, steam, falling rain, puddles, red and blue neon reflections, sparks, smoke around the legs, and shallow depth of field. Include exactly 6 readable or semi-readable neon sign elements in the background: 1 tall red vertical sign with East Asian characters on the left, 1 red holographic portrait billboard on the upper left, 1 vertical yellow “BONUS” sign on the lower left, 1 top sign reading “YUK!”, 1 blue sign reading “$E4” on the upper right tower, and 1 tall purple-blue cybernetic woman billboard on the right. Use a dark palette of black, crimson red, cyan, electric blue, and violet, with intense rim lighting, ultra-detailed hard-surface armor, realistic rain, cinematic contrast, volumetric fog, and high-detail concept art realism. Avoid extra characters, daylight, cartoon styling, blurry anatomy, or additional weapons.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2082276576352145797) | 2026-07-29
+
+---
+

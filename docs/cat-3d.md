@@ -6249,3 +6249,129 @@ Create a clean vertical 2:3 portrait illustration of a stylized 3D anime-inspire
 
 ---
 
+### 🧸 例 5301：柔和彩虹螃蟹
+
+![柔和彩虹螃蟹](../images/%E6%9F%94%E5%92%8C%E5%BD%A9%E8%99%B9%E8%9E%83%E8%9F%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的工作室风格 3D 插图，展现一只置于纯白背景下的奇幻彩虹螃蟹。主体是一只可爱的玩具感螃蟹，拥有光滑圆润的外壳、柔软的粘土/毛绒质感、柔和的次表面散射阴影，以及融合了 {argument name="main color palette" default="青色、绿松石色、粉色、紫色、黄色、橙色和亮绿色"} 的柔和彩虹渐变。将其置于四分之三侧视图，身体居中，面朝左侧，周围留有大量空白。包含 2 只竖起的眼柄，配有深色光泽小眼睛；包含 2 只大钳子：左钳高高举起并张开，右钳位于前方较低位置且向内弯曲。包含 8 只分节的步行足，每侧 4 只，由圆润的胶囊状关节和锥形尖端组成，均采用不同的彩虹渐变色。在前方外壳下方添加一排小巧的圆润口器和短触须。使用柔和的写实光照、细腻的环境光遮蔽、足部下方极淡的接触阴影，呈现高分辨率的精致渲染效果，无场景、无道具、无边框。在右下角，添加一个小的手写艺术家签名和日期，内容为 {argument name="signature text" default="2026 年 7 月 30 日 Oyagi"}，使用纤细的黑色墨水，不显突兀。
+
+[English]
+Create a clean studio-style 3D illustration of a whimsical rainbow crab on a pure white background. The subject is a single cute toy-like crab with a smooth rounded shell, soft clay/plush texture, gentle subsurface shading, and pastel iridescent gradients blending {argument name="main color palette" default="cyan, turquoise, pink, purple, yellow, orange, and lime green"}. Pose it in a three-quarter view facing slightly left, with the body centered and lots of empty white space around it. Include exactly 2 raised eyestalks with small dark glossy eyes, exactly 2 large pincers: the left pincer lifted high above the crab and open, the right pincer forward and lower, curved inward. Include exactly 8 segmented walking legs, 4 on each side, made of rounded capsule-like joints with tapered tips, all colored in different rainbow gradients. Add a small row of rounded mouth parts and short feelers under the front shell. Use soft realistic lighting, subtle ambient occlusion, very light contact shadow beneath the legs, high-resolution polished render quality, no scenery, no props, no border. In the lower right corner, add a small handwritten artist signature and date reading {argument name="signature text" default="July 30, 2026 Oyagi"}, in thin black ink, unobtrusive.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082596425918291997) | 2026-07-29
+
+---
+
+### 🧸 例 5302：彩虹粘土螃蟹插画
+
+![彩虹粘土螃蟹插画](../images/%E5%BD%A9%E8%99%B9%E7%B2%98%E5%9C%9F%E8%9E%83%E8%9F%B9%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张异想天开的全身 3D 粘土质感螃蟹插画，背景为干净的白色，主体居中并留有大量负空间。螃蟹应具有圆润光滑的甲壳、柔软的雕塑感结构，以及鲜艳的彩虹渐变表面，融合了亮粉色、洋红色、橙色、黄色、青柠绿、绿松石色、青色、蓝色和紫罗兰色。采用毛绒聚合物粘土 / 柔和喷绘数字雕塑风格，具有柔和的次表面散射阴影、圆润的形态、无硬轮廓线，且腿部下方带有逼真的接触阴影。该生物必须包含 2 只大的抬起蟹钳：左侧蟹钳高举于身体上方，呈张开的月牙状，右侧蟹钳向右前方伸展，同样呈张开状。包含 8 条分节的步足，每侧 4 条，由圆润的珠状部分组成，末端逐渐变细为弯曲的尖端，并交替呈现彩虹色。包含 2 只从壳顶升起的眼柄，末端各有一个带有光泽的深紫色球形眼睛高光。在壳前包含 4 条狭窄的垂直口须，下方还有 6 个成簇的小型口器。螃蟹身体应略微面向观察者，呈四分之三侧面角度，甲壳宽阔圆润，腿部自然张开。在右下角添加一个小的手写签名和日期，内容为 {argument name="signature text" default="July 30, 2026 Oyagi"}。整体氛围：可爱、奇特、受生物启发但充满幻想，就像一只通过文本描述的螃蟹被转化为色彩斑斓的玩具雕塑。使用 {argument name="main subject" default="rainbow crab"}、{argument name="background color" default="white"}、{argument name="art style" default="soft 3D clay illustration"} 以及 {argument name="color palette" default="saturated rainbow gradient"}。无需额外物体，无边框，除小签名外无任何水印。
+
+[English]
+Create a whimsical full-body 3D clay-like illustration of a crab on a clean white background, centered with lots of negative space. The crab should have a rounded smooth carapace, soft sculpted anatomy, and a vivid rainbow gradient surface with blended colors: hot pink, magenta, orange, yellow, lime green, turquoise, cyan, blue, and violet. Use a plush polymer-clay / soft airbrushed digital sculpture style with gentle subsurface shading, rounded forms, no hard outlines, and realistic contact shadows beneath the legs. The creature must include exactly 2 large raised claws: the left claw lifted high above the body with an open crescent pincer, and the right claw extended forward-right with an open pincer. Include exactly 8 segmented walking legs, 4 on each side, each made of rounded bead-like sections tapering into curved pointed tips, with alternating rainbow colors. Include exactly 2 eye stalks rising from the top of the shell, each ending in a small glossy dark purple spherical eye highlight. Include exactly 4 narrow vertical mouth feelers in front of the shell, plus 6 small clustered mouth appendages below them. The crab’s body should face slightly toward the viewer, angled three-quarters, with the shell broad and domed and the legs splayed naturally. Add a small handwritten signature and date in the lower right reading {argument name="signature text" default="July 30, 2026 Oyagi"}. Overall mood: cute, strange, biologically inspired but fantastical, like a detailed text-described crab transformed into a colorful toy sculpture. Use {argument name="main subject" default="rainbow crab"}, {argument name="background color" default="white"}, {argument name="art style" default="soft 3D clay illustration"}, and {argument name="color palette" default="saturated rainbow gradient"}. No extra objects, no frame, no watermark beyond the small signature.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082595356236472819) | 2026-07-29
+
+---
+
+### 🧸 例 5304：柔和彩虹色 3D 女孩半身像
+
+![柔和彩虹色 3D 女孩半身像](../images/%E6%9F%94%E5%92%8C%E5%BD%A9%E8%99%B9%E8%89%B2%203D%20%E5%A5%B3%E5%AD%A9%E5%8D%8A%E8%BA%AB%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张干净的 3D 风格化年轻女孩半身肖像，采用柔软的玩具质感粘土材质，主体居中于白色背景。角色拥有圆润的大头、精致的小鼻子、温柔的闭口微笑、光滑的脸颊，以及简化的大杏仁眼（无可见瞳孔），散发着柔和的彩虹渐变光泽。她留着浓密的长波浪卷发，侧分刘海，发丝呈丝带状雕塑感，环绕脸部，长发在肩后呈现出宽阔柔和的波浪。她穿着一件简单的圆领无袖上衣，画面展示从上半身开始的半身雕塑。整体采用虹彩般的彩虹色调，融合了青色、绿松石色、紫罗兰色、薰衣草色、粉色、桃色、橙色、薄荷绿和柔黄色，色彩过渡平滑，具有次表面散射的柔和感。光照应明亮、均匀且具备摄影棚级的干净感，呈现出光泽哑光塑料或粘土的质感，带有柔和的高光和极少的阴影。构图为竖向肖像，四分之三侧面视角，头部和肩部占据画面大部分空间，周围留有大量干净的白色负空间。在右下角添加一个小巧的手写艺术家签名和日期，内容为 {argument name="signature text" default="July 29, 2026 Oyagi"}。除该签名外，图像中不应包含任何文字，背景无杂物，无硬轮廓线，无写实皮肤纹理，且不添加额外配饰。
+
+[English]
+Create a clean 3D stylized bust portrait of a cute young girl with soft toy-like clay material, centered on a white background. The character has a large rounded head, small delicate nose, gentle closed-mouth smile, smooth cheeks, and large simplified almond-shaped eyes with no visible pupils, glowing with a pastel gradient. Give her long thick wavy hair with a sweeping side part and sculpted ribbon-like curls framing the face; the hair falls behind her shoulders in broad soft waves. She wears a simple sleeveless top with a rounded neckline and rounded shoulders, shown from upper torso upward as a bust sculpture. Use an iridescent rainbow pastel color palette blending cyan, turquoise, violet, lavender, pink, peach, orange, mint, and soft yellow across the entire figure, with smooth gradients and subsurface-scattering softness. Lighting should be bright, diffused, and studio-clean, creating a glossy matte-plastic/clay look with gentle highlights and minimal shadows. Composition is vertical portrait, three-quarter view facing slightly right, head and shoulders filling most of the frame, lots of clean white negative space around the figure. Add a small handwritten artist signature and date in the bottom-right corner reading {argument name="signature text" default="July 29, 2026 Oyagi"}. Keep the image text-free except for that signature, with no background objects, no hard outlines, no photorealistic skin texture, and no extra accessories.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082587420986622046) | 2026-07-29
+
+---
+
+### 🧸 例 5305：彩虹哈欠猫伸懒腰
+
+![彩虹哈欠猫伸懒腰](../images/%E5%BD%A9%E8%99%B9%E5%93%88%E6%AC%A0%E7%8C%AB%E4%BC%B8%E6%87%92%E8%85%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张简洁的摄影棚风格 3D 插画，展示一只 {argument name="animal" default="猫"} 在纯白背景下以夸张的玩耍姿势伸懒腰。前腿向前伸展，后身抬起，背部拱起，尾巴高高卷成钩状，头部向上倾斜，张大嘴巴打哈欠。仅展示一只动物。身体呈现光滑、圆润、毛绒且略带粘土质感的形态，并带有风格化的解剖细节：清晰的三角形耳朵、带有小爪子的圆润肉垫、粉色鼻子、卷曲的舌头、牙龈以及两排小牙齿（包括突出的上下尖牙）。动物全身覆盖着柔软的彩虹渐变色毛发/皮肤纹理，在面部、四肢、躯干和尾巴上融合了 {argument name="color palette" default="青色、绿松石色、亮粉色、洋红色、黄色、橙色、紫色和薄荷绿"} 的光泽柔和色带。使用柔和的环境光，爪子下方带有细微阴影，采用高调曝光，呈现平滑的次表面散射质感，营造出精致且可爱的超现实玩具美学。构图：竖向肖像画布，动物占据画面大部分空间，从左下前景向右上背景呈对角线倾斜，嘴部位于左中位置，翘起的尾巴位于右上角，留有充足的白色负空间。在右下角添加一个优雅的小型艺术家签名和日期，显示为 {argument name="date text" default="2026 年 7 月 29 日"}，下方为 {argument name="signature text" default="Oyagi"}。无其他物体，无背景，无边框，无额外文字。
+
+[English]
+Create a clean studio-style 3D illustration of a {argument name="animal" default="cat"} stretching in a dramatic play-bow pose on a pure white background, with the front legs extended forward, rear body raised, back arched, tail curled high in a hook shape, and head tilted upward while yawning with a huge open mouth. Show one animal only. Make the body smooth, rounded, plush, and slightly clay-like, with stylized anatomical detail: visible triangular ears, rounded paws with small claws, a pink nose, a curled tongue, gums, and two rows of small teeth including prominent upper and lower fangs. Cover the entire animal in a soft iridescent rainbow gradient fur/skin pattern, blending {argument name="color palette" default="cyan, turquoise, hot pink, magenta, yellow, orange, violet, and mint green"} in glossy pastel bands across the face, limbs, torso, and tail. Use soft ambient lighting, subtle shadows under the paws, high-key exposure, smooth subsurface-looking material, and a polished cute-surreal toy aesthetic. Composition: vertical portrait canvas, the animal fills most of the frame, angled diagonally from lower left foreground to upper right background, mouth near the left-center, raised tail near the upper right, with generous white negative space. Add a small elegant artist signature and date in the bottom-right corner reading {argument name="date text" default="July 29, 2026"} above {argument name="signature text" default="Oyagi"}. No other objects, no scenery, no border, no extra text.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082587211988602993) | 2026-07-29
+
+---
+
+### 🧸 例 5306：星空银河鲸鲨
+
+![星空银河鲸鲨](../images/%E6%98%9F%E7%A9%BA%E9%93%B6%E6%B2%B3%E9%B2%B8%E9%B2%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅以星空鲸鲨为单一主体的数字插画，背景为纯净的白色。鲸鲨呈优雅的垂直弧线状，头部圆润硕大，嘴部微张，眼睛平静，身体宽阔并向下弯曲成新月形，尾部位于左下方，正向左上方游动。画面中需包含 7 个清晰可见的鳍：背部上方 1 个大背鳍、1 个较小的后背鳍、2 个侧面胸鳍、腹部下方 2 个小型盆鳍/臀鳍，以及 1 个宽大的新月形尾鳍。赋予该生物平滑的半写实 3D 绘画质感，带有柔和的阴影和光泽感皮肤，但将鲸鲨原本的斑点替换为生动的银河纹理：包含饱和的钴蓝色、紫色、洋红色、青色以及温暖的粉橙色星云渐变，全身布满无数细小的星点和明亮的星芒。头部靠近吻部处应呈现温暖的粉色和桃色，并沿身体向蓝色和紫色过渡，腹部曲线处带有绿松石色的高光。保持轮廓优雅、奇幻且宁静，画面中不包含水、气泡、场景或其他装饰性符号。在右下角添加小巧的艺术家签名和日期，日期为 {argument name="date text" default="2026 年 7 月 30 日"}，其上方为 {argument name="signature text" default="Oyagi"}，采用精致的黑色手写字体。高分辨率方形至纵向构图，柔和的梦幻艺术风格，边缘清晰，主体居中，留有充足的白色负空间。
+
+[English]
+Create a single-subject digital illustration of a celestial whale shark, isolated on a clean white background. The whale shark is shown in a graceful vertical arc, swimming upward toward the upper left with its head large and rounded, mouth slightly open, tiny calm eye, broad body curving down and around into a sweeping crescent shape, and tail at the lower left. Include exactly 7 visible fins: 1 large dorsal fin on the upper back, 1 smaller rear dorsal fin, 2 side pectoral fins, 2 small lower pelvic/anal fins along the underside, and 1 broad crescent tail fin. Give the animal a smooth semi-realistic 3D painterly form with soft shading and glossy skin, but replace natural whale-shark markings with a vivid galaxy texture: saturated cobalt blue, violet, magenta, cyan, and warm pink-orange nebula gradients, filled with countless tiny star speckles and bright starbursts across the entire body. The head should glow warmer pink and peach near the snout and transition into blue and purple along the body, with turquoise highlights on the belly curve. Keep the silhouette elegant, whimsical, and serene, with no water, no bubbles, no scenery, and no decorative symbols outside the body. Add a small artist signature and date in the bottom-right corner reading {argument name="date text" default="July 30, 2026"} above {argument name="signature text" default="Oyagi"}, in subtle black handwritten script. High-resolution square-to-portrait composition, soft luminous fantasy art, crisp edges, centered subject, ample white negative space.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082587052881989962) | 2026-07-29
+
+---
+
+### 🧸 例 5360：办公室职员吸塑包装手办
+
+![办公室职员吸塑包装手办](../images/%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%81%8C%E5%91%98%E5%90%B8%E5%A1%91%E5%8C%85%E8%A3%85%E6%89%8B%E5%8A%9E.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张照片级写实的产品风格图像，展示一个密封在透明吸塑包装内的定制收藏级可动人偶，直立在木质办公桌上。人偶为一名年轻女性，留着齐肩棕色软发和刘海，面带友好的微笑，妆容自然，呈现出高质量写实微缩模型风格，皮肤和衣物带有哑光质感。她身穿干练的白色衬衫，搭配高腰米色阔腿裤和白色高跟鞋。让她保持自信站立的姿势，手中正好持有 2 件配件：左臂夹着一台纤薄的银色笔记本电脑或平板电脑，右手拿着一杯插着绿色吸管的塑料冰咖啡。包装采用淡薄荷绿色的背卡，圆角设计，顶部中心有一个小型零售挂孔，覆盖着光亮的透明模塑塑料壳，具有逼真的反光、圆润的边缘和贴合人偶的轮廓。从正面略微平视的角度拍摄吸塑包装，使其位于画面中心，人偶全身清晰可见，站在一个小型的透明展示底座上。背景：柔和虚化的现代办公空间，左侧有一台打开的笔记本电脑，右侧有一株绿植，远景右侧桌面上还有另一杯冰咖啡。使用自然日光，浅景深，木质桌面上有逼真的阴影，呈现高级商业摄影质感，无可见品牌标志，包装上无任何文字。
+
+[English]
+Create a photorealistic product-style image of a custom collectible action figure sealed inside a clear blister pack, standing upright on a wooden office desk. The figure is a young adult woman with shoulder-length soft brown hair and bangs, a friendly smile, and natural makeup, styled like a high-quality realistic miniature figurine with matte painted skin and clothing. She wears a crisp white button-up blouse tucked into high-waisted beige wide-leg trousers and white heels. Pose her standing confidently, holding exactly 2 accessories: a slim silver laptop or tablet tucked under her left arm and a plastic iced coffee cup with a green straw in her right hand. The packaging has a pale mint-green backing card with rounded corners and a small retail hanging slot centered at the top, covered by a glossy transparent molded plastic shell with realistic reflections, rounded edges, and figure-shaped contours. Show the blister pack from the front at a slight eye-level angle, centered in the frame, with the figure fully visible from head to feet on a small clear display base. Background: softly blurred modern workspace with an open laptop on the left, leafy green plant on the right, and another iced coffee cup on the desk in the far right background. Use natural daylight, shallow depth of field, realistic shadows on the wooden tabletop, premium commercial photography quality, no visible brand logos, no text on the package.
+```
+
+**来源：** [@シンス](https://x.com/pitopiyo01/status/2082308839916081314) | 2026-07-29
+
+---
+
+### 🧸 例 5372：皮克斯风格三文鱼晚餐广告
+
+![皮克斯风格三文鱼晚餐广告](../images/%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E4%B8%89%E6%96%87%E9%B1%BC%E6%99%9A%E9%A4%90%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个超写实、皮克斯/迪士尼风格的竖屏 3D 美食广告，场景设定在温暖且阳光明媚的家庭厨房中。画面展示了一位美丽的年轻女性，她有着大而富有表现力的棕色眼睛、柔软无瑕的皮肤、长而蓬松的波浪状 {argument name="hair color" default="栗棕色头发"}，脸上带着温暖友好的微笑。她站在大理石台面后，向观众展示一个大型浅口陶瓷餐盘。她身穿深酒红色针织高领毛衣，外搭一件米色亚麻围裙，围裙肩带附近别着一枚精致的金色玫瑰胸针。前景中，将食物作为主角：一块硕大的、色泽光亮的照烧三文鱼排，热气腾腾，三文鱼纹理清晰可见，深色的焦糖酱汁在周围汇聚，撒有芝麻、葱花和一小撮微型菜苗。在三文鱼周围加入 3 种清晰可见的配菜：鲜绿色的西兰花小花、橙色小胡萝卜和黄色玉米笋。采用令人垂涎的餐厅级造型，强调酱汁的丰富光泽、细微的蒸汽以及浅景深效果。背景：温馨且柔焦的厨房，左侧有明亮的窗户，洒入金色的晨光，摆放着小型盆栽香草、玻璃罐、餐具、炉灶上的锅、架子和温暖的米色墙壁。构图：竖屏 9:16，特写视角，女性居中略偏右，超大份的摆盘三文鱼占据下半部分，呈现诱人的商业广告质感，无文字、无 Logo、无水印。使用 {argument name="lighting mood" default="金色晨光"}，呈现高级美食摄影细节、电影级虚化效果、精致的 3D 角色写实感以及温馨的居家美食氛围。
+
+[English]
+Create an ultra-realistic 3D Pixar/Disney-inspired vertical food advertisement in a warm sunlit home kitchen. The scene shows a beautiful young woman with large expressive brown eyes, soft flawless skin, long voluminous wavy {argument name="hair color" default="chestnut brown hair"}, and a warm friendly smile, standing behind a marble countertop and holding a large shallow ceramic serving bowl toward the viewer. She wears a deep burgundy knit turtleneck sweater and a beige linen apron with a small decorative gold rose brooch pinned near one strap. In the foreground, make the food the hero: one large glossy teriyaki-glazed salmon fillet, steaming hot, with visible flaky salmon texture, dark caramelized sauce pooling around it, sesame seeds, sliced green scallions, and a small mound of microgreens on top. Add exactly 3 visible vegetable side types around the salmon: bright green broccoli florets, orange baby carrots, and yellow baby corn. Use appetizing restaurant-quality styling with rich reflections on the glaze, tiny steam wisps, and shallow depth of field. Background: cozy softly blurred kitchen with a bright window on the left, golden morning sunlight, a small potted herb plant, glass jars, utensils, a pot on the stove, shelves, and warm beige walls. Composition: portrait 9:16, close-up perspective, woman centered slightly right, oversized plated salmon dominating the lower half, inviting commercial look, no text, no logo, no watermark. Use {argument name="lighting mood" default="golden morning sunlight"}, premium food photography detail, cinematic bokeh, polished 3D character realism, and a wholesome gourmet-at-home mood.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2082270205775171732) | 2026-07-29
+
+---
+

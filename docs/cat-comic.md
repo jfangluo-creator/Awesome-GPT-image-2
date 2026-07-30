@@ -8105,3 +8105,147 @@ Create a square black-and-white photobooth expression grid featuring {argument n
 
 ---
 
+### 🎬 例 5300：仓鼠办公室漫画突发事件
+
+![仓鼠办公室漫画突发事件](../images/%E4%BB%93%E9%BC%A0%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%BC%AB%E7%94%BB%E7%AA%81%E5%8F%91%E4%BA%8B%E4%BB%B6.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页黑白竖版漫画，讲述一只微型仓鼠员工与一名困惑的年轻上班族在办公室遭遇的荒诞突发事件。
+
+画布：高竖版黑白漫画页，比例约为 2:3，带有粗黑色外边框，以及由粗线条分隔的四个水平排列的画格。
+
+视觉风格：细腻的日本青年漫画线条，网点纸阴影，干净的办公室透视，生动的表情，戏剧性的速度线和锯齿状对话框。最后一格对比度高。无色彩。
+
+场景：现代化的日本开放式办公室，有成排的办公桌、台式显示器、键盘、活页夹、书架、隔断、窗户、荧光灯下的企业氛围以及文件。仓鼠在桌上拥有一个微型办公区。
+
+主要角色：使用三个固定角色：1) 一名年轻的日本男性上班族，身穿深色西装、白衬衫、条纹领带，短黑发，坐在大办公桌前使用台式电脑；2) 一只毛茸茸的小仓鼠，可爱但表情严肃，坐在微型办公椅上，面前是微型办公桌、微型显示器、键盘、文件和办公用品；3) 一名愤怒的中年男上司，身穿西装领带，戴眼镜，表情严厉，坐在或站在后方的办公桌前。年轻员工为 {argument name="character name" default="一名年轻的日本上班族"}；仓鼠为 {argument name="hamster role" default="一只微型仓鼠员工"}；上司为 {argument name="boss role" default="一名愤怒的中年部门经理"}。
+
+画格布局与动作，共 4 格：
+1. 第 1 格，平静的交代镜头：年轻员工坐在右前方电脑前打字，带着些许担忧看向左前方的仓鼠。仓鼠坐在大办公桌上的微型椅和微型桌前。上司坐在后方，正对着显示器感到烦躁。办公活页夹立在最右侧边缘。
+2. 第 2 格，突如其来的命令：后方的上司怒火中烧，从锯齿状对话框中咆哮，并伴有戏剧性的爆发线。年轻员工惊愕地后仰，张着嘴，流着汗，双手靠近键盘。仓鼠从微型桌前抬头。在仓鼠和员工附近添加小的手写音效。锯齿状对话框中的大型日语文字为：「今すぐヤ〇トの集荷呼べ！！今日中！！熊本に支援物資を送るから！！」。在受惊的反应附近添加音效文字 「びくっ」。
+3. 第 3 格，解释与升级：上司身体前倾大声咆哮，左侧有一个巨大的锯齿状对话框写着 「はぁ!?」。年轻员工焦虑地转头看向后方的上司，流着汗，右侧有一个圆形的对话框写着 「く、熊本ですか……？配送ストップしてると思いますが……」。仓鼠在微型键盘上快速打字，圆形对话框写着 「はい、どの配送会社も熊本への配送は全域ストップしてます」，并伴有小的打字音效 「カタカタカタ」。
+4. 第 4 格，凄凉的笑点：背景变得几乎全黑，阴影浓重。上方中央的挂钟显示大约 6:30。年轻员工在右侧，面色苍白且疲惫，双眼无神，流着汗，表情充满无助的恐惧。仓鼠在左侧微型键盘后，同样双眼无神，爪子放在桌上。左上方一个巨大的锯齿状对话框写着： 「そんなの無理を通してこい！！話せばどっかしら受け取ってくれるだろ！！片っ端から当たれ！！」。最终氛围是冷幽默式的恐怖与职场荒诞感。
+
+文本限制：完全保留上述日语对话。使用粗体手写风格的漫画字体。将受审查的公司名称保留为 「ヤ〇ト」，而非真实品牌。不要添加额外的标题、Logo、水印或页码。
+
+构图限制：页面必须包含四个画格，三个固定角色，一个微型仓鼠工作站，一个年轻员工的普通工作站，以及一个仅在最后一格可见的挂钟。强调可爱仓鼠与冷酷、过度劳累的职场戏剧之间的对比。
+
+[English]
+Goal: Create a black-and-white vertical manga page about an absurd office emergency involving a tiny hamster employee and a confused young salaryman.
+
+Canvas: Tall vertical manga page in grayscale, about 2:3 aspect ratio, with thick black outer border and four stacked horizontal panels separated by bold gutters.
+
+Visual style: Detailed Japanese seinen manga line art, screentone shading, clean office perspective, expressive faces, dramatic speed lines and jagged speech balloons. High contrast in the final panel. No color.
+
+Setting: A modern open-plan Japanese office with rows of desks, desktop monitors, keyboards, binders, shelves, partitions, windows, fluorescent corporate atmosphere, and paperwork. The hamster has a miniature office setup on the desk.
+
+Main subjects: Use exactly three recurring characters: 1) a young Japanese male office worker in a dark suit, white shirt, striped tie, short black hair, seated at a large desk with a desktop computer; 2) a small fluffy hamster, cute but serious, seated in a tiny office chair at a miniature desk with tiny monitor, keyboard, paperwork, and office supplies; 3) an angry middle-aged male boss in a suit and tie, glasses, stern face, seated or standing at a rear desk. The young worker is {argument name="character name" default="a young Japanese salaryman"}; the hamster is {argument name="hamster role" default="a tiny hamster office worker"}; the boss is {argument name="boss role" default="an angry middle-aged department manager"}.
+
+Panel layout and action, exactly 4 panels:
+1. Panel 1, calm establishing shot: the young worker sits at the right foreground typing at his computer, looking mildly concerned toward the hamster on the left foreground. The hamster sits at its tiny chair and miniature desk on top of the main desk. The boss sits in the background behind them, looking annoyed at his monitor. Office binders stand at the far right edge.
+2. Panel 2, sudden command: the boss in the background explodes with anger, shouting from a jagged speech balloon with dramatic burst lines. The young worker recoils in surprise, mouth open and sweat drop, hands near the keyboard. The hamster looks up from its mini desk. Add small handwritten sound effects near the hamster and worker. Large Japanese text in the jagged balloon: 「今すぐヤ〇トの集荷呼べ！！今日中！！熊本に支援物資を送るから！！」. Add sound effect text 「びくっ」 near the startled reactions.
+3. Panel 3, explanation and escalation: the boss leans forward screaming with a huge jagged balloon on the left reading 「はぁ!?」. The young worker turns back anxiously toward the boss, sweating, with a rounded speech balloon on the right saying 「く、熊本ですか……？配送ストップしてると思いますが……」. The hamster types quickly at its tiny keyboard, with a rounded speech balloon saying 「はい、どの配送会社も熊本への配送は全域ストップしてます」 and small typing sound effect 「カタカタカタ」.
+4. Panel 4, bleak punchline: the background becomes mostly black with heavy shadows. A wall clock near the top center shows about 6:30. The young worker is on the right, pale and exhausted, blank white eyes, sweat drops, expression of helpless dread. The hamster is on the left behind its tiny keyboard, also with blank white eyes, paws resting on the desk. A huge jagged speech balloon at upper left reads: 「そんなの無理を通してこい！！話せばどっかしら受け取ってくれるだろ！！片っ端から当たれ！！」. The final mood is deadpan horror and workplace absurdity.
+
+Text constraints: Preserve the Japanese dialogue exactly as shown above. Use bold hand-lettered manga lettering. Keep the censored company reference as 「ヤ〇ト」, not a real brand. Do not add extra captions, logos, watermarks, or page numbers.
+
+Composition constraints: The page must contain exactly four panels, exactly three recurring characters, one miniature hamster workstation, one normal workstation for the young worker, and one wall clock visible only in the final panel. Emphasize the contrast between the cute hamster and the grim, overworked office drama.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2082613439701405852) | 2026-07-29
+
+---
+
+### 🎬 例 5363：海运港口与漫画拼贴画的创意融合
+
+![海运港口与漫画拼贴画的创意融合](../images/%E6%B5%B7%E8%BF%90%E6%B8%AF%E5%8F%A3%E4%B8%8E%E6%BC%AB%E7%94%BB%E6%8B%BC%E8%B4%B4%E7%94%BB%E7%9A%84%E5%88%9B%E6%84%8F%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实、具有电影质感的编辑人像，主角为 {argument name="subject" default="同一位留着深棕色长波浪卷发、妆容自然柔和、神情冷静自信的年轻女性"}。她身穿 {argument name="clothing" default="蓝色牛仔外套内搭修身上衣，配同色系牛仔裤和黑色高跟鞋"}，在整个构图中保持完全一致的面部特征、发型、身体比例和服装。
+
+将两个超现实概念融合为一个无缝场景：
+
+在一侧，描绘这位女性如同巨人般腰部以下浸没在现代国际海运港口中，周围环绕着集装箱码头、货运起重机、仓库、绿松石色的海水以及多艘货轮。她的一只手轻轻托着一艘微型集装箱船，几艘真实的货轮在她周围航行，留下了逼真的水波纹。戏剧性的阴天和乌云营造出电影般的氛围，远景中可见未来主义的城市天际线。
+
+在另一侧，将环境融合进一面黑白日本漫画拼贴墙，墙上布满了充满动感的漫画分镜，内容涵盖摩托车、办公场景、城市街道、直播、友谊、表情丰富的角色、速度线、日文拟声词和对话气泡。这位女性以放松的编辑姿势自然地站在漫画艺术作品前，在色彩鲜艳的写实主体与单色调的漫画背景之间形成鲜明对比。
+
+海运港口与漫画拼贴之间的过渡应显得流畅且富有艺术感，将超现实比例、奇幻元素、编辑时尚摄影和漫画美学融为一体。超精细纹理、写实光影、清晰对焦、自然肤色、HDR、8K 分辨率、体积光、电影级调色、专业时尚摄影、高度细节化的环境，大师级品质。
+
+[English]
+Create a hyper-realistic, cinematic editorial portrait of the {argument name="subject" default="same young woman with long wavy dark-brown hair, soft natural makeup, and a calm, confident expression"}. She wears a {argument name="clothing" default="blue denim jacket over a fitted top, matching blue jeans, and black high heels"}, maintaining the exact same facial identity, hairstyle, body proportions, and outfit throughout the composition.
+
+Blend two surreal concepts into one seamless scene:
+
+On one side, depict the woman as a giant standing waist-deep in a modern international shipping port, surrounded by container terminals, cargo cranes, warehouses, turquoise seawater, and multiple cargo ships. She gently holds a miniature container ship in one hand while several real cargo vessels navigate around her, leaving realistic water wakes. A dramatic overcast sky with dark storm clouds creates a cinematic atmosphere, with a futuristic city skyline visible in the distance.
+
+On the other side, merge the environment into a black-and-white Japanese manga collage wall filled with dynamic comic panels featuring motorcycles, office scenes, city streets, livestreaming, friendship, expressive characters, speed lines, Japanese sound effects, and speech bubbles. The woman stands naturally in front of the manga artwork with a relaxed editorial pose, creating a striking contrast between the colorful realistic subject and the monochrome manga background.
+
+The transition between the shipping port and manga collage should feel smooth and artistic, combining surreal scale, fantasy, editorial fashion photography, and comic-book aesthetics into one cohesive composition. Ultra-detailed textures, realistic lighting, sharp focus, natural skin tones, HDR, 8K resolution, volumetric lighting, cinematic color grading, professional fashion photography, highly detailed environment, masterpiece quality.
+```
+
+**来源：** [@Zarnab Ai](https://x.com/Zarnab_with_Ai/status/2082296517713674515) | 2026-07-29
+
+---
+
+### 🎬 例 5369：赛博朋克光轮摩托分镜脚本
+
+![赛博朋克光轮摩托分镜脚本](../images/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%85%89%E8%BD%AE%E6%91%A9%E6%89%98%E5%88%86%E9%95%9C%E8%84%9A%E6%9C%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="project name" default="X-01"} 创建一张电影感赛博朋克动作分镜脚本，展示一名身穿黑色装甲的英雄在雨中霓虹大都市遭遇伏击，并骑着红色光轮摩托登场，随后展开战斗。
+
+画布：宽屏 16:9 分镜项目，深色科幻展示风格，黑色背景配以细红网格边框。精确排列 9 个宽屏画格，采用 3 列 3 行网格布局，每个画格左上角标有红色小数字。底部添加包含项目元数据的制作条。
+
+视觉风格：超精细深色赛博朋克概念艺术，电影感分镜画格，湿润的反光沥青路面，大雨，蓝黑色城市氛围，红色霓虹点缀，体积雾，动态模糊，火花，等离子弧，铬黑色装甲，高对比度照明。英雄身穿流线型黑色未来主义外骨骼装甲，配有发光的红色面罩和红色能量高光。敌人是体型庞大的装甲执法者，配备橙色电能武器。光轮摩托是一辆低矮的黑色未来主义摩托车，配有发出红光的超大圆形轮毂。
+
+画格布局及所需标题：包含 9 个独立的动作分镜画格，并附带以下标题：
+1. 建立镜头（远景）：几名 DTR 执法者在雨中的霓虹街道上进行紧张的对峙；远处有全息骷髅和红色企业标志。标题："ESTABLISHING SHOT. DTR ENFORCERS HOLD THE STREET IN A TENSE STANDOFF."
+2. 侧向追踪镜头：英雄骑着红色光轮摩托疾驰进入场景，伴随强烈的动态模糊和雨迹。标题："THE HERO SPEEDS INTO THE SCENE ON THE LIGHTCYCLE."
+3. 后方/低角度镜头：摩托车切开湿润的街道冲向周围的爪牙，轮毂溅起红色水花。标题："THE BIKE CUTS THROUGH THE STREET TOWARD THE SURROUNDING HENCHMEN."
+4. 中心侧滑镜头：英雄驾驶光轮摩托侧滑至中心，敌人从四面八方围拢，水洼中映出红色倒影。标题："THE HERO SKIDS INTO THE CENTER AS HENCHMEN CLOSE IN FROM ALL SIDES."
+5. 起跳镜头：英雄从光轮摩托上一跃而起，敌人从前景注视着。标题："THE HERO LAUNCHES UPWARD OFF THE LIGHTCYCLE."
+6. 高空动作镜头：英雄在雨中摩天大楼的背景下，在爪牙上方完成空中翻转，身姿敏捷。标题："MID-AIR FLIP ABOVE THE HENCHMEN. AGILE. PRECISE. UNSTOPPABLE."
+7. 空中旋转特写：英雄在空中扭转身体，准备着陆并拔出武器，敌人环绕在两侧。标题："ROTATING THROUGH THE AIR, PREPARING TO LAND AND DRAW WEAPONS."
+8. 英雄着陆镜头：英雄以帅气的蹲姿着陆，拔出两把红色等离子武士刀。标题："HERO LANDS IN A STYLISH STANCE, DRAWING BOTH PLASMA KATANAS."
+9. 战斗开始镜头：两把武士刀已拔出，红色圆形光迹在雨中划过英雄周围，敌人将其包围。标题："BOTH KATANAS DRAWN. RED LIGHT TRAILS SLICE THE RAIN AS BATTLE BEGINS."
+
+可见文字与品牌：在多个城市背景标志中使用企业标志文字 {argument name="corporate sign text" default="DTR CORP"}。在底部制作条中包含："PROJECT:" 后接 {argument name="project name" default="X-01"}，"STORYBOARD"，"SEQUENCE:" 后接 {argument name="sequence title" default="LIGHTCYCLE AMBUSH"}，"DATE:" 后接 {argument name="date" default="05-22-2024"}，以及 "ARTIST:" 后接 {argument name="artist credit" default="NEO-CORE VISUALS"}。在右下角添加一个小型红色角状三角形徽标。
+
+约束：所有标题保持在每个画格下方的小号大写压缩白色文本。保持精确的 9 个画格，第 8 和第 9 画格中必须有 2 把等离子武士刀，并采用红/黑/蓝相协调的赛博朋克色调。禁止额外画格，禁止对话气泡，禁止水印。
+
+[English]
+Goal: Create a cinematic cyberpunk action storyboard sheet for {argument name="project name" default="X-01"}, showing a black armored hero ambushed in a rain-soaked neon megacity and arriving on a red-glowing lightcycle before launching into combat.
+
+Canvas: Wide 16:9 storyboard board, dark sci-fi presentation style, black background with thin red grid borders. Arrange exactly 9 widescreen panels in a 3-column by 3-row grid, each panel numbered in small red numerals at the top-left. Add a bottom production strip with project metadata.
+
+Visual style: Hyper-detailed dark cyberpunk concept art, cinematic storyboard frames, wet reflective asphalt, heavy rain, blue-black city atmosphere, red neon accents, volumetric haze, motion blur, sparks, plasma arcs, chrome-black armor, high contrast lighting. The hero wears a sleek black futuristic exosuit with a glowing red visor and red energy highlights. Enemies are bulky armored enforcers with orange electrical weapons. The lightcycle is a low black futuristic motorcycle with oversized circular wheels glowing red.
+
+Panel layout and required captions: Include exactly 9 discrete storyboard panels with these actions and captions:
+1. Establishing wide shot: several DTR enforcers hold a rainy neon street in a tense standoff; distant holographic skull and red corporate sign. Caption: "ESTABLISHING SHOT. DTR ENFORCERS HOLD THE STREET IN A TENSE STANDOFF."
+2. Side tracking shot: the hero speeds into the scene on the red-lit lightcycle, intense motion blur and rain streaks. Caption: "THE HERO SPEEDS INTO THE SCENE ON THE LIGHTCYCLE."
+3. Rear/low angle: the bike cuts through the wet street toward surrounding henchmen, red water spray exploding from the wheel. Caption: "THE BIKE CUTS THROUGH THE STREET TOWARD THE SURROUNDING HENCHMEN."
+4. Central skid shot: the hero skids the lightcycle into the middle as enemies close in from all sides, red reflections across puddles. Caption: "THE HERO SKIDS INTO THE CENTER AS HENCHMEN CLOSE IN FROM ALL SIDES."
+5. Launch shot: the hero springs upward off the lightcycle while enemies watch from the foreground. Caption: "THE HERO LAUNCHES UPWARD OFF THE LIGHTCYCLE."
+6. High aerial action: the hero performs a mid-air flip above the henchmen, agile silhouette against rainy skyscrapers. Caption: "MID-AIR FLIP ABOVE THE HENCHMEN. AGILE. PRECISE. UNSTOPPABLE."
+7. Rotating aerial close shot: the hero twists through the air, preparing to land and draw weapons, enemies framing the sides. Caption: "ROTATING THROUGH THE AIR, PREPARING TO LAND AND DRAW WEAPONS."
+8. Hero landing shot: the hero lands in a stylish crouched stance, drawing exactly 2 red plasma katanas. Caption: "HERO LANDS IN A STYLISH STANCE, DRAWING BOTH PLASMA KATANAS."
+9. Battle start shot: both katanas are drawn, red circular light trails cut through the rain around the hero as enemies surround him. Caption: "BOTH KATANAS DRAWN. RED LIGHT TRAILS SLICE THE RAIN AS BATTLE BEGINS."
+
+Visible text and branding: Use the corporate sign text {argument name="corporate sign text" default="DTR CORP"} in multiple city-background signs. In the bottom production strip include: "PROJECT:" then {argument name="project name" default="X-01"}, "STORYBOARD", "SEQUENCE:" then {argument name="sequence title" default="LIGHTCYCLE AMBUSH"}, "DATE:" then {argument name="date" default="05-22-2024"}, and "ARTIST:" then {argument name="artist credit" default="NEO-CORE VISUALS"}. Add a small angular red triangular emblem at the bottom-right.
+
+Constraints: Keep all captions in small uppercase condensed white text beneath each panel. Maintain exactly 9 panels, exactly 2 plasma katanas in panels 8 and 9, and a cohesive red/black/blue cyberpunk palette. No extra panels, no speech bubbles, no watermark.
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2082277122983248318) | 2026-07-29
+
+---
+

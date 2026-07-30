@@ -12658,3 +12658,217 @@ Create a warm, luxurious hobby-fan afternoon tea flat-lay/tabletop photograph th
 
 ---
 
+### 🏷️ 例 5307：史诗级中世纪战场全景
+
+![史诗级中世纪战场全景](../images/%E5%8F%B2%E8%AF%97%E7%BA%A7%E4%B8%AD%E4%B8%96%E7%BA%AA%E6%88%98%E5%9C%BA%E5%85%A8%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 16:9 超宽画幅的黑暗电影级中世纪战场全景图。画面展示了一支庞大的军队 {argument name="army size" default="数千名全副武装的士兵"} 在厚重的乌云下，分布在泥泞且被践踏的平原上。视角位于前线后方略高的山丘上，俯瞰着密集的步兵、骑兵、长矛、长枪、盾牌和旗帜方阵，向地平线上遥远的城池延伸。前景处，放置身着钢盔、锁子甲、手持圆盾和长柄武器、披着磨损斗篷的中世纪士兵，展示他们冲向战场时的背影和侧影。画面中需包含 5 面显眼的前景旗帜：最左侧一面巨大的破损深红色旗帜，其下方一面蓝白旗帜，左中位置一面绿白旗帜，中左远景处一面红色战旗，以及中左侧附近一面蓝白十字旗。中景应布满行进的方阵、高举的长矛、零散的骑兵群、烟柱和点点火光。远景处展示一座位于山脊上、部分被薄雾和战场烟尘遮蔽的堡垒城市或城堡剪影。使用 {argument name="color palette" default="冷灰色、泥褐色、哑光钢色和褪色的深红色"} 组成的冷峻低饱和度色调，配合戏剧性的阴天光影、体积雾、雨水浸湿的土地，营造出残酷的历史战争氛围。风格应为写实的黑暗奇幻概念艺术，细节丰富，质感粗犷，规模宏大，禁止出现现代物体、文字或水印。
+
+[English]
+Create a dark, cinematic medieval battlefield panorama in ultra-wide 16:9 format. The scene shows a vast army of {argument name="army size" default="thousands of armored soldiers"} spread across a muddy, trampled plain under heavy storm clouds. Viewpoint is from a slightly elevated hill behind the front ranks, looking out over dense formations of infantry, cavalry, pikes, spears, shields, and banners stretching toward a distant walled city on the horizon. In the foreground, place armored medieval soldiers with steel helmets, chainmail, round shields, polearms, and worn cloaks, their backs and profiles visible as they descend into battle. Include exactly 5 prominent foreground banners: 1 large torn crimson standard on the far left, 1 blue-and-white flag below it, 1 green-and-white flag near the left-center, 1 red battle flag in the mid-left distance, and 1 blue-and-white cross flag near the center-left. The middle ground should be packed with marching formations, raised spears, scattered cavalry groups, smoke plumes, and small fires. In the far distance, show a fortified city or castle silhouette with towers on a ridge, partially obscured by mist and battlefield smoke. Use a grim desaturated color palette of {argument name="color palette" default="cold grays, muddy browns, muted steel, and faded crimson"}, with dramatic overcast lighting, volumetric haze, rain-darkened earth, and a brutal historical war atmosphere. Style should be realistic dark fantasy concept art, highly detailed, gritty, epic scale, no modern objects, no text, no watermark.
+```
+
+**来源：** [@Raphi-2Code](https://x.com/R2Cdev_/status/2082567802238480657) | 2026-07-29
+
+---
+
+### 🏷️ 例 5312：铅笔素描 RPG 角色概念设计
+
+![铅笔素描 RPG 角色概念设计](../images/%E9%93%85%E7%AC%94%E7%B4%A0%E6%8F%8F%20RPG%20%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创造传统铅笔素描与高纯度数字光效之间的直接对比。* 强烈的石墨交叉排线，涂抹的炭笔质感：皮肤、织物和盔甲均通过可见的交叉排线、石墨涂抹和炭笔涂抹来塑造；保留纸张的粗糙纹理，不使用平滑的阴影。* 纯白负空间，冷灰色单色基底：保持背景干净纯白，主体以冷灰和蓝灰色调呈现；留白越多，线条和造型就越像高端 RPG 艺术画册。* 刺眼的琥珀色平涂光效，未混合的数字叠加：让琥珀色光芒仅以裂纹、颗粒和光源的形式突然出现，边缘锐利且色彩纯正；避免柔和的渐变——冷灰色与金色光芒的碰撞才是构图最具冲击力的地方。创作一幅完全原创的超高端角色概念艺术插画，主题为全新构思的“琥珀之缚幻影（The Amber-Bound Eidolon）”：一位强大、健美的女性幻影守护者，手持一个装满发光金色飞蛾的复古玻璃星盘，下半身消散为涂抹的炭笔痕迹和发光的金色沙砾。主体和背景设定必须完全原创，但视觉风格必须 100% 精确还原高端 RPG 桌游角色设计图纸，并置于纯白背景中。绝对优先考虑原始、干燥、冷灰色铅笔素描（石墨排线）与刺眼数字发光效果之间极端的视觉碰撞。无环境，无易读文字，无 Logo。风格导向：这是绝对优先事项。完全重现该图像系列的精确风格：置于纯白负空间背景下的高端奇幻角色概念艺术，重点强调“石墨排线”和“炭笔涂抹”效果。女性角色的皮肤、盔甲和衣物上的所有阴影区域必须具有高度可见、强烈的铅笔交叉排线。插画必须呈现出一种大师级的传统石墨画质感，仿佛在纹理纸张上被炽热、平涂的数字色彩猛烈地打断。干燥、冷灰色的铅笔渲染与刺眼、霓虹般明亮的数字琥珀光之间的对比是图像的核心。核心构图：采用高纵向构图，完全聚焦于漂浮在纯白纸张虚空中的单一女性角色。人物姿态动态：一只手臂抬起，握着一个沉重、悬垂、闪耀着明亮光芒的玻璃星盘。她的上半身肌肉发达且刻画扎实，而从腰部以下，她垂下的衣物和双腿完全解体并消散为上升的风格化烟雾。这种烟雾必须看起来像强烈的炭笔涂抹与发光的颗粒状金沙混合，并逐渐消失在白色背景中。主题与角色设计：设计“琥珀之缚幻影”：她必须拥有强健、健康的西方女性运动员体格，肌肉线条紧致分明（强壮的肩膀、雕塑般的躯干），展现出强悍的尊严与力量——绝对避免任何大众化、柔弱或“网红脸”的面部特征。她的身体几乎完全以冷板岩灰和灰蓝色铅笔色调渲染。深邃、刺眼、明亮的液态琥珀裂纹横跨她健美的胸部、肩膀和手臂。她穿着破烂的腰部缠带，佩戴着极其复杂、带有锋利铅笔花丝工艺的古铜色护腕。道具设计：手中悬挂着一个巨大、华丽的复古玻璃星盘或灯笼。其内部闪烁着刺眼、炽热的霓虹金和纯黄色光芒，成群的魔法发光飞蛾在其中涌动。金色的热气从中向上飘散，投射出强烈的、发光的橙金色轮廓光，猛烈地切割过她手臂和健美躯干上干燥的石墨纹理。纹理与质感：表面触感是一切。白色背景必须纯净整洁。角色的哑光表面必须显示出可见的纸张纹理、干涩的石墨拖拽痕迹和原始的排线。发光的液态琥珀裂纹和星盘火焰必须看起来像纯净、未混合、极其明亮的数字叠加，在去饱和的素描背景下产生强烈的视觉冲击。氛围：史诗感、原始、强烈的对比、黑暗奇幻、强大的女性力量、威严、高细节度的专业级素描。渲染风格：超高端 RPG 角色概念艺术，置于纯白背景，极端的石墨交叉排线，炭笔涂抹烟雾，刺眼的数字琥珀光，冷灰色与霓虹金的强烈对比，复杂的青铜花丝，健美女性战士，下半身消散为铅笔笔触与金沙，世界级插画，8k。负面提示词：背景环境，风景，易读文字，Logo，照片写实，3D 渲染，平滑喷笔，塑料质感，大众化美女脸，解剖结构薄弱，柔弱动漫少女，完整的实心腿，扁平卡通阴影，浑浊色彩，柔和的发光渐变。
+
+[English]
+Create a direct contrast between traditional pencil sketches and high-purity digital lighting effects. * Aggressive graphite cross-hatching, smudged charcoal Skin, fabric, and armor are all shaped using visible cross-hatching, graphite smudges, and charcoal smudges; the rough texture of the paper is preserved, and no smooth shading is applied. * Pure white negative space, cool-gray monochrome base Keep the background clean and pure white, with the subject rendered in cool gray and blue-gray tones; the more white space left, the more the line art and modeling will resemble a high-end RPG art book. * blinding flat amber glow, unblended digital overlay Allow the amber glow to appear only suddenly in the form of cracks, particles, and light sources, with hard edges and pure color; avoid soft gradients—the clash between cool gray and golden light is what makes the composition truly impactful. Create a completely original ultra-premium character concept art illustration with a newly invented theme: "The Amber-Bound Eidolon," a powerful, athletic female phantom guardian holding a vintage glass astrolabe filled with glowing golden moths, with her lower body dissolving into smudged charcoal and glowing golden sand. The subject and lore must be fully original, but the visual style must maintain 100% exact fidelity to high-end RPG tabletop character design sheets, isolated on a pure white background. The absolute highest priority is the extreme visual collision between raw, dry, cool-grey pencil sketching (graphite hatching) and blinding digital luminescence. No environment, no readable text, no logo. Style direction: This is the absolute priority. Fully recreate the exact image-family style: premium fantasy character concept art isolated on a stark white negative-space background, heavily emphasizing "Graphite Hatching" and "Smudged Charcoal" effects. All shadow areas on the female character's skin, armor, and clothing must feature highly visible, aggressive pencil cross-hatching. The illustration must feel like a master-level traditional graphite drawing on textured paper that has been violently interrupted by blazing, flat digital colors. The contrast between the extremely dry, cool-grey pencil rendering and the piercing, neon-bright digital amber glow is the core of the image. Core composition: Use a tall vertical composition focused entirely on a single female character floating in a void of pure white paper space. The figure is posed dynamically: one arm is raised, holding a heavy, dangling, brilliantly glowing glass astrolabe. Her upper torso is muscular and solidly drawn, while from the waist down, her draped clothing and legs completely unravel and disintegrate into rising, stylized smoke. This smoke must look like aggressive charcoal smudging mixed with glowing, particle-like golden sand fading into the white background. Theme & Character design: Design the Amber-Bound Eidolon: She must have a strong, healthy Western athletic female physique with firm, defined muscle lines (strong shoulders, sculpted core), projecting fierce dignity and power—absolutely avoiding any generic, soft, or "internet-celebrity" facial features. Her body is rendered almost entirely in cool slate-grey and ash-blue pencil tones. Deep, piercing, blindingly bright cracks of liquid amber run across her athletic chest, shoulders, and arms. She wears tattered waist wrappings and extremely intricate, aged bronze bracers featuring razor-sharp pencil filigree. Prop design: Hanging from her hand is a massive, ornate vintage glass astrolabe or lantern. Its interior blazes with a blinding, intensely hot neon-gold and pure yellow light, swarming with magical glowing moths. Wisps of golden heat drift upward from it, casting a harsh, luminous orange-gold rim-light that cuts aggressively across the dry graphite textures of her arm and athletic torso. Texture and finish: The surface tactility is everything. The white background must be pure and clean. The character's matte surfaces must show visible paper grain, dry graphite drag, and raw hatching lines. The glowing liquid amber cracks and the astrolabe fire must look like pure, unblended, intensely bright digital overlays that pop aggressively against the desaturated sketch. Mood: Epic, raw, aggressive contrast, dark fantasy, powerful feminine strength, imposing, highly detailed studio-grade sketch. Rendering style: ultra-premium RPG character concept art, isolated on pure white background, extreme graphite cross-hatching, smudged charcoal smoke, blinding digital amber glow, stark cool-grey vs neon-gold contrast, intricate bronze filigree, athletic female warrior, lower body dissolving into pencil strokes and golden sand, world-class illustration, 8k. Negative prompt: background environment, scenery, readable text, logo, photorealism, 3D render, smooth airbrushing, plastic texture, generic beauty face, weak anatomy, soft anime girl, full solid legs, flat cartoon shading, muddy colors, soft glowing gradients.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2082553041669243346) | 2026-07-29
+
+---
+
+### 🏷️ 例 5319：深色系云南餐厅招商手册幻灯片
+
+![深色系云南餐厅招商手册幻灯片](../images/%E6%B7%B1%E8%89%B2%E7%B3%BB%E4%BA%91%E5%8D%97%E9%A4%90%E5%8E%85%E6%8B%9B%E5%95%86%E6%89%8B%E5%86%8C%E5%B9%BB%E7%81%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一家成长中的特色餐饮品牌创建一套完整的高端中式品牌投资手册 / PowerPoint 素材，采用深色电影感的云南山峦美学和旧纸张奢华质感。品牌名称应为 {argument name="brand name" default="闲云野鹤"}，定位为云南菜概念及加盟招商手册。
+
+画布：一张展示 10 页宽屏演示幻灯片的竖向海报，排列为作品集预览：顶部 1 张大封面幻灯片，中间 8 张较小的幻灯片呈 2 列网格排列，底部 1 张大封底幻灯片。幻灯片之间留出宽裕的留白，如同整洁的展示联系表。每张幻灯片均为 16:9，深棕色/黑色调，带有温暖的棕褐色高光。
+
+视觉风格：高端中式文化餐厅手册设计，充满意境与氛围感。使用水墨山峦、雾气森林、古村剪影、粗糙石桌、茶碗、盖碗、草本植物、香料、编织篮、蒸汽、烛光、精致的金线艺术和做旧羊皮纸叠加效果。排版应结合用于主标题的醒目中式毛笔书法与用于描述的精致小号中式衬线字体。配色方案：炭黑、深赭、焦赭、古金、哑光玉色、暖象牙白。添加微小的红色印章、细金分割线、竖向侧边标题、页码和极简图标。使整套设计看起来像一份成熟的投资者招商手册，优雅、质朴且高端。
+
+幻灯片数量及可见内容：包含 10 张幻灯片。
+
+1. 封面幻灯片：大号毛笔书法标题“闲云野鹤”；副标题“云南菜馆招商手册”；小号英文行“YUNNAN CUISINE INVESTMENT BROCHURE”；辅助标语“山野入席，风土成章”；年份“2026”；标题上方有小型品牌仙鹤徽标线稿。背景：云雾缭绕的云南山峦，以及摆放着茶碗和草本植物的深色桌面。
+
+2. 品牌缘起幻灯片：标题“品牌缘起”；副标题关于品牌故事和山野风味。使用左侧竖向装饰侧边栏和右侧山水景观。包含数个描述品牌理念、起源和定位的小文本块，并附带一枚小红章。
+
+3. 市场机会幻灯片：标题“风土资产与市场机会”。创建一个结构化的分析布局，包含两个主要栏目：一侧展示云南区域地图或山脉轮廓图形，另一侧展示带有图标和简短数据类中文文本的紧凑型机会卡片。包含 6 张机会卡片。
+
+4. 产品矩阵幻灯片：标题“招牌产品矩阵”。展示 5 张竖向产品卡片，采用美食摄影风格插图：1 款野生菌火锅、1 款烤肉或串烧、1 款石锅鸡/饭、1 款云南特色小吃拼盘、1 款色彩丰富的米线/面食。每张卡片配有小型中式菜品标签和简短描述。
+
+5. 空间印记幻灯片：标题“空间印记”。右侧展示一张温暖的餐厅室内主图，包含木梁、灯笼、编织纹理和餐桌。左侧放置说明性文字。底部包含 3 张标注为门店氛围、用餐体验和文化细节的小型场景卡片。
+
+6. 店型模型与盈利结构幻灯片：标题“店型模型与盈利结构”。在中心放置 3 张主要的商业模式卡片：轻量店、标准店和旗舰店。下方放置 5 个关于投资、面积、人员、营业额和回收周期的小型指标图标。
+
+7. 总部赋能系统幻灯片：标题“总部赋能系统”。创建一个中心辐射型图表，品牌仙鹤徽标位于中心，周围连接 6 个能力模块：选址、培训、供应链、运营、营销和产品研发。使用金色轮廓的圆角矩形和细连接线。
+
+8. 为什么值得合作幻灯片：标题“为什么值得合作”。主要陈述为大号中文文本：“不是追逐短期流量，而是经营可以沉淀的地方风味品牌。”包含 5 列带有小图标和简短中文标签的理由：品牌潜力、差异化菜品、稳定供应链、运营支持和文化溢价。
+
+9. 合作流程幻灯片：标题“合作流程”。展示 6 个带编号的水平时间轴步骤：初步咨询、资质审核、门店选址评估、合同签署、筹备与培训、开业支持。每个数字上方使用简单的线条图标，背景为温暖的山峦。
+
+10. 封底幻灯片：大号毛笔书法标题“与山野同行”；副标题“把云南的风，做成城市里可持续生长的生意”；小号英文行“JOIN THE JOURNEY”。底部附近包含 3 个价值图标：城市合伙、品牌联营、区域洽谈。背景重复雾山与茶碗场景，右上角有飞鹤剪影，标题上方有品牌徽标。
+
+文本与语言：所有可见的幻灯片文本均应为简体中文，辅以少量英文装饰性副标题，如“BRAND DECK”、“JOIN THE JOURNEY”和“YUNNAN CUISINE INVESTMENT BROCHURE”。保持文本紧凑且符合手册预览的真实感；无需在小尺寸下完全可读，但主标题必须清晰。
+
+约束：不要创建现代明亮的商务风格。避免使用卡通人物、霓虹色、通用的西式餐厅图像和过多的杂乱元素。在所有 10 张幻灯片中保持一致的品牌标识、页码、侧边栏、红章点缀以及相同的电影感深色云南视觉系统。
+
+[English]
+Goal: Create a complete premium Chinese brand investment brochure / PowerPoint material set for a growing specialty restaurant brand, with a dark cinematic Yunnan mountain aesthetic and old-paper luxury texture. The brand name should be {argument name="brand name" default="闲云野鹤"}, positioned as a Yunnan cuisine concept and franchise brochure.
+
+Canvas: A vertical poster showing exactly 10 widescreen presentation slides arranged as a portfolio preview: 1 large cover slide at the top, 8 smaller slides in a 2-column grid in the middle, and 1 large closing slide at the bottom. Use generous white margins between slides, like a clean showcase contact sheet. Each slide is 16:9, dark brown/black, with warm sepia highlights.
+
+Visual style: High-end Chinese cultural restaurant brochure design, moody and atmospheric. Use ink-wash mountains, misty forests, ancient village silhouettes, rough stone tables, tea bowls, ceramic covered bowls, herbs, spices, woven baskets, steam, candlelight, subtle gold line art, and aged parchment overlays. Typography should combine large expressive Chinese brush calligraphy for main titles with small refined serif Chinese text for descriptions. Color palette: charcoal black, deep umber, burnt sienna, antique gold, muted jade, warm ivory. Add tiny red seal stamps, thin gold dividers, vertical side captions, page numbers, and minimalist iconography. Make the whole set look like a mature investor招商手册 deck, elegant, rustic, and premium.
+
+Slide count and visible content: Include exactly 10 slides.
+
+1. Cover slide: Large brush-calligraphy title “闲云野鹤”; subtitle “云南菜馆招商手册”; small English line “YUNNAN CUISINE INVESTMENT BROCHURE”; supporting slogan “山野入席，风土成章”; year “2026”; small brand emblem line art of a crane above the title. Background: misty Yunnan mountains and a dark tabletop with tea bowls and herbs.
+
+2. Brand origin slide: Title “品牌缘起”; subtitle about brand story and mountain flavors. Use a left vertical decorative sidebar and a right-side mountain landscape. Include several small text blocks describing the brand philosophy, origin, and positioning, plus a small red seal.
+
+3. Market opportunity slide: Title “风土资产与市场机会”. Create a structured analysis layout with two main columns: one side showing a Yunnan regional map or mountain contour graphic, the other side showing compact opportunity cards with icons and small data-like Chinese text. Include exactly 6 opportunity cards.
+
+4. Product matrix slide: Title “招牌产品矩阵”. Show exactly 5 vertical product cards with food photography-style illustrations: 1 wild mushroom hotpot, 1 grilled meat or skewers dish, 1 stone-pot chicken/rice dish, 1 assorted Yunnan snacks platter, and 1 colorful rice/noodle bowl. Each card has a small Chinese dish label and a short description.
+
+5. Space memory slide: Title “空间印记”. Feature a warm restaurant interior hero image on the right, with wooden beams, lanterns, woven textures, and dining tables. On the left place explanatory text. Along the bottom include exactly 3 small scene cards labeled as store atmosphere, dining experience, and cultural detail.
+
+6. Store model and profit structure slide: Title “店型模型与盈利结构”. Use exactly 3 main business model cards across the center: light store, standard store, and flagship store. Beneath them place exactly 5 small metric icons for investment, area, staff, turnover, and payback cycle.
+
+7. Headquarters enablement system slide: Title “总部赋能系统”. Create a central hub-and-spoke diagram with the brand crane emblem in the center and exactly 6 connected capability modules around it: site selection, training, supply chain, operations, marketing, and product research. Use gold outlined rounded rectangles and thin connecting lines.
+
+8. Why cooperate slide: Title “为什么值得合作”. Main statement in large Chinese text: “不是追逐短期流量，而是经营可以沉淀的地方风味品牌。” Include exactly 5 reason columns with small icons and short Chinese labels: brand potential, differentiated cuisine, stable supply chain, operation support, and cultural premium.
+
+9. Cooperation process slide: Title “合作流程”. Display exactly 6 numbered steps in a horizontal timeline: initial consultation, qualification review, store site evaluation, contract signing, preparation and training, opening support. Use simple line icons above each number and a warm mountain background.
+
+10. Closing slide: Large brush-calligraphy title “与山野同行”; subtitle “把云南的风，做成城市里可持续生长的生意”; small English line “JOIN THE JOURNEY”. Include exactly 3 value icons near the bottom: 城市合伙, 品牌联营, 区域洽谈. Background repeats the misty mountain and tea bowl scene, with a flying crane silhouette in the upper right and brand emblem above the title.
+
+Text and language: All visible slide text should be in simplified Chinese, with a few small English decorative subtitles such as “BRAND DECK”, “JOIN THE JOURNEY”, and “YUNNAN CUISINE INVESTMENT BROCHURE”. Keep text compact and realistic for a brochure preview; it does not need to be fully readable at small size, but main titles must be clear.
+
+Constraints: Do not create a modern bright corporate style. Avoid cartoon characters, neon colors, generic Western restaurant imagery, and excessive clutter. Maintain consistent branding, page numbering, sidebars, red seal accents, and the same cinematic dark Yunnan visual system across all 10 slides.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082492528650223804) | 2026-07-29
+
+---
+
+### 🏷️ 例 5344：AI 耳机渲染对比项目
+
+![AI 耳机渲染对比项目](../images/AI%20%E8%80%B3%E6%9C%BA%E6%B8%B2%E6%9F%93%E5%AF%B9%E6%AF%94%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的 4 格对比图像，展示由 4 种不同 AI 图像模型渲染的同一款白色无线耳机产品，类似于电商产品拍摄基准测试。
+
+画布：宽屏 16:9 横向画布，纯白色背景，由细浅灰色水平和垂直分割线精确划分为 4 个等大的象限。
+
+布局：使用 2x2 网格，每个象限中心放置一个产品渲染图，并在每个象限底部附近居中放置一个粗体黑色模型标签。保持充足的留白，并在每个产品下方添加柔和的摄影棚阴影。
+
+面板：包含精确的 4 个面板：
+1. 左上：一个打开的亮面白色长方形耳机充电盒，略微倾斜，内部放置 2 只短柄耳机；半透明盖子抬起；具有柔和的反射和细腻的材质光影。标签：{argument name="top left label" default="gemini-3-pro-image-preview(Nanobanana Pro)"}
+2. 右上：一个圆润的椭圆形亮面白色充电盒，正面朝向，盖子打开，内部立着 2 只长柄耳机；盒身正面有一个细微的绿色指示灯点。标签：{argument name="top right label" default="doubao-seedream-5-0-pro"}
+3. 左下：一个正面朝向的亮面白色圆角长方形充电盒，盖子打开，2 只 AirPods-Pro 风格的耳机向上突出，带有硅胶耳塞和黑色小声学通气孔；产品结构清晰，居中且锐利。标签：{argument name="bottom left label" default="gpt-image-2"}
+4. 右下：一个正面朝向的亮面白色圆润充电盒，盖子打开，内部可见 2 只圆润的耳机，形似小圆顶，盒身正面有一个白色小指示灯点，底部边缘附近有一个微小的黑色充电口。标签：{argument name="bottom right label" default="gemini-3.1-flash-image-preview (Nanobanana 2)"}
+
+视觉风格：极简高端电商产品摄影，高调照明，亮面白色塑料，细腻的灰色反射，柔和阴影，边缘清晰，逼真的产品渲染，简洁的对比项目构图。
+
+文字风格：标签为小写/技术模型名称，采用粗体黑色无衬线字体，在每个面板内水平居中，无额外文字。
+
+约束：展示精确的 4 张产品拍摄图和 4 个标签。不要添加徽标、水印、人物、手部、包装、装饰性道具、彩色背景或额外说明。
+
+[English]
+Goal: Create a clean comparison grid showing the same e-commerce product rendered by four AI image models: a glossy white true wireless earbud charging case with the lid open, on a white studio background.
+
+Canvas: Wide 16:9 image, divided into exactly 4 equal quadrants by thin light-gray vertical and horizontal divider lines. Minimal white background, soft shadows under each product, high-key product photography look.
+
+Layout: Arrange exactly 4 product renders in a 2 × 2 grid, each centered in its quadrant with a bold black model label beneath it. Keep generous whitespace and align all labels near the lower part of each quadrant.
+
+Quadrants and labels:
+1. Top-left: white rounded rectangular charging case open at a three-quarter angle, two earbuds resting inside, semi-transparent lid, soft reflections. Label: “{argument name="top left label" default="gemini-3-pro-image-preview(Nanobanana Pro)"}”.
+2. Top-right: rounded pill-shaped white charging case open, two AirPods-style stem earbuds inside, subtle green indicator dot on the front. Label: “{argument name="top right label" default="doubao-seedream-5-0-pro"}”.
+3. Bottom-left: front-facing glossy white charging case with open lid, two stem earbuds standing upright, small black oval speaker vents on the buds, tiny dot indicator on the case front. Label: “{argument name="bottom left label" default="gpt-image-2"}”.
+4. Bottom-right: front-facing glossy white charging case with open translucent lid, two rounded earbuds sitting low inside without long stems, small white indicator dot and tiny black charging port on the front. Label: “{argument name="bottom right label" default="gemini-3.1-flash-image-preview (Nanobanana 2)"}”.
+
+Visual style: premium e-commerce main image, realistic white plastic and silicone materials, polished surfaces, subtle gray reflections, soft studio lighting, crisp product structure, shallow contact shadows, no decorative props.
+
+Constraints: Use exactly 4 quadrants and exactly 4 labels; do not add logos, watermarks, extra text, hands, packaging, or colored backgrounds. Keep all products white and centered, with the bottom-left render corresponding to {argument name="highlighted model" default="gpt-image-2"}.
+```
+
+**来源：** [@ToAPIs](https://x.com/toapis01/status/2082376988430671924) | 2026-07-29
+
+---
+
+### 🏷️ 例 5352：极简主义城市阴影肖像
+
+![极简主义城市阴影肖像](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%9F%8E%E5%B8%82%E9%98%B4%E5%BD%B1%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张电影级超写实 4K 肖像，画面中心是一位 {argument name="subject" default="自信的年轻人"}，正站在 {argument name="environment" default="现代极简主义城市环境"} 中，时间处于黄金时刻。他穿着 {argument name="outfit" default="高档合身黑色 T 恤、略显宽松的深色牛仔裤（非超大码）、干净的白色运动鞋"}，佩戴着一款经典的棕色皮带银壳腕表，并搭配了精致的配饰。他姿态沉稳有力，目光坚定地直视前方。在他身后，他巨大的阴影投射在混凝土墙上——但这个阴影是他更深邃、更威严的化身，以一种掌控全局的姿态站立，象征着雄心与内在力量。柔和的体积光营造出戏剧性的长影，电影级的轮廓光勾勒出他的身形。环境包含流畅的混凝土建筑、玻璃面板和微妙的大气薄雾。超精细纹理、逼真的皮肤、写实的织物褶皱、HDR 光效、浅景深、自然色彩分级、焦点清晰、高端时尚摄影、IMAX 构图、8K 级真实感、虚幻引擎品质、杰作、照片级真实感、戏剧性且极简的美学。
+
+[English]
+A cinematic ultra-realistic 4K portrait of a confident young man standing in the center of a {argument name="environment" default="modern minimalist urban environment"} during golden hour. He wears a {argument name="outfit" default="premium fitted black t-shirt, slightly relaxed dark baggy jeans (not oversized), clean white sneakers"}, a {argument name="accessories" default="classic brown leather-strap wristwatch with a silver case"}, and subtle accessories. His posture is calm and powerful, looking straight ahead with determination. Behind him, a massive shadow of himself stretches across a concrete wall—but the shadow is a darker, more imposing version of him, standing taller with a commanding stance, symbolizing ambition and inner strength. Soft volumetric sunlight creates dramatic long shadows, while cinematic rim lighting highlights his silhouette. The environment features sleek concrete architecture, glass panels, and subtle atmospheric haze. Hyper-detailed textures, lifelike skin, realistic fabric folds, HDR lighting, shallow depth of field, natural color grading, sharp focus, premium editorial fashion photography, IMAX composition, 8K-quality realism, Unreal Engine quality, masterpiece, photorealistic, dramatic yet minimal aesthetic.
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2082339157297496229) | 2026-07-29
+
+---
+
+### 🏷️ 例 5365：Storybook Times Square 照片转换
+
+![Storybook Times Square 照片转换](../images/Storybook%20Times%20Square%20%E7%85%A7%E7%89%87%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+仅使用提供的参考图像作为来源，将照片转换为生动的手绘故事书插画，同时保留精确的构图、主体特征、姿势、服装、面部比例、发型和时代广场背景。保持中心女性的位置不变，并准确保留衬衫上的文字为 {argument name="shirt text" default="I ♥ NY"}。
+
+风格：将场景转换为充满奇趣的水粉/丙烯童书画作，具有明显的笔触质感、柔和的面部细节、温暖的红润脸颊、简化的形状、饱和的色彩、俏皮的轮廓线以及欢快的夜间城市光影。使光影效果呈现出明亮、多彩且梦幻的感觉，而非写实摄影感。
+
+背景转换：将时代广场的广告牌和街道细节重绘为手写风格的插画标志，保持密集的城市峡谷构图，但用俏皮的虚构标志替换写实广告。必须包含以下醒目且可读的标志文字：1) “THE GREAT GATSBY”，2) “BROADWAY”，3) “SAMSUNG”，4) “CocaCola”，5) “TIMES SQUARE”，6) “LITTLE HOPP”，7) “hey hey hey”，8) “LIVE LOVE DREAM”，9) “I ♥ SOCCER”，10) “wear channel outdoor”，11) “LET YOUR LIGHT SHINE”，以及 12) “FUN”。添加简化的插画风格行人、黄色出租车、街头摊位、路障以及与原始布局相符的彩色路面反射。
+
+添加装饰元素：在场景中叠加俏皮的白色涂鸦和小图形标记，包括星星、爱心、波浪线、花朵形状、圆点和动态线条，特别是在画面下角和广告牌附近。
+
+约束条件：不要使用其他参考图像，不要改变女性的姿势或服装，不要更改整体拍摄角度或取景，保持所有原始主要物体在其大致位置，避免写实主义，并使最终图像看起来像一张迷人的手绘旅行故事书海报。
+
+[English]
+Using the provided reference image as the only source, transform the photo into a vibrant hand-painted storybook illustration while preserving the exact composition, subject identity, pose, outfit, facial proportions, hairstyle, and Times Square setting. Keep the central woman in the same position and preserve the shirt graphic text exactly as {argument name="shirt text" default="I ♥ NY"}.
+
+Style: Convert the scene into a whimsical gouache/acrylic children’s book painting with visible brush texture, softened facial details, warm rosy cheeks, simplified shapes, saturated colors, playful outlines, and a cheerful nighttime city glow. Make the lighting feel bright, colorful, and magical rather than photographic.
+
+Background transformation: Repaint the Times Square billboards and street details as hand-lettered illustrated signs, keeping the dense city-canyon composition but replacing realistic ads with playful fictional signage. Include exactly these prominent readable sign texts: 1) “THE GREAT GATSBY”, 2) “BROADWAY”, 3) “SAMSUNG”, 4) “CocaCola”, 5) “TIMES SQUARE”, 6) “LITTLE HOPP”, 7) “hey hey hey”, 8) “LIVE LOVE DREAM”, 9) “I ♥ SOCCER”, 10) “wear channel outdoor”, 11) “LET YOUR LIGHT SHINE”, and 12) “FUN”. Add simplified illustrated pedestrians, yellow taxis, street carts, barricades, and colorful pavement reflections matching the original layout.
+
+Added decorative elements: Overlay playful white doodles and small graphic marks across the scene, including stars, hearts, squiggles, flower shapes, dots, and motion lines, especially near the lower corners and on the billboards.
+
+Constraints: Use no other reference images, do not change the woman’s pose or outfit, do not alter the overall camera angle or framing, keep all original major objects in their approximate positions, avoid photorealism, and make the final image look like a charming painted travel-storybook poster.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2082286076979564844) | 2026-07-29
+
+---
+

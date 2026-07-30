@@ -10169,3 +10169,47 @@ Create a realistic full-body street fashion photo of {argument name="character d
 
 ---
 
+### 🎨 例 5299：宇宙星空雨伞奇幻场景
+
+![宇宙星空雨伞奇幻场景](../images/%E5%AE%87%E5%AE%99%E6%98%9F%E7%A9%BA%E9%9B%A8%E4%BC%9E%E5%A5%87%E5%B9%BB%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个令人惊叹的电影级奇幻场景，背景设定在日落后细雨绵绵的迷人 {argument name="setting" default="欧洲街道"}。一位 {argument name="subject" default="美丽的年轻女子"} 身穿优雅的长外套和飘逸的连衣裙，缓缓撑开一把经典的 {argument name="object" default="黑色雨伞"}。伞内并非普通的布料，而是展现出一个完整的鲜活宇宙，充满了壮丽的螺旋星系、发光的星云、多彩的行星、遥远的卫星、彗星、星座以及在头顶无限延伸的璀璨繁星。
+
+当她静静地抬头仰望时，细小的星星像精致的雨滴一样从伞中落下，发出柔和的光芒，随后消失在湿漉漉的鹅卵石街道上。每一滴雨水都倒映着微型星系，而水洼则映射出头顶的整个宇宙。柔和的金色路灯与从宇宙雨伞中散发出的冷蓝色、紫色、青色和洋红色光芒完美融合，在现实与太空之间创造出一种奇妙的和谐。
+
+在她周围，历史悠久的欧洲建筑、鲜花盛开的阳台、复古咖啡馆和发光的窗户营造出一种永恒的氛围。几只好奇的鸟儿在伞内的宇宙天空中飞翔，轻柔的薄雾在街道上飘荡。雨势保持着轻柔优雅，闪烁的雨滴悬浮在空中。湿润的地面上布满了丰富的倒影，增强了梦幻般的灯光效果。
+
+构图应给人以宁静、感性、不可思议却又完全真实的感觉。超写实、电影级杰作、不可能的现实主义、体积光、耶稣光、大气透视、超精细纹理、HDR、8K、虚幻引擎画质、获奖奇幻摄影、魔幻现实主义、《国家地理》与奇幻电影的结合、戏剧性的色彩对比、无文字、无 Logo、无水印、垂直 4:5 构图。
+
+[English]
+Create a breathtaking cinematic fantasy scene on a charming {argument name="setting" default="European street"} just after sunset during a gentle rain. A {argument name="subject" default="beautiful young woman"} wearing an elegant long coat and flowing dress slowly opens a classic {argument name="object" default="black umbrella"}. Instead of ordinary fabric, the inside of the umbrella reveals an entire living universe filled with magnificent spiral galaxies, glowing nebulae, colorful planets, distant moons, comets, constellations, and brilliant stars stretching infinitely overhead.
+
+As she gazes upward in quiet wonder, tiny stars begin falling from the umbrella like delicate raindrops, glowing softly before disappearing into the wet cobblestone street. Every raindrop reflects miniature galaxies, while the puddles mirror the entire universe above. Soft golden street lamps blend beautifully with the cool blue, violet, turquoise, and magenta light radiating from the cosmic umbrella, creating a magical harmony between reality and space.
+
+Around her, historic European architecture, flower-filled balconies, vintage cafés, and glowing windows create a timeless atmosphere. A few curious birds fly through the cosmic sky inside the umbrella while gentle mist drifts across the street. The rain remains soft and elegant, with sparkling droplets suspended in the air. Rich reflections cover the wet pavement, enhancing the dreamlike lighting.
+
+The composition should feel peaceful, emotional, and impossible yet completely believable. Hyper-realistic, cinematic masterpiece, impossible realism, volumetric lighting, god rays, atmospheric perspective, ultra-detailed textures, HDR, 8K, Unreal Engine quality, award-winning fantasy photography, magical realism, National Geographic meets fantasy cinema, dramatic color contrast, no text, no logos, no watermark, vertical 4:5 composition.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2082616168062603269) | 2026-07-29
+
+---
+
+### 🎨 例 5373：神秘的银发女巫
+
+![神秘的银发女巫](../images/%E7%A5%9E%E7%A7%98%E7%9A%84%E9%93%B6%E5%8F%91%E5%A5%B3%E5%B7%AB.jpg)
+
+**Prompt:**
+
+```text
+神秘の{argument name="職業" default="魔女"}、{argument name="髪の色" default="銀髪"}、{argument name="目の色" default="紫目"}、浮遊杖、闇の光が照らす微笑み。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2082258555416060344) | 2026-07-29
+
+---
+
