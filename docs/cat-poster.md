@@ -24221,3 +24221,465 @@ Maintain accurate [VEHICLE] proportions, crisp technical illustration, layered f
 
 ---
 
+### 🎴 例 5374：日式动漫风大黄芝士蛋糕食谱海报
+
+![日式动漫风大黄芝士蛋糕食谱海报](../images/%E6%97%A5%E5%BC%8F%E5%8A%A8%E6%BC%AB%E9%A3%8E%E5%A4%A7%E9%BB%84%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95%E9%A3%9F%E8%B0%B1%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="dessert name" default="ルバーブのチーズケーキ"} 创作一张竖版日式食谱海报，将精致的动漫烹饪插画与美食杂志风格的信息图布局相结合。
+
+画布：9:16 竖版海报，温暖的电影感厨房光影，深棕色与金色调，高细节半写实动漫渲染。使用乡村风格的欧洲厨房背景，包含砖墙、铜锅、悬挂的厨具、左上方射入的窗光、蒸汽、木质台面以及优雅的细金边装饰框。
+
+主体布局：左上方为醒目的日文大标题「ルバーブの チーズケーキ」，下方配有优雅的英文草书副标题“Rhubarb Cheesecake”，再下方为白色衬线小字书写的简短日文标语。右上角展示 {argument name="character name" default="Mei-chan"}，一位可爱的年轻动漫女仆厨师，留着栗棕色短波波头，绿色眼睛，佩戴白色荷叶边女仆发带，身穿棕色女仆装、白色围裙，系着绿色丝带胸针，面带温柔友好的微笑。她站在炉灶旁，用木勺搅拌着铜锅里鲜红的大黄果酱；锅中升起阵阵蒸汽。
+
+中心前景：海报中心是一块巨大的成品芝士蛋糕，盛放在带有金边的白色盘子上。蛋糕清晰可见 3 层结构：酥脆的棕色饼干底、厚实顺滑的浅色奶油芝士层，以及带有大黄果肉颗粒、色泽红润光亮的红大黄果冻顶层。在中心点缀一小枝绿色香草。蛋糕需呈现出写实且令人垂涎的质感，果冻表面带有光泽高光。
+
+左侧食谱区：添加一张带有金边的华丽羊皮纸风格配料卡。包含“饼干底”和“大黄果冻”两个配料部分，主要以日文书写，并标注少量计量单位。包含醒目的日文标题「材料」及紧凑的食谱式排版。附近添加一个带有装饰边框的深色半透明注释框，描述将大黄熬制成光亮果酱的过程。
+
+额外文字标注：在蛋糕左侧添加一个深色半透明的竖向标注框，包含关于芝士蛋糕浓郁顺滑口感与大黄酸甜风味的日文品鉴笔记。保持优雅易读，字号较小。
+
+底部教程条：底部横向排列 6 个带编号的步骤卡片，每张卡片包含一个小矩形过程图/插画，下方配有日文说明。六个步骤分别为：1) 将大黄切丁并与糖放入锅中，2) 熬制红大黄果酱，3) 搅拌浅色奶油芝士混合物，4) 将馅料倒入饼干底，5) 将芝士蛋糕放入圆形模具中定型，6) 在顶部淋上红亮的大黄果冻。每张卡片均有金边、黑色背景、左上角的白色数字标签以及简短的日文解释文字。
+
+页脚：在步骤卡片下方添加“厨师小贴士”区域，包含金色英文草书标题、日文贴士文字，左侧放置 1 个比出剪刀手的女仆角色 Q 版头像，右侧放置 1 束带叶的新鲜大黄。
+
+文字风格：标题使用高对比度的白色日文衬线字体，英文装饰使用金色草书，配合细线条装饰分隔符，呈现复古食谱风格。保留主标题文字为 {argument name="headline text" default="ルバーブのチーズケーキ"}，英文副标题为 {argument name="subtitle text" default="Rhubarb Cheesecake"}。
+
+限制条件：请勿添加任何 Logo、水印、二维码或社交媒体账号。所有文字需融入设计之中。严格保持底部 6 个步骤、1 张配料卡、1 个竖向蛋糕标注框、1 个 Q 版头像、1 束大黄以及 3 层蛋糕结构。整体画面需呈现为一张优雅的 {argument name="featured ingredient" default="rhubarb"} 动漫食谱海报。
+
+[English]
+Goal: Create a vertical Japanese recipe poster for {argument name="dessert name" default="ルバーブのチーズケーキ"}, combining a polished anime cooking illustration with a food-magazine infographic layout.
+
+Canvas: Tall 9:16 poster, warm cinematic kitchen lighting, dark brown and gold palette, high-detail semi-realistic anime rendering. Use a rustic European kitchen background with brick walls, copper pots, hanging cookware, window light from the upper left, steam, wooden counter, and elegant thin gold ornamental borders.
+
+Main layout: Top left has the large Japanese headline 「ルバーブの チーズケーキ」, beneath it an elegant cursive English subtitle “Rhubarb Cheesecake,” then a short Japanese tagline in small white serif text. Top right shows {argument name="character name" default="Mei-chan"}, a cute young anime maid chef with short chestnut-brown bob hair, green eyes, a white frilled maid headband, brown maid dress, white apron, green ribbon brooch, and soft friendly smile. She stands at a stove stirring a copper pot of bright red rhubarb jam with a wooden spoon; steam rises from the pot.
+
+Center foreground: A large finished cheesecake dominates the poster on a white plate with gold rim. It has exactly 3 visible layers: a crumbly brown biscuit crust, a thick smooth pale cream cheese layer, and a glossy ruby-red rhubarb gelée topping with visible diced rhubarb pieces. Add a small green herb sprig garnish at the center. Make the cake look photorealistic and appetizing, with shiny highlights on the gelée.
+
+Left recipe area: Add one ornate parchment ingredient card with gold frame. It contains exactly 2 ingredient sections: “Crust” and “Rhubarb gelée,” written mostly in Japanese with small measurements. Include the visible Japanese heading 「材料」 and compact recipe-style typography. Nearby, add one small dark translucent note box with a decorative border describing simmering the rhubarb into a glossy jam.
+
+Additional text callouts: Add exactly 1 vertical dark translucent callout box along the left side of the cake with Japanese tasting notes about the rich smooth cheesecake and sweet-tart rhubarb. Keep it elegant and readable but small.
+
+Bottom tutorial strip: Add exactly 6 numbered step cards across the bottom, each with a small rectangular process photo/illustration and Japanese instructions below. The six steps must be: 1) diced rhubarb and sugar in a pot, 2) red rhubarb jam simmering, 3) whisking a pale cream cheese mixture, 4) pouring filling over the crust, 5) set cheesecake in a round pan, 6) spooning glossy red rhubarb gelée on top. Each card has a gold border, black background, a white number label in the top-left corner, and tiny Japanese explanatory text.
+
+Footer: Below the step cards, add a “Chef’s Tip” area with gold cursive English title, Japanese tip text, exactly 1 chibi portrait of the maid character making a peace sign on the left, and exactly 1 bunch of fresh rhubarb stalks with green leaves on the right.
+
+Text style: Use high-contrast white Japanese serif lettering for headings, gold cursive for English accents, thin decorative dividers, vintage cookbook styling. Preserve the main headline text as {argument name="headline text" default="ルバーブのチーズケーキ"} and the English subtitle as {argument name="subtitle text" default="Rhubarb Cheesecake"}.
+
+Constraints: Do not add logos, watermarks, QR codes, or social media handles. Keep all text integrated into the design. Maintain exactly 6 bottom steps, exactly 1 ingredient card, exactly 1 vertical cake callout, exactly 1 chibi portrait, exactly 1 rhubarb bunch, and exactly 3 cake layers. Make the overall image feel like an elegant anime recipe poster for {argument name="featured ingredient" default="rhubarb"}.
+```
+
+**来源：** [@トクツー](https://x.com/TK2Works/status/2082963468425314687) | 2026-07-30
+
+---
+
+### 🎴 例 5376：电影感咖啡广告拼贴画
+
+![电影感咖啡广告拼贴画](../images/%E7%94%B5%E5%BD%B1%E6%84%9F%E5%92%96%E5%95%A1%E5%B9%BF%E5%91%8A%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实电影感商业广告海报，展示了 {argument name="subject" default="同一位自信的年轻人"} 出现在四个受高端咖啡品牌启发的拼贴海报中，并以 {argument name="grid layout" default="整洁的 2×2 网格拼贴"} 排列。每个面板都有其独特的配色方案、{argument name="typography style" default="超大粗体排版"} 以及从咖啡杯中浮现的奇幻世界，同时保持了统一的奢华广告美学。
+
+左上角 – 绿色自然主题：男子自信地将印有品牌的咖啡杯伸向镜头，运用了戏剧性的强制透视手法。杯中生长出一片郁郁葱葱的微缩森林，有高耸的松树、岩石峭壁、层叠的瀑布、薄雾、漂浮的叶片和梦幻般的阳光。深翡翠绿色背景，主体后方配有超大粗体排版。奢华生态高端咖啡广告风格。
+
+右上角 – 都市城市主题：男子向观众展示红色的咖啡杯，杯中浮现出未来派的都市天际线。道路转化为流动的咖啡溪流，伴有电影感的车流、发光的摩天大楼、戏剧性的云层、体积烟雾、黄金时刻的灯光和温暖的琥珀色调。背景为大胆的超大排版，带有高端编辑品牌风格。
+
+左下角 – 舒适冬季主题：男子展示的咖啡杯中呈现出一间温暖的木屋，有发光的壁炉、白雪覆盖的松林、温暖的室内灯光、柔和的降雪、漂浮的蒸汽和舒适的电影氛围。大地色系的米色和棕色调，带有怀旧的高端咖啡品牌感和优雅的排版。
+
+右下角 – 能量爆发主题：男子在咖啡杯旁动态跳跃，杯中喷涌出色彩缤纷的咖啡溅射、甜甜圈、糖针、行星、旋转的液体、发光的粒子、霓虹能量轨迹和充满活力的橙粉色渐变。大胆的超大排版填满背景，营造出充满活力、动感十足且令人兴奋的年轻化广告风格。
+
+同一名男子出现在每个面板中，留着短而有质感的黑发，修剪整齐的胡须，温暖的棕色眼睛，自信友好的微笑，穿着与每个主题相匹配的服装。每个咖啡杯都靠近镜头，以产生戏剧性的强制透视效果，使杯子看起来超大。
+
+设计风格：高端全球广告宣传、杂志封面质量、奢华品牌、照片级真实感奇幻合成、电影叙事、超现实微缩世界、超精细纹理、HDR、体积光、大气雾、逼真的反射、景深、清晰对焦、充满活力的色彩分级、专业产品摄影、Adobe Photoshop 合成、Octane Render、Unreal Engine、8K 超高清、获奖商业海报、简洁现代布局、大胆排版、高端编辑质感。
+
+[English]
+Ultra-realistic cinematic commercial advertising poster featuring the {argument name="subject" default="same confident young man"} appearing across four premium coffee brand-inspired posters arranged in a {argument name="grid layout" default="clean 2×2 grid collage"}. Each panel has its own unique color palette, {argument name="typography style" default="oversized bold typography"}, and fantasy world emerging from a coffee cup while maintaining a cohesive luxury advertising aesthetic.
+
+Top Left – Green Nature Theme: The man confidently extends a branded coffee cup toward the camera using dramatic forced perspective. From the cup grows a lush miniature forest with towering pine trees, rocky cliffs, cascading waterfalls, mist, floating leaves, and magical sunlight. Deep emerald-green background with oversized bold typography behind the subject. Luxury eco-premium coffee campaign style.
+
+Top Right – Urban City Theme: The man holds a red coffee cup toward the viewer while a futuristic metropolitan skyline emerges from the cup. Roads transform into flowing coffee streams with cinematic traffic, glowing skyscrapers, dramatic clouds, volumetric smoke, golden-hour lighting, and warm amber tones. Bold oversized typography in the background with premium editorial branding.
+
+Bottom Left – Cozy Winter Theme: The man presents a coffee cup that opens into a warm wooden cabin with glowing fireplaces, snow-covered pine forests, warm interior lighting, soft snowfall, floating steam, and cozy cinematic atmosphere. Earthy beige and brown color palette with nostalgic premium coffee branding and elegant typography.
+
+Bottom Right – Energy Explosion Theme: The man dynamically leaps beside a coffee cup bursting with colorful coffee splashes, donuts, sprinkles, planets, swirling liquid, glowing particles, neon energy trails, and vibrant orange-pink gradients. Bold oversized typography fills the background, creating a youthful, energetic campaign with playful motion and excitement.
+
+The same man appears in every panel with short textured black hair, neatly trimmed beard and mustache, warm brown eyes, friendly confident smile, wearing outfits matching each theme. Each coffee cup is held close to the lens for a dramatic forced-perspective effect, making the cup appear oversized.
+
+Design style: premium global advertising campaign, magazine cover quality, luxury branding, photorealistic fantasy compositing, cinematic storytelling, surreal miniature worlds, hyper-detailed textures, HDR, volumetric lighting, atmospheric fog, realistic reflections, depth of field, sharp focus, vibrant color grading, professional product photography, Adobe Photoshop compositing, Octane Render, Unreal Engine, 8K ultra-HD, award-winning commercial poster, clean modern layout, bold typography, premium editorial finish.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2082907368858489187) | 2026-07-30
+
+---
+
+### 🎴 例 5380：日式新艺术风格艺伎肖像海报
+
+![日式新艺术风格艺伎肖像海报](../images/%E6%97%A5%E5%BC%8F%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E8%89%BA%E4%BC%8E%E8%82%96%E5%83%8F%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一幅华丽的竖版 {argument name="poster theme" default="日式风格"} 肖像海报，画中是一位优雅的女性，身着装饰繁复的 {argument name="color palette" default="青色、绯红与金色"} 花卉和服，正面端坐，双手轻轻交叠。她乌黑亮丽的秀发梳成传统发髻，饰有 {argument name="headpiece flowers" default="牡丹、菊花装饰"}、金色簪子、垂坠珍珠及红珠。背景包含：富士山、带有放射状光芒的红色旭日、寺庙屋顶、樱花、装饰性折扇以及风格化的海浪。浓郁的新艺术风格金色花丝边框，复古浮世绘印刷质感，奢华的极繁主义构图，对称式框架，暖象牙色纸张，深青色、朱红色、珊瑚粉、古金色，精致的日式书法面板，优雅之美，繁复的织物刺绣，柔和细腻的肤质，电影级编辑写实风格与传统木版画海报设计的融合
+
+[English]
+A lavish vertical {argument name="poster theme" default="Japanese-inspired"} portrait poster of an elegant woman in an ornate {argument name="color palette" default="teal, crimson, and gold"} floral kimono, seated front-facing with hands gently crossed. Her glossy black hair is styled in a traditional updo crowned with {argument name="headpiece flowers" default="peonies, chrysanthemum ornaments"}, gold kanzashi, dangling pearls, and red beads. Behind her: Mount Fuji, a red rising sun with radiating rays, temple rooftops, cherry blossoms, decorative folding fans, and a stylized ocean wave. Dense Art Nouveau-like gold filigree border, vintage ukiyo-e print texture, luxurious maximalist composition, symmetrical framing, warm ivory paper, deep teal, vermilion, coral pink, antique gold, delicate Japanese calligraphy panels, refined beauty, intricate textile embroidery, soft luminous skin, cinematic editorial realism fused with traditional woodblock poster design
+```
+
+**来源：** [@LANDCÄSTER](https://x.com/LANDCASTER_92/status/2082819396272115745) | 2026-07-30
+
+---
+
+### 🎴 例 5382：Human Fragments 字体海报系统
+
+![Human Fragments 字体海报系统](../images/Human%20Fragments%20%E5%AD%97%E4%BD%93%E6%B5%B7%E6%8A%A5%E7%B3%BB%E7%BB%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的 HUMAN FRAGMENTS 视觉系统编辑类海报。主题：{argument name="theme" default="城市活力"} 主体：{argument name="subject" default="一位充满活力的运动员"} 动作：{argument name="action" default="强有力的跳跃"} 场景：[场景描述] 标题：[标题] 副标题：[副标题] 年份：2026 年。使用超大且经过裁剪的字体作为主要结构框架。字母应充当窗口，展示周围环境，同时主体在字体前方保持视觉完整。不要让字母切割面部、躯干、手臂、大腿或身体的任何重要部位。相反，让一个关键的动作元素延伸出字体之外，以创造强烈的深度和视觉冲击力。选择以下构图之一：1. WAVE CUT — 一位冲浪者在升起的浪尖上滑行，冲浪板板头、引导手、水花和卷曲的浪花延伸出字体之外。2. RIM RISE — 一位篮球运动员从篮筐上方的视角向篮筐伸手，篮球、手和篮筐完全延伸出字母遮罩之外，同时保持自然的对齐。3. IMPACT FRAME — 一位拳击手向镜头挥出直拳，放大的前景拳套突破字体限制，而健身房环境在字母内部可见。4. SOFT SWIRL — 一位优雅的年轻女性正在装饰蛋糕，裱花袋、手、蛋糕和流动的奶油细节延伸出字体之外，而烘焙店内部出现在字母形状中。使用写实摄影、逼真的解剖结构、自然的皮肤纹理、强烈的近景透视、细腻的纸张纹理、温暖的灰白色背景、克制的色彩分级以及简洁的编辑排版。保持字体极简并自由放置：[标题] HUMAN FRAGMENTS [副标题] 2026 年
+
+[English]
+Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system. Theme: {argument name="theme" default="Urban Energy"} Subject: {argument name="subject" default="a dynamic athlete"} Action: {argument name="action" default="a powerful jump"} Scene: [Scene Description] Title: [Title] Supporting Line: [Supporting Line] Year: 2026 Use oversized, cropped typography as the primary structural framework. The letters should function as windows that reveal the surrounding environment, while the main subject remains visually complete in front of the typography. Do not allow the letters to cut through the face, torso, arms, thighs, or any other important parts of the body. Instead, let one key action element extend beyond the typography to create strong depth and visual impact. Choose one of the following compositions: 1. WAVE CUT — A surfer carving across a rising wave, with the surfboard nose, leading hand, water spray, and curling wave extending beyond the typography. 2. RIM RISE — A basketball player reaching toward the hoop from a camera positioned above the rim, with the basketball, hand, and hoop fully extending beyond the letter masks while remaining naturally aligned. 3. IMPACT FRAME — A boxer throwing a straight punch toward the camera, with the enlarged foreground glove breaking beyond the typography while the gym environment remains visible inside the letters. 4. SOFT SWIRL — A graceful young woman decorating a cake, with the piping bag, hands, cake, and flowing cream details extending beyond the typography while the bakery interior appears inside the letterforms. Use realistic photography, believable anatomy, natural skin texture, strong foreground perspective, subtle paper grain, a warm off-white background, restrained colour grading, and clean editorial spacing. Keep the typography minimal and freely positioned: [Title] HUMAN FRAGMENTS [Supporting Line] 2026
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2082811291266343353) | 2026-07-30
+
+---
+
+### 🎴 例 5387：未来感品牌升级发布会海报
+
+![未来感品牌升级发布会海报](../images/%E6%9C%AA%E6%9D%A5%E6%84%9F%E5%93%81%E7%89%8C%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E4%BC%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为科技品牌升级活动创作一张具有未来感的竖版会议海报，以巨大的光泽 3D 字体和抽象的数字波浪景观为核心。
+
+画布：9:16 竖版海报，深海军蓝至黑色背景，高对比度，高端科技会议美学。顶部和底部留出充足的黑色空间，主标题位于海报中上部。
+
+视觉风格：简洁的科幻活动设计，发光的电光蓝和紫罗兰色点缀，金属白/银色字体，柔和的泛光效果，细腻的镜头光晕，逼真的 3D 斜面字体，干净的商务科技氛围。背景应呈现出由发光的点阵波浪网格和流动的霓虹线条组成的广阔数据海洋，并在中心地平线处最亮。
+
+顶部品牌标识：在顶部中心放置一个小型抽象 X 形标志，后接品牌文本 {argument name="brand name" default="X·SYS"}。在其下方添加小号大写副标题文本：“SYSTEM UPGRADE”。
+
+主标题字体：创建两行堆叠的巨大自定义 3D 展示文本，内容为 {argument name="main title" default="HELLO WORLD"}。字母应为圆润、块状、未来感风格，呈现光泽的白银色，带有斜面、阴影和嵌入式科技细节。添加 7 处清晰可见的装饰性字母细节：H 内部的一个点阵垂直面板，H 内部的一个小型矩形横杆块，E/L 区域底部的一个点阵面板，E 内部的一个青色线条面板，HELLO 中 O 内部的一个同心霓虹青色圆环，WORLD 中 O 内部的一个紫色霓虹圆环，以及 R 内部的一个条纹对角线插件。仅在不造成视觉杂乱的前提下，添加额外的细微凹槽和小型点阵穿孔。
+
+中部及底部文本内容：在数字波浪地平线下方，居中放置排版干净、字间距宽阔的无衬线字体活动信息。使用中文标题文本 {argument name="Chinese event headline" default="品牌升级发布会"}，下方配以较小的英文副标题：“BRAND UPGRADE CONFERENCE”。下方显示“= 年度启动 =”，两侧带有小型青色和紫色等号装饰。在其下方添加一个微小的发光指南针/星形图标。随后显示日期和时间 {argument name="date and time" default="2025.05.20  14:00"}。日期行下方显示“中国·深圳 | SHENZHEN, CHINA”。在底部附近，添加一个小型细线条螺旋系统图标，以及以微小间距大写字母呈现的标语 {argument name="bottom slogan" default="NEW SYSTEM  NEW FUTURE"}。
+
+构图：所有文本需严格沿垂直轴居中。巨大的“HELLO WORLD”标题应占据海报高度的一半左右。数字波浪应从标题后方及下方穿过，形成一个带有蓝色和紫色粒子轨迹的发光水平山谷。画面中不包含人物、实体场地照片、额外标志或水印。
+
+[English]
+Goal: Create a futuristic vertical conference poster for a technology brand upgrade event, centered on huge glossy 3D typography and an abstract digital wave landscape.
+
+Canvas: 9:16 vertical poster, dark navy-to-black background, high contrast, premium tech conference aesthetic. Leave generous black space at the very top and bottom, with the main title occupying the upper-middle of the poster.
+
+Visual style: Sleek sci-fi event design, luminous electric blue and violet accents, metallic white/silver lettering, soft bloom, subtle lens glow, realistic 3D beveled typography, clean corporate technology mood. The background should feel like a vast data ocean made of glowing dotted wave grids and flowing neon lines, brightest at the center horizon.
+
+Top branding: At the top center, place a small abstract X-shaped logo, followed by the brand text {argument name="brand name" default="X·SYS"}. Under it, add tiny uppercase subtitle text: “SYSTEM UPGRADE”.
+
+Main typography: Create two stacked lines of enormous custom 3D display text reading {argument name="main title" default="HELLO WORLD"}. The letters should be rounded, blocky, futuristic, glossy white-silver, with bevels, shadows, and embedded tech details. Add exactly 7 visible decorative letter details: 1 dotted vertical panel inside the H, 1 small rectangular crossbar block in the H, 1 dotted panel at the bottom of the E/L area, 1 cyan line panel inside the E, 1 concentric neon cyan ring inside the O in HELLO, 1 purple neon ring inside the O in WORLD, and 1 striped diagonal insert inside the R. Add additional subtle grooves and small dotted perforations only if they do not clutter the title.
+
+Middle and lower text content: Beneath the digital wave horizon, center the event information in clean widely spaced sans-serif type. Use Chinese headline text {argument name="Chinese event headline" default="品牌升级发布会"} with a smaller English subtitle below: “BRAND UPGRADE CONFERENCE”. Below that, show “= 年度启动 =” with small cyan and purple equal-sign accents on both sides. Add a tiny glowing compass/star icon beneath it. Then display the date and time {argument name="date and time" default="2025.05.20  14:00"}. Under the date line, display “中国·深圳 | SHENZHEN, CHINA”. Near the bottom, add a small thin spiral-system icon and the slogan {argument name="bottom slogan" default="NEW SYSTEM  NEW FUTURE"} in tiny spaced uppercase letters.
+
+Composition: Keep all text perfectly centered on a vertical axis. The large “HELLO WORLD” title should dominate about half of the poster height. The digital wave should pass behind and below the title, forming a luminous horizontal valley with blue and violet particle trails. Use no people, no physical venue photo, no extra logos, no watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082784431115280690) | 2026-07-30
+
+---
+
+### 🎴 例 5397：爆炸效果商业海报
+
+![爆炸效果商业海报](../images/%E7%88%86%E7%82%B8%E6%95%88%E6%9E%9C%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+* 压缩中心破裂，锐利外壳断裂。所有爆发集中在产品中段：外壳先出现清晰、厚薄可见的断裂面，再从裂口向外张开，中心才会有“压力瞬间释放”的力量。 * 定向碎片层级，由大到小的放射状扩散。大块巧克力、花生和内馅先围绕爆点做放射状主碎片；外围再接中碎屑和粉尘，不能所有物体等大小、均匀散开。 * 弹性焦糖桥，稀疏的碎屑和发光粉尘。焦糖用拉丝把断裂面和飞出的碎片重新连接，少量可见的小颗粒延续运动方向；既有爆发力，又不会显得凌乱。 为 Baby Ruth 制作一张顶级商业海报，将“奶云轨道”方向推向极致，同时进一步扩大深色负空间，强化红金对比度，并放大中心爆发的张力。图像必须以一根垂直立于画面正中心的 Baby Ruth 巧克力棒作为绝对主角，完全可见、正面朝前且品牌标识清晰。巧克力棒的中部必须以超写实的爆炸方式炸开，展示出具有极致触感丰富度的烤花生、浓郁焦糖、牛轧糖和破碎的巧克力涂层。最终作品必须显得大胆、令人垂涎、如珠宝般精致、具有电影感且达到收藏级，具备更强的中心压力、更丰富的奢华色彩对比以及更具戏剧性的暗场呈现。仅使用英文品牌元素，活动文字极简，使图像以视觉效果为主导。核心构图：使用高垂直构图，将一根 Baby Ruth 巧克力棒精确放置在中心轴线上，保持直立且完全清晰可见。将爆炸紧密集中在中段，使所有视觉能量从中心向外辐射。进一步扩大周围的黑色空白区域，让核心产品和爆发区域占据更小、更集中的中心地带。构图必须感觉像是一个珍贵的物体在奢华的黑暗中引爆，中心承受着最大的压力。核心产品逻辑：Baby Ruth 巧克力棒必须能被立即且明确地识别为核心产品。保留可辨识的包装纸可见度和品牌层级，同时通过中心破裂以极致写实的方式展示其标志性内馅：厚实的焦糖丝、浓密的烤花生、丰富的牛轧糖核心以及锐利断裂的巧克力外壳。产品必须显得沉重、有质感、诱人且物理真实，仿佛是内部压力将其炸开。奶云轨道增强：进一步强化所有触感品质。焦糖必须感觉更厚、更亮、更有弹性且更有物理重量感。花生必须感觉更像烘烤过的、更自然、略带油感且更有立体感。巧克力外壳必须展现更锐利的断裂边缘、更厚的涂层厚度以及更光滑的高级饰面。牛轧糖必须感觉更致密、更诱人。细小的碎屑、可可粉和微粒必须显得更奢华、精准且悬浮在真实空间中。每个表面都应感觉触手可及且达到收藏级。中心爆发张力：这至关重要。强化中心爆发，使其感觉更紧凑、更剧烈且视觉压缩感更强。巧克力外壳必须伴随力量向外裂开，焦糖必须在分裂的表面之间像拉紧的张力一样伸展，花生必须带着可信的定向能量从核心喷出。海报的中心必须感觉像是破裂瞬间最富戏剧性的千分之一秒，冻结在高级活动图像中。深色负空间：大幅扩大周围的深色区域。外框应陷入丰富、奢华的黑暗中，使视线被迫直接投向中心的爆炸。空白空间必须显得是有意为之、具有电影感且昂贵，使核心产品看起来更像是黑暗舞台上闪亮的珠宝。不要在画面中堆砌额外的道具或大段文字。红金色彩冲击：大幅强化红金色的活动氛围。保持原汁原味的 Baby Ruth 包装辨识度，但让周围的光影、阴影氛围和爆炸场转向更强烈的深红、深樱桃红、古铜金和深可可色调。深红色阴影与金色焦糖高光之间的对比必须比以前更丰富、更炽热、更奢华，同时保持高级感和克制。排版与品牌：仅使用英文排版，配以极短的标题，如“BREAK THE CRAVE”或“GOLDEN IMPACT”。保持文字极简、含蓄，并处于产品的次要地位。包装纸上的 Baby Ruth 标志仍是主要的可读品牌元素。布局必须感觉像是精美的全球糖果广告，而非零售促销海报。背景：使用由深红褐色、黑樱桃色、深可可色和温暖阴影渐变构成的简洁抽象奢华背景。背景必须保持舞台感且整洁，仅在需要时添加柔和的大气深度和细微的色调变化。一切都必须支撑中心的产品及其爆发。光影：使用极其细腻且高影响力的商业照明。用温暖的受控主光塑造包装纸、焦糖光泽、巧克力裂痕、花生表面和悬浮微粒的高级感高光过渡。在爆炸区域周围添加微妙的金调分离光，将碎片从深红背景中勾勒出来。光影必须感觉具有电影感、丰富且昂贵。材质真实感：将真实感推向极致。包装纸必须感觉有触感且物理真实。巧克力外壳必须显示出可信的厚度、平滑的涂层和锐利的断裂边缘。焦糖必须感觉粘稠、沉重、有弹性和光泽。花生必须显示出烘烤的表面纹理、自然的随机性和细微的油光。牛轧糖必须感觉致密而丰富。灰尘和碎屑必须感觉物理上是悬浮的且有重量感。氛围：爆炸般的纵享、红金奢华张力、顶级糖果剧场、珠宝般的中心冲击、电影感的渴望、收藏级零食广告。渲染风格：顶级糖果广告海报，奶云轨道增强，居中垂直 Baby Ruth 巧克力棒，强化的中部爆发展示，扩大的深色负空间，更强的红金对比，飘浮的花生与焦糖喷发，破碎的巧克力外壳，极简活动文字，电影级商业照明，世界级产品真实感，8k。负向提示词：卡通爆炸，虚假焦糖，品牌识别度弱，模糊的包装，杂乱的构图，廉价超市传单风格，明亮繁忙的背景，低细节花生，塑料感的巧克力，文字过多，裁剪的产品，扭曲的徽标，低分辨率纹理，混乱的碎片，中心冲击力弱，负空间不足。
+
+[English]
+* compressed center rupture, sharp shell fractures 所有爆发集中在产品中段：外壳先出现清晰、厚薄可见的断裂面，再从裂口向外张开，中心才会有“压力瞬间释放”的力量。 * directional fragment hierarchy, large-to-small radial spread 大块巧克力、花生和内馅先围绕爆点做放射状主碎片；外围再接中碎屑和粉尘，不能所有物体等大小、均匀散开。 * elastic caramel bridges, sparse crumbs and glow dust 焦糖用拉丝把断裂面和飞出的碎片重新连接，少量可见的小颗粒延续运动方向；既有爆发力，又不会显得凌乱。 Create an ultra-premium commercial poster for BABY RUTH, pushing the Milk Cloud Orbit direction to the extreme while further enlarging the dark negative space, intensifying the red-and-gold contrast, and amplifying the central explosion tension. The image must feature one full-size Baby Ruth bar standing vertically in the exact center of the frame as the absolute hero, fully visible, front-facing, and brand-readable. The middle of the bar must burst open in a hyper-realistic explosive reveal, exposing roasted peanuts, dense caramel, nougat, and broken chocolate coating with maximum tactile richness. The final artwork must feel bold, craveable, jewel-like, cinematic, and collector-grade, with stronger center pressure, richer luxury color contrast, and a more dramatic dark-stage presentation. Use English-first branding only, with extremely minimal campaign text so the image remains effect-led. Core composition: Use a tall vertical composition with one Baby Ruth bar placed exactly on the center axis, standing upright and fully readable. Concentrate the explosion tightly around the middle section so all visual energy radiates from the center outward. Expand the surrounding dark empty space even further, letting the hero product and burst occupy a smaller, more concentrated central zone. The composition must feel like a precious object detonating inside luxury darkness, with the center under maximum pressure. Hero product logic: The Baby Ruth bar must read instantly and unmistakably as the hero product. Preserve the recognizable wrapper visibility and brand hierarchy, while allowing the center rupture to reveal the signature interior in extreme realism: thick caramel ribbons, dense roasted peanuts, rich nougat core, and sharply fractured chocolate shell. The product must feel heavy, tactile, indulgent, and physically believable, as if internal pressure has burst it open. Milk Cloud Orbit enhancement: Push all tactile qualities harder. The caramel must feel thicker, glossier, more elastic, and more physically weighted. The peanuts must feel more roasted, more natural, slightly oily, and more dimensional. The chocolate shell must show sharper break edges, denser coating thickness, and smoother premium finish. The nougat must feel denser and more indulgent. Fine crumbs, cocoa dust, and micro-particles must feel more luxurious, precise, and suspended in real space. Every surface should feel touchable and collector-grade. Center explosion tension: This is critical. Intensify the central burst so it feels tighter, more violent, and more visually compressed. The chocolate shell must crack outward with force, caramel must stretch between split surfaces like loaded tension, and peanuts must erupt from the core with believable directional energy. The center of the poster must feel like the single most dramatic millisecond of rupture, frozen in a premium campaign image. Dark negative space: Enlarge the dark surrounding area significantly. The outer frame should fall into rich, luxurious darkness so the eye is forced directly toward the center explosion. The empty space must feel intentional, cinematic, and expensive, making the hero product read more like a lit jewel object on a dark stage. Do not clutter the frame with extra props or large text. Red-and-gold color impact: Push the red-gold campaign atmosphere much harder. Keep the authentic Baby Ruth wrapper recognizable, but let the surrounding lighting, shadow atmosphere, and explosion field shift into a more intense burnt crimson, deep cherry red, antique gold, and dark cocoa palette. The contrast between deep red shadow and golden caramel highlights must feel richer, hotter, and more luxurious than before, while still staying premium and controlled. Typography and branding: Use English-first typography with an extremely short headline only, such as “BREAK THE CRAVE” or “GOLDEN IMPACT”. Keep the text minimal, discreet, and secondary to the product. The Baby Ruth logo on the wrapper remains the dominant readable brand element. The layout must feel like a polished global candy campaign, not a retail sale poster. Background: Use a clean abstract luxury background built from deep crimson-brown, black cherry, dark cocoa, and warm shadow gradients. The background must remain stage-like and uncluttered, with only soft atmospheric depth and subtle tonal movement if needed. Everything must support the central bar and its burst. Lighting: Use extremely delicate but high-impact commercial lighting. Let a warm controlled key light shape the wrapper, caramel gloss, chocolate fractures, peanut surfaces, and floating particles with premium highlight rolloff. Add subtle gold-toned separation light around the explosion zone to carve the fragments out from the dark red background. The lighting must feel cinematic, rich, and expensive. Material realism: Push realism to the maximum. The wrapper must feel tactile and physically real. The chocolate shell must show believable thickness, smooth coating, and sharp broken edges. Caramel must feel sticky, heavy, elastic, and glossy. Peanuts must show roasted surface texture, natural irregularity, and subtle oil sheen. Nougat must feel dense and rich. Dust and crumbs must feel physically suspended and weighty. Mood: explosive indulgence, red-gold luxury tension, premium candy drama, jewel-like center impact, cinematic craving, collector-grade snack campaign. Rendering style: ultra-premium candy advertising poster, Milk Cloud Orbit enhancement, centered vertical Baby Ruth bar, intensified middle explosion reveal, enlarged dark negative space, stronger red-and-gold campaign contrast, floating peanuts and caramel burst, broken chocolate shell, minimal campaign text, cinematic commercial lighting, world-class product realism, 8k. Negative prompt: cartoon explosion, fake caramel, weak brand visibility, blurry wrapper, cluttered composition, cheap supermarket flyer style, bright busy background, low-detail peanuts, plastic-looking chocolate, excessive text, cropped product, distorted logo, low-resolution texture, chaotic debris, weak center impact, insufficient negative space
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2082737202635899193) | 2026-07-30
+
+---
+
+### 🎴 例 5398：复古苏联学生宣传海报
+
+![复古苏联学生宣传海报](../images/%E5%A4%8D%E5%8F%A4%E8%8B%8F%E8%81%94%E5%AD%A6%E7%94%9F%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于生产力和自律的复古苏联风格宣传海报，将醒目的构成主义排版与写实的年轻学生肖像相结合。
+
+画布：竖版海报，3:4 长宽比，做旧的棕褐色纸张纹理，带有磨损边缘、褪色的墨迹、颗粒感、划痕和细微污渍。使用砖红色、海军蓝、奶油色、棕褐色和柔和灰色的有限调色板。
+
+布局：左侧三分之二区域由巨大的对角线俄语标题排版占据，从左下向右上倾斜。右半部分展示了一位年轻女性从大腿中部以上的形象，与文字略有重叠。右上角背景填充了一个巨大的红色几何对角线建筑形状。左下角包含一个小型的城市景观小景和一个红色横幅。
+
+文字内容：使用 5 个精确的俄语大标题块，采用粗体压缩块状字体：1) 顶部的红色单词“ПРОСТО”，上方带有一颗小红星和细长的速度线，2) 海军蓝横幅“ЕЩЕ ОДИН ДЕНЬ”，3) 红色横幅“КОГДА ТЫ”，4) 海军蓝文字“НЕ СТАЛА”，5) 大型海军蓝横幅“СОДЕРЖАНКОЙ”。在左下角前景包含 1 个小型红色横幅，内有 4 行堆叠的俄语：“ТРУД”、“ЗНАНИЯ”、“САМОСТОЯТЕЛЬНОСТЬ”、“БУДУЩЕЕ”。主要可自定义标语：{argument name="main Russian slogan" default="ПРОСТО ЕЩЕ ОДИН ДЕНЬ КОГДА ТЫ НЕ СТАЛА СОДЕРЖАНКОЙ"}。
+
+主体细节：一位严肃的年轻女性，二十岁出头，浅肤色，留着长波浪深棕色头发，蓝灰色眼睛，自然妆容，表情冷静而坚定，目光略微向上并看向观众左侧。她穿着一件砖红色翻领衬衫，袖子卷起，塞进高腰深海军蓝裙子里。她双臂抱着 3 本书贴在胸前：1 本深海军蓝封面的书，后面是 1 本米色页面的书，以及 1 本露出边缘的薄棕色书。通过 {argument name="woman appearance" default="young woman with long wavy dark brown hair and blue-gray eyes"} 和 {argument name="outfit colors" default="brick-red blouse and dark navy skirt"} 自定义她的外观。
+
+背景细节：在左下角背景中，绘制一个柔和的苏联时代城市天际线，以 1 座高大的斯大林式摩天大楼为中心地标，周围环绕着较小的建筑、桥梁或堤岸以及多云的天空。前景横幅颜色为 {argument name="banner color" default="faded red"}。整体海报风格为 {argument name="poster style" default="aged Soviet constructivist propaganda poster"}。
+
+视觉风格：写实绘画肖像与丝网印刷海报图形相结合，英雄式构图，强烈的对角线运动感，做旧石版画纹理，色彩略微褪色，排版清晰但带有风化感，无现代 UI 元素，无水印。
+
+[English]
+Goal: Create a vintage Soviet-style propaganda poster about productivity and self-discipline, combining bold constructivist typography with a realistic young student portrait.
+
+Canvas: Vertical poster, 3:4 aspect ratio, aged tan paper texture with worn edges, faded ink, grain, scratches, and subtle stains. Use a limited palette of brick red, navy blue, cream, tan, and muted gray.
+
+Layout: The left two-thirds are dominated by large diagonal Russian headline typography, slanting upward from lower left to upper right. The right half features a young woman from mid-thigh upward, slightly overlapping the text. A large red geometric diagonal architectural shape fills the upper-right background. The lower-left corner contains a small cityscape vignette and a red banner.
+
+Text content: Use exactly 5 large headline blocks in Russian, with bold condensed block lettering: 1) top red word “ПРОСТО” with a small red star above it and thin speed lines, 2) navy banner “ЕЩЕ ОДИН ДЕНЬ”, 3) red banner “КОГДА ТЫ”, 4) navy text “НЕ СТАЛА”, 5) large navy banner “СОДЕРЖАНКОЙ”. Include exactly 1 small red banner in the lower-left foreground with 4 stacked Russian lines: “ТРУД”, “ЗНАНИЯ”, “САМОСТОЯТЕЛЬНОСТЬ”, “БУДУЩЕЕ”. Main customizable slogan: {argument name="main Russian slogan" default="ПРОСТО ЕЩЕ ОДИН ДЕНЬ КОГДА ТЫ НЕ СТАЛА СОДЕРЖАНКОЙ"}.
+
+Subject details: A serious young woman, about early twenties, light skin, long wavy dark brown hair, blue-gray eyes, natural makeup, calm determined expression, looking slightly upward and to the viewer’s left. She wears a brick-red collared blouse with rolled sleeves tucked into a high-waisted dark navy skirt. She holds exactly 3 books against her chest with both arms: 1 dark navy front book, 1 beige-page book behind it, and 1 thin brown book edge visible. Customize her look with {argument name="woman appearance" default="young woman with long wavy dark brown hair and blue-gray eyes"} and {argument name="outfit colors" default="brick-red blouse and dark navy skirt"}.
+
+Background details: In the lower-left background, paint a muted Soviet-era city skyline with exactly 1 tall Stalinist skyscraper as the central landmark, smaller buildings around it, a bridge or embankment, and cloudy sky. The foreground banner color is {argument name="banner color" default="faded red"}. The overall poster style is {argument name="poster style" default="aged Soviet constructivist propaganda poster"}.
+
+Visual style: Realistic painted portrait blended with screen-printed poster graphics, heroic composition, strong diagonal movement, distressed lithograph texture, slightly faded colors, crisp but weathered typography, no modern UI elements, no watermark.
+```
+
+**来源：** [@A1ejandro](https://x.com/a_galaktionov/status/2082733347785089420) | 2026-07-30
+
+---
+
+### 🎴 例 5399：西瓜商业海报设计
+
+![西瓜商业海报设计](../images/%E8%A5%BF%E7%93%9C%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+竖版3:4麒麟西瓜主题商业海报，正视平面设计，{argument name="背景颜色" default="奶油黄色"}满版背景，加入低对比浅橙太阳放射纹与淡绿色瓜籽散点。画面右下放置一颗完整椭圆麒麟西瓜、半切西瓜 and 两块错落瓜瓣，准确表现深绿色纵向条纹、薄绿瓜皮、鲜红细腻瓜瓤、少量自然黑籽与晶莹汁水；左上使用粗壮圆润、拙趣活泼的手绘字体呈现“{argument name="主标题" default="麒麟西瓜"}”，文字为果肉红填色、奶油白内线、墨绿色外描边，一粒瓜籽与局部笔画巧妙互动但不影响识读；副标题“{argument name="副标题" default="红瓤多汁 清甜爽口"}”置于绿色波浪飘带，英文“QILIN WATERMELON”作为弧形小印章。背景增加瓜田垄线、卷曲藤蔓、瓜花、小水滴和半调圆点，前景用放大叶片框住画面边缘。高饱和Q版矢量插画、复古丝网印刷颗粒、清晰平涂层次，保留印刷裁切安全区，禁止黑色背景。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2082732425478565928) | 2026-07-30
+
+---
+
+### 🎴 例 5412：豪华行政酒廊酒店海报
+
+![豪华行政酒廊酒店海报](../images/%E8%B1%AA%E5%8D%8E%E8%A1%8C%E6%94%BF%E9%85%92%E5%BB%8A%E9%85%92%E5%BA%97%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="hotel name" default="PEACOCK HORIZON HOTEL"} 创建一张豪华竖版酒店海报，宣传其行政酒廊礼遇套餐，采用精致的青色与金色五星级酒店美学风格。
+
+画布：高竖版海报，2:3 纵横比，全出血设计。使用深翡翠青色、深青色、黑色大理石、暖香槟金点缀以及清晰的白色字体。在左右边缘附近添加细微的垂直辅助线，以呈现优雅的排版布局。
+
+背景图像：黄昏/夜晚的全景高层行政酒廊，落地窗俯瞰现代城市天际线和河流。右半部分设有一个弧形豪华吧台，配有深色大理石台面、吧台下暖色灯光、圆形悬挂式玻璃杯架、货架上的酒瓶，以及 4 把清晰可见的青色吧台椅，配有纤细的金色椅腿。地面为光泽感黑色大理石，强烈反射着吧台灯光、吧台椅、窗户和天际线。左侧保持较暗且简洁以衬托文字，城市景观位于中下部背景。
+
+布局与文字内容：左上角使用纤细无衬线字体的小号英文大写文字：第一行“EXECUTIVE LOUNGE PRIVILEGES”，第二行“ELEVATE EVERY MOMENT”。下方放置醒目的白色粗体中文主标题：第一行“行政酒廊礼遇”，第二行“尊享非凡时刻”。标题下方添加一条短横向香槟金线条，随后是较小的金色中文标语：“静谧空间 · 精致礼遇 · 专属时光”。在海报中心叠加巨大的单词“PRIVILEGE”，采用间距极宽的白色大写字母；将字母“G”设为香槟金色，且尺寸足够大，使其与吧台区域重叠。在左下角区域，添加另一条金色短横线，随后是白色英文“EXECUTIVE LOUNGE”、中文“酒店行政酒廊”，以及第二条金色短横线和金色中文文案：“礼遇人生的每一次停留”。下方包含一个小型方形二维码。在左下角附近，添加一个极简风格的酒店字母组合 Logo（类似垂直白色线条柱），随后是白色大写酒店名称“{argument name="hotel name" default="PEACOCK HORIZON HOTEL"}”和中文酒店名称“孔雀翎酒店”。在最左下角，包含 2 行带有白色小图标的联系信息：电话图标后接“{argument name="phone number" default="+86 21 8888 8888"}”，位置定位图标后接“{argument name="address" default="中国上海市静安区南京西路1688号"}”。
+
+字体：使用精致的现代无衬线字体，中文粗体标题与英文细体说明之间形成高对比度。除中心大字外，所有文字均保持左对齐。保持宽裕的间距和高端酒店宣传册的风格。
+
+约束条件：使其看起来像精致的豪华酒店广告，而非随意的旅行海报。严格保留 4 把吧台椅、1 个二维码、1 个 Logo 标识、2 行联系信息、3 条金色分割线，以及中心单词“PRIVILEGE”（仅 G 为金色）。避免出现人物、杂乱元素、卡通元素或明亮的日间光照。
+
+[English]
+Goal: Create a luxurious vertical hotel poster advertising an executive lounge privilege experience for {argument name="hotel name" default="Peacock Horizon Hotel"}.
+
+Canvas: Tall vertical poster, 9:16 aspect ratio, cinematic premium hospitality advertising style. Use a dark teal, deep emerald, black marble, white, and warm champagne-gold color palette. Add subtle thin vertical border lines near the left and right edges, faint film-grain speckles, and refined editorial spacing.
+
+Main image: A high-end executive hotel lounge at dusk or night, viewed from inside a skyscraper with floor-to-ceiling glass windows overlooking a modern city skyline and river. The right side contains a curved luxury bar with dark marble, warm underlighting, a rounded ceiling feature, shelves of bottles, hanging wine glasses, and exactly 5 visible bar stools along the counter. The left and center background shows lounge seating silhouettes and the city view reflected on a glossy black floor. The atmosphere should feel quiet, exclusive, and upscale.
+
+Layout: Place the main headline text block in the upper-left quadrant, aligned left. Overlay a huge spaced-out English word across the middle reading “PRIVILEGE”, with the letters in white except the letter “G” in warm gold; the word should span almost the full width and partially cover the bar and window scene. Add small gold accent divider lines under key text blocks. Bottom-left contains the executive lounge label, QR code, hotel logo, hotel name, phone number, and address.
+
+Text content: Top small English copy: “EXECUTIVE LOUNGE PRIVILEGES” and beneath it “ELEVATE EVERY MOMENT”. Main Chinese headline: “行政酒廊礼遇” on the first line and “尊享非凡时刻” on the second line. Subheadline in gold: “静谧空间 · 精致礼遇 · 专属时光”. Large center overlay: “PRIVILEGE”. Lower-left section: “EXECUTIVE LOUNGE”, then “酒店行政酒廊”, then gold line text: “礼遇人生的每一次停留”. Include one small square QR code. Hotel brand area: a minimalist monogram logo resembling two mirrored vertical H shapes, then “PEACOCK HORIZON HOTEL” and Chinese text “孔雀翎酒店”. Contact line: “+86 21 8888 8888”. Address line: “中国上海市静安区南京西路1688号”.
+
+Constraints: Keep all text crisp and legible, use elegant sans-serif typography, make the Chinese headline bold and large, avoid people, avoid clutter, maintain a premium five-star hotel aesthetic, and do not add extra promotional badges or unrelated icons.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082674896426156538) | 2026-07-30
+
+---
+
+### 🎴 例 5415：Human Fragments 编辑海报排版
+
+![Human Fragments 编辑海报排版](../images/Human%20Fragments%20%E7%BC%96%E8%BE%91%E6%B5%B7%E6%8A%A5%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个 9:16 的 HUMAN FRAGMENTS 视觉系统编辑海报。
+
+主题：{argument name="theme" default="[主题]"}
+主体：{argument name="subject description" default="[主体描述]"}
+动作：{argument name="action description" default="[动作描述]"}
+场景：[场景描述]
+标题：[标题]
+辅助文案：[辅助文案]
+年份：2026 年
+
+使用超大且经过裁剪的字体作为主要的结构框架。字母应起到“窗口”的作用，展现周围的环境，同时主体在字体前方保持视觉上的完整性。
+
+不要让字母切割到面部、躯干、手臂、大腿或身体的任何其他重要部位。相反，让一个关键的动作元素延伸出字体之外，以营造强烈的深度感和视觉冲击力。
+
+选择以下构图之一：
+
+1. WAVE CUT（浪尖切割）—— 一名冲浪者在升起的波浪上滑行，冲浪板板头、引导手、水花和卷曲的浪花延伸至字体之外。
+
+2. RIM RISE（篮筐升起）—— 一名篮球运动员从篮筐上方的机位向篮筐伸手，篮球、手和篮筐完全延伸出字母遮罩，同时保持自然的对齐。
+
+3. IMPACT FRAME（冲击框架）—— 一名拳击手向镜头挥出直拳，放大的前景拳套突破字体边界，而健身房环境在字母内部清晰可见。
+
+4. SOFT SWIRL（柔和旋涡）—— 一名优雅的年轻女性正在装饰蛋糕，裱花袋、手、蛋糕和流动的奶油细节延伸出字体之外，而烘焙坊的内部环境出现在字母形状内。
+
+使用写实摄影、符合解剖学的造型、自然的皮肤纹理、强烈的近景透视、细腻的纸张颗粒感、温暖的灰白色背景、克制的色彩分级以及简洁的编辑排版间距。
+
+保持字体极简并自由排布：
+
+[标题]
+HUMAN FRAGMENTS
+[辅助文案]
+2026 年
+
+[English]
+Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system.
+
+Theme: {argument name="theme" default="[Theme]"}
+Subject: {argument name="subject description" default="[Subject Description]"}
+Action: {argument name="action description" default="[Action Description]"}
+Scene: [Scene Description]
+Title: [Title]
+Supporting Line: [Supporting Line]
+Year: 2026
+
+Use oversized, cropped typography as the primary structural framework. The letters should function as windows that reveal the surrounding environment, while the main subject remains visually complete in front of the typography.
+
+Do not allow the letters to cut through the face, torso, arms, thighs, or any other important parts of the body. Instead, let one key action element extend beyond the typography to create strong depth and visual impact.
+
+Choose one of the following compositions:
+
+1. WAVE CUT — A surfer carving across a rising wave, with the surfboard nose, leading hand, water spray, and curling wave extending beyond the typography.
+
+2. RIM RISE — A basketball player reaching toward the hoop from a camera positioned above the rim, with the basketball, hand, and hoop fully extending beyond the letter masks while remaining naturally aligned.
+
+3. IMPACT FRAME — A boxer throwing a straight punch toward the camera, with the enlarged foreground glove breaking beyond the typography while the gym environment remains visible inside the letters.
+
+4. SOFT SWIRL — A graceful young woman decorating a cake, with the piping bag, hands, cake, and flowing cream details extending beyond the typography while the bakery interior appears inside the letterforms.
+
+Use realistic photography, believable anatomy, natural skin texture, strong foreground perspective, subtle paper grain, a warm off-white background, restrained colour grading, and clean editorial spacing.
+
+Keep the typography minimal and freely positioned:
+
+[Title]
+HUMAN FRAGMENTS
+[Supporting Line]
+2026
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2082666687925760258) | 2026-07-30
+
+---
+
+### 🎴 例 5418：韩式身高对比梗图
+
+![韩式身高对比梗图](../images/%E9%9F%A9%E5%BC%8F%E8%BA%AB%E9%AB%98%E5%AF%B9%E6%AF%94%E6%A2%97%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：制作一张竖版韩式“身高对比”梗图/模板海报，展示两个面对面的动漫风格校服角色，并包含可编辑的姓名和身高。
+
+画布：高长肖像海报，暖象牙色纸张背景，带有细腻纹理，细双线复古边框，四角带有装饰性切角。居中构图，柔和的米色/棕色墨水色调，简洁浪漫的校园美学。
+
+文字内容：顶部包含一个小爱心，两侧为短横线装饰，下方为醒目的韩文标题“키 비교”。标题下方放置两个小菱形点。标尺上方写上“(cm)”。底部居中处写上“사랑과 키의 차이♥”。
+
+布局与计数元素：包含 2 个全身角色：左侧为较矮的女生，右侧为较高的男生。包含 1 个中央垂直身高标尺，刻度从 0 到 200 cm，每 10 cm 有数字标签。包含 2 条水平身高参考线：一条位于女生头部，标注为“{argument name="left height" default="160cm"}”；另一条位于男生头部，标注为“{argument name="right height" default="186cm"}”。包含 2 个侧边信息块，每侧各一个，分别包含韩文标签“이름:”和“키:”；左侧块显示“키: {argument name="left height repeated" default="160cm"}”，右侧块显示“키: {argument name="right height repeated" default="186cm"}”。姓名栏留空，或在提供姓名时填充为 {argument name="left name" default=""} 和 {argument name="right name" default=""}。包含 2 个粉色爱心装饰，分别位于每个角色头顶上方。
+
+角色细节：左侧角色为娇小的动漫女高中生，身高约 160 cm，留着长波浪深棕色卷发，有刘海，身穿黑色西装外套、白衬衫、条纹领带、短百褶裙、白色堆堆袜、黑色乐福鞋，背着一个小巧的黑色斜挎书包。她害羞地站着，双手合十放在下巴附近，抬头看着男生。右侧角色为高挑纤瘦的动漫男高中生，身高约 186 cm，黑色乱发，身穿黑色西装外套、白衬衫（下摆微露）、条纹领带、黑色长裤、黑色皮鞋，单手插兜，身体微微前倾，低头看着女生。两人均拥有精致的少女漫风格面孔，带有柔和的腮红感。
+
+视觉风格：精致的韩式/日式网漫插画，柔和的水彩阴影，干净的线条，素雅的黑色校服，奶油色背景，浪漫简约的文具设计。保持所有排版整洁易读，标题采用优雅的韩文书法字体，测量数据采用简单的衬线字体。
+
+限制：不要添加额外的角色、身高标签、爱心、Logo、水印、标题或社交媒体 UI。保持构图居中，并保留海报模板的原始质感。
+
+[English]
+Goal: Create a vertical Korean “height comparison” meme/template poster featuring two anime-style school-uniform characters facing each other, with editable names and heights.
+
+Canvas: Tall portrait poster, warm ivory paper background with subtle texture, thin double-line vintage border with decorative clipped corners. Centered composition, soft beige/brown ink palette, clean romantic school aesthetic.
+
+Text content: At the top, include a small heart between two short horizontal ornament lines, then the large Korean title “키 비교”. Under the title place two small diamond dots. Above the ruler write “(cm)”. At the bottom center write “사랑과 키의 차이♥”.
+
+Layout and counted elements: Include exactly 2 full-body characters: 1 shorter girl on the left and 1 taller boy on the right. Include exactly 1 central vertical height ruler marked from 0 to 200 cm with numeric labels every 10 cm. Include exactly 2 horizontal height guide lines: one at the girl’s head labeled “{argument name="left height" default="160cm"}” and one at the boy’s head labeled “{argument name="right height" default="186cm"}”. Include exactly 2 side information blocks, one on each side, each containing the Korean labels “이름:” and “키:”; the left block shows “키: {argument name="left height repeated" default="160cm"}” and the right block shows “키: {argument name="right height repeated" default="186cm"}”. Leave the name lines blank or fill them with {argument name="left name" default=""} and {argument name="right name" default=""} if names are provided. Include exactly 2 pink heart accessories, one above each character’s head.
+
+Character details: The left character is a petite anime schoolgirl, about 160 cm, long wavy dark brown hair with bangs, black blazer, white shirt, striped tie, short pleated skirt, white scrunched socks, black loafers, and a small black crossbody school bag. She stands shyly with hands clasped near her chin, looking upward at the boy. The right character is a tall slim anime schoolboy, about 186 cm, messy black hair, black blazer, white shirt slightly untucked, striped tie, black trousers, black dress shoes, one hand in pocket, leaning slightly forward while looking down at the girl. Both have delicate shoujo-style faces and soft blush-like warmth.
+
+Visual style: Refined Korean/Japanese webtoon illustration, soft watercolor shading, clean line art, muted black uniforms, cream background, romantic minimal stationery design. Keep all typography neat and legible, with the title in large elegant Korean calligraphy-like lettering and the measurements in a simple serif style.
+
+Constraints: Do not add extra characters, extra height labels, extra hearts, logos, watermarks, captions, or social media UI. Keep the composition centered and preserve the exact poster-template feel.
+```
+
+**来源：** [@CapCut.Korea](https://x.com/CapCutKorea/status/2082663564997955895) | 2026-07-30
+
+---
+
+### 🎴 例 5429：巴黎清晨旅行海报
+
+![巴黎清晨旅行海报](../images/%E5%B7%B4%E9%BB%8E%E6%B8%85%E6%99%A8%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张电影质感的旅行杂志海报，主题为 {argument name="city" default="法国巴黎"} 的黎明，营造出诗意的左岸编辑风格与奢华的内河游轮氛围。
+
+画布：宽幅横向海报，16:9 比例，带有精致的米白色纸张边框、略微磨损的圆角、细腻的胶片颗粒感、柔和的印刷质感，以及淡蓝、淡紫与粉色的色调。
+
+主体场景：一艘写实的复古长型塞纳河游船水平放置在画面中下部，形成稳定的视觉地平线。游船应呈现奶油色与黄铜色调，配有玻璃舱板、栏杆、救生圈，中央小标牌写着“RIVE GAUCHE PARIS”，船体名称为“LUMIERE DE SEINE”。游船以清晰的侧影呈现。在其下方，添加平静水面上的完整镜像倒影：倒影略暗、更柔和、带有垂直波纹，但在结构上清晰可辨，并沿水线与船体直接相连。
+
+背景：梦幻般的巴黎清晨天际线，左侧为埃菲尔铁塔，附近有一座圆顶地标，塞纳河上横跨着拱桥，右侧为远处的河畔建筑，明亮的天空中漂浮着大朵棉花糖般的云彩。运用日出光线、粉色薄雾、蓝色阴影以及平静的反射水面。
+
+排版与布局：在上方中央放置巨大的白色中文字体标题，内容为 {argument name="main headline" default="早安巴黎"}。在标题上方叠加一行纤细优雅的珊瑚粉色连笔手写体，内容为 {argument name="script text" default="Good Morning Paris"}，以长长的书法笔触斜向掠过标题。左上角设有窄版编辑刊头“RIVE GAUCHE NOTES”，下方配有较小的中文副标题。右上角设有日期栏，内容为 {argument name="date" default="2026-07-30"}，并标注“THURSDAY”、“PARIS, FRANCE”、坐标以及一个小号的期数。保持排版精致、杂志感强且留白充裕。
+
+侧边注释：包含 2 个圆形的红色注释图形：1 个位于左上方，围绕着“River Light Notes”；1 个位于中右侧，圈住一段简短的推荐文字。包含 2 个纤细的垂直侧边标签：1 个沿左下边缘，写着“SUR LA SEINE”；另 1 个紧邻其内侧，写着“DOUCEUR DU MATIN”。加入精致的珊瑚色线条、圆点、小太阳图标、云朵图标、箭头以及细腻的编辑标记，但不要使画面过于拥挤。
+
+底部信息栏：添加一条横跨底部的纤细页脚带，包含 8 个独立的编辑项目，每个项目由细垂直线分隔。这 8 个项目为：1) “The city wakes in light.” 2) 关于每座桥梁的双语河畔小注，3) 一个带有翻页注释的小型开卷线条图标，4) 一个带有“Coffee cools, time is kind.”字样的小型咖啡杯线条图标，5) 一个带有波浪纹的圆形“RIVE GAUCHE NOTES”印章，6) “RIVE GAUCHE · MORNING LIGHT · NOTES”，7) “RIVER LIGHT NOTES”，8) “PARIS EST TOUJOURS UNE BONNE IDÉE。”在页脚最右侧添加一个小巧的埃菲尔铁塔图标。
+
+可见文字风格：混合使用英语、法语和中文作为装饰性编辑文字。主要文字应清晰易读，但微小的辅助文案可呈现出类似真实杂志微型字体的印象派风格。英文刊头和日期使用高瘦的压缩衬线字体，标题使用粗犷且具有纪念碑感的中文字体，珊瑚色叠加层使用优雅的手写体。
+
+视觉风格：高细节写实基础，结合平面设计海报叠加层，怀旧巴黎旅行刊物风格，柔和的电影感清晨氛围，柔和的青蓝色水面，淡紫色云彩，玫瑰金高光，白色排版，珊瑚色注释墨迹，船体上方留有优雅的负空间。
+
+约束条件：保持游船作为中下部唯一的横向主体对象。保留上方开阔的天空和下方完整的连接倒影。不要添加人物作为焦点主体。禁止出现现代摩天大楼、暗夜照明、杂乱的拼贴画，以及任何与主船竞争的其他船只。
+
+[English]
+Goal: Create a cinematic travel-magazine poster about {argument name="city" default="Paris, France"} at dawn, with a poetic left-bank editorial feel and a luxury river-cruise mood.
+
+Canvas: Wide horizontal poster, 16:9 ratio, with a subtle off-white paper border, slightly worn rounded edges, fine film grain, soft print texture, and a pastel blue-lavender-pink color grade.
+
+Main scene: A realistic long vintage Seine river boat is placed horizontally across the lower middle of the image, forming a stable visual horizon. The boat should have cream and brass tones, glass cabin panels, railings, lifebuoys, a small central sign reading “RIVE GAUCHE PARIS,” and the hull name “LUMIERE DE SEINE.” The boat is shown in crisp side profile. Below it, add a complete mirror reflection in calm water: slightly darker, softer, vertically rippled, but still structurally recognizable and directly connected to the boat along the waterline.
+
+Background: Dreamy early morning Paris skyline with the Eiffel Tower on the left, a domed landmark near it, arched bridges across the Seine, distant riverside buildings on the right, and a luminous sky filled with large cottony clouds. Use sunrise light, pink haze, blue shadows, and a calm reflective river surface.
+
+Typography and layout: Place a huge white Chinese headline across the upper center reading {argument name="main headline" default="早安巴黎"}. Overlay a thin elegant coral-pink cursive script reading {argument name="script text" default="Good Morning Paris"}, sweeping diagonally across the headline with long calligraphic flourishes. Top left has a narrow editorial masthead “RIVE GAUCHE NOTES,” with a smaller Chinese subtitle beneath it. Top right has a date block reading {argument name="date" default="2026-07-30"}, plus “THURSDAY,” “PARIS, FRANCE,” coordinates, and a small issue number. Keep the typography refined, magazine-like, and airy.
+
+Side annotations: Include exactly 2 circular red annotation graphics: 1 on the upper left around “River Light Notes,” and 1 on the mid-right enclosing small recommendation text. Include exactly 2 slim vertical side labels: 1 along the left lower edge reading “SUR LA SEINE,” and 1 just inside it reading “DOUCEUR DU MATIN.” Include fine coral linework, dots, small sun icons, cloud icons, arrows, and delicate editorial marks, but do not overcrowd the image.
+
+Bottom information strip: Add a thin footer band spanning the width with exactly 8 separated editorial items, each divided by fine vertical rules. The 8 items are: 1) “The city wakes in light.” 2) a small bilingual river note about every bridge, 3) a small open-book line icon with a page-turning note, 4) a small coffee cup line icon with “Coffee cools, time is kind.” 5) a round “RIVE GAUCHE NOTES” seal with wave lines, 6) “RIVE GAUCHE · MORNING LIGHT · NOTES,” 7) “RIVER LIGHT NOTES,” 8) “PARIS EST TOUJOURS UNE BONNE IDÉE.” Add a tiny Eiffel Tower icon at the far right of the footer.
+
+Visible text style: Mix English, French, and Chinese as decorative editorial text. Main text should be legible, but tiny supporting copy may be partially impressionistic like authentic magazine microtype. Use tall condensed serif fonts for the English masthead and date, bold monumental Chinese display type for the headline, and graceful handwritten script for the coral overlay.
+
+Visual style: High-detail photorealistic base with graphic-design poster overlays, nostalgic Paris travel publication, soft cinematic morning atmosphere, muted cyan-blue water, lavender clouds, rose-gold highlights, white typography, coral annotation ink, elegant negative space above the boat.
+
+Constraints: Keep the boat as the single dominant horizontal object in the lower middle. Preserve the wide open sky above and the full connected reflection below. Do not add people as focal subjects. No modern skyscrapers, no dark night lighting, no cluttered collage, no extra boats competing with the main boat.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082624474059616646) | 2026-07-30
+
+---
+

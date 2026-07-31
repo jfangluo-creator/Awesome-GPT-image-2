@@ -7554,3 +7554,63 @@ Constraints: Keep the composition clean and symmetrical, preserve all specified 
 
 ---
 
+### 🧍 例 5396：发光眼镜青蛙表情包
+
+![发光眼镜青蛙表情包](../images/%E5%8F%91%E5%85%89%E7%9C%BC%E9%95%9C%E9%9D%92%E8%9B%99%E8%A1%A8%E6%83%85%E5%8C%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 {argument name="character" default="佩佩蛙"} 的肩部以上特写数字插画，画面主体需占据大部分空间。角色拥有一个巨大的绿色青蛙头，脸颊圆润平滑，面部宽扁，嘴角带着一丝平静的浅笑，嘴唇呈淡粉色。他戴着一副超大号的椭圆形细灰框眼镜；两片镜片呈现出极亮的白色，带有柔和的光晕效果，遮住了双眼，仿佛正反射着强烈的光芒。画面右侧抬起一只绿色的手，食指正触碰或推着眼镜鼻梁，动作显得聪明而自鸣得意。角色穿着一件简单的 {argument name="shirt color" default="亮蓝色"} 衬衫，在底部可见。使用粗细不一的黑色手绘轮廓线，采用简单的扁平卡通配色，面部和手部带有柔和的喷枪绿色阴影，背景为低细节的 {argument name="background color" default="浅灰色"}。构图应采用紧凑的特写，稍微偏离中心，以眼镜的光芒作为最亮的视觉焦点，符合互联网表情包 / 反应图的审美。
+
+[English]
+Create a close-up meme-style digital illustration of {argument name="character" default="Pepe the Frog"} from the shoulders up, filling most of the frame. The character has a large green frog head with smooth rounded cheeks, a wide flat face, and a small calm smirk with pale pink lips. He wears oversized oval glasses with thin gray rims; both lenses are extremely bright white with a soft bloom effect, obscuring the eyes as if glowing with intense reflection. One green hand is raised on the right side of the image, with the index finger touching or pushing up the bridge of the glasses in a clever, smug gesture. The character wears a plain {argument name="shirt color" default="bright blue"} shirt visible at the bottom. Use thick uneven black sketch outlines, simple flat cartoon coloring, soft airbrushed green shading on the face and hand, and a low-detail gray {argument name="background color" default="light gray"} background. Composition should be tightly cropped, slightly off-center, with the glasses glow as the brightest focal point, matching an internet meme / reaction image aesthetic.
+```
+
+**来源：** [@MB](https://x.com/twMoonBoy/status/2082737988862091375) | 2026-07-30
+
+---
+
+### 🧍 例 5424：时尚美妆人像
+
+![时尚美妆人像](../images/%E6%97%B6%E5%B0%9A%E7%BE%8E%E5%A6%86%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的参考图进行超写实 RAW 格式美妆人像创作，以保留主体确切的面部特征、比例及标志性五官。最终图像中的女性必须与参考图高度一致，在保持其辨识度极高的面部特征的同时，呈现出更精致、更具时尚大片感的自然状态。
+
+一位非凡的年轻女性，拥有迷人的 {argument name="eye color" default="柔和的祖母绿双眸"}，虹膜周围带有微妙的金色放射状细节，以及晶莹剔透的自然眼神光。她直视镜头，表情冷静自信，嘴角带着淡淡的优雅微笑，营造出一种亲密且奢华的美妆广告美学。
+
+她如瓷器般白皙的皮肤散发着健康自然的红润光泽，呈现出真实的毛孔、鼻梁和脸颊上细小的雀斑、柔和的桃色底色，以及未经过度磨皮的真实皮肤质感。浓密自然的深色眉毛、根根分明的长睫毛、精致挺拔的鼻梁、柔和立体的颧骨，以及水润的缎面玫瑰色双唇，共同勾勒出她永恒的美感。
+
+她丝滑的 {argument name="hair color" default="乌黑"} 秀发略显湿润，光泽感发丝自然地修饰着脸型。柔和的八字刘海和零散的发丝垂落在额头一侧，营造出随性灵动与电影般的优雅感。湿发上闪烁着细微的高光，增强了真实感。
+
+{argument name="lighting" default="黄金时刻的阳光"} 透过轻薄的窗帘洒下，将温暖、漫射的光线包裹在她的脸上，并在皮肤上投射出细腻的有机阴影图案。光线营造出明亮的高光、丰富的立体对比度，以及双眸中闪烁的倒影，且不会显得过于戏剧化。
+
+背景虚化为奢华的奶油色调，融合了暖象牙白、香槟金和柔和的米色，将视觉焦点完全锁定在她的面部。构图采用略微不对称的设计，呈现出现代时尚大片的质感，双眼位于画面上方三分之一处，带来更强烈的视觉冲击力。
+
+奢华护肤品广告，Vogue Italia 美妆专题，高级时装化妆品广告，静奢美学，老钱风优雅，电影级写实，高级自然美，超细节 DSLR 摄影，85mm 人像镜头，f/1.2 大光圈，超浅景深，焦点精准锁定双眼，HDR 光影，真实的微观皮肤细节，全局光照，电影级高级调色，超写实，8K，获奖级美妆摄影，精致的时尚大片杰作，视觉效果令人难忘，热门奢华美妆广告。
+
+[English]
+Ultra-photorealistic RAW beauty portrait using the uploaded reference image to preserve the subject's exact facial identity, proportions, and defining facial features. The woman in the final image must closely match the reference while appearing naturally more polished and editorial, without altering her recognizable face.
+
+An extraordinary young woman with captivating {argument name="eye color" default="soft emerald-green eyes"} featuring subtle golden sunburst details around the irises and crystal-clear natural catchlights. She looks directly into the camera with a calm, confident expression and a faint, elegant smile, creating an intimate luxury beauty campaign aesthetic.
+
+Her porcelain-fair skin glows with healthy natural radiance, displaying authentic pores, delicate freckles across the bridge of the nose and cheeks, gentle peach undertones, and realistic skin texture without excessive smoothing. Naturally full dark eyebrows, long separated lashes, a refined straight nose, softly sculpted cheekbones, and hydrated satin rose lips complete her timeless beauty.
+
+Her {argument name="hair style" default="silky jet-black hair is slightly damp, with glossy strands framing her face naturally"}. Soft curtain bangs and loose textured wisps fall across one side of her forehead, creating effortless movement and cinematic elegance. Tiny highlights shimmer along the damp hair, enhancing realism.
+
+{argument name="lighting" default="Golden-hour sunlight filters through sheer curtains"}, wrapping her face in warm, diffused light while casting delicate organic shadow patterns across her skin. The lighting creates luminous highlights, rich dimensional contrast, and sparkling reflections inside her eyes without appearing overly dramatic.
+
+The background fades into a luxurious creamy bokeh of warm ivory, champagne, and soft beige tones, keeping complete attention on her face. The composition is slightly asymmetrical for a modern editorial feel, with the eyes positioned near the upper third of the frame for a more striking visual impact.
+
+Luxury skincare campaign, Vogue Italia beauty editorial, high-fashion cosmetic advertisement, quiet luxury aesthetic, old-money elegance, cinematic realism, premium natural beauty, ultra-detailed DSLR photography, 85mm portrait lens, f/1.2 aperture, ultra-shallow depth of field, razor-sharp focus on the eyes, HDR lighting, realistic micro skin detail, global illumination, premium cinematic color grading, hyper-realistic, 8K, award-winning beauty photography, sophisticated editorial masterpiece, visually unforgettable, trending luxury beauty campaign.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2082648912981328244) | 2026-07-30
+
+---
+

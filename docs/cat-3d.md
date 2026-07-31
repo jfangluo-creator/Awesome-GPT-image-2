@@ -6375,3 +6375,129 @@ Create an ultra-realistic 3D Pixar/Disney-inspired vertical food advertisement i
 
 ---
 
+### 🧸 例 5378：光泽感 3D 网站分类图标
+
+![光泽感 3D 网站分类图标](../images/%E5%85%89%E6%B3%BD%E6%84%9F%203D%20%E7%BD%91%E7%AB%99%E5%88%86%E7%B1%BB%E5%9B%BE%E6%A0%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在纯白色背景上创建一套简洁的资产风格图标集，以平衡的网格形式排列，包含 7 个光泽感 3D 粘土图标。采用可爱的圆润玩具风格，带有柔和阴影、高饱和度马卡龙配色、平滑渐变、镜面高光，且不含文字。画布为 1:1 正方形，尺寸约为 768×768，留白充足，每个图标相互独立，适用于网站分类标题。这 7 个图标分别是：1) 一个圆润的房子，带有粉色屋顶、淡蓝色墙壁、紫色底座和门、两个小蓝窗，以及光泽感白色高光；2) 一张日历卡片，带有紫色顶栏、两个粉色活页环、白色页面区域、青色底边，中心有一个黄色闪烁星星；3) 一个放大镜，带有紫色手柄和边框、青蓝色镜片以及明亮的反光；4) 一个金色奖杯，带有侧把手、紫色底座，杯身上有一个粉色星星徽章；5) 交叉的书写工具，一支类似紫色麦克风的笔（带有深色笔尖和黑色笔盖细节），与一支粉色铅笔（带有淡色木质笔尖）交叉；6) 一个金黄色通知铃铛，带有粉色旋钮和铃舌，圆润的高光，从正面略微俯视；7) 一个可爱的小黄鸡脸部图标，带有小黑眼睛、橙色喙、腮红以及头顶的一小撮绒毛。保持所有图标均匀分布在两行：上行 3 个图标，下行 4 个图标。使用 {argument name="icon style" default="光泽感 3D 粘土应用图标"}、{argument name="background color" default="纯白色"}、{argument name="primary palette" default="粉色、紫色、青色、黄色马卡龙色系"}、{argument name="icon count" default="7"} 以及 {argument name="layout" default="两行，上行 3 个图标，下行 4 个图标"}。避免使用轮廓线、标签、UI 框架、水印和多余物体。
+
+[English]
+Create a clean asset-style icon set on a pure white background, arranged in a balanced grid with exactly 7 glossy 3D clay icons. Use a cute rounded toy-like style with soft shadows, high saturation pastel colors, smooth gradients, specular highlights, and no text. Canvas is square 1:1, about 768×768, with generous whitespace and each icon isolated as if for a website category header. The 7 icons are: 1) a rounded house with a pink roof, pale blue walls, purple base and door, two small blue windows, and glossy white highlights; 2) a calendar card with a purple top bar, two pink binder rings, white page area, cyan bottom edge, and a yellow sparkle star in the center; 3) a magnifying glass with a purple handle and rim, cyan blue lens, and bright reflections; 4) a gold trophy with side handles, purple base, and a pink star badge on the cup; 5) crossed writing tools, one purple microphone-like pen with dark tip and black cap details, crossed with a pink pencil with pale wood tip; 6) a golden yellow notification bell with a pink knob and clapper, rounded highlights, viewed slightly from the front; 7) a cute yellow chick face icon with small black eyes, orange beak, blush cheeks, and a tiny tuft on top. Keep all icons evenly spaced in two rows: top row has 3 icons, bottom row has 4 icons. Use {argument name="icon style" default="glossy 3D clay app icons"}, {argument name="background color" default="pure white"}, {argument name="primary palette" default="pink, purple, cyan, yellow pastel colors"}, {argument name="icon count" default="7"}, and {argument name="layout" default="two rows, 3 icons on top and 4 icons on bottom"}. Avoid outlines, labels, UI frames, watermarks, and extra objects.
+```
+
+**来源：** [@Rag](https://x.com/Rag_rindole_/status/2082848665912377363) | 2026-07-30
+
+---
+
+### 🧸 例 5379：极简 3D 黏土插画模板
+
+![极简 3D 黏土插画模板](../images/%E6%9E%81%E7%AE%80%203D%20%E9%BB%8F%E5%9C%9F%E6%8F%92%E7%94%BB%E6%A8%A1%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简 3D 黏土插画。巨大的粗体排版文字“{argument name="text" default="[TEXT]"}”平铺在纯白色背景上——厚实、圆润的挤压字体，采用哑光 {argument name="letter color" default="[LETTER COLOR]"} 橡皮泥材质（所有字母均为单一纯色），边缘圆润且带有斜角，带有细微的指纹纹理，无光泽，下方有淡淡的柔和投影。一个可爱的风格化黏土角色站在字母前方，与字母重叠，全身可见，从头部到运动鞋。字母在角色后方保持完全可读——角色不会坐在、攀爬或融入字母中。角色特征：圆润的手工比例，超大的圆头，大而有光泽的黑色圆点眼睛，小小的微笑嘴巴，柔和的腮红，连指手套式的手。{argument name="character description" default="[CHARACTER DESCRIPTION]"}。注意：角色穿着的颜色不能与字母颜色相同——仅使用对比色，以便角色能从排版中清晰地分离出来。动作：[ACTION DESCRIPTION]。身体与第一个和中间的字母重叠；最后一个字母保持在右侧清晰可见。比例：角色高度约为字母高度的 65%，稍微偏左居中。装饰元素：[NUMBER] 个小的手绘 [ACCENT COLOR] 运动短线跟在角色身后，一个微小的涂鸦 [ACCENT ELEMENT] 在右上角呈弧形——细扁的 2D 标记，非 3D。渲染：来自左上方的柔和漫射摄影棚光，柔和的环境光遮蔽，通体哑光黏土表面，干净的白色无缝背景，略微抬高的平视摄像机角度，垂直 3:4。负面提示：光泽塑料、金属光泽、字母上的渐变、字母被遮挡或破碎、角色站在字母上或内部、多余的文字、道具上的可读文字、拼写错误的单词、品牌或商业标志、逼真的皮肤、强烈的阴影、彩色背景。
+
+[English]
+Minimalist 3D clay illustration. Giant bold typography reading "{argument name="text" default="[TEXT]"}" stands flat against a pure white background — thick chunky extruded letterforms in matte {argument name="letter color" default="[LETTER COLOR]"} plasticine (a single solid saturated color across all letters), soft rounded edges and bevels, subtle fingerprint texture, no gloss, a faint soft drop shadow beneath. A cute stylized clay character stands IN FRONT of the letters, overlapping them, full body visible from head to sneakers. The letters remain fully readable behind — the character never sits on, climbs, or merges into them. CHARACTER: chubby handmade proportions, oversized round head, big glossy black dot eyes, tiny smiling mouth, soft blush cheeks, mitten hands. {argument name="character description" default="[CHARACTER DESCRIPTION]"}. NOTE: the character wears NO colors matching the letters — use contrasting colors only, so the character separates cleanly from the typography. ACTION: [ACTION DESCRIPTION]. Body overlaps the first and middle letters; the final letter stays clear on the right. SCALE: character height about 65% of the letter height, centered slightly left. ACCENTS: [NUMBER] small hand-drawn [ACCENT COLOR] motion dashes trailing behind the character, one tiny doodled [ACCENT ELEMENT] arcing in the upper right — thin flat 2D marks, not 3D. RENDER: soft diffused studio light from upper left, gentle ambient occlusion, matte clay surfaces throughout, clean white seamless backdrop, slightly elevated eye-level camera, vertical 3:4. NEGATIVE: glossy plastic, metallic sheen, gradients on the letters, letters obscured or broken, character standing on or inside the letters, extra text, readable text on props, misspelled words, brand or commercial logos, realistic skin, harsh shadows, colored background.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2082831844350087258) | 2026-07-30
+
+---
+
+### 🧸 例 5391：小狗与机器狗赛博传送门
+
+![小狗与机器狗赛博传送门](../images/%E5%B0%8F%E7%8B%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E7%8B%97%E8%B5%9B%E5%8D%9A%E4%BC%A0%E9%80%81%E9%97%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个现代城市街道的电影级 3D 动画场景，采用 16:9 宽屏构图，低角度拍摄（人行横道视角）。背景中心矗立着一个巨大的圆形赛博传送门，由深色分段金属制成，周围环绕着明亮的霓虹青色、电光蓝、洋红色和粉色光环。在传送门周围及内部添加强烈的 RGB 分离 / 色差效果和数字故障效果：像素碎片、水平扫描线、块状噪点、红青偏移以及散落的发光数据方块。传送门内部呈现出具有深度感和发光网格高光的未来派紫蓝色城市或数字隧道纹理。从传送门中冲出 2 个角色：首先是一个可爱的拟人化小狗吉祥物，正向观众跑来，位置略偏左，拥有棕褐色和奶油色的皮毛、又大又亮的棕色眼睛、耷拉的棕色耳朵、圆润的口鼻部以及自信开朗的笑容；它穿着一件明亮的 {argument name="jacket color" default="yellow"} 运动拉链夹克（带有黑色装饰）和一顶反戴的同色系 {argument name="cap color" default="yellow"} 棒球帽，并配有柔软圆润的卡通爪子。其次，在小狗吉祥物的右侧，有一只陪伴它的机器狗，奶油色的身体配有棕褐色的耳朵和尾巴，四肢紧凑如玩具，圆角方形的黑色数字面部屏幕上显示着简单的浅绿色像素狗表情，包含 2 只圆形眼睛和 1 个小嘴巴/鼻子图标；添加一个小型项圈吊牌。角色采用精致的皮克斯风格 / 高端玩具渲染 3D 质感，背景为写实的城市环境，两侧是高耸的办公楼，配有模糊的行人、交通灯、车道线和日光反射。让传送门的光芒照亮角色和路面，并在它们脚下产生火花和蓝色能量。保持角色清晰、可爱且整洁，同时传送门具有更强烈的故障失真效果。无文字，无水印，无额外角色。
+
+[English]
+Create a cinematic 3D animated scene in a modern city street, wide 16:9 composition, low camera angle at crosswalk level. In the center background is one enormous circular cyber portal standing vertically in the road, made of dark segmented metal and surrounded by bright neon cyan, electric blue, magenta, and pink light rings. Add strong RGB split / chromatic aberration and digital glitch effects only around and inside the portal: pixel fragments, horizontal scanline streaks, blocky noise, broken red-cyan offsets, and scattered glowing data squares. Inside the portal, show a futuristic purple-blue city or digital tunnel texture with depth and luminous grid-like highlights. Emerging from the portal are exactly 2 characters: first, a cute anthropomorphic puppy mascot running toward the viewer, centered slightly left, with tan and cream fur, big glossy brown eyes, floppy brown ears, a small rounded muzzle, and a cheerful confident smile; it wears a bright {argument name="jacket color" default="yellow"} zip-up sporty jacket with black accents and a matching {argument name="cap color" default="yellow"} baseball cap worn backward, plus soft rounded cartoon paws. Second, to the right of the puppy mascot, a small robot dog companion running beside it, cream-colored body with tan ears and tail, compact toy-like limbs, and a rounded square black digital face screen showing a simple pale green pixel dog expression with exactly 2 circular eyes and 1 small mouth/nose icon; add a small collar tag. Use a polished Pixar-like / high-end toy-render 3D style for the characters, realistic urban background with tall office buildings on both sides, blurred pedestrians, traffic lights, lane markings, and daylight reflections. Make the portal glow illuminate the characters and pavement, with sparks and blue energy near their feet. Keep the characters sharp, adorable, and clean while the portal has heavier glitch distortion. No text, no watermark, no extra characters.
+```
+
+**来源：** [@mic](https://x.com/333mic999/status/2082763262157058343) | 2026-07-30
+
+---
+
+### 🧸 例 5401：穿着睡衣的男孩 3D 角色设计图
+
+![穿着睡衣的男孩 3D 角色设计图](../images/%E7%A9%BF%E7%9D%80%E7%9D%A1%E8%A1%A3%E7%9A%84%E7%94%B7%E5%AD%A9%203D%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 4 视角角色参考图，展示了一名 {argument name="age" default="9"} 岁的男孩，留着 {argument name="hair style" default="凌乱的深棕色头发"}，有着圆圆的好奇双眼，穿着 {argument name="pajamas" default="海军蓝恐龙印花睡衣"}，赤着脚，手里拿着一个小红手电筒。3D 动画卡通风格，CGI 动画效果
+
+[English]
+A 4-view character reference sheet of a {argument name="age" default="9"}-year-old boy with {argument name="hair style" default="messy dark brown hair"}, round curious eyes, wearing {argument name="pajamas" default="navy blue dinosaur-print pajamas"}, bare feet, holding a small red flashlight. 3D animated cartoon style, CGI animated
+```
+
+**来源：** [@Shara I Ai Video Creator](https://x.com/itsshara_ai/status/2082715357182398585) | 2026-07-30
+
+---
+
+### 🧸 例 5407：霓虹幻想弓箭手 3D 插画
+
+![霓虹幻想弓箭手 3D 插画](../images/%E9%9C%93%E8%99%B9%E5%B9%BB%E6%83%B3%E5%BC%93%E7%AE%AD%E6%89%8B%203D%20%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的白色背景上创作一张动态的全身 3D 角色插画：一个具有 {argument name="character name" default="Oyagi"} 标志性风格的凶猛幻想弓箭手，以极端的低角度动作姿势呈现，仿佛正向观众跃起并拉弓瞄准。该角色拥有程式化的运动型人形身体，带有夸张的透视缩短效果：左下角前景中有一只巨大的赤脚，后腿向右弯曲，左臂向前伸出握着一把巨大的弯弓，右臂将弓弦拉至脸部附近。采用光泽感粘土风格的 3D 渲染美学，配以柔和的摄影棚灯光、平滑圆润的形态，且无轮廓线。调色板采用鲜艳的彩虹渐变，将 {argument name="main color palette" default="霓虹青、洋红、紫、珊瑚色、蓝绿色、黄色和深蓝色"} 融合在皮肤、头发、服装和武器上。角色表情专注且强烈，拥有黄绿色眼睛、深色眉毛、色彩斑斓的面部标记，以及由 8 根向后和向外飘逸的粗大卷须组成的厚实雕塑感发型。在脸部、手臂、大腿和小腿上添加装饰性的螺旋和条纹身体标记。服装为极简幻想战士装束：包含 5 个可见的服装元素，即缠绕式胸带、分层腰带、悬垂的前腰布、右臀部的圆形螺旋腰带装饰以及简单的脚踝绑带。武器组包含 2 件物品：一把带有圆润关节和左侧锥形箭托的超大弯弓，以及一支从左向右横贯画面的细长箭。使弓弦拉紧，呈对角线穿过构图，并将箭尖置于弓弦之外。保持背景为纯白色，无任何场景。在右下角添加一个小的手写签名和日期，内容为 {argument name="date text" default="2026 年 7 月 30 日"} 和 {argument name="signature text" default="Oyagi"}。高分辨率垂直构图，戏剧性的透视缩短，俏皮的玩具般人体结构，充满活力的幻想弓箭手能量。
+
+[English]
+Create a dynamic full-body 3D stylized fantasy illustration of one athletic humanoid archer, {argument name="character name" default="Oyagi"}, suspended in a dramatic midair lunging pose against a clean white background. The character is aiming one oversized curved bow directly toward the viewer from a low wide-angle perspective, with the left hand gripping the bow close to the camera and the right hand pulling back one thin golden bowstring with one nocked arrow. Use a toy-like smooth clay/rendered sculpture aesthetic with soft rounded anatomy, exaggerated hands and feet, glossy matte surfaces, and vivid rainbow gradient lighting. The character has {argument name="hair style" default="large flowing tentacle-like locks swept backward"}, an intense focused expression, sharp green eyes, purple-blue skin with neon gradients, and painted swirl markings on the face, upper arm, thigh, and lower leg. The color palette should be {argument name="color palette" default="electric cyan, violet, magenta, coral, orange, yellow, and teal gradients"}, smoothly blended over the body, hair, clothing, and weapon. Include exactly 1 character, 1 oversized bow, 1 arrow, 1 taut bowstring, 2 visible hands, 2 visible bare feet, and 4 visible body-paint swirl motifs. The outfit has exactly 6 main visible pieces: a wrapped chest band, a waist sash, a short split skirt flap, a curled circular belt ornament, wrist bands, and ankle bands. The bow should have a thick crescent shape with bulbous joint segments and a cone-like arrowhead or bow tip near the left side, all rendered in the same saturated gradient material. Compose the figure diagonally from lower left to upper right, with the nearest foot large in the foreground, one bent leg receding to the right, the bow forming a tall crescent along the left edge, and the character’s gaze locked on the viewer. Add a small handwritten signature and date in the lower right reading {argument name="signature text" default="July 30, 2026\nOyagi"}. No environment, no extra characters, no text besides the signature, no photorealism; make it polished, clean, colorful, and high-resolution.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2082685879219593393) | 2026-07-30
+
+---
+
+### 🧸 例 5410：粉色小狼诊所吉祥物照片
+
+![粉色小狼诊所吉祥物照片](../images/%E7%B2%89%E8%89%B2%E5%B0%8F%E7%8B%BC%E8%AF%8A%E6%89%80%E5%90%89%E7%A5%A5%E7%89%A9%E7%85%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张写实的竖版街头活动照片，主角是一个全身的可爱风吉祥物角色：一只站在诊所大楼外户外的毛绒粉色狼/狐狸玩偶。吉祥物拥有巨大的头颅、蓬松的粉色皮毛、竖立的大耳朵（内侧为浅奶油色）、奶油白色的脸部和吻部、带有白色高光的亮面超大黑色动漫眼睛、眼睛附近有黑色小爱心标记、额头正中有一个粉色爱心徽章、小巧的粉色鼻子以及张开的微笑嘴巴（露出小舌头）。身体比例要可爱且短小，约为 2.5 个头高，配有厚实的毛绒腿和圆润的脚。吉祥物身穿一件白色医生实验服，带有两个可见的前口袋、白色纽扣，左胸前绣有粉色的日文诊所文字，内容为 {argument name="clinic text" default="おおかみ こころの クリニック"}。吉祥物正抬起左爪向镜头挥手；抬起的爪子上清晰可见 5 个粉色肉垫：4 个小趾垫和 1 个巨大的心形中心垫。另一只爪子垂在身侧，可见深粉色肉垫。将角色置于明亮日光下的柏油马路上，左侧有一个蓝白相间的活动帐篷，身后是一座现代灰色建筑，右侧有一个写有日文医院文字的蓝色竖牌，背景中有几位模糊的行人。采用浅景深效果，呈现自然阳光、真实的织物接缝、毛绒质感、柔和的阴影以及抓拍式的宣传活动照片氛围。前景中没有多余角色，无水印，头部或脚部不得被裁剪。
+
+[English]
+Create a realistic full-body street photo of a cute mascot character in a plush animal kigurumi costume, standing outdoors in daylight in front of a clinic or hospital building. The character is a pink fox or wolf mascot with a large oversized head, short chibi proportions, soft fuzzy fabric, two tall pointed ears with cream inner ears, big glossy black anime eyes with white highlights, cream-colored face patches, a small pink nose, an open smiling mouth with a tiny tongue, black heart marks near both cheeks, and one large raised heart emblem centered on the forehead. The mascot wears a white doctor’s lab coat over the pink plush body; include exactly 4 visible coat features: two front buttons, two lower patch pockets, short sleeves, and a chest pocket label with red Japanese text reading {argument name="clinic label text" default="おおかみ こころの クリニック"}. The mascot has exactly 4 visible paws: the left paw raised in a friendly wave showing four rounded paw pads and one heart-shaped palm pad, the right paw lowered at the side with small dark claws/pads, and two large rounded pink feet with pale soles. Set the scene on an asphalt street with realistic shadows, a blue-and-white striped event tent on the left, gray building walls behind, blurred pedestrians in the background, and a vertical blue hospital sign on the right with Japanese text. Use a candid event-photography look, portrait orientation, 3:4 crop, eye-level camera, sharp focus on the mascot, shallow background blur, natural sunlight, highly detailed plush fibers, cheerful and welcoming mood. Main character customization: {argument name="mascot animal" default="pink wolf mascot"}, {argument name="coat style" default="white doctor’s lab coat"}, {argument name="forehead emblem" default="large pink heart"}, {argument name="setting" default="outside a Japanese clinic during a public event"}. Do not add extra characters in the foreground, do not make it a cartoon drawing, and keep the proportions like a real wearable mascot suit.
+```
+
+**来源：** [@北門](https://x.com/northgate_ai/status/2082681459840790654) | 2026-07-30
+
+---
+
+### 🧸 例 5414：3D 动画角色参考图
+
+![3D 动画角色参考图](../images/3D%20%E5%8A%A8%E7%94%BB%E8%A7%92%E8%89%B2%E5%8F%82%E8%80%83%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张 3D 动画卡通风格的 4 视图角色参考图，主角是一位 {argument name="age" default="20"} 岁的时尚女孩，留着一头波浪长 {argument name="hair color" default="black"} 发，头上推着一副潮流墨镜，身穿 {argument name="top color" default="yellow"} 短款上衣和高腰牛仔裤，手持智能手机。
+
+[English]
+A 4-view character reference sheet of a stylish {argument name="age" default="20"}-year-old girl with {argument name="hair style" default="long wavy black hair"}, trendy sunglasses pushed up on her head, wearing a {argument name="outfit" default="yellow crop top and high-waist jeans"}, holding a smartphone. 3D animated cartoon
+```
+
+**来源：** [@Shara I Ai Video Creator](https://x.com/itsshara_ai/status/2082669711347888400) | 2026-07-30
+
+---
+

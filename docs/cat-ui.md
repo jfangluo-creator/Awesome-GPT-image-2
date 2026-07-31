@@ -10517,3 +10517,111 @@ Create a vertical 9:16 cinematic cyberpunk character poster featuring {argument 
 
 ---
 
+### 🖥️ 例 5377：电影级 McLaren F1 摇摄镜头
+
+![电影级 McLaren F1 摇摄镜头](../images/%E7%94%B5%E5%BD%B1%E7%BA%A7%20McLaren%20F1%20%E6%91%87%E6%91%84%E9%95%9C%E5%A4%B4.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影级的赛车摇摄照片，画面中是一辆 {argument name="race car team" default="McLaren"} 一级方程式赛车正在街道赛道上从左向右疾驰。赛车底盘低矮、线条流畅、采用开放式车轮设计，车身涂装为金属质感的 {argument name="car color" default="木瓜橙与黑色"}，以完美的侧面轮廓展示在画面中下部，侧箱上清晰可见白色的 McLaren 标志。仅使用一辆独立赛车，展示清晰的前翼、外露轮胎、Halo 驾驶舱、尾翼以及模糊的佩戴头盔的车手形象。背景为赛道护栏、看台及城市景观，具有强烈的水平运动模糊效果，上方为深色树木，背景中淡色的建筑与天空呈现条纹状，前景的赛道沥青路面也呈现模糊感。光线应呈现傍晚黄金时刻的质感，温暖的高光在车身上闪烁，赛道上投下深邃的阴影。采用逼真的专业体育摄影风格，使用长焦摇摄镜头，快门拖影，具备戏剧性的速度线条，浅景深，高对比度，自然色彩，16:9 横向构图，画面中无其他车辆，除车身品牌标识外无任何可辨认的标牌，无水印。
+
+[English]
+Create a cinematic motorsport panning photograph of a single {argument name="race car team" default="McLaren"} Formula 1 car speeding left to right on a street circuit. The car is low, sleek, open-wheel, and painted metallic {argument name="car color" default="papaya orange and black"}, shown in perfect side profile near the lower middle of the frame, with the white McLaren logo visible on the sidepod. Use one discrete vehicle only, with visible front wing, exposed tires, halo cockpit, rear wing, and a blurred helmeted driver. The background is a racetrack barrier and grandstand/urban scenery with strong horizontal motion blur, dark trees above, pale buildings and sky streaking behind, and track asphalt blurred in the foreground. Lighting should feel like late afternoon golden hour, with warm highlights glinting on the car and deep shadows across the circuit. Use a realistic professional sports-photography style, long-lens panning shot, fast shutter drag, dramatic speed lines, shallow depth of field, high contrast, natural colors, 16:9 landscape composition, no extra cars, no readable signage except the car branding, no watermark.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2082862409455464715) | 2026-07-30
+
+---
+
+### 🖥️ 例 5385：月球飞机星光咖啡馆
+
+![月球飞机星光咖啡馆](../images/%E6%9C%88%E7%90%83%E9%A3%9E%E6%9C%BA%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张细节丰富的竖版动漫奇幻插画，描绘了一家建在破旧复古螺旋桨飞机内的小型月球咖啡馆，背景是广阔的星空和紫色的银河。场景位于日落时分尘土飞扬的月球表面，地平线散发着微光，右侧有一个遥远的太空舱栖息地。飞机机身被改造成一个温暖的木质咖啡吧台，上面摆满了瓶子、杯子、罐子、糕点、悬挂的灯笼、星形灯、常春藤蔓、薄纱窗帘，机身上清晰可见手绘招牌 {argument name="cafe name" default="Starlight COFFEE"}。画面中需包含 4 个主要角色：1 位身穿白色衬衫的金发女咖啡师站在吧台后冲泡咖啡；1 位身穿白色宇航服的深色头发男宇航员坐在吧台凳上回头看；1 位身穿白色宇航服的金发女宇航员跪在前景中，手持头盔凝视着一颗发光的星星；以及 1 只奶油橘色猫咪咖啡馆经理，用后腿直立站着，自豪地用一只爪子递出一颗发光的金星。画面中需包含 3 个清晰可见的黑板项目：左侧的菜单项目，列出 Starlight Blend、Moonbeam Latte、Meteor Mocha、Cosmic Cocoa 和 Dusty Matcha 等饮品；吧台附近的一个小项目，上面写着咖啡馆备注；以及前景的一个项目，写着 Today's Special 和 Starlight Blend。飞机顶部应有一片巨大的机翼横跨，右侧可见一个径向发动机和螺旋桨，设有一个开放的咖啡馆窗口，温暖的琥珀色灯光与冷色调的月尘及蓝紫色太空形成鲜明对比。采用精致的动漫绘画渲染风格，5k 高清画质，魔幻现实主义，柔和的轮廓光，闪烁的粒子，反光的宇航员头盔，前景点缀花卉和盆栽，无现代城市元素，无额外角色，无水印。
+
+[English]
+Create a richly detailed vertical anime fantasy illustration of a tiny moon café built inside a weathered vintage propeller airplane under a vast star-filled sky and purple Milky Way. The scene is on a dusty lunar-like surface at sunset, with a glowing horizon and a distant space capsule habitat on the right. The airplane fuselage is converted into a warm wooden coffee counter with shelves of bottles, cups, jars, pastries, hanging lanterns, star-shaped lights, ivy vines, gauzy curtains, and the visible painted sign {argument name="cafe name" default="Starlight COFFEE"} on the fuselage. Show exactly 4 main living characters: 1 blonde female barista in a white blouse standing behind the counter serving coffee, 1 dark-haired male astronaut seated on a stool at the counter in a white spacesuit looking back, 1 blonde female astronaut kneeling in the foreground in a white spacesuit holding a helmet and gazing at a glowing star, and 1 cream-orange cat café manager standing upright on hind legs, proudly offering the glowing golden star with one paw. Include exactly 3 visible chalkboard signs: a left menu board listing drinks such as Starlight Blend, Moonbeam Latte, Meteor Mocha, Cosmic Cocoa, and Dusty Matcha; a small board near the counter with café notes; and a foreground board reading Today's Special and Starlight Blend. The aircraft should have one large wing spanning across the top, one visible radial engine and propeller on the right, an open café window, and cozy amber lighting contrasting with cool moon dust and blue-violet space. Use delicate painterly anime rendering, high-detail 5k look, magical realism, soft rim light, sparkling particles, reflective astronaut helmets, flowers and potted plants in the foreground, no modern city elements, no extra characters, no watermark.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2082787455271669829) | 2026-07-30
+
+---
+
+### 🖥️ 例 5393：极简黑白水墨角色插画
+
+![极简黑白水墨角色插画](../images/%E6%9E%81%E7%AE%80%E9%BB%91%E7%99%BD%E6%B0%B4%E5%A2%A8%E8%A7%92%E8%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+极简黑白编辑风格角色插画，主角为 {argument name="character" default="一位年轻的旅行者"}，背景为干净的纯白色，留白充裕。角色占据画面约 30%–40%，呈现 {argument name="pose" default="轻松行走"} 的姿态，身着 {argument name="clothing" default="宽松的休闲街头服饰，廓形夸张"}，并正在使用智能手机。采用风格化比例，头部略大，面部特征简化，小圆点眼睛，眉毛生动，鼻子小巧，带着淡淡的友好微笑。穿着厚底运动鞋，搭配简约配饰，肢体语言放松。使用干净、自信的黑色墨水线条绘制，线条粗细变化丰富，轮廓圆润，带有柔和的素描感瑕疵和生动的手绘笔触。仅使用纯黑和纯白，无灰度、无色彩、无渐变。服装通过大面积黑色图形与白色布料形成对比，褶皱极少，轮廓线简洁，排线稀疏。仅在脚下添加柔和的地面阴影。构图居中，留白充裕，呈现出现代编辑风格。背景保持完全空白，仅保留一条微妙的地面线或阴影。整体美学类似于当代独立网络漫画插画、斯堪的纳维亚编辑绘图、趣味生活方式角色设计以及简洁的矢量风格墨水草图。高分辨率，线条清晰，极简主义，生动，时尚，迷人，手绘，2D 插画，单色，无背景元素，4:5 纵横比。
+
+[English]
+Minimalist black-and-white editorial character illustration of {argument name="character" default="a young traveler"} on a clean white background with abundant negative space. The character occupies approximately 30–40% of the frame in {argument name="pose" default="a relaxed walking stance"}, wearing {argument name="clothing" default="loose casual streetwear with oversized silhouettes"} and interacting with a smartphone. Stylized proportions with a slightly oversized head, simplified facial features, small dot eyes, expressive eyebrows, tiny nose, and a subtle friendly smile. Chunky sneakers, simple accessories, and relaxed body language. Drawn using clean, confident black ink linework with varied line weights, rounded contours, soft sketch-like imperfections, and expressive hand-drawn strokes. Use only solid black and white with no grayscale, no color, and no gradients. Clothing is rendered with large black graphic shapes contrasted against white fabric, minimal folds, simple contour lines, and sparse hatching. Add only a soft ground shadow beneath the feet. The composition is centered with generous white margins, creating a modern editorial look. The background remains completely blank except for a subtle floor line or shadow. Overall aesthetic resembles contemporary indie webcomic illustrations, Scandinavian editorial drawings, playful lifestyle character design, and clean vector-inspired ink sketches. High-resolution, crisp line art, minimalistic, expressive, stylish, charming, hand-drawn, 2D illustration, monochrome, no background elements, 4:5 aspect ratio.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2082758275179900940) | 2026-07-30
+
+---
+
+### 🖥️ 例 5395：另类角色图形插画
+
+![另类角色图形插画](../images/%E5%8F%A6%E7%B1%BB%E8%A7%92%E8%89%B2%E5%9B%BE%E5%BD%A2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+关于 {argument name="character" default="主体"} 的二维另类角色插画，占据画面约 75% 的空间，呈现 {argument name="pose" default="动态姿势"}，带有 [HAIR] 和 [EXPRESSION]。超大的圆形颅骨、短而扁平的下半脸、窄下巴、细长脖子、略大的耳朵、巨大的苍白椭圆形眼睛配以微小的偏心瞳孔、极粗的水平黑色眉毛、厚重的黑色上眼睑、柔和的紫红色眼圈、微小宽阔的三角形鼻子，以及宽大且不对称的露齿笑，展示出单独绘制的不规则矩形牙齿，其中一颗上牙明显缺失，一颗牙齿有缺口，并有深黑色的牙缝。为角色穿上 {argument name="clothing" default="简约图形服装"}，简化为宽大的图形形状，带有厚实的接缝、极少的褶皱和少量手绘配饰。使用自信的黑色墨水轮廓，包括粗犷的外轮廓、中等重量的面部线条、细长且有棱角的发丝，以及在眼睛、头发和服装接缝周围仅有的几处短划痕；使用平坦的不透明色块、每个形状仅一个硬边缘的赛璐珞阴影、稀疏的铅笔排线、细微的墨水抖动、轻微的色彩套印偏差以及克制的磨损纸张纹理。受控的 [COLORS] 色调，保持每种颜色清晰分离且饱和度适中。将角色置于 [BACKGROUND] 前，背景简化为大面积的平坦形状、少量随意绘制的环境细节以及超大的粗糙手绘文字 “[TEXT]”；采用偏心的半身构图、轻微的镜头倾斜、被裁剪的背景排版、宽松的海报页边距和轻微风化的印刷边缘。4:5 纵横比。
+
+[English]
+Two-dimensional alternative character illustration of {argument name="character" default="the subject"}, occupying approximately seventy-five percent of the frame in {argument name="pose" default="a dynamic stance"}, with [HAIR] and [EXPRESSION]. Oversized rounded cranium, a short flattened lower face, a narrow jaw, a long thin neck, slightly oversized ears, huge pale oval eyes with tiny off-center pupils, extremely thick horizontal black eyebrows, heavy black upper eyelids, muted mauve under-eye rings, a tiny broad triangular nose, and a wide asymmetrical grin showing individually drawn irregular rectangular teeth, one clearly missing upper tooth, one chipped tooth and deep black gaps. Dress the character in {argument name="clothing" default="simplified graphic clothing"}, simplified into broad graphic shapes with chunky seams, minimal folds and small hand-drawn accessories. Confident black ink contours using thick outer silhouettes, medium-weight facial lines, thin angular hair strands and only a few short scratch marks around the eyes, hair and clothing seams; use flat opaque color fields, one hard-edged cel-shadow shape per form, sparse pencil hatching, subtle ink wobble, slight color misregistration and restrained worn-paper texture. Controlled [COLORS] palette, keeping every color clearly separated and moderately saturated. Place the character against [BACKGROUND], reduced to large flat shapes, a few loosely drawn environmental details and oversized rough hand-painted lettering reading “[TEXT]”; use an off-center waist-up composition, a slight camera tilt, cropped background typography, loose poster margins and lightly weathered printed edges. 4:5 AR.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2082744921602306395) | 2026-07-30
+
+---
+
+### 🖥️ 例 5404：米兰大教堂前的深夜拥抱
+
+![米兰大教堂前的深夜拥抱](../images/%E7%B1%B3%E5%85%B0%E5%A4%A7%E6%95%99%E5%A0%82%E5%89%8D%E7%9A%84%E6%B7%B1%E5%A4%9C%E6%8B%A5%E6%8A%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张亲密、自然的深夜摄影作品，画面中有十位 20 岁左右的年轻亚裔女性 —— {argument name="group composition" default="六位日本人、两位韩国人、两位中国人"} —— 在深夜时分，于此时已归于宁静的 {argument name="location" default="米兰大教堂广场 (Piazza del Duomo)"} 附近温暖地拥抱在一起。背景中，大教堂的尖塔在深邃的夜空下发出柔和的光芒，广场上空无一人。面向镜头的几位女性展现出清晰、各具特色的东亚面部特征，脸上带着真诚而温暖的笑容；其余人则从侧面拍摄或在拥抱中部分遮挡，符合自然抓拍的群像构图。当环境光照亮可见的面部时，皮肤呈现出真实的次表面散射效果，微弱的高光柔和而温暖，保留了自然的纹理。可见人物的发型各异，几缕发丝在亲密的拥抱中自然散乱。她们穿着 {argument name="clothing style" default="随性的晚间混搭风格 —— 叠穿在吊带裙外的大廓形外套，以及随意披挂的围巾"} —— 呈现出一种深夜时分特有的松弛感与柔和感。光线来自远处被照亮的大教堂尖塔，是低环境光的推高 ISO 夜拍效果，柔和且低对比度，安静的深蓝黑色背景将人群包裹其中。深色阴影区域带有细微的 ISO 400 胶片颗粒，赋予了画面颗粒感十足、亲密且真实的深夜摄影质感。纵横比 2:3。无水印，无文字覆盖，非卡通，非插画，非动漫。
+
+[English]
+An intimate, candid late-night photograph of ten young Asian women, around 20 years old — {argument name="group composition" default="six Japanese, two Korean, two Chinese"} — embracing each other in a warm group hug near the now-quiet {argument name="location" default="Piazza del Duomo"} late at night, the cathedral's spires glowing softly in the background against the dark sky, the piazza otherwise empty. The three or four women whose faces are turned toward the camera show clear, individually distinct East Asian facial features with genuine warm smiles; the rest of the group is captured from the side or partially obscured within the embrace, consistent with the natural composition of an unposed group hug. Their skin shows realistic subsurface scattering where the ambient light catches the visible faces, specular micro-highlights soft and warm, natural texture preserved. Hairstyles vary across the visible figures, a few strands displaced naturally within the closeness of the embrace. They wear {argument name="clothing style" default="a relaxed evening mix — oversized coats layered over slip dresses, some scarves loosely draped"} — a lived-in, end-of-night softness to the styling. The lighting is low ambient ISO-pushed night light from the distant illuminated cathedral spires, soft and low-contrast, with a quiet dark blue-black background enveloping the group. Subtle ISO 400 film grain sits in the deep shadow areas, giving the scene a grainy, intimate late-night photographic quality. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not illustration, not anime.
+```
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2082707767127679163) | 2026-07-30
+
+---
+
+### 🖥️ 例 5413：另类图形角色插画
+
+![另类图形角色插画](../images/%E5%8F%A6%E7%B1%BB%E5%9B%BE%E5%BD%A2%E8%A7%92%E8%89%B2%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+二维另类角色插画，主角为 {argument name="character" default="一个淘气的生物"}，占据画面约 75% 的空间，姿态为 {argument name="pose" default="动态蹲姿"}，拥有 {argument name="hair" default="尖刺状深色头发"} 和 {argument name="expression" default="不对称的咧嘴笑"}。头部硕大圆润，下半脸扁平，下颚狭窄，脖子细长，耳朵略大，巨大的苍白椭圆形眼睛里有微小的偏心瞳孔，极粗的水平黑色眉毛，厚重的黑色上眼睑，柔和的淡紫色黑眼圈，小而宽的三角形鼻子，以及宽大且不对称的咧嘴笑，露出手绘的、不规则的矩形牙齿，其中一颗上牙明显缺失，一颗牙齿有缺口，并有深黑色的牙缝。为角色穿上 [CLOTHING]，简化为宽大的图形形状，带有厚实的接缝、极少的褶皱和少量手绘配饰。使用自信的黑色墨水轮廓，外轮廓线条粗重，面部线条中等粗细，发丝线条细长且有棱角，眼睛、头发和衣缝周围仅有少量短划痕；使用平涂的不透明色块，每个形态仅有一个硬边赛璐珞阴影形状，稀疏的铅笔排线，轻微的墨水抖动，细微的色彩错位以及克制的旧纸张纹理。采用受控的 {argument name="color palette" default="柔和的大地色系"} 色板，保持每种颜色清晰分离且饱和度适中。将角色置于 [BACKGROUND] 前，背景简化为大面积的平涂形状，辅以少量随意的环境细节和巨大的粗糙手绘文字 “[TEXT]”；采用偏心的半身构图，轻微的镜头倾斜，被裁剪的背景排版，宽松的海报页边距以及轻微风化的印刷边缘。4:5 纵横比。
+
+[English]
+Two-dimensional alternative character illustration of {argument name="character" default="[CHARACTER]"}, occupying approximately seventy-five percent of the frame in {argument name="pose" default="[POSE]"}, with {argument name="hair" default="[HAIR]"} and [EXPRESSION]. Oversized rounded cranium, a short flattened lower face, a narrow jaw, a long thin neck, slightly oversized ears, huge pale oval eyes with tiny off-center pupils, extremely thick horizontal black eyebrows, heavy black upper eyelids, muted mauve under-eye rings, a tiny broad triangular nose, and a wide asymmetrical grin showing individually drawn irregular rectangular teeth, one clearly missing upper tooth, one chipped tooth and deep black gaps. Dress the character in {argument name="clothing" default="[CLOTHING]"}, simplified into broad graphic shapes with chunky seams, minimal folds and small hand-drawn accessories. Confident black ink contours using thick outer silhouettes, medium-weight facial lines, thin angular hair strands and only a few short scratch marks around the eyes, hair and clothing seams; use flat opaque color fields, one hard-edged cel-shadow shape per form, sparse pencil hatching, subtle ink wobble, slight color misregistration and restrained worn-paper texture. Controlled [COLORS] palette, keeping every color clearly separated and moderately saturated. Place the character against [BACKGROUND], reduced to large flat shapes, a few loosely drawn environmental details and oversized rough hand-painted lettering reading “[TEXT]”; use an off-center waist-up composition, a slight camera tilt, cropped background typography, loose poster margins and lightly weathered printed edges. 4:5 AR.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2082674696194330760) | 2026-07-30
+
+---
+

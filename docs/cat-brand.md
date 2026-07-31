@@ -12872,3 +12872,61 @@ Constraints: Use no other reference images, do not change the woman’s pose or 
 
 ---
 
+### 🏷️ 例 5388：可爱闭眼猫咪贴纸
+
+![可爱闭眼猫咪贴纸](../images/%E5%8F%AF%E7%88%B1%E9%97%AD%E7%9C%BC%E7%8C%AB%E5%92%AA%E8%B4%B4%E7%BA%B8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张可爱的 Q 版坐姿猫咪贴纸插画，背景为纯白色。猫咪主体为白色，带有 {argument name="patch color" default="黑色"} 斑纹：头部和耳朵的右侧（观察者视角）覆盖有一块大的圆形斑点，身体两侧有小块深色斑点，右侧（观察者视角）有一条深色的卷曲尾巴。猫咪拥有超大的三角形耳朵，内耳为柔和的粉色，配有一个极小的黑色椭圆形鼻子、一个小巧的猫咪嘟嘟嘴，每侧脸颊各有三根胡须，闭上的水平双眼形状为 {argument name="eye shape" default="ーー"}。在脸颊上添加两个粉色椭圆形腮红，每个腮红上有三道深色的腮红纹路。使用粗而平滑的黑色轮廓线，圆润简化的爪子并带有可见的脚趾线条，角色周围带有白色贴纸模切边，贴纸边缘外侧有非常细微的浅灰色阴影/轮廓。猫咪居中，正面朝向，对称，极简，干净的矢量风格动漫吉祥物，无文字，无背景物体。
+
+[English]
+Create a cute kawaii sticker illustration of a sitting chibi cat on a plain white background. The cat is mostly white with {argument name="patch color" default="black"} markings: one large rounded patch covering the viewer-right side of the head and ear, small dark patches on both sides of the body, and a dark curled tail on the viewer-right. Give it oversized triangular ears with soft pink inner ears, a tiny black oval nose, a small pouty cat mouth, three whiskers on each cheek, and closed horizontal eyes shaped like {argument name="eye shape" default="ーー"}. Add two pink blush ovals on the cheeks, each with three darker blush strokes. Use thick smooth black outlines, rounded simplified paws with visible toe lines, a white sticker die-cut border around the character, and a very subtle light gray shadow/outline outside the sticker edge. Center the cat, front-facing, symmetrical, minimal, clean vector-like anime mascot style, no text, no background objects.
+```
+
+**来源：** [@イッポイッポ](https://x.com/ippoippo522/status/2082784300836294747) | 2026-07-30
+
+---
+
+### 🏷️ 例 5394：极简涂鸦插画
+
+![极简涂鸦插画](../images/%E6%9E%81%E7%AE%80%E6%B6%82%E9%B8%A6%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将图像转换为 {argument name="art style" default="极简手绘涂鸦插画"}。使用 {argument name="outlines" default="带有轻微抖动、不完美笔触的简约黑色毛笔勾线"}。在保留主体和构图的同时，将所有细节简化为可爱、稚拙的形状。
+
+天真的速写本美学，俏皮且异想天开的角色设计，干净的白色背景，极简线条，富有表现力的简洁感，手工涂鸦风格，黑色墨水画，迷人的不完美感，简单的卡通插画。比例 3:4。
+
+[English]
+Transform the image into a {argument name="art style" default="minimalist hand-drawn doodle illustration"}. Use {argument name="outlines" default="simple black brush-pen outlines with slightly wobbly, imperfect strokes"}. Reduce all details to cute, childlike shapes while preserving the main subject and composition. 
+
+Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration. Format 3:4.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2082748296167371195) | 2026-07-30
+
+---
+
+### 🏷️ 例 5402：倒置动漫海滩错觉艺术
+
+![倒置动漫海滩错觉艺术](../images/%E5%80%92%E7%BD%AE%E5%8A%A8%E6%BC%AB%E6%B5%B7%E6%BB%A9%E9%94%99%E8%A7%89%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在 3:4 的竖向画布上创作一幅生动的动漫风格错觉夏季插画。画面应呈现为一张明亮的绿松石蓝色图层或表面，带有 40 个不规则的水花状镂空开口，从中显露出下方连续的倒置热带海滩场景。通过这些开口，展示一位倒置的可爱动漫少女，她拥有长长的波浪状 {argument name="hair color" default="粉色"} 头发、绿色大眼睛，表情俏皮且惊讶，身穿印有木槿花和白色花朵图案的粉色碎花浴衣或沙滩袍。她的身体呈倒置状态，双腿向上伸向画面顶部，通过不同的开口可以看到赤裸的双脚和细腻的皮肤。在顶部中心附近加入一把粉色碎花遮阳伞，同样呈倒置状态，部分遮挡住她的身体。显露出的背景应为阳光明媚的 {argument name="beach setting" default="带有蓝天、白云、棕榈叶、木槿花、山脉、海浪和沙滩的热带海洋海滩"}。绿松石色的前景必须占据画面主导地位，并作为错觉遮罩，整个画布上散布着大小不一的圆形液体水花和水滴。请按以下方式排列 40 个开口：1 个巨大的中央不规则开口，展示少女的脸部、头发、浴衣、雨伞、双腿和海滩；顶部区域 8 个开口，展示天空、云朵、棕榈叶和雨伞碎片；左上及左中侧 7 个开口，展示天空、棕榈叶、皮肤和浴衣碎片；右上及右中侧 8 个开口，展示天空、棕榈叶、云朵、海洋和浴衣碎片；左下侧 8 个开口，展示花朵、沙滩、双脚、双腿和海滩阴影；右下及底部 8 个开口，展示双腿、沙滩、海洋、木槿花和小块海滩碎片。所有镂空边缘需保持光洁，遮罩使用高饱和度的青色/绿松石色，呈现明亮的热带阳光、清晰的动漫线条、精致的碎花布料、皮肤和头发上的柔和高光，以及高分辨率的 gpt-image-2 质感。整体错觉应首先被识别为抽象的蓝色水花，随后在孔洞中显现出倒置的少女和海滩场景。无文字，无水印，无边框。
+
+[English]
+Create a vertical 3:4 anime trick-art illustration on a vivid turquoise cyan background, as if the solid color is a liquid splash stencil with exactly 39 irregular oval and puddle-shaped cutout openings revealing a tropical beach scene underneath. Through the openings, show an upside-down cheerful anime girl with {argument name="hair color" default="long wavy pink hair"}, big green eyes, a surprised open-mouth expression, and a pink hibiscus flower in her hair, viewed from below/above in a playful distorted perspective. She wears a flowing {argument name="outfit" default="pink floral yukata-style beach dress"} with large white and yellow hibiscus prints and green palm-leaf motifs; her bare legs and feet extend toward the lower and side openings. Behind her, visible only through the splash holes, is a sunny tropical beach with bright blue ocean waves, pale sand, distant green hills, blue sky, white clouds, palm fronds, and pink hibiscus flowers. The 39 openings should include: 1 tiny dark-blue oval at upper left, 1 large left palm-and-sky oval, 1 small vertical sky oval near upper left, 1 tall spoon-shaped sky-and-cloud opening near top left-center, 1 dark-blue oval at top center, 2 small blue droplets near top center-right, 1 large palm-frond opening at upper right, 1 medium blue oval at right upper-middle, 1 tiny yellow-green speck at far right, 1 large central opening showing the floral dress and umbrella-like folds, 1 central-left opening showing pink flowers and dress fabric, 1 large central opening showing the upside-down face and torso, 1 large mid-left sky-and-cloud oval, 1 tiny left droplet, 1 small mid-left oval, 1 large lower-left opening with beach flowers and ocean, 1 peach skin oval beside it, 1 vertical peach leg opening, 1 tiny dark flower opening, 1 long lower-left skin/foot opening, 1 small round foot opening, 1 bottom-left peach oval, 1 small dark oval near bottom, 1 tiny bottom-center oval, 1 long central opening showing pink hair and beach, 1 lower-center shadow oval, 1 narrow lower-center leg opening, 1 tiny dark droplet below it, 1 large right-center peach skin opening, 1 medium right sky-and-cloud oval, 1 small right sky oval, 1 tiny white-cloud oval, 1 lower-right ocean opening, 1 tiny yellow-and-blue droplet, 1 large lower-right hibiscus flower oval, 1 small brown oval at bottom right, 1 upper-right sky-and-leaf oval, and 1 small white droplet at left middle. Use glossy clean digital painting, saturated summer colors, crisp anime linework, high detail, seamless optical illusion composition, no text, no border, no watermark.
+```
+
+**来源：** [@ねね*＠POP☆JACK所属](https://x.com/NeneneAI/status/2082712659410214955) | 2026-07-30
+
+---
+
