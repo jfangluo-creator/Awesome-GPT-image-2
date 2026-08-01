@@ -8267,3 +8267,177 @@ Create a vertical photorealistic fashion-editorial image in a minimalist studio 
 
 ---
 
+### 🎬 例 5430：奇幻生物草甸合影
+
+![奇幻生物草甸合影](../images/%E5%A5%87%E5%B9%BB%E7%94%9F%E7%89%A9%E8%8D%89%E7%94%B8%E5%90%88%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅细节丰富的手绘奇幻生物群像，采用奇思妙想的绘本动画风格，画面中心为 {argument name="central creature" default="一只巨大的毛茸茸奶油白色兔子，长着竖立的长耳朵、小小的黑色椭圆形眼睛和温柔的微笑"}，周围环绕着许多友好的虚构动物。
+
+画布：宽幅 3:2 横向插画，全出血，高细节，无边框，无文字。构图为紧凑、对称的合影，中心兔子略微靠前并居中，后方由较大的生物环绕，前景则分布着较小的生物。
+
+场景：一片郁郁葱葱的魔法草甸，边缘是一处浅浅的倒影池塘，长满了芦苇、青草、长满苔藓的岩石、热带叶片、粉色莲花状花朵、紫色花簇，水边散落着小花瓣。背景左上方放置一棵被风吹拂的树，后方有仙人掌状植物和灌木，远处是柔和的蓝色山丘、淡蓝色的天空和蓬松的白云，右侧有一座遥远的雪山。使用 {argument name="background setting" default="一片明亮的阿尔卑斯奇幻草甸，带有池塘、开花植物、一棵孤树和一座雪山"}。
+
+生物群：包含 26 个可见生物，排列如下：1. 中心的一只巨大奶油色兔子；2. 右后方两只巨大的蓝色犀牛状三角龙，带有鹅卵石般的皮肤、角、喙和带刺的褶边；3. 左后方三只巨大的灰色毛茸茸巨魔怪，有着橙色眼睛和露齿的笑容；4. 中左下方一只棕色鬃毛狮子；5. 兔子右侧坐着一只白灰相间的虎斑猫；6. 兔子胸前抱着一只黑色小猫；7. 前方中心一只矮胖的黄色三角龙幼崽，长着两只侧角；8. 右下方一只巨大的黄色美西螈状微笑生物，四肢末端为黑色；9. 中右侧一只亮蓝色微笑幼龙；10. 最右侧前景一只红色带刺的狐狸蜥蜴生物；11. 左中前景一只灰色鸭嘴鸟类生物，张着喙；12. 左中下方一只蓝色青蛙状生物，长着黄色眼睛；13. 蓝色青蛙旁边的岩石上有一只绿色小青蛙；14. 最左侧前景一只长长的红色蝾螈龙，长着胡须和宽大的嘴；15. 左下方一只长颈绿色小蜥蜴；16. 左下中心一只棕色圆形蝾螈；17. 旁边一只灰色圆形蟾蜍；18. 下方中心坐着一只黄色斑点壁虎；19. 右下中心一只微小的白色海豹状团子生物，长着粉色耳朵；20. 右下方紫色花朵旁站着一只微型企鹅状鸟类；21. 左侧花朵旁栖息着一只白色小鸟；22. 灰色巨魔附近的花丛中探出一只老鼠状小生物；23. 巨魔肩膀上栖息着一只猫头鹰状小生物；24. 右侧天空/草地区域有一只飞行的翼龙状爬行动物；25. 最右侧一只长肢橙色飞行昆虫生物；26. 左侧青蛙群后方的叶丛中探出一个灰色河马状小脑袋。
+
+视觉风格：保留温暖、怀旧的手绘动画概念艺术外观，具有明显的笔触、水彩水粉质感、柔和的墨水般轮廓、绘画感植被、自然材质渲染、生动可爱的表情和友好的奇幻比例。使用 {argument name="color palette" default="柔和的天蓝色、苔藓绿、暖黄色、大地棕、珊瑚红和粉色花朵点缀"}。光线为左上方投射的明亮自然日光，带有柔和的阴影和细腻的大气深度。氛围为 {argument name="mood" default="欢快、神奇、温柔且引人入胜"}。
+
+约束：保持所有生物可爱且平易近人，不要显得可怕，使用圆润的形状和生动的眼睛。保持拥挤但清晰的群像构图，最大的角色构成后排，最小的角色沿前景池塘边缘排列。不要添加文字、标志、水印、人类、建筑物或现代物品。
+
+[English]
+Goal: Create a richly detailed hand-painted fantasy creature group portrait in a whimsical storybook animation style, featuring {argument name="central creature" default="a giant fluffy cream-white rabbit with long upright ears, tiny black oval eyes, and a gentle smile"} surrounded by many friendly imaginary animals.
+
+Canvas: Wide 3:2 landscape illustration, full-bleed, high detail, no border, no text. The composition is a dense, symmetrical ensemble portrait with the central rabbit slightly forward and centered, framed by larger creatures behind and smaller creatures along the foreground.
+
+Setting: A lush magical meadow at the edge of a shallow reflective pond, filled with reeds, grasses, mossy rocks, tropical leaves, pink lotus-like flowers, purple blossoms, and small petals scattered near the water. In the background, place a windswept tree on the upper left, cactus-like plants and shrubs behind it, soft blue hills, a pale blue sky with puffy white clouds, and a distant snow-capped mountain on the right. Use {argument name="background setting" default="a bright alpine fantasy meadow with a pond, flowering plants, a lone tree, and a snowy mountain"}.
+
+Creature ensemble: Include exactly 26 visible creatures, arranged as follows: 1 giant cream rabbit in the center; 2 massive blue rhinoceros-like triceratops on the right rear with pebbled skin, horn, beak, and spiked frill; 3 large gray furry troll monster on the left rear with orange eyes and a toothy grin; 4 brown-maned lion in the lower middle-left; 5 white-and-gray tabby cat seated to the right of the rabbit; 6 small black cat held against the rabbit’s chest; 7 squat yellow baby triceratops in the front center with two long side horns; 8 large yellow axolotl-like smiling creature at lower right with black-tipped limbs; 9 bright blue smiling baby dinosaur at mid-right; 10 red spiky fox-lizard creature at far right foreground; 11 gray duck-billed bird creature at left-middle foreground with an open beak; 12 blue frog-like creature at lower left-center with yellow eyes; 13 small green frog on a rock near the blue frog; 14 long red salamander-dragon at far left foreground with whiskers and a wide mouth; 15 small green lizard with a long neck at lower left; 16 brown round salamander at bottom-left center; 17 gray round toad beside it; 18 yellow spotted gecko sitting at lower center; 19 tiny white seal-like blob creature with pink ears at bottom center-right; 20 miniature penguin-like bird standing beside purple flowers near the yellow axolotl; 21 tiny white bird perched near the left flowers; 22 small mouse-like creature peeking from flowers near the gray troll; 23 small owl-like creature perched on the troll’s shoulder; 24 flying pterosaur-like reptile in the right sky/grass area; 25 orange flying insect creature with long limbs on the far right; 26 small gray hippo-like head peeking from foliage on the left behind the frog group.
+
+Visual style: Preserve a warm, nostalgic hand-painted animation concept-art look with visible brushwork, watercolor-gouache textures, soft ink-like outlines, painterly foliage, natural material rendering, expressive cute faces, and friendly fantasy proportions. Use {argument name="color palette" default="soft sky blues, moss greens, warm yellows, earthy browns, coral reds, and pink flower accents"}. Lighting is bright natural daylight from above-left, with gentle shadows and soft atmospheric depth. Mood is {argument name="mood" default="cheerful, magical, gentle, and inviting"}.
+
+Constraints: Keep all creatures cute and approachable rather than scary, with rounded shapes and expressive eyes. Maintain a crowded but readable group portrait, with the largest figures forming the back row and the smallest figures along the foreground pond edge. Do not add text, logos, watermarks, humans, buildings, or modern objects.
+```
+
+**来源：** [@Nisho 👦🏻🙀](https://x.com/AiMeowing/status/2083332417650385211) | 2026-07-31
+
+---
+
+### 🎬 例 5466：治愈系日式四格漫画
+
+![治愈系日式四格漫画](../images/%E6%B2%BB%E6%84%88%E7%B3%BB%E6%97%A5%E5%BC%8F%E5%9B%9B%E6%A0%BC%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+生成一组四格日式温情漫画，干净手绘动漫线稿风格，温暖米棕色与浅棕色单色调，柔和奶油色背景，简单柔和阴影，整体温馨治愈氛围。画面比例：正方形1:1，标准2x2四格布局，每格之间用细棕色边框分隔。顶部标题：大字「{argument name="标题" default="夫婦の日"}」，左右各加一颗小心心，手写感深棕色。
+【四格内容】
+第1格：年轻亚洲情侣站立肖像。{argument name="男性角色" default="男人"}站在{argument name="女性角色" default="女人"}身后，双手轻轻放在她肩上，两人微笑看向镜头。
+第2格：情侣坐在温馨室内，双手捧着马克杯，相视而笑。女人对话框清晰写着中文：「谢谢你一直陪着我。」白色圆角对话框，黑色清晰文字。
+第3格：情侣一起在厨房做饭。两人并肩站在灶台前，男人搅拌，女人帮忙，表情专注又幸福。
+第4格：情侣紧紧拥抱。男人低头轻轻亲吻女人的额头，女人闭眼微笑。
+【角色一致性强制要求】
+两个角色从第1格到第4格必须保持完全同一张脸、同一发型、同一服装、同一身材比例。禁止任何漂移。
+男人：短发、温和长相、穿简单毛衣或衬衫。
+女人：中长发、温柔长相、穿家居感衣服。
+【风格与质感】
+干净手绘动漫线稿，单色调温暖米棕+浅棕+奶油白，简单阴影，像日式生活漫画或治愈系插画。
+【文字要求】
+对话框内中文必须正确、清晰、无乱码、无变形。避免：写实摄影、3D渲染、鲜艳色彩、复杂背景、角色脸崩、文字乱码、廉价贴纸感。
+```
+
+**来源：** [@Derek Wen｜德里克文](https://x.com/derek_wall90176/status/2083069678965166119) | 2026-07-31
+
+---
+
+### 🎬 例 5474：绘本风格：草原上的豹子与思考气泡
+
+![绘本风格：草原上的豹子与思考气泡](../images/%E7%BB%98%E6%9C%AC%E9%A3%8E%E6%A0%BC%EF%BC%9A%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%9A%84%E8%B1%B9%E5%AD%90%E4%B8%8E%E6%80%9D%E8%80%83%E6%B0%94%E6%B3%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅充满童趣的儿童绘本风格插画，采用大胆的手绘风格。在左侧前景展示一只大型卡通豹子或猎豹，它坐在一块灰褐色的岩石上，向右眺望金色的非洲大草原。动物呈橙黄色，身上布满黑色斑点，一条条纹尾巴蜷曲在岩石旁，轮廓线条粗犷且带有素描感，面部特征简单友好，姿态呈沉思状。在右中方的远处，画上 4 只小斑马，它们正排成松散的队列穿过草地。添加稀疏的草原细节：干枯的黄草、几丛绿褐色的灌木、右侧地平线上的一棵平顶金合欢树、左边缘隐约可见的树叶，以及明亮的蓝色纹理天空。包含 3 朵带有粗黑轮廓的白云：右上角一朵大云，上方中心一朵小云，地平线附近一朵极小的云。在豹子上方，放置一个带有粗黑轮廓和两个小气泡点的白色思考气泡，其中包含粗体的日语文字：{argument name="thought bubble text" default="前菜、主菜、副菜、デザート…"}。使用粗糙的油画棒或蜡笔质感，呈现可见的笔触、不规则的边缘、童趣的比例、高对比度的黑色轮廓、饱和的色彩以及适合绘本的构图。画布保持 4:3 横向比例，拒绝写实风格，不要添加额外动物，不要添加水印。
+
+[English]
+Create a whimsical children's picture-book illustration in a rough hand-painted gouache/oil-pastel style on a 4:3 horizontal canvas. Show a large {argument name="animal character" default="cheetah"} in the left foreground, sitting on a gray-brown rock ledge and facing right, with a rounded cartoon body, golden-yellow fur, many black spots, a striped tail curled around the rock, a white muzzle, and very thick uneven black outlines like crayon or marker. The cheetah is looking across a sunny African savanna toward exactly 4 zebras in the mid-distance on the right, each small, black-and-white striped, walking in a loose line. Add exactly 3 white sky clouds with heavy black outlines: one medium cloud near the top center, one large long cloud near the top right, and one small cloud near the horizon. Above the cheetah's head place a large white cloud-shaped thought bubble with black outline, connected by exactly 2 small thought circles, containing bold black Japanese text: {argument name="thought bubble text" default="前菜、主菜、副菜、デザート…"}. The landscape should have a bright cyan-blue textured sky, a golden-yellow grassy plain with scattered scrub brush, one flat-topped acacia tree on the right horizon, dark green foliage and a tilted tree trunk at the far left edge, and spiky green grass in the lower right foreground. Use visible brush texture, thick impasto-like strokes, playful imperfect shapes, high saturation, simple composition, and a storybook mood, as if it could be a page from a picture book. Avoid photorealism, gradients, thin clean vector lines, extra animals, or extra text.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2083043618663895172) | 2026-07-31
+
+---
+
+### 🎬 例 5495：根据分镜完成漫画页面
+
+![根据分镜完成漫画页面](../images/%E6%A0%B9%E6%8D%AE%E5%88%86%E9%95%9C%E5%AE%8C%E6%88%90%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为漫画名称/分镜稿，将其转换为精美的成品漫画页面，并保持相同的页面结构、分镜顺序、对白位置和页码。将粗糙的占位框替换为完整绘制的角色和道具，同时保留分镜中的场景流程。
+
+目标：完成一页关于 {argument name="scene title" default="夜食"} 的精美全彩少女/女性向漫画页面，要求具备专业的线条、柔和的渐变、细腻的角色渲染以及清晰的黑色分镜边框。
+
+画布与布局：保持 4 个分镜：顶部 1 个宽幅分镜，中间 2 个对角分镜，底部 1 个宽幅分镜。在左上角添加标题「夜食」，右上角添加页码「2/4」，底部居中添加作者 ID 「@_sagyo」。
+
+分镜转换：
+1. 顶部宽幅分镜：将分镜中的女孩绘制为温暖厨房里的一位美丽年轻女性，手里端着一碗撒了葱花的豆腐。保留一个垂直对话框，内容为「じゃ…お豆腐にめんつゆかけて…！」。
+2. 中左对角分镜：将“恶魔”占位符替换为银发男性角色的恶魔形态，带有黑色犄角、深色蝙蝠翅膀，双臂交叉，表情严肃，背景为紫色的不祥氛围。包含 2 个对话框，内容分别为「ちっ…冷奴は正直おいしいので何も言えません…」和「せめてネギとかかは載せましょう それくらいの悪は許されます」。
+3. 中右对角分镜：将“天使”占位符替换为同一位银发男性角色的天使形态，双手合十微笑，带有白色翅膀、发光的头环、闪光、花朵以及温暖的金色天堂背景。包含 2 个对话框，内容分别为「まぁ…！夜食界の優等生ですよ…」和「えらいです…」。
+4. 底部宽幅分镜：再次展示左侧的女孩，手里拿着一瓶红色瓶盖、标签为「七味」的调料瓶，表情坚定。在分镜中添加 3 个对话效果/对话框：一个尖刺状气泡写着「七味も…かける…！」，一个波浪形气泡写着「くっ…今夜は天使側の勝ちですか…」，以及一个椭圆形气泡写着「それは悪ではなく彩りです」。使用简单的温暖桌面/背景。
+
+风格限制：保持日语对白清晰易读，并在适当位置进行竖排排版。成品画作需比分镜稿更细腻，具备迷人的动漫脸庞、柔和的灯光、干净的配色，且不得添加额外的分镜或对话框。保留原作占位符中天使与恶魔的喜剧演绎。
+
+[English]
+Goal: Using REFERENCE_0 as the manga name/storyboard, convert it into a polished finished manga page while preserving the same page structure, panel order, speech-balloon placement, and story beats.
+
+Canvas and layout: Create a clean vertical black-and-white manga page with full-color illustration. Keep exactly 4 panels: 1 wide top panel, 2 diagonal split middle panels, and 1 wide bottom panel. Add the header title {argument name="title text" default="夜食"} at top left, page number {argument name="page number" default="2/4"} at top right, and artist handle {argument name="artist handle" default="@_sagyo"} centered at the bottom.
+
+Transformations from the reference: Replace the rough placeholders with finished anime-style character art. The top panel should show the ordinary girl holding a bowl of tofu with sauce in a warm kitchen/dining setting. The middle-left placeholder labeled as the demon version should become a beautiful silver-haired demon man with black horns, dark wings, irritated expression, and a purple ominous background. The middle-right placeholder labeled as the angel version should become the same silver-haired man as an angel, smiling with clasped hands, white wings, halo, flowers, sparkles, and a soft golden background. The bottom panel should show the girl holding a small shichimi spice bottle, with the remaining dialogue effects and balloons arranged like the storyboard.
+
+Text: Use exactly 9 visible speech/effect balloons total, matching the reference positions: top panel has 1 balloon with {argument name="top panel dialogue" default="じゃ…\nお豆腐に\nめんつゆかけて…！"}; middle-left panel has 2 balloons with {argument name="demon panel dialogue" default="ちっ…\n冷奴は正直おいしいので\n何も言えません… / せめてネギとおかかは\n載せましょうよ\nそれくらいの悪は\n許されます"}; middle-right panel has 2 balloons with {argument name="angel panel dialogue" default="まぁ…！\n夜食界の\n優等生ですよ… / えらいです…"}; bottom panel has 4 balloons/effects with {argument name="bottom panel dialogue" default="七味も…\nかける…！ / くっ…\n今夜は天使側の\n勝ちですか… / それは悪ではなく\n彩りです / 七味"}.
+
+Style: High-quality polished Japanese web-manga rendering, clean lineart, soft gradients, expressive faces, accurate balloon lettering, crisp black panel borders, no rough storyboard guides, no blue placeholder boxes, no panel-number markers, and no extra characters or extra text.
+```
+
+**来源：** [@さ🥺](https://x.com/_sagyoai/status/2082987000471470467) | 2026-07-31
+
+---
+
+### 🎬 例 5496：从分镜草稿生成精美漫画页面
+
+![从分镜草稿生成精美漫画页面](../images/%E4%BB%8E%E5%88%86%E9%95%9C%E8%8D%89%E7%A8%BF%E7%94%9F%E6%88%90%E7%B2%BE%E7%BE%8E%E6%BC%AB%E7%94%BB%E9%A1%B5%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用提供的参考图作为漫画分镜/布局基础，将粗糙的 YAML 风格草稿转化为精美的全彩漫画页面。请保留整体页面结构、页码位置以及日文对话内容，但需将蓝色占位框替换为精细的角色插画，并重新绘制清晰的分镜边框。
+
+目标：基于参考分镜，创作一页标题为 {argument name="scene title" default="夜食"}、页码为 {argument name="page number" default="2/4"} 的成品漫画页面。
+
+布局：严格保留 4 个可见分镜：顶部 1 个宽幅分镜，中间 2 个并排的倾斜分镜，底部 1 个宽幅分镜。使用清晰的黑色漫画分镜边框，中间两个分镜由倾斜的间隙隔开。在底部居中添加作者 ID：{argument name="artist handle" default="@_sagyo"}。
+
+角色替换：
+- 将“あちゃち”占位符替换为一位美丽的年轻女性，留着黑色长发，拥有富有表现力的少女漫风格双眼，身穿棕色格子衬衫搭配深色马甲。
+- 将“悪魔ファブち”占位符替换为一位英俊的银发恶魔男性，长有黑色犄角和深色蝙蝠翅膀，表情严肃，身着深色服装。
+- 将“天使ファブち”占位符替换为同一男性的微笑银发天使形态，带有白色翅膀、发光的头环，双手合十，营造出温暖的天堂氛围。
+
+分镜渲染要求：
+1. 顶部分镜：展示年轻女性在厨房/餐厅场景中，手中端着一碗撒有绿色配菜的豆腐，并使用垂直对话框说出参考图中的台词。
+2. 中左分镜：展示恶魔男性在深紫色背景下双臂交叉，配有两个与参考对话一致的垂直对话框。
+3. 中右分镜：展示天使男性双手合十微笑，头环和翅膀清晰可见，背景为带有小花的明亮金色闪烁效果；保留两个与参考对话一致的对话框。
+4. 底部分镜：左侧展示年轻女性拿着一小瓶七味粉，表情惊讶；包含一个用于“七味も…かける…!”的尖角强调气泡，一个用于天使侧台词的扇形气泡，以及一个用于最后台词的椭圆形气泡。
+
+风格：精美的日式少女漫画/韩漫插画，柔和的渐变，细腻的线条，极具吸引力的角色渲染，微妙的腮红，温暖的室内光效，富有表现力的面部表情，垂直日文对话框。请确保对话清晰易读且为日语，尽可能使用分镜草稿中的原始文本。
+
+约束条件：不得留下任何占位框或构图标签。不得增加额外的分镜。保持漫画页面整洁、完成且达到印刷标准。
+
+[English]
+Using REFERENCE_0 as the manga-name/storyboard base, convert the rough layout into a polished full-color vertical manga page. Keep the overall 4-panel structure: 1 wide top panel, 2 diagonal split middle panels, and 1 wide bottom panel, but render it as finished shoujo-style manga art with clean black panel borders instead of editor guide boxes.
+
+Goal: Replace the placeholder character boxes with fully illustrated characters and keep the storyboard’s intended dialogue beats.
+
+Page header: Add a simple printed header with {argument name="chapter title" default="夜食"} at the top left and {argument name="page number" default="2/4"} at the top right.
+
+Characters and panel actions:
+- Panel 1: Render the “acha” placeholder as a pretty young woman in a warm kitchen/dining setting, holding a small bowl of tofu topped with garnish while speaking.
+- Panel 2 left: Render the “devil Fab” placeholder as a long silver-haired beautiful man with black horns, small bat wings, a dark outfit, and an annoyed expression with arms crossed, against a darker purple devilish background.
+- Panel 2 right: Render the “angel Fab” placeholder as the same silver-haired man in an angel form, smiling with hands clasped, white wings, halo, flowers, sparkles, and a warm glowing background.
+- Panel 3 bottom: Render the young woman again at the left, holding a small red-capped spice bottle labeled 七味; include a dramatic spiky burst callout in the center and the remaining speech bubbles on the right.
+
+Dialogue and text: Use the following Japanese text exactly where it belongs in the visible balloons and callouts: {argument name="all dialogue text" default="じゃ…お豆腐にめんつゆかけて…… / ちっ…冷奴は正直おいしいので何も言えません… / せめてネギとおかかは載せましょう それくらいの悪は許されます / まぁ…！夜食界の優等生ですよ… / えらいです… / 七味も…かける…！ / くっ…今夜は天使側の勝ちですか… / それは悪ではなく彩りです"}.
+
+Style: Finished clean anime/manga illustration, soft painterly coloring, attractive character designs, detailed hair and clothing, subtle screentone-like backgrounds, crisp speech balloons, vertical Japanese lettering, professional web manga page quality.
+
+Constraints: Preserve the reference’s main composition and dialogue order, use exactly 4 panels, exactly 8 visible dialogue/callout balloons plus the spice bottle label, no extra characters, no watermark except a small centered handle at the bottom: {argument name="bottom handle" default="@_sagyo"}.
+```
+
+**来源：** [@さ🥺](https://x.com/_sagyoai/status/2082985467918918008) | 2026-07-31
+
+---
+

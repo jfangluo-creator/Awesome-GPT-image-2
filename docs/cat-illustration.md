@@ -10247,3 +10247,145 @@ Create a highly detailed vertical anime illustration of {argument name="characte
 
 ---
 
+### 🎨 例 5440：前坦克型法师冒险者
+
+![前坦克型法师冒险者](../images/%E5%89%8D%E5%9D%A6%E5%85%8B%E5%9E%8B%E6%B3%95%E5%B8%88%E5%86%92%E9%99%A9%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="前職" default="元タンク役"}の{argument name="現在の職業" default="魔法使い冒険者"}』
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2083193502624788608) | 2026-07-31
+
+---
+
+### 🎨 例 5441：极简主义编辑图形设计提示词
+
+![极简主义编辑图形设计提示词](../images/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E7%BC%96%E8%BE%91%E5%9B%BE%E5%BD%A2%E8%AE%BE%E8%AE%A1%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题对象" default="任意主题对象"}生成一张极简编辑感图文画面：大面积干净留白作为呼吸区，主题核心形体以高反差黑白图像化方式压在视觉中心，边缘抠得利落，局部越过一块主题派生的{argument name="色块颜色" default="纯色"}矩形色场，让主形体与色场形成前后穿插的舞台关系。信息层用一条厚重的深色文字块压住主形体下部，形成图像被文字截断、文字反过来托住图像的第一视觉冲击；主句使用粗重无衬线浅色字，多行紧密排布，字距干净，行距有力，块面向一侧伸出但保持边缘整齐。上方保留一个放大的引号或主题符号作为节奏锚点，下方用极细、轻盈的署名级信息形成强弱对比，底部只保留一个极小标识作为收束。色彩从主题自身的材质、情绪与文化信号中提取：背景保持高明度、清透、洁净，主形体交给黑白明暗塑造结构，色场使用中高饱和的主题情绪色，占画面中等面积并保持清晰边界，文字块用干净深色制造重量，少量强调色只落在标识或细节上。整体情绪明亮、直接、现代，有公开陈述的能量和出版物的秩序；避免复杂场景、装饰纹理、脏旧滤镜和松散排版。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2083191399873491263) | 2026-07-31
+
+---
+
+### 🎨 例 5476：情绪感盐湖时尚电影剧照
+
+![情绪感盐湖时尚电影剧照](../images/%E6%83%85%E7%BB%AA%E6%84%9F%E7%9B%90%E6%B9%96%E6%97%B6%E5%B0%9A%E7%94%B5%E5%BD%B1%E5%89%A7%E7%85%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一位令人惊艳的 20 多岁 {argument name="ethnicity" default="日本或韩国"} 女性，身着 {argument name="outfit" default="结构感皮质束胸套装"}，单腿重心偏移，身体姿态呈现出放松的不对称平衡感；她转头呈四分之三侧面，视线看向画框外，背景设定在 {argument name="location" default="白色盐湖滩边缘"}，地面为龟裂的盐壳，正午强烈的直射光照在主体上，呈现出受荒木经惟启发的电影剧照质感，具有原始、私密的日记体影像风格，微距特写细节，1/250 秒手持快门感，镜头自带柔光滤镜雾感，以及带有霓虹色调的日式人像调色，并保留了明亮的肤色。
+
+[English]
+A stunning mid-20s {argument name="ethnicity" default="Japanese or Korean"} woman. wearing a {argument name="outfit" default="structured leather corset outfit"}, standing with one-leg weight shift, relaxed asymmetrical body balance; head turned into a three-quarter side profile facing out of frame, in {argument name="location" default="white salt flat playa edge"}, cracked salt crust ground, under harsh midday environment with hard direct sunlight on the subject, captured as a moody film still with Inspired by Nobuyoshi Araki, raw intimate diaristic image language, macro close-focus detail, 1/250s handheld shutter look, lens-only mist-filter haze, neon-tinted Japanese portrait color grade, protected bright skin tones.
+```
+
+**来源：** [@Nailai7981](https://x.com/VIBEQUIRKLABS/status/2083037166293356913) | 2026-07-31
+
+---
+
+### 🎨 例 5479：月光哥特式宅邸动漫封面
+
+![月光哥特式宅邸动漫封面](../images/%E6%9C%88%E5%85%89%E5%93%A5%E7%89%B9%E5%BC%8F%E5%AE%85%E9%82%B8%E5%8A%A8%E6%BC%AB%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版动漫专辑封面插画，采用靛蓝色与古象牙色的单色调，呈现出如同在陈旧纸张上绘制的精细钢笔蚀刻画效果。画面展示了 {argument name="character name" default="一位金发年轻男子"} 从一座废弃古典宅邸中央敞开的窗户向外倚靠。他有着凌乱的浅金色头发、柔和的蓝灰色双眼，带着淡淡的平静微笑，一只手托着脸颊，另一只手臂叠放在窗台上。他身着整洁的深色三件套西装，搭配白衬衫和领带，优雅而略带忧郁。宅邸外观对称且细节丰富：顶部有带小尖塔的三角形山花、华丽的檐口、高大的长方形窗框、风化的石材或砖块纹理，以及两扇用对角木板封住的侧窗。中央敞开的窗户隐约露出昏暗的室内，可见吊灯和古老房间的细节。建筑周围环绕着茂密的深色植被，枝叶勾勒出左、右和底部的边缘。屋顶上方是一轮明亮的满月，部分被深蓝色星空中的薄云环绕。运用细腻的交叉排线、精细的建筑线条、微妙的纸张纹理、高对比度的月光，营造出浪漫的哥特式氛围。画面中无可见标题文字、无 Logo、无水印；构图为 9:16 比例，人物居于中下方的窗户，月亮位于右上角附近。
+
+[English]
+Create a vertical anime album-cover illustration in a monochrome deep navy and antique ivory ink style. Show {argument name="character name" default="a delicate blond young man"} leaning out of the central open window of an abandoned old mansion at night, resting his cheek on one hand with a faint wistful smile and pale reflective eyes. He wears {argument name="outfit" default="a formal black three-piece suit, white shirt, and tie"}; his messy light hair is softly backlit and slightly tousled. The mansion facade is symmetrical and richly detailed: a large classical pediment roof with carved trim above, weathered columns and molding around the central window, cracked stone and brick below, and exactly two boarded side windows, one on the left and one on the right, each crossed by rough diagonal wooden planks. Inside the dark room behind him, hint at an old chandelier and shadowy antique interior details. The sky is a starry midnight blue with {argument name="moon" default="a bright full moon"} near the upper right partly veiled by thin clouds. Frame the scene with overgrown leaves and branches around the edges, especially upper left, lower left, and lower right, creating a gothic romantic atmosphere. Use fine manga cross-hatching, engraved linework, delicate stippling, worn paper texture, high architectural detail, subtle moonlit highlights, and a melancholic yet serene mood. No text, no logo, no modern objects, no extra characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2083031746359251438) | 2026-07-31
+
+---
+
+### 🎨 例 5491：Leticia 奇幻万圣节角色
+
+![Leticia 奇幻万圣节角色](../images/Leticia%20%E5%A5%87%E5%B9%BB%E4%B8%87%E5%9C%A3%E8%8A%82%E8%A7%92%E8%89%B2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+在干净的灰白色背景上创作一张垂直全身的奇幻动漫角色插画：一位名为 {argument name="character name" default="Leticia"} 的少女正面站立，主题为奇幻的万圣节森林精灵。她拥有娇小的 Q 版身材、白皙的皮肤、柔和而严肃的表情、大大的灰褐色眼睛、黑色短刘海以及发梢带有青蓝色渐变的双马尾。她佩戴着超大号的未来感黑色猫耳耳机，耳机上有发光的青色三角形耳灯和青色圆环装饰。她的服装是一件精致的叠层斗篷，颜色为 {argument name="main outfit colors" default="奶油色、焦橙色、黑色和柔和的青色"}，装饰有三角形拼布、小幽灵、骷髅、星星、缝线、流苏、珠子、挂饰，领口处有一个巨大的橙色蝴蝶结；内搭深色短裙、黑白条纹大腿袜，脚穿带有橙色小生物脸部图案的棕色厚底冒险靴。她的左手握着一根弯曲的枯树枝法杖；杖上悬挂着 3 个清晰可见的物品：一个小骷髅吊牌、一盏发着蓝绿色光的金属灯笼，以及一个悬挂的小铃铛/装饰品。法杖顶端栖息着 1 只猫头鹰般的奇幻生物，长着圆圆的橙色眼睛、蝙蝠翅膀、围巾、羽簇和斑点羽毛。在少女周围环绕着 7 只伙伴生物：右肩后方有 1 只高大的烟雾状深色幽灵，长着发光的眼睛和锯齿状的嘴；左下方有 1 只带有两个大洞的浅米色团状幽灵；脚边有 1 只橙色眼睛的黑猫；猫附近有 1 只浅棕色的小幽灵；右下方有 1 只青蓝色的缝合幽灵；青色幽灵上方有 1 只漂浮的小幽灵；斗篷口袋里探出 1 只圆形的黑色蝙蝠/猫脸。在脚部和背景周围添加精致的植物、小花、落叶、水彩溅墨和漂浮的微尘。采用高度精细的日式水墨漫画风格，结合柔和的渲染、细腻的线条、柔和的秋季色调、可爱而诡异的氛围、透明的叠层织物，采用居中构图。在右下角添加手写签名，内容为 {argument name="signature text" default="Leticia"}。不要有分镜、对话框、UI 元素或额外文字。
+
+[English]
+Create a full-body fantasy anime character illustration of {argument name="character name" default="Leticia"}, a small cute girl standing front-facing on a white background, drawn in delicate watercolor ink with soft washes, fine sketch lines, warm muted orange, cream, charcoal, teal, and brown tones. She has {argument name="hair color" default="black hair fading to teal at the twin-tail tips"}, straight bangs, low twin-tails, pale skin, slightly blushing cheeks, and a calm shy expression. She wears oversized futuristic cat-ear headphones with glowing cyan triangular ear panels and cyan ring accents, then a layered Halloween-fantasy poncho cloak in cream and burnt orange with patchwork triangles, stars, tiny skull motifs, ghost appliqués, bat-like trim, dangling charms, tassels, and a large orange bow at the collar; underneath are a dark skirt, black-and-cream striped thigh socks, and chunky brown lace-up sandals with small orange creature faces on the toes. In her left hand she holds a crooked branch staff decorated with dry leaves, string, a skull tag, beads, and a hanging teal-glowing lantern. Include exactly 8 companion creatures: 1 perched owl-like creature with bat wings and an orange scarf on top of the staff, 1 tall translucent smoky ghost with glowing eyes behind her upper right side, 1 pale tiny ghost floating at mid-right, 1 black round cat-like spirit printed or peeking from her right cloak pocket, 1 cream triangular ghost face on the front of the cloak, 1 black cat sitting at the lower left, 1 beige blob ghost near the lower left background, and 1 teal-blue blob ghost near the lower right. Add sparse tiny flowers, leaves, pebbles, and pale ghost shapes around her feet, keeping the background mostly blank. Place a handwritten signature reading {argument name="signature text" default="Leticia"} at the bottom right with a small cat doodle. Style should feel like a whimsical fantasy character sheet illustration, highly detailed but airy, cute gothic Halloween atmosphere, no comic panels, no speech bubbles, no extra text.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2082998123396526276) | 2026-07-31
+
+---
+
+### 🎨 例 5492：现代柠檬妙用 PPT 封面
+
+![现代柠檬妙用 PPT 封面](../images/%E7%8E%B0%E4%BB%A3%E6%9F%A0%E6%AA%AC%E5%A6%99%E7%94%A8%20PPT%20%E5%B0%81%E9%9D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁现代的中文 PPT 封面，主题为 {argument name="topic" default="柠檬的妙用"}，采用国际瑞士风格的模块化网格、清新的柠檬黄点缀、柔和的淡色块，以及明亮的健康/生活方式编辑风格。
+
+画布：16:9 宽屏演示幻灯片，米白色背景，留白充裕，排版清晰，无水印。采用非对称平衡布局：左侧为大面积文字排版，右侧为大尺寸圆角照片构图。
+
+布局：左侧包含标题堆叠和四个功能卡片。右侧包含一个占据幻灯片宽度约一半的大型圆角柠檬摄影面板。右下角设有黑黄配色的页面标签栏。底部边缘添加细微的垂直基线/网格刻度。
+
+文字内容：主标题使用超大加粗黑色中文字体：{argument name="headline text" default="柠檬的妙用"}。下方添加一条短促的荧光黄下划线，随后是副标题：{argument name="subtitle text" default="10 页现代信息演示"}。副标题下方放置一个圆角荧光黄胶囊形状标签，内含 4 个由居中圆点分隔的分类词：{argument name="category text" default="清洁 · 饮食 · 保鲜 · 美容"}。底部页面标签显示一个位于荧光黄圆角矩形上的大号黑色“01”，以及一个位于黑色圆角矩形上、白色字体的“封面”。
+
+功能卡片：在分类胶囊下方横向排列 4 个圆角淡色卡片，每张卡片包含一个简约黑色线条图标、加粗中文标签和两行描述：1) 喷雾瓶闪光图标，标签“清洁”，描述“天然去污 / 安全环保”；2) 柠檬片碗图标，标签“饮食”，描述“增添风味 / 丰富营养”；3) 冰箱图标，标签“保鲜”，描述“延长保鲜 / 减少浪费”；4) 带闪光的侧脸图标，标签“美容”，描述“自然呵护 / 焕亮肌肤”。卡片颜色从左至右依次为：淡柠檬黄、淡紫色、淡蓝色、淡柠檬黄。
+
+右侧图像构图：使用在浅色石材表面拍摄的清新高调柠檬摄影素材：右上角为一个带绿叶的完整大柠檬，前景中心为一个可见多汁放射状果肉的半个柠檬，右下角为一个柠檬角，背景为一个柔焦的黄色柠檬。叠加现代圆角半透明几何面板：左上角为一个带有微小手绘柠檬涂鸦的垂直淡紫色圆角矩形，以及一个覆盖在照片左下角、带有绿色叶片穿插的大型半透明荧光黄圆角方块/矩形。保持照片边角为大圆角。
+
+装饰细节：左上角添加一个 3×3 的点阵图案，共 9 个点，交替使用柠檬黄、淡紫色和淡蓝色。所有图标保持单线黑色，排版加粗且现代，强调对齐并留有充足的空白。避免添加多余文字或额外卡片。
+
+[English]
+Goal: Create a clean modern Chinese PPT cover slide about {argument name="topic" default="柠檬的妙用"}, using an international Swiss-style modular grid, fresh lemon-yellow accents, soft pastel blocks, and a bright health/lifestyle editorial look.
+
+Canvas: 16:9 widescreen presentation slide, off-white background, airy margins, crisp vector typography, no watermark. Use asymmetrical balance: large text-heavy left column and large rounded photo composition on the right.
+
+Layout: Left side contains the title stack and four feature cards. Right side contains a large rounded-corner lemon photography panel occupying about half the slide width. Bottom right has a black-and-yellow page label bar. Add subtle vertical baseline/grid ticks along the bottom edge.
+
+Text content: Main title in very large bold black Chinese characters: {argument name="headline text" default="柠檬的妙用"}. Below it, add a short neon-yellow underline, then subtitle: {argument name="subtitle text" default="10页现代信息演示"}. Under the subtitle, place a rounded neon-yellow pill containing exactly 4 category words separated by centered dots: {argument name="category text" default="清洁 · 饮食 · 保鲜 · 美容"}. Bottom page label shows a large black “01” on a neon-yellow rounded rectangle segment and “封面” in white on a black rounded rectangle segment.
+
+Feature cards: Include exactly 4 rounded pastel cards in a row under the category pill, each with a simple black line icon, bold Chinese label, and two-line description: 1) spray bottle sparkle icon, label “清洁”, description “天然去污 / 安全环保”; 2) bowl with lemon slice icon, label “饮食”, description “增添风味 / 丰富营养”; 3) refrigerator icon, label “保鲜”, description “延长保鲜 / 减少浪费”; 4) face profile with sparkles icon, label “美容”, description “自然呵护 / 焕亮肌肤”. Card colors from left to right: pale lemon yellow, lavender, pale blue, pale lemon yellow.
+
+Right image composition: Use realistic high-key photography of fresh lemons on a light stone surface: one large whole yellow lemon with green leaves at the upper right, one half lemon with visible juicy radial pulp in the center foreground, one lemon wedge at lower right, and a softly blurred yellow lemon in the background. Overlay modern rounded translucent geometric panels: a vertical lavender rounded rectangle at upper left with a tiny hand-drawn lemon doodle, and a large translucent neon-yellow rounded square/rectangle overlapping the lower-left of the photo with a green leaf crossing it. Keep the photo corners heavily rounded.
+
+Decorative details: At top left, add a small 3×3 dot motif, exactly 9 dots, using alternating lemon yellow, lavender, and pale blue. Keep all icons monoline black, typography bold and modern, with strong alignment and generous whitespace. Avoid extra text or additional cards.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2082993053535780888) | 2026-07-31
+
+---
+
+### 🎨 例 5493：三色调配色方案设计
+
+![三色调配色方案设计](../images/%E4%B8%89%E8%89%B2%E8%B0%83%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="colors" default="橄榄绿, 柠檬黄, 奶油白"}
+
+[English]
+{argument name="カラー" default="オリーブグリーン、レモンイエロー、クリームホワイト"}
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2082991183681438114) | 2026-07-31
+
+---
+

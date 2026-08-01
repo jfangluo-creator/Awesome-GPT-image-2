@@ -7614,3 +7614,255 @@ Luxury skincare campaign, Vogue Italia beauty editorial, high-fashion cosmetic a
 
 ---
 
+### 🧍 例 5453：角色设定提示词： “创建一个高级电影感
+
+![角色设定提示词： “创建一个高级电影感](../images/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%20%E2%80%9C%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E7%BA%A7%E7%94%B5%E5%BD%B1%E6%84%9F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+“创建一个高级电影感的角色设定集，主角是一位名叫 ACE 的赌场赌徒。请严格参考上传的角色设定图，确保其面部、身材、比例、发型、肤色和服装保持一致。请勿更改其外观。
+
+左侧：
+
+[English]
+“Create a premium cinematic character bible sheet for a casino gambler named ACE. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
+
+LEFT SIDE:
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2083149225823449431) | 2026-07-31
+
+---
+
+### 🧍 例 5457：从草图到现实的旅行笔记
+
+![从草图到现实的旅行笔记](../images/%E4%BB%8E%E8%8D%89%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请严格使用上传的人脸参考图，以确保角色的面部特征、发型、肤色、眼型、表情和整体相似度。旅行者拥有 {argument name="facial expression" default="自信而充满冒险精神的微笑"}，面部细节与参考图高度一致。他穿着 {argument name="outfit" default="休闲米色 T 恤、浅色牛仔夹克、修身工装裤、白色运动鞋"}，背着一个时尚的旅行背包。在他周围，微缩的 3D 旅行元素从笔记本中浮现，包括 {argument name="landmark" default="埃菲尔铁塔"}、热气球、雪山、棕榈树、复古飞机、旅行路标以及漂浮的护照印章，营造出一种奇幻的旅程效果。草图线条逐渐融入逼真的纹理，实现从绘画到现实的完美过渡。温暖的黄金时刻阳光照亮了木质桌面，投下柔和的电影级阴影，增强了深度感和真实感。照片级真实的笔记本纹理、浅景深、超精细混合媒介艺术、创意视觉错觉、电影级构图、旅行灵感氛围、杰作级质量、超写实渲染、非凡细节、8K 分辨率、专业概念艺术、从草图到现实的无缝转换。比例 4:5
+
+[English]
+Use the uploaded face reference exactly for the character’s facial features, hairstyle, skin tone, eye shape, expression, and overall likeness. The traveler has a {argument name="facial expression" default="confident adventurous smile"} and realistic facial details matching the reference image. He wears a {argument name="outfit" default="casual beige t-shirt, light denim jacket, slim-fit cargo pants, white sneakers"}, and carries a stylish travel backpack. Around him, miniature 3D travel elements emerge from the notebook, including the {argument name="landmark" default="Eiffel Tower"}, hot air balloons, snow-capped mountains, palm trees, a vintage airplane, travel signs, and floating passport stamps, creating a magical journey effect. The sketch lines gradually blend into realistic textures, producing a flawless transition from drawing to reality. Warm golden-hour sunlight illuminates the wooden desk, casting soft cinematic shadows and enhancing depth and realism. Photorealistic notebook textures, shallow depth of field, ultra-detailed mixed-media artwork, creative optical illusion, cinematic composition, travel-inspired atmosphere, masterpiece quality, hyper-realistic rendering, extraordinary detail, 8K resolution, professional concept art, seamless sketch-to-reality transformation.ratio 4:5
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2083123536181493801) | 2026-07-31
+
+---
+
+### 🧍 例 5463：角色一致性参考指令
+
+![角色一致性参考指令](../images/%E8%A7%92%E8%89%B2%E4%B8%80%E8%87%B4%E6%80%A7%E5%8F%82%E8%80%83%E6%8C%87%E4%BB%A4.jpg)
+
+**Prompt:**
+
+```text
+添付された参照画像を使用する。
+
+参照画像
+
+この画像は完成したキャラクターイラストである。
+
+キャラクター、衣装、背景、世界観の基準画像として使用する。
+```
+
+**来源：** [@Eris Create Lab](https://x.com/Eris_Create_Lab/status/2083079228002836991) | 2026-07-31
+
+---
+
+### 🧍 例 5475：保持面部特征的时尚肖像
+
+![保持面部特征的时尚肖像](../images/%E4%BF%9D%E6%8C%81%E9%9D%A2%E9%83%A8%E7%89%B9%E5%BE%81%E7%9A%84%E6%97%B6%E5%B0%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+使用上传的面部参考图作为确切的身份依据。以最大程度的身份保持力重现同一个人。面部必须保持不变且一眼即可辨认。匹配确切的面部结构、前额、眉毛、眼睛形状和间距、睫毛、鼻子形状和比例、嘴唇、微笑、下颌线、下巴、耳朵、肤色、皮肤纹理、面部比例以及每一个独特的面部特征。请勿美化、重新设计、风格化或生成不同的人。仅更改发型——不要使用参考图中的发型。为她设置 {argument name="hairstyle" default="自然中长款柔和波浪发型，带有轻盈的蓬松感，发丝自然垂落在脸颊两侧"}。保持 {argument name="outfit color" default="天黄色"} 的服装及配套帽子。全身姿势，一只手轻触帽檐。超写实 DSLR 图像，自然光，逼真的皮肤毛孔，时尚编辑摄影，温暖的阳光在浅色墙壁上投下斜影，{argument name="flower type" default="盛开的粉白色花朵"}，浅景深，RAW，8K，真实人物外观，无动漫感，无风格化，确保是同一个人。
+
+[English]
+Use the uploaded face reference as the exact identity. Recreate the same person with maximum identity preservation. The face must remain unchanged and instantly recognizable. Match the exact facial structure, forehead, eyebrows, eye shape and spacing, eyelashes, nose shape and proportions, lips, smile, jawline, chin, ears, skin tone, skin texture, facial proportions, and every unique facial characteristic. Do not beautify, redesign, stylize, or generate a different person. Only change the hairstyle—do not use the hairstyle from the reference image. Give her a {argument name="hairstyle" default="natural medium-length soft wavy hairstyle"} with gentle volume and loose strands framing the face. Keep the {argument name="outfit color" default="sky-yellow"} outfit with a matching cap. Full-body pose with one hand touching the cap brim. Ultra-photorealistic DSLR image, natural lighting, realistic skin pores, editorial fashion photography, warm sunlight casting diagonal shadows on a light-colored wall, {argument name="background flowers" default="blooming pink and white flowers"}, shallow depth of field, RAW, 8K, true human appearance, no anime, no stylization, exact same person.
+```
+
+**来源：** [@Mahnoor Fatima](https://x.com/MahnoorAi12/status/2083041939432350050) | 2026-07-31
+
+---
+
+### 🧍 例 5478：里斯本旅行角色设定集
+
+![里斯本旅行角色设定集](../images/%E9%87%8C%E6%96%AF%E6%9C%AC%E6%97%85%E8%A1%8C%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E9%9B%86.jpg)
+
+**Prompt:**
+
+```text
+使用参照：
+本指示書と同時に添付された全身参照画像1枚
+実写人物または人物イラストのどちらにも対応する
+
+本文：
+添付された全身参照画像1枚を唯一の人物参照として使用し、1:1スクエアの共有用・人物参照兼用の簡易キャラクターシートを1枚作成する。完成画像は、画像単体で公開・共有できる完成度と見栄えを持ちながら、{argument name="旅行先" default="リスボン"}を旅する{argument name="性別" default="女性"}1人の顔、髪、年齢感、体型、3種類の旅行衣装、配色、靴、バッグを明確に確認できる人物固定用シートとする。異なる人物を含めず、すべての人物表示を参照人物と同一人物として維持する。ストーリーボードにはしない。時間経過、場面展開、観光風景、物語上の出来事は描かない。
+
+【参照画像の適用範囲】
+実写参照の場合は、参照人物の特徴を維持したまま、高品質で自然な実写表現に仕上げる。アニメまたはイラスト参照の場合は、参照人物の特徴を維持した、自然で高品質な実写人物へ変換する。
+参照画像から、以下を継承する。
+・顔立ち
+・目元
+・輪郭
+・鼻と口元
+・前髪
+・髪型
+・髪色
+・髪の長さ
+・分け目
+・顔まわりの毛束
+・年齢感
+・肌の印象
+・身長感
+・頭身
+・体型
+・肩幅
+・腕と脚の長さ
+・全身比率
+・参照人物が持つ固有の雰囲気
+
+人物を過度に美化したり、幼くしたり、老けさせたり、別人へ変更したりしない。小顔化、脚長化、細身化、身体の誇張、別のモデル体型への変更を行わない。参照画像の衣装、靴、装飾品、小物、衣装配色、背景、ポーズは継承しない。参照画像の衣装要素を完成画像へ残さず、本指示書で指定する旅行用の3衣装へ完全に変更する。
+
+【表現と仕上がり】
+高品質で自然な実写表現。明るく清潔感があり、洗練され、共有画像として人物とファッションの魅力が一目で伝わる仕上がりにする。実用資料としての分かりやすさを持たせながら、人物の魅力、衣装の華やかさ、画面全体のデザイン性を損なわない。無機質な通販カタログ、量産的なファッションEC画像、保守的な婦人服広告、単調な証明写真の集合にはしない。
+
+【人物の共通状態】
+すべての表示で、同じ顔立ち、同じ髪型、同じ髪色、同じ年齢感、同じ体型、同じ身長感、同じ頭身、同じ全身比率を維持する。髪型と髪色は参照画像どおりに維持し、衣装ごとに結び方、長さ、分け目、前髪を変更しない。表情は、人物の魅力が自然に伝わる、落ち着いた通常表情を基本とする。過度な笑顔、強すぎる決め顔、衣装ごとに別人格へ見える表情差は入れない。
+
+【衣装コンセプト】
+テーマは、旅行先で朝から夜まで旅を楽しむ、若く洗練された女性旅行者である。3衣装は、それぞれ単独で魅力的でありながら、同じ女性が一回の旅行のために選んだ統一感のあるワードローブとして設計する。全体の方向性は以下とする。
+・きれいめ寄り
+・カジュアルすぎない
+・保守的すぎない
+・若く洗練されている
+・女性らしい
+・旅先の写真として映える
+・明るい光、青と白のタイル、暖かな街並み、川辺、夜の街に似合う
+歩きやすさだけを優先した地味な観光服にはしない。ロゴ、ブランド名、文字柄、過度な装飾、過剰なフリル、派手すぎる柄は入れない。
+
+【丈感とシルエットの変化】
+3衣装の丈とシルエットを明確に変える。3着とも同じミディ丈、同じ裾位置、同じワンピース形状にはしない。
+・Outfit A：ふくらはぎ下部程度の長めミディ丈
+・Outfit B：前側は膝下、後ろ側はふくらはぎ中央程度の軽いアシンメトリー・ミディ丈
+・Outfit C：膝上の短め丈
+3着を横に並べたとき、朝、昼、夜の変化が明確に分かるようにする。
+
+【指定衣装】
+01 OUTFIT A
+朝の展望台や坂道の散策を想定した、爽やかな旅行スタイル。
+・アイボリーの上品なノースリーブ・リブニットトップス
+・青と白のアズレージョを思わせる柄のハイウエスト・フレアスカート
+・スカート丈は、ふくらはぎ下部程度の長めミディ丈
+・細いストラップを使った上品なフラットサンダル
+・小さめのキャメル系クロスボディバッグ
+・控えめで洗練されたアクセサリー
+白いスニーカーは使用しない。
+
+印象：
+・爽やか
+・明るい朝の光に映える
+・旅行先らしい色と模様を感じる
+・軽やかで女性らしい
+・旅の始まりにふさわしい華やかさがある
+02 OUTFIT B
+昼のカフェや市街地の散策を想定した、明るく華やかな旅行スタイル。
+・コーラル寄りのテラコッタ色のラップワンピース
+・自然なVネック
+・短いフレアスリーブ
+・ウエストを美しく見せるサイド結び
+・柔らかなドレープと動きのある裾
+・前側は膝下、後ろ側はふくらはぎ中央程度の軽いアシンメトリー・ミディ丈
+・華奢なローヒールサンダル
+・小さめの洗練された編みバッグ
+重く直線的なシャツワンピースにはしない。
+
+印象：
+・3着の中で最も明るく親しみやすい
+・写真映えする
+・旅を楽しむ女性らしい華やかさがある
+・昼の暖かな街並みに似合う
+03 OUTFIT C
+夕方から夜の川辺を想定した、大人っぽく華やかな旅行スタイル。
+・深いワインレッドのノースリーブ・ドレープワンピース
+・肩とデコルテが自然に美しく見えるデザイン
+・ウエストから腰にかけて、片側へ流れる上品なドレープ
+・膝上の短め丈
+・裾は完全な水平ではなく、控えめなアシンメトリーを入れる
+・華奢なストラップのローヒールサンダル
+・小さめのボルドー系ショルダーバッグ
+・控えめな金属アクセサリー
+カーディガン、ジャケット、ショール、ストール、ボレロなどの羽織りは一切使用しない。過度に保守的な夜服にはせず、ワンピース単体で洗練された夜の華やかさを成立させる。ただし、過度な露出、極端なミニ丈、パーティードレス化、ナイトクラブ衣装化は避ける。
+
+印象：
+・3着の中で最も大人っぽい
+・夜の街に映える
+・ロマンチックで洗練されている
+・保守的すぎず、自然な華やかさがある
+04 SPECIAL LOOK
+04 SPECIAL LOOKは、新しい第4衣装にはしない。02 OUTFIT Bと完全に同じ衣装、靴、バッグ、アクセサリーを使用する。コーラル系ラップワンピースを着た、01〜03より大きな全身3/4ビューとする。人物の魅力、衣装のシルエット、柔らかな裾の動きが伝わる、自然で軽やかな静止ポーズにする。走行、跳躍、ダンスなどの物語的な動作にはしない。04の背後にのみ、コーラル系の平面色または控えめな幾何学的色面を配置してよい。風景、建物、室内、道路、観光地は入れない。
+
+【配色】
+今回の配色は以下で固定する。
+・Outfit A：アズレージョ系ブルー、ホワイト、アイボリー、キャメル
+・Outfit B：コーラル寄りテラコッタ、キャメル、自然なブラウン
+・Outfit C：深いワインレッド、ボルドー
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2083034330025386325) | 2026-07-31
+
+---
+
+### 🧍 例 5489：暗影幽灵三视图
+
+![暗影幽灵三视图](../images/%E6%9A%97%E5%BD%B1%E5%B9%BD%E7%81%B5%E4%B8%89%E8%A7%86%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为无面幽灵创建一个暗黑奇幻角色概念图，展示全身服装/生物设计三视图。
+
+画布：宽幅横向工作室概念艺术画布，比例约为 16:9，灰度单色，中性浅灰色背景，柔和均匀的灯光，无环境，无道具，无文字。
+
+布局：展示同一个角色的 3 个全身视图，从左到右均匀排列：1 个正面视图、1 个左侧面视图和 1 个背面视图。三个形象均直立，手臂轻微下垂远离身体，双脚隐藏在长长的拖地长袍下，垂直居中，下摆几乎触及底部边缘。
+
+主体细节：该角色为 {argument name="character archetype" default="类似无脸男的暗黑幽灵"}，身材高大修长，全身覆盖着层层叠叠的黑色破烂长袍。服装由许多破烂、撕碎的布条组成，带有撕裂的三角形边缘、磨损的破洞、垂坠的褶皱以及在地面汇聚并收窄的长拖尾下摆。轮廓带有兜帽和斗篷，阴森恐怖，除了苍白的爪状手指外，没有可见的皮肤。正面和侧面视图显示兜帽下有一个光滑的白色椭圆形面具，面具上有两条狭窄的水平黑色眼缝、两个短脸颊标记和一个宽大的深色咧嘴笑口。背面视图仅显示黑色兜帽和层层叠叠的破烂斗篷，看不到面具。
+
+手部与爪子：每只可见的手都有 5 个长而弯曲的白色爪子，纤细如鹰爪，从破烂的黑色袖子中伸出。在正面视图中，双手可见，总共 10 个爪子；在侧面视图中，可见靠近的一只手有 5 个爪子，以及另一只手部分被遮挡的爪子；在背面视图中，双手垂在身体两侧，总共可见 10 个爪子。
+
+材质与纹理：强调粗糙的布料纹理、撕裂的纱布、做旧的织物、厚重的褶皱、哑光黑色层、微妙的灰色高光和磨损的边缘。面具光滑如瓷，纯白色，与深色长袍形成强烈对比。
+
+视觉风格：{argument name="visual style" default="电影级灰度生物概念艺术"}，写实服装设计，高细节恐怖角色图，对称工作室展示，人物下方有柔和阴影，轮廓清晰，氛围阴森而优雅。
+
+约束：使用 3 个视图，不要添加额外角色。保持图像为单色，仅使用灰色调阴影。不要添加场景、武器、排版、Logo 或水印。保持干净的中性背景和专业的制作设计参考图外观。
+
+[English]
+Goal: Create a dark fantasy character concept sheet for a ghostly faceless spirit, shown as a full-body costume/creature design turnaround.
+
+Canvas: Wide horizontal studio concept-art canvas, approximately 16:9, grayscale monochrome, neutral light-gray background, soft even lighting, no environment, no props, no text.
+
+Layout: Show exactly 3 full-body views of the same character, evenly spaced from left to right: 1 front view, 1 left side profile view, and 1 rear view. All three figures stand upright with arms hanging slightly away from the body, feet hidden under long trailing robes, centered vertically with their hems nearly touching the bottom edge.
+
+Subject details: The character is {argument name="character archetype" default="a No-Face-like dark ghost spirit"}, tall and slender, fully covered in layered black tattered robes. The garment is made of many ragged, shredded strips of cloth, with torn triangular edges, frayed holes, draping folds, and long trailing hems that pool and taper near the floor. The silhouette is hooded, cloaked, and ominous, with no visible skin except pale claw-like fingers. The front and side views show a smooth white oval mask under the hood, featuring two narrow horizontal black eye slits, two short cheek marks, and a wide dark grinning mouth. The back view shows only the black hood and layered ragged cloak with no mask visible.
+
+Hands and claws: Each visible hand has exactly 5 long curved white claws, thin and talon-like, extending from ragged black sleeves. In the front view, both hands are visible with 10 total claws; in the side view, the nearer hand is visible with 5 claws and a few partially obscured claws from the far hand; in the rear view, both hands hang at the sides with 10 total claws visible.
+
+Material and texture: Emphasize rough cloth texture, torn gauze, distressed fabric, heavy folds, matte black layers, subtle gray highlights, and worn edges. The mask is smooth, porcelain-like, stark white, and contrasts strongly with the dark robes.
+
+Visual style: {argument name="visual style" default="cinematic grayscale creature concept art"}, realistic costume design, high-detail horror character sheet, symmetrical studio presentation, soft shadows under the figures, sharp silhouette, eerie but elegant mood.
+
+Constraints: Use exactly 3 views and no extra characters. Keep the image monochrome except for tonal gray shading. Do not add scenery, weapons, typography, logos, or watermarks. Maintain a clean neutral background and a professional production-design reference sheet look.
+```
+
+**来源：** [@逸尘](https://x.com/gengdaJ/status/2082999197662679318) | 2026-07-31
+
+---
+

@@ -3826,3 +3826,22 @@ Bottom callouts: under the left column, place a red outlined rounded status bar 
 
 ---
 
+### 📊 例 5483：民族方言信息图表美学排版
+
+![民族方言信息图表美学排版](../images/%E6%B0%91%E6%97%8F%E6%96%B9%E8%A8%80%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E7%BE%8E%E5%AD%A6%E6%8E%92%E7%89%88.jpg)
+
+**Prompt:**
+
+```text
+主题：{argument name="主题" default="10 个少数民族，方言如何说：早安"} 
+一共 10 张，每个都是一个名字主题 不同的排版 
+每个图片要有 3-5 个知识点、不同的信息呈现方式 
+专业收藏级的排版 and 字体 
+比例 3:4 
+不要有序列号逻辑
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2083008371448528896) | 2026-07-31
+
+---
+

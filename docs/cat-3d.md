@@ -6501,3 +6501,89 @@ A 4-view character reference sheet of a stylish {argument name="age" default="20
 
 ---
 
+### 🧸 例 5437：3D 皮克斯风格卡通肖像
+
+![3D 皮克斯风格卡通肖像](../images/3D%20%E7%9A%AE%E5%85%8B%E6%96%AF%E9%A3%8E%E6%A0%BC%E5%8D%A1%E9%80%9A%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超高端、超精细的 3D 卡通肖像，主角是一位极具感染力的快乐年轻女性，拥有夸张的大头和比例完美的小巧身体。她留着 {argument name="hair style" default="时尚的深棕色凌乱短发精灵头"}，发丝层次柔软且富有质感；一双巨大的深棕色明眸俏皮地向上看，配以长长的卷翘睫毛、自然浓密的眉毛、透亮的瓷肌、红润的脸颊，以及露出整齐洁白牙齿的灿烂笑容，瞬间传递出幸福感。
+她佩戴着优雅的珍珠耳钉，穿着一件 {argument name="outfit" default="闪烁着玫瑰粉色光泽的缎面衬衫"}，衣物带有细微的闪光高光和卷起的袖口，搭配一条质感奢华、垂坠感极佳的黑色中长裙，脚踩亮面芥末黄设计师高跟鞋。她俏皮地提着衬衫两侧，以自信活泼的姿态站立，单膝微屈，勾勒出充满活力且迷人的轮廓。
+在她身后，是一个巨大的半透明单色肖像，呈现出同样的快乐面容，与 {argument name="background" default="由火橙色、金黄色和暖琥珀色水彩纹理构成的绝美背景"} 柔和融合，背景中点缀着发光粒子、油漆飞溅、梦幻的焦外成像光斑和微妙的光束，营造出深度与视觉张力。
+右下角呈现出优雅的手写白色书法字样“You Look Beautiful”，周围环绕着精致的蝴蝶、小爱心、闪烁的星星、花卉装饰和优美的涡旋纹饰，与整体构图完美融合。
+风格：皮克斯级 3D 卡通，迪士尼风格魅力，高端数字插画，电影级光效，体积光，HDR 调色，光泽渲染，超写实纹理，生动的面部特征，鲜艳的暖色调，奢华海报设计，完美的构图，清晰对焦，杂志封面美学，社交媒体优化，极具分享价值，情感治愈，杰作，获奖艺术品，8K 超高清，极致细节，3:4 竖屏比例。
+
+[English]
+Create an ultra-premium, hyper-detailed 3D caricature portrait of an irresistibly cheerful young woman with an oversized head and a tiny, perfectly proportioned body. She has a {argument name="hair style" default="stylish short tousled dark-brown pixie haircut"} with soft textured layers, huge sparkling dark brown eyes looking playfully upward, long curled eyelashes, naturally thick eyebrows, glowing porcelain skin, rosy cheeks, and a dazzling open smile with perfectly aligned white teeth that instantly radiates happiness.
+She wears elegant pearl stud earrings, a {argument name="outfit" default="shimmering rose-pink satin button-up blouse"} with subtle glitter highlights and rolled sleeves, a luxurious flowing black midi skirt with realistic fabric movement, and glossy mustard-yellow designer heels. She playfully holds the sides of her blouse while standing in a lively, confident pose with one knee slightly bent, creating an energetic and charming silhouette.
+Behind her is an enormous semi-transparent monochrome portrait of the same joyful face, softly blended into a {argument name="background" default="breathtaking background of fiery orange, golden yellow, and warm amber watercolor textures"} with glowing particles, paint splashes, dreamy bokeh lights, and subtle light rays that create depth and visual drama.
+Elegant hand-lettered white calligraphy reading "You Look Beautiful" appears in the lower-right corner, surrounded by delicate butterflies, tiny hearts, sparkling stars, floral flourishes, and graceful ornamental swirls, seamlessly integrated into the composition.
+Style: Pixar-quality 3D caricature, Disney-inspired charm, premium digital illustration, cinematic lighting, volumetric glow, HDR color grading, glossy rendering, ultra-realistic textures, expressive facial features, vibrant warm palette, luxury poster design, immaculate composition, crisp focus, magazine-cover aesthetics, social-media optimized, highly shareable, emotionally uplifting, masterpiece, award-winning artwork, 8K ultra-HD, razor-sharp details, vertical 3:4 aspect ratio.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2083198616253223207) | 2026-07-31
+
+---
+
+### 🧸 例 5455：3D Pixar Q 版角色转换
+
+![3D Pixar Q 版角色转换](../images/3D%20Pixar%20Q%20%E7%89%88%E8%A7%92%E8%89%B2%E8%BD%AC%E6%8D%A2.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+将上传的人物转换为温馨的 Pixar 风格 3D Q 版场景，同时保留参考图像中精准的面部特征、脸型结构、发型、肤色、表情、服装、配色以及极具辨识度的外观。
+
+格式锁定
+垂直 3:4 构图。简洁的白色无缝摄影棚背景。明亮的居中构图。高级贺卡美学。巨大的文本保持为场景的核心结构。
+
+身份锁定
+保留上传图像中精准的面部特征、发型、肤色、身体比例、服装、鞋子以及整体身份。请勿重新设计面部或更改服装。
+
+主要角色
+创建一个高级 Pixar 风格的 3D Q 版人物，让其舒适地坐在巨大的 3D 柔和色调字母上方，字母拼写为“{argument name="text" default="GOOD MORNING"}”。角色应面带温暖的微笑，并保持“{argument name="character pose" default="relaxed pose while holding a ceramic coffee mug"}”。马克杯应保持简洁，无可见文字或 Logo。
+
+迷你角色
+在主要角色周围环绕多个可爱的人物迷你版，每个迷你角色都在“{argument name="mini activities" default="performing a different cheerful morning activity: pouring coffee, holding an encouraging sign, enjoying a coffee, reading a book, watering a small plant, hugging a pink heart, serving a cupcake, and raising a motivational chalkboard"}”。每个迷你角色都必须在俏皮的 Pixar 风格设计中保持相同且可辨识的面部特征。
+
+装饰
+包含可爱的咖啡杯、拉花、小植物、郁金香、一只橘色小猫、带有积极信息的木制标牌、柔软的心形图案、精致的涂鸦以及温馨的装饰元素。保持场景平衡、整洁且不杂乱。
+
+光影与风格
+柔和的自然摄影棚光效。温暖的柔和色调配色。高级 Pixar 风格 3D 角色设计。富有表现力的面部。高质量纹理。温馨的早晨氛围。极简而充满活力的构图。奢华动画电影美学。超细节 8K 渲染。
+
+负面提示词
+避免低质量、模糊细节、面部扭曲、身份改变、服装更改、肢体多余、主要角色重复、解剖结构错误、塑料质感、构图杂乱、光线昏暗、阴影生硬、Logo、水印、文本伪影或不真实的 3D 渲染。
+
+[English]
+Transform the uploaded person into a heartwarming Pixar-inspired 3D chibi scene while preserving the exact facial identity, facial structure, hairstyle, skin tone, expression, outfit, colors, and recognizable appearance from the reference image.
+
+FORMAT LOCK
+Vertical 3:4 composition. Clean white seamless studio background. Bright centered composition. Premium greeting-card aesthetic. The giant text remains the central structure of the scene.
+
+IDENTITY LOCK
+Preserve the exact facial features, hairstyle, skin tone, body proportions, outfit, shoes, and overall identity from the uploaded image. Do not redesign the face or change the clothing.
+
+MAIN CHARACTER
+Create a premium Pixar-style 3D chibi version of the uploaded person sitting comfortably on top of giant pastel 3D letters spelling "{argument name="text" default="GOOD MORNING"}." The character should have a warm smile and {argument name="character pose" default="relaxed pose while holding a ceramic coffee mug"}. The mug should remain simple with no visible text or logo.
+
+MINI CHARACTERS
+Surround the main character with multiple adorable miniature versions of the same person, each {argument name="mini activities" default="performing a different cheerful morning activity: pouring coffee, holding an encouraging sign, enjoying a coffee, reading a book, watering a small plant, hugging a pink heart, serving a cupcake, and raising a motivational chalkboard"}. Every mini character must preserve the same recognizable facial identity in a playful Pixar-style design.
+
+DECORATION
+Include cute coffee cups, latte art, tiny plants, tulips, a small orange kitten, wooden signs with positive messages, soft hearts, subtle doodles, and cozy decorative elements. Keep the scene balanced, clean, and uncluttered.
+
+LIGHTING & STYLE
+Soft natural studio lighting. Warm pastel color palette. Premium Pixar-inspired 3D character design. Expressive faces. High-quality textures. Cozy morning atmosphere. Minimal yet vibrant composition. Luxury animated-film aesthetic. Ultra-detailed 8K rendering.
+
+NEGATIVE PROMPT
+Avoid low quality, blurry details, distorted face, changed identity, altered outfit, extra limbs, duplicate main character, bad anatomy, plastic textures, cluttered composition, dark lighting, harsh shadows, logos, watermarks, text artifacts, or unrealistic 3D rendering.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2083130474075918811) | 2026-07-31
+
+---
+

@@ -3489,3 +3489,57 @@ Use the uploaded reference photo ONLY for facial identity. Preserve the exact fa
 
 ---
 
+### 🔧 例 5438：三机合体阵容
+
+![三机合体阵容](../images/%E4%B8%89%E6%9C%BA%E5%90%88%E4%BD%93%E9%98%B5%E5%AE%B9.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张高细节的竖版科幻概念艺术图，展示三台未来派可变形战斗机甲在巨大的白银色轨道机库内进行“合体序列”的排队场景。采用居中、完全对称的俯视/高角度四分之三视角，沿长跑道向下望去，三台单元从上到下排成一条直线，仿佛正在等待合体成一个巨大的机器人。机库地面为带有面板接缝的光泽浅色金属，配有蓝色发光引导条、嵌入式轨道以及左右两侧高大的机械支撑塔。在每个单元周围添加电蓝色能量弧、发光的推进器光环和全息光晕效果。
+
+主体细节：包含 3 台独立的机甲单元，每台单元下方或附近都有清晰的地面标签：1) 顶部单元标记为“UNIT 03 SHADOW”，是一台流线型的白、黑、蓝三色翼状隐形无人机机甲，带有八个锋利的放射状机翼/鳍片组件和尖锐的机头；2) 中间单元标记为“UNIT 02 BULLDOG”，是一台厚重的黑、灰、白三色坦克式装甲机甲，带有履带、笨重的矩形肩部武器、向外抬起的巨大铰接式机械臂以及中央炮管；3) 底部单元标记为“UNIT 01 RAIJIN”，是最大的红、白、黑及枪灰色喷气式机甲，带有双圆柱形引擎舱、棱角分明的红色翼甲、长长的深色驾驶舱机头以及蓝色推进器光芒。让底部单元占据前景，中间单元位于中心，顶部单元在远处显得较小。
+
+文字内容：在地面上以紧凑的未来派 HUD 字体清晰渲染三个标签：“UNIT 03 SHADOW”为蓝色，“UNIT 02 BULLDOG”为橙色，“UNIT 01 RAIJIN”为红白相间。可选自定义：单元名称可为 {argument name="unit names" default="UNIT 03 SHADOW, UNIT 02 BULLDOG, UNIT 01 RAIJIN"}。
+
+视觉风格：超精细硬表面机甲设计，电影级日本机器人动画灵感，照片级 CGI 渲染，清晰的面板线条、微型贴花、金属斜角、外露活塞、武器挂架、发光蓝色 LED、体积光、干净的未来工业环境、高对比度但明亮的白色机库照明。使用 4:5 竖构图，对称布局，全景清晰对焦，无人物，无遮挡单元的烟雾，除上述三台单元外无额外机器人。
+
+[English]
+Create a high-detail vertical sci-fi concept art scene showing a “combination sequence” lineup of three futuristic transformable combat mecha vehicles inside a vast white-and-silver orbital hangar. Use a centered, perfectly symmetrical top-down / high three-quarter perspective looking down a long runway, with the three units aligned in a straight vertical column from top to bottom, as if waiting to combine into one giant robot. The hangar floor is glossy pale metal with panel seams, blue illuminated guide strips, recessed tracks, and tall mechanical support pylons along both left and right sides. Add electric blue energy arcs, glowing thruster halos, and holographic aura effects around each unit.
+
+Subject details: include exactly 3 discrete mecha units, each with a visible floor label directly beneath or near it: 1) top unit labeled “UNIT 03 SHADOW”, a sleek white, black, and blue winged stealth fighter-drone mecha with eight sharp radiating wing/fin assemblies and a pointed nose; 2) middle unit labeled “UNIT 02 BULLDOG”, a heavy black, gray, and white tank-like armored mecha with caterpillar treads, bulky rectangular shoulder weapons, large articulated mechanical arms raised outward, and a central cannon barrel; 3) bottom unit labeled “UNIT 01 RAIJIN”, the largest red, white, black, and gunmetal jet-mecha with twin cylindrical engine pods, angular red wing armor, a long dark cockpit nose, and blue thruster glow. Make the bottom unit dominate the foreground, the middle unit occupy the center, and the top unit appear smaller in the distance.
+
+Text content: render the three labels clearly in a compact futuristic HUD font on the floor: “UNIT 03 SHADOW” in blue, “UNIT 02 BULLDOG” in orange, and “UNIT 01 RAIJIN” in red and white. Optional customization: the unit names may be {argument name="unit names" default="UNIT 03 SHADOW, UNIT 02 BULLDOG, UNIT 01 RAIJIN"}.
+
+Visual style: ultra-detailed hard-surface mecha design, cinematic Japanese robot-anime inspiration, photorealistic CGI rendering, crisp panel lines, micro decals, metallic bevels, exposed pistons, weapon mounts, glowing blue LEDs, volumetric light, clean futuristic industrial environment, high contrast but bright white hangar lighting. Use a vertical 4:5 composition, symmetrical layout, sharp focus throughout, no people, no smoke obscuring the units, no extra robots beyond the three listed units.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2083198061069930910) | 2026-07-31
+
+---
+
+### 🔧 例 5470：角色遛狗场景
+
+![角色遛狗场景](../images/%E8%A7%92%E8%89%B2%E9%81%9B%E7%8B%97%E5%9C%BA%E6%99%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以提供的参考图像为角色基础，在新的户外场景中重新生成同一角色，同时保留其可辨识的设计、服装、粗黑色轮廓以及纹理感的手绘/卡通外观。将姿势改为向前行走，一只手牵着红色牵引绳，并添加一个小汗滴表情以表现尴尬或犹豫。
+
+在角色旁边添加一只可爱的柴犬，由牵引绳牵着：橙色毛发、卷尾、红色项圈、开心的张嘴表情，具有粗黑色轮廓和相匹配的绘画纹理。
+
+场景设定在岩石河岸小径上，中间有一条横向流动的蓝色河流，散布着岩石，两侧有绿色灌木/树木，天空湛蓝，左上方有且仅有 1 朵大白云。在右上角添加 1 个由 2 个小气泡点连接的白色气泡对话框，其中包含黑色竖排日语文本 {argument name="thought bubble text" default="あつい…"}。
+
+风格：使整张图像看起来像是一幅大胆的儿童插画，采用厚涂丙烯或油画纹理绘制，具有明显的笔触、饱和的色彩、厚实的黑色轮廓、趣味的比例以及近乎正方形的横向构图。避免写实主义、渐变、细线条艺术或多余的文字。
+
+[English]
+Using REFERENCE_0 as the character base, expand it into a full illustrated outdoor scene while keeping the same bold black outline, hand-painted texture, and recognizable character design. Change the character from a static standing pose into a walking pose, holding exactly 1 red leash in their right hand, with exactly 1 sweat drop on the face and a slightly tired expression. Add exactly 1 small dog, {argument name="dog breed" default="Shiba Inu"}, walking in front of the character on the leash, happy and energetic with its mouth open and curled tail. Place them in {argument name="setting" default="a sunny riverside path"}: blue river behind them, green trees along the banks, sandy ground with scattered dark stones, and a bright blue sky. Add exactly 1 white cartoon cloud in the upper left. Add exactly 1 white thought bubble in the upper right with exactly 2 small connector dots, containing vertical Japanese text {argument name="thought bubble text" default="あつい..."}. Keep the composition landscape-oriented, with the dog on the left and the character on the right, both facing left as if walking together. Maintain a chunky oil-paint/impasto surface texture, vivid colors, simple cartoon shapes, thick black borders, and no photorealism.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2083050260331676011) | 2026-07-31
+
+---
+

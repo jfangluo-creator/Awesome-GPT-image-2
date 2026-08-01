@@ -24683,3 +24683,336 @@ Constraints: Keep the boat as the single dominant horizontal object in the lower
 
 ---
 
+### 🎴 例 5433：奢华腕表样机广告
+
+![奢华腕表样机广告](../images/%E5%A5%A2%E5%8D%8E%E8%85%95%E8%A1%A8%E6%A0%B7%E6%9C%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+设计一款奢华腕表样机，背景为 {argument name="background" default="深色背景"}，搭配 {argument name="highlights" default="金色高光"} 和 {argument name="strap type" default="皮质表带"}，呈现光泽反射效果，采用高端珠宝广告风格。
+
+[English]
+Design a luxury wristwatch mockup with {argument name="background" default="dark background"}, {argument name="highlights" default="gold highlights"}, {argument name="strap type" default="leather strap"}, glossy reflections, and premium jewelry advertisement style.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2083239716271313372) | 2026-07-31
+
+---
+
+### 🎴 例 5439：高端 6 格烤肉系列营销活动
+
+![高端 6 格烤肉系列营销活动](../images/%E9%AB%98%E7%AB%AF%206%20%E6%A0%BC%E7%83%A4%E8%82%89%E7%B3%BB%E5%88%97%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为名为 EMBER WRAP 的虚构烤肉品牌创建一张超高端的 2x3 六格商业海报。结合 Milk Cloud Orbit 的触感丰盈与 Cream Halo Transit 的结构严谨，同时扩大负空间，加强色块节奏，并使烤肉与大饼之间的互动更具雕塑感和高端感。最终画面必须具有世界级旗舰街头美食营销广告的质感：图形化、超写实、令人垂涎且具有收藏级品质，六个高度自律的微型海报共同构成一个高端的整体布局。仅使用英文品牌标识。
+
+核心布局：
+采用严格的 2x3 六格网格，六个面板大小一致。整体布局必须极具控制感、宽敞且高端，每个面板内部留白更多，且在整个 2x3 结构中具有更强的视觉节奏。每个面板都应被视为成熟品牌活动的一部分，而非随机拼贴。最终海报必须具有图形感、有序感并可直接发布。
+
+Milk Cloud Orbit 强化：
+在每个面板中进一步推向触感真实。烤肉必须显示出更丰富的纤维、更深的焦边、更好的油脂渲染、更多汁的切面以及更高端的烘烤光泽。大饼必须感觉更温暖、更柔软、有更多焦斑且更具触感。白酱、奶油或浓郁酱汁的细节在应用处必须感觉更粘稠、更有物理重量感。蔬菜、碎屑、香料点缀、香料粉末和微小的油脂高光都必须感觉更锐利，达到收藏级品质。
+
+Cream Halo Transit 精炼：
+加强所有六个面板的品牌系统纪律。统一标题层级、描述文字位置、品牌组合标识、可选辅助文字以及视觉节奏。六个面板必须感觉像是一个精致的高端美食品牌系列。食物、文字和色彩的排列必须感觉更加一致、成熟且经过精心的艺术指导。
+
+面板内容逻辑：
+六个面板必须包含：
+1. 垂直肉串或堆叠烤肉主角图
+2. 卷起的大饼肉卷
+3. 带有高端酱汁浇筑的盘装切片肉
+4. 铺满肉和新鲜蔬菜的开口大饼
+5. 雕刻或刀切肉的特写主角图
+6. 带有配菜互动的盘装肉饼组合
+三个面板应强调独立的烤肉主角形式，三个面板应强调肉与大饼的搭配。每个面板必须保持独特，同时明确属于同一系列。
+
+负空间：
+增加每个面板内的内部呼吸空间。不要让食物或文字显得拥挤。让烤肉、大饼和配菜结构占据更清晰、更独立的视觉区域，使构图感觉更高端、更具营销价值。留白必须感觉是刻意而为且昂贵的。
+
+色块节奏：
+至关重要。将六格背景系统推向更强、更自律的节奏。使用协调的高端饱和色调，如深红、焦橙、炭黑、鼠尾草绿、暖芥末色和深酒红，按照视觉上的音乐顺序排列在网格中。六个面板的色彩强度必须平衡，光暗色块交替更加清晰。
+
+雕塑感食物互动：
+至关重要。在组合面板中，使烤肉与大饼之间的关系更具雕塑感和设计感。饼不应只是垫在肉下面；它应该以一种优雅高端的方式包裹、承托、环绕、框定或层叠肉类。观众应能感受到肉饼关系是一种经过设计的食物形态，而非杂乱的休闲卷饼。
+
+主角食物逻辑：
+烤肉必须感觉超写实且高端：焦边、多汁纤维、焦糖色泽、鲜嫩切面、逼真的油脂渲染和浓郁的烘烤色彩。大饼必须感觉温暖、柔软、略带焦斑且物理真实感强。蔬菜如生菜、番茄、洋葱、香草或腌制配料应感觉新鲜且受控。
+
+排版与品牌：
+使用英文品牌标识，虚构一个高端身份：
+品牌：EMBER WRAP
+广告语：FIRE. SLICE. WRAP.
+根据需要添加简短的面板特定名称，例如：
+SPIT ROAST（串烤）
+WRAP SUPREME（至尊卷饼）
+CREAMY CARVE（奶油切肉）
+STACKED FLATBREAD（堆叠大饼）
+CHAR KNIFE CUT（焦香刀切）
+MEAT & BREAD FEAST（肉饼盛宴）
+排版必须大胆、图形化且经过艺术指导，具有比以往更严谨的层级和间距系统。文字必须支撑食物，而非压过食物。
+
+灯光：
+使用极其细腻但具有高冲击力的商业灯光。每个面板必须具有丰富的空间感，通过高端的高光衰减来塑造烤肉质地、饼面、酱汁、蔬菜和碎屑。所有六个面板的灯光必须足够连贯以统一整个广告活动，同时允许细微的面板内部变化。
+
+材质写实：
+将写实度推向极致。肉必须感觉多汁、微焦、纹理清晰且刚下火。大饼必须感觉柔软温暖，带有褐色的焦斑。酱汁或奶油淋汁必须感觉有光泽且有物理重量感。蔬菜必须感觉清脆新鲜。所有表面必须呈现出物理上令人信服且令人垂涎的质感。
+
+氛围：
+大胆的烤肉痴迷感、高端街头美食的精致、六格广告系列秩序、雕塑般的食物互动、收藏级的食欲写实、现代品牌自信。
+
+渲染风格：
+超高端烤肉广告海报，2x3 六格营销设计，Milk Cloud Orbit 触感增强，Cream Halo Transit 品牌系统精炼，扩大的负空间，更强的色块节奏，更多雕塑感的肉饼互动，精炼的英文品牌，柔和的电影级商业灯光，极端的肉类和面包纹理写实，世界级美食广告审美，8k。
+
+负向提示词：
+廉价外卖传单，拥挤的网格，低细节肉类，虚假面包质感，凌乱的酱汁，卡通渲染，过大的文字，不一致的品牌标识，低分辨率纹理，油腻的混乱，面板区分度弱，廉价快餐风格，负空间不足，色彩节奏弱
+
+[English]
+Create an ultra-premium 2x3 six-panel commercial poster for a fictional grilled-meat brand called EMBER WRAP, combining the tactile richness of Milk Cloud Orbit with the structural discipline of Cream Halo Transit, while enlarging the negative space, strengthening the color-block rhythm, and making the interaction between grilled meat and flatbread feel more sculptural and premium. The final image must feel like a world-class flagship street-food campaign: graphic, hyper-realistic, craveable, and collector-grade, with six highly disciplined mini-posters functioning together as one premium master layout. Use English-first branding only.
+
+Core layout:
+Use a strict 2x3 six-panel grid with six equally sized panels. The whole layout must feel highly controlled, spacious, and premium, with more breathing room inside each panel and stronger visual pacing across the full 2x3 structure. Every panel should read as part of one mature brand campaign, not as a random collage. The final poster must feel graphic, ordered, and rollout-ready.
+
+Milk Cloud Orbit enhancement:
+Push tactile realism much further in every panel. The grilled meat must show richer fibers, deeper char edges, better fat rendering, juicier sliced surfaces, and more premium roasted gloss. The flatbread must feel warmer, softer, more blistered, and more touchable. White sauce, butter-cream, or rich dressing details must feel thicker and more physically weighted where used. Vegetables, crumbs, herb flecks, spice dust, and tiny oil highlights must all feel sharper and more collector-grade.
+
+Cream Halo Transit refinement:
+Strengthen the campaign-system discipline across all six panels. Unify title hierarchy, descriptor placement, brand lockup, optional supporting text, and visual rhythm. The six panels must feel like one polished premium food-brand family. The arrangement of food, text, and color must feel more consistent, mature, and intentionally art-directed.
+
+Panel content logic:
+The six panels must include:
+1. vertical meat-spit or stacked grilled-meat hero
+2. wrapped flatbread meat roll
+3. plated sliced meat with premium sauce pour
+4. open flatbread layered with meat and fresh vegetables
+5. close-up carved or knife-sliced meat hero
+6. plated meat-and-flatbread composition with garnish interaction
+Three panels should emphasize standalone grilled-meat hero forms, and three should emphasize meat with flatbread pairings. Each panel must remain distinct while clearly belonging to the same series.
+
+Negative space:
+Increase the internal breathing room within every panel. Do not crowd the food or text. Let the grilled meat, flatbread, and garnish structures occupy clearer, more isolated visual zones so each composition feels more premium and more campaign-worthy. The empty space must feel intentional and expensive.
+
+Color-block rhythm:
+This is critical. Push the six-panel background system into a stronger, more disciplined rhythm. Use coordinated premium saturated tones such as deep red, burnt orange, charcoal black, sage green, warm mustard, and dark burgundy, arranged across the grid in a visually musical order. The six panels must feel balanced in chromatic intensity, with a cleaner alternation of light and dark blocks.
+
+Sculptural food interaction:
+This is critical. In the combination panels, make the relationship between grilled meat and flatbread feel more sculptural and designed. The bread should not just sit under the meat; it should wrap, lift, cradle, frame, or layer with the meat in a way that feels elegant and premium. The viewer should feel the meat-and-bread relationship as a designed food form, not a messy casual wrap.
+
+Hero food logic:
+The grilled meat must feel ultra-real and premium: charred edges, juicy fibers, caramelized browning, tender sliced surfaces, realistic fat rendering, and rich roasted color. The flatbread must feel warm, soft, slightly blistered, and physically believable. Vegetables such as lettuce, tomato, onion, herbs, or pickled accents should feel fresh and controlled.
+
+Typography and branding:
+Use English-first branding with a fictional premium identity:
+Brand: EMBER WRAP
+Campaign line: FIRE. SLICE. WRAP.
+Add short panel-specific names if needed, such as:
+SPIT ROAST
+WRAP SUPREME
+CREAMY CARVE
+STACKED FLATBREAD
+CHAR KNIFE CUT
+MEAT & BREAD FEAST
+Typography must feel bold, graphic, and art-directed, with a more disciplined hierarchy and spacing system than before. The text must support the food, not overpower it.
+
+Lighting:
+Use extremely delicate but high-impact commercial lighting. Each panel must have rich dimensionality, shaping the grilled meat texture, bread surface, sauces, vegetables, and crumbs with premium highlight rolloff. Lighting across all six panels must feel coherent enough to unify the campaign while allowing subtle internal panel variation.
+
+Material realism:
+Push realism to the maximum. Meat must feel juicy, charred, fibrous, and fresh off heat. Flatbread must feel soft and warm with browned blister spots. Sauces or butter-cream drizzles must feel glossy and physically weighted. Vegetables must feel crisp and fresh. All surfaces must read as physically convincing and appetizing.
+
+Mood:
+bold grilled-meat obsession, premium street-food sophistication, six-panel campaign order, sculptural food interaction, collector-grade appetite realism, modern brand confidence
+
+Rendering style:
+ultra-premium grilled-meat advertising poster, 2x3 six-panel campaign, Milk Cloud Orbit tactile enhancement, Cream Halo Transit brand-system refinement, enlarged negative space, stronger color-block rhythm, more sculptural meat-and-flatbread interaction, refined English branding, soft cinematic commercial lighting, extreme meat and bread texture realism, world-class food campaign aesthetic, 8k
+
+Negative prompt:
+cheap takeaway flyer, cluttered grid, low-detail meat, fake bread texture, messy sauces, cartoon rendering, oversized text, inconsistent branding, low-resolution texture, greasy chaos, weak panel differentiation, cheap fast-food styling, insufficient negative space, weak color rhythm
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2083196352675414279) | 2026-07-31
+
+---
+
+### 🎴 例 5451：奢华街头服饰机场广告
+
+![奢华街头服饰机场广告](../images/%E5%A5%A2%E5%8D%8E%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E6%9C%BA%E5%9C%BA%E5%B9%BF%E5%91%8A.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一个超写实的优质街头服饰广告大片，画面展示了一位 {argument name="subject" default="美丽的女孩"} 自信地坐在机场的 {argument name="prop" default="镀铬行李推车"} 上，姿态放松，双腿自然分开，一只手搭在推车上，另一只手紧握顶部把手，神情冷静自信地直视镜头，身着照片中的服装。采用壮观的广角镜头和低视角，使前景的鞋子显得体积感十足，构图居中，呈现出一种现代机场旅行的美学风格。背景为绿色，上方有巨大的白色排版文字 "{argument name="headline" default="ERASING TEMPLATES"}"，包含平面设计元素，如条形码标签、旅行贴纸、护照上的图形印章、地球仪徽章、箭头、优先行李标签、极简主义企业形象、镀铬高光、干净的白色地板、高端时尚广告、奢华街头服饰营销活动、超细节设计。超写实，商业摄影，电影级灯光，HDR，杂志封面排版，清晰对焦，自然的皮肤纹理，逼真的织物褶皱，景深，高对比度，专业色彩还原，8K，杰作，Vogue 杂志社论，Behance 图像，高端商业广告，9:16 纵横比，低质量，模糊，噪点，水印，标志变形，多余的手指，多余的肢体，人体结构不佳，面部畸形，身体被裁剪，重复物体，过度曝光，过度饱和，文字伪影，排版不佳，比例不真实，运动模糊，低分辨率，卡通，动漫，计算机图形，塑料外壳，构图杂乱，地平线倾斜。
+
+[English]
+An ultra-realistic advertising campaign for premium streetwear, the picture shows a {argument name="subject" default="beautiful girl"} confidently sitting on a {argument name="prop" default="chrome luggage trolley"} at the airport, a relaxed pose with her legs naturally apart, one hand resting on the trolley and the other holding tightly to the top handle, looking directly into the camera with a calm, confident expression, dressed in clothes from the photo, A spectacular wide-angle lens with a low viewing angle, creating voluminous shoes in the foreground, a centered composition, and a modern aesthetic for airport travel., giant white typographic inscription "{argument name="headline" default="ERASING TEMPLATES"}" on a green background, graphic design elements, including barcode labels, travel stickers, graphic stamps in passports, globe badges, arrows, labels for priority luggage, minimalistic corporate identity, chrome highlights, clean white floor, premium fashion advertising, campaign luxury streetwear, ultra-detailed design., hyper-realistic, commercial photography, cinematic lighting, HDR, magazine cover layout, clear focus, natural skin texture, realistic fabric folds, depth of field, high contrast, professional color reproduction, 8K, Masterpiece, Vogue magazine editorial, Behance Image, Premium Commercial advertising, 9:16 aspect ratio, low quality, blurriness, noise, watermark, logo distortion, extra fingers, extra limbs, poor anatomy, deformed face, cropped body, repetitive objects, overexposure, oversaturation, text artifacts, poor typography, unrealistic proportions, motion blur, low resolution, cartoon, anime, computer graphics, plastic shell, messy composition, the tilted horizon.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2083156883318481290) | 2026-07-31
+
+---
+
+### 🎴 例 5452：动漫电影海报风格
+
+![动漫电影海报风格](../images/%E5%8A%A8%E6%BC%AB%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为“{argument name="title" default="TITLE"}”设计的电影海报布局，采用大面积白色背景作为留白，并结合参考图像。高质量 2D 动漫插画媒介，采用赛璐珞风格与柔和的 3D 渲染效果，以纯白基调与参考图像的色彩形成鲜明对比。韩漫风格。注意：至少需要 1 张参考图像。注意 2：在提示词中添加以下内容以去除海报演职员表：negative: billing block or credit block
+
+[English]
+a movie poster layout for "{argument name="title" default="TITLE"}" with an expansive white background acting as negative space, featuring reference image. high-quality 2D anime illustration medium, cel-shaded with soft 3D-like rendering, using a stark white baseline palette contrasted with the colors of the reference image. Korean manhwa. note: it requires at least 1 image as reference. note 2: add this in the prompt to remove the poster credits: negative: billing block or credit block
+```
+
+**来源：** [@MELTEN](https://x.com/meltenx/status/2083149615633760278) | 2026-07-31
+
+---
+
+### 🎴 例 5461：高端写实风黄桃罐头海报
+
+![高端写实风黄桃罐头海报](../images/%E9%AB%98%E7%AB%AF%E5%86%99%E5%AE%9E%E9%A3%8E%E9%BB%84%E6%A1%83%E7%BD%90%E5%A4%B4%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+高级写实水果甜品海报，{argument name="产品主题" default="黄桃罐头"}主题，一只透明玻璃罐置于浅金色与奶白背景中央，罐中黄桃果肉饱满厚实，糖水清澈透亮，玻璃表面挂有细密冷凝水珠，前景有一瓣黄桃被银叉轻轻叉起，周围仅点缀少量新鲜黄桃片、水痕与柔和夏日光线，整体明亮但克制，像高端水果罐头广告，真实玻璃折射、真实果肉纹理、真实液体层次，竖版 3:4。
+
+海报中加入中英文海报文字，内容为：
+品牌名：{argument name="品牌名" default="桃见"}
+产品名：{argument name="产品名" default="黄桃罐头"}
+英文副标题：YELLOW PEACH IN SYRUP
+slogan：{argument name="口号" default="把夏天的甜，认真封存起来"}
+短标签：果肉厚实 / 清甜多汁
+
+排版要求：顶部放品牌名与英文，产品名位于下方主视觉区，slogan 与短标签较小，排版清爽，像高端果品海报。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083099780494893510) | 2026-07-31
+
+---
+
+### 🎴 例 5465：复古中国成语“掩耳盗铃”海报
+
+![复古中国成语“掩耳盗铃”海报](../images/%E5%A4%8D%E5%8F%A4%E4%B8%AD%E5%9B%BD%E6%88%90%E8%AF%AD%E2%80%9C%E6%8E%A9%E8%80%B3%E7%9B%97%E9%93%83%E2%80%9D%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="idiom title" default="掩耳盗铃"} 创作一张竖版复古中国成语可视化海报，直观呈现该成语的含义：一名男子在试图偷走一口鸣响的钟时捂住了自己的耳朵。
+
+画布：3:4 竖版海报，采用带有细微污渍和纹理的米色宣纸背景，呈现出古旧教育印刷品的质感。
+
+布局：顶部居中位置书写醒目的黑色中国书法标题。正下方添加小型衬线体英文副标题：“COVERING EARS DOES NOT STOP SOUND”。再下方放置一个红色小方框标签，内文为“成语事故现场 02”，左右两侧配有纤细的红色水平分割线。
+
+主体场景：采用细腻的单色水墨雕版画风格绘制中国古代庭院。左侧悬挂着一口巨大的青铜寺钟，通过金属环和链条固定在粗壮的横梁上。钟身古朴、深沉、厚重，带有凸起的钟乳、雕花面板和扇形钟缘。一根绳子系在钟的撞针或下缘，向右下方斜向延伸。
+
+人物：右下方绘制一名身着深色传统服饰的古代成年男子，他正蹲着拉绳，身体向后倾斜。他双手捂住双耳，却仍试图偷走或移动这口钟。他梳着发髻，身穿宽松的黑色长袍和长裤，腰间系带，脚蹬靴子，姿态带有紧张的戏剧感。
+
+声音可视化：从钟身向整个庭院绘制许多细长的红色同心圆声波，声波环绕着男子，以强调“掩耳”并不能阻止声音传播。
+
+背景：包含石板铺就的庭院地面、带有淡雅装饰面板的浅色院墙、右侧的传统瓦顶和木门结构、墙后稀疏的树枝，以及左侧雕刻精美的木质建筑细节。保持历史感和略带戏剧性的中国风格。
+
+标注元素：包含 3 个红色的数字标注：靠近鸣钟和声波处的“01”，靠近捂耳男子处的“02”，以及靠近左下侧石地面的“03”。使用纤细的红色引导线和小圆圈进行标注。
+
+视觉风格：高度细腻的钢笔线条画，以柔和的黑色和深褐色为主调，仅在声波、标注和小型标签处使用克制的红色点缀。画面应呈现出中国古籍插图与现代信息图表海报相结合的质感。拒绝写实风格，拒绝明亮色彩，拒绝额外人物，拒绝水印。
+
+[English]
+Goal: Create a vintage Chinese idiom visualization poster for {argument name="idiom title" default="掩耳盗铃"}, showing the literal scene of a man covering his ears while trying to steal a ringing bell.
+
+Canvas: Vertical poster, 3:4 aspect ratio, aged beige rice-paper background with subtle stains, worn ink texture, and an antique educational print feel.
+
+Layout: Large black brush-calligraphy title centered at the top. Directly below it, place the English subtitle in small serif capitals: “COVERING EARS DOES NOT STOP SOUND”. Under the subtitle, add a small red outlined label reading {argument name="story label" default="成语事故现场 02"}. The main illustration fills the lower two-thirds of the poster.
+
+Scene: An ancient Chinese courtyard rendered in monochrome black ink with muted sepia shading. On the left, a massive bronze temple bell hangs from a rough wooden beam and iron chains. The bell is tilted slightly, vibrating, with engraved patterns, rivets, and a scalloped lower rim. On the right foreground, a thief in dark traditional clothing crouches low and pulls a rope attached to the bell while pressing both hands over his ears; his posture is tense and foolish, one knee bent forward and one leg stretched back. Behind him are courtyard paving stones, an old wall, a traditional tiled roof gate on the right, and delicate tree branches above the wall.
+
+Annotated elements: Include exactly 3 red numbered callouts: “01” near the hanging bell and sound source, “02” near the thief covering his ears, and “03” near the stone ground in the lower left foreground. Draw thin red leader lines from each number to its target.
+
+Graphic effects: Use many thin red concentric sound-wave rings radiating outward from the bell across the whole courtyard, passing behind the thief and architecture. Add small black vibration marks around the bell. Keep the red lines slightly faded and printed like old ink.
+
+Visual style: Detailed hand-drawn Chinese historical engraving, ink wash and woodblock print aesthetic, high line density, muted black-gray sepia palette with red annotation ink, realistic perspective, weathered archival poster design.
+
+Constraints: Use exactly one bell, one thief, three numbered red callouts, and one set of expanding sound-wave rings. Do not add modern objects, bright colors, cartoon styling, extra characters, watermark, or logo.
+```
+
+**来源：** [@楊哥 | Yang Onchain](https://x.com/YangOnchain/status/2083073278525247491) | 2026-07-31
+
+---
+
+### 🎴 例 5472：极简日式咖啡馆产品海报
+
+![极简日式咖啡馆产品海报](../images/%E6%9E%81%E7%AE%80%E6%97%A5%E5%BC%8F%E5%92%96%E5%95%A1%E9%A6%86%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张 4:5 的极简咖啡馆产品海报，背景为 {argument name="background color" default="纯白色"}，并使用黑色字体。请使用附带的产品照片作为主要参考，如果未提供照片，则根据 {argument name="product" default="产品名称"} 生成逼真的产品图像。以醒目的大写英文字体显示产品名称，价格按输入内容准确显示，并仅生成简短的英文宣传短语。保持产品居中，带有柔和的自然阴影，采用整洁的 {argument name="layout" default="瑞士风格编辑布局"}，留出宽阔的页边距，并呈现出现代日式咖啡馆的美学风格。请勿编造未显示或未暗示的成分、品牌或功能。
+
+[English]
+Create a minimalist 4:5 café product poster with a pure white background and black typography. Use the attached product photo as the main reference, or generate a realistic product image from the {argument name="product name" default="product name"} if no photo is provided. Display the product name in large uppercase English text, the {argument name="price" default="price"} exactly as entered, and generate short English promotional phrases only. Keep one centered product with soft natural shadows, a clean Swiss-style editorial layout, wide margins, and a {argument name="aesthetic" default="modern Japanese café"} aesthetic. Do not invent ingredients, brands, or features that are not visible or implied.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2083045196212625545) | 2026-07-31
+
+---
+
+### 🎴 例 5473：奇幻树精 RPG 角色卡
+
+![奇幻树精 RPG 角色卡](../images/%E5%A5%87%E5%B9%BB%E6%A0%91%E7%B2%BE%20RPG%20%E8%A7%92%E8%89%B2%E5%8D%A1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张高度精细的奇幻 RPG 角色卡，以 {argument name="character name" default="Kris"} 为主角，塑造一位森林主题的树精术士，适用于社交媒体头像或收藏类游戏卡牌。
+
+画布：竖向肖像交易卡格式，4:5 比例，深黑色外背景，华丽的奇幻卡牌边框填满画面。采用电影级高细节数字绘画、写实奇幻插画风格，运用戏剧性的森林光影、苔藓、藤蔓、树皮、花朵及古董金属装饰。
+
+主要角色：居中的女性树精半身像，拥有绿色发光的双眼、如裂纹树皮般的橄榄色皮肤，表情严肃中性，长长的深棕色乱发中缠绕着藤蔓、叶片、细枝和粉色花朵。她身着由树皮、树根、苔藓和层叠叶片组成的有机盔甲。背景是茂密的魔法森林，金色的阳光透过高大的树木和绿色薄雾倾泻而下。
+
+卡牌边框与图标：边框为精致的雕花木质与金属框架，上面长满了藤蔓和叶片，并装饰着粉紫色花朵。包含 3 个精确的顶部圆形徽章：左上角显示“LVL 45”的等级徽章，顶部中央的小型绿叶纹章，以及右上角较大的绿叶徽章。在下角包含大型花朵，两侧散布着花簇。
+
+文字布局：将角色名称“{argument name="character name" default="Kris"}”以优雅的大号白色衬线字体置于下方中央。在其下方，放置职业头衔“{argument name="class title" default="WARLOCK"}”，使用带有叶片装饰的绿色大写字母，并保持字间距。在其下方，添加副标题行“{argument name="species and role" default="Dryad • Guardian of the Grove"}”。
+
+左侧属性面板：包含 5 项精确的属性，以垂直列表形式排列，配有小型彩色图标和白色数字：STR 38, INT 92, WIS 87, DEX 64, CON 76。
+
+右侧属性面板：包含 5 项精确的资源/防御数值，以垂直列表形式排列，配有小型奇幻盾牌/宝石图标：HP 1,140, MP 920, DEF 412, RES 489, SPD 72。
+
+技能面板：包含 4 行精确的技能，每行左侧配有一个方形图标、加粗的技能名称以及一行描述：1) “Grove Ward” — “召唤藤蔓保护盟友。” 2) “Nature’s Grasp” — “用古老的树根缠绕敌人。” 3) “Verdant Renewal” — “持续治疗并净化盟友。” 4) “Sporebloom” — “释放毒孢子以削弱敌人。”
+
+页脚：在底部添加一句简短的背景引言：“✦ {argument name="footer quote" default="Rooted in silence. I rise."} ✦”，并在其下方居中放置一个小型的绿叶奖章。
+
+约束条件：确保所有文字清晰且拼写正确，保留 3 个顶部徽章、5 个左侧属性、5 个右侧数值以及 4 个技能的精确数量。请勿添加额外角色、额外卡牌、Logo、水印、现代 UI 元素或无关文字。
+
+[English]
+Goal: Create a highly detailed fantasy RPG character card featuring {argument name="character name" default="Kris"} as a forest-themed dryad warlock, suitable for a social media avatar or collectible game card.
+
+Canvas: Vertical portrait trading-card format, 4:5 ratio, dark black outer background, ornate fantasy card frame filling the image. Use cinematic high-detail digital painting, realistic fantasy illustration, dramatic forest lighting, moss, vines, bark, flowers, and antique metal trim.
+
+Main character: Centered bust portrait of a female dryad with green glowing eyes, cracked bark-like olive skin, serious neutral expression, long wild dark brown hair intertwined with vines, leaves, twigs, and pink flowers. She wears organic armor made of bark, roots, moss, and layered leaves. Behind her is a dense enchanted forest with golden sunlight rays filtering through tall trees and green mist.
+
+Card frame and icons: The border is an elaborate carved wooden-and-metal frame overgrown with vines and leaves, decorated with pink-purple blossoms. Include exactly 3 circular top emblems: top-left level badge reading “LVL 45”, top-center small green leaf crest, and top-right larger green leaf emblem. Include large flowers in the lower corners and scattered blossoms along both sides.
+
+Text layout: Place the character name “{argument name="character name" default="Kris"}” in large elegant white serif type near the lower center. Under it, place the class title “{argument name="class title" default="WARLOCK"}” in spaced green capitals with small leaf ornaments. Below that, add the subtitle line “{argument name="species and role" default="Dryad • Guardian of the Grove"}”.
+
+Left stat panel: Include exactly 5 stats in a vertical list with small colored icons and white numbers: STR 38, INT 92, WIS 87, DEX 64, CON 76.
+
+Right stat panel: Include exactly 5 resource/defense values in a vertical list with small fantasy shield/gem icons: HP 1,140, MP 920, DEF 412, RES 489, SPD 72.
+
+Skill panel: Include exactly 4 ability rows, each with a square icon on the left, a bold ability name, and a one-line description: 1) “Grove Ward” — “Summon vines to shield allies.” 2) “Nature’s Grasp” — “Entangle enemies with ancient roots.” 3) “Verdant Renewal” — “Heal and cleanse allies over time.” 4) “Sporebloom” — “Release toxic spores to weaken foes.”
+
+Footer: Add a small flavor quote at the bottom: “✦ {argument name="footer quote" default="Rooted in silence. I rise."} ✦” with a small green leaf medallion centered beneath it.
+
+Constraints: Keep all text legible and correctly spelled, preserve the exact counts of 3 top emblems, 5 left stats, 5 right values, and 4 skills. Do not add extra characters, extra cards, logos, watermarks, modern UI elements, or unrelated text.
+```
+
+**来源：** [@のんた](https://x.com/f450081/status/2083044959368970395) | 2026-07-31
+
+---
+

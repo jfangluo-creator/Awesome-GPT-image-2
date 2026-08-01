@@ -10625,3 +10625,155 @@ Two-dimensional alternative character illustration of {argument name="character"
 
 ---
 
+### 🖥️ 例 5434：： 一位二十多岁的年轻东亚女性，长黑色微卷发，轻薄自然刘海，五官精致真实，皮肤保留细腻纹理与
+
+![： 一位二十多岁的年轻东亚女性，长黑色微卷发，轻薄自然刘海，五官精致真实，皮肤保留细腻纹理与](../images/%EF%BC%9A%20%E4%B8%80%E4%BD%8D%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B2%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%B8%9C%E4%BA%9A%E5%A5%B3%E6%80%A7%EF%BC%8C%E9%95%BF%E9%BB%91%E8%89%B2%E5%BE%AE%E5%8D%B7%E5%8F%91%EF%BC%8C%E8%BD%BB%E8%96%84%E8%87%AA%E7%84%B6%E5%88%98%E6%B5%B7%EF%BC%8C%E4%BA%94%E5%AE%98%E7%B2%BE%E8%87%B4%E7%9C%9F%E5%AE%9E%EF%BC%8C%E7%9A%AE%E8%82%A4%E4%BF%9D%E7%95%99%E7%BB%86%E8%85%BB%E7%BA%B9%E7%90%86%E4%B8%8E.jpg)
+
+**Prompt:**
+
+```text
+一位二十多岁的年轻东亚女性，长黑色微卷发，轻薄自然刘海，五官精致真实，皮肤保留细腻纹理与毛孔，眼神冷静、聪明又略带叛逆感。她置身于一间凌乱而神秘的地下黑客工作室，周围堆满老式 CRT 电视、电脑显示器、服务器、机械设备和杂乱线缆，屏幕显示蓝绿色程序代码、系统界面与雪花噪点。
+```
+
+**来源：** [@serein ｜买美股上币安](https://x.com/you1873118/status/2083236078430077252) | 2026-07-31
+
+---
+
+### 🖥️ 例 5435：奢华地中海度假风时尚大片
+
+![奢华地中海度假风时尚大片](../images/%E5%A5%A2%E5%8D%8E%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%BA%A6%E5%81%87%E9%A3%8E%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请将上传的照片作为模特参考，1:1 保留模特的样貌：面部特征、眼型、鼻型、唇形、自然肤色、发长、发量、发质、发际线、发型、身体比例、自然面部表情、眼神及整体身份特征。
+一位优雅的女性坐在地中海纯净白色沙滩上的复古皮箱上。她身着 {argument name="dress style" default="由优质天然棉制成的奢华露肩中长裙"}，剪裁完美，褶皱柔和流畅。整体造型搭配 {argument name="accessories" default="设计师太阳镜、雕塑感金耳环、极简主义金饰以及手工编织圆包"}。她的秀发在温暖的海风中自然飘动。
+超写实自然肌肤，可见毛孔、细微绒毛、真实的皮肤纹理以及柔和的阳光高光。{argument name="scenery" default="绿松石色的海水、如粉末般洁白的沙滩、优雅的沙滩伞"}，伴随轻柔的海雾与黄金时刻的暖光，营造出一种毫不费力的地中海奢华氛围。
+奢华度假风时尚大片。Vogue 风格。静奢风。超写实摄影。电影级构图。全画幅相机。85mm 镜头。柔和自然光。浅景深。HDR。8K。
+
+[English]
+Use the uploaded photo as the exact model reference. Preserve the model's appearance 1:1: facial features, eye shape, nose, lips, natural skin tone, hair length, volume, texture, hair part, hairstyle, body proportions, natural facial expression, gaze, and overall identity.
+An elegant woman sits on a vintage leather suitcase on a pristine white Mediterranean beach. She is wearing a {argument name="dress style" default="luxurious off-the-shoulder midi dress made from premium natural cotton"}, featuring impeccable tailoring and soft flowing folds. The look is completed with {argument name="accessories" default="designer sunglasses, sculptural gold earrings, minimalist gold jewelry, and a handcrafted round woven handbag"}. Her hair flows naturally and gently moves in the warm sea breeze.
+Ultra-realistic natural skin with visible pores, fine peach fuzz, authentic skin texture, and soft sun-kissed highlights. The {argument name="scenery" default="turquoise sea, powder-white sand, elegant beach umbrellas"}, a light sea haze, and the warm glow of Golden Hour create an atmosphere of effortless Mediterranean luxury.
+Luxury Resort Editorial. Vogue Style. Quiet Luxury. Ultra Photorealistic. Cinematic Composition. Full-Frame Camera. 85mm Lens. Soft Natural Light. Shallow Depth of Field. HDR. 8K.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2083231042949787879) | 2026-07-31
+
+---
+
+### 🖥️ 例 5467：东京夜景中的骑行者
+
+![东京夜景中的骑行者](../images/%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF%E4%B8%AD%E7%9A%84%E9%AA%91%E8%A1%8C%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张原始、具有电影感的纪录片风格照片，拍摄对象为一位 {argument name="subject" default="40 岁左右、英俊成熟的阿拉伯男子"}，留着修剪整齐的短胡须，骑在一辆 {argument name="motorcycle" default="黑色重型巡航摩托车"} 上，地点位于 {argument name="city location" default="东京街头"} 的夜晚。低角度中全景拍摄，竖构图。男子佩戴经典款眼镜，身穿质感十足的黑色皮质机车夹克、深色敞扣衬衫、黑色长裤及厚重的黑色系带作战靴，目光直视前方，表情自信而坚定。一只靴子稳稳地踩在湿润且带有反光的沥青路面上，旁边是一条黄色的道路标线。摩托车拥有硕大且细节丰富的圆形前大灯、琥珀色转向灯、镀铬发动机组件，前轮轮胎厚实且焦点清晰。背景是充满情绪感的虚化城市夜景，红蓝交织的霓虹灯光形成丰富的焦外成像效果。皮夹克与金属部件纹理清晰，地面潮湿的倒影真实自然，浅景深效果。--ar 9:16
+
+[English]
+A raw, cinematic documentary photograph of a {argument name="subject" default="mature, handsome 40's Arabian man"} with a short, sharply defined beard, sitting astride a {argument name="motorcycle" default="heavy black cruiser motorcycle"} on a {argument name="city location" default="Tokyo city street"} at night. Low-angle medium full shot, vertical composition. The man looks directly forward with an intense, confident expression, wearing classic eyeglasses, a textured black leather biker jacket, a dark unbuttoned shirt, black pants, and heavy black lace-up combat boots. One boot is planted firmly on the wet, reflective asphalt next to a painted yellow road line. The motorcycle features a large, detailed circular front headlight, amber turn signals, chrome engine components, and a thick front tire in sharp focus. The background is a moody, out-of-focus urban nightscape filled with a rich bokeh of vibrant red and blue neon lights. Sharp textures on the leather jacket and metallic parts, realistic damp ground reflections, shallow depth of field. --ar 9:16
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2083062105809588267) | 2026-07-31
+
+---
+
+### 🖥️ 例 5469：AI 图像退化拼贴画
+
+![AI 图像退化拼贴画](../images/AI%20%E5%9B%BE%E5%83%8F%E9%80%80%E5%8C%96%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张深色社交媒体风格的证据拼贴画，以奇幻城堡场景为重复主体，展示 AI 图像的迭代退化和重复模式的累积。
+
+画布：高垂直截图格式，约 490 × 957 像素，炭黑色背景，窄边距，呈现信息流帖子的外观。
+
+布局：顶部放置一个 2 × 2 的网格，包含 4 张精确的小型横向缩略图，中间有细窄的深色间隙。在网格下方，添加一个看起来像“**”或两个小白点的微小双字符标记。在此下方，放置 1 张几乎横跨整个宽度的巨幅横向奇幻图像。在大图下方，添加 3 行左对齐的白色短标题文本。底部放置 1 张最终的巨幅横向奇幻图像，几乎横跨整个宽度。可见图像面板总数：共 6 个，包括 4 个小型缩略图、1 个中间大图面板和 1 个底部大图面板。
+
+奇幻图像主体：每个面板应描绘一条相似的史诗级哥特式奇幻大道，通向一座漂浮的黑色尖顶城堡或要塞，配有潮湿反光的鹅卵石路面、华丽的灯柱和栏杆、两侧红橙色的秋树、朦胧的蓝色大气深度、瀑布或垂直光束，以及城堡上方发光的漩涡状彩虹。风格应类似于高度精细的数字奇幻概念艺术，具有戏剧性的视角、绘画般的灯光和华丽的建筑。
+
+退化概念：4 个缩略图看起来应非常相似，仿佛同一场景被反复重新生成。中间的大图应更清晰、更宏伟，但已显示出重复的纹理图案和叠加效果。底部图像应看起来明显退化：带有噪点、涂抹感、过度饱和、斑点、扭曲的细节、重影边缘、粗糙的纹理以及过度累积的画笔状伪影，但仍能辨认出是同一个奇幻城堡大道。
+
+文本内容：在中间图像下方使用 3 行小号加粗白色无衬线文本，内容如下：“Here every prompt was different, this is the 5 generation:”、“Same effect, it keeps data from the previous pictures.”、“The destruction is even worse, because of the differences of the image data each step。”
+
+视觉风格：深色 UI 截图美学，无装饰边框，紧凑间距，高对比度白色文本，图像裁剪为横向矩形。使拼贴画看起来像是一张记录模型故障的论坛或推文截图。
+
+可自定义细节：使用 {argument name="main scene" default="floating gothic castle avenue under a rainbow vortex"}，{argument name="caption line one" default="Here every prompt was different, this is the 5 generation:"}，{argument name="caption line two" default="Same effect, it keeps data from the previous pictures."}，{argument name="caption line three" default="The destruction is even worse, because of the differences of the image data each step."} 以及 {argument name="background color" default="charcoal black"}。
+
+[English]
+Goal: Create a dark social-media style evidence collage illustrating iterative AI image degradation and repeated pattern accumulation, using a fantasy castle scene as the repeated subject.
+
+Canvas: Tall vertical screenshot format, approximately 490 × 957 px, charcoal-black background with narrow margins and a feed-post look.
+
+Layout: At the top, place a 2 × 2 grid of exactly 4 small landscape thumbnails with thin dark gutters. Beneath the grid, add a tiny two-character mark that looks like “**” or two small white dots. Below that, place 1 large landscape fantasy image spanning almost the full width. Under the large image, add exactly 3 short lines of white caption text aligned left. At the bottom, place 1 final large landscape fantasy image spanning almost the full width. Total visible image panels: exactly 6, consisting of 4 small thumbnails, 1 middle large panel, and 1 bottom large panel.
+
+Fantasy image subject: Each panel should depict a similar epic gothic fantasy avenue leading toward a floating black spired castle or citadel, with wet reflective cobblestone paving, ornate lamp posts and railings, red and orange autumn trees on both sides, misty blue atmospheric depth, waterfalls or vertical light beams, and a luminous swirling rainbow vortex in the sky above the castle. The style should resemble highly detailed digital fantasy concept art with dramatic perspective, painterly lighting, and ornate architecture.
+
+Degradation concept: The 4 thumbnails should look very similar to each other, as if the same scene is being regenerated repeatedly. The middle large image should be sharper and grand, but already show repeated texture patterns and overlaid effects. The bottom image should look noticeably degraded: noisy, smeared, oversaturated, speckled, warped details, doubled edges, crunchy textures, and excessive accumulated brush-like artifacts, while still recognizable as the same fantasy castle avenue.
+
+Text content: Use exactly these 3 caption lines under the middle image in small bold white sans-serif text: “Here every prompt was different, this is the 5 generation:” “Same effect, it keeps data from the previous pictures.” “The destruction is even worse, because of the differences of the image data each step.”
+
+Visual style: Dark UI screenshot aesthetic, no decorative border, compact spacing, high contrast white text, images cropped as landscape rectangles. Make the collage feel like a forum or tweet screenshot documenting a model failure.
+
+Customizable details: Use {argument name="main scene" default="floating gothic castle avenue under a rainbow vortex"}, {argument name="caption line one" default="Here every prompt was different, this is the 5 generation:"}, {argument name="caption line two" default="Same effect, it keeps data from the previous pictures."}, {argument name="caption line three" default="The destruction is even worse, because of the differences of the image data each step."}, and {argument name="background color" default="charcoal black"}.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2083055816194867597) | 2026-07-31
+
+---
+
+### 🖥️ 例 5471：AI 触碰发光的微芯片
+
+![AI 触碰发光的微芯片](../images/AI%20%E8%A7%A6%E7%A2%B0%E5%8F%91%E5%85%89%E7%9A%84%E5%BE%AE%E8%8A%AF%E7%89%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张电影宽屏科幻插图，画面右侧为人形人工智能形象的侧面，其纤细的机械手指正伸向并触碰一块位于深色庞大项目上的发光微芯片。该 AI 形象拥有光滑苍白的 {argument name="robot material" default="瓷白色金属"} 面部和手部，带有优雅的生物机械面板线条、蚀刻的电路状凹槽，头部、脸颊、颈部、耳朵和手指周围呈现出层叠的轮廓，表情平静且专注。指尖与中央处理器接触，产生明亮温暖的 {argument name="contact glow color" default="金橙色"} 耀斑和微小的镜头光晕。背景是填满画面左侧和中央的密集主板景观，中心偏左处有一块方形微芯片，无数铜质线路向外辐射，布满微小组件，许多红橙色 LED 点散布在项目上，如同神经网络一般。采用深青色、黑色和枪灰色调，辅以温暖的火花和光效，具备高细节 3D 渲染质量、浅景深、来自芯片的戏剧性侧光、微妙的体积雾气和未来主义氛围；构图上，机器人占据右侧三分之一，电路在左侧三分之二处延展。格式为 {argument name="aspect ratio" default="16:9 电影宽屏横幅"}，超高细节，聚焦于指尖与芯片，无文字，无 Logo，无水印。
+
+[English]
+Create a cinematic widescreen sci-fi illustration of a humanoid artificial intelligence figure in right-side profile, reaching out with one delicate robotic finger to touch a glowing microchip on a vast dark circuit board. The AI figure has a smooth pale {argument name="robot material" default="porcelain-white metallic"} face and hand, elegant biomechanical panel lines, etched circuit-like grooves, exposed layered contours around the head, cheek, neck, ear, and fingers, and a calm focused expression. The fingertip makes contact with the central processor, producing a bright warm {argument name="contact glow color" default="golden-orange"} flare and small lens bloom. The background is a dense motherboard landscape filling the left and center of the frame, with one square microchip near the center-left, countless copper traces radiating outward, tiny components, and many red-orange LED points scattered across the board like a neural network. Use a dark teal, black, and gunmetal palette with warm sparks and glow accents, high-detail 3D render quality, shallow depth of field, dramatic side lighting from the chip, subtle volumetric haze, futuristic atmosphere, and a composition where the robot occupies the right third while the circuitry expands across the left two thirds. Format as {argument name="aspect ratio" default="wide 16:9 cinematic banner"}, ultra-detailed, sharp focus on the fingertip and chip, no text, no logos, no watermark.
+```
+
+**来源：** [@Pragma Lens](https://x.com/PragmaLens/status/2083046714232217920) | 2026-07-31
+
+---
+
+### 🖥️ 例 5486：可持续材料工坊网站首页 Hero 区设计
+
+![可持续材料工坊网站首页 Hero 区设计](../images/%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%9D%90%E6%96%99%E5%B7%A5%E5%9D%8A%E7%BD%91%E7%AB%99%E9%A6%96%E9%A1%B5%20Hero%20%E5%8C%BA%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+创作一张企业官网方向的响应式网站首页视觉，主题是“{argument name="主题" default="把一家做可循环材料的制造公司，讲成一间会慢慢呼吸的现代工坊"}”。画面不是传统工业官网，而是一张横向首屏视觉：前景是被整齐切开的可循环材料样本、压纹板、纸浆模塑件与金属夹具，中景是一张半透明的数据卡片和品牌主标题，背景是采光克制的现代工坊空间。构图采用桌面端官网 Hero 比例，左侧信息区，右侧产品与材料展示，顶部导航留白清晰，同时应能自然延展到移动端首屏。灯光为大面积天光与少量暖色工作灯混合，突出材料纹理、切面结构和品牌可信度。色彩系统必须带色值：{argument name="色彩" default="纸浆米白 #E9E1D4、工坊灰 #A9ACA8、深橄榄绿 #66715F、金属灰蓝 #8897A0、结构褐 #8B7058、标题炭黑 #2C2F31"}。材质重点描述{argument name="材质描述" default="纤维压纹、切边、金属夹具、磨砂亚克力和工坊桌面划痕"}。需要少量中文主导文字，包括公司中文名、核心价值主张、一句极短英文辅助语和两个功能标签，排版须服务官网层级。适用于企业官网首页、品牌官网、产品站和可持续制造品牌升级提案。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083004084190388673) | 2026-07-31
+
+---
+
+### 🖥️ 例 5490：高山湖泊日出倒影
+
+![高山湖泊日出倒影](../images/%E9%AB%98%E5%B1%B1%E6%B9%96%E6%B3%8A%E6%97%A5%E5%87%BA%E5%80%92%E5%BD%B1.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张日出时分的电影级超写实高山景观：一位留着 {argument name="hair color" default="棕色"} 编发辫的年轻女性，静静地坐在平静如镜的山湖边一块平坦的岩石上，背影视角，身穿一件简约的 {argument name="dress color" default="蓝色"} 膝盖长度连衣裙。她是画面中唯一的人影，在构图中显得渺小，位于湖泊消失点略偏右的中心位置，凝视着水面彼端高耸且覆盖着积雪的山峰。场景包含一个平静的倒影湖泊，左侧山脊上方可见一抹破晓的太阳光芒，水面从岩石处向前景扩散出一圈涟漪。湖泊周围环绕着崎岖的灰色巨石、草丛、紫色野花、深色常青树，右侧岸边点缀着金色的秋季落叶松。水面应清晰而自然地倒映出山峦、天空、树木、太阳光晕以及坐着的女性身影。采用 16:9 宽画幅构图，强调戏剧性的景深，山谷中弥漫着冷蓝色的晨雾，温暖的金色阳光洒在山峰和树木上，柔和的体积光，高动态范围，丰富的自然纹理，宁静沉思的氛围，前景岩石锐利，远山大气，无文字，无建筑，无额外人物，无船只。
+
+[English]
+Create a cinematic ultra-realistic alpine landscape at sunrise in a wide panoramic 16:9 composition. A lone {argument name="subject" default="young woman with long brown hair in a blue dress"} sits quietly on a flat rock in the lower center foreground, seen from behind, looking across a perfectly still mountain lake. Surround the lake with towering jagged snow-dusted peaks on both sides, forming a dramatic valley that recedes toward the glowing horizon. Place the rising {argument name="light source" default="sun peeking through a notch between the left mountains"} with a soft starburst and warm golden rays cutting through cool blue morning mist. The lake should mirror the mountains, sky, trees, and sun with near-perfect reflections, broken only by gentle circular ripples around the rock where the woman sits. Include rugged foreground boulders, alpine grasses, small wildflowers, a few conifer trees, and autumn-colored larches on the right shoreline catching warm light. Use a serene, contemplative mood with crisp high-detail textures, atmospheric haze, volumetric light, natural color grading, cool blue shadows contrasted with amber highlights, deep depth, and a polished fine-art travel photography look. No text, no buildings, no extra people, no boats, no animals.
+```
+
+**来源：** [@T.Okumura（奥村たかし）｜AIエージェント設計・組織支援プロデューサー](https://x.com/okumuratakashix/status/2082998535927341172) | 2026-07-31
+
+---
+

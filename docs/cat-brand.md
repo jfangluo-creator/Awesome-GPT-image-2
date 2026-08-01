@@ -12930,3 +12930,159 @@ Create a vertical 3:4 anime trick-art illustration on a vivid turquoise cyan bac
 
 ---
 
+### 🏷️ 例 5436：广袤蓝色冰洞中的探险者
+
+![广袤蓝色冰洞中的探险者](../images/%E5%B9%BF%E8%A2%A4%E8%93%9D%E8%89%B2%E5%86%B0%E6%B4%9E%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%99%A9%E8%80%85.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一个令人惊叹的照片写实广角场景，展示巨大的天然冰洞内部，从地面视角看向远处发光的洞口。洞壁和洞顶是半透明的层叠冰川，呈现出浓郁的青色、绿松石色、蓝绿色和深蓝色，带有优美的弧形条纹、冰冻的涟漪、光泽湿润的表面、冰柱、嵌入的气泡以及悬浮在空气中的闪烁霜粒。明亮的白色阳光从右上方的椭圆形天窗倾泻而下，在冰冷的洞顶形成可见的光束和镜头光晕，而隧道的尽头则散发出第二道强烈的光芒。前景是粗糙的积雪地面，两侧散布着冰块和碎石，清晰的脚印通向洞穴深处，地面上还有反光的冰面。在构图底部中心附近放置一名微小的探险者，身穿 {argument name="jacket color" default="红色"} 外套、深色裤子，背着背包，手持登山杖，以突显洞穴的宏伟规模。使用 {argument name="camera perspective" default="超广角低视角"}，电影级探险摄影风格，高动态范围，细节锐利，冷蓝色调，逼真的体积光，自然纹理，以及令人敬畏的北极氛围。无文字，无水印，无额外人物，无动物，无人工建筑。
+
+[English]
+Create a breathtaking photorealistic wide-angle scene inside a colossal natural ice cave, viewed from ground level looking down a snowy tunnel toward a glowing opening in the distance. The cave walls and ceiling are translucent layered glacier ice in rich cyan, turquoise, teal, and deep blue, with sweeping curved striations, frozen ripples, glossy wet surfaces, icicles, embedded bubbles, and sparkling frost particles suspended in the air. Bright white sunlight pours through an oval skylight high in the upper right, forming visible shafts of light and lens-like glints across the icy ceiling, while a second intense glow illuminates the far end of the tunnel. The foreground is a rough snow-covered floor with scattered ice boulders and chunks on both sides, crisp footprints leading inward, and reflective patches of frozen surface. Place exactly one tiny human explorer near the center bottom of the composition, wearing {argument name="jacket color" default="red"} outerwear, dark pants, a backpack, and holding trekking poles, emphasizing the immense scale of the cave. Use a {argument name="camera perspective" default="ultra wide angle low perspective"}, cinematic adventure photography style, high dynamic range, sharp detail, cool blue color grading, realistic volumetric light, natural textures, and awe-inspiring arctic atmosphere. No text, no watermark, no extra people, no animals, no artificial structures.
+```
+
+**来源：** [@VERA 100%](https://x.com/Ledi_ru_noch/status/2083212008090968409) | 2026-07-31
+
+---
+
+### 🏷️ 例 5446：禅意乌龙茶电商详情页
+
+![禅意乌龙茶电商详情页](../images/%E7%A6%85%E6%84%8F%E4%B9%8C%E9%BE%99%E8%8C%B6%E7%94%B5%E5%95%86%E8%AF%A6%E6%83%85%E9%A1%B5.jpg)
+
+**Prompt:**
+
+```text
+为概念品牌「{argument name="品牌名" default="岚序 LANXU"}」设计一张高端{argument name="产品名" default="高山乌龙茶"}移动端电商详情页长图，目标是完成从品牌吸引、产品解释、品质证据、冲泡体验、规格确认到购买信任的完整转化路径。产品为两罐装高山乌龙茶，每罐净含量 {argument name="净含量" default="100g"}。
+严格保持以下商品一致性：概念品牌「岚序 LANXU」，产品为高山乌龙茶礼盒，内含两只圆柱形金属茶罐，每罐净含量 100g。茶罐高约 135mm、直径约 78mm，尺寸为建议值，需确认；罐身为低反光岩青灰色，顶部为平整的哑光古铜色金属盖。罐身正面纵向排列“岚序”品牌字样，下方显示“高山乌龙”，底部为小号英文“HIGH MOUNTAIN OOLONG”。两只茶罐尺寸、颜色、标签位置、文字方向、金属盖和比例始终完全一致。
+详情页采用“禅意雅奢 + 自然有机”视觉系统，核心概念为“山岚入盏”。使用岩青灰、云雾米白、嫩芽绿、茶汤琥珀和少量氧化古铜。图形语言为抽象山谷等高线、轻薄晨雾和逐渐扩散的茶汤色层。字体采用现代宋体与清晰无衬线体，保持较大的标题、短句说明和充足留白。
+设计一张宽度约 1242px、纵向超长的移动端详情页概念视觉，建议比例约 1:5。按照自然阅读顺序划分为七个连续模块，每个模块只解决一个购买问题，使用统一栅格、统一商品比例和连贯的雾气视觉过渡。
+模块一“首屏价值”：两只茶罐与礼盒构成主视觉，产品占据主要面积，背景为抽象山谷和晨雾，出现一句核心标题“山岚入盏”，让消费者立即识别高山乌龙、高端礼赠和安静现代东方气质。
+模块二“为何值得品饮”：通过干茶叶、展开后的叶底和清透琥珀茶汤的三段式微距画面，表达原叶形态、茶汤通透度和香气层次。不得捏造具体香气结论，相关内容标记为“风味描述：以实物审评为准”。
+模块三“产地与原料”：展示抽象茶园坡地、晨雾环境和原叶采摘细节，预留真实产区、海拔、采摘季节和品种信息位置。不得显示未经确认的具体山场、古树、核心产区或有机认证。
+模块四“制作过程”：用四个简洁步骤展示采摘、萎凋或做青、焙火、精制装罐的概念流程。步骤名称为工艺占位，需根据真实产品修订，不显示虚假的非遗、手工大师或古法传承信息。
+模块五“冲泡体验”：展示白瓷盖碗、公道杯、品茗杯和茶汤注入的真实使用场景，呈现茶叶用量、水温、浸泡时间和冲泡次数的占位信息。液体流动、器具比例、手部姿势和茶汤颜色自然真实。
+模块六“包装与规格”：清楚展示礼盒、两只茶罐、单罐开启状态、独立密封内袋或密封结构示意，明确“100g × 2罐”。用简洁图标展示盒内物品，不能增加茶杯、茶具或赠品。
+模块七“购买信任”：以礼赠场景和完整产品收尾，预留配料、净含量、产地、生产日期、保质期、储存方式、食品信息、售后与物流说明。条码、二维码和溯源码均使用不可扫描占位符。
+整体采用高端电商美术指导风格，真实茶叶商业摄影与精致平面设计结合。所有茶罐、礼盒、干茶、茶汤、盖碗和手部必须具有可信比例 and 接触关系。茶叶不能漂浮，茶汤不能出现不合理飞溅，雾气只能作为背景氛围，不得遮挡商品。
+mobile-first premium tea ecommerce detail page, high mountain oolong product story, coherent seven-section conversion flow, consistent packaging identity, photorealistic tea still life, macro dry-leaf photography, amber tea liquor, elegant gaiwan brewing scene, abstract mountain contours, drifting morning mist, natural fibrous texture, refined Chinese typography, generous negative space, premium editorial grid, accurate SKU consistency, realistic product scale, high-resolution vertical commercial layout, aspect ratio 1:5.
+画面只显示以下核心短文案：
+“岚序”
+“高山乌龙”
+“山岚入盏”
+“原叶形态”
+“风味描述：以实物审评为准”
+“产地信息：占位”
+“工艺信息：占位”
+“冲泡建议：占位”
+“100g × 2罐”
+“产品信息：占位”
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083177357909889525) | 2026-07-31
+
+---
+
+### 🏷️ 例 5456：透视排版产品海报提示词
+
+![透视排版产品海报提示词](../images/%E9%80%8F%E8%A7%86%E6%8E%92%E7%89%88%E4%BA%A7%E5%93%81%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+请生成一张竖版 3:4 的高清商业广告海报，单张图片，不要拼图，不要多宫格。
+
+主题是：{argument name="产品类型" default="新品"}推广海报。
+这是一个原创虚构品牌广告，不要出现真实品牌 Logo。
+品牌名：{argument name="品牌名" default="[品牌名]"}
+产品名：{argument name="产品名" default="[产品名]"}
+主标题大字：{argument name="主标题" default="VISION"}
+副标题：一句简短 slogan
+主色调：主色 + 辅助色 + 点缀色
+
+整体风格是“产品推广型巨型文字透视海报”，画面要像正式品牌 Campaign 主视觉，有商业广告感、强版式设计感、年轻感、产品发布感和视觉冲击力。
+
+【核心画面】
+画面主体是产品，产品必须清晰、精致、像广告里的 hero product。根据产品类型加入合适的人物或使用场景，例如：手机模特、跑者、骑手、滑板少年、运动员、户外玩家等。人物姿态要自然有动势，产品和人物要有真实的空间关系。
+
+【巨型文字透视】
+主标题必须是画面的核心视觉骨架，使用超大号粗体无衬线字体，占据画面主要空间。文字不能只是普通标题，要成为画面的空间结构，可以变成背景墙、地面跑道、公路、坡道、运动轨迹或未来装置。人物和产品必须处在这个巨型文字空间中，形成真实的前后关系、遮挡关系、接触阴影 and 透视纵深。
+
+【正式海报信息系统】
+画面需要有完整的品牌广告信息层级，避免太空。
+顶部加入品牌名和 NEW RELEASE / PRODUCT CAMPAIGN 小字。
+侧边加入竖排小字、系列编号、产品编号或 campaign 编号。
+产品附近加入 3-5 个功能卖点标签，例如：卖点1、卖点2、卖点3、卖点4。
+底部设置正式广告信息栏，包含产品名、slogan、发布日期、核心参数、小字 credits、细线分割、装饰性条形码或编号。
+信息排版要精致、克制、有真实品牌规范感。小字可以作为设计性 micro typography，不要求每个小字都完全可读，但品牌名、产品名 and 主标题必须清晰。
+
+【画面质感】
+高清锐利，商业摄影质感，真实材质，准确透视，产品清楚，人物自然，光影统一。整体像一张真正发布的产品 Campaign 海报，适合手机、数码设备、跑鞋、机车、运动品牌、赛事活动等场景。
+
+【避免问题】
+不要拼图，不要多图组合，不要真实品牌 Logo，不要廉价电商图，不要普通素材图，不要复杂杂乱背景，不要卡通感，不要让产品太小，不要让主标题变成普通平面标题。
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2083129626138997120) | 2026-07-31
+
+---
+
+### 🏷️ 例 5481：异想天开的热带风情分屏度假
+
+![异想天开的热带风情分屏度假](../images/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E7%83%AD%E5%B8%A6%E9%A3%8E%E6%83%85%E5%88%86%E5%B1%8F%E5%BA%A6%E5%81%87.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一幅幽默、超写实、电影质感的垂直分屏度假幻想图像，两个面板中均为同一位可爱的年轻女性，配以俏皮的超大号海滩道具和鲜艳的热带色彩。
+
+画布：垂直 2:3 图像，精确分为 2 个高度相等的水平面板，中间有一条细而整洁的白色分隔线。使用明亮的午后阳光、饱和的绿松石色海水、温暖的金色沙滩、浅景深、高细节纹理以及光泽感的电影级写实效果。
+
+顶部面板：在热带海滩上，展示 {argument name="character name" default="一位留着深棕色长发的年轻女性"}，她像一个微小的玩偶，兴奋地紧贴着一个巨大的新鲜青椰子，仿佛那是她的巨型海滩小屋。她表情惊讶，嘴巴微张，头顶架着太阳镜，身穿粉色碎花短上衣、宽松白裤和带粉色装饰的白色运动鞋。椰子顶部切开，露出白色椰肉和飞溅的椰子水。添加精确 4 个椰子配件：1 把插在椰子里的粉色纸质鸡尾酒伞、1 根蓝色弯曲吸管、1 枝新鲜薄荷叶和 1 把靠在椰子上的小型绳木梯。海滩场景包含精确 3 个前景装饰物：1 个橙色海星、1 个浅色小贝壳和 1 个粉色条纹贝壳。背景包括左侧 1 座精致的沙堡、倾斜的棕榈树、蓝色海浪、远处的岛屿山脉以及带有柔和云朵的明亮蓝天。
+
+底部面板：展示同一位女性懒洋洋地躺在清澈的绿松石色海水中一个巨大的黄色充气鸭子浮排上。她戴着草编遮阳帽、圆形深色太阳镜，身穿同样的粉色碎花上衣、高腰白色短裤和带粉色装饰的白色运动鞋。她姿态放松，双手抱头，双腿伸展。充气鸭子有橙色的喙，戴着超大号黑色太阳镜。在浮排上她身边包含精确 1 只毛茸茸的小猫，也戴着微型深色太阳镜。在浮排上添加精确 1 个圆形小木托盘，上面放着精确 2 杯热带饮品：1 杯带有橙片装饰的橙色饮料，以及 1 杯带有微型粉色小伞和吸管的粉橙色饮料。背景展示波光粼粼的海面、种满棕榈树的热带度假村海岸线及小屋、远处朦胧的陆地和明亮的蓝天。
+
+视觉风格：超写实但带有异想天开的强制透视喜剧感，主体对焦清晰，鲜艳的度假明信片色调，细腻的水面反射，逼真的沙粒，俏皮的奢华旅行氛围，无文字，无 Logo，无水印。
+
+约束：保持精确 2 个面板，每面板精确 1 位女性，顶部面板精确 1 个巨型椰子，底部面板精确 1 个黄色鸭子浮排，精确 1 只小猫，精确 2 杯饮品，并避免添加额外角色或标题。
+
+[English]
+Goal: Create a humorous, ultra-realistic, cinematic vertical split-screen vacation fantasy image featuring the same cute young woman in both panels, with playful oversized beach props and vibrant tropical colors.
+
+Canvas: Vertical 2:3 image, divided into exactly 2 horizontal panels of equal height with a thin clean white divider line between them. Use bright midday sunlight, saturated turquoise water, warm golden sand, shallow depth of field, high-detail textures, and glossy cinematic realism.
+
+Top panel: On a tropical beach, show {argument name="character name" default="a young woman with long dark brown hair"} as a tiny, doll-like person clinging excitedly to an enormous fresh green coconut as if it is a giant beach house. She has a surprised open-mouth expression, sunglasses resting on her head, a pink floral crop top, loose white pants, and white sneakers with pink accents. The coconut is cut open at the top with white coconut flesh and splashing coconut water visible. Add exactly 4 coconut accessories: 1 pink paper cocktail umbrella stuck in the coconut, 1 blue bendy straw, 1 fresh mint sprig, and 1 small rope-and-wood ladder leaning against the coconut. The beach scene includes exactly 3 foreground decorative items: 1 orange starfish, 1 small pale seashell, and 1 pink striped seashell. In the background, include 1 elaborate sandcastle on the left, leaning palm trees, blue ocean waves, distant island mountains, and a bright blue sky with soft clouds.
+
+Bottom panel: Show the same woman lounging luxuriously on a huge yellow inflatable duck float in clear turquoise ocean water. She wears a straw sunhat, round dark sunglasses, the same pink floral top, high-waisted white shorts, and white sneakers with pink accents. Her pose is relaxed with both hands behind her head and legs stretched out. The inflatable duck has an orange beak and wears oversized black sunglasses. Include exactly 1 small fluffy kitten sitting on the float beside her, also wearing tiny dark sunglasses. Add exactly 1 small round wooden tray table on the float holding exactly 2 tropical drinks: 1 orange drink with an orange slice garnish and 1 pink-orange drink with a tiny pink umbrella and straw. Background shows sparkling sea, a palm-lined tropical resort shoreline with small huts, distant hazy land, and bright blue sky.
+
+Visual style: Ultra-realistic but whimsical forced-perspective comedy, crisp focus on the subjects, vibrant vacation postcard palette, detailed water reflections, realistic sand grains, playful luxury travel mood, no text, no logos, no watermark.
+
+Constraints: Keep exactly 2 panels, exactly 1 woman per panel, exactly 1 giant coconut in the top panel, exactly 1 yellow duck float in the bottom panel, exactly 1 kitten, exactly 2 drinks, and avoid adding extra characters or captions.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2083025429359931841) | 2026-07-31
+
+---
+
+### 🏷️ 例 5485：高端白酒包装设计项目
+
+![高端白酒包装设计项目](../images/%E9%AB%98%E7%AB%AF%E7%99%BD%E9%85%92%E5%8C%85%E8%A3%85%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+为一款 {argument name="产品概念" default="unofficial concept"} 的 {argument name="容量" default="500ml"} 高端 {argument name="香型" default="酱香型"} 白酒设计一张专业包装设计提案板，产品类别为高端白酒 / 酱香型烈酒 / 玻璃瓶液体礼赠包装，面向高净值礼赠、自饮收藏、企业赠礼与商务宴请场景；销售与运输场景同时覆盖精品零售陈列、节庆赠礼、电商快递与二次外箱运输。风格采用 自动模式 推导后的组合：主风格为 非遗古法，辅以 现代国际 的信息层级与模块化秩序，强调酿造工艺、时间沉淀、产地文化与现代高端品牌表达，避免俗套黑金、红金、宫廷堆砌与过度传统符号化。整体视觉以“古法工艺的当代表达”为核心概念：通过窑土褐、米纸象牙白、深靛青与氧化铜金属点缀构成克制高级配色，画面有东方气韵但不陈旧，有国际高端感但不冰冷。
+主包装采用纵向硬质礼盒结构，建议值、打样确认：天地盖加肩颈位结构的灰板裱特种纸礼盒，内部容纳 1 支 500ml 白酒玻璃瓶；礼盒主体为高刚性灰板裱纸结构，盒身比例修长稳重，开启方式为上盖垂直开启，内胆清晰承托酒瓶，适合高端礼赠展示。酒瓶设定为一支 500ml 透明或轻烟灰玻璃瓶，瓶高与瓶径按高端白酒常见比例设计，建议值、打样确认：瓶高约 280–320 mm，最大瓶径约 85–95 mm，整套毛重建议按 1.2–1.5 kg 级别推演。包装内部必须采用符合玻璃酒瓶特性的防护逻辑：底部主承重托撑 + 瓶身稳定限位 + 独立颈部控制结构，避免仅靠瓶盖受力；内托建议为成型环保纸浆托或高密度纸托结构，托底贴合瓶底轮廓，瓶肩与瓶颈设局部卡位，顶部保留安全净空与取瓶手位，确保瓶体不会在运输中前后左右晃动，不会玻璃碰撞，不会因上盖挤压而受力。必须清晰展示礼盒与电商运输保护的区分：除主礼盒外，辅助模块中加入独立电商运输外箱建议，采用 B 楞或加强型瓦楞外箱，带缓冲衬垫与底部加固逻辑，用于说明高端礼盒本体之外的真实快递运输方案。
+品牌识别与图形语言必须具备高端酱香白酒气质：品牌标识区采用克制而有辨识度的竖向或居中构图，产品名建议使用“酱香典藏”之类的概念性占位文案，英文辅助信息仅作简短占位，如 “SAUCE-AROMA BAIJIU” “HERITAGE CRAFT” “500 mL” 等，文字必须少而准，清晰易读，不出现大段虚假参数。字体风格结合东方书写气韵与现代高端衬线 / 无衬线排版系统，形成传统工艺感与国际精致感的平衡。材质表现应真实：特种纸包覆灰板，带细微纤维肌理或米纸感，局部可使用克制烫铜 / 哑金、击凸、压凹、局部 UV 或微浮雕工艺，但工艺点到为止，只集中于 Logo、产品名、工艺纹样或封签位置，不可满版堆工艺。可少量加入酿造器具抽象纹理、酒曲发酵肌理、山水地貌抽象线条、窖池岁月痕迹等图形基因，但必须抽象高级，不要写实插画，不要龙凤祥云俗套元素。
+提案板画面必须是横向 16:9 或近似横版构图，纯净白色或极浅暖灰工作室背景，中央放置一个超大主包装 45° 透视展示图，占整体视觉的 45%–60%，作为第一视觉焦点。主包装必须同时展示盒体外观与高级材质质感，可搭配酒瓶半露或开盒展示，并允许少量高级场景点缀，如封签卡、产地纹样纸片、米纸标签、抽象铜色细节，但绝不喧宾夺主。周围设置 7–9 个辅助模块，尺寸明显小于主包装，整齐有序地展示：包装正面 / 背面 / 侧面正投影视图、开箱效果图、内部纸托结构 exploded view、酒瓶放置示意图、独立电商运输外箱结构示意、生产意图刀模图、材质与工艺 swatch、尺寸与说明标签。辅助模块应具备专业提案板的清晰秩序，避免拥挤杂乱，避免技术图压过主包装主体。
+必须包含一张 production-intent visualization 风格的刀模 / 结构示意图，并以简洁且专业的方式标注图例：红色实线表示裁切线，蓝色虚线表示压痕 / 折线，绿色表示出血线，紫色表示安全线，灰色表示参考线，黄色区域表示粘胶位，浅棕色区域表示内托 / 缓冲结构，金色区域表示烫金版，亮白区域表示局部 UV。若无真实开窗则不强制 PET 窗，但若出现透明展示片也需清楚标识为占位结构。所有尺寸、工艺、公差、条码、二维码、追溯码、物流面单、食品或酒类相关标识均仅以 PLACEHOLDER 或简洁占位块显示，不生成可扫描真实代码，不捏造认证，不写虚假法规内容。可在技术角标中写入建议值、打样确认：单位 mm、出血 3 mm、安全边距 5 mm、尺寸公差 ±1 mm、模切公差 ±0.5 mm、印刷套位公差 ±0.3 mm，但视觉上必须是概念提案板而非密集工程蓝图。
+光线与渲染要求为超写实 3D 包装效果图与高端纸品摄影结合：纸张纤维、压纹、边角、灰板厚度、开合缝隙、内托接触点、瓶身玻璃反射都要真实可信；镜头使用专业产品摄影视角，主视角略高于桌面，轻微俯视 45°，保证主包装结构完整可读；整体画面干净、昂贵、克制、有奖项级包装提案感，具有国际一线包装设计公司 presentation board 水准。画面关键词自然融合：premium sauce-aroma baijiu packaging proposal board, heritage craft inspired luxury liquor gift box, oversized hero rigid box mockup, molded pulp insert structure, ecommerce protective shipper, production-intent dieline visualization, elegant oriental contemporary packaging, premium Chinese spirits brand concept, tactile specialty paper, realistic emboss and foil details, photorealistic packaging design presentation, clean studio background, ultra detailed, high resolution.
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083004581110497696) | 2026-07-31
+
+---
+
