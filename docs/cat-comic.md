@@ -8441,3 +8441,73 @@ Constraints: Preserve the reference’s main composition and dialogue order, use
 
 ---
 
+### 🎬 例 5500：小龙彩虹火焰分镜故事板
+
+![小龙彩虹火焰分镜故事板](../images/%E5%B0%8F%E9%BE%99%E5%BD%A9%E8%99%B9%E7%81%AB%E7%84%B0%E5%88%86%E9%95%9C%E6%95%85%E4%BA%8B%E6%9D%BF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为一段关于 {argument name="character name" default="一只小龙"} 发现意外魔法能力的奇幻动画短片，创建一个精致的电影感分镜项目。
+
+画布：宽屏 16:9 分镜项目，八个分镜格以整洁的 4x2 网格排列。每个分镜格上方为生动的图像区域，下方为黑色标题栏。分镜格之间使用细黑色线条分隔。整体风格：高端 3D 动画家庭电影风格，温暖的森林光影，浅景深，富有表现力的角色表演，发光的粒子，繁茂的花朵、苔藓、蝴蝶和柔和的金色阳光。
+
+主体细节：主角是一只可爱的小橙色幼龙，有着奶油色的肚子、大大的绿眼睛、小小的角、小蝙蝠翅膀、圆润的吻部、柔软的鳞片以及孩童般的比例。故事发生在一个充满花朵、长满苔藓的石头、萤火虫般的闪光和友好动物的魔法林间空地。幼龙试图喷火，但却喷出了 {argument name="magical breath effect" default="彩虹火焰"}。
+
+布局与精确格数：使用 8 个分镜格，编号为 1 到 8，并包含以下可见的标题和动作：
+
+Panel 1 标题：“1. (0–2s) Establishing Shot”，副标题：“A tiny dragon stands alone, looking determined.” 图像：幼龙站在发光的魔法林间空地小径上的广角全景，周围环绕着蝴蝶和花朵。
+
+Panel 2 标题：“2. (2–4s) Determination”，副标题：“The dragon puffs its cheeks, takes a huge breath, and spreads its wings.” 图像：幼龙紧闭双眼、鼓起腮帮、张开翅膀，进行戏剧性准备的中景特写。
+
+Panel 3 标题：“3. (4–6s) Failure”，副标题：“It exhales with all its strength… but only a tiny puff of smoke comes out.” 图像：幼龙一只眼睛微眯，噘起嘴巴吐出一小团灰色烟雾的特写。
+
+Panel 4 标题：“4. (6–8s) Embarrassment”，副标题：“The dragon feels shy while a bird tilts its head, watching curiously.” 图像：幼龙羞涩地抓着头，一只可爱的小蓝鸟在附近的树枝上好奇地歪着头观察。
+
+Panel 5 标题：“5. (8–10s) The Sneeze”，副标题：“The smoke tickles its nose. It builds up… and prepares for the biggest sneeze ever!” 图像：幼龙面部的极度特写，双眼圆睁，鼻孔周围有烟雾缭绕，正准备打出一个史上最大的喷嚏。
+
+Panel 6 标题：“6. (10–12s) Magical Surprise”，副标题：“It sneezes! Instead of fire, a HUGE burst of rainbow flames explodes out!” 图像：幼龙喷出巨大闪耀彩虹火焰的侧视图，色彩明亮饱和，火星四溅。
+
+Panel 7 标题：“7. (12–14s) Wonder”，副标题：“Animals stare in amazement as the rainbow flames light up the whole forest.” 图像：以幼龙为中心的广角镜头，周围有 5 只清晰可见的森林动物正惊叹地注视着：一只兔子、一只松鼠、一只小鹿、一只刺猬和一只小鸟。彩虹火焰在树木间划出弧线。
+
+Panel 8 标题：“8. (14–15s) Happy Ending”，副标题：“The dragon laughs with joy as a tiny rainbow flame dances above its nose. Everyone celebrates!” 图像：幼龙开心地张嘴大笑的特写，眼睛闪闪发光，鼻尖上方盘旋着一簇小小的彩虹火焰，背景中模糊的森林动物们正在欢呼。
+
+视觉风格：电影级 3D 动画，皮克斯风格的可爱角色魅力，细腻的鳞片与柔软的皮肤质感，温暖的橙金色光影，魔法彩虹光效，体积光，焦外成像，表情丰富，高制作水准，适合家庭观看的基调。
+
+文本限制：所有标题必须保持为英文原样。在每个黑色标题栏中使用居中的简洁白色无衬线字体。保持清晰易读。请勿添加额外的分镜格、Logo、水印、UI 元素或无关文本。
+
+[English]
+Goal: Create a polished cinematic storyboard sheet for a short animated fantasy scene about {argument name="character name" default="a tiny dragon"} discovering an unexpected magical ability.
+
+Canvas: Wide 16:9 storyboard board, eight panels arranged in a clean 4-by-2 grid. Each panel has a vivid image area on top and a black caption strip beneath it. Use thin black dividers between panels. Overall look: high-end 3D animated family-film style, warm forest lighting, shallow depth of field, expressive character acting, glowing particles, lush flowers, moss, butterflies, and soft golden sunbeams.
+
+Main subject details: The main character is a cute small orange baby dragon with a cream belly, big green eyes, tiny horns, small bat wings, rounded snout, soft scales, and childlike proportions. The story takes place in an enchanted woodland clearing full of flowers, mossy stones, firefly-like sparkles, and friendly animals. The dragon is trying to breathe fire, but instead creates {argument name="magical breath effect" default="rainbow flame"}.
+
+Layout and exact panel count: Use exactly 8 storyboard panels, numbered 1 through 8, with these visible captions and actions:
+
+Panel 1 caption: “1. (0–2s) Establishing Shot” with subcaption “A tiny dragon stands alone, looking determined.” Image: wide establishing shot of the dragon standing on a forest path in a glowing magical clearing, butterflies and flowers around it.
+
+Panel 2 caption: “2. (2–4s) Determination” with subcaption “The dragon puffs its cheeks, takes a huge breath, and spreads its wings.” Image: medium close-up of the dragon squeezing its eyes shut, cheeks inflated, wings open, preparing dramatically.
+
+Panel 3 caption: “3. (4–6s) Failure” with subcaption “It exhales with all its strength… but only a tiny puff of smoke comes out.” Image: close-up of one winking eye and puckered mouth releasing a small gray smoke cloud.
+
+Panel 4 caption: “4. (6–8s) Embarrassment” with subcaption “The dragon feels shy while a bird tilts its head, watching curiously.” Image: the dragon scratches its head sheepishly while a cute blue bird perches on a branch nearby.
+
+Panel 5 caption: “5. (8–10s) The Sneeze” with subcaption “The smoke tickles its nose. It builds up… and prepares for the biggest sneeze ever!” Image: extreme close-up of the dragon’s face, wide eyes, smoky swirl around its nostril, about to sneeze.
+
+Panel 6 caption: “6. (10–12s) Magical Surprise” with subcaption “It sneezes! Instead of fire, a HUGE burst of rainbow flames explodes out!” Image: side view of the dragon sneezing a massive sparkling rainbow blast, bright saturated colors, glittering embers.
+
+Panel 7 caption: “7. (12–14s) Wonder” with subcaption “Animals stare in amazement as the rainbow flames light up the whole forest.” Image: wider shot with the dragon in the center, surrounded by exactly 5 visible woodland animals watching in awe: a rabbit, a squirrel, a deer-like fawn, a hedgehog, and a small bird. Rainbow fire arcs above them through the trees.
+
+Panel 8 caption: “8. (14–15s) Happy Ending” with subcaption “The dragon laughs with joy as a tiny rainbow flame dances above its nose. Everyone celebrates!” Image: joyful close-up of the dragon laughing open-mouthed, eyes sparkling, tiny rainbow flame curling above its nose, cheering forest animals blurred behind.
+
+Visual style: Cinematic 3D animation, cute Pixar-like character appeal, detailed scales and soft skin texture, warm orange-and-gold lighting, magical rainbow glow, volumetric sun rays, bokeh, expressive faces, high production value, family-friendly tone.
+
+Text constraints: Keep all captions in English exactly as written. Use clean white sans-serif text centered on each black caption strip. Maintain legibility. Do not add extra panels, logos, watermarks, UI elements, or unrelated text.
+```
+
+**来源：** [@Natalia](https://x.com/AIwithNatalia/status/2083447906951160298) | 2026-08-01
+
+---
+

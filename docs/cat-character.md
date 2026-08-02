@@ -7866,3 +7866,25 @@ Constraints: Use exactly 3 views and no extra characters. Keep the image monochr
 
 ---
 
+### 🧍 例 5513：欢乐夜景城市街头人像
+
+![欢乐夜景城市街头人像](../images/%E6%AC%A2%E4%B9%90%E5%A4%9C%E6%99%AF%E5%9F%8E%E5%B8%82%E8%A1%97%E5%A4%B4%E4%BA%BA%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+请仅使用上传的参考图作为身份参考。高精度保留主体确切的面部特征、脸型、眼型、鼻子、嘴唇、肤色、发型、比例以及整体可辨识的外观。请勿改变或风格化面部。
+
+{argument name="subject" default="一位美丽的年轻女性"}，与上传的参考图完全一致，站在 {argument name="location" default="热闹的夜间城市街道"} 上，身穿 {argument name="outfit" default="修身白色吊带迷你裙，裙摆带有荷叶边"}，背着一个奶油色单肩包。她正开心地大笑，双眼微闭，头部微微后仰，身体前倾，呈现出一种生动的姿态。柔顺的黑色长发在风中自然飘动。温暖的电影级路灯，发光的焦外成像，身后有一辆动态模糊的踏板车经过，湿润的地面反射着五彩斑斓的城市灯光，柔和的橙色和金色调，浅景深，抓拍风格，梦幻氛围，超写实自然皮肤纹理，真实的脸部细节，85mm 镜头，f/1.8，电影级构图，高细节，照片级真实感，8K，HDR，杰作。
+
+[English]
+Use the uploaded reference image as the only identity reference. Preserve the subject’s exact facial features, face shape, eye shape, nose, lips, skin tone, hairstyle, proportions, and overall recognizable appearance with high accuracy. Do not alter or stylize the face.
+
+{argument name="subject" default="A beautiful young woman"}, identical to the uploaded reference, standing on a {argument name="location" default="lively city street at night"}, wearing a {argument name="outfit" default="fitted white spaghetti-strap mini dress with a ruffled hem"} and carrying a cream shoulder bag. She is laughing joyfully with her eyes closed, head tilted back slightly, leaning forward in a playful pose. Long, silky black hair flowing naturally in the wind. Warm cinematic streetlights, glowing bokeh, a motion-blurred scooter passing behind her, wet pavement reflecting colorful city lights, soft orange and golden tones, shallow depth of field, candid street photography, dreamy atmosphere, ultra-realistic natural skin texture, authentic facial details, 85mm lens, f/1.8, cinematic composition, high detail, photorealistic, 8K, HDR, masterpiece.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2083383385167380969) | 2026-08-01
+
+---
+

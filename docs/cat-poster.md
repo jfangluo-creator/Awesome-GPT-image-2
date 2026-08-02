@@ -25016,3 +25016,136 @@ Constraints: Keep all text legible and correctly spelled, preserve the exact cou
 
 ---
 
+### 🎴 例 5503：猫山王榴莲商业海报
+
+![猫山王榴莲商业海报](../images/%E7%8C%AB%E5%B1%B1%E7%8E%8B%E6%A6%B4%E8%8E%B2%E5%95%86%E4%B8%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+竖版3:4{argument name="主题" default="猫山王榴莲"}主题商业海报，{argument name="背景颜色" default="暖米白满版背景"}，叠加低对比芥末黄太阳放射纹、浅绿色叶片剪影和小型尖刺几何纹样。画面右下放置一颗完整猫山王榴莲与一颗自然剖开的榴莲，完整果实呈饱满椭圆形，黄绿至橄榄绿色外壳覆盖密集、粗壮、有序的锥形尖刺；剖开果壳露出多个清楚果房，内部排列金黄色饱满果肉，质地厚实、绵密、柔滑。左上使用{argument name="字体风格" default="粗壮拙趣的手绘字体"}呈现“猫山王榴莲”，文字为金黄色填色、奶油白内线、墨绿色外描边；副标题“金黄绵密 浓香细滑”置于橄榄绿波浪飘带，英文“MUSANG KING DURIAN”做成弧形印章。背景加入热带叶片、果香曲线、果肉色块、星芒与小型果壳图标。高饱和Q版矢量插画、层叠剪纸质感、少量丝网颗粒，背景不得为黑色。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083426762663579972) | 2026-08-01
+
+---
+
+### 🎴 例 5505：哥特式新艺术风格塔罗牌
+
+![哥特式新艺术风格塔罗牌](../images/%E5%93%A5%E7%89%B9%E5%BC%8F%E6%96%B0%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC%E5%A1%94%E7%BD%97%E7%89%8C.jpg)
+
+**Prompt:**
+
+```text
+引用したキャラクター画像を主人公として、{argument name="タロット" default="ライダー・ウェイト版タロットカード"}をモチーフにした{argument name="カード" default="大アルカナ（22枚）"}からランダムで1枚選んで、イラストを作成する。
+
+【基本ルール】
+・人物は引用キャラクターへ置き換える
+・キャラクターの顔・髪型・配色・特徴を維持する
+・ライダー・ウェイト版の構図、シンボル、小物、ポーズ、世界観を踏襲する
+・衣裳は変更する
+・背景はカードごとの意味に合わせて幻想的にデザインする
+・高精細なファンタジーイラスト
+・Art Nouveauとゴシックファンタジーを融合した豪華なデザイン
+・縦長2:3比率
+・カード全体が見える構図
+
+【カードデザイン】
+・豪華な金色の装飾フレーム
+・上部にローマ数字（0?XXI）
+・下部に英語のカード名
+・装飾は細密な彫刻、星、月、植物、宝石を組み合わせる
+・カード全体は神秘的で高級感のあるデザイン
+
+【品質】
+masterpiece, best quality, ultra detailed, highly detailed, fantasy illustration, magical atmosphere, cinematic lighting, intricate gold ornament, tarot card style
+Ultra rare holographic tarot card, masterpiece, luxury collectible card, full-card holographic foil finish, rainbow iridescent reflections, prismatic diffraction, spectral rainbow shimmer, premium trading card quality, embossed gold foil frame, raised metallic ornaments, foil stamped Roman numerals, foil stamped card title, reflective gemstone highlights, glitter particles, crystal sparkle, mirror foil finish, subtle holographic line texture, dynamic viewing-angle reflections, museum-quality fantasy artwork, luxurious printing finish
+```
+
+**来源：** [@ABM@AIArt](https://x.com/abm_velvet/status/2083405253555191968) | 2026-08-01
+
+---
+
+### 🎴 例 5508：粉彩动漫虚拟歌手出道海报
+
+![粉彩动漫虚拟歌手出道海报](../images/%E7%B2%89%E5%BD%A9%E5%8A%A8%E6%BC%AB%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张精致的竖版动漫音乐出道宣传海报，主角为虚拟歌手 {argument name="character name" default="NOZOMU"}，主题为晶莹剔透的粉彩风格出道单曲。
+
+画布：高竖版海报，肖像构图，高分辨率，以轻盈的白色为背景，辅以淡天蓝色、薰衣草紫和粉色的渐变。采用亮面偶像宣传布局，包含半透明 UI 面板、全息碎片、闪光、虚化效果及柔和的音乐波形图形。
+
+主体：一位美丽的动漫少女，半身像，身体略微转向观众。她留着蓬松的灰金色/浅米色头发，扎成松散的低侧发髻，有随风飘动的发丝和长刘海；拥有金色大眼睛，闪烁着光芒，脸颊泛红，表情细腻，微张着嘴。在头部左侧添加一个粉彩花卉发饰，包含 5 簇清晰可见的花朵/颜色组合：粉色樱花、淡蓝色绣球花、细小的白色满天星、嫩黄色小花蕾和柔嫩的绿叶。她身穿虹彩白银色的未来感偶像服装，配有半透明肩带、蕾丝边、水晶颈圈、肩部束带、小扣环、发光的青色和粉色装饰，以及带有发光蓝色耳机和透明麦克风头的头戴式麦克风。整体氛围纯净、温柔、梦幻且略带忧郁。
+
+标题设计：在下方中部放置一个巨大的发光连体字歌名 {argument name="song title" default="Lumière"}，采用霓虹白粉色手写体，下方带有淡淡的拖影光效和闪光。下方添加小号日文片假名“ルミエール”。在标题上方添加一个蓝色小斜标，写着“のぞむ Debut Single”。
+
+海报文字与布局：左上角：巨大的艺名“NOZOMU”，采用淡蓝色渐变，下方附带较小的日文“のぞむ”。下方创建出道编号块，明确写着“DEBUT NUMBER”和巨大的“01”，并配有条形码风格线条。左侧中间资料面板：包含 4 行个人资料：“HEIGHT _ 158cm”、“BIRTHDAY _ 4.24”、“VOICE _ Soft & Clear”、“CHARM _ Smile”，以及一个小波形图。左侧垂直标语面板（半透明）： “キミの心に、やさしい歌を。” 右上角发布面板：“NEW DIGITAL SINGLE”、大号日期 {argument name="release date" default="2026 06.26 FRI"}、“RELEASE”以及条形码。右侧中间曲目列表卡片：包含 5 首编号曲目：“01. Lumière”、“02. 雨上がりの花束”、“03. Mirage”、“04. 透明なメロディ”、“05. 小さな願いごと”，以及总时长“18:42”。右下角音乐播放器组件：波形显示、“NOW PLAYING”、“Lumière”、时间“00:26”，以及 3 个圆形控制按钮：上一曲、播放、下一曲。左下角：巨大的日文名“のぞむ”、蓝色标签“Next Generation Virtual Singer”，以及 3 行英文标语：“Your voice,” “my light.” “Our future.” 底部中心：巡演信息“LIVE TOUR 2026”及巡演名称 {argument name="tour title" default="Starlight ‘Bloom ✦’"}。下方列出 5 个巡演日期/城市：“07.18 TOKYO”、“08.02 OSAKA”、“08.16 NAGOYA”、“08.30 FUKUOKA”、“09.13 SAPPORO”。右下角：一张标有“SPECIAL SITE & MUSIC”的小白卡，包含一个二维码形状的方块。
+
+视觉风格：超精细现代动漫插画，细腻的线条，柔和的水彩质感皮肤阴影，明亮的眼睛，高调照明，半透明全息叠加，玻璃拟态面板，粉彩赛博偶像美学，优雅的排版（混合简洁的无衬线 UI 文字和巨大的发光连体字标题）。在画面中加入漂浮的水晶碎片和花瓣；在上方/右侧区域使用 3 块醒目的青色水晶碎片，并以大量细小的粉色花瓣和闪光作为氛围点缀。
+
+约束条件：保持角色作为清晰的视觉焦点，避免使用深沉厚重的颜色，确保所有文字像真实的日本偶像单曲海报一样自然融合，严格遵守个人资料行数、曲目数、播放器按钮数、巡演站数和花簇数量，且不得添加额外角色。
+
+[English]
+Goal: Create a polished vertical anime music debut advertisement poster for a virtual singer named {argument name="character name" default="NOZOMU"}, themed around a crystalline pastel debut single.
+
+Canvas: Tall vertical poster, portrait orientation, high-resolution, airy white background with pale sky-blue, lavender, and pink gradients. Use a glossy idol-advertising layout with translucent UI panels, holographic shards, sparkles, bokeh, and soft music-wave graphics.
+
+Main subject: A single beautiful anime girl shown from bust to head, slightly turned over her shoulder toward the viewer. She has fluffy ash-blonde/light beige hair in a loose low side bun with windblown strands and long bangs, large golden-brown sparkling eyes, pink blush, and a delicate open-mouthed expression. Add a pastel flower hair arrangement on the left side of her head with exactly 5 visible flower/color clusters: pink cherry blossoms, pale blue hydrangea, tiny white baby’s breath, small yellow-green buds, and soft green leaves. She wears an iridescent white-and-silver futuristic idol outfit with translucent straps, lace trim, a crystal choker, shoulder harness, small buckles, glowing cyan and pink accents, and a headset microphone with a glowing blue earpiece and clear mic tip. Her mood is pure, gentle, dreamy, and slightly melancholic.
+
+Central title design: Place a large glowing cursive song title {argument name="song title" default="Lumière"} across the lower middle in neon white-pink script, with a faint underline light trail and sparkles. Beneath it add small Japanese katakana reading “ルミエール”. Add a small diagonal blue label above the title reading “のぞむ Debut Single”.
+
+Poster text and layout: Top left: large artist name “NOZOMU” in pale blue gradient, with smaller Japanese “のぞむ” below. Under it create a debut number block reading exactly “DEBUT NUMBER” and a huge “01”, with barcode-style lines. Left mid profile panel: include exactly 4 profile lines: “HEIGHT _ 158cm”, “BIRTHDAY _ 4.24”, “VOICE _ Soft & Clear”, “CHARM _ Smile”, plus a small waveform. Left side vertical slogan in a translucent panel: “キミの心に、やさしい歌を。” Top right release panel: “NEW DIGITAL SINGLE”, large date {argument name="release date" default="2026 06.26 FRI"}, “RELEASE”, and a barcode. Right mid track-list card: include exactly 5 numbered tracks: “01. Lumière”, “02. 雨上がりの花束”, “03. Mirage”, “04. 透明なメロディ”, “05. 小さな願いごと”, plus total time “18:42”. Right lower music player widget: waveform display, “NOW PLAYING”, “Lumière”, time “00:26”, and exactly 3 round control buttons: previous, play, next. Bottom left: large Japanese name “のぞむ”, a blue tag “Next Generation Virtual Singer”, and the English tagline with exactly 3 lines: “Your voice,” “my light.” “Our future.” Bottom center: live tour information “LIVE TOUR 2026” and tour name {argument name="tour title" default="Starlight ‘Bloom ✦’"}. Under it list exactly 5 tour dates/cities: “07.18 TOKYO”, “08.02 OSAKA”, “08.16 NAGOYA”, “08.30 FUKUOKA”, “09.13 SAPPORO”. Bottom right: a small white card labeled “SPECIAL SITE & MUSIC” containing a QR-code-like square.
+
+Visual style: Ultra-detailed modern anime illustration, delicate linework, soft watercolor-like skin shading, glossy eyes, high-key lighting, translucent holographic overlays, glassmorphism panels, pastel cyber-idol aesthetic, elegant typography mixing clean sans-serif UI text and large glowing cursive title. Add floating crystal shards and petals throughout; use exactly 3 prominent cyan crystal shards near the upper/right areas and many tiny pink petals and sparkles as atmospheric accents.
+
+Constraints: Keep the character as the clear focal point, avoid dark heavy colors, keep all text integrated like a real Japanese idol single poster, preserve the exact counts for profile lines, tracks, player buttons, tour stops, and flower clusters, and do not add extra characters.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2083389002007068896) | 2026-08-01
+
+---
+
+### 🎴 例 5510：高端杨枝甘露甜品海报
+
+![高端杨枝甘露甜品海报](../images/%E9%AB%98%E7%AB%AF%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%E7%94%9C%E5%93%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+高级写实甜品饮品海报，杨枝甘露主题，一只透明玻璃碗置于浅暖色石台中央，碗中芒果泥、椰奶、西米与西柚
+果肉层次清晰，表面光泽柔和，西柚颗粒与芒果切丁像被精细摆放的珠宝，周围只有极少量新鲜芒果片、勺子与
+湿润水珠，光线像午后热带自然光，明亮但克制，真实果肉质感、真实玻璃器皿、真实甜品层次，高端甜品广告
+风格，竖版高清。
+
+海报中加入高级中文与英文排版，文字清晰可读，不要过多文案。文字内容为：
+品牌名：{argument name="品牌名" default="果屿甜品"}
+产品名：{argument name="产品名" default="杨枝甘露"}
+英文副标题：MANGO POMELO SAGO
+slogan：{argument name="口号" default="把热带的光，装进一碗里"}
+短标签：芒果浓香 / 清甜冰润
+
+排版要求：产品名作为视觉主标题，英文副标题较小，品牌名放顶部，slogan 放中下方空白区域，文字排版简
+洁、精致、像真实甜品品牌广告。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083387013391380965) | 2026-08-01
+
+---
+
+### 🎴 例 5512：高端夏季时尚海报提示词
+
+![高端夏季时尚海报提示词](../images/%E9%AB%98%E7%AB%AF%E5%A4%8F%E5%AD%A3%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+高级写实夏装时尚海报，吊带阔腿连体裤主题，一位成年年轻女性模特站在度假酒店白色走廊或泳池边阴影处，穿雾粉色吊带阔腿连体裤，面料轻柔垂坠，裤腿线条流畅，腰部收束自然，模特单手扶住栏杆，另一只手轻提裤侧布料，姿态松弛优雅，整体有度假轻奢感和夏日空气感，像高端 resort wear 海报，真实面料垂坠、真实空间光影，竖版 3:4。海报文字内容：品牌名：{argument name="品牌名" default="Soft Isle"} 产品名：{argument name="产品名" default="吊带阔腿连体裤"} 英文副标题：WIDE-LEG JUMPSUIT slogan：{argument name="口号" default="一步就进入假日状态"} 短标签：轻垂面料 / 度假松弛感。排版要求：品牌名与英文放上方留白，产品名置于下方主视觉区，短标签放底部，避免遮挡腰线与裤腿流动线条。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2083386055588290852) | 2026-08-01
+
+---
+

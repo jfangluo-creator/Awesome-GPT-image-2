@@ -10389,3 +10389,17 @@ Decorative details: At top left, add a small 3×3 dot motif, exactly 9 dots, usi
 
 ---
 
+### 🎨 例 5519：月光森林中的银发女战士
+
+![月光森林中的银发女战士](../images/%E6%9C%88%E5%85%89%E6%A3%AE%E6%9E%97%E4%B8%AD%E7%9A%84%E9%93%B6%E5%8F%91%E5%A5%B3%E6%88%98%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+{argument name="ロケーション" default="霧の森"}に佇む{argument name="髪色" default="銀髪"}の{argument name="職業" default="女戦士"}、青白い月光が鎧を照らし、杖先で妖精の光が舞う。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2083349493903237463) | 2026-08-01
+
+---
+
