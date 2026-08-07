@@ -3681,3 +3681,39 @@ A young {argument name="subject" default="Burmese woman"} with long straight bla
 
 ---
 
+### 🏛️ 例 5529：Ethereal White Jade Sky Corridor
+
+![Ethereal White Jade Sky Corridor](../images/Ethereal%20White%20Jade%20Sky%20Corridor.jpg)
+
+**Prompt:**
+
+```text
+{argument name="场景类型" default="一张电影感的东方仙侠场景图"}，cinematic wide shot，严格的 one-point perspective 单点透视。
+主体是一条{argument name="核心建筑" default="悬浮在云海之上的白玉长廊"}，从画面右下角向左上方深处急剧收缩，消失点落在画面
+左侧三分之一处。长廊上方是白玉梁枋与藻井，雕满缠枝卷云与螭龙纹，边缘描极细的金线；
+一整排立柱沿廊排开，柱身为深朱红色漆木，柱头与柱础是白玉透雕，越向深处柱距越密、
+尺寸越小。长廊中段矗立一座巨大的白玉圆环月洞装饰，环身盘绕浮雕云龙，环内透出远处的
+蓝天与云。
+
+长廊地面是抛光如镜的白玉，完整倒映上方的天空与积云——画面下半部几乎全是倒影中的云，
+虚实交错。廊外侧是深色木质镂空花格栏杆。
+
+{argument name="人物描述" default="三位年轻女子立于栏杆边向外眺望"}，全部背影，身量极小，仅占画面高度的十分之一：一位穿
+青绿色广袖襦裙，两位穿月白与淡青色褙子，长发垂落，衣袖被风轻轻带起。
+
+画面左侧是一座悬浮的山岛，覆满深绿松柏与垂落的藤萝，岛下垂着一道细长的白色瀑布散入
+云中；更远的云海里隐约浮着数座层叠的中式楼阁，尺度极小，被雾气柔化。
+
+天空是明亮通透的蔚蓝，缀满大朵蓬松的白色积云，云层有清晰的体积与层次。暖金色阳光从
+画面右侧低角度斜射入廊，在朱红柱身与白玉雕花上镀出明亮高光，柱间形成 backlit 光晕与
+柔和的 lens flare 星芒；廊内阴影是干净的冷蓝灰。
+
+色彩为暖金、朱红、白玉与蔚蓝白云的高对比组合，明亮通透，饱和饱满但不艳俗。质感：
+cinematic film still，shallow depth of field 使前景柱子轻微虚化，强烈的 aerial
+perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整体空灵、辽阔、梦幻。
+```
+
+**来源：** [@John](https://x.com/johnAGI168/status/2085386658732515811) | 2026-08-06
+
+---
+

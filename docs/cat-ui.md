@@ -10795,3 +10795,250 @@ A RAW, ultra-realistic smartphone photo of {argument name="subject" default="a b
 
 ---
 
+### 🖥️ 例 5523：Luxury Yacht Portrait
+
+![Luxury Yacht Portrait](../images/Luxury%20Yacht%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+An ultra-realistic close-up portrait of an elegant young woman enjoying a sunny afternoon aboard a luxury yacht cruising across a pristine tropical lagoon. She is captured from a three-quarter rear angle, her body turned away from the camera as she glances back with a relaxed, radiant smile. She has flawless fair skin, a softly sculpted oval face, expressive dark eyebrows, delicate facial features, naturally rosy lips, and luminous skin. Her long chestnut-brown wavy hair flows freely in the ocean breeze. She is dressed in a sleek black sleeveless top, accessorized with vintage-inspired oval sunglasses featuring a slim gold frame and a minimalist rose-gold wristwatch. Behind her, sparkling turquoise water stretches to the horizon beneath a vivid blue sky filled with towering white clouds, creating an idyllic luxury travel atmosphere. Warm natural sunlight enhances the rich ocean colors and subtle skin tones. Shallow depth of field, premium travel editorial style, lifelike skin detail, crisp hair strands, HDR photography, cinematic realism, flagship smartphone camera quality, ultra-detailed 8K.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2085409218623103308) | 2026-08-06
+
+---
+
+### 🖥️ 例 5527：Sydney Sweeney Aesthetic Mirror Selfie
+
+![Sydney Sweeney Aesthetic Mirror Selfie](../images/Sydney%20Sweeney%20Aesthetic%20Mirror%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+An ultra-realistic, close-up mirror selfie portrait of a beautiful young woman with the distinctive appearance of {argument name="celebrity lookalike" default="Sydney Sweeney"}. She has luminous porcelain skin with a naturally flawless complexion and a light dusting of subtle freckles across her nose and cheeks. Her striking large {argument name="eye color" default="crystal-blue"} eyes feature intricate iris detail, enhanced by long curled eyelashes and soft natural makeup. She has delicately arched blonde eyebrows, a small refined nose, and full glossy soft-pink lips with her tongue playfully sticking out while glancing slightly to the side, creating a cute, playful, and effortlessly charming expression.
+Her signature honey-blonde hair is styled into two neat braided pigtails with soft face-framing wispy bangs. She wears oversized {argument name="accessory type" default="black square-frame eyeglasses"}, premium matte-black over-ear wireless headphones, and a black knitted beanie featuring a bold white "NY" logo embroidered on the front.
+She is dressed in a fitted black turtleneck long-sleeve top with a sleek minimalist aesthetic. One hand is raised beside her face making a peace (V) sign, while the other holds a modern matte-black smartphone to capture the mirror selfie.
+The background consists of a smooth light-gray concrete wall with a modern industrial aesthetic, softly blurred to keep complete focus on the subject. Soft diffused indoor lighting creates gentle catchlights in her eyes and beautifully enhances her blonde hair, porcelain skin, realistic texture, and glossy lips. The composition is tightly cropped from the chest upward with excellent facial symmetry and a shallow depth of field.
+Style: Hyper-realistic photography, 85mm portrait lens, f/1.8, DSLR quality, ultra-detailed facial features, cinematic soft lighting, realistic skin texture with visible pores, natural color grading, premium fashion editorial quality, Instagram influencer aesthetic, photorealistic, 8K UHD, sharp focus, shallow depth of field, clean minimalist composition, highly detailed, vertical portrait, 3:4 aspect ratio.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2085395083147559155) | 2026-08-06
+
+---
+
+### 🖥️ 例 5540：Happiest Hamster Portrait
+
+![Happiest Hamster Portrait](../images/Happiest%20Hamster%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+これまで話してきた中で最も幸せそうな{argument name="生き物" default="ハムスター"}を描いて
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2085345333278900679) | 2026-08-06
+
+---
+
+### 🖥️ 例 5543：Editorial Typography Poster Design
+
+![Editorial Typography Poster Design](../images/Editorial%20Typography%20Poster%20Design.jpg)
+
+**Prompt:**
+
+```text
+Create a 9:16 editorial typography poster from a single human-centered lifestyle moment.
+Use oversized typography as the main composition structure. Let the person, movement, city space, or everyday scene appear inside the letters, pass through them, or break beyond their edges. The image should feel integrated with the type, not simply placed behind text.Theme: {argument name="theme" default="Custom Title"}
+Subject: {argument name="subject" default="Subject Gender Or Origin"}
+Human state: {argument name="human state" default="Human State"}
+Color palette: [Color Palette]
+Series: HUMAN FRAGMENTS
+Year: 2026
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2085341316905672847) | 2026-08-06
+
+---
+
+### 🖥️ 例 5547：Dual Reality Vertical Panel Portrait
+
+![Dual Reality Vertical Panel Portrait](../images/Dual%20Reality%20Vertical%20Panel%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+"identity":{"reference":"Use the uploaded face photo as the STRICT identity reference.","priority":"ABSOLUTE","preserve":["exact facial identity","facial proportions","eyes","eyebrows","nose","lips","jawline","ears","skin tone","skin texture","hairline","hairstyle","recognizable appearance"],"gender":"Automatically adapt naturally for male or female."},
+
+"image":{"title":"DUAL REALITY","aspect_ratio":"{argument name="ratio" default="4:5"}","style":["Ultra Photorealistic","Luxury Fashion Editorial","Fine Art Poster","Minimal Graphic Design","Gallery Exhibition","Museum Quality"],"concept":"A single luxury editorial portrait viewed through {argument name="panels" default="six"} vertical masking panels. The portrait exists only once beneath the layout. The panels simply reveal different portions of the same photograph while alternating between monochrome and natural color grading.","composition":{"camera":"Straight-on.","shot":"Close-up portrait.","crop":"Top of the hair to upper shoulders.","subject_position":"Perfectly centered.","pose":"Body facing directly toward the camera.","head":"Perfectly straight with absolutely no rotation or tilt.","expression":"Calm, elegant, emotionally restrained, luxury fashion model.","eyes":"Direct eye contact with the camera.","symmetry":"Perfect facial symmetry within the original portrait."},"portrait":{"important":["Only ONE portrait exists.","Never generate separate faces inside each panel.","Every panel reveals the exact same portrait underneath.","Eyes, eyebrows, nose, lips, hair and skin pores align perfectly across all panels.","No duplicated facial features.","No identity drift.","No perspective differences between panels."]},"graphic_layout":{"type":"Vertical masking windows.","panel_count":6,"spacing":"Uniform narrow white gaps.","alignment":"Perfect.","widths":["medium","narrow","medium","narrow","wide","medium"],"heights":["80%","92%","100%","84%","92%","78%"],"effect":"The panels are only cropping masks. They never create new portraits."},"color_distribution":{"panel_1":"Natural color","panel_2":"Monochrome","panel_3":"Natural color","panel_4":"Monochrome","panel_5":"Natural color","panel_6":"Monochrome","rule":"Only the color grading changes. The portrait never changes."},"background":{"color":"Warm off-white.","texture":"Luxury cotton paper with subtle grain.","negative_space":"Large clean margins."},"lighting":{"style":"Soft editorial studio lighting.","quality":"Large diffused softbox.","contrast":"Medium.","skin":"Natural realistichighlights."},"typography":{"headline":{"text":"DUAL REALITY","font":"Canela Display / Didot / Editorial New","position":"Bottom center.","tracking":"+180","size":"Large.","color":"#222222"},"quote":{"text":"\"True identity exists between light and color.\"","font":"Helvetica Neue","position":"Bottom left.","size":"Small.","color":"#555555"}},"camera_settings":{"camera":"Phase One XF IQ4 150MP","lens":"110mm portrait lens","aperture":"f/5.6","focus":"Pin-sharp eyes with natural skin
+texture."}}
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2085337885381894410) | 2026-08-06
+
+---
+
+### 🖥️ 例 5564：Character Workspace Generator
+
+![Character Workspace Generator](../images/Character%20Workspace%20Generator.jpg)
+
+**Prompt:**
+
+```text
+[Mode] character_workspace_synthesis
+[Input] 1 reference character image
+[Output] 1 final image only
+
+[Core Binding]
+Bind identity to source-character tokens:
+- face topology
+- eye geometry / iris color
+- hair shape / color mapping / accent placement
+- body proportion
+- age read
+- costume mood
+- signature accessories
+- source rendering logic if non-photographic
+
+[Latent Derivation]
+Infer vocation-language from observable signals only:
+chromatic cues, expression tone, styling logic, silhouette character, object affinity, atmospheric read.
+Do not assign a generic real-world office role by default.
+Translate the observed signals into one character-specific fictional occupation.
+Prefer interpretive divergence across different characters.
+
+[Occupation Synthesis]
+Create one original job that feels naturally owned by the character.
+The vocation may be creative, fantastical, artisan, research-based, service-based, archival, atmospheric, or semi-magical, as long as it remains visually legible.
+The role must feel specific rather than broad.
+Examples of acceptable directionality:
+memory repairer, dream courier, color researcher, sound archivist, moonlight florist, relic conservator, weather note keeper.
+Avoid overused defaults such as “barista”, “idol”, or “office worker” unless the reference strongly supports them.
+
+[Workspace Assembly]
+Construct a believable dedicated workplace for that vocation:
+workbench / desk / storage / tools / display surfaces / task materials / lighting / signage / wall elements / small process artifacts.
+The environment must communicate the job through object selection and spatial planning.
+Include traces of ongoing work.
+Not messy-chaotic. Not showroom-sterile.
+The space should feel functional, inhabited, and tailored to the character.
+
+[Costume Adaptation]
+Allow wardrobe adjustment only as needed to support the fictional job.
+Preserve identity lock while adapting into work-appropriate styling:
+apron, coat, gloves, utility accessories, badge, tool belt, or other profession-linked details if relevant.
+Do not erase the source character’s core visual identity.
+
+[Framing]
+Character present inside the workspace as main subject.
+Environment must remain readable and clearly tied to the vocation.
+Single character only.
+Approx framing: knees-up to full figure.
+Face visibility priority high.
+
+[Text Budget | optional]
+workplace name
+job title
+short copy
+up to 3 micro-profile or service cues
+Keep sparse and readable.
+
+[Result Goal]
+Stylish character-workspace reveal image with strong lifestyle, profession, and worldbuilding value.
+The viewer should feel:
+“this job was designed specifically for this character.”
+
+[Canvas] vertical 3:4
+```
+
+**来源：** [@【公式】癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2085254893489836495) | 2026-08-06
+
+---
+
+### 🖥️ 例 5572：Minimalist Luxury Street Fashion
+
+![Minimalist Luxury Street Fashion](../images/Minimalist%20Luxury%20Street%20Fashion.jpg)
+
+**Prompt:**
+
+```text
+A minimalist luxury street-style fashion portrait of a stylish young woman confidently walking down wide modern granite stairs outside a contemporary architectural building. She wears an {argument name="outfit" default="oversized black t-shirt"} with relaxed black wide-leg trousers, {argument name="shoes" default="crisp white sneakers"}, oversized black sunglasses, and carries a sleek black leather shoulder bag with a silver chain strap. Her dark hair is styled in a low messy bun with soft face-framing strands, one hand in her pocket as she walks naturally. The background features clean concrete walls, stainless steel handrails, geometric lines, and modern urban architecture, creating a monochrome aesthetic. Soft overcast daylight, muted neutral tones, editorial fashion photography, effortless elegance, luxury minimalist style, ultra-realistic, DSLR quality, 50mm lens, f/2.0, natural skin texture, cinematic color grading, shallow depth of field, highly detailed fabric textures, photorealistic, 8K, premium lifestyle magazine aesthetic.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2085206546066313690) | 2026-08-06
+
+---
+
+### 🖥️ 例 5576：Character-Specific Room Synthesis Prompt
+
+![Character-Specific Room Synthesis Prompt](../images/Character-Specific%20Room%20Synthesis%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+[Mode] character_room_synthesis
+[Input] 1 reference character image
+[Output] 1 final image only
+
+[Core Binding]
+Bind identity to source-character tokens:
+- face topology
+- eye geometry / iris color
+- hair shape / color mapping / accent placement
+- body proportion
+- age read
+- costume mood
+- signature accessories
+- source rendering logic if non-photographic
+
+[Latent Derivation]
+Infer room-language from observable signals only:
+chromatic cues, expression tone, styling logic, object affinity, atmospheric read.
+Translate into one owned private room.
+Prefer per-character divergence; avoid generic “cute room” defaults.
+
+[Scene Assembly]
+Construct a believable inhabited room:
+furniture + storage + desk/bed/shelf system + lighting + wall elements + hobby artifacts + small daily-use objects.
+The room must communicate personality through space planning and object selection.
+Not messy-chaotic. Not showroom-sterile.
+
+[Framing]
+Character present in-room as main subject.
+Environment must remain legible.
+Single character only.
+Approx framing: knees-up to full figure.
+Face visibility priority high.
+
+[Text Budget | optional]
+room name
+short copy
+up to 3 micro-profile items
+Keep sparse and readable.
+
+[Result Goal]
+Stylish character-room reveal image with lifestyle and worldbuilding value.
+
+[Canvas] vertical 3:4
+
+Avoid converging on a universal ideal room; let each output reflect a distinct interpretation of the attached character.
+```
+
+**来源：** [@【公式】癒音ちー✨ゆおんちー✨癒やし声ASMRとAI](https://x.com/chi_vc_/status/2085200846112043105) | 2026-08-06
+
+---
+
+### 🖥️ 例 5584：Low-Angle Flower Field Portrait
+
+![Low-Angle Flower Field Portrait](../images/Low-Angle%20Flower%20Field%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic low-angle fashion portrait of {argument name="subject" default="a young East Asian woman"} crouching or kneeling among tall green flower stems and long blade-like leaves, wearing {argument name="outfit" default="a minimal white deep-side-cut one-piece swimsuit"}. She has {argument name="hair style" default="short dark wet tousled hair with wispy bangs"}, luminous natural skin, and a calm contemplative expression as she tilts her head upward to the right, eyes looking toward the sunlight. Surround her with exactly 12 prominent pale cream-white poppy-like flowers with golden orange centers on tall green stems: 1 large cropped blossom at the top center, 1 large blossom at the upper right, 1 partial warm yellow blossom in the extreme upper left corner, 2 blossoms on the left background, 1 blossom directly behind the top of her head, 2 blossoms in the mid-right background, 1 blossom near the far right edge, and 3 softer smaller blossoms scattered in the distant background. Use a vivid clear blue sky, bright midday sunlight, warm highlights, crisp shadows, shallow depth of field, slight wide-angle perspective from below the flower canopy, foreground leaves softly blurred at the bottom and sides, ultra-realistic skin texture, glossy hair strands, fresh spring atmosphere, high-resolution editorial photography, vertical 4:5 composition. Avoid text, logos, jewelry, hats, extra people, and artificial studio lighting.
+```
+
+**来源：** [@リクオくん](https://x.com/airikuokun/status/2085157028234920403) | 2026-08-06
+
+---
+

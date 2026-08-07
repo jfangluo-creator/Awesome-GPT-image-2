@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (364)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (373)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -721,6 +721,24 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 5490: 高山湖泊日出倒影](cat-ui.md#️-例-5490高山湖泊日出倒影)
 
 - [Case 5506: RAW 智能手机生活感人像](cat-ui.md#️-例-5506raw-智能手机生活感人像)
+
+- [Case 5523: Luxury Yacht Portrait](cat-ui.md#️-例-5523luxury-yacht-portrait)
+
+- [Case 5527: Sydney Sweeney Aesthetic Mirror Selfie](cat-ui.md#️-例-5527sydney-sweeney-aesthetic-mirror-selfie)
+
+- [Case 5540: Happiest Hamster Portrait](cat-ui.md#️-例-5540happiest-hamster-portrait)
+
+- [Case 5543: Editorial Typography Poster Design](cat-ui.md#️-例-5543editorial-typography-poster-design)
+
+- [Case 5547: Dual Reality Vertical Panel Portrait](cat-ui.md#️-例-5547dual-reality-vertical-panel-portrait)
+
+- [Case 5564: Character Workspace Generator](cat-ui.md#️-例-5564character-workspace-generator)
+
+- [Case 5572: Minimalist Luxury Street Fashion](cat-ui.md#️-例-5572minimalist-luxury-street-fashion)
+
+- [Case 5576: Character-Specific Room Synthesis Prompt](cat-ui.md#️-例-5576character-specific-room-synthesis-prompt)
+
+- [Case 5584: Low-Angle Flower Field Portrait](cat-ui.md#️-例-5584low-angle-flower-field-portrait)
 ---
 
 <a id="chart"></a>
@@ -909,7 +927,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (797)
+## 🎴 [Posters & Cards](cat-poster.md) (799)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -2467,11 +2485,15 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5510: 高端杨枝甘露甜品海报](cat-poster.md#-例-5510高端杨枝甘露甜品海报)
 
 - [Case 5512: 高端夏季时尚海报提示词](cat-poster.md#-例-5512高端夏季时尚海报提示词)
+
+- [Case 5522: Pop Art Product Branding Grid](cat-poster.md#-例-5522pop-art-product-branding-grid)
+
+- [Case 5530: Modern Movement Theater Poster Campaign](cat-poster.md#-例-5530modern-movement-theater-poster-campaign)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2306)
+## 📷 [Photography & Realistic](cat-photo.md) (2307)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -7017,11 +7039,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 5517: 霓虹东京街头肖像](cat-photo.md#-例-5517霓虹东京街头肖像)
 
 - [Case 5518: 霓虹连帽街头肖像](cat-photo.md#-例-5518霓虹连帽街头肖像)
+
+- [Case 5550: Hyper-Realistic Winking Girl Summer Portrait](cat-photo.md#-例-5550hyper-realistic-winking-girl-summer-portrait)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (460)
+## 🎨 [Illustration & Art](cat-illustration.md) (493)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -7927,6 +7951,72 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 5493: 三色调配色方案设计](cat-illustration.md#-例-5493三色调配色方案设计)
 
 - [Case 5519: 月光森林中的银发女战士](cat-illustration.md#-例-5519月光森林中的银发女战士)
+
+- [Case 5520: Outdoor Park Yoga Stretch](cat-illustration.md#-例-5520outdoor-park-yoga-stretch)
+
+- [Case 5521: Submerged Planetarium Female Portrait](cat-illustration.md#-例-5521submerged-planetarium-female-portrait)
+
+- [Case 5525: Graphic Design Editorial Poster](cat-illustration.md#-例-5525graphic-design-editorial-poster)
+
+- [Case 5531: Icy Whale Summer Soda](cat-illustration.md#-例-5531icy-whale-summer-soda)
+
+- [Case 5532: Minimal In the Mood for Love Typography Poster](cat-illustration.md#-例-5532minimal-in-the-mood-for-love-typography-poster)
+
+- [Case 5533: Girl in Blue Floral Kimono](cat-illustration.md#-例-5533girl-in-blue-floral-kimono)
+
+- [Case 5536: Solitary Wolf-Girl Fantasy Character](cat-illustration.md#-例-5536solitary-wolf-girl-fantasy-character)
+
+- [Case 5537: Elegant Anime Naval Girl Portrait](cat-illustration.md#-例-5537elegant-anime-naval-girl-portrait)
+
+- [Case 5538: Lotus Silhouette Sunset Arch](cat-illustration.md#-例-5538lotus-silhouette-sunset-arch)
+
+- [Case 5539: Golden Hour Car Portrait](cat-illustration.md#-例-5539golden-hour-car-portrait)
+
+- [Case 5541: Grunge Punk Cyber Goth Collage](cat-illustration.md#-例-5541grunge-punk-cyber-goth-collage)
+
+- [Case 5544: Chinese Silhouette Lantern Wallpaper](cat-illustration.md#-例-5544chinese-silhouette-lantern-wallpaper)
+
+- [Case 5545: Minimalist Meadow Portrait](cat-illustration.md#-例-5545minimalist-meadow-portrait)
+
+- [Case 5548: Gothic Chibi Vampire Album Cover](cat-illustration.md#-例-5548gothic-chibi-vampire-album-cover)
+
+- [Case 5549: Cinematic Luxury Fashion Portrait](cat-illustration.md#-例-5549cinematic-luxury-fashion-portrait)
+
+- [Case 5552: Expressionist Digital Oil Painting](cat-illustration.md#-例-5552expressionist-digital-oil-painting)
+
+- [Case 5553: Winter Mountain Editorial Portrait](cat-illustration.md#-例-5553winter-mountain-editorial-portrait)
+
+- [Case 5554: Gender-Reversal Anime Magazine Cover](cat-illustration.md#-例-5554gender-reversal-anime-magazine-cover)
+
+- [Case 5555: Golden Hour Tropical Portrait](cat-illustration.md#-例-5555golden-hour-tropical-portrait)
+
+- [Case 5556: Elegant Fantasy Princess in Royal Gown](cat-illustration.md#-例-5556elegant-fantasy-princess-in-royal-gown)
+
+- [Case 5561: Translucent Lotus Cyanotype](cat-illustration.md#-例-5561translucent-lotus-cyanotype)
+
+- [Case 5563: Spring Park Lifestyle Photography](cat-illustration.md#-例-5563spring-park-lifestyle-photography)
+
+- [Case 5566: East Asian Woman Bokeh Portrait](cat-illustration.md#-例-5566east-asian-woman-bokeh-portrait)
+
+- [Case 5569: East Asian Woman Making Peace Sign](cat-illustration.md#-例-5569east-asian-woman-making-peace-sign)
+
+- [Case 5570: Dreamy Japanese Woman Pine Forest Portrait](cat-illustration.md#-例-5570dreamy-japanese-woman-pine-forest-portrait)
+
+- [Case 5571: Luxury Fashion Mirror Selfie](cat-illustration.md#-例-5571luxury-fashion-mirror-selfie)
+
+- [Case 5574: Restaurant Manager Character Sheet Generator](cat-illustration.md#-例-5574restaurant-manager-character-sheet-generator)
+
+- [Case 5575: Graffiti Stairwell Sweet-Goth Fashion Portrait](cat-illustration.md#-例-5575graffiti-stairwell-sweet-goth-fashion-portrait)
+
+- [Case 5577: Woman With Giant Blue Angry Bird](cat-illustration.md#-例-5577woman-with-giant-blue-angry-bird)
+
+- [Case 5578: Monochromatic Yellow Editorial Fashion](cat-illustration.md#-例-5578monochromatic-yellow-editorial-fashion)
+
+- [Case 5579: Dreamy Cinematic Portrait with Golden Halo](cat-illustration.md#-例-5579dreamy-cinematic-portrait-with-golden-halo)
+
+- [Case 5581: Cinematic Coffee Journey Storyboard](cat-illustration.md#-例-5581cinematic-coffee-journey-storyboard)
+
+- [Case 5583: Beijing Good Morning Poster](cat-illustration.md#-例-5583beijing-good-morning-poster)
 ---
 
 <a id="character"></a>
@@ -8311,7 +8401,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (269)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (270)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -8837,11 +8927,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 5455: 3D Pixar Q 版角色转换](cat-3d.md#-例-54553d-pixar-q-版角色转换)
 
 - [Case 5514: 粉色运动套装 T 恤样机](cat-3d.md#-例-5514粉色运动套装-t-恤样机)
+
+- [Case 5551: 3D Character Name Sculpture](cat-3d.md#-例-55513d-character-name-sculpture)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (160)
+## 🏛️ [Architecture & Space](cat-architecture.md) (161)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -9153,6 +9245,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 5349: Y2K 办公室风格肖像](cat-architecture.md#️-例-5349y2k-办公室风格肖像)
 
 - [Case 5442: 庆典仪式感视觉海报](cat-architecture.md#️-例-5442庆典仪式感视觉海报)
+
+- [Case 5529: Ethereal White Jade Sky Corridor](cat-architecture.md#️-例-5529ethereal-white-jade-sky-corridor)
 ---
 
 <a id="comic"></a>
@@ -9603,7 +9697,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (497)
+## 🏷️ [Brand & Packaging](cat-brand.md) (515)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -10592,6 +10686,42 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 5509: Blue Weather 护肤品视觉提案](cat-brand.md#️-例-5509blue-weather-护肤品视觉提案)
 
 - [Case 5511: 甜点直播品牌封面系统](cat-brand.md#️-例-5511甜点直播品牌封面系统)
+
+- [Case 5524: Neo-Noir Cinematic Rain Portrait](cat-brand.md#️-例-5524neo-noir-cinematic-rain-portrait)
+
+- [Case 5526: Dreamy Watercolor Countryside Illustration](cat-brand.md#️-例-5526dreamy-watercolor-countryside-illustration)
+
+- [Case 5528: Victorian Royal Courtyard Fashion Portrait](cat-brand.md#️-例-5528victorian-royal-courtyard-fashion-portrait)
+
+- [Case 5534: Underwater Anime Mermaid Portrait](cat-brand.md#️-例-5534underwater-anime-mermaid-portrait)
+
+- [Case 5535: Fashion Product Advertisement Poster](cat-brand.md#️-例-5535fashion-product-advertisement-poster)
+
+- [Case 5542: Korean Floral Editorial Portrait](cat-brand.md#️-例-5542korean-floral-editorial-portrait)
+
+- [Case 5546: Vibrant Fashion Portrait with Orange Soda](cat-brand.md#️-例-5546vibrant-fashion-portrait-with-orange-soda)
+
+- [Case 5557: Cat-Eared Schoolgirl in Sweets Arcade](cat-brand.md#️-例-5557cat-eared-schoolgirl-in-sweets-arcade)
+
+- [Case 5558: Vintage Brass Hanging Lantern](cat-brand.md#️-例-5558vintage-brass-hanging-lantern)
+
+- [Case 5559: Japanese Civil Code Article 177 Infographic](cat-brand.md#️-例-5559japanese-civil-code-article-177-infographic)
+
+- [Case 5560: Mosaic Butterfly and Geometric Coffee Art](cat-brand.md#️-例-5560mosaic-butterfly-and-geometric-coffee-art)
+
+- [Case 5562: Futuristic Cyber Businessman Portrait](cat-brand.md#️-例-5562futuristic-cyber-businessman-portrait)
+
+- [Case 5565: Elegant Abstract Fashion Portrait](cat-brand.md#️-例-5565elegant-abstract-fashion-portrait)
+
+- [Case 5567: Miniature Breakfast Room Inside Eggshell](cat-brand.md#️-例-5567miniature-breakfast-room-inside-eggshell)
+
+- [Case 5568: Old Money Library Portrait](cat-brand.md#️-例-5568old-money-library-portrait)
+
+- [Case 5573: Vintage Car Window Blue Hour Portrait](cat-brand.md#️-例-5573vintage-car-window-blue-hour-portrait)
+
+- [Case 5580: Manga Character Triptych Design](cat-brand.md#️-例-5580manga-character-triptych-design)
+
+- [Case 5582: Cinematic Nike Sports Dance Poster](cat-brand.md#️-例-5582cinematic-nike-sports-dance-poster)
 ---
 
 <a id="edit"></a>

@@ -13114,3 +13114,301 @@ Constraints: Keep exactly 2 panels, exactly 1 woman per panel, exactly 1 giant c
 
 ---
 
+### 🏷️ 例 5524：Neo-Noir Cinematic Rain Portrait
+
+![Neo-Noir Cinematic Rain Portrait](../images/Neo-Noir%20Cinematic%20Rain%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic night portrait of the person from the uploaded photo, preserving the exact facial features, hairstyle, skin tone, and identity. He is wearing a {argument name="outerwear" default="premium black waterproof raincoat"} with {argument name="gloves" default="black leather gloves"}. In one hand, he holds a {argument name="accessory" default="large open black umbrella"}, tilted slightly backward to cover his head and shoulders while keeping his entire face fully visible. His face is illuminated by a soft, bright directional key light that enhances his facial structure, sharp jawline, and natural skin texture. Expression is calm, confident, and slightly thoughtful, looking directly at the camera. The background features a blurred nighttime metropolitan street with glowing streetlights, cinematic bokeh, wet asphalt reflecting warm city lights, and subtle rainfall. Raindrops are barely visible, creating a moody, atmospheric ambience. Warm orange and golden highlights contrast with cool blue shadows, giving a premium neo-noir cinematic look. Professional editorial photography, shallow depth of field, ultra-detailed, HDR, 85mm lens, f/1.4, realistic skin texture, natural proportions, dramatic lighting, 8K, masterpiece, photorealistic.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2085408519185215829) | 2026-08-06
+
+---
+
+### 🏷️ 例 5526：Dreamy Watercolor Countryside Illustration
+
+![Dreamy Watercolor Countryside Illustration](../images/Dreamy%20Watercolor%20Countryside%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Transform the uploaded selfie into an original dreamy hand-painted countryside storybook illustration while preserving the person's exact facial identity, hairstyle, pose, clothing, accessories, and overall composition. Keep the expression natural and relaxed with a gentle smile, ensuring the person remains instantly recognizable.
+
+Render the artwork with soft watercolor textures, delicate pencil linework, warm natural sunlight, lush green hills, colorful wildflowers, a peaceful countryside path, and a serene coastal landscape. Use subtle watercolor shading, soft atmospheric depth, warm earthy tones, and a handcrafted storybook feel. Preserve all clothing details exactly as shown in the original image.
+
+Replace the original background with {argument name="background" default="rolling green hills, blooming flowers, a rustic cottage, wooden fences, a winding path, a sparkling blue coastline, fluffy clouds, birds, and drifting flower petals"}. Keep the composition balanced, cinematic, and visually calming.
+
+Style: Original cinematic storybook illustration, whimsical countryside fantasy, hand-painted watercolor, soft painterly textures, warm natural colors, elegant 2D artwork, high detail, 4:5 aspect ratio.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2085397506163425518) | 2026-08-06
+
+---
+
+### 🏷️ 例 5528：Victorian Royal Courtyard Fashion Portrait
+
+![Victorian Royal Courtyard Fashion Portrait](../images/Victorian%20Royal%20Courtyard%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic full-body fashion portrait of an elegant young woman standing in a lush royal courtyard during a bright spring afternoon. She has long chestnut-brown hair styled into {argument name="hair style" default="twin buns adorned with delicate pearl blossoms"}, expressive {argument name="eye color" default="emerald-green"} eyes, and a warm, natural smile. She wears an intricately designed {argument name="dress color" default="sapphire-blue and ivory"} Victorian-inspired dress featuring layered ruffles, embroidered lace, puffed sleeves, a fitted bodice, and a decorative waist ribbon, complemented by a crisp white apron. Her outfit is completed with white over-the-knee stockings accented by satin ribbons and classic white heels. She stands gracefully along a cobblestone garden path surrounded by blooming hydrangeas, roses, and climbing flowers, with an enchanting palace rising in the distance. Soft golden sunlight filters through the trees, creating cinematic highlights and gentle shadows. Ultra-photorealistic skin with natural pores, lifelike facial details, authentic textures, shallow depth of field, premium editorial photography, HDR, captured on an 85mm full-frame camera, breathtaking realism, ultra-high detail, 8K.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2085394488684695839) | 2026-08-06
+
+---
+
+### 🏷️ 例 5534：Underwater Anime Mermaid Portrait
+
+![Underwater Anime Mermaid Portrait](../images/Underwater%20Anime%20Mermaid%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a vivid vertical anime illustration of an underwater {argument name="character type" default="young mermaid-like girl"} gazing upward in wonder, shown from the chest up with her face in three-quarter profile. She has luminous {argument name="hair color" default="aqua-white hair with cyan and pink streaks"}, long flowing twin braids and loose strands drifting in the water, plus a starfish hair clip near one temple. Give her huge sparkling iridescent blue eyes with refracted rainbow highlights, soft pale skin, delicate eyelashes, and tiny air bubbles clinging to her cheeks and neck. Surround her with exactly 29 visible tropical fish: 18 blue-and-yellow striped fish swimming across the bright upper water, 5 small yellow-and-black fish near the coral, 3 round pastel rainbow fish, 2 tiny purple-blue fish, and 1 blue fish resting near her shoulder. Add many transparent bubbles of different sizes, shimmering caustic light patterns on her skin and hair, sun rays streaming from the water surface above, and a rich coral reef background with pink branching coral and dark blue-green sea plants. Use a highly polished anime key-visual style, saturated turquoise and cobalt palette, crisp line art, glossy highlights, dreamy magical atmosphere, strong underwater refraction, high detail, vertical portrait composition, no text, no watermark.
+```
+
+**来源：** [@⚠️AI-Generated](https://x.com/davide432bado/status/2085373637352374622) | 2026-08-06
+
+---
+
+### 🏷️ 例 5535：Fashion Product Advertisement Poster
+
+![Fashion Product Advertisement Poster](../images/Fashion%20Product%20Advertisement%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Use the downloaded product image as an exact reference. Fully preserve the shape, packaging, materials, colors, proportions, logo, and brand elements.
+An ultra-realistic commercial advertising poster. A {argument name="view" default="low-angle wide-angle lens view"}. A confident, stylish model holding the product, directly facing the camera. The product dominates the foreground due to the forced perspective effect.
+A modern fashion image, with clothing, accessories, and color palette automatically adapting to the product's style and colors. Dynamic energy, premium brand aesthetics, trendy lifestyle content.
+A highly detailed product with realistic textures, reflections, water droplets, and perfectly legible packaging. The background is filled with {argument name="background elements" default="graphic elements in the brand's colors: graffiti, brush strokes, paint splashes, collage textures, arrows, stars, lightning bolts, stickers, and advertising typography"}.
+All text in the image must be written in {argument name="language" default="Russian"}, fully legible, grammatically correct, without spelling errors, random symbols, distorted letters, unreadable words, or AI artifacts. All headlines, slogans, descriptions, flavors, characteristics, and advertising phrases should look like a real professional advertisement.
+The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
+Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
+Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2085368090167001564) | 2026-08-06
+
+---
+
+### 🏷️ 例 5542：Korean Floral Editorial Portrait
+
+![Korean Floral Editorial Portrait](../images/Korean%20Floral%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the character and aesthetic base, regenerate it as a square 1:1 romantic Korean editorial beauty portrait. Change the composition to a softer side-profile close-up with the subject facing right, eyes closed, gently smelling or resting against a large pale pink peony held near her lips. Keep the same dreamy vintage-camera mood, floral hair ornament feeling, jade hair accessory, delicate dangling jewelry, soft makeup, and shimmering embroidered clothing, but make the outfit read more like an elegant pastel blue floral hanbok/editorial garment.
+
+Add new elements: a large pale pink peony flower in the foreground at the lower right; the subject’s hand near her chin with glossy nails and a decorative floral ring; warm bokeh light leaks and small star-like lens sparkles; a beige-gold film grain wash; thin white viewfinder corner brackets and a small crosshair near the center.
+
+Overlay typography: replace the original VHS labels with a clean modern vintage camcorder/editorial layout. Include exactly these 9 visible text groups: 1) top-left “DV CAM” with a play icon and “00:03:21”; 2) left vertical date “20” over “24”; 3) five small hollow circles stacked vertically; 4) small editorial block “ROSEPOEM” with “BLOOMING / IN / SILENCE”; 5) large Korean headline {argument name="headline text" default="꽃은\n말이 없다"}; 6) smaller Korean subtitle {argument name="subtitle text" default="그저, 피어날 뿐"}; 7) small Korean poem text {argument name="poem text" default="빛, 바람\n그리고\n너의 숨결"}; 8) bottom-left “Vol.7 / BEAUTY / COLLECTION”; 9) top-right “classic / modern”. Keep a tiny “palyforge” signature at bottom right.
+
+Style: ultra-soft photorealistic anime-inspired beauty illustration, cinematic macro lens, shallow depth of field, muted peach, jade, and powder-blue palette, nostalgic film texture, elegant magazine cover spacing. Avoid changing the subject into a different person; preserve the reference’s delicate facial proportions and refined mood while making the pose and layout match the new editorial concept.
+```
+
+**来源：** [@𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI/status/2085342095657808119) | 2026-08-06
+
+---
+
+### 🏷️ 例 5546：Vibrant Fashion Portrait with Orange Soda
+
+![Vibrant Fashion Portrait with Orange Soda](../images/Vibrant%20Fashion%20Portrait%20with%20Orange%20Soda.jpg)
+
+**Prompt:**
+
+```text
+A vibrant lifestyle fashion portrait of a cute young woman with {argument name="hair description" default="long chestnut-brown hair styled in a half-up ponytail"} secured with a white floral scrunchie and soft curtain bangs framing her face. She wears an oversized {argument name="shirt color" default="bright orange T-shirt"} casually knotted at the waist with light-wash denim jeans, a delicate gold choker necklace, and minimal accessories. She playfully holds a {argument name="prop" default="matching orange soda can"} over one eye while making a soft pout, creating a fun, youthful expression. The background features bold orange sports jerseys and colorful branded décor, giving a trendy pop-up store aesthetic. Bright indoor lighting with vivid colors, soft skin tones, glossy lips, natural peach blush, fair glowing skin, editorial fashion photography, dynamic composition, shallow depth of field, crisp focus, ultra-realistic, cinematic color grading, 50mm lens, f/1.8, HDR, 8K, photorealistic, energetic Gen Z streetwear campaign, premium commercial advertising style.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2085338209001566472) | 2026-08-06
+
+---
+
+### 🏷️ 例 5557：Cat-Eared Schoolgirl in Sweets Arcade
+
+![Cat-Eared Schoolgirl in Sweets Arcade](../images/Cat-Eared%20Schoolgirl%20in%20Sweets%20Arcade.jpg)
+
+**Prompt:**
+
+```text
+Create a polished anime-style full-body illustration of {argument name="character name" default="a cat-eared schoolgirl"} walking toward the viewer inside a bright, cozy Japanese sweets shopping arcade. She is centered in a slightly low, dynamic portrait composition, with a confident but mildly pouty expression, large violet eyes, rosy cheeks, and long flowing {argument name="hair color" default="silver-white"} hair with soft curls and matching fluffy cat ears. Her outfit is a refined school uniform: navy blazer with white piping and gold buttons, crest patch on the chest, crisp white blouse, large red ribbon bow with a blue jewel brooch, red plaid pleated skirt, dark knee-high socks, and polished school shoes. She carries a dark brown leather school satchel in her right hand while her left hand is clenched as she strides forward. The background is a narrow indoor sweets arcade with exactly two main display counters, one on each side, filled with colorful animal-shaped pastries and candy boxes; warm wooden cabinetry, glass cases, red awnings, hanging black pendant lamps, glowing shop signs with stylized unreadable Japanese/English-like lettering, and a glossy cream-and-gray checkered tile floor. Use warm afternoon lighting, strong rim light from overhead fixtures, soft bloom, detailed fabric texture, glossy highlights on hair and eyes, shallow depth of field, clean line art, high-detail cel-shaded anime rendering, vibrant colors, vertical 3:4 composition, no watermark, no extra characters, and avoid readable real brand names.
+```
+
+**来源：** [@AI Bard Guild](https://x.com/IsekaiBardGuild/status/2085296421402796101) | 2026-08-06
+
+---
+
+### 🏷️ 例 5558：Vintage Brass Hanging Lantern
+
+![Vintage Brass Hanging Lantern](../images/Vintage%20Brass%20Hanging%20Lantern.jpg)
+
+**Prompt:**
+
+```text
+Create a clean isolated product-style illustration of a vintage hanging lantern centered on a plain {argument name="background color" default="white"} background. The lantern is a hexagonal metal frame made of aged {argument name="metal finish" default="antique brass / dark bronze"}, shown in a slight three-quarter front view with the front glass door facing forward and the right side visible. It has transparent glass panels with subtle pale reflections, a rectangular front door with thin metal borders, small hinges on one side, and a curved latch handle on the other. The base is a raised hexagonal plinth with layered bevels. The upper section has a sloped faceted roof, a short cylindrical vent band with exactly four visible round ventilation holes, a domed cap, a small ball finial, and one large circular hanging ring at the top. Use softly shaded hand-painted digital illustration style, fine dark outlines, muted warm highlights, realistic but slightly stylized proportions, no flame or candle visible inside, no text, no watermark, and ample empty space around the object.
+```
+
+**来源：** [@枡まーろ](https://x.com/mar5hm_/status/2085292227434303649) | 2026-08-06
+
+---
+
+### 🏷️ 例 5559：Japanese Civil Code Article 177 Infographic
+
+![Japanese Civil Code Article 177 Infographic](../images/Japanese%20Civil%20Code%20Article%20177%20Infographic.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dense Japanese legal-study infographic summarizing Civil Code Article 177 and the requirements for asserting real-estate property-right changes against third parties, in the style of a law exam cram-school summary sheet. Use the main Japanese headline {argument name="headline text" default="【民法177条】不動産物権変動の対抗要件 ①誰が「第三者」か"} and subtitle {argument name="subtitle text" default="先に契約した方ではなく、先に登記した方が勝つ"}.
+
+Canvas: Square 1:1 image, dark charcoal/black background, high-contrast white Japanese text, thin white panel borders, red/yellow/blue accent colors, compact but readable typography. Make it look like a polished Obsidian-style study note converted into an infographic.
+
+Layout: Use exactly 5 major horizontal zones. Zone 1 is the top title bar. Zone 2 is a large transaction diagram. Zone 3 is a three-column explanation grid. Zone 4 is a red judgment-summary banner. Zone 5 is a bottom row of four checklist cards.
+
+Zone 1 — Title: Place the headline in large bold white text across the top, with the yellow subtitle centered underneath.
+
+Zone 2 — Main diagram: Create one large bordered diagram labeled {argument name="main diagram label" default="二重譲渡"}. Show A as the seller on the left, a circular node labeled registration in the center, and two buyers on the right: B as first buyer and C as second buyer. Include exactly 3 solid white arrows: A to B, A to C, and registration toward B. Include exactly 2 dashed arrows with red question marks implying disputed direction. Add a red note below stating that arrows stretch in two directions and the side that obtains registration wins. Include a small dashed vertical relationship between B and C labeled adversarial relationship.
+
+Zone 3 — Three-column explanation grid: Create exactly 8 bordered information panels in this middle area. Left column has 4 panels: a blue-title panel for article text and basics, a yellow-title panel for a 30-second strategy summary, a blue-title decision-standard table, and a blue-title terminology panel. Middle column has 3 panels: a blue-title panel explaining the meaning of “third party” under Article 177 with a red emphasis sentence, a blue table listing third-party types, and a small illegitimate occupant diagram with A seller, B buyer, C illegal occupant plus a yellow Supreme Court note. Right column has 1 large stacked panel area containing three subpanels: a red-title panel about bad-faith possessors and movable property comparison, a reverse-less-than diagram subpanel, and a comparison table of real estate versus movables plus a small list of four delivery types. Keep these as visually distinct cards even within the right column.
+
+Visible panel count requirement: The infographic must show exactly 12 discrete bordered cards or boxes total: 1 main top diagram, 4 left-column study cards, 3 middle-column study cards, 3 right-column study cards, and 1 bottom judgment-summary region. The bottom region contains 4 separate checklist cards inside it.
+
+Key text content: Use Japanese legal-study wording throughout. Important visible phrases should include Civil Code Article 177, third party, double transfer, registration, simple bad-faith party, faithless bad-faith party, illegal occupant, no-rights holder, successive transfer, and comparison with movable property Article 178. The red emphasis statement should communicate that simple bad faith still counts as a third party regardless of good or bad faith. The main conclusion should communicate that the decisive pattern is whether the two parties are in an adversarial relationship and whether registration is required.
+
+Tables and discrete elements: Include exactly 2 main tables in the center/left columns: one decision-standard table with 2 rows and one third-party-type table with 5 rows. Include exactly 1 real-estate-versus-movable-property comparison table on the right. Include exactly 4 delivery-type items listed at the lower right. Include exactly 4 bottom checklist cards with green check icons: simple bad-faith party counts as third party, faithless bad-faith party is excluded, illegal occupant/no-rights holder/successive transfer do not require registration, and registration defects should be written in the answer.
+
+Visual style: Dense Japanese exam-prep infographic, crisp vector layout, white thin borders, blue section tabs, yellow highlight boxes, red warning accents, green check marks, small arrows and schematic boxes. Use a compact sans-serif Japanese font, sharp edges, no illustrations of people, no photos, no watermark.
+
+Constraints: Keep the entire design legible despite being information-dense. Use consistent alignment, equal margins, and clear hierarchy. Do not add extra decorative icons beyond arrows, check marks, question marks, and small diagram boxes. The color palette should stay black, white, blue, yellow, red, and green.
+```
+
+**来源：** [@Saika Shiva(司馬彩花)@行政書士受験生](https://x.com/ShivaSaika/status/2085291627082658041) | 2026-08-06
+
+---
+
+### 🏷️ 例 5560：Mosaic Butterfly and Geometric Coffee Art
+
+![Mosaic Butterfly and Geometric Coffee Art](../images/Mosaic%20Butterfly%20and%20Geometric%20Coffee%20Art.jpg)
+
+**Prompt:**
+
+```text
+A stunning, highly detailed digital art piece featuring a vibrant {argument name="butterfly species" default="orange monarch butterfly"} perched gracefully on a blade of grass. The composition is set against an intricate, shimmering background composed of mosaic-like silver and gold triangular shards, creating a brilliant reflective effect. Scattered throughout the foreground are delicate purple crocus flowers and slender green grass stalks, all adorned with crystal-clear, realistic dew drops that catch the light. The overall atmosphere is ethereal, serene, and magical, emphasizing a high-contrast aesthetic where the warm tones of the butterfly pop against the cool, fractured metallic backdrop. The style is a blend of mosaic art and macro photography, with precise light refraction through the water droplets. The lighting is bright and crisp, highlighting the textures of the butterfly's wings, the fine blades of grass, and the sharp facets of the background, creating a sense of depth and crystalline elegance, 8k resolution, artistic masterpiece
+
+A faceted, low-poly style {argument name="object" default="white teacup"} filled with steaming dark coffee sits centrally amidst a lush, triangular-geometric green grass field dotted with small, crystalline white flowers and sparkling dew drops. Behind the cup, a striking background mural displays a swirling, mosaic-inspired golden sun with textured, shimmering gold leaf details radiating outwards in concentric patterns against a stark white and silver geometric backdrop. The lighting is ethereal and magical, casting a bright, dreamlike glow over the scene. The entire composition utilizes sharp, clean polygon art aesthetics, blending nature with high-end digital design. Intricate light particles dance above the steam, reflecting a sense of tranquility and luxury. High contrast, vibrant color palette of {argument name="colors" default="gold, deep forest green, and crisp white"}, 8k resolution, stylized digital illustration with sharp edges and faceted textures, conceptual art masterpiece
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2085285975454872008) | 2026-08-06
+
+---
+
+### 🏷️ 例 5562：Futuristic Cyber Businessman Portrait
+
+![Futuristic Cyber Businessman Portrait](../images/Futuristic%20Cyber%20Businessman%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a high-key futuristic fashion portrait of a confident {argument name="subject" default="Japanese businessman"} shown from mid-thigh to head, standing upright and gazing slightly upward to the viewer's right with a calm determined expression. He has wavy black hair, light skin, subtle stubble, and wears black rectangular eyeglasses, a crisp white dress shirt with a high open collar, a dark navy textured tie with a silver tie bar, a black tailored suit vest with exactly 5 visible buttons, and a glossy black suit jacket. Transform the outfit into a cybernetic transparent couture design: clear iridescent acrylic armor panels overlay the torso, shoulders, sleeves, lapels, collar, and tie, with visible screws, seams, circuit traces, etched technical markings, and prismatic blue-pink highlights. Behind his left side, add exactly 1 translucent humanoid android silhouette in profile facing left, with a glass-like skull, neck, shoulder, and torso containing fine mechanical framework and circuit diagrams. To the upper right of his face, show exactly 14 floating exploded eyeglass components: 1 black front glasses frame, 1 black curved temple arm, 1 clear rectangular lens/frame piece, 2 small clear nose pads, 2 tiny silver hinge screws, 2 small round metal washers, 2 short cylindrical metal pins, 1 tiny metal bridge/connector, and 2 iridescent clear lens fragments. Use a clean pure white studio background with soft glow, overexposed edges, crisp ultra-detailed photorealistic rendering, premium sci-fi editorial style, glossy transparent materials, subtle chromatic refraction, and no clutter. Add a small handwritten signature and date text at the bottom right reading {argument name="date text" default="August 06, 2026"} and {argument name="signature" default="Oyagi"}. Keep the composition vertical 2:3, centered on the subject, with the android silhouette partially behind him and the eyeglass parts suspended in the empty white space.
+```
+
+**来源：** [@おやぎ](https://x.com/bikurin59/status/2085277142804472146) | 2026-08-06
+
+---
+
+### 🏷️ 例 5565：Elegant Abstract Fashion Portrait
+
+![Elegant Abstract Fashion Portrait](../images/Elegant%20Abstract%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an elegant abstract fashion portrait of {argument name="character name" default="Anri Okita"}, shown from the upper body in a three-quarter back pose with her head turned over her shoulder toward the viewer. She has a pale luminous complexion, refined East Asian facial features, soft almond eyes, subtle pink lips, and a calm graceful expression. Her {argument name="hair color" default="black with pale silver-white highlights"} hair is loosely pinned into a messy low bun with many expressive flyaway strands and sketchy looping lines around the head. She wears a high-neck, semi-sheer, flowing {argument name="dress color" default="black"} fashion dress or blouse with dramatic loose sleeves, layered translucent fabric, rough ink-wash shadows, and angular brush textures. Add one visible long dangling black jeweled earring on the ear facing the viewer. Use a vivid flat {argument name="background color" default="orange"} background with subtle paper grain. Style the image as a mixed-media fashion illustration combining realistic soft facial rendering with loose black ink, watercolor wash, charcoal-like sketch lines, expressive unfinished edges, and elegant editorial couture energy. Composition is vertical 4:5, subject centered slightly left, cropped around the torso, with negative space on the right. Include a small handwritten signature reading {argument name="signature text" default="Anri Okita"} in the lower-left corner. No extra objects, no border, no watermark, no typography besides the small signature.
+```
+
+**来源：** [@vevrier90333](https://x.com/vevrier9033833/status/2085252208321597762) | 2026-08-06
+
+---
+
+### 🏷️ 例 5567：Miniature Breakfast Room Inside Eggshell
+
+![Miniature Breakfast Room Inside Eggshell](../images/Miniature%20Breakfast%20Room%20Inside%20Eggshell.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic whimsical miniature fantasy scene: a large cracked white eggshell standing upright in a delicate vintage ceramic egg cup with floral patterns, placed on a rustic wooden kitchen table surrounded by artisan bread loaves. Through the jagged opening in the eggshell, reveal a tiny cozy breakfast room built inside the egg. Inside, show one miniature person, a young adult woman with {argument name="hair color and style" default="short dark curly hair"}, wearing {argument name="outfit" default="pink striped pajamas"}, seated at a small wooden table and yawning with one hand near her mouth. The room should include exactly 14 visible interior props: a wooden window with warm golden morning light, three small potted plants on the windowsill, a basket of sliced bread, a cup and saucer, a plate with toast, a second plate with toast, a teacup with tea, a spoon, a tiny jam dish, a wall shelf, three framed wall pictures, and a small hanging decoration. Use shallow depth of field, macro photography realism, warm natural sunlight, soft shadows, intricate eggshell cracks, tactile ceramic texture, cozy cottagecore details, and cinematic composition. Keep the background softly blurred with two wooden chairs and four visible bread loaves around the egg. No text, no watermark, no surreal extra limbs, no distorted face.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2085231972805468167) | 2026-08-06
+
+---
+
+### 🏷️ 例 5568：Old Money Library Portrait
+
+![Old Money Library Portrait](../images/Old%20Money%20Library%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+full-body portrait of a {argument name="subject" default="handsome young man"} standing on a {argument name="location" default="grand marble staircase inside an elegant historic library"}, rich dark wood-paneled walls, floor-to-ceiling bookshelves, a large vintage oil portrait in an ornate gold frame behind him. He is casually leaning against a black wrought-iron railing with one hand, one leg slightly crossed, looking directly at the camera with a calm, confident expression. Wearing a {argument name="outfit" default="light blue Oxford button-down shirt with the top three buttons undone and sleeves casually rolled up, tailored high-waisted taupe pleated trousers"}, black leather belt, classic wristwatch, polished brown loafers. Soft natural window light, warm cinematic tones, old-money aesthetic, quiet luxury fashion, Ralph Lauren editorial style, timeless elegance, realistic skin texture, shallow depth of field, 35mm lens, ultra-photorealistic, high-end magazine photography, balanced composition, 8K, HDR, ultra detailed.
+
+Negative Prompt
+
+low quality, blurry, cartoon, CGI, overexposed, oversaturated, bad anatomy, extra limbs, duplicate person, distorted face, watermark, text, logo, noisy background, unrealistic proportions
+```
+
+**来源：** [@Weinberg](https://x.com/weiinberg/status/2085227205039366625) | 2026-08-06
+
+---
+
+### 🏷️ 例 5573：Vintage Car Window Blue Hour Portrait
+
+![Vintage Car Window Blue Hour Portrait](../images/Vintage%20Car%20Window%20Blue%20Hour%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic luminous analog portrait shot through a curved vintage car side window at blue hour. Extreme close up, face filling two thirds of frame, eye level. Naturally beautiful young {argument name="hair type" default="brunette, shoulder length rich brown hair"}, soft center part, loose face framing strands, warm brown slightly wide set eyes, subtly uneven brows, delicate nose, fuller lower lip, faint freckles, visible pores, gentle asymmetry. Face turned directly toward lens, calm intimate eye contact, relaxed neutral expression, softly closed lips. Simple {argument name="clothing item" default="ivory high neck top"}. Soft direct flash freezes features while slow shutter transforms window reflections into broad translucent ribbons of {argument name="reflection colors" default="pale blue, warm cream, peach, muted red, subtle green"}. Curved chrome details sweep diagonally across lower foreground, milky layered reflections, luminous haze, delicate double exposure, flowing light trails, lightly overexposed highlights, airy pastel colors, subtle halation, faded 35mm film texture, fine organic grain, spontaneous intimate snapshot. --chaos 8 --ar 4:5 --raw --profile be6pjat --stylize 180 --weird 6 --hd
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2085206356240515475) | 2026-08-06
+
+---
+
+### 🏷️ 例 5580：Manga Character Triptych Design
+
+![Manga Character Triptych Design](../images/Manga%20Character%20Triptych%20Design.jpg)
+
+**Prompt:**
+
+```text
+Create a triptych graphic poster on a vertical canvas divided into three horizontal panels, featuring the same {argument name="style" default="Japanese manga-style character"} in every panel. Keep the face, eyes, nose, mouth, face shape, age, and hair color identical, changing only the hairstyle, bangs, expression, head angle, glasses, and accessories like a professional character design sheet. Each panel should be a shoulder-up portrait with bold graphic poster aesthetics, thick clean line art, minimal detail, and large flat color shapes. Choose {argument name="mood count" default="three"} distinct moods inspired by the chat history, expressing each through a single dominant color with only black and white added. Instead of a traditional background, immerse the character within the atmosphere itself so the ambient color naturally reflects onto the skin, hair, and clothing, creating the feeling that the character exists inside the light and air of that world. No text, logos, UI elements, or speech bubbles. Each panel should work as a standalone artwork while forming a cohesive series together.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2085198214693843417) | 2026-08-06
+
+---
+
+### 🏷️ 例 5582：Cinematic Nike Sports Dance Poster
+
+![Cinematic Nike Sports Dance Poster](../images/Cinematic%20Nike%20Sports%20Dance%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic sports fashion poster, 4:5 vertical composition, use the uploaded image as the primary visual reference for composition and pose, create a breathtakingly beautiful young adult {argument name="subject" default="woman"} captured in a powerful mid-air dance jump. She is suspended gracefully above the ground with her body slightly rotated sideways, her torso leaning diagonally forward, her head tilted downward while looking toward the floor with a calm focused expression. Her right leg is deeply bent upward beneath her body with the knee raised toward her chest, while her left leg extends diagonally downward behind her with the foot naturally pointed, creating a dynamic floating silhouette. Her left arm stretches gracefully downward and slightly outward with relaxed fingers, while her right arm extends naturally backward and outward for balance, forming an elegant athletic motion. Her long hair is tied in a high messy ponytail, dramatically flowing upward and backward due to the jump, enhancing the sense of movement. She wears an {argument name="clothing" default="oversized premium white Nike sweatshirt"}, semi-transparent black-and-white marble smoke jogger pants, and futuristic white Nike Air sneakers with glowing violet air soles. Swirling luminous {argument name="energy color" default="purple"} energy smoke wraps naturally around her legs, waist, arms and hair, blending seamlessly with her motion while creating a magical high-energy effect. Place her in front of a massive metallic chrome "JUST DO IT" typography with a large silver Nike swoosh positioned above the text. Use a deep black-to-purple gradient background with glowing violet particles, cinematic volumetric lighting, dramatic rim lighting, realistic reflections, luxury sports editorial atmosphere, premium advertising campaign aesthetics, ultra-sharp fabric details, highly realistic skin rendering, dynamic motion realism, vibrant purple energy glow and stunning 8K photorealistic quality.
+Negative Prompt: incorrect body pose, standing pose, sitting pose, stiff body, unnatural limb positions, floating without motion, incorrect leg bend, wrong arm placement, distorted anatomy, extra limbs, blurry, low quality, flat lighting, dull colors, weak smoke effects, watermark, logo, text, cropped body.
+```
+
+**来源：** [@Hania Ai](https://x.com/HaniaAi12/status/2085175554605797492) | 2026-08-06
+
+---
+

@@ -25149,3 +25149,260 @@ slogan：{argument name="口号" default="把热带的光，装进一碗里"}
 
 ---
 
+### 🎴 例 5522：Pop Art Product Branding Grid
+
+![Pop Art Product Branding Grid](../images/Pop%20Art%20Product%20Branding%20Grid.jpg)
+
+**Prompt:**
+
+```text
+Create a bold, colorful 1:1 social media campaign grid for "{argument name="product name" default="PRODUCT NAME"}" using the uploaded reference image, or generate a premium, ultra-realistic version of {argument name="product name" default="PRODUCT NAME"}. Automatically adapt all colors, ingredients, textures, props, decorative elements, and the overall visual mood according to the product type or uploaded reference. Design a modern pop-art inspired promotional collage featuring multiple creative square sections.
+
+Canvas Size:
+1:1 Square Format — 1080 × 1080 px, optimized for Instagram posts and trendy social media branding.
+
+Setting & Background:
+Use vibrant pop-art backgrounds with energetic color blocking, abstract wave patterns, maze lines, retro squiggles, doodle outlines, neon accents, playful geometric shapes, and modern Memphis-style design elements. Divide the composition into four creative grid sections, each with a unique background style and dynamic visual rhythm.
+
+Lighting:
+Bright commercial studio lighting with glossy highlights, vibrant color reflections, soft realistic shadows, premium texture enhancement, and a playful modern advertising atmosphere.
+
+Style:
+Modern pop-art advertising aesthetic, Gen Z branding style, trendy Instagram campaign visuals, colorful street-style graphics, a minimal yet energetic layout, bold modern typography, premium commercial poster design, and ultra-realistic product rendering.
+
+Typography Style:
+Use oversized bold typography with playful layout placement.
+Mix condensed modern fonts with handwritten accent text.
+Keep typography energetic, youthful, and visually dynamic.
+
+Color Direction:
+Automatically adapt the color palette to the product:
+
+Ice Cream → Pink, Cyan, Orange, Yellow
+
+Sneakers → Neon Green, Purple, Black
+
+Cosmetics → Pastel Pink, Lavender, Cream
+
+Tech Products → Electric Blue, Black, Lime
+
+Use high-contrast, trend-driven colors with strong visual impact.
+
+Camera:
+Centered hero product composition, close-up commercial photography, slightly tilted dynamic framing, shallow depth of field, ultra-sharp focus, cinematic advertising quality, and 4K modern campaign rendering.
+
+Text Elements:
+Include stylish promotional texts such as:
+
+"New Collection"
+"Limited Edition"
+"Now Available"
+"Fresh Drop"
+"Premium Quality"
+"Trending Now"
+
+Important:
+
+• Keep the design divided into creative square sections.
+• Automatically adapt colors, graphics, and decorative elements to {argument name="product name" default="PRODUCT NAME"}.
+• Maintain a playful pop-art branding style throughout.
+• Use vibrant, modern color combinations.
+• Keep typography large, bold, and visually engaging.
+• Avoid empty spaces and dull tones.
+• Ensure the final design looks like a trendy, premium Instagram campaign.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2085431795726823527) | 2026-08-06
+
+---
+
+### 🎴 例 5530：Modern Movement Theater Poster Campaign
+
+![Modern Movement Theater Poster Campaign](../images/Modern%20Movement%20Theater%20Poster%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为一家虚构的现代动作剧院品牌创建一个超高端 2x2 海报宣传板，设计为一个具有极致真实感、精湛排版控制和收藏级印刷效果的戛纳奖级表演广告系统。保持四个等宽海报面板排列在整洁的 2x2 网格中的精确结构逻辑，每个面板都是一个统一舞台表演宣传活动的一部分。每张海报必须以一名匿名的全身舞者为核心视觉英雄，大号粗体白色英文标题排版层叠在人物身上，精细的几何线框结构与姿势互动，精致的中性工作室灰色背景，顶部有极简品牌签名，底部有精确的信息块。最终展板必须感觉像世界级现代舞剧院的正式旗舰发布宣传：具有图形感、情感化、现代感且可直接出版。
+
+核心系统：
+使用完美对齐的 2x2 网格，具有相同的页边距、一致的间距、相等的海报比例，以及一个支配所有四个面板的隐形主布局。每张海报必须共享相同的设计语法：
+1. 顶部极简品牌签名，
+2. 一个匿名舞者占据构图主体，
+3. 巨大的大写白色标题排版横跨并位于身体后方，
+4. 优雅的几何线框结构从身体和姿势方向延伸，
+5. 带有首演风格细节的整洁下方信息区域。
+整个展板必须呈现为一个纪律严明的主宣传活动，而非四张独立的海报。
+
+品牌标识：
+虚构一个精致的国际动作剧院标签，例如：
+KINETIC FORM STAGE
+在每张海报顶部微妙且一致地使用它。所有可见文字必须是新发明的原创内容。不要复制参考资料中的任何标题、日期或文本。不要包含任何真实人物姓名。
+
+身体、排版与层级：
+舞者、排版和线条几何之间的关系是此次宣传最重要的视觉引擎。
+- 部分字母必须位于舞者身后，
+- 身体的部分部位可以叠放在标题前方，
+- 身体必须保持可读性和优雅，
+- 排版必须在不破坏解剖结构的前提下呈现出厚重感和建筑感，
+- 舞者和标题必须融合为一个整体的编辑构图，
+- 几何线框必须表现为从运动、重量、平衡和空间张力中延伸而出，
+- 所有重叠部分必须感觉清晰、考究且高端。
+结果应感觉像是转化为平面设计的舞蹈编排。
+
+海报 1，抒情延伸：
+创建一张以芭蕾为灵感的海报，画面是一位优雅的匿名舞者，姿势修长，一只手臂向上伸展，一条腿精准延伸。使用深木炭灰色工作室背景，带有柔和的聚光灯衰减。叠加巨大的堆叠白色标题：
+SILK
+TIDE
+部分字母应穿过躯干后方，而一个肢体或肩膀微妙地重叠在前方。添加一个刻面线框棱镜或拉伸的空间圆锥，从下半身和延伸的腿部冒出，仿佛姿势正在生成建筑。底部信息块：
+OPENING SERIES
+OCTOBER 12
+8 PM
+
+海报 2，棱角力量：
+创建一张更强烈的现代舞海报，采用有力的劈叉、宽阔的延伸或有棱角的落地姿势。使用冷色调的中灰色工作室背景。叠加一个纪念碑般的白色标题：
+OPEN
+FORM
+让腿部跨度和躯干动态地切割排版。部分字母笔画应被身体遮挡，而手、脚或手臂则向前穿过。添加连接到下半身和脚部的精确放射状线框线条和多边形平面。构图必须感觉锐利、富有动感且具有高级时尚感。底部信息块：
+FIRST PERFORMANCE
+NOVEMBER 03
+8 PM
+
+海报 3，剧场张力：
+创建一张更具戏剧性的海报，画面是一位匿名舞者，身着深色雕塑感服装剪影，单腿平衡或处于伸展的偏轴姿势。使用带有微妙色调深度的纹理柔灰色背景。叠加一个巨大的白色标题：
+EMBER
+FIELD
+或根据需要使用另一个同样优雅的双词标题，但保持相同的比例逻辑。添加一个高窄的线框塔或拉伸的几何结构，从一只手臂或腿部升起，强化垂直张力。氛围应感觉富有情感、前卫且具有舞台驱动力。底部信息块：
+LIMITED RUN
+SEPTEMBER 18
+8 PM
+
+海报 4，空中冲击：
+创建一张高能量海报，捕捉一位匿名舞者在空中蜷缩飞跃、爆发性收缩或雕塑式跳跃的瞬间。使用精致的中灰色工作室区域。叠加一个醒目的堆叠白色标题：
+WILD
+PULSE
+身体必须以一种受控的方式与字母形状发生视觉碰撞，部分肢体消失在字母后面，一个轮廓向前重叠。在跳跃下方和周围添加晶体线框体积或悬浮的刻面几何体，仿佛运动将空间压缩成锐利的形状。底部信息块：
+LIVE PREMIERE
+DECEMBER 07
+8 PM
+
+排版与信息系统：
+使用巨大的白色大写 neo-grotesk 或精致的无衬线排版，具有完美的间距、锐利的边缘和强大的海报权威感。在所有四张海报中保持一致的排版层级：
+- 顶部的小品牌行，
+- 中间的大号标题，
+- 底部附近的紧凑信息块，
+- 可选的小型场馆 URL 或位置行，采用克制的小号字体。
+保持标题大胆且极简。信息块必须对齐一致，并感觉是一个成熟宣传系统的一部分。
+
+几何线条语言：
+细线结构必须精致、精确且高端。使用细白色或浅灰色线框多边形、透视射线、三角形体积和晶体空间轮廓。这些绝不能感觉是随机的。它们应该直接连接到重量分布、脚尖指向、弯曲的膝盖、伸展的手、躯干轴线或跳跃轨迹，仿佛运动在空间中留下了几何残留。
+
+摄影与真实感：
+将每位舞者、服装、织物褶皱、肌肉张力、工作室阴影、皮肤细节和鞋类元素推向极致的编辑级真实感。使用柔和但有方向性的演播室灯光、准确的解剖结构、干净的修图、高端的色调控制和克制的奢侈氛围。舞者必须保持匿名、优雅，且非名人。没有命名的身份。
+
+色彩与印刷效果：
+保持整体色调典雅且克制：木炭灰、水泥灰、烟灰色、白色排版，如果需要，仅在信息块中使用非常微妙的辅助色。强调收藏级的印刷质量、纸张纹理、平滑的色调过渡、清晰的白色文字边缘、干净的边框，以及适合画廊墙壁、设计年鉴、剧院门厅和文化广告牌的最终艺术海报效果。
+
+创意重点：
+在最终展板中结合三个层面：
+轨道级冲击力：通过更强的身体延伸、更具爆发力的姿势和更具指挥力的标题-身体碰撞实现；
+过境级成熟度：通过更严格的网格逻辑、统一的排版层级、一致的信息区规范和更整洁的几何一致性实现；
+港口级完整性：通过奢侈品级的印刷质感、最终宣传展板的磨光感以及完全解决的收藏版剧院海报氛围实现。
+
+不包含复制的标题，不包含真实人物姓名，不包含别扭的解剖结构，不包含杂乱的线框，不包含低廉的娱乐海报风格，不包含素材照片感，不包含凌乱的布局，不包含薄弱的排版，不包含随机的图形效果。
+
+[English]
+Create an ultra-premium 2x2 poster campaign board for a fictional contemporary movement-theater brand, designed as a Cannes-award-level performance advertising system with extreme realism, immaculate typographic control, and collector-grade print finish. Preserve the exact structural logic of four equal poster panels arranged in a clean 2-by-2 grid, each panel functioning as part of one unified stage-performance campaign. Every poster must feature one anonymous full-body dancer as the central visual hero, oversized bold white English title typography layered across the figure, fine geometric wireframe constructions interacting with the pose, a refined neutral studio-gray background, a minimal brand signature near the top, and a precise information block near the bottom. The final board must feel like an official flagship launch campaign for a world-class contemporary dance theater: graphic, emotional, modern, and publication-ready.
+
+Core system:
+Use a perfectly aligned 2x2 grid with identical margins, consistent spacing, equal poster proportions, and one invisible master layout governing all four panels. Each poster must share the same design grammar:
+1. minimal brand signature at the top,
+2. one anonymous dancer dominating the composition,
+3. huge uppercase white title typography spanning across and behind the body,
+4. elegant geometric wireframe structures extending from the body and pose direction,
+5. a clean lower information zone with opening-night style details.
+The entire board must read as one disciplined master campaign, not four separate posters.
+
+Brand identity:
+Invent a refined international movement-theater label such as:
+KINETIC FORM STAGE
+Use it subtly and consistently near the top of each poster. All visible wording must be newly invented and original. Do not copy any titles, dates, or text from the reference. Do not include any real person names.
+
+Body, typography, and layering:
+The relationship between dancer, typography, and line geometry is the most important visual engine of the campaign.
+- some letters must sit behind the dancer,
+- some parts of the body may overlap in front of the title,
+- the body must remain readable and elegant,
+- typography must feel massive and architectural without destroying anatomy,
+- the dancer and title must feel fused into one editorial composition,
+- geometric wireframes must appear to extend from motion, weight, balance, and spatial tension,
+- all overlaps must feel crisp, deliberate, and premium.
+The result should feel like choreography translated into graphic design.
+
+Poster 1, lyrical extension:
+Create a ballet-inspired poster with a graceful anonymous dancer in a long elongated pose, one arm reaching upward and one leg extended with precision. Use a deep charcoal-gray studio background with soft spotlight falloff. Overlay a huge stacked white title:
+SILK
+TIDE
+Some letters should pass behind the torso while one limb or shoulder subtly overlaps in front. Add a faceted wireframe prism or stretched spatial cone emerging from the lower body and extended leg, as if the pose is generating architecture. Bottom information block:
+OPENING SERIES
+OCTOBER 12
+8 PM
+
+Poster 2, angular force:
+Create a stronger contemporary-dance poster with a powerful split, wide extension, or angular grounded pose. Use a cool mid-gray studio background. Overlay a monumental white title:
+OPEN
+FORM
+Let the leg span and torso cut dynamically through the typography. Some letter strokes should be hidden by the body while a hand, foot, or arm crosses forward. Add precise radiating wireframe lines and polygonal planes connected to the lower body and feet. The composition must feel sharp, athletic, and high-fashion. Bottom information block:
+FIRST PERFORMANCE
+NOVEMBER 03
+8 PM
+
+Poster 3, theatrical tension:
+Create a more dramatic poster with an anonymous dancer in a darker sculptural costume silhouette, balanced on one leg or in a stretched off-axis pose. Use a textured soft-gray backdrop with subtle tonal depth. Overlay a large white title:
+EMBER
+FIELD
+or another similarly elegant two-word title if needed, but keep the same scale logic. Add a tall narrow wireframe tower or elongated geometric structure rising from one arm or leg, intensifying vertical tension. The mood should feel emotional, avant-garde, and stage-driven. Bottom information block:
+LIMITED RUN
+SEPTEMBER 18
+8 PM
+
+Poster 4, airborne impact:
+Create a high-energy poster with an anonymous dancer captured midair in a curled leap, explosive contraction, or sculptural jump. Use a refined medium-gray studio field. Overlay a bold stacked white title:
+WILD
+PULSE
+The body must collide visually with the letterforms in a controlled way, with some limbs disappearing behind letters and one contour overlapping forward. Add a crystalline wireframe volume or suspended faceted geometry beneath and around the jump, as if motion compresses space into sharp form. Bottom information block:
+LIVE PREMIERE
+DECEMBER 07
+8 PM
+
+Typography and information system:
+Use huge white uppercase neo-grotesk or refined sans-serif typography with perfect spacing, sharp edges, and strong poster authority. Maintain consistent type hierarchy across all four posters:
+- small brand line at top,
+- oversized title in middle,
+- compact information block near bottom,
+- optional tiny venue URL or location line in restrained small type.
+Keep the titles bold and minimal. The information blocks must be aligned consistently and feel like part of one mature campaign system.
+
+Geometric line language:
+The fine-line structures must be delicate, precise, and premium. Use thin white or pale-gray wireframe polygons, perspective rays, triangular volumes, and crystalline spatial outlines. These must never feel random. They should connect directly to weight distribution, pointing feet, bent knees, extended hands, torso axis, or jump trajectory, as if motion is leaving geometric residue in space.
+
+Photography and realism:
+Push every dancer, garment, fabric fold, muscle tension, studio shadow, skin detail, and footwear element to elite editorial realism. Use soft but directional studio lighting, accurate anatomy, clean retouching, premium tonal control, and a restrained luxury mood. The dancers must remain anonymous, elegant, and non-celebrity. No named identities.
+
+Color and print finish:
+Keep the overall palette sophisticated and restrained: charcoal gray, concrete gray, smoke gray, white typography, and only very subtle accent use in the information blocks if needed. Emphasize collector-grade print quality, paper grain, smooth tonal transitions, crisp white type edges, clean borders, and a final art-poster finish suitable for gallery walls, design annuals, theater foyers, and cultural billboards.
+
+Creative emphasis:
+Combine three layers in one final board:
+Orbit-level impact through stronger body extension, more explosive poses, and more commanding title-body collisions;
+Transit-level maturity through stricter grid logic, unified typography hierarchy, identical information-zone discipline, and cleaner geometric consistency;
+Port-level completeness through luxury print texture, final campaign-board polish, and a fully resolved collector-edition theater-poster atmosphere.
+
+No copied titles, no real person names, no awkward anatomy, no messy wireframes, no cheap entertainment-poster styling, no stock-photo feeling, no cluttered layout, no weak typography, no random graphic effects.
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2085380875718647901) | 2026-08-06
+
+---
+
