@@ -25406,3 +25406,49 @@ No copied titles, no real person names, no awkward anatomy, no messy wireframes,
 
 ---
 
+### 🎴 例 5607：Streetwear fashion campaign vintage TVs
+
+![Streetwear fashion campaign vintage TVs](../images/Streetwear%20fashion%20campaign%20vintage%20TVs.jpg)
+
+**Prompt:**
+
+```text
+A premium editorial fashion campaign photographed in a seamless white cyclorama studio with a clean minimalist aesthetic. A stylish boy around 10 years old stands confidently in the center, holding a long black power cable stretched above his head, creating an abstract curved frame. He wears an oversized black varsity jacket with bold white embroidered script lettering, an oversized white graphic T shirt, light wash baggy jeans, and black athletic sneakers. Around him are multiple vintage CRT televisions of different sizes scattered across the white floor, each connected by long tangled black cables that flow naturally through the composition. Bright high key studio lighting from large softboxes creates soft shadows and clean highlights. Shot on a full frame camera with a 35mm lens from a low eye level angle. Minimalist luxury streetwear editorial, Y2K nostalgia, retro technology aesthetic, premium fashion campaign, cinematic composition, ultra realistic, highly detailed fabric textures, natural skin tones, magazine quality, 8K.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2085706334494662899) | 2026-08-07
+
+---
+
+### 🎴 例 5610：Luxury Royal Enfield Instagram Campaign
+
+![Luxury Royal Enfield Instagram Campaign](../images/Luxury%20Royal%20Enfield%20Instagram%20Campaign.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium Instagram social media campaign poster for the {argument name="motorcycle model" default="Royal Enfield Continental GT 650"} that feels like an official Royal Enfield global campaign created by AKQA, Wieden+Kennedy and Pentagram, featured on Behance and awarded at Cannes Lions.
+
+4:5 vertical composition, 8K ultra-high resolution, hyper-realistic commercial motorcycle photography, premium editorial advertising, cinematic realism, handcrafted visual storytelling, bold minimalist graphic design.
+
+The hero motorcycle is the latest Royal Enfield Continental GT 650 in {argument name="color" default="British Racing Green"} with chrome engine, polished twin exhausts, classic wire-spoke wheels, sculpted café-racer fuel tank, authentic Royal Enfield badging, clip-on handlebars and factory specification. The motorcycle dominates nearly 70% of the composition from a dramatic low front three-quarter angle, photographed with impeccable realism and perfect proportions. Every reflection, weld, spoke, tyre tread, cooling fin and brushed-metal surface is physically accurate.
+
+The motorcycle is parked outside a beautifully restored industrial brick warehouse transformed into a contemporary motorcycle workshop and riders' café. Vintage brick walls, black steel-framed windows, polished concrete, handcrafted leather furniture, subtle Royal Enfield heritage details and warm industrial architecture create an authentic café-racer environment. A few modern classic motorcycles are softly blurred in the background, reinforcing riding culture without distracting from the hero bike.
+
+A young rider wearing a premium black leather jacket, dark denim, heritage riding boots and an open-face helmet casually leans against the motorcycle while removing leather riding gloves. The posture feels natural and confident, never posed. Another rider inside the café laughs with friends over coffee, creating the feeling of an active motorcycle community rather than a staged photoshoot.
+
+The entire composition is designed as a premium social media advertisement, not a wallpaper. Large editorial typography reading:
+
+{argument name="campaign text" default="RIDE\nYOUR\nLEGEND."}
+
+integrates into the architecture using oversized white and muted cream lettering. The motorcycle partially overlaps the typography, creating depth and premium graphic hierarchy. Small technical labels, subtle grid lines, café-racer inspired geometric panels and minimal editorial annotations create a sophisticated design language without clutter.
+
+Colour palette: British Racing Green, deep charcoal black, warm brick red, vintage cream, brushed aluminium, chrome silver, leather brown and subtle Royal Enfield red accents. The design feels timeless, handcrafted and authentic.
+
+Lighting is warm late-afternoon golden hour with soft sunlight entering through industrial windows, creating rich reflections across chrome surfaces, realistic shadows, beautiful paint depth and prem
+```
+
+**来源：** [@ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme/status/2085689888280846711) | 2026-08-07
+
+---
+

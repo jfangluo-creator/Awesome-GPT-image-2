@@ -739,6 +739,34 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5576：Character-Specific Room Synthesis Prompt](cat-ui.md#️-例-5576character-specific-room-synthesis-prompt)
 
 - [例 5584：Low-Angle Flower Field Portrait](cat-ui.md#️-例-5584low-angle-flower-field-portrait)
+
+- [例 5592：Candid Motion Blur Portrait](cat-ui.md#️-例-5592candid-motion-blur-portrait)
+
+- [例 5593：Coastal Night Serenity Portrait](cat-ui.md#️-例-5593coastal-night-serenity-portrait)
+
+- [例 5595：Melancholic Luxury Candid Portrait](cat-ui.md#️-例-5595melancholic-luxury-candid-portrait)
+
+- [例 5596：Candid Japanese Street Portrait](cat-ui.md#️-例-5596candid-japanese-street-portrait)
+
+- [例 5600：Albino Ram-Horned Gothic Portrait](cat-ui.md#️-例-5600albino-ram-horned-gothic-portrait)
+
+- [例 5613：Urban Youth Portrait on Concrete Steps](cat-ui.md#️-例-5613urban-youth-portrait-on-concrete-steps)
+
+- [例 5615：Circuit Board City Landmark Poster](cat-ui.md#️-例-5615circuit-board-city-landmark-poster)
+
+- [例 5617：Cinematic Motorcycle Route Poster](cat-ui.md#️-例-5617cinematic-motorcycle-route-poster)
+
+- [例 5618：Infinite Recursive Droste Spiral](cat-ui.md#️-例-5618infinite-recursive-droste-spiral)
+
+- [例 5620：Paris Street Style Walking Portrait](cat-ui.md#️-例-5620paris-street-style-walking-portrait)
+
+- [例 5645：Luxury Mirror Selfie Fashion Prompt](cat-ui.md#️-例-5645luxury-mirror-selfie-fashion-prompt)
+
+- [例 5646：Nine-Tailed Fox Swimsuit Outfit](cat-ui.md#️-例-5646nine-tailed-fox-swimsuit-outfit)
+
+- [例 5650：Urban Grunge Glitch Fashion Photography](cat-ui.md#️-例-5650urban-grunge-glitch-fashion-photography)
+
+- [例 5657：Kappa-chan Banana Day Poster](cat-ui.md#️-例-5657kappa-chan-banana-day-poster)
 ---
 
 <a id="chart"></a>
@@ -2489,6 +2517,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5522：Pop Art Product Branding Grid](cat-poster.md#-例-5522pop-art-product-branding-grid)
 
 - [例 5530：Modern Movement Theater Poster Campaign](cat-poster.md#-例-5530modern-movement-theater-poster-campaign)
+
+- [例 5607：Streetwear fashion campaign vintage TVs](cat-poster.md#-例-5607streetwear-fashion-campaign-vintage-tvs)
+
+- [例 5610：Luxury Royal Enfield Instagram Campaign](cat-poster.md#-例-5610luxury-royal-enfield-instagram-campaign)
 ---
 
 <a id="photo"></a>
@@ -7041,6 +7073,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5518：霓虹连帽街头肖像](cat-photo.md#-例-5518霓虹连帽街头肖像)
 
 - [例 5550：Hyper-Realistic Winking Girl Summer Portrait](cat-photo.md#-例-5550hyper-realistic-winking-girl-summer-portrait)
+
+- [例 5637：Tang Dynasty Aesthetic Cinematic Set](cat-photo.md#-例-5637tang-dynasty-aesthetic-cinematic-set)
+
+- [例 5651：Lifeguard Underground Idol Concert](cat-photo.md#-例-5651lifeguard-underground-idol-concert)
 ---
 
 <a id="illustration"></a>
@@ -8020,6 +8056,70 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5581：Cinematic Coffee Journey Storyboard](cat-illustration.md#-例-5581cinematic-coffee-journey-storyboard)
 
 - [例 5583：Beijing Good Morning Poster](cat-illustration.md#-例-5583beijing-good-morning-poster)
+
+- [例 5586：Pastel Blue Frilly Maid Girl](cat-illustration.md#-例-5586pastel-blue-frilly-maid-girl)
+
+- [例 5587：1969 Chevrolet Camaro Desert Drift](cat-illustration.md#-例-55871969-chevrolet-camaro-desert-drift)
+
+- [例 5588：Cinematic Character Identity Board](cat-illustration.md#-例-5588cinematic-character-identity-board)
+
+- [例 5590：1969 Chevrolet Camaro desert powerslide](cat-illustration.md#-例-55901969-chevrolet-camaro-desert-powerslide)
+
+- [例 5597：Summer Shrine Maiden Portrait](cat-illustration.md#-例-5597summer-shrine-maiden-portrait)
+
+- [例 5599：Starry Night Maiden](cat-illustration.md#-例-5599starry-night-maiden)
+
+- [例 5602：Korean Fashion 3x3 Editorial Sheet](cat-illustration.md#-例-5602korean-fashion-3x3-editorial-sheet)
+
+- [例 5604：3x3 Character Expression Portrait Sheet](cat-illustration.md#-例-56043x3-character-expression-portrait-sheet)
+
+- [例 5606：Realistic Indoor Fashion Portrait](cat-illustration.md#-例-5606realistic-indoor-fashion-portrait)
+
+- [例 5608：Black Cat Transformation Hero](cat-illustration.md#-例-5608black-cat-transformation-hero)
+
+- [例 5609：Anime Cosplay Duo at Forest Shrine](cat-illustration.md#-例-5609anime-cosplay-duo-at-forest-shrine)
+
+- [例 5612：Cyber Angel Character Sheet](cat-illustration.md#-例-5612cyber-angel-character-sheet)
+
+- [例 5614：Illustrated Editorial Portrait of a Woman](cat-illustration.md#-例-5614illustrated-editorial-portrait-of-a-woman)
+
+- [例 5616：Rugged Man Adventure Lifestyle Photography](cat-illustration.md#-例-5616rugged-man-adventure-lifestyle-photography)
+
+- [例 5619：Fireworks Inside a Wind Chime](cat-illustration.md#-例-5619fireworks-inside-a-wind-chime)
+
+- [例 5621：Surreal Fashion Illustration Portrait](cat-illustration.md#-例-5621surreal-fashion-illustration-portrait)
+
+- [例 5623：Red Background Formal ID Portrait](cat-illustration.md#-例-5623red-background-formal-id-portrait)
+
+- [例 5625：Celestial Jade Palace Lake](cat-illustration.md#-例-5625celestial-jade-palace-lake)
+
+- [例 5627：Cinematic Streetwear Fashion Portrait](cat-illustration.md#-例-5627cinematic-streetwear-fashion-portrait)
+
+- [例 5629：Himalayan Sunrise Mountain Wallpaper](cat-illustration.md#-例-5629himalayan-sunrise-mountain-wallpaper)
+
+- [例 5630：Cheerful Spring Park Pinafore Girl](cat-illustration.md#-例-5630cheerful-spring-park-pinafore-girl)
+
+- [例 5631：Professional Action Thriller Storyboard](cat-illustration.md#-例-5631professional-action-thriller-storyboard)
+
+- [例 5632：High-End Fashion Editorial Shoot](cat-illustration.md#-例-5632high-end-fashion-editorial-shoot)
+
+- [例 5633：Korean Studio Fashion Portrait](cat-illustration.md#-例-5633korean-studio-fashion-portrait)
+
+- [例 5634：Swiss Metropolitan Identity Portrait](cat-illustration.md#-例-5634swiss-metropolitan-identity-portrait)
+
+- [例 5635：Miniature Woman in Refrigerator Storyboard](cat-illustration.md#-例-5635miniature-woman-in-refrigerator-storyboard)
+
+- [例 5636：Fisheye Night Crosswalk Portrait](cat-illustration.md#-例-5636fisheye-night-crosswalk-portrait)
+
+- [例 5638：Cinematic Night Garden Portrait](cat-illustration.md#-例-5638cinematic-night-garden-portrait)
+
+- [例 5639：Tiny Planet Rooftop Portrait](cat-illustration.md#-例-5639tiny-planet-rooftop-portrait)
+
+- [例 5642：Forced Perspective Chibi Pants Pull Portrait](cat-illustration.md#-例-5642forced-perspective-chibi-pants-pull-portrait)
+
+- [例 5647：Cozy Korean Fashion Lifestyle Portrait](cat-illustration.md#-例-5647cozy-korean-fashion-lifestyle-portrait)
+
+- [例 5654：Hygge Winter Cabin Morning](cat-illustration.md#-例-5654hygge-winter-cabin-morning)
 ---
 
 <a id="character"></a>
@@ -8932,6 +9032,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5514：粉色运动套装 T 恤样机](cat-3d.md#-例-5514粉色运动套装-t-恤样机)
 
 - [例 5551：3D Character Name Sculpture](cat-3d.md#-例-55513d-character-name-sculpture)
+
+- [例 5591：Glossy Brand Achievement Badge](cat-3d.md#-例-5591glossy-brand-achievement-badge)
 ---
 
 <a id="architecture"></a>
@@ -9250,6 +9352,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5442：庆典仪式感视觉海报](cat-architecture.md#️-例-5442庆典仪式感视觉海报)
 
 - [例 5529：Ethereal White Jade Sky Corridor](cat-architecture.md#️-例-5529ethereal-white-jade-sky-corridor)
+
+- [例 5601：Realistic Bathroom Selfie Portrait](cat-architecture.md#️-例-5601realistic-bathroom-selfie-portrait)
 ---
 
 <a id="comic"></a>
@@ -10725,6 +10829,48 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 5580：Manga Character Triptych Design](cat-brand.md#️-例-5580manga-character-triptych-design)
 
 - [例 5582：Cinematic Nike Sports Dance Poster](cat-brand.md#️-例-5582cinematic-nike-sports-dance-poster)
+
+- [例 5585：Beijing Morning Airplane Window Poster](cat-brand.md#️-例-5585beijing-morning-airplane-window-poster)
+
+- [例 5589：Futuristic Hyper-Speed Tunnel Ride](cat-brand.md#️-例-5589futuristic-hyper-speed-tunnel-ride)
+
+- [例 5594：Dreamy Red Beret Garden Portrait](cat-brand.md#️-例-5594dreamy-red-beret-garden-portrait)
+
+- [例 5598：Surreal Runaway Vacuum Disaster](cat-brand.md#️-例-5598surreal-runaway-vacuum-disaster)
+
+- [例 5603：Y2K fashion poster character Wareen](cat-brand.md#️-例-5603y2k-fashion-poster-character-wareen)
+
+- [例 5605：Hyakki Yagyo Gothic Anime Poster](cat-brand.md#️-例-5605hyakki-yagyo-gothic-anime-poster)
+
+- [例 5611：Anime Classroom Visual Novel CG](cat-brand.md#️-例-5611anime-classroom-visual-novel-cg)
+
+- [例 5622：Impasto Oil Painting Street Musician](cat-brand.md#️-例-5622impasto-oil-painting-street-musician)
+
+- [例 5624：Anime Visual Novel Classroom Scene](cat-brand.md#️-例-5624anime-visual-novel-classroom-scene)
+
+- [例 5626：Car Backseat Lifestyle Selfie](cat-brand.md#️-例-5626car-backseat-lifestyle-selfie)
+
+- [例 5628：Oriental Fantasy Celestial Realm](cat-brand.md#️-例-5628oriental-fantasy-celestial-realm)
+
+- [例 5640：Editorial flat-vector character portrait](cat-brand.md#️-例-5640editorial-flat-vector-character-portrait)
+
+- [例 5641：Floral Shirt Portrait with Rainbow Refractions](cat-brand.md#️-例-5641floral-shirt-portrait-with-rainbow-refractions)
+
+- [例 5643：Neo-noir assassin portrait ink engraving](cat-brand.md#️-例-5643neo-noir-assassin-portrait-ink-engraving)
+
+- [例 5644：Luxury Durian Brand Key Visual](cat-brand.md#️-例-5644luxury-durian-brand-key-visual)
+
+- [例 5648：Anime Gender-Swap Promo Illustration](cat-brand.md#️-例-5648anime-gender-swap-promo-illustration)
+
+- [例 5649：Monochromatic Red Surreal Conceptual Art](cat-brand.md#️-例-5649monochromatic-red-surreal-conceptual-art)
+
+- [例 5652：Vintage Philippines Travel Poster](cat-brand.md#️-例-5652vintage-philippines-travel-poster)
+
+- [例 5653：Tang Dynasty Cinematic Photography](cat-brand.md#️-例-5653tang-dynasty-cinematic-photography)
+
+- [例 5655：Aerial Summer Shirakawa-go Valley](cat-brand.md#️-例-5655aerial-summer-shirakawa-go-valley)
+
+- [例 5656：Vintage Kunming Morning Poster](cat-brand.md#️-例-5656vintage-kunming-morning-poster)
 ---
 
 <a id="edit"></a>

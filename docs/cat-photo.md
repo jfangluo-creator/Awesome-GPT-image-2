@@ -55443,3 +55443,63 @@ Create a photorealistic vertical street-fashion portrait of a young East Asian w
 
 ---
 
+### 📷 例 5637：Tang Dynasty Aesthetic Cinematic Set
+
+![Tang Dynasty Aesthetic Cinematic Set](../images/Tang%20Dynasty%20Aesthetic%20Cinematic%20Set.jpg)
+
+**Prompt:**
+
+```text
+面部身份：
+使用附带的面部身份作为唯一面部参考。四张照片必须让人一眼认出是完全相同的女性。
+
+身体：
+{argument name="年龄" default="20岁出头"}的成年女性。使用附带的身体参考作为唯一身体比例参考，保持真实解剖结构、自然曲线、平衡比例和真实皮肤纹理。
+
+主题：
+盛唐彩色摄影实验：东市夜游、曲池游船、坊间蹴鞠、曲江春宴。
+
+主体：
+分别生成四张独立的纵向2:3写实照片，不要拼图。人物身份保持一致，但发型、服装、动作、机位和摄影语言必须根据各自场景合理变化。
+
+第一张「东市灯影里的突然一笑」：
+人物穿过长安东市拥挤灯市，听见摊主玩笑后侧脸转向同行者，眼角先弯，笑意尚未完全展开。发型为唐代反绾髻，搭配孔雀蓝织锦内层、朱砂红半臂衣、旧金联珠纹与烟紫披帛。采用35mm彩色街头摄影，朱红灯笼、青绿酒旗、香料摊和人流形成密集颜色层次，边缘允许路人与灯笼自然遮挡。
+
+第二张「曲池游船的短暂停顿」：
+人物坐在宫苑窄小彩绘游船前部，被船边跃起的锦鲤吸引而低头。发型为偏向一侧的唐代堕马髻，佩戴白玉梳与浅金花簪。服装使用珍珠白、淡青、浅粉和水蓝色绢罗。采用80mm中画幅式自然压缩，让浅青水面、粉白宫墙倒影、船舷与石桥形成粉彩几何，大面积环境余白保留安静午后感。
+
+第三张「蹴鞠越线前的一次救球」：
+人物刚以膝侧救回即将越线的蹴鞠球，身体略失平衡，眼睛追着球并笑出声。头发梳成紧凑高椎髻，穿绛红内层、青蓝短外袍、旧金腰带与深色分裁裙裤。采用24mm近距广角、腰部低机位、轻微上仰和倾斜构图。蹴鞠球与膝部形成适度近大远小，双臂与双手裁在画外。日间低功率补闪只增强眼神和衣料清晰度。
+
+第四张「曲江春宴的一次抬头」：
+人物坐在曲水宴席边缘，听见画外朋友叫她，从果盘方向抬起眼睛。发型为向上展开的唐代抛家髻，佩戴金叶步摇、白玉花钗与短珍珠链。服装使用胭脂红内层、珍珠白大袖衫、石青高腰织带与淡杏披帛。采用略高机位、80mm中焦与较深景深，同时保留主人物、同席女伴、织席、游船、乐队与曲水关系。背景人物分别分果、交谈、听乐或看水面。
+
+光线：
+所有人物面部使用宽而连续的自然光或店铺实际光照明。水面、灯笼和树影只能作用于背景与衣料边缘，不得在额头、鼻梁、脸颊和嘴唇制造碎光、圆形白斑或彩色污染。
+
+质感：
+四张分别呈现密集彩色街拍、粉彩空间几何、近距广角补闪和高位社会场景摄影。色彩明净但不过度饱和，保留真实颗粒、轻微倾斜、边缘裁切和瞬间动作。人物漂亮但不呈现塑料AI脸，不使用黑白或统一滤镜。
+画面右下角加入低调小号手写签名「{argument name="签名" default="Zhong"}」。
+
+负面提示：
+拼图，多分镜，身份漂移，四张使用相同发型，相同姿势，相同机位，现代马尾，廉价古装，静态目录摆拍，统一商业微笑，复杂手部动作，多余手臂，多余手指，错误手指，脸部灯笼光斑，水波光斑，树影跨脸，补闪白斑，塑料皮肤，黑白照片，现代建筑，现代运动服，文字乱码，其他签名。
+```
+
+**来源：** [@AI设计钟师傅](https://x.com/drmrzhong/status/2085573005443473650) | 2026-08-07
+
+---
+
+### 📷 例 5651：Lifeguard Underground Idol Concert
+
+![Lifeguard Underground Idol Concert](../images/Lifeguard%20Underground%20Idol%20Concert.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic vertical concert photo of a cheerful Japanese underground idol performing on a small live-house stage, shot from a slightly low front angle with a 35mm documentary concert feel. The idol is {argument name="character type" default="a young Japanese underground idol singer"} with dark brown twin-tail hair, wispy bangs, glossy natural makeup, and a huge bright smile, looking toward the audience while holding a black handheld microphone close to her mouth in her right hand. Her left arm is stretched dramatically toward the camera with an open hand, slightly foreshortened and motion-filled, creating an intimate fan-service performance moment. She wears a sporty lifeguard-inspired idol costume in {argument name="costume colors" default="red, white, and navy blue"}: a fitted sleeveless one-piece with mesh white panels, red side panels, navy piping, a front zipper, cutout sides, matching red-and-navy shorts styling, a red belt with black buckle, and a small red medical pouch on the hip. Include exactly 4 clearly visible labeled or functional costume/accessory elements: 1) a chest patch reading {argument name="chest label" default="LIFEGUARD"}, 2) a red armband on her upper left arm, 3) a red hip pouch with a white cross and the word LIFEGUARD, and 4) a small red-and-white hair accessory. The background is a dim black-box idol venue with overhead stage rigging, spotlights, blurred audience members along the left edge, and a pink-and-white idol event backdrop on the right with soft unreadable Japanese-style lettering and a heart motif. Use shallow depth of field, crisp focus on the singer’s face and costume texture, realistic skin highlights, energetic stage lighting, bokeh, and no watermark. The mood should feel like {argument name="performance mood" default="joyful, close-up, high-energy fan interaction"}.
+```
+
+**来源：** [@野田吾郎](https://x.com/goro_noda23327/status/2085561064322720216) | 2026-08-07
+
+---
+

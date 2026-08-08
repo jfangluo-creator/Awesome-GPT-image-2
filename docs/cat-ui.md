@@ -11042,3 +11042,232 @@ Create a photorealistic low-angle fashion portrait of {argument name="subject" d
 
 ---
 
+### 🖥️ 例 5592：Candid Motion Blur Portrait
+
+![Candid Motion Blur Portrait](../images/Candid%20Motion%20Blur%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Preserve the subject’s identity and appearance with maximum accuracy. Do not change or reinterpret her facial features, facial proportions, eye shape, nose, lips, jawline, bone structure, skin texture, hair color, hair length, hair density, or natural hair texture. Maintain a highly faithful resemblance to the reference image throughout the scene.
+
+Create a photorealistic candid photograph captured in the middle of natural movement. Use a close-up, waist-up composition. The woman is standing with her back partially toward the camera at the exact moment she quickly turns her head over her shoulder. Her gaze is directed naturally toward something off to the side, as if she has just noticed something behind her. Her expression should feel spontaneous and authentic, not posed or intentionally modeled for the camera.
+
+Natural Motion & Sharpness
+
+The sudden head movement creates realistic, subtle motion blur. Apply gentle blur across the moving face, hair, and individual curls, with slightly softened silhouette edges caused by the speed of the movement. Keep the face sufficiently recognizable and preserve the subject’s defining facial characteristics.
+
+Her curls naturally sweep outward with the movement, creating a believable dynamic trail. The motion should feel like a genuine photograph captured by a real camera with a slightly slower shutter speed—not an artificial blur effect.
+
+Body Language & Composition
+
+Maintain a relaxed, natural posture with subtle asymmetry. The shoulders, neck, and upper body should show believable movement caused by the quick head turn. Avoid fashion-model posing, exaggerated gestures, or stiff studio positioning.
+
+Lighting & Environment
+
+Use cinematic directional lighting with soft, realistic shadows and atmospheric depth. Place the subject in a textured, believable environment with natural visual details. Preserve realistic skin with visible pores, fine texture, and subtle natural imperfections rather than overly smooth or plastic-looking skin.
+
+Camera & Film Aesthetic
+
+Make the image feel as though it was captured on a real 35mm film camera. Include pronounced but natural film grain, subtle optical imperfections, gentle lens characteristics, realistic depth of field, and authentic photographic texture.
+
+Use a muted, low-saturation cinematic color palette with natural tones and restrained contrast. The final image should look like a genuine candid photograph taken in real life—organic, imperfect, cinematic, and completely photorealistic.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2085774649674351103) | 2026-08-07
+
+---
+
+### 🖥️ 例 5593：Coastal Night Serenity Portrait
+
+![Coastal Night Serenity Portrait](../images/Coastal%20Night%20Serenity%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-photorealistic cinematic portrait of a {argument name="subject" default="young woman"}, vertical.
+A quiet nighttime scene on a {argument name="setting" default="grassy coastline"}. She sits among windswept coastal grass with the vast dark sea stretching behind her. A faint layer of ocean mist drifts across the horizon beneath a rich indigo night sky. Blurred blades of grass frame the foreground, creating soft natural depth and an immersive perspective.
+She is loosely wrapped in a {argument name="clothing" default="soft ivory blanket"} that slips off her shoulders, revealing her neck and collarbones. Her arms gently fold around herself for warmth. Her chin is slightly raised, eyes peacefully closed, and her expression conveys serenity and quiet reflection.
+Her long, flowing hair is lifted naturally by the ocean breeze, adding subtle movement and elegance.
+Captured using a powerful on-camera flash at night, the subject is brightly illuminated while the coastline and ocean remain moody and underexposed. Tiny highlights on her skin give a fresh, dewy appearance across her face, shoulders, and collarbones.
+Crisp facial detail, lifelike skin with visible pores and authentic texture, finely resolved individual hair strands, natural imperfections, and absolutely no over-smoothed or artificial-looking skin.
+Professional full-frame RAW photography aesthetic, cinematic night portrait, realistic contrast, subtle analog film grain, gentle digital sensor noise, high dynamic range, true-to-life color rendering, editorial-quality realism with no AI-generated appearance.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2085770410029937087) | 2026-08-07
+
+---
+
+### 🖥️ 例 5595：Melancholic Luxury Candid Portrait
+
+![Melancholic Luxury Candid Portrait](../images/Melancholic%20Luxury%20Candid%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a close-up portrait without altering the facial features or appearance. A melancholic luxury candid, as if it were a spontaneous photo taken on a smartphone. Aspect ratio: 9:16.
+The girl is standing in the middle of {argument name="setting" default="tall grass surrounded by dense morning fog"}. The frame is cropped from the chest up, with a few blades of grass softly blurred in the foreground, while the background gradually fades into the mist.
+She has long, thick hair, flawless makeup, sun-kissed skin, and dusty rose lips. Her body is turned at a 3/4 angle, with a calm, direct gaze into the camera. Her arms are gently wrapped around herself in a relaxed pose.
+She is wearing an {argument name="clothing" default="oversized white shirt made of lightweight fabric"}. A strong wind naturally blows through her hair, shirt, and the surrounding grass.
+The image captures a spontaneous moment in motion. Her face and eyes remain perfectly sharp and highly detailed, with clearly visible pores, eyelashes, and individual strands of hair. The moving hair and grass have subtle, natural motion blur, creating the feeling of a genuine photograph. High natural micro-contrast, optical sharpness, and no artificial over-sharpening.
+Photorealistic, realistic skin texture, subtle film grain, natural digital noise, RAW smartphone aesthetic, deep perspective, no beauty filter, no plastic skin, no CGI.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2085763611172225186) | 2026-08-07
+
+---
+
+### 🖥️ 例 5596：Candid Japanese Street Portrait
+
+![Candid Japanese Street Portrait](../images/Candid%20Japanese%20Street%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic vertical smartphone photo portrait of a young Japanese woman, {argument name="character age" default="early twenties"}, sitting outdoors on a quiet narrow city street beside a cafe or small storefront. She has a natural soft smile, clear skin, large dark brown eyes, and a short black bob haircut with light wispy bangs across her forehead. She is looking directly into the camera from a close three-quarter angle, shoulders slightly turned, relaxed and approachable. She wears a simple cream-colored knit cardigan with visible front buttons and soft oversized sleeves. The background shows an urban Japanese side street with pavement, building facades, a utility pole, overhead wires, a small road sign, and greenery from potted shrubs and slender trees beside a brick wall; include warm interior cafe light near the right edge. Use natural daylight, soft shadows, shallow but not extreme depth of field, realistic skin texture, candid iPhone-style framing, vertical 9:16 composition, face centered in the upper half, no makeup-heavy glamour styling, no text, no watermark. Overall mood: gentle, fresh, everyday street portrait with photorealistic detail.
+```
+
+**来源：** [@daisuke onarimon](https://x.com/daisukeonarimon/status/2085763079569338797) | 2026-08-07
+
+---
+
+### 🖥️ 例 5600：Albino Ram-Horned Gothic Portrait
+
+![Albino Ram-Horned Gothic Portrait](../images/Albino%20Ram-Horned%20Gothic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a dark high-fashion fantasy character portrait in a vertical 4:5 composition, showing a single androgynous albino humanoid creature in strict left-facing side profile against a pure black studio background. The figure has a shaved pale scalp with translucent skin, subtle bruising and mottled redness, faint tattoo-like markings, closed or half-lidded eyes, a long narrow nose, full parted lips, and an eerie calm expression. Add one massive curled black ram horn wrapping behind the head, textured with ridges and a small tan worn band, attached near the back of the skull. The hair is long, white, woolly, and matted, arranged into many thick rope braids and dreadlike plaits falling down the back and shoulder, with black bindings and loose fibers; include red pigment or staining along the neck and hairline. Add multiple metal piercings: three visible earrings on the ear, a septum ring, and two lip rings. The upper torso is bare and ghostly pale with scar-like marks, grime, and organic texture, cropped at the shoulder and chest. Use photorealistic editorial lighting with soft highlights on the skin and hair, deep shadows, ultra-detailed prosthetic makeup, tactile fibers, unsettling beauty, avant-garde gothic tribal styling, and a muted palette of ivory, bone white, black, rust red, and tarnished metal. Place the word {argument name="top right title" default="KOBATAKA"} in large white condensed serif capital letters at the top right. No extra characters, no extra objects, no border, no watermark.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2085745696133857553) | 2026-08-07
+
+---
+
+### 🖥️ 例 5613：Urban Youth Portrait on Concrete Steps
+
+![Urban Youth Portrait on Concrete Steps](../images/Urban%20Youth%20Portrait%20on%20Concrete%20Steps.jpg)
+
+**Prompt:**
+
+```text
+Create an image. Urban-youth style portrait photograph of the attached model sitting on {argument name="subject location" default="concrete steps"}, just like in the attached photo, without altering her appearance, pose, or clothing, at the entrance of a store. The background on the left is a red brick wall with a collage of haphazard posters. On the right, the dark entrance to a store filled with bookshelves illuminated by vintage-style hanging bulbs. Mixed natural and warm lighting. High quality, realistic texture, sharp depth of field.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2085679595504767185) | 2026-08-07
+
+---
+
+### 🖥️ 例 5615：Circuit Board City Landmark Poster
+
+![Circuit Board City Landmark Poster](../images/Circuit%20Board%20City%20Landmark%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical experimental city poster showing {argument name="city landmark" default="a recognizable dense urban landmark tower"} fused with an impossible transformation: the entire landmark has become a monumental stacked circuit-board superstructure made of microchips, server racks, electronic modules, panels, heat sinks, ports, wires, and motherboard details, while still preserving the original street-level perspective, surrounding high-rises, landmark silhouette, depth layers, and upward-looking urban canyon composition. Use a dramatic low-angle view from a crowded plaza or street market, with tiny silhouetted pedestrians in the foreground and midground, glowing orange circuit traces running across the ground like roads, and dense electronics stalls or modular tech blocks at street level. The central tower should dominate the frame, rising vertically with many irregular stacked tiers and intricate mechanical/electronic surfaces, including one large square microprocessor-like panel on the lower front. Surround it with smaller buildings also partially converted into circuit boards and speaker-like electronic grids. Add a huge partially cropped orange planet or sun in the upper left corner and a rough torn-paper collage sky split into deep cobalt blue and aged off-white areas. Style the image as a gritty screen-printed urban design poster with halftone dots, distressed ink texture, visible grain, rough paper edges, high contrast shadows, blueprint markings, faint circuit diagrams, technical line art, and orange conductive lines. Color palette: {argument name="accent color" default="burnt orange"}, {argument name="main blue" default="deep cobalt blue"}, black, cream, and worn beige, with selective metallic gray highlights. Mood should be futuristic, surreal, architectural, cyberpunk, and graphic-design focused, not photorealistic. No readable large title text, no logo, no watermark; any tiny markings should look like abstract technical annotations only.
+```
+
+**来源：** [@楊哥 | Yang Onchain](https://x.com/YangOnchain/status/2085669665129292050) | 2026-08-07
+
+---
+
+### 🖥️ 例 5617：Cinematic Motorcycle Route Poster
+
+![Cinematic Motorcycle Route Poster](../images/Cinematic%20Motorcycle%20Route%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create an ultrarealistic cinematic motorcycle travel poster at golden hour. A black touring/cruiser motorcycle with exactly 2 riders appears in the right foreground, seen from slightly behind and beside them as they ride on a curving two-lane mountain road; both wear glossy black full-face helmets, dark biker clothing, gloves, and backpacks, with the front rider’s tattooed forearm visible. The road bends left into a dramatic Pyrenees-style valley with a stone retaining wall on the right, guardrail on the left, distant small motorcycles ahead, steep mountains, trees, orange sunset light, lens flare, and heavy glowing clouds. Overlay a futuristic amber navigation interface as if projected onto the road and air, with warm neon-yellow lines, thin HUD typography, subtle transparency, scanline texture, and a cinematic movie-poster finish. On the upper right, place one large rectangular route panel with glowing border and these exact visible labels: top label “RUTA EN MOTO”; row label “SALIDA” with departure {argument name="starting point" default="Ribes de Freser"}; row label “DESTINO” with very large destination {argument name="destination" default="Puigcerdà"}; bottom metrics showing {argument name="distance" default="53 km"} and {argument name="travel time" default="1 h 13 min"}; include a simple upward arrow on the right side of the panel. On the road surface, project exactly 1 glowing route map, a bright winding line following the perspective of the asphalt from the lower right foreground toward the left distance, with fine terrain-map lines and place labels: “Campdevànol”, “Sierra de Montgrony”, “N-260” shown twice, “A”, “B”, “Osseja”, “Saillagouse”, “Llívia”, “Puigcerdà”, and “La Molina”. In the lower left, add exactly 1 small legend box with 3 icon rows labeled “Restauración”, “Mirador”, and “Gasolinera”. Use a warm amber-and-black color grade, high contrast, realistic motion blur on the road, detailed motorcycle reflections, no extra UI panels, no watermark, and keep all overlay text crisp and legible.
+```
+
+**来源：** [@Samuel Ferrero.](https://x.com/MiMundoConIA/status/2085668028168175860) | 2026-08-07
+
+---
+
+### 🖥️ 例 5618：Infinite Recursive Droste Spiral
+
+![Infinite Recursive Droste Spiral](../images/Infinite%20Recursive%20Droste%20Spiral.jpg)
+
+**Prompt:**
+
+```text
+Create an infinite recursive Droste spiral using the original illustration. The original illustration remains the largest foreground image. Duplicate the entire illustration repeatedly toward a single vanishing point. Each duplicate is scaled uniformly to approximately {argument name="scaling percentage" default="90%"} of the previous one while rotating by a constant {argument name="rotation angle" default="15°"}, with perfectly consistent spacing, scaling, and rotation. Every duplicate is an exact copy of the original with no distortion, cropping, stretching, redrawing, or changes to the artwork. Preserve the original art style, character design, colors, linework, shading, texture, lighting, and proportions completely unchanged. The recursion forms a mathematically perfect logarithmic spiral, producing a clean infinite recursive tunnel, seamless Droste effect, geometric precision, and mesmerizing optical depth.
+```
+
+**来源：** [@あにめる](https://x.com/animel7316/status/2085667362205004235) | 2026-08-07
+
+---
+
+### 🖥️ 例 5620：Paris Street Style Walking Portrait
+
+![Paris Street Style Walking Portrait](../images/Paris%20Street%20Style%20Walking%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a hyperrealistic candid street-style fashion photograph of a {argument name="subject" default="stylish young woman"} walking through a quiet Paris street intersection in daytime. She has long dark wavy hair, a soft confident expression, and wears black narrow oval sunglasses. Her outfit has exactly 3 main clothing pieces: an oversized cream half-zip windbreaker with loose rolled sleeves, dark navy athletic shorts with white piping, and simple black flip-flops. Pose her naturally mid-stride on a crosswalk, head tilted slightly downward as she looks ahead, one hand gently touching and sweeping back her hair, the other hand tucked into her shorts pocket. Use a realistic Parisian background with beige Haussmann buildings, ornate balconies, a corner café with awning, tree-lined side street, parked cars, a red no-entry traffic sign, asphalt road, and zebra-crossing stripes. Compose as a vertical full-body street photo, subject centered slightly left, shot from eye level with a 35mm documentary fashion feel, natural soft daylight, muted warm urban tones, crisp fabric texture, realistic skin, subtle motion in hair, no text overlay, no watermark.
+```
+
+**来源：** [@路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth/status/2085654191511609506) | 2026-08-07
+
+---
+
+### 🖥️ 例 5645：Luxury Mirror Selfie Fashion Prompt
+
+![Luxury Mirror Selfie Fashion Prompt](../images/Luxury%20Mirror%20Selfie%20Fashion%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+Use {argument name="reference image" default="image 1"} as the sole identity reference and preserve the subject’s facial features, proportions, skin tone, and overall appearance exactly. Create an ultra-photorealistic 4:5 mirror selfie inside a {argument name="room type" default="refined luxury dressing room"}. The woman is captured in a deep, natural squat in front of a tall full-length mirror with a warm wooden frame. She holds a light-colored smartphone in her right hand, partially obscuring her face, while her left hand carries a dark brown leather clutch. She is dressed in a {argument name="outfit" default="flowing sand-beige open-weave crochet maxi dress"} with delicate shoulder straps and a plunging V-shaped neckline, without any waist belt. Complete the outfit with cream-colored stiletto sandals, oversized statement bracelets, elegant drop earrings, and sleek, straight hair falling naturally over her shoulders. The room features soft neutral walls, a gray carpet, and diffused natural daylight that creates realistic HDR lighting, true-to-life reflections, lifelike skin texture, accurate anatomy, and the feel of a candid high-end fashion photograph. Negative prompt: different face or identity, facial distortion, plastic-looking skin, unrealistic anatomy, malformed or extra fingers, fused limbs, incorrect mirror reflection, warped proportions, belt added, incorrect outfit, missing clutch, low quality, cartoon, CGI, text, logo, watermark.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2085565987357946296) | 2026-08-07
+
+---
+
+### 🖥️ 例 5646：Nine-Tailed Fox Swimsuit Outfit
+
+![Nine-Tailed Fox Swimsuit Outfit](../images/Nine-Tailed%20Fox%20Swimsuit%20Outfit.jpg)
+
+**Prompt:**
+
+```text
+おしゃれな「{argument name="服装" default="水着"}」にして。尻尾は九尾なので{argument name="尻尾の数" default="九"}つあります。
+```
+
+**来源：** [@komitsu＠AIドラマ実写化](https://x.com/komitsu_ai/status/2085565242227167675) | 2026-08-07
+
+---
+
+### 🖥️ 例 5650：Urban Grunge Glitch Fashion Photography
+
+![Urban Grunge Glitch Fashion Photography](../images/Urban%20Grunge%20Glitch%20Fashion%20Photography.jpg)
+
+**Prompt:**
+
+```text
+Create an image. Urban grunge fashion photograph of the attached model posing in an {argument name="setting" default="abandoned building"}. The woman looks at the camera. The background is a {argument name="background element" default="large industrial window covered in colorful and chaotic graffiti"}, with natural light entering from the left. Superimposed on the image are glitch-like digital UI effects, including illegible text, "{argument name="text overlay" default="HER19845"}" in the upper left corner, "UNKNOWN" on the right, "FEEL NOTHING" repeated in the lower left corner, and "DISCONNECT ERROR 404 TIME" on the right. Dramatic backlighting and front lighting. Low-angle shot. Ultra-high definition, photorealistic quality. 4:5 aspect ratio.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2085561316236828976) | 2026-08-07
+
+---
+
+### 🖥️ 例 5657：Kappa-chan Banana Day Poster
+
+![Kappa-chan Banana Day Poster](../images/Kappa-chan%20Banana%20Day%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a cheerful vertical anime poster for {argument name="holiday headline" default="かっぱちゃんのバナナの日"} with the date text {argument name="date text" default="8月7日"} in large rounded orange Japanese lettering on a curved cream banner across the top. Center a full-body cute anime girl, {argument name="character name" default="Kappa-chan"}, smiling with an open mouth and golden eyes, short dark teal bob hair with bangs, wearing a translucent glossy pale-green raincoat shaped like a kappa costume: frog-like green hood with big cartoon eyes and a yellow beak, dark teal trim, large buttons, two front pockets, and a small white name tag reading {argument name="name tag text" default="かっぱ"}. She wears bright yellow rubber gloves and yellow rain boots with dark teal soles and accents; her left hand holds one bunch of exactly 5 bananas, and her right hand is raised in a friendly wave with 5 visible fingers. Use a soft pastel cream-yellow background with mint-green ground, floating raindrops, tiny stars, hearts, crescent shapes, and banana motifs. Include exactly 12 visible banana-related illustrations around her: 1 curved banana at upper left, 1 banana bunch in her hand, 1 small banana at top right near the banner, 1 peeled banana at lower left side, 1 pale banana outline at upper right, 1 small curved banana icon at mid-right, 1 peeled banana at lower right side, 1 small banana at lower left, 1 large banana bunch on the ground at bottom left, 2 banana slices in front of it, and 1 large banana bunch on the ground at bottom right with sliced pieces beside it. Style: polished Japanese kawaii illustration, clean line art, watercolor-like pastel shading, glossy highlights on the raincoat and boots, warm sunlight, playful festival-poster composition, no photo realism. Keep the main character centered and fully visible, preserve the Japanese text legibly, and avoid adding extra characters or extra large text.
+```
+
+**来源：** [@お茶会WCH](https://x.com/ochakaiwch/status/2085517978150518868) | 2026-08-07
+
+---
+

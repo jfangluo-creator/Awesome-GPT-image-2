@@ -6708,3 +6708,27 @@ SNS映え
 
 ---
 
+### 🧸 例 5591：Glossy Brand Achievement Badge
+
+![Glossy Brand Achievement Badge](../images/Glossy%20Brand%20Achievement%20Badge.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean, art-directed square-ish presentation poster showing an ornate collectible 3D achievement badge for {argument name="brand name" default="Nike"}, rendered as a high-gloss enamel and polished-metal digital medal.
+
+Canvas: Wide 16:9 white studio canvas, minimalist editorial layout with a large centered object and lots of negative space. Use soft global illumination, realistic reflections, subtle shadows, and premium CGI product-render quality.
+
+Layout: Place one large central badge occupying the middle of the frame. Add three small text areas: 1) a bold black headline in the upper left reading “Art-directed prompt system”; 2) a tiny pale-gray descriptive paragraph centered near the top; 3) a tiny black label in the upper right reading “Prompt system /005”, “Visual framework /2026”, and “Art dir / AI design”. Add one small creator pill near the lower left with a circular avatar and the handle “@AmirMushich”. Add one tiny caption block near the lower right reading “Fig. 05 / Glossy square icon”, “Generated with v2-variable system”, and “Built for repeatable, consistent output”.
+
+Badge design: Use exactly one ornate hexagonal badge. The outer silhouette is a rounded-corner hexagon with thick layered bevels. Build it from polished chrome and dark gunmetal outlines, with multiple nested rims and black separator grooves. The main enamel ring is a vivid {argument name="background color" default="orange"}, glossy and translucent-looking, with bright white highlights along the upper-left edges and deeper saturation in the lower-right curves. In the center, place a raised cream-white hexagonal enamel plate with a chrome rim and soft inset shadow. On the central plate, place the {argument name="brand symbol" default="Nike swoosh"} as a raised polished metallic emblem, slightly tilted upward from left to right, with dark reflective edges and a soft contact shadow.
+
+Visual style: Premium Apple-like product photography mixed with collectible medal design, ultra-clean white background, high-end 3D rendering, rounded bevels, glossy enamel, polished metal, crisp edges, subtle ambient occlusion, shallow studio shadow below the badge, no clutter.
+
+Constraints: Use exactly 1 badge, exactly 1 central brand emblem, exactly 3 main text blocks, and exactly 1 lower-left creator pill. Keep all text small except the upper-left headline. Do not add extra icons, extra badges, ribbons, patterns, or decorative background elements.
+```
+
+**来源：** [@AmirMušić](https://x.com/AmirMushich/status/2085797968225927253) | 2026-08-07
+
+---
+

@@ -3717,3 +3717,17 @@ perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整�
 
 ---
 
+### 🏛️ 例 5601：Realistic Bathroom Selfie Portrait
+
+![Realistic Bathroom Selfie Portrait](../images/Realistic%20Bathroom%20Selfie%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+一位{argument name="年龄" default="22岁左右"}的年轻女性在明亮浅色浴室里自拍，{argument name="发色" default="深棕色"}湿长发带有自然水珠和垂坠感，裹着干净{argument name="浴巾颜色" default="白色"}浴巾，侧身站姿自然，手机举在面前，另一只手轻扶头发，眼神看向镜头，表情松弛；空间为米白与浅灰瓷砖墙面，玻璃淋浴区在背景中虚化可见，简约浴室设施排列整齐，柔和侧光、低对比、真实居家摄影质感，无文字，无水印
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2085744710812045772) | 2026-08-07
+
+---
+

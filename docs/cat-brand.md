@@ -13412,3 +13412,424 @@ Negative Prompt: incorrect body pose, standing pose, sitting pose, stiff body, u
 
 ---
 
+### 🏷️ 例 5585：Beijing Morning Airplane Window Poster
+
+![Beijing Morning Airplane Window Poster](../images/Beijing%20Morning%20Airplane%20Window%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a square 1:1 minimalist travel poster showing a warm cream airplane window framing a serene morning view of Beijing. The canvas is a soft ivory background with subtle grain, gentle shadows, and premium editorial aesthetics. Center a large rounded-rectangle airplane window with thick layered beige plastic trim, rounded corners, realistic bevels, a small latch centered at the top, and soft ambient occlusion so it feels like a clean modern aircraft cabin wall. Through the window, show a dreamy sunrise cityscape of Beijing: pale blue sky fading to peach near the horizon, light haze, modern skyscrapers in the distance including a CCTV-like angular tower, and traditional imperial palace rooftops in the foreground with golden-orange glazed tiles, red walls, trees, and a Temple of Heaven-like circular pavilion on the right. Overlay elegant thin white weather UI text on the window view: a simple sun icon above a large “{argument name="temperature" default="29°"}”, the city label “{argument name="city label" default="BEIJING"}” underneath with wide letter spacing, and the bottom caption “{argument name="window caption" default="IMPERIAL MORNING"}” in narrow uppercase letters. Add small top-left text on the outer background reading “{argument name="top left text" default="GOOD MORNING"}” and small top-right text reading “{argument name="date" default="2026-08-08"}”, both in thin condensed uppercase/monospace styling with wide tracking. At the bottom center below the window, include two lines of Chinese copy exactly: “早安，北京。让晨光替你按下今天的开始键。” and “出门见光，抬头见喜”, with a short thin horizontal divider underneath. Use warm morning light, pastel tones, soft focus in the skyline, crisp window frame details, delicate typography, and a calm luxury airline-magazine mood. Keep the composition symmetrical, uncluttered, and avoid extra icons, people, logos, watermarks, or additional text.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2085874042519855151) | 2026-08-07
+
+---
+
+### 🏷️ 例 5589：Futuristic Hyper-Speed Tunnel Ride
+
+![Futuristic Hyper-Speed Tunnel Ride](../images/Futuristic%20Hyper-Speed%20Tunnel%20Ride.jpg)
+
+**Prompt:**
+
+```text
+A {argument name="subject" default="lone motorcyclist wearing a sleek black leather jacket and helmet"}, viewed from behind, riding a {argument name="vehicle" default="dark modern motorcycle"} along a surreal, infinite surface that blends into a vortex of light. The perspective is centered and low, creating a powerful sense of high-speed motion through a digital, futuristic tunnel. The floor appears as a reflective, dark glass-like plane streaked with intense light trails in {argument name="light colors" default="electric blues, whites, and vibrant orange-yellow flames"}. The background is a brilliant, blinding point of light at the vanishing horizon, surrounded by a kaleidoscopic explosion of vertical light streaks that simulate hyper-speed travel. The lighting is cinematic, high-contrast, and dynamic, with the motorcycle's glowing red taillight providing a sharp anchor point against the chaotic, fluid surroundings. The overall atmosphere is intense, adrenaline-fueled, and ethereal, evoking themes of cybernetic speed and otherworldly journeys. Photorealistic, 8k resolution, dramatic motion blur, sharp focus on the motorcycle, intricate textures of leather and metallic components, synthwave color palette, hyper-detailed rendering. -
+```
+
+**来源：** [@Viki](https://x.com/churvikv/status/2085799967176745223) | 2026-08-07
+
+---
+
+### 🏷️ 例 5594：Dreamy Red Beret Garden Portrait
+
+![Dreamy Red Beret Garden Portrait](../images/Dreamy%20Red%20Beret%20Garden%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic editorial portrait of a young woman with {argument name="hair color" default="dark brown"} long softly wavy hair, fair skin with subtle freckles, thick natural brows, almond brown eyes with long lashes, and soft peach lips slightly parted. She wears a vivid {argument name="beret color" default="red"} wool beret tilted naturally and a simple {argument name="top color" default="white"} blouse. Frame her from the shoulders up in a vertical 2:3 composition, face centered and slightly tilted, looking directly into the camera with a calm dreamy expression. Shoot outdoors in a shaded garden or forest at dusk, with dark tree silhouettes and pale sky bokeh behind her. Add large out-of-focus green leaves crossing the lower foreground, partially obscuring her shoulders and creating depth. Use shallow depth of field, cinematic natural light, soft warm skin tones, gentle film grain, realistic lens blur, high detail on the face and eyes, moody romantic atmosphere, no text, no watermark.
+```
+
+**来源：** [@Noor 🌸](https://x.com/Noor_ul_ain43/status/2085765776414536096) | 2026-08-07
+
+---
+
+### 🏷️ 例 5598：Surreal Runaway Vacuum Disaster
+
+![Surreal Runaway Vacuum Disaster](../images/Surreal%20Runaway%20Vacuum%20Disaster.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic surreal cinematic photography, 8K.
+
+A young woman wearing {argument name="clothing" default="a bright turquoise oversized T-shirt, purple sweatpants, and colorful sneakers"}, accidentally being pulled across the living room by an {argument name="object" default="enormous runaway vacuum cleaner"}.
+
+Gesture: both hands desperately gripping the vacuum hose, body leaning backward, one foot sliding across the floor, face showing exaggerated surprise mixed with uncontrollable laughter.
+
+Environment: surreal living room disaster, enormous vacuum cleaner racing across the floor, rugs flying upward, cushions spinning through the air, books floating, curtains swirling dramatically, colorful household objects suspended in mid-air, a glowing wall sign saying "{argument name="sign text" default="Challenge Trouble"}".
+
+Mood: cheerful, chaotic, absurd, hilarious, goofy, ridiculous, full-color.
+
+Camera angle: dynamic side-angle tracking composition, capturing the woman's entire body and the runaway vacuum cleaner.
+
+Ultra-realistic photography, cinematic lighting, vibrant colors, realistic motion implied through composition, highly detailed textures, exaggerated comedic energy.
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2085748051784958054) | 2026-08-07
+
+---
+
+### 🏷️ 例 5603：Y2K fashion poster character Wareen
+
+![Y2K fashion poster character Wareen](../images/Y2K%20fashion%20poster%20character%20Wareen.jpg)
+
+**Prompt:**
+
+```text
+Create a premium Y2K fashion poster featuring the same character, {argument name="character name" default="Wareen"}: a young woman with fair skin, natural freckles, expressive brown eyes, and a short vibrant {argument name="hair color" default="purple"} bob haircut with soft bangs.
+
+Mint-green seamless studio background with soft shadows, transparent bubbles, white sparkling stars, and curved glowing light trails. She wears a pastel blue-pink-green tie-dye halter crop top with lime-green stitching, a lavender ribbed cardigan worn off the shoulders, matching high-waisted lavender cargo trousers with zipper pockets and chain details, chunky white sneakers, a colorful Y2K headscarf, colorful beaded necklace, flower earrings, and small star/heart sticker decals on her arms.
+
+Create two separate fashion-editorial compositions: 
+1. Full-body pose sitting confidently on white geometric display blocks, one foot on a lower block, leaning forward with arms resting on her knees.
+2. A closer seated fashion pose, relaxed and stylish, with one hand supporting her head.
+
+Add glossy 3D pastel typography reading “{argument name="main text" default="WAREEN"}” at the top, with small “PROJECT BY LICERIA” above it and “@Wareenaa” at the bottom. No “Happy Birthday” text and no “Soo Jin Ae”.
+
+Playful Y2K pop aesthetic, vibrant pastel colors, high-fashion editorial photography, crisp details, glossy poster design, realistic skin and hair, professional studio lighting, soft shadows, ultra-realistic, 8K.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2085729369637654720) | 2026-08-07
+
+---
+
+### 🏷️ 例 5605：Hyakki Yagyo Gothic Anime Poster
+
+![Hyakki Yagyo Gothic Anime Poster](../images/Hyakki%20Yagyo%20Gothic%20Anime%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a highly detailed dark fantasy anime key visual of {argument name="character name" default="Emilia"} leading a supernatural Japanese night parade inspired by Hyakki Yagyo.
+
+Canvas: Vertical 9:16 poster composition, dense full-frame illustration, no empty space, cinematic low-key lighting, muted parchment beige highlights against deep black, crimson, and dark teal shadows.
+
+Main subject: One central young anime woman in the foreground, waist-up to upper thighs visible, pale skin, {argument name="hair color" default="long blonde"} hair in twin tails with black-and-red hair ornaments, red eyes, calm slightly melancholic expression, head tilted gently toward the viewer. She wears a black off-shoulder gothic kimono dress with red cords, gold occult embroidery, skull motifs, layered sashes, tassels, thigh straps, and one exposed shoulder. She holds one large opened folding fan in her left hand, patterned in black, red, and gold with tiny demon-mask and floral details; her right hand lightly lifts a strand of hair or ribbon near her shoulder.
+
+Foreground props: Include exactly 3 prominent handheld/nearby objects: 1 ornate folding fan, 1 glowing skull lantern hanging low at the lower left with warm amber light, and 1 red vertical wooden signboard at the lower right with bold Japanese-style calligraphy and small vertical paper labels.
+
+Background parade elements: Fill the scene with exactly 12 major yokai or festival figures surrounding her: 1 fox mask floating to the right of her head, 1 deer-skull masked figure behind her, 1 giant red paper lantern with black kanji-like symbols at upper right, 1 tengu or long-nosed goblin face near the lower right, 1 horned oni mask near the upper center, 1 black beast head with sharp teeth at left, 1 robed shrine maiden or noble figure at upper left, 1 umbrella-like spirit shape in the top background, 1 birdlike mask or crow spirit at right, 1 small grinning imp near the lower center, 1 skeletal decorative face near the bottom left, and 1 large shrine gate or festival float structure behind the crowd.
+
+Setting and mood: A chaotic supernatural matsuri procession at night, layered with paper talismans, ropes, beads, red ribbons, smoke tendrils, ink splashes, tiny skulls, flowers, and shrine architecture. The composition should feel like an antique Japanese woodblock print fused with modern ultra-detailed anime illustration. Use {argument name="accent color" default="blood red"} brushstrokes and embers throughout.
+
+Text treatment: Any writing should be decorative Japanese-style calligraphy only, mostly illegible except for atmospheric kanji-like marks; do not add readable English text, logos, watermarks, captions, or speech bubbles.
+
+Visual style: Intricate line art, painterly manga rendering, ornate gothic-japonisme costume design, sharp facial detail, layered occult motifs, high detail, dramatic lighting, slightly aged paper texture, dark fantasy elegance, poster-quality finish.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2085721132502790428) | 2026-08-07
+
+---
+
+### 🏷️ 例 5611：Anime Classroom Visual Novel CG
+
+![Anime Classroom Visual Novel CG](../images/Anime%20Classroom%20Visual%20Novel%20CG.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a polished anime visual-novel CG screenshot of a bright high school classroom scene, in the highly detailed glossy style associated with modern GPT Image 2 anime illustrations.
+
+Canvas: 16:9 widescreen game screenshot, approximately 1200×675, cinematic composition with a visual novel dialogue UI overlay along the bottom. Warm spring daylight, soft bloom, crisp linework, detailed painterly shading.
+
+Layout: Foreground left shows the back and side profile of 1 teenage boy seated at a desk, facing the heroine; he has messy short black hair and wears a dark navy hoodie. Midground right is 1 teenage girl seated at the opposite desk, smiling and raising her right hand in a friendly wave. She has {argument name="hair color" default="long black hair"} tied in a high side ponytail with loose strands, blue eyes, round glasses, and a gentle cheerful expression. She wears {argument name="outfit" default="a cream-white cable-knit turtleneck sweater"}. The camera angle is over the boy’s shoulder, making the girl the focal point.
+
+Classroom details: Include exactly 2 main characters: 1 boy seen from behind and 1 girl facing the viewer. Include exactly 6 visible student desks with wooden tops and metal frames: 1 boy’s foreground desk, 1 girl’s desk, 2 empty desks behind her, 1 partial desk at far right, and 1 partial desk near the window. Include 3 large window panels on the left/back wall showing blue sky, distant buildings, and blooming pink cherry blossoms outside. Add soft drifting cherry blossom petals and sunbeams across the room. Include 1 green chalkboard on the back right wall with handwritten welcome text {argument name="chalkboard text" default="電気工事科 1年1組 ようこそ！"} plus small sakura doodles, and 1 bulletin board with pinned papers beside it.
+
+Desk props: On the central desk include exactly 3 study items: 1 open notebook with Ohm’s law notes showing a triangle labeled V, I, R and the formula “V = I × R”; 1 pen lying diagonally near the notebook; and 1 thick textbook with colorful tabs titled {argument name="textbook title" default="電気理論の基礎"} with smaller Japanese subtitle text about electrical circuits and calculations.
+
+Visual novel UI: Add a dark translucent navy dialogue box spanning the bottom 18% of the image. It has 1 small blue name tag on the left reading {argument name="speaker name" default="奈緒"}, 1 line of Japanese dialogue in white text, a small downward triangle at the right end of the dialogue, and a row of tiny game controls along the bottom right such as BACK, AUTO, SKIP, SAVE, LOAD, CONFIG, LOG, MENU. Add a small stylized site/logo mark in the bottom left, similar to a game screenshot watermark.
+
+Style constraints: Clean anime faces, luminous eyes, fine hair strands, realistic classroom perspective, soft rim lighting, high-detail fabric texture on the sweater, warm nostalgic mood, no extra characters, no cropped face for the girl, no photorealism, no 3D render look.
+```
+
+**来源：** [@シロノン](https://x.com/sironon64/status/2085687127178875360) | 2026-08-07
+
+---
+
+### 🏷️ 例 5622：Impasto Oil Painting Street Musician
+
+![Impasto Oil Painting Street Musician](../images/Impasto%20Oil%20Painting%20Street%20Musician.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic impasto oil painting of a cheerful {argument name="subject" default="middle-aged street musician"} sitting cross-legged on a weathered stone pavement while playing a well-worn vintage acoustic guitar. He has curly dark hair with subtle gray strands, a neatly groomed salt-and-pepper beard, warm expressive brown eyes, and a genuine welcoming smile looking directly at the viewer. He wears a distressed earth-toned fedora hat, a loose patterned vintage button-up shirt in warm browns, rust, ochre, and burgundy hues, faded olive trousers, dark socks, and worn leather shoes, creating a timeless bohemian aesthetic. Beside him lies an open guitar case lined with deep burgundy velvet, containing scattered coins from generous passersby, subtly telling the story of a talented street performer. The background features an old textured plaster wall with peeling paint, cracks, layered earthy colors, and rustic architectural charm. The entire image is rendered with {argument name="technique" default="thick palette-knife impasto brushstrokes"}, visible paint texture, layered oil pigments, expressive strokes, and rich tactile depth. Every surface—including skin, clothing, guitar, wall, and ground—is built with heavy paint application, creating a handcrafted museum-quality fine-art appearance. Warm natural daylight softly illuminates the musician's face, producing gentle shadows and highlighting the texture of the paint. The color palette emphasizes warm ochres, sienna, umber, olive green, muted gray, and burnt orange for a {argument name="mood" default="cozy Mediterranean atmosphere"}. Composition: Full-body portrait, centered framing, vertical 9:16 aspect ratio, eye-level perspective, guitar held naturally across the lap, relaxed posture, authentic facial expression, balanced negative space, painterly realism, exceptional texture detail, emotional storytelling, gallery-quality masterpiece. Style keywords: hyper-detailed oil painting, impasto, palette knife, textured canvas, expressive brushwork, fine art realism, museum masterpiece, earthy color grading, handcrafted painting, classical realism, ultra-detailed, high dynamic range, 8K quality, dramatic tactile texture, timeless artistic elegance.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2085637579907682576) | 2026-08-07
+
+---
+
+### 🏷️ 例 5624：Anime Visual Novel Classroom Scene
+
+![Anime Visual Novel Classroom Scene](../images/Anime%20Visual%20Novel%20Classroom%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a polished anime visual novel classroom scene in 16:9 widescreen, like a screenshot from a romance/school game, with a dialogue UI overlay.
+
+Canvas: 1200×675 horizontal frame, cinematic anime illustration, bright spring daylight, soft bloom, detailed linework and painterly shading.
+
+Layout: Two-character conversation at classroom desks. The viewer is positioned behind and slightly to the left of a seated boy in the foreground, looking toward a girl across the desk. Large windows fill the back-left wall, showing blue sky, a distant campus/city view, and cherry blossoms outside with a few petals drifting in the sunlight. The right rear wall has a green chalkboard and bulletin board. Add a dark translucent visual-novel dialogue box across the bottom fifth of the image with small menu buttons along the lower right.
+
+Subject details: Show exactly 2 students: 1 foreground boy seen from behind, with messy short black hair and a dark navy hoodie, face mostly hidden in profile; 1 girl facing the camera, smiling warmly and waving with her right hand. The girl is {argument name="girl description" default="a cute Japanese high-school girl with long black hair in a high ponytail tied with a bow, blue eyes, round glasses, and a soft friendly expression"}. She wears {argument name="girl outfit" default="a thick white cable-knit turtleneck sweater"}. Her left hand rests on the desk near an open notebook.
+
+Visible classroom and desk items: Include exactly 2 main study materials on the desks: 1 open notebook in front of the girl showing a clean Ohm’s law triangle diagram labeled V, I, R and the formula V = I × R; 1 closed or slightly angled textbook/workbook with colorful page tabs titled in Japanese as {argument name="textbook title" default="電気理論の基礎"}. Also include 1 pen lying between the notebook and textbook. Show multiple wooden desks and metal chairs receding into the classroom, but keep the focus on the two students.
+
+Text content: On the chalkboard, write a welcoming Japanese message, {argument name="chalkboard text" default="電気工事科 1年1組　ようこそ！"}, with small chalk cherry blossom drawings. In the dialogue box, use the speaker tag {argument name="speaker name" default="電気先生"} and the line: “電気って正直、嘘をつかないでしょ？　計算した通りに、電圧が出て、電流が流れる。それが私の好きなところなんだ。” Add tiny visual novel controls at the bottom right such as BACK, AUTO, SKIP, SAVE, LOAD, CONFIG, LOG, MENU, and an x close mark on the dialogue box corner.
+
+Visual style: High-end modern anime rendering, crisp facial details, expressive eyes, delicate hair strands, glossy highlights on glasses, warm sunlight streaks, realistic classroom perspective, shallow depth of field, soft cherry blossom pinks and sky blues contrasting with warm wooden desks. The image should feel like a romantic educational visual novel scene about basic electrical theory.
+
+Constraints: Keep the 2-character composition clear, preserve the exact study-material count of 2 and 1 pen, avoid extra main characters, no watermark, no logo, no photo realism, no 3D render.
+```
+
+**来源：** [@まゆひらa](https://x.com/riddi0908/status/2085631020712484885) | 2026-08-07
+
+---
+
+### 🏷️ 例 5626：Car Backseat Lifestyle Selfie
+
+![Car Backseat Lifestyle Selfie](../images/Car%20Backseat%20Lifestyle%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+A young woman is taking a selfie, holding her arm out toward the camera. She is sitting in the back seat of a car on black leather seats. The interior is dark, with a panoramic sunroof. Outside, it is sunny and trees are visible through the windows and sunroof. She is wearing a {argument name="top" default="white sleeveless ribbed turtleneck top"}, several gold chains with pendants, and stylish {argument name="sunglasses" default="white thick-framed sunglasses"} with opaque black lenses. Her hair is loose, voluminous, and straight, with a few strands falling naturally across her face. She is wearing brownish-pink lipstick. In her hand, she is holding a {argument name="drink" default="transparent cup filled with a green drink"} by the lid from above, with a white straw that she is drinking from. Rings are visible on her fingers. Vertical 9:16 format.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2085614206209134926) | 2026-08-07
+
+---
+
+### 🏷️ 例 5628：Oriental Fantasy Celestial Realm
+
+![Oriental Fantasy Celestial Realm](../images/Oriental%20Fantasy%20Celestial%20Realm.jpg)
+
+**Prompt:**
+
+```text
+一幅明亮绚丽的{argument name="题材" default="东方仙侠"}电影场景，cinematic ultra-wide shot。严格单点透视，一条由浅金色玉石铺成的宏大天阶，从画面左下角穿过云海，向右侧三分之一处的消失点急剧收缩。天阶两侧排列{argument name="灯柱颜色" default="朱红与鎏金"}相间的高大灯柱，柱距和尺寸随纵深规律递减。远处矗立一座巨大的丹霞色雕花天门，门内透出明亮天空。天阶旁悬浮着数座覆盖翠绿松林的赤色山岛，细长瀑布落入金白色云海。{argument name="人数" default="五"}名身穿青绿、象牙白和珊瑚红长衣的年轻旅人正在登阶，全部背影，身量极小，只作为尺度参照。天空呈饱满的蔚蓝与杏金渐变，大朵白云被夕阳照出暖金边缘。低角度阳光从左侧穿过天门，形成清晰的逆光轮廓、云隙光和克制的星芒。阴影为透明的蓝紫色，不要发灰。蔚蓝、杏金、丹砂红、翡翠绿与象牙白的高明度配色，high saturation, luminous colors, rich but elegant chroma, clean warm-cool separation。建筑细节精密，玉石具有自然纹理，鎏金只用于边缘强调。cinematic film still, monumental scale, tiny human figures, strong aerial perspective, refined fantasy realism, no muddy grading, no gloomy colors, no excessive fog, no text, no watermark。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2085608761989714283) | 2026-08-07
+
+---
+
+### 🏷️ 例 5640：Editorial flat-vector character portrait
+
+![Editorial flat-vector character portrait](../images/Editorial%20flat-vector%20character%20portrait.jpg)
+
+**Prompt:**
+
+```text
+Editorial flat-vector portrait of {argument name="character" default="a stylish person"} in a tight bust crop and three-quarter view, with the head tilted slightly downward, wearing {argument name="eyewear" default="bold sunglasses"} and [ACCESSORY]. Style the hair as [HAIRCUT] and dress the subject in [CLOTHING] with a high sculptural collar. Render the face, hair, clothing, and accessories as clean interlocking color shapes with sharp geometric edges, hard-edged shadows, minimal linework, and no gradients. Limit the artwork to {argument name="colors" default="a limited palette of cream, black, and burnt orange"}. Place the figure against [BACKGROUND], using one simple rectangular shadow shape to frame the head without clutter. Keep the expression calm and self-assured, the silhouette bold, and the composition sleek, fashion-forward, and graphic; Vertical 4:5 aspect ratio.
+```
+
+**来源：** [@Kashberg](https://x.com/Kashberg_0/status/2085570109276561801) | 2026-08-07
+
+---
+
+### 🏷️ 例 5641：Floral Shirt Portrait with Rainbow Refractions
+
+![Floral Shirt Portrait with Rainbow Refractions](../images/Floral%20Shirt%20Portrait%20with%20Rainbow%20Refractions.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic portrait of a handsome man with neatly styled dark hair, a well-groomed beard, and black rectangular eyeglasses, looking directly into the camera with a calm, confident expression. He wears a {argument name="clothing" default="vibrant floral-patterned button-up shirt"}. Dramatic golden-hour lighting shines through crystal prisms, casting vivid rainbow refractions across his face, neck, and clothing. Luxurious warm bokeh background filled with {argument name="bokeh elements" default="sparkling crystal chandeliers and hanging prisms"}. Shallow depth of field, razor-sharp facial details, natural skin texture, high contrast, soft cinematic glow, premium fashion editorial photography, {argument name="lens" default="85mm"} lens, f/1.4, HDR, ultra-detailed, photorealistic, 8K, masterpiece.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2085567647052157294) | 2026-08-07
+
+---
+
+### 🏷️ 例 5643：Neo-noir assassin portrait ink engraving
+
+![Neo-noir assassin portrait ink engraving](../images/Neo-noir%20assassin%20portrait%20ink%20engraving.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded reference image as the identity source. Preserve the subject's identity with maximum accuracy. Maintain the original facial structure, facial proportions, skin tone, eye shape, nose, lips, eyebrows, age, and all unique identifying features. Do not replace, reinterpret, beautify, or alter the person's identity. Transform only the {argument name="artistic style" default="artistic style"} while keeping the subject instantly recognizable. Create a hyper-realistic, dramatic black-and-white neo-noir assassin portrait illustrated in an ultra-detailed ink engraving and cross-hatching style. COMPOSITION & FRAMING • Vertical 4:5 aspect ratio. • Position the subject on the far left with virtually no left margin. • The subject should occupy approximately 60–65% of the frame. • Keep the remaining 35–40% on the right as clean white negative space with no distractions. • Show approximately two-thirds of the face using a vertical crop passing near the center of one eye. • Tight cinematic close-up: - Top crop slightly through the hair. - Bottom crop just above the shoulders. • Face oriented almost directly toward the viewer with only a subtle forward angle. • The eyes must be the strongest visual focal point. HAIR (ADAPTIVE TO REFERENCE) Analyze the hairstyle from the reference image and recreate it faithfully while enhancing it with a dramatic neo-noir aesthetic. Preserve: • Overall hairstyle • Hairline • Length • Parting • Natural texture • Volume • Curl or wave pattern Enhance with: • Rich, highly detailed strand rendering • Natural thickness and density • Dynamic movement and layered flow • Slightly windswept appearance • Subtle damp or wet texture • Individual flyaway strands • Fine engraved line work • High-detail cross-hatching throughout the hair The hairstyle should remain authentic to the reference while appearing cinematic and intense. FACIAL HAIR (ADAPTIVE) Analyze the reference image and preserve the subject's natural facial-hair characteristics. If clean-shaven: • Add only subtle rugged skin texture with extremely light natural stubble. If light stubble: • Increase density slightly while maintaining realism. If a beard or mustache is present: • Preserve the original style while enhancing depth, texture, and volume using engraved strokes. Render facial hair using: • Individual hair strokes • Cross-hatched shadowing • Natural density • Strong facial contour definition • Rugged but believable appearance (For subjects without facial hair, do not add a full beard.) SKIN TEXTURE Create a battle-hardened cinematic appearance using: • Fine skin texture • Subtle scars • Light scratches • Tiny ink splatter accents • Engraved pores • Dense cross-hatching instead of smooth gradients • High-detail etched shading LIGHTING Extreme noir chiaroscuro lighting. • One side of the face illuminated dramatically. • The opposite side fades into deep shadow. • Strong directional contrast. • Shadows created entirely through dense engraved cross-hatching
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2085567605599826079) | 2026-08-07
+
+---
+
+### 🏷️ 例 5644：Luxury Durian Brand Key Visual
+
+![Luxury Durian Brand Key Visual](../images/Luxury%20Durian%20Brand%20Key%20Visual.jpg)
+
+**Prompt:**
+
+```text
+一张3:4 竖版新品发布海报级别的品牌 KV，面向新品传播主视觉，主体是水果鲜果方向的{argument name="产品" default="榴莲礼盒"}，整体调性为{argument name="调性" default="强势热带奢感"}，构图采用竖版强中心，主体强中心放大，四周留出克制呼吸感，背景是热带高端果礼空间，加入柔和材质台面来建立品牌空间层次，重点表现尖刺果壳结构与果肉绵密质感，使用戏剧化单向聚光与克制反射，让主体轮廓、材质反射和品牌情绪同时成立，配色系统使用{argument name="配色方案" default="金榴黄 #C9A347 + 奶白 #F4EEDF + 深棕绿 #5B5847"}，文字系统采用标题 + 副标题 + logo 区，文案安全区放在上方标题区，确保标题、slogan、logo 都有清楚留白，整体要像真正可投放的 brand key visual，不要写成天猫主图，不要做成详情页拼贴，不要堆满参数贴片。
+```
+
+**来源：** [@Mr.pinecone](https://x.com/Mrpinecone888/status/2085566048565338146) | 2026-08-07
+
+---
+
+### 🏷️ 例 5648：Anime Gender-Swap Promo Illustration
+
+![Anime Gender-Swap Promo Illustration](../images/Anime%20Gender-Swap%20Promo%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a soft, luminous anime-style promotional illustration for a gender-swap character transformation concept, turning an originally handsome boy into an adorable girl while preserving the original atmosphere.
+
+Canvas: Square 1:1 composition, high-resolution, airy pastel palette, bright white background with pale blue flowers and bokeh light. Use delicate linework, watercolor-like shading, and refined shojo illustration aesthetics.
+
+Main subject: A beautiful anime girl with long silvery-white hair, pale skin, large clear blue eyes, and a gentle slightly melancholic expression. She is seated in a relaxed pose, leaning her cheek on one hand, looking toward the viewer. Her hair is flowing and detailed, with a side braid, loose strands, a black ribbon bow, and small blue-white flower hair ornaments.
+
+Outfit and accessories: She wears a white oversized hoodie layered over a white blouse, a black ribbon tie, black choker, pale blue pleated mini skirt, decorative belts, silver chains, heart-shaped belt detail, dangling charms, earrings, and a lace garter-like accessory with a black bow on one thigh. The styling should feel elegant, cute, and slightly gothic-lolita inspired while remaining bright and delicate.
+
+Layout: Add exactly 3 text areas and exactly 1 inset reference card. The inset card is placed at the upper left, tilted slightly, showing the original male version: a handsome anime boy with short fluffy white hair, blue eyes, a white hoodie, and a calm expression. The card includes Japanese text at the top and bottom. The main headline occupies the left-center area in large vertical-feeling Japanese typography with blue and pink emphasis. A small hexagonal label sits on the right side near the girl's shoulder. Two small caption lines appear near the lower left and lower right.
+
+Text content: Use the following visible Japanese text exactly where appropriate: main headline 「この子、女の子になったら。」 with 「女の子」 emphasized in pink and the rest in blue; small caption 「面影そのまま、性別だけ反転。」; right hexagon label 「男女反転」; lower-right caption 「かっこよさを残した、最高に可愛い彼女。」; inset card top 「元の姿」 and inset card bottom 「のぞむ」.
+
+Atmosphere: Dreamy spring light, floating petals, soft sparkles, white blossoms in the foreground and background, gentle lens glow, romantic magazine-ad composition. Keep the image clean, elegant, and highly polished, with no harsh shadows.
+
+Customizable parameters: transform {argument name="character name" default="のぞむ"} from an original handsome boy into a cute girl; use {argument name="hair color" default="silvery white"}; use {argument name="eye color" default="clear blue"}; main headline text {argument name="headline text" default="この子、女の子になったら。"}; transformation label {argument name="transformation label" default="男女反転"}.
+
+Constraints: Preserve exactly 1 inset card, exactly 3 main text areas outside the card, and exactly 1 main character. Do not add extra characters, logos, watermarks, or modern UI elements. The image should look like a finished Japanese light-novel or social media announcement illustration.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2085564084389646374) | 2026-08-07
+
+---
+
+### 🏷️ 例 5649：Monochromatic Red Surreal Conceptual Art
+
+![Monochromatic Red Surreal Conceptual Art](../images/Monochromatic%20Red%20Surreal%20Conceptual%20Art.jpg)
+
+**Prompt:**
+
+```text
+A surreal conceptual composition in {argument name="color tone" default="monochromatic deep red tones"}, featuring {argument name="subject" default="[MAIN SUBJECT]"}, isolated in a clean minimalist studio environment. Floating elements, sculptural composition, dramatic negative space, soft cinematic lighting with subtle shadows, ultra-smooth gradients, matte and glossy texture contrast, modern editorial aesthetic, hyper-detailed, high contrast, dreamlike atmosphere, precise geometric balance, 8k resolution --ar 4:5 --raw --sref 2841943223 --profile 2iqiaiu --stylize 400 --v 7.0
+```
+
+**来源：** [@K](https://x.com/ChillaiKalan__/status/2085561422508093853) | 2026-08-07
+
+---
+
+### 🏷️ 例 5652：Vintage Philippines Travel Poster
+
+![Vintage Philippines Travel Poster](../images/Vintage%20Philippines%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create an elegant vintage-style travel poster for {argument name="destination" default="Philippines"}, combining a glamorous portrait with a painterly tourism collage on aged cream paper.
+
+Canvas: Vertical poster, 9:16 aspect ratio, centered artwork with wide black letterbox margins above and below. Use a warm parchment background, subtle grain, sepia ink texture, and refined editorial spacing.
+
+Layout: Place a large soft-edged portrait of a beautiful young Filipina woman slightly left of center, facing the viewer with a gentle smile. Put the main title in the upper-right quadrant. Surround the portrait with exactly 6 travel collage scenes arranged like watercolor cutouts and ink-wash islands: 1) upper-left volcanic mountain at glowing sunset with birds in the sky, 2) left-side historic Spanish colonial bell tower beside a colorful Manila jeepney, 3) mid-right green rice terraces, 4) lower-right turquoise island lagoon with limestone cliffs and a traditional outrigger boat, 5) lower-center Manila-style city skyline at sunset with water reflections, palm trees, and a Philippine flag, 6) lower-left text feature block with decorative rules and small serif copy.
+
+Subject details: The woman has long wavy {argument name="hair color" default="brown"} hair, soft polished makeup, warm brown eyes, natural brows, a subtle necklace, and a beige travel jacket over a light top. She should look elegant, approachable, and photorealistic while blending into painterly travel-poster textures.
+
+Text content: Upper-right title in elegant vintage serif typography: “DISCOVER” above large “{argument name="headline destination text" default="PHILIPPINES"}”. Below it, handwritten script subtitle: “{argument name="script subtitle" default="Tara na, Pilipinas!"}”. Small uppercase tagline below: “THOUSANDS OF ISLANDS. COUNTLESS STORIES. ONE HEART.” Lower-left heading: “BEAUTY” and “BEYOND ISLANDS”, followed by small travel copy about timeless traditions, breathtaking landscapes, rich culture, and coastal shores, ending with handwritten “It’s home.” Lower-right signature-style name: “{argument name="signature name" default="Ingrid Lara♡"}”, with tiny pageant-style caption underneath. Bottom microtext separated by dots: “NATURAL • WARM • PROUD • YOURS TO EXPLORE”, plus tiny location labels such as “Ingrid • Kai”.
+
+Visual style: Premium nostalgic Philippine tourism poster, photorealistic portrait mixed with watercolor collage, golden-hour lighting, warm beige and teal color palette, fine serif fonts, graceful script lettering, delicate ornamental sun symbol at the top, torn-edge organic collage silhouettes, subtle birds, soft vignetting, polished magazine-poster composition.
+
+Constraints: Keep the exact 6 collage scenes listed, avoid adding extra major landmarks, keep all text legible and correctly spelled, no watermark, no modern UI elements, no cartoon style.
+```
+
+**来源：** [@Arzoo Ai](https://x.com/Arzoo12sh/status/2085554126017138931) | 2026-08-07
+
+---
+
+### 🏷️ 例 5653：Tang Dynasty Cinematic Photography
+
+![Tang Dynasty Cinematic Photography](../images/Tang%20Dynasty%20Cinematic%20Photography.jpg)
+
+**Prompt:**
+
+```text
+面部身份：
+使用附带的面部身份作为唯一面部参考。四张照片始终匹配相同的五官比例、肤色、年龄感与整体身份。
+
+身体：
+{argument name="人物年龄" default="20岁出头的成年女性"}。使用附带的身体参考作为唯一身体比例参考，保持真实解剖结构、自然曲线与皮肤纹理。
+主题：
+{argument name="主题场景" default="盛唐娱乐四景"}：曲江斗花、长安酒肆、乐坊舞毕、马球赛后。
+
+主体：
+分别生成四张独立的纵向2:3彩色写实照片，不要拼图。四张保持同一人物，但根据活动更换符合盛唐审美的发型、服装、表情和摄影语言。
+
+第一张「花隙里的胜负揭晓」：
+曲江斗花会刚揭晓结果。镜头隔着牡丹与彩幄拍摄人物大特写。她梳盛唐半翻髻，佩戴不对称簪花，穿浅杏白、石青与牡丹红组成的现代审美唐风齐胸襦裙。她循声转向朋友，眉梢轻抬，笑意刚刚出现。采用100–135mm远距观察、前景遮挡和低反差彩色负片质感。
+
+第二张「长安酒肆第七轮」：
+人物坐在胡姬酒肆的低案旁，刚放下鎏金耳杯便被同席朋友逗笑。乌发梳成乌蛮髻，穿孔雀蓝织锦内层、朱红半臂衣与深绯罗裙。采用35mm同席纪实视角，桌缘、胡瓶与宾客肩背自然进入前景。暖灯完整覆盖五官，背景人物分别投筹、交谈与听乐，不统一看镜头。
+
+第三张「乐坊舞毕后的彩色余息」：
+最后一支舞结束，人物在乐坊侧室罗帘旁停步调整呼吸。头发梳成唐代舞后高髻，一束发丝略微松散。暗红与孔雀绿舞衣采用不透明内层，披帛和袖缘保留轻盈层次。她循声望向帘外，嘴唇轻启，疲惫、满足与意外同时存在。采用50mm后台近景、柔雾彩色负片、暗红与灰蓝空间分层。
+
+第四张「马球越线后的回身」：
+盛唐女骑手下马后快步走向休息区，听见同伴呼喊便在步伐中回身。头发梳成左右清晰的双螺骑装髻，穿暗红内层、石青窄袖袍、深色分裁裙裤与皮革长靴。仅保留一只手握住从画面下缘进入的球杖杆身，另一只手不入镜。采用135mm长焦、约1/40秒彩色慢门追随，主体脸部清楚，马匹、旗幡与扬尘形成方向性色带。
+
+光线：
+四张均以宽面自然光或有罩室内灯连续照亮五官。环境色和灯笼只服务空间层次，不在脸部形成圆形光斑、碎光、花影或局部漂白。
+
+质感：
+真实彩色摄影，保留毛孔、细绒毛、自然血色、衣料重量和轻微胶片颗粒。借鉴经典彩色纪实、柔雾时装与运动摄影的画面组织方法，但不复制具体作品。拒绝黑白、近黑白和统一暖金商业滤镜。
+画面右下角加入低调小号手写签名「{argument name="签名" default="Zhong"}」。
+
+负面提示：
+拼图，多分镜，人物身份漂移，现代马尾，泛古风头冠，廉价影楼古装，统一摆拍表情，背景人物动作重复，复杂手势，双手承担多个动作，多余手臂，多余手指，错误手指，脸部光斑，彩色投影，塑料皮肤，黑白照片，现代场景，乱码文字，其他签名。
+```
+
+**来源：** [@AI设计钟师傅](https://x.com/drmrzhong/status/2085542745373020205) | 2026-08-07
+
+---
+
+### 🏷️ 例 5655：Aerial Summer Shirakawa-go Valley
+
+![Aerial Summer Shirakawa-go Valley](../images/Aerial%20Summer%20Shirakawa-go%20Valley.jpg)
+
+**Prompt:**
+
+```text
+Create a vibrant aerial summer landscape illustration of {argument name="village location" default="Shirakawa-go, Japan"}, seen from high above as if gliding through the sky. Show a deep green mountain valley filled with traditional thatched-roof gassho-zukuri farmhouses, rice paddies, winding paths, and small cultivated fields. A clear blue river runs from the distant village toward the foreground, crossed by one simple wooden bridge, with sparkling water, rocks, and lush trees along both banks. Place two large foreground farmhouses with steep straw roofs near the lower left and lower right, and many smaller houses scattered across the middle-distance village. Surround the settlement with dense cedar forests and layered blue-green mountains fading into the distance. The sky should be an intense clear summer cyan with towering white cumulus clouds on the left and smaller clouds on the right. High in the sky, include exactly 21 birds flying in a small V-shaped flock: 20 dark birds plus 1 clearly white goose near the upper right edge of the formation. Use a bright, polished anime background style with crisp detail, saturated greens and blues, warm sunlight, soft atmospheric haze, and a peaceful idyllic mood. No people, no text, no watermark, vertical 4:5 composition.
+```
+
+**来源：** [@もしもし@Aiart](https://x.com/moshimoshi_ai/status/2085526444483269062) | 2026-08-07
+
+---
+
+### 🏷️ 例 5656：Vintage Kunming Morning Poster
+
+![Vintage Kunming Morning Poster](../images/Vintage%20Kunming%20Morning%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Using REFERENCE_0 as the poster template, create a new version for {argument name="city name" default="Kunming"} while preserving the same vintage morning poster layout, aged paper texture, ink gaps, halftone erosion, thin border grime, diagonal hairline, small issue/page metadata blocks, bottom quotation placement, and calm minimalist composition.
+
+Transform the main location identity: replace the large central Chinese city characters with {argument name="large Chinese title" default="昆明"}, set in the same oversized blocky distressed typographic style, but shift the ink color from rusty red to warm golden ochre. Update the small top-left city label from BEIJING to KUNMING, and change the weather line to {argument name="weather label" default="WEATHER 晴 / 云淡"}. Keep the date as {argument name="date" default="2026-08-07"} unless customized.
+
+Change the lower scenery from the Beijing city-wall scene into a Kunming lakeside promenade: replace the cyclist with exactly 1 walking pedestrian, add exactly 1 tall streetlamp on the left, add a low waterfront railing with evenly spaced posts, calm pale green-blue water with reflections, and a small traditional pavilion with blooming pink-white trees on the right. Include a few tiny birds in the sky and a few white birds on the water, kept subtle and sparse.
+
+Update the bottom metadata to read KUNMING, CHINA and adjust the city index coordinates for Kunming. Replace the bottom quote with {argument name="bottom quote" default="四季如春，也要日日新鲜"}. Maintain the same quiet Chinese editorial poster aesthetic, muted palette, large empty sky area, risograph/letterpress grain, worn edges, and no modern photorealism.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2085518224591139271) | 2026-08-07
+
+---
+
