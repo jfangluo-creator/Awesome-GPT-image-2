@@ -11271,3 +11271,277 @@ Create a cheerful vertical anime poster for {argument name="holiday headline" de
 
 ---
 
+### 🖥️ 例 5658：Speedster vs Meteor Cityscape
+
+![Speedster vs Meteor Cityscape](../images/Speedster%20vs%20Meteor%20Cityscape.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic wide-angle superhero action scene at sunset over a dense modern city skyline, with {argument name="superhero appearance" default="a muscular speedster in a sleek dark red armored suit with glowing orange-red lightning veins"} running vertically along the reflective glass facade of a skyscraper on the right side of the frame. Show his body in dynamic mid-stride, back and side view, one knee raised, fists clenched, surrounded by crackling red-orange electrical arcs that wrap around his limbs and trail behind him; include his reflection in the dark window panels beside him. In the sky to the left-center, place {argument name="main threat" default="a huge flaming meteor breaking through smoke clouds"} descending toward the city, with a bright molten core, fiery debris, black smoke plume, and sparks. Add exactly 4 smaller meteor streaks in the sky: one near the upper center, one near the left horizon, one near the central skyline, and one small glowing impact trail near the main meteor. The city below should contain many high-rise buildings with warm lit windows, silhouetted towers, a recognizable financial-district feel, and glowing orange street grids fading into haze. Use dramatic golden-hour lighting, stormy blue-gray clouds mixed with orange sunset, intense rim light on the hero, volumetric smoke, reflections on glass, high contrast, epic scale, motion blur, ultra-detailed realistic digital art, 16:9 composition, no text, no logo, no watermark.
+```
+
+**来源：** [@Mirochill](https://x.com/mirochill/status/2086239516239757751) | 2026-08-08
+
+---
+
+### 🖥️ 例 5674：Dark Beethoven Forest Sonata Poster
+
+![Dark Beethoven Forest Sonata Poster](../images/Dark%20Beethoven%20Forest%20Sonata%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a square cinematic music poster for {argument name="composer name" default="BEETHOVEN"}, dark and moody, about a classical sonata that makes the outside world disappear.
+
+Canvas: 1:1 square poster, high contrast, black background with deep forest-green shadows and aged ivory typography. Use a distressed printed texture, subtle grain, and a dramatic chiaroscuro look.
+
+Layout: Left side contains all typography; right side is dominated by a vertical hybrid image of a violin/cello silhouette merged with piano keys. The center background shows a misty evergreen forest fading into darkness, as if music and nature are blending together. Keep the composition asymmetrical: roughly 60% dark negative space on the left, forest in the middle, instrument and piano keys on the right.
+
+Text content: Use exactly 4 text elements: 1) top-left small title “{argument name="composer name" default="BEETHOVEN"}”; 2) directly below it, smaller subtitle “{argument name="sonata label" default="SONATA N.º 10, OP. 96"}”; 3) a short thin red horizontal dash beneath the subtitle; 4) large main headline in Spanish, stacked over two lines: “{argument name="headline text" default="LA MÚSICA QUE BORRA\nEL MUNDO EXTERIOR"}”. Add a small red page marker “{argument name="page marker" default="1/4"}” in the bottom-left corner.
+
+Subject details: The right-side instrument should show four thin vertical strings, a curved violin or cello body edge, and partial f-holes in silhouette. Behind and beside it, show visible piano keys running vertically, with ivory keys aged and black keys in strong shadow. The middle forest should contain many dark pine trees at different depths, with misty green light behind them.
+
+Visual style: Vintage classical album cover, noir poster design, tall condensed bold sans-serif typography similar to old concert posters, cream-white letters, muted red accent, forest-green haze, black vignette, worn paper texture, elegant but somber mood.
+
+Constraints: Do not add people, headphones, musical notes, logos, watermarks, or extra text. Preserve the Spanish headline and the exact count of 4 text elements plus the bottom-left page marker.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2086086433140322334) | 2026-08-08
+
+---
+
+### 🖥️ 例 5680：Futuristic Product Launch Poster
+
+![Futuristic Product Launch Poster](../images/Futuristic%20Product%20Launch%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical futuristic product-launch poster with a quiet sci-fi aesthetic, generous negative space, curved light, and mist. Canvas: tall 9:16 portrait poster, approximately smartphone wallpaper proportions. Background: deep midnight navy at the top fading into pale icy blue-white fog at the bottom, with soft grain, cinematic haze, and a serene premium technology mood. Main visual: a vast misty landscape of low rolling hills and reflective ground, with one tiny solitary human figure standing at the bottom center, casting a long dark shadow toward the viewer. From the figure, a luminous white-blue road or light trail rises upward in a graceful S-curve, becoming brighter near the horizon, then sweeping around a huge translucent blue planet on the right side. The planet occupies the upper-right half of the image, cropped by the right edge, with a glowing rim and subtle atmospheric texture. Add one thin orbit-like light ring circling the planet, aligned with the S-shaped trail. Typography: use ultra-thin condensed sans-serif uppercase lettering with wide letter spacing, elegant editorial spacing, pale white-blue color. Text elements: exactly 4 text blocks. Block 1 at upper left, small: “BEYOND” on one line and “EXPECTATION” below it, with wide tracking. Block 2 below it, very large stacked headline: {argument name="headline text" default="FUTURE\nUNFOLDS\nTODAY"}. Block 3 under the headline, small spaced event text: {argument name="event subtitle" default="2025 新品发布会"}. Block 4 at upper right inside a thin incomplete rectangular frame: date {argument name="date" default="05.20\n2025"}, a short divider line, then location {argument name="location" default="SHENZHEN\nCHINA"}. Add two minimal decorative divider lines: one short horizontal line between the small upper-left text and headline, and one short line inside the date frame. Composition: keep the left typography aligned to a clean vertical grid, the right date frame small and airy, and the central landscape mostly empty. Color palette: navy, blue-black, mist white, pale cyan glow. Style: high-end Chinese tech conference poster, futuristic minimalism, ethereal atmosphere, premium launch event design, soft volumetric lighting, no clutter, no logos, no extra text, sharp readable typography.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086077694039712157) | 2026-08-08
+
+---
+
+### 🖥️ 例 5681：Sci-Fi Misty Antenna Terrain
+
+![Sci-Fi Misty Antenna Terrain](../images/Sci-Fi%20Misty%20Antenna%20Terrain.jpg)
+
+**Prompt:**
+
+```text
+A cinematic, science-fiction shot of the attached model, her expression, clothing, and appearance completely unaltered, standing alone on a {argument name="terrain" default="rocky, misty terrain"}. In the background rises a gigantic metal lattice tower with enormous parabolic antennas shrouded in mist. To the left, a {argument name="sky element" default="bright red sun"} shines on a hazy horizon. The entire scene is overlaid with {argument name="UI elements" default="futuristic holographic HUD interfaces"}, cyan wireframe 3D analytics graphics surrounding the main antenna, and data panels with text and graphics in the corners. Hyperrealistic, cinematic style, atmospheric and melancholic lighting, cool color palette with red accents
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2086076712585232623) | 2026-08-08
+
+---
+
+### 🖥️ 例 5686：Gothic Girl on Ink-Splattered Stairs
+
+![Gothic Girl on Ink-Splattered Stairs](../images/Gothic%20Girl%20on%20Ink-Splattered%20Stairs.jpg)
+
+**Prompt:**
+
+```text
+Create a wide cinematic gothic anime illustration of exactly one melancholic young woman, {argument name="character name" default="unnamed gothic girl"}, sitting alone on a rough concrete staircase in a ruined urban setting. She has {argument name="hair color" default="messy black"} short wavy bob hair with heavy bangs partly covering her eyes, pale skin, a distant downcast expression, and a slightly slouched seated pose with her knees bent and hands resting near her lap. Her outfit is a dramatic layered gothic dress: one black off-shoulder bodice, one voluminous white skirt covered in black ink-like splatter patterns, black ruffled trim, black stockings, and exactly two oversized glossy black lace-up combat boots in the foreground; add a few sharp {argument name="accent color" default="deep red"} ribbon-like streaks on the dress for contrast. The environment contains exactly one long diagonal concrete staircase filling the lower half of the frame, stained walls behind her, abstract ruined architectural silhouettes, heavy rain-washed grime, dripping black paint, and explosive ink splashes across the left and upper right areas. Use a mostly monochrome palette of black, white, and gray with only small red accents, high-contrast grunge textures, watercolor wash, charcoal sketch lines, splattered sumi-e ink, distressed paper grain, and dramatic moody lighting. Compose her in the upper-right third, with the staircase receding diagonally from lower left to upper right, shallow depth of field on the nearest stair edge, and a bleak atmospheric feeling of isolation. No text, no watermark, no extra characters.
+```
+
+**来源：** [@nema](https://x.com/nema_na_cemu/status/2086061724017541231) | 2026-08-08
+
+---
+
+### 🖥️ 例 5694：Dark Fantasy Worldbuilding Board
+
+![Dark Fantasy Worldbuilding Board](../images/Dark%20Fantasy%20Worldbuilding%20Board.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dark cinematic presentation board for a worldbuilding / image-generation workflow, showing how a consistent fantasy character, locations, and props are built image by image.
+
+Canvas: Wide 4:3 composition on a nearly black background with rounded rectangular cards arranged in a clean grid, soft gaps, subtle shadows, and a muted premium UI feel.
+
+Layout: Use exactly 6 visible cards. Card 1 is a tall text card on the upper left. Card 2 is a large wide character card on the upper right. Cards 3 and 4 are two medium landscape location cards across the middle row. Cards 5 and 6 are two smaller prop cards along the lower left and lower center, with a third lower-right character card partially visible/cropped at the edge if the canvas framing allows. Each image card has a small dark pill label in the top-left corner.
+
+Text content: On the upper-left text card, include small spaced uppercase text “ONE WORLD” near the top. In the lower half, include the headline “Built image by image” and the body text “A character, her locations, and the props she carries — generated separately, holding one look.” Use clean modern sans-serif typography, white headline, muted gray body text.
+
+Visible labeled image cards: 5 fully visible labeled image cards plus 1 text card. The labels are: 2 cards labeled “Character,” 2 cards labeled “Location,” and 2 cards labeled “Prop” if the lower-right crop is included; otherwise keep the main visible set as 1 Character, 2 Location, and 2 Prop. Do not add extra labels.
+
+Subject details: The main character is {argument name="character description" default="a pale young blonde medieval archer girl with braided hair, serious expression, wool cloak and leather quiver of arrows"}. Place her in a snowy stone castle courtyard, holding a long wooden bow, with cold blue-gray lighting and shallow cinematic depth of field. The locations show {argument name="world setting" default="a grim Nordic medieval winter world"}: one frozen harbor with Viking-style longships trapped in ice, torchlight, mountains and snow; one fortified snowy military camp with tents, wooden palisades, watchtowers, smoke rising, and stormy clouds. The props show exactly 2 close-up items: a weathered leather pouch or wrist guard marked with pale runic symbols and small bones, and a row of antler or horn pieces in snow with blurred background.
+
+Visual style: Photorealistic cinematic dark fantasy, desaturated blue-gray winter palette, falling snow, realistic textures, high detail, moody natural lighting, consistent medieval wardrobe and materials across all cards. Rounded card corners, elegant spacing, no bright colors.
+
+Constraints: Keep the interface minimal and editorial, like a premium AI image-generation case study. Preserve the exact headline and body copy. Avoid logos, watermarks, charts, anime style, modern objects, or extra UI clutter.
+```
+
+**来源：** [@宮本 達朗@中小企業向けのAI活用・DX伴走](https://x.com/mt_pb_ai/status/2086034181818060957) | 2026-08-08
+
+---
+
+### 🖥️ 例 5698：Luxury Executive Future Self Portrait
+
+![Luxury Executive Future Self Portrait](../images/Luxury%20Executive%20Future%20Self%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic executive portrait of {argument name="character name" default="a young Black man"} seated behind a polished dark mahogany office desk in a luxurious high-rise executive office. He wears a sharp {argument name="suit color" default="black"} suit jacket over an open-collar {argument name="shirt color" default="white"} dress shirt, looking directly at the viewer with a calm, focused, ambitious expression. His right hand rests under his chin in a thoughtful leadership pose, elbow on the desk; he has a close-cropped haircut, clean-shaven face, defined jawline, symmetrical features, and warm medium-dark skin tone. Behind him, centered on the wood-paneled wall, hang one oversized framed portrait of the same man wearing an all-black suit and black shirt, also posed with his hand under his chin, creating a “future self / envisioned self” feeling. The office has dark walnut wall panels, black marble vertical accents with subtle white veining, warm shelf lighting, and a large floor-to-ceiling window on the right showing a softly blurred modern city skyline in daylight. On the left built-in shelving, include exactly 5 visible decorative objects: one black-and-gold cylindrical container on the top shelf, one horizontal stack of books, two gold/glass trophy awards, and one black-and-gold globe. On the desk, include exactly 5 visible items: one open laptop at the left edge, one closed black notebook centered near the front with a gold pen on top, one glossy black coffee mug on the right, one black-and-gold pen holder at the far right with three pens, and the reflective wooden desktop surface. Use dramatic but refined lighting: warm highlights from shelves and soft window light, rich contrast, realistic skin texture, shallow depth of field, premium editorial photography style, 4:5 vertical composition, ultra-detailed photorealism, no text, no watermark, no extra people.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2086025289625198950) | 2026-08-08
+
+---
+
+### 🖥️ 例 5704：Japanese Girl in Swimsuit at the Beach
+
+![Japanese Girl in Swimsuit at the Beach](../images/Japanese%20Girl%20in%20Swimsuit%20at%20the%20Beach.jpg)
+
+**Prompt:**
+
+```text
+ビーチではしゃぐ{argument name="服装" default="水着"}姿の可愛い{argument name="人物" default="日本人の女の子"}
+```
+
+**来源：** [@ヌケがら🔥](https://x.com/nukegala83/status/2086005241112121605) | 2026-08-08
+
+---
+
+### 🖥️ 例 5713：Astronaut in Abandoned Lunar Base
+
+![Astronaut in Abandoned Lunar Base](../images/Astronaut%20in%20Abandoned%20Lunar%20Base.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic ultra-realistic wide shot of a lone astronaut standing inside an abandoned lunar base built into a dark rocky cave. The astronaut wears a bulky {argument name="spacesuit color" default="white"} EVA suit and helmet, seen from behind and slightly to the left, facing a huge curved panoramic window. Outside the window is a gray cratered moon surface stretching to the horizon, with {argument name="planet in sky" default="Earth"} large and blue in the black star-filled sky. The interior is a ruined retro-futuristic command center with two long rows of damaged control consoles, exactly 2 console banks: one along the left wall and one along the right wall, filled with small glowing blue and amber screens, buttons, panels, cables, and broken equipment. The ceiling is rough natural rock with metal framing embedded into it, and a circular hole overhead lets in dramatic shafts of white sunlight that spotlight the astronaut and dusty floor. Include rubble, exposed wires, hanging cables, cracked glass, scattered debris, and a cylindrical broken machine on the lower right foreground. Mood is lonely, awe-inspiring, post-apocalyptic sci-fi exploration; high contrast chiaroscuro lighting, volumetric dust beams, cold desaturated grays and blacks with subtle blue highlights, photorealistic texture, sharp detail, 16:9 aspect ratio, no text, no watermark.
+```
+
+**来源：** [@Ion](https://x.com/Ionkosm/status/2085979600287388029) | 2026-08-08
+
+---
+
+### 🖥️ 例 5714：Ultra-Realistic Editorial Portrait
+
+![Ultra-Realistic Editorial Portrait](../images/Ultra-Realistic%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic editorial portrait of a beautiful young woman with soft natural features, standing in {argument name="lighting" default="warm golden-hour light"} near a large window. Gentle, genuine smile, eyes catching soft natural light, relaxed confident posture with one hand lightly touching her hair.
+
+Wearing a {argument name="outfit" default="simple elegant outfit — a fitted cream knit sweater with subtle gold jewelry"}, minimal and refined styling. Long hair falling naturally with soft waves, dewy realistic skin texture with visible natural pores, soft natural makeup with a warm glow.
+
+Soft diffused window light creating gentle highlights across her face and hair, with warm ambient shadows adding depth. Blurred neutral background with warm tones, shallow depth of field, 85mm portrait lens compression.
+
+Photorealistic, DSLR-quality detail, magazine-editorial polish, natural color grading, soft cinematic glow, authentic skin texture, no over-smoothing, no artificial filters, realistic and elegant overall aesthetic.
+```
+
+**来源：** [@Sidra](https://x.com/kakarPathan_/status/2085979134854099144) | 2026-08-08
+
+---
+
+### 🖥️ 例 5722：Anime Couple Segmentation UI Screenshot
+
+![Anime Couple Segmentation UI Screenshot](../images/Anime%20Couple%20Segmentation%20UI%20Screenshot.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a widescreen desktop browser screenshot of an AI image-generation/segmentation interface showing a large generated anime illustration in the center and a right sidebar listing detected parts.
+
+Canvas: 16:9 landscape screenshot, light gray browser chrome at the top with an address bar and small toolbar icons. The web app background is mostly white. Include a small back arrow near the upper left of the content area and two small stacked thumbnail previews along the far left side.
+
+Main image: Center-left, display a polished 1990s shoujo anime-style illustration with glossy cel shading and detailed highlights. The scene shows exactly 2 characters: a tall young man with short brown hair in a dark navy Japanese school uniform jacket, white collared shirt, and red necktie; and a cheerful young woman with long dark blue hair in a high ponytail tied with a large blue ribbon, wearing a navy sailor-style school uniform with a white collar. The girl hugs the boy from the side with both arms around his shoulders, smiling with closed happy eyes and an open mouth; the boy smiles gently while looking at her, with a small sweat drop on his cheek. Set them outdoors in spring under pink cherry blossom trees, with a green metal fence, green grass, branches, and scattered falling sakura petals. The anime artwork itself should be a bright rectangular image with a thin margin, occupying most of the left and center of the screen.
+
+Right sidebar: Add a pale gray vertical panel labeled in Japanese at the top as 「セグメント」, with a small eye icon. Show a segmentation list with exactly 17 visible detected items, each with a tiny cropped thumbnail and English label: 1 young man, 2 young woman, 3 brown hair, 4 blue hair, 5 blue hair, 6 blue hair, 7 blue hair ribbon, 8 school uniform jacket, 9 school uniform jacket, 10 school uniform jacket, 11 school uniform jacket, 12 white collared shirt, 13 red necktie, 14 red necktie, 15 red necktie, 16 green metal fence, 17 cherry blossoms. Use small expand/collapse chevrons next to some grouped items.
+
+Bottom of sidebar: Add four subtle gray action rows with simple icons and Japanese labels: 「確定編集」, 「再生成」, 「動画を作成」, and 「クロップ」.
+
+Visual style: Make the screenshot look like it was captured from a real browser window, including faint tabs, URL bar text, top-right extension icons, and a clean minimal interface. The anime image should be vivid and high-resolution, while the surrounding UI is flat, crisp, and unobtrusive.
+
+Customizable details: Use {argument name="image subject" default="a romantic school anime couple under cherry blossoms"}, {argument name="interface title" default="Imagine - Grok"}, {argument name="male uniform color" default="dark navy"}, {argument name="female hair color" default="dark blue"}, and {argument name="seasonal background" default="pink cherry blossom park"}.
+
+Constraints: English UI labels in the segment list must remain legible; preserve the Japanese sidebar heading and action labels; do not add extra characters, extra thumbnails, watermarks, captions, or speech bubbles.
+```
+
+**来源：** [@ゆきしたミノル@動画](https://x.com/yukimino_doga/status/2085958632383107378) | 2026-08-08
+
+---
+
+### 🖥️ 例 5738：Pastel Pop Product Advertisement
+
+![Pastel Pop Product Advertisement](../images/Pastel%20Pop%20Product%20Advertisement.jpg)
+
+**Prompt:**
+
+```text
+Pastel pop advertising illustration of {argument name="subject" default="HUMAN"} beside a tilted {argument name="drink type" default="BREW"} can bursting through a dramatic splash, with a large sliced {argument name="fruit flavor" default="FLAVOR"} fruit in the foreground and scattered angular fragments around the scene. Add the title “[TITLE]” in bold clean display lettering. Use a pastel [PALETTE] palette, a bright geometric background with large diagonal color blocks, crisp stylized liquid shapes, semi-flat shading, subtle halftone texture, clean commercial poster composition, energetic summer mood, product-focused layout, vertical 4:5.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2085920561348108308) | 2026-08-08
+
+---
+
+### 🖥️ 例 5742：Chinese Feng Shui City Test Screenshot
+
+![Chinese Feng Shui City Test Screenshot](../images/Chinese%20Feng%20Shui%20City%20Test%20Screenshot.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a realistic screenshot-style vertical Chinese social media post about a fun feng shui city-direction personality test.
+
+Canvas: Tall smartphone screenshot, approximately 9:16, white app interface background, iPhone status bar at the top showing time 18:17, signal, 4G, and battery. The whole image should look like a Xiaohongshu/RED note screenshot rather than a clean poster.
+
+Top app header: A back arrow on the left, a small circular female avatar, the account name {argument name="account name" default="星河小屋"}, a rounded pink-outline follow button labeled 「关注」, and a share arrow icon on the right. Add a small gray carousel badge near the upper right of the post image reading 「1/5」.
+
+Main post image: Center a colorful simplified map of China on a white background. Use pastel province blocks with Chinese province labels such as 新疆, 青海, 西藏, 四川, 云南, 贵州, 广西, 广东, 福建, 浙江, 上海, 安徽, 山东, 河南, 北京, 内蒙古, 辽宁, 吉林, 黑龙江, 台湾. Overlay a black feng shui/bagua compass diagram: one large circle, multiple radial black lines, a yin-yang symbol at the center, and bold Chinese five-element/direction labels including 水, 木, 火, 土, 金 and direction notes such as 正北, 正南, 正东, 正西, 西北, 东北, 东南, 西南. The map should feel like a casual educational graphic, slightly imperfect but readable.
+
+Main headline text: At the top of the post image, use very large dark brown-black Chinese calligraphy-style title text: {argument name="headline text" default="哪个方位最旺你"}. Below it, centered smaller black text: {argument name="subtitle text" default="换个城市顺风顺水!"}.
+
+Post body under the image: Add Chinese caption text in a social feed layout. First line in larger black text: {argument name="caption hook" default="一定要去旺你的城市走一走！五道题测出"}. Then smaller lines: 「身体其实早已替你锁定专属城池」, 「你会不会有这样的瞬间：」, 「刷到一座城市的风景图，心头莫名悸动」, 「听见一座城市的名字，似曾相识格外熟悉」.
+
+Bottom engagement bar: At the bottom, include a rounded comment input field with a pencil icon and placeholder 「说点什么...」. To its right show exactly 3 engagement items: a heart icon with 「1452」, a star/bookmark icon with 「760」, and a comment bubble icon with 「1.4万」. Draw a thick hand-drawn red oval circle around these three engagement metrics, emphasizing them.
+
+Visual style: Realistic mobile screenshot, crisp UI icons, clean white margins, slight social-media compression, readable Chinese typography, map illustration in soft blue/green/yellow/orange/red provinces, black compass lines. Keep the image vertical and avoid adding extra panels or unrelated decorations.
+```
+
+**来源：** [@壹新](https://x.com/Missle8z/status/2085891390425465221) | 2026-08-08
+
+---
+
+### 🖥️ 例 5743：Office Hamster Manga Diary
+
+![Office Hamster Manga Diary](../images/Office%20Hamster%20Manga%20Diary.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a black-and-white vertical Japanese manga diary page about a difficult office where a cheerful young saleswoman keeps morale alive by sincerely appreciating a hamster-like back-office worker.
+
+Canvas: Tall vertical manga page, approximately 9:16, grayscale ink and screentone, clean panel gutters, hand-drawn shoujo/seinen office-comedy style. Use detailed line art, soft shading, expressive eyes, and readable manga speech balloons and narration boxes.
+
+Layout: Use exactly 5 horizontal panels stacked from top to bottom.
+
+Panel 1: Office reception/back-office desk scene. On the right, a beautiful young woman in a business suit enters smiling brightly with a shoulder bag, ponytail with curled hair, blouse with ribbon tie, earrings, and sparkling friendly expression. At the desk is a small round hamster character sitting like a tiny office worker near paperwork and stationery. Add an office monitor, binders, drawers, and bookshelves. Include a speech balloon from the woman saying {argument name="morning greeting" default="おはようございます！"}. Add a vertical narration box on the right saying {argument name="workplace context" default="ハムスターの職場には若いし誰よりも仕事が出来る営業の女の子がいる"}. Add a vertical narration box on the left saying {argument name="hamster mood" default="とにかく元気が良く、ハキハキしている"}.
+
+Panel 2: Wider office desk scene with exactly 3 characters visible: a stressed male office worker on the left buried behind tall stacks of documents, the small hamster in the center looking confused, and a stressed female office worker on the right hunched over a computer with more document piles. Draw spiral stress marks above the two human coworkers. Include a vertical narration box on the right saying {argument name="office problem" default="大体の社員が、仕事を抱えすぎて、頼むのもコストがかかるからと潰れかけてる中で"}.
+
+Panel 3: The young saleswoman leans toward the hamster with an open, respectful smile, presenting a neat stack of documents across the desk. The hamster looks up attentively from its small work area. Include one large vertical speech balloon on the right saying {argument name="document request" default="ハムさん、手空いてますか？この書類にハンコ押してってください！自分はこの書類の枠印押すんで！"}.
+
+Panel 4: Close office desk scene. The hamster stamps papers with a small seal, looking proud and helpful, with sparkle effects around it. The young woman holds a finished stack of papers, eyes closed in a grateful smile. Include a large speech balloon on the right saying 「いやー！ハムさんいてよかった！これで私外回り２件増やせますよ！超助かる！」. Include a narration box on the left saying 「若いのに人に任せる塩梅も知ってて本当にすごいと思う。感謝も忘れないし人をいい気持ちにさせる力もある」.
+
+Panel 5: Closing portrait panel by a large office window with city buildings visible outside. The young saleswoman waves goodbye with a radiant smile, hair flowing, shoulder bag strap visible, suit jacket and blouse detailed. Add bright emphasis lines around her face. Include a vertical narration box on the left saying 「こういう子の頑張りが認められて欲しいなぁとつくづく思う」.
+
+Visual style: Authentic monochrome manga page, polished but diary-like, crisp black borders, screentone shading on clothing and hair, expressive comedy symbols, tidy office props, warm emotional tone despite stressful workplace context. The hamster should be cute, round, and expressive, functioning like a tiny back-office employee.
+
+Constraints: Use exactly 5 panels, exactly 3 visible characters in panel 2, preserve the Japanese text exactly as written, keep all text vertical where appropriate for manga, no color, no watermark, no extra panels, no extra major characters.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2085884547590472099) | 2026-08-08
+
+---
+

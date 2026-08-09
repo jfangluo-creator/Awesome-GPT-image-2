@@ -55503,3 +55503,17 @@ Create a photorealistic vertical concert photo of a cheerful Japanese undergroun
 
 ---
 
+### 📷 例 5668：Instagram Style Morning Selfie
+
+![Instagram Style Morning Selfie](../images/Instagram%20Style%20Morning%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+日常碎片抓拍的ins风摄影，{argument name="年龄" default="18"} 岁亚洲漂亮的{argument name="发型" default="扎着双麻花辫"}的女生用前置摄像头自拍，她的一只手撑着脸颊，另一只手随意搭在床边，画面带着自然的失焦模糊感，像是刚睡醒随手记录的瞬间，背景是白天的卧室，床上堆着揉皱的针织开衫和毛绒玩偶，整体色调偏奶白色调，带着梦核特有的暧昧朦胧氛围。比例 3:4。1:1。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2086107493902762289) | 2026-08-08
+
+---
+

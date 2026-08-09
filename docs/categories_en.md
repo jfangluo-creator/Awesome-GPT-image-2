@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (387)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (401)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -767,6 +767,34 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 5650: Urban Grunge Glitch Fashion Photography](cat-ui.md#️-例-5650urban-grunge-glitch-fashion-photography)
 
 - [Case 5657: Kappa-chan Banana Day Poster](cat-ui.md#️-例-5657kappa-chan-banana-day-poster)
+
+- [Case 5658: Speedster vs Meteor Cityscape](cat-ui.md#️-例-5658speedster-vs-meteor-cityscape)
+
+- [Case 5674: Dark Beethoven Forest Sonata Poster](cat-ui.md#️-例-5674dark-beethoven-forest-sonata-poster)
+
+- [Case 5680: Futuristic Product Launch Poster](cat-ui.md#️-例-5680futuristic-product-launch-poster)
+
+- [Case 5681: Sci-Fi Misty Antenna Terrain](cat-ui.md#️-例-5681sci-fi-misty-antenna-terrain)
+
+- [Case 5686: Gothic Girl on Ink-Splattered Stairs](cat-ui.md#️-例-5686gothic-girl-on-ink-splattered-stairs)
+
+- [Case 5694: Dark Fantasy Worldbuilding Board](cat-ui.md#️-例-5694dark-fantasy-worldbuilding-board)
+
+- [Case 5698: Luxury Executive Future Self Portrait](cat-ui.md#️-例-5698luxury-executive-future-self-portrait)
+
+- [Case 5704: Japanese Girl in Swimsuit at the Beach](cat-ui.md#️-例-5704japanese-girl-in-swimsuit-at-the-beach)
+
+- [Case 5713: Astronaut in Abandoned Lunar Base](cat-ui.md#️-例-5713astronaut-in-abandoned-lunar-base)
+
+- [Case 5714: Ultra-Realistic Editorial Portrait](cat-ui.md#️-例-5714ultra-realistic-editorial-portrait)
+
+- [Case 5722: Anime Couple Segmentation UI Screenshot](cat-ui.md#️-例-5722anime-couple-segmentation-ui-screenshot)
+
+- [Case 5738: Pastel Pop Product Advertisement](cat-ui.md#️-例-5738pastel-pop-product-advertisement)
+
+- [Case 5742: Chinese Feng Shui City Test Screenshot](cat-ui.md#️-例-5742chinese-feng-shui-city-test-screenshot)
+
+- [Case 5743: Office Hamster Manga Diary](cat-ui.md#️-例-5743office-hamster-manga-diary)
 ---
 
 <a id="chart"></a>
@@ -955,7 +983,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (801)
+## 🎴 [Posters & Cards](cat-poster.md) (804)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -2521,11 +2549,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5607: Streetwear fashion campaign vintage TVs](cat-poster.md#-例-5607streetwear-fashion-campaign-vintage-tvs)
 
 - [Case 5610: Luxury Royal Enfield Instagram Campaign](cat-poster.md#-例-5610luxury-royal-enfield-instagram-campaign)
+
+- [Case 5666: Luxury Skincare Product Advertisement](cat-poster.md#-例-5666luxury-skincare-product-advertisement)
+
+- [Case 5678: Gritty Vanguard Menswear Poster](cat-poster.md#-例-5678gritty-vanguard-menswear-poster)
+
+- [Case 5712: Elegant Chinese Ink Poster](cat-poster.md#-例-5712elegant-chinese-ink-poster)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2309)
+## 📷 [Photography & Realistic](cat-photo.md) (2310)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -7077,11 +7111,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 5637: Tang Dynasty Aesthetic Cinematic Set](cat-photo.md#-例-5637tang-dynasty-aesthetic-cinematic-set)
 
 - [Case 5651: Lifeguard Underground Idol Concert](cat-photo.md#-例-5651lifeguard-underground-idol-concert)
+
+- [Case 5668: Instagram Style Morning Selfie](cat-photo.md#-例-5668instagram-style-morning-selfie)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (525)
+## 🎨 [Illustration & Art](cat-illustration.md) (561)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -8117,6 +8153,78 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 5647: Cozy Korean Fashion Lifestyle Portrait](cat-illustration.md#-例-5647cozy-korean-fashion-lifestyle-portrait)
 
 - [Case 5654: Hygge Winter Cabin Morning](cat-illustration.md#-例-5654hygge-winter-cabin-morning)
+
+- [Case 5660: Solarpunk Harbor of Joy](cat-illustration.md#-例-5660solarpunk-harbor-of-joy)
+
+- [Case 5662: Superheroes Emerging from Comics Grid](cat-illustration.md#-例-5662superheroes-emerging-from-comics-grid)
+
+- [Case 5664: Luxury Fashion Editorial Portrait](cat-illustration.md#-例-5664luxury-fashion-editorial-portrait)
+
+- [Case 5665: Cinematic Martial Artist Character Bible](cat-illustration.md#-例-5665cinematic-martial-artist-character-bible)
+
+- [Case 5667: Tang Dynasty Courtyard Rain Scene](cat-illustration.md#-例-5667tang-dynasty-courtyard-rain-scene)
+
+- [Case 5670: Cozy Indoor Girlfriend Selfie](cat-illustration.md#-例-5670cozy-indoor-girlfriend-selfie)
+
+- [Case 5673: Gritty Industrial Monochrome Tattooed Portrait](cat-illustration.md#-例-5673gritty-industrial-monochrome-tattooed-portrait)
+
+- [Case 5675: Pop-Art Portrait of East Asian Woman](cat-illustration.md#-例-5675pop-art-portrait-of-east-asian-woman)
+
+- [Case 5679: Premium Celebrity Caricature Portrait](cat-illustration.md#-例-5679premium-celebrity-caricature-portrait)
+
+- [Case 5682: Mischievous Forest Faun Girl](cat-illustration.md#-例-5682mischievous-forest-faun-girl)
+
+- [Case 5683: Japanese AI Fantasy Image Comparison Slide](cat-illustration.md#-例-5683japanese-ai-fantasy-image-comparison-slide)
+
+- [Case 5684: Summer Poolside Reflection Portrait](cat-illustration.md#-例-5684summer-poolside-reflection-portrait)
+
+- [Case 5685: Woman by a Goldfish Tank in a Sunlit Room](cat-illustration.md#-例-5685woman-by-a-goldfish-tank-in-a-sunlit-room)
+
+- [Case 5689: Li Qiu Autumn Begins Poster](cat-illustration.md#-例-5689li-qiu-autumn-begins-poster)
+
+- [Case 5690: Candid Urban Satin Street Fashion](cat-illustration.md#-例-5690candid-urban-satin-street-fashion)
+
+- [Case 5691: Minimalist Watercolor Illustration of a Stylish Woman](cat-illustration.md#-例-5691minimalist-watercolor-illustration-of-a-stylish-woman)
+
+- [Case 5693: AI Agent LP Ecosystem Infographic](cat-illustration.md#-例-5693ai-agent-lp-ecosystem-infographic)
+
+- [Case 5695: Universe Escaping a Coffee Cup](cat-illustration.md#-例-5695universe-escaping-a-coffee-cup)
+
+- [Case 5697: Cinematic Close-Up Beauty Portrait](cat-illustration.md#-例-5697cinematic-close-up-beauty-portrait)
+
+- [Case 5699: Crimson Moon Witch Manga Page](cat-illustration.md#-例-5699crimson-moon-witch-manga-page)
+
+- [Case 5701: Anime Girl Under Sakura Blossoms](cat-illustration.md#-例-5701anime-girl-under-sakura-blossoms)
+
+- [Case 5705: Editorial Magazine and Sports Posters](cat-illustration.md#-例-5705editorial-magazine-and-sports-posters)
+
+- [Case 5707: Photorealistic Café Lifestyle Fashion Portrait](cat-illustration.md#-例-5707photorealistic-café-lifestyle-fashion-portrait)
+
+- [Case 5708: Summer Veranda Schoolgirl Photo](cat-illustration.md#-例-5708summer-veranda-schoolgirl-photo)
+
+- [Case 5709: Anime Tavern Dinner Scene](cat-illustration.md#-例-5709anime-tavern-dinner-scene)
+
+- [Case 5711: Neon Chibi Cyber Samurai Pixel Art](cat-illustration.md#-例-5711neon-chibi-cyber-samurai-pixel-art)
+
+- [Case 5717: Six-Panel Anime Dungeon Manga](cat-illustration.md#-例-5717six-panel-anime-dungeon-manga)
+
+- [Case 5719: Ancient Void Mirror Artifact Poster](cat-illustration.md#-例-5719ancient-void-mirror-artifact-poster)
+
+- [Case 5720: Elderly Couple Diner Breakfast](cat-illustration.md#-例-5720elderly-couple-diner-breakfast)
+
+- [Case 5723: Four Cloudflare WebMCP Infographic Posters](cat-illustration.md#-例-5723four-cloudflare-webmcp-infographic-posters)
+
+- [Case 5725: Ancient Dragon Palm Kung Fu Manual](cat-illustration.md#-例-5725ancient-dragon-palm-kung-fu-manual)
+
+- [Case 5726: Dim Candid Bedroom Portrait](cat-illustration.md#-例-5726dim-candid-bedroom-portrait)
+
+- [Case 5734: Parisian Street Style Portrait](cat-illustration.md#-例-5734parisian-street-style-portrait)
+
+- [Case 5736: Cyberpunk Neon Rugged Portrait](cat-illustration.md#-例-5736cyberpunk-neon-rugged-portrait)
+
+- [Case 5737: Dark Urban Katana Fashion Portrait](cat-illustration.md#-例-5737dark-urban-katana-fashion-portrait)
+
+- [Case 5741: Cinematic Rainy Street Portrait](cat-illustration.md#-例-5741cinematic-rainy-street-portrait)
 ---
 
 <a id="character"></a>
@@ -8501,7 +8609,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (271)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (274)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -9031,6 +9139,12 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 5551: 3D Character Name Sculpture](cat-3d.md#-例-55513d-character-name-sculpture)
 
 - [Case 5591: Glossy Brand Achievement Badge](cat-3d.md#-例-5591glossy-brand-achievement-badge)
+
+- [Case 5661: 3D Pop-Art Comic Poster Collage](cat-3d.md#-例-56613d-pop-art-comic-poster-collage)
+
+- [Case 5702: Epic Oriental Papercut Art Rising High](cat-3d.md#-例-5702epic-oriental-papercut-art-rising-high)
+
+- [Case 5727: Miniature Paper-Craft Travel Illustration](cat-3d.md#-例-5727miniature-paper-craft-travel-illustration)
 ---
 
 <a id="architecture"></a>
@@ -9801,7 +9915,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (536)
+## 🏷️ [Brand & Packaging](cat-brand.md) (565)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -10868,6 +10982,64 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 5655: Aerial Summer Shirakawa-go Valley](cat-brand.md#️-例-5655aerial-summer-shirakawa-go-valley)
 
 - [Case 5656: Vintage Kunming Morning Poster](cat-brand.md#️-例-5656vintage-kunming-morning-poster)
+
+- [Case 5659: AI Time-Travel Street Panorama](cat-brand.md#️-例-5659ai-time-travel-street-panorama)
+
+- [Case 5663: Epic Douluo Fantasy Tower Poster](cat-brand.md#️-例-5663epic-douluo-fantasy-tower-poster)
+
+- [Case 5669: Armored Tokusatsu Cosplayers Resting](cat-brand.md#️-例-5669armored-tokusatsu-cosplayers-resting)
+
+- [Case 5671: Character sheet prompt “Create a premium cinemat](cat-brand.md#️-例-5671character-sheet-prompt-create-a-premium-cinemat)
+
+- [Case 5672: Chaotic Late Office Worker Poster](cat-brand.md#️-例-5672chaotic-late-office-worker-poster)
+
+- [Case 5676: Manga Woman Writing in Storage Office](cat-brand.md#️-例-5676manga-woman-writing-in-storage-office)
+
+- [Case 5677: Dianchi Memories Vintage Travel Poster](cat-brand.md#️-例-5677dianchi-memories-vintage-travel-poster)
+
+- [Case 5687: Vertical Corporate Fashion Portrait Collage](cat-brand.md#️-例-5687vertical-corporate-fashion-portrait-collage)
+
+- [Case 5688: Steampunk Clockwork Princess](cat-brand.md#️-例-5688steampunk-clockwork-princess)
+
+- [Case 5692: Cinematic Dubai Skyline Drone View](cat-brand.md#️-例-5692cinematic-dubai-skyline-drone-view)
+
+- [Case 5696: Cyberpunk Neon City Street](cat-brand.md#️-例-5696cyberpunk-neon-city-street)
+
+- [Case 5700: Golden Garden Anime Portrait](cat-brand.md#️-例-5700golden-garden-anime-portrait)
+
+- [Case 5703: Premium Energy Drink Brand Concept](cat-brand.md#️-例-5703premium-energy-drink-brand-concept)
+
+- [Case 5706: Cinematic Studio Interview Scene](cat-brand.md#️-例-5706cinematic-studio-interview-scene)
+
+- [Case 5710: Anime Summer Girl Reference Portrait](cat-brand.md#️-例-5710anime-summer-girl-reference-portrait)
+
+- [Case 5715: Anime Girl Grok Imagine Promo](cat-brand.md#️-例-5715anime-girl-grok-imagine-promo)
+
+- [Case 5716: Cinematic Anime Shinobi Poster Mockup](cat-brand.md#️-例-5716cinematic-anime-shinobi-poster-mockup)
+
+- [Case 5718: Luxury Beauty Editorial Collage](cat-brand.md#️-例-5718luxury-beauty-editorial-collage)
+
+- [Case 5721: Modern Airport Travel Portrait](cat-brand.md#️-例-5721modern-airport-travel-portrait)
+
+- [Case 5724: Cinematic Bird Fashion Portrait](cat-brand.md#️-例-5724cinematic-bird-fashion-portrait)
+
+- [Case 5728: Four Anime Mascot Character Sheets](cat-brand.md#️-例-5728four-anime-mascot-character-sheets)
+
+- [Case 5729: Golden Hour Empty Airport Runway](cat-brand.md#️-例-5729golden-hour-empty-airport-runway)
+
+- [Case 5730: Cinematic Pepsi Energy Drink Video Sequence](cat-brand.md#️-例-5730cinematic-pepsi-energy-drink-video-sequence)
+
+- [Case 5731: Dark Lovesick Anime Letter Transformation](cat-brand.md#️-例-5731dark-lovesick-anime-letter-transformation)
+
+- [Case 5732: Moonlit Fox Mask Night Market](cat-brand.md#️-例-5732moonlit-fox-mask-night-market)
+
+- [Case 5733: Vintage Royal Enfield Motorcycle Collage](cat-brand.md#️-例-5733vintage-royal-enfield-motorcycle-collage)
+
+- [Case 5735: Minimalist Hand-Drawn Doodle Illustration](cat-brand.md#️-例-5735minimalist-hand-drawn-doodle-illustration)
+
+- [Case 5739: Y2K-Inspired Fashion Editorial Poster](cat-brand.md#️-例-5739y2k-inspired-fashion-editorial-poster)
+
+- [Case 5740: Aged Celluloid Film Moths Portrait](cat-brand.md#️-例-5740aged-celluloid-film-moths-portrait)
 ---
 
 <a id="edit"></a>

@@ -25452,3 +25452,50 @@ Lighting is warm late-afternoon golden hour with soft sunlight entering through 
 
 ---
 
+### 🎴 例 5666：Luxury Skincare Product Advertisement
+
+![Luxury Skincare Product Advertisement](../images/Luxury%20Skincare%20Product%20Advertisement.jpg)
+
+**Prompt:**
+
+```text
+Create a premium photorealistic commercial advertisement for a luxury face cream called “{argument name="product name" default="LUMÉA GLOW"}”. Vertical 4:5 composition, ultra-realistic 8K beauty product photography, high-end skincare campaign aesthetic. Place an elegant white and frosted-glass cream jar prominently on the right side, slightly elevated above a glossy reflective surface. The jar has a luxurious champagne-gold lid and a minimal clean label reading “LUMÉA GLOW”, “RADIANCE CREAM”, and “HYDRATING + BRIGHTENING”. The cream should be visible inside the open jar with a smooth rich texture. Surround the product with fresh white flowers, soft cream swirls, water droplets, glowing particles and delicate translucent petals. Create a luxurious, fresh and radiant atmosphere with subtle mist and floating droplets. Use a sophisticated palette of {argument name="color palette" default="pearl white, soft champagne gold, warm beige and subtle pastel pink"}. Dramatic studio lighting from the upper-right, soft glowing backlight, realistic reflections, beautiful highlights, gentle shadows and cinematic depth of field. On the left side, add elegant advertising typography: “LUMÉA GLOW” Large bold text: “{argument name="headline" default="GLOW LIKE NEVER BEFORE"}” Below it in elegant handwritten script: “Pure Radiance.” Small text: “Hydrate. Nourish. Glow.” At the bottom, create a clean premium information bar divided into three sections: “24H HYDRATION” “RADIANCE BOOST” “SKIN NOURISHMENT” Luxury skincare commercial, realistic cream texture, physically accurate reflections and shadows, premium beauty campaign, cinematic composition, flawless product presentation, perfectly readable typography, accurate spelling, no people, no hands, no watermark, no extra products.
+```
+
+**来源：** [@Anissa](https://x.com/SimplyAnnisa/status/2086111894977548374) | 2026-08-08
+
+---
+
+### 🎴 例 5678：Gritty Vanguard Menswear Poster
+
+![Gritty Vanguard Menswear Poster](../images/Gritty%20Vanguard%20Menswear%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a gritty high-fashion menswear campaign poster for {argument name="brand name" default="VANGUARD MAN"}, vertical 9:16 canvas. Use a black, distressed background with oversized repeated dark navy-blue block lettering spelling “VANGUARD” stacked and cropped along the top, sides, and bottom like a wallpaper pattern. Center a bright electric-blue rectangular poster panel with a thick blue border and worn print texture. At the top of the blue panel, place three small uppercase microtext labels in a thin condensed sans-serif: left “VANGUARD MAN”, center “SPRING / SUMMER 2025 COLLECTION”, right “NEW CHAPTER. SAME CODE.” separated by thin vertical dividers. Below, set the main headline in huge heavy black condensed sans-serif: {argument name="headline text" default="DEFY STANDARD"}, arranged as two lines, with a black double-chevron arrow icon to the right of “DEFY”. Under the headline, insert one large black-and-white editorial fashion portrait: a young male model with wet tousled dark hair, sharp cheekbones, serious expression, looking slightly downward at camera, wearing a dark structured coat with high collar, dramatic low-key studio lighting, high contrast, grainy monochrome. Across the lower half of the portrait, overlay an oversized rough white brush-script word {argument name="brush word" default="REBEL"} diagonally from left to right, with a smaller white handwritten tagline beneath it: {argument name="script tagline" default="shape the future."}. At the bottom of the blue panel, add a bold black condensed sans-serif slogan {argument name="bottom slogan" default="BUILT TO LEAD."}, and beneath it small spaced uppercase text “VANGUARD MAN — NEW SEASON. NEW ENERGY.” Make the whole design look like a worn screen-printed streetwear poster with visible dust, scratches, paper grain, ink speckles, slight scuffs, and strong black/blue/white contrast. Keep exactly one portrait, one double-chevron icon, three top microtext labels, one headline block, one brush-script overlay, one bottom slogan, and one small footer line; no extra logos or watermarks.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086079635742490941) | 2026-08-08
+
+---
+
+### 🎴 例 5712：Elegant Chinese Ink Poster
+
+![Elegant Chinese Ink Poster](../images/Elegant%20Chinese%20Ink%20Poster.jpg)
+
+**Prompt:**
+
+```text
+中国风高端艺术海报，水墨晕染背景，带有淡金色祥云和留白。
+画面右侧用优雅的竖排书法字体清晰写着黑色大字「{argument name="大标题" default="东方美学"}」，
+左侧横排用现代宋体写着小字「{argument name="副标题" default="传统与当代的对话"}」。
+底部用细小的灰色楷体写着「{argument name="展会信息" default="限量艺术展 · 2026"}」。
+文字清晰锐利、无变形，墨色自然，整体氛围高级、克制、有文化感，
+高细节，专业海报排版
+```
+
+**来源：** [@南鸢 nuyoah](https://x.com/nanyuan0412/status/2085980830279577918) | 2026-08-08
+
+---
+

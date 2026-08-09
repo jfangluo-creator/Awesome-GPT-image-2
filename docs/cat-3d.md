@@ -6732,3 +6732,113 @@ Constraints: Use exactly 1 badge, exactly 1 central brand emblem, exactly 3 main
 
 ---
 
+### 🧸 例 5661：3D Pop-Art Comic Poster Collage
+
+![3D Pop-Art Comic Poster Collage](../images/3D%20Pop-Art%20Comic%20Poster%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic 3D pop-art comic poster collage featuring the same young woman consistently across every panel. She has long, naturally wavy dark brown hair with soft curtain bangs, warm fair-to-medium skin, delicate facial features, expressive brown eyes, and a calm, confident expression.
+
+She is wearing a {argument name="clothing" default="fitted cream/beige ribbed long-sleeve collared polo shirt"} with a small dark embroidered horse logo, paired with high-waisted beige trousers and a classic brown leather belt with a gold buckle.
+
+Design the image as a dynamic multi-panel comic-book collage with thick black borders separating each frame. Include several different poses and angles of the same woman: a close-up portrait, a three-quarter profile, a relaxed standing pose, and a smaller seated/back-facing pose. The central portrait should be the main focus and significantly larger than the surrounding panels.
+
+Use a {argument name="background" default="stylish urban graffiti background"} with colorful comic-book panels, halftone dot textures, pink and yellow graphic sections, and a bold blue-red-yellow explosion pattern. Maintain realistic skin texture, detailed hair strands, natural facial proportions, realistic fabric texture, cinematic lighting, sharp focus, and polished editorial photography quality while preserving the graphic {argument name="style" default="pop-art aesthetic"}.
+
+Composition: vertical poster, full-body and half-body framing mixed across panels, symmetrical and visually balanced layout, central subject dominant, clean black panel outlines, no extra thumbnail image, no duplicated reference photo, no unwanted text, no watermark.
+
+Style: ultra-realistic photography + premium 3D pop-art comic aesthetic, highly detailed, vibrant, cinematic, crisp, professional fashion editorial, 8K quality.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2086177489844658613) | 2026-08-08
+
+---
+
+### 🧸 例 5702：Epic Oriental Papercut Art Rising High
+
+![Epic Oriental Papercut Art Rising High](../images/Epic%20Oriental%20Papercut%20Art%20Rising%20High.jpg)
+
+**Prompt:**
+
+```text
+{argument name="画面比例" default="9:16"}竖版，现代东方女性梦境立体剪纸艺术，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，layered shadow box，epic oriental paper fantasy，poetic female dreamscape，contemporary oriental art poster。
+
+画面核心叙事为：
+一位年轻东方女性独自站在一座高耸入云的巨大纸艺高台顶端，脚下是无边无际的云海与层叠远山，脚边是一道极长的纸艺天梯沿着高台外壁一路向下延伸，像从天际垂落。她站在高台边缘，面向辽阔天地，在极高之处重新听见内心真正的声音。整幅画面不是安静的小景，而是具有明显史诗感、巨大尺度感和高空震撼感的恢弘纸艺场景。
+主体人物为 {argument name="主体人物" default="视觉年龄约25岁的东方成年女性"}，气质 安静清醒、温柔坚定，带一点独处时的辽阔感。
+人物拥有 柔和鹅蛋脸，清亮杏眼，神情平静，眉眼舒展，像终于获得内心安宁。人物不是近景主角，而是作为巨大世界中的情绪锚点存在，比例必须明显偏小。
+
+人物发型为 黑色长发半披半挽，发尾被高空风吹成细长流动纸带，佩戴 浅金叶片与小花发饰，头饰轻盈精致，不复杂、不高耸。
+服装为 月白与雾蓝纸艺长裙，裙摆带有 云纹与水波纹样，外层轻薄纸艺披帛被风吹向身后，衣摆、披帛和发丝一起形成柔和而清晰的高空风势流线。服装具有明显的多层纸片结构、纸张厚度、纤维纹理、细密裁切边缘和轻微折痕。
+梦境载体为 纸艺高台与观景平台。
+梦境意象包括 云海、远山、飞鸟、长阶、风中纸带、微光星点。
+所有高台、天梯、云层、远山、飞鸟、人物和装饰结构都必须统一为高完成度的立体纸雕语言。
+
+整体剪纸结构采用 纸页道路式。
+画面主体是一座高耸入云、极其巨大的纸艺高台。高台顶部是一个开阔的观景平台，平台边缘有精致栏杆与少量东方装饰纹样，高台外壁由大面积纸雕曲面、云纹、波浪状纸层和纵向结构组成，体量巨大，远远大于人物。
+一条极长的纸艺天梯沿着高台外立面一路向下延伸，天梯从平台顶部起始，穿过高台结构，向画面下方不断延展，形成极强的垂直纵深和登高感。
+人物位于 高台顶部边缘，比例很小，可以为背对或侧对镜头站立姿态，身体迎向远方云海与群山，头部轻微抬起，长发和披帛被风吹起。人物不是视觉主体面积最大的部分，必须显得渺小，从而突出“人在巨大世界中的微小感”和天地的辽阔。
+
+高台之外是 无边无际的云海世界。
+云海从高台下方一直铺展到天际，层叠极厚，起伏绵延；远处大量纸艺山脉刺破云层，形成极长的远景层次。
+天空广阔而开阔，保留大面积留白式天空空间，纸艺云层在高空层层漂浮展开，少量飞鸟掠过天空，增强尺度感和高空感。
+整体色彩方案为：
+ {argument name="色彩方案" default="月白、雾蓝、浅金为主"}，少量银白点缀。
+其中：
+月白用于高台主体、天梯、栏杆、云层高光与人物服装主要结构
+
+雾蓝用于高台阴影、远山、云层层次与部分裙摆
+浅金用于结构边缘、栏杆、细节描边与晨光高光
+银白用于高处亮部、云层反光和少量纸艺星点
+
+整体颜色必须 明亮、清澈、高级、通透，不能灰蒙，不能脏，不能整体偏蓝一团，也不能偏黄过重。
+
+光线与纸张质感为：
+ 清晨冷暖交融的侧光穿过云海，从画面左侧或远方斜照而来。
+阳光照亮高台顶部、天梯边缘、栏杆和人物轮廓，同时在高台曲面、云层纸层和远山边缘形成明显而柔和的透光感。
+必须强化以下纸艺质感：
+清晰的纸张纤维
+纸雕边缘的透光感
+
+真实纸张厚度
+手工裁切纹样
+云层和山体的层叠纸片结构
+
+高台外立面的精细纸雕装饰
+整体画面要有 史诗级气势：
+不是一个普通观景台，而是一座仿佛悬于天地之间的高空纸艺神台；
+不是一个普通楼梯，而是一道沿着天际垂落的漫长天梯；
+不是普通云景，而是无边云海与万重远山共同形成的天地级空间。
+画面必须突出 巨大尺度、强烈纵深、广阔留白、高空压迫感、人物极小、天地辽阔。
+画面整体具有 现代东方纸雕艺术海报、神话级天空高台、史诗纸艺装置、东方幻想世界观海报感。
+人物只是高台之上的小小情绪锚点，真正的主角是 高台、天梯、云海、远山与天空 所构成的宏大空间。
+补充要求：
+ 人物必须更小，强化云海高台的巨大尺度和留白空间，画面要比普通版本更有气势，不要画面拥挤，不要做成温柔小景，要有史诗感和高空震撼感。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2086006690374398286) | 2026-08-08
+
+---
+
+### 🧸 例 5727：Miniature Paper-Craft Travel Illustration
+
+![Miniature Paper-Craft Travel Illustration](../images/Miniature%20Paper-Craft%20Travel%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Create a charming miniature 3D paper-craft travel illustration of {argument name="destination" default="Paris"}, designed like a delicate handmade travel postcard. Feature recognizable local landmarks and cultural elements as tiny handcrafted models, arranged on a narrow floating landscape strip. Include small details such as local transportation, trees, street lamps, water, birds, clouds, and subtle travel elements like an airplane with a dotted flight path.
+
+Use a soft white textured paper background, gentle natural lighting, pastel colors, subtle shadows, and a whimsical handcrafted aesthetic. The landmarks should look like they are made from paper, clay, wood, and miniature craft materials, with realistic tiny textures and charming imperfections.
+
+Keep the composition minimal, clean, airy, and centered, with plenty of negative space around the miniature scene. Add a small elegant handwritten-style title at the bottom reading “{argument name="destination name" default="DESTINATION"}”.
+
+Style: miniature diorama, handcrafted paper art, travel postcard, whimsical 3D illustration, soft pastel palette, tactile textures, macro photography feel, delicate details, cozy artistic aesthetic, high resolution, vertical 9:16 composition.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2085947435445354577) | 2026-08-08
+
+---
+
