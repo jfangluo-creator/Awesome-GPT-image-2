@@ -6842,3 +6842,85 @@ Style: miniature diorama, handcrafted paper art, travel postcard, whimsical 3D i
 
 ---
 
+### 🧸 例 5753：Friendly ChatGPT Robot Introduction
+
+![Friendly ChatGPT Robot Introduction](../images/Friendly%20ChatGPT%20Robot%20Introduction.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cheerful square promotional 3D illustration introducing {argument name="assistant name" default="ChatGPT"} as a friendly AI robot created by {argument name="company name" default="OpenAI"}, mixing a polished product-render look with hand-drawn whiteboard-style annotations.
+
+Canvas: 1:1 square image, warm indoor office/classroom setting, shallow depth of field, cozy natural light, wooden desk foreground, dark blue presentation board in the background.
+
+Main subject: Center-right, show exactly 1 cute glossy white robot mascot with a rounded rectangular black face screen, glowing cyan happy crescent eyes, rounded white headphones/ear pods, segmented black-and-white arms, and one raised waving hand with 5 fingers. The robot holds exactly 1 white placard in front of its body. Add a teal OpenAI-knot style emblem on the robot chest.
+
+Placard text and design: The placard should have a teal knot logo at top, large bold black "OpenAI" in the middle, and handwritten text above and below: "I was created by", "An AI research and deployment company", and in teal "Better AI. A brighter future." Add small teal doodle rays around the bottom slogan.
+
+Left side handwritten intro panel: Use casual hand-lettering as if written on glass or a board. Large top text says "Hi there!" then "I'm" and a big mint-green underlined "ChatGPT". Under it, include exactly 3 explanatory bullet callouts with icons: 1 speech bubble icon with "A large language model (AI assistant)", 1 lightbulb icon with "I can answer questions, explain things, help you create, solve problems, and much more!", and 1 heart icon with "I'm here to be helpful, honest, and friendly." Include small decorative doodle rays around the headline.
+
+Background board: On the right rear dark blue board, display a large white OpenAI knot logo above the word "OpenAI". Beneath it, handwritten stacked text reads exactly 4 lines: "Research", "Safety", "Useful AI", "for everyone" with an underline and small radiating doodles. Above the robot head, add handwritten text "That's me!" with an arrow pointing down to the robot.
+
+Desk objects: Include exactly 4 stacked books on the left, spine labels from top to bottom: "BETTER QUESTIONS", "CLEARER ANSWERS", "A MORE HELPFUL TOMORROW", and a fourth dark book marked with a small heart. Include exactly 1 open laptop in the lower-left foreground with small writing on the back: "Curiosity builds a better world" plus a heart. Include exactly 1 white coffee mug on the right with text: "Same team. A brighter future." and a smiley face. Along the front edge of the desk, add a small handwritten footer: "OpenAI × ChatGPT = More possibilities for everyone" with doodle rays and a heart.
+
+Visual style: High-quality gpt-image-2 style, cute 3D character rendering, soft reflections on plastic, realistic desk materials, bokeh background, bright teal accents, friendly educational startup branding, hand-drawn white marker typography and simple doodle icons. Keep text legible and correctly spelled.
+
+Constraints: No extra characters, no extra logos beyond the OpenAI-style knot marks described, no watermark, no photorealistic human hands, keep the robot centered and welcoming, preserve the exact count of 1 robot, 1 placard, 4 books, 1 laptop, 1 mug, and 3 left-side bullet callouts.
+```
+
+**来源：** [@松丸 彗吾(keigo matsumaru)](https://x.com/k_matsumaru/status/2086493711295447490) | 2026-08-09
+
+---
+
+### 🧸 例 5817：Friendly ChatGPT Robot Office Scene
+
+![Friendly ChatGPT Robot Office Scene](../images/Friendly%20ChatGPT%20Robot%20Office%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a square, polished 3D promotional illustration introducing {argument name="character name" default="ChatGPT"} as a friendly AI assistant made by {argument name="company name" default="OpenAI"}.
+
+Canvas: 1:1 square image, warm indoor office setting, shallow depth of field, soft cinematic lighting, realistic 3D toy-like render with handwritten whiteboard-style annotations overlaid on the scene.
+
+Main subject: Center-right is a cute glossy white robot assistant with a rounded rectangular black screen face, glowing happy crescent eyes, rounded ear-like side pods, segmented arms, and a small OpenAI knot logo on its chest. The robot is waving with its right hand and holding a white placard with its left hand. The placard reads: “I was created by” above a green OpenAI logo, then “OpenAI” in large black type, then “An AI research and deployment company,” and at the bottom in green: “Better AI. A brighter future.” with small decorative emphasis marks.
+
+Layout and objects: Place the robot behind a wooden desk. Include exactly 4 stacked books on the left side of the desk, labeled from top to bottom: “BETTER QUESTIONS,” “CLEARER ANSWERS,” “A MORE HELPFUL TOMORROW,” and a bottom dark book with a small heart icon. In the lower-left foreground, include an open laptop angled toward the viewer with text on its back: “Curiosity builds a better world” plus a small heart. On the right side of the desk, include 1 white coffee mug labeled: “Same team. A brighter future.” with a simple smiley face. Along the bottom edge of the desk, add a small handwritten caption: “OpenAI × ChatGPT = More possibilities for everyone” followed by a heart.
+
+Background: Use a dark navy wall or board on the right with a large white OpenAI knot logo and the word “OpenAI.” Under it, handwritten text reads exactly 4 lines: “Research,” “Safety,” “Useful AI,” “for everyone,” with a small underline and decorative rays. Add a blurred plant on the far left and warm office furniture in the background.
+
+Handwritten annotation overlays: Include a large top-left greeting in white: “Hi there!” with energetic lines. Below it, write “I’m” and then {argument name="headline text" default="ChatGPT"} in large mint-green handwritten letters with an underline. Add exactly 3 explanatory icon callouts down the left side: 1 speech bubble icon with “A large language model (AI assistant)”; 1 lightbulb icon with “I can answer questions, explain things, help you create, solve problems, and much more!”; 1 heart icon with “I’m here to be helpful, honest, and friendly.” Above the robot’s head, add “That’s me!” with an arrow pointing to the robot and a few emphasis strokes.
+
+Visual style: friendly, optimistic, clean tech branding, rounded forms, glossy materials, white and mint-green marker typography, warm wood tones, deep blue background, professional but playful. Keep the OpenAI branding readable, preserve the exact text above, avoid extra logos, avoid misspelled words, and keep all typography legible.
+```
+
+**来源：** [@White](https://x.com/White1637402/status/2086283928697258411) | 2026-08-09
+
+---
+
+### 🧸 例 5820：DNA Nucleotides 3D Infographic
+
+![DNA Nucleotides 3D Infographic](../images/DNA%20Nucleotides%203D%20Infographic.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a polished 3D scientific educational infographic titled {argument name="headline text" default="DNA Nucleotides"}, showing a close-up view of a DNA double helix with labeled nucleotide bases and molecular structure.
+
+Canvas: Landscape 4:3 composition, bright white laboratory-style background with soft depth-of-field molecular clusters in pale blue, lavender, mint, and purple around the edges. Use a clean, high-resolution textbook/medical visualization style with realistic glossy translucent spheres and rods, soft shadows, and shallow depth of field.
+
+Layout: Center the title at the top in large dark navy bold type, with the subtitle {argument name="subtitle text" default="A close-up view of the DNA double helix"} directly beneath in smaller medium-blue type. Fill the frame with a large twisting DNA double helix running from the left foreground through the center to the right side, with a second orange strand crossing diagonally through the lower right foreground. Keep the central base-pair region open and readable for labels.
+
+Subject details: Render the DNA as a molecular ball-and-stick model combined with translucent bead-like backbone surfaces. The sugar-phosphate backbone should be two twisting chains made of semi-transparent bluish-gray spheres with orange/gold connector rods and small red atoms. In the center, show exactly 4 labeled nucleotide bases: Adenine (A) in green at upper left center, Thymine (T) in purple at upper right center, Guanine (G) in blue at lower left center, and Cytosine (C) in orange at lower right center. Adenine pairs with Thymine across the top using dotted pale blue hydrogen bonds, and Guanine pairs with Cytosine below using three dotted pale blue hydrogen-bond rows. Molecular rings should be flat aromatic ring structures with small colored atom spheres and white hydrogen atoms.
+
+Text content and labels: Include exactly 7 callout labels with thin black pointer lines: “Adenine (A)” in green pointing to the green upper-left base; “Thymine (T)” in purple pointing to the purple upper-right base; “Guanine (G)” in blue pointing to the blue lower-left base; “Cytosine (C)” in orange pointing to the orange lower-right base; “Sugar-phosphate backbone” in black pointing to the right-side helical backbone; “Hydrogen bonds” in black pointing to the dotted bond lines between base pairs; and “Emerging RNA” in orange pointing to the orange strand crossing the lower foreground. Use crisp sans-serif typography and avoid crowding.
+
+Visual style: Hyper-detailed scientific 3D render, glossy translucent molecular beads, realistic refraction, soft bokeh background, professional biology textbook infographic, balanced educational clarity and cinematic depth.
+
+Constraints: Use exactly the 4 nucleotide labels and exactly the 3 structural labels listed above; do not add extra labels, icons, captions, legends, watermarks, or borders. Keep all text sharp and correctly spelled.
+```
+
+**来源：** [@wren](https://x.com/gnostic_snakes/status/2086280356227907785) | 2026-08-09
+
+---
+

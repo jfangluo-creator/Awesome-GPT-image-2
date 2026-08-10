@@ -55517,3 +55517,31 @@ Create a photorealistic vertical concert photo of a cheerful Japanese undergroun
 
 ---
 
+### 📷 例 5782：Realistic Korean High School Girl iPhone Selfie
+
+![Realistic Korean High School Girl iPhone Selfie](../images/Realistic%20Korean%20High%20School%20Girl%20iPhone%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+比例：9:16 基本主题：{argument name="主题" default="高中女生日常自拍"} 拍摄设备：iPhone 16 Pro前置摄像头，人像模式 镜头位置：close-up shot，俯仰角度随机{平视，轻微仰视，轻微俯视，头顶俯视} 高中生女生：{argument name="人物细节" default="韩系18岁高中女生，邻家女孩可爱类型，淡妆，鹅蛋脸尖下巴，大眼睛，栗色瞳孔，双眼皮，双眼神采奕奕像是有星星在闪烁；有可爱卧蚕；有欧美混血感；messy bangs，stray hair，extreme detailed skin texts，few moles，pink dewy lips"}；camisole cropped top；{argument name="服装" default="cute pink camisole & pink pleated mini skirt"}
+```
+
+**来源：** [@draco](https://x.com/DracoVibeCoding/status/2086387233955975336) | 2026-08-09
+
+---
+
+### 📷 例 5783：Summer CCD Urban Lifestyle Portrait
+
+![Summer CCD Urban Lifestyle Portrait](../images/Summer%20CCD%20Urban%20Lifestyle%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+摄影风格：日间清亮高光CCD生活照风 写真方向：甜系都市生活照 场景方向：{argument name="场景" default="冰淇淋店外立面 / 浅色门头 / 干净玻璃橱窗前"} 服装方向：{argument name="服装" default="蜜桃橙色修身Polo领短袖上衣 + 白色高腰A字短裙"} 气质标签：清纯、甜美、明亮、自然、亲近 五官方向：邻家清秀脸 身形方向：轻盈纤细 线条强调：中偏强 镜头方向：半身到大腿 姿态动作：站在店门口，一只手拿冰淇淋，身体轻微侧身看镜头 光线氛围：晴天高亮自然光主导，橱窗和浅色门头形成清亮反射光，极弱柔闪轻微提亮面部阴影并补充眼神光 滤镜效果：高亮清晰暖白CCD色彩 + 干净高光 + 明亮清楚中间调 + 轻颗粒 + 极轻数码噪点 + 轻微锐度 画幅比例：9:16 补充要求：重点是亮、甜、清晰、干净，不要灰蒙；上衣贴身利落，胸线自然明显，整体像夏日街头高传播感生活照
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2086385759863410734) | 2026-08-09
+
+---
+

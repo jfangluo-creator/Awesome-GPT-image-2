@@ -25499,3 +25499,59 @@ Create a gritty high-fashion menswear campaign poster for {argument name="brand 
 
 ---
 
+### 🎴 例 5764：Geometric Milestone Celebration Poster
+
+![Geometric Milestone Celebration Poster](../images/Geometric%20Milestone%20Celebration%20Poster.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题内容" default="任意具体主题内容"}建立具有纪念仪式感的几何海报：以强中轴组织阅读，让画面约一半保持明亮、松弛的浅色留白，{argument name="标题" default="主题标题"}悬置其间；将{argument name="简短符号" default="主题最具识别度的简短符号"}放大为压倒性的几何粗体视觉锚点，使它从留白区向下跨入一座由多个水平色块搭成的透视纪念台，纪念台由靠近视觉中心的窄顶向下逐级扩展并延伸出边界，形成仰望式尺度、稳定重心与由上至下的仪式性阅读路径。巨大符号与台体共享色彩和垂直轴线，既像文字又像建筑，二者不可分离；台体用明暗相邻的宽条模块分层，每层边缘清晰，局部以柔和暗带压住接缝，保持平面矢量的简练，同时产生克制的台阶深度。标题采用端正、低笔画反差的中文无衬线字，字重中等偏粗、字距舒展；副标题更细、更小、明显加宽字距并分行居中；巨大符号使用厚重几何骨架、方整端部与紧凑内部空间，成为远距离第一读。台体中段嵌入由主题提炼的极简浅色剪影徽记，其下排列纤细日期或编号，再以两行疏朗短句形成节奏停顿；角落与底缘只保留低对比的小型署名信息，使外围信息服从中央纪念结构。由主题语义决定全部具体色相，不预设固定色名：最亮、最低饱和的主题浅色承担大面积背景，较深且高饱和的主题核心色承担巨大符号与纪念台，核心色在暗顶、稳定中间调和更明亮前景之间作同色系层级递进；文字使用核心色的深色版本或背景浅色反白，小面积高明度近似色圆形点缀悬于台体边缘，另一枚更大、更淡的圆形光斑从留白边缘被裁切，以不超过少量面积的柔和暖差平衡硬朗几何。背景呈高明度漫射光与细密纸纤维触感，浅色区域铺均匀微粒，在留白边缘和色块交界叠加轻薄喷点云雾；印刷色块保留轻微吸墨与透明叠色，轮廓仍平整清楚，不形成污渍或强烈破损。前景可让主题派生的简化徽记以低透明度、大尺度、局部裁切的方式沉入台体，像透过彩色薄层隐约显现，增强纵深却不争夺巨大符号。最终保持浅色留白、巨大符号、透视台体约为半数、近半数与极少点缀的面积秩序，整体明亮温和而庄重；若巨大符号与台体分家、外围信息变重、纹理覆盖轮廓或装饰增多，都会破坏这份纪念碑式凝聚力。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086450233765175399) | 2026-08-09
+
+---
+
+### 🎴 例 5794：Grok Imagine Image 2.0 Launch Banner
+
+![Grok Imagine Image 2.0 Launch Banner](../images/Grok%20Imagine%20Image%202.0%20Launch%20Banner.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic dark tech launch banner for {argument name="product name" default="Grok Imagine Image 2.0"}, showing an advanced AI image editing workflow on a large futuristic display.
+
+Canvas: Wide 16:9 horizontal composition, glossy black studio environment, high contrast, premium product-announcement style. Use a deep charcoal background with subtle blue and magenta rim lighting, reflections on a polished desk surface, and a soft neon glow around interface elements.
+
+Layout: Place a large bold white headline centered at the top reading “{argument name="product name" default="Grok Imagine Image 2.0"}”. Below it, create one continuous widescreen glass UI display divided into exactly 3 vertical sections by thin glowing separators: cyan separator between the left and center sections, magenta separator between the center and right sections.
+
+Left section: Show local image editing. Include exactly 3 stacked reference thumbnails on the far left: 1) sunlit mountain peak, 2) dramatic clouds, 3) gray rock texture. To the right of these thumbnails, show a large mountain image with a dashed rectangular selection box, white corner/edge handles, and a glowing blue circular edit target over the mountain. Add a cyan arrow pointing from the cloud thumbnail area toward the mountain, implying guided editing.
+
+Center section: Show multi-image reference generation. Use a large realistic image of a modern glass house on a rocky coastal landscape at dusk, with a pool reflection in the foreground. Above it, include exactly 3 small rounded reference cards: 1) modern house exterior, 2) lone windswept tree on rocks, 3) pink-purple sunset sky over water. Connect the first card with a cyan dashed curved line ending in a glowing cyan dot, connect the second card with a vertical dotted line, and connect the third card with a magenta dashed curved line ending in a glowing magenta dot.
+
+Right section: Show intelligent resizing or outpainting. Include a sunset seascape image on the left side of the panel, a vertical boundary line at its right edge, and a larger dashed rectangular extension area to the right with a faint grid overlay. Add a white arrow pointing right across the extension area to indicate expansion. The right side should fade into a magenta glow.
+
+Foreground objects: On the desk below the display, include exactly 4 objects: 1) a small black cylindrical control puck with a cyan light ring on the left, 2) a slim dark drawing tablet centered with a soft blue rim glow, 3) a black stylus lying diagonally on the tablet, 4) two matte geometric props on the right consisting of one cube and one sphere.
+
+Visual style: Ultra-polished 3D render mixed with realistic UI mockup, dramatic cinematic lighting, glass panels, crisp rounded thumbnails, subtle grid textures, neon cyan and magenta accents, shallow reflections, high-resolution product keynote aesthetic. Keep the typography clean, bold, and sans-serif. No extra logos, watermarks, people, or additional text.
+```
+
+**来源：** [@Wei佳](https://x.com/LiuweijiaVip/status/2086341345854238824) | 2026-08-09
+
+---
+
+### 🎴 例 5800：Premium Food Advertising Campaign Scenes
+
+![Premium Food Advertising Campaign Scenes](../images/Premium%20Food%20Advertising%20Campaign%20Scenes.jpg)
+
+**Prompt:**
+
+```text
+Create two premium food advertising scenes in one cohesive campaign style. Scene 1: a {argument name="subject description" default="beautiful young woman in a white outfit"} beside a giant {argument name="food item one" default="chocolate ice cream cone topped with chocolate drizzle and almonds"}, with a rich brown background. Scene 2: the same woman in white beside an oversized bucket of {argument name="food item two" default="golden crispy fried chicken"}, with a vibrant orange background. Cinematic lighting, realistic food textures, glossy reflections, stylish commercial photography, high-end advertising aesthetic, vertical 4:5.
+```
+
+**来源：** [@Romana](https://x.com/Romi2656/status/2086327960139690460) | 2026-08-09
+
+---
+

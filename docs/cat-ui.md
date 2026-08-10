@@ -11545,3 +11545,180 @@ Constraints: Use exactly 5 panels, exactly 3 visible characters in panel 2, pres
 
 ---
 
+### 🖥️ 例 5760：Chaotic Shibuya Scramble Crossing
+
+![Chaotic Shibuya Scramble Crossing](../images/Chaotic%20Shibuya%20Scramble%20Crossing.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create an ultra-dense, chaotic photorealistic wide-angle street scene at a huge Japanese scramble crossing, like Shibuya in Tokyo, packed with absurd events happening simultaneously. The image should feel like a single candid news photograph with extreme information density, realistic lighting, and many tiny details.
+
+Canvas: Wide horizontal 16:9 image, street-level perspective, slightly fisheye wide-angle lens, daytime under a bright blue sky. Dense city buildings, billboards, traffic lights, crosswalk stripes, signs, and crowds fill the background. Add a small white “GPT” watermark in the bottom-right corner.
+
+Setting and background: Use {argument name="location" default="a busy Shibuya-style Tokyo scramble crossing"}. Surround the crossing with mid-rise commercial buildings, digital billboards, rooftop spectators, traffic signals, and urban signage. In the sky include exactly 8 aerial features: 1 heart-shaped skywriting trail, 1 blimp, 1 small helicopter, 1 airplane, 1 drone, 1 flock of tiny birds, 1 lightning bolt striking from clouds on the right, and 1 large cluster of colorful balloons in the upper-right corner. On one tall glass building, make lit windows form a large smiling face.
+
+Main crowd and vehicles: Fill the intersection with a dense crowd of pedestrians and performers. Include exactly 5 main vehicles: 1 elaborately decorated neon parade truck with a dragon on top, 1 colorful graffiti-covered sports car, 1 green taxi, 1 small bus or van, and 1 silver fish-shaped parade float or vehicle at the far right. Add photographers and camera operators on the right edge documenting the chaos.
+
+Foreground incidents and objects: Show exactly 12 prominent foreground details: 1 large taiko drum player on the far left, 1 seated guitarist near the drum, 1 transparent phone-booth-like glass box packed with people, 1 businessman dropping loose papers, 1 man in a black suit fallen beside a bicycle, 1 construction worker emerging from a round manhole, 1 overturned birdcage with green contents, 1 scattered group of pigeons, 1 row of ducklings crossing the road, 1 tan Shiba Inu dog on a leash, 1 large black crow in the lower-right foreground, and 1 man spilling noodles or creamy food from a bowl on the far right.
+
+Costumed characters and performers: Include exactly 7 standout characters among the crowd: 1 Santa Claus, 1 panda mascot, 1 bride in a white wedding dress running through the crossing, 1 brown dinosaur mascot, 1 red superhero or sentai character, 1 schoolgirl in uniform, and 1 police officer trying to manage the scene.
+
+Additional surreal details: Add exactly 7 extra chaotic props or actions: 1 giant soap bubble floating on the left, 1 shopping cart abandoned in the middle road, 1 microphone stand and speakers for street performance, 1 traffic cone near the vehicles, 1 airborne suitcase or box on the right, 1 small animal or mascot peeking from a vehicle roof, and scattered toilet paper rolls, apples, bottles, and debris across the crosswalk.
+
+Visual style: Photorealistic, high-resolution documentary photography, crisp detail everywhere, natural shadows, realistic Japanese city atmosphere, no anime styling. Use {argument name="time of day" default="bright afternoon"}, {argument name="weather mood" default="sunny blue sky with dramatic lightning"}, {argument name="crowd density" default="extremely crowded"}, and {argument name="chaos level" default="maximum but still readable"}. Keep the composition balanced so every counted object is visible.
+```
+
+**来源：** [@月真猫-tsukimao-](https://x.com/Atg_Tsukimao/status/2086453363252834317) | 2026-08-09
+
+---
+
+### 🖥️ 例 5784：Miniature Suitcase Travel Poster
+
+![Miniature Suitcase Travel Poster](../images/Miniature%20Suitcase%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 4:5 vertical travel poster for {argument name="destination" default="Paris, France"}, designed as a highly detailed miniature 3D paper-cut city emerging from an open vintage travel suitcase.
+
+The entire destination exists inside the suitcase as a handcrafted miniature world. Build the scene using layered cardstock, precision paper cutouts, folded paper, embossed paper, paper sculpture, and delicate handcrafted miniature elements. Every architectural feature should feel physically constructed from paper, with visible paper fibers, subtle folds, cut edges, layered depth, realistic miniature shadows, and tactile handcrafted details.
+
+CITY-SPECIFIC CONTENT:
+Populate the miniature world with the most recognizable landmarks, architecture, skyline elements, traditional buildings, streets, bridges, monuments, natural scenery, local transportation, vegetation, cultural details, and distinctive geographic features of {argument name="destination" default="Paris, France"}. Prioritize accurate and recognizable landmarks rather than generic buildings.
+
+Create a strong sense of depth:
+
+foreground: miniature streets, trees, people, vehicles and local details
+middle ground: major landmarks and architectural highlights
+background: skyline, mountains, coastline or other defining landscape
+far background: layered paper sky, clouds, sun/moon and subtle atmospheric elements
+
+Add one {argument name="creative metaphor" default="giant paper airplane"} unique to the destination, such as a giant paper airplane, floating postcard, passport stamp, luggage tag, map fragment, folded paper sun, flying birds, postage stamps, or another clever element that naturally interacts with the miniature city.
+
+The suitcase should be an elegant vintage leather travel suitcase, open toward the viewer, with realistic leather texture, brass hardware, buckles, handles and subtle age marks. The miniature city should appear physically built inside it rather than digitally pasted onto it.
+
+Surround the suitcase with a few tasteful travel ephemera elements such as a vintage map, postcard, passport, ticket, city guide, or luggage tag, carefully arranged without making the composition cluttered.
+
+Above the suitcase, include elegant editorial typography:
+
+[CITY NAME]
+[COUNTRY]
+
+Typography should be minimal, sophisticated, spacious and inspired by classic mid-century travel posters, with clean geometric lettering and restrained vintage colors.
+
+VISUAL STYLE: premium handcrafted papercraft, miniature architectural diorama, vintage travel poster, sophisticated editorial illustration, tactile paper textures, layered cardstock, realistic paper shadows, precision cutting, subtle embossing, delicate imperfections, nostalgic travel aesthetic, museum-quality craftsmanship, cinematic studio lighting, soft ambient shadows, refined composition, elegant negative space.
+
+COLOR PALETTE: muted destination-inspired colors, warm ivory background, sophisticated navy/blue, earthy neutrals, subtle terracotta or muted accent color
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2086377637711434188) | 2026-08-09
+
+---
+
+### 🖥️ 例 5795：Consistent Character Image Editing Banner
+
+![Consistent Character Image Editing Banner](../images/Consistent%20Character%20Image%20Editing%20Banner.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic wide banner image demonstrating AI image editing and consistent character generation. The scene is a moody urban street at dusk in a dense old city, with tall buildings on both sides, wet pavement, parked and moving cars, soft streetlights, and a dark vignette. Show exactly three visual zones across one continuous composition: on the left, a dim empty city street with no main person, desaturated and slightly blurred; in the center, a sharp square inset framed by a thin white border containing a realistic portrait of the same woman standing on a city street; on the right, the same woman appears again full-body in a different but matching street setting, holding a takeaway coffee cup. The woman is {argument name="character name" default="an unnamed stylish woman in her early 30s"}: shoulder-length wavy dark brown hair, medium-light skin, natural makeup, calm confident expression, looking slightly to her left, wearing a long dark charcoal overcoat, gray knit sweater, black high-waisted trousers, and a small black shoulder bag. Make the center inset look like the original generated square image, while the left and right sides look like outpainted extensions and a variation of the same character and style. Use photorealistic editorial photography, shallow depth of field, soft evening light, warm lamps on the right contrasting with cool blue-gray shadows on the left, high dynamic range, cinematic color grading, realistic reflections on wet cobblestones and asphalt. No text, no logos, no UI controls, no watermark.
+```
+
+**来源：** [@Gurken-Rick](https://x.com/GurkenRickDE/status/2086340330471686446) | 2026-08-09
+
+---
+
+### 🖥️ 例 5814：Minimalist Street Doodle Illustration
+
+![Minimalist Street Doodle Illustration](../images/Minimalist%20Street%20Doodle%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Transform the reference image into a {argument name="illustration style" default="charming minimalist doodle illustration"} while keeping the original white-grounded background and the complete street environment recognizable. Preserve the original subject, pose, outfit, handbag, red taxis, buildings, road, and overall composition, but simplify everything into cute, playful, childlike forms. Use {argument name="pen type" default="loose brush-pen"} outlines with naturally uneven, slightly wobbly hand-drawn strokes and tiny imperfections. Keep the white/light background visible around the illustrated elements, with the city scene softly simplified rather than removed. Add subtle watercolor-ink textures, {argument name="accent type" default="minimal pastel washes"}, expressive cartoon-like features, and a clean sketchbook aesthetic. The final artwork should feel airy, adorable, whimsical, handmade, and effortlessly hand-sketched while still retaining the recognizable original setting.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2086297043279258079) | 2026-08-09
+
+---
+
+### 🖥️ 例 5818：Whimsical Parisian Storybook Collage
+
+![Whimsical Parisian Storybook Collage](../images/Whimsical%20Parisian%20Storybook%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Create a whimsical 3×3 nine-panel fashion editorial collage featuring the woman from the uploaded reference photo. Preserve her facial identity, facial features, skin tone, hairstyle, and natural appearance consistently across all nine panels.
+
+Each panel shows the same woman in a charming, hand-drawn {argument name="location" default="Parisian"} storybook world, combining realistic photography of the woman with colorful watercolor, colored-pencil, and ink illustration backgrounds. The overall aesthetic is elegant, vintage, playful, artistic, and fashion-forward, with soft paper texture and delicate hand-drawn details.
+
+Panel 1: The woman standing outside a beautiful {argument name="setting 1" default="French patisserie"} filled with colorful macarons, pastries, croissants, and cakes. She wears a mint-green vintage dress with a red neck scarf and carries a dark green handbag.
+
+Panel 2: The woman standing beside a whimsical carousel with colorful illustrated horses. She wears a lavender-purple dress, white knee-high socks, yellow shoes, and carries a pink handbag.
+
+Panel 3: The woman standing beneath an elegant Art Nouveau Parisian entrance decorated with green botanical details. She wears a sophisticated royal-blue belted coat over white pants, red heels, and carries a dark green handbag.
+
+Panel 4: The woman browsing an outdoor Parisian bookstall beside the Seine. She wears a bright pink sleeveless dress, blue heels, and carries a structured blue handbag while holding an open book.
+
+Panel 5: The woman standing inside a grand cathedral-like setting beneath a colorful circular stained-glass rose window. She wears an elegant sleeveless red dress with yellow shoes and holds a blue handbag. Warm candlelight surrounds her.
+
+Panel 6: The woman sitting at a charming Parisian café with the Eiffel Tower illustrated in the background. She wears a bright yellow dress with a green scarf and has a pink handbag beside her. Add a small café table with coffee and pastries.
+
+Panel 7: The woman walking through a rainy Paris street beneath a large colorful rainbow umbrella. She wears a yellow raincoat, white pants, blue rain boots, and carries a dark green handbag. Add puddles, raindrops, and small illustrated birds.
+
+Panel 8: The woman standing gracefully against a dreamy swirling night-sky background filled with stars and a crescent moon. She wears a white blouse with a yellow neck scarf, a voluminous royal-blue skirt, and carries a blue handbag.
+
+Panel 9: The woman standing on the steps of Montmartre with the Sacré-Cœur Basilica in the illustrated background. She wears a bright red blouse, royal-blue skirt, yellow shoes, and carries a yellow handbag. Add flowers, an artist painting nearby, and charming Parisian details.
+
+Style: sophisticated vintage fashion magazine meets whimsical French children's storybook, hand-drawn watercolor and colored-pencil illustration, realistic woman integrated naturally into illustrated environments, delicate ink outlines, pastel yet vibrant colors, soft natural
+```
+
+**来源：** [@Zarnab Ai](https://x.com/Zarnab_with_Ai/status/2086282769676808677) | 2026-08-09
+
+---
+
+### 🖥️ 例 5836：Top-Down Apple Counting Desk Scene
+
+![Top-Down Apple Counting Desk Scene](../images/Top-Down%20Apple%20Counting%20Desk%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a square 1:1 photorealistic top-down tabletop scene on a pale gray wood-grain desk. Arrange exactly {argument name="apple count" default="7"} glossy red apples in two neat rows: exactly 4 apples in the upper row and exactly 3 apples in the lower row, evenly spaced, with realistic stems, yellow-red striping, soft shadows, and no extra apples. Place one blue hardcover book partially visible in the upper-left corner, angled slightly, with the spine facing inward and the Chinese title text {argument name="book spine text" default="算法导论"} printed in white on the spine. Place exactly one black fountain pen horizontally in the exact center of the composition between the two apple rows, with gold trim and the metal nib pointing to the right. Place exactly one transparent cylindrical glass in the lower-right corner, filled halfway with clear water, showing refraction, rim highlights, and a soft shadow. Use clean natural studio lighting, realistic scale, crisp focus, overhead perspective, balanced negative space, and strict object placement. Do not add any other objects, hands, labels, plates, leaves, or decorations.
+```
+
+**来源：** [@码农暖爸](https://x.com/Delroy715/status/2086255965557703063) | 2026-08-09
+
+---
+
+### 🖥️ 例 5837：Chinese Home Compute Buying Guide
+
+![Chinese Home Compute Buying Guide](../images/Chinese%20Home%20Compute%20Buying%20Guide.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a vertical Chinese product comparison infographic on a white background with a clean flat-design style. The main title at the top is {argument name="headline text" default="2026 家庭算力采购指南"}, in large bold black Chinese type, centered.
+
+Canvas: Portrait 2:3 aspect ratio, approximately 768×1152 px. Use generous white margins, crisp vector lines, and a balanced grid layout.
+
+Layout: Place exactly 4 tall rounded-rectangle comparison cards in one horizontal row beneath the title. Each card has a colored header bar, a matching thin border, a simple line icon near the top, then five stacked information sections separated by pale gray horizontal divider lines. Use neat left-aligned Chinese text inside each card.
+
+Cards, colors, icons, and text content:
+1. Blue card header: “Mac mini M4”. Icon: simple blue outline Mac mini with Apple logo and two small front dots. Sections: “型号:” / “M4 10核 CPU / 10核 GPU”; “参考价 (¥):” / “4,499 起”; “功耗 (W):” / “约 65”; “适合人群:” / “开发、轻量 AI、家庭服务器”; “一句话缺点:” / “内存与硬盘升级成本高”.
+2. Green card header: “RTX 5090 主机”. Icon: green outline desktop tower with four fan circles and side panel. Sections: “型号:” / “RTX 5090 32GB”; “参考价 (¥):” / “30,000 起”; “功耗 (W):” / “约 800–1,000”; “适合人群:” / “本地大模型、渲染、重度创作”; “一句话缺点:” / “价格高，耗电与散热压力大”.
+3. Purple card header: “云 GPU 包月”. Icon: purple outline cloud containing a server rack. Sections: “型号:” / “按需选择 GPU”; “参考价 (¥):” / “1,000–8,000 / 月”; “功耗 (W):” / “本地几乎为 0”; “适合人群:” / “短期项目、弹性需求、团队协作”; “一句话缺点:” / “长期使用成本不可控”.
+4. Orange card header: “二手矿卡”. Icon: orange outline dual-fan graphics card. Sections: “型号:” / “RTX 3090 等”; “参考价 (¥):” / “3,500–6,000”; “功耗 (W):” / “约 350–500”; “适合人群:” / “预算有限、愿意折腾的玩家”; “一句话缺点:” / “寿命、保修与稳定性风险高”.
+
+Footer: Center a small gray footnote along the bottom: “数据仅供参考 · 更新于 2026-08-08 · 非投资建议”.
+
+Visual style: Minimal flat infographic, Chinese sans-serif font, high readability, accurate alignment, consistent spacing, no shadows, no photos, no decorative background. Ensure all Chinese text is sharp and legible, with the section labels colored to match each card’s header.
+```
+
+**来源：** [@码农暖爸](https://x.com/Delroy715/status/2086255952832118875) | 2026-08-09
+
+---
+

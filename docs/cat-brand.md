@@ -14311,3 +14311,510 @@ A hyperrealistic portrait of the model. Dramatic chiaroscuro studio lighting wit
 
 ---
 
+### 🏷️ 例 5744：Midnight Manhattan Supercar Portrait
+
+![Midnight Manhattan Supercar Portrait](../images/Midnight%20Manhattan%20Supercar%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic cinematic 9:16 portrait set on a rain-soaked Manhattan avenue at night.
+
+A stunning, elegant woman in a {argument name="outfit" default="flowing black evening gown"} walks confidently toward the camera, her long dark hair and dress moving naturally in the wind. She holds a luxury car key casually in one hand.
+
+Behind her, position a {argument name="car model" default="sleek matte-black Lamborghini supercar"} facing the camera, its sharp LED headlights glowing through light mist.
+
+Surround the scene with towering New York skyscrapers, illuminated billboards, yellow taxis, distant traffic lights, pedestrians softly blurred in the background, rising street steam, subtle falling rain, and dramatic reflections across the wet asphalt.
+
+Use a low cinematic camera angle so the woman dominates the foreground while the Lamborghini remains clearly visible behind her.
+
+Luxury fashion editorial meets neo-noir blockbuster movie scene. Photorealistic skin, realistic fabric textures, dramatic depth of field, volumetric lighting, glossy rain reflections, rich blacks, warm city lights, subtle cool highlights, atmospheric mist, premium cinematic color grading, extremely detailed, sophisticated and visually striking.
+
+Make the frame feel like a frozen moment from a high-budget luxury film rather than a posed car photoshoot.
+
+No text, no watermark, no added graphics, no collage.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2086596397768626588) | 2026-08-09
+
+---
+
+### 🏷️ 例 5745：Alien Warlord Character Design Sheet
+
+![Alien Warlord Character Design Sheet](../images/Alien%20Warlord%20Character%20Design%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic character design sheet for one single {argument name="character" default="alien male character"}.
+
+Show the same character consistently in:
+front view, left side view, right three quarter view, rear view, face close-up, full-body neutral stance, combat stance, angry expression, smug expression, confused comedic expression.
+The character is a gigantic obese humanoid alien male, approximately seven feet tall, with an enormous rounded belly, thick chest, powerful arms, broad shoulders, thick legs, and very heavy physical weight.
+
+His skin is {argument name="skin color" default="pale turquoise"} with subtle mottling and slightly rough alien texture. His head is large and heavy with a thick jaw, broad cheeks, very small intimidating eyes, a flattened alien nose, deep facial folds, and a smug heavy-lidded expression. No human facial hair.
+
+His armor combines intimidating sci-fi warlord design with extravagant gangster luxury: dark graphite and gunmetal armored shoulder pieces, reinforced chest harness that leaves the large belly shape clearly readable, metallic waist plating, oversized lunar boots, gold rings, heavy chains, floating ornamental belt elements, and a few {argument name="energy color" default="glowing violet"} time-control devices embedded into his armor.
+
+His silhouette must remain unmistakably huge and top-heavy.
+
+Posture: relaxed confidence, belly forward, shoulders slightly back, chin raised. In combat he lowers his center of gravity and uses enormous sweeping arm movements.
+
+Expression range:
+
+arrogant grin
+
+dismissive boredom
+irritated disbelief
+full rage
+shocked comedic reaction
+calculating menace
+Power visual language:
+subtle violet-white temporal energy around his hands, concentric distortion rings, suspended particles, warped light, small clock-like energy geometry without literal clock graphics.
+
+Lighting:
+clean neutral studio-style character lighting with a subtle cool lunar rim light. High detail on face, armor, skin texture, accessories, and silhouette.
+Visual style:
+photoreal cinematic sci-fi character design suitable for premium live-action AI video. Realistic anatomy, believable materials, readable costume construction, no cartoon proportions despite the comedic personality.
+
+Continuity Notes
+Preserve exactly:
+
+same pale turquoise skin tone
+same apparent age
+
+same facial proportions
+
+same tiny eye shape
+
+same enormous belly and heavy body type
+same armor design
+same gold rings and chains
+same floating belt ornaments
+same lunar boots
+same violet temporal-energy design
+His size must remain dramatically larger than the woman in every shared frame.
+Negative Prompt
+No body slimming, no muscular bodybuilder transformation, no different face, no skin-color change, no random horns, no extra arms, no tentacles, no hairstyle, no beard, no armor redesign, no random helmet, no missing jewelry, no wardrobe drift, no duplicated character, no broken anatomy, no cartoon style, no watermark, no text.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2086580029191082048) | 2026-08-09
+
+---
+
+### 🏷️ 例 5749：The Last Train From the Night Café
+
+![The Last Train From the Night Café](../images/The%20Last%20Train%20From%20the%20Night%20Caf%C3%A9.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a single coherent ultra-detailed photorealistic cinematic 16:9 image titled “THE LAST TRAIN FROM THE NIGHT CAFÉ,” set at exactly 21:47 on a rainy autumn night inside an elegant old European station café. The scene must be one continuous view, not a collage, split screen, or triptych.
+
+Canvas and composition: Wide horizontal frame, viewed from just outside or at the open doorway of the café, looking inward and slightly right toward the adjacent train platform. Use deep perspective: wet glass and dark doorframes at the edges, a marble café table in the foreground center-left, warm café interior in the middle ground, and the blue rainy station platform visible through the open doors on the right. The atmosphere is melancholic, literary, and magical-real but still photorealistic.
+
+Setting details: The café is called {argument name="café sign text" default="NACHTCAFÉ – LETZTER ZUG"}, shown on a large glowing cream sign above an ornate mirrored bar. Interior materials are dark polished wood, brass trim, antique mirrors, patterned wall tiles, marble tabletop, bentwood chairs, and glossy wet mosaic floor tiles. Rain streaks cover the windows and door glass, with red and blue city reflections outside. Warm globe pendant lamps hang from the ceiling; include exactly 5 visible round glowing globe lamps: 1 large lamp near the top left-center, 1 large lamp near the top center-right, 2 smaller hanging lamps near the timetable area, and 1 small lamp reflection/glow near the platform side. Add an antique wall clock above the timetable showing about 21:47.
+
+Foreground characters and table: At the marble table sit exactly 2 café customers. Customer 1 is an elderly Black man in a textured brown tweed suit, white shirt, glasses, and gray beard, seated left in profile, writing in a cream notebook with a fountain pen. The notebook has legible handwritten text beginning “The future arrived seven minutes late.” Customer 2 is a pale red-haired woman in a dark emerald velvet coat seated center, gently pouring amber tea from a glass teapot into a white cup while holding a gold pocket watch. Give her a calm, wistful expression. On the table include exactly 6 main tabletop items: 1 open notebook, 1 fountain pen in the man’s hand, 1 glass teapot with amber tea, 2 white cups with saucers, and 1 small metal table-number stand displaying “12.” Under the table place exactly 1 black cat with bright eyes and a small white chest patch. Beside the table lean exactly 1 closed red umbrella with a curved handle.
+
+Background figures and action: Include exactly 2 background human figures. One is a blurred café patron or staff reflection near the mirror/bar at left, partially turned away. The second is a female train conductor standing in the open doorway on the right, wearing a dark navy uniform and peaked cap, holding a ticket or sign. The ticket should read approximately {argument name="conductor ticket text" default="GLEIS 7 - SITZ 12A"}. She stands upright and solemn, framed by the wet station platform beyond.
+
+Visible signage and text: Include exactly 1 main café sign reading {argument name="café sign text" default="NACHTCAFÉ – LETZTER ZUG"}. Include exactly 1 black departure board with 3 route rows: “BERLIN → PRAG 22:15 GLEIS 7,” “WIEN → ZÜRICH 22:40 GLEIS 4,” and “PARIS → BRÜSSEL 23:05 GLEIS 2.” Include exactly 1 tabletop number card reading “12.” Preserve the multilingual European station feel with German words on signage.
+
+Decorative details: Suspend exactly 7 red origami cranes in the upper middle of the café, arranged as if gently drifting from left to right. Behind the bar include a small pastry display with croissants and a vase of autumn flowers. Add brass coffee urns, dark green plants, and delicate reflections in mirrors and wet surfaces.
+
+Lighting and style: Photorealistic, ultra-detailed, cinematic, 35mm lens feel, warm amber interior lighting contrasted with cool blue rainy exterior station light. High dynamic range, realistic reflections, fine raindrops on glass, shallow-to-medium depth of field, crisp foreground details, soft atmospheric background. Autumn night mood, nostalgic European rail travel, magical realism without fantasy creatures beyond the subtle origami cranes and symbolic timing.
+
+Constraints: Must remain one continuous scene. Do not create panels or collage divisions. Keep all people anatomically realistic. Avoid modern digital screens except the vintage-style departure board. No logos, no watermark, no extra readable text beyond the specified signs unless incidental and indistinct.
+```
+
+**来源：** [@Raphi-2Code](https://x.com/R2Cdev_/status/2086509886595076410) | 2026-08-09
+
+---
+
+### 🏷️ 例 5751：Martial Artist Character Design Sheet
+
+![Martial Artist Character Design Sheet](../images/Martial%20Artist%20Character%20Design%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic character bible sheet for a martial artist named {argument name="character name" default="VAN"}. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2086501310044528799) | 2026-08-09
+
+---
+
+### 🏷️ 例 5755：Vintage Mediterranean Travel Poster
+
+![Vintage Mediterranean Travel Poster](../images/Vintage%20Mediterranean%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a single cohesive vintage Mediterranean travel-poster illustration inspired by classic {argument name="decade" default="1950s–60s"} European tourism advertisements. Show a stylish couple traveling together on a {argument name="vehicle" default="charming retro scooter"} along a sun-drenched coastal road, with a small happy dog sitting safely in the scooter’s front basket. The woman wears a flowing floral summer dress, cat-eye sunglasses, and a patterned headscarf; the man wears a relaxed cream short-sleeve shirt, vintage trousers, and dark sunglasses. Surround them with lush Mediterranean vegetation, oversized green fig leaves, blooming flowers, and branches of bright yellow lemons. In the background, reveal a breathtaking turquoise sea, whitewashed hillside villages, terracotta rooftops, distant mountains, sailboats, and a warm coastal landscape. Use a rich vintage palette of {argument name="color palette" default="cobalt blue, turquoise, cream, mustard yellow, terracotta orange, olive green, and warm sun-faded beige"}. Hand-painted gouache and screen-print aesthetic, visible paper texture, subtle ink grain, slightly imperfect registration, painterly brushwork, elegant retro typography integrated naturally into the poster, large travel-destination headline at the top, smaller French/Italian-style travel slogans, decorative borders and graphic accents, balanced editorial composition, nostalgic Riviera/Greek-island vacation mood, sophisticated mid-century graphic design, highly detailed, charming, cinematic, authentic vintage travel poster, vertical 4:5 composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2086489792750170225) | 2026-08-09
+
+---
+
+### 🏷️ 例 5758：Authentic CCTV Surveillance Camera Scene
+
+![Authentic CCTV Surveillance Camera Scene](../images/Authentic%20CCTV%20Surveillance%20Camera%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Upload one reference image before generating.\nTransform the uploaded person into an authentic CCTV surveillance-camera scene while preserving the exact facial identity, hairstyle, facial proportions, skin tone, age appearance, and recognizable features.\n\nFORMAT LOCK\nVertical 3:4 composition, authentic surveillance-camera framing, high-angle security-camera perspective, candid documentary aesthetic.\n\nIDENTITY LOCK\nPreserve the exact face, facial structure, hairstyle, eyebrows, eyes, nose, lips, jawline, skin tone, age appearance, and recognizable identity from the uploaded image, do not redesign or beautify facial features, the final result must immediately resemble the reference person.\n\nSCENE\nThe subject is walking naturally through a {argument name="location" default="Indoor Lobby"}, captured by a fixed security camera, looking upward toward the camera with a bright friendly smile, casually waving one hand, natural candid movement, relaxed confident energy, realistic public-space behavior.\n\nOUTFIT\nModern casual outfit, contemporary streetwear styling, natural everyday appearance, realistic clothing folds and movement.\n\nCAMERA SYSTEM\n{argument name="camera angle" default="Ceiling Corner"} surveillance-camera position, slightly distorted wide-angle lens, elevated viewing angle, authentic CCTV perspective, imperfect framing, documentary-style capture.\n\nFOOTAGE EFFECTS\n{argument name="footage style" default="Monochrome"} or softly desaturated color palette, low-resolution surveillance quality, subtle scan lines, digital noise, compression artifacts, motion blur, grain texture, uneven exposure, harsh security-light shadows, realistic DVR-camera imperfections.\n\nSURVEILLANCE OVERLAY\n{argument name="timestamp style" default="Security DVR"} timestamp overlay, subtle camera identification numbers, minimal recording indicators, realistic security-footage graphics, authentic monitoring-system appearance.\n\nLIGHTING\nUneven indoor lighting, realistic public-space illumination, security-camera exposure, harsh highlights, deep shadows, naturally imperfect image quality.\n\nSTYLE\nAuthentic CCTV footage, surveillance-camera realism, documentary photography, candid public-space recording, unpolished security-camera aesthetic.\n\nOUTPUT STYLE\nRealistic surveillance footage, authentic CCTV recording, security-camera documentary look, grainy monitoring-system capture, ultra-believable public-space footage, high-detail realism.\n\nNEGATIVE PROMPT\nProfessional photography, studio lighting, cinematic grading, fashion shoot, HDR effects, beauty filters, sharp editorial quality, anime, cartoon style, CGI appearance, unrealistic surveillance graphics, watermark, text errors, distorted anatomy.
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2086474675794636910) | 2026-08-09
+
+---
+
+### 🏷️ 例 5761：Weather Vending Machine Comparison
+
+![Weather Vending Machine Comparison](../images/Weather%20Vending%20Machine%20Comparison.jpg)
+
+**Prompt:**
+
+```text
+Create a split-screen comparison image showing two premium cinematic advertising photographs side by side, separated by a thin vertical white divider. The scene is a vast red desert at dusk with dramatic storm clouds, orange sunset glow on the horizon, distant mesas and rock spires, and wet reflective patches on the desert floor. In both panels, place a colossal dark metallic vending machine standing alone, labeled at the top with glowing warm-white text: “CHOOSE YOUR WEATHER”. The machine sells weather instead of snacks, with exactly five large glass display shelves containing: 1) a miniature thunderstorm with dark clouds and lightning, 2) a swirling blizzard over snowy mountains, 3) a glowing sunset sky, 4) a tornado over dusty plains, and 5) green-purple aurora lights over a night landscape. Include a woman in a long cobalt-blue coat and black boots standing beside the vending machine, seen from behind or side-back, reaching toward the selection buttons. The vending machine has a side payment/control panel with small glowing code buttons, a digital price display reading “SKY: $2.00”, and a collection slot. Add black rectangular title tags at the top of each panel: left tag reads {argument name="left model label" default="MONA-LISA-1"}, right tag reads {argument name="right model label" default="GPT IMAGE 2"}. Make the left panel slightly closer and more imposing, with readable small shelf labels such as A01 THUNDERSTORM, B07 BLIZZARD, C03 SUNSET, D09 TORNADO, and E05 AURORA; make the right panel a cleaner vertical machine design with the same five weather windows. Use ultra-realistic photography, cinematic lighting, high contrast, glossy glass reflections, moody atmosphere, premium sci-fi advertising style, sharp detail, 16:9 landscape composition, no extra text beyond the vending machine signage, shelf labels, price display, and model tags.
+```
+
+**来源：** [@Ivana](https://x.com/ivanainai/status/2086453053243203893) | 2026-08-09
+
+---
+
+### 🏷️ 例 5762：Realistic Girl Shower Snapshot
+
+![Realistic Girl Shower Snapshot](../images/Realistic%20Girl%20Shower%20Snapshot.jpg)
+
+**Prompt:**
+
+```text
+采用超高清的视觉效果，以写实的风格来展现画面。画面中的主体是一位甜美的少女，纯素颜，她留着{argument name="发型" default="湿掉的棕色微乱的长发"}，身穿{argument name="服装" default="黑色上衣"}。少女的脸上和双手都满是{argument name="装饰" default="白色泡沫"}，一手举至眼前，一手置于身前，动作活泼。背景是浴室的场景，画面模拟了用平庸iPhone拍摄的视角，带有动态模糊，角度尴尬，构图拙劣，如同快照一般。还带有清透柔焦的滤镜效果，少女单眼微眨，嘴角轻扬，表情俏皮，整体营造出清新灵动的氛围感，真实鲜活的画面质感，传递出清爽愉悦的情绪。比例 9:16。比例 9:16。
+```
+
+**来源：** [@Adam也叫吉米](https://x.com/Adam38363368936/status/2086452598144393270) | 2026-08-09
+
+---
+
+### 🏷️ 例 5763：Minimalist Ceremonial Poster Layout
+
+![Minimalist Ceremonial Poster Layout](../images/Minimalist%20Ceremonial%20Poster%20Layout.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题内容" default="具体主题内容"}生成一张克制而有仪式感的宣告式视觉：画面以大面积明亮、清透、干净的空白场承载信息，背景带极淡的流动纹理和轻微纸面光感，只作为空气感与层次，不形成装饰噪音；视觉第一眼由上方居中的大号高反差衬线标题建立{argument name="标题" default="庄重焦点"}，标题可与主题派生的中文信息形成紧密叠压，字距收紧、行距克制，像正式邀请或重要公告一样清晰落下。中段放置一个边界干净的主影像场，主题核心对象、关系或动作以近距离、低饱和、轻微动态模糊的影像方式出现，保留朦胧亲密感与瞬间记忆感；一行超大衬线文字压在影像底部边缘，被影像裁切或遮挡一部分，形成文字与图像互相嵌入的重量，而不是普通图文分区。下方信息按轴线居中分层：小标题、主体名称、日期数字、简短说明与地点信息逐级缩小，留出明显呼吸间距，形成从宣告、见证、时间到地点的阅读节奏。色彩从主题自身的材质、情绪和文化信号中提取，保留大面积高明度洁净底色、少量低饱和影像色、清晰深色信息文字和{argument name="强调色" default="极少量主题强调色"}的角色关系，使整体保持清透安静、庄重亲近；深色只用于结构和阅读重量，纹理与阴影保持透明、轻、净，避免浑浊、做旧、烟熏或灰黄脏感。整体完成度应像一张高级印刷邀请视觉，留白精确，文字有节拍，影像带记忆性，核心亮点是中央模糊影像与巨大文字在边缘处的压叠融合。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086451097238175934) | 2026-08-09
+
+---
+
+### 🏷️ 例 5779：Fashion Portrait with Labubu Character
+
+![Fashion Portrait with Labubu Character](../images/Fashion%20Portrait%20with%20Labubu%20Character.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic full-body studio fashion portrait on a seamless vivid {argument name="background color" default="orange"} backdrop. Show exactly 2 subjects: 1 young {argument name="person ethnicity" default="South Asian"} woman and 1 oversized cute 3D furry bunny-like collectible character standing side by side. The woman is tall and slim with {argument name="hair style" default="long dark brown hair, half-up with loose straight lengths"}, natural makeup, a calm confident expression, facing the camera; she leans one elbow casually on the character’s head, keeps her other hand in her trouser pocket, and crosses one leg slightly in a relaxed fashion pose. Her outfit has exactly 5 visible pieces: an oversized black T-shirt, loose charcoal-gray wide-leg pleated trousers, black-and-white low-top sneakers, a thin silver pendant necklace, and a wristwatch. The collectible character is about waist height beside her, with a fluffy brown faux-fur bunny hood and body, two tall rounded bunny ears with peach inner ears, a peach-orange face, huge glossy black-and-white eyes looking slightly sideways, a tiny orange nose, and a wide mischievous grin with small triangular white teeth. Dress the character in dark brown short overalls with two round buttons and a front chest patch reading {argument name="character label" default="LABUBU"}. Use soft even studio lighting, crisp high-fashion editorial realism, subtle floor shadow, detailed fur texture, realistic fabric folds, centered composition, full body visible from head to shoes, no extra props, no watermark.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2086407474761072734) | 2026-08-09
+
+---
+
+### 🏷️ 例 5789：Celestial Bride on Starlit Beach
+
+![Celestial Bride on Starlit Beach](../images/Celestial%20Bride%20on%20Starlit%20Beach.jpg)
+
+**Prompt:**
+
+```text
+Create a luminous fantasy seascape illustration in a dreamy anime-inspired painterly style. Use a vertical {argument name="aspect ratio" default="2:3"} canvas showing a vast turquoise ocean on the left and a bright white sandy beach on the right, with the shoreline curving diagonally into the distance. A solitary {argument name="character" default="young woman with very long white hair"} stands near the waterline in the lower-right third, seen mostly from behind in dark silhouette against the glare, wearing a flowing {argument name="dress color and style" default="white bridal gown with a long translucent train"} that trails across the glowing sand and ripples in the sea breeze. Above her, create an enormous celestial sky: deep sapphire at the top fading to cyan near the horizon, filled with countless stars, a soft Milky Way band, and one bright crescent moon in the upper-left. Add towering white cumulus clouds on both sides, textured with thick impasto brushstrokes and cool lavender-blue shadows. The ocean should be crystal clear, sparkling with sunlike reflections and visible shallow-water patterns; include subtle lens flare and rainbow glints near the foreground. Make the scene radiant, ethereal, high detail, wide-angle, serene, romantic, and magical, with no text, no border, and no extra characters. Emphasize the contrast between the starry night sky and the bright daylight-like beach, as if moonlight and starlight are illuminating everything.
+```
+
+**来源：** [@🄺𝕖𝕖𝕡 🅂𝕠𝕣𝕒 🄸𝕟 🄼𝕚𝕟𝕕](https://x.com/KeepSoraInMind/status/2086368660348866819) | 2026-08-09
+
+---
+
+### 🏷️ 例 5792：Spartan Warrior in Coastal Pine Forest
+
+![Spartan Warrior in Coastal Pine Forest](../images/Spartan%20Warrior%20in%20Coastal%20Pine%20Forest.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic photorealistic historical fantasy scene at golden hour: one rugged ancient Spartan or Greek warrior, {argument name="character type" default="Spartan warrior"}, stands in the right foreground on a wooded coastal hillside, shown from the waist up in a dramatic three-quarter view. He has a muscular build, tan weathered skin, dark intense eyes, long dark hair partly hidden under an ornate bronze Corinthian-style helmet, a thick black beard, and a stern battle-worn expression. His armor consists of exactly 4 main visible outfit pieces: a polished but scratched bronze helmet with a tall red horsehair crest, a dark metal cuirass with rivets and blood smears, shoulder armor plates, and a deep burgundy cloak draped over his shoulders. Add dirt, small cuts, sweat, and dried blood on his face and bare arms for realism. The environment contains a coastal pine forest with about 14 tall visible tree trunks rising vertically through the frame, dense green undergrowth, a narrow earth path, and a distant ocean shoreline on the left with soft waves and a hazy headland in the background. The sun is low at the far left, casting warm amber light, long shadows, rim light on the helmet and cloak, and atmospheric haze through the trees. Use {argument name="lighting mood" default="warm sunset backlighting"}, shallow depth of field, high dynamic range, natural film grain, detailed textures, epic historical drama composition, 16:9 widescreen aspect ratio, ultra-realistic, no modern objects, no text except a subtle small watermark-like mark in the lower right if desired.
+```
+
+**来源：** [@Ditesh](https://x.com/ditpoo/status/2086356702316884443) | 2026-08-09
+
+---
+
+### 🏷️ 例 5793：Cartoon Spartan Warrior Bust
+
+![Cartoon Spartan Warrior Bust](../images/Cartoon%20Spartan%20Warrior%20Bust.jpg)
+
+**Prompt:**
+
+```text
+Create a simple single-panel cartoon illustration of a muscular ancient Spartan warrior bust, cropped close from the chest upward, facing three-quarters to the viewer’s right with a stern unimpressed expression. He has a very broad bare torso with exaggerated pectorals, thick shoulders, tan peach skin, a dark full beard, a large nose, and narrowed eyes under a bronze-gray helmet. The helmet has cheek guards and a tall bright {argument name="helmet plume color" default="red"} mohawk plume sweeping upward and backward, outlined with rough black ink strokes. Use a hand-drawn comic style with wobbly black outlines, flat colors, minimal shading, slight paper/grain texture, and intentionally imperfect proportions. Background is a plain textured {argument name="background color" default="sky blue"} field with no objects or scenery. Keep the composition vertical portrait, tight crop, bold graphic silhouette, humorous cartoon mood, no text, no watermark.
+```
+
+**来源：** [@Alban Glazman](https://x.com/alban_gz/status/2086351522665775473) | 2026-08-09
+
+---
+
+### 🏷️ 例 5798：Tiny Traveler Mango Beach Collage
+
+![Tiny Traveler Mango Beach Collage](../images/Tiny%20Traveler%20Mango%20Beach%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a whimsical six-panel surreal photo-real comic collage about a tiny curly-haired traveler and giant mangoes on a tropical beach.
+
+Canvas: Wide 3:2 horizontal image divided into exactly 6 equal rectangular panels in a clean 3-column by 2-row grid, with thin invisible or minimal seams. Bright tropical daylight, turquoise ocean, sandy beach, palm trees, blue sky, warm cinematic color grading, shallow depth of field, glossy high-detail food textures.
+
+Main subject: A small young adult with {argument name="hair style" default="short dark curly hair"}, expressive face, tan/light-brown skin, wearing {argument name="outfit" default="an oversized dark olive-brown jacket, dark shirt, beige pants, and brown shoes"}. Keep the same character consistent in all panels, scaled tiny compared with the giant mango objects.
+
+Panel count and contents: Use exactly 6 distinct scenes.
+1. Top-left: The character laughs joyfully while sitting inside a gigantic sliced mango half filled with cubed mango flesh; thick golden mango juice pours from above and drips over the fruit, glossy and sticky.
+2. Top-middle: A giant whole red-yellow mango is held close to the viewer by a large human hand; the mango is wrapped with coarse rope, and the tiny character pulls the rope with a surprised determined expression on the beach.
+3. Top-right: Close-up of the character sipping from a tall orange-yellow juice carton labeled {argument name="carton text" default="MANGO"} in large red letters, using a pink straw, with palm trees and ocean behind.
+4. Bottom-left: A large human hand reaches in from the upper left and presses a fingertip onto the top of a huge mango that the tiny character hugs affectionately with closed eyes and a content smile.
+5. Bottom-middle: A glossy orange mango gelatin dessert on a white plate sits on the sand; a hand places a green mint leaf garnish on top, while the excited tiny character stands behind it holding a spoon.
+6. Bottom-right: The character rides a giant mango like a rocket through the sky above the beach, pointing forward and smiling; a metallic rocket nozzle is attached to the back of the mango with a bright pink-orange flame trail.
+
+Visual style: Hyper-realistic yet playful miniature scale illusion, crisp commercial photography, saturated mango orange and ocean turquoise palette, soft sunlight, detailed reflections, realistic hands, realistic fruit fibers and syrup, cinematic fantasy advertising aesthetic.
+
+Constraints: No extra panels, no captions except the single carton word, no watermark, no borders or logos, preserve consistent beach environment and character identity across all six panels.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2086331730332696637) | 2026-08-09
+
+---
+
+### 🏷️ 例 5801：Luxury Tropical Villa Fashion Portrait
+
+![Luxury Tropical Villa Fashion Portrait](../images/Luxury%20Tropical%20Villa%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-photorealistic full-body fashion photo of a {argument name="subject" default="stylish young woman"} standing in a {argument name="setting" default="luxury tropical villa beside a swimming pool"}. Long dark hair, black sunglasses, black oversized floral shirt, white cargo jogger pants, silver watch, black-and-white sneakers. Lush palm and monstera plants, modern beige villa, poolside loungers, warm natural daylight, realistic skin and fabric texture, cinematic fashion photography, 9:16 vertical, 8K, natural anatomy.
+```
+
+**来源：** [@ayzalnoor](https://x.com/ayzalnooor24521/status/2086321998746267983) | 2026-08-09
+
+---
+
+### 🏷️ 例 5804：Extreme Sports Fashion Photography
+
+![Extreme Sports Fashion Photography](../images/Extreme%20Sports%20Fashion%20Photography.jpg)
+
+**Prompt:**
+
+```text
+Create two separate photorealistic fashion-adventure images of the same character, {argument name="character name" default="Wareen"}: a young woman with fair skin, natural freckles, expressive brown eyes, and a short {argument name="hair color" default="vibrant purple"} bob haircut with soft bangs.
+
+Wareen wears a {argument name="outfit color" default="pale sage-green"} full-body skydiving/flight suit with a high collar and zipper, small red and black embroidered patches on both sleeves, a heavy black-and-brown skydiving harness, dark-framed clear glasses, and light-colored sneakers.
+
+She is flying high above a breathtaking alpine landscape with snow-capped mountain peaks, green valleys, and a large turquoise-blue lake beneath a clear bright blue sky with thin wispy clouds. A large inflated ram-air parachute in orange, red, and yellow is visible above her, connected by thin suspension lines.
+
+IMAGE 1: Dynamic medium full-body frontal view, Wareen flying toward the camera with both arms stretched wide, hands open, legs bent naturally behind her, smiling with an excited joyful expression.
+
+IMAGE 2: Wider cinematic full-body aerial view, Wareen centered in the sky with arms spread and legs bent, showing more of the enormous mountain range and turquoise lake below.
+
+Bright natural daylight, crisp realistic shadows, wind-blown purple hair, realistic fabric and harness details, adventurous sports photography, high-energy composition, photorealistic, ultra-detailed, cinematic, 8K.
+```
+
+**来源：** [@Wareen AI 💟](https://x.com/Wareenaa/status/2086318480425644397) | 2026-08-09
+
+---
+
+### 🏷️ 例 5808：1960s American Beverage Advertising Poster
+
+![1960s American Beverage Advertising Poster](../images/1960s%20American%20Beverage%20Advertising%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Authentic 1960s American advertising poster for {argument name="brand name" default="[BREW]"}, vintage mid-century commercial illustration, {argument name="person description" default="[PERSON DESCRIPTION]"} holding a frosty glass bottle of {argument name="brand name" default="[BREW]"}, bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold {argument name="colors" default="[COLOR 1] and [COLOR 2]"} color palette, elegant retro typography, the text “{argument name="brand name" default="[BREW]"}” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2086309838808551892) | 2026-08-09
+
+---
+
+### 🏷️ 例 5812：Personal Brand Narrative Poster
+
+![Personal Brand Narrative Poster](../images/Personal%20Brand%20Narrative%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a unique personal-brand editorial art poster inspired by my life, values, ambitions, struggles, creativity, kindness, inner strength, and hopes for the future. Do not focus on realistic physical likeness; translate my LIFE and personality into visual storytelling.
+
+Blend contemporary Japanese illustration, international poster art, Scandinavian graphic design, and high-fashion editorial aesthetics. Use a sophisticated flat hand-drawn style with bold color fields, expressive lines, subtle paper texture, and 2–3 levels of simplified shading. Avoid photorealism, 3D CGI, magazine-cover layouts, and advertising aesthetics.
+
+Show the character chest-up or full-body in a cinematic pose — three-quarter profile, looking over the shoulder, stepping forward, or feeling the wind. The expression should convey intelligence, kindness, quiet confidence, resilience, and hope.
+
+Design an original couture-inspired outfit and meaningful accessories. Every detail should symbolize something from the person’s journey: clothing = philosophy, color = emotion, lines = journey, negative space = future, geometric forms = growth, accent color = hope.
+
+Create an abstract, non-landscape background using circles, geometric shapes, color blocks, brushstrokes, graphic lines, halftones, ink splashes, collage elements, and paper textures. Let roughly 50–60% of the background be bold color fields and intentional negative space.
+
+Develop a fresh 1–3 color palette based on the person’s personality and story. Make the composition cinematic, asymmetrical, striking, refined, and museum-quality.
+
+Add one elegant handwritten English word representing the person’s mission, followed by a short poetic Japanese phrase under 50 characters.
+
+The final artwork should feel deeply personal, symbolic, sophisticated, and instantly intriguing — making the viewer wonder:
+
+“What kind of life has this person lived, and what future are they creating?”
+
+No random details, clichés, generic AI aesthetics, photorealism, or unnecessary decoration. Every element must have meaning. Aspect ratio 4:5
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2086300155771519326) | 2026-08-09
+
+---
+
+### 🏷️ 例 5816：Cinematic Night Portrait With Vintage Muscle Car
+
+![Cinematic Night Portrait With Vintage Muscle Car](../images/Cinematic%20Night%20Portrait%20With%20Vintage%20Muscle%20Car.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic night photograph of {argument name="character description" default="a young woman in her early 20s with long dark brown hair, natural makeup, and a calm confident expression"} leaning casually against {argument name="car description" default="a glossy black classic 1960s vintage muscle car with chrome trim, round headlights, and polished wheels"} on a wet city street at night. She stands full body beside the front driver-side fender, one hand tucked into her cargo pants pocket, shoulders relaxed, looking directly at the camera with a composed neutral gaze. Outfit: {argument name="outfit" default="black unbuttoned overshirt, fitted white tank top, loose beige cargo pants, and black low-top canvas sneakers with white laces"}. Environment: modern downtown skyline in the background with tall buildings rendered as soft bokeh lights, rain-slick asphalt reflecting orange streetlights and blue city lights, metal roadside railings, nighttime urban atmosphere. Lighting: cinematic moody low-key lighting, warm streetlamp glow from the upper right, cool blue ambient city light, glossy reflections on the car body, realistic skin tones, subtle rim light on hair and shoulders. Camera and composition: vertical portrait orientation, eye-level full-body fashion editorial framing, subject centered slightly right, car filling the lower and left side of the frame, shallow depth of field, background blurred, sharp focus on the woman and the nearest car details. Style: ultra-realistic photography, high dynamic range, natural textures, 35mm lens look, soft filmic contrast, wet pavement reflections, no text, no watermark, no extra people, no distorted anatomy.
+```
+
+**来源：** [@Alina Ai](https://x.com/Alina_with_Ai/status/2086290367918510127) | 2026-08-09
+
+---
+
+### 🏷️ 例 5826：Gothic AI Stack Diagram
+
+![Gothic AI Stack Diagram](../images/Gothic%20AI%20Stack%20Diagram.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dark gothic hand-painted infographic poster titled {argument name="headline text" default="THE AI STACK"}, showing an interconnected personal AI-tool stack as a mysterious occult network.
+
+Canvas: Square 1:1 composition, black and charcoal textured canvas with visible rough brush strokes, scratched chalk marks, muted cream ink, and subtle sepia highlights. The mood is eerie, nocturnal, vintage, and slightly haunted.
+
+Layout: Place a large central circular node labeled {argument name="main tool" default="CLAUDE"} with a simple eight-point starburst symbol inside it. Four rounded rectangular tool cards connect to the central node with pale hand-drawn cables and small circular connector dots. Use exactly 4 outer cards: top-left card labeled {argument name="tool 1" default="CODEX"} with a browser-window code icon, top-right card labeled {argument name="tool 2" default="GPT IMAGE 2"} with a framed landscape/image icon, bottom-left card labeled {argument name="tool 3" default="ANTIGRAVITY"} with a starry mountain or sparkling night icon, and bottom-right card labeled {argument name="tool 4" default="HERMES"} with a crossed-arrows or janitor-like routing symbol. Keep all text in uppercase, widely spaced, distressed serif/typewriter lettering.
+
+Scene details: Add a glowing full moon centered above the main node, a small spiderweb and tiny spider in the upper-left corner, a dark gothic castle silhouette in the right background, fog and smoky clouds along the bottom, a wilted flower with a bent stem leaning across the left side of the central node, one fallen brown leaf near the base of the flower, and an antique skeleton key lying at the bottom right. Include a tiny creator handle centered at the bottom: @AunySillyMe.
+
+Visual style: Painterly gothic chalkboard illustration, rough impasto texture, off-white linework on black, muted gold-brown accents on the dead flower and leaf, softly glowing moon, handmade imperfect borders, no clean vector polish.
+
+Constraints: Use exactly 1 central circle, exactly 4 connected outer cards, exactly 4 outer tool labels, exactly 1 moon, exactly 1 spiderweb, exactly 1 spider, exactly 1 wilted flower, exactly 1 fallen leaf, exactly 1 castle silhouette, and exactly 1 key. Do not add extra cards, extra tools, bright colors, modern UI gloss, or photorealism.
+```
+
+**来源：** [@Auny 🧡](https://x.com/AunySillyMe/status/2086265439223779369) | 2026-08-09
+
+---
+
+### 🏷️ 例 5827：Anime AI Model Comparison Balcony Scene
+
+![Anime AI Model Comparison Balcony Scene](../images/Anime%20AI%20Model%20Comparison%20Balcony%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a square side-by-side comparison image showing two AI image model results for the same cheerful anime summer balcony scene, with a soft pastel header comparing the two models.
+
+Canvas: 1:1 square image, high-resolution anime illustration. The composition is divided vertically into exactly 2 equal panels by a straight center split. Add a top header band with a pale yellow-to-pink gradient background.
+
+Text content: In the header, place exactly 2 bold black labels centered above each panel. Left label reads “Grok” on the first line and “Imagine  Image2.0” on the second line. Right label reads “ChatGPT” on the first line and “GPT   Image2.0” on the second line. Use large rounded sans-serif type, clean and readable.
+
+Layout and scene: Both panels depict the same sunny rooftop balcony or terrace overlooking a bright modern city skyline under a vivid blue sky with towering white cumulus clouds. The balcony has metal railings, potted morning glory vines with blue and purple flowers climbing along the left and center divider areas, and strong summer sunlight with crisp leaf shadows. At the bottom center, a small round inflatable kiddie pool straddles the split between the two panels, filled with sparkling blue water.
+
+Discrete visible elements to include: exactly 2 comparison panels, exactly 2 reclining chibi boys, exactly 2 blue-and-white striped lounge chairs, exactly 2 cartoon shark figures in the pool, exactly 2 small yellow chick mascots sitting on the boys’ shark hoods, exactly 2 drinks with straws, exactly 2 pairs of sandals/slippers on the floor, exactly 1 central potted plant at the split, and exactly 1 wind chime hanging in the upper-right panel.
+
+Subject details: Each panel contains a cute chibi anime boy with {argument name="hair color" default="black"}, big expressive eyes or happy closed eyes, wearing a black shirt and shorts, reclining barefoot on a blue-and-white striped deck chair. Each boy wears an oversized light-blue shark hood shaped like a shark head with a white toothy opening around the face and black side eyes. A tiny yellow chick character sits on top of each hood. In the pool, include two toy-like blue sharks with rounded bodies, simple fins, black dot eyes, and open red mouths, one on each side of the split.
+
+Visual style: Bright polished Japanese anime background art, highly detailed but cute, saturated summer colors, sparkling water caustics, clean linework on characters, soft painterly background, warm sunlight, playful vacation mood. The left panel should look slightly softer and more natural, while the right panel should look sharper, glossier, and more contrasty, emphasizing the comparison.
+
+Constraints: Keep the vertical split visible through the whole image, align the two scenes as a direct comparison, do not add extra panels, do not add logos or watermarks, and keep all header text exactly as specified.
+```
+
+**来源：** [@シャック🦈｜AIショートMV](https://x.com/SHACK_SAME_SAME/status/2086262109801996391) | 2026-08-09
+
+---
+
+### 🏷️ 例 5828：Anime Lifestyle Portrait with Manga Shadows
+
+![Anime Lifestyle Portrait with Manga Shadows](../images/Anime%20Lifestyle%20Portrait%20with%20Manga%20Shadows.jpg)
+
+**Prompt:**
+
+```text
+Create a wholesome, cinematic anime-inspired lifestyle portrait of a cute young woman with a {argument name="hair style" default="short pastel-pink bob haircut"}. She is wearing an {argument name="outfit" default="oversized vintage red plaid flannel shirt, relaxed baggy blue jeans, and classic canvas sneakers"}. Beside her is a {argument name="pet description" default="fluffy gray-and-white British Shorthair cat wearing a tiny matching plaid bandana"}.
+
+They are naturally interacting in a warm, candid moment, illuminated by soft golden-hour sunlight against a clean minimalist beige wall. The sunlight creates long, gentle shadows on the wall and ground.
+
+Add a whimsical magical element: the shadows are transformed into playful hand-drawn manga illustrations. The woman's shadow becomes an adorable chibi anime version of herself in a joyful, energetic pose. The cat's shadow transforms into a funny cartoon version of the cat, playfully waving, dancing, or reaching toward her.
+
+The illustrated shadows should feel naturally integrated into the real environment, as if the pencil-drawn characters are emerging directly from the shadows. Include delicate pencil-sketch linework, expressive manga motion marks, tiny hearts, stars, butterflies, and spontaneous doodles woven organically into the shadow shapes.
+
+Overall aesthetic: cozy slice-of-life anime, modern manga illustration blended with premium editorial photography, whimsical storytelling, minimalist composition, warm cinematic lighting, authentic candid emotion, dreamy atmosphere.
+
+Highly detailed realistic fur, natural skin texture and tones, realistic fabric details, subtle environmental textures, soft atmospheric depth, realistic sunlight and shadow behavior, shallow depth of field, 50mm photography look, Kodak Portra 400-inspired color rendering, photorealistic subject combined with hand-drawn manga shadow art, sophisticated visual balance, premium composition, ultra-detailed, cinematic, magical yet believable, masterpiece quality, 8K.
+```
+
+**来源：** [@Selina](https://x.com/selinatasnim1/status/2086261961189462076) | 2026-08-09
+
+---
+
+### 🏷️ 例 5830：Celestial Xianxia Cloud Kingdom Wallpaper
+
+![Celestial Xianxia Cloud Kingdom Wallpaper](../images/Celestial%20Xianxia%20Cloud%20Kingdom%20Wallpaper.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the visual and character base, transform the scene into a wide {argument name="resolution style" default="4K desktop wallpaper"} with an open, cinematic ancient Chinese celestial fantasy landscape. Keep the lone white-robed figure viewed from behind, but move them from the palace corridor onto the center of an ornate elevated stone terrace or balcony overlooking an endless sea of clouds. Replace the enclosed marble columns and night starfield with a bright sunrise sky: warm golden sun on the left, clear blue atmosphere, soft scattered clouds, and a huge pale moon or planet high on the right. Expand the background with many floating or cloud-piercing Chinese palace structures, pagodas, spires, and rugged mountain peaks emerging from the clouds, creating strong depth and scale. Preserve the elegant immortal/xianxia mood, white-and-silver palette with gold sunrise highlights, high detail, ethereal lighting, grand fantasy architecture, ultra-wide 16:9 composition, no text, no watermark.
+```
+
+**来源：** [@HitPaw](https://x.com/HitPawofficial/status/2086256144889331868) | 2026-08-09
+
+---
+
+### 🏷️ 例 5834：Three-View Character Turnaround
+
+![Three-View Character Turnaround](../images/Three-View%20Character%20Turnaround.jpg)
+
+**Prompt:**
+
+```text
+Create a clean studio character turnaround reference sheet in a 16:9 widescreen canvas. Show exactly 3 vertical panels separated by thin white dividers: left panel labeled “FRONT”, center panel labeled “SIDE”, right panel labeled “BACK”. Each panel must depict the same {argument name="character description" default="28-year-old East Asian woman"} as a full-body realistic fashion photo, standing upright against a plain light gray-white studio wall with a pale gray floor. Keep her identity, body proportions, outfit, hair, and accessories consistent across all three views; only the camera angle changes. She has {argument name="hair style" default="short black bob-length hair, softly layered and tucked around the ears"}, a calm neutral expression when visible, and natural minimal makeup. Outfit: {argument name="top" default="beige knit button-front cardigan with long sleeves pushed slightly up"}, {argument name="pants" default="light blue straight-leg jeans"}, white low-top sneakers, and a silver wristwatch on her left wrist. Panel 1: front view, arms relaxed at sides, looking toward camera. Panel 2: true side profile view facing left, arms relaxed, the silver watch visible on the left wrist. Panel 3: back view, arms relaxed, cardigan back and jean pockets visible. Use soft even studio lighting, realistic proportions, crisp details, no extra props, no additional people, no watermark, and keep the three labels centered below their panels in simple black uppercase sans-serif text.
+```
+
+**来源：** [@码农暖爸](https://x.com/Delroy715/status/2086255990970966224) | 2026-08-09
+
+---
+
+### 🏷️ 例 5838：Stained Glass Flying Owl
+
+![Stained Glass Flying Owl](../images/Stained%20Glass%20Flying%20Owl.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical fantasy illustration of a majestic {argument name="subject" default="owl"} in mid-flight, angled three-quarters toward the viewer, with one broad wing sweeping out to the left and the other wing raised upward behind its head. The creature is made of translucent stained glass and gemstone-like feathers, each feather formed from individual beveled shards outlined with thin dark bronze leading. Use shimmering colors of {argument name="main colors" default="emerald green, teal, aqua, lavender purple, and warm gold"}, with luminous internal highlights, tiny sparkling flecks, and a glossy faceted surface. The owl has a sharp bronze beak, intense round amber-gold eyes, prominent feather tufts like crystalline horns, layered tail feathers trailing downward, and two visible taloned feet curled beneath the body. The background is a soft painterly teal-green gradient with subtle bokeh haze and no text, keeping the focus on the glowing glass owl. Style it as highly detailed digital fantasy art with realistic anatomy, elegant stained-glass craftsmanship, cinematic lighting, crisp edges on the bird, soft depth of field in the background, and a magical transparent iridescent atmosphere.
+```
+
+**来源：** [@のいしろ@AI遊び](https://x.com/ewotanosimo2310/status/2086254528928911760) | 2026-08-09
+
+---
+
