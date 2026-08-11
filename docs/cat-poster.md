@@ -25555,3 +25555,39 @@ Create two premium food advertising scenes in one cohesive campaign style. Scene
 
 ---
 
+### 🎴 例 5891：Black and White Studio Fashion Portrait
+
+![Black and White Studio Fashion Portrait](../images/Black%20and%20White%20Studio%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Dramatic ultra-photorealistic black-and-white studio fashion portrait of an {argument name="subject" default="adult man"}, photographed as a premium editorial campaign with a full-frame professional camera. Three-quarter body composition, framed from approximately mid-thigh upward. He stands naturally with confident posture, both hands casually tucked into his trouser pockets, shoulders relaxed, chest subtly open, chin slightly lifted, head turned a little away from the camera. His expression is calm, self-assured, serious, and composed.
+
+He wears round vintage-style sunglasses with realistic dark lenses and thin frames, a perfectly tailored {argument name="shirt type" default="crisp white dress shirt"} with the top two or three buttons undone, collar naturally open, sleeves casually rolled to the forearms, shirt neatly tucked into high-quality dark tailored trousers with a simple leather belt and understated metal buckle. Clothing should show authentic fabric texture, natural wrinkles, realistic stitching, subtle folds around the elbows and waist, and physically accurate draping.
+
+Pure seamless black studio background with no visible environment, props, texture, or distractions. Extremely controlled low-key cinematic lighting: one strong directional side light positioned approximately 45 degrees to the subject, creating sculpted bright highlights across the white shirt while allowing the opposite side of the face and body to fall naturally into deep partial shadow. Subtle soft reflected fill only where physically plausible. Strong chiaroscuro, rich blacks, luminous white highlights, smooth tonal transitions, realistic skin texture, natural pores and fine facial detail, subtle facial hair detail, accurate anatomy, realistic hands and fingers.
+
+High-contrast monochrome photography with a refined filmic tonal range, deep blacks without crushed facial detail, clean highlights without excessive clipping, subtle natural film grain, realistic lens rendering, gentle background separation, and authentic photographic imperfections. Sharp focus on the face, sunglasses, and shirt collar with a gradual shallow depth of field toward the lower body. Sophisticated luxury fashion editorial aesthetic, timeless cinematic mood, restrained and elegant rather than theatrical.
+
+Photorealistic skin, physically accurate lighting, realistic shadows, true-to-life proportions, natural posture, premium studio photography, high dynamic range, fine micro-contrast, detailed fabric texture, realistic optical characteristics, {argument name="lens" default="85mm"} portrait lens look, approximately f/2.8, full-frame camera, high-resolution RAW photography, professionally retouched but not artificially smoothed, no CGI appearance.
+```
+
+**来源：** [@Weinberg](https://x.com/weiinberg/status/2086657685060203004) | 2026-08-10
+
+---
+
+### 🎴 例 5905：Minimalist City Greeting Poster
+
+![Minimalist City Greeting Poster](../images/Minimalist%20City%20Greeting%20Poster.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题" default="早安+问候+GOOD MORNING+城市+金句+天气+2026-08-10"}对象生成具有平面海报秩序与真实焦点形象的设计：先以一块占据上部的大面积鲜明高明度色场建立开阔留白，再在下部接入一块近乎等量、低饱和的浅色纸面区域，形成干净明确的水平色域交界；让主题的核心形态被转译成两组超大、低细节、厚重圆润的浅色字符化图形，横跨交界线并向左右边缘出血，保留清晰的内部空腔、粗细对比与被边界裁断的切口，图形不是装饰而是背景中的尺度标尺和视觉骨架。把主题主体或核心对象压缩为中小尺度的具象焦点，放在交界附近，局部遮挡巨型图形，使前景对象、图形轮廓与留白发生明确的前后穿插；焦点对象以自然摄影或高度具象的质感表现，保留真实表面细节、柔和的侧上方光线、接地的短而松散的投影，以及不喧宾夺主的中性深色层次。左侧靠近交界的区域放置主题相关的两行短标题，使用粗重、紧凑、几何感明确的无衬线大写字形，行距偏紧、字块整齐左对齐，以黑色或主题最深结构色形成小面积强锚点；在巨型图形上缘两侧加入极小号、宽字距的元信息与编号式短标签，形成稀疏的编辑设计节奏，但文字只承担秩序、尺度 and 信息提示，不复制固定文案。颜色由主题语义决定色相与材质来源，但维持高明度高纯度主色场对柔和浅底的面积、明度、饱和度和情绪张力关系，巨型图形使用比浅底更醒目或更中性的浅色，深色文字与焦点阴影只占少量；主题色温改变时仍保持大色块对比、清洁边界和有限强调色，不把颜色平均铺满。整体像在哑光纸上进行干净的平面印刷，纸张有细微均匀纤维与颗粒，浅底和色场存在轻微密度不匀，实拍对象边缘与印刷图形边缘清楚但不过度锐利，色块交界保持利落，避免厚重做旧、泛黄、脏污、额外装饰和现代渐变；让背景留白、巨型图形、短标题、微型标签、焦点对象和接地阴影共同形成从大色场到文字再到主体的阅读路径，若去掉图形遮挡、色域交界或尺度反差，画面应立即失去这种克制而有张力的设计识别度。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086617422312968279) | 2026-08-10
+
+---
+

@@ -11722,3 +11722,134 @@ Visual style: Minimal flat infographic, Chinese sans-serif font, high readabilit
 
 ---
 
+### 🖥️ 例 5840：Kawaii Chibi LINE Sticker Sheet
+
+![Kawaii Chibi LINE Sticker Sheet](../images/Kawaii%20Chibi%20LINE%20Sticker%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cute completed LINE sticker sheet featuring {argument name="character name" default="a small white-haired fox-eared anime girl"} and {argument name="animal companion" default="a round navy-blue penguin chick"} in a soft kawaii chibi style.
+
+Canvas: Square image, white background, arranged as a clean 3 by 3 grid of exactly 9 separate sticker illustrations with generous spacing. Each sticker has no border and appears like a transparent-background LINE stamp preview placed on white.
+
+Visual style: Pastel anime chibi illustration, soft watercolor-like shading, rounded forms, expressive faces, tiny hands and feet, sparkles and small motion marks. The girl has long fluffy white hair with pale pink tips, fox/cat ears, a big fluffy pink-white tail, blue eyes, and an oversized dark blue hoodie with pale yellow shoes. The penguin is short and plush-like with a dark navy body, white face/belly, tiny orange beak and feet, and a shy adorable expression. Use thick-but-soft sticker outlines and lively handwritten Japanese captions in bright pastel colors.
+
+Text content: Include exactly 9 Japanese sticker captions, one per sticker, matching this set: {argument name="sticker captions" default="おはよ〜 / ありがとっ！ / おつかれさま〜 / OKだよ〜 / ごめん〜 / いってら〜！ / よろしくね。 / おやすみ〜 / またね！"}. Render the captions as playful handwritten text above or near each character, using orange, yellow, blue, green, pink, or red depending on the sticker mood.
+
+Sticker layout and count: Exactly 9 stickers in 3 rows and 3 columns:
+1. Top left, caption “おはよ〜”: the girl smiles and waves energetically beside the penguin; cheerful morning mood with yellow/orange text and small sparkles.
+2. Top center, caption “ありがとっ！”: the girl bows politely with hands together or sleeves forward; grateful expression, penguin nearby; orange text.
+3. Top right, caption “おつかれさま〜”: the girl cuddles or leans close with the penguin, relaxed and appreciative; light blue text and sparkles.
+4. Middle left, caption “OKだよ〜”: the girl makes an OK gesture or confident pose next to the penguin; green text with sparkles.
+5. Middle center, caption “ごめん〜”: the girl looks apologetic and sad with droopy posture; penguin also subdued; blue text.
+6. Middle right, caption “いってら〜！”: the girl and penguin move energetically as if sending someone off; red text and motion emphasis.
+7. Bottom left, caption “よろしくね。”: the girl bows or clasps hands sweetly, polite introduction vibe; pink text.
+8. Bottom center, caption “おやすみ〜”: the girl sleeps under a light blue blanket patterned with stars/clouds, penguin tucked beside her; purple/pink text.
+9. Bottom right, caption “またね！”: the girl waves goodbye with one arm raised while the penguin stands beside her; orange text.
+
+Constraints: Keep all 9 stickers clearly separated and fully visible, no extra stickers, no cropped characters, no watermark, no realistic rendering, no background scene beyond white space and small decorative sparkles. Make it look like a finished LINE sticker set preview generated as one square sheet.
+```
+
+**来源：** [@テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo/status/2086950428332511360) | 2026-08-10
+
+---
+
+### 🖥️ 例 5841：Chibi Catgirl Penguin Sticker Sheet
+
+![Chibi Catgirl Penguin Sticker Sheet](../images/Chibi%20Catgirl%20Penguin%20Sticker%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cute chibi sticker pack sheet featuring {argument name="character name" default="a white-haired catgirl"} and {argument name="mascot character" default="a small navy-blue penguin"}, designed as a deliverable preview with four tiny alternate sheet thumbnails stacked along the far right.
+
+Canvas: Square-ish white background, about 4:3 ratio, with a large rounded-corner white sticker-sheet panel occupying most of the image. Keep generous spacing between stickers. Add a subtle app-preview feeling: on the far right edge, show 4 small vertical thumbnail previews of similar sticker sheets, one above another.
+
+Visual style: Soft anime chibi illustration, glossy sticker-pack look, clean white background, pastel colors, thick but gentle outlines, expressive faces, slight drop shadows, handwritten Japanese text in bright gradient colors with small hearts, sparkles, motion marks, and moons. Main character has long fluffy white-to-pink hair, cat ears, blue eyes, pale skin, a pink cat tail, oversized blue hoodie, short dark skirt or shorts, yellow socks, and sneakers/boots. Mascot is a round navy penguin with white face and belly, orange feet, wearing a matching small blue hoodie in some poses.
+
+Layout: Arrange exactly 9 large stickers in a 3 by 3 grid on the main sheet. Each sticker combines the catgirl, the penguin, or both, with a large Japanese phrase above or beside them.
+
+Sticker count and content, exactly 9:
+1. Top left: catgirl waving happily with the penguin beside her, orange/yellow text {argument name="morning greeting text" default="おはよ〜"}, small orange motion lines.
+2. Top center: catgirl and penguin bowing politely, orange text {argument name="thanks text" default="ありがとう!!"}, tiny pink heart.
+3. Top right: catgirl saluting or touching her head while hugging/holding the penguin, blue text {argument name="work appreciation text" default="おつかれさま〜"}, small yellow sparkles.
+4. Middle left: catgirl giving an OK hand sign and smiling, penguin smiling beside her, lime-green text 「OKだよ〜」 with yellow stars.
+5. Middle center: catgirl apologizing with hands together and teary eyes, penguin bowing beside her, blue text 「ごめーん」 with sweat drops.
+6. Middle right: catgirl running energetically with flowing pink hair and tail, penguin running behind her, red-orange text 「いま行くー!」 with motion emphasis.
+7. Bottom left: catgirl and penguin bowing shyly, pink text 「よろしくね」 with a small heart.
+8. Bottom center: sleepy catgirl hugging a star-pattern blanket or pillow, penguin in a blue nightcap and hoodie, purple text 「おやすみ〜」 with a yellow crescent moon and stars.
+9. Bottom right: catgirl waving goodbye with the penguin waving beside her, orange text 「またね!」 with small orange motion lines.
+
+Constraints: Keep the image clean and sticker-like; do not add extra main stickers beyond the 9 listed. Preserve the Japanese text exactly as written. No watermark, no photorealism, no cluttered background.
+```
+
+**来源：** [@テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo/status/2086950426000408642) | 2026-08-10
+
+---
+
+### 🖥️ 例 5862：South Asian Man Graphite Drawing
+
+![South Asian Man Graphite Drawing](../images/South%20Asian%20Man%20Graphite%20Drawing.jpg)
+
+**Prompt:**
+
+```text
+Face Reference: Use the attached reference image as the exact facial identity. Preserve 100% of the same face, facial structure, eye shape, nose, lips, jawline, skin tone, hairstyle, expression style, and overall identity. Do not alter or reinterpret the person's appearance in any way. Only recreate the pose, composition, and artistic style while keeping the face perfectly consistent with the reference image.
+
+A {argument name="subject" default="young South Asian man"} wearing a simple {argument name="clothing" default="light pink kurta with a matching embroidered shawl"} draped naturally around his shoulders. His hair is medium-length, slightly wavy, neatly styled with a few loose strands framing his forehead. He is shown in a medium portrait from the waist up, body turned slightly to the left, head facing right in a perfect side three-quarter profile. His right hand is gently raised, with his index finger resting lightly against his lower lip in a thoughtful pose. He has a calm, pensive, slightly melancholic expression, looking into the distance. Natural masculine facial features, expressive eyes, well-defined eyebrows, straight nose, soft lips, clean-shaven face, smooth skin.
+
+The composition exactly matches the reference image: centered subject, upper body visible, relaxed shoulders, elegant posture, identical camera angle, identical pose, identical hand placement, identical head tilt, identical framing, identical body orientation, identical gaze direction, identical proportions.
+
+Fine {argument name="style" default="graphite pencil drawing with realistic shading"}, delicate cross-hatching, subtle texture, highly detailed facial rendering. Selective soft pink color only on the clothing while the face, hair, and hands remain monochrome graphite. Clean off-white paper background, museum-quality illustration, ultra-detailed, professional traditional pencil artwork, 8K.
+
+Negative Prompt:
+front view, smiling, looking at camera, different pose, different hand position, crossed arms, full body, different hairstyle, different facial features, identity change, beard, mustache, extra fingers, extra hands, deformed anatomy, blurry, low quality, cartoon, anime, exaggerated features, jewelry, cluttered background, harsh lighting, watermark, logo, text
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2086782567794245684) | 2026-08-10
+
+---
+
+### 🖥️ 例 5866：Neon Chinese Character Typography
+
+![Neon Chinese Character Typography](../images/Neon%20Chinese%20Character%20Typography.jpg)
+
+**Prompt:**
+
+```text
+Create a minimalist vertical poster on a pure black background featuring one large centered Chinese character, {argument name="character text" default="亮"}, rendered as futuristic neon tube typography. The glyph should be tall and narrow, occupying most of a 3:4 portrait canvas, built from thin rounded white glowing strokes with a faint cool blue halo. Use a custom geometric outline style rather than a standard font: rounded corners, open gaps between stroke segments, and elegant curved terminals. Add exactly 9 small decorative accent strokes: 2 short curved echo lines near the upper-left of the top vertical stroke, 1 slim vertical echo line on the right side of the upper section, 2 short horizontal bars inside the upper component, 2 diagonal slash marks to the right of the middle crossbar, and 2 diagonal slash marks near the lower-right/lower-left curved strokes. Keep the composition symmetrical and spacious, with no other text, no texture, no objects, no watermark, and strong contrast like a glowing white LED sign in darkness.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086766424274641066) | 2026-08-10
+
+---
+
+### 🖥️ 例 5885：Photorealistic Jodorowsky Dune Soldier
+
+![Photorealistic Jodorowsky Dune Soldier](../images/Photorealistic%20Jodorowsky%20Dune%20Soldier.jpg)
+
+**Prompt:**
+
+```text
+Create a full-body photorealistic studio character concept of a futuristic desert sci-fi soldier inspired by Alejandro Jodorowsky-era Dune production design and 1970s Moebius-like costume sketches. The single figure stands upright in a neutral contrapposto pose on a plain white seamless background, centered with the whole body visible from helmet to boots. The character wears glossy {argument name="armor color" default="black"} biomechanical armor with worn metal edges, rivets, hoses, bolts, and layered plates. The helmet is smooth and insect-like with a rounded black dome, two small circular yellow goggles, a protruding respirator snout, dangling breathing tubes, ear-mounted mechanical pods, and thin antenna-like rods rising behind the head. The torso has a black armored breastplate with a circular chest emblem: cream circle, red ring, black square center, and small red dot; broad shoulder armor, exposed cables around the neck, a utility belt, and a pale ribbed codpiece panel. The arms are armored with asymmetrical gauntlets, spikes, metal bracers, and tubing; one hand holds a compact retro-futuristic pistol or tool, while the other side carries a sheathed dagger or baton. The legs have bulky padded segmented dark trousers, pale oval knee plates, long ivory shin guards with sharp protruding spikes, black lower leg armor, and elongated pointed boots. Use realistic materials: scratched lacquered armor, aged ivory metal, tarnished brass, gunmetal, rubber hoses, subtle grime, and handcrafted prop texture. Lighting is soft, even, high-key studio lighting with a faint contact shadow, extremely detailed, sharp focus, no text, no border, no environment, no extra characters.
+```
+
+**来源：** [@Jaden Tripp](https://x.com/jadenitripp/status/2086684399912067186) | 2026-08-10
+
+---
+
+### 🖥️ 例 5900：Realistic City Selfie Portrait
+
+![Realistic City Selfie Portrait](../images/Realistic%20City%20Selfie%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic vertical smartphone selfie photo of a {argument name="subject" default="young Japanese woman in her early 20s"} outdoors on a quiet modern city sidewalk in daytime. The camera is held slightly above eye level at arm’s length, close-up from mid-chest to top of head, with a natural wide-angle phone perspective. She has {argument name="hair color and style" default="straight dark black shoulder-length hair with soft full see-through bangs"}, large brown eyes, smooth fair skin, subtle natural makeup, and a gentle closed-mouth smile while looking directly into the camera. She wears a {argument name="outfit" default="loose white blouse with a lace-up tie neckline"}, a delicate small necklace, and a visible black shoulder bag strap over one shoulder. The background shows a Japanese urban residential/commercial street with pale building facades, glass doors, small greenery, shrubs, a paved walkway, short metal bollards, and one distant blurred pedestrian; use shallow depth of field so the face is crisp and the background is softly blurred. Lighting is soft natural daylight with realistic skin texture, natural hair detail, no heavy retouching, no text, no watermark, no stylized illustration, no studio lighting.
+```
+
+**来源：** [@daisuke onarimon](https://x.com/daisukeonarimon/status/2086640894766399654) | 2026-08-10
+
+---
+

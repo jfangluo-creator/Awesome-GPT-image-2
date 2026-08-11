@@ -809,6 +809,18 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5836：Top-Down Apple Counting Desk Scene](cat-ui.md#️-例-5836top-down-apple-counting-desk-scene)
 
 - [例 5837：Chinese Home Compute Buying Guide](cat-ui.md#️-例-5837chinese-home-compute-buying-guide)
+
+- [例 5840：Kawaii Chibi LINE Sticker Sheet](cat-ui.md#️-例-5840kawaii-chibi-line-sticker-sheet)
+
+- [例 5841：Chibi Catgirl Penguin Sticker Sheet](cat-ui.md#️-例-5841chibi-catgirl-penguin-sticker-sheet)
+
+- [例 5862：South Asian Man Graphite Drawing](cat-ui.md#️-例-5862south-asian-man-graphite-drawing)
+
+- [例 5866：Neon Chinese Character Typography](cat-ui.md#️-例-5866neon-chinese-character-typography)
+
+- [例 5885：Photorealistic Jodorowsky Dune Soldier](cat-ui.md#️-例-5885photorealistic-jodorowsky-dune-soldier)
+
+- [例 5900：Realistic City Selfie Portrait](cat-ui.md#️-例-5900realistic-city-selfie-portrait)
 ---
 
 <a id="chart"></a>
@@ -2575,6 +2587,10 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5794：Grok Imagine Image 2.0 Launch Banner](cat-poster.md#-例-5794grok-imagine-image-20-launch-banner)
 
 - [例 5800：Premium Food Advertising Campaign Scenes](cat-poster.md#-例-5800premium-food-advertising-campaign-scenes)
+
+- [例 5891：Black and White Studio Fashion Portrait](cat-poster.md#-例-5891black-and-white-studio-fashion-portrait)
+
+- [例 5905：Minimalist City Greeting Poster](cat-poster.md#-例-5905minimalist-city-greeting-poster)
 ---
 
 <a id="photo"></a>
@@ -7137,6 +7153,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5782：Realistic Korean High School Girl iPhone Selfie](cat-photo.md#-例-5782realistic-korean-high-school-girl-iphone-selfie)
 
 - [例 5783：Summer CCD Urban Lifestyle Portrait](cat-photo.md#-例-5783summer-ccd-urban-lifestyle-portrait)
+
+- [例 5857：Night Kitchen Glow Portrait](cat-photo.md#-例-5857night-kitchen-glow-portrait)
+
+- [例 5865：Sea Breeze Harbor Portrait](cat-photo.md#-例-5865sea-breeze-harbor-portrait)
+
+- [例 5877：Urban Skate Park Sporty CCD Portrait](cat-photo.md#-例-5877urban-skate-park-sporty-ccd-portrait)
 ---
 
 <a id="illustration"></a>
@@ -8360,6 +8382,80 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5833：EDIT-01 杯子改绿 ⑤ 编辑：局部改色 底图：2.5D轻写实喵喵酱 + 猫爪杯（3 2） 考](cat-illustration.md#-例-5833edit-01-杯子改绿--编辑局部改色-底图25d轻写实喵喵酱--猫爪杯3-2-考)
 
 - [例 5835：Hand Pinching One-Yuan Coin](cat-illustration.md#-例-5835hand-pinching-one-yuan-coin)
+
+- [例 5839：Thermal Receipt Table Lamp Poster](cat-illustration.md#-例-5839thermal-receipt-table-lamp-poster)
+
+- [例 5842：Cinematic Portrait with Textured Crimson Wall](cat-illustration.md#-例-5842cinematic-portrait-with-textured-crimson-wall)
+
+- [例 5843：Graduation Portrait in Modern University](cat-illustration.md#-例-5843graduation-portrait-in-modern-university)
+
+- [例 5844：Fluorescent Highlighter Travel Poster](cat-illustration.md#-例-5844fluorescent-highlighter-travel-poster)
+
+- [例 5846：South Asian Woman in Monsoon Rain Sequence](cat-illustration.md#-例-5846south-asian-woman-in-monsoon-rain-sequence)
+
+- [例 5847：Cinematic Red Blue Split-Light Portrait](cat-illustration.md#-例-5847cinematic-red-blue-split-light-portrait)
+
+- [例 5848：University Classroom Fashion Portrait](cat-illustration.md#-例-5848university-classroom-fashion-portrait)
+
+- [例 5849：Proud Hamster Warlord at Sunset](cat-illustration.md#-例-5849proud-hamster-warlord-at-sunset)
+
+- [例 5854：Pink-Haired Character Reference Sheet](cat-illustration.md#-例-5854pink-haired-character-reference-sheet)
+
+- [例 5855：Crimson Forest Landscape Photography](cat-illustration.md#-例-5855crimson-forest-landscape-photography)
+
+- [例 5858：Pastel Editorial Fashion Portrait](cat-illustration.md#-例-5858pastel-editorial-fashion-portrait)
+
+- [例 5861：Soft Preppy Bathroom Mirror Selfie](cat-illustration.md#-例-5861soft-preppy-bathroom-mirror-selfie)
+
+- [例 5863：Avant-Garde Sports Editorial](cat-illustration.md#-例-5863avant-garde-sports-editorial)
+
+- [例 5867：Traditional Balcony Cinematic Portrait](cat-illustration.md#-例-5867traditional-balcony-cinematic-portrait)
+
+- [例 5869：Two Maid Cafe Girls Making a Heart](cat-illustration.md#-例-5869two-maid-cafe-girls-making-a-heart)
+
+- [例 5871：Seaside Cave Cinematic Portrait](cat-illustration.md#-例-5871seaside-cave-cinematic-portrait)
+
+- [例 5872：Sunny Meadow Picnic Portrait](cat-illustration.md#-例-5872sunny-meadow-picnic-portrait)
+
+- [例 5873：Cinematic Fantasy Skyscraper Portrait](cat-illustration.md#-例-5873cinematic-fantasy-skyscraper-portrait)
+
+- [例 5876：Supernatural Portrait with Glowing Eyes](cat-illustration.md#-例-5876supernatural-portrait-with-glowing-eyes)
+
+- [例 5881：Hot Air Balloon Vlog Storyboard](cat-illustration.md#-例-5881hot-air-balloon-vlog-storyboard)
+
+- [例 5882：Korean Woman Classroom Editorial Portrait](cat-illustration.md#-例-5882korean-woman-classroom-editorial-portrait)
+
+- [例 5887：Glass Entrance Reflection Portrait](cat-illustration.md#-例-5887glass-entrance-reflection-portrait)
+
+- [例 5888：Summer Vending Machine Side Portrait](cat-illustration.md#-例-5888summer-vending-machine-side-portrait)
+
+- [例 5889：Ethereal Xianxia Sword Maiden](cat-illustration.md#-例-5889ethereal-xianxia-sword-maiden)
+
+- [例 5890：Cinematic Monochrome Fashion Portrait](cat-illustration.md#-例-5890cinematic-monochrome-fashion-portrait)
+
+- [例 5892：Photorealistic Male Editorial Portrait](cat-illustration.md#-例-5892photorealistic-male-editorial-portrait)
+
+- [例 5893：Japanese Grocery Store Candid Portrait](cat-illustration.md#-例-5893japanese-grocery-store-candid-portrait)
+
+- [例 5894：Yukata Character Sheet Generator](cat-illustration.md#-例-5894yukata-character-sheet-generator)
+
+- [例 5895：Anime Prize Variety Show Poster](cat-illustration.md#-例-5895anime-prize-variety-show-poster)
+
+- [例 5896：Dark Fantasy Fish-Headed Mermaid](cat-illustration.md#-例-5896dark-fantasy-fish-headed-mermaid)
+
+- [例 5897：Sunset Beach Travel Photography](cat-illustration.md#-例-5897sunset-beach-travel-photography)
+
+- [例 5898：Parisian Street Style Fashion Editorial](cat-illustration.md#-例-5898parisian-street-style-fashion-editorial)
+
+- [例 5901：Optical Occlusion and Depth Layers](cat-illustration.md#-例-5901optical-occlusion-and-depth-layers)
+
+- [例 5902：Arabic ChatGPT Robot OpenAI Poster](cat-illustration.md#-例-5902arabic-chatgpt-robot-openai-poster)
+
+- [例 5906：Anime Girl Hugging Black Cat Plush](cat-illustration.md#-例-5906anime-girl-hugging-black-cat-plush)
+
+- [例 5907：Amateur Night Photography Aesthetic](cat-illustration.md#-例-5907amateur-night-photography-aesthetic)
+
+- [例 5908：Sunlit Cafe Coffee Portrait](cat-illustration.md#-例-5908sunlit-cafe-coffee-portrait)
 ---
 
 <a id="character"></a>
@@ -9286,6 +9382,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5817：Friendly ChatGPT Robot Office Scene](cat-3d.md#-例-5817friendly-chatgpt-robot-office-scene)
 
 - [例 5820：DNA Nucleotides 3D Infographic](cat-3d.md#-例-5820dna-nucleotides-3d-infographic)
+
+- [例 5870：Precise Anime Character Concept Reference Sheet](cat-3d.md#-例-5870precise-anime-character-concept-reference-sheet)
 ---
 
 <a id="architecture"></a>
@@ -11233,6 +11331,48 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 5834：Three-View Character Turnaround](cat-brand.md#️-例-5834three-view-character-turnaround)
 
 - [例 5838：Stained Glass Flying Owl](cat-brand.md#️-例-5838stained-glass-flying-owl)
+
+- [例 5845：Urban Basketball Sneaker Poster Design](cat-brand.md#️-例-5845urban-basketball-sneaker-poster-design)
+
+- [例 5850：Red Moon Celebration Manga](cat-brand.md#️-例-5850red-moon-celebration-manga)
+
+- [例 5851：Aerith Cathedral Flower Portrait](cat-brand.md#️-例-5851aerith-cathedral-flower-portrait)
+
+- [例 5852：Between Technology and Nature](cat-brand.md#️-例-5852between-technology-and-nature)
+
+- [例 5853：Colorful Arcade Candid Portrait](cat-brand.md#️-例-5853colorful-arcade-candid-portrait)
+
+- [例 5856：Professional Mascara Brand Key Visual](cat-brand.md#️-例-5856professional-mascara-brand-key-visual)
+
+- [例 5859：Wide-Angle Fisheye Tokyo Portrait](cat-brand.md#️-例-5859wide-angle-fisheye-tokyo-portrait)
+
+- [例 5860：Chibi Fantasy RPG Party](cat-brand.md#️-例-5860chibi-fantasy-rpg-party)
+
+- [例 5864：Cinematic Immortal Fantasy Battle](cat-brand.md#️-例-5864cinematic-immortal-fantasy-battle)
+
+- [例 5868：Cinematic Stand Apart Portrait](cat-brand.md#️-例-5868cinematic-stand-apart-portrait)
+
+- [例 5874：Heaven-Splitting Xianxia Swordsman](cat-brand.md#️-例-5874heaven-splitting-xianxia-swordsman)
+
+- [例 5875：Sunset Mountain Sportbike Rider](cat-brand.md#️-例-5875sunset-mountain-sportbike-rider)
+
+- [例 5878：Blue Kiriko Fox Shrine Maiden](cat-brand.md#️-例-5878blue-kiriko-fox-shrine-maiden)
+
+- [例 5879：Lion Safari Elf Anime Girl](cat-brand.md#️-例-5879lion-safari-elf-anime-girl)
+
+- [例 5880：Moonlit Celestial Palace Gate](cat-brand.md#️-例-5880moonlit-celestial-palace-gate)
+
+- [例 5883：Exaggerated Caricature Oil Painting](cat-brand.md#️-例-5883exaggerated-caricature-oil-painting)
+
+- [例 5884：Alcohol Marker Travel Poster Prompt](cat-brand.md#️-例-5884alcohol-marker-travel-poster-prompt)
+
+- [例 5886：Contemporary Naive Illustration Poster](cat-brand.md#️-例-5886contemporary-naive-illustration-poster)
+
+- [例 5899：Layered Paper-Cut Illustration Poster](cat-brand.md#️-例-5899layered-paper-cut-illustration-poster)
+
+- [例 5903：Cozy Creative Universe Room](cat-brand.md#️-例-5903cozy-creative-universe-room)
+
+- [例 5904：Console Generations Rooftop Game Collage](cat-brand.md#️-例-5904console-generations-rooftop-game-collage)
 ---
 
 <a id="edit"></a>

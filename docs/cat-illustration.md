@@ -13498,3 +13498,806 @@ Photorealistic square 1:1 close-up image of {argument name="hand description" de
 
 ---
 
+### 🎨 例 5839：Thermal Receipt Table Lamp Poster
+
+![Thermal Receipt Table Lamp Poster](../images/Thermal%20Receipt%20Table%20Lamp%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a bold experimental product poster for a design-object announcement, combining an extreme cropped typography background with a thermal receipt layout overlay.
+
+Canvas: Vertical poster, 4:5 aspect ratio, off-white outer margin around a saturated hot-pink rectangular field. Use a clean print-design composition with slight risograph/thermal-paper grain and subtly imperfect ink edges.
+
+Layout: Place one huge cream-white uppercase background title reading {argument name="product name" default="TABLE LAMP"}, spanning nearly the full width across the upper third; crop the letters heavily at the left and right edges so the title feels oversized and partially hidden. Center-right, overlay exactly one tall narrow cream thermal receipt running from near the top to near the bottom, with zigzag torn edges at the top and bottom. Add one thin vertical microtext line beside the receipt, rotated 90 degrees, reading like an archive/design ID. Along the bottom of the pink field place exactly two separate cream barcode blocks, one at bottom left and one at bottom right. The receipt itself contains exactly one black barcode near its bottom.
+
+Receipt details: The receipt header has a large condensed black title {argument name="receipt header" default="TABLE LAMP"}. Under it, include the subtitle “AESTHETICS, SWITCHED ON”. Fill the receipt with monospaced thermal-printer text, dashed divider lines, and pseudo-transaction metadata. Include design-spec lines such as design registration number, date, time, terminal, transaction, attendant, product, object type, form study, material study, surface finish, light quality, curve ratio, form revision, assembly check, aesthetic value, archive index, subtotal, tax, payment method, authorization, thank-you note, return policy, and “KEEP THIS LIGHT RECEIPT”. Highlight exactly one line in a translucent pink marker strip: “GRAND TOTAL--BEAUTY, SWITCHED ON”.
+
+Subject image on receipt: At the lower half of the receipt, print exactly one cute glossy flower-shaped table lamp illustration with a pink fluted pedestal stem, six rounded pink petals, a blue inner glow, a small orange-red circular center, and a thin pale power cord trailing left. Keep it centered above the receipt barcode.
+
+Typography and style: Use condensed bold sans-serif for the massive background title, monospaced receipt type for all receipt text, black ink on warm cream paper, and a fashionable editorial graphic-design aesthetic. Main colors are {argument name="background color" default="hot pink"}, cream white, black, soft pink, blue, and orange-red. The image should feel like a modern poster generated from the structural idea of a thermal-paper receipt, not a realistic store receipt photo.
+
+Constraints: Use exactly 3 visible barcodes total: 2 large background barcode blocks and 1 receipt barcode. Use exactly 1 receipt, exactly 1 product illustration, and exactly 1 highlighted grand-total line. Do not add people, logos, watermarks, QR codes, extra products, or extra receipts.
+```
+
+**来源：** [@노노아카이브](https://x.com/nono_ai_archive/status/2086958915770876121) | 2026-08-10
+
+---
+
+### 🎨 例 5842：Cinematic Portrait with Textured Crimson Wall
+
+![Cinematic Portrait with Textured Crimson Wall](../images/Cinematic%20Portrait%20with%20Textured%20Crimson%20Wall.jpg)
+
+**Prompt:**
+
+```text
+Cinematic portrait photograph of the attached model. Her features, expression, and clothing remain unchanged. In the background is a textured wall of {argument name="wall texture" default="rough wood paneling"} painted in {argument name="color tones" default="deep crimson and rusty red tones"}. The lighting is {argument name="lighting style" default="directional, intense, and harsh"}, coming from the right side of the scene. It creates a strong bounce effect, giving the skin and clothing on the left side of her body a warm, reddish tone, separating her from the wall. The depth of field is very shallow, with sharp focus on her eyes; the wall behind her is softly blurred. Warm and rich color palette, palpable wall texture. High-quality urban fashion photography style. 2:3 aspect ratio.
+```
+
+**来源：** [@HER19845](https://x.com/her19845/status/2086928072872219121) | 2026-08-10
+
+---
+
+### 🎨 例 5843：Graduation Portrait in Modern University
+
+![Graduation Portrait in Modern University](../images/Graduation%20Portrait%20in%20Modern%20University.jpg)
+
+**Prompt:**
+
+```text
+A young {argument name="subject" default="East Asian woman"} with fair skin and soft makeup, her light brown hair styled in a {argument name="hairstyle" default="neat low bun"} with a few loose strands framing her face, standing in a bright modern university hallway. She is wearing a {argument name="outfit" default="black academic graduation gown with a vibrant red collar and hood"}, a white collared shirt underneath, black tight shorts, and white pointed-toe high-heel pumps. She leans casually against a white wall on her left side, left arm resting on the wall with a silver ring visible on her finger, head slightly tilted down looking at the camera with a gentle, confident smile. Her right leg is raised and bent at the knee as she holds the heel of her right white shoe with her right hand, left foot planted on the polished grey marble floor. Soft natural sunlight streams in from large glass windows behind her, casting gentle shadows. A tall grey concrete pillar stands to the left, modern glass and metal architecture, blurred green trees and a white van visible outside. Full-body shot, elegant and stylish graduation portrait, sharp focus, professional photography, high detail, natural lighting, realistic skin texture, 8k.
+```
+
+**来源：** [@Feyber | AI Creator](https://x.com/woleswoosh/status/2086875229469757564) | 2026-08-10
+
+---
+
+### 🎨 例 5844：Fluorescent Highlighter Travel Poster
+
+![Fluorescent Highlighter Travel Poster](../images/Fluorescent%20Highlighter%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a bold, sophisticated vertical 4:5 travel art poster for {argument name="destination" default="Paris"}, drawn entirely with only four fluorescent highlighter markers on pure bright white paper:
+
+🟧 Fluorescent Orange
+🟨 Fluorescent Yellow
+🟩 Fluorescent Green
+🟦 Fluorescent Blue
+
+COMPOSITION
+
+Select 2–3 real, instantly recognizable landmarks or architectural symbols that genuinely represent {argument name="destination" default="Paris"}.
+
+Use one dominant landmark as the visual anchor, supported by one or two smaller landmarks. Integrate everything into one continuous, asymmetrical composition using overlap, cropping, scale contrast, and generous negative space.
+
+Do not arrange landmarks side-by-side like a tourist brochure. Keep the architecture highly simplified but immediately recognizable.
+
+HIGHLIGHTER STYLE
+
+Construct the artwork only with visible broad-tip highlighter strokes — no black ink, pencil, fine outlines, or digital fills.
+
+Use quick sweeping marks, transparent overlaps, uneven saturation, streaks, gaps, imperfect edges, visible stroke beginnings and endings, and occasional strokes extending beyond the architecture.
+
+Do not carefully color inside buildings. Use a limited number of confident strokes to suggest rather than fully render the landmarks. Leave significant areas unpainted so the viewer mentally completes the forms.
+
+Up close, the artwork should feel almost abstract; from a distance, {argument name="destination" default="Paris"} should become unmistakable.
+
+COLOR & WHITE SPACE
+
+Use only fluorescent orange, yellow, green, and blue. Use all four throughout the composition and allow them to overlap naturally.
+
+Keep approximately 50–60% of the pure white paper untouched. No gradients, shadows, black, gray, beige, pastel colors, or additional shades.
+
+TYPOGRAPHY
+
+Integrate the exact text “{argument name="destination" default="Paris"}” naturally into the composition using the same fluorescent highlighters. Make it spontaneous, expressive, handwritten, and visually integrated rather than a conventional poster heading.
+
+STYLE
+
+Contemporary editorial illustration, experimental architectural sketching, Swiss graphic-design restraint, expressive marker art, museum-shop travel artwork, sophisticated handmade imperfection, bold negative space.
+
+Avoid: photorealism, detailed architectural rendering, conventional skyline compositions, rigid grids, decorative borders, watercolor, vintage textures, cream/beige paper, and generic tourism-poster aesthetics.
+
+FINAL FEEL: A destination remembered through only four fluorescent highlighters — energetic marks, enormous white space, imperfect strokes, and just enough architectural information for {argument name="destination" default="Paris"} to suddenly emerge from abstraction.
+
+High resolution, vertical 4:5, pristine pure-white background.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2086874218734731590) | 2026-08-10
+
+---
+
+### 🎨 例 5846：South Asian Woman in Monsoon Rain Sequence
+
+![South Asian Woman in Monsoon Rain Sequence](../images/South%20Asian%20Woman%20in%20Monsoon%20Rain%20Sequence.jpg)
+
+**Prompt:**
+
+```text
+A cinematic four panel photo sequence of a joyful young {argument name="ethnicity" default="South Asian"} woman enjoying heavy {argument name="weather" default="monsoon rain"} in a {argument name="setting" default="lush green countryside"}. She has long wet black hair and wears a simple sleeveless white dress. In each horizontal frame she expresses pure happiness differently: first laughing toward the camera, second leaning her head back with eyes closed as rain falls across her face, third looking down shyly while smiling, and fourth spinning freely with her wet hair flying through the air and arms relaxed.\n\nThe background features a soft-focus green meadow, a large distant tree, misty rainy atmosphere, and hazy gray skies. Strong visible rainfall, soaked hair and clothing, natural candid body language, nostalgic romantic mood, muted green and gray color palette, soft diffused daylight, slight film grain, vintage 1990s Indian cinema aesthetic, dreamy analog photography, shallow depth of field, gentle motion blur, realistic skin texture, emotional storytelling, authentic monsoon atmosphere.\n\nComposition: four horizontal cinematic stills stacked vertically, same woman and location in every frame, consistent wardrobe and lighting, 3:4 vertical collage, film-still photography, realistic and natural.
+```
+
+**来源：** [@BMX](https://x.com/bmx_ai13/status/2086867134244958408) | 2026-08-10
+
+---
+
+### 🎨 例 5847：Cinematic Red Blue Split-Light Portrait
+
+![Cinematic Red Blue Split-Light Portrait](../images/Cinematic%20Red%20Blue%20Split-Light%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic cinematic close-up studio portrait of a {argument name="subject" default="confident young adult Black man"} facing the camera directly, centered in the frame against a completely dark black background. He has a short neat fade haircut, smooth skin with natural pores and subtle highlights, dark focused eyes, relaxed closed lips, and a calm powerful expression. Pose him with one hand thoughtfully under his chin, thumb along the jawline, showing a polished silver metal wristwatch with a black dial on the wrist. Dress him in a plain {argument name="shirt color" default="black"} crew-neck T-shirt. Use dramatic split lighting: saturated electric {argument name="left light color" default="blue"} light illuminating the viewer-left side of his face, hand, and shoulder, and saturated {argument name="right light color" default="red"} light illuminating the viewer-right side, with a subtle blend across the center of the face. Make the image feel premium, masculine, mysterious, editorial, and powerful, like a high-end magazine cover portrait. Use tight head-and-shoulders framing, shallow depth of field, crisp facial detail, realistic skin texture, glossy catchlights in the eyes, strong contrast, deep shadows, no visible text, no logos, no watermark, no props besides the watch, and no background detail.
+```
+
+**来源：** [@Abkr Sadiq](https://x.com/abs_uiux/status/2086858034656022938) | 2026-08-10
+
+---
+
+### 🎨 例 5848：University Classroom Fashion Portrait
+
+![University Classroom Fashion Portrait](../images/University%20Classroom%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-photorealistic cinematic editorial photograph of a {argument name="subject" default="beautiful young adult Filipino-Korean woman in her early 20s"} inside a {argument name="setting" default="completely empty modern classroom"}. The classroom has rows of wooden desks and chairs, a large green chalkboard, tall windows, subtle academic details, and a clean, slightly nostalgic university atmosphere.
+
+She has refined Filipino-Korean facial features, clear natural skin, expressive dark-brown eyes, and long, silky dark-brown hair with soft natural waves and delicate face-framing strands.
+
+She wears an attractive sophisticated campus-inspired outfit: a {argument name="outfit" default="fitted cream knit top layered beneath a tailored dark-brown blazer, paired with a high-waisted pleated midi skirt and elegant loafers"}. The styling should feel fashionable, feminine, youthful, and naturally suited to the classroom environment—polished rather than overly formal.
+
+Pose her confidently beside one of the desks, with her body turned slightly three-quarters toward the camera. One hand rests lightly on the edge of the desk while the other gently touches her hair. Her posture is relaxed and elegant, with one leg subtly positioned forward. She looks directly toward the camera with a soft, confident expression and a subtle closed-mouth smile.
+
+Use soft cinematic window light entering from one side of the classroom, creating gentle highlights across her face and hair while leaving the opposite side slightly shadowed. Warm natural daylight, subtle atmospheric depth, realistic soft shadows, delicate highlights, and a premium fashion-editorial mood.
+
+Capture the scene with an 85mm lens at f/1.8, shallow depth of field, sharp focus on her eyes and face, realistic skin texture, natural hair strands, authentic fabric details, subtle film grain, realistic proportions, cinematic color grading, high dynamic range, and ultra-detailed 8K photorealism.
+
+Composition: vertical 4:5 fashion editorial framing, full-body portrait, balanced classroom environment visible around her, natural perspective, elegant negative space.
+
+No other people, no visible camera equipment, no text, no logos, no watermark, no exaggerated body proportions.
+```
+
+**来源：** [@Clark Rhuzel](https://x.com/clarkrhuz/status/2086846487573692553) | 2026-08-10
+
+---
+
+### 🎨 例 5849：Proud Hamster Warlord at Sunset
+
+![Proud Hamster Warlord at Sunset](../images/Proud%20Hamster%20Warlord%20at%20Sunset.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic photorealistic fantasy portrait of a proud anthropomorphic hamster warrior general standing on a rocky cliff at sunset. The hamster is chubby and golden-brown with a cream belly, realistic soft fur, tiny rounded ears, long whiskers, small dark confident eyes, and a smug satisfied smile. It stands upright in a heroic low-angle composition with both small arms crossed over its chest, looking slightly upward and to the right as if surveying a battlefield. Dress it in ornate ancient warlord armor: two dark bronze shoulder pauldrons with gold trim and swirling engraved patterns, layered leather/metal chest details, a red scarf at the neck, and a dark crimson cape hanging behind the left side. The setting is an epic mountain overlook with rugged rocks in the foreground and distant hazy mountains. The sky is filled with dramatic orange-gold sunset clouds, with the sun low near the right horizon creating warm rim light around the hamster’s fur and armor. Use ultra-detailed CGI realism, cinematic lighting, shallow depth of field, warm color grading, heroic fantasy movie atmosphere, no text, no watermark. Optional subject customization: {argument name="animal warrior" default="anthropomorphic hamster warrior general"}, {argument name="armor style" default="ornate ancient bronze warlord armor"}, {argument name="cape color" default="dark crimson"}, {argument name="pose" default="arms crossed with a smug proud smile"}, {argument name="background" default="rocky mountain cliff at golden sunset"}.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2086841613742227534) | 2026-08-10
+
+---
+
+### 🎨 例 5854：Pink-Haired Character Reference Sheet
+
+![Pink-Haired Character Reference Sheet](../images/Pink-Haired%20Character%20Reference%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean studio character consistency sheet for {argument name="character name" default="a young woman"}, designed as a model reference board for gpt-image-2.
+
+Canvas: Wide horizontal 16:9 white background, minimalist editorial layout, soft even studio lighting, realistic high-fashion photography style, sharp but natural skin texture, no watermark.
+
+Layout: Use exactly two rows. The top row contains 5 panels: 3 full-body standing turnarounds on the left labeled FRONT, SIDE, and BACK, plus 2 cropped detail callout panels on the right. The bottom row contains exactly 6 square head-and-shoulders expression portraits aligned evenly across the width.
+
+Subject details: The same young East Asian woman appears consistently in every panel, with pale skin, slim build, soft oval face, large eyes with subtle eyeliner, straight brows, small nose, full natural lips, and {argument name="hair color" default="messy dusty pink hair"}. Her hair is long, slightly wavy, tousled, side-parted, and voluminous, falling past the shoulders. Outfit is consistent: {argument name="top" default="loose gray off-shoulder knit sweater"}, white straight-leg pants, and white sneakers. Keep the sweater slouchy with one shoulder exposed and long sleeves covering part of the hands.
+
+Top row details: The 3 full-body views show the character standing neutrally against pure white: FRONT view facing camera, SIDE view in profile, BACK view turned away with hair visible down the back. Add small uppercase black labels above each full-body figure: FRONT, SIDE, BACK. To the right, include a close-up face portrait with a thin black horizontal callout line pointing to the hair and the label MESSY PINK HAIR. Beneath it, include a cropped shoulder-and-knit texture detail with a thin black callout line and the label OFF-SHOULDER KNIT.
+
+Bottom row expression set: Include exactly 6 expression portraits of the same character, each cropped from chest or shoulders up and labeled in small uppercase black text underneath. From left to right: 1) NEUTRAL, calm mouth closed; 2) SMILE, bright friendly smile showing teeth; 3) SERIOUS, focused slightly pouty expression; 4) SURPRISED, eyes wide and mouth open; 5) SAD, subdued downturned mouth and tired eyes; 6) ANGRY, furrowed brows and tight pout.
+
+Visual style: High-key white studio photography, clean fashion look, crisp product-reference composition, consistent face identity across all panels, realistic proportions, soft shadows, muted pastel pink and gray color palette.
+
+Constraints: Use exactly 3 full-body views, exactly 2 detail callouts, and exactly 6 expression portraits. Keep all labels in English uppercase, small black sans-serif type. Do not add extra props, extra characters, logos, borders, decorative graphics, or additional expressions.
+```
+
+**来源：** [@金尘马](https://x.com/jinchenma_ai/status/2086812835154444357) | 2026-08-10
+
+---
+
+### 🎨 例 5855：Crimson Forest Landscape Photography
+
+![Crimson Forest Landscape Photography](../images/Crimson%20Forest%20Landscape%20Photography.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic landscape photography of a perfectly still mountain lake surrounded by dense evergreen and alpine forest, with every tree transformed into rich crimson, burgundy and deep magenta foliage. Distant blue-gray mountains rise softly behind the forest. A thin layer of atmospheric mist floats just above the water near the shoreline. The lake creates an almost perfectly symmetrical reflection of the crimson forest and mountains. Muted overcast sky, soft diffused natural light, dreamy atmospheric mood, subtle haze, deep shadows, sophisticated cinematic color grading, crimson and burgundy foliage contrasted with cool blue-gray sky and water. Photorealistic natural textures, realistic trees and vegetation, highly detailed reflection, professional landscape photography, 35mm lens, wide composition, HDR, subtle film grain, premium editorial photography, ultra-realistic, 8K quality. No people, no buildings, no artificial objects, no fantasy creatures, no text, no watermark. Ultra-realistic cinematic aerial drone photograph looking down over a vast dense coniferous forest, with the entire forest covered in intense crimson, ruby-red and deep magenta foliage. A narrow winding dirt road cuts naturally through the center of the forest, disappearing into the trees in the distance. Tall pine and fir trees create layers of depth across rolling forested terrain. Soft natural daylight with a pale blue sky and a few subtle white clouds, realistic atmospheric perspective, rich but controlled crimson color palette, dark burgundy shadows and muted earthy road tones. Photorealistic tree detail, natural irregular vegetation, cinematic aerial composition, high-altitude drone photography, 24mm equivalent lens, realistic depth and scale, premium color grading, subtle film grain, HDR, ultra-detailed, 8K. No people, cars, buildings, power lines, text or watermark. Ultra-realistic cinematic photograph of a spectacular tall waterfall cascading down a dark rocky cliff inside a dense lush forest. The entire surrounding vegetation has a surreal crimson, burgundy, wine-red and deep magenta color palette, while the waterfall remains naturally cool white and pale cyan-blue. Large detailed fern leaves dominate the foreground on both sides, creating a natural frame around the waterfall. Dense tropical vegetation, moss-covered rocks, mist rising from the waterfall pool, small streams flowing over dark rocks in the foreground. Deep atmospheric shadows and soft diffused light create a mysterious cinematic mood. Strong contrast between crimson vegetation and icy blue-white water, realistic water motion, highly detailed leaves, realistic wet rocks, volumetric mist, natural depth, professional nature photography, 28mm wide-angle lens, shallow atmospheric perspective, cinematic color grading, HDR, subtle film grain, photorealistic, masterpiece quality, 8K. No people, no buildings, no fantasy objects, no text, no watermark. Ultra-realistic cinematic aerial drone photograph of a vast mountainous valley completely covered in dense crimson, scarlet, ruby-red and deep magenta forest. A brilliant turquoise-blue river winds dramatically through the landscape in multiple sweeping S-shaped curves, creating a striking contrast against the red forest. High aerial perspective revealing enormous scale, layered forest-covered hills, exposed rocky cliffs and narrow riverbanks. The turquoise water is crystal clear with realistic variations in color, subtle reflections and natural sediment patterns. Dramatic winding river composition leading the viewer's eye through the entire frame.
+```
+
+**来源：** [@WeWant Mars](https://x.com/Madhuribhai/status/2086806779363783146) | 2026-08-10
+
+---
+
+### 🎨 例 5858：Pastel Editorial Fashion Portrait
+
+![Pastel Editorial Fashion Portrait](../images/Pastel%20Editorial%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic editorial fashion portrait of a man use image for face reference . He is looking directly at the camera with a calm, slightly dreamy expression. He wears an {argument name="clothing" default="oversized light-blue and white color-blocked collared shirt"}, slightly open at the neckline, with a subtle silver thick bracelet. He holds stylish aviator sunglasses with blue-tinted lenses delicately near his chest, while one thin sunglasses temple is raised near his chin. Soft studio lighting, gentle highlights and realistic skin texture, {argument name="background color" default="pastel dusty-pink"} background, clean minimalist composition, luxury fashion editorial aesthetic, shallow depth of field, 85mm portrait lens, natural proportions, highly detailed hair strands, cinematic color grading, soft shadows, crisp focus on the eyes, vertical portrait, 4:5 aspect ratio, ultra-realistic photography.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2086796160950513768) | 2026-08-10
+
+---
+
+### 🎨 例 5861：Soft Preppy Bathroom Mirror Selfie
+
+![Soft Preppy Bathroom Mirror Selfie](../images/Soft%20Preppy%20Bathroom%20Mirror%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic vertical 3:4 mirror selfie in a softly lit minimalist bathroom. A young woman with fair skin poses naturally while holding a dark smartphone up in front of her face to photograph her reflection, smiling subtly and looking toward the phone screen. She has a wavy dark brown high ponytail tied with a black bow, wispy face-framing bangs, and tortoiseshell sunglasses resting on top of her head. Her outfit has exactly 5 visible fashion elements: 1) cream ribbed V-neck knit sweater vest, 2) crisp white collared button-up shirt underneath with slightly puffed rolled sleeves, 3) beige pleated mini skirt, 4) slim brown leather wristwatch on her phone-holding wrist, 5) slim brown leather wristwatch on her crossed arm. Use a warm neutral color palette and cozy academia / soft preppy styling. The bathroom background should include exactly 2 decor items: 1) a neatly folded white towel on a ledge behind her, 2) a small green potted plant in a simple white pot on the stone counter. Use beige stone tiles, clean modern lines, soft diffused daylight from the side, shallow depth of field, phone-camera realism, editorial soft-glam retouching, natural skin texture, gentle highlights, no harsh flash, no text, no watermark. Customize: {argument name="hair color" default="dark brown"}, {argument name="sweater vest color" default="cream"}, {argument name="skirt color" default="beige"}, {argument name="phone color" default="dark charcoal"}, {argument name="bathroom tile color" default="warm beige"}.
+```
+
+**来源：** [@Ahmad Faraz](https://x.com/iamahmedfaraz66/status/2086782988252254533) | 2026-08-10
+
+---
+
+### 🎨 例 5863：Avant-Garde Sports Editorial
+
+![Avant-Garde Sports Editorial](../images/Avant-Garde%20Sports%20Editorial.jpg)
+
+**Prompt:**
+
+```text
+Avant-garde sports fashion, advertising, a {argument name="subject" default="huge tennis ball"} set up like a monumental sculpture, a {argument name="athlete" default="male athlete"} sprawled across the curved surface of the ball like modern furniture, the huge word "{argument name="text label" default="GOAL"}" in bold typography behind, the background of the burnt green studio, shiny mirrored floor, luxurious sports editorial style, cinematic lighting, ultra-pure composition, 1:1
+```
+
+**来源：** [@Al-Shamus](https://x.com/im_shahid7/status/2086775895017361435) | 2026-08-10
+
+---
+
+### 🎨 例 5867：Traditional Balcony Cinematic Portrait
+
+![Traditional Balcony Cinematic Portrait](../images/Traditional%20Balcony%20Cinematic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use my uploaded reference image as the primary facial identity reference and preserve my exact facial identity with maximum accuracy. Keep my face shape, jawline, cheekbones, eyebrows, eyes, nose, lips, ears, skin tone, hairstyle, hair texture, beard/stubble pattern, and all distinctive facial features consistent and recognizable. Do not change, beautify, stylize, or replace my identity.
+
+Create a highly photorealistic cinematic portrait of me standing on an old traditional balcony, wearing a {argument name="clothing" default="loose, oversized black T-shirt with relaxed sleeves and natural fabric folds"}. The T-shirt should have a {argument name="fabric" default="premium heavyweight cotton texture"} and drape naturally over my body.
+
+I am standing confidently behind an aged wrought-iron balcony railing with decorative curved patterns. My body is slightly angled toward the camera while my head is tilted subtly upward and toward the side, creating a {argument name="expression" default="calm, mysterious and introspective expression"}. One hand rests naturally near my waist while the other remains relaxed.
+
+Keep my appearance masculine and natural, with realistic skin texture, visible pores, subtle facial imperfections, detailed hair strands and realistic beard texture. Add a simple silver chain necklace, subtle silver rings, bracelets, and a small metallic hoop earring. A cigarette rests naturally between my lips, producing soft wisps of realistic smoke drifting upward into the darker background.
+
+The background features an old Indian-style residential building, with a large dark arched doorway, aged plaster walls, weathered architectural details and deep shadows. The balcony railing occupies the lower foreground and creates strong depth between the camera and subject.
+
+Use soft warm natural daylight from the side, illuminating my face and shoulders while maintaining deep cinematic shadows around the doorway. Add subtle atmospheric haze and realistic volumetric smoke.
+
+Camera: vertical 4:5 portrait, eye/chest-level perspective with a slight low-angle feel, 85mm portrait lens, f/2–f/2.8, shallow depth of field, sharp focus on my face and upper body, softly blurred background.
+
+Visual style: ultra-photorealistic, cinematic editorial photography, natural skin tones, realistic fabric and metal textures, detailed beard and hair, physically accurate lighting, subtle film grain, rich tonal range, muted warm colors, dramatic but natural shadows, premium DSLR/medium-format photography, 8K detail.
+
+Negative prompt: different person, altered identity, face distortion, excessive beautification, plastic skin, CGI, cartoon, artificial muscles, unrealistic anatomy, deformed hands, extra fingers, warped jewelry, unnatural smoke, oversaturated colors, excessive HDR, blurry face, low detail, watermark, text, logo.
+```
+
+**来源：** [@Professor](https://x.com/Professor_134/status/2086764990670021011) | 2026-08-10
+
+---
+
+### 🎨 例 5869：Two Maid Cafe Girls Making a Heart
+
+![Two Maid Cafe Girls Making a Heart](../images/Two%20Maid%20Cafe%20Girls%20Making%20a%20Heart.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic, high-quality portrait photo of two young Japanese women dressed as cute maid cafe waitresses, standing close together inside a pastel kawaii maid cafe. Both wear matching classic black-and-white maid uniforms: black short-sleeve dresses, white puffed sleeves, white lace-trimmed collars and bib fronts, white aprons with ruffled edges and small bow details near the lower corners, and white lace maid headbands over dark hair. The woman on the left has {argument name="left woman hairstyle" default="long straight dark brown hair with soft bangs"}, a calm slightly serious expression, and looks directly at the camera. The woman on the right has {argument name="right woman hairstyle" default="long wavy dark brown hair parted to the side"}, a gentle friendly smile, and also looks at the camera. They raise their hands together in the center to form one heart shape with their fingers. Use a medium close-up vertical composition from about mid-thigh to above the head, with the two subjects filling most of the frame. Background: softly blurred warm cream and pastel pink interior with cute patterned wallpaper, menu boards or framed posters on the wall, plush toys and small decorative objects on shelves, and cozy ceiling lights or chandeliers creating a warm glow. Style: photorealistic Japanese maid cafe snapshot, natural skin texture, soft flattering lighting, shallow depth of field, warm beige-pink color grading, crisp focus on faces and hands, cute but realistic atmosphere. Avoid text overlays, watermarks, extra fingers, distorted hands, duplicate people, or exaggerated anime features.
+```
+
+**来源：** [@吉野理沙](https://x.com/Raizoh5/status/2086761728554246241) | 2026-08-10
+
+---
+
+### 🎨 例 5871：Seaside Cave Cinematic Portrait
+
+![Seaside Cave Cinematic Portrait](../images/Seaside%20Cave%20Cinematic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A cinematic seaside portrait of a {argument name="subject" default="young woman"} standing on dark volcanic rocks inside a natural sea cave, framed by the rugged cave opening. She has long dark hair blowing dramatically in the ocean breeze, playfully winking at the camera with a soft smile. She wears a casual {argument name="clothing" default="white graphic T-shirt, light blue jeans, and white sneakers"}, with a small yellow flower detail near her shoulder. Powerful ocean waves crash behind her, creating sparkling water droplets and dramatic motion. The warm setting sun sits directly behind her head, creating beautiful golden rim lighting and lens flare, while the sky glows with soft blue, peach, and golden tones. A large hand reaches toward the camera in the extreme foreground, creating strong depth and a dynamic perspective. Wide-angle smartphone photography, realistic skin texture, natural lighting, high detail, candid travel photography, cinematic composition, shallow atmospheric haze, vertical 4:5 composition
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2086746848682029540) | 2026-08-10
+
+---
+
+### 🎨 例 5872：Sunny Meadow Picnic Portrait
+
+![Sunny Meadow Picnic Portrait](../images/Sunny%20Meadow%20Picnic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical 9:16 Korean summer portrait photograph of a young woman lying on her stomach on a red-and-white gingham picnic blanket in a lush midsummer wildflower meadow. She is surrounded by many white daisies with yellow centers, small pale pink wildflowers, and green grass, with several oversized blurred daisies in the extreme foreground for depth, including one large daisy near the lower center, one large partial daisy at the lower left, one large partial daisy at the lower right, and one cropped daisy entering from the upper left edge. The sky is vivid clear blue and the background has dense leafy green trees, bright transparent sunlight, fresh natural colors, and a breezy outdoor feeling. The woman has {argument name="hair color" default="long natural black hair"} worn loose and slightly fluffy, realistic skin texture, clean translucent base makeup, soft pink lips, natural brows and eyes, and a gentle sweet expression that feels candid rather than overly polished. She props her cheek on one hand and looks calmly at the camera, legs bent upward behind her with white socks and white sneakers visible. Dress her in a light summery outfit: a sheer white cardigan over a pale floral or light blue dress or skirt, with a delicate necklace. Add a wide woven straw sunhat decorated around the brim with small pink flowers and wispy straw strands. Use a low, close, slightly wide-angle camera perspective from flower height, with shallow depth of field, crisp focus on her face, soft bokeh in foreground and background, realistic photography, high detail, no plastic skin, no heavy retouching. Include exactly 3 white handwritten doodle overlays: a small sun icon in the upper left sky, the text {argument name="sky note" default="Sunny day"} beside it, and a tiny heart with the phrase {argument name="bottom note" default="Enjoying Vibes"} near the lower right over the blanket. Keep the mood cute, airy, romantic, and summery.
+```
+
+**来源：** [@serein](https://x.com/you1873118/status/2086746818038337781) | 2026-08-10
+
+---
+
+### 🎨 例 5873：Cinematic Fantasy Skyscraper Portrait
+
+![Cinematic Fantasy Skyscraper Portrait](../images/Cinematic%20Fantasy%20Skyscraper%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A breathtaking cinematic {argument name="subject" default="fantasy portrait of a beautiful woman"} standing on the edge of a skyscraper above a vast futuristic city at night. She reaches upward with both hands and physically {argument name="action" default="pulls the dark stormy sky apart like an enormous silk curtain"}, revealing a spectacular hidden universe behind it.
+
+Inside the opening, show a gigantic glowing planet, swirling galaxies, distant moons, golden constellations, nebula clouds and thousands of brilliant stars. Streams of golden stardust fall from the opening into the city below.
+
+The woman wears an {argument name="outfit" default="elegant flowing midnight-blue gown"} that gradually dissolves into sparkling stars. Her long hair moves naturally in the cosmic wind. Below her, the city glows with warm lights, rooftop gardens, futuristic towers, waterfalls and subtle flying vehicles.
+
+Create dramatic scale, strong depth, realistic lighting, volumetric atmosphere, deep midnight blues contrasted with warm golden cosmic light, extremely detailed architecture, realistic fabric and hair, cinematic photography, premium fantasy movie-poster quality, breathtaking and mysterious, visually designed to make viewers stop and explore the details.
+
+Portrait composition, 4:5 aspect ratio, subject positioned in the lower-middle area with the enormous cosmic opening dominating the upper half.
+
+No text, no typography, no logos, no watermark, no border.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2086739085482496471) | 2026-08-10
+
+---
+
+### 🎨 例 5876：Supernatural Portrait with Glowing Eyes
+
+![Supernatural Portrait with Glowing Eyes](../images/Supernatural%20Portrait%20with%20Glowing%20Eyes.jpg)
+
+**Prompt:**
+
+```text
+Use my uploaded photo as the exact facial identity reference. Preserve my face, facial structure, eyes, nose, lips, jawline, beard, skin tone, and overall identity accurately. Do not change or beautify my facial features.
+
+Create a cinematic, {argument name="style" default="dark supernatural portrait"} of me as a mysterious powerful character.
+
+Composition: vertical 4:5 portrait, centered head-and-shoulders framing. I am facing directly toward the camera with my head slightly tilted upward, looking toward the sky. Symmetrical composition with my face as the main focal point.
+
+Appearance: dark neatly styled voluminous hair swept backward, well-groomed short beard and mustache, wearing a {argument name="clothing" default="black high-neck shirt underneath a heavy black coat"}. A subtle metallic chain is visible around the neck.
+
+Eyes: make both eyes intensely supernatural — glowing {argument name="eye color" default="electric blue/icy-blue"} irises with bright luminous cores and a soft blue aura radiating around the eyes. The glow should illuminate the surrounding eyelids and upper cheeks realistically. Keep the actual shape of my eyes and face unchanged.
+
+Lighting: dramatic dark blue cinematic lighting, strong cool rim light from behind, subtle blue illumination on the face, deep shadows, high contrast, atmospheric volumetric lighting.
+
+Background: mysterious dark blue-black environment with soft out-of-focus circular particles/bokeh floating in the air, subtle mist and atmospheric haze, faint vertical light rays behind the subject.
+
+Style: ultra-realistic cinematic photography, dark fantasy, supernatural thriller aesthetic, premium Hollywood movie poster quality, realistic skin texture, detailed beard and hair, sharp facial details, shallow depth of field, soft background bokeh, dramatic color grading, photorealistic.
+
+Important: Keep my identity extremely consistent with the uploaded reference image. Do not make me look like another person. No excessive skin smoothing, no facial distortion, no extra facial features, no cartoon/anime appearance.
+
+Final image should look like a mysterious supernatural character awakening with powerful glowing blue eyes. No text, no logos, no interface elements, no watermark.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2086731968490905686) | 2026-08-10
+
+---
+
+### 🎨 例 5881：Hot Air Balloon Vlog Storyboard
+
+![Hot Air Balloon Vlog Storyboard](../images/Hot%20Air%20Balloon%20Vlog%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean, information-dense storyboard infographic for a travel vlog titled {argument name="headline text" default="30-SECOND ULTRA-REALISTIC CINEMATIC TRAVEL VLOG - STORYBOARD"}, showing a cinematic hot-air-balloon adventure at sunrise with one consistent female protagonist.
+
+Canvas: Wide horizontal 16:9 storyboard sheet on a white background with thin black/gray grid lines, like a professional production planning board. Use a bold centered all-caps headline across the top. Arrange the main content in exactly 6 numbered scene cards in a 3-column by 2-row grid, with a lower technical notes strip spanning the full width.
+
+Visual style: Photorealistic cinematic travel documentary stills, 4K HDR feel, golden sunrise light, shallow depth of field, realistic skin texture, warm atmospheric haze, natural wind movement, professional camera quality. The setting is a beautiful hot-air-balloon launch site and aerial valley landscape with vineyards, winding rivers, mountains, villages, baskets, burner flames, and many colorful balloons.
+
+Main character: Use one female protagonist, {argument name="character name" default="the same young woman throughout"}, with shoulder-length dark brown hair, natural makeup, warm medium skin tone, soft oval face, and a friendly smile. She wears the same {argument name="wardrobe" default="ivory cream dress with a light beige cardigan"} in every image. Preserve her identity consistently in all scenes; no duplicate characters and no face drift.
+
+Layout: Each of the 6 scene cards should contain cinematic thumbnail frames along the top and small production notes underneath. Use black uppercase section labels and compact readable text. The thumbnails should alternate between drone-wide landscape views, close-up portrait/selfie shots, basket/burner details, and aerial balloon views.
+
+Scene cards: Include exactly 6 numbered storyboard sections:
+1. Sunrise Introduction (0–4 sec): three thumbnails showing a sunrise drone-wide view of dozens of balloons, the woman walking toward the launch area, and a close selfie-style smiling portrait with balloons behind her. Notes: Scene/action: drone wide reveal of balloons at sunrise; cut to walking selfie as she approaches the launch field, smiling. Dialogue: {argument name="opening dialogue" default="Good morning! Today we're finally going on a hot air balloon adventure!"}
+2. Preparing for Takeoff (4–8 sec): four thumbnails showing colorful balloon fabric inflating, realistic burner flames, the woman watching excitedly beside the balloon, and her near/inside the basket. Notes: crew inflates balloons, burner fires, she talks to pilot, watches balloon expand, and steps into the basket. Dialogue: “I can't believe how massive these balloons are up close!” Camera/movement: wide, close-up burner, gimbal follow, POV entering basket.
+3. Lift-Off (8–13 sec): three thumbnails showing a close-up portrait of the woman, a side profile at the basket rail, and a wide aerial landscape with balloons floating. Notes: balloon lifts off, she records selfie and looks over edge as the landscape shrinks below. Dialogue: “We're actually floating... this is unbelievable!” Camera/movement: selfie, drone orbit, over-shoulder, wide aerial shot.
+4. Floating Above the Valley (13–18 sec): three thumbnails showing a high aerial valley with river and balloons, a close portrait in the basket, and a POV view over vineyards and villages. Notes: golden sunlight over valley, rivers, vineyards, and hills; she admires the view and points at distant balloons. Dialogue: “This has to be one of the most beautiful views I've ever seen.” Camera/movement: 360° orbit, close-up, ultra-wide drone, POV over basket edge.
+5. Magical Mid-Flight Moments (18–24 sec): three thumbnails showing basket ropes/burner hardware in close-up, the woman holding the camera selfie-style, and her waving toward another colorful balloon nearby. Notes: she takes photos, waves to other ballooners, and enjoys peaceful mid-flight moments. Dialogue: “I never imagined it would feel this peaceful.” Camera/movement: macro, handheld selfie, wide aerial, tracking side angle.
+6. Landing & Farewell (24–30 sec): three thumbnails showing the balloon landing with crew silhouettes, a smiling farewell portrait, and a final aerial view of balloons in the sunrise haze. Notes: balloon lands, she steps out, thanks the crew, and waves goodbye as the drone pulls away. Dialogue: “What an unforgettable experience. Thanks for coming along, and I'll see you in the next adventure!” Camera/movement: wide landing, medium follow, close-up, drone pull-away.
+
+Bottom technical strip: Include exactly 5 labeled information boxes across the bottom plus a small centered character portrait near the identity box. The 5 boxes are: Camera & Cinematography, Audio, Environment, Character (Locked Identity), and Negative Prompt. Fill them with compact bullet-style text: Sony FX3, RED V-Raptor, DJI Ronin 4D, DJI Mini 4 Pro drone, 24mm/35mm/50mm/65mm lenses, handheld/gimbal/drone/POV/orbit, 4K HDR, shallow DOF, natural light; natural dialogue, wind, burner flames, birds, crew conversations, basket creaks, footsteps, soft cinematic orchestral music; sunrise hot-air balloon site, colorful balloons, wicker baskets, burners, valleys, rivers, vineyards, mountains, golden-hour light, realistic weather and atmosphere; use uploaded reference as single source, same face/hair/skin tone/makeup, ivory dress and beige cardigan, natural expressions only, no identity drift or wardrobe changes; no face distortion, no identity drift, no duplicate characters, no broken anatomy, no extra fingers, no deformed hands, no flickering, no frame warping, no inconsistent wardrobe, no logos, no watermarks, no subtitles, no timestamps, no UI overlays.
+
+Constraints: The final image must read as a polished production storyboard, not a movie poster. Keep all 6 scene cards visible and numbered, keep the bottom 5 technical boxes, use consistent typography, preserve the same woman and outfit in every thumbnail, and avoid adding extra scenes or extra characters as protagonists.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2086694276990484738) | 2026-08-10
+
+---
+
+### 🎨 例 5882：Korean Woman Classroom Editorial Portrait
+
+![Korean Woman Classroom Editorial Portrait](../images/Korean%20Woman%20Classroom%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-photorealistic cinematic editorial photograph of a beautiful young adult Korean woman in her early 20s inside a {argument name="location" default="completely empty modern classroom"}. The classroom has rows of wooden desks and chairs, a large green chalkboard, tall windows, subtle academic details, and a clean, slightly nostalgic university atmosphere.
+
+She has refined Korean facial features, clear natural skin, expressive dark-brown eyes, and long, silky dark-brown hair with soft natural waves and delicate face-framing strands.
+
+She wears an attractive {argument name="clothing" default="sophisticated campus-inspired outfit: a fitted cream knit top layered beneath a tailored dark-brown blazer, paired with a high-waisted pleated midi skirt and elegant loafers"}. The styling should feel fashionable, feminine, youthful, and naturally suited to the classroom environment—polished rather than overly formal.
+
+Pose her {argument name="pose" default="confidently beside one of the desks, with her body turned slightly three-quarters toward the camera"}. One hand rests lightly on the edge of the desk while the other gently touches her hair. Her posture is relaxed and elegant, with one leg subtly positioned forward. She looks directly toward the camera with a soft, confident expression and a subtle closed-mouth smile.
+
+Use soft cinematic window light entering from one side of the classroom, creating gentle highlights across her face and hair while leaving the opposite side slightly shadowed. Warm natural daylight, subtle atmospheric depth, realistic soft shadows, delicate highlights, and a premium fashion-editorial mood.
+
+Capture the scene with an 85mm lens at f/1.8, shallow depth of field, sharp focus on her eyes and face, realistic skin texture, natural hair strands, authentic fabric details, subtle film grain, realistic proportions, cinematic color grading, high dynamic range, and ultra-detailed 8K photorealism.
+
+Composition: vertical 4:5 fashion editorial framing, full-body portrait, balanced classroom environment visible around her, natural perspective, elegant negative space.
+
+No other people, no visible camera equipment, no text, no logos, no watermark, no exaggerated body proportions.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2086689318740148576) | 2026-08-10
+
+---
+
+### 🎨 例 5887：Glass Entrance Reflection Portrait
+
+![Glass Entrance Reflection Portrait](../images/Glass%20Entrance%20Reflection%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic experimental cinematic portrait inside a large rotating glass entrance at night. One {argument name="subject" default="naturally beautiful woman"} stands extremely close behind the central curved glass panel, framed from the chest upward, looking directly through the glass into the camera with calm open eyes and relaxed closed lips. Her central face remains completely clear and sharply resolved, surrounded by three elongated partial reflections of her profile flowing through the neighboring curved panels. {argument name="subject details" default="Shoulder length dark wavy hair, distinctive natural face, subtle asymmetry, faint freckles, visible pores and realistic skin"}. {argument name="outfit" default="Deep cobalt blue cotton crew neck top"}. The revolving glass transforms passing pedestrians and city lights into sweeping arcs of saturated crimson, cyan and warm amber around her. Rain droplets catch the light, one subtle flash shapes her face, rich transparent layers, strong circular movement, intimate eye level framing, authentic 35mm grain, analog color bleed, soft halation and raw optical realism --chaos 13 --ar 4:5 --raw --profile be6pjat --stylize 325 --weird 10 --hd
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2086678211837260118) | 2026-08-10
+
+---
+
+### 🎨 例 5888：Summer Vending Machine Side Portrait
+
+![Summer Vending Machine Side Portrait](../images/Summer%20Vending%20Machine%20Side%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+主題：
+真夏の{argument name="背景要素" default="自販機サイド"}
+
+主体：
+鮮やかな青空の下、{argument name="色の指定" default="青い"}飲料自販機と小型の白い折りたたみ自転車の横に立つ20代女性。自転車のハンドルに片手を添え、身体を斜め後ろ向きにしながらカメラへ振り返っている夏の屋外ポートレート。
+
+人物・表情：
+20代女性。やや小顔の卵型フェイス、すっきりした顎、柔らかなブラウン系の瞳、自然な平行眉、細い鼻筋、淡いピンクの唇。カメラをまっすぐ見る穏やかで少し甘い表情。薄いピンクベージュ系のアイメイク、自然な睫毛、淡いコーラルのチーク、透明感のあるナチュラルな肌。{argument name="髪型" default="ダークブラウンのロングヘア"}を肩から背中へ自然に下ろし、軽いシースルーバングと顔周りのレイヤー、毛先にごく緩い動きをつけた現代的な日系ヘア。
+
+服装・ポーズ：
+白いレース素材のキャミソール型ミニワンピース。細い肩紐、背中が大きく開いたデザイン、背面中央に細いレースアップ、ウエストを軽く絞ったシルエット、非常に短いミニ丈と繊細な花柄レースの裾。白いローカットスニーカー。身体は自転車に対して斜め後ろ向きで、腰を軽くひねりながら肩越しに振り返る。片手で自転車のハンドルを持ち、もう片方の人差し指を頬から口元の近くへ軽く添える。
+
+背景・光：
+画面左に大きな青い飲料自販機があり、内部には色とりどりのペットボトル飲料が並ぶ。人物の足元から背後にかけて小径ホイールの白い折りたたみ自転車。遠景には夏の濃い緑、低い山並み、白い雲。強く澄んだ真夏の日差しで、人物の髪や肩、脚、白いレースに自然なハイライトが入り、地面には明瞭な影が落ちる。
+
+構図・カメラ：
+縦3:4。人物の全身を画面中央からやや右寄りに大きく配置。自販機を左側、自転車を人物の下半身から背景側へ配置した三角形の構成。低めのカメラ位置からわずかに見上げるアングルで、脚を長く見せる自然な広角寄りの遠近感. 人物の顔と身体をシャープに合わせ、遠景の山や緑は柔らかくぼかす。
+
+質感・スタイル：
+高精細なフォトリアル写真。肌は過度に磨かず、頬や肩、腕、脚に自然な毛穴と微細な肌理が見えるリアルな質感。鮮やかな夏の青と白を基調にしつつ、HDR感や過剰なシャープ処理を避けた自然な写真表現。
+
+ネガティブ：
+過度な美肌処理；髪型の短髪化やまとめ髪
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2086674299746767347) | 2026-08-10
+
+---
+
+### 🎨 例 5889：Ethereal Xianxia Sword Maiden
+
+![Ethereal Xianxia Sword Maiden](../images/Ethereal%20Xianxia%20Sword%20Maiden.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical cinematic fantasy portrait of {argument name="character name" default="an ethereal xianxia sword maiden"} flying through mist beside a towering waterfall in a cold blue-gray mountain gorge. She is a beautiful young woman with porcelain skin, delicate features, soft red lips, and a calm melancholic gaze looking directly at the viewer. Her {argument name="hair color" default="long black hair"} streams dramatically to the left as if caught by strong wind and waterfall spray, decorated with an intricate silver crystal headpiece, dangling chains, pearls, and a pale tassel. She wears a flowing translucent {argument name="dress color" default="white"} layered gauze gown with shimmering silver embroidery, beaded straps, sheer sleeves, and long ribbons billowing around her body like clouds. Her right arm reaches downward toward the viewer holding an ornate silver sword; the blade extends diagonally from the lower center toward the bottom right foreground with sparkling water droplets along it. Compose the scene from a high dynamic angle, full body mostly visible, her figure centered slightly left, waterfall roaring down the right side, dark wet cliffs in the background, dense mist and spray filling the lower half, tiny droplets and ice-like particles suspended in the air. Use ultra-detailed fantasy realism, Chinese immortal heroine aesthetic, soft luminous skin, dramatic backlight from the upper left, volumetric fog, cool desaturated palette, high contrast between white fabric and dark rocks, shallow depth of field, elegant motion blur in hair and fabric, 9:16 mobile wallpaper composition, no text, no watermark.
+```
+
+**来源：** [@AIVideoHub 🕊️](https://x.com/AIVideoHub_/status/2086664802429268443) | 2026-08-10
+
+---
+
+### 🎨 例 5890：Cinematic Monochrome Fashion Portrait
+
+![Cinematic Monochrome Fashion Portrait](../images/Cinematic%20Monochrome%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic cinematic black-and-white fashion portrait that matches the reference image as closely as possible.
+
+HAIRSTYLE — VERY IMPORTANT:
+Recreate the SAME hairstyle as the reference:
+{argument name="hairstyle" default="dark long hair pulled into a messy, elegant low/high bun at the back, with natural loose strands framing both sides of the face and a few soft strands falling around the forehead and cheeks"}. Hair should have the same volume, texture, messy-but-elegant styling, and overall silhouette as the reference image.
+Do not use straight loose hair. The bun hairstyle must be clearly visible and closely match the reference.
+
+POSE:
+Match the reference pose extremely closely.
+Chest-up to waist-up portrait.
+Body facing mostly forward.
+Head turned slightly toward the RIGHT side of the image.
+Face looking toward the right, NOT directly at the camera.
+Confident, serious, composed expression.
+Chin slightly raised.
+Shoulders relaxed and naturally positioned.
+Both hands placed inside the blazer pockets, exactly like the reference.
+Recreate the same elegant confident fashion-model posture.
+
+OUTFIT — MATCH THE REFERENCE:
+Wear the same style of clothing:
+{argument name="outfit" default="a sophisticated tailored black blazer with structured shoulders, black satin/silk-like button-up shirt underneath, shirt slightly open at the collar, no tie, all-black luxury executive fashion styling"}.
+The blazer should have the same cut, lapels, button placement, pocket details, and overall silhouette as the reference.
+Keep the outfit modest, elegant, fully covered, and professional.
+
+SUNGLASSES:
+Add the same style of black sunglasses as the reference image.
+{argument name="sunglasses" default="Dark matte/black sunglasses with a similar rectangular/cat-eye shape, size, position, and angle"}.
+The sunglasses must sit naturally on MY face without changing my facial proportions.
+
+BLACK-AND-WHITE STYLE:
+Pure cinematic monochrome black-and-white photography.
+Deep blacks, rich grayscale tones, strong contrast, realistic skin texture, dramatic shadows, premium luxury editorial photography.
+
+LIGHTING — VERY IMPORTANT:
+Recreate the distinctive lighting from the reference image.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2086662298462994774) | 2026-08-10
+
+---
+
+### 🎨 例 5892：Photorealistic Male Editorial Portrait
+
+![Photorealistic Male Editorial Portrait](../images/Photorealistic%20Male%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic close-up editorial portrait of a young adult man with {argument name="hair color" default="short, tousled dark brown hair"}, natural skin texture, subtle under-eye shadows, softly flushed cheeks, defined dark eyebrows, hazel-green eyes, and natural lips. He looks directly toward the camera with a calm, slightly intense expression. A few loose strands of hair fall naturally across his forehead and partially frame one eye. He is wearing a {argument name="outfit" default="simple black outfit"} with a {argument name="accessory" default="subtle silver chain necklace"}. He holds a pair of black sunglasses near his chin. Shot indoors at night with a dark, softly blurred background featuring warm out-of-focus city lights and bokeh. Direct on-camera flash creates crisp facial detail while preserving realistic skin texture, with subtle ambient warm lighting in the background. Candid fashion-photography aesthetic, slightly imperfect composition, shallow depth of field, 85mm portrait lens, f/1.8, high detail, realistic pores, natural facial hair and individual hair strands, natural color grading, cinematic yet raw, contemporary street-style editorial photography, vertical composition, 4:5 aspect ratio.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2086657484505440287) | 2026-08-10
+
+---
+
+### 🎨 例 5893：Japanese Grocery Store Candid Portrait
+
+![Japanese Grocery Store Candid Portrait](../images/Japanese%20Grocery%20Store%20Candid%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic candid lifestyle photograph of a {argument name="subject" default="young East Asian woman"} shopping in a {argument name="location" default="cozy Japanese grocery store"}, captured from a {argument name="camera angle" default="high overhead angle"} with a modern smartphone camera. She has long silky dark brown hair with soft bangs and a small hair clip, natural glowing skin and a gentle playful smile, wearing a pastel yellow cardigan over a white top, a vintage plaid mini skirt, white ankle socks and casual sneakers. She looks upward toward the camera while posing naturally with one hand resting against her cheek and holding a black shopping basket in the other hand, with her smartphone visible in her hand. She is surrounded by tightly packed shelves filled with colorful Asian snacks, dried foods and neatly arranged grocery packages, warm wooden flooring and shelving creating a cozy aesthetic. Slight wide-angle perspective, spontaneous candid composition, realistic smartphone exposure, subtle lens distortion, soft indoor lighting, natural skin texture, authentic everyday moment, highly photorealistic, detailed but unfiltered, 4K quality.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2086654577710133544) | 2026-08-10
+
+---
+
+### 🎨 例 5894：Yukata Character Sheet Generator
+
+![Yukata Character Sheet Generator](../images/Yukata%20Character%20Sheet%20Generator.jpg)
+
+**Prompt:**
+
+```text
+【今回作る完成物】
+本指示書と同時に添付された女性の全身参照画像1枚を唯一の人物参照として使用し、同時添付の浴衣参考画像群を用いて、指定配色の浴衣を着た同一人物の高品質な実写・簡易キャラクターシート1枚を作成する。共有用として見栄えがよく、人物・浴衣・帯・顔を確認しやすい実用的な1枚にする。
+【入力項目】
+アスペクト比：{argument name="アスペクト比" default="1:1／9:16"}
+配色タイプ：{argument name="配色タイプ" default="白系／藍色系／赤系"}
+未入力時は1:1、白系とする。
+【使用参照】
+Image A＝女性の全身参照画像1枚。唯一の人物参照。
+Image B＝白系配色の参考。白〜淡色地、淡い寒色系の柄色、淡色帯。
+Image C＝藍色系配色の参考。藍色地、白〜淡色の柄色、濃色帯。
+Image D＝赤系配色と共通柄骨格の主参考。白〜明るい地色、赤〜えんじ系の柄色、えんじ系帯。
+Image E＝帯の後ろ結びと和装履物の補助参考。
+【人物固定】
+Image Aと同一人物として、顔立ち、目元、輪郭、鼻、口元、髪型、髪色、髪の長さ、前髪、分け目、年齢感、肌色、身長感、肩幅、胸郭、胴の長さ、腰位置、くびれ、ヒップの丸み、体型、頭身、全身比率、脚・腕の長さを維持する。細身で自然な女性らしい立体感を保ち、胴を短くしたり寸胴化・平板化しない。元画像の服装・背景・ポーズは継承しない。
+【髪型固定】
+Image Aの髪型を全ビューで共通にする。結い上げ、まとめ髪、アップスタイル、編み込み化、髪飾り追加、SIDE・BACKだけ別の髪型にすることを禁止する。髪は整った状態を保ち、強い乱れ、広がり、跳ね、風でなびいたような崩れ、無秩序な毛束化を避ける。BACKでも後頭部から毛先まで自然にまとまり、全ビューで同じ髪型の同一人物として見えること。
+【浴衣デザイン】
+3配色とも同一デザインの色違いとする。柄模様の骨格はImage Dを主参照として固定し、配色によって地色、柄色、帯色のみを変える。柄の種類、主要な花模様、流線構成を配色ごとに別物へ変更しない。襟合わせ、袖、身頃、裾、帯の位置・巻き方・重なりを自然にし、着崩れのない美しい着付けにする。袖と身頃には自然な落ち感を持たせる。
+【配色】
+白系：Image Bを主参考。白〜淡い生成り地、共通柄を淡い水色・灰青などの寒色系、帯は淡い水色系。涼しげで上品。
+藍色系：Image Cを主参考。藍色〜くすんだ青地、共通柄を白〜淡色、帯は濃紺〜深い藍色。落ち着きがあり端正。
+赤系：Image Dを主参考。白〜明るい生成り地、共通柄を赤〜えんじ系、帯はえんじ〜深い赤紫。華やかで大人っぽく上品。
+【帯・履物】
+帯は浴衣に合う半幅帯とし、腰まわりを適度にしっかり締める。胴を不自然に押しつぶさず、締め付け不足で帯周辺が緩く筒状に見えないようにする。BACKではImage Eを参考に自然な結び形状を明確に見せる。履物はImage Eの形状と雰囲気を主参考にする。
+【固定レイアウト】
+指定済みレイアウトを変更しない。全体は上段約58％、下段約42％。
+上段：01 FRONT約22％／02 SIDE約22％／03 BACK約22％／04 SPECIAL LOOK約34％。
+下段：05 FACE約62％／06 REFERENCE / DETAIL約38％。
+01〜04は頭頂から履物まで入れる。04は大きめの全身3/4ビュー。05は正面・斜め3/4・軽い側面寄りの顔3点。06は帯、履物、共通柄の確認補助枠。
+【02 SIDE重要条件】
+明確な真横の全身ビューとし、硬い棒立ちにしない。帯位置で胴が自然に引き締まり、胸の自然な前方向の厚み→帯位置の締まり→腰の軽いくびれ→ヒップの後方への丸みが滑らかにつながる横姿にする。胴を筒状・平板・板状にしない。首は自然に長く、肩は力まず落とし、背中・骨盤を自然に安定させる。真横でも女性らしい立体感と浴衣の美しい着こなしを両立する。
+【文字表示ルール】
+表示してよい文字は「01 FRONT」「02 SIDE」「03 BACK」「04 SPECIAL LOOK」「05 FACE」「06 REFERENCE / DETAIL」のみ。日本語補足、説明文、脚注、注釈、小枠キャプション、下部コメント、配色説明、装飾文字を追加しない。見出しの書体・色・サイズ・配置トーンは統一する。
+【背景・品質】
+背景は白またはごく薄いニュートラル背景。実写、高品質、自然な人体・顔・手・足元、浴衣・帯の構造破綻なし。同一人物性、体型、髪型を全ビューで統一する。1:1／9:16とも固定レイアウトの構成・順序・役割を維持し、余白と枠寸法のみ自然に調整する。
+【禁止事項】
+別人化、過度な美化・若返り・老化、小顔化、過度な脚長化、体型変更、寸胴化、平板化、髪型変更・乱れ、配色ごとの別柄化、帯を緩く見せて胴を筒状にすること、着物・ドレス・コスプレ化、指定外文字、派手な背景、情報過多、極端なポーズ。
+【最重要】
+Image Aの同一人物・体型・髪型を全ビューで維持し、Image D由来の共通柄を白系／藍色系／赤系のいずれかで成立させる。特にSIDEの帯の締まり、女性らしい横姿、髪の安定、美しい着付けを崩さない。
+```
+
+**来源：** [@AIライフハック](https://x.com/ai_lifehack55/status/2086652710217293899) | 2026-08-10
+
+---
+
+### 🎨 例 5895：Anime Prize Variety Show Poster
+
+![Anime Prize Variety Show Poster](../images/Anime%20Prize%20Variety%20Show%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a bright Japanese anime TV variety-show poster for a fictional character-led prize guessing program, packed with colorful game-show energy and readable Japanese title typography.
+
+Canvas: Vertical 4:5 poster, glossy high-saturation idol-variety-show design, no borders, full-bleed background. Use sparkling lights, lens flares, confetti-like glints, pastel pink, cyan, purple, and yellow.
+
+Main subject: Center a cute anime girl, {argument name="character name" default="Nozomu"}, shown from the waist up behind a table of prizes. She has soft ash-blonde/light brown bobbed hair with side bun braids, flower hair clips, pale skin, large sparkling blue eyes, rosy cheeks, and a surprised excited open-mouth expression with one sweat drop. She wears a loose pastel hoodie in blue, lavender, and pink with subtle star patterns. Pose her leaning forward, one hand reaching toward the viewer over the center prize ball, the other hand held near her chest.
+
+Layout: Place a huge bubbly Japanese logo across the top reading 「のぞむの いっぱいで当てます！」 with thick white outline, cyan drop shadow, hot-pink main lettering, yellow accent on 「当」, and a target icon inside the title. Behind the character, show a colorful arcade/game-show set with illuminated marquee bulbs, star signs, a capsule-toy machine filled with pastel balls on the left, and a glass display case on the right containing a jeweled crown and crystal prize.
+
+Foreground objects: Include exactly 3 mystery prize containers lined up along the bottom: left is a pink wrapped gift box labeled “A” with a large white question mark, center is a glossy blue spherical capsule labeled “B” with a large white question mark, right is a purple wrapped gift box labeled “C” with a large white question mark. Each label should be a star-shaped badge above the container.
+
+Text elements: Add a comic burst speech bubble on the left side reading 「レア景品だけ 引き当てられる!?」 in bold hot-pink Japanese text with yellow outline. Add a bottom broadcast banner: left marquee block reading 「新番組」 in yellow on pink lights, and large text across the bottom reading 「今夜8時スタート！」 with the number 8 oversized in yellow/orange, blue and pink supporting text, white outlines, and strong drop shadows.
+
+Visual style: Polished modern anime illustration, glossy promotional key visual, cute idol TV-show aesthetic, extremely sparkly, soft gradients, rim lighting, clean line art, detailed eyes, high contrast and high readability. Keep all visible text in Japanese exactly as specified. Avoid extra logos, watermarks, or unrelated characters.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2086651247843774797) | 2026-08-10
+
+---
+
+### 🎨 例 5896：Dark Fantasy Fish-Headed Mermaid
+
+![Dark Fantasy Fish-Headed Mermaid](../images/Dark%20Fantasy%20Fish-Headed%20Mermaid.jpg)
+
+**Prompt:**
+
+```text
+Create a tall vertical dark-fantasy fine art illustration of a lone {argument name="mythic creature" default="fish-headed mermaid"} suspended upright in deep water, centered on the canvas. The creature has a pale corpse-white humanoid upper torso with gaunt anatomy, long thin arms, one hand pressed across the chest and the other hanging downward, stringy wet hair-like tendrils, and a large realistic fish head with one prominent round eye and a slightly open mouth. Its lower body is a long serpentine mermaid tail covered in countless overlapping metallic silver scales, tapering into a split fin near the bottom. The background is an abyssal navy-black textured wall or underwater void, with faint shafts of cold light descending from the top center. Add exactly two main vertical decorative areas: one narrow column of cracked white net-like geometric texture along the left edge, and one loose aura of irregular {argument name="metal accent color" default="gold"} leaf cracks and dripping lines surrounding the creature on both sides. Use an oil-painting mixed-media look with heavy impasto texture, scratched surfaces, tarnished metallic highlights, dramatic chiaroscuro, muted blue-black palette, eerie sacred-icon composition, and highly detailed scales and skin. No text, no border, no watermark.
+```
+
+**来源：** [@マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue/status/2086648570695041050) | 2026-08-10
+
+---
+
+### 🎨 例 5897：Sunset Beach Travel Photography
+
+![Sunset Beach Travel Photography](../images/Sunset%20Beach%20Travel%20Photography.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic travel photograph of a young {argument name="ethnicity" default="East Asian"} woman standing on a {argument name="location" default="sandy beach during a breathtaking sunset"}, captured in a vertical 3:4 composition. She is wearing a {argument name="clothing" default="delicate white dress with intricate blue floral prints, ruffled shoulder straps, and a fitted silhouette"}. Her long, naturally tousled dark hair flows gently in the evening breeze. She is standing beside a dark metal beach railing, turning her upper body slightly away from the camera while looking back over her shoulder with a soft, calm, slightly curious expression.
+Behind her is a beautiful coastal landscape with shimmering ocean water reflecting the warm sunset, distant dark mountains across the horizon, and a city skyline with a tall tower on the left side. Several beachgoers are naturally scattered along the shoreline, adding authentic scale and atmosphere. The sandy beach contains subtle footprints and realistic texture.
+The sky transitions beautifully from soft blue at the top into pale yellow, warm orange, and glowing golden tones near the horizon, with delicate pink-orange wispy clouds stretching across the sky. Natural golden-hour backlighting creates a subtle rim light around her hair and shoulders while keeping realistic facial details and skin texture.
+Photography style: ultra-realistic smartphone travel photography, natural candid composition, realistic skin pores and hair strands, authentic environmental lighting, subtle depth of field, realistic ocean reflections, atmospheric perspective, high dynamic range, balanced exposure, cinematic color grading, soft sunset glow, natural shadows, highly detailed, photorealistic, 4K, no artificial beauty filter, no excessive sharpening, no plastic skin, authentic vacation photograph, 3:4 vertical aspect ratio.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2086645222524752379) | 2026-08-10
+
+---
+
+### 🎨 例 5898：Parisian Street Style Fashion Editorial
+
+![Parisian Street Style Fashion Editorial](../images/Parisian%20Street%20Style%20Fashion%20Editorial.jpg)
+
+**Prompt:**
+
+```text
+Ultra-photorealistic high-end editorial street-style portrait of a beautiful young adult woman in {argument name="location" default="Paris"}, standing just outside an elegant classic French café on a charming Haussmannian street. She is captured in a confident, alluring yet sophisticated pose: her body angled three-quarters away from the camera, one shoulder slightly raised, one hand gently resting on the café doorway or railing, while she turns her head back toward the camera with a poised, self-assured expression and a subtle closed-mouth smile. Her posture is graceful and naturally feminine, creating an effortlessly bold fashion-editorial presence without looking staged. She has long, voluminous {argument name="hair color" default="dark-brown"} hair with natural soft waves cascading down her back, styled in a loose half-up hairstyle with delicate curtain bangs framing her face and a refined tortoiseshell hair clip. Realistic individual hair strands, subtle flyaways, natural movement and texture. Refined facial features, expressive dark-brown eyes, naturally defined brows, soft luminous skin with visible realistic texture, warm rosy lips, subtle blush and elegant natural makeup. No excessive retouching or artificial beauty-filter effect. She wears a striking, sophisticated Parisian-inspired outfit: an elegant {argument name="clothing item" default="ivory silk blouse"} with delicate floral embroidery, a refined square neckline, softly structured puff sleeves and subtle draping, paired with a high-waisted tailored black midi skirt with a sleek feminine silhouette and a tasteful side slit. The outfit feels luxurious, confident and fashion-forward while remaining classy and timeless. Add delicate gold hoop earrings, a slim gold bracelet, understated rings and a structured dark-brown leather shoulder bag with premium textured leather and elegant hardware. Authentic Parisian environment: grand cream limestone Haussmann buildings, ornate wrought-iron balconies, classic black street lamps, elegant French café façade, striped café awnings, small round outdoor tables, vintage chairs, bicycles parked along the sidewalk, subtle flower arrangements, casually dressed pedestrians and a French flag softly visible in the distance. Warm café interior lights glowing naturally through the windows, adding depth and atmosphere. Composition: vertical 4:5 portrait, medium-to-medium-full body framing, camera positioned slightly behind and at eye level, subject occupying the visual center while maintaining enough environmental context to establish Paris. Natural candid street-photography composition, elegant leading lines from the architecture and café entrance, realistic human proportions, authentic perspective. Lighting: soft diffused Parisian afternoon daylight under slightly overcast skies, gentle highlights on her hair and face, subtle warm reflections from the café windows, realistic soft shadows, balanced exposure, delicate cinematic separation between subject and background. Photography: luxury fashion editorial meets authentic candid Pari
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2086644701659369940) | 2026-08-10
+
+---
+
+### 🎨 例 5901：Optical Occlusion and Depth Layers
+
+![Optical Occlusion and Depth Layers](../images/Optical%20Occlusion%20and%20Depth%20Layers.jpg)
+
+**Prompt:**
+
+```text
+Inversión local del orden de oclusión. El {argument name="材料" default="lino"} ocluye el {argument name="主体" default="rostro"} y la silueta se transparenta en la trama; el {argument name="遮挡物" default="antebrazo"} ocluye el {argument name="材料" default="lino"} y detrás hay cielo. La orilla dobladillada prueba que la tela termina, no que se rompe. Dos jerarquías de profundidad simultáneas.
+```
+
+**来源：** [@Vanesa Martinez](https://x.com/VanesaMartrkmp/status/2086636672519688198) | 2026-08-10
+
+---
+
+### 🎨 例 5902：Arabic ChatGPT Robot OpenAI Poster
+
+![Arabic ChatGPT Robot OpenAI Poster](../images/Arabic%20ChatGPT%20Robot%20OpenAI%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a polished square social-media promotional image showing a cute friendly ChatGPT/OpenAI robot mascot in a cozy desk setting, with Arabic handwritten annotations explaining ChatGPT and OpenAI. The overall message should feel optimistic, educational, and futuristic, like a tech announcement poster.
+
+Canvas: 1:1 square image, realistic 3D render mixed with hand-drawn white and mint-green marker typography. Warm indoor lighting, shallow depth of field, high-detail glossy materials, soft shadows, premium AI-brand aesthetic.
+
+Main subject: Center-right, a small white rounded robot mascot with a glossy black face screen and two glowing happy crescent eyes. It wears rounded ear-like side panels, has black joint details, and waves with its right hand. The robot holds a white rectangular placard in its left hand. Add the OpenAI knot logo on the robot chest in teal.
+
+Text and branding: Include large handwritten Arabic text at upper left reading “أهلاً! أنا” above a large mint-green “ChatGPT” wordmark with an underline. On the right background, show the OpenAI knot logo and the word “OpenAI” in light gray. Above the robot, add Arabic handwritten text “هذا أنا!” with a curved arrow pointing to the robot. On the placard, include Arabic text meaning “Created by OpenAI”, the OpenAI logo, the word “OpenAI” in large bold black letters, then Arabic subtext about the company developing smart technologies, and a mint-green Arabic optimistic line near the bottom. Preserve the look of Arabic handwriting even if some characters are imperfect.
+
+Layout and discrete elements: Include exactly 5 handwritten annotation groups around the image: 1) the large ChatGPT introduction at upper left, 2) three short Arabic bullet-style capability lines on the left with small doodle icons, 3) the “this is me” arrow above the robot, 4) a short Arabic OpenAI benefit note at right, 5) a bottom equation-like Arabic slogan reading approximately “OpenAI × ChatGPT = more possibilities for everyone” with small doodle rays and a heart. Include exactly 3 left-side doodle icons next to the capability notes: a chat bubble, a lightbulb, and a heart. Include exactly 4 stacked books on the lower left, each with Arabic labels on the spines suggesting “better questions,” “clearer answers,” and “more useful.” Include exactly 1 open laptop in the foreground left with small Arabic writing on its lid, and exactly 1 white mug on the foreground right with small Arabic writing and a smiley face.
+
+Environment: Wooden desk surface, blurred dark blue/black background panels, a leafy green plant partially visible at far left, warm ambient office/classroom mood. Place the OpenAI wall branding in the back-right area behind the robot.
+
+Style constraints: Use a clean 3D Pixar-like robot design, not a human. Make the robot friendly and non-threatening. Handwritten Arabic overlays should look drawn on top of the scene in white and mint green. Keep the composition balanced with the robot and placard as the focus, no extra characters, no watermark, no photoreal human faces.
+
+Customizable details: The main green wordmark should read {argument name="assistant name" default="ChatGPT"}. The background company wordmark should read {argument name="company name" default="OpenAI"}. The placard headline should feature {argument name="placard brand" default="OpenAI"}. The overall written language style should be {argument name="annotation language" default="Arabic"}. The robot expression should be {argument name="robot expression" default="happy crescent eyes"}.
+```
+
+**来源：** [@ORBIT CODE](https://x.com/ORBITCODEK/status/2086633588905140458) | 2026-08-10
+
+---
+
+### 🎨 例 5906：Anime Girl Hugging Black Cat Plush
+
+![Anime Girl Hugging Black Cat Plush](../images/Anime%20Girl%20Hugging%20Black%20Cat%20Plush.jpg)
+
+**Prompt:**
+
+```text
+Create a soft anime-style vertical portrait of {argument name="character name" default="Haru-chan"}, a gentle young woman with short light rose-blonde bobbed hair, wispy bangs, warm brown eyes, fair skin, and a tender sleepy morning smile, sitting on a pastel bed in a sunlit bedroom while hugging a plush-like black cat character. The girl wears loose white pajamas with navy sailor-style trim on the collar and cuffs, soft fabric folds, and a cozy oversized fit. The black cat is the central prop: a small round black cat with closed happy eyes, tiny ears, visible black tail, pink paw pads, round gold-rimmed glasses, and a full-body white hooded costume with black cat ears on the hood plus bright blue spiky accents along the back like a playful dinosaur hoodie; it holds a pale blue cloud-shaped pillow against its chest. Show exactly two main figures: one girl and one costumed black cat plush/mascot, with the girl’s arms wrapped around the cat in an affectionate hug and her cheek close to its head. Set the scene in a dreamy feminine bedroom with a large bright window on the right, sheer lace curtains glowing in morning sunlight, soft greenery visible outside, lavender walls, a bed covered in pale pink and lilac bedding, a pink crocheted blanket in the foreground, and exactly three visible pillows on the bed: one lavender pillow, one pale pink pillow, and one small pink heart-shaped ruffled pillow. Include a dresser or shelf in the left background with framed pictures, a vase of lavender flowers, and delicate lace decor; keep these background details softly blurred. Use warm backlighting, pastel colors, airy dust motes, delicate linework, high-detail anime illustration, soft bloom, gentle depth of field, cozy early-morning atmosphere, and no text or watermark.
+```
+
+**来源：** [@あがさん（AGPT）](https://x.com/agaharu555/status/2086616655074148582) | 2026-08-10
+
+---
+
+### 🎨 例 5907：Amateur Night Photography Aesthetic
+
+![Amateur Night Photography Aesthetic](../images/Amateur%20Night%20Photography%20Aesthetic.jpg)
+
+**Prompt:**
+
+```text
+Messy amateur iPhone flash photograph taken {argument name="location" default="outside a convenience store"} at {argument name="time" default="1:17 AM"}. {argument name="number of people" default="Four friends"} are standing close together. Harsh direct phone flash illuminates their faces and clothing while the background remains much darker. Slightly awkward framing, one person partly cropped by the edge of the image, minor motion blur, realistic sensor noise, natural skin texture, realistic pores, flyaway hair and ordinary clothing. The photo should look like a completely unedited image from someone's camera roll. No cinematic lighting. No professional photography. No beauty retouching. No smooth plastic skin. No teal-orange grading.
+```
+
+**来源：** [@Riccardo Wolf](https://x.com/WolfRiccardo/status/2086613007526732003) | 2026-08-10
+
+---
+
+### 🎨 例 5908：Sunlit Cafe Coffee Portrait
+
+![Sunlit Cafe Coffee Portrait](../images/Sunlit%20Cafe%20Coffee%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic lifestyle portrait photograph of a young East Asian woman sitting at a cozy sunlit cafe table, smiling warmly at the camera while holding a beige ceramic coffee cup near her face. She has long natural {argument name="hair color" default="black"} slightly wavy hair, clear skin, soft makeup, and a relaxed friendly expression. She wears a loose white camisole with thin straps, a lightweight beige linen cardigan draped off one shoulder, and high-waisted beige linen drawstring trousers. Frame her from mid-torso upward in a vertical 2:3 composition, seated slightly angled with one arm resting near her lap and the other hand lifting the cup. The setting is an elegant indoor-outdoor cafe or conservatory with large black-framed windows behind her, warm beige plaster walls, wooden shelving, a wooden chair, and lush green potted plants on both sides. Include exactly 3 clearly visible table/prop elements: a round white marble tabletop in the foreground, a small white saucer near the bottom center, and the beige ceramic cup in her hand. Use soft natural morning sunlight, dappled leaf shadows across her clothing and the table, shallow depth of field, creamy bokeh greenery outside the windows, realistic skin texture, gentle highlights, and a calm airy neutral color palette. Shoot like a high-end editorial lifestyle photo with an 85mm lens look, natural proportions, no text, no logo, no watermark, no exaggerated effects.
+```
+
+**来源：** [@むく | AIアートのプロ](https://x.com/muku_sns/status/2086604810338615760) | 2026-08-10
+
+---
+
