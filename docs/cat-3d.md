@@ -6977,3 +6977,17 @@ Constraints: Use exactly the 4 nucleotide labels and exactly the 3 structural la
 
 ---
 
+### 🧸 例 5913：Stylized Hand-Painted 3D Game Asset
+
+![Stylized Hand-Painted 3D Game Asset](../images/Stylized%20Hand-Painted%203D%20Game%20Asset.jpg)
+
+**Prompt:**
+
+```text
+3D render of {argument name="subject" default="[SUBJECT]"}, stylized hand-painted 3D game asset, chunky simplified geometry, broad readable shapes, softly beveled edges, matte painted wood and metal, subtle hand-painted surface variation, restrained material detail, deep plum and burgundy wood, dark teal and navy hardware, selective crimson and muted warm accents, soft diffuse lighting, gentle ambient occlusion, simple soft directional shadow, flat solid black background, no vignette, no dramatic lighting, no volumetric effects, elevated isometric three-quarter view, clean centered composition, compact game-ready silhouette, understated handcrafted atmosphere.
+```
+
+**来源：** [@Dogan Ural](https://x.com/doganuraldesign/status/2087216179723043107) | 2026-08-11
+
+---
+

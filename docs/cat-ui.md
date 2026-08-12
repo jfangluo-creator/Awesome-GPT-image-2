@@ -11853,3 +11853,170 @@ Create an ultra-realistic vertical smartphone selfie photo of a {argument name="
 
 ---
 
+### 🖥️ 例 5910：Rooftop School Uniform Portrait
+
+![Rooftop School Uniform Portrait](../images/Rooftop%20School%20Uniform%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic outdoor portrait of a {argument name="subject" default="young adult East Asian woman"} crouching on a sunlit rooftop terrace in a quiet hillside town. She has long straight dark brown hair with soft bangs, fair skin, natural makeup, and a calm neutral expression while looking directly into the camera. She wears a slightly loose pale blue-white button-up dress shirt with rolled sleeves, a loosened black necktie, a black skirt, and glossy black pointed high heels. Pose her low to the ground with knees bent apart, elbows relaxed forward, hands hanging naturally between her legs, balanced on her heels. The setting is a white concrete rooftop parapet with a gray tiled floor; behind her is a softly blurred village of traditional rooftops, utility wires on the left, green forested mountains, and a bright pale blue sky. Use natural midday sunlight, crisp highlights on the face and clothing, soft shadows on the floor, shallow depth of field, realistic skin texture, high-resolution DSLR look, 50mm portrait lens feel, centered composition, vertical 3:4 framing. Avoid text, logos, watermarks, extra people, exaggerated anatomy, or overly stylized rendering.
+```
+
+**来源：** [@リクオくん](https://x.com/airikuokun/status/2087318860215230611) | 2026-08-11
+
+---
+
+### 🖥️ 例 5929：Modern Chinese Graphic Design
+
+![Modern Chinese Graphic Design](../images/Modern%20Chinese%20Graphic%20Design.jpg)
+
+**Prompt:**
+
+```text
+Build a modern flat graphic around {argument name="subject" default="any chosen subject object"}, with a huge Chinese theme character, geometric color blocks, and a single-line organic contour interlacing through one another. Keep an overall bright, clean background field, letting approximately two-thirds or more of the space remain empty, and concentrate the main weight in an off-center cluster: a saturated rectangular block in the theme's primary color first establishes a stable plane; a deeper, low-lightness, cool-toned circle overlaps from beneath it and extends beyond the boundary; the core Chinese theme character advances vertically in oversized, heavy, geometric black strokes across the white background, rectangle, and circle, with partial occlusion and cropping creating a strong scale jump; on the left, the date and a bilingual subtitle form a compact numeric column, while on the right, short vertical sentences set in two stroke-weight tiers balance the weight; a few miniature captions, short dashes, and linear symbols scatter along the edges, creating a three-level reading rhythm from main character to side notes to details. Abstract the dynamic relationship derived from the theme into one continuous organic contour, drawn as a broad sweeping loop with a clear, near-black single line that enters from the large empty field, passes through the color blocks, and crosses the edge; the curve intersects itself several times while remaining legible as a single path; keep most of its interior as the underlying background color, adding only localized, transparent, fading fills in the theme's primary color at the tips and extended sections, so the light line creates tension with the heavy giant character. Adapt the color scheme to the theme: let a clean, high-lightness neutral background carry the largest area; keep the theme's primary color vivid and highly saturated, using it for the rectangle and the localized transparent gradient; use a deep cool support color for the circle, separated in hue from the primary color and blending softly into the primary color at its end; use near-black for text and the contour, with a very small amount of light text reversed onto the primary color block; fix unequal areas, lightness hierarchy, and saturation differences, but do not fix specific color names. Render all elements as flat surfaces like matte digital printing, with sharp contour edges and gradients only as two localized, slowly feathered transitions; do not add dimensional shadows, paper grain, or global lighting effects. Keep typography in a low-contrast, broad, thick, near-geometric black sans-serif skeleton; allow the main character's parts to be elongated, offset, cut out, and switched between color-block backgrounds; give numbers a rounded futuristic structure and compress small text with narrow letterforms and loose tracking. Replace brand names, advertising copy, and concrete dates with new theme information. Preserve in the final result the extreme white
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2087173607227367874) | 2026-08-11
+
+---
+
+### 🖥️ 例 5931：Tokyo Police Robot Rescuing Cow
+
+![Tokyo Police Robot Rescuing Cow](../images/Tokyo%20Police%20Robot%20Rescuing%20Cow.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic cinematic news-style image of a massive humanoid police robot from the Tokyo Metropolitan Police heavy machinery response unit standing on a wet elevated expressway in Tokyo, carefully carrying one black-and-white Holstein cow in both armored hands as if rescuing or detaining it. The robot is about three stories tall, built from white and dark navy modular armor plates with visible bolts, hydraulic joints, scuffed paint, rain grime, red emergency light bars on both shoulders, thin antennae on its helmet, and Japanese police markings reading {argument name="police marking text" default="警視庁"} on the chest and shoulder armor. The cow should be full-sized, dangling but unharmed, with four visible legs, black patches, a white face stripe, yellow ear tag, and a confused expression. Behind the robot on the left, include exactly one futuristic armored police vehicle with six large wheels, black-and-white livery, roof equipment, small red-and-blue lights, headlights on, and Japanese police markings. Set the scene on a rainy urban highway with reflective asphalt, lane markings, guardrails, and a green overhead road sign showing Shibuya and Tanimachi with an exit distance, plus blurred high-rise buildings in the background. Use an overcast stormy gray sky, misty atmosphere, damp surfaces, realistic scale, low-angle street-level perspective, 35mm documentary photography look, sharp foreground detail, subtle motion realism, dramatic but plausible lighting, no cartoon style, no extra animals, no extra robots, no people, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2087165002906304635) | 2026-08-11
+
+---
+
+### 🖥️ 例 5937：Rainy Beijing Good Night Poster
+
+![Rainy Beijing Good Night Poster](../images/Rainy%20Beijing%20Good%20Night%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a minimalist square good-night daily poster for {argument name="city name" default="Beijing"} with a quiet autumn rain mood, elegant editorial typography, and Chinese copy.
+
+Canvas: 1:1 square poster, warm off-white background, generous margins, refined magazine layout, calm blue-gray and misty white palette with subtle muted red from architecture photography.
+
+Layout: Top metadata row contains exactly 3 small items: left date "2026-08-11", centered location "BEIJING / 北京", right weather "多云 26°C". Below it, place an oversized thin high-contrast serif headline reading "GOOD NIGHT" in pale blue-gray, spanning almost the full width. Under the headline on the left, add a small blue-gray rectangular tag with white Chinese text "晚安问候". Mid-left text block includes a bold greeting and a short poetic sentence. On the right side, add a slim vertical label reading "AUTUMN NOTES". Lower half contains exactly 2 photographic panels: one large wide photo on the left and one narrow vertical photo on the right, separated by a clean white gutter. Bottom-left footer line sits beneath the photos.
+
+Text content: Main bold Chinese text: "北京，晚安。" and "愿今夜的云层，把城市的忙碌轻轻放低。" Include exactly 3 small bullet notes below: "秋分前后，昼夜几乎等长。"; "立秋是节气，不等于真正入秋。"; "秋夜更清透，常与湿度下降有关。" Footer text: "夜色会替你收纳白天的锋利，愿你安心睡去。" Keep all Chinese text crisp and correctly typeset.
+
+Image subject details: The 2 photos should show rainy traditional Beijing palace roof eaves. Left photo: close-up of gray glazed roof tiles and decorative ridge ornaments above a muted red palace wall, rain droplets on tiles, shallow depth of field, hazy city lights in the background. Right photo: tighter vertical crop of a roof corner with rainwater dripping from the eaves, soft bokeh lights, misty blue-gray atmosphere. Both photos should feel like real documentary photography, cool rainy evening, soft blur, no people.
+
+Visual style: Elegant luxury editorial poster, lots of whitespace, thin Didot/Bodoni-style serif for the English headline, clean sans-serif for small metadata and Chinese body text, balanced asymmetrical composition, understated autumn knowledge-card aesthetic.
+
+Constraints: Use exactly 2 photo panels, exactly 3 bullet notes, exactly 3 top metadata items, and no extra logos, icons, watermarks, frames, or decorative illustrations. Overall mood should be quiet, comforting, and high-end.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2087158823526293508) | 2026-08-11
+
+---
+
+### 🖥️ 例 5943：White Suit Man in Hooded Crowd
+
+![White Suit Man in Hooded Crowd](../images/White%20Suit%20Man%20in%20Hooded%20Crowd.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic cinematic black-and-white editorial portrait of a {argument name="character description" default="handsome, confident young man"} standing calmly in the exact center of a mysterious crowd. He wears a perfectly tailored {argument name="suit color" default="white"} luxury suit jacket with sharp lapels over a slightly open white dress shirt, no tie, elegant and sophisticated. His hair is dark, thick, tousled, and textured; he has a clean-shaven face with subtle stubble, strong jawline, direct calm eye contact, and a composed faintly serious expression. Surround him with exactly 12 visible hooded figures in black robes: 2 large blurred foreground silhouettes framing the lower left and lower right edges, 4 midground hooded figures with partially visible shadowed faces around his shoulders, and 6 background hooded figures fading into darkness behind him. The hooded crowd should feel anonymous, ominous, and cult-like, with faces mostly hidden in deep shadow and only faint eyes/noses visible. Use a tight vertical portrait composition, chest-up framing, centered symmetry, shallow depth of field, dramatic high-contrast lighting, soft diffused light on the man’s face and white suit, deep black background, moody editorial fashion photography, 85mm lens look, realistic skin texture, crisp suit fabric, film-grain texture, no text, no logos, no color, no extra subjects.
+```
+
+**来源：** [@ORHAN](https://x.com/OrhanGhazi65942/status/2087133727415837183) | 2026-08-11
+
+---
+
+### 🖥️ 例 5948：Pistachio Crochet Cardigan and Plaid Mini Dress
+
+![Pistachio Crochet Cardigan and Plaid Mini Dress](../images/Pistachio%20Crochet%20Cardigan%20and%20Plaid%20Mini%20Dress.jpg)
+
+**Prompt:**
+
+```text
+Wardrobe: Outerwear / layers: One solid pistachio short-sleeve crochet cardigan built from fine softly matte yarn. Upper-hip length with a close straight body, lightly shaped waist, and two independent front panels. A deep rounded V opening continues into narrow scalloped front bands. Two short set-in sleeves have compact fitted upper sections, softly expanded lower edges, and narrow scalloped cuffs. The body and sleeves use a consistent openwork construction of slim vertical chain ladders alternating with dense shell-like crochet columns, preserving small irregular apertures and a clearly fibrous looped surface. A narrow scalloped crochet border completes the neckline, both front edges, cuffs, and lower hem. Five evenly spaced pistachio four-hole buttons run down one front band, with aligned crochet buttonholes on the opposite band; all five buttons remain released. Keep the open cells distinct, the shell columns vertically coherent, the front panels balanced, the buttons flat and evenly aligned, and the soft yarn texture clean rather than fuzzy or melted together. Dress / all-in-one: One olive-green, smoky-charcoal, muted-lavender, beige, and black spaghetti-strap mini dress made from lightweight fine-gauge semi-sheer mesh with soft fluid drape. Across the complete plaid shell, an all-over oblique multiscale check places broad smoky-charcoal bands, narrower muted-lavender bands, and fine beige lines over an olive ground, creating a regular field of unequal rectangular cells with stable band order and crisp intersections. The dress is close through the shaped bust and waist, then widens immediately below the fitted waist into a full upper-thigh-length skater skirt with rounded fluid flare and unpleated volume. The front upper edge forms a deep sweetheart V from two shaped bust panels, while the rear upper edge follows a low soft curve. Shaped front, side, and rear bodice panels continue below the curved underbust line, and the fitted torso releases into the full bias-cut skirt with evenly distributed soft folds. Two very narrow constant-width straps join the upper front corners to corresponding rear anchors. Black scalloped floral lace traces the complete bust edge and rear upper edge; a broader black scalloped lace band follows the curved underbust seam, with a compact flat black ribbon knot at the center front. A narrow black mesh binding finishes the full undulating hem. Elastic recovery in the lace bands and pliant bias mesh forms a clean pull-on closure with a continuous fitted upper circuit. The rear lace edge and underbust band continue uninterrupted between the paired strap anchors, and the checked skirt retains its full flare across the rear. Preserve the fine mesh grain, slight translucency through single layers, denser tone at overlaps, delicate lace openwork, crisp scallops, slim seam allowances, stable check-band widths, and thin flexible edge depth throughout. Footwear: One matching pair of solid dark brown platform Mary Jane shoes built from smooth low-luster structured upper material with shallow natural creasing, clean rounded edge returns, and dense molded dark brown rubber at the base. Each shoe has a broad rounded-square overall front envelope and a low substantial platform profile. The low upper opening has a shallow curved rear arc and continues forward into two narrow transverse unfilled instep slots. A broad rounded-square closed toe box and low side quarters form the upper, while a one-piece platform sole follows the full perimeter, projects slightly beyond the toe and sides, and combines a softly rounded sidewall with a nearly level lower profile and a low integrated heel. One wide flat crosswise instep strap spans between the two open slots and anchors directly into both side quarters. The anatomical mirror counterparts use identical toe width, opening geometry, strap position, upper-panel seams, platform depth, and edge finish. Keep the toe boxes broad but not bulbous, the strap planes flat, the instep slots sharply bounded, the upper surfaces smooth, and the sole sidewalls dense and cleanly molded. Belt: Styling: - Belt placement: Place the complete belt as one flat diagonal closed circuit on the outermost surface of Mini dress, with the wearer-left upper-hip side distinctly lower than the wearer-right side. Maintain the same wearer-left-downward diagonal across the front and back; do not mirror it to image-left or twist the band. Preserve any separately selected buckle or knot position and tail treatment, and do not invent unregistered hardware. One pistachio crochet cord belt built from a long slender round braided cord and a dimensional yarn rosette. The flexible cord forms one complete adjustable circuit and retains a consistently narrow circular section. A large rosette is constructed from three concentric tiers of tightly crocheted scalloped petals around a compact spiral center. Two narrow unequal free tails end in clean bound yarn terminals, with the longer tail substantially exceeding the rosette diameter. Beside the rosette, the cord and tails are secured into a compact single-loop knot. Keep the cord smooth and untwisted, the knot compact, the petal tiers clearly separated, the spiral center legible, and the yarn color and stitch scale consistent across every component. Necklace: One fine silver-tone oval-link pendant necklace with a compact single-loop envelope; the pendant is distinctly broader than the chain and its drop remains short compared with the complete chain circuit. Small polished black bead stations punctuate the fine link path. The central pendant is a solid polished black heart with two rounded upper lobes and one clean lower point, framed by a narrow silver-tone rim and joined to the chain by a compact polished bail. Keep the links fine and individually resolved, the bead stations spherical, the heart face smooth and opaque, the rim uniform, and the metal joins precise with controlled reflections. Earrings: One matching pair of small pale warm-gold-tone round stud earrings, each constructed with one compact domed front face carrying subtle fine textured relief, one concealed straight post, and one matching friction clutch. Keep both earrings identical in diameter, section thickness, mounting depth, color, finish, and fastening construction. Complete the rear surfaces, post anchoring, clutches, hidden joins, and polished edges as one coherent matching pair with no chain, drop, pearl, colored enamel, readable branding, or additional component. Preserve precise bilateral matching, clean circular geometry, secure post construction, consistent relief depth, uniform plated finish, and restrained material-correct highlights. Bracelet: Styling: - Bracelet placement: VIEW-CONDITIONAL HARD SIDE MAP — choose one case by facing direction. FRONT OR NEAR-FRONT: IMAGE-RIGHT wrist = TARGET and IMAGE-LEFT wrist = NON-TARGET. BACK OR NEAR-BACK: IMAGE-LEFT wrist = TARGET and IMAGE-RIGHT wrist = NON-TARGET. PROFILE, CROSSED ARMS, OR AMBIGUOUS IMAGE SIDE: trace the subject's left arm from the left shoulder to its wrist; do not choose by screen side. TARGET is always the subject's anatomical left wrist; NON-TARGET is the anatomical right wrist. Render one complete instance of the registered bracelet item described directly below around TARGET only; keep NON-TARGET free of this bracelet and do not duplicate it. Preserve the registered design and count. Keep other separately selected wrist items unchanged. One delicate gold-tone chain bracelet with a fine flexible closed circuit and a sparse sequence of small translucent oval beads separated by exposed chain spans. The bead sequence alternates emerald green, pale rose, and deep plum accents, each bead secured by tiny gold wire loops and remaining distinctly la
+```
+
+**来源：** [@MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP/status/2087106361184141458) | 2026-08-11
+
+---
+
+### 🖥️ 例 5967：Skincare Self-Care Selfie Prompt
+
+![Skincare Self-Care Selfie Prompt](../images/Skincare%20Self-Care%20Selfie%20Prompt.jpg)
+
+**Prompt:**
+
+```text
+{
+  "image_generation": {
+    "subject": {
+      "description": "young woman",
+      "identity": "preserve facial features and identity exactly",
+      "pose": "low-angle selfie",
+      "expression": "playfully sticking out her tongue"
+    },
+    "appearance": {
+      "hair": "messy bun",
+      "nails": "square-shaped dark brown nails",
+      "skin": "natural realistic skin texture"
+    },
+    "outfit": {
+      "top": "loose brown t-shirt with a printed design"
+    },
+    "face": {
+      "mask": "{argument name="mask type" default="white fabric skincare face mask"}"
+    },
+    "props": {
+      "glass": "transparent glass filled with ice cubes"
+    },
+    "environment": {
+      "setting": "cozy modern home interior",
+      "background": "white wall with a modern lamp",
+      "atmosphere": "relaxed chill evening and self-care"
+    },
+    "lighting": {
+      "type": "warm indoor home lighting",
+      "style": "soft and natural"
+    },
+    "camera": {
+      "type": "smartphone selfie camera",
+      "angle": "low angle",
+      "framing": "portrait",
+      "aspect_ratio": "3:4"
+    },
+    "style": {
+      "quality": "high resolution",
+      "look": "realistic smartphone photography",
+      "details": "natural skin texture, realistic lighting, subtle film grain, high quality"
+    }
+  }
+}
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2087029582981685345) | 2026-08-11
+
+---
+
+### 🖥️ 例 5968：Cinematic Monochrome Fantasy Portrait
+
+![Cinematic Monochrome Fantasy Portrait](../images/Cinematic%20Monochrome%20Fantasy%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic black-and-white fantasy editorial portrait of {argument name="subject" default="me standing confidently in the center of a large mysterious crowd"}. The camera is positioned at approximately chest-to-eye level, with me as the clear focal subject. My body is shown from approximately the waist/chest up, while several {argument name="figures" default="dark hooded figures"} surround me in the foreground and background. Pose & expression: I am standing upright and composed, looking slightly to the side rather than directly at the camera, with a calm, serious, powerful expression. Natural posture, elegant presence. Hair: Keep my natural hair color converted to monochrome and style it into an elegant, intricate braided updo with soft loose strands framing the face. The hairstyle should look sophisticated and cinematic. Clothing: Replace my clothing with an {argument name="outfit" default="elegant light-colored formal/fantasy dress"}, long sleeves, refined high-fashion design, modest neckline, smooth flowing fabric. Add an elaborate statement collar/neckpiece with metallic ornamental details. Crowd: Surround me with many mysterious figures wearing deep black hooded robes. Their faces should remain mostly hidden in shadow, creating a dramatic anonymous crowd. The foreground figures should partially obscure the lower and side portions of the frame, naturally creating a tunnel-like composition that draws attention toward me. Lighting: Extremely dramatic cinematic lighting. The central woman is brightly illuminated while the surrounding hooded figures remain almost completely black and shadowed. Strong subject separation, soft highlights on the face, deep shadows, atmospheric contrast. Color & style: Strictly black and white monochrome, high contrast, cinematic film photography, dark fantasy editorial aesthetic, subtle film grain, realistic skin texture, detailed fabric, dramatic atmosphere, sophisticated composition. Composition: Vertical portrait, central symmetrical framing, shallow depth of field, central subject in sharp focus, background crowd slightly softer, foreground silhouettes blurred and dark, cinematic depth and perspective. Important identity instructions: My uploaded face must remain recognizable as the exact same person. Do not change my facial features or make me resemble a different person. Do not add glasses or sunglasses. No text, watermark, logo, or extra objects.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2087028978888720695) | 2026-08-11
+
+---
+

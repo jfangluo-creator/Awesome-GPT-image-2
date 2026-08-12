@@ -821,6 +821,22 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5885：Photorealistic Jodorowsky Dune Soldier](cat-ui.md#️-例-5885photorealistic-jodorowsky-dune-soldier)
 
 - [例 5900：Realistic City Selfie Portrait](cat-ui.md#️-例-5900realistic-city-selfie-portrait)
+
+- [例 5910：Rooftop School Uniform Portrait](cat-ui.md#️-例-5910rooftop-school-uniform-portrait)
+
+- [例 5929：Modern Chinese Graphic Design](cat-ui.md#️-例-5929modern-chinese-graphic-design)
+
+- [例 5931：Tokyo Police Robot Rescuing Cow](cat-ui.md#️-例-5931tokyo-police-robot-rescuing-cow)
+
+- [例 5937：Rainy Beijing Good Night Poster](cat-ui.md#️-例-5937rainy-beijing-good-night-poster)
+
+- [例 5943：White Suit Man in Hooded Crowd](cat-ui.md#️-例-5943white-suit-man-in-hooded-crowd)
+
+- [例 5948：Pistachio Crochet Cardigan and Plaid Mini Dress](cat-ui.md#️-例-5948pistachio-crochet-cardigan-and-plaid-mini-dress)
+
+- [例 5967：Skincare Self-Care Selfie Prompt](cat-ui.md#️-例-5967skincare-self-care-selfie-prompt)
+
+- [例 5968：Cinematic Monochrome Fantasy Portrait](cat-ui.md#️-例-5968cinematic-monochrome-fantasy-portrait)
 ---
 
 <a id="chart"></a>
@@ -2591,6 +2607,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5891：Black and White Studio Fashion Portrait](cat-poster.md#-例-5891black-and-white-studio-fashion-portrait)
 
 - [例 5905：Minimalist City Greeting Poster](cat-poster.md#-例-5905minimalist-city-greeting-poster)
+
+- [例 5964：Semi-Realistic Streetwear Campaign Poster](cat-poster.md#-例-5964semi-realistic-streetwear-campaign-poster)
 ---
 
 <a id="photo"></a>
@@ -7159,6 +7177,16 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5865：Sea Breeze Harbor Portrait](cat-photo.md#-例-5865sea-breeze-harbor-portrait)
 
 - [例 5877：Urban Skate Park Sporty CCD Portrait](cat-photo.md#-例-5877urban-skate-park-sporty-ccd-portrait)
+
+- [例 5941：Warring States Period Princess Portrait Photography](cat-photo.md#-例-5941warring-states-period-princess-portrait-photography)
+
+- [例 5949：Reaching Hand in Summer Park](cat-photo.md#-例-5949reaching-hand-in-summer-park)
+
+- [例 5953：Bright Summer Market CCD Photo](cat-photo.md#-例-5953bright-summer-market-ccd-photo)
+
+- [例 5955：Woman Holding Train Hand Strap](cat-photo.md#-例-5955woman-holding-train-hand-strap)
+
+- [例 5956：Photography Tutorial and Camera Setup Infographic](cat-photo.md#-例-5956photography-tutorial-and-camera-setup-infographic)
 ---
 
 <a id="illustration"></a>
@@ -8456,6 +8484,76 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5907：Amateur Night Photography Aesthetic](cat-illustration.md#-例-5907amateur-night-photography-aesthetic)
 
 - [例 5908：Sunlit Cafe Coffee Portrait](cat-illustration.md#-例-5908sunlit-cafe-coffee-portrait)
+
+- [例 5909：Three-Panel AI Image Quality Comparison](cat-illustration.md#-例-5909three-panel-ai-image-quality-comparison)
+
+- [例 5911：Girl in Yukata with Platinum Fireworks](cat-illustration.md#-例-5911girl-in-yukata-with-platinum-fireworks)
+
+- [例 5914：Realistic Woman Portrait with Wood Background](cat-illustration.md#-例-5914realistic-woman-portrait-with-wood-background)
+
+- [例 5915：Anime Development and Storyboard Sheet](cat-illustration.md#-例-5915anime-development-and-storyboard-sheet)
+
+- [例 5916：Parisian Night Seine Portrait](cat-illustration.md#-例-5916parisian-night-seine-portrait)
+
+- [例 5917：Wax Memory Minimal Poster](cat-illustration.md#-例-5917wax-memory-minimal-poster)
+
+- [例 5918：The Last Photo of Humanity](cat-illustration.md#-例-5918the-last-photo-of-humanity)
+
+- [例 5923：High-Contrast Monochrome Identity Portrait](cat-illustration.md#-例-5923high-contrast-monochrome-identity-portrait)
+
+- [例 5925：Fresh Morning Café Breakfast Ad](cat-illustration.md#-例-5925fresh-morning-café-breakfast-ad)
+
+- [例 5926：Indoor Fan Event Candid Portrait](cat-illustration.md#-例-5926indoor-fan-event-candid-portrait)
+
+- [例 5927：Halloween Fox-Eared Fantasy Girl](cat-illustration.md#-例-5927halloween-fox-eared-fantasy-girl)
+
+- [例 5928：Dim Apartment Sofa Portrait](cat-illustration.md#-例-5928dim-apartment-sofa-portrait)
+
+- [例 5930：Cinematic Chef Plating at Dusk](cat-illustration.md#-例-5930cinematic-chef-plating-at-dusk)
+
+- [例 5934：Fantasy Craftswoman Cosplay Portrait](cat-illustration.md#-例-5934fantasy-craftswoman-cosplay-portrait)
+
+- [例 5935：Mid-century Starbucks Cozy Corner](cat-illustration.md#-例-5935mid-century-starbucks-cozy-corner)
+
+- [例 5936：Anime Realistic Ninja Duo Portrait](cat-illustration.md#-例-5936anime-realistic-ninja-duo-portrait)
+
+- [例 5938：Yibo Racing Motion Fan Poster](cat-illustration.md#-例-5938yibo-racing-motion-fan-poster)
+
+- [例 5939：Five GitHub AI Tools Tech Poster](cat-illustration.md#-例-5939five-github-ai-tools-tech-poster)
+
+- [例 5942：Japanese Artist Poster Portrait](cat-illustration.md#-例-5942japanese-artist-poster-portrait)
+
+- [例 5944：Topographic Concentric Contour Line Portrait](cat-illustration.md#-例-5944topographic-concentric-contour-line-portrait)
+
+- [例 5945：Cinematic Night Subway Couple Portrait](cat-illustration.md#-例-5945cinematic-night-subway-couple-portrait)
+
+- [例 5946：Cinematic Male Studio Portrait](cat-illustration.md#-例-5946cinematic-male-studio-portrait)
+
+- [例 5958：Ultra-Premium Cinematic Sports Glitch Poster](cat-illustration.md#-例-5958ultra-premium-cinematic-sports-glitch-poster)
+
+- [例 5960：Dark Mode AI Model Leak Tweet](cat-illustration.md#-例-5960dark-mode-ai-model-leak-tweet)
+
+- [例 5961：Anime Mall Jewelry Heist Fight](cat-illustration.md#-例-5961anime-mall-jewelry-heist-fight)
+
+- [例 5962：Elegant Woman at Golden Hour in Modern City](cat-illustration.md#-例-5962elegant-woman-at-golden-hour-in-modern-city)
+
+- [例 5963：Swiss Typographic Fashion Travel Poster](cat-illustration.md#-例-5963swiss-typographic-fashion-travel-poster)
+
+- [例 5965：Teen With Chibi Pant-Leg Tug](cat-illustration.md#-例-5965teen-with-chibi-pant-leg-tug)
+
+- [例 5966：Polished Child Crayon Drawing Photo](cat-illustration.md#-例-5966polished-child-crayon-drawing-photo)
+
+- [例 5970：Cozy Winter Street Portrait](cat-illustration.md#-例-5970cozy-winter-street-portrait)
+
+- [例 5971：Cinematic Studio Orange and Blue Portrait](cat-illustration.md#-例-5971cinematic-studio-orange-and-blue-portrait)
+
+- [例 5973：Alpine Mountain Stream Selfie](cat-illustration.md#-例-5973alpine-mountain-stream-selfie)
+
+- [例 5974：Luxury Glasshouse Editorial Portrait](cat-illustration.md#-例-5974luxury-glasshouse-editorial-portrait)
+
+- [例 5975：Glad2Glow Facial Wash Storyboard](cat-illustration.md#-例-5975glad2glow-facial-wash-storyboard)
+
+- [例 5977：Scenic Hillside Fashion Portrait](cat-illustration.md#-例-5977scenic-hillside-fashion-portrait)
 ---
 
 <a id="character"></a>
@@ -9384,6 +9482,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5820：DNA Nucleotides 3D Infographic](cat-3d.md#-例-5820dna-nucleotides-3d-infographic)
 
 - [例 5870：Precise Anime Character Concept Reference Sheet](cat-3d.md#-例-5870precise-anime-character-concept-reference-sheet)
+
+- [例 5913：Stylized Hand-Painted 3D Game Asset](cat-3d.md#-例-5913stylized-hand-painted-3d-game-asset)
 ---
 
 <a id="architecture"></a>
@@ -11373,6 +11473,44 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 5903：Cozy Creative Universe Room](cat-brand.md#️-例-5903cozy-creative-universe-room)
 
 - [例 5904：Console Generations Rooftop Game Collage](cat-brand.md#️-例-5904console-generations-rooftop-game-collage)
+
+- [例 5912：Kobe Craft Beer Manga Comic](cat-brand.md#️-例-5912kobe-craft-beer-manga-comic)
+
+- [例 5919：Photorealistic Close-up Portrait in Vintage Car](cat-brand.md#️-例-5919photorealistic-close-up-portrait-in-vintage-car)
+
+- [例 5920：Castle Edit Markup Overlay](cat-brand.md#️-例-5920castle-edit-markup-overlay)
+
+- [例 5921：Futuristic Anime Idol Poster](cat-brand.md#️-例-5921futuristic-anime-idol-poster)
+
+- [例 5922：Anime Impact Battle Scene](cat-brand.md#️-例-5922anime-impact-battle-scene)
+
+- [例 5924：Modern Chinese Graphic Design Layout](cat-brand.md#️-例-5924modern-chinese-graphic-design-layout)
+
+- [例 5932：Mid-century McDonald's Drive-In Cartoon](cat-brand.md#️-例-5932mid-century-mcdonalds-drive-in-cartoon)
+
+- [例 5933：Minotaur Storming Fortress](cat-brand.md#️-例-5933minotaur-storming-fortress)
+
+- [例 5940：Ancient Chinese Mural of Celestial Musicians](cat-brand.md#️-例-5940ancient-chinese-mural-of-celestial-musicians)
+
+- [例 5947：Editorial City Poster Design](cat-brand.md#️-例-5947editorial-city-poster-design)
+
+- [例 5950：Futuristic VTuber Debut Poster](cat-brand.md#️-例-5950futuristic-vtuber-debut-poster)
+
+- [例 5951：Vintage Car Interior Portrait](cat-brand.md#️-例-5951vintage-car-interior-portrait)
+
+- [例 5952：Qwen Image Model Review Banner](cat-brand.md#️-例-5952qwen-image-model-review-banner)
+
+- [例 5954：Dark Pop Horror Alley Twins](cat-brand.md#️-例-5954dark-pop-horror-alley-twins)
+
+- [例 5957：Professional Corporate Office Portrait](cat-brand.md#️-例-5957professional-corporate-office-portrait)
+
+- [例 5959：Hamster Taiko Festival Manga Scene](cat-brand.md#️-例-5959hamster-taiko-festival-manga-scene)
+
+- [例 5969：Mid-Century 1960s Travel Illustration](cat-brand.md#️-例-5969mid-century-1960s-travel-illustration)
+
+- [例 5972：Vitamin C Serum Beauty Ad](cat-brand.md#️-例-5972vitamin-c-serum-beauty-ad)
+
+- [例 5976：Good Morning Singapore Window Poster](cat-brand.md#️-例-5976good-morning-singapore-window-poster)
 ---
 
 <a id="edit"></a>

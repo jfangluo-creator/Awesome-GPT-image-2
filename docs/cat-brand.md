@@ -15205,3 +15205,398 @@ Character details: use one recurring heroine, {argument name="character name" de
 
 ---
 
+### 🏷️ 例 5912：Kobe Craft Beer Manga Comic
+
+![Kobe Craft Beer Manga Comic](../images/Kobe%20Craft%20Beer%20Manga%20Comic.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a colorful Japanese manga-style food review comic about a chibi character visiting a Kobe craft beer restaurant and enjoying small-size tasting portions.
+
+Canvas: Vertical 3:4 comic page, bold black panel borders, bright saturated colors, clean digital manga line art, halftone dots and speed-line backgrounds, expressive chibi proportions. The main character is {argument name="character name" default="a chibi black-haired boy with rectangular glasses"}, wearing {argument name="outfit" default="a red beret, orange T-shirt, blue jeans, and black sneakers"}. Use thick outlines, exaggerated facial expressions, and readable Japanese speech bubbles.
+
+Layout: Use exactly 5 comic panels.
+1. Top-left panel: The character sits at a wooden restaurant table studying a menu and writing with a pen, looking serious and slightly confused. Add one oval speech bubble reading 「種類が多い…」.
+2. Top-right panel: The character walks up a narrow exterior stairway beside a standing yellow signboard that reads “KOBE BEER” with small Japanese text beneath it. The character points excitedly. Add two speech bubbles reading 「神戸の地ビールかー」 and 「珍しいな」.
+3. Large center panel spanning the width: The character sits at a wooden table eating from a bowl with a spoon, smiling widely. Show exactly 5 food and drink items on the table: a red craft beer glass labeled “Craft Kobe,” a golden craft beer glass labeled “Craft Kobe,” a bowl of soup or stew, a plate of sliced prosciutto, a small salad plate, and a plate of fried chicken karaage. Add two jagged manga burst speech bubbles reading 「いろいろ楽しむぜ！」 and 「Sサイズで…」. Use a warm yellow radial burst background.
+4. Bottom-left panel: Close-up of the happy character laughing with a pink speed-line background. Add two speech bubbles, one oval reading 「唐揚ぎもうまい」 and one jagged reading 「うまーい！ぷはぁ〜」.
+5. Bottom-right panel: The character nervously holds a large golden beer glass with foam, sweating slightly, seated at the table with a dark blue uneasy background and wavy stress lines. No extra dialogue except small sweat/emotion marks.
+
+Text content: Preserve all Japanese text exactly as written, including 「種類が多い…」, 「神戸の地ビールかー」, 「珍しいな」, 「いろいろ楽しむぜ！」, 「Sサイズで…」, 「唐揚ぎもうまい」, and 「うまーい！ぷはぁ〜」. The beer sign must say {argument name="beer sign text" default="KOBE BEER"}. The glass labels must say {argument name="glass label text" default="Craft Kobe"}.
+
+Visual style: Playful shonen manga restaurant report, crisp inked outlines, white speech balloons with black Japanese lettering, energetic panel composition, appetizing food illustration, cozy wooden tabletop details, lively but not photorealistic.
+
+Constraints: Use exactly 5 panels, exactly 7 Japanese speech bubbles across the comic, and the listed visible food/drink arrangement. Do not add extra menu writing beyond small unreadable marks, do not add additional characters, and avoid photorealism.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2087229258288751002) | 2026-08-11
+
+---
+
+### 🏷️ 例 5919：Photorealistic Close-up Portrait in Vintage Car
+
+![Photorealistic Close-up Portrait in Vintage Car](../images/Photorealistic%20Close-up%20Portrait%20in%20Vintage%20Car.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic close-up over-the-shoulder portrait of the exact same {argument name="woman" default="young woman"} from the reference image. Preserve her facial identity, face shape, light blue-green eyes, thick natural eyebrows, nose, lips, skin tone, and distinctive facial features exactly as shown in the reference. Preserve her {argument name="hair color" default="dirty-blonde"} hair and overall appearance. She is sitting in the back seat of a {argument name="car style" default="vintage car"}, resting her arm on the leather upholstery and looking directly into the camera. Soft ambient light, rain-streaked window in the background, cinematic 85mm lens, shallow depth of field, realistic skin texture, high-end fashion photography. Generate only one image, single frame, no collage, no split-screen, no multiple panels.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2087193151832555656) | 2026-08-11
+
+---
+
+### 🏷️ 例 5920：Castle Edit Markup Overlay
+
+![Castle Edit Markup Overlay](../images/Castle%20Edit%20Markup%20Overlay.jpg)
+
+**Prompt:**
+
+```text
+Using REFERENCE_0 as the base image, keep the castle artwork unchanged and overlay rough handwritten edit notes directly on top of it, as if marking areas for an image-editing revision.
+
+Add exactly 2 annotation groups:
+1. Red annotation group on the tall rear tower near the upper-right center: draw red diagonal hatching across the tower, add a red arrow pointing toward it, and add the handwritten Japanese note {argument name="red edit note" default="一番奥の高いこの塔を崩して、無くして空にして。"} in the upper-right sky area.
+2. Green annotation group around the crumbling edge/remaining structure near the middle top: draw a green irregular outline around the broken area, add a green arrow pointing down to it, and add the handwritten Japanese note {argument name="green edit note" default="この辺崩れのこっている"} in the upper-middle sky area.
+
+Style constraints: the annotations should look like quick digital pen markup, not integrated into the painting; keep the original watercolor fantasy castle image otherwise intact with no actual architectural removal yet.
+```
+
+**来源：** [@ててつろう](https://x.com/craftcapitallab/status/2087192481054290301) | 2026-08-11
+
+---
+
+### 🏷️ 例 5921：Futuristic Anime Idol Poster
+
+![Futuristic Anime Idol Poster](../images/Futuristic%20Anime%20Idol%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a vibrant vertical anime key visual / promotional poster for a futuristic virtual idol named {argument name="character name" default="Amaha Mirai"}, blending cute idol energy, sci-fi city branding, and dreamy pastel cyber aesthetics.
+
+Canvas: Vertical 2:3 poster, full bleed, high resolution. Bright daytime sky with saturated cyan blue, fluffy clouds, sparkles, lens glow, floating feathers, flower petals, and soft bloom. Overall palette is white, sky blue, cyan, lavender, pastel pink, and iridescent holographic accents.
+
+Main subject: One central anime girl idol in a dynamic close-up perspective, reaching her left hand toward the viewer with exaggerated foreshortening. She is smiling widely with an inviting open-mouth expression, rosy cheeks, large sparkling blue-purple starry eyes, and long flowing {argument name="hair color" default="silver-white hair with cyan and pink streaks"}. Her hair streams across the image with many ribbons and strands, decorated with futuristic clips including a pink triangular hair clip, black X hairpins, a small white wing ornament, translucent blue-black ribbons, and pastel tech accessories. She wears a white futuristic idol crop top and jacket with translucent sleeves, black straps, holographic trims, wing logo, choker collar, belts, dangling crystal charms, and pink-blue iridescent panels. Make her pose joyful, open, and welcoming, as if inviting the viewer into the future.
+
+Background: A luminous futuristic city plaza with tall glass towers, curved sky rails, floating platforms, large holographic billboards, neon signage, and soft architectural curves. Include one large cylindrical billboard on the left, one rectangular character billboard on the right, and multiple smaller glowing screens integrated into buildings. Add pink flowers blurred in the foreground at the bottom edge for depth.
+
+Typography and text content: Use large Japanese title typography across the top reading {argument name="main Japanese title" default="天羽ミライ"}, with huge elegant white-to-pink gradient characters and small sparkle accents. Directly below it place spaced roman letters reading “AMAHA  MIRAI” with a small feather icon between the words. Add a large handwritten slogan across the lower middle reading {argument name="main slogan" default="きらめく未来に、ログイン。"} in pink and cyan brush lettering on a white glowing swoosh, with small stars and a wing doodle. At the bottom center add “— 近日始動 —”.
+
+Count and placement of visible secondary text blocks: Include exactly 8 secondary text blocks: 1) on the left cylindrical billboard, “VIRTUAL CONNECTS REAL”; 2) left midair Japanese copy “つながる みらい。 一緒に、見に行こう。”; 3) upper right small Japanese copy “夢は、もっと近くにある。”; 4) right rectangular billboard with character portrait, “AMAHA MIRAI” and “More Kawaii More Future” plus a heart; 5) right mid-lower Japanese copy “バーチャルから はじまる、 本物のキセキ”; 6) lower left vertical icon list with four items: “MUSIC”, “GAME”, “TALK”, “LIVE”, followed by “— AND MORE...” ; 7) tiny lower-left project label “AMAHA MIRAI Vtuber Project” with small social-style icons; 8) tiny lower-right tagline “NEW STORY. NEW WORLD. WITH YOU.”
+
+Visual style: Polished high-detail anime illustration, idol poster composition, glossy gpt-image style, crisp linework, translucent fabric, holographic reflections, sparkling eyes, soft atmospheric depth, cinematic bloom, clean commercial design, cute and futuristic.
+
+Constraints: Keep exactly one main character. Keep the poster crowded but readable. Preserve all specified text placements and approximate wording. Avoid realism, dark mood, gritty textures, extra characters, distorted hands, unreadable main title, or random additional logos.
+```
+
+**来源：** [@ヤレヤル](https://x.com/YaReYaRu30Life/status/2087188767019037176) | 2026-08-11
+
+---
+
+### 🏷️ 例 5922：Anime Impact Battle Scene
+
+![Anime Impact Battle Scene](../images/Anime%20Impact%20Battle%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a dynamic high-detail anime battle illustration showing {argument name="attacker name" default="Origin-sama"} violently slamming {argument name="victim name" default="a pink-haired magical girl"} headfirst into a cracked stone floor. The attacker is a fierce young woman with split black-and-white hair accented by vivid red streaks, long thick twin braids whipping outward like ropes, small round hair buns, sharp teal eyes, and a black star-pattern mask across her eyes. She wears a black tailored jacket over a white ruffled blouse, a short black skirt with red lining and white frills, black shoes, and a dramatic combat pose with one knee raised while her hand grips the victim’s head. The victim has very long flowing pastel pink hair, a frilly white magical-girl dress with orange trim and ribbons, white gloves, and is shown upside down at the moment of impact, one hand braced on the rubble. Emphasize the hit-reaction scene rather than a clean attack pose: the victim’s hair explodes across the foreground, the ground shatters into a crater, rocks and dust fly in all directions, and bright pink-red energy ribbons spiral around both characters. Use an intense low-angle vertical composition, cinematic foreshortening, motion blur, debris arcs, dramatic lighting, dark smoky background, glowing highlights, and polished modern anime rendering with extremely detailed fabric, hair strands, impact particles, and swirling shockwave effects. No text, no speech bubbles, no watermark.
+```
+
+**来源：** [@ねね*](https://x.com/NeneneAI/status/2087180441988075975) | 2026-08-11
+
+---
+
+### 🏷️ 例 5924：Modern Chinese Graphic Design Layout
+
+![Modern Chinese Graphic Design Layout](../images/Modern%20Chinese%20Graphic%20Design%20Layout.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题对象" default="任意主题对象"}构建以巨大中文主题字、几何色块与单线有机轮廓互相穿越的现代平面视觉。整体保持高明度纯净底场，让约三分之二以上空间留白，以偏离中心的聚集区承载主要重量：一块饱和的{argument name="主题主色" default="主题主色"}矩形先建立稳定平面，较深低明度的冷向圆形从其下方交叠并越出边界，主题核心汉字以超大重黑几何笔画纵向推进，跨过白底、矩形和圆形，不完整遮挡与裁切形成强烈尺度跳变；左侧日期与双语副标题组成紧凑的数字栏目，右侧以粗细两级竖排短句平衡重量，少量微型说明、短横线与线性符号散布在边缘，形成从主字到旁注再到细节的三级阅读节奏。把主题派生的动态关系抽象成一条连续的有机轮廓，采用清晰近黑单线勾勒宽阔回旋形态，从大片留白进入色块并越过边缘，曲线多次相交但保持可辨的单一路径；轮廓内部大部分保留底色，仅在尖端与延伸段加入局部透明的主题主色渐隐，使轻盈线条与厚重巨字形成张力。色彩随主题自适应选取：最大面积由干净高明度中性底承担，主题主色保持鲜明高饱和并用于矩形与局部透明渐变，圆形采用与主色拉开色相距离的深冷支撑色，末端混入主色形成柔和扩散，文字与轮廓使用近黑，极少量浅色文字反压在主色块上；固定不等面积、明暗层级和饱和度差，不固定具体色名。所有元素呈哑光数字印刷般的平整表面，轮廓边缘锐利，渐变只在两个局部缓慢羽化，不加立体阴影、纸张颗粒或全局光效。字体保持低对比、宽厚、近几何黑体骨架，主字允许部件拉长、错位、切出与跨色块换底，数字采用圆角未来感结构，小字以窄体和宽松字距收束；品牌、广告话术与具体日期均由新主题信息替换。最终保留极端留白、中央偏下的几何聚集、纵横文字对向拉力，以及有机线条穿越刚性图形的瞬间，避免把各部分均匀铺满或把轮廓简化成孤立装饰。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2087178396317130860) | 2026-08-11
+
+---
+
+### 🏷️ 例 5932：Mid-century McDonald's Drive-In Cartoon
+
+![Mid-century McDonald's Drive-In Cartoon](../images/Mid-century%20McDonald's%20Drive-In%20Cartoon.jpg)
+
+**Prompt:**
+
+```text
+Mid-century theatrical cartoon still promotional banner featuring a fun-loving young man with a {argument name="hair style" default="playful blond crew cut"} wearing a {argument name="top" default="red-and-white striped shirt"}, and a cheerful young woman with bright red curly hair wearing a yellow cardigan and skirt, seated in a classic convertible at a glowing drive-in. They share golden {argument name="food" default="McDonald’s fries and burgers"} in a lighthearted, good-humored interaction, both characters fully visible, relaxed, and clearly reacting to each other with pure joy. Design the figures with exaggerated early-1950s animation caricature: clean black contour lines, sharply simplified anatomy, elegant angular silhouettes, expressive eyebrows, stylized facial shapes, graceful hand gestures, and cheerful readable expressions. Render the entire image in a unified traditional cel-animation aesthetic, with the background following the same stylized visual language as the characters, using flat opaque colors, minimal hard-edged shading, simplified furniture and décor, subtle hand-painted texture, controlled perspective, and crisp theatrical staging. Use a classic fast-food palette of bright red, golden yellow, white, and soft cream and maintain a witty, charming, visually snappy mood.
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087164685363880154) | 2026-08-11
+
+---
+
+### 🏷️ 例 5933：Minotaur Storming Fortress
+
+![Minotaur Storming Fortress](../images/Minotaur%20Storming%20Fortress.jpg)
+
+**Prompt:**
+
+```text
+Create an epic dark fantasy cinematic battle scene of {argument name="main creature" default="a colossal minotaur"} assaulting {argument name="fortress type" default="a medieval stone fortress"}. Use a dramatic low-angle perspective from the viewpoint of human soldiers at the creature’s feet, making the monster tower over the frame. The minotaur is extremely muscular, covered in rough brown hide and tangled black fur around the neck and head, with two huge curved ivory horns, a snarling bull face, bared teeth, and furious eyes. It wears brutal dark leather and iron barbarian armor: wrist bracers, straps across the chest, metal rings, a ragged leather loincloth, belts, and spiked details. It raises both arms overhead, gripping a massive double-bladed battle axe with a long wrapped handle and a weathered, chipped, dark steel blade, preparing to smash downward. In the foreground, show exactly two human defenders partially visible from behind: one armored soldier at lower left with a rounded steel helmet, shoulder armor, sword, and red cloak, and one armored soldier at lower right with a steel helmet and dark armor. Around them, depict flying chunks of stone, dust, gravel, and impact debris suspended in the air. The background shows tall ruined castle towers, battlements, arched stone walls, tattered red banners, smoke, haze, and bright cloudy daylight breaking through, creating harsh rim light and deep shadows. Visual style: ultra-detailed photorealistic fantasy concept art, gritty medieval realism, cinematic composition, dynamic action, high contrast, textured stone and metal, dust-filled atmosphere, shallow depth of field, dramatic scale, no modern objects, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2087163999720997035) | 2026-08-11
+
+---
+
+### 🏷️ 例 5940：Ancient Chinese Mural of Celestial Musicians
+
+![Ancient Chinese Mural of Celestial Musicians](../images/Ancient%20Chinese%20Mural%20of%20Celestial%20Musicians.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium vertical Chinese ink-and-light-color mural-style painting that preserves the exact core structure, ancient fresco atmosphere, and floating musical-divine elegance of the image, while strengthening the first-glance focus on the two celestial musicians and unifying the whole picture into a more rigorous ancient mural color system. The final artwork must show two adult celestial court women suspended diagonally through the center of a tall vertical frame, surrounded by pale cloud-scrolls, long streaming silk ribbons, muted lotus-like floral motifs, and softly weathered wall texture. The image must feel like a museum-grade re-creation of an ancient eastern mural, rendered in refined ink-and-light-color language with graceful feminine movement, restrained ornament, and large areas of aged breathable space. No readable text, no seal, no watermark, no logo.
+
+Core composition:
+Use a tall vertical composition with the two women arranged along a descending diagonal from upper-left to lower-right. The upper figure floats slightly higher and plays a transverse flute; the lower figure hovers beneath and plays a pipa-like lute. Their bodies should curve in elegant S-shaped arcs, with long ribbons and trailing skirts weaving through the composition and linking them into one continuous celestial rhythm. Around them, place clusters of pale auspicious clouds and a few muted lotus-rosette motifs dispersed across the background. The entire structure must feel light, musical, and suspended in timeless space.
+
+Orbit emphasis:
+Increase the visual purity and subtle emphasis of the faces, hands, and instrument zones so the viewer’s eye is immediately drawn to the sacred “two-musician” core before reading the surrounding cloud and ribbon field. The facial planes, hand gestures, and instrument contours should feel slightly clearer, more luminous, and more refined than the outer motifs, while still fully integrated into the mural softness. The first impression should be spiritual musical presence, not decorative atmosphere.
+
+Figure design:
+Depict two unmistakably adult eastern celestial women with mature refined classical features, slender necks, soft oval faces, lowered eyes, and serene inward expressions. Their presence should feel sacred, gentle, and musically absorbed. Avoid childlike proportions. Their hair should be styled in elegant high ancient updos with minimal refined head ornaments and softly trailing strands. Keep the facial treatment delicate and restrained.
+
+Costume design:
+Dress both figures in ancient celestial dance-musician attire inspired by mural aesthetics: lightly draped upper garments, flowing translucent shawls, long ribbon scarves, and elegant layered skirts in faded mineral teal, dusty blue-green, muted rose-brown, pale earth red, and aged ivory. The garments should reveal the torso in a classical mural manner while remaining tasteful, sacred, and balanced. Fabrics should flow weightlessly and merge into the cloud and ribbon movements.
+
+Instrument logic:
+The upper woman plays a bamboo flute held near the lips with graceful, precise hand positioning. The lower woman holds a pipa-like instrument with refined curvature, aged wood tone, subtle line ornament, and elegant neck detail. The instruments should feel historically poetic rather than hyper-realistic, integrated into the mural rhythm. Fingers and hand joints must remain graceful and anatomically believable.
+
+Transit visual system:
+Unify the entire image into a stricter ancient mural color-and-form system. The cloud-scrolls, ribbons, skirt mineral layers, faded floral motifs, robe edges, and weathered wall textures must all share one coherent set of tones, pigment density, and line rhythm. The mineral teal, dusty blue-green, softened rose-brown, aged ivory, and pale ink-gray should feel deliberately harmonized, with no stray saturation or isolated detail language. The whole image must read as one complete high-grade oriental mural poster, not a collage of attractive fragments.
+
+Painting language:
+Render the whole artwork in traditional Chinese mural-inspired ink-and-light-color technique on aged wall or paper texture: ink as structure, soft mineral washes, faded earth pigments, delicate contour lines, cloud-scroll motifs, low-saturation chroma, and gentle weathering. Preserve the feeling of ancient wall painting softened by time: slight abrasion, softened outlines, pigment bloom, and surface patina, while keeping the image clean and premium.
+
+Color direction:
+Use a muted antique palette of faded beige wall tone, pale ink gray, dusty teal, mineral blue-green, softened rose-brown, antique red, faded lotus pink, and restrained bone-white cloud forms. Keep the colors low-saturation, time-worn, elegant, and harmonious. The palette must feel ancient, breathable, and spiritually quiet.
+
+Background and texture:
+The background should resemble an aged mural ground or textured ancient paper wall, with subtle irregular stains, patina, faint rubbed areas, and extremely soft time-wear, but never dirty or chaotic. The background must remain spacious and breathable, allowing the figures, clouds, and ribbons to hover with grace. Include only a few very subtle remnants of ancient decorative traces.
+
+Atmospheric motifs:
+Surround the figures with elegant white cloud-scroll clusters, pale lotus-like blossoms, and delicate trailing ribbon ends. Keep the motifs sparse and carefully placed so they support the vertical flow rather than distract from the two musicians. The ribbons should move like musical lines through the air, carrying visual rhythm from one figure to the other.
+
+Lighting and tone:
+Use extremely soft diffuse ambient light with no hard shadow. The luminosity should come from gentle tonal separation, faded mineral layering, and the pale contrast between figures and aged background. Build slightly stronger clarity around the faces, hands, and instruments so the central sacred performance reads first without breaking the fresco softness.
+
+Mood:
+ancient, sacred, musical, floating, mural-like, serene, elegant, faded, poetic, celestial, refined, museum-grade, timeless
+
+Rendering style:
+traditional Chinese mural-inspired ink-and-light-color painting, aged wall texture, two adult celestial musicians, enhanced face-hand-instrument focus, unified ancient mural color system, flowing ribbons and cloud-scrolls, muted mineral pigments, large breathable space, museum-grade eastern fresco elegance, ultra-refined brushwork, 8k
+
+Negative prompt:
+readable text, seal, watermark, logo, Western watercolor, thick paint, hard shadow, CGI rendering, anime style, neon color, sharp graphic contrast, heavy black blocks, cluttered ornament, childish face, vulgar anatomy, plastic texture, noisy background
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2087144910759792712) | 2026-08-11
+
+---
+
+### 🏷️ 例 5947：Editorial City Poster Design
+
+![Editorial City Poster Design](../images/Editorial%20City%20Poster%20Design.jpg)
+
+**Prompt:**
+
+```text
+Recreate the reference image as a premium editorial city poster. Replace the original person with {argument name="subject" default="the person from the uploaded image"} while preserving {argument name="subject reference" default="SUBJECT"}'s identity, facial features, hairstyle, hair color, skin tone, and natural appearance. {argument name="subject reference" default="SUBJECT"} must be standing in the SAME pose, SAME body orientation, SAME framing, SAME scale, and approximately the SAME position as the reference subject.
+
+Replace the original city with {argument name="city name" default="CITY_NAME"} and rebuild the surrounding skyline, landmarks, architecture, bridge, and urban photography specifically for {argument name="city name" default="CITY_NAME"}. Replace all city-specific labels, coordinates, location information, and captions accordingly.
+
+CRITICAL TYPOGRAPHY COMPOSITION: The oversized {argument name="city name" default="CITY_NAME"} typography must be physically layered OVER the standing character, exactly like the reference. Do NOT place all of the city text behind the subject. The large {argument name="city name" default="CITY_NAME"} letters must pass across the subject's body and overlap her clothing and lower torso, visibly covering portions of her. At the same time, some portions of the typography should remain behind her head and shoulders. Create a true foreground/background collage: BACKGROUND CITY IMAGERY → SUBJECT → FOREGROUND OVERSIZED {argument name="city name" default="CITY_NAME"} LETTERS. The foreground letters must visibly obscure portions of the subject while the subject remains recognizable through the gaps and around the typography. The large letters should intersect the character naturally rather than appearing as text floating beside her.
+
+The oversized {argument name="city name" default="CITY_NAME"} typography should dominate the composition and extend almost across the entire poster width. Integrate grayscale city photography inside selected portions of the letters. Keep the typography bold, geometric, heavy, and editorial. Make the letters large enough to cross directly over the subject's torso and lower body.
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2087113728185749607) | 2026-08-11
+
+---
+
+### 🏷️ 例 5950：Futuristic VTuber Debut Poster
+
+![Futuristic VTuber Debut Poster](../images/Futuristic%20VTuber%20Debut%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a glossy VTuber-style teaser key visual for a futuristic idol debut, centered on {argument name="character name" default="Amaha Mirai"}, with strong character presence and high-energy anime advertising design.
+
+Canvas: Vertical 3:4 poster, full bleed, ultra-detailed anime illustration, vibrant cyan, electric blue, magenta, lavender, and white lighting, sparkling bloom effects, clean commercial finish.
+
+Layout: Put a huge glowing Japanese title across the top reading {argument name="main title text" default="天羽ミライ"}, with small spaced roman letters above it reading “AMAHA MIRAI”. Center-right foreground shows the VTuber idol reaching one hand toward the viewer in dynamic perspective. The background is a bright futuristic city canyon with holographic billboards and glass skyscrapers. Across the lower middle, add a glowing slogan line reading {argument name="slogan text" default="きらめく未来に、ログイン。"}. At the very bottom, add a smaller launch notice reading {argument name="launch text" default="近日始動"}, framed by tiny star symbols and decorative sci-fi divider lines.
+
+Subject details: Draw one cheerful young anime idol girl with long flowing {argument name="hair color" default="silvery white with pale blue and pink highlights"} hair, large blue-violet eyes, open smiling mouth, soft blush, and a headset microphone. She wears a futuristic cropped idol jacket in white and pastel blue with pink accents, star pins, metallic trims, a short layered translucent skirt, belts, straps, and iridescent fabric details. Add hair accessories: exactly 3 visible accessories — one large bow-and-ribbon ornament on the right side of her head, one small star clip near the left bangs, and two small pink hairpins grouped on the right bangs as a single accessory cluster.
+
+Background elements: Include exactly 5 prominent futuristic promotional elements — one giant holographic billboard on the left showing the same idol with “LIVE” styling, one small flying camera drone near the upper-left sky, one central needle-like tower, one neon triangular sign in the lower-left corner, and one bright holographic sign on the right building. Fill the scene with pink flower-petal confetti, star sparkles, lens flares, and light streaks.
+
+Visual style: Modern Japanese anime poster, high-saturation cyber-pop city, luminous rim lighting, crisp linework, detailed hair strands, polished VTuber debut advertisement aesthetic, energetic perspective, dreamy yet sharp.
+
+Constraints: Keep the image as a single poster, no extra characters, no logo watermark, make all text large and decorative but legible, preserve the Japanese text exactly as specified in the slots, and avoid cluttering the face or outstretched hand with text.
+```
+
+**来源：** [@みかみ｜AI発信と副業](https://x.com/kotsu_kotsu_san/status/2087100775499706741) | 2026-08-11
+
+---
+
+### 🏷️ 例 5951：Vintage Car Interior Portrait
+
+![Vintage Car Interior Portrait](../images/Vintage%20Car%20Interior%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Photorealistic close-up over-the-shoulder portrait of a young adult woman with {argument name="eye color" default="light blue-green"} eyes, thick natural eyebrows, and {argument name="hair style" default="messy dirty-blonde hair tied back"}. She is sitting in the back seat of a vintage car, resting her arm on the leather upholstery and looking directly into the camera. Soft ambient light, rain-streaked window in the background, cinematic {argument name="lens" default="85mm"} lens, shallow depth of field, realistic skin texture, high-end fashion photography. Generate only one image, single frame, no collage, no split-screen, no multiple panels.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2087098420574191684) | 2026-08-11
+
+---
+
+### 🏷️ 例 5952：Qwen Image Model Review Banner
+
+![Qwen Image Model Review Banner](../images/Qwen%20Image%20Model%20Review%20Banner.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic editorial social media banner for an AI model review of {argument name="model name" default="Qwen Image 3.0 Pro"}, combining a luxury lounge fashion photograph with bold tech-review typography.
+
+Canvas: Wide landscape 16:9 banner, about 1200×675 px, optimized for X/Twitter link preview. Use a warm golden color grade with high contrast and shallow cinematic lighting.
+
+Main image: A fashionable adult woman lounges diagonally across a mustard-yellow velvet sofa in an art deco interior. She has loose wavy brown hair, red lipstick, and a confident relaxed expression, wearing a deep royal-blue velvet blazer dress with gold buttons, bare legs, and dark brown knee-high boots. Her left side is toward the viewer; she holds a champagne flute in one hand near the left edge while reclining with legs extended toward the lower right. The room has patterned gold wallpaper, dark wood wall paneling, a green carpet, and a glowing vintage floor lamp near the upper center-right. Include a small side table on the right with stacked art/design books and a draped burgundy fabric, creating a 1920s Parisian hotel lounge mood.
+
+Text layout: Place large review text on the right half, leaving the woman mostly unobstructed on the left. Use exactly 3 main text elements: top label “Model Review” in bold teal-green sans serif, main title “Qwen Image” in very large bold white sans serif, and version line “3.0 Pro” in extra-large bold teal-green sans serif. Add a small footer credit near the bottom left-center reading “{argument name="footer credit" default="302.AI | Benchmark Labs"}” in thin white sans serif.
+
+Logo area: At the bottom right, show exactly 3 discrete logo/comparison elements: a rounded white square containing a purple circular clover-like AI icon on the left, a white “×” multiplication sign in the middle, and a rounded white square containing a purple geometric star/cube-like logo on the right.
+
+Visual style: Luxury editorial photography blended with clean SaaS benchmark branding; crisp typography, warm amber highlights, teal accent text, deep green floor, mustard sofa, royal-blue outfit. Make the composition look like a polished review thumbnail for {argument name="review topic" default="Qwen Image 3.0 Pro versus GPT-Image-2"}.
+
+Constraints: Keep all visible text legible and spelled exactly as specified. Do not add extra captions, watermarks, interface chrome, or additional logos. Preserve the wide banner layout and the three-logo comparison cluster.
+```
+
+**来源：** [@302.AI](https://x.com/302aiofficial/status/2087085783106961608) | 2026-08-11
+
+---
+
+### 🏷️ 例 5954：Dark Pop Horror Alley Twins
+
+![Dark Pop Horror Alley Twins](../images/Dark%20Pop%20Horror%20Alley%20Twins.jpg)
+
+**Prompt:**
+
+```text
+Create a vivid dark-pop horror anime street-fashion illustration of two young punk girls standing close together in a narrow urban alley covered wall-to-wall in graffiti. The scene should feel like Harajuku streetwear mixed with cute horror, neon pop art, and gritty cyberpunk alley photography. Use a low-angle full-body composition, vertical 3:4 canvas, with the girls centered and towering slightly over the viewer, framed by tall buildings on both sides and a bright cyan-blue sky visible above. The alley walls, pavement, utility pipes, fire escapes, trash bin, and distant background must be saturated with layered graffiti in hot pink, cyan, yellow, black, white, and teal, including cute skulls, one-eyed monsters, cartoon ghosts, crosses, splatter paint, halftone dots, and bold bubble-letter tags.
+
+Subject details: show exactly 2 girls. Both have pale skin, slim builds, long black hair with bangs, pink streaks, heavy eyeliner, small blush, and a cool melancholic expression. The left girl wears a black beanie with a small cute skull-bunny patch, a black oversized hoodie with a large pink monster graphic, black ripped cargo pants covered in patches, chains, straps, safety pins, pink crosses, and skull charms, plus chunky black-and-white platform sneakers with pink laces. The right girl wears a hot-pink beanie with a small patch, a white oversized hoodie with a black-and-pink cute monster face graphic, black ripped cargo pants with chains and pink cross patches, and matching chunky platform sneakers. Their poses should be relaxed and confident, hands partly in pockets, shoulders angled inward as if they are close friends or twins.
+
+Counted visible fashion elements to emphasize: exactly 2 beanies, exactly 2 oversized hoodies, exactly 2 pairs of ripped cargo pants, exactly 2 pairs of chunky platform sneakers, multiple silver chains on both pants, at least 4 prominent pink cross patches, at least 4 cute skull or monster patches, and repeated horror-cute motifs across clothing and walls. Use expressive manga/anime linework with detailed ink hatching, rough screen-tone texture, paint splatters, sticker-like graphics, and high-contrast neon colors. Make the illustration dense and maximalist but keep the two characters clearly readable. Avoid realism, avoid clean minimal backgrounds, avoid extra people, and avoid legible brand names or readable copyrighted logos.
+```
+
+**来源：** [@春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki/status/2087079600182665651) | 2026-08-11
+
+---
+
+### 🏷️ 例 5957：Professional Corporate Office Portrait
+
+![Professional Corporate Office Portrait](../images/Professional%20Corporate%20Office%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a 9:16 vertical photorealistic office portrait using the second image as the exact face reference. Keep her facial identity, hair, and features unchanged. Place her seated at the same modern office desk with laptop, documents, books, floor-to-ceiling windows, {argument name="view" default="city view"}, and wall frame from the first image. Keep the same outfit and professional mood. Soft natural daylight, premium corporate aesthetic, realistic details, 4K.
+```
+
+**来源：** [@liana](https://x.com/Lianaalane/status/2087052433113637072) | 2026-08-11
+
+---
+
+### 🏷️ 例 5959：Hamster Taiko Festival Manga Scene
+
+![Hamster Taiko Festival Manga Scene](../images/Hamster%20Taiko%20Festival%20Manga%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a vibrant square manga-style festival illustration of {argument name="animal performers" default="cute hamsters"} performing Japanese taiko drums at night during a matsuri. The composition is packed and energetic, with three large foreground hamster drummers as the focus: the center hamster is largest, wearing a red happi coat and blue-and-white twisted headband, smiling with mouth open and holding two drumsticks high over a large brown taiko; the left hamster wears a blue happi coat, winks, and plays a matching taiko; the right hamster wears a dark navy happi coat, smiles with eyes closed, and plays another matching taiko. Include exactly five visible foreground taiko drums: three main full drums across the front and two partial cropped drums at the far left and far right edges. Behind them, show a dense cheering crowd of smaller hamster drummers in festival headbands and red/blue coats, holding drumsticks, with lantern strings and festival banners reading 「祭」 on both sides. Use a dramatic golden radial burst background with black speed lines converging upward, falling multicolored confetti, small star shapes, and warm orange festival lighting. Add large bold manga sound effects in Japanese, exactly five visible instances of 「ドン」 in red-to-black gradient letters with thick white outlines, arranged across the upper half. In the top-right corner, place a white rectangular narration box with black border containing vertical Japanese text: {argument name="narration box text" default="その宴は三日三晩続いた"}. Style should be highly polished cute-anime illustration, glossy eyes, rosy cheeks, thick ink outlines, exaggerated joy, detailed drum ropes and wood texture, dynamic comic-book motion, saturated colors, no photorealism, no watermark.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2087048367386001801) | 2026-08-11
+
+---
+
+### 🏷️ 例 5969：Mid-Century 1960s Travel Illustration
+
+![Mid-Century 1960s Travel Illustration](../images/Mid-Century%201960s%20Travel%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Mid-century travel-ad illustration featuring {argument name="humans" default="a couple"} riding {argument name="vehicle" default="a vintage vespa"}, accompanied by {argument name="animal" default="a small dog"}. Dress them in [CLOTHING] using [PALETTE]. Place the scene in [SCENERY], with lush stylized foliage framing the figures and vehicle. Render with flat gouache-like color shapes, visible dry-brush strokes, simplified facial features, crisp graphic silhouettes, hand-painted texture, decorative botanical forms, and warm sunlit color harmony. Keep the composition elegant, cheerful, fashion-forward, and distinctly 1960s European advertising. Aspect ratio 4:5.
+```
+
+**来源：** [@Simply Ray](https://x.com/kingofdairyque/status/2087026724944937236) | 2026-08-11
+
+---
+
+### 🏷️ 例 5972：Vitamin C Serum Beauty Ad
+
+![Vitamin C Serum Beauty Ad](../images/Vitamin%20C%20Serum%20Beauty%20Ad.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a high-end cinematic luxury skincare advertisement for {argument name="product name" default="Vitamin C Serum"}, focused on radiant skin, golden-orange serum, and fresh oranges.
+
+Canvas: Vertical 3:4 image, split into exactly 2 horizontal panels separated by a thin white divider line. Warm golden-hour sunlight, shallow depth of field, glossy reflective surfaces, premium beauty-ad photography.
+
+Subject details: A beautiful young woman with {argument name="hair color" default="long dark brown hair"}, natural glowing skin, soft elegant facial features, thick brows, minimal warm makeup, small stud earrings, a delicate necklace, and a gentle confident smile. She wears a simple white camisole. Her expression is calm, fresh, and natural, looking toward the camera.
+
+Top panel: Close-up beauty shot of the woman holding a glass dropper with a metallic gold cap near her cheek. A single golden-orange serum droplet is visibly hanging from the pipette and gliding onto her skin. Place one amber glass skincare bottle on the right foreground with a gold label reading “VITAMIN C SERUM” and smaller text “BRIGHTENING & GLOW BOOSTING” plus “30ml e 1.01 fl.oz.” Include exactly 2 visible orange elements in this panel: 1 large cut orange half in the lower-left foreground and 1 whole/partial orange behind the bottle on the right. Background: softly blurred sunlit window, beige curtains, indoor greenery.
+
+Bottom panel: Show the same woman gently massaging serum into her right cheek with her fingertips, maintaining a soft confident smile and radiant hydrated skin. Place one amber dropper bottle on a small clear glass pedestal at the left foreground, with the white dropper top visible and the same gold “VITAMIN C SERUM” label. Include exactly 5 visible orange elements in this panel: 1 whole orange on the far left, 1 cut orange half/slice at the lower left, 1 orange wedge near the center foreground, 1 large cut orange slice in the lower-right foreground, and 1 whole/partial orange on the far right. Add a few green leaves around the oranges and warm bokeh highlights in the background.
+
+Visual style: Ultra-realistic commercial beauty photography, luxurious amber and citrus color palette, warm sunlight, natural skin texture, dewy highlights, realistic serum gloss, polished reflections, soft cinematic focus, premium skincare advertising composition.
+
+Constraints: Use exactly 2 stacked panels, exactly 2 product bottle appearances, exactly 1 visible serum droplet in the top panel, and no extra text beyond the product label.
+```
+
+**来源：** [@Amelia Ai](https://x.com/AmeliaAi12/status/2087010448579457220) | 2026-08-11
+
+---
+
+### 🏷️ 例 5976：Good Morning Singapore Window Poster
+
+![Good Morning Singapore Window Poster](../images/Good%20Morning%20Singapore%20Window%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic futuristic travel poster viewed from inside an airplane or train cabin, centered on a large rounded-rectangle passenger window with thick dark green molded plastic framing and layered rubber seals. Through the slightly fogged, rain-speckled glass, show a soft-focus morning skyline of {argument name="destination city" default="Singapore"} with the Marina Bay Sands silhouette, high-rise towers, palm trees, humid haze, and muted teal daylight after rain. The overall color grade is dark forest green, seafoam, and pale cyan, with moody low contrast, glossy reflections, subtle film grain, and premium editorial design aesthetics.
+
+Overlay a translucent boarding-pass style HUD directly on the window glass. Text must read: FROM {argument name="origin" default="FIRST AIR"} → TO {argument name="destination" default="SINGAPORE"}. Below it, create exactly 5 labeled data rows: WEATHER / SHOWERS, TEMP / 29°C, DATE / 2026-08-11, PASS / GM-09, NOTE / HUMIDITY, LIGHT, AND A FRESH START. Add a thin dotted divider line and a long white barcode beneath the data rows.
+
+Below the window, place a large bold black uppercase headline centered on the cabin wall: {argument name="headline text" default="GOOD MORNING SINGAPORE"}. Under the headline, add a small caption line: 早安，新加坡。 2026-08-11 · SHOWERS · 29°C, and a second smaller quoted line: “Humidity, light, and a fresh start.”
+
+Add minimalist UI navigation details around the frame: a tiny back chevron in the upper left, a three-line hamburger icon in the upper right, and a vertical progress scale on the left edge with exactly 5 numbered tick labels: 01, 02, 03, 04, 05, with a small pink dot highlighting 03. Keep the composition symmetrical, widescreen 16:9, no people, no extra logos, no watermark, crisp typography, realistic cabin materials, and softly blurred city outside.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2086974780117590057) | 2026-08-11
+
+---
+

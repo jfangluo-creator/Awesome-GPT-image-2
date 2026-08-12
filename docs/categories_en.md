@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (414)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (422)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -821,6 +821,22 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 5885: Photorealistic Jodorowsky Dune Soldier](cat-ui.md#️-例-5885photorealistic-jodorowsky-dune-soldier)
 
 - [Case 5900: Realistic City Selfie Portrait](cat-ui.md#️-例-5900realistic-city-selfie-portrait)
+
+- [Case 5910: Rooftop School Uniform Portrait](cat-ui.md#️-例-5910rooftop-school-uniform-portrait)
+
+- [Case 5929: Modern Chinese Graphic Design](cat-ui.md#️-例-5929modern-chinese-graphic-design)
+
+- [Case 5931: Tokyo Police Robot Rescuing Cow](cat-ui.md#️-例-5931tokyo-police-robot-rescuing-cow)
+
+- [Case 5937: Rainy Beijing Good Night Poster](cat-ui.md#️-例-5937rainy-beijing-good-night-poster)
+
+- [Case 5943: White Suit Man in Hooded Crowd](cat-ui.md#️-例-5943white-suit-man-in-hooded-crowd)
+
+- [Case 5948: Pistachio Crochet Cardigan and Plaid Mini Dress](cat-ui.md#️-例-5948pistachio-crochet-cardigan-and-plaid-mini-dress)
+
+- [Case 5967: Skincare Self-Care Selfie Prompt](cat-ui.md#️-例-5967skincare-self-care-selfie-prompt)
+
+- [Case 5968: Cinematic Monochrome Fantasy Portrait](cat-ui.md#️-例-5968cinematic-monochrome-fantasy-portrait)
 ---
 
 <a id="chart"></a>
@@ -1009,7 +1025,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (809)
+## 🎴 [Posters & Cards](cat-poster.md) (810)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -2591,11 +2607,13 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5891: Black and White Studio Fashion Portrait](cat-poster.md#-例-5891black-and-white-studio-fashion-portrait)
 
 - [Case 5905: Minimalist City Greeting Poster](cat-poster.md#-例-5905minimalist-city-greeting-poster)
+
+- [Case 5964: Semi-Realistic Streetwear Campaign Poster](cat-poster.md#-例-5964semi-realistic-streetwear-campaign-poster)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2315)
+## 📷 [Photography & Realistic](cat-photo.md) (2320)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -7159,11 +7177,21 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 5865: Sea Breeze Harbor Portrait](cat-photo.md#-例-5865sea-breeze-harbor-portrait)
 
 - [Case 5877: Urban Skate Park Sporty CCD Portrait](cat-photo.md#-例-5877urban-skate-park-sporty-ccd-portrait)
+
+- [Case 5941: Warring States Period Princess Portrait Photography](cat-photo.md#-例-5941warring-states-period-princess-portrait-photography)
+
+- [Case 5949: Reaching Hand in Summer Park](cat-photo.md#-例-5949reaching-hand-in-summer-park)
+
+- [Case 5953: Bright Summer Market CCD Photo](cat-photo.md#-例-5953bright-summer-market-ccd-photo)
+
+- [Case 5955: Woman Holding Train Hand Strap](cat-photo.md#-例-5955woman-holding-train-hand-strap)
+
+- [Case 5956: Photography Tutorial and Camera Setup Infographic](cat-photo.md#-例-5956photography-tutorial-and-camera-setup-infographic)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (652)
+## 🎨 [Illustration & Art](cat-illustration.md) (687)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -8453,6 +8481,76 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 5907: Amateur Night Photography Aesthetic](cat-illustration.md#-例-5907amateur-night-photography-aesthetic)
 
 - [Case 5908: Sunlit Cafe Coffee Portrait](cat-illustration.md#-例-5908sunlit-cafe-coffee-portrait)
+
+- [Case 5909: Three-Panel AI Image Quality Comparison](cat-illustration.md#-例-5909three-panel-ai-image-quality-comparison)
+
+- [Case 5911: Girl in Yukata with Platinum Fireworks](cat-illustration.md#-例-5911girl-in-yukata-with-platinum-fireworks)
+
+- [Case 5914: Realistic Woman Portrait with Wood Background](cat-illustration.md#-例-5914realistic-woman-portrait-with-wood-background)
+
+- [Case 5915: Anime Development and Storyboard Sheet](cat-illustration.md#-例-5915anime-development-and-storyboard-sheet)
+
+- [Case 5916: Parisian Night Seine Portrait](cat-illustration.md#-例-5916parisian-night-seine-portrait)
+
+- [Case 5917: Wax Memory Minimal Poster](cat-illustration.md#-例-5917wax-memory-minimal-poster)
+
+- [Case 5918: The Last Photo of Humanity](cat-illustration.md#-例-5918the-last-photo-of-humanity)
+
+- [Case 5923: High-Contrast Monochrome Identity Portrait](cat-illustration.md#-例-5923high-contrast-monochrome-identity-portrait)
+
+- [Case 5925: Fresh Morning Café Breakfast Ad](cat-illustration.md#-例-5925fresh-morning-café-breakfast-ad)
+
+- [Case 5926: Indoor Fan Event Candid Portrait](cat-illustration.md#-例-5926indoor-fan-event-candid-portrait)
+
+- [Case 5927: Halloween Fox-Eared Fantasy Girl](cat-illustration.md#-例-5927halloween-fox-eared-fantasy-girl)
+
+- [Case 5928: Dim Apartment Sofa Portrait](cat-illustration.md#-例-5928dim-apartment-sofa-portrait)
+
+- [Case 5930: Cinematic Chef Plating at Dusk](cat-illustration.md#-例-5930cinematic-chef-plating-at-dusk)
+
+- [Case 5934: Fantasy Craftswoman Cosplay Portrait](cat-illustration.md#-例-5934fantasy-craftswoman-cosplay-portrait)
+
+- [Case 5935: Mid-century Starbucks Cozy Corner](cat-illustration.md#-例-5935mid-century-starbucks-cozy-corner)
+
+- [Case 5936: Anime Realistic Ninja Duo Portrait](cat-illustration.md#-例-5936anime-realistic-ninja-duo-portrait)
+
+- [Case 5938: Yibo Racing Motion Fan Poster](cat-illustration.md#-例-5938yibo-racing-motion-fan-poster)
+
+- [Case 5939: Five GitHub AI Tools Tech Poster](cat-illustration.md#-例-5939five-github-ai-tools-tech-poster)
+
+- [Case 5942: Japanese Artist Poster Portrait](cat-illustration.md#-例-5942japanese-artist-poster-portrait)
+
+- [Case 5944: Topographic Concentric Contour Line Portrait](cat-illustration.md#-例-5944topographic-concentric-contour-line-portrait)
+
+- [Case 5945: Cinematic Night Subway Couple Portrait](cat-illustration.md#-例-5945cinematic-night-subway-couple-portrait)
+
+- [Case 5946: Cinematic Male Studio Portrait](cat-illustration.md#-例-5946cinematic-male-studio-portrait)
+
+- [Case 5958: Ultra-Premium Cinematic Sports Glitch Poster](cat-illustration.md#-例-5958ultra-premium-cinematic-sports-glitch-poster)
+
+- [Case 5960: Dark Mode AI Model Leak Tweet](cat-illustration.md#-例-5960dark-mode-ai-model-leak-tweet)
+
+- [Case 5961: Anime Mall Jewelry Heist Fight](cat-illustration.md#-例-5961anime-mall-jewelry-heist-fight)
+
+- [Case 5962: Elegant Woman at Golden Hour in Modern City](cat-illustration.md#-例-5962elegant-woman-at-golden-hour-in-modern-city)
+
+- [Case 5963: Swiss Typographic Fashion Travel Poster](cat-illustration.md#-例-5963swiss-typographic-fashion-travel-poster)
+
+- [Case 5965: Teen With Chibi Pant-Leg Tug](cat-illustration.md#-例-5965teen-with-chibi-pant-leg-tug)
+
+- [Case 5966: Polished Child Crayon Drawing Photo](cat-illustration.md#-例-5966polished-child-crayon-drawing-photo)
+
+- [Case 5970: Cozy Winter Street Portrait](cat-illustration.md#-例-5970cozy-winter-street-portrait)
+
+- [Case 5971: Cinematic Studio Orange and Blue Portrait](cat-illustration.md#-例-5971cinematic-studio-orange-and-blue-portrait)
+
+- [Case 5973: Alpine Mountain Stream Selfie](cat-illustration.md#-例-5973alpine-mountain-stream-selfie)
+
+- [Case 5974: Luxury Glasshouse Editorial Portrait](cat-illustration.md#-例-5974luxury-glasshouse-editorial-portrait)
+
+- [Case 5975: Glad2Glow Facial Wash Storyboard](cat-illustration.md#-例-5975glad2glow-facial-wash-storyboard)
+
+- [Case 5977: Scenic Hillside Fashion Portrait](cat-illustration.md#-例-5977scenic-hillside-fashion-portrait)
 ---
 
 <a id="character"></a>
@@ -8837,7 +8935,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (278)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (279)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -9381,6 +9479,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 5820: DNA Nucleotides 3D Infographic](cat-3d.md#-例-5820dna-nucleotides-3d-infographic)
 
 - [Case 5870: Precise Anime Character Concept Reference Sheet](cat-3d.md#-例-5870precise-anime-character-concept-reference-sheet)
+
+- [Case 5913: Stylized Hand-Painted 3D Game Asset](cat-3d.md#-例-5913stylized-hand-painted-3d-game-asset)
 ---
 
 <a id="architecture"></a>
@@ -10153,7 +10253,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (611)
+## 🏷️ [Brand & Packaging](cat-brand.md) (630)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -11370,6 +11470,44 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 5903: Cozy Creative Universe Room](cat-brand.md#️-例-5903cozy-creative-universe-room)
 
 - [Case 5904: Console Generations Rooftop Game Collage](cat-brand.md#️-例-5904console-generations-rooftop-game-collage)
+
+- [Case 5912: Kobe Craft Beer Manga Comic](cat-brand.md#️-例-5912kobe-craft-beer-manga-comic)
+
+- [Case 5919: Photorealistic Close-up Portrait in Vintage Car](cat-brand.md#️-例-5919photorealistic-close-up-portrait-in-vintage-car)
+
+- [Case 5920: Castle Edit Markup Overlay](cat-brand.md#️-例-5920castle-edit-markup-overlay)
+
+- [Case 5921: Futuristic Anime Idol Poster](cat-brand.md#️-例-5921futuristic-anime-idol-poster)
+
+- [Case 5922: Anime Impact Battle Scene](cat-brand.md#️-例-5922anime-impact-battle-scene)
+
+- [Case 5924: Modern Chinese Graphic Design Layout](cat-brand.md#️-例-5924modern-chinese-graphic-design-layout)
+
+- [Case 5932: Mid-century McDonald's Drive-In Cartoon](cat-brand.md#️-例-5932mid-century-mcdonalds-drive-in-cartoon)
+
+- [Case 5933: Minotaur Storming Fortress](cat-brand.md#️-例-5933minotaur-storming-fortress)
+
+- [Case 5940: Ancient Chinese Mural of Celestial Musicians](cat-brand.md#️-例-5940ancient-chinese-mural-of-celestial-musicians)
+
+- [Case 5947: Editorial City Poster Design](cat-brand.md#️-例-5947editorial-city-poster-design)
+
+- [Case 5950: Futuristic VTuber Debut Poster](cat-brand.md#️-例-5950futuristic-vtuber-debut-poster)
+
+- [Case 5951: Vintage Car Interior Portrait](cat-brand.md#️-例-5951vintage-car-interior-portrait)
+
+- [Case 5952: Qwen Image Model Review Banner](cat-brand.md#️-例-5952qwen-image-model-review-banner)
+
+- [Case 5954: Dark Pop Horror Alley Twins](cat-brand.md#️-例-5954dark-pop-horror-alley-twins)
+
+- [Case 5957: Professional Corporate Office Portrait](cat-brand.md#️-例-5957professional-corporate-office-portrait)
+
+- [Case 5959: Hamster Taiko Festival Manga Scene](cat-brand.md#️-例-5959hamster-taiko-festival-manga-scene)
+
+- [Case 5969: Mid-Century 1960s Travel Illustration](cat-brand.md#️-例-5969mid-century-1960s-travel-illustration)
+
+- [Case 5972: Vitamin C Serum Beauty Ad](cat-brand.md#️-例-5972vitamin-c-serum-beauty-ad)
+
+- [Case 5976: Good Morning Singapore Window Poster](cat-brand.md#️-例-5976good-morning-singapore-window-poster)
 ---
 
 <a id="edit"></a>

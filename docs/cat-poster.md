@@ -25591,3 +25591,17 @@ Photorealistic skin, physically accurate lighting, realistic shadows, true-to-li
 
 ---
 
+### 🎴 例 5964：Semi-Realistic Streetwear Campaign Poster
+
+![Semi-Realistic Streetwear Campaign Poster](../images/Semi-Realistic%20Streetwear%20Campaign%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded reference image as the ONLY facial identity reference. Preserve the exact same person with maximum fidelity. Maintain the identical facial identity, facial structure, skull shape, jawline, cheekbones, forehead, ears, eyes, eyebrows, eyelids, nose shape, nostrils, lips, mouth, chin, skin tone, hairstyle, hairline, facial proportions, glasses, age, expression, ethnicity, and overall recognizable appearance. Do NOT redesign, beautify, idealize, de-age, age-shift, alter ethnicity, modify facial proportions, change the hairstyle, replace the glasses, reinterpret facial features, or create a different person. Identity preservation overrides every artistic, stylistic, lighting, wardrobe, composition, rendering, and color instruction below. Keep the face instantly recognizable as the exact same person from the uploaded image. --- Transform the uploaded person into a semi-realistic digital illustration streetwear campaign poster. The person keeps the exact same face, hairstyle, glasses, facial proportions, skin tone and identity as the uploaded photo. Outfit: - {argument name="headwear" default="cream ribbed knit beanie"} - {argument name="jacket" default="oversized cream technical windbreaker quarter-zip jacket"} - funnel collar - drawstring hem - black t-shirt underneath - black oversized cargo joggers with multiple flap pockets and hanging drawstrings - white chunky sneakers Pose: Walking mid-stride, hands inside jacket pockets, head naturally turned and gazing off-camera, confident expression. Art Style: Semi-realistic digital illustration Comic-editorial hybrid rendering Clean vector linework combined with painterly color fills High-end streetwear campaign artwork Fashion editorial poster aesthetic Modern urban illustration Premium graphic design Background: {argument name="background" default="Abstract graffiti-inspired composition"} Deep teal and dark navy color-block panels Distressed paint textures Rough torn-paper transitions Brushstroke overlays Urban graphic shapes Minimal abstract environment Lighting: Soft directional studio lighting from upper left Subtle rim lighting Natural shadows Cinematic contrast Color palette: Cream Deep teal Dark navy Black Off-white Muted neutral tones Composition: Vertical poster Full-body Walking toward camera Centered composition Clean negative space No text No logo No typography No watermark No signature No labels No symbols No UI elements Ultra detailed Masterpiece Best Quality Professional fashion campaign illustration Sharp focus 8K
+```
+
+**来源：** [@Karlos](https://x.com/de_mon010/status/2087032920297148428) | 2026-08-11
+
+---
+
