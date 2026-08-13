@@ -15600,3 +15600,488 @@ Add minimalist UI navigation details around the frame: a tiny back chevron in th
 
 ---
 
+### 🏷️ 例 5978：Toy Poodle Summer Festival Triptych
+
+![Toy Poodle Summer Festival Triptych](../images/Toy%20Poodle%20Summer%20Festival%20Triptych.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a photorealistic vertical triptych collage showing a small gray toy poodle enjoying a Japanese summer festival at night.
+
+Canvas: Vertical 3:4 image divided into exactly 3 horizontal photo panels of equal height, edge-to-edge with no borders. Use a cinematic shallow-depth-of-field look, warm lantern bokeh, realistic night lighting, and a low dog-level camera perspective.
+
+Subject details: The same small gray toy poodle appears in all 3 panels, with fluffy curly fur, floppy ears, dark expressive eyes, a black nose, and a cute gentle expression. The dog wears a pastel Japanese yukata with colorful floral and morning-glory patterns in pink, mint, lavender, and light blue, tied neatly like a summer festival outfit. The dog should look like {argument name="dog description" default="a small gray toy poodle with fluffy curly fur"} and wear {argument name="festival outfit" default="a pastel floral Japanese yukata"}.
+
+Panel 1: The dog sits centered in the foreground at a night festival walkway, looking directly at the camera. A human hand enters from the lower left holding a glossy red candied apple on a wooden stick close to the dog's face. Behind the dog are softly blurred yatai food stalls, glowing paper lantern strings overhead, and festival visitors as indistinct silhouettes.
+
+Panel 2: The dog leans over the near edge of a bright blue plastic goldfish-scooping pool, peering down curiously. The pool contains exactly 7 visible goldfish in orange, red, and white tones, plus exactly 1 small circular paper scooping net floating on the water at the right. Water reflections and droplets on the pool edge should look realistic. Background remains a blurred summer festival with warm stalls and lanterns.
+
+Panel 3: The dog trots happily toward the camera on a paved festival plaza, mouth slightly open as if smiling, one front paw lifted mid-step. Fireworks burst in the dark sky behind it, with exactly 4 major visible firework blooms in pink, gold, green, and white. Festival stalls and people remain softly out of focus along the sides, with strings of lanterns adding warm bokeh.
+
+Visual style: Ultra-realistic DSLR photography, 35mm wide-angle lens feel, low-angle perspective, soft background blur, warm orange festival lights contrasted with deep navy night sky, crisp detail on the dog and yukata, joyful nostalgic Japanese matsuri atmosphere.
+
+Constraints: Use exactly 3 panels, exactly 1 dog per panel, exactly 1 candied apple in the first panel, exactly 7 goldfish and 1 scoop in the second panel, and exactly 4 major fireworks in the third panel. No captions, no text, no watermark, no extra animals.
+```
+
+**来源：** [@ショウ｜生成AI活用](https://x.com/sho_ai_magic/status/2087678528657756549) | 2026-08-12
+
+---
+
+### 🏷️ 例 5981：Summer Touring Challenge Poster
+
+![Summer Touring Challenge Poster](../images/Summer%20Touring%20Challenge%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dramatic vertical Japanese promotional poster for a summer motorcycle touring challenge, blending anime key visual art with event announcement typography.
+
+Canvas: Tall smartphone poster, 9:16 aspect ratio, dark cinematic blue color grading, high contrast, glowing cyan-white typography, rain and water-splash effects.
+
+Layout: At the very top, place a small KusArt logo on the left with thin decorative horizontal lines and diamond endpoints. Center the small header text 「お盆休み企画」, then below it 「OPTION追加」. The dominant title fills the upper third in huge luminous Japanese calligraphy: {argument name="main title" default="夏の一瞬チャレンジ"}. Under the title, add a thin divider line and a two-line subtitle: 「その瞬間にしか出会えない夏を、」 and 「ツーリング作品の見せ場に。」
+
+Main visual: A beautiful anime-style female motorcycle rider with {argument name="hair color" default="long flowing crimson red hair"} and vivid blue eyes rides a glossy black sport touring motorcycle with subtle red and gold trim. She wears a tight black leather racing suit with red accent panels, black gloves, and a confident gentle expression. The motorcycle is angled toward the viewer on a wet mountain road curve, front wheel large in the lower foreground, windshield sparkling with raindrops, tires kicking up water spray.
+
+Environment: Split the sky into a “summer moment” contrast: the left side is bright blue sky with towering white cumulonimbus clouds, distant mountains, and a lake or coastline below; the right side is a sudden dark evening rain shower with dense vertical rain streaks. The road is glossy and reflective, bordered by guardrails and lush green mountain foliage, with sunlight breaking through the rain to create a magical fleeting-summer atmosphere.
+
+Bottom information area: Add exactly 3 glowing cyan outlined text blocks near the bottom. Block 1 is a small pill-shaped label reading 「イラスト・動画どちらもOK」. Block 2 is a large hashtag bar reading {argument name="first hashtag" default="#AIあつあつツーリング動画"}. Block 3 is a second large hashtag bar reading {argument name="second hashtag" default="#AIあつあつツーリングイラスト"}. At the very bottom, display the deadline in large bright numerals and Japanese text: {argument name="deadline text" default="8/16 23:59まで"}, with thin decorative lines and diamond endpoints.
+
+Visual style: Premium anime illustration, highly detailed motorcycle rendering, glossy wet surfaces, cinematic lighting, electric blue glow, crisp Japanese typography, rain particles, water droplets, dramatic poster composition, polished social media campaign design.
+
+Constraints: Keep all text legible and in the specified Japanese wording. Use exactly one rider, one motorcycle, three bottom text blocks, and one deadline line. Do not add extra logos, extra hashtags, QR codes, or watermarks beyond the small KusArt logo.
+```
+
+**来源：** [@星宮ラミス | AIart 👠](https://x.com/LamisAIart/status/2087645627773788498) | 2026-08-12
+
+---
+
+### 🏷️ 例 5983：Cinematic Night Bus Portrait with Reflection
+
+![Cinematic Night Bus Portrait with Reflection](../images/Cinematic%20Night%20Bus%20Portrait%20with%20Reflection.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic cinematic portrait of a young woman sitting inside a moving {argument name="vehicle" default="city bus"} at night. She has long, naturally tousled dark brown hair, soft expressive eyes, natural glowing skin, subtle makeup, and a calm, confident expression. She wears an oversized {argument name="outfit" default="charcoal-gray/black sweatshirt"} with a relaxed fit. She is seated beside a large bus window, turning her upper body slightly toward the camera and looking directly into the lens. Her reflection is clearly visible in the window beside her, creating a beautiful double-image composition. Outside the window, the city is moving quickly at night, producing {argument name="lighting effects" default="colorful elongated light trails from passing cars, red and orange taillights"}, blue reflections, and scattered white highlights. The motion blur should remain primarily in the background while her face stays sharp and naturally detailed. Use a candid analog-film photography aesthetic: low-light exposure, subtle warm flash illuminating her face, deep shadows, realistic skin texture, slight film grain, soft halation, gentle lens imperfections.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2087630747343687973) | 2026-08-12
+
+---
+
+### 🏷️ 例 5988：Urban Isolation Portrait in Motion
+
+![Urban Isolation Portrait in Motion](../images/Urban%20Isolation%20Portrait%20in%20Motion.jpg)
+
+**Prompt:**
+
+```text
+Cinematic portrait photography of a young woman standing still in the middle of a busy urban street, surrounded by a {argument name="background effect" default="fast-moving crowd rendered as natural motion blur"}. She has long dark brown hair with soft bangs, subtle makeup, and a calm, introspective expression, looking directly toward the camera while the crowd moves around her. She wears an {argument name="outfit" default="oversized textured beige knit sweater"} with a minimalist fashion aesthetic. Warm {argument name="lighting" default="golden-hour backlighting"} creates a soft halo around her hair, with glowing highlights, atmospheric haze, shallow depth of field, realistic skin texture, subtle film grain, and moody cinematic color grading. Strong contrast between the sharply focused subject and blurred pedestrians creates a feeling of urban isolation and emotional stillness.
+```
+
+**来源：** [@Aijaz](https://x.com/iamsofiaijaz/status/2087579452519895378) | 2026-08-12
+
+---
+
+### 🏷️ 例 5989：Grungy Yellow Halo Music Portrait
+
+![Grungy Yellow Halo Music Portrait](../images/Grungy%20Yellow%20Halo%20Music%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a square vintage poster-style portrait of {argument name="character name" default="a confident young woman"} from the waist up, centered against a nearly black grungy background. She has {argument name="hair color and style" default="long wavy dark hair"}, a relaxed slight smile, and her head tilted subtly upward as if enjoying music. She wears large over-ear black headphones and round metal sunglasses with translucent {argument name="lens color" default="golden amber"} lenses; one hand touches the left headphone cup and the other hand is raised near her chin. Her outfit is an off-shoulder white eyelet blouse with puff sleeves. Use a dramatic black-and-white photographic treatment for the person and clothing, but keep the sunglasses lenses warm amber. Behind her head place one large distressed circular disk in {argument name="background circle color" default="mustard yellow"}, like a sun or halo, partially hidden by the portrait. The composition should feel like a music poster or album cover: high contrast, moody, stylish, minimal color palette of black, white, and mustard yellow. Add heavy aged paper texture, dust, scratches, scuffs, speckles, faded edges, and subtle cracks across the whole image, with rounded worn corners and a thin distressed border. No text, no logos, no watermark.
+```
+
+**来源：** [@Yuliia Shchebetun](https://x.com/YulliaSheAI/status/2087576887589556294) | 2026-08-12
+
+---
+
+### 🏷️ 例 5990：Cinematic Night Bus Double Exposure
+
+![Cinematic Night Bus Double Exposure](../images/Cinematic%20Night%20Bus%20Double%20Exposure.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic cinematic portrait of a {argument name="subject" default="young woman"} sitting inside a moving city bus at night. She has {argument name="hair type" default="long, naturally tousled dark brown hair"}, soft expressive eyes, natural glowing skin, subtle makeup, and a calm, confident expression. She wears an {argument name="outfit" default="oversized charcoal-gray/black sweatshirt"} with a relaxed fit. She is seated beside a large bus window, turning her upper body slightly toward the camera and looking directly into the lens. Her reflection is clearly visible in the window beside her, creating a beautiful double-image composition. Outside the window, the city is moving quickly at night, producing colorful elongated light trails from passing cars, red and orange taillights, blue reflections, and scattered white highlights. The motion blur should remain primarily in the background while her face stays sharp and naturally detailed. Use a candid analog-film photography aesthetic: low-light exposure, subtle warm flash illuminating her face, deep shadows, realistic skin texture, slight film grain, soft halation, gentle lens imperfections, muted blacks, warm amber highlights and cool blue tones. Reflections and light streaks should naturally cross parts of her face and hair without obscuring her features. Composition should feel like an intimate fashion editorial photographed through a bus window, spontaneous and emotionally atmospheric. 35mm film camera look, 50mm lens, shallow depth of field, f/1.4–f/2, natural perspective, soft background bokeh, realistic motion blur, imperfect handheld framing, high dynamic range, cinematic color grading, authentic photographic texture. No illustration, no painting, no CGI, no plastic skin, no excessive beauty retouching, no oversharpening. Ultra-realistic photography, natural proportions, detailed hair strands, realistic fabric texture, subtle grain, nighttime urban mood, vertical 4:5 composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2087568044780621833) | 2026-08-12
+
+---
+
+### 🏷️ 例 5993：Surreal Hip-Hop Motion Fashion
+
+![Surreal Hip-Hop Motion Fashion](../images/Surreal%20Hip-Hop%20Motion%20Fashion.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded photo as the MAIN IMAGE REFERENCE. Preserve the person’s identity and facial appearance with maximum accuracy. Use the provided reference image as the MAIN VISUAL STYLE REFERENCE.
+
+Create a full-frame editorial fashion image in the exact visual language of the reference: {argument name="style" default="surreal hip-hop fashion photography"}, extreme horizontal motion-drag distortion, stretched fabric and elongated clothing trails, {argument name="background" default="bold saturated red studio background"}, dramatic {argument name="camera angle" default="low-angle"} fashion composition, oversized contemporary streetwear, strong graphic silhouette, expressive visual weirdness, cool confident attitude, retro analog print aesthetic, subtle vintage film grain, tactile photographic texture, slightly imperfect printed-surface feel.
+
+IDENTITY PRESERVATION IS THE HIGHEST PRIORITY.
+
+The person must remain immediately recognizable as the person from the source photo. Preserve the exact facial identity, facial proportions, bone structure, eye shape, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, hairstyle, age, and all distinctive facial characteristics from the source image.
+
+Do NOT redesign, beautify, idealize, masculinize, feminize, age, de-age, or otherwise alter the person’s face. Do not turn the person into a generic fashion model. Do not create a lookalike. It must clearly be the SAME PERSON from the uploaded photo.
+
+Preserve natural facial anatomy and realistic skin texture while translating the person into the visual style of the reference.
+
+STYLE MATCH:
+
+Match the reference image as closely as possible in:
+
+overall visual language
+
+composition
+
+camera perspective
+
+low-angle fashion photography
+
+full-body framing
+
+subject scale
+
+bold red background
+
+horizontal motion streaks
+
+stretched and smeared clothing
+
+elongated fabric trails
+
+distorted garment silhouettes
+
+dynamic horizontal movement
+
+surreal fashion editorial feeling
+
+hip-hop / contemporary streetwear attitude
+
+retro film grain
+
+analog photographic texture
+
+slightly rough printed texture
+
+strong contrast
+
+saturated red environment
+
+unusual proportions created by motion distortion
+
+clean but deliberately strange fashion-art direction
+
+The motion distortion should primarily affect the CLOTHING and parts of the silhouette, creating long horizontal streaks that extend dramatically across the frame, while the face and essential facial features remain sharp, stable, recognizable, and anatomically correct.
+
+Create the illusion that the clothing is being pulled sideways through extreme motion, producing long flowing fabric trails and repeated stretched silhouettes. The distortion should feel physical, intentional, and fashion-editorial rather than like a digital glitch.
+
+The person should stand confidently with a strong, slightly confrontational fashion pose. Preserve the recognizable physical characteristics of the source person while adapting the pose and framing to the reference style.
+
+Use a dramatic low camera angle, making the figure feel powerful and
+```
+
+**来源：** [@Impnel](https://x.com/ImPnel/status/2087556822764793909) | 2026-08-12
+
+---
+
+### 🏷️ 例 5996：Celestial Palace Above Clouds
+
+![Celestial Palace Above Clouds](../images/Celestial%20Palace%20Above%20Clouds.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical cinematic fantasy landscape of an immortal Chinese heavenly palace above a sea of clouds at golden sunset. In the foreground, show exactly one solitary robed figure, {argument name="character name" default="an unnamed celestial cultivator"}, standing with their back to the viewer on an ornate circular stone terrace carved with mystical patterns, wearing flowing {argument name="robe color" default="deep crimson red"} hanfu-style robes and long trailing sashes. On the left foreground, include exactly one ancient twisted pine tree with dark bark, sparse needle clusters, hanging roots, and exactly three long red silk ribbons tied to its branches, blowing in the wind. Beyond the terrace, reveal a vast floating imperial palace city with layered pagoda rooftops, bridges, towers, lantern-like pavilions, cliffside platforms, and misty golden architecture emerging from luminous clouds. In the far distance, place one colossal vertical sacred mountain or tower rising from the cloud ocean, crowned with temples and a thin beam of divine light reaching into the sky. Use dramatic warm sunrise/sunset lighting, glowing sun near the right horizon, volumetric clouds, atmospheric haze, intricate Chinese xianxia / Tiangong mythology aesthetics, epic scale, ultra-detailed fantasy concept art, painterly realism, high contrast between dark foreground silhouettes and radiant golden sky, no modern objects, no text, no watermark.
+```
+
+**来源：** [@vincent does AI](https://x.com/VincentPanAi/status/2087540562287292800) | 2026-08-12
+
+---
+
+### 🏷️ 例 6007：Vintage Cinematic Car Portrait
+
+![Vintage Cinematic Car Portrait](../images/Vintage%20Cinematic%20Car%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A photorealistic vintage cinematic portrait of a {argument name="subject" default="young man"} sitting casually on an asphalt road directly in front of a {argument name="car color" default="classic deep red"} vintage sedan. He has dark, slightly messy medium-length hair and a calm, thoughtful expression, looking slightly to the side rather than directly at the camera. He is wearing a loose light gray button-up shirt with the sleeves rolled slightly, a loosely worn black and gray striped necktie, relaxed light gray wide-leg trousers, and black loafers. The classic red sedan dominates the background, featuring rounded 1950s-style bodywork, large circular headlights, chrome front grille and bumper, curved windshield, vintage hood ornament, glossy aged red paint, and subtle signs of use. The car is parked on a quiet forest road. Tall trees surround the scene, creating a peaceful woodland atmosphere. Warm late-afternoon sunlight filters through the trees, producing soft golden highlights, natural haze, gentle backlighting, and subtle lens flare. The background has shallow depth of field with softly blurred trees and another distant vehicle. Composition is vertical and fashion-editorial, with the subject positioned in the lower-right foreground and the vintage car filling most of the frame behind him. Low camera angle, natural perspective, candid editorial photography, nostalgic 1970s to 1980s film aesthetic, muted warm tones, soft contrast, realistic skin texture, authentic fabric details, subtle 35mm film grain, slight analog color shift, soft halation, cinematic shadows, natural imperfections, premium vintage magazine photography, highly realistic, atmospheric, timeless. Camera: 35mm film camera, 50mm lens, f/2.0, shallow depth of field, natural available light, slightly underexposed shadows, fine film grain. Aspect ratio: 2:3 vertical.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2087464900658597945) | 2026-08-12
+
+---
+
+### 🏷️ 例 6008：Polished Anime Noble Portrait
+
+![Polished Anime Noble Portrait](../images/Polished%20Anime%20Noble%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the character base, convert the rough sketch into a fully rendered, clean anime-style character illustration while preserving the same head angle, bust portrait framing, facial direction, and general silhouette. Keep the white background and the handwritten name/signature placement on the left.
+
+Transformation: Replace the loose pencil lines with polished line art, smooth cel-shading, glossy highlights, and high-detail coloring. Give the character {argument name="hair color" default="deep red"} hair styled into the same swept-back bun shape, with loose front strands, and make the eyes {argument name="eye color" default="bright green"}. Refine the expression into a calm, elegant, slightly aloof look.
+
+Costume and added details: Add an ornate aristocratic fantasy outfit with a tall cream-and-gold embroidered collar, lace ruffles around the neck, and rich metallic trim. Add exactly 3 prominent jewelry/accessory elements: 1 large gold-and-red jeweled hair ornament on the bun, 1 dangling gold earring with a red teardrop gem, and 1 oval red gemstone brooch at the front of the collar.
+
+Text: Preserve the handwritten sketchbook feel of the left-side annotations, but make them cleaner and dark red. Include exactly 2 visible text blocks: {argument name="character name" default="Mariel Trust"} near the upper left, and {argument name="artist signature" default="IceEmperor"} near the lower left.
+
+Style constraints: High-resolution polished anime illustration, crisp facial features, luminous eyes, detailed hair shine, refined fantasy noble design, no extra background objects, no additional text, no watermark.
+```
+
+**来源：** [@썰렁황제](https://x.com/iceemperor/status/2087448371787386972) | 2026-08-12
+
+---
+
+### 🏷️ 例 6009：50s Mid-Century Cartoon Movie Banner
+
+![50s Mid-Century Cartoon Movie Banner](../images/50s%20Mid-Century%20Cartoon%20Movie%20Banner.jpg)
+
+**Prompt:**
+
+```text
+Mid-century theatrical cartoon still promotional Hollywood movie trailer banner for {argument name="movie title" default="The End of Oak Street"}, featuring a caricature of {argument name="lead actor" default="Ewan McGregor"} as the determined father with neatly combed dark hair and a protective expression, wearing a classic plaid shirt and trousers, and a caricature of {argument name="lead actress" default="Anne Hathaway"} as the resourceful mother with soft brunette waves and steady eyes, wearing a practical blouse and cardigan, seated together on a suburban porch that has suddenly shifted into an otherworldly landscape. Stage them in a lighthearted, good-humored interaction, with both characters fully visible, relaxed, and clearly reacting to each other as they face the strange new world. Design the figures with exaggerated early-1950s animation caricature: clean black contour lines, sharply simplified anatomy, elegant angular silhouettes, expressive eyebrows, stylized facial shapes, graceful hand gestures, and cheerful readable expressions. Render the entire image in a unified traditional cel-animation aesthetic, with the background following the same stylized visual language as the characters, using flat opaque colors, minimal hard-edged shading, simplified furniture and décor, subtle hand-painted texture, controlled perspective, and crisp theatrical staging. Use a {argument name="color scheme" default="mysterious adventure palette of soft teal, warm cream, dusty green, and gentle gold"} and maintain a witty, charming, visually snappy mood.
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087438011005129034) | 2026-08-12
+
+---
+
+### 🏷️ 例 6010：New York Street Coffee Portrait
+
+![New York Street Coffee Portrait](../images/New%20York%20Street%20Coffee%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic close-up cinematic portrait of a {argument name="subject" default="stylish Asian woman"} on a modern {argument name="city" default="New York City"} street during the afternoon, holding a {argument name="beverage" default="simple elegant ceramic coffee mug"} with no logo, no branding, and no recognizable coffee-shop design.
+
+Frame her from approximately waist/chest-up, with her face and coffee mug clearly visible. She has natural Asian facial features, realistic skin texture, detailed individual hair strands, subtle makeup, and a relaxed confident expression. She is casually holding the plain ceramic mug near her face/chest, with natural fingers and realistic hand anatomy. A small amount of authentic steam rises from the coffee.
+
+The New York street background must remain sharp and highly detailed, rather than heavily blurred: modern glass buildings, contemporary storefronts, clean sidewalks, traffic lights, street trees, cars, pedestrians, café terraces, reflections in windows, and realistic urban activity. Maintain enough depth separation to keep the woman as the primary subject while allowing the entire city environment to remain clearly recognizable.
+
+Lighting: beautiful natural afternoon sunlight, soft directional illumination on her face, realistic shadows, subtle reflections from surrounding glass architecture, physically accurate exposure.
+
+Camera: close-up lifestyle street photography, 50mm lens, eye-level viewpoint, high-resolution full-frame camera, realistic depth of field but moderate background separation—not excessive bokeh.
+
+Style: photorealistic, premium fashion-editorial street photography, cinematic realism, natural skin pores, realistic hair, authentic clothing textures, sharp environmental details, realistic colors, sophisticated modern urban atmosphere.
+
+Important: plain unbranded ceramic mug only. No Starbucks-style branding, no logos, no text, no recognizable corporate designs, no watermarks.
+
+Negative prompt: cartoon, CGI look, plastic skin, over-smoothed face, distorted hands, extra fingers, deformed mug, blurry background, excessive bokeh, warped buildings, duplicate people, unnatural anatomy, logos, text, watermark.
+```
+
+**来源：** [@mini singh](https://x.com/KaminiKamini222/status/2087437533290582525) | 2026-08-12
+
+---
+
+### 🏷️ 例 6012：Colossal Cosmic Humanoid Fantasy
+
+![Colossal Cosmic Humanoid Fantasy](../images/Colossal%20Cosmic%20Humanoid%20Fantasy.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium vertical cosmic fantasy illustration that preserves the exact core structure, emotional magnitude, and surreal visual hierarchy of the image, while intensifying the integration between the radiant vortex head and the full-body cloud form so the entire giant reads as one continuous manifestation of cosmic consciousness. One tiny solitary human figure stands on a dark grassy slope in the lower foreground, while a colossal translucent humanoid being made of white starlit vapor, flowing cosmic filaments, and galaxy-scale mist towers above them, filling the center and upper frame like a living celestial revelation. The final artwork must feel sacred, overwhelming, contemplative, and curatorially precise, with a deep black universe, unified nebula anatomy, and a clearly organized hierarchy of luminous force. No readable text, no watermark, no logo, no real names. Core composition: Use a tall vertical composition dominated by a dark star-filled cosmic void. Place one small human silhouette in the lower-middle foreground, standing alone on a sloped ridge of dark grass, facing upward toward the giant entity. Above and beyond the figure, build one monumental humanoid form rising out of mist, starlight, and flowing galactic currents. The humanoid should occupy most of the center frame, with shoulders, chest, waist, and one descending arm clearly readable, while the head dissolves into a brilliant spiral vortex of white light. The whole composition must immediately read as a meeting between mortal scale and cosmic intelligence. Main subject logic: The true subject is the relationship between the tiny human witness and the immense celestial body. The giant figure must feel neither male nor female, but ancient, sentient, and sublime. It should appear composed of translucent flowing space-material rather than flesh, as if the night sky has temporarily taken human form. The human below remains almost featureless, a small anchor of scale, vulnerability, and awe. Unified vortex-body structure: Strengthen the structural continuity between the head vortex and the body cloud mass. The spiral head must not feel like a separate glowing effect placed on top of a torso; instead, it must appear to grow directly out of the same white-silver vapor anatomy as the shoulders, neck zone, chest, and upper back. Let the rotational motion of the vortex feed visibly into the chest currents, shoulder contours, and the long vertical body streams, creating one coherent circulation system from head to torso to lower mist body. The entire figure should feel as though it is being continuously formed by one cosmic tidal flow. Orbit impact enhancement: Increase the first-glance pressure of the head vortex and central chest glow. The brightest focal intensity should occur at the vortex core and the upper sternum-chest region directly beneath it, making the viewer instantly read the image as “cosmic consciousness materializing into a body.” The head must feel more magnetically alive, and the upper torso must carry stronger illuminated structure so the giant’s presence lands immediately and powerfully. Transit flow system: Unify the entire image into a more rigorous celestial fluid system. The white luminous filaments, pale silver vapor layers, star-dust density, torso contours, arm edges, and the dark cosmic background must all belong to one coherent topographic-light grammar. Control the thickness, density, direction, and spacing of the linework so the head vortex, chest cavity, shoulders, and lower body all feel generated by the same universal current. The image should feel less like separate nebula effects and more like one elegant cosmic organism. Humanoid design: Construct the giant body from layered white and pale-silver vapor strands, translucent cosmic smoke, and luminous filament textures that define shoulders, chest, waist, and arms. The body must feel fluid yet anatomically legible, like a humanoid made from galaxies, breath, and stellar tides. The head is not a face; it is a radiant spiral or vortex of condensed cosmic light. This vortex must remain the brightest and most magnetic point, while visibly feeding the full-body cloud anatomy beneath it. Cosmic flow and structure: Let the surrounding night sky spiral inward and outward around the being, with curving nebula arms, drifting vapor ribbons, and subtle galaxy-like streaks feeding into the head vortex and then descending through the torso. The body edges should dissolve into the surrounding universe, especially at the shoulders, hips, and lower torso, so the being feels both formed and still becoming. Use fine line currents and layered transparency to create a sensation of enormous cosmic movement guided by one central circulation. Foreground and terrain: The foreground ridge should be dark and simple, with tall wind-brushed grass rendered in silhouette and minimal cool highlights. Keep it grounded, natural, and sparse. The tiny human figure stands still at the crest of the slope, centered slightly below the giant being, head lifted toward it. No buildings, no extra objects, no clutter. Lighting and contrast: The image must rely on powerful but refined dark-light contrast. Keep the sky deeply black but breathable, never muddy. The giant figure should glow in layered white-silver luminosity, with subtle cool-blue and faint warm glints embedded in the vapor body. The vortex-head must carry the strongest radiance, softly illuminating the upper chest and shoulder flows beneath it. Small warm gold sparks may appear sparsely inside the lower cosmic currents, but they must remain secondary. Texture and detail: Render the giant with exquisite detail: star-dust granules, mist filaments, flowing contour streams, nebula wisps, and soft translucency. The body should look like a cosmic storm seen through silk. The terrain should remain much simpler, serving only to root the scale. The entire image must feel clean, high-resolution, and curatorially precise. Atmosphere: The scene should feel silent, immense, and spiritually charged. The sky is not empty but alive with delicate field-stars, dust clusters, and drifting celestial haze. The giant must feel like an impossible revelation, at once intimate and incomprehensibly vast. Mood: sublime, cosmic, sacred, contemplative, solitary, awe-struck, transcendent, mysterious, infinite, celestial, overwhelming, luminous, mythic Rendering style: ultra-premium cosmic fantasy illustration, colossal translucent humanoid made of unified starlight and nebula filaments, radiant spiral vortex head structurally fused with full cloud body, tiny human on dark grassy slope, deep black starfield, museum-grade atmospheric concept art, world-class image quality, 8k Negative prompt: readable text, watermark, logo, real names, cluttered planets, generic sci-fi objects, muddy blacks, hard-edged CGI figure, disconnected vortex head, low-detail particles, cartoon rendering, oversaturated neon, messy composition, cheap galaxy effects, flat lighting, blurry linework
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2087434353345548585) | 2026-08-12
+
+---
+
+### 🏷️ 例 6016：Giant Anime Maid Over Shanghai FPS Scene
+
+![Giant Anime Maid Over Shanghai FPS Scene](../images/Giant%20Anime%20Maid%20Over%20Shanghai%20FPS%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic first-person shooter screenshot in Shanghai at night, blending gritty realistic military-game visuals with a surreal giant anime maid looming over the skyline.
+
+Canvas: Wide 16:9 frame, dark rainy night, high-contrast blue-gray color grading, wet lens grime, film grain, subtle scratches, dramatic storm clouds, reflections on the river.
+
+Scene and layout: The viewer stands on a riverside battlefield facing the Pudong skyline across dark water. The Oriental Pearl Tower is clearly visible on the far left, with illuminated skyscrapers and neon signs along the waterfront. In the lower right foreground, show a realistic black scoped assault rifle held in first-person view, rain-speckled and aimed toward the skyline. Add fires, smoke plumes, small explosions, and city lights reflected in the water. A helicopter with a bright searchlight appears in the upper right sky.
+
+Main subject: A colossal semi-transparent anime giantess appears behind and above the skyscrapers, scaled so her head and shoulders dominate the sky. She is {argument name="character name" default="an original anime maid giantess"} with {argument name="hair color" default="pink-purple twin-tail hair with blue streaks"}, large purple eyes, small open mouth, and a mischievous or threatening expression. She wears a frilly maid-style headpiece and sailor-maid outfit with dark blue ribbons. Her left hand reaches forward toward the viewer in extreme foreshortening, with the palm and fingers huge in the foreground, as if trying to grab the city or the player. Make her softly luminous and slightly transparent, like a massive holographic or supernatural apparition in the rain.
+
+HUD and readable overlays: Include exactly 5 distinct game-interface elements: 1 square minimap in the lower left, 1 centered crosshair/weapon status cluster near the bottom, 1 ammo counter panel in the lower right showing large numbers similar to “21 / 84”, 1 small status label above the ammo panel, and 1 row of small icons at the top right. Include exactly 2 centered Chinese subtitle lines near the bottom: {argument name="first subtitle line" default="汉娜：大家快看天上！"} and {argument name="second subtitle line" default="爱尔兰佬：妈的，这是啥玩意！"}. Add a small Chinese objective label near the minimap reading {argument name="objective label" default="抵达撤离点"}.
+
+Counted visible elements to include: exactly 1 giant anime maid, exactly 1 oversized reaching hand, exactly 1 helicopter with searchlight, exactly 1 first-person scoped rifle, exactly 1 Oriental Pearl Tower, exactly 2 subtitle lines, and exactly 5 HUD/interface groups. Do not add extra characters in the foreground.
+
+Visual style: Photorealistic AAA military FPS screenshot with realistic rain, wet surfaces, smoky battlefield atmosphere, cinematic lighting, and authentic UI overlays; contrast the realistic war scene with a crisp anime character rendered as a gigantic translucent figure.
+```
+
+**来源：** [@拭目痛い](https://x.com/Fvck_Pinky/status/2087418178779631988) | 2026-08-12
+
+---
+
+### 🏷️ 例 6017：Sarah Nabila Cinematic Double Exposure
+
+![Sarah Nabila Cinematic Double Exposure](../images/Sarah%20Nabila%20Cinematic%20Double%20Exposure.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic double-exposure portrait poster of the subject in a {argument name="background style" default="clean, soft beige studio environment"}, 4:5 aspect ratio. Use a sophisticated visual style combining Luxury Fashion Campaign, Apple Commercial, Premium Editorial Photography, and Hollywood Cinematic Poster aesthetics.
+
+Feature a large, highly realistic side-profile portrait of the subject facing left, occupying approximately 70–75% of the frame height. The expression should be calm, confident, and elegant, with extremely sharp and detailed facial features, realistic skin texture, natural proportions, and refined editorial lighting. Behind the portrait, add strong horizontal motion-blur streaks moving toward the right, creating speed and dynamic energy while remaining clean, controlled, and premium.
+
+In the foreground, include a full-body version of the exact same subject, approximately 30–35% of the overall frame height. Both versions must clearly be the same person with identical facial identity, facial features, skin tone, hairstyle, body shape, and overall visual characteristics. The double-exposure effect should feel like one seamless identity rather than two separate images.
+
+The full-body subject wears a premium casual beige-toned outfit consisting of a relaxed-fit beige overshirt or jacket, neutral inner shirt, light-wash loose-fit jeans, modern casual sneakers, and transparent-frame modern glasses. Pose the subject naturally and confidently with both hands inside the trouser pockets, one leg naturally crossed in front of the other, and the body slightly leaning in a relaxed fashion-editorial posture. The head and eyes should be subtly directed toward the typography rather than looking directly at the camera.
+
+Behind the full-body subject, integrate large futuristic typography reading exactly “{argument name="name" default="SARAH NABILA"}”. The typography should be bold, futuristic, modern, premium, slightly transparent, layered, and dimensional, with parts naturally hidden behind the subject to create convincing foreground-background integration. It must feel embedded into the composition rather than appearing as flat ordinary text.
+
+Add minimal futuristic graphic direction around the composition: subtle geometric shapes, thin technical lines, translucent panels, fine grid details, minimal interface elements, futuristic markers, layered graphics, and subtle depth effects. Keep these elements elegant, restrained, and secondary to the subject.
+
+Use premium soft studio lighting with gentle facial highlights, soft shadows, controlled contrast, natural skin texture, subtle cinematic glow, and a realistic soft shadow beneath the full-body subject. Lighting, color, and depth must remain consistent across both subject versions.
+
+Maintain ultra-realistic facial details, realistic fabric and denim textures, sharp subject focus, cinematic depth, premium neutral color grading, sophisticated visual hierarchy, realistic anatomy, natural proportions, and professional high-end ad
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2087414158950277277) | 2026-08-12
+
+---
+
+### 🏷️ 例 6018：Vintage Art Deco NYC Travel Poster
+
+![Vintage Art Deco NYC Travel Poster](../images/Vintage%20Art%20Deco%20NYC%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a sophisticated vintage New York City travel poster inspired by early 20th-century American editorial illustration and Art Deco advertising. Feature a {argument name="subject" default="glamorous woman in period fashion"} as the main subject, rendered in detailed engraved linework and vintage halftone printing. She wears an elegant 1900s–1930s-inspired outfit with a dramatic wide-brim hat, gloves, earrings, tailored coat or dress, and refined accessories. Pose her in profile or three-quarter view, looking thoughtfully toward a famous New York landmark. Place a recognizable {argument name="landmark" default="NYC landmark"} prominently in the background — Brooklyn Bridge, Chrysler Building, Flatiron Building, or Empire State Building — surrounded by an atmospheric historical Manhattan skyline. Add period details such as elevated railways, water towers, vintage automobiles, horse-drawn carriages, street lamps, observation telescopes, steam rising from rooftops, and subtle architectural details appropriate to the era. Use a limited {argument name="color palette" default="retro color palette: warm parchment/cream paper, charcoal black, muted navy blue, burnt orange, ochre gold, deep burgundy, and dusty brown"}. Add large geometric Art Deco shapes, circular sun halos, diagonal rays, architectural framing, fine stippled shading, crosshatching, distressed ink, paper grain, faded printing, and authentic screen-print imperfections. Typography should feel like a genuine 1920s–1930s travel advertisement: large bold condensed uppercase serif/sans-serif title at the top, a smaller location and historical time beneath it, and tasteful decorative text elements around the composition.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2087413204272251215) | 2026-08-12
+
+---
+
+### 🏷️ 例 6019：Minimalist Balanced Conceptual Scenes
+
+![Minimalist Balanced Conceptual Scenes](../images/Minimalist%20Balanced%20Conceptual%20Scenes.jpg)
+
+**Prompt:**
+
+```text
+Perfect for modern design and conceptual projects, this prompt creates {argument name="mood" default="serene and balanced minimalist scenes"}. These visuals use clean compositions, negative space, and {argument name="textures" default="subtle textures"} to evoke calmness and sophistication.
+```
+
+**来源：** [@Kami AI](https://x.com/Aiwithkami/status/2087408492802187474) | 2026-08-12
+
+---
+
+### 🏷️ 例 6022：Three-View Character Reference Sheet Layout
+
+![Three-View Character Reference Sheet Layout](../images/Three-View%20Character%20Reference%20Sheet%20Layout.jpg)
+
+**Prompt:**
+
+```text
+{argument name="画像比率" default="横長2:1"}の画像。全体を左右に分割し、左側を全体幅の25％、右側を全体幅の75％にする。右側は高さいっぱいを使った3:2エリアとし、その中に{argument name="背景色" default="灰色背景"}の3面図を正面・側面・背面の順に横並びで配置する。3面図は3カットすべて全身が見える{argument name="立ち姿" default="立ち姿"}にする。ただし3カットすべて、上端は顎の少し下で切り、顎から下のみを写す。首より上は完全にフレーム外とし、顔・頭部・髪の毛は一切写さない。 左側は上下に2分割し、同じ大きさの正方形2枚を配置する。どちらも灰色背景の顔アップ。上は真面目な表情でカメラ目線の正面顔。下は目線を外した顔。右側の3面図は全身衣装の確認用として構成する。
+```
+
+**来源：** [@h64g](https://x.com/h64g_/status/2087405070472355982) | 2026-08-12
+
+---
+
+### 🏷️ 例 6024：Anime Girl at Mediterranean Window
+
+![Anime Girl at Mediterranean Window](../images/Anime%20Girl%20at%20Mediterranean%20Window.jpg)
+
+**Prompt:**
+
+```text
+Create a luminous, highly detailed semi-realistic anime portrait of one young woman standing at an open rustic wooden window in a Mediterranean hillside village. She has {argument name="hair color" default="soft light brown"} long wavy hair with airy bangs, one dark teal ribbon bow and one small gold butterfly hair clip on the right side of her head, large hazel-brown eyes, delicate porcelain skin, and a calm slightly wistful expression as she turns back toward the viewer. She wears a pale mint-green chiffon dress with a fitted bodice, sheer translucent puff sleeves, a flowing semi-transparent layered skirt, and a thin gold chain belt tied at the waist; keep the fabric elegant, romantic, and softly translucent without explicit nudity. Her pose: standing in three-quarter view, one hand resting on the weathered wooden sill and the other arm relaxed near the open window frame. The scene includes exactly one clear glass vase on the left side of the sill containing five orange daisy-like flowers with green stems and leaves. Frame the composition with two cream lace curtains, one on each side, and an open wooden casement window on the right. Outside the window, show terracotta rooftops, beige stone houses, one church bell tower near the center background, a blue lake or sea inlet, and hazy green mountains under bright morning sunlight. Use soft backlighting, warm golden highlights, gentle depth of field, intricate lace texture, realistic wood grain, delicate hair strands, pastel colors, cinematic natural light, vertical portrait composition, dreamy European summer atmosphere, no text, no watermark.
+```
+
+**来源：** [@nekop](https://x.com/catfish01090122/status/2087399552609550777) | 2026-08-12
+
+---
+
+### 🏷️ 例 6025：Vintage Retro Screen-Print Poster
+
+![Vintage Retro Screen-Print Poster](../images/Vintage%20Retro%20Screen-Print%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 4:5 vertical retro screen-print poster illustration centered on {argument name="subject" default="[SUBJECT / LANDMARK / CITY / ERA]"}. The composition should feel like a refined vintage travel or cultural print, while remaining adaptable to any location, historical period, landmark, or subject. TYPOGRAPHY: Place the primary title "{argument name="main title" default="[MAIN TITLE]"}" in a bold, condensed uppercase sans-serif, positioned within a balanced area of negative space. Add a smaller supporting line "{argument name="headline" default="[SECONDARY HEADLINE / LOCATION / DATE]"}" beneath it. Maintain strong typographic hierarchy, restrained spacing, and an authentic archival-poster character. MAIN SUBJECT: Feature [PRIMARY SUBJECT] as the dominant visual element, positioned within the lower or side third of the composition. Use a distinctive pose, silhouette, or profile that communicates the character of the subject. Include carefully rendered defining details, natural contours, expressive features, clothing or architectural details, and subtle highlights without making the artwork photorealistic. GEOMETRIC ANCHOR: Introduce one bold, simple geometric shape behind or around the main subject to create visual separation and establish a strong graphic focal point. BACKGROUND: Construct the environment as several flat, layered graphic planes rather than a conventional realistic scene. Use recognizable elements associated with [LOCATION / SUBJECT] — distant silhouettes, architectural forms, structural details, vegetation, terrain, atmospheric elements, or cultural motifs. Avoid a strong vanishing point. Build depth through overlapping shapes, scale, linework, and tonal density. Render clouds, smoke, mist, foliage, or atmospheric details as controlled stippled clusters where appropriate. RENDERING STYLE: Authentic vintage screen-print / silkscreen poster aesthetic. Create all tonal modeling exclusively through stippling, halftone patterns, and varying dot density — concentrated dots for shadows and sparse dots for highlights. No smooth gradients, airbrushing, photorealistic shading, or digital 3D rendering. Use crisp contour lines with consistent visual weight, subtle riso-style registration shifts, imperfect ink edges, natural paper grain, and faint woven-print texture. The result should feel physically printed rather than digitally rendered. COLOR SYSTEM: Use exactly four carefully selected high-contrast colors appropriate to the subject: [COLOR 1], [COLOR 2], [COLOR 3], [COLOR 4]. Do not introduce additional hues. Generate intermediate tonal values exclusively through stipple density, halftone overlap, and ink coverage, never by adding new colors. COMPOSITION: Strong editorial balance, clear focal hierarchy, generous negative space, layered depth, bold silhouette design, authentic vintage graphic-design proportions, and carefully controlled visual density. Keep the artwork sophisticated, collectible, and suitable for a premium travel or cultural poster. OUTPUT: 4
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2087398393522139264) | 2026-08-12
+
+---
+
+### 🏷️ 例 6029：Mid-Century Western Movie Trailer Cartoon
+
+![Mid-Century Western Movie Trailer Cartoon](../images/Mid-Century%20Western%20Movie%20Trailer%20Cartoon.jpg)
+
+**Prompt:**
+
+```text
+Mid-century theatrical cartoon still promotional Hollywood movie trailer banner featuring a {argument name="male character" default="rugged cowboy with a short beard and steady gaze"}, wearing a classic western shirt, vest and cowboy hat, and a {argument name="female character" default="bold frontier woman with long chestnut hair and a determined smile"}, wearing a practical blouse and riding skirt, seated on a wooden porch railing outside a dusty saloon. Stage them in a lighthearted, spirited, good-humored interaction, with both characters fully visible, relaxed, and clearly reacting to each other with playful tension. Design the figures with exaggerated early-1950s animation caricature: clean black contour lines, sharply simplified anatomy, elegant angular silhouettes, expressive eyebrows, stylized facial shapes, graceful hand gestures, and cheerful readable expressions. Render the entire image in a unified traditional cel-animation aesthetic, with the background following the same stylized visual language as the characters, using flat opaque colors, minimal hard-edged shading, simplified furniture and décor, subtle hand-painted texture, controlled perspective, and crisp theatrical staging. Use a {argument name="color palette" default="dusty western palette of warm sand, deep brown, soft turquoise, and cream"} and maintain a witty, charming, visually snappy mood.
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087392603700666593) | 2026-08-12
+
+---
+
+### 🏷️ 例 6030：Mid-Century Theatrical Cartoon Banner
+
+![Mid-Century Theatrical Cartoon Banner](../images/Mid-Century%20Theatrical%20Cartoon%20Banner.jpg)
+
+**Prompt:**
+
+```text
+Mid-century theatrical cartoon still promotional Hollywood movie trailer banner featuring a {argument name="adventurer" default="daring adventurer with tousled brown hair"} and a confident smile, wearing an open safari shirt and leather jacket, and a {argument name="heroine" default="spirited heroine with wind-swept dark hair"} and bright eyes, wearing a practical yet stylish khaki outfit, seated together on a weathered crate inside a {argument name="setting" default="exotic jungle camp"}. Stage them in a lighthearted, adventurous, good-humored interaction, with both characters fully visible, relaxed, and clearly reacting to each other with shared excitement. Design the figures with exaggerated early-1950s animation caricature: clean black contour lines, sharply simplified anatomy, elegant angular silhouettes, expressive eyebrows, stylized facial shapes, graceful hand gestures, and cheerful readable expressions. Render the entire image in a unified traditional cel-animation aesthetic, with the background following the same stylized visual language as the characters, using flat opaque colors, minimal hard-edged shading, simplified furniture and décor, subtle hand-painted texture, controlled perspective, and crisp theatrical staging. Use a bold adventure palette of warm khaki, deep green, soft gold, and cream and maintain a witty, charming, visually snappy mood.
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087391940233007403) | 2026-08-12
+
+---
+
+### 🏷️ 例 6037：Dark UI Character Sheet Evaluation
+
+![Dark UI Character Sheet Evaluation](../images/Dark%20UI%20Character%20Sheet%20Evaluation.jpg)
+
+**Prompt:**
+
+```text
+Using REFERENCE_0 as the source material, create a dark-mode Japanese evaluation report slide that compares attempts to generate a character sheet while preserving the same rough watercolor/ink illustration style.
+
+Goal: Turn the reference into a structured experiment-summary dashboard titled 「M2　ステップ2—ムードボードを見本に GPT でキャラクターシート」. Keep the subject as the small armored child character from the reference, but present the result as an analysis screen rather than a single illustration.
+
+Canvas and style: Use a wide 16:9 dark UI layout with charcoal background, thin dividers, rounded cards, small Japanese UI text, orange/green accent labels, and embedded white image panels. Make it look like a screenshot of an internal comparison report.
+
+Top section: Create exactly 3 comparison cards across the top. Each card contains a white character-sheet panel showing the same character in multiple views and a small detached head/bust crop. Use these card titles and edge scores:
+1. 「経路A：GPT ムードボード経由」 with 「エッジ 57.6」
+2. 「経路B：grok ムードボード経由」 with 「エッジ 52.6」
+3. 「参考：grok キャラ直接（B-5）」 with 「エッジ 48.8」
+Under each card add one short Japanese note line; the third card should mention that it is the softest and inherits the sample’s green cloth.
+
+Middle section: Add a comparison table with exactly 4 columns labeled 「条件」, 「エッジ強度」, 「コントラスト」, 「見本の欠陥」. Include exactly 7 data rows:
+1. 「grok（目標）」 — 47.2 — 82.4 — 「—」
+2. 「1) 共通のみ」 — 53.6 — 90.8 — 「—」
+3. 「2) + 筆致（言葉）」 — 52.0 — 88.4 — 「なし」
+4. 「3) + grok キャラ見本」 — 「48.8 ← 最良」 — 85.4 — 「緑の布を継承」
+5. 「4) + GPT ムードボード」 — 「57.6 ← 最悪」 — 84.5 — 「なし」
+6. 「5) + grok ムードボード」 — 52.6 — 87.3 — 「なし」
+7. 「素材 image3.png（参考）」 — 58.8 — 69.1 — 「—」
+
+Bottom section: Add several short Japanese conclusion lines beginning with 「結論1」 through 「結論5」, explaining that moodboard routes are not very effective, direct character reference works better, and the practical workaround is to avoid moodboards and use the Grok output with cropping. Finish with a collapsible dark bar labeled 「プロンプト（ステップ2の冒頭：ムードボードの役割指定）」.
+
+Constraints: Preserve the character identity and rough painted look from REFERENCE_0 in the embedded panels, but do not recreate the full original reference screenshot. Do not add unrelated characters. Use crisp UI typography and readable Japanese labels. The main title topic may be customized as {argument name="report title" default="M2　ステップ2—ムードボードを見本に GPT でキャラクターシート"}; the three route labels may be customized as {argument name="route labels" default="経路A：GPT ムードボード経由 / 経路B：grok ムードボード経由 / 参考：grok キャラ直接（B-5）"}; the character-sheet subject may be customized as {argument name="character subject" default="the small armored child knight from the reference"}; the table metric emphasis may be customized as {argument name="best and worst edge notes" default="48.8 ← 最良, 57.6 ← 最悪"}.
+```
+
+**来源：** [@さんかくてん](https://x.com/sankakuten91256/status/2087348281659842757) | 2026-08-12
+
+---
+

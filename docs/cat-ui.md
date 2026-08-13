@@ -12020,3 +12020,106 @@ Create a cinematic black-and-white fantasy editorial portrait of {argument name=
 
 ---
 
+### 🖥️ 例 5992：Urban Street Celebration Portrait
+
+![Urban Street Celebration Portrait](../images/Urban%20Street%20Celebration%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Without changing the {argument name="subject appearance" default="woman’s appearance from the reference photo"}, the frame captures a lively and dynamic atmosphere of a street celebration or a casual gathering with friends. The woman is crouching with her legs together on a stone-paved surface with an uneven texture, as if having a small picnic right on the sidewalk in front of a massive black door with metal accents. The door creates a muted contrast against the gray, slightly weathered stone.
+
+She looks directly into the camera from below, with her lips puckered into a funny, playful kiss, giving the image a lighthearted and joyful feel. Her long chestnut-brown hair falls freely over her shoulders, softly shimmering in the natural daylight, which seems to fill the entire space and gives her skin warm golden-amber tones with a subtle glow.
+
+She is wearing a {argument name="outfit" default="black sweatshirt with an indistinct fabric texture that creates a cozy, substantial feeling, paired with short shorts that leave her knees exposed"}. On her head is a black cap with large white letters “NLC”, adding a modern urban style and a touch of casualness. Her eyes are hidden behind elegant, dark sunglasses with a softly oval shape, reflecting the surrounding buildings and adding mystery and depth to the image.
+
+In her hands, she holds {argument name="drinks" default="two large glasses filled with a bright orange-colored drink, each garnished with a slice of citrus and a black straw"}. Drops of condensation and ice crystals inside the glasses look extremely realistic and refreshing.
+
+Several gold-colored rings and a pearl bracelet are visible on her right hand, gently catching the sunlight and emphasizing the refined attention to detail. She is wearing light-pink sneakers or slip-ons, which create a harmonious contrast with the rest of the dark outfit, adding lightness and youthfulness to her pose.
+
+The overall composition is filled with light and shadow, reflecting the atmosphere of a warm, carefree day. Every detail—from the textured cobblestones beneath her feet to the vibrant drinks in her hands—enhances the festive mood and lively energy of the moment. Photorealistic image, shot from above, highly detailed textures, high quality, 8K resolution.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2087559140071895056) | 2026-08-12
+
+---
+
+### 🖥️ 例 6027：Distressed Chinese Typography Poster
+
+![Distressed Chinese Typography Poster](../images/Distressed%20Chinese%20Typography%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a minimalist Chinese typographic movie poster with a gritty art-house aesthetic, centered on the theme of hardship and being trapped by time.
+
+Canvas: Vertical poster, 3:4 aspect ratio, muted warm gray concrete-paper background with subtle stains, film grain, scratches, and worn texture. No border.
+
+Layout: Place a large faint translucent English word in the background across the middle, reading “EDGE” in an elegant tall serif font, very low contrast. Over it, place two huge black Chinese characters as the main title: {argument name="main title" default="锋芒"}. The first character sits left of center and the second sits right of center, both in a sharp, dramatic Songti/Ming-style typeface with blade-like serifs. Cover the entire poster with a foreground lattice of red distressed metal bars forming large diagonal diamond shapes, like an X-pattern barricade or construction fence. The bars must visibly pass in front of the title, with chipped red paint, rust, scratches, white scuffs, dark grime, and small highlights at intersections. Use exactly 10 prominent diagonal red bar segments crossing the canvas: 5 running from upper left to lower right and 5 running from lower left to upper right, cropped by the poster edges.
+
+Text content: Add small black Chinese text in the top left in two lines: “导演 / 演员 / 编剧” and “中国电影作者”. Add small black Chinese text in the top right in two lines: “个人主题海报” and “锋芒叙事”. Add a centered bottom tagline in spaced Chinese characters: {argument name="bottom tagline" default="被时代与锋芒一同围困"}. Add tiny footer text at bottom left: “主题 / 发文”. Add tiny footer text at bottom right: “概念海报 / TYPOGRAPHIC STUDY”.
+
+Visual style: Serious cinematic poster design, restrained Chinese editorial typography, brutalist composition, high negative space, black ink title, faded gray background typography, distressed red barricade dominating the foreground, realistic texture but graphic design layout. Keep all text flat and printed, while the red bars have slight dimensionality and tactile worn paint.
+
+Constraints: Use only the described text, keep the composition symmetrical but imperfect, preserve the Chinese characters accurately, avoid people, faces, scenery, logos, watermarks, extra decorations, or bright colors beyond red, black, and gray.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2087394177004994680) | 2026-08-12
+
+---
+
+### 🖥️ 例 6028：Chibi Kobe Beer Manga Page
+
+![Chibi Kobe Beer Manga Page](../images/Chibi%20Kobe%20Beer%20Manga%20Page.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a colorful Japanese manga page about a chibi character enjoying Kobe beer and food, in a bold anime comic style with thick black outlines, expressive speed lines, halftone textures, and clean digital coloring.
+
+Canvas: Vertical 3:4 manga page, approximately 768 x 1024, divided by thick black gutters into exactly 5 panels: 2 small panels across the top row, 1 large full-width centerpiece panel in the middle, and 2 panels across the bottom row.
+
+Character details: Use one recurring chibi manga character in all 5 panels: a small youthful person with spiky black hair, rectangular black glasses, a bright red beret tilted backward, an orange T-shirt, expressive eyebrows, and exaggerated open-mouth reactions. Keep the character consistent across panels.
+
+Panel count and layout:
+1. Top-left panel: the character sits at a wooden table studying a menu or checklist with a pen, looking serious and slightly overwhelmed. Add a small sigh puff near the face and one oval speech bubble containing {argument name="top left bubble text" default="種類が多い…"}.
+2. Top-right panel: the character runs excitedly through a narrow street or alley with stairs in the background. Place a yellow sidewalk sign reading “KOBE BEER” in large black letters. Include two speech bubbles: one vertical bubble containing {argument name="top right large bubble text" default="神戸の地ビールかー"} and one smaller bubble containing “珍しいな”.
+3. Center large panel: the character sits at a table joyfully eating ramen with chopsticks, pulling up long noodles from a steaming bowl, smiling wide with sweat drops of excitement. Around the bowl are exactly 4 visible food/drink groups: a red craft beer glass labeled “Craft Kobe”, a golden craft beer glass labeled “Craft Kobe”, a tall dark beer glass, and three food plates consisting of sliced meat, a small salad, and fried chicken pieces. Use a radiant yellow burst background. Add two jagged speech balloons: left balloon contains {argument name="center left bubble text" default="いろいろ楽しむぜ！"}; right balloon contains {argument name="center right bubble text" default="Sサイズで…"}.
+4. Bottom-left panel: close-up of the character grinning with mouth wide open, satisfied and excited, with pink speed lines in the background. Add two speech bubbles: one oval bubble containing “唐揚ぎもうまい” and one jagged bubble containing {argument name="bottom left jagged bubble text" default="うまーい！ぷはぁ〜"}.
+5. Bottom-right panel: the character drinks a large foamy beer from a tilted glass with both hands, cheeks slightly puffed, sweat drop on the face, blue vertical speed-line background, wooden tabletop at the bottom. Show splashes or foam droplets near the glass.
+
+Visual style: Cute chibi Japanese comic, high-energy food manga expression, bold black panel borders, crisp line art, saturated colors, playful exaggerated typography in speech bubbles, no realism, no watermark, no extra panels, no extra characters.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2087393710032216362) | 2026-08-12
+
+---
+
+### 🖥️ 例 6035：Japanese Industrial Proposal Cover Slide
+
+![Japanese Industrial Proposal Cover Slide](../images/Japanese%20Industrial%20Proposal%20Cover%20Slide.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean 16:9 Japanese corporate proposal cover slide for a construction/civil engineering or industrial automation company, introducing recruitment and PR branding preparation for {argument name="company name" default="ZAXIS"}.
+
+Canvas: Wide presentation slide, 1200×675 or 16:9 ratio, bright white background with soft lavender gradients. Use a modern consulting-deck aesthetic: generous whitespace, bold typography, rounded cards, and subtle tech/corporate accents.
+
+Layout: Top left has a small rounded purple square badge with white “01”, followed by the company name in black. Below it, place a large bold black Japanese headline “採用・PR” and directly underneath a large bold lavender headline “ブランディング基盤整備”. Add a thin horizontal lavender rule with a small circular dot at the left under the headline. In the left-middle area, place a rounded square outline icon card showing a simple people/community icon in lavender. To the right of that icon, add two lines of black Japanese body copy: “求人募集を始める前に、” and “信頼される公式情報の受け皿を整える”. Near the lower left, place a vivid lime-green rounded pill button containing a small white circle with a black flag icon and the text “第一段階のご提案”.
+
+Right side visual: Place one large rounded-rectangle photo card occupying the right half of the slide, with a subtle drop shadow and thin white border. The photo should show a bright futuristic factory floor with orange and white industrial robotic arms assembling mechanical parts, blue-tinted machinery, and a translucent holographic CAD blueprint/interface floating above the work area. The image should feel like advanced manufacturing, automation, precision engineering, and smart factory technology.
+
+Background details: Add a large semi-transparent lavender circular gradient shape in the upper-right corner behind the photo, and a soft lavender wave/blob sweeping upward from the lower center toward the right. Add a small dotted halftone pattern in pale lavender at the bottom-left corner. Keep the overall look polished, airy, and presentation-ready.
+
+Visual style: Minimal Japanese B2B proposal design, crisp sans-serif typography, high contrast black and purple text, accent color neon lime, rounded corners, subtle shadows, premium consulting slide layout.
+
+Text parameters: Use {argument name="main headline" default="採用・PR"}, {argument name="sub headline" default="ブランディング基盤整備"}, {argument name="body copy" default="求人募集を始める前に、\n信頼される公式情報の受け皿を整える"}, and {argument name="button text" default="第一段階のご提案"} exactly as visible Japanese text unless customized.
+
+Constraints: Include exactly one section badge, one company name, two headline lines, one divider line with one dot, one people icon card, one two-line body text block, one lime-green CTA pill with one flag icon, one main factory photo card, one upper-right lavender circle, one lower lavender wave/blob, and one dotted bottom-left pattern. Do not add extra logos, watermarks, charts, or additional paragraphs.
+```
+
+**来源：** [@周瑜（しゅうゆ）SEO/SNS/WEB広告/大阪梅田](https://x.com/D4Csuperdragoon/status/2087358407481413858) | 2026-08-12
+
+---
+

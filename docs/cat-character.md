@@ -7888,3 +7888,17 @@ Use the uploaded reference image as the only identity reference. Preserve the su
 
 ---
 
+### 🧍 例 6036：Realistic Teacher in Math Classroom
+
+![Realistic Teacher in Math Classroom](../images/Realistic%20Teacher%20in%20Math%20Classroom.jpg)
+
+**Prompt:**
+
+```text
+将画面调整为竖版9:16比例，保留参考图中同款浅蓝牛仔交叉吊带马甲、米白色层叠短裙的服装款式、颜色、面料纹理、缝线与层次细节，不改变服装核心设计。画面为真实自然高清柔和摄影质感，一位{argument name="年龄" default="25岁"}左右、身高约{argument name="身高" default="160cm"}、冷白皮、棕色长卷发的年轻女性，身穿同款服饰，脚上穿透明凉拖高跟鞋，移除手上的物品和所有包包，脖子挂红色工作牌，正在抬手讲解，神态自然，眼神看向台下前方，人物完整突出且不被遮挡。背景为清新时髦的课堂教学场景，左侧是写满数学公式、函数、导数运算步骤的黑色黑板，右侧是电子白板，显示数学题目、函数与数字列，部分内容用红色笔迹标注。右侧角落有浅木色讲台桌，桌上堆放书籍、笔记本、平板电脑，旁侧放黑色笔具。整体色调以教室浅白、黑板深黑为主，柔和室内光，画面带轻微涂鸦合影氛围但保持人物真实自然，服装为视觉中心，让人产生购买欲望，无AI感
+```
+
+**来源：** [@AIVideoHub 🕊️](https://x.com/AIVideoHub_/status/2087354399056371942) | 2026-08-12
+
+---
+

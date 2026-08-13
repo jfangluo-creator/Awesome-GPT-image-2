@@ -837,6 +837,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5967：Skincare Self-Care Selfie Prompt](cat-ui.md#️-例-5967skincare-self-care-selfie-prompt)
 
 - [例 5968：Cinematic Monochrome Fantasy Portrait](cat-ui.md#️-例-5968cinematic-monochrome-fantasy-portrait)
+
+- [例 5992：Urban Street Celebration Portrait](cat-ui.md#️-例-5992urban-street-celebration-portrait)
+
+- [例 6027：Distressed Chinese Typography Poster](cat-ui.md#️-例-6027distressed-chinese-typography-poster)
+
+- [例 6028：Chibi Kobe Beer Manga Page](cat-ui.md#️-例-6028chibi-kobe-beer-manga-page)
+
+- [例 6035：Japanese Industrial Proposal Cover Slide](cat-ui.md#️-例-6035japanese-industrial-proposal-cover-slide)
 ---
 
 <a id="chart"></a>
@@ -7187,6 +7195,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5955：Woman Holding Train Hand Strap](cat-photo.md#-例-5955woman-holding-train-hand-strap)
 
 - [例 5956：Photography Tutorial and Camera Setup Infographic](cat-photo.md#-例-5956photography-tutorial-and-camera-setup-infographic)
+
+- [例 5980：Breezy Seaside Profile Portrait](cat-photo.md#-例-5980breezy-seaside-profile-portrait)
+
+- [例 6002：Giant Blue-Eyed Cat Fantasy](cat-photo.md#-例-6002giant-blue-eyed-cat-fantasy)
+
+- [例 6003：Night Train Snapshot](cat-photo.md#-例-6003night-train-snapshot)
+
+- [例 6021：Flower Bouquet and Bicep Flex](cat-photo.md#-例-6021flower-bouquet-and-bicep-flex)
 ---
 
 <a id="illustration"></a>
@@ -8554,6 +8570,58 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 5975：Glad2Glow Facial Wash Storyboard](cat-illustration.md#-例-5975glad2glow-facial-wash-storyboard)
 
 - [例 5977：Scenic Hillside Fashion Portrait](cat-illustration.md#-例-5977scenic-hillside-fashion-portrait)
+
+- [例 5979：Overworked Office Hamster Manga](cat-illustration.md#-例-5979overworked-office-hamster-manga)
+
+- [例 5982：Moody Rainy Night Cinematic Portrait](cat-illustration.md#-例-5982moody-rainy-night-cinematic-portrait)
+
+- [例 5984：Serene Park Portrait of Asian Woman](cat-illustration.md#-例-5984serene-park-portrait-of-asian-woman)
+
+- [例 5985：Celica Real vs Miniature Comparison](cat-illustration.md#-例-5985celica-real-vs-miniature-comparison)
+
+- [例 5986：Parisian Flower Shop Portrait](cat-illustration.md#-例-5986parisian-flower-shop-portrait)
+
+- [例 5987：Surreal Fashion Garden Template](cat-illustration.md#-例-5987surreal-fashion-garden-template)
+
+- [例 5991：Golden Blinds Portrait](cat-illustration.md#-例-5991golden-blinds-portrait)
+
+- [例 5994：X-Ray Transparent Grand Piano](cat-illustration.md#-例-5994x-ray-transparent-grand-piano)
+
+- [例 5995：Cinematic Noir Rainy Portrait](cat-illustration.md#-例-5995cinematic-noir-rainy-portrait)
+
+- [例 5997：Mesoamerican Warrior Character Sheet](cat-illustration.md#-例-5997mesoamerican-warrior-character-sheet)
+
+- [例 5998：Beethoven Tragic Sonata Collage](cat-illustration.md#-例-5998beethoven-tragic-sonata-collage)
+
+- [例 5999：Ultra-Realistic Masculine Lifestyle Photography](cat-illustration.md#-例-5999ultra-realistic-masculine-lifestyle-photography)
+
+- [例 6000：Sunlit Cafe Popsicle Portrait](cat-illustration.md#-例-6000sunlit-cafe-popsicle-portrait)
+
+- [例 6001：Watercolor Owl in Yellow Sweater](cat-illustration.md#-例-6001watercolor-owl-in-yellow-sweater)
+
+- [例 6004：Angel Girl at Sunset Coast](cat-illustration.md#-例-6004angel-girl-at-sunset-coast)
+
+- [例 6005：Urban Streetwear Mixed-Media Collage](cat-illustration.md#-例-6005urban-streetwear-mixed-media-collage)
+
+- [例 6006：Pastel Pink Catgirl Streamer Room](cat-illustration.md#-例-6006pastel-pink-catgirl-streamer-room)
+
+- [例 6011：Mona-lisa-1 Cyberpunk Profile Avatar](cat-illustration.md#-例-6011mona-lisa-1-cyberpunk-profile-avatar)
+
+- [例 6015：Graphic Cut-Paper Editorial Portrait](cat-illustration.md#-例-6015graphic-cut-paper-editorial-portrait)
+
+- [例 6020：Crimson Xianxia Martial Training](cat-illustration.md#-例-6020crimson-xianxia-martial-training)
+
+- [例 6023：Japanese Samurai Ukiyo-e Triptych](cat-illustration.md#-例-6023japanese-samurai-ukiyo-e-triptych)
+
+- [例 6026：Peaceful Alpine Mountain Peak Portrait](cat-illustration.md#-例-6026peaceful-alpine-mountain-peak-portrait)
+
+- [例 6032：Frost Blade Wuxia Snow Portrait](cat-illustration.md#-例-6032frost-blade-wuxia-snow-portrait)
+
+- [例 6033：Hijab Fashion Editorial Portrait](cat-illustration.md#-例-6033hijab-fashion-editorial-portrait)
+
+- [例 6034：Cozy Library Portrait](cat-illustration.md#-例-6034cozy-library-portrait)
+
+- [例 6038：High-Fashion Character Concept Art Sheet](cat-illustration.md#-例-6038high-fashion-character-concept-art-sheet)
 ---
 
 <a id="character"></a>
@@ -8934,6 +9002,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5489：暗影幽灵三视图](cat-character.md#-例-5489暗影幽灵三视图)
 
 - [例 5513：欢乐夜景城市街头人像](cat-character.md#-例-5513欢乐夜景城市街头人像)
+
+- [例 6036：Realistic Teacher in Math Classroom](cat-character.md#-例-6036realistic-teacher-in-math-classroom)
 ---
 
 <a id="3d"></a>
@@ -9484,6 +9554,12 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5870：Precise Anime Character Concept Reference Sheet](cat-3d.md#-例-5870precise-anime-character-concept-reference-sheet)
 
 - [例 5913：Stylized Hand-Painted 3D Game Asset](cat-3d.md#-例-5913stylized-hand-painted-3d-game-asset)
+
+- [例 6013：Handcrafted 3D Paper-Craft Travel Diorama](cat-3d.md#-例-6013handcrafted-3d-paper-craft-travel-diorama)
+
+- [例 6014：Professional 3D Animated Storyboard Sheet](cat-3d.md#-例-6014professional-3d-animated-storyboard-sheet)
+
+- [例 6031：3D Animation Storyboard Part 1](cat-3d.md#-例-60313d-animation-storyboard-part-1)
 ---
 
 <a id="architecture"></a>
@@ -11511,6 +11587,52 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 5972：Vitamin C Serum Beauty Ad](cat-brand.md#️-例-5972vitamin-c-serum-beauty-ad)
 
 - [例 5976：Good Morning Singapore Window Poster](cat-brand.md#️-例-5976good-morning-singapore-window-poster)
+
+- [例 5978：Toy Poodle Summer Festival Triptych](cat-brand.md#️-例-5978toy-poodle-summer-festival-triptych)
+
+- [例 5981：Summer Touring Challenge Poster](cat-brand.md#️-例-5981summer-touring-challenge-poster)
+
+- [例 5983：Cinematic Night Bus Portrait with Reflection](cat-brand.md#️-例-5983cinematic-night-bus-portrait-with-reflection)
+
+- [例 5988：Urban Isolation Portrait in Motion](cat-brand.md#️-例-5988urban-isolation-portrait-in-motion)
+
+- [例 5989：Grungy Yellow Halo Music Portrait](cat-brand.md#️-例-5989grungy-yellow-halo-music-portrait)
+
+- [例 5990：Cinematic Night Bus Double Exposure](cat-brand.md#️-例-5990cinematic-night-bus-double-exposure)
+
+- [例 5993：Surreal Hip-Hop Motion Fashion](cat-brand.md#️-例-5993surreal-hip-hop-motion-fashion)
+
+- [例 5996：Celestial Palace Above Clouds](cat-brand.md#️-例-5996celestial-palace-above-clouds)
+
+- [例 6007：Vintage Cinematic Car Portrait](cat-brand.md#️-例-6007vintage-cinematic-car-portrait)
+
+- [例 6008：Polished Anime Noble Portrait](cat-brand.md#️-例-6008polished-anime-noble-portrait)
+
+- [例 6009：50s Mid-Century Cartoon Movie Banner](cat-brand.md#️-例-600950s-mid-century-cartoon-movie-banner)
+
+- [例 6010：New York Street Coffee Portrait](cat-brand.md#️-例-6010new-york-street-coffee-portrait)
+
+- [例 6012：Colossal Cosmic Humanoid Fantasy](cat-brand.md#️-例-6012colossal-cosmic-humanoid-fantasy)
+
+- [例 6016：Giant Anime Maid Over Shanghai FPS Scene](cat-brand.md#️-例-6016giant-anime-maid-over-shanghai-fps-scene)
+
+- [例 6017：Sarah Nabila Cinematic Double Exposure](cat-brand.md#️-例-6017sarah-nabila-cinematic-double-exposure)
+
+- [例 6018：Vintage Art Deco NYC Travel Poster](cat-brand.md#️-例-6018vintage-art-deco-nyc-travel-poster)
+
+- [例 6019：Minimalist Balanced Conceptual Scenes](cat-brand.md#️-例-6019minimalist-balanced-conceptual-scenes)
+
+- [例 6022：Three-View Character Reference Sheet Layout](cat-brand.md#️-例-6022three-view-character-reference-sheet-layout)
+
+- [例 6024：Anime Girl at Mediterranean Window](cat-brand.md#️-例-6024anime-girl-at-mediterranean-window)
+
+- [例 6025：Vintage Retro Screen-Print Poster](cat-brand.md#️-例-6025vintage-retro-screen-print-poster)
+
+- [例 6029：Mid-Century Western Movie Trailer Cartoon](cat-brand.md#️-例-6029mid-century-western-movie-trailer-cartoon)
+
+- [例 6030：Mid-Century Theatrical Cartoon Banner](cat-brand.md#️-例-6030mid-century-theatrical-cartoon-banner)
+
+- [例 6037：Dark UI Character Sheet Evaluation](cat-brand.md#️-例-6037dark-ui-character-sheet-evaluation)
 ---
 
 <a id="edit"></a>

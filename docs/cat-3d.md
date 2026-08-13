@@ -6991,3 +6991,80 @@ Constraints: Use exactly the 4 nucleotide labels and exactly the 3 structural la
 
 ---
 
+### 🧸 例 6013：Handcrafted 3D Paper-Craft Travel Diorama
+
+![Handcrafted 3D Paper-Craft Travel Diorama](../images/Handcrafted%203D%20Paper-Craft%20Travel%20Diorama.jpg)
+
+**Prompt:**
+
+```text
+Create a premium handcrafted 3D paper-craft travel diorama centered around a little girl and her beloved doll on a magical journey.
+
+adorable young girl doll character sitting on the upper edge of the diorama with her favorite small doll companion beside her. She wears a charming vintage travel outfit — a soft knitted cardigan, pleated skirt, little boots, cute hat, and a tiny backpack. She holds a miniature travel journal or map, while her doll is dressed in a matching outfit and carries a tiny suitcase.
+
+The main scene inside the dimensional frame should represent {argument name="destination" default="Paris"} as a magical miniature world. Include its most recognizable architecture and landscapes, but reinterpret everything as handcrafted toys and paper sculptures: tiny buildings, colorful streets, flowers, trees, bridges, cafés, lanterns, local decorations, and a small pathway leading into the scene.
+
+Add charming storytelling details:
+
+The girl’s doll sitting beside her as her travel companion
+Tiny suitcase covered with travel stickers
+Miniature teddy bear peeking from the backpack
+A tiny camera hanging around the girl’s neck
+Small postcards and stamps scattered around the frame
+A miniature paper airplane flying through the scene
+A tiny map with a dotted route
+Handcrafted flowers and plants around the foreground
+
+Use a soft pastel vintage palette of dusty pink, warm cream, terracotta, muted teal, sage green, peach, and warm brown.
+
+The entire artwork should feel like a luxury handcrafted children’s storybook mixed with a vintage travel scrapbook, using layered cardstock, paper quilling, embossed paper, miniature clay details, fabric textures, stitched leather accents, and delicate hand-painted surfaces.
+
+Make the girl and her doll especially charming and expressive, with a cute collectible-doll aesthetic, oversized curious eyes, soft handcrafted facial details, and a warm adventurous personality.
+
+Add a large raised plaque at the bottom reading:
+
+{argument name="destination" default="Paris"}
+{argument name="country" default="France"}
+
+Surround the composition with subtle travel elements such as a compass, postage stamps, luggage tags, leaves, postcards, and a dotted travel route.
+
+Soft warm studio lighting, realistic miniature shadows, tactile paper fibers, shallow depth of field, premium product photography, highly detailed handcrafted textures, whimsical cinematic atmosphere, elegant composition, cozy nostalgic feeling, museum-quality miniature diorama, 8K.
+
+Avoid: photorealistic humans, plastic-looking 3D characters, excessive text, clutter, harsh colors, modern objects, generic fantasy scenery.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2087434099682427139) | 2026-08-12
+
+---
+
+### 🧸 例 6014：Professional 3D Animated Storyboard Sheet
+
+![Professional 3D Animated Storyboard Sheet](../images/Professional%203D%20Animated%20Storyboard%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create one complete high-detail professional storyboard sheet image for a 30-second 3D animated short film.
+
+STORY TITLE: “{argument name="story title" default="The Tiny Crew and the Last Photo"}”
+SHEET: PART 1 — {argument name="timeframe" default="0:00 to 0:15"} https://t.co/PMPoGt3vTq
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087426413121155229) | 2026-08-12
+
+---
+
+### 🧸 例 6031：3D Animation Storyboard Part 1
+
+![3D Animation Storyboard Part 1](../images/3D%20Animation%20Storyboard%20Part%201.jpg)
+
+**Prompt:**
+
+```text
+Create one complete high-detail professional storyboard sheet image for a 30-second 3D animated short film titled “{argument name="film title" default="The Little Charger and the Last 1%"}” — Storyboard Part 1.
+```
+
+**来源：** [@ManuAGI 🤖 - ( ManuIn )](https://x.com/ManuAGI01/status/2087386357228560631) | 2026-08-12
+
+---
+
