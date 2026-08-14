@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (426)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (442)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -845,6 +845,38 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 6028: Chibi Kobe Beer Manga Page](cat-ui.md#️-例-6028chibi-kobe-beer-manga-page)
 
 - [Case 6035: Japanese Industrial Proposal Cover Slide](cat-ui.md#️-例-6035japanese-industrial-proposal-cover-slide)
+
+- [Case 6039: Candid Street Smartphone Snapshot](cat-ui.md#️-例-6039candid-street-smartphone-snapshot)
+
+- [Case 6042: Japanese Manus Chat Pixel Art Screenshot](cat-ui.md#️-例-6042japanese-manus-chat-pixel-art-screenshot)
+
+- [Case 6046: Red Leather Biker Fashion Portrait](cat-ui.md#️-例-6046red-leather-biker-fashion-portrait)
+
+- [Case 6050: Police Robot Blueprint](cat-ui.md#️-例-6050police-robot-blueprint)
+
+- [Case 6072: Candid Superman Lifting Bus](cat-ui.md#️-例-6072candid-superman-lifting-bus)
+
+- [Case 6074: Fantasy Treetop Tram City Café](cat-ui.md#️-例-6074fantasy-treetop-tram-city-café)
+
+- [Case 6078: Hamster Sunflower Cannon Game UI](cat-ui.md#️-例-6078hamster-sunflower-cannon-game-ui)
+
+- [Case 6096: Paris Street Style Walking Portrait](cat-ui.md#️-例-6096paris-street-style-walking-portrait)
+
+- [Case 6100: Metropolitan Identity Double Exposure](cat-ui.md#️-例-6100metropolitan-identity-double-exposure)
+
+- [Case 6101: Lakeside Afternoon Picnic Portrait](cat-ui.md#️-例-6101lakeside-afternoon-picnic-portrait)
+
+- [Case 6106: Alternative Character Illustration](cat-ui.md#️-例-6106alternative-character-illustration)
+
+- [Case 6107: Abstract Rock Guitarist Album Art](cat-ui.md#️-例-6107abstract-rock-guitarist-album-art)
+
+- [Case 6108: Luxury Fashion Editorial Portrait](cat-ui.md#️-例-6108luxury-fashion-editorial-portrait)
+
+- [Case 6112: Consistent Character Nine-Panel Illustration Collage](cat-ui.md#️-例-6112consistent-character-nine-panel-illustration-collage)
+
+- [Case 6122: Bird Shaman Character Turnaround](cat-ui.md#️-例-6122bird-shaman-character-turnaround)
+
+- [Case 6123: Good Morning Harbin Magazine Poster](cat-ui.md#️-例-6123good-morning-harbin-magazine-poster)
 ---
 
 <a id="chart"></a>
@@ -1033,7 +1065,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (810)
+## 🎴 [Posters & Cards](cat-poster.md) (813)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -2617,6 +2649,12 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 5905: Minimalist City Greeting Poster](cat-poster.md#-例-5905minimalist-city-greeting-poster)
 
 - [Case 5964: Semi-Realistic Streetwear Campaign Poster](cat-poster.md#-例-5964semi-realistic-streetwear-campaign-poster)
+
+- [Case 6063: Identity Preserving Streetwear Campaign Poster](cat-poster.md#-例-6063identity-preserving-streetwear-campaign-poster)
+
+- [Case 6064: Premium Fashion Tech Campaign Poster](cat-poster.md#-例-6064premium-fashion-tech-campaign-poster)
+
+- [Case 6091: Urban Fashion Advertising Poster](cat-poster.md#-例-6091urban-fashion-advertising-poster)
 ---
 
 <a id="photo"></a>
@@ -7207,7 +7245,7 @@ Portraits, street photography, product photography, food photography, ID photos,
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (713)
+## 🎨 [Illustration & Art](cat-illustration.md) (761)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -8619,6 +8657,102 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 6034: Cozy Library Portrait](cat-illustration.md#-例-6034cozy-library-portrait)
 
 - [Case 6038: High-Fashion Character Concept Art Sheet](cat-illustration.md#-例-6038high-fashion-character-concept-art-sheet)
+
+- [Case 6040: Autumn Park Fashion Photography](cat-illustration.md#-例-6040autumn-park-fashion-photography)
+
+- [Case 6041: Introvert Difficulty Meme Comic](cat-illustration.md#-例-6041introvert-difficulty-meme-comic)
+
+- [Case 6043: Ultra-Realistic Formal Studio Photography](cat-illustration.md#-例-6043ultra-realistic-formal-studio-photography)
+
+- [Case 6044: Tokyo Train Schoolgirl Portrait](cat-illustration.md#-例-6044tokyo-train-schoolgirl-portrait)
+
+- [Case 6045: Cyber-Grunge Techwear Fashion Poster](cat-illustration.md#-例-6045cyber-grunge-techwear-fashion-poster)
+
+- [Case 6047: Sunlit Bedroom Lifestyle Portrait](cat-illustration.md#-例-6047sunlit-bedroom-lifestyle-portrait)
+
+- [Case 6049: Editorial Street Photo with Cartoon Version](cat-illustration.md#-例-6049editorial-street-photo-with-cartoon-version)
+
+- [Case 6051: Harpy Attacking Sheep](cat-illustration.md#-例-6051harpy-attacking-sheep)
+
+- [Case 6053: Professional Businesswoman Corporate Portrait](cat-illustration.md#-例-6053professional-businesswoman-corporate-portrait)
+
+- [Case 6055: Candid Street Style Grocery Market Photography](cat-illustration.md#-例-6055candid-street-style-grocery-market-photography)
+
+- [Case 6057: Barefoot Window Pirouette](cat-illustration.md#-例-6057barefoot-window-pirouette)
+
+- [Case 6058: Vector Country Travel Poster](cat-illustration.md#-例-6058vector-country-travel-poster)
+
+- [Case 6059: Monochrome Halftone Portrait](cat-illustration.md#-例-6059monochrome-halftone-portrait)
+
+- [Case 6060: Expressive Charcoal Drawing Sketch](cat-illustration.md#-例-6060expressive-charcoal-drawing-sketch)
+
+- [Case 6061: Golden Hour Outdoor Portrait](cat-illustration.md#-例-6061golden-hour-outdoor-portrait)
+
+- [Case 6062: Minimalist Watercolor Urban Lifestyle Illustration](cat-illustration.md#-例-6062minimalist-watercolor-urban-lifestyle-illustration)
+
+- [Case 6065: Luxury Lifestyle Oceanfront Portrait](cat-illustration.md#-例-6065luxury-lifestyle-oceanfront-portrait)
+
+- [Case 6066: Modern Anime Fashion Character](cat-illustration.md#-例-6066modern-anime-fashion-character)
+
+- [Case 6067: Couple in Rainy Rainbow Meadow](cat-illustration.md#-例-6067couple-in-rainy-rainbow-meadow)
+
+- [Case 6068: Anime Cafe Street Selfie](cat-illustration.md#-例-6068anime-cafe-street-selfie)
+
+- [Case 6070: Fashion Editorial Vector Diptych](cat-illustration.md#-例-6070fashion-editorial-vector-diptych)
+
+- [Case 6071: Anime Cafe Selfie Girl](cat-illustration.md#-例-6071anime-cafe-selfie-girl)
+
+- [Case 6073: Frost Samurai Battlefield](cat-illustration.md#-例-6073frost-samurai-battlefield)
+
+- [Case 6075: Fox Girls Hiking With Bubble Tails](cat-illustration.md#-例-6075fox-girls-hiking-with-bubble-tails)
+
+- [Case 6076: Neo-Noir Cyberpunk Businessman Portrait](cat-illustration.md#-例-6076neo-noir-cyberpunk-businessman-portrait)
+
+- [Case 6080: Breezy Summer Beach Portrait](cat-illustration.md#-例-6080breezy-summer-beach-portrait)
+
+- [Case 6083: Cinematic Beach Sunset Portrait](cat-illustration.md#-例-6083cinematic-beach-sunset-portrait)
+
+- [Case 6084: Photorealistic Studio Portrait of a Man](cat-illustration.md#-例-6084photorealistic-studio-portrait-of-a-man)
+
+- [Case 6086: Monochrome Editorial Fashion Poster](cat-illustration.md#-例-6086monochrome-editorial-fashion-poster)
+
+- [Case 6087: Fantasy Desert Portal Scene](cat-illustration.md#-例-6087fantasy-desert-portal-scene)
+
+- [Case 6090: Old Money Aesthetic Asian Female Portrait](cat-illustration.md#-例-6090old-money-aesthetic-asian-female-portrait)
+
+- [Case 6093: Ethereal Summer Garden Portrait](cat-illustration.md#-例-6093ethereal-summer-garden-portrait)
+
+- [Case 6094: Light of Awakening Event Poster](cat-illustration.md#-例-6094light-of-awakening-event-poster)
+
+- [Case 6095: Summer Anime Sketchbook Flat Lay](cat-illustration.md#-例-6095summer-anime-sketchbook-flat-lay)
+
+- [Case 6097: Watercolor Hamster Climbing Step](cat-illustration.md#-例-6097watercolor-hamster-climbing-step)
+
+- [Case 6099: Garden Stone Steps Portrait](cat-illustration.md#-例-6099garden-stone-steps-portrait)
+
+- [Case 6103: Ultrasound to Baby Portrait Transformation](cat-illustration.md#-例-6103ultrasound-to-baby-portrait-transformation)
+
+- [Case 6104: Fantasy Sky Train Attendant Instruction](cat-illustration.md#-例-6104fantasy-sky-train-attendant-instruction)
+
+- [Case 6105: High-End Male Studio Portrait](cat-illustration.md#-例-6105high-end-male-studio-portrait)
+
+- [Case 6111: Hyper-Realistic Eye Focal Point Portrait](cat-illustration.md#-例-6111hyper-realistic-eye-focal-point-portrait)
+
+- [Case 6114: Anime Girls Composing Music](cat-illustration.md#-例-6114anime-girls-composing-music)
+
+- [Case 6115: Vegetable Spirit Horse Motorcycle](cat-illustration.md#-例-6115vegetable-spirit-horse-motorcycle)
+
+- [Case 6116: Abstract Topographic Energy Map](cat-illustration.md#-例-6116abstract-topographic-energy-map)
+
+- [Case 6117: Cinematic Dark Cyberpunk Cityscape](cat-illustration.md#-例-6117cinematic-dark-cyberpunk-cityscape)
+
+- [Case 6118: High-Fashion Character Concept Art Sheet](cat-illustration.md#-例-6118high-fashion-character-concept-art-sheet)
+
+- [Case 6119: Seaside School Band Rehearsal](cat-illustration.md#-例-6119seaside-school-band-rehearsal)
+
+- [Case 6120: South Asian Male Fashion Portrait](cat-illustration.md#-例-6120south-asian-male-fashion-portrait)
+
+- [Case 6121: Abstract High-Fashion Mixed-Media Poster](cat-illustration.md#-例-6121abstract-high-fashion-mixed-media-poster)
 ---
 
 <a id="character"></a>
@@ -9005,7 +9139,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (282)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (283)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -9557,6 +9691,8 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 6014: Professional 3D Animated Storyboard Sheet](cat-3d.md#-例-6014professional-3d-animated-storyboard-sheet)
 
 - [Case 6031: 3D Animation Storyboard Part 1](cat-3d.md#-例-60313d-animation-storyboard-part-1)
+
+- [Case 6069: Pixar Style Superhero Storyboard](cat-3d.md#-例-6069pixar-style-superhero-storyboard)
 ---
 
 <a id="architecture"></a>
@@ -10329,7 +10465,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (653)
+## 🏷️ [Brand & Packaging](cat-brand.md) (671)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -11630,6 +11766,42 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 6030: Mid-Century Theatrical Cartoon Banner](cat-brand.md#️-例-6030mid-century-theatrical-cartoon-banner)
 
 - [Case 6037: Dark UI Character Sheet Evaluation](cat-brand.md#️-例-6037dark-ui-character-sheet-evaluation)
+
+- [Case 6048: Watercolor Travel Landmark Triptych](cat-brand.md#️-例-6048watercolor-travel-landmark-triptych)
+
+- [Case 6052: Palace Cosplay Duo Portrait](cat-brand.md#️-例-6052palace-cosplay-duo-portrait)
+
+- [Case 6054: Basketball Character Bible Sheet](cat-brand.md#️-例-6054basketball-character-bible-sheet)
+
+- [Case 6056: Chinese Viral AI Comic Post Screenshot](cat-brand.md#️-例-6056chinese-viral-ai-comic-post-screenshot)
+
+- [Case 6077: CCTV Interrogation Room Horror Still](cat-brand.md#️-例-6077cctv-interrogation-room-horror-still)
+
+- [Case 6079: Celestial Inverted Oriental Palace](cat-brand.md#️-例-6079celestial-inverted-oriental-palace)
+
+- [Case 6081: Greek Warrior Watching Dragon](cat-brand.md#️-例-6081greek-warrior-watching-dragon)
+
+- [Case 6082: Milkis Strawberry Ad Shot Map](cat-brand.md#️-例-6082milkis-strawberry-ad-shot-map)
+
+- [Case 6085: Editorial City Poster with Layered Typography](cat-brand.md#️-例-6085editorial-city-poster-with-layered-typography)
+
+- [Case 6088: Cosmic Fantasy Celestial Revelation](cat-brand.md#️-例-6088cosmic-fantasy-celestial-revelation)
+
+- [Case 6089: Photorealistic Close-up Portrait of a Young Woman](cat-brand.md#️-例-6089photorealistic-close-up-portrait-of-a-young-woman)
+
+- [Case 6092: Mythic Sea Enchantress Editorial](cat-brand.md#️-例-6092mythic-sea-enchantress-editorial)
+
+- [Case 6098: Chibi Streetwear Collectible Toy](cat-brand.md#️-例-6098chibi-streetwear-collectible-toy)
+
+- [Case 6102: Neon Cat-Eared Idol Close-Up](cat-brand.md#️-例-6102neon-cat-eared-idol-close-up)
+
+- [Case 6109: Cozy Morning Stretching Portrait](cat-brand.md#️-例-6109cozy-morning-stretching-portrait)
+
+- [Case 6110: Photorealistic Dark-Haired Woman Portrait](cat-brand.md#️-例-6110photorealistic-dark-haired-woman-portrait)
+
+- [Case 6113: Summer Fruit Theme Portrait](cat-brand.md#️-例-6113summer-fruit-theme-portrait)
+
+- [Case 6124: Futuristic Electromagnetic Cannon](cat-brand.md#️-例-6124futuristic-electromagnetic-cannon)
 ---
 
 <a id="edit"></a>

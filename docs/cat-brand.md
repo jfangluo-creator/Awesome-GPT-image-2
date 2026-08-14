@@ -16085,3 +16085,344 @@ Constraints: Preserve the character identity and rough painted look from REFEREN
 
 ---
 
+### 🏷️ 例 6048：Watercolor Travel Landmark Triptych
+
+![Watercolor Travel Landmark Triptych](../images/Watercolor%20Travel%20Landmark%20Triptych.jpg)
+
+**Prompt:**
+
+```text
+Create a whimsical hand-drawn watercolor travel poster triptych on a white paper background, divided into exactly 3 equal vertical panels by thin black lines, with a dark charcoal footer strip across the bottom. Each panel shows a miniature floating island cityscape with tiny landmarks, soft shadows, dotted airplane flight paths, small doodle clouds and birds, and a blue watercolor patch of water with a small boat. Use delicate ink outlines, pastel colors, architectural detail, and a clean sketchbook style.
+
+Panel 1: {argument name="first destination label" default="London"} with a tiny red heart after the label. Include exactly 6 main visible London elements: a red telephone booth, the London Eye, Big Ben and Parliament, Tower Bridge towers, a red double-decker bus, and a small white river boat on blue water below.
+
+Panel 2: {argument name="second destination label" default="China"} with a tiny red heart after the label. Include exactly 7 main visible China elements: a traditional pagoda, a pink cherry blossom tree, a small panda, a green Great Wall section on hills, a red-and-gold Chinese palace gate, the Oriental Pearl Tower, and a Shanghai-style skyscraper, plus a small wooden boat on the water below.
+
+Panel 3: {argument name="third destination label" default="United States"} with a tiny red heart after the label. Include exactly 9 main visible United States elements: a leafy tree, a vintage street lamp with an “NY” sign, the Golden Gate Bridge, a yellow taxi, the Statue of Liberty, a grey skyscraper cluster, the Chrysler Building, a waving American flag, and a retro diner sign reading “DINER”, plus a small white sailboat on blue water below.
+
+Add exactly 3 dotted airplane paths total, one above each panel, each ending in a tiny airplane flying up to the right. Add small simple clouds and bird silhouettes in the empty sky areas. Destination names should be centered under each miniature scene in a neat handwritten font. The bottom footer strip should contain italic light-gray text reading: “Source: Naiknelofar788 on X”. Keep the overall composition horizontal, charming, airy, and highly detailed, with no extra countries, no extra panels, and no photorealism.
+```
+
+**来源：** [@Joshua Spivey](https://x.com/joshuadspivey/status/2087930310876872837) | 2026-08-13
+
+---
+
+### 🏷️ 例 6052：Palace Cosplay Duo Portrait
+
+![Palace Cosplay Duo Portrait](../images/Palace%20Cosplay%20Duo%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic full-body cosplay portrait of two characters posing together in a lavish European palace ballroom. On the left stands a large mascot-like man in an oversized white egg-shaped head with a smug sleepy face, tiny ears, a black curled forelock, and small black moustache dots, wearing a formal black tailcoat with white trim, white gloves, a white cravat with a red jewel, green lapels, a brown waistcoat, loose brown trousers, black boots, and a black sash; he holds both lapels with his gloved hands. On the right stands {argument name="character name" default="Celestine"}, a slender young blonde woman with very long pale-blonde hair and a red ribbon, wearing an elegant deep {argument name="dress color" default="crimson red"} Victorian ball gown with voluminous skirt, long sleeves, cream lace trim, lace bodice detailing, and a demure noblewoman expression; she leans gently against the mascot character and looks toward the camera. Set them on polished marble flooring at the base of a grand staircase inside an opulent Baroque palace with gilded walls, red velvet panels, ornate columns, arched tall windows, balcony railings, and a glowing crystal chandelier overhead. Use warm cinematic lighting, shallow depth of field, realistic fabric textures, glossy floor reflections, low-angle composition, 3:4 vertical framing, and rich gold-and-red color grading. The image contains exactly two visible people: one oversized mascot gentleman and one aristocratic woman. No text, no watermark, no extra characters.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2087904139913142657) | 2026-08-13
+
+---
+
+### 🏷️ 例 6054：Basketball Character Bible Sheet
+
+![Basketball Character Bible Sheet](../images/Basketball%20Character%20Bible%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic character bible sheet for a {argument name="profession" default="basketball player"} named {argument name="character name" default="JAY"}. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2087897643888300317) | 2026-08-13
+
+---
+
+### 🏷️ 例 6056：Chinese Viral AI Comic Post Screenshot
+
+![Chinese Viral AI Comic Post Screenshot](../images/Chinese%20Viral%20AI%20Comic%20Post%20Screenshot.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a realistic screenshot of a Chinese social media post on a smartphone, showing a viral AI-generated illustrated story card about an ancient palace dancer and an emperor, with engagement metrics circled in red.
+
+Canvas: Vertical smartphone screenshot, 9:16 aspect ratio, white app interface background, clean mobile UI. The status bar at the top shows 11:22, 4G signal, and battery icon.
+
+Top app header: Include a back arrow on the left, a small circular female profile avatar, the account name {argument name="account name" default="菲菲_AI智能体"}, a rounded pink outline follow button labeled “关注”, and a share arrow icon on the right.
+
+Main image post: A beige comic-style image card centered below the header, with a small dark rounded page indicator at the top-right reading “2/10”. The card contains exactly 2 stacked illustrated panels, each bordered in black, separated by large cream caption bands with bold Chinese brush-calligraphy text.
+
+Panel 1: Ancient Chinese imperial palace scene in soft muted watercolor comic style. On the right, a stern emperor in ornate golden robes sits on a dragon-carved throne under curtains, with palace architecture behind him. In the center foreground, a graceful female dancer in pale flowing robes performs with her back partially turned. On the left, exactly 5 seated female musicians in traditional robes play instruments, including pipa and string instruments. The caption band below reads “在玉皇大帝眼中”, with “玉皇大帝” emphasized in dark red and the rest in black.
+
+Panel 2: Frontal dramatic portrait of the same dancer standing in a palace hall, looking sad and vulnerable, wearing pale white-blue hanfu, ornate hair accessories, and delicate makeup. Behind her are exactly 2 armored palace guards, one on each side, plus a blurred group of palace women in the background. Cool blue-gray lighting creates a solemn atmosphere. The caption band below reads “她仅仅只是一名舞女”, with “舞女” emphasized in dark red and the rest in black.
+
+Post text below image: Show a carousel dot row with exactly 5 dots, the second dot red and the other 4 light gray. Then display the Chinese caption text in two lines: “人还是原本那个人，在不同人眼里价值截然不” and “人还是原本那个人，在不同人眼里价值截然不同”. Beneath it, show hashtags in blue-gray text: “#人与人的区别 #AI教程 #AI工具 #人生的价值 #ai关键词 #提示词分享 #AI学习 #AI绘图 #AI漫画 #AI新手村”.
+
+Bottom interaction bar: Include a rounded comment input field labeled “说点什么...”. To the right, show exactly 3 engagement items: a heart icon with {argument name="like count" default="2072"}, a star/favorite icon with {argument name="favorite count" default="876"}, and a comment bubble icon with {argument name="comment count" default="110"}. Draw a thick hand-drawn red oval around these 3 metrics only.
+
+Visual style: The app UI should look like a real screenshot, while the embedded artwork should look like polished AI comic illustration with ink outlines, soft watercolor shading, muted palace colors, and cinematic ancient Chinese drama atmosphere.
+
+Constraints: Keep all visible Chinese text legible and accurately placed. Do not add extra panels, extra engagement icons, watermarks, or unrelated UI elements.
+```
+
+**来源：** [@壹新](https://x.com/Missle8z/status/2087887134359265693) | 2026-08-13
+
+---
+
+### 🏷️ 例 6077：CCTV Interrogation Room Horror Still
+
+![CCTV Interrogation Room Horror Still](../images/CCTV%20Interrogation%20Room%20Horror%20Still.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a dark, gritty found-footage surveillance still from a horror game, styled like a Garry's Mod / Source engine machinima interrogation scene.
+
+Canvas: 16:9 widescreen frame, low-resolution CCTV/VHS look, heavy film grain, scanline noise, slight fisheye distortion, black vignette around the edges, desaturated gray-green color grading.
+
+Scene: A small police interrogation room viewed from a high corner security camera. The room has grimy concrete walls, a dark tiled floor, black baseboards, and harsh dim overhead lighting. In the center is one rectangular metal interrogation table with four thin legs. Exactly 2 seated people are present: 1 detective sitting with his back partly to the camera in a light shirt, and 1 suspect/witness sitting across from him in darker clothing. On the table are exactly 2 visible objects: a small cardboard evidence box and a compact old camcorder or tape device. The mood is tense, ominous, and procedural.
+
+Background elements: On the left wall, include exactly 1 cork bulletin board covered with papers and notices, including a visible poster area suggesting jail rules. On the back wall, include exactly 1 large one-way observation window showing a dark adjacent room with vague desks and monitors. On the right wall, include exactly 1 gray metal door with a narrow vertical rectangular window.
+
+Surveillance overlay: Add white analog camera HUD text and artifacts. Top left reads "CAM 04 - INTERROGATION ROOM". Top right reads "REC" with a small red recording dot. Near the upper left-center reads "00:01:22". Near the upper right-center reads "33%". Bottom right shows two stacked timecode-style readings: "02:11:96" above "9:42". Bottom left has a faint white "Axon"-style logo. Add a thin damaged tracking line near the top edge and subtle horizontal noise throughout.
+
+Subtitle text: At the bottom center, show yellow monospaced subtitles in exactly 4 lines, reading: "Detective: We found this on an old camcorder." / "The camera belonged to a group of teenagers." / "16-20 years old. Just regular kids, looking for" / "adventure in the abandoned Building ‘B’." Use blocky VHS subtitle styling and keep the text legible.
+
+Customizable details: The camera label may be {argument name="camera label" default="CAM 04 - INTERROGATION ROOM"}; the speaker may be {argument name="speaker name" default="Detective"}; the location mentioned may be {argument name="abandoned location" default="Building ‘B’"}; the recording time may be {argument name="recording time" default="00:01:22"}; the battery percentage may be {argument name="battery percentage" default="33%"}.
+
+Constraints: Keep the composition from an elevated security-camera angle, maintain the horror VHS aesthetic, do not add extra people, do not add modern clean UI elements, and keep all overlay text exactly in the style of degraded analog surveillance footage.
+```
+
+**来源：** [@Axon](https://x.com/Axon_66/status/2087855465614987482) | 2026-08-13
+
+---
+
+### 🏷️ 例 6079：Celestial Inverted Oriental Palace
+
+![Celestial Inverted Oriental Palace](../images/Celestial%20Inverted%20Oriental%20Palace.jpg)
+
+**Prompt:**
+
+```text
+{argument name="画幅" default="16:9"} 横向电影画幅，东方仙界超尺度环境场景，refined cinematic matte painting，photorealistic fantasy environment，{argument name="色系" default="灰蓝暮霭系"}。一个悬浮于无尽云海之上的东方神界建筑文明，建筑尺度接近地质地貌。整张画面只围绕一个主空间命题：一整座倒悬于天空之上的巨大皇家天阙，其下部像覆盖天空的人工山脉般从高空垂落。摄影机真实站在一座高空白玉露台内部，人眼高度约 1.4 米，35mm 环境镜头，平视略微仰拍。不要航拍，不要鸟瞰。近景左侧由一根异常巨大的深朱红漆柱、油润深木梁架和压入画面顶部的墨青重檐构成强烈遮挡，柱体与屋檐均无法完整收入画面；右侧以一面半透明青玉屏和雕花白玉栏板形成第二层框景。中景是一片非常宽阔但空旷的皇家白玉露台，高抛光玉石表面承接冷灰天空反光，只有 3 位约占画面高度 1% 的极小仙人 静静站在露台尽头。露台之外立即坠入没有地面的巨大云海断层。远方上空，一整片倒悬皇家天阙从云层之上垂落下来。它不是一栋宫殿，而像一整块被雕琢成宫阙的天空大陆：倒悬重檐、巨型斗拱、白玉悬台、深木柱林、墨青琉璃殿顶与垂直向下伸展的宫基共同形成巨大人工地貌。只允许看见其中一部分。至少 50% 的倒悬建筑被高空灰蓝雾层、云幕、近景檐口和画框裁切遮挡。最上方的连接结构完全消失于天空之外，下方垂落的宫阙末端又逐渐吞入淡蓝灰云汽，使观者无法判断整座天阙究竟有多厚、多高。建筑局部甚至出现数百米宽的巨大倒悬庭院和向下延伸的宫殿基座，但不要增加第二个视觉主角。约 80% 画面由灰蓝天空、蓝灰云海、冷色空气和深青灰结构阴影控制。皇家材质极度精致：深朱红高光漆柱、油润深木巨梁、白玉须弥台、细腻青玉屏、墨青琉璃重檐、局部鎏金斗拱边缘与柱头包金。金色面积严格控制，只在局部结构边缘出现。右侧高空柔和方向光穿过灰蓝云层，形成极少量琥珀擦边光，勾勒倒悬飞檐和巨大梁架的边缘。近景细节清晰，中景适中，远景巨大体块主动简化，极远处只剩深灰蓝轮廓。cold large field + warm localized accents + luminous ivory mist，monumental inverted celestial palace as artificial terrain，architecture swallowing the sky，solemn stillness，deep atmospheric layering，large depth of field，no ruined architecture，no crowded palace city，no sci-fi spacecraft feeling。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2087836754535686382) | 2026-08-13
+
+---
+
+### 🏷️ 例 6081：Greek Warrior Watching Dragon
+
+![Greek Warrior Watching Dragon](../images/Greek%20Warrior%20Watching%20Dragon.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic widescreen fantasy historical scene in a realistic film-still style. A lone {argument name="hero type" default="ancient Greek warrior"} stands centered with his back to the viewer on a sunlit stone terrace, wearing bronze-and-leather armor, a short skirt of armor strips, dark boots, bracers, and a weathered beige cloak draped over one shoulder and trailing in the wind. He holds a lowered sword in his right hand while staring across a calm turquoise sea toward distant rocky islands. In the sky to the upper right, show exactly 1 flying dragon: a small grey wyvern-like creature with outstretched wings, long tail, and open talons, silhouetted against pale clouds. On the left side, include an ancient temple facade with exactly 3 tall fluted stone columns, a dark doorway, worn steps, cracked marble blocks, and Mediterranean greenery. Include exactly 3 visible ceramic vessels: 1 large bronze urn near the temple steps on the left, 1 small potted tree in a terracotta pot near the terrace edge, and 1 large terracotta jar on the lower right. The setting is a coastal ancient ruin with cracked stone paving, low walls, shrubs, mountains on the horizon, and soft late-afternoon light. Use muted natural colors, subtle film grain, high detail, realistic textures, epic mythological atmosphere, 16:9 aspect ratio, no text, no modern objects, no extra people.
+```
+
+**来源：** [@Nano-GPT](https://x.com/NanoGPTcom/status/2087832531467108470) | 2026-08-13
+
+---
+
+### 🏷️ 例 6082：Milkis Strawberry Ad Shot Map
+
+![Milkis Strawberry Ad Shot Map](../images/Milkis%20Strawberry%20Ad%20Shot%20Map.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean 12-frame advertising shot map for a Korean strawberry milk soda can, designed like a polished product-commercial storyboard on a white background.
+
+Canvas: 16:9 horizontal canvas, 720p feel, divided into exactly 12 panels arranged in a 4 columns by 3 rows grid. Use very thin pale blue divider lines between panels and around the outer border. High-key studio lighting, crisp product photography, glossy liquid simulation, mostly white negative space, blue-red-pink brand palette.
+
+Product and branding: Feature a slim aluminum can of {argument name="product name" default="LOTTE Milkis Strawberry"}. The can is white and silver with condensation droplets, bold chunky blue “Milkis” lettering, small black “LOTTE” logo near the top, red “Strawberry” text, a small strawberry icon, pink powdery gradient patches, red crescent-like swoosh graphics, and a tiny blue line-art umbrella girl character printed on the label. Add small Korean text near the logo where appropriate. Keep the label legible but allow slight perspective distortion.
+
+Recurring character and liquid motif: Use one tiny blue line-art umbrella girl mascot, drawn like a simple ink illustration with a skirt and parasol, appearing in multiple panels as if she is surfing or floating through the ad. Use sparkling translucent pink strawberry soda liquid with many bubbles, occasional white creamy milk ribbons, fresh strawberries with green leaves, and a clear glass filled with pink fizzy drink.
+
+Layout: Include exactly 12 discrete storyboard panels, listed left to right, top to bottom:
+1. Extreme close-up of the wet can label, cropped vertically, showing large blue “Milkis,” red “Strawberry,” strawberry icon, condensation beads, and the umbrella girl printed on the can.
+2. Angled close-up of the can label, slightly cleaner and brighter, the umbrella girl appears larger near the red Strawberry text, with soft pink gradient on the can.
+3. Full upright can centered in a white studio space, silver pull tab visible at top, label fully readable, tiny blue steam-like flourish above the can opening.
+4. Diagonal can tilted upper left to lower right, open top visible, a dynamic arc of translucent pink soda splashing out to the right with suspended bubbles.
+5. Wide minimalist panel with only the left edge of the can cropped into frame and the blue umbrella girl floating in open white space above.
+6. Pink soda wave sweeps diagonally across the panel with many bubbles; the tiny umbrella girl rides above the wave holding her parasol.
+7. Fresh red strawberry with green leaves riding on the pink soda wave; the umbrella girl stands on top of the strawberry like a surfer.
+8. Creamy white milk ribbon twists through the pink soda splash; a strawberry sits in the flow and the umbrella girl balances on it.
+9. Wide shot with the can small and cropped at bottom left, pink soda stream and bubbles flowing diagonally, a strawberry suspended mid-splash, umbrella girl drifting nearby.
+10. Extreme graphic close-up of the large blue “Milkis” logo letters filling the frame, with pink bubbles at the bottom and the tiny umbrella girl climbing or floating over the letters.
+11. Clear glass close-up filled with pink fizzy soda, bubbles rising; a strawberry floats inside and the umbrella girl overlays the glass as if parachuting in.
+12. Final product packshot: full can standing beside a tall clear glass of pink soda and one fresh strawberry at the base, white background, clean commercial composition.
+
+Visual style: Premium beverage advertisement storyboard, photorealistic can, glass, fruit, bubbles, and splashes combined with a hand-drawn blue mascot illustration. Bright whites, glossy highlights, realistic refraction in liquid, crisp macro detail, airy Korean soft-drink commercial aesthetic.
+
+Constraints: Use exactly 12 panels in the 4x3 grid. Do not add hands, people, extra packaging, price tags, captions, watermarks, or additional products. Keep all panels visually connected by the same white background, pink strawberry soda, blue umbrella mascot, and consistent Milkis can design.
+```
+
+**来源：** [@Nastassia | AI Video Creator](https://x.com/nastassiavideo/status/2087830078956753274) | 2026-08-13
+
+---
+
+### 🏷️ 例 6085：Editorial City Poster with Layered Typography
+
+![Editorial City Poster with Layered Typography](../images/Editorial%20City%20Poster%20with%20Layered%20Typography.jpg)
+
+**Prompt:**
+
+```text
+{\n "CITY_NAME": "{argument name="city name" default="London"}",\n "SUBJECT": "{argument name="subject description" default="a person"}",\n\n "prompt": "Recreate the reference image as a premium editorial city poster. Replace the original person with SUBJECT while preserving SUBJECT's identity, facial features, hairstyle, hair color, skin tone, and natural appearance. SUBJECT must be standing in the SAME pose, SAME body orientation, SAME framing, SAME scale, and approximately the SAME position as the reference subject.\\n\\nReplace the original city with CITY_NAME and rebuild the surrounding skyline, landmarks, architecture, bridge, and urban photography specifically for CITY_NAME. Replace all city-specific labels, coordinates, location information, and captions accordingly.\\n\\nCRITICAL TYPOGRAPHY COMPOSITION: The oversized CITY_NAME typography must be physically layered OVER the standing character, exactly like the reference. Do NOT place all of the city text behind the subject. The large CITY_NAME letters must pass across the subject's body and overlap her clothing and lower torso, visibly covering portions of her. At the same time, some portions of the typogra…"
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087824676550754698) | 2026-08-13
+
+---
+
+### 🏷️ 例 6088：Cosmic Fantasy Celestial Revelation
+
+![Cosmic Fantasy Celestial Revelation](../images/Cosmic%20Fantasy%20Celestial%20Revelation.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium vertical cosmic fantasy illustration that preserves the exact core structure, emotional magnitude, and surreal visual hierarchy of the image, while intensifying the integration between the radiant vortex head and the full-body cloud form so the entire giant reads as one continuous manifestation of cosmic consciousness. One tiny solitary human figure stands on a dark grassy slope in the lower foreground, while a colossal translucent humanoid being made of white starlit vapor, flowing cosmic filaments, and galaxy-scale mist towers above them, filling the center and upper frame like a living celestial revelation. The final artwork must feel sacred, overwhelming, contemplative, and curatorially precise, with a deep black universe, unified nebula anatomy, and a clearly organized hierarchy of luminous force. No readable text, no watermark, no logo, no real names.
+
+Core composition:
+Use a tall vertical composition dominated by a dark star-filled cosmic void. Place one small human silhouette …
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087823306649149747) | 2026-08-13
+
+---
+
+### 🏷️ 例 6089：Photorealistic Close-up Portrait of a Young Woman
+
+![Photorealistic Close-up Portrait of a Young Woman](../images/Photorealistic%20Close-up%20Portrait%20of%20a%20Young%20Woman.jpg)
+
+**Prompt:**
+
+```text
+Use the provided reference image as the main visual reference. Create a highly photorealistic close-up portrait of a {argument name="subject" default="young woman"} with long, straight, silky {argument name="hair color" default="dark-brown"} hair, parted naturally in the center and falling loosely over her shoulders. Preserve the same facial structure, soft features, natural eyebrows, almond-shaped dark eyes, delicate nose, smooth fair skin, and soft pink-red lips. She is looking toward the camera with a gentle, subtle smile and a calm, elegant expression.\n\nShe is wearing a simple {argument name="clothing" default="light-gray sweatshirt"} with a relaxed fit. Capture her from the shoulders up in a slightly turned three-quarter pose, with her face angled gently toward the camera. Use a warm, cozy indoor background with soft brown and beige tones, naturally blurred with shallow depth of field.\n\nPhotorealistic skin texture, realistic hair strands, natural facial details, soft warm ambient lighting, subtle highlights, realistic shadows, cinematic portrait photography, 85mm lens look, shallow depth of field, high detail, pro…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087822654648787036) | 2026-08-13
+
+---
+
+### 🏷️ 例 6092：Mythic Sea Enchantress Editorial
+
+![Mythic Sea Enchantress Editorial](../images/Mythic%20Sea%20Enchantress%20Editorial.jpg)
+
+**Prompt:**
+
+```text
+Create 4 ultra-photorealistic vertical 9:16 images using the attached reference only for the adult female subject’s identity, face, natural body proportions, and visible markings.\n\nTheme: {argument name="theme" default="elegant, mysterious, dangerous mythic sea enchantress"} in a {argument name="style" default="high-fashion editorial style"}.\n\n1. Walking through shallow water with reflective light and fluid motion.\n\n2. Seated on wet shoreline rock, looking toward camera with a mesmerizing gaze.\n\n3. Standing on jagged rocks facing the sea, wind-blown hair and flowing garments\n\n4. Heroic low-angle pose on a wave-washed shore beneath a dramatic sky.\n\nUse realistic camera photography, natural skin texture, realistic hair/fabric, physically plausible lighting, and a {argument name="lens" default="70–85mm"} editorial look. Create a newly designed siren-inspired high-fashion outfit with flowing layers, pearls, metallic marine details, and wet-sheen fabrics.\n\nAvoid identity/body distortion, altered proportions, extra people, warped hands, CGI, anime, cartoon, plastic skin, fisheye distortion, excessive sexualization, copied clothing, random text, or logos.\n\nGenerate exactly 4 standalone images. No collage, grid, split-screen, or combined canvas.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2087819388217184733) | 2026-08-13
+
+---
+
+### 🏷️ 例 6098：Chibi Streetwear Collectible Toy
+
+![Chibi Streetwear Collectible Toy](../images/Chibi%20Streetwear%20Collectible%20Toy.jpg)
+
+**Prompt:**
+
+```text
+Create a premium collectible streetwear art-toy product photo of a chibi male figure standing on a matte black circular display base, styled as {argument name="character name" default="a cool urban fashion avatar"}. The figure has an oversized head and small body, realistic vinyl-toy proportions, fair skin, sharp brows, a serious neutral expression, spiky textured {argument name="hair color" default="black"} hair, slightly protruding ears, and rectangular black sunglasses with translucent dark lenses. Show exactly 8 visible outfit/accessory items: 1 vivid cobalt-blue tech jacket with black trim, zipper details and sleeve patch; 1 dark charcoal hoodie underneath; 1 black tactical chest harness/vest with two front pouch pockets; 1 pair of black cargo jogger pants with side pockets and straps; 1 small black hanging utility pouch clipped at the hip; 1 pair of black socks; 1 pair of chunky blue-black-gray trail sneakers with detailed soles; and 1 pair of black rectangular sunglasses. Pose the toy upright with both hands in pockets, feet apart, confident street-style stance. Use hyper-detailed toy craftsmanship: sculpted hair strands, soft fabric-like folds, tiny zippers, buckles, seams, pocket flaps, shoe tread texture, and subtle glossy highlights on sunglasses. Photograph it like a high-end collectible product in a modern gray display room, shallow depth of field, blurred shelves and framed toy posters in the background, one small blurred figurine on the rear shelf, soft studio lighting from above and front, clean neutral gray tones, realistic shadows, centered full-body composition, vertical 4:5 frame. Color palette should emphasize {argument name="accent color" default="electric blue and black"}. Avoid logos, text, watermarks, extra characters in focus, or changing the outfit structure.
+```
+
+**来源：** [@楊哥 | Yang Onchain](https://x.com/YangOnchain/status/2087773052994253081) | 2026-08-13
+
+---
+
+### 🏷️ 例 6102：Neon Cat-Eared Idol Close-Up
+
+![Neon Cat-Eared Idol Close-Up](../images/Neon%20Cat-Eared%20Idol%20Close-Up.jpg)
+
+**Prompt:**
+
+```text
+Create a vibrant high-energy anime illustration of {argument name="character name" default="a cheerful cat-eared idol girl"} in an extreme close-up, tilted dynamic composition, reaching toward the viewer with one hand while making a V-sign across one eye with the other. She has {argument name="hair color" default="silvery white hair with pale lavender shadows"}, long flowing twin-tail-like hair and a thick side braid, large fluffy white cat ears with pink inner ears, one visible pointed elf-like ear, glossy blue-purple eyes, an open laughing mouth with tiny fang teeth, soft blush, and long blue-painted nails. Her outfit is a white and pale blue frilly idol/cat-girl costume with a small collar, gold bell at the throat, gold flower-shaped pendant with a pink jewel, ribbons, and lace. Add exactly 6 visible flower decorations: 3 small white blossoms along the braid, 1 pink flower hair clip near the right cat ear, 1 pale blue bow-flower near the left small mascot, and 1 gold flower brooch on the chest. Include exactly 3 small companion creatures: 2 tiny white fluffy cat-like mascots perched in her hair, one on the upper left and one on the right side, and 1 round blue fish-like mascot at the lower left. Include exactly 2 large surreal eyeball graphics in the background, one at upper left inside a hot-pink splatter and one at lower right, plus exactly 2 small fish graphics, one bright pink fish near the left hand and one blue fish at the lower left. Surround everything with bold pop-art shapes: hot pink hearts, magenta paint splashes, purple and cobalt abstract blobs, neon starbursts, sparkles, halftone dots, and glossy sticker-like accents. Use a saturated palette of {argument name="accent colors" default="hot pink, electric blue, violet, cyan, and pastel cream"}, crisp clean anime line art, luminous highlights, soft cel shading, intricate hair strands, playful chaotic kawaii energy, no text, no watermark. Canvas should be a horizontal 4:3 image, dense full-frame composition, character face centered and very close to the camera, with depth from the foreshortened reaching hand.
+```
+
+**来源：** [@AloneHonko](https://x.com/AloneHonko/status/2087761088326893938) | 2026-08-13
+
+---
+
+### 🏷️ 例 6109：Cozy Morning Stretching Portrait
+
+![Cozy Morning Stretching Portrait](../images/Cozy%20Morning%20Stretching%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+主題：
+朝光の背伸び
+
+主体：
+柔らかな朝光のリビングで、画面中央の女性一人がラグに膝立ちで座り、両腕を頭上へ曲げて背伸びする縦位置の腿上写真。{argument name="トップ" default="薄い白い短丈トップ"}、{argument name="下着" default="淡い紫のレース下着"}、白いソファが見える。
+
+人物・表情：
+上体を画面右へ反らし、顔も右上へ傾け、両目を閉じ、唇を開いて息を吐くような眠そうな表情。小さな卵形と細い顎、閉じた切れ長の目、自然な眉、細い鼻筋と小さな鼻先、淡いピンクの唇。明るい肌に控えめなメイク。{argument name="髪型" default="明るい茶の顎下ボブ"}は薄い前髪を下ろし、毛先が首周りで少し外へ跳ねる。
+
+服装・ポーズ：
+白から淡いベージュの薄い半袖Tシャツトップ。広い丸首、ゆったりした袖、透け感のある短丈の身頃。淡いラベンダー色のレース縁、中央の小さなリボンがある下着。両膝をラグ上で折り、脚を左右へ流して座る。両腕を頭上で曲げて交差させ、手を後頭部付近に置き、胸と腹を伸ばす。
+
+背景・光：
+画面右中景に生成りのソファと灰色の編みブランケット、画面左背景に低い木棚、積んだ本、ガラス花瓶の白い小花、額装写真。右上の窓から柔らかな暖色の主光が入り、顔、腕、胴、脚に明るい帯を作り、室内に淡い影を落とす。
+
+構図・カメラ：
+3:4の縦長、座った人物より少し高い俯瞰視点で頭上の腕から足先の一部までを収めた全身寄りポートレート。人物は中央を大きく占め、反った胴体が右上へ斜線を作り、両脚は下端で裁切。顔と胴にピントを置き、家具は浅い被写界深度で柔らかくぼかす。
+
+質感・スタイル：
+暖かなフォトリアル実写写真。薄いTシャツ、繊細なレース、肌、毛足の長いラグ、布張りソファを柔らかく高精細に描く。
+
+ネガティブ：
+閉じた目と上向きの背伸びを正面にしない；両腕を下ろさない
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2087741935003849175) | 2026-08-13
+
+---
+
+### 🏷️ 例 6110：Photorealistic Dark-Haired Woman Portrait
+
+![Photorealistic Dark-Haired Woman Portrait](../images/Photorealistic%20Dark-Haired%20Woman%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the provided reference image as the main visual reference. Create a highly photorealistic close-up portrait of a young woman with {argument name="hair style" default="long, straight, silky dark-brown hair"}, parted naturally in the center and falling loosely over her shoulders. Preserve the same facial structure, soft features, natural eyebrows, almond-shaped dark eyes, delicate nose, smooth fair skin, and soft pink-red lips. She is looking toward the camera with a gentle, subtle smile and a calm, elegant expression. She is wearing a simple {argument name="clothing" default="light-gray sweatshirt"} with a relaxed fit. Capture her from the shoulders up in a slightly turned three-quarter pose, with her face angled gently toward the camera. Use a {argument name="background" default="warm, cozy indoor background with soft brown and beige tones"}, naturally blurred with shallow depth of field. Photorealistic skin texture, realistic hair strands, natural facial details, soft warm ambient lighting, subtle highlights, realistic shadows, cinematic portrait photography, 85mm lens look, shallow depth of field, high detail, professional photography, natural color grading, ultra-HD, realistic and elegant, no text, no watermark, no distortion.
+```
+
+**来源：** [@Amelia Ai](https://x.com/AmeliaAi12/status/2087735352505356758) | 2026-08-13
+
+---
+
+### 🏷️ 例 6113：Summer Fruit Theme Portrait
+
+![Summer Fruit Theme Portrait](../images/Summer%20Fruit%20Theme%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+An ultra-photorealistic, colorful close-up portrait of a stunning young woman with {argument name="hair style" default="long, thick dark-brown waves styled into relaxed low twin ponytails"}, framing her face naturally. Her vivid green eyes stand out as she sips {argument name="drink" default="freshly squeezed orange juice"} through a playful yellow-and-white striped straw from a tall chilled glass decorated with a bright orange wedge. She wears a {argument name="outfit" default="white fitted crop top featuring a lively fruit print of oranges, cherries, and apples, complemented by fresh green trousers and a coordinating belt with a heart-shaped buckle"}. The sunlit outdoor setting is filled with oversized oranges, elegant glass juice bottles, and delicate translucent bubbles drifting through the air, creating a whimsical summer atmosphere. Radiant natural sunlight, crisp textures, realistic skin detail, vibrant fruit colors, shallow depth of field, cinematic composition, premium fashion-editorial photography, ultra-detailed, 8K quality.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2087730462970331524) | 2026-08-13
+
+---
+
+### 🏷️ 例 6124：Futuristic Electromagnetic Cannon
+
+![Futuristic Electromagnetic Cannon](../images/Futuristic%20Electromagnetic%20Cannon.jpg)
+
+**Prompt:**
+
+```text
+Create a highly detailed side-view concept art illustration of a futuristic {argument name="weapon type" default="electromagnetic cannon"} floating horizontally against a plain vivid {argument name="background color" default="green chroma key background"}. The cannon should be long and symmetrical, built from dense exposed sci-fi machinery: layered red armor plates, glossy black structural rails, gold/brass rings and brackets, blue glowing coils, cables, pistons, bolts, vents, and small cylindrical modules. Show exactly 3 major sections: a large circular rear power core on the left with red fin-like petals and a bright blue-white energy glow, a long central barrel assembly with 7 prominent golden electromagnetic coil rings surrounding a bright blue plasma beam running through the middle, and a circular front muzzle on the right with red segmented fins, black radial supports, and a blue glowing aperture. Add exactly 2 small landing/support struts beneath the body, one near the rear-left and one near the lower center-right. Use a crisp polished digital painting style with high contrast, clean outlines, comic/anime mecha detailing, metallic reflections, saturated red-gold-blue palette, and no text, people, watermark, smoke, scenery, or shadows beyond subtle object shading. The object should fill most of a 3:2 landscape canvas, centered with generous green empty space around it.
+```
+
+**来源：** [@AnA](https://x.com/anastudio2024/status/2087694024409071833) | 2026-08-13
+
+---
+

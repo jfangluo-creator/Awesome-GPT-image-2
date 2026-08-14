@@ -25605,3 +25605,62 @@ Use the uploaded reference image as the ONLY facial identity reference. Preserve
 
 ---
 
+### 🎴 例 6063：Identity Preserving Streetwear Campaign Poster
+
+![Identity Preserving Streetwear Campaign Poster](../images/Identity%20Preserving%20Streetwear%20Campaign%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded reference image as the ONLY facial identity reference.
+
+Preserve the exact same person with maximum fidelity. Maintain the identical facial identity, facial structure, skull shape, jawline, cheekbones, forehead, ears, eyes, eyebrows, eyelids, nose shape, nostrils, lips, mouth, chin, skin tone, hairstyle, hairline, facial proportions, glasses, age, expression, ethnicity, and overall recognizable appearance.
+
+Do NOT redesign, beautify, idealize, de-age, age-shift, alter ethnicity, modify facial proportions, change the hairstyle, replace the glasses, reinterpret facial features, or create a different person.
+
+Identity preservation overrides every artistic, stylistic, lighting, wardrobe, composition, rendering, and color instruction below.
+
+Keep the face instantly recognizable as the exact same person from the uploaded image.
+
+---
+
+Transform the uploaded person into a semi-realistic digital illustration streetwear campaign poster.
+
+The person keeps the exact same face, hairstyle, glasses, facial proportions, ski…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087873144401060093) | 2026-08-13
+
+---
+
+### 🎴 例 6064：Premium Fashion Tech Campaign Poster
+
+![Premium Fashion Tech Campaign Poster](../images/Premium%20Fashion%20Tech%20Campaign%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Ultra-premium vertical fashion-tech poster, Cannes-level collectible campaign. {argument name="model" default="Young male/ female model"}, waist-to-mid-thigh framing, slightly low angle, calm confident pose, head slightly raised and tilted, elongated neck. No celebrity likeness. {argument name="background" default="Dense flat cobalt-blue background"} with ultra-thin technical grid, registration marks, subtle print wear and silkscreen traces. Mixed-media fashion illustration: expressive ink contours, graphite, dry brush, selective marker fills, visible sketch lines, tactile pen pressure, textured art paper. {argument name="accents" default="Luxury mustard-yellow print accents"}, grainy paper, subtle ink bleeding, natural print imperfections, sharp yet organic lines, rare collectible screen-print finish, 8K. No photorealism, cartoon, anime, clutter, props, extra people, heavy typography, or generic commercial layout.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087872974414393719) | 2026-08-13
+
+---
+
+### 🎴 例 6091：Urban Fashion Advertising Poster
+
+![Urban Fashion Advertising Poster](../images/Urban%20Fashion%20Advertising%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium street-fashion advertising poster for an original urban brand called {argument name="brand name" default="RHYTMO"}, designed as a Cannes-level campaign visual that preserves the exact core structure, graphic rhythm, and impact of the image, while strengthening the lower-body product power and making the shoes and dance stance hit first before the viewer reads the broader typographic rhythm. The final artwork must feature one full-body female street dancer standing in a bold wide-legged pose at the exact center of a square frame, wearing a monochrome {argument name="outfit color" default="golden-yellow"} performance outfit and premium sneakers, with giant layered white graffiti-style typography transformed into a rhythm-cloud burst behind her across a saturated yellow background. The image must feel energetic, youthful, fashion-forward, rhythmic, and highly collectible, combining premium flat-graphic illustration with strong commercial product clarity.
+
+Core composition:
+Use a strict centered square composition with one full-body female dancer dominating the frame…
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2087822187935764642) | 2026-08-13
+
+---
+

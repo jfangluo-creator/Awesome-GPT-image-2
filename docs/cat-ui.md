@@ -12123,3 +12123,378 @@ Constraints: Include exactly one section badge, one company name, two headline l
 
 ---
 
+### 🖥️ 例 6039：Candid Street Smartphone Snapshot
+
+![Candid Street Smartphone Snapshot](../images/Candid%20Street%20Smartphone%20Snapshot.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded portrait only to preserve the person’s exact facial identity, facial features, hairstyle, hair color, and overall youthful appearance.
+
+A highly realistic candid street photograph of the same person walking toward the camera on a {argument name="time of day" default="sunny urban side street"}, captured spontaneously at close range with a smartphone. She is mid-step, leaning slightly forward with natural body movement, laughing brightly with an open-mouth smile and lively eyes, raising one hand toward the camera in a playful spontaneous greeting while casually holding her phone in the other hand. Her hair is softly lifted by the breeze, with loose strands glowing in the sunlight.
+
+Dress her in a stylish youthful outfit naturally chosen to complement her appearance and body proportions, different from the uploaded clothing, with tasteful accessories and a shoulder bag. Strong natural late-morning sunlight creates luminous rim light through the hair, soft highlights across the face and shoulders, realistic uneven outdoor exposure, subtle blown highlights, gentle shadows, and natural skin translucency. Slight motion blur, imperfect handheld framing, mild overexposure, authentic smartphone dynamic range, realistic skin texture, unretouched details, casual street snapshot aesthetic, energetic and spontaneous rather than posed. Background pedestrians remain secondary and softly out of focus. No artificial beauty filter, no plastic skin, no studio lighting, no text, logo, signature, or watermark.
+```
+
+**来源：** [@Shinning](https://x.com/Shinning1010/status/2088051954350235769) | 2026-08-13
+
+---
+
+### 🖥️ 例 6042：Japanese Manus Chat Pixel Art Screenshot
+
+![Japanese Manus Chat Pixel Art Screenshot](../images/Japanese%20Manus%20Chat%20Pixel%20Art%20Screenshot.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a realistic screenshot of a minimalist AI chat interface showing a Japanese conversation where a user asks for a 16-bit pixel-art conversion and the assistant responds with a generated image.
+
+Canvas: Portrait screenshot, 768 x 896 px, white background, clean web-app UI with lots of empty space. No browser chrome, no visible sidebars. Use soft gray dividers, rounded cards, and small interface icons.
+
+Layout: Top-right user area contains exactly 2 discrete elements: 1 small square anime avatar, and 1 rounded white chat bubble. The avatar is an anime horse-girl face with brown hair, white forelock, purple eyes, horse ears, and a purple ribbon. The user bubble text is {argument name="user request" default="16bitのピクセルアートにしてください"}.
+
+Assistant message block 1: Place the Manus logo and the bold name “manus” on the left. Below it, show exactly 1 small rounded notice pill containing a sparkle icon and Japanese text {argument name="notice text" default="今回は Manus が負担します—クレジットは消費されません"}. Then show the assistant reply line: {argument name="first assistant reply" default="承知しました。元の表情と配色を保ちながら、16bit風のピクセルアートに仕上げます。"}. Under that, show exactly 2 checked task rows with gray circular check icons: 1) “編集要件を整理する” and 2) “16bit風ピクセルアートを生成する”. Beneath the tasks, show exactly 2 small action icons: a copy icon and a curved-arrow/regenerate-style icon.
+
+Assistant message block 2: Lower on the page, repeat the Manus logo and bold name “manus”. Under it, show a single Japanese sentence: {argument name="second assistant reply" default="16bitゲーム機時代をイメージした、くっきりしたドット絵調に変換しました。"}. Below this sentence, align a large generated image preview to the left.
+
+Generated image preview: The preview is a square-ish pixel-art portrait cropped by the screenshot bottom edge. It shows a cheerful anime horse-girl character in crisp 16-bit game style: brown bob-length hair with a large white forelock, tall horse ears, a purple bow on the left ear, purple sparkling eyes, small blush marks, open smiling mouth, and white hair ties near both sides. Use chunky pixel edges, visible dithering, limited retro palette, and dark outline pixels. Background inside the pixel-art image is a warm indoor room with beige wall, window light, and horizontal furniture/trim, all rendered in pixel art. The visible generated preview should occupy the lower-left portion and be cut off at the bottom of the screenshot.
+
+Additional UI details: Add a small floating circular down-arrow button at the bottom-right corner. Keep the overall look like a Japanese Manus chat page, with generous margins, black body text, subtle gray UI accents, and no true transparency checkerboard. Count of visible repeated UI/content elements: 1 user avatar, 1 user message bubble, 2 Manus headers, 1 notice pill, 2 checked task rows, 2 small action icons, 1 generated image preview, and 1 floating down-arrow button.
+
+Constraints: Preserve the Japanese text exactly where given in the default parameter values. Do not add extra messages, extra avatars, extra buttons, watermarks, browser tabs, or side navigation.
+```
+
+**来源：** [@ち～ぽん✨🤔](https://x.com/gamemangaanime/status/2087985985326051603) | 2026-08-13
+
+---
+
+### 🖥️ 例 6046：Red Leather Biker Fashion Portrait
+
+![Red Leather Biker Fashion Portrait](../images/Red%20Leather%20Biker%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A striking young woman with {argument name="hair" default="long tousled dark-brown hair"}, {argument name="eye color" default="luminous blue-gray eyes"}, glossy natural skin, and an athletic hourglass build stands confidently. Blend gritty urban biker fashion with elegance : a {argument name="jacket style" default="distressed deep-red leather jacket"} worn open over a fitted black cropped top, paired with sleek black high-gloss pants,. Her pose is relaxed and self-assured, one hand lifting her hair, direct gaze toward camera. Low-to-mid angle fashion portrait, waist-to-thigh framing, shallow depth of field. Warm golden backlight pours through,, leather, skin highlights, floating dust, and fabric. Semi-realistic anime realism, refined facial features, cinematic editorial, luxurious textures, sensual but powerful, crisp focal subject, softly glowing background.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2087944673092403210) | 2026-08-13
+
+---
+
+### 🖥️ 例 6050：Police Robot Blueprint
+
+![Police Robot Blueprint](../images/Police%20Robot%20Blueprint.jpg)
+
+**Prompt:**
+
+```text
+『{argument name="組織名" default="警視庁重機対策課ロボット隊"}』のロボットの設計図
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2087904586023698921) | 2026-08-13
+
+---
+
+### 🖥️ 例 6072：Candid Superman Lifting Bus
+
+![Candid Superman Lifting Bus](../images/Candid%20Superman%20Lifting%20Bus.jpg)
+
+**Prompt:**
+
+```text
+A real candid street photograph, not cinematic and not glossy, showing {argument name="character name" default="an ordinary young man"} dressed as Superman in a realistic textured blue suit with a red cape and a large red-and-gold S emblem on the chest. He stands in the foreground on a city street, facing the camera with a calm slight smile, short dark hair, trimmed beard, and clear eyeglasses. His right arm is raised straight upward, effortlessly holding up a full-size silver-and-blue city bus with one hand; his fingers wrap around a small dark metal support point underneath the bus, making the bus appear suspended above him. The bus dominates the upper half of the frame, seen from a low angle with its front corner, headlights, license plate, underside, large wheels, and side panels visible. Add pedestrians on the sidewalk in the background reacting with surprise, including a small group watching and one person holding up a phone. Urban downtown setting with tall buildings, storefronts, pavement, curb, and natural daylight. Make it look like an authentic smartphone or documentary photo with realistic lighting, slight wide-angle perspective, natural shadows, imperfect street details, and believable scale. Avoid comic-book style, studio lighting, glossy superhero poster effects, dramatic cinematic color grading, exaggerated muscles, or artificial CGI polish.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2087861218078032109) | 2026-08-13
+
+---
+
+### 🖥️ 例 6074：Fantasy Treetop Tram City Café
+
+![Fantasy Treetop Tram City Café](../images/Fantasy%20Treetop%20Tram%20City%20Caf%C3%A9.jpg)
+
+**Prompt:**
+
+```text
+Create a highly detailed fantasy anime illustration of a vast treetop city built around an enormous ancient tree, viewed from a high wooden café terrace in warm afternoon sunlight. In the foreground, show exactly 2 young anime girls seated at a small square wooden table on the balcony, calmly drinking tea and looking at each other; one has {argument name="first girl hair color" default="light brown hair"} and a white blouse with a dark capelet, the other has {argument name="second girl hair color" default="dark brown ponytail"} and a green cloak. On the table include exactly 4 visible tea-service items: 2 cups held by the girls, 1 dark teapot, and 1 small cup or bowl near the teapot. Surround them with rustic wooden railings, chairs, floorboards, leafy vines, potted plants, and dappled sun patches. Beyond the balcony, depict a breathtaking vertical fantasy metropolis made of timber, glass, brass, and greenery, with countless tiny houses, platforms, stairways, bridges, railings, lanterns, and market details layered deep into the scene. The centerpiece is {argument name="central structure" default="a colossal tree trunk wrapped by multiple spiral train tracks"}; show exactly 5 prominent spiral rail loops encircling the trunk at different heights. Include exactly 4 clearly visible tram cars: 1 on the lower-left track, 1 on the mid spiral track, 1 on the glass-roof building slope, and 1 on the upper-right rail line. Add a large glass conservatory-like building with a steep turquoise roof on the right-center, a small red-and-white circus tent near the lower center, and suspended walkways disappearing into dense foliage. Use {argument name="art style" default="intricate cinematic fantasy anime background art"}, ultra-rich linework, painterly textures, glowing sunbeams through leaves, teal-and-gold color grading, high-frequency architectural detail, magical realism, deep perspective, no text, no watermark, vertical composition.
+```
+
+**来源：** [@養分](https://x.com/gomikasu_asupe/status/2087857819483770984) | 2026-08-13
+
+---
+
+### 🖥️ 例 6078：Hamster Sunflower Cannon Game UI
+
+![Hamster Sunflower Cannon Game UI](../images/Hamster%20Sunflower%20Cannon%20Game%20UI.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cute hand-painted 2D game UI screenshot for a hamster-powered sunflower seed cannon typing game, with a cheerful rural sunflower-field theme and Japanese interface text.
+
+Canvas: Wide 16:9 game screen, bright daytime sky, saturated storybook watercolor/gouache style, thick clean outlines, warm cream-and-wood UI panels, sunflower decorations, playful arcade energy.
+
+Layout: Top HUD, center battlefield, right target status board, and bottom input/control panel. Use exactly 3 top HUD elements: left rounded cream badge showing “COMBO 6” with a sunflower icon, center wooden title plaque reading {argument name="game title" default="ひまわりの種キャノン"} decorated with sunflowers and leaves, and right rounded cream badge showing “発射回数 12” with small leaves and a sunflower. The main scene is a rolling green meadow filled with sunflowers, a white fence, distant hills, fluffy clouds, drifting petals, dandelion fluff, and flying sunflower seeds.
+
+Subject details: On the left, place exactly 1 adorable round hamster character operating exactly 1 wooden-and-brass sunflower cannon. The hamster is beige and brown with glossy black eyes, tiny paws, and holds a red-topped lever. Add exactly 1 speech bubble above it reading “ピッ！”. The cannon is small, wheeled, decorated with sunflower motifs, with a large sunflower-shaped muzzle firing seeds to the right. Show one large yellow arrow-shaped projectile banner coming out of the cannon reading {argument name="shot phrase" default="私の担当じゃねーんだよ！！！！"}. Include multiple visible black-and-white sunflower seeds streaking across the scene, plus yellow leaves, sparkles, and motion trails.
+
+Right target board: Create exactly 1 large wooden target sign on the right, wobbling from impact, decorated with exactly 3 prominent sunflowers and a small “TARGET” label at the top. The target name should read {argument name="target name" default="理不尽上司"}. Under it, show exactly 1 horizontal HP bar with red-orange-yellow fill on the left and dark depleted area on the right, labeled “872 / 1500 HP”. Below the bar, show a big comic impact label “-128 DAMAGE!” in red-orange letters with white outline. Add starbursts and seeds striking around the board.
+
+Bottom control panel: A large cream wooden bordered panel spans the full width. It contains exactly 1 typing input box on the left with large black text {argument name="input text" default="私の担当じゃねーんだよ！！！！"} followed by a vertical cursor. On the right is exactly 1 oversized rounded yellow button labeled “発射” with smaller text “Enterでも発射” beneath it, decorated with sunflowers. Along the bottom left is exactly 1 “POWER” label and exactly 1 long power meter with a green-to-yellow-to-red gradient, plus several seed markers inside the gauge.
+
+Visual style: Whimsical Japanese mobile game UI, cozy handmade illustration, polished mockup, high readability, bold Japanese typography, wooden texture, decorative rivets, stitched borders, subtle drop shadows, dynamic comic hit effects, no photorealism.
+
+Constraints: Keep all listed UI text legible and positioned as described. Use exactly the visible major interactive/status elements: 3 top HUD elements, 1 hamster, 1 cannon, 1 speech bubble, 1 projectile phrase banner, 1 target board, 1 HP bar, 1 damage label, 1 input box, 1 fire button, and 1 power meter. Do not add extra characters, menus, watermarks, logos, or unrelated UI panels.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2087843923804954976) | 2026-08-13
+
+---
+
+### 🖥️ 例 6096：Paris Street Style Walking Portrait
+
+![Paris Street Style Walking Portrait](../images/Paris%20Street%20Style%20Walking%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a hyperrealistic candid street-style fashion photograph of a {argument name="subject" default="stylish young woman"} walking through a quiet Paris street intersection in soft natural daylight. She has long dark wavy hair and wears black rectangular sunglasses, an oversized cream half-zip windbreaker with slightly rolled sleeves, navy athletic running shorts with white piping, and black flip-flop sandals. Pose her mid-stride on a crosswalk, gently looking downward ahead with a calm confident expression; one hand softly lifts or brushes through her hair while the other hand rests in her shorts pocket. The setting is an elegant Parisian neighborhood with beige Haussmann-style stone buildings, ornate wrought-iron balconies, a corner café with awning, tree-lined streets, parked cars along the curb, a red no-entry sign, and gray asphalt road markings. Use a realistic editorial street photography style, eye-level perspective, full-body framing, natural shadows, muted urban colors, subtle motion in the walking pose, and no added text or watermark.
+```
+
+**来源：** [@杂学大师✨](https://x.com/Techbruneth/status/2087798070507704362) | 2026-08-13
+
+---
+
+### 🖥️ 例 6100：Metropolitan Identity Double Exposure
+
+![Metropolitan Identity Double Exposure](../images/Metropolitan%20Identity%20Double%20Exposure.jpg)
+
+**Prompt:**
+
+```text
+{
+"identity": {
+"reference": "Use the uploaded face photo as the STRICT identity reference.",
+"priority": "ABSOLUTE",
+"preserve": [
+"exact facial identity",
+"facial proportions",
+"eyes",
+"eyebrows",
+"nose",
+"lips",
+"jawline",
+"ears",
+"skin tone",
+"hairline",
+"hairstyle",
+"recognizable appearance"
+],
+"gender": "Automatically adapt naturally for male or female."
+},
+"image": {
+"title": "Metropolitan Identity",
+"aspect_ratio": "4:5",
+"style": [
+"Ultra Photorealistic",
+"Luxury Editorial",
+"Swiss Graphic Design",
+"Double Exposure",
+"Fine Art Portrait",
+"Minimal Poster Design"
+],
+"composition": {
+"shot": "Waist-up portrait.",
+"camera_angle": "Three-quarter profile.",
+"background": "Clean light gray studio backdrop.",
+"framing": "Centered minimalist editorial composition."
+},
+"subject": {
+"expression": {
+"emotion": "Calm, elegant, confident.",
+"eyes": "Looking slightly downward into the distance.",
+"overall": "Professional luxury fashion model."
+},
+"hair": {
+"style": "Natural premium editorial styling."
+},
+"wardrobe": {
+"description": "{argument name="wardrobe color" default="red"}" 
+}
+},
+"city": "<{argument name="city" default="New York"}>", 
+"placement": "Modern skyscrapers are visible only inside the silhouette of the subject's clothing and lower body. The face remains clean and fully recognizable.",
+"blend": "Soft realistic double exposure with architectural transparency."
+},
+"graphic_design": {
+"style": "Modern Swiss typography layout.",
+"accent_color": "<{argument name="accent color" default="ACCENT COLOR"}>",
+"elements": [
+"large translucent horizontal rectangle crossing the eyes",
+"minimal geometric blocks",
+"clean vertical typography",
+"subtle transparent overlays"
+],
+"text": "<New York>" 
+}
+}
+```
+
+**来源：** [@H A J R A](https://x.com/codewithhajra/status/2087768610995585232) | 2026-08-13
+
+---
+
+### 🖥️ 例 6101：Lakeside Afternoon Picnic Portrait
+
+![Lakeside Afternoon Picnic Portrait](../images/Lakeside%20Afternoon%20Picnic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic vertical portrait of {argument name="character name" default="Anri"}, an elegant young Japanese woman relaxing during a quiet afternoon picnic beside a calm lake. She is seated barefoot on lush green grass in the left foreground with her legs extended diagonally toward the lower right, holding a white bowl filled with green grapes in both hands on her lap. She has soft shoulder-length dark brown wavy hair tied partly back with a large white lace ribbon bow, natural makeup, small earrings, and a gentle peaceful expression while gazing off to the left rather than at the camera. Her outfit is a summery {argument name="dress color" default="white"} sleeveless camisole dress with thin straps, delicate lace trim at the neckline, ribbed bodice texture, and a light airy skirt. The setting is a shaded lakeside park with dappled sunlight filtering through dense green trees overhead, a sparkling lake occupying the right background, and a forested far shore under a pale blue sky. Include exactly 8 distinct picnic props on a pale blanket with red stripe accents behind her: 1 woven wicker picnic basket with handles, 1 small bouquet of pink and white flowers, 1 round tray or shallow basket with bananas and red fruit, 1 small bottle, 1 orange fruit, 1 slender glass vase or cup, 1 folded patterned cushion or cloth roll, and 1 second folded patterned cushion or cloth roll. Use natural warm daylight, soft skin tones, shallow depth of field, realistic fabric and grass detail, subtle lens bokeh in the trees and water, relaxed wholesome mood, high-resolution lifestyle photography composition, no text, no watermark, no extra people.
+```
+
+**来源：** [@vevrier90333](https://x.com/vevrier9033833/status/2087763238083862830) | 2026-08-13
+
+---
+
+### 🖥️ 例 6106：Alternative Character Illustration
+
+![Alternative Character Illustration](../images/Alternative%20Character%20Illustration.jpg)
+
+**Prompt:**
+
+```text
+Two-dimensional alternative character illustration of {argument name="character" default="character"}, occupying approximately seventy-five percent of the frame in {argument name="pose" default="a pose"}, with {argument name="hair" default="styled hair"} and [EXPRESSION]. Oversized rounded cranium, a short flattened lower face, a narrow jaw, a long thin neck, slightly oversized ears, huge pale oval eyes with tiny off-center pupils, extremely thick horizontal black eyebrows, heavy black upper eyelids, muted mauve under-eye rings, a tiny broad triangular nose, and a wide asymmetrical grin showing individually drawn irregular rectangular teeth, one clearly missing upper tooth, one chipped tooth and deep black gaps. Dress the character in [CLOTHING], simplified into broad graphic shapes with chunky seams, minimal folds and small hand-drawn accessories. Confident black ink contours using thick outer silhouettes, medium-weight facial lines, thin angular hair strands and only a few short scratch marks around the eyes, hair and clothing seams; use flat opaque color fields, one hard-edged cel-shadow shape per form, sparse pencil hatching, subtle ink wobble, slight color misregistration and restrained worn-paper texture. Controlled [COLORS] palette, keeping every color clearly separated and moderately saturated. Place the character against [BACKGROUND], reduced to large flat shapes, a few loosely drawn environmental details and oversized rough hand-painted lettering reading “[TEXT]”; use an off-center waist-up composition, a slight camera tilt, cropped background typography, loose poster margins and lightly weathered printed edges. 4:5 AR.
+```
+
+**来源：** [@Zayan](https://x.com/HustleXR/status/2087745072309604705) | 2026-08-13
+
+---
+
+### 🖥️ 例 6107：Abstract Rock Guitarist Album Art
+
+![Abstract Rock Guitarist Album Art](../images/Abstract%20Rock%20Guitarist%20Album%20Art.jpg)
+
+**Prompt:**
+
+```text
+Create a square album-cover-style illustration of {argument name="character name" default="an anonymous young female rock guitarist"} standing in a powerful wide-legged pose at the center, rendered mostly as a dark silhouette with subtle anime-inspired details. She has messy short wavy hair, a slim figure, an off-shoulder dark jacket or dress-like rock outfit, ankle boots, and she holds a black electric guitar diagonally across her body as if performing. The background is an abstract geometric music diagram: a textured navy-blue and warm ivory collage with one large turquoise semi-circular arc sweeping across the upper right, a large off-white circular/spiral form behind the character, and scattered turquoise and mustard accent shapes. Include fine technical drafting lines, circular orbit guides, grids, dotted arcs, measurement marks, small nodes, and architectural linework throughout. Add exactly 3 prominent turquoise geometric accents: one large semi-circle arc in the upper right, one solid circle left of center below the sheet music, and one vertical turquoise rectangle near the lower right. Add exactly 2 mustard-gold block accents: one rectangle on the left edge and one small wedge on the right circular motif. Incorporate musical notation in exactly 3 visible staff areas: one horizontal staff with treble clef and notes across the left-middle, one thin staff line cluster across the right-middle, and one lower staff with arrows and gold dots near the bottom. Use a distressed screenprint texture, rough paint edges, scratch marks, ink speckles, and layered paper collage feel. Color palette: deep navy, aged cream, bright teal/turquoise, muted mustard gold, and black. Lighting should emphasize the musician as a backlit silhouette with a faint rim glow, no readable typography, no logo, no watermark, high-detail graphic poster composition.
+```
+
+**来源：** [@shio3](https://x.com/shio3_403pd/status/2087742688489837006) | 2026-08-13
+
+---
+
+### 🖥️ 例 6108：Luxury Fashion Editorial Portrait
+
+![Luxury Fashion Editorial Portrait](../images/Luxury%20Fashion%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-photorealistic luxury fashion editorial photograph of the SAME model wearing the SAME outfit and accessories as the reference, maintaining her facial appearance, hairstyle, proportions, and overall aesthetic. Change the pose, body positioning, and camera composition completely so it feels like a separate professional photoshoot. Give her an elegant, confident, naturally relaxed pose with realistic hands and anatomy. Use a {argument name="setting" default="sophisticated architectural setting"} with {argument name="lighting" default="warm golden-hour cinematic lighting"}, realistic shadows, subtle background bokeh, and premium editorial color grading. Shoot on a professional full-frame camera with an 85mm lens at f/2.0, natural eye-level perspective, realistic proportions, shallow depth of field, fine film grain, detailed skin pores, individual hair strands, authentic fabric texture and physically accurate lighting. Absolutely no tilted camera, Dutch angle, rotated horizon, extreme wide-angle distortion, AI-looking skin, plastic texture, distorted hands, or unnatural anatomy. The final result should look like a genuine {argument name="magazine style" default="high-end Vogue-style fashion campaign"} photograph, not an AI-generated image.
+```
+
+**来源：** [@Nexora](https://x.com/frametheory058/status/2087742248884797527) | 2026-08-13
+
+---
+
+### 🖥️ 例 6112：Consistent Character Nine-Panel Illustration Collage
+
+![Consistent Character Nine-Panel Illustration Collage](../images/Consistent%20Character%20Nine-Panel%20Illustration%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Create a high-quality 3×3 grid collage featuring the same {argument name="character description" default="young woman"} consistently appearing in all nine panels, with her facial features, {argument name="hair description" default="long wavy brown hair"}, skin tone, and overall appearance remaining recognizable and consistent throughout. Use a clean, polished, {argument name="art style" default="whimsical illustrated style"} with realistic character details, soft shading, crisp linework, warm natural lighting, and a white/light background filled with delicate hand-drawn decorative elements.
+
+Panel 1: The woman surfing on a powerful ocean wave, wearing a sleek black outfit, dynamic action pose, splashing water around her.
+
+Panel 2: The woman floating in outer space wearing a detailed astronaut suit, surrounded by planets, stars, constellations, and a small rocket launching below.
+
+Panel 3: The woman relaxing on a fluffy cloud while reading a book, surrounded by floating books, shelves, a cozy armchair, lamp, and steaming cup of coffee.
+
+Panel 4: The woman working as a scientist in a laboratory, wearing a white lab coat and safety glasses, holding test tubes, surrounded by laboratory glassware, chemical formulas, and scientific diagrams.
+
+Panel 5: The woman gardening in a raised wooden vegetable garden, watering plants and growing tomatoes and leafy vegetables, surrounded by flowers, bees, butterflies, and botanical doodles.
+
+Panel 6: The woman peacefully meditating while sitting cross-legged on a large lotus flower, surrounded by glowing circular energy rings, stars, spirals, and calming spiritual symbols.
+
+Panel 7: The woman as a professional chef wearing a clean white chef uniform, holding fresh tomatoes and vegetables, with cooking utensils, pans, steam, and food-related doodles surrounding her.
+
+Panel 8: The woman working as a skilled carpenter, wearing a casual gray T-shirt and protective gloves, using a hammer and woodworking tools, surrounded by saws, nails, screws, measuring tape, and wooden materials.
+
+Panel 9: The woman as an artist standing beside an easel, painting a beautiful mountain landscape on canvas with a brush and palette, wearing a white shirt and dark artist apron, surrounded by paint tubes, brush strokes, and artistic doodles.
+
+Maintain consistent character identity across every panel, balanced composition, clear separation between the nine scenes, highly detailed facial features, natural anatomy, expressive poses, professional editorial illustration quality, sharp details, clean background, cohesive color palette, 8K quality, portrait orientation.
+```
+
+**来源：** [@Zarnab Ai](https://x.com/Zarnab_with_Ai/status/2087734711498199201) | 2026-08-13
+
+---
+
+### 🖥️ 例 6122：Bird Shaman Character Turnaround
+
+![Bird Shaman Character Turnaround](../images/Bird%20Shaman%20Character%20Turnaround.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a clean 3D character design turnaround sheet for a dark fantasy humanoid bird-shaman character, suitable for modeling and rigging reference.
+
+Canvas: Wide horizontal canvas, 16:9 aspect ratio, light warm gray studio background with no props, no shadows beyond soft contact shading, centered full-body figures with generous spacing.
+
+Layout: Show exactly 4 full-body character views in a straight row, all in a rigid T-pose with arms extended horizontally: 1 front view, 2 left side profile view, 3 back view, 4 right side profile view. Keep all four views the same height and scale, evenly spaced, feet aligned on the same baseline.
+
+Character details: The character is {argument name="character archetype" default="a dark fantasy bird-masked tribal shaman"} with a slim humanoid body, black fitted under-suit or dark skin-tight body layer, birdlike plague-doctor mask or long beak helmet, and a crown of thin red-orange feather or tendril plumes emerging from the head. The face is hidden by the mask; the front mask has a long pale bone-colored beak, dark eye openings, and carved ornamental markings. The back view shows a darker head with red tendrils visible from behind.
+
+Outfit: The costume has exactly these visible main clothing pieces: 1 long open sleeveless olive-green robe or coat with split front and pointed tails, 2 short pale green sleeves over the upper arms, 3 black fitted forearm guards or gloves, 4 black leggings, 5 open-toe sandals, 6 layered dark feather collar around the shoulders, 7 pale leaf-like feather necklace around the neck, 8 circular bronze ring ornaments at the waist and knees, 9 hanging strap details at the hips, 10 a vertical laced panel down the upper back. The robe color is {argument name="robe color" default="muted olive green"} with weathered fabric texture and faded salmon-pink circular patterns on the sides and lower back. Use bronze, bone, leather, and dark charcoal materials.
+
+Pose and anatomy: T-pose character sheet, arms perfectly straight and level, palms facing down or slightly inward, legs straight, feet shoulder-width apart. The figure should feel game-ready and sculptural, with consistent proportions across all views.
+
+Visual style: High-quality 3D render, realistic stylized fantasy design, matte materials, subtle worn fabric texture, crisp details, neutral orthographic camera, no dramatic lighting, no text labels, no grid, no watermark. Emphasize symmetry, readable silhouettes, and production-art clarity. Use {argument name="render style" default="realistic stylized 3D game character turnaround"}.
+```
+
+**来源：** [@KOBATAKA｜Vibe Modeling](https://x.com/shion_takk/status/2087701910275162527) | 2026-08-13
+
+---
+
+### 🖥️ 例 6123：Good Morning Harbin Magazine Poster
+
+![Good Morning Harbin Magazine Poster](../images/Good%20Morning%20Harbin%20Magazine%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a refined vertical city-morning magazine poster for {argument name="city name" default="Harbin"}, blending editorial typography with a bright urban travel photograph.
+
+Canvas: Portrait poster, approximately 3:4 ratio, white background, minimalist luxury magazine aesthetic, generous margins, cool blue morning color palette with black typography.
+
+Layout: Place a large rectangular city photograph in the upper-right and center area, occupying about two-thirds of the poster width and starting near the top edge. The photo shows a sunlit post-rain urban square in Harbin: wet reflective pavement, historic European-style buildings, a church with a dark onion dome in the foreground, clock-tower architecture on the left, modern high-rise buildings in the misty background, soft clouds and pale blue sky. Overlay the left side of the image and white margin with enormous condensed high-fashion serif text reading “GOOD MORNING HARBIN” stacked across three lines, black, very tall Didot/Bodoni-like letters, partially overlapping the city photo.
+
+Top-left text: Add handwritten-style Chinese calligraphy reading “早安 哈尔滨” in muted blue-gray. Beneath it, add small uppercase English text in two lines: “CITY MORNING” and “GREETING SERIES”, then a spaced issue number “| 01”.
+
+Right-side vertical text: Add one vertical Chinese location caption along the right side of the photo: “东方明珠广播电视塔 —— 陆家嘴 · 上海”, set in small black type, even though the main poster title says Harbin.
+
+Graphic annotation: Add one small red circular dot with a thin white outline near the center-right of the city photo, connected to one thin white diagonal line pointing down toward the church. Add one elegant thin black looping line flourish starting around the large word “MORNING”, curving across the word “HARBIN”, continuing down into the lower white area, ending in a small black dot near the bottom-right.
+
+Main lower quote: Below the photo and headline, place a large Chinese sentence in black: {argument name="main quote" default="微雨过后，清晨更有光。"}
+
+Information row: Under the quote, create exactly 4 evenly spaced info blocks separated by 3 thin vertical divider lines. Block 1 has a small calendar icon and text “2026-08-13” and “星期四”. Block 2 has a small rain-cloud icon and text “小雨 22°C” and “Light Rain”. Block 3 has a small map-pin icon and text “哈尔滨 Harbin” and “中国 · CHINA”. Block 4 has a small walking-person icon and text “去感受” and “去创造”.
+
+Bottom-left paragraph: Add a small heading “GOOD MORNING”, then a short Chinese paragraph: “这座城市的每一个清晨，都是生活赠予我们的礼物。愿你带着热爱，向着光，遇见更好的自己。” Add a short horizontal dash beneath.
+
+Bottom-right buttons: Add exactly 2 outlined square callout boxes with thin black borders. First box text: “新的一天 / 新的开始”. Second box text: “保持热爱 / 奔赴生活”.
+
+Visual style: Editorial magazine cover, clean Swiss spacing mixed with luxury serif typography, crisp photographic realism, soft morning haze, cool blue-white tones, high contrast black text, delicate line art icons, no clutter.
+
+Constraints: Use exactly one main city photograph, one giant English headline, one red map marker, one looping black flourish line, four info blocks, three divider lines, and two bottom callout boxes. Keep all text sharp and readable, avoid extra logos, watermarks, people close-ups, or additional decorative elements.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2087699298737848519) | 2026-08-13
+
+---
+

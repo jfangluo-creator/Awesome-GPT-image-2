@@ -7068,3 +7068,17 @@ Create one complete high-detail professional storyboard sheet image for a 30-sec
 
 ---
 
+### 🧸 例 6069：Pixar Style Superhero Storyboard
+
+![Pixar Style Superhero Storyboard](../images/Pixar%20Style%20Superhero%20Storyboard.jpg)
+
+**Prompt:**
+
+```text
+Create 10 separate ultra-cinematic Pixar 3D animation quality storyboard frames for a 15-second superhero origin story of {argument name="superhero name" default="IGNIS"} — a {argument name="subject description" default="young male fire"} superhero. Style: Pixar/Disney 3D animation quality, vibrant colors, dramatic cinematic lighting, emotional
+```
+
+**来源：** [@Vini l Ai Content Creator](https://x.com/Viniai_/status/2087864299188556266) | 2026-08-13
+
+---
+
