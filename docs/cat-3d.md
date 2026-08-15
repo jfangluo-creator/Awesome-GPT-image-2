@@ -7082,3 +7082,51 @@ Create 10 separate ultra-cinematic Pixar 3D animation quality storyboard frames 
 
 ---
 
+### 🧸 例 6146：Cyber Mech Panda Warrior 3D Art
+
+![Cyber Mech Panda Warrior 3D Art](../images/Cyber%20Mech%20Panda%20Warrior%203D%20Art.jpg)
+
+**Prompt:**
+
+```text
+intense epic 3d artwork, a mech cyber panda warrior character clenching her fist, pink, white, and black colors, neon glowing eyes, kinetic chromatic burst motion blur background. intense epic 3d artwork, a mech cyber panda warrior character clenching her fist, pink, white, and black colors, neon glowing eyes, kinetic chromatic burst motion blur background, epic, cinematic, multi-shot, no glitches, amazing vfx
+```
+
+**来源：** [@Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne/status/2088222602372280345) | 2026-08-14
+
+---
+
+### 🧸 例 6175：London Papercraft and Clay Diorama
+
+![London Papercraft and Clay Diorama](../images/London%20Papercraft%20and%20Clay%20Diorama.jpg)
+
+**Prompt:**
+
+```text
+Create a charming miniature 3D papercraft and clay-diorama illustration of {argument name="location" default="London, England"}, presented like a premium handcrafted souvenir postcard. Set the scene on a rounded cobblestone island over a warm off-white textured paper background.
+
+Feature miniature {argument name="landmarks" default="Big Ben and the Palace of Westminster, the London Eye, Tower Bridge"}, and classic red double-decker buses, surrounded by elegant Victorian architecture, narrow streets, tiny black cabs, and the River Thames flowing through the composition. Add miniature Londoners in stylish everyday British clothing, tiny Union Jack details, street lamps, flower planters, café tables, newspaper stands, red telephone booths, and subtle London street signs.
+
+Build everything from layered paper, molded clay, folded cardstock, and finely textured handmade materials. Include soft papercraft clouds above the skyline with a tiny airplane and a few birds drifting through the sky. Use warm cinematic lighting, gentle shadows, subtle depth of field, whimsical miniature proportions, intricate handcrafted details, and a sophisticated premium souvenir aesthetic.
+
+Compose the diorama from a slightly elevated three-quarter perspective, with a polished yet handmade feel and beautifully balanced visual density. Place elegant cursive lettering beneath the miniature diorama, integrated naturally into the postcard design.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2088124379775566200) | 2026-08-14
+
+---
+
+### 🧸 例 6176：Glossy Designer Toy Floating Head
+
+![Glossy Designer Toy Floating Head](../images/Glossy%20Designer%20Toy%20Floating%20Head.jpg)
+
+**Prompt:**
+
+```text
+Create a premium glossy 3D designer toy render of a single floating head of a cheerful young woman, cropped cleanly just below the jaw with a short visible neck, full head comfortably framed and centered. She has {argument name="skin tone" default="warm medium tan skin"}, a soft rounded face, thick dark eyebrows, a small nose, glossy peach lips, and a subtle confident smile. Give her {argument name="hair color" default="dark chocolate brown"} shoulder-length wavy hair with exaggerated smooth sculpted strands, deep side volume, high specular highlights, and a polished vinyl-toy finish. Add oversized wraparound visor sunglasses with a bright pink frame and reflective blue-to-purple gradient lenses; the eyes are faintly visible behind the tinted lenses. Decorate the hair and glasses with exactly 3 cute glossy accessories: 1 pink star hair clip on the left side of her hair, 1 pink heart hair clip on the right side, and 1 small white-and-blue cloud charm attached near the left hinge of the sunglasses. Use a high-end collectible toy aesthetic: rounded stylized proportions, smooth plastic skin, glossy reflections, clean seams-free modeling, vivid colors, soft studio-quality lighting mixed with sunny outdoor highlights, shallow depth of field. Background: {argument name="background" default="bright blue sky with soft fluffy white clouds"}, blurred slightly so the head stands out. Composition: vertical portrait, close-up bustless floating head, no body, no shoulders, no duplicate heads, no text, no watermark, no extra accessories beyond the 3 listed.
+```
+
+**来源：** [@Mr Das](https://x.com/MrDasOnX/status/2088122890168488360) | 2026-08-14
+
+---
+

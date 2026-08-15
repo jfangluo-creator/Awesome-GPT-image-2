@@ -877,6 +877,26 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6122：Bird Shaman Character Turnaround](cat-ui.md#️-例-6122bird-shaman-character-turnaround)
 
 - [例 6123：Good Morning Harbin Magazine Poster](cat-ui.md#️-例-6123good-morning-harbin-magazine-poster)
+
+- [例 6127：Power Suit Piano Room Portrait](cat-ui.md#️-例-6127power-suit-piano-room-portrait)
+
+- [例 6143：Wet Transparent Earbud Macro](cat-ui.md#️-例-6143wet-transparent-earbud-macro)
+
+- [例 6144：Quiet Hamster Manga Page](cat-ui.md#️-例-6144quiet-hamster-manga-page)
+
+- [例 6148：Monochrome Summer Hamster Manga Page](cat-ui.md#️-例-6148monochrome-summer-hamster-manga-page)
+
+- [例 6158：High-Speed Fruit Splash Photography](cat-ui.md#️-例-6158high-speed-fruit-splash-photography)
+
+- [例 6161：Classic Impressionist Oil Portrait](cat-ui.md#️-例-6161classic-impressionist-oil-portrait)
+
+- [例 6163：Outdoor Park Guitar Portrait](cat-ui.md#️-例-6163outdoor-park-guitar-portrait)
+
+- [例 6164：Fashion Editorial Magazine Poster](cat-ui.md#️-例-6164fashion-editorial-magazine-poster)
+
+- [例 6166：Woman Listening to Music by Window](cat-ui.md#️-例-6166woman-listening-to-music-by-window)
+
+- [例 6186：Natural Light Portrait Template](cat-ui.md#️-例-6186natural-light-portrait-template)
 ---
 
 <a id="chart"></a>
@@ -2655,6 +2675,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6064：Premium Fashion Tech Campaign Poster](cat-poster.md#-例-6064premium-fashion-tech-campaign-poster)
 
 - [例 6091：Urban Fashion Advertising Poster](cat-poster.md#-例-6091urban-fashion-advertising-poster)
+
+- [例 6188：CAVN GPT Image 2 Launch Poster](cat-poster.md#-例-6188cavn-gpt-image-2-launch-poster)
 ---
 
 <a id="photo"></a>
@@ -8756,6 +8778,76 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6120：South Asian Male Fashion Portrait](cat-illustration.md#-例-6120south-asian-male-fashion-portrait)
 
 - [例 6121：Abstract High-Fashion Mixed-Media Poster](cat-illustration.md#-例-6121abstract-high-fashion-mixed-media-poster)
+
+- [例 6125：Snow Leopard Family in Himalayas](cat-illustration.md#-例-6125snow-leopard-family-in-himalayas)
+
+- [例 6128：Dynamic Cheerleader Performance Shot](cat-illustration.md#-例-6128dynamic-cheerleader-performance-shot)
+
+- [例 6129：Japanese Glamour Typography Poster](cat-illustration.md#-例-6129japanese-glamour-typography-poster)
+
+- [例 6130：Chinese Martial Arts Beauty Portrait](cat-illustration.md#-例-6130chinese-martial-arts-beauty-portrait)
+
+- [例 6131：Y2K Style Photo Booth Collage](cat-illustration.md#-例-6131y2k-style-photo-booth-collage)
+
+- [例 6132：Pink Hair Bedroom Selfie Photography](cat-illustration.md#-例-6132pink-hair-bedroom-selfie-photography)
+
+- [例 6133：Rose-Pink Studio Fashion Portrait](cat-illustration.md#-例-6133rose-pink-studio-fashion-portrait)
+
+- [例 6135：Anime Girl with Blue Slime Hat](cat-illustration.md#-例-6135anime-girl-with-blue-slime-hat)
+
+- [例 6136：Character Pose and Angle Modification](cat-illustration.md#-例-6136character-pose-and-angle-modification)
+
+- [例 6139：Surreal Macro Fashion Illusion](cat-illustration.md#-例-6139surreal-macro-fashion-illusion)
+
+- [例 6141：Neon Diamond Double Portrait Composite](cat-illustration.md#-例-6141neon-diamond-double-portrait-composite)
+
+- [例 6142：Transparent Earbuds on Stone Pedestal](cat-illustration.md#-例-6142transparent-earbuds-on-stone-pedestal)
+
+- [例 6145：Fox-Eared Kimono Tea Party Girl](cat-illustration.md#-例-6145fox-eared-kimono-tea-party-girl)
+
+- [例 6147：Minimalist High-Contrast Fashion Shoot](cat-illustration.md#-例-6147minimalist-high-contrast-fashion-shoot)
+
+- [例 6150：Minimalist Meadow Fashion Portrait](cat-illustration.md#-例-6150minimalist-meadow-fashion-portrait)
+
+- [例 6152：Industrial Designer Sketchbook Concept](cat-illustration.md#-例-6152industrial-designer-sketchbook-concept)
+
+- [例 6153：Hand-Drawn Botanical Sketchbook Illustration](cat-illustration.md#-例-6153hand-drawn-botanical-sketchbook-illustration)
+
+- [例 6155：Winter Storybook Folk-Art Illustration](cat-illustration.md#-例-6155winter-storybook-folk-art-illustration)
+
+- [例 6156：High-Fashion B&W Beauty Portrait](cat-illustration.md#-例-6156high-fashion-bw-beauty-portrait)
+
+- [例 6159：Abstract Personal Brand Poster](cat-illustration.md#-例-6159abstract-personal-brand-poster)
+
+- [例 6160：Mid-Century Travel Book Illustration](cat-illustration.md#-例-6160mid-century-travel-book-illustration)
+
+- [例 6167：Monochrome Streetwear Editorial Poster](cat-illustration.md#-例-6167monochrome-streetwear-editorial-poster)
+
+- [例 6168：Cyborg Ronin Character Sheet](cat-illustration.md#-例-6168cyborg-ronin-character-sheet)
+
+- [例 6170：Cinematic Grass Height Portrait](cat-illustration.md#-例-6170cinematic-grass-height-portrait)
+
+- [例 6171：Sleek Studio Furniture Shot](cat-illustration.md#-例-6171sleek-studio-furniture-shot)
+
+- [例 6172：Moonlit Arabian Dancer](cat-illustration.md#-例-6172moonlit-arabian-dancer)
+
+- [例 6173：Cinematic Urban Decay Fashion Portrait](cat-illustration.md#-例-6173cinematic-urban-decay-fashion-portrait)
+
+- [例 6178：High-Fashion Character Concept Art Sheet](cat-illustration.md#-例-6178high-fashion-character-concept-art-sheet)
+
+- [例 6179：Candid Flagship Camera Selfie](cat-illustration.md#-例-6179candid-flagship-camera-selfie)
+
+- [例 6181：Kyudo Archery Anime Character Sheet](cat-illustration.md#-例-6181kyudo-archery-anime-character-sheet)
+
+- [例 6182：Cinematic Sunset Lake Boat Portrait](cat-illustration.md#-例-6182cinematic-sunset-lake-boat-portrait)
+
+- [例 6183：Hyperrealistic Mirror Selfie Portrait](cat-illustration.md#-例-6183hyperrealistic-mirror-selfie-portrait)
+
+- [例 6184：Anime Girl Holding Dandelion](cat-illustration.md#-例-6184anime-girl-holding-dandelion)
+
+- [例 6185：Miniature Woman Coffee Commercial](cat-illustration.md#-例-6185miniature-woman-coffee-commercial)
+
+- [例 6187：Serene Mid-Autumn Lantern Poster](cat-illustration.md#-例-6187serene-mid-autumn-lantern-poster)
 ---
 
 <a id="character"></a>
@@ -9696,6 +9788,12 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 6031：3D Animation Storyboard Part 1](cat-3d.md#-例-60313d-animation-storyboard-part-1)
 
 - [例 6069：Pixar Style Superhero Storyboard](cat-3d.md#-例-6069pixar-style-superhero-storyboard)
+
+- [例 6146：Cyber Mech Panda Warrior 3D Art](cat-3d.md#-例-6146cyber-mech-panda-warrior-3d-art)
+
+- [例 6175：London Papercraft and Clay Diorama](cat-3d.md#-例-6175london-papercraft-and-clay-diorama)
+
+- [例 6176：Glossy Designer Toy Floating Head](cat-3d.md#-例-6176glossy-designer-toy-floating-head)
 ---
 
 <a id="architecture"></a>
@@ -10018,6 +10116,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5601：Realistic Bathroom Selfie Portrait](cat-architecture.md#️-例-5601realistic-bathroom-selfie-portrait)
 
 - [例 5765：Minimalist Business Exhibition Poster](cat-architecture.md#️-例-5765minimalist-business-exhibition-poster)
+
+- [例 6154：Surreal Summer Fashion Photography](cat-architecture.md#️-例-6154surreal-summer-fashion-photography)
 ---
 
 <a id="comic"></a>
@@ -11805,6 +11905,40 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 6113：Summer Fruit Theme Portrait](cat-brand.md#️-例-6113summer-fruit-theme-portrait)
 
 - [例 6124：Futuristic Electromagnetic Cannon](cat-brand.md#️-例-6124futuristic-electromagnetic-cannon)
+
+- [例 6126：Futuristic Mall Fashion Scene](cat-brand.md#️-例-6126futuristic-mall-fashion-scene)
+
+- [例 6134：Chibi Explorer Dragon Cave Poster](cat-brand.md#️-例-6134chibi-explorer-dragon-cave-poster)
+
+- [例 6137：Cinematic Rocky Waterfall Valley](cat-brand.md#️-例-6137cinematic-rocky-waterfall-valley)
+
+- [例 6138：Cozy Anime Reading Room Nap](cat-brand.md#️-例-6138cozy-anime-reading-room-nap)
+
+- [例 6140：Beethoven Sonata DSD 256 Collage](cat-brand.md#️-例-6140beethoven-sonata-dsd-256-collage)
+
+- [例 6149：Commercial Storyboard Story Sheet](cat-brand.md#️-例-6149commercial-storyboard-story-sheet)
+
+- [例 6151：Architectural Watercolor Sketch](cat-brand.md#️-例-6151architectural-watercolor-sketch)
+
+- [例 6157：Premium Energy Drink Branding Concepts](cat-brand.md#️-例-6157premium-energy-drink-branding-concepts)
+
+- [例 6162：Vintage Comic Book Character Portrait](cat-brand.md#️-例-6162vintage-comic-book-character-portrait)
+
+- [例 6165：Oriental Papercut World Tree Art](cat-brand.md#️-例-6165oriental-papercut-world-tree-art)
+
+- [例 6169：Gothic Black Cat Portrait](cat-brand.md#️-例-6169gothic-black-cat-portrait)
+
+- [例 6174：Hong Kong Watercolor Travel Journal](cat-brand.md#️-例-6174hong-kong-watercolor-travel-journal)
+
+- [例 6177：Modern Male Character Reference Sheet](cat-brand.md#️-例-6177modern-male-character-reference-sheet)
+
+- [例 6180：Luxury Perfume Brand Advertisement](cat-brand.md#️-例-6180luxury-perfume-brand-advertisement)
+
+- [例 6189：Retro 90s Urban Album Art](cat-brand.md#️-例-6189retro-90s-urban-album-art)
+
+- [例 6190：Melancholy Mid-Autumn Burden Poster](cat-brand.md#️-例-6190melancholy-mid-autumn-burden-poster)
+
+- [例 6191：Person Lying Parallel on Sofa](cat-brand.md#️-例-6191person-lying-parallel-on-sofa)
 ---
 
 <a id="edit"></a>

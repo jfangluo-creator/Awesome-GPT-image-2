@@ -16426,3 +16426,357 @@ Create a highly detailed side-view concept art illustration of a futuristic {arg
 
 ---
 
+### 🏷️ 例 6126：Futuristic Mall Fashion Scene
+
+![Futuristic Mall Fashion Scene](../images/Futuristic%20Mall%20Fashion%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic ultra-realistic wide-angle scene of a futuristic luxury shopping mall in the year {argument name="year" default="3050"}, viewed at eye level from the center of a glossy marble concourse. A young East Asian woman is walking directly toward the camera as the main subject, centered and sharply in focus, with long slightly windblown black hair, pale skin, natural makeup, and a calm confident expression. She wears a high-fashion transparent iridescent cyber outfit: clear glossy trench coat, metallic silver cropped top, harness straps with small buckles, high-waisted reflective pants, translucent sleeves, and tech accessories in a white-silver palette. Surround her with a busy crowd of fashionable mall visitors wearing futuristic streetwear in black, white, chrome, and transparent materials; people walk in both directions, with some figures softly blurred by depth of field. The mall architecture is enormous and vertical, with multiple stacked glass balconies, luxury storefronts, curved LED light strips, mirrored walls, and a wet-looking reflective floor. Add many blue holographic advertisements and signage throughout the scene, including readable signs such as "ELEVATE", "CYBERDECK", "3050", "NEW ERA", and "NEW HUMAN" on cylindrical hologram pillars and shop facades. Lighting should be cool blue-white, high contrast, with reflections, lens glow, neon accents, and a polished cyberpunk fashion editorial mood. Composition: 16:9 horizontal image, central vanishing point, symmetrical futuristic mall corridor, the model full-body to three-quarter body in the foreground, background packed with depth and detail. Style: photorealistic, high-resolution, cinematic, luxury sci-fi, realistic faces and fabric materials, no cartoon look, no watermark, no extra random text beyond the mall signage. Customize the main subject as {argument name="main subject" default="young East Asian woman"}, the outfit palette as {argument name="outfit palette" default="transparent iridescent silver and white"}, and the mall brand mood as {argument name="mall brand mood" default="luxury cyberpunk fashion"}.
+```
+
+**来源：** [@sayangmu 😘](https://x.com/regmlar/status/2088394536519442571) | 2026-08-14
+
+---
+
+### 🏷️ 例 6134：Chibi Explorer Dragon Cave Poster
+
+![Chibi Explorer Dragon Cave Poster](../images/Chibi%20Explorer%20Dragon%20Cave%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium stylized 3D adventure poster in a vertical composition, preserving the core visual logic of a cute heroic explorer discovering treasure inside a dangerous cave. The image must feel cinematic, suspenseful, playful, and highly polished, like a flagship animated adventure campaign poster. Place one chibi-style fantasy explorer at the upper-middle area, standing on rough descending stone steps inside a dark cavern, holding a flaming torch in one hand and a short sword in the other. The character must feel brave, expressive, and charming, with a slightly oversized head, compact heroic body, clear readable silhouette, and fully coherent stylized anatomy. A huge expedition backpack rises behind the character, loaded with rolled blankets, straps, buckles, tools, and tiny adventure accessories, making the figure feel small but determined. Core composition: use a strict vertical poster layout. The explorer stands near the upper center on descending rocky steps. The lower center contains an open treasure chest overflowing with gold coins, gems, and rich magical light, becoming the primary warm focal source in the lower half. The stone steps lead the eye downward from the explorer to the glowing treasure. On the right side of the cavern wall, a gigantic dragon eye emerges from darkness, larger and more imposing, half-hidden in shadow, staring toward the explorer and the viewer with chilling intensity. The dragon eye must be a dominant tension anchor, with a sharper, more focused pupil highlight and stronger sense of intelligent presence. Small skulls, an old sword, scattered treasure, and cave relics may appear along the rock edges, but they must remain secondary and controlled. Orbit-enhanced threat presence: increase the scale and psychological power of the dragon eye so it feels like a vast ancient creature is embedded inside the cave darkness. The iris must have richer reptilian texture, the eyelids should feel heavy and watchful, and the eye highlight should be crisp enough to make the gaze feel alive. The presence of the eye should intensify the feeling that the explorer has stepped into a sacred forbidden chamber. Transit-enhanced cinematic mood: push the overall palette and atmosphere toward a colder, more filmic cave tone. Shift the environment into deeper cave blue-black, mineral charcoal, cool slate, and muted stone-gray. Let the torch and treasure chest remain the only concentrated warm light sources, creating a stronger warm-vs-cold contrast. Reduce any unnecessary warmth in the cave environment so the image feels more mysterious, more expensive, and more like an international animated feature poster. Style and visual language: ultra-detailed stylized 3D animation, premium animated feature poster quality, cinematic fantasy adventure, cute-but-epic storytelling, polished family adventure campaign, high-end CG rendering, impeccable material detail, world-class commercial poster finish, flagship movie-quality mood. Character design and anatomy: design a completely original chibi explorer with a rounded expressive face, wide alert eyes, small nose, open adventurous smile, short tousled hair peeking from under a simple fantasy helmet, and a compact heroic body. The pose should feel active and slightly forward-moving, one foot planted on a higher step, the other lower, body turned subtly toward the treasure while the head reacts to the lurking danger. Hands must be fully readable and anatomically coherent even in stylized form, with correct finger count and clear grip logic on torch and sword. Costume should include leather boots, a short tunic, belt, metal shoulder or arm accents, gloves, and travel-ready details. Lighting: use a refined dual-light system with strong warm torchlight and treasure glow contrasted against deep cold cave darkness. The torch creates a warm orange key light on the explorer’s face, armor, and backpack edges. The treasure chest emits a rich golden underglow that lights the steps, coins, and lower cave walls. Add subtle cool ambient fill from the cave darkness so forms remain readable without losing the nocturnal tension. The dragon eye should glow with controlled amber menace from within shadow. Lighting must feel cinematic, volumetric, and highly dimensional, with soft haze and atmospheric depth. Material rendering: the cave rocks must feel rough, damp, ancient, and heavy, with chipped edges, mineral texture, dust, and subtle moisture. Gold coins must feel metallic, reflective, and abundant, with varied orientation and believable thickness. Gems should feel jewel-like and luminous in small controlled accents. The treasure chest must feel like aged wood reinforced with weathered metal hardware. The backpack must feel heavy, tactile, and handmade, with stitched leather, fabric bedrolls, straps, and attached adventure gear. The torch flame must feel believable, with layered orange-yellow fire and subtle smoke. The dragon eye must show wet organic depth, reptilian iris pattern, dark scaled eyelids, and a threatening glossy surface. Color system: build the image around deep cave blue-black, charcoal, mineral slate, and cold shadow tones, contrasted with concentrated amber, gold, fire orange, and copper highlights. Keep the warm colors tightly localized to the torch, treasure chest, coins, and dragon eye glow. The emotional result should feel adventurous, magical, suspenseful, and deeply cinematic. Environment and storytelling: the cave must feel like a hidden underground ruin with stone steps, narrow ledges, rough walls, and ancient danger. Add only a few carefully chosen storytelling props: skulls, an old buried sword, scattered treasure, broken relics, and faint cave dust. Keep the scene clean, readable, and controlled. The explorer should feel like they have just discovered the treasure while realizing an enormous creature is watching. Typography and poster layout: preserve the logic of poster text placement. Add a fully original fantasy adventure title lockup at the lower left, bold and graphic, with a custom Chinese-style headline and a smaller English subtitle beneath it, fully fictional and not copied from any source. Add a small original platform-style ID or release mark at the lower right in minimal clean typography. Keep all text sparse, integrated, and professionally designed as part of the poster composition. Image quality and physical constraints: extreme sharpness, premium depth layering, cinematic atmospheric perspective, readable silhouette hierarchy, coherent stylized anatomy, no broken hands, no extra fingers, no deformed limbs, no muddy dark areas, no black blotches, no cheap fantasy clutter, no weak focal structure. The final result must feel like a world-class animated adventure key visual ready for commercial promotion. Negative prompt: real brand names, copied title text, copied platform text, watermark, signature, broken anatomy, extra fingers, missing fingers, malformed hands, distorted face, dead eyes, muddy cave shadows, black blotches, chaotic treasure clutter, fake fire, plastic rocks, cheap cartoon look, low-resolution texture, weak dragon eye, cluttered composition, unreadable silhouette
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2088310154328736152) | 2026-08-14
+
+---
+
+### 🏷️ 例 6137：Cinematic Rocky Waterfall Valley
+
+![Cinematic Rocky Waterfall Valley](../images/Cinematic%20Rocky%20Waterfall%20Valley.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic photorealistic extreme-wide landscape of a vast rocky valley seen from a high elevated viewpoint, framed in an ultra-widescreen movie aspect ratio with thin black letterbox bars. The valley is filled with massive weathered stone formations and steep canyon cliffs on both sides, with layered waterfalls cascading down the left and center rock terraces into shallow pools and streams below. Include exactly 6 prominent waterfall drops: 3 large vertical falls on the left cliff, 1 broad mid-distance fall near the center-left, and 2 smaller stepped falls in the lower middle foreground. Add scattered trees and dense forest patches throughout the valley floor, winding natural dirt paths and streambeds weaving between rocks, warm sandy ground, and rugged boulders. Soft mist and waterfall spray should float above the water and drift between the rocks, especially in the center distance and right-side canyon. Use dramatic natural daylight with hazy atmosphere, sun rays filtering through mist, strong depth, realistic textures, cinematic color grading, high detail, and an epic environmental concept-art feel. No people, no buildings, no text, no animals, no modern objects.
+```
+
+**来源：** [@AI Genesis](https://x.com/AIGenesis_/status/2088289002571051154) | 2026-08-14
+
+---
+
+### 🏷️ 例 6138：Cozy Anime Reading Room Nap
+
+![Cozy Anime Reading Room Nap](../images/Cozy%20Anime%20Reading%20Room%20Nap.jpg)
+
+**Prompt:**
+
+```text
+Create a warm, cozy hand-drawn anime illustration in a soft watercolor-and-ink style, viewed from a high overhead three-quarter angle inside a small reading room. The scene shows exactly one young person with {argument name="hair color" default="messy dark brown hair"} sleeping curled on a cream-colored three-seat sofa, wearing loose {argument name="pajama pattern" default="white pajamas with thin pale blue vertical stripes"}, barefoot, hugging exactly two beige rabbit plush toys against their chest, with their head resting on one white pillow at the right end of the couch. The room has honey-toned wooden plank flooring, beige walls, and gentle afternoon sunlight entering through one centered window behind the sofa with sheer white curtains and heavier cream curtains. Include exactly two tall bookcases, one on the left wall and one on the right wall, both filled with neatly arranged books; add two small wall shelves on the upper left with books, a potted plant, and a framed picture. Add exactly three visible potted plants: one on the windowsill, one on a shelf, and one trailing ivy plant near the upper right bookcase. Place a wooden desk and one simple wooden chair on the left side, with an open notebook or papers on the desk. On the floor in front of the sofa, include one woven rectangular rug with fringed edges, exactly one pair of socks lying near the sofa, one small closed book near the rug center, and one brown leather satchel bag to the right. Add one upholstered armchair at the lower right corner, partially cropped. Use a gentle nostalgic palette of cream, tan, caramel wood, muted greens, and soft shadows; linework should be delicate and slightly sketchy, with detailed textures on fabric, rug, books, and wood grain. The mood should feel peaceful, intimate, and sleepy, like a quiet afternoon nap in a home library. No text, no watermark, no modern electronics, no harsh contrast.
+```
+
+**来源：** [@じょにがたロボ](https://x.com/jonigata_ai/status/2088278557722337438) | 2026-08-14
+
+---
+
+### 🏷️ 例 6140：Beethoven Sonata DSD 256 Collage
+
+![Beethoven Sonata DSD 256 Collage](../images/Beethoven%20Sonata%20DSD%20256%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic widescreen digital collage about Beethoven's Violin Sonata Op. 96 being rediscovered through modern high-resolution audio, blending a 19th-century Viennese salon performance with a futuristic DSD listening studio.
+
+Canvas: 16:9 horizontal composition, dark dramatic chiaroscuro, ultra-detailed, painterly realism mixed with cybernetic audio visualization. The image should read left-to-right as a transformation from old classical performance to modern digital sound.
+
+Layout: Split the scene into two connected halves with no hard border. Left half is a warm amber-brown historical oil-painting scene inside an ornate Viennese salon. Right half is a cool blue-black futuristic audiophile studio. A single horizontal audio waveform runs across the entire center of the image, starting as gold on the historical side and shifting into white, cyan, orange, magenta, and blue on the digital side.
+
+Historical left side: Show exactly 2 main historical men in the foreground: 1 famous violinist in black formal 19th-century clothing playing a violin with a languid, tired expression, and 1 intense curly-haired Beethoven-like composer standing behind him, watching sternly. Add a small salon audience in the background, candlelit chandeliers, gilded walls, dark framed paintings, and aristocratic spectators. In the lower center-left foreground, include several large aged sheet-music pages with handwritten notation, tilted toward the viewer. Add a small monochrome ghostly orchestra scene in the lower-left corner as a memory-like vignette.
+
+Modern right side: Show exactly 1 sleek black rectangular digital audio converter on a table, labeled "DSD 256" on its front panel, with a small round knob on the right. Place exactly 1 large black studio monitor speaker on the far right. Behind and around the device, create glowing cyan holographic equalizer bars, translucent circuit-like panels, soundwave diagrams, and floating fragments of musical notation. Below the device, show a vivid red-orange waveform falling downward like molten sound, merging into a glowing blue and magenta holographic architectural concert hall made of music staves and light.
+
+Visual style: Hyper-detailed, moody, cinematic lighting, baroque oil-painting texture on the left, glossy high-tech cyber-audio rendering on the right, dense layered transparency, gold dust and smoky particles, deep blacks, amber candlelight, electric cyan and magenta neon. Make the transition feel emotional and profound, as if the true meaning of {argument name="musical work" default="Beethoven Violin Sonata Op. 96"} is revealed by {argument name="audio format" default="DSD 256"} in {argument name="recording year" default="2025"}.
+
+Text constraints: The only readable device text should be "DSD 256". Do not add captions, titles, logos, watermarks, or extra typography.
+```
+
+**来源：** [@Juan José Arango E.](https://x.com/jjarangoes/status/2088261702525595885) | 2026-08-14
+
+---
+
+### 🏷️ 例 6149：Commercial Storyboard Story Sheet
+
+![Commercial Storyboard Story Sheet](../images/Commercial%20Storyboard%20Story%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create a premium professional 20-second commercial storyboard sheet in 3:4 landscape, designed like a real advertising-agency production storyboard.
+
+- Exactly 6 panels, 2×3 grid
+- Each panel = 3–4 seconds
+- Dark deep-red header: NO. | VISUAL | ACTION / DIALOGUE
+- Large cinematic visual area + narrow white information area
+- White numbered circle in upper-left of every visual
+- Thin black/gray borders, clean white background
+- Sharp, highly legible text
+- Photorealistic commercial photography
+- No extra panels, title, or decorative elements
+- One finished storyboard sheet only
+
+STORY: “THE LAST 20 MINUTES”
+
+A young Indonesian office worker rushes through the city after work, discovers a MIXUE outlet, takes a spontaneous five-minute break, and enjoys a Strawberry Mi-Shake.
+
+RUSH → PAUSE → DISCOVERY → ORDER → CREATION → HAPPY RESET
+
+PANEL 1 — 0–3s
+CAMERA: Fast Tracking Shot, Handheld
+ACTION: Indonesian woman, mid-20s, shoulder-length dark hair, white blouse, navy trousers, white sneakers and black laptop bag rushes through a busy sidewalk while checking her phone.
+DIALOGUE: “Aduh, tinggal sebentar lagi.”
+VISUAL: Busy Indonesian street, office workers, motorcycles, traffic and late-afternoon light with energetic motion.
+
+PANEL 2 — 3–6s
+CAMERA: Slowdown → Smooth Dolly In
+ACTION: She notices a MIXUE strawberry drink poster, stops, smiles and decides to enter.
+DIALOGUE: “Lima menit masih cukup.”
+VISUAL: Motion-blurred city around her while she remains sharp. Bright red MIXUE storefront and strawberry drink visible through glass. Cinematic “world stops” effect.
+
+PANEL 3 — 6–9s
+CAMERA: Medium Shot, Smooth Counter Push-In
+ACTION: She enters and orders from a cheerful young male cashier in a black MIXUE uniform and cap.
+DIALOGUE:
+Customer: “Kak, Strawberry Mi-Shake satu.”
+Cashier: “Siap!”
+VISUAL: Authentic Indonesian MIXUE interior, menu boards, POS counter and natural interaction.
+
+PANEL 4 — 9–12s
+CAMERA: Over-the-Counter Close-Up
+ACTION: Cashier prepares the Strawberry Mi-Shake, pouring fresh strawberry mixture and creamy milk into a transparent branded cup.
+DIALOGUE: “Fresh satu buat kakak.”
+VISUAL: Premium preparation shot with red strawberry layer, creamy milk, realistic liquid movement, condensation and stainless-steel equipment.
+
+PANEL 5 — 12–16s
+CAMERA: Extreme Close-Up, Slow Motion Food Cinematography
+ACTION: Creamy topping, strawberry pieces and glossy strawberry sauce are added.
+DIALOGUE: —
+VISUAL: Macro hero shot of strawberry sauce flowing over cream, fresh fruit, condensation, rich red-and-white contrast and shallow depth of field.
+
+PANEL 6 — 16–20s
+CAMERA: Hero Product Shot → Rack Focus
+ACTION: Cashier hands her the drink. She takes a sip, relaxes, checks her phone, realizes she still has time and sits by the window.
+DIALOGUE:
+Customer: “Untung sempat.”
+Cashier: “Enjoy, kak.”
+VISUAL: Strawberry drink foreground, woman smiling in middle ground, busy city softly blurred
+```
+
+**来源：** [@ÀBDŪLLÂH](https://x.com/itxabdullaa/status/2088184132962509159) | 2026-08-14
+
+---
+
+### 🏷️ 例 6151：Architectural Watercolor Sketch
+
+![Architectural Watercolor Sketch](../images/Architectural%20Watercolor%20Sketch.jpg)
+
+**Prompt:**
+
+```text
+Loose watercolor and pen sketch inside {argument name="location" default="[LOCATION / SUBJECT]"}, seen from {argument name="viewpoint" default="[VIEWPOINT]"} toward {argument name="focal point" default="[ARCHITECTURAL FOCAL POINT]"}, {argument name="central feature" default="[CENTRAL FEATURE]"} at center, {argument name="overhead structure" default="[OVERHEAD ARCHITECTURAL FEATURE]"} overhead. Ink line drawn first and left visible through every wash — {argument name="linework details" default="[ARCHITECTURAL LINEWORK]"} and {argument name="floor grid" default="[GROUND / FLOOR GRID]"} overshooting into blank paper, one long confident arc for {argument name="major curve" default="[MAJOR CURVE]"}. Wash about 65%, warm below and cool above: {argument name="warm palette" default="[WARM ARCHITECTURAL PALETTE]"} on {argument name="lower elements" default="[LOWER ARCHITECTURAL ELEMENTS]"}, {argument name="cool palette" default="[COOL PALETTE]"} over {argument name="upper feature" default="[UPPER ARCHITECTURAL FEATURE]"} thinning to bare line at the crown. Diagonal light shafts left as reserved white paper, the brightest value. Floor in {argument name="floor wash" default="[FLOOR COLOR / WASH]"} with a backrun. Figures in three depth bands, clustered and gapped, never in a row: {argument name="near figures" default="[NEAR FIGURES AND SCALE]"}, one cropped by the bottom edge; {argument name="mid figures" default="[MID FIGURES AND SCALE]"} scattered at different distances, {argument name="midground cluster" default="[MIDGROUND CLUSTER]"} clustered at {argument name="focal point" default="[FOCAL POINT]"}; {argument name="far figures" default="[FAR FIGURES AND SCALE]"} dissolving into strokes. Different actions each — {argument name="action 1" default="[ACTION 1]"}, {argument name="action 2" default="[ACTION 2]"}, {argument name="action 3" default="[ACTION 3]"}
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2088168632329425030) | 2026-08-14
+
+---
+
+### 🏷️ 例 6157：Premium Energy Drink Branding Concepts
+
+![Premium Energy Drink Branding Concepts](../images/Premium%20Energy%20Drink%20Branding%20Concepts.jpg)
+
+**Prompt:**
+
+```text
+{argument name="brand name" default="[BRAND NAME]"} → Premium Energy Drink Concept
+
+Transform {argument name="brand name" default="[BRAND NAME]"} into a futuristic, premium energy drink brand using its existing logo, colors, typography, shapes, proportions, and visual personality as the core creative DNA.
+
+Do not simply place the logo on a generic can. Reimagine the identity into a distinctive energy drink with a custom can silhouette, intelligent label system, signature energy graphics, flavor identity, premium typography, metallic accents, embossing, realistic aluminum texture, and condensation.
+
+Create a sophisticated 3:4 vertical product-design board featuring one dominant photorealistic hero can in 3/4 view, plus front, side, back, angled, and detail views. Include a matching multipack/box and refined design callouts for logo integration, color palette, flavor concept, materials, energy graphic system, and label structure.
+
+Use high-end commercial product photography, controlled reflections, dramatic but realistic lighting, soft shadows, and a clean futuristic studio environment. Make every design decision specific to {argument name="brand name" default="[BRAND NAME]"}
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2088167722605756541) | 2026-08-14
+
+---
+
+### 🏷️ 例 6162：Vintage Comic Book Character Portrait
+
+![Vintage Comic Book Character Portrait](../images/Vintage%20Comic%20Book%20Character%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A rugged, charismatic middle-aged man with long wavy swept-back hair, full beard and mustache, wearing {argument name="sunglasses style" default="vintage aviator"} sunglasses, a black ribbed turtleneck and tailored dark blazer. Dramatic close-up three-quarter portrait, looking slightly upward with a confident, contemplative expression. Highly detailed vintage comic-book / graphic-novel illustration, intricate hand-inked linework, dense cross-hatching, stippling and engraved textures, bold black shadows, limited palette of cream, charcoal, burgundy, muted teal and warm amber. Retro 1970s poster aesthetic, halftone print texture, screen-print effect, strong rim lighting, textured {argument name="background color" default="turquoise"} background fading into deep black, cinematic composition, sharp facial details, expressive hair strands, sophisticated editorial artwork, high contrast, vertical poster, 4:5 aspect ratio.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2088167288742846663) | 2026-08-14
+
+---
+
+### 🏷️ 例 6165：Oriental Papercut World Tree Art
+
+![Oriental Papercut World Tree Art](../images/Oriental%20Papercut%20World%20Tree%20Art.jpg)
+
+**Prompt:**
+
+```text
+9:16竖版，现代东方女性梦境立体剪纸艺术，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，layered shadow box，epic oriental papercraft fantasy，poetic female dreamscape，contemporary oriental art poster。她在世界之树的冠冕下抬头。画面核心叙事为：一位年轻东方女性来到一棵巨大纸艺神树的根部与高台之间，抬头看见树冠像一整座天空宫殿般向上层层展开，花朵、光与飞鸟从树顶倾泻而下。她终于看见生命真正恢弘的样子，也第一次意识到自己正站在某种神圣而伟大的中心之下。主体人物为视觉年龄约25岁的东方成年女性，柔美诗意、温柔坚定，带有面对伟大生命时的震撼与柔和感。人物拥有柔和鹅蛋脸，明亮杏眼微微仰望，神情安静、释然，带一点轻微惊叹。人物采用精致东方纸艺插画式塑形，不是真人摄影，也不过度卡通化。人物发型与头饰为：黑色长发自然披散，发尾与花藤剪纸自然连接，佩戴浅金叶片与小型纸花发饰。头饰轻盈精致，不过度复杂。长发在高处微风中自然向后延展，形成柔和流动的纸带线条。人物服装为：青绿色与奶白色纸艺长裙，裙摆像叶片、花瓣和长枝层层生长，局部加入浅金镂空纹样。服装由多层剪纸衣片、花叶形纸片、细长披帛、精密镂空边缘 and 真实纸张厚度组成，能够明显看见纸张纤维、轻微折痕、手工裁切边缘与层叠关系。裙摆与披帛具有轻盈生长感，但人物在画面中必须明显偏小。梦境载体为：巨型纸艺神树与高台。梦境意象包括：神树、花朵、花藤、飞鸟、云层、长阶。所有树干、枝叶、花朵、云层、飞鸟、台阶和人物都必须统一为高完成度立体纸雕语言，不能出现写实树木质感，也不能像普通花园插画。整体剪纸结构采用：环绕梦境式。画面主体是一棵真正具有史诗尺度感的巨型纸艺神树。神树必须从画面下方拔地而起，树干极其粗壮高耸，远大于人物与高台，树身内部布满复杂的镂空纹样、枝蔓缠绕结构、回廊、花窗、小型亭台和宫殿般的纸雕层级。树干不是普通树干，而像由无数纸雕藤蔓、枝脉、拱门与宫阙结构共同编织出的生命巨塔。神树树冠必须极其巨大，像撑起天空的一整座天穹宫殿。树冠从高处向四周层层展开，占据画面上部大面积空间，形成遮天蔽日般的冠冕感。树冠内部可见密集的纸艺枝叶、镂空花纹、纸雕花朵、悬垂藤蔓、发光花心、环形冠层以及像天空宫阙一样的层层结构。视觉上要明确让人感受到：树冠远远超出人物与树干的尺度，像一整个世界悬浮在上方。构图采用低角度仰视或强烈向上观看的视角，强调“树比人巨大得多”的压倒性尺度感。人物位于画面下方偏中央或高台附近，只占很小比例，站在树根、平台或长阶边缘，身体微微向上抬起，仰望高处树冠。人物只是巨大空间中的情绪锚点，不可过大，不可抢走视觉重心。真正的主角是神树本身。神树周围由层层花藤、纸雕花丛、盘旋枝蔓和环绕长阶构成巨大空间。长阶与小型平台从树根向上或向四周蜿蜒，作为尺度参照。少量纸艺飞鸟从树身与树冠之间穿行，进一步强化树的巨大神性尺度。背景云层从画面两侧和远处托起神树，形成高空、神域般的留白和神圣氛围。整体色彩方案为：青绿、奶白、暖金为主，少量浅粉点缀。青绿色用于枝叶、远处云层阴影和人物服装内层；奶白用于树干主体、花朵、高台、云层亮部和人物服装外层；暖金用于高光、树冠中心、花心、局部描边和纸箔装饰；少量浅粉仅用于花朵局部点睛。整体色彩必须明亮、圣洁、通透、华丽，不灰蒙，不压暗，不脏浊。光线与纸张质感为：高处暖白天光从树冠间洒下，形成强烈但柔和的神圣光束，照亮树干中段、人物、花藤与高台。树冠中心应有明显的发光感，像天光从生命深处倾泻。花藤与叶片边缘轻微透光，树干、枝叶和高台纸层层次分明，纤维与裁切边缘清晰可见。强化真实纸张厚度、手工裁切痕迹、细密镂空纹样、层间投影和边缘透光感，使整幅画面看起来像博物馆级大型纸雕艺术装置。画面整体要具有现代东方纸雕艺术、世界之树、天空宫殿、生命神话、史诗级梦境空间和高级艺术海报感。重点突出：神树必须在视觉上压倒性巨大，树冠要有“撑起天空”的史诗感，人物明显偏小，不能做成普通花园场景，也不能让树只像一棵装饰树。要让观者一眼感受到这是一棵如同神域中心般的世界之树。补充要求：人物必须小，神树必须巨大，树冠必须像天空宫殿一样向上层层展开，强化“树比人巨大得多”的压迫感与史诗生命感，不要普通花园感，不要树看起来不够大。负面提示词：未成年人，幼态脸，真人摄影，普通动漫，塑料3D，树脂材质，黏土，毛毡，儿童手工，普通花园树木，普通森林，盆景感，小树，人物过大，半身人物特写，树冠过小，树干过细，没有纵深，没有高空感，没有纸张层次，没有镂空结构，纸层混乱，纸张边缘模糊，阴影过重，暗部死黑，画面灰蒙，整体脏黄，多余人物，文字，Logo，水印。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2088162687817822218) | 2026-08-14
+
+---
+
+### 🏷️ 例 6169：Gothic Black Cat Portrait
+
+![Gothic Black Cat Portrait](../images/Gothic%20Black%20Cat%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic vertical portrait of one elegant {argument name="cat color" default="black"} cat sitting upright on an ornate purple-and-gold brocade cushion in a dark Victorian interior. The cat is the single main subject, centered slightly left, with glossy short fur, tall alert ears, long fine whiskers, and pale golden eyes gazing calmly toward the left side of the frame. Around its neck is one antique gold filigree necklace with a central dark oval gemstone pendant and one small dangling teardrop charm. The setting includes exactly 5 prominent background/decor elements: one heavy dark purple velvet curtain with one gold tassel tieback on the left, one gilded picture frame high on the back wall, one ornate carved gold side table on the right, one gold vase holding deep purple flowers, and one dark purple cushion with gold trim at the lower right. Use moody low-key lighting, soft natural background blur, shallow depth of field, rich black and plum tones, warm antique gold accents, detailed realistic fur texture, and a luxurious gothic aristocratic atmosphere. No text, no watermark, no extra animals.
+```
+
+**来源：** [@マンタ｜illuminAI開発](https://x.com/manta_illumin/status/2088133494484672523) | 2026-08-14
+
+---
+
+### 🏷️ 例 6174：Hong Kong Watercolor Travel Journal
+
+![Hong Kong Watercolor Travel Journal](../images/Hong%20Kong%20Watercolor%20Travel%20Journal.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical watercolor travel journal illustration on warm off-white textured paper, showing {argument name="destination" default="Hong Kong"} at {argument name="specific location" default="Victoria Harbour"}. At the top, leave airy negative space and add exactly 2 handwritten text elements: a large loose black ink calligraphy title reading “{argument name="main title" default="Hong Kong"}” and a smaller subtitle beneath it reading “{argument name="subtitle" default="Victoria Harbour"}”. The scene is a dreamy evening harbour view with soft blue-gray mountain silhouettes and misty clouds behind a dense skyline of high-rise buildings, including one very tall rectangular tower on the left and multiple illuminated towers across the center and right. Paint shimmering dark blue water with broken yellow, white, and red reflections. Include exactly 1 large white ferry on the left foreground, angled slightly toward the viewer, with sketchy black ink outlines and warm lit windows. In the right foreground, place exactly 1 stylish young man leaning against a waterfront railing, wearing {argument name="outfit" default="black oversized leather jacket, white T-shirt, dark sunglasses, necklace, rings"}; he has short black hair, a relaxed cool expression, one arm resting on the railing and the other hand raised near his face in a casual gesture. Use a loose urban sketching style: transparent watercolor washes, visible paper grain, splattered edges, imperfect pen lines, minimal facial detail, luminous city lights, and a balanced composition where the person overlaps the harbour while the title remains clean and readable. No photorealism, no hard digital gradients, no extra text, no watermark.
+```
+
+**来源：** [@喵探实测室](https://x.com/Mymeilwang/status/2088125367026622663) | 2026-08-14
+
+---
+
+### 🏷️ 例 6177：Modern Male Character Reference Sheet
+
+![Modern Male Character Reference Sheet](../images/Modern%20Male%20Character%20Reference%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a realistic full-body and portrait reference character sheet for a modern young East Asian man, useful as a video/animation model reference.
+
+Canvas: Wide horizontal studio sheet, approximately 16:9 aspect ratio, light neutral gray background, thin white divider lines separating panels, clean editorial fashion catalog look.
+
+Layout: Use exactly 5 visible views arranged in two main zones. Left column contains 2 stacked portrait crops: top portrait facing camera with a neutral expression, bottom portrait looking slightly off to the viewer’s right. Right wide zone contains 3 full-body outfit references: front view, side profile view, and back view, evenly spaced across the gray studio background. Keep the front full-body view partially cropped at the neck/head like a clothing reference, while the side and back views show the upper body to just above the head/neck area.
+
+Subject details: The same {argument name="character name" default="young Japanese man"} appears in every panel, early-to-mid 20s, slim build, average height, pale-to-light skin, clean-shaven face, calm serious expression, natural uneven skin texture, realistic facial proportions. Hair is {argument name="hair color" default="black"}, medium length, softly wavy, center-parted with loose curtain bangs and slightly tousled volume around the ears.
+
+Outfit: Minimal casual menswear: dark navy overshirt worn unbuttoned, white crew-neck T-shirt underneath, loose dark charcoal pleated trousers, black leather shoes. Hands are in trouser pockets for all full-body views. Clothing should have realistic cotton texture, folds, seams, collar, buttons, cuffs, and subtle studio shadows.
+
+Photography style: High-resolution photorealistic studio photography, soft diffused lighting from the front-left, accurate anatomy, natural posture, muted tones, crisp detail, shallow but not extreme depth of field. No text, no labels, no logos, no watermark, no props, no extra people.
+```
+
+**来源：** [@SHOWA風ドリア](https://x.com/SHOWAFUUDORIA/status/2088115387716313414) | 2026-08-14
+
+---
+
+### 🏷️ 例 6180：Luxury Perfume Brand Advertisement
+
+![Luxury Perfume Brand Advertisement](../images/Luxury%20Perfume%20Brand%20Advertisement.jpg)
+
+**Prompt:**
+
+```text
+Use the provided reference images as visual references. Create a highly photorealistic luxury perfume advertisement featuring a beautiful young {argument name="nationality" default="Korean"} woman in an elegant {argument name="clothing" default="black satin slip dress with thin straps and a loose black shawl"} draped around her arms. Her hair is styled in a sophisticated messy braided bun with delicate loose strands framing her face. She wears minimal elegant jewelry, including a delicate necklace and small drop earrings. Scene: an {argument name="location" default="upscale Seoul-inspired luxury perfume boutique"} at golden hour/night, filled with multiple premium glass perfume bottles and elegant black-and-gold perfume boxes. The woman is standing beside a luxurious display table, holding a clear glass perfume bottle delicately in one hand while lightly spraying perfume onto her wrist with the other. A fine, realistic perfume mist is visible in the warm light. Background: large floor-to-ceiling window showing a softly blurred Seoul city skyline at night, warm glowing lights and atmospheric bokeh. Add sophisticated floral arrangements with cream and blush-pink flowers in tall glass vases. Rich dark brown, black, champagne-gold, and warm amber tones. Lighting: cinematic warm golden-hour lighting, soft window light, subtle rim lighting around her hair and shoulders, realistic reflections on glass bottles, luxurious shadows, elegant highlights. Premium Korean beauty campaign aesthetic, editorial fashion photography, sophisticated and feminine mood. Camera: full-body and medium portrait composition, 85mm lens, shallow depth of field, realistic bokeh, sharp focus on the woman and perfume bottle, natural skin texture, realistic hands and fingers, detailed hair strands, HDR, ultra-photorealistic, 8K quality, high-end commercial fragrance campaign. Keep the overall composition elegant, expensive, cinematic, realistic, and refined. No cartoon effect, no plastic skin, no distorted hands, no extra fingers, no warped perfume bottles, no excessive makeup.
+```
+
+**来源：** [@Amelia Ai](https://x.com/AmeliaAi12/status/2088111666756263981) | 2026-08-14
+
+---
+
+### 🏷️ 例 6189：Retro 90s Urban Album Art
+
+![Retro 90s Urban Album Art](../images/Retro%2090s%20Urban%20Album%20Art.jpg)
+
+**Prompt:**
+
+```text
+Create a 4:5 vertical retro urban album-art illustration built around {argument name="city block theme" default="neighborhood environment"}. Show {argument name="subject" default="a pedestrian"} naturally interacting within a nostalgic 1990s neighborhood environment. Fill the street with {argument name="street details" default="storefronts, sidewalks, and utility poles"}, arranged as believable foreground, middle-ground, and background elements without making the composition cluttered.
+
+Use a broad city-block composition from slightly above pedestrian eye level, with strong perspective carrying the viewer through storefronts, sidewalks, brick buildings, stoops, parked objects, utility poles, and distant architecture.
+
+Give the figures simplified cartoon-like anatomy, confident poses, expressive gestures, thick black contour lines, rhythmic motion marks, and playful hand-drawn graphic symbols.
+
+Render the scene in {argument name="color palette" default="flat color areas"} using imperfect ink registration, faded halftone shading, rough screen-print edges, paper fibers, tiny scratches, dusty grain, and subtle vintage vinyl-record-sleeve wear.
+
+Add loose graffiti-inspired abstract shapes and energetic marks, but no readable tags or random lettering.
+
+The atmosphere should feel nostalgic, combining neighborhood storytelling, vintage hip-hop visual culture, analog-print character, and handmade editorial illustration.
+
+Keep the artwork original rather than reproducing any specific artist’s identifiable composition. No logos, trademarks, signatures, watermarks, readable brand names, unintended text, borders, grids, collage panels, or photorealism.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2088085068090855796) | 2026-08-14
+
+---
+
+### 🏷️ 例 6190：Melancholy Mid-Autumn Burden Poster
+
+![Melancholy Mid-Autumn Burden Poster](../images/Melancholy%20Mid-Autumn%20Burden%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a minimalist Chinese Mid-Autumn themed poster with restrained anxiety and late-autumn melancholy, combining vintage printmaking, surreal burden imagery, and bold typography.
+
+Canvas: Vertical portrait poster, 3:4 ratio, aged warm ivory paper background with visible grain, scratches, faded stains, and slightly darkened worn edges.
+
+Layout: A grayscale adult male figure is seen from behind in the lower half of the poster, bent forward under weight, head mostly hidden between two oversized orange-red cubic blocks resting on his shoulders and hands. The composition is centered but slightly bottom-heavy, with large empty negative space above. At the top center, place one narrow vertical column of small black Chinese text.
+
+Subject details: The man wears a worn, dusty long-sleeved jacket rendered in gritty black-and-white photographic halftone texture. His left hand supports the bottom of the left block, and his right arm supports the right block. His posture should feel strained, quiet, and resigned rather than dramatic.
+
+Counted visible elements: exactly 2 large orange-red cubes; exactly 2 large carved Chinese characters, one on each cube; exactly 1 human figure; exactly 1 vertical text column at the top. The left cube contains the character “团” in a thick geometric cutout style, and the right cube contains the character “圆” in the same cutout style. The top vertical text reads {argument name="top vertical text" default="今夜望月 / 静待团圆"}.
+
+Visual style: 1960s–1980s Chinese propaganda-poster influence mixed with modern surreal editorial design, risograph and silkscreen texture, muted burnt orange blocks, charcoal grayscale figure, rough ink edges, distressed paper, subtle misregistration, flat graphic shadows, quiet poetic mood.
+
+Text and typography: Use tall, delicate, vertically arranged Chinese characters for the small top text; use massive blocky, architectural Chinese characters carved into the cubes for {argument name="left cube character" default="团"} and {argument name="right cube character" default="圆"}. Keep the typography legible and central to the symbolism.
+
+Constraints: No moon illustration, no lanterns, no extra people, no modern city background, no decorative border, no watermark. Keep the image sparse, solemn, and symbolic.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2088065918815641626) | 2026-08-14
+
+---
+
+### 🏷️ 例 6191：Person Lying Parallel on Sofa
+
+![Person Lying Parallel on Sofa](../images/Person%20Lying%20Parallel%20on%20Sofa.jpg)
+
+**Prompt:**
+
+```text
+シチュエーション:
+{argument name="場所" default="リビング､3人がけのソファ､ソファで横になっている。"}
+姿勢条件:
+{argument name="姿勢" default="寝姿勢はソファに対して並行､体の向きをソファの背もたれ側にする（カメラからは顔が見えない）"}
+```
+
+**来源：** [@あーる@AI Artgrapher](https://x.com/REd8358/status/2088053366996062484) | 2026-08-14
+
+---
+

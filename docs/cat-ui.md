@@ -12498,3 +12498,178 @@ Constraints: Use exactly one main city photograph, one giant English headline, o
 
 ---
 
+### 🖥️ 例 6127：Power Suit Piano Room Portrait
+
+![Power Suit Piano Room Portrait](../images/Power%20Suit%20Piano%20Room%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic editorial portrait of {argument name="person" default="a confident young woman with warm medium-brown skin, full lips, defined brows, subtle glam makeup, and long voluminous honey-brown curly hair"} seated in a classic high-back wingback armchair upholstered in textured brown fabric with dark carved wooden arms and nailhead trim. She wears {argument name="outfit" default="a sharp black three-piece suit with tailored jacket, waistcoat, white dress shirt, slim black tie, black trousers, black socks, and polished black oxford shoes"}, with small hoop earrings and a couple of rings. Pose her relaxed but powerful: leaning back into the chair, direct eye contact with the camera, one arm resting on each armrest, legs crossed at the knee, calm serious expression. Set the scene in {argument name="room setting" default="an elegant old-money music room or private library"} with dark polished wood furniture, warm brown tones, a patterned Persian-style rug, and a glossy black grand piano behind her with visible white keys and subtle gold lettering. Include a small round dark wooden side table to the right holding a decorative gold-toned bowl. Use warm cinematic indoor lighting, shallow depth of field, rich shadows, refined luxury atmosphere, high-end magazine photography, natural skin texture, detailed fabric and wood grain, vertical composition, 2:3 aspect ratio. Avoid extra people, visible logos, text overlays, distorted hands, or exaggerated facial features.
+```
+
+**来源：** [@Claire⁷](https://x.com/claire44/status/2088392676303405205) | 2026-08-14
+
+---
+
+### 🖥️ 例 6143：Wet Transparent Earbud Macro
+
+![Wet Transparent Earbud Macro](../images/Wet%20Transparent%20Earbud%20Macro.jpg)
+
+**Prompt:**
+
+```text
+Create a hyper-realistic macro product photograph of a single futuristic transparent earbud, centered vertically against a soft light gray studio background. The earbud has a glossy black inner body with a clear acrylic outer shell wrapping around it, shaped like a long rounded stem attached to an oval earbud head. Include one white silicone ear tip behind the head, slightly out of focus and angled to the right, and one rounded white outer disk behind the black oval face. Add two small perforated silver speaker-grille plates: one near the upper-left area of the head and one near the bottom of the stem. Add exactly one bright red circular button on the upper-right side of the black face. Cover the entire object with many realistic water droplets of varied sizes, including beads on the clear casing, black face, and white silicone parts. Lighting should be cool, diffused, and high-contrast enough to show reflections, refraction through the transparent plastic, fine ridges along the clear shell, and tiny droplets. Use shallow depth of field, premium tech product advertising style, sharp focus on the front earbud surface, no text, no logo, no hands, no extra objects.
+```
+
+**来源：** [@Athrix ☄️](https://x.com/athrix_codes/status/2088244757797687413) | 2026-08-14
+
+---
+
+### 🖥️ 例 6144：Quiet Hamster Manga Page
+
+![Quiet Hamster Manga Page](../images/Quiet%20Hamster%20Manga%20Page.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a grayscale Japanese manga page about {argument name="character name" default="Hamster who suddenly came back"}, featuring a quiet traditional room, a tiny hamster, and a beautiful long-haired man in a kimono gently trying to coax it.
+
+Canvas: Vertical manga page, portrait orientation, clean white margins, black panel borders, delicate pencil-and-ink shading, soft screentone gradients, high-detail shoujo manga style. Add a small handwritten-style Japanese title at the top left reading 「ひっくりかえったハムスター」 and a page number at the top right reading 「1/6」. Add a small footer centered at the bottom reading 「はむwithOpus4.6」.
+
+Layout: Use exactly 5 panels arranged from top to bottom. Panel 1 is a wide establishing panel across the top, showing a traditional Japanese veranda and garden. Panel 2 row has two side-by-side panels: left wider panel with the man seen from behind sitting on the veranda facing the hamster; right narrower panel with a closer view of the man by the sliding door. Panel 3 is a wide horizontal close-up panel of the man speaking softly. Panel 4 is a final wide, low horizontal panel showing the hamster rolling over.
+
+Panel details: Panel 1: an empty tatami-and-wood Japanese room opening onto a sunlit garden with hydrangeas, leafy trees, a bamboo fence, and a stone lantern. On the right, an open shoji doorway reveals shelves with books and stacked items inside. On the wooden veranda near the right side sits a small round hamster. Above it place a vertical ellipsis 「・・・・・・」. Dappled sunlight and leaf shadows fall across the floor.
+
+Panel 2 left: the long-haired man sits with his back to the viewer on the veranda, wearing a loose dark haori over a pale kimono. He has very long pale hair braided down his back. The tiny hamster faces him from several feet away. The garden foliage fills the background. Panel 2 right: close portrait of the man standing or leaning by the shoji frame, one hand touching the sliding door. He has pale messy bangs partly covering tired, gentle eyes, a long side braid, a composed slightly melancholic expression, and elegant facial features. Add a vertical speech balloon with 「・・・・・・おや。」.
+
+Panel 3: wide close-up of the man from chest up, angled slightly left, with soft white bokeh/snowlike dots in the background. His expression is kind, calm, and mildly concerned. Use exactly 2 vertical speech balloons: left balloon text 「話したくなくても、ここにいるよ。」 and right balloon text 「・・・・・・話したくなったら、ここにいるよ。」.
+
+Panel 4: minimal pale background with floor line, showing the fluffy hamster lying on its side/back after rolling over, small motion lines near its body. It has round glossy black eyes, tiny ears, soft fur, and an adorably defeated expression. Add large vertical Japanese sound effect text 「ころん」 on the right.
+
+Subject details: The male character should look like an ethereal adult bishounen with {argument name="hair color" default="very pale blond or white"} long messy hair, a thick braid over one shoulder or down his back, slim build, and wearing {argument name="outfit" default="a white kimono with a dark haori"}. The hamster should be {argument name="hamster appearance" default="a small round fluffy white hamster with black eyes"}.
+
+Visual style: Fine monochrome manga line art, elegant shoujo proportions, delicate crosshatching, soft gray washes, detailed botanical background, peaceful atmosphere, subtle humor, readable Japanese lettering, no color.
+
+Constraints: Use exactly 5 panels, exactly 1 hamster, exactly 1 human character, exactly 5 visible text elements inside the story panels: 「・・・・・・」, 「・・・・・・おや。」, 「話したくなくても、ここにいるよ。」, 「・・・・・・話したくなったら、ここにいるよ。」, and 「ころん」. Do not add extra characters, extra animals, modern objects, watermarks, or English dialogue.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088239378854502588) | 2026-08-14
+
+---
+
+### 🖥️ 例 6148：Monochrome Summer Hamster Manga Page
+
+![Monochrome Summer Hamster Manga Page](../images/Monochrome%20Summer%20Hamster%20Manga%20Page.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a monochrome manga page titled {argument name="manga title" default="谷戸の夏休み〜八月一日（土）〜"}, page indicator “1/5”, adapting a quiet summer-vacation short story into a detailed Japanese comic page.
+
+Canvas: Vertical manga manuscript page, black-and-white ink with grayscale screentone, clean white margins, thin black outer border around each panel, reading as a polished printed manga page. Top margin shows the title at upper left and “1/5” at upper right. Bottom center credit reads “はむ（台本：Opus5）”.
+
+Layout: Use exactly 4 panels arranged in three tiers: Panel 1 is a wide full-width establishing shot across the top; Panel 2 is a wide full-width panel across the middle; Panels 3 and 4 are two equal vertical panels side by side on the bottom row.
+
+Main character: A small fluffy hamster-like creature named {argument name="character name" default="はむ"}, round body, soft fur, tiny feet, black bead eyes, wearing a broad straw hat with a dark ribbon, carrying a small vintage travel suitcase. The character appears exactly 3 times: once in Panel 1 sitting at a railroad crossing, once in Panel 2 climbing steps, and once in Panel 3 seen from behind in a wooded path. Panel 4 contains no character, only the empty path.
+
+Panel details:
+1. Top panel: A coastal railway crossing at Kamakura/Koshigoe in midsummer, with crossing gates, signal lights, wooden posts, station sign, rails, and the bright ocean beyond. A large cumulus cloud floats over the sparkling sea; distant coastline visible. The hamster sits near the foreground facing the sea, suitcase beside it. Include two vertical caption boxes: right box says “八月一日（土）はれ”; left box says “江ノ電を降りると、線路の向こうに海が光っていた”.
+2. Middle panel: The hamster walks up a stone stairway bordered by hydrangeas and dense summer greenery, handrail on the left, old houses and a narrow lane visible at the top of the stairs. Include one vertical caption box on the right saying “改札を出て、潮の匂いのする坂をのぼる”.
+3. Bottom-left panel: A shaded old stone path leading toward a tiled-roof gate or small temple entrance deep in a quiet valley, dappled sunlight through trees. The hamster stands in the foreground from behind holding the suitcase and looking ahead. Include one vertical caption box on the left saying “蝉の声が一段深くなる。谷戸の奥。お屋敷はそこにある”. Include one rounded thought bubble near the hamster saying “門のところに……誰か、立っている？”.
+4. Bottom-right panel: A narrow, empty, darker cut-through path with steep stone walls and thick foliage on both sides, strong shadow and bright opening in the distance. Include one vertical caption box on the right saying “途中から人気がなくなって、切通しの暗がりを抜ける”. Add small sound-effect text in the foliage reading “ジイ……ジイ……”.
+
+Visual style: Highly detailed hand-drawn manga linework, realistic backgrounds with nostalgic Showa-era atmosphere, cinematic perspective, delicate hatching, screentone shading, high contrast summer sunlight, quiet mysterious mood, no color. The page should feel like a gentle literary slice-of-life mystery set in Kamakura during summer.
+
+Constraints: Preserve all visible Japanese text exactly as written. Do not add extra panels, characters, speech balloons, modern UI elements, watermarks, or color. Keep the page readable as Japanese manga with vertical caption boxes.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088188259000259033) | 2026-08-14
+
+---
+
+### 🖥️ 例 6158：High-Speed Fruit Splash Photography
+
+![High-Speed Fruit Splash Photography](../images/High-Speed%20Fruit%20Splash%20Photography.jpg)
+
+**Prompt:**
+
+```text
+A high-speed action photograph of [NUMBER] thick {argument name="fruit" default="[FRUIT]"} slices/pieces crashing into {argument name="liquid" default="[LIQUID]"}, creating a dramatic, dynamic splash with [SPLASH DETAILS] frozen in mid-air. The [FRUIT] shows its natural texture, [DISTINCTIVE DETAILS], and a light coating of the liquid. Bright studio lighting highlights the glossy liquid and fresh fruit, with soft shadows for depth, against a clean {argument name="background color" default="[BACKGROUND COLOR]"} seamless background. Ultra-realistic, crisp, vibrant, high detail, and dynamic composition.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2088167650698666185) | 2026-08-14
+
+---
+
+### 🖥️ 例 6161：Classic Impressionist Oil Portrait
+
+![Classic Impressionist Oil Portrait](../images/Classic%20Impressionist%20Oil%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+An exquisite oil painting portrait of an elegant woman featuring visible, textured brushstrokes that give the artwork a classic, classical-impressionist feel. She wears a wide-brimmed {argument name="hat color" default="deep blue"} hat adorned with textured floral elements and ribbon details, paired with a matching rich blue lace-patterned dress. Her dark hair frames a soft, gentle face with expressive dark eyes, subtle blush, and a delicate smile, while small hoop earrings catch the light. The background is a neutral, textured off-white wall with soft lighting that accentuates the depth and dimensionality of the subject.
+```
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2088167372192612396) | 2026-08-14
+
+---
+
+### 🖥️ 例 6163：Outdoor Park Guitar Portrait
+
+![Outdoor Park Guitar Portrait](../images/Outdoor%20Park%20Guitar%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A candid outdoor lifestyle portrait of a young woman sitting on the edge of a grassy park walkway, holding an acoustic guitar across her lap and smiling warmly at the camera. She has long, straight light-brown hair, natural makeup, and a relaxed cheerful expression. She wears a delicate cream short-sleeve textured top, high-waisted brown wide-leg pants, a simple necklace, and white casual sandals.
+The camera looks down from a slightly elevated angle, capturing her full seated pose, the acoustic guitar, and the surrounding environment. Lush green grass with tiny white wildflowers surrounds her, with large natural rocks along the upper left and a blue-gray paved brick walkway running beside her. A smartphone rests casually on her lap. Soft natural daylight, fresh outdoor atmosphere, realistic photography, warm natural tones, gentle shadows, subtle depth of field, candid smartphone photo aesthetic, high detail, vertical composition, 4:5 aspect ratio.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2088166780057628889) | 2026-08-14
+
+---
+
+### 🖥️ 例 6164：Fashion Editorial Magazine Poster
+
+![Fashion Editorial Magazine Poster](../images/Fashion%20Editorial%20Magazine%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium contemporary fashion editorial poster using the uploaded subject as the main character. Preserve the subject's identity, facial structure, natural skin tone, hairstyle, hair color, body proportions, and recognizable appearance accurately.\n\nThe BACKGROUND must be generated automatically based on the overall creative direction. Do not require the user to define the background. Automatically create a sophisticated environment, studio setting, architectural space, abstract backdrop, or atmospheric scene that best complements the subject, wardrobe, pose, and editorial concept. The background should feel intentional, premium, realistic, and visually cohesive.\n\nThe subject must follow the user-defined {argument name="pose" default="POSE"} naturally and convincingly. Automatically generate the wardrobe, accessories, makeup, hair styling, lighting, color palette, camera angle, composition, and overall art direction to suit the generated concept. These elements should not require user input.\n\nUse the user-defined {argument name="headline text" default="TEXT"} as the primary oversized editorial typography. Integrate it directly into the composition like a professional fashion magazine cover. The typography should be bold, modern, clean, and large-scale, with intentional spacing and layering. The subject may overlap or partially obscure the typography where appropriate to create depth. Ensure the text is correctly spelled and clearly readable.\n\nDo not add random promotional copy, prices, dates, sale information, product lists, fake brands, logos, watermarks, or unnecessary small text. Only add minimal secondary typography if specifically required by the visual concept.\n\nCreate a high-end fashion editorial aesthetic with cinematic realism, realistic skin texture, natural anatomy, authentic fabric materials, sophisticated lighting, subtle film grain, controlled contrast, premium color grading, and strong visual hierarchy. Avoid generic AI aesthetics, plastic skin, excessive beauty retouching, distorted anatomy, extra fingers, duplicated limbs, warped clothing, messy typography, or visual clutter.\n\nThe final composition should feel like a professionally art-directed contemporary fashion magazine/editorial campaign. The subject is the focal point, the user-defined {argument name="headline text" default="TEXT"} is the dominant graphic element, and everything else—including the background—is generated automatically to support the concept.
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2088165650124648509) | 2026-08-14
+
+---
+
+### 🖥️ 例 6166：Woman Listening to Music by Window
+
+![Woman Listening to Music by Window](../images/Woman%20Listening%20to%20Music%20by%20Window.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic vertical portrait photo of an adult East Asian woman, {argument name="character name" default="ANRI"}, sitting quietly beside a tall wooden window in a softly lit room, seriously listening to music for inspiration. She has shoulder-length wavy {argument name="hair color" default="warm ash-brown hair"} with loose volume and natural flyaway strands, fair skin, soft makeup, red-tinted lips, and a calm introspective expression as she looks downward at the phone in her hand. She wears a fitted ribbed knit short-sleeve dress in {argument name="dress color" default="taupe beige"} with a deep V neckline and a body-hugging silhouette, seated with one leg angled forward and one hand resting on her thigh. Include exactly two key props: one silver smartphone with three rear camera lenses held in her right hand, and one small white wireless earbud clearly visible in her right ear. The setting is minimal and intimate: beige plaster wall on the left, dark polished wooden window frame on the right, warm sunlight entering from the window and creating bright highlights on her hair, shoulder, chest, arm, and thigh. Use natural window light, soft shadows, shallow depth of field, realistic skin texture, cinematic warm tones, high-detail fashion portrait photography, 3:2 vertical composition, no text, no logos, no watermark, no extra people.
+```
+
+**来源：** [@vevrier90333](https://x.com/vevrier9033833/status/2088151849438470236) | 2026-08-14
+
+---
+
+### 🖥️ 例 6186：Natural Light Portrait Template
+
+![Natural Light Portrait Template](../images/Natural%20Light%20Portrait%20Template.jpg)
+
+**Prompt:**
+
+```text
+{argument name="アスペクト比" default="9:16"}の画角。{argument name="年齢" default="20代前半"}の日本人女性。{argument name="体型" default="ぽっちゃりとした"}体型。色白の丸顔。可愛い笑顔。容姿は生成ごとに大きく変える。ポートレートとして撮影。ポーズと構図は撮影場所は生成ごとにランダムで生成。自然光で撮影したような、柔らかく透明感のある光。強い人工照明や硬い影はない。
+```
+
+**来源：** [@陽仙堂](https://x.com/yosendou/status/2088098283466141951) | 2026-08-14
+
+---
+
