@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (452)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (462)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -897,6 +897,26 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 6166: Woman Listening to Music by Window](cat-ui.md#️-例-6166woman-listening-to-music-by-window)
 
 - [Case 6186: Natural Light Portrait Template](cat-ui.md#️-例-6186natural-light-portrait-template)
+
+- [Case 6206: Dax Cinematic Character Bible Sheet](cat-ui.md#️-例-6206dax-cinematic-character-bible-sheet)
+
+- [Case 6207: Vintage Watercolor City Poster](cat-ui.md#️-例-6207vintage-watercolor-city-poster)
+
+- [Case 6211: AI Image Realism Comparison](cat-ui.md#️-例-6211ai-image-realism-comparison)
+
+- [Case 6213: Monochrome Summer Manga Walk](cat-ui.md#️-例-6213monochrome-summer-manga-walk)
+
+- [Case 6225: Luxury Skincare Fashion Editorial Poster](cat-ui.md#️-例-6225luxury-skincare-fashion-editorial-poster)
+
+- [Case 6236: Romantic Cafe Lifestyle Photo](cat-ui.md#️-例-6236romantic-cafe-lifestyle-photo)
+
+- [Case 6237: Golden Hour Studio Portrait](cat-ui.md#️-例-6237golden-hour-studio-portrait)
+
+- [Case 6239: High Angle Quiet Luxury Portrait](cat-ui.md#️-例-6239high-angle-quiet-luxury-portrait)
+
+- [Case 6248: Vogue Style Editorial Magazine Cover](cat-ui.md#️-例-6248vogue-style-editorial-magazine-cover)
+
+- [Case 6249: Anime Fan Club Member Card](cat-ui.md#️-例-6249anime-fan-club-member-card)
 ---
 
 <a id="chart"></a>
@@ -1085,7 +1105,7 @@ Infographics, flowcharts, knowledge graphs, technical diagrams, data visualizati
 
 <a id="poster"></a>
 
-## 🎴 [Posters & Cards](cat-poster.md) (814)
+## 🎴 [Posters & Cards](cat-poster.md) (817)
 
 Movie posters, event posters, tarot cards, trading cards, newspaper headlines, quote cards, magazine covers.
 
@@ -2677,11 +2697,17 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 - [Case 6091: Urban Fashion Advertising Poster](cat-poster.md#-例-6091urban-fashion-advertising-poster)
 
 - [Case 6188: CAVN GPT Image 2 Launch Poster](cat-poster.md#-例-6188cavn-gpt-image-2-launch-poster)
+
+- [Case 6233: Luxury Desert Air Conditioner Advertisement](cat-poster.md#-例-6233luxury-desert-air-conditioner-advertisement)
+
+- [Case 6235: Smartphone Livestream Peacock Poster](cat-poster.md#-例-6235smartphone-livestream-peacock-poster)
+
+- [Case 6253: Retro Geometric Future Culture Poster](cat-poster.md#-例-6253retro-geometric-future-culture-poster)
 ---
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2324)
+## 📷 [Photography & Realistic](cat-photo.md) (2325)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -7263,11 +7289,13 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 6003: Night Train Snapshot](cat-photo.md#-例-6003night-train-snapshot)
 
 - [Case 6021: Flower Bouquet and Bicep Flex](cat-photo.md#-例-6021flower-bouquet-and-bicep-flex)
+
+- [Case 6216: Dreamy Japanese Movie Portrait](cat-photo.md#-例-6216dreamy-japanese-movie-portrait)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (796)
+## 🎨 [Illustration & Art](cat-illustration.md) (829)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -8845,6 +8873,72 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 6185: Miniature Woman Coffee Commercial](cat-illustration.md#-例-6185miniature-woman-coffee-commercial)
 
 - [Case 6187: Serene Mid-Autumn Lantern Poster](cat-illustration.md#-例-6187serene-mid-autumn-lantern-poster)
+
+- [Case 6193: Multi-Style Cat Lifeguard Prompts](cat-illustration.md#-例-6193multi-style-cat-lifeguard-prompts)
+
+- [Case 6195: Realistic Black and White Male Portrait](cat-illustration.md#-例-6195realistic-black-and-white-male-portrait)
+
+- [Case 6196: High Fidelity Identity Portrait](cat-illustration.md#-例-6196high-fidelity-identity-portrait)
+
+- [Case 6199: Egyptian Moon Priestess Ritual](cat-illustration.md#-例-6199egyptian-moon-priestess-ritual)
+
+- [Case 6200: Egyptian Black Cat Goddess](cat-illustration.md#-例-6200egyptian-black-cat-goddess)
+
+- [Case 6201: Marsh Shaman Demigod](cat-illustration.md#-例-6201marsh-shaman-demigod)
+
+- [Case 6202: Midsummer Forest Ritual](cat-illustration.md#-例-6202midsummer-forest-ritual)
+
+- [Case 6204: Indian Woman Golden Hour Story Triptych](cat-illustration.md#-例-6204indian-woman-golden-hour-story-triptych)
+
+- [Case 6209: High-End Fashion Editorial Portrait](cat-illustration.md#-例-6209high-end-fashion-editorial-portrait)
+
+- [Case 6210: Three Anime Schoolgirls Walking](cat-illustration.md#-例-6210three-anime-schoolgirls-walking)
+
+- [Case 6218: Watercolor Cherry Blossom Anime Scene](cat-illustration.md#-例-6218watercolor-cherry-blossom-anime-scene)
+
+- [Case 6219: Realistic Unaju Grilled Eel Box](cat-illustration.md#-例-6219realistic-unaju-grilled-eel-box)
+
+- [Case 6220: Natural Face Realism Modifier](cat-illustration.md#-例-6220natural-face-realism-modifier)
+
+- [Case 6222: Sad Germany Football Cat](cat-illustration.md#-例-6222sad-germany-football-cat)
+
+- [Case 6223: Street Photography Reaction Set](cat-illustration.md#-例-6223street-photography-reaction-set)
+
+- [Case 6227: Overhead Pepperoni Pizza Photo](cat-illustration.md#-例-6227overhead-pepperoni-pizza-photo)
+
+- [Case 6228: Fashion Studio Portrait with Blue Rim Lighting](cat-illustration.md#-例-6228fashion-studio-portrait-with-blue-rim-lighting)
+
+- [Case 6229: Greyscale Puzzle Portrait with Color Accent](cat-illustration.md#-例-6229greyscale-puzzle-portrait-with-color-accent)
+
+- [Case 6230: Authentic Candid East Asian Portrait](cat-illustration.md#-例-6230authentic-candid-east-asian-portrait)
+
+- [Case 6231: Cinematic Film-Noir Male Portrait](cat-illustration.md#-例-6231cinematic-film-noir-male-portrait)
+
+- [Case 6232: Multi-Pose Wavy Dark Hair Portrait](cat-illustration.md#-例-6232multi-pose-wavy-dark-hair-portrait)
+
+- [Case 6238: Candid East Asian Street Photography](cat-illustration.md#-例-6238candid-east-asian-street-photography)
+
+- [Case 6240: Miniature Man on Car Dashboard](cat-illustration.md#-例-6240miniature-man-on-car-dashboard)
+
+- [Case 6243: Surreal Fantasy Floating Window Portrait](cat-illustration.md#-例-6243surreal-fantasy-floating-window-portrait)
+
+- [Case 6244: Playful Cafe Candid Portrait](cat-illustration.md#-例-6244playful-cafe-candid-portrait)
+
+- [Case 6245: Realistic Elevator Mirror Selfie](cat-illustration.md#-例-6245realistic-elevator-mirror-selfie)
+
+- [Case 6246: Holographic Sci-Fi Operations Dashboard](cat-illustration.md#-例-6246holographic-sci-fi-operations-dashboard)
+
+- [Case 6247: Low-Angle Rail Yard Fashion Portrait](cat-illustration.md#-例-6247low-angle-rail-yard-fashion-portrait)
+
+- [Case 6250: Surreal Glitch Cyber-Organic Portrait](cat-illustration.md#-例-6250surreal-glitch-cyber-organic-portrait)
+
+- [Case 6251: New Chinese Style Editorial Portrait](cat-illustration.md#-例-6251new-chinese-style-editorial-portrait)
+
+- [Case 6252: Pakistani Man with Luxury BMW](cat-illustration.md#-例-6252pakistani-man-with-luxury-bmw)
+
+- [Case 6254: Hamster Japanese Summer Card](cat-illustration.md#-例-6254hamster-japanese-summer-card)
+
+- [Case 6255: Art Nouveau Hamster Summer Vacation](cat-illustration.md#-例-6255art-nouveau-hamster-summer-vacation)
 ---
 
 <a id="character"></a>
@@ -9231,7 +9325,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (286)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (287)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -9791,11 +9885,13 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 6175: London Papercraft and Clay Diorama](cat-3d.md#-例-6175london-papercraft-and-clay-diorama)
 
 - [Case 6176: Glossy Designer Toy Floating Head](cat-3d.md#-例-6176glossy-designer-toy-floating-head)
+
+- [Case 6221: Tiny Man vs Giant Ant Scoreboard Scene](cat-3d.md#-例-6221tiny-man-vs-giant-ant-scoreboard-scene)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (164)
+## 🏛️ [Architecture & Space](cat-architecture.md) (165)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -10115,6 +10211,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 5765: Minimalist Business Exhibition Poster](cat-architecture.md#️-例-5765minimalist-business-exhibition-poster)
 
 - [Case 6154: Surreal Summer Fashion Photography](cat-architecture.md#️-例-6154surreal-summer-fashion-photography)
+
+- [Case 6224: Celestial Moonlit Palace Scene](cat-architecture.md#️-例-6224celestial-moonlit-palace-scene)
 ---
 
 <a id="comic"></a>
@@ -10565,7 +10663,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (688)
+## 🏷️ [Brand & Packaging](cat-brand.md) (704)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -11936,6 +12034,38 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 6190: Melancholy Mid-Autumn Burden Poster](cat-brand.md#️-例-6190melancholy-mid-autumn-burden-poster)
 
 - [Case 6191: Person Lying Parallel on Sofa](cat-brand.md#️-例-6191person-lying-parallel-on-sofa)
+
+- [Case 6192: Anime Cadet Night Search Scene](cat-brand.md#️-例-6192anime-cadet-night-search-scene)
+
+- [Case 6194: Rugged Desert Fashion Collage](cat-brand.md#️-例-6194rugged-desert-fashion-collage)
+
+- [Case 6197: Rats Police Fashion Editorial](cat-brand.md#️-例-6197rats-police-fashion-editorial)
+
+- [Case 6198: Spotify Miniature Car Ad Scene](cat-brand.md#️-例-6198spotify-miniature-car-ad-scene)
+
+- [Case 6203: Natural Restaurant Meal Regeneration](cat-brand.md#️-例-6203natural-restaurant-meal-regeneration)
+
+- [Case 6205: Realistic Beach Lifestyle Portrait](cat-brand.md#️-例-6205realistic-beach-lifestyle-portrait)
+
+- [Case 6208: Luxury Seafood Advertising Poster](cat-brand.md#️-例-6208luxury-seafood-advertising-poster)
+
+- [Case 6212: Comic Photographer Portal Action Scene](cat-brand.md#️-例-6212comic-photographer-portal-action-scene)
+
+- [Case 6214: Cleaning Product Commerical with Doodle Art](cat-brand.md#️-例-6214cleaning-product-commerical-with-doodle-art)
+
+- [Case 6215: Android Quantum Lab Workstation](cat-brand.md#️-例-6215android-quantum-lab-workstation)
+
+- [Case 6217: The Painter Who Finished the Sky](cat-brand.md#️-例-6217the-painter-who-finished-the-sky)
+
+- [Case 6226: Vintage Paper Collage Travel Poster](cat-brand.md#️-例-6226vintage-paper-collage-travel-poster)
+
+- [Case 6234: Crispy Chicken Burger Product Photo](cat-brand.md#️-例-6234crispy-chicken-burger-product-photo)
+
+- [Case 6241: Cinematic Urban Elevator Portrait](cat-brand.md#️-例-6241cinematic-urban-elevator-portrait)
+
+- [Case 6242: Spring Editorial Fashion Collage](cat-brand.md#️-例-6242spring-editorial-fashion-collage)
+
+- [Case 6256: Anime Cyclists at Forest Waterfall](cat-brand.md#️-例-6256anime-cyclists-at-forest-waterfall)
 ---
 
 <a id="edit"></a>

@@ -12673,3 +12673,220 @@ Create a realistic vertical portrait photo of an adult East Asian woman, {argume
 
 ---
 
+### 🖥️ 例 6206：Dax Cinematic Character Bible Sheet
+
+![Dax Cinematic Character Bible Sheet](../images/Dax%20Cinematic%20Character%20Bible%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic character bible sheet for {argument name="character name" default="DAX"}. Use uploaded character sheet as strict visual reference. Do not change his appearance.\n\nLEFT SIDE: Massive bold brushstroke text {argument name="character name" default="DAX"} top left, {argument name="accent color" default="deep blue"}. Small text: THE RIDER / NUMBER 7.
+```
+
+**来源：** [@TechieSA](https://x.com/TechieBySA/status/2088672317136089428) | 2026-08-15
+
+---
+
+### 🖥️ 例 6207：Vintage Watercolor City Poster
+
+![Vintage Watercolor City Poster](../images/Vintage%20Watercolor%20City%20Poster.jpg)
+
+**Prompt:**
+
+```text
+@Create image {argument name="city" default="CITY"} — uppercase English city name
+{argument name="subject" default="one hero landmark as the highest point, one secondary structure a step lower, a mid-rise or terrain band beneath, a closing mass of trees or water at the bottom"} — overlapping into ONE silhouette, real geography ignored, everything below it dissolving into bare paper
+{argument name="palette" default="MAIN (dark) / ACCENT (saturated) / SUB1 / SUB2 (muted)"} — Four colors only
+{CAPTION} — 3–5 word English line, offhand, never explanatory
+
+---
+
+[ASPECT RATIO]
+
+Vertical 3:4
+
+[SUBJECT]
+
+{SUBJECT}
+
+[STYLE]
+
+Watercolor materiality first: wet-on-wet blooms, dark hard edges where a wash dried, density shifting within a single stroke as the water load changes. Pigment pools at the lower edge of each form; dry-brush passages split and let the cold-press tooth show through.
+
+A thick brush pen lays the main contours first — about 40 strokes, no hatching.
+
+Washes cross those lines 1–3 mm off register; color never doubles as the outline.
+
+Coverage 60 percent — the untouched paper is the brightest value in the image.
+
+Windows are short repeated strokes at uneven intervals, never drawn individually.
+
+Form comes from flat washes and line, never from modeling.
+
+[COLOR]
+
+Four only: {PALETTE}.
+
+Cream off-white paper ground, every color one step down in saturation for a vintage print tone.
+
+Accent covers 8 percent of the frame at most.
+
+[COMPOSITION]
+
+Subject mass in the lower two thirds with clear margins left and right; upper third is unpainted paper for the lettering.
+
+The tallest spire may pierce slightly into it.
+
+Sky and ground stay bare paper.
+
+[TYPOGRAPHY]
+
+Top: "{CITY}" in oversized heavy brush lettering, all caps, spanning nearly the full width, wide letter spacing, dry grain streaking white through the strokes, ends splitting. MAIN color.
+
+Bottom right: "{CAPTION}" small handwritten script, ACCENT color.
+
+Signage is abstract blocks of color — no other legible text.
+
+[NEGATIVE]
+
+photorealistic, 3D, airbrush, gradient shading, cast shadows, reflections, logos, watermarks, border frames, painted sky, gibberish lettering, evenly saturated full coverage, mechanical window grids, thin typography, serif or script display fonts, Aspect ratio 4:5.
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2088669387163369531) | 2026-08-15
+
+---
+
+### 🖥️ 例 6211：AI Image Realism Comparison
+
+![AI Image Realism Comparison](../images/AI%20Image%20Realism%20Comparison.jpg)
+
+**Prompt:**
+
+```text
+Create a side-by-side comparison graphic on a white background showing two AI image results from the same prompt. Canvas: landscape aspect ratio, approximately 580×420 px, clean white margins. Layout: two equal vertical image panels aligned horizontally with a narrow white gutter between them; each panel has a black sans-serif heading centered above it. Use exactly 2 headings: left heading “ChatGPT Image 2”, right heading “Grok Imagine 2.0”. Left panel: a highly realistic warm-toned portrait photo of an elderly East Asian woodcarver in a cluttered traditional workshop, gray hair tied back, long white beard and mustache, weathered face with fine wrinkles, wearing dark work clothes, holding a detailed carved wooden statue close to his chest with both hands, soft window light from the left, shelves and tools blurred in the background, dusty particles in the air, documentary realism. Right panel: a more cinematic but less natural portrait of an elderly East Asian craftsman seated at a workbench in a woodworking studio, balding gray hair, deeply wrinkled face, dark shirt, carving a small wooden figure with hand tools, strong dramatic sunlight from a window, many chisels and woodworking tools standing upright behind him, wood shavings scattered across the table, high contrast shadows, slightly artificial glossy look. Include exactly 1 small blue circular overlay icon near the center-left of the right panel, with a simple white symbol inside, resembling an interface marker. Overall style: realistic photographic comparison, left image more natural and detailed, right image more stylized and dramatic. No extra captions, no watermarks beyond the single blue overlay icon, no borders except the white page background.
+```
+
+**来源：** [@Aaron Cheng](https://x.com/aaroncbuilder/status/2088639889382559837) | 2026-08-15
+
+---
+
+### 🖥️ 例 6213：Monochrome Summer Manga Walk
+
+![Monochrome Summer Manga Walk](../images/Monochrome%20Summer%20Manga%20Walk.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a black-and-white manga page titled {argument name="series title" default="谷戸の夏休み　八月九日"}, page indicator 1/6, showing a quiet summer walk to the sea by a slim young man and an oversized hamster companion.
+
+Canvas: Vertical manga page, clean white margins, monochrome screentone and ink wash, detailed shoujo/seinen background art, high contrast summer sunlight, fine hatching, realistic architecture and foliage. Place a small footer centered at the bottom: 「はむ（台本：Opus5）」.
+
+Layout: Use exactly 5 comic panels arranged as follows: 1 large panoramic top panel spanning the page width; 3 equal vertical panels across the middle row; 1 large panoramic bottom panel spanning the page width. Thin black panel borders and generous gutters.
+
+Characters: The main character is {argument name="main character" default="a tall slim young man with slightly messy dark hair"}, seen mostly from behind, wearing a white long-sleeve shirt with rolled sleeves, a fitted black vest, black trousers, and dark dress shoes. His posture is calm and slightly aloof, walking with hands relaxed or in pockets. The companion is {argument name="animal companion" default="a very large fluffy hamster"}, round-bodied and knee-high to the man, wearing a small straw boater hat tied with a dark ribbon; it follows him everywhere and looks up at him in the final panel.
+
+Panel details: Panel 1, wide top: the man walks away through an old tiled-roof wooden gate on a stone path, surrounded by dense summer greenery and stone walls; the hamster trails behind. Add two vertical narration boxes: left box 「崖と海まで歩いた」 and right box 「八月九日（日）はれのち風」. Panel 2, middle left: close low view of the man’s legs and shoes walking ahead on a sunlit gravel path, with the hamster behind in the foreground; add small sound text 「じり…」. Panel 3, middle center: the pair walk along a narrow railway crossing or seaside town pedestrian path, with crossing signals, utility poles, tracks, and crates; add sound text 「カンカン」. Panel 4, middle right: the pair walk down a leafy lane under bright dappled sunlight; add cicada sound text 「ジイジイ」. Panel 5, wide bottom: open beach scene with sparkling ocean horizon, bright sky, clouds, and strong sun rays at the upper left; the man stands near the shoreline facing the sea, while the oversized hamster fills the right foreground looking up at him. Add one speech balloon from the hamster or near the hamster reading {argument name="speech balloon text" default="ねえ、砂って不思議だと思わない？"}.
+
+Visual style: Nostalgic Japanese summer vacation manga, cinematic quiet pacing, extremely detailed hand-drawn backgrounds, realistic light through trees, shimmering sea, subtle screentones, no color. Keep all visible Japanese text hand-lettered vertically where appropriate. Avoid extra panels, extra characters, watermarks, or modern UI elements.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088633690612264974) | 2026-08-15
+
+---
+
+### 🖥️ 例 6225：Luxury Skincare Fashion Editorial Poster
+
+![Luxury Skincare Fashion Editorial Poster](../images/Luxury%20Skincare%20Fashion%20Editorial%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium high-fashion skincare editorial poster using {argument name="subject" default="SUBJECT"} as the main model. Preserve the subject's identity, facial structure, natural features, hairstyle, hair color, body proportions, and recognizable appearance accurately. The model should have exceptionally fair, luminous, healthy-looking skin with a natural dewy glow, including the face, neck, arms, and visible shoulder. Skin must remain realistic with visible natural texture and subtle pores — no plastic skin, excessive retouching, or artificial whitening. Place the subject in {argument name="pose" default="POSE"} while naturally holding {argument name="product" default="BOTTLE_IN_HAND"}. Preserve the bottle's exact shape, proportions, cap, material, color, label placement, and recognizable product appearance. The bottle should remain clearly visible and naturally integrated into the composition. Dress the subject in a minimal, sophisticated black outfit with clean fashion-editorial styling. Keep the clothing secondary to the face and product. Create a refined luxury beauty-campaign aesthetic: warm neutral studio background, soft directional diffused lighting, subtle highlights across the cheekbones and shoulder, controlled shadows, realistic skin reflections, elegant contrast, premium commercial photography, sophisticated composition, understated sensuality, and high-end magazine styling. Use {argument name="headline" default="HEADER"} as the main editorial headline. The header should feel catchy, sophisticated, and fashion-forward, with elegant high-contrast serif typography. Automatically generate tasteful supporting editorial typography around the composition only when appropriate, keeping it minimal and avoiding clutter. Do not use a brand name as the main header unless HEADER explicitly contains one. Composition should feel like a real luxury skincare magazine campaign photographed by a professional beauty photographer. Close-up portrait framing, realistic depth of field, refined tonal grading, subtle film texture, premium print-editorial finish, photorealistic detail, natural hands and fingers, accurate product geometry, and intentional negative space. Do not add watermarks, corner brackets, website names, AI labels, creator credits, or unrelated text. Do not change the user's defined SUBJECT, HEADER, POSE, or BOTTLE_IN_HAND.
+```
+
+**来源：** [@Maercih](https://x.com/Maercihh/status/2088577912861762049) | 2026-08-15
+
+---
+
+### 🖥️ 例 6236：Romantic Cafe Lifestyle Photo
+
+![Romantic Cafe Lifestyle Photo](../images/Romantic%20Cafe%20Lifestyle%20Photo.jpg)
+
+**Prompt:**
+
+```text
+A high-end, cinematic lifestyle photograph of a {argument name="subject" default="graceful young woman with long, dark wavy hair"} walking gracefully in front of a {argument name="location" default="charming European-style café and flower shop"}. Subject & Attire Appearance: Elegant woman with a gentle smile, soft glowing makeup, wearing a delicate necklace and a hair bow. Outfit: A {argument name="dress" default="romantic pink floral midi dress featuring a square neckline, smocked bodice, and sheer puff sleeves with ruffled cuffs"}. Accessories: Holding a chic white top-handle handbag in one hand, and a bouquet of fresh pink tulips alongside a book in the other. Setting & Environment Location: A cobblestone sidewalk outside an artisanal café with a dark frame glass storefront, bistro seating, and a chalkboard sign reading "Fresh Flowers". Background Details: Abundant displays of fresh flowers (white hydrangeas, pink roses, and assorted blooms) in pots and market stands, creating a vibrant, spring-like atmosphere. Composition & Lighting Lighting: Bright, natural daylight with a soft warm glow, creating gentle shadows and highlighting the texture of the dress fabric. Camera Settings: Shot on a DSLR with an 85mm lens, f/1.8 aperture for a shallow depth of field, keeping the subject sharp with a beautifully blurred, dreamy background.
+```
+
+**来源：** [@yusra.](https://x.com/chatgptpaglu/status/2088517726142660898) | 2026-08-15
+
+---
+
+### 🖥️ 例 6237：Golden Hour Studio Portrait
+
+![Golden Hour Studio Portrait](../images/Golden%20Hour%20Studio%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Cinematic studio portrait of a {argument name="subject" default="young East Asian woman"} with luminous warm-toned skin, {argument name="hair style" default="voluminous wavy dark hair"}, and understated bronze makeup, gazing calmly toward the camera in a refined three-quarter pose. Wrapped in a {argument name="outfit" default="glossy copper jacket"} slipping from one shoulder, she is lit by soft golden highlights against a deep, blurred background for an elegant, editorial finish.
+```
+
+**来源：** [@Elisia](https://x.com/AiwithElisia/status/2088497296229163191) | 2026-08-15
+
+---
+
+### 🖥️ 例 6239：High Angle Quiet Luxury Portrait
+
+![High Angle Quiet Luxury Portrait](../images/High%20Angle%20Quiet%20Luxury%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the {argument name="identity reference" default="uploaded photo"} as the only identity reference. Preserve her exact face, features, skin tone, age, hair color/length, proportions, and natural texture, no beautifying or reshaping. Create an ultra-realistic {argument name="clothing style" default="European preppy, quiet-luxury street-style"} portrait, shot from a strong high-angle top-down perspective. She looks upward with eyes closed and a soft playful pout, relaxed posture, hands near trouser pockets. Style her in a {argument name="outfit" default="light blue-and-white striped oversized shirt with white collar, navy sweater tied over the shoulders, pale/light-wash trousers or jeans, and sculptural gold hoop earrings"}. Keep her original hair, styled into a loose messy updo with natural face-framing strands. Place her on a clean gray stone sidewalk/terrace with a dark metal railing. Use soft natural daylight, realistic shadows, authentic skin pores, natural fabric texture, muted cool tones, and premium candid fashion photography. No facial distortion, plastic skin, excessive makeup, AI look, or identity changes.
+```
+
+**来源：** [@Sairah](https://x.com/Sairah_0/status/2088482947682988123) | 2026-08-15
+
+---
+
+### 🖥️ 例 6248：Vogue Style Editorial Magazine Cover
+
+![Vogue Style Editorial Magazine Cover](../images/Vogue%20Style%20Editorial%20Magazine%20Cover.jpg)
+
+**Prompt:**
+
+```text
+SUBJECT: A striking young woman with {argument name="hair style" default="long glossy black hair"}, elegant features, and a confident editorial presence. Create ONE {argument name="magazine" default="premium magazine cover"}. Build one powerful editorial portrait emphasizing her confidence, sophistication, and timeless beauty. STYLE: Vogue-quality photography, cinematic beauty lighting, sophisticated {argument name="color palette" default="warm ivory, black, and muted gold"} color palette, luxury composition, flawless but natural skin texture, subtle film grain, refined styling, shallow depth of field, premium fashion photography, elegant negative space, photorealistic 8K. MAGAZINE TITLE: {argument name="title" default="VOGUE"} ISSUE DATE: AUGUST 2026 HEADLINES: The New Elegance, Beauty Without Limits, Inside Her World. Include only: Magazine title, issue date, and exactly three short headlines.
+```
+
+**来源：** [@Zephyra Leigh](https://x.com/ZephyraLeigh/status/2088449484485501309) | 2026-08-15
+
+---
+
+### 🖥️ 例 6249：Anime Fan Club Member Card
+
+![Anime Fan Club Member Card](../images/Anime%20Fan%20Club%20Member%20Card.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create an elegant anime-style official fan club membership card for a fictional idol or character, with a luxurious platinum theme and a moody blue floral atmosphere.
+
+Canvas: Horizontal rounded-corner card design, approximately 16:10 aspect ratio, full-bleed dark navy and icy blue palette. Add a thin double-line silver border around the entire card, subtle corner rounding, faint star accents, fine decorative arcs, and a premium printed-card look.
+
+Layout: Split the card into two main areas. The left half shows a detailed anime portrait; the right half contains the membership information panel. At the top right, place the title text “OFFICIAL FAN CLUB” above a large serif “MEMBER CARD”, with thin horizontal divider lines and small star ornaments. In the upper-right corner, include a diamond-shaped platinum emblem with a star inside and the word “PLATINUM” beneath it. In the middle-right, place a pale silver rectangular information plate with clipped beveled corners and a thin metallic border. At the bottom right, add a white handwritten signature-like calligraphy flourish.
+
+Subject details: The portrait is a beautiful young male anime character named {argument name="character name" default="Suzu"}, shown from the chest up, seated among blue-purple flower spikes. He has messy wavy {argument name="hair color" default="black"} hair, pale skin, cool blue eyes, and a languid, melancholic expression. He wears a dark navy school-uniform-style blazer with gold buttons and a small crest on the chest, a white shirt, and a loose striped tie. He holds a lit cigarette near his lips with slender fingers; soft smoke curls upward into the blue night air. The background is a dreamy field of lavender-like blue flowers under cool moonlight, with shallow depth of field and cinematic lighting.
+
+Text content: Use exactly 4 information rows inside the right information plate: 1) label “MEMBER NO.” with value {argument name="member number" default="00001"}; 2) label “NAME” with value {argument name="display name" default="スズ"}; 3) label “RANK” with value {argument name="membership rank" default="PLATINUM"}; 4) Japanese label “有効期限” with value “無期限”. Keep typography elegant, mostly navy serif text on the pale panel. Preserve the Japanese text exactly where specified.
+
+Visual style: High-detail Japanese anime illustration blended with premium graphic design, elegant serif typography, cool monochrome blue grading, silver foil-like linework, delicate floral engravings on the information plate, dreamy glow, crisp card UI composition, refined idol fan club merchandise aesthetic.
+
+Constraints: Keep the card readable and balanced, with no extra rows beyond the 4 listed information rows. Do not add watermarks, QR codes, barcodes, logos, or unrelated text. Maintain the platinum luxury mood and the blue flower field setting.
+```
+
+**来源：** [@ししとう](https://x.com/szpimas/status/2088438603877859477) | 2026-08-15
+
+---
+

@@ -16780,3 +16780,243 @@ Constraints: No moon illustration, no lanterns, no extra people, no modern city 
 
 ---
 
+### 🏷️ 例 6192：Anime Cadet Night Search Scene
+
+![Anime Cadet Night Search Scene](../images/Anime%20Cadet%20Night%20Search%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical anime-style cinematic illustration of {argument name="character name" default="a young female military cadet"} kneeling on a dark wooden floor inside a cramped old room at night, viewed from a high overhead angle looking down at her face and body. She has short layered {argument name="hair color" default="deep teal hair with lime-green streaks"}, bright green eyes, pale skin, and a quiet serious expression as she looks slightly upward and to the side. She wears a fitted dark green military-inspired uniform dress with gold piping, brass buttons, red-trimmed shoulder epaulettes, a high collar with a small insignia, black gloves, and structured sleeves with red cuffs. Her right hand holds one bright flashlight aimed downward, casting a warm circular glow across the floor and papers; include a second flashlight partially visible at the lower left edge as if held by someone just outside the frame. Scatter exactly 4 visible sheets of music notation on the wooden floor: 2 sheets on the left side near the wall, 1 sheet illuminated near the bottom center, and 1 partially cropped sheet at the lower left. The room should have vertical wooden wall panels, floorboards with strong perspective, a heavy red curtain on the left, and a small window in the upper right showing a dark blue starry night. Use dramatic chiaroscuro lighting, warm flashlight glow against cool moonlight rim lighting, glossy highlights on the hair and uniform, detailed linework, polished modern anime rendering, intimate mystery atmosphere, no text, no watermark, no extra characters visible except the cropped second flashlight hand/object at the edge.
+```
+
+**来源：** [@Echosphere](https://x.com/Echosphere8f/status/2088759687114330444) | 2026-08-15
+
+---
+
+### 🏷️ 例 6194：Rugged Desert Fashion Collage
+
+![Rugged Desert Fashion Collage](../images/Rugged%20Desert%20Fashion%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic fashion editorial collage featuring the {argument name="subject" default="same handsome young man"} in a {argument name="environment" default="rugged desert canyon environment"}, arranged in a premium 3-panel composition with thin elegant white dividing lines. The man has thick naturally textured dark black hair, a sharp masculine jawline, defined cheekbones, straight nose, expressive deep dark eyes, neatly trimmed beard and subtle stubble, with realistic skin texture and natural masculine features. CHANGE THE OUTFIT: He wears a {argument name="outfit" default="sophisticated dark olive-green oversized utility jacket layered over a fitted black premium T-shirt"}, tailored black cargo trousers, and sleek black high-top leather boots. Add a minimalist silver chain, luxury black wristwatch, and subtle bracelet. The outfit should look modern, masculine, expensive and effortlessly stylish. LEFT TOP PANEL: Full-body portrait of the man standing confidently on rocky desert terrain, one hand casually in his jacket pocket, looking toward the side with a calm, powerful expression. Dramatic sandstone cliffs and dry desert vegetation in the background. CENTER PANEL: Full-body cinematic walking shot, the man stepping naturally across rugged stone formations, jacket moving slightly in the desert breeze, looking away from the camera. Strong fashion-editorial posture and realistic body proportions. BOTTOM LEFT PANEL: Rear three-quarter view as he walks away, turning his head slightly toward the camera, showcasing the jacket silhouette and cargo trousers against the rocky canyon. RIGHT LARGE PANEL: Ultra-detailed close-up portrait from the chest up, looking directly into the camera with a confident, intense but natural expression. Highly detailed eyes, beard, hair strands, skin pores and fabric texture. Jacket collar and black shirt clearly visible. Warm golden-hour desert lighting, cinematic shadows, earthy brown and olive color palette, subtle film grain, shallow depth of field, realistic sunlight, volumetric atmosphere, premium luxury fashion photography, high-end magazine editorial aesthetic, photorealistic, 8K detail, HDR, natural skin tones, sophisticated color grading, realistic fabric folds, sharp focus, cinematic lens compression, no text, no logos, no watermark.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2088720354604953877) | 2026-08-15
+
+---
+
+### 🏷️ 例 6197：Rats Police Fashion Editorial
+
+![Rats Police Fashion Editorial](../images/Rats%20Police%20Fashion%20Editorial.jpg)
+
+**Prompt:**
+
+```text
+Rats in police uniforms fight against an evil giant capsule full of covid19. Create a high-fashion editorial of rats in tailored police uniforms battling a colossal, glossy black covid capsule, bold graphic composition. crisp gabardine, silver badges, sharp caps, dramatic chiaroscuro lighting, hard flash, low-angle shot, 35mm lens, shallow depth of field, cinematic red-and-blue color grade featuring in a high-fashion editorial style, under low key dramatic lighting, pure tension atmosphere, FPV drone shot. no AI-style warping sharp focus consistent identity across frames stable characters facial expression consistency no morphing hands or faces. Photorealistic photography of rats in police uniforms fighting an evil giant capsule full of covid19, captured with a 24mm wide-angle lens at f/2.8, shallow depth of field, raw documentary realism, gritty street-level scene at dusk, harsh sodium-vapor lighting casting long shadows, wet asphalt reflecting neon signs, fur texture with individual whiskers and grime, fabric weave of uniforms, condensation droplets on the capsule's metallic surface, dust particles in the air, a single rat's paw gripping a broken baton, background of blurred city chaos, filmic grain of kodak portra 400, muted teal and amber color grade featuring in a photorealistic photography style, under bruised storm sky with light shafts, gritty heavy atmosphere atmosphere, slow orbital rotation. consistent identity across frames no AI-style warping no morphing hands or faces natural skin texture with pores and creases fluid cloth simulation. Expressive artistic rendering of rats in police uniforms battling a colossal, sinister covid capsule, rendered in moody oil paint. thick, impasto brushstrokes capture scuffed navy coats and tiny brass buttons, while the capsule looms as a greasy, dark-green sphere. dim, intimate lamplight pools on wet cobblestones, casting long shadows; a single fallen helmet in the foreground adds quiet, poetic tragedy featuring in a fine art illustration style, under natural overcast daylight, intimate close personal atmosphere, tilt-shift miniature effect. hyper-detailed real physics physically accurate shadows stable characters perfect liquid physics simulation. Create a bizarre surreal image of rats in police uniforms fighting an evil giant capsule full of covid19, the capsule looming like a diseased moon over a cracked, rain-slicked city street at dusk, its surface glistening with oily, iridescent spikes and pulsing veins. the rats, armed with tiny batons and shields, stand in a disciplined phalanx on the wet asphalt, their whiskers twitching, eyes glowing with fierce determination, while a single streetlamp casts a sickly amber glow, and a faint mist curls around their paws. shot from a low, wide angle with a 35mm lens, shallow depth of field, the background blurring into a haze of neon signs and abandoned cars. lighting is dramatic, with a cold blue rim light against the warm, polluted glow, evoking a noir atmosphere. film stock: kodak vision3 500t, color grade with teal shadows and amber highlights, anamorphic flare on the capsule's eerie, pulsating light. in the foreground, a lone rat's shadow stretches impossibly long, forming the silhouette of a human hand reaching toward the capsule, a poetic twist suggesting the absurdity of the battle against an invisible, microscopic foe. the air feels thick with tension, the ground shimmering with reflections of the capsule's malevolent glow, and a faint, surreal drizzle of tiny, glowing particles falls like viral snow, each flake casting a minuscule, twisted reflection of the rats' determined faces featuring in a bizarre surreal imagery style, under chiaroscuro high-contrast, chaotic violent energy atmosphere, FPV drone shot. hyper-detailed real physics no AI-style warping no morphing hands or faces natural skin texture with pores and creases.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2088715470006288421) | 2026-08-15
+
+---
+
+### 🏷️ 例 6198：Spotify Miniature Car Ad Scene
+
+![Spotify Miniature Car Ad Scene](../images/Spotify%20Miniature%20Car%20Ad%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-photorealistic cinematic miniature advertising scene for {argument name="brand name" default="Spotify"}: a glossy black vintage convertible toy car driving on a rain-soaked miniature city street at night, with neon green branding accents. The car has exactly 3 visible brand marks: one large green circular Spotify logo on the front grille, one green Spotify icon plus the word “Spotify” on the left door, and one small green Spotify icon on the visible wheel hub. Show exactly 2 glowing round headlights, 2 visible wheels with green tire rims, chrome mirrors and bumper details, and a black leather interior. A small realistic male driver sits in the car, with short dark hair, glasses, and a trimmed beard, wearing a dark jacket and holding the steering wheel while looking forward. In the background, place one enormous out-of-focus circular green Spotify logo towering like a billboard, plus soft bokeh city lights and miniature greenery. The road should be wet and highly reflective, with green and warm gold reflections on the asphalt, shallow depth of field, macro lens perspective, dramatic low-angle composition, cinematic lighting, realistic reflections, tilt-shift miniature scale, premium commercial photography look, no extra text besides the brand word on the car.
+```
+
+**来源：** [@EZZOU AI](https://x.com/EZZOUAI/status/2088700149216231508) | 2026-08-15
+
+---
+
+### 🏷️ 例 6203：Natural Restaurant Meal Regeneration
+
+![Natural Restaurant Meal Regeneration](../images/Natural%20Restaurant%20Meal%20Regeneration.jpg)
+
+**Prompt:**
+
+```text
+Using the provided reference image as the source meal photo, regenerate it as a more natural, realistic restaurant tabletop shot taken from a slightly lower, landscape angle. Keep the same casual family-restaurant feel, wooden table, floral-rim plates, and the same meal components, but rearrange and simplify them into exactly 4 visible food/drink items: 1) a large plate of spaghetti on the right with a soft poached egg centered on top and herb flakes, 2) a white bowl of tomato-based soup on a saucer at the back left with visible beans/vegetables, 3) a white plate of sautéed spinach with bacon and garlic in the front left, and 4) a tall dark iced drink in a textured glass behind the pasta. Remove the black sauce pot, wooden serving boards, mug, and the brown rectangular spinach dish. Make the pasta strands look coherent and appetizing rather than fractal or tangled unnaturally. Use warm indoor lighting, realistic phone-camera perspective, natural shadows, and no added text or people.
+```
+
+**来源：** [@kakiraちゃん | 技術書典20【そ04】個人開発AIプロダクトのアイデア原石](https://x.com/kakira9618/status/2088685616167100748) | 2026-08-15
+
+---
+
+### 🏷️ 例 6205：Realistic Beach Lifestyle Portrait
+
+![Realistic Beach Lifestyle Portrait](../images/Realistic%20Beach%20Lifestyle%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a highly realistic lifestyle photograph of the {argument name="subject" default="same clearly adult girl from the reference image"}, preserving her exact facial identity, facial structure, proportions, skin tone, and natural facial features without altering or beautifying her face. Shot on a Canon G7 X Mark III, knee-length composition with the camera positioned around chest level. She is standing naturally at the water’s edge on a {argument name="location" default="pristine snow-white sandy beach"}, with crystal-clear turquoise water surrounding the shoreline. Behind her, tall tropical limestone cliffs rise dramatically, with several elegant white yachts and small boats visible farther out on the water. Keep the entire background sharp, detailed, and naturally in focus — no artificial background blur or bokeh. Her body is turned slightly into a soft profile while her head gently tilts to one side. Both arms are raised naturally toward her head, with her palms lightly touching her temples and hair. Her eyes are closed and her lips are slightly parted, creating a calm, relaxed expression. She wears stylish sunglasses. She has a very slim waist and naturally toned feminine figure. Her hair is extremely long, reaching her waist, smooth and straight with a polished layered cascade haircut. The hair is arranged neatly over her back, with softly inward-curled ends and no waves or curls. Her skin has a subtle natural sun-kissed tan with realistic pores, fine texture, and authentic tonal variation. She wears a {argument name="clothing" default="sophisticated white pleated two-piece set"} consisting of a cropped high-collar top with an open back and a matching high-rise long pleated skirt. Minimalistic jewelry and accessories, nothing distracting. Short square-shaped nails with a clean French manicure. Bright tropical summer atmosphere, intense turquoise water, deep blue cloudless sky, crisp natural sunlight, realistic shadows and reflections, natural daylight with absolutely no flash. Premium authentic travel photography aesthetic, realistic Canon G7 X Mark III rendering, natural colors, lifelike skin texture, subtle camera imperfections, high detail, realistic fabric texture, true-to-life proportions. Do not change the reference girl’s identity or facial features. No face reshaping, no excessive retouching, no plastic skin, no artificial beauty filter, no CGI appearance, no excessive HDR, no background blur, no text, no logos, no watermark.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2088673724732198957) | 2026-08-15
+
+---
+
+### 🏷️ 例 6208：Luxury Seafood Advertising Poster
+
+![Luxury Seafood Advertising Poster](../images/Luxury%20Seafood%20Advertising%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium seafood advertising poster in a hyper-real luxury food photography style, preserving the exact core visual logic of three cooked premium crabs arranged vertically on a pure deep-black background and partially embedded in abundant crushed ice. Use a top-down studio perspective with extreme graphic clarity, colder premium lighting, and elegant negative space. The image must feel minimal, luxurious, glacial, and campaign-ready, like a Cannes-level flagship seafood brand visual. Use a square or slightly vertical composition with a pure matte-black background. In the center of the frame, arrange three rich red-orange cooked crabs in a vertical stacked formation from top to bottom, aligned along a clean central axis. Each crab should be fully readable, shell-forward, and positioned with slight natural variation so the composition feels organic rather than mechanically repeated. Around and beneath the crabs, build a cold freshness field of crushed ice and irregular clear ice chunks that forms a controlled halo around the seafood. Important ice logic: the ice must preserve a natural scattered feeling with local clustered accumulation. Do not arrange it symmetrically or too neatly. Use a believable combination of loose crushed frost, broken shards, irregular transparent chunks, and small melting pieces that appear naturally spread and partially piled in certain areas, as if the crabs were just placed onto a real premium seafood cold bed. Some ice should naturally collect more heavily near shell edges, under claws, and in small pockets between the crabs, while other pieces remain more loosely scattered. The result must feel fresh, real, and high-end rather than overly designed. Transit-enhanced cold mood: push the overall lighting and color system toward a more international flagship seafood-ad look. The ice highlights should lean toward silver-white, steel gray, and subtle ice-blue rather than neutral white. Keep the background deeper and cleaner black. Let the red-orange crabs remain the only warm dominant element, so they feel richer and more expensive against the colder ice and darker field. The whole image should feel colder, sharper, more restrained, and more premium. Food structure: the crabs must feel premium, freshly cooked, and richly colored, with glossy shell highlights, natural claw structure, realistic leg joints, and convincing cooked-shell texture. Their arrangement should feel highly art-directed but still authentic. Between and around the crabs, add restrained garnish elements such as thin shredded ginger, fresh green scallion curls, and a few elegant lemon wedges. These accents should stay secondary and refined. Lighting: use controlled cold studio lighting from above with slight directional bias, so the ice catches silver-white and icy blue-gray highlights while the crabs glow in deep lacquered red-orange tones against the black background. The lighting must create a refined cold-versus-warm contrast. Keep the background perfectly dark and uncluttered. Shadows must be clean, soft-edged, and premium. Material rendering: render the crab shells with exceptional realism, showing subtle moisture, smooth hard-shell gloss, tiny texture variation, and believable cooked coloration. The ice must feel intensely cold, crisp, and clear, with fractured edges, partial translucency, and slight wet melt. The naturally piled ice should have realistic pressure and overlap around the crabs. Ginger should feel fibrous and fresh, scallions crisp and curled, lemon wedges juicy and bright with natural pulp translucency. All materials must obey high-end food photography realism. Style and visual language: ultra-premium food photography, top-down seafood luxury campaign, minimal cold-chain freshness branding, high-end culinary poster, pristine black-background editorial food image, world-class commercial retouching, colder flagship visual language. Color system: build the palette around pure black, silver-white ice, cold gray reflections, icy blue-gray highlights, vivid cooked-crab red-orange, pale lemon yellow, and fresh green garnish accents. Keep the image disciplined and elegant so the crabs remain the warm visual core against the colder environment. Typography and layout: preserve the logic of a clean small brand-signature or photographer-signature zone near the bottom if needed, but use only fully original fictional text. Keep typography minimal and secondary. Do not copy any wording from the reference. Image quality and physical constraints: extreme detail, crisp crab anatomy, believable shell structure, realistic ice distribution, natural scattered and locally piled ice feeling, immaculate black background, no muddy shadows, no black blotches, no fake food texture, no excessive garnish clutter. The final result must feel like a world-class premium crab campaign: minimal, cold, rich, and unforgettable. Negative prompt: copied text, copied brand name, watermark, signature, fake crab anatomy, plastic shell texture, muddy ice, symmetrical ice pattern, over-arranged garnish, gray dirty background, black blotches, cartoon food, low resolution, messy composition, weak freshness
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2088669286575550954) | 2026-08-15
+
+---
+
+### 🏷️ 例 6212：Comic Photographer Portal Action Scene
+
+![Comic Photographer Portal Action Scene](../images/Comic%20Photographer%20Portal%20Action%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a dynamic comic-book/anime action illustration of {argument name="character name" default="a bearded photographer scientist"} lunging toward the viewer in a dramatic three-quarter pose on a warm off-white background. He wears a backwards black baseball cap with large white text reading {argument name="cap text" default="SEATTLE"}, brown rectangular glasses, black ear gauges, a trimmed brown beard and mustache, a white lab coat over a dark charcoal pinstripe vest, white shirt, and black tie, with a small rainbow pride pin on his chest. His left hand holds a black Canon EOS DSLR camera with a large lens pointed toward the viewer, while vivid electric-blue lightning arcs from the lens and across the left side of the composition. His right hand holds a black rectangular camera flash angled upward, and his open center hand presents a swirling dark purple-black portal or vortex surrounded by cracked energy and pale blue-white lightning. Show exactly three main handheld objects: the Canon EOS camera, the separate camera flash, and the glowing vortex hovering above his open palm. Add floating broken stone fragments around him, with large shards near the top left and right edges and smaller debris scattered throughout, implying explosive supernatural force. Use bold manga ink outlines, sharp hatching, cel-shaded colors, exaggerated perspective, intense facial expression, detailed hands, energetic speed lines, and high-contrast highlights; keep the image as a single action panel with no frame border, no extra characters, and no additional text besides the cap and camera branding.
+```
+
+**来源：** [@Nobs 🔨 (Chief LLM Psychosis Officer)](https://x.com/nobsfud/status/2088633964852592827) | 2026-08-15
+
+---
+
+### 🏷️ 例 6214：Cleaning Product Commerical with Doodle Art
+
+![Cleaning Product Commerical with Doodle Art](../images/Cleaning%20Product%20Commerical%20with%20Doodle%20Art.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-premium commercial household-cleaning advertising poster in a polished stylized 3D realism style, preserving the exact core visual logic of two cleaning product bottles displayed together on a hanging wooden swing inside a fresh spring garden-home setting. The image must feel bright, stylish, elegant, friendly, and campaign-ready, like a Cannes-level FMCG hero visual. Keep the two product bottles as the absolute focal point, while the swing, surrounding leaves, blossoms, and spring atmosphere support a refined companionship story. Use a vertical poster layout with a spacious text area on the left and the product arrangement on the center-right to lower-right. Suspend a simple wooden swing seat from a graceful natural branch entering from the upper-right area. On the swing, place two original premium cleaning product bottles standing close together like trusted companions, with a slightly reduced gap so they feel emotionally connected and gently leaning toward each other while remaining fully readable. Important anthropomorphic detail: add clearly visible hand-drawn doodle-style little arms and hands to both bottles, inspired by premium ad illustration rather than childish cartooning. The tiny illustrated hands should look playful, affectionate, and friendly, as if the two bottles are lightly holding hands or reaching toward each other like best friends on the swing. The doodle hands must use elegant thin deep-green line art, clean and intentionally integrated into the campaign design system. Add one or two extremely small hand-drawn hearts or subtle motion lines near the bottles to reinforce the companionship theme. These marks must be tiny, tasteful, and secondary, never overwhelming the premium packaging. Important product-use detail: one bottle cap must be opened and removed, then placed neatly beside the products on the swing plank or just near the base of the bottles, clearly visible as a separated premium object. The cap placement must look intentional, elegant, and realistic. Product design: design two completely original household-cleaning products with premium packaging. The first is a slim translucent dishwashing liquid bottle showing luminous lemon-yellow liquid, a sleek neck, and a refined dark pump or closure detail. The second is a broader matte-white floor-cleaner bottle with a sculptural ergonomic silhouette, soft green closure area, and confident premium proportions. Both labels must be fully original, elegant, modern, and highly readable, using refined green, white, black, and soft yellow accents. No copied branding, no copied names, and no resemblance to existing real brands. Environment: set the scene in a complete spring garden-home world with a refined palette of sage green, misted pistachio, soft botanical green, fresh herb green, and creamy spring light. Increase the overall saturation moderately but elegantly, so the image feels richer, fresher, and more premium. Add soft natural sunlight, leafy shadows, small white blossoms, and a few curated leaves around the swing base. The setting should feel like an airy lifestyle space merging interior calm with botanical outdoor freshness. Lighting: use clean natural daylight from upper right-front, creating a premium spring atmosphere with brighter, richer greens and crisp but soft highlights on the bottle shoulders, labels, liquid body, removed cap, ropes, and swing plank. Let leaf-shaped shadows play elegantly across the wall and ground. The light must feel fresh, optimistic, breathable, and high-end. Material rendering: the yellow dish liquid must feel clear, glossy, and fresh, with realistic translucency and internal glow. The white cleaner bottle must feel matte-satin and premium, with soft edge reflections and precise industrial shape. The removed cap must feel tactile, molded, realistic, and intentionally placed. The wood swing seat must feel warm and naturally grained. The ropes must feel taut and fibrous. Leaves must feel semi-waxy and crisp. Blossoms must feel delicate and seasonal. Every material must obey immaculate commercial lighting and clean physical realism. Typography and layout: preserve the left-side advertising-copy layout as a major compositional feature. Add fully original premium English headline text in a graceful hand-lettered and modern sans-serif combination, for example: “Fresh Living Together” with a smaller supporting line beneath such as: “Beautiful care makes every corner bloom.” Add a small fictional brand mark in the top-left and a tiny campaign note in the top-right if needed. All wording must be fully original and never copied from the reference. Image quality and physical constraints: extreme detail, clean bottle silhouette, readable label design, coherent product shadows, believable swing suspension, elegant spacing, no muddy shadows, no black blotches, no cluttered props, no cheap plasticity, no low-resolution textures. The final result must feel like a world-class household-cleaning flagship campaign poster: product-led, fresh, elevated, memorable, and subtly anthropomorphic. Negative prompt: real brand names, copied text, copied slogan, watermark, signature, broken bottle anatomy, missing cap, cap still attached, floating cap, warped packaging, unreadable labels, cheap plastic texture, muddy green background, black blotches, cluttered leaves, childish cartoon style, excessive doodles, oversized hearts, low resolution, messy composition
+```
+
+**来源：** [@Loriel.AI](https://x.com/ou_zhen599/status/2088618963945005258) | 2026-08-15
+
+---
+
+### 🏷️ 例 6215：Android Quantum Lab Workstation
+
+![Android Quantum Lab Workstation](../images/Android%20Quantum%20Lab%20Workstation.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic photorealistic sci‑fi scene inside a pristine futuristic laboratory, showing a glossy white humanoid android seated at an advanced command workstation, viewed from a three-quarter side angle. The android has a smooth featureless black glass face visor, rounded helmet-like head, sleek white synthetic body panels, subtle glowing cyan seams along the arms, torso, legs, and head, and the word {argument name="android chest label" default="SINGULAR"} faintly illuminated on its chest. It sits in a modern ergonomic white chair with gray armrests, both hands hovering over and touching a glowing transparent touchscreen console. The lab is bright white and silver with curved wall panels, soft blue-white LED strips, clean reflective floors, and depth-of-field background monitors.
+
+The workstation should contain exactly 7 major display areas: 1 large left vertical monitor labeled {argument name="left monitor title" default="QUANTA NETWORK"} with a blue node-and-edge quantum network diagram and an entanglement rate chart below it; 1 central upper monitor labeled {argument name="main lab title" default="QUANTUM MATERIALS LAB"} with system overview charts, circular status gauges, line graphs, and system metrics; 1 right upper monitor panel with multiple cards for crystal phase space, AI systems diagnostics, and material structure; 1 wide horizontal transparent main console under the robot’s hands with glowing blue interface panels, graphs, and a central network visualization; 1 small floating holographic display above the console showing dense technical data and a miniature chart; 1 angled auxiliary touchscreen on the far left foreground with a circular blue scanner interface; and 1 small embedded control tablet near the back of the desk with colorful buttons. Use readable futuristic UI text sparingly, including labels such as {argument name="diagnostic label" default="AI SYSTEMS DIAGNOSTICS"}, {argument name="materials label" default="MATERIAL STRUCTURE"}, “SYSTEM OVERVIEW,” “SYSTEM METRICS,” “QUANTUM LINK PROTOCOL,” and “ENTANGLEMENT RATE.”
+
+Visual style: ultra-detailed 3D render, photorealistic hard-surface design, glossy white polymer and brushed metal materials, transparent glass UI surfaces, luminous cyan and electric blue highlights, small orange/yellow chart accents, shallow depth of field, volumetric soft lighting, high-tech medical-clean atmosphere. Composition should emphasize the android on the right and the dense quantum-computing dashboard wall on the left, with realistic reflections and no clutter. Avoid extra characters, logos, watermarks, distorted hands, or unreadable oversized text.
+```
+
+**来源：** [@Anastasios-Antonios Toulkeridis](https://x.com/A_A_Toulkeridis/status/2088618729395368403) | 2026-08-15
+
+---
+
+### 🏷️ 例 6217：The Painter Who Finished the Sky
+
+![The Painter Who Finished the Sky](../images/The%20Painter%20Who%20Finished%20the%20Sky.jpg)
+
+**Prompt:**
+
+```text
+Create a breathtaking cinematic fantasy scene titled “{argument name="scene title" default="The Painter Who Finished the Sky"}.” At sunset, a {argument name="artist description" default="lone artist"} stands high on the rooftop of an {argument name="location" default="old European city"}, viewed mostly from behind, holding a wooden painter’s palette in one hand and a fine paintbrush raised toward the sky in the other. Beside him rises an enormous antique wooden canvas frame, several times taller than the artist. But there is no ordinary canvas inside it—the frame is mysteriously connected directly to reality itself. Create a dramatic visual transformation across the scene. On the left side, the world is unfinished: cold, desaturated and rainy. Heavy charcoal storm clouds cover the sky, rain falls over monochrome historic buildings, wet rooftops reflect dim light, balconies are empty and the entire city feels quiet and lifeless. Exactly where the artist’s brush touches the sky, reality begins transforming. A luminous burst of golden paint-like energy spreads naturally outward from the brushstroke. Dark clouds gradually become magnificent glowing sunset clouds in gold, amber, peach and soft blue. Color flows from the sky down through the city as though reality itself is being painted. Historic buildings regain warm natural colors. Windows begin glowing. Flowers bloom across balconies. Green vines appear along old stone walls. Birds emerge naturally from the painted sky and fly into the real world. Warm sunlight pours dramatically through the streets below and reflects across rain-soaked cobblestones. The right half of the city is now completely transformed into an extraordinary golden-hour world filled with warmth, life and beauty, while the far left remains cold and monochrome. The boundary between the two worlds should feel magical and organic—not like a simple split-screen effect. Individual brushstrokes, particles of light and subtle trails of pigment should visibly transition into real clouds, architecture, flowers and sunlight. Far below, small groups of people have stopped in the streets and on balconies, looking upward in wonder as they realize the sky and city are being transformed above them. The artist is carefully painting one final tiny unfinished patch of darkness near the top of the sky. Composition: epic vertical cinematic framing, artist prominent in the foreground, enormous frame creating strong visual geometry, sprawling European city extending deep into the background, dramatic sense of scale and atmospheric perspective. Lighting: spectacular golden-hour sunlight contrasted against cool storm light, volumetric rays, wet reflections, subtle mist, realistic atmospheric haze. Style: sophisticated cinematic fantasy realism, photorealistic textures, emotionally powerful visual style.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2088604255196434616) | 2026-08-15
+
+---
+
+### 🏷️ 例 6226：Vintage Paper Collage Travel Poster
+
+![Vintage Paper Collage Travel Poster](../images/Vintage%20Paper%20Collage%20Travel%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 4:5 vertical vintage travel poster for {argument name="city" default="[CITY]"}, {argument name="country" default="[COUNTRY]"}, designed as an elegant handmade paper collage. Use a warm aged ivory paper background with subtle fibers, soft grain, slightly imperfect printed edges, and layered cut-paper shapes. Build the city from simplified but recognizable architectural silhouettes, landmarks, rooftops, streets, trees, mountains, water, and local cultural elements. Use a sophisticated muted pastel palette: dusty blue, faded terracotta, sage green, warm cream, muted peach, and soft ochre. Add subtle vintage print imperfections, gentle paper shadows, slight ink fading, and tactile handmade textures. Composition should feel like a beautifully designed mid-century European travel poster, with strong visual hierarchy and plenty of negative space. At the top, place elegant typography: {argument name="city" default="[CITY]"} {argument name="country" default="[COUNTRY]"} At the bottom, add a small understated line: A JOURNEY THROUGH {argument name="country" default="[COUNTRY]"} Make the city instantly recognizable while keeping the artwork artistic rather than photorealistic. Avoid generic tourist clichés. The overall result should feel like a collectible vintage paper travel poster, sophisticated, nostalgic, editorial, minimal, and premium. 4:5 vertical composition, centered layout, crisp paper-cut edges, layered depth, subtle shadows, authentic vintage print texture, no photorealism, no 3D-rendered look, no clutter.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2088576795956429004) | 2026-08-15
+
+---
+
+### 🏷️ 例 6234：Crispy Chicken Burger Product Photo
+
+![Crispy Chicken Burger Product Photo](../images/Crispy%20Chicken%20Burger%20Product%20Photo.jpg)
+
+**Prompt:**
+
+```text
+Create a high-quality professional product photograph of a crispy chicken burger centered on a clean white seamless studio background. Show the burger in a straight-on close-up hero composition with no plate, props, hands, text, or branding. The burger has exactly 6 visible layers from top to bottom: 1 glossy toasted brioche top bun with a smooth golden-brown dome, 2 creamy orange speckled sauce dripping slightly beneath the bun, 3 crinkle-cut pickle slices forming a green row, 4 melted American cheese slice folded over the edges, 5 thick golden-orange crispy fried chicken fillet with highly detailed crunchy breading, and 6 shredded iceberg lettuce over more creamy orange sauce on a glossy toasted brioche bottom bun. Use bright even studio lighting, subtle soft shadow beneath the burger, ultra-sharp food photography detail, appetizing saturated colors, realistic textures, square 1:1 framing, isolated commercial advertising style.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2088520195333566877) | 2026-08-15
+
+---
+
+### 🏷️ 例 6241：Cinematic Urban Elevator Portrait
+
+![Cinematic Urban Elevator Portrait](../images/Cinematic%20Urban%20Elevator%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic urban realism portrait of a {argument name="subject" default="young man"} standing inside a {argument name="environment" default="sterile stainless steel elevator"}. He has tousled, messy dark brown hair, natural skin texture, subtle under-eye shadows, light stubble, defined facial features, and a calm, serious, slightly intimidating expression. He is wearing an {argument name="clothing" default="oversized black hoodie"} with relaxed sleeves and loose black cargo pants. The elevator has reflective brushed-metal walls, horizontal handrails, dark metallic panels, an illuminated floor indicator showing 21, and a cold industrial atmosphere. Use dramatic overhead fluorescent lighting with cool greenish-blue tones, creating deep shadows across the face and clothing while leaving subtle highlights on the metal surfaces. Add realistic reflections, slight film grain, soft atmospheric contrast, and a dark muted color grade. Create a fashion-editorial cinematic photography look with realistic proportions, natural imperfections, detailed fabric texture, authentic skin pores, and sharp facial detail. Use a 35mm lens perspective, shallow depth of field, slightly low camera angle, symmetrical framing, and a tense isolated mood. Show the same subject in four different poses inside the elevator: 1. Leaning casually against the elevator wall with one shoulder, hands in pockets, looking toward the camera. 2. Standing straight with arms crossed, chin slightly raised, giving a confident expression. 3. Standing with his head lowered and hands in his hoodie pockets, creating a quiet introspective mood. 4. Leaning against the side wall with one leg slightly bent, looking away in side profile. Maintain the exact same face, hairstyle, clothing, body proportions, lighting style, elevator environment, and cinematic color grading across all four frames. Arrange the four photographs as a clean 2x2 editorial collage with thin divisions between frames. Ultra-realistic photography, cinematic realism, gritty urban fashion editorial, natural skin texture, realistic fabric, subtle film grain, high detail, moody atmosphere, professional photography, 8K detail, vertical composition.
+```
+
+**来源：** [@Harboris](https://x.com/harboriis/status/2088479351939702914) | 2026-08-15
+
+---
+
+### 🏷️ 例 6242：Spring Editorial Fashion Collage
+
+![Spring Editorial Fashion Collage](../images/Spring%20Editorial%20Fashion%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded portrait as the only identity reference, preserving the person’s facial features, skin tone, and hairstyle accurately.
+
+Create a vertical 2×2 four-panel fashion photo collage, maintaining consistent panel proportions and the exact visual hierarchy: two closer compositions on top, two wider compositions below. Keep the subject scale, camera distance, negative space, bicycle size, and framing consistent across the four panels.
+
+Set the scene in a {argument name="studio color" default="clean pale mint-white studio"} with a {argument name="prop description" default="buttery-yellow vintage bicycle"}, fresh orange-and-white flowers, scattered stems, and abundant airy negative space. Preserve a vivid yellow-green spring color palette with crisp, cheerful editorial styling.
+
+Dress the subject in an outfit individually chosen to suit her appearance while preserving the same youthful yellow-green fashion direction: a textured chartreuse/olive outer layer, coordinated yellow-green headwear, a light feminine inner outfit, and glossy green rain boots. Do not copy any specific garment design.
+
+Four natural poses: playful low squat with both hands gently cupping the cheeks and eyes smiling; relaxed half-body pose holding a fresh green-and-white bouquet with a playful wink; casually seated against the bicycle with one hand supporting the cheek; full-body standing beside the bicycle while naturally raising a bouquet.
+
+Bright soft daylight, subtle directional sunlight, clean luminous highlights, soft realistic shadows, fresh translucent skin, visible natural skin texture and hair strands, lively candid expressions, realistic anatomy and fabric texture. Fresh Korean editorial photography, playful spring energy, slightly dreamy but highly photorealistic, clean high-key exposure, harmonious yellow-green color grading.
+
+No text, watermark, logo, signature, excessive retouching, plastic skin, distorted hands, altered facial identity, incorrect panel proportions, or inconsistent subject scale.
+```
+
+**来源：** [@Shinning](https://x.com/Shinning1010/status/2088476481475563568) | 2026-08-15
+
+---
+
+### 🏷️ 例 6256：Anime Cyclists at Forest Waterfall
+
+![Anime Cyclists at Forest Waterfall](../images/Anime%20Cyclists%20at%20Forest%20Waterfall.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic anime-style wide shot of two female cyclists standing on a mossy stone path in a dense green forest, facing a bright multi-tier waterfall. The scene contains exactly 2 visible characters: 1 tall young woman on the left with very long flowing {argument name="hair color" default="black"} hair, seen mostly from behind in a white short-sleeve cycling jersey, black cycling shorts, white socks, black cycling shoes, and fingerless gloves; 1 shorter young woman near the center with short {argument name="second cyclist hair color" default="red"} hair, turned back toward the viewer while gesturing with one hand, wearing a red cycling jersey with a large white star graphic on the back, black cycling shorts, black socks, black cycling shoes, and fingerless gloves. Place them in the foreground from a low rear three-quarter angle, with the taller cyclist on the left looking toward the shorter cyclist and waterfall, and the shorter cyclist making eye contact with the viewer as if introducing the scenic stop. The background is a lush, shadowy mountain forest with thick foliage, vines, moss-covered rocks, old stone steps and a small weathered post on the left, and a bright waterfall cascading down dark wet rock into a shallow pool. Use dramatic sunlight filtering through leaves from the upper right, glowing mist, wet reflective stones, deep emerald greens, high contrast, detailed foliage, realistic water highlights, and a polished Japanese animation key-visual look. Wide 16:9 composition, no bicycles visible, no text, no logos, no watermark.
+```
+
+**来源：** [@フレアの日常](https://x.com/puku_flareglay/status/2088416465640923387) | 2026-08-15
+
+---
+

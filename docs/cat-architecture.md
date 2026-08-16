@@ -3759,3 +3759,17 @@ perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整�
 
 ---
 
+### 🏛️ 例 6224：Celestial Moonlit Palace Scene
+
+![Celestial Moonlit Palace Scene](../images/Celestial%20Moonlit%20Palace%20Scene.jpg)
+
+**Prompt:**
+
+```text
+16:9 横向电影画幅，东方高空神界，清冷月白色场主导，明亮、静默、遥远。画面不依赖大量宫殿，而依赖高阁、古松、云海与天空的空间关系。唯一主空间命题是：**{argument name="核心建筑" default="一座悬崖边缘的开放式高阁"}，与{argument name="自然元素" default="一株横向舒展入天幕的远古苍松"}形成对抗构图。**摄影机真实站在高阁内部靠后位置，正常人眼高度。近景左侧是一根深青灰巨柱与局部冷色梁架，顶部完全出画；上方巨大飞檐形成横向压框。右侧是一株从崖边伸出的巨大古松主干，粗壮树干和部分枝条进入画面，形成自然实体遮挡。中景是一片宽阔的月白石露台，建筑装饰极其克制，仅保留巨柱、栏杆和平台关系。1 位{argument name="人物" default="极小红衣长裙仙女"}独自站在露台边缘，背对观者眺望云海。古松枝冠从右侧横向向画面中央与上方舒展，最近树干清楚，中段枝叶进入雾层，最远枝梢逐渐消失在空气中。远方只允许存在一段低对比度巨型苍蓝崖体或淡淡建筑檐线轮廓，不增加第二座主建筑。至少形成：近景巨柱与檐口 → 古松主干 → 中景露台 → 极小人物 → 松冠与雾层 → 极远崖体轮廓 → 云海 → 开阔天空。配色采用月白、霜青、冷灰蓝、雾蓝灰和冷石白，结构深色采用深青灰，古松使用克制冷棕。暖色只可作为极少量暖白边光点在树皮、檐缘或人物衣缘。材质采用冷白玉石、精磨灰青石材、深色宫廷木构与低反射屋面。建筑必须完整、精工、洁净，不得古旧破败。Soft cool daylight, huge negative space, architecture framing nature, nature interrupting architecture, restrained contrast, strong layered atmospheric depth.
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2088579815028793694) | 2026-08-15
+
+---
+

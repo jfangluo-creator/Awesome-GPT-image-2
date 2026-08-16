@@ -55914,3 +55914,17 @@ Create a photorealistic vertical concert photo of a cheerful Japanese undergroun
 
 ---
 
+### 📷 例 6216：Dreamy Japanese Movie Portrait
+
+![Dreamy Japanese Movie Portrait](../images/Dreamy%20Japanese%20Movie%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+创作一幅具有梦境感与私人日记气质的日记电影人像摄影。一位{argument name="人物" default="成年年轻女性"}靠近窗边与镜头，{argument name="发型" default="黑色微湿的中长发"}自然凌乱地垂落在脸颊、眼睛与嘴唇前方，部分细碎发丝被逆光照亮，形成透明发光的轮廓。人物拥有自然细腻的浅色肌肤、清透湿润的眼睛与柔软饱满的水光唇妆，妆容极轻，保留真实皮肤纹理、毛孔与细微光泽，不做过度磨皮。她的神情安静、松弛、略带朦胧疏离感，不刻意微笑，像是在一个无人打扰的夏日下午突然回望镜头。
+```
+
+**来源：** [@mo Ki](https://x.com/static_stare/status/2088615794397913132) | 2026-08-15
+
+---
+

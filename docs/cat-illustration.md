@@ -16994,3 +16994,559 @@ Constraints: Keep the first visual read as the isolated circular glowing lantern
 
 ---
 
+### 🎨 例 6193：Multi-Style Cat Lifeguard Prompts
+
+![Multi-Style Cat Lifeguard Prompts](../images/Multi-Style%20Cat%20Lifeguard%20Prompts.jpg)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="cat"} as a {argument name="role" default="beach lifeguard"}
+
+1. Photo: Photorealistic photography of a cat as a beach lifeguard, shot on 85mm f/1.4 with shallow depth of field, golden hour backlight. the tabby wears a faded red rescue vest, fur glistening with salt spray, perched on a weathered lifeguard tower, scanning a crowded shore through aviator sunglasses, with a faint heat haze rising off the sand featuring in a photorealistic photography style, under golden hour lighting, intimate close personal atmosphere, macro beauty shot. hyper-detailed zero dead frames pure visual momentum consistent identity across frames no artifacts no AI-style warping physically accurate shadows.
+
+2. Artistic: Expressive artistic rendering of a cat as a beach lifeguard, in soft watercolor and ink on textured paper. quiet dawn light, muted seafoam and sand tones. the cat sits upright in a weathered wooden lifeguard chair, one paw resting on a vintage brass telescope, gaze steady over calm, misty waves. loose, gestural brushstrokes, subtle pigment blooms, negative space of pale sky featuring in a fine art illustration style, under rim light edge separation, peaceful elegant atmosphere atmosphere, slow pan reveal. hyper-detailed real physics no AI-style warping stable characters facial expression consistency rich skin detail with natural pores.
+
+3. Bizzare: Create a bizarre surreal image of a cat as a beach lifeguard, its fur replaced by glistening wet sand, perched atop a colossal, melting ice cream cone lifeguard tower, overlooking a tide of floating clocks, with a foggy, peach-hued dawn sky and soft anamorphic lens flare, shot on 35mm film, shallow depth of field, dreamlike and ethereal featuring in a bizarre surreal imagery style, under bright hard sunlight, romantic tender atmosphere, whip pan transition. zero dead frames pure visual momentum sharp focus real physics no morphing hands or faces movie-level temporal coherence hyper-detailed.
+
+4. Fashion: Magazine editorial image of a tuxedo cat as a beach lifeguard, posed on a high wooden watchtower, wearing a crisp red-and-white striped rescue vest and mirrored aviator sunglasses, fur catching golden-hour rim light, one paw resting on a bullhorn. hard editorial flash, bold graphic composition, deep teal ocean and pale sand backdrop, shot on 35mm film, shallow depth of field featuring in a high-fashion editorial style, under bright hard sunlight, building dread atmosphere, slow orbital rotation. accurate reflections and refractions no AI-style warping no artifacts deep layered shadows consistent identity across frames hyper-detailed.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2088721232589992323) | 2026-08-15
+
+---
+
+### 🎨 例 6195：Realistic Black and White Male Portrait
+
+![Realistic Black and White Male Portrait](../images/Realistic%20Black%20and%20White%20Male%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic black-and-white portrait of a handsome young man with {argument name="hair style" default="tousled wavy dark hair"}, subtle stubble, defined masculine facial features, and classic round black eyeglasses, seated in a luxurious dark leather armchair. He wears a perfectly tailored black blazer over a black turtleneck, with one hand resting naturally near his neck and a sophisticated metal luxury wristwatch visible on his wrist. Calm, confident, slightly mysterious expression, looking directly toward the camera.
+
+Extremely low-key chiaroscuro lighting, a single narrow window light cutting diagonally across the scene and illuminating one side of his face while the other side falls into deep shadow. Strong geometric light and shadow patterns on the textured wall, deep blacks, crisp highlights, rich monochrome tonal range, subtle analog film grain, realistic skin pores, detailed hair strands, natural facial proportions, soft background falloff, dark elegant interior, intimate luxury editorial mood, timeless film-noir aesthetic. Shot on a professional camera with an {argument name="lens" default="85mm"} lens, shallow depth of field, cinematic composition, high contrast, photorealistic, refined photographic texture, vertical 4:5 composition, no color, no text, no watermark.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2088718161759924679) | 2026-08-15
+
+---
+
+### 🎨 例 6196：High Fidelity Identity Portrait
+
+![High Fidelity Identity Portrait](../images/High%20Fidelity%20Identity%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use my uploaded face image as the primary facial identity reference with the highest identity weight. Preserve my exact facial identity with absolute accuracy. My face must remain instantly recognizable, including my face shape, hairstyle, hairline, eyebrows, eyes, nose, lips, beard, skin tone, ears, facial proportions, jawline, and every unique facial feature. Do not beautify, stylize, age, de-age, feminize, masculinize, or replace my identity. Maintain perfect facial consistency and natural skin texture.
+
+Create a hyper-realistic cinematic black-and-white luxury editorial portrait of me seated casually on a premium black leather sofa inside an {argument name="setting" default="elegant upscale café or private lounge"}. I am wearing an {argument name="outfit" default="oversized white linen button-up shirt"} with the top three buttons open, sleeves casually rolled to the forearms, paired with tailored black trousers. Accessories include minimalist rectangular black sunglasses, a luxury stainless-steel square bracelet watch, and a thin black pendant necklace resting naturally on my chest.
+
+Pose me with a relaxed, confident posture. My right elbow rests on the sofa armrest, while my right hand partially covers my mouth and chin in a thoughtful pose. My head is turned about 35–45° to the right, looking off-camera with a calm, mysterious, self-assured expression. My left arm rests naturally on my lap.
+
+The background features a dark matte charcoal wall with a framed vintage Marilyn Monroe black-and-white portrait hanging softly out of focus, creating a refined, timeless café atmosphere. Keep the environment minimal and luxurious with no distractions.
+
+Lighting is soft natural window light entering from the left, producing dramatic Rembrandt lighting across the face with smooth falloff into rich shadows. Add subtle rim lighting to define the hair and shoulders while preserving a natural monochrome look. Maintain high contrast, deep blacks, bright whites, and delicate grayscale transitions.
+
+Shot on an 85mm full-frame portrait lens at f/1.8, eye-level composition, vertical framing, shallow depth of field, razor-sharp focus on the face, creamy background bokeh, realistic skin pores, detailed beard texture, crisp linen fabric, premium watch reflections, subtle film grain, HDR, magazine-quality retouching without altering identity.
+
+Style: Ultra-photorealistic, monochrome fine-art photography, luxury menswear campaign, Vogue Homme, GQ editorial, Leica M11 aesthetic, timeless masculine elegance, cinematic realism, minimalist composition, masterpiece, 8K, award-winning fashion photography.
+```
+
+**来源：** [@Aatif J](https://x.com/aatif_j/status/2088715851348500803) | 2026-08-15
+
+---
+
+### 🎨 例 6199：Egyptian Moon Priestess Ritual
+
+![Egyptian Moon Priestess Ritual](../images/Egyptian%20Moon%20Priestess%20Ritual.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical dark fantasy oil painting of an ancient Egyptian high priestess standing on a stone temple terrace at night beneath an enormous full moon. The central subject is {argument name="character name" default="an Egyptian moon priestess"}, shown full body in a regal three-quarter pose, wearing a flowing ivory linen gown with translucent drapery, a deep black and burgundy front panel embroidered with gold celestial symbols, ornate gold collar, bracelets, belt ornaments, dangling beads, and a radiant circular halo-like headdress. She has {argument name="hair color" default="long black braided hair"} streaming in the wind, sharp eyeliner, calm authoritative expression, and she looks toward the right. In her left hand she holds a shallow bronze incense bowl emitting curling white smoke; in her right hand she raises a slender ritual wand or stylus. Surround her with exactly four visible supernatural or ritual figures/creatures: one dark ibis-headed robed figure on the left holding a scale or ritual object, one translucent white veiled spirit facing her on the right, one tall faceless black-robed specter behind the spirit, and one small sacred bull statue or living bull near the lower right. Add exactly three major foreground ritual objects: a large antique celestial globe/orrery with brass rings at lower left, a square dark pedestal with a small gold vessel beside it, and a bronze fire brazier at lower right with flame and smoke. Background: monumental Egyptian architecture, red temple pylons, desert plants, steps, faint city silhouettes, smoky torchlight, and a star-filled indigo sky. The huge moon dominates the upper center and is overlaid with fine golden astrological diagrams, rings, arcs, constellation lines, crosshair geometry, tiny stars, crescent moon motifs, and hanging bead-like ornaments. Visual style: highly detailed painterly illustration, romantic symbolist fantasy, Art Nouveau and occult astronomy influence, muted indigo, charcoal, warm gold, ivory, and ember red palette, dramatic moon backlighting, soft atmospheric haze, intricate gold linework, textured canvas brushstrokes, cinematic composition, no text, no watermark.
+```
+
+**来源：** [@Ombrage](https://x.com/ombrageplays/status/2088698698695934308) | 2026-08-15
+
+---
+
+### 🎨 例 6200：Egyptian Black Cat Goddess
+
+![Egyptian Black Cat Goddess](../images/Egyptian%20Black%20Cat%20Goddess.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical fantasy fine-art illustration of {argument name="character name" default="Bastet"}, an elegant anthropomorphic black cat goddess seated in a shadowed Egyptian temple at sunset. She has sleek black fur, tall pointed ears, glowing amber-gold eyes, a calm regal expression, and a poised seated posture with one arm resting beside a large crescent-shaped golden ceremonial blade. Dress her in a flowing white linen gown with translucent drapery and geometric gold trim, plus lavish ancient Egyptian gold jewelry: a broad collar necklace, layered chains, arm cuffs, bracelets, dangling earrings, forehead ornament, and a circular moon-like headpiece. Behind her, place a huge glowing golden sun disk/halo with fine radiating lines and celestial arcs, illuminating the scene with warm amber backlight against dark blue-black temple curtains and pillars. Include exactly six feline figures total: the central cat goddess, one tall seated black cat silhouette on the far left, one small black cat crouched near the left side of the throne, one small black cat seated to the right of the goddess, one tall seated black cat silhouette on the far right, and one small black cat in front on the lower step beneath the goddess. Add exactly two hanging dreamcatcher-like gold-and-feather talismans, one on the upper left and one on the upper right, suspended from the temple frame. Surround the throne with ancient ritual objects: bronze bowls with faint smoke and embers, ornate vases, white lilies, small cups, gold chains, and a circular pendant hanging from the crescent blade. The background should hint at a desert landscape and pyramids through the open temple, with dust motes, sparks, and soft atmospheric haze. Use a painterly, highly detailed, cinematic fantasy style with dark indigo shadows, burnished gold highlights, realistic fabric folds, intricate metalwork, mystical Egyptian symbolism, and a sacred nocturnal mood. No modern objects, no text, no watermark.
+```
+
+**来源：** [@Ombrage](https://x.com/ombrageplays/status/2088698695952875981) | 2026-08-15
+
+---
+
+### 🎨 例 6201：Marsh Shaman Demigod
+
+![Marsh Shaman Demigod](../images/Marsh%20Shaman%20Demigod.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical dark fantasy oil-painting illustration of a towering marsh shaman-warrior striding forward through shallow swamp water at sunrise. The central figure is a muscular, mud-streaked, gray-tan skinned humanoid demigod with a grim shadowed face, long wild white hair and beard blowing across his chest, and two tall curved black horns rising from a dark ceremonial headpiece. He wears a ragged cloak made of reeds, straw, feathers, and swamp grasses that spreads over his shoulders like a huge mantle, plus layered primitive wrappings, belts, dangling beads, bones, shells, and talismans around his waist and arms. In his left hand he carries one very tall rough wooden staff topped with bundled reeds, cords, thorns, and a small circular bronze disk ornament; in his right hand he loosely grips the horned skull head of a dark animal companion or pelt hanging beside him. The environment is a dense wetland filled with tall brown reeds and cattails in the foreground and background, reflective muddy water around his knees, splashes around his advancing foot, and a pale blue-gray sky. Place a huge glowing white sun directly behind his head, forming a halo with faint thin geometric crosshair circles and lines. Add a small flock of exactly 7 white birds in the right sky, with a few tiny distant bird silhouettes. Use an epic mythological mood, high detail, painterly brushwork, muted ochres, browns, bone white, gray-blue sky, dramatic backlighting, atmospheric haze, intricate texture in reeds and wet fur, full-body low-angle composition, centered heroic pose, no text, no border, no modern objects.
+```
+
+**来源：** [@Ombrage](https://x.com/ombrageplays/status/2088698692521886157) | 2026-08-15
+
+---
+
+### 🎨 例 6202：Midsummer Forest Ritual
+
+![Midsummer Forest Ritual](../images/Midsummer%20Forest%20Ritual.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic vertical fantasy-realism scene of an ancient midsummer forest ritual at night beside a dark stream. In the center, show exactly 2 young dancers in simple white folk clothing leaping hand-in-hand above the water between exactly 2 large bonfires, their bodies frozen midair, hair and fabric moving with the jump. Around them, show exactly 18 villagers in rustic Slavic-style linen tunics, skirts, belts, boots, and flower crowns, forming a loose circle on both banks: 5 villagers gathered on the left bank near the left bonfire, 10 villagers holding hands in the dim background across the stream, and 3 villagers on the right bank, one raising an arm or wand-like branch. The setting is a dense, deep green forest with tall dark trees, ferns, moss, and misty smoke rising from the fires. In the far background, place a single mysterious hooded figure standing in a glowing teal-green magical clearing, surrounded by radiant branching light like an enchanted tree or spell. The stream fills the lower half of the composition, reflecting orange firelight, teal magic, purple-blue highlights, and sparks. Add exactly 3 small floating flower-and-candle wreaths on the water in the foreground and midground, each with a tiny flame; surround them with wildflowers, daisies, leaves, and soft bokeh. Use dramatic low-key lighting, warm orange fire against cool blue-green moonlit forest shadows, volumetric smoke, glowing embers, wet reflective water, shallow depth of field in the foreground flowers, painterly photorealistic detail, magical folklore atmosphere, vertical 2:3 composition, no text, no modern objects, no buildings.
+```
+
+**来源：** [@Ombrage](https://x.com/ombrageplays/status/2088698689418051669) | 2026-08-15
+
+---
+
+### 🎨 例 6204：Indian Woman Golden Hour Story Triptych
+
+![Indian Woman Golden Hour Story Triptych](../images/Indian%20Woman%20Golden%20Hour%20Story%20Triptych.jpg)
+
+**Prompt:**
+
+```text
+Create a premium cinematic three-panel vertical triptych telling the story of a beautiful young Indian woman enjoying a peaceful weekend evening as golden hour slowly turns into night. Panel 1 — Golden Hour Arrival: The woman walks alone through an elegant upscale city street during golden hour. Warm sunlight streams between beautiful buildings and boutique storefronts, creating glowing highlights around her hair. She wears a sophisticated modern neutral-toned outfit, subtle gold jewelry and carries a stylish shoulder bag. Her expression is relaxed and naturally confident. Flowers, warm storefront reflections and subtle background pedestrians create an authentic city atmosphere. Cinematic shallow depth of field and soft golden bokeh. Panel 2 — Rooftop Pause: The same woman sits at a stylish rooftop café overlooking a beautiful modern skyline during sunset. She casually holds a coffee or elegant mocktail while a gentle breeze moves her hair. Small candles, tasteful flowers and premium minimalist décor surround her. The setting sun paints the sky in peach, amber and soft orange tones. She has a natural, thoughtful smile, enjoying the peaceful moment. Luxurious editorial lifestyle photography. Panel 3 — Twilight Stroll: The same woman walks beside a beautiful waterfront promenade just after sunset. The sky transitions from warm orange near the horizon into rich deep blue. Elegant street lamps glow along the walkway while city lights sparkle across the water and create beautiful reflections. Her outfit remains visually consistent with the previous scenes, with a light outer layer added naturally for the evening. She looks toward the skyline with a calm, dreamy expression. Overall visual direction: Ultra-realistic premium lifestyle photography, beautiful Indian facial features, natural skin texture, elegant long dark hair, sophisticated modern fashion, cinematic golden-hour lighting, warm amber and peach tones gradually transitioning into deep twilight blue, atmospheric bokeh, realistic reflections, subtle lens glow, shallow depth of field, editorial fashion photography, premium luxury aesthetic, natural candid expressions. Keep the same woman, facial identity, hairstyle and clothing style consistent across all three panels. Composition: three equal horizontal scenes stacked vertically inside one tall frame, clearly separated yet visually connected as one continuous evening story. Woman should remain large and prominent in every panel. No excessive crowds, no text, no logos, no watermark, no distorted anatomy, no artificial plastic skin. High-end cinematic photography, beautifully composed, emotionally warm, aspirational, scroll-stopping and suitable for a premium X post.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2088681281844633934) | 2026-08-15
+
+---
+
+### 🎨 例 6209：High-End Fashion Editorial Portrait
+
+![High-End Fashion Editorial Portrait](../images/High-End%20Fashion%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a hyper-realistic premium fashion editorial portrait using my uploaded face as the exact facial identity reference. Preserve my facial structure, skin tone, eyes, nose, lips, jawline, beard/facial hair, and overall identity accurately. Do not alter or beautify my face into another person.
+
+A confident, charismatic man in his late 20s–early 30s, with sharp masculine features, styled dark hair with natural volume and a subtle textured finish, wearing {argument name="outfit" default="a deep emerald-green tailored double-breasted trench coat over a fitted black ribbed turtleneck"}.
+
+He is positioned very close to the camera in an intense fashion-editorial pose, {argument name="pose" default="one arm extended toward the lens with his index finger pointing directly at the viewer"}, creating dramatic forced perspective. The hand and finger appear large in the foreground while the face remains extremely sharp and recognizable.
+
+Expression: confident, slightly mysterious, subtle smirk, intense direct eye contact, powerful masculine presence.
+
+Composition: vertical 4:5 fashion campaign portrait, medium close-up, slightly low camera angle, subject centered, dramatic foreground depth, clean negative space around the head.
+
+Lighting: premium studio lighting, soft frontal key light combined with subtle cinematic side lighting, realistic skin highlights, gentle catchlights in the eyes, controlled shadows, high dynamic range.
+
+Background: {argument name="background" default="completely clean bright white luxury studio, minimalistic and seamless, no props, no texture, no distracting elements"}.
+
+Photography style: ultra-realistic high-end men’s fashion campaign, luxury magazine editorial, professional commercial photography, realistic fabric texture, natural skin pores, detailed hair strands, physically accurate hands, realistic depth of field, crisp facial details, sophisticated color grading, 85mm fashion portrait lens, shallow depth of field, 8K-level detail.
+
+Important: My uploaded face must remain the primary identity. Keep facial proportions and recognizable features unchanged. No face morphing, no generic model face, no excessive retouching, no plastic skin, no distorted hands, no extra fingers, no text, no logos, no watermark.
+```
+
+**来源：** [@Snow](https://x.com/iamrealsnow/status/2088658942050320622) | 2026-08-15
+
+---
+
+### 🎨 例 6210：Three Anime Schoolgirls Walking
+
+![Three Anime Schoolgirls Walking](../images/Three%20Anime%20Schoolgirls%20Walking.jpg)
+
+**Prompt:**
+
+```text
+Create a wide 16:9 polished anime illustration of three high-school girls walking together from left to right on a sunny residential Japanese street. Show exactly 3 characters in side profile or three-quarter profile: left girl with very long dark teal-green hair, yellow-green eyes, a green bead headband, green-accent sailor uniform, green pleated skirt, black thigh-high socks, and a navy shoulder school bag; center girl with very long pale sky-blue hair, red eyes, blue floral hair ornament with dangling beads, blue-accent sailor uniform, blue pleated skirt, black thigh-high socks, and a navy shoulder school bag with small blue keychain charms; right girl with very long pink hair, red eyes, pink floral hair ornament with dangling beads, smiling and looking back toward the others, pink-accent sailor uniform, pink pleated skirt, black thigh-high socks, and a navy shoulder school bag with small pink charms. Use the character inspiration {argument name="character trio" default="Kotonoha Akane, Kotonoha Aoi, and Tohoku Zunko"}, but render them as original clean anime schoolgirls. The uniforms should have white short-sleeve sailor tops with colored collar stripes matching each girl's skirt, red ribbon ties at the chest, fitted waists, and soft fabric folds. The scene is bright midday with warm sunlight, leafy green trees and bushes casting dappled shadows, a low stone wall, traditional wooden house facade, sliding-style wooden gate, and dark tiled roof in the background. Composition should be cinematic and detailed, with the girls filling most of the frame, hair flowing naturally behind them as they walk, crisp line art, vibrant colors, soft shading, glossy hair highlights, charming slice-of-life mood, no text, no watermark, no extra characters.
+```
+
+**来源：** [@レッドスカ](https://x.com/reddosukato/status/2088649581982863537) | 2026-08-15
+
+---
+
+### 🎨 例 6218：Watercolor Cherry Blossom Anime Scene
+
+![Watercolor Cherry Blossom Anime Scene](../images/Watercolor%20Cherry%20Blossom%20Anime%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Using REFERENCE_0 as the source style inspiration, transform the manga-style promotional image into a single serene watercolor anime illustration. Remove all comic panels, speech bubbles, typography, action effects, and advertising layout. Create a vertical scene of {argument name="character subject" default="a young woman in a floral kimono"} viewed from behind in a three-quarter pose, standing on a wooden balcony and looking over a historic riverside Japanese town. Add {argument name="seasonal setting" default="spring cherry blossoms"} with branches framing the top, falling petals, and soft pink blossoms throughout the scene. Give the character an elegant updo with floral hair ornaments and have her hold {argument name="accessory" default="a translucent traditional umbrella"}. Set the background with a blue river canal, traditional rooftops, and a distant pagoda or temple tower. Use {argument name="visual style" default="delicate watercolor anime style"}: pale washes, soft paper texture, gentle blue and pink palette, luminous daylight, fine ink-like detail, and a calm romantic atmosphere. No text, no logos, no speech bubbles, no comic borders, no modern UI elements.
+```
+
+**来源：** [@チビクロ🧩AI錬金術士](https://x.com/CHIBIKURO_QnQ/status/2088596641607795099) | 2026-08-15
+
+---
+
+### 🎨 例 6219：Realistic Unaju Grilled Eel Box
+
+![Realistic Unaju Grilled Eel Box](../images/Realistic%20Unaju%20Grilled%20Eel%20Box.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic high-resolution food photography image of {argument name="dish name" default="unaju, Japanese grilled eel over rice"} served in a rectangular black lacquered bento box with a thin red inner rim, placed on a warm dark wooden restaurant table. The box is filled with white rice and topped edge-to-edge with exactly 4 long grilled eel fillets arranged horizontally in parallel, slightly overlapping, coated in a glossy caramel-brown tare sauce with visible char marks, tiny blistered skin texture, subtle grill lines, and faint skewer marks. The eel should look moist, oily, and sizzling, with bright specular highlights and appetizing lacquered reflections. Use a close-up three-quarter overhead angle, shallow depth of field, natural warm restaurant lighting, and rich contrast. In the softly blurred background include exactly 3 supporting table items: a small white side dish at the upper left with pale pickles or garnish, a dark cylindrical cup near the upper center, and a black soup bowl at the upper right containing clear broth and a small green herb leaf. Keep the focus sharply on the eel and lacquer box, with no people, no utensils, no text, and no watermark.
+```
+
+**来源：** [@いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will/status/2088587919544262884) | 2026-08-15
+
+---
+
+### 🎨 例 6220：Natural Face Realism Modifier
+
+![Natural Face Realism Modifier](../images/Natural%20Face%20Realism%20Modifier.jpg)
+
+**Prompt:**
+
+```text
+Keep her {argument name="desired trait" default="attractive"}, but avoid making every facial feature conventionally perfect.
+```
+
+**来源：** [@澪桜AI](https://x.com/reo_AIafi/status/2088582062009966672) | 2026-08-15
+
+---
+
+### 🎨 例 6222：Sad Germany Football Cat
+
+![Sad Germany Football Cat](../images/Sad%20Germany%20Football%20Cat.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic sports photography of a lonely {argument name="cat type" default="orange tabby cat"} sitting on a rain-soaked football stadium pitch at night after a heartbreaking defeat. The cat is wearing an authentic {argument name="team jersey" default="white Germany national football team jersey"} with black-red-gold chest stripe and the number {argument name="player number" default="10"} on the front. The cat has its head bowed down in sadness, ears slightly lowered, eyes closed, body language expressing disappointment and grief. Heavy rain falls dramatically under powerful stadium floodlights. Wet orange fur with realistic water droplets. Highly detailed whiskers, realistic paws, natural anatomy. A blue collar with a small bell around the cat's neck and a small red ribbon tied behind the collar. In the foreground lies another soaked Germany football jersey on the wet ground. Behind the cat is a classic black-and-white football resting on the rain-covered grass. A small Germany flag stands planted beside the ball. Massive football stadium packed with blurred spectators in the background, creating strong depth of field. Dark cloudy night sky. Rain reflections on the glossy wet pitch. Emotional atmosphere of loss, silence and heartbreak. Professional sports photography, shallow depth of field, bokeh stadium lights, volumetric rain, cinematic lighting, dramatic composition, ultra-sharp focus on the cat, HDR, 8K, photorealistic, masterpiece, award-winning sports photography, realistic textures, natural colors, symmetrical composition, low camera angle, 85mm lens, f/1.8, extremely high detail.
+```
+
+**来源：** [@Compound Learning - Tech | Science](https://x.com/SheBuildsAI_/status/2088581495741165600) | 2026-08-15
+
+---
+
+### 🎨 例 6223：Street Photography Reaction Set
+
+![Street Photography Reaction Set](../images/Street%20Photography%20Reaction%20Set.jpg)
+
+**Prompt:**
+
+```text
+Create exactly 4 independent standalone images in a single generation request. {argument name="subject" default="A photographer"} shoots upward from street level just as she {argument name="action" default="notices the camera and gives a playful peace sign"}.
+```
+
+**来源：** [@HeYSriram.TSX](https://x.com/sriram_gsr16/status/2088581469304402063) | 2026-08-15
+
+---
+
+### 🎨 例 6227：Overhead Pepperoni Pizza Photo
+
+![Overhead Pepperoni Pizza Photo](../images/Overhead%20Pepperoni%20Pizza%20Photo.jpg)
+
+**Prompt:**
+
+```text
+Create a high-quality professional overhead product photograph of a whole pepperoni pizza centered on a clean bright white seamless studio background. The pizza should be perfectly round and fill most of the square frame, photographed from directly above with soft studio lighting and a subtle natural shadow around the crust. Show a thin-to-medium golden-brown crust with darker toasted bubbles around the rim, rich red tomato sauce visible near the edges, glossy melted mozzarella cheese with lightly browned spots, fine dried herb seasoning scattered across the cheese, and exactly 21 round pepperoni slices arranged evenly across the surface in a balanced pattern from edge to center. Make the pepperoni deep red-orange, shiny with rendered oil, slightly curled at the edges, and speckled with seasoning. Keep the composition appetizing, realistic, crisp, and commercial-food-photography quality, with no plate, no text, no hands, no props, and no background clutter.
+```
+
+**来源：** [@𝐌](https://x.com/Strength04_X/status/2088559657899962646) | 2026-08-15
+
+---
+
+### 🎨 例 6228：Fashion Studio Portrait with Blue Rim Lighting
+
+![Fashion Studio Portrait with Blue Rim Lighting](../images/Fashion%20Studio%20Portrait%20with%20Blue%20Rim%20Lighting.jpg)
+
+**Prompt:**
+
+```text
+A photorealistic fashion portrait of a {argument name="subject" default="young woman"} standing confidently in a studio, wearing an oversized white V-neck T-shirt with a bold distressed “{argument name="graphic text" default="25 BEAUTIFUL"}” graphic printed across the front, paired with loose black pants. She has long, straight dark brown hair flowing naturally over her shoulders, subtle makeup, delicate necklace, small hoop earrings, and a modern black smartwatch. Both hands are casually placed inside her pants pockets.
+
+Dark minimalist studio background with dramatic blue rim lighting from behind, creating a glowing blue edge around her hair and shoulders. Soft cinematic key light illuminating her face and clothing, realistic skin texture, natural facial features, detailed fabric folds, sharp focus, professional fashion photography, premium editorial aesthetic, high contrast, shallow depth of field, realistic shadows, 85mm lens, f/2.0, ultra-detailed, photorealistic, 4K, vertical composition, full-body portrait.
+```
+
+**来源：** [@DaniaSafvi](https://x.com/DaniaSafvi/status/2088554838712053990) | 2026-08-15
+
+---
+
+### 🎨 例 6229：Greyscale Puzzle Portrait with Color Accent
+
+![Greyscale Puzzle Portrait with Color Accent](../images/Greyscale%20Puzzle%20Portrait%20with%20Color%20Accent.jpg)
+
+**Prompt:**
+
+```text
+dramatic greyscale portrait with a touch of red, two-tone obsidian black and crimson red, gorgeous woman, closeup, intense gaze, lush lips and makeup, the portrait is a puzzle with one piece missing but the woman is holding up the final puzzle piece close to her lips, you can see her one hand with red and black glittery nail polish, the shape of the puzzle piece she's holding is identical to the shape that's missing and also matches the skin texture that would match her face if it were to be put in place, behind the missing piece is solid black. Dramatic greyscale portrait with a touch of blue, two-tone obsidian black and ocean blue, gorgeous woman, closeup, intense gaze, lush lips and makeup, the portrait is a puzzle with one piece missing but the woman is holding up the final puzzle piece close to her lips, you can see her one hand with blue and black glittery nail polish, the shape of the puzzle piece she's holding is identical to the shape that's missing and also matches the skin texture that would match her face if it were to be put in place, behind the missing piece is solid black. She places the puzzle piece in place and there is a magical burst that once complete it reveals a perfect full color scene of the girl without the puzzle piece lines. epic, multi-shot, cinematic
+```
+
+**来源：** [@Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne/status/2088553784695767151) | 2026-08-15
+
+---
+
+### 🎨 例 6230：Authentic Candid East Asian Portrait
+
+![Authentic Candid East Asian Portrait](../images/Authentic%20Candid%20East%20Asian%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an insanely lifelike, scroll-stopping portrait of a beautiful young adult {argument name="subject" default="East Asian woman"} in a {argument name="setting" default="warm minimalist interior"}, photographed at the fleeting moment she naturally turns her attention toward the camera.
+
+She has radiant yet completely realistic skin, with visible pores, subtle tonal variation, tiny natural imperfections, and authentic texture. Her features are delicate and balanced, with expressive dark almond-shaped eyes, sharp natural catchlights, softly defined brows, gently flushed cheeks, and naturally hydrated rosy-pink lips. Her straight jet-black hair is gathered into a neat low bun, with a few loose flyaway strands framing her face for an effortless, lived-in appearance.
+
+She wears understated gold hoop earrings and an extremely fine gold necklace. An oversized cream-beige ribbed sweater sits naturally across her shoulders, slipping slightly from one side and revealing a simple black camisole strap underneath. One arm is relaxed behind her head, creating a candid, graceful silhouette rather than a deliberately posed fashion pose.
+
+Her expression should carry the entire image: direct but gentle eye contact, relaxed confidence, a barely perceptible knowing smile, and the feeling that the camera captured her between moments. She should look effortlessly attractive without appearing aware of a photoshoot.
+
+The setting is a quiet, cozy room with a smooth warm beige-cream wall. Soft late-day sunlight enters from a nearby window, creating believable directional illumination, delicate shadows, and a subtle natural silhouette on the wall behind her. Include realistic ambient warmth, soft reflected light, gentle highlight transitions, fine knit-fabric detail, individual hair strands, and convincing depth separation.
+
+Visual & Camera Direction
+
+The final image should resemble an exceptional candid photograph captured on a premium flagship smartphone, blended with the restraint and sophistication of a high-end editorial portrait. Natural 50mm-equivalent perspective, shallow f/1.8-style depth of field, extremely crisp eyes with gradual falloff across the face and hair, softly defocused background, accurate skin color, restrained neutral tones, subtle sensor grain, high dynamic range, and smooth highlight handling.
+
+Frame vertically at 3:4 in a close-medium composition. Position her face around the upper-third area while leaving tasteful breathing room around her. Preserve realistic proportions and perspective; avoid an exaggerated close-up or overly tight crop. The composition should feel spontaneous, intimate, elegant, and aesthetically addictive—the kind of image that looks like an unexpectedly perfect moment discovered on someone's camera roll.
+
+Prioritize authentic human texture over perfection: natural pores, fine facial detail, realistic hair behavior, physically believable clothing folds, accurate anatomy, lifelike hands, and convincing light interaction.
+```
+
+**来源：** [@Johnn](https://x.com/john_my07/status/2088548403387252990) | 2026-08-15
+
+---
+
+### 🎨 例 6231：Cinematic Film-Noir Male Portrait
+
+![Cinematic Film-Noir Male Portrait](../images/Cinematic%20Film-Noir%20Male%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic cinematic black-and-white portrait of a handsome young man with tousled wavy dark hair, subtle stubble, defined masculine facial features, and classic round black eyeglasses, {argument name="pose" default="seated in a luxurious dark leather armchair"}. He wears {argument name="outfit" default="a perfectly tailored black blazer over a black turtleneck"}, with one hand resting naturally near his neck and a sophisticated metal luxury wristwatch visible on his wrist. Calm, confident, slightly mysterious expression, looking directly toward the camera.
+
+{argument name="lighting style" default="Extremely low-key chiaroscuro lighting"}, a single narrow window light cutting diagonally across the scene and illuminating one side of his face while the other side falls into deep shadow. Strong geometric light and shadow patterns on the textured wall, deep blacks, crisp highlights, rich monochrome tonal range, subtle analog film grain, realistic skin pores, detailed hair strands, natural facial proportions, soft background falloff, dark elegant interior, intimate luxury editorial mood, timeless film-noir aesthetic. Shot on a full-frame professional camera with an 85mm lens, shallow depth of field, cinematic composition, high contrast, photorealistic, refined photographic texture, vertical 4:5 composition, no color, no text, no watermark.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2088525665952014417) | 2026-08-15
+
+---
+
+### 🎨 例 6232：Multi-Pose Wavy Dark Hair Portrait
+
+![Multi-Pose Wavy Dark Hair Portrait](../images/Multi-Pose%20Wavy%20Dark%20Hair%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic fashion portrait using the reference image as the exact identity source. Preserve facial features, proportions, skin tone, asymmetry, and natural skin texture without retouching or beautification.
+
+{argument name="poses" default="Three vertically stacked smartphone-photo frames"} of a young woman with {argument name="hair style" default="long, voluminous dark-brown wavy hair"} resting on a plush white bed:
+
+Top: Chin resting on one hand, looking at camera with a gentle smile.
+
+Middle: Soft profile, looking away and smiling, hair flowing across face and shoulder.
+
+Bottom: Cheek on hand, playful wink with an affectionate smile.
+
+{argument name="outfit" default="Minimal black thin-strap top"}, natural makeup, soft brows, pink lips, flushed cheeks. Bright minimalist bedroom, white bedding/walls, sheer curtain, dark-grey headboard. Soft natural morning side-light, realistic smartphone exposure, wide-angle selfie perspective, crisp facial focus, photorealistic, unedited, natural pores.
+
+Negative: CGI, 3D, cartoon, anime, deformed eyes, extra limbs, blur, heavy makeup, plastic/smooth skin, oversaturation, filters, harsh shadows, low resolution, bad anatomy.
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2088523465263366283) | 2026-08-15
+
+---
+
+### 🎨 例 6238：Candid East Asian Street Photography
+
+![Candid East Asian Street Photography](../images/Candid%20East%20Asian%20Street%20Photography.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic candid outdoor smartphone photograph of a {argument name="subject" default="young East Asian woman"} standing {argument name="setting" default="beside a textured light-gray concrete wall"} on a bright sunny day. She has shoulder-length straight light-brown hair with soft wispy bangs, naturally glowing fair skin, subtle makeup, delicate features, and a calm slightly playful expression as she looks over her shoulder directly toward the camera. She is wearing a {argument name="outfit" default="fitted light-gray ribbed sleeveless top"} and carrying a large structured brown-and-beige leather tote bag over her shoulder. She holds a black smartphone casually in both hands as if she has just paused while walking. Strong natural midday sunlight creates realistic highlights and soft shadows across her face and clothing, with a clear blue sky and green tree foliage visible above the wall. Side-profile three-quarter composition, close-to-medium framing, natural body proportions, authentic street-style photography, handheld phone-camera aesthetic, slightly wide-angle lens, realistic skin texture, subtle imperfections, crisp hair details, natural colors, high dynamic range, photorealistic 4K quality, spontaneous everyday moment.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2088486774674698492) | 2026-08-15
+
+---
+
+### 🎨 例 6240：Miniature Man on Car Dashboard
+
+![Miniature Man on Car Dashboard](../images/Miniature%20Man%20on%20Car%20Dashboard.jpg)
+
+**Prompt:**
+
+```text
+Create a surreal realistic forced-perspective photo of a miniature young man sitting on the textured black dashboard of a car, as if he is tiny but physically present inside the vehicle. He is centered in the frame, seated casually on the dashboard edge above the car’s center console, one knee raised and one leg hanging down, holding a takeaway coffee cup in his right hand. He has short dark wavy hair, a clean-shaven face, and a calm slightly serious expression, looking directly at the camera. Dress him in a burgundy overshirt worn open over a black T-shirt, tan cuffed chinos, and clean white sneakers. The lower half of the image shows the car interior in sharp detail: black leather-grain dashboard, glossy black console, left air vent, physical buttons labeled RADIO, MEDIA, SEEK TRACK, a red hazard triangle button, a volume knob, and a digital infotainment display showing 07:15 AM, 22°C, Friday, May 10, and FM 101.0. Through the windshield, show a wide urban boulevard at golden hour with exactly 5 visible cars on the road, palm trees along the sides, tall apartment buildings in soft blur, two tall streetlights, and the sun low near the right horizon casting warm orange light and reflections on the road. Use cinematic shallow depth of field, photorealistic lighting, warm sunset color grading, realistic shadows under the tiny person, slight windshield perspective, vertical 2:3 composition, no extra text beyond the car display and console labels.
+```
+
+**来源：** [@Nomi AI](https://x.com/AiwithNomi/status/2088480187369574660) | 2026-08-15
+
+---
+
+### 🎨 例 6243：Surreal Fantasy Floating Window Portrait
+
+![Surreal Fantasy Floating Window Portrait](../images/Surreal%20Fantasy%20Floating%20Window%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic surreal fantasy portrait, 9:16 vertical composition, use the uploaded image as the primary facial reference with maximum face consistency. Create a young adult woman leaning naturally through an old weathered {argument name="window color" default="blue"} wooden window suspended high above a vast sea of clouds, wearing a flowing elegant {argument name="outfit" default="ivory-white lace-trimmed blouse"} with soft translucent sleeves. Scene: an isolated rustic window frame floating among massive soft clouds, both {argument name="window color" default="blue"} wooden shutters fully opened outward, heavily weathered paint with peeling textures, aged wood grain and rustic iron hinges; a warm vintage lantern glowing inside the window, while dense clusters of {argument name="flower colors" default="pink and white"} flowering vines grow across the lower sill and cascade freely downward into the clouds. Pose: her upper body leans gently forward through the open window, torso angled slightly sideways rather than facing the camera, shoulders turned naturally toward the right, one forearm resting comfortably on the wooden sill, the other arm relaxed beside it, head rotated slightly toward the glowing sunset with her face shown in a clear three-quarter side view, chin subtly raised, neck naturally elongated, hair falling freely over one shoulder and moving softly in the high-altitude breeze. Facial expression: peaceful, dreamy and contemplative, eyes gazing toward the distant horizon, relaxed eyebrows, softly parted lips, subtle sense of wonder and quiet emotion. Background: endless layered clouds surrounding the floating window, distant ocean far below visible through gaps in the clouds, enormous billowing cloud formations extending toward the horizon, dramatic sunset positioned on the right side of the frame, glowing sun just above the distant ocean horizon with a long golden reflection across the water. Lighting: warm golden sunset light entering from the right, illuminating the woman's side profile, hair edges, flowers and {argument name="window color" default="blue"} shutters with rich amber highlights, soft cool blue ambient light filling the opposite side, warm interior lantern glow behind her creating a subtle secondary illumination, volumetric sunlight filtering through the clouds, luminous atmospheric haze, strong depth between foreground window, woman, clouds and distant ocean. Her skin has a fair natural skin tone with a natural neutral-warm undertone, soft healthy glow, visible skin texture, fine pores, consistent face and body tone, photorealistic. Rich cobalt-{argument name="window color" default="blue"} weathered shutters, warm amber sunset, soft peach and coral clouds, delicate {argument name="flower colors" default="pink-white"} flowers, cinematic contrast, realistic wood and fabric texture, natural hair strands, atmospheric perspective, 35mm cinematic lens, deep environmental composition, premium fantasy-film aesthetic, extremely detailed, photorealistic 8K HDR, no text, no logo, no watermark.
+```
+
+**来源：** [@Laraib Fatima‎](https://x.com/AiwithLariab/status/2088472585768210635) | 2026-08-15
+
+---
+
+### 🎨 例 6244：Playful Cafe Candid Portrait
+
+![Playful Cafe Candid Portrait](../images/Playful%20Cafe%20Candid%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A cute candid indoor portrait of a {argument name="subject" default="young woman"} leaning toward the camera at a {argument name="setting" default="cozy modern café or restaurant"}. She has long, softly wavy dark-brown hair with a natural side part, and white chunky sunglasses resting on top of her head. She wears a relaxed oversized white T-shirt and poses playfully with both hands raised beside her cheeks, making a cute paw-like gesture.
+Her face has soft natural makeup, rosy cheeks, subtle eyeliner, and a gentle playful expression. Her fingernails feature colorful {argument name="nail art" default="pastel nail art with different cute designs"}. She wears delicate bracelets and minimal jewelry.
+The background shows a warm contemporary café interior with pale walls, recessed ceiling lights, modern air-conditioning units, wooden furniture, and a decorative hanging chandelier. Soft indoor lighting, slightly dreamy smartphone photography, natural skin texture, warm muted tones, shallow depth of field, candid youthful aesthetic, high detail, vertical portrait composition, 4:5 aspect ratio.
+```
+
+**来源：** [@Aqsa](https://x.com/Aqsahere_/status/2088468704593875017) | 2026-08-15
+
+---
+
+### 🎨 例 6245：Realistic Elevator Mirror Selfie
+
+![Realistic Elevator Mirror Selfie](../images/Realistic%20Elevator%20Mirror%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+Create a hyper-realistic full-length mirror selfie of a clearly adult woman, maintaining her exact facial identity, facial structure, proportions, skin tone, and natural asymmetry. She is standing inside {argument name="location" default="a sleek contemporary elevator with brushed-metal walls and subtle cool reflections"}. Her pose is relaxed and sophisticated: gently leaning against the elevator wall, one leg extended naturally while the other is bent with her foot resting lightly against the wall. She holds an iPhone close beside her cheek, while her free hand carries {argument name="accessories" default="a small bouquet of pink roses together with a white shopping bag"}.
+She wears {argument name="clothing" default="a fitted black mini dress beneath an oversized black blazer, elegant black strappy heels, a delicate necklace, and small hoop earrings"}. Keep makeup light and realistic. Use subdued overhead elevator lighting with cool metallic highlights and believable shadows. Capture authentic iPhone 15 Pro Max photography characteristics, including natural skin pores, subtle texture, realistic fabric detail, mild smartphone grain, accurate mirror reflections, and natural perspective. Vertical full-body composition, 9:16, sharp facial detail and clothing.
+Avoid identity changes, face beautification, artificial skin smoothing, extra fingers, malformed hands, duplicated people, duplicate reflections, distorted phone geometry, warped limbs, unrealistic reflections, CGI appearance, or plastic-looking skin.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2088468371939733646) | 2026-08-15
+
+---
+
+### 🎨 例 6246：Holographic Sci-Fi Operations Dashboard
+
+![Holographic Sci-Fi Operations Dashboard](../images/Holographic%20Sci-Fi%20Operations%20Dashboard.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic sci-fi product mockup of a futuristic operations dashboard titled {argument name="product title" default="HOLOGRAPHIC WORKBENCH"}, floating as a transparent neon-blue holographic screen above a dark control desk in a cyberpunk command center.
+
+Canvas: Wide 16:9 landscape interface screenshot, dark navy/black glassmorphism UI, glowing cyan borders, subtle scanlines, tiny grid texture, high detail, realistic GPT-image-2 style render, shallow depth of field with blurred server lights in the background. The interface should feel like a clickable prototype built on top of a beautiful concept render.
+
+Header: Top-left brand text reads “PARACORTEX TERMINAL” above the main title “HOLOGRAPHIC WORKBENCH” with the subtitle “Situational awareness across code, agents, and infrastructure.” Top-center metadata shows exactly 3 fields: Workspace “paracortex-core”, Session “pipin@paracortex.dev”, Time “09:42:17 UTC”. Top-right includes a small button labeled “SIMULATE EVENT” plus tiny gear, sync, and plus icons.
+
+Left navigation: A vertical glowing sidebar with exactly 8 icon navigation items labeled, from top to bottom: Overview, Pulse, Agents, Jobs, Traces, Infra, Config, Reports. At the lower left, include a small system status panel with Status “Operational”, Health “98.6%”, and Uptime “170 4H 23M”.
+
+Top metric row: Show exactly 6 stat cards across the top. Card 1: “PULSE SCORE” value “78” status “GOOD” with a small line graph. Card 2: “ACTIVE AGENTS” value “42 / 64” status “ONLINE”. Card 3: “RUNNING JOBS” value “124” status “+12.4%”. Card 4: “SYSTEM HEALTH” value “98.6%” status “NOMINAL”. Card 5: “EVENTS (24H)” value “1,284” status “+8.7%”. Card 6: “TRACES (24H)” value “4.7M” status “+23.1%”.
+
+Main layout: Beneath the metric row, create exactly 5 large vertical columns/cards. Column 1 is “NEEDS YOU” with badge count 3 and exactly 3 task cards: “Release blocked” with urgent red styling, “Schema change detected” with yellow approval styling, and “PR #402 open” with purple lifecycle styling. Column 2 is “IN MOTION” with badge count 4 and exactly 3 visible task cards: “Indexer lagging” as a red incident with small x20 badge and tiny bar chart, “Refactor batch running” with teal progress bar, and “Reconnected” with blue session recovered styling. Column 3 is “CHANGED” with badge count 6 and exactly 3 task cards: “v1.4.0 shipped”, “Indexer catching up” with mini bar chart, and “Agent config updated”. Column 4 is “CONDITIONS” with badge count 4 and exactly 3 task cards: “Telemetry not monitored”, “Message bus healthy”, and “Agent pool healthy”. Column 5 is a right-side “SELECTED CONTEXT” details panel focused on {argument name="selected incident" default="Indexer lagging"}, showing a red x20 badge, a red histogram, a vertical timeline with timestamps, and affected service chips.
+
+Selected context details: The right detail panel should include title “Indexer lagging”, subtext “Since 09:25 UTC (16m)” and “20 repositories behind”. Add a red bar chart labeled along the bottom with times around 09:00, 09:15, 09:30, 09:45. Timeline contains exactly 5 entries: “09:42 Lag threshold breached”, “09:37 Alert sent”, “09:36 Auto mitigation started”, “09:34 Partial recovery”, and “09:26 Incident opened”. Add a small button labeled “Investigate”. Affected services chips: “paracortex-core”, “port-1”, “port-indexer”, “port-agent”, “+15 more”.
+
+Bottom activity area: Add an “ACTIVITY TRACE” panel spanning the width under the main columns, labeled “Last 60 minutes”. Include a horizontal time-based trace with multicolored dots, small filter tabs exactly 6: “All”, “Events”, “Commits”, “Jobs”, “Agents”, “Alerts”. On the right of this panel, include a compact event list and a tiny legend with exactly 6 categories: Alerts, Changes, Jobs, Commits, Infra, Info.
+
+Foreground controls: At the bottom center, place a separate rounded glass status dock floating in front of the screen. It contains exactly 4 large counters matching the columns: “Needs you 3” in red, “In motion 4” in blue, “Changed 6” in teal, and “Conditions 4” in amber. In the center bottom of the dock, include a glowing purple-blue cube orb emblem.
+
+Color and style: Use neon cyan outlines, teal and electric blue glow, red for incidents, amber for warnings, purple for lifecycle/session items. UI panels are translucent dark glass with rounded corners. Text is small but mostly legible, technical, dense, and polished. Add subtle reflections on the desk, small physical knobs and screens at the bottom edge, and atmospheric blue light beams.
+
+Constraints: Keep all listed counts exact: 8 sidebar items, 6 top metric cards, 5 main columns, 15 total visible main task/detail cards if counting the right selected context panel, 6 filter tabs, 6 legend categories, and 4 dock counters. Do not add people. Do not use a flat white background. Avoid cartoon styling; make it look like a premium sci-fi SaaS dashboard prototype.
+```
+
+**来源：** [@RobIW](https://x.com/RobIW_dev/status/2088457959458136298) | 2026-08-15
+
+---
+
+### 🎨 例 6247：Low-Angle Rail Yard Fashion Portrait
+
+![Low-Angle Rail Yard Fashion Portrait](../images/Low-Angle%20Rail%20Yard%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a photorealistic low-angle outdoor fashion portrait of a young adult woman with {argument name="hair color" default="dark brown wavy hair"} sitting on gravel beside a weathered freight train covered in faded graffiti. She is centered in the frame, leaning slightly forward and looking directly at the camera with a relaxed soft smile. Use an exaggerated wide-angle perspective from ground level so her loose navy cargo pants dominate the foreground and taper toward her torso. Outfit: black knit beanie, white ribbed cropped tank top, navy baggy cargo pants, black leather belt with metal grommets and a round buckle, layered silver waist chains with small charms, black shoulder strap over one shoulder, long black arm warmer on one arm, and layered silver necklaces with a dark pendant. Background: the left side of the frame is filled by the rusty riveted metal side and undercarriage of a graffiti-covered railcar, while the right side opens to a clear vivid blue sky with distant industrial poles and tracks. Lighting: bright midday sunlight, crisp shadows, high contrast, natural skin texture, realistic fabric texture, sharp details on metal rivets and gravel. Camera style: vertical 3:4 composition, ultra-realistic street photography, 24mm wide-angle lens, shallow-to-moderate depth of field, vibrant but natural colors, no text, no watermark.
+```
+
+**来源：** [@Nailai7981](https://x.com/VIBEQUIRKLABS/status/2088449795874812077) | 2026-08-15
+
+---
+
+### 🎨 例 6250：Surreal Glitch Cyber-Organic Portrait
+
+![Surreal Glitch Cyber-Organic Portrait](../images/Surreal%20Glitch%20Cyber-Organic%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Tight frontal portrait of {argument name="subject" default="[Subject]"}, face filling most of the frame, direct gaze, clean pale or white background. {argument name="color scheme" default="Predominantly monochrome black-and-white"} rendering with high editorial contrast, fine photographic texture, and ultra-detailed skin, hair, and material surfaces. One side of the portrait is interrupted by a sharp vertical rupture or glitch seam, revealing {argument name="accent colors" default="vivid fluorescent liquid color, acid magenta, cyan, electric green, orange, and violet"}, flowing like molten holographic marbling. One eye glows intensely with concentric neon rings. Geometric glyphs, nested square motifs, pixel fragments, and subtle biomechanical textures spread across the forehead, temple, cheek, and neck. Cyber-organic surrealism, sleek but unsettling, asymmetrical interference within an otherwise balanced composition.
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2088436460902822045) | 2026-08-15
+
+---
+
+### 🎨 例 6251：New Chinese Style Editorial Portrait
+
+![New Chinese Style Editorial Portrait](../images/New%20Chinese%20Style%20Editorial%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+A refined {argument name="style" default="New Chinese-style"} editorial portrait that blends timeless elegance with modern luxury, and {argument name="lighting" default="soft studio lighting"}.
+```
+
+**来源：** [@혼돈의 여왕 Sinaz AS 🍑](https://x.com/ChaosQueen_PC/status/2088434502188368362) | 2026-08-15
+
+---
+
+### 🎨 例 6252：Pakistani Man with Luxury BMW
+
+![Pakistani Man with Luxury BMW](../images/Pakistani%20Man%20with%20Luxury%20BMW.jpg)
+
+**Prompt:**
+
+```text
+Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture.\nA stylish young {argument name="ethnicity" default="Pakistani man"} leaning casually against a {argument name="car" default="blue BMW X5 M"}, wearing a black traditional Kurta Shalwar with a mandarin collar, brown leather loafers, black sunglasses, and a black smartwatch. Pose: one leg bent against the car, hands clasped in front, confident attitude, looking away from camera. Background: {argument name="setting" default="open road or parking area"}, blurred cityscape, bright daylight, cinematic lighting, luxury
+```
+
+**来源：** [@Dilshad Hussain](https://x.com/DilshadAI1/status/2088432846683910481) | 2026-08-15
+
+---
+
+### 🎨 例 6254：Hamster Japanese Summer Card
+
+![Hamster Japanese Summer Card](../images/Hamster%20Japanese%20Summer%20Card.jpg)
+
+**Prompt:**
+
+```text
+Create a nostalgic Japanese summer greeting-card illustration in a traditional ukiyo-e / shin-hanga watercolor style. The scene shows one adorable realistic hamster as the central subject, standing on a shaded wooden veranda by the sea, wearing a wide straw hat with a blue ribbon and holding a clear blue glass ramune soda bottle with the label “ラムネ” and smaller text “冷やしの味”. The hamster has warm golden-brown and cream fur, glossy black eyes, tiny pink nose, small open smiling mouth, and soft detailed whiskers. Behind it is a bright summer beach landscape with turquoise ocean waves, sandy shore, one small white sailboat, distant green hills, and a seaside town with tiny houses. Frame the top with dark bamboo blinds and hanging cords, and place a glass wind chime at upper left containing exactly two orange goldfish; below it hangs a rectangular paper strip reading “涼風至”. Include exactly two main morning glory flower clusters in the foreground, one at lower left with blue and purple blossoms and one at lower right near a folded paper fan with floral patterns. Add a wooden sign on the right reading “名勝 海水浴場”, and a vertical label at bottom left reading “日本の夏”. In the sky area, write vertical calligraphy “暑中お見舞い申し上げます” with a small red smiling sun doodle nearby and a red seal stamp containing “大正十五年 夏”. Use aged cream paper texture, faded ink, visible grain, rough deckle border, muted vintage colors, soft natural light, and delicate hand-painted linework. Keep the composition square, cozy, whimsical, and authentically Japanese, with all text integrated as hand-brushed calligraphy and no modern objects besides the retro soda bottle.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088422378342891908) | 2026-08-15
+
+---
+
+### 🎨 例 6255：Art Nouveau Hamster Summer Vacation
+
+![Art Nouveau Hamster Summer Vacation](../images/Art%20Nouveau%20Hamster%20Summer%20Vacation.jpg)
+
+**Prompt:**
+
+```text
+Create an ornate Art Nouveau stained-glass illustration of a cute golden-and-white hamster enjoying summer vacation by the sea. The hamster sits in the lower center foreground with glossy black eyes, tiny pink nose, rounded ears, soft fur, and small paws holding a translucent turquoise glass bottle with bubbles and water highlights. Surround it with summer plants and seaside objects: exactly 2 large sunflowers on the right side, exactly 3 large morning glory flowers in the lower left and lower center in blue and purple tones, exactly 1 wide straw sun hat with a deep blue ribbon behind the hamster, exactly 1 dangling glass wind chime near the upper right, and exactly 4 small white sailboats on the ocean in the background. The background shows a bright turquoise-blue ocean with foamy waves, distant green coastline, and towering white cumulus clouds under a vivid summer sky. Frame the whole scene inside an intricate stained-glass window composition with arched golden leading lines, circular moonlike glass ornaments, swirling wave motifs, jewel-toned blue, teal, amber, lavender, and cream glass panels, metallic gold outlines, and a thin dark outer border. Use rich hand-painted texture, luminous translucent glass effects, fine decorative linework, warm sunlight, high detail, whimsical storybook charm, and a vertical poster composition. No text, no watermark, no modern objects except the glass bottle.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088421961869545666) | 2026-08-15
+
+---
+

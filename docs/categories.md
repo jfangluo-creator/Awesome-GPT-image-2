@@ -897,6 +897,26 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6166：Woman Listening to Music by Window](cat-ui.md#️-例-6166woman-listening-to-music-by-window)
 
 - [例 6186：Natural Light Portrait Template](cat-ui.md#️-例-6186natural-light-portrait-template)
+
+- [例 6206：Dax Cinematic Character Bible Sheet](cat-ui.md#️-例-6206dax-cinematic-character-bible-sheet)
+
+- [例 6207：Vintage Watercolor City Poster](cat-ui.md#️-例-6207vintage-watercolor-city-poster)
+
+- [例 6211：AI Image Realism Comparison](cat-ui.md#️-例-6211ai-image-realism-comparison)
+
+- [例 6213：Monochrome Summer Manga Walk](cat-ui.md#️-例-6213monochrome-summer-manga-walk)
+
+- [例 6225：Luxury Skincare Fashion Editorial Poster](cat-ui.md#️-例-6225luxury-skincare-fashion-editorial-poster)
+
+- [例 6236：Romantic Cafe Lifestyle Photo](cat-ui.md#️-例-6236romantic-cafe-lifestyle-photo)
+
+- [例 6237：Golden Hour Studio Portrait](cat-ui.md#️-例-6237golden-hour-studio-portrait)
+
+- [例 6239：High Angle Quiet Luxury Portrait](cat-ui.md#️-例-6239high-angle-quiet-luxury-portrait)
+
+- [例 6248：Vogue Style Editorial Magazine Cover](cat-ui.md#️-例-6248vogue-style-editorial-magazine-cover)
+
+- [例 6249：Anime Fan Club Member Card](cat-ui.md#️-例-6249anime-fan-club-member-card)
 ---
 
 <a id="chart"></a>
@@ -2677,6 +2697,12 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6091：Urban Fashion Advertising Poster](cat-poster.md#-例-6091urban-fashion-advertising-poster)
 
 - [例 6188：CAVN GPT Image 2 Launch Poster](cat-poster.md#-例-6188cavn-gpt-image-2-launch-poster)
+
+- [例 6233：Luxury Desert Air Conditioner Advertisement](cat-poster.md#-例-6233luxury-desert-air-conditioner-advertisement)
+
+- [例 6235：Smartphone Livestream Peacock Poster](cat-poster.md#-例-6235smartphone-livestream-peacock-poster)
+
+- [例 6253：Retro Geometric Future Culture Poster](cat-poster.md#-例-6253retro-geometric-future-culture-poster)
 ---
 
 <a id="photo"></a>
@@ -7263,6 +7289,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6003：Night Train Snapshot](cat-photo.md#-例-6003night-train-snapshot)
 
 - [例 6021：Flower Bouquet and Bicep Flex](cat-photo.md#-例-6021flower-bouquet-and-bicep-flex)
+
+- [例 6216：Dreamy Japanese Movie Portrait](cat-photo.md#-例-6216dreamy-japanese-movie-portrait)
 ---
 
 <a id="illustration"></a>
@@ -8848,6 +8876,72 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6185：Miniature Woman Coffee Commercial](cat-illustration.md#-例-6185miniature-woman-coffee-commercial)
 
 - [例 6187：Serene Mid-Autumn Lantern Poster](cat-illustration.md#-例-6187serene-mid-autumn-lantern-poster)
+
+- [例 6193：Multi-Style Cat Lifeguard Prompts](cat-illustration.md#-例-6193multi-style-cat-lifeguard-prompts)
+
+- [例 6195：Realistic Black and White Male Portrait](cat-illustration.md#-例-6195realistic-black-and-white-male-portrait)
+
+- [例 6196：High Fidelity Identity Portrait](cat-illustration.md#-例-6196high-fidelity-identity-portrait)
+
+- [例 6199：Egyptian Moon Priestess Ritual](cat-illustration.md#-例-6199egyptian-moon-priestess-ritual)
+
+- [例 6200：Egyptian Black Cat Goddess](cat-illustration.md#-例-6200egyptian-black-cat-goddess)
+
+- [例 6201：Marsh Shaman Demigod](cat-illustration.md#-例-6201marsh-shaman-demigod)
+
+- [例 6202：Midsummer Forest Ritual](cat-illustration.md#-例-6202midsummer-forest-ritual)
+
+- [例 6204：Indian Woman Golden Hour Story Triptych](cat-illustration.md#-例-6204indian-woman-golden-hour-story-triptych)
+
+- [例 6209：High-End Fashion Editorial Portrait](cat-illustration.md#-例-6209high-end-fashion-editorial-portrait)
+
+- [例 6210：Three Anime Schoolgirls Walking](cat-illustration.md#-例-6210three-anime-schoolgirls-walking)
+
+- [例 6218：Watercolor Cherry Blossom Anime Scene](cat-illustration.md#-例-6218watercolor-cherry-blossom-anime-scene)
+
+- [例 6219：Realistic Unaju Grilled Eel Box](cat-illustration.md#-例-6219realistic-unaju-grilled-eel-box)
+
+- [例 6220：Natural Face Realism Modifier](cat-illustration.md#-例-6220natural-face-realism-modifier)
+
+- [例 6222：Sad Germany Football Cat](cat-illustration.md#-例-6222sad-germany-football-cat)
+
+- [例 6223：Street Photography Reaction Set](cat-illustration.md#-例-6223street-photography-reaction-set)
+
+- [例 6227：Overhead Pepperoni Pizza Photo](cat-illustration.md#-例-6227overhead-pepperoni-pizza-photo)
+
+- [例 6228：Fashion Studio Portrait with Blue Rim Lighting](cat-illustration.md#-例-6228fashion-studio-portrait-with-blue-rim-lighting)
+
+- [例 6229：Greyscale Puzzle Portrait with Color Accent](cat-illustration.md#-例-6229greyscale-puzzle-portrait-with-color-accent)
+
+- [例 6230：Authentic Candid East Asian Portrait](cat-illustration.md#-例-6230authentic-candid-east-asian-portrait)
+
+- [例 6231：Cinematic Film-Noir Male Portrait](cat-illustration.md#-例-6231cinematic-film-noir-male-portrait)
+
+- [例 6232：Multi-Pose Wavy Dark Hair Portrait](cat-illustration.md#-例-6232multi-pose-wavy-dark-hair-portrait)
+
+- [例 6238：Candid East Asian Street Photography](cat-illustration.md#-例-6238candid-east-asian-street-photography)
+
+- [例 6240：Miniature Man on Car Dashboard](cat-illustration.md#-例-6240miniature-man-on-car-dashboard)
+
+- [例 6243：Surreal Fantasy Floating Window Portrait](cat-illustration.md#-例-6243surreal-fantasy-floating-window-portrait)
+
+- [例 6244：Playful Cafe Candid Portrait](cat-illustration.md#-例-6244playful-cafe-candid-portrait)
+
+- [例 6245：Realistic Elevator Mirror Selfie](cat-illustration.md#-例-6245realistic-elevator-mirror-selfie)
+
+- [例 6246：Holographic Sci-Fi Operations Dashboard](cat-illustration.md#-例-6246holographic-sci-fi-operations-dashboard)
+
+- [例 6247：Low-Angle Rail Yard Fashion Portrait](cat-illustration.md#-例-6247low-angle-rail-yard-fashion-portrait)
+
+- [例 6250：Surreal Glitch Cyber-Organic Portrait](cat-illustration.md#-例-6250surreal-glitch-cyber-organic-portrait)
+
+- [例 6251：New Chinese Style Editorial Portrait](cat-illustration.md#-例-6251new-chinese-style-editorial-portrait)
+
+- [例 6252：Pakistani Man with Luxury BMW](cat-illustration.md#-例-6252pakistani-man-with-luxury-bmw)
+
+- [例 6254：Hamster Japanese Summer Card](cat-illustration.md#-例-6254hamster-japanese-summer-card)
+
+- [例 6255：Art Nouveau Hamster Summer Vacation](cat-illustration.md#-例-6255art-nouveau-hamster-summer-vacation)
 ---
 
 <a id="character"></a>
@@ -9794,6 +9888,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 6175：London Papercraft and Clay Diorama](cat-3d.md#-例-6175london-papercraft-and-clay-diorama)
 
 - [例 6176：Glossy Designer Toy Floating Head](cat-3d.md#-例-6176glossy-designer-toy-floating-head)
+
+- [例 6221：Tiny Man vs Giant Ant Scoreboard Scene](cat-3d.md#-例-6221tiny-man-vs-giant-ant-scoreboard-scene)
 ---
 
 <a id="architecture"></a>
@@ -10118,6 +10214,8 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5765：Minimalist Business Exhibition Poster](cat-architecture.md#️-例-5765minimalist-business-exhibition-poster)
 
 - [例 6154：Surreal Summer Fashion Photography](cat-architecture.md#️-例-6154surreal-summer-fashion-photography)
+
+- [例 6224：Celestial Moonlit Palace Scene](cat-architecture.md#️-例-6224celestial-moonlit-palace-scene)
 ---
 
 <a id="comic"></a>
@@ -11939,6 +12037,38 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 6190：Melancholy Mid-Autumn Burden Poster](cat-brand.md#️-例-6190melancholy-mid-autumn-burden-poster)
 
 - [例 6191：Person Lying Parallel on Sofa](cat-brand.md#️-例-6191person-lying-parallel-on-sofa)
+
+- [例 6192：Anime Cadet Night Search Scene](cat-brand.md#️-例-6192anime-cadet-night-search-scene)
+
+- [例 6194：Rugged Desert Fashion Collage](cat-brand.md#️-例-6194rugged-desert-fashion-collage)
+
+- [例 6197：Rats Police Fashion Editorial](cat-brand.md#️-例-6197rats-police-fashion-editorial)
+
+- [例 6198：Spotify Miniature Car Ad Scene](cat-brand.md#️-例-6198spotify-miniature-car-ad-scene)
+
+- [例 6203：Natural Restaurant Meal Regeneration](cat-brand.md#️-例-6203natural-restaurant-meal-regeneration)
+
+- [例 6205：Realistic Beach Lifestyle Portrait](cat-brand.md#️-例-6205realistic-beach-lifestyle-portrait)
+
+- [例 6208：Luxury Seafood Advertising Poster](cat-brand.md#️-例-6208luxury-seafood-advertising-poster)
+
+- [例 6212：Comic Photographer Portal Action Scene](cat-brand.md#️-例-6212comic-photographer-portal-action-scene)
+
+- [例 6214：Cleaning Product Commerical with Doodle Art](cat-brand.md#️-例-6214cleaning-product-commerical-with-doodle-art)
+
+- [例 6215：Android Quantum Lab Workstation](cat-brand.md#️-例-6215android-quantum-lab-workstation)
+
+- [例 6217：The Painter Who Finished the Sky](cat-brand.md#️-例-6217the-painter-who-finished-the-sky)
+
+- [例 6226：Vintage Paper Collage Travel Poster](cat-brand.md#️-例-6226vintage-paper-collage-travel-poster)
+
+- [例 6234：Crispy Chicken Burger Product Photo](cat-brand.md#️-例-6234crispy-chicken-burger-product-photo)
+
+- [例 6241：Cinematic Urban Elevator Portrait](cat-brand.md#️-例-6241cinematic-urban-elevator-portrait)
+
+- [例 6242：Spring Editorial Fashion Collage](cat-brand.md#️-例-6242spring-editorial-fashion-collage)
+
+- [例 6256：Anime Cyclists at Forest Waterfall](cat-brand.md#️-例-6256anime-cyclists-at-forest-waterfall)
 ---
 
 <a id="edit"></a>

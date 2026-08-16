@@ -7130,3 +7130,17 @@ Create a premium glossy 3D designer toy render of a single floating head of a ch
 
 ---
 
+### 🧸 例 6221：Tiny Man vs Giant Ant Scoreboard Scene
+
+![Tiny Man vs Giant Ant Scoreboard Scene](../images/Tiny%20Man%20vs%20Giant%20Ant%20Scoreboard%20Scene.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic vertical 3D cartoon scene on a realistic forest floor, framed like a mobile video still. In the center foreground, show one cute miniature bearded man, {argument name="character name" default="Montaser"}, with an oversized caricature head and worried expression, standing stiffly with arms slightly out while trapped in a large white spider web behind him. He has short dark brown hair, a trimmed beard, raised sad eyebrows, and big anxious eyes. Dress him in exactly four main outfit pieces: a dark denim jacket, a gray T-shirt, black pants, and white sneakers. To his right, show one giant glossy black cartoon ant with large expressive eyes, two antennae, six thin legs, and bent forearms, leaning toward him with a curious intimidating look. Behind them, the spider web radiates clearly across green leaves and stems. At the top center, add a game-style scoreboard overlay: a dark rounded rectangle with exactly two circular avatar icons, the left icon showing the man on a blue background, the right icon showing the ant on an orange background, and large white score text {argument name="score text" default="2 - 1"} between them. The environment is a macro-scale forest floor with dirt, small pebbles, tiny plants, blurred green foliage, warm daylight, shallow depth of field, and cinematic bokeh. Use polished Pixar-like 3D rendering, soft realistic lighting, detailed textures, playful comedy tension, and a vertical 9:16 composition. Add a small white stylized logo watermark at the bottom right reading {argument name="watermark text" default="MONTASER"}.
+```
+
+**来源：** [@Arzoo Ai](https://x.com/Arzoo12sh/status/2088581507560669207) | 2026-08-15
+
+---
+
