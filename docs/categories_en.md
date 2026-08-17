@@ -6,7 +6,7 @@
 
 <a id="ui"></a>
 
-## 🖥️ [UI & Digital Interfaces](cat-ui.md) (462)
+## 🖥️ [UI & Digital Interfaces](cat-ui.md) (468)
 
 App interfaces, web pages, dashboards, social media screenshots, game UI, streaming overlays.
 
@@ -917,6 +917,18 @@ App interfaces, web pages, dashboards, social media screenshots, game UI, stream
 - [Case 6248: Vogue Style Editorial Magazine Cover](cat-ui.md#️-例-6248vogue-style-editorial-magazine-cover)
 
 - [Case 6249: Anime Fan Club Member Card](cat-ui.md#️-例-6249anime-fan-club-member-card)
+
+- [Case 6264: Tiny Safari Explorer With Giant Lion](cat-ui.md#️-例-6264tiny-safari-explorer-with-giant-lion)
+
+- [Case 6276: Museum Poster Design Template](cat-ui.md#️-例-6276museum-poster-design-template)
+
+- [Case 6283: Silver Elf in Crimson Water](cat-ui.md#️-例-6283silver-elf-in-crimson-water)
+
+- [Case 6291: Schoolgirls Riding Bicycles](cat-ui.md#️-例-6291schoolgirls-riding-bicycles)
+
+- [Case 6312: Mediterranean Low Tide Harbor](cat-ui.md#️-例-6312mediterranean-low-tide-harbor)
+
+- [Case 6315: Gothic Raven Fashion Portrait](cat-ui.md#️-例-6315gothic-raven-fashion-portrait)
 ---
 
 <a id="chart"></a>
@@ -2707,7 +2719,7 @@ Movie posters, event posters, tarot cards, trading cards, newspaper headlines, q
 
 <a id="photo"></a>
 
-## 📷 [Photography & Realistic](cat-photo.md) (2325)
+## 📷 [Photography & Realistic](cat-photo.md) (2327)
 
 Portraits, street photography, product photography, food photography, ID photos, vintage film style.
 
@@ -7291,11 +7303,15 @@ Portraits, street photography, product photography, food photography, ID photos,
 - [Case 6021: Flower Bouquet and Bicep Flex](cat-photo.md#-例-6021flower-bouquet-and-bicep-flex)
 
 - [Case 6216: Dreamy Japanese Movie Portrait](cat-photo.md#-例-6216dreamy-japanese-movie-portrait)
+
+- [Case 6258: Hyper-realistic Smartphone Triple Frame Portrait](cat-photo.md#-例-6258hyper-realistic-smartphone-triple-frame-portrait)
+
+- [Case 6268: Ancient Chinese Aesthetic Portrait](cat-photo.md#-例-6268ancient-chinese-aesthetic-portrait)
 ---
 
 <a id="illustration"></a>
 
-## 🎨 [Illustration & Art](cat-illustration.md) (829)
+## 🎨 [Illustration & Art](cat-illustration.md) (868)
 
 Digital illustration, concept art, ink painting, oil painting, sketching, material sphere rendering, holographic wireframes.
 
@@ -8939,6 +8955,84 @@ Digital illustration, concept art, ink painting, oil painting, sketching, materi
 - [Case 6254: Hamster Japanese Summer Card](cat-illustration.md#-例-6254hamster-japanese-summer-card)
 
 - [Case 6255: Art Nouveau Hamster Summer Vacation](cat-illustration.md#-例-6255art-nouveau-hamster-summer-vacation)
+
+- [Case 6261: Luxury Advertising Brand Poster](cat-illustration.md#-例-6261luxury-advertising-brand-poster)
+
+- [Case 6262: White Wing Nurse Cafe Portrait](cat-illustration.md#-例-6262white-wing-nurse-cafe-portrait)
+
+- [Case 6263: Robotic Woman Home Nuclear Reactor Ad](cat-illustration.md#-例-6263robotic-woman-home-nuclear-reactor-ad)
+
+- [Case 6265: Casual Girl at Convenience Store](cat-illustration.md#-例-6265casual-girl-at-convenience-store)
+
+- [Case 6266: Frozen Waterfall Sunlit Crystal Landscape](cat-illustration.md#-例-6266frozen-waterfall-sunlit-crystal-landscape)
+
+- [Case 6267: Luxury Studio Korean Fashion Portrait](cat-illustration.md#-例-6267luxury-studio-korean-fashion-portrait)
+
+- [Case 6269: Handmade Miniature Diorama of Japan](cat-illustration.md#-例-6269handmade-miniature-diorama-of-japan)
+
+- [Case 6270: Cinematic Winter Cabin Solitude](cat-illustration.md#-例-6270cinematic-winter-cabin-solitude)
+
+- [Case 6271: Golden Hour City Portrait](cat-illustration.md#-例-6271golden-hour-city-portrait)
+
+- [Case 6272: Cozy Cafe Window Portrait](cat-illustration.md#-例-6272cozy-cafe-window-portrait)
+
+- [Case 6273: Monochrome Manga Female Knight](cat-illustration.md#-例-6273monochrome-manga-female-knight)
+
+- [Case 6274: Elegant Profile Portrait in Blue Blazer](cat-illustration.md#-例-6274elegant-profile-portrait-in-blue-blazer)
+
+- [Case 6275: Martial Arts Legend Character Bible Sheet](cat-illustration.md#-例-6275martial-arts-legend-character-bible-sheet)
+
+- [Case 6277: Retro Taiwan Travel Collage Poster](cat-illustration.md#-例-6277retro-taiwan-travel-collage-poster)
+
+- [Case 6282: MPD Robot Assembly Bay](cat-illustration.md#-例-6282mpd-robot-assembly-bay)
+
+- [Case 6284: Twitter Papercraft Motorcycle City](cat-illustration.md#-例-6284twitter-papercraft-motorcycle-city)
+
+- [Case 6285: GPT Image 2 Reference Tutorial Banner](cat-illustration.md#-例-6285gpt-image-2-reference-tutorial-banner)
+
+- [Case 6286: Rainbow Halo Editorial Portrait](cat-illustration.md#-例-6286rainbow-halo-editorial-portrait)
+
+- [Case 6287: Antique Cabinet Ball-Jointed Doll](cat-illustration.md#-例-6287antique-cabinet-ball-jointed-doll)
+
+- [Case 6288: Chiaroscuro Silk Robe Portrait](cat-illustration.md#-例-6288chiaroscuro-silk-robe-portrait)
+
+- [Case 6290: Cyberpunk Treadmill Fashion Editorial](cat-illustration.md#-例-6290cyberpunk-treadmill-fashion-editorial)
+
+- [Case 6295: Taped Anime Ramen Festival Poster](cat-illustration.md#-例-6295taped-anime-ramen-festival-poster)
+
+- [Case 6296: Stylized Editorial Illustration Grid](cat-illustration.md#-例-6296stylized-editorial-illustration-grid)
+
+- [Case 6297: Miniature Man on Giant Latte Mug](cat-illustration.md#-例-6297miniature-man-on-giant-latte-mug)
+
+- [Case 6298: Anime Girl on Garden Bench](cat-illustration.md#-例-6298anime-girl-on-garden-bench)
+
+- [Case 6300: Cinematic Sci-Fi Containment Pod](cat-illustration.md#-例-6300cinematic-sci-fi-containment-pod)
+
+- [Case 6301: Woman and White Horse Serene Portrait](cat-illustration.md#-例-6301woman-and-white-horse-serene-portrait)
+
+- [Case 6302: Anime Rockabilly Diner Girl](cat-illustration.md#-例-6302anime-rockabilly-diner-girl)
+
+- [Case 6304: Sleepy Pink-Haired Chibi Girl](cat-illustration.md#-例-6304sleepy-pink-haired-chibi-girl)
+
+- [Case 6305: Cinematic Male Portrait in Knit Sweater](cat-illustration.md#-例-6305cinematic-male-portrait-in-knit-sweater)
+
+- [Case 6307: Grainy CCTV Woman With Hand Cart](cat-illustration.md#-例-6307grainy-cctv-woman-with-hand-cart)
+
+- [Case 6309: Elegant Pink Hijab Fashion Mirror Selfie](cat-illustration.md#-例-6309elegant-pink-hijab-fashion-mirror-selfie)
+
+- [Case 6310: Man Entering Classical Oil Painting](cat-illustration.md#-例-6310man-entering-classical-oil-painting)
+
+- [Case 6311: Woman Sitting in Pearl Shell](cat-illustration.md#-例-6311woman-sitting-in-pearl-shell)
+
+- [Case 6313: Song Dynasty Enamel Badges](cat-illustration.md#-例-6313song-dynasty-enamel-badges)
+
+- [Case 6317: Cosmic Jellyfish Subway Children](cat-illustration.md#-例-6317cosmic-jellyfish-subway-children)
+
+- [Case 6318: Retro Manga Desert Radio Observatory](cat-illustration.md#-例-6318retro-manga-desert-radio-observatory)
+
+- [Case 6319: Female Clown Cyborg Cyberpunk Portrait](cat-illustration.md#-例-6319female-clown-cyborg-cyberpunk-portrait)
+
+- [Case 6320: Imperial Research Bunker on Volcanic Planet](cat-illustration.md#-例-6320imperial-research-bunker-on-volcanic-planet)
 ---
 
 <a id="character"></a>
@@ -9325,7 +9419,7 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 
 <a id="3d"></a>
 
-## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (287)
+## 🧸 [3D Objects & Miniature Worlds](cat-3d.md) (290)
 
 Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass bottle souvenirs, plush toys.
 
@@ -9887,11 +9981,17 @@ Action figures, Gundam models, LEGO minifigures, dioramas, claw machines, glass 
 - [Case 6176: Glossy Designer Toy Floating Head](cat-3d.md#-例-6176glossy-designer-toy-floating-head)
 
 - [Case 6221: Tiny Man vs Giant Ant Scoreboard Scene](cat-3d.md#-例-6221tiny-man-vs-giant-ant-scoreboard-scene)
+
+- [Case 6279: Tiny Adventurer Giant Insect Collage](cat-3d.md#-例-6279tiny-adventurer-giant-insect-collage)
+
+- [Case 6280: Minimalist 3D Surreal Product Ad](cat-3d.md#-例-6280minimalist-3d-surreal-product-ad)
+
+- [Case 6281: Surreal 3D Chess Match Artwork](cat-3d.md#-例-6281surreal-3d-chess-match-artwork)
 ---
 
 <a id="architecture"></a>
 
-## 🏛️ [Architecture & Space](cat-architecture.md) (165)
+## 🏛️ [Architecture & Space](cat-architecture.md) (166)
 
 Interior design, architectural renders, floor plan to 3D, isometric buildings, exhibition spaces, theme parks.
 
@@ -10213,6 +10313,8 @@ Interior design, architectural renders, floor plan to 3D, isometric buildings, e
 - [Case 6154: Surreal Summer Fashion Photography](cat-architecture.md#️-例-6154surreal-summer-fashion-photography)
 
 - [Case 6224: Celestial Moonlit Palace Scene](cat-architecture.md#️-例-6224celestial-moonlit-palace-scene)
+
+- [Case 6278: Minimalist Bedroom Body Detail Photography](cat-architecture.md#️-例-6278minimalist-bedroom-body-detail-photography)
 ---
 
 <a id="comic"></a>
@@ -10663,7 +10765,7 @@ Multi-panel comics, manga style conversion, film storyboards, storyboards, narra
 
 <a id="brand"></a>
 
-## 🏷️ [Brand & Packaging](cat-brand.md) (704)
+## 🏷️ [Brand & Packaging](cat-brand.md) (718)
 
 Logo design, typography logos, product packaging, merchandise, itasha cars, jewelry collections.
 
@@ -12066,6 +12168,34 @@ Logo design, typography logos, product packaging, merchandise, itasha cars, jewe
 - [Case 6242: Spring Editorial Fashion Collage](cat-brand.md#️-例-6242spring-editorial-fashion-collage)
 
 - [Case 6256: Anime Cyclists at Forest Waterfall](cat-brand.md#️-例-6256anime-cyclists-at-forest-waterfall)
+
+- [Case 6257: Collage Narrative Aesthetic Template](cat-brand.md#️-例-6257collage-narrative-aesthetic-template)
+
+- [Case 6259: Leonardo Life in Roles Poster](cat-brand.md#️-例-6259leonardo-life-in-roles-poster)
+
+- [Case 6260: Leonardo Career Collage Poster](cat-brand.md#️-例-6260leonardo-career-collage-poster)
+
+- [Case 6289: Futuristic Motorcycle Racer Bible Sheet](cat-brand.md#️-例-6289futuristic-motorcycle-racer-bible-sheet)
+
+- [Case 6292: Vintage Travel Poster Generator](cat-brand.md#️-例-6292vintage-travel-poster-generator)
+
+- [Case 6293: Split-Screen Surreal Café Portrait](cat-brand.md#️-例-6293split-screen-surreal-café-portrait)
+
+- [Case 6294: Melancholic Coffee Portrait Thumbnail](cat-brand.md#️-例-6294melancholic-coffee-portrait-thumbnail)
+
+- [Case 6299: Anime Girls in Starry Flooded Canal](cat-brand.md#️-例-6299anime-girls-in-starry-flooded-canal)
+
+- [Case 6303: Consistent Character 2x2 Photo Collage](cat-brand.md#️-例-6303consistent-character-2x2-photo-collage)
+
+- [Case 6306: Zero Gravity Morning Scene](cat-brand.md#️-例-6306zero-gravity-morning-scene)
+
+- [Case 6308: Y2K Digital Camera Selfie](cat-brand.md#️-例-6308y2k-digital-camera-selfie)
+
+- [Case 6314: Y2K CCD Camera Portrait](cat-brand.md#️-例-6314y2k-ccd-camera-portrait)
+
+- [Case 6316: Modern Oriental Papercut Art](cat-brand.md#️-例-6316modern-oriental-papercut-art)
+
+- [Case 6321: Twilight Sea Fairy Fortune Card](cat-brand.md#️-例-6321twilight-sea-fairy-fortune-card)
 ---
 
 <a id="edit"></a>

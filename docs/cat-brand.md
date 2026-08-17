@@ -17020,3 +17020,319 @@ Create a cinematic anime-style wide shot of two female cyclists standing on a mo
 
 ---
 
+### 🏷️ 例 6257：Collage Narrative Aesthetic Template
+
+![Collage Narrative Aesthetic Template](../images/Collage%20Narrative%20Aesthetic%20Template.jpg)
+
+**Prompt:**
+
+```text
+由{argument name="主题" default="未来主题"}提供人物、环境、物件、日期与短句内容，并将其分配为“局部感知—留白停顿—完整进入”的叙事：第一眼必须是上下两组柔和影像夹住大块纸白，中段以少量黑字形成安静但鲜明的编辑性停顿。上部采用不对称三格拼贴，一侧叠放两个近景碎片，另一侧放较大的沉浸式局部；裁切大胆，让主体被边缘、前景虚影或重复小形遮挡，以零散触觉先建立气氛。下部用宽阔主场景承接主题，人物或核心对象背向、侧向或处于行动途中，不摆拍，保留充足环境与前景散景，使观看像偶然记录。中央纸白保持宽松呼吸：左上放两级短句，主句为克制的书刊正文，次句更小、更浅、行距紧凑；右下放一句超大的自由书写标题，以粗细跳变、略带枯笔的边缘、开放字腔、松散连接、长收笔和斜向伸展制造手势感，配少量小号注释及与目标文字正字法相容的引号或强调符号。无论目标文字为何种书写系统，都沿其自然阅读方向保持可辨识字形；连写文字不得强拆连接，间隔文字可用疏密变化建立节奏。底部影像边缘叠加一行正式高反差展示字，轻透或被亮部吞没；允许字距的文字采用宽字距，不允许拆分的文字则用词间距、行长和细重获得同等空气感。影像统一为自然日光、黄绿与低饱和青色的清淡胶片调子，亮部奶白、反差偏低、颗粒细微，前景柔焦与轻雾来自真实景深；白底保留极轻纸纤维、印刷灰痕和不完全洁净感。用白色窄隔线连接照片拼贴与纸面，使摄影的柔软和黑色手写的果断互相抬升。避免商业级锐化、浓艳滤镜、完美居中、平均分栏、过度装饰、假做旧、强渐变、塑料般磨皮。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089138792523534425) | 2026-08-16
+
+---
+
+### 🏷️ 例 6259：Leonardo Life in Roles Poster
+
+![Leonardo Life in Roles Poster](../images/Leonardo%20Life%20in%20Roles%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic biographical movie-poster collage titled {argument name="headline text" default="LEONARDO"} with subtitle {argument name="subtitle text" default="A LIFE IN ROLES"}, celebrating one actor through different eras of film roles.
+
+Canvas: Landscape 4:3 poster, dark teal-to-charcoal textured background, vintage film grain, dramatic low-key lighting, high-contrast photorealistic digital painting. Use warm cream typography and muted desaturated colors.
+
+Layout: The right half is dominated by one huge close-up side-profile portrait of {argument name="main actor" default="Leonardo DiCaprio"}, facing right, serious expression, slicked-back hair, realistic skin texture, rim lighting on the forehead, nose, cheek, and lips. The left half forms a layered collage of exactly 11 smaller role portraits arranged in an oval cluster, partially overlapping behind and below the main face. Bottom left contains props and red splatter. Right side contains a vertical timeline under the title. Bottom right contains a quote, two laurel award badges, and two signature-like scribbles.
+
+Subject details: Include exactly 12 human depictions total: 1 large main profile portrait plus 11 smaller role portraits. The 11 smaller portraits are: 1) a heavyset uniformed pilot or officer wearing a peaked cap and headset microphone at top left, 2) a stern man in a black tuxedo behind him, 3) a young clean-cut man in a dark suit and tie, 4) a tuxedoed man shouting while holding a champagne flute, 5) a curly-haired young man in a dark suit, 6) a smiling woman in a brimmed hat, 7) a rugged short-haired man in a light shirt, 8) a bearded man in a brown fedora and weathered coat, 9) a long-haired gray-bearded frontiersman in fur clothing, 10) an elderly white-haired man in a gray jacket, and 11) a dark-haired woman in a gray coat. All characters should look like different cinematic archetypes played across decades, not a single scene.
+
+Props and effects: At the bottom left, show exactly 2 foreground props: an antique pocket watch with chain and Roman numerals, and a wood-handled axe lying diagonally. Behind them add a dramatic dark red blood splatter spreading across the lower-left corner. Add subtle curved motion streaks or hair-like arcs above the collage, faint dust, scratches, and vignette.
+
+Right-side timeline: Under the title, draw a thin vertical line with exactly 4 labeled milestone nodes, each with a small circular dot and simple icon. The labels must read exactly: “YOUTH 1990s”, “ASCENT 2000s”, “EXCESS 2010s 2010s”, and “SURVIVAL 2020s”. Use condensed bold uppercase cream lettering.
+
+Text content: Large top-right title in tall condensed uppercase cream font: “LEONARDO”. Directly below, smaller subtitle: “A LIFE IN ROLES”. Bottom-right quote in uppercase: {argument name="quote" default="HE DOESN'T JUST PLAY CHARACTERS, HE HOLDS UP A MIRROR TO THE CENTURY."} Below the quote, include exactly 2 laurel badges: left badge text “ACADEMY AWARD WINNER”, right badge text “A CAREER FOR THE AGES” with tiny subtext beneath. Add two thin autograph-style signatures near the bottom edge.
+
+Visual style: Premium Hollywood awards-season poster, moody dramatic realism, precise facial likeness, layered compositing, smoky atmosphere, soft spotlight from upper left, shallow depth, subtle sepia highlights, dark green shadows, cream text, no bright modern colors.
+
+Constraints: Keep the exact counts: 12 human depictions, 2 foreground props, 4 timeline stages, 2 laurel badges. Do not add extra titles, logos, watermarks, or credits. Keep all visible text legible and in English.
+```
+
+**来源：** [@Shan](https://x.com/iam_shaaan_/status/2089109243584725137) | 2026-08-16
+
+---
+
+### 🏷️ 例 6260：Leonardo Career Collage Poster
+
+![Leonardo Career Collage Poster](../images/Leonardo%20Career%20Collage%20Poster.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a cinematic biographical movie-poster collage celebrating {argument name="actor name" default="LEONARDO"} as an actor across many eras and roles, in the style of a prestige awards-season retrospective poster.
+
+Canvas: Wide landscape poster, approximately 4:3 aspect ratio, warm cream parchment background with soft vignette, dramatic golden-brown grading, photorealistic cutout montage, high-detail skin texture, glossy magazine-poster finish.
+
+Layout: The right half is dominated by 1 enormous close-up side-profile portrait of the actor facing right, serious and contemplative, cropped from forehead to chin. The left half contains exactly 9 smaller role portraits arranged as a dense collage around the large face: 1 stern airline pilot in a navy cap at upper left, 1 shouting man at a vintage microphone near top center, 1 young blond man in a tan suit at mid-left, 1 small seated/suited man in blue near center-left, 1 clean-cut young man in a dark jacket near center, 1 intense older man in a dark coat at lower left, 1 slick-haired man in a blue suit at lower center-left, 1 tuxedoed millionaire smiling and raising a champagne coupe at lower center, and 1 rugged bearded frontiersman in fur clothing with a scarred face at lower right of the collage. Add exactly 2 symbolic props at the bottom left: an antique pocket watch with chain and an old hatchet/axe with a worn wooden handle and dark metal head. Add a dark red blood-splatter accent near the watch.
+
+Typography: At the upper right, large bold condensed uppercase title text reads {argument name="headline text" default="LEONARDO"}. Directly below it, smaller bold uppercase subtitle reads {argument name="subtitle text" default="A LIFE IN ROLES"}. On the far right, create a vertical filmography/timeline column with bracket lines and era labels, using compact black text; the tiny movie-title text may be partially fictional or imperfect but should resemble a chronological list grouped by decades, with vertical labels such as YOUTH 1990s, ASCENT 2000s, EXCESS 2010s, and SURVIVAL 2020s. At bottom center, bold uppercase tagline reads {argument name="tagline" default="SAME MAN. ENDLESS TRUTHS."} with a small cursive signature underneath reading {argument name="signature" default="Leonardo DiCaprio"}. At lower right, include the quote “HE DOESN'T JUST PLAY CHARACTERS. HE HOLDS UP A MIRROR TO THE CENTURY.” Add exactly 2 laurel-award badges below the quote: one labeled ACADEMY AWARD WINNER and one labeled A CAREER FOR THE AGES.
+
+Visual style: Photorealistic celebrity editorial collage, inspired by classic film posters and awards campaign key art, warm sepia highlights, strong contrast, realistic lighting, seamless compositing, soft feathered edges around portraits, no cartoon style.
+
+Constraints: Keep the composition clean and poster-like, preserve the exact count of 10 total actor portraits including the large profile, 2 bottom-left props, and 2 laurel badges. Avoid watermarks, logos, extra characters, or modern UI elements.
+```
+
+**来源：** [@Shan](https://x.com/iam_shaaan_/status/2089109237020725636) | 2026-08-16
+
+---
+
+### 🏷️ 例 6289：Futuristic Motorcycle Racer Bible Sheet
+
+![Futuristic Motorcycle Racer Bible Sheet](../images/Futuristic%20Motorcycle%20Racer%20Bible%20Sheet.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a premium cinematic character bible sheet for a futuristic female motorcycle racer, branded {argument name="team name" default="Future Vibes AI"}, with a bold motorsport concept and high-fashion action styling.
+
+Canvas: Wide 16:9 white studio sheet with gritty black smoke, mud splatter, ink brush accents, and sharp editorial layout. Use a high-contrast palette of jet black, racing red, electric blue, gunmetal grey, and mud brown.
+
+Layout: Left third is a large dynamic action illustration of the rider leaning forward on a black sport motorcycle blasting through mud and debris. Center third is a clean turnaround lineup of the same woman in full racing gear. Right third is a vertical details column with four close-up callout panels. Bottom center shows a color palette. Bottom right contains the slogan.
+
+Main title and identity text: Huge expressive blue brush-lettering at top left reading “{argument name="main title" default="FUTURE VIBES AI"}”. Under it, small black text reads “THE RIDER” and “NUMBER {argument name="rider number" default="07"}”. Bottom right slogan in aggressive brush lettering reads “NO LIMITS.” in black and “{argument name="slogan text" default="FULL THROTTLE"}” in electric blue, with black underline strokes and ink splatter.
+
+Character details: The rider is a young athletic woman with medium tan skin, expressive dark eyes, strong eyebrows, natural lips, and long black hair tied in a high ponytail. She wears a black leather motorcycle racing suit with red and blue graphic accents, armored shoulders, elbows, knees, gloves, boots, and the number 07 repeated on the suit. Her look is confident, cinematic, premium, and photorealistic with fashion editorial lighting.
+
+Counted visible character/motorcycle views: Use exactly 5 main full/large views: 1 large action motorcycle riding pose on the left, 1 front-standing turnaround pose, 1 side-standing turnaround pose, 1 rear-standing turnaround pose, and 1 close-up helmeted portrait in the details panel. The center turnaround must show 3 standing full-body poses: front, side, and back.
+
+Details column: Add exactly 4 rectangular close-up callout panels stacked vertically on the right. Panel 1: helmet close-up with visor and custom red-blue graphics, labeled “HELMET CUSTOM GRAPHICS”. Panel 2: gloved hand gripping the motorcycle throttle, labeled “RACING GLOVES GRIP + CONTROL”. Panel 3: chest plate and number badge close-up, labeled “NUMBER 07 CHEST PLATE”. Panel 4: boot and lower suit close-up with mud and leather texture, labeled “MUD SPLATTER LEATHER TEXTURE DETAILS”.
+
+Color palette: Bottom center, include exactly 5 paint-brush swatches labeled: JET BLACK, RACING RED, ELECTRIC BLUE, GUNMETAL GREY, MUD BROWN.
+
+Design style: Photorealistic cinematic rendering mixed with graphic design sheet presentation, crisp studio cutouts, realistic leather texture, mud splatter, smoke clouds, dynamic debris, sharp typography, premium motorsport branding, and energetic blue brush script. Keep the layout clean and readable, with no extra panels, no extra riders, no watermark, and no unrelated text.
+```
+
+**来源：** [@Future Vibes AI - Educator](https://x.com/FutureVibesAi/status/2088924489795224023) | 2026-08-16
+
+---
+
+### 🏷️ 例 6292：Vintage Travel Poster Generator
+
+![Vintage Travel Poster Generator](../images/Vintage%20Travel%20Poster%20Generator.jpg)
+
+**Prompt:**
+
+```text
+Create a premium 4:5 vertical vintage travel poster for {argument name="city" default="[CITY]"}, {argument name="country" default="[COUNTRY]"}, inspired by classic screen-printing, linocut illustration, retro editorial graphics, and handmade European travel posters. Build a completely original composition that captures the personality of {argument name="city" default="[CITY]"} rather than simply arranging famous landmarks. Use a warm aged cream paper background with visible paper fibers, subtle stains, distressed ink, rough printing edges, and authentic handmade texture. VISUAL CONCEPT Create one strong central visual story representing {argument name="city" default="[CITY]"}. Integrate 2–4 recognizable landmarks or architectural elements naturally into the environment, along with everyday details that make the city feel alive: local transportation, characteristic streets and buildings, cafés and shops, street signs, local food or objects, pedestrians and cyclists, trees and surrounding landscape, culturally distinctive details. Avoid making the landmarks look like floating stickers or a checklist. Everything should feel like it belongs to one continuous scene. COLOR PALETTE Use a sophisticated limited palette: warm ivory + charcoal/black + one signature accent color associated with {argument name="city" default="[CITY]"}. Keep the accent color selective and powerful rather than covering the entire artwork. TYPOGRAPHY Integrate large, bold, hand-printed typography into the composition: {argument name="city" default="[CITY]"}. Add a small secondary phrase that reflects the city’s character: {argument name="short city phrase" default="[SHORT CITY PHRASE]"}. Typography should feel imperfect, screen-printed, slightly distressed, and organically integrated into the artwork. ART STYLE vintage linocut, handmade screen print, retro travel-poster illustration, rough ink texture, distressed halftone grain, imperfect registration, hand-cut edges, strong silhouettes, expressive perspective, subtle paper imperfections, sophisticated negative space, editorial art-book aesthetic. Make the artwork feel like a rare collectible travel print, combining nostalgia with contemporary graphic design. IMPORTANT Do not simply reproduce a traditional tourist poster. Do not use a generic landmark collage, photorealism, glossy 3D rendering, excessive colors, gradients, or overly clean digital graphics. The final composition should be bold, artistic, slightly unexpected, highly recognizable, culturally authentic, and visually sophisticated, with {argument name="city" default="[CITY]"}'s unique identity immediately apparent.
+```
+
+**来源：** [@simeon-sanai](https://x.com/Naiknelofar788/status/2088918226902409478) | 2026-08-16
+
+---
+
+### 🏷️ 例 6293：Split-Screen Surreal Café Portrait
+
+![Split-Screen Surreal Café Portrait](../images/Split-Screen%20Surreal%20Caf%C3%A9%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic, photorealistic split-screen café scene showing the same stylish young man in two surreal coffee moments, divided by a clean vertical split down the center. Left side: the man sits at an outdoor European sidewalk café on a sunny city street, wearing a crisp {argument name="left outfit" default="white button-up shirt"}, with {argument name="left hairstyle" default="dark hair tied in a loose high bun"}, facing the camera with a calm serious expression. He holds an oversized white ceramic cup with both hands; inside is creamy latte with a detailed white leaf latte-art pattern, and a dramatic frozen splash of caramel-brown coffee erupts upward from the cup in a crown shape with many droplets suspended in midair. Show café tables, chairs, awnings, tall Paris-like buildings, warm afternoon sunlight, and shallow depth of field. Right side: the same man appears seated inside or at the edge of a cozy modern café, wearing {argument name="right outfit" default="a dark brown knit sweater and black sunglasses"}, hair short and slicked back, also facing the camera with a composed expression. He holds an oversized muted green ceramic cup with both hands; inside is frothy {argument name="right drink" default="green matcha latte"}, and a vibrant green liquid splash bursts upward in a crown shape with droplets frozen around it. The background includes a wooden café table, large window, blurred city street, indoor shelves, plants, pendant lamps, and warm bokeh lighting. Use hyper-realistic skin texture, natural hands, realistic liquid physics, rich cinematic contrast, warm golden tones on the left and darker cozy café tones on the right, 16:9 landscape composition, sharp focus on the man and cups, blurred background, no text, no logo, no watermark.
+```
+
+**来源：** [@Alisina](https://x.com/Alisina_base/status/2088916472265404677) | 2026-08-16
+
+---
+
+### 🏷️ 例 6294：Melancholic Coffee Portrait Thumbnail
+
+![Melancholic Coffee Portrait Thumbnail](../images/Melancholic%20Coffee%20Portrait%20Thumbnail.jpg)
+
+**Prompt:**
+
+```text
+Create a square music video thumbnail / album-cover style image showing a young Japanese woman with a short black bob haircut and pale skin standing in a softly blurred urban train-station or street setting. She wears a dark navy or black coat over a light beige scarf or sweater and looks down with a calm, introspective expression at a warm white takeaway cup held in both hands near her chest. The composition is a tight waist-up candid portrait, subject placed slightly left of center, with shallow depth of field, muted winter colors, natural overcast daylight, cinematic realism, gentle film grain, and a cozy melancholic mood. Use the customizable subject as {argument name="character description" default="young Japanese woman with a short black bob haircut"}, outfit as {argument name="outfit" default="dark coat with a light beige scarf or sweater"}, held object as {argument name="held object" default="warm white takeaway cup"}, location as {argument name="location" default="blurred urban train-station street"}, and mood as {argument name="mood" default="quiet, introspective, cozy melancholy"}. No text, no logo, no watermark, no extra people in focus.
+```
+
+**来源：** [@牧場娘Ｍ・🌙](https://x.com/mustafa847/status/2088909830639480959) | 2026-08-16
+
+---
+
+### 🏷️ 例 6299：Anime Girls in Starry Flooded Canal
+
+![Anime Girls in Starry Flooded Canal](../images/Anime%20Girls%20in%20Starry%20Flooded%20Canal.jpg)
+
+**Prompt:**
+
+```text
+Create a cinematic modern Japanese theatrical anime-style wide landscape scene of two young girls standing barefoot in a shallow flooded concrete drainage canal at sunset. The girls are centered and full-body, wearing simple off-white long-sleeved institutional gowns with visible number tags: the left girl has {argument name="left girl label" default="5"} on her chest and the right girl has {argument name="right girl label" default="4.8"} at her waist. The left girl has {argument name="left girl hair" default="dark navy-black hair in a long side braid"}, a quiet serious expression, and looks slightly toward the other girl. The right girl has {argument name="right girl hair" default="short fluffy white hair"}, pale eyes, a delicate uncertain expression, and holds a small beige rabbit plush toy against her chest. They stand ankle-deep in mirrorlike water that reflects them, but the reflection transitions into a deep starry night sky filled with tiny blue-white stars, purple nebula-like light, and a bright crescent moon, creating a magical realism effect. Surround them with tall sloped concrete canal walls on both sides, weathered industrial details, ladders, railings, yellow-and-black hazard stripes, weeds and grasses growing from cracks, puddles and wet concrete, distant buildings, utility poles, wires, and an overpass bridge in the background. The sky is dramatic with towering sunlit clouds, blue upper sky, warm golden sunlight breaking through from the right horizon, soft rim light around the figures, and sparkling highlights on the water. Use a low eye-level camera, strong depth, ultra-detailed painted backgrounds, atmospheric perspective, cinematic lighting, melancholic but wondrous mood, high-quality anime film composition, 16:9 aspect ratio. Avoid text other than the two numeric tags, avoid extra characters, avoid watermark or logo.
+```
+
+**来源：** [@🐹🐹](https://x.com/hmst_yyyy/status/2088874179051589785) | 2026-08-16
+
+---
+
+### 🏷️ 例 6303：Consistent Character 2x2 Photo Collage
+
+![Consistent Character 2x2 Photo Collage](../images/Consistent%20Character%202x2%20Photo%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Use as the exact reference image for the {argument name="identity" default="woman’s face, hairstyle, outfit, accessories, colors, and overall visual identity"}. Create a photorealistic 2×2 collage featuring the same adult woman in every panel. 1. {argument name="pose one" default="Playful wink over a giant pink heart"}. 2. {argument name="pose two" default="Seated with hands framing her face"}. 3. Full-body beside the heart. 4. Close-up with fingertips near her lips. Keep everything consistent across all panels. Soft blush-pink/gray studio, diffused lighting, faded colors, subtle film grain, halation, and nostalgic Japanese coming-of-age mood. No identity changes, extra people, duplicate hearts, distorted hands, extra fingers, CGI, anime, text, logo, or watermark. --ar 3:4 --quality high
+```
+
+**来源：** [@Eesha](https://x.com/MissDelulu9/status/2088860942251798860) | 2026-08-16
+
+---
+
+### 🏷️ 例 6306：Zero Gravity Morning Scene
+
+![Zero Gravity Morning Scene](../images/Zero%20Gravity%20Morning%20Scene.jpg)
+
+**Prompt:**
+
+```text
+主題：
+{argument name="主題" default="空中停止の朝騒動"}
+
+主体：
+朝日の入るリビングで、{argument name="登場人物" default="一人の20代女性と長毛猫"}、家具まわりの小物が無重力のように宙へ浮くフォトリアルな瞬間。女性は画面中央からカメラへ水平に飛び込み、両手を手前へ伸ばす。右上に白茶の猫、右下にコーヒーカップと飛び散る液体、中央下にピンクのドーナツ、左下に開いた本を配置する。
+
+人物・表情：
+丸みのある卵形の顔と小さな顎、大きなアーモンド形のダークブラウンの瞳、細い緩い眉、小さな鼻先、コーラル色で大きく開いた唇。顔を正面のカメラへ向け、目を見開いた驚きの表情。薄いアイライン、長いまつ毛、桃色の頬。明るいブラウンの髪を頭頂近くの無造作なお団子にまとめ、薄い前髪と大量の巻いた後れ毛が重力を失ったように四方へ広がる。
+
+服装・ポーズ：
+アイボリー白の細リブ半袖トップ、深い丸首、胸下中央を小さく結ぶ短丈形で、内側に白いレース縁が見える。淡いピンクの柔らかなショートパンツ、腰と裾に細かなフリル。女性は腹ばいのまま空中を前へ飛ぶ姿勢で、両腕をカメラへ伸ばし、指を大きく開く。両膝を後ろで曲げ、裸足の足裏を上方へ向ける。
+
+背景・光：
+白いソファ、木の丸テーブル、白いレースカーテンの大窓、淡い木床、右奥の棚と小さな植物。右上の長毛猫は青い瞳、白い毛、顔と耳の茶色い模様、太い尾を上げ、四肢を前へ出して宙に浮く。眼鏡、黒いリモコン、紙、クッション、小鉢の植物も散らばり、右下の白いカップから濃いコーヒーと雫が弧を描く。画面左の窓から{argument name="ライティング" default="暖かな朝の直射光"}が入り、人物、猫、床へ鮮明なハイライトと柔らかな影を作る。
+
+構図・カメラ：
+縦15:19。床より少し高い位置の広角カメラから正面を捉えた全身のアクション構図。女性の顔を中央、広げた両手を左右の前景へ大きく配置し、曲げた脚を上半分へ伸ばして足先を上端近くへ収める。猫は右上、開いた本は左下、ドーナツとカップは右下へ置き、四隅まで浮遊物を散らす。人物の顔と手にピントを合わせつつ、主要な浮遊物も明瞭に見える深めの被写界深度。
+
+質感・スタイル：
+高速撮影風の高精細なフォトリアル実写とCG合成表現。肌、舞う髪、猫の長毛、布、本の紙、ドーナツの糖衣、透明感のある飛沫を鋭く静止させ、暖かな朝色でまとめる。
+
+ネガティブ：
+人物・猫・小物の浮遊配置の消失
+```
+
+**来源：** [@Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026/status/2088856026049335647) | 2026-08-16
+
+---
+
+### 🏷️ 例 6308：Y2K Digital Camera Selfie
+
+![Y2K Digital Camera Selfie](../images/Y2K%20Digital%20Camera%20Selfie.jpg)
+
+**Prompt:**
+
+```text
+Ultra-realistic dreamy vintage digital-camera mirror selfie of a {argument name="subject" default="young East Asian woman"} with long, voluminous black hair and soft wispy bangs covering part of her forehead. Her hair is decorated with {argument name="hair accessories" default="multiple tiny colorful butterfly and flower-shaped clips"} scattered naturally throughout. She has large expressive dark eyes, soft fair skin, subtle pink blush, glossy natural pink lips, delicate facial features, and a tiny silver lip piercing below her lower lip. She looks directly into the camera with a calm, slightly dreamy expression while holding a {argument name="camera type" default="compact black digital camera"} close to her face, partially covering one side of her face. She wears a delicate layered necklace with a small pendant and a dark sleeveless top. Small colorful butterfly and flower stickers are placed naturally on her cheeks and hair. The photo is taken through a mirror in a softly lit bedroom or cozy indoor space, with dreamy pastel decorations and soft out-of-focus floral shapes reflected around her. Strong early-2000s digital-camera aesthetic, hazy glow, soft focus, subtle flash reflection, gentle bloom, slight lens softness, realistic skin texture, natural imperfections, muted pastel tones, intimate candid composition, shallow depth of field, nostalgic Y2K atmosphere, high detail, photorealistic, vertical portrait, authentic compact-camera image quality.
+```
+
+**来源：** [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_/status/2088834764539375630) | 2026-08-16
+
+---
+
+### 🏷️ 例 6314：Y2K CCD Camera Portrait
+
+![Y2K CCD Camera Portrait](../images/Y2K%20CCD%20Camera%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Use the attached image as the primary facial reference. Preserve her recognizable facial identity, natural facial proportions, subtle asymmetry, facial balance, and individual character. Keep the face completely authentic and unchanged—no beautification, reshaping, or feature alteration.
+
+Create an authentic early-2000s premium CCD compact-camera photograph with the unmistakable look of a straight-out-of-camera JPEG. Use a 24–28mm equivalent wide-angle lens and an unconventional low viewpoint, with the invisible camera placed naturally near ground level around her feet and aimed upward. The framing should feel spontaneous and slightly imperfect rather than professionally staged. Position her within the right third of the image, leaving roughly 70% of the frame to an expansive cobalt-blue sky. The nearest arm can appear subtly larger due to the wide-angle perspective, while her face stays naturally recognizable and proportionate. The camera must never be visible.
+
+She is dressed in a {argument name="top" default="tailored ivory satin sleeveless crop top"} with structured seams, paired with {argument name="pants" default="high-waisted black straight-cut jeans"}. Include a {argument name="detail" default="distressed heart-shaped detail"} on the rear pocket. She wears oversized glossy black rectangular sunglasses, chunky ivory resin bangles, a few delicate silver rings, and understated jewelry.
+
+Her pose should feel effortless: one hand casually tucked into the back pocket, the opposite arm hanging naturally by her side. Her torso is angled slightly away from the lens as she turns her head over one shoulder toward the camera, giving a calm, self-assured expression. Her long dark wavy hair is loose and moving naturally in the breeze, with fine flyaway strands catching the sunlight.
+
+Keep the setting spacious and uncluttered. A simple concrete rooftop or terrace should appear only along the bottom portion of the frame, while the deep cobalt sky dominates the composition. Add a handful of soft, naturally shaped warm-white clouds in the distance, maintaining plenty of clean negative space.
+
+The sun is positioned just beyond the upper edge of the image, slightly behind and above her. This creates a bright natural halo along her hair, shoulders, sunglasses, and outer silhouette. Individual loose hairs should glow subtly against the blue sky. Combine direct daylight with gentle on-camera flash-style fill, giving the image the characteristic luminous CCD compact-camera appearance without looking artificially lit.
+
+Preserve realistic skin: naturally fair with a subtle peach undertone, lightly flushed cheeks and nose, visible pores, fine peach fuzz, authentic micro-texture, and a healthy hydrated appearance. Add restrained liquid highlighter reflecting naturally across the cheekbones, bridge of the nose, brow bone, inner eye corners, cupid’s bow, and chin. Makeup remains refined and realistic: champagne-toned shimmer on the eyelids, naturally brushed-up feathered brows, softly separated lashes, and glossy bubble-gum-pink lips.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2088819978602733623) | 2026-08-16
+
+---
+
+### 🏷️ 例 6316：Modern Oriental Papercut Art
+
+![Modern Oriental Papercut Art](../images/Modern%20Oriental%20Papercut%20Art.jpg)
+
+**Prompt:**
+
+```text
+{argument name="aspect ratio" default="9:16"}竖版，现代东方女性梦境立体剪纸艺术，modern oriental papercut art，layered paper cut illustration，dimensional paper sculpture，intricate paper carving，paper diorama，layered shadow box，poetic female dreamscape，contemporary oriental art poster。
+
+作品主题为“她走过外滩，去看浦江另一边的光”。
+
+画面核心叙事为：一位年轻东方女性站在纸雕化的滨江长廊上，夜色与晨光交汇的浦江在她面前缓缓展开。外滩建筑与浦江对岸的陆家嘴天际线在微光中层层点亮，城市像一条正在苏醒的星河。她静静望向彼岸，像终于决定从熟悉的此岸走向更辽阔的远方。
+
+主体人物为视觉年龄约25岁的东方成年女性，清醒独立、明亮坚定，带一点都市成长后的冷静感。人物拥有清秀鹅蛋脸，明亮杏眼，神情平静而专注，像正在看见未来的轮廓。人物采用精致东方纸艺插画式塑形，不是真人摄影质感，不过度卡通化。
+
+人物发型与头饰为：黑色长发自然披散，发尾延展成流线状纸带，被江风吹向身后，佩戴浅金几何叶片与小型星点发饰，头饰精致轻盈，不复杂不高耸。
+
+人物服装为：深群青与银白层叠纸艺长裙，裙摆内部镂刻城市天际线、水波、星点与楼宇纹样，外层披帛轻薄修长，边缘具有细密镂空花纹与纸艺裁切感。裙摆与披帛在风中向后大幅延展，形成优雅的流动线条，服装呈现清晰的纸张厚度、纤维纹理、轻微折痕与高完成度手工裁切边缘。
+
+梦境载体为：纸艺滨江长廊。
+
+梦境意象包括：外滩建筑、浦江、城市天际线、长廊、桥梁、微光星点。所有建筑、江面、栏杆、云层、人物与装饰都必须统一为高完成度立体纸雕语言。
+
+整体剪纸结构采用：纸页道路式。
+
+构图与人物动作为：一条沿江延展的纸艺长廊从前景向远方弯曲延伸，人物位于画面中下部偏左位置，背对或半侧背对镜头，静静站在栏杆边，面向对岸天际线。人物不是普通摆拍，而是像正在凝望彼岸的光。长发、裙摆和披帛在江风中向后展开，形成与江岸长廊一致的流动方向。长廊栏杆、路灯、地面纹样和滨江弧线共同把视线引向远处陆家嘴方向，形成明显的“江岸—江面—对岸天际线”的纵深空间。
+
+近景是精致的纸艺滨江栏杆、花枝装饰、灯柱与路面纹样；中景是弯曲延展的江岸长廊与人物；远景是浦江水面、江上船只、外滩建筑与对岸城市高楼。外滩建筑必须纸雕化为具有明显历史风貌的西式立面、穹顶、钟楼、拱窗 and 连续沿江建筑群；浦江对岸的陆家嘴天际线也必须纸雕化，清晰可见东方明珠、上海中心、上海环球金融中心等标志性轮廓，以高低错落的纸雕楼群层层展开。江面上可有几艘纸雕游船，作为尺度和动势点缀。
+
+整体色彩方案为：深群青、银白、香槟金为主，少量珊瑚红点缀。深群青用于夜空、人物主裙、江面与部分建筑阴影；银白用于纸雕栏杆、建筑高光、披帛、云层和路面亮部；香槟金用于灯光、楼体窗光、局部描边和高光细节；少量珊瑚红仅作为建筑局部灯火或天空微光点缀。整体色彩需高级、明亮、清透，呈现夜色与晨光交融的梦幻城市气息，不灰蒙、不脏、不整体偏黄。
+
+光线与纸张质感为：清透夜光与柔和天际晨光结合，城市楼宇与滨江长廊被细腻灯光点亮，建筑边缘轻微透光，江面纸雕纹理与楼体裁切边缘清晰可见。远方天际线方向有柔和明亮的天光，外滩与陆家嘴之间形成冷暖交织的光影层次。强调真实纸张纤维、手工裁切痕迹、纸层厚度、层叠投影与镂空边缘透光感，使整幅画面像博物馆级大型纸雕城市艺术装置。
+
+画面整体具有现代东方女性艺术海报、纸雕城市梦境、都会星河与高完成度艺术装置展示感。人物是情绪核心，但城市空间必须足够辽阔；外滩与对岸天际线必须有明确辨识度；整幅画面要像从现实城市中展开的一场纸艺彼岸之梦，而不是普通城市夜景海报。
+
+补充要求：城市空间要大，人物相对场景不要过大，强化“江岸—对岸—天际线”的纵深关系；外滩建筑与陆家嘴天际线都要明显纸雕化；整体清透华丽、明亮梦幻，不要做成普通旅游宣传插画。
+
+负面提示词：未成年人，幼态脸，真人摄影，普通动漫，塑料3D，树脂材质，黏土，毛毡，儿童手工，普通城市夜景海报，现实摄影感过强，人物与背景材质割裂，没有纸张层次，没有镂空结构，纸层混乱，建筑辨识度太弱，外滩和陆家嘴不明显，江岸纵深不足，人物特写过大，画面灰蒙，暗部死黑，整体偏黄，整体偏蓝成一团，元素杂乱堆积，文字，Logo，水印。
+```
+
+**来源：** [@李岳](https://x.com/liyue_ai/status/2088804386088845817) | 2026-08-16
+
+---
+
+### 🏷️ 例 6321：Twilight Sea Fairy Fortune Card
+
+![Twilight Sea Fairy Fortune Card](../images/Twilight%20Sea%20Fairy%20Fortune%20Card.jpg)
+
+**Prompt:**
+
+```text
+Goal: Create a delicate vertical anime-style fortune card poster asking what kind of summer fairy the viewer's character is, featuring {argument name="character name" default="Nozomu"} as a rare twilight-sea fairy.
+
+Canvas: Vertical 4:5 illustration, 768×960 look, ornate collectible-card layout with a pale pearl-blue border, filigree corner decorations, tiny shells, sparkles, and a soft ocean-at-sunset background.
+
+Layout: Place the full-body fairy girl on the right two-thirds of the card, turned slightly back over her shoulder, gazing softly at the viewer. Put all typography and data panels on the left side in stacked decorative boxes. Use exactly 5 main text areas: 1 top headline, 1 ribbon name banner, 1 large result title frame, 1 rarity badge with description, and 1 bottom fairy data panel.
+
+Subject details: The character is a beautiful young anime fairy with long flowing ash-brown hair, warm brown eyes, a shy calm expression, and luminous translucent butterfly-like wings made of crystalline water and sea-glass facets. She wears an ethereal off-shoulder layered dress in pearl white and pale blue, covered in sparkling transparent ruffles, shell-like flowers, beads, droplets, and fine silver chains. Add a blue-white floral hair ornament near one ear, dangling crystal earrings, and tiny glowing water droplets around her hands. Her wings and dress should catch sunset reflections like glittering ocean foam.
+
+Background and mood: A quiet seaside at dusk with a low horizon, calm waves, pastel peach and blue sky, soft bokeh sunlight on the water, subtle cliffs at the far left, and a magical peaceful summer atmosphere. The mood should feel rare, quiet, mysterious, and refreshing rather than energetic.
+
+Text content: Preserve the Japanese text exactly as visible, with elegant Mincho-style serif typography and some red emphasis. Top headline: 「あなたのキャラは何の夏の妖精？」 with 「夏の妖精」 in soft coral red and the rest in navy. Ribbon banner: 「のぞむ」. Small line below: 「あなたは ——」. Large result title inside an ornate frame: 「夕凪の妖精」. Rarity badge: 「RARE」. Description below badge: 「波が眠る夕暮れみたいに、\n静かでやさしさで\n夏を包む妖精。」 Bottom panel title: 「妖精データ」. Bottom panel contains exactly 3 rows with icons and text: row 1 seashell icon, 「司るもの：\n夕凪・水面の光・\nやわらかな潮風」; row 2 water droplet icon, 「妖精の色：\nパールブルー ×\nシェルホワイト」; row 3 hourglass icon, 「出会える時間：\n日が海へ落ちる\n少し前」.
+
+Visual style: High-detail Japanese anime illustration, romantic fantasy trading-card design, pastel watercolor glow, pearlescent blues and whites, fine line art, iridescent highlights, transparent fabric rendering, ornate Victorian filigree, seashell motifs, soft luminous particles, elegant print-like composition.
+
+Constraints: Keep the composition readable and text-heavy but graceful. Use exactly 3 data rows and exactly 3 data icons: seashell, water droplet, hourglass. Do not add extra characters, modern UI elements, logos, watermarks, or English translation text on the poster.
+```
+
+**来源：** [@のぞむ＊AIイラスト](https://x.com/ArtistaNozomu/status/2088784051570356692) | 2026-08-16
+
+---
+

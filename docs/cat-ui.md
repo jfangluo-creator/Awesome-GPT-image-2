@@ -12890,3 +12890,87 @@ Constraints: Keep the card readable and balanced, with no extra rows beyond the 
 
 ---
 
+### 🖥️ 例 6264：Tiny Safari Explorer With Giant Lion
+
+![Tiny Safari Explorer With Giant Lion](../images/Tiny%20Safari%20Explorer%20With%20Giant%20Lion.jpg)
+
+**Prompt:**
+
+```text
+Create a hyper-realistic cinematic miniature photograph of a tiny male safari explorer, approximately 5 cm tall, interacting gently with a gigantic {argument name="animal" default="male lion"}. The man stands on a glossy pale stone floor beside the lion’s enormous front paws, looking upward with calm admiration while reaching one hand to softly touch the lion’s muzzle. He has short dark hair, a trimmed beard, sunglasses, and wears an all-cream safari outfit: short-sleeve button shirt, belted shorts, brown leather shoes, a tan backpack, and he holds a straw safari hat in his other hand. The lion is lying down in a relaxed sphinx-like pose, filling most of the frame, with a massive golden mane, detailed tawny fur, huge whisker pads, visible amber eye, rounded ear, and oversized paws in sharp foreground. Emphasize extreme but believable scale contrast between the tiny human and the giant animal. Use warm golden sunlight, soft high-key background, shallow depth of field, creamy bokeh, a few blurred green leaves near the top edges, natural shadows and subtle floor reflections. Camera angle is low and close, vertical 4:5 composition, lion’s head dominating the right side and the miniature explorer positioned lower left. Style should be photorealistic, cinematic, luxury wildlife editorial, macro miniature photography, highly detailed fur and fabric textures, realistic proportions, no text, no watermark.
+```
+
+**来源：** [@EZZOU AI](https://x.com/EZZOUAI/status/2089057538541052240) | 2026-08-16
+
+---
+
+### 🖥️ 例 6276：Museum Poster Design Template
+
+![Museum Poster Design Template](../images/Museum%20Poster%20Design%20Template.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题对象" default="任意主题对象"}生成一张安静而有仪式感的图文视觉：画面由大面积主题底场与一条居中的窄幅主视觉带形成强烈分栏秩序，主视觉带承载主题派生的主要形体、线性纹理或图像叙事，像被精确装裱的细密画面一样贯穿阅读路径；两侧底场保持宽阔、柔和、可呼吸，放置少量主题相关器物或符号作为轻量锚点，使视觉先读到中央的密集细节，再读到大字标题和分组信息。主题对象不要被孤立陈列，而要拆解成主形体、附着细节、信息层和小型物件四种角色，形成中心密、两侧疏、文字有停顿的展陈节奏。文字若出现，使用高瘦、清雅、留有字距的标题字，少字成列形成静默重量；说明文字用小号、整齐、克制的组块，与图像保持精确边距，像展签和日期信息嵌在色场里。色彩从主题自身的材质、季节、文化语义与情绪中提取，保留大面积清透明亮底色、较浅的主视觉承托色、清晰深浅色阶、少量高饱和强调色和浅色信息文字的角色关系；整体明亮干净、温润安静，有清晰边界和柔和印刷颗粒，纹理只增加纸面与材质触感，不让画面变脏、灰暗、烟雾化或陈旧。
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2088992503433499013) | 2026-08-16
+
+---
+
+### 🖥️ 例 6283：Silver Elf in Crimson Water
+
+![Silver Elf in Crimson Water](../images/Silver%20Elf%20in%20Crimson%20Water.jpg)
+
+**Prompt:**
+
+```text
+Create a vertical cinematic fantasy portrait of {argument name="character description" default="an ethereal silver-haired elven woman"} floating half-submerged in a reflective liquid surface at night. She is shown in close-up from the chest upward, head tilted back with closed eyes, relaxed lips, pale luminous skin, and one long pointed elf ear visible. Her long wet white-silver hair spreads across the water in flowing strands and curls. She wears a delicate white translucent gown or bodice with thin straps, covered in sparkling droplets and fine silver jewelry. Add intricate crystalline filigree and tiny star-like chains across her forehead, cheek, neck, collarbone, and shoulders, as if made of liquid diamonds or magical frost. The environment is a surreal ocean or pool filled with mirror-bright ripples, intense red-orange glowing reflections, and silver-white highlights. In the distant background, place a huge low {argument name="background celestial body" default="orange sun or moon"} behind dark gothic castle spires, slightly blurred by haze. Use a dramatic color palette of {argument name="color palette" default="icy whites, pale lavender skin tones, black shadows, scarlet red, molten orange, and chrome silver"}. Lighting should be high-contrast and hyper-detailed, with glittering specular highlights everywhere, glossy wet skin, sparkling water caustics, and small starbursts on jewelry and ripples. Style: ultra-detailed anime-inspired fantasy realism, painterly digital art, luminous, romantic, melancholic, luxurious, sharp facial detail, dynamic flowing hair, cinematic composition, no text, no watermark.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2088963842252648943) | 2026-08-16
+
+---
+
+### 🖥️ 例 6291：Schoolgirls Riding Bicycles
+
+![Schoolgirls Riding Bicycles](../images/Schoolgirls%20Riding%20Bicycles.jpg)
+
+**Prompt:**
+
+```text
+Create a realistic vertical photo of two cheerful Japanese high school girls riding bicycles on a quiet paved suburban road. The main subject is a {argument name="character age and identity" default="Japanese teenage schoolgirl"} in the foreground, centered slightly right, riding a black city bicycle toward the camera with both hands on the handlebars, smiling naturally and looking at the viewer. She wears a classic summer school uniform: white short-sleeve blouse, navy jumper dress, red ribbon bow at the collar, white crew socks, and black loafers. Her {argument name="hair style" default="long dark hair tied back, blowing to the side in the wind"} should look natural. Pose her playfully with both legs stretched wide outward from the bicycle while still seated, creating a carefree energetic moment. The bicycle has a front wire basket containing a black leather school satchel with buckles. In the background, include exactly one second schoolgirl riding another bicycle, smaller and slightly out of focus on the left side of the road; she wears the same uniform, smiles, and has a front bicycle basket. Set the scene on a straight asphalt road lined with green bushes, tall grass, trees, and simple streetlights receding into the distance under an overcast bright gray sky. Use documentary-style natural daylight, realistic proportions, shallow depth of field, mild motion in hair and skirt, clean composition, and a friendly candid school commute atmosphere. Avoid text, logos, watermarks, exaggerated anime styling, distorted limbs, pasted-on face effect, or unnatural skin texture.
+```
+
+**来源：** [@michelle](https://x.com/C6AIFP/status/2088920903610782032) | 2026-08-16
+
+---
+
+### 🖥️ 例 6312：Mediterranean Low Tide Harbor
+
+![Mediterranean Low Tide Harbor](../images/Mediterranean%20Low%20Tide%20Harbor.jpg)
+
+**Prompt:**
+
+```text
+Create an ultra-realistic wide-angle documentary landscape photograph of a quiet Mediterranean fishing village inlet at low tide under a clear deep blue sky. The scene is shot from ground level on a muddy, sandy tidal flat with shallow reflective water channels winding toward the sea in the center distance. On the right foreground, place one prominent small wooden fishing boat beached on the sand, painted {argument name="boat color" default="bright blue with a red-orange lower hull and yellow trim"}, casting a dark shadow. In the midground, include exactly three additional small boats floating or resting in the shallow harbor: one red-and-blue boat near the left quay, one small dark boat near the center-right water, and one blue-and-white boat farther right. Low-rise coastal buildings line both sides of the inlet: older tan and beige shopfronts and apartments on the left quay, white and cream apartment blocks on the right seawall, with sparse streetlights, railings, parked cars, and a stone embankment. The horizon opens to a calm blue sea beyond a low breakwater. Lighting should be harsh bright midday sun with crisp shadows, natural colors, candid travel-photography realism, slight lens softness and minor imperfections, 16:9 aspect ratio, no people visible, no text overlay, no watermark.
+```
+
+**来源：** [@ρ:ɡeon](https://x.com/pigeon__s/status/2088825573418361078) | 2026-08-16
+
+---
+
+### 🖥️ 例 6315：Gothic Raven Fashion Portrait
+
+![Gothic Raven Fashion Portrait](../images/Gothic%20Raven%20Fashion%20Portrait.jpg)
+
+**Prompt:**
+
+```text
+Create a hyperrealistic, ultra-detailed cinematic fashion editorial portrait of a handsome man from the waist up, in left-facing profile, with neatly styled dark hair and a serious calm expression, wearing a black formal suit, white dress shirt, black tie, long black overcoat, and glossy black leather gloves. He holds both gloved hands raised in front of his chest, with his right index finger extended upward as if performing a mysterious gesture, and his gaze follows the direction of his raised hand. From the fingertip emerges one black raven formed from smoky black vapor, ash, and dissolving particles, wings spread, partially materializing in midair. Surround him with exactly 6 black ravens: 1 large raven materializing from smoke above his raised fingertip on the upper right, 1 flying raven in the upper left, 1 flying raven at left-center near his shoulder, 1 raven close behind his neck and shoulder with wings tucked forward, 1 partially visible raven entering from the lower left edge, and 1 large flying raven in the lower right foreground. Add scattered black feathers drifting through the air. Use a dramatic shallow-depth-of-field rocky cliff or stone wall background in muted gray and beige tones, natural overcast lighting, crisp facial detail, glossy leather texture, sharp raven feathers, dark gothic atmosphere, high contrast, realistic motion, 8K detail, vertical portrait composition. Use {argument name="subject identity" default="a handsome man resembling Cristiano Ronaldo"}, {argument name="outfit color" default="black"}, {argument name="bird species" default="black raven"}, {argument name="background setting" default="blurred rocky cliff wall"}, and {argument name="mood" default="dark mysterious cinematic"}.
+```
+
+**来源：** [@Elsa Ai](https://x.com/ElsaSofia__AI/status/2088809855423541518) | 2026-08-16
+
+---
+

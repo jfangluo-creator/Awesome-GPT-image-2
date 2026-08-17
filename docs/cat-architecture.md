@@ -3773,3 +3773,17 @@ perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整�
 
 ---
 
+### 🏛️ 例 6278：Minimalist Bedroom Body Detail Photography
+
+![Minimalist Bedroom Body Detail Photography](../images/Minimalist%20Bedroom%20Body%20Detail%20Photography.jpg)
+
+**Prompt:**
+
+```text
+2:3竖幅，照片级真实极简卧室身体细节摄影。一位明确{argument name="年龄" default="22–28岁"}的成年女性侧躺或半仰躺在{argument name="床铺颜色" default="灰蓝色"}床铺上，画面采用非常紧密的局部构图，仅拍摄从胸口下缘至大腿上部附近，不出现完整脸部。人物身体以斜向线条贯穿画面，腹部和腰线成为视觉中心。一只手臂弯曲横跨上腹，另一只手抓住{argument name="衣物颜色" default="白色"}上衣下摆并轻轻向上提起，形成自然褶皱，露出腰腹和肚脐。姿态松弛、安静，像清晨刚醒来的自然瞬间，不做夸张摆拍。\n\n她穿纯白色贴身短袖T恤或薄针织上衣，柔软弹性面料，在胸腹处形成细密拉伸纹理和真实褶皱；下装尽量简化并大部分位于画面之外。皮肤保持真实自然，腹部有轻微柔软感和细小肤色变化，肚脐自然，不追求过度纤细或塑料般平滑。\n\n环境为极简卧室，床面覆盖冷灰蓝色绗缝床罩或棉质床单，可见清晰的压纹、缝线、细微褶皱与身体压痕。背景没有家具和装饰，只保留织物与人体之间的材质关系。\n\n光线为阴天清晨窗光，从画面右上方进入，形成冷蓝灰色柔和侧光。白色上衣出现细腻高光，腹部、手臂和腰侧形成平缓明暗渐变，暗部保留细节，无硬闪光、无暖色灯光。50mm或85mm镜头，f/2–2.8，ISO200–400，浅景深，腹部、手部和衣料纹理清晰，画面边缘略柔化。整体低饱和、低对比度、冷灰蓝调，真实皮肤毛孔、细小绒毛、织物纤维和床罩纹理，轻微ISO400胶片颗粒，intimate minimalist body-detail photography，soft morning light，photorealistic，natural imperfections，no plastic skin，no excessive retouching，no exaggerated anatomy，no text，no logo，no watermark。
+```
+
+**来源：** [@建设者](https://x.com/Barbar0ssa/status/2088970115241103824) | 2026-08-16
+
+---
+

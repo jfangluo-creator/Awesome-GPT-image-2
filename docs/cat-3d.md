@@ -7144,3 +7144,45 @@ Create a cinematic vertical 3D cartoon scene on a realistic forest floor, framed
 
 ---
 
+### 🧸 例 6279：Tiny Adventurer Giant Insect Collage
+
+![Tiny Adventurer Giant Insect Collage](../images/Tiny%20Adventurer%20Giant%20Insect%20Collage.jpg)
+
+**Prompt:**
+
+```text
+Create a 6-panel ultra-realistic cinematic collage using the uploaded reference image as the facial reference. Keep the woman's recognizable face, hairstyle, facial features, skin tone, and expression consistent across all six scenes while giving her a cute oversized-head, tiny-body stylized 3D character appearance. Theme: "{argument name="theme" default="Tiny Adventurer Riding Giant Insects"}" Each panel features a different giant insect with a unique funny expression and pose. Scene 1: {argument name="scene one" default="The tiny woman rides a giant Monarch butterfly soaring through a lush garden. She has a terrified, wide-eyed expression while tightly gripping the butterfly's body as its colorful wings flap through golden sunlight."} Scene 2: She confidently rides a massive rhinoceros beetle like a motorcycle, leaning forward and shouting excitedly as the beetle charges across a tree log. Scene 3: She laughs uncontrollably while riding a giant green grasshopper performing a huge leap between tall blades of grass. Scene 4: She balances nervously while surfing on the back of a giant honeybee flying above dew-covered leaves, arms stretched for balance with an exaggerated shocked face. Scene 5: She happily rides a giant red ant carrying an oversized sugar cube through a forest floor, proudly raising the sugar cube like a trophy. Scene 6: She screams dramatically while riding a giant dragonfly racing just above a peaceful pond at incredible speed, water splashing beneath the wings. Style: {argument name="style" default="Ultra-realistic macro photography, stylized 3D character with an oversized expressive head and tiny body, cinematic lighting, Pixar-inspired proportions"}, highly detailed insect anatomy, realistic wings, fur, and textures, shallow depth of field, beautiful garden bokeh, vibrant natural colors, whimsical adventure, funny expressions, premium 3D rendering, 8K, hyper-detailed, vertical 2×3 collage layout. Negative Prompt: blurry, low quality, duplicate character, duplicate insects, deformed face, extra limbs, incorrect anatomy, cropped character, watermark, logo, text, flat lighting, horror, gore, realistic human-sized insects, CGI artifacts, low resolution.
+```
+
+**来源：** [@Future Vibes AI - Educator](https://x.com/FutureVibesAi/status/2088969616865525894) | 2026-08-16
+
+---
+
+### 🧸 例 6280：Minimalist 3D Surreal Product Ad
+
+![Minimalist 3D Surreal Product Ad](../images/Minimalist%203D%20Surreal%20Product%20Ad.jpg)
+
+**Prompt:**
+
+```text
+Creative 3D ad for {argument name="brand name" default="[Brand Name]"}, with {argument name="object description" default="surreal object made from it"}, matching background color, {argument name="slogan" default="real slogan below"}, logo on top, miniature person interacting, minimal and clever concept.
+```
+
+**来源：** [@Tim_AI](https://x.com/Tim_AIProduct/status/2088968535292993582) | 2026-08-16
+
+---
+
+### 🧸 例 6281：Surreal 3D Chess Match Artwork
+
+![Surreal 3D Chess Match Artwork](../images/Surreal%203D%20Chess%20Match%20Artwork.jpg)
+
+**Prompt:**
+
+```text
+surreal 3d {argument name="subject" default="chess match artwork"}, epic, misty, {argument name="characters" default="angel and cloaked skeleton"}, dramatic, minimal design with perfect lines and shadows, best quality, realistic quality
+```
+
+**来源：** [@Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne/status/2088967762785808804) | 2026-08-16
+
+---
+
