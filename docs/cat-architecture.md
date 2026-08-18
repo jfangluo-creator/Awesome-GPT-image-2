@@ -3787,3 +3787,82 @@ perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整�
 
 ---
 
+### 🏛️ 例 6338：嫦娥奔月：月宫奇幻景观
+
+![嫦娥奔月：月宫奇幻景观](../images/%E5%AB%A6%E5%A8%A5%E5%A5%94%E6%9C%88%EF%BC%9A%E6%9C%88%E5%AE%AB%E5%A5%87%E5%B9%BB%E6%99%AF%E8%A7%82.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅史诗般的电影级奇幻景观，灵感源自中国古代天宫与 {argument name="mythic heroine" default="嫦娥奔月"} 的神话传说。采用 2:1 的宽幅全景构图，表现日落时分温暖的金色与橙色光影，营造体积雾效果，风格兼具绘画感与写实的高细节度。画面展示了一座宏伟的天宫建筑群，坐落于云海之上的悬崖峭壁间：左中位置矗立着一座壮观的红金配色寺庙大门，门上有一个巨大的圆形月洞门，饰有精美的雕刻边框，透过月洞门可见一轮小巧的弯月。瀑布从宫殿露台倾泻而下，没入下方的云雾中，松树覆盖的岩石山峰与远处层叠的山峦在烟霭中隐现。前景设有一座深色石质阳台，带有雕花栏杆和湿润的倒影地面；阳台上站着一位身着浅色飘逸长袍的人物，正面向宫殿与天空。右上方的天空中悬挂着一轮巨大的发光满月，月亮前方有一位身着白金长袍、拖着长长丝带的轻盈女子，正优雅地向月亮飘去。顶部边缘点缀着悬垂的松枝，并可见两个悬挂的流苏装饰。画面包含小型宝塔、桥梁、阶梯、庙宇屋顶以及远处用于衬托比例的微小人物剪影，严禁出现任何现代物品。氛围：庄严、梦幻、神话感、宁静、令人惊叹。光影应采用逆光与大气效果，结合柔和的云层、轮廓光、电影级景深以及精致的中国建筑细节，画面中不得包含任何文字或水印。
+
+[English]
+Create an epic cinematic fantasy landscape inspired by ancient Chinese celestial palaces and the myth of {argument name="mythic heroine" default="Chang'e flying to the moon"}. Use a wide panoramic 2:1 composition at sunset, with warm golden-orange light, volumetric mist, and a painterly yet photorealistic high-detail style. The scene shows a vast heavenly mountain palace complex built into cliffs above a sea of clouds: one monumental red-and-gold temple gate dominates the left-center, featuring exactly one enormous circular moon-gate opening with ornate carved trim, and exactly one small crescent moon visible through the opening. Waterfalls spill from the palace terraces into fog below, with pine-covered rocky peaks and distant layered mountains fading into haze. In the foreground, show a dark stone balcony with carved balustrades and wet reflective floor; exactly one robed figure stands on the balcony facing the palace and sky, wearing long pale flowing garments. In the upper right sky, place exactly one huge luminous full moon, and in front of it exactly one tiny ethereal flying woman in white-gold robes with long trailing silk ribbons, drifting gracefully toward the moon. Add overhanging pine branches framing the top edge, with exactly two hanging tassel ornaments visible. Include small pagodas, bridges, stairways, temple roofs, and distant tiny human silhouettes for scale, but no modern objects. Mood: majestic, dreamlike, mythological, serene, awe-inspiring. Lighting should be backlit and atmospheric, with soft clouds, rim light, cinematic depth, intricate Chinese architectural details, and no text or watermark.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089364279665512480) | 2026-08-17
+
+---
+
+### 🏛️ 例 6340：未来主义中式建筑融合
+
+![未来主义中式建筑融合](../images/%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%BC%8F%E5%BB%BA%E7%AD%91%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+中式留白的未来主义杂交的中式美建筑::东方山水的可望可游可居::借景、框景、障景、留白::建筑现象学与场所精神::安藤忠雄的静默几何::路易斯·康的纪念碑性::卡洛·斯卡帕的细部边界意识::阿尔多·罗西的原型与记忆::批判地域主义::极简主义体块与大面积空场::图底关系::崇高美学::遮蔽与显露::宏伟建筑尺度::总有一处清晰受光::深阴影、雾气、空气透视::低饱和综合色彩::至少一个高辨识彩色元素作为视觉锚点::克制、寂静、神圣、未被解释的超现实空间::电影级获奖镜头构图::超广角镜头
+
+主题：{argument name="主题" default="嫦娥奔月"}
+
+比例16:9
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089357251920478366) | 2026-08-17
+
+---
+
+### 🏛️ 例 6345：暴雨中的警用机甲对决
+
+![暴雨中的警用机甲对决](../images/%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E8%AD%A6%E7%94%A8%E6%9C%BA%E7%94%B2%E5%AF%B9%E5%86%B3.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅电影级写实风格的竖版动作场景，描绘两个巨大的类人警用/机甲机器人在阴暗暴雨下的工业港口码头激战。左侧机器人是一个笨重的橙色重型建筑风格战斗机甲，带有外露的黑色液压系统、圆形关节、厚重的装甲板、超大的机械手以及肩部安装的大型矩形发射器/火炮；它正向前猛冲并挥拳。右侧机器人是一个笨重的白色、黑色和深灰色警用机甲，带有日本警用标识，胸部/肩部装甲上可见“警视庁”和“MPD”字样，前臂上有“MPD”字样；头部/肩部区域附近有红色警示灯，它正摆出防御姿态并进行反击。展示两个机器人的拳头在中心碰撞，迸发出明亮的橙色火花，伴随飞溅的碎片、雨痕和冲击残骸。场景设定在潮湿的沥青或混凝土码头上，地面有水洼，倒映着机器人的身影，背景中散布着碎石、远处的集装箱、起重机、灯塔和工业建筑。使用低机位拍摄以体现机甲的巨大感，采用全身构图，左侧为橙色机器人，右侧为警用机器人，呈现动态的对角线姿态，展现逼真的金属质感、划痕漆面、螺栓、电缆、活塞、污垢、水滴以及电影级的高对比度光影。氛围：硬核近未来日本警用机器人部队战斗，戏剧性，激烈，写实，画面中无人，无额外机器人。可根据需要自定义：{argument name="left robot color" default="橙色"}, {argument name="right robot markings" default="警视庁 MPD"}, {argument name="location" default="雨中的工业港口码头"}, {argument name="weather" default="暴雨"}, {argument name="action" default="两个相似的巨大机器人互殴"}。
+
+[English]
+Create a cinematic photorealistic vertical action scene of exactly two giant humanoid police/mecha robots fighting in a rain-soaked industrial port yard under a dark stormy sky. The left robot is a bulky orange heavy-construction-style combat mech with black exposed hydraulics, circular joints, thick armor plates, oversized mechanical hands, and a large rectangular shoulder-mounted launcher/cannon; it is lunging forward and throwing a punch. The right robot is a bulky white, black, and dark gray police mech labeled with Japanese police markings, including visible text “警視庁” and “MPD” on its chest/shoulder armor and “MPD” on a forearm; it has red warning lights near the head/shoulder area and is bracing while striking back. Show the robots' fists colliding at the center with bright orange sparks, flying debris, rain streaks, and impact fragments. The setting is a wet asphalt or concrete dock with puddles and mirror-like reflections of the robots, scattered rubble, distant shipping containers, cranes, light towers, and industrial structures on the horizon. Use a low camera angle to make the mechs feel massive, full-body framing with the orange robot on the left and the police robot on the right, dynamic diagonal poses, realistic metal textures, scratched paint, bolts, cables, pistons, grime, water droplets, and cinematic high-contrast lighting. Mood: gritty near-future Japanese police robot unit battle, dramatic, intense, realistic, no humans visible, no extra robots. Customize as needed: {argument name="left robot color" default="orange"}, {argument name="right robot markings" default="警視庁 MPD"}, {argument name="location" default="rainy industrial port yard"}, {argument name="weather" default="stormy rain"}, {argument name="action" default="two similar giant robots trading punches"}.
+```
+
+**来源：** [@カーブミラー](https://x.com/kabumira862571/status/2089337672351601051) | 2026-08-17
+
+---
+
+### 🏛️ 例 6352：二十四节气编辑视觉设计
+
+![二十四节气编辑视觉设计](../images/%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E7%BC%96%E8%BE%91%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1.jpg)
+
+**Prompt:**
+
+```text
+围绕{argument name="主题" default="二十四节气之处暑"}内容生成一张极窄长的竖版编辑视觉，让外部大色场、中央暖白纸页与纸页内缩的主题画窗构成三层清楚的平面空间。先从主题的状态对照与情绪温度中推导两种结构色，以一条硬水平分界覆盖画面绝大面积；在内嵌画窗中用相同方向和相近比例缩小复述这组分区，外场更明、更空，窗内更深、更密，纸白作为全画最高明度的隔层。画面重量集中在中段，上部保留宽阔标题区，下部留出舒展的情绪落点；纸页边缘平直，不使用厚重悬浮阴影，画窗下方保留宽阔注释带。
+
+从主题的方向、过程、结构连接与时间变化中提取一条连续可识别的核心形态，把它组织成贯穿中段的单一斜轴，使其从画窗内部跨过至少两道边界，压住窗框、进入纸面留白并延伸到外部色场。跨界形态保持完整连续，越过边缘的端点保留最清楚的识别轮廓，内部细节适度压缩；局部形态沿斜轴由密到疏，其余辅助对象缩成安静的小型几何焦点，稳定留在画窗内部并靠近色场分界。让水平色界、竖向画幅、矩形纸页和内窗维持严格正交秩序，只有核心主题获得破格权，以准确遮挡关系建立空间，而不是依靠透视或戏剧投影。
+
+在主题动势的一侧边缘布置少量同源回声：将核心形态放大、裁切、降低透明与对比，强烈失焦到只剩柔软色块，局部越出画布；中心主体保持清楚，另一侧保持干净，使平面色场获得浅层空气 and 记忆感。色彩保持清晰的面积秩序，两个结构色共同占据约八成画面，主题中介色跨越两场并缝合冷暖或状态差异，一个小面积强调色只在窗内视觉焦点与纸页外文字手势处远距离出现两次。具体色相随主题改变，但纸白最高、少量深轮廓压住结构、强调色以饱和度而非面积取胜的明度关系保持稳定。
+
+文字系统延续图像的秩序与越界关系。主标题使用瘦长、细锐、笔画反差明显、端点精致的编辑衬线骨架，中文采用纤细而有书刊气质的字形，字距舒展；将一个关键词转化为连续自由的手写细线，轻轻穿过或邻接印刷标题，形成与主题斜轴呼应的私人笔迹。解释性信息缩进纸页下部，以两组中细小字 and 日期型微字分列；纸页外下方可用一组带长收笔的手写文字承接第二个强调色，最底边只保留极小元数据。让标题、图像、注释 and 页脚依次降低密度，不让文字压住核心识别边缘。
+
+以无方向的柔和日光 and 低阴影处理对象，使主题保留有限的真实材质，却仍服从平面色块。全图覆盖极轻的艺术纸纤维、细印刷网点与低对比扫描颗粒，纸页 and 画幅中的纹理略明显，外部纯色场更克制；对象边缘允许微小印刷柔化与溢色，关键轮廓 and 字形仍保持清洁。最终画面第一眼呈现双色长幅中的白色纸窗 and 从窗内连续生长到窗外的主题形态，随后才显露失焦边影、精细题头、手写干预 and 微型注释，形成严格编辑秩序与鲜活时间感并存的现代纸印视觉。
+主题：{argument name="主题" default="二十四节气之处暑"}
+
+比例3:4
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089291663466508680) | 2026-08-17
+
+---
+

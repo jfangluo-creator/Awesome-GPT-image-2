@@ -3543,3 +3543,37 @@ Using REFERENCE_0 as the character base, expand it into a full illustrated outdo
 
 ---
 
+### 🔧 例 6374：动漫哥特洛丽塔斗篷变身
+
+![动漫哥特洛丽塔斗篷变身](../images/%E5%8A%A8%E6%BC%AB%E5%93%A5%E7%89%B9%E6%B4%9B%E4%B8%BD%E5%A1%94%E6%96%97%E7%AF%B7%E5%8F%98%E8%BA%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_0 作为服装灵感，将哥特经典斗篷转化为动漫哥特洛丽塔角色插画，而非产品照片。保持斗篷概念的可辨识度，采用短款肩部斗篷、红色面料、深色内搭、华丽的金色边框刺绣以及层叠的哥特式风格，但将其改编为幻想偶像般的连衣裙装。
+
+角色与姿势：创作一位可爱、略带调皮的动漫少女，采用高角度四分之三侧视图，站在宏伟的楼梯上，带着自信的微笑抬头看向观众。赋予她 {argument name="hair style" default="带有黑色丝带蝴蝶结的长双马尾"}，{argument name="hair color" default="带有粉色挑染的黑银色发色"}，以及生动的紫色眼睛。
+
+服装转化：将产品模特造型替换为黑色哥特洛丽塔连衣裙，搭配蕾丝袖口、泡泡袖、受参考斗篷启发的红色小斗篷，以及沿斗篷和裙摆的华丽金色刺绣。增加层叠的链条和宗教哥特式配饰：胸前和腰间悬挂 3 个醒目的金色十字架吊坠，外加尖刺项圈和小型垂坠耳环。保持造型优雅、戏剧化且细节丰富。
+
+新场景：将角色置于 {argument name="setting" default="黑暗的维多利亚式宅邸楼梯大厅"} 中，背景包括深红色地毯楼梯、雕花木栏杆、高大的拱形窗户、温暖的壁灯，以及从侧面射入的电影感光线。
+
+风格：高细节日本动漫插画，明亮的眼睛，精致的线条，丰富的阴影，戏剧性的哥特氛围，温暖的高光，竖向肖像构图。无产品文字，无目录布局，无品牌标志，无额外角色。
+
+[English]
+Using REFERENCE_0 as the clothing inspiration, transform the gothic classic cape into an anime gothic-lolita character illustration rather than a product photo. Keep the cape concept recognizable with a short shoulder cape, red fabric, dark inner clothing, ornate gold border embroidery, and layered gothic styling, but adapt it into a fantasy idol-like dress outfit.
+
+Character and pose: Create a cute, slightly mischievous anime girl in a high-angle three-quarter view, standing on a grand staircase and looking up at the viewer with a confident smile. Give her {argument name="hair style" default="long twin tails with black ribbon bows"}, {argument name="hair color" default="black and silver with pink highlights"}, and vivid purple eyes.
+
+Outfit transformation: Replace the product-model look with a black gothic lolita dress, lace cuffs, puff sleeves, a red capelet inspired by the reference cape, and ornate gold embroidery along the cape and skirt hem. Add layered chains and religious gothic accessories: exactly 3 prominent gold cross pendants hanging at the chest and waist, plus a spiked choker and small dangling earrings. Keep the look elegant, dramatic, and richly detailed.
+
+New setting: Place the character inside {argument name="setting" default="a dark Victorian mansion stair hall"} with a deep red carpeted staircase, carved wooden railings, tall arched windows, warm wall lamps, and cinematic light streaming from the side.
+
+Style: High-detail Japanese anime illustration, glossy eyes, polished linework, rich shadows, dramatic gothic atmosphere, warm highlights, vertical portrait composition. No product text, no catalog layout, no brand logo, no extra characters.
+```
+
+**来源：** [@AITojo](https://x.com/AiTojo0609/status/2089191718512177239) | 2026-08-17
+
+---
+

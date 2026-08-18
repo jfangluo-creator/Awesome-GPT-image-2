@@ -18228,3 +18228,147 @@ A cinematic {argument name="art style" default="Ralph McQuarrie–inspired"} sce
 
 ---
 
+### 🎨 例 6324：机械拆解技术 Knolling 提示词
+
+![机械拆解技术 Knolling 提示词](../images/%E6%9C%BA%E6%A2%B0%E6%8B%86%E8%A7%A3%E6%8A%80%E6%9C%AF%20Knolling%20%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+2x2 网格，16:9，执行此操作：{argument name="machines" default="4 种复杂机械，例如 CyberTruck、F35 战斗机、收割者无人机、詹姆斯·韦伯望远镜"}     Knolling 拆解图 — {argument name="subject" default="{SUBJECT}"} ({argument name="category" default="{SUBJECT_TYPE}"})，俯视正投影。  零件 — 完整的物料清单，每个零件仅展示一次：{argument name="parts" default="{PARTS — 列出每个零件及其数量}"}  布局 — 整洁的直线网格；每个零件均与水平轴和垂直轴对齐 — 按子装配体分组 — 同一子装配体的零件保持相邻并聚集成簇 — 每个组以其最大的结构件为锚点；紧固件排列在它们所固定的零件旁边 — 间距均匀，无零件重叠，无对角线散乱 — 所有零件比例一致  描绘 — 保持真实性 — 每个紧固件都放置在匹配的安装孔附近；螺丝数量 = 孔数量 — 每个垫圈或密封件均显示其密封的周边 — 无重复或虚构零件 — 保留每个零件的真实方向和旋向；请勿镜像手性零件  渲染 — 正投影，无透视，所有零件清晰对焦 — 平坦、均匀的漫反射光；极小的柔和阴影 — 中性无缝背景
+
+[English]
+2x2 grid, 16:9, do this for {argument name="machines" default="4 complex machines, like CyberTruck, F35 plane, Reaper Drone, James Webb Telescope"}     Knolling teardown — {argument name="subject" default="{SUBJECT}"} ({argument name="category" default="{SUBJECT_TYPE}"}), top-down orthographic.  PARTS — complete bill of materials, show each exactly once: {argument name="parts" default="{PARTS — list every part with quantity}"}  LAYOUT - clean rectilinear grid; every part aligned to horizontal and vertical axes - grouped by subassembly — a subassembly's parts stay adjacent as one cluster - each group anchored by its largest structural part; fasteners cluster beside   the part they secure - even spacing, no overlapping parts, no diagonal scatter - consistent scale across every part  DEPICTION — keep it truthful - every fastener sits near a matching mounting hole; screw count = hole count - every gasket or seal shown with the perimeter it seals against - no duplicated or phantom parts - preserve each part's true orientation and handedness; do not mirror chiral parts  RENDER - orthographic projection, no perspective, all parts in sharp focus - flat, even, diffuse lighting; minimal soft shadow - neutral seamless background
+```
+
+**来源：** [@Gadgetify](https://x.com/Gdgtify/status/2089477873648251392) | 2026-08-17
+
+---
+
+### 🎨 例 6329：交叉臂碰杯交互提示词
+
+![交叉臂碰杯交互提示词](../images/%E4%BA%A4%E5%8F%89%E8%87%82%E7%A2%B0%E6%9D%AF%E4%BA%A4%E4%BA%92%E6%8F%90%E7%A4%BA%E8%AF%8D.jpg)
+
+**Prompt:**
+
+```text
+画一个{argument name="人物" default="雷军和董明珠"}在{argument name="地点" default="埃菲尔铁塔"}上{argument name="动作" default="喝交杯酒"}的场景
+```
+
+**来源：** [@Curline Zephirin](https://x.com/Curline1222/status/2089425785564066201) | 2026-08-17
+
+---
+
+### 🎨 例 6334：邋遢山民插画
+
+![邋遢山民插画](../images/%E9%82%8B%E9%81%A2%E5%B1%B1%E6%B0%91%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+{argument name="subject" default="山民"}
+邋遢且散发着恶臭
+笨重地走下
+岩石峭壁
+手持 {argument name="weapons" default="棍棒和长矛"}
+
+[English]
+{argument name="subject" default="mountain men"}
+scruffy and foul-smelling
+come lumbering
+down the rocky cliffs
+with {argument name="weapons" default="clubs and spears"}
+```
+
+**来源：** [@Michael H. Lester](https://x.com/mhlester/status/2089382825044869169) | 2026-08-17
+
+---
+
+### 🎨 例 6344：水彩 Q 版女学生剑士
+
+![水彩 Q 版女学生剑士](../images/%E6%B0%B4%E5%BD%A9%20Q%20%E7%89%88%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%89%91%E5%A3%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张竖版奇幻动漫水彩插画，主角是 {argument name="character name" default="Kinako"}，一位身材娇小的 Q 版女学生剑士，正站在白纸背景上摆出坚定的战斗姿势。她留着一头飘逸的 {argument name="hair color" default="black"} 长发，头发向左侧戏剧性地飘动，留着平刘海，一侧别着两个金色发夹，有着琥珀棕色的大眼睛、红润的脸颊和严肃的表情。她身穿日式水手服，包括米色上衣、海军蓝领子和领带、深色百褶裙、宽松白袜、深棕色鞋子，以及带有星形徽章的小型肩甲细节。她双手握着一把武士刀横在身前：弯曲的刀刃向左上方斜伸，黑金色的刀柄和刀鞘向右下方斜伸。她的右手部分被剑身和衣物遮挡。
+
+在她周围环绕着四个可爱的蓝色幽灵：一个漂浮在左上方头发旁，一个小幽灵悬挂在右侧灯笼下方，一个较大的幽灵从右下方升起，另一个从左下方升起。每个灵体都有苍白的圆脸、黑色椭圆眼睛、小巧简单的嘴巴以及细长的蓝色火焰状尾巴。在右上角添加一个橙色纸灯笼，灯笼带有黑色顶盖、细长的悬挂绳、流苏，正面有一个醒目的黑色圆形眼状标记。背景应为柔和的米色水彩渲染，带有墨迹飞溅、烟灰色卷纹、淡淡的污渍、细小的花朵、小石块和角色脚下稀疏的草丛，并留出充足的留白。
+
+视觉风格：细腻的手绘水彩与水墨，奇幻角色艺术，故事书封面氛围，海军蓝、米色、青蓝色、暖米色和橙色的柔和色调，可见的纸张纹理，随性的素描线条，柔和的颜料晕染，风格奇幻且略带神秘感。构图：全身居中角色，竖向构图，无边框，无对话气泡，无现代 UI，无额外角色或武器。在右下角添加一个手写的日式签名 {argument name="signature text" default="妃菜子"}，并配有一个微小的红色印章。
+
+[English]
+Create a vertical fantasy anime watercolor illustration of {argument name="character name" default="Kinako"}, a small chibi-style schoolgirl swordswoman standing in a determined battle pose on a white paper background. She has long flowing {argument name="hair color" default="black"} hair blowing dramatically to the left, straight bangs, two gold hairpins on one side, large amber-brown eyes, rosy cheeks, and a serious expression. Her outfit is a Japanese sailor-style school uniform with a cream blouse, navy collar and necktie, dark pleated skirt, loose white socks, dark brown shoes, and a small shoulder guard/armor detail with a star-like emblem. She holds exactly one katana with both hands across the front of her body: the curved blade extends diagonally upward to the left, the black-and-gold handle and scabbard run diagonally down to the right. Her right hand is partly hidden by the sword and clothing.
+
+Surround her with exactly four cute blue ghost spirits: one floating near the upper left beside the hair, one small spirit dangling below the lantern on the right, one larger spirit rising from the lower right, and one spirit rising from the lower left. Each spirit has a pale round face, black oval eyes, a small simple mouth, and wispy blue flame-like tails. Add exactly one orange paper lantern in the upper right with black caps, thin hanging cords, tassels, and a single bold black circular eye-like mark on its front. The background should be a soft beige watercolor wash with ink splatters, smoky gray curls, faint stains, tiny flowers, small rocks, and sparse grass at the character’s feet, leaving plenty of clean white margin.
+
+Visual style: delicate hand-painted watercolor and ink, fantasy character art, storybook cover atmosphere, muted navy, cream, teal-blue, warm beige, and orange palette, visible paper texture, loose sketch lines, soft bleeding pigments, whimsical yet slightly mysterious mood. Composition: full-body centered character, portrait orientation, no panel borders, no speech bubbles, no modern UI, no extra characters or weapons. Add a small handwritten Japanese-style signature at the bottom right reading {argument name="signature text" default="妃菜子"} with a tiny red seal stamp.
+```
+
+**来源：** [@レティシア・ノエル](https://x.com/N7S6P1/status/2089337767033733454) | 2026-08-17
+
+---
+
+### 🎨 例 6348：Bloomers 运动服插画
+
+![Bloomers 运动服插画](../images/Bloomers%20%E8%BF%90%E5%8A%A8%E6%9C%8D%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+SFW 艺术 / 全身着装 / 无暗示性内容 / {argument name="clothing style" default="bloomers sports wear"} 插画
+
+[English]
+SFW art / Fully clothed / No suggestive content / {argument name="outfit" default="bloomers sports wear"} illustration
+```
+
+**来源：** [@らび@AIイラスト咲蓮清鹿クン🦋](https://x.com/kiyoka_succubus/status/2089322194098962513) | 2026-08-17
+
+---
+
+### 🎨 例 6354：日本 ASMR 主播工作室
+
+![日本 ASMR 主播工作室](../images/%E6%97%A5%E6%9C%AC%20ASMR%20%E4%B8%BB%E6%92%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4.jpg)
+
+**Prompt:**
+
+```text
+ライブ配信スタジオで、{argument name="マイク" default="ASMR用マイク"}に向かって話している{argument name="人物" default="日本人女性ストリーマー"}。
+```
+
+**来源：** [@Cheer Cheung](https://x.com/learnwithcheer/status/2089288342630445230) | 2026-08-17
+
+---
+
+### 🎨 例 6364：Laputa 机器人与摇椅的融合
+
+![Laputa 机器人与摇椅的融合](../images/Laputa%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E6%91%87%E6%A4%85%E7%9A%84%E8%9E%8D%E5%90%88.jpg)
+
+**Prompt:**
+
+```text
+{argument name="主体1" default="ラピュタロボット兵"}と{argument name="主体2" default="ロッキングチェア"}を融合させて
+```
+
+**来源：** [@クダカン](https://x.com/kudakanSP/status/2089222368489292194) | 2026-08-17
+
+---
+
+### 🎨 例 6381：银河探索与星云
+
+![银河探索与星云](../images/%E9%93%B6%E6%B2%B3%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%98%9F%E4%BA%91.jpg)
+
+**Prompt:**
+
+```text
+{argument name="探索シーン" default="宇宙の美しさと広大さを描く壮大な探査シーン"}、{argument name="天体" default="星雲と惑星"}が輝く壮大な宇宙。
+```
+
+**来源：** [@Yeti Images](https://x.com/Yeti_Images/status/2089147700155466123) | 2026-08-17
+
+---
+

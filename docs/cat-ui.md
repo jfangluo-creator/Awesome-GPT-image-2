@@ -12974,3 +12974,189 @@ Create a hyperrealistic, ultra-detailed cinematic fashion editorial portrait of 
 
 ---
 
+### 🖥️ 例 6323：乡村火车站的两位参考女性
+
+![乡村火车站的两位参考女性](../images/%E4%B9%A1%E6%9D%91%E7%81%AB%E8%BD%A6%E7%AB%99%E7%9A%84%E4%B8%A4%E4%BD%8D%E5%8F%82%E8%80%83%E5%A5%B3%E6%80%A7.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+以 REFERENCE_1 作为左侧女性，REFERENCE_0 作为右侧女性，生成一张逼真的全身旅行快照，展示这两位不同的人物并肩站在宁静的日本乡村火车站台上。保持每张脸庞和发型清晰区分，并忠实于各自的参考图；请勿融合她们的面部特征。
+
+场景与构图：竖构图照片，两位女性并肩站在深色木质车站立柱旁，面带柔和自然的微笑看向镜头。画面左侧延伸出通向远方的铁轨，背景为乡村站台、车站建筑和绿色山丘，光线为明亮的自然日间光。
+
+服装与道具：将两人的服装从素色灰色 T 恤更换为柔和、得体的旅行装束。左侧女性身穿白色长袖衬衫和浅蓝色半身裙，背着米色斜挎包，手中握着一个浅色拉杆箱的把手。右侧女性身穿白色上衣，外搭浅鼠尾草绿色开衫，下身穿着米白色长裤，右肩背着一个浅米色单肩包。
+
+风格：自然、照片级逼真的日本生活方式摄影，色调柔和，浅景深，清晰真实的皮肤质感，呈现出自然随性但精致的杂志风旅行氛围。
+
+约束条件：画面中必须正好有 2 位女性，左侧对应 REFERENCE_1，右侧对应 REFERENCE_0；禁止出现额外人物、文字、换脸或身份混淆。
+
+[English]
+Using REFERENCE_1 as the woman on the left and REFERENCE_0 as the woman on the right, generate a realistic full-body travel snapshot of the two distinct people standing together at a quiet Japanese countryside train station platform. Keep each face and hairstyle clearly separated and faithful to its own reference; do not blend their facial features.
+
+Scene and composition: Portrait-oriented photo, both women standing side by side near a dark wooden station pillar, looking at the camera with soft natural smiles. Add railway tracks running into the distance on the left, a rural platform, station buildings, green hills in the background, and bright daytime natural light.
+
+Wardrobe and props: Change both outfits from plain gray T-shirts into soft, modest travel clothing. The left woman wears a white long-sleeve blouse and pale blue skirt, with a beige crossbody strap, and holds the handle of a light-colored rolling suitcase in front of her. The right woman wears a white top with a pale sage-green cardigan and cream trousers, carrying a light beige shoulder bag on her right shoulder.
+
+Style: Natural photorealistic Japanese lifestyle photography, gentle colors, shallow depth of field, clean realistic skin texture, candid but polished magazine-like travel atmosphere.
+
+Constraints: Exactly 2 women, matching REFERENCE_1 on the left and REFERENCE_0 on the right; no extra people, no text, no face swapping, no mixed identities.
+```
+
+**来源：** [@千田結穂（せんだゆいほ）](https://x.com/jins2001jp/status/2089478597182697652) | 2026-08-17
+
+---
+
+### 🖥️ 例 6355：Foxy App Icon Exploration 项目
+
+![Foxy App Icon Exploration 项目](../images/Foxy%20App%20Icon%20Exploration%20%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个标题为 {argument name="headline text" default="FOXY APP ICON EXPLORATIONS"} 的精美展示项目，展示以可爱的蜷缩蓬松狐狸为核心概念的现代 App 图标风格变体。
+
+画布：宽屏 16:9 米色/灰白色设计项目，高分辨率，居中构图，带有微妙的纸张纹理背景。顶部为醒目的黑色大号全大写标题，下方配有较小的副标题：{argument name="subtitle text" default="Modern app icon styles using the curled fluffy fox concept"}。使用细水平分割线分隔各部分。
+
+布局：将 19 个编号的 App 图标概念整齐地排列在 3 行网格中：第一行 6 个图标，第二行 6 个图标，第三行 7 个图标。每个图标均为圆角方形或徽章风格，均采用相同的蜷缩三角形狐狸吉祥物：一只蜷缩成柔软三角形的蓬松橙色狐狸，带有白色口鼻部、小黑眼睛、黑鼻子以及头部附近的小黄色强调标记。在每个图标上方放置一个小编号，下方标注简短名称。
+
+第 1 部分标题：“ROUNDED SQUARE APPS”。包含 6 个图标：
+1. Clean Minimal — 米色圆角方形背景，柔和阴影，简约橙色蜷缩狐狸。
+2. Soft Warm — 桃色/橙色暖色调渐变圆角方形背景。
+3. Bold Dark — 黑色圆角方形背景，带有发光的橙色狐狸。
+4. Vibrant Gradient — 亮橙红色渐变圆角方形背景。
+5. Paper Texture — 米色纸质感图标，压印的折叠狐狸造型，呈浅奶油色。
+6. Leather Touch — 棕色缝线皮革圆角方形背景，棕褐色皮革狐狸。
+
+第 2 部分标题：“ALTERNATIVE STYLES”。包含 6 个图标：
+7. Glass Morph — 半透明光泽玻璃圆角方形图标，内含橙色狐狸。
+8. Frosted Glass — 磨砂银色半透明方形，内部带有模糊的狐狸形象。
+9. Neumorphic — 柔软的灰白色凸起图标，带有简约的白色折叠狐狸。
+10. Outline Accent — 深炭灰色圆角方形，带有细奶油色线条勾勒的狐狸轮廓及黄色强调标记。
+11. Matte Sculpture — 柔软的米色哑光粘土质感蜷缩狐狸雕塑。
+12. Black & Gold — 黑色圆角方形，带有金属质感金色狐狸。
+
+第 3 部分标题：“ALTERNATIVE COMPOSITIONS & ELEMENTS”。包含 7 个图标：
+13. Circle Badge — 圆形橙色徽章，内部为蜷缩狐狸，带有缝线/圆环细节。
+14. Flat Mark — 简约的扁平橙色三角形狐狸标识，置于米色圆角方形上。
+15. Double Ring — 蜷缩狐狸位于两个橙色圆环内。
+16. Torn Sticker — 狐狸图案呈现为撕裂的纸质贴纸，带有卷起的纸角。
+17. Spark Cluster — 橙色圆角方形，带有狐狸及小火花/星形簇。
+18. Wrapped Fold — 米色方形，狐狸从折叠的信封/包装形状中探出。
+19. Nose Emblem — 狐狸头部徽章，聚焦于面部、耳朵、黑鼻子和黄色标记。
+
+辅助元素：在底部添加一行标注为“SUPPORTING ELEMENTS (FOR USE IN APP & BRANDING)”的内容，包含 14 个小型吉祥物/品牌元素：黑鼻子、三个黄色短横线、金色闪光星、橙白相间蓬松尾巴、一对橙色狐狸耳朵、黑色弯曲微笑/弧线、爪印、小狐狸头、微型蜷缩狐狸吉祥物、橙色蓬松绒球、橙色水滴、橙色丝带横幅、金色狐狸硬币徽章、圆角胶囊轮廓、向右箭头轮廓，以及带有黑色中心的爱心轮廓。如果空间紧张，请保留前 14 个最显眼的元素并保持视觉风格统一。
+
+视觉风格：高端 UI 概念展示页，精致的 3D 软渲染图标，圆角设计，触感材质，柔和阴影，暖橙色与米色调搭配黑色点缀。使用清晰易读的排版、小标签、均匀的间距以及现代产品设计展示美学。吉祥物在所有变体中应保持一致且易于识别，即 {argument name="mascot description" default="curled fluffy orange fox forming a triangular app icon shape"}。避免添加多余的图标、标签、水印或写实背景杂物。
+
+[English]
+Goal: Create a clean presentation board titled {argument name="headline text" default="FOXY APP ICON EXPLORATIONS"}, showing modern app icon style variations for a cute curled fluffy fox logo concept.
+
+Canvas: Wide 16:9 beige/off-white design board, high-resolution, centered composition, subtle paper background. At the top, a large bold black all-caps headline, with a smaller subtitle underneath: {argument name="subtitle text" default="Modern app icon styles using the curled fluffy fox concept"}. Use thin horizontal divider lines to separate sections.
+
+Layout: Arrange exactly 19 numbered app icon concepts in a neat grid of 3 rows: first row has 6 icons, second row has 6 icons, third row has 7 icons. Each icon is a rounded-square or badge-style app icon featuring the same curled triangular fox mascot: a fluffy orange fox curled into a soft triangular fold, with a white muzzle, tiny black eye, black nose, and small yellow attention marks near the head. Put a small number above each icon and a short label below it.
+
+Section 1 title: “ROUNDED SQUARE APPS”. Include exactly 6 icons:
+1. Clean Minimal — cream rounded-square background, soft shadow, simple orange curled fox.
+2. Soft Warm — peach/orange warm gradient rounded-square background.
+3. Bold Dark — black rounded-square background with glowing orange fox.
+4. Vibrant Gradient — bright orange-red gradient rounded-square background.
+5. Paper Texture — beige paper-like icon, embossed folded fox in pale cream.
+6. Leather Touch — brown stitched leather rounded-square background, tan leather fox.
+
+Section 2 title: “ALTERNATIVE STYLES”. Include exactly 6 icons:
+7. Glass Morph — translucent glossy glass rounded-square icon with orange fox.
+8. Frosted Glass — frosted silver translucent square with blurred fox inside.
+9. Neumorphic — soft off-white raised icon with minimal white folded fox.
+10. Outline Accent — dark charcoal rounded square with thin cream line-art fox outline and yellow accent marks.
+11. Matte Sculpture — soft beige matte clay-like curled fox sculpture.
+12. Black & Gold — black rounded square with metallic gold fox.
+
+Section 3 title: “ALTERNATIVE COMPOSITIONS & ELEMENTS”. Include exactly 7 icons:
+13. Circle Badge — circular orange badge with curled fox inside and stitched/ring detail.
+14. Flat Mark — simplified flat orange triangular fox mark on cream rounded square.
+15. Double Ring — curled fox inside two circular orange rings.
+16. Torn Sticker — fox printed as a torn paper sticker with curled paper corner.
+17. Spark Cluster — orange rounded square with fox and small sparkle/star cluster.
+18. Wrapped Fold — beige square with fox peeking from a folded envelope/wrap shape.
+19. Nose Emblem — fox head emblem focused on face, ears, black nose, and yellow marks.
+
+Supporting elements: Along the bottom, add a row labeled “SUPPORTING ELEMENTS (FOR USE IN APP & BRANDING)” containing exactly 14 small mascot/brand elements: black nose, three yellow dash marks, golden sparkle star, orange-white fluffy tail, pair of orange fox ears, black curved smile/arc, paw print, small fox head, tiny curled fox mascot, orange fluffy pom-pom, orange teardrop, orange ribbon banner, gold fox coin badge, rounded pill outline, right arrow outline, and heart outline with black center. If space is tight, keep the first 14 most visible items and maintain the same visual style.
+
+Visual style: Premium UI concept sheet, polished 3D soft-rendered icons, rounded corners, tactile materials, gentle shadows, warm orange and cream palette with black accents. Use crisp readable typography, small labels, even spacing, and a modern product-design presentation aesthetic. The mascot should remain consistently recognizable across all variations as a {argument name="mascot description" default="curled fluffy orange fox forming a triangular app icon shape"}. Avoid extra icons, extra labels, watermarks, or photorealistic background clutter.
+```
+
+**来源：** [@🧠 Founder of AI Content University | AICU](https://x.com/SDDFounder/status/2089278095802953866) | 2026-08-17
+
+---
+
+### 🖥️ 例 6362：手工撕纸海报风格
+
+![手工撕纸海报风格](../images/%E6%89%8B%E5%B7%A5%E6%92%95%E7%BA%B8%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个由一组不规则层叠的荧光撕纸标题块组成的视觉焦点：{argument name="main title" default="主标题"} 巨大且居中，分为错落的几行，由粗犷的笔刷字体和剪纸形式组合而成，具有厚重的笔触、参差不齐的边缘、夸张的转角、不均匀的字怀，以及轻微的局部套印不准，使文字看起来像是手工印刷的图形形状，而非整齐的排版。围绕标题构建一个圆形、松散但引导清晰的活动信息系统，周围分布着几个蓝白轮廓的手绘贴纸徽章；每个徽章将主题相关的小插图、位置标记或符号连接到白色标签上，大小和方向各异，呈现出随意粘贴在纸上的感觉。主体和标签共享鲜艳的蓝色外轮廓和黄色填充，形成统一的跨元素描边。背景使用温暖的纤维纸和陈旧海报质感，大面积的 {argument name="background color" default="赭褐色"} 区域保留纸张纹理、压痕、细微的色彩变化和印刷溢色；用深棕色手绘虚线、弧线、箭头和少量英文字母几何图形来组织留白，且不与主要信息产生视觉竞争。将主色调锁定为赭棕色、亮黄色、鲜艳蓝色和暖米白色，使用平涂填充和有限的色彩重叠，不使用现代渐变、玻璃效果或过度润色的数字阴影。赋予每个图形、文字、贴纸和背景同样略显不稳定的手工轮廓、丝网印刷套印偏差、多变的笔触粗细和局部磨损感，保留不完美的制作痕迹；保持信息层级清晰，中心标题权重最高，周围模块营造节奏感和呼吸空间，使整幅作品看起来像是一张由拼贴、手绘、丝网印刷和陈旧纸张组装而成的城市文化活动海报。
+
+[English]
+Create an immediate visual anchor from a group of irregularly layered fluorescent torn-paper title blocks: the {argument name="main title" default="main title"} is huge, centered, split into staggered lines, and built from a combination of rough brush lettering and paper-cut forms, with heavy strokes, ragged broken edges, exaggerated corners, uneven counters, and slight local misregistration so the words feel like hand-printed graphic shapes rather than orderly typesetting. Build a circular, loose yet clearly guided event-information system around the title, with several blue-and-white outlined hand-drawn sticker badges distributed around it; each badge connects a theme-related small illustration, location marker, or symbol to a white label, varies in size and direction, and feels casually pasted onto the paper. The subject and labels share a vivid blue outer contour and yellow fill, creating a unified cross-element stroke. Use warm fibrous paper and aged-poster texture in the background, with a large {argument name="background color" default="brown umber"} field retaining paper grain, impressions, slight color variation, and bleeding print edges; organize the open space with dark-brown hand-drawn dotted lines, arcs, arrows, and a few English geometric letterforms without letting them compete with the main message. Lock the main colors to ochre brown, bright yellow, vivid blue, and warm off-white, using flat fills and limited color overlap, with no modern gradients, glass effects, or excessively polished digital shadows. Give every graphic, word, sticker, and background the same slightly unstable handmade outlines, screen-print misregistration, varied stroke weights, and localized wear, preserving imperfect making traces; keep the information hierarchy clear, with the central title carrying the greatest weight and the surrounding modules creating rhythm and breathing room, so the whole piece feels like an urban cultural event poster assembled from collage, hand drawing, screen printing, and aged paper.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089252321603862547) | 2026-08-17
+
+---
+
+### 🖥️ 例 6363：Strawberry Café A B 对比 UI
+
+![Strawberry Café A B 对比 UI](../images/Strawberry%20Caf%C3%A9%20A%20B%20%E5%AF%B9%E6%AF%94%20UI.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个简洁的桌面 Web 应用 A/B 对比界面，将两张生成的时尚美食图像并排展示，模拟 ChatGPT 图像评估界面的效果。
+
+画布：宽屏 16:9 截图，白色背景，浅灰色应用边框，内容居中。包含一个窄左侧边栏和一个大型中央对比区域。
+
+布局：在顶部中央，显示日文问题文本「どちらの画像が良いですか？」。在右上角，显示日文小链接「スキップする」以及两个简单的图标：分享/上传和三点菜单。在最左侧，包含一个垂直工具栏，共有 6 个可见项目：顶部是 OpenAI 的漩涡 Logo，下方堆叠 4 个简单的黑色轮廓导航图标，底部是一个小型用户头像。
+
+主要对比区域：放置 2 张圆角图像卡片，并排显示，中间留有窄白色间隙。左侧卡片左下角标有一个包含“1”的小型黑色圆角方块。右侧卡片左下角标有一个包含“2”的小型黑色圆角方块，并在其左下角附近有一个小型圆形下载按钮叠加层。
+
+左侧卡片主体：一张粉彩草莓甜点咖啡馆图像，主体为 {argument name="main subject" default="一位留着凌乱深棕色高丸子头、戴着粉色发夹、化着粉嫩妆容、身穿柔粉色服装的年轻女性"}。她坐在桌旁，拿着勺子，看着玻璃碗中巨大的草莓刨冰圣代。甜点配有白色鲜奶油、鲜红草莓糖浆、整颗草莓和少量装饰性绿色配菜。添加可爱插画叠加层：5 颗浮动的草莓，右侧 1 个草莓头 Q 版角色，底部附近 1 个小型兔形甜点吉祥物，微小的闪光效果，以及右上角附近的英文文本“Berry Snow”。整体色调为白色、腮红粉、草莓红和柔和的青色。
+
+右侧卡片主体：一张粉彩草莓咖啡馆图像，同一位年轻女性侧身坐在圆形小咖啡桌旁，身穿蓬松的粉色毛衣、青色阔腿裤、粉色袜子和粉青配色运动鞋。她的头发编成辫子，戴着小发夹。她面对着桌上巨大的草莓刨冰甜点。在右侧添加一个大型粉色线条动漫女孩，仿佛正在与甜点互动。包含 6 颗浮动的草莓，右下角附近 1 个草莓碗，底部中央 1 个飞溅的草莓糖浆插画，右下角附近 1 个小型奶油顶吉祥物，以及左上角附近的粉色品牌文本“FROSTBERRY”。
+
+底部输入栏：在两张图像卡片下方，绘制一个横跨对比区域宽度的圆角 ChatGPT 提示词栏。包含 5 个可见控件/文本项：左侧的加号图标，占位符文本「ChatGPT に質問」，标记为「最速」的小型下拉菜单，麦克风图标，以及最右侧的黑色圆形声波按钮。
+
+视觉风格：写实时尚大片与扁平化可爱草莓插画相结合，明亮的窗光，柔和的粉彩粉色咖啡馆内饰，高调曝光，光泽感的甜点质感，清晰的 UI 截图风格。保持两张图像卡片精致生动，同时周围的应用界面保持极简和白色。
+
+约束：严格保留所示的日文界面文本。使用 2 张对比图像，左侧边栏包含 6 个项目，使用 2 个编号标签，底部输入栏包含 5 个控件。避免出现额外的弹窗、水印、浏览器栏或不相关的文本。
+
+[English]
+Goal: Create a clean desktop web-app A/B comparison screen showing two generated fashion-food images side by side, as if inside a ChatGPT image evaluation interface.
+
+Canvas: Wide 16:9 screenshot, white background, light gray app chrome, centered content. Include a narrow left sidebar and a large central comparison area.
+
+Layout: At the top center, show the Japanese question text 「どちらの画像が良いですか？」. At the top right, show the small Japanese link 「スキップする」 plus two simple icons: share/upload and three-dot menu. On the far left, include a vertical toolbar with exactly 6 visible items: the OpenAI swirl logo at the top, then 4 simple black outline navigation icons stacked below it, and a small user avatar at the bottom.
+
+Main comparison area: Place exactly 2 rounded-corner image cards side by side with a narrow white gap between them. The left card is labeled with a small black rounded square containing “1” at the lower-left corner. The right card is labeled with a small black rounded square containing “2” at the lower-left corner and has a small circular download button overlay near its lower-left area.
+
+Left card subject: A pastel strawberry dessert café image featuring {argument name="main subject" default="a young woman with messy dark brown hair in a high bun, pink hair clips, rosy makeup, and a soft pink outfit"}. She sits at a table, holding a spoon and looking at a huge strawberry shaved-ice parfait in a glass bowl. The dessert has white whipped cream, bright red strawberry syrup, whole strawberries, and a small decorative green garnish. Add kawaii illustrated overlays: exactly 5 floating strawberries, exactly 1 chibi strawberry-headed character on the right, exactly 1 small bunny-like dessert mascot near the bottom, tiny sparkles, and the English text “Berry Snow” near the upper right. The overall palette is white, blush pink, strawberry red, and soft teal.
+
+Right card subject: A pastel strawberry café image featuring the same young woman seated sideways at a small round café table, wearing a fluffy pink sweater, teal wide-leg pants, pink socks, and pink-and-teal sneakers. Her hair is braided with small clips. She faces a giant strawberry shaved-ice dessert on the table. Add a large pink line-art anime girl on the right side as if interacting with the dessert. Include exactly 6 floating strawberries, exactly 1 strawberry bowl near the lower right, exactly 1 splashing strawberry syrup illustration at the bottom center, exactly 1 small cream-topped mascot near the lower right, and the pink brand text “FROSTBERRY” near the upper left.
+
+Bottom input bar: Under the two image cards, draw a rounded ChatGPT prompt bar spanning the comparison width. Include exactly 5 visible controls/text items: a plus icon on the left, placeholder text 「ChatGPT に質問」, a small dropdown labeled 「最速」, a microphone icon, and a black circular voice-wave button on the far right.
+
+Visual style: Photorealistic fashion editorial mixed with flat kawaii strawberry illustrations, bright window light, soft pastel pink café interior, high-key exposure, glossy dessert textures, crisp UI screenshot styling. Keep the two image cards polished and vivid while the surrounding app interface remains minimal and white.
+
+Constraints: Preserve the Japanese interface text exactly as shown. Use exactly 2 comparison images, exactly 6 left-sidebar items, exactly 2 numbered labels, and exactly 5 bottom input controls. Avoid extra popups, watermarks, browser bars, or unrelated text.
+```
+
+**来源：** [@ミヤマ](https://x.com/mmmiyama_D/status/2089250827500429369) | 2026-08-17
+
+---
+

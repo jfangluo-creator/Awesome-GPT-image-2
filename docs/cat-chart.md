@@ -3845,3 +3845,21 @@ Bottom callouts: under the left column, place a red outlined rounded status bar 
 
 ---
 
+### 📊 例 6375：现代高级时装角色概念设计图
+
+![现代高级时装角色概念设计图](../images/%E7%8E%B0%E4%BB%A3%E9%AB%98%E7%BA%A7%E6%97%B6%E8%A3%85%E8%A7%92%E8%89%B2%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创建一个优质的、现代的 {argument name="fashion style" default="高级时装"} 角色概念艺术设计图，采用 {argument name="layout" default="16:9 宽屏"} 布局，背景为 {argument name="background color" default="纯白色"}。所附参考图像定义了艺术风格 —— 请将其视为严格的风格指南，并复刻其精确的渲染效果。
+
+[English]
+Create a premium, modern {argument name="fashion style" default="high-fashion"} CHARACTER CONCEPT ART SHEET in a {argument name="layout" default="16:9 widescreen"} layout on a {argument name="background color" default="pure white"} background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering
+```
+
+**来源：** [@PixieVerse](https://x.com/itsPixieVerse/status/2089185213377360340) | 2026-08-17
+
+---
+

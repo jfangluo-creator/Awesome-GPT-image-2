@@ -8511,3 +8511,71 @@ Text constraints: Keep all captions in English exactly as written. Use clean whi
 
 ---
 
+### 🎬 例 6370：脾气暴躁的犀牛草原插画
+
+![脾气暴躁的犀牛草原插画](../images/%E8%84%BE%E6%B0%94%E6%9A%B4%E8%BA%81%E7%9A%84%E7%8A%80%E7%89%9B%E8%8D%89%E5%8E%9F%E6%8F%92%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一幅简约儿童绘本风格的插画，画面主体为一只脾气暴躁的犀牛，侧身向左站立在非洲大草原上。犀牛体型硕大且位于画面中心，拥有圆润的灰色身体、粗壮的四肢、鼻尖上的两只象牙色角、尖尖的小耳朵、带有黑色簇毛的细尾巴、白色的脚趾甲，以及愤怒的眼神和紧抿的嘴巴。使用粗犷且不规则的黑色轮廓线，并呈现出手绘蜡笔或水粉画的质感，保留明显的笔触。背景为明亮的青蓝色天空，点缀着 2 朵方块状的白色像素风云朵，分别位于左上角和右上角。地面为平坦的金橙色泥土，散布着少量深色小石块和 6 簇干枯的棕色草丛，地平线上有一排低矮圆润的绿色灌木丛。整体构图保持童趣、扁平化且具有图形感，类似于学龄前儿童绘本中的动物卡片，画面中不要包含任何文字、水印或其他动物。
+
+[English]
+Create a simple children’s book style illustration of a single grumpy rhinoceros standing in profile facing left in an African savanna. The rhino should be large and centered, with a rounded gray body, thick legs, two ivory horns on its nose, small pointed ears, a thin tail with a black tuft, white toenails, and a stern angry eye with a frowning mouth. Use bold uneven black outlines and a hand-painted crayon or gouache texture with visible brush strokes. The background is a bright cyan-blue sky with exactly 2 blocky white pixel-like clouds, one in the upper left and one in the upper right. The ground is flat golden-orange dirt with scattered small dark rocks and exactly 6 tufts of dry brown grass, plus a low row of rounded green bushes along the horizon. Keep the composition playful, flat, and graphic, like a preschool picture book animal card, with no text, no watermark, and no extra animals.
+```
+
+**来源：** [@しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu/status/2089200427040661756) | 2026-08-17
+
+---
+
+### 🎬 例 6379：八格电车延误漫画
+
+![八格电车延误漫画](../images/%E5%85%AB%E6%A0%BC%E7%94%B5%E8%BD%A6%E5%BB%B6%E8%AF%AF%E6%BC%AB%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一页粗粝的黑白青年漫画，讲述 {argument name="protagonist" default="一位疲惫不堪的日本中年通勤者"} 因电车延误和网络批评而崩溃的故事。基调紧张、讽刺、压抑且带有恐怖感，运用密集的交叉排线、厚重的墨色阴影、汗水、颤抖的手、扭曲的面部表情、速度线以及戏剧性的漫画拟声词。
+
+画布：竖版漫画页面，大致为 A4 比例，仅限黑白，分为 8 个带粗黑边框的编号分镜。每个分镜左上角有一个白色小方块，标注分镜序号：1、2、3、4、5、6、7、8。
+
+视觉风格：高度精细的写实日本漫画，类似于暗黑社会讽刺漫画；极度特写、皱纹皮肤、可见的毛孔、凸出的双眼、汗珠、凌乱的黑发、廉价西装领带、拥挤的城市纹理、车站标识、手机、书架、海报以及混乱的墨水排线。使用日本漫画对话气泡和旁白框。文字看起来应为手写并以日语印刷。
+
+分镜布局与内容：
+1. 页面顶部的宽幅分镜。早晨拥挤的通勤车站站台，身着西装的人群密密麻麻，上方有横梁和标识。画面中心前景，主角低头看着智能手机，眼神空洞且疲惫。一个巨大的数字车站项目显示「中央线（快速）」并显示「遅延 25分」，旁边有较小的目的地/服务文字。包含两个对话气泡：「また朝から遅延…。」和「中央线、また止まってる…毎日これじゃ困るんだよ…」。
+2. 中景分镜，特写他发布社交媒体时的手机屏幕。界面类似于日本的发布界面，时间为 07:42，有一个「ポストする」按钮，输入的文字为：「また遅延。日本の鉄道って言うほど便利か？」。他的手指紧张地抓着手机。
+3. 中景分镜，在一个狭窄的房间或类似商店的内部，摆满了铁路书籍、海报、时刻表和铁路纪念品。主角此时戴着眼镜，突然愤怒且认出什么似地瞪着手机。对话气泡：「……来た。」。背景包含关于铁路分析和时刻表的日语小标签。
+4. 狭窄的戏剧性特写分镜，展示一只戴着看起来有裂纹的眼镜后的眼睛，青筋可见，汗水直流。使用闪电般的裂纹和极具侵略性的纹理。在眼睛周围叠加四个粗体的日语短语：「安全確認」、「相互直通」、「乗務員運用」、「ダイヤ乱れ」。
+5. 中景分镜，主角愤怒咆哮的极度正面特写，嘴巴张开露出歪斜的牙齿，汗水和唾沫飞溅，身后是垂直的速度线。对话气泡：「事情も知らずに…！」和「遅れるのは理由がある！だから仕方ないんだ！」。
+6. 中景分镜，特写双手疯狂在手机上打字，手指扭曲且紧张。上方有巨大的漫画拟声词：「カタカタカタカタ」。屏幕上显示正在输入的敌意回复：「事業者の努力も知らずに文句を言うな 国交省目線で考えろ」，旁边可见一个小小的「返信」按钮和日语假名键盘。
+7. 中景分镜，主角向观众猛扑过来并指责，面部因愤怒而扭曲，背景是城市街道或车站建筑。多个对话气泡：「お前みたいなのが現場を分かってない！」、「素人は黙ってろ！」和「安全軽視か？」。
+8. 占据页面底部的大幅分镜。主角震惊且脸色苍白地坐着，拿着手机，右侧涌来一群网络回复气泡攻击他，那里有一个巨大的愤怒面孔/手在混乱的墨迹中隐现。背景中重复着巨大的白色拟声词「ワラ」。他的对话气泡：「ただ困るって言っただけなのに…。」在手机/怪物周围放置 8 个清晰可见的网络回复气泡，标注简短的日语评论：1「基礎から勉強しろｗ」、2「鉄道なめすぎｗ」、3「国交省の資料読んでから物言え」、4「勉サーノート」、5「もっと現場を敬えよ」、6「無知乙」、7「黙れカス」、8「お前が悪い」。在右下角放置一个干净的白色矩形道德旁白框：「鉄道を愛することと、利用者を黙らせることは違う。」
+
+约束条件：最终分镜必须包含 8 个分镜和 8 个回复气泡。保持图像完全为黑白漫画，不得有任何颜色。严格保留指定的日语文字。确保主角在整个过程中外貌一致：凌乱的黑发、憔悴的面容、疲惫的双眼、西装外套、衬衫、领带，后期戴上长方形眼镜。避免添加额外的分镜、额外的角色作为焦点人物、水印或英文字符。
+
+[English]
+Goal: Create a gritty black-and-white seinen manga page about {argument name="protagonist" default="an exhausted middle-aged Japanese commuter"} having a breakdown over train delays and online criticism. The tone is intense, satirical, claustrophobic, and horror-like, with dense crosshatching, heavy ink shadows, sweat, trembling hands, distorted facial expressions, speed lines, and dramatic manga sound effects.
+
+Canvas: Vertical manga page, roughly A4 proportions, monochrome only, divided into exactly 8 numbered panels with thick black gutters. Each panel has a small white square panel number in the upper-left corner: 1, 2, 3, 4, 5, 6, 7, 8.
+
+Visual style: Highly detailed realistic Japanese manga, similar to dark social satire manga; extreme close-ups, wrinkled skin, visible pores, bulging eyes, sweat beads, messy black hair, cheap suit and tie, crowded urban textures, station signage, phones, bookshelves, posters, and chaotic ink hatching. Use Japanese manga speech balloons and caption boxes. Make the lettering look hand-drawn and printed in Japanese.
+
+Panel layout and content: 
+1. Wide top panel across the page. A packed commuter train station platform in the morning, dense crowd in suits, overhead beams and signs. In the center foreground, the protagonist stares down at his smartphone, hollow-eyed and exhausted. A large digital station board reads 「中央線（快速）」 and shows 「遅延 25分」, with smaller destination/service text. Include two speech balloons: 「また朝から遅延…。」 and 「中央線、また止まってる…毎日これじゃ困るんだよ…」.
+2. Medium panel, close-up of his smartphone screen while he posts to social media. The interface resembles a Japanese posting screen with time 07:42, a button 「ポストする」, and typed text: 「また遅延。日本の鉄道って言うほど便利か？」. His fingers grip the phone tensely.
+3. Medium panel in a cramped room or shop-like interior full of train books, posters, timetables, and railway memorabilia. The protagonist, now wearing glasses, glares at his phone with sudden anger and recognition. Speech balloon: 「……来た。」. Background includes small Japanese labels about railway analysis and timetables.
+4. Narrow dramatic close-up panel of one eye behind cracked-looking glasses, veins visible, sweat pouring down. Use lightning-like cracks and aggressive texture. Overlay four bold Japanese phrases around the eye: 「安全確認」, 「相互直通」, 「乗務員運用」, 「ダイヤ乱れ」.
+5. Medium panel, extreme frontal close-up of the protagonist screaming in rage, mouth open with crooked teeth, sweat and spit flying, vertical speed lines behind him. Speech balloons: 「事情も知らずに…！」 and 「遅れるのは理由がある！だから仕方ないんだ！」.
+6. Medium panel, close-up of both hands furiously typing on a phone, fingers distorted and tense. Large manga sound effect above: 「カタカタカタカタ」. On the screen, show a hostile reply being typed: 「事業者の努力も知らずに文句を言うな 国交省目線で考えろ」 with a small 「返信」 button and Japanese kana keyboard visible.
+7. Medium panel, the protagonist lunges toward the viewer pointing accusingly, face grotesque with rage, city street or station buildings behind him. Multiple speech balloons: 「お前みたいなのが現場を分かってない！」, 「素人は黙ってろ！」, and 「安全軽視か？」.
+8. Large bottom panel spanning the width. The protagonist sits shocked and pale, holding his phone, as a swarm of online reply bubbles attacks him from the right side where a monstrous angry face/hand looms in chaotic ink. Big white sound effects 「ワラ」 repeat in the background. His speech balloon: 「ただ困るって言っただけなのに…。」 Include exactly 8 visible online reply bubbles around the phone/monster, labeled with short Japanese comments: 1 「基礎から勉強しろｗ」, 2 「鉄道なめすぎｗ」, 3 「国交省の資料読んでから物言え」, 4 「勉サーノート」, 5 「もっと現場を敬えよ」, 6 「無知乙」, 7 「黙れカス」, 8 「お前が悪い」. At the bottom right, place a clean white rectangular moral caption: 「鉄道を愛することと、利用者を黙らせることは違う。」
+
+Constraints: Use exactly 8 panels and exactly 8 reply bubbles in the final panel. Keep the image entirely black-and-white manga with no color. Preserve the Japanese text exactly where specified. Make the protagonist visibly the same person throughout: messy black hair, gaunt face, tired eyes, suit jacket, shirt, tie, and later rectangular glasses. Avoid adding extra panels, extra characters as focal heroes, watermarks, or English text.
+```
+
+**来源：** [@ふどあ](https://x.com/fd_a_e/status/2089177365641625968) | 2026-08-17
+
+---
+

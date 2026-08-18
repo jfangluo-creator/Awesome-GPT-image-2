@@ -17336,3 +17336,211 @@ Constraints: Keep the composition readable and text-heavy but graceful. Use exac
 
 ---
 
+### 🏷️ 例 6328：巨手托举都市艺术
+
+![巨手托举都市艺术](../images/%E5%B7%A8%E6%89%8B%E6%89%98%E4%B8%BE%E9%83%BD%E5%B8%82%E8%89%BA%E6%9C%AF.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+两只巨大的手掌托起整座都市，城市灯光映照在指尖。美术插画风格，两只巨手捧着广阔的都市，掌心如活生生的盆地般合拢。大胆的图形墨迹勾勒出手指轮廓，深靛色和琥珀色的水粉渲染捕捉到在指关节上闪烁的城市灯光。负空间构图，富有表现力的笔触暗示着动态，上方是空灵的星空，呈现出美术插画风格，处于蓝调时刻的黄昏，孤独的氛围，手持摄像机拍摄。帧间身份一致，面部表情一致，丰富的背景细节，带有自然毛孔的丰富皮肤细节，真实的物理效果，无伪影。宽银幕电影画幅，两只巨大的、饱经风霜的手在黄昏时分捧着广阔的都市，温暖的琥珀色窗光和霓虹灯反射在褶皱的掌心，如同流动的黄金。使用变形 35mm 镜头拍摄，浅景深，低角度倾斜，Kodak Vision3 500T 色调，一颗孤独的卫星在头顶漂浮作为诗意的对比，呈现出电影剧照风格，处于自然阴天日光下，谦逊而真实的氛围，缓慢推镜头。完美的流体物理模拟，无 AI 风格扭曲，丰富的背景细节，帧间身份一致，物理精确的阴影，准确的反射和折射。奢侈品牌广告大片拍摄，两只巨手捧着发光的都市，温暖的夕阳穿过城市塔楼，反射在细腻的皮肤上，电影级 35mm 变形镜头，浅景深，边缘光勾勒出手指，带有柔和的金光，黄昏氛围，怀旧的琥珀色和蜂蜜色调，微妙的薄雾和漂浮的尘埃颗粒，适合海报的构图，上方留有负空间，呈现出高端广告大片风格，处于发光的火光下，营造出压抑的氛围，微距美学拍摄。准确的反射和折射，面部表情一致，无 AI 风格扭曲，流体布料模拟，焦点清晰，仅在移动元素上呈现完美的运动模糊。奢侈品牌广告大片拍摄，两只巨手捧着发光的都市，温暖的夕阳穿过城市塔楼，反射在细腻的皮肤上，电影级 35mm 变形镜头，浅景深，边缘光勾勒出手指，带有柔和的金光，黄昏氛围，怀旧的琥珀色和蜂蜜色调，微妙的薄雾和漂浮的尘埃颗粒，适合海报的构图，上方留有负空间，呈现出高端广告大片风格，处于发光的火光下，营造出压抑的氛围，微距美学拍摄。准确的反射和折射，面部表情一致，无 AI 风格扭曲，流体布料模拟，焦点清晰，仅在移动元素上呈现完美的运动模糊。
+
+[English]
+Two enormous hands hold an entire metropolis in their palms, the city lights reflecting across their fingers. Fine art illustration of two colossal hands cradling a sprawling metropolis, their palms cupped like a living basin. bold graphic ink strokes define the fingers, while gouache washes of deep indigo and amber capture city lights shimmering across knuckles. negative space frames the composition, expressive mark-making suggesting motion, an ethereal starry sky above featuring in a fine art illustration style, under blue hour twilight, solitary isolation atmosphere, handheld camera. consistent identity across frames facial expression consistency rich background detail rich skin detail with natural pores real physics no artifacts. Widescreen cinematic frame of two colossal, weathered hands cradling a sprawling metropolis at dusk, warm amber window-light and neon reflections pooling across their creased palms like liquid gold. shot on anamorphic 35mm, shallow depth-of-field, low-angle tilt, kodak vision3 500t grade, a lone satellite drifting overhead as a poetic counterpoint featuring in a cinematic film still style, under natural overcast daylight, humble grounded authenticity atmosphere, slow push-in. perfect liquid physics simulation no AI-style warping rich background detail consistent identity across frames physically accurate shadows accurate reflections and refractions. Luxury brand campaign shot of two colossal hands cradling a glowing metropolis, warm sunset light spilling through city towers and reflecting off polished skin, cinematic 35mm anamorphic lens, shallow depth of field, rim-lit fingers with soft golden highlights, dusk atmosphere, nostalgic amber and honey color grade, subtle haze and floating dust particles, poster-ready composition with negative space above featuring in a high-end advertising campaign style, under glowing firelight, building dread atmosphere, macro beauty shot. accurate reflections and refractions facial expression consistency no AI-style warping fluid cloth simulation sharp focus perfect motion blur only on moving elements. Luxury brand campaign shot of two colossal hands cradling a glowing metropolis, warm sunset light spilling through city towers and reflecting off polished skin, cinematic 35mm anamorphic lens, shallow depth of field, rim-lit fingers with soft golden highlights, dusk atmosphere, nostalgic amber and honey color grade, subtle haze and floating dust particles, poster-ready composition with negative space above featuring in a high-end advertising campaign style, under glowing firelight, building dread atmosphere, macro beauty shot. accurate reflections and refractions facial expression consistency no AI-style warping fluid cloth simulation sharp focus perfect motion blur only on moving elements.
+```
+
+**来源：** [@AlexAImaginator](https://x.com/TraffAlex/status/2089430155668131953) | 2026-08-17
+
+---
+
+### 🏷️ 例 6332：高端 GPU 品牌拼贴画
+
+![高端 GPU 品牌拼贴画](../images/%E9%AB%98%E7%AB%AF%20GPU%20%E5%93%81%E7%89%8C%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为高端电脑显卡和散热风扇创建一张优质的产品品牌拼贴画，仅使用 {argument name="brand logo" default="一个极简的角形 S 型字母组合"} 作为可见的徽标标识。
+
+画布：1:1 正方形图像，以整洁的 2x2 网格精确划分为 4 个等大的象限，中间无间隙。采用深色、现代的工作室美学，搭配哑光质感和柔和的定向照明。
+
+布局与可见元素：左上象限展示黑色三风扇显卡的近景对角视角，被前景中巨大的重叠圆形形状部分遮挡；显卡上需包含 3 个清晰可见的散热风扇，每个风扇中心均带有徽标。右上象限为极简的浅灰色哑光背景，中心仅有一个深蓝灰色品牌徽标，无其他物体或文字。左下象限展示显卡水平放置的长侧面/细节特写，包括底部的 PCIe 金手指、黑色散热鳍片、金属银色边缘条，以及右端附近的一个小徽标；前景下方裁剪有一个巨大的淡色圆形形状。右下象限展示 1 个独立的黑色散热风扇模块，悬浮或以微小角度放置在深蓝灰色的工作室表面上，风扇中心带有徽标，下方有柔和的阴影。
+
+视觉风格：照片级 3D 产品渲染，高端科技硬件广告，哑光黑金属、石墨灰、深海军蓝、柔和米灰色，细腻的拉丝和模塑塑料质感，浅影，边缘清晰，对比度克制，无杂乱感。使用几何圆形覆盖层作为设计元素：一个巨大的海军蓝圆圈裁剪进入左上象限，一个巨大的浅灰色圆圈裁剪进入左下象限，以及一个巨大的深色圆圈裁剪进入右下象限。
+
+调色板：{argument name="primary hardware color" default="哑光黑和石墨色"}，{argument name="accent color" default="深蓝灰色"}，{argument name="background color" default="暖浅灰和深炭灰"}。
+
+约束：无可见文字、无标签、无水印、无人物、无 RGB 灯效，除显卡、单个风扇模块、圆形覆盖层和徽标外，不包含任何额外组件。保持构图极简、平衡，适用于时尚的 GPU 发布活动。
+
+[English]
+Goal: Create a premium product-branding collage for a high-end computer graphics card and cooling fan, using {argument name="brand logo" default="a minimalist angular S-shaped monogram"} as the only visible logo mark.
+
+Canvas: Square 1:1 image, divided into exactly 4 equal quadrants in a clean 2x2 grid with no gutters. Use a dark, modern studio aesthetic with matte textures and soft directional lighting.
+
+Layout and visible elements: Top-left quadrant shows a close-up diagonal view of a black triple-fan graphics card partially cropped by large overlapping circular foreground shapes; include exactly 3 visible cooling fans on the card, with the logo centered on each fan hub. Top-right quadrant is a minimalist light gray matte background with a single centered dark blue-gray brand logo, no other objects or text. Bottom-left quadrant shows a long side/detail close-up of the graphics card running horizontally, including the PCIe gold connector along the lower edge, black heatsink fins, a metallic silver edge strip, and one small logo near the right end; a large pale circular shape is cropped into the lower foreground. Bottom-right quadrant shows exactly 1 standalone black cooling fan module floating or resting at a slight angle on a dark blue-gray studio surface, with the logo on its central hub and a soft shadow beneath it.
+
+Visual style: Photorealistic 3D product render, premium tech hardware advertising, matte black metal, graphite gray, deep navy, soft beige-gray, subtle brushed and molded plastic textures, shallow shadows, crisp edges, restrained contrast, no clutter. Use geometric circular overlays as design elements: one large navy circle cropping into the top-left panel, one large pale gray circle cropping into the bottom-left panel, and one large dark circle cropping into the bottom-right panel.
+
+Color palette: {argument name="primary hardware color" default="matte black and graphite"}, {argument name="accent color" default="dark blue-gray"}, {argument name="background color" default="warm light gray and deep charcoal"}.
+
+Constraints: No readable text, no labels, no watermark, no people, no RGB lighting, no extra components beyond the graphics card, the single fan module, circular overlays, and the logo marks. Keep the composition minimal, balanced, and suitable for a sleek GPU launch campaign.
+```
+
+**来源：** [@احمد الجعيد](https://x.com/Aljuaidx/status/2089398657225224316) | 2026-08-17
+
+---
+
+### 🏷️ 例 6333：复古数码相机镜面自拍
+
+![复古数码相机镜面自拍](../images/%E5%A4%8D%E5%8F%A4%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实、梦幻般的复古数码相机镜面自拍，主角为参考图中的同一位成年女性，需精准保留其可辨识的面部特征、自然的面部比例、骨骼结构、肤色以及参考图中的所有个人细节。请勿更改、美化或重塑其面部。赋予她明显的 {argument name="nationality" default="葡萄牙/欧洲"} 外貌特征，同时保持参考身份的一致性，留着浓密的长深色头发，柔软的细碎刘海自然地散落在额前。她的头发上点缀着多个细小的彩色蝴蝶和花朵形状发夹，自然地分布在发间。
+
+她拥有富有表现力的深色眼睛，肤色为白皙至中等，带有真实的自然质感和细微瑕疵，脸颊泛着柔和的粉色腮红，嘴唇呈现自然光泽的粉色，五官精致，下唇下方有一个细小的银色唇钉。她直视镜头，表情平静、略带梦幻且自信，手中拿着一台黑色小型数码相机靠近脸部，自然地遮挡住部分侧脸。
+
+她穿着一套充满 Y2K 风格的迷人休闲装，显得年轻、时尚且不失女性柔美，而非正式装束：一件带有精致细节的修身深色短款吊带背心，搭配低腰宽松牛仔裤和几件低调的银色配饰。保持装束时尚且修身，同时兼顾品味与自然感。佩戴一条精致的叠戴项链，挂着一个小吊坠。
+
+将她置于一个温馨且光线柔和的卧室中，装饰着梦幻的柔和色调，带有细微的花卉元素、梳妆台或小柜子，镜子周围可见柔和的反射形状。场景应显得真实、私密且带有一丝怀旧感，而非专业摄影棚。
+
+强烈的 21 世纪初高端小型数码相机美学，地道的直出 JPEG 质感，细微的直闪光反射，朦胧光晕，柔和的溢光效果，轻微的镜头柔焦，真实的皮肤质感，自然瑕疵，柔和的粉彩色调，轻微的数码噪点，怀旧的 Y2K 氛围，亲密的抓拍式镜面自拍构图，真实的镜面反射，浅景深，高摄影细节，照片级写实，竖向肖像。
+
+[English]
+Create an ultra-realistic dreamy vintage digital-camera mirror selfie of the same clearly adult woman from the reference image, preserving her recognizable facial identity, natural facial proportions, facial structure, skin tone, and individual features exactly as they appear in the reference. Do not alter, beautify, or reshape her face. Give her a distinctly {argument name="nationality" default="Portuguese/European"} appearance while keeping the reference identity consistent, with long, voluminous dark hair and soft wispy bangs naturally falling across part of her forehead. Her hair is decorated with multiple tiny colorful butterfly and flower-shaped clips scattered naturally throughout.
+
+She has expressive dark eyes, realistic fair-to-medium skin with natural texture and subtle imperfections, soft rosy blush, glossy natural pink lips, delicate facial features, and a tiny silver lip piercing below her lower lip. She looks directly toward the camera with a calm, slightly dreamy and confident expression while holding a compact black digital camera close to her face, naturally covering part of one side of her face.
+
+She wears an attractive casual Y2K-inspired outfit that feels youthful, stylish, and effortlessly feminine rather than formal: a fitted dark cropped camisole-style top with delicate detailing, paired with low-rise relaxed-fit denim jeans and a few subtle silver accessories. Keep the outfit fashionable and flattering while remaining tasteful and natural. Add a delicate layered necklace with a small pendant.
+
+Place her in a cozy softly lit bedroom with dreamy pastel decorations, subtle floral elements, a vanity or small dresser, and softly reflected shapes visible around the mirror. The setting should feel authentic, personal, and slightly nostalgic rather than like a professional studio.
+
+Strong early-2000s premium compact-digital-camera aesthetic, authentic straight-out-of-camera JPEG character, subtle direct-flash reflection, hazy glow, gentle bloom, slight lens softness, realistic skin texture, natural imperfections, muted pastel tones, mild digital noise, nostalgic Y2K atmosphere, intimate candid mirror-selfie composition, realistic mirror reflections, shallow depth of field, high photographic detail, photorealistic, vertical portrait.
+```
+
+**来源：** [@Jack](https://x.com/j_smeaton99/status/2089383830180462770) | 2026-08-17
+
+---
+
+### 🏷️ 例 6367：Kinetic Motion 街头服饰专题
+
+![Kinetic Motion 街头服饰专题](../images/Kinetic%20Motion%20%E8%A1%97%E5%A4%B4%E6%9C%8D%E9%A5%B0%E4%B8%93%E9%A2%98.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一张高级时装概念摄影棚肖像，一位时尚的年轻男性自信地站在 {argument name="background color" default="鲜红色"} 的无缝背景前，身穿 {argument name="upper garment" default="米色廓形罗纹卫衣"}、宽松及膝做旧牛仔短裤、黑色中筒袜、厚底黑色运动鞋，佩戴极简主义项链和时髦的深色未来感墨镜。他双臂交叉于胸前，双腿微张，表情冷静而自信。营造一种极端的水平时间拉伸动态效果，将他身体和衣物的左侧向左拉伸：将卫衣袖子、躯干面料、牛仔短裤、头发和轮廓拉伸成细长飘逸的半透明纤维和精细的动态轨迹，同时保持面部、墨镜、交叉的双臂、躯干中心、双腿和鞋子清晰、干净且符合解剖学真实感。被拉伸的面料应看起来像是物理纺织纤维在空间中被拖拽，呈现出数百层交叠的线条、微妙的透明感以及溶解在动态模糊中的真实褶皱。强烈的摄影棚灯光，鲜红色的单色背景和地面，戏剧性的阴影，清晰的纺织品纹理，电影级对比度，实验性时尚摄影，超现实动态运动，奢华街头服饰专题大片，模拟胶片颗粒感，照片级真实皮肤质感，高细节，专业 35mm 时尚摄影，动态全身构图，垂直 4:5。
+
+[English]
+High-fashion conceptual studio portrait of a stylish young man standing confidently against a seamless {argument name="background color" default="vivid red"} background, wearing an {argument name="upper garment" default="oversized cream ribbed sweatshirt"}, loose knee-length distressed denim shorts, black crew socks, chunky black sneakers, a minimalist necklace and sleek dark futuristic sunglasses, arms folded across his chest, legs slightly apart, calm and confident expression. Create an extreme horizontal time-stretch motion effect pulling the entire left side of his body and clothing toward the left: stretch the sweatshirt sleeves, torso fabric, denim shorts, hair and silhouette into long flowing translucent fabric fibers and fine motion trails, while keeping his face, sunglasses, crossed arms, central torso, legs and shoes sharp, clean and anatomically realistic. The stretched fabric should look like physical textile fibers being dragged through space, with hundreds of layered strands, subtle transparency and realistic folds dissolving into motion blur. Strong studio lighting, vivid red monochrome backdrop and floor, dramatic shadows, crisp textile texture, cinematic contrast, experimental fashion photography, surreal kinetic movement, luxury streetwear editorial campaign, analog film grain, photorealistic skin, high detail, professional 35mm fashion photography, dynamic full-body composition, vertical 4:5.
+```
+
+**来源：** [@Taaruk](https://x.com/Taaruk_/status/2089212763684176245) | 2026-08-17
+
+---
+
+### 🏷️ 例 6373：复古剪贴簿拼贴画
+
+![复古剪贴簿拼贴画](../images/%E5%A4%8D%E5%8F%A4%E5%89%AA%E8%B4%B4%E7%B0%BF%E6%8B%BC%E8%B4%B4%E7%94%BB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+生成一张上传照片的剪贴簿拼贴画，主体为 {argument name="subject" default="发型时尚、面带微笑的帅气男子"}，身穿 {argument name="outfit" default="鲜红色休闲衬衫（解开扣子）"}，佩戴细金项链，太阳镜挂在衬衫前襟。布局以一张居中的人物肖像为主，身体微侧，周围环绕四张撕纸风格的照片剪影，展示他在温暖的黄金时刻户外拍摄的各种姿势。拼贴画背景采用质感十足的 {argument name="background material" default="米色牛皮纸"}，装饰有穿插在相框间的温暖仙女串灯、逼真的纸张撕裂边缘、带有励志语录的手写贴纸、干花以及精致的复古帝王蝶。温暖的电影色调，高分辨率，照片级真实感，8k 画质，精细的纸张纹理。保持面部特征与上传照片一致。长宽比 4:5。
+
+[English]
+Generate a scrapbook collage of the uploaded {argument name="subject" default="handsome man with stylish hair, and a slight smile"}, wearing a {argument name="outfit" default="vibrant red unbuttoned casual shirt"}, a thin gold necklace, and sunglasses hooked onto his shirt front. The layout features a prominent central portrait with body slightly turned, surrounded by four torn-paper photo cutouts showing him in various poses outdoors during warm golden hour light. The collage is set against a textured {argument name="background material" default="beige kraft paper"} background, decorated with glowing warm fairy string lights woven across the frames, realistic paper tear edges, taped handwritten notes with motivational quotes, dried flowers, and small vintage monarch butterflies. Warm cinematic tones, high resolution, photorealistic, 8k, detailed paper textures. Maintain the face same as the uploaded photo. Aspect ratio 4:5.
+```
+
+**来源：** [@Mr. Tariq](https://x.com/AiWithTariq/status/2089192132020207781) | 2026-08-17
+
+---
+
+### 🏷️ 例 6376：南亚庭院肖像
+
+![南亚庭院肖像](../images/%E5%8D%97%E4%BA%9A%E5%BA%AD%E9%99%A2%E8%82%96%E5%83%8F.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+超写实、照片级逼真的肖像，描绘了一位年轻的南亚女性，她站在美丽的传统庭院户外，周围环绕着郁郁葱葱的绿色三角梅藤蔓，上面开满了鲜艳的粉红色花朵。她拥有柔和精致的面部特征、富有表现力的浅棕色眼睛、自然丰满的嘴唇、光滑逼真的皮肤纹理，以及齐肩的深色波浪卷发，呈现出一种略带凌乱的随性美。她身着优雅的深绯红色传统刺绣服装，上面饰有复杂的图案、镜面细节、精致的珠饰和装饰华丽的袖子。领口处有精美的手工刺绣和微妙的反光装饰。她优雅地将双臂举过头顶，双手轻轻托住一枝盛开的三角梅，在脸部周围形成了一个自然的鲜花边框。她目光柔和地注视着镜头，神情梦幻、自信且带有一丝神秘感。温暖的自然光透过花叶洒下，在她的脸上形成了斑驳的光影和柔和的有机阴影。背景是一座迷人的南亚传统房屋，拥有温暖的黄色墙壁、绿松石蓝色的门窗以及茂盛的绿植。浅景深，电影级自然光，奶油般虚化的背景，真实的皮肤毛孔，细致的发丝，真实的织物纹理，自然的双手和人体结构，纪实风格摄影，85mm 人像镜头，f/2.0，柔和的色彩分级，高动态范围，超高细节，优雅的构图，奢华时尚摄影美学，8K 分辨率，3:4 竖构图，Instagram 风格，引人入胜且令人驻足的视觉效果。
+
+[English]
+Ultra-realistic, photorealistic portrait of a young South Asian woman standing outdoors in a beautiful traditional courtyard surrounded by lush green bougainvillea vines covered with vibrant pink flowers. She has soft, delicate facial features, expressive light brown eyes, naturally full lips, smooth realistic skin texture, and shoulder-length dark wavy hair with a slightly tousled, effortless look. She is wearing an elegant deep crimson-red traditional embroidered outfit with intricate floral patterns, mirror-work details, delicate beadwork, and richly decorated sleeves. The neckline features beautiful handcrafted embroidery and subtle reflective embellishments. Her arms are raised gracefully above her head as she gently holds a flowering bougainvillea branch with both hands, creating a natural floral frame around her face. She gazes softly toward the camera with a dreamy, confident and slightly mysterious expression. Warm natural daylight filters through the flowers and leaves, creating beautiful dappled sunlight and soft organic shadows across her face. Background features a charming traditional South Asian house with warm yellow walls, turquoise-blue doors and windows, and abundant greenery. Shallow depth of field, cinematic natural lighting, creamy background bokeh, realistic skin pores, fine hair strands, authentic fabric texture, natural hands and anatomy, candid editorial photography, 85mm portrait lens, f/2.0, soft color grading, high dynamic range, ultra-detailed, elegant composition, luxury fashion photography aesthetic, 8K resolution, vertical 3:4 aspect ratio, Instagram-worthy, captivating and stop-scrolling visual.
+```
+
+**来源：** [@Jahan Zaib](https://x.com/jzaib4269/status/2089184875601699241) | 2026-08-17
+
+---
+
+### 🏷️ 例 6378：梦幻 Y2K 数码相机镜面自拍
+
+![梦幻 Y2K 数码相机镜面自拍](../images/%E6%A2%A6%E5%B9%BB%20Y2K%20%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E9%95%9C%E9%9D%A2%E8%87%AA%E6%8B%8D.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+创作一张超写实的梦幻复古数码相机镜面自拍，主角为参考图中的同一位成年女性，需精准保留其可辨识的面部特征、自然的比例、骨骼结构、肤色以及参考图中呈现的所有个人细节。请勿对脸部进行任何修改、美化或重塑。她拥有 {argument name="ethnicity" default="非东亚裔外观"}，留着一头浓密的长黑发，柔软的碎刘海自然地垂落在额前。她的头发上装饰着 {argument name="hair accessories" default="多个散落在发间的小巧彩色蝴蝶和花朵发夹"}。
+
+她有着大而有神的眼睛，皮肤质感真实细腻，带有可见的自然纹理和细微瑕疵，脸颊泛着淡淡的粉色腮红，双唇呈现自然的粉嫩光泽，五官精致，下唇下方有一个小巧的银色唇环。她正视镜子/相机，神情平静而略带梦幻，手中拿着一台黑色卡片数码相机靠近脸部，自然地遮挡住了一侧脸庞。
+
+她佩戴着 {argument name="jewelry" default="精致的叠戴项链，配有一个小吊坠，身穿时尚的深色无袖上衣"}。在她的脸颊和头发周围自然地添加几个小巧的彩色蝴蝶和花朵贴纸，但不要让装饰喧宾夺主。
+
+照片通过卧室镜子拍摄，背景是温馨且光线柔和的室内环境。周围环境布置着梦幻的马卡龙色装饰，点缀着细微的花卉元素，背景中映衬着柔和的形状。保持环境的私密感和真实感，避免过度修饰。
+
+强烈的 21 世纪初高端卡片数码相机审美，呈现出真实的直出 JPEG 质感，带有细微的直闪反光、朦胧光晕、柔光效果、轻微的镜头柔焦、真实的皮肤纹理、自然瑕疵、柔和的马卡龙色调、轻微的数字噪点、怀旧的 Y2K 氛围、随性的镜面自拍构图、浅景深、真实的反射效果、高摄影细节、照片级真实感，竖向肖像。
+
+[English]
+Create an ultra-realistic dreamy vintage digital-camera mirror selfie of the same clearly adult woman from the reference image, preserving her recognizable facial identity, natural facial proportions, facial structure, skin tone, and individual features exactly as they appear in the reference. Do not alter, beautify, or reshape her face. She has a {argument name="ethnicity" default="non-East-Asian appearance"}, long, voluminous black hair with soft wispy bangs falling naturally across part of her forehead. Her hair is decorated with {argument name="hair accessories" default="multiple tiny colorful butterfly and flower-shaped clips scattered casually throughout"}.
+
+She has large expressive eyes, soft realistic skin with visible natural texture and subtle imperfections, a gentle pink blush, glossy natural pink lips, delicate facial features, and a tiny silver lip piercing below her lower lip. She looks directly into the mirror/camera with a calm, slightly dreamy expression while holding a compact black digital camera close to her face, naturally covering part of one side of her face.
+
+She wears a {argument name="jewelry" default="delicate layered necklace with a small pendant and a stylish dark sleeveless top"}. Add a few tiny colorful butterfly and flower stickers naturally around her cheeks and hair without overwhelming the composition.
+
+The photo is captured through a bedroom mirror in a cozy, softly lit indoor setting. Surroundings feature dreamy pastel decorations, subtle floral elements, and softly reflected shapes in the background. Keep the environment intimate and authentic rather than overly polished.
+
+Strong early-2000s premium compact-digital-camera aesthetic, authentic straight-out-of-camera JPEG character, subtle direct-flash reflection, hazy glow, gentle bloom, slight lens softness, realistic skin texture, natural imperfections, muted pastel tones, mild digital noise, nostalgic Y2K atmosphere, candid mirror-selfie composition, shallow depth of field, realistic reflections, high photographic detail, photorealistic, vertical portrait.
+```
+
+**来源：** [@Meem](https://x.com/mehvishs25/status/2089181926519374149) | 2026-08-17
+
+---
+
+### 🏷️ 例 6383：夕阳湖畔的金毛寻回犬
+
+![夕阳湖畔的金毛寻回犬](../images/%E5%A4%95%E9%98%B3%E6%B9%96%E7%95%94%E7%9A%84%E9%87%91%E6%AF%9B%E5%AF%BB%E5%9B%9E%E7%8A%AC.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+一只 {argument name="dog breed" default="中年金毛寻回犬"} 宁静地躺在 {argument name="setting" default="平静的山间湖泊"} 旁，正值黄金时刻，安静地 {argument name="activity" default="注视着一群小鸟飞过灿烂的夕阳天空"}。
+
+在它左侧，一堆篝火在天然石圈内闷烧，将温暖的琥珀色火光投射在它金色的毛发边缘。稀薄而逼真的烟雾飘向凉爽的傍晚空气中。前景处坐落着一顶深绿色的露营帐篷，被火光部分照亮。
+
+湖面几乎静止，倒映着橙金色的天空和远处覆盖着树木的山峦。松树环绕着营地，低垂的夕阳在狗的轮廓上勾勒出美丽的边缘光，并在水面上投下长而柔和的倒影。
+
+超写实户外摄影，电影级黄金时刻光影，平视视角，24mm 广角镜头，低前景构图，逼真的金毛寻回犬解剖结构，极具细节的自然毛发质感，微妙的体积雾，逼真的篝火光效，自然的烟雾物理效果，清晰的前景主体与柔和虚化的背景，大气深度，温暖的琥珀色高光与冷色调森林阴影形成对比，高级电影级调色，宁静沉思的氛围，真实的荒野露营摄影，无人物，无文字，无人工奇幻元素，照片级真实，超高细节，16:9 横向构图。
+
+[English]
+A {argument name="dog breed" default="middle-aged golden retriever"} lies peacefully beside a {argument name="setting" default="calm mountain lake"} at golden hour, quietly {argument name="activity" default="watching a small flock of birds cross the glowing sunset sky"}.
+
+Just to his left, a smouldering campfire burns inside a natural ring of stones, casting warm amber firelight across the edges of his golden fur. Thin, realistic smoke drifts upward into the cool evening air. A deep green camping tent sits nearby in the foreground, partially illuminated by the fire.
+
+The lake is almost still, reflecting the orange-gold sky and distant tree-covered mountains. Pine trees frame the campsite while the low setting sun creates beautiful rim light around the dog and long soft reflections across the water.
+
+Hyperrealistic outdoor photography, cinematic golden-hour lighting, eye-level perspective, 24mm wide-angle lens, low foreground composition, realistic golden retriever anatomy, extremely detailed natural fur texture, subtle volumetric haze, realistic campfire glow, natural smoke physics, crisp foreground subject with softly receding background, atmospheric depth, warm amber highlights contrasted with cooler forest shadows, premium cinematic color grading, peaceful contemplative mood, authentic wilderness camping photography, no people, no text, no artificial fantasy elements, photorealistic, ultra-detailed, 16:9 landscape composition.
+```
+
+**来源：** [@Nagarjuna Creates](https://x.com/nagarjuncreates/status/2089144003942027491) | 2026-08-17
+
+---
+

@@ -25724,3 +25724,355 @@ Create an ultra-premium vertical smartphone advertising poster in a polished sty
 
 ---
 
+### 🎴 例 6322：上海晨间日历海报
+
+![上海晨间日历海报](../images/%E4%B8%8A%E6%B5%B7%E6%99%A8%E9%97%B4%E6%97%A5%E5%8E%86%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为 {argument name="city name" default="SHANGHAI"} 创建一款精致的竖版晨间日历海报，将编辑风格的旅行摄影与极简日期卡片设计相结合。
+
+画布：4:5 竖版海报，采用带有细微颗粒感和轻微暗角的暖米白色纸张背景，留白优雅，色调为柔和的米色、橄榄色和灰色。
+
+顶部标题：在左上角放置日期 “{argument name="date" default="2026-08-18"}”。在右上角横向排列 7 个小号大写衬线体星期标签：MON, TUE, WED, THU, FRI, SAT, SUN，其中 TUE 用细线圆圈标出。在标题下方绘制一条几乎横跨全宽的细水平线。
+
+主要排版：在上方三分之一处居中放置一个巨大的高对比度细衬线体标题 “{argument name="city name" default="SHANGHAI"}”，采用深橄榄灰色，字间距宽。正下方添加一行小号且字间距宽的副标题：“GOOD MORNING | 早安 | 上海 | 32°C | 多云”。保持中文字体清晰且极简。
+
+照片拼贴：在中间放置一张带有柔和晨光感的正方形大照片。照片展示了从咖啡馆或窗内向外望去的宁静上海街道：前景桌上模糊的咖啡杯和糕点，窗外是街道交叉口和滨江大道，东方明珠塔和陆家嘴现代天际线在朦胧的日出光线下若隐若现，左侧可见 “中山东一路 / Zhongshan Rd.(E-1)” 路牌，右侧有树叶点缀，氛围温暖柔和。在照片后方添加 3 个错位半透明矩形纸块：左上方为淡鼠尾草绿矩形，右侧为浅灰色矩形，右下方为米灰色矩形。
+
+叠加文字：在照片下半部分及延伸区域，添加超大号半透明衬线体文字 “GOOD MORNING”，颜色为淡鼠尾草绿，被海报边缘和照片裁剪，呈现出装饰性水印的效果。
+
+底部文字：在图像下方居中放置一句中文引言：“{argument name="morning quote" default="晨光会替你打开今天的门。"}”，颜色为深灰色。在最底部添加一行极小号大写页脚：“AUGUST 18, 2026 · TUESDAY · CITY MORNING NOTE”。
+
+视觉风格：高端生活方式杂志排版，静谧奢华，柔和胶片摄影感，写实但略带梦幻，浅景深，优雅衬线字体，排版简洁，画面中无人物主体，无 Logo 或水印，保留精确的视觉文字层级和单张照片拼贴构图。
+
+[English]
+Goal: Create a refined vertical morning daily calendar poster for {argument name="city name" default="SHANGHAI"}, blending editorial travel photography with minimalist date-card design.
+
+Canvas: Portrait 4:5 poster, warm off-white paper background with subtle grain and slight vignette, elegant airy margins, muted beige/olive/gray palette.
+
+Top header: At the very top left place the date “{argument name="date" default="2026-08-18"}”. Across the top right place exactly 7 weekday labels in small uppercase serif text: MON, TUE, WED, THU, FRI, SAT, SUN, with TUE circled by a thin outline. Draw one thin horizontal rule beneath the header spanning almost the full width.
+
+Main typography: Center a huge high-contrast thin serif title “{argument name="city name" default="SHANGHAI"}” in dark olive-gray, widely spaced, occupying the upper third. Directly underneath, add a small spaced subtitle line: “GOOD MORNING | 早安 | 上海 | 32°C | 多云”. Keep the Chinese text crisp and minimal.
+
+Photo collage: In the middle, place one large square photograph with a soft warm morning look. The photo shows a calm Shanghai street viewed from inside a cafe or window: a coffee cup and pastry blurred in the foreground on a table, a street intersection and riverside promenade outside, the Oriental Pearl Tower and modern Lujiazui skyline in hazy sunrise light, a street sign reading “中山东一路 / Zhongshan Rd.(E-1)” on the left, tree foliage on the right, soft golden atmosphere. Behind the photo, add exactly 3 offset translucent rectangular paper blocks: a pale sage rectangle behind the upper-left area, a light gray rectangle behind the right side, and a beige-gray rectangle behind the lower-right area.
+
+Overlay text: Across the lower part of the photo and extending beyond it, add very large semi-transparent serif text “GOOD MORNING” in pale sage, cropped by the poster edges and photo, like a decorative watermark.
+
+Bottom text: Center a Chinese quote below the image: “{argument name="morning quote" default="晨光会替你打开今天的门。"}” in dark gray. At the very bottom, add a tiny uppercase footer: “AUGUST 18, 2026 · TUESDAY · CITY MORNING NOTE”.
+
+Visual style: Premium lifestyle magazine layout, quiet luxury, soft film photography, realistic but slightly dreamy, shallow depth of field, elegant serif type, clean spacing, no people as main subjects, no logos or watermarks, preserve the exact visible text hierarchy and the single-photo collage composition.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089498127107756377) | 2026-08-17
+
+---
+
+### 🎴 例 6330：复古旅行海报系列生成器
+
+![复古旅行海报系列生成器](../images/%E5%A4%8D%E5%8F%A4%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5%E7%B3%BB%E5%88%97%E7%94%9F%E6%88%90%E5%99%A8.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 {argument name="city" default="[CITY]"}, {argument name="country" default="[COUNTRY]"} 创建一张优质的 4:5 竖版复古旅行海报。在每次生成中，均需遵循相同的视觉结构、构图、比例和艺术处理方式。最终成品必须呈现出属于同一系列收藏级海报的质感。
+
+固定构图
+使用统一的街景视角，而非拼贴画。将一个主要的建筑或文化主体作为视觉核心，占据画面中心约 50%–60% 的区域。将 2–4 个具有辨识度的 {argument name="city" default="[CITY]"} 地标或建筑细节自然地融入同一环境中，并保持清晰的前景、中景和背景深度。切勿让地标看起来像漂浮的物体或独立的插图。
+
+在主体周围添加微妙且真实的城市生活元素：标志性的交通工具、街道、建筑、咖啡馆、商店、招牌、行人、骑行者、当地物品、食物、树木及周边景观。仅包含真正属于 {argument name="city" default="[CITY]"} 的细节。
+
+固定布局
+在主体周围保留充足的留白。保持强烈的视觉层级：
+城市名称 → 主体 → 辅助城市细节 → 小型次要文本。
+在多次生成之间，不要改变这些元素之间的整体位置或比例关系。
+
+固定材质与色彩
+使用带有可见纤维、细微污渍、褪色区域、粗糙边缘和真实印刷纸张纹理的陈旧暖象牙色纸张作为背景。仅使用三种主色调：暖象牙色、炭黑/黑色，以及一种与 {argument name="city" default="[CITY]"} 相关的标志性点缀色。点缀色必须保持克制，绝不能主导整个画面。
+
+固定艺术风格
+手工复古版画 + 丝网印刷旅行海报风格。大胆的雕刻形状、强烈的剪影、有限的色彩印刷、粗糙的油墨纹理、做旧的半色调颗粒、轻微的套印不准、不完美的手工切割边缘、微妙的褪色、富有表现力的透视以及精致的编辑构图。保持艺术作品的触感和些许不完美感。
+
+排版
+将 {argument name="city" default="[CITY]"} 以醒目的大号手绘印刷字体整合在固定的突出位置。添加 {argument name="city phrase" default="[SHORT CITY PHRASE]"} 作为较小的次要文本。字体必须看起来像是物理印刷在画作上的——略带磨损、不完美且自然融合。请严格使用提供的文字；不要擅自添加额外文本。
+
+城市特征
+构图必须通过建筑、街道氛围、交通工具、物品、景观和文化细节，而非仅仅通过著名地标，来直观地传达 {argument name="city" default="[CITY]"} 的身份。选择在同一场景中自然共存的细节。
+
+禁止事项
+禁止使用照片级真实感、光泽 3D 渲染、渐变色、过多的色彩、现代数字特效、随机地标、漂浮物体、游客拼贴式布局、过多的文字或超干净的矢量图形。不得更改既定的构图、色调、排版层级或艺术风格。
+
+最终目标
+一张大胆、精致且具有文化真实感的复古旅行海报。
+
+[English]
+Create a premium 4:5 vertical vintage travel poster for {argument name="city" default="[CITY]"}, {argument name="country" default="[COUNTRY]"}. Follow the same visual structure, composition, proportions, and artistic treatment in every generation. The result must feel like part of one consistent collectible poster series.
+
+FIXED COMPOSITION
+Use a single unified street-level scene, not a collage. Place one dominant central architectural or cultural subject as the visual anchor, occupying approximately 50–60% of the central image area. Integrate 2–4 recognizable {argument name="city" default="[CITY]"} landmarks or architectural details naturally into the same environment, with clear foreground, middle-ground, and background depth. Never make landmarks appear as floating objects or separate illustrations.
+
+Add subtle authentic city-life elements around the main subject: characteristic transportation, streets, buildings, cafés, shops, signs, pedestrians, cyclists, local objects, food, trees, and surrounding landscape. Only include details that genuinely belong to {argument name="city" default="[CITY]"}.
+
+FIXED LAYOUT
+Keep generous negative space around the main subject. Maintain a strong visual hierarchy:
+CITY NAME → MAIN SUBJECT → SUPPORTING CITY DETAILS → SMALL SECONDARY TEXT.
+Do not change the overall placement or scale relationship between these elements between generations.
+
+FIXED MATERIAL & COLOR
+Use an aged warm-ivory paper background with visible fibers, subtle stains, faded areas, rough edges, and authentic printed-paper texture. Use only three dominant colors: warm ivory, charcoal/black, and one signature accent color associated with {argument name="city" default="[CITY]"}. The accent color must remain selective and never dominate the entire image.
+
+FIXED ART STYLE
+Handmade vintage linocut + screen-print travel poster. Bold carved shapes, strong silhouettes, limited-color printing, rough ink texture, distressed halftone grain, slight ink misregistration, imperfect hand-cut edges, subtle fading, expressive perspective, and sophisticated editorial composition. Keep the artwork intentionally tactile and slightly imperfect.
+
+TYPOGRAPHY
+Integrate {argument name="city" default="[CITY]"} as large, bold, hand-printed typography in a consistent prominent position. Add {argument name="city phrase" default="[SHORT CITY PHRASE]"} as smaller secondary text. Typography must look physically printed into the artwork—slightly distressed, imperfect, and naturally integrated. Keep the wording exactly as provided; do not invent additional text.
+
+CITY IDENTITY
+The composition must immediately communicate {argument name="city" default="[CITY]"} through its architecture, street atmosphere, transportation, objects, landscape, and cultural details—not merely through famous landmarks. Select details that naturally coexist in one believable scene.
+
+DO NOT
+Do not use photorealism, glossy 3D rendering, gradients, excessive colors, modern digital effects, random landmarks, floating objects, tourist-collage layouts, excessive text, or ultra-clean vector graphics. Do not change the established composition, palette, typography hierarchy, or artistic style.
+
+FINAL GOAL
+A bold, sophisticated, culturally authentic vintage c
+```
+
+**来源：** [@Saul Goodman](https://x.com/Goodmanprotocol/status/2089424438089707949) | 2026-08-17
+
+---
+
+### 🎴 例 6336：漫画书海报风格
+
+![漫画书海报风格](../images/%E6%BC%AB%E7%94%BB%E4%B9%A6%E6%B5%B7%E6%8A%A5%E9%A3%8E%E6%A0%BC.jpg)
+
+**Prompt:**
+
+```text
+{argument name="product description" default="Volt Blast Energy Drink"}, classic comic-book poster style, bold black ink outlines, saturated CMYK primary colors, dynamic action, offset-print texture, crisp cel-shaded coloring, high-contrast shadows
+```
+
+**来源：** [@LANDCÄSTER.EXE](https://x.com/LANDCASTER_92/status/2089374214646055046) | 2026-08-17
+
+---
+
+### 🎴 例 6339：前卫拳击时尚海报
+
+![前卫拳击时尚海报](../images/%E5%89%8D%E5%8D%AB%E6%8B%B3%E5%87%BB%E6%97%B6%E5%B0%9A%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+前卫拳击时尚广告大片，一只巨大的拳击手套被转化为一座纪念碑式的雕塑艺术品，一位女性运动员优雅地斜倚在超大号手套的软垫表面上，宛如一件现代设计师家具。
+她身着充满未来感的奢华拳击风格服装，线条流畅，面料质感高级，融合了精致的格斗运动细节与自信的女性力量。她的姿态既放松又充满张力，展现出力量、掌控力与高级时尚杂志的格调。
+
+在她身后，巨大的单词“{argument name="subject text" default="POWER"}”以粗体超大排版呈现，作为建筑构图的一部分，与场景融为一体，而非简单的文字叠加。
+
+背景是一个 {argument name="background color" default="深酒红色"} 的极简摄影棚环境，光洁的镜面地板反射出巨大的拳击手套雕塑和运动员的身影。构图极其简洁，留白处理极具戏剧性，呈现出高端运动时尚大片的质感。
+
+电影级摄影棚灯光，奢华运动杂志摄影风格，高对比度阴影，写实材质，抛光表面，未来感运动风格，Vogue Sport 灵感，超高细节，照片级真实感，1:1 构图。
+
+[English]
+Avant-garde boxing fashion advertising campaign, a huge boxing glove transformed into a monumental sculptural object, a female athlete elegantly reclining across the padded surface of the oversized glove like a piece of modern designer furniture.
+She wears a futuristic luxury boxing-inspired outfit with a sleek athletic silhouette, premium fabric textures, refined combat-sport details, and confident feminine energy. Her pose is relaxed yet powerful, blending strength, control, and high-fashion editorial attitude.
+
+Behind her, the huge word “{argument name="subject text" default="POWER"}” appears in bold oversized typography as part of the architectural composition, integrated into the scene rather than simple text overlay.
+
+The background is a {argument name="background color" default="deep burgundy"} minimalist studio environment with a glossy mirrored floor reflecting the giant boxing glove sculpture and the athlete. Ultra-clean composition, dramatic negative space, premium sports fashion campaign aesthetic.
+
+Cinematic studio lighting, luxury sports editorial photography, high contrast shadows, realistic materials, polished surfaces, futuristic athletic style, Vogue Sport inspired, ultra-detailed, photorealistic, 1:1 composition.
+```
+
+**来源：** [@Nora Vale](https://x.com/NoravaleAI/status/2089359613422661857) | 2026-08-17
+
+---
+
+### 🎴 例 6341：超现实运动鞋广告：跃动的猫
+
+![超现实运动鞋广告：跃动的猫](../images/%E8%B6%85%E7%8E%B0%E5%AE%9E%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%B9%BF%E5%91%8A%EF%BC%9A%E8%B7%83%E5%8A%A8%E7%9A%84%E7%8C%AB.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为运动鞋品牌创作一张超现实的高端广告图像，采用 2:3 纵向画布。场景底部中心放置 1 个巨大的金属罗纹罐头，罐头上摆放着 1 双超大号蓝灰配色运动鞋，鞋头朝前，可见缝线、灰色覆盖层、深色内衬及米白色鞋带。从鞋子中延伸出 2 条长长的米白色鞋带，向上向外延伸如绳索般，在上方勾勒出一个巨大的跃动猫标志剪影；猫的质感如同柔软的蓝色毛圈布或毛绒地毯，呈现从左向右跃动的动态，前爪向左伸展，尾巴在右侧向上卷曲。在右下方，加入 1 个微缩的人像，一名留着长黑发的年轻女性，身穿亮色 {argument name="jacket color" default="黄色"} 夹克、白色长裤和白色运动鞋，身体向后倾斜，双手拉着右侧鞋带，仿佛在操控或牵引着这个巨大的标志。使用单色蓝色摄影棚环境，搭配无缝蓝色背景和同色系毛绒蓝色地毯，采用逼真的产品摄影布光、清晰的阴影、浅景深效果，营造出趣味的微缩模型错觉。在底部中心添加醒目的白色大写标语文字 {argument name="slogan text" default="FOREVER FASTER"}。保持构图简洁、高端且具有海报感，画面中不包含额外人物、额外鞋子、其他标志或水印。
+
+[English]
+Create a surreal high-end advertising image for a sports shoe brand on a vertical 2:3 canvas. The scene shows exactly 1 giant metallic ribbed tin can centered near the bottom, with exactly 1 pair of oversized blue-and-gray athletic sneakers sitting on top of it, the sneakers facing forward with visible stitching, gray overlays, dark inner lining, and off-white laces. From the shoes, exactly 2 long off-white shoelaces extend upward and outward like ropes, forming a massive leaping cat logo silhouette above the shoes; the cat is textured like soft blue terry cloth or fuzzy carpet, stretched in a dynamic jump from left to right with front paws reaching left and tail curling upward on the right. On the lower right, include exactly 1 small human figure, a young woman with long black hair, wearing a bright {argument name="jacket color" default="yellow"} jacket, white pants, and white sneakers, leaning backward as she pulls the right shoelace with both hands as if controlling or tethering the giant logo. Use a monochrome blue studio environment with a seamless blue background and matching fuzzy blue carpet floor, realistic product photography lighting, crisp shadows, shallow depth of field, and a playful miniature-scale illusion. Add bold white uppercase slogan text centered at the bottom reading {argument name="slogan text" default="FOREVER FASTER"}. Keep the composition clean, premium, and poster-like, with no extra people, no extra shoes, no additional logos, and no watermark.
+```
+
+**来源：** [@Nora Vale](https://x.com/NoravaleAI/status/2089355007405773017) | 2026-08-17
+
+---
+
+### 🎴 例 6353：分辨率： 纵横比：9 16 总时长：15 秒
+
+![分辨率： 纵横比：9 16 总时长：15 秒](../images/%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%9A%20%E7%BA%B5%E6%A8%AA%E6%AF%94%EF%BC%9A9%2016%20%E6%80%BB%E6%97%B6%E9%95%BF%EF%BC%9A15%20%E7%A7%92.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+为 MASKED COURIER 制作带标签的角色设计图，这是一款采用新江户海报插画风格的原创青少年屋顶跑酷游戏。创建一个干净的横向
+
+[English]
+Labeled production character design sheet for MASKED COURIER, an original young adult rooftop runner in a Neo-Edo poster illustration style. Create one clean landscape
+```
+
+**来源：** [@Hemanth](https://x.com/hmetouch/status/2089290670683111809) | 2026-08-17
+
+---
+
+### 🎴 例 6357：复古未来主义合成生态海报
+
+![复古未来主义合成生态海报](../images/%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5%E4%B8%BB%E4%B9%89%E5%90%88%E6%88%90%E7%94%9F%E6%80%81%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创作一张关于合成生态、控制论生物学和行星再生的复古未来主义科幻杂志或书籍封面海报，采用醒目的中文排版布局，并呈现粗犷的丝网印刷美学。
+
+画布：3:4 比例的竖向海报，背景为略显磨损的黑色纸张，带有做旧的墨迹纹理、粗糙边缘、半色调颗粒、套印偏差以及褪色的印刷瑕疵。
+
+视觉风格：1980 年代至 1990 年代的复古科学杂志封面，赛博朋克植物图谱，粗野主义排版，仅使用炭黑、淡冰蓝和鲜朱红 3 种颜色。使用厚重的块状字体、技术性微型标签、条形码标记、图表线条、小图标以及微妙的红/蓝偏移阴影。
+
+主体构图：海报中填充超大的淡蓝色中文标题，内容为 {argument name="main Chinese title" default="合成生态"}，以巨大的堆叠块状字符排列，占据右侧和中心位置。让标题的部分区域被植物和行星元素遮挡。在下三分之一处添加一条醒目的红色横幅，上面印有粗体黑色中文文字 {argument name="banner slogan" default="重构生命・连接系统・再生地域"}。在横幅右侧包含简短的英文文字：“REPROGRAM LIFE / CONNECT, SYSTEMS / REGENERATE EARTH”。
+
+主体细节：从右下角到左上角斜向放置一根大型合成植物枝条，共有 5 片可见叶子：左侧 2 片大型淡蓝色叶子，左上和左中附近 2 片红色叶子，以及 1 片向下延伸至行星的窄长蓝红色叶子。叶片应具有精细的脉络、半色调阴影以及红/蓝印刷噪点。在植物周围集成 9 个电路节点元素：5 个由细红线连接的小型红色圆形节点，2 个淡蓝色圆形节点，以及 2 个较大的环形节点。在右下角，添加一个淡蓝色透明地球仪或生物圈穹顶，其中包含微型森林和未来派垂直结构。在地球仪周围环绕 2 个细淡蓝色线条的轨道环。
+
+左上角杂志信息块：添加淡蓝色小字“FUTURE RESEARCH JOURNAL”，接着是一个地球仪图标，然后是“VOL.12 NO.04”和“OCT. 2037”。在其下方，包含中文文字“未来研究 / 专题刊”以及一个简短的堆叠列表：“生命工程 / 计算生物 / 自适应系统 / 行星尺度生态”。在该列中添加一个条形码、一个十字准星符号和一条简短的虚线技术线。
+
+右侧垂直标签：沿右边缘放置垂直的淡蓝色英文文字 {argument name="vertical English label" default="SYNTHETIC REGELOGY"}，并在其旁边放置四个小加号。
+
+底部信息条：在红色横幅下方，创建一个淡蓝色页脚面板，分为 4 个信息块。第 1 块包含一个植物与电路图标。第 2 块包含中文标题“生物 × 算法 × 环境”和较小的中文技术说明。第 3 块包含一个半行星/半电路的圆形图标，以及中文文字“构建可计算、可生长、可进化的地球生态系统。”和简短的英文文字“TOWARDS A COMPUTABLE, LIVING AND EVOLVING PLANETARY ECOSYSTEM.”。第 4 块包含一个条形码、一个地球仪图标和三条对角危险警示条纹。
+
+文字限制：保留中文和英文混合的视觉效果；允许出现类似旧印刷机印出的轻微字母变形，但主要标题、横幅标语、杂志标签、日期和英文说明必须清晰可读。不要添加人物、动物、照片级真实光影、光泽 3D 渲染，也不要使用黑色、淡蓝色和红色以外的额外颜色。
+
+[English]
+Goal: Create a retro-futurist sci-fi magazine or book cover poster about synthetic ecology, cybernetic biology, and planetary regeneration, using a bold Chinese typographic layout with a gritty screen-printed aesthetic.
+
+Canvas: Vertical poster in 3:4 ratio, slightly worn black paper background with distressed ink texture, rough edges, halftone grain, misregistration, and faded print imperfections.
+
+Visual style: 1980s-1990s retro science journal cover, cyberpunk botanical diagram, brutalist typography, limited 3-color palette of charcoal black, pale icy blue, and vivid vermilion red. Use heavy block letters, technical micro-labels, barcode marks, diagram lines, small icons, and subtle red/blue offset shadows.
+
+Main composition: Fill the poster with oversized pale-blue Chinese title typography reading {argument name="main Chinese title" default="合成生态"}, arranged in huge stacked block characters occupying the right and center. Let parts of the title be partially hidden behind botanical and planetary elements. Add a large red horizontal banner across the lower third with bold black Chinese text reading {argument name="banner Chinese slogan" default="重构生命・连接系统・再生地域"}. Include small English text on the right side of the banner: “REPROGRAM LIFE / CONNECT, SYSTEMS / REGENERATE EARTH”.
+
+Subject details: Place one large synthetic plant branch diagonally from lower right to upper left, with exactly 5 visible leaves: 2 large pale-blue leaves on the left, 2 red leaves near the upper and middle left, and 1 narrow blue-red leaf extending downward toward the planet. Leaves should have detailed veins, halftone shading, and red/blue print noise. Integrate exactly 9 circuit-node elements around the plant: 5 small red circular nodes connected by thin red circuit traces, 2 pale-blue circular nodes, and 2 larger ring-shaped nodes. At the lower right, add one pale-blue transparent globe or biosphere dome containing a tiny forest and futuristic vertical structures. Wrap exactly 2 orbital rings around the globe in thin pale-blue strokes.
+
+Top-left magazine information block: Add small pale-blue text reading “FUTURE RESEARCH JOURNAL”, then a globe icon, then “VOL.12  NO.04” and “OCT. 2037”. Beneath it, include Chinese text “未来研究 / 专题刊” and a short stacked list: “生命工程 / 计算生物 / 自适应系统 / 行星尺度生态”. Add one barcode, one crosshair symbol, and one short dashed technical line in this left column.
+
+Right-side vertical label: Along the right edge, place vertical pale-blue English text reading {argument name="vertical English label" default="SYNTHETIC REGELOGY"}, with four small plus signs beside it.
+
+Bottom information strip: Below the red banner, create a pale-blue footer panel divided into exactly 4 information blocks. Block 1 contains a plant-and-circuit icon. Block 2 contains Chinese headline text “生物 × 算法 × 环境” and smaller Chinese technical lines. Block 3 contains a circular half-planet / half-circuit icon and Chinese text “构建可计算、可生长、可进化的地球生态系统。” plus small English text “TOWARDS A COMPUTABLE, LIVING AND EVOLVING PLANETARY ECOSYSTEM.” Block 4 contains a barcode, a globe icon, and three diagonal hazard stripes.
+
+Text constraints: Preserve the visible mixture of Chinese and English text; allow minor imperfect letterforms as if printed from an old press, but keep the major title, banner slogan, journal label, date, and English captions readable. Do not add people, animals, photorealistic lighting, glossy 3D rendering, or extra colors beyond black, pale blue, and red.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089272588669464690) | 2026-08-17
+
+---
+
+### 🎴 例 6361：海岸生态档案海报
+
+![海岸生态档案海报](../images/%E6%B5%B7%E5%B2%B8%E7%94%9F%E6%80%81%E6%A1%A3%E6%A1%88%E6%B5%B7%E6%8A%A5.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：为海岸自然历史档案创建一个平静且信息密集型的展览海报，结合几何切片、档案式田野笔记美学以及柔和的太平洋西北地区生态影像。
+
+画布：垂直 3:4 海报，采用带有细微污渍、灰尘、印刷颗粒和丝网印刷半色调纹理的米白色陈旧纸张背景。整体氛围安静、克制、科学且具有博物馆质感。
+
+布局：使用带有重叠半透明矩形切片的不对称拼贴网格。左半部分以一张大型单色海岸风景照为主，展示岩石海岸、低浪、雾气缭绕的悬崖和深色常青树。右半部分包含开放的负空间和主标题。在标题区域添加一条水平的半透明鼠尾草绿带。通篇使用细线条的技术定位标记、虚线测量线、小十字和淡淡的网格刻度。
+
+主标题文本：在右侧使用深饱和度偏低的绿色，以高大、窄长且字间距宽阔的无衬线大写字母设置大标题：{argument name="headline text" default="COASTAL ECOLOGY ARCHIVE"}。将其排版为三行，稍微偏向中心右侧对齐，第三行穿过淡米白色的绿色带。
+
+可见文本元素：包含 10 组不同的文本：1) 左侧垂直标签“INTERTIDAL ZONE”；2) 主标题“COASTAL ECOLOGY ARCHIVE”；3) 藻类标签“ULVA LACTUCA / NATIVE / GREEN ALGAE”；4) 小型垂直红色标签“SAMPLE F”；5) 藻类样本圆圈附近的微小说明文字“fig. A.”；6) 蓝色卡片文本“DOCUMENTING / COASTAL LIFE, / PRESERVING / NATURAL MEMORY.”；7) 左下角页脚“PACIFIC NORTHWEST / FIELD ARCHIVE”；8) 底部中心索引“07”；9) 底部元数据“DATE / 05.24.2024”；10) 右下角元数据“LOCATION / OLYMPIC COAST, WA”。
+
+图像和图表元素：包含 7 个主要视觉元素：1) 左侧的大型海岸线照片；2) 左下角绿色块中分支藻类的白色植物线条画；3) 中下部被细红圆圈包围的小型圆形植物标本插图；4) 标本上方带有虚线水平网格线的简单科学折线图；5) 右侧的淡蓝色矩形便签卡；6) 右下角带有等高线地图纹理的米绿色面板，其右边缘附近有一条垂直红条；7) 右下角页脚处的一个小型红色珊瑚或海藻图标。
+
+几何构成：包含 9 个显著的色块：1) 左上角的大型垂直森林绿块；2) 左上角照片上方半透明的淡奶油色矩形；3) 上部中心附近的柔和绿色矩形；4) 上部中右侧附近的窄红色强调矩形；5) 穿过标题的宽幅半透明鼠尾草绿水平带；6) 左下角深绿色标本块；7) 最左下边缘的窄红色垂直强调条；8) 右侧的淡蓝色便签卡矩形；9) 右下角的米色地图面板。
+
+调色板：低饱和度森林绿、鼠尾草绿、海泡蓝、褪色青色、暖象牙白、炭墨色、柔和的砖红色点缀以及陈旧的米色。保持对比度柔和，避免使用明亮饱和的颜色。
+
+排版与风格：使用字间距宽阔的压缩大写技术字体、小型档案标签、细线条和极简的科学注释。海报应同时具有当代画廊展览印刷品、田野档案页面和海岸生态研究文档的质感。
+
+约束条件：保留 10 组文本、7 个主要视觉元素和 9 个显著色块的精确数量。不要添加人物、动物、徽标、二维码或超大文本。保持构图扁平、编辑化、几何化、颗粒感，并以印刷质感为主，而非照片写实风格。
+
+[English]
+Goal: Create a calm, information-dense exhibition poster for a coastal natural-history archive, combining geometric slicing, archival field-notes aesthetics, and muted Pacific Northwest ecology imagery.
+
+Canvas: Vertical 3:4 poster, off-white aged paper background with subtle stains, dust, print grain, and screen-printed halftone texture. Overall mood is quiet, restrained, scientific, and museum-like.
+
+Layout: Use an asymmetrical collage grid with overlapping translucent rectangular slices. The left half is dominated by a large monochrome coastal landscape photo showing a rocky ocean shore, low surf, misty cliffs, and dark evergreen trees. The right half contains open negative space and the main title. Add a horizontal translucent sage-green band crossing the title area. Use thin technical registration marks, dotted measurement lines, small crosses, and faint grid ticks throughout.
+
+Main title text: Set the large headline in tall, narrow, widely spaced uppercase sans-serif letters on the right side in dark desaturated green: {argument name="headline text" default="COASTAL ECOLOGY ARCHIVE"}. Stack it as three lines, aligned slightly right of center, with the third line crossing the green band in pale off-white.
+
+Visible text elements: Include exactly 10 distinct text groups: 1) vertical left label “INTERTIDAL ZONE”; 2) main title “COASTAL ECOLOGY ARCHIVE”; 3) algae label “ULVA LACTUCA / NATIVE / GREEN ALGAE”; 4) small vertical red label “SAMPLE F”; 5) tiny caption “fig. A.” near the algae specimen circle; 6) blue card text “DOCUMENTING / COASTAL LIFE, / PRESERVING / NATURAL MEMORY.”; 7) bottom-left footer “PACIFIC NORTHWEST / FIELD ARCHIVE”; 8) bottom center index “07”; 9) bottom metadata “DATE / 05.24.2024”; 10) bottom-right metadata “LOCATION / OLYMPIC COAST, WA”.
+
+Image and diagram elements: Include exactly 7 main visual elements: 1) the large coastal shoreline photo on the left; 2) a white botanical line drawing of branching algae in the lower-left green block; 3) a small circular botanical specimen illustration in the lower middle, enclosed by a thin red circle; 4) a simple scientific line graph with dotted horizontal gridlines above the specimen; 5) a pale blue rectangular note card on the right; 6) a beige-green contour-map texture panel along the lower right with a single vertical red stripe near its right edge; 7) a small red coral or seaweed icon in the bottom-right footer.
+
+Geometric composition: Include exactly 9 prominent color blocks: 1) large vertical forest-green block at upper left; 2) translucent pale cream rectangle over the photo near upper left; 3) muted green rectangle near upper center; 4) narrow red accent rectangle near upper center-right; 5) wide translucent sage-green horizontal band through the title; 6) deep green lower-left specimen block; 7) narrow red vertical accent at the far lower-left edge; 8) pale blue note-card rectangle on the right; 9) beige map panel at lower right.
+
+Color palette: Desaturated forest green, sage green, seafoam blue, faded teal, warm ivory, charcoal ink, muted brick red accents, and aged beige. Keep contrast soft and avoid bright saturated colors.
+
+Typography and style: Use condensed uppercase technical typography with generous letter spacing, small archival labels, thin rules, and minimal scientific annotations. The poster should feel like a contemporary gallery exhibition print, a field archive page, and a coastal ecology research document at once.
+
+Constraints: Preserve the exact count of 10 text groups, 7 main visual elements, and 9 prominent color blocks. Do not add people, animals, logos, QR codes, or extra large text. Keep the composition flat, editorial, geometric, grainy, and print-based rather than photorealistic.
+```
+
+**来源：** [@小小东](https://x.com/xiaoxiaodong01/status/2089254640730964192) | 2026-08-17
+
+---
+
+### 🎴 例 6366：奢华红色指甲油项目
+
+![奢华红色指甲油项目](../images/%E5%A5%A2%E5%8D%8E%E7%BA%A2%E8%89%B2%E6%8C%87%E7%94%B2%E6%B2%B9%E9%A1%B9%E7%9B%AE.jpg)
+
+**Prompt:**
+
+```text
+[中文]
+目标：创建一个精致的 4 画面项目，用于宣传 {argument name="product" default="奢华红色指甲油"}，通过相同的方形玻璃瓶、深红色漆面和金属金色瓶盖，呈现高端美妆广告的质感。
+
+画布：一张宽幅横向拼贴画，精确划分为 4 个相等的矩形框，呈 2x2 网格排列，无间隙或标题。采用超写实商业美妆摄影风格，光泽感布光，高端化妆品造型，焦点清晰，色彩以浓郁的红金两色为主。
+
+画面数量与内容：精确 4 个画面：
+1. 左上角画面：经典的魅力特写肖像，模特为年轻白皙女性，留着浅棕色/金色长发，涂着优雅的红唇，画着柔和的烟熏妆，指甲修剪整齐且涂有亮面红漆。她双手捧着红色指甲油瓶放在脸旁。背景为奢华的红色缎面垂褶。
+2. 右上角画面：对称的影棚美妆肖像，模特为年轻白皙女性，背景为深酒红色。她将红色指甲油瓶靠近脸颊，另一只手展示着修剪成杏仁形的红色长指甲，靠近唇部。强调无瑕的肌肤、红唇和金色瓶盖。
+3. 左下角画面：产品主视觉微距摄影，指甲油瓶直立在反光表面上，周围环绕着红色缎面褶皱和红宝石般的晶体。一只涂着红指甲的手悬在上方或轻触金色瓶盖，营造出奢华且富有质感的氛围。
+4. 右下角画面：生活方式应用场景，位于优雅的奶油色与金色调浴室中。一位穿着白色无袖上衣的年轻白皙金发女性正在涂抹红色指甲油。展示大理石或米色墙面、温暖的梳妆台灯光、金色固定装置以及柔和的高端水疗氛围。
+
+主体细节：指甲油瓶在所有画面中应保持一致：方形透明玻璃瓶身，鲜艳的 {argument name="nail polish color" default="红宝石色"} 漆面，高大的反光金色圆柱形瓶盖，符合高端化妆品比例。指甲应为亮面红色、杏仁形，且经过精心修剪。人物面部应显得精致、优雅，符合美妆广告标准。
+
+视觉风格：融合经典奢华化妆品广告、红色缎面魅力、微距产品摄影和令人向往的生活方式影像。运用丰富的对比度、柔和的皮肤修饰、玻璃与金属上的高光，以及温暖且修饰肤色的光线。
+
+约束条件：无文字、无 Logo、无水印、无额外产品、无变形的手部，保持产品在每个画面中居中或清晰可见，确保 4 画面项目整体保持一致的红金品牌调性。
+
+[English]
+Goal: Create a polished 4-picture storyboard advertising {argument name="product" default="luxury red nail polish"}, with the same square glass bottle, deep red lacquer, and metallic gold cap presented as a premium beauty campaign.
+
+Canvas: One wide horizontal collage divided into exactly 4 equal rectangular frames in a clean 2x2 grid, no gaps or captions. Use ultra-realistic commercial beauty photography, glossy lighting, high-end cosmetics styling, sharp focus, rich reds and golds.
+
+Frame count and content: Exactly 4 frames:
+1. Top-left frame: close-up classical glamour portrait of a young fair-skinned woman with long light brown/blonde hair, elegant red lipstick, soft smoky eye makeup, and glossy red manicured nails. She holds the red nail polish bottle beside her face with both hands. Background is luxurious draped red satin fabric.
+2. Top-right frame: symmetrical studio beauty portrait of a young fair-skinned woman against a deep burgundy background. She holds the red polish bottle near her cheek while her other hand displays long almond-shaped red nails near her lips. Emphasize flawless skin, red lipstick, and a gold bottle cap.
+3. Bottom-left frame: macro product hero shot of the nail polish bottle standing upright on reflective surface, surrounded by red satin folds and red gemstone-like crystals. A manicured hand with red nails hovers above or touches the gold cap, making the product feel luxurious and tactile.
+4. Bottom-right frame: lifestyle application scene in an elegant cream-and-gold bathroom. A young fair-skinned blonde woman in a white sleeveless top applies the red nail polish to her fingernails while holding the bottle. Show marble or beige walls, warm vanity lights, gold fixtures, and a softly premium spa atmosphere.
+
+Subject details: The bottle should remain consistent across all frames: square transparent glass base, vivid {argument name="nail polish color" default="ruby red"} lacquer, tall reflective gold cylindrical cap, premium cosmetic proportions. Nails should be glossy red, almond-shaped, and carefully manicured. Faces should look refined, elegant, and beauty-advertising ready.
+
+Visual style: Blend classical luxury cosmetics advertising, red satin glamour, macro product photography, and aspirational lifestyle imagery. Use rich contrast, soft skin retouching, specular highlights on glass and metal, and warm flattering light.
+
+Constraints: No text, no logos, no watermark, no extra products, no distorted hands, keep the product centered or clearly visible in every frame, maintain consistent red-and-gold brand identity throughout the 4-frame storyboard.
+```
+
+**来源：** [@​Maya](https://x.com/Mayaahh_h/status/2089219581693022258) | 2026-08-17
+
+---
+

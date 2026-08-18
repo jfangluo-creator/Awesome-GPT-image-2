@@ -929,6 +929,14 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6312：Mediterranean Low Tide Harbor](cat-ui.md#️-例-6312mediterranean-low-tide-harbor)
 
 - [例 6315：Gothic Raven Fashion Portrait](cat-ui.md#️-例-6315gothic-raven-fashion-portrait)
+
+- [例 6323：乡村火车站的两位参考女性](cat-ui.md#️-例-6323乡村火车站的两位参考女性)
+
+- [例 6355：Foxy App Icon Exploration 项目](cat-ui.md#️-例-6355foxy-app-icon-exploration-项目)
+
+- [例 6362：手工撕纸海报风格](cat-ui.md#️-例-6362手工撕纸海报风格)
+
+- [例 6363：Strawberry Café A B 对比 UI](cat-ui.md#️-例-6363strawberry-café-a-b-对比-ui)
 ---
 
 <a id="chart"></a>
@@ -1113,6 +1121,8 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 4924：AI 模型路由对比信息图](cat-chart.md#-例-4924ai-模型路由对比信息图)
 
 - [例 5483：民族方言信息图表美学排版](cat-chart.md#-例-5483民族方言信息图表美学排版)
+
+- [例 6375：现代高级时装角色概念设计图](cat-chart.md#-例-6375现代高级时装角色概念设计图)
 ---
 
 <a id="poster"></a>
@@ -2715,6 +2725,24 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6235：Smartphone Livestream Peacock Poster](cat-poster.md#-例-6235smartphone-livestream-peacock-poster)
 
 - [例 6253：Retro Geometric Future Culture Poster](cat-poster.md#-例-6253retro-geometric-future-culture-poster)
+
+- [例 6322：上海晨间日历海报](cat-poster.md#-例-6322上海晨间日历海报)
+
+- [例 6330：复古旅行海报系列生成器](cat-poster.md#-例-6330复古旅行海报系列生成器)
+
+- [例 6336：漫画书海报风格](cat-poster.md#-例-6336漫画书海报风格)
+
+- [例 6339：前卫拳击时尚海报](cat-poster.md#-例-6339前卫拳击时尚海报)
+
+- [例 6341：超现实运动鞋广告：跃动的猫](cat-poster.md#-例-6341超现实运动鞋广告跃动的猫)
+
+- [例 6353：分辨率： 纵横比：9 16 总时长：15 秒](cat-poster.md#-例-6353分辨率-纵横比9-16-总时长15-秒)
+
+- [例 6357：复古未来主义合成生态海报](cat-poster.md#-例-6357复古未来主义合成生态海报)
+
+- [例 6361：海岸生态档案海报](cat-poster.md#-例-6361海岸生态档案海报)
+
+- [例 6366：奢华红色指甲油项目](cat-poster.md#-例-6366奢华红色指甲油项目)
 ---
 
 <a id="photo"></a>
@@ -7307,6 +7335,52 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6258：Hyper-realistic Smartphone Triple Frame Portrait](cat-photo.md#-例-6258hyper-realistic-smartphone-triple-frame-portrait)
 
 - [例 6268：Ancient Chinese Aesthetic Portrait](cat-photo.md#-例-6268ancient-chinese-aesthetic-portrait)
+
+- [例 6325：赛博朋克霓虹忍者武士](cat-photo.md#-例-6325赛博朋克霓虹忍者武士)
+
+- [例 6326：茶杯中的微缩蒸汽船微距摄影](cat-photo.md#-例-6326茶杯中的微缩蒸汽船微距摄影)
+
+- [例 6327：焦橙色时尚编辑肖像双联画](cat-photo.md#-例-6327焦橙色时尚编辑肖像双联画)
+
+- [例 6331：概念性时间拉伸时尚摄影](cat-photo.md#-例-6331概念性时间拉伸时尚摄影)
+
+- [例 6335：柔和彩虹肖像](cat-photo.md#-例-6335柔和彩虹肖像)
+
+- [例 6337：日系时尚胶片人像](cat-photo.md#-例-6337日系时尚胶片人像)
+
+- [例 6342：夜城逃生梯人像](cat-photo.md#-例-6342夜城逃生梯人像)
+
+- [例 6343：阳光下的街头抓拍人像](cat-photo.md#-例-6343阳光下的街头抓拍人像)
+
+- [例 6346：维多利亚风格月夜肖像](cat-photo.md#-例-6346维多利亚风格月夜肖像)
+
+- [例 6347：深夜独酌肖像](cat-photo.md#-例-6347深夜独酌肖像)
+
+- [例 6349：超现实哥特恐怖肖像](cat-photo.md#-例-6349超现实哥特恐怖肖像)
+
+- [例 6351：神秘女子超凡电影感肖像](cat-photo.md#-例-6351神秘女子超凡电影感肖像)
+
+- [例 6356：韩系街头时尚咖啡馆人像](cat-photo.md#-例-6356韩系街头时尚咖啡馆人像)
+
+- [例 6358：巨型荷塘人像](cat-photo.md#-例-6358巨型荷塘人像)
+
+- [例 6359：专业个人品牌肖像集](cat-photo.md#-例-6359专业个人品牌肖像集)
+
+- [例 6360：拉斐尔前派女性艺术家绘画](cat-photo.md#-例-6360拉斐尔前派女性艺术家绘画)
+
+- [例 6365：电影感夜间车内人像](cat-photo.md#-例-6365电影感夜间车内人像)
+
+- [例 6368：裂面恐怖肖像](cat-photo.md#-例-6368裂面恐怖肖像)
+
+- [例 6369：溪流抓拍摄影](cat-photo.md#-例-6369溪流抓拍摄影)
+
+- [例 6372：分割光时尚人像](cat-photo.md#-例-6372分割光时尚人像)
+
+- [例 6377：忧郁蓝色轮廓光人像](cat-photo.md#-例-6377忧郁蓝色轮廓光人像)
+
+- [例 6380：巴黎双重曝光时尚杂志肖像](cat-photo.md#-例-6380巴黎双重曝光时尚杂志肖像)
+
+- [例 6382：黑色皮沙发上的时尚现代肖像](cat-photo.md#-例-6382黑色皮沙发上的时尚现代肖像)
 ---
 
 <a id="illustration"></a>
@@ -9036,6 +9110,22 @@ App 界面、网页设计、仪表盘、社交媒体截图、游戏 UI、直播�
 - [例 6319：Female Clown Cyborg Cyberpunk Portrait](cat-illustration.md#-例-6319female-clown-cyborg-cyberpunk-portrait)
 
 - [例 6320：Imperial Research Bunker on Volcanic Planet](cat-illustration.md#-例-6320imperial-research-bunker-on-volcanic-planet)
+
+- [例 6324：机械拆解技术 Knolling 提示词](cat-illustration.md#-例-6324机械拆解技术-knolling-提示词)
+
+- [例 6329：交叉臂碰杯交互提示词](cat-illustration.md#-例-6329交叉臂碰杯交互提示词)
+
+- [例 6334：邋遢山民插画](cat-illustration.md#-例-6334邋遢山民插画)
+
+- [例 6344：水彩 Q 版女学生剑士](cat-illustration.md#-例-6344水彩-q-版女学生剑士)
+
+- [例 6348：Bloomers 运动服插画](cat-illustration.md#-例-6348bloomers-运动服插画)
+
+- [例 6354：日本 ASMR 主播工作室](cat-illustration.md#-例-6354日本-asmr-主播工作室)
+
+- [例 6364：Laputa 机器人与摇椅的融合](cat-illustration.md#-例-6364laputa-机器人与摇椅的融合)
+
+- [例 6381：银河探索与星云](cat-illustration.md#-例-6381银河探索与星云)
 ---
 
 <a id="character"></a>
@@ -9418,6 +9508,10 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5513：欢乐夜景城市街头人像](cat-character.md#-例-5513欢乐夜景城市街头人像)
 
 - [例 6036：Realistic Teacher in Math Classroom](cat-character.md#-例-6036realistic-teacher-in-math-classroom)
+
+- [例 6350：固定角色生成策略](cat-character.md#-例-6350固定角色生成策略)
+
+- [例 6371：动漫赛博装甲角色设定图](cat-character.md#-例-6371动漫赛博装甲角色设定图)
 ---
 
 <a id="3d"></a>
@@ -10318,6 +10412,14 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 6224：Celestial Moonlit Palace Scene](cat-architecture.md#️-例-6224celestial-moonlit-palace-scene)
 
 - [例 6278：Minimalist Bedroom Body Detail Photography](cat-architecture.md#️-例-6278minimalist-bedroom-body-detail-photography)
+
+- [例 6338：嫦娥奔月：月宫奇幻景观](cat-architecture.md#️-例-6338嫦娥奔月月宫奇幻景观)
+
+- [例 6340：未来主义中式建筑融合](cat-architecture.md#️-例-6340未来主义中式建筑融合)
+
+- [例 6345：暴雨中的警用机甲对决](cat-architecture.md#️-例-6345暴雨中的警用机甲对决)
+
+- [例 6352：二十四节气编辑视觉设计](cat-architecture.md#️-例-6352二十四节气编辑视觉设计)
 ---
 
 <a id="comic"></a>
@@ -10764,6 +10866,10 @@ FACIAL REFERENCE：参考图](cat-character.md#-例-471dragon-ball-z-提示词fa
 - [例 5496：从分镜草稿生成精美漫画页面](cat-comic.md#-例-5496从分镜草稿生成精美漫画页面)
 
 - [例 5500：小龙彩虹火焰分镜故事板](cat-comic.md#-例-5500小龙彩虹火焰分镜故事板)
+
+- [例 6370：脾气暴躁的犀牛草原插画](cat-comic.md#-例-6370脾气暴躁的犀牛草原插画)
+
+- [例 6379：八格电车延误漫画](cat-comic.md#-例-6379八格电车延误漫画)
 ---
 
 <a id="brand"></a>
@@ -12199,6 +12305,22 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 6316：Modern Oriental Papercut Art](cat-brand.md#️-例-6316modern-oriental-papercut-art)
 
 - [例 6321：Twilight Sea Fairy Fortune Card](cat-brand.md#️-例-6321twilight-sea-fairy-fortune-card)
+
+- [例 6328：巨手托举都市艺术](cat-brand.md#️-例-6328巨手托举都市艺术)
+
+- [例 6332：高端 GPU 品牌拼贴画](cat-brand.md#️-例-6332高端-gpu-品牌拼贴画)
+
+- [例 6333：复古数码相机镜面自拍](cat-brand.md#️-例-6333复古数码相机镜面自拍)
+
+- [例 6367：Kinetic Motion 街头服饰专题](cat-brand.md#️-例-6367kinetic-motion-街头服饰专题)
+
+- [例 6373：复古剪贴簿拼贴画](cat-brand.md#️-例-6373复古剪贴簿拼贴画)
+
+- [例 6376：南亚庭院肖像](cat-brand.md#️-例-6376南亚庭院肖像)
+
+- [例 6378：梦幻 Y2K 数码相机镜面自拍](cat-brand.md#️-例-6378梦幻-y2k-数码相机镜面自拍)
+
+- [例 6383：夕阳湖畔的金毛寻回犬](cat-brand.md#️-例-6383夕阳湖畔的金毛寻回犬)
 ---
 
 <a id="edit"></a>
@@ -12458,6 +12580,8 @@ Logo 设计、排版字体 Logo、产品包装、周边商品、痛车、珠宝�
 - [例 5438：三机合体阵容](cat-edit.md#-例-5438三机合体阵容)
 
 - [例 5470：角色遛狗场景](cat-edit.md#-例-5470角色遛狗场景)
+
+- [例 6374：动漫哥特洛丽塔斗篷变身](cat-edit.md#-例-6374动漫哥特洛丽塔斗篷变身)
 ---
 
 <a id="fun"></a>
